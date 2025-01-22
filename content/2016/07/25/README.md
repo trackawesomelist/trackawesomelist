@@ -16,21 +16,21 @@
 
 ### HTML Widgets
 
-*   [timevis (⭐636)](https://github.com/daattali/timevis) - Create fully interactive timeline visualizations.
+*   [timevis (⭐662)](https://github.com/daattali/timevis) - Create fully interactive timeline visualizations.
 
 ### Network Analysis
 
-*   [visNetwork (⭐524)](https://github.com/datastorm-open/visNetwork) - Using vis.js library for network visualization.
+*   [visNetwork (⭐545)](https://github.com/datastorm-open/visNetwork) - Using vis.js library for network visualization.
 
 ### Reproducible Research
 
-*   [ezknitr (⭐110)](https://github.com/daattali/ezknitr) - Avoid the typical working directory pain when using 'knitr'
+*   [ezknitr (⭐113)](https://github.com/daattali/ezknitr) - Avoid the typical working directory pain when using 'knitr'
 
 ## [3. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Authentication and Authorization
 
-*   [OAuth (⭐77)](https://github.com/danielcrenna/vault/tree/master/oauth) - A very lightweight library for generating OAuth 1.0a signatures written in C#
+*   [OAuth (⭐78)](https://github.com/danielcrenna/vault/tree/master/oauth) - A very lightweight library for generating OAuth 1.0a signatures written in C#
 
 ## [4. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/README.md)
 
@@ -46,7 +46,7 @@
 
 ### Algorithms and Data structures
 
-*   [merkle\_tree (⭐97)](https://github.com/yosriady/merkle_tree) - A Merkle hash tree implementation in Elixir.
+*   [merkle\_tree (⭐96)](https://github.com/yosriady/merkle_tree) - A Merkle hash tree implementation in Elixir.
 
 ### Build Tools
 
@@ -54,13 +54,13 @@
 
 ### Examples and funny stuff
 
-*   [stranger (⭐66)](https://github.com/cazrin/stranger) - Elixir Phoenix app to chat anonymously with a randomly chosen stranger.
+*   [stranger (⭐67)](https://github.com/cazrin/stranger) - Elixir Phoenix app to chat anonymously with a randomly chosen stranger.
 
 ### Framework Components
 
 *   [graphql\_parser (⭐20)](https://github.com/graphql-elixir/graphql_parser) - An Elixir binding for [libgraphqlparser (⭐1.1k)](https://github.com/graphql/libgraphqlparser).
 *   [http\_router (⭐14)](https://github.com/sugar-framework/elixir-http-router) - HTTP Router with various macros to assist in developing your application and organizing your code.
-*   [plug\_graphql (⭐126)](https://github.com/graphql-elixir/plug_graphql) - Phoenix Plug integration for [GraphQL Elixir](http://graphql-elixir.org/).
+*   [plug\_graphql (⭐125)](https://github.com/graphql-elixir/plug_graphql) - Phoenix Plug integration for [GraphQL Elixir](http://graphql-elixir.org/).
 
 ### HTTP
 
@@ -72,10 +72,10 @@
 
 ### ORM and Datamapping
 
-*   [ecto (⭐6.1k)](https://github.com/elixir-ecto/ecto) - A database wrapper and language integrated query for Elixir.
-*   [ecto\_ordered (⭐40)](https://github.com/zovafit/ecto-ordered) - Ecto extension for ordered models.
+*   [ecto (⭐6.2k)](https://github.com/elixir-ecto/ecto) - A database wrapper and language integrated query for Elixir.
+*   [ecto\_ordered (⭐41)](https://github.com/zovafit/ecto-ordered) - Ecto extension for ordered models.
 *   [postgrex (⭐1.1k)](https://github.com/elixir-ecto/postgrex) - PostgreSQL driver for Elixir.
-*   [sql\_dust (⭐117)](https://github.com/bettyblocks/sql_dust) - Generate (complex) SQL queries using magical Elixir SQL dust.
+*   [sql\_dust (⭐118)](https://github.com/bettyblocks/sql_dust) - Generate (complex) SQL queries using magical Elixir SQL dust.
 
 ### Queue
 

@@ -22,7 +22,7 @@
 
 ### Third-Party Packages / Search
 
-*   [django-admin-search (⭐75)](https://github.com/shinneider/django-admin-search) - Modal filter for django admin.
+*   [django-admin-search (⭐80)](https://github.com/shinneider/django-admin-search) - Modal filter for django admin.
 
 ## [4. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
@@ -34,7 +34,7 @@
 
 ### Packages / Image
 
-*   [ImageScript (⭐610)](https://github.com/matmen/ImageScript) - Image processing in JavaScript, utilizing WebAssembly for performance.
+*   [ImageScript (⭐636)](https://github.com/matmen/ImageScript) - Image processing in JavaScript, utilizing WebAssembly for performance.
 
 ## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 04, 2021
 
-19 awesome lists updated today.
+20 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### GTFS Analysis Tools / Ruby
 
-*   [GTFS-to-Chart (⭐30)](https://github.com/BlinkTagInc/gtfs-to-chart) - Creates stringline charts showing all vehicles on a transit route from GTFS data.
+*   [GTFS-to-Chart (⭐32)](https://github.com/BlinkTagInc/gtfs-to-chart) - Creates stringline charts showing all vehicles on a transit route from GTFS data.
 
 ## [2. Awesome Devtools](/content/moimikey/awesome-devtools/README.md)
 
@@ -69,50 +69,55 @@
 
 ### Tools / Frameworks
 
-*   [Carrier](https://getcarrier.io/) - Continuous test execution platform with ability to perform load testing using customized JMeter and Gatling containers.
 *   [Karate Gatling](https://karatelabs.github.io/karate/karate-gatling/) - Re-use Karate API-tests as performance tests executed by Gatling.
 
-## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [7. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
+
+### Automation / Frameworks
+
+*   [Carrier](https://getcarrier.io/) - Continuous test execution platform with ability to perform load testing using customized JMeter and Gatling containers.
+
+## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### APIs, Data, and ML
 
 *   [CraftMyPDF](https://craftmypdf.com) - Auto-Generate PDF documents from reusable templates with a drop-and-drop editor and a simple API. The free plan comes with 100 PDFs/month and three templates.
 
-## [8. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [9. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / Computer Vision
 
-*   [dockerface (⭐189)](https://github.com/natanielruiz/dockerface) - Easy to install and use deep learning Faster R-CNN face detection for images and video in a docker container. **\[Deprecated]**
+*   [dockerface (⭐190)](https://github.com/natanielruiz/dockerface) - Easy to install and use deep learning Faster R-CNN face detection for images and video in a docker container. **\[Deprecated]**
 
-## [9. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
+## [10. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
 
 ### Tutorials
 
 *   [Some things to know about Lit](https://dev.to/open-wc/some-things-to-know-about-litelement-282c)
 
-## [10. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [11. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### CLI
 
-*   [FINAL CUT (⭐977)](https://github.com/gansm/finalcut) - Library for creating terminal applications with text-based widgets. \[LGPL]
+*   [FINAL CUT (⭐1k)](https://github.com/gansm/finalcut) - Library for creating terminal applications with text-based widgets. \[LGPL]
 
 ### Scientific Computing
 
-*   [preCICE (⭐726)](https://github.com/precice/precice) - Coupling library for partitioned multi-physics simulations (FSI, CHT, and more). \[LGPL] [website](https://precice.org/)
+*   [preCICE (⭐777)](https://github.com/precice/precice) - Coupling library for partitioned multi-physics simulations (FSI, CHT, and more). \[LGPL] [website](https://precice.org/)
 
-## [11. Awesome Scala Native](/content/tindzk/awesome-scala-native/README.md)
+## [12. Awesome Scala Native](/content/tindzk/awesome-scala-native/README.md)
 
 ### File Formats and Parsers
 
 *   [squiggly (⭐2)](https://github.com/edadma/squiggly) - Cross-platform template language for Scala, inspired by Liquid and Hugo templates.
 
-## [12. Awesome Security](/content/sbilly/awesome-security/README.md)
+## [13. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Web / Scanning / Pentesting
 
 *   [Keyscope (⭐376)](https://github.com/SpectralOps/keyscope) - Keyscope is an extensible key and secret validation for checking active secrets against multiple SaaS vendors built in Rust
 
-## [13. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
+## [14. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
 
 ### Infrastructure as Code Analysis / Multi-Platform
 
@@ -122,25 +127,25 @@
 
 *   [Sigstore](https://www.sigstore.dev/) - sigstore is a set of free to use and open source tools, including [fulcio (⭐622)](https://github.com/sigstore/fulcio), [cosign (⭐4.2k)](https://github.com/sigstore/cosign) and [rekor (⭐853)](https://github.com/sigstore/rekor), handling digital signing, verification and checks for provenance needed to make it safer to distribute and use open source software.
 
-## [14. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
+## [15. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
 
 ### Table of Contents / Data Pipeline
 
-*   [fluvio (⭐2.8k)](https://github.com/infinyon/fluvio) \[Rust/WASM] - Real-time programmable data streaming platform with in-line computation capabilities.
+*   [fluvio (⭐3.9k)](https://github.com/infinyon/fluvio) \[Rust/WASM] - Real-time programmable data streaming platform with in-line computation capabilities.
 
-## [15. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
+## [16. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### Open Source / Other
 
 *   [VIR (⭐156)](https://github.com/TommyX12/VIR) - Intelligent time manager with automatic planning.
 
-## [16. Awesome Minecraft](/content/bs-community/awesome-minecraft/README.md)
+## [17. Awesome Minecraft](/content/bs-community/awesome-minecraft/README.md)
 
 ### Mods / Performance
 
 *   [OptiFabric](https://www.curseforge.com/minecraft/mc-mods/optifabric) - A Fabric mod to allow Optifine to run using Fabric loader.
 
-## [17. Public Apis](/content/public-apis/public-apis/README.md)
+## [18. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Anime
 
@@ -196,8 +201,6 @@
 
   CORS: Yes
 
-  Call this API: 
-
 
 - API: [Chainlink](https://chain.link/developer-resources)
 
@@ -208,8 +211,6 @@
   HTTPS: Yes
 
   CORS: Unknown
-
-  Call this API: 
 
 
 - API: [Covalent](https://www.covalenthq.com/docs/api/)
@@ -222,8 +223,6 @@
 
   CORS: Unknown
 
-  Call this API: 
-
 
 - API: [Nownodes](https://nownodes.io/)
 
@@ -234,8 +233,6 @@
   HTTPS: Yes
 
   CORS: Unknown
-
-  Call this API: 
 
 
 
@@ -312,7 +309,7 @@
 
   CORS: Unknown
 
-  Call this API: 
+  : 
 
 
 
@@ -447,7 +444,7 @@
 
 
 
-## [18. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+## [19. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
 ### Algorithms & Data Structures
 
@@ -466,7 +463,7 @@
 
 *   [Cryptography](https://en.wikibooks.org/wiki/Cryptography) - Wikibooks (HTML) *(:construction: in process)*
 
-## [19. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
+## [20. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
 
 ### Applications
 

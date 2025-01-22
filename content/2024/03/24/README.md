@@ -20,19 +20,19 @@
 
 ## [3. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
-### 2D / Godot 3.2+
+### 2D / Godot 3
 
-*   [Flappy Race (⭐25)](https://github.com/Jibby-Games/Flappy-Race) - A 2D online multiplayer game inspired by Flappy Bird and Mario Kart for desktop and HTML5.
+*   [Flappy Race (⭐28)](https://github.com/Jibby-Games/Flappy-Race) - A 2D online multiplayer game inspired by Flappy Bird and Mario Kart for desktop and HTML5.
 
 ## [4. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [loganswartz/sunburn.nvim (⭐14)](https://github.com/loganswartz/sunburn.nvim) - A colorscheme sitting somewhere between pastels and solarized, emphasizing readability and hue uniformity above all else.
+*   [loganswartz/sunburn.nvim (⭐17)](https://github.com/loganswartz/sunburn.nvim) - A colorscheme sitting somewhere between pastels and solarized, emphasizing readability and hue uniformity above all else.
 
 ### Colorscheme Creation / Diagnostics
 
-*   [loganswartz/polychrome.nvim (⭐16)](https://github.com/loganswartz/polychrome.nvim) - A colorscheme micro-framework, with support for specifying colors directly in many different formats (sRGB, HSL, Oklab, XYZ and more, with intelligent chroma clipping), live editing preview, and a simple DSL.
+*   [loganswartz/polychrome.nvim (⭐22)](https://github.com/loganswartz/polychrome.nvim) - A colorscheme micro-framework, with support for specifying colors directly in many different formats (sRGB, HSL, Oklab, XYZ and more, with intelligent chroma clipping), live editing preview, and a simple DSL.
 
 ## [5. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md)
 
@@ -42,7 +42,7 @@
 
 ### Haskell Libraries
 
-*   [Haskoin-core (⭐521)](https://github.com/haskoin/haskoin-core) - Haskoin Core is a library of Bitcoin and Bitcoin Cash functions written in Haskell.
+*   [Haskoin-core (⭐525)](https://github.com/haskoin/haskoin-core) - Haskoin Core is a library of Bitcoin and Bitcoin Cash functions written in Haskell.
 
 ### Read
 

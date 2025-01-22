@@ -20,8 +20,8 @@
 
 ### Computer Science
 
-*   [Computer Science I](https://cse.unl.edu/~cbourke/ComputerScienceOne.pdf) - Chris Bourke (PDF)
-*   [Computer Science II](https://cse.unl.edu/~cbourke/ComputerScienceTwo.pdf) - Chris Bourke (PDF)
+*   [Computer Science I](https://cse.unl.edu/~cbourke/ComputerScienceOne.pdf) - Chris Bourke (PDF) (CC BY-SA)
+*   [Computer Science II](https://cse.unl.edu/~cbourke/ComputerScienceTwo.pdf) - Chris Bourke (PDF) (CC BY-SA)
 
 ### Computer Vision
 
@@ -47,23 +47,23 @@
 
 ### Apps / Games
 
-*   [GameHub (⭐2.1k)](https://github.com/tkashkin/GameHub) - A unified library for all your games.
+*   [GameHub (⭐2.3k)](https://github.com/tkashkin/GameHub) - A unified library for all your games.
 
 ### Apps / Productivity
 
-*   [TextSnatcher (⭐533)](https://github.com/RajSolai/TextSnatcher) - Copy text from Images with ease.
+*   [TextSnatcher (⭐1.3k)](https://github.com/RajSolai/TextSnatcher) - Copy text from Images with ease.
 
 ## [5. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
 ### Sensors / Accelerometer Digital
 
-*   [MicroPython-LIS3DH (⭐62)](https://github.com/tinypico/tinypico-micropython/tree/master/lis3dh%20library) - I2C driver for LIS3DH 3-axis accelerometer.
+*   [MicroPython-LIS3DH (⭐64)](https://github.com/tinypico/tinypico-micropython/tree/master/lis3dh%20library) - I2C driver for LIS3DH 3-axis accelerometer.
 
 ## [6. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Modules / Web framework
 
-*   [wren (⭐75)](https://github.com/zaiste/wren) - A small, but powerful HTTP library with a functional spin for creating composable web apps, built for convenience and simplicity
+*   [wren (⭐77)](https://github.com/zaiste/wren) - A small, but powerful HTTP library with a functional spin for creating composable web apps, built for convenience and simplicity
 
 ## [7. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -85,7 +85,7 @@
 
 ### Audio and Video Tools / File Sharing
 
-*   [Aegisub (⭐3k)](https://github.com/Aegisub/Aegisub) - Free, cross-platform open source tool for creating and modifying subtitles. Aegisub makes it quick and easy to time subtitles to audio, and features many powerful tools for styling them, including a built-in real-time video preview. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Aegisub/Aegisub/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Aegisub (⭐3.2k)](https://github.com/Aegisub/Aegisub) - Free, cross-platform open source tool for creating and modifying subtitles. Aegisub makes it quick and easy to time subtitles to audio, and features many powerful tools for styling them, including a built-in real-time video preview. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Aegisub/Aegisub/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [LMMS](https://lmms.io) - Formerly "Linux MultiMedia Studio", LMMS is a powerful Digital Audio Workstation designed like FL Studio (formerly Fruity Loops). [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/lmms/lmms) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / Menu Bar Tools
@@ -94,15 +94,11 @@
 
 ### Utilities / Quality of Life Improvements
 
-*   [Grayscale Mode (⭐92)](https://github.com/rkbhochalya/grayscale-mode) - An open source macOS app that lets you quickly toggle grayscale filter right from your menu bar or using a keyboard shortcut (⌥⌘G). [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/rkbhochalya/grayscale-mode) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Grayscale Mode (⭐96)](https://github.com/rkbhochalya/grayscale-mode) - An open source macOS app that lets you quickly toggle grayscale filter right from your menu bar or using a keyboard shortcut (⌥⌘G). [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/rkbhochalya/grayscale-mode) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / System Related Tools
 
 *   [Core Tunnel](https://codinn.com/tunnel/) - Application for managing SSH connections. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/core-tunnel/id1354318707)
-
-### Remote Login Software / System Related Tools
-
-*   [Microsoft Remote Desktop](https://apps.apple.com/us/app/microsoft-remote-desktop/id1295203466) - Connect to a remote PC or virtual apps and desktops made available by your admin. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [8. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
 
@@ -120,7 +116,7 @@
 
 *   [The Heilmeier Catechism](https://www.darpa.mil/work-with-us/heilmeier-catechism) - A simple set of question which helped DARPA evaluates research programs to generate big rewards by taking big risks.
 
-### Agile / Tickets
+### Agile / Delivery
 
 *   [Recurring opinions or productive improvements — what agile teams actually discuss in retrospectives](https://link.springer.com/article/10.1007/s10664-016-9464-2) - An 3-years analysis of a team's retrospectives, with dire conclusions: people keep forgetting what they already learned, keep discussing unsolveable problems out of their control, and keep debating opinions based on biased interpretations or incorrect understandings.
 
@@ -140,7 +136,7 @@
 
 ### OAuth2 & OpenID / Other tools
 
-*   [Logto (⭐8.2k)](https://github.com/logto-io/logto) - Build the sign-in, auth, and user identity with this OIDC-based identity service.
+*   [Logto (⭐8.6k)](https://github.com/logto-io/logto) - Build the sign-in, auth, and user identity with this OIDC-based identity service.
 
 ### SAML / Other tools
 

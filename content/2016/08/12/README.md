@@ -48,11 +48,11 @@
 
 ### Documentation
 
-*   [phoenix\_swagger (⭐687)](https://github.com/xerions/phoenix_swagger) - Provides swagger integration to the Phoenix framework.
+*   [phoenix\_swagger (⭐699)](https://github.com/xerions/phoenix_swagger) - Provides swagger integration to the Phoenix framework.
 
 ### Images
 
-*   [ex\_image\_info (⭐95)](https://github.com/rNoz/ex_image_info) - An Elixir library to parse images (binaries) and get the dimensions, detected mime-type and overall validity for a set of image formats.
+*   [ex\_image\_info (⭐97)](https://github.com/rNoz/ex_image_info) - An Elixir library to parse images (binaries) and get the dimensions, detected mime-type and overall validity for a set of image formats.
 
 ## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -119,7 +119,7 @@ git log --author='_Your_Name_Here_' --pretty=tformat: --numstat | awk '{ add += 
 
 ### JavaScript libs / Programming fonts with ligatures
 
-*   [Typeset.js (⭐2.4k)](https://github.com/davidmerfield/typeset) - HTML pre-processor for web typography
+*   [Typeset.js (⭐2.6k)](https://github.com/davidmerfield/typeset) - HTML pre-processor for web typography
 
 ### GitHub Showcases / Event listeners for fonts loading on a web page
 

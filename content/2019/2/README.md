@@ -21,7 +21,7 @@
 
 ## [3. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
-### On-line courses / Ruby
+### Courses
 
 *   [Open Transit Data Toolkit](http://transitdatatoolkit.com/) - A series of lessons to help people utilize open transit data.
 
@@ -88,7 +88,7 @@
 
 ### Bean Mapping
 
-*   [dOOv (⭐89)](https://github.com/doov-io/doov) - Provides fluent API for typesafe domain model validation and mapping. It uses annotations, code generation and a type safe DSL to make bean validation and mapping fast and easy.
+*   [dOOv (⭐92)](https://github.com/doov-io/doov) - Provides fluent API for typesafe domain model validation and mapping. It uses annotations, code generation and a type safe DSL to make bean validation and mapping fast and easy.
 
 ## [7. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/week/README.md)
 
@@ -101,7 +101,7 @@
     [Repo (⭐30k)](https://github.com/foundation/foundation-sites)
     \| #SCSS
 
-### Toolkits
+### Stalled Development
 
 *   [**Bourbon**](https://www.bourbon.io/) - Lightweight Sass tool set.\
     ![](https://img.shields.io/github/stars/thoughtbot/bourbon.svg?style=social\&label=Star)
@@ -120,7 +120,7 @@
 
 ### Boilerplates
 
-*   [Next.js App with AWS Lambda (⭐57)](https://github.com/mattdamon108/nextjs-with-lambda) - Deploy a Next.js App to AWS Lambda using Apex Up.
+*   [Next.js App with AWS Lambda (⭐59)](https://github.com/mattdamon108/nextjs-with-lambda) - Deploy a Next.js App to AWS Lambda using Apex Up.
 
 ## [10. Awesome Maintainers](/content/nayafia/awesome-maintainers/week/README.md)
 
@@ -180,15 +180,15 @@
 
 ### Animation
 
-*   [Comets (⭐611)](https://github.com/cruisediary/Comets) - Animating Particles.
+*   [Comets (⭐612)](https://github.com/cruisediary/Comets) - Animating Particles.
 
 ### Audio
 
-*   [Soundable (⭐91)](https://github.com/ThXou/Soundable) - Soundable allows you to play sounds, single and in sequence, in a very easy way.
+*   [Soundable (⭐93)](https://github.com/ThXou/Soundable) - Soundable allows you to play sounds, single and in sequence, in a very easy way.
 
 ### Colors
 
-*   [SwiftGen-Colors (⭐9.2k)](https://github.com/SwiftGen/SwiftGen#uicolor) - A tool to auto-generate `enums` for your `UIColor` constants.
+*   [SwiftGen-Colors (⭐9.3k)](https://github.com/SwiftGen/SwiftGen#uicolor) - A tool to auto-generate `enums` for your `UIColor` constants.
 
 ### JSON
 
@@ -197,25 +197,25 @@
 
 ### Dependency Injection
 
-*   [Pure (⭐375)](https://github.com/devxoul/Pure) - A way to do a dependency injection without a DI container.
+*   [Pure (⭐378)](https://github.com/devxoul/Pure) - A way to do a dependency injection without a DI container.
 
 ### Events
 
-*   [PMKVObserver (⭐709)](https://github.com/postmates/PMKVObserver/) - Modern thread-safe and type-safe key-value observing.
+*   [PMKVObserver (⭐708)](https://github.com/postmates/PMKVObserver/) - Modern thread-safe and type-safe key-value observing.
 *   [RxSwift (⭐24k)](https://github.com/ReactiveX/RxSwift) - Microsoft Reactive Extensions (Rx).
 
 ### Images / Barcode
 
-*   [GPUImage 2 (⭐4.8k)](https://github.com/BradLarson/GPUImage2) - GPUImage 2 is a BSD-licensed framework for GPU-accelerated video and image processing.
+*   [GPUImage 2 (⭐4.9k)](https://github.com/BradLarson/GPUImage2) - GPUImage 2 is a BSD-licensed framework for GPU-accelerated video and image processing.
 *   [GPUImage 3 (⭐2.7k)](https://github.com/BradLarson/GPUImage3) - GPUImage 3 is a BSD-licensed framework for GPU-accelerated video and image processing using Metal.
 
 ### Layout / Barcode
 
-*   [PinLayout (⭐2.3k)](https://github.com/layoutBox/PinLayout) - Fast Views layouting without auto layout. No magic, pure code, full control and blazing fast. Concise syntax, intuitive, readable & chainable. \[iOS/macOS/tvOS]
+*   [PinLayout (⭐2.4k)](https://github.com/layoutBox/PinLayout) - Fast Views layouting without auto layout. No magic, pure code, full control and blazing fast. Concise syntax, intuitive, readable & chainable. \[iOS/macOS/tvOS]
 
 ### Network / Barcode
 
-*   [PMHTTP (⭐503)](https://github.com/postmates/PMHTTP) - HTTP framework with a focus on REST and JSON.
+*   [PMHTTP (⭐504)](https://github.com/postmates/PMHTTP) - HTTP framework with a focus on REST and JSON.
 
 ### Socket / Barcode
 
@@ -239,20 +239,20 @@
 
 ### Utility / Barcode
 
-*   [DifferenceKit (⭐3.5k)](https://github.com/ra1028/DifferenceKit) - 💻 A fast and flexible O(n) difference algorithm framework.
-*   [FluentQuery (⭐148)](https://github.com/MihaelIsaev/FluentQuery) :penguin: - Powerful and easy to use Query Builder.
+*   [DifferenceKit (⭐3.6k)](https://github.com/ra1028/DifferenceKit) - 💻 A fast and flexible O(n) difference algorithm framework.
+*   [FluentQuery (⭐149)](https://github.com/MihaelIsaev/FluentQuery) :penguin: - Powerful and easy to use Query Builder.
 *   [SwifterSwift (⭐14k)](https://github.com/SwifterSwift/SwifterSwift) - A handy collection of more than 500 native extensions to boost your productivity.
-*   [ZamzamKit (⭐268)](https://github.com/ZamzamInc/ZamzamKit) - A collection of micro utilities and extensions for Standard Library, Foundation and UIKit.
+*   [ZamzamKit (⭐270)](https://github.com/ZamzamInc/ZamzamKit) - A collection of micro utilities and extensions for Standard Library, Foundation and UIKit.
 
 ### Video / Barcode
 
-*   [SwiftFFmpeg (⭐498)](https://github.com/sunlubo/SwiftFFmpeg) - A wrapper for the FFmpeg C API.
+*   [SwiftFFmpeg (⭐522)](https://github.com/sunlubo/SwiftFFmpeg) - A wrapper for the FFmpeg C API.
 
 ## [14. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Tools / XML
 
-*   [denopkg (⭐240)](https://github.com/denopkg/denopkg.com) - An easier way to use code from GitHub in your Deno project.
+*   [denopkg (⭐241)](https://github.com/denopkg/denopkg.com) - An easier way to use code from GitHub in your Deno project.
 
 ### Resources in Other Languages / Japanese
 
@@ -293,7 +293,7 @@
 
 ### Others / Useful References
 
-*   [Software Testing Interview Tool (⭐42)](https://github.com/TheJambo/ToDoInterviewTest) - A very buggy To Do List to facilitate face to face interviews.
+*   [Software Testing Interview Tool (⭐45)](https://github.com/TheJambo/ToDoInterviewTest) - A very buggy To Do List to facilitate face to face interviews.
 
 ## [21. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
 
@@ -395,7 +395,7 @@
 
 ### Machine Learning Libraries / Deep learning
 
-*   [tensor\_stream (⭐509)](https://github.com/jedld/tensor_stream) -
+*   [tensor\_stream (⭐506)](https://github.com/jedld/tensor_stream) -
     Ground-up and standalone reimplementation of TensorFlow for Ruby.
 
 ### Articles, Posts, Talks, and Presentations / Vector search
@@ -456,7 +456,7 @@
 
 ### Testing / Misc
 
-*   [MailHog (⭐12k)](https://github.com/mailhog/MailHog) A local fake SMTP server (based on Go).
+*   [MailHog (⭐14k)](https://github.com/mailhog/MailHog) A local fake SMTP server (based on Go).
 *   [MailCatcher](https://mailcatcher.me/) A local fake SMTP server (based on Ruby).
 
 ## [31. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
@@ -469,7 +469,7 @@
 
 ### State management / Redux / ELM / Dependency Injection
 
-*   [Flux (⭐372)](https://github.com/google/flutter_flux) <!--stargazers:google/flutter_flux--> - Implementation of the Flux framework by Google
+*   [Flux (⭐374)](https://github.com/google/flutter_flux) <!--stargazers:google/flutter_flux--> - Implementation of the Flux framework by Google
 
 ### Top / Game Engine resources
 
@@ -498,7 +498,7 @@
 
 ### Examples / Templates
 
-*   [how-to-export-cpp-library (⭐292)](https://github.com/robotology/how-to-export-cpp-library) - An OS-agnostic template project for exporting either shared, static or header-only C++ library, sporting ctest and CI support, written in plain CMake with line-by-line tutorial comments. [`[MIT]`](https://opensource.org/licenses/MIT)
+*   [how-to-export-cpp-library (⭐360)](https://github.com/robotology/how-to-export-cpp-library) - An OS-agnostic template project for exporting either shared, static or header-only C++ library, sporting ctest and CI support, written in plain CMake with line-by-line tutorial comments. [`[MIT]`](https://opensource.org/licenses/MIT)
 
 ## [35. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
@@ -514,7 +514,7 @@
 
 ### Image Processing
 
-*   [libjpeg-turbo (⭐3.7k)](https://github.com/libjpeg-turbo/libjpeg-turbo) - A JPEG image codec that uses SIMD instructions to accelerate baseline JPEG encoding and decoding. \[IJG & BSD-3-Clause & zlib] [website](https://libjpeg-turbo.org/)
+*   [libjpeg-turbo (⭐3.8k)](https://github.com/libjpeg-turbo/libjpeg-turbo) - A JPEG image codec that uses SIMD instructions to accelerate baseline JPEG encoding and decoding. \[IJG & BSD-3-Clause & zlib] [website](https://libjpeg-turbo.org/)
 
 ### Math
 
@@ -522,7 +522,7 @@
 
 ### Memory Allocation
 
-*   [Boehm GC (⭐2.9k)](https://github.com/ivmai/bdwgc) - Conservative garbage collector for C and C++. \[similar to X11] [website](http://www.hboehm.info/gc/)
+*   [Boehm GC (⭐3.1k)](https://github.com/ivmai/bdwgc) - Conservative garbage collector for C and C++. \[similar to X11] [website](http://www.hboehm.info/gc/)
 
 ## [37. Awesome Ava](/content/avajs/awesome-ava/week/README.md)
 
@@ -534,7 +534,7 @@
 
 ### Algorithms and Data structures
 
-*   [graphlb (⭐19)](https://github.com/mettuaditya/graphlb) - Collection of graph datastructure and algorithms
+*   [graphlb (⭐20)](https://github.com/mettuaditya/graphlb) - Collection of graph datastructure and algorithms
 
 ### Testing
 
@@ -544,11 +544,11 @@
 
 ### C++ / General-Purpose Machine Learning
 
-*   [Feast (⭐5.4k)](https://github.com/gojek/feast) - A feature store for the management, discovery, and access of machine learning features. Feast provides a consistent view of feature data for both model training and model serving.
+*   [Feast (⭐5.7k)](https://github.com/gojek/feast) - A feature store for the management, discovery, and access of machine learning features. Feast provides a consistent view of feature data for both model training and model serving.
 
 ### Python / General-Purpose Machine Learning
 
-*   [PyOD (⭐8.4k)](https://github.com/yzhao062/pyod) -> Python Outlier Detection, comprehensive and scalable Python toolkit for detecting outlying objects in multivariate data. Featured for Advanced models, including Neural Networks/Deep Learning and Outlier Ensembles.
+*   [PyOD (⭐8.7k)](https://github.com/yzhao062/pyod) -> Python Outlier Detection, comprehensive and scalable Python toolkit for detecting outlying objects in multivariate data. Featured for Advanced models, including Neural Networks/Deep Learning and Outlier Ensembles.
 
 ---
 

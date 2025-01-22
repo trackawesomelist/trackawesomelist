@@ -16,7 +16,7 @@
 
 ### Papers / 2024
 
-*   [LLMs hallucinate graphs too: a structural perspective](https://arxiv.org/abs/2409.00159) - (ArXiv) *Queries LLMs for known graphs and studies topological hallucinations. Proposes a structural hallucination rank.*
+*   [LLMs hallucinate graphs too: a structural perspective](https://arxiv.org/abs/2409.00159) - (complex networks) *Queries LLMs for known graphs and studies topological hallucinations. Proposes a structural hallucination rank.*
 
 ## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -32,91 +32,65 @@
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [@yoichiro/vite-plugin-handlebars (⭐1)](https://github.com/yoichiro/vite-plugin-handlebars) - Import of Handlebars templates `.hbs` as ES Modules.
+*   [@yoichiro/vite-plugin-handlebars (⭐5)](https://github.com/yoichiro/vite-plugin-handlebars) - Import of Handlebars templates `.hbs` as ES Modules.
 
 ### PHP / Community
 
-*   [php-vitelinker (⭐0)](https://github.com/Osteoporosis/php-vitelinker) - A CLI tool that generates includable PHP files after building bundles.
+*   [php-vitelinker (⭐1)](https://github.com/Osteoporosis/php-vitelinker) - A CLI tool that generates includable PHP files after building bundles.
 
 ## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [qaptoR-nvim/chocolatier.nvim (⭐1)](https://github.com/qaptoR-nvim/chocolatier.nvim) - An espresso/kimbie inspired chocolatey theme adapted from ellisonleao/gruvbox.nvim theme as a code template.
+*   [qaptoR-nvim/chocolatier.nvim (⭐14)](https://github.com/qaptoR-nvim/chocolatier.nvim) - An espresso/kimbie inspired chocolatey theme adapted from ellisonleao/gruvbox.nvim theme as a code template.
 
 ### Neovim Lua Development / Diagnostics
 
-*   [OXY2DEV/helpview.nvim (⭐135)](https://github.com/OXY2DEV/helpview.nvim) - Decorations for `vimdoc/help` files.
+*   [OXY2DEV/helpview.nvim (⭐228)](https://github.com/OXY2DEV/helpview.nvim) - Decorations for `vimdoc/help` files.
 
-## [6. Awesome Php](/content/ziadoz/awesome-php/README.md)
+## [6. Awesome Windows](/content/0pandadev/awesome-windows/README.md)
+
+### Audio
+
+*   [musikcube](https://musikcube.com/) - Plays music through terminal. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/clangen/musikcube)
+
+## [7. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Table of Contents / Files
 
-*   [Parquet (⭐17)](https://github.com/flow-php/parquet) - PHP implementation of Parquet file format
+*   [Parquet (⭐29)](https://github.com/flow-php/parquet) - PHP implementation of Parquet file format
 
-## [7. Awesome Go](/content/avelino/awesome-go/README.md)
+## [8. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Error Handling
 
-*   [multierr (⭐994)](https://github.com/uber-go/multierr) - Package for representing a list of errors as a single error.
+*   [multierr (⭐1.1k)](https://github.com/uber-go/multierr) - Package for representing a list of errors as a single error.
 
 ### File Handling
 
-*   [go-wkhtmltopdf (⭐1k)](https://github.com/SebastiaanKlippert/go-wkhtmltopdf) - A package to convert an HTML template to a PDF file.
+*   [go-wkhtmltopdf (⭐1.1k)](https://github.com/SebastiaanKlippert/go-wkhtmltopdf) - A package to convert an HTML template to a PDF file.
 
 ### Tutorials / Libraries for creating HTTP middlewares
 
 *   [golang-examples (⭐1.6k)](https://github.com/SimonWaldherr/golang-examples) - Many examples to learn Golang.
 
-## [8. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [9. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Development tools / Web Servers
 
-*   [cloudflare/foundations (⭐1.2k)](https://github.com/cloudflare/foundations) - Foundations is a modular Rust library, designed to help scale programs for distributed, production-grade systems.
+*   [cloudflare/foundations (⭐1.4k)](https://github.com/cloudflare/foundations) - Foundations is a modular Rust library, designed to help scale programs for distributed, production-grade systems.
 
 ### Libraries / Network programming
 
 *   Zenoh
-    *   [eclipse-zenoh-flow/zenoh-flow (⭐87)](https://github.com/eclipse-zenoh-flow/zenoh-flow) - A declarative framework for computations that span from the *Cloud* to the *Thing*
-    *   [eclipse-zenoh/zenoh (⭐1.4k)](https://github.com/eclipse-zenoh/zenoh) - Zero Overhead Network Protocol
+    *   [eclipse-zenoh-flow/zenoh-flow (⭐96)](https://github.com/eclipse-zenoh-flow/zenoh-flow) - A declarative framework for computations that span from the *Cloud* to the *Thing*
+    *   [eclipse-zenoh/zenoh (⭐1.6k)](https://github.com/eclipse-zenoh/zenoh) - Zero Overhead Network Protocol
 
-## [9. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [10. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Log / Runner
 
 *   [LogTape](https://logtape.org/) - Simple logging library with zero dependencies for Deno, Node.js, Bun, browsers, and edge functions.
-
-## [10. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
-
-### Projects / API Management
-
-*   [Gravitee.io API Management (⭐172) (⭐172)](https://github.com/gravitee-io/gravitee-api-management) - A flexible, lightweight, and open-source API management solution that provides comprehensive API management capabilities and helps you manage your APIs with ease.
-
-### Projects / API Design
-
-*   [OpenAPI Diff (⭐802) (⭐802)](https://github.com/OpenAPITools/openapi-diff) - Compare OpenAPI specs with version control and visualize the differences in HTML or Markdown format.
-*   [OpenAPI Style Validator (⭐202) (⭐202)](https://github.com/OpenAPITools/openapi-style-validator) - Ensure that your OpenAPI specs meet your organization's standards with this flexible and customizable style validator.
-
-### Projects / API Documentation
-
-*   [DapperDox (⭐399) (⭐399)](https://github.com/DapperDox/dapperdox) - An open-source API documentation generator and server for OpenAPI/Swagger specifications, with customizable documentation, automated updates, and easy sharing.
-
-### Projects / API Gateway
-
-*   [Apache ShenYu (⭐8.4k) (⭐8.4k)](https://github.com/apache/shenyu) - A Java native API Gateway for service proxy, protocol conversion and API governance.
-
-### Projects / ETL
-
-*   [Pentaho Data Integration (⭐7.6k) (⭐7.6k)](https://github.com/pentaho/pentaho-kettle) - A user-friendly platform that enables users to ingest, blend, cleanse, and prepare diverse data from any source with visual tools, eliminating the need for coding and complexity.
-
-### Projects / Workflow engine
-
-*   [Bonita (⭐151) (⭐151)](https://github.com/bonitasoft/bonita-engine) - An open-source BPMN engine that comes with a designer and optional development environment, making it easier to build and automate complex business processes.
-*   [Elsa Core (⭐6.2k) (⭐6.2k)](https://github.com/elsa-workflows/elsa-core) - A library that enables workflow execution in any .NET Core application, making it easier to automate business processes in .NET environments.
-
-### Resources / Structure and Validation
-
-*   [JSON Schema (⭐3.6k) (⭐3.6k)](https://github.com/json-schema-org/json-schema-spec) - A powerful tool for validating the structure of JSON data. JSON Schema enables developers to ensure that JSON data conforms to a specific structure, making it easier to process and manipulate.
 
 ## [11. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
 

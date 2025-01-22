@@ -16,7 +16,7 @@
 
 ### Plotting / Third-party APIs
 
-*   [eazy-gnuplot (⭐61)](https://github.com/guicho271828/eazy-gnuplot) - a
+*   [eazy-gnuplot (⭐63)](https://github.com/guicho271828/eazy-gnuplot) - a
     lispy, structure-less Gnuplot library. With its
     [cookbook](http://guicho271828.github.io/eazy-gnuplot/). [LLGPL](http://opensource.franz.com/preamble.html)
 
@@ -30,7 +30,7 @@
 
 ### Authentication
 
-*   [SpotifyLogin (⭐347)](https://github.com/spotify/SpotifyLogin) - Authenticate with the Spotify API.
+*   [SpotifyLogin (⭐348)](https://github.com/spotify/SpotifyLogin) - Authenticate with the Spotify API.
 
 ---
 

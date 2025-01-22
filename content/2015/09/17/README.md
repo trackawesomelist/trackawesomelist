@@ -16,30 +16,30 @@
 ### Miscellaneous Resources / Paid Books
 
 *   [jQuery Foundation](https://jquery.org/) - Providing jQuery and many other projects home and support.
-*   [TodoMVC (⭐28k)](https://github.com/tastejs/todomvc) - Helps you select JavaScript framework. Same Todo application created in multiple popular JavaScript MV\* frameworks including [jQuery](http://todomvc.com/examples/jquery/).
+*   [TodoMVC (⭐29k)](https://github.com/tastejs/todomvc) - Helps you select JavaScript framework. Same Todo application created in multiple popular JavaScript MV\* frameworks including [jQuery](http://todomvc.com/examples/jquery/).
 
 ### Modals and Popups / Paid Books
 
-*   [animatedModal.js (⭐974)](https://github.com/joaopereirawd/animatedModal.js) - Plugin for creating fullscreen modals with CSS3 transitions. You can use the transitions from `animate.css` or create your own.
+*   [animatedModal.js (⭐962)](https://github.com/joaopereirawd/animatedModal.js) - Plugin for creating fullscreen modals with CSS3 transitions. You can use the transitions from `animate.css` or create your own.
 *   [Avgrund (⭐1.8k)](https://github.com/voronianski/jquery.avgrund.js) - Plugin for your modal boxes and popups with new concept of showing depth between popup and page.
 *   [Bootstrap Modal (⭐5k)](https://github.com/jschr/bootstrap-modal) - Extends the default Bootstrap Modal class. Responsive, stackable and ajax.
-*   [jBox (⭐1.3k)](https://github.com/StephanWagner/jBox) - Powerful and flexible plugin which takes care of all modal windows, tooltips and notices.
-*   [jQuery Modal (⭐2.5k)](https://github.com/kylefox/jquery-modal) - Simple and lightweight method of displaying modal windows.
-*   [jQuery Popup Overlay (⭐515)](https://github.com/vast-engineering/jquery-popup-overlay) - Responsive and accessible modal windows and tooltips.
+*   [jBox (⭐1.4k)](https://github.com/StephanWagner/jBox) - Powerful and flexible plugin which takes care of all modal windows, tooltips and notices.
+*   [jQuery Modal (⭐2.6k)](https://github.com/kylefox/jquery-modal) - Simple and lightweight method of displaying modal windows.
+*   [jQuery Popup Overlay (⭐508)](https://github.com/vast-engineering/jquery-popup-overlay) - Responsive and accessible modal windows and tooltips.
 *   [Magnific Popup (⭐11k)](https://github.com/dimsemenov/Magnific-Popup) - Fast, light and responsive lightbox plugin.
 *   [vex (⭐6.9k)](https://github.com/hubspot/vex) - A modern dialog library which is highly configurable and easy to style.
 
 ### Looking for more lists like this? / Paid Books
 
 *   Awesome lists:
-    *   [awesome (⭐223k)](https://github.com/sindresorhus/awesome) - Awesome lists
-    *   [awesome-all (⭐179)](https://github.com/bradoyler/awesome-all) - Awesome lists
-    *   [emijrp/awesome-awesome (⭐2.2k)](https://github.com/emijrp/awesome-awesome) - Awesome lists
-    *   [erichs/awesome-awesome (⭐248)](https://github.com/erichs/awesome-awesome) - Awesome lists
+    *   [awesome (⭐326k)](https://github.com/sindresorhus/awesome) - Awesome lists
+    *   [awesome-all (⭐207)](https://github.com/bradoyler/awesome-all) - Awesome lists
+    *   [emijrp/awesome-awesome (⭐2.8k)](https://github.com/emijrp/awesome-awesome) - Awesome lists
+    *   [erichs/awesome-awesome (⭐272)](https://github.com/erichs/awesome-awesome) - Awesome lists
     *   [GetAwesomeness](https://getawesomeness.herokuapp.com/) - Awesome lists
-    *   [lists (⭐8.5k)](https://github.com/jnv/lists) - Awesome lists
-*   [awesome-javascript (⭐29k)](https://github.com/sorrycc/awesome-javascript) - Awesome JavaScript list
-*   [awesome-javascript-books (⭐124)](https://github.com/heatroom/awesome-javascript-books) - Awesome JavaScript books
+    *   [lists (⭐9.9k)](https://github.com/jnv/lists) - Awesome lists
+*   [awesome-javascript (⭐33k)](https://github.com/sorrycc/awesome-javascript) - Awesome JavaScript list
+*   [awesome-javascript-books (⭐126)](https://github.com/heatroom/awesome-javascript-books) - Awesome JavaScript books
 *   [js-must-watch (⭐13k)](https://github.com/bolshchikov/js-must-watch) - List of must-watch videos devoted to JavaScript
 
 ## [2. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
@@ -82,7 +82,7 @@
 
 ### Packages / URL
 
-*   [url-unshort (⭐115)](https://github.com/nodeca/url-unshort) - Expand shortened URLs.
+*   [url-unshort (⭐117)](https://github.com/nodeca/url-unshort) - Expand shortened URLs.
 *   [embedza (⭐64)](https://github.com/nodeca/embedza) - Create HTML snippets/embeds from URLs using info from oEmbed, Open Graph, meta tags.
 
 ## [6. Awesome Mad Science](/content/feross/awesome-mad-science/README.md)

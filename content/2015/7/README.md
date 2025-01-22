@@ -28,7 +28,7 @@
 
 ### Tools / App Repackaging Detectors
 
-*   [FSquaDRA (⭐71)](https://github.com/zyrikby/FSquaDRA) - a tool for the detection of repackaged Android applications based on app resources hash comparison.
+*   [FSquaDRA (⭐72)](https://github.com/zyrikby/FSquaDRA) - a tool for detecting repackaged Android applications based on app resources hash comparison.
 
 ## [5. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
 
@@ -76,27 +76,26 @@
 
 ### Python / Natural Language Processing
 
-*   [PyStanfordDependencies (⭐68)](https://github.com/dmcc/PyStanfordDependencies) - Python interface for converting Penn Treebank trees to Stanford Dependencies.
+*   [PyStanfordDependencies (⭐69)](https://github.com/dmcc/PyStanfordDependencies) - Python interface for converting Penn Treebank trees to Stanford Dependencies.
 
 ## [7. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Loaders
 
-*   [ESL (⭐843)](https://github.com/ecomfe/esl) - Module loader browser first, support lazy define and AMD.
+*   [ESL (⭐842)](https://github.com/ecomfe/esl) - Module loader browser first, support lazy define and AMD.
 
 ## [8. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Articles & Posts
 
 *   [Rethinking Agile in an office-less world](https://signalvnoise.com/posts/3641-rethinking-agile-in-an-office-less-world)
-*   [The Pros & Cons of Being a Remote Team (& How We Do It)](https://www.groovehq.com/blog/being-a-remote-team)
 *   [Why Remote Workers Are More (Yes, More) Engaged](https://hbr.org/2012/08/are-you-taking-your-people-for)
 
 ## [9. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Natural Language Processing
 
-*   [Pragmatic Segmenter (⭐540)](https://github.com/diasks2/pragmatic_segmenter) - Pragmatic Segmenter is a rule-based sentence boundary detection gem that works out-of-the-box across many languages.
+*   [Pragmatic Segmenter (⭐559)](https://github.com/diasks2/pragmatic_segmenter) - Pragmatic Segmenter is a rule-based sentence boundary detection gem that works out-of-the-box across many languages.
 
 ## [10. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
 
@@ -112,11 +111,11 @@
 
 ### Eventhandling
 
-*   [reaxive (⭐281)](https://github.com/alfert/reaxive) - Reaxive is a reactive event handling library, inspired by [Elm](http://elm-lang.org) and Reactive Extensions.
+*   [reaxive (⭐284)](https://github.com/alfert/reaxive) - Reaxive is a reactive event handling library, inspired by [Elm](http://elm-lang.org) and Reactive Extensions.
 
 ### Examples and funny stuff
 
-*   [dice (⭐15)](https://github.com/stocks29/dice) - Roll the dice, in Elixir.
+*   [dice (⭐14)](https://github.com/stocks29/dice) - Roll the dice, in Elixir.
 
 ### HTTP
 

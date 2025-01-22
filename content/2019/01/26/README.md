@@ -52,13 +52,13 @@
 
 ### Miscellaneous
 
-*   [Parasite (⭐35)](https://github.com/ecohealthalliance/awesome-parasite#readme) - Parasites and host-pathogen interactions.
+*   [Parasite (⭐38)](https://github.com/ecohealthalliance/awesome-parasite#readme) - Parasites and host-pathogen interactions.
 
 ## [6. Awesome Spark](/content/awesome-spark/awesome-spark/README.md)
 
 ### Packages / Web Archives
 
-*   [Archives Unleashed Toolkit (⭐124)](https://github.com/archivesunleashed/aut) <img src="https://img.shields.io/github/last-commit/archivesunleashed/aut.svg"> -  Open-source toolkit for analyzing web archives.
+*   [Archives Unleashed Toolkit (⭐137)](https://github.com/archivesunleashed/aut) <img src="https://img.shields.io/github/last-commit/archivesunleashed/aut.svg"> -  Open-source toolkit for analyzing web archives.
 
 ## [7. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 

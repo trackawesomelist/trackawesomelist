@@ -28,7 +28,7 @@
 
 ### PDF
 
-*   [pdf2htmlex (⭐85)](https://github.com/ricn/pdf2htmlex) - Convert PDF docs to beautiful HTML files without losing text or format.
+*   [pdf2htmlex (⭐89)](https://github.com/ricn/pdf2htmlex) - Convert PDF docs to beautiful HTML files without losing text or format.
 
 ## [4. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)
 
@@ -83,12 +83,12 @@
 *   [GLFW (⭐13k)](https://github.com/glfw/glfw) - A simple, cross-platform OpenGL wrangling library. \[zlib/libpng]
 *   [OpenSubdiv (⭐2.9k)](https://github.com/PixarAnimationStudios/OpenSubdiv) - Pixar's library for evaluating and rendering subdivision surfaces on CPU and GPU. \[Modified Apache2]
 *   [OpenVDB](http://www.openvdb.org/) - Library and tools for storing, editing, and rendering volumetric datasets. \[MPL2]
-*   [Partio (⭐453)](https://github.com/wdas/partio) - Library for wrangling particle data, with support for most common file formats. \[Modified BSD]
+*   [Partio (⭐464)](https://github.com/wdas/partio) - Library for wrangling particle data, with support for most common file formats. \[Modified BSD]
 
 ### Image Processing
 
 *   [OpenEXR](http://www.openexr.com/) - Cross-platform library for high dynamic range imaging. \[Modified BSDF]
-*   [OpenImageIO (⭐1.9k)](https://github.com/OpenImageIO/oiio) - Powerful image and texture wrangling library with support for a wide number of common lossy and RAW formats. \[Modified BSD]
+*   [OpenImageIO (⭐2k)](https://github.com/OpenImageIO/oiio) - Powerful image and texture wrangling library with support for a wide number of common lossy and RAW formats. \[Modified BSD]
 
 ---
 

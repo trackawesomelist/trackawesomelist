@@ -16,7 +16,7 @@
 
 ### Git / Diagnostics
 
-*   [sindrets/diffview.nvim (⭐3.7k)](https://github.com/sindrets/diffview.nvim) - Single tabpage interface for easily cycling through diffs for all modified files for any git rev.
+*   [sindrets/diffview.nvim (⭐4.2k)](https://github.com/sindrets/diffview.nvim) - Single tabpage interface for easily cycling through diffs for all modified files for any Git rev.
 
 ## [3. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
@@ -44,14 +44,14 @@
     *   [database-programmer](http://database-programmer.blogspot.com/2008/01/table-design-patterns.html) - Table-design-patterns.
     *   [red-gate](https://www.red-gate.com/simple-talk/sql/database-administration/five-simple-database-design-errors-you-should-avoid) -  five simple database design errors you should avoid.
     *   [talend](https://www.talend.com/blog/2017/05/05/data-model-design-best-practices-part-1) - Data model design best practices.
-    *   [sqlcheck (⭐2.3k)](https://github.com/jarulraj/sqlcheck) - Anti-patterns in SQL queries.
+    *   [sqlcheck (⭐2.4k)](https://github.com/jarulraj/sqlcheck) - Anti-patterns in SQL queries.
     *   [Data warehouse patterns](https://aws.amazon.com/blogs/big-data/etl-and-elt-design-patterns-for-lake-house-architecture-using-amazon-redshift-part-1/) - ETL and ELT design patterns for lake house architecture using Amazon Redshift
 *   NOSQL
     *   [nosql resilience patterns](https://www.ebayinc.com/stories/blogs/tech/practical-nosql-resilience-design-pattern-for-the-enterprise) - Practical NoSQL resilience design pattern for the enterprise.
     *   [nosql-patterns](https://dzone.com/articles/introduction-nosql-patterns) - Pragmatic Programming Techniques.
     *   [mongodb](https://dzone.com/articles/mongodb-design-patterns) - Mongodb design patterns.
     *   [MongoDB Applied Design Patterns](http://shop.oreilly.com/product/0636920027041.do)
-    *   [DynamoDB design patterns](https://amazon-dynamodb-labs.com/design-patterns.html)- Advnaced design patterns for Amazon DynamoDB
+    *   [DynamoDB design patterns](https://amazon-dynamodb-labs.com/design-patterns.html)- Advanced design patterns for Amazon DynamoDB
     *   [Redis applied design patterns](https://redislabs.com/redis-best-practices/introduction/) - Redis Applied Design Patterns book
 *   Storage
     *   [storage patterns](https://aws.amazon.com/blogs/storage/comparing-your-on-premises-storage-patterns-with-aws-storage-services/)- Comparing your on-premises storage patterns with AWS Storage services

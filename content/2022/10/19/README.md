@@ -10,13 +10,13 @@
 
 ### Template Engine
 
-*   [Handlebars.Net (⭐1.2k)](https://github.com/Handlebars-Net/Handlebars.Net) - A real .NET Handlebars engine
+*   [Handlebars.Net (⭐1.3k)](https://github.com/Handlebars-Net/Handlebars.Net) - A real .NET Handlebars engine
 
 ## [2. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
 ### Programming Languages / [Other](#other-1)
 
-*   [vint (⭐698)](https://github.com/Kuniwak/vint) — Fast and Highly Extensible Vim script Language Lint implemented by Python.
+*   [vint (⭐705)](https://github.com/Kuniwak/vint) :warning: — Fast and Highly Extensible Vim script Language Lint implemented by Python.
 
 ## [3. Awesome Jquery](/content/petk/awesome-jquery/README.md)
 
@@ -36,7 +36,7 @@
 
 ## [5. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 
-### Blog posts
+### Blog posts  (a-z↓)
 
 *   [Everything you need to know about Visual Regression Testing in 2022](https://david-x.medium.com/the-state-of-visual-regression-testing-in-2022-5de10ffe8f6f) - Intro to visual regression testing with tools updated as of 2022.
 
@@ -50,7 +50,7 @@
 
 ### Libraries/Frameworks / Misc
 
-*   [kunalsheth/units-of-measure (⭐93)](https://github.com/kunalsheth/units-of-measure) - A type-safe dimensional analysis library for Kotlin.
+*   [kunalsheth/units-of-measure (⭐94)](https://github.com/kunalsheth/units-of-measure) - A type-safe dimensional analysis library for Kotlin.
 
 ## [8. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 

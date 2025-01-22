@@ -25,7 +25,7 @@
 
 ### Interpreters/Compilers
 
-*   [stas (⭐56)](https://github.com/l1mey112/stas/tree/0.1.0-v-compiler) - A stack based compiled programming language. The bootstrap compiler is written in V.
+*   [stas (⭐57)](https://github.com/l1mey112/stas/tree/0.1.0-v-compiler) - A stack based compiled programming language. The bootstrap compiler is written in V.
 
 ## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -37,7 +37,7 @@
 
 ### Gaming
 
-*   [Learn Gamedev (⭐2.5k)](https://github.com/notpresident35/awesome-learn-gamedev#readme) - The craft of video game creation.
+*   [Learn Gamedev (⭐2.7k)](https://github.com/notpresident35/awesome-learn-gamedev#readme) - The craft of video game creation.
 
 ## [5. Awesome Flame](/content/flame-engine/awesome-flame/README.md)
 
@@ -55,7 +55,7 @@
 
 ### Types / Playground
 
-*   [ts-toolbelt (⭐6.6k)](https://github.com/millsp/ts-toolbelt) - Large collection of type utilities for TypeScript
+*   [ts-toolbelt (⭐6.8k)](https://github.com/millsp/ts-toolbelt) - Large collection of type utilities for TypeScript
 
 ## [8. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
 

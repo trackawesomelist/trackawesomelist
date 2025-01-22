@@ -1,31 +1,24 @@
 # Awesome List Updates on Oct 20, 2023
 
-16 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
-
-### Commenting Engines
-
-*   [Cusdis (⭐2.6k)](https://github.com/djyde/cusdis) - Lightweight, privacy-friendly alternative to Disqus.
-*   [Disgus (⭐46)](https://github.com/carlitoplatanito/disgus) - Embeddable comments for your website, backed by Nostr. Like Disqus but Nostr.
-
-## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [1. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Physics
 
-*   [PlayRho (⭐129)](https://github.com/louis-langholtz/PlayRho) - An interactive physics engine & library.  \[Zlib]
+*   [PlayRho (⭐137)](https://github.com/louis-langholtz/PlayRho) - An interactive physics engine & library.  \[Zlib]
 
-## [3. Awesome Go](/content/avelino/awesome-go/README.md)
+## [2. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Code Analysis / Libraries for creating HTTP middlewares
 
-*   [vacuum (⭐541)](https://github.com/daveshanley/vacuum) - An ultra-super-fast, lightweight OpenAPI linter and quality checking tool.
+*   [vacuum (⭐671)](https://github.com/daveshanley/vacuum) - An ultra-super-fast, lightweight OpenAPI linter and quality checking tool.
 
-## [4. Ai Collection](/content/ai-collection/ai-collection/README.md)
+## [3. Ai Collection](/content/ai-collection/ai-collection/README.md)
 
 ### Idea Generation
 
@@ -99,7 +92,7 @@
 
 
 
-## [5. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
+## [4. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / Media
 
@@ -107,34 +100,34 @@
 
 ### Contents / Tools
 
-*   [Ejimo (⭐36)](https://github.com/albemala/emoji-picker) - Cross-platform emoji and symbol picker by [albemala](https://github.com/albemala)
+*   [Ejimo (⭐43)](https://github.com/albemala/emoji-picker) - Cross-platform emoji and symbol picker by [albemala](https://github.com/albemala)
 
-## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / Frameworks
 
-*   [Stellar UI (⭐33)](https://github.com/ManukMinasyan/stellar-ui) - Fully styled and customizable components for Vue 3.
+*   [Stellar UI (⭐38)](https://github.com/ManukMinasyan/stellar-ui) - Fully styled and customizable components for Vue 3.
 *   [TW Elemetns for Vue](https://tw-elements.com/docs/standard/integrations/vue-integration/) - Vue integration with Tailwind CSS - a free, open-source UI Kit
 
 ### Components & Libraries / UI Components
 
-*   [vue-tailwind-datepicker (⭐224)](https://github.com/elreco/vue-tailwind-datepicker) - A Vue 3 Datepicker using Tailwind CSS 3
+*   [vue-tailwind-datepicker (⭐243)](https://github.com/elreco/vue-tailwind-datepicker) - A Vue 3 Datepicker using Tailwind CSS 3
 
 ### Components & Libraries / Utilities
 
-*   [exome (⭐228)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states.
+*   [exome (⭐242)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states.
 
-## [7. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
+## [6. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
 
 ### Reverse Proxy
 
-*   [caddy-docker-proxy (⭐2.7k)](https://github.com/lucaslorentz/caddy-docker-proxy) - Caddy-based reverse proxy, configured with service or container labels. By [@lucaslorentz](https://github.com/lucaslorentz)
+*   [caddy-docker-proxy (⭐3.1k)](https://github.com/lucaslorentz/caddy-docker-proxy) - Caddy-based reverse proxy, configured with service or container labels. By [@lucaslorentz](https://github.com/lucaslorentz)
 
 ### Development Environment / Other
 
-*   [uniget (⭐9)](https://github.com/uniget-org/cli) - uni(versal)get, the installer and updater for container tools and beyond (formerly docker-setup). By [@nicholasdille](https://github.com/nicholasdille)
+*   [uniget (⭐14)](https://github.com/uniget-org/cli) - uni(versal)get, the installer and updater for container tools and beyond (formerly docker-setup). By [@nicholasdille](https://github.com/nicholasdille)
 
-## [8. Ai Collective Tools](/content/Hyraze/ai-collective-tools/README.md)
+## [7. Ai Collective Tools](/content/Hyraze/ai-collective-tools/README.md)
 
 ### Chatbots
 
@@ -173,7 +166,7 @@
 *   [AstroGPT](https://vedicastrogpt.com/) - AstroGPT is a personalized astrology service that provides expert guidance for love, career, and more. `#free`
 *   [Gita GPT](https://www.gitagpt.in/) - Unlock the Power of AI with the Bhagavad Gita `#free`
 *   [Tarteel](https://www.tarteel.ai/) - Tarteel is an AI-powered Quran companion that helps users improve their recitation and memorization skills by providing real-time feedback, highlighting words, offering translations, and customizable challenges. `#paid`
-*   [Text With Jesus](https://textwith.me/jesus) - Enlightening conversations and a deeper connection to revered biblical figures. `#paid`
+*   [Text With Jesus](https://textwith.me/jesus) - Enlightening conversations and a deeper connection to revered biblical figures. `#freemium`
 
 ### Travel
 
@@ -183,7 +176,7 @@
 
 *   [FineShare FineCam](https://www.fineshare.com/finecam/) - Transform your video calls and recordings with FineShare FineCam's advanced capabilities `#paid`
 
-## [9. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
+## [8. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 
 ### Strategy
 
@@ -226,33 +219,6 @@
 | Players | Min. Age |   Time |
 | ------: | -------: | -----: |
 |   1 - 4 |        8 | 20-40m |
-### [King of Tokyo](https://boardgamegeek.com/boardgame/70323/king-tokyo)
-
-> In King of Tokyo, you play mutant monsters, gigantic robots, and strange aliens—all of whom are destroying Tokyo and whacking each other in order to become the one and only King of Tokyo.At the start of each turn, you roll six dice, which show the following six symbols: 1, 2, or 3 Victory Points, Energy, Heal, and Attack. Over three successive throws, choose whether to keep or discard each die in order to win victory points, gain energy, restore health, or attack other players into understanding that Tokyo is YOUR territory.The fiercest player will occupy Tokyo, and earn extra victory points, but that player can't heal and must face all the other monsters alone! Top this off with special cards purchased with energy that have a permanent or temporary effect, such as the growing of a second head which grants you an additional die, body armor, nova death ray, and more.... and it's one of the most explosive games of the year!In order to win the game, one must either destroy Tokyo by accumulating 20 victory points, or be the only surviving monster once the fighting has ended.
-
-![King of Tokyo](https://www.boardgamesindia.com/image/cache/catalog/product/bgg_1589-320x320w.jpg)
-
-| Players | Min. Age | Time |
-| ------: | -------: | ---: |
-|   2 - 6 |        8 |  30m |
-### [Kutná Hora: The City of Silver](https://boardgamegeek.com/boardgame/385610/kutna-hora-city-silver)
-
-> Kutná Hora: The City of Silver is a historical city-building Eurogame for 2-4 players that features a real-life supply and demand experience in which every action you take has an impact on the game's dynamic economic systems.In each round, players take turns selecting actions from a hand of double-sided cards to engage strategic plans like mining, purchasing plots of land on which to build, gaining permits, raising buildings for their affiliated guilds, gaining profit from their production, and of course working towards the construction of Saint Barbara's Cathedral.The asymmetrical nature of each player's available guilds makes for highly interactive rounds in which each decision impacts the economy and other players in interesting ways as they expand their mines and build infrastructure across a shared board.Mine ore and smelt it into a fortune of silver for expanding this beautiful historic city, but take care to balance your personal goal advancement with the need to further the city's growth. Everything is connected, and sometimes the path to personal victory relies on the prosperity of the many.
-
-![Kutná Hora: The City of Silver](https://cf.geekdo-images.com/ar_YhktX6VcXBLcEfnu_dw__itemrep/img/wZoUA-HbhYKYxbu_8GfXScu7WME=/fit-in/246x300/filters:strip_icc\(\)/pic7464921.png)
-
-| Players | Min. Age |    Time |
-| ------: | -------: | ------: |
-|   2 - 4 |       13 | 60-120m |
-### [The White Castle](https://boardgamegeek.com/boardgame/371942/white-castle)
-
-> The White Castle is a Euro type game with mechanics of resource management, worker placement and dice placement to carry out actions. During the game, over three rounds, players will send members of their clan to tend the gardens, defend the castle or progress up the social ladder of the nobility. At the end of the match, these will award players victory points in a variety of ways.The central panel shows Himeji Castle in all its splendor, divided into several zones. The largest is inside the castle, with the Room of the Thousand Carpets, where the courtiers must ascend socially until they reach the circle closest to the Daimio to enjoy his favor. There is also the pond and the gardens, patiently tended by the gardeners where everyone can relax and contemplate its beauty without restriction. Another important area is the wall and the outside of the castle, where the warriors patrol and stand guard. Finally, we find the area of the three bridges, where the three types of dice that can be used to carry out actions are accumulated, and the personal domain of each player, where they will keep track of their resources and where they will have the reserve of workers.With accessible rules and a very careful setting, The White Castle is a very versatile title that will fit in with different gaming groups. As is tradition with Llama Dice titles, its sleek and simple design belies a great deal of strategic depth within the grasp of players.
-
-![The White Castle](https://cf.geekdo-images.com/qXT1U-nFh9PE8ujfdmI7dA__itemrep/img/4VpX36FMypCo-iRbA_dkP9lhi-8=/fit-in/246x300/filters:strip_icc\(\)/pic7754663.jpg)
-
-| Players | Min. Age | Time |
-| ------: | -------: | ---: |
-|   1 - 4 |       12 |  80m |
 ### [Nucleum](https://boardgamegeek.com/boardgame/396790/nucleum)
 
 > Nucleum is a heavy euro board game in which players take role of industrialists trying to succeed during the economic and technological boom of 19th-century Saxony, fueled by the invention and spread of the Nucleum (a nuclear reactor).Players earn victory points by developing their networks, building and powering urban buildings, securing contracts, and meeting milestones (randomized endgame goals). Each player also gets unique asymmetric technologies, giving them special powers when unlocked. Gameplay is continuous; players take turns one after another with no rounds or phases.
@@ -361,13 +327,13 @@
 | ------: | -------: | ---: |
 |   2 - 4 |       10 |  45m |
 
-## [10. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [9. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / URL Shorteners
 
 *   [rs-short](https://git.42l.fr/42l/rs-short) - A lightweight link shortener written in Rust, with features such as caching, spambot protection and phishing detection. ([Demo](https://s.42l.fr/)) `MPL-2.0` `Rust`
 
-## [11. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
+## [10. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
 
 ### Tools / Ironsworn
 
@@ -375,37 +341,37 @@
 *   [Starforged Custom Oracles Module for FoundryVTT](https://foundryvtt.com/packages/starforged-custom-oracles) - A FoundryVTT compendium of the fan-created oracles for the Ironsworn: Starforged system
 *   [Starsmith Expanded Oracles Module for FoundryVTT](https://foundryvtt.com/packages/starsmith-expanded-oracles) - A FoundryVTT compendium of the Starsmith oracles for the Ironsworn: Starforged system
 
-## [12. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
+## [11. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
 ### Other / [Other](#other-1)
 
 *   [GitGuardian ggshield](https://www.gitguardian.com/ggshield) — ggshield is a CLI application that runs in your local environment  or in a CI environment to help you detect more than 350+ types of secrets,  as well as other potential security vulnerabilities or policy breaks affecting your codebase.
 *   [HasMySecretLeaked](https://gitguardian.com/hasmysecretleaked) :copyright: — HasMySecretLeaked is a project from GitGuardian that aims to help individual users and organizations search across 20 million exposed secrets to verify if their  developer secrets have leaked on public repositories, gists, and issues on GitHub projects.
 
-## [13. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
+## [12. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
 ### Deployment Hosting
 
-*   [Kinsta](https://kinsta.com/) - Deploy static sites, apps, and databases from GitHub, GitLab or Bitbucket and host headless WordPress.
+*   [Kinsta](https://kinsta.com/) - Deploy static sites, apps, and databases from GitHub, GitLab, or Bitbucket and host headless WordPress.
 
 ### Integrations
 
-*   [Sequin](https://sequin.io/) - Interface with third-party services using SQL.
+*   [Sequin](https://sequin.io/) - Interface with third-party services using SQL. [![featured on launchweek.dev](https://img.shields.io/badge/featured-0D1117.svg?style=flat-square\&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMzYwIiBoZWlnaHQ9IjM2MCIgdmlld0JveD0iMCAwIDM2MCAzNjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+IDxyZWN0IHdpZHRoPSI2MCIgaGVpZ2h0PSIzMDAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjYwIiB5PSIzMDAiIHdpZHRoPSIxMjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjI0MCIgeT0iMzAwIiB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjMwMCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjMwMCIgZmlsbD0id2hpdGUiLz4gPHJlY3QgeD0iMTgwIiB3aWR0aD0iNjAiIGhlaWdodD0iMzAwIiBmaWxsPSJ3aGl0ZSIvPiA8L3N2Zz4=)](https://launchweek.dev)
 
-## [14. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+## [13. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
 ### Computer Science
 
 *   [Computer Science Class XII](https://cbseacademic.nic.in/web_material/doc/cs/2_Computer_Science_Python_ClassXII.pdf) - CBSE (PDF)
 *   [Pull Requests and Code Review](https://scs.tl/book-pr) – Sebastien Castiel
 
-## [15. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+## [14. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 
 ### Reverse Engineering
 
 *   [*Practical Reverse Engineering* by Bruce Dang, Alexandre Gazet, Elias Bachaalany, Sébastien Josse](https://www.wiley.com/en-ca/Practical+Reverse+Engineering%3A+x86%2C+x64%2C+ARM%2C+Windows+Kernel%2C+Reversing+Tools%2C+and+Obfuscation-p-9781118787250)
 
-## [16. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
+## [15. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ### Tutorials and Blog Posts / Beginner Guides
 

@@ -10,33 +10,33 @@
 
 ### Web Frameworks
 
-*   [marten (⭐396)](https://github.com/martenframework/marten) - A web framework that makes building web applications easy, productive, and fun
+*   [marten (⭐428)](https://github.com/martenframework/marten) - A web framework that makes building web applications easy, productive, and fun
 
 ## [2. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Tutorials
 
-*   [NextTechEvent by Coding After Work](https://www.youtube.com/watch?v=Z2EZXY6G5ZU) - Build "NextTechEvent", a site that will help speakers, organizers, and attendees find their next tech event. [Source code (⭐6)](https://github.com/CodingAfterWork/NextTechEvent) ![stars](https://img.shields.io/github/stars/CodingAfterWork/NextTechEvent?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/CodingAfterWork/NextTechEvent?style=flat-square\&cacheSeconds=86400).
+*   [NextTechEvent by Coding After Work](https://www.youtube.com/watch?v=Z2EZXY6G5ZU) - Build "NextTechEvent", a site that will help speakers, organizers, and attendees find their next tech event. [Source code (⭐5)](https://github.com/CodingAfterWork/NextTechEvent) ![stars](https://img.shields.io/github/stars/CodingAfterWork/NextTechEvent?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/CodingAfterWork/NextTechEvent?style=flat-square\&cacheSeconds=86400).
 
 ### Videos / Others
 
-*   [Building "Next Tech Event" using Blazor and RavenDB Part 12](https://www.youtube.com/watch?v=tpF61oKd3-I) - ![duration](https://img.shields.io/badge/Duration:%20-129%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) November 2, 2022 - Part 12 of the project "NextTechEvent", a site that will help speakers, organizers, and attendees find their next tech event. In this stream, we add search functionality using RavenDB by adding an index. A way for organizers to filter conferences by name, country, location, city, and tags or a combination of them. This way we can see how many conferences are happening in "Stockholm" or all the conferences named "NDC". ![GitHub stars](https://img.shields.io/github/stars/CodingAfterWork/NextTechEvent?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/CodingAfterWork/NextTechEvent?style=flat-square\&cacheSeconds=86400)  [Source code (⭐6)](https://github.com/CodingAfterWork/NextTechEvent).
+*   [Building "Next Tech Event" using Blazor and RavenDB Part 12](https://www.youtube.com/watch?v=tpF61oKd3-I) - ![duration](https://img.shields.io/badge/Duration:%20-129%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) November 2, 2022 - Part 12 of the project "NextTechEvent", a site that will help speakers, organizers, and attendees find their next tech event. In this stream, we add search functionality using RavenDB by adding an index. A way for organizers to filter conferences by name, country, location, city, and tags or a combination of them. This way we can see how many conferences are happening in "Stockholm" or all the conferences named "NDC". ![GitHub stars](https://img.shields.io/github/stars/CodingAfterWork/NextTechEvent?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/CodingAfterWork/NextTechEvent?style=flat-square\&cacheSeconds=86400)  [Source code (⭐5)](https://github.com/CodingAfterWork/NextTechEvent).
 
 ## [3. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [TwicPics (⭐53)](https://github.com/TwicPics/components) - Components replacing img and video tags with lazy loading, CLS optimization, and progressive loading out-of-the-box and enabling media optimization and manipulation.
+*   [TwicPics (⭐55)](https://github.com/TwicPics/components) - Components replacing img and video tags with lazy loading, CLS optimization, and progressive loading out-of-the-box and enabling media optimization and manipulation.
 
 ## [4. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-version-mark (⭐50)](https://github.com/ZhongxuYang/vite-plugin-version-mark) - Automatically use `package version` / `git commit` / `custom` to be inserted into your project as a unique identifier for the project version.
+*   [vite-plugin-version-mark (⭐60)](https://github.com/ZhongxuYang/vite-plugin-version-mark) - Automatically use `package version` / `git commit` / `custom` to be inserted into your project as a unique identifier for the project version.
 
 ### Vue / Loaders
 
-*   ![v3](https://img.shields.io/badge/-v3-35495e) [unplugin-svg-component (⭐53)](https://github.com/Jevon617/unplugin-svg-component) - Load SVG files as a Vue component, supporting svg file HMR and Typescript intelligence prompt.
+*   ![v3](https://img.shields.io/badge/-v3-35495e) [unplugin-svg-component (⭐64)](https://github.com/Jevon617/unplugin-svg-component) - Load SVG files as a Vue component, supporting svg file HMR and Typescript intelligence prompt.
 
 ## [5. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
@@ -52,19 +52,19 @@
 
 ### Advanced Console UIs
 
-*   [lipgloss (⭐7.8k)](https://github.com/charmbracelet/lipgloss) - Declaratively define styles for color, format and layout in the terminal.
+*   [lipgloss (⭐8.5k)](https://github.com/charmbracelet/lipgloss) - Declaratively define styles for color, format and layout in the terminal.
 
 ## [7. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Misc
 
-*   [Ahoo-Wang/CoCache (⭐6)](https://github.com/Ahoo-Wang/CoCache) - Level 2 Distributed Coherence Cache Framework
+*   [Ahoo-Wang/CoCache (⭐10)](https://github.com/Ahoo-Wang/CoCache) - Level 2 Distributed Coherence Cache Framework
 
 ## [8. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### Related Awesome Lists / Deforum
 
-*   \[🔥🔥🔥] [steven2358/awesome-generative-ai (⭐5.5k)](https://github.com/steven2358/awesome-generative-ai): A curated list of modern Generative Artificial Intelligence projects and services
+*   \[🔥🔥🔥] [steven2358/awesome-generative-ai (⭐7.1k)](https://github.com/steven2358/awesome-generative-ai): A curated list of modern Generative Artificial Intelligence projects and services
 
 ## [9. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
@@ -90,7 +90,7 @@
 
 ### OpenSource-Computer-Vision / Data Analysis / Data Visualization
 
-*   [OpenCV (⭐77k)](https://github.com/opencv/opencv) - A OpenSource Computer Vision Library
+*   [OpenCV (⭐80k)](https://github.com/opencv/opencv) - A OpenSource Computer Vision Library
 
 ### Python / General-Purpose Machine Learning
 
@@ -98,23 +98,23 @@
 
 ### Python / Spiking Neural Networks
 
-*   [Rockpool (⭐46)](https://github.com/synsense/rockpool) - A machine learning library for spiking neural networks. Supports training with both torch and jax pipelines, and deployment to neuromorphic hardware.
-*   [Sinabs (⭐73)](https://github.com/synsense/sinabs) - A deep learning library for spiking neural networks which is based on PyTorch, focuses on fast training and supports inference on neuromorphic hardware.
-*   [Tonic (⭐197)](https://github.com/neuromorphs/tonic) - A library that makes downloading publicly available neuromorphic datasets a breeze and provides event-based data transformation/augmentation pipelines.
+*   [Rockpool (⭐55)](https://github.com/synsense/rockpool) - A machine learning library for spiking neural networks. Supports training with both torch and jax pipelines, and deployment to neuromorphic hardware.
+*   [Sinabs (⭐83)](https://github.com/synsense/sinabs) - A deep learning library for spiking neural networks which is based on PyTorch, focuses on fast training and supports inference on neuromorphic hardware.
+*   [Tonic (⭐214)](https://github.com/neuromorphs/tonic) - A library that makes downloading publicly available neuromorphic datasets a breeze and provides event-based data transformation/augmentation pipelines.
 
 ## [12. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
 ### Analytics
 
-*   *   [PoeticMetric](https://poeticmetric.com/) - Privacy-first, regulation-compliant, blazingly fast analytics tool.
+*   [PoeticMetric](https://poeticmetric.com/) - Privacy-first, regulation-compliant, fast analytics tool.
 
 ## [13. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ### Tools / Community providers
 
-*   [terraform-iam-policy-validator (⭐288)](https://github.com/awslabs/terraform-iam-policy-validator) - CLI validates AWS IAM Policies in a Terraform template against AWS IAM best practices.
-*   [tfproviderlint (⭐134)](https://github.com/bflad/tfproviderlint) - Terraform Provider Lint Tool.
-*   [tftree (⭐147)](https://github.com/busser/tftree) - Display your Terraform module call stack in your terminal.
+*   [terraform-iam-policy-validator (⭐313)](https://github.com/awslabs/terraform-iam-policy-validator) - CLI validates AWS IAM Policies in a Terraform template against AWS IAM best practices.
+*   [tfproviderlint (⭐136)](https://github.com/bflad/tfproviderlint) - Terraform Provider Lint Tool.
+*   [tftree (⭐150)](https://github.com/busser/tftree) - Display your Terraform module call stack in your terminal.
 
 ---
 

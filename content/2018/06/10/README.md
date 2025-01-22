@@ -19,7 +19,7 @@
 
 ### Animation / Redux / ELM / Dependency Injection
 
-*   [Sequence Animation (⭐391)](https://github.com/Norbert515/flutter_sequence_animation) <!--stargazers:Norbert515/flutter_sequence_animation--> - Composite staggered animations by [Norbert Kozsir](https://twitter.com/norbertkozsir)
+*   [Sequence Animation (⭐392)](https://github.com/Norbert515/flutter_sequence_animation) <!--stargazers:Norbert515/flutter_sequence_animation--> - Composite staggered animations by [Norbert Kozsir](https://twitter.com/norbertkozsir)
 
 ### Top / Game Engine resources
 

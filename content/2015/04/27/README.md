@@ -1,33 +1,24 @@
 # Awesome List Updates on Apr 27, 2015
 
-4 awesome lists updated today.
+3 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
-
-### Companies with "remote DNA"
-
-*   [Compose](https://www.compose.io/jobs/) - Managing databases as a service. Distributed team with offices in San Meteo, CA and Birmingham, AL.
-*   [DuckDuckGo](https://duck.co/help/company/hiring) - Search engine.
-*   [Etsy](https://www.etsy.com/careers) - Marketplace for artists. MySQL, Memcache, PHP. Offices in Dublin, Paris, San Francisco, New York, London and Melbourne.
-*   [Eyeo](https://eyeo.com/en/jobs/) - Maker of AdBlock Plus. Main office in Cologne, Germany.
-
-## [2. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [1. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Logging
 
-*   [rogger (⭐9)](https://github.com/duartejc/rogger) - Elixir logger to publish log messages in RabbitMQ.
+*   [rogger (⭐10)](https://github.com/duartejc/rogger) - Elixir logger to publish log messages in RabbitMQ.
 
-## [3. Awesome Ctf](/content/apsdehal/awesome-ctf/README.md)
+## [2. Awesome Ctf](/content/apsdehal/awesome-ctf/README.md)
 
 ### Wargames
 
 *   [Hack This Site](https://www.hackthissite.org/) - Training ground for hackers.
 
-## [4. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/README.md)
+## [3. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/README.md)
 
 ### Awesome ClojureScript / Canvas
 

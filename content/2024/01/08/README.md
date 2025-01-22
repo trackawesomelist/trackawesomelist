@@ -28,13 +28,13 @@
 
 ### IDE
 
-*   [Fine](https://www.fine.dev/) - Build Software with AI Agents.
+*   [Fine](https://www.fine.dev/) - Build Software with AI Agents. [![featured on launchweek.dev](https://img.shields.io/badge/featured-0D1117.svg?style=flat-square\&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMzYwIiBoZWlnaHQ9IjM2MCIgdmlld0JveD0iMCAwIDM2MCAzNjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+IDxyZWN0IHdpZHRoPSI2MCIgaGVpZ2h0PSIzMDAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjYwIiB5PSIzMDAiIHdpZHRoPSIxMjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjI0MCIgeT0iMzAwIiB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjMwMCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjMwMCIgZmlsbD0id2hpdGUiLz4gPHJlY3QgeD0iMTgwIiB3aWR0aD0iNjAiIGhlaWdodD0iMzAwIiBmaWxsPSJ3aGl0ZSIvPiA8L3N2Zz4=)](https://launchweek.dev)
 
 ## [5. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### Firmware projects / WIP
 
-*   [BillMock (⭐12)](https://github.com/pmnxis/billmock-app-rs): Firmware for credit card terminal add-on hardware to install on Korean arcade machines
+*   [BillMock (⭐14)](https://github.com/pmnxis/billmock-app-rs): Firmware for credit card terminal add-on hardware to install on Korean arcade machines
 
 ## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
@@ -44,23 +44,23 @@
 
 ### Database
 
-*   [UStore (⭐524)](https://github.com/unum-cloud/ustore) - Multi-Modal database for BLOBs, JSON, and graphs. \[Apache2]
+*   [UStore (⭐563)](https://github.com/unum-cloud/ustore) - Multi-Modal database for BLOBs, JSON, and graphs. \[Apache2]
 
 ### Machine Learning
 
-*   [catboost (⭐8k)](https://github.com/catboost/catboost) - A fast, scalable, high performance Gradient Boosting on Decision Trees library. \[Apache2]
-*   [FAISS (⭐30k)](https://github.com/facebookresearch/faiss) - A library for efficient similarity search and clustering of dense vectors. \[MIT]
-*   [ggml (⭐11k)](https://github.com/ggerganov/ggml) - Tensor library for machine learning with 16-bit and 4-bit quantization support. \[MIT]
-*   [USearch (⭐2k)](https://github.com/unum-cloud/usearch) - Fast search and clustering library for vectors and strings. \[Apache2]
+*   [catboost (⭐8.2k)](https://github.com/catboost/catboost) - A fast, scalable, high performance Gradient Boosting on Decision Trees library. \[Apache2]
+*   [FAISS (⭐32k)](https://github.com/facebookresearch/faiss) - A library for efficient similarity search and clustering of dense vectors. \[MIT]
+*   [ggml (⭐12k)](https://github.com/ggerganov/ggml) - Tensor library for machine learning with 16-bit and 4-bit quantization support. \[MIT]
+*   [USearch (⭐2.4k)](https://github.com/unum-cloud/usearch) - Fast search and clustering library for vectors and strings. \[Apache2]
 
 ### Math
 
-*   [SimSIMD (⭐828)](https://github.com/ashvardanian/SimSIMD) - Vector distance functions for x86 AVX2, AVX-512, Arm NEON, and SVE. \[Apache2]
+*   [SimSIMD (⭐1.2k)](https://github.com/ashvardanian/SimSIMD) - Vector distance functions for x86 AVX2, AVX-512, Arm NEON, and SVE. \[Apache2]
 
 ### Networking
 
-*   [RedPanda (⭐9.3k)](https://github.com/redpanda-data/redpanda) - Streaming data platform for developers. Kafka API compatible. 10x faster. \[BSL]
-*   [UCall (⭐1.1k)](https://github.com/unum-cloud/ucall) - A high-performance SIMD-accelerated RPC library on io\_uring. \[Apache2]
+*   [RedPanda (⭐9.9k)](https://github.com/redpanda-data/redpanda) - Streaming data platform for developers. Kafka API compatible. 10x faster. \[BSL]
+*   [UCall (⭐1.2k)](https://github.com/unum-cloud/ucall) - A high-performance SIMD-accelerated RPC library on io\_uring. \[Apache2]
 
 ## [7. Awesome Dos](/content/balintkissdev/awesome-dos/README.md)
 
@@ -72,7 +72,7 @@
 
 ### Contents / Entertainment
 
-*   [Get Games (⭐5)](https://github.com/regenin/get_games) - Flutter app showing free and discounted games, find the cheapest store by [regenin](https://github.com/regenin).
+*   [Get Games (⭐10)](https://github.com/regenin/get_games) - Flutter app showing free and discounted games, find the cheapest store by [regenin](https://github.com/regenin).
 
 ## [9. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
@@ -90,7 +90,7 @@
 
 ### Editing Support / Diagnostics
 
-*   [gregorias/coerce.nvim (⭐104)](https://github.com/gregorias/coerce.nvim) - Change keyword case.
+*   [gregorias/coerce.nvim (⭐144)](https://github.com/gregorias/coerce.nvim) - Change keyword case.
 
 ## [12. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 

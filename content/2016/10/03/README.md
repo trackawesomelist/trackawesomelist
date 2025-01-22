@@ -10,7 +10,7 @@
 
 ### Swift / Git
 
-*   [IDZSwiftCommonCrypto (⭐477)](https://github.com/iosdevzone/IDZSwiftCommonCrypto) - Wrapper for Apple's [CommonCrypto](https://opensource.apple.com/source/CommonCrypto/) library written in Swift.
+*   [IDZSwiftCommonCrypto (⭐478)](https://github.com/iosdevzone/IDZSwiftCommonCrypto) - Wrapper for Apple's [CommonCrypto](https://opensource.apple.com/source/CommonCrypto/) library written in Swift.
 
 ## [2. Awesome Sass](/content/Famolus/awesome-sass/README.md)
 
@@ -167,11 +167,11 @@
 
 ### Vert.x Event Bus Clients
 
-*   [Swift (⭐5)](https://github.com/tobias/vertx-swift-eventbus) - Event bus client for [Apple's Swift](https://swift.org) using the [TCP-based protocol (⭐48)](https://github.com/vert-x3/vertx-tcp-eventbus-bridge).
-*   [Python (⭐12)](https://github.com/jaymine/TCP-eventbus-client-Python) - Event bus client for Python using the [TCP-based protocol (⭐48)](https://github.com/vert-x3/vertx-tcp-eventbus-bridge).
-*   [C# (⭐5)](https://github.com/jaymine/TCP-eventbus-client-C-Sharp) - Event bus client for C# using the [TCP-based protocol (⭐48)](https://github.com/vert-x3/vertx-tcp-eventbus-bridge).
-*   [C (⭐4)](https://github.com/jaymine/TCP-eventbus-client-C) - Event bus client for C99 using the [TCP-based protocol (⭐48)](https://github.com/vert-x3/vertx-tcp-eventbus-bridge).
-*   [Go (⭐28)](https://github.com/jponge/vertx-go-tcp-eventbus-bridge)- Event bus client for Go-lang using the [TCP-based protocol (⭐48)](https://github.com/vert-x3/vertx-tcp-eventbus-bridge).
+*   [Swift (⭐5)](https://github.com/tobias/vertx-swift-eventbus) - Event bus client for [Apple's Swift](https://swift.org) using the [TCP-based protocol (⭐50)](https://github.com/vert-x3/vertx-tcp-eventbus-bridge).
+*   [Python (⭐12)](https://github.com/jaymine/TCP-eventbus-client-Python) - Event bus client for Python using the [TCP-based protocol (⭐50)](https://github.com/vert-x3/vertx-tcp-eventbus-bridge).
+*   [C# (⭐5)](https://github.com/jaymine/TCP-eventbus-client-C-Sharp) - Event bus client for C# using the [TCP-based protocol (⭐50)](https://github.com/vert-x3/vertx-tcp-eventbus-bridge).
+*   [C (⭐4)](https://github.com/jaymine/TCP-eventbus-client-C) - Event bus client for C99 using the [TCP-based protocol (⭐50)](https://github.com/vert-x3/vertx-tcp-eventbus-bridge).
+*   [Go (⭐29)](https://github.com/jponge/vertx-go-tcp-eventbus-bridge)- Event bus client for Go-lang using the [TCP-based protocol (⭐50)](https://github.com/vert-x3/vertx-tcp-eventbus-bridge).
 
 ## [9. Tips](/content/git-tips/tips/README.md)
 

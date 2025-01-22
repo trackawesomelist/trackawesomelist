@@ -38,7 +38,7 @@
 
 ### Awesome Repositories
 
-- Repository: [Hacker Roadmap (⭐13k)](https://github.com/sundowndev/hacker-roadmap)
+- Repository: [Hacker Roadmap (⭐14k)](https://github.com/sundowndev/hacker-roadmap)
 
   Description: A guide for amateur pen testers and a collection of hacking tools, resources and references to practice ethical hacking.
 
@@ -60,7 +60,7 @@
 
 ### Software / File Transfer - Web-based File Managers
 
-*   [Filestash](https://www.filestash.app/) - A web file manager that lets you manage your data anywhere it is located: FTP, SFTP, WebDAV, Git, S3, Minio, Dropbox, or Google Drive. ([Demo](https://demo.filestash.app/), [Source Code (⭐9.9k)](https://github.com/mickael-kerjean/filestash)) `AGPL-3.0` `Docker`
+*   [Filestash](https://www.filestash.app/) - A web file manager that lets you manage your data anywhere it is located: FTP, SFTP, WebDAV, Git, S3, Minio, Dropbox, or Google Drive. ([Demo](https://demo.filestash.app/), [Source Code (⭐11k)](https://github.com/mickael-kerjean/filestash)) `AGPL-3.0` `Docker`
 
 ## [7. Awesome Eosio](/content/DanailMinchev/awesome-eosio/week/README.md)
 
@@ -98,16 +98,16 @@
 
 ### Machine Learning / Preferences
 
-*   [MLKit (⭐389)](https://github.com/azihsoyn/flutter_mlkit) <!--stargazers:azihsoyn/flutter_mlkit--> - Firebase Machine Learning Kit by [Naoya Yoshizawa](https://github.com/azihsoyn)
+*   [MLKit (⭐391)](https://github.com/azihsoyn/flutter_mlkit) <!--stargazers:azihsoyn/flutter_mlkit--> - Firebase Machine Learning Kit by [Naoya Yoshizawa](https://github.com/azihsoyn)
 
 ### Vision / Preferences
 
-*   [ML Vision Camera Stream (⭐273)](https://github.com/santetis/flutter_camera_ml_vision) <!--stargazers:santetis/flutter_camera_ml_vision--> - ML vision recognitions (QRcode, face, ...) with live camera stream by [Aumard Jimmy](https://github.com/jaumard) and [Santetis](https://github.com/santetis).
+*   [ML Vision Camera Stream (⭐278)](https://github.com/santetis/flutter_camera_ml_vision) <!--stargazers:santetis/flutter_camera_ml_vision--> - ML vision recognitions (QRcode, face, ...) with live camera stream by [Aumard Jimmy](https://github.com/jaumard) and [Santetis](https://github.com/santetis).
 *   [Google Mobile Vision (⭐454)](https://github.com/edufolly/flutter_mobile_vision) <!--stargazers:edufolly/flutter_mobile_vision--> - Google Mobile Vision by [Eduardo Folly](https://github.com/edufolly)
 
 ### Vision / Augmented Reality
 
-*   [ARKit Plugin (⭐790)](https://github.com/olexale/arkit_flutter_plugin) <!--stargazers:olexale/arkit_flutter_plugin--> - Wrapper for ARKit - Apple's augmented reality platform for iOS by [Olexandr Leuschenko](https://github.com/olexale).
+*   [ARKit Plugin (⭐803)](https://github.com/olexale/arkit_flutter_plugin) <!--stargazers:olexale/arkit_flutter_plugin--> - Wrapper for ARKit - Apple's augmented reality platform for iOS by [Olexandr Leuschenko](https://github.com/olexale).
 
 ## [10. Awesome Storybook](/content/lauthieb/awesome-storybook/week/README.md)
 
@@ -141,11 +141,11 @@
 
 ### Modules
 
-*   [Metabench (⭐161)](https://github.com/ldionne/metabench) - CMake module for compile-time microbenchmarks. [`[BOOST]`](http://www.boost.org/LICENSE_1_0.txt)
+*   [Metabench (⭐181)](https://github.com/ldionne/metabench) - CMake module for compile-time microbenchmarks. [`[BOOST]`](http://www.boost.org/LICENSE_1_0.txt)
 
 ### Examples / Templates
 
-*   [cpp-project (⭐496)](https://github.com/bsamseth/cpp-project) - Boiler plate for C++ projects - tests, CI, coverage, docs. [`[UNLICENSE]`](https://unlicense.org/)
+*   [cpp-project (⭐594)](https://github.com/bsamseth/cpp-project) - Boiler plate for C++ projects - tests, CI, coverage, docs. [`[UNLICENSE]`](https://unlicense.org/)
 
 ## [13. Awesome Maintainers](/content/nayafia/awesome-maintainers/week/README.md)
 
@@ -563,25 +563,25 @@
 
 ### Basic / Bare metal / kernel development
 
-*   [hunt (⭐91)](https://github.com/huntlabs/hunt) - A refined core library for D programming language. The module has concurrency / collection / event / io / logging / text / serialize and more.
+*   [hunt (⭐95)](https://github.com/huntlabs/hunt) - A refined core library for D programming language. The module has concurrency / collection / event / io / logging / text / serialize and more.
 *   [hunt-time (⭐2)](https://github.com/huntlabs/hunt-time) - A time library and similar to Joda-time and Java.time api.
 *   [hunt-validation (⭐3)](https://github.com/huntlabs/hunt-validation) - A data validation library for DLang based on hunt library.
 
 ### Web Frameworks / Bare metal / kernel development
 
-*   [hunt-net (⭐19)](https://github.com/huntlabs/hunt-net) - High-performance network library for D programming language, event-driven asynchonous implemention(IOCP / kqueue / epoll).
-*   [hunt-http (⭐31)](https://github.com/huntlabs/hunt-http) - HTTP/1 and HTTP/2 protocol library for D.
+*   [hunt-net (⭐21)](https://github.com/huntlabs/hunt-net) - High-performance network library for D programming language, event-driven asynchonous implemention(IOCP / kqueue / epoll).
+*   [hunt-http (⭐32)](https://github.com/huntlabs/hunt-http) - HTTP/1 and HTTP/2 protocol library for D.
 *   [hunt-stomp (⭐0)](https://github.com/huntlabs/hunt-stomp) - STOMP for websocket protocol library implement in D.
-*   [Hunt Framework (⭐296)](https://github.com/huntlabs/hunt-framework/) - Hunt is a high-level D Programming Language Web framework that encourages rapid development and clean, pragmatic design. It lets you build high-performance Web applications quickly and easily.
-*   [grpc (⭐45)](https://github.com/huntlabs/grpc-dlang) - Grpc for D programming language, hunt-http library based.
+*   [Hunt Framework (⭐300)](https://github.com/huntlabs/hunt-framework/) - Hunt is a high-level D Programming Language Web framework that encourages rapid development and clean, pragmatic design. It lets you build high-performance Web applications quickly and easily.
+*   [grpc (⭐44)](https://github.com/huntlabs/grpc-dlang) - Grpc for D programming language, hunt-http library based.
 *   [kissrpc (⭐40)](https://github.com/huntlabs/kissrpc) - Fast and light, flatbuffers based rpc framework.
 *   [hunt-gossip (⭐0)](https://github.com/huntlabs/hunt-gossip) - A Apache V2 gossip protocol implementation for D programming language.
 *   [hunt-cache (⭐6)](https://github.com/huntlabs/hunt-cache) - D language universal cache library, using radix, redis and memcached.
 
 ### Database clients / XML
 
-*   [hunt-entity (⭐56)](https://github.com/huntlabs/hunt-entity) - Hunt entity is an object-relational mapping tool for the D programming language. Referring to the design idea of JPA, support PostgreSQL / MySQL / SQLite.
-*   [hunt-database (⭐46)](https://github.com/huntlabs/hunt-database) - Hunt database abstraction layer for D programing language, support PostgreSQL / MySQL / SQLite.
+*   [hunt-entity (⭐57)](https://github.com/huntlabs/hunt-entity) - Hunt entity is an object-relational mapping tool for the D programming language. Referring to the design idea of JPA, support PostgreSQL / MySQL / SQLite.
+*   [hunt-database (⭐48)](https://github.com/huntlabs/hunt-database) - Hunt database abstraction layer for D programing language, support PostgreSQL / MySQL / SQLite.
 
 ### Command Line / XML
 
@@ -589,13 +589,13 @@
 
 ### Text Processing / Language Processing
 
-*   [hunt-markdown (⭐11)](https://github.com/huntlabs/hunt-markdown) - A markdown parsing and rendering library for D programming language. Support commonMark.
+*   [hunt-markdown (⭐12)](https://github.com/huntlabs/hunt-markdown) - A markdown parsing and rendering library for D programming language. Support commonMark.
 
 ## [18. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
 
 ### Tools
 
-*   [MageSpecialist DevTools for Magento 2 (⭐217)](https://github.com/magespecialist/m2-MSP_DevTools) Developer Toolbar
+*   [MageSpecialist DevTools for Magento 2 (⭐222)](https://github.com/magespecialist/m2-MSP_DevTools) Developer Toolbar
 
 ## [19. Awesome Hbase](/content/rayokota/awesome-hbase/week/README.md)
 
@@ -605,7 +605,7 @@
 
 ## [20. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
-### Domain and IP Research / Telegram
+### Domain and IP Research / Steam
 
 *   [SecurityTrails](https://securitytrails.com/dns-trails) - API to search current and historical DNS records, current and historical WHOIS, technologies used by sites and whois search for phone, email, address, IPs etc.
 
@@ -660,86 +660,86 @@
 
 ### Table of Contents / Streaming Engine
 
-*   [Apache Apex (⭐351)](https://github.com/apache/apex-core) \[Java] - unified platform for big data stream and batch processing.
+*   [Apache Apex (⭐349)](https://github.com/apache/apex-core) \[Java] - unified platform for big data stream and batch processing.
 *   [Apache Flink (⭐24k)](https://github.com/apache/flink) \[Java] - system for high-throughput, low-latency data stream processing that supports stateful computation, data-driven windowing semantics and iterative stream processing.
-*   [Apache Samza (⭐805)](https://github.com/apache/samza) \[Scala/Java] - distributed stream processing framework that build on Kafka(messaging, storage) and YARN(fault tolerance, processor isolation, security and resource management).
-*   [Apache Spark Streaming (⭐39k)](https://github.com/apache/spark) \[Scala] - makes it easy to build scalable fault-tolerant streaming applications.
+*   [Apache Samza (⭐819)](https://github.com/apache/samza) \[Scala/Java] - distributed stream processing framework that build on Kafka(messaging, storage) and YARN(fault tolerance, processor isolation, security and resource management).
+*   [Apache Spark Streaming (⭐40k)](https://github.com/apache/spark) \[Scala] - makes it easy to build scalable fault-tolerant streaming applications.
 *   [Apache Storm (⭐6.6k)](https://github.com/apache/storm) \[Clojure/Java] - distributed real-time computation system. Storm is to stream processing what Hadoop is to batch processing.
 *   [AthenaX (⭐1.2k)](https://github.com/uber/AthenaX) \[Java] - Uber's Stream Analytics Framework used in production
-*   [Faust (⭐6.7k)](https://github.com/robinhood/faust) \[Python] - stream processing library, porting the ideas from Kafka Streams to Python
+*   [Faust (⭐6.8k)](https://github.com/robinhood/faust) \[Python] - stream processing library, porting the ideas from Kafka Streams to Python
 *   [Hazelcast Jet (⭐1.1k)](https://github.com/hazelcast/hazelcast-jet) \[Java] - A general purpose distributed data processing engine, built on top of Hazelcast.
 *   [hailstorm (⭐90)](https://github.com/hailstorm-hs/hailstorm) \[Haskell] - distributed stream processing with exactly-once semantics based on Storm.
 *   [mupd8(muppet) (⭐126)](https://github.com/walmartlabs/mupd8) \[Scala/Java] - mapReduce-style framework for processing fast/streaming data.
 *   [Onyx (⭐2k)](https://github.com/onyx-platform/onyx) \[Clojure] - Distributed, masterless, high performance, fault tolerant data processing.
-*   [s4 (⭐41)](https://github.com/apache/incubator-s4) \[Java] - general-purpose, distributed, scalable, fault-tolerant, pluggable platform that allows programmers to easily develop applications for processing continuous unbounded streams of data.
+*   [s4 (⭐43)](https://github.com/apache/incubator-s4) \[Java] - general-purpose, distributed, scalable, fault-tolerant, pluggable platform that allows programmers to easily develop applications for processing continuous unbounded streams of data.
 *   [SABER (⭐38)](https://github.com/lsds/Saber) \[Java/C] - Window-Based Hybrid CPU/GPU Stream Processing Engine.
 *   [SPQR (⭐29)](https://github.com/ottogroup/SPQR) \[Java] - dynamic framework for processing high volumn data streams through pipelines.
-*   [tigon (⭐283)](https://github.com/caskdata/tigon) \[C++/Java] - high throughput real-time streaming processing framework built on Hadoop and HBase.
+*   [tigon (⭐284)](https://github.com/caskdata/tigon) \[C++/Java] - high throughput real-time streaming processing framework built on Hadoop and HBase.
 *   [Teknek (⭐8)](https://github.com/edwardcapriolo/teknek-core) \[Java] - Simple elegant stream processing with interactive prototying shell SOL (Stream Operator Language)
     Mesos, designed for high performance data processing jobs that require flexibility & control.
 
 ### Table of Contents / Streaming Library
 
-*   [Apache Kafka Streams (⭐28k)](https://github.com/apache/kafka) \[Java] - lightweight stream processing library included in Apache Kafka (since 0.10 version).
-*   [Benthos (⭐8k)](https://github.com/Jeffail/benthos) \[Go] - Benthos is a high performance and resilient message streaming service, able to connect various sources and sinks and perform arbitrary actions, transformations and filters on payloads
+*   [Apache Kafka Streams (⭐29k)](https://github.com/apache/kafka) \[Java] - lightweight stream processing library included in Apache Kafka (since 0.10 version).
+*   [Benthos (⭐8.2k)](https://github.com/Jeffail/benthos) \[Go] - Benthos is a high performance and resilient message streaming service, able to connect various sources and sinks and perform arbitrary actions, transformations and filters on payloads
 *   [FS2(prev. 'Scalaz-Stream') (⭐2.4k)](https://github.com/functional-streams-for-scala/fs2) \[Scala] - Compositional, streaming I/O library for Scala.
 *   [monix (⭐1.9k)](https://github.com/monix/monix) \[Scala] - high-performance Scala / Scala.js library for composing asynchronous and event-based programs.
-*   [Streamline (⭐164)](https://github.com/hortonworks/streamline) \[Java] - Stream Analytics Framework by Hortonworks, designed as a wrapper around existing streaming solutions like Storm. Aimed to allow users to drag-and-drop streaming components to focus on business logic.
-*   [StreamAlert (⭐2.8k)](https://github.com/airbnb/streamalert) \[Python] - Airbnb's Real-time Data Analysis and Alerting.
+*   [Streamline (⭐165)](https://github.com/hortonworks/streamline) \[Java] - Stream Analytics Framework by Hortonworks, designed as a wrapper around existing streaming solutions like Storm. Aimed to allow users to drag-and-drop streaming components to focus on business logic.
+*   [StreamAlert (⭐2.9k)](https://github.com/airbnb/streamalert) \[Python] - Airbnb's Real-time Data Analysis and Alerting.
 *   [Swave (⭐171)](https://github.com/sirthias/swave) \[Scala] - A lightweight Reactive Streams Infrastructure Toolkit for Scala.
 
 ### Table of Contents / Streaming Application
 
 *   [straw (⭐103)](https://github.com/rwalk/straw) \[Python/Java] - A platform for real-time streaming search.
-*   [storm-crawler (⭐880)](https://github.com/DigitalPebble/storm-crawler) \[Java] - Web crawler SDK based on Apache Storm.
+*   [storm-crawler (⭐895)](https://github.com/DigitalPebble/storm-crawler) \[Java] - Web crawler SDK based on Apache Storm.
 
 ### Table of Contents / IoT
 
-*   [sensorbee (⭐230)](https://github.com/sensorbee/sensorbee) \[Go] - lightweight stream processing engine for IoT.
-*   [Apache Edgent (⭐215)](https://github.com/apache/incubator-edgent) \[Java] - a programming model and runtime that enables continuous streaming analytics on gateways and edge devices which can work with centralized systems to provide efficient and timely analytics across the whole IoT ecosystem: from the center to the edge, opens sourced by IBM.
+*   [sensorbee (⭐231)](https://github.com/sensorbee/sensorbee) \[Go] - lightweight stream processing engine for IoT.
+*   [Apache Edgent (⭐218)](https://github.com/apache/incubator-edgent) \[Java] - a programming model and runtime that enables continuous streaming analytics on gateways and edge devices which can work with centralized systems to provide efficient and timely analytics across the whole IoT ecosystem: from the center to the edge, opens sourced by IBM.
 
 ### Table of Contents / DSL
 
 *   [coast (⭐60)](https://github.com/bkirwi/coast) \[Scala] - a DSL that builds DAGs on top of Samza and provides exactly-once semantics.
-*   [Esper (⭐834)](https://github.com/espertechinc/esper) \[Java] - component for complex event processing (CEP) and event series analysis.
+*   [Esper (⭐843)](https://github.com/espertechinc/esper) \[Java] - component for complex event processing (CEP) and event series analysis.
 *   [Streamparse (⭐1.5k)](https://github.com/Parsely/streamparse) \[Python] - lets you run Python code against real-time streams of data via Apache Storm.
 *   [summingbird (⭐2.1k)](https://github.com/twitter/summingbird) \[Scala] - library that lets you write MapReduce programs that look like native Scala or Java collection transformations and execute them on a number of well-known distributed MapReduce platforms, including Storm and Scalding.
 
 ### Table of Contents / Data Pipeline
 
-*   [Apache Kafka (⭐28k)](https://github.com/apache/kafka) \[Scala/Java] - distributed, partitioned, replicated commit log service, which provides the functionality of a messaging system, but with a unique design.
+*   [Apache Kafka (⭐29k)](https://github.com/apache/kafka) \[Scala/Java] - distributed, partitioned, replicated commit log service, which provides the functionality of a messaging system, but with a unique design.
 *   [Apache Pulsar (⭐14k)](https://github.com/apache/incubator-pulsar) \[Java] - distributed pub-sub messaging platform with a very flexible messaging model and an intuitive client API.
-*   [camus (⭐883)](https://github.com/linkedin/camus) \[Java] - Linkedin's Kafka -> HDFS pipeline.
+*   [camus (⭐878)](https://github.com/linkedin/camus) \[Java] - Linkedin's Kafka -> HDFS pipeline.
 *   [databus (⭐3.6k)](https://github.com/linkedin/databus) \[Java] - Linkedin's source-agnostic distributed change data capture system.
 *   [flume (⭐2.5k)](https://github.com/apache/flume) \[Java] - distributed, reliable, and available service for efficiently collecting, aggregating, and moving large amounts of log data.
 *   [metaq (⭐1.3k)](https://github.com/killme2008/Metamorphosis) \[Java] - Taobao's high available, high performance distributed messaging system
 *   [NATS streaming (⭐2.5k)](https://github.com/nats-io/nats-streaming-server) \[Go] - fast disk-backed messaging solution
 *   [nsq (⭐25k)](https://github.com/nsqio/nsq) \[Go] - realtime distributed messaging platform designed to operate at scale, handling billions of messages per day.
-*   [suro (⭐793)](https://github.com/Netflix/suro) \[Java] - data pipeline service for collecting, aggregating, and dispatching large volume of application events including log data.
+*   [suro (⭐794)](https://github.com/Netflix/suro) \[Java] - data pipeline service for collecting, aggregating, and dispatching large volume of application events including log data.
 
 ### Table of Contents / Online Machine Learning
 
-*   [Apache Samoa (⭐246)](https://github.com/apache/incubator-samoa) \[Java] - distributed streaming machine learning (ML) framework that contains a programing abstraction for distributed streaming ML algorithms.
-*   [DataSketches (⭐887)](https://github.com/DataSketches/sketches-core) \[Java] - sketches library from Yahoo!.
-*   [StreamingBandit (⭐79)](https://github.com/Nth-iteration-labs/streamingbandit) \[Python] - Provides a webserver to quickly setup and evaluate possible solutions to contextual multi-armed bandit (cMAB) problems.
+*   [Apache Samoa (⭐248)](https://github.com/apache/incubator-samoa) \[Java] - distributed streaming machine learning (ML) framework that contains a programing abstraction for distributed streaming ML algorithms.
+*   [DataSketches (⭐900)](https://github.com/DataSketches/sketches-core) \[Java] - sketches library from Yahoo!.
+*   [StreamingBandit (⭐80)](https://github.com/Nth-iteration-labs/streamingbandit) \[Python] - Provides a webserver to quickly setup and evaluate possible solutions to contextual multi-armed bandit (cMAB) problems.
 
 ### Table of Contents / Streaming SQL
 
 *   [pipelinedb (⭐2.6k)](https://github.com/pipelinedb/pipelinedb) \[C] - An open-source relational database that runs SQL queries continuously on streams, incrementally storing results in tables.
-*   [squall (⭐271)](https://github.com/epfldata/squall) \[Java] - Squall executes SQL queries on top of Storm for doing online processing.
+*   [squall (⭐270)](https://github.com/epfldata/squall) \[Java] - Squall executes SQL queries on top of Storm for doing online processing.
 
 ### Table of Contents / Benchmark
 
-*   [storm-perf-test (⭐76)](https://github.com/yahoo/storm-perf-test) \[Java] - a simple storm performance/stress test.
-*   [streaming-benchmarks (⭐625)](https://github.com/yahoo/streaming-benchmarks) \[Java] - Benchmarks for Low Latency (Streaming) solutions including Apache Storm, Apache Spark, Apache Flink, etc.
-*   [flotilla (⭐235)](https://github.com/tylertreat/Flotilla) \[Go] - Automated message queue orchestration for scaled-up benchmarking.
+*   [storm-perf-test (⭐74)](https://github.com/yahoo/storm-perf-test) \[Java] - a simple storm performance/stress test.
+*   [streaming-benchmarks (⭐635)](https://github.com/yahoo/streaming-benchmarks) \[Java] - Benchmarks for Low Latency (Streaming) solutions including Apache Storm, Apache Spark, Apache Flink, etc.
+*   [flotilla (⭐234)](https://github.com/tylertreat/Flotilla) \[Go] - Automated message queue orchestration for scaled-up benchmarking.
 
 ### Table of Contents / Toolkit
 
 *   [akka (⭐13k)](https://github.com/akka/akka) \[Scala] - toolkit and runtime for building highly concurrent, distributed, and resilient message-driven application on the JVM.
 *   [pulsar (⭐1.9k)](https://github.com/quantmind/pulsar/) \[Python] - Actor based event driven concurrent framework for Python.
-*   [aeron (⭐7.2k)](https://github.com/real-logic/Aeron) \[Java/C++] - efficient reliable unicast and multicast message transport.
-*   [StreamFlow (⭐251)](https://github.com/lmco/streamflow) \[Java] - stream processing tool designed to help build and monitor processing workflows.
+*   [aeron (⭐7.5k)](https://github.com/real-logic/Aeron) \[Java/C++] - efficient reliable unicast and multicast message transport.
+*   [StreamFlow (⭐253)](https://github.com/lmco/streamflow) \[Java] - stream processing tool designed to help build and monitor processing workflows.
 *   [samza-luwak (⭐99)](https://github.com/romseygeek/samza-luwak) \[Java] - uses Luwak, a stored-query engine built on Lucene, to implement full-text search on streams.
 *   [Turbine (⭐835)](https://github.com/Netflix/Turbine) \[Java] - tool for aggregating streams of Server-Sent Event (SSE) JSON data into a single stream.
 
@@ -1014,19 +1014,19 @@
 ### Applications
 
 *   [Pijul](https://pijul.org) - A patch-based distributed version control system
-*   [Servo (⭐27k)](https://github.com/servo/servo) - A prototype web browser engine
+*   [Servo (⭐29k)](https://github.com/servo/servo) - A prototype web browser engine
 
 ### Applications / Utilities
 
-*   [fcsonline/tmux-thumbs (⭐887)](https://github.com/fcsonline/tmux-thumbs) - A lightning fast version of tmux-fingers, copy/pasting tmux like vimium/vimperator.
+*   [fcsonline/tmux-thumbs (⭐936)](https://github.com/fcsonline/tmux-thumbs) - A lightning fast version of tmux-fingers, copy/pasting tmux like vimium/vimperator.
 
 ### Applications / Virtualization
 
-*   [firecracker-microvm/firecracker (⭐25k)](https://github.com/firecracker-microvm/firecracker) - A lightweight virtual machine for container workload [Firecracker Microvm](https://firecracker-microvm.github.io/)
+*   [firecracker-microvm/firecracker (⭐27k)](https://github.com/firecracker-microvm/firecracker) - A lightweight virtual machine for container workload [Firecracker Microvm](https://firecracker-microvm.github.io/)
 
 ### Applications / Web Servers
 
-*   [TheWaWaR/simple-http-server (⭐2.6k)](https://github.com/TheWaWaR/simple-http-server) - simple static http server
+*   [TheWaWaR/simple-http-server (⭐2.8k)](https://github.com/TheWaWaR/simple-http-server) - simple static http server
 
 ### Development tools / Debugging
 
@@ -1036,7 +1036,7 @@
 ### Development tools / Deployment
 
 *   Heroku
-    *   [emk/heroku-buildpack-rust (⭐519)](https://github.com/emk/heroku-buildpack-rust) - A buildpack for Rust applications on Heroku
+    *   [emk/heroku-buildpack-rust (⭐525)](https://github.com/emk/heroku-buildpack-rust) - A buildpack for Rust applications on Heroku
 
 ### Development tools / Services
 
@@ -1048,7 +1048,7 @@
 
 ### Libraries / Configuration
 
-*   [Kixunil/configure\_me (⭐59)](https://github.com/Kixunil/configure_me) \[[configure\_me](https://crates.io/crates/configure_me)] - library for processing application configuration easily
+*   [Kixunil/configure\_me (⭐65)](https://github.com/Kixunil/configure_me) \[[configure\_me](https://crates.io/crates/configure_me)] - library for processing application configuration easily
 
 ### Libraries / GUI
 
@@ -1058,10 +1058,10 @@
 ### Libraries / Network programming
 
 *   Low level
-    *   [actix/actix (⭐8.5k)](https://github.com/actix/actix) - Actor library
-    *   [dylanmckay/protocol (⭐182)](https://github.com/dylanmckay/protocol) - Custom TCP/UDP protocol definitions
-    *   [libpnet/libpnet (⭐2.2k)](https://github.com/libpnet/libpnet) - A cross-platform, low level networking
-    *   [smoltcp-rs/smoltcp (⭐3.7k)](https://github.com/smoltcp-rs/smoltcp) - A standalone, event-driven TCP/IP stack that is designed for bare-metal, real-time systems
+    *   [actix/actix (⭐8.7k)](https://github.com/actix/actix) - Actor library
+    *   [dylanmckay/protocol (⭐189)](https://github.com/dylanmckay/protocol) - Custom TCP/UDP protocol definitions
+    *   [libpnet/libpnet (⭐2.4k)](https://github.com/libpnet/libpnet) - A cross-platform, low level networking
+    *   [smoltcp-rs/smoltcp (⭐3.9k)](https://github.com/smoltcp-rs/smoltcp) - A standalone, event-driven TCP/IP stack that is designed for bare-metal, real-time systems
 
 ### Libraries / Parsing
 
@@ -1071,10 +1071,11 @@
 
 *   Client-side / WASM
     *   [cargo-web](https://crates.io/crates/cargo-web) - A Cargo subcommand for the client-side Web
-    *   [leptos (⭐16k)](https://github.com/leptos-rs/leptos) - Leptos is a full-stack, isomorphic web framework leveraging fine-grained reactivity to build declarative user interfaces.[![crate](https://img.shields.io/crates/v/create-rust-app.svg)](https://crates.io/crates/leptos)
+    *   [leptos (⭐17k)](https://github.com/leptos-rs/leptos) - Leptos is a full-stack, isomorphic web framework leveraging fine-grained reactivity to build declarative user interfaces.[![crate](https://img.shields.io/crates/v/create-rust-app.svg)](https://crates.io/crates/leptos)
     *   [sauron (⭐2k)](https://github.com/ivanceras/sauron) - Client side web framework which closely adheres to The Elm Architecture.
     *   [seed (⭐3.8k)](https://github.com/seed-rs/seed) - A framework for creating web apps
     *   [stdweb](https://crates.io/crates/stdweb) - A standard library for the client-side Web
+    *   [tinyweb (⭐58)](https://github.com/LiveDuo/tinyweb) - A minimal Rust web framework for wasm in 800 lines of code
     *   [yew](https://crates.io/crates/yew) - A framework for making client web apps
 
 ### Resources / Web programming
@@ -1085,27 +1086,23 @@
 
 ### Debug
 
-*   [Unity (⭐3.9k)](https://github.com/ThrowTheSwitch/Unity) - Simple Unit Testing for C. \[MIT]
+*   [Unity (⭐4.2k)](https://github.com/ThrowTheSwitch/Unity) - Simple Unit Testing for C. \[MIT]
 
 ### Game Engine
 
-*   [Spring (⭐3.5k)](https://github.com/spring/spring) - A powerful free cross-platform RTS game engine. \[GPLv2/GPLv3] [website](https://springrts.com/)
+*   [Spring (⭐3.6k)](https://github.com/spring/spring) - A powerful free cross-platform RTS game engine. \[GPLv2/GPLv3] [website](https://springrts.com/)
 
 ### Graphics
 
-*   [Blend2D (⭐1.6k)](https://github.com/blend2d/blend2d) - 2D vector graphics engine powered by a JIT compiler. \[Zlib] [website](https://blend2d.com/)
+*   [Blend2D (⭐1.7k)](https://github.com/blend2d/blend2d) - 2D vector graphics engine powered by a JIT compiler. \[Zlib] [website](https://blend2d.com/)
 
 ### Math
 
-*   [universal (⭐397)](https://github.com/stillwater-sc/universal) - A C++14 header-only library implementing arbitrary posit arithmetic. The posit number system is a tapered floating point that is more efficient than IEEE floating point. Posits enable reproducible computational science. \[MIT license]
+*   [universal (⭐427)](https://github.com/stillwater-sc/universal) - A C++14 header-only library implementing arbitrary posit arithmetic. The posit number system is a tapered floating point that is more efficient than IEEE floating point. Posits enable reproducible computational science. \[MIT license]
 
 ### Reflection
 
-*   [Magic Enum (⭐4.7k)](https://github.com/Neargye/magic_enum) - Header-only C++17 library provides static reflection for enums (to string, from string, iteration), work with any enum type without any macro or boilerplate code. \[MIT]
-
-### Miscellaneous
-
-*   [icecream-cpp (⭐553)](https://github.com/renatoGarcia/icecream-cpp) - A small printing library for debugging purposes. \[MIT]
+*   [Magic Enum (⭐5.1k)](https://github.com/Neargye/magic_enum) - Header-only C++17 library provides static reflection for enums (to string, from string, iteration), work with any enum type without any macro or boilerplate code. \[MIT]
 
 ## [39. Awesome Cross Platform Nodejs](/content/bcoe/awesome-cross-platform-nodejs/week/README.md)
 
@@ -1180,7 +1177,7 @@
 
 ## [41. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
-### Online services
+### Online services (a-z↓)
 
 *   [Axcept](https://axcept.io) - Testing for the whole team. Up to 100 tests in parallel. Endpoint Mocking. Code Coverage.
 *   [Fluxguard](https://fluxguard.com) - Screenshot pixel and DOM change comparisons and regressions.
@@ -1222,7 +1219,7 @@
 
 ### Suggested Awesome Lists / Useful References
 
-*   [Awesome Cucumber (⭐41)](https://github.com/virajkulkarni14/awesome-cucumber) - A (relatively-newer) curated list of awesome Cucumber and Gherkin-related resources.
+*   [Awesome Cucumber (⭐44)](https://github.com/virajkulkarni14/awesome-cucumber) - A (relatively-newer) curated list of awesome Cucumber and Gherkin-related resources.
 
 ## [45. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
 
@@ -1237,14 +1234,14 @@
 *   AngularJS
     *   [design patterns (⭐2k)](https://github.com/mgechev/angularjs-in-patterns)
 *   JavaScript
-    *   [es6 design patterns (⭐312)](https://github.com/ziyasal/design-patterns-and-idioms-in-es6)
-    *   [humans (⭐4.2k)](https://github.com/sohamkamani/javascript-design-patterns-for-humans) - ultra simplified explanation to design patterns.
-    *   [design-patterns (⭐7)](https://github.com/nnupoor/js_designpatterns)
+    *   [es6 design patterns (⭐343)](https://github.com/ziyasal/design-patterns-and-idioms-in-es6)
+    *   [humans (⭐4.4k)](https://github.com/sohamkamani/javascript-design-patterns-for-humans) - ultra simplified explanation to design patterns.
+    *   [design-patterns (⭐23)](https://github.com/nnupoor/js_designpatterns)
     *   [design patterns by addy osmani](https://addyosmani.com/resources/essentialjsdesignpatterns/book)
 *   Scala
-    *   [design-patterns (⭐180)](https://github.com/josephguan/scala-design-patterns)
+    *   [design-patterns (⭐196)](https://github.com/josephguan/scala-design-patterns)
 *   TypeScript
-    *   [design-patterns (⭐5k)](https://github.com/torokmark/design_patterns_in_typescript)
+    *   [design-patterns (⭐5.2k)](https://github.com/torokmark/design_patterns_in_typescript)
 *   UML
     *   [design-patterns quick reference](http://www.mcdonaldland.info/2007/11/28/40)
     *   [design-patterns cheat-sheet](https://www.slideshare.net/hustwj/design-patterns-cheat-sheet)
@@ -1255,59 +1252,55 @@
 
 ### DevOps & containers
 
-*   [kubernetes patterns (⭐29)](https://github.com/ro14nd-talks/kubernetes-patterns) - Presentation around the book kubernetes paterns.
+*   [kubernetes patterns (⭐31)](https://github.com/ro14nd-talks/kubernetes-patterns) - Presentation around the book kubernetes paterns.
 
-## [47. Awesome Mysql](/content/shlomi-noach/awesome-mysql/week/README.md)
+## [47. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+
+### Dependency Managers
+
+*   [Accio (⭐664)](https://github.com/JamitLabs/Accio) - A SwiftPM based dependency manager for iOS & Co. with improvements over Carthage.
+
+### Key Value Store
+
+*   [SecureDefaults (⭐227)](https://github.com/vpeschenkov/SecureDefaults) - A lightweight wrapper over UserDefaults & NSUserDefaults with an extra AES-256 encryption layer.
+
+### Utility / Barcode
+
+*   [Codextended (⭐1.5k)](https://github.com/JohnSundell/Codextended) - Extensions giving Codable API type inference super powers.
+
+## [48. Awesome Mysql](/content/shlomi-noach/awesome-mysql/week/README.md)
 
 ### Binlog-Replication
 
 *   [Kingbus (⭐888)](https://github.com/flike/kingbus) - A distributed MySQL binlog storage system built on Raft
-*   [mysql-ripple (⭐369)](https://github.com/google/mysql-ripple) (archived) - Ripple, a server that can serve as a middleman in MySQL replication
+*   [mysql-ripple (⭐373)](https://github.com/google/mysql-ripple) (archived) - Ripple, a server that can serve as a middleman in MySQL replication
 
-## [48. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [49. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Platforms
 
-*   [Node.js (⭐57k)](https://github.com/sindresorhus/awesome-nodejs#readme) - Async non-blocking event-driven JavaScript runtime built on Chrome's V8 JavaScript engine.
-    *   [Cross-Platform (⭐1.1k)](https://github.com/bcoe/awesome-cross-platform-nodejs#readme) - Writing cross-platform code on Node.js.
+*   [Node.js (⭐59k)](https://github.com/sindresorhus/awesome-nodejs#readme) - Async non-blocking event-driven JavaScript runtime built on Chrome's V8 JavaScript engine.
+    *   [Cross-Platform (⭐1.2k)](https://github.com/bcoe/awesome-cross-platform-nodejs#readme) - Writing cross-platform code on Node.js.
 
-## [49. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+## [50. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
 ### Resources / Podcasts
 
 *   [TalkPython](https://talkpython.fm/) - The leading Python podcast with several episodes on Django.
 
-## [50. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [51. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### ORM/ODM Extensions
 
 *   [rethinkdb-orm (⭐24)](https://github.com/spider-gazelle/rethinkdb-orm) - ORM for RethinkDB / RebirthDB
 
-## [51. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [52. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Atom, Pulsar / Third-party APIs
 
 *   [SLIMA (⭐62)](https://github.com/neil-lindquist/slima) allows you to
     interactively develop Common Lisp code, turning Atom (or now Pulsar) into a
     pretty good, and actively developped, Lisp IDE. [MIT](https://opensource.org/licenses/MIT).
-
-## [52. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
-
-### Boilerplates
-
-*   [Swift Module Template (⭐447)](https://github.com/fulldecent/swift5-module-template) - An opinionated starting point for awesome, reusable modules.
-
-### Dependency Managers
-
-*   [Accio (⭐658)](https://github.com/JamitLabs/Accio) - A SwiftPM based dependency manager for iOS & Co. with improvements over Carthage.
-
-### Key Value Store
-
-*   [SecureDefaults (⭐224)](https://github.com/vpeschenkov/SecureDefaults) - A lightweight wrapper over UserDefaults & NSUserDefaults with an extra AES-256 encryption layer.
-
-### Utility / Barcode
-
-*   [Codextended (⭐1.5k)](https://github.com/JohnSundell/Codextended) - Extensions giving Codable API type inference super powers.
 
 ---
 

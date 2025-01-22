@@ -132,13 +132,13 @@
 
 ### Inductive Logic & Program Synthesis / Commonsense Knowledgebase
 
-*   [Latent Programmer: Discrete Latent Codes for Program Synthesis](https://proceedings.mlr.press/v139/hong21a.html) - ***ICML'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=9789877360194738968\&hl=en\&as_sdt=0,5)]. Paper introducing the Latent Programmer, a program synthesis method that first predicts a discrete latent code from input/output examples, and then generates the program in the target language.
+*   [Latent Programmer: Discrete Latent Codes for Program Synthesis](https://proceedings.mlr.press/v139/hong21a.html) - ***ICML'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=9789877360194738968)]. Paper introducing the Latent Programmer, a two-level program synthesis method that first predicts a discrete latent code from input/output examples, and then generates the program in the target language.
 
 ## [3. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Development tools / Web Servers
 
-*   [envio-cli/envio (⭐760)](https://github.com/envio-cli/envio) - A Modern And Secure CLI Tool For Managing Environment Variables [![build badge](https://github.com/envio-cli/envio/actions/workflows/CICD.yml/badge.svg?branch=main)](https://github.com/envio-cli/envio/actions/workflows/CICD.yml)
+*   [envio-cli/envio (⭐835)](https://github.com/envio-cli/envio) - A Modern And Secure CLI Tool For Managing Environment Variables [![build badge](https://github.com/envio-cli/envio/actions/workflows/CICD.yml/badge.svg?branch=main)](https://github.com/envio-cli/envio/actions/workflows/CICD.yml)
 
 ## [4. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md)
 
@@ -186,17 +186,17 @@
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [css-media-splitter/vite-plugin (⭐31)](https://github.com/levchak0910/css-media-splitter) - Extracts all `@media` At-rules into a dedicated `.css` files and download it only when matches the media query.
+*   [css-media-splitter/vite-plugin (⭐37)](https://github.com/levchak0910/css-media-splitter) - Extracts all `@media` At-rules into a dedicated `.css` files and download it only when matches the media query.
 
 ### React / Loaders
 
-*   [vite-plugin-react-rich-svg (⭐5)](https://github.com/iGoodie/vite-plugin-react-rich-svg) - Seamless SVG loader with versatile import options; such as DataURI, SVGR Component and Raw HTML Code.
+*   [vite-plugin-react-rich-svg (⭐7)](https://github.com/iGoodie/vite-plugin-react-rich-svg) - Seamless SVG loader with versatile import options; such as DataURI, SVGR Component and Raw HTML Code.
 
 ## [9. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### Tools / Paid and commercially available materials
 
-*   [svd-generator](https://codeberg.org/weathered-steel/svd-generator) CLI tool to parse flattened device tree files, and create a SVD file. - ![crates.io](https://img.shields.io/crates/v/svd-generator.svg)
+*   [svd-generator](https://codeberg.org/weathered-steel/svd-generator) CLI tool to parse flattened device tree files, and create a SVD file. - [![crates.io](https://img.shields.io/crates/v/svd-generator.svg)](https://crates.io/crates/svd-generator)
 
 ## [10. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
 
@@ -220,13 +220,13 @@
 
 ### Testing / Miscellaneous
 
-*   [Selfie (⭐47)](https://github.com/diffplug/selfie) - Snapshot testing (inline and on disk).
+*   [Selfie (⭐52)](https://github.com/diffplug/selfie) - Snapshot testing (inline and on disk).
 
 ## [12. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### CMS
 
-*   [Piranha CMS (⭐1.9k)](https://github.com/PiranhaCMS/piranha.core) - Piranha is the fun, fast and lightweight .NET framework for developing cms-based web applications with an extra bite. It's built on ASP.NET MVC and Web Pages and is fully compatible with both Visual Studio and WebMatrix. <https://piranhacms.org>
+*   [Piranha CMS (⭐2.1k)](https://github.com/PiranhaCMS/piranha.core) - Piranha is the fun, fast and lightweight .NET framework for developing cms-based web applications with an extra bite. It's built on ASP.NET MVC and Web Pages and is fully compatible with both Visual Studio and WebMatrix. <https://piranhacms.org>
 
 ### Code Snippets
 
@@ -234,13 +234,13 @@
 
 ### Game
 
-*   [Foster (⭐413)](https://github.com/FosterFramework/Foster) - Foster is a small cross-platform 2D game framework in C#.
+*   [Foster (⭐489)](https://github.com/FosterFramework/Foster) - Foster is a small cross-platform 2D game framework in C#.
 
 ## [13. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### (requires Neovim 0.5) / Diagnostics
 
-*   [artemave/workspace-diagnostics.nvim (⭐130)](https://github.com/artemave/workspace-diagnostics.nvim) - Populate diagnostics for all projects files, not just the opened ones.
+*   [artemave/workspace-diagnostics.nvim (⭐178)](https://github.com/artemave/workspace-diagnostics.nvim) - Populate diagnostics for all projects files, not just the opened ones.
 
 ---
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 05, 2021
 
-15 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -34,7 +34,7 @@
 
 ### Tools / Mypy plugins
 
-*   [kubernetes-typed (⭐19)](https://github.com/gordonbondon/kubernetes-typed) - Plugin for kubernetes [CRD](https://kubernetes.io/docs/tasks/extend-kubernetes/custom-resources/custom-resource-definitions/) type checking.
+*   [kubernetes-typed (⭐21)](https://github.com/gordonbondon/kubernetes-typed) - Plugin for kubernetes [CRD](https://kubernetes.io/docs/tasks/extend-kubernetes/custom-resources/custom-resource-definitions/) type checking.
 
 ## [4. Awesome Geojson](/content/tmcw/awesome-geojson/README.md)
 
@@ -52,7 +52,7 @@
 
 ### Third-Party Packages / Task Queues
 
-*   [celery-exporter (⭐394)](https://github.com/danihodovic/celery-exporter) - Prometheus & Grafana monitoring of Celery tasks.
+*   [celery-exporter (⭐449)](https://github.com/danihodovic/celery-exporter) - Prometheus & Grafana monitoring of Celery tasks.
 
 ## [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
@@ -160,7 +160,7 @@
 
 ### News / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
-*   [Awesome-newsCN-feeds (⭐67)](https://github.com/RSS-Renaissance/awesome-newsCN-feeds)
+*   [Awesome-newsCN-feeds (⭐90)](https://github.com/RSS-Renaissance/awesome-newsCN-feeds)
 
 ### Tech or IT / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
@@ -168,13 +168,13 @@
 
 ### Multi-subject / Crypto or Blockchain relevant
 
-*   [Awesome RSS Feeds (⭐761)](https://github.com/spians/awesome-rss-feeds) <sup>[1073](https://t.me/s/aboutrss/1073)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/spians/awesome-rss-feeds)
+*   [Awesome RSS Feeds (⭐1k)](https://github.com/spians/awesome-rss-feeds) <sup>[1073](https://t.me/s/aboutrss/1073)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/spians/awesome-rss-feeds)
 
 ### Aggregators of Indieblogs / Crypto or Blockchain relevant
 
 *   [中文博客RSS订阅](https://t.me/s/chinarss) <sup>[299](https://t.me/s/aboutrss/299)</sup>
 *   [RSSBlog](https://rssblog.cn/) <sup>[1079](https://t.me/s/aboutrss/1079)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/caibingcheng/rssblog)
-*   [Awesome-blogCN-feeds (⭐515)](https://github.com/RSS-Renaissance/awesome-blogCN-feeds)
+*   [Awesome-blogCN-feeds (⭐532)](https://github.com/RSS-Renaissance/awesome-blogCN-feeds)
 *   [Mataroa Collection](https://collection.mataroa.blog/)
 
 ### Views / Discussions / Experiences / Crypto or Blockchain relevant
@@ -213,15 +213,15 @@
 
 ### AppImage discovery / App centers
 
-*   [AppImagePool (⭐536)](https://github.com/prateekmedia/appimagepool) - Simple, modern AppImageHub Client, powered by flutter.
+*   [AppImagePool (⭐649)](https://github.com/prateekmedia/appimagepool) - Simple, modern AppImageHub Client, powered by flutter.
 
 ### AppImage consumption tools / Desktop integration
 
-*   [AppImage To Gnome (⭐4)](https://github.com/DejfCold/ATG) - Monitors and (de)installs AppImages from the Gnome desktop.
+*   [AppImage To Gnome (⭐6)](https://github.com/DejfCold/ATG) - Monitors and (de)installs AppImages from the Gnome desktop.
 
 ### AppImage developer tools / Build systems
 
-*   [AppImage.cmake (⭐8)](https://github.com/Ravbug/AppImage.cmake) - CMake script which facilitates generating AppImage executables for Linux.
+*   [AppImage.cmake (⭐17)](https://github.com/Ravbug/AppImage.cmake) - CMake script which facilitates generating AppImage executables for Linux.
 
 ### AppImage developer tools / Deployment tools for Flash applications
 
@@ -229,23 +229,13 @@
 
 ### AppImage developer tools / Deployment tools for Rust applications
 
-*   [Cargo AppImage (⭐36)](https://github.com/StratusFearMe21/cargo-appimage) - Cargo program that allows you to convert your Rust programs into AppImages.
+*   [Cargo AppImage (⭐61)](https://github.com/StratusFearMe21/cargo-appimage) - Cargo program that allows you to convert your Rust programs into AppImages.
 
 ## [14. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / Frameworks
 
-*   [element-pro-components (⭐264)](https://github.com/tolking/element-pro-components) A component library for Vue 3 base on element-plus
-
-### Components & Libraries / Dev Tools
-
-*   [components-helper (⭐32)](https://github.com/tolking/components-helper) - Based on the documents to provide code prompt files for vue component library.
-
-## [15. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
-
-### Hacks and homebrew / Ironsworn
-
-*   [The Orphans of Ragnarökr](https://www.drivethrurpg.com/product/361512) - A post-apocalyptic/Ragnarok Viking setting
+*   [element-pro-components (⭐282)](https://github.com/tolking/element-pro-components) A component library for Vue 3 base on element-plus
 
 ---
 

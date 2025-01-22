@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 19, 2017
 
-4 awesome lists updated today.
+3 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -18,13 +18,7 @@
 
 *   [System.Linq.Dynamic.Core (⭐1.5k)](https://github.com/StefH/System.Linq.Dynamic.Core) - The .NET Standard (.NET Core) version from the System Linq Dynamic functionality.
 
-## [3. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / UI Utilities
-
-*   [vue-scrollview (⭐116)](https://github.com/chrishurlburt/vue-scrollview) - A component utilizing scoped slots to detect when a vue component enters and leaves the viewport.
-
-## [4. Awesome Rest](/content/marmelab/awesome-rest/README.md)
+## [3. Awesome Rest](/content/marmelab/awesome-rest/README.md)
 
 ### SaaS Tools / Symfony2
 

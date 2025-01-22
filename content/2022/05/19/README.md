@@ -65,7 +65,7 @@
 
 ### Components & Libraries / UI Utilities
 
-*   [@formkit/auto-animate (⭐12k)](https://github.com/formkit/auto-animate) Add motion to your apps with a single line of code
+*   [@formkit/auto-animate (⭐13k)](https://github.com/formkit/auto-animate) Add motion to your apps with a single line of code
 
 ## [4. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
@@ -116,7 +116,7 @@
 
 ### Utilities
 
-*   [nativefs (⭐34)](https://github.com/EngineerSmith/nativefs) - Read and write files outside of LÖVE's allowed paths.
+*   [nativefs (⭐41)](https://github.com/EngineerSmith/nativefs) - Read and write files outside of LÖVE's allowed paths.
 
 ## [10. Awesome Plone](/content/collective/awesome-plone/README.md)
 
@@ -125,7 +125,7 @@
 *   [collective.folderishtraverse (⭐3)](https://github.com/collective/collective.folderishtraverse) - Traverse to first item in folder.
 *   [collective.folderishtypes (⭐2)](https://github.com/collective/collective.folderishtypes) - Provides the types "Folderish Event", "Folderish News Item" and "Folderish Document" as replacements for default types. Those types are able to hold any other content, like a Folder.
 *   [collective.restrictportlets (⭐0)](https://github.com/collective/collective.restrictportlets) - Allows you to restrict the available portlets that non-Managers can add.
-*   [zopyx.ipsumplone (⭐2)](https://github.com/zopyx/zopyx.ipsumplone) - Creates demo content and demo images for Plone.
+*   [zopyx.ipsumplone (⭐1)](https://github.com/zopyx/zopyx.ipsumplone) - Creates demo content and demo images for Plone.
 
 ### Events
 
@@ -137,7 +137,7 @@
 
 *   [collective.easyform (⭐13)](https://github.com/collective/collective.easyform) - EasyForm provides a Plone form builder through-the-web using fields, widgets, actions and validators. Form input can be saved or emailed. A simple and user-friendly interface allows non-programmers to create custom forms.
 *   [collective.fieldedit (⭐3)](https://github.com/collective/collective.fieldedit) - A flexible form to edit selected fields of a content type.
-*   [collective.honeypot (⭐3)](https://github.com/collective/collective.honeypot) - Honeypot protection for forms.
+*   [collective.honeypot (⭐5)](https://github.com/collective/collective.honeypot) - Honeypot protection for forms.
 *   [collective.z3cform.datagridfield (⭐8)](https://github.com/collective/collective.z3cform.datagridfield) - A field with a datagrid (table), where each row is a sub form.
 *   [collective.z3cform.norobots (⭐5)](https://github.com/collective/collective.z3cform.norobots) - A "human" captcha widget based on a list of questions/answers.
 *   [plone.formwidgets.hcaptcha (⭐1)](https://github.com/plone/plone.formwidget.hcaptcha) - HCaptcha widget to protect Plone from bots, spam, and other forms of automated abuse.
@@ -164,7 +164,7 @@
 ### SEO
 
 *   [bda.plone.gtm (⭐2)](https://github.com/bluedynamics/bda.plone.gtm) - Google Tag Manager Integration.
-*   [collective.behavior.seo (⭐2)](https://github.com/collective/collective.behavior.seo) - Adds extra fields used for SEO optimisation.
+*   [collective.behavior.seo (⭐3)](https://github.com/collective/collective.behavior.seo) - Adds extra fields used for SEO optimisation.
 
 ### Authentication
 
@@ -204,15 +204,15 @@
 
 ### (requires Neovim 0.5)
 
-*   [amrbashir/nvim-docs-view (⭐138)](https://github.com/amrbashir/nvim-docs-view) - Display LSP hover documentation in a side panel.
+*   [amrbashir/nvim-docs-view (⭐151)](https://github.com/amrbashir/nvim-docs-view) - Display LSP hover documentation in a side panel.
 
 ### Snippet / Diagnostics
 
-*   [smjonas/snippet-converter.nvim (⭐170)](https://github.com/smjonas/snippet-converter.nvim) - Convert snippets between the most common snippet formats and modify them using a few lines of Lua code.
+*   [smjonas/snippet-converter.nvim (⭐180)](https://github.com/smjonas/snippet-converter.nvim) - Convert snippets between the most common snippet formats and modify them using a few lines of Lua code.
 
 ### Formatting / Diagnostics
 
-*   [lukas-reineke/lsp-format.nvim (⭐561)](https://github.com/lukas-reineke/lsp-format.nvim) - A wrapper around Neovims native LSP formatting.
+*   [lukas-reineke/lsp-format.nvim (⭐583)](https://github.com/lukas-reineke/lsp-format.nvim) - A wrapper around Neovims native LSP formatting.
 
 ## [13. Awesome Security](/content/sbilly/awesome-security/README.md)
 
@@ -224,25 +224,25 @@
 
 ### Tools / Misc
 
-*   [Qdrant](https://qdrant.tech) – Qdrant is [open source (⭐19k)](https://github.com/qdrant/qdrant) vector similarity search engine with extended filtering support, written in Rust.
+*   [Qdrant](https://qdrant.tech) – Qdrant is [open source (⭐21k)](https://github.com/qdrant/qdrant) vector similarity search engine with extended filtering support, written in Rust.
 
 ## [15. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Database
 
-*   [Qdrant (⭐20k)](https://github.com/qdrant/qdrant) - An open source vector similarity search engine with extended filtering support [![Tests](https://github.com/qdrant/qdrant/workflows/Tests/badge.svg)](https://github.com/qdrant/qdrant/actions)
+*   [Qdrant (⭐21k)](https://github.com/qdrant/qdrant) - An open source vector similarity search engine with extended filtering support [![Tests](https://github.com/qdrant/qdrant/workflows/Tests/badge.svg)](https://github.com/qdrant/qdrant/actions)
 
 ## [16. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Utility / Barcode
 
-*   [SwiftBoost (⭐196)](https://github.com/sparrowcode/SwiftBoost) - Collection of Swift-extensions to boost development process.
+*   [SwiftBoost (⭐203)](https://github.com/sparrowcode/SwiftBoost) - Collection of Swift-extensions to boost development process.
 
 ## [17. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
 
 ### Tools - Miscellaneous / React
 
-*   [microfiber (⭐32)](https://github.com/anvilco/graphql-introspection-tools) - Query and manipulate GraphQL introspection query results in useful ways.
+*   [microfiber (⭐33)](https://github.com/anvilco/graphql-introspection-tools) - Query and manipulate GraphQL introspection query results in useful ways.
 
 ---
 

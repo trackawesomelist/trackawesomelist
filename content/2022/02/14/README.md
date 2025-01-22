@@ -30,31 +30,31 @@
 
 ### Libraries and Tools / C++
 
-*   [CANdevStudio (⭐816)](https://github.com/GENIVI/CANdevStudio) - Development tool for CAN bus simulation. CANdevStudio enables to simulate CAN signals such as ignition status, doors status or reverse gear by every automotive developer.
+*   [CANdevStudio (⭐969)](https://github.com/GENIVI/CANdevStudio) - Development tool for CAN bus simulation. CANdevStudio enables to simulate CAN signals such as ignition status, doors status or reverse gear by every automotive developer.
 
 ### Libraries and Tools / Java
 
-*   [ITS Geonetworking (⭐98)](https://github.com/alexvoronov/geonetworking) - ETSI ITS G5 GeoNetworking stack, in Java: CAM-DENM / ASN.1 PER / BTP / GeoNetworking
+*   [ITS Geonetworking (⭐102)](https://github.com/alexvoronov/geonetworking) - ETSI ITS G5 GeoNetworking stack, in Java: CAM-DENM / ASN.1 PER / BTP / GeoNetworking
 
 ## [2. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
 ### Plugins
 
-*   [tmux-browser (⭐81)](https://github.com/ofirgall/tmux-browser) Web browser sessions attached to tmux sessions.
+*   [tmux-browser (⭐92)](https://github.com/ofirgall/tmux-browser) Web browser sessions attached to tmux sessions.
 
 ## [3. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Date and Time Processing
 
-*   [montrose (⭐842)](https://github.com/rossta/montrose) - a simple library for expressing, serializing, and enumerating recurring events in Ruby.
-*   [stamp (⭐968)](https://github.com/jeremyw/stamp) - Format dates and times based on human-friendly examples, not arcane strftime directives.
+*   [montrose (⭐846)](https://github.com/rossta/montrose) - a simple library for expressing, serializing, and enumerating recurring events in Ruby.
+*   [stamp (⭐965)](https://github.com/jeremyw/stamp) - Format dates and times based on human-friendly examples, not arcane strftime directives.
 
 ## [4. Awesome Malware Persistence](/content/Karneades/awesome-malware-persistence/README.md)
 
 ### Techniques / Generic
 
 *   [MITRE ATT\&CK tactic "TA0003 - Persistence"](https://attack.mitre.org/tactics/TA0003/) - MITRE ATT\&CK tactic "TA0003 - Persistence".
-*   [Sigma rules (⭐8k)](https://github.com/Neo23x0/sigma/tree/master/rules) - Sigma rules which covers persistence techniques. You can even use filters such as `--filter tag=attack.persistence` or specifically for one technique `tag=attack.t1084`.
+*   [Sigma rules (⭐8.4k)](https://github.com/Neo23x0/sigma/tree/master/rules) - Sigma rules which covers persistence techniques. You can even use filters such as `--filter tag=attack.persistence` or specifically for one technique `tag=attack.t1084`.
 
 ### Techniques / Linux
 
@@ -73,28 +73,28 @@
 
 ### Persistence Removal / Generic
 
-*   [Awesome Incident Response (⭐7.5k)](https://github.com/meirwah/awesome-incident-response) - Use the tools and resources for security incident response, aimed to help security analysts and DFIR teams.
+*   [Awesome Incident Response (⭐7.7k)](https://github.com/meirwah/awesome-incident-response) - Use the tools and resources for security incident response, aimed to help security analysts and DFIR teams.
 
 ### Persistence Removal / Windows
 
-*   [PowerSponse (⭐37)](https://github.com/swisscom/PowerSponse) - PowerSponse includes various commands for cleanup of persistence mechanisms.
+*   [PowerSponse (⭐38)](https://github.com/swisscom/PowerSponse) - PowerSponse includes various commands for cleanup of persistence mechanisms.
 *   [Removing Backdoors – Powershell Empire Edition](https://www.n00py.io/2017/01/removing-backdoors-powershell-empire-edition/) - Various blog posts handle the removal of WMI implants.
 *   [RegDelNull](https://docs.microsoft.com/en-us/sysinternals/downloads/regdelnull) - Removal of registry keys with null bytes - used e.g. in run keys for evasion.
 
-### Detection Testing / Windows
+### Detection Testing / Generic
 
-*   [Atomic Red Team (⭐9.5k)](https://github.com/redcanaryco/atomic-red-team) - Atomic Red Team supports also the MITRE ATT\&CK persistence techniques, see e.g. [T1044 "File System Permissions Weakness" (⭐9.5k)](https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1044/T1044.yaml).
+*   [Atomic Red Team (⭐9.8k)](https://github.com/redcanaryco/atomic-red-team) - Atomic Red Team supports also the MITRE ATT\&CK persistence techniques, see e.g. [T1044 "File System Permissions Weakness" (⭐9.8k)](https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1044/T1044.yaml).
 
 ### Collection / Generic
 
-*   [Awesome Forensics (⭐3.8k)](https://github.com/Cugu/awesome-forensics) - Use the tools from this list which includes awesome free (mostly open source) forensic analysis tools and resources. They help collecting the persistence mechanisms at scale, e.g. by using remote forensics tools.
+*   [Awesome Forensics (⭐4k)](https://github.com/Cugu/awesome-forensics) - Use the tools from this list which includes awesome free (mostly open source) forensic analysis tools and resources. They help collecting the persistence mechanisms at scale, e.g. by using remote forensics tools.
 *   [osquery](https://osquery.readthedocs.io) - Query persistence mechanisms on clients.
-*   [OSSEC (⭐4.4k)](https://github.com/ossec/ossec-hids) - Use rules and logs from the HIDS to detection configuration changes.
+*   [OSSEC (⭐4.5k)](https://github.com/ossec/ossec-hids) - Use rules and logs from the HIDS to detection configuration changes.
 
 ### Collection / Windows
 
-*   [PowerShell Autoruns (⭐248)](https://github.com/p0w3rsh3ll/AutoRuns) - A PowerShell version of Autoruns.
-*   [KAPE](https://www.kroll.com/en/insights/publications/cyber/kroll-artifact-parser-extractor-kape) - The tool allows collecting various predefined artifactgs using targets and modules, see [KapeFiles (⭐628)](https://github.com/EricZimmerman/KapeFiles) which include persistence mechanisms, among others there's a collection of [LNK files (⭐628)](https://github.com/EricZimmerman/KapeFiles/blob/master/Targets/Windows/LNKFilesAndJumpLists.tkape), [scheduled task files (⭐628)](https://github.com/EricZimmerman/KapeFiles/blob/master/Targets/Windows/ScheduledTasks.tkape) and [scheduled task listing (⭐628)](https://github.com/EricZimmerman/KapeFiles/blob/master/Modules/LiveResponse/schtasks.mkape) or a [WMI repository auditing (⭐628)](https://github.com/EricZimmerman/KapeFiles/blob/master/Modules/LiveResponse/WMI-Repository-Auditing.mkape) module.
+*   [PowerShell Autoruns (⭐257)](https://github.com/p0w3rsh3ll/AutoRuns) - A PowerShell version of Autoruns.
+*   [KAPE](https://www.kroll.com/en/insights/publications/cyber/kroll-artifact-parser-extractor-kape) - The tool allows collecting various predefined artifactgs using targets and modules, see [KapeFiles (⭐662)](https://github.com/EricZimmerman/KapeFiles) which include persistence mechanisms, among others there's a collection of [LNK files (⭐662)](https://github.com/EricZimmerman/KapeFiles/blob/master/Targets/Windows/LNKFilesAndJumpLists.tkape), [scheduled task files (⭐662)](https://github.com/EricZimmerman/KapeFiles/blob/master/Targets/Windows/ScheduledTasks.tkape) and [scheduled task listing (⭐662)](https://github.com/EricZimmerman/KapeFiles/blob/master/Modules/LiveResponse/schtasks.mkape) or a [WMI repository auditing (⭐662)](https://github.com/EricZimmerman/KapeFiles/blob/master/Modules/LiveResponse/WMI-Repository-Auditing.mkape) module.
 
 ## [5. Awesome List](/content/sindresorhus/awesome/README.md)
 
@@ -104,18 +104,18 @@
 
 ### Back-End Development
 
-*   [Laravel (⭐12k)](https://github.com/chiraggude/awesome-laravel#readme) - PHP framework.
-    *   [Education (⭐388)](https://github.com/fukuball/Awesome-Laravel-Education#readme)
-    *   [TALL Stack (⭐906)](https://github.com/livewire/awesome-tall-stack#readme) - Full-stack development solution featuring libraries built by the Laravel community.
+*   [Laravel (⭐13k)](https://github.com/chiraggude/awesome-laravel#readme) - PHP framework.
+    *   [Education (⭐391)](https://github.com/fukuball/Awesome-Laravel-Education#readme)
+    *   [TALL Stack (⭐931)](https://github.com/livewire/awesome-tall-stack#readme) - Full-stack development solution featuring libraries built by the Laravel community.
 *   [Vapor (⭐1.2k)](https://github.com/vapor-community/awesome-vapor#readme) - Server-side development in Swift.
 
 ### Computer Science
 
 *   [Speech and Natural Language Processing (⭐2.2k)](https://github.com/edobashira/speech-language-processing#readme)
-    *   [Spanish (⭐328)](https://github.com/dav009/awesome-spanish-nlp#readme)
+    *   [Spanish (⭐331)](https://github.com/dav009/awesome-spanish-nlp#readme)
     *   [NLP with Ruby (⭐1k)](https://github.com/arbox/nlp-with-ruby#readme)
-    *   [Question Answering (⭐751)](https://github.com/seriousran/awesome-qa#readme) - The science of asking and answering in natural language with a machine.
-    *   [Natural Language Generation (⭐450)](https://github.com/accelerated-text/awesome-nlg#readme) - Generation of text used in data to text, conversational agents, and narrative generation applications.
+    *   [Question Answering (⭐756)](https://github.com/seriousran/awesome-qa#readme) - The science of asking and answering in natural language with a machine.
+    *   [Natural Language Generation (⭐457)](https://github.com/accelerated-text/awesome-nlg#readme) - Generation of text used in data to text, conversational agents, and narrative generation applications.
 
 ### Big Data
 
@@ -123,18 +123,18 @@
 
 ### Gaming
 
-*   [Construct 2 (⭐70)](https://github.com/ConstructCommunity/awesome-construct#readme) - Game engine.
+*   [Construct 2 (⭐71)](https://github.com/ConstructCommunity/awesome-construct#readme) - Game engine.
 
 ### Testing
 
-*   [k6 (⭐561)](https://github.com/grafana/awesome-k6#readme) - Open-source, developer-centric performance monitoring and load testing solution.
+*   [k6 (⭐595)](https://github.com/grafana/awesome-k6#readme) - Open-source, developer-centric performance monitoring and load testing solution.
 
 ### Miscellaneous
 
-*   [Analytics (⭐3.9k)](https://github.com/0xnr/awesome-analytics#readme)
-*   [Data Visualization (⭐3.7k)](https://github.com/javierluraschi/awesome-dataviz#readme)
+*   [Analytics (⭐4k)](https://github.com/0xnr/awesome-analytics#readme)
+*   [Data Visualization (⭐3.8k)](https://github.com/javierluraschi/awesome-dataviz#readme)
 *   [Product Design (⭐2.3k)](https://github.com/ttt30ga/awesome-product-design#readme) - Design a product from the initial concept to production.
-*   [QR Code (⭐91)](https://github.com/make-github-pseudonymous-again/awesome-qr-code#readme) - A type of matrix barcode that can be used to store and share a small amount of information.
+*   [QR Code (⭐105)](https://github.com/make-github-pseudonymous-again/awesome-qr-code#readme) - A type of matrix barcode that can be used to store and share a small amount of information.
 
 ### Related
 
@@ -156,7 +156,7 @@
 
 ### Graphics
 
-*   [Skia (⭐9.1k)](https://github.com/google/skia) - A complete 2D graphic library for drawing Text, Geometries, and Images. \[BSD] [website](https://skia.org/)
+*   [Skia (⭐9.5k)](https://github.com/google/skia) - A complete 2D graphic library for drawing Text, Geometries, and Images. \[BSD] [website](https://skia.org/)
 
 ## [9. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
 
@@ -167,16 +167,16 @@
 
 ### eBPF Workflow: Tools and Utilities / eBPF on Other Platforms
 
-*   [eBPF for Windows (⭐2.7k)](https://github.com/microsoft/ebpf-for-windows) - This project is a work-in-progress that allows using existing eBPF toolchains and APIs familiar in the Linux ecosystem to be used on top of Windows.
+*   [eBPF for Windows (⭐3k)](https://github.com/microsoft/ebpf-for-windows) - This project is a work-in-progress that allows using existing eBPF toolchains and APIs familiar in the Linux ecosystem to be used on top of Windows.
 
 ### Projects Related to eBPF / Security
 
 *   [Falco](https://falco.org/) - A cloud-native runtime security project used as a Kubernetes threat detection engine.
-*   [Sysmon for Linux (⭐1.7k)](https://github.com/Sysinternals/SysmonForLinux) - A security monitoring tool. It depends on [SysinternalsEBPF (⭐224)](https://github.com/Sysinternals/SysinternalsEBPF).
+*   [Sysmon for Linux (⭐1.8k)](https://github.com/Sysinternals/SysmonForLinux) - A security monitoring tool. It depends on [SysinternalsEBPF (⭐253)](https://github.com/Sysinternals/SysinternalsEBPF).
 *   [Red Canary Linux Agent](https://redcanary.com/blog/ebpf-for-security) - Red Canary has started to incorporate eBPF to their Linux security sensor.
-*   [Tracee (⭐3.4k)](https://github.com/aquasecurity/tracee) - A runtime security and forensics tool for Linux which uses eBPF technology to trace the system and applications at runtime, and analyze collected events to detect suspicious behavioral patterns.
-*   [redcanary-ebpf-sensor (⭐94)](https://github.com/redcanaryco/redcanary-ebpf-sensor) - A set of BPF programs that gather security relevant event data from the Linux kernel. The BPF programs are combined into a single ELF file from which individual probes can be selectively loaded, depending on the running operating system and kernel version.
-*   [bpflock - Lock Linux machines (⭐135)](https://github.com/linux-lock/bpflock) - An eBPF driven security tool for locking and auditing Linux machines.
+*   [Tracee (⭐3.7k)](https://github.com/aquasecurity/tracee) - A runtime security and forensics tool for Linux which uses eBPF technology to trace the system and applications at runtime, and analyze collected events to detect suspicious behavioral patterns.
+*   [redcanary-ebpf-sensor (⭐101)](https://github.com/redcanaryco/redcanary-ebpf-sensor) - A set of BPF programs that gather security relevant event data from the Linux kernel. The BPF programs are combined into a single ELF file from which individual probes can be selectively loaded, depending on the running operating system and kernel version.
+*   [bpflock - Lock Linux machines (⭐140)](https://github.com/linux-lock/bpflock) - An eBPF driven security tool for locking and auditing Linux machines.
 
 ### Projects Related to eBPF / Tools
 
@@ -185,9 +185,9 @@
 *   [Embrace The Red: Offensive BPF!](https://embracethered.com/blog/tags/ebpf) - A series of posts around the introduction into BPF with a focus to an offensive setting, and also how its misuse can be detected. Posts include discussions on the rootkit capabilities of eBPF, or on which tracing type is needed for different use cases.
 *   [eBPF: Block Linux Fileless Payload "Malware" Execution with BPF LSM](https://djalal.opendz.org/post/ebpf-block-linux-fileless-payload-execution-with-bpf-lsm/) - Blog post about how BPF can help detection and blocking fileless malware.
 *   [Blackhat 2021: With Friends Like eBPF, Who Needs Enemies?](https://www.blackhat.com/us-21/briefings/schedule/#with-friends-like-ebpf-who-needs-enemies-23619) - Talk about an eBPF rootkit and how the capabilities of eBPF could be abused. The rootkit was also the object of a talk at Defcon, [eBPF, I thought we were friends !](https://defcon.org/html/defcon-29/dc-29-speakers.html#fournier).
-*   [ebpfkit (⭐714)](https://github.com/Gui774ume/ebpfkit) - A rootkit that leverages multiple eBPF features to implement offensive security techniques.
-*   [ebpfkit-monitor (⭐118)](https://github.com/Gui774ume/ebpfkit-monitor) - An utility to statically analyze eBPF bytecode or monitor suspicious eBPF activity at runtime. It was specifically designed to detect ebpfkit.
-*   [Bad BPF (⭐504)](https://github.com/pathtofile/bad-bpf) - A collection of malicious eBPF programs that make use of eBPF's ability to read and write user data in between the usermode program and the kernel.
+*   [ebpfkit (⭐774)](https://github.com/Gui774ume/ebpfkit) - A rootkit that leverages multiple eBPF features to implement offensive security techniques.
+*   [ebpfkit-monitor (⭐125)](https://github.com/Gui774ume/ebpfkit-monitor) - An utility to statically analyze eBPF bytecode or monitor suspicious eBPF activity at runtime. It was specifically designed to detect ebpfkit.
+*   [Bad BPF (⭐570)](https://github.com/pathtofile/bad-bpf) - A collection of malicious eBPF programs that make use of eBPF's ability to read and write user data in between the usermode program and the kernel.
 
 ## [10. Awesome Snmp](/content/eozer/awesome-snmp/README.md)
 

@@ -28,7 +28,7 @@
 
 ### Driver crates / WIP
 
-*   [MCP4725](https://crates.io/crates/mcp4725) - I2C - 12-bit DAC - ![crates.io](https://img.shields.io/crates/v/mcp4725)
+*   [MCP4725](https://crates.io/crates/mcp4725) - I2C - 12-bit DAC - [![crates.io](https://img.shields.io/crates/v/mcp4725)](https://crates.io/crates/mcp4725)
 
 ## [5. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
 
@@ -75,14 +75,14 @@
 
 ### WebSocket
 
-*   [CableReady (⭐748)](https://github.com/hopsoft/cable_ready) - CableReady completes the ActionCable story and expands the utility of web sockets in your Rails app.
+*   [CableReady (⭐759)](https://github.com/hopsoft/cable_ready) - CableReady completes the ActionCable story and expands the utility of web sockets in your Rails app.
 *   [StimulusReflex (⭐2.3k)](https://github.com/hopsoft/stimulus_reflex) - Build reactive applications with the Rails tooling you already know and love.
 
 ## [7. Awesome Java](/content/akullpp/awesome-java/README.md)
 
 ### Imagery / Text-Based User Interfaces
 
-*   [image-comparison (⭐327)](https://github.com/romankh3/image-comparison) - Library that compares 2 images with the same sizes and shows the differences visually by drawing rectangles. Some parts of the image can be excluded from the comparison.
+*   [image-comparison (⭐340)](https://github.com/romankh3/image-comparison) - Library that compares 2 images with the same sizes and shows the differences visually by drawing rectangles. Some parts of the image can be excluded from the comparison.
 
 ## [8. Services Engineering](/content/mmcgrana/services-engineering/README.md)
 
@@ -94,13 +94,13 @@
 
 ### Data Packages
 
-*   [RCOBOLDI (⭐12)](https://github.com/thospfuller/rcoboldi) - Import COBOL CopyBook data files directly into R as properly structured data frames. Package builds are available via [Drat (⭐1)](https://github.com/thospfuller/drat) and [DockerHub](https://hub.docker.com/r/thospfuller/rcoboldi-rocker-rstudio).
+*   [RCOBOLDI (⭐14)](https://github.com/thospfuller/rcoboldi) - Import COBOL CopyBook data files directly into R as properly structured data frames. Package builds are available via [Drat (⭐1)](https://github.com/thospfuller/drat) and [DockerHub](https://hub.docker.com/r/thospfuller/rcoboldi-rocker-rstudio).
 
 ## [10. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Cards
 
-*   [Shuffle (⭐888)](https://github.com/mac-gallagher/Shuffle) - A multi-directional card swiping library inspired by Tinder.
+*   [Shuffle (⭐927)](https://github.com/mac-gallagher/Shuffle) - A multi-directional card swiping library inspired by Tinder.
 
 ---
 

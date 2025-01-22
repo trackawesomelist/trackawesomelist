@@ -10,15 +10,15 @@
 
 ### Components & Libraries / Frameworks
 
-*   [DataFormsJS (⭐185)](https://github.com/dataformsjs/dataformsjs) - A minimal routing and web service framework that uses Vue as a templating engine.
+*   [DataFormsJS (⭐191)](https://github.com/dataformsjs/dataformsjs) - A minimal routing and web service framework that uses Vue as a templating engine.
 
 ## [2. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Files and Directories / Directory Listing
 
-*   [alder (⭐219)](https://github.com/aweary/alder) - Minimal `tree` with colors.
-*   [tre (⭐670)](https://github.com/dduan/tre) - `tree` with git awareness, editor aliasing, and more.
-*   [ll (⭐45)](https://github.com/antonmedv/ll) - `ls` with git status.
+*   [alder (⭐228)](https://github.com/aweary/alder) - Minimal `tree` with colors.
+*   [tre (⭐870)](https://github.com/dduan/tre) - `tree` with git awareness, editor aliasing, and more.
+*   [ll (⭐47)](https://github.com/antonmedv/ll) - `ls` with git status.
 
 ## [3. Awesome Mobile Web Development](/content/myshov/awesome-mobile-web-development/README.md)
 
@@ -35,11 +35,7 @@
 
 ### Table of Contents / Framework Extras
 
-*   [LaravelS (⭐3.8k)](https://github.com/hhxsv5/laravel-s) - An out-of-the-box adapter between Laravel/Lumen and Swoole.
-
-### Table of Contents / Micro Frameworks
-
-*   [Laravel-Zero](https://laravel-zero.com) - A micro-framework for console applications.
+*   [LaravelS (⭐3.9k)](https://github.com/hhxsv5/laravel-s) - An out-of-the-box adapter between Laravel/Lumen and Swoole.
 
 ## [5. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
 
@@ -88,11 +84,11 @@
 
 ### Asynchronous Event Loop
 
-*   [libhv (⭐6.6k)](https://github.com/ithewei/libhv) - Cross-platform event loop library. \[BSD]
+*   [libhv (⭐6.9k)](https://github.com/ithewei/libhv) - Cross-platform event loop library. \[BSD]
 
 ### Logging
 
-*   [Quill (⭐1.2k)](https://github.com/odygrd/quill) - Asynchronous cross platform low latency logging library. \[MIT]
+*   [Quill (⭐1.9k)](https://github.com/odygrd/quill) - Asynchronous cross platform low latency logging library. \[MIT]
 
 ## [12. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -106,7 +102,7 @@
 
 ### WebSocket
 
-*   [Websocket.Client (⭐680)](https://github.com/Marfusios/websocket-client) - A multiplatform wrapper over native C# class ClientWebSocket with built-in reconnection and error handling.
+*   [Websocket.Client (⭐701)](https://github.com/Marfusios/websocket-client) - A multiplatform wrapper over native C# class ClientWebSocket with built-in reconnection and error handling.
 
 ---
 

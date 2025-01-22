@@ -8,22 +8,18 @@
 
 ## [1. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
-### Command-Line Tools / Discovery
-
-*   [nixfmt (⭐775)](https://github.com/serokell/nixfmt) - A formatter for Nix code, intended to easily apply a uniform style.
-
 ### Development / Discovery
 
-*   [nix-direnv (⭐1.7k)](https://github.com/nix-community/nix-direnv) - A fast loader and flake-compliant configuration for the direnv environment auto-loader.
+*   [nix-direnv (⭐2k)](https://github.com/nix-community/nix-direnv) - A fast loader and flake-compliant configuration for the direnv environment auto-loader.
 
 ### Programming Languages / Haskell
 
-*   [cabal2nix (⭐354)](https://github.com/NixOS/cabal2nix) - Converts a Cabal file into a Nix build expression.
-*   [haskell.nix (⭐547)](https://github.com/input-output-hk/haskell.nix) - Alternative Haskell Infrastructure for Nixpkgs.
+*   [cabal2nix (⭐364)](https://github.com/NixOS/cabal2nix) - Converts a Cabal file into a Nix build expression.
+*   [haskell.nix (⭐567)](https://github.com/input-output-hk/haskell.nix) - Alternative Haskell Infrastructure for Nixpkgs.
 
 ### Overlays / Webinterface
 
-*   [awesome-nix-hpc (⭐67)](https://github.com/freuk/awesome-nix-hpc) - High Performance Computing package sets.
+*   [awesome-nix-hpc (⭐77)](https://github.com/freuk/awesome-nix-hpc) - High Performance Computing package sets.
 
 ## [2. Awesome Flame](/content/flame-engine/awesome-flame/README.md)
 
@@ -49,17 +45,9 @@
 
 ## [5. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
-### Native Apps (open source)
-
-*   [Dede App (⭐1)](https://github.com/dancesWithCycles/dede-android) - An app making any Android powered phone become an Automatic Vehicle Locating (AVL) device for the [Dede](https://dedriver.org) passenger information system (PIS).
-
 ### GTFS Libraries / PostgreSQL
 
-*   [gtfs-via-postgres (⭐77)](https://github.com/derhuerst/gtfs-via-postgres) – Yet another tool to process GTFS using PostgreSQL.
-
-### Other multimodal data formats / Ruby
-
-*   [Transport Operator Mobility-as-a-service Provider (TOMP)-API (⭐95)](https://github.com/TOMP-WG/TOMP-API) - Working group in the Netherlands with a goal to develop an API for use by Transport Operators and Mobility-as-a-service Providers for operator discovery, trip planning, end user interaction, booking, and payment.
+*   [gtfs-via-postgres (⭐95)](https://github.com/derhuerst/gtfs-via-postgres) – Yet another tool to process GTFS using PostgreSQL.
 
 ## [6. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 
@@ -103,14 +91,14 @@
 
 ### Translations and Internationalizations
 
-*   [linguist (⭐179)](https://github.com/change/linguist) - Elixir Internationalization library.
+*   [linguist (⭐178)](https://github.com/change/linguist) - Elixir Internationalization library.
 
 ## [12. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
 
 ### Table of Contents / Streaming Engine
 
-*   [HStreamDB (⭐704)](https://github.com/hstreamdb/hstream) \[Haskell] - The streaming database built for IoT data storage and real-time processing.
-*   [Kuiper (⭐1.4k)](https://github.com/emqx/kuiper) \[Golang] - An edge lightweight IoT data analytics/streaming software implemented by Golang, and it can be run at all kinds of resource-constrained edge devices.
+*   [HStreamDB (⭐716)](https://github.com/hstreamdb/hstream) \[Haskell] - The streaming database built for IoT data storage and real-time processing.
+*   [Kuiper (⭐1.5k)](https://github.com/emqx/kuiper) \[Golang] - An edge lightweight IoT data analytics/streaming software implemented by Golang, and it can be run at all kinds of resource-constrained edge devices.
 
 ## [13. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
 

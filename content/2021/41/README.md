@@ -10,7 +10,7 @@
 
 ### Projects Using Seed
 
-*   [Pslink](https://pslink.teilgedanken.de) - An URL-shortener page focused on use in publications ([demo](https://demo.pslink.teilgedanken.de/app/) (user, password: demo)).  Uses [`Seed`](https://seed-rs.org/), [`actix-web`](https://actix.rs/), and [`sqlx`](https://github.com/launchbadge/sqlx).
+*   [Pslink](https://pslink.teilgedanken.de) - An URL-shortener page focused on use in publications ([demo](https://demo.pslink.teilgedanken.de/app/) (user, password: demo)).  Uses `Seed`, [`actix-web`](https://actix.rs/), and [`sqlx`](https://github.com/launchbadge/sqlx).
 
 ## [2. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
 
@@ -33,7 +33,6 @@
 ### Writing / United Kingdom
 
 *   [WorkingInContent.com](https://workingincontent.com/) - Jobs in Content Strategy, Content Design, UX Writing and more
-*   [Write the Docs Job Board](https://jobs.writethedocs.org/) - Jobs for people who care about documentation
 
 ## [3. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/week/README.md)
 
@@ -55,7 +54,7 @@
 
 ### Projects
 
-*   [tide-async-graphql-mongodb (⭐43)](https://github.com/zzy/tide-async-graphql-mongodb) - Clean boilerplate for graphql services, with wasm/yew frontend.
+*   [tide-async-graphql-mongodb (⭐45)](https://github.com/zzy/tide-async-graphql-mongodb) - Clean boilerplate for graphql services, with wasm/yew frontend.
 
 ## [6. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
 
@@ -65,7 +64,7 @@
 
 ## [7. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/week/README.md)
 
-### Agile / Tickets
+### Agile / Delivery
 
 *   [How Big Tech Runs Tech Projects and the Curious Absence of Scrum](https://newsletter.pragmaticengineer.com/p/project-management-in-tech) - There's an interesting table in this article on the strereotypes of companies, their funding models, main engineering actors, and their central methodologies.
 
@@ -80,7 +79,7 @@
 
 ### Multi-factor auth / Identifiers
 
-*   [Kanidm (⭐2.6k)](https://github.com/kanidm/kanidm) - Simple, secure and fast identity management platform.
+*   [Kanidm (⭐2.7k)](https://github.com/kanidm/kanidm) - Simple, secure and fast identity management platform.
 
 ## [10. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/week/README.md)
 
@@ -90,9 +89,9 @@
 
 ## [11. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
 
-### Miscellaneous / Checkbox
+### Miscellaneous
 
-*   [svelte-tree-viewer (⭐15)](https://github.com/kpulkit29/svelte-tree-viewer) - A lightweight component to render tree views.
+*   [svelte-tree-viewer (⭐16)](https://github.com/kpulkit29/svelte-tree-viewer) - A lightweight component to render tree views.
 
 ## [12. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
@@ -104,7 +103,7 @@
 
 ### Fun / Terraform
 
-*   [Add equivalent of a like button in your README (⭐1)](https://github.com/ariary/Readme-Like-Button) - Visualize community approval on some part of your readme (can be used as a poll).
+*   [Add equivalent of a like button in your README (⭐9)](https://github.com/ariary/Readme-Like-Button) - Visualize community approval on some part of your readme (can be used as a poll).
 
 ## [14. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
 
@@ -184,7 +183,7 @@
 
 ### Code Generators / Text-Based User Interfaces
 
-*   [Record-Builder (⭐674)](https://github.com/Randgalt/record-builder) - Companion builder class, withers and templates for Java records.
+*   [Record-Builder (⭐748)](https://github.com/Randgalt/record-builder) - Companion builder class, withers and templates for Java records.
 
 ### People / Twitter
 
@@ -204,7 +203,7 @@
 
 ### Distributed Testing
 
-*   [Distributed Gatling (⭐100)](https://github.com/Abiy/distGatling) - Solution to run Gatling simulation tests in a distributed/cluster environment.
+*   [Distributed Gatling (⭐102)](https://github.com/Abiy/distGatling) - Solution to run Gatling simulation tests in a distributed/cluster environment.
 
 ### Tools / Plugins
 
@@ -212,7 +211,7 @@
 
 ### Tools / Reporting
 
-*   [gatling-report (⭐117)](https://github.com/nuxeo/gatling-report) - Parse Gatling simulation.log files to output CSV stats or build HTML reports with Plotly charts.
+*   [gatling-report (⭐118)](https://github.com/nuxeo/gatling-report) - Parse Gatling simulation.log files to output CSV stats or build HTML reports with Plotly charts.
 
 ## [22. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
 
@@ -224,12 +223,12 @@
 
 ### Applications / Games
 
-*   [SoftbearStudios/mk48 (⭐323)](https://github.com/SoftbearStudios/mk48) - Mk48.io is an online multiplayer naval combat game
+*   [SoftbearStudios/mk48 (⭐344)](https://github.com/SoftbearStudios/mk48) - Mk48.io is an online multiplayer naval combat game
 
 ### Libraries / Web programming
 
 *   Reverse Proxy
-    *   [sozu-proxy/sozu (⭐3k)](https://github.com/sozu-proxy/sozu) \[[sozu](https://crates.io/crates/sozu)] - A HTTP reverse proxy. [![CI](https://github.com/sozu-proxy/sozu/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/sozu-proxy/sozu/actions/workflows/ci.yml)
+    *   [sozu-proxy/sozu (⭐3.2k)](https://github.com/sozu-proxy/sozu) \[[sozu](https://crates.io/crates/sozu)] - A HTTP reverse proxy. [![CI](https://github.com/sozu-proxy/sozu/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/sozu-proxy/sozu/actions/workflows/ci.yml)
 
 ## [24. Awesome Chatops](/content/exAspArk/awesome-chatops/week/README.md)
 
@@ -274,7 +273,7 @@
 
 ### Queues and Messaging
 
-*   [GoodJob (⭐2.6k)](https://github.com/bensheldon/good_job) - GoodJob is a multithreaded, Postgres-based, ActiveJob backend for Ruby on Rails.
+*   [GoodJob (⭐2.7k)](https://github.com/bensheldon/good_job) - GoodJob is a multithreaded, Postgres-based, ActiveJob backend for Ruby on Rails.
 
 ## [27. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
@@ -344,19 +343,19 @@
 
 ### Inspirations / Misc
 
-*   [TidyMails](http://tidymails.com/) -The Email Newsletters' Universe.
+*   [TidyMails](http://tidymails.com/) - The Email Newsletters' Universe.
 
 ## [36. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Text / Barcode
 
-*   [Regex by sindresorhus (⭐328)](https://github.com/sindresorhus/Regex) - Swifty regular expressions, fully tested & documented, and with correct Unicode handling.
+*   [Regex by sindresorhus (⭐331)](https://github.com/sindresorhus/Regex) - Swifty regular expressions, fully tested & documented, and with correct Unicode handling.
 
 ## [37. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Regex
 
-*   [sindresorhus/Regex (⭐328)](https://github.com/sindresorhus/Regex) - Swifty regular expressions, fully tested & documented, and with correct Unicode handling.
+*   [sindresorhus/Regex (⭐333)](https://github.com/sindresorhus/Regex) - Swifty regular expressions, fully tested & documented, and with correct Unicode handling.
 
 ## [38. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
 
@@ -482,19 +481,19 @@
 
 ### Development Projects / APIs
 
-*   [TCGdex (⭐30)](https://github.com/tcgdex/cards-database) - Multi languages Pokémon TCG API.
+*   [TCGdex (⭐157)](https://github.com/tcgdex/cards-database) - Multi languages Pokémon TCG API.
 
 ## [44. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Game
 
-*   [osu!framework (⭐1.6k)](https://github.com/ppy/osu-framework) - A 2D application/game written with amazing games in mind.
+*   [osu!framework (⭐1.7k)](https://github.com/ppy/osu-framework) - A 2D application/game written with amazing games in mind.
 
 ## [45. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
 ### Contents / Utilities
 
-*   [pgMonitor (⭐530)](https://github.com/CrunchyData/pgmonitor) - Postgres metrics collection and visualization that can be deployed to bare metal, virtual machines, or Kubernetes.
+*   [pgMonitor (⭐559)](https://github.com/CrunchyData/pgmonitor) - Postgres metrics collection and visualization that can be deployed to bare metal, virtual machines, or Kubernetes.
 
 ### Contents / PaaS *(PostgreSQL as a Service)*
 
@@ -546,11 +545,11 @@
 
 ### Component bundles
 
-*   [Majorsoft Blazor Components (⭐317)](https://github.com/majorimi/blazor-components) - ![GitHub last commit](https://img.shields.io/github/last-commit/majorimi/blazor-components) ![GitHub Repo stars](https://img.shields.io/github/stars/majorimi/blazor-components) Majorsoft Majorsoft Blazor Components is a set of UI Components and other useful Extensions for Blazor applications. All components are free and available on NuGet. The main goal of this project is to provide an easy to use, feature reach set of customizable components with other useful extensions. [NuGet](https://www.nuget.org/profiles/Blazor.Components) [Demo app](https://blazorextensions.z6.web.core.windows.net/) [Docs (⭐317)](https://github.com/majorimi/blazor-components/tree/master/.github/docs).
+*   [Majorsoft Blazor Components (⭐328)](https://github.com/majorimi/blazor-components) - ![GitHub last commit](https://img.shields.io/github/last-commit/majorimi/blazor-components) ![GitHub Repo stars](https://img.shields.io/github/stars/majorimi/blazor-components) Majorsoft Majorsoft Blazor Components is a set of UI Components and other useful Extensions for Blazor applications. All components are free and available on NuGet. The main goal of this project is to provide an easy to use, feature reach set of customizable components with other useful extensions. [NuGet](https://www.nuget.org/profiles/Blazor.Components) [Demo app](https://blazorextensions.z6.web.core.windows.net/) [Docs (⭐328)](https://github.com/majorimi/blazor-components/tree/master/.github/docs).
 
 ### 2D/3D Rendering engines / Others
 
-*   [Blazor File Drop Zone (⭐19)](https://github.com/jsakamoto/Toolbelt.Blazor.FileDropZone/) - ![last commit](https://img.shields.io/github/last-commit/jsakamoto/Toolbelt.Blazor.FileDropZone?style=flat-square\&cacheSeconds=86400) Surround an "input type=file" element by this Blazor component to making a zone that accepts drag and drops files ([Demo](https://jsakamoto.github.io/Toolbelt.Blazor.FileDropZone/)).
+*   [Blazor File Drop Zone (⭐22)](https://github.com/jsakamoto/Toolbelt.Blazor.FileDropZone/) - ![last commit](https://img.shields.io/github/last-commit/jsakamoto/Toolbelt.Blazor.FileDropZone?style=flat-square\&cacheSeconds=86400) Surround an "input type=file" element by this Blazor component to making a zone that accepts drag and drops files ([Demo](https://jsakamoto.github.io/Toolbelt.Blazor.FileDropZone/)).
 
 ## [52. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -583,7 +582,7 @@
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-shared-modules (⭐27)](https://github.com/zheeeng/vite-plugin-shared-modules) - Share node\_modules in monorepos.
+*   [vite-plugin-shared-modules (⭐31)](https://github.com/zheeeng/vite-plugin-shared-modules) - Share node\_modules in monorepos.
 
 ## [55. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
 
@@ -679,13 +678,13 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue3-marquee (⭐517)](https://github.com/megasanjay/vue3-marquee) - A simple and responsive marquee component for Vue 3 applications with 0 dependencies.
+*   [vue3-marquee (⭐667)](https://github.com/megasanjay/vue3-marquee) - A simple and responsive marquee component for Vue 3 applications with 0 dependencies.
 
 ## [64. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
 
 ### Tools, Applications, Libraries, Frameworks
 
-*   [Puppeteer (⭐88k)](https://github.com/puppeteer/puppeteer) - A browser automation library. If the browser is the puppet, this is the puppeteer.
+*   [Puppeteer (⭐89k)](https://github.com/puppeteer/puppeteer) - A browser automation library. If the browser is the puppet, this is the puppeteer.
 
 ## [65. Public Apis](/content/public-apis/public-apis/week/README.md)
 
@@ -735,7 +734,7 @@
   CORS: No
 
 
-- API: [Movebank (⭐133)](https://github.com/movebank/movebank-api-doc)
+- API: [Movebank (⭐142)](https://github.com/movebank/movebank-api-doc)
 
   Description: Movement and Migration data of animals
 
@@ -784,8 +783,6 @@
 
   CORS: Unknown
 
-  Call this API: 
-
 
 
 ### Books
@@ -814,8 +811,6 @@
 
   CORS: Unknown
 
-  Call this API: 
-
 
 - API: [Tenders in Hungary](https://tenders.guru/hu/api)
 
@@ -826,8 +821,6 @@
   HTTPS: Yes
 
   CORS: Unknown
-
-  Call this API: 
 
 
 - API: [Tenders in Poland](https://tenders.guru/pl/api)
@@ -840,8 +833,6 @@
 
   CORS: Unknown
 
-  Call this API: 
-
 
 - API: [Tenders in Romania](https://tenders.guru/ro/api)
 
@@ -852,8 +843,6 @@
   HTTPS: Yes
 
   CORS: Unknown
-
-  Call this API: 
 
 
 - API: [Tenders in Spain](https://tenders.guru/es/api)
@@ -866,8 +855,6 @@
 
   CORS: Unknown
 
-  Call this API: 
-
 
 - API: [Tenders in Ukraine](https://tenders.guru/ua/api)
 
@@ -878,8 +865,6 @@
   HTTPS: Yes
 
   CORS: Unknown
-
-  Call this API: 
 
 
 
@@ -895,7 +880,7 @@
 
   CORS: Unknown
 
-  Postman: 
+  : 
 
 
 - API: [Pinata](https://docs.pinata.cloud/)
@@ -908,7 +893,7 @@
 
   CORS: Unknown
 
-  Postman: 
+  : 
 
 
 
@@ -936,7 +921,7 @@
   CORS: Unknown
 
 
-- API: [npm Registry (⭐441)](https://github.com/npm/registry/blob/master/docs/REGISTRY-API.md)
+- API: [npm Registry (⭐458)](https://github.com/npm/registry/blob/master/docs/REGISTRY-API.md)
 
   Description: Query information about your favorite Node.js libraries programatically
 
@@ -1060,7 +1045,7 @@
 
   CORS: Unknown
 
-  Call this API: 
+  : 
 
 
 - API: [Klarna](https://docs.klarna.com/klarna-payments/api/payments-api/)
@@ -1073,7 +1058,7 @@
 
   CORS: Unknown
 
-  Call this API: 
+  : 
 
 
 
@@ -1137,7 +1122,7 @@
   CORS: Unknown
 
 
-- API: [Sakura CardCaptor (⭐57)](https://github.com/JessVel/sakura-card-captor-api)
+- API: [Sakura CardCaptor (⭐59)](https://github.com/JessVel/sakura-card-captor-api)
 
   Description: Sakura CardCaptor Cards Information
 
@@ -1488,7 +1473,7 @@
 
 ### Open Source Projects
 
-- API: [GitHub ReadMe Stats (⭐67k)](https://github.com/anuraghazra/github-readme-stats)
+- API: [GitHub ReadMe Stats (⭐70k)](https://github.com/anuraghazra/github-readme-stats)
 
   Description: Add dynamically generated statistics to your GitHub profile ReadMe
 
@@ -1513,7 +1498,7 @@
   CORS: Unknown
 
 
-- API: [Readme typing SVG (⭐5.2k)](https://github.com/DenverCoder1/readme-typing-svg)
+- API: [Readme typing SVG (⭐5.8k)](https://github.com/DenverCoder1/readme-typing-svg)
 
   Description: Customizable typing and deleting text SVG
 
@@ -1602,7 +1587,7 @@
 
 ### Social
 
-- API: [Lanyard (⭐937)](https://github.com/Phineas/lanyard)
+- API: [Lanyard (⭐996)](https://github.com/Phineas/lanyard)
 
   Description: Retrieve your presence on Discord through an HTTP REST API or WebSocket
 
@@ -1735,8 +1720,8 @@
 
 ### Libraries
 
-*   [effect-ts (⭐3.4k)](https://github.com/Effect-TS/core) – A Fully-fledged functional effect system for typescript with a rich standard library. +TS
-*   [qio (⭐69)](https://github.com/tusharmath/qio) – A type-safe, functional, performant, lawful, composable data structure that solves practical problems of effect-full code in node and browser. +TS
+*   [effect-ts (⭐7.7k)](https://github.com/Effect-TS/core) – A Fully-fledged functional effect system for typescript with a rich standard library. +TS
+*   [qio (⭐74)](https://github.com/tusharmath/qio) – A type-safe, functional, performant, lawful, composable data structure that solves practical problems of effect-full code in node and browser. +TS
 
 ### Functional Languages that Compile to JavaScript / Lenses
 

@@ -10,7 +10,7 @@
 
 ### HAL implementation crates / XMC
 
-*   [`xmc1100-hal`](https://github.com/david-sawatzke/xmc1100-hal) - ![crates.io](https://img.shields.io/crates/v/xmc1100-hal.svg)
+*   [`xmc1100-hal`](https://github.com/david-sawatzke/xmc1100-hal) - [![crates.io](https://img.shields.io/crates/v/xmc1100-hal.svg)](https://crates.io/crates/xmc1100-hal)
 
 ## [2. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
 

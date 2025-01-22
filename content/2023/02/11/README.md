@@ -16,8 +16,8 @@
 
 ### Data conversion tools
 
-*   [gpxstudio (⭐550)](https://github.com/gpxstudio/gpxstudio.github.io) - Online and open source GPX file editor.
-*   [img2geojson (⭐14)](https://github.com/caseymm/img2geojson/) - Drag an image onto a map, trace the paths you need, and export as GeoJSON.
+*   [gpxstudio (⭐615)](https://github.com/gpxstudio/gpxstudio.github.io) - Online and open source GPX file editor.
+*   [img2geojson (⭐18)](https://github.com/caseymm/img2geojson/) - Drag an image onto a map, trace the paths you need, and export as GeoJSON.
 
 ### Helpers
 
@@ -42,13 +42,13 @@
 
 ### Health and Social Science
 
-*   [Digital Humanities (⭐208)](https://github.com/dh-tech/awesome-digital-humanities#readme) - Software for humanities scholars using quantitative or computational methods.
+*   [Digital Humanities (⭐252)](https://github.com/dh-tech/awesome-digital-humanities#readme) - Software for humanities scholars using quantitative or computational methods.
 
 ## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Neovim Lua Development / Diagnostics
 
-*   [nvim-neorocks/luarocks-tag-release (⭐46)](https://github.com/nvim-neorocks/luarocks-tag-release) - A GitHub action that publishes your Neovim plugins to LuaRocks.
+*   [nvim-neorocks/luarocks-tag-release (⭐48)](https://github.com/nvim-neorocks/luarocks-tag-release) - A GitHub action that publishes your Neovim plugins to LuaRocks.
 
 ## [6. Awesome Chatgpt](/content/saharmor/awesome-chatgpt/README.md)
 
@@ -78,22 +78,12 @@
 
 *   [Capstone](https://www.capstone-engine.org/) - Capstone is a lightweight multi-platform, multi-architecture disassembly framework.
 *   [Coredump (⭐7)](https://github.com/memflow/memflow-coredump) - Access Microsoft Windows Coredump files.
-*   [Kvm (⭐36)](https://github.com/memflow/memflow-kvm) - KVM memflow connector.
-*   [Pcileech (⭐17)](https://github.com/memflow/memflow-pcileech) - Access pcileech interface.
-*   [Qemu\_procfs (⭐39)](https://github.com/memflow/memflow-qemu-procfs) - Access QEMU Physical memory.
+*   [Kvm (⭐40)](https://github.com/memflow/memflow-kvm) - KVM memflow connector.
+*   [Pcileech (⭐21)](https://github.com/memflow/memflow-pcileech) - Access pcileech interface.
+*   [Qemu\_procfs (⭐41)](https://github.com/memflow/memflow-qemu-procfs) - Access QEMU Physical memory.
 *   [Unicorn](https://www.unicorn-engine.org/) - Unicorn is a lightweight multi-platform, multi-architecture CPU emulator framework.
 
-### Optics and Extra Info / Unikernel-like
-
-*   [GPU Virtual Machine (GVM)](https://www.youtube.com/watch?v=YllX-ud70Nk)  - An OpenMdev Project (Qubes OS Summit 2022)
-*   [Qubes OS summit 2022](https://www.youtube.com/watch?v=hkWWz3xGqS8) - Day 1
-*   [Qubes OS summit 2022](https://www.youtube.com/watch?v=A9GrlQsQc7Q) - Day 2
-*   [Qubes OS-3mdeb mini-summit 2021](https://www.youtube.com/watch?v=y3V_V0Vllas) - Day 1
-*   [Qubes OS-3mdeb mini-summit 2021](https://www.youtube.com/watch?v=KdDr6TiqF0k) - Day 2
-*   [Micah Lee presents](https://livestream.com/accounts/9197973/events/8286152/videos/178431606) - “Qubes OS: The Operating System That Can Protect You Even If You Get Hacked”
-*   [Explaining Computers presents](https://www.youtube.com/watch?v=hWDvS_Mp6gc) - “Qubes OS: Security Oriented Operating System”
-
-### Optics and Extra Info / Xen Exploitation
+### Exploitation Tools / Xen Exploitation
 
 *   [Blackhat 2010 ](https://www.youtube.com/watch?v=sTC9x5hYYFo) - Hacking the Hypervisor
 *   [Blackhat 2014](https://www.youtube.com/watch?v=PJWJjb0uxXE) - [\[Website Slides\]](https://www.blackhat.com/docs/eu-14/materials/eu-14-Wojtczuk-Lessons-Learned-From-Eight-Years-Of-Breaking-Hypervisors.pdf) - Lessons Learned from Eight Years of Breaking Hypervisors
@@ -101,10 +91,23 @@
 *   [Ouroboros](https://www.youtube.com/watch?v=kt3kX94kWcM) - Tearing Xen Hypervisor With the Snake
 *   [XenPwn](https://www.youtube.com/watch?v=qxz8MzE3QME) - [\[PDF Slide\]](https://www.blackhat.com/docs/us-16/materials/us-16-Wilhelm-Xenpwn-Breaking-Paravirtualized-Devices-wp.pdf) - Breaking Paravirtualized Devices
 
-### Optics and Extra Info / Web articles
+### Exploitation Tools / Web articles
 
 *   [Xen exploitation part 1: XSA-105](https://blog.quarkslab.com/xen-exploitation-part-1-xsa-105-from-nobody-to-root.html) - From nobody to root
 *   [Xen exploitation part 2: XSA-148](https://blog.quarkslab.com/xen-exploitation-part-2-xsa-148-from-guest-to-host.html) - From guest to host
+
+### Optics and Extra Info / Qubes OS Summit - 3mdeb Summit videos
+
+*   [Qubes OS summit 2022](https://www.youtube.com/watch?v=hkWWz3xGqS8) - Day 1
+*   [Qubes OS summit 2022](https://www.youtube.com/watch?v=A9GrlQsQc7Q) - Day 2
+*   [Qubes OS-3mdeb mini-summit 2021](https://www.youtube.com/watch?v=y3V_V0Vllas) - Day 1
+*   [Qubes OS-3mdeb mini-summit 2021](https://www.youtube.com/watch?v=KdDr6TiqF0k) - Day 2
+
+### Optics and Extra Info / Extra Info
+
+*   [GPU Virtual Machine (GVM)](https://www.youtube.com/watch?v=YllX-ud70Nk)  - An OpenMdev Project (Qubes OS Summit 2022)
+*   [Micah Lee presents](https://livestream.com/accounts/9197973/events/8286152/videos/178431606) - “Qubes OS: The Operating System That Can Protect You Even If You Get Hacked”
+*   [Explaining Computers presents](https://www.youtube.com/watch?v=hWDvS_Mp6gc) - “Qubes OS: Security Oriented Operating System”
 
 ## [10. Awesome Product Management](/content/dend/awesome-product-management/README.md)
 

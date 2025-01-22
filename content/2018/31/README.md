@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 30 - Aug 05, 2018
 
-65 awesome lists updated this week.
+64 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -22,13 +22,12 @@
 
 ### Reading and Writing Tools / Text Editors
 
-*   [Sublime Text](http://www.sublimetext.com/3) - Sophisticated text editor for code, markup and prose. You'll love the slick user interface, extraordinary features and amazing performance, [Sublime Text Plugins](https://github.com/jaywcjlove/awesome-mac/blob/master/README.md/editor-plugin.md#sublime-text-plugin). [![Awesome List](https://jaywcjlove.github.io/sb/ico/min-awesome.svg "Awesome List")](https://github.com/dreikanter/sublime-bookmarks#readme)
-*   [Vim](http://www.vim.org/) - Highly configurable text editor built to make creating and changing any kind of text very efficient, [Vim Plugins](https://github.com/jaywcjlove/awesome-mac/blob/master/README.md/editor-plugin.md#vim-plugin). [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/vim/vim) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![Awesome List](https://jaywcjlove.github.io/sb/ico/min-awesome.svg "Awesome List")](https://github.com/mhinz/vim-galore#readme)
+*   [Sublime Text](http://www.sublimetext.com/3) - A popular, clean, and sleek editor with a plugin management system. For more plugins, check [Sublime Text Plugins](https://github.com/jaywcjlove/awesome-mac/blob/master/README.md/editor-plugin-zh.md#sublime-text-plugin). [![Awesome List](https://jaywcjlove.github.io/sb/ico/min-awesome.svg "Awesome List")](https://github.com/dreikanter/sublime-bookmarks#readme)
+*   [Vim](http://www.vim.org/) - An old terminal-based editor. For common plugins, check [Vim Common Plugins](https://github.com/jaywcjlove/awesome-mac/blob/master/README.md/editor-plugin-zh.md#vim-plugin). [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/vim/vim) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![Awesome List](https://jaywcjlove.github.io/sb/ico/min-awesome.svg "Awesome List")](https://github.com/mhinz/vim-galore#readme)
 
 ### Developer Tools / IDEs
 
 *   [Android Studio](https://developer.android.com/studio/index.html) - The official IDE for Android, based on Intellij IDEA. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](http://tools.android.com/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![Awesome List](https://jaywcjlove.github.io/sb/ico/min-awesome.svg "Awesome List")](https://github.com/balsikandar/Android-Studio-Plugins#readme)
-*   [Xamarin Studio](https://www.visualstudio.com/vs/visual-studio-mac/) - Free cross platform C# IDE. Xamarin Studio supports iOS, Android and .Net development [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/mono/monodevelop) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![Awesome List](https://jaywcjlove.github.io/sb/ico/min-awesome.svg "Awesome List")](https://github.com/benoitjadinon/awesome-xamarin#readme)
 
 ### Developer Tools / Virtualization
 
@@ -264,7 +263,7 @@
 
 ### Packages / Command-line apps
 
-*   [carbon-now-cli (⭐5.7k)](https://github.com/mixn/carbon-now-cli) - Beautiful images of your code — from right inside your terminal.
+*   [carbon-now-cli (⭐5.8k)](https://github.com/mixn/carbon-now-cli) - Beautiful images of your code — from right inside your terminal.
 
 ## [15. Awesome Coins](/content/Zheaoli/awesome-coins/week/README.md)
 
@@ -280,7 +279,7 @@
 
 ## [17. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
-### Free Content
+### Free Content / Commerical Tools
 
 *   [Golden Artificial Intelligence](https://golden.com/wiki/Cluster%3A_Artificial_intelligence) - a cluster of pages on artificial intelligence and machine learning.
 
@@ -343,8 +342,8 @@
 
 ### Plotter Art For Sale / Patents
 
-*   [Michael Fogleman](https://www.michaelfogleman.com/plotter)
 *   [inconvergent](http://buy.inconvergent.net)
+*   [Michael Fogleman](https://www.michaelfogleman.com/plotter)
 
 ## [24. Awesome Vapor](/content/vapor-community/awesome-vapor/week/README.md)
 
@@ -440,11 +439,11 @@
 
 ### Network Protocols
 
-*   [crystal-json-socket (⭐13)](https://github.com/foi/crystal-json-socket) - JSON-socket client & server implementation. Inspired by and compatible with [node-json-socket (⭐154)](https://github.com/sebastianseilund/node-json-socket/) and [ruby-json-socket (⭐4)](https://github.com/foi/ruby-json-socket)
+*   [crystal-json-socket (⭐13)](https://github.com/foi/crystal-json-socket) - JSON-socket client & server implementation. Inspired by and compatible with [node-json-socket (⭐155)](https://github.com/sebastianseilund/node-json-socket/) and [ruby-json-socket (⭐4)](https://github.com/foi/ruby-json-socket)
 
 ### Processes and Threads
 
-*   [await\_async (⭐82)](https://github.com/anykeyh/await_async) - Add keywords await & async in Crystal Lang
+*   [await\_async (⭐85)](https://github.com/anykeyh/await_async) - Add keywords await & async in Crystal Lang
 
 ## [33. Awesome Honeypots](/content/paralax/awesome-honeypots/week/README.md)
 
@@ -468,7 +467,7 @@
 
 ### Similar libraries / Other Tools
 
-*   [lit-ntml (⭐82)](https://github.com/motss/lit-ntml) - Lightweight and modern templating for SSR in Node.js, inspired by lit-html.
+*   [lit-ntml (⭐83)](https://github.com/motss/lit-ntml) - Lightweight and modern templating for SSR in Node.js, inspired by lit-html.
 
 ## [36. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
@@ -523,11 +522,11 @@
 
 ### GUI
 
-*   [OmniDB (⭐3.1k)](https://github.com/OmniDB/OmniDB) - Web tool for database management.
+*   [OmniDB (⭐3.2k)](https://github.com/OmniDB/OmniDB) - Web tool for database management.
 
 ### API / Samples
 
-*   [DreamFactory (⭐1.5k)](https://github.com/dreamfactorysoftware/dreamfactory) - A open source REST API backend for mobile, web, and IoT applications.
+*   [DreamFactory (⭐1.6k)](https://github.com/dreamfactorysoftware/dreamfactory) - A open source REST API backend for mobile, web, and IoT applications.
 
 ### Monitoring/Statistics/Perfomance / Samples
 
@@ -581,11 +580,11 @@
 
 ### UI
 
-*   [Flushbar (⭐988)](https://github.com/AndreHaueisen/flushbar) <!--stargazers:AndreHaueisen/flushbar--> - Highly configurable Snackbar by [Andre Haueisen](https://github.com/AndreHaueisen)
+*   [Flushbar (⭐1k)](https://github.com/AndreHaueisen/flushbar) <!--stargazers:AndreHaueisen/flushbar--> - Highly configurable Snackbar by [Andre Haueisen](https://github.com/AndreHaueisen)
 
 ### UI / Material Design
 
-*   [Slidable (⭐2.6k)](https://github.com/letsar/flutter_slidable) <!--stargazers:letsar/flutter_slidable--> - Slidable list item with left and right slide actions by [Romain Rastel](https://github.com/letsar)
+*   [Slidable (⭐2.7k)](https://github.com/letsar/flutter_slidable) <!--stargazers:letsar/flutter_slidable--> - Slidable list item with left and right slide actions by [Romain Rastel](https://github.com/letsar)
 
 ### Device / Augmented Reality
 
@@ -596,7 +595,7 @@
 ### Algorithms and Data structures
 
 *   [jumper (⭐12)](https://github.com/whitfin/jumper) - Jump consistent hash implementation in Elixir (without NIFs).
-*   [matrex (⭐478)](https://github.com/versilov/matrex) - A blazing fast matrix library for Elixir/Erlang with C implementation using CBLAS.
+*   [matrex (⭐481)](https://github.com/versilov/matrex) - A blazing fast matrix library for Elixir/Erlang with C implementation using CBLAS.
 
 ### Chatting
 
@@ -625,7 +624,7 @@
 
 ### Translations and Internationalizations
 
-*   [gettext (⭐449)](https://github.com/elixir-lang/gettext) - Internationalization and localization support for Elixir.
+*   [gettext (⭐478)](https://github.com/elixir-lang/gettext) - Internationalization and localization support for Elixir.
 
 ### Validations
 
@@ -656,7 +655,7 @@
 
 ### Utility / Barcode
 
-*   [EtherWalletKit (⭐144)](https://github.com/SteadyAction/EtherWalletKit) - Ethereum Wallet Toolkit for iOS - You can implement Ethereum wallet without a server and blockchain knowledge.
+*   [EtherWalletKit (⭐146)](https://github.com/SteadyAction/EtherWalletKit) - Ethereum Wallet Toolkit for iOS - You can implement Ethereum wallet without a server and blockchain knowledge.
 
 ### Video / Barcode
 
@@ -666,25 +665,25 @@
 
 ### Apps
 
-*   [Hardbin (⭐247)](https://github.com/jes/hardbin) - Hardbin is an encrypted pastebin, with the decryption key passed in the URL fragment
-*   [InterPlanetary Wayback (⭐576)](https://github.com/oduwsdl/ipwb) - Web Archive (WARC) indexing and replay using IPFS.
-*   [Interplanetary Wiki (⭐99)](https://github.com/jamescarlyle/ipfs-wiki) - Wiki built on top of IPFS
+*   [Hardbin (⭐253)](https://github.com/jes/hardbin) - Hardbin is an encrypted pastebin, with the decryption key passed in the URL fragment
+*   [InterPlanetary Wayback (⭐618)](https://github.com/oduwsdl/ipwb) - Web Archive (WARC) indexing and replay using IPFS.
+*   [Interplanetary Wiki (⭐101)](https://github.com/jamescarlyle/ipfs-wiki) - Wiki built on top of IPFS
 *   [IPFessay](https://gitlab.com/stavros/IPFessay) - A simple way to publish uncensorable essays on IPFS.
 *   [PushToTalk](http://timothy.hobbs.cz/push-to-talk/index.html) - Push to Talk lets you edit audio essays and publish them with IPFS.
 
 ### Tools
 
-*   [gatsby-plugin-ipfs (⭐113)](https://github.com/moxystudio/gatsby-plugin-ipfs) - Adds support for deploying Gatsby websites to IPFS by ensuring that assets are relative.
-*   [git-ipfs-rehost (⭐198)](https://github.com/whyrusleeping/git-ipfs-rehost) - A script to rehost your git repos in ipfs.
-*   [git-remote-ipfs (⭐220)](https://github.com/cryptix/git-remote-ipfs) - push/pull repositories from/to IPFS.
-*   [http2ipfs (⭐43)](https://github.com/jbenet/http2ipfs-web) - This is a simple webtool to add URLs to an IPFS node.
-*   [ipfs-add-from-encrypted (⭐51)](https://github.com/TroyWilson1/ipfs-add-from-encrypted) - Encrypt a file or directory with AES256 then add to IPFS.
-*   [ipfs-companion (⭐2k)](https://github.com/ipfs/ipfs-companion) - Browser extension that simplifies access to IPFS resources.
-*   [ipfs-mount (⭐142)](https://github.com/richardschneider/net-ipfs-mount) - Mount IPFS as a mapped drive on Windows.
+*   [gatsby-plugin-ipfs (⭐115)](https://github.com/moxystudio/gatsby-plugin-ipfs) - Adds support for deploying Gatsby websites to IPFS by ensuring that assets are relative.
+*   [git-ipfs-rehost (⭐201)](https://github.com/whyrusleeping/git-ipfs-rehost) - A script to rehost your git repos in ipfs.
+*   [git-remote-ipfs (⭐229)](https://github.com/cryptix/git-remote-ipfs) - push/pull repositories from/to IPFS.
+*   [http2ipfs (⭐44)](https://github.com/jbenet/http2ipfs-web) - This is a simple webtool to add URLs to an IPFS node.
+*   [ipfs-add-from-encrypted (⭐53)](https://github.com/TroyWilson1/ipfs-add-from-encrypted) - Encrypt a file or directory with AES256 then add to IPFS.
+*   [ipfs-companion (⭐2.1k)](https://github.com/ipfs/ipfs-companion) - Browser extension that simplifies access to IPFS resources.
+*   [ipfs-mount (⭐147)](https://github.com/richardschneider/net-ipfs-mount) - Mount IPFS as a mapped drive on Windows.
 *   [ipfs-paste (⭐32)](https://github.com/jbenet/ipfs-paste) - Paste stdin and clipboard to IPFS.
 *   [ipfs-screencap (⭐49)](https://github.com/jbenet/ipfs-screencap) - Capture screenshots, publish them to IPFS, and copy the link to the clipboard.
-*   [ipget (⭐357)](https://github.com/ipfs/ipget) - :satellite: wget for IPFS: retrieve files over IPFS and save them locally.
-*   [IPRedirect (⭐7)](https://github.com/JayBrown/IPRedirect) - Browser userscript for redirecting IPFS/IPNS addresses to your local gateway. This should work on any browser that hasn't had an extension written for it yet and has support for userscripts.
+*   [ipget (⭐400)](https://github.com/ipfs/ipget) - :satellite: wget for IPFS: retrieve files over IPFS and save them locally.
+*   [IPRedirect (⭐8)](https://github.com/JayBrown/IPRedirect) - Browser userscript for redirecting IPFS/IPNS addresses to your local gateway. This should work on any browser that hasn't had an extension written for it yet and has support for userscripts.
 
 ## [45. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
@@ -738,35 +737,29 @@
 
 *   [Applying OpenGL Shaders with FFmpeg](https://nervous.io/ffmpeg/opengl/2017/01/31/ffmpeg-opengl) - And [follow-up](https://nervous.io/ffmpeg/opengl/2017/05/15/ffmpeg-pbo-yuv).
 
-## [50. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
-
-### Resources / Examples
-
-*   [Vue + TypeScript Cookbook (⭐273)](https://github.com/ffxsam/vue-typescript-cookbook/blob/master/README.md) - A small cookbook covering some less-than-obvious solutions for people getting started with Vue + TypeScript
-
-## [51. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
+## [50. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
 
 ### Boilerplates / Themes
 
-*   [Typescript React With Mobx Starter (⭐365)](https://github.com/YDJ-FE/ts-react-webpack) - a starter-template with typescript, react, mobx, antd and webpack).
+*   [Typescript React With Mobx Starter (⭐362)](https://github.com/YDJ-FE/ts-react-webpack) - a starter-template with typescript, react, mobx, antd and webpack).
 
-## [52. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [51. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Application Frameworks
 
-*   [CSLA .NET (⭐1.2k)](https://github.com/MarimerLLC/csla) - business layer development framework <https://cslanet.com/>
+*   [CSLA .NET (⭐1.3k)](https://github.com/MarimerLLC/csla) - business layer development framework <https://cslanet.com/>
 
 ### Caching
 
-*   [Akavache (⭐2.4k)](https://github.com/reactiveui/Akavache) - An asynchronous, persistent key-value store
+*   [Akavache (⭐2.5k)](https://github.com/reactiveui/Akavache) - An asynchronous, persistent key-value store
 
 ### Database
 
-*   [Realm Xamarin (⭐1.2k)](https://github.com/realm/realm-dotnet) - A fast, easy-to-use alternative to SQLite & ORMs - <https://realm.io/docs/dotnet/latest/>
+*   [Realm Xamarin (⭐1.3k)](https://github.com/realm/realm-dotnet) - A fast, easy-to-use alternative to SQLite & ORMs - <https://realm.io/docs/dotnet/latest/>
 
 ### GIS
 
-*   [CoordinateSharp (⭐360)](https://github.com/Tronald/CoordinateSharp) - Easily parse or convert coordinate formats and calculate location based solar/lunar information.
+*   [CoordinateSharp (⭐369)](https://github.com/Tronald/CoordinateSharp) - Easily parse or convert coordinate formats and calculate location based solar/lunar information.
 
 ### IDE
 
@@ -781,7 +774,7 @@
 
 *   [Catel](https://www.catelproject.com/) - Catel is an application development platform with the focus on MVVM (WPF, Silverlight, Windows Phone and WinRT) and MVC (ASP.NET MVC). The core of Catel contains an IoC container, models, validation, memento, message mediator, argument checking, etc.
 
-## [53. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [52. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Companies / F companies
 
@@ -796,13 +789,13 @@
 
 *   Timescale <https://blog.timescale.com/>
 
-## [54. Awesome Dash](/content/ucg8j/awesome-dash/week/README.md)
+## [53. Awesome Dash](/content/ucg8j/awesome-dash/week/README.md)
 
 ### Contributors
 
 *   [Sergey Pikhovkin](https://github.com/pikhovkin)
 
-## [55. Awesome Appsec](/content/paragonie/awesome-appsec/week/README.md)
+## [54. Awesome Appsec](/content/paragonie/awesome-appsec/week/README.md)
 
 ### Websites
 
@@ -826,7 +819,7 @@ Learn about security and performance.
 
 Blog of cryptographic company that makes open-source libraries and tools, and describes practical data security approaches for applications and infrastructures.
 
-## [56. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
+## [55. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
 ### Learning
 
@@ -836,7 +829,7 @@ Blog of cryptographic company that makes open-source libraries and tools, and de
 
 *   [Quantum Computing StackExchange](http://quantumcomputing.stackexchange.com/) - Question and answer site for quantum computing.
 
-## [57. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
+## [56. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
 ### Courses / Build system (ROS2)
 
@@ -860,23 +853,23 @@ Blog of cryptographic company that makes open-source libraries and tools, and de
 *   Node.js Client & Web Bridge Ready for ROS 2.0
 *   RCLAda: the Ada client library for ROS2
 
-## [58. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [57. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Concurrency
 
-*   [transwarp (⭐621)](https://github.com/bloomen/transwarp) - A header-only C++ library for task concurrency. \[MIT]
+*   [transwarp (⭐624)](https://github.com/bloomen/transwarp) - A header-only C++ library for task concurrency. \[MIT]
 
 ### Math
 
 *   [Geometric Tools](https://www.geometrictools.com) - C++ library for computing in the fields of mathematics, graphics, image analysis and physics. \[Boost] [website](https://www.geometrictools.com)
 
-## [59. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [58. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
 *   [Awesome Crypto Papers (⭐1.7k)](https://github.com/pFarb/awesome-crypto-papers) - A curated list of cryptography papers, articles, tutorials and howtos.
 
-## [60. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
+## [59. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
 
 ### CSP
 
@@ -888,31 +881,31 @@ Blog of cryptographic company that makes open-source libraries and tools, and de
 *   [DOMPurify (⭐9.8k)](https://github.com/cure53/DOMPurify) - DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG by [Cure53](https://cure53.de/).
 *   [Acra (⭐1.1k)](https://github.com/cossacklabs/acra) - Client-side encryption engine for SQL databases, with strong selective encryption, SQL injections prevention and intrusion detection by [@cossacklabs](https://www.cossacklabs.com/).
 
-## [61. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [60. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### Security / Other
 
-*   [Themis (⭐1.8k)](https://github.com/cossacklabs/themis) - Multi-platform high-level cryptographic library provides easy-to-use encryption for protecting sensitive data: secure messaging with forward secrecy, secure data storage (AES256GCM); suits for building end-to-end encrypted applications.
+*   [Themis (⭐1.9k)](https://github.com/cossacklabs/themis) - Multi-platform high-level cryptographic library provides easy-to-use encryption for protecting sensitive data: secure messaging with forward secrecy, secure data storage (AES256GCM); suits for building end-to-end encrypted applications.
 
-## [62. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
+## [61. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
 ### Other lists / Hash functions
 
-*   [Awesome crypto-papers (⭐1.7k)](https://github.com/pFarb/awesome-crypto-papers) – A curated list of cryptography papers, articles, tutorials and howtos.
+*   [Awesome crypto-papers (⭐1.8k)](https://github.com/pFarb/awesome-crypto-papers) – A curated list of cryptography papers, articles, tutorials and howtos.
 
-## [63. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
+## [62. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
 ### Video Production
 
-*   [MOS-connection (⭐20)](https://github.com/nrkno/tv-automation-mos-connection) - A JavaScript library for connection and MOS messaging either as MOS device or NRCS.
+*   [MOS-connection (⭐22)](https://github.com/nrkno/tv-automation-mos-connection) - A JavaScript library for connection and MOS messaging either as MOS device or NRCS.
 
-## [64. Typography](/content/deanhume/typography/week/README.md)
+## [63. Typography](/content/deanhume/typography/week/README.md)
 
 ### Web Fonts & Web Performance
 
 *   [Tips for balancing web fonts & page load](https://frontendnews.io/editions/2018-07-25-tips-for-loading-web-fonts)
 
-## [65. Awesome Qa](/content/seriousran/awesome-qa/week/README.md)
+## [64. Awesome Qa](/content/seriousran/awesome-qa/week/README.md)
 
 ### Types of QA
 

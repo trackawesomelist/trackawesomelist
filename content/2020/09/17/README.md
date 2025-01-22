@@ -10,20 +10,20 @@
 
 ### Tools / Linters
 
-*   [flake8-annotations (⭐155)](https://github.com/sco1/flake8-annotations) - Plugin for flake8 to check for presence of type annotations in function definitions.
+*   [flake8-annotations (⭐156)](https://github.com/sco1/flake8-annotations) - Plugin for flake8 to check for presence of type annotations in function definitions.
 
 ## [2. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
 
 ### Python / Data Sources
 
-*   [iexfinance (⭐649)](https://github.com/addisonlynch/iexfinance) - Python Interface for retrieving real-time and historical prices and equities data from The Investor's Exchange.
-*   [pyEX (⭐407)](https://github.com/timkpaine/pyEX) - Python interface to IEX with emphasis on pandas, support for streaming data, premium data, points data (economic, rates, commodities), and technical indicators.
+*   [iexfinance (⭐648)](https://github.com/addisonlynch/iexfinance) - Python Interface for retrieving real-time and historical prices and equities data from The Investor's Exchange.
+*   [pyEX (⭐408)](https://github.com/timkpaine/pyEX) - Python interface to IEX with emphasis on pandas, support for streaming data, premium data, points data (economic, rates, commodities), and technical indicators.
 
 ## [3. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
 ### GDScript/C# editor support / Godot version unknown
 
-*   [JetBrains Rider (C#) (⭐369)](https://github.com/JetBrains/godot-support) - Syntax highlighting, autocompletion and run configurations.
+*   [JetBrains Rider (C#) (⭐409)](https://github.com/JetBrains/godot-support) - Syntax highlighting, autocompletion and run configurations.
 
 ## [4. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/README.md)
 
@@ -82,10 +82,6 @@
 ### Projects Using Vue.js / Apps/Websites
 
 *   [Back Home/回家](https://flights.vincentc.us/) - A flight searching engine for the flights from oversea to China Mainland (and China to oversea) that still fly during COVID-19.
-
-### Components & Libraries / Frameworks
-
-*   [Saber (⭐2.1k)](https://github.com/saberland/saber) - A static website generator for building blazing fast websites with Vue.js.
 
 ### Components & Libraries / UI Utilities
 

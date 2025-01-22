@@ -64,9 +64,9 @@
 
 ### Examples
 
-*   [Lit Native (⭐42)](https://github.com/rodydavis/lit-native) - Reuse Lit web components on native platforms.
-*   [Lit Node Editor (⭐20)](https://github.com/rodydavis/lit-node-editor) - Node editor built with canvas API and simple graph data structure.
-*   [Lit 3D Piano (⭐19)](https://github.com/rodydavis/lit-3d-piano/) - 3D Piano built with Lit, Three.js and Tone.js.
+*   [Lit Native (⭐41)](https://github.com/rodydavis/lit-native) - Reuse Lit web components on native platforms.
+*   [Lit Node Editor (⭐21)](https://github.com/rodydavis/lit-node-editor) - Node editor built with canvas API and simple graph data structure.
+*   [Lit 3D Piano (⭐20)](https://github.com/rodydavis/lit-3d-piano/) - 3D Piano built with Lit, Three.js and Tone.js.
 *   [Open Web Components Examples](https://open-wc.org/guides/developing-components/code-examples/#lit-html-and-lit-element) - Code examples of common patterns using Lit.
 *   [Vite + RxDB + Lit (⭐5)](https://github.com/rodydavis/vite-rxdb-lit) - Minimal example to get RxDB running with Vite.
 
@@ -79,8 +79,8 @@
 
 ### Integrations / Other Tools
 
-*   [Fable.Lit (⭐90)](https://github.com/fable-compiler/Fable.Lit) - Collection of tools to embed HTML code into F# code with the power of Lit.
-*   [Ruby2JS (⭐417)](https://github.com/ruby2js/ruby2js) - Minimal yet extensible Ruby to JavaScript conversion.
+*   [Fable.Lit (⭐93)](https://github.com/fable-compiler/Fable.Lit) - Collection of tools to embed HTML code into F# code with the power of Lit.
+*   [Ruby2JS (⭐424)](https://github.com/ruby2js/ruby2js) - Minimal yet extensible Ruby to JavaScript conversion.
 
 ## [6. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/README.md)
 

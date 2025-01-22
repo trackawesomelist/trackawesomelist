@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 26 - Mar 04, 2018
 
-42 awesome lists updated this week.
+39 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -69,40 +69,29 @@
 
 *   [SENAITE](https://www.senaite.com) - Laboratory Information Management System.
 
-## [5. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
-
-### Resources / Examples
-
-*   [vue-relay-examples (⭐11)](https://github.com/ntkme/vue-relay-examples) - A collection of example applications using vue-relay.
-
-### Projects Using Vue.js / Open Source
-
-*   [vuegg (⭐2.3k)](https://github.com/vuegg/vuegg) - vue GUI generator: Create mockups and code in one go! It leverages the creation of pages, components and styles with its visual editor. Generate all scaffolding code for your next vuejs project.
-*   [Podlove Web Player (⭐354)](https://github.com/podlove/podlove-web-player) - Podcast-optimized, HTML5-based audio player featuring chapters, transcripts and embedding.
-
-## [6. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [5. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Communication - Social Networks and Forums
 
-*   [Friendica](https://friendi.ca/) - Social Communication Server. ([Source Code (⭐1.4k)](https://github.com/friendica/friendica)) `AGPL-3.0` `PHP`
+*   [Friendica](https://friendi.ca/) - Social Communication Server. ([Source Code (⭐1.5k)](https://github.com/friendica/friendica)) `AGPL-3.0` `PHP`
 
 ### Software / Maps and Global Positioning System (GPS)
 
-*   [GraphHopper](https://graphhopper.com/) - Fast routing library and server using OpenStreetMap. ([Source Code (⭐4.9k)](https://github.com/graphhopper/graphhopper)) `Apache-2.0` `Java`
+*   [GraphHopper](https://graphhopper.com/) - Fast routing library and server using OpenStreetMap. ([Source Code (⭐5.6k)](https://github.com/graphhopper/graphhopper)) `Apache-2.0` `Java`
 
-## [7. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [6. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Individuals/Group Contributors / L individuals
 
 *   Lazarus Lazaridis <https://iridakos.com>
 
-## [8. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
+## [7. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
 ### Datasets / Topic-specific
 
 *   [Movie galaxies](http://moviegalaxies.com/) - A database of movie characters interaction graphs.
 
-## [9. Awesome Math](/content/rossant/awesome-math/week/README.md)
+## [8. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
 ### Foundations of Mathematics / Transition To Pure Rigour Math
 
@@ -205,7 +194,7 @@
 *   📝 [Mathematical Tools for Physics](http://www.physics.miami.edu/nearing/mathmethods/) - James Nearing
 *   📝 [Mechanism of the Heavens (1831)](http://www.malaspina.com/etext/heavens.htm) - Mary Somerville
 
-## [10. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
+## [9. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
 ### Blogs
 
@@ -216,7 +205,7 @@
 *   [node-mqtt-for-anki-overdrive (⭐51)](https://github.com/IBM-Cloud/node-mqtt-for-anki-overdrive) - Node.js Controller and MQTT API for Anki Overdrive.
 *   [parrot-sample (⭐19)](https://github.com/IBM-Cloud/parrot-sample) - Sample code which uses MQTT to control a Parrot AR Drone.
 
-## [11. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/week/README.md)
+## [10. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/week/README.md)
 
 ### Audio Related Packages / Transformations - General DSP
 
@@ -226,31 +215,19 @@
 
 *   [pyYAAFE (⭐236)](https://github.com/Yaafe/Yaafe) [:octocat: (⭐236)](https://github.com/Yaafe/Yaafe) - Python bindings for YAAFE feature extractor.
 
-## [12. Awesome Framer](/content/podo/awesome-framer/week/README.md)
+## [11. Awesome Framer](/content/podo/awesome-framer/week/README.md)
 
 ### UI Libraries
 
 *   [iOS 11 iPhone GUI (⭐97)](https://github.com/facebookincubator/ios-11-gui-for-framer) - Templates of GUI elements found in the public release of iOS 11.
 
-## [13. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [12. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### For Electron / Other
 
 *   [electron-timber (⭐400)](https://github.com/sindresorhus/electron-timber) - Pretty logger.
 
-## [14. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
-
-### Tools / Project Management
-
-*   [Taskade](https://taskade.com/) - Real-time collaborative notes, checklists and outlines for teams.
-
-## [15. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
-
-### CMS and applications built on CakePHP
-
-*   [Croogo](https://croogo.org) - CMS software (see 5.0 branch).
-
-## [16. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
+## [13. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
 ### Memory and concurrency
 
@@ -265,45 +242,45 @@
 *   [FOSDEM 2018](https://fosdem.org/2018/schedule/track/free_java/) - FOSDEM 2018 Free Java devroom.
 *   [JFokus 2018](https://www.youtube.com/playlist?list=PL2ekzZZrxVUkhrcMKuPMbiKoghc777plr) - The GC edition. Shenandoah, ZGC, Zing, Fibers, Falcon etc.
 
-## [17. Awesome Blockchain Ai](/content/steven2358/awesome-blockchain-ai/week/README.md)
+## [14. Awesome Blockchain Ai](/content/steven2358/awesome-blockchain-ai/week/README.md)
 
 ### Blockchains for AI algorithms / Blockchain, AI and Machine Learning
 
 *   [Intuition Fabric](https://intuitionfabric.com) - The goal of Intuition Fabric is to democratize access to AI through a network of deep learning models that are stored on the interplanetary file system and accessed through the Ethereum blockchain.
 *   [OpenMined](https://openmined.org/) - OpenMined is a community focused on building open-source technology for the decentralized ownership of data and intelligence. With OpenMined, AI can be trained on data that it never has access to.
 
-## [18. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
+## [15. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
 
 ### Comments
 
 *   [Muut.com](https://muut.com/) - Embeddable comments, forum and private messaging. A lot of functionality, but really low footprint left on your website.
 
-## [19. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [16. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### CLI
 
-*   [Argu (⭐449)](https://github.com/fsprojects/Argu) - Declarative CLI argument & XML configuration parser for F# applications.
+*   [Argu (⭐464)](https://github.com/fsprojects/Argu) - Declarative CLI argument & XML configuration parser for F# applications.
 *   [clipr (⭐89)](https://github.com/nemec/clipr) - A CLI library inspired by Python's argparse that transforms a command line into a strongly-typed object. It supports custom argument types, automated (and localized) help generation, and a variety of ways to store parsed arguments.
-*   [CliWrap (⭐4.3k)](https://github.com/Tyrrrz/CliWrap) - Wrapper for command line interfaces.
-*   [Command Line Parser (⭐4.5k)](https://github.com/commandlineparser/commandline) - The Command Line Parser Library offers to CLR applications a clean and concise API for manipulating command-line arguments and related tasks
-*   [CsConsoleFormat (⭐366)](https://github.com/Athari/CsConsoleFormat) - .NET C# library for advanced formatting of console output.
-*   [Docopt (⭐350)](https://github.com/docopt/docopt.net) - Command-line interface description language that will make you smile.
-*   [Fluent Command Line Parser (⭐530)](https://github.com/fclp/fluent-command-line-parser) - A simple, strongly typed .NET C# command-line parser library using a fluent easy to use interface
-*   [Power Args (⭐568)](https://github.com/adamabdelhamed/PowerArgs) - PowerArgs converts command-line arguments into .NET objects that are easy to program against. It also provides a ton of optional capabilities such as argument validation, auto generated usage, tab completion, and plenty of extensibility
+*   [CliWrap (⭐4.5k)](https://github.com/Tyrrrz/CliWrap) - Wrapper for command line interfaces.
+*   [Command Line Parser (⭐4.6k)](https://github.com/commandlineparser/commandline) - The Command Line Parser Library offers to CLR applications a clean and concise API for manipulating command-line arguments and related tasks
+*   [CsConsoleFormat (⭐369)](https://github.com/Athari/CsConsoleFormat) - .NET C# library for advanced formatting of console output.
+*   [Docopt (⭐356)](https://github.com/docopt/docopt.net) - Command-line interface description language that will make you smile.
+*   [Fluent Command Line Parser (⭐535)](https://github.com/fclp/fluent-command-line-parser) - A simple, strongly typed .NET C# command-line parser library using a fluent easy to use interface
+*   [Power Args (⭐569)](https://github.com/adamabdelhamed/PowerArgs) - PowerArgs converts command-line arguments into .NET objects that are easy to program against. It also provides a ton of optional capabilities such as argument validation, auto generated usage, tab completion, and plenty of extensibility
 
-## [20. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [17. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Third-party APIs
 
 *   [twitter-crystal (⭐82)](https://github.com/sferik/twitter-crystal) - A library to access the Twitter API
 
-## [21. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
+## [18. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
 
 ### Utils / Third Party
 
 *   [d3-template (⭐8)](https://github.com/ErikOnBike/d3-template) - Plugin to create and render templates using D3's data binding mechanism
 
-## [22. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [19. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
@@ -327,7 +304,7 @@
 
 *   [reCAPTCHA (⭐134)](https://github.com/PaulMiami/reCAPTCHA) - reCAPTCHA 2.0 for ASP.NET Core.
 
-## [23. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
+## [20. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
 
 ### Screencasts
 
@@ -338,13 +315,13 @@
 *   [Local environment (⭐6)](https://github.com/piercus/serverless-local-environment) - Set local environment variables.
 *   [Offline SSM (⭐79)](https://github.com/janders223/serverless-offline-ssm) - Read SSM parameters from a `.env` file instead of AWS.
 
-## [24. Awesome Vapor](/content/vapor-community/awesome-vapor/week/README.md)
+## [21. Awesome Vapor](/content/vapor-community/awesome-vapor/week/README.md)
 
 ### Libraries
 
 *   ![v3](https://github.com/vapor-community/awesome-vapor/raw/main/img/vapor-3.png) [Vapor Test Tools (⭐32)](https://github.com/LiveUI/VaporTestTools) – Helper designed to make testing your endpoints in Vapor 3 pain-free.
 
-## [25. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [22. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Built-in Classes Enhancement
 
@@ -357,56 +334,56 @@
     *   [mysqlclient (⭐2.4k)](https://github.com/PyMySQL/mysqlclient) - MySQL connector with Python 3 support ([mysql-python](https://sourceforge.net/projects/mysql-python/) fork).
     *   [pymysql (⭐7.6k)](https://github.com/PyMySQL/PyMySQL) - A pure Python MySQL driver compatible to mysql-python.
 
-## [26. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [23. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Elastic Compute Cloud
 
 *   [mirakui/ec2ssh :fire::fire: (⭐248)](https://github.com/mirakui/ec2ssh) - SSH config manager.
 *   [openebs/openebs :fire::fire::fire::fire::fire: (⭐8.1k)](https://github.com/openebs/openebs) - Containerized block storage QoS SLAs, tiering and replica policies across AZs and environments, and predictable and scalable performance.
 
-## [27. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
+## [24. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
 
 ### Programming fonts / Fonts
 
-*   [Lab Mono (⭐121)](https://github.com/hatsumatsu/Lab-Mono) - Geometric monospaced typeface
+*   [Lab Mono (⭐143)](https://github.com/hatsumatsu/Lab-Mono) - Geometric monospaced typeface
 
 ### Awesome lists / Event listeners for fonts loading on a web page
 
-*   [Awesome Icons (⭐1.1k)](https://github.com/vkarampinis/awesome-icons)
+*   [Awesome Icons (⭐1.3k)](https://github.com/vkarampinis/awesome-icons)
 
 ### Other / Event listeners for fonts loading on a web page
 
-*   [TruFont (⭐437)](https://github.com/trufont/trufont) - a streamlined and hackable font editor
+*   [TruFont (⭐485)](https://github.com/trufont/trufont) - a streamlined and hackable font editor
 
-## [28. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [25. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Configuration
 
 *   [Envyable (⭐78)](https://github.com/philnash/envyable) - The simplest YAML to ENV config loader.
 
-## [29. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [26. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Blogs • Websites / Other
 
 *   [simonschreibt.de](https://simonschreibt.de/) - Game art tricks, design tricks by Simon schreibt.
 
-## [30. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [27. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / General-Purpose Machine Learning
 
-*   [neonrvm (⭐38)](https://github.com/siavashserver/neonrvm) - neonrvm is an open source machine learning library based on RVM technique. It's written in C programming language and comes with Python programming language bindings.
+*   [neonrvm (⭐39)](https://github.com/siavashserver/neonrvm) - neonrvm is an open source machine learning library based on RVM technique. It's written in C programming language and comes with Python programming language bindings.
 
-## [31. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [28. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Events
 
-*   [Tempura (⭐715)](https://github.com/BendingSpoons/tempura-swift) - A holistic approach to iOS development, inspired by Redux and MVVM.
+*   [Tempura (⭐719)](https://github.com/BendingSpoons/tempura-swift) - A holistic approach to iOS development, inspired by Redux and MVVM.
 
 ### Network / Barcode
 
-*   [SolarNetwork (⭐101)](https://github.com/ThreeGayHub/SolarNetwork) - Elegant network abstraction layer.
+*   [SolarNetwork (⭐102)](https://github.com/ThreeGayHub/SolarNetwork) - Elegant network abstraction layer.
 
-## [32. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [29. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### Utility / ORM
 
@@ -420,23 +397,23 @@
 
 *   [Capacitor (⭐8.1k)](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the web. Very promising Cordova alternative.
 
-## [33. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
+## [30. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
 
 ### Miscellaneous
 
 *   [Shrugapillar.js (⭐14)](https://github.com/memeguild/shrugapillar) - A library for generating shrugapillars.
 
-## [34. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [31. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### Backend / Navigation Demos
 
 *   [reactivesearch-native ★1218 (⭐4.7k)](https://github.com/appbaseio/reactivesearch/tree/dev/packages/native) - appbase.io and Elasticsearch UI components for React Native.
 
-## [35. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
+## [32. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### Directly On Top Of A RMDB
 
-*   [pREST (⭐4.2k)](https://github.com/prest/prest) - A fully RESTful API from any existing PostgreSQL database written in Go.
+*   [pREST (⭐4.3k)](https://github.com/prest/prest) - A fully RESTful API from any existing PostgreSQL database written in Go.
 
 ### Mocking / Symfony2
 
@@ -450,54 +427,54 @@
 
 *   [Moesif](https://www.moesif.com) - API Analytics for Debugging, Monitoring, and Usage Tracking for RESTful and GraphQL.
 
-## [36. Awesome Maintainers](/content/nayafia/awesome-maintainers/week/README.md)
+## [33. Awesome Maintainers](/content/nayafia/awesome-maintainers/week/README.md)
 
 *   [@Krzysztof-Cieslak](https://github.com/Krzysztof-Cieslak), [Ionide](https://github.com/ionide)
     *   "OSS and Community: The Story" ([post](http://kcieslak.io/OSS-The-Story))
 
-## [37. Awesome Selenium](/content/christian-bromann/awesome-selenium/week/README.md)
+## [34. Awesome Selenium](/content/christian-bromann/awesome-selenium/week/README.md)
 
 ### Tools / C#
 
-*   [Strontium (⭐9)](https://github.com/jimevans/strontium) - A .NET implementation (but outdated) for Selenium/WebDriver (Remote) Server
+*   [Strontium (⭐10)](https://github.com/jimevans/strontium) - A .NET implementation (but outdated) for Selenium/WebDriver (Remote) Server
 
 ### Containers / Docker
 
-*   [bravostudiodev/bravo-grid (⭐6)](https://github.com/bravostudiodev/bravo-grid) - Docker image/setup for Selenium Grid Extras (see under Selenium Grid section), for providing remote Sikuli test/automation execution and grid node file upload/download support.
+*   [bravostudiodev/bravo-grid (⭐5)](https://github.com/bravostudiodev/bravo-grid) - Docker image/setup for Selenium Grid Extras (see under Selenium Grid section), for providing remote Sikuli test/automation execution and grid node file upload/download support.
 
 ### Driver / Mobile (browsers and apps)
 
 *   [Appium](http://appium.io/) - Appium is an open source test automation framework for use with native and hybrid mobile apps. It drives iOS, Android Apps using the WebDriver protocol.
 *   [ios-driver](http://ios-driver.github.io/ios-driver/) - Test any IOS native, hybrid, or mobile web application using Selenium / WebDriver.
-*   [WebDriverAgent (⭐53)](https://github.com/manishPatwari/WebDriverAgent) - a WebDriver server for iOS to remote control devices via WebDriver API.
+*   [WebDriverAgent (⭐52)](https://github.com/manishPatwari/WebDriverAgent) - a WebDriver server for iOS to remote control devices via WebDriver API.
 
 ### Driver / Desktop GUI Automation (non-browser-centric)
 
-*   [WinAppDriver (⭐3.2k)](https://github.com/Microsoft/WinAppDriver) - Microsoft's WebDriver implementation for Windows application automation.
-*   [Winium (⭐366)](https://github.com/2gis/Winium) - Automation framework for Windows platforms. It is free. It is opensource. It is Selenium-based. Supports: Windows Desktop (WPF, WinForms); Windows Store or Universal Apps for Windows Phone; Windows Phone Silverlight Apps.
-*   [QtWebDriver (⭐185)](https://github.com/cisco-open-source/qtwebdriver) - For using WebDriver to automate Qt-based GUI applications.
-*   [AutoItDriverServer (⭐32)](https://github.com/daluu/AutoItDriverServer) - Selenium server to control/drive AutoIt via (Remote)WebDriver API.
-*   [AutoPyDriverServer (⭐14)](https://github.com/daluu/AutoPyDriverServer) - Selenium server to control/drive AutoPy via (Remote)WebDriver API.
+*   [WinAppDriver (⭐3.7k)](https://github.com/Microsoft/WinAppDriver) - Microsoft's WebDriver implementation for Windows application automation.
+*   [Winium (⭐387)](https://github.com/2gis/Winium) - Automation framework for Windows platforms. It is free. It is opensource. It is Selenium-based. Supports: Windows Desktop (WPF, WinForms); Windows Store or Universal Apps for Windows Phone; Windows Phone Silverlight Apps.
+*   [QtWebDriver (⭐199)](https://github.com/cisco-open-source/qtwebdriver) - For using WebDriver to automate Qt-based GUI applications.
+*   [AutoItDriverServer (⭐31)](https://github.com/daluu/AutoItDriverServer) - Selenium server to control/drive AutoIt via (Remote)WebDriver API.
+*   [AutoPyDriverServer (⭐16)](https://github.com/daluu/AutoPyDriverServer) - Selenium server to control/drive AutoPy via (Remote)WebDriver API.
 *   [SilkAppDriver (⭐8)](https://github.com/MicroFocus/SilkAppDriver) - Selenium server to control/drive the commercial SilkTest platform via (Remote)WebDriver API.
 
 ### Desktop Tools / Desktop GUI Automation (non-browser-centric)
 
-*   [SWET (⭐34)](https://github.com/sergueik/SWET) - A successor to SWD Page Recorder, for the same functionality.
+*   [SWET (⭐39)](https://github.com/sergueik/SWET) - A successor to SWD Page Recorder, for the same functionality.
 *   [Looking Glass (⭐52)](https://github.com/dmolchanenko/LookingGlass) - Java application that offers a cross-browser element inspector and Selenium code generator.
 *   [Silk WebDriver](https://www.microfocus.com/products/silk-portfolio/silk-webdriver/) - A Selenium IDE alternative for record, playback, and script export, from the creators of SilkTest.
 *   [Fire IE Selenium](https://code.google.com/archive/p/fire-ie-selenium/) - Microsoft Excel-based tool providing element inspection for Internet Explorer browser.
 
 ### Selenium Grid / Desktop GUI Automation (non-browser-centric)
 
-*   [Selenium Grid Extras (⭐537)](https://github.com/groupon/Selenium-Grid-Extras) - A framework that provides additional features beyond the basic Selenium Grid like video recording.
-*   [SeLion (⭐271)](https://github.com/paypal/SeLion) - A (Java) framework for running Selenium tests with additional features beyond the basic Selenium Grid functionality, particularly like stability improvements, etc.
-*   [Selenium Grid Extensions (⭐46)](https://github.com/sterodium/selenium-grid-extensions) - A set of extensions for Selenium Grid that provide additional features like running Sikuli tests/automation remotely, upload/download files on a grid node.
+*   [Selenium Grid Extras (⭐536)](https://github.com/groupon/Selenium-Grid-Extras) - A framework that provides additional features beyond the basic Selenium Grid like video recording.
+*   [SeLion (⭐282)](https://github.com/paypal/SeLion) - A (Java) framework for running Selenium tests with additional features beyond the basic Selenium Grid functionality, particularly like stability improvements, etc.
+*   [Selenium Grid Extensions (⭐47)](https://github.com/sterodium/selenium-grid-extensions) - A set of extensions for Selenium Grid that provide additional features like running Sikuli tests/automation remotely, upload/download files on a grid node.
 
 ### Blogs / Desktop GUI Automation (non-browser-centric)
 
 *   [SauceLabs Blog](https://saucelabs.com/blog) - Blog curated by SauceLabs.
 
-## [38. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
+## [35. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
 
 ### React Native
 
@@ -526,19 +503,19 @@
 
 
 
-## [39. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
+## [36. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
 ### Animation, Graphics & Video Playout
 
-*   [Open Playout Automation (⭐174)](https://github.com/jaskie/PlayoutAutomation) - A CasparCG-based MCR play-out system.
+*   [Open Playout Automation (⭐178)](https://github.com/jaskie/PlayoutAutomation) - A CasparCG-based MCR play-out system.
 
-## [40. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [37. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Data Visualization / Graph Based approach
 
 *   Public Datasets [awesome-public-datasets (⭐54k)](https://github.com/awesomedata/awesome-public-datasets).
 
-## [41. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/week/README.md)
+## [38. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/week/README.md)
 
 ### Articles & Tutorials / Overall Topics
 
@@ -550,7 +527,7 @@
 
 *   [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/) - Everything you need to know about the debugging tools built into Google Chrome.
 
-## [42. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
+## [39. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
 
 ### OSINT
 

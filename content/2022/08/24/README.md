@@ -10,7 +10,7 @@
 
 ### Database
 
-*   [ZoneTree (⭐289)](https://github.com/koculu/ZoneTree) - Persistent, high-performance, transactional, and ACID-compliant ordered key-value database for .NET.
+*   [ZoneTree (⭐391)](https://github.com/koculu/ZoneTree) - Persistent, high-performance, transactional, and ACID-compliant ordered key-value database for .NET.
 
 ## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -55,7 +55,7 @@
 
 ### Languages / C/C++
 
-*   [vertices-algorand-sdk (⭐9)](https://github.com/vertices-network/c-vertices-sdk) - The Vertices SDK provides developers with easy device access to interact with Blockchains.
+*   [vertices-algorand-sdk (⭐10)](https://github.com/vertices-network/c-vertices-sdk) - The Vertices SDK provides developers with easy device access to interact with Blockchains.
 
 ### Languages / Ruby
 
@@ -65,15 +65,15 @@
 
 ### Templates / Vanilla
 
-*   [vite-tailwind-stimulus-starter (⭐9)](https://github.com/jeremyfrank/vite-tailwind-stimulus-starter) - Starter template for Tailwind CSS and Stimulus controllers.
+*   [vite-tailwind-stimulus-starter (⭐13)](https://github.com/jeremyfrank/vite-tailwind-stimulus-starter) - Starter template for Tailwind CSS and Stimulus controllers.
 
 ## [7. Awesome Mirth](/content/mga-mirth/awesome-mirth/README.md)
 
 ### Featured (new releases)
 
-*   [Release Notes Wiki pages (⭐847)](https://github.com/nextgenhealthcare/connect/wiki/Release-Notes) - All Release Notes.
+*   [Release Notes Wiki pages (⭐955)](https://github.com/nextgenhealthcare/connect/wiki/Release-Notes) - All Release Notes.
 *   [Mirth Download](https://www.nextgen.com/products-and-services/mirth-connect-downloads) - Official Mirth Connect Download.
-*   [Source Code (⭐847)](https://github.com/nextgenhealthcare/connect) - Mirth Connect source code.
+*   [Source Code (⭐955)](https://github.com/nextgenhealthcare/connect) - Mirth Connect source code.
 
 ### Official Docs & Quickstarts
 
@@ -82,7 +82,7 @@
 ### Mirth Extensions
 
 *   🔧 [Version Control Extension for MirthConnect (⭐21)](https://github.com/kayyagari/git-ext) - Version control for Channels and CodeTemplate.
-*   🔧 [Sync code between environments (⭐66)](https://github.com/SagaHealthcareIT/mirthsync) - Mirth Connect tool for syncing code via source control between environments.
+*   🔧 [Sync code between environments (⭐77)](https://github.com/SagaHealthcareIT/mirthsync) - Mirth Connect tool for syncing code via source control between environments.
 
 ### Follow / Official
 
@@ -90,7 +90,7 @@
 
 ### Follow / Community
 
-*   [This Awesome List (⭐6)](https://github.com/mga-mirth/awesome-mirth)
+*   📖 [This Awesome List (⭐7)](https://github.com/mga-mirth/awesome-mirth)
 
 ## [8. Awesome Directus](/content/directus-community/awesome-directus/README.md)
 
@@ -102,13 +102,13 @@
 
 ### Feature Engineering / General
 
-*   [Feature Engine (⭐1.7k)](https://github.com/feature-engine/feature_engine) - Feature engineering package with sklearn-like functionality. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
+*   [Feature Engine (⭐1.9k)](https://github.com/feature-engine/feature_engine) - Feature engineering package with sklearn-like functionality. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
 
 ## [10. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### ORM
 
-*   [bun (⭐3.6k)](https://github.com/uptrace/bun) - SQL-first Golang ORM. Successor of go-pg.
+*   [bun (⭐3.9k)](https://github.com/uptrace/bun) - SQL-first Golang ORM. Successor of go-pg.
 
 ---
 

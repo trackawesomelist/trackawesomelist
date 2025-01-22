@@ -46,13 +46,9 @@
 
 ## [7. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
-### Job boards
-
-*   [GraphQL Jobs](https://graphql.jobs/r/remote) - Work with GraphQL in a modern startup.
-
 ### Tools / Communication
 
-*   [Matrix (⭐901)](https://github.com/ResultadosDigitais/matrix) – Matrix is the online open-source workplace for distributed teams.
+*   [Matrix (⭐904)](https://github.com/ResultadosDigitais/matrix) – Matrix is the online open-source workplace for distributed teams.
 
 ## [8. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 

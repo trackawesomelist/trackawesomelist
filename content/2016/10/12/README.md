@@ -49,7 +49,7 @@
 
 ### Resources
 
-*   [Modern CMake (⭐210)](https://github.com/toeb/moderncmake) - Modern CMake **PDF** and samples by the creator of [cmakepp (⭐399)](https://github.com/toeb/cmakepp). [`[MIT]`](https://opensource.org/licenses/MIT)
+*   [Modern CMake (⭐229)](https://github.com/toeb/moderncmake) - Modern CMake **PDF** and samples by the creator of [cmakepp (⭐434)](https://github.com/toeb/cmakepp). [`[MIT]`](https://opensource.org/licenses/MIT)
 
 ## [6. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/README.md)
 

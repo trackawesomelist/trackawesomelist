@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 13 - Apr 19, 2020
 
-60 awesome lists updated this week.
+59 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Driver crates / Other
 
-*   [DW1000](https://crates.io/crates/dw1000) - SPI - Radio transceiver (IEEE 802.15.4 and position tracking) - [Article](https://braun-embedded.com/dw1000/) - ![crates.io](https://img.shields.io/crates/v/dw1000.svg)
+*   [DW1000](https://crates.io/crates/dw1000) - SPI - Radio transceiver (IEEE 802.15.4 and position tracking) - [Article](https://braun-embedded.com/dw1000/) - [![crates.io](https://img.shields.io/crates/v/dw1000.svg)](https://crates.io/crates/dw1000)
 
 ## [2. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/week/README.md)
 
@@ -333,7 +333,7 @@
 
 ### Social Media Tools / Instagram
 
-*   [Toutatis (⭐1.8k)](https://github.com/megadose/toutatis) - a tool that allows you to extract information from instagrams accounts such as s, phone numbers and more
+*   [Toutatis (⭐2.2k)](https://github.com/megadose/toutatis) - a tool that allows you to extract information from instagrams accounts such as s, phone numbers and more
 
 ## [9. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
@@ -346,7 +346,7 @@
 ### 2020
 
 *   [VSCode](https://code.visualstudio.com/) - [vscode-R](https://marketplace.visualstudio.com/items?itemName=Ikuyadeu.r) + [vscode-r-lsp](https://marketplace.visualstudio.com/items?itemName=REditorSupport.r-lsp) VSCode R Langauage Support
-*   [gt (⭐1.9k)](https://github.com/rstudio/gt) - Easily generate information-rich, publication-quality tables from R
+*   [gt (⭐2k)](https://github.com/rstudio/gt) - Easily generate information-rich, publication-quality tables from R
 
 ### Integrated Development Environments
 
@@ -369,10 +369,6 @@
 ### Debugging
 
 *   [Execution order (⭐21)](https://github.com/dereuromark/executionorder) - A demo app to display the execution order of files, methods and callbacks.
-
-### ORM / Database / Datamapping
-
-*   [Connehito/CakephpMasterReplica plugin (⭐12)](https://github.com/Connehito/cakephp-master-replica) - Switch master/replica database connections.
 
 ## [14. Awesome Bioie](/content/caufieldjh/awesome-bioie/week/README.md)
 
@@ -470,7 +466,7 @@
 
 ### Suggested Awesome Lists / Useful References
 
-*   [How They Test (⭐5.8k)](https://github.com/abhivaikar/howtheytest) - A curated collection of public resources from tech companies on how they test their software and build a quality culture
+*   [How They Test (⭐6.1k)](https://github.com/abhivaikar/howtheytest) - A curated collection of public resources from tech companies on how they test their software and build a quality culture
 
 ## [20. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
@@ -482,23 +478,23 @@
 
 ### Integrations
 
-*   [jest-playwright (⭐530)](https://github.com/playwright-community/jest-playwright/) - Jest adapter for running Playwright.
+*   [jest-playwright (⭐532)](https://github.com/playwright-community/jest-playwright/) - Jest adapter for running Playwright.
 
 ### Showcases
 
-*   [playwright-jest-examples (⭐102)](https://github.com/playwright-community/playwright-jest-examples) - Examples of the Jest Playwright tools in combination to test popular sites.
-*   [VS Code (⭐161k)](https://github.com/microsoft/vscode) - Playwright is used to run cross-browser tests on their web builds.
-*   [TypeScript (⭐100k)](https://github.com/microsoft/TypeScript) - Playwright is used test typescript.js across browsers.
-*   [Elastic APM JS agent (⭐274)](https://github.com/elastic/apm-agent-rum-js) - Playwright is used to run benchmark tests across browsers.
-*   [Blockstack (⭐293)](https://github.com/blockstack/ux) - Playwright is used to run cross-browser UI tests.
-*   [xterm.js (⭐17k)](https://github.com/xtermjs/xterm.js) - Playwright is used to run cross-browser integration tests.
+*   [playwright-jest-examples (⭐103)](https://github.com/playwright-community/playwright-jest-examples) - Examples of the Jest Playwright tools in combination to test popular sites.
+*   [VS Code (⭐163k)](https://github.com/microsoft/vscode) - Playwright is used to run cross-browser tests on their web builds.
+*   [TypeScript (⭐101k)](https://github.com/microsoft/TypeScript) - Playwright is used test typescript.js across browsers.
+*   [Elastic APM JS agent (⭐278)](https://github.com/elastic/apm-agent-rum-js) - Playwright is used to run benchmark tests across browsers.
+*   [Blockstack (⭐295)](https://github.com/blockstack/ux) - Playwright is used to run cross-browser UI tests.
+*   [xterm.js (⭐18k)](https://github.com/xtermjs/xterm.js) - Playwright is used to run cross-browser integration tests.
 
 ## [22. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Files and Directories / Directory Navigation
 
-*   [z.lua (⭐2.9k)](https://github.com/skywind3000/z.lua) - `cd` command that learns your habits.
-*   [zoxide (⭐18k)](https://github.com/ajeetdsouza/zoxide) - Fast directory jumper in Rust.
+*   [z.lua (⭐3k)](https://github.com/skywind3000/z.lua) - `cd` command that learns your habits.
+*   [zoxide (⭐23k)](https://github.com/ajeetdsouza/zoxide) - Fast directory jumper in Rust.
 
 ## [23. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
@@ -510,7 +506,7 @@
 
 ### Personality
 
-- API: [Dictum (⭐159)](https://github.com/fisenkodv/dictum)
+- API: [Dictum (⭐166)](https://github.com/fisenkodv/dictum)
 
   Description: API to get access to the collection of the most inspiring expressions of mankind
 
@@ -558,7 +554,7 @@
 
 ### Packages / Miscellaneous
 
-*   [husky (⭐32k)](https://github.com/typicode/husky) - Create Git hook scripts.
+*   [husky (⭐33k)](https://github.com/typicode/husky) - Create Git hook scripts.
 
 ## [29. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
@@ -633,7 +629,7 @@
 ### Converters
 
 *   [Swiftify](https://swiftify.com/#/converter/code/) - Objective-C to Swift online code converter and Xcode extension.
-*   [Zolang (⭐145)](https://github.com/Zolang/Zolang) :penguin: - A DSL for generating code in multiple programming languages.
+*   [Zolang (⭐148)](https://github.com/Zolang/Zolang) :penguin: - A DSL for generating code in multiple programming languages.
 
 ### Patterns
 
@@ -641,15 +637,15 @@
 
 ### Animation
 
-*   [Elephant (⭐138)](https://github.com/s2mr/Elephant) - Elegant SVG animation kit.
+*   [Elephant (⭐140)](https://github.com/s2mr/Elephant) - Elegant SVG animation kit.
 
 ### API
 
-*   [GitHubAPI (⭐85)](https://github.com/serhii-londar/GithubAPI) - Implementation of GitHub REST API v3.
+*   [GitHubAPI (⭐86)](https://github.com/serhii-londar/GithubAPI) - Implementation of GitHub REST API v3.
 
 ### App Routing
 
-*   [LightRoute (⭐92)](https://github.com/SpectralDragon/LiteRoute) - Routing between VIPER modules.
+*   [LightRoute (⭐93)](https://github.com/SpectralDragon/LiteRoute) - Routing between VIPER modules.
 
 ### Multi Database
 
@@ -657,11 +653,11 @@
 
 ### XML
 
-*   [XMLCoder (⭐786)](https://github.com/MaxDesiatov/XMLCoder) - XMLEncoder & XMLDecoder based on Codable protocols from the standard library.
+*   [XMLCoder (⭐801)](https://github.com/MaxDesiatov/XMLCoder) - XMLEncoder & XMLDecoder based on Codable protocols from the standard library.
 
 ### Images / Barcode
 
-*   [FMPhotoPicker (⭐759)](https://github.com/congnd/FMPhotoPicker) - A modern, simple and zero-dependency photo picker with an elegant and customizable image editor.
+*   [FMPhotoPicker (⭐771)](https://github.com/congnd/FMPhotoPicker) - A modern, simple and zero-dependency photo picker with an elegant and customizable image editor.
 
 ### Layout / Barcode
 
@@ -674,7 +670,7 @@
 ### UI / Barcode
 
 *   [Material Components for iOS (⭐4.7k)](https://github.com/material-components/material-components-ios) - Modular and customizable Material Design UI components.
-*   [YMTreeMap (⭐131)](https://github.com/yahoo/YMTreeMap) - Treemap / Heatmap layout engine, based on Squarified.
+*   [YMTreeMap (⭐137)](https://github.com/yahoo/YMTreeMap) - Treemap / Heatmap layout engine, based on Squarified.
 
 ### UITableView / Barcode
 
@@ -682,7 +678,7 @@
 
 ### Serverless / Barcode
 
-*   [Azure Functions for Swift (⭐88)](https://github.com/SalehAlbuga/azure-functions-swift) :penguin: - Swift Worker for Azure Functions.
+*   [Azure Functions for Swift (⭐89)](https://github.com/SalehAlbuga/azure-functions-swift) :penguin: - Swift Worker for Azure Functions.
 
 ## [34. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
@@ -725,11 +721,11 @@
 
 ### Security
 
-*   [SecurePropertyStorage (⭐470)](https://github.com/alexruperez/SecurePropertyStorage) - Helps you define secure storages for your properties using Swift property wrappers.
+*   [SecurePropertyStorage (⭐471)](https://github.com/alexruperez/SecurePropertyStorage) - Helps you define secure storages for your properties using Swift property wrappers.
 
 ### CSV
 
-*   [CodableCSV (⭐446)](https://github.com/dehesa/CodableCSV) - Read and write CSV files row-by-row & field-by-field or through Swift's Codable interface.
+*   [CodableCSV (⭐467)](https://github.com/dehesa/CodableCSV) - Read and write CSV files row-by-row & field-by-field or through Swift's Codable interface.
 
 ## [39. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
@@ -766,11 +762,11 @@
 
 ### Utility / Docker Container Actions
 
-*   [YAML/JSON/XML Converter (⭐25)](https://github.com/fabasoad/yaml-json-xml-converter-action) - Converts YAML/JSON/XML file formats interchangeably.
-*   [Setup Xamarin (⭐30)](https://github.com/maxim-lobanov/setup-xamarin) - Switch between pre-installed versions of Xamarin and Mono for macOS images.
-*   [Memer Action (⭐23)](https://github.com/Bhupesh-V/memer-action) - A GitHub Action for Programmer Memes xD.
-*   [Setup Cocoapods (⭐22)](https://github.com/maxim-lobanov/setup-cocoapods) - Setup specific version of Cocoapods.
-*   [Public IP (⭐59)](https://github.com/haythem/public-ip) - Queries GitHub actions runner's public IP address.
+*   [YAML/JSON/XML Converter (⭐27)](https://github.com/fabasoad/yaml-json-xml-converter-action) - Converts YAML/JSON/XML file formats interchangeably.
+*   [Setup Xamarin (⭐33)](https://github.com/maxim-lobanov/setup-xamarin) - Switch between pre-installed versions of Xamarin and Mono for macOS images.
+*   [Memer Action (⭐36)](https://github.com/Bhupesh-V/memer-action) - A GitHub Action for Programmer Memes xD.
+*   [Setup Cocoapods (⭐31)](https://github.com/maxim-lobanov/setup-cocoapods) - Setup specific version of Cocoapods.
+*   [Public IP (⭐111)](https://github.com/haythem/public-ip) - Queries GitHub actions runner's public IP address.
 
 ### Static Analysis / Testing
 
@@ -778,7 +774,7 @@
 
 ### Static Analysis / Security
 
-*   [Secrets Sync Action (⭐269)](https://github.com/google/secrets-sync-action) - Action syncs secrets across multiple repositories.
+*   [Secrets Sync Action (⭐312)](https://github.com/google/secrets-sync-action) - Action syncs secrets across multiple repositories.
 
 ## [42. Awesome Scientific Writing](/content/writing-resources/awesome-scientific-writing/week/README.md)
 
@@ -937,11 +933,11 @@
 
 ### Java VM / Java
 
-*   [Dubbo (⭐40k)](https://github.com/apache/dubbo) - A high-performance, java based RPC framework open-sourced by Alibaba.
+*   [Dubbo (⭐41k)](https://github.com/apache/dubbo) - A high-performance, java based RPC framework open-sourced by Alibaba.
 
 ### Rust / Scala
 
-*   [Tarpc (⭐3.1k)](https://github.com/google/tarpc) - RPC framework for Rust with a focus on ease of use.
+*   [Tarpc (⭐3.3k)](https://github.com/google/tarpc) - RPC framework for Rust with a focus on ease of use.
 
 ### Elasticity / Scala
 
@@ -950,7 +946,7 @@
 ### Messaging / Scala
 
 *   [Beanstalk](https://beanstalkd.github.io/) - Simple, fast work queue.
-*   [Bull (⭐15k)](https://github.com/OptimalBits/bull) - Fast and reliable Redis-based queue for Node.
+*   [Bull (⭐16k)](https://github.com/OptimalBits/bull) - Fast and reliable Redis-based queue for Node.
 
 ### Security / Scala
 
@@ -964,7 +960,7 @@
 
 ### Community Extensions
 
-*   [Keycloak Login with User Attribute (⭐35)](https://github.com/cnieg/keycloak-login-attribute)
+*   [Keycloak Login with User Attribute (⭐37)](https://github.com/cnieg/keycloak-login-attribute)
 
 ## [48. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
@@ -978,47 +974,33 @@
 
 *   [78 (⭐3)](https://github.com/oatmealine/78) - A single-character command language focused around the numbers 7 and 8.
 
-## [50. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
-
-### Resources / Examples
-
-*   [Vue Voyagers 👽 Space Travel](https://neodigm.github.io/vue_voyagers/) - A Vue.js Gamified example SPA that consumes a REST API. It presents infographics via D3.js, animation, and web audio.
-
-### Components & Libraries / Frameworks
-
-*   [V-Craft (⭐300)](https://github.com/yoychen/v-craft) - A toolset for building extensible page builders with Vue.js.
-
-### Components & Libraries / UI Components
-
-*   [vue-hawesome-modal (⭐5)](https://github.com/behawesometw/vue-hawesome-modal) - A Vue promisify modal component plugin based on Vuetify with Vuex.
-
-## [51. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+## [50. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
 ### Network Tools / DDoS Tools
 
-*   [Low Orbit Ion Canon (LOIC) (⭐2.6k)](https://github.com/NewEraCracker/LOIC) - Open source network stress tool written for Windows.
+*   [Low Orbit Ion Canon (LOIC) (⭐2.7k)](https://github.com/NewEraCracker/LOIC) - Open source network stress tool written for Windows.
 
 ### Reverse Engineering / Reverse Engineering Tools
 
-*   [Fridax (⭐156)](https://github.com/NorthwaveNL/fridax) - Read variables and intercept/hook functions in Xamarin/Mono JIT and AOT compiled iOS/Android applications.
+*   [Fridax (⭐164)](https://github.com/NorthwaveNL/fridax) - Read variables and intercept/hook functions in Xamarin/Mono JIT and AOT compiled iOS/Android applications.
 
 ### Vulnerability Databases / Social Engineering Tools
 
 *   [GitHub Advisories](https://github.com/advisories/) - Public vulnerability advisories published by or affecting codebases hosted by GitHub, including open source projects.
 
-## [52. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
+## [51. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
 ### DevSecOps / Service meshes
 
 *   [CodeQL](https://securitylab.github.com/tools/codeql) - Discover vulnerabilities across a codebase by performing queries against code as though it were data.
 
-## [53. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+## [52. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
 ### Design / Svelte
 
 *   [Figmalion](https://figmalion.com). A biweekly curated newsletter about [Figma](https://www.figma.com/).
 
-## [54. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [53. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
@@ -1028,13 +1010,13 @@
 
 *   [EasyNetQ (⭐2.9k)](https://github.com/EasyNetQ/EasyNetQ) - An easy to use .NET API for RabbitMQ.
 
-## [55. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [54. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### For Electron / Other
 
 *   [RxDB (⭐21k)](https://github.com/pubkey/rxdb) - A realtime NoSQL database.
 
-## [56. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
+## [55. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
 ### Rendering/Publishing/Conversion
 
@@ -1044,7 +1026,7 @@
 
 *   [debugger (⭐560)](https://github.com/jupyterlab/debugger) - A visual debugger for Jupyter notebooks, consoles, and source files.
 
-## [57. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
+## [56. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
 
 ### IR Tools Collection / Evidence Collection
 
@@ -1059,19 +1041,19 @@
 *   [Invoke-LiveResponse (⭐141)](https://github.com/mgreen27/Invoke-LiveResponse) -  Invoke-LiveResponse is a live response tool for targeted collection.
 *   [IRTriage (⭐123)](https://github.com/AJMartel/IRTriage) - Incident Response Triage - Windows Evidence Collection for Forensic Analysis.
 
-## [58. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
+## [57. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
 ### Software / Utilities
 
 *   [Grayscale Mode (⭐73)](https://github.com/rkbhochalya/grayscale-mode) - An open source macOS app that lets you quickly toggle grayscale filter right from your menu bar or using a keyboard shortcut (⌥⌘G). ([MIT (⭐73)](https://github.com/rkbhochalya/grayscale-mode/blob/master/LICENSE))
 
-## [59. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
+## [58. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
 ### Maps in the Wild
 
 *   [Evolving Enterprise Collaboration To Digital Ecosystems](https://www.forbes.com/sites/rawnshah/2015/10/17/evolving-enterprise-collaboration-to-digital-ecosystems/#7091b8557bda) - Oct 17, 2015.
 
-## [60. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [59. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### CDN and Protection
 

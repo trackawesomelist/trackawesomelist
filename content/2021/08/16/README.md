@@ -10,7 +10,7 @@
 
 ### Gaming
 
-*   [Godot (⭐6.6k)](https://github.com/godotengine/awesome-godot#readme) - Game engine.
+*   [Godot (⭐7.1k)](https://github.com/godotengine/awesome-godot#readme) - Game engine.
 
 ## [2. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
@@ -22,7 +22,7 @@
 
 ### Java / Git
 
-*   [Password4j (⭐336)](https://github.com/Password4j/password4j) - A Java user-friendly cryptographic library for hashing and checking passwords with different Key derivation functions (KDFs) and Cryptographic hash functions (CHFs).
+*   [Password4j (⭐353)](https://github.com/Password4j/password4j) - A Java user-friendly cryptographic library for hashing and checking passwords with different Key derivation functions (KDFs) and Cryptographic hash functions (CHFs).
 
 ## [4. Awesome Games of Coding](/content/michelpereira/awesome-games-of-coding/README.md)
 
@@ -63,11 +63,11 @@
 
 ### Applications / Blockchain
 
-*   [interBTC (⭐245)](https://github.com/interlay/interbtc) - Trustless and fully decentralized Bitcoin bridge to Polkadot and Kusama.
+*   [interBTC (⭐249)](https://github.com/interlay/interbtc) - Trustless and fully decentralized Bitcoin bridge to Polkadot and Kusama.
 
 ### Libraries / Game development
 
-*   [Awesome Quads (⭐176)](https://github.com/ozkriff/awesome-quads) - A curated list of links to miniquad/macroquad-related code & resources
+*   [Awesome Quads (⭐200)](https://github.com/ozkriff/awesome-quads) - A curated list of links to miniquad/macroquad-related code & resources
 
 ## [10. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
@@ -91,11 +91,11 @@
 
 ### AppImage consumption tools / Package managers
 
-*   [RookiePM (⭐1)](https://github.com/18fadly-anthony/rookie) - Package manager for AppImages and Shell Scripts.
+*   [RookiePM (⭐2)](https://github.com/18fadly-anthony/rookie) - Package manager for AppImages and Shell Scripts.
 
 ### AppImage developer tools / Deployment tools for Windows applications
 
-*   [ferion11/Wine\_Appimage (⭐37)](https://github.com/ferion11/Wine_Appimage) - AppImage for WINE 32bits from PlayOnLinux, an run on no-multilib systems.
+*   [ferion11/Wine\_Appimage (⭐44)](https://github.com/ferion11/Wine_Appimage) - AppImage for WINE 32bits from PlayOnLinux, an run on no-multilib systems.
 
 ## [12. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
 
@@ -126,11 +126,11 @@
 *   [Qubes OS](https://www.qubes-os.org) - Qubes OS is an operating system built out of securely-isolated compartments called Qubes.
 *   [Qubes OS News](https://www.qubes-os.org/news/) - Latest Qubes OS News.
 
-### Optics and Extra Info / Unikernel-like
+### Optics and Extra Info / Extra Info
 
 *   [3mdeb](https://3mdeb.com/) - We’re hands-on firmware experts with years of experience writing elegant, scalable and custom code for clients.
 
-### Social media / Web articles
+### Social media / Extra Info
 
 *   [Discord](https://discord.gg/YMUbTt7ZRG) - Qubes OS discord invite link
 *   [Facebook](https://www.facebook.com/QubesOS/) - Qubes OS facebook page

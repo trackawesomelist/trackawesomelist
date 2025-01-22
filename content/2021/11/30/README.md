@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 30, 2021
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -14,7 +14,7 @@
 
 ### MVVM
 
-*   [Community Toolkit](https://github.com/CommunityToolkit) - Collection of control & helper libraries and samples for various .NET technologies. Contains modern MVVM library, supported by Microsoft. Includes [Windows Community Toolkit (⭐5.8k)](https://github.com/CommunityToolkit/WindowsCommunityToolkit), [MAUI Community Toolkit (⭐2.2k)](https://github.com/CommunityToolkit/Maui), and [Dotnet Community Toolkit (⭐2.9k)](https://github.com/CommunityToolkit/dotnet).
+*   [Community Toolkit](https://github.com/CommunityToolkit) - Collection of control & helper libraries and samples for various .NET technologies. Contains modern MVVM library, supported by Microsoft. Includes [Windows Community Toolkit (⭐5.9k)](https://github.com/CommunityToolkit/WindowsCommunityToolkit), [MAUI Community Toolkit (⭐2.4k)](https://github.com/CommunityToolkit/Maui), and [Dotnet Community Toolkit (⭐3.2k)](https://github.com/CommunityToolkit/dotnet).
 
 ## [2. Awesome Vscode](/content/viatsko/awesome-vscode/README.md)
 
@@ -30,13 +30,13 @@
 
 ### Libraries/Frameworks / Graphics
 
-*   [JetBrains/skiko (⭐1.8k)](https://github.com/JetBrains/skiko) - Kotlin Multiplatform bindings to Skia
+*   [JetBrains/skiko (⭐1.9k)](https://github.com/JetBrains/skiko) - Kotlin Multiplatform bindings to Skia
 
 ## [4. Awesome Bash](/content/awesome-lists/awesome-bash/README.md)
 
 ### Command-Line Productivity
 
-*   [sshrc (⭐207)](https://github.com/cdown/sshrc) - Bring your .bashrc, .vimrc, etc. with you when you SSH.
+*   [sshrc (⭐215)](https://github.com/cdown/sshrc) - Bring your .bashrc, .vimrc, etc. with you when you SSH.
 *   [zoxide (⭐21k)](https://github.com/ajeetdsouza/zoxide) - A better way to navigate your filesystem. Written in Rust, cross-shell, and much faster than other autojumpers.
 
 ## [5. Awesome Captcha](/content/ZYSzys/awesome-captcha/README.md)
@@ -49,7 +49,7 @@
 
 ### Multimedia content processing
 
-*   [SVT Encore (⭐263)](https://github.com/svt/encore) - Selfhosted video transcoding plattform, built around FFmpeg.
+*   [SVT Encore (⭐273)](https://github.com/svt/encore) - Selfhosted video transcoding plattform, built around FFmpeg.
 
 ## [7. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/README.md)
 
@@ -82,13 +82,7 @@
 *   [scrnshts](https://scrnshts.club/) - \[Mobile screenshots] A hand-picked collection of the finest app store design screenshots.
 *   [UI Garage](https://uigarage.net/) - \[Mobile / web screenshots] Daily UI inspiration & patterns for designers and developers to find inspiration, tools, and the best resources for your project.
 
-## [11. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Projects Using Vue.js / Apps/Websites
-
-*   [CryptoTracks](https://cryptotracks.io) - Unleash and discover musical creativity on the Ethereum blockchain.
-
-## [12. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
+## [11. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 
 ### Blogs
 

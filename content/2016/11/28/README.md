@@ -23,8 +23,8 @@
 
 ### Styleguides
 
-*   [christopheradams/elixir\_style\_guide (⭐4.3k)](https://github.com/christopheradams/elixir_style_guide) - A community-driven style guide for Elixir.
-*   [lexmag/elixir-style-guide (⭐517)](https://github.com/lexmag/elixir-style-guide) - An opinionated Elixir style guide.
+*   [christopheradams/elixir\_style\_guide (⭐4.4k)](https://github.com/christopheradams/elixir_style_guide) - A community-driven style guide for Elixir.
+*   [lexmag/elixir-style-guide (⭐519)](https://github.com/lexmag/elixir-style-guide) - An opinionated Elixir style guide.
 
 ## [2. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
 
@@ -36,7 +36,7 @@
 
 ### Other Useful Repositories
 
-- Repository: [Security List (⭐1.7k)](https://github.com/zbetcheckin/Security_list)
+- Repository: [Security List (⭐1.8k)](https://github.com/zbetcheckin/Security_list)
 
   Description: Great security list for fun and profit
 

@@ -16,29 +16,25 @@
 
 ### Continuous Integration
 
-*   [go-beautiful-html-coverage (⭐7)](https://github.com/gha-common/go-beautiful-html-coverage) - A GitHub Action to track code coverage in your pull requests, with a beautiful HTML preview, for free.
+*   [go-beautiful-html-coverage (⭐14)](https://github.com/gha-common/go-beautiful-html-coverage) - A GitHub Action to track code coverage in your pull requests, with a beautiful HTML preview, for free.
 
 ### Embeddable Scripting Languages
 
-*   [Wa/凹语言 (⭐1k)](https://github.com/wa-lang/wa) - The Wa Programming Language embedded in Go.
+*   [Wa/凹语言 (⭐1.3k)](https://github.com/wa-lang/wa) - The Wa Programming Language embedded in Go.
 
 ### Security
 
-*   [multikey (⭐5)](https://github.com/adrianosela/multikey) - An n-out-of-N keys encryption/decryption framework based on Shamir's Secret Sharing algorithm.
+*   [multikey (⭐6)](https://github.com/adrianosela/multikey) - An n-out-of-N keys encryption/decryption framework based on Shamir's Secret Sharing algorithm.
 
 ## [3. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Database
 
-*   [lancedb (⭐3.9k)](https://github.com/lancedb/lancedb) \[[vectordb](https://crates.io/crates/vectordb)] - A serverless, low-latency vector database for AI applications
+*   [lancedb (⭐5.3k)](https://github.com/lancedb/lancedb) \[[vectordb](https://crates.io/crates/vectordb)] - A serverless, low-latency vector database for AI applications
 
 ### Libraries / Artificial Intelligence
 
-*   [guillaume-be/rust-bert (⭐2.5k)](https://github.com/guillaume-be/rust-bert) \[[rust\_bert](https://crates.io/crates/rust_bert)] - Ready-to-use NLP pipelines and language models
-
-### Libraries / Computation
-
-*   [faer-rs (⭐1.8k)](https://github.com/sarah-ek/faer-rs) \[[faer](https://crates.io/crates/faer)] - Linear algebra foundation for Rust
+*   [guillaume-be/rust-bert (⭐2.7k)](https://github.com/guillaume-be/rust-bert) \[[rust\_bert](https://crates.io/crates/rust_bert)] - Ready-to-use NLP pipelines and language models
 
 ## [4. Awesome Low Code](/content/zenitysec/awesome-low-code/README.md)
 
@@ -71,7 +67,7 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [git-status (⭐2)](https://github.com/AyoubMounim/zsh-git-status/) - Exposes functions with information about the current `git` repository.
+*   [git-status (⭐3)](https://github.com/AyoubMounim/zsh-git-status/) - Exposes functions with information about the current `git` repository.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -81,7 +77,7 @@
 
 ### Tools / Misc
 
-*   [Wallaroo.AI](https://wallaroo.ai/) - Production AI plaftorm for deploying, managing, and observing any model at scale across any envirorment from cloud to edge. Let's you go from python notebook to inferencing in minutes.
+*   [Wallaroo.AI](https://wallaroo.ai/) - Production AI plaftorm for deploying, managing, and observing any model at scale across any environment from cloud to edge. Let's go from python notebook to inferencing in minutes.
 
 ---
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 26, 2021
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,76 +10,62 @@
 
 ### Automation
 
-*   [Runbook (⭐729)](https://github.com/braintree/runbook) - A framework and Ruby DSL for progressive system automation.
+*   [Runbook (⭐733)](https://github.com/braintree/runbook) - A framework and Ruby DSL for progressive system automation.
 
 ### Game Development and Graphics
 
-*   [Mittsu (⭐506)](https://github.com/jellymann/mittsu) - Mittsu makes 3D graphics easier by providing an abstraction over OpenGL, and is based heavily off of THREE.js.
+*   [Mittsu (⭐525)](https://github.com/jellymann/mittsu) - Mittsu makes 3D graphics easier by providing an abstraction over OpenGL, and is based heavily off of THREE.js.
 
 ### Machine Learning
 
-*   [TensorFlow (⭐377)](https://github.com/ankane/tensorflow) - The end-to-end machine learning platform for Ruby.
-*   [Torch.rb (⭐686)](https://github.com/ankane/torch.rb) - Deep learning for Ruby, powered by LibTorch.
+*   [TensorFlow (⭐383)](https://github.com/ankane/tensorflow) - The end-to-end machine learning platform for Ruby.
+*   [Torch.rb (⭐739)](https://github.com/ankane/torch.rb) - Deep learning for Ruby, powered by LibTorch.
 
-## [2. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / UI Utilities
-
-*   [Reforms.js (⭐15)](https://github.com/empla/reforms) - Vue 3 and Bootstrap forms and cards generator. Validation, multiple fields, grouping, schema and more.
-
-## [3. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
+## [2. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 
 ### Tutorials / Articles / Automation
 
 *   [Static Site Comments: A Jamstack How-To](https://snipcart.com/blog/jamstack-static-site-comments)
 
-## [4. Awesome K6](/content/grafana/awesome-k6/README.md)
+## [3. Awesome K6](/content/grafana/awesome-k6/README.md)
 
 ### Tools
 
-*   [k6-reporter (⭐375)](https://github.com/benc-uk/k6-reporter) - Tool for converting k6 output to HTML reports.
+*   [k6-reporter (⭐396)](https://github.com/benc-uk/k6-reporter) - Tool for converting k6 output to HTML reports.
 
-## [5. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
+## [4. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
 ### Forms
 
 *   [Forms Cloud Upload (⭐1)](https://github.com/jbluemink/Sitecore-Forms-Cloud-Upload) - Use Azure Storage Queue and Azure Storage Blob to store Sitecore 9.3+ Forms uploads Encrypted, with a key from Azure Key Fault - this can be handy for the compliance once users upload sensitive data.
 
-## [6. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
+## [5. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
-### Development / Books
+### Development / Chat
 
-*   [just (⭐17k)](https://github.com/casey/just) - Modern `make`-like command runner.
+*   [just (⭐21k)](https://github.com/casey/just) - Modern `make`-like command runner.
 
-## [7. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
-
-### Authentication and Authorization
-
-*   [ADmad/JwtAuth plugin (⭐163)](https://github.com/ADmad/cakephp-jwt-auth) - A plugin for authenticating using JSON Web Tokens.
-
-### ORM / Database / Datamapping
-
-*   [Robotusers/TableInheritance plugin (⭐5)](https://github.com/robotusers/cakephp-table-inheritance) - Singe Table Inheritance (STI) plugin.
+## [6. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
 ### Search
 
-*   🍰 [Cake/ElasticSearch plugin (⭐87)](https://github.com/cakephp/elastic-search) - Alternative ORM using [Elasticsearch](https://www.elastic.co/) as its backend.
+*   [Cake/ElasticSearch plugin (⭐85)](https://github.com/cakephp/elastic-search) - Alternative ORM using [Elasticsearch](https://www.elastic.co/) as its backend.
 
 ### Security
 
-*   🍰 [Recaptcha plugin (⭐20)](https://github.com/ctlabvn/Recaptcha) - Simple, lightweight Google Recaptcha v2.
+*   [Recaptcha plugin (⭐21)](https://github.com/ctlabvn/Recaptcha) - Simple, lightweight Google Recaptcha v2.
 
 ### Templating
 
-*   🍰 [TwigView plugin (⭐13)](https://github.com/cakephp/twig-view) - A plugin to use the Twig Templating Language for views.
+*   [TwigView plugin (⭐14)](https://github.com/cakephp/twig-view) - A plugin to use the Twig Templating Language for views.
 
-## [8. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+## [7. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Standalone apps / Playground
 
-*   :octocat: [App Outlet (⭐379)](https://github.com/app-outlet/app-outlet) - An universal linux app store for AppImages/Flatpaks/Snaps written in TypeScript + Angular
+*   :octocat: [App Outlet (⭐391)](https://github.com/app-outlet/app-outlet) - An universal linux app store for AppImages/Flatpaks/Snaps written in TypeScript + Angular
 
-## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Issue Tracking and Project Management
 
@@ -93,7 +79,7 @@
 
 *   [Elementor](https://elementor.com) — WordPress website builder. Free plan available with 40+ Basic Widgets.
 
-## [10. Awesome Devenv](/content/jondot/awesome-devenv/README.md)
+## [9. Awesome Devenv](/content/jondot/awesome-devenv/README.md)
 
 ### Workflow / Extensions
 

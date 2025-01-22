@@ -40,8 +40,8 @@
 
 ### Miscellaneous
 
-*   [Klib (⭐4.1k)](https://github.com/attractivechaos/klib) - Small and lightweight implementations of common algorithms and data structures. \[MIT]
-*   [libnih (⭐90)](https://github.com/keybuk/libnih) - A lightweight library of C functions and structures. \[GPL2.1]
+*   [Klib (⭐4.3k)](https://github.com/attractivechaos/klib) - Small and lightweight implementations of common algorithms and data structures. \[MIT]
+*   [libnih (⭐89)](https://github.com/keybuk/libnih) - A lightweight library of C functions and structures. \[GPL2.1]
 
 ### Compiler
 

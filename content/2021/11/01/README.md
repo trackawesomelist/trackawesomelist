@@ -10,7 +10,7 @@
 
 ### Auth / Basic Auth and Session-based (for HTML Endpoints)
 
-*   [Flask-SimpleLogin (⭐198)](https://github.com/flask-extensions/Flask-SimpleLogin) - Authentication.
+*   [Flask-SimpleLogin (⭐199)](https://github.com/flask-extensions/Flask-SimpleLogin) - Authentication.
 
 ## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -34,7 +34,7 @@
 
 ### Libraries / Email
 
-*   [stalwartlabs/mail-parser (⭐279)](https://github.com/stalwartlabs/mail-parser) \[[mail-parser](https://crates.io/crates/mail-parser)] - A fast and robust e-mail parsing library with full MIME support [![build badge](https://github.com/stalwartlabs/mail-parser/actions/workflows/rust.yml/badge.svg)](https://github.com/stalwartlabs/mail-parser/actions/workflows/rust.yml)
+*   [stalwartlabs/mail-parser (⭐341)](https://github.com/stalwartlabs/mail-parser) \[[mail-parser](https://crates.io/crates/mail-parser)] - A fast and robust e-mail parsing library with full MIME support [![build badge](https://github.com/stalwartlabs/mail-parser/actions/workflows/rust.yml/badge.svg)](https://github.com/stalwartlabs/mail-parser/actions/workflows/rust.yml)
 
 ## [6. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 
@@ -86,13 +86,13 @@
 
 ### Containers
 
-*   [CI/CD with Docker and Kubernetes Book (⭐197)](https://github.com/semaphoreci/book-cicd-docker-kubernetes) - Marko Anastasov, Jérôme Petazzoni, Pablo Tom F. Zavalia, SemaphoreCI (PDF, EPUB, Kindle)
+*   [CI/CD with Docker and Kubernetes Book (⭐198)](https://github.com/semaphoreci/book-cicd-docker-kubernetes) - Marko Anastasov, Jérôme Petazzoni, Pablo Tom F. Zavalia, SemaphoreCI (PDF, EPUB, Kindle)
 
 ## [13. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Books
 
-- API: [PoetryDB (⭐500)](https://github.com/thundercomb/poetrydb#readme)
+- API: [PoetryDB (⭐522)](https://github.com/thundercomb/poetrydb#readme)
 
   Description: Enables you to get instant data from our vast poetry collection
 
@@ -116,7 +116,7 @@
 
   CORS: Unknown
 
-  Call this API: 
+  : 
 
 
 
@@ -136,7 +136,7 @@
 
 ### Music
 
-- API: [Gaana (⭐109)](https://github.com/cyberboysumanjay/GaanaAPI)
+- API: [Gaana (⭐115)](https://github.com/cyberboysumanjay/GaanaAPI)
 
   Description: API to retrieve song information from Gaana
 

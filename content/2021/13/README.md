@@ -23,13 +23,13 @@
 
 ### Development Environment
 
-*   🍰 [CakePHP Docker (⭐31)](https://github.com/cnizzardini/cakephp-docker) - A cakephp/app template for docker.
+*   [CakePHP Docker (⭐29)](https://github.com/cnizzardini/cakephp-docker) - A cakephp/app template for docker.
 
 ## [4. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Video
 
-*   [dertuxmalwieder/yaydl (⭐270)](https://github.com/dertuxmalwieder/yaydl) \[[yaydl](https://crates.io/crates/yaydl)] - A simple video downloader
+*   [dertuxmalwieder/yaydl (⭐287)](https://github.com/dertuxmalwieder/yaydl) \[[yaydl](https://crates.io/crates/yaydl)] - A simple video downloader
 
 ## [5. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
@@ -41,7 +41,7 @@
 
 ### Resources / Editors
 
-*   [HyperLap2D (⭐344)](https://github.com/rednblackgames/HyperLap2D) - Visual editor for complex 2D worlds and scenes with a runtime for libGDX.
+*   [HyperLap2D (⭐379)](https://github.com/rednblackgames/HyperLap2D) - Visual editor for complex 2D worlds and scenes with a runtime for libGDX.
 *   [Spine](http://esotericsoftware.com/) - Skeleton-based animation tool that focuses specifically on 2D animation for games.
 
 ### Tutorials / Getting Started
@@ -58,13 +58,13 @@
 
 ### Serialization
 
-*   [v-toxml (⭐8)](https://github.com/radare/v-toxml) - XML Serialization library for V.
+*   [v-toxml (⭐9)](https://github.com/radare/v-toxml) - XML Serialization library for V.
 
 ## [9. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Platforms
 
-*   [Nix (⭐2.9k)](https://github.com/nix-community/awesome-nix#readme) - Package manager for Linux and other Unix systems that makes package management reliable and reproducible.
+*   [Nix (⭐3.5k)](https://github.com/nix-community/awesome-nix#readme) - Package manager for Linux and other Unix systems that makes package management reliable and reproducible.
 
 ## [10. Awesome Meteor](/content/Urigo/awesome-meteor/week/README.md)
 
@@ -76,7 +76,7 @@
 
 ### Software / Python
 
-*   [graspologic (⭐640)](https://github.com/microsoft/graspologic) - Python package for statistical algorithms, models, and visualization for single and multiple networks.
+*   [graspologic (⭐815)](https://github.com/microsoft/graspologic) - Python package for statistical algorithms, models, and visualization for single and multiple networks.
     *   [Tutorials on algorithms and models](https://graspologic.readthedocs.io/en/latest/).
 
 ## [12. Awesome Seed Rs](/content/seed-rs/awesome-seed-rs/week/README.md)
@@ -89,7 +89,7 @@
 
 ### Full nodes
 
-*   [Fullnode (⭐197)](https://github.com/moneybutton/yours-bitcoin) - Javascript implementation of bitcoin.
+*   [Fullnode (⭐198)](https://github.com/moneybutton/yours-bitcoin) - Javascript implementation of bitcoin.
 
 ## [14. Awesome Storybook](/content/lauthieb/awesome-storybook/week/README.md)
 
@@ -123,20 +123,19 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-dataset (⭐220)](https://github.com/kouts/vue-dataset) - A set of Vue.js components to display datasets with filtering, paging, and sorting capabilities!
-*   [vue-virtual-tree (⭐63)](https://github.com/lycHub/vue-virtual-tree) - Tree component for large amount of data, base on Vue3.
-*   [vue3-tabs-chrome (⭐99)](https://github.com/viewweiwu/vue3-tabs-chrome) - A Vue3 component for Chrome-like tabs.
+*   [vue-dataset (⭐221)](https://github.com/kouts/vue-dataset) - A set of Vue.js components to display datasets with filtering, paging, and sorting capabilities!
+*   [vue3-tabs-chrome (⭐102)](https://github.com/viewweiwu/vue3-tabs-chrome) - A Vue3 component for Chrome-like tabs.
 
 ## [18. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Colors
 
-*   [ColorKit (⭐712)](https://github.com/Boris-Em/ColorKit) - Advanced color manipulation for iOS.
+*   [ColorKit (⭐730)](https://github.com/Boris-Em/ColorKit) - Advanced color manipulation for iOS.
 
 ### Images / Barcode
 
-*   [Brightroom (⭐3.3k)](https://github.com/muukii/Brightroom) - An image editor and engine using CoreImage.
-*   [Kanvas (⭐311)](https://github.com/tumblr/kanvas-ios) - A iOS library for adding effects, drawings, text, stickers, and making GIFs from existing media or the camera.
+*   [Brightroom (⭐3.4k)](https://github.com/muukii/Brightroom) - An image editor and engine using CoreImage.
+*   [Kanvas (⭐315)](https://github.com/tumblr/kanvas-ios) - A iOS library for adding effects, drawings, text, stickers, and making GIFs from existing media or the camera.
 
 ### Network / Barcode
 
@@ -144,7 +143,7 @@
 
 ### Alert / Barcode
 
-*   [SPAlert (⭐2.3k)](https://github.com/ivanvorobei/SPAlert) - Native popup from Apple Music & Feedback in AppStore. Contains Done & Heart presets.
+*   [SPAlert (⭐2.4k)](https://github.com/ivanvorobei/SPAlert) - Native popup from Apple Music & Feedback in AppStore. Contains Done & Heart presets.
 
 ### Button / Barcode
 
@@ -152,7 +151,7 @@
 
 ### Permissions / Barcode
 
-*   [SPPermission (⭐5.6k)](https://github.com/ivanvorobei/SPPermissions) - Simple request permission with native UI and interactive animation.
+*   [SPPermission (⭐5.7k)](https://github.com/ivanvorobei/SPPermissions) - Simple request permission with native UI and interactive animation.
 
 ### Transition / Barcode
 
@@ -163,7 +162,7 @@
 
 ### Topic Areas / Web Scraping
 
-*   [Web Scraping Reference: Cheat Sheet for Web Scraping using R (⭐353)](https://github.com/yusuzech/r-web-scraping-cheat-sheet) - Guide, reference and cheatsheet on web scraping using rvest, httr and Rselenium. Author: [yifyan et al.](https://github.com/yusuzech)
+*   [Web Scraping Reference: Cheat Sheet for Web Scraping using R (⭐390)](https://github.com/yusuzech/r-web-scraping-cheat-sheet) - Guide, reference and cheatsheet on web scraping using rvest, httr and Rselenium. Author: [yifyan et al.](https://github.com/yusuzech)
 
 ### Topic Areas / Uncategorized
 
@@ -173,7 +172,8 @@
 
 ### Mobile
 
-*   [cl-json (⭐8)](https://github.com/sharplispers/cl-json) - A highly customizable JSON encoder and decoder. [MIT](https://directory.fsf.org/wiki/License:Expat).
+*   [cl-json (⭐12)](https://github.com/sharplispers/cl-json) - A highly customizable JSON encoder and decoder. [MIT](https://directory.fsf.org/wiki/License:Expat).
+    *   "cl-json and yason are still the work horses if you need fine control, but speed is not their forte." @sabracrolleton
 
 ### Statistics / Third-party APIs
 
@@ -183,7 +183,7 @@
 
 ### Apps / Third-party APIs
 
-*   [cl-mock (⭐18)](https://github.com/Ferada/cl-mock) - Another mocking library. It has more features than Mockingbird, like pattern matching on the mocked call, etc.
+*   [cl-mock (⭐19)](https://github.com/Ferada/cl-mock) - Another mocking library. It has more features than Mockingbird, like pattern matching on the mocked call, etc.
 
 ## [21. Awesome Flask](/content/mjhea0/awesome-flask/week/README.md)
 
@@ -213,7 +213,7 @@
 
 ### Table of Contents / Streaming SQL
 
-*   [ksqlDB (⭐66)](https://github.com/confluentinc/ksql) \[Java] - A cloud-native, source-available [database](https://ksqldb.io/) purpose-built for stream processing applications
+*   [ksqlDB (⭐140)](https://github.com/confluentinc/ksql) \[Java] - A cloud-native, source-available [database](https://ksqldb.io/) purpose-built for stream processing applications
 *   [Materialize](https://materialize.com) \[Rust] - A source-available streaming SQL engine for maintaining materialized views on data from message brokers and databases.
 
 ## [26. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
@@ -228,7 +228,7 @@
 
 *   [tmux-mpv-info (⭐4)](https://github.com/Feqzz/tmux-mpv-info) Displays the current song playing with MPV in your tmux status bar.
 *   [tmux-spotify-info (⭐79)](https://github.com/jdxcode/tmux-spotify-info) Spotify track info on your status bar (OSX)
-*   [tmux-spotify-info (⭐9)](https://github.com/Feqzz/tmux-spotify-info) Spotify track info on your status bar (Linux)
+*   [tmux-spotify-info (⭐12)](https://github.com/Feqzz/tmux-spotify-info) Spotify track info on your status bar (Linux)
 *   [tmux-weather-info-yr (⭐1)](https://github.com/Feqzz/tmux-weather-info-yr) Displays the current temperature and weather based on your location via yr.no
 
 ## [28. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/week/README.md)
@@ -241,13 +241,13 @@
 
 ### Bundle Analyzer / Meetups
 
-*   [BundleStats (⭐475)](https://github.com/relative-ci/bundle-stats) - Generate bundle report(bundle size, assets, modules, packages) and compare the results between different builds
+*   [BundleStats (⭐593)](https://github.com/relative-ci/bundle-stats) - Generate bundle report(bundle size, assets, modules, packages) and compare the results between different builds
 
 ## [30. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Crates / Component Libraries
 
-*   [tailwind-yew-builder (⭐74)](https://github.com/matiu2/tailwind-yew-builder) - Builds Tailwind CSS for Yew using docker-compose. Also supports Trunk.
+*   [tailwind-yew-builder (⭐76)](https://github.com/matiu2/tailwind-yew-builder) - Builds Tailwind CSS for Yew using docker-compose. Also supports Trunk.
 
 ## [31. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
 
@@ -270,7 +270,7 @@
 
 ### Tools / Online Analyzers
 
-*   [Pithus](https://beta.pithus.org/) - Open-Source APK analyzer. Still in Beta for the moment and limited to static analysis for the moment. Possible to hunt malware with Yara rules. More [here](https://beta.pithus.org/about/).
+*   [Pithus](https://beta.pithus.org/) - Open-Source APK analyzer. Still in Beta for the moment and limited to static analysis for the moment. It is possible to hunt malware with Yara rules. More [here](https://beta.pithus.org/about/).
 
 ## [33. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/week/README.md)
 
@@ -299,7 +299,7 @@
 
 ### Modules / CLI utils
 
-*   [charmd (⭐57)](https://github.com/littletof/charmd) - A simple, extendable markdown renderer for your terminal.
+*   [charmd (⭐59)](https://github.com/littletof/charmd) - A simple, extendable markdown renderer for your terminal.
 
 ### Tools / XML
 
@@ -309,19 +309,19 @@
 
 ### Deployment Tools / Discovery
 
-*   [Colmena (⭐1.1k)](https://github.com/zhaofengli/colmena) - A simple, stateless NixOS deployment tool modeled after NixOps and morph.
+*   [Colmena (⭐1.4k)](https://github.com/zhaofengli/colmena) - A simple, stateless NixOS deployment tool modeled after NixOps and morph.
 
 ### Development / Discovery
 
-*   [pre-commit-hooks.nix (⭐488)](https://github.com/cachix/pre-commit-hooks.nix) - Run linters/formatters at commit time and on your CI.
+*   [pre-commit-hooks.nix (⭐566)](https://github.com/cachix/pre-commit-hooks.nix) - Run linters/formatters at commit time and on your CI.
 
 ### Programming Languages / Arduino
 
-*   [nixduino (⭐41)](https://github.com/boredom101/nixduino) - Nix-based tool to help build Arduino sketches.
+*   [nixduino (⭐46)](https://github.com/boredom101/nixduino) - Nix-based tool to help build Arduino sketches.
 
 ### Programming Languages / Crystal
 
-*   [crystal2nix (⭐14)](https://github.com/nix-community/crystal2nix) - Convert `shard.lock` into Nix expressions.
+*   [crystal2nix (⭐15)](https://github.com/nix-community/crystal2nix) - Convert `shard.lock` into Nix expressions.
 
 ## [38. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
@@ -333,11 +333,9 @@
 *   [Bongo](http://ebongo.org) - Real-time Transit Tracking for Iowa City, Coralville and the University of Iowa. Combines three disparate transit systems into one UI.
 *   [CityMapper Webapp](https://citymapper.com/nyc) - Really polished webapp with trip planner and route status for over 30 of cities.
 *   [YourStop](http://yourstop.info) - Mobile friendly web app which consumes GTFS feeds and displays both live and scheduled trips for stops. Launched with MBTA, YRT/Viva and Maryland MTA.
-*   [DC MetroHero](https://dcmetrohero.com) - Realtime vehicle position and arrivals and departure information for the Washington, D.C. region's WMATA Metrorail and Metrobus systems. WebApp, Android, and iOS apps avaliable.
 
 ### Web Apps (open source)
 
-*   [1-Click](http://camsys.software/products/1-click) - A virtual “trip aggregator” that assembles information on a wide variety of available modes: public transit, private, rail, rideshare, carpool, volunteer, paratransit, and walking and biking. Open-source [on GitHub (⭐14)](https://github.com/camsys/oneclick).
 *   [MBTA tile-server (⭐8)](https://github.com/mbta/tile-server) - Scripts to create a Docker container that encapsulates all the elements necessary to develop map tiles for use on MBTA.com
 
 ## [39. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
@@ -356,8 +354,8 @@
 
 ### Machine Learning
 
-*   [DL4S (⭐102)](https://github.com/palle-k/DL4S) - Deep Learning for Swift: Accelerated tensor operations and dynamic neural networks based on reverse mode automatic differentiation for every device that can run Swift.
-*   [SwiftCoreMLTools (⭐161)](https://github.com/JacopoMangiavacchi/SwiftCoreMLTools) - A Swift library for creating and exporting CoreML Models in Swift.
+*   [DL4S (⭐105)](https://github.com/palle-k/DL4S) - Deep Learning for Swift: Accelerated tensor operations and dynamic neural networks based on reverse mode automatic differentiation for every device that can run Swift.
+*   [SwiftCoreMLTools (⭐162)](https://github.com/JacopoMangiavacchi/SwiftCoreMLTools) - A Swift library for creating and exporting CoreML Models in Swift.
 
 ## [42. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
@@ -369,37 +367,37 @@
 
 ### Contents / Entertainment
 
-*   [Flutter Ebook App (⭐2.7k)](https://github.com/JideGuru/FlutterEbookApp) — A simple Flutter app to read and download e-books by [Festus Olusegun](https://github.com/JideGuru)
+*   [Flutter Ebook App (⭐3k)](https://github.com/JideGuru/FlutterEbookApp) — A simple Flutter app to read and download e-books by [Festus Olusegun](https://github.com/JideGuru)
 
 ### Contents / Finance
 
-*   [BudgetBudy (⭐22)](https://github.com/Mufaddal5253110/BudgetBudy) - Budget Budy is the easiest and most user friendly expense manager app by [Mufaddal Shakir](https://github.com/Mufaddal5253110)
-*   [Natrium (⭐826)](https://github.com/appditto/natrium_wallet_flutter) — A fast, robust & secure NANO Wallet by [Appditto](https://github.com/appditto)
+*   [BudgetBudy (⭐25)](https://github.com/Mufaddal5253110/BudgetBudy) - Budget Budy is the easiest and most user friendly expense manager app by [Mufaddal Shakir](https://github.com/Mufaddal5253110)
+*   [Natrium (⭐858)](https://github.com/appditto/natrium_wallet_flutter) — A fast, robust & secure NANO Wallet by [Appditto](https://github.com/appditto)
 
 ### Contents / Health and Fitness
 
 *   [Feeel](https://gitlab.com/enjoyingfoss/feeel/) — A home workout app that respects your privacy by [Enjoying FOSS](https://gitlab.com/enjoyingfoss).
-*   [Watermaniac (⭐170)](https://github.com/artrmz/watermaniac) — an app that will help you track the amount of water you drink by [Artur Rymarz](https://github.com/artrmz)
-*   [wger (⭐421)](https://github.com/wger-project/flutter) - Flutter fitness/workout app for wger by the [wger project](https://github.com/wger-project).
+*   [Watermaniac (⭐171)](https://github.com/artrmz/watermaniac) — an app that will help you track the amount of water you drink by [Artur Rymarz](https://github.com/artrmz)
+*   [wger (⭐527)](https://github.com/wger-project/flutter) - Flutter fitness/workout app for wger by the [wger project](https://github.com/wger-project).
 
 ### Contents / Productivity
 
-*   [Time Cop (⭐773)](https://github.com/hamaluik/timecop) - A time tracking app that respects your privacy by [Kenton Hamaluik](https://github.com/hamaluik).
+*   [Time Cop (⭐815)](https://github.com/hamaluik/timecop) - A time tracking app that respects your privacy by [Kenton Hamaluik](https://github.com/hamaluik).
 
 ### Contents / Tools
 
-*   [You (⭐246)](https://github.com/MDSADABWASIM/You) — An app that checks what internet knows about you by [Md Sadab Wasim](https://github.com/MDSADABWASIM)
+*   [You (⭐253)](https://github.com/MDSADABWASIM/You) — An app that checks what internet knows about you by [Md Sadab Wasim](https://github.com/MDSADABWASIM)
 
 ## [44. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/week/README.md)
 
 ### Sequence Alignment / Clustering
 
-*   **[MMseqs2 (⭐841)](https://github.com/soedinglab/MMseqs2)** - Ultra-fast, sensitive search and clustering suite for protein and nucleotide sequence sets. \[ [paper-2017](https://www.nature.com/articles/nbt.3988) | [paper-2018](https://www.nature.com/articles/s41467-018-04964-5) ]
+*   **[MMseqs2 (⭐1.5k)](https://github.com/soedinglab/MMseqs2)** - Ultra-fast, sensitive search and clustering suite for protein and nucleotide sequence sets. \[ [paper-2017](https://www.nature.com/articles/nbt.3988) | [paper-2018](https://www.nature.com/articles/s41467-018-04964-5) ]
 
 ### Variant Calling / Clustering
 
-*   **[DeepVariant (⭐2.7k)](https://github.com/google/deepvariant)** - Deep learning-based variant caller \[ [paper-2018](https://rdcu.be/7Dhl) ]
-*   **[Octopus (⭐269)](https://github.com/luntergroup/octopus)** - A polymorphic bayesian genotyping model with wide applicability. \[ [paper-2021](https://www.nature.com/articles/s41587-021-00861-3) ]
+*   **[DeepVariant (⭐3.3k)](https://github.com/google/deepvariant)** - Deep learning-based variant caller \[ [paper-2018](https://rdcu.be/7Dhl) ]
+*   **[Octopus (⭐305)](https://github.com/luntergroup/octopus)** - A polymorphic bayesian genotyping model with wide applicability. \[ [paper-2021](https://www.nature.com/articles/s41587-021-00861-3) ]
 
 ## [45. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
 
@@ -417,11 +415,11 @@
 
 ### Developer Tools / Developer Utilities
 
-*   [Xcodes (⭐6.7k)](https://github.com/RobotsAndPencils/XcodesApp) - Install and switch between multiple versions of Xcode. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/RobotsAndPencils/XcodesApp)
+*   [Xcodes (⭐7.2k)](https://github.com/RobotsAndPencils/XcodesApp) - Install and switch between multiple versions of Xcode. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/RobotsAndPencils/XcodesApp)
 
 ### Developer Tools / Command Line Tools
 
-*   [xcodes (⭐3.7k)](https://github.com/RobotsAndPencils/xcodes) - A command-line tool to install and switch between multiple versions of Xcode. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/RobotsAndPencils/xcodes)
+*   [xcodes (⭐3.9k)](https://github.com/RobotsAndPencils/xcodes) - A command-line tool to install and switch between multiple versions of Xcode. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/RobotsAndPencils/xcodes)
 
 ### Utilities / Menu Bar Tools
 
@@ -511,7 +509,7 @@
 
 ### Security
 
-*   [Security Rights Reporting (⭐7)](https://github.com/jbluemink/Sitecore-Security-Rights-Reporting) - A module showing a grid with all users and all their rights in a friendly way with exporting options.
+*   [Security Rights Reporting (⭐8)](https://github.com/jbluemink/Sitecore-Security-Rights-Reporting) - A module showing a grid with all users and all their rights in a friendly way with exporting options.
 
 ## [55. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
 
@@ -527,7 +525,7 @@
 
 ### Queue
 
-*   [kaffe (⭐150)](https://github.com/spreedly/kaffe) - Kafka client library for Elixir.
+*   [kaffe (⭐156)](https://github.com/spreedly/kaffe) - Kafka client library for Elixir.
 
 ## [57. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -600,7 +598,7 @@
   CORS: Unknown
 
 
-- API: [jsDelivr (⭐204)](https://github.com/jsdelivr/data.jsdelivr.com)
+- API: [jsDelivr (⭐206)](https://github.com/jsdelivr/data.jsdelivr.com)
 
   Description: Package info and download stats on jsDelivr CDN
 
@@ -695,7 +693,7 @@
 
 ### Weather
 
-- API: [weather-api (⭐377)](https://github.com/robertoduessmann/weather-api)
+- API: [weather-api (⭐398)](https://github.com/robertoduessmann/weather-api)
 
   Description: A RESTful free API to check the weather
 
@@ -725,7 +723,7 @@
 
 ### Miscellaneous / Text-Based User Interfaces
 
-*   [Smooks (⭐392)](https://github.com/smooks/smooks) - Framework for fragment-based message processing. (Apache-2.0 OR LGPL-3.0-or-later)
+*   [Smooks (⭐395)](https://github.com/smooks/smooks) - Framework for fragment-based message processing. (Apache-2.0 OR LGPL-3.0-or-later)
 
 ## [63. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
 
@@ -737,11 +735,11 @@
 
 ### HTTP / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ng-http-caching (⭐43)](https://github.com/nigrosimone/ng-http-caching) - Cache for HTTP requests in Angular application.
+*   [ng-http-caching (⭐47)](https://github.com/nigrosimone/ng-http-caching) - Cache for HTTP requests in Angular application.
 
 ### DOM / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ng-generic-pipe (⭐18)](https://github.com/nigrosimone/ng-generic-pipe) - Generic pipe for Angular application.
+*   [ng-generic-pipe (⭐20)](https://github.com/nigrosimone/ng-generic-pipe) - Generic pipe for Angular application.
 
 ### Misc Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 

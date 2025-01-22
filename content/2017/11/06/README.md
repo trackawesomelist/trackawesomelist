@@ -74,8 +74,8 @@ To the extent possible under law, [Adam Garrett-Harris](https://twitter.com/agar
 *   [basic\_auth (⭐164)](https://github.com/CultivateHQ/basic_auth) - Elixir Plug to easily add HTTP basic authentication to an app.
 *   [oauth2\_facebook (⭐4)](https://github.com/chrislaskey/oauth2_facebook) - A Facebook OAuth2 Provider for Elixir.
 *   [oauth2\_github (⭐2)](https://github.com/chrislaskey/oauth2_github) - A GitHub OAuth2 Provider for Elixir.
-*   [phauxth (⭐411)](https://github.com/riverrun/phauxth) - Authentication library for Phoenix 1.3 and other Plug-based apps.
-*   [samly (⭐126)](https://github.com/handnot2/samly) - SAML SP SSO made easy ([Doc](https://hexdocs.pm/samly/readme.html)).
+*   [phauxth (⭐407)](https://github.com/riverrun/phauxth) - Authentication library for Phoenix 1.3 and other Plug-based apps.
+*   [samly (⭐130)](https://github.com/handnot2/samly) - SAML SP SSO made easy ([Doc](https://hexdocs.pm/samly/readme.html)).
 
 ### Command Line Applications
 
@@ -83,12 +83,12 @@ To the extent possible under law, [Adam Garrett-Harris](https://twitter.com/agar
 
 ### Deployment
 
-*   [elixir-on-docker (⭐172)](https://github.com/CrowdHailer/elixir-on-docker) - A project template to get started developing clustered Elixir applications for cloud environments.
+*   [elixir-on-docker (⭐173)](https://github.com/CrowdHailer/elixir-on-docker) - A project template to get started developing clustered Elixir applications for cloud environments.
 *   [exreleasy (⭐13)](https://github.com/miros/exreleasy) - Dead simple and Mix friendly tool for releasing Elixir applications.
 
 ### Documentation
 
-*   [blue\_bird (⭐56)](https://github.com/KittyHeaven/blue_bird) - BlueBird is a library written in the Elixir programming language for the Phoenix framework. It lets you generate API documentation in the API Blueprint format from annotations in controllers and automated tests.
+*   [blue\_bird (⭐58)](https://github.com/KittyHeaven/blue_bird) - BlueBird is a library written in the Elixir programming language for the Phoenix framework. It lets you generate API documentation in the API Blueprint format from annotations in controllers and automated tests.
 
 ### ECMAScript
 
@@ -101,24 +101,24 @@ To the extent possible under law, [Adam Garrett-Harris](https://twitter.com/agar
 
 ### HTTP
 
-*   [Ace (⭐304)](https://github.com/CrowdHailer/Ace) - HTTP web server and client, supports http1 and http2.
-*   [Crawler (⭐932)](https://github.com/fredwu/crawler) - A high performance web crawler in Elixir.
+*   [Ace (⭐306)](https://github.com/CrowdHailer/Ace) - HTTP web server and client, supports http1 and http2.
+*   [Crawler (⭐947)](https://github.com/fredwu/crawler) - A high performance web crawler in Elixir.
 
 ### Miscellaneous
 
-*   [ex\_phone\_number (⭐246)](https://github.com/socialpaymentsbv/ex_phone_number) - Format, normalize, and validate phone numbers.
+*   [ex\_phone\_number (⭐255)](https://github.com/socialpaymentsbv/ex_phone_number) - Format, normalize, and validate phone numbers.
 
 ### ORM and Datamapping
 
-*   [triplex (⭐459)](https://github.com/ateliware/triplex) - Database multitenancy with postgres schemas for Elixir applications.
+*   [triplex (⭐479)](https://github.com/ateliware/triplex) - Database multitenancy with postgres schemas for Elixir applications.
 
 ### Queue
 
-*   [opq (⭐260)](https://github.com/fredwu/opq) - A simple, in-memory queue with worker pooling and rate limiting in Elixir.
+*   [opq (⭐267)](https://github.com/fredwu/opq) - A simple, in-memory queue with worker pooling and rate limiting in Elixir.
 
 ### Testing
 
-*   [chaperon (⭐135)](https://github.com/polleverywhere/chaperon) - An HTTP service performance & load testing framework written in Elixir.
+*   [chaperon (⭐136)](https://github.com/polleverywhere/chaperon) - An HTTP service performance & load testing framework written in Elixir.
 
 ### Third Party APIs
 
@@ -126,7 +126,7 @@ To the extent possible under law, [Adam Garrett-Harris](https://twitter.com/agar
 
 ### Utilities
 
-*   [async\_with (⭐157)](https://github.com/fertapric/async_with) - A modifier for Elixir's "with" to execute all its clauses in parallel.
+*   [async\_with (⭐156)](https://github.com/fertapric/async_with) - A modifier for Elixir's "with" to execute all its clauses in parallel.
 
 ### Books
 
@@ -151,18 +151,18 @@ To the extent possible under law, [Adam Garrett-Harris](https://twitter.com/agar
 
 ### Development / Mobile Development
 
-*   [deviceframe (⭐568)](https://github.com/c0bra/deviceframe) - Put device frames around your mobile/web/progressive app screenshots.
+*   [deviceframe (⭐581)](https://github.com/c0bra/deviceframe) - Put device frames around your mobile/web/progressive app screenshots.
 
 ## [12. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Machine Learning
 
-*   [RNNLIB (⭐898)](https://github.com/szcom/rnnlib) - RNNLIB is a recurrent neural network library for sequence learning problems. \[GPLv3]
+*   [RNNLIB (⭐903)](https://github.com/szcom/rnnlib) - RNNLIB is a recurrent neural network library for sequence learning problems. \[GPLv3]
 
 ### Math
 
-*   [CGAL (⭐4.8k)](https://github.com/CGAL/cgal) - Collection of efficient and reliable geometric algorithms. \[LGPL\&GPL] [website](http://www.cgal.org/)
-*   [linmath.h (⭐909)](https://github.com/datenwolf/linmath.h) - A lean linear math library, aimed at graphics programming. \[WTFPL]
+*   [CGAL (⭐5.1k)](https://github.com/CGAL/cgal) - Collection of efficient and reliable geometric algorithms. \[LGPL\&GPL] [website](http://www.cgal.org/)
+*   [linmath.h (⭐937)](https://github.com/datenwolf/linmath.h) - A lean linear math library, aimed at graphics programming. \[WTFPL]
 
 ### PDF
 

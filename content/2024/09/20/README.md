@@ -16,7 +16,7 @@
 
 ### Developer utilities / Third-party APIs
 
-*   [brake (⭐8)](https://github.com/varjagg/brake) -  An extended breakpoint facility for Common Lisp. [MIT](https://opensource.org/licenses/MIT).
+*   [brake (⭐11)](https://github.com/varjagg/brake) -  An extended breakpoint facility for Common Lisp. [MIT](https://opensource.org/licenses/MIT).
 
 ## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -36,13 +36,13 @@
 
 ## [5. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
-### Real-Time Search, Social Media Search, and General Social Media Tools
+### Company Research / Steam
 
 *   [TheWebCo](https://thewebco.ai) - The single source of people intelligence.
 
 ### Social Media Tools / Steam
 
-*   [OSINT-Steam](https://osint-steam.vercel.app/en) - An [open-source (⭐2)](https://github.com/Berchez/OSINT-steam) tool that returns public information, such as friends list and possible locations, from Steam profiles.
+*   [OSINT-Steam](https://osint-steam.vercel.app/en) - An [open-source (⭐6)](https://github.com/Berchez/OSINT-steam) tool that returns public information, such as friends list and possible locations, from Steam profiles.
 
 ### Email Search / Email Check / Steam
 
@@ -65,24 +65,23 @@
 
 ### Continuous Integration
 
-*   [abstruse (⭐934)](https://github.com/bleenco/abstruse) - Abstruse is a distributed CI platform.
+*   [abstruse (⭐944)](https://github.com/bleenco/abstruse) - Abstruse is a distributed CI platform.
 
 ### Go Tools / Libraries for creating HTTP middlewares
 
-*   [MoniGO (⭐117)](https://github.com/iyashjayesh/monigo) - A performance monitoring library for Go applications. It provides real-time insights into application performance! 🚀
+*   [MoniGO (⭐251)](https://github.com/iyashjayesh/monigo) - A performance monitoring library for Go applications. It provides real-time insights into application performance! 🚀
 
 ## [7. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
 
 ### Resources / Ironsworn
 
 *   [Rhoam's Oracle Decks](https://rhoam.itch.io/) - Ironsworn and weather oracles in card format, in English and French
-*   [Traveler's Starforged](https://www.drivethrurpg.com/en/product/495130/traveler-s-starforged-diy-edition) - Compact move and oracle reference for Starforged
 
 ## [8. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### Go / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [goxygen (⭐3.5k)](https://github.com/Shpota/goxygen) - Goxygen generates back-end Go code, connects it with front-end components, provides a Dockerfile for the application, and creates docker-compose files that run in development and production environments.
+*   [goxygen (⭐3.6k)](https://github.com/Shpota/goxygen) - Goxygen generates back-end Go code, connects it with front-end components, provides a Dockerfile for the application, and creates docker-compose files that run in development and production environments.
 
 ### Node / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -90,15 +89,15 @@
 
 ### GraphQL / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [apollo-orbit (⭐2)](https://github.com/wassim-k/apollo-orbit) - A fully-featured GraphQL client for Angular with modular state management.
+*   [apollo-orbit (⭐3)](https://github.com/wassim-k/apollo-orbit) - A fully-featured GraphQL client for Angular with modular state management.
 
 ### Media / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [silicon-audio-wave (⭐2)](https://github.com/joldibaev/silicon-audio-wave) - Very simple audio wave system from Silicon.
-*   [ngx-plyr (⭐1)](https://github.com/atom-platform/ngx-plyr) - Angular 17+ bindings for [plyr (⭐26k)](https://github.com/sampotts/plyr) video and audio player. Supports everything that original library supports.
+*   [ngx-plyr (⭐3)](https://github.com/atom-platform/ngx-plyr) - Angular 17+ bindings for [plyr (⭐27k)](https://github.com/sampotts/plyr) video and audio player. Supports everything that original library supports.
 *   [byteark-player-angular (⭐1)](https://github.com/byteark/byteark-player-angular) - Player Container from [ByteArk](https://www.byteark.com/).
-*   [Vidstack (⭐2.1k)](https://github.com/vidstack/player) - A framework and collection of UI components for building and managing custom media players on the web. You can use this library to build your own player (see our examples), or use our production-ready Default Layout and customize it to match your brand and site. See this [installation guide](https://www.vidstack.io/docs/player/getting-started/installation/angular?styling=default-layout\&provider=video).
-*   [dyte-io/ui-kit (⭐14)](https://github.com/dyte-io/ui-kit) - Dyte's UI library for creating meeting interfaces.
+*   [Vidstack (⭐2.5k)](https://github.com/vidstack/player) - A framework and collection of UI components for building and managing custom media players on the web. You can use this library to build your own player (see our examples), or use our production-ready Default Layout and customize it to match your brand and site. See this [installation guide](https://www.vidstack.io/docs/player/getting-started/installation/angular?styling=default-layout\&provider=video).
+*   [dyte-io/ui-kit (⭐1)](https://github.com/dyte-io/ui-kit) - Dyte's UI library for creating meeting interfaces.
 
 ### Unspecified / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -106,9 +105,10 @@
 
 ### Tailwind CSS Based / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [Rectangle UI (⭐2)](https://github.com/jarretthuang/rectangle-ui) - A code-first UI component library for Angular.
+*   [Rectangle UI (⭐3)](https://github.com/jarretthuang/rectangle-ui) - A code-first UI component library for Angular.
 *   [Mamba UI (⭐1.1k)](https://github.com/Microwawe/mamba-ui) - A free and open-sourced UI kit with 150+ Tailwind CSS components and templates.
 
 ---
 
+- Prev: [Sep 21, 2024](/content/2024/09/21/README.md)
 - Next: [Sep 19, 2024](/content/2024/09/19/README.md)

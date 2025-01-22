@@ -10,13 +10,13 @@
 
 ### Resources / Talks and videos
 
-*   [Polars - make the switch to lightning-fast dataframes](https://www.youtube.com/watch?v=CtkMzCIXOWk) ⏳ `30 min` - A talk that reports an experience switching from Pandas to Polars in a real-world ML project by [@datenzauberai](https://github.com/datenzauberai). Slides are available [here (⭐5)](https://github.com/datenzauberai/PyConDE-2023--Polars-make-the-switch/raw/main/Polars%20-%20make%20the%20switch%20to%20lightning-fast%20dataframes%20-%20Versand.pdf).
+*   [Polars - make the switch to lightning-fast dataframes](https://www.youtube.com/watch?v=CtkMzCIXOWk) ⏳ `30 min` - A talk that reports an experience switching from Pandas to Polars in a real-world ML project by [@datenzauberai](https://github.com/datenzauberai). Slides are available [here (⭐6)](https://github.com/datenzauberai/PyConDE-2023--Polars-make-the-switch/raw/main/Polars%20-%20make%20the%20switch%20to%20lightning-fast%20dataframes%20-%20Versand.pdf).
 
 ## [2. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Notifications / Runner
 
-*   [toastify-js (⭐2k)](https://github.com/apvarun/toastify-js) - Pure JavaScript library for better notification messages.
+*   [toastify-js (⭐2.1k)](https://github.com/apvarun/toastify-js) - Pure JavaScript library for better notification messages.
 
 ## [3. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
@@ -56,31 +56,31 @@
 
 ### Tools
 
-*   [RabbitMQ Retry Mechanism (⭐53)](https://github.com/run-as-root/magento2-message-queue-retry) - Magento 2 extension that brings possibility to retry RabbitMQ failed messages
+*   [RabbitMQ Retry Mechanism (⭐57)](https://github.com/run-as-root/magento2-message-queue-retry) - Magento 2 extension that brings possibility to retry RabbitMQ failed messages
 
 ## [8. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Gaming
 
-*   [Game Production (⭐82)](https://github.com/vhladiienko/awesome-game-production#readme) - Leading the process of designing, developing, testing and distributing a video game from concept to release.
+*   [Game Production (⭐108)](https://github.com/vhladiienko/awesome-game-production#readme) - Leading the process of designing, developing, testing and distributing a video game from concept to release.
 
 ### Learn
 
-*   [STEAM (⭐89)](https://github.com/RahulBirCodes/awesome-steam#readme) - Supplements for specific science, technology, engineering, arts, and math (STEAM) courses across all grade levels.
+*   [STEAM (⭐108)](https://github.com/RahulBirCodes/awesome-steam#readme) - Supplements for specific science, technology, engineering, arts, and math (STEAM) courses across all grade levels.
 
 ### Security
 
-*   [Security Card Games (⭐104)](https://github.com/Karneades/awesome-security-card-games#readme) - Train your skills and discuss various security topics.
-*   [Suricata (⭐122)](https://github.com/satta/awesome-suricata#readme) - Intrusion detection/prevention system and network security monitoring engine.
+*   [Security Card Games (⭐112)](https://github.com/Karneades/awesome-security-card-games#readme) - Train your skills and discuss various security topics.
+*   [Suricata (⭐138)](https://github.com/satta/awesome-suricata#readme) - Intrusion detection/prevention system and network security monitoring engine.
 
 ### Hardware
 
-*   [ADS-B (⭐90)](https://github.com/rickstaa/awesome-adsb#readme) - Technology broadcasting aircraft's identity, position, and data periodically.
-*   [Flying FPV (⭐262)](https://github.com/Matthias84/awesome-flying-fpv#readme) - Open hardware and software related to drones / UAVs.
+*   [ADS-B (⭐120)](https://github.com/rickstaa/awesome-adsb#readme) - Technology broadcasting aircraft's identity, position, and data periodically.
+*   [Flying FPV (⭐332)](https://github.com/Matthias84/awesome-flying-fpv#readme) - Open hardware and software related to drones / UAVs.
 
 ### Decentralized Systems
 
-*   [Cosmos SDK (⭐508)](https://github.com/cosmos/awesome-cosmos#readme) - Modular framework for building app-specific blockchains in Go.
+*   [Cosmos SDK (⭐539)](https://github.com/cosmos/awesome-cosmos#readme) - Modular framework for building app-specific blockchains in Go.
 
 ## [9. Awesome Digital History](/content/maehr/awesome-digital-history/README.md)
 
@@ -92,19 +92,19 @@
 
 ### (requires Neovim 0.5)
 
-*   [chrisgrieser/nvim-dr-lsp (⭐27)](https://github.com/chrisgrieser/nvim-dr-lsp) - Status line component showing the number of LSP definition and reference of the token under the cursor.
+*   [chrisgrieser/nvim-dr-lsp (⭐29)](https://github.com/chrisgrieser/nvim-dr-lsp) - Status line component showing the number of LSP definition and reference of the token under the cursor.
 
 ## [11. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [chinatown (⭐1)](https://github.com/skippyr/chinatown) - Powerline-esque theme with decorators for the exit status of the last command run, user\@hostname, virtual environments and current directory. Requires a nerdfont font.
+*   [chinatown (⭐2)](https://github.com/skippyr/chinatown) - Powerline-esque theme with decorators for the exit status of the last command run, user\@hostname, virtual environments and current directory. Requires a nerdfont font.
 
 ## [12. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / General-Purpose Machine Learning
 
-*   [Aim (⭐5.1k)](https://github.com/aimhubio/aim) -> An easy-to-use & supercharged open-source AI metadata tracker.
+*   [Aim (⭐5.3k)](https://github.com/aimhubio/aim) -> An easy-to-use & supercharged open-source AI metadata tracker.
 
 ## [13. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 

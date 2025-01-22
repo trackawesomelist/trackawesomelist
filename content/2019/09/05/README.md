@@ -10,7 +10,7 @@
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [MikroORM (⭐7.5k)](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, PostgreSQL, MySQL and SQLite.
+*   :octocat: [MikroORM (⭐7.9k)](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, PostgreSQL, MySQL and SQLite.
 
 ## [2. Awesome Flask](/content/mjhea0/awesome-flask/README.md)
 
@@ -40,13 +40,13 @@
 ### Serverless / Testing
 
 *   [Zappa (⭐12k)](https://github.com/Miserlou/Zappa)
-*   [Chalice (⭐10k)](https://github.com/aws/chalice)
+*   [Chalice (⭐11k)](https://github.com/aws/chalice)
 *   [AWS Lambda](https://aws.amazon.com/lambda/)
 *   [Google Cloud Functions](https://cloud.google.com/functions/)
 
 ### Open Source Projects / Testing
 
-*   [Airflow (⭐35k)](https://github.com/apache/airflow/tree/master/airflow/www)
+*   [Airflow (⭐38k)](https://github.com/apache/airflow/tree/master/airflow/www)
 
 ## [3. Awesome Ctf](/content/apsdehal/awesome-ctf/README.md)
 
@@ -91,7 +91,7 @@
 
 ### Quantum Computing / Synthetic Data
 
-*   [PennyLane (⭐2.1k)](https://github.com/XanaduAI/pennylane) - Quantum machine learning, automatic differentiation, and optimization of hybrid quantum-classical computations.
+*   [PennyLane (⭐2.3k)](https://github.com/XanaduAI/pennylane) - Quantum machine learning, automatic differentiation, and optimization of hybrid quantum-classical computations.
 
 ## [10. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 
@@ -103,8 +103,8 @@
 
 ### Testing / Individual Podcast episodes
 
-*   [Elm test (⭐233)](https://github.com/elm-explorations/test) - Unit and fuzz tests
-*   [Elm Program test (⭐93)](https://github.com/avh4/elm-program-test/tree/3.0.0) - Test complete Elm programs
+*   [Elm test (⭐236)](https://github.com/elm-explorations/test) - Unit and fuzz tests
+*   [Elm Program test (⭐92)](https://github.com/avh4/elm-program-test/tree/3.0.0) - Test complete Elm programs
 
 ---
 

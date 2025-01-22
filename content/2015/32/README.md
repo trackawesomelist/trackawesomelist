@@ -226,9 +226,9 @@ git stash push --include-untracked
 
 ### BitTorrent
 
-*   [jech/dht (⭐688)](https://github.com/jech/dht) - BitTorrent DHT library in C. \[MIT]
-*   [libtorrent (⭐5.1k)](https://github.com/arvidn/libtorrent) (a.k.a. libtorrent-rasterbar) - An efficient feature complete C++ bittorrent implementation. \[BSD]
-*   [LibTorrent (⭐884)](https://github.com/rakshasa/libtorrent) (a.k.a. libtorrent-rakshasa) - BitTorrent library. \[GPL]
+*   [jech/dht (⭐699)](https://github.com/jech/dht) - BitTorrent DHT library in C. \[MIT]
+*   [libtorrent (⭐5.3k)](https://github.com/arvidn/libtorrent) (a.k.a. libtorrent-rasterbar) - An efficient feature complete C++ bittorrent implementation. \[BSD]
+*   [LibTorrent (⭐900)](https://github.com/rakshasa/libtorrent) (a.k.a. libtorrent-rakshasa) - BitTorrent library. \[GPL]
 *   [libutp (⭐1.1k)](https://github.com/bittorrent/libutp) - uTorrent Transport Protocol library. \[MIT]
 
 ### GUI
@@ -237,16 +237,16 @@ git stash push --include-untracked
 
 ### Image Processing
 
-*   [GD (⭐888)](https://github.com/libgd/libgd) - GD Graphics Library, famously used in PHP for image loading/manipulation & thumbnail generation. \[custom permissive license, requires mention in user docs] [website](http://libgd.github.io/)
+*   [GD (⭐910)](https://github.com/libgd/libgd) - GD Graphics Library, famously used in PHP for image loading/manipulation & thumbnail generation. \[custom permissive license, requires mention in user docs] [website](http://libgd.github.io/)
 
 ### Logging
 
-*   [G3log (⭐901)](https://github.com/KjellKod/g3log) - Asynchronous logger with Dynamic Sinks. \[PublicDomain]
-*   [reckless (⭐486)](https://github.com/mattiasflodin/reckless) - Low-latency, high-throughput, asynchronous logging library for C++. \[MIT]
+*   [G3log (⭐911)](https://github.com/KjellKod/g3log) - Asynchronous logger with Dynamic Sinks. \[PublicDomain]
+*   [reckless (⭐491)](https://github.com/mattiasflodin/reckless) - Low-latency, high-throughput, asynchronous logging library for C++. \[MIT]
 
 ### Math
 
-*   [LibTomMath (⭐641)](https://github.com/libtom/libtommath) - A free open source portable number theoretic multiple-precision integer library written entirely in C. \[PublicDomain & WTFPL] [website](http://www.libtom.net/)
+*   [LibTomMath (⭐668)](https://github.com/libtom/libtommath) - A free open source portable number theoretic multiple-precision integer library written entirely in C. \[PublicDomain & WTFPL] [website](http://www.libtom.net/)
 
 ### Coding Style Tools
 
@@ -466,7 +466,7 @@ git stash push --include-untracked
 
 ### Utility / Barcode
 
-*   [R.swift (⭐9.4k)](https://github.com/mac-cain13/R.swift) - Tool to get strong typed, autocompleted resources like images, cells and segues.
+*   [R.swift (⭐9.5k)](https://github.com/mac-cain13/R.swift) - Tool to get strong typed, autocompleted resources like images, cells and segues.
 
 ## [26. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
@@ -483,7 +483,7 @@ git stash push --include-untracked
 
 ### Image Processing
 
-*   [MetadataExtractor (⭐921)](https://github.com/drewnoakes/metadata-extractor-dotnet) - Extracts Exif, IPTC, XMP, ICC and other metadata from image files.
+*   [MetadataExtractor (⭐965)](https://github.com/drewnoakes/metadata-extractor-dotnet) - Extracts Exif, IPTC, XMP, ICC and other metadata from image files.
 
 ## [28. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 
@@ -532,11 +532,11 @@ git stash push --include-untracked
 
 ### Table of Contents / Passwords
 
-*   [Password-Generator (⭐288)](https://github.com/hackzilla/password-generator) - PHP library to generate random passwords.
+*   [Password-Generator (⭐295)](https://github.com/hackzilla/password-generator) - PHP library to generate random passwords.
 
 ### Table of Contents / Architectural
 
-*   [Pipeline (⭐945)](https://github.com/thephpleague/pipeline) - A pipeline pattern implementation.
+*   [Pipeline (⭐971)](https://github.com/thephpleague/pipeline) - A pipeline pattern implementation.
 
 ## [32. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
@@ -556,7 +556,7 @@ git stash push --include-untracked
 
 ### Libraries / Parsing
 
-*   [kevinmehall/rust-peg (⭐1.4k)](https://github.com/kevinmehall/rust-peg) - Parsing Expression Grammar (PEG) parser generator
+*   [kevinmehall/rust-peg (⭐1.5k)](https://github.com/kevinmehall/rust-peg) - Parsing Expression Grammar (PEG) parser generator
 
 ## [34. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
 

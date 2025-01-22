@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 05, 2019
 
-8 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -25,19 +25,13 @@
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [gonic (⭐1.5k)](https://github.com/sentriz/gonic) - Lightweight music streaming server. Subsonic compatible. `GPL-3.0` `Go/Docker`
+*   [gonic (⭐1.8k)](https://github.com/sentriz/gonic) - Lightweight music streaming server. Subsonic compatible. `GPL-3.0` `Go/Docker`
 
 ### Software / Software Development - Project Management
 
-*   [Leantime](https://leantime.io) - Leantime is a lean project management system for small teams and startups helping to manage projects from ideation through delivery. ([Source Code (⭐4.3k)](https://github.com/leantime/leantime)) `GPL-2.0` `PHP/Docker`
+*   [Leantime](https://leantime.io) - Leantime is a lean project management system for small teams and startups helping to manage projects from ideation through delivery. ([Source Code (⭐5k)](https://github.com/leantime/leantime)) `GPL-2.0` `PHP/Docker`
 
-## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
-
-### Tools for Teams and Collaboration
-
-*   [Filestash](https://www.filestash.app) — A Dropbox-like file manager that connects to a range of protocols and platforms: S3, FTP, SFTP, Minio, Git, WebDAV, Backblaze, LDAP and more.
-
-## [5. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
+## [4. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
 
 ### ReactJS
 
@@ -49,14 +43,14 @@
 
 
 
-## [6. Awesome Foss Apps](/content/DataDaoDe/awesome-foss-apps/README.md)
+## [5. Awesome Foss Apps](/content/DataDaoDe/awesome-foss-apps/README.md)
 
 ### Web Apps (frontend only) / [Filestash](https://github.com/mickael-kerjean/filestash)
 
 *   golang, react
 *   AGPLv3 License
 
-## [7. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md)
+## [6. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md)
 
 ### Finite Elements
 
@@ -66,7 +60,7 @@
 ### Meshing / Triangular and tetrahedral meshing
 
 *   [TriWild](https://cims.nyu.edu/gcl/papers/2019-TriWild.pdf) - Robust triangulation with curve constraints.
-    (C++, MPL 2, [GitHub (⭐222)](https://github.com/wildmeshing/TriWild))
+    (C++, MPL 2, [GitHub (⭐235)](https://github.com/wildmeshing/TriWild))
 
 ### Visualization / Mesh tools
 
@@ -75,15 +69,15 @@
 *   [VTK](https://vtk.org/) - Process images and create 3D computer graphics.
     (C++, BSD, [GitLab](https://gitlab.kitware.com/vtk/vtk))
 *   [Mayavi](https://docs.enthought.com/mayavi/mayavi/) - 3D scientific data visualization and plotting in Python.
-    (Python, BSD, [GitHub (⭐1.2k)](https://github.com/enthought/mayavi))
+    (Python, BSD, [GitHub (⭐1.3k)](https://github.com/enthought/mayavi))
 *   [Polyscope](https://polyscope.run/) - Viewer and user interface for 3D geometry processing.
-    (C++, MIT, [GitHub (⭐1.6k)](https://github.com/nmwsharp/polyscope))
+    (C++, MIT, [GitHub (⭐1.8k)](https://github.com/nmwsharp/polyscope))
 
-## [8. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [7. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / General-Purpose Machine Learning
 
-*   [scikit-multiflow (⭐753)](https://github.com/scikit-multiflow/scikit-multiflow) - A machine learning framework for multi-output/multi-label and stream data.
+*   [scikit-multiflow (⭐766)](https://github.com/scikit-multiflow/scikit-multiflow) - A machine learning framework for multi-output/multi-label and stream data.
 
 ---
 

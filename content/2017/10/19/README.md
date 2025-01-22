@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 19, 2017
 
-13 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,13 +16,13 @@
 
 ### Networking
 
-*   [Seasocks (⭐723)](https://github.com/mattgodbolt/seasocks) - Simple, small, C++ embeddable webserver with WebSockets support. \[BSD]
+*   [Seasocks (⭐740)](https://github.com/mattgodbolt/seasocks) - Simple, small, C++ embeddable webserver with WebSockets support. \[BSD]
 
 ## [3. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
 
 ### Awesome Repositories
 
-- Repository: [YARA (⭐3.4k)](https://github.com/InQuest/awesome-yara)
+- Repository: [YARA (⭐3.7k)](https://github.com/InQuest/awesome-yara)
 
   Description: List of awesome YARA rules, tools, and people
 
@@ -51,8 +51,8 @@
 ### Web / Playground
 
 *   :octocat: [ionic (⭐51k)](https://github.com/ionic-team/ionic) - An open-source mobile app development framework build in TypeScript
-*   :octocat: [Stencil (⭐12k)](https://github.com/ionic-team/stencil) - a tool for building modern Web Components
-*   :octocat: [wretch (⭐4.7k)](https://github.com/elbywan/wretch) - A tiny (< 2.2Kb g-zipped) wrapper built around fetch with an intuitive syntax.
+*   :octocat: [Stencil (⭐13k)](https://github.com/ionic-team/stencil) - a tool for building modern Web Components
+*   :octocat: [wretch (⭐4.9k)](https://github.com/elbywan/wretch) - A tiny (< 2.2Kb g-zipped) wrapper built around fetch with an intuitive syntax.
 
 ## [8. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
@@ -72,22 +72,16 @@
 
 ### Apps
 
-*   [Gank (⭐131)](https://github.com/OrangeXC/gank) - A Next.js App use gank-api, mobx and antd
+*   [Gank (⭐130)](https://github.com/OrangeXC/gank) - A Next.js App use gank-api, mobx and antd
 
-## [11. Awesome Php](/content/ziadoz/awesome-php/README.md)
-
-### Table of Contents / E-commerce
-
-*   [Brick\Money (⭐1.6k)](https://github.com/brick/money) - A money library for PHP, with support for contexts, cash roundings, currency conversion.
-
-## [12. Awesome Polymer](/content/Granze/awesome-polymer/README.md)
+## [11. Awesome Polymer](/content/Granze/awesome-polymer/README.md)
 
 ### Tutorials/Guides
 
 *   [Test your elements](https://www.polymer-project.org/2.0/docs/tools/tests)
 *   [Deploy with Firebase](https://www.polymer-project.org/2.0/start/toolbox/deploy)
 
-## [13. Awesome4girls](/content/cristianoliveira/awesome4girls/README.md)
+## [12. Awesome4girls](/content/cristianoliveira/awesome4girls/README.md)
 
 ### Initiatives/Programs / Conferences/Talks
 

@@ -42,7 +42,7 @@
 ### Voice Command / Runner
 
 *   [annyang (⭐6.6k)](https://github.com/TalAter/annyang) - A JavaScript library for adding voice commands to your site, using speech recognition.
-*   [voix.js (⭐566)](https://github.com/pazguille/voix) - A JavaScript library to add voice commands to your sites, apps or games.
+*   [voix.js (⭐567)](https://github.com/pazguille/voix) - A JavaScript library to add voice commands to your sites, apps or games.
 
 ### API / Runner
 
@@ -69,7 +69,7 @@
 
 ### Static Code Analysis
 
-*   [Cppcheck](http://cppcheck.sourceforge.net/) - A tool for static C/C++ code analysis. - [source (⭐5.7k)](https://github.com/danmar/cppcheck)
+*   [Cppcheck](http://cppcheck.sourceforge.net/) - A tool for static C/C++ code analysis. - [source (⭐6k)](https://github.com/danmar/cppcheck)
 *   [OCLint](http://oclint.org/) - A static source code analysis tool to improve quality and reduce defects for C, C++ and Objective-C. - [source (⭐3.8k)](https://github.com/oclint/oclint)
 
 ### Websites

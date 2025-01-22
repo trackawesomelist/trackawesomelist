@@ -44,7 +44,7 @@
 
 ### Configuration
 
-*   [Sail (⭐506)](https://github.com/vinistock/sail) - A lightweight Rails engine that brings an admin panel for managing configuration settings on a live Rails app.
+*   [Sail (⭐508)](https://github.com/vinistock/sail) - A lightweight Rails engine that brings an admin panel for managing configuration settings on a live Rails app.
 
 ### Documentation
 
@@ -64,11 +64,11 @@
 
 ### Networking
 
-*   [Dnsruby (⭐196)](https://github.com/alexdalitz/dnsruby) - A pure Ruby DNS client library which implements a stub resolver. It aims to comply with all DNS RFCs.
+*   [Dnsruby (⭐198)](https://github.com/alexdalitz/dnsruby) - A pure Ruby DNS client library which implements a stub resolver. It aims to comply with all DNS RFCs.
 
 ### PDF
 
-*   [InvoicePrinter (⭐875)](https://github.com/strzibny/invoice_printer) - Super simple PDF invoicing in Ruby (built on top of Prawn).
+*   [InvoicePrinter (⭐964)](https://github.com/strzibny/invoice_printer) - Super simple PDF invoicing in Ruby (built on top of Prawn).
 
 ### Queues and Messaging
 
@@ -80,7 +80,7 @@
 
 ### Social Networking
 
-*   [Mastodon (⭐6)](https://github.com/Gargron/mastodon) - A GNU Social-compatible microblogging server.
+*   [Mastodon (⭐8)](https://github.com/Gargron/mastodon) - A GNU Social-compatible microblogging server.
 
 ### Third-party APIs
 
@@ -102,7 +102,7 @@
 
 ### Boilerplates / Themes
 
-*   [Create React App + Ant Design (⭐584)](https://github.com/ant-design/create-react-app-antd) - Use antd in create-react-app without ejecting
+*   [Create React App + Ant Design (⭐582)](https://github.com/ant-design/create-react-app-antd) - Use antd in create-react-app without ejecting
 
 ## [8. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 

@@ -58,7 +58,7 @@
 
 ### Math / Barcode
 
-*   [SigmaSwiftStatistics (⭐691)](https://github.com/evgenyneu/SigmaSwiftStatistics) - A collection of functions for statistical calculation.
+*   [SigmaSwiftStatistics (⭐700)](https://github.com/evgenyneu/SigmaSwiftStatistics) - A collection of functions for statistical calculation.
 
 ## [5. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 
@@ -81,7 +81,7 @@
 
 ### Python / Trading & Backtesting
 
-*   [pybacktest (⭐798)](https://github.com/ematvey/pybacktest) - Vectorized backtesting framework in Python / pandas, designed to make your backtesting easier.
+*   [pybacktest (⭐807)](https://github.com/ematvey/pybacktest) - Vectorized backtesting framework in Python / pandas, designed to make your backtesting easier.
 
 ## [8. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
@@ -91,20 +91,20 @@
 
 ### Standalone / Hash functions
 
-*   [cryptomator (⭐11k)](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud.
+*   [cryptomator (⭐12k)](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud.
 
 ### Plugins / Git
 
-*   [git-crypt (⭐8.1k)](https://github.com/AGWA/git-crypt) - Transparent file encryption in git.
+*   [git-crypt (⭐8.3k)](https://github.com/AGWA/git-crypt) - Transparent file encryption in git.
 
 ### C / Git
 
-*   [OpenSSL (⭐25k)](https://github.com/openssl/openssl) - TLS/SSL and crypto library.
+*   [OpenSSL (⭐26k)](https://github.com/openssl/openssl) - TLS/SSL and crypto library.
 *   [PolarSSL](https://tls.mbed.org/) - PolarSSL makes it trivially easy for developers to include cryptographic and SSL/TLS capabilities in their (embedded) products, facilitating this functionality with a minimal coding footprint.
 
 ### C++ / Git
 
-*   [cryptopp (⭐4.6k)](https://github.com/weidai11/cryptopp) - Crypto++ Library is a free C++ class library of cryptographic schemes.
+*   [cryptopp (⭐4.8k)](https://github.com/weidai11/cryptopp) - Crypto++ Library is a free C++ class library of cryptographic schemes.
 
 ### C-sharp / Git
 
@@ -112,16 +112,16 @@
 
 ### Go / Git
 
-*   [dkeyczar (⭐111)](https://github.com/dgryski/dkeyczar) - Port of Google's Keyczar cryptography library to Go.
+*   [dkeyczar (⭐112)](https://github.com/dgryski/dkeyczar) - Port of Google's Keyczar cryptography library to Go.
 
 ### JavaScript / Git
 
 *   [crypto-js (⭐16k)](https://github.com/brix/crypto-js) - JavaScript library of crypto standards.
-*   [rusha (⭐275)](https://github.com/srijs/rusha) - High-performance pure-javascript SHA1 implementation suitable for large binary data, reaching up to half the native speed.
+*   [rusha (⭐277)](https://github.com/srijs/rusha) - High-performance pure-javascript SHA1 implementation suitable for large binary data, reaching up to half the native speed.
 
 ### Julia / Git
 
-*   [Nettle.jl (⭐50)](https://github.com/staticfloat/Nettle.jl) - Julia wrapper around nettle cryptographic hashing/
+*   [Nettle.jl (⭐51)](https://github.com/staticfloat/Nettle.jl) - Julia wrapper around nettle cryptographic hashing/
     encryption library providing MD5, SHA1, SHA2 hashing and HMAC functionality, as well as AES encryption/decryption.
 
 ### Web-sites / Git

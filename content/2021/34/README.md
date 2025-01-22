@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 23 - Aug 29, 2021
 
-64 awesome lists updated this week.
+63 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,12 +10,12 @@
 
 ### Game development
 
-*   [raylib.v (⭐66)](https://github.com/irishgreencitrus/raylib.v) - Updated V bindings for [raylib](https://www.raylib.com) with plans for complete cross-platform support.
+*   [raylib.v (⭐71)](https://github.com/irishgreencitrus/raylib.v) - Updated V bindings for [raylib](https://www.raylib.com) with plans for complete cross-platform support.
 *   [vraylib (⭐49)](https://github.com/MajorHard/vraylib) - V wrapper (bindings) for raylib, the C game development framework.
 
 ### Operating system
 
-*   [mmap (⭐6)](https://github.com/jdonnerstag/vlang-mmap) - Provide native V-lang support for memory-mapping on Linux and Windows.
+*   [mmap (⭐5)](https://github.com/jdonnerstag/vlang-mmap) - Provide native V-lang support for memory-mapping on Linux and Windows.
 
 ## [2. Awesome Icons](/content/notlmn/awesome-icons/week/README.md)
 
@@ -33,13 +33,19 @@
 
 *   [Ping CRM (⭐16)](https://github.com/haikyuu/perfect-stack) - CRUD app with login, acccount, organizations and contacts management. Built with Inertia, Edgedb and Imba
 
-## [4. Game Datasets](/content/leomaurodesenv/game-datasets/week/README.md)
+## [4. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
+
+### Hacks and homebrew / Ironsworn
+
+*   [Spiritbound](https://mstrocks.itch.io/spiritbound) - A Studio Ghibli hack of Ironsworn
+
+## [5. Game Datasets](/content/leomaurodesenv/game-datasets/week/README.md)
 
 ### API
 
 *   [Counter-Strike (⭐0)](https://github.com/pnxenopoulos/csgo) - data parsing for Counter-Strike: Global Offensive (CSGO).
 
-## [5. Awesome Tall Stack](/content/livewire/awesome-tall-stack/week/README.md)
+## [6. Awesome Tall Stack](/content/livewire/awesome-tall-stack/week/README.md)
 
 ### Libraries
 
@@ -49,19 +55,19 @@
 
 *   🔐 [devdojo.com](https://devdojo.com) - Developer Community and Tools
 
-## [6. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [7. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Deployment Examples
 
-*   [Keycloak deployment with CDK on AWS with Fargate (⭐87)](https://github.com/aws-samples/cdk-keycloak)
+*   [Keycloak deployment with CDK on AWS with Fargate (⭐89)](https://github.com/aws-samples/cdk-keycloak)
 
-## [7. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [8. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Syntax / Diagnostics
 
-*   [nvim-treesitter/nvim-treesitter-textobjects (⭐2.1k)](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) - Create your own textobjects using tree-sitter queries.
+*   [nvim-treesitter/nvim-treesitter-textobjects (⭐2.3k)](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) - Create your own textobjects using Tree-sitter queries.
 
-## [8. Awesome Cassandra](/content/Anant/awesome-cassandra/week/README.md)
+## [9. Awesome Cassandra](/content/Anant/awesome-cassandra/week/README.md)
 
 ### Cassandra Distributions / Cassandra Compliant Databases on JVM
 
@@ -71,24 +77,17 @@
 
 *   [DataStax Astra](https://dtsx.io/38htEun) - DataStax Astra Cassandra as a Service running on the Kubernetes operator Cassandra available on AWS and GCP.
 
-## [9. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [10. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Communication - Custom Communication Systems
 
-*   [RetroShare](https://retroshare.cc) - Secured and decentralized communication system. Offers decentralized chat, forums, messaging, file transfer. ([Source Code (⭐1.7k)](https://github.com/RetroShare/RetroShare)) `GPL-2.0` `C++`
+*   [RetroShare](https://retroshare.cc) - Secured and decentralized communication system. Offers decentralized chat, forums, messaging, file transfer. ([Source Code (⭐1.8k)](https://github.com/RetroShare/RetroShare)) `GPL-2.0` `C++`
 
-## [10. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
+## [11. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
 
 ### Archives and primary sources / Switzerland
 
 *   [histHub](https://histhub.ch/) - The platform manages authority files on Swiss history.
-
-## [11. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
-
-### Hacks and homebrew / Ironsworn
-
-*   [Arcanum](https://www.drivethrurpg.com/product/368750/Arcanum-High-Magic-for-Ironsworn) - High magic for Ironsworn
-*   [Spiritbound](https://mstrocks.itch.io/spiritbound) - A Studio Ghibli hack of Ironsworn
 
 ## [12. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
 
@@ -99,19 +98,15 @@
 
 ## [13. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
 
-### Animations / Checkbox
+### Animations
 
 *   [svelte-typewriter](https://github.com/henriquehbr/svelte-typewriter) - A simple and reusable typewriter effect for your Svelte applications.
 
 ## [14. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
-### Backend / Redux / ELM / Dependency Injection
-
-*   [NETCoreSync (⭐77)](https://github.com/aldycool/NETCoreSync) - Centralized database synchronization framework for multiple clients, built on top of [Moor (⭐2.4k)](https://github.com/simolus3/moor) library by [Aldy J](https://github.com/aldycool)
-
 ### Utilities / Game Engine resources
 
-*   [Dart Code Metrics (⭐856)](https://github.com/dart-code-checker/dart-code-metrics) <!--stargazers:dart-code-checker/dart-code-metrics--> - Additional linter which reports code metrics, checks for anti-patterns and provides additional rules for the Dart analyzer by [Dart Code Checker team](https://github.com/dart-code-checker).
+*   [Dart Code Metrics (⭐862)](https://github.com/dart-code-checker/dart-code-metrics) <!--stargazers:dart-code-checker/dart-code-metrics--> - Additional linter which reports code metrics, checks for anti-patterns and provides additional rules for the Dart analyzer by [Dart Code Checker team](https://github.com/dart-code-checker).
 
 ## [15. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
@@ -156,7 +151,7 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-tauri (⭐152)](https://github.com/amrbashir/vite-plugin-tauri) - Integrate Tauri in a Vite project to build cross-platform apps.
+*   [vite-plugin-tauri (⭐168)](https://github.com/amrbashir/vite-plugin-tauri) - Integrate Tauri in a Vite project to build cross-platform apps.
 
 ## [21. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
 
@@ -174,7 +169,7 @@
 
 ### Files and Directories / Files
 
-*   [RecoverPy (⭐1.2k)](https://github.com/PabloLec/RecoverPy) - Recover overwritten or deleted files.
+*   [RecoverPy (⭐1.3k)](https://github.com/PabloLec/RecoverPy) - Recover overwritten or deleted files.
 
 ## [24. Awesome Stacks Chain](/content/friedger/awesome-stacks-chain/week/README.md)
 
@@ -186,7 +181,7 @@
 
 ### Modules / Template engine
 
-*   [handlebars (⭐29)](https://github.com/alosaur/handlebars) - Handlebars template engine for deno
+*   [handlebars (⭐30)](https://github.com/alosaur/handlebars) - Handlebars template engine for deno
 *   [mustache (⭐7)](https://github.com/alosaur/mustache) - Mustache template engine for deno
 
 ## [26. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
@@ -235,7 +230,6 @@
 *   [Anypoint MQ](https://www.mulesoft.com/platform/anypoint-mq-message-queue) - An enterprise-class cloud messaging service that is fully integrated with Anypoint Platform. It offers a flexible and reliable messaging infrastructure that enables you to integrate and orchestrate your applications and systems.
 *   [Azure Service Bus](https://azure.microsoft.com/en-us/services/service-bus/) - A reliable cloud messaging service that offers a variety of messaging patterns, such as pub/sub and request/response, and supports a range of protocols and standards.
 *   [CloudAMQP](https://www.cloudamqp.com/) - A RabbitMQ as a Service that provides a fully managed and scalable message broker service for your applications. It offers a simple and easy-to-use web-based management console, advanced monitoring and analytics, and seamless integration with other cloud services.
-*   [CloudKarafka](https://www.cloudkarafka.com/) - An affordable and straightforward Kafka service that provides fully managed and scalable Kafka clusters on AWS and Google Cloud. It offers a user-friendly web-based dashboard, advanced security features, and seamless integration with other cloud services.
 *   [Google Cloud Pub/Sub](https://cloud.google.com/pubsub) - A messaging and ingestion service that enables event-driven systems and streaming analytics. It provides high throughput, low latency, and reliable message delivery for your applications. It supports flexible messaging patterns, such as pub/sub and push/pull, and integrates seamlessly with other Google Cloud services.
 *   [IBM MQ on Cloud](https://www.ibm.com/cloud/mq) - A cloud-based messaging service that enables seamless data transfer across enterprise applications, systems, and services with ease.
 *   [IronMQ](https://www.iron.io/mq) - An elastic message queue built specifically for the cloud, allowing for reliable and scalable message processing.
@@ -298,7 +292,7 @@
 
 ### Software / Make your life easier
 
-*   [DeepfakeHTTP (⭐503)](https://github.com/xnbox/DeepfakeHTTP) - DeepfakeHTTP is a web server that uses HTTP dumps as a source for responses. This tool allows you to test clients against REST, GraphQL, and other APIs.
+*   [DeepfakeHTTP (⭐515)](https://github.com/xnbox/DeepfakeHTTP) - DeepfakeHTTP is a web server that uses HTTP dumps as a source for responses. This tool allows you to test clients against REST, GraphQL, and other APIs.
 
 ## [37. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
@@ -308,10 +302,6 @@
 *   [Practical MLOps: How to Get Ready for Production Models](https://valohai.com/mlops-ebook/)
 
 ## [38. Awesome Earth](/content/philsturgeon/awesome-earth/week/README.md)
-
-### Food
-
-*   \[CrowdFarming.com] -  Buying food directly from farmers is the most powerful everyday act available to anyone to create a positive social and environmental impact.
 
 ### Jobs
 
@@ -327,7 +317,7 @@
 
 ### Projects / Tools
 
-*   [coq-tools (⭐37)](https://github.com/JasonGross/coq-tools) - Scripts for manipulating Coq developments.
+*   [coq-tools (⭐41)](https://github.com/JasonGross/coq-tools) - Scripts for manipulating Coq developments.
     *   [`find-bug.py`](https://github.com/JasonGross/coq-tools/blob/master/find-bug.py) - Automatically minimizes source files producing an error, creating small test cases for Coq bugs.
     *   [`absolutize-imports.py`](https://github.com/JasonGross/coq-tools/blob/master/absolutize-imports.py) - Processes source files to make loading of dependencies robust against shadowing of file names.
     *   [`inline-imports.py`](https://github.com/JasonGross/coq-tools/blob/master/inline-imports.py) - Creates stand-alone source files from developments by inlining the loading of all dependencies.
@@ -362,36 +352,30 @@
 
 *   [cdbreact (⭐50)](https://github.com/Devwares-Team/cdbreact) - [demo](https://www.devwares.com/product/contrast) - [docs](https://www.devwares.com/docs/contrast/react/index) - Elegant UI Kit library and reusable components for building mobile-first, responsive websites and web apps.
 
-## [44. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
-
-### Code Quality
-
-*   [Viezly](https://viezly.com/) - Enhanced code review tool for easier code reading and navigation. Free for Open Source and free for personal usage.
-
-## [45. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [44. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / Reinforcement Learning
 
-*   [RLlib (⭐33k)](https://github.com/ray-project/ray) - RLlib is an industry level, highly scalable RL library for tf and torch, based on Ray. It's used by companies like Amazon and Microsoft to solve real-world decision making problems at scale.
+*   [RLlib (⭐34k)](https://github.com/ray-project/ray) - RLlib is an industry level, highly scalable RL library for tf and torch, based on Ray. It's used by companies like Amazon and Microsoft to solve real-world decision making problems at scale.
 
-## [46. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [45. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### GTFS Converters / Ruby
 
-*   [gtfs2gps (⭐69)](https://github.com/ipeaGIT/gtfs2gps) - An R package that converts public transportation data in GTFS format to GPS-like records in a `data.table`, where each row represents the timestamp of each vehicle at a given spatial resolution.
+*   [gtfs2gps (⭐72)](https://github.com/ipeaGIT/gtfs2gps) - An R package that converts public transportation data in GTFS format to GPS-like records in a `data.table`, where each row represents the timestamp of each vehicle at a given spatial resolution.
 
 ### GTFS Data Collection and Maintenance Tools / Ruby
 
-*   [TransitWand (⭐39)](https://github.com/conveyal/transit-wand) - An open source web and mobile application for collecting transit data. Use it to create GTFS feeds, capture passenger counts or generate GIS datasets.
+*   [TransitWand (⭐40)](https://github.com/conveyal/transit-wand) - An open source web and mobile application for collecting transit data. Use it to create GTFS feeds, capture passenger counts or generate GIS datasets.
 
-## [47. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [46. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Persistent object databases
 
-*   [bknr.datastore (⭐111)](https://github.com/hanshuebner/bknr-datastore) - a CLOS-based lisp-only database in RAM with transaction logging persistence. [Manual](https://www.common-lisp.net/project/bknr/html/documentation.html). [licence](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html).
+*   [bknr.datastore (⭐119)](https://github.com/hanshuebner/bknr-datastore) - a CLOS-based lisp-only database in RAM with transaction logging persistence. [Manual](https://www.common-lisp.net/project/bknr/html/documentation.html). [licence](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html).
     *   see also this [good introductory blog post](https://ashok-khanna.medium.com/persistent-in-memory-data-storage-in-common-lisp-b-k-n-r-37f8ae76042f)
-    *   an example web application using bknr.datastore: [screenshotbot-oss (⭐224)](https://github.com/screenshotbot/screenshotbot-oss).
-    *   See also [bknr.cluster (⭐23)](https://github.com/tdrhq/bknr.cluster), if you want a highly-available replicated version of bknr.datastore.
+    *   an example web application using bknr.datastore: [screenshotbot-oss (⭐256)](https://github.com/screenshotbot/screenshotbot-oss).
+    *   See also [bknr.cluster (⭐29)](https://github.com/tdrhq/bknr.cluster), if you want a highly-available replicated version of bknr.datastore.
 
 ### Utils / Third-party APIs
 
@@ -399,39 +383,38 @@
 
 ### Command-line options parsers / Third-party APIs
 
-*   👍 [Clingon (⭐122)](https://github.com/dnaeon/clingon) - a rich command-line options parser system.
+*   👍 [Clingon (⭐132)](https://github.com/dnaeon/clingon) - a rich command-line options parser system.
     *   it may have the richest feature set: subcommands, generation of bash completion, support for various kinds of options (integers, booleans, counter, enums…), extensible…
 
-## [48. Awesome Dos](/content/balintkissdev/awesome-dos/week/README.md)
+## [47. Awesome Dos](/content/balintkissdev/awesome-dos/week/README.md)
 
 ### Videos / Sound Blaster/OPL3
 
 *   [Let's Code - MS DOS - by root42](https://www.youtube.com/playlist?list=PLGJnX2KGgaw2L7Uv5NThlL48G9y4rJx1X) - DOS programming tutorial series including VGA, SoundBlaster and VGA Mode X.
 
-## [49. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/week/README.md)
+## [48. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/week/README.md)
 
 ### Resources / Books
 
 *   [Clojure, The Essential Reference](https://www.manning.com/books/clojure-the-essential-reference) – A reference book on the Clojure language and standard library.
 
-## [50. Awesome Arcgis Developers](/content/Esri/awesome-arcgis-developers/week/README.md)
+## [49. Awesome Arcgis Developers](/content/Esri/awesome-arcgis-developers/week/README.md)
 
 ### Spatial Analysis
 
 *   [Client-side Geometry Engine](https://esri-es.github.io/arcgis-search/?search=geometry+engine\&utm_source=chrome-extension#gsc.tab=0\&gsc.q=geometry%20engine%20site:developers.arcgis.com\&gsc.sort=) - Allows you to test spatial relationships, calculate new geometries, and measure lengths, areas, distances, etc.
     *   [ArcGIS API for JavaScript `geometryEngine`](https://developers.arcgis.com/javascript/latest/api-reference/esri-geometry-geometryEngine.html) - Works for browsers and Node.js.
     *   [ArcGIS API for Python `arcgis.geometry`](https://developers.arcgis.com/python/api-reference/arcgis.geometry.html)
-    *   [ArcGIS Runtime API for .NET `GeometryEngine`](https://developers.arcgis.com/net/api-reference/api/netwin/Esri.ArcGISRuntime/Esri.ArcGISRuntime.Geometry.GeometryEngine.html)
-    *   [ArcGIS Runtime API for Android `GeometryEngine`](https://developers.arcgis.com/android/api-reference/reference/com/esri/arcgisruntime/geometry/GeometryEngine.html)
-    *   [ArcGIS Runtime API for iOS `AGSGeometryEngine`](https://developers.arcgis.com/ios/api-reference/interface_a_g_s_geometry_engine.html)
-    *   [ArcGIS Runtime API for Java `GeometryEngine`](https://developers.arcgis.com/java/api-reference/reference/com/esri/arcgisruntime/geometry/GeometryEngine.html)
-    *   [ArcGIS Runtime API for Qt `GeometryEngine`](https://developers.arcgis.com/qt/cpp/api-reference/esri-arcgisruntime-geometryengine.html)
+    *   [ArcGIS Maps SDK for .NET `GeometryEngine`](https://developers.arcgis.com/net/api-reference/api/netwin/Esri.ArcGISRuntime/Esri.ArcGISRuntime.Geometry.GeometryEngine.html)
+    *   [ArcGIS Maps SDK for Android `GeometryEngine`](https://developers.arcgis.com/android/api-reference/reference/com/esri/arcgisruntime/geometry/GeometryEngine.html)
+    *   [ArcGIS Maps SDK for iOS `AGSGeometryEngine`](https://developers.arcgis.com/ios/api-reference/interface_a_g_s_geometry_engine.html)
+    *   [ArcGIS Maps SDK for Qt `GeometryEngine`](https://developers.arcgis.com/qt/cpp/api-reference/esri-arcgisruntime-geometryengine.html)
 
 ### Starter apps and CLIs
 
-*   Take a look at [previously logged issues (⭐198)](https://github.com/ArcGIS/awesome-arcgis-developer/issues).
+*   Take a look at [previously logged issues (⭐238)](https://github.com/ArcGIS/awesome-arcgis-developer/issues).
 
-## [51. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [50. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Cloud Storage & File Sharing
 
@@ -445,7 +428,7 @@
 
   CORS: Unknown
 
-  Postman: 
+  : 
 
 
 - API: [BayFiles](https://bayfiles.com/docs/api)
@@ -458,7 +441,7 @@
 
   CORS: Unknown
 
-  Postman: 
+  : 
 
 
 - API: [File.io](https://www.file.io)
@@ -471,7 +454,7 @@
 
   CORS: Unknown
 
-  Postman: 
+  : 
 
 
 
@@ -502,7 +485,7 @@
   CORS: Yes
 
 
-- API: [CORS Proxy (⭐35)](https://github.com/burhanuday/cors-proxy)
+- API: [CORS Proxy (⭐37)](https://github.com/burhanuday/cors-proxy)
 
   Description: Get around the dreaded CORS error by using this proxy as a middle man
 
@@ -639,20 +622,20 @@
 
 
 
-## [52. Awesome Capacitorjs](/content/capawesome-team/awesome-capacitorjs/week/README.md)
+## [51. Awesome Capacitorjs](/content/capawesome-team/awesome-capacitorjs/week/README.md)
 
 ### Guides
 
 *   [Mocking Capacitor Plugins](https://capacitorjs.com/docs/guides/mocking-plugins)
 
-## [53. Magictools](/content/ellisonleao/magictools/week/README.md)
+## [52. Magictools](/content/ellisonleao/magictools/week/README.md)
 
 ### Engines and Frameworks / Voxel Editors
 
-*   :tada: [boardgame.io (⭐10k)](https://github.com/boardgameio/boardgame.io) - State management and multiplayer networking for turn-based games.
+*   :tada: [boardgame.io (⭐11k)](https://github.com/boardgameio/boardgame.io) - State management and multiplayer networking for turn-based games.
 *   :tada: [Solar2D](https://solar2d.com/) - A Lua based game engine with focus on ease of iterations and usage.
 
-## [54. Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/week/README.md)
+## [53. Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/week/README.md)
 
 ### Linux commands
 
@@ -732,13 +715,13 @@
 *   [FFT-FGN-C](ftp://ita.ee.lbl.gov/html/contrib/fft_fgn_c.html): is a program for synthesizing a type of self-similar process known as fractional Gaussian noise. The program is fast but approximate. Fractional Gaussian noise is only one type of self-similar process. When using this program for synthesizing network traffic, you must keep in mind that it may be that the traffic you seek is better modeled using one of the other processes.
 *   [Traffic Data Repository at the WIDE Project](https://www2.sonycsl.co.jp/person/kjc/papers/freenix2000/): It becomes increasingly important for both network researchers and operators to know the trend of network traffic and to find anomaly in their network traffic. This paper describes an on-going effort within the WIDE project to collect a set of free tools to build a traffic data repository containing detailed information of our backbone traffic. Traffic traces are collected by tcpdump and, after removing privacy information, the traces are made open to the public. We review the issues on user privacy, and then, the tools used to build the WIDE traffic repository. We will report the current status and findings in the early stage of our IPv6 deployment.
 
-## [55. Awesome Coldfusion](/content/seancoyne/awesome-coldfusion/week/README.md)
+## [54. Awesome Coldfusion](/content/seancoyne/awesome-coldfusion/week/README.md)
 
 ### Engines
 
 *   [Lucee](http://lucee.org/) - Free, Open Source CFML Engine
 
-## [56. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
+## [55. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
 ### Packages / Ecosystem
 
@@ -748,37 +731,37 @@
 
 *   [ros2cs (⭐69)](https://github.com/RobotecAI/ros2cs) - an alternative to ros2\_dotnet, a ROS2 C# interface supporting full range of messages and modern ROS2. ![ros2cs](https://img.shields.io/github/stars/RobotecAI/ros2cs.svg)
 
-## [57. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [56. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / System tools
 
-*   [bottom (⭐9.6k)](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor. [![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/ClementTsang/bottom/ci/master)](https://github.com/ClementTsang/bottom/actions?query=branch%3Amaster)
+*   [bottom (⭐11k)](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor. [![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/ClementTsang/bottom/ci/master)](https://github.com/ClementTsang/bottom/actions?query=branch%3Amaster)
 
 ### Applications / Task scheduling
 
-*   [delicate (⭐694)](https://github.com/BinChengZhao/delicate) - A lightweight and distributed task scheduling platform. [![Build Status](https://github.com/BinChengZhao/delicate/workflows/CI/badge.svg)](https://github.com/BinChengZhao/delicate/actions)
+*   [delicate (⭐727)](https://github.com/BinChengZhao/delicate) - A lightweight and distributed task scheduling platform. [![Build Status](https://github.com/BinChengZhao/delicate/workflows/CI/badge.svg)](https://github.com/BinChengZhao/delicate/actions)
 
 ### Applications / Video
 
-*   [harlanc/xiu (⭐1.7k)](https://github.com/harlanc/xiu) - A powerful and secure live server (rtmp/httpflv/hls/relay). [![crates.io](https://img.shields.io/crates/v/xiu.svg)](https://crates.io/crates/xiu)
+*   [harlanc/xiu (⭐1.9k)](https://github.com/harlanc/xiu) - A powerful and secure live server (rtmp/httpflv/hls/relay). [![crates.io](https://img.shields.io/crates/v/xiu.svg)](https://crates.io/crates/xiu)
 
 ### Libraries / GUI
 
-*   [emoon/rust\_minifb (⭐990)](https://github.com/emoon/rust_minifb) - minifb is a cross-platform window setup with optional bitmap rendering. It also comes with easy mouse and keyboard input. Primarily designed for prototyping
+*   [emoon/rust\_minifb (⭐1.1k)](https://github.com/emoon/rust_minifb) - minifb is a cross-platform window setup with optional bitmap rendering. It also comes with easy mouse and keyboard input. Primarily designed for prototyping
 
-## [58. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [57. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Social Engineering / Forensics
 
 *   [Gophish](https://getgophish.com/) - An Open-Source Phishing Framework.
 
-## [59. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+## [58. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
 ### Interactive Experiences
 
 *   [Life During COVID-19](https://gallery.familyforeverychild.org/) - Virtual art exhibition from charity Family for Every Child.
 
-## [60. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
+## [59. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
 ### Automation
 
@@ -789,7 +772,7 @@
 *   [Heyflow](https://heyflow.app/) - Build interactive flows.
 *   [Storybook](https://storybook.js.org) - Build component driven UIs faster.
 
-## [61. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [60. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Community / Community Chat Rooms
 
@@ -798,7 +781,7 @@
 *   [#rp-rs:matrix.org](https://matrix.to/#/#rp-rs:matrix.org) - For discussion of using Embedded Rust on RP2040 based devices
 *   [#stm32-rs:matrix.org](https://matrix.to/#/#stm32-rs:matrix.org) - For discussion of using Embedded Rust on STM32 based devices
 
-## [62. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [61. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Projects Using Vue.js / Open Source
 
@@ -806,24 +789,20 @@
 
 ### Components & Libraries / Frameworks
 
-*   [Materio-vuetify-vuejs-admin-template-free (⭐775)](https://github.com/themeselection/materio-vuetify-vuejs-admin-template-free) - A Production ready, carefully crafted, most comprehensive Vuetify Vuejs admin template. [Live demo](https://themeselection.com/demo/materio-vuetify-vuejs-admin-template-free/demo/dashboard)
-*   [Fes.js (⭐1.3k)](https://github.com/WeBankFinTech/fes.js/blob/master/README.en-US.md) - An easy-to-use front-end application framework based on vue3.
-
-### Components & Libraries / UI Layout
-
-*   [simple-vue-grid (⭐3)](https://github.com/harmyderoman/simple-vue-grid) - Simple grid containers that will help you to build layouts for your app.
+*   [Materio-vuetify-vuejs-admin-template-free (⭐820)](https://github.com/themeselection/materio-vuetify-vuejs-admin-template-free) - A Production ready, carefully crafted, most comprehensive Vuetify Vuejs admin template. [Live demo](https://themeselection.com/demo/materio-vuetify-vuejs-admin-template-free/demo/dashboard)
+*   [Fes.js (⭐1.5k)](https://github.com/WeBankFinTech/fes.js/blob/master/README.en-US.md) - An easy-to-use front-end application framework based on vue3.
 
 ### Components & Libraries / UI Components
 
-*   [vue-timer-hook (⭐170)](https://github.com/riderx/vue-timer-hook) - Vue 3 Timer module inspired by react-timer-hook
+*   [vue-timer-hook (⭐176)](https://github.com/riderx/vue-timer-hook) - Vue 3 Timer module inspired by react-timer-hook
 
-## [63. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
+## [62. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### Schema / Changes
 
-*   [Bytebase (⭐10k)](https://github.com/bytebase/bytebase) - Web-based, zero-config, dependency-free database schema change and version control tool for teams.
+*   [Bytebase (⭐12k)](https://github.com/bytebase/bytebase) - Web-based, zero-config, dependency-free database schema change and version control tool for teams.
 
-## [64. Awesome Golem](/content/golemfactory/awesome-golem/week/README.md)
+## [63. Awesome Golem](/content/golemfactory/awesome-golem/week/README.md)
 
 ### GitHub Digest Blog Series
 

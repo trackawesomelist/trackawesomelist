@@ -28,7 +28,7 @@
 
 *   [Brightness-Ajustment](https://forum.qubes-os.org/t/easy-brightness-adjustment/15902/2) - Easy brightness adjustment
 *   [Custom icons](https://forum.qubes-os.org/t/where-is-the-most-optimal-place-to-put-custom-folder-icons/15740/3) - Place the custom folder icons \~/.local/share/icons is a persistent place to place the custom folder icons and so is /usr/share/icons.
-*   [Suckless dwm (⭐11)](https://github.com/3o14r473/GUIDE_how-to-install-dwm-in-qubesos) - How to install dwm in Qubes OS.
+*   [Suckless dwm (⭐12)](https://github.com/3o14r473/GUIDE_how-to-install-dwm-in-qubesos) - How to install dwm in Qubes OS.
 
 ### GPU
 
@@ -37,58 +37,59 @@
 *   [GUI-troubleshooting](https://www.qubes-os.org/doc/gui-troubleshooting/) - Learn to troubleshoot your GUI configuration.
 *   [GUI-virtualization](https://www.qubes-os.org/doc/gui/) - All AppVM X applications connect to local (running in AppVM) Xorg servers.
 *   [How-to-use-pci-devices](https://www.qubes-os.org/doc/how-to-use-pci-devices/) - This page is part of device handling in qubes.
-*   [Install-nvidia-driver (⭐254)](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/install-nvidia-driver.md) - Nvidia proprietary driver installation.
-*   [Nvidia-troubleshooting (⭐254)](https://github.com/Qubes-Community/Contents/blob/master/docs/troubleshooting/nvidia-troubleshooting.md) - Nvidia Troubleshooting Guide
+*   [Install-nvidia-driver (⭐258)](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/install-nvidia-driver.md) - Nvidia proprietary driver installation.
+*   [Nvidia-troubleshooting (⭐258)](https://github.com/Qubes-Community/Contents/blob/master/docs/troubleshooting/nvidia-troubleshooting.md) - Nvidia Troubleshooting Guide
 
 ### Clearnet & Anonymous Networking / OpenVPN
 
-*   [Qubes-Tunnel (⭐20)](https://github.com/QubesOS-contrib/qubes-tunnel) - Manage, run, protect VPN connections in Proxy VMs.
+*   [Qubes-Tunnel (⭐22)](https://github.com/QubesOS-contrib/qubes-tunnel) - Manage, run, protect VPN connections in Proxy VMs.
 
 ### Clearnet & Anonymous Networking / Crypto
 
-*   [Awesome-DeSci (⭐73)](https://github.com/DeSciWorldDAO/awesome-desci) - A curated list of awesome Decentralized Science (DeSci) resources, projects, articles and more.
+*   [Awesome-DeSci (⭐75)](https://github.com/DeSciWorldDAO/awesome-desci) - A curated list of awesome Decentralized Science (DeSci) resources, projects, articles and more.
 
 ### Kernels / Microkernels
 
 *   [seL4](https://sel4.systems/) - seL4 is a high-assurance, high-performance operating system microkernel.
+    *   [makatea](https://trustworthy.systems/projects/TS/makatea) - Qubes OS like operating system but with seL4.
 
 ### Kernels / Unikernels
 
-*   [Awesome-Unikernels (⭐37)](https://github.com/uniqernel/awesome-unikernels) - Secure, lightweight and high performance approach to application delivery.
-*   [Qubes-Mirage-Firewall (⭐206)](https://github.com/mirage/qubes-mirage-firewall) - A unikernel that can run as a Qubes OS ProxyVM, replacing sys-firewall.
+*   [Awesome-Unikernels (⭐43)](https://github.com/uniqernel/awesome-unikernels) - Secure, lightweight and high performance approach to application delivery.
+*   [Qubes-Mirage-Firewall (⭐210)](https://github.com/mirage/qubes-mirage-firewall) - A unikernel that can run as a Qubes OS ProxyVM, replacing sys-firewall.
+
+### Qubes OS Server / Unikernel-like
+
+*   [Qubes-network-server (⭐107)](https://github.com/Rudd-O/qubes-network-server) - Turn your Qubes OS into a networking server.
+*   [Qubes-remote-desktop (⭐8)](https://github.com/QubesOS-contrib/qubes-remote-desktop) - SystemD services for creating VNC server session in dom0 or any Qube.
 
 ### Exploitation Tools / Unikernel-like
 
-*   [Awesome-Fuzzing (⭐798)](https://github.com/cpuu/awesome-fuzzing) - A curated list of references to awesome Fuzzing for security testing. Additionally there is a collection of freely available academic papers, tools and so on.
+*   [Awesome-Fuzzing (⭐843)](https://github.com/cpuu/awesome-fuzzing) - A curated list of references to awesome Fuzzing for security testing. Additionally there is a collection of freely available academic papers, tools and so on.
 *   [CodeQL](https://codeql.github.com/) - Discover vulnerabilities across a codebase with CodeQL.
-*   [Joern (⭐1.9k)](https://github.com/joernio/joern) - Joern is a platform for analyzing source code, bytecode, and binary executables. It generates code property graphs (CPGs), a graph representation of code for cross-language code analysis.
+*   [Joern (⭐2.1k)](https://github.com/joernio/joern) - Joern is a platform for analyzing source code, bytecode, and binary executables. It generates code property graphs (CPGs), a graph representation of code for cross-language code analysis.
 *   [Libvmi](https://libvmi.com/) - LibVMI is a C library with Python bindings that makes it easy to monitor the low-level details of a running virtual machine.
-*   [Memflow (⭐714)](https://github.com/memflow/memflow) - memflow is a library that enables introspection of various machines (hardware, virtual machines, memory dumps) in a generic fashion.
-*   [Microlibvmi (⭐163)](https://github.com/Wenzel/libmicrovmi) - A cross-platform unified Virtual Machine Introspection API library.
-*   [Radare2 (⭐20k)](https://github.com/radareorg/radare2) - Libre Reversing Framework for Unix Geeks.
+*   [Memflow (⭐773)](https://github.com/memflow/memflow) - memflow is a library that enables introspection of various machines (hardware, virtual machines, memory dumps) in a generic fashion.
+*   [Microlibvmi (⭐167)](https://github.com/Wenzel/libmicrovmi) - A cross-platform unified Virtual Machine Introspection API library.
+*   [Radare2 (⭐21k)](https://github.com/radareorg/radare2) - Libre Reversing Framework for Unix Geeks.
 
-### Optics and Extra Info / Unikernel-like
+### Optics and Extra Info / UX - User Experience
 
-*   \[UX] - User Experience
-    *   [UX Bessie](https://vimeo.com/542041258) - Qubes OS AppMenu Design Direction. Part of 2020/21 MOSS funded UX work.
-    *   [UX Jackie](https://vimeo.com/541946756) - Qubes OS AppMenu Design Direction. Part of 2020/21 MOSS funded UX work.
+*   [UX Bessie](https://vimeo.com/542041258) - Qubes OS AppMenu Design Direction. Part of 2020/21 MOSS funded UX work.
 
-### Qubes OS Server / Web articles
-
-*   [Qubes-network-server (⭐98)](https://github.com/Rudd-O/qubes-network-server) - Turn your Qubes OS into a networking server.
-*   [Qubes-remote-desktop (⭐7)](https://github.com/QubesOS-contrib/qubes-remote-desktop) - SystemD services for creating VNC server session in dom0 or any Qube.
-
-### Qubes OS Legends / Web articles
-
-*   [Ninavizz](https://vimeo.com/user1589693) - Qubes OS UX Designer.
-*   [Unman](https://github.com/unman?tab=repositories) - Qubes OS contributor.
-    *   [Templates](https://qubes.3isec.org/Templates_4.1/) - Unman custom templates.
-    *   [Unman Install Scripts (⭐18)](https://github.com/unman/shaker) -  Unman install scripts
-
-### Social media / Web articles
+### Social media / Extra Info
 
 *   [Mastodon](https://mastodon.social/@QubesOS) - Qubes OS Mastodon channel
 *   `#qubes-os` channel on irc.anonops.com via traditional IRC clients.
+
+### Qubes OS Legends / Extra Info
+
+*   [Ninavizz](https://vimeo.com/user1589693) - Qubes OS UX Designer.
+*   [Unman](https://github.com/unman?tab=repositories) - Qubes OS contributor.
+    *   [Templates](https://qubes.3isec.org/Templates_4.2/) - Unman custom templates.
+    *   [Install Scripts (⭐18)](https://github.com/unman/shaker) -  Unman install scripts
+    *   [Notes (⭐37)](https://github.com/unman/notes) - a good reference
+    *   [Shaker (⭐18)](https://github.com/unman/shaker) - Shaker!
 
 ## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -104,13 +105,13 @@
 
 ### Boilerplates
 
-*   [Next-Fire-Auth (⭐5)](https://github.com/hrushikedar33/next-fire-auth) - A awesome boilerplate for startup application with authentication using Next.js + Typescript + Tailwind CSS + Firebase-auth + React-Firebase-Hooks
+*   [Next-Fire-Auth (⭐6)](https://github.com/hrushikedar33/next-fire-auth) - A awesome boilerplate for startup application with authentication using Next.js + Typescript + Tailwind CSS + Firebase-auth + React-Firebase-Hooks
 
 ## [5. Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md)
 
 ### Boilerplates / Themes
 
-*   [react-vite-admin (⭐190)](https://github.com/ychengcloud/react-vite-admin) - React, Recoil, React Query, React Hooks, Typescript, Axios.
+*   [react-vite-admin (⭐241)](https://github.com/ychengcloud/react-vite-admin) - React, Recoil, React Query, React Hooks, Typescript, Axios.
 
 ## [6. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
@@ -129,13 +130,10 @@
 ### Commenting Engines
 
 *   **Disqus** - Many trackers are in their sites. Disqus collects (as per their Privacy Policy):  IP address, unique Cookie ID, Device ID, your login data, browser type and version, time zone setting and location, browser plug-in types and versions, operating system and platform and other technology on the devices you use to access the Service.
-*   [Commento](https://commento.io/) - Commento is a fast, privacy-focused commenting platform. Can be selfhosted or use their SaaS.
-*   [Isso (⭐5k)](https://github.com/posativ/isso) - A lightweight, self hosted, commenting server written in Python and JavaScript. It aims to be a drop-in replacement for Disqus.
-*   [Remark42](https://remark42.com) - Self-hosted, lightweight, and simple (yet functional) comment engine, which doesn't spy on users.
 
 ### Notes and Tasks
 
-*   [Trilium Notes (⭐27k)](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
+*   [Trilium Notes (⭐28k)](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
 
 ### Desktop
 
@@ -145,7 +143,7 @@
 
 ### Security
 
-*   [Ronin (⭐677)](https://github.com/ronin-rb/ronin) - A Ruby platform for vulnerability research and exploit development.
+*   [Ronin (⭐700)](https://github.com/ronin-rb/ronin) - A Ruby platform for vulnerability research and exploit development.
 
 ## [10. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/README.md)
 

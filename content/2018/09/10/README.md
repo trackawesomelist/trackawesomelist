@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 10, 2018
 
-15 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,7 +16,7 @@
 
 ### CLI Builder
 
-*   [Terrapin (⭐247)](https://github.com/thoughtbot/terrapin) - A small command line library (Formerly Cocaine).
+*   [Terrapin (⭐251)](https://github.com/thoughtbot/terrapin) - A small command line library (Formerly Cocaine).
 
 ### Debugging Tools
 
@@ -34,35 +34,25 @@
 
 *   [Physical Computing With Rust](https://rahul-thakoor.github.io/physical-computing-rust/) A (WIP) guide to physical computing with Rust on the Raspberry Pi.
 
-## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Resources / Examples
-
-*   [**vue-soundcloud**](https://github.com/soroushchehresa/vue-soundcloud) A Soundcloud client built with Vue.js 2, by [Soroush Chehresa](https://github.com/soroushchehresa)
-
-### Components & Libraries / Utilities
-
-*   [vue-log-worker](https://gitlab.com/schoolmouv-open-source/vue-log-worker) - A Vue.js plugin to log error and vuex mutations to your backend through a web worker
-
-## [6. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [5. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / Data Analysis / Data Visualization
 
-*   [PyCM (⭐1.4k)](https://github.com/sepandhaghighi/pycm) - PyCM is a multi-class confusion matrix library written in Python that supports both input data vectors and direct matrix, and a proper tool for post-classification model evaluation that supports most classes and overall statistics parameters
+*   [PyCM (⭐1.5k)](https://github.com/sepandhaghighi/pycm) - PyCM is a multi-class confusion matrix library written in Python that supports both input data vectors and direct matrix, and a proper tool for post-classification model evaluation that supports most classes and overall statistics parameters
 
-## [7. Awesome Preact](/content/preactjs/awesome-preact/README.md)
+## [6. Awesome Preact](/content/preactjs/awesome-preact/README.md)
 
 ### Contents / Routing
 
 *   [Preact Route Async (⭐35)](https://github.com/mjanssen/preact-route-async) - A (440b gzip) route component that enables async loading of page-components.
 
-## [8. Awesome Npm](/content/sindresorhus/awesome-npm/README.md)
+## [7. Awesome Npm](/content/sindresorhus/awesome-npm/README.md)
 
 ### Clients
 
-*   [npm (⭐7.6k)](https://github.com/npm/cli) - The official client.
+*   [npm (⭐8.4k)](https://github.com/npm/cli) - The official client.
 
-## [9. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
+## [8. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
 ### Useful Apps / Android
 
@@ -71,42 +61,42 @@
 *   **Tubio** - Cast web videos directly to Pi. [Android](https://play.google.com/store/apps/details?id=com.aesoftware.tubio)
 *   **Turbo FTP** - A good FTP client app for accessing files on raspberry. [Android](https://play.google.com/store/apps/details?id=turbo.client)
 
-## [10. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/README.md)
+## [9. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/README.md)
 
 ### Samsung Tizen / Third-party remote control libraries
 
 *   [samsung-remote-models-2014-and-newer (⭐48)](https://github.com/tdudek/samsung-remote-models-2014-and-newer) - Encrypted communication with the internal web service of Samsung TV models 2014+.
 *   [SmartCrypto (⭐8)](https://github.com/sectroyer/SmartCrypto) - SmartView2 encrypted handshake API implementation in C/Python.
 
-## [11. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [10. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / CMS
 
 *   [CoreWiki (⭐415)](https://github.com/csharpfritz/CoreWiki) - Simple ASP.NET Core wiki that we are working on during live coding streams.
 
-## [12. Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md)
+## [11. Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md)
 
 ### Components / Themes
 
-*   [antd-table-infinity (⭐283)](https://github.com/Leonard-Li777/antd-table-infinity) - An infinite scroll component based on antd table that supports virtual scrolling & high-performance
+*   [antd-table-infinity (⭐285)](https://github.com/Leonard-Li777/antd-table-infinity) - An infinite scroll component based on antd table that supports virtual scrolling & high-performance
 
-## [13. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
+## [12. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
 ### Tools and session management
 
-*   [tmux-up (⭐112)](https://github.com/jamesottaway/tmux-up) Bootstrap new `tmux` sessions without complex tools, DSLs, or dependencies
+*   [tmux-up (⭐113)](https://github.com/jamesottaway/tmux-up) Bootstrap new `tmux` sessions without complex tools, DSLs, or dependencies
 
 ### Miscellaneous / Development and testing
 
 *   [sublime-tmux (⭐9)](https://github.com/huntie/sublime-tmux) Sublime Text plugin to interact with tmux sessions
 
-## [14. Awesome Rest](/content/marmelab/awesome-rest/README.md)
+## [13. Awesome Rest](/content/marmelab/awesome-rest/README.md)
 
 ### SaaS Tools / Symfony2
 
 *   [Beeceptor](https://beeceptor.com/) - An HTTP inspecting, mocking and proxing service. Gives named endpoints for creating mock API endpoints and simulate responses.
 
-## [15. Public Apis](/content/public-apis/public-apis/README.md)
+## [14. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Animals
 
@@ -229,7 +219,7 @@
   CORS: Unknown
 
 
-- API: [Harvard Art Museums (⭐342)](https://github.com/harvardartmuseums/api-docs)
+- API: [Harvard Art Museums (⭐349)](https://github.com/harvardartmuseums/api-docs)
 
   Description: Art
 
@@ -311,8 +301,6 @@
 
   CORS: Unknown
 
-  Call this API: 
-
 
 - API: [Gmail](https://developers.google.com/gmail/api/)
 
@@ -323,8 +311,6 @@
   HTTPS: Yes
 
   CORS: Unknown
-
-  Call this API: 
 
 
 
@@ -374,7 +360,7 @@
   CORS: Unknown
 
 
-- API: [Non-Working Days (⭐21)](https://github.com/gadael/icsdb)
+- API: [Non-Working Days (⭐22)](https://github.com/gadael/icsdb)
 
   Description: Database of ICS files for non working days
 
@@ -385,7 +371,7 @@
   CORS: Unknown
 
 
-- API: [Russian Calendar (⭐28)](https://github.com/egno/work-calendar)
+- API: [Russian Calendar (⭐29)](https://github.com/egno/work-calendar)
 
   Description: Check if a date is a Russian holiday or not
 
@@ -409,7 +395,7 @@
 
   CORS: Unknown
 
-  Postman: 
+  : 
 
 
 - API: [Dropbox](https://www.dropbox.com/developers)
@@ -422,7 +408,7 @@
 
   CORS: Unknown
 
-  Postman: [<sup>**Run in Postman**</sup>](https://god.gw.postman.com/run-collection/25426789-718e2a11-20eb-4555-b520-c8b1b935ef0a?action=collection%2Ffork\&source=rip_markdown\&collection-url=entityId%3D25426789-718e2a11-20eb-4555-b520-c8b1b935ef0a%26entityType%3Dcollection%26workspaceId%3De4d9a7d3-b961-474e-a054-51861ed481f6)
+  : 
 
 
 - API: [Google Drive](https://developers.google.com/drive/)
@@ -435,7 +421,7 @@
 
   CORS: Unknown
 
-  Postman: 
+  : 
 
 
 
@@ -625,7 +611,7 @@
 
   CORS: Unknown
 
-  Call this API: 
+  : 
 
 
 - API: [PurgoMalum](http://www.purgomalum.com)
@@ -638,7 +624,7 @@
 
   CORS: Unknown
 
-  Call this API: 
+  : 
 
 
 
@@ -941,7 +927,7 @@
 
   CORS: Unknown
 
-  Call this API: 
+  : 
 
 
 - API: [IG](https://labs.ig.com/gettingstarted)
@@ -954,7 +940,7 @@
 
   CORS: Unknown
 
-  Call this API: 
+  : 
 
 
 
@@ -993,7 +979,7 @@
   CORS: Unknown
 
 
-- API: [TacoFancy (⭐123)](https://github.com/evz/tacofancy-api)
+- API: [TacoFancy (⭐126)](https://github.com/evz/tacofancy-api)
 
   Description: Community-driven taco database
 
@@ -1351,7 +1337,7 @@
   CORS: Yes
 
 
-- API: [Mexico (⭐69)](https://github.com/IcaliaLabs/sepomex)
+- API: [Mexico (⭐74)](https://github.com/IcaliaLabs/sepomex)
 
   Description: Mexico RESTful zip codes API
 
@@ -1941,7 +1927,7 @@
   CORS: Yes
 
 
-- API: [Feedbin (⭐342)](https://github.com/feedbin/feedbin-api)
+- API: [Feedbin (⭐349)](https://github.com/feedbin/feedbin-api)
 
   Description: RSS reader
 
@@ -1985,7 +1971,7 @@
   CORS: Unknown
 
 
-- API: [The Old Reader (⭐190)](https://github.com/theoldreader/api)
+- API: [The Old Reader (⭐191)](https://github.com/theoldreader/api)
 
   Description: RSS reader
 
@@ -2805,7 +2791,7 @@
   CORS: Unknown
 
 
-- API: [Community Transit (⭐104)](https://github.com/transitland/transitland-datastore/blob/master/README.md#api-endpoints)
+- API: [Community Transit (⭐105)](https://github.com/transitland/transitland-datastore/blob/master/README.md#api-endpoints)
 
   Description: Transitland API
 
@@ -3111,7 +3097,7 @@
   CORS: Unknown
 
 
-- API: [Breaking Bad Quotes (⭐387)](https://github.com/shevabam/breaking-bad-quotes)
+- API: [Breaking Bad Quotes (⭐405)](https://github.com/shevabam/breaking-bad-quotes)
 
   Description: Some Breaking Bad quotes
 
@@ -3155,7 +3141,7 @@
   CORS: Unknown
 
 
-- API: [Ron Swanson Quotes (⭐296)](https://github.com/jamesseanwright/ron-swanson-quotes#ron-swanson-quotes-api)
+- API: [Ron Swanson Quotes (⭐297)](https://github.com/jamesseanwright/ron-swanson-quotes#ron-swanson-quotes-api)
 
   Description: Television
 

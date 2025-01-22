@@ -16,17 +16,9 @@
 
 ### Asynchronous Event Loop
 
-*   [Ichor (⭐185)](https://github.com/volt-software/ichor) - An event queue which focuses on thread safety and provides dependency injection. \[MIT]
+*   [Ichor (⭐212)](https://github.com/volt-software/ichor) - An event queue which focuses on thread safety and provides dependency injection. \[MIT]
 
 ## [3. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/README.md)
-
-### Gaming
-
-*   [MinecraftServerWidget.js (⭐27)](https://github.com/au5ton/scriptable.app/tree/main/MinecraftServerWidget) - Information about a Minecraft server.
-
-### Tools
-
-*   [PlexStreamsWidget.js (⭐27)](https://github.com/au5ton/scriptable.app/tree/main/PlexStreamsWidget) - Information about a Plesk server.
 
 ### Related / Articles
 
@@ -36,13 +28,13 @@
 
 ### Databases
 
-*   [Cassandra (⭐282)](https://github.com/Anant/awesome-cassandra#readme) - Open-source, distributed, wide column store, NoSQL database management system.
+*   [Cassandra (⭐292)](https://github.com/Anant/awesome-cassandra#readme) - Open-source, distributed, wide column store, NoSQL database management system.
 
 ## [5. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Transpiling
 
-*   [perf-monitor-rs (⭐202)](https://github.com/larksuite/perf-monitor-rs) - A toolkit designed to be a foundation for applications to monitor their performance. [![crates.io](https://img.shields.io/crates/v/perf_monitor.svg)](https://crates.io/crates/perf_monitor)
+*   [perf-monitor-rs (⭐218)](https://github.com/larksuite/perf-monitor-rs) - A toolkit designed to be a foundation for applications to monitor their performance. [![crates.io](https://img.shields.io/crates/v/perf_monitor.svg)](https://crates.io/crates/perf_monitor)
 
 ## [6. Public Apis](/content/public-apis/public-apis/README.md)
 

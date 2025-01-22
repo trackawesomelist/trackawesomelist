@@ -36,7 +36,7 @@
 
 ### Using DevTools frontend with other platforms / ClojureScript
 
-*   [Dirac (⭐769)](https://github.com/binaryage/dirac) - Debugging of ClojsureScript.
+*   [Dirac (⭐770)](https://github.com/binaryage/dirac) - Debugging of ClojsureScript.
 
 ### Using DevTools frontend with other platforms / iOS
 
@@ -54,7 +54,7 @@
 
 ### Apps
 
-*   [Autonomica "IPFS Social Proof" (⭐130)](https://github.com/IBM/ipfs-social-proof) - Autonomica is a Keybase-like Dapp for creating an identity and proving this identity via published social media and web proofs.
+*   [Autonomica "IPFS Social Proof" (⭐146)](https://github.com/IBM/ipfs-social-proof) - Autonomica is a Keybase-like Dapp for creating an identity and proving this identity via published social media and web proofs.
 
 ## [5. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
@@ -236,17 +236,17 @@
 
 ### Matlab / General-Purpose Machine Learning
 
-*   [Machine Learning in MatLab/Octave (⭐837)](https://github.com/trekhleb/machine-learning-octave) - Examples of popular machine learning algorithms (neural networks, linear/logistic regressions, K-Means, etc.) with code examples and mathematics behind them being explained.
+*   [Machine Learning in MatLab/Octave (⭐857)](https://github.com/trekhleb/machine-learning-octave) - Examples of popular machine learning algorithms (neural networks, linear/logistic regressions, K-Means, etc.) with code examples and mathematics behind them being explained.
 
 ## [15. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Game Engine
 
-*   [OpenXRay (⭐2.9k)](https://github.com/OpenXRay/xray-16) - a community-modified X-Ray engine used in S.T.A.L.K.E.R. game series. \[Modified BSD/non-commercial only]
+*   [OpenXRay (⭐3.1k)](https://github.com/OpenXRay/xray-16) - a community-modified X-Ray engine used in S.T.A.L.K.E.R. game series. \[Modified BSD/non-commercial only]
 
 ### Scripting
 
-*   [sol2 (⭐4.1k)](https://github.com/ThePhD/sol2) - A C++ <-> Lua API wrapper with advanced features and top notch performance. \[MIT]
+*   [sol2 (⭐4.3k)](https://github.com/ThePhD/sol2) - A C++ <-> Lua API wrapper with advanced features and top notch performance. \[MIT]
 
 ---
 

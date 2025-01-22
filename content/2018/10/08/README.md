@@ -16,13 +16,13 @@
 
 ### Python / Natural Language Processing
 
-*   [Dedupe (⭐4.1k)](https://github.com/dedupeio/dedupe) - A python library for accurate and scalable fuzzy matching, record deduplication and entity-resolution.
+*   [Dedupe (⭐4.2k)](https://github.com/dedupeio/dedupe) - A python library for accurate and scalable fuzzy matching, record deduplication and entity-resolution.
 
 ## [3. Awesome Ansible](/content/ansible-community/awesome-ansible/README.md)
 
 ### Playbooks, Roles and Collections / French
 
-*   [Openstack Ansible (⭐1.4k)](https://github.com/openstack/openstack-ansible) - Ansible Playbooks for deploying [OpenStack](https://www.openstack.org/).
+*   [Openstack Ansible (⭐1.5k)](https://github.com/openstack/openstack-ansible) - Ansible Playbooks for deploying [OpenStack](https://www.openstack.org/).
 *   [DebOps](https://docs.debops.org/en/master/) - A extensive collection of Debian based Ansible Playbooks.
 
 ## [4. Awesome Ethereum](/content/ttumiel/Awesome-Ethereum/README.md)
@@ -38,7 +38,7 @@
 
 ### Extensions / Collection View Layout
 
-*   [XGist (⭐76)](https://github.com/Bunn/Xgist) - Xcode extension which allows you to send your text selection or entire file to GitHub's Gist and automatically copy the Gist URL into your Clipboard.
+*   [XGist (⭐77)](https://github.com/Bunn/Xgist) - Xcode extension which allows you to send your text selection or entire file to GitHub's Gist and automatically copy the Gist URL into your Clipboard.
 
 ## [6. Awesome Draft Js](/content/nikgraf/awesome-draft-js/README.md)
 
@@ -107,13 +107,13 @@
 ### Articles
 
 *   [CppCon 2018 Presentation Materials (⭐1.4k)](https://github.com/CppCon/CppCon2018) - CppCon 2018 Presentation Materials.
-*   [C++Now 2018 Presentations (⭐125)](https://github.com/boostcon/cppnow_presentations_2018) - Presentation materials presented at C++Now 2018.
+*   [C++Now 2018 Presentations (⭐126)](https://github.com/boostcon/cppnow_presentations_2018) - Presentation materials presented at C++Now 2018.
 
 ## [16. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Miscellaneous
 
-*   [Software Patreons (⭐487)](https://github.com/uraimo/awesome-software-patreons#readme) - Fund individual programmers or the development of open source projects.
+*   [Software Patreons (⭐495)](https://github.com/uraimo/awesome-software-patreons#readme) - Fund individual programmers or the development of open source projects.
 
 ## [17. Awesome Vscode](/content/viatsko/awesome-vscode/README.md)
 
@@ -125,7 +125,7 @@
 
 ### Applications / System tools
 
-*   [pop-os/system76-power (⭐571)](https://github.com/pop-os/system76-power/) - Linux power management daemon (DBus-interface) with CLI tool.
+*   [pop-os/system76-power (⭐604)](https://github.com/pop-os/system76-power/) - Linux power management daemon (DBus-interface) with CLI tool.
 
 ---
 

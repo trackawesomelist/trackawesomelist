@@ -2,7 +2,7 @@
 
 📖  A curated list of Awesome Userscripts.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/bvolpato/awesome-userscripts/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 bvolpato/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) · ⭐ 1.7K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/bvolpato/awesome-userscripts/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 bvolpato/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) · ⭐ 2.1K · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/bvolpato/awesome-userscripts/week/README.md) / [Overview](/content/bvolpato/awesome-userscripts/readme/README.md) ]
 
@@ -10,7 +10,7 @@
 
 ### Scripts / ChatGPT
 
-*   [ChatGPT Auto-Talk (⭐2)](https://github.com/adamlui/chatgpt-auto-talk) - Automatically play ChatGPT responses.
+*   [ChatGPT Auto-Talk (⭐9)](https://github.com/adamlui/chatgpt-auto-talk) - Automatically play ChatGPT responses.
 
 ## [Jul 22, 2024](/content/2024/07/22/README.md)
 
@@ -22,7 +22,7 @@
 
 ### Scripts / Google
 
-*   [Share Google Slides Control (⭐0)](https://github.com/LostInBrittany/share-google-slides-control) - Remotely share the control of a Google Slides presentation,
+*   [Share Google Slides Control (⭐2)](https://github.com/LostInBrittany/share-google-slides-control) - Remotely share the control of a Google Slides presentation,
 
 ## [May 23, 2024](/content/2024/05/23/README.md)
 
@@ -48,18 +48,18 @@
 
 ### Scripts / GitHub
 
-*   [GitHub Commit Diff (⭐336)](https://github.com/jerone/UserScripts/tree/master/Github_Commit_Diff#readme) - Adds button to show diff (or patch) file for commit.
-*   [GitHub News Feed Filter (⭐336)](https://github.com/jerone/UserScripts/tree/master/Github_News_Feed_Filter#readme) - Add filters for Github homepage news feed items.
-*   [GitHub Pages Linker (⭐336)](https://github.com/jerone/UserScripts/tree/master/Github_Pages_Linker#readme) - Add a link to Github Pages (gh-pages) when available.
-*   [GitHub Pull Request From Link (⭐336)](https://github.com/jerone/UserScripts/tree/master/Github_Pull_Request_From#readme) - Make pull request branches linkable.
-*   [GitHub Reply Comments (⭐336)](https://github.com/jerone/UserScripts/tree/master/Github_Reply_Comments#readme) - Easy reply to Github comments.
+*   [GitHub Commit Diff (⭐341)](https://github.com/jerone/UserScripts/tree/master/Github_Commit_Diff#readme) - Adds button to show diff (or patch) file for commit.
+*   [GitHub News Feed Filter (⭐341)](https://github.com/jerone/UserScripts/tree/master/Github_News_Feed_Filter#readme) - Add filters for Github homepage news feed items.
+*   [GitHub Pages Linker (⭐341)](https://github.com/jerone/UserScripts/tree/master/Github_Pages_Linker#readme) - Add a link to Github Pages (gh-pages) when available.
+*   [GitHub Pull Request From Link (⭐341)](https://github.com/jerone/UserScripts/tree/master/Github_Pull_Request_From#readme) - Make pull request branches linkable.
+*   [GitHub Reply Comments (⭐341)](https://github.com/jerone/UserScripts/tree/master/Github_Reply_Comments#readme) - Easy reply to Github comments.
 *   [GitHub Skip Delete Repo Verification](https://greasyfork.org/en/scripts/411790-skip-delete-repo-verification) - Skips the verification step when deleting a repository.
 
 ## [Aug 19, 2023](/content/2023/08/19/README.md)
 
 ### Scripts / GitHub
 
-*   [GitHub Star History (⭐7)](https://github.com/adamlui/github-star-history) - Adds star history chart to every repo's sidebar.
+*   [GitHub Star History (⭐9)](https://github.com/adamlui/github-star-history) - Adds star history chart to every repo's sidebar.
 
 ## [Aug 03, 2023](/content/2023/08/03/README.md)
 
@@ -73,8 +73,8 @@
 
 ### Scripts / ChatGPT
 
-*   [ChatGPT Infinity](https://chatgptinfinity.com) - Generate endless answers from all-knowing ChatGPT (in any language!)
-*   [ChatGPT Widescreen Mode](https://chatgptwidescreen.com) - Adds Widescreen + Fullscreen modes to ChatGPT + Poe.
+*   [ChatGPT Infinity](https://chatgptinfinity.com) - Generate endless answers from all-knowing ChatGPT (on any topic!)
+*   [ChatGPT Widescreen Mode](https://chatgptwidescreen.com) - Enhances ChatGPT with wide/full/tall-screen + spamblock modes. Also works on perplexity.ai + poe.com!
 
 ## [Apr 04, 2023](/content/2023/04/04/README.md)
 
@@ -96,7 +96,7 @@
 
 ### Scripts / Privacy
 
-*   [Autoclear ChatGPT History (⭐40)](https://github.com/adamlui/autoclear-chatgpt-history/tree/main/greasemonkey) - Auto-clears chat history when visiting chat.openai.com for maximum privacy.
+*   [Autoclear ChatGPT History (⭐47)](https://github.com/adamlui/autoclear-chatgpt-history/tree/main/greasemonkey) - Auto-clears chat history when visiting chat.openai.com for maximum privacy.
 
 ### Tutorials / YouTube
 
@@ -106,7 +106,7 @@
 
 ### Scripts / Ads
 
-*   [AntiAdware (⭐202)](https://github.com/handyuserscripts/antiadware) - Remove forced download accelerators, managers, and adware on supported websites.
+*   [AntiAdware (⭐211)](https://github.com/handyuserscripts/antiadware) - Remove forced download accelerators, managers, and adware on supported websites.
 
 ## [Mar 30, 2022](/content/2022/03/30/README.md)
 
@@ -124,7 +124,7 @@
 
 ### Scripts / YouTube
 
-*   [Hide YouTube recommendations (⭐19)](https://github.com/artli/hide-youtube-recommendations) - Hides the thumbnails and titles of the recommended videos to reduce distraction and procrastination.
+*   [Hide YouTube recommendations (⭐24)](https://github.com/artli/hide-youtube-recommendations) - Hides the thumbnails and titles of the recommended videos to reduce distraction and procrastination.
 
 ## [Feb 03, 2020](/content/2020/02/03/README.md)
 
@@ -132,7 +132,7 @@
 
 *   [Greasemonkey](http://www.greasespot.net/) - Firefox
     *   Supports GM 4 userscripts.
-*   [Greasemonkey for Pale Moon (⭐90)](https://github.com/janekptacijarabaci/greasemonkey/releases) - Pale Moon
+*   [Greasemonkey for Pale Moon (⭐91)](https://github.com/janekptacijarabaci/greasemonkey/releases) - Pale Moon
     *   Supports GM 3 userscripts.
 *   [Firemonkey](https://addons.mozilla.org/firefox/addon/firemonkey/) - Firefox
     *   Supports GM 4 userscripts and some GM 3 userscripts.
@@ -168,7 +168,7 @@
 *   [Endless Google](https://openuserjs.org/scripts/tumpio/Endless_Google) -  Load more results automatically and endlessly.
 *   [Google Images direct link](https://greasyfork.org/scripts/3187-google-images-direct-link) - Adds direct links to images and pages in google image search.
 *   [Google Translate Keyboard Shortcut (⭐8)](https://github.com/Greenek/google-translate-keyboard-shortcut-userscript) - Adds keyboard shortcut for quick swapping between active languages.
-*   [Reddit Search On Google (⭐86)](https://github.com/marioortizmanero/reddit-search-on-google) - Adds a button to your Google searches to show only Reddit posts.
+*   [Reddit Search On Google (⭐94)](https://github.com/marioortizmanero/reddit-search-on-google) - Adds a button to your Google searches to show only Reddit posts.
 
 ### Scripts / Media
 
@@ -189,17 +189,17 @@
 
 ### Scripts / GitHub
 
-*   [GitHub Commit Whitespace (⭐336)](https://github.com/jerone/UserScripts/tree/master/Github_Commit_Whitespace#readme) - Adds button to hide whitespace diffs from commits.
-*   [GitHub Image Viewer (⭐336)](https://github.com/jerone/UserScripts/tree/master/Github_Image_Viewer#readme) - Preview images from within the file listing.
-*   [GitHub User Info (⭐336)](https://github.com/jerone/UserScripts/tree/master/Github_User_Info#readme) - Show user information on avatar hover.
+*   [GitHub Commit Whitespace (⭐341)](https://github.com/jerone/UserScripts/tree/master/Github_Commit_Whitespace#readme) - Adds button to hide whitespace diffs from commits.
+*   [GitHub Image Viewer (⭐341)](https://github.com/jerone/UserScripts/tree/master/Github_Image_Viewer#readme) - Preview images from within the file listing.
+*   [GitHub User Info (⭐341)](https://github.com/jerone/UserScripts/tree/master/Github_User_Info#readme) - Show user information on avatar hover.
 
 ## [May 19, 2017](/content/2017/05/19/README.md)
 
 ### Scripts / GitHub
 
 *   [Gist to dabblet (⭐1.8k)](https://github.com/Mottie/GitHub-userscripts/wiki/Gist-to-dabblet) - Add a Dabblet link to Gists saved from Dabblet.
-*   [GitHub Custom Emojis (⭐72)](https://github.com/StylishThemes/GitHub-Custom-Emojis) - Add custom emojis anywhere on GitHub.
-*   [GitHub Dark Script (⭐550)](https://github.com/StylishThemes/GitHub-Dark-Script) - Apply the [GitHub-Dark (⭐9.6k)](https://github.com/StylishThemes/GitHub-Dark) style to the site.
+*   [GitHub Custom Emojis (⭐74)](https://github.com/StylishThemes/GitHub-Custom-Emojis) - Add custom emojis anywhere on GitHub.
+*   [GitHub Dark Script (⭐549)](https://github.com/StylishThemes/GitHub-Dark-Script) - Apply the [GitHub-Dark (⭐9.7k)](https://github.com/StylishThemes/GitHub-Dark) style to the site.
 *   [GitHub code colors (⭐1.8k)](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-code-colors) - Add a color swatch preview to code.
 *   [GitHub code folding (⭐1.8k)](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-code-folding) - Add code folding to files.
 *   [GitHub code guides (⭐1.8k)](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-code-guides) - Add code guides to files and diffs.
@@ -231,12 +231,6 @@
 ### Community / YouTube
 
 *   [`r/userscripts` on Reddit](https://www.reddit.com/r/userscripts/)
-
-## [Aug 05, 2016](/content/2016/08/05/README.md)
-
-### Scripts / YouTube
-
-*   [YouTube Subtitle Download (⭐805)](https://github.com/1c7/Youtube-Auto-Subtitle-Download) - Adds links to download video subtitles.
 
 ## [Jul 31, 2016](/content/2016/07/31/README.md)
 

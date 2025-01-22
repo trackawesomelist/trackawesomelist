@@ -98,7 +98,7 @@
 
 ### Components / Themes
 
-*   [react-lz-editor (⭐942)](https://github.com/leejaen/react-lz-editor) - An open source rich react editor based on draft-Js and ant design.
+*   [react-lz-editor (⭐951)](https://github.com/leejaen/react-lz-editor) - An open source rich react editor based on draft-Js and ant design.
 
 ## [10. Tips](/content/git-tips/tips/README.md)
 

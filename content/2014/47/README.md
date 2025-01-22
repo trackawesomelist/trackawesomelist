@@ -27,7 +27,7 @@
 
 ### GIS
 
-*   [NetTopologySuite (⭐1.4k)](https://github.com/NetTopologySuite/NetTopologySuite/)  A .NET GIS solution that is fast and reliable for the .NET platform
+*   [NetTopologySuite (⭐1.5k)](https://github.com/NetTopologySuite/NetTopologySuite/)  A .NET GIS solution that is fast and reliable for the .NET platform
 
 ## [4. Es6 Tools](/content/addyosmani/es6-tools/week/README.md)
 
@@ -89,10 +89,10 @@
 ### Metaprogramming
 
 *   **Syntax Extensions**:
-    *   [ppx\_import (⭐87)](https://github.com/ocaml-ppx/ppx_import) – Import is a syntax extension that allows to pull in types or signatures from other compiled interface files.
+    *   [ppx\_import (⭐89)](https://github.com/ocaml-ppx/ppx_import) – Import is a syntax extension that allows to pull in types or signatures from other compiled interface files.
     *   [ppx\_string\_interpolate (⭐21)](https://github.com/sheijk/ppx_string_interpolate) – A simple ppx filter to support string interpolation like `[%str "value of foo is $(foo)"]`.
     *   [ppx\_monad (⭐7)](https://github.com/rizo/ppx_monad) – Monad syntax extension for OCaml.
-    *   [ppx\_deriving\_yojson (⭐154)](https://github.com/whitequark/ppx_deriving_yojson) – A Yojson codec generator for OCaml.
+    *   [ppx\_deriving\_yojson (⭐157)](https://github.com/whitequark/ppx_deriving_yojson) – A Yojson codec generator for OCaml.
 
 ## [8. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
@@ -114,15 +114,15 @@
 
 ### JSON
 
-*   [JsonCpp (⭐8k)](https://github.com/open-source-parsers/jsoncpp) - A C++ library for interacting with JSON. \[MIT]
+*   [JsonCpp (⭐8.3k)](https://github.com/open-source-parsers/jsoncpp) - A C++ library for interacting with JSON. \[MIT]
 
 ### Serial Port
 
-*   [Serial Communication Library (⭐2.1k)](https://github.com/wjwwood/serial) - Cross-platform, Serial Port library written in C++. \[MIT] [website](http://wjwwood.io/serial/)
+*   [Serial Communication Library (⭐2.2k)](https://github.com/wjwwood/serial) - Cross-platform, Serial Port library written in C++. \[MIT] [website](http://wjwwood.io/serial/)
 
 ### Miscellaneous
 
-*   [QtVerbalExpressions (⭐63)](https://github.com/VerbalExpressions/QtVerbalExpressions) - This Qt lib is based off of the C++ VerbalExpressions library. \[MIT]
+*   [QtVerbalExpressions (⭐64)](https://github.com/VerbalExpressions/QtVerbalExpressions) - This Qt lib is based off of the C++ VerbalExpressions library. \[MIT]
 *   [sigslot](http://sigslot.sourceforge.net/) - C++ Signal/Slot Library. \[PublicDomain]
 *   [ZXing (⭐33k)](https://github.com/zxing/zxing/) - An open-source, multi-format 1D/2D barcode image processing library implemented in Java, with ports to other languages. \[Apache]
 
@@ -138,9 +138,9 @@
 
 ### Algorithms and Data structures
 
-*   [bloomex (⭐113)](https://github.com/gmcabrita/bloomex) - A pure Elixir implementation of Scalable Bloom Filters.
+*   [bloomex (⭐112)](https://github.com/gmcabrita/bloomex) - A pure Elixir implementation of Scalable Bloom Filters.
 *   [ezcryptex (⭐0)](https://github.com/stocks29/ezcryptex) - Thin layer on top of Cryptex.
-*   [murmur (⭐40)](https://github.com/gmcabrita/murmur) - A pure Elixir implementation of the non-cryptographic hash Murmur3.
+*   [murmur (⭐39)](https://github.com/gmcabrita/murmur) - A pure Elixir implementation of the non-cryptographic hash Murmur3.
 *   [sfmt (⭐70)](https://github.com/jj1bdx/sfmt-erlang/) - SIMD-oriented Fast Mersenne Twister (SFMT) for Erlang.
 *   [tinymt (⭐26)](https://github.com/jj1bdx/tinymt-erlang/) - Tiny Mersenne Twister (TinyMT) for Erlang.
 
@@ -154,7 +154,7 @@
 
 ### Documentation
 
-*   [ex\_doc (⭐1.4k)](https://github.com/elixir-lang/ex_doc) - ExDoc is a tool to generate documentation for your Elixir projects.
+*   [ex\_doc (⭐1.5k)](https://github.com/elixir-lang/ex_doc) - ExDoc is a tool to generate documentation for your Elixir projects.
 
 ### Framework Components
 
@@ -170,11 +170,11 @@
 
 ### Logging
 
-*   [syslog (⭐87)](https://github.com/Vagabond/erlang-syslog) - Erlang port driver for interacting with syslog via syslog(3).
+*   [syslog (⭐86)](https://github.com/Vagabond/erlang-syslog) - Erlang port driver for interacting with syslog via syslog(3).
 
 ### Macros
 
-*   [pipes (⭐327)](https://github.com/batate/elixir-pipes) - Macros for more flexible composition with the Elixir Pipe operator.
+*   [pipes (⭐325)](https://github.com/batate/elixir-pipes) - Macros for more flexible composition with the Elixir Pipe operator.
 
 ### Markdown
 
@@ -189,7 +189,7 @@
 
 ### ORM and Datamapping
 
-*   [diver (⭐49)](https://github.com/novabyte/diver) - A HBase driver for Erlang/Elixir using Jinterface and the Asynchbase Java client to query the database.
+*   [diver (⭐50)](https://github.com/novabyte/diver) - A HBase driver for Erlang/Elixir using Jinterface and the Asynchbase Java client to query the database.
 
 ### PDF
 
@@ -207,15 +207,15 @@
 ### Testing
 
 *   [blitzy (⭐84)](https://github.com/benjamintanweihao/blitzy) - A simple HTTP load tester in Elixir.
-*   [katt (⭐118)](https://github.com/for-GET/katt) - KATT (Klarna API Testing Tool) is an HTTP-based API testing tool for Erlang.
-*   [kovacs (⭐5)](https://github.com/antp/kovacs) - A simple ExUnit test runner.
-*   [ponos (⭐158)](https://github.com/klarna/ponos) - Ponos is an Erlang application that exposes a flexible load generator API.
+*   [katt (⭐119)](https://github.com/for-GET/katt) - KATT (Klarna API Testing Tool) is an HTTP-based API testing tool for Erlang.
+*   [kovacs (⭐4)](https://github.com/antp/kovacs) - A simple ExUnit test runner.
+*   [ponos (⭐157)](https://github.com/klarna/ponos) - Ponos is an Erlang application that exposes a flexible load generator API.
 *   [shouldi (⭐135)](https://github.com/batate/shouldi) - Elixir testing libraries with nested contexts, superior readability, and ease of use.
 
 ### Text and Numbers
 
 *   [elixilorem (⭐10)](https://github.com/mgamini/elixilorem) - Lorem Ipsum generator for Elixir.
-*   [hashids (⭐278)](https://github.com/alco/hashids-elixir) - Hashids lets you obfuscate numerical identifiers via reversible mapping.
+*   [hashids (⭐280)](https://github.com/alco/hashids-elixir) - Hashids lets you obfuscate numerical identifiers via reversible mapping.
 *   [ltsvex (⭐10)](https://github.com/ma2gedev/ltsvex) - LTSV parser implementation in Elixir.
 *   [pretty\_hex (⭐7)](https://github.com/polsab/pretty_hex) - A binary hex dumping library in Elixir.
 

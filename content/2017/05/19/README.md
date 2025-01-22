@@ -17,8 +17,8 @@
 ### Scripts / GitHub
 
 *   [Gist to dabblet (⭐1.8k)](https://github.com/Mottie/GitHub-userscripts/wiki/Gist-to-dabblet) - Add a Dabblet link to Gists saved from Dabblet.
-*   [GitHub Custom Emojis (⭐72)](https://github.com/StylishThemes/GitHub-Custom-Emojis) - Add custom emojis anywhere on GitHub.
-*   [GitHub Dark Script (⭐550)](https://github.com/StylishThemes/GitHub-Dark-Script) - Apply the [GitHub-Dark (⭐9.6k)](https://github.com/StylishThemes/GitHub-Dark) style to the site.
+*   [GitHub Custom Emojis (⭐74)](https://github.com/StylishThemes/GitHub-Custom-Emojis) - Add custom emojis anywhere on GitHub.
+*   [GitHub Dark Script (⭐549)](https://github.com/StylishThemes/GitHub-Dark-Script) - Apply the [GitHub-Dark (⭐9.7k)](https://github.com/StylishThemes/GitHub-Dark) style to the site.
 *   [GitHub code colors (⭐1.8k)](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-code-colors) - Add a color swatch preview to code.
 *   [GitHub code folding (⭐1.8k)](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-code-folding) - Add code folding to files.
 *   [GitHub code guides (⭐1.8k)](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-code-guides) - Add code guides to files and diffs.
@@ -61,7 +61,7 @@
 
 ### Registry
 
-*   [verdaccio (⭐15k)](https://github.com/verdaccio/verdaccio) - Lightweight private npm proxy registry.
+*   [verdaccio (⭐16k)](https://github.com/verdaccio/verdaccio) - Lightweight private npm proxy registry.
 
 ## [6. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 

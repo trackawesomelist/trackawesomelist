@@ -20,7 +20,7 @@
 
 ### Installation Media / Discovery
 
-*   [nix-installer (⭐1.9k)](https://github.com/DeterminateSystems/nix-installer) - Opinionated alternative to the official Nix install scripts.
+*   [nix-installer (⭐2.5k)](https://github.com/DeterminateSystems/nix-installer) - Opinionated alternative to the official Nix install scripts.
 
 ## [3. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 
@@ -45,13 +45,19 @@
 
 *   [State Hasn't Changed? Why and when Blazor components re-render](https://jonhilton.net/blazor-rendering/) - April 12, 2023 - Sooner or later, as you build out your Blazor UI, you’re going to hit a situation where your component isn’t re-rendering when you expect it to.
 
-## [6. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+## [6. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+### Git / Diagnostics
+
+*   [aaronhallaert/advanced-git-search.nvim (⭐348)](https://github.com/aaronhallaert/advanced-git-search.nvim) - Search your Git history by commit content, message and author with Telescope.
+
+## [7. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
 ### Copilot
 
 *   [Turbopilot (⭐3.8k)](https://github.com/ravenscroftj/turbopilot) - \[Archived] Turbopilot is an open source large-language-model based code completion engine that runs locally on CPU.
 
-## [7. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [8. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### C bindings
 
@@ -61,14 +67,14 @@
 
 *   [novika (⭐15)](https://github.com/novika-lang/novika) - A free-form, moldable, interpreted programming language
 
-## [8. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [9. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Game development
 
 *   Skillratings
-    *   [atomflunder/skillratings (⭐40)](https://github.com/atomflunder/skillratings) \[[skillratings](https://crates.io/crates/skillratings)] - Collection of skill rating algorithms for multiplayer games like Elo, Glicko-2, TrueSkill etc. [![crates.io badge](https://img.shields.io/crates/v/skillratings)](https://crates.io/crates/skillratings) [![CI](https://github.com/atomflunder/skillratings/actions/workflows/ci.yml/badge.svg)](https://github.com/atomflunder/skillratings/actions/workflows/ci.yml)
+    *   [atomflunder/skillratings (⭐51)](https://github.com/atomflunder/skillratings) \[[skillratings](https://crates.io/crates/skillratings)] - Collection of skill rating algorithms for multiplayer games like Elo, Glicko-2, TrueSkill etc. [![crates.io badge](https://img.shields.io/crates/v/skillratings)](https://crates.io/crates/skillratings) [![CI](https://github.com/atomflunder/skillratings/actions/workflows/ci.yml/badge.svg)](https://github.com/atomflunder/skillratings/actions/workflows/ci.yml)
 
-## [9. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+## [10. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ### Integration Patterns / Integration Architecture Patterns
 
@@ -80,7 +86,6 @@
 
 ### Resources / Certifications
 
-*   [API Designer](https://apiacademy.learnupon.com/) - Validate your understanding of API design basics and best practices.
 *   [IBM Certified Solution Developer – App Connect Enterprise V11](https://www.ibm.com/training/certification/C0003107#exam) - Validate your intermediate-level knowledge and experience to develop, deploy, tune, and support platform-independent message flow applications using IBM App Connect V11.0.
 *   [Event-native API Management Foundations](https://gravitee.getlearnworlds.com/course/gravitee-event-native-api-management-foundations) - Basics of Event-native API Management.
 *   [Kong Gateway Certified Associate](https://konghq.com/academy/exam-preparation) - Validate your entry-level knowledge and skills on Kong Gateway for developers, DevOps, and architects.
@@ -89,45 +94,45 @@
 *   [Red Hat Certified Specialist in API Management](https://www.redhat.com/en/services/certification/red-hat-certified-specialist-api-management) - Validates the ability to create and maintain enterprise APIs using the Red Hat 3scale API Management platform.
 *   [TIBCO BusinessWorks Associate](https://www.tibco.com/services/education/certification/tibco-businessworks-associate-certification-exam) - Checks the understanding of Business Studio and TIBCO Cloud Integration, designing application components (modules, WSDL, REST API), developing integration applications, and testing, deploying, and managing applications.
 
-## [10. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [11. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Misc
 
 *   [lpicanco/krate](https://lpicanco.github.io/krate) - Krate is a rate limiter library designed specifically for Kotlin applications. In memory, Redis and Caffeine support.
 
-## [11. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
+## [12. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
 
 ### Tools & Software / Utilities
 
 *   [Warchaeology](https://nlnwa.github.io/warchaeology/) - Warchaeology is a collection of tools for inspecting, manipulating, deduplicating and validating WARC-files. *Stable*
 *   [warcrefs (⭐6)](https://github.com/arcalex/warcrefs) - Web archive deduplication tools. *Stable*
 
-## [12. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md)
+## [13. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md)
 
 ### Meshing / Triangular and tetrahedral meshing
 
-*   [pygalmesh (⭐528)](https://github.com/meshpro/pygalmesh) - Python interface for CGAL's 3D meshing capabilities.
+*   [pygalmesh (⭐600)](https://github.com/meshpro/pygalmesh) - Python interface for CGAL's 3D meshing capabilities.
     (Python, GPL 3, GitHub)
-*   [dmsh (⭐201)](https://github.com/meshpro/dmsh) - Simple generator for unstructured triangular meshes, inspired by distmesh.
+*   [dmsh (⭐210)](https://github.com/meshpro/dmsh) - Simple generator for unstructured triangular meshes, inspired by distmesh.
     (Python, proprietary, GitHub)
 
 ### Meshing / Mesh tools
 
-*   [optimesh (⭐550)](https://github.com/meshpro/optimesh) - Triangular mesh smoothing.
+*   [optimesh (⭐580)](https://github.com/meshpro/optimesh) - Triangular mesh smoothing.
     (Python, proprietary, GitHub)
 *   [meshplex (⭐104)](https://github.com/meshpro/meshplex) - Fast tools for simplex meshes.
     (Python, proprietary, GitHub)
 
 ### Other libraries and tools / Mesh tools
 
-*   [quadpy (⭐750)](https://github.com/sigma-py/quadpy) - Numerical integration (quadrature, cubature) in Python.
+*   [quadpy (⭐765)](https://github.com/sigma-py/quadpy) - Numerical integration (quadrature, cubature) in Python.
     (Python, proprietary, GitHub)
-*   [accupy (⭐101)](https://github.com/sigma-py/accupy) - Accurate sums and dot products for Python.
+*   [accupy (⭐104)](https://github.com/sigma-py/accupy) - Accurate sums and dot products for Python.
     (Python, GPL 3, GitHub)
-*   [orthopy (⭐179)](https://github.com/sigma-py/orthopy) - Compute orthogonal polynomials efficiently.
+*   [orthopy (⭐182)](https://github.com/sigma-py/orthopy) - Compute orthogonal polynomials efficiently.
     (Python, proprietary, GitHub)
 
-## [13. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [14. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Managed Data Services
 
@@ -144,16 +149,6 @@
 ### Other Free Resources
 
 *   [Glob tester](https://globster.xyz/) — A website that allows you to design and test glob patterns. It also provides resources to learn glob patterns.
-
-## [14. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
-
-### Git / Diagnostics
-
-*   [aaronhallaert/advanced-git-search.nvim (⭐308)](https://github.com/aaronhallaert/advanced-git-search.nvim) - Search your git history by commit content, message and author with Telescope.
-
-### Editing Support / Diagnostics
-
-*   [chrisgrieser/nvim-alt-substitute (⭐42)](https://github.com/chrisgrieser/nvim-alt-substitute) - A substitute of vim's `:substitute` that uses Lua patterns instead of vim regex. Supports incremental preview.
 
 ---
 

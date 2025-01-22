@@ -172,8 +172,8 @@ Topics: Accessibility\
 
 ### GTFS Analysis Tools / Ruby
 
-*   [Peartree (⭐201)](https://github.com/kuanb/peartree) - A Python library for converting transit data into a directed graph for network analysis.
-*   [transitr (⭐21)](https://github.com/tmelliott/transitr) - An R package for constructing and modelling a transit network in real time to obtain vehicle ETAs
+*   [Peartree (⭐203)](https://github.com/kuanb/peartree) - A Python library for converting transit data into a directed graph for network analysis.
+*   [transitr (⭐22)](https://github.com/tmelliott/transitr) - An R package for constructing and modelling a transit network in real time to obtain vehicle ETAs
 
 ## [8. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
 
@@ -195,7 +195,7 @@ Topics: Accessibility\
 
 ### Intermediate
 
-#### [1 Million Women To Tech Summer of Code (⭐621)](https://github.com/1millionwomentotech/toolkitten/tree/master/summer-of-code)
+#### [1 Million Women To Tech Summer of Code (⭐622)](https://github.com/1millionwomentotech/toolkitten/tree/master/summer-of-code)
 
 **Free** programming course material for beginner, intermediate and advanced levels\
 *(Python, JavaScript, Data Science, artificial intelligence, machine learning, AR & VR)*
@@ -253,11 +253,11 @@ Topics: Accessibility\
 
 ## [14. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
-### Phone Number Research / Telegram
+### Phone Number Research / Steam
 
 *   [Phone Validator](https://www.phonevalidator.com/index.aspx) - Pretty accurate phone lookup service, particularly good against Google Voice numbers.
 
-### Other Tools / Telegram
+### Other Tools / Steam
 
 *   [Photon (⭐11k)](https://github.com/s0md3v/Photon) - Crawler designed for OSINT
 

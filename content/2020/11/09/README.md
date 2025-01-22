@@ -48,7 +48,7 @@
 
 ### Third-Party Packages / Forms
 
-*   [django-formtools (⭐789)](https://github.com/jazzband/django-formtools) - For form previous and multi-step forms, previously part of Django until 1.8.
+*   [django-formtools (⭐826)](https://github.com/jazzband/django-formtools) - For form previous and multi-step forms, previously part of Django until 1.8.
 
 ## [8. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
 
@@ -60,13 +60,13 @@
 
 ### Algorithms and Data structures
 
-*   [flow (⭐1.5k)](https://github.com/dashbitco/flow) - Computational parallel flows on top of GenStage.
+*   [flow (⭐1.6k)](https://github.com/dashbitco/flow) - Computational parallel flows on top of GenStage.
 
 ## [10. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
 ### Plugins / Misc
 
-*   [Woke (⭐31)](https://github.com/amwmedia/eslint-plugin-woke) - Helps catch insensitive words, promoting an inclusive codebase.
+*   [Woke (⭐33)](https://github.com/amwmedia/eslint-plugin-woke) - Helps catch insensitive words, promoting an inclusive codebase.
 
 ## [11. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
@@ -84,9 +84,9 @@
 *   [Office 365 Wardley Mapping Templates](https://blogs.endjin.com/2020/03/office365-wardley-mapping-templates/) - Templates for Microsoft Visio and PowerPoint.
 *   [Miro Wardley Mapping Template](https://miro.com/blog/wardley-maps-whiteboard-canvas/) - How-to guide on mapping using this template.
 *   [Figma Mapping Template](https://community.wardleymaps.com/t/figma-mapping-template/487) - A mapping template for Figma.
-*   [wardley-omnigraffle (⭐18)](https://github.com/harrylove/wardley-omnigraffle) - Wardley mapping stencils for OmniGraffle.
+*   [wardley-omnigraffle (⭐19)](https://github.com/harrylove/wardley-omnigraffle) - Wardley mapping stencils for OmniGraffle.
 *   [Wardley Maps in LaTeX (⭐4)](https://github.com/latticecut/Wardley_Chapter2_Finding_a_path) - Figures 8 and 11 from the book by Simon Wardley to demonstrate drawing Wardley maps in LaTeX.
-*   [yEd Palette (⭐12)](https://github.com/colugo/yed-wardley) - Wardley maps palette for yEd.
+*   [yEd Palette (⭐14)](https://github.com/colugo/yed-wardley) - Wardley maps palette for yEd.
 
 ### Doctrine Assessement / ChatGPT
 
@@ -100,7 +100,7 @@
 
 ### 2D/3D Rendering engines / CSS
 
-*   [BlazorAnimation (⭐129)](https://github.com/aboudoux/BlazorAnimation) - ![stars](https://img.shields.io/github/stars/aboudoux/BlazorAnimation?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/aboudoux/BlazorAnimation?style=flat-square\&cacheSeconds=86400) A Blazor component based on animate.css to easly animate your content. [Demo](http://blazoranimation.boudoux.fr/).
+*   [BlazorAnimation (⭐134)](https://github.com/aboudoux/BlazorAnimation) - ![stars](https://img.shields.io/github/stars/aboudoux/BlazorAnimation?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/aboudoux/BlazorAnimation?style=flat-square\&cacheSeconds=86400) A Blazor component based on animate.css to easly animate your content. [Demo](http://blazoranimation.boudoux.fr/).
 
 ## [13. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
 

@@ -16,7 +16,7 @@
 
 ### Actors
 
-*   [alf (⭐190)](https://github.com/antonmi/ALF) - Flow-based Application Layer Framework.
+*   [alf (⭐202)](https://github.com/antonmi/ALF) - Flow-based Application Layer Framework.
 
 ### Algorithms and Data structures
 
@@ -24,7 +24,7 @@
 
 ### Applications
 
-*   [Igthorn (⭐97)](https://github.com/cinderella-man/igthorn) - Cryptocurrecy trading platform / trading bot with admin panel.
+*   [Igthorn (⭐103)](https://github.com/cinderella-man/igthorn) - Cryptocurrecy trading platform / trading bot with admin panel.
 
 ### Benchmarking
 
@@ -40,25 +40,25 @@
 
 ### Games
 
-*   [pictionary (⭐30)](https://github.com/Arp-G/pictionary) - A multiplayer guessing and drawing game ([skribbl.io](https://skribbl.io/) clone).
-*   [rayex (⭐41)](https://github.com/shiryel/rayex) - Raylib bindings to Elixir for games programming.
+*   [pictionary (⭐32)](https://github.com/Arp-G/pictionary) - A multiplayer guessing and drawing game ([skribbl.io](https://skribbl.io/) clone).
+*   [rayex (⭐52)](https://github.com/shiryel/rayex) - Raylib bindings to Elixir for games programming.
 *   [Rovex (⭐14)](https://github.com/emadb/rovex) - An implementation of the Mars Rover kata in Elixir transformed in a basic multiplayer game.
 
 ### HTTP
 
-*   [SpiderMan (⭐22)](https://github.com/feng19/spider_man) - A base-on Broadway fast high-level web crawling & scraping framework for Elixir.
+*   [SpiderMan (⭐24)](https://github.com/feng19/spider_man) - A base-on Broadway fast high-level web crawling & scraping framework for Elixir.
 
 ### Instrumenting / Monitoring
 
-*   [prom\_ex (⭐582)](https://github.com/akoutmos/prom_ex) - Prometheus metrics and Grafana dashboards for all of your favorite Elixir libraries.
+*   [prom\_ex (⭐627)](https://github.com/akoutmos/prom_ex) - Prometheus metrics and Grafana dashboards for all of your favorite Elixir libraries.
 
 ### Macros
 
-*   [typed\_struct (⭐727)](https://github.com/ejpcmac/typed_struct) - An Elixir library for defining structs with a type without writing boilerplate code.
+*   [typed\_struct (⭐737)](https://github.com/ejpcmac/typed_struct) - An Elixir library for defining structs with a type without writing boilerplate code.
 
 ### Miscellaneous
 
-*   [indicado (⭐32)](https://github.com/thisiscetin/indicado) - Technical indicator library for Elixir with no dependencies.
+*   [indicado (⭐37)](https://github.com/thisiscetin/indicado) - Technical indicator library for Elixir with no dependencies.
 
 ### Networking
 
@@ -66,23 +66,23 @@
 
 ### Queue
 
-*   [faktory\_worker (⭐36)](https://github.com/opt-elixir/faktory_worker) - An Elixir library for working with [Faktory](https://contribsys.com/faktory/), a polyglot job processing system made by the author of Sidekiq.
+*   [faktory\_worker (⭐38)](https://github.com/opt-elixir/faktory_worker) - An Elixir library for working with [Faktory](https://contribsys.com/faktory/), a polyglot job processing system made by the author of Sidekiq.
 
 ### QUIC
 
-*   [quicer (⭐212)](https://github.com/emqx/quic) - QUIC protocol erlang library.
+*   [quicer (⭐230)](https://github.com/emqx/quic) - QUIC protocol erlang library.
 
 ### Release Management
 
-*   [versioce (⭐29)](https://github.com/mpanarin/versioce) - An extensible version bumping and changelog generation for your mix project.
+*   [versioce (⭐30)](https://github.com/mpanarin/versioce) - An extensible version bumping and changelog generation for your mix project.
 
 ### Search
 
-*   [elasticlunr (⭐189)](https://github.com/heywhy/ex_elasticlunr) - A small, full-text search library for use in the Elixir environment.
+*   [elasticlunr (⭐191)](https://github.com/heywhy/ex_elasticlunr) - A small, full-text search library for use in the Elixir environment.
 
 ### Testing
 
-*   [patch (⭐187)](https://github.com/ihumanable/patch) - Ergonomic Mocking for Elixir.
+*   [patch (⭐197)](https://github.com/ihumanable/patch) - Ergonomic Mocking for Elixir.
 *   [toxiproxy\_ex (⭐52)](https://github.com/Jcambass/toxiproxy_ex) - API client for the resilience testing tool Toxiproxy.
 
 ### Text and Numbers
@@ -91,7 +91,7 @@
 
 ### Third Party APIs
 
-*   [nacha (⭐14)](https://github.com/RiverFinancial/nacha) - Elixir library for generating and parsing NACHA files for US ACH transfers.
+*   [nacha (⭐15)](https://github.com/RiverFinancial/nacha) - Elixir library for generating and parsing NACHA files for US ACH transfers.
 
 ### Translations and Internationalizations
 
@@ -111,13 +111,13 @@
 
 ### Neovim Lua Development / Diagnostics
 
-*   [anuvyklack/animation.nvim (⭐43)](https://github.com/anuvyklack/animation.nvim) - Create animations.
+*   [anuvyklack/animation.nvim (⭐46)](https://github.com/anuvyklack/animation.nvim) - Create animations.
 
 ## [4. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Misc
 
-*   [SystemTextJson.JsonDiffPatch (⭐100)](https://github.com/weichch/system-text-json-jsondiffpatch) - High-performance, low-allocating JSON object diff and patch extension for System.Text.Json. Support generating patch document in RFC 6902 JSON Patch format.
+*   [SystemTextJson.JsonDiffPatch (⭐107)](https://github.com/weichch/system-text-json-jsondiffpatch) - High-performance, low-allocating JSON object diff and patch extension for System.Text.Json. Support generating patch document in RFC 6902 JSON Patch format.
 
 ## [5. Awesome Github Wiki](/content/MyHoneyBadger/awesome-github-wiki/README.md)
 

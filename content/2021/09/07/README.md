@@ -10,7 +10,7 @@
 
 ### Mathematics
 
-*   [Vim.Math3d (⭐101)](https://github.com/vimaec/math3d) - A feature-rich cross-platform replacement for System.Numerics with support for consistent serialization and binary layout, and additional structures and algorithms for efficient 3D Math.
+*   [Vim.Math3d (⭐114)](https://github.com/vimaec/math3d) - A feature-rich cross-platform replacement for System.Numerics with support for consistent serialization and binary layout, and additional structures and algorithms for efficient 3D Math.
 
 ## [2. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -34,11 +34,11 @@
 
 ### Software / Blogging Platforms
 
-*   [Haven](https://havenweb.org/) - Private blogging system with markdown editing and built in RSS reader. ([Demo](https://havenweb.org/demo.html), [Source Code (⭐631)](https://github.com/havenweb/haven)) `MIT` `Ruby`
+*   [Haven](https://havenweb.org/) - Private blogging system with markdown editing and built in RSS reader. ([Demo](https://havenweb.org/demo.html), [Source Code (⭐671)](https://github.com/havenweb/haven)) `MIT` `Ruby`
 
 ### Software / Communication - Email - Complete Solutions
 
-*   [Mailu](https://mailu.io/) - Mailu is a simple yet full-featured mail server as a set of Docker images. ([Source Code (⭐5.7k)](https://github.com/Mailu/Mailu)) `MIT` `Docker/Python`
+*   [Mailu](https://mailu.io/) - Mailu is a simple yet full-featured mail server as a set of Docker images. ([Source Code (⭐6.1k)](https://github.com/Mailu/Mailu)) `MIT` `Docker/Python`
 
 ## [6. Awesome Scala Native](/content/tindzk/awesome-scala-native/README.md)
 
@@ -116,13 +116,13 @@
 
 ### Authorization / RBAC frameworks
 
-*   [Cerbos (⭐2.9k)](https://github.com/cerbos/cerbos) - An authorization endpoint to write context-aware access control policies.
+*   [Cerbos (⭐3.1k)](https://github.com/cerbos/cerbos) - An authorization endpoint to write context-aware access control policies.
 
 ## [12. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
 
 ### Accounting / Bookkeeping
 
-*   [Go DB Ledger (⭐476)](https://github.com/darcys22/godbledger) - An open source accounting system that aims to make the recording of double entry bookkeeping transactions programmable.
+*   [Go DB Ledger (⭐490)](https://github.com/darcys22/godbledger) - An open source accounting system that aims to make the recording of double entry bookkeeping transactions programmable.
 
 ### Payments / Online Payments
 

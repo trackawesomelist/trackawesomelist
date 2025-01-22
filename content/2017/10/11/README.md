@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 11, 2017
 
-23 awesome lists updated today.
+22 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -22,7 +22,7 @@
 
 ### Software / Publishing , Collaboration and Organization
 
-*   [RapidPro (⭐831)](https://github.com/rapidpro/rapidpro) - An open-source platform for building scalable applications that users can interact with via SMS.
+*   [RapidPro (⭐854)](https://github.com/rapidpro/rapidpro) - An open-source platform for building scalable applications that users can interact with via SMS.
 
 ### Literature / Citizen Science Practice
 
@@ -64,14 +64,14 @@ Learn how to use R to turn raw data into insight, knowledge, and understanding. 
 
 ## [9. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 
-### Slideshows, talks and videos
+### Slideshows, talks and videos  (a-z↓)
 
-*   [Visual Regression Testing with Shoov](https://youtu.be/CBBiJ6YlXLc) - How to setup shoov and get your first test written.
-*   [Visual Regression Testing with PhantomCSS](https://youtu.be/Vp8vnXMjIfw) - Talk by Jon Bellah on how to use PhantomCSS during wordpress development.
-*   [Visual Regression Testing: Sanity Checks With BackstopJS](https://youtu.be/l8lGj8Zh0k4) - Screencast with code demo and best practices.
-*   [Screenster Tutorial](https://youtu.be/Zy8y_dGzZXI) - Tutorial on how to create visual automated tests with Screenster.
 *   [Look-alike - visual regression testing tool](https://youtu.be/vTyoQuC0To8) - Demo what the Look-alike Chrome extension is, how it works and how and why it was build.
 *   [Screencast on CSS critic - a lightweight testing framework for CSS](https://youtu.be/AqQ2bNPtF60) - How to write your first CSS test with CSS critic, make it pass, break it, and make it pass again.
+*   [Screenster Tutorial](https://youtu.be/Zy8y_dGzZXI) - Tutorial on how to create visual automated tests with Screenster.
+*   [Visual Regression Testing with PhantomCSS](https://youtu.be/Vp8vnXMjIfw) - Talk by Jon Bellah on how to use PhantomCSS during wordpress development.
+*   [Visual Regression Testing with Shoov](https://youtu.be/CBBiJ6YlXLc) - How to setup shoov and get your first test written.
+*   [Visual Regression Testing: Sanity Checks With BackstopJS](https://youtu.be/l8lGj8Zh0k4) - Screencast with code demo and best practices.
 
 ## [10. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
 
@@ -85,13 +85,7 @@ Learn how to use R to turn raw data into insight, knowledge, and understanding. 
 
 *   [XOD](https://xod.io/) \[Cross-platform] - Open source visual programming language and environment for microcontroller-based projects.
 
-## [12. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
-
-### Tools / Communication
-
-*   [Rocket.Chat](https://rocket.chat/) — The Ultimate Open Source WebChat Platform.
-
-## [13. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
+## [12. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
 
 ### Portugal 🇵🇹 / Lisbon
 
@@ -144,31 +138,31 @@ Notes:
 *   You get 45m of free wifi per day. More if you know what you're doing ;) (but $14/mo for wifi is worth it if you hack there often)
 *   Using IPFS will get you kicked off their network in \~2hr (FYI).
 
-## [14. Awesome Open Source Supporters](/content/zachflower/awesome-open-source-supporters/README.md)
+## [13. Awesome Open Source Supporters](/content/zachflower/awesome-open-source-supporters/README.md)
 
 ### Dependency Management
 
 *   [Greenkeeper](https://greenkeeper.io/) - Automated dependency management for NPM packages (on GitHub).
 
-## [15. Toolsforactivism](/content/drewrwilson/toolsforactivism/README.md)
+## [14. Toolsforactivism](/content/drewrwilson/toolsforactivism/README.md)
 
 ### Browsers:
 
 *   [Tor Browser (⭐450)](https://github.com/TheTorProject/gettorbrowser) - Free software for enabling anonymous communication. It prevents somebody watching your Internet connection from learning what sites you visit, it prevents the sites you visit from learning your physical location, and it lets you access sites which are blocked.
 
-## [16. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [15. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Community / Workflow
 
 *   [Slack](http://tattoocoder.com/aspnet-slack-sign-up)
 
-## [17. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [16. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Misc
 
 *   [SystemWrapper (⭐174)](https://github.com/jozefizso/SystemWrapper) - SystemWrapper is .NET library for easier testing of system APIs.
 
-## [18. Awesome Ava](/content/avajs/awesome-ava/README.md)
+## [17. Awesome Ava](/content/avajs/awesome-ava/README.md)
 
 ### Articles
 
@@ -178,7 +172,7 @@ Notes:
 
 *   [Testing React components with AVA](https://www.youtube.com/watch?v=RxLW6-3dk5A)
 
-## [19. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
+## [18. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### Closed Source / Other
 
@@ -188,13 +182,13 @@ Notes:
 
 *   [Cross-Platform Desktop Applications](https://www.manning.com/books/cross-platform-desktop-applications) 💲
 
-## [20. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
+## [19. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 
 ### Books
 
 *   [Introduction to Computer Graphics and the Vulkan API](https://www.amazon.com/Introduction-Computer-Graphics-Vulkan-API/dp/1548616176) by **Kenwright** - Introduce the reader to the exciting topic of computer graphics from a grounds-up practical perspective with the Vulkan API.
 
-## [21. Awesome Security](/content/sbilly/awesome-security/README.md)
+## [20. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Endpoint / Mobile / Android / iOS
 
@@ -204,7 +198,7 @@ Notes:
 
 *   [Usable Security Course](https://pt.coursera.org/learn/usable-security) - Usable Security course at coursera. Quite good for those looking for how security and usability intersects.
 
-## [22. Awesome4girls](/content/cristianoliveira/awesome4girls/README.md)
+## [21. Awesome4girls](/content/cristianoliveira/awesome4girls/README.md)
 
 ### Events/Meetups / Javascript
 
@@ -218,7 +212,7 @@ Notes:
 
     Ada Lovelace Day, a yearly holiday held on the second Tuesday in the month of October, is an international holiday to celebrate women in STEM fields. It is a day to celebrate contributions made in STEM fields by women, and to encourage other women to pursue those fields by raising awareness of those contributions. There is a main event, held in London, England, but anyone can celebrate ALD by organizing an event or sharing their own story online.
 
-## [23. Awesome Ssh](/content/moul/awesome-ssh/README.md)
+## [22. Awesome Ssh](/content/moul/awesome-ssh/README.md)
 
 ### Apps / *SSH*   agent
 

@@ -14,11 +14,11 @@
 
 ### Assets
 
-*   [Vite Ruby (⭐1.3k)](https://github.com/elmassimo/vite_ruby) - Use Vite.js as a modern assets pipeline in Ruby and Rails apps.
+*   [Vite Ruby (⭐1.4k)](https://github.com/elmassimo/vite_ruby) - Use Vite.js as a modern assets pipeline in Ruby and Rails apps.
 
 ### Automation
 
-*   [Neovim (⭐339)](https://github.com/alexgenco/neovim-ruby) - Ruby bindings for Neovim to make your own neovim editor plugins in Ruby.
+*   [Neovim (⭐345)](https://github.com/alexgenco/neovim-ruby) - Ruby bindings for Neovim to make your own neovim editor plugins in Ruby.
 
 ### Data Processing and ETL
 
@@ -26,29 +26,29 @@
 
 ### HTTP Clients and tools
 
-*   [Accept Language (⭐55)](https://github.com/cyril/accept_language.rb) - A tiny library for parsing the `Accept-Language` header from browsers (as defined in [RFC 2616](https://datatracker.ietf.org/doc/html/rfc2616#section-14.4)).
+*   [Accept Language (⭐58)](https://github.com/cyril/accept_language.rb) - A tiny library for parsing the `Accept-Language` header from browsers (as defined in [RFC 2616](https://datatracker.ietf.org/doc/html/rfc2616#section-14.4)).
 
 ## [2. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Testing / Barcode
 
-*   [Mussel (⭐73)](https://github.com/UrbanCompass/Mussel) - A framework for easily testing Push Notifications, Universal Links and Routing in XCUITests.
+*   [Mussel (⭐74)](https://github.com/UrbanCompass/Mussel) - A framework for easily testing Push Notifications, Universal Links and Routing in XCUITests.
 
 ## [3. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/README.md)
 
 ### Adapters / Server-side
 
 *   [CanJS (⭐14)](https://github.com/cherifGsoul/inertia-can)
-*   [Clojure (⭐94)](https://github.com/prestancedesign/inertia-clojure)
-*   [CodeIgniter (⭐23)](https://github.com/amiranagram/inertia-codeigniter-4)
-*   [Go (⭐162)](https://github.com/petaki/inertia-go)
-*   [PSR-15 (⭐32)](https://github.com/cherifGsoul/inertia-psr15)
+*   [Clojure (⭐97)](https://github.com/prestancedesign/inertia-clojure)
+*   [CodeIgniter (⭐28)](https://github.com/amiranagram/inertia-codeigniter-4)
+*   [Go (⭐211)](https://github.com/petaki/inertia-go)
+*   [PSR-15 (⭐42)](https://github.com/cherifGsoul/inertia-psr15)
 
 ## [4. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Search Engines
 
-*   [Whoogle (⭐9.3k)](https://github.com/benbusby/whoogle-search) `⚠` - A self-hosted, ad-free, privacy-respecting metasearch engine. `MIT` `Python`
+*   [Whoogle (⭐10k)](https://github.com/benbusby/whoogle-search) `⚠` - A self-hosted, ad-free, privacy-respecting metasearch engine. `MIT` `Python`
 
 ## [5. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
@@ -58,18 +58,18 @@
 
 ### Development / Discovery
 
-*   [devshell (⭐1.2k)](https://github.com/numtide/devshell) - `mkShell` with extra bits and a toml config option to be able to onboard non-nix users.
-*   [flake-utils (⭐1.1k)](https://github.com/numtide/flake-utils) - Pure Nix flake utility functions to help with writing flakes.
+*   [devshell (⭐1.3k)](https://github.com/numtide/devshell) - `mkShell` with extra bits and a toml config option to be able to onboard non-nix users.
+*   [flake-utils (⭐1.2k)](https://github.com/numtide/flake-utils) - Pure Nix flake utility functions to help with writing flakes.
 
 ## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Projects Using Vue.js / Open Source
 
-*   [XIV ToDo (⭐123)](https://github.com/bourgeoisor/xivtodo) - Dashboards, completion trackers, tailored weekly and daily checklists and tools for Final Fantasy XIV.
+*   [XIV ToDo (⭐130)](https://github.com/bourgeoisor/xivtodo) - Dashboards, completion trackers, tailored weekly and daily checklists and tools for Final Fantasy XIV.
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-tiny-validate (⭐136)](https://github.com/FrontLabsOfficial/vue-tiny-validate) - Tiny (2.5KB minified) Vue Validate Composition.
+*   [vue-tiny-validate (⭐138)](https://github.com/FrontLabsOfficial/vue-tiny-validate) - Tiny (2.5KB minified) Vue Validate Composition.
 
 ## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -87,7 +87,7 @@
 
 ### Types / Playground
 
-*   [nominal (⭐66)](https://github.com/Coder-Spirit/nominal) - nominal types & dependent types for Typescript.
+*   [nominal (⭐79)](https://github.com/Coder-Spirit/nominal) - nominal types & dependent types for Typescript.
 
 ---
 

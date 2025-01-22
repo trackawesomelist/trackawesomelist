@@ -76,7 +76,7 @@
 
 ### Awesome Repositories
 
-- Repository: [Hacking Resources (⭐15k)](https://github.com/vitalysim/Awesome-Hacking-Resources)
+- Repository: [Hacking Resources (⭐16k)](https://github.com/vitalysim/Awesome-Hacking-Resources)
 
   Description: Collection of hacking / penetration testing resources to make you better!
 

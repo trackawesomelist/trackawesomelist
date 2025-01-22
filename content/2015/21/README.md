@@ -10,7 +10,7 @@
 
 ### Books
 
-*   [cppbestpractices (⭐8k)](https://github.com/lefticus/cppbestpractices) - Collaborative Collection of C++ Best Practices.
+*   [cppbestpractices (⭐8.3k)](https://github.com/lefticus/cppbestpractices) - Collaborative Collection of C++ Best Practices.
 
 ## [2. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
@@ -62,7 +62,6 @@
 ### Favicon
 
 *   [favicon.cc](http://www.favicon.cc/)
-*   [iconogen](http://iconogen.com/)
 
 ### CSS
 
@@ -173,7 +172,7 @@
 
 ### Web Frameworks
 
-*   [gServ (⭐50)](https://github.com/javaConductor/gserv) - A Groovy toolkit for creating SPAs and REST based micro-services without the need for a container (Tomcat, JBoss, etc.).
+*   [gServ (⭐49)](https://github.com/javaConductor/gserv) - A Groovy toolkit for creating SPAs and REST based micro-services without the need for a container (Tomcat, JBoss, etc.).
 
 ## [16. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
@@ -185,7 +184,7 @@
 
 ### Table of Contents / E-commerce
 
-*   [OmniPay (⭐5.9k)](https://github.com/thephpleague/omnipay) - A framework agnostic multi-gateway payment processing library.
+*   [OmniPay (⭐6k)](https://github.com/thephpleague/omnipay) - A framework agnostic multi-gateway payment processing library.
 
 ## [18. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
 
@@ -221,7 +220,7 @@
 
 ### Packages / Templating
 
-*   [EJS (⭐7.7k)](https://github.com/mde/ejs) - Simple unopinionated templating language.
+*   [EJS (⭐7.8k)](https://github.com/mde/ejs) - Simple unopinionated templating language.
 
 ### Packages / Parsing
 

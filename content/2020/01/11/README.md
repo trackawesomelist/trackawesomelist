@@ -14,19 +14,19 @@
 
 ### HAL implementation crates / Microchip
 
-*   [`atsamd-hal`](https://crates.io/crates/atsamd-hal) - HAL for SAMD11, SAMD21, SAMD51 and SAME54 - ![crates.io](https://img.shields.io/crates/v/atsamd-hal.svg)
+*   [`atsamd-hal`](https://crates.io/crates/atsamd-hal) - HAL for SAMD11, SAMD21, SAMD51 and SAME54 - [![crates.io](https://img.shields.io/crates/v/atsamd-hal.svg)](https://crates.io/crates/atsamd-hal)
 
 ## [2. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
 ### Official Resources
 
 *   [Official Actions organization](https://github.com/actions)
-    *   [actions/virtual-environments (⭐6.8k)](https://github.com/actions/virtual-environments) - GitHub Actions virtual environments.
-    *   [actions/runner (⭐3.2k)](https://github.com/actions/runner) - The Runner for GitHub Actions.
+    *   [actions/virtual-environments (⭐9.8k)](https://github.com/actions/virtual-environments) - GitHub Actions virtual environments.
+    *   [actions/runner (⭐4.7k)](https://github.com/actions/runner) - The Runner for GitHub Actions.
 
 ### Create your Actions / JavaScript and TypeScript Actions
 
-*   [actions/http-client (⭐72)](https://github.com/actions/http-client) - A lightweight HTTP client optimized for use with actions, TypeScript with generics and async await.
+*   [actions/http-client (⭐71)](https://github.com/actions/http-client) - A lightweight HTTP client optimized for use with actions, TypeScript with generics and async await.
 
 ## [3. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 

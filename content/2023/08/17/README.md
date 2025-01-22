@@ -8,7 +8,7 @@
 
 ## [1. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 
-### Online services
+### Online services (a-z↓)
 
 *   [VRTs - Visual Regression Tests](https://bleech.de/en/products/visual-regression-tests/) – WordPress plugin auto-updating screenshots on content updates, preventing false positives.
 
@@ -16,7 +16,7 @@
 
 ### Exploit Development Tools / Zealandia
 
-*   [H26Forge (⭐286)](https://github.com/h26forge/h26forge) - Domain-specific infrastructure for analyzing, generating, and manipulating syntactically correct but semantically spec-non-compliant video files.
+*   [H26Forge (⭐298)](https://github.com/h26forge/h26forge) - Domain-specific infrastructure for analyzing, generating, and manipulating syntactically correct but semantically spec-non-compliant video files.
 
 ## [3. Awesome Opengl](/content/eug/awesome-opengl/README.md)
 
@@ -41,17 +41,17 @@
 
 ### Programming Languages / [Other](#other-1)
 
-*   [goast (⭐58)](https://github.com/m-mizutani/goast) :warning: — Go AST (Abstract Syntax Tree) based static analysis tool with Rego.
+*   [goast (⭐61)](https://github.com/m-mizutani/goast) :warning: — Go AST (Abstract Syntax Tree) based static analysis tool with Rego.
 
 ### Multiple languages / [Other](#other-1)
 
-*   [oxc (⭐10k)](https://github.com/web-infra-dev/oxc) — The Oxidation Compiler is creating a suite of high-performance tools for the JavaScript / TypeScript language re-written in Rust.
+*   [oxc (⭐13k)](https://github.com/web-infra-dev/oxc) — The Oxidation Compiler is creating a suite of high-performance tools for the JavaScript / TypeScript language re-written in Rust.
 
 ## [7. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
 ### Reports Generation
 
-*   [Image-Charts](https://www.image-charts.com/) - Chart as Image API for reports, PDFs and more.
+*   [Image-Charts](https://www.image-charts.com/) - Chart as Image API for reports, PDFs, and more.
 
 ## [8. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
 
@@ -75,7 +75,7 @@
 
 ## [10. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
-### Inbox: Text-to-speech (TTS) and avatars / Deforum
+### Text-to-speech (TTS) and avatars / Deforum
 
 *   [The "Voice Cloning AIs" they never tell you about (and how they work)](https://www.youtube.com/watch?v=vhArHsfsLAQ): Youtube video by @bycloud summarizing the available technologies for voice cloning
 

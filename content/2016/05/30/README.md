@@ -58,7 +58,7 @@
 
 ### Tutorials
 
-*   [Terry Um’s TensorFlow Exercises (⭐615)](https://github.com/terryum/TensorFlow_Exercises) - Re-create the codes from other TensorFlow examples
+*   [Terry Um’s TensorFlow Exercises (⭐618)](https://github.com/terryum/TensorFlow_Exercises) - Re-create the codes from other TensorFlow examples
 *   [Installing TensorFlow on Raspberry Pi 3 (⭐2.2k)](https://github.com/samjabrahams/tensorflow-on-raspberry-pi) - TensorFlow compiled and running properly on the Raspberry Pi
 
 ---

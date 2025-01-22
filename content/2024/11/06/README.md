@@ -10,7 +10,7 @@
 
 ### Self-hosted Terraform Platforms / IDE
 
-*   [Burrito (⭐255)](https://github.com/padok-team/burrito) - TACoS Kubernetes Operator - "ArgoCD for Terraform"
+*   [Burrito (⭐372)](https://github.com/padok-team/burrito) - TACoS Kubernetes Operator - "ArgoCD for Terraform"
 
 ---
 

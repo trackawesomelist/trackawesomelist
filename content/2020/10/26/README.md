@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 26, 2020
 
-17 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -48,7 +48,7 @@
 
 ### Open Source Projects / Other Tools
 
-*   [Awesome FastAPI Projects (⭐1.3k)](https://github.com/Kludex/awesome-fastapi-projects) - Organized list of projects that use FastAPI.
+*   [Awesome FastAPI Projects (⭐1.4k)](https://github.com/Kludex/awesome-fastapi-projects) - Organized list of projects that use FastAPI.
 
 ## [6. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
@@ -116,49 +116,36 @@
 
 *   [CycloneDX-PHP-Composer (⭐46)](https://github.com/CycloneDX/cyclonedx-php-composer) - Creates a [CycloneDX](https://cyclonedx.org/) "Software Bill-of-Materials" (SBOM) for the dependencies of a project. The SBOM enables dependency monitoring and risk analysis by [OWASP DependencyTrack](https://dependencytrack.org/).
 
-## [9. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
-
-### Cloud Services / SaaS / Tutorials & Demo
-
-*   [Tricentis Flood](https://www.flood.io/) - Load testing service with JMeter, Gatling and Selenium scenarios support.
-
-### Performance Testing / Streaming Protocols
-
-*   [Load testing HLS with Ruby JMeter](https://www.flood.io/blog/load-testing-hls-with-ruby-jmeter)
-
-### Community / Blogs
-
-*   [Flood.io Blog](https://www.flood.io/blog) - Load testing thoughts, stories and ideas from Flood IO.
-
-## [10. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
+## [9. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 
 ### Tutorial
 
 *   [Vulkan Guide](https://vkguide.dev). \[MIT]
 
-## [11. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/README.md)
+## [10. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/README.md)
 
 ### Proxies / Miscellaneous
 
 *   [exporter\_proxy (⭐6)](https://github.com/mrichar1/exporter_proxy) - A tiny, simple pure-python reverse-proxy for Prometheus exporters, with TLS support.
 
-## [12. Awesome Gpt3](/content/elyase/awesome-gpt3/README.md)
+## [11. Awesome Gpt3](/content/elyase/awesome-gpt3/README.md)
 
 ### Demos / Program generation and analysis
 
 *   [Extracting information from documents, powered by GPT-3](https://twitter.com/theaievangelist/status/1300862719969681411)
 
-## [13. Awesome Scala Native](/content/tindzk/awesome-scala-native/README.md)
+## [12. Awesome Scala Native](/content/tindzk/awesome-scala-native/README.md)
 
 ### Programs
 
 *   [fractals (⭐7)](https://github.com/Rusty-Bike/fractals) - A self-similar fractal generator with basic animation support.
 
-## [14. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [13. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Tools
 
 *   👍 [FSet](https://common-lisp.net/project/fset) - A functional, set-theoretic collections data structure library. [LLGPL](http://opensource.franz.com/preamble.html).
+    *   an extension: [jfon](https://git.sr.ht/~skin/jfon) - an attempt at porting JZON (JSON parsing library) to FSet.
 
 ### Lambda shorthands
 
@@ -166,35 +153,35 @@
 
 ### HTTP clients / Interfaces to other package managers
 
-*   👍 [Dexador (⭐374)](https://github.com/fukamachi/dexador) - An HTTP client, that aims at replacing Drakma. [MIT](https://opensource.org/licenses/MIT).
+*   👍 [Dexador (⭐385)](https://github.com/fukamachi/dexador) - An HTTP client, that aims at replacing Drakma. [MIT](https://opensource.org/licenses/MIT).
 
 ### Units / Third-party APIs
 
-*   [physical-quantities (⭐32)](https://github.com/mrossini-ethz/physical-quantities) - a library that provides a numeric type with optional unit and/or uncertainty for computations with automatic error propagation. GPL2
+*   [physical-quantities (⭐33)](https://github.com/mrossini-ethz/physical-quantities) - a library that provides a numeric type with optional unit and/or uncertainty for computations with automatic error propagation. GPL2
 
 ### Job processing / Third-party APIs
 
-*   [cl-cron (⭐13)](https://github.com/ciel-lang/cl-cron) - A simple tool that provides cron like facilities. [GPL3](http://www.gnu.org/copyleft/gpl.html).
+*   [cl-cron (⭐18)](https://github.com/ciel-lang/cl-cron) - A simple tool that provides cron like facilities. [GPL3](http://www.gnu.org/copyleft/gpl.html).
 
 ### Apps / Third-party APIs
 
-*   [parseq (⭐27)](https://github.com/mrossini-ethz/parseq) - a library for parsing sequences such as strings and lists using parsing expression grammars. Inspired by Esrap. GPL2.
+*   [parseq (⭐29)](https://github.com/mrossini-ethz/parseq) - a library for parsing sequences such as strings and lists using Parsing Expression Grammars (PEGs). Inspired by Esrap. GPL2.
 
 ### Compression / decompression / Third-party APIs
 
-*   [zippy (⭐12)](https://github.com/Shinmera/zippy) -  A ZIP archive format library based on 3bz. [zlib](https://directory.fsf.org/wiki/License:Zlib).
+*   [zippy (⭐15)](https://github.com/Shinmera/zippy) -  A ZIP archive format library based on 3bz. [zlib](https://directory.fsf.org/wiki/License:Zlib).
 
 ### PDF / Third-party APIs
 
 *   [cl-pslib](https://notabug.org/cage/cl-pslib) - a (thin) wrapper around the [pslib](http://pslib.sourceforge.net/) library for generating PostScript files. Also [cl-pslib-barcode](https://notabug.org/cage/cl-pslib-barcode). [LLGPL](http://opensource.franz.com/preamble.html).
 
-## [15. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/README.md)
+## [14. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/README.md)
 
 ### Articles
 
 *   [How To Keep Your Mental Health In Check When You Work From Home](https://weworkremotely.com/how-to-keep-your-mental-health-in-check-when-you-work-from-home) - By WeWorkRemotely.
 
-## [16. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
+## [15. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
 
 ### Autobiographies and Biographies
 
@@ -238,11 +225,11 @@
 
 
 
-## [17. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
+## [16. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
 
 ### Browsers
 
-*   [Agregore (⭐674)](https://github.com/AgregoreWeb/agregore-browser) - A minimal web browser for the distributed web. Supports downloading/uploading data from IPFS using the browser's `fetch()` API
+*   [Agregore (⭐771)](https://github.com/AgregoreWeb/agregore-browser) - A minimal web browser for the distributed web. Supports downloading/uploading data from IPFS using the browser's `fetch()` API
 
 ---
 

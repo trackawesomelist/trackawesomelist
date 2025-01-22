@@ -10,13 +10,13 @@
 
 ### Plugins / Generators
 
-*   [Merger (⭐27)](https://github.com/aabouzaid/kustomize-plugin-merger) - Generating manifests seamlessly by extending Kustomize merge strategies using schemaless StrategicMerge (Containerized KRM, Exec KRM).
+*   [Merger (⭐29)](https://github.com/aabouzaid/kustomize-plugin-merger) - Generating manifests seamlessly by extending Kustomize merge strategies using schemaless StrategicMerge (Containerized KRM, Exec KRM).
 
 ## [2. Awesome Coq](/content/coq-community/awesome-coq/README.md)
 
 ### Resources / Course Material
 
-*   [Program Logics (⭐37)](https://github.com/xavierleroy/cdf-program-logics) - Companion Coq sources for a course on program logics at Collège de France.
+*   [Program Logics (⭐40)](https://github.com/xavierleroy/cdf-program-logics) - Companion Coq sources for a course on program logics at Collège de France.
 
 ## [3. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
@@ -34,17 +34,17 @@
 
 ### Get Started
 
-*   [bati (⭐210)](https://github.com/batijs/bati) - Scaffolding a Vike project.
+*   [bati (⭐304)](https://github.com/batijs/bati) - Scaffolding a Vike project.
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [vite-plugin-node-polyfills (⭐281)](https://github.com/davidmyersdev/vite-plugin-node-polyfills) - Polyfill Node's Core Modules for browser environments.
+*   [vite-plugin-node-polyfills (⭐320)](https://github.com/davidmyersdev/vite-plugin-node-polyfills) - Polyfill Node's Core Modules for browser environments.
 
 ## [6. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [judaew/ronny.nvim (⭐16)](https://github.com/judaew/ronny.nvim) - A dark colorscheme, which mostly was inspired by the Monokai originally created by Wimem Hazenberg.
+*   [judaew/ronny.nvim (⭐17)](https://github.com/judaew/ronny.nvim) - A dark colorscheme, which mostly was inspired by the Monokai originally created by Wimem Hazenberg.
 
 ## [7. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
 
@@ -53,11 +53,6 @@
 *   🔧 [Dynaboard](https://dynaboard.com) - Generate low-code web apps from Firebase using AI.
 
 ## [8. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
-
-### Proxy and VPN Tools / Audio Record and Process
-
-*   [RerouteMe](https://naden.co) - An easy one-click macOS Proxy Configuration app. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [TigerVPN](https://www.tigervpn.com/vpn-for-mac) - VPN Client for Mac. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/vpn-plus/id1202726435)
 
 ### Utilities / Menu Bar Tools
 

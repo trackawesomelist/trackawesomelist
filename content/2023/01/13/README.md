@@ -14,7 +14,7 @@
 
 ### Alert / Barcode
 
-*   [Kamagari (⭐78)](https://github.com/tasanobu-zz/Kamagari) - Simple UIAlertController builder class.
+*   [Kamagari (⭐77)](https://github.com/tasanobu-zz/Kamagari) - Simple UIAlertController builder class.
 
 ## [2. Awesome Ansible](/content/ansible-community/awesome-ansible/README.md)
 
@@ -52,17 +52,17 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [ZuiOJ (⭐143)](https://github.com/DaZuiZui/ZuiOJ) - ZuiOJ system developed using Vue2's UI and Java.
+*   [ZuiOJ (⭐153)](https://github.com/DaZuiZui/ZuiOJ) - ZuiOJ system developed using Vue2's UI and Java.
 
 ## [5. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Templates / Vue 3
 
-*   [vulcan (⭐17)](https://github.com/pengzhanbo/vulcan) - The template for mobile application. Vite, Vue 3, TypeScript, Sass, i18n, Vitest\&Cypress, Pinia, APIs\&Mock, ESLint, Prettier, auto-importing.
+*   [vulcan (⭐19)](https://github.com/pengzhanbo/vulcan) - The template for mobile application. Vite, Vue 3, TypeScript, Sass, i18n, Vitest\&Cypress, Pinia, APIs\&Mock, ESLint, Prettier, auto-importing.
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-stylelint (⭐22)](https://github.com/ModyQyW/vite-plugin-stylelint) - Runs Stylelint synchronously/asynchronously.
+*   [vite-plugin-stylelint (⭐23)](https://github.com/ModyQyW/vite-plugin-stylelint) - Runs Stylelint synchronously/asynchronously.
 
 ### Framework-agnostic Plugins / Loaders
 
@@ -70,11 +70,11 @@
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [unplugin-imagemin (⭐183)](https://github.com/ErKeLost/unplugin-imagemin) - High performance compressed Picture based on squoosh and sharp.
+*   [unplugin-imagemin (⭐210)](https://github.com/ErKeLost/unplugin-imagemin) - High performance compressed Picture based on squoosh and sharp.
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-entry-shaking (⭐110)](https://github.com/Dschungelabenteuer/vite-plugin-entry-shaking) - Mimic tree-shaking behaviour when importing code from an entry file in development mode.
+*   [vite-plugin-entry-shaking (⭐130)](https://github.com/Dschungelabenteuer/vite-plugin-entry-shaking) - Mimic tree-shaking behaviour when importing code from an entry file in development mode.
 
 ## [6. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
 
@@ -86,8 +86,8 @@
 
 ### [Transistor Software plugins](https://www.transistorsoft.com//)
 
-*   [Background Geolocation (⭐91)](https://github.com/transistorsoft/capacitor-background-geolocation) - The most sophisticated background location-tracking & geofencing module with battery-conscious motion-detection intelligence for iOS and Android.
-*   [Background Fetch (⭐78)](https://github.com/transistorsoft/capacitor-background-fetch) - Periodic callbacks in the background for both IOS and Android.
+*   [Background Geolocation (⭐98)](https://github.com/transistorsoft/capacitor-background-geolocation) - The most sophisticated background location-tracking & geofencing module with battery-conscious motion-detection intelligence for iOS and Android.
+*   [Background Fetch (⭐80)](https://github.com/transistorsoft/capacitor-background-fetch) - Periodic callbacks in the background for both IOS and Android.
 *   [Background Geolocation Firebase (⭐6)](https://github.com/transistorsoft/capacitor-background-geolocation-firebase) - Firebase adapter for Capacitor Background Geolocation.
 
 ## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
@@ -105,9 +105,9 @@
 
 ## [10. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
-### Projects / Godot 3.5+
+### Projects / Godot 3
 
-*   [GATT - Godot Autotile Texture Templater (⭐29)](https://github.com/sesopenko/gatt) - A tool for generating 2x2 and 3x3 autotile tilesets in whichever size and colour needed.
+*   [GATT - Godot Autotile Texture Templater (⭐33)](https://github.com/sesopenko/gatt) - A tool for generating 2x2 and 3x3 autotile tilesets in whichever size and colour needed.
 
 ## [11. Awesome Scifi](/content/sindresorhus/awesome-scifi/README.md)
 
@@ -121,11 +121,11 @@
 
 ### Fuzzy Finder / Diagnostics
 
-*   [axkirillov/easypick.nvim (⭐364)](https://github.com/axkirillov/easypick.nvim) - Easypick lets you easily create Telescope pickers from arbitrary console commands.
+*   [axkirillov/easypick.nvim (⭐394)](https://github.com/axkirillov/easypick.nvim) - Easypick lets you easily create Telescope pickers from arbitrary console commands.
 
 ### Session / Diagnostics
 
-*   [gennaro-tedesco/nvim-possession (⭐211)](https://github.com/gennaro-tedesco/nvim-possession) - The no-nonsense session manager.
+*   [gennaro-tedesco/nvim-possession (⭐250)](https://github.com/gennaro-tedesco/nvim-possession) - The no-nonsense session manager.
 
 ---
 

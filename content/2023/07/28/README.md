@@ -16,19 +16,19 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-popper-lite (⭐2)](https://github.com/jambonn/vue-popper-lite) - A popover component based on [popper.js tree shaking](https://popper.js.org/docs/v2/#popper-lite-tree-shaking) for Vue 3 written by TypeScript.
+*   [vue-popper-lite (⭐4)](https://github.com/jambonn/vue-popper-lite) - A popover component based on [popper.js tree shaking](https://popper.js.org/docs/v2/#popper-lite-tree-shaking) for Vue 3 written by TypeScript.
 
 ## [3. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Utility / Diagnostics
 
-*   [malbertzard/inline-fold.nvim (⭐84)](https://github.com/malbertzard/inline-fold.nvim) - Hide certain elements inline like long CSS classes or `href` content.
+*   [malbertzard/inline-fold.nvim (⭐85)](https://github.com/malbertzard/inline-fold.nvim) - Hide certain elements inline like long CSS classes or `href` content.
 
 ## [4. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ### Tools / Community providers
 
-*   [tfmake (⭐16)](https://github.com/tfmake/tfmake) - Automating Terraform with the power of make.
+*   [tfmake (⭐22)](https://github.com/tfmake/tfmake) - Automating Terraform with the power of make.
 
 ## [5. Awesome Java](/content/akullpp/awesome-java/README.md)
 
@@ -38,7 +38,7 @@
 
 ## [6. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
-### Inbox: Speech-to-text (STT) and spoken content analysis / Deforum
+### Speech-to-text (STT) and spoken content analysis / Deforum
 
 *   [ZZZ Code AI](https://zzzcode.ai/): AI-powered free website to get any programming question answered or code generated.
 
@@ -50,13 +50,13 @@
 
 ### Files and Directories / File Sync/Sharing
 
-*   [shbin (⭐44)](https://github.com/Shiphero/shbin/) - Turn a Github repo into a pastebin.
+*   [shbin (⭐56)](https://github.com/Shiphero/shbin/) - Turn a Github repo into a pastebin.
 
 ## [8. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
 ### Nodes & Consensus Participation / Wallets
 
-*   [AlloCTRL (⭐13)](https://github.com/AlgoNode/alloctrl) - A simple, open source, dashboard to help managing your node and participation keys safely, from your local machine.
+*   [AlloCTRL (⭐15)](https://github.com/AlgoNode/alloctrl) - A simple, open source, dashboard to help managing your node and participation keys safely, from your local machine.
 
 ---
 

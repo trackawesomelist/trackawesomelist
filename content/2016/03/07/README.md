@@ -110,7 +110,7 @@
 
 ### Registry
 
-*   [npm-cli-login (⭐108)](https://github.com/postmanlabs/npm-cli-login) - Log in to npm.
+*   [npm-cli-login (⭐114)](https://github.com/postmanlabs/npm-cli-login) - Log in to npm.
 
 ## [13. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
 
@@ -155,7 +155,7 @@ Webpage: <http://www.tosci.com/>
 
 ### HTTP
 
-*   [mnemonic\_slugs (⭐26)](https://github.com/devshane/mnemonic_slugs) - A memorable, mnemonic slug generator in Elixir.
+*   [mnemonic\_slugs (⭐27)](https://github.com/devshane/mnemonic_slugs) - A memorable, mnemonic slug generator in Elixir.
 
 ### Third Party APIs
 

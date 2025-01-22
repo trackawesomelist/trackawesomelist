@@ -79,7 +79,7 @@
 
 ### Git Tools
 
-*   [posh-git (⭐7.6k)](https://github.com/dahlbyk/posh-git) - A PowerShell environment for Git
+*   [posh-git (⭐7.8k)](https://github.com/dahlbyk/posh-git) - A PowerShell environment for Git
 
 ## [7. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 

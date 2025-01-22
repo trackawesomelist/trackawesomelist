@@ -16,24 +16,24 @@
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [thyme (chenhao-ye) (⭐22)](https://github.com/chenhao-ye/thyme) - Seasoning for shells. Based on [bira (⭐172k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/bira.zsh-theme), [gnzh (⭐172k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/gnzh.zsh-theme), and [bullet-train (⭐2.8k)](https://github.com/caiogondim/bullet-train.zsh/blob/master/bullet-train.zsh-theme).
+*   [thyme (chenhao-ye) (⭐22)](https://github.com/chenhao-ye/thyme) - Seasoning for shells. Based on [bira (⭐175k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/bira.zsh-theme), [gnzh (⭐175k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/gnzh.zsh-theme), and [bullet-train (⭐2.8k)](https://github.com/caiogondim/bullet-train.zsh/blob/master/bullet-train.zsh-theme).
 
 ## [3. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Premium / Game Engine resources
 
-*   [RustDesk (⭐68k)](https://github.com/rustdesk/rustdesk) <!--stargazers:rustdesk/rustdesk--> - Open source virtual/remote desktop and TeamViewer alternative. Built with Flutter and Rust by [RustDesk team](https://www.rustdesk.com/).
-*   [AppFlowy (⭐50k)](https://github.com/AppFlowy-IO/appflowy) <!--stargazers:AppFlowy-IO/appflowy--> - Open Source Notion Alternative. You are in charge of your data and customizations. Built with Flutter and Rust by [AppFlowy team](https://www.appflowy.io/)
+*   [RustDesk (⭐77k)](https://github.com/rustdesk/rustdesk) <!--stargazers:rustdesk/rustdesk--> - Open source virtual/remote desktop and TeamViewer alternative. Built with Flutter and Rust by [RustDesk team](https://www.rustdesk.com/).
+*   [AppFlowy (⭐58k)](https://github.com/AppFlowy-IO/appflowy) <!--stargazers:AppFlowy-IO/appflowy--> - Open Source Notion Alternative. You are in charge of your data and customizations. Built with Flutter and Rust by [AppFlowy team](https://www.appflowy.io/)
 
 ### Utilities / Game Engine resources
 
-*   [Melos (⭐1.1k)](https://github.com/invertase/melos) <!--stargazers:invertase/melos--> - Manage projects with multiple packages, automated versioning, changelogs & publishing via Conventional Commits by [Invertase](https://github.com/invertase)
+*   [Melos (⭐1.2k)](https://github.com/invertase/melos) <!--stargazers:invertase/melos--> - Manage projects with multiple packages, automated versioning, changelogs & publishing via Conventional Commits by [Invertase](https://github.com/invertase)
 
 ## [4. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
 
 ### Terminal / CLI tools
 
-*   [dcp (⭐105)](https://github.com/exdx/dcp) - A simple tool for copying files from container filesystems. By [@exdx](https://github.com/exdx)
+*   [dcp (⭐109)](https://github.com/exdx/dcp) - A simple tool for copying files from container filesystems. By [@exdx](https://github.com/exdx)
 
 ## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -62,7 +62,7 @@
 
 ### Projects
 
-*   [surfer (⭐55)](https://github.com/zzy/surfer) - A blog built on yew + graphql, with [live demo site](https://niqin.com). Backend for graphql services, and frontend for web application.
+*   [surfer (⭐53)](https://github.com/zzy/surfer) - A blog built on yew + graphql, with [live demo site](https://niqin.com). Backend for graphql services, and frontend for web application.
 
 ---
 

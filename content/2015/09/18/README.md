@@ -31,7 +31,7 @@
 
 ### R Development
 
-*   [import (⭐220)](https://github.com/smbache/import/) - An import mechanism for R.
+*   [import (⭐222)](https://github.com/smbache/import/) - An import mechanism for R.
 
 ## [4. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)
 

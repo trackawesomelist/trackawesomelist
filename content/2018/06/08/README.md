@@ -25,12 +25,12 @@
 *   C++
     *   [design-patterns](http://www.vincehuston.org/dp/)
 *   Kotlin
-    *   [design-patterns (⭐5.8k)](https://github.com/dbacinski/Design-Patterns-In-Kotlin)
+    *   [design-patterns (⭐5.9k)](https://github.com/dbacinski/Design-Patterns-In-Kotlin)
 *   PHP
-    *   [humans (⭐42k)](https://github.com/kamranahmedse/design-patterns-for-humans) - ultra simplified explanation to design patterns.
-    *   [design-patterns (⭐21k)](https://github.com/domnikl/DesignPatternsPHP)
+    *   [humans (⭐45k)](https://github.com/kamranahmedse/design-patterns-for-humans) - ultra simplified explanation to design patterns.
+    *   [design-patterns (⭐22k)](https://github.com/domnikl/DesignPatternsPHP)
 *   Ruby
-    *   [design-patterns (⭐2.4k)](https://github.com/davidgf/design-patterns-in-ruby)
+    *   [design-patterns (⭐2.5k)](https://github.com/davidgf/design-patterns-in-ruby)
 *   Swift
     *   [design-patterns (⭐15k)](https://github.com/ochococo/Design-Patterns-In-Swift)
 *   Vue.js
@@ -38,7 +38,7 @@
 
 ### General Architecture
 
-*   [system-design-primer (⭐237k)](https://github.com/donnemartin/system-design-primer) - Design large-scale systems.
+*   [system-design-primer (⭐273k)](https://github.com/donnemartin/system-design-primer) - Design large-scale systems.
 
 ### Micro services & Distributed Systems
 
@@ -51,7 +51,7 @@
 
 ### Front-End Development
 
-*   [css-protips (⭐27k)](https://github.com/AllThingsSmitty/css-protips) - A collection of tips to help take your CSS skills pro.
+*   [css-protips (⭐28k)](https://github.com/AllThingsSmitty/css-protips) - A collection of tips to help take your CSS skills pro.
 
 ### Security
 
@@ -62,8 +62,10 @@
 
 ### Mobile
 
-*   [json-mop (⭐59)](https://github.com/gschjetne/json-mop) - A metaclass for bridging CLOS and JSON objects. [MIT](https://opensource.org/licenses/MIT).
-*   [arrow-macros (⭐119)](https://github.com/hipeta/arrow-macros) - Clojure-like threading macros. [MIT](https://opensource.org/licenses/MIT).
+*   [json-mop (⭐63)](https://github.com/gschjetne/json-mop) - A metaclass for bridging CLOS and JSON objects. [MIT](https://opensource.org/licenses/MIT).
+    *   depends on YASON
+    *   for JSON libraries that don't do it natively (jzon, shasht and cl-json are able to *encode* CLOS objects to JSON out of the box, and cl-json has the ability to *decode* JSON objects into a "fluid-class" CLOS object.)
+*   [arrow-macros (⭐127)](https://github.com/hipeta/arrow-macros) - Clojure-like threading macros. [MIT](https://opensource.org/licenses/MIT).
 
 ## [5. Awesome Foss Apps](/content/DataDaoDe/awesome-foss-apps/README.md)
 
@@ -75,7 +77,7 @@
 
 ### Cache
 
-*   [Carlos (⭐643)](https://github.com/spring-media/Carlos) - A simple but flexible cache.
+*   [Carlos (⭐644)](https://github.com/spring-media/Carlos) - A simple but flexible cache.
 
 ## [7. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/README.md)
 
@@ -87,19 +89,19 @@
 
 ### Game Disassemblies / Syntax highlighting packages
 
-*   [Pokémon Yellow (⭐651)](https://github.com/pret/pokeyellow)
-*   [Pokémon Gold and Silver (⭐459)](https://github.com/pret/pokegold)
-*   [pokegold-spaceworld (⭐330)](https://github.com/pret/pokegold-spaceworld) - Pokémon Gold and Silver 1997 Space World demo.
-*   [Link's Awakening DX (⭐804)](https://github.com/mojobojo/LADX-Disassembly)
-*   [Oracle of Ages (⭐151)](https://github.com/drenn1/ages-disasm)
-*   [FX Hammer (⭐8)](https://github.com/DevEd2/FXHammer-Disasm)
-*   [Harvest Moon 3 (⭐17)](https://github.com/sanqui/hm3)
+*   [Pokémon Yellow (⭐725)](https://github.com/pret/pokeyellow)
+*   [Pokémon Gold and Silver (⭐548)](https://github.com/pret/pokegold)
+*   [pokegold-spaceworld (⭐352)](https://github.com/pret/pokegold-spaceworld) - Pokémon Gold and Silver 1997 Space World demo.
+*   [Link's Awakening DX (⭐842)](https://github.com/mojobojo/LADX-Disassembly)
+*   [Oracle of Ages (⭐172)](https://github.com/drenn1/ages-disasm)
+*   [FX Hammer (⭐9)](https://github.com/DevEd2/FXHammer-Disasm)
+*   [Harvest Moon 3 (⭐19)](https://github.com/sanqui/hm3)
 
 ## [9. Awesome Cmake](/content/onqtam/awesome-cmake/README.md)
 
 ### Examples / Templates
 
-*   [cmake\_snippets (⭐48)](https://github.com/adishavit/cmake_snippets) - Short copy-pasteable CMake snippets. [`[BSD3]`](https://opensource.org/licenses/BSD-3-Clause)
+*   [cmake\_snippets (⭐52)](https://github.com/adishavit/cmake_snippets) - Short copy-pasteable CMake snippets. [`[BSD3]`](https://opensource.org/licenses/BSD-3-Clause)
 
 ## [10. Awesome Vapor](/content/vapor-community/awesome-vapor/README.md)
 

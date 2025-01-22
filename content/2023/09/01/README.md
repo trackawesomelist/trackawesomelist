@@ -17,7 +17,7 @@
 
 ### Software / Miscellaneous
 
-*   [Cerbos](https://cerbos.dev) - A self-hosted, open source user authorization layer for your applications. ([Demo](https://play.cerbos.dev), [Source Code (⭐2.9k)](https://github.com/cerbos/cerbos)) `Apache-2.0` `Go/deb/Docker/K8S`
+*   [Cerbos](https://cerbos.dev) - A self-hosted, open source user authorization layer for your applications. ([Demo](https://play.cerbos.dev), [Source Code (⭐3.6k)](https://github.com/cerbos/cerbos)) `Apache-2.0` `Go/deb/Docker/K8S`
 
 ## [3. Awesome Bash](/content/awesome-lists/awesome-bash/README.md)
 
@@ -31,7 +31,7 @@
 
 ### Tools
 
-*   [DDEV (⭐2.5k)](https://github.com/ddev/ddev) - A open source tool for launching local web development environments in minutes. It supports PHP, Node.js, and Python.
+*   [DDEV (⭐2.9k)](https://github.com/ddev/ddev) - A open source tool for launching local web development environments in minutes. It supports PHP, Node.js, and Python.
 
 ## [5. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 

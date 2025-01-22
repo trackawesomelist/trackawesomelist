@@ -67,7 +67,7 @@ git config --global help.autocorrect 1
 
 ### Configuration / Web Applications
 
-*   [phpMyAdmin (⭐7.2k)](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL/MariaDB.
+*   [phpMyAdmin (⭐7.3k)](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL/MariaDB.
 
 ## [5. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 

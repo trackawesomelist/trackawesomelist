@@ -58,7 +58,7 @@ Awesome & Marvelous Amas
 
 ### Ask these people anything!
 
-*   [Sindre Sorhus (⭐143)](https://github.com/sindresorhus/ama) - Full-time open-sourcerer. Maker of many npm packages and apps.
+*   [Sindre Sorhus (⭐142)](https://github.com/sindresorhus/ama) - Full-time open-sourcerer. Maker of many npm packages and apps.
 
 ## [Jan 19, 2021](/content/2021/01/19/README.md)
 
@@ -161,7 +161,7 @@ Awesome & Marvelous Amas
 
 ### Ask these organizations anything!
 
-*   [Nikita Voloboev (⭐34)](https://github.com/nikitavoloboev/ama) - Loves making and sharing things. Building Learn Anything, Enpicom and tools.
+*   [Nikita Voloboev (⭐36)](https://github.com/nikitavoloboev/ama) - Loves making and sharing things. Building Learn Anything, Enpicom and tools.
 
 ## [Feb 18, 2019](/content/2019/02/18/README.md)
 
@@ -239,7 +239,7 @@ Awesome & Marvelous Amas
 
 ### Ask these people anything!
 
-*   [Byungjin Park (⭐14)](https://github.com/posquit0/ama) - Software Architect, DevOps Engineer, Hacker, Open Sourcer.
+*   [Byungjin Park (⭐15)](https://github.com/posquit0/ama) - Software Architect, DevOps Engineer, Hacker, Open Sourcer.
 
 ## [May 21, 2018](/content/2018/05/21/README.md)
 
@@ -344,7 +344,7 @@ Awesome & Marvelous Amas
 
 ### Ask these organizations anything!
 
-*   [IIIT Vadodara (⭐17)](https://github.com/iiitv/aua) - Open-source organization maintained by college students.
+*   [IIIT Vadodara (⭐18)](https://github.com/iiitv/aua) - Open-source organization maintained by college students.
 
 ## [Jun 08, 2017](/content/2017/06/08/README.md)
 
@@ -356,7 +356,7 @@ Awesome & Marvelous Amas
 
 ### Ask these people anything!
 
-*   [Rachel Andrew (⭐323)](https://github.com/rachelandrew/cssgrid-ama) - CSS Grid Ask Me Anything. Rachel Andrew is a UK web developer, writer, public speaker and co-founder of Perch CMS.
+*   [Rachel Andrew (⭐328)](https://github.com/rachelandrew/cssgrid-ama) - CSS Grid Ask Me Anything. Rachel Andrew is a UK web developer, writer, public speaker and co-founder of Perch CMS.
 
 ## [Apr 27, 2017](/content/2017/04/27/README.md)
 
@@ -450,12 +450,6 @@ Awesome & Marvelous Amas
 
 *   [Kundan Singh (⭐0)](https://github.com/kundansingh1/ama) - Full Stack Javascript Developer, Biker, Traveller, Photographer.
 
-## [Sep 27, 2016](/content/2016/09/27/README.md)
-
-### Ask these people anything!
-
-*   [Arjun Mayilvaganan (⭐0)](https://github.com/arjunmayilvaganan/ama) - Senior Year Student at CEG. Striving to make it as a Full stack developer.
-
 ## [Aug 26, 2016](/content/2016/08/26/README.md)
 
 ### Ask these people anything!
@@ -491,7 +485,7 @@ Awesome & Marvelous Amas
 
 ### Ask these people anything!
 
-*   [Jon Kuperman (⭐21)](https://github.com/jkup/ama) - I love JavaScript! I blog at Codeplanet, make videos at Nodecasts and podcast at The Web Behind.
+*   [Jon Kuperman (⭐23)](https://github.com/jkup/ama) - I love JavaScript! I blog at Codeplanet, make videos at Nodecasts and podcast at The Web Behind.
 *   [Max Stoiber (⭐28)](https://github.com/mxstbr/ama) - Open source developer advocate at Thinkmill, developing KeystoneJS and ElementalUI. Creator of react-boilerplate, part of React Vienna.
 
 ## [Apr 16, 2016](/content/2016/04/16/README.md)
@@ -691,7 +685,7 @@ Awesome & Marvelous Amas
 
 ### Ask these people anything!
 
-*   [Yitzchok Willroth (⭐0)](https://github.com/coderabbi/ama) - Coder & Rabbi (though seldom at the same time!); Engineering Practice Manager, Grovo; Organizer, ShorePHP & NYPHP; Conference Speaker; Mentor.
+*   [Yitzchok Willroth (⭐1)](https://github.com/coderabbi/ama) - Coder & Rabbi (though seldom at the same time!); Engineering Practice Manager, Grovo; Organizer, ShorePHP & NYPHP; Conference Speaker; Mentor.
 *   [Jeff Carouth (⭐0)](https://github.com/jcarouth/ama) - Lead Platform Engineer at Liftopia, Co-host of the Loosely Coupled Podcast, mentor, and conference speaker.
 
 ## [Sep 01, 2015](/content/2015/09/01/README.md)
@@ -815,7 +809,7 @@ Awesome & Marvelous Amas
 
 *   [Simon Boudrias (⭐2)](https://github.com/SBoudrias/ama) - Yeoman, Inquirer.js and a bunch of other node modules. Software engineer at Yelp.
 *   [Reza Akhavan (⭐3)](https://github.com/jedireza/ama) - Engineer at Mozilla. Co-organizer at NodeSchoolSF. Creator of Drywall, Frame, Aqua.
-*   [Wes Bos (⭐281)](https://github.com/wesbos/ama) - Full stack developer, independent author, speaker, teacher and JavaScripter.
+*   [Wes Bos (⭐282)](https://github.com/wesbos/ama) - Full stack developer, independent author, speaker, teacher and JavaScripter.
 *   [Anselm Hannemann (⭐9)](https://github.com/anselmh/AMA) - Freelance front-end developer, author of WDRL, co-organizer of Nightlybuild.io.
 *   [Blain Smith](https://github.com/blainsmith/ama) - Partner/Engineer at MadGlory and Odd Networks. Rebel Geek.
 *   [Lewis Cowper](https://github.com/lewiscowper/ama) - Former forklift driver. Now web developer.
@@ -829,7 +823,7 @@ Awesome & Marvelous Amas
 
 *   [Pascal Hartig (⭐33)](https://github.com/passy/ama) - Polyglot. Engineer at Twitter. Contributor to Yeoman, TodoMVC, WSK.
 *   [Mark Otto (⭐94)](https://github.com/mdo/ama) - Designer at GitHub. Creator of Bootstrap.
-*   [Zach Holman (⭐732)](https://github.com/holman/feedback) - Developer and speaker. Previously worked at GitHub.
+*   [Zach Holman (⭐731)](https://github.com/holman/feedback) - Developer and speaker. Previously worked at GitHub.
 *   [Kent C. Dodds (⭐685)](https://github.com/kentcdodds/ama) - JavaScript dev, open source contributor, community builder, and speaker.
 
 ## [Jul 04, 2015](/content/2015/07/04/README.md)

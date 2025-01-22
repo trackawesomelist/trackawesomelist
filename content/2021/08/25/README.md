@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 25, 2021
 
-15 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -25,13 +25,13 @@
 
 ### Software / Make your life easier
 
-*   [DeepfakeHTTP (⭐503)](https://github.com/xnbox/DeepfakeHTTP) - DeepfakeHTTP is a web server that uses HTTP dumps as a source for responses. This tool allows you to test clients against REST, GraphQL, and other APIs.
+*   [DeepfakeHTTP (⭐515)](https://github.com/xnbox/DeepfakeHTTP) - DeepfakeHTTP is a web server that uses HTTP dumps as a source for responses. This tool allows you to test clients against REST, GraphQL, and other APIs.
 
 ## [4. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
 ### GTFS Converters / Ruby
 
-*   [gtfs2gps (⭐69)](https://github.com/ipeaGIT/gtfs2gps) - An R package that converts public transportation data in GTFS format to GPS-like records in a `data.table`, where each row represents the timestamp of each vehicle at a given spatial resolution.
+*   [gtfs2gps (⭐72)](https://github.com/ipeaGIT/gtfs2gps) - An R package that converts public transportation data in GTFS format to GPS-like records in a `data.table`, where each row represents the timestamp of each vehicle at a given spatial resolution.
 
 ## [5. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
@@ -56,7 +56,7 @@
 
 ### Projects / Tools
 
-*   [coq-tools (⭐37)](https://github.com/JasonGross/coq-tools) - Scripts for manipulating Coq developments.
+*   [coq-tools (⭐41)](https://github.com/JasonGross/coq-tools) - Scripts for manipulating Coq developments.
     *   [`find-bug.py`](https://github.com/JasonGross/coq-tools/blob/master/find-bug.py) - Automatically minimizes source files producing an error, creating small test cases for Coq bugs.
     *   [`absolutize-imports.py`](https://github.com/JasonGross/coq-tools/blob/master/absolutize-imports.py) - Processes source files to make loading of dependencies robust against shadowing of file names.
     *   [`inline-imports.py`](https://github.com/JasonGross/coq-tools/blob/master/inline-imports.py) - Creates stand-alone source files from developments by inlining the loading of all dependencies.
@@ -103,23 +103,17 @@
 
 *   [cdbreact (⭐50)](https://github.com/Devwares-Team/cdbreact) - [demo](https://www.devwares.com/product/contrast) - [docs](https://www.devwares.com/docs/contrast/react/index) - Elegant UI Kit library and reusable components for building mobile-first, responsive websites and web apps.
 
-## [13. Free for Dev](/content/ripienaar/free-for-dev/README.md)
-
-### Code Quality
-
-*   [Viezly](https://viezly.com/) - Enhanced code review tool for easier code reading and navigation. Free for Open Source and free for personal usage.
-
-## [14. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
+## [13. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 
 ### Packages / Ecosystem
 
 *   [ROS2 For Unity (⭐298)](https://github.com/RobotecAI/ros2-for-unity) - An asset package which enables high-performance communication between Unity3D simulations and ROS2 ecosystem. ![ros2-for-unity](https://img.shields.io/github/stars/RobotecAI/ros2-for-unity.svg)
 
-## [15. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [14. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / Reinforcement Learning
 
-*   [RLlib (⭐33k)](https://github.com/ray-project/ray) - RLlib is an industry level, highly scalable RL library for tf and torch, based on Ray. It's used by companies like Amazon and Microsoft to solve real-world decision making problems at scale.
+*   [RLlib (⭐34k)](https://github.com/ray-project/ray) - RLlib is an industry level, highly scalable RL library for tf and torch, based on Ray. It's used by companies like Amazon and Microsoft to solve real-world decision making problems at scale.
 
 ---
 

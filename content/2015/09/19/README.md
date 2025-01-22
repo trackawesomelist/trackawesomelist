@@ -51,65 +51,65 @@
 
 *   [Animsition (⭐3.8k)](https://github.com/blivesta/animsition/) - A simple and easy jQuery plugin for CSS animated page transitions.
 *   [fakeLoader.js (⭐721)](https://github.com/joaopereirawd/fakeLoader.js) - Lightweight plugin that helps you create an animated spinner with a fullscreen loading mask to simulate the page preloading effect.
-*   [jQuery Transit (⭐7.4k)](https://github.com/rstacruz/jquery.transit) - Super-smooth CSS3 transformations and transitions for jQuery.
-*   [Material Design Preloader!s (⭐375)](https://github.com/aarondo/Material-Preloader) - Recreation of the Material Design preloader.
+*   [jQuery Transit (⭐7.3k)](https://github.com/rstacruz/jquery.transit) - Super-smooth CSS3 transformations and transitions for jQuery.
+*   [Material Design Preloader!s (⭐369)](https://github.com/aarondo/Material-Preloader) - Recreation of the Material Design preloader.
 *   [Midnight (⭐3.7k)](https://github.com/Aerolab/midnight.js) - Switches fixed headers on the fly.
 *   [Scrollify (⭐1.8k)](https://github.com/lukehaas/Scrollify/) - Assists scrolling and snaps to sections. Touch optimised.
 *   [Waves (⭐3.5k)](https://github.com/fians/Waves) - Click effect inspired by Google's Material Design.
 
 ### Forms / Paid Books
 
-*   [Bootstrap Multiselect (⭐3.6k)](https://github.com/davidstutz/bootstrap-multiselect) - Multiselect for Bootstrap.
+*   [Bootstrap Multiselect (⭐3.7k)](https://github.com/davidstutz/bootstrap-multiselect) - Multiselect for Bootstrap.
 *   [File Upload (⭐31k)](https://github.com/blueimp/jQuery-File-Upload) - File Upload widget with multiple file selection, drag\&drop support, progress bar, validation and preview images, audio and video.
-*   [Ideal Forms (⭐733)](https://github.com/elclanrs/jq-idealforms) - Framework for building and validating responsive HTML5 forms.
-*   [Labelauty (⭐906)](https://github.com/fntneves/jquery-labelauty) - A lightweight and beautiful plugin for radio and checkbox inputs.
-*   [Select2 (⭐25k)](https://github.com/select2/select2) - Select box with support for searching, tagging, remote data sets, infinite scrolling.
+*   [Ideal Forms (⭐725)](https://github.com/elclanrs/jq-idealforms) - Framework for building and validating responsive HTML5 forms.
+*   [Labelauty (⭐884)](https://github.com/fntneves/jquery-labelauty) - A lightweight and beautiful plugin for radio and checkbox inputs.
+*   [Select2 (⭐26k)](https://github.com/select2/select2) - Select box with support for searching, tagging, remote data sets, infinite scrolling.
 
 ### Images, Maps and Charts / Paid Books
 
-*   [Arbor (⭐2.6k)](https://github.com/samizdatco/arbor) - Graph visualization library using web workers and jQuery.
+*   [Arbor (⭐2.7k)](https://github.com/samizdatco/arbor) - Graph visualization library using web workers and jQuery.
 *   [Dense.js (⭐212)](https://github.com/gocom/dense) - Serving retina-ready, high pixel ratio images with ease.
-*   [Flot (⭐6k)](https://github.com/flot/flot) - Attractive charts.
-*   [Gridder (⭐454)](https://github.com/oriongunning/gridder) - Displays a thumbnail grid expanding preview similar to the effect seen on Google Images.
+*   [Flot (⭐5.9k)](https://github.com/flot/flot) - Attractive charts.
+*   [Gridder (⭐461)](https://github.com/oriongunning/gridder) - Displays a thumbnail grid expanding preview similar to the effect seen on Google Images.
 *   [jquery.sparkline (⭐1.2k)](https://github.com/gwatts/jquery.sparkline) - Generate small sparkline charts.
-*   [jQuery.eraser (⭐326)](https://github.com/boblemarin/jQuery.eraser) - Erasing image with mouse or touch movements.
+*   [jQuery.eraser (⭐332)](https://github.com/boblemarin/jQuery.eraser) - Erasing image with mouse or touch movements.
 
 ### Menus / Paid Books
 
 *   [jQuery contextMenu (⭐2.2k)](https://github.com/swisnl/jQuery-contextMenu) - Management facility for context menus.
-*   [jPanelMenu (⭐928)](https://github.com/acolangelo/jPanelMenu) - Creates a paneled-style menu (like the type seen in the mobile versions of Facebook, Google and native iPhone applications).
+*   [jPanelMenu (⭐922)](https://github.com/acolangelo/jPanelMenu) - Creates a paneled-style menu (like the type seen in the mobile versions of Facebook, Google and native iPhone applications).
 *   [jQuery-menu-aim (⭐7.7k)](https://github.com/kamens/jQuery-menu-aim) - Fires events when user's cursor aims at particular dropdown menu items.
-*   [Multi-level push menu (⭐809)](https://github.com/adgsm/multi-level-push-menu) - Allows endless nesting of navigation elements.
+*   [Multi-level push menu (⭐804)](https://github.com/adgsm/multi-level-push-menu) - Allows endless nesting of navigation elements.
 *   [Slidebars (⭐1.5k)](https://github.com/adchsm/Slidebars) - jQuery framework for off-canvas menus and sidebars.
-*   [stickUp (⭐1.6k)](https://github.com/LiranCohen/stickUp) - Sticks an element to the top of the browser window while scrolling past it, always keeping it in view.
-*   [Superfish (⭐916)](https://github.com/joeldbirch/superfish) - Adds usability enhancements to existing multi-level drop-down menus.
+*   [stickUp (⭐1.5k)](https://github.com/LiranCohen/stickUp) - Sticks an element to the top of the browser window while scrolling past it, always keeping it in view.
+*   [Superfish (⭐913)](https://github.com/joeldbirch/superfish) - Adds usability enhancements to existing multi-level drop-down menus.
 
 ### Modals and Popups / Paid Books
 
 *   [SweetAlert (⭐22k)](https://github.com/t4t5/sweetalert) - A beautiful replacement for JavaScript's alert.
-*   [tipso (⭐324)](https://github.com/object505/tipso) - A Lightweight Responsive jQuery Tooltip Plugin.
+*   [tipso (⭐319)](https://github.com/object505/tipso) - A Lightweight Responsive jQuery Tooltip Plugin.
 
 ### Tables / Paid Books
 
 *   [DataTables](https://www.datatables.net/) - Advanced interaction controls for HTML tables.
 *   [jqGrid (⭐2.8k)](https://github.com/tonytomov/jqGrid) - Grid plugin.
-*   [tableExport.jquery.plugin (⭐903)](https://github.com/hhurz/tableExport.jquery.plugin) - Export HTML table to JSON, XML, CSV, TXT, SQL, Word, Excel, PNG or PDF.
+*   [tableExport.jquery.plugin (⭐984)](https://github.com/hhurz/tableExport.jquery.plugin) - Export HTML table to JSON, XML, CSV, TXT, SQL, Word, Excel, PNG or PDF.
 
 ### Time and Date / Paid Books
 
-*   [jQuery Timer Plugin (⭐290)](https://github.com/walmik/timer.jquery) - Start/Stop/Resume/Remove pretty timer inside any HTML element.
+*   [jQuery Timer Plugin (⭐294)](https://github.com/walmik/timer.jquery) - Start/Stop/Resume/Remove pretty timer inside any HTML element.
 
 ### Mobile / Paid Books
 
 *   [jQuery mobile](http://jquerymobile.com/) - Lightweight framework for building mobile web apps with HTML5.
-*   [Interdimensional (⭐338)](https://github.com/VodkaBears/Interdimensional) - Spatial scrolling on mobile devices for your web pages.
+*   [Interdimensional (⭐336)](https://github.com/VodkaBears/Interdimensional) - Spatial scrolling on mobile devices for your web pages.
 *   [OhSnap!.js (⭐280)](https://github.com/justindomingue/ohSnap) - A simple jQuery/Zepto notification library designed to be used in mobile apps.
 
 ### UI / Paid Books
 
 *   [jQuery UI](http://jqueryui.com/) - Curated set of user interface interactions, effects, widgets, and themes built on top of the jQuery.
-*   [jQuery Enhanced Splitter (⭐28)](https://github.com/hiltonjanfield/jquery.enhsplitter) - Create draggable content splitters to emulate frames and separate content.
-*   [tabulous.js (⭐557)](https://github.com/aarondo/tabulous.js) - Tabs for todays web
+*   [jQuery Enhanced Splitter (⭐30)](https://github.com/hiltonjanfield/jquery.enhsplitter) - Create draggable content splitters to emulate frames and separate content.
+*   [tabulous.js (⭐545)](https://github.com/aarondo/tabulous.js) - Tabs for todays web
 
 ### Community / Paid Books
 
@@ -124,7 +124,7 @@
 
 ### Coding Style
 
-*   [C++ Core Guidelines (⭐42k)](https://github.com/isocpp/CppCoreGuidelines) - "Official" set of C++ guidelines, reviewed by the author of C++.
+*   [C++ Core Guidelines (⭐43k)](https://github.com/isocpp/CppCoreGuidelines) - "Official" set of C++ guidelines, reviewed by the author of C++.
 
 ## [4. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
 

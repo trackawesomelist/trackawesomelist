@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 29, 2018
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -63,13 +63,7 @@
 
 *   [/dev/null as a Service](https://devnull-as-a-service.com) - The first DaaS provider.
 
-## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Projects Using Vue.js / Open Source
-
-*   [Deezer-Vue](https://sh0cked.github.io/deezer-vue/) - Deezer client built with Vue\Vuex
-
-## [9. Android Security Awesome](/content/ashishb/android-security-awesome/README.md)
+## [8. Android Security Awesome](/content/ashishb/android-security-awesome/README.md)
 
 ### Tools / Market Crawlers
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 03, 2018
 
-19 awesome lists updated today.
+18 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,14 +10,14 @@
 
 ### Board support crates / STMicroelectronics
 
-*   [`stm32f407g-disc`](https://crates.io/crates/stm32f407g-disc) Board Support Crate for the [STM32F4DISCOVERY](https://www.st.com/en/evaluation-tools/stm32f4discovery.html) (WIP) - ![crates.io](https://img.shields.io/crates/v/stm32f407g-disc.svg)
-*   [`stm32f429i-disc`](https://crates.io/crates/stm32f429i-disc) Board Support Crate for the [STM32F429DISCOVERY](https://www.st.com/en/evaluation-tools/32f429idiscovery.html) (WIP) - ![crates.io](https://img.shields.io/crates/v/stm32f429i-disc.svg)
+*   [`stm32f407g-disc`](https://crates.io/crates/stm32f407g-disc) Board Support Crate for the [STM32F4DISCOVERY](https://www.st.com/en/evaluation-tools/stm32f4discovery.html) (WIP) - [![crates.io](https://img.shields.io/crates/v/stm32f407g-disc.svg)](https://crates.io/crates/stm32f407g-disc)
+*   [`stm32f429i-disc`](https://crates.io/crates/stm32f429i-disc) Board Support Crate for the [STM32F429DISCOVERY](https://www.st.com/en/evaluation-tools/32f429idiscovery.html) (WIP) - [![crates.io](https://img.shields.io/crates/v/stm32f429i-disc.svg)](https://crates.io/crates/stm32f429i-disc)
 
 ## [2. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
 ### CLI
 
-*   [pg\_activity (⭐2.4k)](https://github.com/julmon/pg_activity) - Top-like application for PostgreSQL server activity monitoring.
+*   [pg\_activity (⭐2.5k)](https://github.com/julmon/pg_activity) - Top-like application for PostgreSQL server activity monitoring.
 
 ## [3. Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md)
 
@@ -173,7 +173,7 @@
 
 ### Java / General-Purpose Machine Learning
 
-*   [liblinear-java (⭐307)](https://github.com/bwaldvogel/liblinear-java) - Java version of liblinear.
+*   [liblinear-java (⭐306)](https://github.com/bwaldvogel/liblinear-java) - Java version of liblinear.
 
 ## [6. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
 
@@ -183,30 +183,6 @@
 *   [SwellRT](http://swellrt.org) is a Real-time text editor and collaboration API for HTML/JavaScript and Android. It is the only open source **decentralized-federated** framework to build collaborative applications.
 
 ## [7. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
-
-### Family
-
-### [Ticket to Ride](https://wikipedia.org/wiki/Ticket_to_Ride_\(board_game\))
-
-> ...a cross-country train adventure where players collect cards of various types of train cars that enable them to claim railway routes connecting cities in various countries around the world.
-
-![Ticket to Ride game image](https://upload.wikimedia.org/wikipedia/en/thumb/9/92/Ticket_to_Ride_Board_Game_Box_EN.jpg/220px-Ticket_to_Ride_Board_Game_Box_EN.jpg)
-
-| Players | Min. Age |   Time |
-| ------: | -------: | -----: |
-|   2 - 5 |        8 | 30-60m |
-
-### Strategy
-
-### [Mansions of Madness, 2nd ed](https://wikipedia.org/wiki/Mansions_of_Madness)
-
-> A fully cooperative, app-driven board game of horror and mystery for one to five players that takes place in the same universe as Eldritch Horror and Elder Sign. Explore the veiled streets of Innsmouth and the haunted corridors of Arkham's cursed mansions as you search for answers as you investigate four scenarios of fear and mystery. Collect weapons, tools, and information, solving complex puzzles, and fighting monsters, insanity, and death.
-
-![Mansions of Madness game image](https://cf.geekdo-images.com/B0F4U1vQnELePmNg4n5dtvcryGU=/fit-in/246x300/pic3118622.jpg)
-
-| Players | Min. Age |     Time |
-| ------: | -------: | -------: |
-|   1 - 5 |       14 | 120-180m |
 
 ### Party
 
@@ -230,7 +206,7 @@
 
 ### Querying / Symfony2
 
-*   [HTTP Prompt (⭐8.9k)](https://github.com/eliangcs/http-prompt) - HTTP Prompt is an interactive command-line HTTP client featuring autocomplete and syntax highlighting, built on HTTPie and prompt\_toolkit.
+*   [HTTP Prompt (⭐9k)](https://github.com/eliangcs/http-prompt) - HTTP Prompt is an interactive command-line HTTP client featuring autocomplete and syntax highlighting, built on HTTPie and prompt\_toolkit.
 
 ## [10. Vim Galore](/content/mhinz/vim-galore/README.md)
 
@@ -252,51 +228,45 @@
 
 *   [VoiceOverlay (⭐225)](https://github.com/algolia/voice-overlay-android) - An overlay that gets your user’s voice permission and input as text in a customizable UI.
 
-## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Resources / Examples
-
-*   [Nuxt + Apollo + Element (⭐28)](https://github.com/kavalcante/nuxt-element-apollo) A Vue.js SSR boilerplate with Nuxt, Element (custom theme) and Vue Apollo.
-
-## [14. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
+## [13. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 
 ### Talks
 
 *   [Serverless state of the union](https://www.youtube.com/watch?v=q7mFl9sLiCY) - Austen Collins keynote talk about serverless and the state of the union at the Open Source Summit 2018.
 
-## [15. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
+## [14. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
 
 ### Libraries / Ruby
 
 *   [awesome\_explain (⭐16)](https://github.com/sandboxws/awesome_explain) - A simple global method to explain Mongoid queries
 
-## [16. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [15. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Audio
 
-*   [voice-overlay-ios (⭐542)](https://github.com/algolia/voice-overlay-ios) - An overlay that gets your user’s voice permission and input as text in a customizable UI.
+*   [voice-overlay-ios (⭐545)](https://github.com/algolia/voice-overlay-ios) - An overlay that gets your user’s voice permission and input as text in a customizable UI.
 
 ### Alert / Barcode
 
-*   [Sheet (⭐335)](https://github.com/ParkGwangBeom/Sheet) - Actionsheet with navigation features such as the Flipboard App.
+*   [Sheet (⭐337)](https://github.com/ParkGwangBeom/Sheet) - Actionsheet with navigation features such as the Flipboard App.
 
-## [17. Awesome Jquery](/content/petk/awesome-jquery/README.md)
+## [16. Awesome Jquery](/content/petk/awesome-jquery/README.md)
 
 ### Animation / Paid Books
 
-*   [Fullpage.js (⭐34k)](https://github.com/alvarotrigo/fullPage.js) - Create full screen pages fast and simple.
+*   [Fullpage.js (⭐35k)](https://github.com/alvarotrigo/fullPage.js) - Create full screen pages fast and simple.
 
 ### Images, Maps and Charts / Paid Books
 
-*   [jQuery Images Compare (⭐49)](https://github.com/sylvaincombes/jquery-images-compare) - Plugin for comparing two images.
+*   [jQuery Images Compare (⭐61)](https://github.com/sylvaincombes/jquery-images-compare) - Plugin for comparing two images.
 
-## [18. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
+## [17. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
 
 ### Software / Utilities
 
 *   [Markdownify](https://markdownify.js.org) - A minimal Markdown editor. ([MIT (⭐891)](https://github.com/amitmerchant1990/electron-markdownify/blob/master/LICENSE.md))
 
-## [19. Awesome Vapor](/content/vapor-community/awesome-vapor/README.md)
+## [18. Awesome Vapor](/content/vapor-community/awesome-vapor/README.md)
 
 ### Libraries
 

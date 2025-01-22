@@ -19,7 +19,7 @@
 
 ### Animation / Redux / ELM / Dependency Injection
 
-*   [Sequence Animation (⭐391)](https://github.com/Norbert515/flutter_sequence_animation) <!--stargazers:Norbert515/flutter_sequence_animation--> - Composite staggered animations by [Norbert Kozsir](https://twitter.com/norbertkozsir)
+*   [Sequence Animation (⭐392)](https://github.com/Norbert515/flutter_sequence_animation) <!--stargazers:Norbert515/flutter_sequence_animation--> - Composite staggered animations by [Norbert Kozsir](https://twitter.com/norbertkozsir)
 
 ### Top / Game Engine resources
 
@@ -74,9 +74,9 @@
 
 ## [7. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
-### Other Tools / Telegram
+### Other Tools / Steam
 
-*   [The Harvester (⭐11k)](https://github.com/laramies/theHarvester) - Gather emails, subdomains, hosts, employee names, open ports and banners from different public sources like search engines, PGP key servers and SHODAN computer database.
+*   [The Harvester (⭐12k)](https://github.com/laramies/theHarvester) - Gather emails, subdomains, hosts, employee names, open ports and banners from different public sources like search engines, PGP key servers and SHODAN computer database.
 
 ## [8. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
@@ -108,26 +108,26 @@
 ### IDE
 
 *   [DataGrip](https://www.jetbrains.com/datagrip) - Cross-Platform IDE for Databases & SQL by JetBrains.
-*   [DBeaver (⭐38k)](https://github.com/dbeaver/dbeaver) - Free universal database manager and SQL client.
+*   [DBeaver (⭐41k)](https://github.com/dbeaver/dbeaver) - Free universal database manager and SQL client.
 
 ### CLI
 
-*   [pspg (⭐2.4k)](https://github.com/okbob/pspg) - Postgres Pager.
+*   [pspg (⭐2.5k)](https://github.com/okbob/pspg) - Postgres Pager.
 
 ### API / Samples
 
 *   [Oracle REST Data Services](http://www.oracle.com/technetwork/developer-tools/rest-data-services) - A mid-tier Java application, ORDS maps HTTP(S) verbs (GET, POST, PUT, DELETE, etc.) to database transactions and returns any results formatted using JSON.
-*   [prest (⭐4.1k)](https://github.com/prest/prest) - Is a way to serve a RESTful API from any databases written in Go.
-*   [resquel (⭐120)](https://github.com/formio/resquel) - Easily convert your SQL database into a REST API.
+*   [prest (⭐4.3k)](https://github.com/prest/prest) - Is a way to serve a RESTful API from any databases written in Go.
+*   [resquel (⭐128)](https://github.com/formio/resquel) - Easily convert your SQL database into a REST API.
 
 ### Monitoring/Statistics/Perfomance / Samples
 
-*   [pgmetrics (⭐922)](https://github.com/rapidloop/pgmetrics) - Collect and display information and stats from a running PostgreSQL server.
+*   [pgmetrics (⭐974)](https://github.com/rapidloop/pgmetrics) - Collect and display information and stats from a running PostgreSQL server.
 
 ### Monitoring/Statistics/Perfomance / Zabbix
 
 *   [Orabbix](http://www.smartmarmot.com/wiki/index.php?title=Orabbix) - Orabbix is a plugin designed to work with Zabbix Enterprise Monitor to provide multi-tiered monitoring, performance and availability reporting and measurement for Oracle Databases, along with server performance metrics.
-*   [Pyora (⭐121)](https://github.com/bicofino/Pyora) - Python script to monitor Oracle Databases.
+*   [Pyora (⭐120)](https://github.com/bicofino/Pyora) - Python script to monitor Oracle Databases.
 
 ## [11. Awesome Coldfusion](/content/seancoyne/awesome-coldfusion/week/README.md)
 
@@ -202,22 +202,21 @@
 
 ### ASM / Syntax highlighting packages
 
-*   [Tuff (⭐304)](https://github.com/BonsaiDen/Tuff.gb)
-*   [2048-gb (⭐107)](https://github.com/Sanqui/2048-gb)
+*   [Tuff (⭐306)](https://github.com/BonsaiDen/Tuff.gb)
+*   [2048-gb (⭐114)](https://github.com/Sanqui/2048-gb)
 *   [Snake](https://bitbucket.org/Sanqui/snake/src/?at=master)
 *   [Lazerpong (⭐14)](https://github.com/huderlem/lazerpong)
 *   [Geometrix (⭐29)](https://github.com/AntonioND/geometrix)
-*   [µCity (⭐398)](https://github.com/AntonioND/ucity)
+*   [µCity (⭐433)](https://github.com/AntonioND/ucity)
 *   [Carazu (⭐17)](https://github.com/mholtkamp/carazu)
-*   [Snake-gb (⭐18)](https://github.com/DonaldHays/snake-gb)
-*   [GB303 (⭐118)](https://github.com/furrtek/GB303) - GB303 wavetable-based TB-303 style synthesizer for the Nintendo Game Boy.
+*   [Snake-gb (⭐19)](https://github.com/DonaldHays/snake-gb)
+*   [GB303 (⭐133)](https://github.com/furrtek/GB303) - GB303 wavetable-based TB-303 style synthesizer for the Nintendo Game Boy.
 *   [Sushi (⭐5)](https://github.com/JustSid/Sushi)
-*   [Flappy-boy-asm (⭐87)](https://github.com/bitnenfer/flappy-boy-asm)
-*   [Adjustris (⭐13)](https://github.com/tbsp/Adjustris)
-*   [exeman (⭐27)](https://github.com/exezin/exeman/)
+*   [Flappy-boy-asm (⭐91)](https://github.com/bitnenfer/flappy-boy-asm)
+*   [Adjustris (⭐15)](https://github.com/tbsp/Adjustris)
 *   [Aevilia (⭐56)](https://github.com/ISSOtm/Aevilia-GB)
-*   [GBSlides (⭐27)](https://github.com/Kartones/gameboy) - A simple Game Boy Powerpoint-like slides viewer.
-*   [Pokered-gbc (⭐130)](https://github.com/dannye/pokered-gbc) - Pokémon Red remade with full GBC support.
+*   [GBSlides (⭐30)](https://github.com/Kartones/gameboy) - A simple Game Boy Powerpoint-like slides viewer.
+*   [Pokered-gbc (⭐145)](https://github.com/dannye/pokered-gbc) - Pokémon Red remade with full GBC support.
 *   [ToyToy (⭐10)](https://github.com/tslanina/Retro-GameBoyColor-ToyToy)
 *   [StefaN (⭐4)](https://github.com/tslanina/Retro-GameBoyColor-StefaN) - Fourway Breakout clone.
 *   [Galaxia (⭐4)](https://github.com/tslanina/Retro-GameBoyColor-Galaxia)
@@ -226,42 +225,42 @@
 
 ### C / Syntax highlighting packages
 
-*   [FlappyBoy (⭐20)](https://github.com/bitnenfer/FlappyBoy)
+*   [FlappyBoy (⭐21)](https://github.com/bitnenfer/FlappyBoy)
 *   [Squishy the Turtle (⭐8)](https://github.com/cppchriscpp/SquishyTheTurtle)
 *   [Quadratino (⭐12)](https://github.com/avivace/quadratino)
 *   [Doctor How (⭐27)](https://github.com/elfgames/doctorhow)
-*   [GBsnake (⭐28)](https://github.com/brovador/GBsnake)
-*   [gb-mines (⭐30)](https://github.com/andreasjhkarlsson/gb-mines)
+*   [GBsnake (⭐31)](https://github.com/brovador/GBsnake)
+*   [gb-mines (⭐32)](https://github.com/andreasjhkarlsson/gb-mines)
 *   [oranges](http://www.atari2600land.com/gameboy/oranges.html)
 *   [red hot princess carnage (⭐6)](https://github.com/Imanolea/bitbitjam3_red_hot_princess_carnage)
 *   [Hives](https://refreshgames.co.uk/2017/04/24/ludum-dare-38-entry-hives/)
 *   [GBC Atari Boxing (⭐3)](https://github.com/rubfi/gbc-atari-boxing) - Atari 2600 Boxing clone for the Game Boy (Color).
 *   [PostBot (⭐7)](https://github.com/MasterIV/PostBot)
-*   [Guns & Riders (⭐12)](https://github.com/kanfor/gunsridersgameboy)
+*   [Guns & Riders (⭐14)](https://github.com/kanfor/gunsridersgameboy)
 
 ### Demos / Syntax highlighting packages
 
-*   [Back to Color (⭐26)](https://github.com/AntonioND/back-to-color)
+*   [Back to Color (⭐28)](https://github.com/AntonioND/back-to-color)
 *   [beach-gbc (⭐14)](https://github.com/vegard/beach-gbc)
-*   [CUTE DEMO (⭐31)](https://github.com/mills32/CUTE_DEMO)
+*   [CUTE DEMO (⭐32)](https://github.com/mills32/CUTE_DEMO)
 *   [`10 PRINT` Game Boy](https://github.com/svendahlstrand/10-print-game-boy)
 *   [Roboto Demo (⭐27)](https://github.com/naavis/roboto-demo)
 
 ### Game Disassemblies / Syntax highlighting packages
 
-*   [Pokémon Yellow (⭐651)](https://github.com/pret/pokeyellow)
-*   [Pokémon Gold and Silver (⭐459)](https://github.com/pret/pokegold)
-*   [pokegold-spaceworld (⭐330)](https://github.com/pret/pokegold-spaceworld) - Pokémon Gold and Silver 1997 Space World demo.
-*   [Link's Awakening DX (⭐804)](https://github.com/mojobojo/LADX-Disassembly)
-*   [Oracle of Ages (⭐151)](https://github.com/drenn1/ages-disasm)
-*   [FX Hammer (⭐8)](https://github.com/DevEd2/FXHammer-Disasm)
-*   [Harvest Moon 3 (⭐17)](https://github.com/sanqui/hm3)
+*   [Pokémon Yellow (⭐725)](https://github.com/pret/pokeyellow)
+*   [Pokémon Gold and Silver (⭐548)](https://github.com/pret/pokegold)
+*   [pokegold-spaceworld (⭐352)](https://github.com/pret/pokegold-spaceworld) - Pokémon Gold and Silver 1997 Space World demo.
+*   [Link's Awakening DX (⭐842)](https://github.com/mojobojo/LADX-Disassembly)
+*   [Oracle of Ages (⭐172)](https://github.com/drenn1/ages-disasm)
+*   [FX Hammer (⭐9)](https://github.com/DevEd2/FXHammer-Disasm)
+*   [Harvest Moon 3 (⭐19)](https://github.com/sanqui/hm3)
 
 ## [19. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
 
 ### Examples / Templates
 
-*   [cmake\_snippets (⭐48)](https://github.com/adishavit/cmake_snippets) - Short copy-pasteable CMake snippets. [`[BSD3]`](https://opensource.org/licenses/BSD-3-Clause)
+*   [cmake\_snippets (⭐52)](https://github.com/adishavit/cmake_snippets) - Short copy-pasteable CMake snippets. [`[BSD3]`](https://opensource.org/licenses/BSD-3-Clause)
 
 ## [20. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
 
@@ -397,12 +396,12 @@
 *   C++
     *   [design-patterns](http://www.vincehuston.org/dp/)
 *   Kotlin
-    *   [design-patterns (⭐5.8k)](https://github.com/dbacinski/Design-Patterns-In-Kotlin)
+    *   [design-patterns (⭐5.9k)](https://github.com/dbacinski/Design-Patterns-In-Kotlin)
 *   PHP
-    *   [humans (⭐42k)](https://github.com/kamranahmedse/design-patterns-for-humans) - ultra simplified explanation to design patterns.
-    *   [design-patterns (⭐21k)](https://github.com/domnikl/DesignPatternsPHP)
+    *   [humans (⭐45k)](https://github.com/kamranahmedse/design-patterns-for-humans) - ultra simplified explanation to design patterns.
+    *   [design-patterns (⭐22k)](https://github.com/domnikl/DesignPatternsPHP)
 *   Ruby
-    *   [design-patterns (⭐2.4k)](https://github.com/davidgf/design-patterns-in-ruby)
+    *   [design-patterns (⭐2.5k)](https://github.com/davidgf/design-patterns-in-ruby)
 *   Swift
     *   [design-patterns (⭐15k)](https://github.com/ochococo/Design-Patterns-In-Swift)
 *   Vue.js
@@ -412,7 +411,7 @@
 
 *   [10 common architectural patterns](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013) - 10 Common software architectural patterns in a nutshell.
 *   [reactive design patterns](https://www.reactivedesignpatterns.com/categories.html) - This website accompanies the book Reactive Design Patterns by Roland Kuhn.
-*   [system-design-primer (⭐237k)](https://github.com/donnemartin/system-design-primer) - Design large-scale systems.
+*   [system-design-primer (⭐273k)](https://github.com/donnemartin/system-design-primer) - Design large-scale systems.
 
 ### Cloud Architecture
 
@@ -443,7 +442,7 @@
 
 ### Front-End Development
 
-*   [css-protips (⭐27k)](https://github.com/AllThingsSmitty/css-protips) - A collection of tips to help take your CSS skills pro.
+*   [css-protips (⭐28k)](https://github.com/AllThingsSmitty/css-protips) - A collection of tips to help take your CSS skills pro.
 
 ### Security
 
@@ -454,7 +453,7 @@
 
 ### Other Awesome Lists
 
-*   Other amazingly awesome lists can be found in the [awesome (⭐280k)](https://github.com/sindresorhus/awesome) list.
+*   Other amazingly awesome lists can be found in the [awesome (⭐330k)](https://github.com/sindresorhus/awesome) list.
 
 ### Contributing
 
@@ -470,7 +469,7 @@
 
 ### Tools
 
-*   [Pieman (⭐210)](https://github.com/tolstoyevsky/pieman) - Script for creating custom images based on Raspbian, Devuan, Ubuntu and Alpine Linux.
+*   [Pieman (⭐215)](https://github.com/tolstoyevsky/pieman) - Script for creating custom images based on Raspbian, Devuan, Ubuntu and Alpine Linux.
 
 ## [35. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/week/README.md)
 
@@ -523,12 +522,14 @@
 
 ### Mobile
 
-*   [json-mop (⭐59)](https://github.com/gschjetne/json-mop) - A metaclass for bridging CLOS and JSON objects. [MIT](https://opensource.org/licenses/MIT).
-*   [arrow-macros (⭐119)](https://github.com/hipeta/arrow-macros) - Clojure-like threading macros. [MIT](https://opensource.org/licenses/MIT).
+*   [json-mop (⭐63)](https://github.com/gschjetne/json-mop) - A metaclass for bridging CLOS and JSON objects. [MIT](https://opensource.org/licenses/MIT).
+    *   depends on YASON
+    *   for JSON libraries that don't do it natively (jzon, shasht and cl-json are able to *encode* CLOS objects to JSON out of the box, and cl-json has the ability to *decode* JSON objects into a "fluid-class" CLOS object.)
+*   [arrow-macros (⭐127)](https://github.com/hipeta/arrow-macros) - Clojure-like threading macros. [MIT](https://opensource.org/licenses/MIT).
 
 ### Non-deterministic, logic programming
 
-*   [cl-prolog2 (⭐29)](https://github.com/guicho271828/cl-prolog2) - Common Interface to ISO Prolog implementations from Common Lisp. [MIT](https://opensource.org/licenses/MIT).
+*   [cl-prolog2 (⭐32)](https://github.com/guicho271828/cl-prolog2) - Common Interface to ISO Prolog implementations from Common Lisp. [MIT](https://opensource.org/licenses/MIT).
 
 ## [38. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
@@ -559,7 +560,7 @@
 
 ### Icons / Themes
 
-*   [Ant Design Icons (⭐55)](https://github.com/fjc0k/ant-design-icons) - The premium icon font from Ant Design and Ant Design Mobile.
+*   [Ant Design Icons (⭐54)](https://github.com/fjc0k/ant-design-icons) - The premium icon font from Ant Design and Ant Design Mobile.
 
 ## [43. Awesome Framer](/content/podo/awesome-framer/week/README.md)
 
@@ -674,7 +675,7 @@
 
 ### Media
 
-*   [LibVLCSharp (⭐1.4k)](https://github.com/videolan/libvlcsharp) - Xamarin bindings for libvlc, the multimedia framework powering the VLC applications made by VideoLAN.
+*   [LibVLCSharp (⭐1.6k)](https://github.com/videolan/libvlcsharp) - Xamarin bindings for libvlc, the multimedia framework powering the VLC applications made by VideoLAN.
 
 ### Source Generator
 
@@ -710,7 +711,7 @@
 
 ### Cache
 
-*   [Carlos (⭐643)](https://github.com/spring-media/Carlos) - A simple but flexible cache.
+*   [Carlos (⭐644)](https://github.com/spring-media/Carlos) - A simple but flexible cache.
 
 ### UI / Barcode
 
@@ -718,7 +719,7 @@
 
 ### Alert / Barcode
 
-*   [PopupDialog (⭐3.9k)](https://github.com/orderella/PopupDialog) - A simple, customizable popup dialog. Replaces UIAlertController alert style.
+*   [PopupDialog (⭐4k)](https://github.com/orderella/PopupDialog) - A simple, customizable popup dialog. Replaces UIAlertController alert style.
 
 ### Utility / Barcode
 
@@ -762,7 +763,7 @@
 
 ### Table of Contents / Static Analysis
 
-*   [Psalm (⭐5.5k)](https://github.com/vimeo/psalm) - A static analysis tool for finding errors in PHP applications.
+*   [Psalm (⭐5.6k)](https://github.com/vimeo/psalm) - A static analysis tool for finding errors in PHP applications.
 
 ---
 

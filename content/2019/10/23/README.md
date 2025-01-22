@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 23, 2019
 
-21 awesome lists updated today.
+20 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -184,13 +184,7 @@
 
 *   [Abjad](http://abjad.mbrsi.org/) - a Python API for Formalized Score Control, based on Lilypond.
 
-## [17. Free for Dev](/content/ripienaar/free-for-dev/README.md)
-
-### Email
-
-*   [cloudmersive.com](https://www.cloudmersive.com/email-verification-api) — Email validation and verification API for developers, 800 free API requests/month
-
-## [18. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/README.md)
+## [17. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/README.md)
 
 ### Audio Related Packages
 
@@ -219,7 +213,7 @@
 *   [pyloudnorm](https://www.christiansteinmetz.com/projects-blog/pyloudnorm) [:octocat: (⭐474)](https://github.com/csteinmetz1/pyloudnorm) - Audio loudness meter and normalization, implements ITU-R BS.1770-4.
 *   [Sound Field Synthesis Toolbox](http://www.sfstoolbox.org) [:octocat: (⭐63)](https://github.com/sfstoolbox/sfs-python) [:package:](https://pypi.python.org/pypi/sfs/) - Sound Field Synthesis Toolbox.
 
-## [19. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
+## [18. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
 
 ### Standalone Components
 
@@ -229,19 +223,19 @@
 *   [`<model-viewer>`](https://github.com/GoogleWebComponents/model-viewer) - A web component for rendering interactive 3D models.
 *   [`<rapi-doc>`](https://github.com/mrin9/RapiDoc) - Web Component to view OpenAPI 3.0 & Swagger 2.0 Spec.
 
-## [20. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
+## [19. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
 ### Status Bar
 
-*   [tmux-network-bandwidth (⭐76)](https://github.com/xamut/tmux-network-bandwidth) Show
+*   [tmux-network-bandwidth (⭐78)](https://github.com/xamut/tmux-network-bandwidth) Show
     network bandwidth
-*   [tmux-weather (⭐60)](https://github.com/xamut/tmux-weather) Show current weather using wttr.in
+*   [tmux-weather (⭐70)](https://github.com/xamut/tmux-weather) Show current weather using wttr.in
 
-## [21. Awesome Actions](/content/sdras/awesome-actions/README.md)
+## [20. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
 ### Deployment / Code Coverage
 
-*   [Deploy a Collection to Ansible Galaxy (⭐32)](https://github.com/artis3n/ansible_galaxy_collection)
+*   [Deploy a Collection to Ansible Galaxy (⭐88)](https://github.com/artis3n/ansible_galaxy_collection)
 
 ---
 

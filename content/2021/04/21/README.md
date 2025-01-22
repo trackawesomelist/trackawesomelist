@@ -22,13 +22,13 @@
 
 ### Commerce
 
-*   [Sitecore Commerce Engine USPS plugin (⭐1)](https://github.com/XCentium/SC-Plugin-USPS) - Allows the user to integrate USPS as a Fulfillment Method for shipping.
+*   [Sitecore Commerce Engine USPS plugin](https://github.com/XCentium/SC-Plugin-USPS) - Allows the user to integrate USPS as a Fulfillment Method for shipping.
 
 ## [4. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
 ### Utils / Other Tools
 
-*   [OpenTelemetry FastAPI Instrumentation (⭐680)](https://github.com/open-telemetry/opentelemetry-python-contrib/tree/main/instrumentation/opentelemetry-instrumentation-fastapi) - Library provides automatic and manual instrumentation of FastAPI web frameworks, instrumenting http requests served by applications utilizing the framework.
+*   [OpenTelemetry FastAPI Instrumentation (⭐761)](https://github.com/open-telemetry/opentelemetry-python-contrib/tree/main/instrumentation/opentelemetry-instrumentation-fastapi) - Library provides automatic and manual instrumentation of FastAPI web frameworks, instrumenting http requests served by applications utilizing the framework.
 
 ## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -46,11 +46,11 @@
 
 ### Python / Visualization
 
-*   [finvizfinance (⭐440)](https://github.com/lit26/finvizfinance) - Finviz analysis python library.
+*   [finvizfinance (⭐568)](https://github.com/lit26/finvizfinance) - Finviz analysis python library.
 
 ### Golang / Data Visualization
 
-*   [marketstore (⭐1.8k)](https://github.com/alpacahq/marketstore) - DataFrame Server for Financial Timeseries Data.
+*   [marketstore (⭐1.9k)](https://github.com/alpacahq/marketstore) - DataFrame Server for Financial Timeseries Data.
 
 ## [8. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -90,13 +90,13 @@
 
 ### Package suites
 
-*   **[(Poly)merase (⭐405)](https://github.com/TimothyStiles/poly)** - A Go library and command line utility for engineering organisms.
+*   **[(Poly)merase (⭐676)](https://github.com/TimothyStiles/poly)** - A Go library and command line utility for engineering organisms.
 
 ## [12. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
 ### Motion / Stepper
 
-*   [ticlib (⭐17)](https://github.com/jphalip/ticlib) - Driver for Pololu Tic stepper motor controllers.
+*   [ticlib (⭐19)](https://github.com/jphalip/ticlib) - Driver for Pololu Tic stepper motor controllers.
 
 ## [13. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 

@@ -17,7 +17,7 @@
 
 ### Preprocessing
 
-*   [svelte-switch-case (⭐145)](https://github.com/l-portet/svelte-switch-case) - Switch case syntax for Svelte.
+*   [svelte-switch-case (⭐151)](https://github.com/l-portet/svelte-switch-case) - Switch case syntax for Svelte.
 
 ## [3. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 
@@ -29,7 +29,7 @@
 
 ### Shopify / Community
 
-*   [vite-plugin-shopify (⭐251)](https://github.com/barrel/barrel-shopify/tree/main/packages/vite-plugin-shopify) - Integration for Shopify themes.
+*   [vite-plugin-shopify (⭐305)](https://github.com/barrel/barrel-shopify/tree/main/packages/vite-plugin-shopify) - Integration for Shopify themes.
 
 ## [5. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
 
@@ -59,18 +59,18 @@
 
 ### GUI
 
-*   [AppIndicator Go (⭐5)](https://github.com/gopherlibs/appindicator) - Go bindings for libappindicator3 C library.
+*   [AppIndicator Go (⭐6)](https://github.com/gopherlibs/appindicator) - Go bindings for libappindicator3 C library.
 
 ## [8. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / E-commerce
 
-*   [s-cart](https://s-cart.org/) - S-Cart is a free e-commerce website project for individuals and businesses, built on top of Laravel Framework. ([Demo](https://demo.s-cart.org/), [Source Code (⭐633)](https://github.com/s-cart/s-cart)) `MIT` `PHP`
-*   [Saleor](https://saleor.io) - Django based open-sourced e-commerce storefront. ([Demo](https://demo.saleor.io/), [Source Code (⭐20k)](https://github.com/saleor/saleor)) `BSD-3-Clause` `Docker/Python`
+*   [s-cart](https://s-cart.org/) - S-Cart is a free e-commerce website project for individuals and businesses, built on top of Laravel Framework. ([Demo](https://demo.s-cart.org/), [Source Code (⭐678)](https://github.com/s-cart/s-cart)) `MIT` `PHP`
+*   [Saleor](https://saleor.io) - Django based open-sourced e-commerce storefront. ([Demo](https://demo.saleor.io/), [Source Code (⭐21k)](https://github.com/saleor/saleor)) `BSD-3-Clause` `Docker/Python`
 
 ### Software / Games - Administrative Utilities & Control Panels
 
-*   [Lancache](https://lancache.net) `⚠` - LAN Party game caching made easy. ([Source Code (⭐738)](https://github.com/lancachenet/monolithic)) `MIT` `Docker/Shell`
+*   [Lancache](https://lancache.net) `⚠` - LAN Party game caching made easy. ([Source Code (⭐765)](https://github.com/lancachenet/monolithic)) `MIT` `Docker/Shell`
 
 ### Software / Miscellaneous
 
@@ -78,12 +78,12 @@
 
 ### Software / Personal Dashboards
 
-*   [Jump (⭐512)](https://github.com/daledavies/jump) - Yet another self-hosted startpage for your server designed to be simple, stylish, fast and secure. `MIT` `Docker/PHP`
-*   [Web-Portal (⭐188)](https://github.com/enchant97/web-portal) - A python web app designed to allow a easy way to manage the links to all of your web services. `AGPL-3.0` `Docker/Python`
+*   [Jump (⭐555)](https://github.com/daledavies/jump) - Yet another self-hosted startpage for your server designed to be simple, stylish, fast and secure. `MIT` `Docker/PHP`
+*   [Web-Portal (⭐214)](https://github.com/enchant97/web-portal) - A python web app designed to allow a easy way to manage the links to all of your web services. `AGPL-3.0` `Docker/Python`
 
 ### Software / Proxy
 
-*   [Outline Server](https://getoutline.org/) - A proxy server that runs a Shadowsocks instance for each access key and a REST API to manage the access keys. ([Source Code (⭐5.7k)](https://github.com/Jigsaw-Code/outline-server)) `Apache-2.0` `Docker/Nodejs`
+*   [Outline Server](https://getoutline.org/) - A proxy server that runs a Shadowsocks instance for each access key and a REST API to manage the access keys. ([Source Code (⭐5.9k)](https://github.com/Jigsaw-Code/outline-server)) `Apache-2.0` `Docker/Nodejs`
 
 ## [9. Awesome Scifi](/content/sindresorhus/awesome-scifi/README.md)
 
@@ -95,7 +95,7 @@
 
 ### Crates / Hooks
 
-*   [Bounce (⭐100)](https://github.com/bounce-rs/bounce) - The uncomplicated state management library for Yew, inspired by [Redux (⭐61k)](https://github.com/reduxjs/redux) and [Recoil (⭐19k)](https://github.com/facebookexperimental/Recoil).
+*   [Bounce (⭐101)](https://github.com/bounce-rs/bounce) - The uncomplicated state management library for Yew, inspired by [Redux (⭐61k)](https://github.com/reduxjs/redux) and [Recoil (⭐20k)](https://github.com/facebookexperimental/Recoil).
 
 ## [11. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
@@ -119,7 +119,7 @@
 
 ### Math / Apache License
 
-*   [geo-energy-math (⭐7)](https://github.com/pukpr/GeoEnergyMath) - Software libraries for solving models described in Mathematical GeoEnergy (Wiley, 2018).
+*   [geo-energy-math (⭐8)](https://github.com/pukpr/GeoEnergyMath) - Software libraries for solving models described in Mathematical GeoEnergy (Wiley, 2018).
 
 ## [15. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
@@ -131,7 +131,7 @@
 
 ### (requires Neovim 0.5) / LSP Installer
 
-*   [williamboman/mason.nvim (⭐7.5k)](https://github.com/williamboman/mason.nvim) - Portable package manager that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
+*   [williamboman/mason.nvim (⭐8.3k)](https://github.com/williamboman/mason.nvim) - Portable package manager that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
 
 ## [17. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
 

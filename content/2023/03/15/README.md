@@ -22,13 +22,13 @@
 
 ### Other Awesome Projects
 
-*   [awesome-hpp (⭐3.4k)](https://github.com/p-ranav/awesome-hpp) - A curated list of awesome header-only C++ libraries.
+*   [awesome-hpp (⭐3.6k)](https://github.com/p-ranav/awesome-hpp) - A curated list of awesome header-only C++ libraries.
 
 ## [4. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / File manager
 
-*   [broot (⭐10k)](https://github.com/Canop/broot) - A new way to see and navigate directory trees (get an overview of a directory, even a big one; find a directory then `cd` to it; never lose track of file hierarchy while you search; manipulate your files, ...), further reading [dystroy.org/broot](https://dystroy.org/broot/) [![Latest Version](https://img.shields.io/crates/v/broot.svg)](https://crates.io/crates/broot)
+*   [broot (⭐11k)](https://github.com/Canop/broot) - A new way to see and navigate directory trees (get an overview of a directory, even a big one; find a directory then `cd` to it; never lose track of file hierarchy while you search; manipulate your files, ...), further reading [dystroy.org/broot](https://dystroy.org/broot/) [![Latest Version](https://img.shields.io/crates/v/broot.svg)](https://crates.io/crates/broot)
 
 ## [5. Awesome Arcgis Developers](/content/Esri/awesome-arcgis-developers/README.md)
 
@@ -44,13 +44,13 @@
 
 ### Projects
 
-*   [Raspberry Pi Setup (⭐31)](https://github.com/atao/raspberrypi-setup) - ⚡ Quickly setup my Raspberry Pi.
+*   [Raspberry Pi Setup (⭐32)](https://github.com/atao/raspberrypi-setup) - ⚡ Quickly setup my Raspberry Pi.
 
 ## [7. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Utilities / File Organization Tools
 
-*   [Modal File Manager (⭐106)](https://github.com/raguay/ModalFileManager/) - A lightweight, minimal dual-pane file manager with Vim style hotkeys. It can be customized with themes and extensions that are downloaded from GitHub using a built in interface. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://GitHub.com/raguay/ModalFileManager) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Modal File Manager (⭐120)](https://github.com/raguay/ModalFileManager/) - A lightweight, minimal dual-pane file manager with Vim style hotkeys. It can be customized with themes and extensions that are downloaded from GitHub using a built in interface. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://GitHub.com/raguay/ModalFileManager) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [8. Awesome Fantasy](/content/RichardLitt/awesome-fantasy/README.md)
 
@@ -62,13 +62,13 @@
 
 ### Utility / Diagnostics
 
-*   [zdcthomas/yop.nvim (⭐72)](https://github.com/zdcthomas/yop.nvim) - Easily create your own operators (like `d` and `y`).
+*   [zdcthomas/yop.nvim (⭐74)](https://github.com/zdcthomas/yop.nvim) - Easily create your own operators (like `d` and `y`).
 
 ## [10. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [cybensis (⭐0)](https://github.com/cybensis/cybensis-zsh-theme) - Based on [af-magic (⭐172k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/af-magic.zsh-theme). Includes decorators for `git` information, `hg` information, and python virtualenv.
+*   [cybensis (⭐0)](https://github.com/cybensis/cybensis-zsh-theme) - Based on [af-magic (⭐175k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/af-magic.zsh-theme). Includes decorators for `git` information, `hg` information, and python virtualenv.
 
 ---
 

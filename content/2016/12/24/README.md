@@ -47,7 +47,6 @@
 
 *   [MyFitnessPal](http://www.myfitnesspal.com/) - Food tracking and diet plan app (iOS & Android).
 *   [Fat Secret](https://www.fatsecret.com/) - Calorie counter and diet tracker for weight loss (iOS & Android).
-*   [Calorie Counter](https://www.caloriecount.com/) - Nutritional database and calorie counting app (iOS & Android).
 
 ### Applications and Platforms / Time
 
@@ -57,49 +56,29 @@
 *   [Hours Time Tracker](https://www.hourstimetracking.com/) - Awesome time tracking app (iOS).
 *   [Rescue Time](https://www.rescuetime.com/) - Automatically tracks where you spend your time (Mac, Windows, Android, Linux).
 *   [Manic Time](http://www.manictime.com/) - Automatic time tracking software which tracks computer usage (Windows).
-*   [Moment](https://inthemoment.io/) - Track time spent on iPhone and iPad (iOS).
-
-### Applications and Platforms / Health
-
-*   [CureTogether](http://curetogether.com/) - Health self tracking and collaborative network.
-*   [Symple](http://www.sympleapp.com/) - Symptom journal and health tracker (iOS).
 
 ### Applications and Platforms / Heart
 
-*   [Cardiio](http://www.cardiio.com/) - Touchless heart rate monitor (iOS).
 *   [Instant Heart Rate](http://www.azumio.com/s/instantheartrate/index.html) - Fast and accurate mobile heart rate monitor (iOS, Android, Windows).
-
-### Applications and Platforms / Mind & Cognition
-
-*   [Cambridge Brain Sciences](http://www.cambridgebrainsciences.com/) - Scientifically proven tools for the assessment of cognitive function.
-*   [Quantified Mind](http://www.quantified-mind.com/about) - Tests and experiments to quantify cognitive abilities.
 
 ### Applications and Platforms / Sleep
 
 *   [Sleep as Android](http://sleep.urbandroid.org/) - Full featured sleep tracker with wearable integration (Android).
-*   [SleepBot](https://mysleepbot.com/) - Smart alarm and sleep tracker (iOS & Android).
 *   [Sleep Cycle](https://www.sleepcycle.com/) - Intelligent alarm clock and sleep tracker (iOS & Android).
 *   [Pillow](https://neybox.com/pillow/) - Track your sleep from your Apple Watch or iPhone (iOS).
 
-### Applications and Platforms / Tally
-
-*   [Nomie](http://nomie.io/) - Privately track events in your life (iOS & Android).
-*   [Track This For Me](https://www.trackthisfor.me/) - Multi-purpose tracking platform (Android).
-*   [Instant](http://instantapp.today/) - Track all of your daily activities automatically (iOS & Android).
-
 ### Applications and Platforms / Wealth
 
-*   [Mint](http://www.mint.com/) - Manage your money, pay your bills and track your credit score.
 *   [Personal Capital](https://www.personalcapital.com/) - Financial software and wealth management.
 *   [You Need A Budget (YNAB)](http://www.youneedabudget.com/) - Personal home budget software.
 *   [GNU Cash](https://www.gnucash.org/) - Personal and small-business financial-accounting software.
-*   [Ledger (⭐5k)](https://github.com/ledger/ledger) - Simple but powerful command line accounting.
+*   [Ledger (⭐5.3k)](https://github.com/ledger/ledger) - Simple but powerful command line accounting.
 
 ## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Debug
 
-*   [backward-cpp (⭐3.7k)](https://github.com/bombela/backward-cpp) - A beautiful stack trace pretty printer for C++. \[MIT]
+*   [backward-cpp (⭐3.9k)](https://github.com/bombela/backward-cpp) - A beautiful stack trace pretty printer for C++. \[MIT]
 
 ## [6. Awesome Qt](/content/JesseTG/awesome-qt/README.md)
 

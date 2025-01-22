@@ -16,24 +16,24 @@
 
 ### Git Tools
 
-*   [GitLink (⭐556)](https://github.com/GitTools/GitLink) - let's users step through their code hosted on GitHub or BitBucket
+*   [GitLink (⭐554)](https://github.com/GitTools/GitLink) - let's users step through their code hosted on GitHub or BitBucket
 
 ### HTML and CSS
 
-*   [AngleSharp (⭐5.1k)](https://github.com/AngleSharp/AngleSharp) - Complete HTML5 DOM and CSS3 OM construction
+*   [AngleSharp (⭐5.2k)](https://github.com/AngleSharp/AngleSharp) - Complete HTML5 DOM and CSS3 OM construction
 
 ### Logging
 
-*   [Elmah MVC (⭐266)](https://github.com/alexbeletsky/elmah-mvc) - Elmah for MVC
+*   [Elmah MVC (⭐264)](https://github.com/alexbeletsky/elmah-mvc) - Elmah for MVC
 
 ### Metrics
 
-*   [C# StatsD Client (⭐111)](https://github.com/Pereingo/statsd-csharp-client) - C# client for Etsy's StatsD
+*   [C# StatsD Client (⭐110)](https://github.com/Pereingo/statsd-csharp-client) - C# client for Etsy's StatsD
 
 ### Misc
 
-*   [CsvHelper (⭐4.7k)](https://github.com/JoshClose/CsvHelper) - Library to help reading and writing CSV files [https://github.com/JoshClose/CsvHelper (⭐4.7k)](https://github.com/JoshClose/CsvHelper)
-*   [Humanizer (⭐8.6k)](https://github.com/Humanizr/Humanizer) - Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities
+*   [CsvHelper (⭐4.8k)](https://github.com/JoshClose/CsvHelper) - Library to help reading and writing CSV files [https://github.com/JoshClose/CsvHelper (⭐4.8k)](https://github.com/JoshClose/CsvHelper)
+*   [Humanizer (⭐8.7k)](https://github.com/Humanizr/Humanizer) - Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities
 
 ### ORM
 
@@ -51,11 +51,11 @@
 
 ### ORM and Datamapping
 
-*   [moebius (⭐598)](https://github.com/robconery/moebius) - A functional query tool for Elixir and PostgreSQL.
+*   [moebius (⭐603)](https://github.com/robconery/moebius) - A functional query tool for Elixir and PostgreSQL.
 
 ## [4. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
-### Facebook Accounts / Book Deals (Affiliated) 🛍
+### Facebook Accounts / Book Deals (Affiliated)
 
 *   [Vademecum of Practical Data Science](https://www.facebook.com/datasciencevademecum)
 

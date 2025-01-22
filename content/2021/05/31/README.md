@@ -16,7 +16,7 @@
 
 ### GFF BED File Utilities / Structural variant callers
 
-*   **[AGAT (⭐281)](https://github.com/NBISweden/AGAT)** - Suite of tools to handle gene annotations in any GTF/GFF format. \[ [web](https://agat.readthedocs.io/en/latest/?badge=latest) ]
+*   **[AGAT (⭐473)](https://github.com/NBISweden/AGAT)** - Suite of tools to handle gene annotations in any GTF/GFF format. \[ [web](https://agat.readthedocs.io/en/latest/?badge=latest) ]
 
 ## [3. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
@@ -26,13 +26,13 @@
 
 ### Planning Data Specifications / Transportation
 
-*   [GMNS (⭐100)](https://github.com/zephyr-data-specs/GMNS) - The General Modeling Network Specification defines a common human and machine readable format for sharing routable road network files.
+*   [GMNS (⭐116)](https://github.com/zephyr-data-specs/GMNS) - The General Modeling Network Specification defines a common human and machine readable format for sharing routable road network files.
 
 ## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-fullscreen (⭐436)](https://github.com/mirari/vue-fullscreen) - A simple Vue component for fullscreen, support Vue2 and Vue3.
+*   [vue-fullscreen (⭐437)](https://github.com/mirari/vue-fullscreen) - A simple Vue component for fullscreen, support Vue2 and Vue3.
 
 ## [5. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
@@ -46,7 +46,6 @@
 ### File Search
 
 *   [File Search Engine](https://www.filesearch.link/)
-*   [FileChef](https://www.filechef.com/)
 *   [FileListing](https://filelisting.com/)
 *   [FilePursuit](https://filepursuit.com/)
 *   [NAPALM FTP Indexer](https://www.searchftps.net/)
@@ -65,7 +64,7 @@
 
 *   [Kribrum](https://kribrum.io/)
 *   [Mail.Ru Social Network Search](https://go.mail.ru/search_social)
-*   [Oblivion (⭐491)](https://github.com/loseys/Oblivion)
+*   [Oblivion (⭐528)](https://github.com/loseys/Oblivion)
 *   [Profil3r](https://github.com/Rog3rSm1th/Profil3r)
 *   [WATools](https://watools.io/)
 
@@ -73,58 +72,58 @@
 
 *   [VK.watch](https://vk.watch/)
 
-### Forums and Discussion Boards Search / Telegram
+### Forums and Discussion Boards Search / Steam
 
 *   [4chan Search](https://4chansearch.com/)
 
-### Username Check / Telegram
+### Username Check / Steam
 
 *   [WhatsMyName](https://whatsmyname.app/) - check for usernames across many different platforms.
 
-### People Investigations / Telegram
+### People Investigations / Steam
 
 *   [Mugshots](https://mugshots.com/)
 *   [ZabaSearch](https://www.zabasearch.com/)
 
-### Phone Number Research / Telegram
+### Phone Number Research / Steam
 
 *   [FreeCarrierLookup](https://freecarrierlookup.com/) - enter a phone number and we'll return the carrier name and whether the number is wireless or landline. We also return the email-to-SMS and email-to-MMS gateway addresses for USA and Canadian\* phone numbers.
 *   [Sync.ME](https://sync.me/) - a caller ID and spam blocker app.
 
-### Company Research / Telegram
+### Company Research / Steam
 
 *   [BrownBook](https://www.brownbook.net/)
 *   [CorporationWiki](https://www.corporationwiki.com/)
 *   [GoodFirms](https://www.goodfirms.co/)
 *   [YouControl](https://youcontrol.com.ua/en/)
 
-### Job Search Resources / Telegram
+### Job Search Resources / Steam
 
 *   [RecruitEm](https://recruitin.net/)
 
-### Q&A Sites / Telegram
+### Q&A Sites / Steam
 
 *   [Ответы](https://otvet.mail.ru/)
 
-### Image Search / Telegram
+### Image Search / Steam
 
 *   [Betaface](https://www.betaface.com/demo.html)
 *   [Search4faces](https://search4faces.com/) - a service for searching people on the Internet by photo.
 
-### Image Analysis / Telegram
+### Image Analysis / Steam
 
 *   [DiffChecker](https://www.diffchecker.com/image-diff/)
 *   [Forensically](https://29a.ch/photo-forensics/)
 *   [ImgOps](https://imgops.com/)
 
-### Video Search and Other Video Tools / Telegram
+### Video Search and Other Video Tools / Steam
 
 *   [Insecam](http://insecam.org/) - Live cameras directory
-*   [Video Stabilization Methods (⭐343)](https://github.com/yaochih/awesome-video-stabilization)
+*   [Video Stabilization Methods (⭐405)](https://github.com/yaochih/awesome-video-stabilization)
 *   [YouTube Geofind](https://mattw.io/youtube-geofind/)
 *   [YouTube Metadata](https://mattw.io/youtube-metadata/)
 
-### Geospatial Research and Mapping Tools / Telegram
+### Geospatial Research and Mapping Tools / Steam
 
 *   [ArcGIS](https://livingatlas.arcgis.com/en/browse/)
 *   [Baidu Maps](https://map.baidu.com/)
@@ -140,20 +139,20 @@
 *   [SOAR](https://soar.earth/)
 *   [Windy](https://www.windy.com/)
 
-### Infographics and Data Visualization / Telegram
+### Infographics and Data Visualization / Steam
 
 *   [Observable](https://observablehq.com/) - a modern way to create powerful, performant, polyglot data apps built on open source.
 
-### Other Tools / Telegram
+### Other Tools / Steam
 
-*   [FOCA (⭐2.9k)](https://github.com/ElevenPaths/FOCA) - Tool to find metadata and hidden information in the documents.
+*   [FOCA (⭐3.1k)](https://github.com/ElevenPaths/FOCA) - Tool to find metadata and hidden information in the documents.
 *   [OSINT.SH](https://osint.sh/) - Information Gathering Toolset.
 
-### OSINT Videos / Telegram
+### OSINT Videos / Steam
 
 *   [SANS OSINT Summit 2021 (Playlist)](https://www.youtube.com/playlist?list=PLs4eo9Tja8bj3jJvv42LxOkhc2_ylpS9y)
 
-### OSINT Blogs / Telegram
+### OSINT Blogs / Steam
 
 *   [IntelTechniques](https://inteltechniques.com/)
 *   [OSINTCurious](https://osintcurio.us/)
@@ -161,7 +160,7 @@
 *   [Skopenow](https://www.skopenow.com/news)
 *   [Sleuth For The Truth](http://sleuthforthetruth.com/)
 
-### Other Resources / Telegram
+### Other Resources / Steam
 
 *   [OSINT Dojo](https://www.osintdojo.com/resources/)
 *   [OSINT Belarus](https://t.me/s/osintby)
@@ -225,7 +224,7 @@
 
 ### Vert.x Event Bus Extensions
 
-*   [Eventbus Service (⭐8)](https://github.com/wowselim/eventbus-service) - Code generator for type-safe event bus communication via simple Kotlin interfaces.
+*   [Eventbus Service (⭐11)](https://github.com/wowselim/eventbus-service) - Code generator for type-safe event bus communication via simple Kotlin interfaces.
 
 ## [11. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
@@ -237,7 +236,7 @@
 
 ### Development Projects / Miscellaneous
 
-*   [PokéPalettes (⭐1)](https://github.com/BarryMode/pokepalettes) - 16-bit palettes that represent Pokémon (based on the models from Pokémon GO).
+*   [PokéPalettes](https://github.com/BarryMode/pokepalettes) - 16-bit palettes that represent Pokémon (based on the models from Pokémon GO).
 
 ---
 

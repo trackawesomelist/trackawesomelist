@@ -28,13 +28,13 @@
 
 ### Network / Barcode
 
-*   [OAuth2 (⭐1.1k)](https://github.com/p2/OAuth2) - oauth2 auth lib.
+*   [OAuth2 (⭐1.2k)](https://github.com/p2/OAuth2) - oauth2 auth lib.
 
 ## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Serialization
 
-*   [protobuf-c (⭐2.6k)](https://github.com/protobuf-c/protobuf-c) - Protocol Buffers implementation in C. \[BSD]
+*   [protobuf-c (⭐2.7k)](https://github.com/protobuf-c/protobuf-c) - Protocol Buffers implementation in C. \[BSD]
 
 ## [6. Awesome Perl](/content/hachiojipm/awesome-perl/week/README.md)
 
@@ -46,7 +46,7 @@
 
 ### Python / Data Analysis / Data Visualization
 
-*   [PyQtGraph (⭐3.8k)](https://github.com/pyqtgraph/pyqtgraph) - A pure-python graphics and GUI library built on PyQt4 / PySide and NumPy.
+*   [PyQtGraph (⭐3.9k)](https://github.com/pyqtgraph/pyqtgraph) - A pure-python graphics and GUI library built on PyQt4 / PySide and NumPy.
 
 ## [8. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
@@ -152,11 +152,11 @@
 
 ### Packages / Streams
 
-*   [multistream (⭐284)](https://github.com/feross/multistream) - Combine multiple streams into a single stream.
+*   [multistream (⭐288)](https://github.com/feross/multistream) - Combine multiple streams into a single stream.
 
 ### Packages / Network
 
-*   [ipify (⭐270)](https://github.com/sindresorhus/ipify) - Get your public IP address.
+*   [ipify (⭐273)](https://github.com/sindresorhus/ipify) - Get your public IP address.
 
 ## [13. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 

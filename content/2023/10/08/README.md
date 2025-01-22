@@ -10,20 +10,20 @@
 
 ### Examples
 
-*   [internetarchive/openlibrary (⭐5k)](https://github.com/internetarchive/openlibrary/wiki)
+*   [internetarchive/openlibrary (⭐5.3k)](https://github.com/internetarchive/openlibrary/wiki)
 
 ## [2. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [apt (⭐4)](https://github.com/GeoLMg/apt-zsh-plugin) - For distros with `apt` package manager. Offers to install missing programs for you.
-*   [brew-switcher (⭐5)](https://github.com/fielding/zsh-brew-switcher) - Automatically switch between Homebrew installations based on the current active arch, arm64 or x86\_64, on Apple Silicon Macs.
+*   [apt (⭐5)](https://github.com/GeoLMg/apt-zsh-plugin) - For distros with `apt` package manager. Offers to install missing programs for you.
+*   [brew-switcher (⭐7)](https://github.com/fielding/zsh-brew-switcher) - Automatically switch between Homebrew installations based on the current active arch, arm64 or x86\_64, on Apple Silicon Macs.
 
 ## [3. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Web
 
-*   [Flaxoos/flax-ktor-plugins (⭐54)](https://github.com/Flaxoos/flax-ktor-plugins) - A Ktor plugins repository for servers and clients, including a kafka client plugin, circuit breaker and more
+*   [Flaxoos/flax-ktor-plugins (⭐69)](https://github.com/Flaxoos/flax-ktor-plugins) - A Ktor plugins repository for servers and clients, including a kafka client plugin, circuit breaker and more
 
 ## [4. Awesome Naming](/content/gruhn/awesome-naming/README.md)
 
@@ -49,7 +49,7 @@
 
 ### CSV Files / Diagnostics
 
-*   [VidocqH/data-viewer.nvim (⭐85)](https://github.com/VidocqH/data-viewer.nvim) - Provide a simple table view to inspect data files such as `csv`, `tsv`.
+*   [VidocqH/data-viewer.nvim (⭐103)](https://github.com/VidocqH/data-viewer.nvim) - Provide a simple table view to inspect data files such as `csv`, `tsv`.
 
 ## [7. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 

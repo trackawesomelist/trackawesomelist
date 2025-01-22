@@ -26,7 +26,7 @@
 
 ### Table of Contents / Asset Management
 
-*   [JShrink (⭐749)](https://github.com/tedious/JShrink) - A JavaScript minifier library.
+*   [JShrink (⭐752)](https://github.com/tedious/JShrink) - A JavaScript minifier library.
 
 ### Table of Contents / Geolocation
 
@@ -38,7 +38,7 @@
 
 ### Table of Contents / Caching and Locking
 
-*   [Stash (⭐960)](https://github.com/tedious/Stash) - Another library for caching.
+*   [Stash (⭐962)](https://github.com/tedious/Stash) - Another library for caching.
 
 ### Table of Contents / Data Structure and Storage
 
@@ -108,7 +108,7 @@
 ### Benchmark / Runner
 
 *   [benchmark.js (⭐5.5k)](https://github.com/bestiejs/benchmark.js) - A benchmarking library. As used on jsPerf.com.
-*   [matcha (⭐561)](https://github.com/logicalparadox/matcha) - A caffeine driven, simplistic approach to benchmarking.
+*   [matcha (⭐562)](https://github.com/logicalparadox/matcha) - A caffeine driven, simplistic approach to benchmarking.
 
 ## [11. Awesome Text Editing](/content/dok/awesome-text-editing/README.md)
 

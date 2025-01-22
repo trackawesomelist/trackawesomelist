@@ -14,7 +14,7 @@
 
 ### How do I contribute to this list? / Other Types of Support
 
-*   **Familiar with GitHub?** Send a pull request with your suggestions. Please also see the [contribution guidelines (⭐202)](https://github.com/dylanrees/toolsforcitizenscience/blob/master/contributing.md).
+*   **Familiar with GitHub?** Send a pull request with your suggestions. Please also see the [contribution guidelines (⭐248)](https://github.com/dylanrees/toolsforcitizenscience/blob/master/contributing.md).
 *   **Not familiar with GitHub?** You can leave a comment on this page by clicking on the `Issues` tab on the right and adding a New Issue (that's just like a comment). You'll need to create a GitHub account first.
 
 ## [2. Awesome Programming for Kids](/content/HollyAdele/awesome-programming-for-kids/README.md)

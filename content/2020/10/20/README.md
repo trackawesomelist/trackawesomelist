@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 20, 2020
 
-14 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### UI
 
-*   [Card Settings (⭐531)](https://github.com/codegrue/card_settings) <!--stargazers:codegrue/card_settings--> - package for building settings forms by [codegrue](https://github.com/codegrue).
+*   [Card Settings (⭐555)](https://github.com/codegrue/card_settings) <!--stargazers:codegrue/card_settings--> - package for building settings forms by [codegrue](https://github.com/codegrue).
 
 ## [2. Awesome Veganism](/content/sdassow/awesome-veganism/README.md)
 
@@ -106,13 +106,7 @@
 
 
 
-## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / UI Components
-
-*   [vue-toaster (⭐192)](https://github.com/MeForma/vue-toaster) - Vue.js toast notification plugin for Vue 3
-
-## [6. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
+## [5. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
 ### Free eBooks
 
@@ -122,13 +116,13 @@
 
 *   [João Rosa](https://joaorosa.io) - Personal blog about Domain-Driven Design, Visual Collaboration, leadership and organisational design. And other things in between. Curator of [Visual Collaboration Tools](https://leanpub.com/visualcollaborationtools/) and host of the [Software Crafts Podcast](https://www.softwarecraftspodcast.com/)
 
-## [7. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
+## [6. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
 ### Tools
 
 *   [Raspberry Pi Imager](https://www.raspberrypi.org/blog/raspberry-pi-imager-imaging-utility/) - An easy way to install Raspberry Pi OS and other operating systems to an SD card ready to use with your Raspberry Pi
 
-## [8. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
+## [7. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
 ### Documentation
 
@@ -138,33 +132,33 @@
 
 *   [GameBoy programming tutorial: Hello World!](https://peterwynroberts.wordpress.com/2014/05/11/gameboy-programming-tutorial-hello-world/) - Step by step tutorial.
 
-## [9. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [8. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### UI / Barcode
 
-*   [NeumorphismKit (⭐47)](https://github.com/y-okudera/NeumorphismKit) - Neumorphism framework for UIKit.
+*   [NeumorphismKit (⭐46)](https://github.com/y-okudera/NeumorphismKit) - Neumorphism framework for UIKit.
 
-## [10. Awesome Haskell](/content/krispo/awesome-haskell/README.md)
+## [9. Awesome Haskell](/content/krispo/awesome-haskell/README.md)
 
 ### Websites
 
 *   [School of Haskell](https://www.schoolofhaskell.com/) - Learning Haskell.
 
-## [11. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
+## [10. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
 
 ### OS
 
 *   [The Drag and Drop Component Suite (⭐132)](https://github.com/landrix/The-Drag-and-Drop-Component-Suite-for-Delphi). `[Delphi]` VCL component library that enables your Delphi and C++Builder applications to support COM based drag and drop and integrate with the Windows clipboard.
 
-## [12. Awesome Coq](/content/coq-community/awesome-coq/README.md)
+## [11. Awesome Coq](/content/coq-community/awesome-coq/README.md)
 
 ### Projects / Frameworks
 
-*   [FCF (⭐48)](https://github.com/adampetcher/fcf) - Framework for proofs of cryptography.
+*   [FCF (⭐49)](https://github.com/adampetcher/fcf) - Framework for proofs of cryptography.
 
 ### Projects / Tools
 
-*   [Ott (⭐335)](https://github.com/ott-lang/ott) - Tool for writing definitions of programming languages and calculi that can be translated to Coq.
+*   [Ott (⭐356)](https://github.com/ott-lang/ott) - Tool for writing definitions of programming languages and calculi that can be translated to Coq.
 
 ### Projects / Type Theory and Mathematics
 
@@ -174,13 +168,13 @@
 
 *   [PLClub Blog](https://www.seas.upenn.edu/~plclub/blog/)
 
-## [13. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [12. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Note-taking & Editors
 
-*   [minimalist-web-notepad (⭐1k)](https://github.com/pereorga/minimalist-web-notepad) - Minimalist notepad.cc clone. ([Demo](https://notes.orga.cat/)) `Apache-2.0` `PHP`
+*   [minimalist-web-notepad (⭐1.2k)](https://github.com/pereorga/minimalist-web-notepad) - Minimalist notepad.cc clone. ([Demo](https://notes.orga.cat/)) `Apache-2.0` `PHP`
 
-## [14. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [13. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### API
 
@@ -188,7 +182,7 @@
 
 ### Caching
 
-*   [EasyCaching (⭐1.9k)](https://github.com/dotnetcore/EasyCaching) - A caching library that contains basic and some advanced usages of caching which can help handle caching more easier!
+*   [EasyCaching (⭐2k)](https://github.com/dotnetcore/EasyCaching) - A caching library that contains basic and some advanced usages of caching which can help handle caching more easier!
 
 ### ORM
 
@@ -196,7 +190,7 @@
 
 ### Tools
 
-*   [YARP (⭐8.4k)](https://github.com/microsoft/reverse-proxy) - YARP is a reverse proxy toolkit for building fast proxy servers in .NET using the infrastructure from ASP.NET and .NET.
+*   [YARP (⭐8.7k)](https://github.com/microsoft/reverse-proxy) - YARP is a reverse proxy toolkit for building fast proxy servers in .NET using the infrastructure from ASP.NET and .NET.
 
 ---
 

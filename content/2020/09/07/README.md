@@ -10,7 +10,7 @@
 
 ### Debugging Tools
 
-*   [tapping\_device (⭐449)](https://github.com/st0012/tapping_device) - A tool that allows you to inspect your program from an Object's perspective.
+*   [tapping\_device (⭐448)](https://github.com/st0012/tapping_device) - A tool that allows you to inspect your program from an Object's perspective.
 
 ## [2. Awesome Healthcare](/content/kakoni/awesome-healthcare/README.md)
 
@@ -30,7 +30,7 @@
 
 ### Driver crates / Other
 
-*   [AHT20](https://crates.io/crates/aht20) - I2C - Humidity and temperature sensor - [github (⭐3)](https://github.com/chocol4te/aht20) - ![crates.io](https://img.shields.io/crates/v/aht20.svg)
+*   [AHT20](https://crates.io/crates/aht20) - I2C - Humidity and temperature sensor - [github (⭐3)](https://github.com/chocol4te/aht20) - [![crates.io](https://img.shields.io/crates/v/aht20.svg)](https://crates.io/crates/aht20)
 
 ## [4. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/README.md)
 
@@ -42,7 +42,7 @@
 
 ### Artificial Intelligence / Mobile
 
-*   [Habitica (⭐1.3k)](https://github.com/HabitRPG/habitica-android) - Gamify your life.
+*   [Habitica (⭐1.5k)](https://github.com/HabitRPG/habitica-android) - Gamify your life.
 
 ## [6. Awesome Veganism](/content/sdassow/awesome-veganism/README.md)
 

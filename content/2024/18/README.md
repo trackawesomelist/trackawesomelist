@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 29 - May 05, 2024
 
-39 awesome lists updated this week.
+36 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -30,7 +30,7 @@
 
 ### Examples
 
-*   [stevenfoncken/multitool-for-spotify-php (⭐1)](https://github.com/stevenfoncken/multitool-for-spotify-php#readme) - Concise introductory description. Clear overview of features. Why-section with easter egg (heading). Informative badges. Clear disclaimer. Step-by-step setup instructions. Expandable TOC. Headlines with emojis. Detailed usage section. Shortlinks at the top. Back-to-top link in the footer. Credits to third-party code/libraries.
+*   [stevenfoncken/multitool-for-spotify-php (⭐2)](https://github.com/stevenfoncken/multitool-for-spotify-php#readme) - Concise introductory description. Clear overview of features. Why-section with easter egg (heading). Informative badges. Clear disclaimer. Step-by-step setup instructions. Expandable TOC. Headlines with emojis. Detailed usage section. Shortlinks at the top. Back-to-top link in the footer. Credits to third-party code/libraries.
 
 ## [4. Magictools](/content/ellisonleao/magictools/week/README.md)
 
@@ -48,7 +48,7 @@
 
 ### Firmware projects / WIP
 
-*   [prinThor (⭐100)](https://github.com/cbruiz/printhor): 3DPrinter/CNC/Engraver firmware framework powered by rust embassy for stm32 families and rp2040.
+*   [prinThor (⭐154)](https://github.com/cbruiz/printhor): 3DPrinter/CNC/Engraver firmware framework powered by rust embassy for stm32 families and rp2040.
 
 ## [7. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
 
@@ -64,7 +64,7 @@
 
 ### Command-Line Tools / Discovery
 
-*   [nh (⭐809)](https://github.com/viperML/nh) - Better output for `nix` `nixos-rebuild` and home-manger CLI using `nvd` and `nix-output-monitor`.
+*   [nh (⭐1.2k)](https://github.com/viperML/nh) - Better output for `nix` `nixos-rebuild` and home-manger CLI using `nvd` and `nix-output-monitor`.
 
 ## [9. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
@@ -85,41 +85,41 @@
 ### Front-ends
 
 *   **Alokai** (*ex: Vue Storefront*) ([github.com/vuestorefront/vue-storefront (⭐11k)](https://github.com/vuestorefront/vue-storefront))
-*   **ScandiPWA** ([github.com/scandipwa/scandipwa (⭐542)](https://github.com/scandipwa/scandipwa))
+*   **ScandiPWA** ([github.com/scandipwa/scandipwa (⭐551)](https://github.com/scandipwa/scandipwa))
 *   **Front-Commerce** ([front-commerce.com](https://www.front-commerce.com/))- Front-Commerce is an innovative, advanced, ready-to-use PWA (Progressive Web App) front-end solution developed in France for Magento stores.
 
 ## [11. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / Vue 3
 
-*   [celeris-web (⭐380)](https://github.com/kirklin/celeris-web) - Template based on `Vite` + `Vue3` + `TypeScript` + `Vue-Router` + `Pinia` + `Unocss` + `Naive UI` + `pnpm Monorepo`.
+*   [celeris-web (⭐428)](https://github.com/kirklin/celeris-web) - Template based on `Vite` + `Vue3` + `TypeScript` + `Vue-Router` + `Pinia` + `Unocss` + `Naive UI` + `pnpm Monorepo`.
 
 ### Templates / React
 
-*   [vite-jsx-remove-attributes (⭐2)](https://github.com/jacobbogers/rollup-plugin-jsx-remove-attributes) - Remove the `data-testid` (configurable) from production builds.
+*   [vite-jsx-remove-attributes (⭐4)](https://github.com/jacobbogers/rollup-plugin-jsx-remove-attributes) - Remove the `data-testid` (configurable) from production builds.
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-pretty-module-classnames (⭐17)](https://github.com/teplostanski/vite-plugin-pretty-module-classnames) - Adds the filename without the `-module` suffix to the class names of CSS modules.
+*   [vite-plugin-pretty-module-classnames (⭐20)](https://github.com/teplostanski/vite-plugin-pretty-module-classnames) - Adds the filename without the `-module` suffix to the class names of CSS modules.
 
 ## [12. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
 
 ### Databases / ORMs
 
-*   [Saffier ORM (⭐54)](https://github.com/tarsil/saffier) - The only Python ORM you will ever need.
+*   [Saffier ORM (⭐62)](https://github.com/tarsil/saffier) - The only Python ORM you will ever need.
 
 ### Databases / ODMs
 
-*   [Beanie (⭐2k)](https://github.com/BeanieODM/beanie) - Asynchronous Python ODM for MongoDB, based on [Motor](https://motor.readthedocs.io/en/stable/) and [Pydantic](https://docs.pydantic.dev/latest/), which supports data and schema migrations out of the box.
+*   [Beanie (⭐2.1k)](https://github.com/BeanieODM/beanie) - Asynchronous Python ODM for MongoDB, based on [Motor](https://motor.readthedocs.io/en/stable/) and [Pydantic](https://docs.pydantic.dev/latest/), which supports data and schema migrations out of the box.
 
 ### Developer Tools / Other Tools
 
-*   [FastAPI Cruddy Framework (⭐15)](https://github.com/mdconaway/fastapi-cruddy-framework) - A companion library to FastAPI designed to bring the development productivity of Ruby on Rails, Ember.js or Sails.js to the FastAPI ecosystem.
+*   [FastAPI Cruddy Framework (⭐26)](https://github.com/mdconaway/fastapi-cruddy-framework) - A companion library to FastAPI designed to bring the development productivity of Ruby on Rails, Ember.js or Sails.js to the FastAPI ecosystem.
 
 ### Utils / Other Tools
 
-*   [FastAPI CloudEvents (⭐30)](https://github.com/sasha-tkachev/fastapi-cloudevents) - [CloudEvents](https://cloudevents.io/) integration for FastAPI.
-*   [FastAPI Lazy (⭐114)](https://github.com/yezz123/fastango) - Lazy package to start your project using FastAPI.
+*   [FastAPI CloudEvents (⭐33)](https://github.com/sasha-tkachev/fastapi-cloudevents) - [CloudEvents](https://cloudevents.io/) integration for FastAPI.
+*   [FastAPI Lazy (⭐116)](https://github.com/yezz123/fastango) - Lazy package to start your project using FastAPI.
 
 ### Tutorials / Other Tools
 
@@ -127,15 +127,15 @@
 
 ### Boilerplate / Other Tools
 
-*   [Full Stack FastAPI and MongoDB - Base Project Generator (⭐417)](https://github.com/mongodb-labs/full-stack-fastapi-mongodb) - Full stack, modern web application generator, which includes FastAPI, MongoDB, Docker, Celery, React frontend, automatic HTTPS and more.
+*   [Full Stack FastAPI and MongoDB - Base Project Generator (⭐554)](https://github.com/mongodb-labs/full-stack-fastapi-mongodb) - Full stack, modern web application generator, which includes FastAPI, MongoDB, Docker, Celery, React frontend, automatic HTTPS and more.
 
 ## [13. Awesome Flask](/content/mjhea0/awesome-flask/week/README.md)
 
 ### APIs / RESTful API + Swagger/OpenAPI Documentation Support
 
-*   [APIFlask (⭐956)](https://github.com/apiflask/apiflask) - Integrates marshmallow for validation and serialization, and for OpenAPI generation with Swagger UI.
-*   [Flasgger (⭐3.5k)](https://github.com/flasgger/flasgger) - OpenAPI and Swagger UI. Builds the API from Flasgger models, marshmallow models, dicts, or YAML files.
-*   [flask-smorest (⭐619)](https://github.com/marshmallow-code/flask-smorest/) - Marshmallow's official Flask REST integration. Uses marshmallow models for request/response validation and serialization, and generates OpenAPI with Swagger UI.
+*   [APIFlask (⭐1.1k)](https://github.com/apiflask/apiflask) - Integrates marshmallow for validation and serialization, and for OpenAPI generation with Swagger UI.
+*   [Flasgger (⭐3.6k)](https://github.com/flasgger/flasgger) - OpenAPI and Swagger UI. Builds the API from Flasgger models, marshmallow models, dicts, or YAML files.
+*   [flask-smorest (⭐673)](https://github.com/marshmallow-code/flask-smorest/) - Marshmallow's official Flask REST integration. Uses marshmallow models for request/response validation and serialization, and generates OpenAPI with Swagger UI.
 
 ### Databases / ODMs
 
@@ -143,11 +143,11 @@
 
 ### Security / Testing
 
-*   [Flask-Talisman (⭐66)](https://github.com/wntrblm/flask-talisman) - HTTPS and security headers.
+*   [Flask-Talisman (⭐71)](https://github.com/wntrblm/flask-talisman) - HTTPS and security headers.
 
 ### Task Queues / Testing
 
-*   [Flask-RQ (⭐208)](https://github.com/pallets-eco/flask-rq) - [RQ](https://python-rq.org/) (Redis Queue) integration.
+*   [Flask-RQ (⭐218)](https://github.com/pallets-eco/flask-rq) - [RQ](https://python-rq.org/) (Redis Queue) integration.
 
 ## [14. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
@@ -176,7 +176,7 @@
 
 ### LLM Evaluation / Multi-agents
 
-*   [MLGroupJLU/LLM-eval-survey: The official GitHub page for the survey paper "A Survey on Evaluation of Large Language Models". (⭐1.3k)](https://github.com/MLGroupJLU/LLM-eval-survey)
+*   [MLGroupJLU/LLM-eval-survey: The official GitHub page for the survey paper "A Survey on Evaluation of Large Language Models". (⭐1.5k)](https://github.com/MLGroupJLU/LLM-eval-survey)
 *   [A Survey on Evaluation of Large Language Models | ACM Transactions on Intelligent Systems and Technology](https://dl.acm.org/doi/10.1145/3641289)
 *   [\[2307.03109\] A Survey on Evaluation of Large Language Models](https://arxiv.org/abs/2307.03109)
 
@@ -205,17 +205,17 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [color-logging (⭐0)](https://github.com/p1r473/zsh-color-logging) - provides a really easy to use logging library with notifications for pushbullet and pushover, colorizes tools like `cat` and `ls` and provides a color library.
+*   [color-logging (⭐1)](https://github.com/p1r473/zsh-color-logging) - provides a really easy to use logging library with notifications for pushbullet and pushover, colorizes tools like `cat` and `ls` and provides a color library.
 *   [git-plugin (dark-kitt) (⭐0)](https://github.com/dark-kitt/zsh-git-plugin) - `git` integration that displays the current directory and `git` branch.
 *   [git-plugin (rcruzper) (⭐7)](https://github.com/rcruzper/zsh-git-plugin) - Adds some functions for `git`.
-*   [nvim-appname (⭐15)](https://github.com/mehalter/zsh-nvim-appname) - Maintain multiple Neovim configurations with `NVIM_APPNAME` with full tab completion of available flags, available neovim applications, and neovim arguments/flags. Requires neovim v0.9+
+*   [nvim-appname (⭐24)](https://github.com/mehalter/zsh-nvim-appname) - Maintain multiple Neovim configurations with `NVIM_APPNAME` with full tab completion of available flags, available neovim applications, and neovim arguments/flags. Requires neovim v0.9+
 *   [zshrc-sync (⭐3)](https://github.com/Skylor-Tang/zshrc-sync) - Detects changes to `.zshrc` and pushes them to github when `zsh` exits.
 
 ## [19. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [Pinepods](https://www.pinepods.online/) - A rust based podcast management system with multi-user support. Pinepods utilizes a central database so aspects like listen time and themes follow from device to device. ([Demo](https://try.pinepods.online), [Source Code (⭐184)](https://github.com/madeofpendletonwool/PinePods)) `GPL-3.0` `Docker`
+*   [Pinepods](https://www.pinepods.online/) - A rust based podcast management system with multi-user support. Pinepods utilizes a central database so aspects like listen time and themes follow from device to device. ([Demo](https://try.pinepods.online), [Source Code (⭐312)](https://github.com/madeofpendletonwool/PinePods)) `GPL-3.0` `Docker`
 
 ### Software / Office Suites
 
@@ -223,64 +223,25 @@
 
 ### Software / Personal Dashboards
 
-*   [Mafl](https://mafl.hywax.space/) - Minimalistic flexible homepage. ([Source Code (⭐296)](https://github.com/hywax/mafl)) `MIT` `Docker/Nodejs`
+*   [Mafl](https://mafl.hywax.space/) - Minimalistic flexible homepage. ([Source Code (⭐409)](https://github.com/hywax/mafl)) `MIT` `Docker/Nodejs`
 
 ### Software / Polls and Events
 
-*   [Formbricks](https://formbricks.com) - Experience Management Suite built on the largest open source survey stack worldwide. Gracefully gather feedback at every step of the customer journey to know what your customers need. ([Demo](https://app.formbricks.com), [Source Code (⭐6.3k)](https://github.com/formbricks/formbricks)) `AGPL-3.0` `Nodejs/Docker`
+*   [Formbricks](https://formbricks.com) - Experience Management Suite built on the largest open source survey stack worldwide. Gracefully gather feedback at every step of the customer journey to know what your customers need. ([Demo](https://app.formbricks.com), [Source Code (⭐9.7k)](https://github.com/formbricks/formbricks)) `AGPL-3.0` `Nodejs/Docker`
 
-## [20. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/week/README.md)
-
-### **RLHF (Reinforcement Learning from Human Feedback) & SFT (Supervised Fine-Tuning)** / **Llama Finetuning**
-
-*   [ORPO (odds ratio preference optimization)](https://arxiv.org/abs/2403.07691): Monolithic Preference Optimization without Reference Model. New method that `combines supervised fine-tuning and preference alignment into one process` [git (⭐395)](https://github.com/xfactlab/orpo) \[12 Mar 2024] [Fine-tune Llama 3 with ORPO](https://towardsdatascience.com/fine-tune-llama-3-with-orpo-56cfab2f9ada) \[Apr 2024] <br/> <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/orpo.png" width="400" />
-
-### **OpenAI's Roadmap and Products** / **OpenAI Products**
-
-*   [ChatGPT Memory](https://openai.com/blog/memory-and-new-controls-for-chatgpt): Remembering things you discuss `across all chats` saves you from having to repeat information and makes future conversations more helpful. \[Apr 2024]
-
-### **Trustworthy, Safe and Secure LLM** / **GPT series release date**
-
-*   [The Instruction Hierarchy](https://arxiv.org/abs/2404.13208): Training LLMs to Prioritize Privileged Instructions. The OpenAI highlights the need for instruction privileges in LLMs to prevent attacks and proposes training models to conditionally follow lower-level instructions based on their alignment with higher-level instructions. \[19 Apr 2024]
-
-### **Survey on Large Language Models** / **GPT series release date**
-
-*   State of AI
-    *   [Retool: Status of AI](https://retool.com/reports): A Report on AI In Production [2023](https://retool.com/reports/state-of-ai-2023) -> [2024](https://retool.com/blog/state-of-ai-h1-2024)
-    *   [The State of Generative AI in the Enterprise](https://menlovc.com/2023-the-state-of-generative-ai-in-the-enterprise-report/) \[ⓒ2023]
-        > 1.  96% of AI spend is on inference, not training. 2. Only 10% of enterprises pre-trained own models. 3. 85% of models in use are closed-source. 4. 60% of enterprises use multiple models.
-    *   [Standford AI Index Annual Report](https://aiindex.stanford.edu/report/)
-
-### **Section 11: Datasets for LLM Training** / **OSS Alternatives for OpenAI Code Interpreter (aka. Advanced Data Analytics)**
-
-*   [FineWeb](https://huggingface.co/datasets/HuggingFaceFW/fineweb): HuggingFace: crawled 15 trillion tokens of high-quality web data from the summer of 2013 to March 2024. \[Apr 2024]
-
-### **LLM Evalution Benchmarks** / Language Understanding and QA
-
-*   [MMLU (Massive Multitask Language Understanding) (⭐1.1k)](https://github.com/hendrycks/test): Over 15,000 questions across 57 diverse tasks. \[Published in 2021]
-
-## [21. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
-
-### Menstrual cycle trackers
-
-*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Bluemoon](https://gitlab.com/ngrob/bluemoon-android) - Open source, privacy friendly menstruation tracking app. Your period, your data!
-*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Drip](https://dripapp.org/) - Menstrual cycle and fertility tracking. Everything you enter stays on your device.
-*   [Euki](https://eukiapp.org/) - The period tracker that doesn’t track you.
-*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Periodical (⭐114)](https://github.com/arnowelzel/periodical) - A calendar to track your menstruation and calculate possible fertile days
-
-## [22. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [20. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Resources in Other Languages / Korean
 
 *   [Deno Korea](https://deno.kr/) - Deno Korean User Group.
 
-## [23. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [21. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Links / Resources
 
 *   [Kotlin: An Illustrated Guide](https://typealias.com/start/) - Illustrated guide to learn Kotlin
 
-## [24. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [22. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Issue Tracking and Project Management
 
@@ -294,17 +255,17 @@
 
 *   [BackgroundStyler.com](https://backgroundstyler.com) - Create aesthetic screenshots of your code, text or images to share on social media.
 
-## [25. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
+## [23. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Projects
 
-*   [windows-terminal-theme-generator (⭐15)](https://github.com/LelouchFR/windows-terminal-theme-generator/) - Simplify your life to create a windows terminal theme. [Live Demo](https://windows-terminal-theme-generator.netlify.app/)
+*   [windows-terminal-theme-generator (⭐16)](https://github.com/LelouchFR/windows-terminal-theme-generator/) - Simplify your life to create a windows terminal theme. [Live Demo](https://windows-terminal-theme-generator.netlify.app/)
 
-## [26. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [24. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Quickfix / Diagnostics
 
-*   [niuiic/quickfix.nvim (⭐12)](https://github.com/niuiic/quickfix.nvim) - Extended functionality for quickfix, including store, restore, make, remove, etc.
+*   [niuiic/quickfix.nvim (⭐14)](https://github.com/niuiic/quickfix.nvim) - Extended functionality for quickfix, including store, restore, make, remove, etc.
 
 ### Code Runner / Diagnostics
 
@@ -312,7 +273,7 @@
 
 ### Motion / Diagnostics
 
-*   [tris203/precognition.nvim (⭐693)](https://github.com/tris203/precognition.nvim) - Precognition uses virtual text and gutter signs to show available motions.
+*   [tris203/precognition.nvim (⭐970)](https://github.com/tris203/precognition.nvim) - Precognition uses virtual text and gutter signs to show available motions.
 
 ### Scrolling / Diagnostics
 
@@ -320,46 +281,46 @@
 
 ### Game / Diagnostics
 
-*   [rktjmp/playtime.nvim (⭐63)](https://github.com/rktjmp/playtime.nvim) - A collection of games such as Freecell, Shenzhen Solitaire and The Emissary.
+*   [rktjmp/playtime.nvim (⭐70)](https://github.com/rktjmp/playtime.nvim) - A collection of games such as Freecell, Shenzhen Solitaire and The Emissary.
 
-## [27. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
+## [25. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
 
 ### Libraries / New Libraries
 
 *   [EasyDeL](https://github.com/erfanzar/EasyDeL) - EasyDeL 🔮 is an OpenSource Library to make your training faster and more Optimized With cool Options for training and serving (Llama, MPT, Mixtral, Falcon, etc) in JAX <img src="https://img.shields.io/github/stars/erfanzar/EasyDeL?style=social" align="center">
 *   [dynamiqs](https://github.com/dynamiqs/dynamiqs) - High-performance and differentiable simulations of quantum systems with JAX. <img src="https://img.shields.io/github/stars/dynamiqs/dynamiqs?style=social" align="center">
 
-## [28. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
+## [26. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
 
 ### Other LLM Frameworks / Videos Playlists
 
 *   [AgentScope (⭐4.5k)](https://github.com/modelscope/agentscope): Start building LLM-empowered multi-agent applications in an easier way. ![GitHub Repo stars](https://img.shields.io/github/stars/modelscope/agentscope?style=social)
 *   [Memary (⭐1.3k)](https://github.com/kingjulio8238/memary): Longterm Memory for Autonomous Agents. ![GitHub Repo stars](https://img.shields.io/github/stars/kingjulio8238/memary?style=social)
 
-## [29. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [27. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Audio and Music
 
-*   [dano (⭐139)](https://github.com/kimono-koans/dano) - A hashdeep/md5tree (but much more) for media files
+*   [dano (⭐146)](https://github.com/kimono-koans/dano) - A hashdeep/md5tree (but much more) for media files
 
 ### Applications / Database
 
-*   [native\_db (⭐390)](https://github.com/vincent-herlemont/native_db) \[[native\_db](https://crates.io/crates/native_db)] - Drop-in, embedded database for multi-platform apps (server, desktop, mobile). Sync Rust types effortlessly
+*   [native\_db (⭐522)](https://github.com/vincent-herlemont/native_db) \[[native\_db](https://crates.io/crates/native_db)] - Drop-in, embedded database for multi-platform apps (server, desktop, mobile). Sync Rust types effortlessly
 
 ### Applications / Productivity
 
-*   [ShadoySV/work-break (⭐7)](https://github.com/ShadoySV/work-break) \[[work-break](https://crates.io/crates/work-break)] - Work and rest time balancer taking into account your current and today strain [![Build](https://github.com/shadoysv/work-break/actions/workflows/release.yml/badge.svg)](https://github.com/ShadoySV/work-break/releases)
+*   [ShadoySV/work-break (⭐11)](https://github.com/ShadoySV/work-break) \[[work-break](https://crates.io/crates/work-break)] - Work and rest time balancer taking into account your current and today strain [![Build](https://github.com/shadoysv/work-break/actions/workflows/release.yml/badge.svg)](https://github.com/ShadoySV/work-break/releases)
 
 ### Libraries / Compression
 
 *   zip
-    *   [zip-rs/zip2 (⭐80)](https://github.com/zip-rs/zip2) \[[zip](https://crates.io/crates/zip)] - read and write  ZIP archives
+    *   [zip-rs/zip2 (⭐149)](https://github.com/zip-rs/zip2) \[[zip](https://crates.io/crates/zip)] - read and write  ZIP archives
 
 ### Libraries / Parsing
 
-*   [tree-sitter/tree-sitter (⭐18k)](https://github.com/tree-sitter/tree-sitter) - A parser generator tool and an incremental parsing library geared towards programming tools
+*   [tree-sitter/tree-sitter (⭐19k)](https://github.com/tree-sitter/tree-sitter) - A parser generator tool and an incremental parsing library geared towards programming tools
 
-## [30. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
+## [28. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
 
 ### Hardware / Plotters
 
@@ -367,7 +328,7 @@
 
 ### Software / Fonts
 
-*   [FifteenTwenty: Commodore 1520 plotter font (⭐13)](https://github.com/scruss/FifteenTwenty) - [Blog post](https://scruss.com/blog/2016/04/23/fifteentwenty-commodore-1520-plotter-font/) about the creation of this font from the original ROM.
+*   [FifteenTwenty: Commodore 1520 plotter font (⭐14)](https://github.com/scruss/FifteenTwenty) - [Blog post](https://scruss.com/blog/2016/04/23/fifteentwenty-commodore-1520-plotter-font/) about the creation of this font from the original ROM.
 
 ### Inspiration, Instruction, and Research / Fonts
 
@@ -407,11 +368,11 @@
 
 *   [Adaptor for universal X-Y plotter pen](https://patents.google.com/patent/US4943817)
 
-## [31. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [29. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Community
 
-*   [angular hub (⭐48)](https://github.com/angular-sanctuary/angular-hub) - Curated list of Angular events and communities.
+*   [angular hub (⭐50)](https://github.com/angular-sanctuary/angular-hub) - Curated list of Angular events and communities.
 
 ### Newsletters
 
@@ -456,53 +417,53 @@
 
 ### HTTP / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [cashew (⭐680)](https://github.com/ngneat/cashew) - A flexible and straightforward library that caches HTTP requests in Angular.
+*   [cashew (⭐688)](https://github.com/ngneat/cashew) - A flexible and straightforward library that caches HTTP requests in Angular.
 *   [convoyr (⭐42)](https://github.com/jscutlery/convoyr) - Modular HTTP extensions for Angular.
-*   [angular-http-cache-interceptor (⭐4)](https://github.com/patrikx3/angular-http-cache-interceptor) - Angular HTTP cache interceptor.
+*   [angular-http-cache-interceptor (⭐5)](https://github.com/patrikx3/angular-http-cache-interceptor) - Angular HTTP cache interceptor.
 
 ### Internationalization / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-tolgee (⭐222)](https://github.com/tolgee/tolgee-js/tree/main/packages/ngx/projects/ngx-tolgee) - Web-based localization tool enabling users to translate directly in the Angular app they develop.
-*   [localess (⭐33)](https://github.com/Lessify/localess) - Localess is a powerful translation management tool and content management system built using Angular and Firebase. With Localess, you can easily manage and translate your website or app content into multiple languages, and it uses AI to translate faster.
-*   [typesafe-i18n (⭐2.2k)](https://github.com/ivanhofer/typesafe-i18n) - A fully type-safe and lightweight internationalization library for all your TypeScript and JavaScript projects.
-*   [angular-l10n (⭐380)](https://github.com/robisim74/angular-l10n) - Angular library to translate texts, dates and numbers.
-*   [I18N (⭐72)](https://github.com/soluling/I18N) - Soluling has implemented a collection of internationalization (I18N) APIs for .NET, Angular and Delphi.
-*   [ng-extract-i18n-merge (⭐169)](https://github.com/daniel-sc/ng-extract-i18n-merge) - Extract and merge i18n xliff translation files for angular projects.
+*   [ngx-tolgee (⭐234)](https://github.com/tolgee/tolgee-js/tree/main/packages/ngx/projects/ngx-tolgee) - Web-based localization tool enabling users to translate directly in the Angular app they develop.
+*   [localess (⭐45)](https://github.com/Lessify/localess) - Localess is a powerful translation management tool and content management system built using Angular and Firebase. With Localess, you can easily manage and translate your website or app content into multiple languages, and it uses AI to translate faster.
+*   [typesafe-i18n (⭐2.3k)](https://github.com/ivanhofer/typesafe-i18n) - A fully type-safe and lightweight internationalization library for all your TypeScript and JavaScript projects.
+*   [angular-l10n (⭐381)](https://github.com/robisim74/angular-l10n) - Angular library to translate texts, dates and numbers.
+*   [I18N (⭐75)](https://github.com/soluling/I18N) - Soluling has implemented a collection of internationalization (I18N) APIs for .NET, Angular and Delphi.
+*   [ng-extract-i18n-merge (⭐181)](https://github.com/daniel-sc/ng-extract-i18n-merge) - Extract and merge i18n xliff translation files for angular projects.
 *   [ng-translate (⭐8)](https://github.com/doorgets/ng-translate) - Angular 2 translation module i18n (internationalization) from JSON file with pluralization (Zero value state included).
 *   [ngxe (⭐5)](https://github.com/navix/ngxe) - Angular 11.1+ JSON Translations Editor.
-*   [ngx-translate (⭐4.5k)](https://github.com/ngx-translate/core) - The internationalization (i18n) library for Angular.
+*   [ngx-translate (⭐4.6k)](https://github.com/ngx-translate/core) - The internationalization (i18n) library for Angular.
 *   [ngx-translate-module-loader (⭐33)](https://github.com/larscom/ngx-translate-module-loader) - Highly configurable and flexible translations loader for `@ngx-translate/core`.
-*   [ngx-translate-multi-http-loader (⭐75)](https://github.com/rbalet/ngx-translate-multi-http-loader) - A loader for ngx-translate that loads translations with http calls.
+*   [ngx-translate-multi-http-loader (⭐78)](https://github.com/rbalet/ngx-translate-multi-http-loader) - A loader for ngx-translate that loads translations with http calls.
 
 ### Testing / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [cypress-harness (⭐235)](https://github.com/jscutlery/devkit/tree/main/packages/cypress-harness) - This library provides Cypress support to Component Test Harnesses.
-*   [swc-angular (⭐235)](https://github.com/jscutlery/devkit/tree/main/packages/swc-angular) - This is a set of Angular presets that enable you to use SWC (Speedy Web Compiler) with Jest or Vitest.
-*   [swc-angular-plugin (⭐235)](https://github.com/jscutlery/devkit/tree/main/packages/swc-angular-plugin) - SWC (Speedy Web Compiler) is a lightning-fast JavaScript/TypeScript compiler, but it doesn't support Angular so you need this plugin.
+*   [cypress-harness (⭐251)](https://github.com/jscutlery/devkit/tree/main/packages/cypress-harness) - This library provides Cypress support to Component Test Harnesses.
+*   [swc-angular (⭐251)](https://github.com/jscutlery/devkit/tree/main/packages/swc-angular) - This is a set of Angular presets that enable you to use SWC (Speedy Web Compiler) with Jest or Vitest.
+*   [swc-angular-plugin (⭐251)](https://github.com/jscutlery/devkit/tree/main/packages/swc-angular-plugin) - SWC (Speedy Web Compiler) is a lightning-fast JavaScript/TypeScript compiler, but it doesn't support Angular so you need this plugin.
 
 ### Charts / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [dag (⭐154)](https://github.com/ngneat/dag) - An Angular service for managing directed acyclic graphs.
+*   [dag (⭐155)](https://github.com/ngneat/dag) - An Angular service for managing directed acyclic graphs.
 
 ### DOM / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [edit-in-place (⭐262)](https://github.com/ngneat/edit-in-place) - A flexible and unopinionated edit in place library.
+*   [edit-in-place (⭐265)](https://github.com/ngneat/edit-in-place) - A flexible and unopinionated edit in place library.
 
 ### File Upload / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-uploadx (⭐43)](https://github.com/kukhariev/ngx-uploadx) - Angular Resumable Upload Module.
+*   [ngx-uploadx (⭐44)](https://github.com/kukhariev/ngx-uploadx) - Angular Resumable Upload Module.
 
 ### General / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-mask (⭐1.1k)](https://github.com/JsDaddy/ngx-mask) - Angular Plugin to make masks on form fields and html elements.
-*   [maskito (⭐591)](https://github.com/taiga-family/maskito) - Collection of libraries to create an input mask which ensures that user types value according to predefined format.
-*   [reactive-forms (⭐609)](https://github.com/ngneat/reactive-forms) - (Angular Reactive) Forms with Benefits.
+*   [ngx-mask (⭐1.2k)](https://github.com/JsDaddy/ngx-mask) - Angular Plugin to make masks on form fields and html elements.
+*   [maskito (⭐1.5k)](https://github.com/taiga-family/maskito) - Collection of libraries to create an input mask which ensures that user types value according to predefined format.
+*   [reactive-forms (⭐612)](https://github.com/ngneat/reactive-forms) - (Angular Reactive) Forms with Benefits.
 
 ### Form Controls / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-emoji-mart (⭐438)](https://github.com/scttcper/ngx-emoji-mart) - Customizable Slack-like emoji picker.
-*   [ngx-colors (⭐84)](https://github.com/KroneCorylus/ngx-colors) - Simple yet elegant Material color picker.
-*   [ngx-color-picker (⭐447)](https://github.com/zefoy/ngx-color-picker) - Color picker widget.
+*   [ngx-emoji-mart (⭐453)](https://github.com/scttcper/ngx-emoji-mart) - Customizable Slack-like emoji picker.
+*   [ngx-colors (⭐92)](https://github.com/KroneCorylus/ngx-colors) - Simple yet elegant Material color picker.
+*   [ngx-color-picker (⭐460)](https://github.com/zefoy/ngx-color-picker) - Color picker widget.
 *   [angular-colorful (⭐10)](https://github.com/ngx-eco/angular-colorful) - A tiny color picker component for modern Angular apps.
 *   [ngx-numeric-range-form-field (⭐4)](https://github.com/dineeek/ngx-numeric-range-form-field) - Angular Material UI numeric range input form field. It is based on control value accessor.
 *   [file-input-accessor (⭐29)](https://github.com/jwelker110/file-input-accessor) - Angular directive that provides file input functionality in Angular forms.
@@ -510,31 +471,31 @@
 ### Validation / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ngx-formcontrol-errors (⭐1)](https://github.com/dgonzalez870/ngx-formcontrol-errors) - A directive for showing errors in Angular form controls.
-*   [error-tailor (⭐484)](https://github.com/ngneat/error-tailor) - Making sure your tailor-made error solution is seamless!
+*   [error-tailor (⭐487)](https://github.com/ngneat/error-tailor) - Making sure your tailor-made error solution is seamless!
 
 ### Icons / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [svg-icon (⭐255)](https://github.com/ngneat/svg-icon) - A lightweight library that makes it easier to use SVG icons in your Angular Application.
+*   [svg-icon (⭐263)](https://github.com/ngneat/svg-icon) - A lightweight library that makes it easier to use SVG icons in your Angular Application.
 
 ### Keyboard Mouse / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [hotkeys (⭐327)](https://github.com/ngneat/hotkeys) - A declarative library for handling hotkeys in Angular applications.
+*   [hotkeys (⭐334)](https://github.com/ngneat/hotkeys) - A declarative library for handling hotkeys in Angular applications.
 
 ### Layout Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [overview (⭐118)](https://github.com/ngneat/overview) - A collection of tools to make your Angular views more modular, scalable, and maintainable.
+*   [overview (⭐122)](https://github.com/ngneat/overview) - A collection of tools to make your Angular views more modular, scalable, and maintainable.
 
 ### Loaders / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [dotglitch-ngx (⭐15)](https://github.com/knackstedt/dotglitch-ngx/tree/main/packages/common/src/components/lazy-loader) - Highly customizable lazy loader for Angular components.
+*   [dotglitch-ngx (⭐18)](https://github.com/knackstedt/dotglitch-ngx/tree/main/packages/common/src/components/lazy-loader) - Highly customizable lazy loader for Angular components.
 *   [content-loader (⭐735)](https://github.com/ngneat/content-loader) - SVG component to create placeholder loading, like Facebook cards loading.
-*   [ngx-loading (⭐267)](https://github.com/zak-c/ngx-loading) - A loading spinner for Angular applications.
-*   [ng-block-ui (⭐145)](https://github.com/kuuurt13/ng-block-ui) - Block UI Loader/Spinner for Angular.
-*   [ngx-spinner (⭐818)](https://github.com/napster2210/ngx-spinner) - A library for loading spinner for Angular.
-*   [angular-busy (⭐23)](https://github.com/tiberiuzuld/angular-busy) - Show busy/loading indicators on any element during a promise/Observable.
+*   [ngx-loading (⭐265)](https://github.com/zak-c/ngx-loading) - A loading spinner for Angular applications.
+*   [ng-block-ui (⭐144)](https://github.com/kuuurt13/ng-block-ui) - Block UI Loader/Spinner for Angular.
+*   [ngx-spinner (⭐828)](https://github.com/napster2210/ngx-spinner) - A library for loading spinner for Angular.
+*   [angular-busy (⭐24)](https://github.com/tiberiuzuld/angular-busy) - Show busy/loading indicators on any element during a promise/Observable.
 *   [angular-loaders (⭐2)](https://github.com/pjlamb12/angular-loaders) - Angular loader components.
-*   [ngx-loader-indicator (⭐51)](https://github.com/jsdaddy/ngx-loader-indicator) - Awesome loader for Angular applications. No wrappers only your elements.
-*   [ngx-skeleton-loader (⭐564)](https://github.com/willmendesneto/ngx-skeleton-loader) - Make beautiful, animated loading skeletons that automatically adapt to your Angular apps.
+*   [ngx-loader-indicator (⭐52)](https://github.com/jsdaddy/ngx-loader-indicator) - Awesome loader for Angular applications. No wrappers only your elements.
+*   [ngx-skeleton-loader (⭐587)](https://github.com/willmendesneto/ngx-skeleton-loader) - Make beautiful, animated loading skeletons that automatically adapt to your Angular apps.
 
 ### Mixed utilities / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -542,35 +503,43 @@
 
 ### Modals / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [dialog (⭐389)](https://github.com/ngneat/dialog) - A simple to use, highly customizable, and powerful modal.
+*   [dialog (⭐395)](https://github.com/ngneat/dialog) - A simple to use, highly customizable, and powerful modal.
+
+### NgRx / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngrx-toolkit (⭐198)](https://github.com/angular-architects/ngrx-toolkit) - Various Extensions for the NgRx Signal Store.
+*   [ngrx-traits (⭐79)](https://github.com/gabrielguerrero/ngrx-traits) - NgRx Traits is a library to help you compose and reuse a set NGRX actions, selectors, effects, and reducers across your app.
+*   [ngrx-addons (⭐5)](https://github.com/Michsior14/ngrx-addons) - A collection of NgRx addons, including state persistence.
+*   [ngrx-store-storagesync (⭐41)](https://github.com/larscom/ngrx-store-storagesync) - Highly configurable state sync library between localStorage/sessionStorage and `@ngrx/store`.
+*   [ngrx-wieder (⭐128)](https://github.com/nilsmehlhorn/ngrx-wieder) - Lightweight undo-redo for Angular with NgRx & Immer.js.
+*   [ngrx-immer (⭐120)](https://github.com/timdeschryver/ngrx-immer) - Immer wrappers around NgRx methods createReducer, on, and ComponentStore.
+*   [ngrx-rtk-query (⭐62)](https://github.com/SaulMoro/ngrx-rtk-query) - Make RTK Query with Hooks works in Angular Applications.
+*   [ngrx-action-bundles (⭐14)](https://github.com/IliaIdakiev/ngrx-action-bundles) - This library allows you to reduce ngrx boilerplate by generating action bundles for common ngrx redux store scenarios and allows you to easily connect state, dispatch actions and listen for actions everywhere across your applications.
 
 ### Tooltips / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [helipopper (⭐400)](https://github.com/ngneat/helipopper) - A Powerful Tooltip and Popover for Angular Applications.
+*   [helipopper (⭐420)](https://github.com/ngneat/helipopper) - A Powerful Tooltip and Popover for Angular Applications.
 
 ### Unspecified / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ej2-angular-ui-components (⭐274)](https://github.com/syncfusion/ej2-angular-ui-components) - Syncfusion Angular UI Components library has been built from the ground up to be lightweight, responsive, modular and touch friendly. It offers 70+ UI components that every applications will ever need.
-*   [ng-devui (⭐1.7k)](https://github.com/DevCloudFE/ng-devui) - Angular UI Component Library based on DevUI Design.
-*   [ng-aquila (⭐207)](https://github.com/allianz/ng-aquila) - Aquila is an open-source component library provided by the Allianz Global Digital Factory (GDF). We use this library internally with Allianz branding. Here we provide a white label variant of these components.
-*   [enterprise-ng (⭐56)](https://github.com/infor-design/enterprise-ng) - Angular wrappers for IDS Enterprise components.
-*   [oblique (⭐53)](https://github.com/oblique-bit/oblique) - An Angular front-end framework Tailored for your swiss branded business web application, Oblique provides a standardized corporate design look and feel as well as a collection of ready-to-use Angular components.
-*   [fundamental-ngx (⭐263)](https://github.com/SAP/fundamental-ngx) - Fundamental Library for Angular is SAP Design System Angular component library.
-*   [designsystem (⭐83)](https://github.com/kirbydesign/designsystem) - Kirby Design System is a UX Component library implementing the Kirby Design Philosophy.
-*   [sbb-angular (⭐106)](https://github.com/sbb-design-systems/sbb-angular) - Angular Library for SBB.
-*   [ui (⭐30)](https://github.com/alauda/ui) - Enterprise level Angular UI framework from Alauda Frontend Team.
-*   [ngx-tethys (⭐113)](https://github.com/atinc/ngx-tethys) - Fast and reliable Tethys Design components for Angular.
+*   [ej2-angular-ui-components (⭐277)](https://github.com/syncfusion/ej2-angular-ui-components) - Syncfusion Angular UI Components library has been built from the ground up to be lightweight, responsive, modular and touch friendly. It offers 70+ UI components that every applications will ever need.
+*   [ng-devui (⭐1.8k)](https://github.com/DevCloudFE/ng-devui) - Angular UI Component Library based on DevUI Design.
+*   [ng-aquila (⭐214)](https://github.com/allianz/ng-aquila) - Aquila is an open-source component library provided by the Allianz Global Digital Factory (GDF). We use this library internally with Allianz branding. Here we provide a white label variant of these components.
+*   [enterprise-ng](https://github.com/infor-design/enterprise-ng) - Angular wrappers for IDS Enterprise components.
+*   [oblique (⭐56)](https://github.com/oblique-bit/oblique) - An Angular front-end framework Tailored for your swiss branded business web application, Oblique provides a standardized corporate design look and feel as well as a collection of ready-to-use Angular components.
+*   [fundamental-ngx (⭐275)](https://github.com/SAP/fundamental-ngx) - Fundamental Library for Angular is SAP Design System Angular component library.
+*   [designsystem (⭐85)](https://github.com/kirbydesign/designsystem) - Kirby Design System is a UX Component library implementing the Kirby Design Philosophy.
+*   [sbb-angular (⭐109)](https://github.com/sbb-design-systems/sbb-angular) - Angular Library for SBB.
+*   [ui (⭐32)](https://github.com/alauda/ui) - Enterprise level Angular UI framework from Alauda Frontend Team.
+*   [ngx-tethys (⭐114)](https://github.com/atinc/ngx-tethys) - Fast and reliable Tethys Design components for Angular.
 *   [antwerp-ui\_angular (⭐13)](https://github.com/digipolisantwerp/antwerp-ui_angular) - Antwerp UI is a component interface library for building user interfaces and responsive web apps.
 
 ### Material Based / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [Covalent (⭐2.2k)](https://github.com/Teradata/covalent/) - Teradata UI Platform built on Angular Material.
-*   [IgniteUI Angular (⭐569)](https://github.com/IgniteUI/igniteui-angular) - Ignite UI for Angular is a complete library of Angular-native, Material-based Angular UI components with the fastest grids, charts, and more.
-*   [Alyle UI (⭐290)](https://github.com/A-l-y-l-e/Alyle-UI) - Minimal Design, a set of components for Angular 16+.
-*   [angular-material-extensions/google-maps-autocomplete (⭐169)](https://github.com/angular-material-extensions/google-maps-autocomplete) - **Autocomplete** input component and directive for google-maps built with angular material design.
-*   [angular-material-extensions/select-country (⭐126)](https://github.com/angular-material-extensions/select-country)
-*   [angular-material-extensions/password-strength (⭐284)](https://github.com/angular-material-extensions/password-strength) - Angular UI library to illustrate and validate a **password**'s strength with material design.
-*   [angular material components (⭐328)](https://github.com/h2qutc/angular-material-components) -  Angular Material Library provide extra components for every project.
+*   [IgniteUI Angular (⭐572)](https://github.com/IgniteUI/igniteui-angular) - Ignite UI for Angular is a complete library of Angular-native, Material-based Angular UI components with the fastest grids, charts, and more.
+*   [Alyle UI (⭐291)](https://github.com/A-l-y-l-e/Alyle-UI) - Minimal Design, a set of components for Angular 16+.
+*   [angular material components (⭐334)](https://github.com/h2qutc/angular-material-components) -  Angular Material Library provide extra components for every project.
 
 ### Bootstrap Based / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -578,40 +547,23 @@
 
 ### Misc Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [rx-computed (⭐235)](https://github.com/jscutlery/devkit/tree/main/packages/rx-computed) - The async RxJS-based version of signals' `computed()`.
-*   [microwave (⭐235)](https://github.com/jscutlery/devkit/tree/main/packages/microwave) - Optimize Angular change detection effortlessly.
+*   [rx-computed (⭐251)](https://github.com/jscutlery/devkit/tree/main/packages/rx-computed) - The async RxJS-based version of signals' `computed()`.
+*   [microwave (⭐251)](https://github.com/jscutlery/devkit/tree/main/packages/microwave) - Optimize Angular change detection effortlessly.
 *   [falso (⭐3.2k)](https://github.com/ngneat/falso) - All the Fake Data for All Your Real Needs.
-
-### NgRx / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [ngrx-toolkit (⭐127)](https://github.com/angular-architects/ngrx-toolkit) - Various Extensions for the NgRx Signal Store.
-*   [ngrx-traits (⭐57)](https://github.com/gabrielguerrero/ngrx-traits) - NgRx Traits is a library to help you compose and reuse a set NGRX actions, selectors, effects, and reducers across your app.
-*   [ngrx-addons (⭐4)](https://github.com/Michsior14/ngrx-addons) - A collection of NgRx addons, including state persistence.
-*   [ngrx-store-storagesync (⭐41)](https://github.com/larscom/ngrx-store-storagesync) - Highly configurable state sync library between localStorage/sessionStorage and `@ngrx/store`.
-*   [ngrx-wieder (⭐125)](https://github.com/nilsmehlhorn/ngrx-wieder) - Lightweight undo-redo for Angular with NgRx & Immer.js.
-*   [ngrx-immer (⭐117)](https://github.com/timdeschryver/ngrx-immer) - Immer wrappers around NgRx methods createReducer, on, and ComponentStore.
-*   [ngrx-rtk-query (⭐57)](https://github.com/SaulMoro/ngrx-rtk-query) - Make RTK Query with Hooks works in Angular Applications.
-*   [ngrx-action-bundles (⭐14)](https://github.com/IliaIdakiev/ngrx-action-bundles) - This library allows you to reduce ngrx boilerplate by generating action bundles for common ngrx redux store scenarios and allows you to easily connect state, dispatch actions and listen for actions everywhere across your applications.
 
 ### RxJS / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [operators (⭐235)](https://github.com/jscutlery/devkit/tree/main/packages/operators) - This package regroups a couple of RxJS operators meant to simplify some common patterns.
+*   [operators (⭐251)](https://github.com/jscutlery/devkit/tree/main/packages/operators) - This package regroups a couple of RxJS operators meant to simplify some common patterns.
 *   [until-destroy (⭐1.7k)](https://github.com/ngneat/until-destroy) - RxJS operator that unsubscribe from observables on destroy.
 *   [effects (⭐63)](https://github.com/ngneat/effects) - A framework-agnostic RxJS effects implementation.
 
-## [32. Awesome Plone](/content/collective/awesome-plone/week/README.md)
+## [30. Awesome Plone](/content/collective/awesome-plone/week/README.md)
 
 ### Security
 
 *   [collective.contactformprotection (⭐0)](https://github.com/collective/collective.contactformprotection) - Disables the default `contact-info` form or protect it with `plone.formwidget.[h|re]captcha`.
 
-## [33. Awesome Opentofu](/content/virtualroot/awesome-opentofu/week/README.md)
-
-### Tools / CI
-
-*   [TF-via-PR (⭐62)](https://github.com/DevSecTop/TF-via-PR) - GitHub Action to automate OpenTofu or Terraform CLI commands via pull request interaction.
-
-## [34. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [31. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Finance
 
@@ -625,43 +577,43 @@
 
   CORS: 
 
-  Call this API: [<sup>**Run in Postman**</sup>](https://god.gw.postman.com/run-collection/25426789-ae5e66eb-613e-4553-a99c-0f58d875ff88?action=collection%2Ffork\&source=rip_markdown\&collection-url=entityId%3D25426789-ae5e66eb-613e-4553-a99c-0f58d875ff88%26entityType%3Dcollection%26workspaceId%3De4d9a7d3-b961-474e-a054-51861ed481f6)
+  : 
 
 
 
-## [35. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [32. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [vue-fluid-dnd (⭐200)](https://github.com/carlosjorger/vue-fluid-dnd) - A Vue 3 drag and drop, sortable, dependency-free library with cool animations, a easy to use api using vue composables.
+*   [vue-fluid-dnd (⭐263)](https://github.com/carlosjorger/vue-fluid-dnd) - A Vue 3 drag and drop, sortable, dependency-free library with cool animations, a easy to use api using vue composables.
 
-## [36. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+## [33. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
 ### Collaboration Tools / Malware Analysis Books
 
 *   [Dradis](https://dradis.com/) - Open-source reporting and collaboration tool for IT security professionals.
 
-## [37. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [34. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Miscellaneous
 
-*   [happly (⭐306)](https://github.com/nmwsharp/happly) - A C++ header-only parser for the PLY file format. Parse .ply happily! \[MIT]
+*   [happly (⭐333)](https://github.com/nmwsharp/happly) - A C++ header-only parser for the PLY file format. Parse .ply happily! \[MIT]
 
-## [38. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+## [35. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
 ### Third-Party Packages / Mailing
 
-*   [django-pony-express (⭐58)](https://github.com/ambient-innovation/django-pony-express) - Class-based emails including a test suite for Django.
+*   [django-pony-express (⭐63)](https://github.com/ambient-innovation/django-pony-express) - Class-based emails including a test suite for Django.
 
 ### Third-Party Packages / Views
 
-*   [neapolitan (⭐447)](https://github.com/carltongibson/neapolitan) - Quick CRUD views for Django.
+*   [neapolitan (⭐544)](https://github.com/carltongibson/neapolitan) - Quick CRUD views for Django.
 
 ### Resources / Community
 
 *   [Djangonaut Space](https://djangonaut.space) - Free peer-mentoring program for the Django community to launch people into the universe of open source contributions.
 
-## [39. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [36. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Audio and Video Tools / File Sharing
 

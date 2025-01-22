@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 14, 2022
 
-16 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -42,7 +42,7 @@
 
 ## [5. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
-### Persistent object databases
+### Caching (serialization) / Third-party APIs
 
 *   [cl-naive-store](https://gitlab.com/Harag/cl-naive-store) - a naive persisted, in memory (lazy loading), indexed, document store for Common Lisp. [MIT](https://opensource.org/licenses/MIT).
     *   see [the introductory blog post](https://zaries.wordpress.com/2022/05/31/cl-naive-store/)
@@ -66,7 +66,7 @@
 
 ### Java / General-Purpose Machine Learning
 
-*   [Encog (⭐744)](https://github.com/encog/encog-java-core) - An advanced neural network and machine learning framework. Encog contains classes to create a wide variety of networks, as well as support classes to normalize and process data for these neural networks. Encog trainings using multithreaded resilient propagation. Encog can also make use of a GPU to further speed processing time. A GUI based workbench is also provided to help model and train neural networks.
+*   [Encog (⭐743)](https://github.com/encog/encog-java-core) - An advanced neural network and machine learning framework. Encog contains classes to create a wide variety of networks, as well as support classes to normalize and process data for these neural networks. Encog trainings using multithreaded resilient propagation. Encog can also make use of a GPU to further speed processing time. A GUI based workbench is also provided to help model and train neural networks.
 *   [Neuroph](http://neuroph.sourceforge.net/) - Neuroph is lightweight Java neural network framework.
 
 ### Java / Deep Learning
@@ -75,7 +75,7 @@
 
 ### JavaScript / Natural Language Processing
 
-*   [nlp.js (⭐6.2k)](https://github.com/axa-group/nlp.js) - An NLP library built in node over Natural, with entity extraction, sentiment analysis, automatic language identify, and so more.
+*   [nlp.js (⭐6.3k)](https://github.com/axa-group/nlp.js) - An NLP library built in node over Natural, with entity extraction, sentiment analysis, automatic language identify, and so more.
 
 ### JavaScript / General-Purpose Machine Learning
 
@@ -94,10 +94,6 @@
 ### CMS
 
 *   [GatsbyjsCMS](https://www.gatsbyjs.com/) - Gatsby is the fast and flexible framework that makes building websites with any CMS, API, or database fun again. Build and deploy headless websites that drive more traffic, convert better, and earn more revenue!
-
-### PaaS
-
-*   [Divio](https://www.divio.com/) - A platform to manage cloud applications deploying only using Docker. Available free subscription for development projects. Requires card and no custom domain support.
 
 ### Tunneling, WebRTC, Web Socket Servers and Other Routers
 
@@ -139,7 +135,7 @@
 
 ### Package suites
 
-*   **[Bioperl (⭐275)](https://github.com/bioperl/bioperl-live)** - International association of users & developers of open source Perl tools for bioinformatics, genomics and life sciences. \[ [paper-2002](https://doi.org/10.1101%2Fgr.361602) | [web](https://bioperl.org) ]
+*   **[Bioperl (⭐299)](https://github.com/bioperl/bioperl-live)** - International association of users & developers of open source Perl tools for bioinformatics, genomics and life sciences. \[ [paper-2002](https://doi.org/10.1101%2Fgr.361602) | [web](https://bioperl.org) ]
 
 ### Variant Prediction/Annotation / Structural variant callers
 
@@ -153,13 +149,13 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [rockyzhang24/arctic.nvim (⭐158)](https://github.com/rockyzhang24/arctic.nvim) - A Neovim colorscheme ported from VSCode Dark+ theme with the strict and precise color picking for both the editor and UI.
+*   [rockyzhang24/arctic.nvim (⭐180)](https://github.com/rockyzhang24/arctic.nvim) - A Neovim colorscheme ported from VSCode Dark+ theme with the strict and precise color picking for both the editor and UI.
 
 ## [12. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Boilerplates
 
-*   [Model-View-Presenter template (⭐24)](https://github.com/onl1ner/ios-mvp-template) - A flexible and easy template created to speed up the development of your iOS application based on the MVP pattern.
+*   [Model-View-Presenter template (⭐26)](https://github.com/onl1ner/ios-mvp-template) - A flexible and easy template created to speed up the development of your iOS application based on the MVP pattern.
 
 ## [13. Awesome Qr Code](/content/make-github-pseudonymous-again/awesome-qr-code/README.md)
 
@@ -168,19 +164,13 @@
 *   [qrscan (⭐152)](https://github.com/sayanarijit/qrscan) - Scan a QR code in the terminal using the system camera or a given image.
 *   [qrcode.show](https://qrcode.show) - Generate QR codes using curl.
 
-## [14. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
-
-### Learning Resources
-
-*   [Association of Computing Machinery with Digital Library](https://www.acm.org) \[DISCOUNT] - Normally access to ACM and their Digital Library cost $198 USD a year, however, current IT and Computer Science students can get access for just $42 USD a year.
-
-## [15. Awesome K6](/content/grafana/awesome-k6/README.md)
+## [14. Awesome K6](/content/grafana/awesome-k6/README.md)
 
 ### Articles
 
 *   [On maintaining a k6 codebase, Part 1](https://filfreire.com/posts/k6_tricks_ep1) - Personal tips to maintain a challenging k6 load testing codebase.
 
-## [16. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [15. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Communications / Non-Verbal Communication
 

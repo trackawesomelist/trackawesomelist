@@ -10,19 +10,19 @@
 
 ### Application Frameworks
 
-*   [CSLA .NET (⭐1.2k)](https://github.com/MarimerLLC/csla) - business layer development framework <https://cslanet.com/>
+*   [CSLA .NET (⭐1.3k)](https://github.com/MarimerLLC/csla) - business layer development framework <https://cslanet.com/>
 
 ### Caching
 
-*   [Akavache (⭐2.4k)](https://github.com/reactiveui/Akavache) - An asynchronous, persistent key-value store
+*   [Akavache (⭐2.5k)](https://github.com/reactiveui/Akavache) - An asynchronous, persistent key-value store
 
 ### Database
 
-*   [Realm Xamarin (⭐1.2k)](https://github.com/realm/realm-dotnet) - A fast, easy-to-use alternative to SQLite & ORMs - <https://realm.io/docs/dotnet/latest/>
+*   [Realm Xamarin (⭐1.3k)](https://github.com/realm/realm-dotnet) - A fast, easy-to-use alternative to SQLite & ORMs - <https://realm.io/docs/dotnet/latest/>
 
 ### GIS
 
-*   [CoordinateSharp (⭐360)](https://github.com/Tronald/CoordinateSharp) - Easily parse or convert coordinate formats and calculate location based solar/lunar information.
+*   [CoordinateSharp (⭐369)](https://github.com/Tronald/CoordinateSharp) - Easily parse or convert coordinate formats and calculate location based solar/lunar information.
 
 ### IDE
 
@@ -122,19 +122,19 @@ Blog of cryptographic company that makes open-source libraries and tools, and de
 
 ### Security / Other
 
-*   [Themis (⭐1.8k)](https://github.com/cossacklabs/themis) - Multi-platform high-level cryptographic library provides easy-to-use encryption for protecting sensitive data: secure messaging with forward secrecy, secure data storage (AES256GCM); suits for building end-to-end encrypted applications.
+*   [Themis (⭐1.9k)](https://github.com/cossacklabs/themis) - Multi-platform high-level cryptographic library provides easy-to-use encryption for protecting sensitive data: secure messaging with forward secrecy, secure data storage (AES256GCM); suits for building end-to-end encrypted applications.
 
 ## [11. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
 ### Other lists / Hash functions
 
-*   [Awesome crypto-papers (⭐1.7k)](https://github.com/pFarb/awesome-crypto-papers) – A curated list of cryptography papers, articles, tutorials and howtos.
+*   [Awesome crypto-papers (⭐1.8k)](https://github.com/pFarb/awesome-crypto-papers) – A curated list of cryptography papers, articles, tutorials and howtos.
 
 ## [12. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
 
 ### Video Production
 
-*   [MOS-connection (⭐20)](https://github.com/nrkno/tv-automation-mos-connection) - A JavaScript library for connection and MOS messaging either as MOS device or NRCS.
+*   [MOS-connection (⭐22)](https://github.com/nrkno/tv-automation-mos-connection) - A JavaScript library for connection and MOS messaging either as MOS device or NRCS.
 
 ## [13. Typography](/content/deanhume/typography/README.md)
 

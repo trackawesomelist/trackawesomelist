@@ -37,7 +37,7 @@
 
 ### Ask these people anything!
 
-*   [Rachel Andrew (⭐323)](https://github.com/rachelandrew/cssgrid-ama) - CSS Grid Ask Me Anything. Rachel Andrew is a UK web developer, writer, public speaker and co-founder of Perch CMS.
+*   [Rachel Andrew (⭐328)](https://github.com/rachelandrew/cssgrid-ama) - CSS Grid Ask Me Anything. Rachel Andrew is a UK web developer, writer, public speaker and co-founder of Perch CMS.
 
 ## [6. Awesome Polymer](/content/Granze/awesome-polymer/README.md)
 
@@ -87,7 +87,7 @@
 
 ### Boilerplates / Themes
 
-*   [Aspnet Core Antd Boilerplate (⭐19)](https://github.com/bang88/aspnet-core-react-antd-boilerplate) - Server Side Rendering with Asp.net core.
+*   [Aspnet Core Antd Boilerplate (⭐20)](https://github.com/bang88/aspnet-core-react-antd-boilerplate) - Server Side Rendering with Asp.net core.
 *   [React Redux Universal (⭐18)](https://github.com/subenksaha/react-redux-universal) - Universal/Isomorphic boilerplate using react router 4 and webpack 2.5+. All latest packages.
 
 ---

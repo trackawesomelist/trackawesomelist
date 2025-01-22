@@ -16,7 +16,7 @@
 
 ### Framework Components
 
-*   [praetorian (⭐59)](https://github.com/ilanusse/praetorian) - Minimalist authorization library inspired by Pundit
+*   [praetorian (⭐60)](https://github.com/ilanusse/praetorian) - Minimalist authorization library inspired by Pundit
 
 ## [3. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 

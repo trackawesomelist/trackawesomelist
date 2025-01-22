@@ -41,7 +41,7 @@
 
 ### Software / Content Management Systems (CMS)
 
-*   [Joomla!](https://www.joomla.org/) - Advanced Content Management System (CMS). ([Source Code (⭐4.7k)](https://github.com/joomla/joomla-cms)) `GPL-2.0` `PHP`
+*   [Joomla!](https://www.joomla.org/) - Advanced Content Management System (CMS). ([Source Code (⭐4.8k)](https://github.com/joomla/joomla-cms)) `GPL-2.0` `PHP`
 
 ## [7. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 

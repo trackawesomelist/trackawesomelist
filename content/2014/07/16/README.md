@@ -23,7 +23,7 @@
 
 ### Github Libraries / Randomized Algorithms
 
-*   [CoffeeScript (⭐36)](https://github.com/BrunoRB/algorithms.coffee)
+*   [CoffeeScript (⭐37)](https://github.com/BrunoRB/algorithms.coffee)
 
 ## [4. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
@@ -45,7 +45,7 @@
 
 ### Assets
 
-*   [Cassette (⭐536)](https://github.com/andrewdavey/cassette) - Manages .NET web application assets (scripts, css and templates)
+*   [Cassette (⭐534)](https://github.com/andrewdavey/cassette) - Manages .NET web application assets (scripts, css and templates)
 *   [Bundler (⭐263)](https://github.com/ServiceStack/Bundler) - Compile & Minify Less/Sass/Stylus/Css/JS/CoffeeScript/LiveScript files. Integrates with MVC and ServiceStack
 
 ### Build Automation
@@ -54,7 +54,7 @@
 
 ### Caching
 
-*   [CacheCow (⭐846)](https://github.com/aliostad/CacheCow) - An ASP.NET Web API HTTP caching implementation both on client and server
+*   [CacheCow (⭐859)](https://github.com/aliostad/CacheCow) - An ASP.NET Web API HTTP caching implementation both on client and server
 
 ### Code Analysis and Metrics
 
@@ -66,12 +66,12 @@
 
 ### Internationalization
 
-*   [i18n (⭐557)](https://github.com/turquoiseowl/i18n) - Smart internationalization for ASP.NET MVC
+*   [i18n (⭐559)](https://github.com/turquoiseowl/i18n) - Smart internationalization for ASP.NET MVC
 
 ### IoC
 
 *   [Castle Windsor (⭐1.5k)](https://github.com/castleproject/Windsor) - Castle Windsor is best of breed, mature Inversion of Control container available for .NET and Silverlight
-*   [Autofac (⭐4.4k)](https://github.com/autofac/Autofac) - An addictive .NET IoC container
+*   [Autofac (⭐4.5k)](https://github.com/autofac/Autofac) - An addictive .NET IoC container
 
 ### Logging
 
@@ -85,25 +85,25 @@
 ### Queue
 
 *   [NServiceBus (⭐2.1k)](https://github.com/Particular/NServiceBus) - The most popular service bus for .NET
-*   [NetMQ (⭐2.9k)](https://github.com/zeromq/netmq) - NetMQ is 100% native C# port of ZeroMQ
+*   [NetMQ (⭐3k)](https://github.com/zeromq/netmq) - NetMQ is 100% native C# port of ZeroMQ
 
 ### SDK and API Clients
 
-*   [AWS SDK (⭐2k)](https://github.com/aws/aws-sdk-net) - The AWS SDK for .NET enables .NET developers to easily work with Amazon Web Services
+*   [AWS SDK (⭐2.1k)](https://github.com/aws/aws-sdk-net) - The AWS SDK for .NET enables .NET developers to easily work with Amazon Web Services
 *   [Octokit.NET (⭐2.7k)](https://github.com/octokit/octokit.net) - A GitHub API client library for .NET
 
 ### Testing
 
-*   [AutoFixture (⭐3.3k)](https://github.com/AutoFixture/AutoFixture) - AutoFixture is an open source framework for .NET designed to minimize the 'Arrange' phase of your unit tests
+*   [AutoFixture (⭐3.4k)](https://github.com/AutoFixture/AutoFixture) - AutoFixture is an open source framework for .NET designed to minimize the 'Arrange' phase of your unit tests
 
 ### Web Servers
 
-*   [EmbedIO (⭐1.4k)](https://github.com/unosquare/embedio) - Web server built on Mono and cross-platform
+*   [EmbedIO (⭐1.5k)](https://github.com/unosquare/embedio) - Web server built on Mono and cross-platform
 
 ### WebSocket
 
 *   [Fleck (⭐2.3k)](https://github.com/statianzo/Fleck) - Fleck is a WebSocket server implementation in C#. Branched from the Nugget project
-*   [Websocket-Sharp (⭐5.6k)](https://github.com/sta/websocket-sharp) - A C# implementation of the WebSocket protocol client and server
+*   [Websocket-Sharp (⭐5.8k)](https://github.com/sta/websocket-sharp) - A C# implementation of the WebSocket protocol client and server
 
 ## [7. Awesome Devenv](/content/jondot/awesome-devenv/README.md)
 
@@ -147,7 +147,7 @@
 
 ### Java / Data Analysis / Data Visualization
 
-*   [Spark (⭐39k)](https://github.com/apache/spark) - Spark is a fast and general engine for large-scale data processing.
+*   [Spark (⭐40k)](https://github.com/apache/spark) - Spark is a fast and general engine for large-scale data processing.
 
 ### JavaScript / Data Analysis / Data Visualization
 
@@ -157,7 +157,7 @@
 ### Julia / General-Purpose Machine Learning
 
 *   [PGM (⭐52)](https://github.com/JuliaStats/PGM.jl) - A Julia framework for probabilistic graphical models.
-*   [Clustering (⭐351)](https://github.com/JuliaStats/Clustering.jl) - Basic functions for clustering data: k-means, dp-means, etc.
+*   [Clustering (⭐356)](https://github.com/JuliaStats/Clustering.jl) - Basic functions for clustering data: k-means, dp-means, etc.
 
 ### Julia / Data Analysis / Data Visualization
 
@@ -198,7 +198,7 @@
 
 ### .NET / Natural Language Processing
 
-*   [Stanford.NLP for .NET (⭐595)](https://github.com/sergey-tihon/Stanford.NLP.NET/) - A full port of Stanford NLP packages to .NET and also available precompiled as a NuGet package.
+*   [Stanford.NLP for .NET (⭐598)](https://github.com/sergey-tihon/Stanford.NLP.NET/) - A full port of Stanford NLP packages to .NET and also available precompiled as a NuGet package.
 
 ### Python / Computer Vision
 
@@ -212,11 +212,11 @@
 
 *   [MLlib in Apache Spark](http://spark.apache.org/docs/latest/mllib-guide.html) - Distributed machine learning library in Spark
 *   [BigML](https://bigml.com) - A library that contacts external servers.
-*   [Restricted Boltzmann Machines (⭐943)](https://github.com/echen/restricted-boltzmann-machines) -Restricted Boltzmann Machines in Python. \[DEEP LEARNING]
+*   [Restricted Boltzmann Machines (⭐953)](https://github.com/echen/restricted-boltzmann-machines) -Restricted Boltzmann Machines in Python. \[DEEP LEARNING]
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
-*   [Sarah Palin LDA (⭐10)](https://github.com/Wavelets/sarah-palin-lda) - Topic Modelling the Sarah Palin emails.
+*   [Sarah Palin LDA (⭐9)](https://github.com/Wavelets/sarah-palin-lda) - Topic Modelling the Sarah Palin emails.
 *   [sentiment-analyzer (⭐52)](https://github.com/madhusudancs/sentiment-analyzer) - Tweets Sentiment Analyzer
 
 ### Python / Kaggle Competition Source Code
@@ -225,11 +225,11 @@
 
 ### Ruby / General-Purpose Machine Learning
 
-*   [CardMagic-Classifier (⭐660)](https://github.com/cardmagic/classifier) - A general classifier module to allow Bayesian and other types of classifications.
+*   [CardMagic-Classifier (⭐661)](https://github.com/cardmagic/classifier) - A general classifier module to allow Bayesian and other types of classifications.
 
 ### Ruby / Data Analysis / Data Visualization
 
-*   [Bioruby (⭐377)](https://github.com/bioruby/bioruby)
+*   [Bioruby (⭐378)](https://github.com/bioruby/bioruby)
 
 ### Ruby / Misc
 
@@ -241,9 +241,9 @@
 
 ### Scala / General-Purpose Machine Learning
 
-*   [adam (⭐989)](https://github.com/bigdatagenomics/adam) - A genomics processing engine and specialized file format built using Apache Avro, Apache Spark and Parquet. Apache 2 licensed.
-*   [bioscala (⭐108)](https://github.com/bioscala/bioscala) - Bioinformatics for the Scala programming language
-*   [BIDMach (⭐914)](https://github.com/BIDData/BIDMach) - CPU and GPU-accelerated Machine Learning Library.
+*   [adam (⭐1k)](https://github.com/bigdatagenomics/adam) - A genomics processing engine and specialized file format built using Apache Avro, Apache Spark and Parquet. Apache 2 licensed.
+*   [bioscala (⭐109)](https://github.com/bioscala/bioscala) - Bioinformatics for the Scala programming language
+*   [BIDMach (⭐915)](https://github.com/BIDData/BIDMach) - CPU and GPU-accelerated Machine Learning Library.
 
 ---
 

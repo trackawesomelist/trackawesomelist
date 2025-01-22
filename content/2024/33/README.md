@@ -10,17 +10,17 @@
 
 ### Software / Recipe Management
 
-*   [Tamari](https://tamariapp.com) - Recipe manager web app with a built-in collection of recipes. Organize by favorites and categories, create shopping lists, and plan meals. ([Demo](https://app.tamariapp.com), [Source Code (⭐61)](https://github.com/alexbates/Tamari)) `GPL-3.0` `Docker/Python`
+*   [Tamari](https://tamariapp.com) - Recipe manager web app with a built-in collection of recipes. Organize by favorites and categories, create shopping lists, and plan meals. ([Demo](https://app.tamariapp.com), [Source Code (⭐78)](https://github.com/alexbates/Tamari)) `GPL-3.0` `Docker/Python`
 
 ### Software / Web Servers
 
-*   [BunkerWeb](https://www.bunkerweb.io) - Next-gen Web Application Firewall (WAF) that will protect your web services. ([Demo](https://demo.bunkerweb.io), [Source Code (⭐5.5k)](https://github.com/bunkerity/bunkerweb), [Clients](https://docs.bunkerweb.io/latest/plugins/)) `AGPL-3.0` `deb/Docker/K8S/Python`
+*   [BunkerWeb](https://www.bunkerweb.io) - Next-gen Web Application Firewall (WAF) that will protect your web services. ([Demo](https://demo.bunkerweb.io), [Source Code (⭐7.3k)](https://github.com/bunkerity/bunkerweb), [Clients](https://docs.bunkerweb.io/latest/plugins/)) `AGPL-3.0` `deb/Docker/K8S/Python`
 
 ## [2. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Code Quality
 
-*   [Laravel Pint (⭐2.7k)](https://github.com/laravel/pint) - A coding standards fixer library for Laravel.
+*   [Laravel Pint (⭐2.8k)](https://github.com/laravel/pint) - A coding standards fixer library for Laravel.
 
 ### Table of Contents / Event
 
@@ -28,16 +28,16 @@
 
 ### Table of Contents / Filtering, Sanitizing and Validation
 
-*   [Symfony HTML Sanitizer (⭐231)](https://github.com/symfony/html-sanitizer) - An HTML sanitizer library.
+*   [Symfony HTML Sanitizer (⭐243)](https://github.com/symfony/html-sanitizer) - An HTML sanitizer library.
 *   [Valinor (⭐1.3k)](https://github.com/CuyZ/Valinor) - A library for mapping to strongly typed value objects.
 
 ### Configuration / Miscellaneous
 
-*   [Laravel Serializable Closure (⭐494)](https://github.com/laravel/serializable-closure) - A library that allows Closures to be serialized.
+*   [Laravel Serializable Closure (⭐543)](https://github.com/laravel/serializable-closure) - A library that allows Closures to be serialized.
 
 ### Configuration / PHP Installation
 
-*   [Static PHP CLI (⭐1.2k)](https://github.com/crazywhalecc/static-php-cli) - Build or [download](https://dl.static-php.dev/static-php-cli/) static versions of PHP CLI and FPM.
+*   [Static PHP CLI (⭐1.4k)](https://github.com/crazywhalecc/static-php-cli) - Build or [download](https://dl.static-php.dev/static-php-cli/) static versions of PHP CLI and FPM.
 
 ### Configuration / Development Environment
 
@@ -133,7 +133,7 @@
 
 ### Automation / Ruby
 
-*   [k6 browser (⭐334)](https://github.com/grafana/xk6-browser) - Browser automation and end-to-end web testing tool that interacts with browsers and collects frontend performance metrics.
+*   [k6 browser (⭐354)](https://github.com/grafana/xk6-browser) - Browser automation and end-to-end web testing tool that interacts with browsers and collects frontend performance metrics.
 
 ## [7. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
@@ -145,7 +145,7 @@
 
 ### Mathematics / Waveform Generator
 
-*   [micropython-npyfile (⭐1)](https://github.com/jonnor/micropython-npyfile/) - Numpy .npy file support for MicroPython, supports read/write/streaming.
+*   [micropython-npyfile (⭐3)](https://github.com/jonnor/micropython-npyfile/) - Numpy .npy file support for MicroPython, supports read/write/streaming.
 
 ## [9. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
@@ -158,17 +158,17 @@
 
 ### CMS
 
-*   [FluentCMS (⭐105)](https://github.com/fluentcms/FluentCMS) - FluentCMS is open source AI Driven ASP.NET Core Blazor Content Management System (CMS)
+*   [FluentCMS (⭐324)](https://github.com/fluentcms/FluentCMS) - FluentCMS is open source AI Driven ASP.NET Core Blazor Content Management System (CMS)
 
 ### Web Frameworks
 
-*   [CodeBehind Framework (⭐49)](https://github.com/elanatframework/Code_behind) - Modern and powerful back-end framework under ASP.NET Core.
+*   [CodeBehind Framework (⭐65)](https://github.com/elanatframework/Code_behind) - Modern and powerful back-end framework under ASP.NET Core.
 
 ## [11. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Utilities / Window Management
 
-*   [Loop (⭐6.3k)](https://github.com/MrKai77/Loop) - Window management made elegant. [Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/MrKai77/Loop)
+*   [Loop (⭐7.6k)](https://github.com/MrKai77/Loop) - Window management made elegant. [Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/MrKai77/Loop)
 
 ### Third Party App Markets / Package Managers
 
@@ -188,7 +188,7 @@
 
 ### Database clients
 
-*   [vduckdb (⭐15)](https://github.com/rodabt/vduckdb) - A DuckDB client wrapper for V.
+*   [vduckdb (⭐33)](https://github.com/rodabt/vduckdb) - A DuckDB client wrapper for V.
 
 ## [14. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
@@ -200,7 +200,7 @@
 
 ### Front-End Development
 
-*   [Ionic Framework (⭐843)](https://github.com/candelibas/awesome-ionic#readme)
+*   [Ionic Framework (⭐849)](https://github.com/candelibas/awesome-ionic#readme)
 
 ## [16. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
 
@@ -212,90 +212,52 @@
 
 ### Applications / Database
 
-*   [Tonbo (⭐153)](https://github.com/tonbo-io/tonbo) - Tonbo is an embedded persistent database built on Apache Arrow & Parquet [![crates.io](https://img.shields.io/crates/v/tonbo.svg)](https://crates.io/crates/tonbo)
+*   [Tonbo (⭐874)](https://github.com/tonbo-io/tonbo) - Tonbo is an embedded persistent database built on Apache Arrow & Parquet [![crates.io](https://img.shields.io/crates/v/tonbo.svg)](https://crates.io/crates/tonbo)
 
 ### Applications / Observability
 
-*   [MegaAntiCheat/client-backend (⭐113)](https://github.com/MegaAntiCheat/client-backend) - The client app for [MAC](https://github.com/MegaAntiCheat).
+*   [MegaAntiCheat/client-backend (⭐120)](https://github.com/MegaAntiCheat/client-backend) - The client app for [MAC](https://github.com/MegaAntiCheat).
 
 ### Applications / Social networks
 
 *   Telegram
-    *   [tgt (⭐180)](https://github.com/FedericoBruzzone/tgt) - A crossplatform TUI for Telegram [![ci-linux](https://github.com/FedericoBruzzone/tgt/actions/workflows/ci-linux.yml/badge.svg)](https://github.com/FedericoBruzzone/tgt/actions/workflows/ci-linux.yml) [![ci-macos](https://github.com/FedericoBruzzone/tgt/actions/workflows/ci-macos.yml/badge.svg)](https://github.com/FedericoBruzzone/tgt/actions/workflows/ci-macos.yml) [![ci-windows](https://github.com/FedericoBruzzone/tgt/actions/workflows/ci-windows.yml/badge.svg)](https://github.com/FedericoBruzzone/tgt/actions/workflows/ci-windows.yml)
-
-### Applications / Utilities
-
-*   [sorairolake/qrtool](https://gitlab.com/sorairolake/qrtool) \[[qrtool](https://crates.io/crates/qrtool)] - A utility for encoding and decoding QR code images. [![CI](https://gitlab.com/sorairolake/qrtool/workflows/CI/badge.svg?branch=develop)](https://gitlab.com/sorairolake/qrtool/actions?query=workflow%3ACI)
-
-### Libraries / Cryptography
-
-*   [sorairolake/abcrypt](https://gitlab.com/sorairolake/abcrypt) \[[abcrypt](https://crates.io/crates/abcrypt)] - A simple, modern and secure file encryption library. [![CI](https://gitlab.com/sorairolake/abcrypt/workflows/CI/badge.svg?branch=develop)](https://gitlab.com/sorairolake/abcrypt/actions?query=workflow%3ACI)
-*   [sorairolake/scryptenc-rs](https://gitlab.com/sorairolake/scryptenc-rs) \[[scryptenc](https://crates.io/crates/scryptenc)] - An implementation of the scrypt encrypted data format. [![CI](https://gitlab.com/sorairolake/scryptenc-rs/workflows/CI/badge.svg?branch=develop)](https://gitlab.com/sorairolake/scryptenc-rs/actions?query=workflow%3ACI)
-
-### Libraries / Date and time
-
-*   [sorairolake/nt-time](https://gitlab.com/sorairolake/nt-time) \[[nt-time](https://crates.io/crates/nt-time)] - A Windows file time library. [![CI](https://gitlab.com/sorairolake/nt-time/workflows/CI/badge.svg?branch=develop)](https://gitlab.com/sorairolake/nt-time/actions?query=workflow%3ACI)
+    *   [tgt (⭐440)](https://github.com/FedericoBruzzone/tgt) - A crossplatform TUI for Telegram [![ci-linux](https://github.com/FedericoBruzzone/tgt/actions/workflows/ci-linux.yml/badge.svg)](https://github.com/FedericoBruzzone/tgt/actions/workflows/ci-linux.yml) [![ci-macos](https://github.com/FedericoBruzzone/tgt/actions/workflows/ci-macos.yml/badge.svg)](https://github.com/FedericoBruzzone/tgt/actions/workflows/ci-macos.yml) [![ci-windows](https://github.com/FedericoBruzzone/tgt/actions/workflows/ci-windows.yml/badge.svg)](https://github.com/FedericoBruzzone/tgt/actions/workflows/ci-windows.yml)
 
 ### Libraries / Image processing
 
-*   [Enet4/dicom-rs (⭐409)](https://github.com/Enet4/dicom-rs) - A pure Rust implementation of the DICOM standard, allowing users to work with DICOM objects and interact with DICOM applications, while aiming to be fast, safe, and intuitive to use.
+*   [Enet4/dicom-rs (⭐443)](https://github.com/Enet4/dicom-rs) - A pure Rust implementation of the DICOM standard, allowing users to work with DICOM objects and interact with DICOM applications, while aiming to be fast, safe, and intuitive to use.
 
 ### Libraries / Social networks
 
 *   Telegram
-    *   [tdilb-rs (⭐27)](https://github.com/FedericoBruzzone/tdlib-rs) \[[tdilb-rs](https://crates.io/crates/tdlib-rs)] - Crossplatform Rust wrapper around the Telegram Database Library (TDLib) [![CI Linux](https://github.com/FedericoBruzzone/tdlib-rs/actions/workflows/ci-linux.yml/badge.svg)](https://github.com/FedericoBruzzone/tdlib-rs/actions/workflows/ci-linux.yml) [![CI macOS](https://github.com/FedericoBruzzone/tdlib-rs/actions/workflows/ci-macos.yml/badge.svg)](https://github.com/FedericoBruzzone/tdlib-rs/actions/workflows/ci-macos.yml) [![CI Windows](https://github.com/FedericoBruzzone/tdlib-rs/actions/workflows/ci-windows.yml/badge.svg)](https://github.com/FedericoBruzzone/tdlib-rs/actions/workflows/ci-windows.yml)
-
-### Libraries / System
-
-*   [sorairolake/sysexits-rs](https://gitlab.com/sorairolake/sysexits-rs) \[[sysexits](https://crates.io/crates/sysexits)] - The system exit codes as defined by [`<sysexits.h>`](https://manpages.ubuntu.com/manpages/lunar/man3/sysexits.h.3head.html). [![CI](https://gitlab.com/sorairolake/sysexits-rs/workflows/CI/badge.svg?branch=develop)](https://gitlab.com/sorairolake/sysexits-rs/actions?query=workflow%3ACI)
+    *   [tdilb-rs (⭐46)](https://github.com/FedericoBruzzone/tdlib-rs) \[[tdilb-rs](https://crates.io/crates/tdlib-rs)] - Crossplatform Rust wrapper around the Telegram Database Library (TDLib) [![CI Linux](https://github.com/FedericoBruzzone/tdlib-rs/actions/workflows/ci-linux.yml/badge.svg)](https://github.com/FedericoBruzzone/tdlib-rs/actions/workflows/ci-linux.yml) [![CI macOS](https://github.com/FedericoBruzzone/tdlib-rs/actions/workflows/ci-macos.yml/badge.svg)](https://github.com/FedericoBruzzone/tdlib-rs/actions/workflows/ci-macos.yml) [![CI Windows](https://github.com/FedericoBruzzone/tdlib-rs/actions/workflows/ci-windows.yml/badge.svg)](https://github.com/FedericoBruzzone/tdlib-rs/actions/workflows/ci-windows.yml)
 
 ### Resources / Web programming
 
 *   Benchmarks
     *   [c410-f3r/wtx-bench (⭐0)](https://github.com/c410-f3r/wtx-bench) - Web benchmarks
-    *   [TeXitoi/benchmarksgame-rs (⭐69)](https://github.com/TeXitoi/benchmarksgame-rs) - Implementations for the [The Computer Language Benchmarks Game](https://benchmarksgame-team.pages.debian.net/benchmarksgame/)
+    *   [TeXitoi/benchmarksgame-rs (⭐70)](https://github.com/TeXitoi/benchmarksgame-rs) - Implementations for the [The Computer Language Benchmarks Game](https://benchmarksgame-team.pages.debian.net/benchmarksgame/)
 
 ## [18. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
-
-### Projects / API Design
-
-*   [Spectral (⭐2.4k) (⭐2.4k)](https://github.com/stoplightio/spectral) - Detect and fix errors in your JSON/YAML files using this linter tool that supports OpenAPI 3.0 & 2.0 and AsyncAPI.
-
-### Projects / API Gateway
-
-*   [Apinto (⭐1.3k) (⭐1.3k)](https://github.com/eolinker/goku) - A Golang-based microservice gateway that provides dynamic routing, service orchestration, multi-tenancy management, and API access control.
 
 ### Projects / API Testing
 
 *   API clients
     *   [Advanced REST Client (⭐1.4k) (⭐1.4k)](https://github.com/advanced-rest-client/arc-electron) - An open-source API tool designed for testing and debugging RESTful web services.
-    *   [Bruno (⭐24k) (⭐24k)](https://github.com/usebruno/bruno) - A fast, git-friendly, and offline-only opensource API client.
-    *   [curl (⭐35k) (⭐35k)](https://github.com/curl/curl) - Command-line tool for transferring data with URLs over various protocols.
-    *   [curlie (⭐2.7k) (⭐2.8k)](https://github.com/rs/curlie) - Frontend to curl with the ease of use of httpie without compromising on performance and features.
-    *   [HTTPie (⭐33k) (⭐33k)](https://github.com/httpie/httpie) - User-friendly command-line HTTP client that simplifies HTTP request/response inspection and manipulation.
-    *   [Insomnia (⭐34k) (⭐34k)](https://github.com/Kong/insomnia) - Cross-platform HTTP and GraphQL client designed to make API testing and debugging easier.
+    *   [Bruno (⭐30k) (⭐30k)](https://github.com/usebruno/bruno) - A fast, git-friendly, and offline-only opensource API client.
+    *   [curl (⭐36k) (⭐37k)](https://github.com/curl/curl) - Command-line tool for transferring data with URLs over various protocols.
+    *   [curlie (⭐2.9k) (⭐2.9k)](https://github.com/rs/curlie) - Frontend to curl with the ease of use of httpie without compromising on performance and features.
+    *   [HTTPie (⭐34k) (⭐34k)](https://github.com/httpie/httpie) - User-friendly command-line HTTP client that simplifies HTTP request/response inspection and manipulation.
+    *   [Hoppscotch (⭐66k) (⭐67k)](https://github.com/hoppscotch/hoppscotch) - A fast, open-source API development tool available as a web app.
+    *   [Insomnia (⭐35k) (⭐35k)](https://github.com/Kong/insomnia) - Cross-platform HTTP and GraphQL client designed to make API testing and debugging easier.
+    *   [posting (⭐6.7k) (⭐6.7k)](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
     *   [Postman](https://www.postman.com/product/api-client/) - Comprehensive tool for simplifying API development and testing processes with features such as making HTTP requests, generating mock servers, and creating API documentation.
-    *   [resty (⭐2.6k) (⭐2.6k)](https://github.com/micha/resty) - A Lua framework for building HTTP clients that provides a shell interface for interacting with REST services.
-    *   [SoapUI (⭐1.5k) (⭐1.5k)](https://github.com/SmartBear/soapui) - Open-source web service testing application designed for testing SOAP and REST web services.
-
-### Projects / BRE
-
-*   [Drools (⭐5.8k) (⭐5.8k)](https://github.com/apache/incubator-kie-drools) - Open-source tool that supports Decision Model and Notation (DMN) models at Conformance level 3 with an Eclipse IDE plugin for core development.
+    *   [resty (⭐2.6k) (⭐2.7k)](https://github.com/micha/resty) - A Lua framework for building HTTP clients that provides a shell interface for interacting with REST services.
+    *   [SoapUI (⭐1.5k) (⭐1.6k)](https://github.com/SmartBear/soapui) - Open-source web service testing application designed for testing SOAP and REST web services.
 
 ### Projects / Messaging
 
-*   [VerneMQ (⭐3.2k) (⭐3.2k)](https://github.com/vernemq/vernemq) - A high-performance distributed MQTT message broker designed for scalability and reliability. Offers efficient and reliable message delivery and supports multiple messaging protocols and patterns.
-
-### Projects / Workflow engine
-
-*   [Bonita (⭐150) (⭐150)](https://github.com/bonitasoft/bonita-engine) - An open-source BPMN engine that comes with a designer and optional development environment, making it easier to build and automate complex business processes.
-*   [Flowable (⭐7.7k) (⭐7.7k)](https://github.com/flowable/flowable-engine) - A set of open-source business process engines that are compact and efficient, making it easier to automate business processes in a scalable and reliable way.
-*   [StackStorm (⭐6k) (⭐6k)](https://github.com/StackStorm/st2) - A robust automation engine that provides sensors, triggers, rules, workflows, and actions to help you automate and orchestrate complex workflows and applications.
-*   [Temporal (⭐11k) (⭐11k)](https://github.com/temporalio/temporal) - An open-source platform that uses a workflow-as-code approach to make your applications more reliable and scalable.
-
-### Resources / API Specification
-
-*   [JSON:API (⭐7.4k) (⭐7.4k)](https://github.com/json-api/json-api) - A standardized specification for building APIs that simplifies the representation of resources, relationships, and metadata, making it easier for software engineers to create efficient APIs.
+*   [VerneMQ (⭐3.2k) (⭐3.3k)](https://github.com/vernemq/vernemq) - A high-performance distributed MQTT message broker designed for scalability and reliability. Offers efficient and reliable message delivery and supports multiple messaging protocols and patterns.
 
 ## [19. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
@@ -309,21 +271,17 @@
 
 ### AI Tools for Searching / Multi-agents
 
-*   [MemFree (⭐221)](https://github.com/memfreeme/memfree) - Open Source Hybrid AI Search Engine, Instantly Get Accurate Answers from the Internet, Bookmarks, Notes, and Docs. Support One-Click Deployment.
+*   [MemFree (⭐1.2k)](https://github.com/memfreeme/memfree) - Open Source Hybrid AI Search Engine, Instantly Get Accurate Answers from the Internet, Bookmarks, Notes, and Docs. Support One-Click Deployment.
 
 ### Image Synthesis / Multi-agents
 
 *   [The FLUX.1 family of models – Replicate](https://replicate.com/collections/flux)
 
-### Inbox: Text-to-speech (TTS) and avatars / Deforum
+### Text-to-speech (TTS) and avatars / Deforum
 
 *   [Parler-TTS](https://huggingface.co/collections/parler-tts/parler-tts-fully-open-source-high-quality-tts-66164ad285ba03e8ffde214c): fully open-source high-quality TTS
 
 ## [20. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
-
-### APIs, Data, and ML
-
-*   [Zuplo](https://zuplo.com) - Free API Management platform to design, build, and deploy APIs to the Edge. Add Authentication, Rate Limiting, API Documentation, and Monetization in minutes. OpenAPI-native and fully-programmable with web standard apis & Typescript.
 
 ### Testing
 
@@ -347,15 +305,15 @@
 
 ### Tools and session management
 
-*   [harpoon (⭐10)](https://github.com/Chaitanyabsprip/tmux-harpoon) A tool to bookmark sessions and jump between them in a flash. Like ThePrimeagen/harpoon, but for tmux.
+*   [harpoon (⭐17)](https://github.com/Chaitanyabsprip/tmux-harpoon) A tool to bookmark sessions and jump between them in a flash. Like ThePrimeagen/harpoon, but for tmux.
 
 ### Status Bar
 
-*   [muxbar (⭐2)](https://github.com/dlurak/muxbar) configure the status bar in Rust.
+*   [muxbar (⭐12)](https://github.com/dlurak/muxbar) configure the status bar in Rust.
 
 ### Plugins
 
-*   [kmux-status (⭐4)](https://github.com/tardunge/kmux-status) - Tmux plugin to render kubernetes context and other indicators on the status-line.
+*   [kmux-status (⭐6)](https://github.com/tardunge/kmux-status) - Tmux plugin to render kubernetes context and other indicators on the status-line.
 
 ## [23. Awesome Minecraft](/content/bs-community/awesome-minecraft/week/README.md)
 
@@ -367,14 +325,14 @@
 
 ### Machine Learning
 
-*   [iOS-GenAI-Sampler (⭐59)](https://github.com/shu223/iOS-GenAI-Sampler) - A collection of Generative AI examples on iOS.
+*   [iOS-GenAI-Sampler (⭐93)](https://github.com/shu223/iOS-GenAI-Sampler) - A collection of Generative AI examples on iOS.
 
 ## [25. Magictools](/content/ellisonleao/magictools/week/README.md)
 
 ### Music and Audio Editors / Voxel Editors
 
 *   :free: [Famistudio (⭐1.6k)](https://github.com/BleuBleu/FamiStudio) - FamiStudio NES Music Editor.
-*   :free: [FamiTracker (⭐362)](https://github.com/Dn-Programming-Core-Management/Dn-FamiTracker) - free windows tracker for producing music for the NES/Famicom-systems.
+*   :free: [FamiTracker (⭐389)](https://github.com/Dn-Programming-Core-Management/Dn-FamiTracker) - free windows tracker for producing music for the NES/Famicom-systems.
 
 ## [26. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
@@ -387,12 +345,12 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [ez-compinit (⭐0)](https://github.com/mattmc3/ez-compinit) - Wraps `compinit`, queueing up calls to `compdef`, and hooking the real `compinit` call to an event that runs at the end of your `.zshrc`. That way you get all the benefits of calling `compinit` early without any of the downsides.
-*   [shellcolor (⭐1)](https://github.com/SaltedBlowfish/zsh-shellcolor) - Changes the terminal background color based on the presence of a `.shellcolor` in the current directory.
+*   [ez-compinit (⭐13)](https://github.com/mattmc3/ez-compinit) - Wraps `compinit`, queueing up calls to `compdef`, and hooking the real `compinit` call to an event that runs at the end of your `.zshrc`. That way you get all the benefits of calling `compinit` early without any of the downsides.
+*   [shellcolor (⭐3)](https://github.com/SaltedBlowfish/zsh-shellcolor) - Changes the terminal background color based on the presence of a `.shellcolor` in the current directory.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [sorin-modified-dark (⭐0)](https://github.com/hrmeetsingh/sorin-modified-dark) - Based on [sorin (⭐172k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#sorin). Minimalist, adds decorators for `git` status and current directory.
+*   [sorin-modified-dark (⭐0)](https://github.com/hrmeetsingh/sorin-modified-dark) - Based on [sorin (⭐175k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#sorin). Minimalist, adds decorators for `git` status and current directory.
 
 ## [28. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
@@ -404,19 +362,19 @@
 
 ### Databases / ORMs
 
-*   [Edgy ORM (⭐142)](https://github.com/dymmond/edgy) - Complex databases made simple.
+*   [Edgy ORM (⭐215)](https://github.com/dymmond/edgy) - Complex databases made simple.
 
 ### Official Resources / Other Tools
 
-*   [Source Code (⭐75k)](https://github.com/fastapi/fastapi) - Hosted on GitHub.
+*   [Source Code (⭐79k)](https://github.com/fastapi/fastapi) - Hosted on GitHub.
 
 ### PaaS / Other Tools
 
-*   [Fly](https://fly.io) ([tutorial](https://fly.io/docs/python/frameworks/fastapi/), [Deploy from a Git repo (⭐2)](https://github.com/fly-apps/hello-fastapi))
+*   [Fly](https://fly.io) ([tutorial](https://fly.io/docs/python/frameworks/fastapi/), [Deploy from a Git repo (⭐5)](https://github.com/fly-apps/hello-fastapi))
 
 ### Boilerplate / Other Tools
 
-*   [Full Stack FastAPI and PostgreSQL - Base Project Generator (⭐25k)](https://github.com/fastapi/full-stack-fastapi-template) - Full Stack FastAPI Template
+*   [Full Stack FastAPI and PostgreSQL - Base Project Generator (⭐29k)](https://github.com/fastapi/full-stack-fastapi-template) - Full Stack FastAPI Template
     , which includes FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS, and more (developed by the creator of FastAPI, [Sebastián Ramírez](https://github.com/tiangolo)).
 
 ## [30. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
@@ -427,21 +385,21 @@
 
 ### Python / Trading & Backtesting
 
-*   [YABTE (⭐3)](https://github.com/bsdz/yabte) - Yet Another (Python) BackTesting Engine.
+*   [YABTE (⭐6)](https://github.com/bsdz/yabte) - Yet Another (Python) BackTesting Engine.
 
 ### Python / Risk Analysis
 
-*   [QuantLibRisks (⭐8)](https://github.com/auto-differentiation/QuantLib-Risks-Py) - Fast risks with QuantLib
-*   [XAD (⭐8)](https://github.com/auto-differentiation/xad-py) - Automatic Differentation (AAD) Library
+*   [QuantLibRisks (⭐13)](https://github.com/auto-differentiation/QuantLib-Risks-Py) - Fast risks with QuantLib
+*   [XAD (⭐12)](https://github.com/auto-differentiation/xad-py) - Automatic Differentation (AAD) Library
 
 ### CPP / Data Visualization
 
-*   [QuantLibRisks (⭐13)](https://github.com/auto-differentiation/QuantLib-Risks-Cpp) - Fast risks with QuantLib in C++
-*   [XAD (⭐229)](https://github.com/auto-differentiation/xad) - Automatic Differentation (AAD) Library
+*   [QuantLibRisks (⭐20)](https://github.com/auto-differentiation/QuantLib-Risks-Cpp) - Fast risks with QuantLib in C++
+*   [XAD (⭐351)](https://github.com/auto-differentiation/xad) - Automatic Differentation (AAD) Library
 
 ### Frameworks / Data Visualization
 
-*   XAD: Automatic Differentation (AAD) Library for [Python](https://pypi.org/project/xad/) and [C++ (⭐229)](https://github.com/auto-differentiation/xad)
+*   XAD: Automatic Differentation (AAD) Library for [Python](https://pypi.org/project/xad/) and [C++ (⭐351)](https://github.com/auto-differentiation/xad)
 
 ### Reproducing Works, Training & Books / Data Visualization
 
@@ -451,70 +409,65 @@
 
 ### no-std crates / WIP
 
-*   [wtx (⭐63)](https://github.com/c410-f3r/wtx): Among other things, provides implementations to interact with HTTP, WebSockets and Databases.
+*   [wtx (⭐247)](https://github.com/c410-f3r/wtx): Among other things, provides implementations to interact with HTTP, WebSockets and Databases.
 
 ## [32. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Configuration
 
-*   [sonic (⭐6.6k)](https://github.com/bytedance/sonic) - A blazingly fast JSON serializing & deserializing library.
+*   [sonic (⭐7.3k)](https://github.com/bytedance/sonic) - A blazingly fast JSON serializing & deserializing library.
 
 ### Data Integration Frameworks
 
-*   [Benthos (⭐8k)](https://github.com/benthosdev/benthos) - A message streaming bridge between a range of protocols.
-*   [CloudQuery (⭐5.7k)](http://github.com/cloudquery/cloudquery) - A high-performance ELT data integration framework with pluggable architecture.
+*   [Benthos (⭐8.2k)](https://github.com/benthosdev/benthos) - A message streaming bridge between a range of protocols.
+*   [CloudQuery (⭐5.9k)](http://github.com/cloudquery/cloudquery) - A high-performance ELT data integration framework with pluggable architecture.
 
 ### Distributed Systems
 
-*   [mochi mqtt (⭐1.1k)](https://github.com/mochi-co/mqtt) - Fully spec compliant, embeddable high-performance MQTT v5/v3 broker for IoT, smarthome, and pubsub.
+*   [mochi mqtt (⭐1.4k)](https://github.com/mochi-co/mqtt) - Fully spec compliant, embeddable high-performance MQTT v5/v3 broker for IoT, smarthome, and pubsub.
 
 ### Game Development
 
-*   [grid (⭐16)](https://github.com/s0rg/grid) - Generic 2D grid with ray-casting, shadow-casting and path finding.
+*   [grid (⭐18)](https://github.com/s0rg/grid) - Generic 2D grid with ray-casting, shadow-casting and path finding.
 
 ### Goroutines
 
-*   [async (⭐3)](https://github.com/yaitoo/async) - An asynchronous task package with async/await style for Go.
-*   [rill (⭐463)](https://github.com/destel/rill) - Go concurrency with channel transformations. No boilerplate, type safety, batching and error handling.
+*   [async (⭐9)](https://github.com/yaitoo/async) - An asynchronous task package with async/await style for Go.
+*   [rill (⭐1.5k)](https://github.com/destel/rill) - Go toolkit for clean, composable, channel-based concurrency.
 
 ### GUI
 
-*   [Cogent Core (⭐1.7k)](https://github.com/cogentcore/core) - A framework for building 2D and 3D apps that run on macOS, Windows, Linux, iOS, Android, and the web.
+*   [Cogent Core (⭐1.8k)](https://github.com/cogentcore/core) - A framework for building 2D and 3D apps that run on macOS, Windows, Linux, iOS, Android, and the web.
 
 ### IoT (Internet of Things)
 
 *   [shifu (⭐1.3k)](https://github.com/Edgenesis/shifu) - Kubernetes native IoT development framework.
 
-### Job Scheduler
-
-*   [Cadence-client (⭐344)](https://github.com/uber-go/cadence-client) - A framework for authoring workflows and activities running on top of the Cadence orchestration engine made by Uber.
-
 ### Messaging
 
-*   [rabbitroutine (⭐109)](https://github.com/furdarius/rabbitroutine) - Lightweight library that handles RabbitMQ auto-reconnect and publishing retries. The library takes into account the need to re-declare entities in RabbitMQ after reconnection.
+*   [rabbitroutine (⭐110)](https://github.com/furdarius/rabbitroutine) - Lightweight library that handles RabbitMQ auto-reconnect and publishing retries. The library takes into account the need to re-declare entities in RabbitMQ after reconnection.
 
 ### Language Detection
 
-*   [lingua-go (⭐1.1k)](https://github.com/pemistahl/lingua-go) - An accurate natural language detection library, suitable for long and short text alike. Supports detecting multiple languages in mixed-language text.
+*   [lingua-go (⭐1.2k)](https://github.com/pemistahl/lingua-go) - An accurate natural language detection library, suitable for long and short text alike. Supports detecting multiple languages in mixed-language text.
 
 ### Networking
 
-*   [go-multiproxy (⭐6)](https://github.com/presbrey/go-multiproxy) - Library for making HTTP requests through a pool of proxies offering fault tolerance, load balancing, automatic retries, cookie management, and more, via http.Get/Post replacement or http.Client RoundTripper drop-in
-*   [sdns (⭐944)](https://github.com/semihalev/sdns) - A high-performance, recursive DNS resolver server with DNSSEC support, focused on preserving privacy.
-*   [webhooked (⭐34)](https://github.com/42Atomys/webhooked) - A webhook receiver on steroids: handle, secure, format and store a Webhook payload has never been easier.
+*   [go-multiproxy (⭐8)](https://github.com/presbrey/go-multiproxy) - Library for making HTTP requests through a pool of proxies offering fault tolerance, load balancing, automatic retries, cookie management, and more, via http.Get/Post replacement or http.Client RoundTripper drop-in
+*   [sdns (⭐971)](https://github.com/semihalev/sdns) - A high-performance, recursive DNS resolver server with DNSSEC support, focused on preserving privacy.
 
 ### Security
 
-*   [luks.go (⭐80)](https://github.com/anatol/luks.go) - Pure Golang library to manage LUKS partitions.
+*   [luks.go (⭐89)](https://github.com/anatol/luks.go) - Pure Golang library to manage LUKS partitions.
 
 ### Template Engines
 
-*   [sprout (⭐71)](https://github.com/go-sprout/sprout) - Useful template functions for Go templates.
+*   [sprout (⭐117)](https://github.com/go-sprout/sprout) - Useful template functions for Go templates.
 
 ### Testing Frameworks
 
-*   [arch-go (⭐151)](https://github.com/fdaines/arch-go) - Architecture testing tool for Go projects.
-*   [dft (⭐2)](https://github.com/abecodes/dft) - Lightweight, zero dependency docker containers for testing (or more).
+*   [arch-go (⭐1)](https://github.com/fdaines/arch-go) - Architecture testing tool for Go projects.
+*   [dft (⭐15)](https://github.com/abecodes/dft) - Lightweight, zero dependency docker containers for testing (or more).
 
 ### Parsers/Encoders/Decoders
 
@@ -528,32 +481,40 @@
 
 *   [fastuuid (⭐0)](https://github.com/rekby/fastuuid) - Fast generate UUIDv4 as string or bytes.
 
+### Webhooks Server / Libraries for creating HTTP middlewares
+
+*   [webhooked (⭐37)](https://github.com/42Atomys/webhooked) - A webhook receiver on steroids: handle, secure, format and store a Webhook payload has never been easier.
+
+### Workflow Frameworks / Libraries for creating HTTP middlewares
+
+*   [Cadence-client (⭐353)](https://github.com/uber-go/cadence-client) - A framework for authoring workflows and activities running on top of the Cadence orchestration engine made by Uber.
+
 ### Other Software / Libraries for creating HTTP middlewares
 
-*   [JuiceFS (⭐10k)](https://github.com/juicedata/juicefs) - Distributed POSIX file system built on top of Redis and AWS S3.
+*   [JuiceFS (⭐11k)](https://github.com/juicedata/juicefs) - Distributed POSIX file system built on top of Redis and AWS S3.
 *   [sonic (⭐2k)](https://github.com/go-sonic/sonic) - Sonic is a Go Blogging Platform. Simple and Powerful.
 
 ### Benchmarks / Libraries for creating HTTP middlewares
 
-*   [golang-benchmarks (⭐130)](https://github.com/SimonWaldherr/golang-benchmarks) - a collection of golang benchmarks.
+*   [golang-benchmarks (⭐133)](https://github.com/SimonWaldherr/golang-benchmarks) - a collection of golang benchmarks.
 
 ## [33. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Programming Languages Support / Diagnostics
 
-*   [neolooong/whichpy.nvim (⭐1)](https://github.com/neolooong/whichpy.nvim) - Switch Python interpreter without restarting LSP.
+*   [neolooong/whichpy.nvim (⭐24)](https://github.com/neolooong/whichpy.nvim) - Switch Python interpreter without restarting LSP.
 
 ### Colorscheme Switchers / Diagnostics
 
-*   [BrunoCiccarino/gardenal (⭐3)](https://github.com/BrunoCiccarino/gardenal) - Gardenal is a theme switcher, which allows the user to create keyboard shortcuts to switch between themes with one click.
+*   [BrunoCiccarino/gardenal (⭐6)](https://github.com/BrunoCiccarino/gardenal) - Gardenal is a theme switcher, which allows the user to create keyboard shortcuts to switch between themes with one click.
 
 ### Utility / Diagnostics
 
-*   [SunnyTamang/pendulum.nvim (⭐5)](https://github.com/SunnyTamang/pendulum.nvim) - Simple timer for creating time based productive sessions for coders, competitive programmers, developers etc.
+*   [SunnyTamang/pendulum.nvim (⭐11)](https://github.com/SunnyTamang/pendulum.nvim) - Simple timer for creating time based productive sessions for coders, competitive programmers, developers etc.
 
 ### Keybinding / Diagnostics
 
-*   [mawkler/demicolon.nvim (⭐26)](https://github.com/mawkler/demicolon.nvim) - Use `;` and `,` keys to also repeat jumps to diagnostics (e.g. `]d`) and to [nvim-treesitter-textobjects (⭐2.1k)](https://github.com/nvim-treesitter/nvim-treesitter-textobjects?tab=readme-ov-file#text-objects-move) (e.g. `]f`), in addition to repeating `t`/`T`/`f`/`F`.
+*   [mawkler/demicolon.nvim (⭐96)](https://github.com/mawkler/demicolon.nvim) - Use `;` and `,` keys to also repeat jumps to diagnostics (e.g. `]d`) and to [nvim-treesitter-textobjects (⭐2.3k)](https://github.com/nvim-treesitter/nvim-treesitter-textobjects?tab=readme-ov-file#text-objects-move) (e.g. `]f`), in addition to repeating `t`/`T`/`f`/`F`.
 
 ## [34. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
 
@@ -565,11 +526,11 @@
 
 ### Resources / Discovery
 
-*   [NüschtOS Search (⭐5)](https://github.com/NuschtOS/search) - Simple and fast static-page NixOS option search.
+*   [NüschtOS Search (⭐73)](https://github.com/NuschtOS/search) - Simple and fast static-page NixOS option search.
 
 ### Distributions / Webinterface
 
-*   [nixbsd (⭐393)](https://github.com/nixos-bsd/nixbsd) - A NixOS fork with a FreeBSD kernel.
+*   [nixbsd (⭐546)](https://github.com/nixos-bsd/nixbsd) - A NixOS fork with a FreeBSD kernel.
 *   [SnowflakeOS](https://snowflakeos.org/) - A NixOS-based Linux distribution focused on beginner friendliness and ease of use.
 
 ## [36. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
@@ -583,23 +544,23 @@
 
 ### Miscellaneous / React
 
-*   [graphql-sunset (⭐0)](https://github.com/sophiabits/graphql-sunset) - Quickly and easily add support for the `Sunset` header to your GraphQL server, to better communicate upcoming breaking changes.
+*   [graphql-sunset (⭐1)](https://github.com/sophiabits/graphql-sunset) - Quickly and easily add support for the `Sunset` header to your GraphQL server, to better communicate upcoming breaking changes.
 
 ## [38. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### HTTP / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-signalify (⭐5)](https://github.com/alcfeoh/ngx-signalify) - A small library to convert RxJs Observables into Angular Signals.
+*   [ngx-signalify (⭐8)](https://github.com/alcfeoh/ngx-signalify) - A small library to convert RxJS Observables into Angular Signals.
 
 ### Integrations / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-stripe (⭐216)](https://github.com/richnologies/ngx-stripe) - A comprehensive library designed for seamless integration of [`Stripe Elements`](https://stripe.com/docs/stripe-js) and payment processing capabilities into Angular applications. Leveraging the powerful features of [`StripeJS`](https://stripe.com/docs/js), Ngx Stripe simplifies building robust, secure, and scalable payment solutions.
-*   [ngx-socket-io (⭐261)](https://github.com/rodgc/ngx-socket-io) - [Socket.IO](https://socket.io/) module for Angular.
+*   [ngx-stripe (⭐223)](https://github.com/richnologies/ngx-stripe) - A comprehensive library designed for seamless integration of [`Stripe Elements`](https://stripe.com/docs/stripe-js) and payment processing capabilities into Angular applications. Leveraging the powerful features of [`StripeJS`](https://stripe.com/docs/js), Ngx Stripe simplifies building robust, secure, and scalable payment solutions.
+*   [ngx-socket-io (⭐262)](https://github.com/rodgc/ngx-socket-io) - [Socket.IO](https://socket.io/) module for Angular.
 
 ### Internationalization / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [transloco (⭐2k)](https://github.com/jsverse/transloco/) - 🚀 😍 The internationalization (i18n) library for Angular.
-*   [transloco-keys-manager (⭐193)](https://github.com/jsverse/transloco-keys-manager) - Tools to help reduce monotonous work.
+*   [transloco (⭐2.1k)](https://github.com/jsverse/transloco/) - 🚀 😍 The internationalization (i18n) library for Angular.
+*   [transloco-keys-manager (⭐207)](https://github.com/jsverse/transloco-keys-manager) - Tools to help reduce monotonous work.
 
 ### Paid / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -615,13 +576,13 @@
 
 ### DOM / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ng-condition (⭐6)](https://github.com/nigrosimone/ng-condition) - An alternative directive to `*ngIf; else` that simplifies conditions in HTML templates.
+*   [ng-condition (⭐7)](https://github.com/nigrosimone/ng-condition) - An alternative directive to `*ngIf; else` that simplifies conditions in HTML templates.
 
 ### Editor Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [slate-angular (⭐175)](https://github.com/worktile/slate-angular) - Angular view layer for [Slate (⭐29k)](https://github.com/ianstormtaylor/slate).
-*   [BlockNoteAngular (⭐1)](https://github.com/dytab/BlockNoteAngular) - Unofficial [BlockNote (⭐6.2k)](https://github.com/TypeCellOS/BlockNote) Angular wrapper.
-*   [ngx-jodit (⭐17)](https://github.com/julianpoemp/ngx-jodit/) - Angular wrapper for [Jodit (⭐1.6k)](https://github.com/xdan/jodit) WYSIWYG editor.
+*   [slate-angular (⭐181)](https://github.com/worktile/slate-angular) - Angular view layer for [Slate (⭐30k)](https://github.com/ianstormtaylor/slate).
+*   [BlockNoteAngular (⭐5)](https://github.com/dytab/BlockNoteAngular) - Unofficial [BlockNote (⭐7k)](https://github.com/TypeCellOS/BlockNote) Angular wrapper.
+*   [ngx-jodit (⭐18)](https://github.com/julianpoemp/ngx-jodit/) - Angular wrapper for [Jodit (⭐1.7k)](https://github.com/xdan/jodit) WYSIWYG editor.
 
 ### File Upload / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -633,16 +594,16 @@
 
 ### QR Codes / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ng-qrcode-svg (⭐2)](https://github.com/larscom/ng-qrcode-svg) - Simple QR code generator (SVG only) for Angular.
-
-### State Management / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [@tethys/store (⭐60)](https://github.com/worktile/store) - A mini, yet powerful state management library for Angular.
+*   [ng-qrcode-svg (⭐3)](https://github.com/larscom/ng-qrcode-svg) - Simple QR code generator (SVG only) for Angular.
 
 ### NgRx / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngrx-store-formsync (⭐5)](https://github.com/larscom/ngrx-store-formsync) - Synchronize any reactive form to `@ngrx/store`.
+*   [ngrx-store-formsync](https://github.com/larscom/ngrx-store-formsync) - Synchronize any reactive form to `@ngrx/store`.
 *   [store-service (⭐25)](https://github.com/ngxp/store-service) - Adds an abstraction layer / facade between Angular components and the NgRx store.
+
+### Additional / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [@tethys/store (⭐60)](https://github.com/worktile/store) - A mini, yet powerful state management library for Angular.
 
 ---
 

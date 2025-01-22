@@ -32,12 +32,12 @@
 
 ### Machine Learning Libraries / Deep learning
 
-*   [torch-rb (⭐595)](https://github.com/ankane/torch-rb) - Ruby bindings for [LibTorch (⭐73k)](https://github.com/pytorch/pytorch)
-    using [rice (⭐355)](https://github.com/jasonroelofs/rice).
+*   [torch-rb (⭐742)](https://github.com/ankane/torch-rb) - Ruby bindings for [LibTorch (⭐85k)](https://github.com/pytorch/pytorch)
+    using [rice (⭐381)](https://github.com/jasonroelofs/rice).
 
 ## [4. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
-### Bloggers / Book Deals (Affiliated) 🛍
+### Bloggers / Book Deals (Affiliated)
 
 *   [Andrew Carr](https://andrewnc.github.io/blog/blog.html) - Data Science with Esoteric programming languages
 
@@ -264,7 +264,7 @@
 ### Meshing / Triangular and tetrahedral meshing
 
 *   [TriWild](https://cims.nyu.edu/gcl/papers/2019-TriWild.pdf) - Robust triangulation with curve constraints.
-    (C++, MPL 2, [GitHub (⭐222)](https://github.com/wildmeshing/TriWild))
+    (C++, MPL 2, [GitHub (⭐235)](https://github.com/wildmeshing/TriWild))
 
 ### Visualization / Mesh tools
 
@@ -273,19 +273,15 @@
 *   [VTK](https://vtk.org/) - Process images and create 3D computer graphics.
     (C++, BSD, [GitLab](https://gitlab.kitware.com/vtk/vtk))
 *   [Mayavi](https://docs.enthought.com/mayavi/mayavi/) - 3D scientific data visualization and plotting in Python.
-    (Python, BSD, [GitHub (⭐1.2k)](https://github.com/enthought/mayavi))
+    (Python, BSD, [GitHub (⭐1.3k)](https://github.com/enthought/mayavi))
 *   [Polyscope](https://polyscope.run/) - Viewer and user interface for 3D geometry processing.
-    (C++, MIT, [GitHub (⭐1.6k)](https://github.com/nmwsharp/polyscope))
-
-### Community / Mesh tools
-
-*   [Gabriel Peyré on Twitter](https://twitter.com/gabrielpeyre) - One tweet a day on computational mathematics.
+    (C++, MIT, [GitHub (⭐1.8k)](https://github.com/nmwsharp/polyscope))
 
 ## [16. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / General-Purpose Machine Learning
 
-*   [scikit-multiflow (⭐753)](https://github.com/scikit-multiflow/scikit-multiflow) - A machine learning framework for multi-output/multi-label and stream data.
+*   [scikit-multiflow (⭐766)](https://github.com/scikit-multiflow/scikit-multiflow) - A machine learning framework for multi-output/multi-label and stream data.
 
 ## [17. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
@@ -303,12 +299,12 @@
 
 ### UI
 
-*   [Beautiful\_Popup (⭐673)](https://github.com/jaweii/Flutter_beautiful_popup) <!--stargazers:jaweii/Flutter_beautiful_popup--> - Beautify your app popup by [jaweii](https://github.com/jaweii).
+*   [Beautiful\_Popup (⭐683)](https://github.com/jaweii/Flutter_beautiful_popup) <!--stargazers:jaweii/Flutter_beautiful_popup--> - Beautify your app popup by [jaweii](https://github.com/jaweii).
 
 ### Device / Augmented Reality
 
-*   [Geolocator (⭐1.2k)](https://github.com/baseflow/flutter-geolocator) <!--stargazers:baseflow/flutter-geolocator--> - A Flutter geolocation plugin which provides easy access to the platform specific location services by [Baseflow](https://baseflow.com)
-*   [Permission Handler (⭐2k)](https://github.com/baseflow/flutter-permission-handler) <!--stargazers:baseflow/flutter-permission-handler--> - A Flutter permission plugin which provides a cross-platform (iOS, Android) API to request and check permissions by [Baseflow](https://baseflow.com)
+*   [Geolocator (⭐1.3k)](https://github.com/baseflow/flutter-geolocator) <!--stargazers:baseflow/flutter-geolocator--> - A Flutter geolocation plugin which provides easy access to the platform specific location services by [Baseflow](https://baseflow.com)
+*   [Permission Handler (⭐2.1k)](https://github.com/baseflow/flutter-permission-handler) <!--stargazers:baseflow/flutter-permission-handler--> - A Flutter permission plugin which provides a cross-platform (iOS, Android) API to request and check permissions by [Baseflow](https://baseflow.com)
 
 ## [20. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/week/README.md)
 
@@ -348,11 +344,11 @@
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [gonic (⭐1.5k)](https://github.com/sentriz/gonic) - Lightweight music streaming server. Subsonic compatible. `GPL-3.0` `Go/Docker`
+*   [gonic (⭐1.8k)](https://github.com/sentriz/gonic) - Lightweight music streaming server. Subsonic compatible. `GPL-3.0` `Go/Docker`
 
 ### Software / Money, Budgeting & Management
 
-*   [InvoicePlane (⭐2.5k)](https://github.com/InvoicePlane/InvoicePlane) - Manage quotes, invoices, payments and customers for your small business. `MIT` `PHP`
+*   [InvoicePlane (⭐2.6k)](https://github.com/InvoicePlane/InvoicePlane) - Manage quotes, invoices, payments and customers for your small business. `MIT` `PHP`
 
 ### Software / Note-taking & Editors
 
@@ -360,7 +356,7 @@
 
 ### Software / Software Development - Project Management
 
-*   [Leantime](https://leantime.io) - Leantime is a lean project management system for small teams and startups helping to manage projects from ideation through delivery. ([Source Code (⭐4.3k)](https://github.com/leantime/leantime)) `GPL-2.0` `PHP/Docker`
+*   [Leantime](https://leantime.io) - Leantime is a lean project management system for small teams and startups helping to manage projects from ideation through delivery. ([Source Code (⭐5k)](https://github.com/leantime/leantime)) `GPL-2.0` `PHP/Docker`
 
 ## [26. Magictools](/content/ellisonleao/magictools/week/README.md)
 
@@ -369,10 +365,6 @@
 *   :free: [2D Game Development: From Zero To Hero](https://gitlab.com/Penaz/2dgd_f0th)
 
 ## [27. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
-
-### Tools for Teams and Collaboration
-
-*   [Filestash](https://www.filestash.app) — A Dropbox-like file manager that connects to a range of protocols and platforms: S3, FTP, SFTP, Minio, Git, WebDAV, Backblaze, LDAP and more.
 
 ### Visitor Session Recording
 
@@ -394,7 +386,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Vue Expenses (⭐233)](https://github.com/simplyvinay/vue-expenses) - Expense tracking app made with Vue.js, Vuetify and ASP.NET Core
+*   [Vue Expenses (⭐235)](https://github.com/simplyvinay/vue-expenses) - Expense tracking app made with Vue.js, Vuetify and ASP.NET Core
 
 ## [31. Awesome Esp](/content/agucova/awesome-esp/week/README.md)
 
@@ -416,19 +408,19 @@
 
 ### Collection of Actions / Docker Container Actions
 
-*   [GitHub Actions for Unity (⭐695)](https://github.com/webbertakken/unity-actions)
+*   [GitHub Actions for Unity (⭐954)](https://github.com/webbertakken/unity-actions)
 
 ### Utility / Docker Container Actions
 
-*   [Wait for commit statuses (⭐78)](https://github.com/WyriHaximus/github-action-wait-for-status) - Wait until all statuses and checks are successful or any of them has failed and set its status output accordingly.
+*   [Wait for commit statuses (⭐98)](https://github.com/WyriHaximus/github-action-wait-for-status) - Wait until all statuses and checks are successful or any of them has failed and set its status output accordingly.
 
 ### Static Analysis / Linting
 
-*   [wemake-python-styleguide - The strictest and most opinionated python linter ever, with optional reviewdog output on the PR (⭐2k)](https://github.com/wemake-services/wemake-python-styleguide)
+*   [wemake-python-styleguide - The strictest and most opinionated python linter ever, with optional reviewdog output on the PR (⭐2.5k)](https://github.com/wemake-services/wemake-python-styleguide)
 
 ### External Services / Terraform
 
-*   [Assume AWS role (⭐22)](https://github.com/nordcloud/aws-assume-role/)
+*   [Assume AWS role (⭐23)](https://github.com/nordcloud/aws-assume-role/)
 
 ### Tutorials / Terraform
 
@@ -444,7 +436,7 @@
 
 ### Database Tools
 
-*   [Database Consistency (⭐1k)](https://github.com/djezzzl/database_consistency) - An easy way to check that application constraints and database constraints are in sync.
+*   [Database Consistency (⭐1.1k)](https://github.com/djezzzl/database_consistency) - An easy way to check that application constraints and database constraints are in sync.
 
 ## [36. Awesome Waves](/content/msmolyakov/awesome-waves/week/README.md)
 
@@ -466,22 +458,22 @@
 ### Real-time / Real-time Operating System (RTOS)
 
 *   [Drone OS](https://drone-os.github.io) An Embedded Operating System for writing real-time applications in Rust.
-*   [FreeRTOS.rs (⭐230)](https://github.com/hashmismatch/freertos.rs) Rust interface for the FreeRTOS API
+*   [FreeRTOS.rs (⭐236)](https://github.com/hashmismatch/freertos.rs) Rust interface for the FreeRTOS API
 *   [Tock](https://www.tockos.org) An embedded operating system designed for running multiple concurrent, mutually distrustful applications on low-memory and low-power microcontrollers
 
 ### Peripheral Access Crates / XMC
 
-*   [`xmc4100`](https://github.com/xmc-rs/xmc4100) - ![crates.io](https://img.shields.io/crates/v/xmc4100.svg)
-*   [`xmc4200`](https://github.com/xmc-rs/xmc4200) - ![crates.io](https://img.shields.io/crates/v/xmc4200.svg)
-*   [`xmc4300`](https://github.com/xmc-rs/xmc4300) - ![crates.io](https://img.shields.io/crates/v/xmc4300.svg)
-*   [`xmc4400`](https://github.com/xmc-rs/xmc4400) - ![crates.io](https://img.shields.io/crates/v/xmc4400.svg)
-*   [`xmc4500`](https://github.com/xmc-rs/xmc4500) - ![crates.io](https://img.shields.io/crates/v/xmc4500.svg)
-*   [`xmc4700`](https://github.com/xmc-rs/xmc4700) - ![crates.io](https://img.shields.io/crates/v/xmc4700.svg)
-*   [`xmc4800`](https://github.com/xmc-rs/xmc4800) - ![crates.io](https://img.shields.io/crates/v/xmc4800.svg)
+*   [`xmc4100`](https://github.com/xmc-rs/xmc4100) - [![crates.io](https://img.shields.io/crates/v/xmc4100.svg)](https://crates.io/crates/xmc4100)
+*   [`xmc4200`](https://github.com/xmc-rs/xmc4200) - [![crates.io](https://img.shields.io/crates/v/xmc4200.svg)](https://crates.io/crates/xmc4200)
+*   [`xmc4300`](https://github.com/xmc-rs/xmc4300) - [![crates.io](https://img.shields.io/crates/v/xmc4300.svg)](https://crates.io/crates/xmc4300)
+*   [`xmc4400`](https://github.com/xmc-rs/xmc4400) - [![crates.io](https://img.shields.io/crates/v/xmc4400.svg)](https://crates.io/crates/xmc4400)
+*   [`xmc4500`](https://github.com/xmc-rs/xmc4500) - [![crates.io](https://img.shields.io/crates/v/xmc4500.svg)](https://crates.io/crates/xmc4500)
+*   [`xmc4700`](https://github.com/xmc-rs/xmc4700) - [![crates.io](https://img.shields.io/crates/v/xmc4700.svg)](https://crates.io/crates/xmc4700)
+*   [`xmc4800`](https://github.com/xmc-rs/xmc4800) - [![crates.io](https://img.shields.io/crates/v/xmc4800.svg)](https://crates.io/crates/xmc4800)
 
 ### HAL implementation crates / XMC
 
-*   [`xmc4-hal`](https://github.com/xmc-rs/xmc4-hal) - ![crates.io](https://img.shields.io/crates/v/xmc4-hal.svg)
+*   [`xmc4-hal`](https://github.com/xmc-rs/xmc4-hal) - [![crates.io](https://img.shields.io/crates/v/xmc4-hal.svg)](https://crates.io/crates/xmc4-hal)
 
 ## [38. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 

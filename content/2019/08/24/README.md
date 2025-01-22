@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 24, 2019
 
-8 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -96,19 +96,13 @@
 
 *   [OneAdapter (⭐422)](https://github.com/ironSource/OneAdapter) - RecyclerView Adapter with multiple modules and hooks to simplify and enhance the use while preventing common mistakes.
 
-## [6. Awesome Spark](/content/awesome-spark/awesome-spark/README.md)
-
-### Packages / SQL Data Sources
-
-*   [Spark Avro (⭐539)](https://github.com/databricks/spark-avro) <img src="https://img.shields.io/github/last-commit/databricks/spark-avro.svg"> - [Apache Avro](https://avro.apache.org/) reader and writer (obselete since Spark 2.4 [\[SPARK-24768\]](https://issues.apache.org/jira/browse/SPARK-24768)).
-
-## [7. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
+## [6. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
 ### Miscellaneous / Svelte
 
 *   [Dev Updates](https://mailchi.mp/f59beeac6b9b/devupdates). A weekly newsletter focussing on latest in mobile, web, AI, UI/UX, jobs/careers and anything related to developers and the industry.
 
-## [8. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
+## [7. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
 ### Blogs / Misc
 

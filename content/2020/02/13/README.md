@@ -10,11 +10,7 @@
 
 ### Software / Vector Creation
 
-*   [cozyvec (⭐71)](https://github.com/brubsby/cozyvec) - Web/Standalone terminal environment for plotter art and tweet plots.
-
-### Plotter Art For Sale / Patents
-
-*   [brubsby](http://shop.brubsby.com/)
+*   [cozyvec (⭐72)](https://github.com/brubsby/cozyvec) - Web/Standalone terminal environment for plotter art and tweet plots.
 
 ## [2. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
@@ -47,7 +43,7 @@
 
 ### Static Analysis / Code Coverage
 
-*   [Update repository go report card (⭐8)](https://github.com/creekorful/goreportcard-action)
+*   [Update repository go report card (⭐12)](https://github.com/creekorful/goreportcard-action)
 
 ### Deployment / Code Coverage
 

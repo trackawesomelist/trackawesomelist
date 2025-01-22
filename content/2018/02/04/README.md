@@ -65,9 +65,9 @@
 
 ### Other
 
-*   [npm-run-all (⭐5.5k)](https://github.com/mysticatea/npm-run-all) - CLI tool to run multiple npm-scripts in parallel or serial.
-*   [onchange (⭐798)](https://github.com/Qard/onchange) - Watch files and folders and run a command when something changed.
-*   [cli-error-notifier (⭐67)](https://github.com/micromata/cli-error-notifier) - Sends native desktop notifications when npm scripts fail.
+*   [npm-run-all (⭐5.7k)](https://github.com/mysticatea/npm-run-all) - CLI tool to run multiple npm-scripts in parallel or serial.
+*   [onchange (⭐816)](https://github.com/Qard/onchange) - Watch files and folders and run a command when something changed.
+*   [cli-error-notifier (⭐72)](https://github.com/micromata/cli-error-notifier) - Sends native desktop notifications when npm scripts fail.
 
 ## [9. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 

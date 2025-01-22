@@ -10,7 +10,7 @@
 
 ### Official Resources
 
-*   [GitHub Repo (⭐95k)](https://github.com/angular/angular)
+*   [GitHub Repo (⭐97k)](https://github.com/angular/angular)
 
 ## [2. Awesome Tech Videos](/content/lucasviola/awesome-tech-videos/README.md)
 
@@ -45,7 +45,7 @@
 
 ### Geolocation
 
-*   [geocalc (⭐146)](https://github.com/yltsrc/geocalc) - Calculate distance, bearing and more between latitude/longitude points.
+*   [geocalc (⭐150)](https://github.com/yltsrc/geocalc) - Calculate distance, bearing and more between latitude/longitude points.
 
 ## [7. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/README.md)
 

@@ -16,19 +16,19 @@
 
 ### Packages / Miscellaneous
 
-*   [wild-wild-path (⭐716)](https://github.com/ehmicky/wild-wild-path) - Object property paths with wildcards and regexes.
+*   [wild-wild-path (⭐722)](https://github.com/ehmicky/wild-wild-path) - Object property paths with wildcards and regexes.
 
 ## [3. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
 ### Third-Party Packages / Files/Images
 
-*   [django-pictures (⭐243)](https://github.com/codingjoe/django-pictures) - Responsive cross-browser image library using modern codes like AVIF & WebP.
+*   [django-pictures (⭐254)](https://github.com/codingjoe/django-pictures) - Responsive cross-browser image library using modern codes like AVIF & WebP.
 
 ## [4. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Strings
 
-*   [Portable ASCII (⭐507)](https://github.com/voku/portable-ascii) - A library to convert strings to ASCII.
+*   [Portable ASCII (⭐547)](https://github.com/voku/portable-ascii) - A library to convert strings to ASCII.
 
 ## [5. GoBooks](/content/dariubs/GoBooks/week/README.md)
 
@@ -47,20 +47,20 @@
 
 ### Software / Make your life easier
 
-*   [test-each (⭐110)](https://github.com/ehmicky/test-each) - Repeats tests using different inputs (Data-Driven Testing).
+*   [test-each (⭐114)](https://github.com/ehmicky/test-each) - Repeats tests using different inputs (Data-Driven Testing).
 
 ## [7. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
 
 ### UI Libraries
 
-*   [ionic-svelte (⭐750)](https://github.com/Tommertom/svelte-ionic-app) - Svelte integration with Ionic's UI for mobile app development, including many starters.
+*   [ionic-svelte (⭐778)](https://github.com/Tommertom/svelte-ionic-app) - Svelte integration with Ionic's UI for mobile app development, including many starters.
 
 ## [8. Awesome Vala](/content/desiderantes/awesome-vala/week/README.md)
 
 ### Apps / Productivity
 
 *   [GNOME Calculator](https://gitlab.gnome.org/GNOME/gnome-calculator) - The calculator app for the GNOME desktop.
-*   [pdfpc (⭐1.4k)](https://github.com/pdfpc/pdfpc) - A GTK presenter application with multi-monitor support for PDF files.
+*   [pdfpc (⭐1.6k)](https://github.com/pdfpc/pdfpc) - A GTK presenter application with multi-monitor support for PDF files.
 
 ### Libraries / Command-line
 
@@ -82,24 +82,24 @@ Installs: 2000 | Stars: 131 | Last update: n/a
 
 ### SQL / Learning
 
-*   [Advanced SQL Puzzles (⭐523)](https://github.com/smpetersgithub/AdvancedSQLPuzzles) - Difficult set-based SQL puzzles.
+*   [Advanced SQL Puzzles (⭐638)](https://github.com/smpetersgithub/AdvancedSQLPuzzles) - Difficult set-based SQL puzzles.
 *   [Hackerrank](https://www.hackerrank.com/domains/sql) - Practice coding, prepare for interviews, and get hired.
 *   [LeetCode](https://leetcode.com/problemset/database) - Enhance your skills, expand your knowledge and prepare for technical interviews.
 *   [Select Star SQL](https://selectstarsql.com) - Free interactive book which aims to be the best place on the internet for learning SQL.
 *   [StrataScratch](https://www.stratascratch.com/blog/categories/sql) - Data science educational resources.
-*   [SQL Murder Mystery (⭐1.6k)](https://github.com/NUKnightLab/sql-mysteries) - Self-directed lesson to learn SQL concepts and commands and a fun game for experienced SQL users to solve an intriguing crime.
+*   [SQL Murder Mystery (⭐1.7k)](https://github.com/NUKnightLab/sql-mysteries) - Self-directed lesson to learn SQL concepts and commands and a fun game for experienced SQL users to solve an intriguing crime.
 
 ### SQL / Scripts
 
-*   [DBA MultiTool (⭐88)](https://github.com/LowlyDBA/dba-multitool) - T-SQL scripts for the long haul: optimizing storage, on-the-fly documentation, and general administrative needs for SQL Server.
+*   [DBA MultiTool (⭐90)](https://github.com/LowlyDBA/dba-multitool) - T-SQL scripts for the long haul: optimizing storage, on-the-fly documentation, and general administrative needs for SQL Server.
 *   [pgx\_scripts (⭐1.4k)](https://github.com/pgexperts/pgx_scripts) - A collection of useful little scripts for database analysis and administration, created by our team at PostgreSQL Experts.
-*   [pgsql-bloat-estimation (⭐490)](https://github.com/ioguix/pgsql-bloat-estimation) - Queries to mesure statistical bloat in indexes and tables for PostgreSQL.
+*   [pgsql-bloat-estimation (⭐524)](https://github.com/ioguix/pgsql-bloat-estimation) - Queries to mesure statistical bloat in indexes and tables for PostgreSQL.
 *   [pgWikiDont](https://gitlab.com/depesz/pgWikiDont) - SQL test that checks if your database follows rules from <https://wiki.postgresql.org/wiki/Don't_Do_This>.
-*   [pg-utils (⭐972)](https://github.com/dataegret/pg-utils) - Useful PostgreSQL utilities.
+*   [pg-utils (⭐1.1k)](https://github.com/dataegret/pg-utils) - Useful PostgreSQL utilities.
 *   [Postgres cheat sheet](https://postgrescheatsheet.com) - Useful SQL-scripts and commands by \<timescale.com>.
-*   [postgres\_dba (⭐1k)](https://github.com/NikolayS/postgres_dba) - The missing set of useful tools for Postgres DBAs and all engineers.
+*   [postgres\_dba (⭐1.1k)](https://github.com/NikolayS/postgres_dba) - The missing set of useful tools for Postgres DBAs and all engineers.
 *   [postgres\_queries\_and\_commands.sql](https://gist.github.com/rgreenjr/3637525) - Useful PostgreSQL Queries and Commands.
-*   [TPT (⭐632)](https://github.com/tanelpoder/tpt-oracle) - These sqlplus scripts are for Oracle Database performance optimization & troubleshooting.
+*   [TPT (⭐663)](https://github.com/tanelpoder/tpt-oracle) - These sqlplus scripts are for Oracle Database performance optimization & troubleshooting.
 
 ## [11. Awesome Open Source Supporters](/content/zachflower/awesome-open-source-supporters/week/README.md)
 
@@ -117,22 +117,22 @@ Installs: 2000 | Stars: 131 | Last update: n/a
 
 ### Applications / Blockchain
 
-*   [Holochain (⭐1.1k)](https://github.com/holochain/holochain) - Scalable P2P alternative to blockchain for all those distributed apps you always wanted to build. [![detect critical check failures](https://github.com/holochain/holochain/actions/workflows/check_run_detect_release_pr_failure.yml/badge.svg)](https://github.com/holochain/holochain/actions/workflows/check_run_detect_release_pr_failure.yml)
+*   [Holochain (⭐1.2k)](https://github.com/holochain/holochain) - Scalable P2P alternative to blockchain for all those distributed apps you always wanted to build. [![detect critical check failures](https://github.com/holochain/holochain/actions/workflows/check_run_detect_release_pr_failure.yml/badge.svg)](https://github.com/holochain/holochain/actions/workflows/check_run_detect_release_pr_failure.yml)
 
 ### Applications / System tools
 
-*   [pueue (⭐4.8k)](https://github.com/nukesor/pueue) - Manage your long running shell commands. [![GitHub Actions Workflow](https://github.com/nukesor/pueue/workflows/Test%20build/badge.svg?branch=master)](https://github.com/nukesor/pueue/actions)
+*   [pueue (⭐5.2k)](https://github.com/nukesor/pueue) - Manage your long running shell commands. [![GitHub Actions Workflow](https://github.com/nukesor/pueue/workflows/Test%20build/badge.svg?branch=master)](https://github.com/nukesor/pueue/actions)
 
 ### Libraries / Compression
 
 *   gzip
-    *   [zopfli (⭐32)](https://github.com/zopfli-rs/zopfli) \[[zopfli](https://crates.io/crates/zopfli)] - implementation of the Zopfli compression algorithm for higher quality deflate or zlib compression
+    *   [zopfli (⭐38)](https://github.com/zopfli-rs/zopfli) \[[zopfli](https://crates.io/crates/zopfli)] - implementation of the Zopfli compression algorithm for higher quality deflate or zlib compression
 
 ### Libraries / Mobile
 
 *   Generic
-    *   [Geal/rust\_on\_mobile (⭐172)](https://github.com/Geal/rust_on_mobile) - iOS CocoaPods / Android JNI
-    *   [redbadger/crux (⭐1.6k)](https://github.com/redbadger/crux) \[[crux\_core](https://crates.io/crates/crux_core)] - Cross-platform app development. Crux helps you share your app's business logic and behavior across mobile (iOS/Android) and web - as a single reusable core. [![Build status](https://img.shields.io/github/actions/workflow/status/redbadger/crux/build.yaml)](https://github.com/redbadger/crux/actions)
+    *   [Geal/rust\_on\_mobile (⭐171)](https://github.com/Geal/rust_on_mobile) - iOS CocoaPods / Android JNI
+    *   [redbadger/crux (⭐1.8k)](https://github.com/redbadger/crux) \[[crux\_core](https://crates.io/crates/crux_core)] - Cross-platform app development. Crux helps you share your app's business logic and behavior across mobile (iOS/Android) and web - as a single reusable core. [![Build status](https://img.shields.io/github/actions/workflow/status/redbadger/crux/build.yaml)](https://github.com/redbadger/crux/actions)
 
 ## [14. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
@@ -166,11 +166,11 @@ Installs: 2000 | Stars: 131 | Last update: n/a
 
 *   [haveibeenzuckered](https://haveibeenzuckered.com/) - A large dataset containing 533 million Facebook accounts was made available for download. The data was obtained by exploiting a vulnerability that was, according to Facebook, corrected in August 2019. Check if a telephone number is present within the Facebook data breach.
 
-### Video Search and Other Video Tools / Telegram
+### Video Search and Other Video Tools / Steam
 
 *   [Filmot](https://filmot.com/) - Search within YouTube subtitles. Indexing over 573 million captions across 528 million videos and 45 million channels.
 
-### Maritime / Telegram
+### Maritime / Steam
 
 *   [VesselFinder](https://www.vesselfinder.com) - a FREE AIS vessel tracking web site. VesselFinder displays real time ship positions and marine traffic detected by global AIS network.
 
@@ -178,23 +178,23 @@ Installs: 2000 | Stars: 131 | Last update: n/a
 
 ### Authentication and OAuth
 
-*   [keto (⭐4.8k)](https://github.com/ory/keto) - Open Source (Go) implementation of "Zanzibar: Google's Consistent, Global Authorization System". Ships gRPC, REST APIs, newSQL, and an easy and granular permission language. Supports ACL, RBAC, and other access models.
+*   [keto (⭐4.9k)](https://github.com/ory/keto) - Open Source (Go) implementation of "Zanzibar: Google's Consistent, Global Authorization System". Ships gRPC, REST APIs, newSQL, and an easy and granular permission language. Supports ACL, RBAC, and other access models.
 
 ## [19. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
 
 ### Display / GUI
 
-*   [micropython-nextion (⭐11)](https://github.com/brainelectronics/micropython-nextion) - Control Nextion displays using MicroPython.
+*   [micropython-nextion (⭐13)](https://github.com/brainelectronics/micropython-nextion) - Control Nextion displays using MicroPython.
 
 ## [20. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### Plugins for Minecraft
 
-*   [No-Chat-Reports (⭐946)](https://github.com/Aizistral-Studios/No-Chat-Reports) - A spigot plugin strips cryptographic signatures from player messages, but it breaks any chat plugin by design.
+*   [No-Chat-Reports (⭐956)](https://github.com/Aizistral-Studios/No-Chat-Reports) - A spigot plugin strips cryptographic signatures from player messages, but it breaks any chat plugin by design.
 
 ### Audio
 
-*   [Jetispot (⭐354)](https://github.com/iTaysonLab/jetispot) - Experimental UNOFFICIAL Spotify client for Android built on librespot-java + Jetpack Compose
+*   [Jetispot (⭐360)](https://github.com/iTaysonLab/jetispot) - Experimental UNOFFICIAL Spotify client for Android built on librespot-java + Jetpack Compose
 
 ## [21. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
@@ -209,25 +209,25 @@ Installs: 2000 | Stars: 131 | Last update: n/a
 
 ### Components & Libraries / UI Utilities
 
-*   [vorms (⭐516)](https://github.com/Mini-ghost/vorms) - Vue Form Validate with Composition API.
+*   [vorms (⭐610)](https://github.com/Mini-ghost/vorms) - Vue Form Validate with Composition API.
 
 ## [22. Awesome Chrome Devtools](/content/ChromeDevTools/awesome-chrome-devtools/week/README.md)
 
 ### The big two automation libraries
 
-*   [Puppeteer (⭐88k)](https://github.com/GoogleChrome/puppeteer/) - Node.js offering a high-level API to control headless Chrome over the DevTools Protocol. See also [awesome-puppeteer (⭐2.4k)](https://github.com/transitive-bullshit/awesome-puppeteer).
-*   [Playwright (⭐65k)](https://github.com/microsoft/playwright) - Library to automate Chromium, Firefox and WebKit with a single API. Available for Node.js, Python, .Net, Java. See also [awesome-playwright (⭐829)](https://github.com/mxschmitt/awesome-playwright).
+*   [Puppeteer (⭐89k)](https://github.com/GoogleChrome/puppeteer/) - Node.js offering a high-level API to control headless Chrome over the DevTools Protocol. See also [awesome-puppeteer (⭐2.4k)](https://github.com/transitive-bullshit/awesome-puppeteer).
+*   [Playwright (⭐68k)](https://github.com/microsoft/playwright) - Library to automate Chromium, Firefox and WebKit with a single API. Available for Node.js, Python, .Net, Java. See also [awesome-playwright (⭐985)](https://github.com/mxschmitt/awesome-playwright).
 
 ### Libraries for driving the protocol (or a layer above)
 
-*   JavaScript/Node.js: [chrome-remote-interface (⭐4.2k)](https://github.com/cyrus-and/chrome-remote-interface)
-*   TypeScript/Node.js: [chrome-debugging-client (⭐134)](https://github.com/TracerBench/chrome-debugging-client)
+*   JavaScript/Node.js: [chrome-remote-interface (⭐4.3k)](https://github.com/cyrus-and/chrome-remote-interface)
+*   TypeScript/Node.js: [chrome-debugging-client (⭐133)](https://github.com/TracerBench/chrome-debugging-client)
 *   Typescript/Node.js: [noice-json-rpc](https://www.npmjs.com/package/noice-json-rpc) - A proxy-based implementation to expose the CDP as its API.
 *   Typescript/Node.js: [Taiko (⭐3.6k)](https://github.com/getgauge/taiko/)
-*   Rust: [Rust Headless Chrome (⭐6)](https://github.com/atroche/rust-headless-chrome/)
-*   Python: [pyppeteer (⭐3.6k)](https://github.com/pyppeteer/pyppeteer) - puppeteer port
-*   Ruby: [Ferrum (⭐1.7k)](https://github.com/route/ferrum) - high-level API to control Chrome in Ruby
-*   Clojure: [cuic (⭐36)](https://github.com/milankinen/cuic) - Providing a high-level API for UI test automation over the DevTools Protocol.
+*   Rust: [Rust Headless Chrome (⭐9)](https://github.com/atroche/rust-headless-chrome/)
+*   Python: [pyppeteer (⭐3.7k)](https://github.com/pyppeteer/pyppeteer) - puppeteer port
+*   Ruby: [Ferrum (⭐1.8k)](https://github.com/route/ferrum) - high-level API to control Chrome in Ruby
+*   Clojure: [cuic (⭐37)](https://github.com/milankinen/cuic) - Providing a high-level API for UI test automation over the DevTools Protocol.
 *   PHP: [PuPHPeteer (⭐1.3k)](https://github.com/rialto-php/puphpeteer) - php bridge to node puppeteer
 
 ### Browser Adapters
@@ -236,7 +236,7 @@ Installs: 2000 | Stars: 131 | Last update: n/a
 
 ### Using DevTools frontend with other platforms / Ruby
 
-*   [ruby/debug (⭐1.1k)](https://github.com/ruby/debug) - Debugging functionality for Ruby.
+*   [ruby/debug (⭐1.2k)](https://github.com/ruby/debug) - Debugging functionality for Ruby.
 
 ### Workflow / Ruby
 
@@ -244,13 +244,13 @@ Installs: 2000 | Stars: 131 | Last update: n/a
 
 ### Alumni / Ruby
 
-*   [Remote Debug Gateway (⭐91)](https://github.com/RemoteDebug/remotedebug-gateway) - Allows you to connect a client to multiple browsers at once.
-    *   Multiuser DevTools: [DevTools Remote (⭐686)](https://github.com/auchenberg/devtools-remote) - Remotely debug someone else's browser.
+*   [Remote Debug Gateway (⭐92)](https://github.com/RemoteDebug/remotedebug-gateway) - Allows you to connect a client to multiple browsers at once.
+    *   Multiuser DevTools: [DevTools Remote (⭐687)](https://github.com/auchenberg/devtools-remote) - Remotely debug someone else's browser.
 *   [DevTools Backend (⭐143)](https://github.com/christian-bromann/devtools-backend) - Standalone implementation of the Chrome DevTools backend to debug arbitrary web environments.
-*   Python CDP driver: [pychrome (⭐602)](https://github.com/fate0/pychrome) - low level CDP transport handler
-*   [ios-webkit-debug-proxy (⭐5.9k)](https://github.com/google/ios-webkit-debug-proxy) - Exposes Mobile Safari & UIWebView instances via the CDP.
+*   Python CDP driver: [pychrome (⭐620)](https://github.com/fate0/pychrome) - low level CDP transport handler
+*   [ios-webkit-debug-proxy (⭐6k)](https://github.com/google/ios-webkit-debug-proxy) - Exposes Mobile Safari & UIWebView instances via the CDP.
     *   [Remote Debug iOS WebKit adapter (⭐2.7k)](https://github.com/RemoteDebug/remotedebug-ios-webkit-adapter) - Builts upon ios-webkit-debug-proxy and translates WebKit's Remote Debugging Protocol API to the CDP.
-*   [IE Diagnostics Adapter (⭐575)](https://github.com/Microsoft/IEDiagnosticsAdapter) - Protocol adaptor for Microsoft IE 11 to CDP.
+*   [IE Diagnostics Adapter (⭐574)](https://github.com/Microsoft/IEDiagnosticsAdapter) - Protocol adaptor for Microsoft IE 11 to CDP.
 *   [go-debugger-devtools (⭐42)](https://github.com/allada/go-debugger-devtools)
 
 ## [23. Awesome Tdengine](/content/taosdata/awesome-tdengine/week/README.md)
@@ -282,38 +282,38 @@ Installs: 2000 | Stars: 131 | Last update: n/a
 *   [bumblebee (⭐2)](https://github.com/Niverton/zsh-bumblebee-plugin) - A plugin to toggle prepending `optirun` in the command line.
 *   [cdr (⭐16)](https://github.com/willghatch/zsh-cdr) - Easy setup of `cdr` for ZSH.
 *   [chgo (⭐0)](https://github.com/sbfaulkner/chgo-plugin-zsh) - Clone of `chruby` modified to make it easy to switch between multiple Go versions.
-*   [declare-zsh (⭐7)](https://github.com/z-shell/declare-zsh) - A parser for [zinit (⭐2.9k)](https://github.com/zdharma-continuum/zinit) commands in `.zshrc`. It allows you to perform the following actions on `.zshrc` from the command-line - enable and disable plugins add or remove snippets.
-*   [evil-registers (⭐40)](https://github.com/zsh-vi-more/evil-registers) - Extends ZLE `vi` commands to remotely access named registers of the `vim` and `nvim` editors, and system selection and clipboard.
-*   [exa (zplugin) (⭐0)](https://github.com/zplugin/zsh-exa) - replace `ls` with [ogham/exa (⭐23k)](https://github.com/ogham/exa).
-*   [f-shortcuts (⭐6)](https://github.com/zpm-zsh/f-shortcuts) - Makes a shortcuts toolbar using `F1` to `F12` keys.
-*   [fancy-ctrl-z (⭐19)](https://github.com/mdumitru/fancy-ctrl-z) - Broken out version of the version in [oh-my-zsh](http://ohmyz.sh/) so users of other frameworks don't have to import all of [oh-my-zsh](https://ohmyz.sh).
+*   [declare-zsh (⭐7)](https://github.com/z-shell/declare-zsh) - A parser for [zinit (⭐3.3k)](https://github.com/zdharma-continuum/zinit) commands in `.zshrc`. It allows you to perform the following actions on `.zshrc` from the command-line - enable and disable plugins add or remove snippets.
+*   [evil-registers (⭐42)](https://github.com/zsh-vi-more/evil-registers) - Extends ZLE `vi` commands to remotely access named registers of the `vim` and `nvim` editors, and system selection and clipboard.
+*   [exa (zplugin) (⭐0)](https://github.com/zplugin/zsh-exa) - replace `ls` with [ogham/exa (⭐24k)](https://github.com/ogham/exa).
+*   [f-shortcuts (⭐8)](https://github.com/zpm-zsh/f-shortcuts) - Makes a shortcuts toolbar using `F1` to `F12` keys.
+*   [fancy-ctrl-z (⭐20)](https://github.com/mdumitru/fancy-ctrl-z) - Broken out version of the version in [oh-my-zsh](http://ohmyz.sh/) so users of other frameworks don't have to import all of [oh-my-zsh](https://ohmyz.sh).
 *   [get-jquery (⭐1)](https://github.com/voronkovich/get-jquery.plugin.zsh) - Plugin for fast downloading the jQuery library from [code.jquery.com](https://code.jquery.com).
-*   [gimme (⭐2)](https://github.com/folixg/gimme-ohmyzsh-plugin) - Manage [Go](https://golang.org/) installations with [gimme (⭐702)](https://github.com/travis-ci/gimme/).
+*   [gimme (⭐2)](https://github.com/folixg/gimme-ohmyzsh-plugin) - Manage [Go](https://golang.org/) installations with [gimme](https://github.com/travis-ci/gimme/).
 *   [git-aliases (mdumitru) (⭐30)](https://github.com/mdumitru/git-aliases) - Broken out version of the version in [oh-my-zsh](http://ohmyz.sh/) so users of other frameworks don't have to import all of [oh-my-zsh](https://ohmyz.sh).
-*   [git-is-clean (⭐1)](https://github.com/aubreypwd/zsh-plugin-git-is-clean) - This function will return true or false depending on if it finds out your `git` repo is dirty or not.
+*   [git-is-clean (⭐2)](https://github.com/aubreypwd/zsh-plugin-git-is-clean) - This function will return true or false depending on if it finds out your `git` repo is dirty or not.
 *   [git-smart-commends-wrapper (⭐0)](https://github.com/jelek21/omz-git-smart-commands) - Wraps [git-smart-commands (⭐12)](https://github.com/seletskiy/zsh-git-smart-commands) to make it compatible with the [oh-my-zsh](https://ohmyz.sh) plugins system.
 *   [history-popup (⭐0)](https://github.com/lcrespom/oh-my-zsh-history-popup) - Captures the `PageUp` key and uses `dialog` to open a popup menu with the history, so the user can interactively navigate through it and pick the history line to bring back to the prompt.
 *   [iterm2 (⭐10)](https://github.com/laggardkernel/zsh-iterm2) - Packs iTerm 2's ZSH integration scripts into a ZSH plugin to avoid polluting your $HOME directory, with a negligible time increase of only 2ms.
-*   [jenv-lazy (⭐6)](https://github.com/shihyuho/zsh-jenv-lazy) - A ZSH plugin for lazy loading of [jEnv](http://www.jenv.be/).
+*   [jenv-lazy (⭐7)](https://github.com/shihyuho/zsh-jenv-lazy) - A ZSH plugin for lazy loading of jEnv.
 *   [kitsunebook (⭐0)](https://github.com/d12frosted/kitsunebook.plugin.zsh) - KitsuneBook plugin for [oh-my-zsh](https://ohmyz.sh).
-*   [last-working-dir-tmux (⭐1)](https://github.com/Curly-Mo/last-working-dir-tmux) - Keeps track of the last used working directory globally and per [tmux (⭐34k)](https://github.com/tmux/tmux) session and automatically jumps into it for new shells.
+*   [last-working-dir-tmux (⭐1)](https://github.com/Curly-Mo/last-working-dir-tmux) - Keeps track of the last used working directory globally and per [tmux (⭐36k)](https://github.com/tmux/tmux) session and automatically jumps into it for new shells.
 *   [lesaint-git (⭐0)](https://github.com/lesaint/lesaint-git) - Replacement `git` plugin for [oh-my-zsh](https://ohmyz.sh)-compatible frameworks.
 *   [lesaint-mvn (⭐0)](https://github.com/lesaint/lesaint-mvn) - Maven plugins for [oh-my-zsh](https://ohmyz.sh).
-*   [lux (⭐32)](https://github.com/pndurette/zsh-lux) - ZSH plugin to toggle the light & dark modes of macOS, iTerm 2, Visual Studio Code and other items and applications via the `lux` command. Highly customizable: included items can be configured by defining variables. Highly extensible: items can be added by defining functions. Includes a `macos_is_dark` helper function to determine if the macOS dark mode is active for use in theming.
+*   [lux (⭐33)](https://github.com/pndurette/zsh-lux) - ZSH plugin to toggle the light & dark modes of macOS, iTerm 2, Visual Studio Code and other items and applications via the `lux` command. Highly customizable: included items can be configured by defining variables. Highly extensible: items can be added by defining functions. Includes a `macos_is_dark` helper function to determine if the macOS dark mode is active for use in theming.
 *   [mercurial (⭐2)](https://github.com/hcgraf/zsh-mercurial) - Extracted from [oh-my-zsh](https://ohmyz.sh) so you can use it without the rest of oh-my-zsh.
 *   [pkenv (⭐1)](https://github.com/ptavares/zsh-pkenv) - Installs and loads [pkenv](https://github.com/iamhsa/pkenv.git).
 *   [plugin (⭐12)](https://github.com/darrenbutcher/plugin) - Creates custom [oh-my-zsh](https://ohmyz.sh) plugins from a boilerplate template. Very oh-my-zsh centric, the generated plugins will need editing to work with other frameworks.
 *   [rvm (⭐2)](https://github.com/johnhamelink/rvm-zsh) - Initiates [rvm (⭐5.1k)](https://github.com/rvm/rvm) and adds rubygem binaries (like compass) accessible in the user's `$PATH`.
 *   [tgenv (⭐0)](https://github.com/ptavares/zsh-tgenv) - Installs and loads [tgenv](https://github.com/cunymatthieu/tgenv.git). Includes a function to manually update `tgenv`.
 *   [virtualenv-mod (⭐1)](https://github.com/mattcl/virtualenv-mod) - A modified virtualenv ZSH plugin for [oh-my-zsh](https://ohmyz.sh).
-*   [virtualenv-prompt (⭐36)](https://github.com/tonyseek/oh-my-zsh-virtualenv-prompt) - A fork of the virtualenv plugin from upstream [oh-my-zsh](https://ohmyz.sh/). Adds support for customizing the virtualenv prompt in [oh-my-zsh](https://ohmyz.sh) themes.
-*   [yadm (⭐9)](https://github.com/juanrgon/yadm-zsh) - Displays a warning if there are local [yadm](https://thelocehiliosan.github.io/yadm/) configuration changes.
+*   [virtualenv-prompt (⭐35)](https://github.com/tonyseek/oh-my-zsh-virtualenv-prompt) - A fork of the virtualenv plugin from upstream [oh-my-zsh](https://ohmyz.sh/). Adds support for customizing the virtualenv prompt in [oh-my-zsh](https://ohmyz.sh) themes.
+*   [yadm (⭐9)](https://github.com/juanrgon/yadm-zsh) - Displays a warning if there are local `yadm` configuration changes.
 *   [yeoman (⭐40)](https://github.com/edouard-lopez/yeoman-zsh-plugin) - Edouard Lopez's [Yeoman](http://yeoman.io/) plugin for [oh-my-zsh](https://ohmyz.sh/), compatible with yeoman version ≥1.0 (includes options and command auto-completion).
-*   [zshmarks (⭐270)](https://github.com/jocelynmallon/zshmarks) - A port of Bashmarks (by Todd Werth), a simple command line bookmarking plugin, for [oh-my-zsh](https://ohmyz.sh).
+*   [zshmarks (⭐276)](https://github.com/jocelynmallon/zshmarks) - A port of Bashmarks (by Todd Werth), a simple command line bookmarking plugin, for [oh-my-zsh](https://ohmyz.sh).
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [bearings (⭐195)](https://github.com/liamg/bearings) - A fast, clean, super-customizable shell prompt. Includes decorators for current directory, `git` status, exit code of last command, duration of last command, background jobs & username.
+*   [bearings (⭐199)](https://github.com/liamg/bearings) - A fast, clean, super-customizable shell prompt. Includes decorators for current directory, `git` status, exit code of last command, duration of last command, background jobs & username.
 *   [shinkansen (⭐1)](https://github.com/MRZ07/shinkansen.zsh-theme) - A fast, customizable and easily extended theme. Includes decorators for rhw python version in the active virtualenv, current ruby version if you're using `chruby`, current Node.js version, current java version, current go version, current perl version if using `chperl`, current elixir version, `git` status, time, current directory, exit code and execution time of the last command, and an optional custom message. Requires a powerline-compatible font.
 *   [vehemence (⭐0)](https://github.com/H1N1-dev/vehemence-zsh) - Includes decorators for `pwd`, `user@host`, `tty`, time, last command exit code and `git` status.
 
@@ -321,12 +321,12 @@ Installs: 2000 | Stars: 131 | Last update: n/a
 
 ### Theory
 
-*   [AGI & CoCoSci (⭐271)](https://github.com/YuzheSHI/awesome-agi-cocosci#readme) - The reciprocation of Artificial General Intelligence (AGI) and Computational Cognitive Sciences (CoCoSci).
+*   [AGI & CoCoSci (⭐295)](https://github.com/YuzheSHI/awesome-agi-cocosci#readme) - The reciprocation of Artificial General Intelligence (AGI) and Computational Cognitive Sciences (CoCoSci).
 
 ### Security
 
-*   [Cyber Security University (⭐1.6k)](https://github.com/brootware/awesome-cyber-security-university#readme) - Free educational resources that focus on learning by doing.
-*   [Hacking Spots (⭐1k)](https://github.com/daviddias/awesome-hacking-locations#readme)
+*   [Cyber Security University (⭐1.8k)](https://github.com/brootware/awesome-cyber-security-university#readme) - Free educational resources that focus on learning by doing.
+*   [Hacking Spots (⭐1.1k)](https://github.com/daviddias/awesome-hacking-locations#readme)
 
 ## [28. Awesome Cyber Security University](/content/brootware/awesome-cyber-security-university/week/README.md)
 
@@ -338,19 +338,19 @@ Installs: 2000 | Stars: 131 | Last update: n/a
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [lewpoly/sherbet.nvim (⭐72)](https://github.com/lewpoly/sherbet.nvim) - A soothing colorscheme with support for popular plugins and tree-sitter.
+*   [lewpoly/sherbet.nvim (⭐73)](https://github.com/lewpoly/sherbet.nvim) - A soothing colorscheme with support for popular plugins and Tree-sitter.
 
 ### Utility / Diagnostics
 
-*   [anuvyklack/fold-preview (⭐124)](https://github.com/anuvyklack/fold-preview.nvim) - Preview closed fold without opening it.
+*   [anuvyklack/fold-preview (⭐136)](https://github.com/anuvyklack/fold-preview.nvim) - Preview closed fold without opening it.
 
 ### Fennel / Diagnostics
 
-*   [Olical/conjure (⭐1.7k)](https://github.com/Olical/conjure) - Interactive evaluation (Clojure, Fennel, Janet, Racket, Hy, MIT Scheme, Guile).
+*   [Olical/conjure (⭐1.8k)](https://github.com/Olical/conjure) - Interactive evaluation (Clojure, Fennel, Janet, Racket, Hy, MIT Scheme, Guile).
 
 ### Editing Support / Diagnostics
 
-*   [anuvyklack/pretty-fold.nvim (⭐435)](https://github.com/anuvyklack/pretty-fold.nvim) - Foldtext customization.
+*   [anuvyklack/pretty-fold.nvim (⭐448)](https://github.com/anuvyklack/pretty-fold.nvim) - Foldtext customization.
 
 ### Resource / Diagnostics
 
@@ -360,7 +360,7 @@ Installs: 2000 | Stars: 131 | Last update: n/a
 
 ### Algorithms and Data structures
 
-*   [Akade.IndexedSet (⭐57)](https://github.com/akade/Akade.IndexedSet) - A convenient data structure supporting efficient in-memory indexing and querying, including range queries and fuzzy string matching.
+*   [Akade.IndexedSet (⭐63)](https://github.com/akade/Akade.IndexedSet) - A convenient data structure supporting efficient in-memory indexing and querying, including range queries and fuzzy string matching.
 
 ## [31. Awesome Video](/content/krzemienski/awesome-video/week/README.md)
 
@@ -378,15 +378,15 @@ Installs: 2000 | Stars: 131 | Last update: n/a
 
 ### Templates / React
 
-*   [ViteRC (⭐54)](https://github.com/potreco/viterc) - React 18 + TypeScript + ESLint (Airbnb) + Prettier + Husky + Jest + Absolute imports + Commit linting.
+*   [ViteRC (⭐61)](https://github.com/potreco/viterc) - React 18 + TypeScript + ESLint (Airbnb) + Prettier + Husky + Jest + Absolute imports + Commit linting.
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-html-inject (⭐53)](https://github.com/donnikitos/vite-plugin-html-inject) - Split the `index.html` into smaller reusable pieces.
+*   [vite-plugin-html-inject (⭐61)](https://github.com/donnikitos/vite-plugin-html-inject) - Split the `index.html` into smaller reusable pieces.
 
 ### Symfony / Community
 
-*   [Vite Bundle (⭐213)](https://github.com/lhapaipai/vite-bundle) - Integration for Symfony.
+*   [Vite Bundle (⭐237)](https://github.com/lhapaipai/vite-bundle) - Integration for Symfony.
 
 ## [34. Public Apis](/content/public-apis/public-apis/week/README.md)
 
@@ -430,7 +430,7 @@ Installs: 2000 | Stars: 131 | Last update: n/a
 
   CORS: Unknown
 
-  Call this API: 
+  : 
 
 
 - API: [Tax Data API](https://apilayer.com/marketplace/tax_data-api)
@@ -443,7 +443,7 @@ Installs: 2000 | Stars: 131 | Last update: n/a
 
   CORS: Unkown
 
-  Call this API: 
+  : 
 
 
 
@@ -457,26 +457,26 @@ Installs: 2000 | Stars: 131 | Last update: n/a
 
 ### no-std crates / WIP
 
-*   [moonboot (⭐25)](https://github.com/jhbruhn/moonboot): OTA Bootloader Construction Framework for Rust no\_std environments, especially embedded devices without an OS
+*   [moonboot (⭐27)](https://github.com/jhbruhn/moonboot): OTA Bootloader Construction Framework for Rust no\_std environments, especially embedded devices without an OS
 
 ## [37. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
 
 ### Parser / Package managers
 
 *   [goto-bus-stop/ziguid (⭐7)](https://github.com/goto-bus-stop/ziguid) - GUID parsing/stringifying.
-*   [sam701/zig-cli (⭐160)](https://github.com/sam701/zig-cli) - Package for building command line apps.
+*   [sam701/zig-cli (⭐232)](https://github.com/sam701/zig-cli) - Package for building command line apps.
 
 ## [38. Awesome Capacitor](/content/riderx/awesome-capacitor/week/README.md)
 
 ### Other plugins
 
 *   Google
-    *   [Auth (⭐268)](https://github.com/CodetrixStudio/CapacitorGoogleAuth) - Google auth plugin for Capacitor.
+    *   [Auth (⭐291)](https://github.com/CodetrixStudio/CapacitorGoogleAuth) - Google auth plugin for Capacitor.
     *   [Availability (⭐2)](https://github.com/cartona/capacitor-google-play-availability) - Verifies that Google Play services is installed and enabled, and request enabling Google Play services on device.
     *   [Fit (⭐22)](https://github.com/Ad-Scientiam/capacitor-google-fit) - Retrieve data from Google Fit.
     *   [MlKit Language (⭐3)](https://github.com/hemangsk/capacitor-mlkit-language) - Identify the language of a string of text.
-    *   [MlKit Vision (⭐11)](https://github.com/trancee/capacitor-google-mlkit-vision/) - Detect faces in an image, identify key facial features, and get the contours of detected faces.
-*   [Playlist (⭐23)](https://github.com/phiamo/capacitor-plugin-playlist) - Native support for audio playlists, background support, and lock screen controls.
+    *   [MlKit Vision (⭐13)](https://github.com/trancee/capacitor-google-mlkit-vision/) - Detect faces in an image, identify key facial features, and get the contours of detected faces.
+*   [Playlist (⭐29)](https://github.com/phiamo/capacitor-plugin-playlist) - Native support for audio playlists, background support, and lock screen controls.
 
 ## [39. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
 
@@ -489,14 +489,14 @@ Installs: 2000 | Stars: 131 | Last update: n/a
 
 ### Security & Privacy
 
-*   [OWASP Testing Guide 4.2](https://owasp.org/www-project-web-security-testing-guide/v42/) - The OWASP® Foundation (HTML, [PDF (⭐7.1k)](https://github.com/OWASP/wstg/releases/download/v4.2/wstg-v4.2.pdf))
+*   [OWASP Testing Guide 4.2](https://owasp.org/www-project-web-security-testing-guide/v42/) - The OWASP® Foundation (HTML, [PDF (⭐7.4k)](https://github.com/OWASP/wstg/releases/download/v4.2/wstg-v4.2.pdf))
 
 ### Version Control Systems
 
 *   [A git Primer](https://danielmiessler.com/study/git/) - Daniel Miessler
 *   [Git cookbook](https://git.seveas.net/about.html) - Dennis Kaarsemaker (HTML)
 *   [Git From The Bottom Up](https://jwiegley.github.io/git-from-the-bottom-up/) - J. Wiegley
-*   [Git internals (⭐2.5k)](https://github.com/pluralsight/git-internals-pdf/raw/master/drafts/peepcode-git.pdf) - Scott Chacon (PDF)
+*   [Git internals (⭐2.6k)](https://github.com/pluralsight/git-internals-pdf/raw/master/drafts/peepcode-git.pdf) - Scott Chacon (PDF)
 *   [Git Pocket Guide](https://www.oreilly.com/library/view/git-pocket-guide/9781449327507) - Richard E. Silverman
 *   [Git Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/git) - Ryan Hodson (PDF, Kindle) (email address *requested*, not required)
 *   [Git Tutorial](https://www.tutorialspoint.com/git/) - Tutorials Point (HTML, PDF)
@@ -504,9 +504,9 @@ Installs: 2000 | Stars: 131 | Last update: n/a
 *   [Git Workflows](https://web.archive.org/web/20210910133251/http://documentup.com/skwp/git-workflows-book) - Yan Pritzker *(:card\_file\_box: archived)*
 *   [Happy Git and GitHub for the useR](https://happygitwithr.com) - Jenny Bryan
 *   [Hg Init: a Mercurial Tutorial](https://hginit.github.io) - Joel Spolsky
-*   [How to Collaborate on GitHub: A mini book about collaborating on GitHub (⭐381)](https://github.com/eonist/How-to-collaborate-on-github) - André J
+*   [How to Collaborate on GitHub: A mini book about collaborating on GitHub (⭐382)](https://github.com/eonist/How-to-collaborate-on-github) - André J
 *   [Introduction to Git and Github](https://launchschool.com/books/git) - Launch School
-*   [Introduction to Git and GitHub eBook (⭐741)](https://github.com/bobbyiliev/introduction-to-git-and-github-ebook) - Bobby Iliev (Markdown, PDF)
+*   [Introduction to Git and GitHub eBook (⭐872)](https://github.com/bobbyiliev/introduction-to-git-and-github-ebook) - Bobby Iliev (Markdown, PDF)
 *   [Mercurial: The Definitive Guide](http://hgbook.red-bean.com) - Bryan O'Sullivan
 *   [Mercurial: The Definitive Guide 2nd edition](https://book.mercurial-scm.org) - Bryan O'Sullivan
 *   [Pro Git Reedited](https://leanpub.com/progitreedited/read) - Jon Forrest
@@ -517,16 +517,11 @@ Installs: 2000 | Stars: 131 | Last update: n/a
 
 ### Software / Automation
 
-*   [Exadel CompreFace](https://exadel.com/solutions/compreface/) - Face recognition system that provides REST API for face recognition, face detection, and other face services, and is easily deployed with docker. There are SDKs for Python and JavaScript languages. Can be used without prior machine learning skills. ([Source Code (⭐5.1k)](https://github.com/exadel-inc/CompreFace)) `Apache-2.0` `Docker/Java/Nodejs`
 *   [µTask (⭐1.2k)](https://github.com/ovh/utask) - Automation engine that models and executes business processes declared in yaml. `BSD-3-Clause` `Go/Docker`
 
 ### Software / Communication - IRC
 
-*   [Quassel IRC](https://quassel-irc.org/) - Distributed IRC client, meaning that one (or multiple) client(s) can attach to and detach from a central core. ([Source Code (⭐721)](https://github.com/quassel/quassel)) `GPL-2.0` `C++`
-
-### Software / Communication - SIP
-
-*   [ASTPP](https://www.astppbilling.org/) - VoIP Billing Solution for Freeswitch. It supports prepaid and postpaid billing with call rating and credit control. It also provides many other features. ([Source Code (⭐155)](https://github.com/iNextrix/ASTPP)) `AGPL-3.0` `PHP`
+*   [Quassel IRC](https://quassel-irc.org/) - Distributed IRC client, meaning that one (or multiple) client(s) can attach to and detach from a central core. ([Source Code (⭐731)](https://github.com/quassel/quassel)) `GPL-2.0` `C++`
 
 ### Software / Communication - Social Networks and Forums
 
@@ -534,19 +529,19 @@ Installs: 2000 | Stars: 131 | Last update: n/a
 
 ### Software / Conference Management
 
-*   [frab](https://frab.github.io/frab/) - Web-based conference planning and management system. It helps to collect submissions, to manage talks and speakers and to create a schedule. ([Source Code (⭐703)](https://github.com/frab/frab)) `MIT` `Ruby/Docker`
+*   [frab](https://frab.github.io/frab/) - Web-based conference planning and management system. It helps to collect submissions, to manage talks and speakers and to create a schedule. ([Source Code (⭐718)](https://github.com/frab/frab)) `MIT` `Ruby/Docker`
 
 ### Software / Content Management Systems (CMS)
 
-*   [Roadiz](https://www.roadiz.io/) - Modern CMS based on a node system which can handle many types of services. ([Source Code (⭐372)](https://github.com/roadiz/roadiz)) `MIT` `PHP`
+*   [Roadiz](https://www.roadiz.io/) - Modern CMS based on a node system which can handle many types of services. ([Source Code (⭐373)](https://github.com/roadiz/roadiz)) `MIT` `PHP`
 
 ### Software / Feed Readers
 
-*   [RSS-Bridge (⭐7.1k)](https://github.com/RSS-Bridge/rss-bridge) - Generate RSS/ATOM feeds for websites which don't have one. `Unlicense` `PHP/Docker`
+*   [RSS-Bridge (⭐7.6k)](https://github.com/RSS-Bridge/rss-bridge) - Generate RSS/ATOM feeds for websites which don't have one. `Unlicense` `PHP/Docker`
 
 ### Software / Internet of Things (IoT)
 
-*   [OpenRemote](https://openremote.io) - Open-Source IoT Platform - IoT Asset management, Flow Rules and WHEN-THEN rules, Data visualization, Edge Gateway. ([Demo](https://demo.openremote.io/), [Source Code (⭐1.2k)](https://github.com/openremote/openremote)) `AGPL-3.0` `Java`
+*   [OpenRemote](https://openremote.io) - Open-Source IoT Platform - IoT Asset management, Flow Rules and WHEN-THEN rules, Data visualization, Edge Gateway. ([Demo](https://demo.openremote.io/), [Source Code (⭐1.3k)](https://github.com/openremote/openremote)) `AGPL-3.0` `Java`
 
 ### Software / Media Streaming - Multimedia Streaming
 
@@ -559,21 +554,21 @@ Installs: 2000 | Stars: 131 | Last update: n/a
 
 ### Software / Miscellaneous
 
-*   [OpenZiti](https://openziti.github.io/) - Fully-featured, self-hostable, zero trust, full mesh overlay network. Includes a 2FA support out of the box, clients for all major desktop/mobile OS'es. ([Source Code (⭐2.4k)](https://github.com/openziti/ziti)) `Apache-2.0` `Go`
+*   [OpenZiti](https://openziti.github.io/) - Fully-featured, self-hostable, zero trust, full mesh overlay network. Includes a 2FA support out of the box, clients for all major desktop/mobile OS'es. ([Source Code (⭐3k)](https://github.com/openziti/ziti)) `Apache-2.0` `Go`
 
 ### Software / Pastebins
 
-*   [bin (⭐402)](https://github.com/w4/bin) - A paste bin that's actually minimalist. `WTFPL/0BSD` `Rust`
-*   [dpaste](https://dpaste.org/) - Simple pastebin with multiple text and code option, with short url result easy to remember. ([Source Code (⭐531)](https://github.com/DarrenOfficial/dpaste)) `MIT` `Docker/Django`
-*   [Wastebin (⭐279)](https://github.com/matze/wastebin) - Lightweight, minimal and fast pastebin with an SQLite backend. ([Demo](https://bin.bloerg.net)) `MIT` `Rust/Docker`
+*   [bin (⭐477)](https://github.com/w4/bin) - A paste bin that's actually minimalist. `WTFPL/0BSD` `Rust`
+*   [dpaste](https://dpaste.org/) - Simple pastebin with multiple text and code option, with short url result easy to remember. ([Source Code (⭐552)](https://github.com/DarrenOfficial/dpaste)) `MIT` `Docker/Django`
+*   [Wastebin (⭐376)](https://github.com/matze/wastebin) - Lightweight, minimal and fast pastebin with an SQLite backend. ([Demo](https://bin.bloerg.net)) `MIT` `Rust/Docker`
 
 ### Software / Status / Uptime pages
 
-*   [Uptime Kuma (⭐55k)](https://github.com/louislam/uptime-kuma) - Self-hosted website monitoring tool like "Uptime Robot". ([Demo](https://demo.kuma.pet)) `MIT` `Docker/Nodejs`
+*   [Uptime Kuma (⭐63k)](https://github.com/louislam/uptime-kuma) - Self-hosted website monitoring tool like "Uptime Robot". ([Demo](https://demo.kuma.pet)) `MIT` `Docker/Nodejs`
 
 ### Software / URL Shorteners
 
-*   [Lstu (⭐207)](https://github.com/ldidry/lstu) - Lightweight URL shortener. `WTFPL` `Perl/Docker`
+*   [Lstu (⭐212)](https://github.com/ldidry/lstu) - Lightweight URL shortener. `WTFPL` `Perl/Docker`
 
 ## [41. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
@@ -606,7 +601,7 @@ Installs: 2000 | Stars: 131 | Last update: n/a
 
 ### Libraries/Frameworks / Misc
 
-*   [vendelieu/telegram-bot (⭐169)](https://github.com/vendelieu/telegram-bot) - A lightweight, feature-rich wrapper for the Telegram Bot API
+*   [vendelieu/telegram-bot (⭐196)](https://github.com/vendelieu/telegram-bot) - A lightweight, feature-rich wrapper for the Telegram Bot API
 
 ## [44. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -626,6 +621,7 @@ Installs: 2000 | Stars: 131 | Last update: n/a
     *   Cloud Build - 120 build-minutes per day
     *   Cloud Source Repositories - Up to 5 Users, 50 GB Storage, 50 GB Egress
     *   [Google Colab](https://colab.research.google.com/) - Free Jupyter Notebooks development environment.
+    *   [idx.dev](https://idx.dev) Google Project IDX. Online VSCode running on Google Cloud.
     *   Full, detailed list - <https://cloud.google.com/free>
 
 ### Messaging and Streaming
@@ -641,7 +637,7 @@ Installs: 2000 | Stars: 131 | Last update: n/a
 
 ### Tools
 
-*   [n98-magerun2 (⭐858)](https://github.com/netz98/n98-magerun2) - The CLI Swiss Army Knife for Magento 2.
+*   [n98-magerun2 (⭐882)](https://github.com/netz98/n98-magerun2) - The CLI Swiss Army Knife for Magento 2.
 
 ### Localization
 
@@ -651,22 +647,22 @@ Installs: 2000 | Stars: 131 | Last update: n/a
 
 ### Changing the syntax
 
-*   [clamp (⭐71)](https://github.com/malisper/Clamp) - Arc language's brevity and conciseness to Common Lisp. [Artistic License 2.0](https://directory.fsf.org/wiki/License:ArtisticLicense2.0).
-    *   also [arc-compat (⭐12)](https://github.com/g000001/arc-compat) -  Arc compatible package. Perl Foundation's Artistic Licence 2.0.
+*   [clamp (⭐72)](https://github.com/malisper/Clamp) - Arc language's brevity and conciseness to Common Lisp. [Artistic License 2.0](https://directory.fsf.org/wiki/License:ArtisticLicense2.0).
+    *   also [arc-compat (⭐13)](https://github.com/g000001/arc-compat) -  Arc compatible package. Perl Foundation's Artistic Licence 2.0.
 
 ### Websockets / Isomorphic web frameworks
 
-*   [Portal (⭐28)](https://github.com/charJe/portal) - Portable websockets for Common Lisp, using usocket. [LLGPL](http://opensource.franz.com/preamble.html).
+*   [Portal (⭐29)](https://github.com/charJe/portal) - Portable websockets for Common Lisp, using usocket. [LLGPL](http://opensource.franz.com/preamble.html).
 
 ## [47. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
 
 ### Courses & Books & Blogs
 
-*   🌟 [QuantResearch (⭐1.7k)](https://github.com/letianzj/QuantResearch) - Quantitative analysis, strategies and backtests <https://letianzj.github.io/>
+*   🌟 [QuantResearch (⭐2.2k)](https://github.com/letianzj/QuantResearch) - Quantitative analysis, strategies and backtests <https://letianzj.github.io/>
 
 ### Visualizing / Plugins
 
-*   [KLineChart (⭐2.2k)](https://github.com/liihuu/KLineChart) - Highly customizable professional lightweight financial charts
+*   [KLineChart (⭐2.5k)](https://github.com/liihuu/KLineChart) - Highly customizable professional lightweight financial charts
 
 ## [48. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
 
@@ -682,19 +678,14 @@ Installs: 2000 | Stars: 131 | Last update: n/a
 *   [Scientific Explanation](https://plato.stanford.edu/entries/scientific-explanation/) - ***Plato Stanford***. A computational philosophy account on Scientific Explanation, a canonical application of Abduction.
 *   [Scientific Reduction](https://plato.stanford.edu/entries/scientific-reduction/) - ***Plato Stanford***. A computational philosophy account on Scientific Reduction, which comes with no explicit boundary with Explanation.
 *   [Non-monotonic Logic](https://plato.stanford.edu/entries/logic-nonmonotonic/) - ***Plato Stanford***. A computational philosophy account on Non-monotonic Logic, a family of formal frameworks devised to capture and represent defeasible inference.
-*   [Philosophical Writings of Peirce](https://4lib.org/book/702071/e8ffe8) - ***Courier Corporation***, 1955. \[[All Versions](https://scholar.google.com/scholar?cluster=3917019015464129592\&hl=en\&as_sdt=0,5)]. Original writings by C. S. Peirce, the establisher of Abduction.
-*   [The Inference to the Best Explanation](https://www.jstor.org/stable/2183532) - ***Philosophical Review***, 1965. \[[All Versions](https://scholar.google.com/scholar?cluster=1416627814151433560\&hl=en\&as_sdt=0,5)]. Lipton's original paper on Inference to the Best Explanation as a special case of Abduction.
-*   [Inference to the Best Explanation](https://hk1lib.org/book/3594789/f39e15?id=3594789\&secret=f39e15) - ***Routledge***, 1991. \[[All Versions](https://scholar.google.com/scholar?cluster=6494546505729177895\&hl=en\&as_sdt=0,5)]. Lipton's book on Inference to the Best Explanation as a special case of Abduction.
-*   [A Study of Thinking](https://www.taylorfrancis.com/books/mono/10.4324/9781315083223/study-thinking-jerome-bruner-jacqueline-goodnow-george-austin) - ***Routledge***, 1956. \[[All Versions](https://scholar.google.com/scholar?cluster=17466297915128086930\&hl=en\&as_sdt=0,5)]. A classic book on thinking patterns.
-*   [Abductive Reasoning and Learning](https://link.springer.com/book/10.1007/978-94-017-1733-5) - ***Springer***, 2000. \[[All Versions](https://scholar.google.com/scholar?cluster=12074269365138058159\&hl=en\&as_sdt=0,5)]. An introductory account on abductive reasoning.
-*   [Abductive Reasoning: Logical Investigations into Discovery and Explanation](https://link.springer.com/book/10.1007%2F1-4020-3907-7#authorsandaffiliationsbook) - ***Springer***, 2006. \[[All Versions](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=Abductive+Reasoning%3A+Logical+Investigations+into+Discovery+and+Explanation\&btnG=)]. An introductory account on abductive reasoning.
-*   [Explanation and Abductive Inference](https://cognition.princeton.edu/sites/default/files/cognition/files/explanation_abductive_inference.pdf) - ***The Oxford Handbook of Thinking and Reasoning***, 2012. \[[All Versions](https://scholar.google.com/scholar?cluster=16126850654692681562\&hl=en\&as_sdt=0,5)]. A handbook on the formulations of Abduction.
-*   [Probabilistic models of cognition: Conceptual foundations](https://www.cs.jhu.edu/~ayuille/JHUcourses/ProbabilisticModelsOfVisualCognition2020/Lec7/chater2006probabilistica.pdf) - ***Trends in Cognitive Sciences***, 2006. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=12857321660837478492)]. A Bayesian account of Abduction.
-*   [The structure and function of explanations](https://cognition.princeton.edu/sites/default/files/cognition/files/tics_explanation.pdf) - ***Trends in Cognitive Sciences***, 2006. \[[All Versions](https://scholar.google.com/scholar?cluster=2849189270394400667\&hl=en\&as_sdt=0,5)]. Basic computation modes of Abduction.
-*   [Explanatory Preferences Shape Learning and Inference](https://scholar.princeton.edu/sites/default/files/cognition/files/explanatory_prefs_tics.pdf) - ***Trends in Cognitive Sciences***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=2040551538203889465\&hl=en\&as_sdt=0,5)]. An account showing that inductive bias is critical for explanation.
-*   [Explanation, updating, and accuracy](https://www.tandfonline.com/doi/full/10.1080/20445911.2016.1230122) - ***Journal of Cognitive Psychology***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=967127146748155733\&hl=en\&as_sdt=0,5)].
-*   [Best, second-best, and good-enough explanations: How they matter to reasoning](https://psycnet.apa.org/record/2018-03972-001) - ***Journal of Experimental Psychology***, 2018. \[[All Versions](https://scholar.google.com/scholar?start=0\&hl=en\&as_sdt=0,5\&cluster=3067550385175104201)]. A subjective probability account of Abduction.
-*   [How explanation guides belief change](https://www.sciencedirect.com/science/article/pii/S1364661321001790) - ***Trends in Cognitive Sciences***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=15240531165875981526\&hl=en\&as_sdt=2005\&sciodt=2005)]. A review on the subjective probability account of Abduction.
+*   [Philosophical Writings of Peirce](https://4lib.org/book/702071/e8ffe8) - ***Courier Corporation***, 1955. \[[All Versions](https://scholar.google.com/scholar?cluster=3917019015464129592)]. Original writings by C. S. Peirce, the philosopher who first introduces the concept of Abduction.
+*   [Abductive Reasoning and Learning](https://link.springer.com/book/10.1007/978-94-017-1733-5) - ***Springer***, 2000. \[[All Versions](https://scholar.google.com/scholar?cluster=12074269365138058159)]. This book contains leading survey papers on the various aspects of Abduction, both logical and numerical approaches.
+*   [Explanation and Abductive Inference](https://cognition.princeton.edu/sites/default/files/cognition/files/explanation_abductive_inference.pdf) - ***The Oxford Handbook of Thinking and Reasoning***, 2012. \[[All Versions](https://scholar.google.com/scholar?cluster=16126850654692681562)]. This chapter reviews evidence from cognitive psychology and cognitive development concerning the structure and function of explanations, with a focus on the role of explanations in learning and inference. The findings highlight the value of understanding explanation and abductive inference both as phenomena in their own right and for the insights they provide concerning foundational aspects of human cognition, such as representation, learning, and inference.
+*   [The structure and function of explanations](https://cognition.princeton.edu/sites/default/files/cognition/files/tics_explanation.pdf) - ***Trends in Cognitive Sciences***, 2006. \[[All Versions](https://scholar.google.com/scholar?cluster=2849189270394400667)]. Generating and evaluating explanations is spontaneous, ubiquitous and fundamental to our sense of understanding. Recent evidence suggests that in the course of an individual's reasoning, engaging in explanation can have profound effects on the probability assigned to causal claims, on how properties are generalized and on learning. These effects follow from two properties of the structure of explanations: explanations accommodate novel information in the context of prior beliefs, and do so in a way that fosters generalization.
+*   [Explanatory Preferences Shape Learning and Inference](https://scholar.princeton.edu/sites/default/files/cognition/files/explanatory_prefs_tics.pdf) - ***Trends in Cognitive Sciences***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=2040551538203889465)]. People often learn by seeking explanations, and they assess the viability of hypotheses by considering how well they explain the data. An emerging body of work reveals that both children and adults have strong and systematic intuitions about what constitutes a good explanation, and that these explanatory preferences have a systematic impact on explanation-based processes. In particular, people favor explanations that are simple and broad, with the consequence that engaging in explanation can shape learning and inference by leading people to seek patterns and favor hypotheses that support broad and simple explanations.
+*   [Explanation, updating, and accuracy](https://www.tandfonline.com/doi/full/10.1080/20445911.2016.1230122) - ***Journal of Cognitive Psychology***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=967127146748155733)]. There is evidence that people update their credences partly on the basis of explanatory considerations. Philosophers have recently argued that to minimise the inaccuracy of their credences, people's updates also ought to be partly based on such considerations. However, there are many ways in which explanatory considerations can factor into updating, not all of which minimise inaccuracy. It is an open question whether in their updating, people take explanatory considerations into account in a way that philosophers would deem recommendable. To address this question, the authors re-analyse data from an experiment reported in Douven and Schupbach, “The role of explanatory considerations in updating”.
+*   [Best, second-best, and good-enough explanations: How they matter to reasoning](https://psycnet.apa.org/record/2018-03972-001) - ***Journal of Experimental Psychology***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=3067550385175104201)]. There is a wealth of evidence that people’s reasoning is influenced by explanatory considerations. Three experiments investigate the descriptive adequacy of a precise proposal to be found in the philosophical literature, to wit, that we should infer to the best explanation, provided certain additional conditions are met. The main conslusions are that (a) the quality of an explanation is a good predictor of people’s willingness to accept that explanation, and a better predictor than the prior probability of the explanation, and (b) if more than one possible explanation is given, people are the less willing to infer the best explanation the better they deem the second-best explanation.
+*   [How explanation guides belief change](https://www.sciencedirect.com/science/article/pii/S1364661321001790) - ***Trends in Cognitive Sciences***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=15240531165875981526)]. Philosophers have argued that people ought to change their graded beliefs via Bayes’ rule. Recent work in psychology indicates that people sometimes violate that rule by attending to explanatory factors. Results from computational modeling suggest that such violations may actually be rational.
 *   [Patterns of abduction](https://link.springer.com/article/10.1007/s11229-007-9223-4) - ***Synthese***, 2007. \[[All Versions](https://scholar.google.com/scholar?cluster=15230540023076470385\&hl=en\&as_sdt=0,5)]. A categorization for Abduction in the account of pure philosophy.
 *   [On the distinction between Peirce's abduction and Lipton's Inference to the best explanation](https://link.springer.com/article/10.1007/s11229-009-9709-3) - ***Synthese***, 2011. \[[All Versions](https://scholar.google.com/scholar?cluster=7865291004729010145\&hl=en\&as_sdt=0,5)].
 *   [Probabilistic alternatives to Bayesianism: the case of explanationism](https://www.frontiersin.org/articles/10.3389/fpsyg.2015.00459/full) - ***Frontiers in Psychology***, 2015. \[[All Versions](https://scholar.google.com/scholar?cluster=9016714668469830914\&hl=en\&as_sdt=0,5)]. A non-Bayesian account of Abduction.
@@ -707,11 +698,10 @@ Installs: 2000 | Stars: 131 | Last update: n/a
 
 *   [Scientific Discovery](https://plato.stanford.edu/entries/scientific-discovery/) - ***Plato Stanford***. A computational philosophy account on Scientific Discovery, the process or product of successful scientific inquiry, sometimes an Abduction-like (Explanation) thinking pattern.
 *   [Models of Discovery: And Other Topics in the Methods of Science](https://hk1lib.org/book/2241843/c5d7b3?id=2241843\&secret=c5d7b3) - ***Springer***, 1977. \[[All Versions](https://scholar.google.com/scholar?cluster=9932701864897299105\&hl=en\&as_sdt=0,5)]. The original book on search as scientific thinking.
-*   [Scientific discovery: Computational explorations of the creative processes](https://hk1lib.org/book/970300/6b0ff7?id=970300\&secret=6b0ff7) - ***MIT Press***, 1987. \[[All Versions](https://scholar.google.com/scholar?cluster=11327000316248254911\&hl=en\&as_sdt=0,5)]. A computational account unifying Scientific Discovery with the creativity feature of Abduction.
-*   [Induction: Processes of Inference, Learning, and Discovery](https://hk1lib.org/book/701605/02b32a?id=701605\&secret=02b32a) - ***MIT Press***, 1989. \[[All Versions](https://scholar.google.com/scholar?cluster=12402938838725132707\&hl=en\&as_sdt=0,5)]. An Induction account of Scientific Discovery.
+*   [Scientific discovery: Computational explorations of the creative processes](https://hk1lib.org/book/970300/6b0ff7?id=970300\&secret=6b0ff7) - ***MIT Press***, 1987. \[[All Versions](https://scholar.google.com/scholar?cluster=11327000316248254911)]. The book is divided into four parts. Part I introduces the subject of discovery, defines the scope of our work, and discusses some of the issues that have surrounded and still surround our topic. Parts II and III contain the main body of our results, largely in the form of accounts of the performance of computer programs that simulate human thought processes to make scientific discoveries. Part II is devoted largely to the processes for inducing quantitative theories from data. Part III is devoted mainly to the processes for inducing qualitative descriptive and structural theories from data. In Part IV, on the basis of our experience, we discuss at a lower level of precision how the programs described in the preceding chapters could be combined into a single, more general discovery system, and we describe a wide range of the other component processes that enter into scientific discovery.
 *   [Dual Space Search During Scientific Reasoning](https://onlinelibrary.wiley.com/doi/abs/10.1207/s15516709cog1201_1) - ***Cognitive Science***, 1988. \[[All Versions](https://scholar.google.com/scholar?cluster=17542852673494089523\&hl=en\&as_sdt=2005\&sciodt=0,5)]. The original paper on the dual space search as scientific thinking theory.
 *   [Complexity Management in a Discovery Task](https://www.cmu.edu/dietrich/psychology/pdf/klahr/PDFs/schunn-klahr.pdf) - ***CogSci'92***, 1992. \[[All Versions](https://scholar.google.com/scholar?cluster=18138712608977258974\&hl=en\&as_sdt=2005\&sciodt=0,5)]. Advanced experiments on dual space search.
-*   [A dual-space model of iteratively deepening exploratory learning](https://www.sciencedirect.com/science/article/pii/S1071581996900324) - ***International Journal of Human-Computer Studies***, 1996. \[[All Versions](https://scholar.google.com/scholar?cluster=17337189265334825678\&hl=en\&as_sdt=2005\&sciodt=0,5)]. Iterative version (in depth and in width) of dual space search.
+*   [A dual-space model of iteratively deepening exploratory learning](https://www.sciencedirect.com/science/article/pii/S1071581996900324) - ***International Journal of Human-Computer Studies***, 1996. \[[All Versions](https://scholar.google.com/scholar?cluster=17337189265334825678)]. This paper describes a cognitive model of exploratory learning, which covers both trial-and-error and instruction-taking activities. The model, implemented in Soar, is grounded in empirical data of subjects in a task-oriented, trial-and-error exploratory learning situation. A key empirical finding reflected in the model is the repeated scanning of a subset of the available menu items, with increased attention to items on each successive scan. This is explained in terms of dual search spaces, the external interface and the user's internal knowledge, both of which must be tentatively explored with attention to changing costs and benefits.
 *   [Heuristics for Scientific Experimentation: A Developmental Study](https://www.sciencedirect.com/science/article/abs/pii/S0010028583710030) - ***Cognitive Psychology***, 1993. \[[All Versions](https://scholar.google.com/scholar?cluster=2469515962071844494\&hl=en\&as_sdt=2005\&sciodt=0,5)]. A piece of evidence on children have basic scientific thinking skills.
 *   [A 4-Space Model of Scientific Discovery](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.645.248\&rep=rep1\&type=pdf) - ***CogSci'95***, 1995. \[[All Versions](https://scholar.google.com/scholar?cluster=1063157789682040473\&hl=en\&as_sdt=2005\&sciodt=0,5)]. Extending the dual space search.
 *   [When to trust the data: Further investigations of system error in a scientific reasoning task](https://link.springer.com/article/10.3758/BF03201090) - ***Memory & Cognition***, 1996. \[[All Versions](https://scholar.google.com/scholar?cluster=3131191372086488656\&hl=en\&as_sdt=2005\&sciodt=0,5)]. A behavioral account on the shift between bottom-up observation and top-down reasoning.
@@ -723,38 +713,27 @@ Installs: 2000 | Stars: 131 | Last update: n/a
 
 *   [Imagination and the generation of new ideas](https://www.sciencedirect.com/science/article/abs/pii/S0885201414000744) - ***Cognitive Development***, 2015. \[[All Versions](https://scholar.google.com/scholar?cluster=16920774374067505248\&hl=en\&as_sdt=2005\&sciodt=0,5)]. A piece of evidence for rationalization in childhood.
 *   [Coalescing the Vapors of Human Experience into a Viable and Meaningful Comprehension](http://web.mit.edu/maxs/www/papers/cogsci_2016_vapors.pdf) - ***CogSci'16***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=5460385008324352958\&hl=en\&as_sdt=2005\&sciodt=0,5)]. Constrainted thinking as rationalization.
-*   [How We Know What Not To Think](https://www.sciencedirect.com/science/article/pii/S1364661319302311) - ***Trends in Cognitive Sciences***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=13106919756521743226\&hl=en\&as_sdt=2005\&sciodt=0,5)]. A comprehensive review on rationalization.
-*   [Rationalization is rational](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/rationalization-is-rational/2A13B99ED09BD802C0924D3681FEC55B) - ***Behavioral and Brain Sciences***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=5165464589274056844\&hl=en\&as_sdt=2005\&sciodt=0,5)]. A rationality account on rationalization.
+*   [How We Know What Not To Think](https://www.sciencedirect.com/science/article/pii/S1364661319302311) - ***Trends in Cognitive Sciences***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=13106919756521743226)]. A comprehensive review on rationalization.
+*   [Rationalization is rational](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/rationalization-is-rational/2A13B99ED09BD802C0924D3681FEC55B) - ***Behavioral and Brain Sciences***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=5165464589274056844)]. \[[Preprint](https://bpb-us-e1.wpmucdn.com/websites.harvard.edu/dist/0/59/files/2022/03/rationalization_is_rational.pdf)]. Rationalization occurs when a person has performed an action and then concocts the beliefs and desires that would have made it rational. Then, people often adjust their own beliefs and desires to match the concocted ones. While many studies demonstrate rationalization, and a few theories describe its underlying cognitive mechanisms, we have little understanding of its function. Why is the mind designed to construct post hoc rationalizations of its behavior, and then to adopt them? This may accomplish an important task: transferring information between the different kinds of processes and representations that influence our behavior. Human decision making does not rely on a single process; it is influenced by reason, habit, instinct, norms, and so on. Several of these influences are not organized according to rational choice (i.e., computing and maximizing expected value). Rationalization extracts implicit information – true beliefs and useful desires – from the influence of these non-rational systems on behavior.
 *   [Why Imaginary Worlds? The psychological foundations and cultural evolution of fictions with imaginary worlds](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/why-imaginary-worlds/CA2AB4B1E1EDD8FE965E6DDB4A047B35) - ***Behavioral and Brain Sciences***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=16985691366494688837)]. A review of rationalization as imaginary worlds in fictions. The perspective proposes that imaginary worlds co-opt our preferences for exploration, which have evolved in humans and nonhuman animals alike, to propel individuals toward new environments and new sources of reward.
 
 ### Abduction / Applications in AI
 
-*   [Functional genomic hypothesis generation and experimentation by a robot scientist](https://www.nature.com/articles/nature02236) - ***Nature***, 2004. \[[All Versions](https://scholar.google.com/scholar?cluster=17461972625475533182\&hl=en\&as_sdt=0,5)]. A canonical application of logical abduction on biodesign.
-*   [Interpretation as abduction](https://www.sciencedirect.com/science/article/abs/pii/0004370293900154?via%3Dihub) - ***Artificial Intelligence***, 1993. \[[All Versions](https://scholar.google.com/scholar?cluster=12658433318211361322\&hl=en\&as_sdt=0,5)]. A computational account on interpretation as Abduction.
-*   [Probabilistic Horn abduction and Bayesian networks](https://www.sciencedirect.com/science/article/abs/pii/000437029390061F?via%3Dihub) - ***Artificial Intelligence***, 1993. \[[All Versions](https://scholar.google.com/scholar?cluster=7728248035489349629\&hl=en\&as_sdt=0,5)]. Casual abduction in Bayesian networks.
-*   [Abductive Logic Programming](https://academic.oup.com/logcom/article-abstract/2/6/719/942121?redirectedFrom=fulltext) - ***Journal of Logic Computation***, 1992. \[[All Versions](https://scholar.google.com/scholar?cluster=18119357517656745518\&hl=en\&as_sdt=0,5)]. The original paper in ALP.
-*   [ACLP: Abductive Constraint Logic Programming](https://www.sciencedirect.com/science/article/pii/S0743106699000758) - ***The Journal of Logic Programming***, 1999. \[[All Versions](https://scholar.google.com/scholar?cluster=14319574550421192429\&hl=en\&as_sdt=0,5)]. The original paper in ACLP.
-*   [Abduction in Logic Programming](https://web.stanford.edu/class/cs227/Readings/Abudction%20in%20LP.pdf) - ***Computational Logic***, 2002. \[[All Versions](https://scholar.google.com/scholar?cluster=902643678163312237\&hl=en\&as_sdt=0,5)]. The revised version of the ALP paper.
+*   [Functional genomic hypothesis generation and experimentation by a robot scientist](https://www.nature.com/articles/nature02236) - ***Nature***, 2004. \[[All Versions](https://scholar.google.com/scholar?cluster=17461972625475533182)]. This paper describes a physically implemented robotic system that applies techniques from artificial intelligence to carry out cycles of scientific experimentation. The system automatically originates hypotheses to explain observations, devises experiments to test these hypotheses, physically runs the experiments using a laboratory robot, interprets the results to falsify hypotheses inconsistent with the data, and then repeats the cycle. The system is applied to the determination of gene function using deletion mutants of yeast (Saccharomyces cerevisiae) and auxotrophic growth experiments. The authors built and tested a detailed logical model (involving genes, proteins and metabolites) of the aromatic amino acid synthesis pathway.
+*   [Interpretation as abduction](https://www.sciencedirect.com/science/article/abs/pii/0004370293900154?via%3Dihub) - ***Artificial Intelligence***, 1993. \[[All Versions](https://scholar.google.com/scholar?cluster=12658433318211361322)]. Abduction is inference to the best explanation. The authors have developed an approach to abductive inference, called “weighted abduction”, that has resulted in a significant simplification of how the problem of interpreting texts is conceptualized. The interpretation of a text is the minimal explanation of why the text would be true. More precisely, to interpret a text, one must prove the logical form of the text from what is already mutually known, allowing for coercions, merging redundancies where possible, and making assumptions where necessary. It is shown how such “local pragmatics” problems as reference resolution, the interpretation of compound nominals, the resolution of syntactic ambiguity and metonymy, and schema recognition can be solved in this manner. Moreover, this approach of “interpretation as abduction” can be combined with the older view of “parsing as deduction” to produce an elegant and thorough integration of syntax, semantics, and pragmatics, one that spans the range of linguistic phenomena from phonology to discourse structure.
+*   [Probabilistic Horn abduction and Bayesian networks](https://www.sciencedirect.com/science/article/abs/pii/000437029390061F?via%3Dihub) - ***Artificial Intelligence***, 1993. \[[All Versions](https://scholar.google.com/scholar?cluster=7728248035489349629)]. This paper presents a simple framework for Horn-clause abduction, with probabilities associated with hypotheses. The framework incorporates assumptions about the rule base and independence assumptions amongst hypotheses. It is shown how any probabilistic knowledge representable in a discrete Bayesian belief network can be represented in this framework. The main contribution is in finding a relationship between logical and probabilistic notions of evidential reasoning. This provides a useful representation language in its own right, providing a compromise between heuristic and epistemic adequacy.
+*   [ACLP: Abductive Constraint Logic Programming](https://www.sciencedirect.com/science/article/pii/S0743106699000758) - ***The Journal of Logic Programming***, 1999. \[[All Versions](https://scholar.google.com/scholar?cluster=14319574550421192429)]. This paper presents the framework of Abductive Constraint Logic Programming (ACLP), which integrates Abductive Logic Programming (ALP) and Constraint Logic Programming (CLP). In ACLP, the task of abduction is supported and enhanced by its non-trivial integration with constraint solving. This integration of constraint solving into abductive reasoning facilitates a general form of constructive abduction and enables the application of abduction to computationally demanding problems. The paper studies the formal declarative and operational semantics of the ACLP framework together with its application to various problems.
 *   [Machine Translation Using Abductive Inference](https://www.aclweb.org/anthology/H91-1024.pdf) - ***COLING***, 1990. \[[All Versions](https://scholar.google.com/scholar?cluster=15275163177548183539\&hl=en\&as_sdt=0,5)]. An application of abduction in language translating.
-*   [Anomaly detection through explanations](https://dspace.mit.edu/handle/1721.1/129250) - ***Ph.D Dissertation MIT***, 2018. \[[All Versions](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=Anomaly+detection+through+explanations\&btnG=)]. An application of abduction in anomaly detection.
 
 ### Bayesian Modeling / Bayesian Induction
 
 *   [Bayesian Epistemology](https://plato.stanford.edu/entries/epistemology-bayesian/) - ***Plato Stanford***. A computational philosophy account on the nature of uncertainty modeling in Bayesian Epistemology.
-*   [Probabilistic machine learning and artificial intelligence](https://www.nature.com/articles/nature14541.pdf) - ***Nature***, 2015. \[[All Versions](https://scholar.google.com/scholar?cluster=1783282361269717744\&hl=en\&as_sdt=0,5)]. Zoubin Ghahramani's review on Bayesian machine learning.
-*   [Generalization, similarity, and Bayesian inference](http://web.mit.edu/cocosci/archive/Papers/tenenbaum_griffiths01.pdf) - ***Behavioral and Brain Sciences***, 2001. \[[All Versions](https://scholar.google.com/scholar?cluster=14074987155133342565\&hl=en\&as_sdt=0,5)]. Josh Tenenbaum's review on Bayesian generalization.
-*   [Bayesian modeling of human concept learning](http://web.mit.edu/cocosci/archive/Papers/bayes.pdf) - ***NeurIPS'98***, 1998. \[[All Versions](https://scholar.google.com/scholar?cluster=12185543141957001794\&hl=en\&as_sdt=0,5\&as_vis=1)]. Original paper on Bayesian generalization.
-*   [Word learning as Bayesian inference](https://tallinzen.net/media/readings/xu_tenenbaum_2007.pdf) - ***Psychological Review***, 2007. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=5476233692839102256)]. \[[APA](https://psycnet.apa.org/doiLanding?doi=10.1037%2F0033-295X.114.2.245)]. Fei Xu's review on Bayesian word learning.
-*   [Human-level concept learning through probabilistic program induction.](https://ai6034.mit.edu/wiki/images/LakeDec2015.pdf) - ***Science***, 2015. \[[All Versions](https://scholar.google.com/scholar?cluster=11844685101409624506\&hl=en\&as_sdt=0,5)]. \[[Supplementary Material](https://cims.nyu.edu/~brenden/LakeEtAl2015Science_supp.pdf)]. Bayesian program induction for few-shot learning.
 
 ### Bayesian Modeling / Generative Model
 
-*   [Filters, random fields and maximum entropy (FRAME): Towards a unified theory for texture modeling](https://dash.harvard.edu/bitstream/handle/1/3637117/Mumford_FRAME.pdf?sequence=1) - ***International Journal of Computer Vision***, 1998. \[[All Versions](https://scholar.google.com/scholar?cluster=11604954524863138240\&hl=en\&as_sdt=0,5)]. Song-Chun Zhu's original paper on energy-based generative texture modeling.
 *   [Object Perception as Bayesian Inference](https://www.cs.jhu.edu/~ayuille/pubs/ucla/A189_dkersten_ARP2004.pdf) - ***Annual Review of Psychology***, 2004. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=1611451804975333652)]. Alan Yuille's review on Bayesian object perception.
-*   [A tale of three probabilistic families: Discriminative, descriptive, and generative models](http://www.stat.ucla.edu/~ywu/QAM2018.pdf) - ***Quarterly of Applied Mathematics***, 2018. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=6129609629126793774)]. Ying Nian Wu's review on three families of statistical modeling.
-*   [From information scaling of natural images to regimes of statistical models](http://www.stat.ucla.edu/~sczhu/papers/Quarterly_final.pdf) - ***Quarterly of Applied Mathematics***, 2008. \[[All Versions](https://scholar.google.com/scholar?start=0\&hl=en\&as_sdt=0,5\&cluster=17387130978932998303)]. A statistical account for the shift from textons to texture.
 *   [A Theory of Generative ConvNet](https://proceedings.mlr.press/v48/xiec16.html) - ***ICML'16***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=11062907630625111054\&hl=en\&as_sdt=2005\&sciodt=0,5)].
-*   [Learning Latent Space Energy-Based Prior Model](https://proceedings.neurips.cc/paper/2020/hash/fa3060edb66e6ff4507886f9912e1ab9-Abstract.html) - ***NeurIPS'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=9945264852135249894)]. \[[Project](https://bpucla.github.io/latent-space-ebm-prior-project/)]. \[[Code (⭐32)](https://github.com/bpucla/latent-space-EBM-prior)]. A milestone paper on Latent Energy-Based Model.
+*   [Learning Latent Space Energy-Based Prior Model](https://proceedings.neurips.cc/paper/2020/hash/fa3060edb66e6ff4507886f9912e1ab9-Abstract.html) - ***NeurIPS'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=9945264852135249894)]. \[[Project](https://bpucla.github.io/latent-space-ebm-prior-project/)]. \[[Code (⭐34)](https://github.com/bpucla/latent-space-EBM-prior)]. A milestone paper on Latent Energy-Based Model.
 *   [Image segmentation by data-driven markov chain monte carlo](http://www.stat.ucla.edu/~sczhu/papers/DDMCMC_reprint.pdf) - ***IEEE Transactions on Pattern Analysis and Machine Intelligence***, 2002. \[[All Versions](https://scholar.google.com/scholar?cluster=3461400072144667491\&hl=en\&as_sdt=0,5)]. Classic method for image segmentation via generative modeling.
 *   [A Tutorial on Energy-Based Learning](http://yann.lecun.com/exdb/publis/orig/lecun-06.pdf) - ***Predicting Structured Data, MIT Press***, 2006. \[[All Versiosn](https://scholar.google.com/scholar?cluster=8819502341081664768\&hl=en\&as_sdt=0,5)]. Yann LeCun's tutorial on energy-based learning.
 *   [Analysis of Langevin Monte Carlo via Convex Optimization](https://www.jmlr.org/papers/volume20/18-173/18-173.pdf) - ***Journal of Machine Learning Research***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=5305860199396047317\&hl=en\&as_sdt=0,5)].
@@ -821,8 +800,7 @@ Installs: 2000 | Stars: 131 | Last update: n/a
 ### Communications / Pragmatics
 
 *   [Pragmatics](https://plato.stanford.edu/entries/pragmatics/) - ***Plato Stanford***. A computational philosophy account of Pragmatics, whilch studies utterances in specific contexts.
-*   [Predicting Pragmatic Reasoning in Language Games](https://langcog.stanford.edu/papers_new/frank-2012-science.pdf) - ***Science***, 2012. \[[All Versions](https://scholar.google.com/scholar?cluster=15533081031935746054)]. The original paper on Rational Speech Act (RSA).
-*   [Pragmatic Language Interpretation as Probabilistic Inference](https://www.sciencedirect.com/science/article/pii/S136466131630122X) - ***Trends in Cognitive Sciences***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=11393505968563356130)]. Noah Goodman and Micheal Frank's review on Rational Speech Act.
+*   [Pragmatic Language Interpretation as Probabilistic Inference](https://www.sciencedirect.com/science/article/pii/S136466131630122X) - ***Trends in Cognitive Sciences***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=11393505968563356130)]. Understanding language requires more than the use of fixed conventions and more than decoding combinatorial structure. Instead, comprehenders make exquisitely sensitive inferences about what utterances mean given their knowledge of the speaker, language, and context. Building on developments in game theory and probabilistic modeling, the authors describe the rational speech act (RSA) framework for pragmatic reasoning. RSA models provide a principled way to formalize inferences about meaning in context; they have been used to make successful quantitative predictions about human behavior in a variety of different tasks and situations, and they explain why complex phenomena, such as hyperbole and vagueness, occur. More generally, they provide a computational framework for integrating linguistic structure, world knowledge, and context in pragmatic language understanding.
 *   [Processing gradable adjectives in context: A visual world study](https://semantics.uchicago.edu/kennedy/docs/processing.pdf) - ***Semantics and Linguistic Theory***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=13426776838629402579)]. Adjective understanding as a rational inference in the context.
 *   [Social Pragmatics: Preschoolers Rely on Commonsense Psychology to Resolve Referential Underspecification](https://compdevlab.yale.edu/docs/2019/2019_ChildDev_Pragmatics.pdf) - ***Child Development***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=16352913537004112920)]. A piece of evidence for children's capability on social pragmatics.
 *   [Disentangling contributions of visual information and interaction history in the formation of graphical conventions](https://cogsci.mindmodeling.org/2019/papers/0091/0091.pdf) - ***CogSci'19***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=15046353579508199394\&hl=en\&as_sdt=0,5)].
@@ -843,14 +821,12 @@ Installs: 2000 | Stars: 131 | Last update: n/a
 ### Domain Specific Language / Logic DSL Applications
 
 *   [Situation Calculus](https://en.wikipedia.org/wiki/Situation_calculus) - ***Wikipedia***. Wikipedia on Situation Calculus, a logic formalism designed for representing and reasoning about dynamical domains.
-*   [Answer Set Programming](http://people.sabanciuniv.edu/~esraerdem/teaching/krr06/asp.pdf) - ***ICLPNR'99***, 1999. \[[All Versions](https://scholar.google.com/scholar?cluster=15267370435063454675\&hl=en\&as_sdt=0,5)]. The original paper on Answer Set Programming (ASP), a form of declarative programming oriented towards difficult search problems, on the use of nonmonotonic reasoning in knowledge representation.
-*   [Action Languages, Answer Sets, and Planning](https://link.springer.com/chapter/10.1007%2F978-3-642-60085-2_16) - ***The Logic Programming Paradigms***, 1999. \[[All Versions](https://scholar.google.com/scholar?cluster=2045126541850245645\&hl=en\&as_sdt=0,5)].
-*   [Qualitative Simulation](https://www.cs.utexas.edu/ftp/qsim/papers/Kuipers-aij-86.pdf) - ***Artificial Intelligence***, 1986. \[[All Versions](https://scholar.google.com/scholar?cluster=4945009733425184345\&hl=en\&as_sdt=0,5)]. Benjamin Kuipers' original paper on qualitative reasoning.
-*   [Qualitative Reasoning: Modeling and Simulation with Incomplete Knowledge](https://www.cs.utexas.edu/users/qr/QR-book.html) - ***MIT Press***, 1994. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=6634684154722677465)]. Benjamin Kuipers' comprehensive book on qualitative reasoning.
+*   [Action Languages, Answer Sets, and Planning](https://link.springer.com/chapter/10.1007%2F978-3-642-60085-2_16) - ***The Logic Programming Paradigms***, 1999. \[[All Versions](https://scholar.google.com/scholar?cluster=2045126541850245645)]. \[[Preprint](https://citeseerx.ist.psu.edu/document?repid=rep1\&type=pdf\&doi=e58359b3dae3141fd2c85ee3f00c566411134929)]. This is a discussion of some of the achievements and challenges related to representing actions and the design of planners from the perspective of logic programming. The authors talk about recent work on action languages and translating them into logic programming, on representing possible histories of an action domain by answer sets, on efficient implementations of the answer set semantics and their use for generating plans, and on causal logic and its relation to planning algorithms. Recent progress in these areas may lead to the creation of planners which are based on the ideas of logic programming and combine the use of expressive action description languages with efficient computational procedures.
+*   [Qualitative Reasoning: Modeling and Simulation with Incomplete Knowledge](https://www.cs.utexas.edu/users/qr/QR-book.html) - ***MIT Press***, 1994. \[[All Versions](https://scholar.google.com/scholar?\&cluster=6634684154722677465)]. This book presents, within a conceptually unified theoretical framework, a body of methods that have been developed over the past fifteen years for building and simulating qualitative models of physical systems - bathtubs, tea kettles, automobiles, the physiology of the body, chemical processing plants, control systems, electrical systems - where knowledge of that system is incomplete. The primary tool for this work is the author's QSIM algorithm, which is discussed in detail. Qualitative models are better able than traditional models to express states of incomplete knowledge about continuous mechanisms. Qualitative simulation guarantees to find all possible behaviors consistent with the knowledge in the model. This expressive power and coverage is important in problem solving for diagnosis, design, monitoring, explanation, and other applications of artificial intelligence.
 
 ### Problem Solving / Human-Level Problem Solving
 
-*   [Elements of a theory of human problem solving](https://psycnet.apa.org/record/1959-07883-001) - ***Psychological Review***, 1958. \[[All Versions](https://scholar.google.com/scholar?cluster=6226995019045187501\&hl=en\&as_sdt=0,5)]. Herbert Simon's original idea on human problem solving.
+*   [Elements of a theory of human problem solving](https://psycnet.apa.org/record/1959-07883-001) - ***Psychological Review***, 1958. \[[All Versions](https://scholar.google.com/scholar?cluster=6226995019045187501)]. Herbert Simon's original idea on human problem solving.
 *   [Human Problem Solving](https://psycnet.apa.org/record/1973-10478-000) - ***Englewood Cliffs, NJ: Prentice-hall***, 1972. \[[All Versions](https://scholar.google.com/scholar?cluster=3996229083126262536\&hl=en\&as_sdt=0,5)]. Herbert Simon's classic idea of human problem solving as search.
 *   [Judgment under Uncertainty: Heuristics and Biases: Biases in judgments reveal some heuristics of thinking under uncertainty](https://www.science.org/doi/abs/10.1126/science.185.4157.1124) - ***Science***, 1974. \[[All Versions](https://scholar.google.com/scholar?cluster=17040257859216791312\&hl=en\&as_sdt=0,5)]. Daniel Kahneman's classic idea of prospective theory.
 *   [Computational evidence for hierarchically structured reinforcement learning in humans](https://www.pnas.org/content/117/47/29381.short) - ***Proceedings of the National Academy of Sciences***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=5731363475904675608\&hl=en\&as_sdt=0,5)]. A piece of evidence on hierarchical human planning.
@@ -916,15 +892,15 @@ Installs: 2000 | Stars: 131 | Last update: n/a
 ### Explainability / Strong Machine Learning
 
 *   [Ultra-Strong Machine Learning: comprehensibility of programs learned with ILP](https://link.springer.com/article/10.1007/s10994-018-5707-3) - ***Machine Learning***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=17551060457946144913\&hl=en\&as_sdt=0,5)]. Stephen Muggleton's account of ultra-strong machine learning, which not only learns human understandable knowledge, but also improves human performance on the corresponding tasks.
-*   [NBDT: Neural-Backed Decision Trees](https://arxiv.org/abs/2004.00221) - ***NeurIPS'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=1902399007162005819\&hl=en\&as_sdt=0,5)]. \[[Code (⭐603)](https://github.com/alvinwan/neural-backed-decision-trees)]. Expliciting the decision process of a decision tree through neural networks.
+*   [NBDT: Neural-Backed Decision Trees](https://arxiv.org/abs/2004.00221) - ***NeurIPS'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=1902399007162005819\&hl=en\&as_sdt=0,5)]. \[[Code (⭐611)](https://github.com/alvinwan/neural-backed-decision-trees)]. Expliciting the decision process of a decision tree through neural networks.
 
 ### Explainability / Explainable Deep Learning
 
 *   [Network dissection: Quantifying interpretability of deep visual representations](https://ieeexplore.ieee.org/document/8099837) - ***CVPR'17***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=18069685615852396783\&hl=en\&as_sdt=0,5)]. \[[Project](http://netdissect.csail.mit.edu/)]. \[[Dataset: Places365](http://places2.csail.mit.edu/index.html)]. The original paper on visualizing the class activation maps to explain convolutional neural networks.
 *   [Understanding the role of Individual Units in a Deep Neural Network](https://www.pnas.org/content/pnas/early/2020/08/31/1907375117.full.pdf) - ***Proceedings of the National Academy of Sciences***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=11996680970579301810\&hl=en\&as_sdt=0,5)]. David Bau's review on network dissection for discriminative and generative models.
 *   [Zoom In: An Introduction to Circuits](https://distill.pub/2020/circuits/zoom-in/) - ***Distill***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=9053581372570691569\&hl=en\&as_sdt=0,5)]. A perspective on treating neural networks as circuits.
-*   [Compositional Explanations of Neurons](https://proceedings.neurips.cc/paper/2020/hash/c74956ffb38ba48ed6ce977af6727275-Abstract.html) - ***NeurIPS'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=15725346730266402738\&hl=en\&as_sdt=0,5)]. \[[Project (⭐24)](https://github.com/jayelm/compexp)]. A concept-composition version of network dissection.
-*   [Noise or Signal: The Role of Backgrounds in Image Classification](https://arxiv.org/pdf/2006.09994.pdf) - ***ICLR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=14729938011425134088\&hl=en\&as_sdt=0,5)]. \[[Code & Data (⭐133)](https://github.com/MadryLab/backgrounds_challenge)]. \[[Project](https://gradientscience.org/background/)]. A perspective on image background provides strong clue for foreground classification.
+*   [Compositional Explanations of Neurons](https://proceedings.neurips.cc/paper/2020/hash/c74956ffb38ba48ed6ce977af6727275-Abstract.html) - ***NeurIPS'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=15725346730266402738\&hl=en\&as_sdt=0,5)]. \[[Project (⭐25)](https://github.com/jayelm/compexp)]. A concept-composition version of network dissection.
+*   [Noise or Signal: The Role of Backgrounds in Image Classification](https://arxiv.org/pdf/2006.09994.pdf) - ***ICLR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=14729938011425134088\&hl=en\&as_sdt=0,5)]. \[[Code & Data (⭐140)](https://github.com/MadryLab/backgrounds_challenge)]. \[[Project](https://gradientscience.org/background/)]. A perspective on image background provides strong clue for foreground classification.
 *   [Towards Understanding Learning Representations: To What Extent Do Different Neural Networks Learn the Same Representation](https://proceedings.neurips.cc/paper/2018/hash/5fc34ed307aac159a30d81181c99847e-Abstract.html) - ***NeurIPS'18***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=401428033641216502\&hl=en\&as_sdt=0,5)]. Maching the learned pattern of neurons in different neural networks.
 
 ### Embodied Intelligence / Explainable Deep Learning
@@ -1008,6 +984,7 @@ Installs: 2000 | Stars: 131 | Last update: n/a
 
 *   [Bounded Rationality](https://plato.stanford.edu/entries/bounded-rationality/) - ***Plato Stanford***. A computational philosophy account on Bounded Rationality, an elementary hypothesis of human intelligence in psychology and ecology.
 *   [Instrumental Rationality](https://plato.stanford.edu/entries/rationality-instrumental/) - ***Plato Stanford***. A computational philosophy account on Instrumental Rationality, a dabate on whether an agent's decision is made intentionally or out of rational coherence.
+*   [A Study of Thinking](https://www.taylorfrancis.com/books/mono/10.4324/9781315083223/study-thinking-jerome-bruner-jacqueline-goodnow-george-austin) - ***Routledge***, 1956. \[[All Versions](https://scholar.google.com/scholar?cluster=17466297915128086930)]. This book is a pioneering account of how human beings achieve a measure of rationality in spite of the constraints imposed by time and ignorance.
 *   [Computational rationality: A converging paradigm for intelligence in brains, minds, and machines](https://gershmanlab.com/pubs/GershmanHorvitzTenenbaum15.pdf) - ***Science***, 2015. \[[All Versions](https://scholar.google.com/scholar?cluster=7744057022238735461\&hl=en\&as_sdt=0,5)]. A comprehensive review on the rationality of Bayesian computational models.
 *   [Resource-rational analysis: Understanding human cognition as the optimal use of limited computational resources](https://cocosci.princeton.edu/papers/lieder_resource.pdf) - ***Behavioral and Brain Sciences***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=1642626865293965288\&hl=en\&as_sdt=0,5)]. A resource-rational account on interpreting human intelligence.
 
@@ -1024,15 +1001,11 @@ Installs: 2000 | Stars: 131 | Last update: n/a
 ### Theory of Mind / AI Assisted Research
 
 *   [Theory of Mind](https://en.wikipedia.org/wiki/Theory_of_mind) - ***Wikipedia***. Wikipedia on Theory of Mind (ToM), a cognitive capability that estimating others' goal, belief, and desire.
-*   [Action Understanding as Inverse Planning](https://www.sciencedirect.com/science/article/pii/S0010027709001607) - ***Cognition***, 2009. \[[All Versions](https://scholar.google.com/scholar?cluster=11478704181983566675\&hl=en\&as_sdt=0,5)]. \[[Appendix](https://ars.els-cdn.com/content/image/1-s2.0-S0010027709001607-mmc1.pdf)]. The original paper on Inverse Planning, a computational implementation of ToM.
-*   [Bayesian Theory of Mind: Modeling Joint Belief-Desire Attribution](http://web.mit.edu/9.s915/www/classes/theoryOfMind.pdf) - ***CogSci'11***, 2011. \[[All Versions](https://scholar.google.com/scholar?cluster=7454981153033683025\&hl=en\&as_sdt=0,5)].
-*   [Bayesian Theory of Mind : modeling human reasoning about beliefs, desires, goals, and social relations](https://dspace.mit.edu/handle/1721.1/73768) - ***MIT***, 2012. \[[All Versions](https://scholar.google.com/scholar?cluster=16053170661075048224\&hl=en\&as_sdt=0,5)]. Chris Baker's Ph.D. dissertation, a comprehensive review on Bayesian modeling of Theory of Mind.
+*   [Action Understanding as Inverse Planning](https://www.sciencedirect.com/science/article/pii/S0010027709001607) - ***Cognition***, 2009. \[[All Versions](https://scholar.google.com/scholar?cluster=11478704181983566675)]. \[[Appendix](https://ars.els-cdn.com/content/image/1-s2.0-S0010027709001607-mmc1.pdf)]. The original paper on Inverse Planning, a computational implementation of Theory of Mind. Humans are adept at inferring the mental states underlying other agents’ actions, such as goals, beliefs, desires, emotions and other thoughts. This paper proposes a computational framework based on Bayesian inverse planning for modeling human action understanding. The framework represents an intuitive theory of intentional agents’ behavior based on the principle of rationality: the expectation that agents will plan approximately rationally to achieve their goals, given their beliefs about the world. The mental states that caused an agent's behavior are inferred by inverting this model of rational planning using Bayesian inference, integrating the likelihood of the observed actions with the prior over mental states.
 *   [Bayesian Brains without Probabilities](https://www.sciencedirect.com/science/article/pii/S1364661316301565?via%3Dihub) - ***Trends in Cognitive Sciences***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=13076510377612067772\&hl=en\&as_sdt=0,5)]. A perspective on human probabilistic modeling without explicit probabilistic computation.
-*   [AGENT: A Benchmark for Core Psychological Reasoning](https://arxiv.org/pdf/2102.12321.pdf) - ***ICML'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=9729067071974484204\&hl=en\&as_sdt=0,5)]. A benchmark for AI that modeling the core knowledge of ToM.
-*   [Experimental Games and Social Decision Making](https://www.annualreviews.org/doi/pdf/10.1146/annurev-psych-081420-110718) - ***Annual Review of Psychology***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=4713510112126264116\&hl=en\&as_sdt=0,5)]. A comprehensive review on social ToM experiment pafadigms.
-*   [Theory of Minds: Understanding Behavior in Groups through Inverse Planning](https://www.aaai.org/ojs/index.php/AAAI/article/view/4574) - ***AAAI'19***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=6755247312077985817\&hl=en\&as_sdt=0,5)]. Inverse Planning in multi-agent setting.
+*   [Experimental Games and Social Decision Making](https://www.annualreviews.org/doi/pdf/10.1146/annurev-psych-081420-110718) - ***Annual Review of Psychology***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=4713510112126264116)]. Experimental games model situations in which the future outcomes of individuals and groups depend on their own choices and on those of other (groups of) individuals. Games are a powerful tool to identify the neural and psychological mechanisms underlying interpersonal and group cooperation and coordination. This review article discusses recent developments in how experimental games are used and adapted, with an increased focus on repeated interactions, partner control through sanctioning, and partner (de)selection for future interactions.
+*   [Theory of Minds: Understanding Behavior in Groups through Inverse Planning](https://www.aaai.org/ojs/index.php/AAAI/article/view/4574) - ***AAAI'19***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=6755247312077985817)]. Towards the goal of building machine-learning algorithms with human-like social intelligence, this paper develops a generative model of multiagent action understanding based on a novel representation for these latent relationships called Composable Team Hierarchies (CTH). This representation is grounded in the formalism of stochastic games and multi-agent reinforcement learning. This work uses CTH as a target for Bayesian inference yielding a new algorithm for understanding behavior in groups that can both infer hidden relationships as well as predict future actions for multiple agents interacting together.
 *   [Using human brain activity to guide machine learning](https://www.nature.com/articles/s41598-018-23618-6) - ***Scientific Report***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=12987955253653036948\&hl=en\&as_sdt=0,5)].
-*   [Learning Triadic Belief Dynamics in Nonverbal Communication from Videos](https://arxiv.org/abs/2104.02841) - ***CVPR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=15365483338824697316\&hl=en\&as_sdt=0,5)]. Theory of Mind in the perception level, introduced as a computer vision task.
 *   [Ten-month-old infants infer the value of goals from the costs of actions](https://dspace.mit.edu/bitstream/handle/1721.1/112291/ivc_full_preprint.pdf?sequence=1\&isAllowed=y) - ***Science***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=11862940312128630925\&hl=en\&as_sdt=0,5)]. A piece of evidence for children's capability on ToM.
 *   [Baby Intuitions Benchmark (BIB): Discerning the goals, preferences, and actions of others](https://static1.squarespace.com/static/595a9f155016e1f7ead6edf1/t/61eeb3e7bbc41a23cd288f8a/1643033708945/Gandhi_etal_2021.pdf) - ***NeurIPS'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=16514364601966350574)].
 *   [Intentonomy: a Dataset and Study towards Human Intent Understanding](https://arxiv.org/pdf/2011.05558.pdf) - ***CVPR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=5268870345003195142\&hl=en\&as_sdt=0,5)]. A large-scale database on human intentionally-posted images on social media.
@@ -1165,7 +1138,7 @@ Installs: 2000 | Stars: 131 | Last update: n/a
 
 ### Reading and Writing Tools / Office
 
-*   [OnlyOffice](https://www.onlyoffice.com/) -  An office suite that combines text, spreadsheet and presentation editors allowing to create, view and edit local documents. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ONLYOFFICE/DesktopEditors) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [OnlyOffice](https://www.onlyoffice.com/) - An office suite that combines text, spreadsheet and presentation editors allowing to create, view and edit local documents. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ONLYOFFICE/DesktopEditors) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Reading and Writing Tools / Markdown Tools
 
@@ -1173,12 +1146,12 @@ Installs: 2000 | Stars: 131 | Last update: n/a
 
 ### Reading and Writing Tools / Note-taking
 
-*   [Logseq](https://logseq.com/) - Privacy-first, open-source knowledge base that works on top of local plain-text Markdown and Org-mode files. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/logseq/logseq) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Logseq](https://logseq.com/) - Privacy-first, open-source knowledge base. [![OSS](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/logseq/logseq) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Standard Notes](https://standardnotes.com/) - An end-to-end encrypted notes app for digitalists and professionals. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/standardnotes/app) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Developer Tools / API Development and Analysis
 
-*   [Katalon Studio](https://www.katalon.com) - Simplify API, Web, Mobile Automation Tests Free. Robust. Cross-platform. Automation testers from 160 countries with channels, GitHub repositories.![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Katalon Studio](https://www.katalon.com) - Simplify API, Web, and Mobile Automation Tests. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Communication / Email Clients
 
@@ -1189,7 +1162,7 @@ Installs: 2000 | Stars: 131 | Last update: n/a
 ### Audio and Video Tools / File Sharing
 
 *   [FreeTube](https://freetubeapp.io/) - Open source desktop YouTube client built with privacy in mind. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/FreeTubeApp/FreeTube) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [MacYTDL (⭐468)](https://github.com/section83/MacYTDL) -  A macOS GUI front-end for the youtube-dl video downloader. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/section83/MacYTDL) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [MacYTDL (⭐586)](https://github.com/section83/MacYTDL) -  A macOS GUI front-end for the youtube-dl video downloader. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/section83/MacYTDL) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Museeks](https://museeks.io) - A simple, clean and cross-platform music player. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/martpie/museeks) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Nuclear](https://nuclear.js.org/) -  Streaming music player that finds free music for you. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/nukeop/nuclear) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [MusicBrainz Picard](https://picard.musicbrainz.org/) -  Cross-platform music tagger written in Python. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/metabrainz/picard) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
@@ -1198,15 +1171,18 @@ Installs: 2000 | Stars: 131 | Last update: n/a
 
 *   [Min](https://minbrowser.org/) -  Fast, minimal browser that protects your privacy. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/minbrowser/min) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-### Utilities / General Tools
+### Proxy and VPN Tools / Audio Record and Process
 
 *   [Cloudflare WARP](https://1.1.1.1/) - Replaces the connection between your device and the Internet with a modern, optimized, protocol. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+### Utilities / General Tools
+
 *   [Etcher](https://www.balena.io/etcher/) - Flash OS images to SD cards & USB drives, safely and easily. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/balena-io/etcher) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / Productivity
 
 *   [ActivityWatch](https://activitywatch.net/) - Cross-platform, extensible, and privacy-focused time-tracker. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ActivityWatch/activitywatch) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [Cerebro](https://cerebroapp.com/) -  Open-source productivity booster with a brain. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/cerebroapp/cerebro) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Cerebro](https://cerebroapp.com/) - Open-source productivity booster with a brain. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/cerebroapp/cerebro) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Focalboard](https://www.focalboard.com/) - Open source, self-hosted alternative to Trello, Notion, and Asana. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/mattermost/focalboard) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ---

@@ -10,13 +10,13 @@
 
 ### Table of Contents / Imagery
 
-*   [Image Optimizer (⭐906)](https://github.com/psliwa/image-optimizer) - A library for optimizing images.
+*   [Image Optimizer (⭐909)](https://github.com/psliwa/image-optimizer) - A library for optimizing images.
 
 ## [2. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Image Processing
 
-*   [Skeptick (⭐318)](https://github.com/maxim/skeptick) - Skeptick is an all-purpose DSL for building and running ImageMagick commands.
+*   [Skeptick (⭐317)](https://github.com/maxim/skeptick) - Skeptick is an all-purpose DSL for building and running ImageMagick commands.
 
 ---
 

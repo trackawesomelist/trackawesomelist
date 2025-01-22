@@ -8,7 +8,7 @@
 
 ## [1. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/README.md)
 
-### Blogs Aggregators / Monograph
+### Aggregators / Lecture Videos Playlist
 
 *   [Theory of Computing Blog Aggregator](https://theory.report/) - A blog Aggregator for all blogs related to TCS.
 
@@ -16,11 +16,11 @@
 
 ### Uncategorized
 
-*   [Hime Display (⭐184)](https://github.com/TSKI433/hime-display) - Universal desktop model displayer for Live2D, Spine, MMD and VRoid. \[English/中文/日本語]
+*   [Hime Display (⭐190)](https://github.com/TSKI433/hime-display) - Universal desktop model displayer for Live2D, Spine, MMD and VRoid. \[English/中文/日本語]
 
 ## [3. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
-### Domain and IP Research / Telegram
+### Domain and IP Research / Steam
 
 *   [BuiltWith](http://builtwith.com) - is a website that will help you find out all the technologies used to build a particular websites.
 *   [DNS History](https://completedns.com/dns-history/)
@@ -30,13 +30,13 @@
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [pagerduty (⭐0)](https://github.com/jedelson-pagerduty/pagerduty-omz-plugin) - Adds completions for the pagerduty [cli (⭐90)](https://github.com/martindstone/pagerduty-cli)
+*   [pagerduty (⭐0)](https://github.com/jedelson-pagerduty/pagerduty-omz-plugin) - Adds completions for the pagerduty [cli (⭐92)](https://github.com/martindstone/pagerduty-cli)
 
 ## [5. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/README.md)
 
 ### AppImage developer tools / Tools to convert from other package formats
 
-*   [appimage-bash (⭐0)](https://github.com/valicm/appimage-bash) - GitHub Action for creating AppImage releases from binaries inside `.tar.gz` archives.
+*   [appimage-bash (⭐1)](https://github.com/valicm/appimage-bash) - GitHub Action for creating AppImage releases from binaries inside `.tar.gz` archives.
 
 ---
 

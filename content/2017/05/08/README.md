@@ -17,7 +17,7 @@
 ### C bindings
 
 *   [crt.cr (⭐27)](https://github.com/maiha/crt.cr) - Bindings for libncursesw and crt
-*   [duktape.cr (⭐136)](https://github.com/jessedoyle/duktape.cr) - Bindings for the [Duktape (⭐5.9k)](https://github.com/svaarala/duktape) javascript engine
+*   [duktape.cr (⭐137)](https://github.com/jessedoyle/duktape.cr) - Bindings for the [Duktape (⭐6k)](https://github.com/svaarala/duktape) javascript engine
 *   [gphoto2.cr (⭐16)](https://github.com/Sija/gphoto2.cr) - Bindings for the [libgphoto2](http://www.gphoto.org/) library
 *   [libnotify.cr (⭐26)](https://github.com/splattael/libnotify.cr) - Bindings for Libnotify
 *   [pcap.cr (⭐25)](https://github.com/maiha/pcap.cr) - Bindings for libpcap
@@ -28,7 +28,7 @@
 
 ### Processes and Threads
 
-*   [neph (⭐203)](https://github.com/tbrand/neph) - A modern command line job processor that can execute jobs concurrently
+*   [neph (⭐204)](https://github.com/tbrand/neph) - A modern command line job processor that can execute jobs concurrently
 
 ## [3. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
@@ -58,24 +58,24 @@
 
 ### Authentication
 
-*   [sigaws (⭐11)](https://github.com/handnot2/sigaws) - AWS Signature V4 signing and verification library ([Doc](https://hexdocs.pm/sigaws/Sigaws.html)).
+*   [sigaws (⭐12)](https://github.com/handnot2/sigaws) - AWS Signature V4 signing and verification library ([Doc](https://hexdocs.pm/sigaws/Sigaws.html)).
 
 ### ECMAScript
 
-*   [phoenix\_gon (⭐99)](https://github.com/khusnetdinov/phoenix_gon) - Allow you to pass Phoenix environment or controller variables to JavaScript without problems.
+*   [phoenix\_gon (⭐101)](https://github.com/khusnetdinov/phoenix_gon) - Allow you to pass Phoenix environment or controller variables to JavaScript without problems.
 
 ### Email
 
-*   [ravenx (⭐110)](https://github.com/acutario/ravenx) - Notification dispatch library for Elixir applications.
+*   [ravenx (⭐111)](https://github.com/acutario/ravenx) - Notification dispatch library for Elixir applications.
 
 ### Framework Components
 
 *   [plug\_sigaws (⭐0)](https://github.com/handnot2/plug_sigaws) - AWS Signature V4 authentication protection for Phoenix/Plug Routes ([Docs](https://hexdocs.pm/plug_sigaws/PlugSigaws.html)).
-*   [react\_phoenix (⭐500)](https://github.com/geolessel/react-phoenix) - Render React.js components in Phoenix views focusing on easy installation and Brunch compatibility.
+*   [react\_phoenix (⭐505)](https://github.com/geolessel/react-phoenix) - Render React.js components in Phoenix views focusing on easy installation and Brunch compatibility.
 
 ### Games
 
-*   [mines (⭐46)](https://github.com/kevlar1818/mines) - A minesweeper clone in the terminal.
+*   [mines (⭐48)](https://github.com/kevlar1818/mines) - A minesweeper clone in the terminal.
 
 ### Instrumenting / Monitoring
 
@@ -83,11 +83,11 @@
 
 ### Protocols
 
-*   [Sippet (⭐77)](https://github.com/balena/elixir-sippet) - An Elixir library designed to be used as SIP protocol middleware.
+*   [Sippet (⭐78)](https://github.com/balena/elixir-sippet) - An Elixir library designed to be used as SIP protocol middleware.
 
 ### Static Page Generation
 
-*   [serum (⭐316)](https://github.com/Dalgona/Serum) - A simple static website generator written in Elixir.
+*   [serum (⭐320)](https://github.com/Dalgona/Serum) - A simple static website generator written in Elixir.
 
 ## [7. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
@@ -103,7 +103,7 @@
 *   [Object-Oriented Programming in Common Lisp: A Programmer's Guide to CLOS](http://www.goodreads.com/book/show/1175730.Object_Oriented_Programming_in_Common_LISP) - An old, but very thorough book on CLOS.
 *   [Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp](http://norvig.com/paip.html) - A book on programming AI that covers some advanced Lisp.
     *   with a web version: [https://norvig.github.io/paip-lisp/](https://norvig.github.io/paip-lisp/#/)
-    *   [PAIP-lisp (⭐7.1k)](https://github.com/norvig/paip-lisp) -  Lisp code for the textbook "Paradigms of Artificial Intelligence Programming".
+    *   [PAIP-lisp (⭐7.2k)](https://github.com/norvig/paip-lisp) -  Lisp code for the textbook "Paradigms of Artificial Intelligence Programming".
 
 ### Reference
 

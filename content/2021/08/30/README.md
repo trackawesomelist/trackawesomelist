@@ -10,7 +10,7 @@
 
 ### 2D/3D Rendering engines / Testing
 
-*   [Verify.Blazor - a snapshot testing library for Blazor components (⭐30)](https://github.com/VerifyTests/Verify.Blazor) - ![stars](https://img.shields.io/github/stars/VerifyTests/Verify.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/VerifyTests/Verify.Blazor?style=flat-square\&cacheSeconds=86400) A snapshot testing library for Blazor Components. Supports rendering Blazor Components to a snapshot file via bunit or via raw Blazor rendering.
+*   [Verify.Blazor - a snapshot testing library for Blazor components (⭐33)](https://github.com/VerifyTests/Verify.Blazor) - ![stars](https://img.shields.io/github/stars/VerifyTests/Verify.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/VerifyTests/Verify.Blazor?style=flat-square\&cacheSeconds=86400) A snapshot testing library for Blazor Components. Supports rendering Blazor Components to a snapshot file via bunit or via raw Blazor rendering.
 
 ## [2. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/README.md)
 
@@ -22,7 +22,7 @@
 
 ### Elm / Integrations
 
-*   [vite-plugin-elm (⭐194)](https://github.com/hmsk/vite-plugin-elm) - A plugin that enables you to compile an Elm module.
+*   [vite-plugin-elm (⭐201)](https://github.com/hmsk/vite-plugin-elm) - A plugin that enables you to compile an Elm module.
 
 ## [4. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
 

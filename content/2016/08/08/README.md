@@ -31,7 +31,7 @@
 
 ### Security
 
-*   [ssl\_verify\_fun (⭐104)](https://github.com/deadtrickster/ssl_verify_fun.erl) - Collection of ssl verification functions for Erlang.
+*   [ssl\_verify\_fun (⭐107)](https://github.com/deadtrickster/ssl_verify_fun.erl) - Collection of ssl verification functions for Erlang.
 
 ### Third Party APIs
 
@@ -63,7 +63,7 @@
 
 ### Configuration
 
-*   [cr-dotenv (⭐94)](https://github.com/gdotdesign/cr-dotenv) - Loads .env file
+*   [cr-dotenv (⭐96)](https://github.com/gdotdesign/cr-dotenv) - Loads .env file
 
 ### Web Frameworks
 

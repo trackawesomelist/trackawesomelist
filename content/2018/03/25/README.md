@@ -188,7 +188,7 @@
 
 ### Tutorials
 
-*   [TensorFlow Tutorial 3 (⭐9.2k)](https://github.com/Hvass-Labs/TensorFlow-Tutorials) - These tutorials are intended for beginners in Deep Learning and TensorFlow with well-documented code and YouTube videos.
+*   [TensorFlow Tutorial 3 (⭐9.3k)](https://github.com/Hvass-Labs/TensorFlow-Tutorials) - These tutorials are intended for beginners in Deep Learning and TensorFlow with well-documented code and YouTube videos.
 
 ## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

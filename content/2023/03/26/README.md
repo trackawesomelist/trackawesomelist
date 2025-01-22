@@ -10,7 +10,7 @@
 
 ### Command line interface (CLI) / Terminal / Shell
 
-*   [bartender (⭐48)](https://github.com/tobealive/bartender) - Customizable progress indicators for V terminal applications.
+*   [bartender (⭐52)](https://github.com/tobealive/bartender) - Customizable progress indicators for V terminal applications.
 
 ## [2. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
@@ -18,22 +18,22 @@
 
 *   dvm
     *   [asdf-community/asdf-deno](https://github.com/asdf-community/asdf-deno.git) - Deno plugin for [asdf](https://asdf-vm.com/)
-    *   [justjavac/dvm (⭐625)](https://github.com/justjavac/dvm) - Deno Version Manager: manage multiple active Deno versions.
+    *   [justjavac/dvm (⭐642)](https://github.com/justjavac/dvm) - Deno Version Manager: manage multiple active Deno versions.
     *   [axetroy/dvm (⭐167)](https://github.com/axetroy/dvm) - Version manger for Deno without runtime dependencies.
     *   [dvm.cmd (⭐2)](https://github.com/MarkTiedemann/dvm.cmd) - Deno Version Manager for Windows. Written as a single batch file.
-    *   [ghosind/dvm (⭐34)](https://github.com/ghosind/dvm) - A lightweight Deno Version Manager for Linux/MacOS.
+    *   [ghosind/dvm (⭐40)](https://github.com/ghosind/dvm) - A lightweight Deno Version Manager for Linux/MacOS.
 
 ## [3. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md)
 
 ### Swift libraries
 
-*   [secp256k1.swift (⭐103)](https://github.com/GigaBitcoin/secp256k1.swift) - Swift package for secp256k1 applications, includes Elliptic Curve operations, Schnorr, ZKP and more for Bitcoin.
+*   [secp256k1.swift (⭐115)](https://github.com/GigaBitcoin/secp256k1.swift) - Swift package for secp256k1 applications, includes Elliptic Curve operations, Schnorr, ZKP and more for Bitcoin.
 
 ## [4. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/README.md)
 
 ### AppImage developer tools / Deployment tools for .NET Core (Mono) applications
 
-*   [PupNet Deploy (⭐45)](https://github.com/kuiperzone/PupNet-Deploy) - Cross-platform deployment utility which publishes your .NET project and packages it as a ready-to-ship installation file in a single step.
+*   [PupNet Deploy (⭐195)](https://github.com/kuiperzone/PupNet-Deploy) - Cross-platform deployment utility which publishes your .NET project and packages it as a ready-to-ship installation file in a single step.
 
 ## [5. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -71,7 +71,7 @@
 
 ### Motion / Diagnostics
 
-*   [chrisgrieser/nvim-spider (⭐586)](https://github.com/chrisgrieser/nvim-spider) - Use the w, e, b motions like a spider. Considers camelCase and skips insignificant punctuation.
+*   [chrisgrieser/nvim-spider (⭐684)](https://github.com/chrisgrieser/nvim-spider) - Use the w, e, b motions like a spider. Considers camelCase and skips insignificant punctuation.
 
 ---
 

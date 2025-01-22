@@ -10,7 +10,7 @@
 
 ### Libraries/Packages/Scripts / Python
 
-*   [polars-upgrade (⭐59)](https://github.com/MarcoGorelli/polars-upgrade) - Python package that automatically upgrades your Polars code so it's compatible with future versions by [@MarcoGorelli](https://github.com/MarcoGorelli).
+*   [polars-upgrade (⭐62)](https://github.com/MarcoGorelli/polars-upgrade) - Python package that automatically upgrades your Polars code so it's compatible with future versions by [@MarcoGorelli](https://github.com/MarcoGorelli).
 
 ## [2. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
@@ -35,7 +35,7 @@
 *   [Learn about Wardley Maps using Claude](https://claude-chatbot.streamlit.app/) - An AI Application using Claude to help learn Wardley Maps
 *   [Learn about Wardley Maps using OpenAI](https://learnwardleymapping.streamlit.app/) - Streamlit and OpenAI application to learn Wardley Maps.
 *   [Learn about Wardley Maps using OpenAI Assistants](https://learnwardleymapping-gpt.streamlit.app/) - OpenAI Assistant application to help learn Wardley Maps.
-*   [Learn about Wardley Maps using MEMGPT](\(https://stmemgptv2.streamlit.app/\)) - Experimental Streamlit AI Assistant bot tuned on Wardley Mapping. Using MemGPT this AI Assistant has memory is divided into three parts: recall memory, core memory, and archival memory. Full source code and data provided in the [GitHub repo (⭐8)](https://github.com/tractorjuice/STMemGPT). Recall Memory: This is my short-term memory where I keep recent interactions. Core Memory: This is where I store key details about my persona and about you, the user. This gives me a 'personality' and allows for more personalized conversation. Archival Memory: This is my long-term memory where I store information that doesn't fit into core memory but is essential to remember. It's infinite in size, and I usually page through it to find answers to your questions. These parts work together to help the AI Assistant remember prior engagements, learn from them, and refer back when needed.
+*   [Learn about Wardley Maps using MEMGPT](\(https://stmemgptv2.streamlit.app/\)) - Experimental Streamlit AI Assistant bot tuned on Wardley Mapping. Using MemGPT this AI Assistant has memory is divided into three parts: recall memory, core memory, and archival memory. Full source code and data provided in the [GitHub repo (⭐9)](https://github.com/tractorjuice/STMemGPT). Recall Memory: This is my short-term memory where I keep recent interactions. Core Memory: This is where I store key details about my persona and about you, the user. This gives me a 'personality' and allows for more personalized conversation. Archival Memory: This is my long-term memory where I store information that doesn't fit into core memory but is essential to remember. It's infinite in size, and I usually page through it to find answers to your questions. These parts work together to help the AI Assistant remember prior engagements, learn from them, and refer back when needed.
 
 ### Development
 
@@ -53,7 +53,7 @@
 
 ### Julia / FrameWorks
 
-*   [Lucky.jl (⭐6)](https://github.com/oliviermilla/Lucky.jl) - Modular, asynchronous trading engine in pure Julia.
+*   [Lucky.jl (⭐13)](https://github.com/oliviermilla/Lucky.jl) - Modular, asynchronous trading engine in pure Julia.
 
 ## [6. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
 
@@ -80,15 +80,7 @@
 
 ### Misc
 
-*   [xcbeautify (⭐912)](https://github.com/cpisciotta/xcbeautify) - Little beautifier tool for xcodebuild.
-
-### Audio
-
-*   [MusicKit (⭐611)](https://github.com/vprtwn/MusicKit) - A framework for composing and transforming music.
-
-### Chart
-
-*   [SwiftCharts (⭐2.5k)](https://github.com/owlmafia/SwiftCharts) - Highly customizable charts for iOS.
+*   [xcbeautify (⭐994)](https://github.com/cpisciotta/xcbeautify) - Little beautifier tool for xcodebuild.
 
 ### Utility / Barcode
 
@@ -98,8 +90,8 @@
 
 ### Prompt Engineering / Prompt Optimizers
 
-*   \[🔥🔥🔥] [stanfordnlp/dspy (⭐16k)](https://github.com/stanfordnlp/dspy): DSPy: The framework for programming — not prompting — foundation models
-*   [vaibkumr/prompt-optimizer (⭐220)](https://github.com/vaibkumr/prompt-optimizer): Minimize LLM token complexity to save API costs and model computations.
+*   \[🔥🔥🔥] [stanfordnlp/dspy (⭐21k)](https://github.com/stanfordnlp/dspy): DSPy: The framework for programming — not prompting — foundation models
+*   [vaibkumr/prompt-optimizer (⭐248)](https://github.com/vaibkumr/prompt-optimizer): Minimize LLM token complexity to save API costs and model computations.
 *   [PromptPerfect](https://promptperfect.jina.ai/): "Optimize Your Prompts to Perfection"
 
 ### Auxiliary tools and concepts / Deforum
@@ -110,30 +102,30 @@
 
 ### Examples
 
-*   [IgorAntun/node-chat (⭐755)](https://github.com/IgorAntun/node-chat#readme) - Project screenshot. Informative badges. Clear description. Easy installation/use instructions. Live demo.
+*   [IgorAntun/node-chat (⭐764)](https://github.com/IgorAntun/node-chat#readme) - Project screenshot. Informative badges. Clear description. Easy installation/use instructions. Live demo.
 
 ## [11. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Programming Languages Support / Diagnostics
 
-*   [dmmulroy/ts-error-translator.nvim (⭐219)](https://github.com/dmmulroy/ts-error-translator.nvim) - A port of Matt Pocock's ts-error-translator for VSCode for turning messy and confusing TypeScript errors into plain English.
+*   [dmmulroy/ts-error-translator.nvim (⭐273)](https://github.com/dmmulroy/ts-error-translator.nvim) - A port of Matt Pocock's ts-error-translator for VSCode for turning messy and confusing TypeScript errors into plain English.
 
 ## [12. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Rust / General-Purpose Machine Learning
 
-*   [candle (⭐15k)](https://github.com/huggingface/candle) - Candle is a minimalist ML framework for Rust with a focus on performance (including GPU support) and ease of use.
+*   [candle (⭐16k)](https://github.com/huggingface/candle) - Candle is a minimalist ML framework for Rust with a focus on performance (including GPU support) and ease of use.
 
 ### Rust / Deep Learning
 
-*   [tch-rs (⭐4.1k)](https://github.com/LaurentMazare/tch-rs) - Rust bindings for the C++ API of PyTorch
+*   [tch-rs (⭐4.4k)](https://github.com/LaurentMazare/tch-rs) - Rust bindings for the C++ API of PyTorch
 *   [dfdx (⭐1.7k)](https://github.com/coreylowman/dfdx) - Deep learning in Rust, with shape checked tensors and neural networks
-*   [burn (⭐7.9k)](https://github.com/tracel-ai/burn) - Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals
+*   [burn (⭐9.1k)](https://github.com/tracel-ai/burn) - Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals
 
 ### Rust / Natural Language Processing
 
-*   [huggingface/tokenizers (⭐8.7k)](https://github.com/huggingface/tokenizers) - Fast State-of-the-Art Tokenizers optimized for Research and Production
-*   [rust-bert (⭐2.5k)](https://github.com/guillaume-be/rust-bert) - Rust native ready-to-use NLP pipelines and transformer-based models (BERT, DistilBERT, GPT2,...)
+*   [huggingface/tokenizers (⭐9.1k)](https://github.com/huggingface/tokenizers) - Fast State-of-the-Art Tokenizers optimized for Research and Production
+*   [rust-bert (⭐2.7k)](https://github.com/guillaume-be/rust-bert) - Rust native ready-to-use NLP pipelines and transformer-based models (BERT, DistilBERT, GPT2,...)
 
 ### Tools / Misc
 

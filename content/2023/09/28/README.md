@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 28, 2023
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -105,7 +105,7 @@
 
 ### RSS services powered by utilizing GitHub / Outline Processor Markup Language
 
-*   [rssTea (⭐65)](https://github.com/avadhesh18/rssTea): a RSS reader and Podcast player Progressive Web App running on GitHub Actions <sup>[1375](https://t.me/s/aboutrss/1375)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/avadhesh18/rssTea)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+*   [rssTea (⭐73)](https://github.com/avadhesh18/rssTea): a RSS reader and Podcast player Progressive Web App running on GitHub Actions <sup>[1375](https://t.me/s/aboutrss/1375)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/avadhesh18/rssTea)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
 ## [3. Awesome Minecraft](/content/bs-community/awesome-minecraft/README.md)
 
@@ -117,42 +117,21 @@
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-typescript-transform (⭐13)](https://github.com/herberttn/vite-plugin-typescript-transform) - Applies the TypeScript compiler during Vite's transform build phase.
+*   [vite-plugin-typescript-transform (⭐16)](https://github.com/herberttn/vite-plugin-typescript-transform) - Applies the TypeScript compiler during Vite's transform build phase.
 
-## [5. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/README.md)
-
-### **LangChain features and related libraries** / DSPy optimizer
-
-*   [LangSmith](https://blog.langchain.dev/announcing-langsmith/) Platform for debugging, testing, evaluating. \[Jul 2023]
-    <!-- <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/langchain_debugging.png" width="150" /> -->
-
-### **A Taxonomy of Natural Language Processing** / **GPT series release date**
-
-*   An overview of different fields of study and recent developments in NLP. [doc](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/files/taxonomy-nlp.pdf) [ref](https://towardsdatascience.com/a-taxonomy-of-natural-language-processing-dfc790cb4c01) \[24 Sep 2023]
-
-    “Exploring the Landscape of Natural Language Processing Research” [ref](https://arxiv.org/abs/2307.10652) \[20 Jul 2023]
-
-    <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/taxonomy-nlp.png" width="650" />
-
-    NLP taxonomy
-
-    <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/taxonomy-nlp2.png" width="650" />
-
-    Distribution of the number of papers by most popular fields of study from 2002 to 2022
-
-## [6. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [5. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Utilities / Clipboard Tools
 
 *   [Boop](https://boop.okat.best/) - Snippet tool that provides various functionalities like JSON formatting, MD5 Checksum, reverse string, encode, and much more. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/IvanMathy/Boop)
 
-## [7. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
+## [6. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
 
 ### eBPF Workflow: Tools and Utilities / Aya
 
-*   [Ebpfguard (⭐270)](https://github.com/deepfence/ebpfguard) - Rust library for writing Linux security policies using eBPF.
+*   [Ebpfguard (⭐296)](https://github.com/deepfence/ebpfguard) - Rust library for writing Linux security policies using eBPF.
 
-## [8. Awesome Music](/content/ciconia/awesome-music/README.md)
+## [7. Awesome Music](/content/ciconia/awesome-music/README.md)
 
 ### Audio Editing
 
@@ -162,11 +141,11 @@
 
 *   [mutwo](https://mutwo-org.github.io/) - a Python library for composition that outputs notation, MIDI or audio files and that provides a generalized model to describe time-based structures.
 *   [pyo](https://belangeo.github.io/pyo/) - a Python module to help digital signal processing script creation.
-*   [slippery chicken (⭐67)](https://github.com/mdedwards/slippery-chicken) - a Common Lisp environment for composition building on CLM, CMN, CM, MusicXML and Lilypond for score, sound file, and/or MIDI file outputs.
+*   [slippery chicken (⭐72)](https://github.com/mdedwards/slippery-chicken) - a Common Lisp environment for composition building on CLM, CMN, CM, MusicXML and Lilypond for score, sound file, and/or MIDI file outputs.
 
-## [9. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/README.md)
+## [8. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/README.md)
 
-### Popular Science Books / Monograph
+### Popular Science / Lecture Videos Playlist
 
 *   [Teuscher. Alan Turing: Life and Legacy of a Great. Springer](https://link.springer.com/book/10.1007/978-3-662-05642-4) - Essays which spans the entire rich spectrum of Turing's life, research work and legacy.
 

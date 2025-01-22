@@ -123,7 +123,7 @@
 
 ### Tools
 
-*   [ipfsecret (⭐22)](https://github.com/shlemph/ipfsecret) - Encrypt and decrypt IPFS files with a secret passphrase.
+*   [ipfsecret (⭐26)](https://github.com/shlemph/ipfsecret) - Encrypt and decrypt IPFS files with a secret passphrase.
 
 ## [6. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
@@ -147,11 +147,11 @@
 
 ### Status Bar
 
-*   [gitmux (⭐598)](https://github.com/arl/gitmux) Show Git status in tmux status bar
+*   [gitmux (⭐639)](https://github.com/arl/gitmux) Show Git status in tmux status bar
 
 ### Plugins
 
-*   [tmux-spotify (⭐106)](https://github.com/xamut/tmux-spotify) Show a nice menu to manage Spotify application
+*   [tmux-spotify (⭐113)](https://github.com/xamut/tmux-spotify) Show a nice menu to manage Spotify application
 
 ## [9. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/README.md)
 

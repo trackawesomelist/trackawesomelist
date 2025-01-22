@@ -22,11 +22,11 @@
 
 ### UI
 
-*   [Timeline Tile (⭐703)](https://github.com/JHBitencourt/timeline_tile) <!--stargazers:JHBitencourt/timeline_tile--> - Tile to help build beautiful and customisable timelines by [Julio Bitencourt](https://github.com/JHBitencourt).
+*   [Timeline Tile (⭐758)](https://github.com/JHBitencourt/timeline_tile) <!--stargazers:JHBitencourt/timeline_tile--> - Tile to help build beautiful and customisable timelines by [Julio Bitencourt](https://github.com/JHBitencourt).
 
 ### Templates / Preferences
 
-*   [Beautiful Timelines (⭐308)](https://github.com/JHBitencourt/beautiful_timelines) <!--stargazers:JHBitencourt/beautiful_timelines--> - A set of beautiful timelines by [Julio Bitencourt](https://github.com/JHBitencourt).
+*   [Beautiful Timelines (⭐328)](https://github.com/JHBitencourt/beautiful_timelines) <!--stargazers:JHBitencourt/beautiful_timelines--> - A set of beautiful timelines by [Julio Bitencourt](https://github.com/JHBitencourt).
 
 ## [4. Awesome4girls](/content/cristianoliveira/awesome4girls/README.md)
 
@@ -119,13 +119,13 @@
 
 ### Software / Inventory Management
 
-*   [Inventree](https://inventree.readthedocs.io/en/latest/) - InvenTree is an open-source inventory management system which provides intuitive parts management and stock control. ([Demo](https://inventree.org/demo), [Source Code (⭐4k)](https://github.com/inventree/InvenTree)) `MIT` `Python`
+*   [Inventree](https://inventree.readthedocs.io/en/latest/) - InvenTree is an open-source inventory management system which provides intuitive parts management and stock control. ([Demo](https://inventree.org/demo), [Source Code (⭐4.6k)](https://github.com/inventree/InvenTree)) `MIT` `Python`
 
 ## [6. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### UI Libraries, Components & Templates
 
-*   🧩 [Litepie Date picker (⭐372)](https://github.com/kenhyuwa/litepie-datepicker) - A date range picker component for Vue.js and Tailwind CSS.
+*   🧩 [Litepie Date picker (⭐374)](https://github.com/kenhyuwa/litepie-datepicker) - A date range picker component for Vue.js and Tailwind CSS.
 
 ## [7. Awesome D](/content/dlang-community/awesome-d/README.md)
 
@@ -137,13 +137,13 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [River (⭐4.9k)](https://github.com/online-ml/river): A framework for general purpose online machine learning.
+*   [River (⭐5.1k)](https://github.com/online-ml/river): A framework for general purpose online machine learning.
 
 ## [9. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Testing
 
-*   [Quality Assurance Roadmap (⭐1.8k)](https://github.com/fityanos/awesome-quality-assurance-roadmap#readme) - How to start & build a career in software testing.
+*   [Quality Assurance Roadmap (⭐1.9k)](https://github.com/fityanos/awesome-quality-assurance-roadmap#readme) - How to start & build a career in software testing.
 
 ## [10. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 

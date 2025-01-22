@@ -28,7 +28,7 @@
 
 ### Animation / Redux / ELM / Dependency Injection
 
-*   [Drawing Animation (⭐480)](https://github.com/biocarl/drawing_animation) <!--stargazers:biocarl/drawing_animation--> - Create drawing line animations based on SVG path data by [Carl Hauck](https://twitter.com/cahaucks)
+*   [Drawing Animation (⭐490)](https://github.com/biocarl/drawing_animation) <!--stargazers:biocarl/drawing_animation--> - Create drawing line animations based on SVG path data by [Carl Hauck](https://twitter.com/cahaucks)
 
 ## [4. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
 
@@ -89,7 +89,7 @@
 
 ### Camera
 
-*   [CameraKit-iOS (⭐676)](https://github.com/CameraKit/camerakit-ios) - Massively increase camera performance and ease of use in your next project.
+*   [CameraKit-iOS (⭐694)](https://github.com/CameraKit/camerakit-ios) - Massively increase camera performance and ease of use in your next project.
 
 ## [12. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
@@ -99,13 +99,9 @@
 
 ## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
-### Resources / Examples
-
-*   [vue-todo-list (⭐13)](https://github.com/alexander-elgin/vue-todo-list) ToDo List sample app based on Vue + Vuex + Vuetify + Vee-Validate
-
 ### Projects Using Vue.js / Open Source
 
-*   [Vue Org Chart (⭐322)](https://github.com/Hoogkamer/vue-org-chart) - Manage and publish your interactive organization chart (orgchart), free and no webserver required.
+*   [Vue Org Chart (⭐331)](https://github.com/Hoogkamer/vue-org-chart) - Manage and publish your interactive organization chart (orgchart), free and no webserver required.
 
 ## [14. Awesome Neuroscience](/content/analyticalmonk/awesome-neuroscience/README.md)
 

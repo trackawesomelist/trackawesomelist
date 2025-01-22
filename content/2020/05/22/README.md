@@ -10,13 +10,13 @@
 
 ### QA Tools / Runner
 
-*   [JS-Beautifier (⭐8.5k)](https://github.com/beautify-web/js-beautify) - Npm cli and library to format JS code.
+*   [JS-Beautifier (⭐8.6k)](https://github.com/beautify-web/js-beautify) - Npm cli and library to format JS code.
 
 ## [2. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### .NET / General-Purpose Machine Learning
 
-*   [MxNet.Sharp (⭐148)](https://github.com/tech-quantum/MxNet.Sharp) - .NET Standard bindings for Apache MxNet with Imperative, Symbolic and Gluon Interface for developing, training and deploying Machine Learning models in C#. <https://mxnet.tech-quantum.com/>
+*   [MxNet.Sharp (⭐149)](https://github.com/tech-quantum/MxNet.Sharp) - .NET Standard bindings for Apache MxNet with Imperative, Symbolic and Gluon Interface for developing, training and deploying Machine Learning models in C#. <https://mxnet.tech-quantum.com/>
 
 ## [3. Awesome Open Source Supporters](/content/zachflower/awesome-open-source-supporters/README.md)
 
@@ -28,11 +28,11 @@
 
 ### Community Extensions
 
-*   [zonaut/keycloak-extensions (⭐207)](https://github.com/zonaut/keycloak-extensions)
+*   [zonaut/keycloak-extensions (⭐216)](https://github.com/zonaut/keycloak-extensions)
 
 ### Integrations
 
-*   [python-keycloak (⭐690)](https://github.com/marcospereirampj/python-keycloak)
+*   [python-keycloak (⭐751)](https://github.com/marcospereirampj/python-keycloak)
 
 ### Themes
 
@@ -157,7 +157,7 @@
 
 ### Just for Fun / Image Conversion
 
-*   [ricksay (⭐55)](https://github.com/roma-guru/ricksay) - Quotes from Rick and Morty.
+*   [ricksay (⭐61)](https://github.com/roma-guru/ricksay) - Quotes from Rick and Morty.
 
 ## [14. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 

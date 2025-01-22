@@ -1,18 +1,12 @@
 # Awesome List Updates on Apr 29, 2023
 
-4 awesome lists updated today.
+3 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Projects Using Vue.js / Open Source
-
-*   [vue-daisyui-theme-manager (⭐10)](https://github.com/kaandesu/vue-daisyui-theme-manager) - A Vue3 (with Typescript) plugin that allows you to change DaisyUI themes during runtime. As well as, setting default light and dark themes, and giving the option to match the web app theme with the system.
-
-## [2. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
+## [1. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
 
 ### LangChain Framework
 
@@ -78,17 +72,17 @@
 *   [Awesome LLM (⭐17k)](https://github.com/Hannibal046/Awesome-LLM): Awesome-LLM: a curated list of Large Language Model resources. ![GitHub Repo stars](https://img.shields.io/github/stars/Hannibal046/Awesome-LLM?style=social)
 *   [LLaMA Cult and More (⭐422)](https://github.com/shm007g/LLaMA-Cult-and-More): Keeping Track of Affordable LLMs, 🦙 Cult and More ![GitHub Repo stars](https://img.shields.io/github/stars/shm007g/LLaMA-Cult-and-More?style=social)
 
-## [3. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [2. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### Image Synthesis / Multi-agents
 
-*   [deep-floyd/IF (⭐7.6k)](https://github.com/deep-floyd/IF): open-source text-to-image model with a high degree of photorealism and language understanding by Stability.AI
+*   [deep-floyd/IF (⭐7.7k)](https://github.com/deep-floyd/IF): open-source text-to-image model with a high degree of photorealism and language understanding by Stability.AI
 
 ### Image Segmentation / Deforum
 
-*   [AudioGPT | arxiv](https://arxiv.org/abs/2304.12995): Understanding and Generating Speech, Music, Sound, and Talking Head [\[code\] (⭐9.9k)](https://github.com/AIGC-Audio/AudioGPT) [\[demo\]](https://huggingface.co/spaces/AIGC-Audio/AudioGPT)
+*   [AudioGPT | arxiv](https://arxiv.org/abs/2304.12995): Understanding and Generating Speech, Music, Sound, and Talking Head [\[code\] (⭐10k)](https://github.com/AIGC-Audio/AudioGPT) [\[demo\]](https://huggingface.co/spaces/AIGC-Audio/AudioGPT)
 
-## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Artifact Repos
 

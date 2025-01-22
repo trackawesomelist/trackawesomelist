@@ -34,43 +34,43 @@
 
 ### FPS
 
-*   [ClassiCube (⭐1.2k)](https://github.com/ClassiCube/ClassiCube) - Minecraft Classic compatible client written in C from scratch. :flower\_playing\_cards:
+*   [ClassiCube (⭐1.4k)](https://github.com/ClassiCube/ClassiCube) - Minecraft Classic compatible client written in C from scratch. :flower\_playing\_cards:
 
 ### Online
 
 *   [2004scape](https://2004scape.org) - A free & open-source remake of 2004 era RuneScape 2. :flower\_playing\_cards:
 *   [OpenRSC](https://gitlab.com/open-runescape-classic/core) - Open source accurate RuneScape Classic (2001-2003) game server in Java, based on recorded data and videos. :flower\_playing\_cards:
-*   [RSC-C (⭐67)](https://github.com/2003scape/rsc-c) - Rewrite of the RuneScape Classic (2001-2003) game client in portable C. :flower\_playing\_cards:
+*   [RSC-C (⭐75)](https://github.com/2003scape/rsc-c) - Rewrite of the RuneScape Classic (2001-2003) game client in portable C. :flower\_playing\_cards:
 
 ## [6. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Projects
 
-*   [Kiomet (⭐64)](https://github.com/SoftbearStudios/kiomet) - An online real-time strategy game in which you expand your territory by capturing towers.
-*   [PinePods (⭐105)](https://github.com/madeofpendletonwool/PinePods) - PinePods is a Rust based podcast management system that manages podcasts with multi-user support and relies on a central database with clients to connect to it.
-*   [0721 (⭐9)](https://github.com/langyo/0721) - The engine of image hosting written in Rust.
-*   [Hikari (⭐18)](https://github.com/celestia-island/hikari) - The Frontend of Everything.
-*   [simply-view-image-for-python-debugging (⭐47)](https://github.com/elazarcoh/simply-view-image-for-python-debugging?tab=readme-ov-file) - Visual studio code extension simply view the image of the image variables when debugging python.
-*   [Mindsweeper (⭐62)](https://github.com/AlexBuz/mindsweeper) - A principled take on minesweeper, [Live Demo](https://alexbuz.github.io/mindsweeper/).
-*   [scap-rs (⭐15)](https://github.com/emo-crab/scap-rs) - National Vulnerability Database (NVD) implemented by Rust, [Live Demo](https://scap.kali-team.cn/).
-*   [Sentry Relay (⭐297)](https://github.com/getsentry/relay) - The Sentry Relay is a service that pushes some functionality from the Sentry SDKs as well as the Sentry server into a proxy process.
-*   [Syre (⭐10)](https://github.com/syre-data/syre) - Scientific data management and insights.
-*   [candle-wasm-examples (⭐14k)](https://github.com/huggingface/candle) - Candle is a minimalist ML framework for Rust with a focus on performance (including GPU support) and ease of use. Try our online demos: [whisper](https://huggingface.co/spaces/lmz/candle-whisper), [LLaMA2](https://huggingface.co/spaces/lmz/candle-llama2), [T5](https://huggingface.co/spaces/radames/Candle-T5-Generation-Wasm), [yolo](https://huggingface.co/spaces/lmz/candle-yolo), [Segment
+*   [Kiomet (⭐91)](https://github.com/SoftbearStudios/kiomet) - An online real-time strategy game in which you expand your territory by capturing towers.
+*   [PinePods (⭐312)](https://github.com/madeofpendletonwool/PinePods) - PinePods is a Rust based podcast management system that manages podcasts with multi-user support and relies on a central database with clients to connect to it.
+*   [0721 (⭐10)](https://github.com/langyo/0721) - The engine of image hosting written in Rust.
+*   [Hikari (⭐20)](https://github.com/celestia-island/hikari) - The Frontend of Everything.
+*   [simply-view-image-for-python-debugging (⭐59)](https://github.com/elazarcoh/simply-view-image-for-python-debugging?tab=readme-ov-file) - Visual studio code extension simply view the image of the image variables when debugging python.
+*   [Mindsweeper (⭐71)](https://github.com/AlexBuz/mindsweeper) - A principled take on minesweeper, [Live Demo](https://alexbuz.github.io/mindsweeper/).
+*   [scap-rs (⭐18)](https://github.com/emo-crab/scap-rs) - National Vulnerability Database (NVD) implemented by Rust, [Live Demo](https://scap.kali-team.cn/).
+*   [Sentry Relay (⭐330)](https://github.com/getsentry/relay) - The Sentry Relay is a service that pushes some functionality from the Sentry SDKs as well as the Sentry server into a proxy process.
+*   [Syre (⭐16)](https://github.com/syre-data/syre) - Scientific data management and insights.
+*   [candle-wasm-examples (⭐16k)](https://github.com/huggingface/candle) - Candle is a minimalist ML framework for Rust with a focus on performance (including GPU support) and ease of use. Try our online demos: [whisper](https://huggingface.co/spaces/lmz/candle-whisper), [LLaMA2](https://huggingface.co/spaces/lmz/candle-llama2), [T5](https://huggingface.co/spaces/radames/Candle-T5-Generation-Wasm), [yolo](https://huggingface.co/spaces/lmz/candle-yolo), [Segment
     Anything](https://huggingface.co/spaces/radames/candle-segment-anything-wasm).
-*   [chipbox (⭐40)](https://github.com/chipnertkj/chipbox) - chipbox is an open-source desktop DAW written in Rust.
-*   [Taxy (⭐54)](https://github.com/picoHz/taxy/tree/main) - A reverse proxy server with built-in WebUI, supporting TCP/HTTP/TLS/WebSocket, written in Rust.
-*   [Proxelar (⭐357)](https://github.com/emanuele-em/proxelar) - Rust-based Man in the Middle proxy, an early-stage project aimed at providing visibility into network traffic.
-*   [diff.rs (⭐85)](https://github.com/xfbs/diff.rs) - Web application to render a diff between Rust crate versions. Implemented in Yew, runs fully in the browser as WebAssembly, [Live Demo](https://diff.rs).
+*   [chipbox (⭐92)](https://github.com/chipnertkj/chipbox) - chipbox is an open-source desktop DAW written in Rust.
+*   [Taxy (⭐109)](https://github.com/picoHz/taxy/tree/main) - A reverse proxy server with built-in WebUI, supporting TCP/HTTP/TLS/WebSocket, written in Rust.
+*   [Proxelar (⭐420)](https://github.com/emanuele-em/proxelar) - Rust-based Man in the Middle proxy, an early-stage project aimed at providing visibility into network traffic.
+*   [diff.rs (⭐113)](https://github.com/xfbs/diff.rs) - Web application to render a diff between Rust crate versions. Implemented in Yew, runs fully in the browser as WebAssembly, [Live Demo](https://diff.rs).
 
 ### Alternatives / Frameworks
 
-*   [Leptos (⭐15k)](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
+*   [Leptos (⭐17k)](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
 
 ## [7. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### Blogs / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [angular experts](https://angularexperts.io/blog) - Learn all about Angular, NgRx, RxJs & NX and advance your skills with guides, in-depth content and actionable tips and tricks!
+*   [angular experts](https://angularexperts.io/blog) - Learn all about Angular, NgRx, RxJS & NX and advance your skills with guides, in-depth content and actionable tips and tricks!
 *   [just angular](https://justangular.com/) - Shares the newest and most important updates about Angular, along with useful tips and tricks.
 *   [angular minds](https://www.angularminds.com/blog)
 *   [angular architects](https://www.angulararchitects.io/en/blog/)
@@ -79,19 +79,19 @@
 ### DOM / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ngx-resize-observer (⭐17)](https://github.com/fidian/ngx-resize-observer) - Angular 8+ module for detecting when elements are resized.
-*   [ng-resize-observer (⭐22)](https://github.com/ChristianKohler/ng-resize-observer)
+*   [ng-resize-observer (⭐23)](https://github.com/ChristianKohler/ng-resize-observer)
 *   [ngx-mutation-observer (⭐5)](https://github.com/fidian/ngx-mutation-observer) - Get Angular 8+ events fired when an element is mutated in the DOM.
 *   [ngx-visibility (⭐11)](https://github.com/fidian/ngx-visibility) - Angular module that detects when elements are visible. Uses IntersectionObserver.
-*   [ng-in-viewport (⭐224)](https://github.com/k3nsei/ng-in-viewport) - Allows us to check if an element is within the browsers visual viewport.
+*   [ng-in-viewport (⭐226)](https://github.com/k3nsei/ng-in-viewport) - Allows us to check if an element is within the browsers visual viewport.
 
 ### Scroll / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-ui-scroll (⭐222)](https://github.com/dhilt/ngx-ui-scroll) - Virtual/infinite scroll for Angular.
-*   [ngx-page-scroll (⭐477)](https://github.com/Nolanus/ngx-page-scroll) - Animated scrolling functionality for Angular written in pure TypeScript.
+*   [ngx-ui-scroll (⭐224)](https://github.com/dhilt/ngx-ui-scroll) - Virtual/infinite scroll for Angular.
+*   [ngx-page-scroll (⭐478)](https://github.com/Nolanus/ngx-page-scroll) - Animated scrolling functionality for Angular written in pure TypeScript.
 
 ## [8. Awesome Ci](/content/ligurio/awesome-ci/README.md)
 
-- Name: [Laminar CI (⭐289)](https://github.com/ohwgiles/laminar)
+- Name: [Laminar CI (⭐299)](https://github.com/ohwgiles/laminar)
 
   Description: Fast and lightweight Continuous Integration
 

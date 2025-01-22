@@ -78,7 +78,7 @@
 
 ### DSLs
 
-*   [document-builder (⭐95)](https://github.com/craigburke/document-builder) - A document builder for Groovy for PDF or Word documents.
+*   [document-builder (⭐94)](https://github.com/craigburke/document-builder) - A document builder for Groovy for PDF or Word documents.
 
 ## [9. Awesome Atom](/content/mehcode/awesome-atom/README.md)
 
@@ -96,8 +96,8 @@
 
 ### Logging
 
-*   [futile.logger (⭐150)](https://github.com/zatonovo/futile.logger) - A logging package in R similar to log4j
-*   [log4r (⭐90)](https://github.com/johnmyleswhite/log4r) - A log4j derivative for R
+*   [futile.logger (⭐151)](https://github.com/zatonovo/futile.logger) - A logging package in R similar to log4j
+*   [log4r (⭐93)](https://github.com/johnmyleswhite/log4r) - A log4j derivative for R
 *   [logging](https://cran.r-project.org/web/packages/logging/index.html) - A logging package emulating the python logging package.
 
 ## [12. Awesome Vorpal](/content/vorpaljs/awesome-vorpal/README.md)

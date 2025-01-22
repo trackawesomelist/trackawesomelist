@@ -10,19 +10,19 @@
 
 ### Deployment / Code Coverage
 
-*   [Cross platform Chocolatey CLI to build and publish packages (⭐60)](https://github.com/crazy-max/ghaction-chocolatey)
+*   [Cross platform Chocolatey CLI to build and publish packages (⭐73)](https://github.com/crazy-max/ghaction-chocolatey)
 
 ## [2. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
 
 ### Static type checkers
 
-*   [pyright (⭐12k)](https://github.com/Microsoft/pyright) - Fast type checker meant for large Python source bases. It can run in a “watch” mode and performs fast incremental updates when files are modified.
+*   [pyright (⭐14k)](https://github.com/Microsoft/pyright) - Fast type checker meant for large Python source bases. It can run in a “watch” mode and performs fast incremental updates when files are modified.
 
 ### Stub packages
 
-*   [django-stubs (⭐1.5k)](https://github.com/typeddjango/django-stubs) - Stubs for [Django (⭐78k)](https://github.com/django/django).
-*   [djangorestframework-stubs (⭐421)](https://github.com/typeddjango/djangorestframework-stubs) - Stubs for [DRF (⭐28k)](https://github.com/encode/django-rest-framework).
-*   [grpc-stubs (⭐35)](https://github.com/shabbyrobe/grpc-stubs) - Stubs for [grpc (⭐41k)](https://github.com/grpc/grpc).
+*   [django-stubs (⭐1.6k)](https://github.com/typeddjango/django-stubs) - Stubs for [Django (⭐81k)](https://github.com/django/django).
+*   [djangorestframework-stubs (⭐459)](https://github.com/typeddjango/djangorestframework-stubs) - Stubs for [DRF (⭐29k)](https://github.com/encode/django-rest-framework).
+*   [grpc-stubs (⭐37)](https://github.com/shabbyrobe/grpc-stubs) - Stubs for [grpc (⭐42k)](https://github.com/grpc/grpc).
 
 ### Tools / Linters
 
@@ -30,20 +30,20 @@
 
 ### Tools / Testing
 
-*   [pytest-mypy-plugins (⭐97)](https://github.com/typeddjango/pytest-mypy-plugins) - Pytest plugin for testing mypy types, stubs, and plugins.
+*   [pytest-mypy-plugins (⭐109)](https://github.com/typeddjango/pytest-mypy-plugins) - Pytest plugin for testing mypy types, stubs, and plugins.
 
 ### Tools / Working with types
 
-*   [mypy-protobuf (⭐632)](https://github.com/dropbox/mypy-protobuf) - Tool to generate mypy stubs from protobufs.
+*   [mypy-protobuf (⭐660)](https://github.com/dropbox/mypy-protobuf) - Tool to generate mypy stubs from protobufs.
 
 ### Tools / Mypy plugins
 
-*   [mypy-zope (⭐38)](https://github.com/Shoobx/mypy-zope) - Plugin for [zope.interface](https://zopeinterface.readthedocs.io/en/latest/) support.
-*   [mypy/plugins (⭐18k)](https://github.com/python/mypy/tree/master/mypy/plugins) - Plugins already integrated into mypy.
+*   [mypy-zope (⭐39)](https://github.com/Shoobx/mypy-zope) - Plugin for [zope.interface](https://zopeinterface.readthedocs.io/en/latest/) support.
+*   [mypy/plugins (⭐19k)](https://github.com/python/mypy/tree/master/mypy/plugins) - Plugins already integrated into mypy.
 
 ### Integrations / Mypy plugins
 
-*   [vim-mypy (⭐98)](https://github.com/Integralist/vim-mypy) - Mypy integration for Vim.
+*   [vim-mypy (⭐97)](https://github.com/Integralist/vim-mypy) - Mypy integration for Vim.
 
 ### Articles / Third-party articles
 
@@ -56,8 +56,8 @@
 
 ### Related / Third-party articles
 
-*   [awesome-python (⭐212k)](https://github.com/vinta/awesome-python) - Curated list of awesome Python frameworks, libraries, software and resources.
-*   [python-typecheckers (⭐60)](https://github.com/ethanhs/python-typecheckers) - List of Python type checkers: static and runtime.
+*   [awesome-python (⭐227k)](https://github.com/vinta/awesome-python) - Curated list of awesome Python frameworks, libraries, software and resources.
+*   [python-typecheckers (⭐63)](https://github.com/ethanhs/python-typecheckers) - List of Python type checkers: static and runtime.
 
 ## [3. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 

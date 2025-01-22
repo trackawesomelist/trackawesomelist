@@ -8,15 +8,15 @@
 
 ## [1. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
-### 3D / Godot 4.2
+### 3D / Godot 4
 
-*   [LibreAim (⭐96)](https://github.com/Nokorpo/LibreAim) - Libre FPS aim trainer made with Godot.
+*   [LibreAim (⭐126)](https://github.com/Nokorpo/LibreAim) - Libre FPS aim trainer made with Godot.
 
 ## [2. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
 ### Tools and session management
 
-*   [sesh (⭐476)](https://github.com/joshmedeski/sesh) Smart session manager for the terminal
+*   [sesh (⭐758)](https://github.com/joshmedeski/sesh) Smart session manager for the terminal
 
 ---
 

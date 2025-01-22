@@ -10,7 +10,7 @@
 
 ### Code Analysis and Metrics
 
-*   [Traceroute (⭐895)](https://github.com/amatsuda/traceroute) - A Rake task gem that helps you find the dead routes and actions for your Rails 3+ app
+*   [Traceroute (⭐901)](https://github.com/amatsuda/traceroute) - A Rake task gem that helps you find the dead routes and actions for your Rails 3+ app
 
 ## [2. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/README.md)
 
@@ -20,7 +20,7 @@
 
 ## [3. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
 
-### Misc
+### Misc / Commerical Tools
 
 *   [Open Cognition Project](http://wiki.opencog.org/w/The_Open_Cognition_Project) - We're undertaking a serious effort to build a thinking machine
 *   [AITopics](http://aitopics.org/) - Large aggregation of AI resources

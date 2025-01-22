@@ -22,7 +22,7 @@
 
 ### Science Logology / Laboratory Automation
 
-*   [Organic synthesis in a modular robotic system driven by a chemical programming language](https://www.science.org/doi/full/10.1126/science.aav2211) - ***Science***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=13920677955690815682\&hl=en\&as_sdt=0,5)]. \[[Preprint](https://www.chem.gla.ac.uk/cronin/images/pubs/387-Steiner-ScienceJan19.full.pdf)]. \[[Perspective: Democratizing synthesis by automation](https://www.science.org/doi/10.1126/science.aav8816)]. This paper develops an autonomous compiler and robotic laboratory platform to synthesize organic compounds on the basis of standardized methods descriptions. The platform comprises conventional equipment such as round-bottom flasks, separatory funnels, and a rotary evaporator to maximize its compatibility with extant literature. The authors showcase the system with short syntheses of three common pharmaceuticals that proceeded comparably to manual synthesis.
+*   [Organic synthesis in a modular robotic system driven by a chemical programming language](https://www.science.org/doi/full/10.1126/science.aav2211) - ***Science***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=13920677955690815682)]. \[[Preprint](https://www.chem.gla.ac.uk/cronin/images/pubs/387-Steiner-ScienceJan19.full.pdf)]. \[[Perspective: Democratizing synthesis by automation](https://www.science.org/doi/10.1126/science.aav8816)]. This paper develops an autonomous compiler and robotic laboratory platform to synthesize organic compounds on the basis of standardized methods descriptions. The platform comprises conventional equipment such as round-bottom flasks, separatory funnels, and a rotary evaporator to maximize its compatibility with extant literature. The authors showcase the system with short syntheses of three common pharmaceuticals that proceeded comparably to manual synthesis.
 
 ## [4. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
@@ -34,12 +34,12 @@
 
 ### Applications / Blockchain
 
-*   [Hyperlane (⭐260)](https://github.com/hyperlane-xyz/hyperlane-monorepo) - Framework for permissionless, modular interoperability. The offchain clients are written in Rust, as well as the smart contracts for Solana VM and CosmWasm.
+*   [Hyperlane (⭐357)](https://github.com/hyperlane-xyz/hyperlane-monorepo) - Framework for permissionless, modular interoperability. The offchain clients are written in Rust, as well as the smart contracts for Solana VM and CosmWasm.
 
 ### Development tools / Web Servers
 
-*   [fzf-make (⭐65)](https://github.com/kyu08/fzf-make) \[[fzf-make](https://crates.io/crates/fzf-make)] - A command line tool that executes make target using fuzzy finder with preview window. [![crates.io](https://img.shields.io/crates/v/fzf-make?style=flatflat-square)](https://crates.io/crates/fzf-make)
-*   [typos (⭐2.4k)](https://github.com/crate-ci/typos) \[[typos-cli](https://crates.io/crates/typos-cli)] - Source code spell checker
+*   [fzf-make (⭐146)](https://github.com/kyu08/fzf-make) \[[fzf-make](https://crates.io/crates/fzf-make)] - A command line tool that executes make target using fuzzy finder with preview window. [![crates.io](https://img.shields.io/crates/v/fzf-make?style=flatflat-square)](https://crates.io/crates/fzf-make)
+*   [typos (⭐2.8k)](https://github.com/crate-ci/typos) \[[typos-cli](https://crates.io/crates/typos-cli)] - Source code spell checker
 
 ## [6. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/README.md)
 
@@ -74,7 +74,7 @@
 
 ### Tools / Community providers
 
-*   [cf-terraforming (⭐931)](https://github.com/cloudflare/cf-terraforming) A command line utility to facilitate terraforming your existing Cloudflare resources.
+*   [cf-terraforming (⭐1k)](https://github.com/cloudflare/cf-terraforming) A command line utility to facilitate terraforming your existing Cloudflare resources.
 
 ---
 

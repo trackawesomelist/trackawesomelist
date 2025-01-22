@@ -17,7 +17,7 @@
 
 ### Data Formats
 
-*   [toml.cr (⭐58)](https://github.com/crystal-community/toml.cr) - TOML parser
+*   [toml.cr (⭐60)](https://github.com/crystal-community/toml.cr) - TOML parser
 
 ## [3. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
@@ -38,7 +38,7 @@
 
 ### Images, Maps and Charts / Paid Books
 
-*   [BackStretch (⭐4k)](https://github.com/jquery-backstretch/jquery-backstretch) - jQuery plugin that allows you to add a dynamically-resized, slideshow-capable background image to any page or element.
+*   [BackStretch (⭐3.9k)](https://github.com/jquery-backstretch/jquery-backstretch) - jQuery plugin that allows you to add a dynamically-resized, slideshow-capable background image to any page or element.
 
 ## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
@@ -71,7 +71,7 @@
 
 *   [MEAN.JS (⭐4.9k)](https://github.com/meanjs/mean) - Full stack based on MongoDB, Express, AngularJS, and Node.js
 *   [MERN (mern-starter) (⭐5.2k)](https://github.com/Hashnode/mern-starter) - Full stack based on MongoDB, Express, React and Node.js
-*   [Meteor (⭐44k)](https://github.com/meteor/meteor) - Real-time/reactive client-server framework based on MongoDB, with lots of features
+*   [Meteor (⭐45k)](https://github.com/meteor/meteor) - Real-time/reactive client-server framework based on MongoDB, with lots of features
 
 ### Libraries / Julia
 
@@ -79,11 +79,11 @@
 
 ### Libraries / Python
 
-*   [MongoEngine (⭐4.2k)](https://github.com/MongoEngine/mongoengine) - ODM on top of PyMongo
+*   [MongoEngine (⭐4.3k)](https://github.com/MongoEngine/mongoengine) - ODM on top of PyMongo
 
 ### Libraries / R
 
-*   [mongolite (⭐285)](https://github.com/jeroen/mongolite) - Fast and simple client for R
+*   [mongolite (⭐286)](https://github.com/jeroen/mongolite) - Fast and simple client for R
 
 ### Libraries / Ruby
 
@@ -102,7 +102,7 @@
 
 ### Tools / Deployment
 
-*   [Helm Chart (⭐16k)](https://github.com/helm/charts/tree/master/stable/mongodb)
+*   [Helm Chart (⭐15k)](https://github.com/helm/charts/tree/master/stable/mongodb)
 
 ### Tools / Desktop
 
@@ -110,10 +110,10 @@
 
 ### Tools / Development
 
-*   [mgodatagen (⭐322)](https://github.com/feliixx/mgodatagen) - Random data generator
+*   [mgodatagen (⭐327)](https://github.com/feliixx/mgodatagen) - Random data generator
 *   [Mongo Seeding (⭐556)](https://github.com/pkosiec/mongo-seeding) - Node.js library, CLI and Docker image for populating databases using JS and JSON files
-*   [Mongoeye (⭐161)](https://github.com/mongoeye/mongoeye) - Schema and data analyzer: explore data in your collections
-*   [Variety (⭐1.7k)](https://github.com/variety/variety) - Schema analyzer: see what fields are in your collection and what's their content
+*   [Mongoeye (⭐164)](https://github.com/mongoeye/mongoeye) - Schema and data analyzer: explore data in your collections
+*   [Variety (⭐1.8k)](https://github.com/variety/variety) - Schema analyzer: see what fields are in your collection and what's their content
 
 ### Tools / Monitoring
 
@@ -121,17 +121,17 @@
 
 ### Tools / Web
 
-*   [mongo-express (⭐5.5k)](https://github.com/mongo-express/mongo-express) - Web-based admin interface built with Express
+*   [mongo-express (⭐5.6k)](https://github.com/mongo-express/mongo-express) - Web-based admin interface built with Express
 *   [mongoadmin (⭐250)](https://github.com/thomasst/mongoadmin) - Admin interface built with Django
 *   [mongri (⭐75)](https://github.com/dongri/mongri) - Web-based user interface written in JavaScript
 
 ### Applications / Web
 
-*   [Countly (⭐5.5k)](https://github.com/countly/countly-server) - Mobile & web analytics and marketing platform built with Node.js
+*   [Countly (⭐5.6k)](https://github.com/countly/countly-server) - Mobile & web analytics and marketing platform built with Node.js
 *   [Leanote (⭐12k)](https://github.com/leanote/leanote) - Evernote clone built with Go
 *   [NodeBB (⭐14k)](https://github.com/NodeBB/NodeBB) - Node.js based forum software ("built for the modern web")
 *   [Reaction (⭐12k)](https://github.com/reactioncommerce/reaction) - Event-driven, real-time commerce platform built with ES6
-*   [SaaS Boilerplate (⭐4k)](https://github.com/async-labs/saas) - Boilerplate for SaaS products, built with TypeScript, React and Express
+*   [SaaS Boilerplate (⭐4.2k)](https://github.com/async-labs/saas) - Boilerplate for SaaS products, built with TypeScript, React and Express
 *   [uptime (⭐3.6k)](https://github.com/fzaninotto/uptime) - Remote monitoring application built with Node.js and Bootstrap
 
 ## [8. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
@@ -193,7 +193,7 @@
 ### GUI
 
 *   [Qml.Net (⭐1.4k)](https://github.com/qmlnet/qmlnet) - A cross-platform Qml/.NET integration for Mono/.NET/.NET Core
-*   [UWP Community Toolkit (⭐5.8k)](https://github.com/windows-toolkit/WindowsCommunityToolkit) - The UWP Community Toolkit is a collection of helper functions, custom controls, and app services. It simplifies and demonstrates common developer tasks building UWP apps for Windows 10.
+*   [UWP Community Toolkit (⭐5.9k)](https://github.com/windows-toolkit/WindowsCommunityToolkit) - The UWP Community Toolkit is a collection of helper functions, custom controls, and app services. It simplifies and demonstrates common developer tasks building UWP apps for Windows 10.
 
 ### HTML and CSS
 
@@ -220,7 +220,7 @@
 
 ### Querying / Symfony2
 
-*   [Insomnia (⭐34k)](https://github.com/getinsomnia/insomnia) - Cross-platform HTTP and GraphQL Client
+*   [Insomnia (⭐35k)](https://github.com/getinsomnia/insomnia) - Cross-platform HTTP and GraphQL Client
 
 ## [17. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
@@ -241,7 +241,7 @@
 
 ### Software / Learning and Courses
 
-*   [Chamilo LMS](https://chamilo.org/) - Chamilo LMS allows you to create a virtual campus for the provision of online or semi-online training. ([Source Code (⭐781)](https://github.com/chamilo/chamilo-lms)) `GPL-3.0` `PHP`
+*   [Chamilo LMS](https://chamilo.org/) - Chamilo LMS allows you to create a virtual campus for the provision of online or semi-online training. ([Source Code (⭐822)](https://github.com/chamilo/chamilo-lms)) `GPL-3.0` `PHP`
 
 ## [19. Awesome Css Learning](/content/micromata/awesome-css-learning/README.md)
 

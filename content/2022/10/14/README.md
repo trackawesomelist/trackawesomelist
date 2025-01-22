@@ -8,17 +8,17 @@
 
 ## [1. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
-### Templates / Godot 3.5+
+### Templates / Godot 3
 
-*   [bendn's Godot Template (⭐40)](https://github.com/bend-n/godot-template) - Game template using the [gpm (⭐11)](https://github.com/you-win/godot-package-manager), with itch.io pushing and builds automated. Starter CLI included.
+*   [bendn's Godot Template (⭐43)](https://github.com/bend-n/godot-template) - Game template using the [gpm (⭐11)](https://github.com/you-win/godot-package-manager), with itch.io pushing and builds automated. Starter CLI included.
 
 ### Unofficial Godot builds / Godot version unknown
 
-*   [bend-n's 2D builds (⭐21)](https://github.com/bend-n/godot-builds) - Godot builds [optimized for size](https://docs.godotengine.org/en/stable/development/compiling/optimizing_for_size.html) with [these modules disabled (⭐21)](https://github.com/bend-n/godot-builds/blob/main/.github/2d-build-modules.py). Also includes misc non breaking patches.
+*   [bend-n's 2D builds (⭐23)](https://github.com/bend-n/godot-builds) - Godot builds [optimized for size](https://docs.godotengine.org/en/stable/development/compiling/optimizing_for_size.html) with [these modules disabled (⭐23)](https://github.com/bend-n/godot-builds/blob/main/.github/2d-build-modules.py). Also includes misc non breaking patches.
 
 ### Other / Godot version unknown
 
-*   [godot-actions (⭐26)](https://github.com/bend-n/godot-actions) - Composite actions for exporting, setting up, and pushing Godot projects to itch.io through Github Actions.
+*   [godot-actions (⭐27)](https://github.com/bend-n/godot-actions) - Composite actions for exporting, setting up, and pushing Godot projects to itch.io through Github Actions.
 *   [Godot Package Manager (⭐11)](https://github.com/you-win/godot-package-manager) - Package manager for Godot using npm.
 
 ## [2. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
@@ -37,14 +37,13 @@
 
 ### Media / Diagnostics
 
-*   [samodostal/image.nvim (⭐166)](https://github.com/samodostal/image.nvim) - Image Viewer as ASCII Art.
-*   [adelarsq/image\_preview.nvim (⭐146)](https://github.com/adelarsq/image_preview.nvim) - Image preview based on terminal's Image Protocol support.
+*   [adelarsq/image\_preview.nvim (⭐169)](https://github.com/adelarsq/image_preview.nvim) - Image preview based on terminal's Image Protocol support.
 
 ## [5. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### ORM and Datamapping
 
-*   [ravix (⭐16)](https://github.com/YgorCastor/ravix) - RavenDB Driver for Elixir.
+*   [ravix (⭐17)](https://github.com/YgorCastor/ravix) - RavenDB Driver for Elixir.
 *   [ravix-ecto (⭐5)](https://github.com/YgorCastor/ravix-ecto) - RavenDB Ravix Driver adapter for Ecto.
 
 ## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
@@ -63,7 +62,7 @@
 
 ### Code generators / Individual Podcast episodes
 
-*   [Protoc Gen Elm (⭐15)](https://github.com/andreasewering/protoc-gen-elm) - Generate Protobuf En/Decoders from .proto files
+*   [Protoc Gen Elm (⭐17)](https://github.com/andreasewering/protoc-gen-elm) - Generate Protobuf En/Decoders from .proto files
 
 ### Examples / Games
 
@@ -73,11 +72,11 @@
 
 ### Libraries
 
-*   [ts-pattern (⭐10k)](https://github.com/gvergnaud/ts-pattern) - The exhaustive Pattern Matching library for TypeScript, with smart type inference. Pattern Matching is a code-branching technique coming from FP languages.
+*   [ts-pattern (⭐12k)](https://github.com/gvergnaud/ts-pattern) - The exhaustive Pattern Matching library for TypeScript, with smart type inference. Pattern Matching is a code-branching technique coming from FP languages.
 
 ### Libraries / Data Structures
 
-*   [List (⭐1.6k)](https://github.com/funkia/list) - An extremely fast immutable list with a comprehensive functional API. Designed to [seamlessly integrate with Ramda (⭐1.6k)](https://github.com/funkia/list#seamless-ramda-integration).
+*   [List (⭐1.7k)](https://github.com/funkia/list) - An extremely fast immutable list with a comprehensive functional API. Designed to [seamlessly integrate with Ramda (⭐1.7k)](https://github.com/funkia/list#seamless-ramda-integration).
 
 ## [10. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
@@ -90,7 +89,7 @@
 ### Applications / Emulators
 
 *   GameMaker
-    *   [OpenGMK (⭐266)](https://github.com/OpenGMK/OpenGMK) - OpenGMK is a modern rewrite of the proprietary GameMaker Classic engines, providing a full sourceport of the runner, a decompiler, a TASing framework, and libraries for working with gamedata yourself.
+    *   [OpenGMK (⭐305)](https://github.com/OpenGMK/OpenGMK) - OpenGMK is a modern rewrite of the proprietary GameMaker Classic engines, providing a full sourceport of the runner, a decompiler, a TASing framework, and libraries for working with gamedata yourself.
 
 ## [12. GoBooks](/content/dariubs/GoBooks/README.md)
 

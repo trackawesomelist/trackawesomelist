@@ -34,7 +34,7 @@
 
 ### File Management and Sharing
 
-*   [Sharik (⭐1.1k)](https://github.com/marchellodev/sharik) - Sharik works with Wi-Fi connection or Tethering (Wi-Fi Hotspot). No internet connection needed. Available for Android, iOS, Linux, MacOS & Windows.
+*   [Sharik (⭐1.2k)](https://github.com/marchellodev/sharik) - Sharik works with Wi-Fi connection or Tethering (Wi-Fi Hotspot). No internet connection needed. Available for Android, iOS, Linux, MacOS & Windows.
 
 ## [6. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
 
@@ -145,13 +145,13 @@
 
 ### Others / Object detection and object tracking
 
-*   [ARHeadsetKit (⭐124)](https://github.com/philipturner/ARHeadsetKit) - Using $5 Google Cardboard to replicate Microsoft Hololens. Hosts the source code for research on [scene color reconstruction (⭐22)](https://github.com/philipturner/scene-color-reconstruction).
+*   [ARHeadsetKit (⭐124)](https://github.com/philipturner/ARHeadsetKit) - Using $5 Google Cardboard to replicate Microsoft Hololens. Hosts the source code for research on [scene color reconstruction (⭐23)](https://github.com/philipturner/scene-color-reconstruction).
 
 ## [14. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Command Line / Diagnostics
 
-*   [gelguy/wilder.nvim (⭐1.3k)](https://github.com/gelguy/wilder.nvim) - A plugin for fuzzy command line autocompletion.
+*   [gelguy/wilder.nvim (⭐1.4k)](https://github.com/gelguy/wilder.nvim) - A plugin for fuzzy command line autocompletion.
 
 ## [15. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 

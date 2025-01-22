@@ -29,7 +29,7 @@
 ### Artificial Intelligence
 
 *   [Game Data Mining Competition](https://cilab.sejong.ac.kr/gdmc2017/) - Competition of prediction of the players' behavior. [Paper](https://arxiv.org/abs/1802.02301).
-*   [Morai-Maker-Engine (⭐16)](https://github.com/mguzdial3/Morai-Maker-Engine) - Cooperative game level editor. [Paper](http://dx.doi.org/10.1145/3290605.3300854).
+*   [Morai-Maker-Engine (⭐19)](https://github.com/mguzdial3/Morai-Maker-Engine) - Cooperative game level editor. [Paper](http://dx.doi.org/10.1145/3290605.3300854).
 
 ## [5. Awesome CoreML Models](/content/likedan/Awesome-CoreML-Models/README.md)
 
@@ -100,7 +100,7 @@
 
 ### Development / Database
 
-*   [sqlline (⭐606)](https://github.com/julianhyde/sqlline) -  Shell for issuing SQL via JDBC.
+*   [sqlline (⭐620)](https://github.com/julianhyde/sqlline) -  Shell for issuing SQL via JDBC.
 
 ## [12. Awesome Devenv](/content/jondot/awesome-devenv/README.md)
 
@@ -119,10 +119,10 @@
 
 ### Table of Contents / Online Machine Learning
 
-*   [streamDM (⭐490)](https://github.com/huawei-noah/streamDM) \[Scala] - mining Big Data streams using Spark Streaming from Huawei.
+*   [streamDM (⭐492)](https://github.com/huawei-noah/streamDM) \[Scala] - mining Big Data streams using Spark Streaming from Huawei.
 *   [StormCV (⭐167)](https://github.com/sensorstorm/StormCV) \[Java] - enables the use of Apache Storm for video processing by adding computer vision (CV) specific operations and data model.
 *   [trident-ml (⭐381)](https://github.com/pmerienne/trident-ml) \[Java] - realtime online machine learning library based on Trident.
-*   [yurita (⭐106)](https://github.com/paypal/yurita) \[Scala] - Anomaly detection framework built on Spark Structured Streaming from Paypal.
+*   [yurita (⭐107)](https://github.com/paypal/yurita) \[Scala] - Anomaly detection framework built on Spark Structured Streaming from Paypal.
 
 ---
 

@@ -14,27 +14,27 @@
 
 ### Authentication
 
-*   [BlazorWasmOidcKeycloak (⭐0)](https://github.com/wildermedeiros/BlazorAppWasmAuth) - ![last commit](https://img.shields.io/github/last-commit/wildermedeiros/BlazorAppWasmAuth?style=flat-square\&cacheSeconds=86400) Blazor WebAssembly application using OpenID Connect (OIDC) authentication with Microsoft Identity and Keycloak.
+*   [BlazorWasmOidcKeycloak (⭐2)](https://github.com/wildermedeiros/BlazorAppWasmAuth) - ![last commit](https://img.shields.io/github/last-commit/wildermedeiros/BlazorAppWasmAuth?style=flat-square\&cacheSeconds=86400) Blazor WebAssembly application using OpenID Connect (OIDC) authentication with Microsoft Identity and Keycloak.
 
 ### Others
 
-*   [BlazorAndTailwind (⭐107)](https://github.com/tesar-tech/BlazorAndTailwind) - ![stars](https://img.shields.io/github/stars/tesar-tech/BlazorAndTailwind?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/tesar-tech/BlazorAndTailwind) Sample project, guide and tips for setting up [TailwindCSS](https://tailwindcss.com/) in Blazor.
+*   [BlazorAndTailwind (⭐116)](https://github.com/tesar-tech/BlazorAndTailwind) - ![stars](https://img.shields.io/github/stars/tesar-tech/BlazorAndTailwind?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/tesar-tech/BlazorAndTailwind) Sample project, guide and tips for setting up [TailwindCSS](https://tailwindcss.com/) in Blazor.
 
 ### Component bundles
 
-*   [Blazor.WebForm.Components (⭐39)](https://github.com/Jurioli/Blazor.WebForm.Components) - ![stars](https://img.shields.io/github/stars/Jurioli/Blazor.WebForm.Components?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Jurioli/Blazor.WebForm.Components?style=flat-square\&cacheSeconds=86400) ASP.NET Web Forms System.Web.UI.WebControls Razor Components For Blazor WebAssembly. [Demo](https://blazorwebformdemo.github.io/).
+*   [Blazor.WebForm.Components (⭐48)](https://github.com/Jurioli/Blazor.WebForm.Components) - ![stars](https://img.shields.io/github/stars/Jurioli/Blazor.WebForm.Components?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Jurioli/Blazor.WebForm.Components?style=flat-square\&cacheSeconds=86400) ASP.NET Web Forms System.Web.UI.WebControls Razor Components For Blazor WebAssembly. [Demo](https://blazorwebformdemo.github.io/).
 *   [ABP Framework (⭐13k)](https://github.com/abpframework/abp) - ![stars](https://img.shields.io/github/stars/abpframework/abp?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/abpframework/abp?style=flat-square\&cacheSeconds=86400) ABP Framework is a complete infrastructure to create modern web applications by following the best practices and conventions of software development.
 
 ### 2D/3D Rendering engines / Charts
 
-*   [Blazor-Charts (⭐75)](https://github.com/Misfits-Rebels-Outcasts/Blazor-Charts) - ![GitHub stars](https://img.shields.io/github/stars/Misfits-Rebels-Outcasts/Blazor-Charts?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Misfits-Rebels-Outcasts/Blazor-Charts?style=flat-square\&cacheSeconds=86400) SVG charts for Blazor.
+*   [Blazor-Charts (⭐78)](https://github.com/Misfits-Rebels-Outcasts/Blazor-Charts) - ![GitHub stars](https://img.shields.io/github/stars/Misfits-Rebels-Outcasts/Blazor-Charts?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Misfits-Rebels-Outcasts/Blazor-Charts?style=flat-square\&cacheSeconds=86400) SVG charts for Blazor.
 *   [Blazor-Sparkline (⭐27)](https://github.com/Misfits-Rebels-Outcasts/Blazor-Sparkline) - ![last commit](https://img.shields.io/github/last-commit/Misfits-Rebels-Outcasts/Blazor-Sparkline?style=flat-square\&cacheSeconds=86400) Sparkline Charts for Blazor using Fonts.
-*   [Blazor-ApexCharts (⭐749)](https://github.com/apexcharts/Blazor-ApexCharts) - ![stars](https://img.shields.io/github/stars/apexcharts/Blazor-ApexCharts?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/apexcharts/Blazor-ApexCharts?style=flat-square\&cacheSeconds=86400) Blazor wrapper for ApexCharts. [Demo](https://joadan.github.io/Blazor-ApexCharts/basic-charts).
+*   [Blazor-ApexCharts (⭐839)](https://github.com/apexcharts/Blazor-ApexCharts) - ![stars](https://img.shields.io/github/stars/apexcharts/Blazor-ApexCharts?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/apexcharts/Blazor-ApexCharts?style=flat-square\&cacheSeconds=86400) Blazor wrapper for ApexCharts. [Demo](https://joadan.github.io/Blazor-ApexCharts/basic-charts).
 *   [UnlockedData.Chartist.Blazor (⭐7)](https://github.com/UnlockedData/UnlockedData.Chartist.Blazor) - ![last commit](https://img.shields.io/github/last-commit/unlockeddata/unlockeddata.chartist.blazor) Blazor wrapper for [Chartist.js](http://gionkunz.github.io/chartist-js/) bundled with [Chartist.js plugins](http://gionkunz.github.io/chartist-js/plugins.html).
 
 ### 2D/3D Rendering engines / Others
 
-*   [Knob (⭐1)](https://github.com/MelihAltintas/Blazor-Knob/) - ![last commit](https://img.shields.io/github/last-commit/MelihAltintas/Blazor-Knob?style=flat-square\&cacheSeconds=86400) Knob Control for Blazor.
+*   [Knob (⭐2)](https://github.com/MelihAltintas/Blazor-Knob/) - ![last commit](https://img.shields.io/github/last-commit/MelihAltintas/Blazor-Knob?style=flat-square\&cacheSeconds=86400) Knob Control for Blazor.
 
 ### Videos / Others
 
@@ -44,11 +44,11 @@
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-vitest-cache (⭐0)](https://github.com/raegen/vite-plugin-vitest-cache) - Optimize `Vitest` execution time through caching.
+*   [vite-plugin-vitest-cache (⭐10)](https://github.com/raegen/vite-plugin-vitest-cache) - Optimize `Vitest` execution time through caching.
 
 ### Open Source / Community
 
-*   [WXT (⭐3.6k)](https://github.com/wxt-dev/wxt) - Framework for building web extensions, with the same DX as Nuxt.
+*   [WXT (⭐5.1k)](https://github.com/wxt-dev/wxt) - Framework for building web extensions, with the same DX as Nuxt.
 
 ## [3. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
 
@@ -60,7 +60,7 @@
 
 ### Calendars / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [@schedule-x/angular (⭐986)](https://github.com/schedule-x/schedule-x) - Material design event calendar.
+*   [@schedule-x/angular (⭐1.5k)](https://github.com/schedule-x/schedule-x) - Material design event calendar.
 
 ## [5. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
@@ -72,7 +72,7 @@
 
 ### Multiple languages / [Other](#other-1)
 
-*   [Betterscan CE (⭐776)](https://github.com/tcosolutions/betterscan-ce) — Checks your code and infra (various Git repositories supported, cloud stacks, CLI, Web Interface platform, integrationss available) for security and quality issues. Code Scanning/SAST/Linting using many tools/Scanners deduplicated with One Report (AI optional).
+*   [Betterscan CE (⭐835)](https://github.com/tcosolutions/betterscan-ce) — Checks your code and infra (various Git repositories supported, cloud stacks, CLI, Web Interface platform, integrationss available) for security and quality issues. Code Scanning/SAST/Linting using many tools/Scanners deduplicated with One Report (AI optional).
 
 ---
 

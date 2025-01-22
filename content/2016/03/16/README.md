@@ -23,7 +23,7 @@
 
 ### MVVM
 
-*   [Prism (⭐6.2k)](https://github.com/PrismLibrary/Prism) - A cross-platform desktop and mobile MVVM development framework.
+*   [Prism (⭐6.4k)](https://github.com/PrismLibrary/Prism) - A cross-platform desktop and mobile MVVM development framework.
 
 ## [4. Typography](/content/deanhume/typography/README.md)
 

@@ -25,19 +25,19 @@
 
 ### Audio
 
-*   [ViMusic (⭐8.5k)](https://github.com/vfsfitvnm/ViMusic) - \[Unmantained] A Jetpack Compose Android application for streaming music from YouTube Music.
-    *   [RiMusic (⭐1.8k)](https://github.com/fast4x/RiMusic) - A ViMusic maintained fork.
+*   [ViMusic (⭐9.2k)](https://github.com/vfsfitvnm/ViMusic) - \[Unmantained] A Jetpack Compose Android application for streaming music from YouTube Music.
+    *   [RiMusic (⭐3.1k)](https://github.com/fast4x/RiMusic) - A ViMusic maintained fork.
 
 ## [4. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
 ### Development / Discovery
 
-*   [dream2nix (⭐957)](https://github.com/nix-community/dream2nix) - A framework for automatically converting packages from other build systems to Nix.
-*   [rnix-lsp (⭐699)](https://github.com/nix-community/rnix-lsp) - A syntax-checking language server for Nix.
+*   [dream2nix (⭐1.1k)](https://github.com/nix-community/dream2nix) - A framework for automatically converting packages from other build systems to Nix.
+*   [rnix-lsp (⭐709)](https://github.com/nix-community/rnix-lsp) - A syntax-checking language server for Nix.
 
 ### Programming Languages / Rust
 
-*   [crane (⭐860)](https://github.com/ipetkov/crane) - A Nix library for building Cargo projects with incremental artifact caching.
+*   [crane (⭐1k)](https://github.com/ipetkov/crane) - A Nix library for building Cargo projects with incremental artifact caching.
 
 ## [5. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
 
@@ -53,13 +53,13 @@
 
 ### RSS Extensions / Outline Processor Markup Language
 
-*   [Podcast Index: the "podcast" namespace (⭐373)](https://github.com/Podcastindex-org/podcast-namespace) <sup>[865](https://t.me/s/aboutrss/865), [1235](https://t.me/s/aboutrss/1235), [1236](https://t.me/s/aboutrss/1236)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Podcastindex-org/podcast-namespace)
+*   [Podcast Index: the "podcast" namespace (⭐399)](https://github.com/Podcastindex-org/podcast-namespace) <sup>[865](https://t.me/s/aboutrss/865), [1235](https://t.me/s/aboutrss/1235), [1236](https://t.me/s/aboutrss/1236)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Podcastindex-org/podcast-namespace)
 *   [source namespace](http://source.scripting.com/#1653758422000) <sup>[1240](https://t.me/s/aboutrss/1240)</sup>: Markdown in RSS supported.
 
 ### Apps / Outline Processor Markup Language
 
 *   [Unread](https://www.goldenhillsoftware.com/unread/) <sup>[400](https://t.me/s/aboutrss/400), [402](https://t.me/s/aboutrss/402), [666](https://t.me/s/aboutrss/666), [1232](https://t.me/s/aboutrss/1232), [1476](https://t.me/s/aboutrss/1476)</sup> [![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://apps.apple.com/app/unread-2/id1363637349)![Mac](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-mac-client-16.png)
-*   [Read You (⭐4.5k)](https://github.com/Ashinch/ReadYou/) <sup>[1201](https://t.me/s/aboutrss/1201)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Ashinch/ReadYou/)[![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://t.me/ReadYouApp)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+*   [Read You (⭐5.4k)](https://github.com/Ashinch/ReadYou/) <sup>[1201](https://t.me/s/aboutrss/1201)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Ashinch/ReadYou/)[![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://t.me/ReadYouApp)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 *   [WebFeed](https://taoshu.in/webfeed/) <sup>[1213](https://t.me/s/aboutrss/1213)</sup> [![Chrome](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Google_Chrome.png)](https://chrome.google.com/webstore/detail/webfeed/phonnpdncnchhpobgkabgcjoapjcacop/)[![Firefox](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Mozilla.png)](https://addons.mozilla.org/zh-CN/firefox/addon/webfeed/)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/taoso/webfeed)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 *   [Matter Reader](https://hq.getmatter.com/) <sup>[1220](https://t.me/s/aboutrss/1220)</sup> [![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://apps.apple.com/app/matter-reader/id1501592184)
 *   [Folio Reader](https://foliorss.com/) <sup>[1201](https://t.me/s/aboutrss/1201)</sup> [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=me.bakumon.rss)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
@@ -72,12 +72,12 @@
 ### Self Hosted Readers / Outline Processor Markup Language
 
 *   [Miniflux](https://miniflux.app/index.html) <sup>[369](https://t.me/s/aboutrss/369), [428](https://t.me/s/aboutrss/428), [831](https://t.me/s/aboutrss/831), [858](https://t.me/s/aboutrss/858), [982](https://t.me/s/aboutrss/982), [983](https://t.me/s/aboutrss/983)</sup> [![Online](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-web-design-16.png)](https://miniflux.app/hosting.html)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/miniflux/miniflux)
-    *   [docker-miniflux-postgresql (⭐22)](https://github.com/fengkx/docker-miniflux-postgresql) <sup>[607](https://t.me/s/aboutrss/607)</sup>: docker of miniflux RSS Reader with PostgreSQL in docker-compose [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/fengkx/docker-miniflux-postgresql)
-    *   [Awesome Miniflux (⭐34)](https://github.com/hirusi/awesome-miniflux) <sup>[858](https://t.me/s/aboutrss/858)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/hirusi/awesome-miniflux)
-    *   [Miniflux Indexer (⭐13)](https://github.com/QuantumGhost/miniflux-indexer) <sup>[1022](https://t.me/s/aboutrss/1022)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/QuantumGhost/miniflux-indexer)
+    *   [docker-miniflux-postgresql (⭐24)](https://github.com/fengkx/docker-miniflux-postgresql) <sup>[607](https://t.me/s/aboutrss/607)</sup>: docker of miniflux RSS Reader with PostgreSQL in docker-compose [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/fengkx/docker-miniflux-postgresql)
+    *   [Awesome Miniflux (⭐47)](https://github.com/hirusi/awesome-miniflux) <sup>[858](https://t.me/s/aboutrss/858)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/hirusi/awesome-miniflux)
+    *   [Miniflux Indexer (⭐14)](https://github.com/QuantumGhost/miniflux-indexer) <sup>[1022](https://t.me/s/aboutrss/1022)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/QuantumGhost/miniflux-indexer)
     *   [Reading for RSS](https://apps.apple.com/app/reading-for-rss/id1611939852) <sup>[1219](https://t.me/s/aboutrss/1219)</sup> [![](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://apps.apple.com/app/reading-for-rss/id1611939852)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
     *   [Inoreader to Miniflux/v2 GitHub Gist](https://gist.github.com/douo/3e37bc863c5af9cbf393fe8724be6bb4) <sup>[1323](https://t.me/s/aboutrss/1323)</sup>
-    *   [Reactflux (⭐154)](https://github.com/electh/ReactFlux) <sup>[1425](https://t.me/s/aboutrss/1425)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/electh/ReactFlux)
+    *   [Reactflux (⭐257)](https://github.com/electh/ReactFlux) <sup>[1425](https://t.me/s/aboutrss/1425)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/electh/ReactFlux)
 
 ### RSS Reader in Email System / Outline Processor Markup Language
 
@@ -203,7 +203,7 @@
 
 *   [cvideo (⭐1)](https://github.com/aubreypwd/zsh-plugin-cvideo) - Quickly compress video with `ffmpeg`.
 *   [download (⭐2)](https://github.com/aubreypwd/zsh-plugin-download) - Helper to download files with `aria2c`.
-*   [fzf-fasd (⭐56)](https://github.com/wookayin/fzf-fasd) - Integrates [fzf (⭐63k)](https://github.com/junegunn/fzf) and [fasd (⭐5.9k)](https://github.com/clvv/fasd) --- tab completion of `z` with `fzf`'s fuzzy search!
+*   [fzf-fasd (⭐57)](https://github.com/wookayin/fzf-fasd) - Integrates [fzf (⭐67k)](https://github.com/junegunn/fzf) and [fasd (⭐5.9k)](https://github.com/clvv/fasd) --- tab completion of `z` with `fzf`'s fuzzy search!
 *   [require (⭐2)](https://github.com/aubreypwd/zsh-plugin-require) - Adds ability to `require commandname` and then (if [brew](https://brew.sh) is installed) automatically `brew install commandname` if it isn't already installed.
 
 ## [11. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
@@ -240,25 +240,25 @@
 
 ### Providers / Vendor supported providers
 
-*   [terraform-provider-confluent (⭐23)](https://github.com/confluentinc/terraform-provider-confluent) - Provider for Confluent.
+*   [terraform-provider-confluent (⭐33)](https://github.com/confluentinc/terraform-provider-confluent) - Provider for Confluent.
 
 ## [16. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
-### Courses
+### Courses / Commerical Tools
 
 *   [MIT Artificial Intelligence Videos](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos) - MIT AI Course
 *   [Amazon Machine Learning Developer Guide](https://docs.aws.amazon.com/machine-learning/latest/dg/machinelearning-dg.pdf) - A book for ML developers which introduces the ML concepts & strategies with lots of practical usages.
 
-### Philosophy
+### Philosophy / Commerical Tools
 
 *   [Minds, Brains, And Programs](http://cogprints.org/7150/1/10.1.1.83.5248.pdf) - The 1980 paper by philosopher John Searle that contains the famous 'Chinese Room' thought experiment. It is probably the most famous attack on the notion of a Strong AI possessing a 'mind' or a 'consciousness', and it is an interesting reading for those interested in the intersection of AI and philosophy of mind.
 *   [Gödel, Escher, Bach: An Eternal Golden Braid](http://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567) - Written by Douglas Hofstadter and taglined "a metaphorical fugue on minds and machines in the spirit of Lewis Carroll", this incredible journey into the fundamental concepts of mathematics, symmetry and intelligence won a Pulitzer Prize for Non-Fiction in 1979. A major theme throughout is the emergence of meaning from seemingly 'meaningless' elements, like 1's and 0's, arranged in special patterns.
 
-### Learning
+### Learning / Commerical Tools
 
-*   [Awesome Graph Classification (⭐4.7k)](https://github.com/benedekrozemberczki/awesome-graph-classification) - Learning from graph structured data
+*   [Awesome Graph Classification (⭐4.8k)](https://github.com/benedekrozemberczki/awesome-graph-classification) - Learning from graph structured data
 
-### Journals
+### Journals / Commerical Tools
 
 *   [Annals of Mathematics and Artificial Intelligence](http://www.springer.com/journal/10472)
 
@@ -273,7 +273,7 @@
 
 ### Projects / Tools
 
-*   [PyCoq (⭐50)](https://github.com/ejgallego/pycoq) - Set of bindings and libraries for interacting with Coq from inside Python 3.
+*   [PyCoq (⭐52)](https://github.com/ejgallego/pycoq) - Set of bindings and libraries for interacting with Coq from inside Python 3.
 
 ### Resources / Community
 
@@ -297,7 +297,7 @@
 
 ### Compilers and interpreters
 
-*   [dantecatalfamo/mruby-zig (⭐33)](https://github.com/dantecatalfamo/mruby-zig) - [mruby](https://mruby.org/) bindings.
+*   [dantecatalfamo/mruby-zig (⭐34)](https://github.com/dantecatalfamo/mruby-zig) - [mruby](https://mruby.org/) bindings.
 *   [dantecatalfamo/wren-zig (⭐26)](https://github.com/dantecatalfamo/wren-zig) - [wren](https://wren.io/) bindings.
 
 ## [21. Awesome Qsharp](/content/ebraminio/awesome-qsharp/week/README.md)
@@ -321,7 +321,7 @@
 
 ### Contents / Tools
 
-*   [Voting Dapp (⭐13)](https://github.com/akmadan/voting_dapp) - A Voting Dapp created using Solidity Smart Contract and web3dart library by [Akshit Madan](https://github.com/akmadan)
+*   [Voting Dapp (⭐16)](https://github.com/akmadan/voting_dapp) - A Voting Dapp created using Solidity Smart Contract and web3dart library by [Akshit Madan](https://github.com/akmadan)
 
 ## [23. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
 
@@ -354,9 +354,9 @@
 
 ## [26. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
-### Other Tools / Telegram
+### Other Tools / Steam
 
-*   [CrowdSec (⭐8.2k)](https://github.com/crowdsecurity/crowdsec) - An open source, free, and collaborative IPS/IDS software written in Go, able to analyze visitor behavior & provide an adapted response to all kinds of attacks.
+*   [CrowdSec (⭐9.5k)](https://github.com/crowdsecurity/crowdsec) - An open source, free, and collaborative IPS/IDS software written in Go, able to analyze visitor behavior & provide an adapted response to all kinds of attacks.
 
 ## [27. Awesome Linguistics](/content/theimpossibleastronaut/awesome-linguistics/week/README.md)
 
@@ -372,7 +372,7 @@
 
   Features: It consists of Tekton Pipelines, which provides the building blocks (as Kubernetes Custom Resources you can use to create your pipelines), and of supporting components, such as Tekton CLI and Tekton Catalog, that make Tekton a complete ecosystem
 
-  Supported repositories: GitHub, Gitlab, Bitbucket... [See triggers-examples (⭐537)](https://github.com/tektoncd/triggers/tree/main/examples/v1beta1), but extensible/customizable to support others
+  Supported repositories: GitHub, Gitlab, Bitbucket... [See triggers-examples (⭐556)](https://github.com/tektoncd/triggers/tree/main/examples/v1beta1), but extensible/customizable to support others
 
   Documentation: [Documentation](https://tekton.dev/docs/)
 
@@ -404,7 +404,7 @@
 
 *   [micropython-dotstar (⭐22)](https://github.com/mattytrentini/micropython-dotstar) - A MicroPython port of the Adafruit CircuitPython APA102/DotStar library.
 
-### Sensors / Barometer
+### Sensors / Barometer - Air and Water Pressure
 
 *   [BMP390 (⭐3)](https://github.com/octaprog7/BMP390) - MicroPython module for BMP390 pressure & temperature sensor.
 *   [BMP180 (⭐3)](https://github.com/octaprog7/BMP180) - MicroPython module for BMP180 pressure & temperature sensor.
@@ -457,7 +457,7 @@
 
 ### Third-Party Packages / Configuration
 
-*   [django-extra-settings (⭐507)](https://github.com/fabiocaccamo/django-extra-settings) - Config and manage typed extra settings using just the django admin.
+*   [django-extra-settings (⭐567)](https://github.com/fabiocaccamo/django-extra-settings) - Config and manage typed extra settings using just the django admin.
 
 ### Third-Party Packages / Files/Images
 
@@ -465,21 +465,21 @@
 
 ### Third-Party Packages / General
 
-*   [django-maintenance-mode (⭐472)](https://github.com/fabiocaccamo/django-maintenance-mode) - Shows a 503 error page when maintenance-mode is on.
-*   [django-freeze (⭐93)](https://github.com/fabiocaccamo/django-freeze) - Convert your dynamic django site to a static one with one line of code.
+*   [django-maintenance-mode (⭐503)](https://github.com/fabiocaccamo/django-maintenance-mode) - Shows a 503 error page when maintenance-mode is on.
+*   [django-freeze (⭐94)](https://github.com/fabiocaccamo/django-freeze) - Convert your dynamic django site to a static one with one line of code.
 
 ### Third-Party Packages / Model Fields
 
 *   [django-any-urlfield (⭐51)](https://github.com/edoburu/django-any-urlfield) - An improved URL selector to choose between internal models and external URLs.
-*   [django-colorfield (⭐614)](https://github.com/fabiocaccamo/django-colorfield) - Color field for django models with a nice color-picker widget.
+*   [django-colorfield (⭐637)](https://github.com/fabiocaccamo/django-colorfield) - Color field for django models with a nice color-picker widget.
 
 ### Third-Party Packages / Models
 
-*   [django-treenode (⭐643)](https://github.com/fabiocaccamo/django-treenode) - Abstract model/admin for tree based stuff.
+*   [django-treenode (⭐701)](https://github.com/fabiocaccamo/django-treenode) - Abstract model/admin for tree based stuff.
 
 ### Third-Party Packages / URLs
 
-*   [django-redirects (⭐67)](https://github.com/fabiocaccamo/django-redirects) - Redirects as they should be, with full control.
+*   [django-redirects (⭐69)](https://github.com/fabiocaccamo/django-redirects) - Redirects as they should be, with full control.
 
 ## [37. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
 
@@ -500,24 +500,30 @@
 ### Reporters
 
 *   [playwright-tesults-reporter (⭐2)](https://github.com/tesults/playwright-tesults-reporter) - A library for uploading test results to Tesults from Playwright.
-*   [monocart-reporter (⭐182)](https://github.com/cenfun/monocart-reporter) - A playwright test reporter, shows suites/cases/steps in html grid.
-*   [allure-playwright (⭐222)](https://github.com/allure-framework/allure-js/tree/master/packages/allure-playwright) - Allure integration with Playwright Test framework.
+*   [monocart-reporter (⭐196)](https://github.com/cenfun/monocart-reporter) - A playwright test reporter, shows suites/cases/steps in html grid.
+*   [allure-playwright (⭐225)](https://github.com/allure-framework/allure-js/tree/master/packages/allure-playwright) - Allure integration with Playwright Test framework.
 
 ## [40. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Development / Text Editors
 
-*   [neovim (⭐76k)](https://github.com/neovim/neovim) - Modern vim.
-*   [o (⭐428)](https://github.com/xyproto/o) - Configuration-free text editor and IDE.
-*   [helix (⭐30k)](https://github.com/helix-editor/helix) -  Modal editor inspired by kakoune.
+*   [neovim (⭐83k)](https://github.com/neovim/neovim) - Modern vim.
+*   [o (⭐498)](https://github.com/xyproto/o) - Configuration-free text editor and IDE.
+*   [helix (⭐34k)](https://github.com/helix-editor/helix) -  Modal editor inspired by kakoune.
 
 ## [41. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
 
 ### Probabilistic Graphical Models / Others
 
-*   [pomegranate (⭐3.3k)](https://github.com/jmschrei/pomegranate) - Probabilistic and graphical models for Python. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
+*   [pomegranate (⭐3.4k)](https://github.com/jmschrei/pomegranate) - Probabilistic and graphical models for Python. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
 
-## [42. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/week/README.md)
+## [42. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+
+### Components & Libraries / Frameworks
+
+*   [Vitify Admin (⭐151)](https://github.com/kingyue737/vitify-admin) - Vite 3 + Vuetify 2 + TypeScript, Vue 2.7
+
+## [43. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/week/README.md)
 
 ### Specialty Topics / Animation Info
 
@@ -530,16 +536,6 @@
 ### Specialty Topics / Entity Component Systems
 
 *   📚 [A Simple Entity Component System](https://austinmorlan.com/posts/entity_component_system/) - Basis for an ECS in C++.
-
-## [43. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
-
-### Components & Libraries / Frameworks
-
-*   [Vitify Admin (⭐140)](https://github.com/kingyue737/vitify-admin) - Vite 3 + Vuetify 2 + TypeScript, Vue 2.7
-
-### Components & Libraries / UI Components
-
-*   [virtual-list (⭐17)](https://github.com/phphe/virtual-list) - Virtual list component. Features: Vue2, Vue3, TypeScript, SSR, horizontal list, virtual table.
 
 ## [44. Awesome Asyncio](/content/timofurrer/awesome-asyncio/week/README.md)
 
@@ -561,8 +557,8 @@
 
 ### Apps / Design Tools
 
-*   [Akira (⭐5.2k)](https://github.com/akiraux/Akira) -  Native Linux App for UI and UX Design built in Vala and GTK.
-*   [Birdfont (⭐400)](https://github.com/johanmattssonm/birdfont) - A font editor for creating fonts in TTF, EOT, SVG and BIRDFONT format.
+*   [Akira (⭐5.3k)](https://github.com/akiraux/Akira) -  Native Linux App for UI and UX Design built in Vala and GTK.
+*   [Birdfont (⭐465)](https://github.com/johanmattssonm/birdfont) - A font editor for creating fonts in TTF, EOT, SVG and BIRDFONT format.
 
 ### Apps / Development Tools
 
@@ -573,11 +569,11 @@
 
 *   [High Score (GNOME Games)](https://gitlab.gnome.org/World/highscore) - Retro gaming application for the GNOME desktop.
 *   [Sage (⭐10)](https://github.com/antolius/sage) - A code breaking game made for elementary OS.
-*   [Warble (⭐84)](https://github.com/avojak/warble) - Native Linux word-guessing game built in Vala and Gtk for elementary OS.
+*   [Warble (⭐88)](https://github.com/avojak/warble) - Native Linux word-guessing game built in Vala and Gtk for elementary OS.
 
 ### Apps / Internet Browsers
 
-*   [Starfish (⭐21)](https://github.com/starfish-app/Starfish) - A Gemini browser for elementary OS.
+*   [Starfish (⭐25)](https://github.com/starfish-app/Starfish) - A Gemini browser for elementary OS.
 
 ### Apps / Music
 
@@ -585,29 +581,29 @@
 
 ### Apps / Personalization
 
-*   [Korembi (⭐3.2k)](https://github.com/cheesecakeufo/komorebi) - A beautiful and customizable wallpapers manager for Linux.
+*   [Korembi (⭐3.5k)](https://github.com/cheesecakeufo/komorebi) - A beautiful and customizable wallpapers manager for Linux.
 
 ### Apps / Productivity
 
-*   [Badger (⭐52)](https://github.com/elfenware/badger) - Remind yourself to not sit and stare at the screen for too long.
+*   [Badger (⭐53)](https://github.com/elfenware/badger) - Remind yourself to not sit and stare at the screen for too long.
 *   [Blackbox](https://gitlab.gnome.org/raggesilver/blackbox) - A beautiful GTK 4 terminal.
-*   [Flowtime (⭐96)](https://github.com/Diego-Ivan/Flowtime) - GTK4 Libadwaita Pomodoro Timer.
+*   [Flowtime (⭐118)](https://github.com/Diego-Ivan/Flowtime) - GTK4 Libadwaita Pomodoro Timer.
 *   [geary](https://gitlab.gnome.org/GNOME/geary) - Geary is an email application built around conversations, for the GNOME 3 desktop.
-*   [graphui (⭐19)](https://github.com/artemanufrij/graphui) - Graph Visualization based on graphviz.
-*   [Ideogram (⭐94)](https://github.com/cassidyjames/ideogram) -  Emoji Picker app.
-*   [Notejot (⭐369)](https://github.com/lainsce/notejot) - Stupidly-simple notes app.
-*   [Notes-up (⭐613)](https://github.com/Philip-Scott/Notes-up) - Markdown notes editor & manager.
+*   [graphui (⭐21)](https://github.com/artemanufrij/graphui) - Graph Visualization based on graphviz.
+*   [Ideogram (⭐91)](https://github.com/cassidyjames/ideogram) -  Emoji Picker app.
+*   [Notejot (⭐393)](https://github.com/lainsce/notejot) - Stupidly-simple notes app.
+*   [Notes-up (⭐627)](https://github.com/Philip-Scott/Notes-up) - Markdown notes editor & manager.
 *   [Paper](https://gitlab.com/posidon_software/paper/) - Take notes in Markdown.
-*   [Spice-up (⭐598)](https://github.com/Philip-Scott/Spice-up) - Presentations App for the modern Linux Desktop.
+*   [Spice-up (⭐602)](https://github.com/Philip-Scott/Spice-up) - Presentations App for the modern Linux Desktop.
 
 ### Apps / System Tools
 
 *   [Connections](https://gitlab.gnome.org/GNOME/connections) - A remote desktop client for the GNOME desktop environment.
-*   [elementary OS App Center (⭐531)](https://github.com/elementary/appcenter) - Pay-what-you-can app store for elementary OS.
+*   [elementary OS App Center (⭐543)](https://github.com/elementary/appcenter) - Pay-what-you-can app store for elementary OS.
 *   [Man Helper (⭐11)](https://github.com/akarin123/manhelper) -  A lightweight GTK front-end for man pages.
-*   [Monitor (⭐298)](https://github.com/stsdc/monitor) - Manage processes and monitor system resources.
-*   [Peek (⭐9.9k)](https://github.com/phw/peek) - Simple animated GIF screen recorder with an easy to use interface.
-*   [SwayNotifiationCenter (⭐849)](https://github.com/ErikReider/SwayNotificationCenter) - A simple GTK based notification daemon for SwayWM.
+*   [Monitor (⭐330)](https://github.com/stsdc/monitor) - Manage processes and monitor system resources.
+*   [Peek (⭐10k)](https://github.com/phw/peek) - Simple animated GIF screen recorder with an easy to use interface.
+*   [SwayNotifiationCenter (⭐1.5k)](https://github.com/ErikReider/SwayNotificationCenter) - A simple GTK based notification daemon for SwayWM.
 
 ### Apps / Virtualization
 
@@ -619,20 +615,20 @@
 
 ### CLI Tools / Weather
 
-*   [EasyDocs (⭐6)](https://github.com/watsonprojects/EasyDocs) -  Quickly read developer documentation.
+*   [EasyDocs (⭐7)](https://github.com/watsonprojects/EasyDocs) -  Quickly read developer documentation.
 *   [Spider (⭐2)](https://github.com/colinkiama/spider) - Quickly generate a HTML5 site structure.
-*   [Valdo (⭐45)](https://github.com/vala-lang/valdo) - Create new Vala projects from templates.
+*   [Valdo (⭐52)](https://github.com/vala-lang/valdo) - Create new Vala projects from templates.
 
 ### Editor Plugins / Weather
 
-*   [Vala VSCode (⭐38)](https://github.com/vala-lang/vala-vscode) - A plugin for Visual Studio Code that enables basic autocompletion and syntax highlighting for Vala.
+*   [Vala VSCode (⭐41)](https://github.com/vala-lang/vala-vscode) - A plugin for Visual Studio Code that enables basic autocompletion and syntax highlighting for Vala.
 *   [Vala-TMBundle (⭐21)](https://github.com/technosophos/Vala-TMBundle) - A TextMate bundle that provides Vala syntax highlighting, code completion, etc. Sublime Text 3 can also use this plugin.
 *   [language-vala-modern](https://atom.io/packages/language-vala-modern) - Provides Vala language support in Atom. It's a fork of the unmaintained "language-vala package".
 *   [Vala Syntax 4 Sublime Text](https://launchpad.net/valasyntax4sublimetext) - A basic plugin for Sublime Text 3 that provides syntax highlighting.
 
 ### Language Servers / Weather
 
-*   [vala-language-server (⭐267)](https://github.com/vala-lang/vala-language-server) - A language server that aims to provide code completion, formatting, syntax highlighting, and everything else according to the Language Server spec.
+*   [vala-language-server (⭐301)](https://github.com/vala-lang/vala-language-server) - A language server that aims to provide code completion, formatting, syntax highlighting, and everything else according to the Language Server spec.
 
 ### Libraries / Concurrency
 
@@ -653,18 +649,18 @@
 ### Libraries / Graphics Libraries
 
 *   [Babl](http://gegl.org/babl/) - A dynamic, any to any, pixel format translation library.
-*   [GRX (⭐16)](https://github.com/ev3dev/grx) - A graphics library for simple graphics displays (think 1-bit displays or Adafruit's PiTFT displays). It also includes keyboard, mouse, joystick and touchscreen input support.
+*   [GRX (⭐18)](https://github.com/ev3dev/grx) - A graphics library for simple graphics displays (think 1-bit displays or Adafruit's PiTFT displays). It also includes keyboard, mouse, joystick and touchscreen input support.
 *   [GSVG (GObject SVG Library)](https://gitlab.com/gsvg/gsvg) - GSVG is an effort to provide a GLib GObject implementation of W3C standard API.
-*   [live-chart (⭐60)](https://github.com/lcallarec/live-chart) - A real-time charting library for Vala and GTK3 based on Cairo.
+*   [live-chart (⭐75)](https://github.com/lcallarec/live-chart) - A real-time charting library for Vala and GTK3 based on Cairo.
 *   [SDL2](https://www.libsdl.org/) - A cross-platform development library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL, Direct3D, and Vulkan. Bindings are included in Vala and will be available starting with Vala 0.52.
 
 ### Libraries / IoC and Dependency Injection
 
-*   [Vadi (⭐18)](https://github.com/nahuelwexd/Vadi) - An IoC Container developed in order to facilitate the usage of dependency injection for Vala developers.
+*   [Vadi (⭐19)](https://github.com/nahuelwexd/Vadi) - An IoC Container developed in order to facilitate the usage of dependency injection for Vala developers.
 
 ### Libraries / Numerical Computation
 
-*   [balistica (⭐8)](https://github.com/fusilero/libbalistica) - An open source ballistic simulation library. There's a complete calculator [here (⭐53)](https://github.com/fusilero/balistica).
+*   [balistica (⭐11)](https://github.com/fusilero/libbalistica) - An open source ballistic simulation library. There's a complete calculator [here (⭐59)](https://github.com/fusilero/balistica).
 *   [vast (⭐11)](https://github.com/rainwoodman/vast) - A project for generative modeling in Vala. Think of TensorFlow rewritten in Vala.
 
 ### Libraries / Text Processing
@@ -673,8 +669,8 @@
 
 ### Libraries / Web Development
 
-*   [Ambition (⭐32)](https://github.com/AmbitionFramework/ambition) - A web framework written in Vala, with the MVC pattern in mind. Kinda unmaintained (someone could refactor it to use Valum under the hood, and maybe move it to Meson 😉).
-*   [Valum (⭐223)](https://github.com/valum-framework/valum) - A Web micro-framework entirely written in Vala.
+*   [Ambition (⭐33)](https://github.com/AmbitionFramework/ambition) - A web framework written in Vala, with the MVC pattern in mind. Kinda unmaintained (someone could refactor it to use Valum under the hood, and maybe move it to Meson 😉).
+*   [Valum (⭐229)](https://github.com/valum-framework/valum) - A Web micro-framework entirely written in Vala.
 
 ### Libraries / XML & Data Serialization
 
@@ -714,41 +710,41 @@
 
 ### Time Series Data
 
-*   [mlforecast (⭐748)](https://github.com/Nixtla/mlforecast) - Scalable machine learning based time series forecasting.
+*   [mlforecast (⭐925)](https://github.com/Nixtla/mlforecast) - Scalable machine learning based time series forecasting.
 
 ### Others / Other Resource
 
-*   [FinancePy (⭐2k)](https://github.com/domokane/FinancePy) - A Python Finance Library that focuses on the pricing and risk-management of Financial Derivatives, including fixed-income, equity, FX and credit derivatives.
+*   [FinancePy (⭐2.2k)](https://github.com/domokane/FinancePy) - A Python Finance Library that focuses on the pricing and risk-management of Financial Derivatives, including fixed-income, equity, FX and credit derivatives.
 
 ## [50. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Development tools / Web Servers
 
-*   [hot-lib-reloader (⭐585)](https://github.com/rksm/hot-lib-reloader-rs) - Hot reload Rust code [![build badge](https://github.com/rksm/hot-lib-reloader-rs/actions/workflows/ci.yml/badge.svg)](https://github.com/rksm/hot-lib-reloader-rs/actions/workflows/ci.yml)
+*   [hot-lib-reloader (⭐639)](https://github.com/rksm/hot-lib-reloader-rs) - Hot reload Rust code [![build badge](https://github.com/rksm/hot-lib-reloader-rs/actions/workflows/ci.yml/badge.svg)](https://github.com/rksm/hot-lib-reloader-rs/actions/workflows/ci.yml)
 
 ### Libraries / Automotive
 
-*   [mbr/socketcan (⭐129)](https://github.com/socketcan-rs/socketcan-rs) \[[socketcan](https://crates.io/crates/socketcan)] - Linux SocketCAN library
+*   [mbr/socketcan (⭐150)](https://github.com/socketcan-rs/socketcan-rs) \[[socketcan](https://crates.io/crates/socketcan)] - Linux SocketCAN library
 
 ### Libraries / Database
 
 *   ORM \[[orm](https://crates.io/keywords/orm)]
-    *   [Brendonovich/prisma-client-rust (⭐1.8k)](https://github.com/Brendonovich/prisma-client-rust) - An autogenerated query builder that provides simple and fully type-safe database access using the Prisma ecosystem. [![Test Status](https://img.shields.io/github/workflow/status/Brendonovich/prisma-client-rust/CI?label=tests\&style=flat-square)](https://github.com/Brendonovich/prisma-client-rust/actions)
-    *   [diesel-rs/diesel (⭐12k)](https://github.com/diesel-rs/diesel) - an ORM and Query builder
+    *   [Brendonovich/prisma-client-rust (⭐1.9k)](https://github.com/Brendonovich/prisma-client-rust) - An autogenerated query builder that provides simple and fully type-safe database access using the Prisma ecosystem. [![Test Status](https://img.shields.io/github/workflow/status/Brendonovich/prisma-client-rust/CI?label=tests\&style=flat-square)](https://github.com/Brendonovich/prisma-client-rust/actions)
+    *   [diesel-rs/diesel (⭐13k)](https://github.com/diesel-rs/diesel) - an ORM and Query builder
     *   [ivanceras/rustorm (⭐250)](https://github.com/ivanceras/rustorm) - an ORM
-    *   [mjovanc/njord (⭐301)](https://github.com/mjovanc/njord) - ⛵ A lightweight ORM library for Rust [![build status](https://github.com/mjovanc/njord/actions/workflows/ci.yml/badge.svg)](https://github.com/mjovanc/njord/actions/workflows/ci.yml) ![crates.io](https://img.shields.io/crates/v/njord.svg)
-    *   [rbatis/rbatis (⭐2.2k)](https://github.com/rbatis/rbatis) - ORM Framework High Performance(JSON based)
-    *   [SeaQL/sea-orm (⭐6.8k)](https://github.com/SeaQL/sea-orm) - 🐚 An async & dynamic ORM  [![crate](https://img.shields.io/crates/v/sea-orm.svg)](https://crates.io/crates/sea-orm) [![docs](https://img.shields.io/docsrs/sea-orm/latest)](https://docs.rs/sea-orm) [![build status](https://github.com/SeaQL/sea-orm/actions/workflows/rust.yml/badge.svg)](https://github.com/SeaQL/sea-orm/actions/workflows/rust.yml)
-    *   [SeaQL/seaography (⭐369)](https://github.com/SeaQL/seaography) - 🧭 GraphQL framework for SeaORM [![crate](https://img.shields.io/crates/v/seaography.svg)](https://crates.io/crates/seaography) [![docs](https://img.shields.io/docsrs/seaography/latest)](https://docs.rs/seaography) [![build status](https://github.com/SeaQL/seaography/actions/workflows/tests.yaml/badge.svg)](https://github.com/SeaQL/seaography/actions/workflows/tests.yaml)
+    *   [njord (⭐416)](https://github.com/njord-rs/njord) - ⛵ A versatile, feature-rich Rust ORM [![build status](https://github.com/njord-rs/njord/actions/workflows/core.yml/badge.svg)](https://github.com/njord-rs/njord/actions/workflows/core.yml) ![crates.io](https://img.shields.io/crates/v/njord.svg)
+    *   [rbatis/rbatis (⭐2.3k)](https://github.com/rbatis/rbatis) - ORM Framework High Performance(JSON based)
+    *   [SeaQL/sea-orm (⭐7.7k)](https://github.com/SeaQL/sea-orm) - 🐚 An async & dynamic ORM  [![crate](https://img.shields.io/crates/v/sea-orm.svg)](https://crates.io/crates/sea-orm) [![docs](https://img.shields.io/docsrs/sea-orm/latest)](https://docs.rs/sea-orm) [![build status](https://github.com/SeaQL/sea-orm/actions/workflows/rust.yml/badge.svg)](https://github.com/SeaQL/sea-orm/actions/workflows/rust.yml)
+    *   [SeaQL/seaography (⭐415)](https://github.com/SeaQL/seaography) - 🧭 GraphQL framework for SeaORM [![crate](https://img.shields.io/crates/v/seaography.svg)](https://crates.io/crates/seaography) [![docs](https://img.shields.io/docsrs/seaography/latest)](https://docs.rs/seaography) [![build status](https://github.com/SeaQL/seaography/actions/workflows/tests.yaml/badge.svg)](https://github.com/SeaQL/seaography/actions/workflows/tests.yaml)
 
 ### Libraries / Network programming
 
 *   Raknet
-    *   [b23r0/rust-raknet (⭐217)](https://github.com/b23r0/rust-raknet) - RakNet Protocol implementation [![Build Status](https://img.shields.io/github/workflow/status/b23r0/rust-raknet/Rust)](https://github.com/b23r0/rust-raknet/actions/workflows/rust.yml)
+    *   [b23r0/rust-raknet (⭐220)](https://github.com/b23r0/rust-raknet) - RakNet Protocol implementation [![Build Status](https://img.shields.io/github/workflow/status/b23r0/rust-raknet/Rust)](https://github.com/b23r0/rust-raknet/actions/workflows/rust.yml)
 
 ### Libraries / Virtualization
 
-*   [oxidecomputer/propolis (⭐173)](https://github.com/oxidecomputer/propolis) - Userspace program for illumos bhyve kernel modules
+*   [oxidecomputer/propolis (⭐182)](https://github.com/oxidecomputer/propolis) - Userspace program for illumos bhyve kernel modules
 
 ## [51. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
 
@@ -766,43 +762,38 @@
 
 ### Color / Diagnostics
 
-*   [lcheylus/overlength.nvim (⭐44)](https://github.com/lcheylus/overlength.nvim) - A small plugin to highlight too long lines.
-*   [brenoprata10/nvim-highlight-colors (⭐629)](https://github.com/brenoprata10/nvim-highlight-colors) - A plugin to highlight colors with Neovim.
+*   [lcheylus/overlength.nvim (⭐49)](https://github.com/lcheylus/overlength.nvim) - A small plugin to highlight too long lines.
+*   [brenoprata10/nvim-highlight-colors (⭐768)](https://github.com/brenoprata10/nvim-highlight-colors) - A plugin to highlight colors with Neovim.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [rebelot/kanagawa.nvim (⭐4k)](https://github.com/rebelot/kanagawa.nvim) - Neovim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.
-*   [Mofiqul/adwaita.nvim (⭐221)](https://github.com/Mofiqul/adwaita.nvim) - Colorscheme based on GNOME Adwaita syntax with support for popular plugins.
+*   [rebelot/kanagawa.nvim (⭐4.6k)](https://github.com/rebelot/kanagawa.nvim) - Neovim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.
+*   [Mofiqul/adwaita.nvim (⭐239)](https://github.com/Mofiqul/adwaita.nvim) - Colorscheme based on GNOME Adwaita syntax with support for popular plugins.
 
 ### Utility / Diagnostics
 
-*   [rcarriga/nvim-notify (⭐2.9k)](https://github.com/rcarriga/nvim-notify) - A fancy, configurable, notification manager.
+*   [rcarriga/nvim-notify (⭐3.2k)](https://github.com/rcarriga/nvim-notify) - A fancy, configurable, notification manager.
 
 ### Debugging / Diagnostics
 
-*   [andrewferrier/debugprint.nvim (⭐306)](https://github.com/andrewferrier/debugprint.nvim) - Debugging the print() way.
-
-### Neovim Lua Development / Diagnostics
-
-*   [miversen33/import.nvim (⭐171)](https://github.com/miversen33/import.nvim) - A safe require replacement with niceties.
+*   [andrewferrier/debugprint.nvim (⭐404)](https://github.com/andrewferrier/debugprint.nvim) - Debugging the print() way.
 
 ### Dependency Management / Diagnostics
 
-*   [Saecki/crates.nvim (⭐826)](https://github.com/Saecki/crates.nvim) - Rust dependency management for `Cargo.toml`.
+*   [Saecki/crates.nvim (⭐904)](https://github.com/Saecki/crates.nvim) - Rust dependency management for `Cargo.toml`.
 
 ### Git / Diagnostics
 
-*   [akinsho/git-conflict.nvim (⭐894)](https://github.com/akinsho/git-conflict.nvim) - A plugin to visualise and resolve merge conflicts.
+*   [akinsho/git-conflict.nvim (⭐1k)](https://github.com/akinsho/git-conflict.nvim) - A plugin to visualise and resolve merge conflicts.
 
 ### Editing Support / Diagnostics
 
-*   [gbprod/stay-in-place.nvim (⭐87)](https://github.com/gbprod/stay-in-place.nvim) - Neovim plugin that prevent cursor from moving when using shift and filter actions.
+*   [gbprod/stay-in-place.nvim (⭐95)](https://github.com/gbprod/stay-in-place.nvim) - Neovim plugin that prevent cursor from moving when using shift and filter actions.
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [Abstract-IDE/Abstract (⭐186)](https://github.com/Abstract-IDE/Abstract) - Abstract, The Neovim configuration to achieve the power of Modern IDE.
-*   [vi-tality/neovitality (⭐55)](https://github.com/vi-tality/neovitality) - A full-featured Neovim distribution, packaged with Nix Flake for easy installation and reproducibility.
-*   [cstsunfu/.sea.nvim (⭐145)](https://github.com/cstsunfu/.sea.nvim) - A modular Neovim configuration with beautiful UI and some useful features(Pomodoro Clock, Window Number).
+*   [Abstract-IDE/Abstract (⭐194)](https://github.com/Abstract-IDE/Abstract) - Abstract, The Neovim configuration to achieve the power of Modern IDE.
+*   [cstsunfu/.sea.nvim (⭐146)](https://github.com/cstsunfu/.sea.nvim) - A modular Neovim configuration with beautiful UI and some useful features(Pomodoro Clock, Window Number).
 
 ## [54. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
@@ -855,27 +846,27 @@
 
 ### Software / Archiving and Digital Preservation (DP)
 
-*   [ArchivesSpace](https://archivesspace.org/) - Archives information management application for managing and providing Web access to archives, manuscripts and digital objects. ([Demo](https://archivesspace.org/application/sandbox), [Source Code (⭐338)](https://github.com/archivesspace/archivesspace)) `ECL-2.0` `Ruby`
-*   [Omeka S](https://omeka.org/s/) - Omeka S is a web publication system for universities, galleries, libraries, archives, and museums. It consists of a local network of independently curated exhibits sharing a collaboratively built pool of items, media, and their metadata. ([Source Code (⭐395)](https://github.com/omeka/omeka-s)) `GPL-3.0` `Nodejs`
+*   [ArchivesSpace](https://archivesspace.org/) - Archives information management application for managing and providing Web access to archives, manuscripts and digital objects. ([Demo](https://archivesspace.org/application/sandbox), [Source Code (⭐359)](https://github.com/archivesspace/archivesspace)) `ECL-2.0` `Ruby`
+*   [Omeka S](https://omeka.org/s/) - Omeka S is a web publication system for universities, galleries, libraries, archives, and museums. It consists of a local network of independently curated exhibits sharing a collaboratively built pool of items, media, and their metadata. ([Source Code (⭐419)](https://github.com/omeka/omeka-s)) `GPL-3.0` `Nodejs`
 
 ### Software / Bookmarks and Link Sharing
 
-*   [Buku (⭐6.4k)](https://github.com/jarun/Buku) - A powerful bookmark manager and a personal textual mini-web. `GPL-3.0` `Python/deb`
-*   [Hackershare (⭐581)](https://github.com/hackershare/hackershare) - Social bookmarks website for hackers. `MIT` `Ruby`
-*   [LinkAce](https://www.linkace.org/) - A bookmark archive with automatic backups to the Internet Archive, link monitoring, and a full REST API. Installation is done via Docker, or as a simple PHP application. ([Demo](https://demo.linkace.org/guest/links), [Source Code (⭐2.5k)](https://github.com/Kovah/LinkAce/)) `GPL-3.0` `Docker/PHP`
-*   [linkding (⭐5.6k)](https://github.com/sissbruecker/linkding) - Minimal bookmark management with a fast and clean UI. Simple installation through Docker and can run on your Raspberry Pi. `MIT` `Docker/Python/Nodejs`
+*   [Buku (⭐6.6k)](https://github.com/jarun/Buku) - A powerful bookmark manager and a personal textual mini-web. `GPL-3.0` `Python/deb`
+*   [Hackershare (⭐605)](https://github.com/hackershare/hackershare) - Social bookmarks website for hackers. `MIT` `Ruby`
+*   [LinkAce](https://www.linkace.org/) - A bookmark archive with automatic backups to the Internet Archive, link monitoring, and a full REST API. Installation is done via Docker, or as a simple PHP application. ([Demo](https://demo.linkace.org/guest/links), [Source Code (⭐2.7k)](https://github.com/Kovah/LinkAce/)) `GPL-3.0` `Docker/PHP`
+*   [linkding (⭐7.3k)](https://github.com/sissbruecker/linkding) - Minimal bookmark management with a fast and clean UI. Simple installation through Docker and can run on your Raspberry Pi. `MIT` `Docker/Python/Nodejs`
 
 ### Software / Communication - Custom Communication Systems
 
-*   [Databag (⭐831)](https://github.com/balzack/databag) - Federated, end-to-end encrypted messaging service for the web, iOS, and Android, supporting text, photos, video, and WebRTC video and audio calls. ([Demo](https://databag.coredb.org/#/create)) `Apache-2.0` `Docker`
+*   [Databag (⭐950)](https://github.com/balzack/databag) - Federated, end-to-end encrypted messaging service for the web, iOS, and Android, supporting text, photos, video, and WebRTC video and audio calls. ([Demo](https://databag.coredb.org/#/create)) `Apache-2.0` `Docker`
 
 ### Software / Communication - SIP
 
-*   [openSIPS](https://opensips.org/) - OpenSIPS is an Open Source SIP proxy/server for voice, video, IM, presence and any other SIP extensions. ([Source Code (⭐1.2k)](https://github.com/OpenSIPS/opensips)) `GPL-2.0` `C`
+*   [openSIPS](https://opensips.org/) - OpenSIPS is an Open Source SIP proxy/server for voice, video, IM, presence and any other SIP extensions. ([Source Code (⭐1.3k)](https://github.com/OpenSIPS/opensips)) `GPL-2.0` `C`
 
 ### Software / Feed Readers
 
-*   [Yarr (⭐2.9k)](https://github.com/nkanaev/yarr) - Yarr (yet another rss reader) is a web-based feed aggregator which can be used both as a desktop application and a personal self-hosted server. `MIT` `Go`
+*   [Yarr (⭐3.1k)](https://github.com/nkanaev/yarr) - Yarr (yet another rss reader) is a web-based feed aggregator which can be used both as a desktop application and a personal self-hosted server. `MIT` `Go`
 
 ### Software / File Transfer - Peer-to-peer Filesharing
 
@@ -883,72 +874,71 @@
 
 ### Software / Miscellaneous
 
-*   [asciinema (⭐2.3k)](https://github.com/asciinema/asciinema-server) - Web app for hosting asciicasts. ([Demo](https://asciinema.org/)) `Apache-2.0` `Elixir/Docker`
-*   [DOMJudge](https://www.domjudge.org/) - A system for running a programming contest, like the ICPC regional and world championship programming contests. ([Demo](https://www.domjudge.org/demo), [Source Code (⭐710)](https://github.com/DOMjudge/domjudge)) `GPL-2.0/BSD-3-Clause/MIT` `PHP`
-*   [Neko](https://neko.m1k1o.net) - A self hosted virtual browser (rabb.it clone) that runs in Docker. ([Source Code (⭐6.3k)](https://github.com/m1k1o/neko)) `Apache-2.0` `Docker/Go`
-*   [Teleport](https://goteleport.com/) - Certificate authority and access plane for SSH, Kubernetes, web applications, and databases. ([Source Code (⭐17k)](https://github.com/gravitational/teleport)) `Apache-2.0` `Go/Docker/K8S`
-*   [TeslaMate (⭐5.7k)](https://github.com/adriankumpf/teslamate) - A powerful data logger for Tesla vehicles. `MIT` `Elixir/Docker`
+*   [DOMJudge](https://www.domjudge.org/) - A system for running a programming contest, like the ICPC regional and world championship programming contests. ([Demo](https://www.domjudge.org/demo), [Source Code (⭐754)](https://github.com/DOMjudge/domjudge)) `GPL-2.0/BSD-3-Clause/MIT` `PHP`
+*   [Neko](https://neko.m1k1o.net) - A self hosted virtual browser (rabb.it clone) that runs in Docker. ([Source Code (⭐8.4k)](https://github.com/m1k1o/neko)) `Apache-2.0` `Docker/Go`
+*   [Teleport](https://goteleport.com/) - Certificate authority and access plane for SSH, Kubernetes, web applications, and databases. ([Source Code (⭐18k)](https://github.com/gravitational/teleport)) `Apache-2.0` `Go/Docker/K8S`
+*   [TeslaMate (⭐6.2k)](https://github.com/adriankumpf/teslamate) - A powerful data logger for Tesla vehicles. `MIT` `Elixir/Docker`
 
-### Software / Photo and Video Galleries
+### Software / Photo Galleries
 
-*   [This week in past (⭐62)](https://github.com/RouHim/this-week-in-past) - Aggregates images taken this week, from previous years and presents them on a web page with a simple slideshow. `MIT` `Docker/Rust`
+*   [This week in past (⭐75)](https://github.com/RouHim/this-week-in-past) - Aggregates images taken this week, from previous years and presents them on a web page with a simple slideshow. `MIT` `Docker/Rust`
 *   [Thumbor](http://thumbor.org/) - A smart imaging service and enables on-demand cropping, resizing, applying filters and optimizing images. ([Source Code (⭐10k)](https://github.com/thumbor/thumbor)) `MIT` `Python/Docker`
 
 ### Software / Remote Access
 
-*   [Firezone](https://www.firezone.dev/) - Self-hosted secure remote access gateway that supports the WireGuard protocol. It offers a Web GUI, 1-line install script, multi-factor auth (MFA), and SSO. ([Source Code (⭐6.7k)](https://github.com/firezone/firezone)) `Apache-2.0` `Elixir/Docker`
-*   [Guacamole](https://guacamole.apache.org) - Guacamole is a clientless remote desktop gateway. It supports standard protocols like VNC and RDP. ([Source Code (⭐3k)](https://github.com/apache/guacamole-server)) `Apache-2.0` `Java/C`
-*   [ShellHub](https://www.shellhub.io) - ShellHub is a modern SSH server for remotely accessing linux devices via command line (using any SSH client) or web-based user interface, designed as an alternative to sshd. ([Source Code (⭐1.3k)](https://github.com/shellhub-io/shellhub)) `Apache-2.0` `Docker`
-*   [Sshwifty (⭐2.3k)](https://github.com/nirui/sshwifty) - Sshwifty is a SSH and Telnet connector made for the Web. ([Demo](https://sshwifty-demo.nirui.org)) `AGPL-3.0` `Go/Docker`
-*   [Warpgate (⭐3.7k)](https://github.com/warp-tech/warpgate) - Smart SSH and HTTPS bastion that works with any SSH client. `Apache-2.0` `Rust/Docker`
+*   [Firezone](https://www.firezone.dev/) - Self-hosted secure remote access gateway that supports the WireGuard protocol. It offers a Web GUI, 1-line install script, multi-factor auth (MFA), and SSO. ([Source Code (⭐7k)](https://github.com/firezone/firezone)) `Apache-2.0` `Elixir/Docker`
+*   [Guacamole](https://guacamole.apache.org) - Guacamole is a clientless remote desktop gateway. It supports standard protocols like VNC and RDP. ([Source Code (⭐3.2k)](https://github.com/apache/guacamole-server)) `Apache-2.0` `Java/C`
+*   [ShellHub](https://www.shellhub.io) - ShellHub is a modern SSH server for remotely accessing linux devices via command line (using any SSH client) or web-based user interface, designed as an alternative to sshd. ([Source Code (⭐1.4k)](https://github.com/shellhub-io/shellhub)) `Apache-2.0` `Docker`
+*   [Sshwifty (⭐2.6k)](https://github.com/nirui/sshwifty) - Sshwifty is a SSH and Telnet connector made for the Web. ([Demo](https://sshwifty-demo.nirui.org)) `AGPL-3.0` `Go/Docker`
+*   [Warpgate (⭐4.1k)](https://github.com/warp-tech/warpgate) - Smart SSH and HTTPS bastion that works with any SSH client. `Apache-2.0` `Rust/Docker`
 
 ### Software / Search Engines
 
-*   [Manticore Search (⭐8.8k)](https://github.com/manticoresoftware/manticoresearch/) - Full-text search and data analytics, with fast response time for small, medium and big data (alternative to Elasticsearch). `GPL-2.0` `Docker/deb/C++`
+*   [Manticore Search (⭐9.3k)](https://github.com/manticoresoftware/manticoresearch/) - Full-text search and data analytics, with fast response time for small, medium and big data (alternative to Elasticsearch). `GPL-2.0` `Docker/deb/C++`
 
 ### Software / Software Development - Project Management
 
-*   [Traq](https://traq.io/) - Project management and issue tracking system written in PHP. ([Source Code (⭐180)](https://github.com/nirix/traq)) `GPL-3.0` `PHP/Nodejs`
+*   [Traq](https://traq.io/) - Project management and issue tracking system written in PHP. ([Source Code (⭐182)](https://github.com/nirix/traq)) `GPL-3.0` `PHP/Nodejs`
 
 ### Software / Status / Uptime pages
 
-*   [StatPing.ng](https://statping-ng.github.io/) - An easy to use Status Page for your websites and applications. Statping will automatically fetch the application and render a beautiful status page with tons of features for you to build an even better status page. ([Source Code (⭐1.4k)](https://github.com/statping-ng/statping-ng)) `GPL-3.0` `Docker/Go`
+*   [StatPing.ng](https://statping-ng.github.io/) - An easy to use Status Page for your websites and applications. Statping will automatically fetch the application and render a beautiful status page with tons of features for you to build an even better status page. ([Source Code (⭐1.6k)](https://github.com/statping-ng/statping-ng)) `GPL-3.0` `Docker/Go`
 
 ## [60. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Editors
 
-*   [mix.nvim (⭐26)](https://github.com/brendalf/mix.nvim) - Mix wrapper plugin for Neovim.
+*   [mix.nvim (⭐27)](https://github.com/brendalf/mix.nvim) - Mix wrapper plugin for Neovim.
 
 ## [61. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Get Started
 
-*   [create-vite-app (⭐219)](https://github.com/ErKeLost/create-vite-app) - Scaffolding Your Out Of The Box Vite Project.
+*   [create-vite-app (⭐227)](https://github.com/ErKeLost/create-vite-app) - Scaffolding Your Out Of The Box Vite Project.
 
 ### Templates / Vue 2
 
-*   [vitify-admin (⭐140)](https://github.com/kingyue737/vitify-admin) - Vuetify admin starter template with full TypeScript support and intellisense of Vuetify components.
+*   [vitify-admin (⭐151)](https://github.com/kingyue737/vitify-admin) - Vuetify admin starter template with full TypeScript support and intellisense of Vuetify components.
 
 ### Templates / React
 
-*   [vite-mern-template (⭐68)](https://github.com/apicgg/vite-mern-template) - React 18 + TypeScript + Vite + Redux Toolkit + ESLint + React Router DOM + Axios + React Icons + React Toastify + Express + Mongoose.
-*   [Varsarr (⭐29)](https://github.com/altmshfkgudtjr/varsarr) - React, Typescript, Styled-Components, Recoil, React-Query, Axios, Absolute imports.
+*   [vite-mern-template (⭐81)](https://github.com/apicgg/vite-mern-template) - React 18 + TypeScript + Vite + Redux Toolkit + ESLint + React Router DOM + Axios + React Icons + React Toastify + Express + Mongoose.
+*   [Varsarr (⭐30)](https://github.com/altmshfkgudtjr/varsarr) - React, Typescript, Styled-Components, Recoil, React-Query, Axios, Absolute imports.
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-mpa-plus (⭐81)](https://github.com/yzydeveloper/vite-plugin-mpa-plus) - More flexible MPA (multi-page application) supports html templates, path rewriting.
+*   [vite-plugin-mpa-plus (⭐83)](https://github.com/yzydeveloper/vite-plugin-mpa-plus) - More flexible MPA (multi-page application) supports html templates, path rewriting.
 
 ## [62. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
 
 ### Python / React
 
-*   [graphql-core (⭐505)](https://github.com/graphql-python/graphql-core) - GraphQL implementation for Python based on GraphQL.js v16.3.0 reference implementation
+*   [graphql-core (⭐519)](https://github.com/graphql-python/graphql-core) - GraphQL implementation for Python based on GraphQL.js v16.3.0 reference implementation
 
 ### .NET / React
 
-*   [EntityGraphQL (⭐399)](https://github.com/EntityGraphQL/EntityGraphQL) - library to build a GraphQL API on top of data model with the extensibility to bring multiple data sources together in the single GraphQL schema.
-*   [ZeroQL (⭐255)](https://github.com/byme8/ZeroQL) - type-safe GraphQL client with Linq-like interface for C#
+*   [EntityGraphQL (⭐424)](https://github.com/EntityGraphQL/EntityGraphQL) - library to build a GraphQL API on top of data model with the extensibility to bring multiple data sources together in the single GraphQL schema.
+*   [ZeroQL (⭐283)](https://github.com/byme8/ZeroQL) - type-safe GraphQL client with Linq-like interface for C#
 
 ## [63. Awesome K6](/content/grafana/awesome-k6/week/README.md)
 

@@ -20,7 +20,7 @@
 
 ### Database
 
-*   [Infinity (⭐2.4k)](https://github.com/infiniflow/infinity) - The AI-native database built for LLM applications, providing incredibly fast vector and full-text search. \[Apache2]
+*   [Infinity (⭐2.9k)](https://github.com/infiniflow/infinity) - The AI-native database built for LLM applications, providing incredibly fast vector and full-text search. \[Apache2]
 
 ## [3. Awesome Roadmaps](/content/liuchong/awesome-roadmaps/README.md)
 
@@ -32,14 +32,14 @@
 
 ### UI Libraries, Components & Templates
 
-*   📁 [Astro Template Dante (⭐210)](https://github.com/JustGoodUI/dante-astro-theme) - Tailwind CSS & Astro blog/portfolio template.
+*   📁 [Astro Template Dante (⭐312)](https://github.com/JustGoodUI/dante-astro-theme) - Tailwind CSS & Astro blog/portfolio template.
 
 ## [5. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Libraries / Community
 
-*   [Vike (⭐4k)](https://github.com/vikejs/vike) - Like Nuxt/Next.js but as a do-one-thing-do-it-well plugin. ![react](https://img.shields.io/badge/-React-4ab2cf) ![vue3](https://img.shields.io/badge/-Vue%203-42b883) ![vue2](https://img.shields.io/badge/-Vue%202-42b883) ![svelte](https://img.shields.io/badge/-Svelte-db552a)
-*   [SSRx (⭐93)](https://github.com/marbemac/ssrx) - A thin layer on top of Vite to build modern SSR apps with a delightful DX.
+*   [Vike (⭐4.6k)](https://github.com/vikejs/vike) - Like Nuxt/Next.js but as a do-one-thing-do-it-well plugin. ![react](https://img.shields.io/badge/-React-4ab2cf) ![vue3](https://img.shields.io/badge/-Vue%203-42b883) ![vue2](https://img.shields.io/badge/-Vue%202-42b883) ![svelte](https://img.shields.io/badge/-Svelte-db552a)
+*   [SSRx (⭐133)](https://github.com/marbemac/ssrx) - A thin layer on top of Vite to build modern SSR apps with a delightful DX.
 
 ## [6. Awesome Playwright](/content/mxschmitt/awesome-playwright/README.md)
 
@@ -55,20 +55,20 @@
 
 ### Examples/Templates
 
-*   [tom-miseur/k6-templates (⭐34)](https://github.com/tom-miseur/k6-templates/) - Opinionated starter templates for k6 projects.
+*   [tom-miseur/k6-templates (⭐35)](https://github.com/tom-miseur/k6-templates/) - Opinionated starter templates for k6 projects.
 *   [SwissLife-OSS/k6-multiscenario-template (⭐52)](https://github.com/SwissLife-OSS/K6-MultiScenario-template) - Use K6 to implement a Multi Scenario template.
 *   [Im5tu/template-k6 (⭐5)](https://github.com/Im5tu/template-k6) - A K6 Performance Test Suite Template.
 *   [mohsenny/k6-test-template (⭐3)](https://github.com/mohsenny/k6-test-template) - Load testing framework.
 *   [kwidera/k6\_framework (⭐1)](https://github.com/kwidera/k6_framework) - Another k6 framework example.
 *   [Sahanipe/pet\_store (⭐1)](https://github.com/Sahanipe/pet_store) - Modularized scripts for the Swagger PetStore APIs.
 *   [lreimer/continuous-k6k8s (⭐18)](https://github.com/lreimer/continuous-k6k8s) - Continuously run k6 tests in Kubernetes using cronjobs.
-*   [luketn/docker-k6-grafana-influxdb (⭐159)](https://github.com/luketn/docker-k6-grafana-influxdb) - Demonstrates how to run load tests with containerised instances of K6, Grafana and InfluxDB.
+*   [luketn/docker-k6-grafana-influxdb (⭐161)](https://github.com/luketn/docker-k6-grafana-influxdb) - Demonstrates how to run load tests with containerised instances of K6, Grafana and InfluxDB.
 
 ## [8. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### REPLs / Third-party APIs
 
-*   [cl-repl (⭐13)](https://github.com/lisp-maintainers/cl-repl) - an ipython-like REPL. With completion, shell commands, magic commands, debugger, etc. [GPL3](http://www.gnu.org/copyleft/gpl.html). With [colorthemes (⭐12)](https://github.com/koji-kojiro/lem-pygments-colorthemes).
+*   [cl-repl (⭐22)](https://github.com/lisp-maintainers/cl-repl) - an ipython-like REPL. With completion, shell commands, magic commands, debugger, etc. [GPL3](http://www.gnu.org/copyleft/gpl.html). With [colorthemes (⭐12)](https://github.com/koji-kojiro/lem-pygments-colorthemes).
     *   new as of 2024: it now provides multi-line input and binary releases. Simply download a binary (Ubuntu so far) and run it.
 
 ## [9. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
@@ -99,13 +99,13 @@
 
 ### Crates / Component Libraries
 
-*   [Zu (⭐5)](https://github.com/RustVis/zu) - Yew web components, implementing Material Design.
+*   [Zu (⭐6)](https://github.com/RustVis/zu) - Yew web components, implementing Material Design.
 
 ## [12. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Editing Support / Diagnostics
 
-*   [johmsalas/text-case.nvim (⭐411)](https://github.com/johmsalas/text-case.nvim) - Text case changes via keybindings and custom substitute command with Telescope and LSP support.
+*   [johmsalas/text-case.nvim (⭐470)](https://github.com/johmsalas/text-case.nvim) - Text case changes via keybindings and custom substitute command with Telescope and LSP support.
 
 ## [13. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
@@ -127,7 +127,6 @@
 
 ### Books
 
-*   [Bootstrapping Microservices with Docker, Kubernetes, and Terraform, Second Editon](https://www.manning.com/books/bootstrapping-microservices-second-edition)
 *   [Patterns and Practices for Infrastructure as Code: With examples in Python and Terraform](https://www.manning.com/books/infrastructure-as-code-patterns-and-practices)
 
 ### Tutorials and Blog Posts / Beginner Guides
@@ -154,37 +153,37 @@
 ### Community Modules / Miscellaneous
 
 *   [terraform-aws-appconfig (⭐27)](https://github.com/terraform-aws-modules/terraform-aws-appconfig) - Creates AWS AppConfig resources on AWS.
-*   [terraform-aws-datadog-forwarders (⭐54)](https://github.com/terraform-aws-modules/terraform-aws-datadog-forwarders) - Creates resources on AWS to forward logs/metrics to Datadog.
-*   [terraform-aws-dms (⭐62)](https://github.com/terraform-aws-modules/terraform-aws-dms) - Creates AWS DMS (Database Migration Service) resources on AWS.
-*   [terraform-aws-jenkins (⭐255)](https://github.com/cloudposse-archives/terraform-aws-jenkins) - Build a Docker image with Jenkins, saves it to an ECR repo, and deploys it to Elastic Beanstalk running a Docker stack.
-*   [terraform-aws-managed-service-prometheus (⭐26)](https://github.com/terraform-aws-modules/terraform-aws-managed-service-prometheus) - Creates AWS Managed Service for Prometheus (AMP) resources on AWS.
-*   [terraform-aws-msk-kafka-cluster (⭐54)](https://github.com/terraform-aws-modules/terraform-aws-msk-kafka-cluster) - Creates AWS MSK (Managed Streaming for Kafka) resources on AWS.
-*   [terraform-aws-rds-proxy (⭐56)](https://github.com/terraform-aws-modules/terraform-aws-rds-proxy) - Creates AWS RDS Proxy resources on AWS.
+*   [terraform-aws-datadog-forwarders (⭐58)](https://github.com/terraform-aws-modules/terraform-aws-datadog-forwarders) - Creates resources on AWS to forward logs/metrics to Datadog.
+*   [terraform-aws-dms (⭐65)](https://github.com/terraform-aws-modules/terraform-aws-dms) - Creates AWS DMS (Database Migration Service) resources on AWS.
+*   [terraform-aws-jenkins (⭐256)](https://github.com/cloudposse-archives/terraform-aws-jenkins) - Build a Docker image with Jenkins, saves it to an ECR repo, and deploys it to Elastic Beanstalk running a Docker stack.
+*   [terraform-aws-managed-service-prometheus (⭐28)](https://github.com/terraform-aws-modules/terraform-aws-managed-service-prometheus) - Creates AWS Managed Service for Prometheus (AMP) resources on AWS.
+*   [terraform-aws-msk-kafka-cluster (⭐55)](https://github.com/terraform-aws-modules/terraform-aws-msk-kafka-cluster) - Creates AWS MSK (Managed Streaming for Kafka) resources on AWS.
+*   [terraform-aws-rds-proxy (⭐57)](https://github.com/terraform-aws-modules/terraform-aws-rds-proxy) - Creates AWS RDS Proxy resources on AWS.
 *   [terraform-digitalocean-droplet](https://registry.terraform.io/modules/terraform-digitalocean-modules/droplet/digitalocean/latest) - Terraform module for managing DigitalOcean Droplets and related resources.
 *   [terraform-linode-k8s](https://registry.terraform.io/modules/linode/k8s/linode/latest) - Installs Kubernetes on Linode Instances.
 
 ### Self-Hosted Registries / Miscellaneous
 
-*   [boring-registry (⭐166)](https://github.com/boring-registry/boring-registry) - Private Terraform Module/Provider Registry with API key authentication and blob storage support
+*   [boring-registry (⭐186)](https://github.com/boring-registry/boring-registry) - Private Terraform Module/Provider Registry with API key authentication and blob storage support
 
 ### Providers / Vendor supported providers
 
 *   [terraform-provider-dominos (⭐1.1k)](https://github.com/nat-henderson/terraform-provider-dominos) - Provider for Dominos Pizza.
-*   [terraform-provider-snowflake (⭐520)](https://github.com/Snowflake-Labs/terraform-provider-snowflake) - Provider for Snowflake data warehouse.
+*   [terraform-provider-snowflake (⭐565)](https://github.com/Snowflake-Labs/terraform-provider-snowflake) - Provider for Snowflake data warehouse.
 
 ### Tools / Community providers
 
 *   [Argonaut](https://www.argonaut.dev/) - Deploy apps and infrastructure on your cloud in minutes. Autogenerate Terraform modules, customize configurations through PRs. Support for app deployments on Kubernetes and Lambda environments.
 *   [layerform (⭐1.2k)](https://github.com/briefercloud/layerform) - Layerform helps engineers create reusable environment stacks using plain .tf files. Ideal for multiple "staging" environments. :skull:
-*   [terraform-bundle (⭐42k)](https://github.com/hashicorp/terraform/tree/main/tools/terraform-bundle) - Easily builds bundles containing a Terraform binary as well as provider binaries. Useful for CI and air-gapped Terraform Enterprise.
-*   [terraform-operator (⭐360)](https://github.com/GalleyBytes/terraform-operator) - A Kubernetes CRD to handle Terraform operations.
-*   [terraform.py (⭐451)](https://github.com/mantl/terraform.py) - Ansible dynamic inventory script for parsing Terraform state files. :skull:
+*   [terraform-bundle (⭐43k)](https://github.com/hashicorp/terraform/tree/main/tools/terraform-bundle) - Easily builds bundles containing a Terraform binary as well as provider binaries. Useful for CI and air-gapped Terraform Enterprise.
+*   [terraform-operator (⭐368)](https://github.com/GalleyBytes/terraform-operator) - A Kubernetes CRD to handle Terraform operations.
+*   [terraform.py (⭐452)](https://github.com/mantl/terraform.py) - Ansible dynamic inventory script for parsing Terraform state files. :skull:
 *   [terrahub (⭐224)](https://github.com/tfxor/terrahub) - TerraHub is terraform automation and orchestration tool. Seamlessly integrated into console.terrahub.io, enterprise friendly GUI to show realtime terraform executions, as well as auditing and reporting capabilities for historical terraform runs. :heavy\_dollar\_sign:
-*   [terramate (⭐3.2k)](https://github.com/terramate-io/terramate) - Tool for managing multiple Terraform stacks that comes with support for change detection and code generation
-*   [terrascan (⭐4.7k)](https://github.com/tenable/terrascan) - Collection of security and best practice test for static code analysis of terraform templates
-*   [tfautomv (⭐686)](https://github.com/busser/tfautomv) - Generate Terraform `moved` blocks automatically for painless refactoring
-*   [tfmask (⭐201)](https://github.com/cloudposse-archives/tfmask) - Terraform utility to mask select output from `terraform plan` and `terraform apply`
-*   [tgf (⭐100)](https://github.com/coveooss/tgf) - Terragrunt frontend for executing Terragrunt/Terraform through Docker.
+*   [terramate (⭐3.3k)](https://github.com/terramate-io/terramate) - Tool for managing multiple Terraform stacks that comes with support for change detection and code generation
+*   [terrascan (⭐4.8k)](https://github.com/tenable/terrascan) - Collection of security and best practice test for static code analysis of terraform templates
+*   [tfautomv (⭐712)](https://github.com/busser/tfautomv) - Generate Terraform `moved` blocks automatically for painless refactoring
+*   [tfmask (⭐204)](https://github.com/cloudposse-archives/tfmask) - Terraform utility to mask select output from `terraform plan` and `terraform apply`
+*   [tgf (⭐104)](https://github.com/coveooss/tgf) - Terragrunt frontend for executing Terragrunt/Terraform through Docker.
 
 ### Managed Terraform Platforms :heavy_dollar_sign: / IDE
 
@@ -202,7 +201,7 @@
 
 ### Editor Plugins / IDE
 
-*   [Emacs terraform-mode (⭐217)](https://github.com/hcl-emacs/terraform-mode)
+*   [Emacs terraform-mode (⭐224)](https://github.com/hcl-emacs/terraform-mode)
 *   [Intellij](https://plugins.jetbrains.com/plugin/7808-terraform-and-hcl)
 *   [VS Code](https://marketplace.visualstudio.com/items?itemName=hashicorp.terraform)
 

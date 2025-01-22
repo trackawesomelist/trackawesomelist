@@ -10,7 +10,7 @@
 
 ### Machine Learning
 
-*   [distributed-ml-patterns (⭐245)](https://github.com/terrytangyuan/distributed-ml-patterns) - Distributed machine learning system patterns.
+*   [distributed-ml-patterns (⭐384)](https://github.com/terrytangyuan/distributed-ml-patterns) - Distributed machine learning system patterns.
 
 ---
 

@@ -6,38 +6,154 @@
 
 
 
-## [1. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/README.md)
-
-### **Vector Database Comparison** / **Vector Database Options for Azure**
-
-*   [Azure SQL's support for natively storing and querying vectors](https://devblogs.microsoft.com/azure-sql/announcing-eap-native-vector-support-in-azure-sql-database/) \[21 May 2024]
-
-### **MLLM (multimodal large language model)** / **GPT series release date**
-
-*   Apple
-    1.  [4M-21](https://arxiv.org/abs/2406.09406): An Any-to-Any Vision Model for Tens of Tasks and Modalities. \[13 Jun 2024]
-
-## [2. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [1. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Templates / React
 
-*   [vite-template-react-ts-jest (⭐0)](https://github.com/ivanzusko/vite-template-react-ts-jest) - `React` + `TypeScript` + `Jest`.
+*   [vite-template-react-ts-jest (⭐1)](https://github.com/ivanzusko/vite-template-react-ts-jest) - `React` + `TypeScript` + `Jest`.
 
-## [3. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [2. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### (requires Neovim 0.5)
 
-*   [alexpasmantier/pymple.nvim (⭐7)](https://github.com/alexpasmantier/pymple.nvim) - Refactor Python imports on file move/rename.
+*   [alexpasmantier/pymple.nvim (⭐97)](https://github.com/alexpasmantier/pymple.nvim) - Refactor Python imports on file move/rename.
+
+## [3. Awesome Windows](/content/0pandadev/awesome-windows/README.md)
+
+### Application Launchers
+
+*   [Listary](https://www.listary.com/) - Searches files with advanced filters and indexing.
+*   [ueli](https://ueli.app/#/) - Powerful keystroke launcher. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/oliverschwendener/ueli)
+
+### Cloud Storage
+
+*   [Mega](https://mega.nz/) - Encrypts files before they leave your device.
+*   [Nextcloud](https://nextcloud.com/) - Lets you host your own cloud storage and communication server. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/nextcloud)
+*   [pCloud](https://www.pcloud.com) - Offers one-time payment for lifetime storage access.
+
+### Compression
+
+*   [WinRAR](https://www.rarlab.com/) - Compresses, backs up and splits files. ![paid](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/paid.svg)
+
+### Customization
+
+*   [Wallpaper Engine](https://www.wallpaperengine.io/) - Animated wallpapers for you dekstop. ![paid](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/paid.svg)
+*   [WindHawk](https://windhawk.net/) - A list of useful software Tweaks. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/ramensoftware/windhawk)
+*   [ZBar](https://www.zhornsoftware.co.uk/archive/index.html#zbar) - Manages taskbars across multiple monitors.
+
+### Data Recovery
+
+*   [Data Rescue](https://www.prosofteng.com/windows-data-recovery) - Professional recovery solution for photos, videos, and documents.
+*   [IsoBuster](https://www.isobuster.com/) - Multi-format data recovery tool supporting various storage media.
+*   [Ontrack EasyRecovery](https://www.ontrack.com/en-au/software/easyrecovery/windows) - Advanced recovery tool with comprehensive filtering capabilities.
+*   [TestDisk](https://www.cgsecurity.org/wiki/TestDisk) - Free recovery utility focused on partition restoration and disk repair.
+
+### Developer Utilities
+
+*   [Cacher](https://www.cacher.io/) - Syncs and organizes code snippets with Gist integration and IDE plugins.
+*   [Velocity](https://velocity.silverlakesoftware.com/) - Browses and searches API documentation without internet connection.
+
+### Email
+
+*   [Mailbird](https://www.mailbird.com/) - IMAP and POP3 email client with customization and multi-language support.
+*   [Wino Mail](https://winomail.app) - Modern mail client with integrated calendar. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/bkaankose/Wino-Mail)
+
+### File Management
+
+*   [FileOptimizer](https://nikkhokkho.sourceforge.io/static.php?page=FileOptimizer) - Lossless file size optimizer for multiple formats.
+*   [FreeFileSync](https://www.freefilesync.org/) - File and folder backup with multiple sync modes.
+*   [fselect (⭐4.1k)](https://github.com/jhspetersson/fselect) - SQL-like file search utility.
+
+### Game Stores
+
+*   [Epic Games](https://www.epicgames.com/store/) - Digital game storefront for PC and Mac.
+*   [GOG](https://www.gog.com/) - DRM-free game store featuring classic and modern titles.
+*   [LuaStudio](https://scormpool.com/luastudio) - Free game development tool using Lua/LuaJIT with multi-platform export capabilities.
+*   [Origin](https://www.origin.com/en-in/store/) - EA's digital game distribution platform.
+*   [Steam](https://store.steampowered.com/) - Leading digital game distribution platform with extensive library management.
+*   [Unity](https://unity3d.com/) - Popular game engine with comprehensive learning resources.
+*   [Unreal Engine](https://www.unrealengine.com/what-is-unreal-engine-4) - Professional game engine with 5% revenue share model.
+
+### Graphics
+
+*   [pngquant](https://pngquant.org/) - Command-line PNG compression utility.
+
+### Networking
+
+*   [Fiddler](https://www.telerik.com/fiddler) - Web debugging proxy.
+
+### Office Suites
+
+*   [Microsoft Office](https://www.office.com) - Provides real-time collaboration and cloud integration across apps.
+*   [NitroPDF](https://www.gonitro.com/pdf-reader) - Converts and edits PDFs with OCR capabilities.
+
+### Productivity
+
+*   [Cold Turkey](https://getcoldturkey.com) - Website blocker with strict enforcement mechanisms.
+*   [Easy Window Switcher](https://neosmart.net/EasySwitch/) - Fast application instance switcher.
+*   [File Juggler](https://www.filejuggler.com/) - Automated file organization with smart actions and PDF parsing.
+*   [Inkdrop](https://www.inkdrop.info/) - Markdown-focused note-taking application.
+
+### Proxy and VPN Tools
+
+*   [Algo (⭐29k)](https://github.com/trailofbits/algo) - Personal IPSEC VPN in the cloud.
+*   [Tailscale](https://tailscale.com/) - Zero config VPN for building secure networks. ![star](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/star.svg)
+*   [Twingate](https://www.twingate.com/) - Modern zero trust network access solution.
+*   [WireGuard](https://www.wireguard.com/) - Fast, modern, and secure VPN tunnel.
+
+### Screen Capture
+
+*   [ZoomIt](https://technet.microsoft.com/en-us/sysinternals/zoomit.aspx) - Screen zoom and annotation tool for presentations.
+
+### Security
+
+*   [Bitdefender](https://www.bitdefender.com/) - Comprehensive malware protection suite.
+*   [GlassWire](https://www.glasswire.com/) - Network security monitoring and visualization tool.
+*   [System Explorer](https://systemexplorer.net) - Enhanced task manager with advanced system monitoring.
+
+### System Utilities
+
+*   [CleanMyPC](https://macpaw.com/cleanmypc) - System cleanup and optimization utility. ![paid](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/paid.svg)
+*   [HWMonitor](https://www.cpuid.com/softwares/hwmonitor.html) - Hardware monitoring for temperatures, voltages, and fan speeds.
+*   [IrfanView](https://www.irfanview.com/) - Fast and compact image viewer and converter.
+*   [Process Hacker](https://processhacker.sourceforge.net/) - Comprehensive system monitoring and management tool. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/PKRoma/ProcessHacker)
+*   [qBittorrent](https://qbittorrent.org/) - Free and reliable P2P Bittorrent client.
+*   [Rufus](https://rufus.akeo.ie/) - Bootable USB creation utility.
+*   [SDelete](https://technet.microsoft.com/en-us/sysinternals/sdelete.aspx) - Secure file deletion command-line utility.
+*   [Waltr](https://softorino.com/waltr/) - iOS media transfer utility without iTunes. ![paid](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/paid.svg)
+
+### Terminal
+
+*   [ConEmu (⭐8.7k)](https://github.com/Maximus5/ConEmu) - Customizable terminal with tabs, splits, and quake-style dropdown.
+*   [FluentTerminal (⭐9.3k)](https://github.com/felixse/FluentTerminal) - UWP-based modern terminal emulator.
+*   [MobaXterm](https://mobaxterm.mobatek.net/) - Enhanced terminal with X server and SSH client.
+*   [MTPuTTY](https://ttyplus.com/multi-tabbed-putty/) - Multi-tabbed PuTTY client.
+
+### Version Control
+
+*   [SourceTree](https://www.sourcetreeapp.com/) - Free Git & Mercurial client.
+*   [Tower](https://www.git-tower.com/windows) - Professional Git client with advanced features.
+
+### Video Utilities
+
+*   [HandBrake](https://handbrake.fr/) - Converts videos between formats with compression options. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/HandBrake/HandBrake)
+*   [K-Lite Codecs](https://www.codecguide.com/download_kl.htm) - Adds support for playing most video and audio formats.
+*   [PotPlayer](https://potplayer.daum.net/) - Media player with hardware acceleration and streaming capabilities.
+*   [Videotape](https://usuaia.com/videotape) - Plays videos with minimal interface and controls.
+
+### Virtualization
+
+*   [Vagrant](https://www.vagrantup.com/) - Tool for building and managing virtual machines. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/mitchellh/vagrant)
 
 ## [4. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Authentication and OAuth
 
-*   [jwx (⭐1.9k)](https://github.com/lestrrat-go/jwx) - Go module implementing various JWx (JWA/JWE/JWK/JWS/JWT, otherwise known as JOSE) technologies
+*   [jwx (⭐2k)](https://github.com/lestrrat-go/jwx) - Go module implementing various JWx (JWA/JWE/JWK/JWS/JWT, otherwise known as JOSE) technologies
 
 ### Images
 
-*   [imagor (⭐3.3k)](https://github.com/cshum/imagor) - Fast, secure image processing server and Go library, using libvips.
+*   [imagor (⭐3.5k)](https://github.com/cshum/imagor) - Fast, secure image processing server and Go library, using libvips.
 
 ## [5. Awesome Product Management](/content/dend/awesome-product-management/README.md)
 
@@ -68,7 +184,7 @@
 
 ### UI
 
-*   [TuxRedux (⭐1)](https://github.com/KINGTUT10101/TuxRedux) - An immediate-mode UI system for LOVE2D inspired by SUIT.
+*   [TuxRedux (⭐2)](https://github.com/KINGTUT10101/TuxRedux) - An immediate-mode UI system for LOVE2D inspired by SUIT.
 
 ### Utilities
 
@@ -78,24 +194,24 @@
 
 ### Distribution
 
-*   [lovesfx (⭐6)](https://github.com/tpimh/lovesfx) - Packs love games in a single file for windows.
-*   [love-build (⭐17)](https://github.com/ellraiser/love-build) - Downloadable application (made in LÖVE!) that can build games for Windows, macOS, and Linux regardless of your own OS.
+*   [lovesfx (⭐7)](https://github.com/tpimh/lovesfx) - Packs love games in a single file for windows.
+*   [love-build (⭐30)](https://github.com/ellraiser/love-build) - Downloadable application (made in LÖVE!) that can build games for Windows, macOS, and Linux regardless of your own OS.
 
 ## [7. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### Analytics / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [litlyx (⭐347)](https://github.com/Litlyx/litlyx) - The easiest dev-centric analytics tool. Litlyx is an open-source analytics solution for any JavaScript framework. Setup takes less then 30 seconds and just one line of code!
+*   [litlyx (⭐848)](https://github.com/Litlyx/litlyx) - The easiest dev-centric analytics tool. Litlyx is an open-source analytics solution for any JavaScript framework. Setup takes less then 30 seconds and just one line of code!
 
 ### Ionic / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ionic-angular-library (⭐4)](https://github.com/rdlabo-team/ionic-angular-library) - A collection of components and services that are useful for developing Ionic Angular applications.
+*   [ionic-angular-library (⭐5)](https://github.com/rdlabo-team/ionic-angular-library) - A collection of components and services that are useful for developing Ionic Angular applications.
 
 ## [8. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [fzf-plugin (⭐0)](https://github.com/Atlas34/fzf-plugin) - [oh-my-zsh (⭐172k)](https://github.com/ohmyzsh/ohmyzsh)'s `fzf` plugin extracted so it can be used easily with other plugin managers.
+*   [fzf-plugin (⭐0)](https://github.com/Atlas34/fzf-plugin) - [oh-my-zsh (⭐175k)](https://github.com/ohmyzsh/ohmyzsh)'s `fzf` plugin extracted so it can be used easily with other plugin managers.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -106,4 +222,5 @@
 
 ---
 
+- Prev: [Aug 31, 2024](/content/2024/08/31/README.md)
 - Next: [Aug 29, 2024](/content/2024/08/29/README.md)

@@ -16,11 +16,11 @@
 
 ### C bindings
 
-*   [gpio.cr (⭐1)](https://github.com/spider-gazelle/gpio.cr) - Bindings for the gpiod library (general purpose IO control and feedback)
+*   [gpio.cr (⭐2)](https://github.com/spider-gazelle/gpio.cr) - Bindings for the gpiod library (general purpose IO control and feedback)
 
 ### Network Protocols
 
-*   [knx (⭐2)](https://github.com/spider-gazelle/knx) - KNX protocol implementation supporting multicast, unicast and TCP/IP tunnelling
+*   [knx (⭐3)](https://github.com/spider-gazelle/knx) - KNX protocol implementation supporting multicast, unicast and TCP/IP tunnelling
 
 ## [3. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -32,7 +32,7 @@
 
 ### Decentralized Systems
 
-*   [Tor (⭐8)](https://github.com/polycarbohydrate/awesome-tor#readme) - A free overlay network for enabling anonymous communication.
+*   [Tor (⭐31)](https://github.com/polycarbohydrate/awesome-tor#readme) - A free overlay network for enabling anonymous communication.
 
 ## [5. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
 
@@ -46,7 +46,7 @@
 
 ### Uncategorised
 
-*   [Hidden Lake (⭐210)](https://github.com/number571/go-peer/tree/master/cmd/hidden_lake) is an anonymous network with theoretical provability to a global observer. It is based on the problem of queues.
+*   [Hidden Lake (⭐250)](https://github.com/number571/go-peer/tree/master/cmd/hidden_lake) is an anonymous network with theoretical provability to a global observer. It is based on the problem of queues.
 
 ## [6. Awesome Coq](/content/coq-community/awesome-coq/README.md)
 
@@ -56,25 +56,25 @@
 
 ### Resources / Tutorials and Hints
 
-*   [Tricks in Coq (⭐491)](https://github.com/coq-community/coq-tricks) - Tips, tricks, and features in Coq that are hard to discover.
+*   [Tricks in Coq (⭐510)](https://github.com/coq-community/coq-tricks) - Tips, tricks, and features in Coq that are hard to discover.
 
 ## [7. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Configuration
 
-*   [yamagiconf (⭐15)](https://github.com/romshark/yamagiconf) - The "safe subset" of YAML for Go configs.
+*   [yamagiconf (⭐18)](https://github.com/romshark/yamagiconf) - The "safe subset" of YAML for Go configs.
 
 ### Databases Implemented in Go
 
-*   [rotom (⭐34)](https://github.com/xgzlucario/rotom) - A tiny Redis server built with Golang, compatible with RESP protocols.
+*   [rotom (⭐39)](https://github.com/xgzlucario/rotom) - A tiny Redis server built with Golang, compatible with RESP protocols.
 
 ### GUI
 
-*   [DarwinKit (⭐4.9k)](https://github.com/progrium/darwinkit) - Build native macOS applications using Go.
+*   [DarwinKit (⭐5.1k)](https://github.com/progrium/darwinkit) - Build native macOS applications using Go.
 
 ### Parsers/Encoders/Decoders
 
-*   [godump (⭐139)](https://github.com/yassinebenaid/godump) - Pretty print any GO variable with ease, an alternative to Go's `fmt.Printf("%#v")`.
+*   [godump (⭐179)](https://github.com/yassinebenaid/godump) - Pretty print any GO variable with ease, an alternative to Go's `fmt.Printf("%#v")`.
 
 ## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -86,19 +86,19 @@
 
 ### Authentication / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-clerk (⭐16)](https://github.com/anagstef/ngx-clerk) - An unofficial project that aims to provide a seamless integration of [Clerk](https://clerk.com) features into Angular applications.
+*   [ngx-clerk (⭐25)](https://github.com/anagstef/ngx-clerk) - An unofficial project that aims to provide a seamless integration of [Clerk](https://clerk.com) features into Angular applications.
 
 ### Deployment / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [analog-publish-gh-pages (⭐3)](https://github.com/k9n-dev/analog-publish-gh-pages) - A Github Action for the Deployment of an [Analog.js](https://analogjs.org) App on Github Pages.
+*   [analog-publish-gh-pages (⭐4)](https://github.com/k9n-dev/analog-publish-gh-pages) - A Github Action for the Deployment of an [Analog.js](https://analogjs.org) App on Github Pages.
 
 ### Free / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [angular-and-firebase-template (⭐5)](https://github.com/FullStacksDev/angular-and-firebase-template) - An opinionated full-stack starting point for building a web app, using Angular and Firebase.
+*   [angular-and-firebase-template (⭐6)](https://github.com/FullStacksDev/angular-and-firebase-template) - An opinionated full-stack starting point for building a web app, using Angular and Firebase.
 
 ### Loaders / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-loading-buttons (⭐14)](https://github.com/dkreider/ngx-loading-buttons) - A lightweight Angular library to add a loading spinner to your Angular Material buttons.
+*   [ngx-loading-buttons (⭐16)](https://github.com/dkreider/ngx-loading-buttons) - A lightweight Angular library to add a loading spinner to your Angular Material buttons.
 
 ---
 

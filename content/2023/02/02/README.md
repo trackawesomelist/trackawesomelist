@@ -36,7 +36,7 @@
 
 ### Testing / Scala
 
-*   [RestQA (⭐82)](https://github.com/restqa/restqa) - A tool to manage microservices mocking, unit and performance testing locally with best in class developer experience.
+*   [RestQA (⭐88)](https://github.com/restqa/restqa) - A tool to manage microservices mocking, unit and performance testing locally with best in class developer experience.
 
 ### REST / Scala
 
@@ -61,20 +61,20 @@
 
 ### Tools / Desktop
 
-*   [Compass (⭐1.1k)](https://github.com/mongodb-js/compass) - Free Cross-platform GUI from MongoDB
+*   [Compass (⭐1.2k)](https://github.com/mongodb-js/compass) - Free Cross-platform GUI from MongoDB
 
 ### Tools / Development
 
-*   [Mongo Playground (⭐179)](https://github.com/feliixx/mongoplayground) - Online query playground
-*   [VS Code Extension (⭐317)](https://github.com/mongodb-js/vscode)
+*   [Mongo Playground (⭐186)](https://github.com/feliixx/mongoplayground) - Online query playground
+*   [VS Code Extension (⭐326)](https://github.com/mongodb-js/vscode)
 
 ### Tools / Low-Code
 
-*   [Appsmith (⭐33k)](https://github.com/appsmithorg/appsmith) - Open-source Retool alternative
-*   [Appwrite (⭐43k)](https://github.com/appwrite/appwrite) - Open-source Firebase alternative
-*   [Budibase (⭐22k)](https://github.com/Budibase/budibase) - Open-source Retool alternative
-*   [ILLA Builder (⭐11k)](https://github.com/illacloud/illa-builder) - Open-source Retool alternative
-*   [Tooljet (⭐28k)](https://github.com/ToolJet/ToolJet) - Open-source Retool alternative
+*   [Appsmith (⭐35k)](https://github.com/appsmithorg/appsmith) - Open-source Retool alternative
+*   [Appwrite (⭐46k)](https://github.com/appwrite/appwrite) - Open-source Firebase alternative
+*   [Budibase (⭐23k)](https://github.com/Budibase/budibase) - Open-source Retool alternative
+*   [ILLA Builder (⭐12k)](https://github.com/illacloud/illa-builder) - Open-source Retool alternative
+*   [Tooljet (⭐34k)](https://github.com/ToolJet/ToolJet) - Open-source Retool alternative
 *   [DronaHQ](https://www.dronahq.com/) - Retool alternative
 *   [Retool](https://retool.com/) - Drag-and-drop editor with pre-built components to build internal tools
 
@@ -92,11 +92,11 @@
 
 ### Applications / Utilities
 
-*   [nix-community/nix-init (⭐818)](https://github.com/nix-community/nix-init) - Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more [![build-badge](https://github.com/nix-community/nix-init/actions/workflows/ci.yml/badge.svg)](https://github.com/nix-community/nix-init/actions/workflows/ci.yml)
+*   [nix-community/nix-init (⭐947)](https://github.com/nix-community/nix-init) - Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more [![build-badge](https://github.com/nix-community/nix-init/actions/workflows/ci.yml/badge.svg)](https://github.com/nix-community/nix-init/actions/workflows/ci.yml)
 
 ### Libraries / System
 
-*   [ardaku/whoami (⭐179)](https://github.com/ardaku/whoami) \[[whoami](https://crates.io/crates/whoami)] - crate to get the current user and environment. [![build badge](https://github.com/ardaku/whoami/actions/workflows/ci.yml/badge.svg?branch=stable)](https://github.com/ardaku/whoami/actions/workflows/ci.yml)
+*   [ardaku/whoami (⭐213)](https://github.com/ardaku/whoami) \[[whoami](https://crates.io/crates/whoami)] - crate to get the current user and environment. [![build badge](https://github.com/ardaku/whoami/actions/workflows/ci.yml/badge.svg?branch=stable)](https://github.com/ardaku/whoami/actions/workflows/ci.yml)
 
 ## [9. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
@@ -131,7 +131,7 @@
 
 ### Prompt Engineering / Prompt Engineering for Text-to-image
 
-*   [daspartho/prompt-extend (⭐178)](https://github.com/daspartho/prompt-extend): extending stable diffusion prompts with suitable style cues using text generation
+*   [daspartho/prompt-extend (⭐177)](https://github.com/daspartho/prompt-extend): extending stable diffusion prompts with suitable style cues using text generation
 
 ### Inbox: Stable Diffusion / Multi-agents
 
@@ -141,19 +141,19 @@
 
 *   [Upscale to huge sizes and add detail with SD Upscale : StableDiffusion](https://www.reddit.com/r/StableDiffusion/comments/xkjjf9/upscale_to_huge_sizes_and_add_detail_with_sd/): tutorial on Reddit
 
-### Inbox: Speech-to-text (STT) and spoken content analysis / Deforum
+### Speech-to-text (STT) and spoken content analysis / Deforum
 
-*   [openai/openai-cookbook (⭐58k)](https://github.com/openai/openai-cookbook): Examples and guides for using the OpenAI API
+*   [openai/openai-cookbook (⭐61k)](https://github.com/openai/openai-cookbook): Examples and guides for using the OpenAI API
 
 ### Auxiliary tools and concepts / Deforum
 
-*   [chaiNNer-org/chaiNNer (⭐4.4k)](https://github.com/chaiNNer-org/chaiNNer): A node-based image processing and AI upscaling GUI that makes it easy to chain together complex processing tasks
+*   [chaiNNer-org/chaiNNer (⭐4.8k)](https://github.com/chaiNNer-org/chaiNNer): A node-based image processing and AI upscaling GUI that makes it easy to chain together complex processing tasks
 
 ## [12. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Communication - Social Networks and Forums
 
-*   [Answer](https://answer.dev/) - An open-source knowledge-based community software. You can use it to quickly build your Q\&A community for product technical support, customer support, user communication, and more. ([Source Code (⭐12k)](https://github.com/answerdev/answer)) `Apache-2.0` `Docker/Go`
+*   [Answer](https://answer.dev/) - An open-source knowledge-based community software. You can use it to quickly build your Q\&A community for product technical support, customer support, user communication, and more. ([Source Code (⭐14k)](https://github.com/answerdev/answer)) `Apache-2.0` `Docker/Go`
 
 ### Software / Software Development - Project Management
 

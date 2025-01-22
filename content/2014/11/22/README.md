@@ -16,7 +16,7 @@
 
 ### JSON
 
-*   [JsonCpp (⭐8k)](https://github.com/open-source-parsers/jsoncpp) - A C++ library for interacting with JSON. \[MIT]
+*   [JsonCpp (⭐8.3k)](https://github.com/open-source-parsers/jsoncpp) - A C++ library for interacting with JSON. \[MIT]
 
 ---
 

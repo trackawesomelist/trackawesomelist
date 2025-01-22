@@ -49,7 +49,7 @@
 
 ### Color Palettes / Web App
 
-*   [Color Name List (⭐2.3k)](https://github.com/meodai/color-names/) - Huge curated list of unique color names.
+*   [Color Name List (⭐2.4k)](https://github.com/meodai/color-names/) - Huge curated list of unique color names.
 
 ## [8. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
 
@@ -61,7 +61,6 @@
 
 ### Job boards aggregators
 
-*   [Remote OK](https://remoteok.io/) - Scrapes many job board feeds for remote positions.
 *   [Remote Python](https://www.remotepython.com/) - Job board and aggregator specifically for remote Python jobs.
 *   [whoishiring.io](https://whoishiring.io/#!/search/19.41/-43.14/2/?remote=true)
 
@@ -79,12 +78,6 @@
 
 ### Stalled Development
 
-*   [**Basscss**](https://basscss.com) - Low-level CSS toolkit.\
-    ![](https://img.shields.io/github/stars/basscss/basscss.svg?style=social\&label=Star)
-    [Repo (⭐5.8k)](https://github.com/basscss/basscss/)
-*   [**Cutestrap**](https://www.cutestrap.com) - Sassy, opinionated CSS framework, a tiny alternative to Bootstrap.\
-    ![](https://img.shields.io/github/stars/tylerchilds/cutestrap.svg?style=social\&label=Star)
-    [Repo (⭐1.6k)](https://github.com/tylerchilds/cutestrap)
 *   [**unsemantic**](https://unsemantic.com) - Fluid grid for mobile, tablet, and desktop.\
     ![](https://img.shields.io/github/stars/nathansmith/unsemantic.svg?style=social\&label=Star)
     [Demo](https://unsemantic.com/demo-responsive),
@@ -92,8 +85,8 @@
     [Repo (⭐1.4k)](https://github.com/nathansmith/unsemantic)
 *   [**Centurion**](https://www.centurionframework.com) - Web-based framework for rapid prototyping and building larger web projects.\
     ![](https://img.shields.io/github/stars/justinhough/Centurion.svg?style=social\&label=Star)
-    [Docs (⭐325)](https://github.com/justinhough/Centurion/blob/master/DOCUMENTATION.md),
-    [Repo (⭐325)](https://github.com/justinhough/Centurion)
+    [Docs (⭐326)](https://github.com/justinhough/Centurion/blob/master/DOCUMENTATION.md),
+    [Repo (⭐326)](https://github.com/justinhough/Centurion)
 
 ## [12. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
@@ -118,7 +111,7 @@
 
 ### DevTools / Other external resources
 
-*   [rails-dashboard (⭐148)](https://github.com/y-takey/rails-dashboard) - A dev-tool to improve your rails log.
+*   [rails-dashboard (⭐150)](https://github.com/y-takey/rails-dashboard) - A dev-tool to improve your rails log.
 
 ## [15. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 
@@ -243,17 +236,9 @@
 
 *   [Build your own carousel with Vue](https://medium.com/@davidatomhernandez/how-to-a-simple-carousel-with-vue-138715d615d7) by [@Atom\_Hernandez](https://twitter.com/Atom_Hernandez)
 
-### Projects Using Vue.js / Open Source
-
-*   [Wake Up Billie Joe!](https://wakeupbilliejoe.com) - A web site countdown to October, based on Green Day's song Wake me up when September Ends. Created using Vue and Firebase.
-
 ### Components & Libraries / UI Components
 
 *   [vuejs-dialog (⭐351)](https://github.com/Godofbrowser/vuejs-dialog) - A lightweight, promise based alert, prompt and confirm dialog.
-
-### Components & Libraries / UI Utilities
-
-*   [vue-scrollmonitor (⭐43)](https://github.com/AlexandreBonaventure/vue-scrollmonitor) - A Vue plugin to watch visibility state of elements inside viewport with a wide range of browsers supported (use provide/inject so compat [vue@2.2.x](https://github.com/vuejs/awesome-vue/blob/master/README.md/mailto:vue@2.2.x))
 
 ## [29. Awesome Web Design](/content/nicolesaidy/awesome-web-design/week/README.md)
 

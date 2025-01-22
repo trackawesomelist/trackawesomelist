@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 01 - Nov 07, 2021
 
-54 awesome lists updated this week.
+52 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -44,7 +44,7 @@
 
 ### Software / Document Management - E-books
 
-*   [Kavita](https://www.kavitareader.com/) - Cross-platform e-book/manga/comic/pdf server and web reader with user management, ratings and reviews, and metadata support. ([Demo](https://www.kavitareader.com/#demo), [Source Code (⭐5.8k)](https://github.com/Kareadita/Kavita)) `GPL-3.0` `.NET/Docker`
+*   [Kavita](https://www.kavitareader.com/) - Cross-platform e-book/manga/comic/pdf server and web reader with user management, ratings and reviews, and metadata support. ([Demo](https://www.kavitareader.com/#demo), [Source Code (⭐7k)](https://github.com/Kareadita/Kavita)) `GPL-3.0` `.NET/Docker`
 
 ## [7. Awesome Amazon Seller](/content/ScaleLeap/awesome-amazon-seller/week/README.md)
 
@@ -56,7 +56,7 @@
 
 ### Local and regional groups
 
-*   [German Open Transport Meetup (⭐41)](https://github.com/transportkollektiv/meetup/wiki) - You can participate in a [biweekly](https://hackmd.okfn.de/opentransportmeetup#) online meetup of the German-speaking open transport community.
+*   [German Open Transport Meetup (⭐44)](https://github.com/transportkollektiv/meetup/wiki) - [Biweekly](https://hackmd.okfn.de/opentransportmeetup#) online meetup of the German-speaking open transport community.
 
 ## [9. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
@@ -68,7 +68,7 @@
 
 ### Books
 
-*   [Free Mathematics Books (⭐331k)](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-subjects.md#mathematics)
+*   [Free Mathematics Books (⭐348k)](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-subjects.md#mathematics)
 
 ## [11. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
@@ -105,7 +105,7 @@
 
 ### Tools / Frameworks
 
-*   [Kraken (⭐113)](https://github.com/OctoPerf/kraken) - Load testing IDE based on Gatling by OctoPerf.
+*   [Kraken (⭐114)](https://github.com/OctoPerf/kraken) - Load testing IDE based on Gatling by OctoPerf.
 
 ## [15. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
 
@@ -123,7 +123,7 @@
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
-*   [Keras Tuner (⭐2.8k)](https://github.com/keras-team/keras-tuner) - An easy-to-use, scalable hyperparameter optimization framework that solves the pain points of hyperparameter search.
+*   [Keras Tuner (⭐2.9k)](https://github.com/keras-team/keras-tuner) - An easy-to-use, scalable hyperparameter optimization framework that solves the pain points of hyperparameter search.
 
 ## [18. Awesome Kde](/content/francoism90/awesome-kde/week/README.md)
 
@@ -186,11 +186,11 @@
 
 *   [Android File Transfer](https://whoozle.github.io/android-file-transfer-linux/) - Reliable MTP client with minimalistic UI.
 *   [Ark](https://apps.kde.org/ark/) - Archiving Tool 📌.
-*   [fancontrol-gui (⭐303)](https://github.com/Maldela/fancontrol-gui) - GUI for fancontrol which is part of lm\_sensors.
+*   [fancontrol-gui (⭐331)](https://github.com/Maldela/fancontrol-gui) - GUI for fancontrol which is part of lm\_sensors.
 *   [KFind](https://apps.kde.org/kfind/) - A standalone search tool, launched by KRunner or from your menu. It is also integrated into Konqueror as "Find File" in the "Tools" menu 📌.
 *   [KRename](https://apps.kde.org/krename/) - A utility to rename multiple files 📌.
 *   [QtPass](https://qtpass.org/) - A multi-platform GUI for [pass](https://www.passwordstore.org/).
-*   [Yin-Yang (⭐586)](https://github.com/daehruoydeef/Yin-Yang) - Auto Night-mode for Linux.
+*   [Yin-Yang (⭐646)](https://github.com/daehruoydeef/Yin-Yang) - Auto Night-mode for Linux.
 
 ### Development & Programming
 
@@ -204,10 +204,10 @@
 ### Plasma desktop / Extensions
 
 *   [Bismuth (⭐2.4k)](https://github.com/Bismuth-Forge/bismuth) - A KDE Plasma extension that lets you tile windows automatically and manage them via keyboard, just like in classical tiling window managers (i3, dwm or XMondad). (**NOTE** for KDE Plasma 6, check Polonium listed below)
-*   [Dynamic Wallpaper Engine (⭐323)](https://github.com/zzag/plasma5-wallpapers-dynamic) - A wallpaper plugin that continuously updates the desktop background based on the current time in your location.
-*   [Kvantum (⭐1.5k)](https://github.com/tsujan/Kvantum) - An SVG-based theme engine for Qt4/Qt5, KDE and LXQt, with an emphasis on elegance, usability and practicality.
+*   [Dynamic Wallpaper Engine (⭐340)](https://github.com/zzag/plasma5-wallpapers-dynamic) - A wallpaper plugin that continuously updates the desktop background based on the current time in your location.
+*   [Kvantum (⭐1.6k)](https://github.com/tsujan/Kvantum) - An SVG-based theme engine for Qt4/Qt5, KDE and LXQt, with an emphasis on elegance, usability and practicality.
 *   [Latte-Dock](https://invent.kde.org/plasma/latte-dock) - Latte is a dock based on Plasma frameworks that provides an elegant and intuitive experience for your tasks and plasmoids 📌.
-*   [Window Title Applet (⭐241)](https://github.com/psifidotos/applet-window-title/) - Plasma 5 applet that shows the current window title and icon in your panels.
+*   [Window Title Applet (⭐248)](https://github.com/psifidotos/applet-window-title/) - Plasma 5 applet that shows the current window title and icon in your panels.
 
 ### Plasma desktop / KCM Modules and Systems
 
@@ -215,29 +215,29 @@
 
 ### Plasma desktop / Themes
 
-*   [ChromeOS (⭐156)](https://github.com/vinceliuice/ChromeOS-kde) - A materia Design theme for KDE Plasma desktop.
-*   [Fluent (⭐165)](https://github.com/vinceliuice/Fluent-kde) - A Microsoft inspired fluent Design theme for the KDE Plasma desktop.
+*   [ChromeOS (⭐172)](https://github.com/vinceliuice/ChromeOS-kde) - A materia Design theme for KDE Plasma desktop.
+*   [Fluent (⭐182)](https://github.com/vinceliuice/Fluent-kde) - A Microsoft inspired fluent Design theme for the KDE Plasma desktop.
 *   [Helium](https://store.kde.org/p/998869/) - A translucent theme for Plasma 5.
-*   [Hello (⭐217)](https://github.com/n4n0GH/hello) - A compilation of various color-schemes, themes, icons and more for the KDE Plasma desktop. It is unopinionated, putting you in charge.
-*   [Materia KDE (⭐610)](https://github.com/PapirusDevelopmentTeam/materia-kde) - A port of the popular GTK theme Materia for Plasma 5 desktop with a few additions and extras.
-*   [McMojave (⭐243)](https://github.com/vinceliuice/McMojave-kde) - A MacOSX Mojave like theme for KDE Plasma desktop.
-*   [Orchis (⭐215)](https://github.com/vinceliuice/Orchis-kde) - A materia Design theme for KDE Plasma desktop.
-*   [Qogir (⭐168)](https://github.com/vinceliuice/Qogir-kde) - A flat design theme for KDE Plasma desktop.
-*   [WhiteSur (⭐860)](https://github.com/vinceliuice/WhiteSur-kde) - A MacOS Big Sur theme for KDE Plasma.
+*   [Hello (⭐218)](https://github.com/n4n0GH/hello) - A compilation of various color-schemes, themes, icons and more for the KDE Plasma desktop. It is unopinionated, putting you in charge.
+*   [Materia KDE (⭐628)](https://github.com/PapirusDevelopmentTeam/materia-kde) - A port of the popular GTK theme Materia for Plasma 5 desktop with a few additions and extras.
+*   [McMojave (⭐250)](https://github.com/vinceliuice/McMojave-kde) - A MacOSX Mojave like theme for KDE Plasma desktop.
+*   [Orchis (⭐245)](https://github.com/vinceliuice/Orchis-kde) - A materia Design theme for KDE Plasma desktop.
+*   [Qogir (⭐181)](https://github.com/vinceliuice/Qogir-kde) - A flat design theme for KDE Plasma desktop.
+*   [WhiteSur (⭐951)](https://github.com/vinceliuice/WhiteSur-kde) - A MacOS Big Sur theme for KDE Plasma.
 
 ### Plasma desktop / Qt and GTK+ Applications Appearance
 
 *   [Akava-Kv (⭐194)](https://github.com/Akava-Design/Akava-Kv) - User oriented Kvantum theme for KDE.
 *   [Chrome-KDE5BreezeDark (⭐23)](https://github.com/pdeljanov/Chrome-KDE5BreezeDark) - A theme for Chrome on KDE5 when using the Breeze Dark window decoration.
-*   [KDE-Rounded-Corners (⭐168)](https://github.com/alex47/KDE-Rounded-Corners) - Rounds the corners of your windows.
-*   [SierraBreeze (⭐356)](https://github.com/ishovkun/SierraBreeze) - OSX-like window decoration for KDE Plasma written in C++.
+*   [KDE-Rounded-Corners (⭐167)](https://github.com/alex47/KDE-Rounded-Corners) - Rounds the corners of your windows.
+*   [SierraBreeze (⭐354)](https://github.com/ishovkun/SierraBreeze) - OSX-like window decoration for KDE Plasma written in C++.
 
 ### Plasma desktop / Icons
 
-*   [Candy (⭐1k)](https://github.com/EliverLara/candy-icons) - Sweet gradient icons.
-*   [Flatery (⭐307)](https://github.com/cbrnix/Flatery) - Icon theme for Linux in flat style.
-*   [Papirus (⭐6.5k)](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Material icon theme, initially based on Paper.
-*   [Zafiro (⭐437)](https://github.com/zayronxio/Zafiro-icons) - Minimalist icons created with the flat-desing technique, utilizing washed out colors and always accompanied by white. The priority is simplicity.
+*   [Candy (⭐1.1k)](https://github.com/EliverLara/candy-icons) - Sweet gradient icons.
+*   [Flatery (⭐316)](https://github.com/cbrnix/Flatery) - Icon theme for Linux in flat style.
+*   [Papirus (⭐6.8k)](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Material icon theme, initially based on Paper.
+*   [Zafiro (⭐440)](https://github.com/zayronxio/Zafiro-icons) - Minimalist icons created with the flat-desing technique, utilizing washed out colors and always accompanied by white. The priority is simplicity.
 
 ### Plasma desktop / Scripts
 
@@ -274,7 +274,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐556)](https://github.com/mineral-ui/mineral-ui)
+  Source code \*: [:octocat: (⭐559)](https://github.com/mineral-ui/mineral-ui)
 
 
 - : [City of Boston Fleet](https://patterns.boston.gov/)
@@ -285,7 +285,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐20)](https://github.com/CityOfBoston/digital)
+  Source code \*: [:octocat: (⭐22)](https://github.com/CityOfBoston/digital)
 
 
 - : [Semi Design](https://semi.design/en-US)
@@ -296,7 +296,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐7.9k)](https://github.com/DouyinFE/semi-design)
+  Source code \*: [:octocat: (⭐8.7k)](https://github.com/DouyinFE/semi-design)
 
 
 - : [Singapore Government Design System](https://www.designsystem.tech.gov.sg/)
@@ -307,7 +307,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐11)](https://github.com/govtechsg/sgds)
+  Source code \*: [:octocat: (⭐21)](https://github.com/govtechsg/sgds)
 
 
 - : [VMware Clarity Design System](https://clarity.design/)
@@ -330,7 +330,7 @@
 
 ### AppImage consumption tools / Sandboxes
 
-*   [AppImage Sandboxing Project (⭐19)](https://github.com/mgord9518/aisap) - Golang library to help sandbox AppImages with bwrap.
+*   [AppImage Sandboxing Project (⭐38)](https://github.com/mgord9518/aisap) - Golang library to help sandbox AppImages with bwrap.
 
 ## [23. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
@@ -350,15 +350,15 @@
 
 ### Others
 
-*   [FFmpegBlazor (⭐127)](https://github.com/sps014/FFmpegBlazor) - ![stars](https://img.shields.io/github/stars/sps014/FFmpegBlazor?style=flat-square\&cacheSeconds=604800) ![last-commit](https://img.shields.io/github/last-commit/sps014/FFmpegBlazor?style=flat-square\&cacheSeconds=86400) FFmpegBlazor provides ability to utilize ffmpeg.wasm from Blazor Wasm C#. [ffmpeg.wasm (⭐14k)](https://github.com/ffmpegwasm/ffmpeg.wasm) ![stars](https://img.shields.io/github/stars/ffmpegwasm/ffmpeg.wasm?style=flat-square\&cacheSeconds=604800) ![last-commit](https://img.shields.io/github/last-commit/ffmpegwasm/ffmpeg.wasm?style=flat-square\&cacheSeconds=86400)  is a pure Webassembly / Javascript port of FFmpeg. It enables video & audio record, convert and stream right inside browsers.
+*   [FFmpegBlazor (⭐137)](https://github.com/sps014/FFmpegBlazor) - ![stars](https://img.shields.io/github/stars/sps014/FFmpegBlazor?style=flat-square\&cacheSeconds=604800) ![last-commit](https://img.shields.io/github/last-commit/sps014/FFmpegBlazor?style=flat-square\&cacheSeconds=86400) FFmpegBlazor provides ability to utilize ffmpeg.wasm from Blazor Wasm C#. [ffmpeg.wasm (⭐15k)](https://github.com/ffmpegwasm/ffmpeg.wasm) ![stars](https://img.shields.io/github/stars/ffmpegwasm/ffmpeg.wasm?style=flat-square\&cacheSeconds=604800) ![last-commit](https://img.shields.io/github/last-commit/ffmpegwasm/ffmpeg.wasm?style=flat-square\&cacheSeconds=86400)  is a pure Webassembly / Javascript port of FFmpeg. It enables video & audio record, convert and stream right inside browsers.
 
 ### Component bundles
 
-*   [MudBlazor (⭐7.6k)](https://github.com/MudBlazor/MudBlazor) - ![stars](https://img.shields.io/github/stars/MudBlazor/MudBlazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/MudBlazor/MudBlazor?style=flat-square\&cacheSeconds=86400) MudBlazor is an ambitious Material Design component framework for Blazor with an emphasis on ease of use and clear structure. It is perfect for .NET developers who want to rapidly build web applications without having to struggle with CSS and Javascript. MudBlazor, being written entirely in C#, empowers them to adapt, fix or extend the framework and the multitude of examples in the documentation makes learning MudBlazor very easy. [Documentation](https://mudblazor.com/). [Demo](https://try.mudblazor.com/).
+*   [MudBlazor (⭐8.2k)](https://github.com/MudBlazor/MudBlazor) - ![stars](https://img.shields.io/github/stars/MudBlazor/MudBlazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/MudBlazor/MudBlazor?style=flat-square\&cacheSeconds=86400) MudBlazor is an ambitious Material Design component framework for Blazor with an emphasis on ease of use and clear structure. It is perfect for .NET developers who want to rapidly build web applications without having to struggle with CSS and Javascript. MudBlazor, being written entirely in C#, empowers them to adapt, fix or extend the framework and the multitude of examples in the documentation makes learning MudBlazor very easy. [Documentation](https://mudblazor.com/). [Demo](https://try.mudblazor.com/).
 
 ### Real-World applications / Others
 
-*   [Try .NET (⭐2.8k)](https://github.com/dotnet/try) - ![GitHub stars](https://img.shields.io/github/stars/dotnet/try?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/dotnet/try?style=flat-square\&cacheSeconds=86400) Try .NET provides developers and content authors with tools to create interactive experiences.
+*   [Try .NET (⭐2.9k)](https://github.com/dotnet/try) - ![GitHub stars](https://img.shields.io/github/stars/dotnet/try?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/dotnet/try?style=flat-square\&cacheSeconds=86400) Try .NET provides developers and content authors with tools to create interactive experiences.
 
 ## [25. Awesome](/content/craftcms/awesome/week/README.md)
 
@@ -390,8 +390,8 @@
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [artart222/CodeArt (⭐878)](https://github.com/artart222/CodeArt) - A fast general-purpose IDE written entirely in Lua with an installer for Linux/Windows/macOS and built in `:CodeArtUpdate` command for updating it.
-*   [shaeinst/roshnivim (⭐186)](https://github.com/shaeinst/roshnivim) - Roshnivim, can be called neovim's distro, is a predefined configs so that you don't need 1000hr to setup neovim as an IDE.
+*   [artart222/CodeArt (⭐894)](https://github.com/artart222/CodeArt) - A fast general-purpose IDE written entirely in Lua with an installer for Linux/Windows/macOS and built in `:CodeArtUpdate` command for updating it.
+*   [shaeinst/roshnivim (⭐194)](https://github.com/shaeinst/roshnivim) - Roshnivim, can be called Neovim's distro, is a predefined configs so that you don't need 1000hr to setup Neovim as an IDE.
 
 ## [29. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
@@ -404,13 +404,13 @@
 
 ### Uncategorized
 
-*   [Vignette (⭐505)](https://github.com/vignetteapp/vignette) - The open source VTuber software. \[English]
+*   [Vignette (⭐521)](https://github.com/vignetteapp/vignette) - The open source VTuber software. \[English]
 
 ## [31. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 
 ### Contents / Social Network
 
-*   [Skyfeed (⭐95)](https://github.com/redsolver/skyfeed) - Alternative to Twitter by [RedSolver](https://github.com/redsolver)
+*   [Skyfeed (⭐97)](https://github.com/redsolver/skyfeed) - Alternative to Twitter by [RedSolver](https://github.com/redsolver)
 
 ## [32. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
@@ -422,26 +422,19 @@
 
 ### Command-Line Tools / Discovery
 
-*   [statix (⭐552)](https://github.com/nerdypepper/statix) - A linter/fixer to check for and fix antipatterns in Nix code.
+*   [statix (⭐590)](https://github.com/nerdypepper/statix) - A linter/fixer to check for and fix antipatterns in Nix code.
 
 ### Programming Languages / Rust
 
-*   [fenix (⭐636)](https://github.com/nix-community/fenix) - Rust toolchains and Rust analyzer nightly for nix.
-*   [nixpkgs-mozilla (⭐512)](https://github.com/mozilla/nixpkgs-mozilla) - Mozilla's overlay with Rust toolchains and Firefox.
-*   [rust-overlay (⭐848)](https://github.com/oxalica/rust-overlay) - Pure and reproducible nix overlay of binary distributed Rust toolchains.
+*   [fenix (⭐744)](https://github.com/nix-community/fenix) - Rust toolchains and Rust analyzer nightly for nix.
+*   [nixpkgs-mozilla (⭐540)](https://github.com/mozilla/nixpkgs-mozilla) - Mozilla's overlay with Rust toolchains and Firefox.
+*   [rust-overlay (⭐1k)](https://github.com/oxalica/rust-overlay) - Pure and reproducible nix overlay of binary distributed Rust toolchains.
 
 ### Community / Webinterface
 
 *   [#nixos on Libera.Chat](https://web.libera.chat/?nick=Guest?#nixos)
 
-## [34. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
-
-### Components & Libraries / UI Components
-
-*   [vue2-gmap-custom-marker (⭐137)](https://github.com/eregnier/vue2-gmap-custom-marker) - Vue google map custom marker component
-*   [vue-leaflet-custom-marker (⭐3)](https://github.com/eregnier/vue-leaflet-custom-marker) - Vue leaflet for open street map custom marker component
-
-## [35. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [34. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### Books / iOS
 
@@ -469,22 +462,22 @@
 *   [Retro Gaming with Raspberry Pi](https://magpi.raspberrypi.com/books/retro-gaming) - A guide on how to setup your Raspberry Pi to play classic games, and how to make your own games.
 *   [The Official Raspberry Pi Handbook 2021](https://magpi.raspberrypi.com/books/handbook-2021) - A guide to help you get the most of your Raspberry Pi computer, essential information, project ideas, tutorials, and reviews.
 
-## [36. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/week/README.md)
+## [35. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/week/README.md)
 
 ### Mail / Text
 
 *   [Thunderbird](https://hg.mozilla.org/mozilla-central) - Backed by Mozilla, Thunderbird is an extensible email, newsfeed, chat, and calendaring client. ![cpp\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/cpp-16.png "C++ language.") ![javascript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/javascript-16.png "JavaScript language.") ![rust\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/rust-16.png "Rust language.")
-*   [ElectronMail (⭐1.4k)](https://github.com/vladimiry/ElectronMail) - Unofficial desktop app for ProtonMail and Tutanota end-to-end encrypted email providers. ![typescript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/typescript-16.png "TypeScript language.")
+*   [ElectronMail (⭐1.5k)](https://github.com/vladimiry/ElectronMail) - Unofficial desktop app for ProtonMail and Tutanota end-to-end encrypted email providers. ![typescript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/typescript-16.png "TypeScript language.")
 
 ### Cryptocurrency
 
-*   [Copay (⭐150)](https://github.com/bitpay/copay) - A secure bitcoin wallet platform for both desktop and mobile devices.  ![typescript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/typescript-16.png "TypeScript language.")
+*   [Copay (⭐178)](https://github.com/bitpay/copay) - A secure bitcoin wallet platform for both desktop and mobile devices.  ![typescript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/typescript-16.png "TypeScript language.")
 
 ### Productivity / Text
 
-*   [reventlou (⭐80)](https://github.com/b3z/reventlou) - Personal database as an information management system. ![typescript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/typescript-16.png "TypeScript language.") ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
-*   [DropPoint (⭐600)](https://github.com/GameGodS3/DropPoint) - Make drag-and-drop easier using DropPoint. Helps to drag content without having to open side-by-side windows. ![javascript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/javascript-16.png "JavaScript language.")
-*   [Time to Leave (⭐405)](https://github.com/thamara/time-to-leave) - Log work hours and get notified when it's time to leave the office and start to live. ![javascript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/javascript-16.png "JavaScript language.") ![css\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/css-16.png "CSS language.") !\[html\_icon]
+*   [reventlou (⭐84)](https://github.com/b3z/reventlou) - Personal database as an information management system. ![typescript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/typescript-16.png "TypeScript language.") ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
+*   [DropPoint (⭐828)](https://github.com/GameGodS3/DropPoint) - Make drag-and-drop easier using DropPoint. Helps to drag content without having to open side-by-side windows. ![javascript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/javascript-16.png "JavaScript language.")
+*   [Time to Leave (⭐457)](https://github.com/thamara/time-to-leave) - Log work hours and get notified when it's time to leave the office and start to live. ![javascript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/javascript-16.png "JavaScript language.") ![css\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/css-16.png "CSS language.") !\[html\_icon]
 
 ### Development
 
@@ -492,107 +485,101 @@
 
 ### Development / Git
 
-*   [GitHub Desktop (⭐18k)](https://github.com/desktop/desktop) - Simple collaboration from your desktop.  ![typescript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/typescript-16.png "TypeScript language.")
+*   [GitHub Desktop (⭐20k)](https://github.com/desktop/desktop) - Simple collaboration from your desktop.  ![typescript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/typescript-16.png "TypeScript language.")
 
 ### Utilities / Text
 
-*   [MQTTX (⭐3.1k)](https://github.com/emqx/MQTTX) - An elegant Cross-platform MQTT 5.0 desktop client. ![javascript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/javascript-16.png "JavaScript language.") ![typescript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/typescript-16.png "TypeScript language.")
-*   [dupeGuru (⭐4.2k)](https://github.com/arsenetar/dupeguru/) - dupeGuru is a tool to find duplicate files on your computer. It can scan using file names and file contents. ![objective\_c\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/objective-c-16.png "Objective-C language.")
-*   [Pika (⭐1.3k)](https://github.com/superhighfives/pika) - Is an easy to use, open-source, native colour picker for macOS. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.") !\[metal\_icon]
-*   [Spotter (⭐735)](https://github.com/spotter-application/spotter) - Productivity tool, the main function is to search and launch external application actions and applications themselves, so you can stay focused on your current task. Kind of spotlight or alfred alternative. ![typescript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/typescript-16.png "TypeScript language.") ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
-*   [Super Productivity (⭐7.2k)](https://github.com/johannesjo/super-productivity) - Free to do list & time tracker for programmers & designers with Jira integration. ![typescript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/typescript-16.png "TypeScript language.") ![javascript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/javascript-16.png "JavaScript language.")
-*   [Bitwarden (⭐3.6k)](https://github.com/bitwarden/desktop) - Cross-platform password management solutions for individuals, teams, and business organizations.  ![typescript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/typescript-16.png "TypeScript language.")
-*   [Bitwarden Menu (⭐60)](https://github.com/jnsdrtlf/bitwarden-menubar) - Bitwarden Password Manager in your menu bar ![typescript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/typescript-16.png "TypeScript language.") ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
-*   [Rugby (⭐590)](https://github.com/swiftyfinch/Rugby) - 🏈 Cache CocoaPods for faster rebuild and indexing Xcode project. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
+*   [MQTTX (⭐3.8k)](https://github.com/emqx/MQTTX) - An elegant Cross-platform MQTT 5.0 desktop client. ![javascript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/javascript-16.png "JavaScript language.") ![typescript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/typescript-16.png "TypeScript language.")
+*   [dupeGuru (⭐5.3k)](https://github.com/arsenetar/dupeguru/) - dupeGuru is a tool to find duplicate files on your computer. It can scan using file names and file contents. ![objective\_c\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/objective-c-16.png "Objective-C language.")
+*   [Pika (⭐1.8k)](https://github.com/superhighfives/pika) - Is an easy to use, open-source, native colour picker for macOS. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.") !\[metal\_icon]
+*   [Spotter (⭐755)](https://github.com/spotter-application/spotter) - Productivity tool, the main function is to search and launch external application actions and applications themselves, so you can stay focused on your current task. Kind of spotlight or alfred alternative. ![typescript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/typescript-16.png "TypeScript language.") ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
+*   [Super Productivity (⭐12k)](https://github.com/johannesjo/super-productivity) - Free to do list & time tracker for programmers & designers with Jira integration. ![typescript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/typescript-16.png "TypeScript language.") ![javascript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/javascript-16.png "JavaScript language.")
+*   [Bitwarden (⭐3.5k)](https://github.com/bitwarden/desktop) - Cross-platform password management solutions for individuals, teams, and business organizations.  ![typescript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/typescript-16.png "TypeScript language.")
+*   [Bitwarden Menu (⭐62)](https://github.com/jnsdrtlf/bitwarden-menubar) - Bitwarden Password Manager in your menu bar ![typescript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/typescript-16.png "TypeScript language.") ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
+*   [Rugby (⭐683)](https://github.com/swiftyfinch/Rugby) - 🏈 Cache CocoaPods for faster rebuild and indexing Xcode project. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
 
 ### Development / Web Development
 
-*   [HTTP Toolkit (⭐531)](https://github.com/httptoolkit/httptoolkit-desktop) - HTTP Toolkit is a cross-platform tool to intercept, debug & mock HTTP.  ![typescript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/typescript-16.png "TypeScript language.")
+*   [HTTP Toolkit (⭐617)](https://github.com/httptoolkit/httptoolkit-desktop) - HTTP Toolkit is a cross-platform tool to intercept, debug & mock HTTP.  ![typescript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/typescript-16.png "TypeScript language.")
 
 ### Editors / Markdown
 
-*   [Zettlr (⭐9.1k)](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century. ![javascript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/javascript-16.png "JavaScript language.") ![typescript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/typescript-16.png "TypeScript language.")
+*   [Zettlr (⭐10k)](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century. ![javascript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/javascript-16.png "JavaScript language.") ![typescript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/typescript-16.png "TypeScript language.")
 
 ### Editors / Text
 
-*   [micro (⭐23k)](https://github.com/zyedidia/micro) - A terminal-based text editor that aims to be easy to use and intuitive, while also taking advantage of the capabilities of modern terminals. ![go\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/golang-16.png "Go language.")
+*   [micro (⭐25k)](https://github.com/zyedidia/micro) - A terminal-based text editor that aims to be easy to use and intuitive, while also taking advantage of the capabilities of modern terminals. ![go\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/golang-16.png "Go language.")
 
 ### Extensions / Text
 
-*   [AdGuard for Safari (⭐920)](https://github.com/adguardteam/adguardforsafari) - The most advanced ad blocking extension for Safari ![javascript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/javascript-16.png "JavaScript language.")
+*   [AdGuard for Safari (⭐1k)](https://github.com/adguardteam/adguardforsafari) - The most advanced ad blocking extension for Safari ![javascript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/javascript-16.png "JavaScript language.")
 
 ### Graphics / Text
 
-*   [FreeCAD (⭐16k)](https://github.com/FreeCAD/FreeCAD) - FreeCAD is an open-source 3D parametric modeler !\[c++\_icon] ![python\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/python-16.png "Python language.")
+*   [FreeCAD (⭐19k)](https://github.com/FreeCAD/FreeCAD) - FreeCAD is an open-source 3D parametric modeler !\[c++\_icon] ![python\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/python-16.png "Python language.")
 
 ### Images / Text
 
 *   [Krita](https://invent.kde.org/graphics/krita) - Krita is a cross-platform application for creating digital art files from scratch like illustrations, concept art, matte painting, textures, comics and animations. ![cpp\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/cpp-16.png "C++ language.") ![python\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/python-16.png "Python language.") ![c\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/c-16.png "C language.")
-*   [Imagine (⭐3.1k)](https://github.com/meowtec/Imagine) - Imagine is a desktop app for compression of PNG and JPEG, with a modern and friendly UI.  ![typescript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/typescript-16.png "TypeScript language.")
+*   [Imagine (⭐3.6k)](https://github.com/meowtec/Imagine) - Imagine is a desktop app for compression of PNG and JPEG, with a modern and friendly UI.  ![typescript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/typescript-16.png "TypeScript language.")
 *   [Inkscape](https://gitlab.com/inkscape/inkscape) - Inkscape is a Free and open source vector graphics editor. !\[c++\_icon]
 
 ### IDE / Text
 
-*   [IntelliJ IDEA Community Edition (⭐16k)](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA is an integrated development environment written in Java for developing computer software ![java\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/java-16.png "Java language.")
+*   [IntelliJ IDEA Community Edition (⭐17k)](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA is an integrated development environment written in Java for developing computer software ![java\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/java-16.png "Java language.")
 *   [Oni (⭐11k)](https://github.com/onivim/oni) - Oni is a modern take on modal editing code editor focused on developer productivity.  ![javascript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/javascript-16.png "JavaScript language.") ![typescript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/typescript-16.png "TypeScript language.")
-*   [Visual Studio Code (⭐152k)](https://github.com/Microsoft/vscode) - Code editor developed by Microsoft.  ![typescript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/typescript-16.png "TypeScript language.")
+*   [Visual Studio Code (⭐163k)](https://github.com/Microsoft/vscode) - Code editor developed by Microsoft.  ![typescript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/typescript-16.png "TypeScript language.")
 
 ### Keyboard / Text
 
-*   [Keycastr (⭐11k)](https://github.com/keycastr/keycastr) - Keystroke visualizer. !\[Objective-C\_icon]
+*   [Keycastr (⭐13k)](https://github.com/keycastr/keycastr) - Keystroke visualizer. !\[Objective-C\_icon]
 
 ### Menubar / Text
 
-*   [Akku (⭐606)](https://github.com/jariz/Akku) - The missing macOS bluetooth headset battery indicator app. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.") ![python\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/python-16.png "Python language.") ![ruby\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/ruby-16.png "Ruby language.")
-*   [CloudyTabs (⭐780)](https://github.com/josh-/CloudyTabs) - Simple menu bar macOS application for displaying lists of your iCloud Tabs and Reading List.  ![objective\_c\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/objective-c-16.png "Objective-C language.")
-*   [LinkLiar (⭐1.2k)](https://github.com/halo/LinkLiar) - Keep your MAC address random for privacy (intuitive GUI for ifconfig) ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
+*   [Akku (⭐610)](https://github.com/jariz/Akku) - The missing macOS bluetooth headset battery indicator app. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.") ![python\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/python-16.png "Python language.") ![ruby\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/ruby-16.png "Ruby language.")
+*   [CloudyTabs (⭐790)](https://github.com/josh-/CloudyTabs) - Simple menu bar macOS application for displaying lists of your iCloud Tabs and Reading List.  ![objective\_c\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/objective-c-16.png "Objective-C language.")
+*   [LinkLiar (⭐1.3k)](https://github.com/halo/LinkLiar) - Keep your MAC address random for privacy (intuitive GUI for ifconfig) ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
 
 ### Notes / Text
 
-*   [Dnote (⭐2.6k)](https://github.com/dnote/dnote) - A simple command line notebook with multi-device sync and web interface. ![go\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/golang-16.png "Go language.") ![typescript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/typescript-16.png "TypeScript language.")
+*   [Dnote (⭐2.8k)](https://github.com/dnote/dnote) - A simple command line notebook with multi-device sync and web interface. ![go\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/golang-16.png "Go language.") ![typescript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/typescript-16.png "TypeScript language.")
 
 ### Sharing Files / Text
 
-*   [Cyberduck (⭐2.7k)](https://github.com/iterate-ch/cyberduck) - Cyberduck is a libre server and cloud storage browser for Mac and Windows with support for FTP, SFTP, WebDAV, Amazon S3, OpenStack Swift, Backblaze B2, Microsoft Azure & OneDrive, Google Drive and Dropbox. ![java\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/java-16.png "Java language.")
+*   [Cyberduck (⭐3.3k)](https://github.com/iterate-ch/cyberduck) - Cyberduck is a libre server and cloud storage browser for Mac and Windows with support for FTP, SFTP, WebDAV, Amazon S3, OpenStack Swift, Backblaze B2, Microsoft Azure & OneDrive, Google Drive and Dropbox. ![java\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/java-16.png "Java language.")
 
-## [37. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
-
-### Libs
-
-*   🍰 [makallio85/YamlRoute plugin (⭐6)](https://github.com/makallio85/yaml-route) - Configure routes with simple YAML files.
-
-## [38. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [36. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Game Development
 
-*   [libktx/ktx (⭐1.3k)](https://github.com/libktx/ktx) - Kotlin utilities for LibGDX applications.
-*   [korlibs/KorGE (⭐2.5k)](https://github.com/korlibs/KorGE) - Modern Multiplatform Game Engine for Kotlin. Write games for the JVM, JavaScript, Android and iOS in no time using Kotlin.
+*   [libktx/ktx (⭐1.4k)](https://github.com/libktx/ktx) - Kotlin utilities for LibGDX applications.
+*   [korlibs/KorGE (⭐2.6k)](https://github.com/korlibs/KorGE) - Modern Multiplatform Game Engine for Kotlin. Write games for the JVM, JavaScript, Android and iOS in no time using Kotlin.
 
-## [39. Awesome Translations](/content/mbiesiad/awesome-translations/week/README.md)
+## [37. Awesome Translations](/content/mbiesiad/awesome-translations/week/README.md)
 
 ### Platforms / Platform-specific tools
 
 *   [PO file editor](https://pofile.net/free-po-editor) - A free tool for translating PO files for localization with Gettext.
 
-## [40. Awesome Golem](/content/golemfactory/awesome-golem/week/README.md)
+## [38. Awesome Golem](/content/golemfactory/awesome-golem/week/README.md)
 
 ### Apps / Miscellaneous
 
 *   [Filterms (⭐2)](https://github.com/krunch3r76/filterms) - Market-strategy for whitelisting or blacklisting as a Golem requestor (yapapi).
 
-## [41. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [39. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Presentations / XML
 
 *   [Kitson P. Kelly - Deno, and The Future of JavaScript Runtimes - CityJS Conf 2020](https://www.youtube.com/watch?v=2eRyZpX4qvI)
 
-## [42. Awesome Flask](/content/mjhea0/awesome-flask/week/README.md)
+## [40. Awesome Flask](/content/mjhea0/awesome-flask/week/README.md)
 
 ### Auth / Basic Auth and Session-based (for HTML Endpoints)
 
-*   [Flask-SimpleLogin (⭐198)](https://github.com/flask-extensions/Flask-SimpleLogin) - Authentication.
+*   [Flask-SimpleLogin (⭐199)](https://github.com/flask-extensions/Flask-SimpleLogin) - Authentication.
 
-## [43. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [41. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
@@ -624,47 +611,47 @@
 
 *   [Binder](https://mybinder.org/) - Turn a Git repo into a collection of interactive notebooks. It is a free public service.
 
-## [44. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [42. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### EBooks / Online resources
 
 *   [Self-Sovereign Identity](https://www.manning.com/books/self-sovereign-identity) - A book about how SSI empowers us to receive digitally-signed credentials, store them in private wallets, and securely prove our online identities. (early access, published continuously, final release fall 2021)
 
-## [45. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [43. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Interesting Instagram Accounts, Posts and Reels / Deforum
 
 *   [Deep Music Visualizer](https://www.instagram.com/deep_music_visualizer/)
 
-## [46. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [44. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / System tools
 
-*   [uutils/coreutils (⭐17k)](https://github.com/uutils/coreutils) - A cross-platform rewrite of the GNU coreutils [![CICD](https://github.com/uutils/coreutils/actions/workflows/CICD.yml/badge.svg)](https://github.com/uutils/coreutils/actions/workflows/CICD.yml)
+*   [uutils/coreutils (⭐18k)](https://github.com/uutils/coreutils) - A cross-platform rewrite of the GNU coreutils [![CICD](https://github.com/uutils/coreutils/actions/workflows/CICD.yml/badge.svg)](https://github.com/uutils/coreutils/actions/workflows/CICD.yml)
 
 ### Libraries / Email
 
-*   [stalwartlabs/mail-parser (⭐279)](https://github.com/stalwartlabs/mail-parser) \[[mail-parser](https://crates.io/crates/mail-parser)] - A fast and robust e-mail parsing library with full MIME support [![build badge](https://github.com/stalwartlabs/mail-parser/actions/workflows/rust.yml/badge.svg)](https://github.com/stalwartlabs/mail-parser/actions/workflows/rust.yml)
+*   [stalwartlabs/mail-parser (⭐341)](https://github.com/stalwartlabs/mail-parser) \[[mail-parser](https://crates.io/crates/mail-parser)] - A fast and robust e-mail parsing library with full MIME support [![build badge](https://github.com/stalwartlabs/mail-parser/actions/workflows/rust.yml/badge.svg)](https://github.com/stalwartlabs/mail-parser/actions/workflows/rust.yml)
 
 ### Libraries / Game development
 
 *   bracket-lib (previously RLTK)
-    *   [bracket-lib (⭐1.5k)](https://github.com/amethyst/bracket-lib) \[[bracket-lib](https://crates.io/crates/bracket-lib)] - The Roguelike Toolkit (RLTK). [![Rust](https://github.com/amethyst/bracket-lib/actions/workflows/rust.yml/badge.svg)](https://github.com/amethyst/bracket-lib/actions/workflows/rust.yml)
+    *   [bracket-lib (⭐1.6k)](https://github.com/amethyst/bracket-lib) \[[bracket-lib](https://crates.io/crates/bracket-lib)] - The Roguelike Toolkit (RLTK). [![Rust](https://github.com/amethyst/bracket-lib/actions/workflows/rust.yml/badge.svg)](https://github.com/amethyst/bracket-lib/actions/workflows/rust.yml)
 *   Tcod-rs
     *   [tomassedovic/tcod-rs (⭐229)](https://github.com/tomassedovic/tcod-rs) - Libtcod bindings.
     *   Warning: Not maintained anymore
 
 ### Registries / Web programming
 
-*   [w4/chartered (⭐128)](https://github.com/w4/chartered) - A private, authenticated, permissioned Cargo registry [![CI](https://github.com/w4/chartered/actions/workflows/ci.yml/badge.svg)](https://github.com/w4/chartered/actions/workflows/ci.yml)
+*   [w4/chartered (⭐129)](https://github.com/w4/chartered) - A private, authenticated, permissioned Cargo registry [![CI](https://github.com/w4/chartered/actions/workflows/ci.yml/badge.svg)](https://github.com/w4/chartered/actions/workflows/ci.yml)
 
-## [47. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
+## [45. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
 ### API / Database
 
 *   [Jexia DataSet](https://jexia.com) - REST API Schema & Schemaless cloud data storage with built-in validators, relations, aggregation functions.
 
-## [48. Awesome Nodered](/content/naimo84/awesome-nodered/week/README.md)
+## [46. Awesome Nodered](/content/naimo84/awesome-nodered/week/README.md)
 
 ### Installation
 
@@ -691,13 +678,13 @@
 *   [Twitter](https://twitter.com/NodeRED)
 *   [YouTube](https://www.youtube.com/channel/UCQaB8NXBEPod7Ab8PPCLLAA)
 
-## [49. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [47. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Advanced
 
 *   [Programming Algorithms in Lisp](https://link.springer.com/book/10.1007/978-1-4842-6428-7) - Updated version of "[Programming Algorithms](https://leanpub.com/progalgs)"; A comprehensive guide to writing efficient programs with data structures and algorithms in Lisp.
 
-## [50. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+## [48. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
 ### Interactive Experiences
 
@@ -707,19 +694,19 @@
 
 *   [Aritelia](https://aritelia.io/) - Open world social MMO with sandbox building and collectable NFTs.
 
-## [51. Awesome Prisma](/content/catalinmiron/awesome-prisma/week/README.md)
+## [49. Awesome Prisma](/content/catalinmiron/awesome-prisma/week/README.md)
 
 ### :safety_vest: Community Prisma Tools
 
 *   [Declarative Authorisation Middleware (⭐77)](https://github.com/joindeed/prisma-auth)
 
-## [52. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
+## [50. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
 
 ### Dead
 
 *   [Tidepools](http://tidepools.co) is being developed within the [Red Hook Mesh Network](http://oti.newamerica.net/blogposts/2013/case_study_red_hook_initiative_wifi_tidepools-78575), for addressing local, social incentives for mesh use. An Open Source, Collaborative, Mobile Mapping & Social Hub, Reflecting Community Needs & Culture through Custom Apps, Time-based Maps, & Data Feeds.
 
-## [53. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
+## [51. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
 
 ### Algorithms & Data Structures
 
@@ -727,14 +714,14 @@
 
 ### Containers
 
-*   [CI/CD for Monorepos: Effectively building, testing, and deploying code with monorepos (⭐82)](https://github.com/semaphoreci/book-monorepo-cicd) - Pablo Tomas Fernandez Zavalia, Marko Anastasov, SemaphoreCI (PDF, EPUB, Kindle)
-*   [CI/CD with Docker and Kubernetes Book (⭐197)](https://github.com/semaphoreci/book-cicd-docker-kubernetes) - Marko Anastasov, Jérôme Petazzoni, Pablo Tom F. Zavalia, SemaphoreCI (PDF, EPUB, Kindle)
+*   [CI/CD for Monorepos: Effectively building, testing, and deploying code with monorepos (⭐86)](https://github.com/semaphoreci/book-monorepo-cicd) - Pablo Tomas Fernandez Zavalia, Marko Anastasov, SemaphoreCI (PDF, EPUB, Kindle)
+*   [CI/CD with Docker and Kubernetes Book (⭐198)](https://github.com/semaphoreci/book-cicd-docker-kubernetes) - Marko Anastasov, Jérôme Petazzoni, Pablo Tom F. Zavalia, SemaphoreCI (PDF, EPUB, Kindle)
 
-## [54. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [52. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Books
 
-- API: [PoetryDB (⭐500)](https://github.com/thundercomb/poetrydb#readme)
+- API: [PoetryDB (⭐522)](https://github.com/thundercomb/poetrydb#readme)
 
   Description: Enables you to get instant data from our vast poetry collection
 
@@ -758,7 +745,7 @@
 
   CORS: Unknown
 
-  Call this API: 
+  : 
 
 
 
@@ -792,7 +779,7 @@
 
 ### Music
 
-- API: [Gaana (⭐109)](https://github.com/cyberboysumanjay/GaanaAPI)
+- API: [Gaana (⭐115)](https://github.com/cyberboysumanjay/GaanaAPI)
 
   Description: API to retrieve song information from Gaana
 

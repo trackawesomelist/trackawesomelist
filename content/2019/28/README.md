@@ -22,7 +22,7 @@
 
 ### Varia / Tutorials
 
-*   [Awesome graph classification (⭐4.7k)](https://github.com/benedekrozemberczki/awesome-graph-classification) - Comprehensive list of graph embedding papers with title, authors, link to the paper and reference implementation.
+*   [Awesome graph classification (⭐4.8k)](https://github.com/benedekrozemberczki/awesome-graph-classification) - Comprehensive list of graph embedding papers with title, authors, link to the paper and reference implementation.
 
 ## [3. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
@@ -105,8 +105,8 @@
 
 ### GitHub Tools and Management / Docker Container Actions
 
-*   [Add releases to GitHub (⭐118)](https://github.com/elgohr/Github-Release-Action)
-*   [Publish a docker image to Dockerhub (⭐719)](https://github.com/elgohr/Publish-Docker-Github-Action)
+*   [Add releases to GitHub (⭐166)](https://github.com/elgohr/Github-Release-Action)
+*   [Publish a docker image to Dockerhub (⭐778)](https://github.com/elgohr/Publish-Docker-Github-Action)
 
 ## [9. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
 
@@ -130,17 +130,17 @@
 
 ## [12. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
-### Development / Books
+### Development / Chat
 
-*   [foy (⭐257)](https://github.com/zaaack/foy) - Lightweight general purpose task runner/build tool.
+*   [foy (⭐268)](https://github.com/zaaack/foy) - Lightweight general purpose task runner/build tool.
 
 ### Files and Directories / File Sync/Sharing
 
-*   [share-cli (⭐345)](https://github.com/marionebl/share-cli) - Share files with your local network.
+*   [share-cli (⭐369)](https://github.com/marionebl/share-cli) - Share files with your local network.
 
 ### Just for Fun / Image Conversion
 
-*   [text-meme (⭐102)](https://github.com/beatfreaker/text-meme-cli) - Generate text memes.
+*   [text-meme (⭐100)](https://github.com/beatfreaker/text-meme-cli) - Generate text memes.
 
 ## [13. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
@@ -148,11 +148,11 @@
 
 *   [Exercism Elm Track](http://exercism.io/languages/elm) - Collection of Elm exercises.
 *   [Beginning Elm](http://elmprogramming.com/) - A gentle introduction to the Elm programming language.
-*   [Elm Koans (⭐234)](https://github.com/robertjlooby/elm-koans) - Practice exercises for learning Elm.
+*   [Elm Koans (⭐233)](https://github.com/robertjlooby/elm-koans) - Practice exercises for learning Elm.
 *   [Learn Elm in Y Minutes](https://learnxinyminutes.com/docs/elm/) - Syntax and features overview. The Elm page on [learnxinyminutes.com](https://learnxinyminutes.com)
 *   [Elm Maybe - Dealing with null/Nothing](http://rundis.github.io/blog/2016/elm_maybe.html) - Working with the Maybe type, with nicely commented code examples.
 *   [Programming Elm](https://pragprog.com/book/jfelm/programming-elm) - Thorough book from The Pragmatic Programmers that covers basics and advanced concepts.
-*   [Elm cheat sheet (⭐950)](https://github.com/izdi/elm-cheat-sheet) - Syntax and features overview.
+*   [Elm cheat sheet (⭐953)](https://github.com/izdi/elm-cheat-sheet) - Syntax and features overview.
 *   [Ninety-nine Problems, Solved in Elm](https://johncrane.gitbooks.io/ninety-nine-elm-problems/content/) - Adaptations for Elm from Ninety-Nine Haskell Problems.
 *   [Elm Tutorials on Codementor](https://www.codementor.io/elm/tutorial) - Two tutorials on building web apps with Elm.
 *   [Elm programming language](https://en.wikibooks.org/wiki/Elm_programming_language) - a brief overview of Elm as a programming language.
@@ -290,17 +290,17 @@
 
 ### Projects
 
-*   [Stratux (⭐1k)](https://github.com/cyoung/stratux) - Open source ADS-B receiver which feeds weather, traffic, GPS, and AHRS data to electronic flight bag software via wifi.
+*   [Stratux (⭐1.1k)](https://github.com/cyoung/stratux) - Open source ADS-B receiver which feeds weather, traffic, GPS, and AHRS data to electronic flight bag software via wifi.
 
 ## [22. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Utility / Barcode
 
-*   [Bow (⭐643)](https://github.com/bow-swift/bow) - Companion library for Typed Functional Programming.
+*   [Bow (⭐647)](https://github.com/bow-swift/bow) - Companion library for Typed Functional Programming.
 
 ### Misc
 
-*   [Swiftbrew (⭐145)](https://github.com/swiftbrew/Swiftbrew) - Homebrew for Swift packages.
+*   [Swiftbrew (⭐146)](https://github.com/swiftbrew/Swiftbrew) - Homebrew for Swift packages.
 
 ### Events
 
@@ -316,31 +316,31 @@
 
 ### TextField / Barcode
 
-*   [VKPinCodeView (⭐95)](https://github.com/Sunspension/VKPinCodeView) - Simple and elegant UI component for input PIN.
+*   [VKPinCodeView (⭐96)](https://github.com/Sunspension/VKPinCodeView) - Simple and elegant UI component for input PIN.
 
 ### UITableView / Barcode
 
-*   [SelectionList (⭐119)](https://github.com/yonat/SelectionList) - Simple single-selection or multiple-selection checklist, based on UITableView.
+*   [SelectionList (⭐122)](https://github.com/yonat/SelectionList) - Simple single-selection or multiple-selection checklist, based on UITableView.
 
 ## [23. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
 
 ### Themes for non-GTK apps / Skeumorphic Icons
 
-*   [Firefox GNOME Theme (⭐3.4k)](https://github.com/rafaelmardojai/firefox-gnome-theme) - Integrate Firefox into GNOME-based desktop using Adwaita.
+*   [Firefox GNOME Theme (⭐3.5k)](https://github.com/rafaelmardojai/firefox-gnome-theme) - Integrate Firefox into GNOME-based desktop using Adwaita.
 
 ## [24. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
 
 ### Python / Indicators
 
-*   [pandas\_talib (⭐729)](https://github.com/femtotrader/pandas_talib) - A Python Pandas implementation of technical analysis indicators.
+*   [pandas\_talib (⭐751)](https://github.com/femtotrader/pandas_talib) - A Python Pandas implementation of technical analysis indicators.
 
 ### Python / Trading & Backtesting
 
-*   [ta (⭐4.2k)](https://github.com/bukosabino/ta) - Technical Analysis Library using Pandas (Python)
-*   [pyqstrat (⭐356)](https://github.com/abbass2/pyqstrat) - A fast, extensible, transparent python library for backtesting quantitative strategies.
-*   [NowTrade (⭐102)](https://github.com/edouardpoitras/NowTrade) - Python library for backtesting technical/mechanical strategies in the stock and currency markets.
-*   [pinkfish (⭐263)](https://github.com/fja05680/pinkfish) - A backtester and spreadsheet library for security analysis.
-*   [aat (⭐639)](https://github.com/timkpaine/aat) - Async Algorithmic Trading Engine
+*   [ta (⭐4.5k)](https://github.com/bukosabino/ta) - Technical Analysis Library using Pandas (Python)
+*   [pyqstrat (⭐364)](https://github.com/abbass2/pyqstrat) - A fast, extensible, transparent python library for backtesting quantitative strategies.
+*   [NowTrade (⭐103)](https://github.com/edouardpoitras/NowTrade) - Python library for backtesting technical/mechanical strategies in the stock and currency markets.
+*   [pinkfish (⭐274)](https://github.com/fja05680/pinkfish) - A backtester and spreadsheet library for security analysis.
+*   [aat (⭐692)](https://github.com/timkpaine/aat) - Async Algorithmic Trading Engine
 *   [Backtesting.py](https://kernc.github.io/backtesting.py/) - Backtest trading strategies in Python
 *   [catalyst (⭐2.5k)](https://github.com/enigmampc/catalyst) - An Algorithmic Trading Library for Crypto-Assets in Python
 
@@ -462,13 +462,13 @@
 ### Software / Make your life easier
 
 *   [Check All](https://chrispederick.com/work/web-developer/) - "Select All" is often not available. Why not bring your own?
-*   [recheck-web (⭐264)](https://github.com/retest/recheck-web) - Open Source change comparison tool with local Golden Masters, git-like ignore syntax and "unbreakable selenium" tests.
+*   [recheck-web (⭐265)](https://github.com/retest/recheck-web) - Open Source change comparison tool with local Golden Masters, git-like ignore syntax and "unbreakable selenium" tests.
 
 ## [32. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
 
 ### Component Libraries
 
-*   [Clever components (⭐210)](https://github.com/CleverCloud/clever-components) - Collection of Web Components made by Clever Cloud.
+*   [Clever components (⭐217)](https://github.com/CleverCloud/clever-components) - Collection of Web Components made by Clever Cloud.
 
 ## [33. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
@@ -596,7 +596,7 @@
 
 ### Debug
 
-*   [dbg-macro (⭐2.9k)](https://github.com/sharkdp/dbg-macro) - A dbg(…) macro for C++. \[MIT]
+*   [dbg-macro (⭐3k)](https://github.com/sharkdp/dbg-macro) - A dbg(…) macro for C++. \[MIT]
 
 ### GUI
 
@@ -604,11 +604,11 @@
 
 ### JSON
 
-*   [parson (⭐1.3k)](https://github.com/kgabis/parson) - Parson is a lighweight json library written in C. \[MIT]
+*   [parson (⭐1.4k)](https://github.com/kgabis/parson) - Parson is a lighweight json library written in C. \[MIT]
 
 ### Coding Style Tools
 
-*   [Uncrustify (⭐2.8k)](https://github.com/uncrustify/uncrustify) - Code beautifier.
+*   [Uncrustify (⭐2.9k)](https://github.com/uncrustify/uncrustify) - Code beautifier.
 
 ### Articles
 
@@ -618,13 +618,13 @@
 
 ### GTFS Realtime Convertors / Ruby
 
-*   [gtfs-realtime-translators (⭐19)](https://github.com/Intersection/gtfs-realtime-translators) - A Python-based tool to translate custom arrival API formats to GTFS-realtime.  As of July 2019 it supports LA Metro and SEPTA.
+*   [gtfs-realtime-translators (⭐21)](https://github.com/Intersection/gtfs-realtime-translators) - A Python-based tool to translate custom arrival API formats to GTFS-realtime.  As of July 2019 it supports LA Metro and SEPTA.
 
 ## [40. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### IDE
 
-*   [dbKoda (⭐871)](https://github.com/SouthbankSoftware/dbkoda) - Modern (JavaScript/Electron framework), open source IDE for MongoDB. It has features to support development, administration and performance tuning on MongoDB databases.
+*   [dbKoda (⭐869)](https://github.com/SouthbankSoftware/dbkoda) - Modern (JavaScript/Electron framework), open source IDE for MongoDB. It has features to support development, administration and performance tuning on MongoDB databases.
 *   [IBExpert](http://www.ibexpert.net/ibe) - Comprehensive GUI tool for Firebird and InterBase.
 *   [pgAdmin3](https://www.bigsql.org/pgadmin3) - Long Term Support for pgAdmin3.
 
@@ -634,11 +634,11 @@
 
 ### Monitoring/Statistics/Perfomance / Samples
 
-*   [Telegraf PostgreSQL plugin (⭐14k)](https://github.com/influxdata/telegraf/tree/master/plugins/inputs/postgresql) - Provides metrics for your postgres database.
+*   [Telegraf PostgreSQL plugin (⭐15k)](https://github.com/influxdata/telegraf/tree/master/plugins/inputs/postgresql) - Provides metrics for your postgres database.
 
 ### HA/Failover/Sharding / Zabbix
 
-*   [Vitess (⭐18k)](https://github.com/vitessio/vitess) - Database clustering system for horizontal scaling of MySQL through generalized sharding.
+*   [Vitess (⭐19k)](https://github.com/vitessio/vitess) - Database clustering system for horizontal scaling of MySQL through generalized sharding.
 
 ### Reporting / Zabbix
 
@@ -658,7 +658,7 @@
 
 ### Top / Game Engine resources
 
-*   [Chillify (⭐734)](https://github.com/KarimElghamry/chillify) - Fancy music app made with Provider and Bloc pattern by [Karim Elghamry](https://github.com/KarimElghamry)
+*   [Chillify (⭐746)](https://github.com/KarimElghamry/chillify) - Fancy music app made with Provider and Bloc pattern by [Karim Elghamry](https://github.com/KarimElghamry)
 
 ### Communication / Misc
 
@@ -676,7 +676,7 @@
 
 ### Data validation / Third-party APIs
 
-*   [sanity-clause (⭐47)](https://github.com/fisxoj/sanity-clause) - a data serialization/contract library for Common Lisp. Schemas can be property lists or class-based, allowing to check slots' types during `make-instance`. [LLGPL](http://opensource.franz.com/preamble.html).
+*   [sanity-clause (⭐50)](https://github.com/fisxoj/sanity-clause) - a data serialization/contract library for Common Lisp. Schemas can be property lists or class-based, allowing to check slots' types during `make-instance`. [LLGPL](http://opensource.franz.com/preamble.html).
 
 ## [44. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
@@ -698,9 +698,9 @@
 
 ## [46. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
-### Software / Photo and Video Galleries
+### Software / Photo Galleries
 
-*   [Lychee](https://lycheeorg.github.io/) - Open source grid and album based photo-management-system. ([Source Code (⭐3.3k)](https://github.com/LycheeOrg/Lychee)) `MIT` `PHP/Docker`
+*   [Lychee](https://lycheeorg.github.io/) - Open source grid and album based photo-management-system. ([Source Code (⭐3.5k)](https://github.com/LycheeOrg/Lychee)) `MIT` `PHP/Docker`
 
 ---
 

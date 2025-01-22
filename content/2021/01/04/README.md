@@ -1,32 +1,38 @@
 # Awesome List Updates on Jan 04, 2021
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Django](/content/wsvincent/awesome-django/README.md)
+## [1. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+
+### Resources / Books
+
+*   [Vue - The Road To Enterprise](https://theroadtoenterprise.com/?utm_source=github\&utm_medium=vue-awesome\&utm_campaign=vue_the_road_to_enterprise) Thomas Findlay (January, 2021)
+
+## [2. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
 ### Projects / Open Source Projects
 
-*   [Healthchecks (⭐8k)](https://github.com/healthchecks/healthchecks) - A Cron Monitoring Tool written in Python & Django.
+*   [Healthchecks (⭐8.5k)](https://github.com/healthchecks/healthchecks) - A Cron Monitoring Tool written in Python & Django.
 
-## [2. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+## [3. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
 ### GTFS Data Collection and Maintenance Tools / Ruby
 
-*   [gtfs-station-builder (⭐16)](https://github.com/kostjerry/gtfs-station-builder) - UI tool to help build the internal structure of stations (including pathways.txt)
+*   [gtfs-station-builder (⭐17)](https://github.com/kostjerry/gtfs-station-builder) - UI tool to help build the internal structure of stations (including pathways.txt)
 
 ### GTFS Validators / Ruby
 
-*   [Transport Validator (⭐37)](https://github.com/etalab/transport-validator/) - An open-source validator implemented in [Rust](https://www.rust-lang.org/). Used by the [French National Access Point](https://transport.data.gouv.fr/validation/).
+*   [Transport Validator (⭐40)](https://github.com/etalab/transport-validator/) - An open-source validator implemented in [Rust](https://www.rust-lang.org/). Used by the [French National Access Point](https://transport.data.gouv.fr/validation/).
 
 ### GTFS Realtime Convertors / Ruby
 
-*   [GTFS-realtime to SIRI-Lite (⭐20)](https://github.com/etalab/transpo-rt/) - A [Rust](https://www.rust-lang.org/) webserver to convert multiple GTFS-RT feeds to a SIRI-Lite API.
+*   [GTFS-realtime to SIRI-Lite (⭐21)](https://github.com/etalab/transpo-rt/) - A [Rust](https://www.rust-lang.org/) webserver to convert multiple GTFS-RT feeds to a SIRI-Lite API.
 
-## [3. Awesome Healthcare](/content/kakoni/awesome-healthcare/README.md)
+## [4. Awesome Healthcare](/content/kakoni/awesome-healthcare/README.md)
 
 ### Contents / Imaging
 
@@ -45,27 +51,17 @@
 
 *   [ID3C (⭐22)](https://github.com/seattleflu/id3c) - Data logistics system enabling real-time genomic epidemiology.
 
-## [4. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
+## [5. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
 ### SXA (Sitecore Experience Accelerator)
 
 *   [SXA Securty Headers (⭐8)](https://github.com/GuitarRich/SXA.SecurityHeaders) - Shows how to implement response security headers on an example of SXA, but they are truly Helix-generic.
 
-## [5. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
+## [6. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
 
 ### Web Frameworks
 
-*   [Donkey (⭐290)](https://github.com/AppsFlyer/donkey) - Modern Clojure HTTP server and client built for ease of use and performance.
-
-## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Resources / Examples
-
-*   [Peer to Peer game of telephone (⭐77)](https://github.com/ably-labs/depict-it) - A party game for 4 to 8 players (ideally!) where you mutate a phrase through drawings and captions, to make up funny scenarios with your friends. The project is an example of how to build a Peer-to-Peer game with Vue.
-
-### Resources / Books
-
-*   [Vue - The Road To Enterprise](https://theroadtoenterprise.com/?utm_source=github\&utm_medium=vue-awesome\&utm_campaign=vue_the_road_to_enterprise) Thomas Findlay (January, 2021)
+*   [Donkey (⭐292)](https://github.com/AppsFlyer/donkey) - Modern Clojure HTTP server and client built for ease of use and performance.
 
 ## [7. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 
@@ -85,19 +81,13 @@
 
 *   [Practical DevSecOps](https://www.practical-devsecops.com) - *Practical DevSecOps* - Learn DevSecOps concepts, tools, and techniques from industry experts with practical DevSecOps using state of the art browser-based labs.
 
-## [10. Awesome Math](/content/rossant/awesome-math/README.md)
-
-### Foundations of Mathematics / Transition To Pure Rigour Math
-
-*   📝 [Book of Proof](https://www.people.vcu.edu/~rhammack/BookOfProof/) - Richard Hammak (Virginia Commonwealth University)
-
-## [11. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
+## [10. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
 ### Boilerplates
 
-*   [nextjs-starter (⭐432)](https://github.com/pbteja1998/nextjs-starter) - An SEO Optimized Next.js 10 starter kit template with React 17 + Typescript + Tailwind CSS 2 + React Query 3 + (GitHub Auth + Passwordless Auth) using (NextAuth.js and Fauna DB), ESLint, Prettier, Pre-commit hook with Husky. Can have different layouts for different pages.
+*   [nextjs-starter (⭐451)](https://github.com/pbteja1998/nextjs-starter) - An SEO Optimized Next.js 10 starter kit template with React 17 + Typescript + Tailwind CSS 2 + React Query 3 + (GitHub Auth + Passwordless Auth) using (NextAuth.js and Fauna DB), ESLint, Prettier, Pre-commit hook with Husky. Can have different layouts for different pages.
 
-## [12. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
+## [11. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
 ### Product Configurators
 

@@ -16,7 +16,7 @@
 
 ### Self-hosted Terraform Platforms / IDE
 
-*   [Burrito (⭐255)](https://github.com/padok-team/burrito) - TACoS Kubernetes Operator - "ArgoCD for Terraform"
+*   [Burrito (⭐372)](https://github.com/padok-team/burrito) - TACoS Kubernetes Operator - "ArgoCD for Terraform"
 
 ## [3. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
 
@@ -31,90 +31,72 @@
 
 ## [4. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
-### REST and API
-
-*   [BryanCrowe/ApiPagination plugin (⭐40)](https://github.com/bcrowe/cakephp-api-pagination) - Automatically adds fully configurable pagination metadata from CakePHP’s built-in pagination to JsonView or XmlView API responses by encapsulating payload data in an envelope.
-
-### Security
-
-*   [BryanCrowe/EncryptedType plugin (⭐8)](https://github.com/bcrowe/cakephp-encrypted-type) - A straightforward solution that enables field-level (column) encryption within the application layer before data is stored or transmitted to the database, supporting regulatory compliance, zero-trust security, end-to-end encryption, and contextual awareness.
-
 ### Skeleton
 
-*   [BS flavored App template (⭐0)](https://github.com/dereuromark/cakephp-app) - An empty CakePHP project with BS5 and FontAwesome out of the box.
+*   [BS flavored App template (⭐1)](https://github.com/dereuromark/cakephp-app) - An empty CakePHP project with BS5 and FontAwesome out of the box.
 
 ### Templating
 
-*   🍰 [XlsView plugin (⭐0)](https://github.com/impronta48/cakephp-xlsview) - A view class to easily generate XLS using PHPSpreadsheet.
+*   [XlsView plugin (⭐0)](https://github.com/impronta48/cakephp-xlsview) - A view class to easily generate XLS using PHPSpreadsheet.
 
 ## [5. Awesome Windows](/content/0pandadev/awesome-windows/week/README.md)
 
+### API Development
+
+*   [Insomnia](https://insomnia.rest) - Tests APIs with GraphQL support. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+
 ### Browsers
 
-*   [Ungoogled Chromium (⭐21k)](https://github.com/ungoogled-software/ungoogled-chromium) - A variant of chrome that removes all the googelyness, tracking etc. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/opensource.svg)
+*   [Ungoogled Chromium (⭐21k)](https://github.com/ungoogled-software/ungoogled-chromium) - Removes Google integration and tracking. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+
+### Command Line Tools
+
+*   [btop4win (⭐888)](https://github.com/aristocratos/btop4win) - Windows port of the famous btop resource monitor. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+*   [Scoop (⭐22k)](https://github.com/lukesampson/scoop) - Command-line installer for Windows. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 
 ### Customization
 
-*   [Classic Start (⭐30)](https://github.com/passionate-coder/Classic-Start) - Use Start Menu and Explorer like it's 2000. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/opensource.svg)
-*   [TranslucentTB (⭐16k)](https://github.com/TranslucentTB/TranslucentTB) - Make your Windows task bar transparent. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/opensource.svg)
-*   [YASB (⭐315)](https://github.com/amnweb/yasb) - A customizable status bar for windows ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/opensource.svg)
+*   [Classic Start (⭐30)](https://github.com/passionate-coder/Classic-Start) - Restores traditional Start Menu interface. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+*   [TranslucentTB (⭐16k)](https://github.com/TranslucentTB/TranslucentTB) - Makes taskbar transparent. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+*   [YASB (⭐532)](https://github.com/amnweb/yasb) - Creates customizable status bars. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 
-### Developer Tools / API Development
+### Databases Clients
 
-*   [Insomnia](https://insomnia.rest) - A modern REST client with a beautiful interface. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/opensource.svg)
+*   [DB Browser for SQLite](https://sqlitebrowser.org/) - Visual tool for creating and editing SQLite database files. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 
-### Developer Tools / Command Line Tools
+### Game Stores
 
-*   [btop4win (⭐824)](https://github.com/aristocratos/btop4win) - Windows port of the famous btop resource monitor. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/opensource.svg)
-*   [Scoop (⭐21k)](https://github.com/lukesampson/scoop) - A command-line installer for Windows. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/opensource.svg)
+*   [Gale (⭐164)](https://github.com/Kesomannen/gale) - Modern and lightweight mod manager for Thunderstore. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 
-### Developer Tools / Databases
+### IDEs
 
-*   [DB Browser for SQLite](https://sqlitebrowser.org/) - High quality, visual, open source tool to create, design, and edit database files compatible with SQLite ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/opensource.svg)
-*   [Robo 3T](https://robomongo.org/) - A lightweight GUI for MongoDB enthusiasts. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/opensource.svg)](https://github.com/Studio3T/robomongo)
+*   [JetBrains Toolbox App](https://www.jetbrains.com/toolbox/) - Controls JetBrains IDE installations and updates.
 
-### Developer Tools / IDEs
+### Productivity
 
-*   [JetBrains Toolbox App](https://www.jetbrains.com/toolbox/) - Manage installed JetBrains tools, download new ones and open recent projects.
-    *   [CLion](https://www.jetbrains.com/clion/) - Smart cross-platform IDE for C/C++. (**Free** for Students)
-    *   [DataGrip](https://www.jetbrains.com/datagrip/) - Cross-Platform IDE for Databases and SQL. (**Free** for Students)
-    *   [DataSpell](https://www.jetbrains.com/dataspell/) - The IDE for Professional Data Scientists.
-    *   [GoLand](https://www.jetbrains.com/go/) - Provides ergonomic environment for Go development.
-    *   [IntelliJ IDEA](https://www.jetbrains.com/idea/) - A modern Java IDE with free community edition. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/opensource.svg)](https://github.com/JetBrains/intellij-community) (**Free** for Students)
-    *   [PhpStorm](https://www.jetbrains.com/phpstorm/) - Lightning-smart PHP IDE with major frameworks support.
-    *   [PyCharm](https://www.jetbrains.com/pycharm) - Python IDE for professional developers with free community edition. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/opensource.svg)](https://github.com/JetBrains/intellij-community/tree/master/python)
-    *   [Rider](https://www.jetbrains.com/rider/) - A cross-platform .NET/Mono IDE.
-    *   [RubyMine](https://www.jetbrains.com/ruby/) - An intelligent Ruby IDE that supports many modern frameworks.
-    *   [WebStorm](https://www.jetbrains.com/webstorm/) - A smart JavaScript IDE that uses the full power of the modern JavaScript ecosystem. (**Free** for Students)
+*   [AutoHotkey](https://autohotkey.com/) - Automation scripting language for Windows. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+*   [Kaas (⭐46)](https://github.com/0xfrankz/Kaas) - Privacy-focused LLM client for multiple AI services. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 
-### Developer Tools / Version Control
+### Screen Capture
 
-*   [GitLight (⭐756)](https://github.com/colinlienard/gitlight) - An open-source GitHub & GitLab notifications desktop client. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/opensource.svg)
+*   [Greenshot (⭐4.1k)](https://github.com/greenshot/greenshot) - Screenshot capture and editing tool. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 
-### Games / Virtualization
+### System Utilities
 
-*   [Gale (⭐108)](https://github.com/Kesomannen/gale) - The modern and lightweight mod manager for Thunderstore, supports Windows and Linux. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/opensource.svg)
+*   [neohtop (⭐4.7k)](https://github.com/Abdenasser/neohtop) - Modern system monitor built with Svelte and Rust. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg) ![star](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/star.svg)
 
-### Productivity / Virtualization
+### Terminal
 
-*   [AutoHotkey](https://autohotkey.com/) - The ultimate automation scripting language for Windows. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/opensource.svg)
-*   [Kaas (⭐20)](https://github.com/0xfrankz/Kaas) - Cross-platform desktop LLM client for OpenAI ChatGPT, Anthropic Claude, Microsoft Azure and more, with a focus on privacy and security. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/opensource.svg)
+*   [Alacritty (⭐57k)](https://github.com/jwilm/alacritty) - Cross-platform, GPU-accelerated terminal emulator. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+*   [mRemoteNG](https://mremoteng.org/) - Multi-protocol remote connections manager. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 
-### Terminal / Email
+### Text Editors
 
-*   [Alacritty (⭐56k)](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/opensource.svg)
-*   [mRemoteNG](https://mremoteng.org/) - The next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/opensource.svg)
+*   [Notepad2](https://www.flos-freeware.ch/notepad2.html) - Lightweight Notepad replacement with enhanced features. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 
-### Text Editors / Email
+### Version Control
 
-*   [Notepad2](https://www.flos-freeware.ch/notepad2.html) - Tiny and fast Notepad replacement with many useful features. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/opensource.svg)
-
-### Utilities / Email
-
-*   [AddToSendTo](https://aashutoshrathi.github.io/Python-Scripts-and-Games/AddToSendTo/) - This script lets you add your favorite Folder to Send To option, when you right-click. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/opensource.svg)
-*   [Greenshot (⭐4k)](https://github.com/greenshot/greenshot) - Take and crop screenshots directly on the screen. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/opensource.svg)
-*   [neohtop (⭐3.9k)](https://github.com/Abdenasser/neohtop) - A modern, cross-platform system monitor built on top of Svelte, Rust, and Tauri. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/opensource.svg)
-*   [SetToStartup](https://aashutoshrathi.github.io/Python-Scripts-and-Games/SetToStartup/) - This script will help you to add your favorite programs or self made scripts/folders to startup. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/opensource.svg)
+*   [GitLight (⭐778)](https://github.com/colinlienard/gitlight) - Open-source GitHub & GitLab notifications client. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 
 ---
 

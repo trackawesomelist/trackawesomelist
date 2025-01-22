@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 15, 2022
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -21,17 +21,15 @@
 ### Tutorials
 
 *   [1000 Data Science Projects](https://cloud.blobcity.com/#/ps/explore) you can run on the browser with IPython.
-*   [#tidytuesday (⭐6.6k)](https://github.com/rfordatascience/tidytuesday) A weekly data project aimed at the R ecosystem.
-*   [Data science your way (⭐594)](https://github.com/jadianes/data-science-your-way)
-*   [PySpark Cheatsheet (⭐393)](https://github.com/kevinschaich/pyspark-cheatsheet)
+*   [#tidytuesday (⭐7k)](https://github.com/rfordatascience/tidytuesday) A weekly data project aimed at the R ecosystem.
+*   [Data science your way (⭐598)](https://github.com/jadianes/data-science-your-way)
+*   [PySpark Cheatsheet (⭐466)](https://github.com/kevinschaich/pyspark-cheatsheet)
 *   [Machine Learning, Data Science and Deep Learning with Python ](https://www.manning.com/livevideo/machine-learning-data-science-and-deep-learning-with-python)
-*   [How To Label Data](https://www.lighttag.io/how-to-label-data/)
 *   [Your Guide to Latent Dirichlet Allocation](https://medium.com/@lettier/how-does-lda-work-ill-explain-using-emoji-108abf40fa7d)
-*   [Over 1000 Data Science Online Courses at Classpert Online Search Engine](https://classpert.com/search/data-science)
 *   [Tutorials of source code from the book Genetic Algorithms with Python by Clinton Sheppard (⭐1.2k)](https://github.com/handcraftsman/GeneticAlgorithmsWithPython)
 *   [Realtime deployment](https://www.microprediction.com/python-1) Tutorial on Python time-series model deployment.
 *   [Python for Data Science: A Beginner’s Guide](https://learntocodewith.me/posts/python-for-data-science/)
-*   [Minimum Viable Study Plan for Machine Learning Interviews (⭐8.8k)](https://github.com/khangich/machine-learning-interview)
+*   [Minimum Viable Study Plan for Machine Learning Interviews (⭐10k)](https://github.com/khangich/machine-learning-interview)
 *   [Understand and Know Machine Learning Engineering by Building Solid Projects](http://mlzoomcamp.com/)
 
 ### Free Courses
@@ -41,7 +39,6 @@
 *   [Genetic Algorithms OCW Course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-1-introduction-and-scope/)
 *   [AI Expert Roadmap (⭐29k)](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert
 *   [Convex Optimization](https://www.edx.org/course/convex-optimization) - Convex Optimization (basics of convex analysis; least-squares, linear and quadratic programs, semidefinite programming, minimax, extremal volume, and other problems; optimality conditions, duality theory...)
-*   [Skillcombo - Data Science](https://skillcombo.com/courses/development/data-science/free/) - 1000+ free online Data Science courses
 *   [Learning from Data](https://home.work.caltech.edu/telecourse.html) - Introduction to machine learning covering basic theory, algorithms and applications
 
 ### Intensive Programs
@@ -50,7 +47,7 @@
 
 ### Colleges
 
-*   [A list of colleges and universities offering degrees in data science. (⭐153)](https://github.com/ryanswanstrom/awesome-datascience-colleges)
+*   [A list of colleges and universities offering degrees in data science. (⭐154)](https://github.com/ryanswanstrom/awesome-datascience-colleges)
 *   [Data Science Degree @ Berkeley](https://ischoolonline.berkeley.edu/data-science/)
 *   [Data Science Degree @ UVA](https://datascience.virginia.edu/)
 *   [Data Science Degree @ Wisconsin](https://datasciencedegree.wisconsin.edu/)
@@ -62,7 +59,6 @@
 *   [Msc in Data Science @ The University of Edinburgh](https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view\&id=902)
 *   [Master of Management Analytics @ Queen's University](https://smith.queensu.ca/grad_studies/mma/index.php)
 *   [Master of Data Science @ Illinois Institute of Technology](https://www.iit.edu/academics/programs/data-science-mas)
-*   [Master of Applied Data Science @ The University of Michigan](https://www.si.umich.edu/programs/master-applied-data-science-online)
 *   [Master Data Science and Artificial Intelligence @ Eindhoven University of Technology](https://www.tue.nl/en/education/graduate-school/master-data-science-and-artificial-intelligence/)
 *   [Master's Degree in Data Science and Computer Engineering @ University of Granada](https://masteres.ugr.es/datcom/)
 
@@ -74,7 +70,7 @@
 
 *   S3VM
 
-### Journals, Publications and Magazines / Book Deals (Affiliated) 🛍
+### Journals, Publications and Magazines / Book Deals (Affiliated)
 
 *   [ICML](https://icml.cc/2015/) - International Conference on Machine Learning
 *   [GECCO](https://gecco-2019.sigevo.org/index.html/HomePage) - The Genetic and Evolutionary Computation Conference (GECCO)
@@ -88,22 +84,18 @@
 *   [Data Science Trello Board](https://trello.com/b/rbpEfMld/data-science)
 *   [Medium Data Science Topic](https://medium.com/tag/data-science) - Data Science related publications on medium
 *   [Towards Data Science Genetic Algorithm Topic](https://towardsdatascience.com/introduction-to-genetic-algorithms-including-example-code-e396e98d8bf3#:~:text=A%20genetic%20algorithm%20is%20a,offspring%20of%20the%20next%20generation.) -Genetic Algorithm related Publications towards Data Science
-*   [all AI news](https://allainews.com/) - The AI/ML/Big Data news aggregator platform
 
-### Newsletters / Book Deals (Affiliated) 🛍
+### Newsletters / Book Deals (Affiliated)
 
-*   [AI Digest](https://aidigest.net/). A weekly newsletter to keep up to date with AI, machine learning, and data science. [Archive](https://aidigest.net/digests).
 *   [The Analytics Engineering Roundup](https://roundup.getdbt.com/about). A newsletter about data science. [Archive](https://roundup.getdbt.com/archive).
 
-### Podcasts / Book Deals (Affiliated) 🛍
+### Podcasts / Book Deals (Affiliated)
 
 *   [Data Stories](https://datastori.es/)
 *   [AI at Home](https://podcasts.apple.com/us/podcast/data-science-at-home/id1069871378)
 *   [AI Today](https://www.cognilytica.com/aitoday/)
 *   [Adversarial Learning](https://adversariallearning.com/)
-*   [Becoming a Data Scientist](https://www.becomingadatascientist.com/category/podcast/)
 *   [Chai time Data Science](https://www.youtube.com/playlist?list=PLLvvXm0q8zUbiNdoIazGzlENMXvZ9bd3x)
-*   [Data Crunch](https://datacrunchcorp.com/data-crunch-podcast/)
 *   [Data Engineering Podcast](https://www.dataengineeringpodcast.com/)
 *   [Data Science at Home](https://datascienceathome.com/)
 *   [Data Science Mixer](https://community.alteryx.com/t5/Data-Science-Mixer/bg-p/mixer)
@@ -111,34 +103,30 @@
 *   [Datacast](https://jameskle.com/writes/category/Datacast)
 *   [DataFramed](https://www.datacamp.com/community/podcast)
 *   [DataTalks.Club](https://anchor.fm/datatalksclub)
-*   [Gradient Dissent](https://wandb.ai/fully-connected/gradient-dissent)
 *   [Learning Machines 101](https://www.learningmachines101.com/)
 *   [Let's Data (Brazil)](https://www.youtube.com/playlist?list=PLn_z5E4dh_Lj5eogejMxfOiNX3nOhmhmM)
 *   [Linear Digressions](https://lineardigressions.com/)
 *   [Not So Standard Deviations](https://nssdeviations.com/)
 *   [O'Reilly Data Show Podcast](https://www.oreilly.com/radar/topics/oreilly-data-show-podcast/)
-*   [Partially Derivative](https://partiallyderivative.com/)
 *   [Superdatascience](https://www.superdatascience.com/podcast/)
 *   [The Data Engineering Show](https://www.dataengineeringshow.com/)
 *   [The Radical AI Podcast](https://www.radicalai.org/)
-*   [The Robot Brains Podcast](https://www.therobotbrains.ai/)
 *   [What's The Point](https://fivethirtyeight.com/tag/whats-the-point/)
-*   [How AI Built This](https://how-ai-built-this.captivate.fm/)
 
-### Presentations / Book Deals (Affiliated) 🛍
+### Presentations / Book Deals (Affiliated)
 
 *   [How to Become a Data Scientist](https://www.slideshare.net/ryanorban/how-to-become-a-data-scientist)
 *   [Introduction to Data Science](https://www.slideshare.net/NikoVuokko/introduction-to-data-science-25391618)
 *   [Intro to Data Science for Enterprise Big Data](https://www.slideshare.net/pacoid/intro-to-data-science-for-enterprise-big-data)
 *   [How to Interview a Data Scientist](https://www.slideshare.net/dtunkelang/how-to-interview-a-data-scientist)
-*   [How to Share Data with a Statistician (⭐6.5k)](https://github.com/jtleek/datasharing)
+*   [How to Share Data with a Statistician (⭐6.6k)](https://github.com/jtleek/datasharing)
 *   [The Science of a Great Career in Data Science](https://www.slideshare.net/katemats/the-science-of-a-great-career-in-data-science)
 *   [What Does a Data Scientist Do?](https://www.slideshare.net/datasciencelondon/big-data-sorry-data-science-what-does-a-data-scientist-do)
 *   [Building Data Start-Ups: Fast, Big, and Focused](https://www.slideshare.net/medriscoll/driscoll-strata-buildingdatastartups25may2011clean)
 *   [How to win data science competitions with Deep Learning](https://www.slideshare.net/0xdata/how-to-win-data-science-competitions-with-deep-learning)
 *   [Full-Stack Data Scientist](https://www.slideshare.net/AlexeyGrigorev/fullstack-data-scientist)
 
-### YouTube Videos & Channels / Book Deals (Affiliated) 🛍
+### YouTube Videos & Channels / Book Deals (Affiliated)
 
 *   [What is machine learning?](https://www.youtube.com/watch?v=WXHM_i-fgGo)
 *   [Andrew Ng: Deep Learning, Self-Taught Learning and Unsupervised Feature Learning](https://www.youtube.com/watch?v=n1ViNeWhC24)
@@ -170,21 +158,21 @@
 *   [Regression Models: Applying simple Poisson regression](https://www.youtube.com/watch?v=9Hk8K8jhiOo)
 *   [Deep Learning Architectures](https://www.youtube.com/playlist?list=PLv8Cp2NvcY8DpVcsmOT71kymgMmcr59Mf)
 
-### Telegram Channels / Book Deals (Affiliated) 🛍
+### Telegram Channels / Book Deals (Affiliated)
 
 *   [Loss function porn](https://t.me/loss_function_porn) — Beautiful posts on DS/ML theme with video or graphic visualization.
 
-### Hobby / Book Deals (Affiliated) 🛍
+### Hobby / Book Deals (Affiliated)
 
-*   [Awesome Music Production (⭐981)](https://github.com/ad-si/awesome-music-production)
+*   [Awesome Music Production (⭐1.1k)](https://github.com/ad-si/awesome-music-production)
 
 ## [3. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [fd (⭐6)](https://github.com/aubreypwd/zsh-plugin-fd) - Use [fzf (⭐63k)](https://github.com/junegunn/fzf) to browse directories.
-*   [plenv (⭐1)](https://github.com/TwoPizza9621536/zsh-plenv) - Plugin for the perl [plenv (⭐512)](https://github.com/tokuhirom/plenv) version manager based on jenv.
-*   [pyenv (twopizza9621536) (⭐0)](https://github.com/TwoPizza9621536/zsh-pyenv) - Based on the oh-my-zsh [pyenv (⭐172k)](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/pyenv) plugin with modifications from the rbenv and jenv plugins.
+*   [fd (⭐7)](https://github.com/aubreypwd/zsh-plugin-fd) - Use [fzf (⭐67k)](https://github.com/junegunn/fzf) to browse directories.
+*   [plenv (⭐1)](https://github.com/TwoPizza9621536/zsh-plenv) - Plugin for the perl [plenv (⭐517)](https://github.com/tokuhirom/plenv) version manager based on jenv.
+*   [pyenv (twopizza9621536) (⭐0)](https://github.com/TwoPizza9621536/zsh-pyenv) - Based on the oh-my-zsh [pyenv (⭐175k)](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/pyenv) plugin with modifications from the rbenv and jenv plugins.
 
 ## [4. Awesome Capacitor](/content/riderx/awesome-capacitor/README.md)
 
@@ -216,23 +204,17 @@
 
 *   [nickhristov/krakdown (⭐14)](https://github.com/nickhristov/krakdown) - A native markdown parser written in Kotlin.
 
-## [7. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/README.md)
-
-### Websites
-
-*   CtrlAlt.cc - <https://ctrlalt.cc/>
-
-## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Managed Data Services
 
-*   [codehooks.io](https://codehooks.io/) — JavaScript serverless API/backend and database service with functions, Mongdb-ish queries, key/value lookups, a job system, and a message queue. One instance free per project, 5000 records, 5000 calls/month free, three developers included. No credit-card required.
+*   [codehooks.io](https://codehooks.io/) — Easy to use JavaScript serverless API/backend and NoSQL database service with functions, Mongdb-ish queries, key/value lookups, a job system, realtime messages, worker queues, a powerful CLI and a web-based data manager. Free plan has 5GB storage and 60/API calls per minute. 2 developers included. No credit-card required.
 
-## [9. Awesome Github Wiki](/content/MyHoneyBadger/awesome-github-wiki/README.md)
+## [8. Awesome Github Wiki](/content/MyHoneyBadger/awesome-github-wiki/README.md)
 
 ### Examples
 
-*   [uber/NullAway (⭐3.6k)](https://github.com/uber/NullAway/wiki)
+*   [uber/NullAway (⭐3.7k)](https://github.com/uber/NullAway/wiki)
 
 ---
 

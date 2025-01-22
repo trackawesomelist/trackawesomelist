@@ -10,7 +10,7 @@
 
 ### Images / Barcode
 
-*   [Rough (⭐98)](https://github.com/bakhtiyork/Rough) - Rough lets you draw in a sketchy, hand-drawn-like, style.
+*   [Rough (⭐99)](https://github.com/bakhtiyork/Rough) - Rough lets you draw in a sketchy, hand-drawn-like, style.
 
 ## [2. Awesome Programming for Kids](/content/HollyAdele/awesome-programming-for-kids/README.md)
 

@@ -10,12 +10,12 @@
 
 ### C++ / General-Purpose Machine Learning
 
-*   [PyCaret (⭐8.7k)](https://github.com/pycaret/pycaret) - An open-source, low-code machine learning library in Python that automates machine learning workflows.
+*   [PyCaret (⭐9k)](https://github.com/pycaret/pycaret) - An open-source, low-code machine learning library in Python that automates machine learning workflows.
 
 ### Clojure / General-Purpose Machine Learning
 
-*   [clj-ml (⭐137)](https://github.com/joshuaeckroth/clj-ml/) - A machine learning library for Clojure built on top of Weka and friends.
-*   [Touchstone (⭐138)](https://github.com/ptaoussanis/touchstone) - Clojure A/B testing library.
+*   [clj-ml (⭐135)](https://github.com/joshuaeckroth/clj-ml/) - A machine learning library for Clojure built on top of Weka and friends.
+*   [Touchstone (⭐139)](https://github.com/ptaoussanis/touchstone) - Clojure A/B testing library.
 
 ### Clojure / Deep Learning
 
@@ -23,31 +23,31 @@
 
 ### Clojure / Data Analysis
 
-*   [tech.ml.dataset (⭐656)](https://github.com/techascent/tech.ml.dataset) - Clojure dataframe library and pipeline for data processing and machine learning
+*   [tech.ml.dataset (⭐686)](https://github.com/techascent/tech.ml.dataset) - Clojure dataframe library and pipeline for data processing and machine learning
 
 ### Clojure / Data Visualization
 
 *   [Pink Gorilla Notebook (⭐103)](https://github.com/pink-gorilla/gorilla-notebook) - A Clojure/Clojurescript notebook application/-library based on Gorilla-REPL
-*   [notespace (⭐147)](https://github.com/scicloj/notespace) - Notebook experience in your Clojure namespace
-*   [Delight (⭐340)](https://github.com/datamechanics/delight) - A listener that streams your spark events logs to delight, a free and improved spark UI
+*   [notespace (⭐148)](https://github.com/scicloj/notespace) - Notebook experience in your Clojure namespace
+*   [Delight (⭐344)](https://github.com/datamechanics/delight) - A listener that streams your spark events logs to delight, a free and improved spark UI
 
 ### Clojure / Misc
 
-*   [kixistats (⭐355)](https://github.com/MastodonC/kixi.stats) - A library of statistical distribution sampling and transducing functions
+*   [kixistats (⭐363)](https://github.com/MastodonC/kixi.stats) - A library of statistical distribution sampling and transducing functions
 
 ### Python / Computer Vision
 
-*   [detectron2 (⭐30k)](https://github.com/facebookresearch/detectron2) - FAIR's next-generation research platform for object detection and segmentation. It is a ground-up rewrite of the previous version, Detectron, and is powered by the PyTorch deep learning framework.
+*   [detectron2 (⭐31k)](https://github.com/facebookresearch/detectron2) - FAIR's next-generation research platform for object detection and segmentation. It is a ground-up rewrite of the previous version, Detectron, and is powered by the PyTorch deep learning framework.
 
 ### Python / General-Purpose Machine Learning
 
-*   [Shapley (⭐215)](https://github.com/benedekrozemberczki/shapley) -> A data-driven framework to quantify the value of classifiers in a machine learning ensemble.
+*   [Shapley (⭐219)](https://github.com/benedekrozemberczki/shapley) -> A data-driven framework to quantify the value of classifiers in a machine learning ensemble.
 *   [breze (⭐96)](https://github.com/breze-no-salt/breze) - Theano based library for deep and recurrent neural networks.
-*   [Opytimizer (⭐598)](https://github.com/gugarosa/opytimizer) - Python-based meta-heuristic optimization techniques.
+*   [Opytimizer (⭐609)](https://github.com/gugarosa/opytimizer) - Python-based meta-heuristic optimization techniques.
 
 ### Python / Neural Networks
 
-*   [TResNet: High Performance GPU-Dedicated Architecture (⭐465)](https://github.com/mrT23/TResNet) - TResNet models were designed and optimized to give the best speed-accuracy tradeoff out there on GPUs.
+*   [TResNet: High Performance GPU-Dedicated Architecture (⭐470)](https://github.com/mrT23/TResNet) - TResNet models were designed and optimized to give the best speed-accuracy tradeoff out there on GPUs.
 *   [Jina AI](https://jina.ai/) An easier way to build neural search in the cloud. Compatible with Jupyter Notebooks.
 
 ### Tools / Misc
@@ -58,7 +58,7 @@
 
 ### Documentation / University Course Archives
 
-*   [Inkscape Electric Symbols (⭐329)](https://github.com/upb-lea/Inkscape_electric_Symbols) - Circuit Drawing Symbols for Inkscape
+*   [Inkscape Electric Symbols (⭐405)](https://github.com/upb-lea/Inkscape_electric_Symbols) - Circuit Drawing Symbols for Inkscape
 
 ## [3. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
 
@@ -86,16 +86,16 @@
 
 *   [ML-Quant](https://www.ml-quant.com/) - Top Quant resources like ArXiv (sanity), SSRN, RePec, Journals, Podcasts, Videos, and Blogs.
 *   [py4fi2nd (⭐1.4k)](https://github.com/yhilpisch/py4fi2nd) - Jupyter Notebooks and code for Python for Finance (2nd ed., O'Reilly) by Yves Hilpisch.
-*   [aiif (⭐299)](https://github.com/yhilpisch/aiif) - Jupyter Notebooks and code for the book Artificial Intelligence in Finance (O'Reilly) by Yves Hilpisch.
-*   [py4at (⭐660)](https://github.com/yhilpisch/py4at) - Jupyter Notebooks and code for the book Python for Algorithmic Trading (O'Reilly) by Yves Hilpisch.
-*   [dawp (⭐573)](https://github.com/yhilpisch/dawp) - Jupyter Notebooks and code for Derivatives Analytics with Python (Wiley Finance) by Yves Hilpisch.
-*   [dx (⭐701)](https://github.com/yhilpisch/dx) - DX Analytics | Financial and Derivatives Analytics with Python.
+*   [aiif (⭐321)](https://github.com/yhilpisch/aiif) - Jupyter Notebooks and code for the book Artificial Intelligence in Finance (O'Reilly) by Yves Hilpisch.
+*   [py4at (⭐709)](https://github.com/yhilpisch/py4at) - Jupyter Notebooks and code for the book Python for Algorithmic Trading (O'Reilly) by Yves Hilpisch.
+*   [dawp (⭐603)](https://github.com/yhilpisch/dawp) - Jupyter Notebooks and code for Derivatives Analytics with Python (Wiley Finance) by Yves Hilpisch.
+*   [dx (⭐724)](https://github.com/yhilpisch/dx) - DX Analytics | Financial and Derivatives Analytics with Python.
 
 ## [6. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Blazor
 
-*   [MASA.Blazor (⭐1.1k)](https://github.com/BlazorComponent/MASA.Blazor) - A set of enterprise-class UI components based on Material Design and Blazor WebAssembly.
+*   [MASA.Blazor (⭐1.2k)](https://github.com/BlazorComponent/MASA.Blazor) - A set of enterprise-class UI components based on Material Design and Blazor WebAssembly.
 
 ## [7. Awesome Python](/content/vinta/awesome-python/README.md)
 
@@ -113,7 +113,7 @@
 
 ### Patterns
 
-*   [ReduxUI (⭐42)](https://github.com/gre4ixin/ReduxUI) - Redux framework for easy use with SwiftUI.
+*   [ReduxUI (⭐44)](https://github.com/gre4ixin/ReduxUI) - Redux framework for easy use with SwiftUI.
 
 ## [10. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
@@ -125,7 +125,7 @@
 
 ### Driver crates / Other
 
-*   [MAX116xx-10bit](https://crates.io/crates/max116xx-10bit) - SPI - Driver for the MAX11619-MAX11621, MAX11624 and MAX11625 10-bit ADCs - [Intro blog post](https://robamu.github.io/post/max11619-driver-rust/) - ![crates.io](https://img.shields.io/crates/v/max116xx-10bit.svg)
+*   [MAX116xx-10bit](https://crates.io/crates/max116xx-10bit) - SPI - Driver for the MAX11619-MAX11621, MAX11624 and MAX11625 10-bit ADCs - [Intro blog post](https://robamu.github.io/post/max11619-driver-rust/) - [![crates.io](https://img.shields.io/crates/v/max116xx-10bit.svg)](https://crates.io/crates/max116xx-10bit)
 
 ---
 

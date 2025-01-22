@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 30, 2020
 
-13 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Graphics
 
-*   [vRayTracer (⭐47)](https://github.com/ali-raheem/vraytracer) - A simple ray tracer written in V.
+*   [vRayTracer (⭐49)](https://github.com/ali-raheem/vraytracer) - A simple ray tracer written in V.
 
 ## [2. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
@@ -28,7 +28,7 @@
 
 ### Containers
 
-*   [Sitecore Docker Examples (⭐75)](https://github.com/Sitecore/docker-examples) - An official Docker Examples images for the most recent versions of Sitecore 10.\*, including 'getting-started' XP0 container environment.
+*   [Sitecore Docker Examples (⭐77)](https://github.com/Sitecore/docker-examples) - An official Docker Examples images for the most recent versions of Sitecore 10.\*, including 'getting-started' XP0 container environment.
 
 ### Demo
 
@@ -36,7 +36,7 @@
 
 ### Maintenance
 
-*   [Sifon (⭐11)](https://github.com/MartinMiles/Sifon) - Backup-restore tool supporting XC and remote machine operation with an excellent pluggable interface. Sifon also has a very powerful extension system with plugins covering many aspects of day-to-day activities.
+*   [Sifon (⭐12)](https://github.com/MartinMiles/Sifon) - Backup-restore tool supporting XC and remote machine operation with an excellent pluggable interface. Sifon also has a very powerful extension system with plugins covering many aspects of day-to-day activities.
 
 ## [5. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
@@ -54,11 +54,11 @@
 
 ### Tools / Music drivers and trackers
 
-*   [hUGETracker (⭐246)](https://github.com/SuperDisk/hUGETracker) - A music tracker based on OpenMPT, focused on ease of use, compact output, and embeddability in homebrew games.
+*   [hUGETracker (⭐297)](https://github.com/SuperDisk/hUGETracker) - A music tracker based on OpenMPT, focused on ease of use, compact output, and embeddability in homebrew games.
 
 ### ASM / Boilerplates and libraries
 
-*   [gb-vwf (⭐39)](https://github.com/ISSOtm/gb-vwf) - Library to print variable-width text, comes with a demo.
+*   [gb-vwf (⭐51)](https://github.com/ISSOtm/gb-vwf) - Library to print variable-width text, comes with a demo.
 
 ## [8. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
@@ -76,8 +76,8 @@
 
 ### Utilities / Text
 
-*   [MonitorControl (⭐24k)](https://github.com/MonitorControl/MonitorControl) - Control your external monitor brightness, contrast or volume directly from a menulet or with keyboard native keys. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.") ![objective\_c\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/objective-c-16.png "Objective-C language.")
-*   [DevUtils.app (⭐3.9k)](https://github.com/DevUtilsApp/DevUtils-app) - Developer Utilities for macOS, helps you with your tiny daily tasks with just a single click! i.e., JSON Formatter, UUID Generator... ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
+*   [MonitorControl (⭐28k)](https://github.com/MonitorControl/MonitorControl) - Control your external monitor brightness, contrast or volume directly from a menulet or with keyboard native keys. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.") ![objective\_c\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/objective-c-16.png "Objective-C language.")
+*   [DevUtils.app](https://github.com/DevUtilsApp/DevUtils-app) - Developer Utilities for macOS, helps you with your tiny daily tasks with just a single click! i.e., JSON Formatter, UUID Generator... ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
 
 ### Browser
 
@@ -85,15 +85,15 @@
 
 ### Database
 
-*   [Redis Desktop Manager (⭐22k)](https://github.com/uglide/RedisDesktopManager) - Cross-platform open source database management tool for Redis ® ![cpp\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/cpp-16.png "C++ language.")
+*   [Redis Desktop Manager (⭐23k)](https://github.com/uglide/RedisDesktopManager) - Cross-platform open source database management tool for Redis ® ![cpp\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/cpp-16.png "C++ language.")
 
 ### Development / Git
 
-*   [osagitfilter (⭐31)](https://github.com/doekman/osagitfilter) - Filter to put OSA languages (AppleScript, JavaScript) into git, as if they where plain text-files. ![shell\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/shell-16.png "Shell language.") !\[applescript\_icon]
+*   [osagitfilter (⭐35)](https://github.com/doekman/osagitfilter) - Filter to put OSA languages (AppleScript, JavaScript) into git, as if they where plain text-files. ![shell\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/shell-16.png "Shell language.") !\[applescript\_icon]
 
 ### Downloader / iOS / macOS
 
-*   [Extream Download Manager (⭐5.8k)](https://github.com/subhra74/xdm) - a powerful tool to increase download speeds up to 500% ![java\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/java-16.png "Java language.")
+*   [Extream Download Manager (⭐6.7k)](https://github.com/subhra74/xdm) - a powerful tool to increase download speeds up to 500% ![java\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/java-16.png "Java language.")
 
 ### Extensions / Text
 
@@ -110,12 +110,6 @@
 ### Languages
 
 *   [Watson (⭐271)](https://github.com/genkami/watson) - Stack-based Turing-incomplete configuration files.
-
-## [13. Free for Dev](/content/ripienaar/free-for-dev/README.md)
-
-### Email
-
-*   [Tempmailo](https://tempmailo.com/) - Unlimited free temp email addresses. Autoexpire in two days.
 
 ---
 

@@ -16,7 +16,7 @@
 
 ### UI Libraries
 
-*   [attractions (⭐1k)](https://github.com/illright/attractions) - A pretty cool and modern UI kit
+*   [attractions (⭐1k)](https://github.com/illright/attractions) - A pretty cool and modern UI kit. *(pre-v5)*
 
 ## [3. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
@@ -28,11 +28,7 @@
 
 ### Components & Libraries / Frameworks
 
-*   [vue-notion (⭐873)](https://github.com/janniks/vue-notion) - An unofficial Notion renderer – Use Notion as a CMS for Vue (e.g. Nuxt)
-
-### Components & Libraries / Utilities
-
-*   [@korijn/vue-store (⭐24)](https://github.com/Korijn/vue-store) - Lightweight Vue 3 composition API-compatible store pattern library with undo/redo.
+*   [vue-notion (⭐903)](https://github.com/janniks/vue-notion) - An unofficial Notion renderer – Use Notion as a CMS for Vue (e.g. Nuxt)
 
 ## [5. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
@@ -44,11 +40,11 @@
 
 ### Back-end API / Playground
 
-*   :octocat: [Booster Framework (⭐409)](https://github.com/boostercloud/booster) - Event-driven cloud native GraphQL open-source framework, part of the Booster Cloud ecosystem. It makes use of high-level abstractions and conventions. (see also: <https://booster.cloud>)
+*   :octocat: [Booster Framework (⭐423)](https://github.com/boostercloud/booster) - Event-driven cloud native GraphQL open-source framework, part of the Booster Cloud ecosystem. It makes use of high-level abstractions and conventions. (see also: <https://booster.cloud>)
 
 ## [7. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
 
-### Courses
+### Courses / Commerical Tools
 
 *   [Transfer Learning for Natural Language Processing](https://www.manning.com/books/transfer-learning-for-natural-language-processing?utm_source=github\&utm_medium=organic\&utm_campaign=book_azunre_transfer_3_10_20) - A book that gets you up to speed with the relevant ML concepts and then dives into transfer learning for NLP.
 
@@ -56,7 +52,7 @@
 
 ### Projects
 
-*   [wasm-2048 (⭐150)](https://github.com/dev-family/wasm-2048) - 2048 game implemented with Rust and Yew and compiled to Wasm.
+*   [wasm-2048 (⭐152)](https://github.com/dev-family/wasm-2048) - 2048 game implemented with Rust and Yew and compiled to Wasm.
 
 ### Crates / Components
 
@@ -67,7 +63,7 @@
 
 ### Hardware
 
-*   [LIDAR (⭐869)](https://github.com/szenergy/awesome-lidar#readme) - Sensor for measuring distances by illuminating the target with laser light.
+*   [LIDAR (⭐977)](https://github.com/szenergy/awesome-lidar#readme) - Sensor for measuring distances by illuminating the target with laser light.
 
 ---
 

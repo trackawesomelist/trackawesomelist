@@ -26,14 +26,14 @@
 
 ### Resources / Books
 
-*   [Functional-Light JavaScript (⭐16k)](https://github.com/getify/functional-light-js) – This book explores the core principles of functional programming (FP) that can be applied to JavaScript. But what makes this book different is that it approaches these principles without all the heavy terminology.
+*   [Functional-Light JavaScript (⭐17k)](https://github.com/getify/functional-light-js) – This book explores the core principles of functional programming (FP) that can be applied to JavaScript. But what makes this book different is that it approaches these principles without all the heavy terminology.
 
 ## [4. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/README.md)
 
 ### Development Projects / Bots
 
-*   [PokemonGo-Bot (⭐3.8k)](https://github.com/PokemonGoF/PokemonGo-Bot) - The Pokémon GO bot script, baking with community.
-*   [Bot Builder for PokemonGoBot (⭐17)](https://github.com/shilch/pogobot-builder) - Simply build your Pokémon GO bot.
+*   [PokemonGo-Bot (⭐3.9k)](https://github.com/PokemonGoF/PokemonGo-Bot) - The Pokémon GO bot script, baking with community.
+*   [Bot Builder for PokemonGoBot (⭐18)](https://github.com/shilch/pogobot-builder) - Simply build your Pokémon GO bot.
 
 ## [5. Awesome Symfony Education](/content/pehapkari/awesome-symfony-education/README.md)
 
@@ -51,7 +51,7 @@
 
 ### Python / Data Sources
 
-*   [findatapy (⭐1.6k)](https://github.com/cuemacro/findatapy) - Python library to download market data via Bloomberg, Quandl, Yahoo etc.
+*   [findatapy (⭐1.7k)](https://github.com/cuemacro/findatapy) - Python library to download market data via Bloomberg, Quandl, Yahoo etc.
 
 ## [8. Awesome Fuse](/content/fuse-compound/awesome-fuse/README.md)
 

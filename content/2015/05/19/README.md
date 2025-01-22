@@ -10,7 +10,7 @@
 
 ### Table of Contents / E-commerce
 
-*   [OmniPay (⭐5.9k)](https://github.com/thephpleague/omnipay) - A framework agnostic multi-gateway payment processing library.
+*   [OmniPay (⭐6k)](https://github.com/thephpleague/omnipay) - A framework agnostic multi-gateway payment processing library.
 
 ## [2. Awesome D3](/content/wbkd/awesome-d3/README.md)
 
@@ -34,7 +34,7 @@
 
 ### Packages / Templating
 
-*   [EJS (⭐7.7k)](https://github.com/mde/ejs) - Simple unopinionated templating language.
+*   [EJS (⭐7.8k)](https://github.com/mde/ejs) - Simple unopinionated templating language.
 
 ### Packages / Parsing
 

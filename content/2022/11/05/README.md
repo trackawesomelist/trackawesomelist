@@ -10,13 +10,13 @@
 
 ### Examples
 
-*   [aws/aws-parallelcluster (⭐816)](https://github.com/aws/aws-parallelcluster/wiki)
+*   [aws/aws-parallelcluster (⭐849)](https://github.com/aws/aws-parallelcluster/wiki)
 
 ## [2. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
 ### Plugins / Practices and Specific ES Features
 
-*   [no-comments (⭐11)](https://github.com/wisniewski94/eslint-plugin-no-comments) - Prevents leaking comments into production if bundler is not used and stops developers from commenting out old lines of code.
+*   [no-comments (⭐13)](https://github.com/wisniewski94/eslint-plugin-no-comments) - Prevents leaking comments into production if bundler is not used and stops developers from commenting out old lines of code.
 
 ## [3. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
 

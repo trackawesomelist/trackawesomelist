@@ -94,7 +94,7 @@
 
 ### Contents / Backups
 
-*   [pg\_probackup (⭐695)](https://github.com/postgrespro/pg_probackup) – A fork of pg\_arman, improved by @PostgresPro, supports incremental backups, backups from replica, multithreaded backup and restore, and anonymous backup without archive command.
+*   [pg\_probackup (⭐704)](https://github.com/postgrespro/pg_probackup) – A fork of pg\_arman, improved by @PostgresPro, supports incremental backups, backups from replica, multithreaded backup and restore, and anonymous backup without archive command.
 
 ### Contents / Extensions
 
@@ -105,7 +105,7 @@
 ### Contents / Utilities
 
 *   [apgdiff](https://www.apgdiff.com/) - Compares two database dump files and creates output with DDL statements that can be used to update old database schema to new one.
-*   [ZSON (⭐534)](https://github.com/postgrespro/zson) - PostgreSQL extension for transparent JSONB compression
+*   [ZSON (⭐536)](https://github.com/postgrespro/zson) - PostgreSQL extension for transparent JSONB compression
 
 ## [12. Nlp with Ruby](/content/arbox/nlp-with-ruby/week/README.md)
 
@@ -128,7 +128,7 @@
 
 ### Artificial Intelligence
 
-*   [tiny-dnn (⭐5.8k)](https://github.com/tiny-dnn/tiny-dnn) - A header only, dependency-free deep learning framework in C++11. \[BSD]
+*   [tiny-dnn (⭐5.9k)](https://github.com/tiny-dnn/tiny-dnn) - A header only, dependency-free deep learning framework in C++11. \[BSD]
 
 ### Concurrency
 
@@ -209,7 +209,7 @@
 
 ### Questions
 
-*   [slap (⭐87)](https://github.com/akabe/slap) - A linear algebra library in OCaml with type-based static size checking for matrix operations.
+*   [slap (⭐88)](https://github.com/akabe/slap) - A linear algebra library in OCaml with type-based static size checking for matrix operations.
 
 ## [20. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
@@ -313,8 +313,7 @@
 
 *   [Advanced Analytics with Spark](http://shop.oreilly.com/product/0636920035091.do) - Useful collection of Spark processing patterns. Accompanying GitHub repository: [sryza/aas (⭐1.5k)](https://github.com/sryza/aas).
 *   [Mastering Apache Spark](https://jaceklaskowski.gitbooks.io/mastering-apache-spark/) - Interesting compilation of notes by [Jacek Laskowski](https://github.com/jaceklaskowski). Focused on different aspects of Spark internals.
-*   [Spark Gotchas (⭐346)](https://github.com/awesome-spark/spark-gotchas) - Subjective compilation of tips, tricks and common programming mistakes.
-*   [Spark in Action](https://www.manning.com/books/spark-in-action) - New book in the Manning's "in action" family with +400 pages. Starts gently, step-by-step and covers large number of topics. Free excerpt on how to [setup Eclipse for Spark application development](http://freecontent.manning.com/how-to-start-developing-spark-applications-in-eclipse/) and how to bootstrap a new application using the provided Maven Archetype. You can find the accompanying GitHub repo [here (⭐270)](https://github.com/spark-in-action/first-edition).
+*   [Spark in Action](https://www.manning.com/books/spark-in-action) - New book in the Manning's "in action" family with +400 pages. Starts gently, step-by-step and covers large number of topics. Free excerpt on how to [setup Eclipse for Spark application development](http://freecontent.manning.com/how-to-start-developing-spark-applications-in-eclipse/) and how to bootstrap a new application using the provided Maven Archetype. You can find the accompanying GitHub repo [here (⭐273)](https://github.com/spark-in-action/first-edition).
 
 ### Resources / MOOCS
 
@@ -342,17 +341,17 @@
 
 ### Framework Components
 
-*   [rummage\_ecto (⭐211)](https://github.com/Excipients/rummage_ecto) - A configurable framework to search, sort and paginate Ecto Queries.
+*   [rummage\_ecto (⭐212)](https://github.com/Excipients/rummage_ecto) - A configurable framework to search, sort and paginate Ecto Queries.
 
 ### ORM and Datamapping
 
-*   [mongodb\_ecto (⭐365)](https://github.com/michalmuskala/mongodb_ecto) - MongoDB adapter for Ecto.
+*   [mongodb\_ecto (⭐374)](https://github.com/michalmuskala/mongodb_ecto) - MongoDB adapter for Ecto.
 
 ## [26. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Apps / Settings management
 
-*   [Wagtail-Flags (⭐82)](https://github.com/cfpb/wagtail-flags) - Feature flags for Wagtail sites.
+*   [Wagtail-Flags (⭐83)](https://github.com/cfpb/wagtail-flags) - Feature flags for Wagtail sites.
 
 ### Apps / Content Management
 
@@ -382,7 +381,7 @@ Webpage: <https://metalab.at>
 
 ### Images, Maps and Charts / Paid Books
 
-*   [AnyChart-jQuery (⭐12)](https://github.com/AnyChart/AnyChart-jQuery) - Plugin for easily using AnyChart JavaScript charting library with jQuery.
+*   [AnyChart-jQuery (⭐13)](https://github.com/AnyChart/AnyChart-jQuery) - Plugin for easily using AnyChart JavaScript charting library with jQuery.
 
 ## [29. Awesome Network Js](/content/Kikobeats/awesome-network-js/week/README.md)
 
@@ -449,7 +448,7 @@ Webpage: <https://metalab.at>
 
 ### Third-party APIs
 
-*   [raven.cr (⭐120)](https://github.com/sija/raven.cr) - Raven is a client for [Sentry (⭐38k)](https://github.com/getsentry/sentry)
+*   [raven.cr (⭐122)](https://github.com/sija/raven.cr) - Raven is a client for [Sentry (⭐40k)](https://github.com/getsentry/sentry)
 
 ## [39. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 
@@ -524,7 +523,7 @@ Webpage: <https://metalab.at>
 
 ### Cryptography
 
-*   [SecurityDriven.Inferno (⭐568)](https://github.com/sdrapkin/SecurityDriven.Inferno) - .NET crypto library. Professionally audited.
+*   [SecurityDriven.Inferno (⭐580)](https://github.com/sdrapkin/SecurityDriven.Inferno) - .NET crypto library. Professionally audited.
 
 ## [47. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
 
@@ -559,12 +558,12 @@ Webpage: <https://metalab.at>
 
 ### Other Useful Repositories
 
-- Repository: [PayloadsAllTheThings (⭐59k)](https://github.com/swisskyrepo/PayloadsAllTheThings)
+- Repository: [PayloadsAllTheThings (⭐63k)](https://github.com/swisskyrepo/PayloadsAllTheThings)
 
   Description: List of useful payloads and bypass for Web Application Security and Pentest/CTF
 
 
-- Repository: [RFSec-ToolKit (⭐1.5k)](https://github.com/cn0xroot/RFSec-ToolKit)
+- Repository: [RFSec-ToolKit (⭐1.6k)](https://github.com/cn0xroot/RFSec-ToolKit)
 
   Description: Collection of Radio Frequency Communication Protocol Hacktools
 

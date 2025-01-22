@@ -71,9 +71,9 @@
 
 ### Tools / Libraries
 
-*   [Color Thief (⭐12k)](https://github.com/lokesh/color-thief) - Grab color palette from an image.
+*   [Color Thief (⭐13k)](https://github.com/lokesh/color-thief) - Grab color palette from an image.
 *   [Colorify.js (⭐806)](https://github.com/LukyVj/Colorify.js) - Simple, customizable, tiny JavaScript color extractor.
-*   [Colofilter.css (⭐619)](https://github.com/LukyVj/colofilter.css) - Duotone filters made with CSS.
+*   [Colofilter.css (⭐620)](https://github.com/LukyVj/colofilter.css) - Duotone filters made with CSS.
 
 ### Tools / Web App
 
@@ -302,12 +302,12 @@
 
 ### Graphic Displays
 
-*   [ggfortify (⭐524)](https://github.com/sinhrks/ggfortify) - A unified interface to ggplot2 popular statistical packages using one line of code.
-*   [corrplot (⭐302)](https://github.com/taiyun/corrplot) - A graphical display of a correlation matrix or general matrix. It also contains some algorithms to do matrix reordering.
+*   [ggfortify (⭐528)](https://github.com/sinhrks/ggfortify) - A unified interface to ggplot2 popular statistical packages using one line of code.
+*   [corrplot (⭐319)](https://github.com/taiyun/corrplot) - A graphical display of a correlation matrix or general matrix. It also contains some algorithms to do matrix reordering.
 
 ### Data Packages
 
-*   [engsoccerdata (⭐744)](https://github.com/jalapic/engsoccerdata) - English and European soccer results 1871-2016.
+*   [engsoccerdata (⭐761)](https://github.com/jalapic/engsoccerdata) - English and European soccer results 1871-2016.
 
 ## [23. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 

@@ -28,7 +28,6 @@
 
 ### Colors / Icons Packages and Collections
 
-*   [0to255](http://www.0to255.com/) - A simple tool that helps web designers find variations of any color.
 *   [Bootflat](http://bootflat.github.io/color-picker.html) - Bootflat Flat UI color picker is a project digging the Flat Color Picker which gives you the perfect colors for flat designs.
 
 ### How to Share / Icons Packages and Collections
@@ -39,7 +38,7 @@
 
 ### CLI Utilities
 
-*   [Paint (⭐369)](https://github.com/janlelis/paint) - Simple and fast way to set ANSI terminal colors.
+*   [Paint (⭐375)](https://github.com/janlelis/paint) - Simple and fast way to set ANSI terminal colors.
 
 ## [3. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
@@ -54,15 +53,15 @@
 ### Authentication
 
 *   [ueberauth (⭐1.6k)](https://github.com/ueberauth/ueberauth) - An Elixir Authentication System for Plug-based Web Applications.
-*   [ueberauth\_facebook (⭐76)](https://github.com/ueberauth/ueberauth_Facebook) - Facebook OAuth2 Strategy for Überauth.
-*   [ueberauth\_github (⭐103)](https://github.com/ueberauth/ueberauth_github) - A GitHub strategy for Überauth.
-*   [ueberauth\_google (⭐161)](https://github.com/ueberauth/ueberauth_google) - A Google strategy for Überauth.
-*   [ueberauth\_identity (⭐79)](https://github.com/ueberauth/ueberauth_identity) - A simple username/password strategy for Überauth.
+*   [ueberauth\_facebook (⭐78)](https://github.com/ueberauth/ueberauth_Facebook) - Facebook OAuth2 Strategy for Überauth.
+*   [ueberauth\_github (⭐102)](https://github.com/ueberauth/ueberauth_github) - A GitHub strategy for Überauth.
+*   [ueberauth\_google (⭐169)](https://github.com/ueberauth/ueberauth_google) - A Google strategy for Überauth.
+*   [ueberauth\_identity (⭐80)](https://github.com/ueberauth/ueberauth_identity) - A simple username/password strategy for Überauth.
 *   [ueberauth\_slack (⭐23)](https://github.com/ueberauth/ueberauth_slack) - A Slack strategy for Überauth.
 
 ### HTTP
 
-*   [scrape (⭐326)](https://github.com/Anonyfox/elixir-scrape) - Scrape any website, article or RSS/Atom Feed with ease.
+*   [scrape (⭐329)](https://github.com/Anonyfox/elixir-scrape) - Scrape any website, article or RSS/Atom Feed with ease.
 
 ### Utilities
 
@@ -166,7 +165,7 @@
 
 ### Testing
 
-*   [ExpressionToCode (⭐158)](https://github.com/EamonNerbonne/ExpressionToCode) - Use plain C# syntax in assertions that include both the expression expression and subexpression values in the failure message.
+*   [ExpressionToCode (⭐164)](https://github.com/EamonNerbonne/ExpressionToCode) - Use plain C# syntax in assertions that include both the expression expression and subexpression values in the failure message.
 
 ## [9. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 

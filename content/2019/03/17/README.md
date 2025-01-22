@@ -25,8 +25,8 @@
 
 ### Example Projects
 
-*   [Example for Securing Apps with Keycloak on Kubernetes (⭐56)](https://github.com/stianst/demo-kubernetes)
-*   [Example for Securing AspDotNet Core Apps with Keycloak (⭐37)](https://github.com/thomasdarimont/kc-dnc-demo)
+*   [Example for Securing Apps with Keycloak on Kubernetes (⭐57)](https://github.com/stianst/demo-kubernetes)
+*   [Example for Securing AspDotNet Core Apps with Keycloak (⭐38)](https://github.com/thomasdarimont/kc-dnc-demo)
 
 ## [3. Game Datasets](/content/leomaurodesenv/game-datasets/README.md)
 
@@ -38,7 +38,7 @@
 
 ### Scheduling
 
-*   [Workflow Core (⭐5.2k)](https://github.com/danielgerlag/workflow-core) - Lightweight embeddable workflow engine
+*   [Workflow Core (⭐5.5k)](https://github.com/danielgerlag/workflow-core) - Lightweight embeddable workflow engine
 
 ## [5. Awesome Rest](/content/marmelab/awesome-rest/README.md)
 
@@ -68,12 +68,12 @@
 
 ### Math
 
-*   [SymEngine (⭐1.1k)](https://github.com/symengine/symengine) - Fast symbolic manipulation library, a rewriting of SymPy's core in C++. \[MIT]
+*   [SymEngine (⭐1.2k)](https://github.com/symengine/symengine) - Fast symbolic manipulation library, a rewriting of SymPy's core in C++. \[MIT]
 
 ### Networking
 
-*   [cpp-netlib/uri (⭐138)](https://github.com/cpp-netlib/uri) - URI parser/builder library for C++, compatible with RFC 3986 and RFC 3987. \[Boost]
-*   [uriparser (⭐323)](https://github.com/uriparser/uriparser) - Strictly RFC 3986 compliant URI parsing and handling library. \[BSD-3-Clause]
+*   [cpp-netlib/uri (⭐140)](https://github.com/cpp-netlib/uri) - URI parser/builder library for C++, compatible with RFC 3986 and RFC 3987. \[Boost]
+*   [uriparser (⭐346)](https://github.com/uriparser/uriparser) - Strictly RFC 3986 compliant URI parsing and handling library. \[BSD-3-Clause]
 
 ---
 

@@ -10,7 +10,7 @@
 
 ### Examples
 
-*   [emalderson/thephish (⭐1.1k)](https://github.com/emalderson/ThePhish#readme) - Project logo, informative badges, useful TOC, clear description, screenshots, step-by-step installation and configuration guide, contributor guidelines, code of conduct, UML diagrams, coherent tags, issue and pull request templates, well-documented and well-commented code, examples.
+*   [emalderson/thephish (⭐1.2k)](https://github.com/emalderson/ThePhish#readme) - Project logo, informative badges, useful TOC, clear description, screenshots, step-by-step installation and configuration guide, contributor guidelines, code of conduct, UML diagrams, coherent tags, issue and pull request templates, well-documented and well-commented code, examples.
 
 ## [2. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/README.md)
 
@@ -62,32 +62,28 @@
 
 ## [5. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 
-### Online services
+### Online services (a-z↓)
 
 *   [HeadSpin](https://www.headspin.io/) - HeadSpin's Regression testing gives you a powerful comparison tool for analysing degradation across new app builds, OS releases, feature additions, locations, and more.
 
-## [6. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
-
-### GTFS Converters / Ruby
-
-*   [GTFS-route-shapes (⭐19)](https://github.com/kotrc/GTFS-route-shapes) - A Python script to generate a single geoJSON shape for each transit route in a GTFS archive.
-*   [hafas-generate-gtfs (⭐6)](https://github.com/derhuerst/hafas-generate-gtfs) *(work-in-progress)* – A Javascript tool to generate GTFS dumps from HAFAS endpoints.
-
-## [7. Awesome Go](/content/avelino/awesome-go/README.md)
-
-### Utilities
-
-*   [lo (⭐17k)](https://github.com/samber/lo) - A Lodash like Go library based on Go 1.18+ Generics (map, filter, contains, find...)
-
-## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / UI Components
-
-*   [vue-json-viewer (⭐550)](https://github.com/chenfengjw163/vue-json-viewer) - A JSON Tree View Support for incremental update components, base on Vue2 and Vue3.
+## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / Utilities
 
-*   [tolgee/vue (⭐222)](https://github.com/tolgee/tolgee-js/tree/main/packages/vue) - Web-based localization tool enabling users to translate directly in the Vue 3 app they develop.
+*   [tolgee/vue (⭐234)](https://github.com/tolgee/tolgee-js/tree/main/packages/vue) - Web-based localization tool enabling users to translate directly in the Vue 3 app they develop.
+
+## [7. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+
+### GTFS Converters / Ruby
+
+*   [GTFS-route-shapes (⭐18)](https://github.com/kotrc/GTFS-route-shapes) - A Python script to generate a single geoJSON shape for each transit route in a GTFS archive.
+*   [hafas-generate-gtfs (⭐6)](https://github.com/derhuerst/hafas-generate-gtfs) *(work-in-progress)* – A Javascript tool to generate GTFS dumps from HAFAS endpoints.
+
+## [8. Awesome Go](/content/avelino/awesome-go/README.md)
+
+### Utilities
+
+*   [lo (⭐18k)](https://github.com/samber/lo) - A Lodash like Go library based on Go 1.18+ Generics (map, filter, contains, find...)
 
 ## [9. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
@@ -115,14 +111,14 @@
 
 ### Animation
 
-*   [Aseprite loader (⭐37)](https://github.com/elloramir/love-ase) - Complete ase/aseprite file loader (no json).
+*   [Aseprite loader (⭐42)](https://github.com/elloramir/love-ase) - Complete ase/aseprite file loader (no json).
 
 ## [13. Awesome Capacitor](/content/riderx/awesome-capacitor/README.md)
 
 ### Official plugins
 
-*   [Device (⭐493)](https://github.com/ionic-team/capacitor-plugins/tree/main/device) - Exposes internal information about the device, such as the model and operating system version, along with user information such as unique IDs.
-*   [File system (⭐493)](https://github.com/ionic-team/capacitor-plugins/tree/main/filesystem) - Provides a NodeJS-like API for working with files on the device.
+*   [Device (⭐546)](https://github.com/ionic-team/capacitor-plugins/tree/main/device) - Exposes internal information about the device, such as the model and operating system version, along with user information such as unique IDs.
+*   [File system (⭐546)](https://github.com/ionic-team/capacitor-plugins/tree/main/filesystem) - Provides a NodeJS-like API for working with files on the device.
 
 ### Learning / Crash Courses
 

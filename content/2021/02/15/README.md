@@ -20,8 +20,6 @@
 
   CORS: No
 
-  Call this API: 
-
 
 
 ## [2. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
@@ -38,22 +36,21 @@
 
 ## [4. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
-### Demos / Godot 3.2+
+### Demos / Godot 3
 
-*   [Godot experiments (⭐659)](https://github.com/MrEliptik/godot_experiments) - Several 2D, 3D and VR experiments.
+*   [Godot experiments (⭐763)](https://github.com/MrEliptik/godot_experiments) - Several 2D, 3D and VR experiments.
 
 ## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / Frameworks
 
-*   [Native script (⭐5.3k)](https://github.com/nativescript-vue/nativescript-vue) - Native mobile applications using NativeScript
-*   [Vue Native (⭐8.3k)](https://github.com/GeekyAnts/vue-native-core) - Build cross platform native mobile apps using JavaScript
+*   [Native script (⭐5.4k)](https://github.com/nativescript-vue/nativescript-vue) - Native mobile applications using NativeScript
 
 ## [6. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ### Providers / Vendor supported providers
 
-*   [terraform-provider-checkly (⭐44)](https://github.com/checkly/terraform-provider-checkly) - Manage [Checkly](https://www.checklyhq.com) resources for API & E2E monitoring.
+*   [terraform-provider-checkly (⭐43)](https://github.com/checkly/terraform-provider-checkly) - Manage [Checkly](https://www.checklyhq.com) resources for API & E2E monitoring.
 
 ## [7. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 

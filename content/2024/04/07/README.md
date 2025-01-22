@@ -16,13 +16,13 @@
 
 ### Development / Discovery
 
-*   [attic (⭐913)](https://github.com/zhaofengli/attic) - Multi-tenant Nix Binary Cache.
+*   [attic (⭐1.2k)](https://github.com/zhaofengli/attic) - Multi-tenant Nix Binary Cache.
 
 ## [3. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Debug
 
-*   [cpp-dump (⭐232)](https://github.com/philip82148/cpp-dump) - A C++ library for debugging purposes that can print any variable, even user-defined types. \[MIT]
+*   [cpp-dump (⭐313)](https://github.com/philip82148/cpp-dump) - A C++ library for debugging purposes that can print any variable, even user-defined types. \[MIT]
 
 ## [4. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
@@ -33,19 +33,19 @@
 
 ### Libraries/Frameworks / Multiplatform
 
-*   [respawn-app/FlowMVI (⭐272)](https://github.com/respawn-app/FlowMVI) - A Kotlin Multiplatform architectural framework based on coroutines with an extensive feature set, powerful plugin system and a rich DSL.
+*   [respawn-app/FlowMVI (⭐350)](https://github.com/respawn-app/FlowMVI) - A Kotlin Multiplatform architectural framework based on coroutines with an extensive feature set, powerful plugin system and a rich DSL.
 
 ## [5. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [dirbrowse (⭐0)](https://github.com/giovannilupi/dirbrowse/) - Customized version of the [dirbrowse (⭐172k)](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/dircycle) plugin in [oh-my-zsh](https://ohmyz.sh).
+*   [dirbrowse (⭐0)](https://github.com/giovannilupi/dirbrowse/) - Customized version of the [dirbrowse (⭐175k)](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/dircycle) plugin in [oh-my-zsh](https://ohmyz.sh).
 *   [touchplus (⭐3)](https://github.com/raisedadead/zsh-touchplus) - Create files with `touch` including the path.
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [antibody (⭐0)](https://github.com/sinetoami/antibody-completion) - This plugin provides completion for the [Antibody (⭐1.7k)](https://github.com/getantibody/antibody) plugin manager.
-*   [audogombleed.sh (⭐2)](https://github.com/i-love-coffee-i-love-tea/audogombleed.sh) - Makes it easy to generate completion files using a declarative syntax, quickly and without coding.
+*   [audogombleed.sh (⭐5)](https://github.com/i-love-coffee-i-love-tea/audogombleed.sh) - Makes it easy to generate completion files using a declarative syntax, quickly and without coding.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 

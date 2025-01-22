@@ -105,19 +105,19 @@
 ### Gallery / PGFPlots
 
 *   [TeXample](http://www.texample.net/tikz/) - Gallery of wonderful examples made by TikZ.
-*   [walmes/Tikz (⭐375)](https://github.com/walmes/Tikz) - Collection of TikZ art from Prof. Walmes M. Zeviani, contains about 200 TikZ figures, most of which were done to teach statistics.
-*   [MartinThoma/LaTeX-examples (⭐1.4k)](https://github.com/MartinThoma/LaTeX-examples/tree/master/tikz) - Contains about 350 TikZ examples from Martin. Thoma.
+*   [walmes/Tikz (⭐444)](https://github.com/walmes/Tikz) - Collection of TikZ art from Prof. Walmes M. Zeviani, contains about 200 TikZ figures, most of which were done to teach statistics.
+*   [MartinThoma/LaTeX-examples (⭐1.6k)](https://github.com/MartinThoma/LaTeX-examples/tree/master/tikz) - Contains about 350 TikZ examples from Martin. Thoma.
 *   [Nice Scientific Pictures](https://tex.stackexchange.com/questions/158668/nice-scientific-pictures-show-off) - Contains some really nice TikZ examples, together with pictures drawn by other TeX friends.
 *   [Love heart with LaTeX](https://tex.stackexchange.com/questions/139733/can-we-make-a-love-heart-with-latex) - Contains lovely code to make a heart by LaTeX/TikZ.
-*   [PetarV-/TikZ (⭐912)](https://github.com/PetarV-/TikZ) - A collection of publication-ready PGF/TikZ figures by Petar Veličković.
+*   [PetarV-/TikZ (⭐1.2k)](https://github.com/PetarV-/TikZ) - A collection of publication-ready PGF/TikZ figures by Petar Veličković.
 
 ### Tools / PGFPlots
 
 *   [tikzedt](http://www.tikzedt.org/) - A combined WYSIWYG/text editor designed for editing Tikz code.
-*   [ktikz (⭐293)](https://github.com/fhackenberger/ktikz) - Provides a nice user interface for making pictures using TikZ.
+*   [ktikz (⭐350)](https://github.com/fhackenberger/ktikz) - Provides a nice user interface for making pictures using TikZ.
 *   [gratex](https://sourceforge.net/projects/gratex/) - Visual graph creator for LaTeX (PGF & TikZ).
-*   [matlab2tikz (⭐1.3k)](https://github.com/matlab2tikz/matlab2tikz) - Converts MATLAB®/Octave figures to TikZ/pgfplots figures.
-*   [matplotlib2tikz (⭐1.9k)](https://github.com/nschloe/matplotlib2tikz) - Convert matplotlib figure and spits out a TikZ/PGFplots figure.
+*   [matlab2tikz (⭐1.6k)](https://github.com/matlab2tikz/matlab2tikz) - Converts MATLAB®/Octave figures to TikZ/pgfplots figures.
+*   [matplotlib2tikz (⭐2.4k)](https://github.com/nschloe/matplotlib2tikz) - Convert matplotlib figure and spits out a TikZ/PGFplots figure.
 
 ### Libraries / PGFPlots
 
@@ -410,32 +410,48 @@
 
 *   [Snarkdown (⭐2.1k)](https://github.com/developit/snarkdown) - Snarkdown is a dead simple 1kb Markdown parser.
 
-## [18. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
+## [18. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/week/README.md)
+
+### Websites
+
+*   G2 Crowd - <https://www.g2crowd.com/products/new>
+
+## [19. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
 
 ### Contents / Tools
 
 *   [p8dl - Carts Downloader - Python (⭐9)](https://github.com/franciscod/p8dl) - Downloads cartridges into the correct folder (looks at your config.txt).
 *   [Pico-8 Carts Downloader - Bash  (⭐17)](https://github.com/kikookoubis/pico-8-carts-bash-downloader) - Downloads cartridge from the BBS (single cart, whole index or dump your favourited entries) & rename them according to their metadata.
 
-## [19. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [20. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+
+### Resources / Tutorials
+
+*   [Vue.js Tutorial: A Prerendered, SEO-Friendly Example](https://snipcart.com/blog/vuejs-tutorial-seo-example)
+
+### Resources / Books
+
+*   [The Majesty Of Vue.js 2](https://leanpub.com/vuejs2) by Alex Kyriakidis and Kostas Maniatis, Leanpub. (Mar 2017)
+
+## [21. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Cryptography
 
-*   [OpenSSL (⭐25k)](https://github.com/openssl/openssl) - A robust, commercial-grade, full-featured, and Open Source cryptography library. \[Apache] [website](http://www.openssl.org/)
+*   [OpenSSL (⭐26k)](https://github.com/openssl/openssl) - A robust, commercial-grade, full-featured, and Open Source cryptography library. \[Apache] [website](http://www.openssl.org/)
 
-## [20. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [22. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Individuals/Group Contributors / K individuals
 
 *   Kirill Shevchenko <https://medium.com/@kirill_shevch>
 
-## [21. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [23. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / API Gateway
 
 *   [api-gateway-secure-pet-store :fire::fire: (⭐310)](https://github.com/awslabs/api-gateway-secure-pet-store) - Cognito credentials through Lambda.
 
-## [22. Awesome Netherlands Events](/content/awkward/awesome-netherlands-events/week/README.md)
+## [24. Awesome Netherlands Events](/content/awkward/awesome-netherlands-events/week/README.md)
 
 ### Utrecht
 
@@ -445,7 +461,7 @@
 
 *   [CoderDojo](https://coderdojo.nl) - Monthly workshops for kids (7-17) to learn to code.
 
-## [23. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
+## [25. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
 
 ### Android
 
@@ -455,13 +471,13 @@
 
 *   [Outcognito Mode (⭐11)](https://github.com/hrldcpr/outcognito-mode) - Incognito Mode for extroverts.
 
-## [24. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [26. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Proxy and VPN Tools / Audio Record and Process
 
 *   [tinc](https://www.tinc-vpn.org) - Secure mesh VPN software. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://www.tinc-vpn.org/git/browse?p=tinc) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [25. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [27. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Network / Firewall
 
@@ -471,47 +487,47 @@
 
 *   [ir-rescue (⭐447)](https://github.com/diogo-fernan/ir-rescue) - *ir-rescue* is a Windows Batch script and a Unix Bash script to comprehensively collect host forensic data during incident response.
 
-## [26. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [28. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Web / Playground
 
-*   :octocat: [APIs-guru/graphql-voyager (⭐7.7k)](https://github.com/APIs-guru/graphql-voyager) - Represent any GraphQL API as an interactive graph 🛰️
-*   :octocat: [Rebilly/ReDoc (⭐23k)](https://github.com/Rebilly/Redoc) - OpenAPI/Swagger-generated API Reference Documentation
+*   :octocat: [APIs-guru/graphql-voyager (⭐7.8k)](https://github.com/APIs-guru/graphql-voyager) - Represent any GraphQL API as an interactive graph 🛰️
+*   :octocat: [Rebilly/ReDoc (⭐24k)](https://github.com/Rebilly/Redoc) - OpenAPI/Swagger-generated API Reference Documentation
 
-## [27. Awesome Speaking](/content/matteofigus/awesome-speaking/week/README.md)
+## [29. Awesome Speaking](/content/matteofigus/awesome-speaking/week/README.md)
 
 ### CFP
 
 *   [PaperCall](https://papercall.io/) - Place to manage your talks and submissions.
 
-## [28. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [30. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Framework Components
 
-*   [kemal-session (⭐53)](https://github.com/kemalcr/kemal-session) - Session handler for Kemal
+*   [kemal-session (⭐54)](https://github.com/kemalcr/kemal-session) - Session handler for Kemal
 
 ### Third-party APIs
 
 *   [crystal-darksky (⭐8)](https://github.com/sb89/crystal-darksky) - Wrapper for the [Dark Sky](https://darksky.net) API
 *   [crystal-swapi (⭐4)](https://github.com/sb89/crystal-swapi) - Star Wars API (SWAPI) wrapper
 
-## [29. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
+## [31. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
 
 ### Github Libraries / Randomized Algorithms
 
 *   Ruby
     *   [by @kanwei (⭐2.7k)](https://github.com/kanwei/algorithms)
     *   [by @sagivo (⭐3.3k)](https://github.com/sagivo/algorithms)
-    *   [by @kumar91gopi (⭐715)](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby)
+    *   [by @kumar91gopi (⭐719)](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby)
 
-## [30. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
+## [32. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
 
 ### Table of Contents / Packages and Libraries supporting salesforce
 
 *   [Visualforce TableGrid (⭐126)](https://github.com/Up2Go/visualforce-table-grid) - TableGrid is a free, open-source Force.com library, that provides users and developers a highly customizable, native-looking, sortable, filterable, editable Grid Visualforce component. This component can be used as an advanced, highly configurable (by developer and user) replacement of apex:pageBlockTables and Standard Related Lists </br>
     [![Button](https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png)](https://githubsfdeploy.herokuapp.com?owner=Up2Go\&repo=visualforce-table-grid)
 
-## [31. Awesome Perl](/content/hachiojipm/awesome-perl/week/README.md)
+## [33. Awesome Perl](/content/hachiojipm/awesome-perl/week/README.md)
 
 ### Caches / DSP
 
@@ -529,7 +545,7 @@
 
 *   [Search::Elasticsearch](https://metacpan.org/pod/Search::Elasticsearch) - Offical Elasticsearch client library
 
-## [32. Awesome Deep Learning Papers](/content/terryum/awesome-deep-learning-papers/week/README.md)
+## [34. Awesome Deep Learning Papers](/content/terryum/awesome-deep-learning-papers/week/README.md)
 
 ### Contents / New papers
 
@@ -546,13 +562,13 @@
 
 *   Consistency and Fluctuations For Stochastic Gradient Langevin Dynamics (2016), Yee Whye Teh et al. [\[pdf\]](http://www.jmlr.org/papers/volume17/teh16a/teh16a.pdf)
 
-## [33. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
+## [35. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
 
 ### Libraries / [Gradle Tasks](https://marketplace.visualstudio.com/items?itemName=richardwillis.vscode-gradle)
 
 *   [vscode-test-content (⭐5)](https://github.com/mlewand-org/vscode-test-content) - A method to set/get editor content, and it's selection. Especially useful for unit tests.
 
-## [34. Awesome Json](/content/burningtree/awesome-json/week/README.md)
+## [36. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
 ### Command-line tools
 
@@ -562,30 +578,30 @@
 
 *   [json-sharp (⭐6)](https://github.com/globocom/json-sharp) - Javascript tool to process operations on pure JSON objects. (Javascript)
 
-## [35. Awesome Lumen](/content/unicodeveloper/awesome-lumen/week/README.md)
+## [37. Awesome Lumen](/content/unicodeveloper/awesome-lumen/week/README.md)
 
 ### Packages and Middleware
 
 *   [REST API With Lumen (⭐484)](https://github.com/hasib32/rest-api-with-lumen) - A RESTful API boilerplate for Lumen micro-framework.
 
-## [36. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [38. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Misc
 
-*   [Enums.NET (⭐1.7k)](https://github.com/TylerBrinkley/Enums.NET) - Enums.NET is a high-performance type-safe .NET enum utility library
+*   [Enums.NET (⭐1.8k)](https://github.com/TylerBrinkley/Enums.NET) - Enums.NET is a high-performance type-safe .NET enum utility library
 
 ### Scheduling
 
 *   [Hangfire](https://github.com/HangfireIO) - An easy way to perform fire-and-forget, delayed and recurring tasks inside .NET apps
-*   [Chroniton (⭐181)](https://github.com/leosperry/Chroniton) - A simple, fully integrable, and customizable library for running strongly typed jobs (tasks) on schedules.
+*   [Chroniton (⭐183)](https://github.com/leosperry/Chroniton) - A simple, fully integrable, and customizable library for running strongly typed jobs (tasks) on schedules.
 
-## [37. Awesome Design](/content/gztchan/awesome-design/week/README.md)
+## [39. Awesome Design](/content/gztchan/awesome-design/week/README.md)
 
 ### Styleguide and Branding
 
 *   [Facebook - Brand Resource Center Book](https://en.facebookbrand.com/)
 
-## [38. Awesome Couchdb](/content/quangv/awesome-couchdb/week/README.md)
+## [40. Awesome Couchdb](/content/quangv/awesome-couchdb/week/README.md)
 
 ### Map/Reduce
 
@@ -629,25 +645,7 @@
 *   [Simple CouchDB and Cloudant Backup](https://developer.ibm.com/clouddataservices/2016/03/22/simple-couchdb-and-cloudant-backup/) - Article on IBM about backups.
 *   [Cloudant Backup Guide](https://docs.cloudant.com/backup-guide.html) - Cloudant docs on backups.
 
-## [39. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
-
-### Resources / Tutorials
-
-*   [Vue.js Tutorial: A Prerendered, SEO-Friendly Example](https://snipcart.com/blog/vuejs-tutorial-seo-example)
-
-### Resources / Books
-
-*   [The Majesty Of Vue.js 2](https://leanpub.com/vuejs2) by Alex Kyriakidis and Kostas Maniatis, Leanpub. (Mar 2017)
-
-### Components & Libraries / UI Components
-
-*   [awesome-mask (⭐165)](https://github.com/moip/awesome-mask) - Mask directive based on a pure and simply VanillaJS implementation
-
-### Components & Libraries / Utilities
-
-*   [@skyrpex/props-to-local (⭐7)](https://github.com/skyrpex/props-to-local) - Vue mixin that maps props to local data.
-
-## [40. Awesome Framer](/content/podo/awesome-framer/week/README.md)
+## [41. Awesome Framer](/content/podo/awesome-framer/week/README.md)
 
 ### Video Courses
 
@@ -661,7 +659,7 @@
 
 *   [framer-QueryInterface (⭐27)](https://github.com/marckrenn/framer-QueryInterface) - Module that allows Framer prototypes to read variables from and write variables to the last part of their URL (the query).
 
-## [41. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [42. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Books
 
@@ -763,7 +761,7 @@
 *   [Ray marching (with THREE.js)](http://barradeau.com/blog/?p=575) - Article about ray marching with three.js by @nicoptere.
 *   [Custom shaders with Three.JS](https://csantosbh.wordpress.com/2014/01/09/custom-shaders-with-three-js-uniforms-textures-and-lighting/) - Introduction to custom shaders, uniforms, textures and lighting in three.js.
 *   [An intro to modern OpenGL](http://duriansoftware.com/joe/An-intro-to-modern-OpenGL.-Chapter-1:-The-Graphics-Pipeline.html) - First part of an introduction to modern OpenGL.
-*   [Modern OpenGL Series (⭐809)](https://github.com/tomdalling/opengl-series) - Good introduction to some of the OpenGL terms.
+*   [Modern OpenGL Series (⭐811)](https://github.com/tomdalling/opengl-series) - Good introduction to some of the OpenGL terms.
 *   [Volumetric rendering](http://www.alanzucconi.com/2016/07/01/volumetric-rendering/) - Explains how to create complex 3D shapes inside volumetric shaders.
 *   [Real-time Rendering](http://www.realtimerendering.com/) - Book, blog and collection of resources regarding real-time rendering.
 *   [OpenGL 4 Shaders](http://antongerdelan.net/opengl/shaders.html) - Short and sweet introduction to OpenGL shaders by Anton Gerdelan.
@@ -840,28 +838,28 @@
 
 ### Related / Other
 
-*   [Awesome webgl (⭐1.3k)](https://github.com/sjfricke/awesome-webgl) - Curated list of awesome WebGL libraries, resources and much more.
-*   [Awesome visualization research (⭐918)](https://github.com/mathisonian/awesome-visualization-research) - Curated list of recommended research papers and other readings on data visualization.
-*   [Awesome graphics (⭐1k)](https://github.com/ericjang/awesome-graphics) - Curated list of computer graphics tutorials and resources.
+*   [Awesome webgl (⭐1.4k)](https://github.com/sjfricke/awesome-webgl) - Curated list of awesome WebGL libraries, resources and much more.
+*   [Awesome visualization research (⭐934)](https://github.com/mathisonian/awesome-visualization-research) - Curated list of recommended research papers and other readings on data visualization.
+*   [Awesome graphics (⭐1.1k)](https://github.com/ericjang/awesome-graphics) - Curated list of computer graphics tutorials and resources.
 *   [Graphics resources (⭐1.8k)](https://github.com/mattdesl/graphics-resources) - Curated list of graphic programming resources.
-*   [Magic tools (⭐13k)](https://github.com/ellisonleao/magictools) - Curated list of game development resources to make magic happen.
+*   [Magic tools (⭐14k)](https://github.com/ellisonleao/magictools) - Curated list of game development resources to make magic happen.
 *   [Hanecci’s link collection](http://d.hatena.ne.jp/hanecci/20131005/p1) - Link collection of ray marching on the GPU.
-*   [Awesome public datasets (⭐59k)](https://github.com/caesar0301/awesome-public-datasets) - Curated list of public avalible datasets, mostly free resources.
+*   [Awesome public datasets (⭐61k)](https://github.com/caesar0301/awesome-public-datasets) - Curated list of public available datasets, mostly free resources.
 *   [Link collection of ray marching on the GPU](http://d.hatena.ne.jp/hanecci/20131005/p1) - Curated list from 2013.
 
-## [42. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [43. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Bindings
 
 *   [SharpVk (⭐146)](https://github.com/FacticiusVir/SharpVk) - C# bindings for Vulkan with Linq-to-SPIR-V & [NuGet package](https://www.nuget.org/packages/SharpVk). \[MIT]
 
-## [43. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
+## [44. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
 ### Profilers
 
 *   [jcstress](http://openjdk.java.net/projects/code-tools/jcstress/) - Experimental harness and tests to aid the research in the correctness of concurrency support in the JVM, class libraries, and hardware.
 
-## [44. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [45. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
@@ -883,18 +881,11 @@
 
 *   [Edi.Net (⭐442)](https://github.com/indice-co/EDI.Net) - EDI Serializer/Deserializer. Supports EDIFact, X12 and TRADACOMS format.
 
-## [45. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [46. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / General-Purpose Machine Learning
 
-*   [Image-to-Image Translation with Conditional Adversarial Networks (⭐141)](https://github.com/williamFalcon/pix2pix-keras) - Implementation of image to image (pix2pix) translation from the paper by [isola et al](https://arxiv.org/pdf/1611.07004.pdf).\[DEEP LEARNING]
-
-## [46. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/week/README.md)
-
-### Websites
-
-*   G2 Crowd - <https://www.g2crowd.com/products/new>
-*   Startup Collections - <http://startupcollections.com/>
+*   [Image-to-Image Translation with Conditional Adversarial Networks (⭐142)](https://github.com/williamFalcon/pix2pix-keras) - Implementation of image to image (pix2pix) translation from the paper by [isola et al](https://arxiv.org/pdf/1611.07004.pdf).\[DEEP LEARNING]
 
 ## [47. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
 
@@ -910,7 +901,7 @@
 
 ### Multimedia content processing
 
-*   [Flowblade (⭐2.6k)](https://github.com/jliljebl/flowblade) - A multitrack non-linear video editor.
+*   [Flowblade (⭐2.7k)](https://github.com/jliljebl/flowblade) - A multitrack non-linear video editor.
 *   [Snowmix](https://sourceforge.net/projects/snowmix/) - Live Video Mixer.
 
 ## [49. Awesome Rails Gem](/content/hothero/awesome-rails-gem/week/README.md)
@@ -927,7 +918,7 @@
 
 ### Graphic Displays
 
-*   [ggtech (⭐379)](https://github.com/ricardo-bion/ggtech) - ggplot2 tech themes and scales
+*   [ggtech (⭐391)](https://github.com/ricardo-bion/ggtech) - ggplot2 tech themes and scales
 
 ---
 

@@ -92,7 +92,7 @@
 
 ### Models/Projects
 
-*   [Hierarchical Attention Networks (⭐83)](https://github.com/tqtg/hierarchical-attention-networks) - TensorFlow implementation of ["Hierarchical Attention Networks for Document Classification"](https://www.cs.cmu.edu/~hovy/papers/16HLT-hierarchical-attention-networks.pdf)
+*   [Hierarchical Attention Networks (⭐86)](https://github.com/tqtg/hierarchical-attention-networks) - TensorFlow implementation of ["Hierarchical Attention Networks for Document Classification"](https://www.cs.cmu.edu/~hovy/papers/16HLT-hierarchical-attention-networks.pdf)
 
 ## [8. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 

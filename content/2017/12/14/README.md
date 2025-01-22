@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 14, 2017
 
-8 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -54,7 +54,7 @@
 
 ### Clients
 
-*   [pnpm (⭐26k)](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager.
+*   [pnpm (⭐30k)](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager.
 
 ## [6. Inspire](/content/noahbuscher/inspire/README.md)
 
@@ -66,13 +66,7 @@
 
 *   [Postman](https://www.getpostman.com/) - A tool to make HTTP requests, generate mock servers and make API documentation.
 
-## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / UI Components
-
-*   [vue-cleave-component (⭐281)](https://github.com/ankurk91/vue-cleave-component) - Vue.js component for [cleave.js](http://nosir.github.io/cleave.js/)
-
-## [8. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
+## [7. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 
 ### Programming Languages/Frameworks/Platforms / iOS
 

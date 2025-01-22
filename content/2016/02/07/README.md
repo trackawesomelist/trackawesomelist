@@ -28,7 +28,7 @@
 
 ### Concurrency
 
-*   [ck (⭐2.3k)](https://github.com/concurrencykit/ck) - Concurrency primitives, safe memory reclamation mechanisms and non-blocking data structures. \[BSD]
+*   [ck (⭐2.4k)](https://github.com/concurrencykit/ck) - Concurrency primitives, safe memory reclamation mechanisms and non-blocking data structures. \[BSD]
 
 ## [5. Awesome Computer History](/content/watson/awesome-computer-history/README.md)
 

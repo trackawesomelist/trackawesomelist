@@ -16,35 +16,34 @@
 
 *   \[🔥🔥🔥] [LLM Powered Autonomous Agents | Lil'Log](https://lilianweng.github.io/posts/2023-06-23-agent/): the LLM agents learning notes by Lilian Weng
 
-## [2. Awesome Vite](/content/vitejs/awesome-vite/README.md)
-
-### TYPO3 CMS / Community
-
-*   [vite-asset-collector for TYPO3 (⭐40)](https://github.com/s2b/vite-asset-collector) - Backend integration for TYPO3 CMS.
-
-## [3. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
-
-### Libraries / Finance
-
-*   [avhz/RustQuant (⭐1k)](https://github.com/avhz/RustQuant) \[[RustQuant](https://crates.io/crates/RustQuant)] - A quantitative finance library. ![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/avhz/RustQuant/build.yml)
-
-## [4. Awesome Nix](/content/nix-community/awesome-nix/README.md)
-
-### Resources / Learning
-
-*   [Nix - A One Pager](https://code.tvl.fyi/about/nix/nix-1p) - A one page introduction to the Nix language.
-*   [NixOS & Flakes Book (⭐1.8k)](https://github.com/ryan4yin/nixos-and-flakes-book) - An unofficial and opinionated NixOS & Flakes book for beginners.
-
-## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### PaaS
 
-*   [Cosmonic](https://cosmonic.com) - Feature-rich WebAssembly PaaS and SDKs for low boilerplate, flexible, and secure by default microservices. Always free tier includes a managed host, 25 microservices, and capabilities like a robust key-value store, load-balanced public HTTP endpoints, and more.
 *   [Zeabur](https://zeabur.com) - Deploy your services with one click. Free for three services, with US$ 5 free credits per month.
 
 ### Web Hosting
 
 *   [Vercel](https://vercel.com/) — Build, deploy, and host web apps with free SSL, global CDN, and unique Preview URLs each time you `git push`. Perfect for Next.js and other Static Site Generators.
+
+## [3. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### TYPO3 CMS / Community
+
+*   [vite-asset-collector for TYPO3 (⭐41)](https://github.com/s2b/vite-asset-collector) - Backend integration for TYPO3 CMS.
+
+## [4. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+
+### Libraries / Finance
+
+*   [avhz/RustQuant (⭐1.2k)](https://github.com/avhz/RustQuant) \[[RustQuant](https://crates.io/crates/RustQuant)] - A quantitative finance library. ![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/avhz/RustQuant/build.yml)
+
+## [5. Awesome Nix](/content/nix-community/awesome-nix/README.md)
+
+### Resources / Learning
+
+*   [Nix - A One Pager](https://code.tvl.fyi/about/nix/nix-1p) - A one page introduction to the Nix language.
+*   [NixOS & Flakes Book (⭐2.2k)](https://github.com/ryan4yin/nixos-and-flakes-book) - An unofficial and opinionated NixOS & Flakes book for beginners.
 
 ## [6. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 

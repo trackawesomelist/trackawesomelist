@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 18, 2021
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -30,11 +30,11 @@
 
 ### Decorators
 
-*   [ShowFor (⭐463)](https://github.com/heartcombo/show_for) - Quickly show a model information with I18n features. Like form\_for for displaying model data.
+*   [ShowFor (⭐462)](https://github.com/heartcombo/show_for) - Quickly show a model information with I18n features. Like form\_for for displaying model data.
 
 ### Email
 
-*   [MailForm (⭐882)](https://github.com/heartcombo/mail_form) - Send e-mail straight from forms in Rails with I18n, validations, attachments and request information.
+*   [MailForm (⭐879)](https://github.com/heartcombo/mail_form) - Send e-mail straight from forms in Rails with I18n, validations, attachments and request information.
 
 ### Form Builder
 
@@ -60,7 +60,7 @@
 
 ### Peripheral Access Crates / MSP430
 
-*   [`msp430fr6972`](https://crates.io/crates/msp430fr6972) - ![Crates.io](https://img.shields.io/crates/v/msp430fr6972)
+*   [`msp430fr6972`](https://crates.io/crates/msp430fr6972) - [![crates.io](https://img.shields.io/crates/v/msp430fr6972)](https://crates.io/crates/msp430fr6972)
 
 ## [6. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
@@ -70,13 +70,9 @@
 
 ## [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
-### Software / Communication - Custom Communication Systems
-
-*   [Darkwire.io (⭐901)](https://github.com/darkwire/darkwire.io) - End-to-end encrypted instant web chat. `MIT` `Nodejs`
-
 ### Software / Communication - Email - Complete Solutions
 
-*   [DebOps](https://docs.debops.org/) - Your Debian-based data center in a box. A set of general-purpose Ansible roles that can be used to manage Debian or Ubuntu hosts. ([Source Code (⭐1.2k)](https://github.com/debops/debops)) `GPL-3.0` `Ansible/Python`
+*   [DebOps](https://docs.debops.org/) - Your Debian-based data center in a box. A set of general-purpose Ansible roles that can be used to manage Debian or Ubuntu hosts. ([Source Code (⭐1.3k)](https://github.com/debops/debops)) `GPL-3.0` `Ansible/Python`
 
 ### Software / Communication - Social Networks and Forums
 
@@ -84,11 +80,11 @@
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [goploader (⭐273)](https://github.com/Depado/goploader) - Easy file sharing with server-side encryption, curl/httpie/wget compliant. `MIT` `Go`
+*   [goploader (⭐279)](https://github.com/Depado/goploader) - Easy file sharing with server-side encryption, curl/httpie/wget compliant. `MIT` `Go`
 
-### Software / Photo and Video Galleries
+### Software / Photo Galleries
 
-*   [PiGallery 2](https://bpatrik.github.io/pigallery2/) - A directory-first photo gallery website, with a rich UI, optimised for running on low resource servers. ([Source Code (⭐1.7k)](https://github.com/bpatrik/pigallery2)) `MIT` `Docker/Nodejs`
+*   [PiGallery 2](https://bpatrik.github.io/pigallery2/) - A directory-first photo gallery website, with a rich UI, optimised for running on low resource servers. ([Source Code (⭐1.9k)](https://github.com/bpatrik/pigallery2)) `MIT` `Docker/Nodejs`
 
 ### Software / Software Development - Project Management
 
@@ -96,13 +92,13 @@
 
 ### Software / Task Management & To-do Lists
 
-*   [Nullboard (⭐2.5k)](https://github.com/apankrat/nullboard) - Single-page minimalist kanban board; compact, highly readable and quick to use. `BSD-2-Clause` `Javascript`
+*   [Nullboard (⭐3.9k)](https://github.com/apankrat/nullboard) - Single-page minimalist kanban board; compact, highly readable and quick to use. `BSD-2-Clause` `Javascript`
 
 ## [8. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Text / Barcode
 
-*   [TextBuilder (⭐225)](https://github.com/davdroman/TextBuilder) - Like a SwiftUI ViewBuilder, but for Text.
+*   [TextBuilder (⭐227)](https://github.com/davdroman/TextBuilder) - Like a SwiftUI ViewBuilder, but for Text.
 
 ## [9. Awesome Healthcare](/content/kakoni/awesome-healthcare/README.md)
 
@@ -139,16 +135,9 @@
 
 ### React Forms
 
-*   [react-hook-form (⭐39k)](https://github.com/react-hook-form/react-hook-form) - React Hooks for form state management and validation
-*   [formik (⭐33k)](https://github.com/jaredpalmer/formik) - Build forms in React, without the tears
-*   [formily (⭐11k)](https://github.com/alibaba/formily) - Alibaba Group Unified Form Solution
-
-## [11. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Resources / Examples
-
-*   [Vuetify Swipeout (⭐141)](https://github.com/davidgaroro/vuetify-swipeout) - A swipe out example built with Vue 2 + Vuetify + Swiper.
-*   [Vuetify Todo PWA (⭐194)](https://github.com/davidgaroro/vuetify-todo-pwa) - A simple Todo PWA built with Vue 2 + Vuex + Vuetify.
+*   [react-hook-form (⭐42k)](https://github.com/react-hook-form/react-hook-form) - React Hooks for form state management and validation
+*   [formik (⭐34k)](https://github.com/jaredpalmer/formik) - Build forms in React, without the tears
+*   [formily (⭐12k)](https://github.com/alibaba/formily) - Alibaba Group Unified Form Solution
 
 ---
 

@@ -38,14 +38,15 @@
 
 ### C, C++
 
-*   [cmacro (⭐881)](https://github.com/eudoxia0/cmacro) - Lisp macros for C. [MIT](https://opensource.org/licenses/MIT).
-*   [C-mera (⭐401)](https://github.com/kiselgra/c-mera) - a source-to-source compiler that utilizes Lisp's macro system for meta programming of C-like languages. [GPL3](http://www.gnu.org/copyleft/gpl.html).
-*   [lispc (⭐535)](https://github.com/eratosthenesia/lispc) - a powerful "lispsy" macrolanguage for C. [MIT](https://opensource.org/licenses/MIT).
+*   [C-mera (⭐412)](https://github.com/kiselgra/c-mera) - a source-to-source compiler that utilizes Lisp's macro system for meta programming of C-like languages. [GPL3](http://www.gnu.org/copyleft/gpl.html).
+*   [cmacro (⭐889)](https://github.com/eudoxia0/cmacro) - Lisp macros for C. [MIT](https://opensource.org/licenses/MIT).
+*   [lispc (⭐540)](https://github.com/eratosthenesia/lispc) - a powerful "lispsy" macrolanguage for C. [MIT](https://opensource.org/licenses/MIT).
 
 ### Tools
 
+*   [sycamore (⭐121)](https://github.com/ndantam/sycamore) -  a fast, purely functional data structure library. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
+    *   comparison: [FSet vs. Sycamore](https://scottlburson2.blogspot.com/2024/10/comparison-fset-vs-sycamore.html)
 *   [pileup](http://nikodemus.github.io/pileup/) - a portable, performant, and thread-safe binary heap for Common Lisp. [MIT](https://opensource.org/licenses/MIT).
-*   [sycamore (⭐115)](https://github.com/ndantam/sycamore) -  a fast, purely functional data structure library. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
 ### Emacs / Third-party APIs
 
@@ -98,7 +99,7 @@ Wifi pw: `portuguesa`
 
 ### Containers
 
-*   [sparsepp (⭐1.2k)](https://github.com/greg7mdp/sparsepp) - A fast, memory efficient hash map for C++. \[BSD 3-clause]
+*   [sparsepp (⭐1.3k)](https://github.com/greg7mdp/sparsepp) - A fast, memory efficient hash map for C++. \[BSD 3-clause]
 
 ### Logging
 
@@ -110,7 +111,7 @@ Wifi pw: `portuguesa`
 
 ### Other Awesome Projects
 
-*   [AwesomePerfCpp (⭐2.3k)](https://github.com/fenbf/AwesomePerfCpp) - A curated list of awesome C/C++ performance optimization resources.
+*   [AwesomePerfCpp (⭐2.4k)](https://github.com/fenbf/AwesomePerfCpp) - A curated list of awesome C/C++ performance optimization resources.
 
 ---
 

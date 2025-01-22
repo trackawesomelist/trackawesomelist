@@ -10,7 +10,7 @@
 
 ### Models/Projects
 
-*   [Mnemonic Descent Method (⭐123)](https://github.com/trigeorgis/mdm) - Tensorflow implementation of ["Mnemonic Descent Method: A recurrent process applied for end-to-end face alignment"](http://ibug.doc.ic.ac.uk/media/uploads/documents/trigeorgis2016mnemonic.pdf)
+*   [Mnemonic Descent Method (⭐124)](https://github.com/trigeorgis/mdm) - Tensorflow implementation of ["Mnemonic Descent Method: A recurrent process applied for end-to-end face alignment"](http://ibug.doc.ic.ac.uk/media/uploads/documents/trigeorgis2016mnemonic.pdf)
 
 ## [2. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 

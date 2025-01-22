@@ -187,7 +187,7 @@
 
 ### Developer Tools / Command Line Tools
 
-*   [kitty (⭐24k)](https://github.com/kovidgoyal/kitty) - A cross-platform, fast, feature full, GPU based terminal emulator. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/kovidgoyal/kitty) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [kitty (⭐26k)](https://github.com/kovidgoyal/kitty) - A cross-platform, fast, feature full, GPU based terminal emulator. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/kovidgoyal/kitty) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Design and Product / Design Tools
 
@@ -195,7 +195,7 @@
 
 ### Utilities / Menu Bar Tools
 
-*   [Dozer (⭐8.1k)](https://github.com/Mortennn/Dozer) - Hide MacOS menubar items. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/Mortennn/Dozer)
+*   [Dozer (⭐8.3k)](https://github.com/Mortennn/Dozer) - Hide MacOS menubar items. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/Mortennn/Dozer)
 
 ---
 

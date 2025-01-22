@@ -75,7 +75,7 @@
 
 ### Miscellaneous
 
-*   [dufy (⭐43)](https://github.com/privet-kitty/dufy) - exact color manipulation and conversion in various color models. [MIT](https://opensource.org/licenses/MIT).
+*   [dufy (⭐44)](https://github.com/privet-kitty/dufy) - exact color manipulation and conversion in various color models. [MIT](https://opensource.org/licenses/MIT).
 
 ## [8. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
@@ -88,8 +88,8 @@
 
 ### Database
 
-*   [SQLiteC++ (⭐2.2k)](https://github.com/SRombauts/SQLiteCpp) - SQLiteC++ (SQLiteCpp) is a smart and easy to use C++ SQLite3 wrapper. \[MIT]
-*   [sqlite\_modern\_cpp (⭐882)](https://github.com/SqliteModernCpp/sqlite_modern_cpp) - Header only C++14 wrapper around sqlite library. \[MIT]
+*   [SQLiteC++ (⭐2.3k)](https://github.com/SRombauts/SQLiteCpp) - SQLiteC++ (SQLiteCpp) is a smart and easy to use C++ SQLite3 wrapper. \[MIT]
+*   [sqlite\_modern\_cpp (⭐906)](https://github.com/SqliteModernCpp/sqlite_modern_cpp) - Header only C++14 wrapper around sqlite library. \[MIT]
 
 ## [10. Awesome Webgl](/content/sjfricke/awesome-webgl/README.md)
 

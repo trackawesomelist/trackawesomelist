@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 26, 2020
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -17,7 +17,7 @@
 ### Projects
 
 *   [Coder for Raspberry Pi](http://googlecreativelab.github.io/coder/) - A open source project by Googlers to turn a Raspberry Pi into a simple, tiny, personal web server and web-based development environment.
-*   [Network Presence Detector (⭐368)](https://github.com/initialstate/pi-sensor-free-presence-detector/wiki) - Setup a Pi Zero to scan for devices on a WiFi network and use that to determine who is "home".
+*   [Network Presence Detector (⭐369)](https://github.com/initialstate/pi-sensor-free-presence-detector/wiki) - Setup a Pi Zero to scan for devices on a WiFi network and use that to determine who is "home".
 *   [P4wnP1 (⭐4k)](https://github.com/mame82/P4wnP1) - P4wnP1 is a highly customizable USB attack platform, based on a low cost Raspberry Pi Zero or Raspberry Pi Zero W (required for HID backdoor). ![Supports Raspberry Pi Zero](https://github.com/thibmaek/awesome-raspberry-pi/raw/main/media/badges/rpi-0.png)
 *   [PoisonTap (⭐6.2k)](https://github.com/samyk/poisontap) - Exploits locked/password protected computers over USB, drops persistent WebSocket-based backdoor, exposes internal router, and siphons cookies using Raspberry Pi Zero & Node.js. ![Supports Raspberry Pi Zero](https://github.com/thibmaek/awesome-raspberry-pi/raw/main/media/badges/rpi-0.png)
 
@@ -37,11 +37,11 @@
 
 ### API Gateways / Edge Services / Scala
 
-*   [HAProxy (⭐4.7k)](https://github.com/haproxy/haproxy) - Reliable, high Performance TCP/HTTP load balancer.
+*   [HAProxy (⭐5.2k)](https://github.com/haproxy/haproxy) - Reliable, high Performance TCP/HTTP load balancer.
 
 ### Job Schedulers / Workload Automation / Scala
 
-*   [Celery (⭐24k)](https://github.com/celery/celery) - Asynchronous task queue/job queue based on distributed message passing. Focused on real-time operation and supports scheduling.
+*   [Celery (⭐25k)](https://github.com/celery/celery) - Asynchronous task queue/job queue based on distributed message passing. Focused on real-time operation and supports scheduling.
 
 ### QUIC / Scala
 
@@ -56,19 +56,13 @@
 
 *   [Building Microservices? Here is What You Should Know](https://cloudncode.blog/2016/07/22/msa-getting-started/) - A practical overview, based on real-world experience, of what one would need to know in order to build microservices.
 
-## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Resources / Examples
-
-*   [vuetify-i18n-boilerplate (⭐14)](https://github.com/Morgbn/vuetify-i18n-boilerplate) - [Demo](https://morgbn.github.io/vuetify-i18n-boilerplate) - A boilerplate to quickly start a Vue project using Vuetify, Vue-i18n, Vuex and Vue-router
-
-## [7. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
+## [6. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
 
 ### Online Build System
 
 *   [appcircle.io](https://appcircle.io) — Automated mobile CI/CD/CT for iOS and Android with online device emulators.
 
-## [8. Awesome React Native](/content/jondot/awesome-react-native/README.md)
+## [7. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
 ### Continuous Integration
 
@@ -86,22 +80,22 @@
 
 *   [react-native-leveldown (⭐22)](https://github.com/andymatuschak/react-native-leveldown) - Native LevelDB bindings for React Native
 
-## [9. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+## [8. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### Component abstraction crates / Other
 
-*   [`atat`](https://github.com/BlackbirdHQ/atat): Abstraction crate to ease writing AT based driver crates - ![crates.io](https://img.shields.io/crates/v/atat.svg)
+*   [`atat`](https://github.com/BlackbirdHQ/atat): Abstraction crate to ease writing AT based driver crates - [![crates.io](https://img.shields.io/crates/v/atat.svg)](https://crates.io/crates/atat)
 
 ### Driver crates / Other
 
-*   [ADXL313](https://crates.io/crates/adxl313) - SPI - 3-axis accelerometer - ![crates.io](https://img.shields.io/crates/v/adxl313.svg)
-*   [TC72](https://crates.io/crates/microchip-tc72r-rs) - SPI - Microchip TC72 temperature sensor - ![crates.io](https://img.shields.io/crates/v/microchip-tc72r-rs.svg)
+*   [ADXL313](https://crates.io/crates/adxl313) - SPI - 3-axis accelerometer - [![crates.io](https://img.shields.io/crates/v/adxl313.svg)](https://crates.io/crates/adxl313)
+*   [TC72](https://crates.io/crates/microchip-tc72r-rs) - SPI - Microchip TC72 temperature sensor - [![crates.io](https://img.shields.io/crates/v/microchip-tc72r-rs.svg)](https://crates.io/crates/microchip-tc72r-rs)
 
 ### Driver crates / WIP
 
-*   [ublox-cellular-rs (⭐20)](https://github.com/BlackbirdHQ/ublox-cellular-rs) - Serial - Cellular driver for the full Ublox cellular serial based family
+*   [ublox-cellular-rs (⭐22)](https://github.com/BlackbirdHQ/ublox-cellular-rs) - Serial - Cellular driver for the full Ublox cellular serial based family
 
-## [10. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
+## [9. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
 ### Apps / Outline Processor Markup Language
 
@@ -122,7 +116,7 @@
 
 ### 🔱 Workflow Automation / 酷Q Plugin
 
-*   [feedpushr (⭐336)](https://github.com/ncarlier/feedpushr) <sup>[692](https://t.me/s/aboutrss/692)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/ncarlier/feedpushr)
+*   [feedpushr (⭐356)](https://github.com/ncarlier/feedpushr) <sup>[692](https://t.me/s/aboutrss/692)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/ncarlier/feedpushr)
 
 ### specifically from (*a certain platform*) / Instagram
 
@@ -140,7 +134,7 @@
 ### Society / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [一些法律相关信息的 RSS 订阅地址](https://blackwinmin.github.io/posts/law_rss/) <sup>[681](https://t.me/s/aboutrss/681)</sup>
-*   [品葱精选 (⭐6)](https://github.com/Project-Gutenberg/Pincong) <sup>[685](https://t.me/s/aboutrss/685)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Project-Gutenberg/Pincong)
+*   [品葱精选 (⭐9)](https://github.com/Project-Gutenberg/Pincong) <sup>[685](https://t.me/s/aboutrss/685)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Project-Gutenberg/Pincong)
 
 ### Tech or IT / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
@@ -154,9 +148,9 @@
 ### Turn YouTube into Podcast / Crypto or Blockchain relevant
 
 *   [Listenbox](https://listenbox.app) <sup>[683](https://t.me/s/aboutrss/683)</sup>
-*   [YouCast (⭐245)](https://github.com/i3arnon/YouCast) <sup>[684](https://t.me/s/aboutrss/684)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/i3arnon/YouCast)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+*   [YouCast (⭐252)](https://github.com/i3arnon/YouCast) <sup>[684](https://t.me/s/aboutrss/684)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/i3arnon/YouCast)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
-## [11. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/README.md)
+## [10. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/README.md)
 
 ### Official resources
 
@@ -170,7 +164,7 @@
 
 *   [Monitoring mixins](https://monitoring.mixins.dev) - Community managed bundles of alerts, recording rules, and Grafana dashboards.
 
-## [12. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/README.md)
+## [11. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/README.md)
 
 ### JavaScript
 

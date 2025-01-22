@@ -56,9 +56,9 @@
 
 ## [8. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 
-### Tools and frameworks
+### Tools and frameworks (a-z↓)
 
-*   [Puppeteer (⭐88k)](https://github.com/GoogleChrome/puppeteer) - Headless Google Chrome Node API.
+*   [Puppeteer (⭐89k)](https://github.com/GoogleChrome/puppeteer) - Headless Google Chrome Node API.
 
 ## [9. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 

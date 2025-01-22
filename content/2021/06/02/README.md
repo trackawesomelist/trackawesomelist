@@ -21,7 +21,7 @@
 
 ### Editing Support / Diagnostics
 
-*   [mizlan/iswap.nvim (⭐496)](https://github.com/mizlan/iswap.nvim) - Interactively select and swap function arguments, list elements, and more. Powered by tree-sitter.
+*   [mizlan/iswap.nvim (⭐511)](https://github.com/mizlan/iswap.nvim) - Interactively select and swap function arguments, list elements, and more. Powered by Tree-sitter.
 
 ## [3. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
@@ -33,7 +33,7 @@
 
 ### Python / Risk Analysis
 
-*   [Empyrial (⭐909)](https://github.com/ssantoshp/Empyrial) - Portfolio's risk and performance analytics and returns predictions.
+*   [Empyrial (⭐969)](https://github.com/ssantoshp/Empyrial) - Portfolio's risk and performance analytics and returns predictions.
 
 ## [5. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/README.md)
 
@@ -51,13 +51,13 @@
 
 ### Files and Directories / Search
 
-*   [rare (⭐253)](https://github.com/zix99/rare) - Real-time regex aggregation and analysis.
+*   [rare (⭐274)](https://github.com/zix99/rare) - Real-time regex aggregation and analysis.
 
 ## [8. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
 ### File Management and Sharing
 
-*   [OnionShare (⭐6.2k)](https://github.com/micahflee/onionshare) - An open source tool that lets you securely and anonymously share files, host websites, and chat with friends using the Tor network.
+*   [OnionShare (⭐6.4k)](https://github.com/micahflee/onionshare) - An open source tool that lets you securely and anonymously share files, host websites, and chat with friends using the Tor network.
 
 ## [9. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
@@ -78,7 +78,7 @@
 
 ### Apps/Websites / Community
 
-*   [react-device-frameset (⭐66)](https://github.com/zheeeng/react-device-frameset) - This is yet another device frameset component for React.
+*   [react-device-frameset (⭐79)](https://github.com/zheeeng/react-device-frameset) - This is yet another device frameset component for React.
 
 ## [12. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 

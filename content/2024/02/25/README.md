@@ -10,13 +10,13 @@
 
 ### Integrated Development Environments
 
-*   [Sublime Text + R-IDE (⭐106)](https://github.com/REditorSupport/sublime-ide-r) - Add-on package for Sublime Text 2/3.
-*   [Nvim-R <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐929)](https://github.com/jalvesaq/Nvim-R) - Neovim plugin for R.
+*   [Sublime Text + R-IDE (⭐112)](https://github.com/REditorSupport/sublime-ide-r) - Add-on package for Sublime Text 2/3.
+*   [Nvim-R <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐968)](https://github.com/jalvesaq/Nvim-R) - Neovim plugin for R.
 
 ### R Development
 
-*   [renv <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐949)](https://github.com/rstudio/renv) - Make your R projects more isolated, portable, and reproducible.
-*   [box <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐790)](https://github.com/klmr/box) - A modern module system for R.
+*   [renv <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐1k)](https://github.com/rstudio/renv) - Make your R projects more isolated, portable, and reproducible.
+*   [box <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐872)](https://github.com/klmr/box) - A modern module system for R.
 
 ## [2. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
@@ -28,18 +28,18 @@
 
 ### Image Processing
 
-*   [fpng (⭐857)](https://github.com/richgel999/fpng) - Super fast C++ .PNG writer/reader. \[Unlicense]
-*   [libpng (⭐1.2k)](https://github.com/pnggroup/libpng) - the reference library for use in applications that read, create, and manipulate PNG (Portable Network Graphics) raster image files. \[libpng-2.0] [website](https://libpng.sourceforge.io/)
+*   [fpng (⭐903)](https://github.com/richgel999/fpng) - Super fast C++ .PNG writer/reader. \[Unlicense]
+*   [libpng (⭐1.3k)](https://github.com/pnggroup/libpng) - the reference library for use in applications that read, create, and manipulate PNG (Portable Network Graphics) raster image files. \[libpng-2.0] [website](https://libpng.sourceforge.io/)
 
 ### Miscellaneous
 
-*   [CCTZ (⭐589)](https://github.com/google/cctz) - a C++ library for translating between absolute and civil times using the rules of a time zone.  \[Apache-2.0]
+*   [CCTZ (⭐598)](https://github.com/google/cctz) - a C++ library for translating between absolute and civil times using the rules of a time zone.  \[Apache-2.0]
 
 ## [4. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Text and Numbers
 
-*   [ex\_pression (⭐8)](https://github.com/balance-platform/ex_pression) - Evaluate user input expressions.
+*   [ex\_pression (⭐10)](https://github.com/balance-platform/ex_pression) - Evaluate user input expressions.
 
 ### Newsletters
 
@@ -49,7 +49,7 @@
 
 ### Applications / Productivity
 
-*   [yashs662/rust\_kanban (⭐163)](https://github.com/yashs662/rust_kanban) \[[rust-kanban](https://crates.io/crates/rust-kanban)] [![Build](https://github.com/yashs662/rust_kanban/actions/workflows/build.yml/badge.svg)](https://github.com/yashs662/rust_kanban/releases) - A Kanban App for the terminal
+*   [yashs662/rust\_kanban (⭐200)](https://github.com/yashs662/rust_kanban) \[[rust-kanban](https://crates.io/crates/rust-kanban)] [![Build](https://github.com/yashs662/rust_kanban/actions/workflows/build.yml/badge.svg)](https://github.com/yashs662/rust_kanban/releases) - A Kanban App for the terminal
 
 ## [6. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -57,20 +57,20 @@
 
 *   [AI Story Generate](https://aistorygenerate.com): Generate stories using LLM with custom emotion, genre, and word count.
 
-### Inbox: Speech-to-text (STT) and spoken content analysis / Deforum
+### Speech-to-text (STT) and spoken content analysis / Deforum
 
-*   [ggerganov/whisper.cpp (⭐34k)](https://github.com/ggerganov/whisper.cpp): Port of OpenAI's Whisper model in C/C++. It can be executed locally.
+*   [ggerganov/whisper.cpp (⭐37k)](https://github.com/ggerganov/whisper.cpp): Port of OpenAI's Whisper model in C/C++. It can be executed locally.
 *   [Good Tape](https://goodtape.io/): paid service for transcription
 
 ## [7. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
 
 ### Clients
 
-*   [genql (⭐866)](https://github.com/remorses/genql) - Type safe TypeScript client for any GraphQL API.
+*   [genql (⭐899)](https://github.com/remorses/genql) - Type safe TypeScript client for any GraphQL API.
 
 ### Type / React
 
-*   [gql.tada (⭐2.5k)](https://github.com/0no-co/gql.tada) - GraphQL document authoring library, inferring the result and variables types of GraphQL queries and fragments in the TypeScript type system.
+*   [gql.tada (⭐2.7k)](https://github.com/0no-co/gql.tada) - GraphQL document authoring library, inferring the result and variables types of GraphQL queries and fragments in the TypeScript type system.
 
 ## [8. Awesome Music](/content/ciconia/awesome-music/README.md)
 
@@ -82,7 +82,7 @@
 
 ### 🚧 Boilerplates / 🌱 Third Party
 
-*   [sebajax/go-vertical-slice-architecture (⭐11)](https://github.com/sebajax/go-vertical-slice-architecture) - Vertical Slice Architecture code archetype using Fiber and Uber dig. A maintainable, and scalable code organization.
+*   [sebajax/go-vertical-slice-architecture (⭐30)](https://github.com/sebajax/go-vertical-slice-architecture) - Vertical Slice Architecture code archetype using Fiber and Uber dig. A maintainable, and scalable code organization.
 
 ---
 

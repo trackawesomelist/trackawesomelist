@@ -14,11 +14,11 @@
 
 ### Packages / Natural language processing
 
-*   [leven (⭐713)](https://github.com/sindresorhus/leven) - Measure the difference between two strings using the Levenshtein distance algorithm.
+*   [leven (⭐716)](https://github.com/sindresorhus/leven) - Measure the difference between two strings using the Levenshtein distance algorithm.
 
 ### Packages / Process management
 
-*   [node-mac (⭐534)](https://github.com/coreybutler/node-mac) - Run scripts as a native Mac daemon and log to the console app.
+*   [node-mac (⭐539)](https://github.com/coreybutler/node-mac) - Run scripts as a native Mac daemon and log to the console app.
 
 ### Packages / Miscellaneous
 
@@ -28,7 +28,7 @@
 
 ### Configuration / Language Processing
 
-*   [sdlang (⭐118)](https://github.com/Abscissa/SDLang-D) - An SDL (Simple Declarative Language) library for D.
+*   [sdlang (⭐120)](https://github.com/Abscissa/SDLang-D) - An SDL (Simple Declarative Language) library for D.
 
 ---
 

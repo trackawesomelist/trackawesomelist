@@ -16,7 +16,7 @@
 
 ### Bars and Lines / Diagnostics
 
-*   [Bekaboo/deadcolumn.nvim (⭐272)](https://github.com/Bekaboo/deadcolumn.nvim) - Shows your colorcolumn dynamically.
+*   [Bekaboo/deadcolumn.nvim (⭐313)](https://github.com/Bekaboo/deadcolumn.nvim) - Shows your colorcolumn dynamically.
 
 ## [3. Awesome Tdengine](/content/taosdata/awesome-tdengine/README.md)
 
@@ -32,7 +32,7 @@
 
 ### no-std crates / WIP
 
-*   [crossbus (⭐120)](https://github.com/hominee/crossbus): A Platform-Less, Runtime-Less Actor Computing Model.
+*   [crossbus (⭐123)](https://github.com/hominee/crossbus): A Platform-Less, Runtime-Less Actor Computing Model.
 
 ## [5. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 

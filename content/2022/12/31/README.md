@@ -39,11 +39,11 @@
 
 ### :package: Packers / After 2010
 
-*   [SimpleDPack (⭐103)](https://github.com/YuriSizuku/SimpleDpack) - A very simple windows EXE packing tool for learning or investigating PE structure.
+*   [SimpleDPack (⭐110)](https://github.com/YuriSizuku/SimpleDpack) - A very simple windows EXE packing tool for learning or investigating PE structure.
 
 ### :wrench: Tools / Before 2000
 
-*   [DSFF (⭐1)](https://github.com/packing-box/python-dsff) - DataSet File Format for exchanging datasets and converting to ARFF (for use with Weka), CSV or Packing-Box's dataset structure.
+*   [DSFF (⭐2)](https://github.com/packing-box/python-dsff) - DataSet File Format for exchanging datasets and converting to ARFF (for use with Weka), CSV or Packing-Box's dataset structure.
 *   [ImpREC](https://www.aldeid.com/wiki/ImpREC) - This can be used to repair the import table for packed programs.
 
 ## [2. Awesome Ada](/content/ohenley/awesome-ada/README.md)
@@ -54,24 +54,24 @@
 
 ### Simulation / Apache License
 
-*   [mars-mpl (⭐4)](https://github.com/Jellix/mars_mpl) - Mars Polar Lander (Crash) Simulator ([gtkada (⭐87)](https://github.com/AdaCore/gtkada), [aicwl](http://www.dmitry-kazakov.de/ada/aicwl.htm)).
-*   [doppler-effect-sample2 (⭐2)](https://github.com/moriyasum/GtkAda_OpenAL_Doppler_Effect_Sample2) - Moving airplane causes Stereo Sound Doppler effect ([gtkada (⭐87)](https://github.com/AdaCore/gtkada)).
+*   [mars-mpl (⭐4)](https://github.com/Jellix/mars_mpl) - Mars Polar Lander (Crash) Simulator ([gtkada (⭐91)](https://github.com/AdaCore/gtkada), [aicwl](http://www.dmitry-kazakov.de/ada/aicwl.htm)).
+*   [doppler-effect-sample2 (⭐2)](https://github.com/moriyasum/GtkAda_OpenAL_Doppler_Effect_Sample2) - Moving airplane causes Stereo Sound Doppler effect ([gtkada (⭐91)](https://github.com/AdaCore/gtkada)).
 
 ## [3. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Image processing
 
-*   [ffmpeg (⭐19)](https://github.com/spider-gazelle/ffmpeg) - FFmpeg bindings that works with StumpyPNG to extract frames
+*   [ffmpeg (⭐20)](https://github.com/spider-gazelle/ffmpeg) - FFmpeg bindings that works with StumpyPNG to extract frames
 
 ### Third-party APIs
 
-*   [amazonite (⭐0)](https://github.com/rjnienaber/amazonite) - An unofficial SDK supporting popular AWS APIs
+*   [amazonite (⭐1)](https://github.com/rjnienaber/amazonite) - An unofficial SDK supporting popular AWS APIs
 
 ## [4. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Actors pattern / Third-party APIs
 
-*   [lisp-actors (⭐67)](https://github.com/dbmcclain/Lisp-Actors), an "ongoing investigation into the use of the Actor model in Common Lisp, which has had the benefit of real-world application".
+*   [lisp-actors (⭐94)](https://github.com/dbmcclain/Lisp-Actors), an "ongoing investigation into the use of the Actor model in Common Lisp, which has had the benefit of real-world application".
     *   it was part of the [Emotiq blockchain (⭐96)](https://github.com/emotiq/emotiq/blob/dev/src/test/blockchain-test.lisp) (a discontinued project)
     *   does remoting, includes a threading abstraction layer library similar to Bordeaux-Threads.
     *   ! it lacks unit tests.
@@ -88,27 +88,27 @@
 
 ### Utility / Barcode
 
-*   [Periphery (⭐5k)](https://github.com/peripheryapp/periphery) - A tool to identify unused code in Swift projects.
+*   [Periphery (⭐5.3k)](https://github.com/peripheryapp/periphery) - A tool to identify unused code in Swift projects.
 
 ## [6. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Database
 
-*   [ctripcorp/SQLlin (⭐219)](https://github.com/ctripcorp/SQLlin) - A DSL SQLite library for Kotlin Multiplatform
+*   [ctripcorp/SQLlin (⭐230)](https://github.com/ctripcorp/SQLlin) - A DSL SQLite library for Kotlin Multiplatform
 
 ### Libraries/Frameworks / Multiplatform
 
-*   [ctripcorp/mmkv-kotlin (⭐124)](https://github.com/ctripcorp/mmkv-kotlin) - The Kotlin Multiplatform wrapper for MMKV
+*   [ctripcorp/mmkv-kotlin (⭐137)](https://github.com/ctripcorp/mmkv-kotlin) - The Kotlin Multiplatform wrapper for MMKV
 
 ## [7. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / Finance
 
-*   [MMAS: Money Tracker (⭐287)](https://github.com/floranguyen0/mmas-money-tracker) - An optimized application for daily expense tracking and finance management by [Flora](https://github.com/floranguyen0).
+*   [MMAS: Money Tracker (⭐409)](https://github.com/floranguyen0/mmas-money-tracker) - An optimized application for daily expense tracking and finance management by [Flora](https://github.com/floranguyen0).
 
 ### Contents / Personalization
 
-*   [Spooky (⭐184)](https://github.com/juniorise/spooky-mb) - First diary with Material 3 design by [Juniorise](https://github.com/juniorise).
+*   [Spooky (⭐214)](https://github.com/juniorise/spooky-mb) - First diary with Material 3 design by [Juniorise](https://github.com/juniorise).
 
 ## [8. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -120,7 +120,7 @@
 
 ### Bioinformatics on GitHub / Tools
 
-*   [Awesome AI-based Protein Design (⭐81)](https://github.com/opendilab/awesome-AI-based-protein-design) - A collection of research papers for AI-based protein design.
+*   [Awesome AI-based Protein Design (⭐234)](https://github.com/opendilab/awesome-AI-based-protein-design) - A collection of research papers for AI-based protein design.
 
 ## [10. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
@@ -136,27 +136,27 @@
 
 ### Completion / Diagnostics
 
-*   [zbirenbaum/copilot.lua (⭐2.5k)](https://github.com/zbirenbaum/copilot.lua) - Fully featured Lua replacement for [GitHub/copilot.vim (⭐8.1k)](https://github.com/github/copilot.vim).
+*   [zbirenbaum/copilot.lua (⭐3k)](https://github.com/zbirenbaum/copilot.lua) - Fully featured Lua replacement for [GitHub/copilot.vim (⭐9.1k)](https://github.com/github/copilot.vim).
 
 ### Project / Diagnostics
 
-*   [pluffie/neoproj (⭐62)](https://github.com/pluffie/neoproj) - Small yet powerful project (and session) manager.
+*   [pluffie/neoproj (⭐68)](https://github.com/pluffie/neoproj) - Small yet powerful project (and session) manager.
 
 ### Keybinding / Diagnostics
 
-*   [Nexmean/caskey.nvim (⭐68)](https://github.com/Nexmean/caskey.nvim) - Utility to keymappings configuration using declarative cascading trees, optionally integrates with `which-key`.
+*   [Nexmean/caskey.nvim (⭐67)](https://github.com/Nexmean/caskey.nvim) - Utility to keymappings configuration using declarative cascading trees, optionally integrates with `which-key`.
 
 ## [12. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
 ### Themes
 
-*   [tokyo-night-tmux (⭐271)](https://github.com/janoamaral/tokyo-night-tmux) tokyo-night theme for tmux
+*   [tokyo-night-tmux (⭐362)](https://github.com/janoamaral/tokyo-night-tmux) tokyo-night theme for tmux
 
 ## [13. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/README.md)
 
 ### External Services
 
-*   [mal-box (⭐3)](https://github.com/jckli/mal-box) - Update a pinned gist to contain your latest activity from MyAnimeList.
+*   [mal-box (⭐4)](https://github.com/jckli/mal-box) - Update a pinned gist to contain your latest activity from MyAnimeList.
 *   [shodan-exposure-box (⭐4)](https://github.com/ChrisCarini/shodan-exposure-box) - Update a pinned gist containing the top used ports as observed by [Shodan](https://www.shodan.io/).
 *   [stackoverflow-stats-box (⭐1)](https://github.com/Pudding124/stackoverflow-stats-box) - Update a pinned gist to show stack overflow stats.
 *   [trivia-box (⭐0)](https://github.com/ChrisCarini/trivia-box) - Update a pinned gist with a daily trivia question from Open Trivia DB.
@@ -165,7 +165,7 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [fzf-tab-widgets (⭐6)](https://github.com/tom-power/fzf-tab-widgets) - Adds widgets for [fzf-tab (⭐3.1k)](https://github.com/Aloxaf/fzf-tab).
+*   [fzf-tab-widgets (⭐9)](https://github.com/tom-power/fzf-tab-widgets) - Adds widgets for [fzf-tab (⭐3.5k)](https://github.com/Aloxaf/fzf-tab).
 
 ## [15. Awesome Ci](/content/ligurio/awesome-ci/README.md)
 

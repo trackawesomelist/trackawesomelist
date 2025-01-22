@@ -32,10 +32,6 @@
 
 *   [Using Typescript in your VueJS app](https://medium.com/coding-blocks/using-typescript-in-your-vue-app-c4aba0bbc8bc)
 
-### Components & Libraries / UI Components
-
-*   [vue-jalaali-datepicker (⭐12)](https://github.com/pepour/vue-jalaali-datepicker) - Jalaali calendar and datepicker for vue.js 2.
-
 ## [5. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Culture

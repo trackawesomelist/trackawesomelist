@@ -22,7 +22,7 @@
 
 ### Components / Themes
 
-*   [Antd Kit (⭐38)](https://github.com/huhulab/antd-kit) - Advanced Ant Design components.
+*   [Antd Kit (⭐40)](https://github.com/huhulab/antd-kit) - Advanced Ant Design components.
 
 ### Applications / Themes
 

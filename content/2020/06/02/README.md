@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 02, 2020
 
-14 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -78,7 +78,7 @@ Language: English
 
 ### GitHub Tools and Management / Docker Container Actions
 
-*   [Sync Defined Files/Binaries to Wiki or External Repositories (⭐5)](https://github.com/kai-tub/external-repo-sync-action)
+*   [Sync Defined Files/Binaries to Wiki or External Repositories (⭐8)](https://github.com/kai-tub/external-repo-sync-action)
 
 ## [6. Awesome Powershell](/content/janikvonrotz/awesome-powershell/README.md)
 
@@ -106,13 +106,7 @@ Language: English
 
 *   [Embedded Rules of Thumb](https://embeddedartistry.com/blog/2018/04/26/embedded-rules-of-thumb/) - Guidelines and heuristics to provide a reasonable approximation of the truth while developing embedded devices. Most also applies to software projects in general.
 
-## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / UI Components
-
-*   [vue-card-stack (⭐77)](https://github.com/rodleviton/vue-card-stack) - Stackable, swipeable, tweakable Vue card component.
-
-## [10. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
+## [9. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
 ### Architecture
 
@@ -127,13 +121,13 @@ Language: English
 *   [ember-custom-elements (⭐15)](https://github.com/Ravenstine/ember-custom-elements) - Render Ember and Glimmer components using custom elements.
 *   [react-shadow (⭐1.3k)](https://github.com/Wildhoney/ReactShadow) - Utilise Shadow DOM in React with all the benefits of style encapsulation.
 
-## [11. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+## [10. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 
 ### Swift
 
 *   [*Guide to Swift Strings* by Flight School (Matt)](https://flight.school/books/strings/)
 
-## [12. Awesome Ponyfills](/content/Richienb/awesome-ponyfills/README.md)
+## [11. Awesome Ponyfills](/content/Richienb/awesome-ponyfills/README.md)
 
 ### Articles
 
@@ -143,13 +137,13 @@ Language: English
 
 *   [isarray (⭐119)](https://github.com/juliangruber/isarray) - [`Array.isArray`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/isArray)
 
-## [13. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
+## [12. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / Entertainment
 
-*   [TV Randshow (⭐180)](https://github.com/deandreamatias/tv-randshow) - App to choose a random TV show episode by [deandreamatias](https://deandreamatias.com)
+*   [TV Randshow (⭐200)](https://github.com/deandreamatias/tv-randshow) - App to choose a random TV show episode by [deandreamatias](https://deandreamatias.com)
 
-## [14. Awesome Tensorflow Js](/content/aaronhma/awesome-tensorflow-js/README.md)
+## [13. Awesome Tensorflow Js](/content/aaronhma/awesome-tensorflow-js/README.md)
 
 ### Learn / Papers
 

@@ -36,8 +36,8 @@
 
 ### Contents / Shopping
 
-*   [Grocery-App (⭐973)](https://github.com/Widle-Studio/Grocery-App) - Flutter Grocery Shopping App by [Widle](https://github.com/Widle-Studio)
-*   [Flutter Games (⭐258)](https://github.com/searchy2/FlutterGames) - Flutter app for purchasing and renting games by [Ray Li](https://github.com/searchy2)
+*   [Grocery-App (⭐1k)](https://github.com/Widle-Studio/Grocery-App) - Flutter Grocery Shopping App by [Widle](https://github.com/Widle-Studio)
+*   [Flutter Games (⭐272)](https://github.com/searchy2/FlutterGames) - Flutter app for purchasing and renting games by [Ray Li](https://github.com/searchy2)
 
 ## [5. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/README.md)
 

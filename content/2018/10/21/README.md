@@ -25,11 +25,11 @@
 
 ### CLI Utilities
 
-*   [colorize (⭐1.2k)](https://github.com/fazibear/colorize) - Extends String class or add a ColorizedString with methods to set text color, background color and text effects.
+*   [colorize (⭐1.3k)](https://github.com/fazibear/colorize) - Extends String class or add a ColorizedString with methods to set text color, background color and text effects.
 
 ### Country Data
 
-*   [Phonelib (⭐1k)](https://github.com/daddyz/phonelib) - Ruby gem for phone validation and formatting using Google libphonenumber library data.
+*   [Phonelib (⭐1.1k)](https://github.com/daddyz/phonelib) - Ruby gem for phone validation and formatting using Google libphonenumber library data.
 *   [Phony (⭐1k)](https://github.com/floere/phony) - Fast international phone number (E164 standard) normalizing, splitting and formatting.
 
 ### DevOps Tools
@@ -47,12 +47,12 @@
 ### Optimizations
 
 *   [bootsnap (⭐2.7k)](https://github.com/Shopify/bootsnap) - Boot large Ruby/Rails apps faster.
-*   [fast\_blank (⭐613)](https://github.com/SamSaffron/fast_blank) - Provides a C-optimized method for determining if a string is blank.
+*   [fast\_blank (⭐614)](https://github.com/SamSaffron/fast_blank) - Provides a C-optimized method for determining if a string is blank.
 *   [yajl-ruby (⭐1.5k)](https://github.com/brianmario/yajl-ruby) - A streaming JSON parsing and encoding library for Ruby (C bindings to yajl).
 
 ### Performance Monitoring
 
-*   [Scout (⭐195)](https://github.com/scoutapp/scout_apm_ruby) - Scout Ruby Application Monitoring Agent.
+*   [Scout (⭐203)](https://github.com/scoutapp/scout_apm_ruby) - Scout Ruby Application Monitoring Agent.
 
 ## [4. Amas](/content/sindresorhus/amas/README.md)
 
@@ -294,7 +294,7 @@
 
 ### Tools / PGFPlots
 
-*   [itikz (⭐55)](https://github.com/jbn/itikz) - Cell and line magic for PGF/TikZ-to-SVG rendering in Jupyter notebooks.
+*   [itikz (⭐62)](https://github.com/jbn/itikz) - Cell and line magic for PGF/TikZ-to-SVG rendering in Jupyter notebooks.
 
 ## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

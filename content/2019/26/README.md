@@ -16,7 +16,7 @@
 
 ### Python / Trading & Backtesting
 
-*   [zvt (⭐3.1k)](https://github.com/zvtvz/zvt) - the project using sql, pandas to provide an uniform and extendable way to record data, computing factors, select securities, backtesting, realtime trading and it could show all of them in clearly charts in realtime.
+*   [zvt (⭐3.4k)](https://github.com/zvtvz/zvt) - the project using sql, pandas to provide an uniform and extendable way to record data, computing factors, select securities, backtesting, realtime trading and it could show all of them in clearly charts in realtime.
 
 ## [3. Awesome Educational Games](/content/yrgo/awesome-educational-games/week/README.md)
 
@@ -40,7 +40,7 @@
 
 ### Development / Devops
 
-*   [ops (⭐1.2k)](https://github.com/nanovms/ops) - Unikernel compilation and orchestration tool.
+*   [ops (⭐1.3k)](https://github.com/nanovms/ops) - Unikernel compilation and orchestration tool.
 
 ## [6. Awesome Heroku](/content/ianstormtaylor/awesome-heroku/week/README.md)
 
@@ -58,15 +58,15 @@
 
 ### Packages / Image
 
-*   [qrcode (⭐7.3k)](https://github.com/soldair/node-qrcode) - QR code and bar code generator.
+*   [qrcode (⭐7.6k)](https://github.com/soldair/node-qrcode) - QR code and bar code generator.
 
 ### Packages / Job queues
 
-*   [better-queue (⭐495)](https://github.com/diamondio/better-queue) - Simple and efficient job queue when you cannot use Redis.
+*   [better-queue (⭐518)](https://github.com/diamondio/better-queue) - Simple and efficient job queue when you cannot use Redis.
 
 ### Packages / Node.js management
 
-*   [nodenv (⭐2.2k)](https://github.com/nodenv/nodenv) - Version manager that is similar to Ruby's rbenv. It supports auto version switching.
+*   [nodenv (⭐2.3k)](https://github.com/nodenv/nodenv) - Version manager that is similar to Ruby's rbenv. It supports auto version switching.
 
 ## [9. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
@@ -149,7 +149,7 @@
 
 ## [17. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
-### Online services
+### Online services (a-z↓)
 
 *   [Vidiff](https://vidiff.com) - Cloud-based visual regression testing across stages.
 
@@ -161,11 +161,11 @@
 
 ### UI / Barcode
 
-*   [MultiSlider (⭐465)](https://github.com/yonat/MultiSlider) - UISlider clone with multiple thumbs and values, range highlight, optional snap intervals, optional value labels, either vertical or horizontal.
+*   [MultiSlider (⭐492)](https://github.com/yonat/MultiSlider) - UISlider clone with multiple thumbs and values, range highlight, optional snap intervals, optional value labels, either vertical or horizontal.
 
 ### Button / Barcode
 
-*   [RadioGroup (⭐190)](https://github.com/yonat/RadioGroup) - The missing iOS radio buttons group.
+*   [RadioGroup (⭐191)](https://github.com/yonat/RadioGroup) - The missing iOS radio buttons group.
 
 ## [19. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
 
@@ -218,8 +218,8 @@
 
 ### External Services
 
-*   [music-box (⭐109)](https://github.com/jacc/music-box) - Update a pinned gist to contain your weekly listening report on Last.fm.
-*   [strava-box (⭐42)](https://github.com/JohnPhamous/strava-box) - Update a pinned gist to contain your YTD exercise metrics from Strava.
+*   [music-box (⭐112)](https://github.com/jacc/music-box) - Update a pinned gist to contain your weekly listening report on Last.fm.
+*   [strava-box (⭐45)](https://github.com/JohnPhamous/strava-box) - Update a pinned gist to contain your YTD exercise metrics from Strava.
 
 ## [27. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
@@ -284,22 +284,18 @@
 
 ### Cryptography
 
-*   [sodium.cr (⭐49)](https://github.com/didactic-drunk/sodium.cr) - Crystal wrapper for the libsodium crypto API
+*   [sodium.cr (⭐50)](https://github.com/didactic-drunk/sodium.cr) - Crystal wrapper for the libsodium crypto API
 
 ### HTTP
 
-*   [sse.cr (⭐22)](https://github.com/y2k2mt/sse.cr) - [Server-Sent Events](https://html.spec.whatwg.org/multipage/server-sent-events.html) client
+*   [sse.cr (⭐23)](https://github.com/y2k2mt/sse.cr) - [Server-Sent Events](https://html.spec.whatwg.org/multipage/server-sent-events.html) client
 
 ## [35. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
 ### Frameworks / Misc
 
 *   [Pine](https://docs.thememountain.com/pine/) - A 12 column grid, responsive email framework.
-*   [Maizzle](https://maizzle.com) - Rapidly prototype HTML emails with Tailwind CSS and advanced, email-specific post-processing.
-
-### Testing / Misc
-
-*   [Sendtest.email](https://sendtest.email/) - Test your HTML email, ⚡4email, or text version before sending. Privacy-focused, no sign-up required!
+*   [Maizzle](https://maizzle.com) - Quickly build HTML emails with Tailwind CSS.
 
 ## [36. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 22, 2017
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -46,25 +46,19 @@
 
 *   [halcyon (⭐81)](https://github.com/visualeyes/halcyon) - HAL implementation for ASP.NET.
 
-## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / UI Utilities
-
-*   [vue-scrollactive (⭐544)](https://github.com/eddiemf/vue-scrollactive) - Adds an active class in a menu item based on the current section in viewport, also scrolling to the section when clicking the menu item.
-
-## [7. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [6. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Analytics
 
-*   [Umbrella (⭐614)](https://github.com/devxoul/Umbrella) - Analytics abstraction layer.
+*   [Umbrella (⭐615)](https://github.com/devxoul/Umbrella) - Analytics abstraction layer.
 
 ### XML
 
-*   [SwiftyXML (⭐101)](https://github.com/chenyunguiMilook/SwiftyXML) - The most swifty way to deal with XML.
+*   [SwiftyXML (⭐103)](https://github.com/chenyunguiMilook/SwiftyXML) - The most swifty way to deal with XML.
 
 ### Images / Barcode
 
-*   [FlexibleImage (⭐823)](https://github.com/kawoou/FlexibleImage) - A simple way to play with images.
+*   [FlexibleImage (⭐825)](https://github.com/kawoou/FlexibleImage) - A simple way to play with images.
 
 ### Text / Barcode
 
@@ -76,13 +70,13 @@
 
 ### Template / Barcode
 
-*   [SwiftCssParser (⭐278)](https://github.com/100mango/SwiftCssParser) - Extensible CSS parser.
+*   [SwiftCssParser (⭐280)](https://github.com/100mango/SwiftCssParser) - Extensible CSS parser.
 
 ### TextField / Barcode
 
-*   [CBPinEntryView (⭐189)](https://github.com/Fawxy/CBPinEntryView) - Easy to use, very customisable pin entry.
+*   [CBPinEntryView (⭐190)](https://github.com/Fawxy/CBPinEntryView) - Easy to use, very customisable pin entry.
 
-## [8. Awesome Math](/content/rossant/awesome-math/README.md)
+## [7. Awesome Math](/content/rossant/awesome-math/README.md)
 
 ### Foundations of Mathematics / Surreal Numbers
 
@@ -90,7 +84,7 @@
 *   📝 [Surreal Numbers and Games](http://web.mit.edu/sp.268/www/2010/surreal.pdf)
 *   📝 [Conway names, the simplicity hierarchy and the surreal number tree](http://www.ohio.edu/people/ehrlich/ConwayNames.pdf) - Philip Ehrlich
 
-## [9. Jquery Tips Everyone Should Know](/content/AllThingsSmitty/jquery-tips-everyone-should-know/README.md)
+## [8. Jquery Tips Everyone Should Know](/content/AllThingsSmitty/jquery-tips-everyone-should-know/README.md)
 
 ### Disable Right-Click
 
@@ -132,13 +126,13 @@ Current versions of Chrome, Firefox, Safari, Opera, Edge, and IE11.
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
-## [10. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/README.md)
+## [9. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/README.md)
 
 ### Articles & Tutorials / Overall Topics
 
 *   [JavaScript.info](http://javascript.info) - A modern tutorial from the basics to advanced topics with simple, but detailed explanations.
 
-## [11. Awesome Web Design](/content/nicolesaidy/awesome-web-design/README.md)
+## [10. Awesome Web Design](/content/nicolesaidy/awesome-web-design/README.md)
 
 ### Productivity
 
@@ -150,7 +144,7 @@ Current versions of Chrome, Firefox, Safari, Opera, Edge, and IE11.
 *   [Design Talks](https://docs.google.com/forms/d/e/1FAIpQLSeKT_LC8kKTzJ4JjmgVQVpfl24i1qBkjJ7TYyQcNHL7fBQkYQ/viewform?c=0\&w=1): A community for UI/UX design, web design, freelancing, design critiques, etc.
 *   [TheDesignerShip](http://thedesignership.com/): A community of over 1,500+ designers and founders.
 
-## [12. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
+## [11. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 
 ### Popular Packages / Authentication & Authorization
 

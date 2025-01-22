@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 19, 2022
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Editing Support / Diagnostics
 
-*   [ZhiyuanLck/smart-pairs (⭐135)](https://github.com/ZhiyuanLck/smart-pairs) - Ultimate smart pairs written by Lua.
+*   [ZhiyuanLck/smart-pairs (⭐134)](https://github.com/ZhiyuanLck/smart-pairs) - Ultimate smart pairs written by Lua.
 
 ## [2. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
 
@@ -27,7 +27,7 @@
 ### Open source tools
 
 *   [Perfume.js](https://zizzamia.github.io/perfume/) - Tiny, web performance monitoring library that reports field data back to your favorite analytics tool.
-*   [Falco (⭐760)](https://github.com/theodo/falco) - Helps you monitor, analyze, and optimize your websites.
+*   [Falco (⭐768)](https://github.com/theodo/falco) - Helps you monitor, analyze, and optimize your websites.
 
 ### Case Studies
 
@@ -37,7 +37,7 @@
 
 ### Code Generators / Text-Based User Interfaces
 
-*   [Geci (⭐129)](https://github.com/verhas/javageci) - Discovers files that need generated code, updates automatically and writes to the source with a convenient API.
+*   [Geci (⭐130)](https://github.com/verhas/javageci) - Discovers files that need generated code, updates automatically and writes to the source with a convenient API.
 *   [JPA Buddy ![c](https://cdn.rawgit.com/akullpp/23246ca832bda82bb505230bf3538e2a/raw/d9bcdb769bf025292f9c6bc1290f01f1fcd1f864/commercial.svg)](https://www.jpa-buddy.com) - Plugin for IntelliJ IDEA. Provides visual tools for generating JPA entities, Spring Data JPA repositories, Liquibase changelogs and SQL scripts. Offers automatic Liquibase/Flyway script generation by comparing model to DB, and reverse engineering JPA entities from DB tables.
 
 ### Miscellaneous / Text-Based User Interfaces
@@ -46,11 +46,11 @@
 
 ### Security / Other
 
-*   [jwt-java (⭐10)](https://github.com/BastiaanJansen/jwt-java) - Easily create and parse JSON Web Tokens and create customized JWT validators using a fluent API.
+*   [jwt-java (⭐11)](https://github.com/BastiaanJansen/jwt-java) - Easily create and parse JSON Web Tokens and create customized JWT validators using a fluent API.
 
 ## [5. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
-### Modules / Godot 3.2+
+### Modules / Godot 3
 
 *   [godot-simple-state (⭐62)](https://github.com/tavurth/godot-simple-state) - A minimal finite state machine using nodes, perfect for Jam games.
 
@@ -64,13 +64,7 @@
 
 *   [@anatoliygatt/heart-switch (⭐440)](https://github.com/anatoliygatt/heart-switch) - [demo](https://codesandbox.io/s/demo-for-anatoliygatt-heart-switch-cds5p) - A fully themeable and accessible heart-shaped toggle switch component.
 
-## [7. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/README.md)
-
-### AppImage discovery / App catalogs
-
-*   [Get AppImage](https://g.srev.in/get-appimage/) - Collection of all AppImages in one website. Great search functionality.
-
-## [8. Awesome Agriculture](/content/brycejohnston/awesome-agriculture/README.md)
+## [7. Awesome Agriculture](/content/brycejohnston/awesome-agriculture/README.md)
 
 ### Datasets
 
@@ -78,7 +72,7 @@
 *   [CWFID (⭐122)](https://github.com/cwfid/dataset) - Dataset comprising field images, vegetation segmentation masks and crop/weed plant type annotations.
 *   [TERRA REF](https://terraref.org) - 1PB public domain high resolution sensor data from sorghum breeding trials ([data publication](https://doi.org/10.5061/dryad.4b8gtht99) with large files available on [globus.org at ncsa#terra-public](https://app.globus.org/file-manager?origin_id=e8feaff4-96cd-11ea-bf90-0e6cccbb0103\&origin_path=%2F))
 
-## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Log Management
 
@@ -88,18 +82,18 @@
 
 *   [FabForm](https://fabform.io/) - Form backend platform for intelligent developers. The free plan allows 250 form submissions per month. Friendly modern GUI. Integrates with Google Sheets, Airtable, Slack, Email, and others.
 
-## [10. Awesome Acg](/content/soruly/awesome-acg/README.md)
+## [9. Awesome Acg](/content/soruly/awesome-acg/README.md)
 
 ### Image Processing
 
 *   [WaifuCutout](https://waifucutout.com) - Image segmentation (matting) for Anime characters. \[English/中文]
 
-## [11. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [10. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Development tools / Embedded
 
 *   Arduino
-    *   [avr-rust/ruduino (⭐699)](https://github.com/avr-rust/ruduino) - Reusable components for the Arduino Uno.
+    *   [avr-rust/ruduino (⭐710)](https://github.com/avr-rust/ruduino) - Reusable components for the Arduino Uno.
 
 ---
 

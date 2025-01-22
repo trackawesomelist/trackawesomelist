@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 09, 2017
 
-8 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -11,7 +11,6 @@
 ### Websites
 
 *   Collaborizm - <https://www.collaborizm.com>
-*   Designer News - <https://www.designernews.co/>
 
 ## [2. Awesome Geojson](/content/tmcw/awesome-geojson/README.md)
 
@@ -45,25 +44,19 @@
 
 ### CMS
 
-*   [N2CMS (⭐362)](https://github.com/n2cms/n2cms) - Open source, lightweight, code-first CMS able to seamlessly integrate into any MVC project.
+*   [N2CMS (⭐364)](https://github.com/n2cms/n2cms) - Open source, lightweight, code-first CMS able to seamlessly integrate into any MVC project.
 
 ### ORM
 
-*   [FluentMigrator (⭐3.2k)](https://github.com/fluentmigrator/fluentmigrator) - Fluent Migrations framework for .net
+*   [FluentMigrator (⭐3.3k)](https://github.com/fluentmigrator/fluentmigrator) - Fluent Migrations framework for .net
 
-## [6. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
-
-### Entertainment
-
-*   [pockyt (⭐492)](https://github.com/arvindch/pockyt) - Read, Manage, and Automate your [Pocket](https://getpocket.com) collection.
-
-## [7. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [6. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / General-Purpose Machine Learning
 
-*   [fuku-ml (⭐280)](https://github.com/fukuball/fuku-ml) - Simple machine learning library, including Perceptron, Regression, Support Vector Machine, Decision Tree and more, it's easy to use and easy to learn for beginners.
+*   [fuku-ml (⭐281)](https://github.com/fukuball/fuku-ml) - Simple machine learning library, including Perceptron, Regression, Support Vector Machine, Decision Tree and more, it's easy to use and easy to learn for beginners.
 
-## [8. Awesome Deep Learning Papers](/content/terryum/awesome-deep-learning-papers/README.md)
+## [7. Awesome Deep Learning Papers](/content/terryum/awesome-deep-learning-papers/README.md)
 
 ### Contents / Book / Survey / Review
 

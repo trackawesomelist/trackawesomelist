@@ -11,9 +11,9 @@
 ### Platforms
 
 *   macOS - Operating system for Apple's Mac computers.
-    *   [Screensavers (⭐3.9k)](https://github.com/agarrharr/awesome-macos-screensavers#readme)
-    *   [Apps (⭐74k)](https://github.com/jaywcjlove/awesome-mac#readme)
-    *   [Open Source Apps (⭐41k)](https://github.com/serhii-londar/open-source-mac-os-apps#readme)
+    *   [Screensavers (⭐4k)](https://github.com/agarrharr/awesome-macos-screensavers#readme)
+    *   [Apps (⭐77k)](https://github.com/jaywcjlove/awesome-mac#readme)
+    *   [Open Source Apps (⭐42k)](https://github.com/serhii-londar/open-source-mac-os-apps#readme)
 
 ## [2. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/README.md)
 
@@ -22,7 +22,7 @@
 *   [**HiQ**](https://jonathanharrell.github.io/hiq/) - Simple CSS foundation with responsive typography and input styling.\
     ![](https://img.shields.io/github/stars/jonathanharrell/hiq.svg?style=social\&label=Star)
     [Docs](https://jonathanharrell.github.io/hiq/guide/),
-    [Repo (⭐310)](https://github.com/jonathanharrell/hiq/)
+    [Repo (⭐315)](https://github.com/jonathanharrell/hiq/)
     \| #PostCSS
 
 ## [3. Git Cheat Sheet](/content/arslanbilal/git-cheat-sheet/README.md)
@@ -81,13 +81,13 @@ Rename Index.txt to Index.html
 
 ### Device / Augmented Reality
 
-*   [Downloader (⭐898)](https://github.com/hnvn/flutter_downloader) <!--stargazers:hnvn/flutter_downloader--> - Create and manage download tasks by [HungHD](https://github.com/hnvn)
-*   [AppAvailability (⭐91)](https://github.com/pichillilorenzo/flutter_appavailability) <!--stargazers:pichillilorenzo/flutter_appavailability--> - List, launch and check installed apps by [Lorenzo Pichilli](https://github.com/pichillilorenzo)
+*   [Downloader (⭐0)](https://github.com/hnvn/flutter_downloader) <!--stargazers:hnvn/flutter_downloader--> - Create and manage download tasks by [HungHD](https://github.com/hnvn)
+*   [AppAvailability (⭐92)](https://github.com/pichillilorenzo/flutter_appavailability) <!--stargazers:pichillilorenzo/flutter_appavailability--> - List, launch and check installed apps by [Lorenzo Pichilli](https://github.com/pichillilorenzo)
 
 ### Device / Scanner
 
-*   [QR Code Reader (⭐234)](https://github.com/villela/flutter_qrcode_reader) <!--stargazers:villela/flutter_qrcode_reader--> - QR Code reader plugin by [Matheus Villela](https://github.com/villela)
-*   [Fast QR Reader View (⭐295)](https://github.com/facundomedica/fast_qr_reader_view) <!--stargazers:facundomedica/fast_qr_reader_view--> - Live multicode reader by [Facundo Medica](https://github.com/facundomedica)
+*   [QR Code Reader (⭐233)](https://github.com/villela/flutter_qrcode_reader) <!--stargazers:villela/flutter_qrcode_reader--> - QR Code reader plugin by [Matheus Villela](https://github.com/villela)
+*   [Fast QR Reader View (⭐294)](https://github.com/facundomedica/fast_qr_reader_view) <!--stargazers:facundomedica/fast_qr_reader_view--> - Live multicode reader by [Facundo Medica](https://github.com/facundomedica)
 
 ### Device / Bluetooth / NFC / Beacon
 
@@ -96,7 +96,7 @@ Rename Index.txt to Index.html
 
 ### Storage / Bluetooth / NFC / Beacon
 
-*   [Sqflite (⭐2.8k)](https://github.com/tekartik/sqflite) <!--stargazers:tekartik/sqflite--> - SQLite flutter plugin by [Alexandre Roux](https://www.linkedin.com/in/alextekartik/)
+*   [Sqflite (⭐2.9k)](https://github.com/tekartik/sqflite) <!--stargazers:tekartik/sqflite--> - SQLite flutter plugin by [Alexandre Roux](https://www.linkedin.com/in/alextekartik/)
 
 ### Services / Bluetooth / NFC / Beacon
 

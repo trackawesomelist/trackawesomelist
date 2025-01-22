@@ -85,7 +85,7 @@
 
 ## [9. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 
-### Online services
+### Online services (a-z↓)
 
 *   [Vidiff](https://vidiff.com) - Cloud-based visual regression testing across stages.
 
@@ -97,11 +97,11 @@
 
 ### UI / Barcode
 
-*   [MultiSlider (⭐465)](https://github.com/yonat/MultiSlider) - UISlider clone with multiple thumbs and values, range highlight, optional snap intervals, optional value labels, either vertical or horizontal.
+*   [MultiSlider (⭐492)](https://github.com/yonat/MultiSlider) - UISlider clone with multiple thumbs and values, range highlight, optional snap intervals, optional value labels, either vertical or horizontal.
 
 ### Button / Barcode
 
-*   [RadioGroup (⭐190)](https://github.com/yonat/RadioGroup) - The missing iOS radio buttons group.
+*   [RadioGroup (⭐191)](https://github.com/yonat/RadioGroup) - The missing iOS radio buttons group.
 
 ## [11. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
 

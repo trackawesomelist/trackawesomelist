@@ -66,35 +66,35 @@
 
 ### Providers / Vendor supported providers
 
-*   [terraform-provider-confluent (⭐23)](https://github.com/confluentinc/terraform-provider-confluent) - Provider for Confluent.
+*   [terraform-provider-confluent (⭐33)](https://github.com/confluentinc/terraform-provider-confluent) - Provider for Confluent.
 
 ## [10. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Development tools / Web Servers
 
-*   [hot-lib-reloader (⭐585)](https://github.com/rksm/hot-lib-reloader-rs) - Hot reload Rust code [![build badge](https://github.com/rksm/hot-lib-reloader-rs/actions/workflows/ci.yml/badge.svg)](https://github.com/rksm/hot-lib-reloader-rs/actions/workflows/ci.yml)
+*   [hot-lib-reloader (⭐639)](https://github.com/rksm/hot-lib-reloader-rs) - Hot reload Rust code [![build badge](https://github.com/rksm/hot-lib-reloader-rs/actions/workflows/ci.yml/badge.svg)](https://github.com/rksm/hot-lib-reloader-rs/actions/workflows/ci.yml)
 
 ### Libraries / Virtualization
 
-*   [oxidecomputer/propolis (⭐173)](https://github.com/oxidecomputer/propolis) - Userspace program for illumos bhyve kernel modules
+*   [oxidecomputer/propolis (⭐182)](https://github.com/oxidecomputer/propolis) - Userspace program for illumos bhyve kernel modules
 
 ## [11. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
 
-### Courses
+### Courses / Commerical Tools
 
 *   [MIT Artificial Intelligence Videos](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos) - MIT AI Course
 *   [Amazon Machine Learning Developer Guide](https://docs.aws.amazon.com/machine-learning/latest/dg/machinelearning-dg.pdf) - A book for ML developers which introduces the ML concepts & strategies with lots of practical usages.
 
-### Philosophy
+### Philosophy / Commerical Tools
 
 *   [Minds, Brains, And Programs](http://cogprints.org/7150/1/10.1.1.83.5248.pdf) - The 1980 paper by philosopher John Searle that contains the famous 'Chinese Room' thought experiment. It is probably the most famous attack on the notion of a Strong AI possessing a 'mind' or a 'consciousness', and it is an interesting reading for those interested in the intersection of AI and philosophy of mind.
 *   [Gödel, Escher, Bach: An Eternal Golden Braid](http://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567) - Written by Douglas Hofstadter and taglined "a metaphorical fugue on minds and machines in the spirit of Lewis Carroll", this incredible journey into the fundamental concepts of mathematics, symmetry and intelligence won a Pulitzer Prize for Non-Fiction in 1979. A major theme throughout is the emergence of meaning from seemingly 'meaningless' elements, like 1's and 0's, arranged in special patterns.
 
-### Learning
+### Learning / Commerical Tools
 
-*   [Awesome Graph Classification (⭐4.7k)](https://github.com/benedekrozemberczki/awesome-graph-classification) - Learning from graph structured data
+*   [Awesome Graph Classification (⭐4.8k)](https://github.com/benedekrozemberczki/awesome-graph-classification) - Learning from graph structured data
 
-### Journals
+### Journals / Commerical Tools
 
 *   [Annals of Mathematics and Artificial Intelligence](http://www.springer.com/journal/10472)
 

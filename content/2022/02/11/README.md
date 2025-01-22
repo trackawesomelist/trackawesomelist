@@ -16,38 +16,31 @@
 
 ### Libraries / Go
 
-*   [posteo/go-agentx (⭐53)](https://github.com/posteo/go-agentx) - A library with a pure Go implementation of the AgentX-Protocol.
+*   [posteo/go-agentx (⭐58)](https://github.com/posteo/go-agentx) - A library with a pure Go implementation of the AgentX-Protocol.
 
 ### Libraries / Python
 
-*   [pysnmp (⭐556)](https://github.com/etingof/pysnmp) - This is a pure-Python, open source and free implementation of v1/v2c/v3 SNMP engine distributed under 2-clause BSD license.
-    *   This project has been abandoned [due to the death of the sole maintainer (⭐556)](https://github.com/etingof/pysnmp/issues/427).
-    *   Some forks have been created to continue the project and the ecosystem around it. See [here (⭐556)](https://github.com/etingof/pysnmp/issues/429).
-    *   The leading fork seems to be [lextudio/pysnmp (⭐46)](https://github.com/lextudio/pysnmp). ![GitHub last commit](https://img.shields.io/github/last-commit/lextudio/pysnmp)
-    *   There is also a [community fork (⭐45)](https://github.com/pysnmp/pysnmp) under active development, but it is not clear if that project is commited to maintaining all the associated repos, documentation, and websites. ![GitHub last commit](https://img.shields.io/github/last-commit/pysnmp/pysnmp)
-*   [pysmi (⭐127)](https://github.com/etingof/pysmi) - PySMI is a pure-Python implementation of SNMP SMI MIB parser.
-    *   Abandoned for the same reason as the above pysnmp project. See [lextudio/pysmi (⭐2)](https://github.com/lextudio/pysmi). ![GitHub last commit](https://img.shields.io/github/last-commit/lextudio/pysmi)
 *   [net-snmp Python bindings](http://www.net-snmp.org/wiki/index.php/Python_Bindings) - Net-SNMP 5.4 and later contains Python bindings in the "python" sub-directory, though, they are not built by default. ![GitHub last commit](https://img.shields.io/github/last-commit/net-snmp/net-snmp)
-*   [puresnmp (⭐74)](https://github.com/exhuma/puresnmp) - Pure Python3 SNMPv2 library without any dependencies. ![GitHub last commit](https://img.shields.io/github/last-commit/exhuma/puresnmp)
-*   [snimpy (⭐184)](https://github.com/vincentbernat/snimpy) - Snimpy is a Python-based tool providing a simple interface to build SNMP query. ![GitHub last commit](https://img.shields.io/github/last-commit/vincentbernat/snimpy)
-*   [python-netsnmpagent (⭐67)](https://github.com/pief/python-netsnmpagent) - This package allows to write net-snmp subagents in Python. ![GitHub last commit](https://img.shields.io/github/last-commit/pief/python-netsnmpagent)
+*   [puresnmp (⭐79)](https://github.com/exhuma/puresnmp) - Pure Python3 SNMPv2 library without any dependencies. ![GitHub last commit](https://img.shields.io/github/last-commit/exhuma/puresnmp)
+*   [snimpy (⭐185)](https://github.com/vincentbernat/snimpy) - Snimpy is a Python-based tool providing a simple interface to build SNMP query. ![GitHub last commit](https://img.shields.io/github/last-commit/vincentbernat/snimpy)
+*   [python-netsnmpagent (⭐68)](https://github.com/pief/python-netsnmpagent) - This package allows to write net-snmp subagents in Python. ![GitHub last commit](https://img.shields.io/github/last-commit/pief/python-netsnmpagent)
 *   [hnmp (⭐49)](https://github.com/trehn/hnmp) - HNMP is a high-level Python library to ease the pain of retrieving and processing data from SNMP-capable devices such as network switches, routers, and printers. ![GitHub last commit](https://img.shields.io/github/last-commit/trehn/hnmp)
 
 ### Libraries / Ruby
 
-*   [ruby-netsnmp (⭐33)](https://github.com/swisscom/ruby-netsnmp) - SNMP library in ruby (v1, v2c, v3).
+*   [ruby-netsnmp (⭐34)](https://github.com/swisscom/ruby-netsnmp) - SNMP library in ruby (v1, v2c, v3).
 
 ### Libraries / Rust
 
-*   [snmp-parser (⭐41)](https://github.com/rusticata/snmp-parser) - SNMP parser written in rust with nom parser combinator framework.
+*   [snmp-parser (⭐43)](https://github.com/rusticata/snmp-parser) - SNMP parser written in rust with nom parser combinator framework.
 
 ### Tools / CLIs
 
-*   [snmpsim (⭐362)](https://github.com/etingof/snmpsim) - This is a pure-Python, open source and free implementation of SNMP agents simulator distributed under 2-clause BSD license.
-*   [snmpfwd (⭐66)](https://github.com/etingof/snmpfwd) - The SNMP Proxy Forwarder tool works as an application-level proxy with a built-in SNMP message router. Typical use case for an SNMP proxy is to work as an application-level firewall or a protocol translator that enables SNMPv3 access to a SNMPv1/SNMPv2c entity or vice versa.
-*   [snmpclitools (⭐52)](https://github.com/etingof/snmpclitools) - This is a collection of command-line SNMP tools written in pure-Python. The tools mimic their famous Net-SNMP counterparts. It includes snmpget.py, snmpset.py, snmpwalk.py, snmpbulkwalk.py, snmptrap.py, and snmptranslate.py, see [here](https://snmplabs.thola.io/snmpclitools/) for more details.
-*   [snmpwn (⭐229)](https://github.com/hatlord/snmpwn) - SNMPwn is an SNMPv3 user enumerator and attack tool.
-*   [trapperkeeper (⭐81)](https://github.com/dropbox/trapperkeeper) - A suite of tools for ingesting and displaying SNMP traps. This is designed as a replacement for snmptrapd and to supplement existing stateful monitoring solutions.
+*   [snmpsim (⭐387)](https://github.com/etingof/snmpsim) - This is a pure-Python, open source and free implementation of SNMP agents simulator distributed under 2-clause BSD license.
+*   [snmpfwd (⭐68)](https://github.com/etingof/snmpfwd) - The SNMP Proxy Forwarder tool works as an application-level proxy with a built-in SNMP message router. Typical use case for an SNMP proxy is to work as an application-level firewall or a protocol translator that enables SNMPv3 access to a SNMPv1/SNMPv2c entity or vice versa.
+*   [snmpclitools (⭐53)](https://github.com/etingof/snmpclitools) - This is a collection of command-line SNMP tools written in pure-Python. The tools mimic their famous Net-SNMP counterparts. It includes snmpget.py, snmpset.py, snmpwalk.py, snmpbulkwalk.py, snmptrap.py, and snmptranslate.py, see [here](https://snmplabs.thola.io/snmpclitools/) for more details.
+*   [snmpwn (⭐243)](https://github.com/hatlord/snmpwn) - SNMPwn is an SNMPv3 user enumerator and attack tool.
+*   [trapperkeeper (⭐82)](https://github.com/dropbox/trapperkeeper) - A suite of tools for ingesting and displaying SNMP traps. This is designed as a replacement for snmptrapd and to supplement existing stateful monitoring solutions.
 
 ### Tools / GUIs
 
@@ -75,8 +68,8 @@
 
 ### Web Exploitation / Web shells and C2 frameworks
 
-*   [Merlin (⭐5k)](https://github.com/Ne0nd0g/merlin) - Cross-platform post-exploitation HTTP/2 Command and Control server and agent written in Golang.
-*   [SharPyShell (⭐876)](https://github.com/antonioCoco/SharPyShell) - Tiny and obfuscated ASP.NET webshell for C# web applications.
+*   [Merlin (⭐5.1k)](https://github.com/Ne0nd0g/merlin) - Cross-platform post-exploitation HTTP/2 Command and Control server and agent written in Golang.
+*   [SharPyShell (⭐920)](https://github.com/antonioCoco/SharPyShell) - Tiny and obfuscated ASP.NET webshell for C# web applications.
 
 ## [5. Awesome Dos](/content/balintkissdev/awesome-dos/README.md)
 
@@ -88,7 +81,7 @@
 
 ### Plugins
 
-*   [tmux-modal (⭐169)](https://github.com/whame/tmux-modal) - Execute complex tmux commands in just a few keystrokes with a modal mode that is designed to be efficient, easy to remember and comfortable.
+*   [tmux-modal (⭐187)](https://github.com/whame/tmux-modal) - Execute complex tmux commands in just a few keystrokes with a modal mode that is designed to be efficient, easy to remember and comfortable.
 
 ## [7. Awesome Seml](/content/SE-ML/awesome-seml/README.md)
 
@@ -100,13 +93,13 @@
 
 ### Components & Libraries / UI Components
 
-*   [swiper (⭐39k)](https://github.com/nolimits4web/swiper) - Official Swiper component for Vue 3. Tree shakable, SSR support, typing, a11y and a lot more
+*   [swiper (⭐40k)](https://github.com/nolimits4web/swiper) - Official Swiper component for Vue 3. Tree shakable, SSR support, typing, a11y and a lot more
 
 ## [9. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Formatting / Diagnostics
 
-*   [gpanders/editorconfig.nvim (⭐321)](https://github.com/gpanders/editorconfig.nvim) - An EditorConfig plugin written in Fennel.
+*   [gpanders/editorconfig.nvim (⭐325)](https://github.com/gpanders/editorconfig.nvim) - An EditorConfig plugin written in Fennel.
 
 ## [10. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
@@ -116,7 +109,7 @@
 
 ### Tools / Testing Tools
 
-*   [eslint-interactive (⭐339)](https://github.com/mizdra/eslint-interactive) - The CLI tool to fix huge number of ESLint errors.
+*   [eslint-interactive (⭐361)](https://github.com/mizdra/eslint-interactive) - The CLI tool to fix huge number of ESLint errors.
 
 ## [11. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/README.md)
 
@@ -145,24 +138,24 @@
 
 ### Breadcrumbs
 
-*   [Breadcrumbs on Rails (⭐939)](https://github.com/weppos/breadcrumbs_on_rails) - A simple Ruby on Rails plugin for creating and managing a breadcrumb navigation for a Rails project.
-*   [Gretel (⭐890)](https://github.com/lassebunk/gretel) - A Ruby on Rails plugin that makes it easy yet flexible to create breadcrumbs.
-*   [loaf (⭐406)](https://github.com/peter-murach/loaf) - Manages and displays breadcrumb trails in Rails app - lean & mean.
-*   [Simple Navigation (⭐885)](https://github.com/codeplant/simple-navigation) - A ruby gem for creating navigation (html list, link list or breadcrumbs with multiple levels) for your Rails 2, 3 & 4, Sinatra or Padrino.
+*   [Breadcrumbs on Rails (⭐947)](https://github.com/weppos/breadcrumbs_on_rails) - A simple Ruby on Rails plugin for creating and managing a breadcrumb navigation for a Rails project.
+*   [Gretel (⭐889)](https://github.com/lassebunk/gretel) - A Ruby on Rails plugin that makes it easy yet flexible to create breadcrumbs.
+*   [loaf (⭐407)](https://github.com/peter-murach/loaf) - Manages and displays breadcrumb trails in Rails app - lean & mean.
+*   [Simple Navigation (⭐886)](https://github.com/codeplant/simple-navigation) - A ruby gem for creating navigation (html list, link list or breadcrumbs with multiple levels) for your Rails 2, 3 & 4, Sinatra or Padrino.
 
 ### Business logic
 
 *   [ActiveInteraction (⭐2.1k)](https://github.com/AaronLasseigne/active_interaction) - Manage application specific business logic.
-*   [Interactor (⭐3.3k)](https://github.com/collectiveidea/interactor) - Interactor provides a common interface for performing complex interactions in a single request.
-*   [Light Service (⭐820)](https://github.com/adomokos/light-service) - Series of Actions with an emphasis on simplicity.
+*   [Interactor (⭐3.4k)](https://github.com/collectiveidea/interactor) - Interactor provides a common interface for performing complex interactions in a single request.
+*   [Light Service (⭐846)](https://github.com/adomokos/light-service) - Series of Actions with an emphasis on simplicity.
 *   [Mutations (⭐1.4k)](https://github.com/cypriss/mutations) - Compose your business logic into commands that sanitize and validate input.
-*   [Surrounded (⭐253)](https://github.com/saturnflyer/surrounded) - Encapsulated related objects in a single system to add behavior during runtime. Extensible implementation of DCI.
-*   [Waterfall (⭐610)](https://github.com/apneadiving/waterfall) - A slice of functional programming to chain ruby services and blocks, thus providing a new approach to flow control.
+*   [Surrounded (⭐254)](https://github.com/saturnflyer/surrounded) - Encapsulated related objects in a single system to add behavior during runtime. Extensible implementation of DCI.
+*   [Waterfall (⭐611)](https://github.com/apneadiving/waterfall) - A slice of functional programming to chain ruby services and blocks, thus providing a new approach to flow control.
 *   [wisper (⭐3.3k)](https://github.com/krisleech/wisper) - A micro library providing Ruby objects with Publish-Subscribe capabilities.
 
 ### Core Extensions
 
-*   [Docile (⭐414)](https://github.com/ms-ati/docile) - A tiny library that lets you map a DSL (domain specific language) to your Ruby objects in a snap.
+*   [Docile (⭐418)](https://github.com/ms-ati/docile) - A tiny library that lets you map a DSL (domain specific language) to your Ruby objects in a snap.
 *   [dry-rb](https://github.com/dry-rb) - dry-rb is a collection of next-generation Ruby libraries, each intended to encapsulate a common task.
 
 ### Decorators
@@ -201,18 +194,17 @@
 *   [Inch CI](https://inch-ci.org/) - Documentation badges for Ruby projects.
 *   [OctoLinker (⭐5.3k)](https://github.com/OctoLinker/browser-extension) - Navigate through projects on GitHub.com efficiently with the OctoLinker browser extension.
 *   [SemaphoreCI](https://semaphoreci.com) - Hosted continuous integration and deployment service for open source and private projects.
-*   [Sider](https://sider.review/) - Automated Code Review with GitHub PR. Monitoring Style Violations, Quality, Security, Dependencies.
 *   [Travis CI](https://travis-ci.com) - Test and Deploy Your Code with Confidence.
 
 ### View components
 
 *   [Cells (⭐3.1k)](https://github.com/trailblazer/cells) - View Components for Rails.
 *   [Komponent (⭐427)](https://github.com/komposable/komponent) - An opinionated way of organizing front-end code in Rails, based on components.
-*   [ViewComponent (⭐3.2k)](https://github.com/github/view_component) - View components for Rails.
+*   [ViewComponent (⭐3.3k)](https://github.com/github/view_component) - View components for Rails.
 
 ### View helpers
 
-*   [active\_link\_to (⭐843)](https://github.com/comfy/active_link_to) - View helper to manage "active" state of a link.
+*   [active\_link\_to (⭐844)](https://github.com/comfy/active_link_to) - View helper to manage "active" state of a link.
 
 ### Web Frameworks
 

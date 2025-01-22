@@ -38,7 +38,7 @@
 
 ### Polyglot
 
-*   [Hprose](http://github.com/hprose) - A very newbility RPC Library, support 25+ languages now.
+*   [Hprose](http://github.com/hprose) - A very newability RPC Library, support 25+ languages now.
 
 ## [6. Awesome Speaking](/content/matteofigus/awesome-speaking/README.md)
 

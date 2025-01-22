@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 06 - Aug 12, 2018
 
-54 awesome lists updated this week.
+53 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -68,49 +68,39 @@
 
 ### Compilers / Experimental/Proof of Concepts
 
-*   [Wiz (⭐395)](https://github.com/wiz-lang/wiz) - A high-level assembly language for writing homebrew on retro console platforms (Game Boy, NES, Atari 2600, and more).
-*   [gbforth (⭐116)](https://github.com/ams-hackers/gbforth) - A Forth-based Game Boy development kit.
+*   [Wiz (⭐411)](https://github.com/wiz-lang/wiz) - A high-level assembly language for writing homebrew on retro console platforms (Game Boy, NES, Atari 2600, and more).
+*   [gbforth (⭐129)](https://github.com/ams-hackers/gbforth) - A Forth-based Game Boy development kit.
 *   [gbasm (⭐130)](https://github.com/BonsaiDen/gbasm) - A JavaScript based compiler for Game Boy z80 assembly code.
 *   [tniASM](http://www.tni.nl/products/tniasm.html) - Macro Assembler.
-*   [Assembler (⭐117)](https://github.com/ulrikdamm/Assembler) - Assembler written in Swift.
+*   [Assembler (⭐118)](https://github.com/ulrikdamm/Assembler) - Assembler written in Swift.
 
 ### Tools / Engines
 
-*   [ZGB (⭐648)](https://github.com/Zal0/ZGB) - A little engine for creating games for the original Game Boy (expands gbdk, more info [here](http://zalods.blogspot.com/2017/01/zgb-little-engine-for-game-boy.html)).
+*   [ZGB (⭐715)](https://github.com/Zal0/ZGB) - A little engine for creating games for the original Game Boy (expands gbdk, more info [here](http://zalods.blogspot.com/2017/01/zgb-little-engine-for-game-boy.html)).
 
 ### Tools / Graphics utilities
 
 *   [GBTiles (⭐15)](https://github.com/bashaus/gbtiles) - Converts .GBR files created with Harry Mulder's Tile Designer (GBTD) and .GBM files created with Harry Mulder's Map Builder (GBMB) to different formats for use with the Game Boy and GBDK.
-*   [bmp2cgb (⭐25)](https://github.com/gitendo/bmp2cgb) - Graphics converter for Game Boy Color development providing real time palette adjustments.
-*   [png2gb (⭐22)](https://github.com/LuckyLights/png2gb) - CLI tool to convert image file to game boy .c array.
-*   [GB-convert (⭐28)](https://github.com/exezin/gb-convert) - Game Boy tile conversion and map editor tool (converts to assembly).
+*   [bmp2cgb (⭐26)](https://github.com/gitendo/bmp2cgb) - Graphics converter for Game Boy Color development providing real time palette adjustments.
+*   [png2gb (⭐21)](https://github.com/LuckyLights/png2gb) - CLI tool to convert image file to game boy .c array.
 *   [brewtool](http://make.vg/brewtool/) - A collection of primitive editor/converter tools for making assets used with homebrew ROM development.
 
 ## [9. Awesome Dash](/content/ucg8j/awesome-dash/week/README.md)
 
 ### Tutorials
 
-*   [Plotly's tutorials - Part 1: App Layout](https://plot.ly/dash/getting-started)
-*   [Plotly's tutorials - Part 2: Interactivity](https://plot.ly/dash/getting-started-part-2)
-*   [Plotly's tutorials - Part 3: Interactive Graphing](https://plot.ly/dash/interactive-graphing)
-*   [Plotly's tutorials - Part 4: Callbacks With State](https://plot.ly/dash/state)
 *   [ARGO Labs - Plotly Dash Tutorial (Video)](https://www.youtube.com/watch?v=yfWJXkySfe0) - Detailed introduction to creating interactive dashboards.
 *   [Data Visualization GUIs with Dash and Python (Video playlist)](https://www.youtube.com/watch?v=J_Cy_QjG6NE\&list=PLQVvvaa0QuDfsGImWNt1eUEveHOepkjqt) - Five-part series exploring Dash features.
 
 ### Component Libraries
 
-*   [Tutorial on creating custom Dash components with React.js.](https://plot.ly/dash/plugins)
-*   [Dash Core Components (⭐267)](https://github.com/plotly/dash-core-components)
-*   [Dash HTML Components (⭐155)](https://github.com/plotly/dash-html-components)
-*   [mydcc (⭐34)](https://github.com/jimmybow/mydcc) - Extension of Dash Core Components.
-*   [sd-material-ui (⭐179)](https://github.com/StratoDem/sd-material-ui) - StratoDem Analytics implementations of material-ui components for Dash.
-*   [sd-range-slider (⭐2)](https://github.com/StratoDem/sd-range-slider) - Range Slider Dash component.
-*   [dj-plotly-dash (⭐44)](https://github.com/pikhovkin/dj-plotly-dash) - Plotly Dash fork for Django.
-*   [dash-flexbox-grid (⭐19)](https://github.com/pikhovkin/dash-flexbox-grid) - Wrapper around react-flexbox-grid for Plotly Dash.
-
-### Galleries
-
-*   [Plotly App Gallery](https://plot.ly/dash/gallery) - Plotly's collection of Dash applications.
+*   [Dash Core Components (⭐271)](https://github.com/plotly/dash-core-components)
+*   [Dash HTML Components (⭐153)](https://github.com/plotly/dash-html-components)
+*   [mydcc (⭐37)](https://github.com/jimmybow/mydcc) - Extension of Dash Core Components.
+*   [sd-material-ui (⭐194)](https://github.com/StratoDem/sd-material-ui) - StratoDem Analytics implementations of material-ui components for Dash.
+*   [sd-range-slider (⭐3)](https://github.com/StratoDem/sd-range-slider) - Range Slider Dash component.
+*   [dj-plotly-dash (⭐59)](https://github.com/pikhovkin/dj-plotly-dash) - Plotly Dash fork for Django.
+*   [dash-flexbox-grid (⭐20)](https://github.com/pikhovkin/dash-flexbox-grid) - Wrapper around react-flexbox-grid for Plotly Dash.
 
 ### Talks
 
@@ -133,11 +123,11 @@
 
 ### Packages / Command-line utilities
 
-*   [sparkly (⭐423)](https://github.com/sindresorhus/sparkly) - Generate sparklines `▁▂▃▅▂▇`.
+*   [sparkly (⭐424)](https://github.com/sindresorhus/sparkly) - Generate sparklines `▁▂▃▅▂▇`.
 
 ### Packages / Weird
 
-*   [cat-ascii-faces (⭐251)](https://github.com/melaniecebula/cat-ascii-faces) - `₍˄·͈༝·͈˄₎◞ ̑̑ෆ⃛ (=ↀωↀ=)✧ (^･o･^)ﾉ”`.
+*   [cat-ascii-faces (⭐254)](https://github.com/melaniecebula/cat-ascii-faces) - `₍˄·͈༝·͈˄₎◞ ̑̑ෆ⃛ (=ↀωↀ=)✧ (^･o･^)ﾉ”`.
 
 ## [12. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/week/README.md)
 
@@ -162,14 +152,14 @@ Free
 ### Processes / Other
 
 *   [ch.vorburger.exec (⭐30)](https://github.com/vorburger/ch.vorburger.exec) - Convenient API around Apache Commons Exec.
-*   [zt-exec (⭐875)](https://github.com/zeroturnaround/zt-exec) - Provides a unified API to Apache Commons Exec and ProcessBuilder.
-*   [zt-process-killer (⭐125)](https://github.com/zeroturnaround/zt-process-killer) - Stops processes started from Java or the system processes via PID.
+*   [zt-exec (⭐881)](https://github.com/zeroturnaround/zt-exec) - Provides a unified API to Apache Commons Exec and ProcessBuilder.
+*   [zt-process-killer (⭐128)](https://github.com/zeroturnaround/zt-process-killer) - Stops processes started from Java or the system processes via PID.
 
 ## [15. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### Python / Symfony2
 
-*   [Falcon (⭐9.5k)](https://github.com/falconry/falcon) - Falcon is a bare-metal Python web API framework for building high-performance microservices, app backends, and higher-level frameworks.
+*   [Falcon (⭐9.6k)](https://github.com/falconry/falcon) - Falcon is a bare-metal Python web API framework for building high-performance microservices, app backends, and higher-level frameworks.
 
 ## [16. Awesome ad Free](/content/johnjago/awesome-ad-free/week/README.md)
 
@@ -198,7 +188,7 @@ Free
 
 ### Platforms
 
-*   [Fuse (⭐333)](https://github.com/fuse-compound/awesome-fuse#readme) - Mobile development tools.
+*   [Fuse (⭐337)](https://github.com/fuse-compound/awesome-fuse#readme) - Mobile development tools.
 
 ### Content Management Systems
 
@@ -206,13 +196,13 @@ Free
 
 ### Miscellaneous
 
-*   [Jupyter (⭐3.9k)](https://github.com/markusschanta/awesome-jupyter#readme) - Create and share documents that contain code, equations, visualizations and narrative text.
+*   [Jupyter (⭐4.1k)](https://github.com/markusschanta/awesome-jupyter#readme) - Create and share documents that contain code, equations, visualizations and narrative text.
 
 ## [20. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Reading and Writing Tools / Text Editors
 
-*   [Emacs](https://www.emacswiki.org/emacs/EmacsForMacOS) - A popular text editor used mainly on Unix-based systems by programmers, scientists, engineers, students, and system administrators. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://git.savannah.gnu.org/cgit/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![Awesome List](https://jaywcjlove.github.io/sb/ico/min-awesome.svg "Awesome List")](https://github.com/emacs-tw/awesome-emacs#readme)
+*   [Emacs](https://www.emacswiki.org/emacs/EmacsForMacOS) - Popular Unix-based text editor for programmers and system administrators. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://git.savannah.gnu.org/cgit/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![Awesome List](https://jaywcjlove.github.io/sb/ico/min-awesome.svg "Awesome List")](https://github.com/emacs-tw/awesome-emacs#readme)
 
 ## [21. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md)
 
@@ -224,7 +214,7 @@ Free
 
 ### Cheatsheet / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [List of 100 Angular Interview questions and answers (⭐4.2k)](https://github.com/sudheerj/angular-interview-questions)
+*   [List of 100 Angular Interview questions and answers (⭐4.4k)](https://github.com/sudheerj/angular-interview-questions)
 
 ## [23. Awesome Opengl](/content/eug/awesome-opengl/week/README.md)
 
@@ -236,7 +226,7 @@ Free
 
 ### Other lists / Hash functions
 
-*   [Awesome HE (⭐978)](https://github.com/jonaschn/awesome-he) – A curated list of homomorphic encryption libraries, software and resources.
+*   [Awesome HE (⭐1k)](https://github.com/jonaschn/awesome-he) – A curated list of homomorphic encryption libraries, software and resources.
 
 ## [25. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
 
@@ -408,11 +398,11 @@ Free
 
 ### Monetization / Preferences
 
-*   [Inapp Purchase (⭐548)](https://github.com/dooboolab/flutter_inapp_purchase) <!--stargazers:dooboolab/flutter_inapp_purchase--> - Features set of 'in app purchase' derived from [react-native-iap (⭐2.7k)](https://github.com/dooboolab/react-native-iap) by [dooboolab](https://github.com/dooboolab)
+*   [Inapp Purchase (⭐556)](https://github.com/dooboolab/flutter_inapp_purchase) <!--stargazers:dooboolab/flutter_inapp_purchase--> - Features set of 'in app purchase' derived from [react-native-iap (⭐2.9k)](https://github.com/dooboolab/react-native-iap) by [dooboolab](https://github.com/dooboolab)
 
 ### Animation / Redux / ELM / Dependency Injection
 
-*   [AnimatedTextKit (⭐1.6k)](https://github.com/aagarwal1012/Animated-Text-Kit) <!--stargazers:aagarwal1012/Animated-Text-Kit--> - A collection of cool text animations by [Ayush Agarwal](https://github.com/aagarwal1012/)
+*   [AnimatedTextKit (⭐1.7k)](https://github.com/aagarwal1012/Animated-Text-Kit) <!--stargazers:aagarwal1012/Animated-Text-Kit--> - A collection of cool text animations by [Ayush Agarwal](https://github.com/aagarwal1012/)
 
 ### Top / Game Engine resources
 
@@ -434,7 +424,7 @@ Free
 
 ### Configuration
 
-*   [totem (⭐66)](https://github.com/icyleaf/totem) - Load and parse a configuration in JSON, YAML, dotenv formats
+*   [totem (⭐69)](https://github.com/icyleaf/totem) - Load and parse a configuration in JSON, YAML, dotenv formats
 
 ## [30. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
 
@@ -673,20 +663,14 @@ Free
 
 *   [macports](https://www.macports.org/) - Package manager that simplifies the installation of software on the macOS and Darwin operating systems.
 
-## [47. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
-
-### Components & Libraries / UI Utilities
-
-*   [v-scroll-lock (⭐186)](https://github.com/phegman/v-scroll-lock) - A Vue.js directive for body scroll locking without breaking scrolling of a target element
-
-## [48. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
+## [47. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
 
 ### Applications
 
 *   [Handshake](https://handshake.org): Decentralized, permissionless naming protocol compatible with DNS where every peer is validating and in charge of managing the root zone with the goal of creating an alternative to existing Certificate Authorities.
 *   [Orion (⭐124)](https://github.com/Siderus/Orion): Easy to Use, Inter Planetary File System (IPFS) desktop client.
 
-## [49. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
+## [48. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
 ### Host-based tools / Tarpits
 
@@ -730,38 +714,38 @@ Free
 *   [Sticky Keys Slayer (⭐324)](https://github.com/linuz/Sticky-Keys-Slayer) - Establishes a Windows RDP session from a list of hostnames and scans for accessibility tools backdoors, alerting if one is discovered.
 *   [Windows Secure Host Baseline (⭐1.5k)](https://github.com/nsacyber/Windows-Secure-Host-Baseline) - Group Policy objects, compliance checks, and configuration tools that provide an automated and flexible approach for securely deploying and maintaining the latest releases of Windows 10.
 
-## [50. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [49. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Authentication
 
 *   [passwordless\_auth (⭐49)](https://github.com/madebymany/passwordless_auth) - Simple passwordless login or 2-factor / multi-factor authentication for Elixir.
 
-## [51. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
+## [50. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
-### Courses
+### Courses / Commerical Tools
 
 *   [Grokking Deep Learning in Motion](https://www.manning.com/livevideo/grokking-deep-learning-in-motion?a_aid=algmotion\&a_bid=5d7bc0ba) - Beginner's course to learn deep learning and neural networks without frameworks.
 
-### Learning
+### Learning / Commerical Tools
 
 *   [Professional and In-Depth Machine Learning Video Courses](https://freecoursesite.com/?s=Machine+Learning+Data+Science) - A collection of free professional and in-depth Machine Learning and Data Science video tutorials and courses
 *   [Professional and In-Depth Artificial Intelligence Video Courses](https://freecoursesite.com/?s=Artificial+Intelligence) - A collection of free professional and in-depth Artificial Intelligence video tutorials and courses
 *   [Professional and In-Depth Deep Learning Video Courses](https://freecoursesite.com/?s=Deep+Learning) - A collection of free professional and in-depth Deep Learning video tutorials and courses
 *   [Introduction to Machine Learning](https://developers.google.com/machine-learning/crash-course/ml-intro) - Introductory level machine learning crash course
 
-## [52. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
+## [51. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
 
 ### Networking
 
 *   [LibreMesh](https://libremesh.org/) includes the development of several tools used for deploying libre/free mesh networks. The firmware (the main piece) allows simple deployment of auto-configurable, yet versatile, multi-radio mesh networks.
 
-## [53. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
+## [52. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
 
 ### Utils / Third Party
 
 *   [d3-hsluv (⭐7)](https://github.com/petulla/d3-hsluv) - Human-friendly HSL (Hue, Saturation, Lightness) color space.
 
-## [54. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [53. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Application Templates
 

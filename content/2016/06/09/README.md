@@ -33,7 +33,7 @@
 
 ### E-Commerce and Payments
 
-*   [Braintree (⭐443)](https://github.com/braintree/braintree_ruby) - Braintree Ruby bindings.
+*   [Braintree (⭐446)](https://github.com/braintree/braintree_ruby) - Braintree Ruby bindings.
 
 ## [4. Css Protips](/content/AllThingsSmitty/css-protips/README.md)
 

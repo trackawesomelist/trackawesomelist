@@ -16,22 +16,22 @@
 
 ### Projects
 
-*   [rust-async-wasm-demo (⭐48)](https://github.com/extraymond/rust-async-wasm-demo) - Toy project to learn Rust and async that can be deployed to the web.
+*   [rust-async-wasm-demo (⭐49)](https://github.com/extraymond/rust-async-wasm-demo) - Toy project to learn Rust and async that can be deployed to the web.
 
 ### Crates / Component Libraries
 
-*   [muicss-yew (⭐34)](https://github.com/AlephAlpha/muicss-yew) - MUI-CSS Components for Yew framework.
+*   [muicss-yew (⭐36)](https://github.com/AlephAlpha/muicss-yew) - MUI-CSS Components for Yew framework.
 *   [yew-bulma (⭐20)](https://github.com/kellpossible/yew-bulma) - A Rust library providing components based on the bulma css library for projects using Yew.
-*   [ybc (⭐253)](https://github.com/thedodd/ybc) - A Yew component library based on the Bulma CSS framework.
-*   [patternfly-yew (⭐145)](https://github.com/ctron/patternfly-yew) - Patternfly components for Yew.
+*   [ybc (⭐257)](https://github.com/thedodd/ybc) - A Yew component library based on the Bulma CSS framework.
+*   [patternfly-yew (⭐161)](https://github.com/ctron/patternfly-yew) - Patternfly components for Yew.
 
 ### Crates / Components
 
-*   [Yew Form (⭐94)](https://github.com/jfbilodeau/yew_form) - Components to simplify handling forms with Yew.
+*   [Yew Form (⭐96)](https://github.com/jfbilodeau/yew_form) - Components to simplify handling forms with Yew.
 
 ### Crates / Utils
 
-*   [reacty\_yew (⭐53)](https://github.com/hobofan/reacty_yew) - Generate Yew components from React components via Typescript type definitions.
+*   [reacty\_yew (⭐54)](https://github.com/hobofan/reacty_yew) - Generate Yew components from React components via Typescript type definitions.
 *   [styled-yew (⭐35)](https://github.com/IcyDefiance/styled-yew) - CSS in Rust, similar to styled-components, but for Yew.
 
 ## [3. Awesome Dos](/content/balintkissdev/awesome-dos/README.md)
@@ -51,7 +51,7 @@
 
 ### Software / Note-taking & Editors
 
-*   [DailyTxT (⭐201)](https://github.com/PhiTux/DailyTxT) - Encrypted diary Web application to save your personal memories of each day. Includes a search function and encrypted file upload. `MIT` `Docker`
+*   [DailyTxT (⭐238)](https://github.com/PhiTux/DailyTxT) - Encrypted diary Web application to save your personal memories of each day. Includes a search function and encrypted file upload. `MIT` `Docker`
 
 ## [6. Awesome Perl](/content/hachiojipm/awesome-perl/README.md)
 
@@ -82,7 +82,7 @@
 
 ### Testing / Community providers
 
-*   [clarity (⭐139)](https://github.com/xchapter7x/clarity) - A declarative test framework for Terraform for unit testing.
+*   [clarity (⭐140)](https://github.com/xchapter7x/clarity) - A declarative test framework for Terraform for unit testing.
 
 ---
 

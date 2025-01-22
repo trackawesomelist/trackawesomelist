@@ -22,20 +22,20 @@
 
 ### Templates / Svelte
 
-*   [template-vite-svelte-ts-tailwind (⭐9)](https://github.com/RoyRao2333/template-vite-svelte-ts-tailwind) - Svelte + TypeScript + Tailwind CSS + Prettier.
+*   [template-vite-svelte-ts-tailwind (⭐10)](https://github.com/RoyRao2333/template-vite-svelte-ts-tailwind) - Svelte + TypeScript + Tailwind CSS + Prettier.
 
 ### Framework-agnostic Plugins / Integrations
 
 *   [vite-plugin-dc (⭐3)](https://github.com/dvgis/vite-plugin-dc) - Integration with @dvgis/dc-sdk library.
-*   [vite-plugin-cloudflare-functions (⭐48)](https://github.com/yjl9903/vite-plugin-cloudflare-functions) - Cloudflare pages function integration.
+*   [vite-plugin-cloudflare-functions (⭐56)](https://github.com/yjl9903/vite-plugin-cloudflare-functions) - Cloudflare pages function integration.
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-turbo-console (⭐483)](https://github.com/yuyinws/vite-plugin-turbo-console) - Enhance the readability of `console.log()`.
+*   [vite-plugin-turbo-console (⭐567)](https://github.com/yuyinws/vite-plugin-turbo-console) - Enhance the readability of `console.log()`.
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-cli-copy (⭐2)](https://github.com/wChenonly/vite-plugin-cli-copy) - Start the project and automatically copy the terminal's network URL.
+*   [vite-plugin-cli-copy (⭐3)](https://github.com/wChenonly/vite-plugin-cli-copy) - Start the project and automatically copy the terminal's network URL.
 
 ### Vue / Ecosystem
 
@@ -43,21 +43,21 @@
 
 ### Frameworks / Community
 
-*   [@fastify/fastify-dx (⭐904)](https://github.com/fastify/fastify-dx) - Allowing you to serve static or live (SSR).
+*   [@fastify/fastify-dx (⭐899)](https://github.com/fastify/fastify-dx) - Allowing you to serve static or live (SSR).
 
 ### ASP.NET Core / Community
 
-*   [Vite.AspNetCore (⭐226)](https://github.com/Eptagone/Vite.AspNetCore) - Integration with ASP.NET Core projects.
+*   [Vite.AspNetCore (⭐273)](https://github.com/Eptagone/Vite.AspNetCore) - Integration with ASP.NET Core projects.
 
 ### Apps/Websites / Community
 
-*   [vite-run (⭐63)](https://github.com/biggerstar/vite-run) - Multiple configuration execution support for vite, freely combining configurations like stacked blocks.
+*   [vite-run (⭐65)](https://github.com/biggerstar/vite-run) - Multiple configuration execution support for vite, freely combining configurations like stacked blocks.
 
 ## [4. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Note Taking / Diagnostics
 
-*   [ada0l/obsidian/ (⭐36)](https://github.com/ada0l/obsidian) - Base Obsidian functionality.
+*   [ada0l/obsidian/ (⭐40)](https://github.com/ada0l/obsidian) - Base Obsidian functionality.
 
 ## [5. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
 
@@ -84,7 +84,7 @@
 
 ### Contents / Productivity
 
-*   [Openreads (⭐661)](https://github.com/mateusz-bak/openreads-android) - A privacy oriented books tracker that allows you to keep track of your readings by [mateusz-bak](https://github.com/mateusz-bak).
+*   [Openreads (⭐866)](https://github.com/mateusz-bak/openreads-android) - A privacy oriented books tracker that allows you to keep track of your readings by [mateusz-bak](https://github.com/mateusz-bak).
 
 ## [7. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 

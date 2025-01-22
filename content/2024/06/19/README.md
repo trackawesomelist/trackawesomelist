@@ -10,7 +10,7 @@
 
 ### Neovim Lua Development / Diagnostics
 
-*   [folke/lazydev.nvim (⭐592)](https://github.com/folke/lazydev.nvim) -  Faster LuaLS setup.
+*   [folke/lazydev.nvim (⭐892)](https://github.com/folke/lazydev.nvim) - Faster LuaLS setup.
 
 ## [2. Awesome Games of Coding](/content/michelpereira/awesome-games-of-coding/README.md)
 
@@ -26,7 +26,7 @@
 
 ### Native / Action
 
-*   [Hypersomnia (⭐1.1k)](https://github.com/TeamHypersomnia/Hypersomnia) - Competitive top-down shooter with extreme dynamics and pixely nostalgia. Has a built-in map Editor.
+*   [Hypersomnia (⭐1.2k)](https://github.com/TeamHypersomnia/Hypersomnia) - Competitive top-down shooter with extreme dynamics and pixely nostalgia. Has a built-in map Editor.
 
 ### Native / RPG
 
@@ -34,7 +34,7 @@
 
 ### Native / Platform
 
-*   [AAAAXY (⭐206)](https://github.com/divVerent/aaaaxy) - Nonlinear 2D puzzle platformer taking place in impossible spaces.
+*   [AAAAXY (⭐226)](https://github.com/divVerent/aaaaxy) - Nonlinear 2D puzzle platformer taking place in impossible spaces.
 
 ### Native / Strategy
 
@@ -50,7 +50,7 @@
 
 ### Tools / Playground
 
-*   [nocodb (⭐44k)](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
+*   [nocodb (⭐51k)](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 
 ---
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 06, 2021
 
-15 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -35,8 +35,8 @@
 ### Testing Frameworks / Bare metal / kernel development
 
 *   [silly](https://gitlab.com/AntonMeep/silly) - Better test runner for the D programming language. No nonsense.
-*   [dunit (⭐63)](https://github.com/nomad-software/dunit) - Advanced unit testing & mocking toolkit
-*   [unit-threaded (⭐120)](https://github.com/atilaneves/unit-threaded) - Multi-threaded unit test framework
+*   [dunit (⭐62)](https://github.com/nomad-software/dunit) - Advanced unit testing & mocking toolkit
+*   [unit-threaded (⭐121)](https://github.com/atilaneves/unit-threaded) - Multi-threaded unit test framework
 
 ## [5. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
 
@@ -47,45 +47,35 @@
 
 ### Grid
 
-*   [svelte-grid-responsive (⭐53)](https://github.com/andrelmlins/svelte-grid-responsive) - Bootstrap-inspired responsive grid system.
+*   [svelte-grid-responsive (⭐54)](https://github.com/andrelmlins/svelte-grid-responsive) - Bootstrap-inspired responsive grid system.
 
-### Form / Checkbox
+### WebGL / Form Components
 
-*   [svelte-forms-lib (⭐599)](https://github.com/tjinauyeung/svelte-forms-lib) - A lightweight library for managing forms.
+*   [svelthree (⭐485)](https://github.com/vatro/svelthree) - Component library for declarative construction of reactive and reusable three.js scene graphs.
 
-### WebGL / Checkbox
+### Portal / Form Components
 
-*   [svelthree (⭐474)](https://github.com/vatro/svelthree) - Component library for declarative construction of reactive and reusable three.js scene graphs.
-
-### Portal / Checkbox
-
-*   [svelte-portal (⭐424)](https://github.com/romkor/svelte-portal) - Component for rendering outside the DOM of parent component.
+*   [svelte-portal (⭐445)](https://github.com/romkor/svelte-portal) - Component for rendering outside the DOM of parent component.
 *   [svelte-teleport (⭐25)](https://github.com/nasso/svelte-teleport) - A component to teleport elements across the DOM.
 
-### Routers / Checkbox
+### Routers / Form Components
 
-*   [svelte-router-spa (⭐511)](https://github.com/jorgegorka/svelte-router) - Router adds routing to your Single Page Applications (SPA). Includes localisation, guards and nested layouts.
+*   [svelte-router-spa (⭐529)](https://github.com/jorgegorka/svelte-router) - Router adds routing to your Single Page Applications (SPA). Includes localisation, guards and nested layouts.
 *   [svelte-routing (⭐2k)](https://github.com/EmilTholin/svelte-routing) - A declarative Svelte routing library with SSR support.
-*   [tinro (⭐669)](https://github.com/AlexxNB/tinro) - A tiny, dependency free and highly declarative router.
-*   [svelte-spa-router (⭐1.5k)](https://github.com/ItalyPaleAle/svelte-spa-router) - Optimized for Single Page Applications (SPA) with hash based routing and support for parameters.
-*   [svelte-client-router (⭐15)](https://github.com/arthurgermano/svelte-client-router) - Svelte Client Router is everything you need and think when routing SPA's.
+*   [tinro (⭐678)](https://github.com/AlexxNB/tinro) - A tiny, dependency free and highly declarative router.
+*   [svelte-spa-router (⭐1.6k)](https://github.com/ItalyPaleAle/svelte-spa-router) - Optimized for Single Page Applications (SPA) with hash based routing and support for parameters.
+*   [svelte-client-router (⭐17)](https://github.com/arthurgermano/svelte-client-router) - Svelte Client Router is everything you need and think when routing SPA's.
 
-### Frameworks / Checkbox
+### Frameworks / Form Components
 
-*   [SvelteKit](https://kit.svelte.dev/) - The fastest way to build Svelte apps.
-*   [Elder.js](https://elderguide.com/tech/elderjs/) - Opinionated static site generator and web framework for Svelte built with SEO in mind.
 *   [Routify](https://routify.dev/) - Routes for Svelte, automated by your file structure.
-*   [JungleJS](https://www.junglejs.org/) - The Jamstack framework for Svelte with GraphQL.
-
-### Docs / Checkbox
-
-*   [svelte-docster (⭐9)](https://github.com/TheComputerM/svelte-docster) - Generate metadata about your Svelte files from jsdoc.
+*   [JungleJS](https://www.junglejs.org/) - The Jamstack framework for Svelte with GraphQL. *(pre-v5)*
 
 ## [6. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/README.md)
 
 ### AppImage developer tools / Deployment tools for Electron applications
 
-*   [Appnativefy (⭐142)](https://github.com/sarweshparajuli/appnativefy) - Create AppImage with embedded Electron browser from any website.
+*   [Appnativefy (⭐148)](https://github.com/sarweshparajuli/appnativefy) - Create AppImage with embedded Electron browser from any website.
 
 ## [7. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -119,10 +109,6 @@
 
 ## [8. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/README.md)
 
-### Calendar
-
-*   [HomeDateGreeting.js](https://gist.github.com/cassianomon/efffbe09d20013986cd4ffc0f362a3e2) - Date and time greeting with background from Unsplash.
-
 ### Gaming
 
 *   [steam-wishlist.js](https://gist.github.com/brenoprata10/10d6bd1c8445a1181b899dd47c715577) - Shows items from a user's Steam wishlist.
@@ -137,7 +123,7 @@
 
 ### Related / Download helper
 
-*   [Import-Script.js (⭐201)](https://github.com/supermamon/scriptable-scripts/blob/master/Import-Script.js) - Script to download code (i.e., from Pastebin, GitHub) into Scriptable.
+*   [Import-Script.js (⭐215)](https://github.com/supermamon/scriptable-scripts/blob/master/Import-Script.js) - Script to download code (i.e., from Pastebin, GitHub) into Scriptable.
 
 ### Related / Articles
 
@@ -153,20 +139,14 @@
 
 *   [e2calib (⭐115)](https://github.com/uzh-rpg/e2calib) - Contains code that implements video reconstruction from event data for calibration.
 
-## [10. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
-
-### Software / Communication - Social Networks and Forums
-
-*   [Nitter](https://nitter.net) `⚠` - An alternative front end to twitter. ([Source Code (⭐9.9k)](https://github.com/zedeus/nitter)) `AGPL-3.0` `Nim/Docker`
-
-## [11. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
+## [10. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 
 ### Packages / Application layer
 
 *   [easy\_perception\_deployment (⭐51)](https://github.com/ros-industrial/easy_perception_deployment) - Package that accelerates training and deployment of Computer Vision models for industries. ![easy\_perception\_deployment](https://img.shields.io/github/stars/ros-industrial/easy_perception_deployment.svg)
 *   [easy\_manipulation\_deployment (⭐45)](https://github.com/ros-industrial/easy_manipulation_deployment) - Package that integrates perception elements to establish an end-to-end pick and place task. ![easy\_manipulation\_deployment](https://img.shields.io/github/stars/ros-industrial/easy_manipulation_deployment.svg)
 
-## [12. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
+## [11. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
 ### CI/CD
 
@@ -181,22 +161,22 @@
 *   [1Password Secrets Automation](https://1password.com/secrets/) - Secrets management with integration to 1Password.
 *   [Doppler](https://doppler.com/) - Environment variable management across projects, in one place.
 *   [Envkey](https://www.envkey.com/) - Environment management with syncing mechanism for all apps.
-*   [Vault](https://www.vaultproject.io/) - API driven secret key management.
+*   [Vault](https://www.vaultproject.io/) - API-driven secret key management.
 
-## [13. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
+## [12. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 
 ### Libraries / New Libraries
 
 *   [jaxlie](https://github.com/brentyi/jaxlie) - Lie theory library for rigid body transformations and optimization. <img src="https://img.shields.io/github/stars/brentyi/jaxlie?style=social" align="center">
 *   [BRAX](https://github.com/google/brax) - Differentiable physics engine to simulate environments along with learning algorithms to train agents for these environments. <img src="https://img.shields.io/github/stars/google/brax?style=social" align="center">
 
-## [14. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+## [13. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Form Components / Image Editing
 
 *   [react-avatar-generator (⭐67)](https://github.com/JosephSmith127/react-avatar-generator) - Generate fun kaleidoscope for user avatars.
 
-## [15. Awesome Meteor](/content/Urigo/awesome-meteor/README.md)
+## [14. Awesome Meteor](/content/Urigo/awesome-meteor/README.md)
 
 ### Deprecated / Community Newsletters
 

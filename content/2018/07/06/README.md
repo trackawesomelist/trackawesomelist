@@ -16,7 +16,7 @@
 
 ### App Routing
 
-*   [Crossroad (⭐415)](https://github.com/giginet/Crossroad) - :oncoming\_bus: Crossroad is an URL router focused on handling Custom URL Schemes.
+*   [Crossroad (⭐420)](https://github.com/giginet/Crossroad) - :oncoming\_bus: Crossroad is an URL router focused on handling Custom URL Schemes.
 
 ### Transition / Barcode
 
@@ -24,7 +24,7 @@
 
 ### UICollectionView / Barcode
 
-*   [SimpleSource (⭐98)](https://github.com/Squarespace/simple-source) - Easy and type-safe iOS table and collection views.
+*   [SimpleSource (⭐99)](https://github.com/Squarespace/simple-source) - Easy and type-safe iOS table and collection views.
 
 ## [3. Awesome Network Js](/content/Kikobeats/awesome-network-js/README.md)
 
@@ -51,7 +51,7 @@
 
 *   [Roboschool (⭐2.1k)](https://github.com/openai/roboschool) - Open-source software for robot simulation, integrated with OpenAI Gym.
 *   [Retro (⭐3.4k)](https://github.com/openai/retro) - Retro Games in Gym
-*   [SLM Lab (⭐1.2k)](https://github.com/kengz/SLM-Lab) - Modular Deep Reinforcement Learning framework in PyTorch.
+*   [SLM Lab (⭐1.3k)](https://github.com/kengz/SLM-Lab) - Modular Deep Reinforcement Learning framework in PyTorch.
 
 ## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -63,7 +63,7 @@
 
 ### Reading and Writing Tools / Office
 
-*   [LibreOffice](https://www.libreoffice.org) - LibreOffice is free and open-source software office software. Software is tested and used daily by a large and devoted user community. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://www.libreoffice.org/about-us/source-code/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [LibreOffice](https://www.libreoffice.org) - Free, open-source office software used and tested daily by a large community. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://www.libreoffice.org/about-us/source-code/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ---
 

@@ -23,23 +23,23 @@
 
 ### BitTorrent
 
-*   [jech/dht (⭐688)](https://github.com/jech/dht) - BitTorrent DHT library in C. \[MIT]
-*   [libtorrent (⭐5.1k)](https://github.com/arvidn/libtorrent) (a.k.a. libtorrent-rasterbar) - An efficient feature complete C++ bittorrent implementation. \[BSD]
-*   [LibTorrent (⭐884)](https://github.com/rakshasa/libtorrent) (a.k.a. libtorrent-rakshasa) - BitTorrent library. \[GPL]
+*   [jech/dht (⭐699)](https://github.com/jech/dht) - BitTorrent DHT library in C. \[MIT]
+*   [libtorrent (⭐5.3k)](https://github.com/arvidn/libtorrent) (a.k.a. libtorrent-rasterbar) - An efficient feature complete C++ bittorrent implementation. \[BSD]
+*   [LibTorrent (⭐900)](https://github.com/rakshasa/libtorrent) (a.k.a. libtorrent-rakshasa) - BitTorrent library. \[GPL]
 *   [libutp (⭐1.1k)](https://github.com/bittorrent/libutp) - uTorrent Transport Protocol library. \[MIT]
 
 ### Image Processing
 
-*   [GD (⭐888)](https://github.com/libgd/libgd) - GD Graphics Library, famously used in PHP for image loading/manipulation & thumbnail generation. \[custom permissive license, requires mention in user docs] [website](http://libgd.github.io/)
+*   [GD (⭐910)](https://github.com/libgd/libgd) - GD Graphics Library, famously used in PHP for image loading/manipulation & thumbnail generation. \[custom permissive license, requires mention in user docs] [website](http://libgd.github.io/)
 
 ### Logging
 
-*   [G3log (⭐901)](https://github.com/KjellKod/g3log) - Asynchronous logger with Dynamic Sinks. \[PublicDomain]
-*   [reckless (⭐486)](https://github.com/mattiasflodin/reckless) - Low-latency, high-throughput, asynchronous logging library for C++. \[MIT]
+*   [G3log (⭐911)](https://github.com/KjellKod/g3log) - Asynchronous logger with Dynamic Sinks. \[PublicDomain]
+*   [reckless (⭐491)](https://github.com/mattiasflodin/reckless) - Low-latency, high-throughput, asynchronous logging library for C++. \[MIT]
 
 ### Math
 
-*   [LibTomMath (⭐641)](https://github.com/libtom/libtommath) - A free open source portable number theoretic multiple-precision integer library written entirely in C. \[PublicDomain & WTFPL] [website](http://www.libtom.net/)
+*   [LibTomMath (⭐668)](https://github.com/libtom/libtommath) - A free open source portable number theoretic multiple-precision integer library written entirely in C. \[PublicDomain & WTFPL] [website](http://www.libtom.net/)
 
 ### Coding Style Tools
 

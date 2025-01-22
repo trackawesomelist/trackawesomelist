@@ -32,7 +32,7 @@
 
 ### Native Apps (open source)
 
-*   [Transportr (⭐1k)](https://github.com/grote/Transportr) An Android app that uses [public-transport-enabler (⭐378)](https://github.com/schildbach/public-transport-enabler) in order to connect to many different transport networks worldwide.
+*   [Transportr (⭐1.1k)](https://github.com/grote/Transportr) An Android app that uses [public-transport-enabler (⭐394)](https://github.com/schildbach/public-transport-enabler) in order to connect to many different transport networks worldwide.
 
 ## [5. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
 
@@ -120,7 +120,7 @@
 ### Open-source sites / Lists
 
 *   [Torchbox (⭐124)](https://github.com/torchbox/wagtail-torchbox) – Wagtail build of Torchbox.com.
-*   [Made with Wagtail (⭐84)](https://github.com/springload/madewithwagtail) - A showcase of sites and apps made with Wagtail CMS.
+*   [Made with Wagtail (⭐85)](https://github.com/springload/madewithwagtail) - A showcase of sites and apps made with Wagtail CMS.
 *   [OpenCanada.org (⭐14)](https://github.com/OpenCanada/website) – The opencanada.org website source.
 *   [Table Tennis Wellington Business Class (⭐5)](https://github.com/jordij/bctt.nz) – Website for the table tennis business league in Wellington NZ.
 *   [Jordi Joan’s blog (⭐20)](https://github.com/jordij/jordijoan.me) – Personal blog site using Wagtail CMS.
@@ -213,16 +213,16 @@ git ls-remote git://git.kernel.org/pub/scm/git/git.git
 
 ### Suggested Awesome Lists / Must Read
 
-*   [Falsehoods (⭐23k)](https://github.com/kdeldycke/awesome-falsehood) - A funny and educational list of why nothing in Software Development is ever easy. Think you can store a marriage in a DB?
-*   [Naughty Strings (⭐46k)](https://github.com/minimaxir/big-list-of-naughty-strings) - This is the famous list of Naughty Strings. If you're doing some field validation, look no further for inspiration.
-*   [Unicode (⭐881)](https://github.com/jagracey/Awesome-Unicode) - A great resource for learning how unicode works and the issues it can cause.
+*   [Falsehoods (⭐25k)](https://github.com/kdeldycke/awesome-falsehood) - A funny and educational list of why nothing in Software Development is ever easy. Think you can store a marriage in a DB?
+*   [Naughty Strings (⭐47k)](https://github.com/minimaxir/big-list-of-naughty-strings) - This is the famous list of Naughty Strings. If you're doing some field validation, look no further for inspiration.
+*   [Unicode (⭐920)](https://github.com/jagracey/Awesome-Unicode) - A great resource for learning how unicode works and the issues it can cause.
 
 ### Suggested Awesome Lists / Useful References
 
-*   [The Original (⭐301k)](https://github.com/sindresorhus/awesome) - The awesome list of awesome lists.
-*   [Application Security (⭐6.1k)](https://github.com/paragonie/awesome-appsec) - Incredibly extensive, but you'll find something to fit the bill.
-*   [Selenium (⭐984)](https://github.com/christian-bromann/awesome-selenium) - Better than searching Google if you know what you want.
-*   [Security (⭐12k)](https://github.com/sbilly/awesome-security) - This is mostly focused on Infrastructure, but if you're testing a series of systems, this is very useful.
+*   [The Original (⭐342k)](https://github.com/sindresorhus/awesome) - The awesome list of awesome lists.
+*   [Application Security (⭐6.4k)](https://github.com/paragonie/awesome-appsec) - Incredibly extensive, but you'll find something to fit the bill.
+*   [Selenium (⭐1k)](https://github.com/christian-bromann/awesome-selenium) - Better than searching Google if you know what you want.
+*   [Security (⭐13k)](https://github.com/sbilly/awesome-security) - This is mostly focused on Infrastructure, but if you're testing a series of systems, this is very useful.
 
 ## [22. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
 
@@ -495,15 +495,11 @@ git ls-remote git://git.kernel.org/pub/scm/git/git.git
 ### Articles & Posts
 
 *   [10 Lessons from 4 Years Working Remotely at Automattic](https://whenihavetime.com/2014/07/08/10-lessons-from-4-years-working-remotely/)
-*   [10 Secrets to Becoming a Great Remote Developer](https://x-team.com/blog/10-secrets-to-becoming-a-great-remote-developer/)
 *   [Andreessen-Incubated Teleport Aims To Make Location Irrelevant For Mobile Workers](https://techcrunch.com/2014/05/19/teleport/)
-*   [Give people the freedom of where to work](https://www.virgin.com/richard-branson/give-people-the-freedom-of-where-to-work)
 *   [How GitHub Works](https://zachholman.com/posts/how-github-works/)
 *   [It’s Unclearly Defined, but Telecommuting Is Fast on the Rise](https://www.nytimes.com/2014/03/08/your-money/when-working-in-your-pajamas-is-more-productive.html?_r=0)
 *   [Remote worker vs distributed team](https://opensource.com/life/11/11/remote-worker-vs-distributed-team)
 *   [To Raise Productivity, Let More Employees Work from Home](https://hbr.org/2014/01/to-raise-productivity-let-more-employees-work-from-home)
-*   [Why We (Still) Believe in Working Remotely](https://stackoverflow.blog/2013/02/why-we-still-believe-in-working-remotely/)
-*   [Working Remotely for Extroverts](https://hoppycow.com/2014/12/13/working-remotely-for-extroverts/)
 
 ### Videos
 
@@ -511,38 +507,25 @@ git ls-remote git://git.kernel.org/pub/scm/git/git.git
 
 ### Job boards
 
-*   [Flexjobs](https://www.flexjobs.com/) – Telecommuting Jobs & Professional Part-Time Jobs.
 *   [Hasjob](https://hasjob.co/) – Location filter -> "*Anywhere/Remote*"
 *   [HigherEdJobs](https://www.higheredjobs.com/search/remote.cfm) has remote type filter.
-*   [HN hiring](http://hnhiring.me/) – Filter REMOTE.
-*   [JOBBOX.io](https://landing.jobs/offers) – Filter -> Remote only.
 *   [Jobspresso](https://jobspresso.co/) \* High-quality remote positions that are open and legitimate \*
-*   [No Fluff Jobs](https://nofluffjobs.com/#criteria=remote) – Filter -> “*remote*”
 *   [Remote.co Jobs](https://remote.co/remote-jobs/)
 
 ### Housing
 
 *   [Nomad House](https://nomadhouse.io) - Global network of nomad housing
-*   [Roam](https://www.roam.co/) - Global network of coliving spaces
 *   [Work From Curacao](http://www.workfromcuracao.com/) - Coliving space in Curacao
 *   [Worldpackers](https://www.worldpackers.com) - Housing/work exchange
 
-### Interviewing
-
-*   [awesome-interviews (⭐68k)](https://github.com/MaximAbramchuck/awesome-interview-questions) - A curated awesome list of lists of interview questions
-
 ### Podcasts
 
-*   [Free People Move Podcast](https://teleport.org/podcast/) - mostly interviews with founders attacking the location independence / remote work space from different angles
 *   [Lessons from Distributed Companies](https://www.lullabot.com/podcasts/drupalizeme-podcast/lessons-from-distributed-companies)
 
 ### Companies with "remote DNA"
 
-*   [Articulate](https://articulate.com/company/careers.php) - EdTech. Makes software that helps teachers make e-learning courses. Ruby, Node, C#, and .NET for Windows app.
 *   [Avallain](https://www.avallain.com/) - Education Technology and Digital Publishing. We have the tools and processes to achieve the positive impact on human potential that technology enhanced education can provide
-*   [Canonical](https://www.canonical.com/careers/all-vacancies) - Ubuntu.
 *   [Collabora](https://www.collabora.com/careers.html) - Open source software-based consulting.
-*   [Doximity](https://www.doximity.com/about/jobs) - Largest online medical network of US physicians. Ruby, Rails, Go, JavaScript, MySQL.
 *   [Elastic](https://www.elastic.co/) - Open source search & analytics
 *   [Ghost](https://ghost.org/about/#careers) - Publishing platform.
 *   [Gigster](https://gigster.com/) - vetted network of top 5% freelancers worldwide. PM, Dev, Sales positions available.
@@ -551,23 +534,14 @@ git ls-remote git://git.kernel.org/pub/scm/git/git.git
 
 *   Remote.co: [Q\&A's with 90+ Remote Companies](https://remote.co/qa-leading-remote-companies/)
 
-### Communities
-
-*   [/r/telecommuting](https://www.reddit.com/r/telecommuting/) - Subreddit.
-
 ### Tools / Communication
 
-*   [Bluejeans](https://bluejeans.com/) video conferencing app, great for large groups & live streams
 *   [Codeshare.io](https://codeshare.io/) – Browser-based multi-user live code sharing with optional video chat.
 *   [Fleep](https://fleep.io/) - Internal chat and collaboration tool for development teams
-*   [Flowdock](https://www.flowdock.com/) – Browser-based group chat for teams. Integrates with GitHub, Jira, Jenkins etc.
 *   [IRCCloud](https://www.irccloud.com) – Browser-based IRC client with permanent storage.
-*   [Mumble](https://wiki.mumble.info/) Mumble is an open source voice chat software
 *   [Precursor](https://precursorapp.com) - Simple prototyping & brainstorming web app with real-time collaboration.
-*   [PukkaTeam](https://www.pukkateam.com) - Real team presence through regular automated selfies and one-click video calling
 *   [Skype](https://www.skype.com/) – Video calls.
 *   [Talky](https://talky.io/) — Truly simple video chat and screen sharing for groups
-*   [Zoom](https://zoom.us) — High-quality group video and sharing screen, run on linux, record session and support telephone calls.
 
 ### Tools / Project Management
 
@@ -577,13 +551,11 @@ git ls-remote git://git.kernel.org/pub/scm/git/git.git
 
 *   [Coffitivity](https://coffitivity.com/) - Coffitivity recreates the ambient sounds of a cafe to boost your creativity and help you work better.
 *   [Noisli](https://www.noisli.com/) - Noisli has a list of diferent ambient sounds that can be combined to boost creativity and focus.
-*   [Teleport Sundial](https://sundial.teleport.org) - Manage the locations and timezones of your distributed team.
 
 ### Others / Others
 
 *   [Hacker Spaces](https://wiki.hackerspaces.org/List_of_Hacker_Spaces) - List of hacker spaces.
 *   [LiquidSpace](https://liquidspace.com/) - Daily & Hourly Office & Meeting Room Rental.
-*   [Nomad List](https://nomadlist.io/) - Compare cost and quality of living in different cities.
 *   [WorkFrom](https://workfrom.co/) - Find coffee shops that are good to work from.
 
 ## [30. Awesome Fuse](/content/fuse-compound/awesome-fuse/week/README.md)
@@ -633,7 +605,7 @@ git ls-remote git://git.kernel.org/pub/scm/git/git.git
 
 ### Libraries / Lenses
 
-*   [partial.lenses (⭐905)](https://github.com/calmm-js/partial.lenses) – Partial lenses is a comprehensive, high-performance optics library for JavaScript.
+*   [partial.lenses (⭐918)](https://github.com/calmm-js/partial.lenses) – Partial lenses is a comprehensive, high-performance optics library for JavaScript.
 
 ## [34. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
@@ -745,24 +717,24 @@ Free
 
 ### API Builder and Discovery
 
-*   [Spyke (⭐899)](https://github.com/balvig/spyke) - Interact with REST services in an ActiveRecord-like manner.
+*   [Spyke (⭐902)](https://github.com/balvig/spyke) - Interact with REST services in an ActiveRecord-like manner.
 
 ### CLI Utilities
 
 *   [formatador (⭐451)](https://github.com/geemus/formatador) - STDOUT text formatting.
-*   [Ru (⭐404)](https://github.com/tombenner/ru) - Ruby in your shell.
+*   [Ru (⭐402)](https://github.com/tombenner/ru) - Ruby in your shell.
 *   [Terminal Table (⭐1.5k)](https://github.com/tj/terminal-table) - Ruby ASCII Table Generator, simple and feature rich.
 *   [Tmuxinator (⭐13k)](https://github.com/tmuxinator/tmuxinator) - Create and manage complex tmux sessions easily.
 
 ### Code Highlighting
 
-*   [CodeRay (⭐845)](https://github.com/rubychan/coderay) - Fast and easy syntax highlighting for selected languages.
-*   [pygments.rb (⭐572)](https://github.com/tmm1/pygments.rb) - A Ruby wrapper for the Python pygments syntax highlighter.
+*   [CodeRay (⭐846)](https://github.com/rubychan/coderay) - Fast and easy syntax highlighting for selected languages.
+*   [pygments.rb (⭐571)](https://github.com/tmm1/pygments.rb) - A Ruby wrapper for the Python pygments syntax highlighter.
 *   [Rouge (⭐3.3k)](https://github.com/jneen/rouge) - A pure Ruby code highlighter that is compatible with Pygments.
 
 ### Database Tools
 
-*   [Polo (⭐773)](https://github.com/IFTTT/polo) - Creates sample database snapshots to work with real world data in development.
+*   [Polo (⭐776)](https://github.com/IFTTT/polo) - Creates sample database snapshots to work with real world data in development.
 
 ### Debugging Tools
 
@@ -771,7 +743,7 @@ Free
 ### Feature Flippers and A/B Testing
 
 *   [Motorhead (⭐181)](https://github.com/amatsuda/motorhead) - A Rails Engine framework that helps safe and rapid feature prototyping.
-*   [flipper (⭐3.6k)](https://github.com/jnunemaker/flipper) - Feature flipping for ANYTHING. Make turning features on/off so easy that everyone does it. Whatever your data store, throughput, or experience.
+*   [flipper (⭐3.7k)](https://github.com/jnunemaker/flipper) - Feature flipping for ANYTHING. Make turning features on/off so easy that everyone does it. Whatever your data store, throughput, or experience.
 *   [Rollout (⭐2.9k)](https://github.com/FetLife/rollout) - Feature flippers.
 *   [Split (⭐2.7k)](https://github.com/splitrb/split) - Rack Based AB testing framework.
 *   [Vanity (⭐1.5k)](https://github.com/assaf/vanity) - an A/B testing framework for Rails that is datastore agnostic.

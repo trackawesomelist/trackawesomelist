@@ -16,7 +16,7 @@
 
 ### I18n
 
-*   🍰 [Cake/Localized plugin (⭐213)](https://github.com/cakephp/localized) - Localized validation and ready-to-use translation PO files.
+*   [Cake/Localized plugin (⭐211)](https://github.com/cakephp/localized) - Localized validation and ready-to-use translation PO files.
 
 ## [3. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
@@ -35,7 +35,7 @@
 
 ### Tools
 
-*   [k6 generator (⭐21k)](https://github.com/OpenAPITools/openapi-generator) - Tool for converting Swagger/OpenAPI specifications to k6 test scripts.
+*   [k6 generator (⭐22k)](https://github.com/OpenAPITools/openapi-generator) - Tool for converting Swagger/OpenAPI specifications to k6 test scripts.
 
 ## [6. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
@@ -58,7 +58,7 @@
 *   [ascon-spark (⭐3)](https://github.com/jhumphry/Ascon_SPARK) - Ada/SPARK implementation of the Ascon Authenticated Encryption with Additional Data Algorithm.
 *   [spark-sip-hash (⭐5)](https://github.com/jhumphry/SPARK_SipHash) - Ada/SPARK implementation of the SipHash keyed hash function.
 *   [spark-norx (⭐8)](https://github.com/jhumphry/SPARK_NORX) - Ada/SPARK implementation of the NORX Authenticated Encryption with Additional Data Algorithm.
-*   [stotp (⭐7)](https://github.com/jklmnn/STOTP) - Timed One-Time-Pad (RFC 6238) implementation in SPARK.
+*   [stotp (⭐8)](https://github.com/jklmnn/STOTP) - Timed One-Time-Pad (RFC 6238) implementation in SPARK.
 *   [xxhash-ada (⭐1)](https://github.com/lyarbean/xxhash-ada) - Extremely fast non-cryptographic Hash algorithm, xxhash is working at speeds close to RAM limits.
 
 ## [7. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
@@ -71,7 +71,7 @@
 
 ### Toolchains
 
-*   [Arduino-CMake-Toolchain (⭐106)](https://github.com/a9183756-gh/Arduino-CMake-Toolchain) - CMake toolchain for all official and 3rd party Arduino platforms. [`[MIT]`](https://opensource.org/licenses/MIT)
+*   [Arduino-CMake-Toolchain (⭐136)](https://github.com/a9183756-gh/Arduino-CMake-Toolchain) - CMake toolchain for all official and 3rd party Arduino platforms. [`[MIT]`](https://opensource.org/licenses/MIT)
 
 ## [9. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
 

@@ -10,11 +10,11 @@
 
 ### Utility / Docker Container Actions
 
-*   [Action to enforce branch naming rules (⭐50)](https://github.com/deepakputhraya/action-branch-name)
+*   [Action to enforce branch naming rules (⭐77)](https://github.com/deepakputhraya/action-branch-name)
 
 ### Pull Requests / Code Coverage
 
-*   [Enforce naming convention on pull request title (⭐80)](https://github.com/deepakputhraya/action-pr-title)
+*   [Enforce naming convention on pull request title (⭐125)](https://github.com/deepakputhraya/action-pr-title)
 
 ## [2. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 

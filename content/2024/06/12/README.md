@@ -12,7 +12,7 @@
 
 *   [nx](https://nx.dev/nx-api/angular) - The Nx Plugin for Angular contains executors, generators, and utilities for managing Angular applications and libraries within an Nx workspace. It also enables using Angular Devkit builders and schematics in Nx workspaces.
 *   [workik](https://workik.com/angular-code-generator) - AI Angular code generator that supports all Angular frameworks and libraries.
-*   [generator-jhipster-ionic (⭐190)](https://github.com/jhipster/generator-jhipster-ionic) - You can use it to generate an Ionic app that talks to a JHipster backend.
+*   [generator-jhipster-ionic (⭐194)](https://github.com/jhipster/generator-jhipster-ionic) - You can use it to generate an Ionic app that talks to a JHipster backend.
 
 ### Spring Boot / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -24,7 +24,7 @@
 
 ### QR Codes / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [angularx-qrcode (⭐461)](https://github.com/cordobo/angularx-qrcode) - A fast and easy-to-use Ivy compatible Ionic and Angular QR Code Generator library.
+*   [angularx-qrcode (⭐481)](https://github.com/cordobo/angularx-qrcode) - A fast and easy-to-use Ivy compatible Ionic and Angular QR Code Generator library.
 
 ## [2. Magictools](/content/ellisonleao/magictools/README.md)
 
@@ -43,7 +43,7 @@
 
 ### Utility / Diagnostics
 
-*   [ysmb-wtsg/in-and-out.nvim (⭐37)](https://github.com/ysmb-wtsg/in-and-out.nvim) - Quick navigation in and out of surrounding characters.
+*   [ysmb-wtsg/in-and-out.nvim (⭐65)](https://github.com/ysmb-wtsg/in-and-out.nvim) - Quick navigation in and out of surrounding characters.
 
 ### Code Runner / Diagnostics
 

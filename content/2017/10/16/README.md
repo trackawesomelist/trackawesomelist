@@ -171,7 +171,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [CNTK (⭐17k)](https://github.com/Microsoft/CNTK) - Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit. Documentation can be found [here](https://docs.microsoft.com/cognitive-toolkit/).
+*   [CNTK (⭐18k)](https://github.com/Microsoft/CNTK) - Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit. Documentation can be found [here](https://docs.microsoft.com/cognitive-toolkit/).
 
 ---
 

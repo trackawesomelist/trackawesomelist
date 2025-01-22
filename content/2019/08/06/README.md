@@ -65,13 +65,9 @@
 
 *   [mousestats.com](https://www.mousestats.com/) — 100 sessions/month free for one website
 
-### Miscellaneous
-
-*   [fullcontact.com](https://www.fullcontact.com/developer/pricing/) — Help your users know more about their contacts by adding social profile to your app. 500 free Person API matches/month
-
 ## [5. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
 
-### Courses
+### Courses / Commerical Tools
 
 *   [Elements of AI (Part 1) - Reaktor/University of Helsinki](https://www.elementsofai.com/) - An Introduction to AI is a free online course for everyone interested in learning what AI is, what is possible (and not possible) with AI, and how it affects our lives – with no complicated math or programming required.
 

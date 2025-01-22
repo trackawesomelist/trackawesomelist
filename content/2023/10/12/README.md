@@ -165,21 +165,21 @@
 
 ### Software / Media Streaming - Video Streaming
 
-*   [Owncast](https://owncast.online/) - Decentralized single-user live video streaming and chat server for running your own live streams similar in style to the large mainstream options. ([Source Code (⭐9.2k)](https://github.com/owncast/owncast)) `MIT` `Go`
+*   [Owncast](https://owncast.online/) - Decentralized single-user live video streaming and chat server for running your own live streams similar in style to the large mainstream options. ([Source Code (⭐9.7k)](https://github.com/owncast/owncast)) `MIT` `Go`
 
 ## [3. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Remote Development / Diagnostics
 
-*   [niuiic/remote.nvim (⭐35)](https://github.com/niuiic/remote.nvim) - Edit remote files with local configuration.
+*   [niuiic/remote.nvim (⭐42)](https://github.com/niuiic/remote.nvim) - Edit remote files with local configuration.
 
 ## [4. Awesome Bash](/content/awesome-lists/awesome-bash/README.md)
 
 ### Shell Script Development
 
-*   [bats (⭐4.8k)](https://github.com/bats-core/bats-core) - Bash Automated Testing System.
+*   [bats (⭐4.9k)](https://github.com/bats-core/bats-core) - Bash Automated Testing System.
 *   [bunit (⭐196)](https://github.com/rafritts/bunit) - A unit testing framework for Bash scripts.
-*   [modernish (⭐739)](https://github.com/modernish/modernish) - Library with various features for shell scripting.
+*   [modernish (⭐744)](https://github.com/modernish/modernish) - Library with various features for shell scripting.
 
 ## [5. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -240,24 +240,6 @@
 | Players | Min. Age |    Time |
 | ------: | -------: | ------: |
 |   2 - 4 |       12 | 75-150m |
-### [Through the Ages: A New Story of Civilization](https://boardgamegeek.com/boardgame/182028/through-ages-new-story-civilization)
-
-> Through the Ages: A New Story of Civilization is a strategic board game that combines elements of card drafting, civilization building, and resource management. In this digital implementation, players guide their civilizations through the ages, from antiquity to the modern era, focusing on advancements in technology, the construction of wonders, and the development of a strong military. Weaker aspects of a player's civilization can be exploited by opponents, making military strength a vital component. Victory is achieved by accumulating the most culture by the end of the modern age. With its deep gameplay and historical context, Through the Ages offers a challenging and immersive strategy experience for players aiming to build the most prosperous civilization.
-
-![Through the Ages: A New Story of Civilization image](https://cf.geekdo-images.com/fVwPntkJKgaEo0rIC0RwpA__itemrep/img/TF5TpehpgE7XvNSRzSSWjnYCbLc=/fit-in/246x300/filters:strip_icc\(\)/pic2663291.jpg)
-
-| Players | Min. Age | Time |
-| ------: | -------: | ---: |
-|   2 - 4 |       14 | 120m |
-### [The Castles of Burgundy](https://boardgamegeek.com/boardgame/84876/castles-burgundy)
-
-> The Castles of Burgundy is an immersive board game set in the Burgundy region of High Medieval France. Players assume the roles of aristocrats seeking to expand their princedoms by building settlements, constructing formidable castles, engaging in river trade, exploiting silver mines, and harnessing the knowledge of travelers. The core gameplay revolves around selecting settlement tiles from the game board and placing them onto a personal player board, with each tile having a unique function. These tiles must be placed in regions that match their type. The game unfolds in five phases, each comprising five rounds. Players roll dice at the start of each round, with one player determining the availability of goods tiles. On their turns, players can perform two of four possible actions: taking settlement tiles from the game board, placing tiles on their player board, delivering goods, or obtaining worker tokens to adjust dice rolls. Bonus points are awarded for various accomplishments, and the game concludes after the fifth phase. Victory points are tallied, and the player with the most points emerges as the winner. With both basic and advanced rules, The Castles of Burgundy offers a deep and engaging gameplay experience, and it is part of the Alea big box series.
-
-![The Castles of Burgundy image](https://cf.geekdo-images.com/5CFwjd8zTcGYVUnkXh04hw__itemrep/img/GLJxEMRq5M4T9BZGcZ6xtDzj5OQ=/fit-in/246x300/filters:strip_icc\(\)/pic1176894.jpg)
-
-| Players | Min. Age |   Time |
-| ------: | -------: | -----: |
-|   2 - 4 |       12 | 30-90m |
 ### [Brass: Lancashire](https://boardgamegeek.com/boardgame/28720/brass-lancashire)
 
 > Brass: Lancashire, formerly known as Brass, is an engaging economic strategy game that immerses players in the competitive world of cotton entrepreneurs during the industrial revolution in Lancashire. The objective is to develop, construct, and expand your industrial network to meet the high demand for iron, coal, and cotton. The game unfolds in two phases, the canal phase, and the rail phase, with victory points (VPs) being the ultimate goal. Players take turns, with each round offering two actions to choose from a set list, which includes building industries, constructing canals or rails, developing industries, selling cotton, or taking a loan. The turn order depends on the amount of money spent, creating strategic opportunities for those who go later in the order. After the canal phase, a scoring round occurs, followed by the rail phase with expanded building possibilities. After another scoring round, the game concludes, and the winner is determined. The game's unique card system dictates where industries can be built while allowing flexible use for other actions, encouraging strategic card management. Resources are shared, adding depth to competition, as players often rely on each other's production. This 2018 edition by Roxley Games features new artwork and rules enhancements, making it a captivating and improved experience for players aiming to build the most prosperous industrial empire in Lancashire.
@@ -267,15 +249,6 @@
 | Players | Min. Age |    Time |
 | ------: | -------: | ------: |
 |   2 - 4 |       14 | 60-120m |
-### [Eclipse: Second Dawn Galaxy](https://boardgamegeek.com/boardgame/246900/eclipse-second-dawn-galaxy)
-
-> A game of Eclipse places you in control of a vast interstellar civilization, competing for success with its rivals. You explore new star systems, research technologies, and build spaceships with which to wage war. There are many potential paths to victory, so you need to plan your strategy according to the strengths and weaknesses of your species, while paying attention to the other civilizations' endeavors.
-
-![Eclipse: Second Dawn Galaxy image](https://cf.geekdo-images.com/Oh3kHw6lweg6ru71Q16h2Q__itemrep/img/1flTGokf8uwox72PWvkNq3kOhMM=/fit-in/246x300/filters:strip_icc\(\)/pic5235277.jpg)
-
-| Players | Min. Age |    Time |
-| ------: | -------: | ------: |
-|   2 - 6 |       14 | 60-200m |
 ### [Android: Netrunner](https://boardgamegeek.com/boardgame/124742/android-netrunner)
 
 > Android: Netrunner is a strategic asymmetrical Living Card Game for two players set in a cyberpunk future. One player represents a powerful megacorporation aiming to score agendas by advancing them, protected by a web of security ice programs, while the other player assumes the role of a lone hacker, or runner, attempting to infiltrate and disrupt the corporation's plans by acquiring resources, hardware, and ice-breaker programs. With a goal of reaching seven points, players face high-stakes risks, including brain damage and bad publicity, in their quest for victory in this futuristic battle for control and information.
@@ -294,17 +267,6 @@
 | Players | Min. Age | Time |
 | ------: | -------: | ---: |
 |       2 |        9 |  30m |
-### [Field of Fire](https://boardgamegeek.com/boardgame/22877/fields-fire)
-
-> Fields of Fire is a solitaire tactical wargame published by GMT Games, designed to simulate historical campaigns from World War II to the present day. The game revolves around a card-based system, employing two decks—the terrain deck and action decks. Players are tasked with constructing maps for various missions within a historical campaign, employing turn-based strategic actions to achieve their objectives. A single game comprises several missions, each lasting approximately 3 to 5 hours. Fields of Fire has received recognition for its excellence, including Games Magazine's award for Best New Historical Simulation Game in their 2010 Games 100 issue. It offers a deep and immersive strategic experience for players interested in historical warfare simulations.
-
-![Field of Fires](https://cf.geekdo-images.com/I6mylmwz8JSzMTL_1QJVeQ__itemrep/img/qRkrmdPBOZjxKXk5qzx6OEeU7PA=/fit-in/246x300/filters:strip_icc\(\)/pic406760.jpg)
-
-| Players | Min. Age |    Time |
-| ------: | -------: | ------: |
-|       1 |       12 | 60-300m |
-
-<!--lint ignore no-heading-punctuation-->
 ### [Brass: Birmingham](https://boardgamegeek.com/boardgame/224517/brass-birmingham)
 
 > Brass: Birmingham is an intricate economic strategy game, serving as the sequel to Martin Wallace's classic Brass, and it immerses players in the dynamic world of Birmingham during the industrial revolution, spanning the years 1770-1870. In this game, players compete as entrepreneurs, striving to build, develop, and expand their industries and networks to capitalize on the shifting demands of the market. Actions in each round include building industries, expanding networks, developing industry value, selling goods through a new trader system, and even taking loans when necessary. The game unfolds in two eras, the canal era and the rail era, with the goal of accumulating the most victory points. Birmingham introduces strategic complexity with the addition of breweries, a range of manufactured goods, and pottery industries, along with a modified market for coal and iron. This sequel offers a fresh, captivating narrative and gameplay experience while retaining the essence of its predecessor, Brass.
@@ -326,15 +288,6 @@
 
 ### Party
 
-### [Wits & Wagers](https://boardgamegeek.com/boardgame/20100/wits-wagers)
-
-> Not a trivia buff? It doesn't matter! In Wits & Wagers, each player writes a guess to a question such as “In what year did the bikini swimsuit makes its first appearance?” or “How many feet wide is an NFL football field?” and places it face-up on the betting mat. Think you know the answer? Bet on your guess. Think you know who the experts are? Bet on their guess. The closest answer — without going over — pays out according to the odds on the betting mat. Strike it big and you'll be cheering like you just hit the jackpot! Wits & Wagers is a trivia game that lets you bet on anyone's answer. So you can win by making educated guesses, by playing the odds, or by knowing the interests of your friends. It can be taught in 2 minutes, played in 25 minutes, and accommodates up to 20 people in teams.
-
-![Wits & Wagers image](https://cf.geekdo-images.com/TxojLHTFHfBOBAk9MQSyLg__itemrep/img/HoSHsIveJn0jvXHUeM5x3-iGf44=/fit-in/246x300/filters:strip_icc\(\)/pic2558555.jpg)
-
-| Players | Min. Age | Time |
-| ------: | -------: | ---: |
-|   3 - 7 |       10 |  25m |
 ### [Just One](https://boardgamegeek.com/boardgame/254640/just-one)
 
 > Just One is a cooperative party game in which you play together to discover as many mystery words as possible. Find the best clue to help your teammate. Be unique, as all identical clues will be cancelled! A complete game is played over 13 cards. The goal is to get a score as close to 13 as possible. In case of a right answer, the players score 1 point. In case of wrong answer, they lose the current card as well as the top card of the deck. Thus losing 2 points. In case of lack of answer, the players only lose the current card, and therefore only 1 point. You have the choice – make the difference!
@@ -344,15 +297,6 @@
 | Players | Min. Age |     Time |
 | ------: | -------: | -------: |
 |   3 - 7 |        8 | 20 - 60m |
-### [Blood on the Clocktower](https://boardgamegeek.com/boardgame/240980/blood-clocktower)
-
-> Blood on the Clocktower is a bluffing game enjoyed by 5 to 20 players on opposing teams of Good and Evil, overseen by a Storyteller player who conducts the action and makes crucial decisions. The goal of the game is to successfully deduce and execute the demons before they outnumber the townfolk. During a 'day' phase players socialize openly and whisper privately to trade knowledge or spread lies, culminating in a player's execution if a majority suspects them of being Evil. Of a 'night' time, players close their eyes and are woken one at a time by the Storyteller to gather information, spread mischief, or kill. The Storyteller uses the game's intricate playing pieces to guide each game, leaving others free to play without a table or board. Players stay in the thick of the action to the very end even if their characters are killed, haunting Ravenswood Bluff as ghosts trying to win from beyond the grave. If you arrive late to a game, you can enter after it's started as a powerful Traveller character with unusual talents and questionable allegiances. Each character comes with their own special ability and no two players in a game are ever the same character.
-
-![Blood on the clocktower img](https://cf.geekdo-images.com/HINb2nkFn5IiZxAlzQIs4g__itemrep/img/ji9nruIqJkNi8omWgNRZKmrZjwA=/fit-in/246x300/filters:strip_icc\(\)/pic7009391.jpg)
-
-| Players | Min. Age |    Time |
-| ------: | -------: | ------: |
-|    5-20 |       15 | 30-120m |
 ### [Snake Oil](https://boardgamegeek.com/boardgame/113289/snake-oil)
 
 > In the Old West, the wily snake oil salesman had a special talent, getting the most skeptical customers to buy the most dubious products. Now it's your turn! Invent your own zany two-word products – Rumor Mirror! Burp Balloon! – and sell them to all types of wacky customers. If the round's customer buys your product, you win the round! To set up Snake Oil, each player takes six purple word cards. The customer for the round draws a customer card and announces it. Inventors quickly combine two purple word cards from their hand to form a crazy new product to sell to that customer. When ready, each inventor quickly pitches his or her product directly to the customer. The customer can end any pitch that goes longer than thirty seconds. The customer decides which product to buy and gives the inventor of that product the round's customer card as the prize. Inventors discard all used word cards and take two new word cards each. The player to the left of the customer becomes the next round's customer. Play repeats until each player has been the customer once. Whoever collects the most customer cards wins the game.
@@ -369,11 +313,11 @@
 
 *   [Conceptual Framework for Autonomous Cognitive Entities](https://arxiv.org/abs/2310.06775): a paper that "introduces the Autonomous Cognitive Entity (ACE) model, a novel framework for a cognitive architecture, enabling machines and software agents to operate more independently"
 *   [Mindstorms in Natural Language-Based Societies of Mind](https://arxiv.org/abs/2305.17066): a paper that evaluates the natural language-based societies of mind (NLSOMs), leveraging mindstorms in them to solve some practical AI tasks
-*   [AutoGen | Microsoft](https://microsoft.github.io/autogen/): multi-agent conversation framework as a high-level abstraction by Microsoft \[[github (⭐30k)](https://github.com/microsoft/autogen)]
+*   [AutoGen | Microsoft](https://microsoft.github.io/autogen/): multi-agent conversation framework as a high-level abstraction by Microsoft \[[github (⭐38k)](https://github.com/microsoft/autogen)]
 
 ### Autonomous LLM Agents / Multi-agents
 
-*   [OpenBMB/ChatDev (⭐25k)](https://github.com/OpenBMB/ChatDev): create customized software using natural language idea (through llm-powered multi-agent collaboration)
+*   [OpenBMB/ChatDev (⭐26k)](https://github.com/OpenBMB/ChatDev): create customized software using natural language idea (through llm-powered multi-agent collaboration)
 
 ## [8. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 

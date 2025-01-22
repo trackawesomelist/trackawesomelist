@@ -10,11 +10,11 @@
 
 ### Database Drivers
 
-*   [SQLite3 (⭐750)](https://github.com/sparklemotion/sqlite3-ruby) - Ruby bindings for the SQLite3 embedded database.
+*   [SQLite3 (⭐781)](https://github.com/sparklemotion/sqlite3-ruby) - Ruby bindings for the SQLite3 embedded database.
 
 ### ORM/ODM
 
-*   [ActiveRecord (⭐55k)](https://github.com/rails/rails/tree/master/activerecord) - Object-relational mapping in Rails.
+*   [ActiveRecord (⭐56k)](https://github.com/rails/rails/tree/master/activerecord) - Object-relational mapping in Rails.
 
 ### Video
 

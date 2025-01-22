@@ -36,13 +36,13 @@
 
 ### Utilities
 
-*   [v-nodejs-addon (⭐3)](https://github.com/fanlia/v-nodejs-addon) - An demo of how to create a Node.js addon with V.
+*   [v-nodejs-addon (⭐6)](https://github.com/fanlia/v-nodejs-addon) - An demo of how to create a Node.js addon with V.
 
 ## [6. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
 
 ### CI/CD / Other
 
-*   [dockcheck (⭐886)](https://github.com/mag37/dockcheck) - A script checking updates for docker images without pulling then auto-update selected/all containers. With notifications, pruning and more.
+*   [dockcheck (⭐1.1k)](https://github.com/mag37/dockcheck) - A script checking updates for docker images without pulling then auto-update selected/all containers. With notifications, pruning and more.
 
 ---
 

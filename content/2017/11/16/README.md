@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 16, 2017
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -39,7 +39,7 @@
 
 ### Localization
 
-*   [pt\_BR (⭐68)](https://github.com/rafaelstz/traducao_magento2_pt_br) 🇧🇷 - Portuguese Brazil Language Package.
+*   [pt\_BR (⭐71)](https://github.com/rafaelstz/traducao_magento2_pt_br) 🇧🇷 - Portuguese Brazil Language Package.
 
 ## [6. Awesome Rails](/content/gramantin/awesome-rails/README.md)
 
@@ -53,25 +53,19 @@
 
 *   [Integration of inspectIT into a Sping Boot or Java application](https://www.youtube.com/watch?v=x0fnYSANIFk) - Tutorial on integrating an inspectIT agent into a Spring (Boot) or Java application.
 
-## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Projects Using Vue.js / Open Source
-
-*   [AmmoBin.ca (⭐19)](https://github.com/ammobinDOTca/ammobin-client) - meta search site for online ammo prices across Canada
-
-## [9. Amas](/content/sindresorhus/amas/README.md)
+## [8. Amas](/content/sindresorhus/amas/README.md)
 
 ### Ask these people anything!
 
 *   [Honza Bittner (⭐1)](https://github.com/tenhobi/ama) - Student at FIT CTU, Dart lover.
 
-## [10. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
+## [9. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
 
 ### Blog posts
 
 *   [Why TensorFlow will change the Game for AI](https://archive.fo/o9asj)
 
-## [11. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [10. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### XML
 
@@ -87,16 +81,16 @@
 
 ### UI / Barcode
 
-*   [Mandoline (⭐893)](https://github.com/blueapron/Mandoline) - An iOS picker view to serve all your 'picking' needs.
+*   [Mandoline (⭐894)](https://github.com/blueapron/Mandoline) - An iOS picker view to serve all your 'picking' needs.
 
 ### Menu / Barcode
 
-*   [FlowingMenu (⭐975)](https://github.com/yannickl/FlowingMenu) - Interactive view transition to display menus with flowing and bouncing effects.
+*   [FlowingMenu (⭐974)](https://github.com/yannickl/FlowingMenu) - Interactive view transition to display menus with flowing and bouncing effects.
 *   [HHFloatingView (⭐95)](https://github.com/hemangshah/HHFloatingView) - An easy to use and setup floating view for your app.
 
 ### UICollectionView / Barcode
 
-*   [CardsLayout (⭐843)](https://github.com/filletofish/CardsLayout) - Nice card-designed custom CollectionView layout.
+*   [CardsLayout (⭐855)](https://github.com/filletofish/CardsLayout) - Nice card-designed custom CollectionView layout.
 
 ---
 

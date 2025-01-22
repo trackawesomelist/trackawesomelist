@@ -25,7 +25,7 @@
 *   [Adminer](https://www.adminer.org/) - Database management in a single PHP file.
 *   [Cachet (⭐14k)](https://github.com/cachethq/cachet) - The open source status page system.
 *   [Lychee (⭐6.3k)](https://github.com/electerious/Lychee) - An easy to use and great looking photo-management-system.
-*   [PHP Queue (⭐662)](https://github.com/CoderKungfu/php-queue) - An application for managing queueing backends.
+*   [PHP Queue (⭐665)](https://github.com/CoderKungfu/php-queue) - An application for managing queueing backends.
 *   [phpRedisAdmin (⭐3.1k)](https://github.com/ErikDubbelboer/phpRedisAdmin) - A simple web interface to manage [Redis](https://redis.io/) databases.
 *   [PHPSandbox](https://phpsandbox.io) - An online IDE for PHP in the browser.
 
@@ -33,14 +33,14 @@
 
 ### Tools / Collection View Layout
 
-*   [Rugby (⭐674)](https://github.com/swiftyfinch/Rugby) - 🏈 Cache CocoaPods for faster rebuild and indexing Xcode project.
+*   [Rugby (⭐695)](https://github.com/swiftyfinch/Rugby) - 🏈 Cache CocoaPods for faster rebuild and indexing Xcode project.
 
 ## [5. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
 
 ### Examples
 
-*   [alichtman/shallow-backup (⭐1.2k)](https://github.com/alichtman/shallow-backup#readme) - Clear description of what the project does. GIF Demo. TOC for easy navigation. Badges. Links for further reading. Simple install instructions.
-*   [aregtech/areg-sdk (⭐253)](https://github.com/aregtech/areg-sdk#readme) - Logo. Multiple info and statistics badges. List of contributors and stargazers with pictures. TOC and "Back to top" links for easy navigation. Headlines with graphics. Topic hide/show menu. Project description and philosophy. Clone and integration instructions. Quick build with multiple tools. Tools configuration instructions. Reference to examples and Demo projects. Reference to use cases. References to guidance and Wiki pages. Links with badges to contact. Links with badges to share the project on social networks.
+*   [alichtman/shallow-backup (⭐1.3k)](https://github.com/alichtman/shallow-backup#readme) - Clear description of what the project does. GIF Demo. TOC for easy navigation. Badges. Links for further reading. Simple install instructions.
+*   [aregtech/areg-sdk (⭐288)](https://github.com/aregtech/areg-sdk#readme) - Logo. Multiple info and statistics badges. List of contributors and stargazers with pictures. TOC and "Back to top" links for easy navigation. Headlines with graphics. Topic hide/show menu. Project description and philosophy. Clone and integration instructions. Quick build with multiple tools. Tools configuration instructions. Reference to examples and Demo projects. Reference to use cases. References to guidance and Wiki pages. Links with badges to contact. Links with badges to share the project on social networks.
 
 ## [6. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
@@ -73,17 +73,17 @@
 
 ### Applications / System tools
 
-*   [dalance/procs (⭐5k)](https://github.com/dalance/procs) - A modern replacement for 'ps' [![Regression](https://github.com/dalance/procs/actions/workflows/regression.yml/badge.svg)](https://github.com/dalance/procs/actions/workflows/regression.yml)
+*   [dalance/procs (⭐5.3k)](https://github.com/dalance/procs) - A modern replacement for 'ps' [![Regression](https://github.com/dalance/procs/actions/workflows/regression.yml/badge.svg)](https://github.com/dalance/procs/actions/workflows/regression.yml)
 
 ## [10. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### JavaScript Engines
 
-*   [YantraJS (⭐195)](https://github.com/yantrajs/yantra) - JavaScript Runtime (Similar to NodeJS) for .NET Standard, compiles JavaScript to IL, support for many ES6 features, generators, CommonJS modules, CSX modules and expression compiler.
+*   [YantraJS (⭐236)](https://github.com/yantrajs/yantra) - JavaScript Runtime (Similar to NodeJS) for .NET Standard, compiles JavaScript to IL, support for many ES6 features, generators, CommonJS modules, CSX modules and expression compiler.
 
 ### Misc
 
-*   [Build Versioning (⭐57)](https://github.com/TurnerSoftware/BuildVersioning) - Simple build versioning for .NET, powered by Git tags
+*   [Build Versioning (⭐59)](https://github.com/TurnerSoftware/BuildVersioning) - Simple build versioning for .NET, powered by Git tags
 
 ## [11. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 

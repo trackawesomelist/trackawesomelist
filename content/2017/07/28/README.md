@@ -17,7 +17,7 @@
 
 ### Libraries
 
-*   [zen-signals (⭐51)](https://github.com/joaomilho/zen-signals) – ☯ The simplest signal library possible
+*   [zen-signals (⭐53)](https://github.com/joaomilho/zen-signals) – ☯ The simplest signal library possible
 
 ### Functional Languages that Compile to JavaScript / Lenses
 
@@ -207,7 +207,7 @@
 
 ### Animation
 
-*   [Gemini (⭐3.2k)](https://github.com/shoheiyokoyama/Gemini) - Gemini is rich scroll based animation framework.
+*   [Gemini (⭐3.3k)](https://github.com/shoheiyokoyama/Gemini) - Gemini is rich scroll based animation framework.
 
 ## [12. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
 

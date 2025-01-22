@@ -5986,7 +5986,7 @@
 
 ### Creating a new Plugin
 
-*   Consider using our [Template (⭐98)](https://github.com/asdf-vm/asdf-plugin-template) which has the core functionality to tools published to GitHub releases and CI for GitHub/GitLab/CircleCI out of the box.
+*   Consider using our [Template (⭐108)](https://github.com/asdf-vm/asdf-plugin-template) which has the core functionality to tools published to GitHub releases and CI for GitHub/GitLab/CircleCI out of the box.
 
 ### Contributing a new Plugin / `asdf-community`
 
@@ -5996,13 +5996,13 @@
 
 ### Plugins / Frameworks
 
-*   [Custom Elements (⭐57)](https://github.com/github/eslint-plugin-custom-elements) - Rules by GitHub for Custom Elements.
+*   [Custom Elements (⭐58)](https://github.com/github/eslint-plugin-custom-elements) - Rules by GitHub for Custom Elements.
 
 ## [13. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### GUI
 
-*   [Jailer (⭐2.8k)](https://github.com/Wisser/Jailer) - Database Subsetting and Relational Data Browsing Tool/Client.
+*   [Jailer (⭐2.9k)](https://github.com/Wisser/Jailer) - Database Subsetting and Relational Data Browsing Tool/Client.
 
 ## [14. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
@@ -6024,7 +6024,7 @@
 
   CORS: Unknown
 
-  Call this API: 
+  : 
 
 
 
@@ -6058,7 +6058,7 @@
 
 ### Science & Math
 
-- API: [inspirehep.net (⭐40)](https://github.com/inspirehep/rest-api-doc)
+- API: [inspirehep.net (⭐43)](https://github.com/inspirehep/rest-api-doc)
 
   Description: High Energy Physics info. system
 
@@ -6112,7 +6112,7 @@
 ### RSS2KINDLE / Docsify
 
 *   [Reabble](https://reabble.com/) ([中国镜像](https://reabble.cn/)) <sup>[26](https://t.me/s/aboutrss/26), [1056![Video](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-circled-play-16.png)](https://t.me/s/aboutrss/1056)</sup>
-    *   [Reabble for Android (⭐117)](https://github.com/zmk-ink/reabble-android) <sup>[1333](https://t.me/s/aboutrss/1333)</sup>: A third-party app [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/zmk-ink/reabble-android)
+    *   [Reabble for Android (⭐126)](https://github.com/zmk-ink/reabble-android) <sup>[1333](https://t.me/s/aboutrss/1333)</sup>: A third-party app [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/zmk-ink/reabble-android)
 *   [WhereMyLife](http://wheremylife.cn/) <sup>[26](https://t.me/s/aboutrss/26), [88](https://t.me/s/aboutrss/88), [284](https://t.me/s/aboutrss/284), [1056![Video](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-circled-play-16.png)](https://t.me/s/aboutrss/1056)</sup> ![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
 ### Self Hosted Readers / Outline Processor Markup Language
@@ -6160,8 +6160,8 @@
 
 ### RSS2TelegramChannel / Docsify
 
-*   [Newspopper (⭐13)](https://github.com/rzkmak/newspopper) (`Demo Soon`!) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/rzkmak/newspopper)
-*   [Rui (⭐8)](https://github.com/rzkmak/rui) (`Demo Soon`!) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/rzkmak/rui)
+*   [Newspopper (⭐15)](https://github.com/rzkmak/newspopper) (`Demo Soon`!) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/rzkmak/newspopper)
+*   [Rui (⭐11)](https://github.com/rzkmak/rui) (`Demo Soon`!) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/rzkmak/rui)
 
 ### RSS2NOTION / Docsify
 
@@ -6182,7 +6182,7 @@
 
 ### RSS Feed Finding/Detection / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
-*   [RSSBud (⭐1.2k)](https://github.com/Cay-Zhang/RSSBud) <sup>[816](https://t.me/s/aboutrss/816), [910](https://t.me/s/aboutrss/910), [1064](https://t.me/s/aboutrss/1064), [1356](https://t.me/s/aboutrss/1356)</sup> : iOS-version RSSHub Radar [![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://apps.apple.com/us/app/rssbud/id1531443645)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Cay-Zhang/RSSBud)
+*   [RSSBud (⭐1.3k)](https://github.com/Cay-Zhang/RSSBud) <sup>[816](https://t.me/s/aboutrss/816), [910](https://t.me/s/aboutrss/910), [1064](https://t.me/s/aboutrss/1064), [1356](https://t.me/s/aboutrss/1356)</sup> : iOS-version RSSHub Radar [![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://apps.apple.com/us/app/rssbud/id1531443645)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Cay-Zhang/RSSBud)
 
 ### ⛓ OPML management / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
@@ -6195,7 +6195,7 @@
 ### Tech or IT / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [Mac iOS Tech Blogs By Women](https://inessential.com/2015/11/16/blogs_by_women)
-*   [Software Engineering Blogs (⭐31k)](https://github.com/kilimchoi/engineering-blogs/) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/kilimchoi/engineering-blogs/)
+*   [Software Engineering Blogs (⭐32k)](https://github.com/kilimchoi/engineering-blogs/) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/kilimchoi/engineering-blogs/)
 *   [Tech Blogs shared by Emacs China Forum users](https://emacs-china.org/t/elfeed-tech-feeds-rss/17680) <sup>[1071](https://t.me/s/aboutrss/1071)</sup>
 
 ### Aggregators of Indieblogs / Crypto or Blockchain relevant
@@ -6234,33 +6234,33 @@
 
 ### Static type checkers
 
-*   [mypy (⭐18k)](https://github.com/python/mypy) - Optional static typing (PEP 484).
-*   [pyanalyze (⭐315)](https://github.com/quora/pyanalyze) - Extensible static analyzer and type checker.
+*   [mypy (⭐19k)](https://github.com/python/mypy) - Optional static typing (PEP 484).
+*   [pyanalyze (⭐350)](https://github.com/quora/pyanalyze) - Extensible static analyzer and type checker.
 *   [pycharm](https://www.jetbrains.com/pycharm/) - IDE for Professional Developers.
 *   [pyre](https://pyre-check.org/) - Performant type-checker.
-*   [pytype (⭐4.7k)](https://github.com/google/pytype) - Tool to check and infer types - without requiring type annotations.
+*   [pytype (⭐4.8k)](https://github.com/google/pytype) - Tool to check and infer types - without requiring type annotations.
 
 ### Dynamic type checkers
 
-*   [pytypes (⭐197)](https://github.com/Stewori/pytypes) - Provides a rich set of utilities for runtime typechecking.
-*   [strongtyping (⭐104)](https://github.com/FelixTheC/strongtyping) - Decorator which checks whether the function is called with the correct type of parameters.
+*   [pytypes (⭐201)](https://github.com/Stewori/pytypes) - Provides a rich set of utilities for runtime typechecking.
+*   [strongtyping (⭐111)](https://github.com/FelixTheC/strongtyping) - Decorator which checks whether the function is called with the correct type of parameters.
 
 ### Stub packages
 
-*   [asgiref (⭐1.4k)](https://github.com/django/asgiref) - ASGI specification, provides [asgiref.typing (⭐1.4k)](https://github.com/django/asgiref/blob/main/asgiref/typing.py) module with type annotations for ASGI servers.
+*   [asgiref (⭐1.5k)](https://github.com/django/asgiref) - ASGI specification, provides [asgiref.typing (⭐1.5k)](https://github.com/django/asgiref/blob/main/asgiref/typing.py) module with type annotations for ASGI servers.
 *   [botostubs (⭐95)](https://github.com/jeshan/botostubs) - Gives you code assistance for any boto3 API in any IDE.
-*   [PyQt5-stubs (⭐69)](https://github.com/stlehmann/PyQt5-stubs) - Stubs for [PyQt5](https://www.riverbankcomputing.com/software/pyqt/intro).
-*   [sqlalchemy-stubs (⭐568)](https://github.com/dropbox/sqlalchemy-stubs) - Stubs for [SQLAlchemy (⭐9.1k)](https://github.com/sqlalchemy/sqlalchemy).
-*   [typeshed (⭐4.2k)](https://github.com/python/typeshed) - Collection of library stubs, with static types.
+*   [PyQt5-stubs (⭐68)](https://github.com/stlehmann/PyQt5-stubs) - Stubs for [PyQt5](https://www.riverbankcomputing.com/software/pyqt/intro).
+*   [sqlalchemy-stubs (⭐571)](https://github.com/dropbox/sqlalchemy-stubs) - Stubs for [SQLAlchemy (⭐9.8k)](https://github.com/sqlalchemy/sqlalchemy).
+*   [typeshed (⭐4.4k)](https://github.com/python/typeshed) - Collection of library stubs, with static types.
 
 ### Additional types
 
 *   [meiga (⭐76)](https://github.com/alice-biometrics/meiga) - Simple, typed and monad-based Result type.
-*   [option (⭐81)](https://github.com/MaT1g3R/option) - Rust like Option and Result types.
-*   [phantom-types (⭐188)](https://github.com/antonagestam/phantom-types) - Phantom types.
-*   [returns (⭐3.4k)](https://github.com/dry-python/returns) - Make your functions return something meaningful, typed, and safe.
-*   [safetywrap (⭐43)](https://github.com/mplanchard/safetywrap) - Fully typesafe, Rust-like Result and Option types.
-*   [typet (⭐20)](https://github.com/contains-io/typet) - Length-bounded types, dynamic object validation.
+*   [option (⭐85)](https://github.com/MaT1g3R/option) - Rust like Option and Result types.
+*   [phantom-types (⭐205)](https://github.com/antonagestam/phantom-types) - Phantom types.
+*   [returns (⭐3.7k)](https://github.com/dry-python/returns) - Make your functions return something meaningful, typed, and safe.
+*   [safetywrap (⭐44)](https://github.com/mplanchard/safetywrap) - Fully typesafe, Rust-like Result and Option types.
+*   [typet (⭐22)](https://github.com/contains-io/typet) - Length-bounded types, dynamic object validation.
 
 ### Backports and improvements
 
@@ -6269,37 +6269,37 @@
 ### Tools / Linters
 
 *   [flake8-pyi (⭐73)](https://github.com/ambv/flake8-pyi) - Plugin for Flake8 that provides specializations for type hinting stub files.
-*   [wemake-python-styleguide (⭐2.5k)](https://github.com/wemake-services/wemake-python-styleguide) - The strictest and most opinionated Python linter ever.
+*   [wemake-python-styleguide (⭐2.6k)](https://github.com/wemake-services/wemake-python-styleguide) - The strictest and most opinionated Python linter ever.
 
 ### Tools / Testing
 
-*   [pytest-mypy (⭐245)](https://github.com/dbader/pytest-mypy) - Mypy static type checker plugin for Pytest.
+*   [pytest-mypy (⭐249)](https://github.com/dbader/pytest-mypy) - Mypy static type checker plugin for Pytest.
 
 ### Tools / Working with types
 
-*   [com2ann (⭐138)](https://github.com/ilevkivskyi/com2ann) - Tool for translation of type comments to type annotations.
-*   [merge-pyi (⭐4.7k)](https://github.com/google/pytype/tree/master/pytype/tools/merge_pyi) - Part of pytype toolchain, applies stub files onto source code.
-*   [mypy-silent (⭐13)](https://github.com/whtsky/mypy-silent/) - Silence mypy by adding or removing code comments.
-*   [typing-inspect (⭐337)](https://github.com/ilevkivskyi/typing_inspect) - The typing\_inspect module defines experimental API for runtime inspection of types defined in the `typing` module.
+*   [com2ann (⭐143)](https://github.com/ilevkivskyi/com2ann) - Tool for translation of type comments to type annotations.
+*   [merge-pyi (⭐4.8k)](https://github.com/google/pytype/tree/master/pytype/tools/merge_pyi) - Part of pytype toolchain, applies stub files onto source code.
+*   [mypy-silent (⭐14)](https://github.com/whtsky/mypy-silent/) - Silence mypy by adding or removing code comments.
+*   [typing-inspect (⭐352)](https://github.com/ilevkivskyi/typing_inspect) - The typing\_inspect module defines experimental API for runtime inspection of types defined in the `typing` module.
 
 ### Tools / Helper tools to add annotations to existing code
 
-*   [monkeytype (⭐4.7k)](https://github.com/instagram/MonkeyType) - Collects runtime types of function arguments and return values, and can automatically generate stub files or even add draft type annotations directly to your code based on the types collected at runtime.
+*   [monkeytype (⭐4.8k)](https://github.com/instagram/MonkeyType) - Collects runtime types of function arguments and return values, and can automatically generate stub files or even add draft type annotations directly to your code based on the types collected at runtime.
 *   [pytest-annotate (⭐109)](https://github.com/kensho-technologies/pytest-annotate) - Pyannotate plugin for pytest.
-*   [pytest-monkeytype (⭐41)](https://github.com/mariusvniekerk/pytest-monkeytype) - MonkeyType plugin for pytest.
-*   [type4py (⭐61)](https://github.com/saltudelft/type4py) - Deep Similarity Learning-Based Type Inference.
-*   [typilus (⭐57)](https://github.com/typilus/typilus) - A deep learning algorithm for predicting types in Python. Also available as a [GitHub action (⭐41)](https://github.com/typilus/typilus-action)
+*   [pytest-monkeytype (⭐43)](https://github.com/mariusvniekerk/pytest-monkeytype) - MonkeyType plugin for pytest.
+*   [type4py (⭐62)](https://github.com/saltudelft/type4py) - Deep Similarity Learning-Based Type Inference.
+*   [typilus (⭐59)](https://github.com/typilus/typilus) - A deep learning algorithm for predicting types in Python. Also available as a [GitHub action (⭐42)](https://github.com/typilus/typilus-action)
 
 ### Tools / Mypy plugins
 
-*   [loguru-mypy (⭐17)](https://github.com/kornicameister/loguru-mypy) - Plugin for [loguru (⭐19k)](https://github.com/Delgan/loguru) support.
-*   [pynamodb-mypy (⭐4)](https://github.com/pynamodb/pynamodb-mypy) - Plugin for [PynamoDB (⭐2.4k)](https://github.com/pynamodb/PynamoDB) support.
+*   [loguru-mypy (⭐20)](https://github.com/kornicameister/loguru-mypy) - Plugin for [loguru (⭐20k)](https://github.com/Delgan/loguru) support.
+*   [pynamodb-mypy (⭐4)](https://github.com/pynamodb/pynamodb-mypy) - Plugin for [PynamoDB (⭐2.5k)](https://github.com/pynamodb/PynamoDB) support.
 
 ### Integrations / Mypy plugins
 
 *   [emacs-flycheck-mypy (⭐38)](https://github.com/lbolla/emacs-flycheck-mypy) - Mypy integration for Emacs.
-*   [mypy-playground (⭐67)](https://github.com/ymyzk/mypy-playground) - Online playground for mypy.
-*   [mypy-pycharm-plugin (⭐313)](https://github.com/dropbox/mypy-PyCharm-plugin) - Mypy integration for PyCharm.
+*   [mypy-playground (⭐72)](https://github.com/ymyzk/mypy-playground) - Online playground for mypy.
+*   [mypy-pycharm-plugin (⭐314)](https://github.com/dropbox/mypy-PyCharm-plugin) - Mypy integration for PyCharm.
 *   [pylance (⭐1.7k)](https://github.com/microsoft/pylance-release) - PyRight integration for VSCode.
 
 ### Articles / Third-party articles
@@ -6316,8 +6316,8 @@
 
 ### Other Lists / Help
 
-*   [Awesome Lattice FPGAs (⭐292)](https://github.com/kelu124/awesome-latticeFPGAs) - A curated list of awesome open-source FPGA boards.
-*   [TM90/awesome-hwd-tools (⭐63)](https://github.com/TM90/awesome-hwd-tools) - A curated list of hardware design tools with a focus on chip design.
+*   [Awesome Lattice FPGAs (⭐316)](https://github.com/kelu124/awesome-latticeFPGAs) - A curated list of awesome open-source FPGA boards.
+*   [TM90/awesome-hwd-tools (⭐73)](https://github.com/TM90/awesome-hwd-tools) - A curated list of hardware design tools with a focus on chip design.
 
 ## [20. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
 
@@ -6327,7 +6327,7 @@
 
 ### Related / Awesome Lists
 
-*   [Awesome k6 (⭐497)](https://github.com/grafana/awesome-k6) - Open-source, developer-centric performance monitoring and load testing solution.
+*   [Awesome k6 (⭐607)](https://github.com/grafana/awesome-k6) - Open-source, developer-centric performance monitoring and load testing solution.
 
 ## [21. Awesome Home Assistant](/content/frenck/awesome-home-assistant/week/README.md)
 
@@ -6343,22 +6343,22 @@
 
 ## [23. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
-### Plugins and scripts / Various Godot versions
+### Plugins and scripts / Godot 3
 
-*   [AgonesSDK (⭐57)](https://github.com/AndreMicheletti/godot-agones-sdk) - Plugin to add [Agones (⭐6k)](https://github.com/googleforgames/agones) SDK functionality to Godot (Godot 3.x).
-*   [StoryTeller Engine (⭐30)](https://github.com/HeavenMercy/StoryTeller-Engine) - Dialog and interactive fiction engine (Godot 3.x).
+*   [AgonesSDK (⭐62)](https://github.com/AndreMicheletti/godot-agones-sdk) - Plugin to add [Agones (⭐6.2k)](https://github.com/googleforgames/agones) SDK functionality to Godot.
+*   [StoryTeller Engine (⭐32)](https://github.com/HeavenMercy/StoryTeller-Engine) - Dialog and interactive fiction engine.
 
 ## [24. Awesome Acg](/content/soruly/awesome-acg/week/README.md)
 
 ### Image Generation
 
-*   [hololive-fusion-generator (⭐112)](https://github.com/vaexenc/hololive-fusion-generator) - Dynamically generates combinations of names and pictures of Hololive members on the fly. \[English]
+*   [hololive-fusion-generator (⭐113)](https://github.com/vaexenc/hololive-fusion-generator) - Dynamically generates combinations of names and pictures of Hololive members on the fly. \[English]
 
 ## [25. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
 
 ### Java Libraries
 
-*   [Bitcoin Spring Boot Starter (⭐60)](https://github.com/theborakompanioni/bitcoin-spring-boot-starter) - Bitcoin integration for Spring Boot applications.
+*   [Bitcoin Spring Boot Starter (⭐70)](https://github.com/theborakompanioni/bitcoin-spring-boot-starter) - Bitcoin integration for Spring Boot applications.
 
 ## [26. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
@@ -6390,11 +6390,11 @@
 
 ### Game Engine
 
-*   [o3de (⭐7.6k)](https://github.com/o3de/o3de) - An open-source, real-time, multi-platform 3D engine based on Amazon Lumberyard. \[Apache2] [website](https://o3de.org/)
+*   [o3de (⭐8k)](https://github.com/o3de/o3de) - An open-source, real-time, multi-platform 3D engine based on Amazon Lumberyard. \[Apache2] [website](https://o3de.org/)
 
 ### Reflection
 
-*   [config-loader (⭐194)](https://github.com/netcan/config-loader) - A C++17 static reflection framework, from parse configuration file to native data structure. \[MIT]
+*   [config-loader (⭐229)](https://github.com/netcan/config-loader) - A C++17 static reflection framework, from parse configuration file to native data structure. \[MIT]
 
 ## [30. Awesome Prisma](/content/catalinmiron/awesome-prisma/week/README.md)
 
@@ -6406,12 +6406,12 @@
 
 ### Integrations
 
-*   [expect-axe-playwright (⭐19)](https://github.com/Widen/expect-axe-playwright) - Expect matchers to perform Axe accessibility tests in your Playwright tests.
+*   [expect-axe-playwright (⭐20)](https://github.com/Widen/expect-axe-playwright) - Expect matchers to perform Axe accessibility tests in your Playwright tests.
 
 ### Utils
 
-*   [expect-playwright (⭐146)](https://github.com/playwright-community/expect-playwright) - Expect utility matcher functions to simplify expect statements for the usage with Playwright Test or Jest Playwright.
-*   [eslint-plugin-playwright (⭐253)](https://github.com/playwright-community/eslint-plugin-playwright) - ESLint plugin for your Playwright testing needs.
+*   [expect-playwright (⭐149)](https://github.com/playwright-community/expect-playwright) - Expect utility matcher functions to simplify expect statements for the usage with Playwright Test or Jest Playwright.
+*   [eslint-plugin-playwright (⭐265)](https://github.com/playwright-community/eslint-plugin-playwright) - ESLint plugin for your Playwright testing needs.
 
 ## [32. Awesome Storybook](/content/lauthieb/awesome-storybook/week/README.md)
 
@@ -6427,13 +6427,13 @@
 
 ### Tools & Software / Curation
 
-*   [Zotero Robust Links Extension](https://robustlinks.mementoweb.org/zotero/) - A [Zotero](https://www.zotero.org/) extension that submits to and reads from web archives. Source [on GitHub (⭐17)](https://github.com/lanl/Zotero-Robust-Links-Extension). Supercedes [leonkt/zotero-memento (⭐273)](https://github.com/leonkt/zotero-memento).
+*   [Zotero Robust Links Extension](https://robustlinks.mementoweb.org/zotero/) - A [Zotero](https://www.zotero.org/) extension that submits to and reads from web archives. Source [on GitHub (⭐17)](https://github.com/lanl/Zotero-Robust-Links-Extension). Supercedes [leonkt/zotero-memento (⭐302)](https://github.com/leonkt/zotero-memento).
 
 ## [34. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Color / Diagnostics
 
-*   [folke/twilight.nvim (⭐1.2k)](https://github.com/folke/twilight.nvim) - Dim inactive portions of the code you're editing using TreeSitter.
+*   [folke/twilight.nvim (⭐1.3k)](https://github.com/folke/twilight.nvim) - Dim inactive portions of the code you're editing using Tree-sitter.
 
 ## [35. Awesome Css](/content/awesome-css-group/awesome-css/week/README.md)
 
@@ -6453,20 +6453,20 @@
 
 ## [37. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
-### FIAT
+### Others
 
-*   [Debitum (⭐85)](https://github.com/Marmo/debitum) - With Debitum you can track all kinds of IOUs, be it money or lent items.
+*   [Debitum (⭐88)](https://github.com/Marmo/debitum) - With Debitum you can track all kinds of IOUs, be it money or lent items.
 
 ## [38. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Get Started
 
-*   [create-vite (⭐67k)](https://github.com/vitejs/vite/tree/main/packages/create-vite) - Scaffolding Your First Vite Project.
+*   [create-vite (⭐70k)](https://github.com/vitejs/vite/tree/main/packages/create-vite) - Scaffolding Your First Vite Project.
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-restart (⭐159)](https://github.com/antfu/vite-plugin-restart) - Restart the Vite server on file changes.
-*   [vite-plugin-full-reload (⭐134)](https://github.com/ElMassimo/vite-plugin-full-reload) - Reload the browser on file changes.
+*   [vite-plugin-restart (⭐173)](https://github.com/antfu/vite-plugin-restart) - Restart the Vite server on file changes.
+*   [vite-plugin-full-reload (⭐152)](https://github.com/ElMassimo/vite-plugin-full-reload) - Reload the browser on file changes.
 *   [vite-plugin-tips (⭐61)](https://github.com/yingpengsha/vite-plugin-tips) - Provide better development server status tips on the page.
 
 ## [39. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
@@ -6489,11 +6489,11 @@
 
 ### Assets
 
-*   [Vite Ruby (⭐1.3k)](https://github.com/elmassimo/vite_ruby) - Use Vite.js as a modern assets pipeline in Ruby and Rails apps.
+*   [Vite Ruby (⭐1.4k)](https://github.com/elmassimo/vite_ruby) - Use Vite.js as a modern assets pipeline in Ruby and Rails apps.
 
 ### Automation
 
-*   [Neovim (⭐339)](https://github.com/alexgenco/neovim-ruby) - Ruby bindings for Neovim to make your own neovim editor plugins in Ruby.
+*   [Neovim (⭐345)](https://github.com/alexgenco/neovim-ruby) - Ruby bindings for Neovim to make your own neovim editor plugins in Ruby.
 
 ### Data Processing and ETL
 
@@ -6501,29 +6501,29 @@
 
 ### HTTP Clients and tools
 
-*   [Accept Language (⭐55)](https://github.com/cyril/accept_language.rb) - A tiny library for parsing the `Accept-Language` header from browsers (as defined in [RFC 2616](https://datatracker.ietf.org/doc/html/rfc2616#section-14.4)).
+*   [Accept Language (⭐58)](https://github.com/cyril/accept_language.rb) - A tiny library for parsing the `Accept-Language` header from browsers (as defined in [RFC 2616](https://datatracker.ietf.org/doc/html/rfc2616#section-14.4)).
 
 ## [41. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Testing / Barcode
 
-*   [Mussel (⭐73)](https://github.com/UrbanCompass/Mussel) - A framework for easily testing Push Notifications, Universal Links and Routing in XCUITests.
+*   [Mussel (⭐74)](https://github.com/UrbanCompass/Mussel) - A framework for easily testing Push Notifications, Universal Links and Routing in XCUITests.
 
 ## [42. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/week/README.md)
 
 ### Adapters / Server-side
 
 *   [CanJS (⭐14)](https://github.com/cherifGsoul/inertia-can)
-*   [Clojure (⭐94)](https://github.com/prestancedesign/inertia-clojure)
-*   [CodeIgniter (⭐23)](https://github.com/amiranagram/inertia-codeigniter-4)
-*   [Go (⭐162)](https://github.com/petaki/inertia-go)
-*   [PSR-15 (⭐32)](https://github.com/cherifGsoul/inertia-psr15)
+*   [Clojure (⭐97)](https://github.com/prestancedesign/inertia-clojure)
+*   [CodeIgniter (⭐28)](https://github.com/amiranagram/inertia-codeigniter-4)
+*   [Go (⭐211)](https://github.com/petaki/inertia-go)
+*   [PSR-15 (⭐42)](https://github.com/cherifGsoul/inertia-psr15)
 
 ## [43. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Search Engines
 
-*   [Whoogle (⭐9.3k)](https://github.com/benbusby/whoogle-search) `⚠` - A self-hosted, ad-free, privacy-respecting metasearch engine. `MIT` `Python`
+*   [Whoogle (⭐10k)](https://github.com/benbusby/whoogle-search) `⚠` - A self-hosted, ad-free, privacy-respecting metasearch engine. `MIT` `Python`
 
 ## [44. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
@@ -6533,19 +6533,18 @@
 
 ### Development / Discovery
 
-*   [devshell (⭐1.2k)](https://github.com/numtide/devshell) - `mkShell` with extra bits and a toml config option to be able to onboard non-nix users.
-*   [flake-utils (⭐1.1k)](https://github.com/numtide/flake-utils) - Pure Nix flake utility functions to help with writing flakes.
+*   [devshell (⭐1.3k)](https://github.com/numtide/devshell) - `mkShell` with extra bits and a toml config option to be able to onboard non-nix users.
+*   [flake-utils (⭐1.2k)](https://github.com/numtide/flake-utils) - Pure Nix flake utility functions to help with writing flakes.
 
 ## [45. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Projects Using Vue.js / Open Source
 
-*   [XIV ToDo (⭐123)](https://github.com/bourgeoisor/xivtodo) - Dashboards, completion trackers, tailored weekly and daily checklists and tools for Final Fantasy XIV.
-*   [QuickTok (⭐28)](https://github.com/statickidz/quicktok) - TikTok popular trends viewer.
+*   [XIV ToDo (⭐130)](https://github.com/bourgeoisor/xivtodo) - Dashboards, completion trackers, tailored weekly and daily checklists and tools for Final Fantasy XIV.
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-tiny-validate (⭐136)](https://github.com/FrontLabsOfficial/vue-tiny-validate) - Tiny (2.5KB minified) Vue Validate Composition.
+*   [vue-tiny-validate (⭐138)](https://github.com/FrontLabsOfficial/vue-tiny-validate) - Tiny (2.5KB minified) Vue Validate Composition.
 
 ## [46. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -6576,7 +6575,7 @@
 
 ### Types / Playground
 
-*   [nominal (⭐66)](https://github.com/Coder-Spirit/nominal) - nominal types & dependent types for Typescript.
+*   [nominal (⭐79)](https://github.com/Coder-Spirit/nominal) - nominal types & dependent types for Typescript.
 
 ---
 

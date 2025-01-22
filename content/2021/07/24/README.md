@@ -16,14 +16,14 @@
 
 ### Templates / Vue 3
 
-*   [vitesse-lite (⭐1.1k)](https://github.com/antfu/vitesse-lite) - Lightweight version of Vitesse.
-*   [vitesse-webext (⭐2.8k)](https://github.com/antfu/vitesse-webext) - WebExtension Vite Starter Template.
+*   [vitesse-lite (⭐1.2k)](https://github.com/antfu/vitesse-lite) - Lightweight version of Vitesse.
+*   [vitesse-webext (⭐3k)](https://github.com/antfu/vitesse-webext) - WebExtension Vite Starter Template.
 
 ## [3. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
 
 ### Examples
 
-*   [L0garithmic/FastColabCopy (⭐26)](https://github.com/L0garithmic/FastColabCopy#readme) - Project logo. Minimalist description. Badges. GIF demo. About The Project. How To Use. Examples. Credits. Additional Examples.
+*   [L0garithmic/FastColabCopy (⭐29)](https://github.com/L0garithmic/FastColabCopy#readme) - Project logo. Minimalist description. Badges. GIF demo. About The Project. How To Use. Examples. Credits. Additional Examples.
 
 ## [4. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
@@ -125,8 +125,6 @@
 
   CORS: Unknown
 
-  Call this API: 
-
 
 
 ### Government
@@ -158,8 +156,8 @@
 
 ### Contents / Tools
 
-*   [Weather (⭐34)](https://github.com/1hanzla100/flutter-weather) - Weather App Built with Flutter and OpenWeatherMap API by [1hanzla100](https://github.com/1hanzla100/).
-*   [FlutterWeather (⭐279)](https://github.com/ArizArmeidi/FlutterWeather) - Weather App with clean and modern UI by [Ariz Armeidi](https://github.com/ArizArmeidi).
+*   [Weather (⭐38)](https://github.com/1hanzla100/flutter-weather) - Weather App Built with Flutter and OpenWeatherMap API by [1hanzla100](https://github.com/1hanzla100/).
+*   [FlutterWeather (⭐302)](https://github.com/ArizArmeidi/FlutterWeather) - Weather App with clean and modern UI by [Ariz Armeidi](https://github.com/ArizArmeidi).
 
 ---
 

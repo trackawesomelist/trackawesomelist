@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 30, 2018
 
-7 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -55,8 +55,8 @@
 
 ### Developer Tools / Developer Utilities
 
-*   [CodeKit](https://codekitapp.com/) - Web development tool which can automatically compile Less, Sass, CoffeeScript, TypeScript, Jade and JavaScript, auto-refresh browsers and much more.
-*   [PaintCode](https://www.paintcodeapp.com/) - PaintCode is a unique vector drawing app that generates Objective-C or Swift code in real time, acting as a bridge between developers and graphic designers.
+*   [CodeKit](https://codekitapp.com/) - Web development tool for compiling and auto-refreshing.
+*   [PaintCode](https://www.paintcodeapp.com/) - Vector drawing app that generates Objective-C or Swift code in real time.
 *   [SnippetsLab](https://www.renfei.org/snippets-lab/) - Easy-to-use code snippets manager.
 *   [StarUML](http://staruml.io) - Powerful UML app.
 *   [Swiftify](https://objectivec2swift.com/#/xcode-extension/) - Objective-C to Swift code converter and Xcode & Finder extensions.
@@ -68,8 +68,8 @@
 ### Developer Tools / Command Line Tools
 
 *   [bash-it (⭐14k)](https://github.com/Bash-it/bash-it) - Shameless ripoff of oh-my-zsh for bash. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [Glances (⭐26k)](https://github.com/nicolargo/glances) - Glances is a cross-platform curses-based system monitoring tool. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/nicolargo/glances)
-*   [htop (⭐5.8k)](https://github.com/hishamhm/htop) - htop is an interactive text-mode process viewer for Unix systems. It aims to be a better 'top'. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/hishamhm/htop)
+*   [Glances (⭐27k)](https://github.com/nicolargo/glances) - Glances is a cross-platform curses-based system monitoring tool. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/nicolargo/glances)
+*   [htop (⭐5.9k)](https://github.com/hishamhm/htop) - htop is an interactive text-mode process viewer for Unix systems. It aims to be a better 'top'. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/hishamhm/htop)
 *   [lnav](http://lnav.org) - A log file navigator. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/tstack/lnav) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [ndm](https://720kb.github.io/ndm/) - Manage [npm](http://npmjs.org/) straight from the couch. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/720kb/ndm) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
@@ -166,12 +166,6 @@
 ### Shell Script Development / See also
 
 *   [awesome-cli-apps (⭐13k)](https://github.com/agarrharr/awesome-cli-apps)
-
-## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Projects Using Vue.js / Open Source
-
-*   [Vuep.run](https://vuep.run) - Online SFC editor for Vue
 
 ---
 

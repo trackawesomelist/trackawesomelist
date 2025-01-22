@@ -10,11 +10,11 @@
 
 ### Tools / Community providers
 
-*   [terraform-docs (⭐4.1k)](https://github.com/terraform-docs/terraform-docs) - Quick utility to generate docs from terraform modules.
-*   [tfaction (⭐260)](https://github.com/suzuki-shunsuke/tfaction) - GitHub Actions collection for Opinionated Terraform Workflow
-*   [tflint (⭐4.8k)](https://github.com/terraform-linters/tflint) - Terraform linter for detecting errors that can not be detected by `terraform plan`
-*   [tfsec (⭐6.6k)](https://github.com/aquasecurity/tfsec) - Terraform static analysis tool that supports terraform <0.12 & >=0.12 & directly integrates with HCL parser for better results.
-*   [validIaC (⭐221)](https://github.com/gofireflyio/validiac) - ValidIaC combines the best open-source tools to help ensure Terraform best practices, hygiene & security.
+*   [terraform-docs (⭐4.3k)](https://github.com/terraform-docs/terraform-docs) - Quick utility to generate docs from terraform modules.
+*   [tfaction (⭐288)](https://github.com/suzuki-shunsuke/tfaction) - GitHub Actions collection for Opinionated Terraform Workflow
+*   [tflint (⭐5k)](https://github.com/terraform-linters/tflint) - Terraform linter for detecting errors that can not be detected by `terraform plan`
+*   [tfsec (⭐6.7k)](https://github.com/aquasecurity/tfsec) - Terraform static analysis tool that supports terraform <0.12 & >=0.12 & directly integrates with HCL parser for better results.
+*   [validIaC (⭐226)](https://github.com/gofireflyio/validiac) - ValidIaC combines the best open-source tools to help ensure Terraform best practices, hygiene & security.
 
 ## [2. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
@@ -72,17 +72,17 @@
 
 ### OAuth2 & OpenID / Other tools
 
-*   [a12n-server (⭐443)](https://github.com/curveball/a12n-server) - A simple authentication system which only implements the relevant parts of the OAuth2 standards.
+*   [a12n-server (⭐453)](https://github.com/curveball/a12n-server) - A simple authentication system which only implements the relevant parts of the OAuth2 standards.
 
 ## [8. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### Plugins
 
-*   💼 [Grid Areas (⭐134)](https://github.com/SavvyWombat/tailwindcss-grid-areas) - Adds `grid-areas` and `grid-area` utilities.
+*   💼 [Grid Areas (⭐139)](https://github.com/SavvyWombat/tailwindcss-grid-areas) - Adds `grid-areas` and `grid-area` utilities.
 
 ### Tools
 
-*   💼🔧 [tailwindcss-webpack-plugin (⭐36)](https://github.com/await-ovo/tailwindcss-webpack-plugin) - Out-of-the-box Tailwind CSS, supports "Design in DevTools" mode and visualizes Tailwind CSS configuration.
+*   💼🔧 [tailwindcss-webpack-plugin (⭐38)](https://github.com/await-ovo/tailwindcss-webpack-plugin) - Out-of-the-box Tailwind CSS, supports "Design in DevTools" mode and visualizes Tailwind CSS configuration.
 
 ## [9. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
 

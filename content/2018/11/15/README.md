@@ -10,7 +10,7 @@
 
 ### Third-party APIs
 
-*   [Dropbox (⭐168)](https://github.com/Jesus/dropbox_api) - Ruby client for Dropbox API v2.
+*   [Dropbox (⭐171)](https://github.com/Jesus/dropbox_api) - Ruby client for Dropbox API v2.
 
 ## [2. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -22,7 +22,7 @@
 
 ### GTFS Based Visualizations
 
-*   [TNExT (⭐15)](https://github.com/ODOT-PTS/TNExT) - Transit Network Explorer Tool (TNExT) is a web-based software tool developed for the visualization, analysis, and reporting of regional and statewide transit networks in the state of Oregon.
+*   [TNExT (⭐16)](https://github.com/ODOT-PTS/TNExT) - Transit Network Explorer Tool (TNExT) is a web-based software tool developed for the visualization, analysis, and reporting of regional and statewide transit networks in the state of Oregon.
 
 ## [4. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
@@ -52,10 +52,6 @@
 
 *   [Building Applications with Spring 5 and Vue.js 2](https://www.packtpub.com/application-development/building-applications-spring-5-and-vuejs-2) by James J. Ye, Packt. (October 2018)
 *   [Vue.js Quick Start Guide](https://www.packtpub.com/application-development/vuejs-quick-start-guide) by Ajdin Imsirovic, Packt. (October 2018)
-
-### Projects Using Vue.js / Open Source
-
-*   [Statusfy (⭐2.7k)](https://github.com/bazzite/statusfy): Statusfy is a Status Page System, easy to use and completely Open Source.
 
 ## [7. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 

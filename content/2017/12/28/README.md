@@ -10,11 +10,11 @@
 
 ### Software / Automation
 
-*   [Healthchecks](https://healthchecks.io/) - Django app which listens for pings and sends alerts when pings are late. ([Source Code (⭐8k)](https://github.com/healthchecks/healthchecks)) `BSD-3-Clause` `Python`
+*   [Healthchecks](https://healthchecks.io/) - Django app which listens for pings and sends alerts when pings are late. ([Source Code (⭐8.5k)](https://github.com/healthchecks/healthchecks)) `BSD-3-Clause` `Python`
 
 ### Software / Communication - IRC
 
-*   [Robust IRC](https://robustirc.net/) - RobustIRC is IRC without netsplits. Distributed IRC server, based on RobustSession protocol. ([Source Code (⭐177)](https://github.com/robustirc/robustirc)) `BSD-3-Clause` `Go`
+*   [Robust IRC](https://robustirc.net/) - RobustIRC is IRC without netsplits. Distributed IRC server, based on RobustSession protocol. ([Source Code (⭐181)](https://github.com/robustirc/robustirc)) `BSD-3-Clause` `Go`
 
 ### Software / Groupware
 

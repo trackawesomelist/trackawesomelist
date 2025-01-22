@@ -21,17 +21,17 @@
 
 ### Package Management / Build Systems
 
-*   [pmm (⭐12)](https://github.com/AnotherFoxGuy/pmm) - PMM is a module for CMake that manages... package managers. [`[MIT]`](https://opensource.org/licenses/MIT)
+*   [pmm (⭐15)](https://github.com/AnotherFoxGuy/pmm) - PMM is a module for CMake that manages... package managers. [`[MIT]`](https://opensource.org/licenses/MIT)
 
 ### Modules
 
-*   [CMakeCM (⭐1)](https://github.com/AnotherFoxGuy/CMakeCM) - CMake Community Modules. `[NO LICENSE]`
+*   [CMakeCM (⭐2)](https://github.com/AnotherFoxGuy/CMakeCM) - CMake Community Modules. `[NO LICENSE]`
 
 ## [3. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Files / Runner
 
-*   [PDF.js (⭐47k)](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript.
+*   [PDF.js (⭐48k)](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript.
 
 ## [4. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 

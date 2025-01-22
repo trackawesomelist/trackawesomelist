@@ -16,7 +16,7 @@
 
 ### GUI
 
-*   [Sequel Ace (⭐6.6k)](https://github.com/Sequel-Ace/Sequel-Ace) - a Mac database management application for working with MySQL databases.
+*   [Sequel Ace (⭐6.8k)](https://github.com/Sequel-Ace/Sequel-Ace) - a Mac database management application for working with MySQL databases.
 
 ## [3. Awesome K6](/content/grafana/awesome-k6/README.md)
 
@@ -28,26 +28,26 @@
 
 ### Projects Using Vue.js / Commercial Products
 
-*   [NocoDB (⭐44k)](https://github.com/nocodb/nocodb) - An opensource Airtable alternative.
+*   [NocoDB (⭐51k)](https://github.com/nocodb/nocodb) - An opensource Airtable alternative.
 
 ## [5. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Image / Backend-Driven
 
-*   [Lottie (⭐1.1k)](https://github.com/xvrh/lottie-flutter) <!--stargazers:xvrh/lottie-flutter--> - Use airbnb's popular [After Effects Animation library](https://airbnb.design/lottie/) by [xvrh (⭐1.1k)](https://github.com/xvrh/lottie-flutter)
+*   [Lottie (⭐1.2k)](https://github.com/xvrh/lottie-flutter) <!--stargazers:xvrh/lottie-flutter--> - Use airbnb's popular [After Effects Animation library](https://airbnb.design/lottie/) by [xvrh (⭐1.2k)](https://github.com/xvrh/lottie-flutter)
 
 ## [6. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / System tools
 
-*   [bustd (⭐216)](https://github.com/vrmiguel/bustd) - Lightweight process killer daemon to handle out-of-memory scenarios on Linux. [![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/vrmiguel/bustd/build-and-test)](https://github.com/vrmiguel/bustd/actions?query=branch%3Amaster)
-*   [ouch (⭐2.1k)](https://github.com/ouch-org/ouch) - Painless compression and decompression on the command-line [![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/ouch-org/ouch/build-and-test)](https://github.com/ouch-org/ouch/actions?query=branch%3Amaster)
+*   [bustd (⭐223)](https://github.com/vrmiguel/bustd) - Lightweight process killer daemon to handle out-of-memory scenarios on Linux. [![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/vrmiguel/bustd/build-and-test)](https://github.com/vrmiguel/bustd/actions?query=branch%3Amaster)
+*   [ouch (⭐2.4k)](https://github.com/ouch-org/ouch) - Painless compression and decompression on the command-line [![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/ouch-org/ouch/build-and-test)](https://github.com/ouch-org/ouch/actions?query=branch%3Amaster)
 
 ## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### APIs, Data, and ML
 
-*   [Mocky](https://designer.mocky.io/) - A simple web app to generate custom HTTP responses for mocking HTTP requests. Also available as [open source (⭐2k)](https://github.com/julien-lafont/Mocky).
+*   [Mocky](https://designer.mocky.io/) - A simple web app to generate custom HTTP responses for mocking HTTP requests. Also available as [open source (⭐2.1k)](https://github.com/julien-lafont/Mocky).
 
 ### Miscellaneous
 
@@ -78,14 +78,14 @@
 ### Subtitles and Captions / Web
 
 *   [IMSC HRM validator (⭐8)](https://github.com/sandflow/imscHRM)  - Validator for the IMSC Hypothetical Render Model (HRM), which constrains TTML document complexity
-*   [imscJS: IMSC/TTML/SMPTE-TT/EBU-TT-D renderer (⭐83)](https://github.com/sandflow/imscJS/)  - Renders IMSC/TTML/SMPTE-TT/EBU-TT-D subtitles and captions to HTML
-*   [ttconv: subtitle/caption format converter (⭐178)](https://github.com/sandflow/ttconv)  - Converts EBU STL, IMSC/TTML/SMPTE-TT/EBU-TT-D and 608/SCC into IMSC, WebVTT and SRT
+*   [imscJS: IMSC/TTML/SMPTE-TT/EBU-TT-D renderer (⭐84)](https://github.com/sandflow/imscJS/)  - Renders IMSC/TTML/SMPTE-TT/EBU-TT-D subtitles and captions to HTML
+*   [ttconv: subtitle/caption format converter (⭐190)](https://github.com/sandflow/ttconv)  - Converts EBU STL, IMSC/TTML/SMPTE-TT/EBU-TT-D and 608/SCC into IMSC, WebVTT and SRT
 
 ## [12. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
 
 ### Table of Contents / Streaming Library
 
-*   [YoMo (⭐1.6k)](https://github.com/yomorun/yomo) \[Go] - An open source Streaming Serverless Framework for building Low-latency Geo-distributed system. YoMo Built atop [QUIC Transport Protocol](https://en.wikipedia.org/wiki/QUIC) and Functional Reactive Programming interface.
+*   [YoMo (⭐1.7k)](https://github.com/yomorun/yomo) \[Go] - An open source Streaming Serverless Framework for building Low-latency Geo-distributed system. YoMo Built atop [QUIC Transport Protocol](https://en.wikipedia.org/wiki/QUIC) and Functional Reactive Programming interface.
 
 ## [13. Public Apis](/content/public-apis/public-apis/README.md)
 

@@ -15,7 +15,7 @@
 
 ### ORM/ODM Extensions
 
-*   [granite (⭐295)](https://github.com/amberframework/granite) - ORM for Postgres, Mysql, Sqlite
+*   [granite (⭐297)](https://github.com/amberframework/granite) - ORM for Postgres, Mysql, Sqlite
 
 ## [3. Awesome Haskell](/content/krispo/awesome-haskell/README.md)
 
@@ -27,7 +27,7 @@
 
 ### Other Data
 
-*   [KeyPathKit (⭐425)](https://github.com/vincent-pradeilles/KeyPathKit) - KeyPathKit provides a seamless syntax to manipulate data using typed keypaths.
+*   [KeyPathKit (⭐426)](https://github.com/vincent-pradeilles/KeyPathKit) - KeyPathKit provides a seamless syntax to manipulate data using typed keypaths.
 
 ### Socket / Barcode
 
@@ -35,45 +35,45 @@
 
 ### Quality / Barcode
 
-*   [IBLinter (⭐950)](https://github.com/IBDecodable/IBLinter) - A linter tool for Interface Builder.
+*   [IBLinter (⭐948)](https://github.com/IBDecodable/IBLinter) - A linter tool for Interface Builder.
 
 ### Text / Barcode
 
-*   [MarkdownKit (⭐765)](https://github.com/bmoliveira/MarkdownKit) - A simple and customizable Markdown Parser.
+*   [MarkdownKit (⭐792)](https://github.com/bmoliveira/MarkdownKit) - A simple and customizable Markdown Parser.
 
 ## [5. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### Tools / Paid and commercially available materials
 
-*   [bindgen](https://crates.io/crates/bindgen) Automatically generates Rust FFI bindings to C and C++ libraries. - ![crates.io](https://img.shields.io/crates/v/bindgen.svg)
+*   [bindgen](https://crates.io/crates/bindgen) Automatically generates Rust FFI bindings to C and C++ libraries. - [![crates.io](https://img.shields.io/crates/v/bindgen.svg)](https://crates.io/crates/bindgen)
 
 ### Peripheral Access Crates / Nordic
 
-*   [`nrf51`](https://crates.io/crates/nrf51) Peripheral access API for nRF51 microcontrollers (generated using svd2rust) - ![crates.io](https://img.shields.io/crates/v/nrf51.svg)
+*   [`nrf51`](https://crates.io/crates/nrf51) Peripheral access API for nRF51 microcontrollers (generated using svd2rust) - [![crates.io](https://img.shields.io/crates/v/nrf51.svg)](https://crates.io/crates/nrf51)
 
 ### Peripheral Access Crates / NXP
 
-*   [`mkw41z`](https://crates.io/crates/mkw41z) - ![crates.io](https://img.shields.io/crates/v/mkw41z.svg)
+*   [`mkw41z`](https://crates.io/crates/mkw41z) - [![crates.io](https://img.shields.io/crates/v/mkw41z.svg)](https://crates.io/crates/mkw41z)
 
 ### HAL implementation crates / Nordic
 
-*   [`nrf51-hal`](https://crates.io/crates/nrf51-hal) - ![crates.io](https://img.shields.io/crates/v/nrf51-hal.svg)
+*   [`nrf51-hal`](https://crates.io/crates/nrf51-hal) - [![crates.io](https://img.shields.io/crates/v/nrf51-hal.svg)](https://crates.io/crates/nrf51-hal)
 
 ### HAL implementation crates / STMicroelectronics
 
-*   [`stm32l151-hal`](https://crates.io/crates/stm32l151-hal) - ![crates.io](https://img.shields.io/crates/v/stm32l151-hal.svg)
+*   [`stm32l151-hal`](https://crates.io/crates/stm32l151-hal) - [![crates.io](https://img.shields.io/crates/v/stm32l151-hal.svg)](https://crates.io/crates/stm32l151-hal)
 
 ### Board support crates / Nordic
 
-*   [`microbit`](https://crates.io/crates/microbit) - [micro:bit](http://microbit.org/) - ![crates.io](https://img.shields.io/crates/v/microbit.svg)
+*   [`microbit`](https://crates.io/crates/microbit) - [micro:bit](http://microbit.org/) - [![crates.io](https://img.shields.io/crates/v/microbit.svg)](https://crates.io/crates/microbit)
 
 ### Board support crates / NXP
 
-*   [`frdm-kw41z`](https://crates.io/crates/frdm-kw41z) - [FRDM-KW41Z](https://www.nxp.com/products/processors-and-microcontrollers/arm-based-processors-and-mcus/kinetis-cortex-m-mcus/w-serieswireless-conn.m0-plus-m4/freedom-development-kit-for-kinetis-kw41z-31z-21z-mcus:FRDM-KW41Z) - ![crates.io](https://img.shields.io/crates/v/frdm-kw41z.svg)
+*   [`frdm-kw41z`](https://crates.io/crates/frdm-kw41z) - [FRDM-KW41Z](https://www.nxp.com/products/processors-and-microcontrollers/arm-based-processors-and-mcus/kinetis-cortex-m-mcus/w-serieswireless-conn.m0-plus-m4/freedom-development-kit-for-kinetis-kw41z-31z-21z-mcus:FRDM-KW41Z) - [![crates.io](https://img.shields.io/crates/v/frdm-kw41z.svg)](https://crates.io/crates/frdm-kw41z)
 
 ### Driver crates / Other
 
-*   [L3GD20](https://crates.io/crates/l3gd20) - SPI - Gyroscope - [Intro blog post](http://blog.japaric.io/wd-1-2-l3gd20-lsm303dlhc-madgwick/) - ![crates.io](https://img.shields.io/crates/v/l3gd20.svg)
+*   [L3GD20](https://crates.io/crates/l3gd20) - SPI - Gyroscope - [Intro blog post](http://blog.japaric.io/wd-1-2-l3gd20-lsm303dlhc-madgwick/) - [![crates.io](https://img.shields.io/crates/v/l3gd20.svg)](https://crates.io/crates/l3gd20)
 
 ## [6. Amas](/content/sindresorhus/amas/README.md)
 
@@ -92,10 +92,6 @@
 ### Resources / External Resources
 
 *   [Vue Curated Resources](https://hackr.io/tutorials/learn-vue-js) - Recommended Vue.js courses and tutorials.
-
-### Components & Libraries / Utilities
-
-*   [vue-ramda (⭐18)](https://github.com/choufeng/vue-ramda) - Vue Wrapper for [ramda](http://ramdajs.com/)
 
 ## [9. Awesome D](/content/dlang-community/awesome-d/README.md)
 

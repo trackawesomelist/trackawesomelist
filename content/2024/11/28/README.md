@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 28, 2024
 
-8 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,12 +16,12 @@
 
 ### 2D / Godot 4
 
-*   [A Dark Forest (⭐45)](https://github.com/TinyTakinTeller/GodotProjectZero) - Minimalistic incremental game inspired by "A Dark Room".
+*   [A Dark Forest (⭐57)](https://github.com/TinyTakinTeller/GodotProjectZero) - Minimalistic incremental game inspired by "A Dark Room".
 
 ### Plugins and scripts / Godot 4
 
 *   [CSConnector (Contextual Signal/Setup Connector)](https://codeberg.org/svetogam/csconnector) - Provides a clean interface to dynamically find, setup, and connect to descendant nodes through the scene tree.
-*   [System Bar Color Changer (⭐16)](https://github.com/syntaxerror247/godot-android-system-bar-color-changer) - An Android plugin that enables you to dynamically change the colors of the status bar and navigation bar, and also supports enabling translucent system bars for a modern, immersive UI experience.
+*   [System Bar Color Changer (⭐19)](https://github.com/syntaxerror247/godot-android-system-bar-color-changer) - An Android plugin that enables you to dynamically change the colors of the status bar and navigation bar, and also supports enabling translucent system bars for a modern, immersive UI experience.
 *   [Your Buil](https://codeberg.org/svetogam/yourbuil) - A plugin that makes it as easy as possible to use build data like git commit hashes in your build.
 
 ## [3. Web Development Resources](/content/markodenic/web-development-resources/README.md)
@@ -215,7 +215,7 @@
 *   [Sangoma](https://sangoma.com/) - Trusted leader in delivering globally scalable Voice-Over-IP telephony systems, both on-site and cloud-based. C, PHP, Python, JavaScript, Linux, FreePBX, VoIP.
 *   [ServiceNow](https://www.jobvite.com/support/job-seeker-support/?invalid=1) - Enterprise cloud computing to improve service levels, energize employees, and change the way your enterprise works. Work at lightspeed.
 *   [Shogun](https://getshogun.com/) - Build and optimize eCommerce landing pages. Ruby / Rails, Go, JavaScript, React. 100% remote.
-*   [Signal](https://signal.org/workworkwork/) - These people make the fantastic [Signal app](https://signal.org/). US Only.
+*   [Signal](https://signal.org/workworkwork/) - These people make the fantastic Signal app. US Only.
 *   [Skyscrapers](https://skyscrapers.eu/join-us/) - Cloud hosting services & management. Working with multiple cloud providers (AWS, Digital Ocean, Linode, ...). 100% remote.
 *   [StackExchange](https://stackoverflow.co/company/work-here/)
 *   [SuperOrbital](https://superorbital.io/) - Kubernetes engineering and training.
@@ -285,32 +285,27 @@
 
 ### Serialization
 
-*   [Protocol Puffers (⭐156)](https://github.com/PragmaTwice/protopuf) - A little, highly templated, and protobuf-compatible serialization/deserialization header-only library written in C++20. \[Apache-2.0]
+*   [Protocol Puffers (⭐162)](https://github.com/PragmaTwice/protopuf) - A little, highly templated, and protobuf-compatible serialization/deserialization header-only library written in C++20. \[Apache-2.0]
 
 ## [7. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Database
 
-*   [TrailBase (⭐143)](https://github.com/trailbaseio/trailbase) - A fast, lightweight, single-file FireBase alternative with type-safe APIs, built-in V8 JS/ES6/TS engine, auth and admin dashboard [![GitHub Workflow Status](https://github.com/trailbaseio/trailbase/workflows/test/badge.svg)](https://github.com/trailbaseio/trailbase/actions?workflow=test)
+*   [TrailBase (⭐1.4k)](https://github.com/trailbaseio/trailbase) - A fast, lightweight, single-file FireBase alternative with type-safe APIs, built-in V8 JS/ES6/TS engine, auth and admin dashboard [![GitHub Workflow Status](https://github.com/trailbaseio/trailbase/workflows/test/badge.svg)](https://github.com/trailbaseio/trailbase/actions?workflow=test)
 
 ### Applications / Text processing
 
-*   [cchexcode/complate (⭐39)](https://github.com/cchexcode/complate) - An in-terminal text templating tool designed for standardizing messages (like for GIT commits). [![crates.io](https://img.shields.io/crates/v/complate.svg)](https://crates.io/crates/complate) [![crates.io](https://img.shields.io/crates/d/complate?label=crates.io%20downloads)](https://crates.io/crates/complate) [![build badge](https://github.com/cchexcode/complate/workflows/pipeline/badge.svg?branch=master)](https://github.com/cchexcode/complate/actions)
+*   [cchexcode/complate (⭐41)](https://github.com/cchexcode/complate) - An in-terminal text templating tool designed for standardizing messages (like for GIT commits). [![crates.io](https://img.shields.io/crates/v/complate.svg)](https://crates.io/crates/complate) [![crates.io](https://img.shields.io/crates/d/complate?label=crates.io%20downloads)](https://crates.io/crates/complate) [![build badge](https://github.com/cchexcode/complate/workflows/pipeline/badge.svg?branch=master)](https://github.com/cchexcode/complate/actions)
 
 ### Development tools / Deployment
 
-*   [release-plz (⭐853)](https://github.com/release-plz/release-plz) \[[release-plz](https://crates.io/crates/release-plz)] - Release crates from CI, with changelog generation and semver check. [![build badge](https://github.com/release-plz/release-plz/workflows/CI/badge.svg)](https://github.com/release-plz/release-plz/actions)
+*   [release-plz (⭐915)](https://github.com/release-plz/release-plz) \[[release-plz](https://crates.io/crates/release-plz)] - Release crates from CI, with changelog generation and semver check. [![build badge](https://github.com/release-plz/release-plz/workflows/CI/badge.svg)](https://github.com/release-plz/release-plz/actions)
 
 ### Libraries / Parsing
 
 *   [cchexcode/wavefront\_rs (⭐4)](https://github.com/cchexcode/wavefront_rs) - A parser for the Wavefront OBJ format. [![crates.io](https://img.shields.io/crates/v/wavefront_rs.svg)](https://crates.io/crates/wavefront_rs) [![crates.io](https://img.shields.io/crates/d/wavefront_rs?label=crates.io%20downloads)](https://crates.io/crates/wavefront_rs) [![build badge](https://github.com/cchexcode/wavefront_rs/workflows/pipeline/badge.svg?branch=master)](https://github.com/cchexcode/wavefront_rs/actions)
 
-## [8. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
-
-### Icons / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [@semantic-icons/heroicons](https://www.npmjs.com/package/@semantic-icons/heroicons) - [Semantic icons (⭐0)](https://github.com/khalilou88/semantic-icons) helps developers to use [Heroicons](https://heroicons.com/) icons inside Angular projects.
-
 ---
 
+- Prev: [Nov 29, 2024](/content/2024/11/29/README.md)
 - Next: [Nov 27, 2024](/content/2024/11/27/README.md)

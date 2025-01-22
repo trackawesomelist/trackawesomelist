@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 16, 2020
 
-18 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,13 +16,13 @@
 
 ### Meshing / Triangular and tetrahedral meshing
 
-*   [pygmsh (⭐782)](https://github.com/nschloe/pygmsh) - Python interface for Gmsh.
+*   [pygmsh (⭐865)](https://github.com/nschloe/pygmsh) - Python interface for Gmsh.
     (Python, GPL 3, GitHub)
 
 ### Visualization / Mesh tools
 
 *   [vedo](https://vedo.embl.es) - Library for scientific analysis and visualization of 3D objects based on VTK.
-    (Python, MIT, [GitHub (⭐1.9k)](https://github.com/marcomusy/vedo))
+    (Python, MIT, [GitHub (⭐2.1k)](https://github.com/marcomusy/vedo))
 
 ## [3. Awesome Veganism](/content/sdassow/awesome-veganism/README.md)
 
@@ -30,13 +30,7 @@
 
 *   [Daiya](https://daiyafoods.com/) - Amazing cheesecakes, frozen pizzas, various cheesy products, and more desserts.
 
-## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Projects Using Vue.js / Open Source
-
-*   [Agile Visitors (⭐24)](https://github.com/itsalb3rt/agile-visitors) - Application for registering employee entries with the possibility of generating reports, validating and storing users with minimal effort.
-
-## [5. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/README.md)
+## [4. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/README.md)
 
 ### Videos
 
@@ -47,7 +41,7 @@
 *   [AssemblyScript (⭐18)](https://github.com/LimeChain/as-scale-codec) - Maintained by LimeChain.
 *   [Python (⭐54)](https://github.com/polkascan/py-scale-codec) - Maintained by Polkascan Foundation.
 
-## [6. Awesome Roslyn](/content/ironcev/awesome-roslyn/README.md)
+## [5. Awesome Roslyn](/content/ironcev/awesome-roslyn/README.md)
 
 ### Tutorials
 
@@ -64,7 +58,7 @@
 *   [StructPacker (⭐50)](https://github.com/RudolfKurka/StructPacker) - Low-level, lightweight and performance-focused serializer for C# struct types. Auto-generates C# serialization code to achieve peak runtime performance and efficiency.
 *   [Svg to C# Source Generators](https://github.com/wieslawsoltes/SourceGenerators) - SVG to C# compiler. Compiles SVG drawing markup to C# using [SkiaSharp (⭐3k)](https://github.com/mono/SkiaSharp) as rendering engine.
 
-## [7. Awesome Corda](/content/chainstack/awesome-corda/README.md)
+## [6. Awesome Corda](/content/chainstack/awesome-corda/README.md)
 
 ### Programming
 
@@ -79,67 +73,61 @@
 
 *   [Auction (⭐1)](https://github.com/ashutoshmeher-r3/auction-cordapp) - A demo auction CorDapp.
 
-## [8. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
+## [7. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
 
 ### Articles and Presentations / cBPF
 
 *   [The FreeBSD manual page about BPF](https://www.freebsd.org/cgi/man.cgi?query=bpf\&sektion=4)
 
-## [9. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [8. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Component bundles
 
-*   [Smart UI for Blazor (⭐64)](https://github.com/htmlelements/smart-blazor) - ![last commit](https://img.shields.io/github/last-commit/https://github.com/htmlelements/smart-blazor?style=flat-square\&cacheSeconds=86400) Component library for Blazor including Grid, Kanban, Gantt, Chart, Docking, Pivot and more. [Website](https://www.htmlelements.com/blazor/).
+*   [Smart UI for Blazor (⭐63)](https://github.com/htmlelements/smart-blazor) - ![last commit](https://img.shields.io/github/last-commit/https://github.com/htmlelements/smart-blazor?style=flat-square\&cacheSeconds=86400) Component library for Blazor including Grid, Kanban, Gantt, Chart, Docking, Pivot and more. [Website](https://www.htmlelements.com/blazor/).
 
-## [10. Awesome Yew](/content/jetli/awesome-yew/README.md)
+## [9. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Articles / Frameworks
 
 *   [Yew - Rust & WebAsse-frontend framework](https://sudonull.com/post/11627-Yew-Rust-WebAsse-frontend-framework)
 
-## [11. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/README.md)
+## [10. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/README.md)
 
 ### Resources & Others / Wiki
 
 *   [Pokedex.org (⭐2.3k)](https://github.com/nolanlawson/pokedex.org) - Offline-capable Pokédex web site <https://pokedex.org>.
 
-## [12. Awesome Ruby](/content/markets/awesome-ruby/README.md)
+## [11. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Machine Learning
 
-*   [rumale (⭐766)](https://github.com/yoshoku/rumale) - A machine learning library with interfaces similar to Scikit-Learn.
+*   [rumale (⭐787)](https://github.com/yoshoku/rumale) - A machine learning library with interfaces similar to Scikit-Learn.
 
-## [13. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [12. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Web Frameworks
 
-*   [grip (⭐274)](https://github.com/grip-framework/grip) - The microframework for writing powerful web applications
+*   [grip (⭐280)](https://github.com/grip-framework/grip) - The microframework for writing powerful web applications
 
-## [14. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
+## [13. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
 
 ### Software / Frameworks
 
 *   [Iotivity](https://iotivity.org/) - IoTivity is an open source software framework enabling seamless device-to-device connectivity to address the emerging needs of the Internet of Things.
 
-## [15. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
+## [14. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
 ### In Russian
 
 *   [linkmeup](https://linkmeup.ru/) - Podcast about Networks, Telecom and other IT.
 
-## [16. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
-
-### Tools
-
-*   🎨🌍🔧 [Palettolithic](https://palettolithic.com) - Generates harmonius color palettes based on one color.
-
-## [17. Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md)
+## [15. Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md)
 
 ### IR Tools Collection / Memory Analysis Tools
 
 *   [Memoryze for Mac](https://www.fireeye.com/services/freeware/memoryze.html) - Memoryze for Mac is Memoryze but then for Macs. A lower number of features, however.
 
-## [18. Awesome Ionic](/content/candelibas/awesome-ionic/README.md)
+## [16. Awesome Ionic](/content/candelibas/awesome-ionic/README.md)
 
 ### Tools
 

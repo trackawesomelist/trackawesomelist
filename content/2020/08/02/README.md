@@ -1,18 +1,12 @@
 # Awesome List Updates on Aug 02, 2020
 
-6 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / UI Components
-
-*   [vue-splash (⭐128)](https://github.com/MehdiKhoshnevisz/vue-splash) - A simple and cool splash plugin for vue.js 💦
-
-## [2. Awesome Shell](/content/alebcay/awesome-shell/README.md)
+## [1. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
 ### Command-Line Productivity
 
@@ -22,7 +16,7 @@
 
 *   [zoxide (⭐13k)](https://github.com/ajeetdsouza/zoxide) - A faster way to navigate your filesystem, written in Rust
 
-## [3. Awesome Mastodon](/content/tleb/awesome-mastodon/README.md)
+## [2. Awesome Mastodon](/content/tleb/awesome-mastodon/README.md)
 
 ### Official
 
@@ -41,13 +35,13 @@
 *   [Mastodon – Simplified Federation!](https://addons.mozilla.org/firefox/addon/mastodon-simplified-federation/) - Redirect clicks on remote follow/interaction buttons to your own instance ([source code (⭐80)](https://github.com/rugk/mastodon-simplified-federation)).
 *   [Fediverse Explorer](https://fediverse.0qz.fun/) - Trending hashtags and popular toots, regenerated every hour.
 
-## [4. Awesome Video](/content/krzemienski/awesome-video/README.md)
+## [3. Awesome Video](/content/krzemienski/awesome-video/README.md)
 
 ### HLS / Talks Presentations Podcasts
 
-*   [carlanton/m3u8-parser (⭐175)](https://github.com/carlanton/m3u8-parser)  - HLS compliant m3u8 parser for Java.
+*   [carlanton/m3u8-parser (⭐186)](https://github.com/carlanton/m3u8-parser)  - HLS compliant m3u8 parser for Java.
 
-## [5. Awesome Python](/content/vinta/awesome-python/README.md)
+## [4. Awesome Python](/content/vinta/awesome-python/README.md)
 
 ### Algorithms and Design Patterns
 
@@ -147,11 +141,11 @@
 
 *   [vidgear (⭐3.3k)](https://github.com/abhiTronix/vidgear) - Most Powerful multi-threaded Video Processing framework.
 
-## [6. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [5. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Animations / Other
 
-*   [particles-bg (⭐638)](https://github.com/lindelof/particles-bg) - A lightweight React particles animation background component.
+*   [particles-bg (⭐646)](https://github.com/lindelof/particles-bg) - A lightweight React particles animation background component.
 
 ---
 

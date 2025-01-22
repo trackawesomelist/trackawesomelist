@@ -10,7 +10,7 @@
 
 ### Programming Languages / Node.js
 
-*   [node2nix (⭐513)](https://github.com/svanderburg/node2nix) - Generate Nix expression from a `package.json` (or `package-lock.json`) (to be stored as files).
+*   [node2nix (⭐534)](https://github.com/svanderburg/node2nix) - Generate Nix expression from a `package.json` (or `package-lock.json`) (to be stored as files).
 
 ## [2. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
@@ -33,11 +33,11 @@
 
 ### Software / Community-Supported Agriculture (CSA)
 
-*   [ACP Admin](https://acp-admin.ch/) - CSA administration. Manage members, subscriptions, deliveries, drop-off locations, member participation, invoices and emails (documentation in French). ([Source Code (⭐37)](https://github.com/acp-admin/acp-admin/)) `MIT` `Ruby`
+*   [ACP Admin](https://acp-admin.ch/) - CSA administration. Manage members, subscriptions, deliveries, drop-off locations, member participation, invoices and emails (documentation in French). ([Source Code (⭐44)](https://github.com/acp-admin/acp-admin/)) `MIT` `Ruby`
 
 ### Software / Groupware
 
-*   [Tracim (⭐207)](https://github.com/tracim/tracim) - Collaborative Platform for team collaboration: file,threads,notes,agenda,etc. `AGPL-3.0/LGPL-3.0/MIT` `Python`
+*   [Tracim (⭐221)](https://github.com/tracim/tracim) - Collaborative Platform for team collaboration: file,threads,notes,agenda,etc. `AGPL-3.0/LGPL-3.0/MIT` `Python`
 
 ## [5. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
@@ -53,7 +53,7 @@
 
 ## [7. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
 
-### Free Content
+### Free Content / Commerical Tools
 
 *   [Modeling Agents with Probabilistic Programs](https://agentmodels.org/) - This book describes and implements models of rational agents for (PO)MDPs and Reinforcement Learning.
 

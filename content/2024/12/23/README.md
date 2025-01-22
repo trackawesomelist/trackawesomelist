@@ -10,19 +10,19 @@
 
 ### Libraries / Computation
 
-*   [fastnum (⭐68)](https://github.com/neogenie/fastnum) [fastnum](https://crates.io/crates/fastnum) - Fast exact precision decimal numbers implemented in pure Rust. Suitable for financial, crypto and any other fixed-precision calculations.
+*   [fastnum (⭐153)](https://github.com/neogenie/fastnum) [fastnum](https://crates.io/crates/fastnum) - Fast exact precision decimal numbers implemented in pure Rust. Suitable for financial, crypto and any other fixed-precision calculations.
 
 ## [2. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [vue3-carousel (⭐757)](https://github.com/ismail9k/vue3-carousel) - A highly customizable, lightweight Vue 3 carousel component for your next awesome project.
+*   [vue3-carousel (⭐769)](https://github.com/ismail9k/vue3-carousel) - A highly customizable, lightweight Vue 3 carousel component for your next awesome project.
 
 ## [3. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### Free / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [Angspire (⭐7)](https://github.com/tbarracha/Angspire) - Angular + .NET (monorepo) project template designed to simplify development with out-of-the-box features like (basic) user authentication and frontend themes, reducing setup time and providing a scalable, maintainable foundation for your applications.
+*   [Angspire (⭐10)](https://github.com/tbarracha/Angspire) - Angular + .NET (monorepo) project template designed to simplify development with out-of-the-box features like (basic) user authentication and frontend themes, reducing setup time and providing a scalable, maintainable foundation for your applications.
 
 ### QR Codes / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -32,23 +32,23 @@
 
 ### AI / Diagnostics
 
-*   [milanglacier/yarepl.nvim#aider-extensions (⭐106)](https://github.com/milanglacier/yarepl.nvim/blob/main/extensions/README.md) - Integration with [aider-chat](https://aider.chat), a TUI AI coding assistant.
+*   [milanglacier/yarepl.nvim#aider-extensions (⭐120)](https://github.com/milanglacier/yarepl.nvim/blob/main/extensions/README.md) - Integration with [aider-chat](https://aider.chat), a TUI AI coding assistant.
 
 ### Utility / Diagnostics
 
-*   [MisanthropicBit/decipher.nvim (⭐34)](https://github.com/MisanthropicBit/decipher.nvim) - Encode and decode text using various codecs such as base64.
+*   [MisanthropicBit/decipher.nvim (⭐35)](https://github.com/MisanthropicBit/decipher.nvim) - Encode and decode text using various codecs such as base64.
 
 ### Motion / Diagnostics
 
-*   [cxwx/specs.nvim (⭐3)](https://github.com/cxwx/specs.nvim) - A fast and lightweight Neovim Lua plugin to keep an eye on where your cursor has jumped.
+*   [cxwx/specs.nvim (⭐8)](https://github.com/cxwx/specs.nvim) - A fast and lightweight Neovim Lua plugin to keep an eye on where your cursor has jumped.
 
 ### Keybinding / Diagnostics
 
-*   [TheBlob42/houdini.nvim (⭐34)](https://github.com/TheBlob42/houdini.nvim) - Create shortcut to escape modes without delay.
+*   [TheBlob42/houdini.nvim (⭐38)](https://github.com/TheBlob42/houdini.nvim) - Create shortcut to escape modes without delay.
 
 ### Split and Window / Diagnostics
 
-*   [MisanthropicBit/winmove.nvim (⭐6)](https://github.com/MisanthropicBit/winmove.nvim) - Easily move, swap, and resize windows.
+*   [MisanthropicBit/winmove.nvim (⭐7)](https://github.com/MisanthropicBit/winmove.nvim) - Easily move, swap, and resize windows.
 
 ## [5. Awesome Social Enterprise](/content/RayBB/awesome-social-enterprise/README.md)
 
@@ -60,12 +60,12 @@
 
 ### Frameworks
 
-*   [AUI (⭐91)](https://github.com/aui-framework/aui) - Declarative UI toolkit for C++20. \[MPL2]
+*   [AUI (⭐103)](https://github.com/aui-framework/aui) - Declarative UI toolkit for C++20. \[MPL2]
 
 ### Miscellaneous
 
-*   [libONVIF (⭐168)](https://github.com/Privatehive/libONVIF) - Yet another ONVIF library. \[GPL-3.0]
-*   [simdzone (⭐121)](https://github.com/NLnetLabs/simdzone) - Fast and standards compliant DNS zone parser. \[BSD-3-Clause]
+*   [libONVIF (⭐173)](https://github.com/Privatehive/libONVIF) - Yet another ONVIF library. \[GPL-3.0]
+*   [simdzone (⭐125)](https://github.com/NLnetLabs/simdzone) - Fast and standards compliant DNS zone parser. \[BSD-3-Clause]
 
 ## [7. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -75,7 +75,7 @@
 
 ### Large Language Models (LLMs)
 
-*   [comet-ml/opik (⭐2.6k)](https://github.com/comet-ml/opik): Evaluate, test, and ship LLM applications with a suite of observability tools to calibrate language model outputs across your dev and production lifecycle.
+*   [comet-ml/opik (⭐4.6k)](https://github.com/comet-ml/opik): Evaluate, test, and ship LLM applications with a suite of observability tools to calibrate language model outputs across your dev and production lifecycle.
 
 ### AI Engineering / Multi-agents
 
@@ -92,4 +92,5 @@
 
 ---
 
+- Prev: [Dec 24, 2024](/content/2024/12/24/README.md)
 - Next: [Dec 22, 2024](/content/2024/12/22/README.md)

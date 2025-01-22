@@ -63,7 +63,7 @@
 ### Third-party APIs
 
 *   [google (⭐25)](https://github.com/PlaceOS/google) - Google API wrapper
-*   [office365 (⭐8)](https://github.com/PlaceOS/office365) - Microsoft Graph API wrapper
+*   [office365 (⭐9)](https://github.com/PlaceOS/office365) - Microsoft Graph API wrapper
 
 ## [3. Awesome Cassandra](/content/Anant/awesome-cassandra/README.md)
 
@@ -75,13 +75,13 @@
 
 ### Applications / System tools
 
-*   [orhun/kmon (⭐2.5k)](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor ![https://github.com/orhun/kmon/actions](https://img.shields.io/github/actions/workflow/status/orhun/kmon/ci.yml?branch=master\&label=build)
+*   [orhun/kmon (⭐2.6k)](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor ![https://github.com/orhun/kmon/actions](https://img.shields.io/github/actions/workflow/status/orhun/kmon/ci.yml?branch=master\&label=build)
 
 ## [5. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 
 ### Hash Cracking Tools / Zealandia
 
-*   [GoCrack (⭐1.1k)](https://github.com/fireeye/gocrack) - Management Web frontend for distributed password cracking sessions using hashcat (or other supported tools) written in Go.
+*   [GoCrack (⭐1.2k)](https://github.com/fireeye/gocrack) - Management Web frontend for distributed password cracking sessions using hashcat (or other supported tools) written in Go.
 
 ## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -121,12 +121,12 @@
 
 ### Database Management
 
-*   [redux (⭐85)](https://github.com/richfitz/redux) - Redis client for R.
+*   [redux (⭐94)](https://github.com/richfitz/redux) - Redis client for R.
 
 ### Machine Learning
 
 *   [mlr (⭐1.6k)](https://github.com/mlr-org/mlr) - Extensible framework for classification, regression, survival analysis and clustering \[DEPRECIATED]
-*   [mlr3 <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐863)](https://github.com/mlr-org/mlr3) -  Next generation extensible framework for classification, regression, survival analysis and clustering
+*   [mlr3 <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐949)](https://github.com/mlr-org/mlr3) -  Next generation extensible framework for classification, regression, survival analysis and clustering
 
 ---
 

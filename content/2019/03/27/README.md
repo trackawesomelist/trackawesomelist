@@ -28,14 +28,14 @@ Topics: Angular, Web Components, Frontend Architecture, Microservices, Monorepos
 
 ### Network Tools / Transport Layer Security Tools
 
-*   [SSLyze (⭐3.2k)](https://github.com/nabla-c0d3/sslyze) - Fast and comprehensive TLS/SSL configuration analyzer to help identify security mis-configurations.
-*   [crackpkcs12 (⭐139)](https://github.com/crackpkcs12/crackpkcs12) - Multithreaded program to crack PKCS#12 files (`.p12` and `.pfx` extensions), such as TLS/SSL certificates.
+*   [SSLyze (⭐3.3k)](https://github.com/nabla-c0d3/sslyze) - Fast and comprehensive TLS/SSL configuration analyzer to help identify security mis-configurations.
+*   [crackpkcs12 (⭐147)](https://github.com/crackpkcs12/crackpkcs12) - Multithreaded program to crack PKCS#12 files (`.p12` and `.pfx` extensions), such as TLS/SSL certificates.
 
 ## [4. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Device / Augmented Reality
 
-*   [VPN (⭐341)](https://github.com/X-dea/Flutter_VPN) <!--stargazers:X-dea/Flutter_VPN--> - Access VPN services by [Jason C.H](https://github.com/ctrysbita)
+*   [VPN (⭐361)](https://github.com/X-dea/Flutter_VPN) <!--stargazers:X-dea/Flutter_VPN--> - Access VPN services by [Jason C.H](https://github.com/ctrysbita)
 
 ### 🇧🇷 Brazil / Misc
 
@@ -87,7 +87,7 @@ Topics: Angular, Web Components, Frontend Architecture, Microservices, Monorepos
 
 ### Python / General-Purpose Machine Learning
 
-*   [StellarGraph (⭐2.9k)](https://github.com/stellargraph/stellargraph): Machine Learning on Graphs, a Python library for machine learning on graph-structured (network-structured) data.
+*   [StellarGraph (⭐3k)](https://github.com/stellargraph/stellargraph): Machine Learning on Graphs, a Python library for machine learning on graph-structured (network-structured) data.
 
 ## [8. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 

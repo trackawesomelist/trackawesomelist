@@ -138,19 +138,19 @@
 
 ### Models/Projects
 
-*   [TensorFlow White Paper Notes (⭐437)](https://github.com/samjabrahams/tensorflow-white-paper-notes) - Annotated notes and summaries of the TensorFlow white paper, along with SVG figures and links to documentation
+*   [TensorFlow White Paper Notes (⭐439)](https://github.com/samjabrahams/tensorflow-white-paper-notes) - Annotated notes and summaries of the TensorFlow white paper, along with SVG figures and links to documentation
 
 ## [9. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Email
 
-*   [Mautic (⭐6.9k)](https://github.com/mautic/mautic) - Email marketing automation
+*   [Mautic (⭐7.6k)](https://github.com/mautic/mautic) - Email marketing automation
 
 ## [10. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
 ### Frameworks / Misc
 
-*   [Foundation for Emails (⭐7.7k)](https://github.com/zurb/foundation-emails) - Quickly create responsive HTML emails that work on any device & client. Even Outlook.
+*   [Foundation for Emails (⭐7.8k)](https://github.com/zurb/foundation-emails) - Quickly create responsive HTML emails that work on any device & client. Even Outlook.
 
 ## [11. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
 
@@ -219,7 +219,7 @@
 
 ### Gesture
 
-*   [SwiftyGestureRecognition (⭐162)](https://github.com/b3ll/SwiftyGestureRecognition) - UIGestureRecognizers in Xcode Playgrounds.
+*   [SwiftyGestureRecognition (⭐163)](https://github.com/b3ll/SwiftyGestureRecognition) - UIGestureRecognizers in Xcode Playgrounds.
 
 ## [19. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 
@@ -352,20 +352,20 @@ git log Branch1 ^Branch2
 
 ### Domain-specific language
 
-*   [Absinthe Graphql (⭐4.2k)](https://github.com/absinthe-graphql/absinthe) - Fully featured GraphQL library.
+*   [Absinthe Graphql (⭐4.3k)](https://github.com/absinthe-graphql/absinthe) - Fully featured GraphQL library.
 
 ### Framework Components
 
-*   [absinthe\_plug (⭐255)](https://github.com/absinthe-graphql/absinthe_plug) - Plug support for Absinthe.
+*   [absinthe\_plug (⭐261)](https://github.com/absinthe-graphql/absinthe_plug) - Plug support for Absinthe.
 *   [ex\_admin (⭐1.2k)](https://github.com/smpallen99/ex_admin) - ExAdmin is an auto administration package for Elixir and the Phoenix Framework.
 
 ### ORM and Datamapping
 
-*   [eventstore (⭐1k)](https://github.com/slashdotdash/eventstore) - A CQRS EventStore using Postgres for persistence, written in Elixir.
+*   [eventstore (⭐1.1k)](https://github.com/slashdotdash/eventstore) - A CQRS EventStore using Postgres for persistence, written in Elixir.
 
 ### Text and Numbers
 
-*   [sentient (⭐34)](https://github.com/dantame/sentient) - Simple sentiment analysis based on the AFINN-111 wordlist.
+*   [sentient (⭐35)](https://github.com/dantame/sentient) - Simple sentiment analysis based on the AFINN-111 wordlist.
 
 ### Websites
 
@@ -397,7 +397,7 @@ git log Branch1 ^Branch2
 
 ### Packages / Debugging / Profiling
 
-*   [why-is-node-running (⭐1.8k)](https://github.com/mafintosh/why-is-node-running) - Node.js is running but you don't know why?
+*   [why-is-node-running (⭐1.9k)](https://github.com/mafintosh/why-is-node-running) - Node.js is running but you don't know why?
 
 ### Packages / Command-line utilities
 
@@ -406,7 +406,7 @@ git log Branch1 ^Branch2
 
 ### Packages / Text
 
-*   [matcher (⭐536)](https://github.com/sindresorhus/matcher) - Simple wildcard matching.
+*   [matcher (⭐539)](https://github.com/sindresorhus/matcher) - Simple wildcard matching.
 
 ### Packages / Testing
 
@@ -417,7 +417,7 @@ git log Branch1 ^Branch2
 ### Packages / Miscellaneous
 
 *   [mem (⭐1.1k)](https://github.com/sindresorhus/mem) - Memoize functions - an optimization technique used to speed up consecutive function calls by caching the result of calls with identical input.
-*   [adit (⭐54)](https://github.com/markelog/adit) - SSH tunneling made simple.
+*   [adit (⭐55)](https://github.com/markelog/adit) - SSH tunneling made simple.
 
 ## [36. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
@@ -518,7 +518,7 @@ Violent Python shows you how to move from a theoretical understanding of offensi
 
 ### Implementations/Compilers
 
-*   [crisp (⭐43)](https://github.com/rhysd/Crisp) - Lisp dialect implemented with Crystal
+*   [crisp (⭐44)](https://github.com/rhysd/Crisp) - Lisp dialect implemented with Crystal
 
 ## [43. Awesome Github](/content/phillipadsmith/awesome-github/week/README.md)
 
@@ -564,7 +564,7 @@ Violent Python shows you how to move from a theoretical understanding of offensi
 
 ### Books
 
-*   [Introduction to Autonomous Robots (⭐1.5k)](https://github.com/correll/Introduction-to-Autonomous-Robots/releases)
+*   [Introduction to Autonomous Robots (⭐1.7k)](https://github.com/correll/Introduction-to-Autonomous-Robots/releases)
 
 ## [47. Awesome Ava](/content/avajs/awesome-ava/week/README.md)
 

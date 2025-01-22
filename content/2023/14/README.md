@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 03 - Apr 09, 2023
 
-50 awesome lists updated this week.
+49 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,11 +16,11 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [exa (zshell) (⭐48)](https://github.com/z-shell/zsh-exa) - replace `ls` with [ogham/exa (⭐23k)](https://github.com/ogham/exa).
+*   [exa (zshell) (⭐68)](https://github.com/z-shell/zsh-exa) - replace `ls` with [ogham/exa (⭐24k)](https://github.com/ogham/exa).
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [gallifrey-war (⭐1)](https://github.com/cdubos-fr/gallifrey-war) - Inspired by [gallifrey (⭐172k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#gallifrey). Includes decorators for `git` information, user\@host and current directory.
+*   [gallifrey-war (⭐1)](https://github.com/cdubos-fr/gallifrey-war) - Inspired by [gallifrey (⭐175k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#gallifrey). Includes decorators for `git` information, user\@host and current directory.
 *   [t2colorful (⭐3)](https://github.com/AmirhosseinAbutalebi/t2colorful-oh.my.zsh) - Includes decorators for `git` information, current directory, last command exit status, and current time.
 
 ## [3. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
@@ -33,12 +33,12 @@
 
 ### C Libraries
 
-*   [libsecp256k1 (⭐2k)](https://github.com/bitcoin-core/secp256k1)
+*   [libsecp256k1 (⭐2.1k)](https://github.com/bitcoin-core/secp256k1)
 
 ### Ruby Libraries
 
-*   [bitcoinrb (⭐58)](https://github.com/chaintope/bitcoinrb) - Ruby bitcoin library including script interpreter.
-*   [bech32rb (⭐18)](https://github.com/azuchi/bech32rb) - Bech32 and Bech32m encode/decode library.
+*   [bitcoinrb (⭐63)](https://github.com/chaintope/bitcoinrb) - Ruby bitcoin library including script interpreter.
+*   [bech32rb (⭐20)](https://github.com/azuchi/bech32rb) - Bech32 and Bech32m encode/decode library.
 *   [bip-schnorrrb (⭐7)](https://github.com/chaintope/bip-schnorrrb) - Schnorr signature library for Bitcoin.
 
 ## [5. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
@@ -58,7 +58,7 @@
 
 ### Audio Editing
 
-*   [Stargate DAW (⭐615)](https://github.com/stargatedaw/stargate/) - A cross-platform, all-in-one digital audio workstation and plugin suite, optimized for EDM production.
+*   [Stargate DAW (⭐697)](https://github.com/stargatedaw/stargate/) - A cross-platform, all-in-one digital audio workstation and plugin suite, optimized for EDM production.
 
 ## [8. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
@@ -90,16 +90,16 @@
 
 ### Applications / Operating systems
 
-*   [Andy-Python-Programmer/aero (⭐1.1k)](https://github.com/Andy-Python-Programmer/aero) - A modern, unix-like operating system following the monolithic kernel design.
+*   [Andy-Python-Programmer/aero (⭐1.2k)](https://github.com/Andy-Python-Programmer/aero) - A modern, unix-like operating system following the monolithic kernel design.
 
 ### Libraries / Encoding
 
 *   [FlatBuffers](https://flatbuffers.dev/)
-    *   [frol/flatc-rust (⭐106)](https://github.com/frol/flatc-rust) - FlatBuffers compiler (flatc) integration for Cargo build scripts
+    *   [frol/flatc-rust (⭐112)](https://github.com/frol/flatc-rust) - FlatBuffers compiler (flatc) integration for Cargo build scripts
 
 ### Libraries / Text processing
 
-*   [null8626/decancer (⭐96)](https://github.com/null8626/decancer) \[[decancer](https://crates.io/crates/decancer)] - A tiny package that removes common unicode confusables/homoglyphs from strings. [![crates](https://img.shields.io/crates/v/decancer.svg)](https://crates.io/crates/decancer) [![build badge](https://github.com/null8626/decancer/workflows/CI/badge.svg)](https://github.com/null8626/decancer/actions/workflows/CI.yml)
+*   [null8626/decancer (⭐104)](https://github.com/null8626/decancer) \[[decancer](https://crates.io/crates/decancer)] - A tiny package that removes common unicode confusables/homoglyphs from strings. [![crates](https://img.shields.io/crates/v/decancer.svg)](https://crates.io/crates/decancer) [![build badge](https://github.com/null8626/decancer/workflows/CI/badge.svg)](https://github.com/null8626/decancer/actions/workflows/CI.yml)
 
 ## [12. BEM Resources](/content/sturobson/BEM-resources/week/README.md)
 
@@ -124,11 +124,11 @@
 
 ### Third-Party Packages / Files/Images
 
-*   [sorl-thumbnail (⭐1.7k)](https://github.com/jazzband/sorl-thumbnail) - Thumbnails for Django.
+*   [sorl-thumbnail (⭐1.8k)](https://github.com/jazzband/sorl-thumbnail) - Thumbnails for Django.
 
 ### Third-Party Packages / Models
 
-*   [django-simple-history (⭐2.2k)](https://github.com/jazzband/django-simple-history) - Store model history and view/revert changes from the admin.
+*   [django-simple-history (⭐2.3k)](https://github.com/jazzband/django-simple-history) - Store model history and view/revert changes from the admin.
 
 ## [15. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
@@ -140,15 +140,15 @@
 
 ### GTFS Libraries / C++
 
-*   [just\_gtfs (⭐19)](https://github.com/mesozoic-drones/just_gtfs) - C++17 header-only library for reading and writing GTFS (used in [Valhalla (⭐4.3k)](https://github.com/valhalla/valhalla)). Main features: fast reading and writing of GTFS feeds, support for [extended GTFS route types](https://developers.google.com/transit/gtfs/reference/extended-route-types), simple working with GTFS Date and Time formats.
+*   [just\_gtfs (⭐22)](https://github.com/mesozoic-drones/just_gtfs) - C++17 header-only library for reading and writing GTFS (used in [Valhalla (⭐4.6k)](https://github.com/valhalla/valhalla)). Main features: fast reading and writing of GTFS feeds, support for [extended GTFS route types](https://developers.google.com/transit/gtfs/reference/extended-route-types), simple working with GTFS Date and Time formats.
 
 ### GTFS Libraries / R
 
-*   [gtfsio (⭐13)](https://github.com/r-transit/gtfsio) - Fast and flexible functions to read and write GTFS in R.
+*   [gtfsio (⭐14)](https://github.com/r-transit/gtfsio) - Fast and flexible functions to read and write GTFS in R.
 
 ### GTFS Analysis Tools / Ruby
 
-*   [gtfstools (⭐38)](https://github.com/ipeaGIT/gtfstools) - A set of convenient tools for editing and analysing transit feeds in GTFS format in R.
+*   [gtfstools (⭐40)](https://github.com/ipeaGIT/gtfstools) - A set of convenient tools for editing and analysing transit feeds in GTFS format in R.
 
 ## [17. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
 
@@ -166,15 +166,15 @@
 
 ### Statusline / Diagnostics
 
-*   [freddiehaddad/feline.nvim (⭐272)](https://github.com/freddiehaddad/feline.nvim) - A minimal, stylish and customizable statusline written in Lua.
+*   [freddiehaddad/feline.nvim (⭐330)](https://github.com/freddiehaddad/feline.nvim) - A minimal, stylish and customizable statusline written in Lua.
 
 ### Debugging / Diagnostics
 
-*   [t-troebst/perfanno.nvim (⭐192)](https://github.com/t-troebst/perfanno.nvim) - Annotate your code with callgraph profiling data. Native support for perf, flamegraph and the LuaJit profiler.
+*   [t-troebst/perfanno.nvim (⭐299)](https://github.com/t-troebst/perfanno.nvim) - Annotate your code with callgraph profiling data. Native support for perf, flamegraph and the LuaJit profiler.
 
 ### Scrollbar / Diagnostics
 
-*   [lewis6991/satellite.nvim (⭐529)](https://github.com/lewis6991/satellite.nvim) - Decorate scrollbar.
+*   [lewis6991/satellite.nvim (⭐601)](https://github.com/lewis6991/satellite.nvim) - Decorate scrollbar.
 
 ## [20. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
@@ -186,17 +186,17 @@
 
 ### Tools / XML
 
-*   [pup (⭐144)](https://github.com/hexagon/pup) - Advanced process manager for Deno. With autorestart, fs watch, cron start, process telemetry, ipc, clustering, load balancer and more.
+*   [pup (⭐148)](https://github.com/hexagon/pup) - Advanced process manager for Deno. With autorestart, fs watch, cron start, process telemetry, ipc, clustering, load balancer and more.
 
 ## [22. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Booking and Scheduling
 
-*   [Seatsurfing](https://seatsurfing.app/) - Webbased app to book seats, desks and rooms for offices. ([Source Code (⭐113)](https://github.com/seatsurfing/backend)) `GPL-3.0` `Docker`
+*   [Seatsurfing](https://seatsurfing.app/) - Webbased app to book seats, desks and rooms for offices. ([Source Code (⭐163)](https://github.com/seatsurfing/backend)) `GPL-3.0` `Docker`
 
 ### Software / Money, Budgeting & Management
 
-*   [Actual](https://actualbudget.github.io/docs/) - Actual is a local-first personal finance tool based on zero-sum budgeting. It supports synchronization across devices, custom rules, manual transaction importing (from QIF, OFX, and QFX files), and optional automatic synchronization with many banks. ([Source Code (⭐3.1k)](https://github.com/actualbudget/actual-server)) `MIT` `Nodejs/Docker`
+*   [Actual](https://actualbudget.github.io/docs/) - Actual is a local-first personal finance tool based on zero-sum budgeting. It supports synchronization across devices, custom rules, manual transaction importing (from QIF, OFX, and QFX files), and optional automatic synchronization with many banks. ([Source Code (⭐3.4k)](https://github.com/actualbudget/actual-server)) `MIT` `Nodejs/Docker`
 
 ## [23. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
@@ -233,7 +233,7 @@
 
 ### Other Development Tools / Smart Contracts
 
-*   [TEALScript (⭐49)](https://github.com/algorand-devrel/TEALScript) - Enables Algorand smart contract development with native TypeScript syntax, tooling, and IDE support.
+*   [TEALScript (⭐52)](https://github.com/algorand-devrel/TEALScript) - Enables Algorand smart contract development with native TypeScript syntax, tooling, and IDE support.
 
 ## [27. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/week/README.md)
 
@@ -243,12 +243,12 @@
 
 ### :books: Literature / Scientific Research
 
-*   :newspaper: [Binary-code obfuscations in prevalent packer tools](https://dl.acm.org/doi/10.1145/2522968.2522972) (October 2013)
+*   :newspaper: [Binary-code obfuscations in prevalent packer tools](https://dl.acm.org/doi/10.1145/2522968.2522972) (October 2013)  :star:
 *   :newspaper: [A close look at a daily dataset of malware samples](https://dl.acm.org/doi/10.1145/3291061) (January 2019)
 *   :notebook: [Ether: Malware analysis via hardware virtualization extensions](https://dl.acm.org/doi/10.1145/1455770.1455779) (October 2008)
 *   :newspaper: [File packing from the malware perspective: Techniques, analysis approaches, and directions for enhancements](https://dl.acm.org/doi/10.1145/3530810) (December 2022)  :star:
 *   :notebook: [SATURN - Software deobfuscation framework based on LLVM](https://dl.acm.org/doi/10.1145/3338503.3357721) (November 2019)
-*   :notebook: [SE-PAC: A self-evolving packer classifier against rapid packers evolution](https://dl.acm.org/doi/10.1145/3422337.3447848) (April 2021)
+*   :notebook: [SE-PAC: A self-evolving packer classifier against rapid packers evolution](https://dl.acm.org/doi/10.1145/3422337.3447848) (April 2021)  :star:
 *   :newspaper: [WYSINWYX: What you see is not what you execute](https://dl.acm.org/doi/10.1145/1749608.1749612) (August 2010)
 
 ## [28. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
@@ -269,7 +269,7 @@
 
 ### Large Language Models (LLMs)
 
-*   [Haystack (⭐15k)](https://github.com/deepset-ai/haystack): framework for building applications with LLMs and Transformers (e.g. agents, semantic search, question-answering)
+*   [Haystack (⭐19k)](https://github.com/deepset-ai/haystack): framework for building applications with LLMs and Transformers (e.g. agents, semantic search, question-answering)
 
 ### Text-related Generative Tools / Multi-agents
 
@@ -279,7 +279,7 @@
 
 *   [Segment Anything | Meta AI](https://segment-anything.com/): "a new AI model from Meta AI that can "cut out" any object, in any image, with a single click"
 
-### Inbox: Speech-to-text (STT) and spoken content analysis / Deforum
+### Speech-to-text (STT) and spoken content analysis / Deforum
 
 *   [pgosar/ChatGDB (⭐902)](https://github.com/pgosar/ChatGDB): "Harness the power of ChatGPT inside the GDB debugger"
 *   [Reduce costs when prompting using GPT](https://www.codium.ai/blog/reduce-your-costs-by-30-when-using-gpt-3-for-python-code/)
@@ -290,19 +290,13 @@
 
 *   [pix2tex](https://lukas-blecher.github.io/LaTeX-OCR/) - LaTeX OCR ![windows](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/windows.svg) ![linux](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/linux.svg) ![mac](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/apple.svg) ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
 
-## [30. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
-
-### Blogs - Security / React
-
-*   [GraphQL for Pentesters](https://www.acceis.fr/graphql-for-pentesters/) - Introduction to Basic Concepts, Security Considerations & Reconnaissance, Vulnerabilities and Attacks, Offensive Tools.
-
-## [31. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
+## [30. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Projects
 
-*   [Spaceman (⭐365)](https://github.com/eliaperantoni/spaceman) - Spaceman is a cross-platform gRPC client designed to be pleasant to use and pretty to look at.
+*   [Spaceman (⭐370)](https://github.com/eliaperantoni/spaceman) - Spaceman is a cross-platform gRPC client designed to be pleasant to use and pretty to look at.
 
-## [32. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+## [31. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### Software / Log Management
 
@@ -310,23 +304,23 @@
 *   [GoAccess](https://goaccess.io/) - Real-time web log analyzer and interactive viewer that runs in a terminal or through the browser. ([Source Code (⭐18k)](https://github.com/allinurl/goaccess)) `MIT` `C`
 *   [rsyslog](https://www.rsyslog.com/) - Rocket-fast system for log processing. ([Source Code (⭐2k)](https://github.com/rsyslog/rsyslog)) `GPL-3.0` `C`
 
-## [33. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
+## [32. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
 
 ### Extensions / Community
 
-*   [Field Actions (⭐92)](https://github.com/utomic-media/directus-extension-field-actions) - Adds copy to clipboard and open URL's action-buttons to fields (interface + display).
+*   [Field Actions (⭐101)](https://github.com/utomic-media/directus-extension-field-actions) - Adds copy to clipboard and open URL's action-buttons to fields (interface + display).
 
-## [34. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [33. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Books / Visualization Tools
 
 *   [Software Engineering for Data Scientists](https://www.manning.com/books/software-engineering-for-data-scientists) - Early Access
 
-### Other Awesome Lists / Book Deals (Affiliated) 🛍
+### Other Awesome Lists / Book Deals (Affiliated)
 
 *   [Top Future Trends in Data Science in 2023](https://medium.com/the-modern-scientist/top-future-trends-in-data-science-in-2023-3e616c8998b8)
 
-## [35. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [34. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Resources / Tutorials & workshops
 
@@ -338,13 +332,13 @@
 *   [7 Easy Steps To Switch From Pandas to Lightning Fast Polars And Never Return](https://towardsdatascience.com/7-easy-steps-to-switch-from-pandas-to-lightning-fast-polars-and-never-return-b14c66fc85b9) - A cheat sheet blog post of the most common Pandas operations translated into Polars by [@BexTuychiev](https://github.com/BexTuychiev).
 *   [Polars for initial data analysis, Polars for production](https://pythonspeed.com/articles/polars-exploratory-data-analysis-vs-production/) - A blog post that shows how to use Polars for initial data analysis and then effectively in production by [@itamarst](https://github.com/itamarst).
 
-## [36. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [35. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Community / Community Chat Rooms
 
 *   [#rust-embedded-space:matrix.org](https://matrix.to/#/#rust-embedded-space:matrix.org) Most Embedded Rust related Matrix rooms are in the Rust Embedded Space
 
-## [37. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [36. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Reading and Writing Tools / Note-taking
 
@@ -357,7 +351,7 @@
 
 ### Developer Tools / Developer Utilities
 
-*   [ImHex](https://imhex.werwolv.net/) - A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/WerWolv/ImHex/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [ImHex](https://imhex.werwolv.net/) - Hex Editor for reverse engineers and programmers. [![OSS](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/WerWolv/ImHex/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Design and Product / Screencapturing Software
 
@@ -373,7 +367,7 @@
 
 ### Translation Tools / Audio Record and Process
 
-*   [OpenAI Translator (⭐23k)](https://github.com/yetone/openai-translator) - Browser extension and cross-platform desktop application for translation based on ChatGPT API.[![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/yetone/openai-translator)
+*   [OpenAI Translator (⭐24k)](https://github.com/yetone/openai-translator) - Browser extension and cross-platform desktop application for translation based on ChatGPT API.[![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/yetone/openai-translator)
 
 ### Proxy and VPN Tools / Audio Record and Process
 
@@ -386,42 +380,42 @@
 ### Utilities / System Related Tools
 
 *   [Sloth](https://sveinbjorn.org/sloth/) - Shows all open files, directories, sockets, pipes and devices in use by all running processes. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/sveinbjornt/Sloth/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [SwiftQuit (⭐283)](https://github.com/onebadidea/swiftquit/) - Enables automatic quitting of macOS apps when closing their windows. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/onebadidea/swiftquit) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [SwiftQuit (⭐336)](https://github.com/onebadidea/swiftquit/) - Enables automatic quitting of macOS apps when closing their windows. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/onebadidea/swiftquit) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [38. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
+## [37. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
 
 ### Examples
 
-*   [themerdev/themer (⭐5.4k)](https://github.com/themerdev/themer#readme) - Project logo. Visual description (flowchart) of what the project does. Build badges. TOC. Demo screenshot. Concise installation and usage sections, including common workflows. Colorful previews.
+*   [themerdev/themer (⭐5.5k)](https://github.com/themerdev/themer#readme) - Project logo. Visual description (flowchart) of what the project does. Build badges. TOC. Demo screenshot. Concise installation and usage sections, including common workflows. Colorful previews.
 
-## [39. Awesome React](/content/enaqx/awesome-react/week/README.md)
+## [38. Awesome React](/content/enaqx/awesome-react/week/README.md)
 
 ### React General Resources
 
 *   [React Official Website](https://react.dev/)
 *   [React Conferences](https://react.dev/community/conferences)
 
-## [40. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [39. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [unplugin-config (⭐22)](https://github.com/kirklin/unplugin-config) - Configuration file generator for web apps, allowing external customization of global variables without repackaging.
+*   [unplugin-config (⭐24)](https://github.com/kirklin/unplugin-config) - Configuration file generator for web apps, allowing external customization of global variables without repackaging.
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-vitepress-auto-sidebar (⭐84)](https://github.com/QC2168/vite-plugin-vitepress-auto-sidebar) - Automatically generates sidebar data by scanning directories, based on vitepress.
+*   [vite-plugin-vitepress-auto-sidebar (⭐111)](https://github.com/QC2168/vite-plugin-vitepress-auto-sidebar) - Automatically generates sidebar data by scanning directories, based on vitepress.
 
 ### Django / Community
 
-*   [django-vite-plugin (⭐91)](https://github.com/protibimbok/django-vite-plugin) - Integration for Django applications including vite plugin.
+*   [django-vite-plugin (⭐115)](https://github.com/protibimbok/django-vite-plugin) - Integration for Django applications including vite plugin.
 
-## [41. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
+## [40. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
 
 ### History / Cloud providers
 
 *   “Larry Page went to U of M and used the Michigan Terminal System. (…) when Google was working on App Engine, Page took inspiration from MTS and would exhort engineers to follow its example. (…) when I look at my AWS and GCP bills now, it feels very familiar!” ([source](https://news.ycombinator.com/item?id=35123587)) - The direct filiation between old-school university mainframes and current cloud services.
 
-## [42. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [41. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Authentication & Identity
 
@@ -438,7 +432,7 @@
 
 ### Databases & Spreadsheets
 
-*   [Neuledge](https://neuledge.com/) - Abstract ORM with a universal schema language for any kind of database.
+*   [Neuledge](https://neuledge.com/) - Abstract ORM with a universal schema language for any database.
 *   [Upstash](https://upstash.com/) - Serverless tailored redis provider.
 
 ### Deployment Hosting
@@ -489,33 +483,33 @@
 
 *   [EasyPost](https://www.easypost.com/) - Shipping APIs for e-commerce.
 
-## [43. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
+## [42. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
 
 ### Database
 
 *   [*Core Data Mastery in SwiftUI* by Mark Moeykens](https://www.bigmountainstudio.com/core-data)
 
-## [44. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
+## [43. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
 
 ### Terminal / CLI tools
 
-*   [dctl (⭐15)](https://github.com/FabienD/docker-stack) - dctl is a Cli tool that helps developers by allowing them to execute all docker compose commands anywhere in the terminal, and more. By [FabienD](https://github.com/FabienD)
+*   [dctl (⭐18)](https://github.com/FabienD/docker-stack) - dctl is a Cli tool that helps developers by allowing them to execute all docker compose commands anywhere in the terminal, and more. By [FabienD](https://github.com/FabienD)
 
-## [45. Awesome V](/content/vlang/awesome-v/week/README.md)
+## [44. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Package managers
 
-*   [vpm (⭐110)](https://github.com/vlang/vpm) - The V language package management tool written in V.
+*   [vpm (⭐119)](https://github.com/vlang/vpm) - The V language package management tool written in V.
 
-## [46. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [45. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Markup Languages
 
-*   [htmlyaml (⭐4)](https://github.com/nikolaydubina/htmlyaml) -  Rich rendering of YAML as HTML in Go
+*   [htmlyaml (⭐5)](https://github.com/nikolaydubina/htmlyaml) -  Rich rendering of YAML as HTML in Go
 
 ### Utilities
 
-*   [just (⭐31)](https://github.com/kazhuravlev/just) - Just a collection of useful functions for working with generic data structures.
+*   [just (⭐32)](https://github.com/kazhuravlev/just) - Just a collection of useful functions for working with generic data structures.
 
 ### Twitter / Libraries for creating HTTP middlewares
 
@@ -525,18 +519,18 @@
 
 *   [Golang Weekly](https://discu.eu/weekly/golang/) - Each monday projects, tutorials and articles about Go.
 
-## [47. Awesome Userscripts](/content/bvolpato/awesome-userscripts/week/README.md)
+## [46. Awesome Userscripts](/content/bvolpato/awesome-userscripts/week/README.md)
 
 ### Scripts / YouTube
 
 *   [YouTube Classic](https://ytclassic.com/greasemonkey) - Reverts YouTube to its classic design (unround corners, restore dislikes + remove/redirect Shorts).
 *   [YouTube Peek Preview](https://greasyfork.org/en/scripts/370755-youtube-peek-preview) - See video thumbnails, ratings and other details when you mouse over a Youtube link from almost any website.
 
-## [48. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+## [47. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Planning Coding Resources / Python
 
-*   [Gleam (⭐252)](https://github.com/dgrtwo/gleam) - A plotting library inspired by R-Shiny to create interactive plots.
+*   [Gleam (⭐255)](https://github.com/dgrtwo/gleam) - A plotting library inspired by R-Shiny to create interactive plots.
 
 ### Platforms and Software Resources / Immersive Planning and Design Platforms
 
@@ -544,9 +538,9 @@
 
 ### Other Resources / Other GitHub Resource Lists
 
-*   [ai-collection (⭐6.7k)](https://github.com/ai-collection/ai-collection) - Review of the generative AI landscape including tools/utilities.
+*   [ai-collection (⭐7.8k)](https://github.com/ai-collection/ai-collection) - Review of the generative AI landscape including tools/utilities.
 
-## [49. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [48. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
@@ -569,13 +563,13 @@
 
 *   [point.poker](https://www.point.poker/) - Online Planning Poker (consensus-based estimation tool). Free for unlimited users, teams, sessions, rounds, and votes. You don't need to register.
 
-## [50. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [49. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Programming Languages / [Other](#other-1)
 
 *   [fprettify](https://pypi.python.org/pypi/fprettify) — Auto-formatter for modern fortran source code, written in Python.
     Fprettify is a tool that provides consistent whitespace, indentation, and delimiter alignment in code, including the ability to change letter case and handle preprocessor directives, all while preserving revision history and tested for editor integration.
-*   [zarn (⭐42)](https://github.com/htrgouvea/zarn) — A lightweight static security analysis tool for modern Perl Apps
+*   [zarn (⭐47)](https://github.com/htrgouvea/zarn) — A lightweight static security analysis tool for modern Perl Apps
 
 ### Multiple languages / [Other](#other-1)
 

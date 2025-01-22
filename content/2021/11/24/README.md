@@ -33,7 +33,7 @@
 
 ### Tools / Java
 
-*   [Lightning (⭐29)](https://github.com/aerokube/lightning-java) - Lightweight and lightning fast WebDriver client.
+*   [Lightning (⭐30)](https://github.com/aerokube/lightning-java) - Lightweight and lightning fast WebDriver client.
 
 ### Cloud Services / Desktop GUI Automation (non-browser-centric)
 
@@ -55,13 +55,13 @@
 
 ### Examples
 
-*   [ajeetdsouza/zoxide (⭐20k)](https://github.com/ajeetdsouza/zoxide#readme) - Badges, project GIF, concise description, quick links, stepwise installation instructions.
+*   [ajeetdsouza/zoxide (⭐24k)](https://github.com/ajeetdsouza/zoxide#readme) - Badges, project GIF, concise description, quick links, stepwise installation instructions.
 
 ## [8. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Beginner
 
-*   📹 [Common Lisp Programming: from novice to effective developer](https://www.udemy.com/course/common-lisp-programming/?referralCode=2F3D698BBC4326F94358) - A learning video series on the Udemy platform (*full content under paid access*). By an active lisper and community contributor (@vindarel). [Github home (⭐38)](https://github.com/vindarel/common-lisp-course-in-videos/).
+*   📹 [Common Lisp Programming: from novice to effective developer](https://www.udemy.com/course/common-lisp-programming/?referralCode=2F3D698BBC4326F94358) - A learning video series on the Udemy platform (*full content under paid access*). By an active lisper and community contributor (@vindarel). [Github home (⭐43)](https://github.com/vindarel/common-lisp-course-in-videos/).
     > Thanks for supporting my work on Udemy. I can send a free link to students, just contact me.
 
 ## [9. Public Apis](/content/public-apis/public-apis/README.md)
@@ -106,8 +106,6 @@
 
   CORS: Unknown
 
-  Call this API: 
-
 
 - API: [Tomba email finder](https://tomba.io/api)
 
@@ -118,8 +116,6 @@
   HTTPS: Yes
 
   CORS: Yes
-
-  Call this API: 
 
 
 
@@ -149,7 +145,7 @@
 
   CORS: Unknown
 
-  Call this API: 
+  : 
 
 
 - API: [Finage](https://finage.co.uk)
@@ -162,7 +158,7 @@
 
   CORS: Unknown
 
-  Call this API: 
+  : 
 
 
 
@@ -296,7 +292,7 @@
 
 ### Tools / Vulnerable Applications for practice
 
-*   [Oversecured Vulnerable Android App (OVAA) (⭐615)](https://github.com/oversecured/ovaa)
+*   [Oversecured Vulnerable Android App (OVAA) (⭐668)](https://github.com/oversecured/ovaa)
 
 ---
 

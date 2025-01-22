@@ -21,13 +21,12 @@
 ### Other Free Resources
 
 *   [ElevateAI](https://www.elevateai.com) - Get up to 200 hours of audio transcription for free every month.
-*   [OpenUtils](https://openutils.org/) - There are various free tools available for developers, such as HTML/CSS/JavaScript formatters, minifiers, converters, encoders/decoder,s and many others.
 
 ## [3. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Bars and Lines / Diagnostics
 
-*   [Bekaboo/dropbar.nvim (⭐950)](https://github.com/Bekaboo/dropbar.nvim) - IDE-like breadcrumbs, out of the box.
+*   [Bekaboo/dropbar.nvim (⭐1.2k)](https://github.com/Bekaboo/dropbar.nvim) - IDE-like breadcrumbs, out of the box.
 
 ## [4. Go Recipes](/content/nikolaydubina/go-recipes/README.md)
 
@@ -46,7 +45,7 @@
 
 ### Audio
 
-*   [umidiparser (⭐28)](https://github.com/bixb922/umidiparser) - MIDI file parser for MicroPython, CircuitPython and Python.
+*   [umidiparser (⭐32)](https://github.com/bixb922/umidiparser) - MIDI file parser for MicroPython, CircuitPython and Python.
 
 ## [7. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
@@ -54,20 +53,20 @@
 
 *   [Building a Rust service with Nix](https://fasterthanli.me/series/building-a-rust-service-with-nix) - An in-depth blog series about creating a Rust application with Nix.
 *   [Nix from First Principles: Flake Edition](https://tonyfinn.com/blog/nix-from-first-principles-flake-edition/) - A modern crash-course to using Nix features, Flakes, and developing with Nix.
-*   [Nix Shorts (⭐17)](https://github.com/alper/nix-shorts) - A collection of short notes about how to use Nix, updated for Nix Flakes.
+*   [Nix Shorts (⭐19)](https://github.com/alper/nix-shorts) - A collection of short notes about how to use Nix, updated for Nix Flakes.
 *   [Zero to Nix](https://zero-to-nix.com/) - A flake-centric guide to Nix and its concepts created by Determinate Systems to quickly onboard beginners.
 
 ## [8. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Tab Bar
 
-*   [AnimatedTabBar (⭐342)](https://github.com/exyte/AnimatedTabBar) - A tabbar with number of preset animations. Written with SwiftUI.
+*   [AnimatedTabBar (⭐413)](https://github.com/exyte/AnimatedTabBar) - A tabbar with number of preset animations. Written with SwiftUI.
 
 ## [9. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
 
 ### Tools & Software / Utilities
 
-*   [Go Get Crawl (⭐126)](https://github.com/karust/gogetcrawl) - Extract web archive data using [Wayback Machine](https://web.archive.org/) and [Common Crawl](https://commoncrawl.org/). *(Stable)*
+*   [Go Get Crawl (⭐150)](https://github.com/karust/gogetcrawl) - Extract web archive data using [Wayback Machine](https://web.archive.org/) and [Common Crawl](https://commoncrawl.org/). *(Stable)*
 
 ## [10. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 
@@ -87,13 +86,9 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 ## [11. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
-### Software / Communication - Social Networks and Forums
-
-*   [Anahita](https://www.anahita.io/) - Open Source Social Networking Framework and Platform. ([Source Code (⭐434)](https://github.com/anahitasocial/anahita)) `GPL-3.0` `PHP`
-
 ### Software / Media Streaming - Audio Streaming
 
-*   [vod2pod-rss (⭐202)](https://github.com/madiele/vod2pod-rss) `⚠` - Convert YouTube and Twitch channels to podcasts, no storage required. Transcodes VoDs to MP3 192k on the fly, generates an RSS feed to use in podcast clients. `MIT` `Docker`
+*   [vod2pod-rss (⭐248)](https://github.com/madiele/vod2pod-rss) `⚠` - Convert YouTube and Twitch channels to podcasts, no storage required. Transcodes VoDs to MP3 192k on the fly, generates an RSS feed to use in podcast clients. `MIT` `Docker`
 
 ## [12. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 

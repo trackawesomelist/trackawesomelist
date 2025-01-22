@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 21, 2019
 
-16 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -38,8 +38,8 @@
 
 ### Extensions and Utilities
 
-*   [playcanvas-node (⭐4)](https://github.com/yushimatenjin/playcanvas-node) - REST API wrapper for Node.js.
-*   [tween.js (⭐9.7k)](https://github.com/tweenjs/tween.js/) - Popular JavaScript tweening library that integrates easily with PlayCanvas.
+*   [playcanvas-node (⭐5)](https://github.com/yushimatenjin/playcanvas-node) - REST API wrapper for Node.js.
+*   [tween.js (⭐9.8k)](https://github.com/tweenjs/tween.js/) - Popular JavaScript tweening library that integrates easily with PlayCanvas.
 
 ### Interactive Experiences
 
@@ -51,14 +51,13 @@
 ### Resources / Educational
 
 *   [Classy Class-Based Views](https://ccbv.co.uk/) - Detailed descriptions of methods/properties/attributes for each generic class-based view.
-*   [Classy Django Forms (⭐27)](https://github.com/ana-balica/classy-django-forms) - Detailed descriptions of methods/properties/attributes for each form class.
+*   [Classy Django Forms (⭐28)](https://github.com/ana-balica/classy-django-forms) - Detailed descriptions of methods/properties/attributes for each form class.
 *   [Classy Django REST Framework](http://www.cdrf.co) - Detailed descriptions with methods/attributes for DRF class-based views and serializers.
 
 ### Resources / Community
 
 *   [Django Users Google Group](https://groups.google.com/forum/#!forum/django-users/) - Very active discussion board for questions/answers.
 *   [Developers Google Group](https://groups.google.com/forum/#!forum/django-developers/) - For contributions to Django itself only.
-*   [Twitter](https://twitter.com/djangoproject/) - For official announcements on updates, security fixes, etc.
 
 ### Resources / Podcasts
 
@@ -73,7 +72,7 @@
 ### Projects / Boilerplate
 
 *   [cookiecutter-django (⭐12k)](https://github.com/pydanny/cookiecutter-django/) - A full-bodied starter project, highly customizable.
-*   [DRFx (⭐479)](https://github.com/wsvincent/drfx/) - A DRF starter with user auth, Pipenv, and other goodies.
+*   [DRFx (⭐487)](https://github.com/wsvincent/drfx/) - A DRF starter with user auth, Pipenv, and other goodies.
 *   [wemake-django-template (⭐2k)](https://github.com/wemake-services/wemake-django-template/) - Bleeding edge Django template focused on code quality and security.
 *   [django-webpack-starter (⭐59)](https://github.com/khadegd/django-webpack-starter) - Django Webpack starter template for using Webpack 4.
 
@@ -85,7 +84,7 @@
 ### Django REST Framework / DRF Resources
 
 *   [Official Documentation](https://www.django-rest-framework.org/)
-*   [awesome-django-rest-framework (⭐1.3k)](https://github.com/nioperas06/awesome-django-rest-framework)
+*   [awesome-django-rest-framework (⭐1.4k)](https://github.com/nioperas06/awesome-django-rest-framework)
 
 ### Django REST Framework / DRF Tutorials
 
@@ -95,7 +94,7 @@
 
 ### CI / Tools & Plugins
 
-*   [JMeter Maven Plugin (⭐425)](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin) - Maven plugin that provides the ability to run JMeter tests as part of the build.
+*   [JMeter Maven Plugin (⭐429)](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin) - Maven plugin that provides the ability to run JMeter tests as part of the build.
 
 ### Distributed Testing / Tutorials & Demo
 
@@ -107,7 +106,7 @@
 
 ### Related / Awesome Lists
 
-*   [Awesome Testing (⭐1.6k)](https://github.com/TheJambo/awesome-testing) - A curated list of testing resources.
+*   [Awesome Testing (⭐1.9k)](https://github.com/TheJambo/awesome-testing) - A curated list of testing resources.
 
 ## [6. Awesome Wordpress Gatsby](/content/henrikwirth/awesome-wordpress-gatsby/README.md)
 
@@ -141,13 +140,7 @@
 
 *   [Telegram - Waves Dev Jedi 🇧🇷 🇵🇹](https://t.me/joinchat/DtIEA0mI2HvmVbyBBodOew) - Chat de Telegram para desenvolvedores dApps.
 
-## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Resources / Examples
-
-*   [ Personal Website that use Vue, Vuex and Vue-Router  (⭐1)](https://github.com/snturk/snturk.github.io) - A simple website example that made with vue, vuex and vue-router by [Muratcan Şentürk](https://github.com/snturk)
-
-## [9. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
+## [8. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
 ### Privacy / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
@@ -157,7 +150,7 @@
 
 *   [996.ICU (⭐264k)](https://github.com/996icu/996.ICU) - Collection of resources advocating against 996 work schedule (9am – 9pm, 6 days per week).
 
-## [10. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
+## [9. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
 ### Development Environment / Code and Run
 
@@ -167,7 +160,7 @@
 
 *   [UnitTesting](https://wiki.ros.org/Quality/Tutorials/UnitTesting) - This page lays out the rationale, best practices, and policies for writing and running unit tests and integration tests for ROS.
 
-## [11. Awesome Android](/content/JStumpp/awesome-android/README.md)
+## [10. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
 ### Chat & Messaging / ORM
 
@@ -178,7 +171,7 @@
 *   [Talking Kotlin](https://talkingkotlin.com/) - A Podcast on Kotlin and more.
 *   [Android Authority](https://www.androidauthority.com/podcast/) is a weekly Android podcast hosted by Adam Doud, Joe Hindy, and Jonathan Feist from the Android Authority team.
 
-## [12. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/README.md)
+## [11. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/README.md)
 
 ### Companies / Water
 
@@ -192,14 +185,14 @@
 
     Billions in Change develops and delivers inventions that help the unlucky half of the world obtain basic needs like clean water, reliable electricity, and sufficient food. Those fundamentals set the foundation for education, health, and livelihood, enabling people to improve life for themselves and for their families.
 
-## [13. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
+## [12. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
 ### Packages / Gists
 
 *   [Forwarding Named Blocks in Glimmer](https://gist.github.com/tomdale/bedb77662b19529f59154ec55e2f4a21)
 *   [Multi Named Blocks](https://gist.github.com/pzuraq/0c16d7baef7237b62dfd7529d1969344)
 
-## [14. Awesome Actions](/content/sdras/awesome-actions/README.md)
+## [13. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
 ### Collection of Actions / Docker Container Actions
 
@@ -207,9 +200,9 @@
 
 ### Deployment / Code Coverage
 
-*   [GitHub Action for Homebrew Tap (⭐10)](https://github.com/izumin5210/action-homebrew-tap)
+*   [GitHub Action for Homebrew Tap (⭐12)](https://github.com/izumin5210/action-homebrew-tap)
 
-## [15. Awesome Vapor](/content/vapor-community/awesome-vapor/README.md)
+## [14. Awesome Vapor](/content/vapor-community/awesome-vapor/README.md)
 
 ### Libraries
 
@@ -240,7 +233,7 @@
 
 *   ![v3](https://github.com/vapor-community/awesome-vapor/raw/main/img/vapor-3.png) [SteamPress (⭐355)](https://github.com/brokenhandsio/SteamPress) – A Blogging Engine and Platform written in Swift for use with the Vapor Framework.
 
-## [16. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [15. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### APIs, Data, and ML
 

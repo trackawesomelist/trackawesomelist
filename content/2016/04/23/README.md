@@ -113,7 +113,7 @@ By the end of this book, you will have learned about text manipulation using str
 *   [CXXR](https://www.cs.kent.ac.uk/projects/cxxr/) - Refactorising R into C++.
 *   [pqR](http://www.pqr-project.org/) - a "pretty quick" implementation of R
 *   [renjin](http://www.renjin.org/) - a JVM-based interpreter for R.
-*   [rho (⭐134)](https://github.com/rho-devel/rho) - Refactor the interpreter of the R language into a fully-compatible, efficient, VM for R.
+*   [rho (⭐133)](https://github.com/rho-devel/rho) - Refactor the interpreter of the R language into a fully-compatible, efficient, VM for R.
 *   [TERR](http://spotfire.tibco.com/discover-spotfire/what-does-spotfire-do/predictive-analytics/tibco-enterprise-runtime-for-r-terr) - TIBCO Enterprise Runtime for R.
 
 ---

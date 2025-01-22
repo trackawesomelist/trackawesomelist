@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 08, 2020
 
-14 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Examples
 
-*   [Stack-in-a-box/triumphmayflowerclub.com (⭐6)](https://github.com/Stack-in-a-box/triumphmayflowerclub.com#readme) - Stands-out because, while only a simple website, it is presented as a very open project for lesser-experienced developers to cut their teeth on, with a friendly, inclusive tone and accessible setup instructions. Includes many common elements found in other beautiful READMEs.
+*   [Stack-in-a-box/triumphmayflowerclub.com (⭐7)](https://github.com/Stack-in-a-box/triumphmayflowerclub.com#readme) - Stands-out because, while only a simple website, it is presented as a very open project for lesser-experienced developers to cut their teeth on, with a friendly, inclusive tone and accessible setup instructions. Includes many common elements found in other beautiful READMEs.
 
 ## [2. Awesome Robotics](/content/kiloreux/awesome-robotics/README.md)
 
@@ -20,7 +20,7 @@
 
 ### Related awesome lists
 
-*   [Awesome RoboCupJunior Soccer (⭐16)](https://github.com/RoboCupJuniorTC/awesome-rcj-soccer)
+*   [Awesome RoboCupJunior Soccer (⭐53)](https://github.com/RoboCupJuniorTC/awesome-rcj-soccer)
 
 ## [3. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/README.md)
 
@@ -49,32 +49,26 @@
 *   [Monetization (⭐5)](https://github.com/KNawm/monetization) - A wrapper around the Web Monetization API to monetize apps. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/dart.png)
 *   [react-webmonetization-meta (⭐4)](https://github.com/uchibeke/react-webmonetization-meta) - A Web Monetization meta tag manager for React. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/react.png)
 
-## [7. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
-
-### Books / SRAM
-
-*   [MicroPython Projects](https://www.packtpub.com/au/iot-hardware/micropython-projects) - By Jacob Beningo. ISBN 9781789958034.
-
-## [8. Awesome Python](/content/vinta/awesome-python/README.md)
+## [7. Awesome Python](/content/vinta/awesome-python/README.md)
 
 ### Computer Vision
 
 *   [pytesseract (⭐5.6k)](https://github.com/madmaze/pytesseract) - A wrapper for [Google Tesseract OCR](https://github.com/tesseract-ocr).
 
-## [9. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
+## [8. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
 
 ### Static Analysis / PHP
 
 *   [Phan (⭐5.5k)](https://github.com/phan/phan) - *Phan* - Broad static analysis for PHP applications with some support for security scanning features.
 
-## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Design and UI
 
 *   [Responsively App](https://responsively.app) - A free dev tool for faster and more precise responsive web application development.
 *   [SceneLab](https://scenelab.io) - Online mockup graphics editor with an ever-expanding collection of free design templates
 
-## [11. Awesome Qsharp](/content/ebraminio/awesome-qsharp/README.md)
+## [10. Awesome Qsharp](/content/ebraminio/awesome-qsharp/README.md)
 
 ### Tutorials
 
@@ -88,7 +82,7 @@
 
 *   [Q# Advent Calendar 2019](https://devblogs.microsoft.com/qsharp/q-advent-calendar-2019/) - Collection of Q#-related blog posts.
 
-## [12. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
+## [11. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
 ### Component Libraries
 
@@ -98,13 +92,13 @@
 
 *   [GOV.UK Web Components (⭐4)](https://github.com/tgreyuk/govuk-webcomponents) - Set of encapsulated web components consuming the GOV.UK Design System.
 
-## [13. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/README.md)
+## [12. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/README.md)
 
 ### Tools / Presentations
 
 *   [reveal.js](https://revealjs.com) - Open source HTML presentation framework with Markdown support ![Mac OS X](https://img.icons8.com/color/24/mac-logo.png "Mac OS X") ![Linux](https://img.icons8.com/color/24//linux--v1.png "Linux") ![Windows](https://img.icons8.com/color/24/windows-11.png "Windows")
 
-## [14. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [13. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / CloudFormation
 

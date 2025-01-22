@@ -52,7 +52,7 @@
 
 ### Table of Contents / Security
 
-*   [SQLMap (⭐32k)](https://github.com/sqlmapproject/sqlmap) - An automatic SQL injection and database takeover tool.
+*   [SQLMap (⭐33k)](https://github.com/sqlmapproject/sqlmap) - An automatic SQL injection and database takeover tool.
 
 ## [5. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
@@ -72,13 +72,13 @@
 
 ### Environment Management
 
-*   [crenv (⭐238)](https://github.com/crenv/crenv) - Crystal version manager
+*   [crenv (⭐237)](https://github.com/crenv/crenv) - Crystal version manager
 
 ## [7. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
 
 ### Table of Contents / Data Pipeline
 
-*   [RudderStack (⭐4k)](https://github.com/rudderlabs/rudder-server) \[Go] - an open source customer data infrastructure (segment, mparticle alternative).
+*   [RudderStack (⭐4.1k)](https://github.com/rudderlabs/rudder-server) \[Go] - an open source customer data infrastructure (segment, mparticle alternative).
 
 ## [8. Awesome Actions](/content/sdras/awesome-actions/README.md)
 

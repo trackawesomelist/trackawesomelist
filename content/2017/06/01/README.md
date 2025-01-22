@@ -10,13 +10,13 @@
 
 ### Apps / Customer experience
 
-*   [Wagtail Personalisation (⭐119)](https://github.com/LabD/wagtail-personalisation) - Personalisation module, enabling editors to create customised pages - or parts of pages - based on segments whose rules are configured directly in the admin interface.
+*   [Wagtail Personalisation (⭐120)](https://github.com/LabD/wagtail-personalisation) - Personalisation module, enabling editors to create customised pages - or parts of pages - based on segments whose rules are configured directly in the admin interface.
 
 ## [2. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Template Engine
 
-*   [crinja (⭐121)](https://github.com/straight-shoota/crinja) - An implementation of the [Jinja2 template engine](http://jinja.pocoo.org/)
+*   [crinja (⭐126)](https://github.com/straight-shoota/crinja) - An implementation of the [Jinja2 template engine](http://jinja.pocoo.org/)
 
 ## [3. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 

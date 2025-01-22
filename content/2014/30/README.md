@@ -8,7 +8,7 @@
 
 ## [1. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
-### Facebook Accounts / Book Deals (Affiliated) 🛍
+### Facebook Accounts / Book Deals (Affiliated)
 
 *   [Data](https://www.facebook.com/data)
 *   [Big Data Scientist](https://www.facebook.com/Bigdatascientist)
@@ -38,21 +38,21 @@
 
 ### Organizations
 
-*   [Circular Studios](https://github.com/Circular-Studios) - We are a group of game developers at Rochester Institute of Technology building games and game tech. Hosts [Dash (⭐419)](https://github.com/Circular-Studios/Dash), a 3D game engine written in D, and other related libs.
+*   [Circular Studios](https://github.com/Circular-Studios) - We are a group of game developers at Rochester Institute of Technology building games and game tech. Hosts [Dash (⭐422)](https://github.com/Circular-Studios/Dash), a 3D game engine written in D, and other related libs.
 
 ## [4. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
 ### Algorithms and Data Structures
 
-*   [OCamlgraph (⭐226)](https://github.com/backtracking/ocamlgraph) – A generic graph library for OCaml.
+*   [OCamlgraph (⭐233)](https://github.com/backtracking/ocamlgraph) – A generic graph library for OCaml.
 
 ### Application Libraries
 
-*   [Batteries Included (⭐514)](https://github.com/ocaml-batteries-team/batteries-included) – A community-maintained foundation library for your OCaml projects.
-*   [Cmdliner (⭐286)](https://github.com/dbuenzli/cmdliner) – Declarative definition of command line interfaces for OCaml.
+*   [Batteries Included (⭐519)](https://github.com/ocaml-batteries-team/batteries-included) – A community-maintained foundation library for your OCaml projects.
+*   [Cmdliner (⭐296)](https://github.com/dbuenzli/cmdliner) – Declarative definition of command line interfaces for OCaml.
 *   [React](http://erratique.ch/software/react) – React is an OCaml module for functional reactive programming (FRP). It provides support for programs with time-varying values, declarative events, and signals.
-*   [easy-format (⭐41)](https://github.com/mjambon/easy-format) – Pretty-printing library for OCaml.
-*   [ocaml-rpc (⭐95)](https://github.com/mirage/ocaml-rpc) – Light library to deal with RPCs in OCaml.
+*   [easy-format (⭐43)](https://github.com/mjambon/easy-format) – Pretty-printing library for OCaml.
+*   [ocaml-rpc (⭐96)](https://github.com/mirage/ocaml-rpc) – Light library to deal with RPCs in OCaml.
 
 ### Books
 
@@ -84,9 +84,9 @@
 *   **2D**
     *   [archimedes](http://archimedes.forge.ocamlcore.org/) — 2D plotting library.
     *   [cairo2 (⭐54)](https://github.com/Chris00/ocaml-cairo) — Binding to Cairo, a 2D Vector Graphics Library. Integrates well with lablgtk.
-    *   [Vg (⭐86)](https://github.com/dbuenzli/vg) – Declarative 2D vector graphics for OCaml.
+    *   [Vg (⭐91)](https://github.com/dbuenzli/vg) – Declarative 2D vector graphics for OCaml.
 *   **3D**
-    *   [glMLite (⭐18)](https://github.com/fccm/glMLite) — OpenGL bindings for OCaml. Provides an (experimental) functional API. ([homepage](http://decapode314.free.fr/ocaml/GL/))
+    *   [glMLite (⭐19)](https://github.com/fccm/glMLite) — OpenGL bindings for OCaml. Provides an (experimental) functional API. ([homepage](http://decapode314.free.fr/ocaml/GL/))
     *   [lablgl](https://forge.ocamlcore.org/projects/lablgl/) — Interface to OpenGL. Integrates well with lablgtk.
     *   [tgls](http://erratique.ch/software/tgls) — Thin bindings OpenGL 3.{2,3},4.{0,1,2,3,4} and OpenGL ES {2,3}.
 
@@ -97,12 +97,12 @@
 
 ### Logging
 
-*   [dolog (⭐38)](https://github.com/UnixJunkie/dolog) – A dumb OCaml logger.
+*   [dolog (⭐37)](https://github.com/UnixJunkie/dolog) – A dumb OCaml logger.
 *   [Volt (⭐8)](https://github.com/codinuum/volt) – A variant of the Bolt OCaml logging tool.
 
 ### Networking
 
-*   [ocaml-dns (⭐103)](https://github.com/mirage/ocaml-dns) – A pure OCaml implementation of the DNS protocol.
+*   [ocaml-dns (⭐105)](https://github.com/mirage/ocaml-dns) – A pure OCaml implementation of the DNS protocol.
 
 ### Online Courses
 
@@ -110,25 +110,25 @@
 
 ### Security and Cryptography
 
-*   [ocaml-tls (⭐292)](https://github.com/mirleft/ocaml-tls) – TLS in pure OCaml.
+*   [ocaml-tls (⭐304)](https://github.com/mirleft/ocaml-tls) – TLS in pure OCaml.
 
 ### Serialization
 
-*   [bencode (⭐23)](https://github.com/rgrinberg/bencode) — Bencode (.torrent file format) reader/writer.
-*   [biniou (⭐43)](https://github.com/mjambon/biniou) – Extensible binary data format, like JSON but faster.
+*   [bencode (⭐24)](https://github.com/rgrinberg/bencode) — Bencode (.torrent file format) reader/writer.
+*   [biniou (⭐42)](https://github.com/mjambon/biniou) – Extensible binary data format, like JSON but faster.
 *   [jsonm](http://erratique.ch/software/jsonm) — Non-blocking streaming JSON codec for OCaml.
 *   [xmlm](http://erratique.ch/software/xmlm) — A streaming codec to decode and encode the XML data format.
 
 ### System Programming
 
-*   [Mirage OS (⭐2.5k)](https://github.com/mirage/mirage) – Mirage is a programming framework for constructing secure, high-performance network applications across a variety of cloud computing and mobile platforms.
-*   [ocaml-fat (⭐26)](https://github.com/mirage/ocaml-fat) – Read and write FAT-format filesystems from OCaml.
-*   [ocaml-git (⭐363)](https://github.com/mirage/ocaml-git) – Pure OCaml low-level git bindings.
-*   [ocaml-vchan (⭐46)](https://github.com/mirage/ocaml-vchan) – Pure OCaml implementation of the "vchan" shared-memory communication protocol.
+*   [Mirage OS (⭐2.6k)](https://github.com/mirage/mirage) – Mirage is a programming framework for constructing secure, high-performance network applications across a variety of cloud computing and mobile platforms.
+*   [ocaml-fat (⭐25)](https://github.com/mirage/ocaml-fat) – Read and write FAT-format filesystems from OCaml.
+*   [ocaml-git (⭐362)](https://github.com/mirage/ocaml-git) – Pure OCaml low-level git bindings.
+*   [ocaml-vchan (⭐45)](https://github.com/mirage/ocaml-vchan) – Pure OCaml implementation of the "vchan" shared-memory communication protocol.
 
 ### Testing
 
-*   [QCheck (⭐343)](https://github.com/c-cube/qcheck) — QCheck is a property testing library inspired from Haskell's QuickCheck
+*   [QCheck (⭐347)](https://github.com/c-cube/qcheck) — QCheck is a property testing library inspired from Haskell's QuickCheck
 
 ### Web Development
 
@@ -153,7 +153,7 @@
 
 ### Table of Contents / Passwords
 
-*   [Zxcvbn PHP (⭐820)](https://github.com/bjeavons/zxcvbn-php) - A realistic PHP password strength estimate library based on Zxcvbn JS.
+*   [Zxcvbn PHP (⭐833)](https://github.com/bjeavons/zxcvbn-php) - A realistic PHP password strength estimate library based on Zxcvbn JS.
 
 ## [7. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
 
@@ -166,7 +166,7 @@
 
 ### Packages / Text
 
-*   [detect-indent (⭐195)](https://github.com/sindresorhus/detect-indent) - Detect the indentation of code.
+*   [detect-indent (⭐196)](https://github.com/sindresorhus/detect-indent) - Detect the indentation of code.
 
 ### Packages / Parsing
 
@@ -181,8 +181,8 @@
 ### Articles
 
 *   [C++Now 2014 Presentations (⭐432)](https://github.com/boostcon/cppnow_presentations_2014) - Presentation materials presented at C++Now 2014.
-*   [C++Now 2013 Presentations (⭐189)](https://github.com/boostcon/cppnow_presentations_2013) - Presentation materials presented at C++Now 2013.
-*   [C++Now 2012 Presentations (⭐171)](https://github.com/boostcon/cppnow_presentations_2012) - Presentation materials presented at C++Now 2012.
+*   [C++Now 2013 Presentations (⭐190)](https://github.com/boostcon/cppnow_presentations_2013) - Presentation materials presented at C++Now 2013.
+*   [C++Now 2012 Presentations (⭐172)](https://github.com/boostcon/cppnow_presentations_2012) - Presentation materials presented at C++Now 2012.
 
 ### Other Awesome Projects
 
@@ -216,8 +216,8 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [pyhsmm (⭐546)](https://github.com/mattjj/pyhsmm) - library for approximate unsupervised inference in Bayesian Hidden Markov Models (HMMs) and explicit-duration Hidden semi-Markov Models (HSMMs), focusing on the Bayesian Nonparametric extensions, the HDP-HMM and HDP-HSMM, mostly with weak-limit approximations.
-*   [SKLL (⭐551)](https://github.com/EducationalTestingService/skll) - A wrapper around scikit-learn that makes it simpler to conduct experiments.
+*   [pyhsmm (⭐549)](https://github.com/mattjj/pyhsmm) - library for approximate unsupervised inference in Bayesian Hidden Markov Models (HMMs) and explicit-duration Hidden semi-Markov Models (HSMMs), focusing on the Bayesian Nonparametric extensions, the HDP-HMM and HDP-HSMM, mostly with weak-limit approximations.
+*   [SKLL (⭐552)](https://github.com/EducationalTestingService/skll) - A wrapper around scikit-learn that makes it simpler to conduct experiments.
 
 ## [13. Magictools](/content/ellisonleao/magictools/week/README.md)
 
@@ -343,13 +343,13 @@
 
 ### Package Managers
 
-*   [spm (⭐904)](https://github.com/spmjs/spm) - Brand new static package manager.
+*   [spm (⭐902)](https://github.com/spmjs/spm) - Brand new static package manager.
 
 ### QA Tools / Runner
 
 *   [JSHint (⭐9k)](https://github.com/jshint/jshint/) - JSHint is a tool that helps to detect errors and potential problems in your JavaScript code.
 *   [jsfmt (⭐1.7k)](https://github.com/rdio/jsfmt) - For formatting, searching, and rewriting JavaScript.
-*   [buddy.js (⭐867)](https://github.com/danielstjules/buddy.js) - Magic number detection for JavaScript.
+*   [buddy.js (⭐870)](https://github.com/danielstjules/buddy.js) - Magic number detection for JavaScript.
 
 ### Editors / Runner
 
@@ -357,15 +357,15 @@
 
 ### Files / Runner
 
-*   [jBinary (⭐541)](https://github.com/jDataView/jBinary) - High-level I/O (loading, parsing, manipulating, serializing, saving) for binary files with declarative syntax for describing file types and data structures.
+*   [jBinary (⭐540)](https://github.com/jDataView/jBinary) - High-level I/O (loading, parsing, manipulating, serializing, saving) for binary files with declarative syntax for describing file types and data structures.
 
 ### Control Flow / Runner
 
-*   [contra (⭐773)](https://github.com/bevacqua/contra/) - Asynchronous flow control with a functional taste to it.
+*   [contra (⭐774)](https://github.com/bevacqua/contra/) - Asynchronous flow control with a functional taste to it.
 
 ### Maps / Other
 
-*   [Cesium (⭐12k)](https://github.com/AnalyticalGraphicsInc/cesium) - Open Source WebGL virtual globe and map engine.
+*   [Cesium (⭐13k)](https://github.com/AnalyticalGraphicsInc/cesium) - Open Source WebGL virtual globe and map engine.
 
 ### Animations / Other
 
@@ -385,16 +385,16 @@
 
 ### IoC
 
-*   [Spring.Net (⭐844)](https://github.com/spring-projects/spring-net) - Spring.NET is an open source application framework that makes building  enterprise .NET applications easier
+*   [Spring.Net (⭐858)](https://github.com/spring-projects/spring-net) - Spring.NET is an open source application framework that makes building  enterprise .NET applications easier
 
 ### GUI
 
-*   [Callisto (⭐338)](https://github.com/timheuer/callisto) - A control toolkit for Windows 8 XAML applications. Contains some UI controls to make it easier to create Windows UI style apps for the Windows Store in accordance with Windows UI guidelines.
+*   [Callisto (⭐337)](https://github.com/timheuer/callisto) - A control toolkit for Windows 8 XAML applications. Contains some UI controls to make it easier to create Windows UI style apps for the Windows Store in accordance with Windows UI guidelines.
 
 ### Mail
 
-*   [MailKit (⭐6.1k)](https://github.com/jstedfast/MailKit) - A complete cross-platform mail stack including IMAP, POP3, SMTP, authentication and more. Built on top of MimeKit.
-*   [MimeKit (⭐1.8k)](https://github.com/jstedfast/MimeKit) - A cross-platform .NET MIME creation and parser library with support for S/MIME, PGP, TNEF and Unix mbox spools.
+*   [MailKit (⭐6.3k)](https://github.com/jstedfast/MailKit) - A complete cross-platform mail stack including IMAP, POP3, SMTP, authentication and more. Built on top of MimeKit.
+*   [MimeKit (⭐1.9k)](https://github.com/jstedfast/MimeKit) - A cross-platform .NET MIME creation and parser library with support for S/MIME, PGP, TNEF and Unix mbox spools.
 
 ### Profiler
 
@@ -403,7 +403,7 @@
 
 ### Scheduling
 
-*   [QuartzNet (⭐6.4k)](https://github.com/quartznet/quartznet) - Quartz Enterprise Scheduler .NET
+*   [QuartzNet (⭐6.6k)](https://github.com/quartznet/quartznet) - Quartz Enterprise Scheduler .NET
 
 ### Template Engine
 

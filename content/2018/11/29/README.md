@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 29, 2018
 
-8 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -32,13 +32,7 @@
 *   [firecracker (⭐22k)](https://github.com/firecracker-microvm/firecracker)\
     Firecracker runs workloads in lightweight virtual machines, called microVMs, which combine the security and isolation properties provided by hardware virtualization technology with the speed and flexibility of containers.
 
-## [4. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
-
-### Proxy and VPN Tools / Audio Record and Process
-
-*   [V2rayU (⭐19k)](https://github.com/yanue/V2rayU) - Macos client based on v2ray. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/yanue/V2rayU)
-
-## [5. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
+## [4. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
 ### Algorithms / Transform Encryption
 
@@ -50,23 +44,23 @@
 
 ### Rust / Git
 
-*   [recrypt (⭐142)](https://github.com/IronCoreLabs/recrypt-rs) - A pure-Rust library that implements cryptographic primitives for building a multi-hop Proxy Re-encryption scheme, known as Transform Encryption.
+*   [recrypt (⭐144)](https://github.com/IronCoreLabs/recrypt-rs) - A pure-Rust library that implements cryptographic primitives for building a multi-hop Proxy Re-encryption scheme, known as Transform Encryption.
 
 ### Scala / Git
 
-*   [recrypt (⭐33)](https://github.com/IronCoreLabs/recrypt) - Transform encryption library for Scala.
+*   [recrypt (⭐34)](https://github.com/IronCoreLabs/recrypt) - Transform encryption library for Scala.
 
 ### Blogs / Git
 
 *   [Salty Hash](https://blog.ironcorelabs.com) - Covers topics on encryption, data control, privacy, and security.
 
-## [6. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
+## [5. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
 ### Science and Data Analysis
 
 *   [Loom - graph library for Clojure (⭐878)](https://github.com/aysylu/loom)
 
-## [7. Awesome Html5](/content/diegocard/awesome-html5/README.md)
+## [6. Awesome Html5](/content/diegocard/awesome-html5/README.md)
 
 ### Elements / Head
 
@@ -77,7 +71,7 @@
 *   [Intro to PWAs](https://developers.google.com/web/progressive-web-apps/)
 *   [An Extensive Guide To Progressive Web Applications](https://www.smashingmagazine.com/2018/11/guide-pwa-progressive-web-applications/)
 
-## [8. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/README.md)
+## [7. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/README.md)
 
 ### Resources & Others / Others
 

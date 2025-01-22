@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 23, 2021
 
-8 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -20,9 +20,9 @@
 
 ### Project skeletons / Third-party APIs
 
-*   [cl-project (⭐242)](https://github.com/fukamachi/cl-project) - General modern project skeletons. [LLGPL](http://opensource.franz.com/preamble.html).
+*   [cl-project (⭐255)](https://github.com/fukamachi/cl-project) - General modern project skeletons. [LLGPL](http://opensource.franz.com/preamble.html).
 *   [cl-project-with-docs (⭐4)](https://github.com/40ants/cl-project-with-docs) - uses Sphinx and reStructured text to render nice and readable HTML documentation. [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
-*   [cl-cookieproject (⭐70)](https://github.com/vindarel/cl-cookieproject) -  Generate a ready-to-use Common Lisp project. Not in Quicklisp. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
+*   [cl-cookieproject (⭐77)](https://github.com/vindarel/cl-cookieproject) -  Generate a ready-to-use Common Lisp project. Not in Quicklisp. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
     *   test definitions, entry point to run from sources, build a binary, Roswell integration…
 
 ## [3. Public Apis](/content/public-apis/public-apis/README.md)
@@ -69,33 +69,27 @@
 
 
 
-## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / Utilities
-
-*   [vue-path-store (⭐4)](https://github.com/kouts/vue-path-store) - Simple state management that uses the dot notation path syntax, also comes with Vuex and Pinia plugins.
-
-## [5. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/README.md)
+## [4. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/README.md)
 
 ### Topic Areas / Comprehensive R Tutorials
 
 *   [Intro to R course by Fabio Votta - part 1](https://colab.research.google.com/drive/1dLsdGbkvgn1JbWgsy9Z-pFmPd_2MG4Xu?usp=sharing#scrollTo=vGnW7giO9AeD) - A fun introduction to R programming grouped into categories (operators, objects, functions, exercises, and data frames).
 *   [Intro to R course by Fabio Votta - part 2](https://colab.research.google.com/drive/14CRElnKewnp5MnlxhqVu6OOcIXd-Bkaj?usp=sharing) - A fun introduction to R programming grouped into categories (data manipulation and cleaning featuring the janitor, tidyr, and dplyr packages).
 
-## [6. Awesome Datascience](/content/academic/awesome-datascience/README.md)
+## [5. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
-### Other Awesome Lists / Book Deals (Affiliated) 🛍
+### Other Awesome Lists / Book Deals (Affiliated)
 
-*   [Awesome Explainable Graph Reasoning (⭐1.9k)](https://github.com/AstraZeneca/awesome-explainable-graph-reasoning)
+*   [Awesome Explainable Graph Reasoning (⭐2k)](https://github.com/AstraZeneca/awesome-explainable-graph-reasoning)
 
-## [7. Computer Science](/content/ossu/computer-science/README.md)
+## [6. Computer Science](/content/ossu/computer-science/README.md)
 
 ### How to show your progress / Advanced math
 
 *   **[Josh Hanson](https://github.com/joshmhanson)**: lead technical maintainer
 *   **[Waciuma Wanjohi](https://github.com/waciumawanjohi)**: lead academic maintainer
 
-## [8. Awesome](/content/craftcms/awesome/README.md)
+## [7. Awesome](/content/craftcms/awesome/README.md)
 
 ### Official Links
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 30, 2018
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -26,49 +26,43 @@
 
 *   [h-node](https://h-node.org/) - Database of hardware that works with a fully free operating system.
 
-## [3. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Projects Using Vue.js / Open Source
-
-*   [GenVue (⭐132)](https://github.com/herbat73/GenVue) - a hostable, web application that lets confidential users upload and share private files build on Vue.js, Vuetifyjs and NetCore WebAPI stack
-
-## [4. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
+## [3. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
 
 ### Photography / CC0-license
 
 *   [LibreShot](https://libreshot.com/) - A collection of hundreds of high quality free stock images for personal or commercial use.
 
-## [5. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/README.md)
+## [4. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/README.md)
 
 ### Libraries / JavaScript
 
 *   [mmarkdown (⭐75)](https://github.com/albinotonnina/mmarkdown) - Interpret mmd fenced code blocks in a markdown file and generate a cooler version of it.
 
-## [6. Awesome Security](/content/sbilly/awesome-security/README.md)
+## [5. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Threat Intelligence / Forensics
 
 *   [MISP - Open Source Threat Intelligence Platform ](https://www.misp-project.org/) - MISP threat sharing platform is a free and open source software helping information sharing of threat intelligence including cyber security indicators.  A threat intelligence platform for gathering, sharing, storing and correlating Indicators of Compromise of targeted attacks, threat intelligence, financial fraud information, vulnerability information or even counter-terrorism information. The MISP project includes software, common libraries ([taxonomies](https://www.misp-project.org/taxonomies.html), [threat-actors and various malware](https://www.misp-project.org/galaxy.html)), an extensive data model to share new information using [objects](https://www.misp-project.org/objects.html) and default [feeds](https://www.misp-project.org/feeds/).
 
-## [7. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [6. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### MVC Frameworks and Libraries / Runner
 
-*   [atvjs (⭐310)](https://github.com/emadalam/atvjs) - Blazing fast Apple TV application development using pure JavaScript.
+*   [atvjs (⭐311)](https://github.com/emadalam/atvjs) - Blazing fast Apple TV application development using pure JavaScript.
 
-## [8. Awesome Android](/content/JStumpp/awesome-android/README.md)
+## [7. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
 ### GUI
 
 *   [Flashbar (⭐1.7k)](https://github.com/aritraroy/Flashbar) - A highly customizable, powerful and easy-to-use alerting library for Android.
 
-## [9. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/README.md)
+## [8. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/README.md)
 
 ### Miscellaneous
 
 *   [Slack Typing (⭐1.9k)](https://github.com/will/slacktyping) - A very good program that makes it so it says I'm typing when anyone else is typing.
 
-## [10. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [9. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Code Snippets
 
@@ -76,7 +70,7 @@
 
 ### SDK and API Clients
 
-*   [Getty Images API SDK (⭐10)](https://github.com/gettyimages/gettyimages-api_dotnet) - SDK for the Getty Images and iStock APIs
+*   [Getty Images API SDK (⭐11)](https://github.com/gettyimages/gettyimages-api_dotnet) - SDK for the Getty Images and iStock APIs
 
 ---
 

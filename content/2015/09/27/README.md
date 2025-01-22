@@ -22,13 +22,13 @@
 
 ### TypeScript / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [TypeScript Repository (GitHub) (⭐100k)](https://github.com/Microsoft/TypeScript) - Official GitHub Repo for TypeScript.
+*   [TypeScript Repository (GitHub) (⭐102k)](https://github.com/Microsoft/TypeScript) - Official GitHub Repo for TypeScript.
 
 ## [3. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### JavaScript / General-Purpose Machine Learning
 
-*   [ml.js (⭐2.5k)](https://github.com/mljs/ml) - Machine learning and numerical analysis tools for Node.js and the Browser!
+*   [ml.js (⭐2.6k)](https://github.com/mljs/ml) - Machine learning and numerical analysis tools for Node.js and the Browser!
 
 ## [4. Awesome Opensource Documents](/content/44bits/awesome-opensource-documents/README.md)
 

@@ -16,31 +16,32 @@
 
 ### Mobile
 
-*   [cl-json (⭐8)](https://github.com/sharplispers/cl-json) - A highly customizable JSON encoder and decoder. [MIT](https://directory.fsf.org/wiki/License:Expat).
+*   [cl-json (⭐12)](https://github.com/sharplispers/cl-json) - A highly customizable JSON encoder and decoder. [MIT](https://directory.fsf.org/wiki/License:Expat).
+    *   "cl-json and yason are still the work horses if you need fine control, but speed is not their forte." @sabracrolleton
 
 ## [3. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / Entertainment
 
-*   [Flutter Ebook App (⭐2.7k)](https://github.com/JideGuru/FlutterEbookApp) — A simple Flutter app to read and download e-books by [Festus Olusegun](https://github.com/JideGuru)
+*   [Flutter Ebook App (⭐3k)](https://github.com/JideGuru/FlutterEbookApp) — A simple Flutter app to read and download e-books by [Festus Olusegun](https://github.com/JideGuru)
 
 ### Contents / Finance
 
-*   [Natrium (⭐826)](https://github.com/appditto/natrium_wallet_flutter) — A fast, robust & secure NANO Wallet by [Appditto](https://github.com/appditto)
+*   [Natrium (⭐858)](https://github.com/appditto/natrium_wallet_flutter) — A fast, robust & secure NANO Wallet by [Appditto](https://github.com/appditto)
 
 ### Contents / Health and Fitness
 
 *   [Feeel](https://gitlab.com/enjoyingfoss/feeel/) — A home workout app that respects your privacy by [Enjoying FOSS](https://gitlab.com/enjoyingfoss).
-*   [Watermaniac (⭐170)](https://github.com/artrmz/watermaniac) — an app that will help you track the amount of water you drink by [Artur Rymarz](https://github.com/artrmz)
-*   [wger (⭐421)](https://github.com/wger-project/flutter) - Flutter fitness/workout app for wger by the [wger project](https://github.com/wger-project).
+*   [Watermaniac (⭐171)](https://github.com/artrmz/watermaniac) — an app that will help you track the amount of water you drink by [Artur Rymarz](https://github.com/artrmz)
+*   [wger (⭐527)](https://github.com/wger-project/flutter) - Flutter fitness/workout app for wger by the [wger project](https://github.com/wger-project).
 
 ### Contents / Productivity
 
-*   [Time Cop (⭐773)](https://github.com/hamaluik/timecop) - A time tracking app that respects your privacy by [Kenton Hamaluik](https://github.com/hamaluik).
+*   [Time Cop (⭐815)](https://github.com/hamaluik/timecop) - A time tracking app that respects your privacy by [Kenton Hamaluik](https://github.com/hamaluik).
 
 ### Contents / Tools
 
-*   [You (⭐246)](https://github.com/MDSADABWASIM/You) — An app that checks what internet knows about you by [Md Sadab Wasim](https://github.com/MDSADABWASIM)
+*   [You (⭐253)](https://github.com/MDSADABWASIM/You) — An app that checks what internet knows about you by [Md Sadab Wasim](https://github.com/MDSADABWASIM)
 
 ## [4. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
@@ -52,7 +53,7 @@
 
 ### Weather
 
-- API: [weather-api (⭐377)](https://github.com/robertoduessmann/weather-api)
+- API: [weather-api (⭐398)](https://github.com/robertoduessmann/weather-api)
 
   Description: A RESTful free API to check the weather
 
@@ -89,13 +90,13 @@
 
 ### Development Environment
 
-*   🍰 [CakePHP Docker (⭐31)](https://github.com/cnizzardini/cakephp-docker) - A cakephp/app template for docker.
+*   [CakePHP Docker (⭐29)](https://github.com/cnizzardini/cakephp-docker) - A cakephp/app template for docker.
 
 ## [10. Awesome Libgdx](/content/rafaskb/awesome-libgdx/README.md)
 
 ### Resources / Editors
 
-*   [HyperLap2D (⭐344)](https://github.com/rednblackgames/HyperLap2D) - Visual editor for complex 2D worlds and scenes with a runtime for libGDX.
+*   [HyperLap2D (⭐379)](https://github.com/rednblackgames/HyperLap2D) - Visual editor for complex 2D worlds and scenes with a runtime for libGDX.
 *   [Spine](http://esotericsoftware.com/) - Skeleton-based animation tool that focuses specifically on 2D animation for games.
 
 ---

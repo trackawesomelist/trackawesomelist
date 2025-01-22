@@ -39,11 +39,11 @@
 
 ### Collection of Actions / Docker Container Actions
 
-*   [GitHub Actions for PHP (⭐2.3k)](https://github.com/shivammathur/setup-php)
+*   [GitHub Actions for PHP (⭐2.9k)](https://github.com/shivammathur/setup-php)
 
 ### Static Analysis / Linting
 
-*   [Node.js - Automatically run the `format` and/or `lint` script used by the package (⭐34)](https://github.com/MarvinJWendt/run-node-formatter)
+*   [Node.js - Automatically run the `format` and/or `lint` script used by the package (⭐36)](https://github.com/MarvinJWendt/run-node-formatter)
 
 ## [6. Awesome PICO 8](/content/pico-8/awesome-PICO-8/README.md)
 

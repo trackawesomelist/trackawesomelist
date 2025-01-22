@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 28 - Apr 03, 2022
 
-50 awesome lists updated this week.
+49 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Contents / Entertainment
 
-*   [Tachidesk-Sorayomi (⭐624)](https://github.com/Suwayomi/Tachidesk-Sorayomi) - Frontend for [Tachidesk-server](https://github.com/tortuvshin/open-source-flutter-apps/blob/master/README.md/github.com/Suwayomi/Tachidesk-server/), based on Tachiyomi to read manga in desktop by [DattatreyaReddy](https://github.com/DattatreyaReddy).
+*   [Tachidesk-Sorayomi (⭐816)](https://github.com/Suwayomi/Tachidesk-Sorayomi) - Frontend for [Tachidesk-server](https://github.com/tortuvshin/open-source-flutter-apps/blob/master/README.md/github.com/Suwayomi/Tachidesk-server/), based on Tachiyomi to read manga in desktop by [DattatreyaReddy](https://github.com/DattatreyaReddy).
 
 ### Contents / Media
 
@@ -82,7 +82,7 @@
 
 ### Modules
 
-*   [Oranges (⭐1)](https://github.com/benthevining/Oranges) - [Ben Vining](https://github.com/benthevining)'s library of CMake modules and toolchains [`[GPL]`](https://www.gnu.org/licenses/gpl-3.0.html)
+*   [Oranges](https://github.com/benthevining/Oranges) - [Ben Vining](https://github.com/benthevining)'s library of CMake modules and toolchains [`[GPL]`](https://www.gnu.org/licenses/gpl-3.0.html)
 
 ## [5. Magictools](/content/ellisonleao/magictools/week/README.md)
 
@@ -95,19 +95,19 @@
 
 ### Libraries/Frameworks / Database
 
-*   [kotlin-orm/ktorm (⭐2.1k)](https://github.com/kotlin-orm/ktorm) - A lightweight ORM Framework for Kotlin. Provides strong-typed and flexible SQL DSL and convenient sequence APIs to reduce our duplicated effort on database operations.
+*   [kotlin-orm/ktorm (⭐2.2k)](https://github.com/kotlin-orm/ktorm) - A lightweight ORM Framework for Kotlin. Provides strong-typed and flexible SQL DSL and convenient sequence APIs to reduce our duplicated effort on database operations.
 
 ## [7. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Miscellaneous
 
-*   [Ansible (⭐1.3k)](https://github.com/ansible-community/awesome-ansible#readme) - A Python-based, open source IT configuration management and automation platform.
+*   [Ansible (⭐1.4k)](https://github.com/ansible-community/awesome-ansible#readme) - A Python-based, open source IT configuration management and automation platform.
 
 ## [8. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-qrcode (⭐143)](https://github.com/svitejs/vite-plugin-qrcode) - Show QR code on server start.
+*   [vite-plugin-qrcode (⭐153)](https://github.com/svitejs/vite-plugin-qrcode) - Show QR code on server start.
 
 ### Apps/Websites / Community
 
@@ -138,14 +138,13 @@
 *   :newspaper: [A consistently-executing graph-based approach for malware packer identification](https://ieeexplore.ieee.org/document/8695825) (April 2019)
 *   :notebook: [A control flow graph-based signature for packer identification](https://ieeexplore.ieee.org/document/8170793) (October 2017)
 *   :notebook: [Packer identification based on metadata signature](https://dl.acm.org/doi/10.1145/3151137.3160687) (December 2017)
-*   :newspaper: [Packer identification using byte plot and Markov plot](https://link.springer.com/article/10.1007/s11416-015-0249-8) (September 2015)
+*   :notebook: [Packer identification using byte plot and Markov plot](https://link.springer.com/article/10.1007/s11416-015-0249-8) (September 2015)
 *   :notebook: [Packer identification using hidden Markov model](https://link.springer.com/chapter/10.1007/978-3-319-69456-6_8) (November 2017)
 *   :newspaper: [Sensitive system calls based packed malware variants detection using principal component initialized multilayers neural networks](https://cybersecurity.springeropen.com/articles/10.1186/s42400-018-0010-y) (September 2018)
 
 ### :bookmark_tabs: Datasets / Scientific Research
 
-*   [Dataset of Packed ELF (⭐14)](https://github.com/dhondta/dataset-packed-elf) - Dataset of packed ELF samples.
-*   [VX Underground](https://vx-underground.org/samples.html) - PL-CERT based open source MWDB python application holding a malware database containing every APT sample from 2010 and over 7.5M maliciousbinaries.
+*   [Dataset of Packed ELF (⭐18)](https://github.com/dhondta/dataset-packed-elf) - Dataset of packed ELF samples.
 
 ### :package: Packers / Between 2000 and 2010
 
@@ -186,7 +185,7 @@
 
 ### :wrench: Tools / Before 2000
 
-*   [Angr (⭐7.3k)](https://github.com/angr/angr) - Platform-agnostic binary analysis framework.
+*   [Angr (⭐7.6k)](https://github.com/angr/angr) - Platform-agnostic binary analysis framework.
 *   [COM2EXE](https://defacto2.net/f/a520164?tool=com2exe) - Free tool for converting COM files to EXE format.
 *   [Defacto2 Analyzers Archive](https://defacto2.net/f/aa2e6ec) - Collection of 60 binary files analysers for MS-DOS and Windows32 from the 1990s and the 2000s.
 *   [Defacto2 Packers Archive](https://defacto2.net/f/a520164) - Collection of 460 binary and data file packers for MS-DOS and Windows32 from the 1990s and 2000s.
@@ -194,15 +193,15 @@
 *   [ExeScan](https://defacto2.net/f/ae2c42e) - Executable file analyzer which detects the most famous  EXE/COM Protectors, Packers, Converters and compilers.
 *   [GetTyp](https://www.helger.com/gt/gt.htm) - File format detection program for DOS based on special strings and byte code.
 *   [Language 2000](https://farrokhi.net/language) - Ultimate compiler detection utility.
-*   [LIEF (⭐4.3k)](https://github.com/lief-project/LIEF) - Library to Instrument Executable Formats ; Python package for parsing PE, ELF, Mach-O and DEX formats, modifying and rebuilding executables.
+*   [LIEF (⭐4.5k)](https://github.com/lief-project/LIEF) - Library to Instrument Executable Formats ; Python package for parsing PE, ELF, Mach-O and DEX formats, modifying and rebuilding executables.
 *   [PCjs](https://www.pcjs.org) - PCjs uses JavaScript to recreate the IBM PC experience, using original ROMs, CPUs running at their original speeds, and early IBM video cards and monitors.
 *   [PEscan](https://tzworks.com/prototype_page.php?proto_id=15) - CLI tool to scan PE files to identify how they were constructed.
-*   [PETools (⭐976)](https://github.com/petoolse/petools) - Old-school reverse engineering tool (with a long history since 2002) for manipulating PE files.
+*   [PETools (⭐1.1k)](https://github.com/petoolse/petools) - Old-school reverse engineering tool (with a long history since 2002) for manipulating PE files.
 *   [RDG Packer Detector](http://www.rdgsoft.net) - Packer detection tool.
-*   [Reko (⭐2.1k)](https://github.com/uxmal/reko) - Free decompiler for machine code binaries.
-*   [RetDec (⭐7.9k)](https://github.com/avast/retdec) - Retargetable machine-code decompiler based on LLVM.
+*   [Reko (⭐2.2k)](https://github.com/uxmal/reko) - Free decompiler for machine code binaries.
+*   [RetDec (⭐8.1k)](https://github.com/avast/retdec) - Retargetable machine-code decompiler based on LLVM.
 *   [SAFE](https://github.com/packing-box/awesome-executable-packing/blob/main/README.md/mailto:mihai@cs.wisc.edu) - Static Analyzer For Executables (available on demand).
-*   [Triton (⭐3.4k)](https://github.com/jonathansalwan/Triton) - Dynamic binary analysis library.
+*   [Triton (⭐3.6k)](https://github.com/jonathansalwan/Triton) - Dynamic binary analysis library.
 *   [Tuts 4 You](https://tuts4you.com) - Non-commercial, independent community dedicated to the sharing of knowledge and information on reverse code engineering.
 *   [UnpacMe](https://www.unpac.me) - Automated malware unpacking service.
 
@@ -210,13 +209,13 @@
 
 ### Languages / JavaScript & TypeScript
 
-*   [algo-builder (⭐134)](https://github.com/scale-it/algo-builder) - Framework to automate development of Algorand Assets and Smart Contracts.
+*   [algo-builder (⭐132)](https://github.com/scale-it/algo-builder) - Framework to automate development of Algorand Assets and Smart Contracts.
 *   [algo-builder-templates (⭐20)](https://github.com/scale-it/algo-builder-templates) - Dapps templates for Algo Builder.
 
 ### Other Development Tools / Testing
 
 *   [graviton (⭐17)](https://github.com/algorand/graviton) - Algorand's TEAL blackbox testing toolkit.
-*   [tealer (⭐61)](https://github.com/crytic/tealer) - Static TEAL analyser with a set of vulnerability detectors for quick contracts reviews.
+*   [tealer (⭐63)](https://github.com/crytic/tealer) - Static TEAL analyser with a set of vulnerability detectors for quick contracts reviews.
 
 ### Projects / Wallets
 
@@ -227,13 +226,13 @@
 ### Infrastructure as Code
 
 *   [Pulumi](https://www.pulumi.com/) -  Developer-first IaC with Python, TypeScript, Go and more languages...
-*   [Terraform](https://www.hashicorp.com/products/terraform) - DSL, open-source and free (paid solution adds team management, policy-as-code...). [![Terraform](https://img.shields.io/github/stars/hashicorp/terraform?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/hashicorp/terraform)
+*   [Terraform](https://www.hashicorp.com/products/terraform) - DSL, open-source, and free (paid solution adds team management, policy-as-code...). [![Terraform](https://img.shields.io/github/stars/hashicorp/terraform?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/hashicorp/terraform)
 
 ## [12. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Web/ReactJS / Playground
 
-*   :octocat: [Materio Free MUI React NextJS Typescript Admin Template (⭐1.5k)](https://github.com/themeselection/materio-mui-react-nextjs-admin-template-free) - Most Powerful & Comprehensive Free MUI React NextJS Admin Dashboard Template built for developers. Made With Typecript & JavaScript.
+*   :octocat: [Materio Free MUI React NextJS Typescript Admin Template (⭐1.7k)](https://github.com/themeselection/materio-mui-react-nextjs-admin-template-free) - Most Powerful & Comprehensive Free MUI React NextJS Admin Dashboard Template built for developers. Made With Typecript & JavaScript.
 
 ## [13. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
@@ -263,16 +262,16 @@
 
 ### Modules / Utils
 
-*   [tryify (⭐6)](https://github.com/twilsoft/tryify) - Functional style error handling; never throw/try/catch/finally again.
+*   [tryify (⭐7)](https://github.com/twilsoft/tryify) - Functional style error handling; never throw/try/catch/finally again.
 *   [wasm-gzip (⭐19)](https://github.com/manyuanrong/wasm_gzip) - Perform gzip operations for Deno.
 
 ### Modules / Validation
 
-*   [zod (⭐32k)](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference.
+*   [zod (⭐34k)](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference.
 
 ### Modules / Video
 
-*   [Fast Forward (⭐47)](https://github.com/c4spar/deno-fast-forward) - An easy to use ffmpeg module for Deno. 🦕
+*   [Fast Forward (⭐48)](https://github.com/c4spar/deno-fast-forward) - An easy to use ffmpeg module for Deno. 🦕
 
 ### Tools / XML
 
@@ -329,7 +328,7 @@
 
 *   Talking about Vista, Microsoft found out following its unsuccessful launch that [the #1 bug predictor is not technical, it's organizational complexity](https://augustl.com/blog/2019/best_bug_predictor_is_organizational_complexity/).
 
-### Agile / Tickets
+### Agile / Delivery
 
 *   [Failed #SquadGoals - Spotify doesn't use "the Spotify model" and neither should you](https://www.jeremiahlee.com/posts/failed-squad-goals/) - “Why it didn't work? 1. Matrix management solved the wrong problem; 2. It fixated on team autonomy; 3. Collaboration was an assumed competency; 4. Mythology became difficult to change”.
 
@@ -367,7 +366,7 @@
 
 ### Authorization / ReBAC frameworks
 
-*   [Open Policy Administration Layer (⭐4.1k)](https://github.com/permitio/opal) - Open Source administration layer for OPA, detecting changes to both policy and policy data in realtime and pushing live updates to OPA agents. OPAL brings open-policy up to the speed needed by live applications.
+*   [Open Policy Administration Layer (⭐4.5k)](https://github.com/permitio/opal) - Open Source administration layer for OPA, detecting changes to both policy and policy data in realtime and pushing live updates to OPA agents. OPAL brings open-policy up to the speed needed by live applications.
 
 ### Secret Management / Hardware Security Module (HSM)
 
@@ -379,7 +378,7 @@
 
 ### Blocklists / Hostnames and Subdomains
 
-*   Subdomain denylists: [#1](https://gist.github.com/artgon/5366868), [#2 (⭐42)](https://github.com/sandeepshetty/subdomain-blacklist/blob/master/subdomain-blacklist.txt), [#3 (⭐167)](https://github.com/nccgroup/typofinder/blob/master/TypoMagic/datasources/subdomains.txt), [#4](https://www.quora.com/How-do-sites-prevent-vanity-URLs-from-colliding-with-future-features).
+*   Subdomain denylists: [#1](https://gist.github.com/artgon/5366868), [#2 (⭐42)](https://github.com/sandeepshetty/subdomain-blacklist/blob/master/subdomain-blacklist.txt), [#3 (⭐166)](https://github.com/nccgroup/typofinder/blob/master/TypoMagic/datasources/subdomains.txt), [#4](https://www.quora.com/How-do-sites-prevent-vanity-URLs-from-colliding-with-future-features).
 
 ## [22. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
 
@@ -401,7 +400,7 @@
 
 ## [23. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
-### Slideshows, talks and videos
+### Slideshows, talks and videos  (a-z↓)
 
 *   [Cypress in 100 Seconds](https://www.youtube.com/watch?v=BQqzfHQkREo\&ab_channel=Fireship) - Introduction video by Fireship.
 
@@ -420,7 +419,7 @@
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [bosh (krujos) (⭐2)](https://github.com/krujos/bosh-zsh-autocompletion) - Adds [BOSH (⭐2k)](https://github.com/cloudfoundry/bosh) autocompletion.
-*   [gentoo (⭐36)](https://github.com/gentoo/gentoo-zsh-completions) - Provides ZSH completion support to various Gentoo tools that lack completion scripts upstream.
+*   [gentoo (⭐37)](https://github.com/gentoo/gentoo-zsh-completions) - Provides ZSH completion support to various Gentoo tools that lack completion scripts upstream.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -440,7 +439,7 @@
 
 ### Phone Numbers
 
-*   [`libphonenumber`](https://github.com/googlei18n/libphonenumber) - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers. Also available for [C# (⭐736)](https://github.com/twcclegg/libphonenumber-csharp), [Objective-C (⭐2.4k)](https://github.com/iziz/libPhoneNumber-iOS), [Python (⭐3.4k)](https://github.com/daviddrysdale/python-phonenumbers), [Ruby (⭐549)](https://github.com/sstephenson/global_phone) and [PHP (⭐4.7k)](https://github.com/giggsey/libphonenumber-for-php).
+*   [`libphonenumber`](https://github.com/googlei18n/libphonenumber) - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers. Also available for [C# (⭐776)](https://github.com/twcclegg/libphonenumber-csharp), [Objective-C (⭐2.4k)](https://github.com/iziz/libPhoneNumber-iOS), [Python (⭐3.5k)](https://github.com/daviddrysdale/python-phonenumbers), [Ruby (⭐548)](https://github.com/sstephenson/global_phone) and [PHP (⭐4.8k)](https://github.com/giggsey/libphonenumber-for-php).
 
 ### Software Engineering
 
@@ -454,12 +453,12 @@
 
 ### Editors / Web Editors
 
-*   [iD](http://www.openstreetmap.org/edit?editor=id) - JavaScript based editor for the web browser with a wide array of presets. ([Source Code (⭐3.2k)](https://github.com/openstreetmap/iD) / [Wiki](https://wiki.openstreetmap.org/wiki/ID))
-*   [Level0](http://level0.osmz.ru/) - Text based editor that's useful in specific corner cases. ([Source Code (⭐50)](https://github.com/zverik/level0) / [Wiki](https://wiki.openstreetmap.org/wiki/Level0))
+*   [iD](http://www.openstreetmap.org/edit?editor=id) - JavaScript based editor for the web browser with a wide array of presets. ([Source Code (⭐3.3k)](https://github.com/openstreetmap/iD) / [Wiki](https://wiki.openstreetmap.org/wiki/ID))
+*   [Level0](http://level0.osmz.ru/) - Text based editor that's useful in specific corner cases. ([Source Code (⭐53)](https://github.com/zverik/level0) / [Wiki](https://wiki.openstreetmap.org/wiki/Level0))
 *   [OSMyBiz](https://osmybiz.osm.ch) - Website for managing informations about your business. ([Source Code](https://gitlab.com/geometalab/osmybiz) / [Wiki](https://wiki.openstreetmap.org/wiki/OSMyBiz))
-*   [OnOSM](https://www.onosm.org/) - Allows anyone to submit business information as a note for inclusion into OSM. ([Source Code (⭐70)](https://github.com/osmlab/onosm.org) / [Wiki](https://wiki.openstreetmap.org/wiki/Onosm.org))
-*   [Deriviste](https://osm.cycle.travel/deriviste/) - Provides a simple interface to add nodes to OpenStreetMap based on what you see in Mapillary street-level imagery. ([Source Code (⭐28)](https://github.com/systemed/deriviste) / [Wiki](https://wiki.openstreetmap.org/wiki/Deriviste))
-*   [Healthsites.io](https://healthsites.io/map) - An online editor focused on adding and improving data on global health facilities. ([Source Code (⭐139)](https://github.com/healthsites/healthsites/) / [Wiki](https://wiki.openstreetmap.org/wiki/Healthsites.io))
+*   [OnOSM](https://www.onosm.org/) - Allows anyone to submit business information as a note for inclusion into OSM. ([Source Code (⭐73)](https://github.com/osmlab/onosm.org) / [Wiki](https://wiki.openstreetmap.org/wiki/Onosm.org))
+*   [Deriviste](https://osm.cycle.travel/deriviste/) - Provides a simple interface to add nodes to OpenStreetMap based on what you see in Mapillary street-level imagery. ([Source Code (⭐29)](https://github.com/systemed/deriviste) / [Wiki](https://wiki.openstreetmap.org/wiki/Deriviste))
+*   [Healthsites.io](https://healthsites.io/map) - An online editor focused on adding and improving data on global health facilities. ([Source Code (⭐144)](https://github.com/healthsites/healthsites/) / [Wiki](https://wiki.openstreetmap.org/wiki/Healthsites.io))
 
 ### Editors / Native Editors
 
@@ -469,69 +468,68 @@
 ### Tools / Web Tools
 
 *   [OpenMapTiles](https://openmaptiles.org/) - Set of tools for self-hosted vector maps and map services with labels in more than 50 languages. ([Source Code](https://github.com/openmaptiles) / [Wiki](https://wiki.openstreetmap.org/wiki/OpenMapTiles))
-*   [OSMNames](http://osmnames.org/) - Geocoding tool ranking places according to the corresponding Wikipedia page popularity. ([Source Code (⭐334)](https://github.com/osmnames/osmnames) / [Wiki](https://wiki.openstreetmap.org/wiki/OSMNames))
-*   [overpass-turbo](http://overpass-turbo.eu) - Web based data mining tool for OpenStreetMap using Overpass API. ([Source Code (⭐823)](https://github.com/tyrasd/overpass-turbo) / [Wiki](https://wiki.openstreetmap.org/wiki/Overpass_turbo))
+*   [OSMNames](http://osmnames.org/) - Geocoding tool ranking places according to the corresponding Wikipedia page popularity. ([Source Code (⭐346)](https://github.com/osmnames/osmnames) / [Wiki](https://wiki.openstreetmap.org/wiki/OSMNames))
+*   [overpass-turbo](http://overpass-turbo.eu) - Web based data mining tool for OpenStreetMap using Overpass API. ([Source Code (⭐910)](https://github.com/tyrasd/overpass-turbo) / [Wiki](https://wiki.openstreetmap.org/wiki/Overpass_turbo))
 *   [hdyc](http://hdyc.neis-one.org) - Statistics viewer for contributions of any OSM user. ([Wiki](https://wiki.openstreetmap.org/wiki/How_did_you_contribute%3F)) <!-- markdown-link-check-disable-line -->
 *   [Osmose](https://osmose.openstreetmap.fr) - QA-tool for fixing problems detected in OpenStreetMap data. ([Source Code](https://github.com/osm-fr?q=osmose) / [Wiki](https://wiki.openstreetmap.org/wiki/Osmose))
-*   [taginfo](https://taginfo.openstreetmap.org/) - Website displaying information on tags and their usage. ([Source Code (⭐117)](https://github.com/taginfo/taginfo/) / [Wiki](https://wiki.openstreetmap.org/wiki/Taginfo))
+*   [taginfo](https://taginfo.openstreetmap.org/) - Website displaying information on tags and their usage. ([Source Code (⭐121)](https://github.com/taginfo/taginfo/) / [Wiki](https://wiki.openstreetmap.org/wiki/Taginfo))
 *   [ohsome Dashboard](https://ohsome.org/apps/dashboard/) - Tool for visualizing changes over a certain time period. ([Wiki](https://wiki.openstreetmap.org/wiki/Ohsome_Dashboard))
 
 ### Tools / Mobile Tools
 
-*   [OSMTracker (⭐481)](https://github.com/labexp/osmtracker-android) - Offline GPS tracking tool for recording GPX tracks. (Android / [Wiki](https://wiki.openstreetmap.org/wiki/OSMTracker_\(Android\)))
+*   [OSMTracker (⭐494)](https://github.com/labexp/osmtracker-android) - Offline GPS tracking tool for recording GPX tracks. (Android / [Wiki](https://wiki.openstreetmap.org/wiki/OSMTracker_\(Android\)))
 
 ### Tasking Managers / Web Services
 
-*   [MapRoulette](https://maproulette.org/) - Various challenges for making small edits to achive big tasks. ([Source Code (⭐110)](https://github.com/osmlab/maproulette3) / [Wiki](https://wiki.openstreetmap.org/wiki/MapRoulette))
+*   [MapRoulette](https://maproulette.org/) - Various challenges for making small edits to achive big tasks. ([Source Code (⭐124)](https://github.com/osmlab/maproulette3) / [Wiki](https://wiki.openstreetmap.org/wiki/MapRoulette))
 *   [Pic4Review](https://pic4review.pavie.info/#/) - Tool for adding objects to OSM by reviewing images. ([Source Code](https://framagit.org/Pic4Carto/Pic4Review) / [Wiki](https://wiki.openstreetmap.org/wiki/Pic4Review))
 *   [Map Complete](https://mapcomplete.osm.be/) - Tool for mapping in scoped tasks. ([Wiki](https://wiki.openstreetmap.org/wiki/MapComplete))
 *   [Damn Project](https://www.damn-project.org/) - Project for mapping by dividing big areas into small squares mappable by humans. ([Source Code](https://git.sr.ht/~qeef/damn-deploy) / [Wiki](https://wiki.openstreetmap.org/wiki/Divide_and_map._Now.))
 
 ### Maps / Web Maps
 
-*   [Show me the way](https://osmlab.github.io/show-me-the-way/) - Live map showing latest changes on aerial imagery. ([Source Code (⭐124)](https://github.com/osmlab/show-me-the-way/) / [Wiki](https://wiki.openstreetmap.org/wiki/Show_Me_The_Way))
+*   [Show me the way](https://osmlab.github.io/show-me-the-way/) - Live map showing latest changes on aerial imagery. ([Source Code (⭐127)](https://github.com/osmlab/show-me-the-way/) / [Wiki](https://wiki.openstreetmap.org/wiki/Show_Me_The_Way))
 *   [OSM In Realtime](https://osm-in-realtime.jwestman.net/) - Visualization of the changes made to OpenStreetMap as they happen. ([Source Code](https://gitlab.com/jwestman/osm-in-realtime) / [Wiki](https://wiki.openstreetmap.org/wiki/OSM-in-realtime))
 *   [indoor=](https://indoorequal.org) - Map for viewing indoor data from OpenStreetMap. ([Wiki](https://wiki.openstreetmap.org/wiki/Indoor%3D)) <!-- markdown-link-check-disable-line -->
-*   [Qwant Maps](https://www.qwant.com/maps) - Modern map with POI search and routing functionality. ([Wiki](https://wiki.openstreetmap.org/wiki/Qwant_Maps))
 *   [F4map Demo](https://demo.f4map.com/) - 3D rendering demo of OpenStreetMap data. ([Wiki](https://wiki.openstreetmap.org/wiki/F4_Map))
-*   [FacilMap](https://facilmap.org/) - Map with easy possibility to filter for POI types. ([Source Code (⭐236)](https://github.com/FacilMap/facilmap) / [Wiki](https://wiki.openstreetmap.org/wiki/FacilMap))
+*   [FacilMap](https://facilmap.org/) - Map with easy possibility to filter for POI types. ([Source Code (⭐312)](https://github.com/FacilMap/facilmap) / [Wiki](https://wiki.openstreetmap.org/wiki/FacilMap))
 *   [Straßenraumkarte Neukölln](https://supaplexosm.github.io/strassenraumkarte-neukoelln/?map=micromap) - High-detail micromap of the district "Neukölln" of Berlin, Germany. ([Wiki](https://wiki.openstreetmap.org/wiki/Micromapping#Stra.C3.9Fenraumkarte_Neuk.C3.B6lln))
 
 ### Maps / Mobile Maps
 
-*   [OsmAnd](https://osmand.net) - Map viewing and navigation (routing) application with offline functionality available for Android and iOS. (Android, iOS / [Source Code Android (⭐4.2k)](https://github.com/osmandapp/OsmAnd) / [Source Code iOS (⭐232)](https://github.com/osmandapp/OsmAnd-iOS) / [Wiki](https://wiki.openstreetmap.org/wiki/OsmAnd))
-*   [Organic Maps](https://organicmaps.app/) - A free offline maps app based on OSM. (Android, iOS / [Source Code (⭐8.3k)](https://github.com/organicmaps/organicmaps) / [Wiki](https://wiki.openstreetmap.org/wiki/Organic_Maps))
+*   [OsmAnd](https://osmand.net) - Map viewing and navigation (routing) application with offline functionality available for Android and iOS. (Android, iOS / [Source Code Android (⭐4.6k)](https://github.com/osmandapp/OsmAnd) / [Source Code iOS (⭐279)](https://github.com/osmandapp/OsmAnd-iOS) / [Wiki](https://wiki.openstreetmap.org/wiki/OsmAnd))
+*   [Organic Maps](https://organicmaps.app/) - A free offline maps app based on OSM. (Android, iOS / [Source Code (⭐9.5k)](https://github.com/organicmaps/organicmaps) / [Wiki](https://wiki.openstreetmap.org/wiki/Organic_Maps))
 *   [Magic Earth](https://www.magicearth.com/) - A free turn-by-turn navigation app. (Android, iOS / [Wiki](https://wiki.openstreetmap.org/wiki/Magic_Earth))
 
 ### Maps / Generators
 
-*   [Field Papers](http://fieldpapers.org/) - Generate maps for printing, annotate them, and manage your notes after. ([Source Code (⭐86)](https://github.com/fieldpapers/fieldpapers) / [Wiki](https://wiki.openstreetmap.org/wiki/Field_Papers))
+*   [Field Papers](http://fieldpapers.org/) - Generate maps for printing, annotate them, and manage your notes after. ([Source Code (⭐87)](https://github.com/fieldpapers/fieldpapers) / [Wiki](https://wiki.openstreetmap.org/wiki/Field_Papers))
 
 ### Libraries / C/C++
 
-*   [libosmium (⭐431)](https://github.com/osmcode/libosmium) - Fast and flexible C++ library for working with OpenStreetMap data. ([Wiki](https://wiki.openstreetmap.org/wiki/Osmium))
-*   [OSRM (⭐6k)](https://github.com/Project-OSRM/osrm-backend) -  Routing engine for use in C++ applications. ([Wiki](https://wiki.openstreetmap.org/wiki/Open_Source_Routing_Machine))
-*   [mapnik (⭐3.5k)](https://github.com/mapnik/mapnik) - Combines pixel-perfect image output with lightning-fast cartographic algorithms, and exposes interfaces in C++, Python, and Node. ([Wiki](https://wiki.openstreetmap.org/wiki/Mapnik))
+*   [libosmium (⭐460)](https://github.com/osmcode/libosmium) - Fast and flexible C++ library for working with OpenStreetMap data. ([Wiki](https://wiki.openstreetmap.org/wiki/Osmium))
+*   [OSRM (⭐6.3k)](https://github.com/Project-OSRM/osrm-backend) -  Routing engine for use in C++ applications. ([Wiki](https://wiki.openstreetmap.org/wiki/Open_Source_Routing_Machine))
+*   [mapnik (⭐3.6k)](https://github.com/mapnik/mapnik) - Combines pixel-perfect image output with lightning-fast cartographic algorithms, and exposes interfaces in C++, Python, and Node. ([Wiki](https://wiki.openstreetmap.org/wiki/Mapnik))
 
 ### Libraries / JavaScript
 
-*   [Leaflet](https://leafletjs.com/) - An open-source JavaScript library for mobile-friendly interactive maps. ([Source Code (⭐40k)](https://github.com/Leaflet/Leaflet) / [Wiki](https://wiki.openstreetmap.org/wiki/Leaflet))
+*   [Leaflet](https://leafletjs.com/) - An open-source JavaScript library for mobile-friendly interactive maps. ([Source Code (⭐41k)](https://github.com/Leaflet/Leaflet) / [Wiki](https://wiki.openstreetmap.org/wiki/Leaflet))
 *   [OpenLayers](https://openlayers.org/) - A high-performance library for rendering raster and vector maps. ([Source Code (⭐11k)](https://github.com/openlayers/openlayers) / [Wiki](https://wiki.openstreetmap.org/wiki/OpenLayers))
-*   [MapLibre GL JS](https://maplibre.org/projects/#js) - A map renderer with GPU-accelerated vector tile rendering. ([Source Code (⭐5.5k)](https://github.com/maplibre/maplibre-gl-js) / [See Related List](#related-awesome-maplibre))
+*   [MapLibre GL JS](https://maplibre.org/projects/#js) - A map renderer with GPU-accelerated vector tile rendering. ([Source Code (⭐6.3k)](https://github.com/maplibre/maplibre-gl-js) / [See Related List](#related-awesome-maplibre))
 
 ### Libraries / Python
 
-*   [osmapi (⭐198)](https://github.com/metaodi/osmapi) - Python wrapper for the OpenStreetMap API. ([Wiki](https://wiki.openstreetmap.org/wiki/Osmapi_\(Python_library\)))
-*   [osmnx (⭐4.6k)](https://github.com/gboeing/osmnx) - Visualizer for street networks. ([Wiki](https://wiki.openstreetmap.org/wiki/OSMnx))
+*   [osmapi (⭐210)](https://github.com/metaodi/osmapi) - Python wrapper for the OpenStreetMap API. ([Wiki](https://wiki.openstreetmap.org/wiki/Osmapi_\(Python_library\)))
+*   [osmnx (⭐4.8k)](https://github.com/gboeing/osmnx) - Visualizer for street networks. ([Wiki](https://wiki.openstreetmap.org/wiki/OSMnx))
 
 ### Libraries / Java
 
-*   [OpenTripPlanner (⭐2k)](https://github.com/opentripplanner/OpenTripPlanner) - Open source multi-modal trip planner. ([Wiki](https://wiki.openstreetmap.org/wiki/OpenTripPlanner))
-*   [GraphHopper (⭐4.6k)](https://github.com/graphhopper/graphhopper) - Open source route planning library and server using OpenStreetMap. ([Wiki](https://wiki.openstreetmap.org/wiki/GraphHopper))
+*   [OpenTripPlanner (⭐2.1k)](https://github.com/opentripplanner/OpenTripPlanner) - Open source multi-modal trip planner. ([Wiki](https://wiki.openstreetmap.org/wiki/OpenTripPlanner))
+*   [GraphHopper (⭐4.9k)](https://github.com/graphhopper/graphhopper) - Open source route planning library and server using OpenStreetMap. ([Wiki](https://wiki.openstreetmap.org/wiki/GraphHopper))
 
 ### Public APIs / Java
 
-*   [overpass](http://overpass-api.de) - Read-only API that serves up custom selected parts of the OSM map data. ([Source Code (⭐659)](https://github.com/drolbr/Overpass-API) / [Wiki](https://wiki.openstreetmap.org/wiki/Overpass_API))
+*   [overpass](http://overpass-api.de) - Read-only API that serves up custom selected parts of the OSM map data. ([Source Code (⭐709)](https://github.com/drolbr/Overpass-API) / [Wiki](https://wiki.openstreetmap.org/wiki/Overpass_API))
 *   [planet.osm](http://planet.osm.org) - Minutely/weekly/yearly/full dumps of osm data. ([Wiki](https://wiki.openstreetmap.org/wiki/Planet.osm))
 *   [bbbike](https://extract.bbbike.org) - Custom extracts of areas from planet.osm. ([Wiki](https://wiki.openstreetmap.org/wiki/BBBike_@_World))
 
@@ -556,7 +554,7 @@
 
 ### Related lists / Global Communities
 
-*   [awesome-maplibre (⭐291)](https://github.com/maplibre/awesome-maplibre#readme) - A collection of awesome things that use or support MapLibre! <span id="related-awesome-maplibre"/>
+*   [awesome-maplibre (⭐397)](https://github.com/maplibre/awesome-maplibre#readme) - A collection of awesome things that use or support MapLibre! <span id="related-awesome-maplibre"/>
 
 ## [28. Awesome Agriculture](/content/brycejohnston/awesome-agriculture/week/README.md)
 
@@ -586,31 +584,31 @@
 
 ### Tools
 
-*   [php-ansible Library (⭐197)](https://github.com/maschmann/php-ansible) - OOP-Wrapper for Ansible, making Ansible available in PHP.
-*   [TD4A (⭐204)](https://github.com/cidrblock/td4a) - Design aid for building and testing jinja2 templates, combines data in yaml format with a jinja2 template and render the output.
-*   [Ansible Playbook Grapher (⭐536)](https://github.com/haidaraM/ansible-playbook-grapher) - Command line tool to create a graph representing your Ansible playbook plays, tasks and roles.
+*   [php-ansible Library (⭐204)](https://github.com/maschmann/php-ansible) - OOP-Wrapper for Ansible, making Ansible available in PHP.
+*   [TD4A (⭐212)](https://github.com/cidrblock/td4a) - Design aid for building and testing jinja2 templates, combines data in yaml format with a jinja2 template and render the output.
+*   [Ansible Playbook Grapher (⭐646)](https://github.com/haidaraM/ansible-playbook-grapher) - Command line tool to create a graph representing your Ansible playbook plays, tasks and roles.
 
 ### Playbooks, Roles and Collections / French
 
-*   [BlueBanquise (⭐95)](https://github.com/bluebanquise/bluebanquise) - An ansible coherent roles collection to deploy clusters.
+*   [BlueBanquise (⭐117)](https://github.com/bluebanquise/bluebanquise) - An ansible coherent roles collection to deploy clusters.
 
 ## [30. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Miscellaneous Data Structures and Algorithms
 
-*   [go-tuple (⭐80)](https://github.com/barweiss/go-tuple) - Generic tuple implementation for Go 1.18+.
+*   [go-tuple (⭐82)](https://github.com/barweiss/go-tuple) - Generic tuple implementation for Go 1.18+.
 
 ### Database Tools
 
-*   [rdb (⭐374)](https://github.com/HDT3213/rdb) - Redis RDB file parser for secondary development and memory analysis.
+*   [rdb (⭐443)](https://github.com/HDT3213/rdb) - Redis RDB file parser for secondary development and memory analysis.
 
 ### SQL Query Builders
 
-*   [sqlc (⭐12k)](https://github.com/kyleconroy/sqlc) - Generate type-safe code from SQL.
+*   [sqlc (⭐14k)](https://github.com/kyleconroy/sqlc) - Generate type-safe code from SQL.
 
 ### Geographic
 
-*   [Web-Mercator-Projection (⭐7)](https://github.com/jorelosorio/web-mercator-projection) A project to easily use and convert LonLat, Point and Tile to display info, markers, etc, in a map using the Web Mercator Projection.
+*   [Web-Mercator-Projection (⭐9)](https://github.com/jorelosorio/web-mercator-projection) A project to easily use and convert LonLat, Point and Tile to display info, markers, etc, in a map using the Web Mercator Projection.
 
 ### GUI
 
@@ -618,38 +616,37 @@
 
 ### Dependency Injection
 
-*   [nject (⭐29)](https://github.com/muir/nject) - A type safe, reflective framework for libraries, tests, http endpoints, and service startup.
+*   [nject (⭐30)](https://github.com/muir/nject) - A type safe, reflective framework for libraries, tests, http endpoints, and service startup.
 
 ### HTTP Clients
 
-*   [go-otelroundtripper (⭐78)](https://github.com/NdoleStudio/go-otelroundtripper) - Go http.RoundTripper that emits open telemetry metrics for HTTP requests.
+*   [go-otelroundtripper (⭐83)](https://github.com/NdoleStudio/go-otelroundtripper) - Go http.RoundTripper that emits open telemetry metrics for HTTP requests.
+
+### Reflection
+
+*   [reflectutils (⭐8)](https://github.com/muir/reflectutils) - Helpers for working with reflection: struct tag parsing; recursive walking; fill value from string.
 
 ### Security
 
-*   [Coraza (⭐2.1k)](https://github.com/corazawaf/coraza) - Enterprise-ready, modsecurity and OWASP CRS compatible WAF library.
+*   [Coraza (⭐2.4k)](https://github.com/corazawaf/coraza) - Enterprise-ready, modsecurity and OWASP CRS compatible WAF library.
 
 ### Utilities
 
 *   [pointer (⭐42)](https://github.com/xorcare/pointer) - Package pointer contains helper routines for simplifying the creation of optional fields of basic type.
-*   [reflectutils (⭐8)](https://github.com/muir/reflectutils) - Helpers for working with reflection: struct tag parsing; recursive walking; fill value from string.
-
-### Web Frameworks
-
-*   [anoweb (⭐5)](https://github.com/go-the-way/anoweb) - The lightweight and powerful web framework using the new way for Go.Another go the way.
 
 ### Routers / Libraries for creating HTTP middlewares
 
-*   [nchi (⭐13)](https://github.com/muir/nchi) - chi-like router built on httprouter with dependency injection based middleware wrappers
+*   [nchi (⭐16)](https://github.com/muir/nchi) - chi-like router built on httprouter with dependency injection based middleware wrappers
 
 ### DevOps Tools / Libraries for creating HTTP middlewares
 
-*   [ko (⭐7.5k)](https://github.com/google/ko) - Command line tool for building and deploying Go applications on Kubernetes
+*   [ko (⭐7.8k)](https://github.com/google/ko) - Command line tool for building and deploying Go applications on Kubernetes
 
 ## [31. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### GTFS Realtime Utilities / Ruby
 
-*   [GTFS Data Pipeline for TfNSW Bus Datasets (⭐7)](https://github.com/teckkean/GTFS-Data-Pipeline-TfNSW-Bus) - A data pipeline developed for the TfNSW's GTFS Static and Realtime datasets. The datasets generated using the pipeline have been used to validate the performance of TfNSW's Transit Signal Priority Request via Public Transport Information and Priority System (PTIPS).
+*   [GTFS Data Pipeline for TfNSW Bus Datasets (⭐8)](https://github.com/teckkean/GTFS-Data-Pipeline-TfNSW-Bus) - A data pipeline developed for the TfNSW's GTFS Static and Realtime datasets. The datasets generated using the pipeline have been used to validate the performance of TfNSW's Transit Signal Priority Request via Public Transport Information and Priority System (PTIPS).
 
 ## [32. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
@@ -657,13 +654,7 @@
 
 *   [canta](https://sourceforge.net/projects/canta/) - A tool to help to sing in tune.
 
-## [33. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
-
-### Audio
-
-*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Blade Player (⭐179)](https://github.com/vhaudiquet/BladePlayer) - Open source Spotify client, works without premium.
-
-## [34. Awesome Nosql Guides](/content/erictleung/awesome-nosql-guides/week/README.md)
+## [33. Awesome Nosql Guides](/content/erictleung/awesome-nosql-guides/week/README.md)
 
 ### Overview of NoSQL
 
@@ -675,36 +666,36 @@
 
 *   [Data Models For MongoDB](https://www.mongodb.com/docs/manual/data-modeling/) - Data modeling help specific to MongoDB, ranging from schema validation and example patterns. However, concepts may carry over to other document NoSQL databases.
 
-## [35. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [34. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Utility / Diagnostics
 
-*   [axieax/urlview.nvim (⭐233)](https://github.com/axieax/urlview.nvim) - Browse all URLs in the current buffer.
+*   [axieax/urlview.nvim (⭐236)](https://github.com/axieax/urlview.nvim) - Browse all URLs in the current buffer.
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [jrychn/moduleVim (⭐8)](https://github.com/jrychn/ModuleVim) - A very easy to use
-    for backend and frontend, install lsp automatically.
+*   [jrychn/moduleVim (⭐9)](https://github.com/jrychn/ModuleVim) - A very easy to use
+    for backend and frontend, install LSP automatically.
 
-## [36. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
+## [35. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### Schema / Changes
 
-*   [Atlas (⭐5.3k)](https://github.com/ariga/atlas) - Inspect and Apply changes to your database schema.
+*   [Atlas (⭐6.3k)](https://github.com/ariga/atlas) - Inspect and Apply changes to your database schema.
 *   [Reshape (⭐1.7k)](https://github.com/fabianlindfors/reshape) - An easy-to-use, zero-downtime schema migration tool for Postgres.
-*   [sqldef (⭐1.9k)](https://github.com/k0kubun/sqldef) - Idempotent schema management for MySQL, PostgreSQL, and more.
+*   [sqldef (⭐2k)](https://github.com/k0kubun/sqldef) - Idempotent schema management for MySQL, PostgreSQL, and more.
 
 ### Schema / Diagrams
 
-*   [ERAlchemy (⭐1.1k)](https://github.com/Alexis-benoist/eralchemy) - Entity Relation Diagrams generation tool.
+*   [ERAlchemy (⭐1.2k)](https://github.com/Alexis-benoist/eralchemy) - Entity Relation Diagrams generation tool.
 
 ### Schema / Documentations
 
 *   [dbdocs](https://dbdocs.io/) - Create web-based database documentation using DSL code.
-*   [DBML (⭐2.5k)](https://github.com/holistics/dbml) - Database Markup Language, designed to define and document database structures.
+*   [DBML (⭐3k)](https://github.com/holistics/dbml) - Database Markup Language, designed to define and document database structures.
 *   [SchemaCrawler (⭐1.6k)](https://github.com/schemacrawler/SchemaCrawler) - A free database schema discovery and comprehension tool.
-*   [Schema Spy (⭐3.1k)](https://github.com/schemaspy/schemaspy) - Generating your database to HTML documentation, including Entity Relationship diagrams.
-*   [tbls (⭐3.2k)](https://github.com/k1LoW/tbls) - CI-Friendly tool for document a database, written in Go.
+*   [Schema Spy (⭐3.3k)](https://github.com/schemaspy/schemaspy) - Generating your database to HTML documentation, including Entity Relationship diagrams.
+*   [tbls (⭐3.6k)](https://github.com/k1LoW/tbls) - CI-Friendly tool for document a database, written in Go.
 
 ### Schema / Design
 
@@ -712,29 +703,29 @@
 *   [ERBuilder Data Modeler](https://soft-builder.com/erbuilder-data-modeler) - Easy-to-use database modeling software for high-quality data models. It's a complete data modeling solution for data modelers and data architects.
 *   [Navicat Data Modeler](https://www.navicat.com/en/products/navicat-data-modeler) - A powerful and cost-effective database design tool which helps you build high-quality conceptual, logical and physical data models.
 *   [Oracle SQL Developer Data Modeler](http://www.oracle.com/technetwork/developer-tools/datamodeler/overview/index.html) - Oracle SQL Developer Data Modeler is a free graphical tool that enhances productivity and simplifies data modeling tasks.
-*   [pgmodeler (⭐3k)](https://github.com/pgmodeler/pgmodeler) - Data modeling tool designed for PostgreSQL.
+*   [pgmodeler (⭐3.2k)](https://github.com/pgmodeler/pgmodeler) - Data modeling tool designed for PostgreSQL.
 
 ### Schema / Samples
 
-*   [Oracle Database Sample Schemas (⭐696)](https://github.com/oracle/db-sample-schemas) - Oracle Database Sample Schemas.
+*   [Oracle Database Sample Schemas (⭐769)](https://github.com/oracle/db-sample-schemas) - Oracle Database Sample Schemas.
 
 ### API / Samples
 
-*   [Datasette (⭐9k)](https://github.com/simonw/datasette) - A tool for exploring and publishing data.
+*   [Datasette (⭐9.7k)](https://github.com/simonw/datasette) - A tool for exploring and publishing data.
 
 ### Application platforms / Samples
 
-*   [Budibase (⭐21k)](https://github.com/Budibase/budibase) - Low-code platform for creating internal apps in minutes.
-*   [Saltcorn (⭐1.5k)](https://github.com/saltcorn/saltcorn) - Open source no-code builder for web datatabase applications. Server and drag-and-drop UI builder, data stored in PostgreSQL or SQLite.
+*   [Budibase (⭐23k)](https://github.com/Budibase/budibase) - Low-code platform for creating internal apps in minutes.
+*   [Saltcorn (⭐1.7k)](https://github.com/saltcorn/saltcorn) - Open source no-code builder for web datatabase applications. Server and drag-and-drop UI builder, data stored in PostgreSQL or SQLite.
 
 ### Backup / Samples
 
-*   [pgcopydb (⭐1.1k)](https://github.com/dimitri/pgcopydb) - Copy a Postgres database to a target Postgres server (pg\_dump | pg\_restore on steroids).
+*   [pgcopydb (⭐1.2k)](https://github.com/dimitri/pgcopydb) - Copy a Postgres database to a target Postgres server (pg\_dump | pg\_restore on steroids).
 
 ### Cloning / Samples
 
 *   [Database Lab Engine](https://gitlab.com/postgres-ai/database-lab) - Instant thin cloning for Postgres to scale the development process.
-*   [clone\_schema (⭐163)](https://github.com/denishpatel/pg-clone-schema) - Postgres clone schema utility without need of going outside of database.
+*   [clone\_schema (⭐178)](https://github.com/denishpatel/pg-clone-schema) - Postgres clone schema utility without need of going outside of database.
 *   [Spawn](https://spawn.cc/) - Cloud service for creating instant database copies for development and CI. No more local db installs, instant recovery to arbitrary save points, isolated copies for each feature branch or test. Instant provisioning regardless of database size.
 
 ### Monitoring/Statistics/Perfomance / Samples
@@ -744,55 +735,65 @@
 
 ### Testing / Zabbix
 
-*   [SQLancer (⭐1.4k)](https://github.com/sqlancer/sqlancer) - Automatically test DBMS in order to find logic bugs in their implementation.
+*   [SQLancer (⭐1.5k)](https://github.com/sqlancer/sqlancer) - Automatically test DBMS in order to find logic bugs in their implementation.
 
 ### HA/Failover/Sharding / Zabbix
 
-*   [pgslice (⭐1k)](https://github.com/ankane/pgslice) - Postgres partitioning as easy as pie.
+*   [pgslice (⭐1.1k)](https://github.com/ankane/pgslice) - Postgres partitioning as easy as pie.
 
 ### SQL / Über SQL
 
-*   [CloudQuery (⭐5.7k)](https://github.com/cloudquery/cloudquery) - Extracts, transforms, and loads your cloud assets into normalized PostgreSQL tables.
+*   [CloudQuery (⭐5.9k)](https://github.com/cloudquery/cloudquery) - Extracts, transforms, and loads your cloud assets into normalized PostgreSQL tables.
 *   [csvq (⭐1.5k)](https://github.com/mithrandie/csvq) - SQL-like query language for CSV.
-*   [dsq (⭐3.7k)](https://github.com/multiprocessio/dsq) - Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
-*   [OctoSQL (⭐4.7k)](https://github.com/cube2222/octosql) - Query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
+*   [dsq (⭐3.8k)](https://github.com/multiprocessio/dsq) - Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
+*   [OctoSQL (⭐5k)](https://github.com/cube2222/octosql) - Query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
 *   [Resmo](https://www.resmo.com) - Audit and evaluate resources using SQL.
-*   [Steampipe (⭐6.6k)](https://github.com/turbot/steampipe) - Use SQL to instantly query your cloud services (AWS, Azure, GCP and more).
-*   [TextQL (⭐9k)](https://github.com/dinedal/textql) - Execute SQL against structured text like CSV or TSV.
-*   [trdsql (⭐1.9k)](https://github.com/noborus/trdsql) - CLI tool that can execute SQL queries on CSV, LTSV, JSON and TBLN.
+*   [Steampipe (⭐7.1k)](https://github.com/turbot/steampipe) - Use SQL to instantly query your cloud services (AWS, Azure, GCP and more).
+*   [TextQL (⭐9.1k)](https://github.com/dinedal/textql) - Execute SQL against structured text like CSV or TSV.
+*   [trdsql (⭐2.1k)](https://github.com/noborus/trdsql) - CLI tool that can execute SQL queries on CSV, LTSV, JSON and TBLN.
 
 ### Data / Scripts
 
-*   [dbt (⭐9.2k)](https://github.com/dbt-labs/dbt-core) - Transform your data by simply writing select statements, while dbt handles turning these statements into tables and views in a data warehouse.
+*   [dbt (⭐10k)](https://github.com/dbt-labs/dbt-core) - Transform your data by simply writing select statements, while dbt handles turning these statements into tables and views in a data warehouse.
 
 ### Data / Generation/Masking/Subsetting
 
-*   [Benerator (⭐130)](https://github.com/rapiddweller/rapiddweller-benerator-ce) - Generate, obfuscate (anonymize / pseudonymize) and migrate data for development, testing and training purposes.
+*   [Benerator (⭐146)](https://github.com/rapiddweller/rapiddweller-benerator-ce) - Generate, obfuscate (anonymize / pseudonymize) and migrate data for development, testing and training purposes.
 *   [dbForge Data Generator for MySQL](https://www.devart.com/dbforge/mysql/data-generator) - Powerful GUI tool for creating massive volumes of realistic test data.
 *   [dbForge Data Generator for Oracle](https://www.devart.com/dbforge/oracle/data-generator) - Small but mighty GUI tool for populating Oracle schemas with tons of realistic test data.
 *   [dbForge Data Generator for SQL Server](https://www.devart.com/dbforge/sql/data-generator) - Powerful GUI tool for a fast generation of meaningful test data for databases.
-*   [Faker (⭐12k)](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and Node.js.
-*   [Noisia (⭐689)](https://github.com/lesovsky/noisia) - Harmful workload generator for PostgreSQL.
+*   [Faker (⭐13k)](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and Node.js.
+*   [Noisia (⭐692)](https://github.com/lesovsky/noisia) - Harmful workload generator for PostgreSQL.
 *   [SB Data Generator](https://soft-builder.com/sb-data-generator) - Simple and powerful tool to generate and populate selected tables or entire databases with realistic test data for your applications. Generate test data for: Oracle, MS SQL Server, MySQL, PostgreSQL, Firebird, SQLite, Azure SQL Database, Amazon Redshift and Amazon RDS.
 
 ### Data / Replication
 
-*   [dtle (⭐545)](https://github.com/actiontech/dtle) - Distributed Data Transfer Service for MySQL.
-*   [Litestream (⭐10k)](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
-*   [pgsync (⭐3k)](https://github.com/ankane/pgsync) - Sync Postgres data between databases.
-*   [pg\_chameleon (⭐373)](https://github.com/the4thdoctor/pg_chameleon) - MySQL to PostgreSQL replica system written in Python 3. The system use the library mysql-replication to pull the row images from MySQL which are stored into PostgreSQL as JSONB.
-*   [PGDeltaStream (⭐252)](https://github.com/hasura/pgdeltastream) - A Golang webserver to stream Postgres changes atleast-once over websockets, using Postgres logical decoding feature.
-*   [repmgr (⭐1.5k)](https://github.com/2ndQuadrant/repmgr) - The Most Popular Replication Manager for PostgreSQL.
+*   [dtle (⭐553)](https://github.com/actiontech/dtle) - Distributed Data Transfer Service for MySQL.
+*   [Litestream (⭐11k)](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
+*   [pgsync (⭐3.2k)](https://github.com/ankane/pgsync) - Sync Postgres data between databases.
+*   [pg\_chameleon (⭐392)](https://github.com/the4thdoctor/pg_chameleon) - MySQL to PostgreSQL replica system written in Python 3. The system use the library mysql-replication to pull the row images from MySQL which are stored into PostgreSQL as JSONB.
+*   [PGDeltaStream (⭐254)](https://github.com/hasura/pgdeltastream) - A Golang webserver to stream Postgres changes atleast-once over websockets, using Postgres logical decoding feature.
+*   [repmgr (⭐1.6k)](https://github.com/2ndQuadrant/repmgr) - The Most Popular Replication Manager for PostgreSQL.
 
 ### Papers / Compare
 
-*   [The "Database as Code" Manifesto (⭐88)](https://github.com/mgramin/database-as-code) - Treat your database as Code.
+*   [The "Database as Code" Manifesto (⭐98)](https://github.com/mgramin/database-as-code) - Treat your database as Code.
 
-## [37. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
+## [36. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
 
 ### Utils / Other Tools
 
-*   [FastAPI FeatureFlags (⭐52)](https://github.com/Pytlicek/fastapi-featureflags) - Simple implementation of feature flags for FastAPI.
+*   [FastAPI FeatureFlags (⭐58)](https://github.com/Pytlicek/fastapi-featureflags) - Simple implementation of feature flags for FastAPI.
+
+## [37. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+
+### Components & Libraries / Frameworks
+
+*   [vue-admin-box (⭐1.8k)](https://github.com/cmdparkour/vue-admin-box) - The admin template based on vue3 and element-plus. [Live demo](https://cmdparkour.github.io/vue-admin-box/dist/)
+
+### Components & Libraries / UI Utilities
+
+*   [FormKit (⭐4.4k)](https://github.com/formkit/formkit) - Vue 3 form development. 10x faster. Form inputs, validation, submission, error handling, generation, accessibility, theming, and more.
 
 ## [38. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
@@ -811,56 +812,56 @@
 *   Pipeline
     *   [hniksic/rust-subprocess (⭐426)](https://github.com/hniksic/rust-subprocess) \[[subprocess](https://crates.io/crates/subprocess)] - facilities for interaction with external pipelines
     *   [imp/pager-rs](https://gitlab.com/imp/pager-rs) \[[pager](https://crates.io/crates/pager)] - pipe your output through an external pager
-    *   [oconnor663/duct.rs (⭐803)](https://github.com/oconnor663/duct.rs) \[[duct](https://crates.io/crates/duct)] - A builder for subprocess pipelines and IO redirection
-    *   [rust-cli/rexpect (⭐319)](https://github.com/rust-cli/rexpect) \[[rexpect](https://crates.io/crates/rexpect)] - automate interactive applications such as ssh, ftp, passwd, etc [![CI](https://github.com/rust-cli/rexpect/actions/workflows/ci.yml/badge.svg)](https://github.com/rust-cli/rexpect/actions/workflows/ci.yml)
-    *   [zhiburt/expectrl (⭐170)](https://github.com/zhiburt/expectrl) \[[expectrl](https://crates.io/crates/expectrl)] - A library for controlling interactive programs in a pseudo-terminal [![build badge](https://github.com/zhiburt/expectrl/actions/workflows/ci.yml/badge.svg)](https://github.com/zhiburt/expectrl/actions/workflows/ci.yml)
+    *   [oconnor663/duct.rs (⭐840)](https://github.com/oconnor663/duct.rs) \[[duct](https://crates.io/crates/duct)] - A builder for subprocess pipelines and IO redirection
+    *   [rust-cli/rexpect (⭐334)](https://github.com/rust-cli/rexpect) \[[rexpect](https://crates.io/crates/rexpect)] - automate interactive applications such as ssh, ftp, passwd, etc [![CI](https://github.com/rust-cli/rexpect/actions/workflows/ci.yml/badge.svg)](https://github.com/rust-cli/rexpect/actions/workflows/ci.yml)
+    *   [zhiburt/expectrl (⭐182)](https://github.com/zhiburt/expectrl) \[[expectrl](https://crates.io/crates/expectrl)] - A library for controlling interactive programs in a pseudo-terminal [![build badge](https://github.com/zhiburt/expectrl/actions/workflows/ci.yml/badge.svg)](https://github.com/zhiburt/expectrl/actions/workflows/ci.yml)
 
 ## [40. Awesome Open Source Games](/content/michelpereira/awesome-open-source-games/week/README.md)
 
 ### Browser-Based / Arcade
 
-*   [Heal 'em All (⭐49)](https://github.com/krzysu/game-off-2013) - Explore old, abandoned graveyard, heal as many zombies as you can, and find your way out. But be careful not to become one of them.
-*   [Hyperspace Garbage Collector (⭐62)](https://github.com/razh/game-off-2013) - Guide N4n through the dangerous trash-heap caverns to reach the Primary Systems Core and restore compliance to the Trash.
+*   [Heal 'em All (⭐50)](https://github.com/krzysu/game-off-2013) - Explore old, abandoned graveyard, heal as many zombies as you can, and find your way out. But be careful not to become one of them.
+*   [Hyperspace Garbage Collector (⭐61)](https://github.com/razh/game-off-2013) - Guide N4n through the dangerous trash-heap caverns to reach the Primary Systems Core and restore compliance to the Trash.
 *   [Jekyll & Hyde Collide (⭐28)](https://github.com/awesome-interactive/game-off-2013) - Simple Unity 2d game that is very literally based around the theme of "change" using the classic Jeykll and Hyde story.
 *   [JumpSuit (⭐47)](https://github.com/KordonBleu/jumpsuit) - With your awesome suit, jump from planet to planet to conquer them.
-*   [Mario 5 HTML (⭐478)](https://github.com/robertkleffner/marioHTML5) - Infinite Mario in HTML5 JavaScript using Canvas and Audio elements.
+*   [Mario 5 HTML (⭐490)](https://github.com/robertkleffner/marioHTML5) - Infinite Mario in HTML5 JavaScript using Canvas and Audio elements.
 *   [Mega Girl (⭐57)](https://github.com/ddionisio/game-off-2013) - The hyper-deluxed-super-mega software that beats back those malicious apps.
 *   [Monster Wants Candy (⭐62)](https://github.com/EnclaveGames/Monster-Wants-Candy-demo) - Monster Wants Candy demo is a simple HTML5 game created with Phaser 2.0.7.
 *   [Octocat Jump (⭐33)](https://github.com/ogoshen/game-off-2012) - Navigate your ever-jumping Octocat and collect stars for extra points.
-*   [Onslaught Arena (⭐192)](https://github.com/lostdecade/onslaught_arena) - Fight off hordes of classic medieval monsters in this fast paced arcade shooter.
+*   [Onslaught Arena (⭐195)](https://github.com/lostdecade/onslaught_arena) - Fight off hordes of classic medieval monsters in this fast paced arcade shooter.
 *   [PolyBranch (⭐169)](https://github.com/gbatha/PolyBranch) - Minimalist 3D game. Dodging branches may seem easy at first, let's see how long can you hold up as you approach terminal velocity.
-*   [Save The Forest (⭐18)](https://github.com/softvar/save-the-forest) - Fully canvas based HTML5 game where a player has to extinguish fire on tress using his magical water tank in order to save the Burning Forests.
-*   [Ski Free (⭐507)](https://github.com/basicallydan/skifree.js) - Controls a skier on a mountain slope, avoiding obstacles while racing against time or performing stunts for points, depending on the game mode.
-*   [Space-Shooter (⭐14)](https://github.com/Couchfriends/Space-Shooter) - Classic shoot'em up space shooter build in HTML5 with multiplayer.
+*   [Save The Forest (⭐19)](https://github.com/softvar/save-the-forest) - Fully canvas based HTML5 game where a player has to extinguish fire on tress using his magical water tank in order to save the Burning Forests.
+*   [Ski Free (⭐519)](https://github.com/basicallydan/skifree.js) - Controls a skier on a mountain slope, avoiding obstacles while racing against time or performing stunts for points, depending on the game mode.
+*   [Space-Shooter (⭐17)](https://github.com/Couchfriends/Space-Shooter) - Classic shoot'em up space shooter build in HTML5 with multiplayer.
 *   [WPilot (⭐164)](https://github.com/jfd/wpilot) - Browser-based remake of the famous XPilot game, built with Node.js and HTML5.
 
 ### Browser-Based / RPG
 
-*   [Diablo JavaScript (⭐936)](https://github.com/mitallast/diablo-js) - Isometric minimal-code style game at HTML5 canvas and JavaScript.
-*   [Room for Change (⭐136)](https://github.com/antionio/game-off-2013) - Randomly generated action RPG. You play as a chubby archeologist who is tasked to retrieve three sacred artifacts from the pyramid of the legendary Pharaohs.
+*   [Diablo JavaScript (⭐951)](https://github.com/mitallast/diablo-js) - Isometric minimal-code style game at HTML5 canvas and JavaScript.
+*   [Room for Change (⭐139)](https://github.com/antionio/game-off-2013) - Randomly generated action RPG. You play as a chubby archeologist who is tasked to retrieve three sacred artifacts from the pyramid of the legendary Pharaohs.
 
 ### Browser-Based / Strategy
 
-*   [Ancient Beast (⭐1.6k)](https://github.com/FreezingMoon/AncientBeast) - Materialize and control beasts in order to defeat your opponents.
+*   [Ancient Beast (⭐1.7k)](https://github.com/FreezingMoon/AncientBeast) - Materialize and control beasts in order to defeat your opponents.
 *   [Freeciv-web (⭐2k)](https://github.com/freeciv/freeciv-web) - Build cities, collect resources, organize your government, and build an army, with the ultimate goal of creating the best civilization.
-*   [Hexa Battle (⭐69)](https://github.com/itajaja/hb) - Turn based dungeon crawler written with Typescript, using React and SVG.
+*   [Hexa Battle (⭐70)](https://github.com/itajaja/hb) - Turn based dungeon crawler written with Typescript, using React and SVG.
 
 ### Browser-Based / Racing
 
 *   [HexGL (⭐1.6k)](https://github.com/BKcore/HexGL) - Futuristic HTML5 racing game, challenge your friends on this fast-paced 3D game.
-*   [Trigger Rally Online Edition (⭐316)](https://github.com/CodeArtemis/TriggerRally) - Fast arcade rally racing action, play in your browser with WebGL 3D graphics.
+*   [Trigger Rally Online Edition (⭐327)](https://github.com/CodeArtemis/TriggerRally) - Fast arcade rally racing action, play in your browser with WebGL 3D graphics.
 
 ### Browser-Based / Sandbox
 
-*   [3d.city (⭐1.5k)](https://github.com/lo-th/3d.city) - Goal was to build a city in 3D to test the performance of WebGL and and Three.js.
-*   [Blk Game (⭐42)](https://github.com/morozd/blk-game) - Fully modifiable multiplayer voxel world in JS that can run efficiently in the browser.
+*   [3d.city (⭐1.6k)](https://github.com/lo-th/3d.city) - Goal was to build a city in 3D to test the performance of WebGL and and Three.js.
+*   [Blk Game (⭐41)](https://github.com/morozd/blk-game) - Fully modifiable multiplayer voxel world in JS that can run efficiently in the browser.
 *   [Cube Engine (⭐172)](https://github.com/Nurgak/Cube-engine) - Resembles that of Minecraft, a popular voxel-type 3D game based on boxes.
 
 ### Browser-Based / Puzzle
 
 *   [2048 (⭐12k)](https://github.com/gabrielecirulli/2048) - Clone of 1024, based on Saming's 2048.
-*   [A Dark Room (⭐45)](https://github.com/hughsk/ludum-dare-27) - Dodge and shoot the red targets, grabbing the bombs as you go. Survive as long as possible and try to get a high score.
-*   [Orbium (⭐87)](https://github.com/bni/orbium) - Modern version of the 90's game Logical.
+*   [A Dark Room (⭐46)](https://github.com/hughsk/ludum-dare-27) - Dodge and shoot the red targets, grabbing the bombs as you go. Survive as long as possible and try to get a high score.
+*   [Orbium (⭐88)](https://github.com/bni/orbium) - Modern version of the 90's game Logical.
 
 ### Frameworks/Engines/Libraries / IOS
 
@@ -918,26 +919,9 @@
 
 ### Software / Booking and Scheduling
 
-*   [Cal.com](https://cal.com/) - The open-source online appointment scheduling system. ([Demo](https://app.cal.com/bailey), [Source Code (⭐31k)](https://github.com/calcom/cal.com)) `MIT` `Nodejs`
+*   [Cal.com](https://cal.com/) - The open-source online appointment scheduling system. ([Demo](https://app.cal.com/bailey), [Source Code (⭐34k)](https://github.com/calcom/cal.com)) `AGPL-3.0` `Nodejs`
 
-## [44. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
-
-### Components & Libraries / Frameworks
-
-*   [vue-admin-box (⭐1.7k)](https://github.com/cmdparkour/vue-admin-box) - The admin template based on vue3 and element-plus. [Live demo](https://cmdparkour.github.io/vue-admin-box/dist/)
-
-### Components & Libraries / UI Components
-
-*   [uspin (⭐6)](https://github.com/peterroe/uspin) - A vue3 component that adds a spin mask at load time.🔄
-*   [vue-img-lazy-tiny (⭐5)](https://github.com/peterroe/vue-img-lazy-tiny) - A vue3 directive that provide a shield while loading.
-*   [vue-drag-drop-snap (⭐1)](https://github.com/mrfade/vue-drag-drop-snap) - A dependency-free Vue component for drag and drop with snapping.
-*   [awesome-image (⭐71)](https://github.com/newbeea/awesome-image) - An universal image component for Vue2 / Vue3 / Nuxt with Lazyload / Responsive / Progressive / Auto-WebP / WebGL Filter / WebGL Transition supported.
-
-### Components & Libraries / UI Utilities
-
-*   [FormKit (⭐4.2k)](https://github.com/formkit/formkit) - Vue 3 form development. 10x faster. Form inputs, validation, submission, error handling, generation, accessibility, theming, and more.
-
-## [45. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
+## [44. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
 
 ### Remote Jobs:
 
@@ -945,7 +929,7 @@
 
 
 
-## [46. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [45. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Community / Community Chat Rooms
 
@@ -958,11 +942,11 @@
 
 ### Peripheral Access Crates / Espressif
 
-*   [`esp32`](https://github.com/esp-rs/esp-pacs/tree/main/esp32) - ![crates.io](https://img.shields.io/crates/v/esp32.svg)
-*   [`esp32c3`](https://github.com/esp-rs/esp-pacs/tree/main/esp32c3) - ![crates.io](https://img.shields.io/crates/v/esp32c3.svg)
-*   [`esp32s2`](https://github.com/esp-rs/esp-pacs/tree/main/esp32s2) - ![crates.io](https://img.shields.io/crates/v/esp32s2.svg)
-*   [`esp32s3`](https://github.com/esp-rs/esp-pacs/tree/main/esp32s3) - ![crates.io](https://img.shields.io/crates/v/esp32s3.svg)
-*   [`esp8266`](https://github.com/esp-rs/esp-pacs/tree/main/esp8266) - ![crates.io](https://img.shields.io/crates/v/esp8266.svg)
+*   [`esp32`](https://github.com/esp-rs/esp-pacs/tree/main/esp32) - [![crates.io](https://img.shields.io/crates/v/esp32.svg)](https://crates.io/crates/esp32)
+*   [`esp32c3`](https://github.com/esp-rs/esp-pacs/tree/main/esp32c3) - [![crates.io](https://img.shields.io/crates/v/esp32c3.svg)](https://crates.io/crates/esp32c3)
+*   [`esp32s2`](https://github.com/esp-rs/esp-pacs/tree/main/esp32s2) - [![crates.io](https://img.shields.io/crates/v/esp32s2.svg)](https://crates.io/crates/esp32s2)
+*   [`esp32s3`](https://github.com/esp-rs/esp-pacs/tree/main/esp32s3) - [![crates.io](https://img.shields.io/crates/v/esp32s3.svg)](https://crates.io/crates/esp32s3)
+*   [`esp8266`](https://github.com/esp-rs/esp-pacs/tree/main/esp8266) - [![crates.io](https://img.shields.io/crates/v/esp8266.svg)](https://crates.io/crates/esp8266)
 
 ### HAL implementation crates / Espressif
 
@@ -975,121 +959,121 @@
 
 *   [`nucleo-h743zi`](https://github.com/astraw/nucleo-h743zi) Beginner-oriented support crate for the Nucleo H743ZI and Nucleo H743ZI2
 
-## [47. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
+## [46. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
 
 ### ⚙️ Middlewares / 🌱 Third Party
 
 *   [shareed2k/fiber\_tracing (⭐12)](https://github.com/shareed2k/fiber_tracing) - Middleware trace requests on Fiber framework with OpenTracing API.
-*   [shareed2k/fiber\_limiter (⭐14)](https://github.com/shareed2k/fiber_limiter) - Limiter using redis as store for rate limit with two algorithms for choosing sliding window, gcra leaky bucket.
-*   [ansrivas/fiberprometheus (⭐148)](https://github.com/ansrivas/fiberprometheus) - Prometheus middleware for gofiber.
-*   [sacsand/gofiber-firebaseauth (⭐22)](https://github.com/sacsand/gofiber-firebaseauth) - Fiber Firebase Auth Middleware.
-*   [aschenmaker/fiber-health-check (⭐9)](https://github.com/aschenmaker/fiber-health-check) - Health-check middleware support health-check for Fiber️ framework.
-*   [elastic/apmfiber (⭐404)](https://github.com/elastic/apm-agent-go/tree/master/module/apmfiber) - APM Agent for Go Fiber.
-*   [eozer/fiber\_ldapauth (⭐3)](https://github.com/eozer/fiber_ldapauth) - LDAP Authentication Middleware for Fiber.
+*   [shareed2k/fiber\_limiter (⭐13)](https://github.com/shareed2k/fiber_limiter) - Limiter using redis as store for rate limit with two algorithms for choosing sliding window, gcra leaky bucket.
+*   [ansrivas/fiberprometheus (⭐180)](https://github.com/ansrivas/fiberprometheus) - Prometheus middleware for gofiber.
+*   [sacsand/gofiber-firebaseauth (⭐24)](https://github.com/sacsand/gofiber-firebaseauth) - Fiber Firebase Auth Middleware.
+*   [aschenmaker/fiber-health-check (⭐10)](https://github.com/aschenmaker/fiber-health-check) - Health-check middleware support health-check for Fiber️ framework.
+*   [elastic/apmfiber (⭐423)](https://github.com/elastic/apm-agent-go/tree/master/module/apmfiber) - APM Agent for Go Fiber.
+*   [eozer/fiber\_ldapauth (⭐4)](https://github.com/eozer/fiber_ldapauth) - LDAP Authentication Middleware for Fiber.
 
 ### 🚧 Boilerplates / 🌱 Third Party
 
-*   [gofiber/boilerplate (⭐364)](https://github.com/gofiber/boilerplate) - Official fiber boilerplate.
-*   [fiber-boilerplate (⭐259)](https://github.com/thomasvvugt/fiber-boilerplate) - A boilerplate for the Fiber web framework.
-*   [sujit-baniya/fiber-boilerplate (⭐364)](https://github.com/sujit-baniya/fiber-boilerplate) - Boilerplate on the top of fiber web framework with many middlewares and features.
-*   [create-go-app/fiber-go-template (⭐816)](https://github.com/create-go-app/fiber-go-template) - Fiber backend template for Create Go App CLI.
-*   [embedmode/fiberseed (⭐37)](https://github.com/embedmode/fiberseed) - Fiber boilerplate api with many middlewares.
+*   [gofiber/boilerplate (⭐438)](https://github.com/gofiber/boilerplate) - Official fiber boilerplate.
+*   [fiber-boilerplate (⭐277)](https://github.com/thomasvvugt/fiber-boilerplate) - A boilerplate for the Fiber web framework.
+*   [sujit-baniya/fiber-boilerplate (⭐417)](https://github.com/sujit-baniya/fiber-boilerplate) - Boilerplate on the top of fiber web framework with many middlewares and features.
+*   [create-go-app/fiber-go-template (⭐989)](https://github.com/create-go-app/fiber-go-template) - Fiber backend template for Create Go App CLI.
+*   [embedmode/fiberseed (⭐39)](https://github.com/embedmode/fiberseed) - Fiber boilerplate api with many middlewares.
 
 ### 📁 Recipes / 🌱 Third Party
 
 *   [kiyonlin/fiblar-demo (⭐3)](https://github.com/kiyonlin/fiblar-demo) - Fiber v1 + angular demo.
-*   [koddr/tutorial-go-fiber-rest-api (⭐329)](https://github.com/koddr/tutorial-go-fiber-rest-api) - Tutorial for building a restful api with fiber.
-*   [firebase007/go-rest-api-with-fiber (⭐51)](https://github.com/firebase007/go-rest-api-with-fiber) - Demo project with fiber, logging, basicAuth and postgresql.
+*   [koddr/tutorial-go-fiber-rest-api (⭐385)](https://github.com/koddr/tutorial-go-fiber-rest-api) - Tutorial for building a restful api with fiber.
+*   [firebase007/go-rest-api-with-fiber (⭐54)](https://github.com/firebase007/go-rest-api-with-fiber) - Demo project with fiber, logging, basicAuth and postgresql.
 *   [chawk/go\_fiber\_quickstart (⭐18)](https://github.com/chawk/go_fiber_quickstart) - Fiber quick start example project.
-*   [EricLau1/go-fiber-auth-api (⭐54)](https://github.com/EricLau1/go-fiber-auth-api) - Golang Authentication API with Fiber MongoDB and JWT.
+*   [EricLau1/go-fiber-auth-api (⭐53)](https://github.com/EricLau1/go-fiber-auth-api) - Golang Authentication API with Fiber MongoDB and JWT.
 
 ### 🤖 Benchmarks / 🌱 Third Party
 
 *   [TechEmpower](https://www.techempower.com/benchmarks/#section=data-r20\&hw=ph\&test=json) - Project provides performance measures across a wide field of web application frameworks.
 *   [web-frameworks-benchmark](https://web-frameworks-benchmark.netlify.app/result) - Project aims to measure the differences between the various programming language frameworks.
-*   [go-web-framework-benchmark (⭐2k)](https://github.com/smallnest/go-web-framework-benchmark) - This benchmark suite aims to compare the performance of Go web frameworks.
+*   [go-web-framework-benchmark (⭐2.1k)](https://github.com/smallnest/go-web-framework-benchmark) - This benchmark suite aims to compare the performance of Go web frameworks.
 
-## [48. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [47. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Problem Solving / Reinforcement Learning
 
-*   [SUNRISE: A Simple Unified Framework for Ensemble Learning in Deep Reinforcement Learning](http://proceedings.mlr.press/v139/lee21g.html) - ***ICML'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=8840831494454574191\&hl=en\&as_sdt=0,5)]. \[[Code (⭐119)](https://github.com/pokaxpoka/sunrise)].
+*   [SUNRISE: A Simple Unified Framework for Ensemble Learning in Deep Reinforcement Learning](http://proceedings.mlr.press/v139/lee21g.html) - ***ICML'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=8840831494454574191\&hl=en\&as_sdt=0,5)]. \[[Code (⭐121)](https://github.com/pokaxpoka/sunrise)].
 *   [Automatic curriculum learning for deep RL: a short survey](https://dl.acm.org/doi/abs/10.5555/3491440.3492111) - ***IJCAI'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=10660055557098312214\&hl=en\&as_sdt=0,5)].
-*   [TeachMyAgent: a Benchmark for Automatic Curriculum Learning in Deep RL](http://proceedings.mlr.press/v139/romac21a.html) - ***ICML'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=11016662361926634008\&hl=en\&as_sdt=0,5)]. \[[Project (⭐64)](https://github.com/flowersteam/TeachMyAgent)].
+*   [TeachMyAgent: a Benchmark for Automatic Curriculum Learning in Deep RL](http://proceedings.mlr.press/v139/romac21a.html) - ***ICML'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=11016662361926634008\&hl=en\&as_sdt=0,5)]. \[[Project (⭐67)](https://github.com/flowersteam/TeachMyAgent)].
 
-## [49. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [48. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### Social Media Tools / Facebook
 
-*   [Facebook Friend List Scraper (⭐238)](https://github.com/narkopolo/fb_friend_list_scraper) - Tool for scraping large Facebook friend lists without being rate-limited.
+*   [Facebook Friend List Scraper (⭐262)](https://github.com/narkopolo/fb_friend_list_scraper) - Tool for scraping large Facebook friend lists without being rate-limited.
 
-### Web History and Website Capture / Telegram
+### Web History and Website Capture / Steam
 
-*   [waybackpy (⭐456)](https://github.com/akamhy/waybackpy) - Python package & CLI tool that interfaces the Wayback Machine APIs.
+*   [waybackpy (⭐498)](https://github.com/akamhy/waybackpy) - Python package & CLI tool that interfaces the Wayback Machine APIs.
 
-## [50. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
+## [49. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
 
 ### Python / Trading & Backtesting
 
-*   [TA-Lib (⭐9.4k)](https://github.com/mrjbq7/ta-lib) - Python wrapper for TA-Lib (<http://ta-lib.org/>).
-*   [zipline (⭐17k)](https://github.com/quantopian/zipline) - Pythonic algorithmic trading library.
+*   [TA-Lib (⭐10k)](https://github.com/mrjbq7/ta-lib) - Python wrapper for TA-Lib (<http://ta-lib.org/>).
+*   [zipline (⭐18k)](https://github.com/quantopian/zipline) - Pythonic algorithmic trading library.
 
 ### Python / Time Series
 
-*   [gluon-ts (⭐4.5k)](https://github.com/awslabs/gluon-ts) - vProbabilistic time series modeling in Python.
+*   [gluon-ts (⭐4.7k)](https://github.com/awslabs/gluon-ts) - vProbabilistic time series modeling in Python.
 
 ### Python / Data Sources
 
-*   [pystlouisfed (⭐12)](https://github.com/TomasKoutek/pystlouisfed) - Python client for Federal Reserve Bank of St. Louis API - FRED, ALFRED, GeoFRED and FRASER.
-*   [python-bcb (⭐72)](https://github.com/wilsonfreitas/python-bcb) - Python interface to Brazilian Central Bank web services.
+*   [pystlouisfed (⭐16)](https://github.com/TomasKoutek/pystlouisfed) - Python client for Federal Reserve Bank of St. Louis API - FRED, ALFRED, GeoFRED and FRASER.
+*   [python-bcb (⭐84)](https://github.com/wilsonfreitas/python-bcb) - Python interface to Brazilian Central Bank web services.
 
 ### R / Numerical Libraries & Data Structures
 
-*   [xts (⭐221)](https://github.com/joshuaulrich/xts) - eXtensible Time Series: Provide for uniform handling of R's different time-based data classes by extending zoo, maximizing native format information preservation and allowing for user level customization and extension, while simplifying cross-class interoperability.
-*   [data.table (⭐3.5k)](https://github.com/Rdatatable/data.table) - Extension of data.frame: Fast aggregation of large data (e.g. 100GB in RAM), fast ordered joins, fast add/modify/delete of columns by group using no copies at all, list columns and a fast file reader (fread). Offers a natural and flexible syntax, for faster development.
+*   [xts (⭐220)](https://github.com/joshuaulrich/xts) - eXtensible Time Series: Provide for uniform handling of R's different time-based data classes by extending zoo, maximizing native format information preservation and allowing for user level customization and extension, while simplifying cross-class interoperability.
+*   [data.table (⭐3.6k)](https://github.com/Rdatatable/data.table) - Extension of data.frame: Fast aggregation of large data (e.g. 100GB in RAM), fast ordered joins, fast add/modify/delete of columns by group using no copies at all, list columns and a fast file reader (fread). Offers a natural and flexible syntax, for faster development.
 
 ### R / Data Sources
 
 *   [Rblpapi (⭐167)](https://github.com/Rblp/Rblpapi) - An R Interface to 'Bloomberg' is provided via the 'Blp API'.
 *   [Rbitcoin (⭐57)](https://github.com/jangorecki/Rbitcoin) - Unified markets API interface (bitstamp, kraken, btce, bitmarket).
-*   [GetTDData (⭐22)](https://github.com/msperlin/GetTDData) - Downloads and aggregates data for Brazilian government issued bonds directly from the website of Tesouro Direto.
-*   [GetHFData (⭐39)](https://github.com/msperlin/GetHFData) - Downloads and aggregates high frequency trading data for Brazilian instruments directly from Bovespa ftp site.
+*   [GetTDData (⭐23)](https://github.com/msperlin/GetTDData) - Downloads and aggregates data for Brazilian government issued bonds directly from the website of Tesouro Direto.
+*   [GetHFData (⭐40)](https://github.com/msperlin/GetHFData) - Downloads and aggregates high frequency trading data for Brazilian instruments directly from Bovespa ftp site.
 *   [Reddit WallstreetBets API](https://dashboard.nbshare.io/apps/reddit/api/) - Provides daily top 50 stocks from reddit (subreddit) Wallstreetbets and their sentiments via the API.
-*   [td (⭐15)](https://github.com/eddelbuettel/td) - Interfaces the 'twelvedata' API for stocks and (digital and standard) currencies.
-*   [rbcb (⭐91)](https://github.com/wilsonfreitas/rbcb) - R interface to Brazilian Central Bank web services.
+*   [td (⭐16)](https://github.com/eddelbuettel/td) - Interfaces the 'twelvedata' API for stocks and (digital and standard) currencies.
+*   [rbcb (⭐92)](https://github.com/wilsonfreitas/rbcb) - R interface to Brazilian Central Bank web services.
 
 ### R / Financial Instruments and Pricing
 
 *   [portfolio (⭐15)](https://github.com/dgerlanc/portfolio) - Analysing equity portfolios.
-*   [credule (⭐5)](https://github.com/blenezet/credule) - Credit Default Swap Functions.
-*   [PortfolioAnalytics (⭐76)](https://github.com/braverock/PortfolioAnalytics) - Portfolio Analysis, Including Numerical Methods for Optimizationof Portfolios.
+*   [credule (⭐6)](https://github.com/blenezet/credule) - Credit Default Swap Functions.
+*   [PortfolioAnalytics (⭐83)](https://github.com/braverock/PortfolioAnalytics) - Portfolio Analysis, Including Numerical Methods for Optimizationof Portfolios.
 *   [fmbasics (⭐12)](https://github.com/imanuelcostigan/fmbasics) - Financial Market Building Blocks.
-*   [R-fixedincome (⭐51)](https://github.com/wilsonfreitas/R-fixedincome) - Fixed income tools for R.
+*   [R-fixedincome (⭐54)](https://github.com/wilsonfreitas/R-fixedincome) - Fixed income tools for R.
 
 ### R / Trading
 
-*   [TTR (⭐328)](https://github.com/joshuaulrich/TTR) - Technical Trading Rules.
+*   [TTR (⭐334)](https://github.com/joshuaulrich/TTR) - Technical Trading Rules.
 
 ### R / Risk Analysis
 
-*   [PerformanceAnalytics (⭐206)](https://github.com/braverock/PerformanceAnalytics) - Econometric tools for performance and risk analysis.
+*   [PerformanceAnalytics (⭐214)](https://github.com/braverock/PerformanceAnalytics) - Econometric tools for performance and risk analysis.
 
 ### R / Time Series
 
-*   [rugarch (⭐20)](https://github.com/alexiosg/rugarch) - Univariate GARCH Models.
-*   [rmgarch (⭐11)](https://github.com/alexiosg/rmgarch) - Multivariate GARCH Models.
+*   [rugarch (⭐25)](https://github.com/alexiosg/rugarch) - Univariate GARCH Models.
+*   [rmgarch (⭐14)](https://github.com/alexiosg/rmgarch) - Multivariate GARCH Models.
 
 ### R / Calendars
 
-*   [bizdays (⭐53)](https://github.com/wilsonfreitas/R-bizdays) - Business days calculations and utilities
+*   [bizdays (⭐55)](https://github.com/wilsonfreitas/R-bizdays) - Business days calculations and utilities
 
 ### Julia / FrameWorks
 
-*   [Miletus.jl (⭐83)](https://github.com/JuliaComputing/Miletus.jl) - A financial contract definition, modeling language, and valuation framework.
+*   [Miletus.jl (⭐87)](https://github.com/JuliaComputing/Miletus.jl) - A financial contract definition, modeling language, and valuation framework.
 
 ### Reproducing Works, Training & Books / Data Visualization
 
-*   [Machine-Learning-for-Asset-Managers (⭐461)](https://github.com/emoen/Machine-Learning-for-Asset-Managers) - Implementation of code snippets, exercises and application to live data from Machine Learning for Asset Managers (Elements in Quantitative Finance) written by Prof. Marcos López de Prado.
+*   [Machine-Learning-for-Asset-Managers (⭐499)](https://github.com/emoen/Machine-Learning-for-Asset-Managers) - Implementation of code snippets, exercises and application to live data from Machine Learning for Asset Managers (Elements in Quantitative Finance) written by Prof. Marcos López de Prado.
 
 ---
 

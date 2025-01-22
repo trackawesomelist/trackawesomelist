@@ -10,11 +10,11 @@
 
 ### Animation
 
-*   [lottie-ios (⭐25k)](https://github.com/airbnb/lottie-ios) - An iOS library to natively render After Effects vector animations.
+*   [lottie-ios (⭐26k)](https://github.com/airbnb/lottie-ios) - An iOS library to natively render After Effects vector animations.
 
 ### Bots
 
-*   [Telegram Bot SDK (⭐375)](https://github.com/rapierorg/telegram-bot-swift) :penguin: - Unofficial SDK.
+*   [Telegram Bot SDK (⭐376)](https://github.com/rapierorg/telegram-bot-swift) :penguin: - Unofficial SDK.
 
 ### Keychain / Barcode
 
@@ -29,13 +29,13 @@
 ### Web Development
 
 *   **Frameworks**:
-    *   [Opium (⭐752)](https://github.com/rgrinberg/opium) – Sinatra like web toolkit for OCaml.
+    *   [Opium (⭐757)](https://github.com/rgrinberg/opium) – Sinatra like web toolkit for OCaml.
     *   [Ocsigen Eliom](http://ocsigen.org/eliom/) – Eliom is a full-featured multi-tier framework, for developing multi-platform Web and mobile apps as 100% OCaml distributed applications. It can also be used for more traditional Web or mobile apps: Web sites, single page applications, REST API, etc.
     *   [Dream](https://aantron.github.io/dream/) - Tidy Web framework for OCaml and ReasonML
-    *   [webmachine (⭐223)](https://github.com/inhabitedtype/ocaml-webmachine) – A REST toolkit for OCaml. OCaml webmachine is a layer on top of cohttp that implements a state-machine-based HTTP request processor. It's particularly well-suited for writing RESTful APIs. As the name suggests, this is an OCaml port of the webmachine project.
-    *   [incr\_dom (⭐376)](https://github.com/janestreet/incr_dom) - A library for building dynamic webapps, using Js\_of\_ocaml
+    *   [webmachine (⭐221)](https://github.com/inhabitedtype/ocaml-webmachine) – A REST toolkit for OCaml. OCaml webmachine is a layer on top of cohttp that implements a state-machine-based HTTP request processor. It's particularly well-suited for writing RESTful APIs. As the name suggests, this is an OCaml port of the webmachine project.
+    *   [incr\_dom (⭐381)](https://github.com/janestreet/incr_dom) - A library for building dynamic webapps, using Js\_of\_ocaml
     *   [fmlib\_browser](https://hbr.github.io/fmlib/odoc/fmlib_browser/doc_overview.html) - a library which helps to write web applications which run in the browser in a pure functional style.
-    *   [ocaml-vdom (⭐196)](https://github.com/LexiFi/ocaml-vdom) - Elm architecture and (V)DOM for OCaml
+    *   [ocaml-vdom (⭐197)](https://github.com/LexiFi/ocaml-vdom) - Elm architecture and (V)DOM for OCaml
 
 ## [3. Awesome Beacon](/content/rabschi/awesome-beacon/README.md)
 
@@ -114,7 +114,7 @@
 
 ### Integrations
 
-*   [Extension Keycloak facilitant l'utilisation de FranceConnect (⭐83)](https://github.com/InseeFr/Keycloak-FranceConnect)
+*   [Extension Keycloak facilitant l'utilisation de FranceConnect (⭐88)](https://github.com/InseeFr/Keycloak-FranceConnect)
 
 ## [6. Awesome Pyramid](/content/uralbash/awesome-pyramid/README.md)
 

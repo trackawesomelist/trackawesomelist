@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 20, 2020
 
-4 awesome lists updated today.
+3 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Starters & Themes
 
-*   🚀 [Eleventy Starter (⭐263)](https://github.com/ixartz/Eleventy-Starter-Boilerplate/) - Production-ready, SEO-friendly blog starter using Tailwind CSS.
+*   🚀 [Eleventy Starter (⭐270)](https://github.com/ixartz/Eleventy-Starter-Boilerplate/) - Production-ready, SEO-friendly blog starter using Tailwind CSS.
 
 ## [2. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
@@ -22,26 +22,16 @@
 
 ### Python / Data Analysis / Data Visualization
 
-*   [ParaMonte (⭐254)](https://github.com/cdslaborg/paramonte) - A general-purpose Python library for Bayesian data analysis and visualization via serial/parallel Monte Carlo and MCMC simulations. Documentation can be found [here](https://www.cdslab.org/paramonte/).
+*   [ParaMonte (⭐275)](https://github.com/cdslaborg/paramonte) - A general-purpose Python library for Bayesian data analysis and visualization via serial/parallel Monte Carlo and MCMC simulations. Documentation can be found [here](https://www.cdslab.org/paramonte/).
 
 ### Fortran / General-Purpose Machine Learning
 
-*   [neural-fortran (⭐390)](https://github.com/modern-fortran/neural-fortran) - A parallel neural net microframework.
+*   [neural-fortran (⭐411)](https://github.com/modern-fortran/neural-fortran) - A parallel neural net microframework.
     Read the paper [here](https://arxiv.org/abs/1902.06714).
 
 ### Python / Natural Language Processing
 
-*   [Pattern (⭐8.7k)](https://github.com/clips/pattern) - A web mining module for the Python programming language. It has tools for natural language processing, machine learning, among others.
-
-## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / UI Components
-
-*   [@grafikri/vue-infinite-scroll (⭐2)](https://github.com/grafikri/vue-infinite-scroll) - Basic infinite scroll for Vue
-
-### Components & Libraries / Utilities
-
-*   [excel-vue-i18n (⭐8)](https://github.com/grafikri/excel-vue-i18n) - A plugin transforms excel file to i18n json format for translations.
+*   [Pattern (⭐8.8k)](https://github.com/clips/pattern) - A web mining module for the Python programming language. It has tools for natural language processing, machine learning, among others.
 
 ---
 

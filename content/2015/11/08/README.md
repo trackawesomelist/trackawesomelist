@@ -22,7 +22,7 @@
 
 ### UI / Barcode
 
-*   [GMStepper (⭐923)](https://github.com/gmertk/GMStepper) - A stepper with a sliding label in the middle.
+*   [GMStepper (⭐925)](https://github.com/gmertk/GMStepper) - A stepper with a sliding label in the middle.
 
 ## [4. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
@@ -35,7 +35,7 @@
 ### Queues and Messaging
 
 *   [Bunny (⭐1.4k)](https://github.com/ruby-amqp/bunny) - Bunny is a popular, easy to use, well-maintained Ruby client for RabbitMQ (3.3+).
-*   [March Hare (⭐97)](https://github.com/ruby-amqp/march_hare) - Idiomatic, fast and well-maintained JRuby client for RabbitMQ.
+*   [March Hare (⭐96)](https://github.com/ruby-amqp/march_hare) - Idiomatic, fast and well-maintained JRuby client for RabbitMQ.
 
 ### Search
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 01 - Mar 07, 2021
 
-71 awesome lists updated this week.
+70 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,24 +10,24 @@
 
 ### Projects and Code Examples / Vector search
 
-*   [Handwritten Digits Recognition (⭐5)](https://github.com/jdrzj/handwritten-digits-recognition) -
+*   [Handwritten Digits Recognition (⭐6)](https://github.com/jdrzj/handwritten-digits-recognition) -
     Handwritten digits recognition using Neural Networks and Ruby.
 
 ## [2. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Peripheral Access Crates / Nordic
 
-*   [`nrf52811-pac`](https://crates.io/crates/nrf52811-pac) - Peripheral access API for the nRF52811 microcontroller (generated using svd2rust) - ![crates.io](https://img.shields.io/crates/v/nrf52811-pac.svg)
-*   [`nrf52833-pac`](https://crates.io/crates/nrf52833-pac) - Peripheral access API for the nRF52833 microcontroller (generated using svd2rust) - ![crates.io](https://img.shields.io/crates/v/nrf52833-pac.svg)
-*   [`nrf5340-app-pac`](https://crates.io/crates/nrf5340-app-pac) - Peripheral access API for the nRF5340 application core (generated using svd2rust) - ![crates.io](https://img.shields.io/crates/v/nrf5340-app-pac.svg)
-*   [`nrf5340-net-pac`](https://crates.io/crates/nrf5340-net-pac) - Peripheral access API for the nRF5340 network core (generated using svd2rust) - ![crates.io](https://img.shields.io/crates/v/nrf5340-net-pac.svg)
-*   [`nrf9160-pac`](https://crates.io/crates/nrf9160-pac) - Peripheral access API for the nRF9160 system-in-package (generated using svd2rust) - ![crates.io](https://img.shields.io/crates/v/nrf9160-pac.svg)
+*   [`nrf52811-pac`](https://crates.io/crates/nrf52811-pac) - Peripheral access API for the nRF52811 microcontroller (generated using svd2rust) - [![crates.io](https://img.shields.io/crates/v/nrf52811-pac.svg)](https://crates.io/crates/nrf52811-pac)
+*   [`nrf52833-pac`](https://crates.io/crates/nrf52833-pac) - Peripheral access API for the nRF52833 microcontroller (generated using svd2rust) - [![crates.io](https://img.shields.io/crates/v/nrf52833-pac.svg)](https://crates.io/crates/nrf52833-pac)
+*   [`nrf5340-app-pac`](https://crates.io/crates/nrf5340-app-pac) - Peripheral access API for the nRF5340 application core (generated using svd2rust) - [![crates.io](https://img.shields.io/crates/v/nrf5340-app-pac.svg)](https://crates.io/crates/nrf5340-app-pac)
+*   [`nrf5340-net-pac`](https://crates.io/crates/nrf5340-net-pac) - Peripheral access API for the nRF5340 network core (generated using svd2rust) - [![crates.io](https://img.shields.io/crates/v/nrf5340-net-pac.svg)](https://crates.io/crates/nrf5340-net-pac)
+*   [`nrf9160-pac`](https://crates.io/crates/nrf9160-pac) - Peripheral access API for the nRF9160 system-in-package (generated using svd2rust) - [![crates.io](https://img.shields.io/crates/v/nrf9160-pac.svg)](https://crates.io/crates/nrf9160-pac)
 
 ### HAL implementation crates / Nordic
 
-*   [`nrf52811-hal`](https://crates.io/crates/nrf52811-hal) - ![crates.io](https://img.shields.io/crates/v/nrf52811-hal.svg)
-*   [`nrf52833-hal`](https://crates.io/crates/nrf52833-hal) - ![crates.io](https://img.shields.io/crates/v/nrf52833-hal.svg)
-*   [`nrf9160-hal`](https://crates.io/crates/nrf9160-hal) - ![crates.io](https://img.shields.io/crates/v/nrf9160-hal.svg)
+*   [`nrf52811-hal`](https://crates.io/crates/nrf52811-hal) - [![crates.io](https://img.shields.io/crates/v/nrf52811-hal.svg)](https://crates.io/crates/nrf52811-hal)
+*   [`nrf52833-hal`](https://crates.io/crates/nrf52833-hal) - [![crates.io](https://img.shields.io/crates/v/nrf52833-hal.svg)](https://crates.io/crates/nrf52833-hal)
+*   [`nrf9160-hal`](https://crates.io/crates/nrf9160-hal) - [![crates.io](https://img.shields.io/crates/v/nrf9160-hal.svg)](https://crates.io/crates/nrf9160-hal)
 
 ## [3. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/week/README.md)
 
@@ -40,7 +40,7 @@
 
 ### Competitive Analysis / GDPR
 
-*   [Google Cloud Developer's Cheat Sheet (⭐7.9k)](https://github.com/gregsramblings/google-cloud-4-words#the-google-cloud-developers-cheat-sheet) - Describe all GCP products in 4 words or less.
+*   [Google Cloud Developer's Cheat Sheet (⭐8k)](https://github.com/gregsramblings/google-cloud-4-words#the-google-cloud-developers-cheat-sheet) - Describe all GCP products in 4 words or less.
 
 ## [5. Awesome Wordpress Gatsby](/content/henrikwirth/awesome-wordpress-gatsby/week/README.md)
 
@@ -113,7 +113,7 @@
 
 ### Back-End Development
 
-*   [IAM (⭐1.7k)](https://github.com/kdeldycke/awesome-iam#readme) - User accounts, authentication and authorization.
+*   [IAM (⭐1.8k)](https://github.com/kdeldycke/awesome-iam#readme) - User accounts, authentication and authorization.
 
 ## [7. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
@@ -175,19 +175,19 @@
 
 *   [Website](https://nodejs.org)
 *   [Documentation](https://nodejs.org/dist/latest/docs/api/)
-*   [Repository (⭐106k)](https://github.com/nodejs/node)
+*   [Repository (⭐108k)](https://github.com/nodejs/node)
 
 ### Packages / Database
 
 *   Other
-    *   [NeDB (⭐13k)](https://github.com/louischatriot/nedb) - Embedded persistent database written in JavaScript.
-    *   [Lowdb (⭐21k)](https://github.com/typicode/lowdb) - Small JavaScript database powered by Lodash.
-    *   [Keyv (⭐2.5k)](https://github.com/jaredwray/keyv) - Simple key-value storage with support for multiple backends.
+    *   [NeDB (⭐14k)](https://github.com/louischatriot/nedb) - Embedded persistent database written in JavaScript.
+    *   [Lowdb (⭐22k)](https://github.com/typicode/lowdb) - Small JavaScript database powered by Lodash.
+    *   [Keyv (⭐2.7k)](https://github.com/jaredwray/keyv) - Simple key-value storage with support for multiple backends.
     *   [Finale (⭐188)](https://github.com/tommybananas/finale) - RESTful endpoint generator for your Sequelize models.
-    *   [database-js (⭐73)](https://github.com/mlaanderson/database-js) - Wrapper for multiple databases with a JDBC-like connection.
+    *   [database-js (⭐75)](https://github.com/mlaanderson/database-js) - Wrapper for multiple databases with a JDBC-like connection.
     *   [Mongo Seeding (⭐555)](https://github.com/pkosiec/mongo-seeding) - Populate MongoDB databases with JavaScript and JSON files.
-    *   [@databases (⭐595)](https://github.com/ForbesLindesay/atdatabases) - Query PostgreSQL, MySQL and SQLite3 with plain SQL without risking SQL injection.
-    *   [pg-mem (⭐1.9k)](https://github.com/oguimbal/pg-mem) - In-memory PostgreSQL instance for your tests.
+    *   [@databases (⭐609)](https://github.com/ForbesLindesay/atdatabases) - Query PostgreSQL, MySQL and SQLite3 with plain SQL without risking SQL injection.
+    *   [pg-mem (⭐2k)](https://github.com/oguimbal/pg-mem) - In-memory PostgreSQL instance for your tests.
 
 ### Resources / Videos
 
@@ -250,17 +250,17 @@
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-handlebars (⭐171)](https://github.com/alexlafroscia/vite-plugin-handlebars) - Process HTML files with Handlebars.
+*   [vite-plugin-handlebars (⭐189)](https://github.com/alexlafroscia/vite-plugin-handlebars) - Process HTML files with Handlebars.
 
 ## [19. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Plugin Manager
 
-*   [savq/paq-nvim (⭐645)](https://github.com/savq/paq-nvim) - Neovim package manager written in Lua.
+*   [savq/paq-nvim (⭐668)](https://github.com/savq/paq-nvim) - Neovim package manager written in Lua.
 
 ### Git / Diagnostics
 
-*   [tveskag/nvim-blame-line (⭐182)](https://github.com/tveskag/nvim-blame-line) - A small plugin that uses neovims virtual text to print git blame info at the end of the current line.
+*   [tveskag/nvim-blame-line (⭐184)](https://github.com/tveskag/nvim-blame-line) - A small plugin that uses Neovim's virtual text to print Git blame info at the end of the current line.
 
 ## [20. awsm.fish](/content/jorgebucaran/awsm.fish/week/README.md)
 
@@ -295,7 +295,7 @@
 *   [**MVP.css**](https://andybrewer.github.io/mvp/) - Minimalist stylesheet for HTML elements.\
     ![](https://img.shields.io/github/stars/andybrewer/mvp.svg?style=social\&label=Star)
     [Docs](https://andybrewer.github.io/mvp/#docs),
-    [Repo (⭐4.9k)](https://github.com/andybrewer/mvp/)
+    [Repo (⭐5k)](https://github.com/andybrewer/mvp/)
     \| #CSS
 
 ### General Purpose
@@ -303,15 +303,15 @@
 *   [**Fomantic-UI**](https://fomantic-ui.com/) - Build beautiful websites fast, with concise HTML, intuitive javascript, and simplified debugging.\
     ![](https://img.shields.io/github/stars/fomantic/fomantic-ui.svg?style=social\&label=Star)
     [Docs](https://fomantic-ui.com/introduction/getting-started.html),
-    [Repo (⭐3.5k)](https://github.com/fomantic/fomantic-ui/)
+    [Repo (⭐3.6k)](https://github.com/fomantic/fomantic-ui/)
     \| #LESS
 
 ### Specialized
 
 *   [**TuiCss**](https://github.com/vinibiavatti1/TuiCss) - Library to create MS-DOS interfaces.\
     ![](https://img.shields.io/github/stars/vinibiavatti1/TuiCss.svg?style=social\&label=Star)
-    [Demo (⭐1.5k)](https://github.com/vinibiavatti1/TuiCss/wiki/Examples),
-    [Docs (⭐1.5k)](https://github.com/vinibiavatti1/TuiCss/wiki)
+    [Demo (⭐1.7k)](https://github.com/vinibiavatti1/TuiCss/wiki/Examples),
+    [Docs (⭐1.7k)](https://github.com/vinibiavatti1/TuiCss/wiki)
     \| #SCSS
 
 ### Stalled Development
@@ -369,7 +369,7 @@
 
 ### Auth
 
-*   [FastAPI Cloud Auth (⭐326)](https://github.com/tokusumi/fastapi-cloudauth) - Simple integration between FastAPI and cloud authentication services (AWS Cognito, Auth0, Firebase Authentication).
+*   [FastAPI Cloud Auth (⭐339)](https://github.com/tokusumi/fastapi-cloudauth) - Simple integration between FastAPI and cloud authentication services (AWS Cognito, Auth0, Firebase Authentication).
 
 ## [28. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
@@ -386,7 +386,7 @@
 
 ## [30. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
-### Other multimodal data formats / Ruby
+### Pilot or development stage / Ruby
 
 *   [shared-row (⭐17)](https://github.com/d-wasserman/shared-row) - A specification for right-of-way (ROW) for a SharedStreets Reference.
 
@@ -402,9 +402,9 @@
 
 *   [Sogou Workflow (⭐13k)](https://github.com/sogou/workflow) - Enterprise-grade programming engine aimed to satisfy most of the backend development requirements.
 
-### Coordination & Governance / Scala
+### Workflow Orchestration / Scala
 
-*   [Temporal (⭐11k)](https://github.com/temporalio/temporal) - Open source microservices orchestration platform for running mission critical code at any scale.
+*   [Temporal (⭐13k)](https://github.com/temporalio/temporal) - Open source microservices orchestration platform for running mission critical code at any scale.
 
 ### Storage / Scala
 
@@ -449,9 +449,9 @@
 
   CORS: Unknown
 
-  Run in Postman: 
+  : 
 
-  : [<sup>**Run in Postman**</sup>](https://god.gw.postman.com/run-collection/1034536-ec65aa12-bea7-413c-9f3f-5f96d63eb62e?action=collection%2Ffork\&source=rip_markdown\&collection-url=entityId%3D1034536-ec65aa12-bea7-413c-9f3f-5f96d63eb62e%26entityType%3Dcollection%26workspaceId%3D67bb7371-b898-48d6-b4ba-19a622f3f5c2)
+  : 
 
 
 
@@ -507,15 +507,15 @@
 
 ### Blazor
 
-*   [BootstrapBlazor (⭐2k)](https://github.com/dotnetcore/BootstrapBlazor) - A set of enterprise-class UI components based on Bootstrap and Blazor.
+*   [BootstrapBlazor (⭐3k)](https://github.com/dotnetcore/BootstrapBlazor) - A set of enterprise-class UI components based on Bootstrap and Blazor.
 
 ### Misc
 
-*   [Validot (⭐295)](https://github.com/bartoszlenar/Validot) - Validot is a performance-first, compact library for advanced model validation. Using a simple declarative fluent interface, it efficiently handles classes, structs, nested members, collections, nullables, plus any relation or combination of them. It also supports translations, custom logic extensions with tests, and DI containers.
+*   [Validot (⭐315)](https://github.com/bartoszlenar/Validot) - Validot is a performance-first, compact library for advanced model validation. Using a simple declarative fluent interface, it efficiently handles classes, structs, nested members, collections, nullables, plus any relation or combination of them. It also supports translations, custom logic extensions with tests, and DI containers.
 
 ### Source Generator
 
-*   [Awesome Microservices .NET Core (⭐2.7k)](https://github.com/mjebrahimi/Awesome-Microservices-NetCore) - A collection of awesome training series, articles, videos, books, courses, sample projects, and tools for Microservices in .NET Core.
+*   [Awesome Microservices .NET Core (⭐2.8k)](https://github.com/mjebrahimi/Awesome-Microservices-NetCore) - A collection of awesome training series, articles, videos, books, courses, sample projects, and tools for Microservices in .NET Core.
 
 ## [42. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/week/README.md)
 
@@ -533,13 +533,13 @@
 
 ### Dynamic type checkers
 
-*   [beartype (⭐2.5k)](https://github.com/beartype/beartype) - Unbearably fast `O(1)` runtime type-checking in pure Python.
+*   [beartype (⭐2.8k)](https://github.com/beartype/beartype) - Unbearably fast `O(1)` runtime type-checking in pure Python.
 
 ### Tools / Helper tools to add annotations to existing code
 
 *   [pyannotate (⭐1.4k)](https://github.com/dropbox/pyannotate) - Insert annotations into your source code based on call arguments and return types observed at runtime.
-*   [pyre infer (⭐6.7k)](https://github.com/facebook/pyre-check) - Pyre has a powerful feature for migrating codebases to a typed format. The [infer](https://pyre-check.org/docs/pysa-coverage/) command-line option ingests a file or directory, makes educated guesses about the types used, and applies the annotations to the files.
-*   [pytype annotate-ast (⭐4.7k)](https://github.com/google/pytype/tree/master/pytype/tools/annotate_ast) - A work-in-progress tool to annotate the nodes of an AST with their Python types.
+*   [pyre infer (⭐6.9k)](https://github.com/facebook/pyre-check) - Pyre has a powerful feature for migrating codebases to a typed format. The [infer](https://pyre-check.org/docs/pysa-coverage/) command-line option ingests a file or directory, makes educated guesses about the types used, and applies the annotations to the files.
+*   [pytype annotate-ast (⭐4.8k)](https://github.com/google/pytype/tree/master/pytype/tools/annotate_ast) - A work-in-progress tool to annotate the nodes of an AST with their Python types.
 
 ## [45. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
@@ -555,12 +555,12 @@
 
 ## [47. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
-### Plugins and scripts / Godot 3.2+
+### Plugins and scripts / Godot 3
 
 *   [Godot Gif Getter (⭐40)](https://github.com/you-win/godot-gif-getter) - An in-game utility for recording and saving GIFs (written in GDNative Rust).
-*   [Tree generator (⭐160)](https://github.com/Zylann/godot_tree_generator_plugin) - Tool for generating trees.
+*   [Tree generator (⭐165)](https://github.com/Zylann/godot_tree_generator_plugin) - Tool for generating trees.
 
-### Modules / Godot 3.2+
+### Modules / Godot 3
 
 *   [Speech to Text (⭐33)](https://github.com/menip/godot_speech_to_text) - Captures the user's microphone input and converts it to text.
 
@@ -568,13 +568,13 @@
 
 ### Misc / Other
 
-*   [FingerprintJS (⭐21k)](https://github.com/fingerprintjs/fingerprintjs) - Makes a visitor identifier from a browser fingerprint that stays the same in incognito mode and when browser data is purged.
+*   [FingerprintJS (⭐22k)](https://github.com/fingerprintjs/fingerprintjs) - Makes a visitor identifier from a browser fingerprint that stays the same in incognito mode and when browser data is purged.
 
 ### MVC Frameworks and Libraries / Runner
 
 *   [angular.js (⭐59k)](https://github.com/angular/angular.js) - HTML enhanced for web apps. (deprecated)
-*   [angular (⭐95k)](https://github.com/angular/angular) - Angular is a development platform for building mobile and desktop web applications using Typescript/JavaScript and other languages.
-*   [Lucia (⭐738)](https://github.com/aidenybai/lucia) - 3kb library for tiny web apps.
+*   [angular (⭐96k)](https://github.com/angular/angular) - Angular is a development platform for building mobile and desktop web applications using Typescript/JavaScript and other languages.
+*   [Lucia (⭐737)](https://github.com/aidenybai/lucia) - 3kb library for tiny web apps.
 
 ### Date / Runner
 
@@ -633,11 +633,7 @@
 
 ### Software / Communication - Email - Complete Solutions
 
-*   [emailwiz (⭐1.7k)](https://github.com/LukeSmithxyz/emailwiz) - Luke Smith's bash script to completely automate the setup of a Postfix/Dovecot/SpamAssassin/OpenDKIM server on debian. `GPL-3.0` `Shell`
-
-### Software / Video Surveillance
-
-*   [Kerberos.io](https://kerberos.io) - Kerberos.io is a video surveillance solution, which works with any camera and on every Linux based machine (Raspberry Pi, Docker, Kubernetes cluster). ([Demo](https://demo.kerberos.io/), [Source Code (⭐676)](https://github.com/kerberos-io/agent)) `MIT` `Docker/K8S`
+*   [emailwiz (⭐1.9k)](https://github.com/LukeSmithxyz/emailwiz) - Luke Smith's bash script to completely automate the setup of a Postfix/Dovecot/SpamAssassin/OpenDKIM server on debian. `GPL-3.0` `Shell`
 
 ## [55. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
@@ -665,7 +661,7 @@
 
 ### Tools / Community providers
 
-*   [regula (⭐948)](https://github.com/fugue/regula) - Evaluates Terraform infrastructure-as-code for potential AWS, Azure, and Google Cloud security misconfigurations and compliance violations prior to deployment.
+*   [regula (⭐961)](https://github.com/fugue/regula) - Evaluates Terraform infrastructure-as-code for potential AWS, Azure, and Google Cloud security misconfigurations and compliance violations prior to deployment.
 
 ## [59. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
@@ -683,14 +679,14 @@
 
 ### Tools
 
-*   🌍🔧💼 [Twind (⭐3.7k)](https://github.com/tw-in-js/twind) - Compiler functions that turn Tailwind's classes into CSS at run, serve and build time.
+*   🌍🔧💼 [Twind (⭐3.8k)](https://github.com/tw-in-js/twind) - Compiler functions that turn Tailwind's classes into CSS at run, serve and build time.
 
 ## [62. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/week/README.md)
 
 ### Other libraries and tools / Mesh tools
 
 *   [Dedalus](https://dedalus-project.org/) - Solve partial differential equations with spectral methods.
-    (Python, GPL 3, [GitHub (⭐416)](https://github.com/DedalusProject/dedalus))
+    (Python, GPL 3, [GitHub (⭐524)](https://github.com/DedalusProject/dedalus))
 
 ## [63. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
@@ -699,7 +695,7 @@
 *   Acme:
     *   [acmecrystal (⭐6)](https://github.com/ilanpillemer/acmecrystal) - Reformats crystal code in acme
 *   Emacs
-    *   [crystal-mode](https://melpa.org/#/crystal-mode) - Crystal language support for Emacs ([crystal-lang-tools/emacs-crystal-mode (⭐47)](https://github.com/crystal-lang-tools/emacs-crystal-mode))
+    *   [crystal-mode](https://melpa.org/#/crystal-mode) - Crystal language support for Emacs ([crystal-lang-tools/emacs-crystal-mode (⭐48)](https://github.com/crystal-lang-tools/emacs-crystal-mode))
 
 ## [64. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -717,7 +713,7 @@
 
 ### Testing
 
-*   [Appetize](https://appetize.io) — Test your Android & iOS apps on this Cloud Based Android Phone / Tablets emulator and iPhone/iPad simulators directly in your browser. The free tier includes one concurrent session with 100 minutes of usage per month. No limit on app size.
+*   [Appetize](https://appetize.io) — Test your Android & iOS apps on this Cloud Based Android Phone / Tablets emulator and iPhone/iPad simulators directly in your browser. The free tier includes two concurrent session with 30 minutes of usage per month. No limit on app size.
 
 ### Management System
 
@@ -737,7 +733,6 @@
 
 ### IDE and Code Editing
 
-*   [Android Studio](https://d.android.com/studio) — Android Studio provides the fastest tools for building apps on every type of Android device. Open Source IDE is free for everyone and the best Android app development. Available for Windows, Mac, Linux, and even ChromeOS!
 *   [SoloLearn](https://code.sololearn.com) — A cloud programming playground well-suited for running code snippets. Supports various programming languages. No registration is required for running code, but it is necessary when saving code on their platform. Also offers free courses for beginners and intermediate-level coders.
 
 ### Other Free Resources
@@ -764,46 +759,40 @@
 
 *   [darknet\_ros (⭐1.9k)](https://github.com/leggedrobotics/darknet_ros/tree/ros2) - ROS2 wrapper for deploying Darknet's YOLO Computer Vision model.
 
-## [68. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
-
-### Components & Libraries / UI Components
-
-*   [vue-flv-player (⭐18)](https://github.com/wangdaodao/vue-flv-player) - An HTML5 Flash Video (FLV) Player component for Vue 2.x, based on flv.js.
-
-## [69. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [68. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Others
 
-*   [TypinExamples (⭐242)](https://github.com/adambajguz/Typin/tree/master/src/TypinExamples) - ![last commit](https://img.shields.io/github/last-commit/adambajguz/Typin?style=flat-square\&cacheSeconds=86400) A sample project that demonstrates the usage of [Typin (⭐242)](https://github.com/adambajguz/Typin/) framework with a Blazor SPA application (Xterm.js and custom web workers implementation in C# to emulate terminal experience in browser). [Live demo](https://adambajguz.github.io/Typin/).
+*   [TypinExamples (⭐244)](https://github.com/adambajguz/Typin/tree/master/src/TypinExamples) - ![last commit](https://img.shields.io/github/last-commit/adambajguz/Typin?style=flat-square\&cacheSeconds=86400) A sample project that demonstrates the usage of [Typin (⭐244)](https://github.com/adambajguz/Typin/) framework with a Blazor SPA application (Xterm.js and custom web workers implementation in C# to emulate terminal experience in browser). [Live demo](https://adambajguz.github.io/Typin/).
 
 ### 2D/3D Rendering engines / Tabs
 
-*   [BlazorXTabs (⭐33)](https://github.com/David-Moreira/BlazorXTabs) - ![last commit](https://img.shields.io/github/last-commit/David-Moreira/BlazorXTabs?style=flat-square\&cacheSeconds=86400) An extended tabs component library providing various tab features for Blazor.
+*   [BlazorXTabs (⭐34)](https://github.com/David-Moreira/BlazorXTabs) - ![last commit](https://img.shields.io/github/last-commit/David-Moreira/BlazorXTabs?style=flat-square\&cacheSeconds=86400) An extended tabs component library providing various tab features for Blazor.
 
 ### 2D/3D Rendering engines / Others
 
-*   [BlazorDownloadFile (⭐180)](https://github.com/arivera12/BlazorDownloadFile) - ![stars](https://img.shields.io/github/stars/arivera12/BlazorDownloadFile?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/arivera12/BlazorDownloadFile?style=flat-square\&cacheSeconds=86400) Blazor download files to the browser from c# without any JavaScript library or dependency. BlazorDownloadFile is the solution to saving files on the client-side, and is perfect for web apps that generates files on the client. However if the file is coming from the server we recommend you to first try to use Content-Disposition attachment response header as it has more cross-browser compatibility.
-*   [BlazorSliders (⭐34)](https://github.com/carlfranklin/BlazorSliders) - ![last commit](https://img.shields.io/github/last-commit/carlfranklin/BlazorSliders?style=flat-square\&cacheSeconds=86400) Create multiple panels separated by sliding splitters.
+*   [BlazorDownloadFile (⭐186)](https://github.com/arivera12/BlazorDownloadFile) - ![stars](https://img.shields.io/github/stars/arivera12/BlazorDownloadFile?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/arivera12/BlazorDownloadFile?style=flat-square\&cacheSeconds=86400) Blazor download files to the browser from c# without any JavaScript library or dependency. BlazorDownloadFile is the solution to saving files on the client-side, and is perfect for web apps that generates files on the client. However if the file is coming from the server we recommend you to first try to use Content-Disposition attachment response header as it has more cross-browser compatibility.
+*   [BlazorSliders (⭐37)](https://github.com/carlfranklin/BlazorSliders) - ![last commit](https://img.shields.io/github/last-commit/carlfranklin/BlazorSliders?style=flat-square\&cacheSeconds=86400) Create multiple panels separated by sliding splitters.
 
 ### Community / Others
 
 *   [Blazor Help Website](https://blazorhelpwebsite.com/) - Blogs and code samples primarily covering server-side Blazor.
 
-## [70. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [69. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### CSV / Text-Based User Interfaces
 
-*   [FastCSV (⭐524)](https://github.com/osiegmar/FastCSV) - Performance-optimized, dependency-free and RFC 4180 compliant.
+*   [FastCSV (⭐550)](https://github.com/osiegmar/FastCSV) - Performance-optimized, dependency-free and RFC 4180 compliant.
 
 ### Financial / Text-Based User Interfaces
 
-*   [ta4j (⭐2k)](https://github.com/ta4j/ta4j) - Library for technical analysis.
+*   [ta4j (⭐2.1k)](https://github.com/ta4j/ta4j) - Library for technical analysis.
 
 ### Security / Other
 
-*   [OTP-Java (⭐175)](https://github.com/BastiaanJansen/OTP-Java) - One-time password generator library according to RFC 4226 (HOTP) and RFC 6238 (TOTP).
+*   [OTP-Java (⭐189)](https://github.com/BastiaanJansen/OTP-Java) - One-time password generator library according to RFC 4226 (HOTP) and RFC 6238 (TOTP).
 
-## [71. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [70. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Frameworks
 

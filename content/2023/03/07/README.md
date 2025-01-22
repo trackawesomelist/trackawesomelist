@@ -72,7 +72,7 @@
 
 ### Libraries / Image processing
 
-*   [marekm4/dominant\_color (⭐33)](https://github.com/marekm4/dominant_color) \[[dominant\_color](https://crates.io/crates/dominant_color)] - Dominant color extractor ![build badge](https://github.com/marekm4/dominant_color/actions/workflows/rust.yml/badge.svg?branch=master)
+*   [marekm4/dominant\_color (⭐36)](https://github.com/marekm4/dominant_color) \[[dominant\_color](https://crates.io/crates/dominant_color)] - Dominant color extractor ![build badge](https://github.com/marekm4/dominant_color/actions/workflows/rust.yml/badge.svg?branch=master)
 
 ## [4. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/README.md)
 
@@ -86,7 +86,7 @@
 
 ### Editing Support / Diagnostics
 
-*   [utilyre/sentiment.nvim (⭐150)](https://github.com/utilyre/sentiment.nvim) - Enhanced matchparen.
+*   [utilyre/sentiment.nvim (⭐153)](https://github.com/utilyre/sentiment.nvim) - Enhanced matchparen.
 
 ## [6. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
@@ -98,7 +98,7 @@
 
 ### Graphics
 
-*   [mpv-v (⭐25)](https://github.com/xjunko/mpv-v) - World's Simplest Video Player.
+*   [mpv-v (⭐28)](https://github.com/xjunko/mpv-v) - World's Simplest Video Player.
 
 ## [8. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -108,7 +108,7 @@
 
 ### AI Tools for Searching / Multi-agents
 
-*   [whitead/paper-qa (⭐3.8k)](https://github.com/whitead/paper-qa): "LLM Chain for answering questions from documents with citations"
+*   [whitead/paper-qa (⭐1)](https://github.com/whitead/paper-qa): "LLM Chain for answering questions from documents with citations"
 
 ### Image Synthesis / Multi-agents
 

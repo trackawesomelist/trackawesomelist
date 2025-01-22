@@ -10,21 +10,17 @@
 
 ### Official Resources
 
-*   [GitHub repo (⭐3.5k)](https://github.com/seed-rs/seed)
+*   [GitHub repo (⭐3.8k)](https://github.com/seed-rs/seed)
 
 ### Quickstarts
 
-*   [Default quickstart (⭐94)](https://github.com/seed-rs/seed-quickstart) - Contains only Rust libraries.
+*   [Default quickstart (⭐101)](https://github.com/seed-rs/seed-quickstart) - Contains only Rust libraries.
 
 ### Examples
 
-*   [RealWorld example (⭐116)](https://github.com/seed-rs/seed-rs-realworld) - "The mother of all demo apps" — Exemplary fullstack [Medium.com](https://medium.com/) clone.
-*   [Official examples (⭐3.5k)](https://github.com/seed-rs/seed/tree/master/examples) - Smaller examples included in official repo.
-*   [ERWA mytodo (⭐9)](https://github.com/seed-rs/erwa_mytodo) - Rust full-stack example. Diesel, Rocket, Seed.
-
-### Projects Using Seed
-
-*   [seed-rs.org (⭐14)](https://github.com/seed-rs/seed-rs.org) - Seed's official website.
+*   [RealWorld example (⭐124)](https://github.com/seed-rs/seed-rs-realworld) - "The mother of all demo apps" — Exemplary fullstack [Medium.com](https://medium.com/) clone.
+*   [Official examples (⭐3.8k)](https://github.com/seed-rs/seed/tree/master/examples) - Smaller examples included in official repo.
+*   [ERWA mytodo (⭐10)](https://github.com/seed-rs/erwa_mytodo) - Rust full-stack example. Diesel, Rocket, Seed.
 
 ## [2. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 
@@ -57,7 +53,7 @@
 
 ### Utilities
 
-*   [Vert.x CronUtils (⭐18)](https://github.com/NoEnv/vertx-cronutils) - An abstraction of cron-utils for the vertx scheduler. Unix, Cron4j and Quartz style expressions are supported.
+*   [Vert.x CronUtils (⭐21)](https://github.com/NoEnv/vertx-cronutils) - An abstraction of cron-utils for the vertx scheduler. Unix, Cron4j and Quartz style expressions are supported.
 
 ## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -79,13 +75,13 @@
 
 ### Collection of Actions / Docker Container Actions
 
-*   [GitHub Actions for Deno (⭐182)](https://github.com/denolib/setup-deno)
+*   [GitHub Actions for Deno (⭐181)](https://github.com/denolib/setup-deno)
 
 ## [10. Game Datasets](/content/leomaurodesenv/game-datasets/README.md)
 
 ### Artificial Intelligence
 
-*   [Wargus (⭐324)](https://github.com/Wargus/wargus) - Real-time strategy game. [Website](https://wargus.github.io/).
+*   [Wargus (⭐360)](https://github.com/Wargus/wargus) - Real-time strategy game. [Website](https://wargus.github.io/).
 
 ---
 

@@ -18,19 +18,19 @@
 
 ### LLM Evaluation / Multi-agents
 
-*   [PAIR-code/llm-comparator (⭐274)](https://github.com/PAIR-code/llm-comparator): LLM Comparator is an interactive data visualization tool for evaluating and analyzing LLM responses side-by-side, developed by the PAIR team.
+*   [PAIR-code/llm-comparator (⭐363)](https://github.com/PAIR-code/llm-comparator): LLM Comparator is an interactive data visualization tool for evaluating and analyzing LLM responses side-by-side, developed by the PAIR team.
 
 ## [2. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### AI / Diagnostics
 
-*   [k2589/LLuMinate.nvim (⭐2)](https://github.com/k2589/lluminate.nvim) - Enrich context for LLM with LSP hover added to clipboard.
+*   [k2589/LLuMinate.nvim (⭐15)](https://github.com/k2589/lluminate.nvim) - Enrich context for LLM with LSP hover added to clipboard.
 
 ## [3. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/README.md)
 
 ### External Services
 
-*   [nintendo-switch-box (⭐2)](https://github.com/Swilder-M/nintendo-switch-box) - Update a pinned gist to contain your Nintendo Switch playtime leaderboard.
+*   [nintendo-switch-box (⭐3)](https://github.com/Swilder-M/nintendo-switch-box) - Update a pinned gist to contain your Nintendo Switch playtime leaderboard.
 
 ## [4. Topics](/content/selvaklnc/topics/README.md)
 
@@ -46,17 +46,17 @@
 
 ### GUI
 
-*   [wxCharts (⭐126)](https://github.com/wxIshiko/wxCharts) - A library to create charts in wxWidgets applications. \[MIT] [website](https://www.wxishiko.com/wxCharts/)
+*   [wxCharts (⭐133)](https://github.com/wxIshiko/wxCharts) - A library to create charts in wxWidgets applications. \[MIT] [website](https://www.wxishiko.com/wxCharts/)
 
 ## [6. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Machine Learning
 
-*   [langchain.rb (⭐1.3k)](https://github.com/patterns-ai-core/langchainrb) - Library for building LLM-powered applications in Ruby.
+*   [langchain.rb (⭐1.5k)](https://github.com/patterns-ai-core/langchainrb) - Library for building LLM-powered applications in Ruby.
 
 ### Pagination
 
-*   [activerecord\_cursor\_paginate (⭐127)](https://github.com/healthie/activerecord_cursor_paginate) - Cursor-based pagination for ActiveRecord.
+*   [activerecord\_cursor\_paginate (⭐135)](https://github.com/healthie/activerecord_cursor_paginate) - Cursor-based pagination for ActiveRecord.
 
 ## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -68,15 +68,16 @@
 
 ### UI / Libraries
 
-*   [Forui (⭐359)](https://github.com/forus-labs/forui) <!--stargazers:forus-labs/forui--> - Minimalistic UI library heavily inspired by shadcn/ui by [Forus Labs](https://github.com/forus-labs).
-*   [Shadcn (⭐898)](https://github.com/nank1ro/flutter-shadcn-ui) <!--stargazers:nank1ro/flutter-shadcn-ui--> - Shadcn-ui port. Fully customizable UI components.
+*   [Forui (⭐566)](https://github.com/forus-labs/forui) <!--stargazers:forus-labs/forui--> - Minimalistic UI library heavily inspired by shadcn/ui by [Forus Labs](https://github.com/forus-labs).
+*   [Shadcn (⭐1.2k)](https://github.com/nank1ro/flutter-shadcn-ui) <!--stargazers:nank1ro/flutter-shadcn-ui--> - Shadcn-ui port. Fully customizable UI components.
 
 ## [9. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Projects
 
-*   [konnektoren.help (⭐0)](https://github.com/Konnektoren/konnektoren-web-game) - An interactive web application for learning German grammar, featuring gamified challenges and a map-based interface. [Web App](https://konnektoren.help)
+*   [konnektoren.help](https://github.com/Konnektoren/konnektoren-web-game) - An interactive web application for learning German grammar, featuring gamified challenges and a map-based interface. [Web App](https://konnektoren.help)
 
 ---
 
+- Prev: [Sep 23, 2024](/content/2024/09/23/README.md)
 - Next: [Sep 21, 2024](/content/2024/09/21/README.md)

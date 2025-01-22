@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 01, 2021
 
-17 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -22,7 +22,7 @@
 
 ### CI / Tools & Plugins
 
-*   [JMeter Gradle Plugin (⭐54)](https://github.com/jmeter-gradle-plugin/jmeter-gradle-plugin) - Gradle plugin to execute JMeter tests.
+*   [JMeter Gradle Plugin (⭐52)](https://github.com/jmeter-gradle-plugin/jmeter-gradle-plugin) - Gradle plugin to execute JMeter tests.
 
 ## [4. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
@@ -44,7 +44,7 @@
 
 ### Plugins
 
-*   💼 [Scrollbar Hide (⭐224)](https://github.com/reslear/tailwind-scrollbar-hide) - Adds `scrollbar-hide` class for visual hide scrollbar.
+*   💼 [Scrollbar Hide (⭐256)](https://github.com/reslear/tailwind-scrollbar-hide) - Adds `scrollbar-hide` class for visual hide scrollbar.
 
 ## [7. Awesome Security](/content/sbilly/awesome-security/README.md)
 
@@ -72,7 +72,7 @@
 
 ### Examples / Hardware Offload
 
-*   [ebpf-kill-example (⭐21)](https://github.com/niclashedam/ebpf-kill-example) - A fully documented and tested example of an eBPF probe that logs all force-kills and prints them out in user-space.
+*   [ebpf-kill-example (⭐22)](https://github.com/niclashedam/ebpf-kill-example) - A fully documented and tested example of an eBPF probe that logs all force-kills and prints them out in user-space.
 
 ## [11. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/README.md)
 
@@ -116,12 +116,6 @@
 ### Build Tools to set up performance budget
 
 *   [Lighthouse](https://web.dev/use-lighthouse-for-performance-budgets/) - How to set up a performance budget using [lighthouse](https://developers.google.com/web/tools/lighthouse) and automate using [Lighthouse bot](https://web.dev/using-lighthouse-bot-to-set-a-performance-budget/).
-
-## [17. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
-
-### Job boards aggregators
-
-*   [Career Vault](https://www.careervault.io) - Hundreds of remote jobs added each day from thousands of company career pages. Free and no signup required.
 
 ---
 

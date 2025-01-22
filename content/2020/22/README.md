@@ -10,15 +10,15 @@
 
 ### Projects / Libraries
 
-*   [Coq record update (⭐42)](https://github.com/tchajed/coq-record-update) - Library which provides a generic way to update Coq record fields.
+*   [Coq record update (⭐43)](https://github.com/tchajed/coq-record-update) - Library which provides a generic way to update Coq record fields.
 
 ### Projects / Plugins
 
-*   [Hierarchy Builder (⭐95)](https://github.com/math-comp/hierarchy-builder) - Collection of commands for declaring Coq hierarchies based on packed classes.
+*   [Hierarchy Builder (⭐97)](https://github.com/math-comp/hierarchy-builder) - Collection of commands for declaring Coq hierarchies based on packed classes.
 
 ### Projects / Type Theory and Mathematics
 
-*   [Graph Theory (⭐32)](https://github.com/coq-community/graph-theory) - Formalized graph theory results.
+*   [Graph Theory (⭐34)](https://github.com/coq-community/graph-theory) - Formalized graph theory results.
 
 ### Resources / Community
 
@@ -29,17 +29,17 @@
 ### Other Articles & Tutorials
 
 *   [Killing gnats with Flutter and Flame](https://medium.com/flutter-community/killing-gnats-with-flutter-and-flame-77fa9224ccaa) - Build your first game with ads and i18n. By [Bo Hellgren](https://medium.com/@bo.hellgren)
-*   [Flutter Web and Flame (⭐135)](https://github.com/AseemWangoo/experiments_with_web) - Hands on with Flame for web. By [Aseem Wangoo](https://flatteredwithflutter.com/how-to-create-game-in-flutter-web-using-flame/)
+*   [Flutter Web and Flame (⭐136)](https://github.com/AseemWangoo/experiments_with_web) - Hands on with Flame for web. By [Aseem Wangoo](https://flatteredwithflutter.com/how-to-create-game-in-flutter-web-using-flame/)
 
 ### Open Source / Casual
 
-*   [Snaake! (⭐75)](https://github.com/lucasnlm/snaake-flutter) - A simple casual snake game. By [lucasnlm](https://github.com/lucasnlm)
+*   [Snaake! (⭐76)](https://github.com/lucasnlm/snaake-flutter) - A simple casual snake game. By [lucasnlm](https://github.com/lucasnlm)
 
 ## [3. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### VSCode Extensions / Apache License
 
-*   [adacore-ada](https://marketplace.visualstudio.com/items?itemName=AdaCore.ada) - Language Support for Ada. It includes [Language Server for Ada (⭐229)](https://github.com/AdaCore/ada_language_server).
+*   [adacore-ada](https://marketplace.visualstudio.com/items?itemName=AdaCore.ada) - Language Support for Ada. It includes [Language Server for Ada (⭐245)](https://github.com/AdaCore/ada_language_server).
 
 ## [4. Awesome Ci](/content/ligurio/awesome-ci/week/README.md)
 
@@ -73,11 +73,11 @@
 
 ### Networking
 
-*   [Real-Time Communications (⭐342)](https://github.com/rtckit/awesome-rtc#readme) - Network protocols for near simultaneous exchange of media and data.
+*   [Real-Time Communications (⭐367)](https://github.com/rtckit/awesome-rtc#readme) - Network protocols for near simultaneous exchange of media and data.
 
 ### Testing
 
-*   [Playwright (⭐829)](https://github.com/mxschmitt/awesome-playwright#readme) - Node.js library to automate Chromium, Firefox and WebKit with a single API.
+*   [Playwright (⭐951)](https://github.com/mxschmitt/awesome-playwright#readme) - Node.js library to automate Chromium, Firefox and WebKit with a single API.
 
 ## [7. Awesome Ponyfills](/content/Richienb/awesome-ponyfills/week/README.md)
 
@@ -91,7 +91,7 @@
 
 ### Schema / Changes
 
-*   [yuniql (⭐414)](https://github.com/rdagumampan/yuniql) - Yet another schema versioning and migration tool just made with native .NET Core 3.0+ and hopefully better.
+*   [yuniql (⭐417)](https://github.com/rdagumampan/yuniql) - Yet another schema versioning and migration tool just made with native .NET Core 3.0+ and hopefully better.
 
 ## [9. Awesome Opensource Documents](/content/44bits/awesome-opensource-documents/week/README.md)
 
@@ -213,12 +213,6 @@ Language: English
 
 ## [14. Awesome Prisma](/content/catalinmiron/awesome-prisma/week/README.md)
 
-### :space_invader: Projects Using Prisma / Tutorials with [NestJS](https://nestjs.com/)
-
-*   [Tottem (⭐973)](https://github.com/poulainv/tottem)
-*   [Tomorrow](https://www.tomorrowapp.io/)
-*   [Predict Covid](https://predictcovid.com/)
-
 ### :books: Docs
 
 *   [Prisma Docs](https://www.prisma.io/docs/)
@@ -268,6 +262,11 @@ Language: English
 *   [Slack](https://slack.prisma.io/)
 *   [Twitter](https://twitter.com/prisma)
 
+### :space_invader: Projects Using Prisma / Tutorials with [NestJS](https://nestjs.com/)
+
+*   [Tomorrow](https://www.tomorrowapp.io/)
+*   [Predict Covid](https://predictcovid.com/)
+
 ## [15. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Asset Management
@@ -311,13 +310,13 @@ Language: English
 
 ### Board support crates / 1BitSquared
 
-*   [`onebitsy`](https://crates.io/crates/onebitsy) - Board support crate for the [1bitsy](https://1bitsy.org/) STM32F4-based board - ![crates.io](https://img.shields.io/crates/v/onebitsy.svg)
+*   [`onebitsy`](https://crates.io/crates/onebitsy) - Board support crate for the [1bitsy](https://1bitsy.org/) STM32F4-based board - [![crates.io](https://img.shields.io/crates/v/onebitsy.svg)](https://crates.io/crates/onebitsy)
 
 ## [22. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
 
 ### Tools / Dynamic Analysis Tools
 
-*   [Droidbox (⭐749)](https://github.com/pjlantz/droidbox)
+*   [Droidbox (⭐762)](https://github.com/pjlantz/droidbox)
 
 ## [23. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/week/README.md)
 
@@ -337,22 +336,22 @@ Language: English
 
 ### GTFS Validators / Ruby
 
-*   [GTFSVTOR (⭐27)](https://github.com/mecatran/gtfsvtor) - An open-source GTFS validator implemented in Java licensed under GPLv3 maintained by [Mecatran](https://www.mecatran.com/).
+*   [GTFSVTOR (⭐28)](https://github.com/mecatran/gtfsvtor) - An open-source GTFS validator implemented in Java licensed under GPLv3 maintained by [Mecatran](https://www.mecatran.com/).
 
 ## [25. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### UI
 
-*   [Animated Selection Slide (⭐369)](https://github.com/sbilketay/animated_selection_slide) An animated selection widget by swiping by [Sezgin Bilgetay](https://github.com/sbilketay).
-*   [Flutter Tags (⭐505)](https://github.com/Dn-a/flutter_tags) <!--stargazers:Dn-a/flutter_tags--> - Tags with different customizations by [Di Natale Antonino](https://github.com/Dn-a).
+*   [Animated Selection Slide (⭐372)](https://github.com/sbilketay/animated_selection_slide) An animated selection widget by swiping by [Sezgin Bilgetay](https://github.com/sbilketay).
+*   [Flutter Tags (⭐509)](https://github.com/Dn-a/flutter_tags) <!--stargazers:Dn-a/flutter_tags--> - Tags with different customizations by [Di Natale Antonino](https://github.com/Dn-a).
 
 ### Text & Rich Content / Image Picker
 
-*   [TeX (⭐266)](https://github.com/shah-xad/flutter_tex) <!--stargazers:shah-xad/flutter_tex--> - Render Mathematics Equations with full HTML and JavaScript support by [Shahzad Akram](https://github.com/shah-xad)
+*   [TeX (⭐281)](https://github.com/shah-xad/flutter_tex) <!--stargazers:shah-xad/flutter_tex--> - Render Mathematics Equations with full HTML and JavaScript support by [Shahzad Akram](https://github.com/shah-xad)
 
 ### Top / Game Engine resources
 
-*   [GitJournal (⭐3.4k)](https://github.com/GitJournal/GitJournal) <!--stargazers:GitJournal/GitJournal--> - Journaling your data in a Git Repo by [Vishesh Handa](https://github.com/vHanda)
+*   [GitJournal (⭐3.5k)](https://github.com/GitJournal/GitJournal) <!--stargazers:GitJournal/GitJournal--> - Journaling your data in a Git Repo by [Vishesh Handa](https://github.com/vHanda)
 
 ## [26. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
 
@@ -363,26 +362,26 @@ Language: English
 
 ### Configs / Other Prominent Configs (100 stars or so)
 
-*   [Canonical (⭐576)](https://github.com/gajus/eslint-config-canonical) - Shareable config for [Canonical style guide (⭐18)](https://github.com/gajus/canonical).
+*   [Canonical (⭐594)](https://github.com/gajus/eslint-config-canonical) - Shareable config for [Canonical style guide (⭐18)](https://github.com/gajus/canonical).
 *   [Standard (⭐2.6k)](https://github.com/feross/eslint-config-standard) - Shareable config for JavaScript [Standard Style (⭐29k)](https://github.com/feross/standard).
-*   [XO (⭐266)](https://github.com/xojs/eslint-config-xo) - Shareable config for [XO (⭐7.6k)](https://github.com/xojs/xo).
+*   [XO (⭐267)](https://github.com/xojs/eslint-config-xo) - Shareable config for [XO (⭐7.7k)](https://github.com/xojs/xo).
 
 ### Configs / Other Configs
 
 *   [Ash-Nazg (⭐6)](https://github.com/brettz9/eslint-config-ash-nazg) - One config to rule them all!
-*   [Cecilia (⭐6)](https://github.com/SandroMiguel/eslint-config-cecilia) - ESLint configuration for awesome projects.
-*   [ES (⭐28)](https://github.com/thenativeweb/eslint-config-es) - Shareable config for very strict code.
-*   [Hardcore (⭐401)](https://github.com/EvgenyOrekhov/eslint-config-hardcore) - The most strict (but practical) ESLint config out there.
-*   [Problems (⭐67)](https://github.com/RyanZim/eslint-config-problems) - Shareable config that only catches actual problems, and doesn't enforce stylistic preferences.
+*   [Cecilia (⭐7)](https://github.com/SandroMiguel/eslint-config-cecilia) - ESLint configuration for awesome projects.
+*   [ES](https://github.com/thenativeweb/eslint-config-es) - Shareable config for very strict code.
+*   [Hardcore (⭐417)](https://github.com/EvgenyOrekhov/eslint-config-hardcore) - The most strict (but practical) ESLint config out there.
+*   [Problems (⭐68)](https://github.com/RyanZim/eslint-config-problems) - Shareable config that only catches actual problems, and doesn't enforce stylistic preferences.
 *   [Supermind (⭐4)](https://github.com/supermind/eslint-config-supermind) - Shareable config for Supermind style.
 
 ### Plugins / Libraries
 
-*   [jQuery (⭐31)](https://github.com/wikimedia/eslint-plugin-no-jquery) - Linting rules for jQuery, including versioned configs for deprecated features.
+*   [jQuery (⭐32)](https://github.com/wikimedia/eslint-plugin-no-jquery) - Linting rules for jQuery, including versioned configs for deprecated features.
 
 ### Plugins / Testing Tools
 
-*   [AVA (⭐227)](https://github.com/avajs/eslint-plugin-ava) - Linting rules for AVA.
+*   [AVA (⭐230)](https://github.com/avajs/eslint-plugin-ava) - Linting rules for AVA.
 *   [Cucumber (⭐7)](https://github.com/darrinholst/eslint-plugin-cucumber) - Linting rules for Cucumber.
 
 ## [27. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
@@ -396,11 +395,11 @@ Language: English
 
 ### Framework Components
 
-*   [surface (⭐2k)](https://github.com/msaraiva/surface) - A server-side rendering component library for Phoenix.
+*   [surface (⭐2.1k)](https://github.com/msaraiva/surface) - A server-side rendering component library for Phoenix.
 
 ### Queue
 
-*   [broadway (⭐2.4k)](https://github.com/dashbitco/broadway) - Concurrent and multi-stage data ingestion and data processing with Elixir.
+*   [broadway (⭐2.5k)](https://github.com/dashbitco/broadway) - Concurrent and multi-stage data ingestion and data processing with Elixir.
 
 ## [29. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
@@ -422,9 +421,9 @@ Language: English
 
 ### External Services
 
-*   [book-box (⭐17)](https://github.com/amorriscode/book-box) - Update a pinned gist to contain your latest reads from goodreads
+*   [book-box (⭐19)](https://github.com/amorriscode/book-box) - Update a pinned gist to contain your latest reads from goodreads
 *   [covid-box (⭐11)](https://github.com/puf17640/covid-box) - Update a gist to contain global or country specific coronavirus stats.
-*   [shortcut-box (⭐10)](https://github.com/artemnovichkov/shortcut-box) - Update a pinned gist to contain random IDE shortcut
+*   [shortcut-box (⭐11)](https://github.com/artemnovichkov/shortcut-box) - Update a pinned gist to contain random IDE shortcut
 *   [toggl-box (⭐7)](https://github.com/tobimori/toggl-box) - Update a pinned gist to contain your weekly Toggl time tracking stats
 *   [youtube-box (⭐8)](https://github.com/SinaKhalili/youtube-box) - Update a pinned gist to show your latest YouTube videos
 
@@ -436,9 +435,13 @@ Language: English
 
 ### Tools
 
-*   [oidc-bash-client (⭐96)](https://github.com/please-openit/oidc-bash-client)
+*   [oidc-bash-client (⭐110)](https://github.com/please-openit/oidc-bash-client)
 
 ## [33. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+
+### Apps
+
+*   [Tottem (⭐977)](https://github.com/poulainv/tottem) - Bookmark manager on steroid built with NextJs / Auth0 / Apollo Tools / Prisma2
 
 ### Essentials
 
@@ -459,7 +462,7 @@ Language: English
 
 ### Animation, Graphics & Video Playout
 
-*   [Macadam (⭐107)](https://github.com/Streampunk/macadam) - Blackmagic Node.js bindings that support HTML/CSS (via [Electron](https://www.electronjs.org/)) and SVG (via [Sevruga (⭐4)](https://github.com/Streampunk/sevruga)) graphics.
+*   [Macadam (⭐108)](https://github.com/Streampunk/macadam) - Blackmagic Node.js bindings that support HTML/CSS (via [Electron](https://www.electronjs.org/)) and SVG (via [Sevruga (⭐5)](https://github.com/Streampunk/sevruga)) graphics.
 
 ### Radio Production
 
@@ -518,7 +521,7 @@ Language: English
 
 ### Web Programming • Libraries
 
-*   [OGL.js (⭐3.6k)](https://github.com/oframe/ogl) - JavaScript 3D library (WebGL).
+*   [OGL.js (⭐3.8k)](https://github.com/oframe/ogl) - JavaScript 3D library (WebGL).
 
 ### Schools • Workshops / Other
 
@@ -526,7 +529,7 @@ Language: English
 
 ### Blogs • Websites / Other
 
-*   [jsdo.it-archives (⭐11)](https://github.com/cx20/jsdo.it-archives) - Compilation of WebGL experiments including comparisons on WebGL frameworks and physics engine (oimo.js, cannon.js, ammo.js)
+*   [jsdo.it-archives (⭐13)](https://github.com/cx20/jsdo.it-archives) - Compilation of WebGL experiments including comparisons on WebGL frameworks and physics engine (oimo.js, cannon.js, ammo.js)
 *   [WebAudio Weekly](https://www.webaudioweekly.com/) - Newsletter to know everything about the WebAudio API
 
 ## [38. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md)
@@ -560,12 +563,12 @@ Language: English
 ### GitHub Tools and Management / Docker Container Actions
 
 *   [Update Configured GitHub Actions to the Latest Versions (⭐8)](https://github.com/fabasoad/ghacu)
-*   [Remove Old Artifacts (⭐238)](https://github.com/c-hive/gha-remove-artifacts)
-*   [Expose Git Commit Data As Environment Variables (⭐34)](https://github.com/rlespinasse/git-commit-data-action)
+*   [Remove Old Artifacts (⭐319)](https://github.com/c-hive/gha-remove-artifacts)
+*   [Expose Git Commit Data As Environment Variables (⭐38)](https://github.com/rlespinasse/git-commit-data-action)
 
 ### Monitoring / Code Coverage
 
-*   [Check bundlephobia (⭐46)](https://github.com/carlesnunez/check-my-bundlephobia) - Comments new and modified package size according to bundlephobia.io website and rejects PR on threshold surpassed.
+*   [Check bundlephobia (⭐51)](https://github.com/carlesnunez/check-my-bundlephobia) - Comments new and modified package size according to bundlephobia.io website and rejects PR on threshold surpassed.
 
 ## [41. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
@@ -575,13 +578,13 @@ Language: English
 
 ### Reactive Programming
 
-*   [Verge (⭐632)](https://github.com/muukii/Verge) - Verge is a faster and scalable state management library for UIKit and SwiftUI
+*   [Verge (⭐682)](https://github.com/muukii/Verge) - Verge is a faster and scalable state management library for UIKit and SwiftUI
 
 ## [42. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
 
 ### Communications / MQTT
 
-*   [MQBoard (⭐118)](https://github.com/tve/mqboard) - A micro-framework for using MQTT with asyncio on MicroPython boards, primarily on the ESP32.
+*   [MQBoard (⭐121)](https://github.com/tve/mqboard) - A micro-framework for using MQTT with asyncio on MicroPython boards, primarily on the ESP32.
 *   [sonoff-mqtt by davea (⭐59)](https://github.com/davea/sonoff-mqtt) - MicroPython scripts to control Sonoff/ESP8266 using MQTT.
 *   [micropython-thingspeak-mqtt-esp8266 (⭐26)](https://github.com/miketeachman/micropython-thingspeak-mqtt-esp8266) - Publish and Subscribe to ThingSpeak using MQTT with MicroPython running on ESP8266/ESP32 platforms.
 
@@ -591,7 +594,7 @@ Language: English
 
 ### Debugging / SRAM
 
-*   [esp32-backtrace (⭐24)](https://github.com/tve/esp32-backtrace) - ESP32 Exception Stack Backtrace Analyzer.
+*   [esp32-backtrace (⭐26)](https://github.com/tve/esp32-backtrace) - ESP32 Exception Stack Backtrace Analyzer.
 
 ## [43. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
@@ -639,11 +642,11 @@ Language: English
 
 ### Libraries
 
-*   [rubico (⭐262)](https://github.com/a-synchronous/rubico) - 🏞 \[a]synchronous functional syntax
+*   [rubico (⭐276)](https://github.com/a-synchronous/rubico) - 🏞 \[a]synchronous functional syntax
 
 ### Resources / Books
 
-*   [scriptum (⭐380)](https://github.com/kongware/scriptum/blob/master/README.md) - a no-frills functional programming library and a online course based on it
+*   [scriptum (⭐384)](https://github.com/kongware/scriptum/blob/master/README.md) - a no-frills functional programming library and a online course based on it
 
 ## [47. Awesome Nlg](/content/accelerated-text/awesome-nlg/week/README.md)
 
@@ -709,17 +712,17 @@ Language: English
 
 ### Games
 
-*   [DiabloBlazor (⭐94)](https://github.com/n-stefan/diabloblazor) - ![stars](https://img.shields.io/github/stars/n-stefan/diabloblazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/n-stefan/diabloblazor?style=flat-square\&cacheSeconds=86400) Blazor port of DiabloWeb, making it a double WebAssembly app: a WebAssembly (C#) PWA hosting a WebAssembly (C++) game. [Demo](https://n-stefan.github.io/diabloblazor).
+*   [DiabloBlazor (⭐98)](https://github.com/n-stefan/diabloblazor) - ![stars](https://img.shields.io/github/stars/n-stefan/diabloblazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/n-stefan/diabloblazor?style=flat-square\&cacheSeconds=86400) Blazor port of DiabloWeb, making it a double WebAssembly app: a WebAssembly (C#) PWA hosting a WebAssembly (C++) game. [Demo](https://n-stefan.github.io/diabloblazor).
 
 ### Component bundles
 
-*   [DevExpress Blazor UI Components (⭐379)](https://github.com/DevExpress/RazorComponents) - ![stars](https://img.shields.io/github/stars/DevExpress/RazorComponents?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/DevExpress/RazorComponents?style=flat-square\&cacheSeconds=86400) A set of native UI Blazor components (including a Data Grid, Pivot Grid, Scheduler, and Charts) for both Blazor server-side and Blazor client-side platforms.
+*   [DevExpress Blazor UI Components (⭐396)](https://github.com/DevExpress/RazorComponents) - ![stars](https://img.shields.io/github/stars/DevExpress/RazorComponents?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/DevExpress/RazorComponents?style=flat-square\&cacheSeconds=86400) A set of native UI Blazor components (including a Data Grid, Pivot Grid, Scheduler, and Charts) for both Blazor server-side and Blazor client-side platforms.
 
 ## [56. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Web Frameworks
 
-*   [runcobo (⭐49)](https://github.com/runcobo/runcobo) - An api framework with simple, intuitive and consistent DSL, using jbuilder to render json
+*   [runcobo (⭐50)](https://github.com/runcobo/runcobo) - An api framework with simple, intuitive and consistent DSL, using jbuilder to render json
 
 ## [57. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/week/README.md)
 
@@ -821,18 +824,7 @@ Language: English
 *   [Styling and Theming Web Components](https://youtu.be/FM7ROEVPA4k) by [@justinfagnani](https://twitter.com/justinfagnani)
 *   [Web Components at Enterprise Scale](https://youtu.be/iFp-P2UJT_Y) by [@diervo](https://twitter.com/diervo)
 
-## [59. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
-
-### Modules / Automation
-
-*   [autopilot (⭐486)](https://github.com/divy-work/autopilot-deno) - Autopilot - Cross-platform web automation with Deno.
-
-### Modules / Utils
-
-*   [deno\_cron (⭐100)](https://github.com/rbrahul/deno_cron) - A cron Job scheduler that allows you to write human readable cron syntax with tons of flexibility
-*   [rubico (⭐271)](https://github.com/richytong/rubico) - 🏞 \[a]synchronous function composition; it just works.
-
-## [60. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [59. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Blog Posts
 
@@ -841,22 +833,26 @@ Language: English
 ### Projects Using Vue.js / Apps/Websites
 
 *   [Portfolio Site](https://olaolu.dev/) - Olaolu Olawuyi, A Frontend developer and UX Engineer's portfolio site.
-*   [Portfolio Site](https://david-aji.com/) - David Aji aka Ajiva is a Front End Developer with experience using frameworks like Vue and React to build "class" web apps.
 
 ### Components & Libraries / UI Components
 
 *   [vue-file-toolbar-menu (⭐150)](https://github.com/motla/vue-file-toolbar-menu) - UI file/toolbar menus for Vue apps
-*   [vue-text-middle-ellipsis (⭐9)](https://github.com/Tardigrada777/vue-text-middle-ellipsis) - A simple vue-directive(2+) that clamps the content in the middle of the element if the content inside is too long.
-*   [vuesence-book (⭐52)](https://github.com/altrusl/vuesence-book) - Documentation/help system component.
-*   [vue-toggles (⭐47)](https://github.com/juliandreas/vue-toggles) - A highly customizable and accessible toggle component
-
-### Components & Libraries / Utilities
-
-*   [vue-condition-watcher (⭐50)](https://github.com/runkids/vue-condition-watcher) - 🕶 Vue Composition API for automatic fetch data when condition has been changed.
+*   [vue-toggles (⭐48)](https://github.com/juliandreas/vue-toggles) - A highly customizable and accessible toggle component
 
 ### Components & Libraries / Integrations
 
-*   [vue-postgrest (⭐77)](https://github.com/technowledgy/vue-postgrest) - Vue.js integration for postgREST: flexible, powerful and easy to use.
+*   [vue-postgrest (⭐80)](https://github.com/technowledgy/vue-postgrest) - Vue.js integration for postgREST: flexible, powerful and easy to use.
+
+## [60. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+
+### Modules / Automation
+
+*   [autopilot (⭐491)](https://github.com/divy-work/autopilot-deno) - Autopilot - Cross-platform web automation with Deno.
+
+### Modules / Utils
+
+*   [deno\_cron (⭐100)](https://github.com/rbrahul/deno_cron) - A cron Job scheduler that allows you to write human readable cron syntax with tons of flexibility
+*   [rubico (⭐274)](https://github.com/richytong/rubico) - 🏞 \[a]synchronous function composition; it just works.
 
 ---
 

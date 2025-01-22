@@ -51,7 +51,7 @@
 
 ### Apps / Third-party APIs
 
-*   [wiki-lang-detect (⭐30)](https://github.com/vseloved/wiki-lang-detect) -
+*   [wiki-lang-detect (⭐31)](https://github.com/vseloved/wiki-lang-detect) -
     Text language identification using Wikipedia data. No license specified.
 
 ## [7. Awesome Amazon Alexa](/content/miguelmota/awesome-amazon-alexa/README.md)
@@ -152,7 +152,7 @@
 
 ### Resources / Tutorials
 
-*   [Kubernetes examples (⭐6.1k)](https://github.com/kubernetes/examples/tree/master/staging/nodesjs-mongodb) - Deployment tutorial of a basic Node.js and MongoDB web stack on Kubernetes
+*   [Kubernetes examples (⭐6.3k)](https://github.com/kubernetes/examples/tree/master/staging/nodesjs-mongodb) - Deployment tutorial of a basic Node.js and MongoDB web stack on Kubernetes
 
 ## [9. Awesome Android](/content/JStumpp/awesome-android/README.md)
 

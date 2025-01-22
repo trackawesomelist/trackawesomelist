@@ -21,8 +21,8 @@
 
 ### Other Awesome Lists
 
-*   [awesome-ios (⭐46k)](https://github.com/vsouza/awesome-ios)
-*   [awesome-swift (⭐24k)](https://github.com/matteocrippa/awesome-swift)
+*   [awesome-ios (⭐47k)](https://github.com/vsouza/awesome-ios)
+*   [awesome-swift (⭐25k)](https://github.com/matteocrippa/awesome-swift)
 
 ## [3. Js Must Watch](/content/bolshchikov/js-must-watch/README.md)
 
@@ -58,7 +58,7 @@
 
 ### Scripting Tools
 
-*   [picocli (⭐4.3k)](https://github.com/remkop/picocli) - Parser library and framework for CLI. Usage help with ANSI colors. Autocomplete. Nested subcommands and more.
+*   [picocli (⭐4.9k)](https://github.com/remkop/picocli) - Parser library and framework for CLI. Usage help with ANSI colors. Autocomplete. Nested subcommands and more.
 
 ### Staying up to date
 
@@ -68,7 +68,7 @@
 
 ### UITableView / Barcode
 
-*   [WLEmptyState (⭐317)](https://github.com/wizeline/WLEmptyState) - A component that lets you customize the view when the dataset of UITableView is empty.
+*   [WLEmptyState (⭐318)](https://github.com/wizeline/WLEmptyState) - A component that lets you customize the view when the dataset of UITableView is empty.
 
 ---
 

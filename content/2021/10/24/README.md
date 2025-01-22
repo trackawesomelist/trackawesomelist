@@ -39,7 +39,7 @@
 
 ### Libraries / Audio and Music
 
-*   [pdeljanov/Symphonia (⭐2.2k)](https://github.com/pdeljanov/Symphonia) - Audio decoding and media demuxing library supporting AAC, FLAC, MP3, MP4, OGG, Vorbis, and WAV.
+*   [pdeljanov/Symphonia (⭐2.5k)](https://github.com/pdeljanov/Symphonia) - Audio decoding and media demuxing library supporting AAC, FLAC, MP3, MP4, OGG, Vorbis, and WAV.
 
 ## [3. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/README.md)
 
@@ -52,7 +52,7 @@
 ### Libraries/Frameworks / Mocks and Fakes
 
 *   [bluegroundltd/kfactory (⭐58)](https://github.com/bluegroundltd/kfactory) - Fixture factory in Kotlin
-*   [moove-it/fakeit (⭐535)](https://github.com/moove-it/fakeit) - Generates realistic fake data — like names, emails, dates, countries — to be used in your Android development environment.
+*   [moove-it/fakeit (⭐537)](https://github.com/moove-it/fakeit) - Generates realistic fake data — like names, emails, dates, countries — to be used in your Android development environment.
 
 ### Libraries/Frameworks / Misc
 
@@ -60,7 +60,7 @@
 
 ### Android / Tests
 
-*   [KakaoCup/Compose (⭐136)](https://github.com/KakaoCup/Compose) - Nice and simple DSL for Espresso Compose UI testing in Kotlin
+*   [KakaoCup/Compose (⭐148)](https://github.com/KakaoCup/Compose) - Nice and simple DSL for Espresso Compose UI testing in Kotlin
 
 ## [5. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
 
@@ -72,23 +72,23 @@
 
 ### Mathematics
 
-*   [WPF-Math (⭐634)](https://github.com/ForNeVeR/wpf-math) - a .NET library for rendering mathematical formulae using the LaTeX typesetting style, for the WPF framework
+*   [WPF-Math (⭐649)](https://github.com/ForNeVeR/wpf-math) - a .NET library for rendering mathematical formulae using the LaTeX typesetting style, for the WPF framework
 
 ### Office
 
-*   [Toxy (⭐354)](https://github.com/nissl-lab/toxy) - .NET text extraction framework supports a few file formats
+*   [Toxy (⭐363)](https://github.com/nissl-lab/toxy) - .NET text extraction framework supports a few file formats
 
 ### ORM
 
-*   [SqlSugar (⭐5.2k)](https://github.com/donet5/SqlSugar) - Another ORM library supports many RDBMS including MySql, SqlServer, Sqlite, Oracle, Postgresql
+*   [SqlSugar (⭐5.5k)](https://github.com/donet5/SqlSugar) - Another ORM library supports many RDBMS including MySql, SqlServer, Sqlite, Oracle, Postgresql
 
 ## [7. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
-### Bloggers / Book Deals (Affiliated) 🛍
+### Bloggers / Book Deals (Affiliated)
 
 *   [Maria Khalusova](https://www.mariakhalusova.com/) - Data science blog
 
-### Datasets / Book Deals (Affiliated) 🛍
+### Datasets / Book Deals (Affiliated)
 
 *   [MapLight](https://www.maplight.org/data-series) - provides a variety of data free of charge for uses that are freely available to the general public. Click on a data set below to learn more
 
@@ -96,7 +96,7 @@
 
 ### Utility / Barcode
 
-*   [Rugby (⭐670)](https://github.com/swiftyfinch/Rugby) - 🏈 Cache CocoaPods for faster rebuild and indexing Xcode project.
+*   [Rugby (⭐687)](https://github.com/swiftyfinch/Rugby) - 🏈 Cache CocoaPods for faster rebuild and indexing Xcode project.
 
 ## [9. Public Apis](/content/public-apis/public-apis/README.md)
 

@@ -10,14 +10,14 @@
 
 ### API Builder and Discovery
 
-*   [Blanket (⭐464)](https://github.com/inf0rmer/blanket) - A dead simple API wrapper.
+*   [Blanket (⭐462)](https://github.com/inf0rmer/blanket) - A dead simple API wrapper.
 
 ## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Inter-process communication
 
-*   [libjson-rpc-cpp (⭐952)](https://github.com/cinemast/libjson-rpc-cpp) - JSON-RPC framework for C++ servers and clients. \[MIT]
-*   [nanomsg (⭐5.9k)](https://github.com/nanomsg/nanomsg) - A simple high-performance implementation of several "scalability protocols". \[MIT] [website](http://nanomsg.org/)
+*   [libjson-rpc-cpp (⭐956)](https://github.com/cinemast/libjson-rpc-cpp) - JSON-RPC framework for C++ servers and clients. \[MIT]
+*   [nanomsg (⭐6k)](https://github.com/nanomsg/nanomsg) - A simple high-performance implementation of several "scalability protocols". \[MIT] [website](http://nanomsg.org/)
 *   [xmlrpc-c](http://xmlrpc-c.sourceforge.net/) - A lightweight RPC library based on XML and HTTP. \[BSD]
 
 ---

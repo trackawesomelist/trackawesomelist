@@ -26,7 +26,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐74)](https://github.com/laboratoriobridge/bold)
+  Source code \*: [:octocat: (⭐76)](https://github.com/laboratoriobridge/bold)
 
 
 - : [Bolt Design System](https://boltdesignsystem.com/)
@@ -37,7 +37,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐291)](https://github.com/boltdesignsystem/bolt)
+  Source code \*: [:octocat: (⭐292)](https://github.com/boltdesignsystem/bolt)
 
 
 - : [Brighte Spark Design System](https://spark.brighte.com.au/)
@@ -81,7 +81,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐175)](https://github.com/eBay/skin)
+  Source code \*: [:octocat: (⭐180)](https://github.com/eBay/skin)
 
 
 - : [Elastic UI Framework](https://elastic.github.io/eui/)
@@ -92,7 +92,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐6k)](https://github.com/elastic/eui)
+  Source code \*: [:octocat: (⭐6.1k)](https://github.com/elastic/eui)
 
 
 - : [Enigma Boundless](https://boundless.js.org/)
@@ -103,7 +103,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐237)](https://github.com/enigma-io/boundless)
+  Source code \*: [:octocat: (⭐236)](https://github.com/enigma-io/boundless)
 
 
 - : [Fluent UI](https://developer.microsoft.com/en-us/fluentui#/)
@@ -114,7 +114,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐18k)](https://github.com/microsoft/fluentui)
+  Source code \*: [:octocat: (⭐19k)](https://github.com/microsoft/fluentui)
 
 
 - : [Foundation](https://get.foundation/)
@@ -164,7 +164,7 @@
 
 ## [3. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
-### Domain and IP Research / Telegram
+### Domain and IP Research / Steam
 
 *   [Azure Tenant Resolution by PingCastle](https://tenantresolution.pingcastle.com) - Search for Azure Tenant using its domain name or its ID
 
@@ -184,13 +184,13 @@
 
 ### Images / Barcode
 
-*   [Harbeth (⭐473)](https://github.com/yangKJ/Harbeth) - Metal API for GPU accelerated Graphics and Video and Camera filter framework.
+*   [Harbeth (⭐512)](https://github.com/yangKJ/Harbeth) - Metal API for GPU accelerated Graphics and Video and Camera filter framework.
 
 ## [6. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
-### Templates / Elm
+### Tauri / Elm
 
-*   [elm\_vite\_tailwind\_template (⭐36)](https://github.com/gacallea/elm_vite_tailwind_template) - Opinionated template for building Elm web apps using Tailwind CSS and Daisy UI.
+*   [elm\_vite\_tailwind\_template (⭐41)](https://github.com/gacallea/elm_vite_tailwind_template) - Opinionated template for building Elm web apps using Tailwind CSS and Daisy UI.
 
 ### Frameworks / Community
 
@@ -206,7 +206,7 @@
 
 ### Development Projects / Apps
 
-*   [Who's That Pokémon? (⭐0)](https://github.com/serena2341/whos-that-pokemon) - Guess Pokémon from their silhouette.
+*   [Who's That Pokémon? (⭐3)](https://github.com/serena2341/whos-that-pokemon) - Guess Pokémon from their silhouette.
 
 ## [9. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
@@ -216,7 +216,7 @@
 
 ### API / Samples
 
-*   [Remult (⭐2.7k)](https://github.com/remult/remult) - End-to-end type-safe CRUD via REST API for your database, with fine-grained access control.
+*   [Remult (⭐2.9k)](https://github.com/remult/remult) - End-to-end type-safe CRUD via REST API for your database, with fine-grained access control.
 
 ## [10. Awesome Home Assistant](/content/frenck/awesome-home-assistant/README.md)
 
@@ -245,16 +245,16 @@
 
 ### no-std crates / WIP
 
-*   [drogue-device (⭐185)](https://github.com/drogue-iot/drogue-device): A distribution of tools and examples for building embedded applications in Rust.
-*   [ector (⭐42)](https://github.com/drogue-iot/ector): An async actor framework for embedded, based on embassy.
-*   [embedded-update (⭐20)](https://github.com/drogue-iot/embedded-update): Pluggable firmware update protocol for embedded devices.
-*   [embedded-tls (⭐170)](https://github.com/drogue-iot/embedded-tls): A TLS 1.3 implementation that runs in a no-std environment.
+*   [drogue-device (⭐191)](https://github.com/drogue-iot/drogue-device): A distribution of tools and examples for building embedded applications in Rust.
+*   [ector (⭐51)](https://github.com/drogue-iot/ector): An async actor framework for embedded, based on embassy.
+*   [embedded-update (⭐22)](https://github.com/drogue-iot/embedded-update): Pluggable firmware update protocol for embedded devices.
+*   [embedded-tls (⭐177)](https://github.com/drogue-iot/embedded-tls): A TLS 1.3 implementation that runs in a no-std environment.
 
 ## [13. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Utilities
 
-*   [EaseProbe (⭐2.1k)](https://github.com/megaease/easeprobe) - A simple, standalone, and lightWeight tool that can do health/status checking daemon, support HTTP/TCP/SSH/Shell/Client/... probes, and Slack/Discord/Telegram/SMS... notification.
+*   [EaseProbe (⭐2.2k)](https://github.com/megaease/easeprobe) - A simple, standalone, and lightWeight tool that can do health/status checking daemon, support HTTP/TCP/SSH/Shell/Client/... probes, and Slack/Discord/Telegram/SMS... notification.
 
 ## [14. Awesome Esp](/content/agucova/awesome-esp/README.md)
 
@@ -266,8 +266,8 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [git-sync (⭐44)](https://github.com/caarlos0-graveyard/zsh-git-sync) - A ZSH plugin to sync `git` repositories and clean them up.
-*   [smartcache (⭐30)](https://github.com/QuarticCat/zsh-smartcache) - Caches command output to speed up shell startup time.
+*   [git-sync (⭐46)](https://github.com/caarlos0-graveyard/zsh-git-sync) - A ZSH plugin to sync `git` repositories and clean them up.
+*   [smartcache (⭐34)](https://github.com/QuarticCat/zsh-smartcache) - Caches command output to speed up shell startup time.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 

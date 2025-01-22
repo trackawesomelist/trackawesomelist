@@ -55,7 +55,7 @@
 
 ### Storage / Scala
 
-*   [AtlasDB (⭐47)](https://github.com/palantir/atlasdb) - Transactional layer on top of a key value store.
+*   [AtlasDB (⭐57)](https://github.com/palantir/atlasdb) - Transactional layer on top of a key value store.
 
 ## [8. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 

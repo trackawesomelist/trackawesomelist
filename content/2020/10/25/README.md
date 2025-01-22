@@ -88,7 +88,7 @@
 
 ### Security
 
-- API: [Intelligence X (⭐395)](https://github.com/IntelligenceX/SDK/blob/master/Intelligence%20X%20API.pdf)
+- API: [Intelligence X (⭐413)](https://github.com/IntelligenceX/SDK/blob/master/Intelligence%20X%20API.pdf)
 
   Description: Perform OSINT via Intelligence X
 
@@ -144,7 +144,7 @@
 
 ### UI Libraries, Components & Templates
 
-*   🧩📁 [Jakarta LTE (⭐152)](https://github.com/zeroblack-c/jakarta-lte) - Admin template using Tailwind CSS.
+*   🧩📁 [Jakarta LTE (⭐155)](https://github.com/zeroblack-c/jakarta-lte) - Admin template using Tailwind CSS.
 
 ## [9. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
@@ -168,7 +168,7 @@
 *   [OpenIntro](https://www.openintro.org/)
 *   [Process Mining: Data science in Action](https://www.coursera.org/learn/process-mining)
 *   [Oxford Deep Learning - video](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu)
-*   [Data Science Specialization (⭐4k)](https://github.com/DataScienceSpecialization/courses)
+*   [Data Science Specialization (⭐4.1k)](https://github.com/DataScienceSpecialization/courses)
 *   [Coursera Big Data Specialization](https://www.coursera.org/specializations/big-data)
 *   [Statistical Thinking for Data Science and Analytics by Edx](https://www.edx.org/course/statistical-thinking-for-data-science-and-analytic)
 *   [Cognitive Class AI by IBM](https://cognitiveclass.ai/)
@@ -199,23 +199,19 @@
 
 *   [Classic Computer Science Problems in Python](https://www.manning.com/books/classic-computer-science-problems-in-python)
 *   [Evolutionary Algorithms](https://www.intechopen.com/books/evolutionary-algorithms) - Free Download
-*   [Advances in Genetic Programming, Vol. 3](https://www.cs.bham.ac.uk/~wbl/aigp3/) - Free Download
 
-### Bloggers / Book Deals (Affiliated) 🛍
+### Bloggers / Book Deals (Affiliated)
 
-*   [Data Science London](https://datasciencelondon.org/) Data Science London is a non-profit organization dedicated to the free, open, dissemination of data science.
-    We are the largest data science community in Europe.
-    We are more than 3,190 data scientists and data geeks in our community.
 *   [Analytics Vidhya](https://www.analyticsvidhya.com/) - A full-fledged website about data science and analytics study material.
 *   [Chris Albon's Website](https://chrisalbon.com/) - Data Science and AI notes
 
-### Data Science Competitions / Book Deals (Affiliated) 🛍
+### Data Science Competitions / Book Deals (Affiliated)
 
 *   [Kaggle](https://www.kaggle.com/)
 *   [DrivenData](https://www.drivendata.org/)
 *   [InnoCentive](https://www.innocentive.com/)
 
-### Datasets / Book Deals (Affiliated) 🛍
+### Datasets / Book Deals (Affiliated)
 
 *   [data.gov](https://catalog.data.gov/dataset) - The home of the U.S. Government's open data
 *   [datahub.io](https://datahub.io/)
@@ -229,43 +225,43 @@
 *   [r/datasets](https://www.reddit.com/r/datasets/)
 *   [St. Louis Federal Reserve Economic Data - FRED](https://fred.stlouisfed.org/)
 *   [New Zealand Institute of Economic Research – Data1850](https://data1850.nz/)
-*   [Open Data Sources (⭐504)](https://github.com/datasciencemasters/data)
+*   [Open Data Sources (⭐507)](https://github.com/datasciencemasters/data)
 *   [UNICEF Data](https://data.unicef.org/)
-*   [Public Git Archive (⭐320)](https://github.com/src-d/datasets/tree/master/PublicGitArchive)
+*   [Public Git Archive (⭐324)](https://github.com/src-d/datasets/tree/master/PublicGitArchive)
 *   [Microsoft Research Open Data](https://msropendata.com/)
 *   [Open Government Data Platform India](https://data.gov.in/)
 *   [NAYN.CO Turkish News with categories (⭐3)](https://github.com/naynco/nayn.data)
 *   [Covid-19 (⭐1.2k)](https://github.com/datasets/covid-19)
-*   [Covid-19 Google (⭐115)](https://github.com/google-research/open-covid-19-data)
+*   [Covid-19 Google (⭐117)](https://github.com/google-research/open-covid-19-data)
 *   [Enron Email Dataset](https://www.cs.cmu.edu/~./enron/)
 
-### Other Awesome Lists / Book Deals (Affiliated) 🛍
+### Other Awesome Lists / Book Deals (Affiliated)
 
 *   Other amazingly awesome lists can be found in the [awesome-awesomeness (⭐32k)](https://github.com/bayandin/awesome-awesomeness)
-*   [Awesome Machine Learning (⭐65k)](https://github.com/josephmisiti/awesome-machine-learning)
-*   [lists (⭐9.8k)](https://github.com/jnv/lists)
-*   [awesome-python (⭐215k)](https://github.com/vinta/awesome-python)
-*   [Data Science IPython Notebooks. (⭐27k)](https://github.com/donnemartin/data-science-ipython-notebooks)
-*   [awesome-r (⭐5.9k)](https://github.com/qinwf/awesome-R)
-*   [awesome-Machine Learning & Deep Learning Tutorials (⭐15k)](https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/README.md)
+*   [Awesome Machine Learning (⭐67k)](https://github.com/josephmisiti/awesome-machine-learning)
+*   [lists (⭐10k)](https://github.com/jnv/lists)
+*   [awesome-python (⭐230k)](https://github.com/vinta/awesome-python)
+*   [Data Science IPython Notebooks. (⭐28k)](https://github.com/donnemartin/data-science-ipython-notebooks)
+*   [awesome-r (⭐6.1k)](https://github.com/qinwf/awesome-R)
+*   [awesome-Machine Learning & Deep Learning Tutorials (⭐16k)](https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/README.md)
 *   [Machine Learning for Software Engineers (⭐28k)](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
 *   [Community Curated Data Science Resources](https://hackr.io/tutorials/learn-data-science)
-*   [Awesome Machine Learning On Source Code (⭐6.2k)](https://github.com/src-d/awesome-machine-learning-on-source-code)
+*   [Awesome Machine Learning On Source Code (⭐6.3k)](https://github.com/src-d/awesome-machine-learning-on-source-code)
 *   [Awesome Community Detection (⭐2.3k)](https://github.com/benedekrozemberczki/awesome-community-detection)
-*   [Awesome Graph Classification (⭐4.7k)](https://github.com/benedekrozemberczki/awesome-graph-classification)
+*   [Awesome Graph Classification (⭐4.8k)](https://github.com/benedekrozemberczki/awesome-graph-classification)
 *   [Awesome Decision Tree Papers (⭐2.4k)](https://github.com/benedekrozemberczki/awesome-decision-tree-papers)
 *   [Awesome Fraud Detection Papers (⭐1.6k)](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers)
-*   [Awesome Gradient Boosting Papers (⭐992)](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers)
-*   [Awesome Computer Vision Models (⭐505)](https://github.com/nerox8664/awesome-computer-vision-models)
-*   [Awesome Monte Carlo Tree Search (⭐617)](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers)
+*   [Awesome Gradient Boosting Papers (⭐1k)](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers)
+*   [Awesome Computer Vision Models (⭐519)](https://github.com/nerox8664/awesome-computer-vision-models)
+*   [Awesome Monte Carlo Tree Search (⭐653)](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers)
 *   [Glossary of common statistics and ML terms](https://www.analyticsvidhya.com/glossary-of-common-statistics-and-machine-learning-terms/)
-*   [100 NLP Papers (⭐3.7k)](https://github.com/mhagiwara/100-nlp-papers)
+*   [100 NLP Papers (⭐3.8k)](https://github.com/mhagiwara/100-nlp-papers)
 
 ## [12. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / Computer Vision
 
-*   [lightly (⭐2.9k)](https://github.com/lightly-ai/lightly) - Lightly is a computer vision framework for self-supervised learning.
+*   [lightly (⭐3.2k)](https://github.com/lightly-ai/lightly) - Lightly is a computer vision framework for self-supervised learning.
 
 ## [13. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
@@ -853,20 +849,20 @@
 
 ### Project Starter Templates
 
-*   [spin (⭐297)](https://github.com/tmattio/spin) - Reason and Ocaml project generator
-*   [modern-ocaml (⭐66)](https://github.com/Khady/modern-ocaml) - Template for an ocaml project with modern tooling
+*   [spin (⭐296)](https://github.com/tmattio/spin) - Reason and Ocaml project generator
+*   [modern-ocaml (⭐75)](https://github.com/Khady/modern-ocaml) - Template for an ocaml project with modern tooling
 
 ## [17. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/README.md)
 
 ### Development Projects / APIs
 
-*   [pokemon-API (⭐20)](https://github.com/Purukitto/pokemon-api) - Beginner friendly API endpoint that returns Pokémon Data in JSON format (<https://app.pokemon-api.xyz>).
+*   [pokemon-API (⭐24)](https://github.com/Purukitto/pokemon-api) - Beginner friendly API endpoint that returns Pokémon Data in JSON format (<https://app.pokemon-api.xyz>).
 
 ## [18. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Note-taking & Editors
 
-*   [Oddmuse](https://oddmuse.org/) - A simple wiki engine written in Perl. No database required. ([Source Code (⭐73)](https://github.com/kensanata/oddmuse)) `GPL-3.0` `Perl`
+*   [Oddmuse](https://oddmuse.org/) - A simple wiki engine written in Perl. No database required. ([Source Code (⭐78)](https://github.com/kensanata/oddmuse)) `GPL-3.0` `Perl`
 
 ---
 

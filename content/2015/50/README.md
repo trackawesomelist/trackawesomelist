@@ -72,7 +72,7 @@
 
 ### Colors
 
-*   [SwiftHEXColors (⭐693)](https://github.com/thii/SwiftHEXColors) - HEX color handling as an extension for UIColor.
+*   [SwiftHEXColors (⭐692)](https://github.com/thii/SwiftHEXColors) - HEX color handling as an extension for UIColor.
 
 ### JSON
 
@@ -80,7 +80,7 @@
 
 ### XML
 
-*   [AEXML (⭐993)](https://github.com/tadija/AEXML) - xml wrapper.
+*   [AEXML (⭐1k)](https://github.com/tadija/AEXML) - xml wrapper.
 
 ### Images / Barcode
 
@@ -152,7 +152,7 @@
 
 ### Database Drivers
 
-*   [TinyTDS (⭐606)](https://github.com/rails-sqlserver/tiny_tds) - FreeTDS bindings for Ruby using DB-Library.
+*   [TinyTDS (⭐607)](https://github.com/rails-sqlserver/tiny_tds) - FreeTDS bindings for Ruby using DB-Library.
 
 ## [14. Amas](/content/sindresorhus/amas/week/README.md)
 
@@ -275,8 +275,8 @@
 
 ### ORM
 
-*   [AsyncPoco (⭐128)](https://github.com/tmenier/AsyncPoco) - A long-"awaited" fully asynchronous PetaPoco fork
-*   [NPoco (⭐846)](https://github.com/schotime/NPoco) - Simple microORM that maps the results of a query onto a POCO object. Based on Schotime's branch of PetaPoco
+*   [AsyncPoco (⭐127)](https://github.com/tmenier/AsyncPoco) - A long-"awaited" fully asynchronous PetaPoco fork
+*   [NPoco (⭐851)](https://github.com/schotime/NPoco) - Simple microORM that maps the results of a query onto a POCO object. Based on Schotime's branch of PetaPoco
 
 ## [25. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
@@ -344,7 +344,7 @@
 
 ### Audio and Sounds
 
-*   [synthex (⭐44)](https://github.com/bitgamma/synthex) - A signal synthesis library.
+*   [synthex (⭐45)](https://github.com/bitgamma/synthex) - A signal synthesis library.
 
 ### Authentication
 
@@ -365,11 +365,11 @@
 
 ### Framework Components
 
-*   [exdjango (⭐20)](https://github.com/nicksanders/exdjango) - A few elixir libraries for working with django.
+*   [exdjango (⭐21)](https://github.com/nicksanders/exdjango) - A few elixir libraries for working with django.
 
 ### Geolocation
 
-*   [distance\_api\_matrix (⭐29)](https://github.com/C404/distance-matrix-api) - Provide distance and heading calculations via Google distance matrix api.
+*   [distance\_api\_matrix (⭐30)](https://github.com/C404/distance-matrix-api) - Provide distance and heading calculations via Google distance matrix api.
 
 ### HTTP
 
@@ -389,7 +389,7 @@
 
 ### OTP
 
-*   [erlexec (⭐525)](https://github.com/saleyn/erlexec) - Execute and control OS processes from Erlang/OTP.
+*   [erlexec (⭐552)](https://github.com/saleyn/erlexec) - Execute and control OS processes from Erlang/OTP.
 
 ### Queue
 

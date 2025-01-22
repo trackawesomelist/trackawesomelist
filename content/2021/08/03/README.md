@@ -8,7 +8,7 @@
 
 ## [1. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
-### Bloggers / Book Deals (Affiliated) 🛍
+### Bloggers / Book Deals (Affiliated)
 
 *   [Loic Tetrel](https://ltetrel.github.io/) - Data science blog
 
@@ -16,13 +16,13 @@
 
 ### Frameworks
 
-*   [Seastar (⭐8.2k)](https://github.com/scylladb/seastar) - An advanced, open-source C++ framework for high-performance server applications on modern hardware. \[Apache-2.0 License] [seastar.io](http://seastar.io/)
+*   [Seastar (⭐8.5k)](https://github.com/scylladb/seastar) - An advanced, open-source C++ framework for high-performance server applications on modern hardware. \[Apache-2.0 License] [seastar.io](http://seastar.io/)
 
 ## [3. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications
 
-*   [kalker (⭐1.6k)](https://github.com/PaddiM8/kalker) - A scientific calculator that supports math-like syntax with user-defined variables, functions, derivation, integration, and complex numbers. Cross-platform + WASM support [![Build Status](https://github.com/PaddiM8/kalker/workflows/Release/badge.svg)](https://github.com/PaddiM8/kalker/actions)
+*   [kalker (⭐1.7k)](https://github.com/PaddiM8/kalker) - A scientific calculator that supports math-like syntax with user-defined variables, functions, derivation, integration, and complex numbers. Cross-platform + WASM support [![Build Status](https://github.com/PaddiM8/kalker/workflows/Release/badge.svg)](https://github.com/PaddiM8/kalker/actions)
 
 ### Development tools / Transpiling
 
@@ -30,7 +30,7 @@
 
 ### Libraries / Scripting
 
-*   [fleabitdev/gamelisp (⭐393)](https://github.com/fleabitdev/glsp) - A Lisp-like scripting language for game development
+*   [fleabitdev/gamelisp (⭐397)](https://github.com/fleabitdev/glsp) - A Lisp-like scripting language for game development
 
 ## [4. Awesome Gatling](/content/aliesbelik/awesome-gatling/README.md)
 
@@ -45,7 +45,7 @@
 
 ### Related / Awesome Lists
 
-*   [Awesome k6 (⭐546)](https://github.com/grafana/awesome-k6) - Open-source, developer-centric performance monitoring and load testing solution.
+*   [Awesome k6 (⭐585)](https://github.com/grafana/awesome-k6) - Open-source, developer-centric performance monitoring and load testing solution.
 
 ## [5. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 

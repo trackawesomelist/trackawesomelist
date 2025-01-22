@@ -10,7 +10,7 @@
 
 ### Templates / React
 
-*   [RVTGB (⭐1)](https://github.com/up2dul/rvtgb) - `React` + `TypeScript` starter template, with file-based routing with `Generouted` and `Biome`.
+*   [RVTGB (⭐2)](https://github.com/up2dul/rvtgb) - `React` + `TypeScript` starter template, with file-based routing with `Generouted` and `Biome`.
 
 ## [2. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 

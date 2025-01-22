@@ -10,7 +10,7 @@
 
 ### Projects
 
-*   [Haven (⭐628)](https://github.com/havenweb/haven) - Host a private blog on your Rasperry Pi intead of using Facebook.
+*   [Haven (⭐650)](https://github.com/havenweb/haven) - Host a private blog on your Rasperry Pi intead of using Facebook.
 
 ## [2. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
@@ -20,7 +20,7 @@
 
 ### Misc / Other
 
-*   [SurveyJS (⭐4k)](https://github.com/surveyjs/survey-library) - SurveyJS is a JavaScript Survey and Form Library. <https://surveyjs.io/>
+*   [SurveyJS (⭐4.1k)](https://github.com/surveyjs/survey-library) - SurveyJS is a JavaScript Survey and Form Library. <https://surveyjs.io/>
 
 ## [3. Awesome Cassandra](/content/Anant/awesome-cassandra/README.md)
 
@@ -48,13 +48,13 @@
 
 ### Dependency Injection / Language Processing
 
-*   [Poodinis (⭐67)](https://github.com/mbierlee/poodinis) - A dependency injection framework for D with support for autowiring.
+*   [Poodinis (⭐70)](https://github.com/mbierlee/poodinis) - A dependency injection framework for D with support for autowiring.
 
 ## [7. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Reading and Writing Tools / Note-taking
 
-*   [SideNotes](https://www.apptorium.com/sidenotes) - Quick notes on the screen side. Take notes while working with other apps. Use Markdown for text formatting.
+*   [SideNotes](https://www.apptorium.com/sidenotes) - Quick notes on the screen side with Markdown support.
 
 ### Utilities / File Organization Tools
 

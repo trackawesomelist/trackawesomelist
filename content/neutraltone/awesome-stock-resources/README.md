@@ -27,7 +27,7 @@
 
 ### Icons / Icons Packages and Collections
 
-*   [Bootstrap Icons](https://icons.getbootstrap.com/) - [:copyright: (⭐7.3k)](https://github.com/twbs/icons/blob/main/LICENSE.md) Free, high quality, open source icon library with over 1,800 icons.
+*   [Bootstrap Icons](https://icons.getbootstrap.com/) - [:copyright: (⭐7.5k)](https://github.com/twbs/icons/blob/main/LICENSE.md) Free, high quality, open source icon library with over 1,800 icons.
 *   [Free Icons](https://icons.download/) - [:copyright:](https://icons.download/license) Open-source vector icons in 16 styles for any project.
 *   [Lucide](https://lucide.dev/) - [:copyright:](https://lucide.dev/license) Beautiful & consistent icon toolkit made by the community.
 *   [Unicorn icons](https://unicornicons.com/) - [:copyright:](https://unicornicons.com/license) 100+ playful animated and customizable icons, available in JSON and SVG format.
@@ -62,7 +62,7 @@
 
 ### Icons / Icons Packages and Collections
 
-*   [Fluent UI System Icons (⭐5.7k)](https://github.com/microsoft/fluentui-system-icons) - [:copyright:](https://opensource.org/licenses/MIT) Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
+*   [Fluent UI System Icons (⭐6.2k)](https://github.com/microsoft/fluentui-system-icons) - [:copyright:](https://opensource.org/licenses/MIT) Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
 
 ## [Dec 09, 2021](/content/2021/12/09/README.md)
 
@@ -113,7 +113,7 @@
 ### Icons / Icon Fonts
 
 *   [Ligature Symbols](http://kudakurage.com/ligature_symbols/) - [:copyright:](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi\&id=OFL&_sc=1) Really clean icon set including all major topics.
-*   [Simple Icons](https://simpleicons.org/) -[:copyright: (⭐19k)](https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md) Free SVG icons for popular brands.
+*   [Simple Icons](https://simpleicons.org/) -[:copyright: (⭐22k)](https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md) Free SVG icons for popular brands.
 
 ### Sounds & Music / Icons Packages and Collections
 
@@ -210,7 +210,7 @@
 
 ### Vector Graphics / Unspecified License
 
-*   [Mega Doodles Pack (⭐469)](https://github.com/MariaLetta/mega-doodles-pack) - [:copyright:](https://creativecommons.org/licenses/by-sa/4.0/) Free and big CC Attribution-ShareAlike 4.0 vector pack with hand-drawn doodles for presentations, social media, blog posts and so on.
+*   [Mega Doodles Pack (⭐496)](https://github.com/MariaLetta/mega-doodles-pack) - [:copyright:](https://creativecommons.org/licenses/by-sa/4.0/) Free and big CC Attribution-ShareAlike 4.0 vector pack with hand-drawn doodles for presentations, social media, blog posts and so on.
 
 ## [Aug 03, 2019](/content/2019/08/03/README.md)
 
@@ -337,7 +337,7 @@
 
 ### Icons / Icons Packages and Collections
 
-*   [Simple Icons (⭐19k)](https://github.com/simple-icons/simple-icons) - [:copyright:](http://artlibre.org/licence/lal/en/) SVG icons for popular brands.
+*   [Simple Icons (⭐22k)](https://github.com/simple-icons/simple-icons) - [:copyright:](http://artlibre.org/licence/lal/en/) SVG icons for popular brands.
 
 ## [Jul 06, 2017](/content/2017/07/06/README.md)
 
@@ -507,12 +507,6 @@
 
 *   [Realgraphy](https://realgraphy.org/) - Authentic Non-Stock Photos for Free. Forever.
 
-## [Jul 06, 2016](/content/2016/07/06/README.md)
-
-### Photography / Custom License / Usage
-
-*   [Rawpixel](https://www.rawpixel.com/) - [:copyright:](https://www.rawpixel.com/free-image-license) Redefining stock imagery with authentically styled and unique stock photos (Subscribe required).
-
 ## [Jul 03, 2016](/content/2016/07/03/README.md)
 
 ### Photography / CC0-license
@@ -625,12 +619,6 @@
 
 *   [Jukedeck](https://www.jukedeck.com) - [:copyright:](https://www.jukedeck.com/licensing) Machine learning powered royalty-free original music.
 
-## [Dec 26, 2015](/content/2015/12/26/README.md)
-
-### Colors / Icons Packages and Collections
-
-*   [0xrgb](http://0xrgb.com/) - A minimalistic color picker for well-known palettes (Material, iOS, FlatUI, Metro, Tango, Solarized).
-
 ## [Dec 08, 2015](/content/2015/12/08/README.md)
 
 ### Icons / Icon Fonts
@@ -651,7 +639,7 @@
 
 ### Icons / Icons Packages and Collections
 
-*   [Maps Icon (⭐2.1k)](https://github.com/djaiss/mapsicon) - [:copyright: (⭐2.1k)](https://github.com/djaiss/mapsicon#license) Mapsicon is a free collection of maps for nearly every country in the world, available in 11 different sizes, ranging from 16x16 pixels to 1024x1024 pixels, as well as .svg format.
+*   [Maps Icon (⭐2.2k)](https://github.com/djaiss/mapsicon) - [:copyright: (⭐2.2k)](https://github.com/djaiss/mapsicon#license) Mapsicon is a free collection of maps for nearly every country in the world, available in 11 different sizes, ranging from 16x16 pixels to 1024x1024 pixels, as well as .svg format.
 
 ## [Nov 21, 2015](/content/2015/11/21/README.md)
 
@@ -675,7 +663,6 @@
 
 ### Colors / Icons Packages and Collections
 
-*   [0to255](http://www.0to255.com/) - A simple tool that helps web designers find variations of any color.
 *   [Bootflat](http://bootflat.github.io/color-picker.html) - Bootflat Flat UI color picker is a project digging the Flat Color Picker which gives you the perfect colors for flat designs.
 
 ### How to Share / Icons Packages and Collections

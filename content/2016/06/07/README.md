@@ -22,7 +22,7 @@
 
 ### Natural Language Processing
 
-*   [MonkeyLearn (⭐94)](https://github.com/masalmon/monkeylearn) - 🐒 R package for text analysis with Monkeylearn 🐒.
+*   [MonkeyLearn (⭐93)](https://github.com/masalmon/monkeylearn) - 🐒 R package for text analysis with Monkeylearn 🐒.
 
 ## [4. Awesome Unity](/content/RyanNielson/awesome-unity/README.md)
 
@@ -347,7 +347,7 @@ git bisect reset                    # Finish search
 
 ## [15. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
-### Facebook Accounts / Book Deals (Affiliated) 🛍
+### Facebook Accounts / Book Deals (Affiliated)
 
 *   [The Data Science Blog](https://www.facebook.com/theDataScienceBlog/)
 

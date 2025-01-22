@@ -10,7 +10,7 @@
 
 ### Peripheral Access Crates / Wiznet
 
-*   [`w7500x-pac`](https://crates.io/crates/w7500x-pac) Peripheral Access Crate for Wiznet's W7500x microcontrollers (generated using svd2rust) - ![crates.io](https://img.shields.io/crates/v/w7500x-pac.svg)
+*   [`w7500x-pac`](https://crates.io/crates/w7500x-pac) Peripheral Access Crate for Wiznet's W7500x microcontrollers (generated using svd2rust) - [![crates.io](https://img.shields.io/crates/v/w7500x-pac.svg)](https://crates.io/crates/w7500x-pac)
 
 ## [2. Game Datasets](/content/leomaurodesenv/game-datasets/week/README.md)
 
@@ -22,7 +22,7 @@
 
 ### Component Libraries
 
-*   [Umbraco UI Components (⭐109)](https://github.com/umbraco/Umbraco.UI) - Collection of user interface web components for Umbraco CMS.
+*   [Umbraco UI Components (⭐117)](https://github.com/umbraco/Umbraco.UI) - Collection of user interface web components for Umbraco CMS.
 
 ## [4. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
@@ -119,13 +119,13 @@
 
 ### Examples
 
-*   [aws/aws-parallelcluster (⭐816)](https://github.com/aws/aws-parallelcluster/wiki)
+*   [aws/aws-parallelcluster (⭐849)](https://github.com/aws/aws-parallelcluster/wiki)
 
 ## [7. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
 
 ### Plugins / Practices and Specific ES Features
 
-*   [no-comments (⭐11)](https://github.com/wisniewski94/eslint-plugin-no-comments) - Prevents leaking comments into production if bundler is not used and stops developers from commenting out old lines of code.
+*   [no-comments (⭐13)](https://github.com/wisniewski94/eslint-plugin-no-comments) - Prevents leaking comments into production if bundler is not used and stops developers from commenting out old lines of code.
 
 ## [8. Awesome Design Systems](/content/klaufel/awesome-design-systems/week/README.md)
 
@@ -149,7 +149,7 @@
 
 ### Resources / Misc
 
-*   [Email marketing regulations (⭐409)](https://github.com/threeheartsdigital/email-marketing-regulations) - A guide to email marketing regulations around the world.
+*   [Email marketing regulations (⭐445)](https://github.com/threeheartsdigital/email-marketing-regulations) - A guide to email marketing regulations around the world.
 
 ## [10. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
@@ -187,7 +187,7 @@
 
 ### Exchange API / Plugins
 
-*   [PENDAX (⭐42)](https://github.com/CompendiumFi/PENDAX-SDK) - Javascript SDK for Trading/Data API and Websockets for cryptocurrency exchanges like FTX, FTXUS, OKX, Bybit, & More
+*   [PENDAX (⭐44)](https://github.com/CompendiumFi/PENDAX-SDK) - Javascript SDK for Trading/Data API and Websockets for cryptocurrency exchanges like FTX, FTXUS, OKX, Bybit, & More
 
 ## [14. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
 
@@ -200,17 +200,17 @@
 
 ### Reddit
 
-*   [Libreddit (⭐5k)](https://github.com/libreddit/libreddit) - ~~Private Reddit front-end written in Rust~~ [No longer working - Read here (⭐5k)](https://github.com/libreddit/libreddit/issues/840)
+*   [Libreddit (⭐5.1k)](https://github.com/libreddit/libreddit) - ~~Private Reddit front-end written in Rust~~ [No longer working - Read here (⭐5.1k)](https://github.com/libreddit/libreddit/issues/840)
 
 ## [16. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
 
 ### Databases / ORMs
 
-*   [Fastapi-SQLA (⭐177)](https://github.com/dialoguemd/fastapi-sqla) - SQLAlchemy extension for FastAPI with support for pagination, asyncio, and pytest.
+*   [Fastapi-SQLA (⭐233)](https://github.com/dialoguemd/fastapi-sqla) - SQLAlchemy extension for FastAPI with support for pagination, asyncio, and pytest.
 
 ### Developer Tools / Other Tools
 
-*   [FastAPI MVC (⭐608)](https://github.com/fastapi-mvc/fastapi-mvc) - Developer productivity tool for making high-quality FastAPI production-ready APIs.
+*   [FastAPI MVC (⭐643)](https://github.com/fastapi-mvc/fastapi-mvc) - Developer productivity tool for making high-quality FastAPI production-ready APIs.
 
 ### Articles / Other Tools
 
@@ -236,7 +236,7 @@
 
 ### Development Environment / Other
 
-*   [DockerDL (⭐69)](https://github.com/matifali/dockerdl) - Deep Learning Docker Images. Don't waste time setting up a deep learning env when you can get a deep learning environment with everything pre-installed.
+*   [DockerDL (⭐78)](https://github.com/matifali/dockerdl) - Deep Learning Docker Images. Don't waste time setting up a deep learning env when you can get a deep learning environment with everything pre-installed.
 
 ### Wrappers / Other
 
@@ -254,7 +254,7 @@
 
 ## [19. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
-### Wrappers
+### Other DB wrappers
 
 *   [cl-ndbapi (⭐13)](https://github.com/datagraph/cl-ndbapi) - bindings to the C++ NDB API of [RonDB](https://www.rondb.com/), "the world's fastest key value store", by [Dydra](https://dydra.com/home). GPLv2.
 
@@ -262,11 +262,11 @@
 
 ### Software / Remote Access
 
-*   [RustDesk](https://rustdesk.com/) - Remote Desktop Access software that works out-of-the-box (alternative to TeamViewer). ([Source Code (⭐6.3k)](https://github.com/rustdesk/rustdesk-server)) `AGPL-3.0` `Rust/Docker/deb`
+*   [RustDesk](https://rustdesk.com/) - Remote Desktop Access software that works out-of-the-box (alternative to TeamViewer). ([Source Code (⭐7.1k)](https://github.com/rustdesk/rustdesk-server)) `AGPL-3.0` `Rust/Docker/deb`
 
 ### Software / Status / Uptime pages
 
-*   [Gatus (⭐5.9k)](https://github.com/TwiN/gatus) - Automated service health dashboard. ([Demo](https://status.twin.sh)) `Apache-2.0` `Docker/K8S`
+*   [Gatus (⭐6.9k)](https://github.com/TwiN/gatus) - Automated service health dashboard. ([Demo](https://status.twin.sh)) `Apache-2.0` `Docker/K8S`
 
 ## [21. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
@@ -276,16 +276,16 @@
 
 ### Others
 
-*   [BlazorServerImageRecognitionApp (⭐9)](https://github.com/johnt84/BlazorServerImageRecognitionApp) - ![last commit](https://img.shields.io/github/last-commit/johnt84/BlazorServerImageRecognitionApp) Simple Blazor Server app which uses image recognition to identify and extract text printed in an image file uploaded by the user. [Demo](https://blazorimagerecognitionapp.azurewebsites.net/).
+*   [BlazorServerImageRecognitionApp (⭐12)](https://github.com/johnt84/BlazorServerImageRecognitionApp) - ![last commit](https://img.shields.io/github/last-commit/johnt84/BlazorServerImageRecognitionApp) Simple Blazor Server app which uses image recognition to identify and extract text printed in an image file uploaded by the user. [Demo](https://blazorimagerecognitionapp.azurewebsites.net/).
 *   [FootballBlazorApp (⭐8)](https://github.com/johnt84/FootballBlazorApp) - ![last commit](https://img.shields.io/github/last-commit/johnt84/FootballBlazorApp) Simple Football Blazor Server web app displaying fixtures & results, group standings, teams & players and has a player search.  [Demo](https://premierleagueblazorapp.azurewebsites.net/).
 
 ### Component bundles
 
-*   [Makani (⭐61)](https://github.com/getspacetime/makani) - ![GitHub stars](https://img.shields.io/github/stars/getspacetime/makani?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/getspacetime/makani?style=flat-square) Lightweight, customizable, and performance oriented component library for Blazor and .NET MAUI Hybrid. Built with TailwindCSS. [Demo](https://getspacetime.github.io/makani/).
+*   [Makani (⭐60)](https://github.com/getspacetime/makani) - ![GitHub stars](https://img.shields.io/github/stars/getspacetime/makani?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/getspacetime/makani?style=flat-square) Lightweight, customizable, and performance oriented component library for Blazor and .NET MAUI Hybrid. Built with TailwindCSS. [Demo](https://getspacetime.github.io/makani/).
 
 ### Tools & Utilities / Others
 
-*   [Blazor.FileSystemAccess (⭐319)](https://github.com/KristofferStrube/Blazor.FileSystemAccess) - ![GitHub stars](https://img.shields.io/github/stars/KristofferStrube/Blazor.FileSystemAccess?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/KristofferStrube/Blazor.FileSystemAccess?style=flat-square\&cacheSeconds=86400) A Blazor wrapper for the browser File System Access API.
+*   [Blazor.FileSystemAccess (⭐334)](https://github.com/KristofferStrube/Blazor.FileSystemAccess) - ![GitHub stars](https://img.shields.io/github/stars/KristofferStrube/Blazor.FileSystemAccess?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/KristofferStrube/Blazor.FileSystemAccess?style=flat-square\&cacheSeconds=86400) A Blazor wrapper for the browser File System Access API.
 
 ### Videos / Others
 
@@ -304,14 +304,14 @@
 ### Community / Others
 
 *   [Discord](https://discord.com/channels/732297728826277939/732297874062311424) - Blazor channel on the DotNetEvolution discord server.
-*   [I Love DotNet (⭐104)](https://github.com/ILoveDotNet/ilovedotnet) - ![stars](https://img.shields.io/github/stars/ilovedotnet/ilovedotnet?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/ilovedotnet/ilovedotnet?style=flat-square) - This is a .NET knowledge sharing platform with live demos crafted by developers for developers with love using .NET Blazor. [ilovedotnet.org](https://www.ilovedotnet.org).
+*   [I Love DotNet (⭐114)](https://github.com/ILoveDotNet/ilovedotnet) - ![stars](https://img.shields.io/github/stars/ilovedotnet/ilovedotnet?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/ilovedotnet/ilovedotnet?style=flat-square) - This is a .NET knowledge sharing platform with live demos crafted by developers for developers with love using .NET Blazor. [ilovedotnet.org](https://www.ilovedotnet.org).
 *   [Reddit](https://www.reddit.com/r/Blazor/) - Blazor subreddit.
 
 ## [22. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Plugins
 
-*   [tmux-fzf-session-switch (⭐43)](https://github.com/thuanOwa/tmux-fzf-session-switch) Easy way to switch, when you have a ton of sessions.
+*   [tmux-fzf-session-switch (⭐58)](https://github.com/thuanOwa/tmux-fzf-session-switch) Easy way to switch, when you have a ton of sessions.
 
 ## [23. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
@@ -324,7 +324,7 @@
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [fancy-completions (⭐15)](https://github.com/z-shell/zsh-fancy-completions) - Provides various completions tools, libraries and integrations.
+*   [fancy-completions (⭐14)](https://github.com/z-shell/zsh-fancy-completions) - Provides various completions tools, libraries and integrations.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -356,23 +356,23 @@
 
 ### Apps / Games
 
-*   [GameHub (⭐2.1k)](https://github.com/tkashkin/GameHub) - A unified library for all your games.
+*   [GameHub (⭐2.3k)](https://github.com/tkashkin/GameHub) - A unified library for all your games.
 
 ### Apps / Productivity
 
-*   [TextSnatcher (⭐533)](https://github.com/RajSolai/TextSnatcher) - Copy text from Images with ease.
+*   [TextSnatcher (⭐1.3k)](https://github.com/RajSolai/TextSnatcher) - Copy text from Images with ease.
 
 ## [28. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
 
 ### Sensors / Accelerometer Digital
 
-*   [MicroPython-LIS3DH (⭐62)](https://github.com/tinypico/tinypico-micropython/tree/master/lis3dh%20library) - I2C driver for LIS3DH 3-axis accelerometer.
+*   [MicroPython-LIS3DH (⭐64)](https://github.com/tinypico/tinypico-micropython/tree/master/lis3dh%20library) - I2C driver for LIS3DH 3-axis accelerometer.
 
 ## [29. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / Web framework
 
-*   [wren (⭐75)](https://github.com/zaiste/wren) - A small, but powerful HTTP library with a functional spin for creating composable web apps, built for convenience and simplicity
+*   [wren (⭐77)](https://github.com/zaiste/wren) - A small, but powerful HTTP library with a functional spin for creating composable web apps, built for convenience and simplicity
 
 ### Blogs/Newsletters / XML
 
@@ -400,7 +400,7 @@
 
 ### Audio and Video Tools / File Sharing
 
-*   [Aegisub (⭐3k)](https://github.com/Aegisub/Aegisub) - Free, cross-platform open source tool for creating and modifying subtitles. Aegisub makes it quick and easy to time subtitles to audio, and features many powerful tools for styling them, including a built-in real-time video preview. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Aegisub/Aegisub/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Aegisub (⭐3.2k)](https://github.com/Aegisub/Aegisub) - Free, cross-platform open source tool for creating and modifying subtitles. Aegisub makes it quick and easy to time subtitles to audio, and features many powerful tools for styling them, including a built-in real-time video preview. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Aegisub/Aegisub/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [LMMS](https://lmms.io) - Formerly "Linux MultiMedia Studio", LMMS is a powerful Digital Audio Workstation designed like FL Studio (formerly Fruity Loops). [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/lmms/lmms) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / Menu Bar Tools
@@ -409,15 +409,11 @@
 
 ### Utilities / Quality of Life Improvements
 
-*   [Grayscale Mode (⭐92)](https://github.com/rkbhochalya/grayscale-mode) - An open source macOS app that lets you quickly toggle grayscale filter right from your menu bar or using a keyboard shortcut (⌥⌘G). [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/rkbhochalya/grayscale-mode) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Grayscale Mode (⭐96)](https://github.com/rkbhochalya/grayscale-mode) - An open source macOS app that lets you quickly toggle grayscale filter right from your menu bar or using a keyboard shortcut (⌥⌘G). [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/rkbhochalya/grayscale-mode) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / System Related Tools
 
 *   [Core Tunnel](https://codinn.com/tunnel/) - Application for managing SSH connections. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/core-tunnel/id1354318707)
-
-### Remote Login Software / System Related Tools
-
-*   [Microsoft Remote Desktop](https://apps.apple.com/us/app/microsoft-remote-desktop/id1295203466) - Connect to a remote PC or virtual apps and desktops made available by your admin. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [31. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
@@ -435,7 +431,7 @@
 
 *   [The Heilmeier Catechism](https://www.darpa.mil/work-with-us/heilmeier-catechism) - A simple set of question which helped DARPA evaluates research programs to generate big rewards by taking big risks.
 
-### Agile / Tickets
+### Agile / Delivery
 
 *   [Recurring opinions or productive improvements — what agile teams actually discuss in retrospectives](https://link.springer.com/article/10.1007/s10664-016-9464-2) - An 3-years analysis of a team's retrospectives, with dire conclusions: people keep forgetting what they already learned, keep discussing unsolveable problems out of their control, and keep debating opinions based on biased interpretations or incorrect understandings.
 
@@ -455,7 +451,7 @@
 
 ### OAuth2 & OpenID / Other tools
 
-*   [Logto (⭐8.2k)](https://github.com/logto-io/logto) - Build the sign-in, auth, and user identity with this OIDC-based identity service.
+*   [Logto (⭐8.6k)](https://github.com/logto-io/logto) - Build the sign-in, auth, and user identity with this OIDC-based identity service.
 
 ### SAML / Other tools
 
@@ -509,7 +505,7 @@
 
 ### Motion / Diagnostics
 
-*   [Weissle/easy-action (⭐39)](https://github.com/Weissle/easy-action) - Easily perform an action on where you can see.
+*   [Weissle/easy-action (⭐41)](https://github.com/Weissle/easy-action) - Easily perform an action on where you can see.
 
 ## [39. Awesome Tdengine](/content/taosdata/awesome-tdengine/week/README.md)
 
@@ -529,18 +525,18 @@
 
 ### Programming Languages / [Other](#other-1)
 
-*   [cargo-unused-features (⭐229)](https://github.com/TimonPost/cargo-unused-features) :warning: — Find potential unused enabled feature flags and prune them. You can generate a simple HTML report from the json to make it easier to inspect results.
+*   [cargo-unused-features (⭐253)](https://github.com/TimonPost/cargo-unused-features) :warning: — Find potential unused enabled feature flags and prune them. You can generate a simple HTML report from the json to make it easier to inspect results.
     It removes a feature of a dependency and then compiles the project to see if it still compiles. If it does, the feature flag can possibly be removed, but it can be a false-positive.
 
 ### Other / [Other](#other-1)
 
-*   [klint (⭐41)](https://github.com/uswitch/klint) — A tool that listens to changes in Kubernetes resources and runs linting rules against them. Identify and debug erroneous objects and nudge objects in line with the policies as both change over time. Klint helps us encode checks and proactively alert teams when they need to take action.
+*   [klint (⭐42)](https://github.com/uswitch/klint) — A tool that listens to changes in Kubernetes resources and runs linting rules against them. Identify and debug erroneous objects and nudge objects in line with the policies as both change over time. Klint helps us encode checks and proactively alert teams when they need to take action.
 
 ## [41. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
 
 ### ⚙️ Middlewares / 🌱 Third Party
 
-*   [vladfr/fiber-servertiming (⭐1)](https://github.com/vladfr/fiber-servertiming) - A middleware to add Server-Timing headers based on the W3C Server-Timing Spec.
+*   [vladfr/fiber-servertiming (⭐2)](https://github.com/vladfr/fiber-servertiming) - A middleware to add Server-Timing headers based on the W3C Server-Timing Spec.
 
 ## [42. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
@@ -558,20 +554,20 @@
 
 ### Projects Related to eBPF / Observability
 
-*   [rbperf (⭐118)](https://github.com/javierhonduco/rbperf) - Sampling profiler and tracer for Ruby.
+*   [rbperf (⭐119)](https://github.com/javierhonduco/rbperf) - Sampling profiler and tracer for Ruby.
 
 ## [45. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Misc
 
-*   [touchlab/KMMBridge (⭐348)](https://github.com/touchlab/KMMBridge) - KMMBridge is a set of Gradle tooling that facilitates publishing and consuming pre-built KMM (Kotlin Multiplatform Mobile) Xcode Framework binaries.
+*   [touchlab/KMMBridge (⭐371)](https://github.com/touchlab/KMMBridge) - KMMBridge is a set of Gradle tooling that facilitates publishing and consuming pre-built KMM (Kotlin Multiplatform Mobile) Xcode Framework binaries.
 
 ## [46. Awesome Music](/content/ciconia/awesome-music/week/README.md)
 
 ### Music Programming
 
-*   [Cane (⭐73)](https://github.com/Jackojc/cane) - A small MIDI sequencer DSL designed around vectors and euclidean rhythms.
-*   [Gwion (⭐522)](https://github.com/Gwion/Gwion) - A strongly-timed programming language aimed at music creation. Heavily inspired by ChucK.
+*   [Cane (⭐90)](https://github.com/Jackojc/cane) - A small MIDI sequencer DSL designed around vectors and euclidean rhythms.
+*   [Gwion (⭐544)](https://github.com/Gwion/Gwion) - A strongly-timed programming language aimed at music creation. Heavily inspired by ChucK.
 *   [Tidal](https://tidalcycles.org/) - a language built on Haskell for live coding patterns.
 
 ## [47. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
@@ -601,17 +597,17 @@
 
 ### Frameworks
 
-*   [CGraph (⭐1.7k)](https://github.com/ChunelFeng/CGraph) - A cross-platform DAG framework based on C++ without any 3rd-party. \[MIT]
+*   [CGraph (⭐1.9k)](https://github.com/ChunelFeng/CGraph) - A cross-platform DAG framework based on C++ without any 3rd-party. \[MIT]
 
 ### Reflection
 
-*   [Easy Reflection (⭐91)](https://github.com/chocolacula/easy_reflection_cpp) - Easy and fast reflection + serialization solution like in Rust, Java or Go. \[Apache]
+*   [Easy Reflection (⭐99)](https://github.com/chocolacula/easy_reflection_cpp) - Easy and fast reflection + serialization solution like in Rust, Java or Go. \[Apache]
 
 ## [49. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Standard CLI
 
-*   [version (⭐95)](https://github.com/mszostok/version) - Collects and displays CLI version information in multiple formats along with upgrade notice.
+*   [version (⭐103)](https://github.com/mszostok/version) - Collects and displays CLI version information in multiple formats along with upgrade notice.
 
 ### Databases Implemented in Go
 
@@ -619,37 +615,37 @@
 
 ### Email
 
-*   [Mailpit (⭐5.3k)](https://github.com/axllent/mailpit) - Email and SMTP testing tool for developers.
+*   [Mailpit (⭐6.5k)](https://github.com/axllent/mailpit) - Email and SMTP testing tool for developers.
 
 ### Game Development
 
-*   [Harfang3D (⭐551)](https://github.com/harfang3d/harfang3d) - 3D engine for the Go language, works on Windows and Linux ([Harfang on Go.dev (⭐37)](https://github.com/harfang3d/harfang-go)).
+*   [Harfang3D (⭐590)](https://github.com/harfang3d/harfang3d) - 3D engine for the Go language, works on Windows and Linux ([Harfang on Go.dev (⭐38)](https://github.com/harfang3d/harfang-go)).
 
 ### Logging
 
-*   [pp (⭐1.8k)](https://github.com/k0kubun/pp) - Colored pretty printer for Go language.
+*   [pp (⭐1.9k)](https://github.com/k0kubun/pp) - Colored pretty printer for Go language.
 
 ### Strings
 
-*   [caps (⭐53)](https://github.com/chanced/caps) - A case conversion library.
+*   [caps (⭐58)](https://github.com/chanced/caps) - A case conversion library.
 
 ### Third-party APIs
 
-*   [GoFreeDB (⭐34)](https://github.com/FreeLeh/GoFreeDB) - Golang library providing common and simple database abstractions on top of Google Sheets.
-*   [swag (⭐46)](https://github.com/zc2638/swag) - No comments, simple go wrapper to create swagger 2.0 compatible APIs. Support most routing frameworks, such as built-in, gin, chi, mux, echo, httprouter, fasthttp and more.
+*   [GoFreeDB (⭐36)](https://github.com/FreeLeh/GoFreeDB) - Golang library providing common and simple database abstractions on top of Google Sheets.
+*   [swag (⭐47)](https://github.com/zc2638/swag) - No comments, simple go wrapper to create swagger 2.0 compatible APIs. Support most routing frameworks, such as built-in, gin, chi, mux, echo, httprouter, fasthttp and more.
 
 ### Validation
 
-*   [valix (⭐27)](https://github.com/marrow16/valix) Go package for validating requests
+*   [valix (⭐29)](https://github.com/marrow16/valix) Go package for validating requests
 
 ### Video
 
-*   [go-m3u8 (⭐29)](https://github.com/etherlabsio/go-m3u8) - Parser and generator library for Apple m3u8 playlists. Actively maintained version of quangngotan95/go-m3u8 with improvements and latest HLS playlist parsing compatibility.
+*   [go-m3u8 (⭐30)](https://github.com/etherlabsio/go-m3u8) - Parser and generator library for Apple m3u8 playlists. Actively maintained version of quangngotan95/go-m3u8 with improvements and latest HLS playlist parsing compatibility.
 
 ### Web Frameworks
 
-*   [Atreugo (⭐1.2k)](https://github.com/savsgio/atreugo) - High performance and extensible micro web framework with zero memory allocations in hot paths.
-*   [Hertz (⭐5.1k)](https://github.com/cloudwego/hertz) - A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices.
+*   [Atreugo (⭐1.3k)](https://github.com/savsgio/atreugo) - High performance and extensible micro web framework with zero memory allocations in hot paths.
+*   [Hertz (⭐5.8k)](https://github.com/cloudwego/hertz) - A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices.
 
 ### E-books for purchase / Libraries for creating HTTP middlewares
 
@@ -658,11 +654,7 @@
 
 ### Free e-books / Libraries for creating HTTP middlewares
 
-*   [Go AST Book (Chinese) (⭐5.3k)](https://github.com/chai2010/go-ast-book) - A book focusing on Go `go/*` packages.
-
-### Websites / Libraries for creating HTTP middlewares
-
-*   [Explore Go Libraries & Projects](https://kandi.openweaver.com/explore/go) - Discover & find a curated list of popular & new Go libraries, top authors, trending project kits, discussions, tutorials & learning resources on kandi.
+*   [Go AST Book (Chinese) (⭐5.4k)](https://github.com/chai2010/go-ast-book) - A book focusing on Go `go/*` packages.
 
 ### Tutorials / Libraries for creating HTTP middlewares
 
@@ -701,8 +693,8 @@
 
 ### Computer Science
 
-*   [Computer Science I](https://cse.unl.edu/~cbourke/ComputerScienceOne.pdf) - Chris Bourke (PDF)
-*   [Computer Science II](https://cse.unl.edu/~cbourke/ComputerScienceTwo.pdf) - Chris Bourke (PDF)
+*   [Computer Science I](https://cse.unl.edu/~cbourke/ComputerScienceOne.pdf) - Chris Bourke (PDF) (CC BY-SA)
+*   [Computer Science II](https://cse.unl.edu/~cbourke/ComputerScienceTwo.pdf) - Chris Bourke (PDF) (CC BY-SA)
 
 ### Computer Vision
 

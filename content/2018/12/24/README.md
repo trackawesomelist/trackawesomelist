@@ -40,7 +40,7 @@
 
 ### Data / Redux / ELM / Dependency Injection
 
-*   [Graphql (⭐3.2k)](https://github.com/zino-app/graphql-flutter) <!--stargazers:zino-app/graphql-flutter--> - Implementation of the GraphQL spec by [Zino App B.V.](https://github.com/zino-app)
+*   [Graphql (⭐3.3k)](https://github.com/zino-app/graphql-flutter) <!--stargazers:zino-app/graphql-flutter--> - Implementation of the GraphQL spec by [Zino App B.V.](https://github.com/zino-app)
 
 ## [4. Awesome Asyncio](/content/timofurrer/awesome-asyncio/README.md)
 

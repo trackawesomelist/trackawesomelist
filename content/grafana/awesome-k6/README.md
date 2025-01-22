@@ -2,7 +2,7 @@
 
 A curated list of awesome tools, content and projects using k6
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/grafana/awesome-k6/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 grafana/awesome-k6](https://github.com/grafana/awesome-k6) · ⭐ 571 · 🏷️ Testing
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/grafana/awesome-k6/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 grafana/awesome-k6](https://github.com/grafana/awesome-k6) · ⭐ 588 · 🏷️ Testing
 
 [ Daily / [Weekly](/content/grafana/awesome-k6/week/README.md) / [Overview](/content/grafana/awesome-k6/readme/README.md) ]
 
@@ -14,43 +14,43 @@ A curated list of awesome tools, content and projects using k6
 
 ### Extensions / Official
 
-*   [xk6-client-tracing (⭐38)](https://github.com/grafana/xk6-client-tracing) - Client for load testing distributed tracing backends.
-*   [xk6-disruptor (⭐88)](https://github.com/grafana/xk6-disruptor) - Inject faults to test 💣.
+*   [xk6-client-tracing (⭐45)](https://github.com/grafana/xk6-client-tracing) - Client for load testing distributed tracing backends.
+*   [xk6-disruptor (⭐95)](https://github.com/grafana/xk6-disruptor) - Inject faults to test 💣.
 *   [xk6-exec (⭐20)](https://github.com/grafana/xk6-exec) - Run external commands.
-*   [xk6-kubernetes (⭐62)](https://github.com/grafana/xk6-kubernetes) - Interact with Kubernetes clusters.
-*   [xk6-loki (⭐36)](https://github.com/grafana/xk6-loki) - Client for load testing Loki.
-*   [xk6-notification (⭐18)](https://github.com/grafana/xk6-notification) - Create notifications.
-*   [xk6-output-influxdb (⭐61)](https://github.com/grafana/xk6-output-influxdb) - Export results to InfluxDB v2.
-*   [xk6-output-kafka (⭐20)](https://github.com/grafana/xk6-output-kafka) - Export k6 results in real-time to Kafka.
-*   [xk6-output-timescaledb (⭐29)](https://github.com/grafana/xk6-output-timescaledb) - Export k6 results to TimescaleDB.
+*   [xk6-kubernetes (⭐64)](https://github.com/grafana/xk6-kubernetes) - Interact with Kubernetes clusters.
+*   [xk6-loki (⭐38)](https://github.com/grafana/xk6-loki) - Client for load testing Loki.
+*   [xk6-notification (⭐19)](https://github.com/grafana/xk6-notification) - Create notifications.
+*   [xk6-output-influxdb (⭐64)](https://github.com/grafana/xk6-output-influxdb) - Export results to InfluxDB v2.
+*   [xk6-output-kafka (⭐22)](https://github.com/grafana/xk6-output-kafka) - Export k6 results in real-time to Kafka.
+*   [xk6-output-timescaledb (⭐30)](https://github.com/grafana/xk6-output-timescaledb) - Export k6 results to TimescaleDB.
 *   [xk6-client-prometheus-remote (⭐24)](https://github.com/grafana/xk6-client-prometheus-remote) - Test Prometheus Remote Write performance.
-*   [xk6-sql (⭐105)](https://github.com/grafana/xk6-sql) - Load-test SQL Servers (PostgreSQL, MySQL and SQLite3 for now).
+*   [xk6-sql (⭐113)](https://github.com/grafana/xk6-sql) - Load-test SQL Servers (PostgreSQL, MySQL and SQLite3 for now).
 *   [xk6-ssh (⭐9)](https://github.com/grafana/xk6-ssh) - SSH.
 
 ### Extensions / Community
 
-*   [xk6-cable (⭐24)](https://github.com/anycable/xk6-cable) - Test Action Cable and AnyCable functionality.
-*   [xk6-coap (⭐10)](https://github.com/golioth/xk6-coap) - Interact with Constrained Application Protocol endpoints.
-*   [xk6-dotenv (⭐26)](https://github.com/szkiba/xk6-dotenv) - Load env vars from a .env file.
+*   [xk6-cable (⭐26)](https://github.com/anycable/xk6-cable) - Test Action Cable and AnyCable functionality.
+*   [xk6-coap (⭐12)](https://github.com/golioth/xk6-coap) - Interact with Constrained Application Protocol endpoints.
+*   [xk6-dotenv (⭐28)](https://github.com/szkiba/xk6-dotenv) - Load env vars from a .env file.
 *   [xk6-ethereum (⭐10)](https://github.com/distribworks/xk6-ethereum) - K6 extension for ethereum protocols.
-*   [xk6-faker (⭐49)](https://github.com/szkiba/xk6-faker) - Generate random fake data.
+*   [xk6-faker (⭐57)](https://github.com/szkiba/xk6-faker) - Generate random fake data.
 *   [xk6-file (⭐23)](https://github.com/avitalique/xk6-file) - Write files.
-*   [xk6-g0 (⭐23)](https://github.com/szkiba/xk6-g0) - Write k6 tests in golang.
-*   [xk6-kafka (⭐143)](https://github.com/mostafa/xk6-kafka) - Load-test Apache Kafka. Includes support for Avro messages.
-*   [xk6-kv (⭐12)](https://github.com/oleiade/xk6-kv) - Share key-value data between VUs.
-*   [xk6-mock (⭐13)](https://github.com/szkiba/xk6-mock) - Mock HTTP(S) servers.
-*   [xk6-mqtt (⭐47)](https://github.com/pmalhaire/xk6-mqtt) - MQTT extension.
+*   [xk6-g0 (⭐25)](https://github.com/szkiba/xk6-g0) - Write k6 tests in golang.
+*   [xk6-kafka (⭐150)](https://github.com/mostafa/xk6-kafka) - Load-test Apache Kafka. Includes support for Avro messages.
+*   [xk6-kv (⭐15)](https://github.com/oleiade/xk6-kv) - Share key-value data between VUs.
+*   [xk6-mock (⭐14)](https://github.com/szkiba/xk6-mock) - Mock HTTP(S) servers.
+*   [xk6-mqtt (⭐49)](https://github.com/pmalhaire/xk6-mqtt) - MQTT extension.
 *   [xk6-nats (⭐13)](https://github.com/ydarias/xk6-nats) - Provides NATS support for k6 tests.
-*   [xk6-opentelemetry (⭐24)](https://github.com/thmshmm/xk6-opentelemetry) - Generate OpenTelemetry signals from within your test scripts.
-*   [xk6-output-elasticsearch (⭐17)](https://github.com/elastic/xk6-output-elasticsearch) - Export results to Elasticsearch 8.x.
-*   [xk6-output-prometheus-pushgateway (⭐10)](https://github.com/martymarron/xk6-output-prometheus-pushgateway) - Export results to Prometheus pushgateway.
-*   [xk6-output-statsd (⭐21)](https://github.com/LeonAdato/xk6-output-statsd) - Enables real-time output of test metrics to a StatsD service.
-*   [xk6-output-timestream (⭐17)](https://github.com/leonyork/xk6-output-timestream) - Export results to AWS Timestream.
-*   [xk6-playwright (⭐42)](https://github.com/nicholasvuono/xk6-playwright) - Browser automation and end-to-end web testing using Playwright.
-*   [xk6-prometheus (⭐48)](https://github.com/szkiba/xk6-prometheus) - Prometheus HTTP exporter for k6.
+*   [xk6-opentelemetry (⭐25)](https://github.com/thmshmm/xk6-opentelemetry) - Generate OpenTelemetry signals from within your test scripts.
+*   [xk6-output-elasticsearch (⭐19)](https://github.com/elastic/xk6-output-elasticsearch) - Export results to Elasticsearch 8.x.
+*   [xk6-output-prometheus-pushgateway (⭐11)](https://github.com/martymarron/xk6-output-prometheus-pushgateway) - Export results to Prometheus pushgateway.
+*   [xk6-output-statsd (⭐22)](https://github.com/LeonAdato/xk6-output-statsd) - Enables real-time output of test metrics to a StatsD service.
+*   [xk6-output-timestream (⭐18)](https://github.com/leonyork/xk6-output-timestream) - Export results to AWS Timestream.
+*   [xk6-playwright (⭐45)](https://github.com/nicholasvuono/xk6-playwright) - Browser automation and end-to-end web testing using Playwright.
+*   [xk6-prometheus (⭐49)](https://github.com/szkiba/xk6-prometheus) - Prometheus HTTP exporter for k6.
 *   [xk6-prompt (⭐14)](https://github.com/Juandavi1/xk6-prompt) - Support for input arguments via UI.
-*   [xk6-sse (⭐12)](https://github.com/phymbert/xk6-sse) - A k6 extension for Server-Sent Events (SSE).
-*   [xk6-tcp (⭐12)](https://github.com/NAlexandrov/xk6-tcp) - Send data to TCP port.
+*   [xk6-sse (⭐15)](https://github.com/phymbert/xk6-sse) - A k6 extension for Server-Sent Events (SSE).
+*   [xk6-tcp (⭐15)](https://github.com/NAlexandrov/xk6-tcp) - Send data to TCP port.
 *   [xk6-top (⭐26)](https://github.com/szkiba/xk6-top) - Updating the current k6 metrics summaries on the terminal during the test run.
 
 ## [Jul 21, 2024](/content/2024/07/21/README.md)
@@ -91,11 +91,11 @@ A curated list of awesome tools, content and projects using k6
 
 ### Articles
 
-*   [k6 OSS workshop (⭐14)](https://github.com/grafana/k6-oss-workshop) - A 2-3 hour k6 workshop with practical k6 examples using the QuickPizza demo app.
+*   [k6 OSS workshop (⭐18)](https://github.com/grafana/k6-oss-workshop) - A 2-3 hour k6 workshop with practical k6 examples using the QuickPizza demo app.
 
 ### Examples/Templates
 
-*   [k6 QuickPizza examples (⭐55)](https://github.com/grafana/quickpizza) - Web application used for demos and workshops with multiple k6 examples.
+*   [k6 QuickPizza examples (⭐59)](https://github.com/grafana/quickpizza) - Web application used for demos and workshops with multiple k6 examples.
 
 ## [Jan 18, 2024](/content/2024/01/18/README.md)
 
@@ -107,7 +107,7 @@ A curated list of awesome tools, content and projects using k6
 
 ### Examples/Templates
 
-*   [Jahmilli/k6-example (⭐9)](https://github.com/Jahmilli/k6-example) - Starter template using Vite (Rollup) bundler to write k6 tests in TypeScript.
+*   [Jahmilli/k6-example (⭐10)](https://github.com/Jahmilli/k6-example) - Starter template using Vite (Rollup) bundler to write k6 tests in TypeScript.
 
 ## [Jan 16, 2024](/content/2024/01/16/README.md)
 
@@ -123,14 +123,14 @@ A curated list of awesome tools, content and projects using k6
 
 ### Examples/Templates
 
-*   [tom-miseur/k6-templates (⭐34)](https://github.com/tom-miseur/k6-templates/) - Opinionated starter templates for k6 projects.
+*   [tom-miseur/k6-templates (⭐35)](https://github.com/tom-miseur/k6-templates/) - Opinionated starter templates for k6 projects.
 *   [SwissLife-OSS/k6-multiscenario-template (⭐52)](https://github.com/SwissLife-OSS/K6-MultiScenario-template) - Use K6 to implement a Multi Scenario template.
 *   [Im5tu/template-k6 (⭐5)](https://github.com/Im5tu/template-k6) - A K6 Performance Test Suite Template.
 *   [mohsenny/k6-test-template (⭐3)](https://github.com/mohsenny/k6-test-template) - Load testing framework.
 *   [kwidera/k6\_framework (⭐1)](https://github.com/kwidera/k6_framework) - Another k6 framework example.
 *   [Sahanipe/pet\_store (⭐1)](https://github.com/Sahanipe/pet_store) - Modularized scripts for the Swagger PetStore APIs.
 *   [lreimer/continuous-k6k8s (⭐18)](https://github.com/lreimer/continuous-k6k8s) - Continuously run k6 tests in Kubernetes using cronjobs.
-*   [luketn/docker-k6-grafana-influxdb (⭐159)](https://github.com/luketn/docker-k6-grafana-influxdb) - Demonstrates how to run load tests with containerised instances of K6, Grafana and InfluxDB.
+*   [luketn/docker-k6-grafana-influxdb (⭐161)](https://github.com/luketn/docker-k6-grafana-influxdb) - Demonstrates how to run load tests with containerised instances of K6, Grafana and InfluxDB.
 
 ## [Jan 11, 2024](/content/2024/01/11/README.md)
 
@@ -149,9 +149,9 @@ A curated list of awesome tools, content and projects using k6
 
 ### Related / Community
 
-*   [How They Load Test (⭐94)](https://github.com/aliesbelik/how-they-load) - A collection of resources on how companies around the world perform load testing.
-*   [Load Testing Toolkit (⭐158)](https://github.com/aliesbelik/load-testing-toolkit) - A collection of open-source tools for debugging, benchmarking, load and stress testing your code or services.
-*   [awesome-http-benchmark (⭐3.3k)](https://github.com/denji/awesome-http-benchmark) - A collection of HTTP benchmark tools, testing/debugging, & restAPI (RESTful).
+*   [How They Load Test (⭐102)](https://github.com/aliesbelik/how-they-load) - A collection of resources on how companies around the world perform load testing.
+*   [Load Testing Toolkit (⭐167)](https://github.com/aliesbelik/load-testing-toolkit) - A collection of open-source tools for debugging, benchmarking, load and stress testing your code or services.
+*   [awesome-http-benchmark (⭐3.4k)](https://github.com/denji/awesome-http-benchmark) - A collection of HTTP benchmark tools, testing/debugging, & restAPI (RESTful).
 
 ## [Apr 17, 2023](/content/2023/04/17/README.md)
 
@@ -163,7 +163,7 @@ A curated list of awesome tools, content and projects using k6
 
 ### Articles
 
-*   [k6 Learn (⭐310)](https://github.com/grafana/k6-learn) - Explanation of the principles of load testing and practical examples for how to do it with k6.
+*   [k6 Learn (⭐329)](https://github.com/grafana/k6-learn) - Explanation of the principles of load testing and practical examples for how to do it with k6.
 
 ## [Sep 05, 2022](/content/2022/09/05/README.md)
 
@@ -175,7 +175,7 @@ A curated list of awesome tools, content and projects using k6
 
 ### Examples/Templates
 
-*   [k6-typescript-template (⭐273)](https://github.com/grafana/k6-template-typescript) - Starter template using Webpack bundler to write k6 tests in TypeScript.
+*   [k6-typescript-template (⭐279)](https://github.com/grafana/k6-template-typescript) - Starter template using Webpack bundler to write k6 tests in TypeScript.
 
 ## [Aug 29, 2022](/content/2022/08/29/README.md)
 
@@ -190,7 +190,7 @@ A curated list of awesome tools, content and projects using k6
 
 ### Tools
 
-*   [k6 for IntelliJ](https://plugins.jetbrains.com/plugin/16141-k6) - IntelliJ-based Plugin to run k6 tests locally or in the [k6 Cloud](https://app.k6.io/) from your IntelliJ IDE.
+*   [k6 for IntelliJ](https://plugins.jetbrains.com/plugin/16141-k6) - IntelliJ-based Plugin to run and debug \[sic!] k6 tests locally or in the [k6 Cloud](https://app.k6.io/) from your IntelliJ IDE.
 
 ## [Aug 08, 2022](/content/2022/08/08/README.md)
 
@@ -271,9 +271,9 @@ A curated list of awesome tools, content and projects using k6
 
 ### Tools
 
-*   [har-to-k6 (⭐123)](https://github.com/grafana/har-to-k6) - Tool for converting HAR recordings to k6 test scripts.
-*   [postman-to-k6 (⭐287)](https://github.com/grafana/postman-to-k6) - Tool for converting Postman collections to k6 test scripts.
-*   [jmeter-to-k6 (⭐68)](https://github.com/grafana/jmeter-to-k6) - Tool for converting JMeter test cases to k6 test scripts.
+*   [har-to-k6 (⭐127)](https://github.com/grafana/har-to-k6) - Tool for converting HAR recordings to k6 test scripts.
+*   [postman-to-k6 (⭐290)](https://github.com/grafana/postman-to-k6) - Tool for converting Postman collections to k6 test scripts.
+*   [jmeter-to-k6 (⭐69)](https://github.com/grafana/jmeter-to-k6) - Tool for converting JMeter test cases to k6 test scripts.
 
 ### CI/CD
 
@@ -310,7 +310,7 @@ A curated list of awesome tools, content and projects using k6
 
 ### Tools
 
-*   [k6-reporter (⭐375)](https://github.com/benc-uk/k6-reporter) - Tool for converting k6 output to HTML reports.
+*   [k6-reporter (⭐396)](https://github.com/benc-uk/k6-reporter) - Tool for converting k6 output to HTML reports.
 
 ## [Mar 01, 2021](/content/2021/03/01/README.md)
 
@@ -334,7 +334,7 @@ A curated list of awesome tools, content and projects using k6
 
 ### Tools
 
-*   [k6 generator (⭐21k)](https://github.com/OpenAPITools/openapi-generator) - Tool for converting Swagger/OpenAPI specifications to k6 test scripts.
+*   [k6 generator (⭐22k)](https://github.com/OpenAPITools/openapi-generator) - Tool for converting Swagger/OpenAPI specifications to k6 test scripts.
 
 ## [Mar 09, 2020](/content/2020/03/09/README.md)
 

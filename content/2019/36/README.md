@@ -10,13 +10,13 @@
 
 ### Modules / Utils
 
-*   [deno\_tokenizer (⭐15)](https://github.com/eliassjogreen/deno_tokenizer) - A simple tokenizer for deno.
+*   [deno\_tokenizer (⭐16)](https://github.com/eliassjogreen/deno_tokenizer) - A simple tokenizer for deno.
 
 ## [2. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### Testing / Fixtures
 
-*   [jFairy (⭐738)](https://github.com/Devskiller/jfairy) - Fake data generator.
+*   [jFairy (⭐741)](https://github.com/Devskiller/jfairy) - Fake data generator.
 
 ## [3. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
@@ -63,11 +63,11 @@
 
 ### Collection of Actions / Docker Container Actions
 
-*   [GitHub Actions for PHP (⭐2.3k)](https://github.com/shivammathur/setup-php)
+*   [GitHub Actions for PHP (⭐2.9k)](https://github.com/shivammathur/setup-php)
 
 ### Static Analysis / Linting
 
-*   [Node.js - Automatically run the `format` and/or `lint` script used by the package (⭐34)](https://github.com/MarvinJWendt/run-node-formatter)
+*   [Node.js - Automatically run the `format` and/or `lint` script used by the package (⭐36)](https://github.com/MarvinJWendt/run-node-formatter)
 
 ## [10. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
 
@@ -91,7 +91,7 @@
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [MikroORM (⭐7.5k)](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, PostgreSQL, MySQL and SQLite.
+*   :octocat: [MikroORM (⭐7.9k)](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, PostgreSQL, MySQL and SQLite.
 
 ## [14. Awesome Flask](/content/mjhea0/awesome-flask/week/README.md)
 
@@ -121,13 +121,13 @@
 ### Serverless / Testing
 
 *   [Zappa (⭐12k)](https://github.com/Miserlou/Zappa)
-*   [Chalice (⭐10k)](https://github.com/aws/chalice)
+*   [Chalice (⭐11k)](https://github.com/aws/chalice)
 *   [AWS Lambda](https://aws.amazon.com/lambda/)
 *   [Google Cloud Functions](https://cloud.google.com/functions/)
 
 ### Open Source Projects / Testing
 
-*   [Airflow (⭐35k)](https://github.com/apache/airflow/tree/master/airflow/www)
+*   [Airflow (⭐38k)](https://github.com/apache/airflow/tree/master/airflow/www)
 
 ## [15. Awesome Ctf](/content/apsdehal/awesome-ctf/week/README.md)
 
@@ -178,8 +178,8 @@
 
 ### Testing / Individual Podcast episodes
 
-*   [Elm test (⭐233)](https://github.com/elm-explorations/test) - Unit and fuzz tests
-*   [Elm Program test (⭐93)](https://github.com/avh4/elm-program-test/tree/3.0.0) - Test complete Elm programs
+*   [Elm test (⭐236)](https://github.com/elm-explorations/test) - Unit and fuzz tests
+*   [Elm Program test (⭐92)](https://github.com/avh4/elm-program-test/tree/3.0.0) - Test complete Elm programs
 
 ## [23. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
@@ -190,7 +190,7 @@
 ### Animation / Redux / ELM / Dependency Injection
 
 *   [Flutter-animation-set (⭐282)](https://github.com/efoxTeam/flutter-animation-set) <!--stargazers:efoxTeam/flutter-animation-set--> - Easy to build an animation set by [efoxTeam](https://github.com/efoxTeam)
-*   [Staggered Animations (⭐1.5k)](https://github.com/mobiten/flutter_staggered_animations) <!--stargazers:mobiten/flutter_staggered_animations--> - Easily add staggered animations to your ListView, GridView, Column and Row by [mobiten](https://mobiten.com/)
+*   [Staggered Animations (⭐1.6k)](https://github.com/mobiten/flutter_staggered_animations) <!--stargazers:mobiten/flutter_staggered_animations--> - Easily add staggered animations to your ListView, GridView, Column and Row by [mobiten](https://mobiten.com/)
 
 ## [24. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
@@ -200,13 +200,13 @@
 
 ### UI / Barcode
 
-*   [ShowSomeProgress (⭐106)](https://github.com/stoneburner/ShowSomeProgress) - Animated Progress and Activity Indicators for iOS apps.
+*   [ShowSomeProgress (⭐107)](https://github.com/stoneburner/ShowSomeProgress) - Animated Progress and Activity Indicators for iOS apps.
 
 ## [25. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Peripheral Access Crates / NXP
 
-*   [`lpc82x-pac`](https://crates.io/crates/lpc82x-pac) - ![crates.io](https://img.shields.io/crates/v/lpc82x-pac.svg)
+*   [`lpc82x-pac`](https://crates.io/crates/lpc82x-pac) - [![crates.io](https://img.shields.io/crates/v/lpc82x-pac.svg)](https://crates.io/crates/lpc82x-pac)
 
 ### HAL implementation crates / OS
 
@@ -284,46 +284,46 @@
 ### Chrome Debugger integration with Editors
 
 *   [VS Code - Debugger for Chrome (⭐2.2k)](https://github.com/Microsoft/vscode-chrome-debug/) - Breakpoint debugging in VS Code.
-*   [VS Code - Elements for Microsoft Edge (⭐744)](https://github.com/microsoft/vscode-edge-devtools) - Elements panel inside VS Code.
-*   [ChromeREPL (⭐355)](https://github.com/acarabott/ChromeREPL) - Within Sublime Text, use the Chrome console.
+*   [VS Code - Elements for Microsoft Edge (⭐760)](https://github.com/microsoft/vscode-edge-devtools) - Elements panel inside VS Code.
+*   [ChromeREPL (⭐356)](https://github.com/acarabott/ChromeREPL) - Within Sublime Text, use the Chrome console.
 *   [Sublime Web Inspector](http://sokolovstas.github.io/SublimeWebInspector/) - JavaScript Breakpoint debugging right in Sublime Text.
 *   [WebStorm/JetBrains Chrome Extension](https://www.jetbrains.com/help/webstorm/2017.1/configuring-javascript-debugger-and-jetbrains-chrome-extension.html) - The WebStorm IDE can debug JavaScript, view the DOM tree, and edit HTML, CSS and JS live.
 
 ### Chrome DevTools Protocol
 
-*   [ChromeDevTools/devtools-protocol (⭐1.1k)](https://github.com/chromedevtools/devtools-protocol) - **Canonical location of the protocol JSON**. Issue tracker for protocol bugs. TypeScript types.
+*   [ChromeDevTools/devtools-protocol (⭐1.2k)](https://github.com/chromedevtools/devtools-protocol) - **Canonical location of the protocol JSON**. Issue tracker for protocol bugs. TypeScript types.
 
 ### Developing with the protocol
 
-*   [chrome-remote-interface Wiki (⭐4.2k)](https://github.com/cyrus-and/chrome-remote-interface/wiki) - Many useful recipes.
-*   [Chrome Protocol Proxy (⭐186)](https://github.com/wendigo/chrome-protocol-proxy) - Tool for debugging clients using devtools protocol.
+*   [chrome-remote-interface Wiki (⭐4.3k)](https://github.com/cyrus-and/chrome-remote-interface/wiki) - Many useful recipes.
+*   [Chrome Protocol Proxy (⭐197)](https://github.com/wendigo/chrome-protocol-proxy) - Tool for debugging clients using devtools protocol.
 
 ### Libraries for driving the protocol (or a layer above)
 
-*   Java: [chrome-devtools-java-client (⭐214)](https://github.com/kklisura/chrome-devtools-java-client)
-*   Python: [PyCDP (⭐94)](https://github.com/hyperiongray/python-chrome-devtools-protocol) - Pure-Python, sans-IO wrappers. See also the [Trio CDP driver (⭐62)](https://github.com/hyperiongray/trio-chrome-devtools-protocol)
-*   Python: [chromewhip (⭐117)](https://github.com/chuckus/chromewhip) - drop-in replacement for the `splash` service
-*   Python: [ChromeController (⭐213)](https://github.com/fake-name/ChromeController) - high-level browser mgmt
+*   Java: [chrome-devtools-java-client (⭐223)](https://github.com/kklisura/chrome-devtools-java-client)
+*   Python: [PyCDP (⭐108)](https://github.com/hyperiongray/python-chrome-devtools-protocol) - Pure-Python, sans-IO wrappers. See also the [Trio CDP driver (⭐66)](https://github.com/hyperiongray/trio-chrome-devtools-protocol)
+*   Python: [chromewhip (⭐118)](https://github.com/chuckus/chromewhip) - drop-in replacement for the `splash` service
+*   Python: [ChromeController (⭐219)](https://github.com/fake-name/ChromeController) - high-level browser mgmt
 *   Go: [chromedp (⭐11k)](https://github.com/chromedp/chromedp) - High-level actions and tasks for driving browsers
-*   Go: [cdp (⭐722)](https://github.com/mafredri/cdp)
-*   Go: [gcd (⭐183)](https://github.com/wirepair/gcd)
-*   Go: [godet (⭐390)](https://github.com/raff/godet)
-*   Ruby: [Cuprite (⭐1.2k)](https://github.com/machinio/cuprite) - Capybara driver
+*   Go: [cdp (⭐736)](https://github.com/mafredri/cdp)
+*   Go: [gcd (⭐186)](https://github.com/wirepair/gcd)
+*   Go: [godet (⭐395)](https://github.com/raff/godet)
+*   Ruby: [Cuprite (⭐1.3k)](https://github.com/machinio/cuprite) - Capybara driver
 *   Clojure: [clj-chrome-devtools (⭐130)](https://github.com/tatut/clj-chrome-devtools) - The CDP wrapper API is autogenerated and will be updated when CDP protocol changes.
 
 ### Using DevTools frontend with other platforms / Android
 
-*   [j2v8-debugger (⭐87)](https://github.com/AlexTrotsenko/j2v8-debugger) - Debugging JavaScript running in [J2V8 (⭐2.5k)](https://github.com/eclipsesource/J2V8) with Chrome DevTools.
+*   [j2v8-debugger (⭐88)](https://github.com/AlexTrotsenko/j2v8-debugger) - Debugging JavaScript running in [J2V8 (⭐2.6k)](https://github.com/eclipsesource/J2V8) with Chrome DevTools.
 
 ### Using DevTools frontend with other platforms / Node.js
 
 *   [ndb (⭐11k)](https://github.com/GoogleChromeLabs/ndb) - An improved Node.js debugging experience with the DevTools Frontend.
-*   [thetool (⭐219)](https://github.com/sfninja/thetool) - CPU, memory, coverage, type profiling with Node.
+*   [thetool (⭐222)](https://github.com/sfninja/thetool) - CPU, memory, coverage, type profiling with Node.
 *   [chrome-devtools-frontend](https://www.npmjs.com/package/chrome-devtools-frontend) - Mirror of the frontend that ships in Chrome.
 
 ### Performance / Ruby
 
-*   [sloth (⭐196)](https://github.com/denar90/sloth) - Chrome extension allows to enable and save CPU and network throttling for selected tabs.
+*   [sloth (⭐198)](https://github.com/denar90/sloth) - Chrome extension allows to enable and save CPU and network throttling for selected tabs.
 
 ## [33. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
 
@@ -365,7 +365,7 @@
 *   [Underactuated Robotics](http://underactuated.csail.mit.edu/underactuated.html) **MIT CSAIL**
 *   [Modern Robotics: Mechanics, Planning, and Control](https://www.coursera.org/specializations/modernrobotics?) **Coursera**
 *   [Hello (Real) World with ROS – Robot Operating System](https://www.edx.org/course/hello-real-world-with-ros-robot-operating-system-2) **edx**
-*   [Advanced Robotics](https://people.eecs.berkeley.edu/\~pabbeel/cs287-fa19/) **UCBerkeley**
+*   [Advanced Robotics](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa19/) **UCBerkeley**
 
 ### Books
 
@@ -378,14 +378,14 @@
 
 ### Related awesome lists
 
-*   [Awesome Gazebo (⭐103)](https://github.com/fkromer/awesome-gazebo)
-*   [Awesome ROS2 (⭐1.1k)](https://github.com/fkromer/awesome-ros2)
+*   [Awesome Gazebo (⭐129)](https://github.com/fkromer/awesome-gazebo)
+*   [Awesome ROS2 (⭐1.7k)](https://github.com/fkromer/awesome-ros2)
 
 ## [36. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Games
 
-*   [swatteau/sokoban-rs (⭐151)](https://github.com/swatteau/sokoban-rs) - A Sokoban implementation
+*   [swatteau/sokoban-rs (⭐153)](https://github.com/swatteau/sokoban-rs) - A Sokoban implementation
 
 ## [37. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/week/README.md)
 
@@ -395,7 +395,7 @@
     ![](https://img.shields.io/github/stars/spiderpig86/Cirrus.svg?style=social\&label=Star)
     [Demo](https://cirrus-ui.netlify.app/getting-started/examples),
     [Docs](https://cirrus-ui.netlify.app/getting-started/setup),
-    [Repo (⭐1.3k)](https://github.com/Spiderpig86/Cirrus)
+    [Repo (⭐1.4k)](https://github.com/Spiderpig86/Cirrus)
     \| #CSS
 
 ## [38. Awesome Haskell](/content/krispo/awesome-haskell/week/README.md)
@@ -408,7 +408,7 @@
 
 ### Third-party APIs
 
-*   [crystal-consul (⭐17)](https://github.com/rogerwelin/crystal-consul) - Consul API client
+*   [crystal-consul (⭐18)](https://github.com/rogerwelin/crystal-consul) - Consul API client
 
 ### Unofficial
 
@@ -529,7 +529,7 @@
 *   [keras-contrib (⭐1.6k)](https://github.com/keras-team/keras-contrib) - Keras community contributions. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/keras_big.png" alt="Keras compatible">
 *   [Hyperas (⭐2.2k)](https://github.com/maxpumperla/hyperas) - Keras + Hyperopt: A straightforward wrapper for a convenient hyperparameter. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/keras_big.png" alt="Keras compatible">
 *   [Elephas (⭐1.6k)](https://github.com/maxpumperla/elephas) - Distributed Deep learning with Keras & Spark. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/keras_big.png" alt="Keras compatible">
-*   [qkeras (⭐522)](https://github.com/google/qkeras) - A quantization deep learning library. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/keras_big.png" alt="Keras compatible">
+*   [qkeras (⭐532)](https://github.com/google/qkeras) - A quantization deep learning library. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/keras_big.png" alt="Keras compatible">
 
 ### Reinforcement Learning / Others
 
@@ -537,45 +537,45 @@
 *   [TensorForce (⭐3.3k)](https://github.com/reinforceio/tensorforce) - A TensorFlow library for applied reinforcement learning. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="TensorFlow">
 *   [TRFL (⭐3.1k)](https://github.com/deepmind/trfl) - TensorFlow Reinforcement Learning. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="sklearn">
 *   [keras-rl (⭐5.5k)](https://github.com/keras-rl/keras-rl) - Deep Reinforcement Learning for Keras. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/keras_big.png" alt="Keras compatible">
-*   [garage (⭐1.8k)](https://github.com/rlworkgroup/garage) - A toolkit for reproducible reinforcement learning research.
-*   [Horizon (⭐3.5k)](https://github.com/facebookresearch/Horizon) - A platform for Applied Reinforcement Learning.
+*   [garage (⭐1.9k)](https://github.com/rlworkgroup/garage) - A toolkit for reproducible reinforcement learning research.
+*   [Horizon (⭐3.6k)](https://github.com/facebookresearch/Horizon) - A platform for Applied Reinforcement Learning.
 
 ### Graph Machine Learning / Others
 
-*   [Spektral (⭐2.3k)](https://github.com/danielegrattarola/spektral) - Deep learning on graphs. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/keras_big.png" alt="Keras compatible">
+*   [Spektral (⭐2.4k)](https://github.com/danielegrattarola/spektral) - Deep learning on graphs. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/keras_big.png" alt="Keras compatible">
 
 ### Visualization / General Purposes
 
 *   [chartify (⭐3.5k)](https://github.com/spotify/chartify/) - Python library that makes it easy for data scientists to create charts.
-*   [physt (⭐127)](https://github.com/janpipek/physt) - Improved histograms.
+*   [physt (⭐131)](https://github.com/janpipek/physt) - Improved histograms.
 
 ### Visualization / Interactive plots
 
-*   [animatplot (⭐405)](https://github.com/t-makaro/animatplot) - A python package for animating plots built on matplotlib.
+*   [animatplot (⭐410)](https://github.com/t-makaro/animatplot) - A python package for animating plots built on matplotlib.
 
 ### Distributed Computing / Synthetic Data
 
 *   [Horovod (⭐14k)](https://github.com/uber/horovod) - Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="sklearn">
 *   [PySpark](https://spark.apache.org/docs/0.9.0/python-programming-guide.html) - Exposes the Spark programming model to Python. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/spark_big.png" alt="Apache Spark based">
-*   [Veles (⭐903)](https://github.com/Samsung/veles) - Distributed machine learning platform.
-*   [Jubatus (⭐707)](https://github.com/jubatus/jubatus) - Framework and Library for Distributed Online Machine Learning.
+*   [Veles (⭐906)](https://github.com/Samsung/veles) - Distributed machine learning platform.
+*   [Jubatus (⭐705)](https://github.com/jubatus/jubatus) - Framework and Library for Distributed Online Machine Learning.
 *   [DMTK (⭐2.7k)](https://github.com/Microsoft/DMTK) - Microsoft Distributed Machine Learning Toolkit.
-*   [dask-ml (⭐882)](https://github.com/dask/dask-ml) - Distributed and parallel machine learning. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
-*   [Distributed (⭐1.5k)](https://github.com/dask/distributed) - Distributed computation in Python.
+*   [dask-ml (⭐894)](https://github.com/dask/dask-ml) - Distributed and parallel machine learning. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
+*   [Distributed (⭐1.6k)](https://github.com/dask/distributed) - Distributed computation in Python.
 
 ### Quantum Computing / Synthetic Data
 
-*   [PennyLane (⭐2.1k)](https://github.com/XanaduAI/pennylane) - Quantum machine learning, automatic differentiation, and optimization of hybrid quantum-classical computations.
+*   [PennyLane (⭐2.3k)](https://github.com/XanaduAI/pennylane) - Quantum machine learning, automatic differentiation, and optimization of hybrid quantum-classical computations.
 
 ## [45. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Audio
 
-*   [Verovio (⭐654)](https://github.com/rism-ch/verovio) - Verovio is a fast and lightweight music notation engraving library. \[LGPL] [website](https://www.verovio.org)
+*   [Verovio (⭐694)](https://github.com/rism-ch/verovio) - Verovio is a fast and lightweight music notation engraving library. \[LGPL] [website](https://www.verovio.org)
 
 ### Compression
 
-*   [bit7z (⭐623)](https://github.com/rikyoz/bit7z) - A C++ static library offering a clean and simple interface to the 7-zip shared libraries. \[MPL2]
+*   [bit7z (⭐678)](https://github.com/rikyoz/bit7z) - A C++ static library offering a clean and simple interface to the 7-zip shared libraries. \[MPL2]
 
 ### Integrated Development Environment
 
@@ -600,7 +600,7 @@
 
 ### Tools / Templates & Starter Kits
 
-*   [Wagtail Pipit (⭐235)](https://github.com/Frojd/Wagtail-Boilerplate) – Pipit is a Wagtail boilerplate which aims to provide an easy and modern developer workflow with a React-rendered frontend.
+*   [Wagtail Pipit (⭐238)](https://github.com/Frojd/Wagtail-Boilerplate) – Pipit is a Wagtail boilerplate which aims to provide an easy and modern developer workflow with a React-rendered frontend.
 
 ---
 

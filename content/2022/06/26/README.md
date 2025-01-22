@@ -11,14 +11,14 @@
 ### Network / HTTP
 
 *   [truemedian/zfetch (⭐60)](https://github.com/truemedian/zfetch) - HTTP(S) client based on iguanaTLS.
-*   [ducdetronquito/requestz (⭐115)](https://github.com/ducdetronquito/requestz) - HTTP client based on h11.
+*   [ducdetronquito/requestz (⭐116)](https://github.com/ducdetronquito/requestz) - HTTP client based on h11.
 
 ## [2. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Front-End Development
 
-*   [React (⭐64k)](https://github.com/enaqx/awesome-react#readme) - JavaScript library for building user interfaces.
-    *   [Relay (⭐272)](https://github.com/expede/awesome-relay#readme) - Framework for building data-driven React apps.
+*   [React (⭐66k)](https://github.com/enaqx/awesome-react#readme) - JavaScript library for building user interfaces.
+    *   [Relay (⭐276)](https://github.com/expede/awesome-relay#readme) - Framework for building data-driven React apps.
     *   [React Hooks (⭐1.2k)](https://github.com/glauberfc/awesome-react-hooks#readme) - Lets you use state and other React features without writing a class.
 
 ## [3. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
@@ -35,7 +35,7 @@
 
 ### Tools / Community providers
 
-*   [tfedit (⭐96)](https://github.com/minamijoyo/tfedit) - A refactoring tool for Terraform.
+*   [tfedit (⭐100)](https://github.com/minamijoyo/tfedit) - A refactoring tool for Terraform.
 
 ### Managed Terraform Platforms :heavy_dollar_sign: / IDE
 
@@ -43,7 +43,7 @@
 
 ### Editor Plugins / IDE
 
-*   [Terraform-ls (⭐984)](https://github.com/hashicorp/terraform-ls) (Terraform Language Server)
+*   [Terraform-ls (⭐1k)](https://github.com/hashicorp/terraform-ls) (Terraform Language Server)
 
 ## [4. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
@@ -64,7 +64,7 @@
 
 ### Utilities
 
-*   [Vert.x JsonPath (⭐4)](https://github.com/NoEnv/vertx-jsonpath) - A very basic implementation of JsonPath using Vert.x’s JsonObject and JsonArray, mimicking their getX, containsKey, put and remove methods.
+*   [Vert.x JsonPath (⭐9)](https://github.com/NoEnv/vertx-jsonpath) - A very basic implementation of JsonPath using Vert.x’s JsonObject and JsonArray, mimicking their getX, containsKey, put and remove methods.
 
 ## [7. Awesome Digital History](/content/maehr/awesome-digital-history/README.md)
 
@@ -80,7 +80,7 @@
 
 ### Audio
 
-*   [VOICEVOX (⭐2.4k)](https://github.com/VOICEVOX/voicevox) - 無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXのエディター. \[日本語]
+*   [VOICEVOX (⭐2.6k)](https://github.com/VOICEVOX/voicevox) - 無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXのエディター. \[日本語]
 
 ## [9. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
@@ -92,7 +92,7 @@
 
 ### Logging
 
-*   [phuslu/log (⭐653)](https://github.com/phuslu/log) - High performance structured logging.
+*   [phuslu/log (⭐711)](https://github.com/phuslu/log) - High performance structured logging.
 
 ---
 

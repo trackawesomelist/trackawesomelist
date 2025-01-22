@@ -28,15 +28,15 @@
 
 ### Blazor
 
-*   [BootstrapBlazor (⭐2k)](https://github.com/dotnetcore/BootstrapBlazor) - A set of enterprise-class UI components based on Bootstrap and Blazor.
+*   [BootstrapBlazor (⭐3k)](https://github.com/dotnetcore/BootstrapBlazor) - A set of enterprise-class UI components based on Bootstrap and Blazor.
 
 ### Misc
 
-*   [Validot (⭐295)](https://github.com/bartoszlenar/Validot) - Validot is a performance-first, compact library for advanced model validation. Using a simple declarative fluent interface, it efficiently handles classes, structs, nested members, collections, nullables, plus any relation or combination of them. It also supports translations, custom logic extensions with tests, and DI containers.
+*   [Validot (⭐315)](https://github.com/bartoszlenar/Validot) - Validot is a performance-first, compact library for advanced model validation. Using a simple declarative fluent interface, it efficiently handles classes, structs, nested members, collections, nullables, plus any relation or combination of them. It also supports translations, custom logic extensions with tests, and DI containers.
 
 ### Source Generator
 
-*   [Awesome Microservices .NET Core (⭐2.7k)](https://github.com/mjebrahimi/Awesome-Microservices-NetCore) - A collection of awesome training series, articles, videos, books, courses, sample projects, and tools for Microservices in .NET Core.
+*   [Awesome Microservices .NET Core (⭐2.8k)](https://github.com/mjebrahimi/Awesome-Microservices-NetCore) - A collection of awesome training series, articles, videos, books, courses, sample projects, and tools for Microservices in .NET Core.
 
 ## [5. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/README.md)
 
@@ -54,13 +54,13 @@
 
 ### Dynamic type checkers
 
-*   [beartype (⭐2.5k)](https://github.com/beartype/beartype) - Unbearably fast `O(1)` runtime type-checking in pure Python.
+*   [beartype (⭐2.8k)](https://github.com/beartype/beartype) - Unbearably fast `O(1)` runtime type-checking in pure Python.
 
 ### Tools / Helper tools to add annotations to existing code
 
 *   [pyannotate (⭐1.4k)](https://github.com/dropbox/pyannotate) - Insert annotations into your source code based on call arguments and return types observed at runtime.
-*   [pyre infer (⭐6.7k)](https://github.com/facebook/pyre-check) - Pyre has a powerful feature for migrating codebases to a typed format. The [infer](https://pyre-check.org/docs/pysa-coverage/) command-line option ingests a file or directory, makes educated guesses about the types used, and applies the annotations to the files.
-*   [pytype annotate-ast (⭐4.7k)](https://github.com/google/pytype/tree/master/pytype/tools/annotate_ast) - A work-in-progress tool to annotate the nodes of an AST with their Python types.
+*   [pyre infer (⭐6.9k)](https://github.com/facebook/pyre-check) - Pyre has a powerful feature for migrating codebases to a typed format. The [infer](https://pyre-check.org/docs/pysa-coverage/) command-line option ingests a file or directory, makes educated guesses about the types used, and applies the annotations to the files.
+*   [pytype annotate-ast (⭐4.8k)](https://github.com/google/pytype/tree/master/pytype/tools/annotate_ast) - A work-in-progress tool to annotate the nodes of an AST with their Python types.
 
 ## [8. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
@@ -76,11 +76,11 @@
 
 ## [10. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
-### Plugins and scripts / Godot 3.2+
+### Plugins and scripts / Godot 3
 
-*   [Tree generator (⭐160)](https://github.com/Zylann/godot_tree_generator_plugin) - Tool for generating trees.
+*   [Tree generator (⭐165)](https://github.com/Zylann/godot_tree_generator_plugin) - Tool for generating trees.
 
-### Modules / Godot 3.2+
+### Modules / Godot 3
 
 *   [Speech to Text (⭐33)](https://github.com/menip/godot_speech_to_text) - Captures the user's microphone input and converts it to text.
 
@@ -88,7 +88,7 @@
 
 ### Misc / Other
 
-*   [FingerprintJS (⭐21k)](https://github.com/fingerprintjs/fingerprintjs) - Makes a visitor identifier from a browser fingerprint that stays the same in incognito mode and when browser data is purged.
+*   [FingerprintJS (⭐22k)](https://github.com/fingerprintjs/fingerprintjs) - Makes a visitor identifier from a browser fingerprint that stays the same in incognito mode and when browser data is purged.
 
 ## [12. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

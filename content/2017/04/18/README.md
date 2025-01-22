@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 18, 2017
 
-7 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -20,7 +20,7 @@
 
 ### Feature Flags and Toggles
 
-*   [flippant (⭐104)](https://github.com/sorentwo/flippant) - Feature flipping for the Elixir world.
+*   [flippant (⭐107)](https://github.com/sorentwo/flippant) - Feature flipping for the Elixir world.
 *   [molasses (⭐77)](https://github.com/securingsincity/molasses) - A feature toggle library using redis or SQL (using Ecto) as a backing service.
 
 ### Geolocation
@@ -33,11 +33,11 @@
 
 ### ORM and Datamapping
 
-*   [ecto\_rut (⭐112)](https://github.com/sheharyarn/ecto_rut) - Simple and Powerful Ecto Shortcuts to simplify and speed up development.
+*   [ecto\_rut (⭐113)](https://github.com/sheharyarn/ecto_rut) - Simple and Powerful Ecto Shortcuts to simplify and speed up development.
 
 ### Release Management
 
-*   [mix\_docker (⭐335)](https://github.com/Recruitee/mix_docker) - Put your Elixir app production release inside minimal docker image.
+*   [mix\_docker (⭐333)](https://github.com/Recruitee/mix_docker) - Put your Elixir app production release inside minimal docker image.
 
 ## [3. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
@@ -57,17 +57,11 @@
 
 *   [WireEdit](https://wireedit.com/): WireEdit is a free desktop WYSIWYG editor for network packets. It allows editing any stack layer as "rich text" without having any knowledge of packets syntax and encoding rules. The input and output file format is Pcap.
 
-## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / UI Components
-
-*   [vudal (⭐38)](https://github.com/Egorvah/vudal) - Modal window for vue.js
-
-## [7. Awesome Math](/content/rossant/awesome-math/README.md)
+## [6. Awesome Math](/content/rossant/awesome-math/README.md)
 
 ### Probability and Statistics / Probability Theory
 
-*   📝 [Probability and Statistics Cookbook (⭐2.2k)](https://github.com/mavam/stat-cookbook/releases/download/0.2.3/stat-cookbook.pdf) - Matthias Vallentin (UC Berkeley)
+*   📝 [Probability and Statistics Cookbook (⭐2.3k)](https://github.com/mavam/stat-cookbook/releases/download/0.2.3/stat-cookbook.pdf) - Matthias Vallentin (UC Berkeley)
 
 ---
 

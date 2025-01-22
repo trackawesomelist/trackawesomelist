@@ -22,7 +22,7 @@
 
 ### Tools / Java
 
-*   [darcy (⭐22)](https://github.com/darcy-framework/darcy-webdriver) - Page object framework for structured, maintainable automation.
+*   [darcy (⭐24)](https://github.com/darcy-framework/darcy-webdriver) - Page object framework for structured, maintainable automation.
 
 ## [4. Amas](/content/sindresorhus/amas/README.md)
 

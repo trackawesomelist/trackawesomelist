@@ -88,7 +88,7 @@
 
 ### Tools / Community providers
 
-*   [yor (⭐807)](https://github.com/bridgecrewio/yor) - Automatically tag and trace infrastructure as code frameworks (Terraform, Cloudformation, and Serverless).
+*   [yor (⭐838)](https://github.com/bridgecrewio/yor) - Automatically tag and trace infrastructure as code frameworks (Terraform, Cloudformation, and Serverless).
 
 ## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -106,16 +106,16 @@
 
 ### R / Trading
 
-*   [blotter (⭐113)](https://github.com/braverock/blotter) - Transaction infrastructure for defining instruments, transactions, portfolios and accounts for trading systems and simulation. Provides portfolio support for multi-asset class and multi-currency portfolios. Actively maintained and developed.
+*   [blotter (⭐116)](https://github.com/braverock/blotter) - Transaction infrastructure for defining instruments, transactions, portfolios and accounts for trading systems and simulation. Provides portfolio support for multi-asset class and multi-currency portfolios. Actively maintained and developed.
 
 ### R / Factor Analysis
 
-*   [FactorAnalytics (⭐66)](https://github.com/braverock/FactorAnalytics) - The FactorAnalytics package contains fitting and analysis methods for the three main types of factor models used in conjunction with portfolio construction, optimization and risk management, namely fundamental factor models, time series factor models and statistical factor models.
-*   [Expected Returns (⭐40)](https://github.com/JustinMShea/ExpectedReturns) - Solutions for enhancing portfolio diversification and replications of seminal papers with R, most of which are discussed in one of the best investment references of the recent decade, Expected Returns: An Investors Guide to Harvesting Market Rewards by Antti Ilmanen.
+*   [FactorAnalytics (⭐68)](https://github.com/braverock/FactorAnalytics) - The FactorAnalytics package contains fitting and analysis methods for the three main types of factor models used in conjunction with portfolio construction, optimization and risk management, namely fundamental factor models, time series factor models and statistical factor models.
+*   [Expected Returns (⭐41)](https://github.com/JustinMShea/ExpectedReturns) - Solutions for enhancing portfolio diversification and replications of seminal papers with R, most of which are discussed in one of the best investment references of the recent decade, Expected Returns: An Investors Guide to Harvesting Market Rewards by Antti Ilmanen.
 
 ### CSharp / Data Visualization
 
-*   [TDAmeritrade.DotNetCore (⭐55)](https://github.com/NVentimiglia/TDAmeritrade.DotNetCore) - Free, open-source .NET Client for the TD Ameritrade Trading Platform. Helps developers integrate TD Ameritrade API into custom trading solutions.
+*   [TDAmeritrade.DotNetCore (⭐54)](https://github.com/NVentimiglia/TDAmeritrade.DotNetCore) - Free, open-source .NET Client for the TD Ameritrade Trading Platform. Helps developers integrate TD Ameritrade API into custom trading solutions.
 
 ## [12. Awesome Golem](/content/golemfactory/awesome-golem/README.md)
 
@@ -197,19 +197,19 @@
 
 ### Finite Elements
 
-*   [scikit-fem (⭐416)](https://github.com/kinnala/scikit-fem) - Simple finite element assemblers.
+*   [scikit-fem (⭐513)](https://github.com/kinnala/scikit-fem) - Simple finite element assemblers.
     (Python, BSD/GPL, GitHub)
 
 ### Visualization / Mesh tools
 
 *   [TTK](https://topology-tool-kit.github.io/) - Topological data analysis and visualization.
-    (C++/Python, BSD, [GitHub (⭐393)](https://github.com/topology-tool-kit/ttk))
+    (C++/Python, BSD, [GitHub (⭐423)](https://github.com/topology-tool-kit/ttk))
 
 ## [14. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
 ### Display / LED Segment
 
-*   [TM74HC595 (⭐5)](https://github.com/Sakartu/TM74HC595) - Driver for shift register-controlled 5 pin display modules.
+*   [TM74HC595 (⭐6)](https://github.com/Sakartu/TM74HC595) - Driver for shift register-controlled 5 pin display modules.
 
 ### IO / DAC
 
@@ -219,7 +219,7 @@
 
 ### Continuous Integration / Apache License
 
-*   [ada-actions (⭐19)](https://github.com/ada-actions/toolchain) - Ada Toolchains for GitHub Actions.
+*   [ada-actions (⭐20)](https://github.com/ada-actions/toolchain) - Ada Toolchains for GitHub Actions.
 
 ## [16. Awesome Security](/content/sbilly/awesome-security/README.md)
 
@@ -256,17 +256,17 @@
 
 ### Third Party APIs
 
-*   [tradehub (⭐3)](https://github.com/anhmv/tradehub-elixir) - An Elixir client library for the Tradehub blockchain.
+*   [tradehub (⭐4)](https://github.com/anhmv/tradehub-elixir) - An Elixir client library for the Tradehub blockchain.
 
 ## [21. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [tanvirtin/monokai.nvim (⭐346)](https://github.com/tanvirtin/monokai.nvim) - Monokai theme written in Lua.
+*   [tanvirtin/monokai.nvim (⭐355)](https://github.com/tanvirtin/monokai.nvim) - Monokai theme written in Lua.
 
 ### Git / Diagnostics
 
-*   [tanvirtin/vgit.nvim (⭐580)](https://github.com/tanvirtin/vgit.nvim) - Visual Git Plugin to enhance your git experience.
+*   [tanvirtin/vgit.nvim (⭐603)](https://github.com/tanvirtin/vgit.nvim) - Visual Git Plugin to enhance your Git experience.
 
 ---
 

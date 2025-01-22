@@ -17,13 +17,13 @@
 
 ### Plugins
 
-*   [tmux-open-nvim (⭐43)](https://github.com/trevarj/tmux-open-nvim) - A plugin to help open files in a running instance of Neovim. Pairs well with tmux-fingers or tmux-open.
+*   [tmux-open-nvim (⭐54)](https://github.com/trevarj/tmux-open-nvim) - A plugin to help open files in a running instance of Neovim. Pairs well with tmux-fingers or tmux-open.
 
 ## [3. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
-### Managed Terraform Platforms :heavy_dollar_sign: / IDE
+### Self-hosted Terraform Platforms / IDE
 
-*   [Terrateam](https://terrateam.io) - Terraform GitOps with cost estimation, static analysis, access controls, drift detection, and custom workflows. :heavy\_dollar\_sign:
+*   [Terrateam](https://terrateam.io) - Open-source alternative to Terraform Cloud/Enterprise, GitOps-first with native GitHub integration and designed for scale, security, and reliability.
 
 ## [4. Awesome Go](/content/avelino/awesome-go/README.md)
 
@@ -35,30 +35,30 @@
 
 ### Applications / Database
 
-*   [DB3 Network (⭐350)](https://github.com/dbpunk-labs/db3) - DB3 is a community-driven blockchain layer2 decentralized database network ![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/dbpunk-labs/db3/ci.yml?branch=main\&style=flat-square)
+*   [DB3 Network (⭐372)](https://github.com/dbpunk-labs/db3) - DB3 is a community-driven blockchain layer2 decentralized database network ![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/dbpunk-labs/db3/ci.yml?branch=main\&style=flat-square)
 
 ### Applications / Utilities
 
-*   [nix-community/nurl (⭐430)](https://github.com/nix-community/nurl) \[[nurl](https://crates.io/crates/nurl)] - Generate Nix fetcher calls from repository URLs [![build-badge](https://github.com/nix-community/nurl/actions/workflows/ci.yml/badge.svg)](https://github.com/nix-community/nurl/actions/workflows/ci.yml)
+*   [nix-community/nurl (⭐508)](https://github.com/nix-community/nurl) \[[nurl](https://crates.io/crates/nurl)] - Generate Nix fetcher calls from repository URLs [![build-badge](https://github.com/nix-community/nurl/actions/workflows/ci.yml/badge.svg)](https://github.com/nix-community/nurl/actions/workflows/ci.yml)
 
 ### Development tools / Build system
 
 *   [Nix](https://nixos.org/)
-    *   [nix-community/fenix (⭐636)](https://github.com/nix-community/fenix) - Rust toolchains and rust analyzer nightly for nix [![build-badge](https://github.com/nix-community/fenix/actions/workflows/ci.yml/badge.svg)](https://github.com/nix-community/fenix/actions/workflows/ci.yml)
+    *   [nix-community/fenix (⭐744)](https://github.com/nix-community/fenix) - Rust toolchains and rust analyzer nightly for nix [![build-badge](https://github.com/nix-community/fenix/actions/workflows/ci.yml/badge.svg)](https://github.com/nix-community/fenix/actions/workflows/ci.yml)
 
 ### Libraries / Cryptography
 
-*   [facebook/opaque-ke (⭐289)](https://github.com/facebook/opaque-ke) - Implementation of the recent [OPAQUE](https://datatracker.ietf.org/doc/draft-krawczyk-cfrg-opaque/) password-authenticated key exchange. [![build badge](https://github.com/facebook/opaque-ke/workflows/Rust%20CI/badge.svg?branch=master)](https://github.com/facebook/opaque-ke)
+*   [facebook/opaque-ke (⭐316)](https://github.com/facebook/opaque-ke) - Implementation of the recent [OPAQUE](https://datatracker.ietf.org/doc/draft-krawczyk-cfrg-opaque/) password-authenticated key exchange. [![build badge](https://github.com/facebook/opaque-ke/workflows/Rust%20CI/badge.svg?branch=master)](https://github.com/facebook/opaque-ke)
 
 ### Libraries / Parsing
 
-*   [rust-bakery/nom (⭐9.3k)](https://github.com/rust-bakery/nom) - parser combinator library
+*   [rust-bakery/nom (⭐9.6k)](https://github.com/rust-bakery/nom) - parser combinator library
 
 ## [6. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 
 ### Deployment / NLP
 
-*   [gradio (⭐29k)](https://github.com/gradio-app/gradio) - Create UIs for your machine learning model in Python in 3 minutes.
+*   [gradio (⭐33k)](https://github.com/gradio-app/gradio) - Create UIs for your machine learning model in Python in 3 minutes.
 
 ## [7. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
 
@@ -68,7 +68,7 @@
 
 ### Clearnet & Anonymous Networking / Crypto
 
-*   [Split Bitcoin Wallet (⭐254)](https://github.com/Qubes-Community/Contents/blob/master/docs/security/split-bitcoin.md) - A "split" bitcoin wallet is a strategy of protecting your bitcoin by having your wallet split into an offline "cold storage" wallet and an online "watching only" wallet.
+*   [Split Bitcoin Wallet (⭐258)](https://github.com/Qubes-Community/Contents/blob/master/docs/security/split-bitcoin.md) - A "split" bitcoin wallet is a strategy of protecting your bitcoin by having your wallet split into an offline "cold storage" wallet and an online "watching only" wallet.
 
 ### Kernels / Microkernels
 

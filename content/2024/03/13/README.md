@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 13, 2024
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -20,22 +20,22 @@
 
 ### Containers
 
-*   [fixed-containers (⭐360)](https://github.com/teslamotors/fixed-containers) - Header-only C++20 library that provides fixed capacity constexpr containers. \[MIT]
+*   [fixed-containers (⭐398)](https://github.com/teslamotors/fixed-containers) - Header-only C++20 library that provides fixed capacity constexpr containers. \[MIT]
 
 ## [3. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications
 
-*   [defguard (⭐908)](https://github.com/defguard/defguard) - Enterprise Open Source SSO & WireGuard VPN with real 2FA/MFA
+*   [defguard (⭐1.7k)](https://github.com/defguard/defguard) - Enterprise Open Source SSO & WireGuard VPN with real 2FA/MFA
 
 ### Applications / Emulators
 
 *   iOS
-    *   [touchHLE (⭐2.6k)](https://github.com/touchHLE/touchHLE) - High-level emulator for iPhone OS apps
+    *   [touchHLE (⭐2.8k)](https://github.com/touchHLE/touchHLE) - High-level emulator for iPhone OS apps
 
 ### Applications / Utilities
 
-*   [str4d/rage (⭐2.5k)](https://github.com/str4d/rage) \[[rage](https://crates.io/crates/rage)] - Rust implementation of [age (⭐17k)](https://github.com/FiloSottile/age).
+*   [str4d/rage (⭐2.8k)](https://github.com/str4d/rage) \[[rage](https://crates.io/crates/rage)] - Rust implementation of [age (⭐18k)](https://github.com/FiloSottile/age).
 
 ## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -47,7 +47,7 @@
 
 ### AI / Diagnostics
 
-*   [olimorris/codecompanion.nvim (⭐295)](https://github.com/olimorris/codecompanion.nvim) - Copilot Chat like experience, complete with inline assistant. Supports Anthropic, Gemini, Ollama and OpenAI.
+*   [olimorris/codecompanion.nvim (⭐1.8k)](https://github.com/olimorris/codecompanion.nvim) - Copilot Chat like experience, complete with inline assistant. Supports Anthropic, Gemini, Ollama and OpenAI.
 
 ## [6. Awesome Opentofu](/content/virtualroot/awesome-opentofu/README.md)
 
@@ -65,7 +65,7 @@
 
 ### Software / Make your life easier
 
-*   [GoodLooks (⭐30)](https://github.com/dashcamio/goodlooks) - Visually validate Playwright tests using AI vision instead of flaky selectors.
+*   [GoodLooks (⭐41)](https://github.com/dashcamio/goodlooks) - Visually validate Playwright tests using AI vision instead of flaky selectors.
 
 ## [9. Awesome Low Code](/content/zenitysec/awesome-low-code/README.md)
 
@@ -77,23 +77,17 @@
 
 *   \[Tabidoo (<https://tabidoo.cloud/>) - Powerful Low Code platform, with mature workflows, rights management and integrations (REST API). Many predefined templates. No charge per user.
 
-## [10. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
-
-### Projects / Messaging
-
-*   [EMQX (⭐13k) (⭐14k)](https://github.com/emqx/emqx) - A high-performance, scalable, and reliable open-source MQTT broker for IoT, IIoT, and connected vehicles.
-
-## [11. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [10. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### Ethics, Philosophical questions and Discussions about Generative AI
 
 *   [Tracking AI](https://trackingai.org/): Monitoring Bias in Artificial Intelligence Chatbots
 
-## [12. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/README.md)
+## [11. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/README.md)
 
 ### External Services
 
-*   [solvedac-box (⭐15)](https://github.com/abiriadev/solvedac-box) - Update a pinned gist to show [solved.ac](https://solved.ac) profile.
+*   [solvedac-box (⭐19)](https://github.com/abiriadev/solvedac-box) - Update a pinned gist to show [solved.ac](https://solved.ac) profile.
 
 ---
 

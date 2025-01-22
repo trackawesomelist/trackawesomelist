@@ -20,7 +20,7 @@ Mentions many ways to make `/dev/urandom` fail on Linux/BSD.
 
 ### Machine Learning
 
-*   [MeTA (⭐691)](https://github.com/meta-toolkit/meta) - A modern C++ data sciences toolkit. \[MIT] [website](https://meta-toolkit.org/)
+*   [MeTA (⭐702)](https://github.com/meta-toolkit/meta) - A modern C++ data sciences toolkit. \[MIT] [website](https://meta-toolkit.org/)
 
 ## [3. Awesome Gametalks](/content/hzoo/awesome-gametalks/README.md)
 
@@ -32,7 +32,7 @@ Mentions many ways to make `/dev/urandom` fail on Linux/BSD.
 
 ### Python / General-Purpose Machine Learning
 
-*   [mlxtend (⭐4.8k)](https://github.com/rasbt/mlxtend) - A library consisting of useful tools for data science and machine learning tasks.
+*   [mlxtend (⭐4.9k)](https://github.com/rasbt/mlxtend) - A library consisting of useful tools for data science and machine learning tasks.
 
 ---
 

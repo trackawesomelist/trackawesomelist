@@ -10,7 +10,7 @@
 
 ### Queue
 
-*   [SlimMessageBus (⭐458)](https://github.com/zarusz/SlimMessageBus) - Lightweight message bus with transports for popular messaging systems (Kafka, Redis, Azure Service Bus, and others) and in-memory communication.
+*   [SlimMessageBus (⭐491)](https://github.com/zarusz/SlimMessageBus) - Lightweight message bus with transports for popular messaging systems (Kafka, Redis, Azure Service Bus, and others) and in-memory communication.
 
 ## [2. Awesome Mdbootstrap](/content/mdbootstrap/awesome-mdbootstrap/README.md)
 
@@ -44,21 +44,21 @@
 
 ### Peripheral Access Crates / Silicon Labs
 
-*   [`efm32g-pac`](https://crates.io/crates/efm32g-pac) - ![crates.io](https://img.shields.io/crates/v/efm32g-pac)
-*   [`efm32gg-pac`](https://crates.io/crates/efm32gg-pac) - ![crates.io](https://img.shields.io/crates/v/efm32gg-pac)
-*   [`efm32gg11b-pac`](https://crates.io/crates/efm32gg11b-pac) - ![crates.io](https://img.shields.io/crates/v/efm32gg11b-pac)
-*   [`efm32gg12b-pac`](https://crates.io/crates/efm32gg12b-pac) - ![crates.io](https://img.shields.io/crates/v/efm32gg12b-pac)
-*   [`efm32hg-pac`](https://crates.io/crates/efm32hg-pac) - ![crates.io](https://img.shields.io/crates/v/efm32hg-pac)
-*   [`efm32jg1b-pac`](https://crates.io/crates/efm32jg1b-pac) - ![crates.io](https://img.shields.io/crates/v/efm32jg1b-pac)
-*   [`efm32jg12b-pac`](https://crates.io/crates/efm32jg12b-pac) - ![crates.io](https://img.shields.io/crates/v/efm32jg12b-pac)
-*   [`efm32lg-pac`](https://crates.io/crates/efm32lg-pac) - ![crates.io](https://img.shields.io/crates/v/efm32lg-pac)
-*   [`efm32pg-pac`](https://crates.io/crates/efm32pg-pac) - ![crates.io](https://img.shields.io/crates/v/efm32pg-pac)
-*   [`efm32pg22-pac`](https://crates.io/crates/efm32pg22-pac) - ![crates.io](https://img.shields.io/crates/v/efm32pg22-pac)
-*   [`efm32pg23-pac`](https://crates.io/crates/efm32pg23-pac) - ![crates.io](https://img.shields.io/crates/v/efm32pg23-pac)
-*   [`efm32tg-pac`](https://crates.io/crates/efm32tg-pac) - ![crates.io](https://img.shields.io/crates/v/efm32tg-pac)
-*   [`efm32tg11b-pac`](https://crates.io/crates/efm32tg11b-pac) - ![crates.io](https://img.shields.io/crates/v/efm32tg11b-pac)
-*   [`efm32wg-pac`](https://crates.io/crates/efm32wg-pac) - ![crates.io](https://img.shields.io/crates/v/efm32wg-pac)
-*   [`efm32zg-pac`](https://crates.io/crates/efm32zg-pac) - ![crates.io](https://img.shields.io/crates/v/efm32zg-pac)
+*   [`efm32g-pac`](https://crates.io/crates/efm32g-pac) - [![crates.io](https://img.shields.io/crates/v/efm32g-pac)](https://crates.io/crates/efm32g-pac)
+*   [`efm32gg-pac`](https://crates.io/crates/efm32gg-pac) - [![crates.io](https://img.shields.io/crates/v/efm32gg-pac)](https://crates.io/crates/efm32gg-pac)
+*   [`efm32gg11b-pac`](https://crates.io/crates/efm32gg11b-pac) - [![crates.io](https://img.shields.io/crates/v/efm32gg11b-pac)](https://crates.io/crates/efm32gg11b-pac)
+*   [`efm32gg12b-pac`](https://crates.io/crates/efm32gg12b-pac) - [![crates.io](https://img.shields.io/crates/v/efm32gg12b-pac)](https://crates.io/crates/efm32gg12b-pac)
+*   [`efm32hg-pac`](https://crates.io/crates/efm32hg-pac) - [![crates.io](https://img.shields.io/crates/v/efm32hg-pac)](https://crates.io/crates/efm32hg-pac)
+*   [`efm32jg1b-pac`](https://crates.io/crates/efm32jg1b-pac) - [![crates.io](https://img.shields.io/crates/v/efm32jg1b-pac)](https://crates.io/crates/efm32jg1b-pac)
+*   [`efm32jg12b-pac`](https://crates.io/crates/efm32jg12b-pac) - [![crates.io](https://img.shields.io/crates/v/efm32jg12b-pac)](https://crates.io/crates/efm32jg12b-pac)
+*   [`efm32lg-pac`](https://crates.io/crates/efm32lg-pac) - [![crates.io](https://img.shields.io/crates/v/efm32lg-pac)](https://crates.io/crates/efm32lg-pac)
+*   [`efm32pg-pac`](https://crates.io/crates/efm32pg-pac) - [![crates.io](https://img.shields.io/crates/v/efm32pg-pac)](https://crates.io/crates/efm32pg-pac)
+*   [`efm32pg22-pac`](https://crates.io/crates/efm32pg22-pac) - [![crates.io](https://img.shields.io/crates/v/efm32pg22-pac)](https://crates.io/crates/efm32pg22-pac)
+*   [`efm32pg23-pac`](https://crates.io/crates/efm32pg23-pac) - [![crates.io](https://img.shields.io/crates/v/efm32pg23-pac)](https://crates.io/crates/efm32pg23-pac)
+*   [`efm32tg-pac`](https://crates.io/crates/efm32tg-pac) - [![crates.io](https://img.shields.io/crates/v/efm32tg-pac)](https://crates.io/crates/efm32tg-pac)
+*   [`efm32tg11b-pac`](https://crates.io/crates/efm32tg11b-pac) - [![crates.io](https://img.shields.io/crates/v/efm32tg11b-pac)](https://crates.io/crates/efm32tg11b-pac)
+*   [`efm32wg-pac`](https://crates.io/crates/efm32wg-pac) - [![crates.io](https://img.shields.io/crates/v/efm32wg-pac)](https://crates.io/crates/efm32wg-pac)
+*   [`efm32zg-pac`](https://crates.io/crates/efm32zg-pac) - [![crates.io](https://img.shields.io/crates/v/efm32zg-pac)](https://crates.io/crates/efm32zg-pac)
 
 ## [5. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
@@ -70,7 +70,7 @@
 
 ### SaaS Tools / Symfony2
 
-*   [Nango (⭐4.5k)](https://github.com/NangoHQ/nango) - Native integrations framework to consume REST APIs (open-source).
+*   [Nango (⭐4.9k)](https://github.com/NangoHQ/nango) - Native integrations framework to consume REST APIs (open-source).
 
 ## [7. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 

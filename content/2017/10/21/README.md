@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 21, 2017
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -150,25 +150,19 @@
 
 *   [A crash course in LinkedIn's global site operations](https://engineering.linkedin.com/day-life/crash-course-linkedins-global-site-operations)
 
-## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / Utilities
-
-*   [vue-configuration (⭐38)](https://github.com/alex-oleshkevich/vue-config) - A static configuration object for Vue.js
-
-## [6. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
+## [5. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
 
 ### Clients
 
 *   [Hulaaki (⭐114)](https://github.com/suvash/hulaaki) - An Elixir library for clients communicating with MQTT brokers.
 
-## [7. Awesome Ionic](/content/candelibas/awesome-ionic/README.md)
+## [6. Awesome Ionic](/content/candelibas/awesome-ionic/README.md)
 
 ### Video Tutorials
 
 *   [Learn Ionic 3 From Scratch](https://www.youtube.com/watch?v=JcEGTektejA\&list=PLYxzS__5yYQng-XnJhB21Jc7NW1OIaqct)
 
-## [8. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
+## [7. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
 
 ### Android
 
@@ -180,7 +174,7 @@
 
 
 
-## [9. Awesome4girls](/content/cristianoliveira/awesome4girls/README.md)
+## [8. Awesome4girls](/content/cristianoliveira/awesome4girls/README.md)
 
 ### Initiatives/Programs / Academy/Camp
 

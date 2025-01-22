@@ -10,13 +10,13 @@
 
 ### Game
 
-*   [osu!framework (⭐1.6k)](https://github.com/ppy/osu-framework) - A 2D application/game written with amazing games in mind.
+*   [osu!framework (⭐1.7k)](https://github.com/ppy/osu-framework) - A 2D application/game written with amazing games in mind.
 
 ## [2. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
 
 ### Contents / Utilities
 
-*   [pgMonitor (⭐530)](https://github.com/CrunchyData/pgmonitor) - Postgres metrics collection and visualization that can be deployed to bare metal, virtual machines, or Kubernetes.
+*   [pgMonitor (⭐559)](https://github.com/CrunchyData/pgmonitor) - Postgres metrics collection and visualization that can be deployed to bare metal, virtual machines, or Kubernetes.
 
 ### Contents / PaaS *(PostgreSQL as a Service)*
 
@@ -62,11 +62,11 @@
 
 ### Component bundles
 
-*   [Majorsoft Blazor Components (⭐317)](https://github.com/majorimi/blazor-components) - ![GitHub last commit](https://img.shields.io/github/last-commit/majorimi/blazor-components) ![GitHub Repo stars](https://img.shields.io/github/stars/majorimi/blazor-components) Majorsoft Majorsoft Blazor Components is a set of UI Components and other useful Extensions for Blazor applications. All components are free and available on NuGet. The main goal of this project is to provide an easy to use, feature reach set of customizable components with other useful extensions. [NuGet](https://www.nuget.org/profiles/Blazor.Components) [Demo app](https://blazorextensions.z6.web.core.windows.net/) [Docs (⭐317)](https://github.com/majorimi/blazor-components/tree/master/.github/docs).
+*   [Majorsoft Blazor Components (⭐328)](https://github.com/majorimi/blazor-components) - ![GitHub last commit](https://img.shields.io/github/last-commit/majorimi/blazor-components) ![GitHub Repo stars](https://img.shields.io/github/stars/majorimi/blazor-components) Majorsoft Majorsoft Blazor Components is a set of UI Components and other useful Extensions for Blazor applications. All components are free and available on NuGet. The main goal of this project is to provide an easy to use, feature reach set of customizable components with other useful extensions. [NuGet](https://www.nuget.org/profiles/Blazor.Components) [Demo app](https://blazorextensions.z6.web.core.windows.net/) [Docs (⭐328)](https://github.com/majorimi/blazor-components/tree/master/.github/docs).
 
 ### 2D/3D Rendering engines / Others
 
-*   [Blazor File Drop Zone (⭐19)](https://github.com/jsakamoto/Toolbelt.Blazor.FileDropZone/) - ![last commit](https://img.shields.io/github/last-commit/jsakamoto/Toolbelt.Blazor.FileDropZone?style=flat-square\&cacheSeconds=86400) Surround an "input type=file" element by this Blazor component to making a zone that accepts drag and drops files ([Demo](https://jsakamoto.github.io/Toolbelt.Blazor.FileDropZone/)).
+*   [Blazor File Drop Zone (⭐22)](https://github.com/jsakamoto/Toolbelt.Blazor.FileDropZone/) - ![last commit](https://img.shields.io/github/last-commit/jsakamoto/Toolbelt.Blazor.FileDropZone?style=flat-square\&cacheSeconds=86400) Surround an "input type=file" element by this Blazor component to making a zone that accepts drag and drops files ([Demo](https://jsakamoto.github.io/Toolbelt.Blazor.FileDropZone/)).
 
 ## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -89,7 +89,7 @@
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-shared-modules (⭐27)](https://github.com/zheeeng/vite-plugin-shared-modules) - Share node\_modules in monorepos.
+*   [vite-plugin-shared-modules (⭐31)](https://github.com/zheeeng/vite-plugin-shared-modules) - Share node\_modules in monorepos.
 
 ## [12. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
 

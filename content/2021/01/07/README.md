@@ -10,16 +10,16 @@
 
 ### Software / File Transfer - Web-based File Managers
 
-*   [filebrowser](https://filebrowser.org/) - Web File Browser with a Material Design web interface. ([Source Code (⭐25k)](https://github.com/filebrowser/filebrowser)) `Apache-2.0` `Go`
+*   [filebrowser](https://filebrowser.org/) - Web File Browser with a Material Design web interface. ([Source Code (⭐28k)](https://github.com/filebrowser/filebrowser)) `Apache-2.0` `Go`
 
 ## [2. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
 ### Utils / Other Tools
 
-*   [FastAPI MQTT (⭐251)](https://github.com/sabuhish/fastapi-mqtt) - An extension for the MQTT protocol.
-*   [Starlette Context (⭐433)](https://github.com/tomwojcik/starlette-context) - Allows you to store and access the request data anywhere in your project, useful for logging.
-*   [Starlette OpenTracing (⭐66)](https://github.com/acidjunk/starlette-opentracing) - Opentracing support for Starlette and FastAPI.
-*   [Starlette Prometheus (⭐272)](https://github.com/perdy/starlette-prometheus) - Prometheus integration for FastAPI and Starlette.
+*   [FastAPI MQTT (⭐271)](https://github.com/sabuhish/fastapi-mqtt) - An extension for the MQTT protocol.
+*   [Starlette Context (⭐461)](https://github.com/tomwojcik/starlette-context) - Allows you to store and access the request data anywhere in your project, useful for logging.
+*   [Starlette OpenTracing (⭐65)](https://github.com/acidjunk/starlette-opentracing) - Opentracing support for Starlette and FastAPI.
+*   [Starlette Prometheus (⭐282)](https://github.com/perdy/starlette-prometheus) - Prometheus integration for FastAPI and Starlette.
 
 ## [3. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
 
@@ -31,7 +31,7 @@
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
-*   [CAEs for Data Assimilation (⭐34)](https://github.com/julianmack/Data_Assimilation) - Convolutional autoencoders for 3D image/field compression applied to reduced order [Data Assimilation](https://en.wikipedia.org/wiki/Data_assimilation).
+*   [CAEs for Data Assimilation (⭐38)](https://github.com/julianmack/Data_Assimilation) - Convolutional autoencoders for 3D image/field compression applied to reduced order [Data Assimilation](https://en.wikipedia.org/wiki/Data_assimilation).
 
 ## [5. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
@@ -43,7 +43,7 @@
 
 ### Projects
 
-*   [website-wasm (⭐56)](https://github.com/kamiyaa/website-wasm) - My personal website written in Rust via Yew/Wasm.
+*   [website-wasm (⭐59)](https://github.com/kamiyaa/website-wasm) - My personal website written in Rust via Yew/Wasm.
 
 ## [7. Awesome List](/content/sindresorhus/awesome/README.md)
 
@@ -55,11 +55,11 @@
 
 ### Official Resources
 
-*   [Release Notes (⭐67k)](https://github.com/vitejs/vite/blob/main/packages/vite/CHANGELOG.md)
+*   [Release Notes (⭐70k)](https://github.com/vitejs/vite/blob/main/packages/vite/CHANGELOG.md)
 
 ### Open Source / Community
 
-*   [VitePress (⭐12k)](https://github.com/vuejs/vitepress) - Static Site Generator powered by Vite and Vue.
+*   [VitePress (⭐14k)](https://github.com/vuejs/vitepress) - Static Site Generator powered by Vite and Vue.
 
 ## [9. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
@@ -79,7 +79,7 @@
 
 ### Modules / Static site generator
 
-*   [lume (⭐1.8k)](https://github.com/lumeland/lume) - A static site generator similar to Jekyll or Eleventy with support for multiple file formats.
+*   [lume (⭐1.9k)](https://github.com/lumeland/lume) - A static site generator similar to Jekyll or Eleventy with support for multiple file formats.
 
 ### Modules / Utils
 
@@ -87,7 +87,7 @@
 
 ### Showcases / XML
 
-*   [Deno Rest (⭐147)](https://github.com/vicky-gonsalves/deno_rest) - A Boilerplate for deno RESTful apis.
+*   [Deno Rest (⭐152)](https://github.com/vicky-gonsalves/deno_rest) - A Boilerplate for deno RESTful apis.
 *   [UsingDeno](https://usingdeno.com) - Curated list of Web Applications & Projects using Deno 🦕.
 
 ---

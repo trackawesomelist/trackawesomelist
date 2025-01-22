@@ -14,7 +14,7 @@
 
 ### Audio and Sounds
 
-*   [synthex (⭐44)](https://github.com/bitgamma/synthex) - A signal synthesis library.
+*   [synthex (⭐45)](https://github.com/bitgamma/synthex) - A signal synthesis library.
 
 ### Authentication
 
@@ -35,7 +35,7 @@
 
 ### Framework Components
 
-*   [exdjango (⭐20)](https://github.com/nicksanders/exdjango) - A few elixir libraries for working with django.
+*   [exdjango (⭐21)](https://github.com/nicksanders/exdjango) - A few elixir libraries for working with django.
 
 ### HTTP
 
@@ -55,7 +55,7 @@
 
 ### OTP
 
-*   [erlexec (⭐525)](https://github.com/saleyn/erlexec) - Execute and control OS processes from Erlang/OTP.
+*   [erlexec (⭐552)](https://github.com/saleyn/erlexec) - Execute and control OS processes from Erlang/OTP.
 
 ### Queue
 
@@ -94,7 +94,7 @@
 
 ### XML
 
-*   [AEXML (⭐993)](https://github.com/tadija/AEXML) - xml wrapper.
+*   [AEXML (⭐1k)](https://github.com/tadija/AEXML) - xml wrapper.
 
 ### Images / Barcode
 

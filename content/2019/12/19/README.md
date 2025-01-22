@@ -10,7 +10,7 @@
 
 ### Collection of Actions / Docker Container Actions
 
-*   [Octions - GitHub Actions for GitHub REST API (⭐33)](https://github.com/maxkomarychev/octions)
+*   [Octions - GitHub Actions for GitHub REST API (⭐38)](https://github.com/maxkomarychev/octions)
 
 ## [2. Awesome Ssh](/content/moul/awesome-ssh/README.md)
 

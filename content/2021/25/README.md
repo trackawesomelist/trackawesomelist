@@ -10,13 +10,13 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [Sklearn-genetic-opt (⭐293)](https://github.com/rodrigo-arenas/Sklearn-genetic-opt): An AutoML package for hyperparameters tuning using evolutionary algorithms, with built-in callbacks, plotting, remote logging and more.
+*   [Sklearn-genetic-opt (⭐316)](https://github.com/rodrigo-arenas/Sklearn-genetic-opt): An AutoML package for hyperparameters tuning using evolutionary algorithms, with built-in callbacks, plotting, remote logging and more.
 
 ## [2. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### External Links / Wikis
 
-*   [Awesome Sysadmin (⭐24k)](https://github.com/awesome-foss/awesome-sysadmin) - Curated list of amazingly awesome open source sysadmin resources.
+*   [Awesome Sysadmin (⭐26k)](https://github.com/awesome-foss/awesome-sysadmin) - Curated list of amazingly awesome open source sysadmin resources.
 
 ## [3. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/week/README.md)
 
@@ -64,11 +64,11 @@
 
 ### Application Frameworks
 
-*   [Fusion (⭐1.8k)](https://github.com/servicetitan/Stl.Fusion) - .NET Core and Blazor library that attempts to dramatically improve the way we implement real-time and high-load services by introducing a novel kind of "computed observables" - immutable, thread-safe, and most importantly, almost invisible for developers. [Samples 1 (⭐160)](https://github.com/servicetitan/Stl.Fusion.Samples) [Samples 2 (⭐70)](https://github.com/alexyakunin/BoardGames)
+*   [Fusion (⭐1.9k)](https://github.com/servicetitan/Stl.Fusion) - .NET Core and Blazor library that attempts to dramatically improve the way we implement real-time and high-load services by introducing a novel kind of "computed observables" - immutable, thread-safe, and most importantly, almost invisible for developers. [Samples 1 (⭐164)](https://github.com/servicetitan/Stl.Fusion.Samples) [Samples 2 (⭐71)](https://github.com/alexyakunin/BoardGames)
 
 ### Caching
 
-*   [FusionCache (⭐1.6k)](https://github.com/jodydonetti/ZiggyCreatures.FusionCache) - An easy to use, high performance and robust cache with an optional distributed 2nd layer and some advanced features, like a fail-safe mechanism and advanced timeouts management
+*   [FusionCache (⭐2.1k)](https://github.com/jodydonetti/ZiggyCreatures.FusionCache) - An easy to use, high performance and robust cache with an optional distributed 2nd layer and some advanced features, like a fail-safe mechanism and advanced timeouts management
 
 ### E-Commerce and Payments
 
@@ -84,9 +84,9 @@
 
 ### Scripting languages and interpreters for DOS
 
-*   [DOjS (⭐675)](https://github.com/SuperIlu/DOjS) - JavaScript programming environment for MS-DOS, FreeDOS or any DOS-based Windows (like 95, 98, ME).
+*   [DOjS (⭐866)](https://github.com/SuperIlu/DOjS) - JavaScript programming environment for MS-DOS, FreeDOS or any DOS-based Windows (like 95, 98, ME).
 *   [Lua for DOS](https://archive.org/details/lua5.3.5) - Online demo of Lua 5.3.5, compiled for MS-DOS on the Intel 80486 processor.
-*   [Micropython for FreeDOS (⭐22)](https://github.com/pohmelie/micropython-freedos) - FreeDOS ad-hoc module for [micropython (⭐19k)](https://github.com/micropython/micropython).
+*   [Micropython for FreeDOS (⭐25)](https://github.com/pohmelie/micropython-freedos) - FreeDOS ad-hoc module for [micropython (⭐19k)](https://github.com/micropython/micropython).
 *   [perldos](https://perldoc.perl.org/perldos) - Perl for DOS.
 *   [PythonD](http://www.caddit.net/pythond/) - Python for DOS, including multi-threading, networking and OpenGL.
 
@@ -98,13 +98,13 @@
 
 ## [12. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
-### Plugins and scripts / Godot 3.2+
+### Plugins and scripts / Godot 3
 
-*   [Godot Polygon 2D Fracture (⭐321)](https://github.com/SoloByte/godot-polygon2d-fracture) - Two simple scripts for fracturing and cutting polygons.
+*   [Godot Polygon 2D Fracture (⭐340)](https://github.com/SoloByte/godot-polygon2d-fracture) - Two simple scripts for fracturing and cutting polygons.
 
 ### GDScript/C# editor support / Godot version unknown
 
-*   [GNU Nano (⭐0)](https://github.com/GodotID/nano-gdscript) - Syntax highlighting.
+*   [GNU Nano (⭐2)](https://github.com/GodotID/nano-gdscript) - Syntax highlighting.
 
 ## [13. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
@@ -153,7 +153,7 @@
 
 ### Libraries / Rust
 
-*   [mongodb-rust-driver (⭐1.4k)](https://github.com/mongodb/mongo-rust-driver) - Official Rust driver
+*   [mongodb-rust-driver (⭐1.5k)](https://github.com/mongodb/mongo-rust-driver) - Official Rust driver
 
 ### Tools / Desktop
 
@@ -163,27 +163,27 @@
 
 ### Graph
 
-*   [CXXGraph (⭐439)](https://github.com/ZigRazor/CXXGraph) - free C++(17) graph header-only library for representation and algorithms execution. \[AGPL-3.0]
+*   [CXXGraph (⭐504)](https://github.com/ZigRazor/CXXGraph) - free C++(17) graph header-only library for representation and algorithms execution. \[AGPL-3.0]
 
 ### Math
 
-*   [NumCpp (⭐3.5k)](https://github.com/dpilger26/NumCpp) - A templatized header only C++ implementation of the Python Numpy library. \[MIT]
+*   [NumCpp (⭐3.6k)](https://github.com/dpilger26/NumCpp) - A templatized header only C++ implementation of the Python Numpy library. \[MIT]
 
 ## [20. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Tools / Community providers
 
-*   [gaia (⭐969)](https://github.com/gaia-app/gaia) - Gaia is a Terraform 🌍 UI for your modules, and self-service infrastructure 👨‍💻. :skull:
+*   [gaia (⭐1k)](https://github.com/gaia-app/gaia) - Gaia is a Terraform 🌍 UI for your modules, and self-service infrastructure 👨‍💻. :skull:
 
 ## [21. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### REST and API
 
-*   🍰 [MixerApi](https://mixerapi.com) - Streamline development of modern RESTful APIs for your team's CakePHP project.
+*   [MixerApi](https://mixerapi.com) - Streamline development of modern RESTful APIs for your team's CakePHP project.
 
 ### Development Environment
 
-*   🍰 [Galley](https://gitlab.com/amayer5125/galley) - A small Docker dev environment for CakePHP development which includes a simple command line utility.
+*   [Galley](https://gitlab.com/amayer5125/galley) - A small Docker dev environment for CakePHP development which includes a simple command line utility.
 
 ## [22. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
 
@@ -196,8 +196,8 @@
 ### Libraries / Command-line
 
 *   Data visualization
-    *   [nukesor/comfy-table (⭐904)](https://github.com/nukesor/comfy-table) \[[comfy-table](https://crates.io/crates/comfy-table)] - Beautiful dynamic tables for your cli tools. [![Build status](https://github.com/Nukesor/comfy-table/workflows/Tests/badge.svg?branch=master)](https://github.com/nukesor/comfy-table/actions)
-    *   [zhiburt/tabled (⭐1.9k)](https://github.com/zhiburt/tabled) \[[tabled](https://crates.io/crates/tabled)] - An easy to use library for pretty print tables of structs and enums. [![Build Status](https://github.com/zhiburt/tabled/actions/workflows/ci.yml/badge.svg)](https://github.com/zhiburt/tabled/actions)
+    *   [nukesor/comfy-table (⭐1k)](https://github.com/nukesor/comfy-table) \[[comfy-table](https://crates.io/crates/comfy-table)] - Beautiful dynamic tables for your cli tools. [![Build status](https://github.com/Nukesor/comfy-table/workflows/Tests/badge.svg?branch=master)](https://github.com/nukesor/comfy-table/actions)
+    *   [zhiburt/tabled (⭐2.1k)](https://github.com/zhiburt/tabled) \[[tabled](https://crates.io/crates/tabled)] - An easy to use library for pretty print tables of structs and enums. [![Build Status](https://github.com/zhiburt/tabled/actions/workflows/ci.yml/badge.svg)](https://github.com/zhiburt/tabled/actions)
 
 ## [24. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
@@ -248,11 +248,11 @@
 
 ### Driver crates / Other
 
-*   [TCN75A](https://crates.io/crates/tcn75a) - I2C - Microchip TCN75A temperature sensor - ![crates.io](https://img.shields.io/crates/v/tcn75a.svg)
+*   [TCN75A](https://crates.io/crates/tcn75a) - I2C - Microchip TCN75A temperature sensor - [![crates.io](https://img.shields.io/crates/v/tcn75a.svg)](https://crates.io/crates/tcn75a)
 
 ### Driver crates / WIP
 
-*   [SSD1320](https://crates.io/crates/ssd1320) - SPI - Graphical OLED display controller - ![crates.io](https://img.shields.io/crates/v/ssd1320.svg)
+*   [SSD1320](https://crates.io/crates/ssd1320) - SPI - Graphical OLED display controller - [![crates.io](https://img.shields.io/crates/v/ssd1320.svg)](https://crates.io/crates/ssd1320)
 
 ## [30. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
 
@@ -271,23 +271,23 @@
 ### Github Libraries / Randomized Algorithms
 
 *   Java
-    *   [by @jpa99 (⭐121)](https://github.com/jpa99/Algorithms)
-    *   [by @phishman3579 (⭐4.4k)](https://github.com/phishman3579/java-algorithms-implementation)
+    *   [by @jpa99 (⭐127)](https://github.com/jpa99/Algorithms)
+    *   [by @phishman3579 (⭐4.5k)](https://github.com/phishman3579/java-algorithms-implementation)
     *   [by @asmolich (⭐14)](https://github.com/asmolich/algorithms)
     *   [by @psjava (⭐72)](https://github.com/psjava/psjava)
-    *   [by @jeandersonbc (⭐21)](https://github.com/jeandersonbc/algorithms-and-ds)
+    *   [by @jeandersonbc (⭐22)](https://github.com/jeandersonbc/algorithms-and-ds)
     *   [by @pedrovgs (⭐2.8k)](https://github.com/pedrovgs/Algorithms)
     *   [by @Erdos-Graph-Framework (⭐127)](https://github.com/Erdos-Graph-Framework/Erdos)
-    *   [by @deepak-malik (⭐139)](https://github.com/deepak-malik/Data-Structures-In-Java)
+    *   [by @deepak-malik (⭐145)](https://github.com/deepak-malik/Data-Structures-In-Java)
     *   [by @yusufcakal (⭐24)](https://github.com/yusufcakal/algorithms)
-    *   [by @FarheenB (⭐139)](https://github.com/FarheenB/Data-Structures-and-Algorithms)
+    *   [by @FarheenB (⭐142)](https://github.com/FarheenB/Data-Structures-and-Algorithms)
 
 ## [33. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
 
 ### Tools & Software / Acquisition
 
-*   [WAIL (⭐342)](https://github.com/machawk1/wail) - A graphical user interface (GUI) atop multiple web archiving tools intended to be used as an easy way for anyone to preserve and replay web pages; [Python](https://machawk1.github.io/wail/), [Electron (⭐119)](https://github.com/n0tan3rd/wail). *(Stable)*
-*   [Warcprox (⭐361)](https://github.com/internetarchive/warcprox) - WARC-writing MITM HTTP/S proxy. *(Stable)*
+*   [WAIL (⭐356)](https://github.com/machawk1/wail) - A graphical user interface (GUI) atop multiple web archiving tools intended to be used as an easy way for anyone to preserve and replay web pages; [Python](https://machawk1.github.io/wail/), [Electron (⭐123)](https://github.com/n0tan3rd/wail). *(Stable)*
+*   [Warcprox (⭐392)](https://github.com/internetarchive/warcprox) - WARC-writing MITM HTTP/S proxy. *(Stable)*
 
 ## [34. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
@@ -382,7 +382,7 @@
 
 ### OAuth2 & OpenID / Other tools
 
-*   [Casdoor (⭐9.6k)](https://github.com/casbin/casdoor) - A UI-first centralized authentication / Single-Sign-On (SSO) platform based. Supports OIDC and OAuth 2, social logins, user management, 2FA based on Email and SMS.
+*   [Casdoor (⭐10k)](https://github.com/casbin/casdoor) - A UI-first centralized authentication / Single-Sign-On (SSO) platform based. Supports OIDC and OAuth 2, social logins, user management, 2FA based on Email and SMS.
 
 ## [45. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
@@ -406,10 +406,6 @@
 ### CMS
 
 *   [Directus](https://directus.io) — Headless CMS. A completely free and open-source platform for managing assets and database content on-prem or in the Cloud. There are no limitations or paywalls.
-
-### Email
-
-*   [fakermail.com](https://fakermail.com/) — Free, temporary email for testing with the last 100 email accounts stored.
 
 ### CDN and Protection
 
@@ -471,7 +467,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Aimeos (⭐3.9k)](https://github.com/aimeos/aimeos) - Leading Laravel eCommerce framework to build ultra fast online shops, marketplaces and complex B2B applications scalable from 1 to 1,000,000,000+ items
+*   [Aimeos (⭐4.2k)](https://github.com/aimeos/aimeos) - Leading Laravel eCommerce framework to build ultra fast online shops, marketplaces and complex B2B applications scalable from 1 to 1,000,000,000+ items
 
 ### Projects Using Vue.js / Apps/Websites
 
@@ -479,26 +475,25 @@
 
 ### Components & Libraries / Frameworks
 
-*   [Qui-max (⭐274)](https://github.com/Qvant-lab/qui-max) - A Vue 3.x Design System for Web
+*   [Qui-max (⭐277)](https://github.com/Qvant-lab/qui-max) - A Vue 3.x Design System for Web
 
 ### Components & Libraries / UI Components
 
-*   [@egjs/vue-flicking (⭐2.7k)](https://github.com/naver/egjs-flicking/tree/master/packages/vue-flicking) - It's reliable, flexible and extendable carousel for Vue.js 2 & 3.
-*   [vue3-openlayers (⭐653)](https://github.com/MelihAltintas/vue3-openlayers) - Vue 3 components to work with OpenLayers.
+*   [vue3-openlayers (⭐726)](https://github.com/MelihAltintas/vue3-openlayers) - Vue 3 components to work with OpenLayers.
 
 ### Components & Libraries / Utilities
 
-*   [v-google-translate (⭐365)](https://github.com/i7eo/v-google-translate) - A component that use google translate to internationalize your Vue.js app.
+*   [v-google-translate (⭐372)](https://github.com/i7eo/v-google-translate) - A component that use google translate to internationalize your Vue.js app.
 
 ### Components & Libraries / Integrations
 
-*   [vue-tweet (⭐35)](https://github.com/DannyFeliz/vue-tweet) - Vue 3 component that let you embed tweets in your App by only giving the tweet id
+*   [vue-tweet (⭐36)](https://github.com/DannyFeliz/vue-tweet) - Vue 3 component that let you embed tweets in your App by only giving the tweet id
 
 ## [53. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Community Extensions
 
-*   [SCIM for keycloak (⭐183)](https://github.com/Captain-P-Goldfish/scim-for-keycloak)
+*   [SCIM for keycloak (⭐187)](https://github.com/Captain-P-Goldfish/scim-for-keycloak)
 
 ## [54. Awesome Minecraft](/content/bs-community/awesome-minecraft/week/README.md)
 

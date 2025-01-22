@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 27, 2017
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -192,31 +192,25 @@
 *   [The Tate Collection (⭐506)](https://github.com/tategallery/collection) - Here we present the metadata for around 70,000 artworks.
 *   [NASA](https://open.nasa.gov/open-data/) - We're Setting Data, Code and APIs free.
 
-## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Resources / Community
-
-*   [vueslack - 2300+ registered users worldwide](https://vueslack.slack.com/)
-
-## [9. Awesome Sass](/content/Famolus/awesome-sass/README.md)
+## [8. Awesome Sass](/content/Famolus/awesome-sass/README.md)
 
 ### Tools / Miscellaneous
 
 *   [SharpScss (⭐53)](https://github.com/xoofx/SharpScss) - P/Invoke .NET wrapper around libsass to convert SCSS to CSS supporting NET2.0/NET3.5/NET4.x+ and CoreCLR platform.
 
-## [10. Awesome IoT Hybrid](/content/weblancaster/awesome-IoT-hybrid/README.md)
+## [9. Awesome IoT Hybrid](/content/weblancaster/awesome-IoT-hybrid/README.md)
 
 ### Hybrid Desktop / Resources-websites-projects
 
 *   [MacGap](https://github.com/MacGapProject)
 
-## [11. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
+## [10. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
 ### NewSQL Databases
 
 *   [SenseiDB](http://senseidb.github.io/sensei/) - distributed, realtime, semi-structured database.
 
-## [12. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [11. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / Kinesis
 

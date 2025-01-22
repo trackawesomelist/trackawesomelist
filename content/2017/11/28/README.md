@@ -84,7 +84,6 @@
 
 ### Books / Post-quantum cryptography
 
-*   [CrypTool book](https://www.cryptool.org/en/ctp-documentation/ctbook) - Predominantly mathematically oriented information on learning, using and experimenting cryptographic procedures.
 *   [The joy of Cryptography](http://web.engr.oregonstate.edu/~rosulekm/crypto/) - By Mike Rosulek. A lot of basic stuff covered really well. No ECC.
 *   [A Computational Introduction to Number Theory and Algebra](http://www.shoup.net/ntb/) - By Victor Shoup, excellent starters book on math universally used in cryptography.
 
@@ -124,10 +123,10 @@
 ### Miscellaneous / Episodes
 
 *   [Arduino](https://www.arduino.cc/) - Arduino boards have a number of shields you can attach to connect to CAN-enabled devices.
-    *   [CANdiy-Shield (⭐23)](https://github.com/watterott/CANdiy-Shield)
+    *   [CANdiy-Shield (⭐24)](https://github.com/watterott/CANdiy-Shield)
     *   [DFRobot CAN-BUS Shield For Arduino](http://www.dfrobot.com/index.php?route=product/product\&product_id=1444)
     *   [SparkFun CAN-BUS Shield](https://www.sparkfun.com/products/13262)
-    *   [arduino-canbus-monitor (⭐278)](https://github.com/latonita/arduino-canbus-monitor) - No matter which shield is selected you will need your own sniffer. This is implementation of standard Lawicel/SLCAN protocol for Arduino + any MCP CAN Shield to use with many standard CAN bus analysis software packages or SocketCAN
+    *   [arduino-canbus-monitor (⭐309)](https://github.com/latonita/arduino-canbus-monitor) - No matter which shield is selected you will need your own sniffer. This is implementation of standard Lawicel/SLCAN protocol for Arduino + any MCP CAN Shield to use with many standard CAN bus analysis software packages or SocketCAN
 
 ## [7. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/README.md)
 
@@ -139,7 +138,7 @@
 
 ### Graphics
 
-*   [DirectXTK (⭐2.5k)](https://github.com/Microsoft/DirectXTK) - A collection of helper classes for writing DirectX 11.x code in C++. \[MIT]
+*   [DirectXTK (⭐2.6k)](https://github.com/Microsoft/DirectXTK) - A collection of helper classes for writing DirectX 11.x code in C++. \[MIT]
 
 ## [9. Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md)
 

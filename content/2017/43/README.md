@@ -67,7 +67,7 @@
 
 ### OS Images
 
-*   [DietPi (⭐8)](https://github.com/Fourdee/DietPi) - Minimal image designed to fit on a 2GB SD card, with tons of configurable settings and scripts.
+*   [DietPi (⭐9)](https://github.com/Fourdee/DietPi) - Minimal image designed to fit on a 2GB SD card, with tons of configurable settings and scripts.
 
 ## [6. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
@@ -289,10 +289,6 @@
 
 ### Books
 
-*   [Remote: Office Not Required](https://37signals.com/remote).
-    by Jason Fried and David Heinemeier Hansson (37signals), 2013.
-*   [The Ultimate Guide to Remote Work](https://zapier.com/learn/remote-work/).
-    by Wade Foster (Zapier), 2015.
 *   [The Year Without Pants: WordPress.com and the Future of Work](https://scottberkun.com/yearwithoutpants/).
     by Scott Berkun, 2013.
 
@@ -318,11 +314,11 @@
 
 ### Misc
 
-*   [DeviceId (⭐766)](https://github.com/MatthewKing/DeviceId) - Generate a 'device ID' that can be used to uniquely identify a computer.
+*   [DeviceId (⭐805)](https://github.com/MatthewKing/DeviceId) - Generate a 'device ID' that can be used to uniquely identify a computer.
 
 ### Object to object mapping
 
-*   [AgileMapper (⭐457)](https://github.com/agileobjects/AgileMapper) - A zero-configuration Object-Object mapper supporting .NET Standard 1.0
+*   [AgileMapper (⭐460)](https://github.com/agileobjects/AgileMapper) - A zero-configuration Object-Object mapper supporting .NET Standard 1.0
 
 ## [17. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
@@ -422,7 +418,7 @@
 
 ### Awesome Repositories
 
-- Repository: [Hacking Resources (⭐15k)](https://github.com/vitalysim/Awesome-Hacking-Resources)
+- Repository: [Hacking Resources (⭐16k)](https://github.com/vitalysim/Awesome-Hacking-Resources)
 
   Description: Collection of hacking / penetration testing resources to make you better!
 
@@ -578,7 +574,6 @@
 
 ### Resources / Community
 
-*   [vueslack - 2300+ registered users worldwide](https://vueslack.slack.com/)
 *   [VueJS en español - Facebook Group \[Spanish\]](https://www.facebook.com/groups/vue.es/)
 
 ### Resources / Tutorials
@@ -644,7 +639,7 @@
 
 ### HTTP
 
-*   [crest (⭐234)](https://github.com/mamantoha/crest) - Simple HTTP and REST client, inspired by the Ruby's RestClient gem
+*   [crest (⭐236)](https://github.com/mamantoha/crest) - Simple HTTP and REST client, inspired by the Ruby's RestClient gem
 
 ## [43. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 

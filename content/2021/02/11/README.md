@@ -10,11 +10,11 @@
 
 ### Table of Contents / Dependency Management Extras
 
-*   [Composer Patches (⭐1.5k)](https://github.com/cweagans/composer-patches) - A plugin for Composer to apply patches.
+*   [Composer Patches (⭐1.6k)](https://github.com/cweagans/composer-patches) - A plugin for Composer to apply patches.
 
 ### Table of Contents / Testing
 
-*   [PHP MySQL Engine (⭐547)](https://github.com/vimeo/php-mysql-engine) -  A MySQL engine written in pure PHP.
+*   [PHP MySQL Engine (⭐550)](https://github.com/vimeo/php-mysql-engine) -  A MySQL engine written in pure PHP.
 
 ### Configuration / PHP Websites
 
@@ -66,9 +66,9 @@
 
 ## [5. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
-### Plugins and scripts / Various Godot versions
+### Plugins and scripts / Godot version unknown
 
-*   [Godot Shaders (⭐2.9k)](https://github.com/GDQuest/godot-shaders) - A large library of free and open-source shaders for 2D and 3D.
+*   [Godot Shaders (⭐3.2k)](https://github.com/GDQuest/godot-shaders) - A large library of free and open-source shaders for 2D and 3D.
 
 ## [6. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
 
@@ -99,7 +99,7 @@
 
 ### Messaging
 
-*   [cabal](http://cabal.chat) is a distributed chat platform built ontop of dat's foundational technologies. It's like IRC except you have backscroll when you join, and there are no servers. There is currently a [nodejs library (⭐302)](https://github.com/cabal-club/cabal-core), a [terminal client (⭐521)](https://github.com/cabal-club/cabal), a [desktop client (⭐836)](https://github.com/cabal-club/cabal-desktop), and an experimental [mobile client (⭐146)](https://github.com/cabal-club/cabal-mobile).
+*   [cabal](http://cabal.chat) is a distributed chat platform built ontop of dat's foundational technologies. It's like IRC except you have backscroll when you join, and there are no servers. There is currently a [nodejs library (⭐302)](https://github.com/cabal-club/cabal-core), a [terminal client (⭐521)](https://github.com/cabal-club/cabal), a [desktop client (⭐847)](https://github.com/cabal-club/cabal-desktop), and an experimental [mobile client (⭐146)](https://github.com/cabal-club/cabal-mobile).
 *   [Delta Chat](https://delta.chat) is a free software chat application and ecosystem based on IMAP and SMTP, which leverages end-to-end encryption via [autocrypt](https://autocrypt.org/). It piggybacks on top of the huge, already existing email infrastructure. All you need to get started is an email address. There's a client for Android and clients for iOS and desktop in the works. Follow the development on the [GitHub page](https://github.com/deltachat).
 *   [Meshtastic](https://www.meshtastic.org) as an open-source extendable mesh communication and location sharing device.  Based on off-the-shelf $30 modules from various vendors, 8 day battery life. Good for skiers, hikers, protestors, finding lost kids, etc...
 *   [PrivMX WebMail](https://privmx.com) is an alternative private mail system with independent, decentralized PKI and support for end-to-end encrypted web forms.
@@ -129,11 +129,11 @@
 *   [Movim](http://movim.eu/) is a decentralized open source social network based on XMPP.
 *   [Patchwork (⭐3.6k)](https://github.com/ssbc/patchwork) is a distributed social network. It uses crytographic keypairs to create feeds and publish unforgeable entries which can spread across the network. Relay servers optionally aggregate and redistribute the feeds.
 *   [Pleroma](https://pleroma.social) is a free, federated social networking server built on open protocols. It is compatible with [GNU Social](https://gnu.io/social/), [Mastodon](https://joinmastodon.org/), and many other ActivityPub implementations.
-*   [PPNet (⭐119)](https://github.com/pixelpark/ppnet) is a middleware that can be used to create a social network, either temporarily or permanently for a group of users. Includes mobile client for Android.
+*   [PPNet (⭐118)](https://github.com/pixelpark/ppnet) is a middleware that can be used to create a social network, either temporarily or permanently for a group of users. Includes mobile client for Android.
 *   [Scuttlebutt](https://www.scuttlebutt.nz) gossip based p2p community social media, chess, book reviews, gatherings, ... (code [here](https://www.github.com/ssbc))
 *   [Synereo](http://www.synereo.com/) is an open source, decentralized **social network**. It is an **attention economy** that rewards popular content and participation with crypto-currency. Content is promoted or advertised in a way that fairly rewards the content's creator and those who choose to engage with that content. An automatic and transparent **reputation economy** assures that you experience content relevant to you. The privacy of your communications and contacts is baked-in to the structure of the network. Synereo is modeled in [π-calculus](https://en.wikipedia.org/wiki/%CE%A0-calculus) and functionally programmed in Scala.
 *   [Tonika](http://pdos.csail.mit.edu/~petar/5ttt.org/) is a (digital) social network, which (by design) restricts direct communication to pairs of users who are friends, possesses many of the security properties (privacy, anonymity, deniability, resilience to denial-of-service attacks, etc.) that human sociaties implement organically in daily life.
-*   [trsst](http://www.trsst.com/) looks and feels like twitter but encrypted and anonymized and decentralized and only you hold the keys. Protocol implementation draft is available on [github (⭐173)](https://github.com/TrsstProject/trsst).
+*   [trsst](http://www.trsst.com/) looks and feels like twitter but encrypted and anonymized and decentralized and only you hold the keys. Protocol implementation draft is available on [github (⭐172)](https://github.com/TrsstProject/trsst).
 *   [Twister](http://twister.net.co) is a secure and fully-decentralized P2P microblogging platform based on concepts and code from Bitcoin and Libtorrent (as described in [this whitepaper](http://arxiv.org/abs/1312.7152)). Feel free to contribute to its [core service (⭐1.4k)](https://github.com/miguelfreitas/twister-core) or [HTML UI (⭐229)](https://github.com/miguelfreitas/twister-html)!
 *   [Vole](http://vole.cc/) is a web-based social network that you use in your browser, without a central server. It's built on the power of Bittorrent, Go and Ember.js. Uses bittorrent sync.
 
@@ -147,14 +147,14 @@
 
 ### Dead
 
-*   [Bitcloud](http://bitcloudproject.org) is an open source distributed cloud storage system and escrow agent based on Tahoe-LAFS that allows publishers to pay storage nodes for storing encrypted data and sharing that data with others. The decentralized nature of Bitcloud allows anyone to publish large amounts of data in a way that is free from censorship, high costs, and proprietary software. The first application for bitcloud will be [WeTube (⭐53)](https://github.com/wetube/wetube-web), a platform for viewing and publishing videos, podcasts, ebooks, music, and other forms of media.
+*   [Bitcloud](http://bitcloudproject.org) is an open source distributed cloud storage system and escrow agent based on Tahoe-LAFS that allows publishers to pay storage nodes for storing encrypted data and sharing that data with others. The decentralized nature of Bitcloud allows anyone to publish large amounts of data in a way that is free from censorship, high costs, and proprietary software. The first application for bitcloud will be [WeTube (⭐54)](https://github.com/wetube/wetube-web), a platform for viewing and publishing videos, podcasts, ebooks, music, and other forms of media.
 *   The [Drogulus](http://drogul.us/) (WIP) is a programmable peer-to-peer data store. It's an open, federated and decentralised system where the identity of users and provenance of data is ensured by cryptographically signing digital assets.[Redecentralise Video interview](http://redecentralize.org/#interviews)
 *   [Swarm](https://swarm.ethereum.org) is a distributed storage platform and content distribution service, a native base layer service of the ethereum web3 stack. It uses the ethereum economy to incentivize P2P storage.
 *   [VirtKick](https://www.virtkick.io/) is your self-hosted DigitalOcean. Take cloud back to your computer, home network or a dedicated server. Manage virtual machines, Docker containers and create 1-click apps.
-*   [Bitmarkets (⭐112)](https://github.com/voluntarynet/bitmarkets) a working decentralized marketplace based on bitcoinj and bitmessage.
-*   [P (⭐409)](https://github.com/unsetbit/p) is a small JavaScript library for creating peer-to-peer applications in browsers. It allows for transitive connections across peers which makes certain network topologies, such mesh networks,easy to establish.
+*   [Bitmarkets (⭐111)](https://github.com/voluntarynet/bitmarkets) a working decentralized marketplace based on bitcoinj and bitmessage.
+*   [P (⭐411)](https://github.com/unsetbit/p) is a small JavaScript library for creating peer-to-peer applications in browsers. It allows for transitive connections across peers which makes certain network topologies, such mesh networks,easy to establish.
 *   [Streisand (⭐23k)](https://github.com/jlund/streisand) sets up a new server running L2TP/IPsec, OpenSSH, OpenVPN, Shadowsocks, Stunnel, and a Tor bridge. It also generates custom configuration instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, or fellow activists.
-*   [OTRTalk (⭐50)](https://github.com/mnaamani/otrtalk) Is a command line based chat application, uses BitTorrent P2P DHT Network for peer discovery and OTR (Off the Record) for secure messaging.
+*   [OTRTalk (⭐51)](https://github.com/mnaamani/otrtalk) Is a command line based chat application, uses BitTorrent P2P DHT Network for peer discovery and OTR (Off the Record) for secure messaging.
 *   [Quietnet (⭐2.9k)](https://github.com/Katee/quietnet) is a simple chat program using near ultrasonic frequencies. It works without Wi-Fi or Bluetooth and cannot be eavesdropped using conventional network capturing methods.
 
 ## [7. Public Apis](/content/public-apis/public-apis/README.md)
@@ -199,7 +199,7 @@
 
 ### Emacs / Third-party APIs
 
-*   [Emacs4CL (⭐369)](https://github.com/susam/emacs4cl) - A tiny Emacs initialization file to quickly set up vanilla Emacs for Common Lisp programming. Comes with a line-by-line explanation of every line of code in the initialization file.
+*   [Emacs4CL (⭐384)](https://github.com/susam/emacs4cl) - A tiny Emacs initialization file to quickly set up vanilla Emacs for Common Lisp programming. Comes with a line-by-line explanation of every line of code in the initialization file.
 
 ## [12. Awesome Italy Events](/content/ildoc/awesome-italy-events/README.md)
 

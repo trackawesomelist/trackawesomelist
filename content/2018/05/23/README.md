@@ -1,6 +1,6 @@
 # Awesome List Updates on May 23, 2018
 
-14 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -90,20 +90,14 @@
 
 ### Game
 
-*   [BEPUphysics (⭐2.3k)](https://github.com/bepu/bepuphysics2) - BEPUphysics is a pure C# 3D physics library
+*   [BEPUphysics (⭐2.5k)](https://github.com/bepu/bepuphysics2) - BEPUphysics is a pure C# 3D physics library
 
-## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Projects Using Vue.js / Open Source
-
-*   [Chattier](https://github.com/raniesantos/chattier) - SPA social network built with Laravel 5.6, Vue.js 2, and Bulma (Buefy components + Bulmaswatch themes). Also uses JWT authentication.
-
-## [14. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [13. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Animation
 
-*   [Poi (⭐66)](https://github.com/HideakiTouhara/Poi) - Poi makes you use card UI like tinder UI .You can use it like tableview method.
-*   [TheAnimation (⭐224)](https://github.com/marty-suzuki/TheAnimation) - Type-safe CAAnimation wrapper. It makes preventing to set wrong type values.
+*   [Poi (⭐67)](https://github.com/HideakiTouhara/Poi) - Poi makes you use card UI like tinder UI .You can use it like tableview method.
+*   [TheAnimation (⭐223)](https://github.com/marty-suzuki/TheAnimation) - Type-safe CAAnimation wrapper. It makes preventing to set wrong type values.
 
 ### UI / Barcode
 

@@ -36,11 +36,11 @@
 
 ### Cloud Infrastructure and Management
 
-*   [Kazan (⭐139)](https://github.com/obmarg/kazan) - Kubernetes client for Elixir, generated from the k8s open API specifications.
+*   [Kazan (⭐140)](https://github.com/obmarg/kazan) - Kubernetes client for Elixir, generated from the k8s open API specifications.
 
 ### Date and Time
 
-*   [cocktail (⭐217)](https://github.com/peek-travel/cocktail) - Elixir date recurrence library based on iCalendar events.
+*   [cocktail (⭐223)](https://github.com/peek-travel/cocktail) - Elixir date recurrence library based on iCalendar events.
 
 ### Examples and funny stuff
 
@@ -56,7 +56,7 @@
 
 ### Queue
 
-*   [gen\_rmq (⭐182)](https://github.com/meltwater/gen_rmq) - Set of behaviours meant to be used to create RabbitMQ consumers and publishers.
+*   [gen\_rmq (⭐181)](https://github.com/meltwater/gen_rmq) - Set of behaviours meant to be used to create RabbitMQ consumers and publishers.
 
 ### Security
 
@@ -68,7 +68,7 @@
 
 ### Third Party APIs
 
-*   [shopify (⭐104)](https://github.com/nsweeting/shopify) - Easily access the Shopify API.
+*   [shopify (⭐102)](https://github.com/nsweeting/shopify) - Easily access the Shopify API.
 
 ### Translations and Internationalizations
 

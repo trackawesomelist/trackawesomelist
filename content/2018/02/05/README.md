@@ -56,7 +56,7 @@
 
 ### Examples / Templates
 
-*   [cpp-boilerplate (⭐271)](https://github.com/Lectem/cpp-boilerplate) - Template that aims to be a reference for modern CMake and CI. [`[MIT]`](https://opensource.org/licenses/MIT)
+*   [cpp-boilerplate (⭐312)](https://github.com/Lectem/cpp-boilerplate) - Template that aims to be a reference for modern CMake and CI. [`[MIT]`](https://opensource.org/licenses/MIT)
 
 ## [5. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
@@ -74,8 +74,8 @@
 
 ### API Gateway / Symfony2
 
-*   [Kong (⭐39k)](https://github.com/Kong/kong) - Scalable, distributed, and plugin oriented API gateway backed by Nginx.
-*   [Tyk API Gateway (⭐9.5k)](https://github.com/TykTechnologies/tyk) - Lightweight API gateway with analytics logging, written in Go.
+*   [Kong (⭐40k)](https://github.com/Kong/kong) - Scalable, distributed, and plugin oriented API gateway backed by Nginx.
+*   [Tyk API Gateway (⭐9.8k)](https://github.com/TykTechnologies/tyk) - Lightweight API gateway with analytics logging, written in Go.
 *   [API Umbrella (⭐2k)](https://github.com/NREL/api-umbrella) - API management platform for exposing web services, with web interface and analytics, written in Lua.
 
 ## [8. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
@@ -89,10 +89,6 @@
 ### Resources / Books
 
 *   [Mastering Vue.js](https://masteringvuejs.com) by Oleksandr Kocherhin. (January 2018)
-
-### Projects Using Vue.js / Open Source
-
-*   [Pomotroid (⭐4.2k)](https://github.com/Splode/pomotroid) - Simple, visually-pleasing and customizable Pomodoro timer.
 
 ---
 

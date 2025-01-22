@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 23, 2018
 
-13 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Services / Bluetooth / NFC / Beacon
 
-*   [Dialogflow (⭐214)](https://github.com/VictorRancesCode/flutter_dialogflow) <!--stargazers:VictorRancesCode/flutter_dialogflow--> - Plugin to easily integrate with dialogflow by [Victor Rances](https://github.com/VictorRancesCode/)
+*   [Dialogflow (⭐215)](https://github.com/VictorRancesCode/flutter_dialogflow) <!--stargazers:VictorRancesCode/flutter_dialogflow--> - Plugin to easily integrate with dialogflow by [Victor Rances](https://github.com/VictorRancesCode/)
 
 ## [2. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
@@ -22,7 +22,7 @@
 
 ### Web Frameworks
 
-*   [Vert.x Vaadin (⭐42)](https://github.com/mcollovati/vertx-vaadin) - Run Vaadin applications on Vert.x.
+*   [Vert.x Vaadin (⭐44)](https://github.com/mcollovati/vertx-vaadin) - Run Vaadin applications on Vert.x.
 
 ## [4. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
@@ -41,48 +41,42 @@
 
 *   [Using machine learning with LIME to understand employee churn](http://www.business-science.io/business/2018/06/25/lime-local-feature-interpretation.html) June 25, 2018
 
-## [6. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
-
-### Job boards
-
-*   [Find Bacon](https://findbacon.com) - Design and Dev jobs
-
-## [7. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [6. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Developer Tools / IDEs
 
 *   [Haskell for Mac](http://haskellformac.com) - A Modern Development Environment for Haskell. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://itunes.apple.com/app/haskell-development-platform/id841285201)
 
-## [8. Awesome Heroku](/content/ianstormtaylor/awesome-heroku/README.md)
+## [7. Awesome Heroku](/content/ianstormtaylor/awesome-heroku/README.md)
 
 ### Deployment
 
 *   `article` [Six Tips for Mastering your Procfile](https://medium.com/@adam_41691/six-tips-for-mastering-your-procfile-64ea1207b779) — improvements for how you run your Heroku processes.
 
-## [9. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [8. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Cryptography / Barcode
 
-*   [Themis (⭐1.8k)](https://github.com/cossacklabs/themis) - Multilanguage framework for making typical encryption schemes easy to use: data at rest, authenticated data exchange, transport protection, authentication, and so on.
+*   [Themis (⭐1.9k)](https://github.com/cossacklabs/themis) - Multilanguage framework for making typical encryption schemes easy to use: data at rest, authenticated data exchange, transport protection, authentication, and so on.
 
-## [10. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
+## [9. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
 
 ### Contents / Backups
 
-*   [pg\_back (⭐408)](https://github.com/orgrim/pg_back/) - pg\_back is a simple backup script
+*   [pg\_back (⭐519)](https://github.com/orgrim/pg_back/) - pg\_back is a simple backup script
 
 ### Contents / Utilities
 
-*   [pg\_chameleon (⭐376)](https://github.com/the4thdoctor/pg_chameleon) - Real time replica from MySQL to PostgreSQL with optional type override migration and migration capabilities.
+*   [pg\_chameleon (⭐377)](https://github.com/the4thdoctor/pg_chameleon) - Real time replica from MySQL to PostgreSQL with optional type override migration and migration capabilities.
 *   [pg\_bulkload](http://ossc-db.github.io/pg_bulkload/index.html) - It's a high speed data loading utility for PostgreSQL.
 
-## [11. Awesome](/content/craftcms/awesome/README.md)
+## [10. Awesome](/content/craftcms/awesome/README.md)
 
 ### Community
 
 *   [Discord](https://discord.me/craftcms) - The official Discord community for Craft CMS.
 
-## [12. Awesome Code Review](/content/joho/awesome-code-review/README.md)
+## [11. Awesome Code Review](/content/joho/awesome-code-review/README.md)
 
 ### Academic Papers
 
@@ -113,7 +107,7 @@
 *   [Code Reviews: Honesty, Kindness, Inspiration: Pick Three - Jacob Stoebel RubyConf 2017](http://confreaks.tv/videos/rubyconf2017-code-reviews-honesty-kindness-inspiration-pick-three) How to do effective code review while remaining kind to the original author.
 *   [Implementing a Strong Code-Review Culture - Derek Prior Railsconf 2015](https://www.youtube.com/watch?v=PJjmw9TRB7s) How to instill a healthy code review culture in a team.
 
-## [13. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [12. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / GUI
 

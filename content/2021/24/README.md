@@ -14,7 +14,7 @@
 
 ### no-std crates / WIP
 
-*   [`cmsis-dsp-sys`](https://github.com/jacobrosenthal/cmsis-dsp-sys): Rust FFI bindings to the [Arm CMSIS\_5 (⭐1.3k)](https://github.com/ARM-software/CMSIS_5) math library - ![crates.io](https://img.shields.io/crates/v/cmsis-dsp-sys.svg)
+*   [`cmsis-dsp-sys`](https://github.com/jacobrosenthal/cmsis-dsp-sys): Rust FFI bindings to the [Arm CMSIS\_5 (⭐1.4k)](https://github.com/ARM-software/CMSIS_5) math library - [![crates.io](https://img.shields.io/crates/v/cmsis-dsp-sys.svg)](https://crates.io/crates/cmsis-dsp-sys)
 
 ## [2. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
@@ -32,14 +32,14 @@
 
 ### Compilers / Misc
 
-*   [GBDK (⭐1.5k)](https://github.com/gbdk-2020/gbdk-2020/) - Maintained and modernized GBDK (Game Boy Development Kit) powered by an updated version of the SDCC toolchain. Provides a C compiler, assembler, linker and a set of libraries.
+*   [GBDK (⭐1.8k)](https://github.com/gbdk-2020/gbdk-2020/) - Maintained and modernized GBDK (Game Boy Development Kit) powered by an updated version of the SDCC toolchain. Provides a C compiler, assembler, linker and a set of libraries.
     *   [API docs: Getting Started](https://gbdk-2020.github.io/gbdk-2020/docs/api/docs_getting_started.html)
-    *   [Examples (⭐175)](https://github.com/mrombout/gbdk_playground)
+    *   [Examples (⭐193)](https://github.com/mrombout/gbdk_playground)
     *   [Documentation, links and tools](https://gbdk-2020.github.io/gbdk-2020/docs/api/docs_links_and_tools.html)
 
 ### Game Disassemblies / Syntax highlighting packages
 
-*   [Tetris (⭐24)](https://github.com/vinheim3/tetris-gb-disasm) - Complete Tetris disassembly.
+*   [Tetris (⭐25)](https://github.com/vinheim3/tetris-gb-disasm) - Complete Tetris disassembly.
 
 ### Related projects / Syntax highlighting packages
 
@@ -63,26 +63,26 @@
 
 *   [bcrypt-Node.js](https://github.com/shaneGirish/bcrypt-Node.js) - Native implementation of bcrypt for Node.js.
 *   [cryptico (⭐1.2k)](https://github.com/wwwtyro/cryptico) - Easy-to-use encryption system utilizing RSA and AES for JavaScript.
-*   [cryptojs (⭐324)](https://github.com/gwjjeff/cryptojs) - Provide standard and secure cryptographic algorithms for Node.js.
-*   [forge (⭐5k)](https://github.com/digitalbazaar/forge) - Native implementation of TLS in JavaScript and tools to write crypto-based and network-heavy webapps.
+*   [cryptojs (⭐326)](https://github.com/gwjjeff/cryptojs) - Provide standard and secure cryptographic algorithms for Node.js.
+*   [forge (⭐5.1k)](https://github.com/digitalbazaar/forge) - Native implementation of TLS in JavaScript and tools to write crypto-based and network-heavy webapps.
 *   [IronNode](https://docs.ironcorelabs.com/ironnode-sdk/overview) - Transform encryption library, a variant of proxy re-encryption, for encrypting to users or groups, and easily adding strong data controls to Node.js apps.
-*   [js-nacl (⭐492)](https://github.com/tonyg/js-nacl) - Pure-JavaScript High-level API to Emscripten-compiled libsodium routines.
-*   [jsencrypt (⭐6.6k)](https://github.com/travist/jsencrypt) - JavaScript library to perform OpenSSL RSA Encryption, Decryption, and Key Generation.
-*   [JShashes (⭐719)](https://github.com/h2non/jshashes) - Fast and dependency-free cryptographic hashing library for Node.js and browsers (supports MD5, SHA1, SHA256, SHA512, RIPEMD, HMAC).
-*   [jsThemis (⭐1.8k)](https://github.com/cossacklabs/themis/wiki/Nodejs-Howto) - JavaScript wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
-*   [milagro-crypto-js (⭐17)](https://github.com/apache/incubator-milagro-crypto-js) - MCJS is a standards compliant JavaScript cryptographic library with no external dependencies except for the random seed source. Compatible for Node.js and browser. It supports RSA, ECDH, ECIES, ECDSA, AES-GCM, SHA2, SHA3, Pairing-Based Cryptography and New Hope.
-*   [node.bcrypt.js (⭐7.4k)](https://github.com/ncb000gt/node.bcrypt.js) - bcrypt for Node.js.
+*   [js-nacl (⭐493)](https://github.com/tonyg/js-nacl) - Pure-JavaScript High-level API to Emscripten-compiled libsodium routines.
+*   [jsencrypt (⭐6.7k)](https://github.com/travist/jsencrypt) - JavaScript library to perform OpenSSL RSA Encryption, Decryption, and Key Generation.
+*   [JShashes (⭐723)](https://github.com/h2non/jshashes) - Fast and dependency-free cryptographic hashing library for Node.js and browsers (supports MD5, SHA1, SHA256, SHA512, RIPEMD, HMAC).
+*   [jsThemis (⭐1.9k)](https://github.com/cossacklabs/themis/wiki/Nodejs-Howto) - JavaScript wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
+*   [milagro-crypto-js (⭐19)](https://github.com/apache/incubator-milagro-crypto-js) - MCJS is a standards compliant JavaScript cryptographic library with no external dependencies except for the random seed source. Compatible for Node.js and browser. It supports RSA, ECDH, ECIES, ECDSA, AES-GCM, SHA2, SHA3, Pairing-Based Cryptography and New Hope.
+*   [node.bcrypt.js (⭐7.5k)](https://github.com/ncb000gt/node.bcrypt.js) - bcrypt for Node.js.
 *   [sjcl (⭐7.2k)](https://github.com/bitwiseshiftleft/sjcl) - Stanford JavaScript Crypto Library.
 
 ### Objective-C / Git
 
-*   [ObjC Themis (⭐1.8k)](https://github.com/cossacklabs/themis/wiki/Objective-C-Howto) - ObjC wrapper on Themis for iOS and macOS. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
+*   [ObjC Themis (⭐1.9k)](https://github.com/cossacklabs/themis/wiki/Objective-C-Howto) - ObjC wrapper on Themis for iOS and macOS. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
 
 ### Swift / Git
 
-*   [OpenSSL (⭐39)](https://github.com/Zewo/OpenSSL) - Swift OpenSSL for macOS and Linux.
-*   [Swift-Sodium (⭐508)](https://github.com/jedisct1/swift-sodium) - Swift interface to the Sodium library for common crypto operations for iOS and macOS.
-*   [SwiftThemis (⭐1.8k)](https://github.com/cossacklabs/themis/wiki/Swift-Howto) - Swift wrapper on Themis for iOS and macOS. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
+*   [OpenSSL (⭐40)](https://github.com/Zewo/OpenSSL) - Swift OpenSSL for macOS and Linux.
+*   [Swift-Sodium (⭐518)](https://github.com/jedisct1/swift-sodium) - Swift interface to the Sodium library for common crypto operations for iOS and macOS.
+*   [SwiftThemis (⭐1.9k)](https://github.com/cossacklabs/themis/wiki/Swift-Howto) - Swift wrapper on Themis for iOS and macOS. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
 
 ## [7. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
 
@@ -133,7 +133,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [Evidently (⭐5k)](https://github.com/evidentlyai/evidently): Interactive reports to analyze machine learning models during validation or production monitoring.
+*   [Evidently (⭐5.5k)](https://github.com/evidentlyai/evidently): Interactive reports to analyze machine learning models during validation or production monitoring.
 
 ## [10. Awesome Minecraft](/content/bs-community/awesome-minecraft/week/README.md)
 
@@ -215,31 +215,61 @@
 
 ### Software / Groupware
 
-*   [EspoCRM](https://www.espocrm.com/) - CRM with a frontend designed as a single page application, and a REST API. ([Demo](https://demo.espocrm.com/), [Source Code (⭐1.7k)](https://github.com/espocrm/espocrm)) `AGPL-3.0` `PHP`
+*   [EspoCRM](https://www.espocrm.com/) - CRM with a frontend designed as a single page application, and a REST API. ([Demo](https://demo.espocrm.com/), [Source Code (⭐2k)](https://github.com/espocrm/espocrm)) `AGPL-3.0` `PHP`
 
 ### Software / Resource Planning
 
-*   [ERPNext](https://erpnext.com) - Free open source ERP system. ([Source Code (⭐18k)](https://github.com/frappe/erpnext)) `GPL-3.0` `Python/Docker`
+*   [ERPNext](https://erpnext.com) - Free open source ERP system. ([Source Code (⭐23k)](https://github.com/frappe/erpnext)) `GPL-3.0` `Python/Docker`
 
 ## [15. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### ORM / Database / Datamapping
 
-*   🍰 [Icings/Partitionable plugin (⭐16)](https://github.com/icings/partitionable) - Partitionable associations allowing for basic limiting per group.
+*   [Icings/Partitionable plugin (⭐16)](https://github.com/icings/partitionable) - Partitionable associations allowing for basic limiting per group.
 
 ## [16. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
 
 ### JavaScript / FrameWorks
 
-*   [portfolio-allocation (⭐173)](https://github.com/lequant40/portfolio_allocation_js) - PortfolioAllocation is a JavaScript library designed to help constructing financial portfolios made of several assets: bonds, commodities, cryptocurrencies, currencies, exchange traded funds (ETFs), mutual funds, stocks...
+*   [portfolio-allocation (⭐175)](https://github.com/lequant40/portfolio_allocation_js) - PortfolioAllocation is a JavaScript library designed to help constructing financial portfolios made of several assets: bonds, commodities, cryptocurrencies, currencies, exchange traded funds (ETFs), mutual funds, stocks...
 
-## [17. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [17. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+
+### Resources / External Resources
+
+*   [Vue.js Articles](https://thewebdev.info/category/javascript/vue/) - Assorted Vue 2 and 3 tutorials and articles.
+*   [Best vue.js Courses On YouTube](https://www.nbshare.io/blog/best-vue-js-courses-on-youtube/) - Handpicked list of best Vue.js tutorials on YouTube
+
+### Resources / Tutorials
+
+*   [Vue.js SPA: Build a Powerful E-Commerce App](https://snipcart.com/blog/building-a-vuejs-spa)
+
+### Components & Libraries / Frameworks
+
+*   [vuestic-ui (⭐3.6k)](https://github.com/epicmaxco/vuestic-ui) - A Vue.js 3.0 UI customizable UI Framework.
+*   [vuestic-admin (⭐11k)](https://github.com/epicmaxco/vuestic-admin) - Vue Admin Dashboard built with Vue 3 and `vuestic-ui`.
+
+## [18. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Layout
 
-*   [MondrianLayout (⭐164)](https://github.com/muukii/MondrianLayout) - A DSL based layout builder for AutoLayout.
+*   [MondrianLayout (⭐169)](https://github.com/muukii/MondrianLayout) - A DSL based layout builder for AutoLayout.
 
-## [18. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [19. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+
+### Libraries/Frameworks / Web
+
+*   [jwstegemann/fritz2 (⭐670)](https://github.com/jwstegemann/fritz2) - small lib to build reactive web-apps in pure Kotlin based on Flows
+
+### Libraries/Frameworks / Misc
+
+*   [JoelW-S/groothy (⭐8)](https://github.com/JoelW-S/groothy) - Kotlin implementation of Groovy Truth.
+
+### Libraries/Frameworks / Graphics
+
+*   [kotlin-graphics/glm (⭐131)](https://github.com/kotlin-graphics/glm) - g-truck glm port, opengl mathematics library
+
+## [20. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Web / Development
 
@@ -253,31 +283,31 @@
 
 *   [Awesome Security Talks & Videos (⭐4k)](https://github.com/PaulSec/awesome-sec-talks) - A curated list of awesome security talks, organized by year and then conference.
 
-## [19. Awesome Earth](/content/philsturgeon/awesome-earth/week/README.md)
+## [21. Awesome Earth](/content/philsturgeon/awesome-earth/week/README.md)
 
 ### Footprint Calculators
 
 *   [Cloud Carbon Footprint](https://www.cloudcarbonfootprint.org/) - An open source tool that provides visibility and tooling to measure, monitor and reduce public cloud carbon emissions. It supports multiple cloud providers including AWS, Google Cloud, and Microsoft Azure, and displays energy and carbon emission metrics in a dashabord, command line interface or exportable to CSV.
 
-## [20. Awesome Vlc](/content/mfkl/awesome-vlc/week/README.md)
+## [22. Awesome Vlc](/content/mfkl/awesome-vlc/week/README.md)
 
 ### Bindings
 
 *   [WebChimera.js (⭐666)](https://github.com/RSATom/WebChimera.js) - Electron bindings for libvlc.
 
-## [21. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [23. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Russian / Game Engine resources
 
 *   [Flutter Dev Podcast](https://open.spotify.com/show/5qc1VFD4pkJlUYZBVTOFCI?si=OWn7VCELRO2QV03Gi2u8nA\&nd=1) - by [Eugene Saturov](https://twitter.com/saturovv).
 
-## [22. Awesome Math](/content/rossant/awesome-math/week/README.md)
+## [24. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
 ### Geometry and Topology / Differential Geometry
 
 *   📝 [Discrete Differential Geometry](http://www.cs.cmu.edu/~kmcrane/Projects/DDG/paper.pdf) - Keenan Crane
 
-## [23. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [25. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Dependency Management Extras
 
@@ -285,52 +315,27 @@
 
 ### Table of Contents / Code Quality
 
-*   [CaptainHook (⭐982)](https://github.com/captainhookphp/captainhook) - An easy-to-use and flexible Git hook library.
+*   [CaptainHook (⭐1k)](https://github.com/captainhookphp/captainhook) - An easy-to-use and flexible Git hook library.
 
-## [24. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [26. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Deep Learning Packages / Visualization Tools
 
 *   [altair](https://altair-viz.github.io/)
 
-## [25. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
-
-### Resources / External Resources
-
-*   [Vue.js Articles](https://thewebdev.info/category/javascript/vue/) - Assorted Vue 2 and 3 tutorials and articles.
-*   [Best vue.js Courses On YouTube](https://www.nbshare.io/blog/best-vue-js-courses-on-youtube/) - Handpicked list of best Vue.js tutorials on YouTube
-
-### Resources / Tutorials
-
-*   [Vue.js SPA: Build a Powerful E-Commerce App](https://snipcart.com/blog/building-a-vuejs-spa)
-
-### Resources / Examples
-
-*   [Google Keep Clone with Vue + Firestore (⭐99)](https://github.com/wobsoriano/vue-keep) - Google Keep clone with Vue and Firestore written in TypeScript.
-*   [Vue 3 Shopping Cart (⭐128)](https://github.com/wobsoriano/vue-cart) - A Shopping cart example using Vue 3, Vite, [daisyUI](https://daisyui.com/) and [Pinia](https://pinia.esm.dev/).
-
-### Components & Libraries / Frameworks
-
-*   [vuestic-ui (⭐3.4k)](https://github.com/epicmaxco/vuestic-ui) - A Vue.js 3.0 UI customizable UI Framework.
-*   [vuestic-admin (⭐10k)](https://github.com/epicmaxco/vuestic-admin) - Vue Admin Dashboard built with Vue 3 and `vuestic-ui`.
-
-### Components & Libraries / UI Components
-
-*   [vue-sweet-calendar (⭐35)](https://github.com/maryayi/vue-sweet-calendar) - A simple and sweet vue.js calendar
-
-## [26. Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/week/README.md)
+## [27. Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/week/README.md)
 
 ### Featured On
 
 *   [How to Deploy a REST API in Kubernetes](https://www.loginradius.com/blog/async/rest-api-kubernetes/)
 
-## [27. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
+## [28. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
 
 ### Automation / DSL
 
-*   [jmeter-as-code (⭐31)](https://github.com/anasoid/jmeter-as-code) - Simple wrapper for JMeter to write and execute JMeter tests with Java.
+*   [jmeter-as-code (⭐35)](https://github.com/anasoid/jmeter-as-code) - Simple wrapper for JMeter to write and execute JMeter tests with Java.
 
-## [28. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
+## [29. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
 
 ### Databases / ORMs
 
@@ -339,16 +344,16 @@
 
 ### Boilerplate / Other Tools
 
-*   [openapi-python-client (⭐1.2k)](https://github.com/openapi-generators/openapi-python-client) - Generate modern FastAPI Python clients (via FastAPI) from OpenAPI.
+*   [openapi-python-client (⭐1.4k)](https://github.com/openapi-generators/openapi-python-client) - Generate modern FastAPI Python clients (via FastAPI) from OpenAPI.
 
-## [29. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+## [30. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
-### Third-Party Packages / Admin
+### Third-Party Packages / Admin Themes
 
-*   [django-semantic-admin (⭐136)](https://github.com/globophobe/django-semantic-admin) - Django Semantic UI admin theme.
-*   [django-baton (⭐872)](https://github.com/otto-torino/django-baton) - A cool, modern and responsive django admin application based on bootstrap 5.
+*   [django-semantic-admin (⭐157)](https://github.com/globophobe/django-semantic-admin) - Django Semantic UI admin theme.
+*   [django-baton (⭐925)](https://github.com/otto-torino/django-baton) - A cool, modern and responsive django admin application based on bootstrap 5.
 
-## [30. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
+## [31. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
 
 ### Laravel
 
@@ -360,7 +365,7 @@
 
 
 
-## [31. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [32. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Artifact Repos
 
@@ -379,7 +384,7 @@
 
 *   [Flutter Flow](https://flutterflow.io) — Build your Flutter App UI without writing a single line of code. Also has a Firebase integration. The free plan includes full access to UI Builder and Free templates.
 
-## [32. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
+## [33. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
 
 ### IR Tools Collection / All-In-One Tools
 
@@ -431,7 +436,7 @@
 
 *   [Hoarder (⭐186)](https://github.com/muteb/Hoarder) - Collecting the most valuable artifacts for forensics or incident response investigations.
 
-## [33. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [34. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Bindings
 
@@ -441,7 +446,7 @@
 
 *   [VKtracer](https://www.vktracer.com) - universal and easy-to-use profiler for Vulkan.
 
-## [34. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [35. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Books
 
@@ -454,40 +459,40 @@
 
 ### Example Projects
 
-*   [Examples from Keycloak Book: Keycloak - Identity and Access Management for Modern Applications (⭐244)](https://github.com/PacktPublishing/Keycloak-Identity-and-Access-Management-for-Modern-Applications)
-*   [Example of adding API Key authentication to Keycloak (⭐110)](https://github.com/zak905/keycloak-api-key-demo)
+*   [Examples from Keycloak Book: Keycloak - Identity and Access Management for Modern Applications (⭐253)](https://github.com/PacktPublishing/Keycloak-Identity-and-Access-Management-for-Modern-Applications)
+*   [Example of adding API Key authentication to Keycloak (⭐120)](https://github.com/zak905/keycloak-api-key-demo)
 
 ### Miscellaneous
 
 *   [Pentest-Report Keycloak 8.0 Audit & Pentest 11.2019 by Cure53](https://cure53.de/pentest-report_keycloak.pdf)
 *   [Keycloak - CNCF Security SIG - Self Assesment](https://docs.google.com/document/d/14IIGliP3BWjdS-0wfOk3l_1AU8kyoSiLUzpPImsz4R0/edit#)
 
-## [35. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
+## [36. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
 
 ### Forms / Normal Forms
 
 *   [Form2Channel](https://form2channel.com/) - Post your HTML form to Form2Channel to store submissions in Google Sheets and receive them via email, Slack or Telegram. No signups, no costs, no limits.
 *   [reCAPTCHAme](https://recaptchame.com/) - reCAPTCHA and hCAPTCHA token verification service. Post your form to reCAPTCHAme to avoid getting spammed. Made for static websites, no server-side coding required.
 
-## [36. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
+## [37. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
 ### Visual programming
 
 *   [Super](https://super.so) - Build websites with the simplicity of Notion.
 
-## [37. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
+## [38. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
 ### Static Site Generators
 
 *   [Astro](https://astro.build) - Build faster websites, while shipping less to almost no Javascript.
 
-## [38. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md)
+## [39. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md)
 
 ### Libraries / Machine Learning
 
 *   [Summit (⭐106)](https://github.com/sustainable-processes/summit) - A python package for optimizing chemical reactions using machine learning (contains 10 algorithms + several benchmarks).
 
-## [39. Awesome Stacks Chain](/content/friedger/awesome-stacks-chain/week/README.md)
+## [40. Awesome Stacks Chain](/content/friedger/awesome-stacks-chain/week/README.md)
 
 ### Apps / Stacks Web Applications
 
@@ -540,21 +545,21 @@
 *   [Official Stacks Forum](https://forum.stacks.org/) - Stacks community forum.
 *   [r/stacks](https://www.reddit.com/r/stacks) - Stacks subreddit.
 
-## [40. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/week/README.md)
+## [41. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/week/README.md)
 
 ### Secrets Scanning / Ansible
 
 *   [Detect Secrets (⭐3.6k)](https://github.com/Yelp/detect-secrets) - *Yelp* - An aptly named module for (surprise, surprise) detecting secrets within a code base.
 
-## [41. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
+## [42. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
 ### Programming Languages / PHP
 
 *   [composer2nix (⭐88)](https://github.com/svanderburg/composer2nix) - Generate Nix expressions to build composer packages.
 *   [composition-c4 (⭐11)](https://github.com/fossar/composition-c4) - Support for building composer packages from a `composer.lock` (using IFD).
-*   [nix-phps (⭐63)](https://github.com/fossar/nix-phps) - Flake containing old and unmaintained PHP versions (intended for CI use).
+*   [nix-phps (⭐66)](https://github.com/fossar/nix-phps) - Flake containing old and unmaintained PHP versions (intended for CI use).
 
-## [42. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [43. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Algorithms and Data structures
 
@@ -562,7 +567,7 @@
 
 ### CLI Utils
 
-*   [oq (⭐190)](https://github.com/Blacksmoke16/oq) - A performant, and portable jq wrapper to facilitate the consumption and output of formats other than JSON; using [jq (⭐30k)](https://github.com/stedolan/jq) filters to transform the data
+*   [oq (⭐191)](https://github.com/Blacksmoke16/oq) - A performant, and portable jq wrapper to facilitate the consumption and output of formats other than JSON; using [jq (⭐31k)](https://github.com/stedolan/jq) filters to transform the data
 
 ### Dependency Injection
 
@@ -570,9 +575,9 @@
 
 ### Framework Components
 
-*   [mochi (⭐25)](https://github.com/awcrotwell/mochi) - Authentication shard inspired by Devise supporting: Authenticable, Confirmable, Invitable & more
+*   [mochi (⭐26)](https://github.com/awcrotwell/mochi) - Authentication shard inspired by Devise supporting: Authenticable, Confirmable, Invitable & more
 *   [motion.cr (⭐54)](https://github.com/awcrotwell/motion.cr) - Object oriented frontend library for Amber
-*   [tourmaline (⭐157)](https://github.com/protoncr/tourmaline) - Telegram bot framework with an API loosely based on [telegraf.js](https://telegraf.js.org/)
+*   [tourmaline (⭐161)](https://github.com/protoncr/tourmaline) - Telegram bot framework with an API loosely based on [telegraf.js](https://telegraf.js.org/)
 
 ### Misc
 
@@ -580,11 +585,11 @@
 
 ### ORM/ODM Extensions
 
-*   [avram (⭐165)](https://github.com/luckyframework/avram) - A database wrapper for reading, writing, and migrating Postgres databases
+*   [avram (⭐166)](https://github.com/luckyframework/avram) - A database wrapper for reading, writing, and migrating Postgres databases
 
 ### Queues and Messaging
 
-*   [mosquito (⭐225)](https://github.com/mosquito-cr/mosquito/) - Redis backed periodic and ad hoc job processing
+*   [mosquito (⭐229)](https://github.com/mosquito-cr/mosquito/) - Redis backed periodic and ad hoc job processing
 
 ### Serverless Computing
 
@@ -597,34 +602,19 @@
 
 ### LSP Language Server Protocol Implementations
 
-*   [crystalline (⭐428)](https://github.com/elbywan/crystalline) - Crystalline is an implementation of the Language Server Protocol written in and for the Crystal Language
+*   [crystalline (⭐453)](https://github.com/elbywan/crystalline) - Crystalline is an implementation of the Language Server Protocol written in and for the Crystal Language
 
-## [43. Awesome Gatling](/content/aliesbelik/awesome-gatling/week/README.md)
+## [44. Awesome Gatling](/content/aliesbelik/awesome-gatling/week/README.md)
 
 ### Official Resources
 
 *   [Homepage](https://gatling.io/)
 
-## [44. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [45. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### Crowdsourced transit data
 
-*   [GTFS-Hub (⭐26)](https://github.com/mfdz/gtfs-hub) - Community tested, probably quality/content enhanced, partially merged or filtered GTFS-feeds of (currently German) transport agencies. Maintained by [MITFAHR|DE|ZENTRALE](https://github.com/mfdz).
-
-## [45. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
-
-### Libraries/Frameworks / Web
-
-*   [hexagonkt/hexagon (⭐572)](https://github.com/hexagonkt/hexagon) - A Microservices framework that takes care of HTTP, serialization and storage.
-*   [jwstegemann/fritz2 (⭐643)](https://github.com/jwstegemann/fritz2) - small lib to build reactive web-apps in pure Kotlin based on Flows
-
-### Libraries/Frameworks / Misc
-
-*   [JoelW-S/groothy (⭐8)](https://github.com/JoelW-S/groothy) - Kotlin implementation of Groovy Truth.
-
-### Libraries/Frameworks / Graphics
-
-*   [kotlin-graphics/glm (⭐123)](https://github.com/kotlin-graphics/glm) - g-truck glm port, opengl mathematics library
+*   [GTFS-Hub (⭐30)](https://github.com/mfdz/gtfs-hub) - Community tested, probably quality/content enhanced, partially merged or filtered GTFS-feeds of (currently German) transport agencies. Maintained by [MITFAHR|DE|ZENTRALE](https://github.com/mfdz).
 
 ## [46. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
@@ -644,7 +634,7 @@
 
 ### Development
 
-- API: [Ciprand (⭐10)](https://github.com/polarspetroll/ciprand)
+- API: [Ciprand (⭐11)](https://github.com/polarspetroll/ciprand)
 
   Description: Secure random string generator
 
@@ -675,7 +665,7 @@
 ### Libraries
 
 *   [pointcloudset](https://virtual-vehicle.github.io/pointcloudset/) - Python library for efficient analysis of large datasets of point clouds recorded over time.
-    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐43)](https://github.com/virtual-vehicle/pointcloudset)
+    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐44)](https://github.com/virtual-vehicle/pointcloudset)
 
 ## [49. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/week/README.md)
 
@@ -693,11 +683,11 @@
 
 ### (requires Neovim 0.5)
 
-*   [stevearc/aerial.nvim (⭐1.6k)](https://github.com/stevearc/aerial.nvim) - A code outline window for skimming and quick navigation.
+*   [stevearc/aerial.nvim (⭐1.9k)](https://github.com/stevearc/aerial.nvim) - A code outline window for skimming and quick navigation.
 
 ### Markdown and LaTeX / Diagnostics
 
-*   [jubnzv/mdeval.nvim (⭐177)](https://github.com/jubnzv/mdeval.nvim) - Evaluate code blocks inside markdown documents.
+*   [jubnzv/mdeval.nvim (⭐202)](https://github.com/jubnzv/mdeval.nvim) - Evaluate code blocks inside markdown documents.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
@@ -705,11 +695,11 @@
 
 ### Utility / Diagnostics
 
-*   [matbme/JABS.nvim (⭐279)](https://github.com/matbme/JABS.nvim) - Pretty and minimal buffer switcher window.
+*   [matbme/JABS.nvim (⭐284)](https://github.com/matbme/JABS.nvim) - Pretty and minimal buffer switcher window.
 
 ### Git / Diagnostics
 
-*   [kdheepak/lazygit.nvim (⭐1.4k)](https://github.com/kdheepak/lazygit.nvim) - Plugin for calling lazygit.
+*   [kdheepak/lazygit.nvim (⭐1.7k)](https://github.com/kdheepak/lazygit.nvim) - Plugin for calling lazygit.
 
 ## [52. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/week/README.md)
 

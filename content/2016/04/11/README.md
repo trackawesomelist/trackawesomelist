@@ -56,7 +56,7 @@
 
 ### Datasets / Topic-specific
 
-*   [Gephi Datasets (⭐5.7k)](https://github.com/gephi/gephi/wiki/Datasets).
+*   [Gephi Datasets (⭐5.9k)](https://github.com/gephi/gephi/wiki/Datasets).
 *   [Siena Datasets](http://www.stats.ox.ac.uk/~snijders/siena/siena_datasets.htm).
 *   [UCI Network Data Repository](http://networkdata.ics.uci.edu/).
 
@@ -87,18 +87,18 @@
 
 ### Software / JavaScript
 
-*   [jLouvain (⭐146)](https://github.com/upphiminn/jLouvain) - Louvain community detection for Javascript ([example](http://bl.ocks.org/emeeks/125db75c9b55ddcbdeb5)).
+*   [jLouvain (⭐151)](https://github.com/upphiminn/jLouvain) - Louvain community detection for Javascript ([example](http://bl.ocks.org/emeeks/125db75c9b55ddcbdeb5)).
 
 ### Software / Python
 
 *   [graphviz](https://pypi.python.org/pypi/graphviz) - Python renderer for the DOT graph drawing language.
-*   [linkpred (⭐140)](https://github.com/rafguns/linkpred) - Assess the likelihood of potential links in a future snapshot of a network.
+*   [linkpred (⭐141)](https://github.com/rafguns/linkpred) - Assess the likelihood of potential links in a future snapshot of a network.
 *   [python-igraph](http://igraph.org/python/) - Python version of the igraph network analysis package.
 
 ### Software / R
 
 *   [RSiena](http://r-forge.r-project.org/R/?group_id=461) - Simulation Investigation for Empirical Network Analysis; fits models to longitudinal network data.
-*   [visNetwork (⭐536)](https://github.com/DataKnowledge/visNetwork) - Using vis.js library for network visualization.
+*   [visNetwork (⭐545)](https://github.com/DataKnowledge/visNetwork) - Using vis.js library for network visualization.
 
 ## [6. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 

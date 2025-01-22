@@ -168,7 +168,7 @@
 
 ### Other Useful Repositories
 
-- Repository: [Cryptography (⭐5.6k)](https://github.com/sobolevn/awesome-cryptography)
+- Repository: [Cryptography (⭐6k)](https://github.com/sobolevn/awesome-cryptography)
 
   Description: Cryptography resources and tools
 
@@ -299,8 +299,8 @@
 
 ### Programming / Python
 
-*   [Nilearn (⭐919)](https://github.com/nilearn/nilearn) - Module for performing statistical learning/machine learning on NeuroImaging data.
-*   [DIPY (⭐561)](https://github.com/nipy/dipy) - Toolbox for analysis of MR diffusion imaging.
+*   [Nilearn (⭐1.2k)](https://github.com/nilearn/nilearn) - Module for performing statistical learning/machine learning on NeuroImaging data.
+*   [DIPY (⭐712)](https://github.com/nipy/dipy) - Toolbox for analysis of MR diffusion imaging.
 
 ## [10. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 

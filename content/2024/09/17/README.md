@@ -16,7 +16,7 @@
 
 ### Microsoft Word
 
-*   [godocx (⭐77)](https://github.com/gomutex/godocx) - Library for reading and writing Microsoft Word (Docx) files.
+*   [godocx (⭐131)](https://github.com/gomutex/godocx) - Library for reading and writing Microsoft Word (Docx) files.
 
 ## [3. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
 
@@ -58,17 +58,17 @@
 ### List of articles and posts
 
 *   [Profitable and Best Online Business Ideas](https://penzu.com/public/cd3dd1573970fdd0) for 2024
-*   Unlocking the Potential of [Passive Income](https://party.biz/blogs/194334/373752/unlocking-the-potential-of-passive-income)
 *   [Profitable Online Business Ideas](https://sites.google.com/view/davidmaromandthehorizon/profitable-online-business-ideas-to-start-in-2024) to Start in 2024.
 *   The Ultimate Guide to [Starting an Online Business](https://mrseonow.mystrikingly.com/blog/the-ultimate-guide-to-starting-an-online-business)
+*   Exploring [Passive Income and Profitable Ventures](https://revelationscb.gamerlaunch.com/users/blog/6319678/2306232/exploring-passive-income-profitable-ventures/?gid=464616)
 *   [Top profitable business ideas](https://636ec9348a1eb.site123.me/mrseonowblog/top-profitable-business-ideas-to-kickstart-your-online-empire-in-2024) to kickstart your online empire.
 *   Unlocking [Profitable Business Ideas](https://medium.com/@allinformationhub/unlocking-profitable-business-ideas-for-2024-0cabcef1265b) for 2024.
-*   Unleashing Your Potential with [Passive Income and Digital Entrepreneurship](https://mrseonow.alboompro.com/post/unleashing-your-potential-with-passive-income-and-digital-entrepreneurship-2)
+*   Unlocking the Potential of [Passive Income](https://party.biz/blogs/194334/373752/unlocking-the-potential-of-passive-income)
 *   [Business Ideas for Generating Passive Income](https://information-hub-46012754.hubspotpagebuilder.com/blog/business-ideas-for-generating-passive-income-in-2024) in 2024.
-*   Exploring [Passive Income and Profitable Ventures](https://revelationscb.gamerlaunch.com/users/blog/6319678/2306232/exploring-passive-income-profitable-ventures/?gid=464616)
 *   Unlock Your Path to Success With [Online Business](https://modern-weight-94d.notion.site/Unlock-Your-Path-to-Success-With-Online-Business-102ee350b4cc80288156c3d6b696f5a5)
 *   Unlocking the Best Low-Cost [Business Ideas for Digital Entrepreneurs](https://allinformationhub.wixsite.com/mrseonow/post/unlocking-the-best-low-cost-business-ideas-for-digital-entrepreneurs-in-2024) in 2024.
 *   [Start Your Online Business](https://aihub159.blogspot.com/2024/09/start-your-online-business-ideas.html) Ideas Journey Today.
+*   Unleashing Your Potential with [Passive Income and Digital Entrepreneurship](https://mrseonow.alboompro.com/post/unleashing-your-potential-with-passive-income-and-digital-entrepreneurship-2)
 *   [Profitable Business Ideas](https://mrseonow8.wordpress.com/2024/09/16/profitable-business-ideas-for-aspiring-entrepreneurs/) for Aspiring Entrepreneurs
 *   Mastering the Art of [Digital Entrepreneurship](https://travelwithme.social/read-blog/51183)
 *   Expploring [Profitable Passive Income](https://telescope.ac/ultimate-destination-for-women-s-swimwear-bkningcom/e6hl6tkwf4xu51vvx6aipf)
@@ -90,7 +90,7 @@
 
 ### AppImage developer tools / Deployment tools for .NET Core (Mono) applications
 
-*   [DotnetPackaging (⭐48)](https://github.com/SuperJMN/DotnetPackaging) - Tool to distribute .NET applications in the AppImage format.
+*   [DotnetPackaging (⭐55)](https://github.com/SuperJMN/DotnetPackaging) - Tool to distribute .NET applications in the AppImage format.
 
 ## [9. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -102,30 +102,31 @@
 
 ### Platforms and Software Resources / Urban Design Tools and Platforms
 
-*   [Forma](https://www.autodesk.com/products/forma/overview)- Autodesk Forma is a clound based platform that enables architects and designers to conduct pre-design and schematic design evaluations and environmental impact simulations.
+*   [Forma](https://www.autodesk.com/products/forma/overview) - Autodesk Forma is a clound based platform that enables architects and designers to conduct pre-design and schematic design evaluations and environmental impact simulations.
 
 ## [11. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Analytics
 
-*   [Middleware](https://middlewarehq.com/) - Tool designed to help engineering leaders measure and analyze the effectiveness of their teams using the DORA metrics. ([Source Code (⭐1k)](https://github.com/middlewarehq/middleware)) `Apache-2.0` `Docker/Python/Nodejs`
+*   [Middleware](https://middlewarehq.com/) - Tool designed to help engineering leaders measure and analyze the effectiveness of their teams using the DORA metrics. ([Source Code (⭐1.2k)](https://github.com/middlewarehq/middleware)) `Apache-2.0` `Docker/Python/Nodejs`
 
 ### Software / Communication - Social Networks and Forums
 
-*   [Redlib (⭐1.1k)](https://github.com/redlib-org/redlib) `⚠` - An alternative private front-end to Reddit, with its origins in Libreddit. `AGPL-3.0` `Rust`
+*   [Redlib (⭐1.6k)](https://github.com/redlib-org/redlib) `⚠` - An alternative private front-end to Reddit, with its origins in Libreddit. `AGPL-3.0` `Rust`
 
 ### Software / Feed Readers
 
-*   [Precis (⭐22)](https://github.com/leozqin/precis) - Extensibility-oriented RSS reader that can use LLMs (including local LLMs) to summarize RSS entries with built-in notification support. `MIT` `Python/Docker`
+*   [Precis (⭐46)](https://github.com/leozqin/precis) - Extensibility-oriented RSS reader that can use LLMs (including local LLMs) to summarize RSS entries with built-in notification support. `MIT` `Python/Docker`
 
-### Software / Photo and Video Galleries
+### Software / Photo Galleries
 
-*   [Immich Kiosk (⭐341)](https://github.com/damongolding/immich-kiosk) - A lightweight slideshow for running on kiosk devices and browsers that uses Immich as a data source. `GPL-3.0` `Docker/Go`
+*   [Immich Kiosk (⭐638)](https://github.com/damongolding/immich-kiosk) - A lightweight slideshow for running on kiosk devices and browsers that uses Immich as a data source. `GPL-3.0` `Docker/Go`
 
 ### Software / Polls and Events
 
-*   [HeyForm](https://heyform.net) - Form builder that allows anyone to create engaging conversational forms for surveys, questionnaires, quizzes, and polls. ([Source Code (⭐6.3k)](https://github.com/heyform/heyform)) `AGPL-3.0` `Docker`
+*   [HeyForm](https://heyform.net) - Form builder that allows anyone to create engaging conversational forms for surveys, questionnaires, quizzes, and polls. ([Source Code (⭐7.4k)](https://github.com/heyform/heyform)) `AGPL-3.0` `Docker`
 
 ---
 
+- Prev: [Sep 18, 2024](/content/2024/09/18/README.md)
 - Next: [Sep 16, 2024](/content/2024/09/16/README.md)

@@ -8,9 +8,9 @@
 
 ## [1. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
-### Domain and IP Research / Telegram
+### Domain and IP Research / Steam
 
-*   [Squatm3gator (⭐28)](https://github.com/david3107/squatm3gator) - Enumerate available domains generated modifying the original domain name through different cybersquatting techniques
+*   [Squatm3gator (⭐31)](https://github.com/david3107/squatm3gator) - Enumerate available domains generated modifying the original domain name through different cybersquatting techniques
 
 ## [2. Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md)
 
@@ -136,21 +136,21 @@
 
 ### Development Projects / Miscellaneous
 
-*   [slack-emoji-pokemon (⭐364)](https://github.com/Templarian/slack-emoji-pokemon) - A list of Pokémon emojis for Slack.
+*   [slack-emoji-pokemon (⭐380)](https://github.com/Templarian/slack-emoji-pokemon) - A list of Pokémon emojis for Slack.
 
 ## [9. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / Communication
 
-*   [SpaceX GO (⭐830)](https://github.com/jesusrp98/spacex-go) - Simple yet powerful, open-source SpaceX launch tracker by [Chechu](https://github.com/jesusrp98/).
+*   [SpaceX GO (⭐866)](https://github.com/jesusrp98/spacex-go) - Simple yet powerful, open-source SpaceX launch tracker by [Chechu](https://github.com/jesusrp98/).
 
 ### Contents / Finance
 
-*   [Platypus Crypto (⭐181)](https://github.com/Blakexx/CryptoTracker) - Platypus Crypto is an ad-free cross-platform robust solution for tracking cryptocurrency assets by [Blake Bottum](https://github.com/Blakexx).
+*   [Platypus Crypto (⭐184)](https://github.com/Blakexx/CryptoTracker) - Platypus Crypto is an ad-free cross-platform robust solution for tracking cryptocurrency assets by [Blake Bottum](https://github.com/Blakexx).
 
 ### Contents / Media
 
-*   [Grey (⭐525)](https://github.com/avirias/Grey) - A Material designed music player developed in Flutter by [Avinash Kumar](https://github.com/avirias).
+*   [Grey (⭐526)](https://github.com/avirias/Grey) - A Material designed music player developed in Flutter by [Avinash Kumar](https://github.com/avirias).
 *   [InKino (⭐3.6k)](https://github.com/roughike/inKino) - A multiplatform Dart movie app by [Iiro Krankka](https://github.com/roughike).
 
 ### Contents / Productivity

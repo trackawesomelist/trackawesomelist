@@ -10,13 +10,13 @@
 
 ### Business
 
-*   [Social Enterprise (⭐92)](https://github.com/RayBB/awesome-social-enterprise#readme) - Building an organization primarily focused on social impact that is at least partially self-funded.
+*   [Social Enterprise (⭐99)](https://github.com/RayBB/awesome-social-enterprise#readme) - Building an organization primarily focused on social impact that is at least partially self-funded.
 
 ## [2. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Miscellaneous
 
-*   [2FAuth (⭐2k)](https://github.com/Bubka/2FAuth) - A web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes. ([Demo](https://demo.2fauth.app/)) `AGPL-3.0` `PHP/Docker`
+*   [2FAuth (⭐2.5k)](https://github.com/Bubka/2FAuth) - A web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes. ([Demo](https://demo.2fauth.app/)) `AGPL-3.0` `PHP/Docker`
 
 ## [3. Awesome Earth](/content/philsturgeon/awesome-earth/README.md)
 
@@ -77,7 +77,7 @@
 
 *   [Official Guide](https://svelte.dev/tutorial)
 *   [API Reference](https://svelte.dev/docs)
-*   [GitHub Repo (⭐78k)](https://github.com/sveltejs/svelte)
+*   [GitHub Repo (⭐80k)](https://github.com/sveltejs/svelte)
 
 ### Community
 
@@ -98,26 +98,21 @@
 
 ### Preprocessing
 
-*   [svelte-preprocess-markdown (⭐134)](https://github.com/AlexxNB/svelte-preprocess-markdown) - Write Svelte components in markdown syntax.
-*   [svelte-preprocess-postcss (⭐25)](https://github.com/TehShrike/svelte-preprocess-postcss) - Use PostCSS to preprocess your styles in Svelte components.
+*   [svelte-preprocess-markdown (⭐138)](https://github.com/AlexxNB/svelte-preprocess-markdown) - Write Svelte components in markdown syntax.
 
 ### UI Libraries
 
-*   [carbon-components-svelte (⭐2.6k)](https://github.com/IBM/carbon-components-svelte) - Svelte implementation of the IBM Carbon Design System.
+*   [carbon-components-svelte (⭐2.7k)](https://github.com/IBM/carbon-components-svelte) - Svelte implementation of the IBM Carbon Design System.
 
 ### Notification
 
-*   [svelte-favicon-badge (⭐102)](https://github.com/kevmodrome/svelte-favicon-badge) - A custom component that adds a favicon and a badge that you can use to show for example number of unread messages, etc.
+*   [svelte-favicon-badge (⭐101)](https://github.com/kevmodrome/svelte-favicon-badge) - A custom component that adds a favicon and a badge that you can use to show for example number of unread messages, etc.
 
 ### Calendar
 
-*   [svelte-calendar (⭐532)](https://github.com/6eDesign/svelte-calendar) - A lightweight datepicker with neat animations and a unique UX.
+*   [svelte-calendar (⭐544)](https://github.com/6eDesign/svelte-calendar) - A lightweight datepicker with neat animations and a unique UX.
 
-### Docs / Checkbox
-
-*   [svelte-docs (⭐166)](https://github.com/AlexxNB/svelte-docs) - A rapid way to write documentation for your Svelte components.
-
-### Test / Checkbox
+### Test / Form Components
 
 *   [jest-transform-svelte (⭐35)](https://github.com/rspieker/jest-transform-svelte) - Jest Transformer for Svelte components.
 
@@ -125,15 +120,11 @@
 
 *   [Svelte 3 Snippets](https://marketplace.visualstudio.com/items?itemName=fivethree.vscode-svelte-snippets) - Svelte 3 Snippets for VS Code.
 
-### Editors / Vim
-
-*   [vim-svelte (⭐316)](https://github.com/evanleck/vim-svelte) - Vim syntax highlighting and indentation for Svelte 3 components.
-
 ## [12. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
-### Entertainment / Social Media
+### Entertainment / Chat
 
-*   [kirc (⭐516)](https://github.com/mcpcpc/kirc) - Tiny IRC client.
+*   [kirc (⭐523)](https://github.com/mcpcpc/kirc) - Tiny IRC client.
 
 ## [13. Awesome Canvas](/content/raphamorim/awesome-canvas/README.md)
 
@@ -146,7 +137,7 @@
 
 ### Toolchains
 
-*   [toolchains (⭐77)](https://github.com/mosra/toolchains) - For cross-compiling with CMake. They are meant to be mainly used on ArchLinux. `[NO LICENSE]`
+*   [toolchains (⭐89)](https://github.com/mosra/toolchains) - For cross-compiling with CMake. They are meant to be mainly used on ArchLinux. `[NO LICENSE]`
 
 ## [15. Awesome Selenium](/content/christian-bromann/awesome-selenium/README.md)
 
@@ -169,7 +160,7 @@
 ### Deep Learning / Others
 
 *   [Tangent (⭐2.3k)](https://github.com/google/tangent) - Source-to-Source Debuggable Derivatives in Pure Python.
-*   [autograd (⭐6.8k)](https://github.com/HIPS/autograd) - Efficiently computes derivatives of numpy code.
+*   [autograd (⭐7k)](https://github.com/HIPS/autograd) - Efficiently computes derivatives of numpy code.
 *   [Caffe (⭐34k)](https://github.com/BVLC/caffe) - A fast open framework for deep learning.
 *   [nnabla (⭐2.7k)](https://github.com/sony/nnabla) - Neural Network Libraries by Sony.
 
@@ -193,17 +184,17 @@
 
 ### Third-Party Packages / Admin
 
-*   [django-admin-env-notice (⭐309)](https://github.com/dizballanze/django-admin-env-notice) - Visually distinguish environments in Django Admin, for example: `development`, `staging`, `production`.
+*   [django-admin-env-notice (⭐320)](https://github.com/dizballanze/django-admin-env-notice) - Visually distinguish environments in Django Admin, for example: `development`, `staging`, `production`.
 
 ### Third-Party Packages / Search Engine Optimisation
 
-*   [django-check-seo (⭐153)](https://github.com/kapt-labs/django-check-seo) - Check SEO of pages.
+*   [django-check-seo (⭐158)](https://github.com/kapt-labs/django-check-seo) - Check SEO of pages.
 
 ## [21. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
 
 ### Third-party Apps Plugins / Design Tooling
 
-*   [Nautilus Terminal (⭐320)](https://github.com/flozz/nautilus-terminal) - Integrates a terminal into Nautilus.
+*   [Nautilus Terminal (⭐326)](https://github.com/flozz/nautilus-terminal) - Integrates a terminal into Nautilus.
 
 ## [22. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 

@@ -36,11 +36,11 @@
 
 ## [5. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 
-### Tools and frameworks
+### Tools and frameworks (a-z↓)
 
-*   [reg-cli (⭐343)](https://github.com/bokuweb/reg-cli) - Visual regression test tool which output easy-to-read single file html report.
+*   [reg-cli (⭐362)](https://github.com/bokuweb/reg-cli) - Visual regression test tool which output easy-to-read single file html report.
 
-### Slideshows, talks and videos
+### Slideshows, talks and videos  (a-z↓)
 
 *   [CSS Regression Testing with Wraith](https://youtu.be/gE_19L0l2q0) - Screencast: Basic introduction to wraith, a screenshot comparison tool.
 
@@ -68,7 +68,7 @@
 
 ### Software / Ticketing
 
-*   [Request Tracker](https://www.bestpractical.com/rt/) - An enterprise-grade issue tracking system. ([Source Code (⭐926)](https://github.com/bestpractical/rt)) `GPL-2.0` `Perl`
+*   [Request Tracker](https://www.bestpractical.com/rt/) - An enterprise-grade issue tracking system. ([Source Code (⭐974)](https://github.com/bestpractical/rt)) `GPL-2.0` `Perl`
 
 ---
 

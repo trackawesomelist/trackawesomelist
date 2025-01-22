@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 12, 2019
 
-11 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -18,19 +18,13 @@
 
 *   [serverlessDotNetStarter (⭐52)](https://github.com/pharindoko/serverlessDotNetStarter) starter kit for development and deployment of lambda functions in the AWS cloud based on serverless framework.
 
-## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
-
-### Analytics, Events and Statistics
-
-*   [quantcast.com](https://www.quantcast.com/products/measure-audience-insights/) — Unlimited free analytics
-
-## [4. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+## [3. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 
 ### SwiftUI
 
 *   [*SwiftUI by Example* by Paul Hudson](https://www.hackingwithswift.com/quick-start/swiftui)
 
-## [5. Awesome Git Hooks](/content/CompSciLauren/awesome-git-hooks/README.md)
+## [4. Awesome Git Hooks](/content/CompSciLauren/awesome-git-hooks/README.md)
 
 ### Quick Start / update
 
@@ -40,25 +34,25 @@
 *   Open your new file and paste the code from the hook you chose out of this repo (eg: [verify-name-and-email.hook (⭐919)](https://github.com/CompSciLauren/git-hooks/blob/master/pre-commit-hooks/verify-name-and-email.hook)).
 *   Save file. Done! Now the git hook will be triggered automatically.
 
-## [6. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
+## [5. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
 
 ### Vector Graphics / Unspecified License
 
-*   [Mega Doodles Pack (⭐469)](https://github.com/MariaLetta/mega-doodles-pack) - [:copyright:](https://creativecommons.org/licenses/by-sa/4.0/) Free and big CC Attribution-ShareAlike 4.0 vector pack with hand-drawn doodles for presentations, social media, blog posts and so on.
+*   [Mega Doodles Pack (⭐496)](https://github.com/MariaLetta/mega-doodles-pack) - [:copyright:](https://creativecommons.org/licenses/by-sa/4.0/) Free and big CC Attribution-ShareAlike 4.0 vector pack with hand-drawn doodles for presentations, social media, blog posts and so on.
 
-## [7. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
+## [6. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
 ### Extensions
 
-*   [next-session (⭐334)](https://github.com/hoangvvo/next-session) - Session middleware for Next.js
+*   [next-session (⭐354)](https://github.com/hoangvvo/next-session) - Session middleware for Next.js
 
-## [8. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
+## [7. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
 ### Packages / Articles
 
 *   [How does Ember Boot?](https://hackernoon.com/how-does-ember-boot-5e1f9e7a1117)
 
-## [9. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
+## [8. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
 ### OS Images
 
@@ -66,15 +60,9 @@
 
 ### Tools
 
-*   [HealthyPi (⭐192)](https://github.com/Protocentral/protocentral-healthypi-v3) - HAT which includes vital health monitoring like ECG, respiration, pulse oximetry and optional blood pressure & body temperature sensing. ![Supports Raspberry Pi 2+](https://github.com/thibmaek/awesome-raspberry-pi/raw/main/media/badges/rpi-2+.png)
+*   [HealthyPi (⭐196)](https://github.com/Protocentral/protocentral-healthypi-v3) - HAT which includes vital health monitoring like ECG, respiration, pulse oximetry and optional blood pressure & body temperature sensing. ![Supports Raspberry Pi 2+](https://github.com/thibmaek/awesome-raspberry-pi/raw/main/media/badges/rpi-2+.png)
 
-## [10. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
-
-### Files and Directories / File Managers
-
-*   [fff (⭐4k)](https://github.com/dylanaraps/fff) - Fast, simple file manager.
-
-## [11. Awesome Android](/content/JStumpp/awesome-android/README.md)
+## [9. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
 ### REST / ORM
 

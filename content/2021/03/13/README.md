@@ -38,7 +38,7 @@
 ### Standalone apps / Playground
 
 *   :octocat: [alm (⭐3k)](https://github.com/alm-tools/alm) - A next generation IDE just for TypeScript written in TypeScript + React
-*   :octocat: [SnowFS (⭐1.3k)](https://github.com/snowtrack/snowfs) - a fast, scalable version control file storage for graphic files
+*   :octocat: [SnowFS](https://github.com/snowtrack/snowfs) - a fast, scalable version control file storage for graphic files
 
 ## [3. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/README.md)
 
@@ -48,26 +48,22 @@
 
 ## [4. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
-### Plugins and scripts / Various Godot versions
+### Plugins and scripts / Godot 3
 
-*   [EffekseerForGodot3 (⭐131)](https://github.com/effekseer/EffekseerForGodot3) - Import [Effekseer](https://effekseer.github.io/en/) particle effects (Godot 3.x).
+*   [EffekseerForGodot3 (⭐132)](https://github.com/effekseer/EffekseerForGodot3) - Import [Effekseer](https://effekseer.github.io/en/) particle effects.
 
 ## [5. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Modules / Utils
 
-*   [maze\_generator (⭐37)](https://github.com/mjrlowe/maze_generator) - Javascript module for generating, solving, analyzing and displaying mazes.
-
-### Articles / XML
-
-*   [Test coverage in Deno with Codecov and GitHub Actions](https://v1rtl.site/blog/coverage-in-deno)
+*   [maze\_generator (⭐38)](https://github.com/mjrlowe/maze_generator) - Javascript module for generating, solving, analyzing and displaying mazes.
 
 ## [6. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
 
 ### Tools / Linters
 
 *   [flake8-typing-imports (⭐48)](https://github.com/asottile/flake8-typing-imports) - Plugin which checks that typing imports are properly guarded.
-*   [flake8-typing-only-imports (⭐112)](https://github.com/sondrelg/flake8-typing-only-imports) - flake8 plugin that helps identify which imports to put into type-checking blocks, and how to adjust your type annotations once imports are moved.
+*   [flake8-typing-only-imports (⭐116)](https://github.com/sondrelg/flake8-typing-only-imports) - flake8 plugin that helps identify which imports to put into type-checking blocks, and how to adjust your type annotations once imports are moved.
 
 ## [7. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 

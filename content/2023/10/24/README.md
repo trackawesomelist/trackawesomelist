@@ -52,11 +52,11 @@
 
 ### Motion / Diagnostics
 
-*   [smoka7/hop.nvim (⭐410)](https://github.com/smoka7/hop.nvim) - Hop is an EasyMotion-like plugin allowing you to jump anywhere in a document with as few keystrokes as possible.
+*   [smoka7/hop.nvim (⭐556)](https://github.com/smoka7/hop.nvim) - Hop is an EasyMotion-like plugin allowing you to jump anywhere in a document with as few keystrokes as possible.
 
 ### Indent / Diagnostics
 
-*   [VidocqH/auto-indent.nvim (⭐70)](https://github.com/VidocqH/auto-indent.nvim) - Auto indent cursor when cursor at the first column and press `<TAB>` key like VSCode.
+*   [VidocqH/auto-indent.nvim (⭐78)](https://github.com/VidocqH/auto-indent.nvim) - Auto indent cursor when cursor at the first column and press `<TAB>` key like VSCode.
 
 ## [6. Ai Collective Tools](/content/Hyraze/ai-collective-tools/README.md)
 
@@ -100,21 +100,12 @@
 ### Development tools / FFI
 
 *   Prolog
-    *   [mthom/scryer-prolog (⭐2k)](https://github.com/mthom/scryer-prolog/) - Scryer Prolog is a free software ISO Prolog system written in Rust
+    *   [mthom/scryer-prolog (⭐2.1k)](https://github.com/mthom/scryer-prolog/) - Scryer Prolog is a free software ISO Prolog system written in Rust
 
 ## [8. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 
 ### Party
 
-### [Five Tribes](https://boardgamegeek.com/boardgame/157354/five-tribes)
-
-> In the fabled Sultanate of Naqala, the old sultan's passing has left control of the realm in contention, as strangers aim to fulfill the oracles' prophecy by shrewdly maneuvering the Five Tribes—Assassins, Elders, Builders, Merchants, and Viziers—across villages, markets, oases, and sacred places. Designed by Bruno Cathala, Five Tribes is a captivating twist on worker placement games, with meeples already in place at the start. As you invoke Djinns and make calculated moves, you must strategically consider when and where to displace the tribes to secure your influence over this legendary city-state, all while weighing different pathways to victory and outmaneuvering your rivals.
-
-![Five Tribes](https://cf.geekdo-images.com/dmo-WD6HZHVUPrbVHunaTw__itemrep/img/4RfYsuXBO2FrnJynkXV5zTj7PU4=/fit-in/246x300/filters:strip_icc\(\)/pic2055255.jpg)
-
-| Players | Min. Age |   Time |
-| ------: | -------: | -----: |
-|   2 - 4 |       13 | 40–80m |
 ### [Thunderstone](https://boardgamegeek.com/boardgame/53953/thunderstone)
 
 > Thunderstone is a fantasy deck-building game much in the style of Dominion. Before the game starts a selection of Village and Hero cards will be randomnly chosen that players may add to their specific decks. Like Dominion, every player starts with a basic deck of weaker cards that they can use to purchase other more powerful cards. In Thunderstone these cards may be different Heroes such as mages, archers, thieves, or warriors or they may be supplies the heroes need like weapons, rations, or light to reach further into the dungeon.
@@ -142,15 +133,6 @@
 | Players | Min. Age |   Time |
 | ------: | -------: | -----: |
 |   1 - 4 |       10 | 45-60m |
-### [Paths of Glory](https://boardgamegeek.com/boardgame/91/paths-glory)
-
-> Paths of Glory: The First World War, designed by six-time Charles S. Roberts awards winner, Ted Raicer, allows players to step into the shoes of the monarchs and marshals who triumphed and bungled from 1914 to 1918. As the Central Powers you must use the advantage of interior lines and the fighting skill of the Imperial German Army to win your rightful 'place in the sun.' As the Entente Powers (Allies) you must bring your greater numbers to bear to put an end to German militarism and ensure this is the war 'to end all wars.' Both players will find their generalship and strategic abilities put to the test as Paths of Glory's innovative game systems let you recreate all the dramatic events of World War I.
-
-![Paths of Glory](https://cf.geekdo-images.com/Ip4TygnwFxuR57Vky9ZeZA__itemrep/img/D1X3z1gSLJg1IltMfhTpfhZ_dPA=/fit-in/246x300/filters:strip_icc\(\)/pic4490515.jpg)
-
-| Players | Min. Age | Time |
-| ------: | -------: | ---: |
-|       2 |       14 | 480m |
 ### [Calico](https://boardgamegeek.com/boardgame/283155/calico)
 
 > Calico is a puzzly tile-laying game of quilts and cats. In Calico, players compete to sew the coziest quilt as they collect and place patches of different colors and patterns. Each quilt has a particular pattern that must be followed, and players are also trying to create color and pattern combinations that are not only aesthetically pleasing, but also able to attract the cuddliest cats! Turns are simple. Select a single patch tile from your hand and sew it into your quilt, then draw another patch into your hand from the three available. If you are able to create a color group, you may sew a button onto your quilt. If you are able to create a pattern combination that is attractive to any of the cats, it will come over and curl up on your quilt! At the end of the game, you score points for buttons, cats, and how well you were able to complete your unique quilt pattern.

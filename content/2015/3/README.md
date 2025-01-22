@@ -243,7 +243,7 @@
 
 ### Packages / Weird
 
-*   [cat-names (⭐270)](https://github.com/sindresorhus/cat-names) - Get popular cat names.
+*   [cat-names (⭐272)](https://github.com/sindresorhus/cat-names) - Get popular cat names.
 *   [dog-names (⭐124)](https://github.com/sindresorhus/dog-names) - Get popular dog names.
 
 ## [8. Awesome Lua](/content/LewisJEllis/awesome-lua/week/README.md)
@@ -365,7 +365,7 @@
 
 ### Programming Languages / Go
 
-*   [Go Code Review Comments (⭐121k)](https://github.com/golang/go/wiki/CodeReviewComments)
+*   [Go Code Review Comments (⭐123k)](https://github.com/golang/go/wiki/CodeReviewComments)
 
 ## [16. Awesome Ripple](/content/vhpoet/awesome-ripple/week/README.md)
 
@@ -429,25 +429,25 @@
 
 ### DevOps Tools
 
-*   [Centurion (⭐1.7k)](https://github.com/newrelic/centurion) - A mass deployment tool for Docker fleets.
+*   [Centurion (⭐1.8k)](https://github.com/newrelic/centurion) - A mass deployment tool for Docker fleets.
 
 ### Money
 
-*   [Monetize (⭐424)](https://github.com/RubyMoney/monetize) - A library for converting various objects into Money objects.
+*   [Monetize (⭐433)](https://github.com/RubyMoney/monetize) - A library for converting various objects into Money objects.
 
 ### ORM/ODM Extensions
 
 *   Import
-    *   [ActiveRecord Import (⭐4k)](https://github.com/zdennis/activerecord-import) - a library for bulk inserting data using ActiveRecord.
-    *   [bulk\_insert (⭐818)](https://github.com/jamis/bulk_insert) - A little ActiveRecord extension for helping to insert lots of rows in a single insert statement.
-    *   [data\_miner (⭐301)](https://github.com/seamusabshere/data_miner) - Download, pull out of a ZIP/TAR/GZ/BZ2 archive, parse, correct, and import XLS, ODS, XML, CSV, HTML, etc. into your ActiveRecord models.
-    *   [ferry (⭐244)](https://github.com/cmu-is-projects/ferry) - A ruby gem for easy data transfer.
+    *   [ActiveRecord Import (⭐4.1k)](https://github.com/zdennis/activerecord-import) - a library for bulk inserting data using ActiveRecord.
+    *   [bulk\_insert (⭐819)](https://github.com/jamis/bulk_insert) - A little ActiveRecord extension for helping to insert lots of rows in a single insert statement.
+    *   [data\_miner (⭐302)](https://github.com/seamusabshere/data_miner) - Download, pull out of a ZIP/TAR/GZ/BZ2 archive, parse, correct, and import XLS, ODS, XML, CSV, HTML, etc. into your ActiveRecord models.
+    *   [ferry (⭐245)](https://github.com/cmu-is-projects/ferry) - A ruby gem for easy data transfer.
 
 ## [19. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Markdown
 
-*   [Markdown (⭐87)](https://github.com/devinus/markdown) - Implemented entirely as a NIF binding to the Hoedown library.
+*   [Markdown (⭐88)](https://github.com/devinus/markdown) - Implemented entirely as a NIF binding to the Hoedown library.
 
 ### Websites
 

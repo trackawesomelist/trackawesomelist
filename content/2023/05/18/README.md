@@ -66,19 +66,19 @@ Topics: React, React Native, GraphQL, Universal Components\
 
 ### Boilerplates
 
-*   [Next.js Enterprise (⭐5.2k)](https://github.com/Blazity/next-enterprise) - enterprise-grade boilerplate for high-performance, maintainable apps. Built with Tailwind CSS, RadixUI, TypeScript and more.
+*   [Next.js Enterprise](https://github.com/Blazity/next-enterprise) - enterprise-grade boilerplate for high-performance, maintainable apps. Built with Tailwind CSS, RadixUI, TypeScript and more.
 
 ## [3. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
 
 ### Authentication Authorisation
 
-*   [Vert.x Auth SQL (⭐154)](https://github.com/eclipse-vertx/vertx-auth)  <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Vert.x authentication/authorisation based on the Vert.x SQL client and a relational database.
+*   [Vert.x Auth SQL (⭐166)](https://github.com/eclipse-vertx/vertx-auth)  <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Vert.x authentication/authorisation based on the Vert.x SQL client and a relational database.
 
 ## [4. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### Autonomous LLM Agents / Prompt Engineering for Text-to-image
 
-*   [101dotxyz/GPTeam (⭐1.6k)](https://github.com/101dotxyz/GPTeam): "GPTeam uses GPT-4 to create multiple agents who collaborate to achieve predefined goals"
+*   [101dotxyz/GPTeam (⭐1.7k)](https://github.com/101dotxyz/GPTeam): "GPTeam uses GPT-4 to create multiple agents who collaborate to achieve predefined goals"
 
 ### Text-related Generative Tools / Multi-agents
 
@@ -106,7 +106,7 @@ Topics: React, React Native, GraphQL, Universal Components\
 
 ### Browser-Based / Others
 
-*   [Double Damnation (⭐17)](https://github.com/TheYellowArchitect/doubledamnation) - Exclusively Co-Op Metroidvania with Smash Bros Melee Movement.
+*   [Double Damnation (⭐20)](https://github.com/TheYellowArchitect/doubledamnation) - Exclusively Co-Op Metroidvania with Smash Bros Melee Movement.
 
 ## [7. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 

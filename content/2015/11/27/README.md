@@ -29,7 +29,7 @@
 ### Papers
 
 *   [Optimization Based Controller Design and Implementation for the
-    Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/\~cga/drc/ICHR15_0025_MS.pdf)
+    Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/drc/ICHR15_0025_MS.pdf)
 
 ### Competitions
 

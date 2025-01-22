@@ -10,7 +10,7 @@
 
 ### Miscellaneous
 
-*   [The Command Line Murders (⭐5.4k)](https://github.com/veltman/clmystery) - There's been a murder in Terminal City, and TCPD needs your help.
+*   [The Command Line Murders (⭐5.7k)](https://github.com/veltman/clmystery) - There's been a murder in Terminal City, and TCPD needs your help.
 *   [SQL Murder Mystery](https://mystery.knightlab.com/) - The SQL Murder Mystery is designed to be both a self-directed lesson to learn S
     QL concepts and commands and a fun game for experienced SQL users to solve an intriguing crime.
 *   [S3 Game](http://s3game-level1.s3-website.us-east-2.amazonaws.com/) - You are the treasure hunter. Your task is to get as many secret
@@ -21,7 +21,7 @@
 
 ## [2. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
-### Plugins and scripts / Godot 3.2+
+### Plugins and scripts / Godot 3
 
 *   [Line Collider 2D (⭐8)](https://github.com/Kylogias/godot-line-collider-2d) - A script which adds colliders that follow an array of Line2Ds (useful for prototypes).
 
@@ -30,8 +30,8 @@
 ### UI Libraries, Components & Templates
 
 *   📚 [a17t](https://a17t.miles.land) - Atomic design toolkit built to extend Tailwind CSS.
-*   📚 [tails-ui (⭐197)](https://github.com/knipferrc/tails-ui) - React UI library using Tailwind CSS.
-*   📚 [tails (⭐55)](https://github.com/thedevdojo/tails) - Hand-crafted templates and components using Tailwind CSS.
+*   📚 [tails-ui (⭐196)](https://github.com/knipferrc/tails-ui) - React UI library using Tailwind CSS.
+*   📚 [tails (⭐62)](https://github.com/thedevdojo/tails) - Hand-crafted templates and components using Tailwind CSS.
 *   📁 [Vue Notus](https://www.creative-tim.com/product/vue-notus) - Open-source Tailwind CSS and Vue.js UI kit.
 *   📁 [EasyTailwind](https://easytailwind.now.sh) - Freemium, easily customizable templates made with Tailwind CSS.
 
@@ -39,7 +39,7 @@
 
 ### (requires Neovim 0.5)
 
-*   [mfussenegger/nvim-lint (⭐1.9k)](https://github.com/mfussenegger/nvim-lint) - An asynchronous linter plugin, complementary to the built-in Language Server Protocol support.
+*   [mfussenegger/nvim-lint (⭐2.1k)](https://github.com/mfussenegger/nvim-lint) - An asynchronous linter plugin, complementary to the built-in Language Server Protocol support.
 
 ## [5. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
@@ -197,11 +197,11 @@
 
 ### Communications / LoRaWAN
 
-*   [u-lora (⭐67)](https://github.com/martynwheeler/u-lora) - Raspi-lora for MicroPython.
+*   [u-lora (⭐73)](https://github.com/martynwheeler/u-lora) - Raspi-lora for MicroPython.
 
 ### Display / E-Paper
 
-*   [eInk-micropython (⭐23)](https://github.com/dhallgb/eInk-micropython) - eInk library for Waveshare 4.3inch device on MicroPython.
+*   [eInk-micropython (⭐24)](https://github.com/dhallgb/eInk-micropython) - eInk library for Waveshare 4.3inch device on MicroPython.
 
 ### IO / Potentiometers
 
@@ -209,7 +209,7 @@
 
 ### Sensors / Motion Inertial
 
-*   [micropython-bno055 (⭐47)](https://github.com/micropython-IMU/micropython-bno055) - Bosch BNO055 driver for MicroPython. IMU with hardware sensor fusion.
+*   [micropython-bno055 (⭐52)](https://github.com/micropython-IMU/micropython-bno055) - Bosch BNO055 driver for MicroPython. IMU with hardware sensor fusion.
 
 ## [13. Awesome Design Systems](/content/alexpate/awesome-design-systems/README.md)
 
@@ -232,7 +232,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐256)](https://github.com/mozilla/protocol)
+  Source code \*: [:octocat: (⭐261)](https://github.com/mozilla/protocol)
 
 
 

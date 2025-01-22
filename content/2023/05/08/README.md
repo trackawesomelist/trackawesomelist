@@ -16,25 +16,21 @@
 
 ### Native / Rhythm
 
-*   [osu! (⭐15k)](https://github.com/ppy/osu) - Rhythm is just a *click* away!
+*   [osu! (⭐16k)](https://github.com/ppy/osu) - Rhythm is just a *click* away!
 
 ### Frameworks/Engines/Libraries / IOS
 
-*   [osu-framework (⭐1.6k)](https://github.com/ppy/osu-framework) - A game framework written with osu! in mind.
+*   [osu-framework (⭐1.7k)](https://github.com/ppy/osu-framework) - A game framework written with osu! in mind.
 
 ## [3. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [echasnovski/mini.nvim#colorschemes (⭐4.7k)](https://github.com/echasnovski/mini.nvim#plugin-colorschemes) - Color schemes included in `mini.nvim` plugin. All of them prioritize high contrast ratio for reading text and computing palettes in perceptually uniform color spaces.
+*   [echasnovski/mini.nvim#colorschemes (⭐6.2k)](https://github.com/echasnovski/mini.nvim#plugin-colorschemes) - Color schemes included in `mini.nvim` plugin. All of them prioritize high contrast ratio for reading text and computing palettes in perceptually uniform color spaces.
 
 ### Colorscheme Creation / Diagnostics
 
-*   [echasnovski/mini.nvim#mini.hues (⭐4.7k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-hues.md) - Module of `mini.nvim` to generate configurable color scheme. Takes only background and foreground colors as required arguments. Can adjust number of hues for non-base colors, saturation, accent color, plugin integration.
-
-### GitHub / Diagnostics
-
-*   [topaxi/gh-actions.nvim (⭐98)](https://github.com/topaxi/gh-actions.nvim) - View and dispatch GitHub Actions workflow runs.
+*   [echasnovski/mini.nvim#mini.hues (⭐6.2k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-hues.md) - Module of `mini.nvim` to generate configurable color scheme. Takes only background and foreground colors as required arguments. Can adjust number of hues for non-base colors, saturation, accent color, plugin integration.
 
 ## [4. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
 
@@ -59,9 +55,9 @@
 
 *   [Nekton.ai](https://nekton.ai/): automate your workflows with AI
 
-### Inbox: Speech-to-text (STT) and spoken content analysis / Deforum
+### Speech-to-text (STT) and spoken content analysis / Deforum
 
-*   [gventuri/pandas-ai (⭐12k)](https://github.com/gventuri/pandas-ai): Pandas AI is a Python library that integrates LLMs capabilities into Pandas, making dataframes conversational
+*   [gventuri/pandas-ai (⭐14k)](https://github.com/gventuri/pandas-ai): Pandas AI is a Python library that integrates LLMs capabilities into Pandas, making dataframes conversational
 
 ## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -70,10 +66,6 @@
 *   [kandi](https://kandi.openweaver.com/) — Jumpstart Application Development: build custom functions, and use cases, and complete applications faster through code snippets and open-source library reuse.
 
 ## [7. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
-
-### Hacks and homebrew / Ironsworn
-
-*   [Space Sightings Expanded](https://www.drivethrurpg.com/product/426718) - Generators for wonders you might discover while voyaging through space
 
 ### Game jams / Ironsworn
 
@@ -85,7 +77,7 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [alias-maker (⭐6)](https://github.com/MefitHp/alias-maker) - Allows you to easily create and manage aliases from the command line.
+*   [alias-maker (⭐7)](https://github.com/MefitHp/alias-maker) - Allows you to easily create and manage aliases from the command line.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -100,15 +92,11 @@
 *   Harvey. [First](https://www.cs.ubc.ca/~nickhar/Book1.pdf) and [Second](https://www.cs.ubc.ca/~nickhar/Book2.pdf) Course in Randomized Algorithms. Columbia. - Respectively, undergrad and grad courses for probabilistic methods in algorithms.
 *   [Lee. Randomized Algorithms and Probabilistic Analysis. Washington.](https://homes.cs.washington.edu/~jrl/teaching/cse525sp19/) - Topics include Discrete probability, High-dimensional geometry and statistics, Information and entropy, and Markov chains and convergence to equilibrium.
 
-### Aggregator / Monograph
-
-*   [TCS Job Market](https://sites.google.com/view/tcsjobmarket/home) - Theoretical Computer Science (TCS) job candidates, including PhD students expecting to graduate by Sep 1, 2023, current postdocs, and current faculty.
-
 ## [10. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Tools / Misc
 
-*   [Aqueduct (⭐522)](https://github.com/aqueducthq/aqueduct) - Aqueduct enables you to easily define, run, and manage AI & ML tasks on any cloud infrastructure.
+*   [Aqueduct (⭐521)](https://github.com/aqueducthq/aqueduct) - Aqueduct enables you to easily define, run, and manage AI & ML tasks on any cloud infrastructure.
 
 ---
 

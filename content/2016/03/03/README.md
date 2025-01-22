@@ -46,13 +46,13 @@
 
 ### Framework Components
 
-*   [absinthe\_plug (⭐255)](https://github.com/absinthe-graphql/absinthe_plug) - Plug support for Absinthe.
+*   [absinthe\_plug (⭐261)](https://github.com/absinthe-graphql/absinthe_plug) - Plug support for Absinthe.
 
 ## [8. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Gesture
 
-*   [SwiftyGestureRecognition (⭐162)](https://github.com/b3ll/SwiftyGestureRecognition) - UIGestureRecognizers in Xcode Playgrounds.
+*   [SwiftyGestureRecognition (⭐163)](https://github.com/b3ll/SwiftyGestureRecognition) - UIGestureRecognizers in Xcode Playgrounds.
 
 ## [9. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 

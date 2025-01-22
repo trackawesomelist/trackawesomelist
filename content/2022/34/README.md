@@ -10,11 +10,11 @@
 
 ### Official plugins
 
-*   [Preferences (⭐493)](https://github.com/ionic-team/capacitor-plugins/tree/main/preferences) - Provides a simple key/value persistent store for lightweight data, ex Storage.
+*   [Preferences (⭐546)](https://github.com/ionic-team/capacitor-plugins/tree/main/preferences) - Provides a simple key/value persistent store for lightweight data, ex Storage.
 
 ### Community plugins
 
-*   [Electron (⭐324)](https://github.com/capacitor-community/electron) - Support for the Electron platform.
+*   [Electron (⭐351)](https://github.com/capacitor-community/electron) - Support for the Electron platform.
 
 ## [2. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
@@ -43,9 +43,9 @@
 *   :notebook: [A generic approach to automatic deobfuscation of executable code](https://ieeexplore.ieee.org/document/7163054) (May 2015)  :star:
 *   :newspaper: [Malware analysis using multiple API sequence mining control flow graph](https://arxiv.org/abs/1707.02691) (July 2017)
 *   :notebook: [Obfuscation-resilient executable payload extraction from packed malware](https://www.usenix.org/conference/usenixsecurity21/presentation/cheng-binlin) (August 2021)  :star:
-*   :notebook: [PolyUnpack: Automating the hidden-code extraction of unpack-executing malware](https://ieeexplore.ieee.org/document/4041175) (December 2006)  :star: :star: :star:
-*   :notebook: [SoK: Deep packer inspection: A longitudinal study of the complexity of run-time packers](https://ieeexplore.ieee.org/document/7163053) (May 2015)  :star2: :star2: :star2:
-*   :notebook: [When malware is packin' heat; limits of machine learning classifiers based on static analysis features](https://www.ndss-symposium.org/wp-content/uploads/2020/02/24310.pdf) (January 2020)  :star:
+*   :notebook: [PolyUnpack: Automating the hidden-code extraction of unpack-executing malware](https://ieeexplore.ieee.org/document/4041175) (December 2006)  :star2: :star2: :star2:
+*   :notebook: [SoK: Deep packer inspection: A longitudinal study of the complexity of run-time packers](https://ieeexplore.ieee.org/document/7163053) (May 2015)  :star: :star:
+*   :notebook: [When malware is packin' heat; limits of machine learning classifiers based on static analysis features](https://www.ndss-symposium.org/wp-content/uploads/2020/02/24310.pdf) (January 2020)  :star: :star:
 
 ## [6. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
@@ -53,9 +53,9 @@
 
 *   [BeVigil](https://bevigil.com/search) - Search for assets like Subdomains, URLs, Parameters in mobile applications
 
-### Other Tools / Telegram
+### Other Tools / Steam
 
-*   [BeVigil-CLI (⭐105)](https://github.com/Bevigil/BeVigil-OSINT-CLI) - A unified command line interface and python library for using BeVigil OSINT API to search for assets such as subdomains, URLs, applications indexed from mobile applications.
+*   [BeVigil-CLI (⭐120)](https://github.com/Bevigil/BeVigil-OSINT-CLI) - A unified command line interface and python library for using BeVigil OSINT API to search for assets such as subdomains, URLs, applications indexed from mobile applications.
 
 ## [7. Nlp with Ruby](/content/arbox/nlp-with-ruby/week/README.md)
 
@@ -68,7 +68,7 @@
 
 ### Projects / Frameworks
 
-*   [VCFloat (⭐21)](https://github.com/VeriNum/vcfloat) - Framework for verifying C programs with floating-point computations.
+*   [VCFloat (⭐26)](https://github.com/VeriNum/vcfloat) - Framework for verifying C programs with floating-point computations.
 
 ### Resources / Community
 
@@ -78,7 +78,7 @@
 
 ### Network Protocols
 
-*   [mqtt-client.cr (⭐3)](https://github.com/84codes/mqtt-client.cr) - A fast and lightweight MQTT client
+*   [mqtt-client.cr (⭐4)](https://github.com/84codes/mqtt-client.cr) - A fast and lightweight MQTT client
 
 ## [10. Awesome Honeypots](/content/paralax/awesome-honeypots/week/README.md)
 
@@ -105,17 +105,17 @@
 
 ### Awesome Repositories
 
-- Repository: [Capsulecorp Pentest (⭐798)](https://github.com/r3dy/capsulecorp-pentest)
+- Repository: [Capsulecorp Pentest (⭐856)](https://github.com/r3dy/capsulecorp-pentest)
 
   Description: Vagrant+Ansible virtual network penetration testing lab. Companion to "The Art of Network Penetration Testing" by Royce Davis
 
 
-- Repository: [Real-time Communications hacking & pentesting resources (⭐391)](https://github.com/EnableSecurity/awesome-rtc-hacking)
+- Repository: [Real-time Communications hacking & pentesting resources (⭐428)](https://github.com/EnableSecurity/awesome-rtc-hacking)
 
   Description: Covers VoIP, WebRTC and VoLTE security related topics
 
 
-- Repository: [Reinforcement Learning for Cyber Security (⭐712)](https://github.com/Limmen/awesome-rl-for-cybersecurity)
+- Repository: [Reinforcement Learning for Cyber Security (⭐798)](https://github.com/Limmen/awesome-rl-for-cybersecurity)
 
   Description: List of awesome reinforcement learning for security resources
 
@@ -125,11 +125,11 @@
 
 ### Applications
 
-*   [fend (⭐609)](https://github.com/printfn/fend) - Arbitrary-precision unit-aware calculator [![build](https://github.com/printfn/fend/workflows/build/badge.svg)](https://github.com/printfn/fend)
+*   [fend (⭐736)](https://github.com/printfn/fend) - Arbitrary-precision unit-aware calculator [![build](https://github.com/printfn/fend/workflows/build/badge.svg)](https://github.com/printfn/fend)
 
 ### Development tools / Formatters
 
-*   [rustfmt (⭐5.9k)](https://github.com/rust-lang/rustfmt) - Rust code formatter maintained by the Rust team and included in cargo
+*   [rustfmt (⭐6.1k)](https://github.com/rust-lang/rustfmt) - Rust code formatter maintained by the Rust team and included in cargo
 
 ## [13. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
@@ -137,21 +137,27 @@
 
 *   [Dissolv](https://www.7sols.com/dissolv/) - Hide and close inactive apps. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/dissolv/id1640893012)
 
-## [14. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
+## [14. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
+
+### Interview
+
+*   [*Ace the iOS Interview Release* by Aryaman Sharda](https://aryamansharda.gumroad.com/l/tcvck)
+
+## [15. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
 
 ### Books / NumPyro
 
 *   [Jax in Action](https://www.manning.com/books/jax-in-action) - A hands-on guide to using JAX for deep learning and other mathematically-intensive applications.
 
-## [15. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [16. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / Logging
 
-*   [dlog (⭐4)](https://github.com/dpmland/dlog) - A ussefull logger for the prompt with icons or simple version!
+*   [dlog (⭐3)](https://github.com/dpmland/dlog) - A ussefull logger for the prompt with icons or simple version!
 
 ### Modules / String utils
 
-*   [deno-json-colorizer (⭐4)](https://github.com/dpmland/deno-json-colorizer) - A library for colorizing JSON strings in Deno
+*   [deno-json-colorizer (⭐5)](https://github.com/dpmland/deno-json-colorizer) - A library for colorizing JSON strings in Deno
 
 ### Modules / Utils
 
@@ -164,29 +170,29 @@
     *   [BoltDoggy/deno#dpm (⭐11)](https://github.com/BoltDoggy/deno#dpm) - Deno Package Manager, install global command for deno. like denoget.
     *   [dpmland/dpm (⭐41)](https://github.com/dpmland/dpm) - Deno Package Manager, a NPM | Yarn Experience for Deno
 
-## [16. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+## [17. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
 ### Web Exploitation / Web path discovery and bruteforcing tools
 
 *   [DotDotPwn](https://dotdotpwn.blogspot.com/) - Directory traversal fuzzer.
 
-## [17. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
+## [18. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
 
 ### ⚙️ Middlewares / 🧬 Core
 
-*   [EnvVar (⭐31k)](https://github.com/gofiber/fiber/tree/master/middleware/envvar) - Expose environment variables with providing an optional config.
+*   [EnvVar (⭐35k)](https://github.com/gofiber/fiber/tree/master/middleware/envvar) - Expose environment variables with providing an optional config.
 
 ### ⚙️ Middlewares / 🌱 Third Party
 
-*   [joffref/opa-middleware (⭐18)](https://github.com/Joffref/opa-middleware) - Provides an OPA middleware integration for fiber.
+*   [joffref/opa-middleware (⭐19)](https://github.com/Joffref/opa-middleware) - Provides an OPA middleware integration for fiber.
 
-## [18. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [19. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Starters & Themes
 
-*   🚀 [AstroWind (⭐3k)](https://github.com/onwidget/astrowind) - Production ready and SEO-friendly template to start a website using Astro and Tailwind CSS.
+*   🚀 [AstroWind (⭐3.7k)](https://github.com/onwidget/astrowind) - Production ready and SEO-friendly template to start a website using Astro and Tailwind CSS.
 
-## [19. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+## [20. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### No email verification, accepting monero
 
@@ -201,13 +207,13 @@
 
 *   [SmsPVA](https://smspva.com/) - SmsPVA is a service providing a phone number you can send any SMS on and get a text of it. (Based in France)
 
-## [20. Awesome Seed Rs](/content/seed-rs/awesome-seed-rs/week/README.md)
+## [21. Awesome Seed Rs](/content/seed-rs/awesome-seed-rs/week/README.md)
 
 ### Projects Using Seed
 
 *   [CalcuPi](https://dvjn.github.io/CalcuPi) - A beautiful Monte Carlo simulation for approximating the value of pi.
 
-## [21. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/week/README.md)
+## [22. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/week/README.md)
 
 ### Support
 
@@ -236,7 +242,7 @@
 *   [Typechain-Polkadot (⭐12)](https://github.com/Supercolony-net/typechain-polkadot) - Hepls users to generate typescript types from contract ABIs (ink!) and generate runtime code to interact with contracts and deploy them.
 *   [Polkaholic.io](https://polkaholic.io) - Multi-chain block explorer with API and DeFi support across 40+ parachains.
 
-## [22. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
+## [23. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
 ### Flow-based programming
 
@@ -246,33 +252,33 @@
 
 *   [AppSheet](https://www.appsheet.com/) - The fastest way to build apps and automate work.
 
-## [23. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
+## [24. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
 ### Languages / C/C++
 
-*   [vertices-algorand-sdk (⭐9)](https://github.com/vertices-network/c-vertices-sdk) - The Vertices SDK provides developers with easy device access to interact with Blockchains.
+*   [vertices-algorand-sdk (⭐10)](https://github.com/vertices-network/c-vertices-sdk) - The Vertices SDK provides developers with easy device access to interact with Blockchains.
 
 ### Languages / Ruby
 
 *   [TEALrb (⭐8)](https://github.com/joe-p/TEALrb) - A Ruby DSL for writing Algorand smart contracts. (Archived on Jan 22, 2023)
 
-## [24. Awesome Mirth](/content/mga-mirth/awesome-mirth/week/README.md)
+## [25. Awesome Mirth](/content/mga-mirth/awesome-mirth/week/README.md)
 
 ### Featured (new releases)
 
-*   [Release Notes Wiki pages (⭐847)](https://github.com/nextgenhealthcare/connect/wiki/Release-Notes) - All Release Notes.
+*   [Release Notes Wiki pages (⭐955)](https://github.com/nextgenhealthcare/connect/wiki/Release-Notes) - All Release Notes.
 *   [Mirth Download](https://www.nextgen.com/products-and-services/mirth-connect-downloads) - Official Mirth Connect Download.
-*   [Source Code (⭐847)](https://github.com/nextgenhealthcare/connect) - Mirth Connect source code.
+*   [Source Code (⭐955)](https://github.com/nextgenhealthcare/connect) - Mirth Connect source code.
 
 ### Official Docs & Quickstarts
 
 *   📖 [Mirth Documentation](https://docs.nextgen.com/bundle/Mirth_User_Guide_41/page/connect/connect/topics/c_Getting_Started_mirth_connect_ug.html) - Official Mirth Connect Documentation.
-*   💡 [Mirth Connect examples (⭐92)](https://github.com/nextgenhealthcare/connect-examples) - Official Mirth Examples.
+*   💡 [Mirth Connect examples (⭐100)](https://github.com/nextgenhealthcare/connect-examples) - Official Mirth Examples.
 
 ### Mirth Extensions
 
 *   🔧 [Version Control Extension for MirthConnect (⭐21)](https://github.com/kayyagari/git-ext) - Version control for Channels and CodeTemplate.
-*   🔧 [Sync code between environments (⭐66)](https://github.com/SagaHealthcareIT/mirthsync) - Mirth Connect tool for syncing code via source control between environments.
+*   🔧 [Sync code between environments (⭐77)](https://github.com/SagaHealthcareIT/mirthsync) - Mirth Connect tool for syncing code via source control between environments.
 
 ### Tutorials
 
@@ -288,33 +294,33 @@
 
 ### Follow / Community
 
-*   [This Awesome List (⭐6)](https://github.com/mga-mirth/awesome-mirth)
+*   📖 [This Awesome List (⭐7)](https://github.com/mga-mirth/awesome-mirth)
 
-## [25. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
+## [26. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
 
 ### Integration / Community
 
 *   [Nuxtus](https://nuxtus.com) - Provides a Nuxt boilerplate and set of tools to automatically create Nuxt pages from Directus Collections.
 
-## [26. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
+## [27. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
 
 ### Feature Engineering / General
 
-*   [Feature Engine (⭐1.7k)](https://github.com/feature-engine/feature_engine) - Feature engineering package with sklearn-like functionality. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
+*   [Feature Engine (⭐1.9k)](https://github.com/feature-engine/feature_engine) - Feature engineering package with sklearn-like functionality. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
 
-## [27. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [28. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### ORM
 
-*   [bun (⭐3.6k)](https://github.com/uptrace/bun) - SQL-first Golang ORM. Successor of go-pg.
+*   [bun (⭐3.9k)](https://github.com/uptrace/bun) - SQL-first Golang ORM. Successor of go-pg.
 
-## [28. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
+## [29. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
 
 ### Plugins / Frameworks
 
-*   [Solid (⭐206)](https://github.com/joshwilsonvu/eslint-plugin-solid) - Linting rules for Solid and JSX.
+*   [Solid (⭐222)](https://github.com/joshwilsonvu/eslint-plugin-solid) - Linting rules for Solid and JSX.
 
-## [29. Awesome Browser Extensions for Github](/content/stefanbuck/awesome-browser-extensions-for-github/week/README.md)
+## [30. Awesome Browser Extensions for Github](/content/stefanbuck/awesome-browser-extensions-for-github/week/README.md)
 
 ### [Tab Size on GitHub (⭐281)](https://github.com/sindresorhus/tab-size-on-github) <a href="https://chrome.google.com/webstore/detail/tab-size-on-github/ofjbgncegkdemndciafljngjbdpfmbkn"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
@@ -322,23 +328,23 @@ Make tab indented code more readable by forcing the tab size to 4 instead of 8.
 
 Installs: 2000 | Stars: 281 | Last update: n/a
 
-## [30. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [31. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [qwy (⭐0)](https://github.com/Ryooooooga/qwy) - ZSH fuzzy completion plugin.
+*   [qwy (⭐2)](https://github.com/Ryooooooga/qwy) - ZSH fuzzy completion plugin.
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [mcfly (⭐6.8k)](https://github.com/cantino/mcfly) - Replaces your default ctrl-r shell history search with an intelligent search engine that takes into account your working directory and the context of recently executed commands. McFly's suggestions are prioritized in real time with a small neural network.
+*   [mcfly (⭐7k)](https://github.com/cantino/mcfly) - Replaces your default ctrl-r shell history search with an intelligent search engine that takes into account your working directory and the context of recently executed commands. McFly's suggestions are prioritized in real time with a small neural network.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [born-in-the-purple (⭐1)](https://github.com/LeonardMH/born-in-the-purple) - Simple theme with a purple motif. Inspired by [Pure (⭐13k)](https://github.com/sindresorhus/pure).
 *   [kawaii (⭐1)](https://github.com/LeonidPilyugin/kawaii-oh-my-zsh/) - Has terminal and virtual console modes. Includes decorators for username, directory, last command exit status, timestamp and `git` status.
-*   [nanika (⭐1)](https://github.com/justforuse/nanika-zsh-theme/) - Optimized variant of [robbyrussell (⭐172k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#robbyrussell). Includes `git` status decorations.
+*   [nanika (⭐1)](https://github.com/justforuse/nanika-zsh-theme/) - Optimized variant of [robbyrussell (⭐175k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#robbyrussell). Includes `git` status decorations.
 
-## [31. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
+## [32. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
 
 ### Training/Documentation
 
@@ -347,13 +353,13 @@ Installs: 2000 | Stars: 281 | Last update: n/a
     *   [Archives Unleashed Toolkit documentation](https://aut.docs.archivesunleashed.org/)
     *   [Tutorial for Humanities researchers about how to explore Arquivo.pt](https://sobre.arquivo.pt/en/tutorial-for-humanities-researchers-about-how-to-use-arquivo-pt/)
 
-## [32. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
+## [33. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### Schema / Design
 
 *   [Moon Modeler](https://www.datensen.com) - Data modeling tool for both noSQL and relational databases. Available for Windows, Linux and macOS.
 
-## [33. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [34. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Big Data / Development
 
@@ -364,29 +370,29 @@ Installs: 2000 | Stars: 281 | Last update: n/a
 *   [Awesome Security Newsletters (⭐787)](https://github.com/TalEliyahu/awesome-security-newsletters) - A curated list of awesome newsletters to keep up to date on security news via e-mail.
 *   [Awesome Censys Queries (⭐605)](https://github.com/thehappydinoa/awesome-censys-queries) - A collection of fascinating and bizarre Censys Search Queries.
 
-## [34. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [35. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / Vanilla
 
-*   [vite-tailwind-stimulus-starter (⭐9)](https://github.com/jeremyfrank/vite-tailwind-stimulus-starter) - Starter template for Tailwind CSS and Stimulus controllers.
+*   [vite-tailwind-stimulus-starter (⭐13)](https://github.com/jeremyfrank/vite-tailwind-stimulus-starter) - Starter template for Tailwind CSS and Stimulus controllers.
 
 ### Templates / React
 
-*   [react-vite-ts-boilerplate (⭐98)](https://github.com/choisohyun/react-vite-ts-boilerplate) - React 18, TypeScript, SCSS, ESLint, Prettier, Vitest.
+*   [react-vite-ts-boilerplate (⭐105)](https://github.com/choisohyun/react-vite-ts-boilerplate) - React 18, TypeScript, SCSS, ESLint, Prettier, Vitest.
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [vite-plugin-zip-file (⭐15)](https://github.com/Ssis53/vite-plugin-zip) - Compress files or folders into zip.
+*   [vite-plugin-zip-file (⭐17)](https://github.com/Ssis53/vite-plugin-zip) - Compress files or folders into zip.
 
 ### Framework-agnostic Plugins / Helpers
 
 *   [vite-plugin-browserslist-useragent (⭐14)](https://github.com/kingyue737/vite-plugin-browserslist-useragent) - Compile browserslist query to a RegExp to test browser useragent.
 
-## [35. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [36. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Database
 
-*   [ZoneTree (⭐289)](https://github.com/koculu/ZoneTree) - Persistent, high-performance, transactional, and ACID-compliant ordered key-value database for .NET.
+*   [ZoneTree (⭐391)](https://github.com/koculu/ZoneTree) - Persistent, high-performance, transactional, and ACID-compliant ordered key-value database for .NET.
 
 ### Template Engine
 
@@ -394,29 +400,29 @@ Installs: 2000 | Stars: 281 | Last update: n/a
 
 ### Testing
 
-*   [NetArchTest (⭐1.3k)](https://github.com/BenMorris/NetArchTest) - A fluent API for .Net Standard that can enforce architectural rules in unit tests.
+*   [NetArchTest (⭐1.4k)](https://github.com/BenMorris/NetArchTest) - A fluent API for .Net Standard that can enforce architectural rules in unit tests.
 
-## [36. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [37. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Utility / Diagnostics
 
-*   [nguyenvukhang/nvim-toggler (⭐154)](https://github.com/nguyenvukhang/nvim-toggler) - Invert text, such as toggling between `true` and `false`.
+*   [nguyenvukhang/nvim-toggler (⭐157)](https://github.com/nguyenvukhang/nvim-toggler) - Invert text, such as toggling between `true` and `false`.
 
 ### Editing Support / Diagnostics
 
-*   [m4xshen/autoclose.nvim (⭐473)](https://github.com/m4xshen/autoclose.nvim) - A minimalist autoclose plugin written in Lua.
+*   [m4xshen/autoclose.nvim (⭐538)](https://github.com/m4xshen/autoclose.nvim) - A minimalist autoclose plugin written in Lua.
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [nvim-lua/kickstart.nvim (⭐18k)](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal Neovim configuration.
+*   [nvim-lua/kickstart.nvim (⭐21k)](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal Neovim configuration.
 
-## [37. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [38. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Projects Using Vue.js / Open Source
 
-*   [Snippets.Ninja (⭐110)](https://github.com/dd3v/snippets.ninja) - Progressive web application for code snippet management. Offline first. Open Source. App uses IndexedDB for local storage.
+*   [Snippets.Ninja (⭐113)](https://github.com/dd3v/snippets.ninja) - Progressive web application for code snippet management. Offline first. Open Source. App uses IndexedDB for local storage.
 
-## [38. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
+## [39. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
 
 ### Go
 
@@ -428,7 +434,7 @@ Installs: 2000 | Stars: 281 | Last update: n/a
 
 
 
-## [39. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [40. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Concepts / Theory of Concepts
 
@@ -458,13 +464,13 @@ Installs: 2000 | Stars: 281 | Last update: n/a
 
 *   [Chaz Firestone](https://perception.jhu.edu/chaz/) - ***Department of Psychological and Brain Sciences, Johns Hopkins University (JHU)***, [Hopkins Perception & Mind Lab](https://perception.jhu.edu/) - ***JHU***.
 
-## [40. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [41. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Programming Languages / [Other](#other-1)
 
 *   [Fixinator](https://fixinator.app) :copyright: — Static security code analysis for ColdFusion or CFML code. Designed to work within a CI pipeline or from the developers terminal.
 
-## [41. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+## [42. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
 ### Swift / Svelte
 
@@ -474,13 +480,13 @@ Installs: 2000 | Stars: 281 | Last update: n/a
 
 *   [Shift Security Left](https://shift-security-left.curated.co/). A free biweekly newsletter for security-aware developers covering application security, secure architecture, DevSecOps, cryptography, incidents, etc. that can be useful for builders and (to a lesser extent) for breakers. Get a deeper understanding of causes for security vulnerabilities, designing defences, inventing and implementing security controls—with Felix, an imaginary mascot and a security engineer at @cossacklabs.
 
-## [42. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [43. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Providers / Vendor supported providers
 
-*   [terraform-provider-iterative (⭐288)](https://github.com/iterative/terraform-provider-iterative) - Terraform plugin built with machine learning in mind.
+*   [terraform-provider-iterative (⭐291)](https://github.com/iterative/terraform-provider-iterative) - Terraform plugin built with machine learning in mind.
 
-## [43. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [44. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Books / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -490,45 +496,30 @@ Installs: 2000 | Stars: 281 | Last update: n/a
 
 *   [ngx-focus-control (⭐2)](https://github.com/Raiper34/ngx-focus-control) - Library to provide tools to work with focus and focusable elements to improve user interfaces and accessibility.
 
-## [44. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
-
-### Interview
-
-*   [*Ace the iOS Interview Release* by Aryaman Sharda](https://aryamansharda.gumroad.com/l/tcvck)
-
-### Contributors
-
-*   [Bogdan Bystritskiy](https://www.linkedin.com/in/maxim-eremenko/)
-*   [Big Mountain Studio](https://github.com/bigmountainstudio)
-
 ## [45. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Web
 
-*   [darkredz/zeko-restapi-framework (⭐18)](https://github.com/darkredz/zeko-restapi-framework) - Asynchronous web framework for Kotlin. Create REST APIs in Kotlin easily with automatic Swagger/OpenAPI doc generation
+*   [darkredz/zeko-restapi-framework (⭐19)](https://github.com/darkredz/zeko-restapi-framework) - Asynchronous web framework for Kotlin. Create REST APIs in Kotlin easily with automatic Swagger/OpenAPI doc generation
 
 ### Libraries/Frameworks / Misc
 
 *   [spoptchev/kotlin-preconditions](https://github.com/spoptchev/kotlin-preconditions) - Precondition error checking in kotlin.
-*   [saschpe/log4k (⭐16)](https://github.com/saschpe/log4k) - Lightweight logging library for Kotlin/Multiplatform. Supports Android, iOS, JavaScript and plain JVM environments.
+*   [saschpe/log4k (⭐22)](https://github.com/saschpe/log4k) - Lightweight logging library for Kotlin/Multiplatform. Supports Android, iOS, JavaScript and plain JVM environments.
 *   [holgerbrandl/kravis (⭐183)](https://github.com/holgerbrandl/kravis) - A Kotlin grammar for scientific data visualization
 
 ### Libraries/Frameworks / Cryptography
 
-*   [ionspin/kotlin-multiplatform-libsodium (⭐91)](https://github.com/ionspin/kotlin-multiplatform-libsodium) - Kotlin multiplatform wrapper for Libsodium cryptographic library.
+*   [ionspin/kotlin-multiplatform-libsodium (⭐105)](https://github.com/ionspin/kotlin-multiplatform-libsodium) - Kotlin multiplatform wrapper for Libsodium cryptographic library.
 
 ### Projects / Idea Plugins
 
-*   [dkandalov/activity-tracker (⭐67)](https://github.com/dkandalov/activity-tracker) - Plugin for IntelliJ IDEs to track and record user activity.
-*   [dkandalov/limited-wip (⭐108)](https://github.com/dkandalov/limited-wip) - Plugin to limit your work-in-progress.
-*   [dkandalov/pomodoro-tm (⭐134)](https://github.com/dkandalov/pomodoro-tm) - Pomodoro timer.
-*   [emedinaa/kotlin-mvvm (⭐531)](https://github.com/emedinaa/kotlin-mvvm) - MVVM(Model View ViewModel) sample in Kotlin using the components ViewModel, LiveData and Retrofit library
+*   [dkandalov/activity-tracker (⭐70)](https://github.com/dkandalov/activity-tracker) - Plugin for IntelliJ IDEs to track and record user activity.
+*   [dkandalov/limited-wip (⭐111)](https://github.com/dkandalov/limited-wip) - Plugin to limit your work-in-progress.
+*   [dkandalov/pomodoro-tm (⭐140)](https://github.com/dkandalov/pomodoro-tm) - Pomodoro timer.
+*   [emedinaa/kotlin-mvvm (⭐537)](https://github.com/emedinaa/kotlin-mvvm) - MVVM(Model View ViewModel) sample in Kotlin using the components ViewModel, LiveData and Retrofit library
 
 ## [46. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
-
-### APIs, Data, and ML
-
-*   [Einblick](https://www.einblick.ai/) - a modern data science platform that brings Python notebooks to a collaborative canvas and includes tools that automate everyday tasks such as building predictive models (AutoML) or comparing populations. The free tier consists of 5 canvases and unlimited collaborators.
 
 ### Security and PKI
 
@@ -558,7 +549,7 @@ Installs: 2000 | Stars: 281 | Last update: n/a
 
 ### HTML generators and templates / Isomorphic web frameworks
 
-*   ⭐ [Djula (⭐148)](https://github.com/mmontone/djula) - A port of Django's template engine to Common Lisp. [Expat](https://directory.fsf.org/wiki/License:Expat).
+*   ⭐ [Djula (⭐156)](https://github.com/mmontone/djula) - A port of Django's template engine to Common Lisp. [Expat](https://directory.fsf.org/wiki/License:Expat).
     *   [cl-djula-tailwind (⭐9)](https://github.com/rajasegar/cl-djula-tailwind) - use TailwindCSS classe in your Djula templates without any JavaScript or Node.js tooling.
     *   [djula-template-designer (⭐4)](https://github.com/mmontone/djula-template-designer) - a template designer tool.
 
@@ -574,7 +565,7 @@ Installs: 2000 | Stars: 281 | Last update: n/a
 
 ### Apps / Forms
 
-*   [Wagtail Model Forms (⭐4)](https://github.com/vicktornl/wagtail-model-forms) - The Wagtail Form Builder functionalities available for your models/snippets.
+*   [Wagtail Model Forms (⭐5)](https://github.com/vicktornl/wagtail-model-forms) - The Wagtail Form Builder functionalities available for your models/snippets.
 
 ### Apps / Misc
 
@@ -585,16 +576,16 @@ Installs: 2000 | Stars: 281 | Last update: n/a
 
 ### Bundlers
 
-*   [Terser (⭐8.5k)](https://github.com/terser/terser) - parser, mangler and compressor toolkit for ES6+
+*   [Terser (⭐8.6k)](https://github.com/terser/terser) - parser, mangler and compressor toolkit for ES6+
 *   [Uglify (⭐13k)](https://github.com/mishoo/UglifyJS) - parser / mangler / compressor / beautifier toolkit
 
 ### Spreadsheet / Runner
 
-*   [Frappe Datatable (⭐987)](https://github.com/frappe/datatable) - Frappe DataTable is a simple, modern and interactive datatable library for displaying tabular data.
+*   [Frappe Datatable (⭐1k)](https://github.com/frappe/datatable) - Frappe DataTable is a simple, modern and interactive datatable library for displaying tabular data.
 
 ### String / Runner
 
-*   [url-state-machine (⭐162)](https://github.com/anonrig/url-js) - Super fast spec-compliant URL parser state machine for Node.js.
+*   [url-state-machine (⭐164)](https://github.com/anonrig/url-js) - Super fast spec-compliant URL parser state machine for Node.js.
 
 ### Storage / Runner
 
@@ -612,8 +603,8 @@ Installs: 2000 | Stars: 281 | Last update: n/a
 
 ### Programming
 
-*   [Structure and Interpretation of Computer Programs](https://web.mit.edu/6.001/6.037/sicp.pdf) - Harold Abelson, Gerald Jay Sussman, Julie Sussman (PDF)
-*   [Structure and Interpretation of Computer Programs](https://sarabander.github.io/sicp/html/index.xhtml) - Harold Abelson, Gerald Jay Sussman, Julie Sussman (HTML)
+*   [Structure and Interpretation of Computer Programs](https://web.mit.edu/6.001/6.037/sicp.pdf) - Harold Abelson, Gerald Jay Sussman, Julie Sussman (PDF) (CC BY-SA)
+*   [Structure and Interpretation of Computer Programs](https://sarabander.github.io/sicp/html/index.xhtml) - Harold Abelson, Gerald Jay Sussman, Julie Sussman (HTML) (CC BY-SA)
 
 ### Software Architecture
 

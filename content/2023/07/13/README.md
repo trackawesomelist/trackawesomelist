@@ -28,34 +28,34 @@
 
 ### Software / DNS
 
-*   [AdGuard Home](https://adguard.com/en/adguard-home/overview.html) - Free and open source, userfriendly ads & trackers blocking DNS server. ([Source Code (⭐24k)](https://github.com/AdguardTeam/AdGuardHome)) `GPL-3.0` `Docker`
+*   [AdGuard Home](https://adguard.com/en/adguard-home/overview.html) - Free and open source, userfriendly ads & trackers blocking DNS server. ([Source Code (⭐27k)](https://github.com/AdguardTeam/AdGuardHome)) `GPL-3.0` `Docker`
 
 ### Software / Internet of Things (IoT)
 
-*   [FlowForge](https://flowforge.com/) - FlowForge allows companies to deploy Node-RED applications in a reliable, scalable and secure manner. The FlowForge platform provides DevOps capabilities for Node-RED development teams. ([Source Code (⭐259)](https://github.com/flowforge/flowforge)) `Apache-2.0` `Nodejs/Docker/K8S`
+*   [FlowForge](https://flowforge.com/) - FlowForge allows companies to deploy Node-RED applications in a reliable, scalable and secure manner. The FlowForge platform provides DevOps capabilities for Node-RED development teams. ([Source Code (⭐297)](https://github.com/flowforge/flowforge)) `Apache-2.0` `Nodejs/Docker/K8S`
 
 ### Software / Personal Dashboards
 
-*   [LittleLink (⭐1.7k)](https://github.com/sethcottle/littlelink/) - A simplistic approach for links in bio with 100+ branded buttons (alternative to Linktree). ([Demo](https://littlelink.io/), [Source Code (⭐1.7k)](https://github.com/sethcottle/littlelink)) `MIT` `Javascript`
+*   [LittleLink (⭐1.9k)](https://github.com/sethcottle/littlelink/) - A simplistic approach for links in bio with 100+ branded buttons (alternative to Linktree). ([Demo](https://littlelink.io/), [Source Code (⭐1.9k)](https://github.com/sethcottle/littlelink)) `MIT` `Javascript`
 
 ## [3. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [tanstack-table (⭐25k)](https://github.com/tanstack/table) - Headless UI for building powerful tables & datagrids.
-*   [@kolirt/vue-modal (⭐12)](https://github.com/kolirt/vue-modal) - ⚡️ Simple Vue3 modal package
-*   [vue-skia (⭐283)](https://github.com/rustq/vue-skia) - Skia based 2d graphics vue3 rendering library. It is based on Rust to implement software rasterization to perform rendering.
-*   [@kolirt/vue-web3-auth (⭐32)](https://github.com/kolirt/vue-web3-auth) - 💎 Web3 authentication for Vue3 apps based on WalletConnect v2 and wagmi
+*   [tanstack-table (⭐26k)](https://github.com/tanstack/table) - Headless UI for building powerful tables & datagrids.
+*   [@kolirt/vue-modal (⭐13)](https://github.com/kolirt/vue-modal) - ⚡️ Simple Vue3 modal package
+*   [vue-skia (⭐306)](https://github.com/rustq/vue-skia) - Skia based 2d graphics vue3 rendering library. It is based on Rust to implement software rasterization to perform rendering.
+*   [@kolirt/vue-web3-auth (⭐36)](https://github.com/kolirt/vue-web3-auth) - 💎 Web3 authentication for Vue3 apps based on WalletConnect v2 and wagmi
 
 ### Components & Libraries / Utilities
 
-*   [tanstack-query (⭐41k)](https://github.com/tanstack/query) - Powerful asynchronous state management.
+*   [tanstack-query (⭐43k)](https://github.com/tanstack/query) - Powerful asynchronous state management.
 
 ## [4. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
 ### Analytics
 
-*   [Tinybird](https://www.tinybird.co/) - Real-time data streams to APIs.
+*   [Tinybird](https://www.tinybird.co/) - Real-time data streams to APIs. [![featured on launchweek.dev](https://img.shields.io/badge/featured-0D1117.svg?style=flat-square\&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMzYwIiBoZWlnaHQ9IjM2MCIgdmlld0JveD0iMCAwIDM2MCAzNjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+IDxyZWN0IHdpZHRoPSI2MCIgaGVpZ2h0PSIzMDAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjYwIiB5PSIzMDAiIHdpZHRoPSIxMjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjI0MCIgeT0iMzAwIiB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjMwMCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjMwMCIgZmlsbD0id2hpdGUiLz4gPHJlY3QgeD0iMTgwIiB3aWR0aD0iNjAiIGhlaWdodD0iMzAwIiBmaWxsPSJ3aGl0ZSIvPiA8L3N2Zz4=)](https://launchweek.dev)
 
 ---
 

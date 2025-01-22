@@ -25,11 +25,11 @@
 
 ### Python / Natural Language Processing
 
-*   [SnowNLP (⭐6.4k)](https://github.com/isnowfy/snownlp) - A library for processing Chinese text.
+*   [SnowNLP (⭐6.5k)](https://github.com/isnowfy/snownlp) - A library for processing Chinese text.
 
 ### Python / General-Purpose Machine Learning
 
-*   [pattern (⭐8.7k)](https://github.com/clips/pattern) - Web mining module for Python.
+*   [pattern (⭐8.8k)](https://github.com/clips/pattern) - Web mining module for Python.
 *   [NuPIC (⭐6.3k)](https://github.com/numenta/nupic) - Numenta Platform for Intelligent Computing.
 *   [PyBrain (⭐2.9k)](https://github.com/pybrain/pybrain) - Another Python Machine Learning Library.
 *   [python-recsys (⭐1.5k)](https://github.com/ocelma/python-recsys) - A Python library for implementing a Recommender System.
@@ -37,19 +37,19 @@
 ### Python / Data Analysis / Data Visualization
 
 *   [NetworkX](https://networkx.github.io/) - A high-productivity software for complex networks.
-*   [PyMC (⭐8.5k)](https://github.com/pymc-devs/pymc) - Markov Chain Monte Carlo sampling toolkit.
-*   [zipline (⭐17k)](https://github.com/quantopian/zipline) - A Pythonic algorithmic trading library.
+*   [PyMC (⭐8.8k)](https://github.com/pymc-devs/pymc) - Markov Chain Monte Carlo sampling toolkit.
+*   [zipline (⭐18k)](https://github.com/quantopian/zipline) - A Pythonic algorithmic trading library.
 *   [SymPy (⭐13k)](https://github.com/sympy/sympy) - A Python library for symbolic mathematics.
-*   [statsmodels (⭐9.8k)](https://github.com/statsmodels/statsmodels) - Statistical modelling and econometrics in Python.
+*   [statsmodels (⭐10k)](https://github.com/statsmodels/statsmodels) - Statistical modelling and econometrics in Python.
 *   [Kartograph.py (⭐1k)](https://github.com/kartograph/kartograph.py) - Rendering beautiful SVG maps in Python.
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
-*   [pattern\_classification (⭐4.1k)](https://github.com/rasbt/pattern_classification)
+*   [pattern\_classification (⭐4.2k)](https://github.com/rasbt/pattern_classification)
 *   [thinking stats 2 (⭐8)](https://github.com/Wavelets/ThinkStats2)
 *   [hyperopt (⭐1.6k)](https://github.com/hyperopt/hyperopt-sklearn)
 *   [numpic (⭐6.3k)](https://github.com/numenta/nupic)
-*   [ipython-notebooks (⭐563)](https://github.com/ogrisel/notebooks)
+*   [ipython-notebooks (⭐566)](https://github.com/ogrisel/notebooks)
 *   [decision-weights (⭐33)](https://github.com/CamDavidsonPilon/decision-weights)
 
 ### Ruby / Data Analysis / Data Visualization
@@ -64,13 +64,13 @@
 
 ### Credits / Misc
 
-*   Some of the python libraries were cut-and-pasted from [vinta (⭐214k)](https://github.com/vinta/awesome-python)
+*   Some of the python libraries were cut-and-pasted from [vinta (⭐227k)](https://github.com/vinta/awesome-python)
 
 ## [4. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Table of Contents / Strings
 
-*   [ANSI to HTML5 (⭐236)](https://github.com/sensiolabs/ansi-to-html) - An ANSI to HTML5 converter library.
+*   [ANSI to HTML5 (⭐239)](https://github.com/sensiolabs/ansi-to-html) - An ANSI to HTML5 converter library.
 
 ## [5. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 

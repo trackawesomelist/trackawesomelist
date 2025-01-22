@@ -26,7 +26,7 @@
 
 ### Deployment / Diagnostics
 
-*   [OscarCreator/rsync.nvim (⭐68)](https://github.com/OscarCreator/rsync.nvim) - Automatically sync up/down project to a remote with rsync.
+*   [OscarCreator/rsync.nvim (⭐87)](https://github.com/OscarCreator/rsync.nvim) - Automatically sync up/down project to a remote with rsync.
 
 ## [4. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 

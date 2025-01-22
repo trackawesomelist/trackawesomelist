@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 13, 2020
 
-17 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -63,7 +63,7 @@
 
 ### Command line interface (CLI) / Terminal / Shell
 
-*   [boxx (⭐97)](https://github.com/thecodrr/boxx) - Create highly customizable terminal boxes that also look great! 📦
+*   [boxx (⭐99)](https://github.com/thecodrr/boxx) - Create highly customizable terminal boxes that also look great! 📦
 
 ### Operating system
 
@@ -71,16 +71,10 @@
 
 ### User Interface toolkits
 
-*   [vig (⭐50)](https://github.com/nsauzede/vig) - Bindings for [Dear ImGui (⭐59k)](https://github.com/ocornut/imgui) GUI toolkit.
-*   [vnk (⭐46)](https://github.com/nsauzede/vnk) - Bindings for [Nuklear (⭐14k)](https://github.com/vurtun/nuklear) GUI toolkit.
+*   [vig (⭐55)](https://github.com/nsauzede/vig) - Bindings for [Dear ImGui (⭐63k)](https://github.com/ocornut/imgui) GUI toolkit.
+*   [vnk (⭐50)](https://github.com/nsauzede/vnk) - Bindings for [Nuklear (⭐14k)](https://github.com/vurtun/nuklear) GUI toolkit.
 
-## [6. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
-
-### Software / Password Managers
-
-*   [Padloc](https://padloc.app/) - A modern, open source password manager for individuals and teams. ([Source Code (⭐2.6k)](https://github.com/padloc/padloc)) `GPL-3.0` `Nodejs`
-
-## [7. Awesome Python](/content/vinta/awesome-python/README.md)
+## [6. Awesome Python](/content/vinta/awesome-python/README.md)
 
 ### Email
 
@@ -107,21 +101,21 @@
 
 *   [requests-html (⭐14k)](https://github.com/psf/requests-html) - Pythonic HTML Parsing for Humans.
 
-## [8. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+## [7. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
 
 ### Documentaries / Third Party Hosts
 
 *   [Documentary Addict](https://documentaryaddict.com/) A website which scrapes Youtube for documentaries
 *   [iHaveNoTv](https://ihavenotv.com/) Community managed documentary collection
 
-## [9. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
+## [8. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 
 ### Books / Utilities
 
 *   [JMeter by Example](https://books.google.com/books?id=iWeJDAEACAAJ) - By Sai Matam and Jagdeep Jain ([Leanpub](https://leanpub.com/jmeterbyexample)); a simple, practical, step-by-step tutorial to measure the performance of websites.
 *   [Advanced JMeter Testing](https://leanpub.com/advanced_jmeter_testing) - By Penny Curich ([Leanpub](https://leanpub.com/advanced_jmeter_testing)), guide to write custom components for Apache JMeter 5.0.
 
-## [10. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
+## [9. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
 ### Reading
 
@@ -146,7 +140,7 @@
 
 *   [Mapping Practice Papers](https://leadingedgeforum.com/research/?term=mapping\&type=Position+Paper) - A series of position papers published by the Leading Edge Forum. Jun 13, 2018 - Jan 28, 2019.
 
-## [11. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
+## [10. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
 ### System Deployment
 
@@ -156,7 +150,7 @@
 
 *   [DataSphere Studio (⭐2.6k)](https://github.com/WeBankFinTech/DataSphereStudio) - one-stop data application development management portal.
 
-## [12. Awesome Ada](/content/ohenley/awesome-ada/README.md)
+## [11. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
 ### Open source / GPL (no linking exception)
 
@@ -164,31 +158,31 @@
 
 ### OS and Kernels / Apache License
 
-*   [havk (⭐24)](https://github.com/RavSS/HAVK) - x86-64 security-focused OS being created with SPARK.
+*   [havk (⭐26)](https://github.com/RavSS/HAVK) - x86-64 security-focused OS being created with SPARK.
 
-## [13. Awesome Actions](/content/sdras/awesome-actions/README.md)
+## [12. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
 ### Utility / Semantic Versioning
 
-*   [Get latest SemVer and branch name given a search string (⭐1)](https://github.com/jessicalostinspace/github-action-get-regex-branch)
+*   [Get latest SemVer and branch name given a search string (⭐5)](https://github.com/jessicalostinspace/github-action-get-regex-branch)
 
 ### Static Analysis / Linting
 
-*   [Run dotenv-linter - Lints your .env files like a charm, with optional reviewdog output on the PR (⭐249)](https://github.com/wemake-services/dotenv-linter)
-*   [Run dotenv-linter, with reviewdog output on the PR (⭐14)](https://github.com/mgrachev/action-dotenv-linter)
+*   [Run dotenv-linter - Lints your .env files like a charm, with optional reviewdog output on the PR (⭐274)](https://github.com/wemake-services/dotenv-linter)
+*   [Run dotenv-linter, with reviewdog output on the PR (⭐15)](https://github.com/mgrachev/action-dotenv-linter)
 
-## [14. Awesome Coq](/content/coq-community/awesome-coq/README.md)
+## [13. Awesome Coq](/content/coq-community/awesome-coq/README.md)
 
 ### Projects / Libraries
 
-*   [coq-haskell (⭐164)](https://github.com/jwiegley/coq-haskell) - Library smoothing the transition to Coq for Haskell users.
+*   [coq-haskell (⭐168)](https://github.com/jwiegley/coq-haskell) - Library smoothing the transition to Coq for Haskell users.
 
 ### Projects / Plugins
 
-*   [AAC Tactics (⭐29)](https://github.com/coq-community/aac-tactics) - Tactics for rewriting universally quantified equations, modulo associativity and commutativity of some operator.
+*   [AAC Tactics (⭐30)](https://github.com/coq-community/aac-tactics) - Tactics for rewriting universally quantified equations, modulo associativity and commutativity of some operator.
 *   [Gappa](https://gitlab.inria.fr/gappa/coq) - Tactic for discharging goals about floating-point arithmetic and round-off errors.
 *   [Mtac2 (⭐51)](https://github.com/Mtac2/Mtac2) - Plugin adding typed tactics for backward reasoning.
-*   [SMTCoq (⭐155)](https://github.com/smtcoq/smtcoq) - Tool that checks proof witnesses coming from external SAT and SMT solvers.
+*   [SMTCoq (⭐157)](https://github.com/smtcoq/smtcoq) - Tool that checks proof witnesses coming from external SAT and SMT solvers.
 
 ### Projects / Tools
 
@@ -196,37 +190,37 @@
 
 ### Projects / Type Theory and Mathematics
 
-*   [Category Theory in Coq (⭐741)](https://github.com/jwiegley/category-theory) - Axiom-free formalization of category theory.
+*   [Category Theory in Coq (⭐760)](https://github.com/jwiegley/category-theory) - Axiom-free formalization of category theory.
 *   [Mathematical Components](http://math-comp.github.io) - Formalization of mathematical theories, focusing in particular on group theory.
 
 ### Projects / Verified Software
 
-*   [JSCert (⭐194)](https://github.com/jscert/jscert) - Coq specification of ECMAScript 5 (JavaScript) with verified reference interpreter.
+*   [JSCert (⭐197)](https://github.com/jscert/jscert) - Coq specification of ECMAScript 5 (JavaScript) with verified reference interpreter.
 
 ### Resources / Community
 
-*   [Mathematical Components wiki (⭐563)](https://github.com/math-comp/math-comp/wiki)
+*   [Mathematical Components wiki (⭐596)](https://github.com/math-comp/math-comp/wiki)
 
 ### Resources / Tutorials and Hints
 
 *   [Coq in a Hurry](http://cel.archives-ouvertes.fr/inria-00001173) - Introduction to how Coq can be used to define logical concepts and functions and reason about them.
-*   [Lemma Overloading (⭐26)](https://github.com/coq-community/lemma-overloading) - Demonstration of design patterns for programming and proving with canonical structures.
+*   [Lemma Overloading (⭐27)](https://github.com/coq-community/lemma-overloading) - Demonstration of design patterns for programming and proving with canonical structures.
 *   [Mike Nahas's Coq Tutorial](https://mdnahas.github.io/doc/nahas_tutorial.html) - Basics of using Coq to write formal proofs.
 
-## [15. Awesome Creative Tech Events](/content/danvoyce/awesome-creative-tech-events/README.md)
+## [14. Awesome Creative Tech Events](/content/danvoyce/awesome-creative-tech-events/README.md)
 
 ### USA / San Francisco
 
 *   [CODAME ART+TECH Festival](http://codame.com/events/art-tech-festival-2019-space) - Explores the manifold dimensions of SPACE with an incredible lineup schedule, including nightlife installations and performances, a variety of workshops, and community gathering art+tech salon to close off the Festival. **(October)**
 
-## [16. Awesome Elm](/content/sporto/awesome-elm/README.md)
+## [15. Awesome Elm](/content/sporto/awesome-elm/README.md)
 
 ### Libraries / Individual Podcast episodes
 
 *   [Elm packages](https://package.elm-lang.org/) - The official registry
 *   [Elm Search](http://klaftertief.github.io/elm-search/) - Search Elm documentation for operators, function signatures, etc.
 
-## [17. Awesome Ponyfills](/content/Richienb/awesome-ponyfills/README.md)
+## [16. Awesome Ponyfills](/content/Richienb/awesome-ponyfills/README.md)
 
 ### Browser Features
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 20, 2018
 
-8 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -29,14 +29,7 @@
 *   [App Toolbox](https://www.polymer-project.org/2.0/toolbox/) App Toolbox.
 *   [lit-html (⭐13k)](https://github.com/Polymer/lit-html) HTML templates, via JavaScript template literals.
 
-## [4. Awesome Dash](/content/ucg8j/awesome-dash/README.md)
-
-### App Examples
-
-*   [VoxelViz](http://lukas-snoek.com/voxelviz) - Competition winning Visualization tool for (f)MRI data-sets. [Source Code. (⭐37)](https://github.com/lukassnoek/VoxelViz)
-*   [Traffic Accidents UK](https://traffic-accidents-uk.herokuapp.com/) - Explore the 140,008 traffic accidents in the UK in 2015. [Source Code. (⭐8)](https://github.com/richard-muir/uk-car-accidents)
-
-## [5. Vim Galore](/content/mhinz/vim-galore/README.md)
+## [4. Vim Galore](/content/mhinz/vim-galore/README.md)
 
 ### True colors / Small intro
 
@@ -52,19 +45,19 @@
 *   Make sure your terminal emulator of choice supports true colors.
 *   Using tmux? Configure it to add the `Tc` capability.
 
-## [6. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
+## [5. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
 
 ### Text based tools / Others
 
 *   [Telegraph](http://telegra.ph/) - Minimalist publishing tool that supports richly formatted text.
 
-## [7. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [6. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Tools
 
 *   [NuGetPackageExplorer (⭐2.4k)](https://github.com/NuGetPackageExplorer/NuGetPackageExplorer) - Create, update and deploy Nuget Packages with a GUI.
 
-## [8. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/README.md)
+## [7. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/README.md)
 
 ### Table of Contents / Packages and Libraries supporting salesforce
 

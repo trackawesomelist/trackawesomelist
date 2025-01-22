@@ -16,11 +16,11 @@
 
 ### Startup / Diagnostics
 
-*   [mong8se/actually.nvim (⭐54)](https://github.com/mong8se/actually.nvim) - Load the file you actually meant to load.
+*   [mong8se/actually.nvim (⭐56)](https://github.com/mong8se/actually.nvim) - Load the file you actually meant to load.
 
 ### Utility / Diagnostics
 
-*   [mong8se/buffish.nvim (⭐4)](https://github.com/mong8se/buffish.nvim) - A buffer switcher in the spirit of dirvish or vinegar.
+*   [mong8se/buffish.nvim (⭐5)](https://github.com/mong8se/buffish.nvim) - A buffer switcher in the spirit of dirvish or vinegar.
 
 ---
 

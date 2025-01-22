@@ -30,7 +30,7 @@
 
 ### Examples
 
-*   [stevenfoncken/multitool-for-spotify-php (⭐1)](https://github.com/stevenfoncken/multitool-for-spotify-php#readme) - Concise introductory description. Clear overview of features. Why-section with easter egg (heading). Informative badges. Clear disclaimer. Step-by-step setup instructions. Expandable TOC. Headlines with emojis. Detailed usage section. Shortlinks at the top. Back-to-top link in the footer. Credits to third-party code/libraries.
+*   [stevenfoncken/multitool-for-spotify-php (⭐2)](https://github.com/stevenfoncken/multitool-for-spotify-php#readme) - Concise introductory description. Clear overview of features. Why-section with easter egg (heading). Informative badges. Clear disclaimer. Step-by-step setup instructions. Expandable TOC. Headlines with emojis. Detailed usage section. Shortlinks at the top. Back-to-top link in the footer. Credits to third-party code/libraries.
 
 ## [4. Awesome Json](/content/burningtree/awesome-json/README.md)
 
@@ -48,13 +48,13 @@
 
 ### Quickfix / Diagnostics
 
-*   [niuiic/quickfix.nvim (⭐12)](https://github.com/niuiic/quickfix.nvim) - Extended functionality for quickfix, including store, restore, make, remove, etc.
+*   [niuiic/quickfix.nvim (⭐14)](https://github.com/niuiic/quickfix.nvim) - Extended functionality for quickfix, including store, restore, make, remove, etc.
 
 ## [7. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [color-logging (⭐0)](https://github.com/p1r473/zsh-color-logging) - provides a really easy to use logging library with notifications for pushbullet and pushover, colorizes tools like `cat` and `ls` and provides a color library.
+*   [color-logging (⭐1)](https://github.com/p1r473/zsh-color-logging) - provides a really easy to use logging library with notifications for pushbullet and pushover, colorizes tools like `cat` and `ls` and provides a color library.
 *   [zshrc-sync (⭐3)](https://github.com/Skylor-Tang/zshrc-sync) - Detects changes to `.zshrc` and pushes them to github when `zsh` exits.
 
 ---

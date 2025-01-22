@@ -28,7 +28,7 @@
 
 ### Software Engineering
 
-*   [Falsehoods about Quantum Technology (⭐7)](https://github.com/gottfriedsz/falsehoods-quantum) - Common misconceptions about quantum technology and computers.
+*   [Falsehoods about Quantum Technology (⭐9)](https://github.com/gottfriedsz/falsehoods-quantum) - Common misconceptions about quantum technology and computers.
 
 ## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -40,7 +40,7 @@
 
 ### Security
 
-*   [Password Cracking (⭐567)](https://github.com/n0kovo/awesome-password-cracking#readme) - The process of recovering passwords from data that has been stored in or transmitted by a system in scrambled form.
+*   [Password Cracking (⭐654)](https://github.com/n0kovo/awesome-password-cracking#readme) - The process of recovering passwords from data that has been stored in or transmitted by a system in scrambled form.
 
 ## [7. Awesome Chatgpt](/content/saharmor/awesome-chatgpt/README.md)
 
@@ -52,13 +52,13 @@
 
 ### Device / Augmented Reality
 
-*   [Device Calendar (⭐259)](https://github.com/builttoroam/device_calendar) - Plugin for modifying calendars on the user's device by [Built to Roam](http://builttoroam.com)
+*   [Device Calendar (⭐270)](https://github.com/builttoroam/device_calendar) - Plugin for modifying calendars on the user's device by [Built to Roam](http://builttoroam.com)
 
 ## [9. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### Tools
 
-*   💼 [react-with-class (⭐8)](https://github.com/antomics/react-with-class) - Utility function for creating primitive React components with a set of classes, props or variants.
+*   💼 [react-with-class (⭐9)](https://github.com/antomics/react-with-class) - Utility function for creating primitive React components with a set of classes, props or variants.
 
 ---
 

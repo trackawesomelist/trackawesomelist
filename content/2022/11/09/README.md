@@ -28,7 +28,7 @@
 ### Programming Language Design Patterns
 
 *   Elixir
-    *   [design-patterns (⭐600)](https://github.com/joshnuss/design-patterns-in-elixir)
+    *   [design-patterns (⭐623)](https://github.com/joshnuss/design-patterns-in-elixir)
 
     *   [the-pipeline](https://mattpruitt.com/articles/the-pipeline) - The Pipeline is defined by a collection of functions that take a data structure as an argument and return the same type of data structure
 
@@ -43,7 +43,7 @@
 *   [Head-First-Design-Patterns-Brain-Friendly](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124/ref=pd_sim_14_4)
 *   [Effective-Java-3rd-Joshua-Bloch](https://www.amazon.com/Effective-Java-3rd-Joshua-Bloch/dp/0134685997/ref=pd_sim_14_7)
 *   [Node.js Design Patterns](https://www.packtpub.com/web-development/nodejs-design-patterns-second-edition)
-*   [Game Programming Patterns (⭐3.6k)](https://github.com/munificent/game-programming-patterns)
+*   [Game Programming Patterns (⭐4.1k)](https://github.com/munificent/game-programming-patterns)
 *   [Object Design Style Guide](https://www.manning.com/books/object-design-style-guide)
 *   [Spring Boot in Practice](https://www.manning.com/books/spring-boot-in-practice)
 *   [Designing Microservices](https://www.manning.com/books/designing-microservices)
@@ -52,7 +52,7 @@
 
 ### Uncategorized
 
-*   [sitemap-format (⭐4)](https://github.com/mingard/sitemap-format) - A simple sitemap generator, with a little syntactic sugar.
+*   [sitemap-format (⭐5)](https://github.com/mingard/sitemap-format) - A simple sitemap generator, with a little syntactic sugar.
 
 ## [5. Awesome Asyncio](/content/timofurrer/awesome-asyncio/README.md)
 

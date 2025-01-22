@@ -11,13 +11,13 @@
 ### Development tools / IDEs
 
 *   [Kakoune](http://kakoune.org/)
-    *   [kakoune-lsp (⭐592)](https://github.com/kakoune-lsp/kakoune-lsp/) - [LSP](https://microsoft.github.io/language-server-protocol/) client. Implemented in Rust and supports rls out of the box.
+    *   [kakoune-lsp (⭐626)](https://github.com/kakoune-lsp/kakoune-lsp/) - [LSP](https://microsoft.github.io/language-server-protocol/) client. Implemented in Rust and supports rls out of the box.
 
 ## [2. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### Plugins
 
-*   💼 [Leading Trim (⭐97)](https://github.com/stormwarning/tailwindcss-capsize) - Adds utilities to trim text whitespace, using [Capsize (⭐1.5k)](https://github.com/seek-oss/capsize).
+*   💼 [Leading Trim (⭐107)](https://github.com/stormwarning/tailwindcss-capsize) - Adds utilities to trim text whitespace, using [Capsize (⭐1.5k)](https://github.com/seek-oss/capsize).
 
 ## [3. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
@@ -41,21 +41,27 @@
 
 ### Packages / Utilities
 
-*   [Optimus (⭐1.4k)](https://github.com/ironmussa/Optimus/) <img src="https://img.shields.io/github/last-commit/ironmussa/Optimus.svg"> - Data Cleansing and Exploration utilities with the goal of simplifying data cleaning.
+*   [Optimus (⭐1.5k)](https://github.com/ironmussa/Optimus/) <img src="https://img.shields.io/github/last-commit/ironmussa/Optimus.svg"> - Data Cleansing and Exploration utilities with the goal of simplifying data cleaning.
 
 ## [7. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
 ### Auth
 
-*   [FastAPI Simple Security (⭐316)](https://github.com/mrtolkien/fastapi_simple_security) - Out-of-the-box API key security manageable through path operations.
+*   [FastAPI Simple Security (⭐340)](https://github.com/mrtolkien/fastapi_simple_security) - Out-of-the-box API key security manageable through path operations.
 
-## [8. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
+## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+
+### Resources / Books
+
+*   [Large Scale Apps with Vue 3 and TypeScript](http://leanpub.com/vue-typescript/c/vaYXLEFWbMi7) Damiano Fusco, Leanpub (September, 2020)
+
+## [9. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
 
 ### Illustration / Unspecified License
 
 *   [WooBro.design](https://woobro.design/) - [:copyright:](https://creativecommons.org/licenses/by/4.0/) CC-BY licensed vector image illustrations with sources.
 
-## [9. Awesome Powershell](/content/janikvonrotz/awesome-powershell/README.md)
+## [10. Awesome Powershell](/content/janikvonrotz/awesome-powershell/README.md)
 
 ### Communities
 
@@ -64,24 +70,6 @@
 ### Videos
 
 *   [Research Triangle PowerShell User Group YouTube Channel](https://www.youtube.com/rtpsug/) - large catalog of user group meetings and demos by community members. 150+ hours of content.
-
-## [10. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Resources / Examples
-
-*   [Client-Side Vue.js (⭐6)](https://github.com/justinwash/Client-Side-Vue) - [Demo](https://client-side-vue.herokuapp.com) - Vue.js client-side for tiny, quick-loading, node.js-less Single Page Apps by [Justin Wash](https://github.com/justinwash)
-
-### Resources / Books
-
-*   [Large Scale Apps with Vue 3 and TypeScript](http://leanpub.com/vue-typescript/c/vaYXLEFWbMi7) Damiano Fusco, Leanpub (September, 2020)
-
-### Components & Libraries / UI Components
-
-*   [vue3-highcharts (⭐46)](https://github.com/smithalan92/vue3-highcharts) - A Highcharts.JS wrapper component for Vue 3
-
-### Components & Libraries / Integrations
-
-*   [vue-ld (⭐25)](https://github.com/dashhudson/vue-ld) - Vue LaunchDarkly plugin and routing utilities
 
 ---
 

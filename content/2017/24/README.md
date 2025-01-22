@@ -41,8 +41,8 @@
 
 ### Game Disassemblies / Syntax highlighting packages
 
-*   [Pokémon Pinball (⭐147)](https://github.com/pret/pokepinball)
-*   [Pokémon TCG (⭐243)](https://github.com/pret/poketcg)
+*   [Pokémon Pinball (⭐158)](https://github.com/pret/pokepinball)
+*   [Pokémon TCG (⭐265)](https://github.com/pret/poketcg)
 
 ## [4. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
@@ -54,7 +54,7 @@
 
 ### Libraries / Authentication
 
-*   [Keats/jsonwebtoken (⭐1.6k)](https://github.com/Keats/jsonwebtoken) - [JSON Web Token](https://en.wikipedia.org/wiki/JSON_Web_Token) library
+*   [Keats/jsonwebtoken (⭐1.8k)](https://github.com/Keats/jsonwebtoken) - [JSON Web Token](https://en.wikipedia.org/wiki/JSON_Web_Token) library
 
 ### Libraries / Logging
 
@@ -62,7 +62,7 @@
 
 ### Resources / Web programming
 
-*   [Rust Design Patterns (⭐7.9k)](https://github.com/rust-unofficial/patterns) - A catalogue of Rust design patterns, anti-patterns and idioms
+*   [Rust Design Patterns (⭐8.2k)](https://github.com/rust-unofficial/patterns) - A catalogue of Rust design patterns, anti-patterns and idioms
 
 ## [6. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
@@ -98,7 +98,7 @@
 
 ### Web Apps (open source)
 
-*   [Google I/O Transport Tracker (⭐566)](https://github.com/googlemaps/transport-tracker) - Shows shuttle arrival times for Google I/O conference, based on the open-source [transport-tracker project (⭐566)](https://github.com/googlemaps/transport-tracker).  Note: To implement this yourself, you need a [Google Maps APIs Premium Plan license](https://developers.google.com/maps/pricing-and-plans/).
+*   [Google I/O Transport Tracker (⭐575)](https://github.com/googlemaps/transport-tracker) - Shows shuttle arrival times for Google I/O conference, based on the open-source [transport-tracker project (⭐575)](https://github.com/googlemaps/transport-tracker).  Note: To implement this yourself, you need a [Google Maps APIs Premium Plan license](https://developers.google.com/maps/pricing-and-plans/).
 
 ## [12. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
@@ -126,18 +126,18 @@
 ### Companion Screens
 
 *   [dial-discovery-ios (⭐3)](https://github.com/bbc/dial-discovery-ios) - A library for the discovery of devices via the DIAL protocol on the iOS platform.
-*   [dvbcss-synctiming (⭐19)](https://github.com/BBC/dvbcss-synctiming) - A system for measuring how accurately a TV or companion are synchronised.
+*   [dvbcss-synctiming (⭐20)](https://github.com/BBC/dvbcss-synctiming) - A system for measuring how accurately a TV or companion are synchronised.
 
 ### DVB & WiFi
 
 *   [DVB Inspector](https://sourceforge.net/projects/dvbinspector/) - An open-source DVB analyzer.
 *   [DVBlast](http://www.videolan.org/projects/dvblast.html) - A simple and powerful MPEG-2/TS demux and streaming application.
-*   [dvbshout (⭐9)](https://github.com/njh/dvbshout) - Tool to send DVB audio to a shoutcast server or a RTP stream.
+*   [dvbshout (⭐10)](https://github.com/njh/dvbshout) - Tool to send DVB audio to a shoutcast server or a RTP stream.
 *   [Opencaster](http://www.avalpa.com/the-key-values/15-free-software/33-opencaster) - A free and open source MPEG2 transport stream data generator and packet manipulator.
 
 ### Animation, Graphics & Video Playout
 
-*   [Aurena (⭐127)](https://github.com/thaytan/aurena) - A network distributed media playback system.
+*   [Aurena (⭐128)](https://github.com/thaytan/aurena) - A network distributed media playback system.
 *   [CasparCG](http://www.casparcg.com/) - A professional graphics and video play-out software, proven in 24/7 broadcasts since 2006.
 
 ### Hybrid Radio
@@ -146,8 +146,8 @@
 
 ### Metadata
 
-*   [EBUCore (⭐21)](https://github.com/ebu/ebucore) - The Github for maintenance of the [EBUCore schema](https://tech.ebu.ch/docs/tech/tech3293.pdf).
-*   [TV-Anytime (⭐15)](https://github.com/ebu/tvanytime) - The TV-Anytime schema github maintenance page.
+*   [EBUCore (⭐22)](https://github.com/ebu/ebucore) - The Github for maintenance of the [EBUCore schema](https://tech.ebu.ch/docs/tech/tech3293.pdf).
+*   [TV-Anytime (⭐16)](https://github.com/ebu/tvanytime) - The TV-Anytime schema github maintenance page.
 
 ### Multimedia content processing
 
@@ -163,7 +163,7 @@
 
 ### Database Clients
 
-*   [vertx-mysql-binlog-client (⭐17)](https://github.com/guoyu511/vertx-mysql-binlog-client) - A Vert.x client for tapping into MySQL replication stream.
+*   [vertx-mysql-binlog-client (⭐16)](https://github.com/guoyu511/vertx-mysql-binlog-client) - A Vert.x client for tapping into MySQL replication stream.
 
 ## [17. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
 
@@ -198,11 +198,11 @@
 
 ### Programming / C++
 
-*   [Brayns (⭐275)](https://github.com/BlueBrain/Brayns) - Minimalistic visualiser that can perform ray-traced rendering of neurons. Ray-tracing can help to highlight areas of neural circuits where cells touch each other and where synapses are being created leading to a better understanding of how individual cells and subsequently the brain functions.
+*   [Brayns (⭐289)](https://github.com/BlueBrain/Brayns) - Minimalistic visualiser that can perform ray-traced rendering of neurons. Ray-tracing can help to highlight areas of neural circuits where cells touch each other and where synapses are being created leading to a better understanding of how individual cells and subsequently the brain functions.
 
 ### Programming / JavaScript
 
-*   [Brainbrowser (⭐316)](https://github.com/aces/brainbrowser) - Library exposing set of web-based 3D visualization tools primarily targetting neuroimaging.
+*   [Brainbrowser (⭐352)](https://github.com/aces/brainbrowser) - Library exposing set of web-based 3D visualization tools primarily targetting neuroimaging.
 
 ## [21. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
@@ -212,7 +212,7 @@
 
 ### Applications
 
-*   [Startup Job (⭐98)](https://github.com/tsurupin/job_search) - An umbrella project to search startup jobs scraped from websites written in Elixir/Phoenix and React/Redux.
+*   [Startup Job (⭐99)](https://github.com/tsurupin/job_search) - An umbrella project to search startup jobs scraped from websites written in Elixir/Phoenix and React/Redux.
 
 ### Date and Time
 
@@ -229,7 +229,7 @@
 
 ### Third Party APIs
 
-*   [ethereumex (⭐375)](https://github.com/exthereum/ethereumex) - Elixir JSON-RPC client for the Ethereum blockchain.
+*   [ethereumex (⭐381)](https://github.com/exthereum/ethereumex) - Elixir JSON-RPC client for the Ethereum blockchain.
 
 ### Books
 
@@ -439,15 +439,6 @@ Webpage: <http://4sq.com/1dQaY6h>
 
 *   [Vue.js in Action](https://www.manning.com/books/vue-js-in-action) by Erik Hanchett and Benjamin Listwon (Spring 2018)
 
-### Projects Using Vue.js / Open Source
-
-*   [promptie (⭐88)](https://github.com/alicin/promptie) - A framework written in Vue.js for creating command-line like interfaces in web browsers.
-*   [Hare (⭐256)](https://github.com/clarkdo/hare) - 🐇 Application boilerplate based on Vue.js 2.x, Koa 2.x, Element-UI and Nuxt.js
-
-### Components & Libraries / UI Components
-
-*   [Vue-Semantic-Modal (⭐45)](https://github.com/David-Desmaisons/Vue-Semantic-Modal) - Vue 2 Semantic-UI modal component without jQuery dependency
-
 ## [33. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
 ### Tools / Misc
@@ -473,7 +464,7 @@ Webpage: <http://4sq.com/1dQaY6h>
 
 ### Ask these organizations anything!
 
-*   [IIIT Vadodara (⭐17)](https://github.com/iiitv/aua) - Open-source organization maintained by college students.
+*   [IIIT Vadodara (⭐18)](https://github.com/iiitv/aua) - Open-source organization maintained by college students.
 
 ## [36. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/week/README.md)
 
@@ -489,7 +480,7 @@ Webpage: <http://4sq.com/1dQaY6h>
 
 ### Web Servers
 
-*   [Iodine (⭐901)](https://github.com/boazsegev/iodine) - An non-blocking HTTP and Websocket web server optimized for Linux/BDS/macOS and Ruby MRI.
+*   [Iodine (⭐914)](https://github.com/boazsegev/iodine) - An non-blocking HTTP and Websocket web server optimized for Linux/BDS/macOS and Ruby MRI.
 
 ## [38. Awesome Computer History](/content/watson/awesome-computer-history/week/README.md)
 
@@ -528,7 +519,7 @@ Webpage: <http://4sq.com/1dQaY6h>
 
 ### Development Projects / Miscellaneous
 
-*   [Pokemon-Terminal (⭐4k)](https://github.com/LazoCoder/Pokemon-Terminal) - Pokémon terminal themes for iTerm2.
+*   [Pokemon-Terminal (⭐4.2k)](https://github.com/LazoCoder/Pokemon-Terminal) - Pokémon terminal themes for iTerm2.
 
 ## [42. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 

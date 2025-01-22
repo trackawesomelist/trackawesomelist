@@ -86,7 +86,7 @@
 
 ### UI / Barcode
 
-*   [MultiSelectSegmentedControl (⭐299)](https://github.com/yonat/MultiSelectSegmentedControl) - UISegmentedControl remake that supports selecting multiple segments, vertical stacking, combining text and images.
+*   [MultiSelectSegmentedControl (⭐300)](https://github.com/yonat/MultiSelectSegmentedControl) - UISegmentedControl remake that supports selecting multiple segments, vertical stacking, combining text and images.
 
 ## [10. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
@@ -99,23 +99,23 @@
 ### Related Resources / Vector search
 
 *   <a name="lightgbm"></a>
-    [LightGBM (⭐16k)](https://github.com/microsoft/LightGBM)
+    [LightGBM (⭐17k)](https://github.com/microsoft/LightGBM)
 *   <a name="xgboost"></a>
-    [XGBoost (⭐25k)](https://github.com/dmlc/xgboost)
+    [XGBoost (⭐26k)](https://github.com/dmlc/xgboost)
 
 ## [12. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### UI
 
-*   [Before After (⭐888)](https://github.com/xsahil03x/before_after) <!--stargazers:xsahil03x/before_after--> - Beautiful slider which makes it easier to display the difference between two images, by [Sahil Kumar](https://github.com/xsahil03x).
+*   [Before After (⭐936)](https://github.com/xsahil03x/before_after) <!--stargazers:xsahil03x/before_after--> - Beautiful slider which makes it easier to display the difference between two images, by [Sahil Kumar](https://github.com/xsahil03x).
 
 ### UI / List
 
-*   [Infinite Listview (⭐306)](https://github.com/fluttercommunity/flutter_infinite_listview) <!--stargazers:fluttercommunity/flutter_infinite_listview--> - Infinite scroll in both directions by [Simon Lightfoot](https://github.com/slightfoot).
+*   [Infinite Listview (⭐305)](https://github.com/fluttercommunity/flutter_infinite_listview) <!--stargazers:fluttercommunity/flutter_infinite_listview--> - Infinite scroll in both directions by [Simon Lightfoot](https://github.com/slightfoot).
 
 ### UI / Drawers
 
-*   [Flutter Inner Drawer (⭐509)](https://github.com/Dn-a/flutter_inner_drawer) <!--stargazers:Dn-a/flutter_inner_drawer--> - Easy way to create an internal drawer (left / right) where you can enter a list-menu or other by [Di Natale Antonino](https://github.com/Dn-a).
+*   [Flutter Inner Drawer (⭐517)](https://github.com/Dn-a/flutter_inner_drawer) <!--stargazers:Dn-a/flutter_inner_drawer--> - Easy way to create an internal drawer (left / right) where you can enter a list-menu or other by [Di Natale Antonino](https://github.com/Dn-a).
 
 ### Text & Rich Content / Image Picker
 
@@ -125,11 +125,11 @@
 
 ### Collection of Actions / Docker Container Actions
 
-*   [GitHub Actions for Flutter (⭐1.5k)](https://github.com/subosito/flutter-action)
+*   [GitHub Actions for Flutter (⭐2.2k)](https://github.com/subosito/flutter-action)
 
 ### Utility / Docker Container Actions
 
-*   [GitHub Actions to compile LaTeX documents (⭐746)](https://github.com/xu-cheng/latex-action)
+*   [GitHub Actions to compile LaTeX documents (⭐1.1k)](https://github.com/xu-cheng/latex-action)
 
 ---
 

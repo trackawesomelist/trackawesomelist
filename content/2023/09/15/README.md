@@ -25,7 +25,7 @@
 
 ## [3. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
-### Storage / Database
+### Storage / Databases
 
 *   [micropg\_lite (⭐4)](https://github.com/TimonW-Dev/micropg_lite) - PostgreSQL database driver for MicroPython, based on micropg but aiming to require less memory with some compromises in functionality.
 
@@ -57,15 +57,15 @@
 
 ### Applications / Blockchain
 
-*   [wagyu (⭐606)](https://github.com/howardwu/wagyu) \[[wagyu](https://crates.io/crates/wagyu)] - Library for generating cryptocurrency wallets
+*   [wagyu (⭐623)](https://github.com/howardwu/wagyu) \[[wagyu](https://crates.io/crates/wagyu)] - Library for generating cryptocurrency wallets
 
 ### Applications / Games
 
-*   [maras-archive/rsnake (⭐132)](https://github.com/maras-archive/rsnake) - Snake.
+*   [maras-archive/rsnake (⭐138)](https://github.com/maras-archive/rsnake) - Snake.
 
 ### Applications / System tools
 
-*   [eza-community/eza (⭐11k)](https://github.com/eza-community/eza) - A replacement for 'ls'
+*   [eza-community/eza (⭐14k)](https://github.com/eza-community/eza) - A replacement for 'ls'
 
 ## [9. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
@@ -75,21 +75,21 @@
 
 ## [10. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
-### Plugins and scripts / Various Godot versions
+### Plugins and scripts / Godot 4
 
-*   [Orchestrator (⭐875)](https://github.com/Vahera/godot-orchestrator) - Dialog and visual-scripting subsystem for 2D and 3D games (Godot 4.x).
+*   [Orchestrator (⭐1k)](https://github.com/Vahera/godot-orchestrator) - Dialog and visual-scripting subsystem for 2D and 3D games.
 
 ## [11. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [vite-plugin-cdn2 (⭐75)](https://github.com/nonzzz/vite-plugin-cdn) - Replace module with CDN.
+*   [vite-plugin-cdn2 (⭐76)](https://github.com/nonzzz/vite-plugin-cdn) - Replace module with CDN.
 
 ## [12. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md)
 
 ### LLMs
 
-*   [Hands-on LLMs: Train and Deploy a Real-time Financial Advisor (⭐2.5k)](https://github.com/iusztinpaul/hands-on-llms) - Train and deploy a real-time financial advisor chatbot with Falcon 7B and CometLLM.
+*   [Hands-on LLMs: Train and Deploy a Real-time Financial Advisor (⭐3.1k)](https://github.com/iusztinpaul/hands-on-llms) - Train and deploy a real-time financial advisor chatbot with Falcon 7B and CometLLM.
 
 ---
 

@@ -22,8 +22,8 @@
 
 ### Device / Augmented Reality
 
-*   [Geolocator (⭐1.2k)](https://github.com/baseflow/flutter-geolocator) <!--stargazers:baseflow/flutter-geolocator--> - A Flutter geolocation plugin which provides easy access to the platform specific location services by [Baseflow](https://baseflow.com)
-*   [Permission Handler (⭐2k)](https://github.com/baseflow/flutter-permission-handler) <!--stargazers:baseflow/flutter-permission-handler--> - A Flutter permission plugin which provides a cross-platform (iOS, Android) API to request and check permissions by [Baseflow](https://baseflow.com)
+*   [Geolocator (⭐1.3k)](https://github.com/baseflow/flutter-geolocator) <!--stargazers:baseflow/flutter-geolocator--> - A Flutter geolocation plugin which provides easy access to the platform specific location services by [Baseflow](https://baseflow.com)
+*   [Permission Handler (⭐2.1k)](https://github.com/baseflow/flutter-permission-handler) <!--stargazers:baseflow/flutter-permission-handler--> - A Flutter permission plugin which provides a cross-platform (iOS, Android) API to request and check permissions by [Baseflow](https://baseflow.com)
 
 ## [4. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/README.md)
 
@@ -61,11 +61,11 @@
 
 ### Static Analysis / Linting
 
-*   [wemake-python-styleguide - The strictest and most opinionated python linter ever, with optional reviewdog output on the PR (⭐2k)](https://github.com/wemake-services/wemake-python-styleguide)
+*   [wemake-python-styleguide - The strictest and most opinionated python linter ever, with optional reviewdog output on the PR (⭐2.5k)](https://github.com/wemake-services/wemake-python-styleguide)
 
 ### External Services / Terraform
 
-*   [Assume AWS role (⭐22)](https://github.com/nordcloud/aws-assume-role/)
+*   [Assume AWS role (⭐23)](https://github.com/nordcloud/aws-assume-role/)
 
 ## [9. Awesome Theravada](/content/johnjago/awesome-theravada/README.md)
 

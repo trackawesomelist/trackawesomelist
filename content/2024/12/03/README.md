@@ -10,7 +10,7 @@
 
 ### Physics
 
-*   [QuarkPhysics (⭐195)](https://github.com/erayzesen/QuarkPhysics) - A 2D Soft Body and Rigid Body Physics Engine. \[MIT]
+*   [QuarkPhysics (⭐221)](https://github.com/erayzesen/QuarkPhysics) - A 2D Soft Body and Rigid Body Physics Engine. \[MIT]
 
 ## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -66,7 +66,7 @@
 
 ### Applications / Text processing
 
-*   [dathere/qsv (⭐2.5k)](https://github.com/dathere/qsv) \[[qsv](https://crates.io/crates/qsv)] - A high performance CSV data-wrangling toolkit. Forked from xsv, with 34+ additional commands & more. [![Linux build status](https://github.com/dathere/qsv/actions/workflows/rust.yml/badge.svg)](https://github.com/dathere/qsv/actions/workflows/rust.yml) [![Windows build status](https://github.com/dathere/qsv/actions/workflows/rust-windows.yml/badge.svg)](https://github.com/dathere/qsv/actions/workflows/rust-windows.yml) [![macOS build status](https://github.com/dathere/qsv/actions/workflows/rust-macos.yml/badge.svg)](https://github.com/dathere/qsv/actions/workflows/rust-macos.yml)
+*   [dathere/qsv (⭐2.6k)](https://github.com/dathere/qsv) \[[qsv](https://crates.io/crates/qsv)] - A high performance CSV data-wrangling toolkit. Forked from xsv, with 34+ additional commands & more. [![Linux build status](https://github.com/dathere/qsv/actions/workflows/rust.yml/badge.svg)](https://github.com/dathere/qsv/actions/workflows/rust.yml) [![Windows build status](https://github.com/dathere/qsv/actions/workflows/rust-windows.yml/badge.svg)](https://github.com/dathere/qsv/actions/workflows/rust-windows.yml) [![macOS build status](https://github.com/dathere/qsv/actions/workflows/rust-macos.yml/badge.svg)](https://github.com/dathere/qsv/actions/workflows/rust-macos.yml)
 
 ## [9. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 
@@ -739,4 +739,5 @@
 
 ---
 
+- Prev: [Dec 04, 2024](/content/2024/12/04/README.md)
 - Next: [Dec 02, 2024](/content/2024/12/02/README.md)

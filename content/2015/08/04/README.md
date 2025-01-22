@@ -10,7 +10,7 @@
 
 ### Table of Contents / Passwords
 
-*   [Password-Generator (⭐288)](https://github.com/hackzilla/password-generator) - PHP library to generate random passwords.
+*   [Password-Generator (⭐295)](https://github.com/hackzilla/password-generator) - PHP library to generate random passwords.
 
 ## [2. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md)
 
@@ -38,7 +38,7 @@
 
 ### Utility / Barcode
 
-*   [R.swift (⭐9.4k)](https://github.com/mac-cain13/R.swift) - Tool to get strong typed, autocompleted resources like images, cells and segues.
+*   [R.swift (⭐9.5k)](https://github.com/mac-cain13/R.swift) - Tool to get strong typed, autocompleted resources like images, cells and segues.
 
 ## [5. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 

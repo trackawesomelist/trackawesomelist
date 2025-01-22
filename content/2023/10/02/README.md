@@ -342,7 +342,7 @@ Interactive UI and fuzzy-search for Git branches.
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [minima (⭐3)](https://github.com/Brolly0204/zsh-minima) - Includes `git`, `node`, `golang`, `yarn`, `php`, `docker` and `python` status decorations.
-*   [x (⭐5)](https://github.com/tharindu899/x-theme) - Includes customizable banners
+*   [x](https://github.com/tharindu899/x-theme) - Includes customizable banners
 
 ## [5. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
@@ -361,7 +361,7 @@ Interactive UI and fuzzy-search for Git branches.
 
 *   [Machine Learning For Absolute Beginners](https://www.amazon.in/Machine-Learning-Absolute-Beginners-Introduction-ebook/dp/B07335JNW1)
 
-### Bloggers / Book Deals (Affiliated) 🛍
+### Bloggers / Book Deals (Affiliated)
 
 *   [Akhil Soni](https://medium.com/@akhil0435) - ML, DL and Data Science
 *   [Akhil Soni](https://akhilworld.hashnode.dev/) - ML, DL and Data Science

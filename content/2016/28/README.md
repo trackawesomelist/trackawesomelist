@@ -104,7 +104,7 @@ git shortlog
 
 ### Error Handling
 
-*   [Bugsnag (⭐246)](https://github.com/bugsnag/bugsnag-ruby) - Error monitoring for Rails, Sinatra, Rack, and plain Ruby apps.
+*   [Bugsnag (⭐250)](https://github.com/bugsnag/bugsnag-ruby) - Error monitoring for Rails, Sinatra, Rack, and plain Ruby apps.
 
 ## [9. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
@@ -231,7 +231,7 @@ git shortlog
 
 ### Algorithms and Data structures
 
-*   [ecto\_state\_machine (⭐96)](https://github.com/asiniy/ecto_state_machine) - Finite state machine pattern implemented on Elixir and  adopted for Ecto.
+*   [ecto\_state\_machine (⭐98)](https://github.com/asiniy/ecto_state_machine) - Finite state machine pattern implemented on Elixir and  adopted for Ecto.
 *   [simhash (⭐22)](https://github.com/UniversalAvenue/simhash-ex) - Simhash implementation using Siphash and N-grams.
 
 ### Framework Components
@@ -250,7 +250,7 @@ git shortlog
 
 ### Networking
 
-*   [asn (⭐16)](https://github.com/ephe-meral/asn) - Can be used to map from IP to AS to ASN.
+*   [asn (⭐17)](https://github.com/ephe-meral/asn) - Can be used to map from IP to AS to ASN.
 *   [mac (⭐7)](https://github.com/ephe-meral/mac) - Can be used to find a vendor of a MAC given in hexadecimal string (according to IEEE).
 
 ### ORM and Datamapping
@@ -263,7 +263,7 @@ git shortlog
 
 ### Third Party APIs
 
-*   [pigeon (⭐620)](https://github.com/codedge-llc/pigeon) - HTTP2-compliant wrapper for sending iOS and Android push notifications.
+*   [pigeon (⭐654)](https://github.com/codedge-llc/pigeon) - HTTP2-compliant wrapper for sending iOS and Android push notifications.
 
 ### Translations and Internationalizations
 
@@ -271,7 +271,7 @@ git shortlog
 
 ### Utilities
 
-*   [sitemap (⭐104)](https://github.com/ikeikeikeike/sitemap) - Sitemap is the easiest way to generate Sitemaps in Elixir.
+*   [sitemap (⭐105)](https://github.com/ikeikeikeike/sitemap) - Sitemap is the easiest way to generate Sitemaps in Elixir.
 
 ### Newsletters
 
@@ -287,15 +287,15 @@ git shortlog
 
 ## [23. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
-### Philosophy
+### Philosophy / Commerical Tools
 
 *   [Super Intelligence](http://www.audible.co.uk/pd/Non-fiction/Superintelligence-Audiobook/B00LPMA33G) - Superintelligence asks the question: What happens when machines surpass humans in general intelligence?
 
-### Free Content
+### Free Content / Commerical Tools
 
 *   [Brief Introduction To Educational Implications Of Artificial Intelligence](http://pages.uoregon.edu/moursund/Books/AIBook/index.htm) - This book is designed to help preservice and inservice teachers learn about some of the educational implications of current uses of Artificial Intelligence as an aid to solving problems and accomplishing tasks.
 
-### Code
+### Code / Commerical Tools
 
 *   [AIMACode](https://github.com/aimacode) - Source code for "Artificial Intelligence: A Modern Approach" in Common Lisp, Java, and Python. More to come.
 
@@ -329,15 +329,15 @@ git shortlog
 
 ### Cache
 
-*   [Cache (⭐2.9k)](https://github.com/hyperoslo/Cache) - Nothing but Cache.
+*   [Cache (⭐3k)](https://github.com/hyperoslo/Cache) - Nothing but Cache.
 
 ### Dependency Injection
 
-*   [Dip (⭐975)](https://github.com/AliSoftware/Dip) - A simple Dependency Injection Container.
+*   [Dip (⭐978)](https://github.com/AliSoftware/Dip) - A simple Dependency Injection Container.
 
 ### Device
 
-*   [Device.swift (⭐220)](https://github.com/schickling/Device.swift) - Super-lightweight library to detect used device.
+*   [Device.swift (⭐221)](https://github.com/schickling/Device.swift) - Super-lightweight library to detect used device.
 
 ### Bluetooth
 
@@ -350,7 +350,7 @@ git shortlog
 
 ### PDF / Barcode
 
-*   [SimplePDF (⭐252)](https://github.com/nRewik/SimplePDF) - Create a simple PDF effortlessly.
+*   [SimplePDF (⭐253)](https://github.com/nRewik/SimplePDF) - Create a simple PDF effortlessly.
 
 ### Streaming / Barcode
 
@@ -358,16 +358,16 @@ git shortlog
 
 ### HUD / Barcode
 
-*   [KRProgressHUD (⭐693)](https://github.com/krimpedance/KRProgressHUD) - A beautiful and customizable progress HUD.
+*   [KRProgressHUD (⭐691)](https://github.com/krimpedance/KRProgressHUD) - A beautiful and customizable progress HUD.
 *   [PKHUD (⭐3.8k)](https://github.com/pkluz/PKHUD) - Reimplementation of the Apple HUD.
 
 ### Utility / Barcode
 
-*   [Solar (⭐561)](https://github.com/ceeK/Solar) - Calculate sunrise and sunset times given a location.
+*   [Solar (⭐566)](https://github.com/ceeK/Solar) - Calculate sunrise and sunset times given a location.
 
 ### Version Manager / Barcode
 
-*   [AppVersionMonitor (⭐259)](https://github.com/eure/AppVersionMonitor) - Monitor iOS app version easily.
+*   [AppVersionMonitor (⭐260)](https://github.com/eure/AppVersionMonitor) - Monitor iOS app version easily.
 *   [Version Tracker Swift (⭐88)](https://github.com/tbaranes/VersionTrackerSwift) - Versions tracker for your iOS, OS X, and tvOS app.
 
 ## [28. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
@@ -446,14 +446,14 @@ Webpage: <https://www.bop.pt>
 
 ### Web Frameworks
 
-*   [Vert.x Jersey (⭐154)](https://github.com/englishtown/vertx-jersey) - Create JAX-RS [Jersey](https://jersey.java.net/) resources in Vert.x.
+*   [Vert.x Jersey (⭐150)](https://github.com/englishtown/vertx-jersey) - Create JAX-RS [Jersey](https://eclipse-ee4j.github.io/jersey/) resources in Vert.x.
 *   [Handlers (⭐11)](https://github.com/spriet2000/vertx-handlers-http) - Open web framework for Vert.x.
 *   [vertx-rest-storage (⭐19)](https://github.com/swisspush/vertx-rest-storage) - Persistence for REST resources in the filesystem or a redis database.
-*   [Jubilee (⭐325)](https://github.com/isaiah/jubilee) - A rack compatible Ruby HTTP server built on Vert.x 3.
+*   [Jubilee (⭐327)](https://github.com/isaiah/jubilee) - A rack compatible Ruby HTTP server built on Vert.x 3.
 
 ### Database Clients
 
-*   [vertx-pojo-mapper (⭐57)](https://github.com/BraintagsGmbH/vertx-pojo-mapper) - Non-blocking POJO mapping for MySQL and MongoDB.
+*   [vertx-pojo-mapper (⭐55)](https://github.com/BraintagsGmbH/vertx-pojo-mapper) - Non-blocking POJO mapping for MySQL and MongoDB.
 
 ### Integration
 
@@ -464,8 +464,8 @@ Webpage: <https://www.bop.pt>
     *   [Meteor (⭐17)](https://github.com/jmusacchio/vertxbus/) - Meteor integration support through Vert.x event bus.
 *   Metrics
     *   [Hawkular metrics (⭐5)](https://github.com/tsegismont/vertx-monitor) - [Hawkular](http://www.hawkular.org/) implementation of the Vert.x Metrics SPI.
-    *   [DropWizard metrics (⭐32)](https://github.com/vert-x3/vertx-dropwizard-metrics) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Metrics implementation using DropWizard metrics.
-    *   [Micrometer metrics (⭐43)](https://github.com/vert-x3/vertx-micrometer-metrics) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Metrics implementation using Micrometer metrics.
+    *   [DropWizard metrics (⭐34)](https://github.com/vert-x3/vertx-dropwizard-metrics) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Metrics implementation using DropWizard metrics.
+    *   [Micrometer metrics (⭐51)](https://github.com/vert-x3/vertx-micrometer-metrics) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Metrics implementation using Micrometer metrics.
     *   [OpenTsDb Metrics (⭐11)](https://github.com/cyngn/vertx-opentsdb) - [OpenTsDb](http://opentsdb.net/) metrics client for Vert.x.
     *   [Bosun Monitoring (⭐3)](https://github.com/cyngn/vertx-bosun) - [Bosun](https://bosun.org/) client library for Vert.x.
 
@@ -479,13 +479,13 @@ Webpage: <https://www.bop.pt>
 
 ### Sync Thread Non Block
 
-*   [Sync (⭐98)](https://github.com/vert-x3/vertx-sync) - Synchronous but non-OS-thread-blocking verticles.
+*   [Sync (⭐97)](https://github.com/vert-x3/vertx-sync) - Synchronous but non-OS-thread-blocking verticles.
 
 ### Vert.x Event Bus Clients
 
 *   [C++11 (⭐17)](https://github.com/julien3/vertxbuspp) - C++11 event bus client.
-*   [Java (⭐19)](https://github.com/saffron-technology/vertx-eventbusbridge) - Java implementation of vertxbus.js.
-*   [Java (⭐20)](https://github.com/abdlquadri/vertx-eventbus-java) - Java and Android Event Bus Client.
+*   [Java (⭐18)](https://github.com/saffron-technology/vertx-eventbusbridge) - Java implementation of vertxbus.js.
+*   [Java (⭐21)](https://github.com/abdlquadri/vertx-eventbus-java) - Java and Android Event Bus Client.
 *   [CLI (⭐2)](https://github.com/cinterloper/vxc) - Command-line binary client for Vert.x event bus - pipe in JSON, emit JSON.
 
 ### Cluster Managers
@@ -514,7 +514,7 @@ Webpage: <https://www.bop.pt>
 
 ### Examples
 
-*   [Vert.x feeds (⭐126)](https://github.com/aesteve/vertx-feeds) - Example of an RSS aggregator built using Vert.x, Gradle, MongoDB, Redis, Handlebars templates, AngularJS, the event bus and SockJS.
+*   [Vert.x feeds (⭐130)](https://github.com/aesteve/vertx-feeds) - Example of an RSS aggregator built using Vert.x, Gradle, MongoDB, Redis, Handlebars templates, AngularJS, the event bus and SockJS.
 *   [Example using event bus and service proxies to connect vertx and node (⭐45)](https://github.com/advantageous/vertx-node-ec2-eventbus-example) - Step by step example with wiki description showing how to connect Vert.x and Node using event bus and service proxies.
 
 ### Deployment

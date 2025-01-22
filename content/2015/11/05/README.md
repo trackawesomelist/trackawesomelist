@@ -76,12 +76,12 @@
 
 ### Packages / Testing
 
-*   [Sinon.JS (⭐9.6k)](https://github.com/sinonjs/sinon) - Test spies, stubs and mocks.
+*   [Sinon.JS (⭐9.7k)](https://github.com/sinonjs/sinon) - Test spies, stubs and mocks.
 
 ### Packages / Minifiers
 
 *   [minimize (⭐162)](https://github.com/Swaagie/minimize) - HTML minifier.
-*   [imagemin (⭐5.5k)](https://github.com/imagemin/imagemin) - Image minifier.
+*   [imagemin (⭐5.6k)](https://github.com/imagemin/imagemin) - Image minifier.
 
 ### Packages / Node.js management
 

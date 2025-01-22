@@ -17,7 +17,7 @@
 
 ### Tools / Misc
 
-*   [Weaviate](https://www.semi.technology/developers/weaviate/current/) – Weaviate is an [open source (⭐10k)](https://github.com/semi-technologies/weaviate) vector search engine and vector database. Weaviate uses machine learning to vectorize and store data, and to find answers to natural language queries. With Weaviate you can also bring your custom ML models to production scale.
+*   [Weaviate](https://www.semi.technology/developers/weaviate/current/) – Weaviate is an [open source (⭐12k)](https://github.com/semi-technologies/weaviate) vector search engine and vector database. Weaviate uses machine learning to vectorize and store data, and to find answers to natural language queries. With Weaviate you can also bring your custom ML models to production scale.
 
 ## [3. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
 
@@ -41,13 +41,13 @@
 
 ### Other projects / Other
 
-*   [Dotfiles Generator (⭐54)](https://github.com/ulises-jeremias/dotfiles) - Dotfiles generator that allows quick configuration of different Window Managers and tools in multiple operating systems, including any Arch Linux-based distribution.
+*   [Dotfiles Generator (⭐91)](https://github.com/ulises-jeremias/dotfiles) - Dotfiles generator that allows quick configuration of different Window Managers and tools in multiple operating systems, including any Arch Linux-based distribution.
 
 ## [6. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
 
 ### System and Customization
 
-*   [Dynamic Gnome Wallpapers (⭐354)](https://github.com/manishprivet/dynamic-gnome-wallpapers) - Gallery of MacOS like dynamic wallpapers, and easy scripts to install them
+*   [Dynamic Gnome Wallpapers (⭐378)](https://github.com/manishprivet/dynamic-gnome-wallpapers) - Gallery of MacOS like dynamic wallpapers, and easy scripts to install them
 
 ---
 

@@ -49,7 +49,6 @@ git format-patch -M upstream..topic
 
 *   [MyFitnessPal](http://www.myfitnesspal.com/) - Food tracking and diet plan app (iOS & Android).
 *   [Fat Secret](https://www.fatsecret.com/) - Calorie counter and diet tracker for weight loss (iOS & Android).
-*   [Calorie Counter](https://www.caloriecount.com/) - Nutritional database and calorie counting app (iOS & Android).
 
 ### Applications and Platforms / Time
 
@@ -59,43 +58,23 @@ git format-patch -M upstream..topic
 *   [Hours Time Tracker](https://www.hourstimetracking.com/) - Awesome time tracking app (iOS).
 *   [Rescue Time](https://www.rescuetime.com/) - Automatically tracks where you spend your time (Mac, Windows, Android, Linux).
 *   [Manic Time](http://www.manictime.com/) - Automatic time tracking software which tracks computer usage (Windows).
-*   [Moment](https://inthemoment.io/) - Track time spent on iPhone and iPad (iOS).
-
-### Applications and Platforms / Health
-
-*   [CureTogether](http://curetogether.com/) - Health self tracking and collaborative network.
-*   [Symple](http://www.sympleapp.com/) - Symptom journal and health tracker (iOS).
 
 ### Applications and Platforms / Heart
 
-*   [Cardiio](http://www.cardiio.com/) - Touchless heart rate monitor (iOS).
 *   [Instant Heart Rate](http://www.azumio.com/s/instantheartrate/index.html) - Fast and accurate mobile heart rate monitor (iOS, Android, Windows).
-
-### Applications and Platforms / Mind & Cognition
-
-*   [Cambridge Brain Sciences](http://www.cambridgebrainsciences.com/) - Scientifically proven tools for the assessment of cognitive function.
-*   [Quantified Mind](http://www.quantified-mind.com/about) - Tests and experiments to quantify cognitive abilities.
 
 ### Applications and Platforms / Sleep
 
 *   [Sleep as Android](http://sleep.urbandroid.org/) - Full featured sleep tracker with wearable integration (Android).
-*   [SleepBot](https://mysleepbot.com/) - Smart alarm and sleep tracker (iOS & Android).
 *   [Sleep Cycle](https://www.sleepcycle.com/) - Intelligent alarm clock and sleep tracker (iOS & Android).
 *   [Pillow](https://neybox.com/pillow/) - Track your sleep from your Apple Watch or iPhone (iOS).
 
-### Applications and Platforms / Tally
-
-*   [Nomie](http://nomie.io/) - Privately track events in your life (iOS & Android).
-*   [Track This For Me](https://www.trackthisfor.me/) - Multi-purpose tracking platform (Android).
-*   [Instant](http://instantapp.today/) - Track all of your daily activities automatically (iOS & Android).
-
 ### Applications and Platforms / Wealth
 
-*   [Mint](http://www.mint.com/) - Manage your money, pay your bills and track your credit score.
 *   [Personal Capital](https://www.personalcapital.com/) - Financial software and wealth management.
 *   [You Need A Budget (YNAB)](http://www.youneedabudget.com/) - Personal home budget software.
 *   [GNU Cash](https://www.gnucash.org/) - Personal and small-business financial-accounting software.
-*   [Ledger (⭐5k)](https://github.com/ledger/ledger) - Simple but powerful command line accounting.
+*   [Ledger (⭐5.3k)](https://github.com/ledger/ledger) - Simple but powerful command line accounting.
 
 ## [5. Awesome Qt](/content/JesseTG/awesome-qt/week/README.md)
 
@@ -280,7 +259,7 @@ git format-patch -M upstream..topic
 
 ### Command Line Applications
 
-*   [loki (⭐87)](https://github.com/khusnetdinov/loki) - Library for creating interactive command-line application.
+*   [loki (⭐90)](https://github.com/khusnetdinov/loki) - Library for creating interactive command-line application.
 
 ### Images
 
@@ -290,7 +269,7 @@ git format-patch -M upstream..topic
 
 ### Software / Security
 
-*   [OWASP ZAP (⭐12k)](https://github.com/zaproxy/zaproxy) - This intercepting proxy allows you to see all HTTP traffic and manipulate it in real time. Easy to scan, catalog and exploit security issues.
+*   [OWASP ZAP (⭐13k)](https://github.com/zaproxy/zaproxy) - This intercepting proxy allows you to see all HTTP traffic and manipulate it in real time. Easy to scan, catalog and exploit security issues.
 
 ### Software / Make your life easier
 
@@ -319,7 +298,7 @@ git format-patch -M upstream..topic
 
 ### Other Useful Repositories
 
-- Repository: [Machine Learning for Cyber Security (⭐7.1k)](https://github.com/jivoi/awesome-ml-for-cybersecurity)
+- Repository: [Machine Learning for Cyber Security (⭐7.4k)](https://github.com/jivoi/awesome-ml-for-cybersecurity)
 
   Description: Curated list of tools and resources related to the use of machine learning for cyber security
 
@@ -345,11 +324,11 @@ git format-patch -M upstream..topic
 
 ### Functional programming
 
-*   [Optional (⭐891)](https://github.com/nlkl/Optional) - A robust option type for C#
+*   [Optional (⭐907)](https://github.com/nlkl/Optional) - A robust option type for C#
 
 ### Serialization
 
-*   [Hyperion (⭐277)](https://github.com/akkadotnet/Hyperion) - A high performance polymorphic serializer for the .NET framework.
+*   [Hyperion (⭐276)](https://github.com/akkadotnet/Hyperion) - A high performance polymorphic serializer for the .NET framework.
 
 ### Source Generator
 
@@ -373,12 +352,12 @@ git format-patch -M upstream..topic
 
 ### Web frameworks / Clack plugins
 
-*   [Caveman (⭐779)](https://github.com/fukamachi/caveman) - A powerful web framework. [LLGPL](http://opensource.franz.com/preamble.html).
+*   [Caveman (⭐786)](https://github.com/fukamachi/caveman) - A powerful web framework. [LLGPL](http://opensource.franz.com/preamble.html).
     Example projects: [Quickdocs](https://github.com/quickdocs)
 
 ### Javascript / Isomorphic web frameworks
 
-*   [JSCL (⭐877)](https://github.com/jscl-project/jscl) - A CL-to-JS compiler designed to be self-hosting from day one. Lacks CLOS, format and loop.
+*   [JSCL (⭐891)](https://github.com/jscl-project/jscl) - A CL-to-JS compiler designed to be self-hosting from day one. Lacks CLOS, format and loop.
 
 ## [18. Amas](/content/sindresorhus/amas/week/README.md)
 
@@ -411,20 +390,20 @@ git format-patch -M upstream..topic
 
 ### CSS Regression Testing / Dart
 
-*   [WebdriverCSS (⭐622)](https://github.com/webdriverio/webdrivercss) - Regression testing tool for [WebdriverIO](http://webdriver.io) (currently deprecated, please use [wdio-screenshot](https://www.npmjs.com/package/wdio-screenshot) for the time being).
+*   [WebdriverCSS (⭐613)](https://github.com/webdriverio/webdrivercss) - Regression testing tool for [WebdriverIO](http://webdriver.io) (currently deprecated, please use [wdio-screenshot](https://www.npmjs.com/package/wdio-screenshot) for the time being).
 
 ### Driver / Desktop (browsers)
 
-*   [Firefox (⭐27k)](https://github.com/SeleniumHQ/selenium/wiki/FirefoxDriver) - Firefox driver (for FF < v48) is included in the selenium-server-standalone.jar available in the downloads.
-*   [Geckodriver (⭐6.7k)](https://github.com/mozilla/geckodriver) - Firefox driver (for FF > v48), supported with Selenium >= v3
+*   [Firefox (⭐31k)](https://github.com/SeleniumHQ/selenium/wiki/FirefoxDriver) - Firefox driver (for FF < v48) is included in the selenium-server-standalone.jar available in the downloads.
+*   [Geckodriver (⭐7.3k)](https://github.com/mozilla/geckodriver) - Firefox driver (for FF > v48), supported with Selenium >= v3
 *   [Edgedriver](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/) - Microsoft Webdriver server for Edge
-*   [Safari (⭐27k)](https://github.com/SeleniumHQ/selenium/wiki/SafariDriver) - The SafariDriver is implemented as a Safari browser extension. The driver inverts the traditional client/server relationship and communicates with the WebDriver client using WebSockets (only supported for Safari <= v9, all new Safari version comming with macOS Sierra come with an integrated SafariDriver that is closed source by Apple).
+*   [Safari (⭐31k)](https://github.com/SeleniumHQ/selenium/wiki/SafariDriver) - The SafariDriver is implemented as a Safari browser extension. The driver inverts the traditional client/server relationship and communicates with the WebDriver client using WebSockets (only supported for Safari <= v9, all new Safari version comming with macOS Sierra come with an integrated SafariDriver that is closed source by Apple).
 
 ## [20. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Date and Time
 
-*   [Yasumi (⭐1k)](https://github.com/azuyalabs/yasumi) - A library to help you calculate the dates and names of holidays.
+*   [Yasumi (⭐1.1k)](https://github.com/azuyalabs/yasumi) - A library to help you calculate the dates and names of holidays.
 
 ## [21. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
@@ -446,7 +425,7 @@ git format-patch -M upstream..topic
 
 ## [24. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
-### OSINT Videos / Telegram
+### OSINT Videos / Steam
 
 *   [Amazing mind reader reveals his ‘gift’](https://www.youtube.com/watch?v=F7pYHN9iC9I)
 *   [Data to Go](https://www.youtube.com/watch?v=_YRs28yBYuI)
@@ -518,7 +497,7 @@ git format-patch -M upstream..topic
 
 ### Python / Neural Networks
 
-*   [Data Driven Code (⭐30)](https://github.com/atmb4u/data-driven-code) - Very simple implementation of neural networks for dummies in python without using any libraries, with detailed comments.
+*   [Data Driven Code (⭐29)](https://github.com/atmb4u/data-driven-code) - Very simple implementation of neural networks for dummies in python without using any libraries, with detailed comments.
 
 ## [29. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/week/README.md)
 
@@ -582,11 +561,11 @@ git format-patch -M upstream..topic
 
 ### Cryptography
 
-*   [Themis (⭐1.8k)](https://github.com/cossacklabs/themis) - crypto library for painless data security, providing symmetric and asymmetric encryption, secure sockets with forward secrecy, for mobile and server platforms. \[Apache2]
+*   [Themis (⭐1.9k)](https://github.com/cossacklabs/themis) - crypto library for painless data security, providing symmetric and asymmetric encryption, secure sockets with forward secrecy, for mobile and server platforms. \[Apache2]
 
 ### Debug
 
-*   [backward-cpp (⭐3.7k)](https://github.com/bombela/backward-cpp) - A beautiful stack trace pretty printer for C++. \[MIT]
+*   [backward-cpp (⭐3.9k)](https://github.com/bombela/backward-cpp) - A beautiful stack trace pretty printer for C++. \[MIT]
 
 ### GUI
 
@@ -594,7 +573,7 @@ git format-patch -M upstream..topic
 
 ### Logging
 
-*   [Blackhole (⭐199)](https://github.com/3Hren/blackhole) - Attribute-based logging framework, which is designed to be fast, modular and highly customizable. \[MIT]
+*   [Blackhole (⭐200)](https://github.com/3Hren/blackhole) - Attribute-based logging framework, which is designed to be fast, modular and highly customizable. \[MIT]
 
 ## [36. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
@@ -606,7 +585,7 @@ git format-patch -M upstream..topic
 
 ### Coding Style Guides
 
-*   [Fundamental Ruby (⭐473)](https://github.com/khusnetdinov/ruby.fundamental) - Fundamental programming ruby with examples. Threads, design patterns, data structures, OOP SOLID principle, algorithms.
+*   [Fundamental Ruby (⭐472)](https://github.com/khusnetdinov/ruby.fundamental) - Fundamental programming ruby with examples. Threads, design patterns, data structures, OOP SOLID principle, algorithms.
 
 ## [38. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 
@@ -676,21 +655,21 @@ git format-patch -M upstream..topic
 
 *   [Leaflet](http://rstudio.github.io/leaflet/) - One of the most popular JavaScript libraries interactive maps.
 *   [CRAN Task View: Analysis of Spatial Data](https://cran.r-project.org/web/views/Spatial.html)- Spatial Analysis related resources.
-*   [ggmap (⭐755)](https://github.com/dkahle/ggmap) -  Plotting maps in R with ggplot2.
-*   [REmap (⭐255)](https://github.com/Lchiffon/REmap) - R interface to the JavaScript library ECharts for interactive map data visualization.
+*   [ggmap (⭐770)](https://github.com/dkahle/ggmap) -  Plotting maps in R with ggplot2.
+*   [REmap (⭐257)](https://github.com/Lchiffon/REmap) - R interface to the JavaScript library ECharts for interactive map data visualization.
 *   [sp](https://edzer.github.io/sp/) - Classes and Methods for Spatial Data.
 *   [rgeos](https://cran.r-project.org/web/packages/rgeos/index.html) - Interface to Geometry Engine - Open Source
 *   [rgdal](https://cran.r-project.org/web/packages/rgdal/index.html) - Bindings for the Geospatial Data Abstraction Library
 *   [maptools](https://cran.r-project.org/web/packages/maptools/index.html) - Tools for Reading and Handling Spatial Objects
-*   [gstat (⭐185)](https://github.com/edzer/gstat) - Spatial and spatio-temporal geostatistical modelling, prediction and simulation.
-*   [spacetime (⭐69)](https://github.com/edzer/spacetime) - R classes and methods for spatio-temporal data.
+*   [gstat (⭐196)](https://github.com/edzer/gstat) - Spatial and spatio-temporal geostatistical modelling, prediction and simulation.
+*   [spacetime (⭐74)](https://github.com/edzer/spacetime) - R classes and methods for spatio-temporal data.
 *   [RColorBrewer](https://cran.r-project.org/web/packages/RColorBrewer/index.html) - Provides color schemes for maps
-*   [spatstat (⭐178)](https://github.com/spatstat/spatstat) - Spatial Point Pattern Analysis, Model-Fitting, Simulation, Tests
+*   [spatstat (⭐198)](https://github.com/spatstat/spatstat) - Spatial Point Pattern Analysis, Model-Fitting, Simulation, Tests
 *   [spdep](https://cran.r-project.org/web/packages/spdep/index.html) - Spatial Dependence: Weighting Schemes, Statistics and Models
 
 ### HTML Widgets
 
-*   [wordcloud2 (⭐394)](https://github.com/Lchiffon/wordcloud2) - R interface to wordcloud2.js.
+*   [wordcloud2 (⭐396)](https://github.com/Lchiffon/wordcloud2) - R interface to wordcloud2.js.
 
 ### Books / Paid
 

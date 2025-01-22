@@ -20,13 +20,13 @@
 
 ### Deployment / Kubernetes
 
-*   [Kustomize Kubernetes Config YAMLs (⭐36)](https://github.com/karancode/kustomize-github-action)
+*   [Kustomize Kubernetes Config YAMLs (⭐45)](https://github.com/karancode/kustomize-github-action)
 
 ## [3. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 
 ### Graph Machine Learning / Others
 
-*   [pytorch\_geometric\_temporal (⭐2.5k)](https://github.com/benedekrozemberczki/pytorch_geometric_temporal) - Temporal Extension Library for PyTorch Geometric. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
+*   [pytorch\_geometric\_temporal (⭐2.6k)](https://github.com/benedekrozemberczki/pytorch_geometric_temporal) - Temporal Extension Library for PyTorch Geometric. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
 
 ## [4. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
@@ -38,7 +38,7 @@
 
 ### Files and Directories / File Sync/Sharing
 
-*   [google-drive-upload (⭐679)](https://github.com/labbots/google-drive-upload) - Upload/sync with Google Drive.
+*   [google-drive-upload (⭐700)](https://github.com/labbots/google-drive-upload) - Upload/sync with Google Drive.
 
 ## [6. awsm.fish](/content/jorgebucaran/awsm.fish/README.md)
 

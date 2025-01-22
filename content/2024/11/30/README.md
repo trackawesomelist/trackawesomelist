@@ -23,7 +23,7 @@
 
 ### Standard CLI
 
-*   [hashicorp/cli (⭐14)](https://github.com/hashicorp/cli) - Go library for implementing command-line interfaces.
+*   [hashicorp/cli (⭐17)](https://github.com/hashicorp/cli) - Go library for implementing command-line interfaces.
 
 ## [4. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -33,11 +33,11 @@
 
 ### Text-related Generative Tools / Multi-agents
 
-*   [TextCraft (⭐52)](https://github.com/suncloudsmoon/TextCraft) Add-in for Microsoft Word that seamlessly integrates essential AI tools, including text generation, proofreading, and more, directly into the user interface.
+*   [TextCraft (⭐107)](https://github.com/suncloudsmoon/TextCraft) Add-in for Microsoft Word that seamlessly integrates essential AI tools, including text generation, proofreading, and more, directly into the user interface.
 
 ### Related Awesome Lists / Deforum
 
-*   [mahseema/awesome-ai-tools (⭐1.4k)](https://github.com/mahseema/awesome-ai-tools): A curated list of Artificial Intelligence Top Tools
+*   [mahseema/awesome-ai-tools (⭐1.7k)](https://github.com/mahseema/awesome-ai-tools): A curated list of Artificial Intelligence Top Tools
 
 ## [5. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
@@ -57,20 +57,12 @@
 
 ## [6. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
-### Projects / API Management
-
-*   [Gravitee.io API Management (⭐199) (⭐199)](https://github.com/gravitee-io/gravitee-api-management) - A flexible, lightweight, and open-source API management solution that provides comprehensive API management capabilities and helps you manage your APIs with ease.
-*   [WSO2 API Manager (⭐857) (⭐857)](https://github.com/wso2/product-apim) - A fully open-source API management platform that provides comprehensive API management capabilities and allows you to manage APIs with ease.
-
 ### Projects / API Design
 
-*   [OpenAPI Diff (⭐837) (⭐837)](https://github.com/OpenAPITools/openapi-diff) - Compare OpenAPI specs with version control and visualize the differences in HTML or Markdown format.
-*   [OpenAPI Generator (⭐22k) (⭐22k)](https://github.com/OpenAPITools/openapi-generator) - Automate the creation of API client libraries, server stubs, documentation and config files with this powerful OpenAPI Spec tool.
-*   [OpenAPI Style Validator (⭐213) (⭐213)](https://github.com/OpenAPITools/openapi-style-validator) - Ensure that your OpenAPI specs meet your organization's standards with this flexible and customizable style validator.
+*   [OpenAPI Generator (⭐22k) (⭐23k)](https://github.com/OpenAPITools/openapi-generator) - Automate the creation of API client libraries, server stubs, documentation and config files with this powerful OpenAPI Spec tool.
 
 ### Projects / API Gateway
 
-*   [Gloo Edge (⭐10) (⭐10)](https://github.com/solo-io/gloo) - An Envoy Proxy-based API Gateway that provides advanced traffic management, security, and observability features for modern microservices architectures.
 *   [Ocelot (⭐8.4k) (⭐8.4k)](https://github.com/ThreeMammals/Ocelot) - A .NET API Gateway that provides a simple and elegant way to manage APIs with its intuitive routing and middleware configuration.
 
 ### Projects / ESB
@@ -80,10 +72,6 @@
 ### Projects / Workflow engine
 
 *   [StackStorm (⭐6.1k) (⭐6.1k)](https://github.com/StackStorm/st2) - A robust automation engine that provides sensors, triggers, rules, workflows, and actions to help you automate and orchestrate complex workflows and applications.
-
-### Resources / Data Formats
-
-*   [YAML (⭐349) (⭐349)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
 ## [7. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
@@ -100,7 +88,7 @@
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [caper-bush (⭐0)](https://github.com/kobylinski/caper-bush) - Enhances Git's tab autocomplete by using AI to generate concise, context-aware summaries of staged changes for thoughtful commit messages. Requires and OpenAI key, `jq` and `yq`.
-*   [nlsh (⭐0)](https://github.com/PsychArch/nlsh) - Allows you to interact with your shell using natural language. Supports multiple LLM providers (OpenAI API compatible). Includes support for X.ai's Grok.
+*   [nlsh (⭐1)](https://github.com/PsychArch/nlsh) - Allows you to interact with your shell using natural language. Supports multiple LLM providers (OpenAI API compatible). Includes support for X.ai's Grok.
 
 ## [9. Awesome Rails](/content/gramantin/awesome-rails/README.md)
 
@@ -110,4 +98,5 @@
 
 ---
 
+- Prev: [Dec 01, 2024](/content/2024/12/01/README.md)
 - Next: [Nov 29, 2024](/content/2024/11/29/README.md)

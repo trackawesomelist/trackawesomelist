@@ -106,7 +106,7 @@
 
 ### Testing
 
-*   [iTeML (⭐67)](https://github.com/vincent-hugot/iTeML) (formerly known as [qtest](http://batteries.vhugot.com/qtest/))  — supports inline pragma's to generate tests.
+*   [iTeML (⭐66)](https://github.com/vincent-hugot/iTeML) (formerly known as [qtest](http://batteries.vhugot.com/qtest/))  — supports inline pragma's to generate tests.
 *   [Pa\_test](https://ocaml.janestreet.com/ocaml-core/111.28.00/doc/pa_test) —  General inline testing macro's.
 
 ## [3. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
@@ -199,7 +199,7 @@
 
 ### Database
 
-*   [redis3m (⭐189)](https://github.com/luca3m/redis3m) - Wrapper of hiredis with clean C++ interface, supporting sentinel and ready to use patterns. \[Apache2]
+*   [redis3m (⭐188)](https://github.com/luca3m/redis3m) - Wrapper of hiredis with clean C++ interface, supporting sentinel and ready to use patterns. \[Apache2]
 
 ## [5. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
 

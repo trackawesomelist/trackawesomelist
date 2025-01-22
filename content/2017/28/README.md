@@ -10,31 +10,31 @@
 
 ### :sparkles: Tutorials
 
-*   [How to implement classification using a SVM in Ruby](https://www.practicalai.io/implementing-classification-using-a-svm-in-ruby/) <sup>\[[code (⭐5)](https://github.com/daugaard/example-svm)]</sup>
+*   [How to implement classification using a SVM in Ruby](https://www.practicalai.io/implementing-classification-using-a-svm-in-ruby/) <sup>\[[code (⭐6)](https://github.com/daugaard/example-svm)]</sup>
 
 ### Machine Learning Libraries / Frameworks
 
-*   [aws-sdk-machinelearning (⭐3.5k)](https://github.com/aws/aws-sdk-ruby) -
+*   [aws-sdk-machinelearning (⭐3.6k)](https://github.com/aws/aws-sdk-ruby) -
     Machine Learning API of the Amazon Web Services.
-*   [azure\_mgmt\_machine\_learning (⭐274)](https://github.com/Azure/azure-sdk-for-ruby) -
+*   [azure\_mgmt\_machine\_learning (⭐275)](https://github.com/Azure/azure-sdk-for-ruby) -
     Machine Learning API of the Microsoft Azure.
 
 ## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Miscellaneous
 
-*   [stb (⭐26k)](https://github.com/nothings/stb) :zap: - A range of single-file libraries for C/C++. \[PublicDomain]
+*   [stb (⭐28k)](https://github.com/nothings/stb) :zap: - A range of single-file libraries for C/C++. \[PublicDomain]
 
 ### Other Awesome Projects
 
-*   [awesome (⭐320k)](https://github.com/sindresorhus/awesome) :zap: - A curated list of awesome lists.
-*   [nothings/single\_file\_libs (⭐8.9k)](https://github.com/nothings/single_file_libs) :zap: - List of single-file C/C++ libraries.
+*   [awesome (⭐342k)](https://github.com/sindresorhus/awesome) :zap: - A curated list of awesome lists.
+*   [nothings/single\_file\_libs (⭐9.1k)](https://github.com/nothings/single_file_libs) :zap: - List of single-file C/C++ libraries.
 
 ## [3. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Version Control / Git
 
-*   [git-secret (⭐3.6k)](https://github.com/sobolevn/git-secret) - Store your private data inside a git repository.
+*   [git-secret (⭐3.7k)](https://github.com/sobolevn/git-secret) - Store your private data inside a git repository.
 
 ## [4. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
@@ -100,8 +100,8 @@
 
 ### JavaScript / General-Purpose Machine Learning
 
-*   [LDA.js (⭐291)](https://github.com/primaryobjects/lda) - LDA topic modelling for Node.js
-*   [Node-SVM (⭐296)](https://github.com/nicolaspanel/node-svm) - Support Vector Machine for Node.js
+*   [LDA.js (⭐292)](https://github.com/primaryobjects/lda) - LDA topic modelling for Node.js
+*   [Node-SVM (⭐297)](https://github.com/nicolaspanel/node-svm) - Support Vector Machine for Node.js
 
 ### JavaScript / Misc
 
@@ -109,7 +109,7 @@
 
 ### Matlab / General-Purpose Machine Learning
 
-*   [Machine Learning Module (⭐463)](https://github.com/josephmisiti/machine-learning-module) - Class on machine w/ PDF, lectures, code
+*   [Machine Learning Module (⭐465)](https://github.com/josephmisiti/machine-learning-module) - Class on machine w/ PDF, lectures, code
 
 ## [10. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
@@ -158,7 +158,7 @@
 
 ### Vert.x Event Bus Clients
 
-*   [Smalltalk (⭐9)](https://github.com/mumez/VerStix)- Event bus client for [Pharo Smalltalk](http://pharo.org/) using the [TCP-based protocol (⭐48)](https://github.com/vert-x3/vertx-tcp-eventbus-bridge).
+*   [Smalltalk (⭐9)](https://github.com/mumez/VerStix)- Event bus client for [Pharo Smalltalk](http://pharo.org/) using the [TCP-based protocol (⭐50)](https://github.com/vert-x3/vertx-tcp-eventbus-bridge).
 
 ## [12. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
@@ -272,11 +272,11 @@
 
 ### Clojure / Git
 
-*   [clj-crypto (⭐27)](https://github.com/macourtney/clj-crypto/) - Wrapper for Bouncy Castle.
+*   [clj-crypto (⭐29)](https://github.com/macourtney/clj-crypto/) - Wrapper for Bouncy Castle.
 
 ### PHP / Git
 
-*   [libsodium-laravel (⭐21)](https://github.com/scrothers/libsodium-laravel) - Laravel Package Abstraction using `libsodium`.
+*   [libsodium-laravel (⭐22)](https://github.com/scrothers/libsodium-laravel) - Laravel Package Abstraction using `libsodium`.
 
 ## [21. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
@@ -304,7 +304,7 @@
 
 ### Science and Data analysis
 
-*   [linalg (⭐47)](https://github.com/konovod/linalg) - Linear algebra library inspired by MATLAB and SciPy.linalg
+*   [linalg (⭐50)](https://github.com/konovod/linalg) - Linear algebra library inspired by MATLAB and SciPy.linalg
 
 ### Third-party APIs
 
@@ -340,7 +340,7 @@
 
 ## [26. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
-### Free Content
+### Free Content / Commerical Tools
 
 *   [Stanford CS229 - Machine Learning](https://see.stanford.edu/Course/CS229) - This course provides a broad introduction to machine learning and statistical pattern recognition.
 
@@ -405,7 +405,7 @@
 
 ### UI / Barcode
 
-*   [StepProgressView (⭐374)](https://github.com/yonat/StepProgressView) - Step-by-step progress view with labels and shapes. A good replacement for UIActivityIndicatorView and UIProgressView.
+*   [StepProgressView (⭐377)](https://github.com/yonat/StepProgressView) - Step-by-step progress view with labels and shapes. A good replacement for UIActivityIndicatorView and UIProgressView.
 
 ### Button / Barcode
 
@@ -421,15 +421,6 @@
 
 *   [Web development with Vue.js 2 (Video)](https://www.packtpub.com/web-development/web-development-vuejs-2-video) by Olga Filipova, Packt. (June 2017)
 *   [Build a realtime chart with VueJS and Pusher](https://blog.pusher.com/build-realtime-chart-with-vuejs-pusher/)
-
-### Projects Using Vue.js / Open Source
-
-*   [Material Dashboard (⭐154)](https://github.com/lucduong/vue-material-dashboard) - Creative Tim Material Dashboard made for Vue
-*   [Explore-Github (⭐56)](https://github.com/mazipan/explore-github) - VueJS 2 Github Explorer Using API v3
-
-### Components & Libraries / UI Components
-
-*   [v-money (⭐777)](https://github.com/vuejs-tips/v-money) - Tiny (<2k gzipped) input/directive mask for currency
 
 ## [35. Awesome Design Principles](/content/robinstickel/awesome-design-principles/week/README.md)
 

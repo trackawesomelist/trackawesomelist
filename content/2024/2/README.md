@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 08 - Jan 14, 2024
 
-51 awesome lists updated this week.
+50 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,17 +10,17 @@
 
 ### Python / Numerical Libraries & Data Structures
 
-*   [ArcticDB (⭐1.3k)](https://github.com/man-group/ArcticDB) - High performance datastore for time series and tick data.
+*   [ArcticDB (⭐1.7k)](https://github.com/man-group/ArcticDB) - High performance datastore for time series and tick data.
 
 ## [2. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Audio and Music
 
-*   [Spotify Player (⭐3.3k)](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity.
+*   [Spotify Player (⭐3.9k)](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity.
 
 ### Applications / Productivity
 
-*   [ast-grep (⭐6.9k)](https://github.com/ast-grep/ast-grep) - A CLI tool for code structural search, lint and rewriting.
+*   [ast-grep (⭐7.9k)](https://github.com/ast-grep/ast-grep) - A CLI tool for code structural search, lint and rewriting.
 
 ### Libraries / Data structures
 
@@ -64,9 +64,9 @@
 
 ## [5. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
-### Plugins and scripts / Godot 4.2+
+### Plugins and scripts / Godot 4
 
-*   [AnimatedShape2D (⭐110)](https://github.com/Goutte/godot-addon-animated-shape-2d) - Animate a CollisionShape2D along with the frames of an AnimatedSprite2D.
+*   [AnimatedShape2D (⭐136)](https://github.com/Goutte/godot-addon-animated-shape-2d) - Animate a CollisionShape2D along with the frames of an AnimatedSprite2D.
 
 ## [6. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
 
@@ -84,13 +84,13 @@
 
 ### UI Libraries, Components & Templates
 
-*   📁 [Astro Template Dante (⭐210)](https://github.com/JustGoodUI/dante-astro-theme) - Tailwind CSS & Astro blog/portfolio template.
+*   📁 [Astro Template Dante (⭐312)](https://github.com/JustGoodUI/dante-astro-theme) - Tailwind CSS & Astro blog/portfolio template.
 
 ## [9. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### REPLs / Third-party APIs
 
-*   [cl-repl (⭐13)](https://github.com/lisp-maintainers/cl-repl) - an ipython-like REPL. With completion, shell commands, magic commands, debugger, etc. [GPL3](http://www.gnu.org/copyleft/gpl.html). With [colorthemes (⭐12)](https://github.com/koji-kojiro/lem-pygments-colorthemes).
+*   [cl-repl (⭐22)](https://github.com/lisp-maintainers/cl-repl) - an ipython-like REPL. With completion, shell commands, magic commands, debugger, etc. [GPL3](http://www.gnu.org/copyleft/gpl.html). With [colorthemes (⭐12)](https://github.com/koji-kojiro/lem-pygments-colorthemes).
     *   new as of 2024: it now provides multi-line input and binary releases. Simply download a binary (Ubuntu so far) and run it.
 
 ## [10. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
@@ -121,7 +121,7 @@
 
 ### Crates / Component Libraries
 
-*   [Zu (⭐5)](https://github.com/RustVis/zu) - Yew web components, implementing Material Design.
+*   [Zu (⭐6)](https://github.com/RustVis/zu) - Yew web components, implementing Material Design.
 
 ## [13. Awesome Ai4lam](/content/AI4LAM/awesome-ai4lam/week/README.md)
 
@@ -150,14 +150,14 @@
 
 ### Examples/Templates
 
-*   [tom-miseur/k6-templates (⭐34)](https://github.com/tom-miseur/k6-templates/) - Opinionated starter templates for k6 projects.
+*   [tom-miseur/k6-templates (⭐35)](https://github.com/tom-miseur/k6-templates/) - Opinionated starter templates for k6 projects.
 *   [SwissLife-OSS/k6-multiscenario-template (⭐52)](https://github.com/SwissLife-OSS/K6-MultiScenario-template) - Use K6 to implement a Multi Scenario template.
 *   [Im5tu/template-k6 (⭐5)](https://github.com/Im5tu/template-k6) - A K6 Performance Test Suite Template.
 *   [mohsenny/k6-test-template (⭐3)](https://github.com/mohsenny/k6-test-template) - Load testing framework.
 *   [kwidera/k6\_framework (⭐1)](https://github.com/kwidera/k6_framework) - Another k6 framework example.
 *   [Sahanipe/pet\_store (⭐1)](https://github.com/Sahanipe/pet_store) - Modularized scripts for the Swagger PetStore APIs.
 *   [lreimer/continuous-k6k8s (⭐18)](https://github.com/lreimer/continuous-k6k8s) - Continuously run k6 tests in Kubernetes using cronjobs.
-*   [luketn/docker-k6-grafana-influxdb (⭐159)](https://github.com/luketn/docker-k6-grafana-influxdb) - Demonstrates how to run load tests with containerised instances of K6, Grafana and InfluxDB.
+*   [luketn/docker-k6-grafana-influxdb (⭐161)](https://github.com/luketn/docker-k6-grafana-influxdb) - Demonstrates how to run load tests with containerised instances of K6, Grafana and InfluxDB.
 
 ### CI/CD
 
@@ -186,13 +186,13 @@
 
 ### Software / Make your life easier
 
-*   [Ferrum (⭐1.7k)](https://github.com/rubycdp/ferrum) - very simple and easy to get started with frontend/UI testing in small Ruby scripts, high-level API to control Chrome with the CDP - Chrome DevTools Protocol (NO Selenium dependency)
+*   [Ferrum (⭐1.8k)](https://github.com/rubycdp/ferrum) - very simple and easy to get started with frontend/UI testing in small Ruby scripts, high-level API to control Chrome with the CDP - Chrome DevTools Protocol (NO Selenium dependency)
 
 ## [18. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### Related Awesome Lists / Mocking
 
-*   [Awesome Hybris (⭐27)](https://github.com/eminyagiz42/awesome-hybris)
+*   [Awesome Hybris (⭐34)](https://github.com/eminyagiz42/awesome-hybris)
 
 ## [19. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
 
@@ -221,7 +221,6 @@
 
 ### Books
 
-*   [Bootstrapping Microservices with Docker, Kubernetes, and Terraform, Second Editon](https://www.manning.com/books/bootstrapping-microservices-second-edition)
 *   [Patterns and Practices for Infrastructure as Code: With examples in Python and Terraform](https://www.manning.com/books/infrastructure-as-code-patterns-and-practices)
 
 ### Tutorials and Blog Posts / Beginner Guides
@@ -247,39 +246,39 @@
 
 ### Community Modules / Miscellaneous
 
-*   [terraform-aws-account-lookup (⭐2)](https://github.com/be-bold/terraform-aws-account-lookup) - This Terraform module allows querying AWS accounts and outputs the accounts in various mappings or as a complete list, with the ability to apply a search filter to the account list and group the accounts by existing tags using a submodule.
+*   [terraform-aws-account-lookup (⭐3)](https://github.com/be-bold/terraform-aws-account-lookup) - This Terraform module allows querying AWS accounts and outputs the accounts in various mappings or as a complete list, with the ability to apply a search filter to the account list and group the accounts by existing tags using a submodule.
 *   [terraform-aws-appconfig (⭐27)](https://github.com/terraform-aws-modules/terraform-aws-appconfig) - Creates AWS AppConfig resources on AWS.
-*   [terraform-aws-datadog-forwarders (⭐54)](https://github.com/terraform-aws-modules/terraform-aws-datadog-forwarders) - Creates resources on AWS to forward logs/metrics to Datadog.
-*   [terraform-aws-dms (⭐62)](https://github.com/terraform-aws-modules/terraform-aws-dms) - Creates AWS DMS (Database Migration Service) resources on AWS.
-*   [terraform-aws-jenkins (⭐255)](https://github.com/cloudposse-archives/terraform-aws-jenkins) - Build a Docker image with Jenkins, saves it to an ECR repo, and deploys it to Elastic Beanstalk running a Docker stack.
-*   [terraform-aws-managed-service-prometheus (⭐26)](https://github.com/terraform-aws-modules/terraform-aws-managed-service-prometheus) - Creates AWS Managed Service for Prometheus (AMP) resources on AWS.
-*   [terraform-aws-msk-kafka-cluster (⭐54)](https://github.com/terraform-aws-modules/terraform-aws-msk-kafka-cluster) - Creates AWS MSK (Managed Streaming for Kafka) resources on AWS.
-*   [terraform-aws-rds-proxy (⭐56)](https://github.com/terraform-aws-modules/terraform-aws-rds-proxy) - Creates AWS RDS Proxy resources on AWS.
+*   [terraform-aws-datadog-forwarders (⭐58)](https://github.com/terraform-aws-modules/terraform-aws-datadog-forwarders) - Creates resources on AWS to forward logs/metrics to Datadog.
+*   [terraform-aws-dms (⭐65)](https://github.com/terraform-aws-modules/terraform-aws-dms) - Creates AWS DMS (Database Migration Service) resources on AWS.
+*   [terraform-aws-jenkins (⭐256)](https://github.com/cloudposse-archives/terraform-aws-jenkins) - Build a Docker image with Jenkins, saves it to an ECR repo, and deploys it to Elastic Beanstalk running a Docker stack.
+*   [terraform-aws-managed-service-prometheus (⭐28)](https://github.com/terraform-aws-modules/terraform-aws-managed-service-prometheus) - Creates AWS Managed Service for Prometheus (AMP) resources on AWS.
+*   [terraform-aws-msk-kafka-cluster (⭐55)](https://github.com/terraform-aws-modules/terraform-aws-msk-kafka-cluster) - Creates AWS MSK (Managed Streaming for Kafka) resources on AWS.
+*   [terraform-aws-rds-proxy (⭐57)](https://github.com/terraform-aws-modules/terraform-aws-rds-proxy) - Creates AWS RDS Proxy resources on AWS.
 *   [terraform-digitalocean-droplet](https://registry.terraform.io/modules/terraform-digitalocean-modules/droplet/digitalocean/latest) - Terraform module for managing DigitalOcean Droplets and related resources.
 *   [terraform-linode-k8s](https://registry.terraform.io/modules/linode/k8s/linode/latest) - Installs Kubernetes on Linode Instances.
 
 ### Self-Hosted Registries / Miscellaneous
 
-*   [boring-registry (⭐166)](https://github.com/boring-registry/boring-registry) - Private Terraform Module/Provider Registry with API key authentication and blob storage support
+*   [boring-registry (⭐186)](https://github.com/boring-registry/boring-registry) - Private Terraform Module/Provider Registry with API key authentication and blob storage support
 
 ### Providers / Vendor supported providers
 
 *   [terraform-provider-dominos (⭐1.1k)](https://github.com/nat-henderson/terraform-provider-dominos) - Provider for Dominos Pizza.
-*   [terraform-provider-snowflake (⭐520)](https://github.com/Snowflake-Labs/terraform-provider-snowflake) - Provider for Snowflake data warehouse.
+*   [terraform-provider-snowflake (⭐565)](https://github.com/Snowflake-Labs/terraform-provider-snowflake) - Provider for Snowflake data warehouse.
 
 ### Tools / Community providers
 
 *   [Argonaut](https://www.argonaut.dev/) - Deploy apps and infrastructure on your cloud in minutes. Autogenerate Terraform modules, customize configurations through PRs. Support for app deployments on Kubernetes and Lambda environments.
 *   [layerform (⭐1.2k)](https://github.com/briefercloud/layerform) - Layerform helps engineers create reusable environment stacks using plain .tf files. Ideal for multiple "staging" environments. :skull:
-*   [terraform-bundle (⭐42k)](https://github.com/hashicorp/terraform/tree/main/tools/terraform-bundle) - Easily builds bundles containing a Terraform binary as well as provider binaries. Useful for CI and air-gapped Terraform Enterprise.
-*   [terraform-operator (⭐360)](https://github.com/GalleyBytes/terraform-operator) - A Kubernetes CRD to handle Terraform operations.
-*   [terraform.py (⭐451)](https://github.com/mantl/terraform.py) - Ansible dynamic inventory script for parsing Terraform state files. :skull:
+*   [terraform-bundle (⭐43k)](https://github.com/hashicorp/terraform/tree/main/tools/terraform-bundle) - Easily builds bundles containing a Terraform binary as well as provider binaries. Useful for CI and air-gapped Terraform Enterprise.
+*   [terraform-operator (⭐368)](https://github.com/GalleyBytes/terraform-operator) - A Kubernetes CRD to handle Terraform operations.
+*   [terraform.py (⭐452)](https://github.com/mantl/terraform.py) - Ansible dynamic inventory script for parsing Terraform state files. :skull:
 *   [terrahub (⭐224)](https://github.com/tfxor/terrahub) - TerraHub is terraform automation and orchestration tool. Seamlessly integrated into console.terrahub.io, enterprise friendly GUI to show realtime terraform executions, as well as auditing and reporting capabilities for historical terraform runs. :heavy\_dollar\_sign:
-*   [terramate (⭐3.2k)](https://github.com/terramate-io/terramate) - Tool for managing multiple Terraform stacks that comes with support for change detection and code generation
-*   [terrascan (⭐4.7k)](https://github.com/tenable/terrascan) - Collection of security and best practice test for static code analysis of terraform templates
-*   [tfautomv (⭐686)](https://github.com/busser/tfautomv) - Generate Terraform `moved` blocks automatically for painless refactoring
-*   [tfmask (⭐201)](https://github.com/cloudposse-archives/tfmask) - Terraform utility to mask select output from `terraform plan` and `terraform apply`
-*   [tgf (⭐100)](https://github.com/coveooss/tgf) - Terragrunt frontend for executing Terragrunt/Terraform through Docker.
+*   [terramate (⭐3.3k)](https://github.com/terramate-io/terramate) - Tool for managing multiple Terraform stacks that comes with support for change detection and code generation
+*   [terrascan (⭐4.8k)](https://github.com/tenable/terrascan) - Collection of security and best practice test for static code analysis of terraform templates
+*   [tfautomv (⭐712)](https://github.com/busser/tfautomv) - Generate Terraform `moved` blocks automatically for painless refactoring
+*   [tfmask (⭐204)](https://github.com/cloudposse-archives/tfmask) - Terraform utility to mask select output from `terraform plan` and `terraform apply`
+*   [tgf (⭐104)](https://github.com/coveooss/tgf) - Terragrunt frontend for executing Terragrunt/Terraform through Docker.
 
 ### Managed Terraform Platforms :heavy_dollar_sign: / IDE
 
@@ -297,7 +296,7 @@
 
 ### Editor Plugins / IDE
 
-*   [Emacs terraform-mode (⭐217)](https://github.com/hcl-emacs/terraform-mode)
+*   [Emacs terraform-mode (⭐224)](https://github.com/hcl-emacs/terraform-mode)
 *   [Intellij](https://plugins.jetbrains.com/plugin/7808-terraform-and-hcl)
 *   [VS Code](https://marketplace.visualstudio.com/items?itemName=hashicorp.terraform)
 
@@ -313,7 +312,7 @@
 
 ### Utility
 
-*   [json2v (⭐25)](https://github.com/ldedev/Json2V) - Convert a json to a struct in Vlang.
+*   [json2v (⭐29)](https://github.com/ldedev/Json2V) - Convert a json to a struct in Vlang.
 
 ## [23. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
@@ -329,7 +328,7 @@
 
 ### Domain Specific Language / Design Theory
 
-*   [Domain-specific languages: an annotated bibliography](https://dl.acm.org/doi/abs/10.1145/352029.352035) - ***ACM SIGPLAN Notices***, 2000. \[[All Versions](https://scholar.google.com/scholar?cluster=8845429548327315750)]. A survey on the topic of domain-specific languages as used for the construction and maintenance of software systems.
+*   [Domain-specific languages: an annotated bibliography](https://dl.acm.org/doi/abs/10.1145/352029.352035) - ***ACM SIGPLAN Notices***, 2000. \[[All Versions](https://scholar.google.com/scholar?cluster=8845429548327315750)]. A survey on the topic of domain-specific languages as used for the construction and maintenance of software systems. The survey lists a selection of 75 key publications in the area, and provides a summary for each of the papers. Moreover, the survey discusses terminology, risks and benefits, example domain-specific languages, design methodologies, and implementation techniques.
 
 ## [25. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/week/README.md)
 
@@ -347,50 +346,10 @@
 
 ### Themes
 
-*   [rose-pine (⭐128)](https://github.com/rose-pine/tmux) - Soho vibes for tmux
-*   [tmux-kanagawa (⭐47)](https://github.com/Nybkox/tmux-kanagawa): Dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.
+*   [rose-pine (⭐167)](https://github.com/rose-pine/tmux) - Soho vibes for tmux
+*   [tmux-kanagawa (⭐72)](https://github.com/Nybkox/tmux-kanagawa): Dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.
 
-## [28. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/week/README.md)
-
-### **Azure Enterprise Services** / **Azure AI Search**
-
-*   [Models as a Service (MaaS)](https://www.linkedin.com/pulse/model-service-maas-revolutionizing-ai-azure-shibu-kt): A cloud-based AI approach that provides developers and businesses with access to pre-built, pre-trained machine learning models. \[July 2023]
-
-### **Prompt Engineering** / **Prompt Template Language**
-
-*   [Prompt Principle for Instructions](https://arxiv.org/abs/2312.16171): 26 prompt principles: e.g., `1) No need to be polite with LLM so there .. 16)  Assign a role.. 17) Use Delimiters..` \[26 Dec 2023]
-
-### **Other techniques and LLM patterns** / **Llama Finetuning**
-
-*   [Model merging](https://towardsdatascience.com/merge-large-language-models-with-mergekit-2118fb392b54): : A technique that combines two or more large language models (LLMs) into a single model, using methods such as SLERP, TIES, DARE, and passthrough. \[Jan 2024] [git (⭐4.4k)](https://github.com/cg123/mergekit): mergekit
-    | Method | Pros                                                       | Cons                                                          |
-    | ------ | ---------------------------------------------------------- | ------------------------------------------------------------- |
-    | SLERP  | Preserves geometric properties, popular method             | Can only merge two models, may decrease magnitude             |
-    | TIES   | Can merge multiple models, eliminates redundant parameters | Requires a base model, may discard useful parameters          |
-    | DARE   | Reduces overfitting, keeps expectations unchanged          | May introduce noise, may not work well with large differences |
-
-### **Survey on Large Language Models** / **GPT series release date**
-
-*   Google AI Research Recap
-    *   [Gemini](https://blog.google/technology/ai/google-gemini-ai) \[06 Dec 2023] Three different sizes: Ultra, Pro, Nano. With a score of 90.0%, Gemini Ultra is the first model to outperform human experts on MMLU [ref](https://storage.googleapis.com/deepmind-media/gemini/gemini_1_report.pdf)
-    *   [Google AI Research Recap (2022 Edition)](https://ai.googleblog.com/2023/01/google-research-2022-beyond-language.html)
-    *   [Themes from 2021 and Beyond](https://ai.googleblog.com/2022/01/google-research-themes-from-2021-and.html)
-    *   [Looking Back at 2020, and Forward to 2021](https://ai.googleblog.com/2021/01/google-research-looking-back-at-2020.html)
-
-### **LLM for Robotics: Bridging AI and Robotics** / **OSS Alternatives for OpenAI Code Interpreter (aka. Advanced Data Analytics)**
-
-*   [Mobile ALOHA](https://mobile-aloha.github.io/): Stanford’s mobile ALOHA robot learns from humans to cook, clean, do laundry. Mobile ALOHA extends the original ALOHA system by mounting it on a wheeled base [ref](https://venturebeat.com/automation/stanfords-mobile-aloha-robot-learns-from-humans-to-cook-clean-do-laundry/) \[4 Jan 2024] / [ALOHA](https://www.trossenrobotics.com/aloha.aspx): A Low-cost Open-source Hardware System for Bimanual Teleoperation.
-
-### **Awesome demo** / **OSS Alternatives for OpenAI Code Interpreter (aka. Advanced Data Analytics)**
-
-*   [rewind.ai](https://www.rewind.ai/): Rewind captures everything you’ve seen on your Mac and iPhone \[Nov 2023]
-*   [Mobile ALOHA](https://youtu.be/HaaZ8ss-HP4?si=iMYKzvx8wQhf39yU): A day of Mobile ALOHA \[4 Jan 2024]
-
-### **Challenges in evaluating AI systems** / Math
-
-*   [Challenges in evaluating AI systems](https://www.anthropic.com/index/evaluating-ai-systems): The challenges and limitations of various methods for evaluating AI systems, such as multiple-choice tests, human evaluations, red teaming, model-generated evaluations, and third-party audits. [doc](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/files/eval-ai-anthropic.pdf) \[4 Oct 2023]
-
-## [29. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/week/README.md)
+## [28. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/week/README.md)
 
 ### Text / Academia
 
@@ -404,22 +363,22 @@
 
 *   [Listomatic](https://listomatic.app) - Free and fully configurable real estate listing description generator.
 
-## [30. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [29. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Official documentation
 
 *   [Documentation for Node.js API](https://pola-rs.github.io/nodejs-polars/index.html) - Official API Reference for Node.js.
-*   [Shared library plugins for Polars (⭐234)](https://github.com/pola-rs/pyo3-polars).
+*   [Shared library plugins for Polars (⭐274)](https://github.com/pola-rs/pyo3-polars).
 
 ### Resources / Blog posts
 
 *   Interesting thread about Polars on [Hacker News](https://news.ycombinator.com/item?id=38920043)
 
-## [31. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [30. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Reading and Writing Tools / Others
 
-*   [SwifDoo PDF](https://www.swifdoo.com/) - The best PDF Editor/converter that’ll help you transform your PDF file, edit it, compress, or password-protect it in just a couple of simple steps
+*   [SwifDoo PDF](https://www.swifdoo.com/) - PDF editor/converter for editing, compressing, and password-protecting PDFs.
 
 ### Developer Tools / Command Line Tools
 
@@ -429,13 +388,13 @@
 
 *   [OpenIn](https://loshadki.app/openin4/) - Take control of installed apps on your Mac [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/openin-4-advanced-link-handler/id1643649331?mt=12)
 
-## [32. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/week/README.md)
+## [31. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/week/README.md)
 
 ### Editors / Web Editors
 
-*   [Rapid](https://rapideditor.org/edit) - AI assisted versions of iD. ([Meta-Repo (⭐175)](https://github.com/facebookmicrosites/Open-Mapping-At-Facebook) / [Editor Source Code (⭐439)](https://github.com/facebook/Rapid) / [Wiki](https://wiki.openstreetmap.org/wiki/RapiD))
+*   [Rapid](https://rapideditor.org/edit) - AI assisted versions of iD. ([Meta-Repo (⭐179)](https://github.com/facebookmicrosites/Open-Mapping-At-Facebook) / [Editor Source Code (⭐503)](https://github.com/facebook/Rapid) / [Wiki](https://wiki.openstreetmap.org/wiki/RapiD))
 
-## [33. Awesome Translations](/content/mbiesiad/awesome-translations/week/README.md)
+## [32. Awesome Translations](/content/mbiesiad/awesome-translations/week/README.md)
 
 ### Platforms / Localization and translation platforms
 
@@ -450,7 +409,7 @@
 *   [Localizejs](https://localizejs.com/) - Translations for websites and applications to new languages and streamline translation workflow.
 *   [ParaglideJS](https://inlang.com/m/gerre34r) - Synchronous, typesafe and lightweight i18n library.
 
-## [34. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [33. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Generative AI history, timelines, maps, and definitions
 
@@ -464,27 +423,27 @@
 
 *   [SiteSpeakAI](https://sitespeak.ai): Automate your customer support with AI
 
-## [35. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [34. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Framework-agnostic Plugins / Loaders
 
-*   [@cyco130/vite-plugin-mdx (⭐11)](https://github.com/cyco130/vite-plugin-mdx) - Import MDX.
-*   [vite-awesome-svg-loader (⭐11)](https://github.com/matafokka/vite-awesome-svg-loader) - Imports SVGs as source code, base64 and data URI. Preserves stroke width, replaces colors with currentColor. Optimizes SVGs with SVGO. Creates SVG sprites.
+*   [@cyco130/vite-plugin-mdx (⭐12)](https://github.com/cyco130/vite-plugin-mdx) - Import MDX.
+*   [vite-awesome-svg-loader (⭐12)](https://github.com/matafokka/vite-awesome-svg-loader) - Imports SVGs as source code, base64 and data URI. Preserves stroke width, replaces colors with currentColor. Optimizes SVGs with SVGO. Creates SVG sprites.
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [@laynezh/vite-plugin-lib-assets (⭐83)](https://github.com/laynezh/vite-plugin-lib-assets) - Extracts resource files referenced in `library mode` instead of embedded them as base64.
+*   [@laynezh/vite-plugin-lib-assets (⭐110)](https://github.com/laynezh/vite-plugin-lib-assets) - Extracts resource files referenced in `library mode` instead of embedded them as base64.
 
 ### Libraries / Community
 
-*   [Vike (⭐4k)](https://github.com/vikejs/vike) - Like Nuxt/Next.js but as a do-one-thing-do-it-well plugin. ![react](https://img.shields.io/badge/-React-4ab2cf) ![vue3](https://img.shields.io/badge/-Vue%203-42b883) ![vue2](https://img.shields.io/badge/-Vue%202-42b883) ![svelte](https://img.shields.io/badge/-Svelte-db552a)
-*   [SSRx (⭐93)](https://github.com/marbemac/ssrx) - A thin layer on top of Vite to build modern SSR apps with a delightful DX.
+*   [Vike (⭐4.6k)](https://github.com/vikejs/vike) - Like Nuxt/Next.js but as a do-one-thing-do-it-well plugin. ![react](https://img.shields.io/badge/-React-4ab2cf) ![vue3](https://img.shields.io/badge/-Vue%203-42b883) ![vue2](https://img.shields.io/badge/-Vue%202-42b883) ![svelte](https://img.shields.io/badge/-Svelte-db552a)
+*   [SSRx (⭐133)](https://github.com/marbemac/ssrx) - A thin layer on top of Vite to build modern SSR apps with a delightful DX.
 
 ### Node.js / Community
 
-*   [vite-manifest-parser (⭐10)](https://github.com/sullay/vite-manifest-parser) - Parses manifest.json to generate HTML script and link tags.
+*   [vite-manifest-parser (⭐13)](https://github.com/sullay/vite-manifest-parser) - Parses manifest.json to generate HTML script and link tags.
 
-## [36. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
+## [35. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
 
 ### Code Editors:
 
@@ -492,17 +451,17 @@
 
 
 
-## [37. Awesome Spanish Nlp](/content/dav009/awesome-spanish-nlp/week/README.md)
+## [36. Awesome Spanish Nlp](/content/dav009/awesome-spanish-nlp/week/README.md)
 
 ### Corpora / Corpora
 
 *   [OSCAR or Open Super-large Crawled ALMAnaCH coRpus Spanish subset](https://traces1.inria.fr/oscar/)
 
-## [38. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
+## [37. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
 
 ### Integrations
 
-*   [@guidepup/playwright (⭐50)](https://github.com/guidepup/guidepup-playwright) - VoiceOver and NVDA screen reader driver integration for Playwright.
+*   [@guidepup/playwright (⭐53)](https://github.com/guidepup/guidepup-playwright) - VoiceOver and NVDA screen reader driver integration for Playwright.
 
 ### Utils
 
@@ -512,49 +471,49 @@
 
 *   [qase (⭐49)](https://github.com/qase-tms/qase-javascript/tree/master/qase-playwright) - Playwright Qase Reporter, send test executions to [qase](https://qase.io/).
 
-## [39. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
+## [38. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
 
 ### Themes for non-GTK apps / Skeumorphic Icons
 
-*   [Adwaita for Steam (⭐1.1k)](https://github.com/tkashkin/Adwaita-for-Steam) - Skin to make Steam look more like a native GNOME app.
-*   [Adwaita theme for VS Code (⭐142)](https://github.com/piousdeer/vscode-adwaita) - Dark and light themes for VS Code based on GNOME's look and GNOME Builder's syntax highlighting.
+*   [Adwaita for Steam (⭐1.2k)](https://github.com/tkashkin/Adwaita-for-Steam) - Skin to make Steam look more like a native GNOME app.
+*   [Adwaita theme for VS Code (⭐153)](https://github.com/piousdeer/vscode-adwaita) - Dark and light themes for VS Code based on GNOME's look and GNOME Builder's syntax highlighting.
 
-## [40. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/week/README.md)
+## [39. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/week/README.md)
 
 ### Infrastructure as Code Analysis / Kubernetes
 
 *   [Kubescape](https://kubescape.io/) - *Cloud Native Computing Foundation* - An open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters.
 
-## [41. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
+## [40. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
 
 ### Action
 
 *   [OpenRW](https://openrw.org/) - A cross-platform, open source re-implementation of Rockstar Games' Grand Theft Auto III.
 
-## [42. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [41. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [mise (⭐6)](https://github.com/wintermi/zsh-mise) - Plugin for [mise](https://mise.jdx.dev/) (formerly called rtx) a fast polyglot version manager, replacing tools like `nvm`, `nodenv`, `rbenv`, `rvm`, `chruby`, `pyenv`, etc.
+*   [mise (⭐9)](https://github.com/wintermi/zsh-mise) - Plugin for [mise](https://mise.jdx.dev/) (formerly called rtx) a fast polyglot version manager, replacing tools like `nvm`, `nodenv`, `rbenv`, `rvm`, `chruby`, `pyenv`, etc.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [pacmandoh (⭐3)](https://github.com/pacmandoh/omz-theme-pacmandoh) - Enhance your command-line with a sleek theme. Includes decorators for `git` integration, permissions feedback, Python environment support, and dynamic prompts, all in one, customizable with a single installation script and selectable styles.
 *   [ulyssesys (⭐0)](https://github.com/UlyssesZh/ulyssesys) - Has decorators for full path to current directory, exit code of last command and `git` status.
 
-## [43. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [42. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### IDE
 
-*   [Fine](https://www.fine.dev/) - Build Software with AI Agents.
+*   [Fine](https://www.fine.dev/) - Build Software with AI Agents. [![featured on launchweek.dev](https://img.shields.io/badge/featured-0D1117.svg?style=flat-square\&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMzYwIiBoZWlnaHQ9IjM2MCIgdmlld0JveD0iMCAwIDM2MCAzNjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+IDxyZWN0IHdpZHRoPSI2MCIgaGVpZ2h0PSIzMDAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjYwIiB5PSIzMDAiIHdpZHRoPSIxMjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjI0MCIgeT0iMzAwIiB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjMwMCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjMwMCIgZmlsbD0id2hpdGUiLz4gPHJlY3QgeD0iMTgwIiB3aWR0aD0iNjAiIGhlaWdodD0iMzAwIiBmaWxsPSJ3aGl0ZSIvPiA8L3N2Zz4=)](https://launchweek.dev)
 
-## [44. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [43. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Firmware projects / WIP
 
-*   [BillMock (⭐12)](https://github.com/pmnxis/billmock-app-rs): Firmware for credit card terminal add-on hardware to install on Korean arcade machines
+*   [BillMock (⭐14)](https://github.com/pmnxis/billmock-app-rs): Firmware for credit card terminal add-on hardware to install on Korean arcade machines
 
-## [45. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [44. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Containers
 
@@ -562,50 +521,50 @@
 
 ### Database
 
-*   [Infinity (⭐2.4k)](https://github.com/infiniflow/infinity) - The AI-native database built for LLM applications, providing incredibly fast vector and full-text search. \[Apache2]
-*   [UStore (⭐524)](https://github.com/unum-cloud/ustore) - Multi-Modal database for BLOBs, JSON, and graphs. \[Apache2]
+*   [Infinity (⭐2.9k)](https://github.com/infiniflow/infinity) - The AI-native database built for LLM applications, providing incredibly fast vector and full-text search. \[Apache2]
+*   [UStore (⭐563)](https://github.com/unum-cloud/ustore) - Multi-Modal database for BLOBs, JSON, and graphs. \[Apache2]
 
 ### Machine Learning
 
-*   [catboost (⭐8k)](https://github.com/catboost/catboost) - A fast, scalable, high performance Gradient Boosting on Decision Trees library. \[Apache2]
-*   [FAISS (⭐30k)](https://github.com/facebookresearch/faiss) - A library for efficient similarity search and clustering of dense vectors. \[MIT]
-*   [ggml (⭐11k)](https://github.com/ggerganov/ggml) - Tensor library for machine learning with 16-bit and 4-bit quantization support. \[MIT]
-*   [USearch (⭐2k)](https://github.com/unum-cloud/usearch) - Fast search and clustering library for vectors and strings. \[Apache2]
+*   [catboost (⭐8.2k)](https://github.com/catboost/catboost) - A fast, scalable, high performance Gradient Boosting on Decision Trees library. \[Apache2]
+*   [FAISS (⭐32k)](https://github.com/facebookresearch/faiss) - A library for efficient similarity search and clustering of dense vectors. \[MIT]
+*   [ggml (⭐12k)](https://github.com/ggerganov/ggml) - Tensor library for machine learning with 16-bit and 4-bit quantization support. \[MIT]
+*   [USearch (⭐2.4k)](https://github.com/unum-cloud/usearch) - Fast search and clustering library for vectors and strings. \[Apache2]
 
 ### Math
 
-*   [SimSIMD (⭐828)](https://github.com/ashvardanian/SimSIMD) - Vector distance functions for x86 AVX2, AVX-512, Arm NEON, and SVE. \[Apache2]
+*   [SimSIMD (⭐1.2k)](https://github.com/ashvardanian/SimSIMD) - Vector distance functions for x86 AVX2, AVX-512, Arm NEON, and SVE. \[Apache2]
 
 ### Networking
 
-*   [RedPanda (⭐9.3k)](https://github.com/redpanda-data/redpanda) - Streaming data platform for developers. Kafka API compatible. 10x faster. \[BSL]
-*   [UCall (⭐1.1k)](https://github.com/unum-cloud/ucall) - A high-performance SIMD-accelerated RPC library on io\_uring. \[Apache2]
+*   [RedPanda (⭐9.9k)](https://github.com/redpanda-data/redpanda) - Streaming data platform for developers. Kafka API compatible. 10x faster. \[BSL]
+*   [UCall (⭐1.2k)](https://github.com/unum-cloud/ucall) - A high-performance SIMD-accelerated RPC library on io\_uring. \[Apache2]
 
 ### Scripting
 
-*   [LuaBridge3 (⭐246)](https://github.com/kunitoki/LuaBridge3) - A lightweight, dependency-free library for binding Lua, LuaJIT, Luau and Ravi to C++. \[MIT]
+*   [LuaBridge3 (⭐265)](https://github.com/kunitoki/LuaBridge3) - A lightweight, dependency-free library for binding Lua, LuaJIT, Luau and Ravi to C++. \[MIT]
 
-## [46. Awesome Dos](/content/balintkissdev/awesome-dos/week/README.md)
+## [45. Awesome Dos](/content/balintkissdev/awesome-dos/week/README.md)
 
 ### Development tools
 
 *   [GCC IA-16 toolchain](https://gitlab.com/tkchia/build-ia16/-/releases) - A 16-bit counterpart to DJGPP, a GCC-based toolchain for developing 16-bit (8086 to 80286, a.k.a. IA-16) DOS applications, currently maintained by TK Chia.
 
-## [47. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
+## [46. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 
 ### Contents / Entertainment
 
-*   [Get Games (⭐5)](https://github.com/regenin/get_games) - Flutter app showing free and discounted games, find the cheapest store by [regenin](https://github.com/regenin).
+*   [Get Games (⭐10)](https://github.com/regenin/get_games) - Flutter app showing free and discounted games, find the cheapest store by [regenin](https://github.com/regenin).
 
-## [48. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [47. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Automation
 
-*   [Mylar3](https://mylarcomics.com/) - Automated Comic Book (cbr/cbz) downloader program for use with NZB and torrents. ([Source Code (⭐1k)](https://github.com/mylar3/mylar3)) `GPL-3.0` `Python/Docker`
+*   [Mylar3](https://mylarcomics.com/) - Automated Comic Book (cbr/cbz) downloader program for use with NZB and torrents. ([Source Code (⭐1.1k)](https://github.com/mylar3/mylar3)) `GPL-3.0` `Python/Docker`
 
 ### Software / File Transfer - Object Storage & File Servers
 
-*   [ZOT OCI Registry](https://zotregistry.dev) - A production-ready vendor-neutral OCI-native container image registry. ([Demo](https://zothub.io), [Source Code (⭐846)](https://github.com/project-zot/zot)) `Apache-2.0` `Go/Docker`
+*   [ZOT OCI Registry](https://zotregistry.dev) - A production-ready vendor-neutral OCI-native container image registry. ([Demo](https://zothub.io), [Source Code (⭐1k)](https://github.com/project-zot/zot)) `Apache-2.0` `Go/Docker`
 
 ### Software / Miscellaneous
 
@@ -613,13 +572,13 @@
 
 ### Software / Proxy
 
-*   [txtdot](https://txtdot.github.io/documentation/) - A HTTP proxy that parses only text, links and pictures from pages reducing internet bandwidth usage, removing ads and heavy scripts. ([Demo](https://txt.dc09.ru), [Source Code (⭐152)](https://github.com/TxtDot/txtdot)) `MIT` `Nodejs/Docker`
+*   [txtdot](https://txtdot.github.io/documentation/) - A HTTP proxy that parses only text, links and pictures from pages reducing internet bandwidth usage, removing ads and heavy scripts. ([Demo](https://txt.dc09.ru), [Source Code (⭐165)](https://github.com/TxtDot/txtdot)) `MIT` `Nodejs/Docker`
 
 ### Software / Wikis
 
-*   [WikiDocs](http://wikidocs.it) - A databaseless markdown flat-file wiki engine. ([Demo](https://demo.wikidocs.it), [Source Code (⭐244)](https://github.com/Zavy86/WikiDocs)) `MIT` `PHP/Docker`
+*   [WikiDocs](http://wikidocs.it) - A databaseless markdown flat-file wiki engine. ([Demo](https://demo.wikidocs.it), [Source Code (⭐369)](https://github.com/Zavy86/WikiDocs)) `MIT` `PHP/Docker`
 
-## [49. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [48. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
@@ -629,26 +588,26 @@
 
 *   [v0.dev](https://v0.dev/) — v0 uses AI models to generate code based on simple text prompts. It generates copy-and-paste friendly React code based on shadcn/ui and Tailwind CSS that people can use in their projects. Each generation takes at minimum 30 credits. You start up with 1200 credits, and get 200 free credits every month.
 
-## [50. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [49. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### PHP / Diagnostics
 
-*   [ta-tikoma/php.easy.nvim (⭐13)](https://github.com/ta-tikoma/php.easy.nvim) - Methods of assistance in PHP development: create classes, constants, methods, properties; simple copying and deleting of an entity.
+*   [ta-tikoma/php.easy.nvim (⭐19)](https://github.com/ta-tikoma/php.easy.nvim) - Methods of assistance in PHP development: create classes, constants, methods, properties; simple copying and deleting of an entity.
 
 ### Startup / Diagnostics
 
-*   [CWood-sdf/spaceport.nvim (⭐79)](https://github.com/CWood-sdf/spaceport.nvim) - The start screen that gets you to your projects blazingly fast.
+*   [CWood-sdf/spaceport.nvim (⭐100)](https://github.com/CWood-sdf/spaceport.nvim) - The start screen that gets you to your projects blazingly fast.
 
 ### Editing Support / Diagnostics
 
-*   [gregorias/coerce.nvim (⭐104)](https://github.com/gregorias/coerce.nvim) - Change keyword case.
-*   [johmsalas/text-case.nvim (⭐411)](https://github.com/johmsalas/text-case.nvim) - Text case changes via keybindings and custom substitute command with Telescope and LSP support.
+*   [gregorias/coerce.nvim (⭐144)](https://github.com/gregorias/coerce.nvim) - Change keyword case.
+*   [johmsalas/text-case.nvim (⭐470)](https://github.com/johmsalas/text-case.nvim) - Text case changes via keybindings and custom substitute command with Telescope and LSP support.
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [Cris-lml007/NeoPlus (⭐8)](https://github.com/Cris-lml007/NeoPlus) - NeoPlus is a free, open source IDE with tools that works on Neovim.
+*   [Cris-lml007/NeoPlus (⭐14)](https://github.com/Cris-lml007/NeoPlus) - NeoPlus is a free, open source IDE with tools that works on Neovim.
 
-## [51. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
+## [50. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
 
 ### Misc
 

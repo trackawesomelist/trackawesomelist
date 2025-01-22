@@ -142,7 +142,7 @@
 
 ### Trading
 
-*   [Lean (⭐9.3k)](https://github.com/QuantConnect/Lean) - Lean Engine is an open-source fully managed C# algorithmic trading engine built for desktop and cloud usage. <https://www.quantconnect.com/lean/>
+*   [Lean (⭐10k)](https://github.com/QuantConnect/Lean) - Lean Engine is an open-source fully managed C# algorithmic trading engine built for desktop and cloud usage. <https://www.quantconnect.com/lean/>
 
 ### Source Generator
 
@@ -152,7 +152,7 @@
 
 ### Other Awesome Projects
 
-*   [C++ links (⭐4.4k)](https://github.com/MattPD/cpplinks) - A categorized list of C++ resources.
+*   [C++ links (⭐4.7k)](https://github.com/MattPD/cpplinks) - A categorized list of C++ resources.
 
 ---
 

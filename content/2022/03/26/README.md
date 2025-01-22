@@ -10,7 +10,7 @@
 
 ### Performance
 
-*   [AppleCake (⭐21)](https://github.com/EngineerSmith/AppleCake) - Profiling library for LÖVE, with detailed profiling and thread support.
+*   [AppleCake (⭐24)](https://github.com/EngineerSmith/AppleCake) - Profiling library for LÖVE, with detailed profiling and thread support.
 
 ## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -45,7 +45,7 @@
 
 ### Templates / Vue 3
 
-*   [vue-admin-box (⭐1.7k)](https://github.com/cmdparkour/vue-admin-box) - Admin template, based on Vue 3 + Element-plus.
+*   [vue-admin-box (⭐1.8k)](https://github.com/cmdparkour/vue-admin-box) - Admin template, based on Vue 3 + Element-plus.
 
 ---
 

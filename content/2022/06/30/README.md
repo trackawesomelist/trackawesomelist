@@ -10,46 +10,46 @@
 
 ### Data / Compare
 
-*   [data-diff (⭐2.9k)](https://github.com/datafold/data-diff) - Command-line tool and Python library to efficiently diff rows across two different databases.
+*   [data-diff (⭐3k)](https://github.com/datafold/data-diff) - Command-line tool and Python library to efficiently diff rows across two different databases.
 
 ## [2. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Blockchain
 
-*   [ethabi (⭐514)](https://github.com/rust-ethereum/ethabi) - Encode and decode smart contract invocations.
+*   [ethabi (⭐521)](https://github.com/rust-ethereum/ethabi) - Encode and decode smart contract invocations.
 *   [ethers-rs (⭐2.5k)](https://github.com/gakonst/ethers-rs) - Complete Ethereum & Celo library and wallet implementation. ![Build Status](https://github.com/gakonst/ethers-rs/workflows/Tests/badge.svg)
-*   [etk (⭐349)](https://github.com/quilt/etk) - etk is a collection of tools for writing, reading, and analyzing EVM bytecode.
-*   [Foundry (⭐8k)](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development. ![Build Status](https://img.shields.io/github/workflow/status/foundry-rs/foundry/test?style=flat-square)
-*   [Lighthouse (⭐2.9k)](https://github.com/sigp/lighthouse) - Ethereum Consensus Layer (CL) Client [![Build Status](https://github.com/sigp/lighthouse/workflows/test-suite/badge.svg?branch=master)](https://github.com/sigp/lighthouse/actions)
-*   [mev-inspect-rs (⭐542)](https://github.com/flashbots/mev-inspect-rs) - Ethereum MEV Inspector.
+*   [etk (⭐361)](https://github.com/quilt/etk) - etk is a collection of tools for writing, reading, and analyzing EVM bytecode.
+*   [Foundry (⭐8.5k)](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development. ![Build Status](https://img.shields.io/github/workflow/status/foundry-rs/foundry/test?style=flat-square)
+*   [Lighthouse (⭐3k)](https://github.com/sigp/lighthouse) - Ethereum Consensus Layer (CL) Client [![Build Status](https://github.com/sigp/lighthouse/workflows/test-suite/badge.svg?branch=master)](https://github.com/sigp/lighthouse/actions)
+*   [mev-inspect-rs (⭐552)](https://github.com/flashbots/mev-inspect-rs) - Ethereum MEV Inspector.
 *   [opensea-rs (⭐242)](https://github.com/gakonst/opensea-rs) - Bindings & CLI to the Opensea API and Contracts.
-*   [revm (⭐1.5k)](https://github.com/bluealloy/revm) - Revolutionary Machine (revm) is a fast Ethereum virtual machine.
+*   [revm (⭐1.7k)](https://github.com/bluealloy/revm) - Revolutionary Machine (revm) is a fast Ethereum virtual machine.
 
 ### Libraries / Command-line
 
 *   Prompt
-    *   [hashmismatch/terminal\_cli.rs (⭐54)](https://github.com/hashmismatch/terminal_cli.rs) \[[terminal\_cli](https://crates.io/crates/terminal_cli)] - build an interactive command prompt
-    *   [mikaelmello/inquire (⭐1.8k)](https://github.com/mikaelmello/inquire) \[[inquire](https://crates.io/crates/inquire)] - A library for building interactive prompts on terminals. [![Build status](https://github.com/mikaelmello/inquire/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/mikaelmello/inquire/actions)
+    *   [hashmismatch/terminal\_cli.rs (⭐56)](https://github.com/hashmismatch/terminal_cli.rs) \[[terminal\_cli](https://crates.io/crates/terminal_cli)] - build an interactive command prompt
+    *   [mikaelmello/inquire (⭐2.1k)](https://github.com/mikaelmello/inquire) \[[inquire](https://crates.io/crates/inquire)] - A library for building interactive prompts on terminals. [![Build status](https://github.com/mikaelmello/inquire/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/mikaelmello/inquire/actions)
     *   [starship/starship](https://starship.rs/) \[[starship](https://crates.io/crates/starship)] - A minimal, blazing fast, and extremely customizable prompt for any shell [![Build status](https://github.com/starship/starship/workflows/Main%20workflow/badge.svg?branch=master)](https://github.com/starship/starship/actions)
-    *   [ynqa/promkit (⭐244)](https://github.com/ynqa/promkit) \[[promkit](https://crates.io/crates/promkit)] - A toolkit for building interactive command-line tools [![ci](https://github.com/ynqa/promkit/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/ynqa/promkit/actions/workflows/ci.yml)
+    *   [ynqa/promkit (⭐313)](https://github.com/ynqa/promkit) \[[promkit](https://crates.io/crates/promkit)] - A toolkit for building interactive command-line tools [![ci](https://github.com/ynqa/promkit/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/ynqa/promkit/actions/workflows/ci.yml)
 
 ## [3. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Forms
 
-*   [gbind (⭐8)](https://github.com/bdjimmy/gbind) - Bind data to any Go value. Can use built-in and custom expression binding capabilities; supports data validation
+*   [gbind (⭐10)](https://github.com/bdjimmy/gbind) - Bind data to any Go value. Can use built-in and custom expression binding capabilities; supports data validation
 
 ## [4. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
 ### Integrations
 
-*   [Keycloak Python Client (⭐33)](https://github.com/keycloak-client/keycloak-client)
+*   [Keycloak Python Client (⭐43)](https://github.com/keycloak-client/keycloak-client)
 
 ## [5. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / General-Purpose Machine Learning
 
-*   [dirty\_cat (⭐10)](https://github.com/dirty-cat/dirty_cat) - facilitates machine-learning on dirty, non-curated categories. It provides transformers and encoders robust to morphological variants, such as typos.
+*   [dirty\_cat (⭐17)](https://github.com/dirty-cat/dirty_cat) - facilitates machine-learning on dirty, non-curated categories. It provides transformers and encoders robust to morphological variants, such as typos.
 
 ## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

@@ -50,11 +50,11 @@
 
 ### Reactive programming
 
-*   [Cells (⭐210)](https://github.com/kennytilton/cells) - an implementation of the dataflow programming paradigm, reactive spreadsheet-like expressiveness for CLOS. Used to build an [algebra learning system](http://tiltontec.com/). With [documentation (⭐19)](https://github.com/stefano/cells-doc/). Lisp LGPL.
+*   [Cells (⭐211)](https://github.com/kennytilton/cells) - an implementation of the dataflow programming paradigm, reactive spreadsheet-like expressiveness for CLOS. Used to build an [algebra learning system](http://tiltontec.com/). With [documentation (⭐19)](https://github.com/stefano/cells-doc/). Lisp LGPL.
 
 ### Job processing / Third-party APIs
 
-*   [clerk (⭐19)](https://github.com/tsikov/clerk) - a cron-like scheduler with sane DSL. [MIT](https://opensource.org/licenses/MIT).
+*   [clerk (⭐18)](https://github.com/tsikov/clerk) - a cron-like scheduler with sane DSL. [MIT](https://opensource.org/licenses/MIT).
 
 ---
 

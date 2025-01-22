@@ -10,7 +10,7 @@
 
 ### JavaScript / General-Purpose Machine Learning
 
-*   [ml.js (⭐2.5k)](https://github.com/mljs/ml) - Machine learning and numerical analysis tools for Node.js and the Browser!
+*   [ml.js (⭐2.6k)](https://github.com/mljs/ml) - Machine learning and numerical analysis tools for Node.js and the Browser!
 
 ## [2. Awesome Opensource Documents](/content/44bits/awesome-opensource-documents/week/README.md)
 
@@ -152,32 +152,32 @@
 ### Erlang VM / Elixir
 
 *   [Phoenix](http://www.phoenixframework.org/) - Framework for building HTML5 apps, API backends and distributed systems.
-*   [Plug (⭐2.8k)](https://github.com/elixir-lang/plug) - A specification and conveniences for composable modules between web applications.
+*   [Plug (⭐2.9k)](https://github.com/elixir-lang/plug) - A specification and conveniences for composable modules between web applications.
 
 ### Erlang VM / Erlang
 
-*   [Cowboy (⭐7.2k)](https://github.com/ninenines/cowboy) - Small, fast, modular HTTP server written in Erlang.
+*   [Cowboy (⭐7.3k)](https://github.com/ninenines/cowboy) - Small, fast, modular HTTP server written in Erlang.
 *   [Mochiweb (⭐1.9k)](https://github.com/mochi/mochiweb) - Erlang library for building lightweight HTTP servers.
 
 ### Go / Erlang
 
-*   [Go kit (⭐26k)](https://github.com/go-kit/kit) - Distributed programming toolkit for microservices in the modern enterprise.
+*   [Go kit (⭐27k)](https://github.com/go-kit/kit) - Distributed programming toolkit for microservices in the modern enterprise.
 
 ### Haskell / Erlang
 
 *   [Scotty (⭐1.7k)](https://github.com/scotty-web/scotty) - Micro web framework inspired by Ruby's Sinatra, using WAI and Warp.
-*   [Yesod (⭐2.6k)](https://github.com/yesodweb/yesod) - The Haskell RESTful web framework.
+*   [Yesod (⭐2.7k)](https://github.com/yesodweb/yesod) - The Haskell RESTful web framework.
 
 ### Java VM / Clojure
 
 *   [Compojure (⭐4.1k)](https://github.com/weavejester/compojure) - A concise routing library for Ring/Clojure.
 *   [Duct (⭐1.1k)](https://github.com/weavejester/duct) - Minimal framework for building web applications in Clojure, with a strong emphasis on simplicity.
-*   [System (⭐607)](https://github.com/danielsz/system) - Built on top of Stuart Sierra's component library, offers a set of readymade components.
-*   [Tesla (⭐190)](https://github.com/otto-de/tesla-microservice) - Common basis for some of Otto.de's Clojure microservices.
+*   [System (⭐608)](https://github.com/danielsz/system) - Built on top of Stuart Sierra's component library, offers a set of readymade components.
+*   [Tesla (⭐191)](https://github.com/otto-de/tesla-microservice) - Common basis for some of Otto.de's Clojure microservices.
 
 ### Java VM / Java
 
-*   [Airlift (⭐578)](https://github.com/airlift/airlift) - Framework for building REST services in Java.
+*   [Airlift (⭐594)](https://github.com/airlift/airlift) - Framework for building REST services in Java.
 *   [Dropwizard](https://dropwizard.github.io/) - Java framework for developing ops-friendly, high-performance, RESTful web services.
 *   [Spring Boot](http://projects.spring.io/spring-boot/) - Makes it easy to create stand-alone, production-grade Spring based applications.
 
@@ -194,11 +194,11 @@
 
 ### API Gateways / Edge Services / Scala
 
-*   [Zuul (⭐13k)](https://github.com/Netflix/zuul) - An edge service that provides dynamic routing, monitoring, resiliency, security, and more.
+*   [Zuul (⭐14k)](https://github.com/Netflix/zuul) - An edge service that provides dynamic routing, monitoring, resiliency, security, and more.
 
 ### Configuration & Discovery / Scala
 
-*   [Etcd (⭐47k)](https://github.com/coreos/etcd) - Highly-available key-value store for shared configuration and service discovery.
+*   [Etcd (⭐48k)](https://github.com/coreos/etcd) - Highly-available key-value store for shared configuration and service discovery.
 *   [Eureka (⭐12k)](https://github.com/Netflix/eureka/wiki/Eureka-at-a-glance) - REST based service that is primarily used in the AWS cloud for locating services for the purpose of load balancing and failover of middle-tier servers.
 *   [SkyDNS (⭐2.2k)](https://github.com/skynetservices/skydns) - Distributed service for announcement and discovery of services built on top of etcd. It utilizes DNS queries to discover available services.
 *   [Spring Cloud Config](http://cloud.spring.io/spring-cloud-config/) - Provides server and client-side support for externalized configuration in a distributed system.
@@ -206,27 +206,23 @@
 ### Elasticity / Scala
 
 *   [Mesos](https://mesos.apache.org/) - Abstracts CPU, memory, storage, and other compute resources away from machines (physical or virtual), enabling fault-tolerant and elastic distributed systems to easily be built and run effectively.
-*   [Redisson (⭐23k)](https://github.com/mrniko/redisson) - Distributed and scalable Java data structures on top of Redis server.
+*   [Redisson (⭐24k)](https://github.com/mrniko/redisson) - Distributed and scalable Java data structures on top of Redis server.
 
 ### Serialization / Scala
 
-*   [BooPickle (⭐366)](https://github.com/ochrons/boopickle) - Binary serialization library for efficient network communication. For Scala and Scala.js
+*   [BooPickle (⭐365)](https://github.com/ochrons/boopickle) - Binary serialization library for efficient network communication. For Scala and Scala.js
 *   [CBOR](http://cbor.io/) - Implementations of the CBOR standard (RFC 7049) in many languages.
 *   [Cereal](http://uscilab.github.io/cereal/) - C++11 library for serialization.
 *   [Cheshire (⭐1.5k)](https://github.com/dakrone/cheshire) - Clojure JSON and JSON SMILE encoding/decoding.
 *   [Etch](http://etch.apache.org/) - Cross-platform, language and transport-independent framework for building and consuming network services.
 *   [Fastjson (⭐26k)](https://github.com/alibaba/fastjson) - Fast JSON Processor.
 *   [Ffjson (⭐3k)](https://github.com/pquerna/ffjson) - Faster JSON serialization for Go.
-*   [Jackson (⭐9k)](https://github.com/FasterXML/jackson) -  A multi-purpose Java library for processing JSON data format.
+*   [Jackson (⭐9.2k)](https://github.com/FasterXML/jackson) -  A multi-purpose Java library for processing JSON data format.
 *   [Jackson Afterburner (⭐91)](https://github.com/FasterXML/jackson-module-afterburner) - Jackson module that uses bytecode generation to further speed up data binding (+30-40% throughput for serialization, deserialization).
-*   [Kryo (⭐6.1k)](https://github.com/EsotericSoftware/kryo) - Java serialization and cloning: fast, efficient, automatic.
+*   [Kryo (⭐6.2k)](https://github.com/EsotericSoftware/kryo) - Java serialization and cloning: fast, efficient, automatic.
 *   [MessagePack](http://msgpack.org/) - Efficient binary serialization format.
 *   [SBinary (⭐75)](https://github.com/harrah/sbinary) - Library for describing binary formats for Scala types.
 *   [Thrift](http://thrift.apache.org/) - The Apache Thrift software framework, for scalable cross-language services development.
-
-### Storage / Scala
-
-*   [Couchbase](http://www.couchbase.com/) - A distributed database engineered for performance, scalability, and simplified administration.
 
 ### Security / Scala
 
@@ -237,7 +233,7 @@
 
 ### Syntax
 
-*   [purrr (⭐1.2k)](https://github.com/hadley/purrr) - A FP package for R in the spirit of underscore.js.
+*   [purrr (⭐1.3k)](https://github.com/hadley/purrr) - A FP package for R in the spirit of underscore.js.
 
 ### Graphic Displays
 
@@ -247,7 +243,7 @@
 
 ## [9. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
-### Competitions
+### Competitions / Commerical Tools
 
 *   [AI Challenge](http://aichallenge.org)
 *   [AI Games](http://theaigames.com)
@@ -489,14 +485,14 @@
 
 ### Editors / Paid Books
 
-*   [Froala WYSIWYG HTML Editor (⭐5k)](https://github.com/froala/wysiwyg-editor) - jQuery WYSIWYG Rich Text Editor based on HTML5.
-*   [Hallo (⭐2.5k)](https://github.com/bergie/hallo) - Simple rich text editor (contentEditable) for jQuery UI.
+*   [Froala WYSIWYG HTML Editor (⭐5.3k)](https://github.com/froala/wysiwyg-editor) - jQuery WYSIWYG Rich Text Editor based on HTML5.
+*   [Hallo (⭐2.4k)](https://github.com/bergie/hallo) - Simple rich text editor (contentEditable) for jQuery UI.
 *   [jQuery Notebook (⭐1.7k)](https://github.com/raphaelcruzeiro/jquery-notebook) - A modern, simple and elegant WYSIWYG rich text editor.
 *   [jQuery TE](http://jqueryte.com/) - Lightweight HTML editor.
 
 ### Images, Maps and Charts / Paid Books
 
-*   [jQueryGantt (⭐2.1k)](https://github.com/robicch/jQueryGantt) - Gantt editor.
+*   [jQueryGantt (⭐2.2k)](https://github.com/robicch/jQueryGantt) - Gantt editor.
 
 ### Menus / Paid Books
 
@@ -515,7 +511,7 @@
 
 ### XML
 
-*   [sweet\_xml (⭐359)](https://github.com/awetzel/sweet_xml) - Query XML simply and effectively.
+*   [sweet\_xml (⭐363)](https://github.com/awetzel/sweet_xml) - Query XML simply and effectively.
 
 ## [26. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
@@ -525,7 +521,7 @@
 
 ### TypeScript / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [TypeScript Repository (GitHub) (⭐100k)](https://github.com/Microsoft/TypeScript) - Official GitHub Repo for TypeScript.
+*   [TypeScript Repository (GitHub) (⭐102k)](https://github.com/Microsoft/TypeScript) - Official GitHub Repo for TypeScript.
 
 ## [27. Rbooks](/content/RomanTsegelskyi/rbooks/week/README.md)
 
@@ -554,7 +550,7 @@ Drawing on his unsurpassed experience teaching new users, professional data scie
 
 ### Static Site Generators
 
-*   [Pretzel (⭐598)](https://github.com/Code52/pretzel) - A site generation tool (and then some) for .NET platforms
+*   [Pretzel (⭐595)](https://github.com/Code52/pretzel) - A site generation tool (and then some) for .NET platforms
 
 ## [29. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 

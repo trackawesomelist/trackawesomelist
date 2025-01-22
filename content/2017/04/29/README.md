@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 29, 2017
 
-7 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -28,13 +28,7 @@
 *   [Vulkan Cookbook](https://www.amazon.com/Vulkan-Cookbook-Pawel-Lapinski/dp/1786468158)- by **Pawel Lapinski** - Explores a wide range of graphics programming and GPU compute methods to make the best use of the Vulkan API.
     *   [Book's Examples (⭐800)](https://github.com/PacktPublishing/Vulkan-Cookbook)
 
-## [4. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
-
-### I18n
-
-*   [Translate plugin (⭐17)](https://github.com/dereuromark/cakephp-translate) - Manage translations of your static content the easy way via web backend, incl. import from POT files, auto-suggest and auto-translate via API.
-
-## [5. Awesome Mastodon](/content/tleb/awesome-mastodon/README.md)
+## [4. Awesome Mastodon](/content/tleb/awesome-mastodon/README.md)
 
 ### User styles
 
@@ -55,7 +49,7 @@
 
 *   [Mastodon.py (⭐472)](https://github.com/halcy/Mastodon.py) - Python wrapper for the Mastodon API.
 
-## [6. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
+## [5. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
 
 ### Drawing / Others
 
@@ -68,7 +62,7 @@
 
 *   [RANDOM.ORG](https://www.random.org/) - Random number generator, dice rolls, password generator, random bitmaps and more stuff based on the concept of randomness.
 
-## [7. Awesome Webgl](/content/sjfricke/awesome-webgl/README.md)
+## [6. Awesome Webgl](/content/sjfricke/awesome-webgl/README.md)
 
 ### Books
 

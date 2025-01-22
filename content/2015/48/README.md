@@ -14,7 +14,7 @@
 
 ## [2. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
-### Facebook Accounts / Book Deals (Affiliated) 🛍
+### Facebook Accounts / Book Deals (Affiliated)
 
 *   [Vademecum of Practical Data Science](https://www.facebook.com/datasciencevademecum)
 
@@ -48,25 +48,25 @@
 
 ### Git Tools
 
-*   [GitLink (⭐556)](https://github.com/GitTools/GitLink) - let's users step through their code hosted on GitHub or BitBucket
+*   [GitLink (⭐554)](https://github.com/GitTools/GitLink) - let's users step through their code hosted on GitHub or BitBucket
 
 ### HTML and CSS
 
-*   [AngleSharp (⭐5.1k)](https://github.com/AngleSharp/AngleSharp) - Complete HTML5 DOM and CSS3 OM construction
+*   [AngleSharp (⭐5.2k)](https://github.com/AngleSharp/AngleSharp) - Complete HTML5 DOM and CSS3 OM construction
 
 ### Logging
 
-*   [Elmah MVC (⭐266)](https://github.com/alexbeletsky/elmah-mvc) - Elmah for MVC
+*   [Elmah MVC (⭐264)](https://github.com/alexbeletsky/elmah-mvc) - Elmah for MVC
 
 ### Metrics
 
-*   [C# StatsD Client (⭐111)](https://github.com/Pereingo/statsd-csharp-client) - C# client for Etsy's StatsD
+*   [C# StatsD Client (⭐110)](https://github.com/Pereingo/statsd-csharp-client) - C# client for Etsy's StatsD
 
 ### Misc
 
-*   [CsvHelper (⭐4.7k)](https://github.com/JoshClose/CsvHelper) - Library to help reading and writing CSV files [https://github.com/JoshClose/CsvHelper (⭐4.7k)](https://github.com/JoshClose/CsvHelper)
-*   [Humanizer (⭐8.6k)](https://github.com/Humanizr/Humanizer) - Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities
-*   [Shielded (⭐238)](https://github.com/jbakic/Shielded) - Software Transactional Memory (STM) implementation for .NET
+*   [CsvHelper (⭐4.8k)](https://github.com/JoshClose/CsvHelper) - Library to help reading and writing CSV files [https://github.com/JoshClose/CsvHelper (⭐4.8k)](https://github.com/JoshClose/CsvHelper)
+*   [Humanizer (⭐8.7k)](https://github.com/Humanizr/Humanizer) - Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities
+*   [Shielded (⭐247)](https://github.com/jbakic/Shielded) - Software Transactional Memory (STM) implementation for .NET
 
 ### ORM
 
@@ -83,7 +83,7 @@
 ### WebSocket
 
 *   [SignalR (⭐9.2k)](https://github.com/SignalR/SignalR) - Library for ASP.NET developers that makes it incredibly simple to add real-time web functionality to your applications
-*   [SuperSocket (⭐3.9k)](https://github.com/kerryjiang/SuperSocket) - SuperSocket is a light weight extensible socket application framework
+*   [SuperSocket (⭐4k)](https://github.com/kerryjiang/SuperSocket) - SuperSocket is a light weight extensible socket application framework
 
 ## [8. Awesome Groovy](/content/kdabir/awesome-groovy/week/README.md)
 
@@ -212,7 +212,7 @@
 *   [Probabilistic Robotics (Intelligent Robotics and Autonomous Agents series)](http://www.amazon.com/Probabilistic-Robotics-Intelligent-Autonomous-Agents/dp/0262201623/)  :dollar:
 *   [Introduction to Autonomous Mobile Robots (Intelligent Robotics and Autonomous Agents series)](http://www.amazon.com/Introduction-Autonomous-Mobile-Intelligent-Robotics/dp/0262015358/)  :dollar:
 *   [Planning Algorithms](http://planning.cs.uiuc.edu/)
-*   [A Mathematical Introduction to Robotic Manipulation](http://www.cds.caltech.edu/\~murray/mlswiki/?title=First_edition)
+*   [A Mathematical Introduction to Robotic Manipulation](http://www.cds.caltech.edu/~murray/mlswiki/?title=First_edition)
 *   [Learning Computing With Robots](http://wiki.roboteducation.org/Introduction_to_Computer_Science_via_Robots)
 *   [Robotics, Vision and Control: Fundamental Algorithms in MATLAB (Springer Tracts in Advanced Robotics)](http://www.amazon.com/Robotics-Vision-Control-Fundamental-Algorithms/dp/3642201431)  :dollar:
 *   [INTECH Books](http://www.intechopen.com/subjects/robotics)
@@ -220,7 +220,7 @@
 ### Papers
 
 *   [Optimization Based Controller Design and Implementation for the
-    Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/\~cga/drc/ICHR15_0025_MS.pdf)
+    Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/drc/ICHR15_0025_MS.pdf)
 
 ### Competitions
 
@@ -233,10 +233,10 @@
 
 ### Related awesome lists
 
-*   [Awesome Artificial Intelligence (⭐7.1k)](https://github.com/owainlewis/awesome-artificial-intelligence)
-*   [Awesome Computer Vision (⭐17k)](https://github.com/jbhuang0604/awesome-computer-vision)
-*   [Awesome Machine Learning (⭐56k)](https://github.com/josephmisiti/awesome-machine-learning)
-*   [Awesome Deep Learning (⭐20k)](https://github.com/ChristosChristofidis/awesome-deep-learning)
+*   [Awesome Artificial Intelligence (⭐10k)](https://github.com/owainlewis/awesome-artificial-intelligence)
+*   [Awesome Computer Vision (⭐21k)](https://github.com/jbhuang0604/awesome-computer-vision)
+*   [Awesome Machine Learning (⭐65k)](https://github.com/josephmisiti/awesome-machine-learning)
+*   [Awesome Deep Learning (⭐24k)](https://github.com/ChristosChristofidis/awesome-deep-learning)
 
 ## [19. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
 
@@ -246,7 +246,7 @@
 
 ### Icons / Icons Packages and Collections
 
-*   [Maps Icon (⭐2.1k)](https://github.com/djaiss/mapsicon) - [:copyright: (⭐2.1k)](https://github.com/djaiss/mapsicon#license) Mapsicon is a free collection of maps for nearly every country in the world, available in 11 different sizes, ranging from 16x16 pixels to 1024x1024 pixels, as well as .svg format.
+*   [Maps Icon (⭐2.2k)](https://github.com/djaiss/mapsicon) - [:copyright: (⭐2.2k)](https://github.com/djaiss/mapsicon#license) Mapsicon is a free collection of maps for nearly every country in the world, available in 11 different sizes, ranging from 16x16 pixels to 1024x1024 pixels, as well as .svg format.
 
 ## [20. Awesome Codepoints](/content/Codepoints/awesome-codepoints/week/README.md)
 
@@ -307,7 +307,7 @@
 
 ### Python / Data Analysis / Data Visualization
 
-*   [ggfortify (⭐527)](https://github.com/sinhrks/ggfortify) - Unified interface to ggplot2 popular R packages.
+*   [ggfortify (⭐528)](https://github.com/sinhrks/ggfortify) - Unified interface to ggplot2 popular R packages.
 
 ## [27. Awesome Chess](/content/hkirat/awesome-chess/week/README.md)
 
@@ -361,7 +361,7 @@
 
 ### ORM and Datamapping
 
-*   [moebius (⭐598)](https://github.com/robconery/moebius) - A functional query tool for Elixir and PostgreSQL.
+*   [moebius (⭐603)](https://github.com/robconery/moebius) - A functional query tool for Elixir and PostgreSQL.
 
 ### Testing
 
@@ -393,7 +393,7 @@
 
 ### Key Value Store
 
-*   [Zephyr (⭐930)](https://github.com/ArtSabintsev/Zephyr) - Effortlessly synchronize NSUserDefaults over iCloud.
+*   [Zephyr (⭐939)](https://github.com/ArtSabintsev/Zephyr) - Effortlessly synchronize NSUserDefaults over iCloud.
 
 ## [31. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 

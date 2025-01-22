@@ -15,17 +15,13 @@
 
 ### Tools / Dynamic Analysis Tools
 
-*   [AndroPyTool (⭐334)](https://github.com/alexMyG/AndroPyTool) - a tool for extracting static and dynamic features from Android APKs. It combines different well-known Android app analysis tools such as DroidBox, FlowDroid, Strace, AndroGuard, or VirusTotal analysis.
-
-### Academic/Research/Publications/Books / Others
-
-*   [Android Reverse Engineering 101 by Daniele Altomare (Web Archive link)](http://web.archive.org/web/20180721134044/http://www.fasteque.com:80/android-reverse-engineering-101-part-1/)
+*   [AndroPyTool (⭐356)](https://github.com/alexMyG/AndroPyTool) - a tool for extracting static and dynamic features from Android APKs. It combines different well-known Android app analysis tools such as DroidBox, FlowDroid, Strace, AndroGuard, or VirusTotal analysis.
 
 ### Exploits/Vulnerabilities/Bugs / Malware
 
 *   [Kharon Malware Dataset](http://kharon.gforge.inria.fr/dataset/) - 7 malware which have been reverse-engineered and documented
 *   [Android Adware and General Malware Dataset](https://www.unb.ca/cic/datasets/android-adware.html)
-*   [AndroZoo](https://androzoo.uni.lu/) - AndroZoo is a growing collection of Android Applications collected from several sources, including the official Google Play app market.
+*   [AndroZoo](https://androzoo.uni.lu/) - AndroZoo is a growing Android application collection from several sources, including the official Google Play app market.
 *   ~~[Android PRAGuard Dataset](http://pralab.diee.unica.it/en/AndroidPRAGuardDataset) - The dataset contains 10479 samples, obtained by obfuscating the MalGenome and the Contagio Minidump datasets with seven different obfuscation techniques.~~
 
 ## [2. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
@@ -50,7 +46,7 @@
 
 ### Static Analysis / Testing
 
-*   [Display Inline Code Annotations for Jest Tests (⭐13)](https://github.com/IgnusG/jest-report-action)
+*   [Display Inline Code Annotations for Jest Tests (⭐16)](https://github.com/IgnusG/jest-report-action)
 
 ### Tutorials / Terraform
 

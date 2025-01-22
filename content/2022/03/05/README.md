@@ -54,7 +54,7 @@
 
 ### Web Frameworks
 
-*   [Huma (⭐1.8k)](https://github.com/danielgtaylor/huma/) - Framework for modern REST/GraphQL APIs with built-in OpenAPI 3, generated documentation, and a CLI.
+*   [Huma (⭐2.5k)](https://github.com/danielgtaylor/huma/) - Framework for modern REST/GraphQL APIs with built-in OpenAPI 3, generated documentation, and a CLI.
 
 ## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -73,7 +73,7 @@
 
 ### Libraries/Frameworks / Database
 
-*   [square/sqldelight (⭐6.1k)](https://github.com/square/sqldelight) - Generates Java models from CREATE TABLE statements.
+*   [square/sqldelight (⭐6.2k)](https://github.com/square/sqldelight) - Generates Java models from CREATE TABLE statements.
 
 ## [6. Awesome Security](/content/sbilly/awesome-security/README.md)
 

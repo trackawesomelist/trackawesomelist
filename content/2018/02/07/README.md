@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 07, 2018
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -46,7 +46,7 @@ Webpage: <https://edinburghhacklab.com/>
 
 ### Miscellaneous
 
-*   [Vert.x Boot (⭐44)](https://github.com/jponge/vertx-boot) - Deploying verticles from a HOCON configuration.
+*   [Vert.x Boot (⭐43)](https://github.com/jponge/vertx-boot) - Deploying verticles from a HOCON configuration.
 
 ## [6. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/README.md)
 
@@ -68,11 +68,11 @@ Webpage: <https://edinburghhacklab.com/>
 
 ### R / General-Purpose Machine Learning
 
-*   [CatBoost (⭐7.9k)](https://github.com/catboost/catboost) - General purpose gradient boosting on decision trees library with categorical features support out of the box for R.
+*   [CatBoost (⭐8.1k)](https://github.com/catboost/catboost) - General purpose gradient boosting on decision trees library with categorical features support out of the box for R.
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
-*   [Introduction to Machine Learning with Python (⭐7.3k)](https://github.com/amueller/introduction_to_ml_with_python) - Notebooks and code for the book "Introduction to Machine Learning with Python"
+*   [Introduction to Machine Learning with Python (⭐7.5k)](https://github.com/amueller/introduction_to_ml_with_python) - Notebooks and code for the book "Introduction to Machine Learning with Python"
 *   [Pydata book (⭐22k)](https://github.com/wesm/pydata-book) - Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney, published by O'Reilly Media
 
 ## [9. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
@@ -81,13 +81,7 @@ Webpage: <https://edinburghhacklab.com/>
 
 *   [@quinnypig](https://twitter.com/quinnypig)
 
-## [10. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / Utilities
-
-*   [vue-jsx-sync (⭐11)](https://github.com/njleonzhang/babel-plugin-vue-jsx-sync) - A Babel plugin that brings vue `sync modifier` to JSX.
-
-## [11. Awesome Maintainers](/content/nayafia/awesome-maintainers/README.md)
+## [10. Awesome Maintainers](/content/nayafia/awesome-maintainers/README.md)
 
 *   [@danvet](https://github.com/danvet), [Linux drm-intel](https://cgit.freedesktop.org/drm-intel)
     *   "Maintainers Don't Scale" ([video](https://www.youtube.com/watch?v=KJ9Y0midtW4), [slides](http://blog.ffwll.ch/slides/lca-2017.pdf), [post](http://blog.ffwll.ch/2017/01/maintainers-dont-scale.html))

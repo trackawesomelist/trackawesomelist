@@ -32,7 +32,7 @@
 
 ### Tools & Software / WARC I/O Libraries
 
-*   [FastWARC (⭐42)](https://github.com/chatnoir-eu/chatnoir-resiliparse) - A high-performance WARC parsing library (Python).
+*   [FastWARC (⭐95)](https://github.com/chatnoir-eu/chatnoir-resiliparse) - A high-performance WARC parsing library (Python).
 
 ## [4. Awesome Design Systems](/content/klaufel/awesome-design-systems/README.md)
 
@@ -50,33 +50,29 @@
 
 ### Software / G-code
 
-*   [node-gcode (⭐32)](https://github.com/ryansturmer/node-gcode) - Node.js G-code interpreter and simulator.
+*   [node-gcode (⭐34)](https://github.com/ryansturmer/node-gcode) - Node.js G-code interpreter and simulator.
 *   [svg2gcode (⭐54)](https://github.com/em/svg2gcode) - Node.js command line utility for converting SVG to G-code.
-*   [svg2gcode (⭐90)](https://github.com/vishpat/svg2gcode) - Python utility for fast SVG to G-code conversion.
+*   [svg2gcode (⭐93)](https://github.com/vishpat/svg2gcode) - Python utility for fast SVG to G-code conversion.
 *   [jscut](http://jscut.org/) - A web-based utility for converting SVG to G-code.
-*   [gcodeplot (⭐164)](https://github.com/arpruss/gcodeplot) - Python utility to convert SVG and HPGL to G-code for a 3-axis CNC machine.
+*   [gcodeplot (⭐170)](https://github.com/arpruss/gcodeplot) - Python utility to convert SVG and HPGL to G-code for a 3-axis CNC machine.
 
-## [7. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
-
-### Visual Analytics
-
-*   [AnyChart](https://www.anychart.com/buy/non-commercial-license/) \[FREE] - A flexible JavaScript library for creating interactive charts, maps, and dashboards for visual analytics. Provides students with a free license for use in their education or other non-commercial projects.
-
-## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Utilities
 
 *   [vue-use-paginator (⭐18)](https://github.com/Sun0fABeach/vue-use-paginator) - Vue 3 use-hook to reactively paginate data and arrange paginator buttons. Completely renderless.
 
-### Components & Libraries / Utilities
+## [8. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
 
-*   [localize-vue-3x (⭐0)](https://github.com/uiwebkit/localize-vue-3x) - Uni Localization Vue 3 integration example. Customizable Language Menu widget built with Web Components.
+### Visual Analytics
+
+*   [AnyChart](https://www.anychart.com/buy/non-commercial-license/) \[FREE] - A flexible JavaScript library for creating interactive charts, maps, and dashboards for visual analytics. Provides students with a free license for use in their education or other non-commercial projects.
 
 ## [9. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
 
 ### Tools - Editors & IDEs & Explorers / React
 
-*   [CraftQL (⭐108)](https://github.com/yamafaktory/craftql) - A CLI tool to visualize GraphQL schemas and to output a graph data structure as a graphviz .dot format.
+*   [CraftQL (⭐109)](https://github.com/yamafaktory/craftql) - A CLI tool to visualize GraphQL schemas and to output a graph data structure as a graphviz .dot format.
 
 ## [10. Awesome Preact](/content/preactjs/awesome-preact/README.md)
 
@@ -121,13 +117,13 @@
 
 ### Libraries / Image processing
 
-*   [rust-cv/cv (⭐808)](https://github.com/rust-cv/cv) - Implement computer vision algorithms, abstractions, and systems. `#[no_std]` is supported where possible. ![build badge](https://github.com/rust-cv/cv/workflows/tests/badge.svg)
+*   [rust-cv/cv (⭐879)](https://github.com/rust-cv/cv) - Implement computer vision algorithms, abstractions, and systems. `#[no_std]` is supported where possible. ![build badge](https://github.com/rust-cv/cv/workflows/tests/badge.svg)
 
 ## [15. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
 ### Utils / Other Tools
 
-*   [FastAPI Events (⭐410)](https://github.com/melvinkcx/fastapi-events) - Asynchronous event dispatching/handling library for FastAPI and Starlette.
+*   [FastAPI Events (⭐458)](https://github.com/melvinkcx/fastapi-events) - Asynchronous event dispatching/handling library for FastAPI and Starlette.
 
 ---
 

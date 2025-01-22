@@ -85,7 +85,6 @@
 
 ### Resources / Community
 
-*   [Twitter](https://twitter.com/vuejs)
 *   [Official Forum](http://forum.vuejs.org/)
 
 ### Resources / Official Examples

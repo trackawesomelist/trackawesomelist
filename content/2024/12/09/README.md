@@ -16,7 +16,7 @@
 
 ### Tools / Dynamic Analysis Tools
 
-*   [friTap (⭐292)](https://github.com/fkie-cad/friTap)- - Intercept SSL/TLS connections with Frida; Allows TLS key extraction and decryption of TLS payload as PCAP on Android in real-time.
+*   [friTap (⭐309)](https://github.com/fkie-cad/friTap)- - Intercept SSL/TLS connections with Frida; Allows TLS key extraction and decryption of TLS payload as PCAP on Android in real-time.
 
 ### Exploits/Vulnerabilities/Bugs / Malware
 
@@ -50,7 +50,7 @@
 
 ### Applications / Database
 
-*   [Hiqlite (⭐51)](https://github.com/sebadob/hiqlite) - highly-available, embeddable, raft-based SQLite + cache
+*   [Hiqlite (⭐75)](https://github.com/sebadob/hiqlite) - highly-available, embeddable, raft-based SQLite + cache
 
 ## [7. Awesome Design Systems](/content/alexpate/awesome-design-systems/README.md)
 
@@ -73,7 +73,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐248)](https://github.com/GouvernementFR/dsfr)
+  Source code \*: [:octocat: (⭐254)](https://github.com/GouvernementFR/dsfr)
 
 
 - : [Just Eat Takeaway.com PIE Design System](https://pie.design/)
@@ -130,12 +130,12 @@
 
 ### Third-Party Packages / Admin Themes
 
-*   [django-daisy (⭐68)](https://github.com/hypy13/django-daisy) - A modern django dashboard fully responsive built with daisyui.
+*   [django-daisy (⭐134)](https://github.com/hypy13/django-daisy) - A modern django dashboard fully responsive built with daisyui.
 *   [django-admin-dracula (⭐51)](https://github.com/sjbitcode/django-admin-dracula) - 🦇 Dracula themes for the Django admin.
 
 ### Third-Party Packages / Performance
 
-*   [django-zeal (⭐112)](https://github.com/taobojlen/django-zeal) - Detect N+1 queries with user-friendly error messages
+*   [django-zeal (⭐122)](https://github.com/taobojlen/django-zeal) - Detect N+1 queries with user-friendly error messages
 
 ### Third-Party Packages / Templates
 
@@ -145,7 +145,7 @@
 
 ### Large Language Models (LLMs)
 
-*   [mendableai/firecrawl (⭐19k)](https://github.com/mendableai/firecrawl): Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
+*   [mendableai/firecrawl (⭐22k)](https://github.com/mendableai/firecrawl): Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
 
 ## [12. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
@@ -181,4 +181,5 @@
 
 ---
 
+- Prev: [Dec 10, 2024](/content/2024/12/10/README.md)
 - Next: [Dec 08, 2024](/content/2024/12/08/README.md)

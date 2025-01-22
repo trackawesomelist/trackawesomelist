@@ -30,14 +30,14 @@
 
 ### Python / Financial Instruments and Pricing
 
-*   [willowtree (⭐237)](https://github.com/federicomariamassari/willowtree) - Robust and flexible Python implementation of the willow tree lattice for derivatives pricing.
-*   [financial-engineering (⭐360)](https://github.com/federicomariamassari/financial-engineering) - Applications of Monte Carlo methods to financial engineering projects, in Python.
-*   [optlib (⭐636)](https://github.com/dbrojas/optlib) - A library for financial options pricing written in Python.
+*   [willowtree (⭐241)](https://github.com/federicomariamassari/willowtree) - Robust and flexible Python implementation of the willow tree lattice for derivatives pricing.
+*   [financial-engineering (⭐377)](https://github.com/federicomariamassari/financial-engineering) - Applications of Monte Carlo methods to financial engineering projects, in Python.
+*   [optlib (⭐667)](https://github.com/dbrojas/optlib) - A library for financial options pricing written in Python.
 
 ### Reproducing Works, Training & Books / Data Visualization
 
-*   [FinanceHub (⭐606)](https://github.com/Finance-Hub/FinanceHub) - Resources for Quantitative Finance
-*   [Python\_Option\_Pricing (⭐614)](https://github.com/dedwards25/Python_Option_Pricing) - An library to price financial options written in Python. Includes: Black Scholes, Black 76, Implied Volatility, American, European, Asian, Spread Options.
+*   [FinanceHub (⭐696)](https://github.com/Finance-Hub/FinanceHub) - Resources for Quantitative Finance
+*   [Python\_Option\_Pricing (⭐692)](https://github.com/dedwards25/Python_Option_Pricing) - An library to price financial options written in Python. Includes: Black Scholes, Black 76, Implied Volatility, American, European, Asian, Spread Options.
 
 ## [4. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
@@ -76,7 +76,7 @@ git branch -vv | grep ': gone]' | awk '{print <!-- @doxie.inject start -->}' | x
 
 ### API / Runner
 
-*   [React Query (⭐41k)](https://github.com/tannerlinsley/react-query) - Hooks for fetching, caching and updating asynchronous data in React.
+*   [React Query (⭐42k)](https://github.com/tannerlinsley/react-query) - Hooks for fetching, caching and updating asynchronous data in React.
 
 ## [10. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 

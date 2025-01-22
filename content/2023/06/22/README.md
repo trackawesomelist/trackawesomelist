@@ -10,21 +10,21 @@
 
 ### Caches
 
-*   [gocache (⭐6)](https://github.com/yuseferi/gocache) - A data race free Go ache library with high performance and auto pruge functionality
+*   [gocache (⭐9)](https://github.com/yuseferi/gocache) - A data race free Go ache library with high performance and auto pruge functionality
 
 ### Logging
 
-*   [zax (⭐20)](https://github.com/yuseferi/zax) - Integrate Context with Zap logger, which leads to more flexibility in Go logging.
+*   [zax (⭐26)](https://github.com/yuseferi/zax) - Integrate Context with Zap logger, which leads to more flexibility in Go logging.
 
 ### Utilities
 
-*   [gofn (⭐33)](https://github.com/tiendc/gofn) - High performance utility functions written using Generics for Go 1.18+.
+*   [gofn (⭐52)](https://github.com/tiendc/gofn) - High performance utility functions written using Generics for Go 1.18+.
 
 ## [2. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications
 
-*   [mdBook (⭐17k)](https://github.com/rust-lang/mdBook) - A command line utility to create books from markdown files [![Build Status](https://github.com/rust-lang/mdBook/workflows/CI/badge.svg?branch=master)](https://github.com/rust-lang/mdBook/actions)
+*   [mdBook (⭐19k)](https://github.com/rust-lang/mdBook) - A command line utility to create books from markdown files [![Build Status](https://github.com/rust-lang/mdBook/workflows/CI/badge.svg?branch=master)](https://github.com/rust-lang/mdBook/actions)
 
 ## [3. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
@@ -36,7 +36,7 @@
 
 ### Gaming
 
-*   [Game Engine Development (⭐846)](https://github.com/stevinz/awesome-game-engine-dev#readme) - Building software to speed up game creation.
+*   [Game Engine Development (⭐975)](https://github.com/stevinz/awesome-game-engine-dev#readme) - Building software to speed up game creation.
 
 ## [5. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
 
@@ -52,10 +52,6 @@
 
 *   [DeepSource](https://education.github.com/pack) \[FREE] - Static code analyzer for Python and Go. Detect bug risks, anti-patterns and security vulnerabilities. Free for students.
 
-### Web Hosting
-
-*   [Education Host](https://education.github.com/pack) \[FREE] - 50% web hosting for the first year for students. Available via [Github Student Developer Pack](https://education.github.com/pack).
-
 ### Design and Photo Editing
 
 *   [Sketch](https://www.sketch.com/education/) \[FREE] - Get Sketch for free as a student or educator.
@@ -63,49 +59,27 @@
 ### SaaS
 
 *   [Blockchair](https://education.github.com/pack) \[FREE] - Connect to the world of blockchains through Blockchair’s professional APIs — supports most major cryptocurrencies.100,000 free requests.
-*   [Customerly](https://education.github.com/pack) \[FREE] - Live chat, behavioural funnels, newsletters, and in-app surveys for SaaS.Customerly Pro free for 6 months.
 
 ### Email
 
 *   [Mailgun](https://education.github.com/pack) \[FREE] - Powerful APIs that enable you to send, receive and track email effortlessly.20,000 free emails and 100 free email validations each month for up to 12 months, available via [Github Student Developer Pack](https://education.github.com/pack).
 
-### CI / CD
-
-*   [StyleCI](https://blog.styleci.io/introducing-the-student-plan/) \[FREE / CREDIT] - Free Student Plan with access to StyleCI for up to five private repositories.
-
-### Management Systems
-
-*   [LingoHub](https://education.github.com/pack) \[FREE] - Translation management service for web, desktop and mobile apps.Free Professional Plan containing 10,000 text segments for students.
-*   [MongoDB](https://education.github.com/pack) \[FREE] - A general purpose, document-based, distributed database built for modern application developers and for the cloud era.$200 in MongoDB Atlas Credits, plus access to MongoDB Compass and MongoDB University including free certification.
-
 ### Localization
 
-*   [Crowdin](https://education.github.com/pack)\[FREE] - Crowdin is a cloud-based solution that streamlines localization management.Bronze plan for 1 year available via [Github Student Developer Pack](https://education.github.com/pack).
 *   [POEditor](https://education.github.com/pack) \[FREE] - POEditor is a highly scalable localization management platform for teams.Plus Plan for free for one year.
 
 ### Programming Help
 
 *   [Covalence](https://education.github.com/pack)\[FREE] - Join an exclusive developer community and learn Full Stack web-development with no long-term commitments.One free month of Covalence's Atomic Plan and two 1-on-1 mentoring sessions via [Github Student Developer Pack](https://education.github.com/pack).
-*   [Jaamly](https://education.github.com/pack) \[FREE] - Helping developers, designers, and startups to launch their apps on the App Store.Jaamly Startup plan free for 6 months.
 
 ### Security
 
 *   [LambdaTest](https://education.github.com/pack) \[FREE] - Perform automated and live interactive cross browser testing on 2000+ real browsers and operating systems online.Free LambdaTest Live Plan for one year.
-*   [SOFY](https://education.github.com/pack) \[FREE] - SOFY automates your software testing, uses machine learning to create tests, suggests test scenarios based on product changes, customer usage data and runs at scale.6 months of free website and mobile app testing.
 
 ### Visual Analytics
 
-*   [Scrapinghub](https://education.github.com/pack) \[FREE] - Scrapinghub's Scrapy Cloud is a battle-tested cloud platform for running web crawlers. Manage and automate your web spiders at scale.1 Free Forever Scrapy Cloud Unit - unlimited team members, projects or requests. Unlimited crawl time and 120 day data retention.
-*   [Typeform](https://education.github.com/pack) \[FREE] - Interactive forms, surveys & quizzes to engage and grow your audience.Free professional plan for 1 year.
-*   [Baremetrics](https://education.github.com/pack) \[FREE] - Metrics, dunning, and engagement tools for SaaS & subscription businesses.Get Baremetrics for free up to $2.5k Monthly Recurring Revenue while you are a student.
 *   [CodeScene](https://education.github.com/pack) \[FREE] - A powerful visualization tool that uses Predictive Analytics to identify social patterns in your code, detect delivery risks and manage technical debt.A free Student account to analyze private GitHub repositories.
 *   [DailyBot](https://education.github.com/pack) \[FREE] - Automate daily stand-ups, follow-ups, retrospectives, surveys and feedback for your team.DailyBot Business plan free for 1 year.
-*   [Freshpaint](https://education.github.com/pack) \[FREE] - Integrate your marketing and analytics tools with one click.Free Freshpaint Growth Plan while you are a student.
-*   [Raygun](https://education.github.com/pack) \[FREE] - Error, crash and performance monitoring for web and mobile apps. Startup Platform plan, free for one year.
-
-### Game Development Tools
-
-*   [Unity3D](https://education.github.com/pack) \[FREE] -Accomplish your creative goals using the world’s leading real-time development platform, used to create half of the world’s games.Unity Student Plan free while you are a student.
 
 ### Infrastructure Monitoring
 
@@ -127,13 +101,13 @@
 
 ### Libraries/Frameworks / Testing
 
-*   [Kotlin/kotlinx-benchmark (⭐497)](https://github.com/Kotlin/kotlinx-benchmark) - A powerful library for benchmarking in Kotlin.
+*   [Kotlin/kotlinx-benchmark (⭐525)](https://github.com/Kotlin/kotlinx-benchmark) - A powerful library for benchmarking in Kotlin.
 
 ## [9. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### Large Language Models (LLMs)
 
-*   [SolidUI (⭐558)](https://github.com/CloudOrc/SolidUI): AI-generated visualization prototyping and editing platform, support 2D, 3D models, combined with LLM(Large Language Model) for quick editing.
+*   [SolidUI (⭐584)](https://github.com/CloudOrc/SolidUI): AI-generated visualization prototyping and editing platform, support 2D, 3D models, combined with LLM(Large Language Model) for quick editing.
 
 ## [10. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
@@ -146,8 +120,8 @@
 
 ### LLMs
 
-*   [PIXIU (⭐427)](https://github.com/chancefocus/PIXIU) - An open-source resource providing a financial large language model, a dataset with 136K instruction samples, and a comprehensive evaluation benchmark.
-*   [FinGPT (⭐12k)](https://github.com/AI4Finance-Foundation/FinGPT) - Provides a playground for all people interested in LLMs and NLP in Finance.
+*   [PIXIU (⭐571)](https://github.com/chancefocus/PIXIU) - An open-source resource providing a financial large language model, a dataset with 136K instruction samples, and a comprehensive evaluation benchmark.
+*   [FinGPT (⭐14k)](https://github.com/AI4Finance-Foundation/FinGPT) - Provides a playground for all people interested in LLMs and NLP in Finance.
 
 ## [12. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
@@ -167,11 +141,11 @@
 
 ### Security / Testing
 
-*   [Flask-Argon2 (⭐20)](https://github.com/red-coracle/flask-argon2) - Provides argon2 hashing utilities.
+*   [Flask-Argon2 (⭐19)](https://github.com/red-coracle/flask-argon2) - Provides argon2 hashing utilities.
 
 ### Utils / Testing
 
-*   [Flask-Injector (⭐265)](https://github.com/python-injector/flask_injector) - Adds support for dependency injection.
+*   [Flask-Injector (⭐280)](https://github.com/python-injector/flask_injector) - Adds support for dependency injection.
 *   [Flask-SSE](https://flask-sse.readthedocs.io) - Streaming with flask.
 
 ### External Resources / Testing
@@ -188,7 +162,7 @@
 
 ### Boilerplates / Testing
 
-*   [flask-htmx-boilerplate (⭐29)](https://github.com/marcusschiesser/flask-htmx-boilerplate) - Boilerplate template for a Python Flask application with HTMX and Tailwind CSS.
+*   [flask-htmx-boilerplate (⭐35)](https://github.com/marcusschiesser/flask-htmx-boilerplate) - Boilerplate template for a Python Flask application with HTMX and Tailwind CSS.
 
 ---
 

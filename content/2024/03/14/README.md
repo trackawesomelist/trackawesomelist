@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 14, 2024
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -18,61 +18,55 @@
 
 *   [andy5995/zigdeck (⭐3)](https://github.com/andy5995/zigdeck) - A library that creates and shuffles a deck of cards from which you can draw.
 
-## [3. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
-
-### Applications / Database
-
-*   [FnckSQL (⭐519)](https://github.com/KipData/FnckSQL) - SQL as a Function for Rust
-
-## [4. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
+## [3. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
 
 ### Examples
 
-*   [Owloops/updo (⭐179)](https://github.com/owloops/updo#readme) - Well-structured, visually appealing, and provides comprehensive information about the tool, from its purpose and features to installation and usage, in a clear and user-friendly manner.
+*   [Owloops/updo (⭐226)](https://github.com/owloops/updo#readme) - Well-structured, visually appealing, and provides comprehensive information about the tool, from its purpose and features to installation and usage, in a clear and user-friendly manner.
 
-## [5. Awesome Digital History](/content/maehr/awesome-digital-history/README.md)
+## [4. Awesome Digital History](/content/maehr/awesome-digital-history/README.md)
 
 ### Archives and primary sources / Switzerland
 
 *   [Sources Online](https://sources-online.org/index.html) - A platform for digital scholarly text editions, integrating TEI Publisher and IIIF in Switzerland.
 
-## [6. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+## [5. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Form Logic / Mouse Events
 
 *   [hook-form-react (⭐3)](https://github.com/luoanb/hook-form-react) - [docs](https://luoanb.github.io/hook-form-react) - A lightweight, dependency-free solution React hooks for form validation.
 
-## [7. Awesome Ai4lam](/content/AI4LAM/awesome-ai4lam/README.md)
+## [6. Awesome Ai4lam](/content/AI4LAM/awesome-ai4lam/README.md)
 
 ### Learning Resources / Introductions to AI
 
 *   [Codecademy AI Courses](https://www.codecademy.com/catalog/subject/artificial-intelligence) – many topics; some lessons are free, some are for-fee
 
-## [8. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/README.md)
+## [7. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/README.md)
 
 ### Related Awesome Lists / Deep Learning
 
-*   [Awesome Workflow Automation (⭐249)](https://github.com/dariubs/awesome-workflow-automation) - Curated List of Workflow Automation Apps And Tools
+*   [Awesome Workflow Automation (⭐308)](https://github.com/dariubs/awesome-workflow-automation) - Curated List of Workflow Automation Apps And Tools
 
-## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Generative AI
 
 *   [ReportGPT](https://report-gpt.io) - AI Powered Writing Assistant. The entire platform is free as long as you bring your own API key.
 
-## [10. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
+## [9. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
 
 ### Plotter Art For Sale / Patents
 
 *   [Adam Fuhrer](https://adamfuhrer.bigcartel.com)
 
-## [11. awsm.fish](/content/jorgebucaran/awsm.fish/README.md)
+## [10. awsm.fish](/content/jorgebucaran/awsm.fish/README.md)
 
 ### Prompts
 
 *   [Pure (⭐1.2k)](https://github.com/pure-fish/pure/) - [*That*](https://github.com/sindresorhus/pure) ZSH prompt, now in Fish flavor
 
-## [12. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
+## [11. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
 ### Multiple languages / [Other](#other-1)
 

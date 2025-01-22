@@ -10,11 +10,11 @@
 
 ### Templates / Vue 3
 
-*   [antd-vue3-admin (⭐22)](https://github.com/Zuojiangtao/antd-vue3-admin) - A starter template based on Vue3, Vite4, TS5 and Ant-Design-Vue4.
+*   [antd-vue3-admin (⭐23)](https://github.com/Zuojiangtao/antd-vue3-admin) - A starter template based on Vue3, Vite4, TS5 and Ant-Design-Vue4.
 
 ### Frameworks / Community
 
-*   [vite-plugin-vercel (⭐93)](https://github.com/magne4000/vite-plugin-vercel) - Vercel adapter.
+*   [vite-plugin-vercel (⭐107)](https://github.com/magne4000/vite-plugin-vercel) - Vercel adapter.
 
 ## [2. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -33,23 +33,23 @@
 
 ### React Component Libraries
 
-*   [shadcn-ui (⭐55k)](https://github.com/shadcn-ui/ui) - Beautifully designed components built using Radix UI and Tailwind CSS
+*   [shadcn-ui (⭐76k)](https://github.com/shadcn-ui/ui) - Beautifully designed components built using Radix UI and Tailwind CSS
 
 ### React Awesome Components
 
-*   [puck (⭐4.1k)](https://github.com/measuredco/puck) - The visual editor for React
+*   [puck (⭐5.3k)](https://github.com/measuredco/puck) - The visual editor for React
 
 ## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Dependency Management / Diagnostics
 
-*   [piersolenski/telescope-import.nvim (⭐168)](https://github.com/piersolenski/telescope-import.nvim) - Import modules faster based on what you've already imported in your project.
+*   [piersolenski/telescope-import.nvim (⭐200)](https://github.com/piersolenski/telescope-import.nvim) - Import modules faster based on what you've already imported in your project.
 
 ## [6. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Files and Directories / Directory Listing
 
-*   [eza (⭐7.2k)](https://github.com/eza-community/eza) - Improved version of `ls`.
+*   [eza (⭐12k)](https://github.com/eza-community/eza) - Improved version of `ls`.
 
 ## [7. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
 

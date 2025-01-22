@@ -573,6 +573,7 @@ A curated list of awesome qubes os links
 ### Kernels / Microkernels
 
 *   [seL4](https://sel4.systems/) - seL4 is a high-assurance, high-performance operating system microkernel.
+    *   [makatea](https://trustworthy.systems/projects/TS/makatea) - Qubes OS like operating system but with seL4.
 
 ### Kernels / Unikernels
 

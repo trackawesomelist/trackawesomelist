@@ -39,7 +39,7 @@
 
 ### Packages / Debugging / Profiling
 
-*   [0x (⭐3.2k)](https://github.com/davidmarkclements/0x) - Flamegraph profiling.
+*   [0x (⭐3.3k)](https://github.com/davidmarkclements/0x) - Flamegraph profiling.
 
 ## [5. Awesome Music](/content/ciconia/awesome-music/README.md)
 
@@ -82,8 +82,8 @@
 
 ### Framework Components
 
-*   [scrivener\_headers (⭐51)](https://github.com/doomspork/scrivener_headers) - Helpers for paginating API responses with Scrivener and HTTP headers.
-*   [scrivener\_html (⭐124)](https://github.com/mgwidmann/scrivener_html) - Helpers built to work with Scrivener's page struct to easily build HTML output for various CSS frameworks.
+*   [scrivener\_headers (⭐52)](https://github.com/doomspork/scrivener_headers) - Helpers for paginating API responses with Scrivener and HTTP headers.
+*   [scrivener\_html (⭐125)](https://github.com/mgwidmann/scrivener_html) - Helpers built to work with Scrivener's page struct to easily build HTML output for various CSS frameworks.
 
 ### Reading
 

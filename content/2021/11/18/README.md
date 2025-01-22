@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 18, 2021
 
-14 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -28,7 +28,7 @@
 
 ### Security
 
-- API: [Application Environment Verification (⭐79)](https://github.com/fingerprintjs/aev)
+- API: [Application Environment Verification (⭐82)](https://github.com/fingerprintjs/aev)
 
   Description: Android library and API to verify the safety of user devices, detect rooted devices and other risks
 
@@ -44,7 +44,7 @@
 
 ### Generic ZSH
 
-*   [ZSH Unplugged (⭐355)](https://github.com/mattmc3/zsh_unplugged) - Good resource if you want to eliminate using a framework but still easily use plugins.
+*   [ZSH Unplugged (⭐400)](https://github.com/mattmc3/zsh_unplugged) - Good resource if you want to eliminate using a framework but still easily use plugins.
 
 ## [6. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
 
@@ -56,22 +56,16 @@
 
 ### eBPF Workflow: Tools and Utilities / oxidebpf
 
-*   [oxidebpf (⭐114)](https://github.com/redcanaryco/oxidebpf) - A pure Rust library for managing eBPF programs, designed for security use cases. The featureset is more limited than other libraries but emphasizes stability across a wide range of kernels and backwards-compatible compile-once-run-most-places.
+*   [oxidebpf (⭐116)](https://github.com/redcanaryco/oxidebpf) - A pure Rust library for managing eBPF programs, designed for security use cases. The featureset is more limited than other libraries but emphasizes stability across a wide range of kernels and backwards-compatible compile-once-run-most-places.
 
-## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / UI Components
-
-*   [vue3-flip-countdown (⭐90)](https://github.com/coskuncayemre/vue3-flip-countdown) Customize Countdown timer with Flip Animation for Vue 3.x
-
-## [9. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [8. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Abduction / Explanation
 
-*   [Abductive Cognition: The Epistemological and Eco-Cognitive Dimensions of Hypothetical Reasoning](https://link.springer.com/book/10.1007%2F978-3-642-03631-6) - ***Springer***, 2009. \[[All Versions](https://scholar.google.com/scholar?cluster=8707351442527595188\&hl=en\&as_sdt=0,5)].
-*   [The Role of Explanatory Considerations in Updating](https://www.sciencedirect.com/science/article/pii/S0010027715000955) - ***Cognition***, 2015. \[[All Versions](https://scholar.google.com/scholar?cluster=3089358487428261042\&hl=en\&as_sdt=0,5)].
+*   [Abductive Cognition: The Epistemological and Eco-Cognitive Dimensions of Hypothetical Reasoning](https://link.springer.com/book/10.1007%2F978-3-642-03631-6) - ***Springer***, 2009. \[[All Versions](https://scholar.google.com/scholar?cluster=8707351442527595188)]. Most philosophers of science in the twentieth century have concluded that no logic of creative processes exists and, moreover, that a rational model of discovery is impossible. In short, scientific creative inferences are irrational and there is no “reasoning” to hypotheses. On the other hand, some research in the area of artificial intelligence has shown that methods for discovery could be found that are computationally adequate for rediscovering --- or discovering for the first time --- empirical or theoretical laws and theorems.
+*   [The Role of Explanatory Considerations in Updating](https://www.sciencedirect.com/science/article/pii/S0010027715000955) - ***Cognition***, 2015. \[[All Versions](https://scholar.google.com/scholar?cluster=3089358487428261042)]. This paper investigates experimentally controversy in philosophy about the connection between explanation and inference, of whether judgments of the explanatory goodness of hypotheses do play a role when people revise their degrees of belief in those hypotheses upon the receipt of new evidence.
 *   [Use of current explanations in multicausal abductive reasoning](https://onlinelibrary.wiley.com/doi/abs/10.1207/s15516709cog2506_2) - ***Cognitive Science***, 2001. \[[All Versions](https://scholar.google.com/scholar?cluster=7816050625957759346\&hl=en\&as_sdt=2005\&sciodt=0,5)].
-*   [Kinematic mental simulations in abduction and deduction](https://www.pnas.org/content/110/42/16766.short) - ***Proceedings of the National Academy of Sciences***, 2013. \[[All Versions](https://scholar.google.com/scholar?cluster=11864820390497230588\&hl=en\&as_sdt=0,5)].
+*   [Kinematic mental simulations in abduction and deduction](https://www.pnas.org/content/110/42/16766.short) - ***Proceedings of the National Academy of Sciences***, 2013. \[[All Versions](https://scholar.google.com/scholar?cluster=11864820390497230588)]. This paper presents a theory, and its computer implementation, of how mental simulations underlie the abductions of informal algorithms and deductions from these algorithms. Three experiments tested the theory’s predictions, using an environment of a single railway track and a siding. The results corroborated the use of a kinematic mental model in creating and testing informal algorithms and showed that individuals differ reliably in the ability to carry out these tasks.
 *   [Abduction: A categorical characterization](https://www.sciencedirect.com/science/article/pii/S1570868314000895) - ***Journal of Applied Logic***, 2015. \[[All Versions](https://scholar.google.com/scholar?cluster=17834260152484836885\&hl=en\&as_sdt=2005\&sciodt=0,5)].
 *   [Defending Abduction](https://www.journals.uchicago.edu/doi/abs/10.1086/392744) - ***Philosophy of Science***, 1999. \[[All Versions](https://scholar.google.com/scholar?cluster=13895790050138832555\&hl=en\&as_sdt=0,5)].
 *   [Abduction − the context of discovery + underdetermination = inference to the best explanation](https://link.springer.com/article/10.1007/s11229-019-02337-z) - ***Synthese***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=4261649938116694095\&hl=en\&as_sdt=0,5)].
@@ -83,13 +77,12 @@
 
 ### Abduction / Scientific Discovery
 
-*   [Exploring science: The cognition and development of discovery processes](https://psycnet.apa.org/record/2000-03968-000) - ***MIT Press***, 2000. \[[All Versions](https://scholar.google.com/scholar?cluster=13091264356550286420\&hl=en\&as_sdt=2005\&sciodt=0,5)].
+*   [Exploring science: The cognition and development of discovery processes](https://psycnet.apa.org/record/2000-03968-000) - ***MIT Press***, 2000. \[[All Versions](https://scholar.google.com/scholar?cluster=13091264356550286420)]. In this book, D. Klahr sets out to describe the cognitive and developmental processes that have enabled scientists to make the discoveries that comprise the body of information we call "scientific knowledge." Over the past decade, Klahr and his colleagues have conducted laboratory experiments in which they create discovery contexts, computer-based environments, to evoke the kind of thinking characteristic of scientific discovery in the "real world." In attempting to solve the problems posed by the discovery tasks, experiment participants (from preschoolers to university students) use many of the same higher-order cognitive processes used by practicing scientists. Through his work, Klahr integrates two disparate approaches–the content-based approach and the process-based approach– to present a comprehensive model of the psychology of scientific discovery.
 *   [Hypothesis generation, sparse categories, and the positive test strategy](https://psycnet.apa.org/record/2010-22980-001) - ***Psychological Review***, 2011. \[[All Versions](https://scholar.google.com/scholar?cluster=4329636480235863472\&hl=en\&as_sdt=2005\&sciodt=0,5)].
 
 ### Abduction / Applications in AI
 
-*   [Abductive Inference in Bayesian Networks: A Review](https://link.springer.com/chapter/10.1007/978-3-540-39879-0_6) - ***Advances in Bayesian Networks***, 2004. \[[All Versions](https://scholar.google.com/scholar?cluster=8502276402734843212\&hl=en\&as_sdt=0,5)].
-*   [Bayesian Abductive Logic Programs: A Probabilistic Logic for Abductive Reasoning](https://www.cs.utexas.edu/~ml/papers/raghavan.starai10.pdf) - ***IJCAI'11***, 2011. \[[All Versions](https://scholar.google.com/scholar?cluster=4453424083730209198\&hl=en\&as_sdt=0,5)].
+*   [Abductive Inference in Bayesian Networks: A Review](https://link.springer.com/chapter/10.1007/978-3-540-39879-0_6) - ***Advances in Bayesian Networks***, 2004. \[[All Versions](https://scholar.google.com/scholar?cluster=8502276402734843212)]. The goal of this paper is to serve as a survey for the problem of abductive inference (or belief revision) in Bayesian networks. Thus, the problem is introduced in its two variants: total abduction (or MPE) and partial abduction (or MAP) . Also, the problem is formulated in its general case, that is, looking for the K best explanations. Then, a (non exhaustive) review of exact and approximate algorithms for dealing with both abductive inference problems is carried out. Finally, the authors collect the main complexity results appeared in the literature for both problems (MPE and MAP).
 *   [Abductive Plan Recognition by Extending Bayesian Logic Programs](https://www.cs.utexas.edu/~ml/papers/raghavan.ecml11.pdf) - ***ECML'11***, 2011. \[[All Versions](https://scholar.google.com/scholar?cluster=7276511797197017483\&hl=en\&as_sdt=0,5)].
 *   [An Approach to Abductive Reasoning in Equational Logic](https://www.aaai.org/ocs/index.php/IJCAI/IJCAI13/paper/view/6624/6619) - ***IJCAI'13***, 2013. \[[All Versions](https://scholar.google.com/scholar?cluster=686895264429811190\&hl=en\&as_sdt=0,5)].
 *   [Abduction-Based Explanations for Machine Learning Models](https://ojs.aaai.org//index.php/AAAI/article/view/3964) - ***AAAI'19***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=7355960657107994022\&hl=en\&as_sdt=0,5)].
@@ -123,7 +116,7 @@
 
 ### Domain Specific Language / Declarative DSL Applications
 
-*   [A Language for Counterfactual Generative Models](http://proceedings.mlr.press/v139/tavares21a.html) - ***ICML'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=2067748786482591497)]. \[[Project (⭐162)](https://github.com/zenna/Omega.jl)]. This paper presents Omega, a probabilistic programming language with support for counterfactual inference. This feature is accomplished by introducing a new operator to probabilistic programming akin to Pearl’s do.
+*   [A Language for Counterfactual Generative Models](http://proceedings.mlr.press/v139/tavares21a.html) - ***ICML'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=2067748786482591497)]. \[[Project (⭐164)](https://github.com/zenna/Omega.jl)]. This paper presents Omega, a probabilistic programming language with support for counterfactual inference. This feature is accomplished by introducing a new operator to probabilistic programming akin to Pearl’s do.
 
 ### Problem Solving / Human-Level Problem Solving
 
@@ -221,11 +214,10 @@
 ### Theory of Mind / AI Assisted Research
 
 *   [The Signature of All Things: Children Infer Knowledge States from Static Images](https://psyarxiv.com/f692k/) - ***CogSci'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=12380982112592086477\&hl=en\&as_sdt=0,5\&as_ylo=2017)].
-*   [Rational quantitative attribution of beliefs, desires and percepts in human mentalizing](https://www.nature.com/articles/s41562-017-0064) - ***Nature Human Behavior***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=9377509910551057835\&hl=en\&as_sdt=0,5)].
-*   [Machine theory of mind](http://proceedings.mlr.press/v80/rabinowitz18a/rabinowitz18a.pdf) - ***ICML'18***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=6267278380616425333\&hl=en\&as_sdt=0,5)].
-*   [Theory of mind as inverse reinforcement learning](https://www.sciencedirect.com/science/article/pii/S2352154618302055?via%3Dihub) - ***Current Opinion in Behavioral Sciences***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=14959443239271810913\&hl=en\&as_sdt=0,5)].
-*   [Computational Models of Emotion Inference in Theory of Mind: A Review and Roadmap](https://onlinelibrary.wiley.com/doi/full/10.1111/tops.12371) - ***Topics in Cognitive Science***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=15919410726494658168\&hl=en\&as_sdt=0,5)].
-*   [The Naïve Utility Calculus as a unified, quantitative framework for action understanding](https://www.sciencedirect.com/science/article/pii/S0010028520300633) - ***Cognitive Psychology***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=10366690800692546587\&hl=en\&as_sdt=0,5)]. \[[Project](http://www.github.com/julianje/bishop)].
+*   [Rational quantitative attribution of beliefs, desires and percepts in human mentalizing](https://www.nature.com/articles/s41562-017-0064) - ***Nature Human Behavior***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=9377509910551057835)]. \[[Preprint](https://cbmm.mit.edu/sites/default/files/publications/article.pdf)]. This paper presents a model of core mentalizing computations: inferring jointly an actor’s beliefs, desires and percepts from how they move in the local spatial environment. The proposed Bayesian theory of mind (BToM) model is based on probabilistically inverting artificial-intelligence approaches to rational planning and state estimation, which extend classical expected-utility agent models to sequential actions in complex, partially observable domains.
+*   [Theory of mind as inverse reinforcement learning](https://www.sciencedirect.com/science/article/pii/S2352154618302055?via%3Dihub) - ***Current Opinion in Behavioral Sciences***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=14959443239271810913)]. This paper reviews the idea that Theory of Mind --- humans' ability to reason about other people's mental states --- can be formalized as inverse reinforcement learning. Under this framework, expectations about how mental states produce behavior are captured in a reinforcement learning (RL) model. Predicting other people’s actions is achieved by simulating a RL model with the hypothesized beliefs and desires, while mental-state inference is achieved by inverting this model. Although many advances in inverse reinforcement learning (IRL) did not have human Theory of Mind in mind, this paper focuses on what they reveal when conceptualized as cognitive theories.
+*   [Computational Models of Emotion Inference in Theory of Mind: A Review and Roadmap](https://onlinelibrary.wiley.com/doi/full/10.1111/tops.12371) - ***Topics in Cognitive Science***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=15919410726494658168)]. This paper proposes an intuitive theory framework to studying affective cognition—how humans reason about emotions—and derive a taxonomy of inferences within affective cognition. Using this taxonomy, the authors review formal computational modeling work on such inferences, including causal reasoning about how others react to events, reasoning about unseen causes of emotions, reasoning with multiple cues, as well as reasoning from emotions to other mental states. This framework proposes unifying these various types of reasoning as Bayesian inference within a common “intuitive Theory of Emotion.”
+*   [The Naïve Utility Calculus as a unified, quantitative framework for action understanding](https://www.sciencedirect.com/science/article/pii/S0010028520300633) - ***Cognitive Psychology***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=10366690800692546587)]. \[[Project](http://www.github.com/julianje/bishop)]. This paper presents a formal theory of the Naïve Utility Calculus as a probabilistic generative model, which highlights the role of cost and reward tradeoffs in a Bayesian framework for action-understanding. The model predicts with quantitative accuracy how people infer agents’ subjective costs and rewards based on their observable actions. By distinguishing between desires, goals, and intentions, the model extends to complex action scenarios unfolding over space and time in scenes with multiple objects and multiple action episodes.
 *   [Leveraging Facial Expressions and Contextual Information to Investigate Opaque Representations of Emotion](https://psycnet.apa.org/fulltext/2019-58384-001.pdf?auth_token=0859666184839448b848053cd7bdceb2bdf2745a) - ***Emotion***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=9634378462684744548\&hl=en\&as_sdt=0,5)].
 *   [Waiting and weighting: Information sampling is a balance between efficiency and error-reduction](https://linkinghub.elsevier.com/retrieve/pii/S0010027712002235) - ***Cognition***, 2013. \[[All Versions](https://scholar.google.com/scholar?cluster=12787722822882067638\&hl=en\&as_sdt=0,5)].
 *   [Natural scene statistics account for the representation of scene categories in human visual cortex](https://www.sciencedirect.com/science/article/pii/S0896627313005503?via%3Dihub) - ***Neuron***, 2013. \[[All Versions](https://scholar.google.com/scholar?cluster=14030885492052338412\&hl=en\&as_sdt=0,5)].
@@ -324,7 +316,6 @@
 *   [Exploratory play, rational action, and efficient search](https://psyarxiv.com/9yra2/) - ***CogSci'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=17529638197045429028\&hl=en\&as_sdt=0,5)].
 *   [Children selectively endorse speculative conjectures](https://srcd.onlinelibrary.wiley.com/doi/full/10.1111/cdev.13647?saml_referrer) - ***Child Development***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=5672344544260882286\&hl=en\&as_sdt=2005\&sciodt=0,5)].
 *   [Learning higher-order generalizations through free play: Evidence from 2- and 3-year-old children](https://psycnet.apa.org/buy/2017-12497-003) - ***Developmental Psychology***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=4386474921214936914\&hl=en\&as_sdt=0,5)].
-*   [The Child as Hacker](https://www.sciencedirect.com/science/article/abs/pii/S1364661320301741) - ***Trends in Cognitive Sciences***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=13128656954836679743\&hl=en\&as_sdt=2005\&sciodt=0,5\&as_ylo=2017)].
 *   [Childhood as a solution to explore–exploit tensions](https://royalsocietypublishing.org/doi/10.1098/rstb.2019.0502) - ***Philosophical Transactions of the Royal Society B: Biological Sciences***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=11960188575664977017\&hl=en\&as_sdt=2005\&sciodt=0,5)].
 *   [Children's exploratory play tracks the discriminability of hypotheses](https://www.nature.com/articles/s41467-021-23431-2) - ***Nature Communications***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=12389351553206792907\&hl=en\&as_sdt=0,5\&as_ylo=2020)].
 *   [A Developmental Perspective on Executive Function](https://srcd.onlinelibrary.wiley.com/doi/full/10.1111/j.1467-8624.2010.01499.x?saml_referrer) - ***Child Development***, 2010. \[[All Versions](https://scholar.google.com/scholar?cluster=11347590808138984649\&hl=en\&as_sdt=0,5)].
@@ -412,19 +403,19 @@
 
 *   [Thinking, fast and slow](https://hk1lib.org/book/2181569/f5e85a?id=2181569\&secret=f5e85a) - ***Farrar Straus Giroux***, 2011. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=3255681708785115121)].
 
-## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Web Hosting
 
 *   [Alwaysdata](https://www.alwaysdata.com/) — 100 MB free web hosting with support for MySQL, PostgreSQL, CouchDB, MongoDB, PHP, Python, Ruby, Node.js, Elixir, Java, Deno, custom web servers, access via FTP, WebDAV and SSH; mailbox, mailing list and app installer included.
 
-## [11. Awesome Code Review](/content/joho/awesome-code-review/README.md)
+## [10. Awesome Code Review](/content/joho/awesome-code-review/README.md)
 
 ### Articles
 
 *   [Modern Code Reviews](https://rethought.se/research/modern-code-reviews/) Arguably belongs in academic paper, but it's a website giving an overview of evidence on code review by facet/context. Links off to a bunch of papers.
 
-## [12. Awesome Ci](/content/ligurio/awesome-ci/README.md)
+## [11. Awesome Ci](/content/ligurio/awesome-ci/README.md)
 
 - Name: [Woodpecker](https://woodpecker.laszlo.cloud/)
 
@@ -442,83 +433,83 @@
 
 
 
-## [13. Awesome Capacitor](/content/riderx/awesome-capacitor/README.md)
+## [12. Awesome Capacitor](/content/riderx/awesome-capacitor/README.md)
 
 ### Official plugins
 
-*   [Action Sheet (⭐493)](https://github.com/ionic-team/capacitor-plugins/tree/main/action-sheet) - Provides access to native Action Sheets.
-*   [App Launcher (⭐493)](https://github.com/ionic-team/capacitor-plugins/tree/main/app-launcher) - Allows to check if an app can be opened and open it.
-*   [Browser (⭐493)](https://github.com/ionic-team/capacitor-plugins/tree/main/browser) - Provides the ability to open an in-app browser and subscribe to browser events.
-*   [Camera (⭐493)](https://github.com/ionic-team/capacitor-plugins/tree/main/camera) - Provides the ability to take a photo with the camera or choose an existing one from the photo album.
-*   [Clipboard (⭐493)](https://github.com/ionic-team/capacitor-plugins/tree/main/clipboard) - Enables copy and pasting to/from the system clipboard.
-*   [Dialog (⭐493)](https://github.com/ionic-team/capacitor-plugins/tree/main/dialog) - Provides methods for triggering native dialog windows for alerts, confirmations, and input prompts.
-*   [Geolocation (⭐493)](https://github.com/ionic-team/capacitor-plugins/tree/main/geolocation) - Provides simple methods for getting and tracking the current position of the device using GPS, along with altitude, heading, and speed information if available.
-*   [Haptics (⭐493)](https://github.com/ionic-team/capacitor-plugins/tree/main/haptics) - Provides physical feedback to the user through touch or vibration.
-*   [Keyboard (⭐493)](https://github.com/ionic-team/capacitor-plugins/tree/main/keyboard) - Provides keyboard display and visibility control, along with event tracking when the keyboard shows and hides.
-*   [Local Notifications (⭐493)](https://github.com/ionic-team/capacitor-plugins/tree/main/local-notifications) - Provides a way to schedule device notifications locally (i.e. without a server sending push notifications).
-*   [Motion (⭐493)](https://github.com/ionic-team/capacitor-plugins/tree/main/motion) - Tracks accelerometer and device orientation (compass heading, etc.).
-*   [Network (⭐493)](https://github.com/ionic-team/capacitor-plugins/tree/main/network) - Provides network and connectivity information.
-*   [Push Notifications (⭐493)](https://github.com/ionic-team/capacitor-plugins/tree/main/push-notifications) - Provides access to native push notifications.
-*   [Share (⭐493)](https://github.com/ionic-team/capacitor-plugins/tree/main/share) - Provides methods for sharing content in any sharing-enabled apps the user may have installed.
-*   [Splash Screen (⭐493)](https://github.com/ionic-team/capacitor-plugins/tree/main/splash-screen) - Provides methods for showing or hiding a Splash image.
-*   [Status Bar (⭐493)](https://github.com/ionic-team/capacitor-plugins/tree/main/status-bar) - Provides methods for configuring the style of the Status Bar, along with showing or hiding it.
-*   [Text Zoom (⭐493)](https://github.com/ionic-team/capacitor-plugins/tree/main/text-zoom) - Provides the ability to change Web View text size for visual accessibility.
+*   [Action Sheet (⭐546)](https://github.com/ionic-team/capacitor-plugins/tree/main/action-sheet) - Provides access to native Action Sheets.
+*   [App Launcher (⭐546)](https://github.com/ionic-team/capacitor-plugins/tree/main/app-launcher) - Allows to check if an app can be opened and open it.
+*   [Browser (⭐546)](https://github.com/ionic-team/capacitor-plugins/tree/main/browser) - Provides the ability to open an in-app browser and subscribe to browser events.
+*   [Camera (⭐546)](https://github.com/ionic-team/capacitor-plugins/tree/main/camera) - Provides the ability to take a photo with the camera or choose an existing one from the photo album.
+*   [Clipboard (⭐546)](https://github.com/ionic-team/capacitor-plugins/tree/main/clipboard) - Enables copy and pasting to/from the system clipboard.
+*   [Dialog (⭐546)](https://github.com/ionic-team/capacitor-plugins/tree/main/dialog) - Provides methods for triggering native dialog windows for alerts, confirmations, and input prompts.
+*   [Geolocation (⭐546)](https://github.com/ionic-team/capacitor-plugins/tree/main/geolocation) - Provides simple methods for getting and tracking the current position of the device using GPS, along with altitude, heading, and speed information if available.
+*   [Haptics (⭐546)](https://github.com/ionic-team/capacitor-plugins/tree/main/haptics) - Provides physical feedback to the user through touch or vibration.
+*   [Keyboard (⭐546)](https://github.com/ionic-team/capacitor-plugins/tree/main/keyboard) - Provides keyboard display and visibility control, along with event tracking when the keyboard shows and hides.
+*   [Local Notifications (⭐546)](https://github.com/ionic-team/capacitor-plugins/tree/main/local-notifications) - Provides a way to schedule device notifications locally (i.e. without a server sending push notifications).
+*   [Motion (⭐546)](https://github.com/ionic-team/capacitor-plugins/tree/main/motion) - Tracks accelerometer and device orientation (compass heading, etc.).
+*   [Network (⭐546)](https://github.com/ionic-team/capacitor-plugins/tree/main/network) - Provides network and connectivity information.
+*   [Push Notifications (⭐546)](https://github.com/ionic-team/capacitor-plugins/tree/main/push-notifications) - Provides access to native push notifications.
+*   [Share (⭐546)](https://github.com/ionic-team/capacitor-plugins/tree/main/share) - Provides methods for sharing content in any sharing-enabled apps the user may have installed.
+*   [Splash Screen (⭐546)](https://github.com/ionic-team/capacitor-plugins/tree/main/splash-screen) - Provides methods for showing or hiding a Splash image.
+*   [Status Bar (⭐546)](https://github.com/ionic-team/capacitor-plugins/tree/main/status-bar) - Provides methods for configuring the style of the Status Bar, along with showing or hiding it.
+*   [Text Zoom (⭐546)](https://github.com/ionic-team/capacitor-plugins/tree/main/text-zoom) - Provides the ability to change Web View text size for visual accessibility.
 
 ### Community plugins
 
-*   [Admob (⭐209)](https://github.com/capacitor-community/admob) - A native plugin for AdMob.
-*   [Apple sign in (⭐139)](https://github.com/capacitor-community/apple-sign-in) - Capacitor Sign in with Apple.
-*   [Background geolocation (⭐182)](https://github.com/capacitor-community/background-geolocation) - Receive geolocation updates even while app is backgrounded.
-*   [Barcode scanner (⭐435)](https://github.com/capacitor-community/barcode-scanner) - A fast and efficient QR / barcode scanner for Capacitor.
-*   [Bluetooth-le (⭐269)](https://github.com/capacitor-community/bluetooth-le) - Bluetooth Low Energy.
-*   [Camera preview (⭐184)](https://github.com/capacitor-community/camera-preview) - Camera preview.
-*   [Googlemaps (⭐152)](https://github.com/capacitor-community/capacitor-googlemaps-native) - Plugin using native Maps API for Android and iOS.
-*   [Contacts (⭐116)](https://github.com/capacitor-community/contacts) - Contacts Plugin for Capacitor.
-*   [Date picker (⭐84)](https://github.com/capacitor-community/date-picker) - Native DateTime Picker Plugin for Capacitor Apps.
-*   [Facebook Login (⭐101)](https://github.com/capacitor-community/facebook-login) - A native plugin for Facebook Login.
-*   [Flipper (⭐10)](https://github.com/capacitor-community/flipper) - A native plugin for flipper debugger.
-*   [Http (⭐209)](https://github.com/capacitor-community/http) - A native HTTP plugin for CORS-free requests and file transfers.
-*   [Intercom (⭐57)](https://github.com/capacitor-community/intercom) - Enable Intercom features for Capacitor apps.
-*   [Media (⭐100)](https://github.com/capacitor-community/media) - Enable some media features for Capacitor such as create albums, save videos, gifs and more.
-*   [Native audio (⭐104)](https://github.com/capacitor-community/native-audio) - A native plugin for native audio engine.
-*   [Native market (⭐26)](https://github.com/capacitor-community/native-market) - A native market plugin for linking to google play or app store.
-*   [React hooks (⭐244)](https://github.com/capacitor-community/react-hooks) - React Hooks for Capacitor apps.
+*   [Admob (⭐232)](https://github.com/capacitor-community/admob) - A native plugin for AdMob.
+*   [Apple sign in (⭐148)](https://github.com/capacitor-community/apple-sign-in) - Capacitor Sign in with Apple.
+*   [Background geolocation (⭐200)](https://github.com/capacitor-community/background-geolocation) - Receive geolocation updates even while app is backgrounded.
+*   [Barcode scanner (⭐440)](https://github.com/capacitor-community/barcode-scanner) - A fast and efficient QR / barcode scanner for Capacitor.
+*   [Bluetooth-le (⭐302)](https://github.com/capacitor-community/bluetooth-le) - Bluetooth Low Energy.
+*   [Camera preview (⭐196)](https://github.com/capacitor-community/camera-preview) - Camera preview.
+*   [Googlemaps (⭐155)](https://github.com/capacitor-community/capacitor-googlemaps-native) - Plugin using native Maps API for Android and iOS.
+*   [Contacts (⭐125)](https://github.com/capacitor-community/contacts) - Contacts Plugin for Capacitor.
+*   [Date picker (⭐89)](https://github.com/capacitor-community/date-picker) - Native DateTime Picker Plugin for Capacitor Apps.
+*   [Facebook Login (⭐107)](https://github.com/capacitor-community/facebook-login) - A native plugin for Facebook Login.
+*   [Flipper (⭐11)](https://github.com/capacitor-community/flipper) - A native plugin for flipper debugger.
+*   [Http (⭐210)](https://github.com/capacitor-community/http) - A native HTTP plugin for CORS-free requests and file transfers.
+*   [Intercom (⭐62)](https://github.com/capacitor-community/intercom) - Enable Intercom features for Capacitor apps.
+*   [Media (⭐112)](https://github.com/capacitor-community/media) - Enable some media features for Capacitor such as create albums, save videos, gifs and more.
+*   [Native audio (⭐122)](https://github.com/capacitor-community/native-audio) - A native plugin for native audio engine.
+*   [Native market (⭐27)](https://github.com/capacitor-community/native-market) - A native market plugin for linking to google play or app store.
+*   [React hooks (⭐252)](https://github.com/capacitor-community/react-hooks) - React Hooks for Capacitor apps.
 *   [Realm (⭐25)](https://github.com/capacitor-community/realm) - A native plugin for MongoDB Realm.
-*   [Speech recognition (⭐86)](https://github.com/capacitor-community/speech-recognition) - A native plugin for speech recognition.
-*   [Sqlite (⭐470)](https://github.com/capacitor-community/sqlite) - Native & electron SQLite databases.
-*   [Stripe (⭐189)](https://github.com/capacitor-community/stripe) - Stripe SDK bindings for Capacitor Applications.
-*   [Tauri (⭐108)](https://github.com/capacitor-community/tauri) - Support for the Tauri platform.
-*   [Text to speech (⭐93)](https://github.com/capacitor-community/text-to-speech) - Synthesizing speech from text.
+*   [Speech recognition (⭐97)](https://github.com/capacitor-community/speech-recognition) - A native plugin for speech recognition.
+*   [Sqlite (⭐526)](https://github.com/capacitor-community/sqlite) - Native & electron SQLite databases.
+*   [Stripe (⭐199)](https://github.com/capacitor-community/stripe) - Stripe SDK bindings for Capacitor Applications.
+*   [Tauri (⭐118)](https://github.com/capacitor-community/tauri) - Support for the Tauri platform.
+*   [Text to speech (⭐102)](https://github.com/capacitor-community/text-to-speech) - Synthesizing speech from text.
 *   [Twitter (⭐11)](https://github.com/capacitor-community/twitter) - Enable TwitterKit features for Capacitor.
 *   [Uxcam (⭐5)](https://github.com/capacitor-community/uxcam) - UXCam and FullStory analytics. It uses UXCam for Android and iOS platforms and FullStory for Web/PWA.
 
 ### Other plugins
 
-*   [App Tracking Transparency (⭐31)](https://github.com/mahnuh/capacitor-plugin-app-tracking-transparency) - Request user authorization to access app-related data for tracking the user or the device. iOS only.
-*   [Brother Print (⭐8)](https://github.com/rdlabo-team/capacitor-brotherprint) - A native Brother Print SDK implementation for iOS & Android.
-*   [Biometric (⭐175)](https://github.com/epicshaggy/capacitor-native-biometric) - Use biometrics confirm device owner presence or authenticate users.
+*   [App Tracking Transparency (⭐33)](https://github.com/mahnuh/capacitor-plugin-app-tracking-transparency) - Request user authorization to access app-related data for tracking the user or the device. iOS only.
+*   [Brother Print (⭐13)](https://github.com/rdlabo-team/capacitor-brotherprint) - A native Brother Print SDK implementation for iOS & Android.
+*   [Biometric (⭐189)](https://github.com/epicshaggy/capacitor-native-biometric) - Use biometrics confirm device owner presence or authenticate users.
 *   [Dark mode (⭐1)](https://github.com/micahlt/ionicCapacitorDarkMode) - Monitor the changes made to system's dark mode.
-*   [Email composer (⭐21)](https://github.com/EinfachHans/capacitor-email-composer) - Open a native E-Mail Composer within your Capacitor App.
+*   [Email composer (⭐22)](https://github.com/EinfachHans/capacitor-email-composer) - Open a native E-Mail Composer within your Capacitor App.
 *   [Facebook Analytics (⭐5)](https://github.com/SpellChucker/capacitor-plugin-facebook-analytics) - Facebook Analytics Plugin for Capacitor.
 *   [File selector (⭐14)](https://github.com/hinddeep/capacitor-file-selector) - Select files form Android/iOS devices and the web.
-*   [Jitsi (⭐84)](https://github.com/calvinckho/capacitor-jitsi-meet) - Make video calls through the free, open-sourced Jitsi video platform.
+*   [Jitsi (⭐85)](https://github.com/calvinckho/capacitor-jitsi-meet) - Make video calls through the free, open-sourced Jitsi video platform.
 *   [Lightsensor (⭐3)](https://github.com/Elvincth/capacitor-plugin-lightsensor) - Get the illuminance level on the device.
-*   [Native settings (⭐88)](https://github.com/RaphaelWoude/capacitor-native-settings) - Open native settings screens.
+*   [Native settings (⭐98)](https://github.com/RaphaelWoude/capacitor-native-settings) - Open native settings screens.
 *   NativeScript
-    *   [NativeScript Capacitor (⭐36)](https://github.com/NativeScript/capacitor) - Empower Capacitor with native APIs.
-    *   [Augmented Reality (⭐119)](https://github.com/EddyVerbruggen/nativescript-ar) - Add AR experiences.
-*   [Navigation bar (⭐54)](https://github.com/hugotomazi/navigation-bar) - Navigation Bar manipulation, hide/show.
-*   [Rate app (⭐146)](https://github.com/Nodonisko/capacitor-rate-app) - Let users rate your app using native rate app dialog for both Android and iOS.
-*   [Read sms (⭐0)](https://github.com/Ayush-Rajniwal/cap-read-sms) - Read the user's SMS with their permission.
+    *   [NativeScript Capacitor (⭐39)](https://github.com/NativeScript/capacitor) - Empower Capacitor with native APIs.
+    *   [Augmented Reality (⭐118)](https://github.com/EddyVerbruggen/nativescript-ar) - Add AR experiences.
+*   [Navigation bar (⭐64)](https://github.com/hugotomazi/navigation-bar) - Navigation Bar manipulation, hide/show.
+*   [Rate app (⭐173)](https://github.com/Nodonisko/capacitor-rate-app) - Let users rate your app using native rate app dialog for both Android and iOS.
+*   [Read sms (⭐1)](https://github.com/Ayush-Rajniwal/cap-read-sms) - Read the user's SMS with their permission.
 *   [Screenshot (⭐15)](https://github.com/ludufre/capacitor-screenshot) - Take a screenshot of the current view.
-*   [Send intent (⭐11)](https://github.com/tavosansal/capacitor-plugin-send-intent) - Expose a listener in your JavaScript application for when another application sends data to your Capacitor application via the Android share menu or share sheet.
-*   [Sentry (⭐116)](https://github.com/getsentry/sentry-capacitor) - Add Sentry error tracking and performance monitoring for Capacitor apps.
-*   [Stripe terminal (⭐28)](https://github.com/eventOneHQ/capacitor-stripe-terminal) - Stripe Terminal Plugin for Capacitor.
+*   [Send intent (⭐12)](https://github.com/tavosansal/capacitor-plugin-send-intent) - Expose a listener in your JavaScript application for when another application sends data to your Capacitor application via the Android share menu or share sheet.
+*   [Sentry (⭐121)](https://github.com/getsentry/sentry-capacitor) - Add Sentry error tracking and performance monitoring for Capacitor apps.
+*   [Stripe terminal (⭐29)](https://github.com/eventOneHQ/capacitor-stripe-terminal) - Stripe Terminal Plugin for Capacitor.
 *   [Sprig (⭐0)](https://github.com/crabbydavis/sprig) - All-in-one  product research platform.
 *   [Square Payments (⭐2)](https://github.com/jbrown0824/capacitor-square-payments) - Enable Square Payments for Capacitor.
-*   [Sumup (⭐3)](https://github.com/rbedemann/capacitor-sumup-plugin) - SumUp Mobile SDK.
+*   [Sumup (⭐4)](https://github.com/rbedemann/capacitor-sumup-plugin) - SumUp Mobile SDK.
 
-## [14. Awesome Lidar](/content/szenergy/awesome-lidar/README.md)
+## [13. Awesome Lidar](/content/szenergy/awesome-lidar/README.md)
 
 ### Datasets
 

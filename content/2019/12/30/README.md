@@ -10,7 +10,7 @@
 
 ### Table of Contents / IoT
 
-*   [Apache StreamPipes (⭐583)](https://github.com/apache/incubator-streampipes) \[Java] - a self-service (Industrial) IoT toolbox to enable non-technical users to connect, analyze and explore IoT data streams.
+*   [Apache StreamPipes (⭐617)](https://github.com/apache/incubator-streampipes) \[Java] - a self-service (Industrial) IoT toolbox to enable non-technical users to connect, analyze and explore IoT data streams.
 
 ## [2. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 
@@ -22,7 +22,7 @@
 
 ### Elixir/Erlang / Data Visualization
 
-*   [Tai (⭐454)](https://github.com/fremantle-capital/tai) - Open Source composable, real time, market data and trade execution toolkit.
+*   [Tai (⭐469)](https://github.com/fremantle-capital/tai) - Open Source composable, real time, market data and trade execution toolkit.
 
 ## [4. Awesome Cross Platform Nodejs](/content/bcoe/awesome-cross-platform-nodejs/README.md)
 
@@ -53,11 +53,11 @@
 
 ### Debugging
 
-*   🍰 [Setup plugin (⭐34)](https://github.com/dereuromark/cakephp-setup) - A lightweight setup plugin containing debugging and maintenance tools.
+*   [Setup plugin (⭐34)](https://github.com/dereuromark/cakephp-setup) - A lightweight setup plugin containing debugging and maintenance tools.
 
 ### ORM / Database / Datamapping
 
-*   🍰 [CakeDecimal plugin (⭐8)](https://github.com/dereuromark/cakephp-decimal) - A value object approach on handling decimals.
+*   [CakeDecimal plugin (⭐8)](https://github.com/dereuromark/cakephp-decimal) - A value object approach on handling decimals.
 
 ## [7. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
@@ -76,12 +76,12 @@
 ### Tooling / Frameworks
 
 *   [cargo-web (⭐1.1k)](https://github.com/koute/cargo-web) - A Cargo subcommand for the client-side Web.
-*   [wabt (⭐6.4k)](https://github.com/WebAssembly/wabt) - The WebAssembly Binary Toolkit, for the `wasm-strip` and `wasm-objdump` tools to reduce .wasm file size.
-*   [binaryen (⭐7.1k)](https://github.com/WebAssembly/binaryen) - Compiler infrastructure and toolchain library for WebAssembly, for the `wasm-opt` tool to reduce .wasm file size.
+*   [wabt (⭐7k)](https://github.com/WebAssembly/wabt) - The WebAssembly Binary Toolkit, for the `wasm-strip` and `wasm-objdump` tools to reduce .wasm file size.
+*   [binaryen (⭐7.6k)](https://github.com/WebAssembly/binaryen) - Compiler infrastructure and toolchain library for WebAssembly, for the `wasm-opt` tool to reduce .wasm file size.
 
 ### Alternatives / Frameworks
 
-*   [Percy (⭐2.2k)](https://github.com/chinedufn/percy) - A modular toolkit for building isomorphic web apps with Rust + WebAssembly.
+*   [Percy (⭐2.3k)](https://github.com/chinedufn/percy) - A modular toolkit for building isomorphic web apps with Rust + WebAssembly.
 *   [Seed (⭐3.8k)](https://github.com/seed-rs/seed) - A Rust framework for creating web apps.
 *   [Smithy (⭐350)](https://github.com/rbalicki2/smithy) - A framework for building WebAssembly apps in Rust.
 
@@ -89,7 +89,7 @@
 
 ### Button
 
-*   [FloatingButton (⭐1.1k)](https://github.com/exyte/FloatingButton) - Easily customizable floating button menu created with SwiftUI.
+*   [FloatingButton (⭐1.2k)](https://github.com/exyte/FloatingButton) - Easily customizable floating button menu created with SwiftUI.
 
 ## [11. Public Apis](/content/public-apis/public-apis/README.md)
 

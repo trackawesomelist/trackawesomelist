@@ -26,7 +26,7 @@
 
 ### Authentication Authorisation
 
-*   [Vert.x-Pac4j (⭐121)](https://github.com/pac4j/vertx-pac4j) - Vert.x authentication/authorisation implemented using [pac4j](http://www.pac4j.org/).
+*   [Vert.x-Pac4j (⭐127)](https://github.com/pac4j/vertx-pac4j) - Vert.x authentication/authorisation implemented using [pac4j](http://www.pac4j.org/).
 
 ## [4. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
@@ -70,30 +70,30 @@
 
 *   [libgcrypt](http://directory.fsf.org/wiki/Libgcrypt) - Cryptographic library developed as a separated module of GnuPG.
 *   [libsodium (⭐12k)](https://github.com/jedisct1/libsodium) - Modern and easy-to-use crypto library.
-*   [libtomcrypt (⭐1.5k)](https://github.com/libtom/libtomcrypt) - Fairly comprehensive, modular and portable cryptographic toolkit.
+*   [libtomcrypt (⭐1.6k)](https://github.com/libtom/libtomcrypt) - Fairly comprehensive, modular and portable cryptographic toolkit.
 *   [NaCl](https://nacl.cr.yp.to/) - High-speed library for network communication, encryption, decryption, signatures, etc.
-*   [wolfSSL (⭐2.2k)](https://github.com/wolfSSL/wolfssl) - Small, fast, portable implementation of TLS/SSL for embedded devices to the cloud.
+*   [wolfSSL (⭐2.3k)](https://github.com/wolfSSL/wolfssl) - Small, fast, portable implementation of TLS/SSL for embedded devices to the cloud.
 
 ### C++ / Git
 
 *   [Botan](https://botan.randombit.net/) - Cryptography library written in `C++20`.
-*   [HElib (⭐7)](https://github.com/shaih/HElib) - Software library that implements homomorphic encryption (HE).
+*   [HElib (⭐12)](https://github.com/shaih/HElib) - Software library that implements homomorphic encryption (HE).
 *   [Nettle](http://www.lysator.liu.se/~nisse/nettle/) - Low-level cryptographic library.
 *   [s2n (⭐4.5k)](https://github.com/awslabs/s2n) - Implementation of the TLS/SSL protocols.
 
 ### C-sharp / Git
 
 *   [libsodium-net](https://github.com/adamcaudill/libsodium-net) - Secure cryptographic library, port of libsodium for .NET.
-*   [PCLCrypto (⭐227)](https://github.com/AArnott/PCLCrypto) - Provides cryptographic APIs over algorithms implemented by the platform, including exposing them to portable libraries.
+*   [PCLCrypto (⭐229)](https://github.com/AArnott/PCLCrypto) - Provides cryptographic APIs over algorithms implemented by the platform, including exposing them to portable libraries.
 
 ### Common Lisp / Git
 
-*   [trivial-ssh (⭐40)](https://github.com/eudoxia0/trivial-ssh) - SSH client library for Common Lisp (Built on libssh2).
+*   [trivial-ssh (⭐43)](https://github.com/eudoxia0/trivial-ssh) - SSH client library for Common Lisp (Built on libssh2).
 
 ### Elixir / Git
 
-*   [elixir-rsa (⭐34)](https://github.com/trapped/elixir-rsa) - `:public_key` cryptography wrapper for Elixir.
-*   [ex\_crypto (⭐136)](https://github.com/ntrepid8/ex_crypto) - Elixir wrapper for Erlang `:crypto` and `:public_key` modules. Provides sensible defaults for many crypto functions to make them easier to use.
+*   [elixir-rsa (⭐35)](https://github.com/trapped/elixir-rsa) - `:public_key` cryptography wrapper for Elixir.
+*   [ex\_crypto (⭐148)](https://github.com/ntrepid8/ex_crypto) - Elixir wrapper for Erlang `:crypto` and `:public_key` modules. Provides sensible defaults for many crypto functions to make them easier to use.
 
 ### Erlang / Git
 
@@ -107,23 +107,23 @@
 
 ### JavaScript / Git
 
-*   [javascript-crypto-library (⭐286)](https://github.com/clipperz/javascript-crypto-library) - JavaScript Crypto Library provides web developers with an extensive and efficient set of cryptographic functions.
-*   [PolyCrypt (⭐265)](https://github.com/polycrypt/polycrypt) - Pure JS implementation of the WebCrypto API.
+*   [javascript-crypto-library (⭐287)](https://github.com/clipperz/javascript-crypto-library) - JavaScript Crypto Library provides web developers with an extensive and efficient set of cryptographic functions.
+*   [PolyCrypt (⭐266)](https://github.com/polycrypt/polycrypt) - Pure JS implementation of the WebCrypto API.
 
 ### Java / Git
 
 *   [Flexiprovider](http://www.flexiprovider.de/) - Powerful toolkit for the Java Cryptography Architecture.
-*   [scrypt (⭐426)](https://github.com/wg/scrypt) - Pure Java implementation of the scrypt key derivation function and a JNI interface to the C implementations, including the SSE2 optimized version.
+*   [scrypt (⭐429)](https://github.com/wg/scrypt) - Pure Java implementation of the scrypt key derivation function and a JNI interface to the C implementations, including the SSE2 optimized version.
 
 ### Julia / Git
 
-*   [Crypto.jl (⭐9)](https://github.com/danielsuo/Crypto.jl) - Library that wraps OpenSSL, but also has pure Julia implementations for reference.
-*   [MbedTLS.jl (⭐41)](https://github.com/JuliaWeb/MbedTLS.jl) - Wrapper around the mbed TLS and cryptography C libary.
-*   [SHA.jl (⭐46)](https://github.com/staticfloat/SHA.jl) - Performant, 100% native-julia SHA1, SHA2-{224,256,384,512} implementation.
+*   [Crypto.jl (⭐10)](https://github.com/danielsuo/Crypto.jl) - Library that wraps OpenSSL, but also has pure Julia implementations for reference.
+*   [MbedTLS.jl (⭐42)](https://github.com/JuliaWeb/MbedTLS.jl) - Wrapper around the mbed TLS and cryptography C libary.
+*   [SHA.jl (⭐48)](https://github.com/staticfloat/SHA.jl) - Performant, 100% native-julia SHA1, SHA2-{224,256,384,512} implementation.
 
 ### Lua / Git
 
-*   [lua-lockbox (⭐355)](https://github.com/somesocks/lua-lockbox) - Collection of cryptographic primitives written in pure Lua.
+*   [lua-lockbox (⭐360)](https://github.com/somesocks/lua-lockbox) - Collection of cryptographic primitives written in pure Lua.
 
 ### PHP / Git
 
@@ -132,15 +132,15 @@
 
 ### Python / Git
 
-*   [charm (⭐534)](https://github.com/JHUISI/charm) - Framework for rapidly prototyping cryptosystems.
+*   [charm (⭐547)](https://github.com/JHUISI/charm) - Framework for rapidly prototyping cryptosystems.
 *   [cryptography](https://cryptography.io/en/latest/) - Python library which exposes cryptographic recipes and primitives.
 *   [cryptopy](https://sourceforge.net/projects/cryptopy/) - Pure python implementation of cryptographic algorithms and applications.
 *   [paramiko](http://www.paramiko.org/) - Python implementation of the SSHv2 protocol, providing both client and server functionality.
-*   [pycryptodome (⭐2.7k)](https://github.com/Legrandin/pycryptodome) - Self-contained Python package of low-level cryptographic primitives.
+*   [pycryptodome (⭐2.8k)](https://github.com/Legrandin/pycryptodome) - Self-contained Python package of low-level cryptographic primitives.
 
 ### R / Git
 
-*   [rscrypt (⭐33)](https://github.com/rstudio/rscrypt) - Package for a collection of scrypt cryptographic functions.
+*   [rscrypt (⭐34)](https://github.com/rstudio/rscrypt) - Package for a collection of scrypt cryptographic functions.
 
 ### Ruby / Git
 
@@ -152,7 +152,7 @@
 
 ### Swift / Git
 
-*   [SweetHMAC (⭐37)](https://github.com/jancassio/SweetHMAC) - Tiny and easy to use Swift class to encrypt strings using HMAC algorithms.
+*   [SweetHMAC (⭐38)](https://github.com/jancassio/SweetHMAC) - Tiny and easy to use Swift class to encrypt strings using HMAC algorithms.
 *   [SwiftSSL](https://github.com/SwiftP2P/SwiftSSL) - Elegant crypto toolkit in Swift.
 
 ### Blogs / Git
@@ -290,11 +290,11 @@
 
 ### Programming fonts / Programming fonts with ligatures
 
-*   [Monoid (⭐7.6k)](https://github.com/larsenwork/monoid)
+*   [Monoid (⭐7.9k)](https://github.com/larsenwork/monoid)
 
 ### JavaScript libs / Programming fonts with ligatures
 
-*   [Typeset.js (⭐2.4k)](https://github.com/davidmerfield/typeset) - HTML pre-processor for web typography
+*   [Typeset.js (⭐2.6k)](https://github.com/davidmerfield/typeset) - HTML pre-processor for web typography
 
 ### GitHub Showcases / Event listeners for fonts loading on a web page
 
@@ -341,9 +341,9 @@ git rev-list --count <branch-name>
 
 ### Concurrency
 
-*   [CUB (⭐79)](https://github.com/NVlabs/cub) - CUB provides state-of-the-art, reusable software components for every layer of the CUDA programming mode. \[New BSD]
-*   [moderngpu (⭐1.6k)](https://github.com/moderngpu/moderngpu) - moderngpu is a productivity library for general-purpose computing on GPUs. It is a header-only C++ library written for CUDA. The unique value of the library is in its accelerated primitives for solving irregularly parallel problems. \[FreeBSD & Copyright, Sean Baxter]
-*   [NCCL (⭐3.1k)](https://github.com/NVIDIA/nccl) - Optimized primitives for collective multi-GPU communication. \[BSD]
+*   [CUB (⭐83)](https://github.com/NVlabs/cub) - CUB provides state-of-the-art, reusable software components for every layer of the CUDA programming mode. \[New BSD]
+*   [moderngpu (⭐1.7k)](https://github.com/moderngpu/moderngpu) - moderngpu is a productivity library for general-purpose computing on GPUs. It is a header-only C++ library written for CUDA. The unique value of the library is in its accelerated primitives for solving irregularly parallel problems. \[FreeBSD & Copyright, Sean Baxter]
+*   [NCCL (⭐3.4k)](https://github.com/NVIDIA/nccl) - Optimized primitives for collective multi-GPU communication. \[BSD]
 
 ## [19. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
@@ -390,7 +390,7 @@ git rev-list --count <branch-name>
 
 ### Game
 
-*   [MonoGame (⭐11k)](https://github.com/MonoGame/MonoGame) - One framework for creating powerful cross-platform games
+*   [MonoGame (⭐12k)](https://github.com/MonoGame/MonoGame) - One framework for creating powerful cross-platform games
 
 ### ORM
 
@@ -664,17 +664,17 @@ git flow init -d
 
 ### Chatting
 
-*   [chatty (⭐35)](https://github.com/alco/chatty) - A basic IRC client that is most useful for writing a bot.
+*   [chatty (⭐36)](https://github.com/alco/chatty) - A basic IRC client that is most useful for writing a bot.
 *   [cog (⭐916)](https://github.com/operable/cog) - Cog is an open chatops platform that gives you a secure, collaborative command line right in your chat window.
-*   [ExIrc (⭐152)](https://github.com/bitwalker/exirc) - IRC client adapter for Elixir projects.
+*   [ExIrc (⭐154)](https://github.com/bitwalker/exirc) - IRC client adapter for Elixir projects.
 *   [Guri (⭐21)](https://github.com/elvio/guri) - Automate tasks using chat messages.
 *   [kaguya (⭐74)](https://github.com/Luminarys/Kaguya) - A small, powerful, and modular IRC bot.
-*   [slacker (⭐84)](https://github.com/koudelka/slacker) - A bot library for the Slack chat service.
+*   [slacker (⭐82)](https://github.com/koudelka/slacker) - A bot library for the Slack chat service.
 *   [yocingo (⭐39)](https://github.com/Yawolf/yocingo) - Create your own Telegram Bot.
 
 ### Documentation
 
-*   [phoenix\_swagger (⭐687)](https://github.com/xerions/phoenix_swagger) - Provides swagger integration to the Phoenix framework.
+*   [phoenix\_swagger (⭐699)](https://github.com/xerions/phoenix_swagger) - Provides swagger integration to the Phoenix framework.
 
 ### Examples and funny stuff
 
@@ -694,11 +694,11 @@ git flow init -d
 
 ### Images
 
-*   [ex\_image\_info (⭐95)](https://github.com/rNoz/ex_image_info) - An Elixir library to parse images (binaries) and get the dimensions, detected mime-type and overall validity for a set of image formats.
+*   [ex\_image\_info (⭐97)](https://github.com/rNoz/ex_image_info) - An Elixir library to parse images (binaries) and get the dimensions, detected mime-type and overall validity for a set of image formats.
 
 ### Logging
 
-*   [exlager (⭐66)](https://github.com/khia/exlager) - Elixir binding for lager.
+*   [exlager (⭐65)](https://github.com/khia/exlager) - Elixir binding for lager.
 
 ### Release Management
 
@@ -706,11 +706,11 @@ git flow init -d
 
 ### Security
 
-*   [ssl\_verify\_fun (⭐104)](https://github.com/deadtrickster/ssl_verify_fun.erl) - Collection of ssl verification functions for Erlang.
+*   [ssl\_verify\_fun (⭐107)](https://github.com/deadtrickster/ssl_verify_fun.erl) - Collection of ssl verification functions for Erlang.
 
 ### Testing
 
-*   [bypass (⭐956)](https://github.com/pspdfkit-labs/bypass) - Bypass provides a quick way to create a mock HTTP server with a custom plug.
+*   [bypass (⭐972)](https://github.com/pspdfkit-labs/bypass) - Bypass provides a quick way to create a mock HTTP server with a custom plug.
 
 ### Third Party APIs
 
@@ -743,16 +743,16 @@ git flow init -d
 
 ### Configuration
 
-*   [cr-dotenv (⭐94)](https://github.com/gdotdesign/cr-dotenv) - Loads .env file
+*   [cr-dotenv (⭐96)](https://github.com/gdotdesign/cr-dotenv) - Loads .env file
 
 ### Project Generators
 
-*   [crystal\_lib (⭐139)](https://github.com/crystal-lang/crystal_lib) - Automatic binding generator for native libraries
+*   [crystal\_lib (⭐138)](https://github.com/crystal-lang/crystal_lib) - Automatic binding generator for native libraries
 
 ### Template Engine
 
-*   [Kilt (⭐152)](https://github.com/jeromegn/kilt) - Abstraction layer for template engines
-*   [Slang (⭐235)](https://github.com/jeromegn/slang) - Lightweight, terse, templating language inspired by Ruby's Slim
+*   [Kilt (⭐151)](https://github.com/jeromegn/kilt) - Abstraction layer for template engines
+*   [Slang (⭐237)](https://github.com/jeromegn/slang) - Lightweight, terse, templating language inspired by Ruby's Slim
 
 ### Web Frameworks
 

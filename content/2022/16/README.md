@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 18 - Apr 24, 2022
 
-46 awesome lists updated this week.
+45 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -59,14 +59,14 @@
 *   Firebase
     *   [AppCheck (⭐7)](https://github.com/mattmilan-dev/capacitor-firebase-appcheck) - Allows usage of native AppCheck tokens.
     *   [Dynamic Links (⭐22)](https://github.com/Pantrist-dev/capacitor-firebase-dynamic-links) - Firebase Dynamic Links.
-    *   [Push (⭐30)](https://github.com/EinfachHans/capacitor-firebase-push) - This Plugin it used for Firebase Push Messages. It support Data.
-*   [Photo library (⭐2)](https://github.com/diiiary/capacitor-plugin-photo-library) - Get all the images from system album.
+    *   [Push (⭐29)](https://github.com/EinfachHans/capacitor-firebase-push) - This Plugin it used for Firebase Push Messages. It support Data.
+*   [Photo library (⭐3)](https://github.com/diiiary/capacitor-plugin-photo-library) - Get all the images from system album.
 
 ### Tools / Incompatible
 
 *   [Docgen (⭐12)](https://github.com/ionic-team/capacitor-docgen) - Docs Readme Markdown and JSON Generator for Capacitor Plugins.
-*   [Plugin generator (⭐74)](https://github.com/ionic-team/create-capacitor-plugin) - Create a new Capacitor plugin.
-*   [Assets (⭐500)](https://github.com/ionic-team/capacitor-assets) - Local Capacitor icon/splash screen resource generation tool.
+*   [Plugin generator (⭐86)](https://github.com/ionic-team/create-capacitor-plugin) - Create a new Capacitor plugin.
+*   [Assets (⭐527)](https://github.com/ionic-team/capacitor-assets) - Local Capacitor icon/splash screen resource generation tool.
 
 ### Learning / Offical guides
 
@@ -93,9 +93,9 @@
 
 ### Demo apps / Case study
 
-*   [capacitor-testapp (⭐34)](https://github.com/ionic-team/capacitor-testapp) - The Capacitor TestApp is used to develop new features and verify bug fixes in Capacitor and the official plugins.
-*   [capacitor-plugin-demo (⭐96)](https://github.com/robingenz/capacitor-plugin-demo) - Simple Ionic Angular app to demonstrate the use of certain Capacitor plugins.
-*   [capacitor-firebase-plugin-demo (⭐13)](https://github.com/robingenz/capacitor-firebase-plugin-demo) - Simple Ionic Angular app to demonstrate the use of certain Capacitor Firebase plugins.
+*   [capacitor-testapp (⭐36)](https://github.com/ionic-team/capacitor-testapp) - The Capacitor TestApp is used to develop new features and verify bug fixes in Capacitor and the official plugins.
+*   [capacitor-plugin-demo (⭐102)](https://github.com/robingenz/capacitor-plugin-demo) - Simple Ionic Angular app to demonstrate the use of certain Capacitor plugins.
+*   [capacitor-firebase-plugin-demo (⭐15)](https://github.com/robingenz/capacitor-firebase-plugin-demo) - Simple Ionic Angular app to demonstrate the use of certain Capacitor Firebase plugins.
 
 ## [5. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
@@ -107,7 +107,7 @@
 
 ### Type / React
 
-*   [pothos (⭐2.3k)](https://github.com/hayes/pothos) - Pothos is a plugin based GraphQL schema builder for typescript. It makes building graphql schemas in typescript easy, fast and enjoyable.
+*   [pothos (⭐2.4k)](https://github.com/hayes/pothos) - Pothos is a plugin based GraphQL schema builder for typescript. It makes building graphql schemas in typescript easy, fast and enjoyable.
 
 ## [7. Awesome ad Free](/content/johnjago/awesome-ad-free/week/README.md)
 
@@ -135,21 +135,21 @@
 
 ### Software / Booking and Scheduling
 
-*   [Rallly](https://rallly.co) - Create polls to vote on dates and times (alternative to Doodle). ([Demo](https://app.rallly.co), [Source Code (⭐3.4k)](https://github.com/lukevella/rallly)) `AGPL-3.0` `Nodejs/Docker`
+*   [Rallly](https://rallly.co) - Create polls to vote on dates and times (alternative to Doodle). ([Demo](https://app.rallly.co), [Source Code (⭐3.9k)](https://github.com/lukevella/rallly)) `AGPL-3.0` `Nodejs/Docker`
 
 ### Software / Content Management Systems (CMS)
 
-*   [WinterCMS](https://wintercms.com/) - Speedy and secure content management system built on the Laravel PHP framework. ([Source Code (⭐1.3k)](https://github.com/wintercms/winter)) `MIT` `PHP`
+*   [WinterCMS](https://wintercms.com/) - Speedy and secure content management system built on the Laravel PHP framework. ([Source Code (⭐1.4k)](https://github.com/wintercms/winter)) `MIT` `PHP`
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [PicoShare](https://pico.rocks) - A minimalist, easy-to-host service for sharing images and other files. ([Demo](https://demo.pico.rocks), [Source Code (⭐2.2k)](https://github.com/mtlynch/picoshare)) `AGPL-3.0` `Go/Docker`
+*   [PicoShare](https://pico.rocks) - A minimalist, easy-to-host service for sharing images and other files. ([Demo](https://demo.pico.rocks), [Source Code (⭐2.4k)](https://github.com/mtlynch/picoshare)) `AGPL-3.0` `Go/Docker`
 
 ## [11. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Top / Game Engine resources
 
-*   [Spotube (⭐26k)](https://github.com/KRTirtho/spotube) <!--stargazers:KRTirtho/spotube--> - A lightweight free Spotify crossplatform-client with no Spotify premium account requirement by [KRTirtho](https://github.com/KRTirtho)
+*   [Spotube (⭐32k)](https://github.com/KRTirtho/spotube) <!--stargazers:KRTirtho/spotube--> - A lightweight free Spotify crossplatform-client with no Spotify premium account requirement by [KRTirtho](https://github.com/KRTirtho)
 
 ## [12. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/week/README.md)
 
@@ -164,14 +164,14 @@
 ### :wrench: Tools / Before 2000
 
 *   [Capstone](https://www.capstone-engine.org) - Lightweight multi-platform, multi-architecture disassembly framework.
-*   [PANDA (⭐2.4k)](https://github.com/panda-re/panda) - Platform for Architecture-Neutral Dynamic Analysis.
-*   [ShowStopper (⭐193)](https://github.com/CheckPointSW/showstopper) - Tool to help malware researchers explore and test anti-debug techniques or verify debugger plugins or other solutions that clash with standard anti-debug methods.
+*   [PANDA (⭐2.5k)](https://github.com/panda-re/panda) - Platform for Architecture-Neutral Dynamic Analysis.
+*   [ShowStopper (⭐197)](https://github.com/CheckPointSW/showstopper) - Tool to help malware researchers explore and test anti-debug techniques or verify debugger plugins or other solutions that clash with standard anti-debug methods.
 
 ## [13. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/week/README.md)
 
 ### AppImage consumption tools / Package managers
 
-*   [ayy (⭐15)](https://github.com/lawl/ayy) - Package manager for AppImage. Single, static, dependency free binary. Written in Go.
+*   [ayy (⭐16)](https://github.com/lawl/ayy) - Package manager for AppImage. Single, static, dependency free binary. Written in Go.
 
 ## [14. Awesome Gatling](/content/aliesbelik/awesome-gatling/week/README.md)
 
@@ -190,21 +190,17 @@
 
 ### Storage / Scala
 
-*   [Citus (⭐10k)](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension.
+*   [Citus (⭐11k)](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension.
 
 ## [17. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Projects Using Vue.js / Open Source
 
-*   [FAIRshare (⭐75)](https://github.com/fairdataihub/FAIRshare) - Sharing biomedical research data and software according to applicable FAIR guidelines
+*   [FAIRshare (⭐77)](https://github.com/fairdataihub/FAIRshare) - Sharing biomedical research data and software according to applicable FAIR guidelines
 
 ### Components & Libraries / Utilities
 
-*   [apollo-vue-devtools (⭐19)](https://github.com/storipress/apollo-vue-devtools) - Apollo integration for Vue-Devtools to inspect GraphQL queries in the vue-devtools timeline
-
-### Components & Libraries / Integrations
-
-*   [vue3-recaptcha2 (⭐38)](https://github.com/bbonch/vue3-recaptcha2) - Google reCAPTCHA 2 for Vue 3.
+*   [apollo-vue-devtools (⭐20)](https://github.com/storipress/apollo-vue-devtools) - Apollo integration for Vue-Devtools to inspect GraphQL queries in the vue-devtools timeline
 
 ## [18. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
 
@@ -216,13 +212,13 @@
 
 ### Plugins
 
-*   [tmux-menus (⭐291)](https://github.com/jaclu/tmux-menus) - Popup menus to help with managing your environment.
+*   [tmux-menus (⭐329)](https://github.com/jaclu/tmux-menus) - Popup menus to help with managing your environment.
 
 ## [20. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Authentication and OAuth
 
-*   [API Guard (⭐278)](https://github.com/Gokul595/api_guard) - JWT authentication solution for Rails APIs.
+*   [API Guard (⭐276)](https://github.com/Gokul595/api_guard) - JWT authentication solution for Rails APIs.
 
 ## [21. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
@@ -236,13 +232,13 @@
 
 ### Libraries/Frameworks / Tools
 
-*   [Kotlin/kotlinx-kover (⭐1.3k)](https://github.com/Kotlin/kotlinx-kover) - Gradle plugin for Kotlin code coverage agents.
+*   [Kotlin/kotlinx-kover (⭐1.4k)](https://github.com/Kotlin/kotlinx-kover) - Gradle plugin for Kotlin code coverage agents.
 
 ## [22. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/week/README.md)
 
 ### Sequence Alignment / Pairwise
 
-*   **[DIAMOND (⭐758)](https://github.com/bbuchfink/diamond)** - An ultrafast protein aligner for `blastp` and `blastx` like searches. \[ [paper-2021](https://www.nature.com/articles/s41592-021-01101-x) ]
+*   **[DIAMOND (⭐1.1k)](https://github.com/bbuchfink/diamond)** - An ultrafast protein aligner for `blastp` and `blastx` like searches. \[ [paper-2021](https://www.nature.com/articles/s41592-021-01101-x) ]
 
 ## [23. Awesome Video](/content/krzemienski/awesome-video/week/README.md)
 
@@ -261,14 +257,14 @@
 
 ### Libraries
 
-*   [functional.js (⭐220)](https://github.com/functionaljs/functional-js) – A lightweight functional JavaScript library that facilitates currying and point-free / tacit programming.
-*   [fp-multik (⭐6)](https://github.com/lulldev/fp-multik) - JS/TS lightweight value-multimethod util
+*   [functional.js (⭐223)](https://github.com/functionaljs/functional-js) – A lightweight functional JavaScript library that facilitates currying and point-free / tacit programming.
+*   [fp-multik](https://github.com/lulldev/fp-multik) - JS/TS lightweight value-multimethod util
 
 ## [26. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### GTFS Realtime Validators / Ruby
 
-*   [gtfs-realtime-validator (⭐38)](https://github.com/MobilityData/gtfs-realtime-validator) - A GTFS Realtime validation tool originally developed by the [Center for Urban Transportation Research](https://www.cutr.usf.edu/) at the [University of South Florida](https://www.usf.edu/) and now maintained by [MobilityData](https://mobilitydata.org/).
+*   [gtfs-realtime-validator (⭐45)](https://github.com/MobilityData/gtfs-realtime-validator) - A GTFS Realtime validation tool originally developed by the [Center for Urban Transportation Research](https://www.cutr.usf.edu/) at the University of South Florida and now maintained by [MobilityData](https://mobilitydata.org/).
 
 ## [27. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
@@ -289,7 +285,7 @@
 
 ### Layout / Barcode
 
-*   [Scaling Header Scroll View (⭐1.1k)](https://github.com/exyte/ScalingHeaderScrollView) - A scroll view with a sticky header which shrinks as you scroll. Written with SwiftUI.
+*   [Scaling Header Scroll View (⭐1.2k)](https://github.com/exyte/ScalingHeaderScrollView) - A scroll view with a sticky header which shrinks as you scroll. Written with SwiftUI.
 
 ## [29. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
@@ -310,13 +306,13 @@
 ### Explainability / Strong Machine Learning
 
 *   [Beneficial and harmful explanatory machine learning](https://link.springer.com/article/10.1007%2Fs10994-020-05941-0) - ***Machine Learning***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=16983722694047294963\&hl=en\&as_sdt=0,5)].
-*   [Deep Forest: Towards An Alternative to Deep Neural Networks](https://www.ijcai.org/Proceedings/2017/497) - ***IJCAI'17***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=7391596872731517007\&hl=en\&as_sdt=0,5)]. \[[Project (⭐904)](https://github.com/LAMDA-NJU/Deep-Forest)].
+*   [Deep Forest: Towards An Alternative to Deep Neural Networks](https://www.ijcai.org/Proceedings/2017/497) - ***IJCAI'17***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=7391596872731517007\&hl=en\&as_sdt=0,5)]. \[[Project (⭐933)](https://github.com/LAMDA-NJU/Deep-Forest)].
 
 ## [31. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
 ### Build tools
 
-*   [Vert.x Maven plugin (⭐72)](https://github.com/reactiverse/vertx-maven-plugin)
+*   [Vert.x Maven plugin (⭐74)](https://github.com/reactiverse/vertx-maven-plugin)
 
 ### Middleware
 
@@ -324,16 +320,16 @@
 
 ### Reactive
 
-*   [Vert.x Effect (⭐3)](https://github.com/imrafaelmerino/vertx-effect) - Pure functional and reactive library based on the IO Monad to implement any complex flow. Full support for retry, fallback and recovery operations.
+*   [Vert.x Effect (⭐2)](https://github.com/imrafaelmerino/vertx-effect) - Pure functional and reactive library based on the IO Monad to implement any complex flow. Full support for retry, fallback and recovery operations.
 
 ### Examples
 
-*   [Knative (⭐4.2k)](https://github.com/knative/docs/tree/main/code-samples/community/serving/helloworld-vertx) - An example application on how to use [Reactive Extensions Vert.x (⭐145)](https://github.com/vert-x3/vertx-rx) with [Knative](https://github.com/knative).
+*   [Knative (⭐4.6k)](https://github.com/knative/docs/tree/main/code-samples/community/serving/helloworld-vertx) - An example application on how to use [Reactive Extensions Vert.x (⭐147)](https://github.com/vert-x3/vertx-rx) with [Knative](https://github.com/knative).
 
 ### Utilities
 
 *   [Chime (⭐29)](https://github.com/LisiLisenok/Chime) - Time scheduler working on Vert.x event bus allowing for scheduling with *cron-style* and *interval* timers.
-*   [Vert.x Scheduler (⭐10)](https://github.com/zero88/vertx-scheduler) - A lightweight plugable scheduler based on plain Vert.x core without any external libs for scheduling with *cron-style* and *interval* timers with a detail *monitor* on both sync and async task.
+*   [Vert.x Scheduler (⭐11)](https://github.com/zero88/vertx-scheduler) - A lightweight plugable scheduler based on plain Vert.x core without any external libs for scheduling with *cron-style* and *interval* timers with a detail *monitor* on both sync and async task.
 
 ### Presentations
 
@@ -344,13 +340,12 @@
 *   [User Group](https://groups.google.com/forum/?fromgroups#!forum/vertx) - Discuss all user issues related to *using* Vert.x.
 *   [Developer Group](https://groups.google.com/forum/?fromgroups#!forum/vertx-dev) - A group for Vert.x core *developers* and *contributors*.
 *   [Discord Server](https://discord.gg/KzEMwP2) - Chat about any Vert.x-related topic.
-*   [Issues (⭐35)](https://github.com/vert-x3/issues/issues) - Vert.x core issue tracker.
-*   [Wiki (⭐192)](https://github.com/vert-x3/wiki/wiki) - Contains useful information about Vert.x.
+*   [Issues (⭐37)](https://github.com/vert-x3/issues/issues) - Vert.x core issue tracker.
+*   [Wiki (⭐193)](https://github.com/vert-x3/wiki/wiki) - Contains useful information about Vert.x.
 *   [Blog](http://vertx.io/blog/) - The official Vert.x blog containing many tutorials and other information.
 
 ### Articles
 
-*   [Going reactive with Eclipse Vert.x and RX Java](https://blogs.oracle.com/javamagazine/going-reactive-with-eclipse-vertx-and-rxjava)
 *   [Vert.x 3.3.0 Features Enhanced Networking Microservices, Testing and More](https://www.infoq.com/news/2016/06/Vert.x-3.3.0-release-features)
 *   [Interview with Tim Fox About Vert.x 3, the Original Reactive, Microservice Toolkit for the JVM](http://www.infoq.com/articles/vertx-3-tim-fox)
 
@@ -378,25 +373,25 @@
 
 ### Miscellaneous
 
-*   [file-select (⭐16)](https://github.com/Shinmera/file-select) -  A library to invoke the native system file dialog to select or create files. Zlib.
+*   [file-select (⭐19)](https://github.com/Shinmera/file-select) -  A library to invoke the native system file dialog to select or create files. Zlib.
 
 ### XML / Third-party APIs
 
-*   [Plump (⭐119)](https://github.com/Shinmera/plump) - A lenient XML parser. [zlib](https://directory.fsf.org/wiki/License:Zlib).
-*   [xpath (⭐7)](https://github.com/sharplispers/xpath) ([homepage](https://common-lisp.net/project/plexippus-xpath/atdoc/index.html) - Implementation of the XML Path Language (XPath) Version 1.0. [BSD\_2Clause](https://directory.fsf.org/wiki/License:BSD_2Clause).
+*   [Plump (⭐121)](https://github.com/Shinmera/plump) - A lenient XML parser. [zlib](https://directory.fsf.org/wiki/License:Zlib).
+*   [xpath (⭐8)](https://github.com/sharplispers/xpath) ([homepage](https://common-lisp.net/project/plexippus-xpath/atdoc/index.html) - Implementation of the XML Path Language (XPath) Version 1.0. [BSD\_2Clause](https://directory.fsf.org/wiki/License:BSD_2Clause).
 *   [s-xml](http://cliki.net/S-XML) - A basic parser. [LLGPL](http://opensource.franz.com/preamble.html).
-*   [xmls (⭐19)](https://github.com/rpgoldman/xmls) - A small, simple, non-validating XML parser. [3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
-*   [cl-feedparser (⭐26)](https://github.com/TBRSS/cl-feedparser) - A Common Lisp (RSS, Atom) feed parser. [LLGPL](http://opensource.franz.com/preamble.html)
+*   [xmls (⭐20)](https://github.com/rpgoldman/xmls) - A small, simple, non-validating XML parser. [3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
+*   [cl-feedparser (⭐27)](https://github.com/TBRSS/cl-feedparser) - A Common Lisp (RSS, Atom) feed parser. [LLGPL](http://opensource.franz.com/preamble.html)
 *   [Buildnode (⭐19)](https://github.com/AccelerationNet/buildnode) - A common lisp library to ease interaction with CXML-dom, such as building Excel spreadsheets. [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
 ### Emacs / Third-party APIs
 
-*   [slime-star (⭐38)](https://github.com/mmontone/slime-star) - a SLIME configuration with extensions pre-installed, with also some custom utilities and menus:
+*   [slime-star (⭐40)](https://github.com/mmontone/slime-star) - a SLIME configuration with extensions pre-installed, with also some custom utilities and menus:
     *   the Lisp system browser
-    *   [SLIME doc contrib (⭐20)](https://github.com/mmontone/slime-doc-contribs) - enhance the default help buffer.
+    *   [SLIME doc contrib (⭐21)](https://github.com/mmontone/slime-doc-contribs) - enhance the default help buffer.
     *   [Quicklisp systems (⭐27)](https://github.com/mmontone/quicklisp-systems) - Search, browse and load Quicklisp systems from Emacs.
-    *   [Slime breakpoints (⭐15)](https://github.com/mmontone/slime-breakpoints)
-    *   [Slite (⭐50)](https://github.com/tdrhq/slite/) - a test runner for FiveAM.
+    *   [Slime breakpoints (⭐18)](https://github.com/mmontone/slime-breakpoints)
+    *   [Slite (⭐52)](https://github.com/tdrhq/slite/) - a test runner for FiveAM.
     *   [Quicklisp-apropos (⭐10)](https://github.com/mmontone/quicklisp-apropos) - Perform `apropos` queries across libraries in Quicklisp (full-text search on symbol names, classes, documentation…).
     *   [slime-critic (⭐10)](https://github.com/mmontone/slime-critic) - the lisp critic gently critiques your code for bad patterns.
 
@@ -404,7 +399,7 @@
 
 ### Documentation
 
-*   [Mintlify](https://www.mintlify.com/) - AI powered code documentation, IDE extension (open source). [![Mintlify](https://img.shields.io/github/stars/mintlify/writer?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/mintlify/writer)
+*   [Mintlify](https://www.mintlify.com/) - NextJS-based, AI-powered platform for documentation sites. [![featured on launchweek.dev](https://img.shields.io/badge/featured-0D1117.svg?style=flat-square\&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMzYwIiBoZWlnaHQ9IjM2MCIgdmlld0JveD0iMCAwIDM2MCAzNjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+IDxyZWN0IHdpZHRoPSI2MCIgaGVpZ2h0PSIzMDAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjYwIiB5PSIzMDAiIHdpZHRoPSIxMjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjI0MCIgeT0iMzAwIiB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjMwMCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjMwMCIgZmlsbD0id2hpdGUiLz4gPHJlY3QgeD0iMTgwIiB3aWR0aD0iNjAiIGhlaWdodD0iMzAwIiBmaWxsPSJ3aGl0ZSIvPiA8L3N2Zz4=)](https://launchweek.dev)
 
 ## [36. Alternative Front Ends](/content/mendel5/alternative-front-ends/week/README.md)
 
@@ -412,74 +407,65 @@
 
 *   [librespot (⭐3.9k)](https://github.com/librespot-org/librespot): Requires Spotify Premium Account - librespot is an open source client library for Spotify. It enables applications to use Spotify's service to control and play music via various backends, and to act as a Spotify Connect receiver. It is an alternative to the official and now deprecated closed-source libspotify. Additionally, it will provide extra features which are not available in the official library
 
-## [37. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
-
-### APIs, Data, and ML
-
-*   [Orchest](https://orchest.io) — Visual pipeline editor and workflow orchestrator for data science, one instance for free, open source version available.
-
-## [38. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [37. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [def (⭐11)](https://github.com/thevinter/def) - Allows you to specify and run a default command in any directory of your choice.
-*   [exa (todie) (⭐1)](https://github.com/todie/exa.plugin.zsh) - Integration and completions for [exa](https://the.exa.website/), a modern replacement for `ls`.
-*   [git-prune (diazod) (⭐36)](https://github.com/diazod/git-prune) - Allows you to delete all branches that are already merged in your local `git` repository and/or that were merged in your remote origin `git` repository.
-*   [git-prune (seinh) (⭐36)](https://github.com/Seinh/git-prune) - Plugin that simplifies deleting merged branches in a `git` repository.
+*   [exa (todie) (⭐1)](https://github.com/todie/exa.plugin.zsh) - Integration and completions for [exa (⭐24k)](https://github.com/ogham/exa), a modern replacement for `ls`.
+*   [git-prune (diazod) (⭐35)](https://github.com/diazod/git-prune) - Allows you to delete all branches that are already merged in your local `git` repository and/or that were merged in your remote origin `git` repository.
+*   [git-prune (seinh) (⭐35)](https://github.com/Seinh/git-prune) - Plugin that simplifies deleting merged branches in a `git` repository.
 *   [kubectl (⭐6)](https://github.com/mattbangert/kubectl-zsh-plugin) - ZSH plugin for managing `kubectl`.
 *   [nhl-schedule (⭐1)](https://github.com/Matt561/zsh-nhl-schedule) - Retrieves and displays the NHL schedule.
 *   [skaffold (⭐1)](https://github.com/todie/skaffold.plugin.zsh) - ZSH integration and completions for [skaffold](https://skaffold.dev) local kubernetes development environment.
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [bosh (thomasmitchell) (⭐9)](https://github.com/thomasmitchell/bosh-complete) - Tab completion for [BOSH (⭐2k)](https://github.com/cloudfoundry/bosh)].
-*   [gstreamer (⭐1)](https://github.com/CraigCarey/gstreamer-tab) - Tab completion for [GStreamer](https://gstreamer.freedesktop.org/).
+*   [bosh (thomasmitchell) (⭐9)](https://github.com/thomasmitchell/bosh-complete) - Tab completion for [BOSH (⭐2k)](https://github.com/cloudfoundry/bosh).
+*   [gstreamer (⭐2)](https://github.com/CraigCarey/gstreamer-tab) - Tab completion for [GStreamer](https://gstreamer.freedesktop.org/).
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [al-magic (⭐1)](https://github.com/Alustrat/al-magic/) - Clone of the oh-my-zsh [af-magic (⭐172k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/af-magic.zsh-theme) theme with the time added at the right of the prompt.
-*   [skill (asafaeirad) (⭐13)](https://github.com/ASafaeirad/oh-my-zsh-skill-theme) - Includes decorations for working directory, `git` working branch, working directory status and tracking branch status.
-*   [skill (frontendmonster) (⭐13)](https://github.com/frontendmonster/oh-my-zsh-skill-theme) - Optimized for a dark terminal, displays `git` status decorations.
+*   [al-magic (⭐1)](https://github.com/Alustrat/al-magic/) - Clone of the oh-my-zsh [af-magic (⭐175k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/af-magic.zsh-theme) theme with the time added at the right of the prompt.
+*   [skill (asafaeirad) (⭐15)](https://github.com/ASafaeirad/oh-my-zsh-skill-theme) - Includes decorations for working directory, `git` working branch, working directory status and tracking branch status.
+*   [skill (frontendmonster) (⭐15)](https://github.com/frontendmonster/oh-my-zsh-skill-theme) - Optimized for a dark terminal, displays `git` status decorations.
 
-## [39. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+## [38. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
-### Templates / Godot 3.2+
+### Templates / Godot 3
 
-*   [Godot FPS Template (⭐61)](https://github.com/MilkAndBanana01/godot-fps-template) - A free first person game template for the Godot Engine.
+*   [Godot FPS Template (⭐66)](https://github.com/MilkAndBanana01/godot-fps-template) - A free first person game template for the Godot Engine.
 
-### Plugins and scripts / Various Godot versions
+### Plugins and scripts / Godot 3
 
-*   [GodotNotificationCenter (⭐59)](https://github.com/didier-v/GodotNotificationCenter) - A notification center (Godot 3.x).
-*   [Scrolling Background (⭐29)](https://github.com/dploeger/godot-scrollingbackground) - A scrolling background node (Godot 2.1,3.x).
-*   [SimpleGodotCRTShader (⭐344)](https://github.com/henriquelalves/SimpleGodotCRTShader) - A simple Godot shader that simulates CRT Displays (Godot 2.x, 3.x).
-
-### Plugins and scripts / Godot 3.2+
-
-*   [AntialiasedLine2D (⭐122)](https://github.com/godot-extended-libraries/godot-antialiased-line2d) - Higher-quality antialiased Line2D and Polygon2D drawing compared to the default Godot implementation (GLES3 + GLES2, all platforms).
+*   [AntialiasedLine2D (⭐135)](https://github.com/godot-extended-libraries/godot-antialiased-line2d) - Higher-quality antialiased Line2D and Polygon2D drawing compared to the default Godot implementation (GLES3 + GLES2, all platforms).
+*   [GodotNotificationCenter (⭐59)](https://github.com/didier-v/GodotNotificationCenter) - A notification center.
 *   [Godot VirtualJoystick (⭐14)](https://github.com/mcunha-br/Godot_VirtualJoystick) - A simple vitual joystick for mobile devices.
+*   [Scrolling Background (⭐29)](https://github.com/dploeger/godot-scrollingbackground) - A scrolling background node. *(Godot 2 and 3)*
+*   [SimpleGodotCRTShader (⭐357)](https://github.com/henriquelalves/SimpleGodotCRTShader) - A simple Godot shader that simulates CRT Displays. *(Godot 2 and 3)*
 
-## [40. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [39. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
 *   [Security Acronyms (⭐17)](https://github.com/cloudsecurelab/security-acronyms) - A curated list of security related acronyms and concepts
 
-## [41. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
+## [40. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
 
 ### Networking / Web
 
 *   [Rufaydium WebDriver (⭐42)](https://github.com/Xeo786/Rufaydium-Webdriver) - by Xeo786 - Webdriver Library to support any Chromium based browser only requiring webdriver (no selenium/websocket) - Forum [link](https://www.autohotkey.com/boards/viewtopic.php?f=6\&p=457302)
 
-## [42. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [41. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Blockchain
 
-*   [electrumrs (⭐1k)](https://github.com/romanz/electrs) - An efficient re-implementation of Electrum Server.
-*   [rust-lightning (⭐1.1k)](https://github.com/lightningdevkit/rust-lightning) [![Crate](https://img.shields.io/crates/v/lightning.svg?logo=rust)](https://crates.io/crates/lightning) - Bitcoin Lightning library. The main crate,`lightning`, does not handle networking, persistence, or any other I/O. Thus,it is runtime-agnostic, but users must implement basic networking logic, chain interactions, and disk storage.po on linking crate.
+*   [electrumrs (⭐1.1k)](https://github.com/romanz/electrs) - An efficient re-implementation of Electrum Server.
+*   [rust-lightning (⭐1.2k)](https://github.com/lightningdevkit/rust-lightning) [![Crate](https://img.shields.io/crates/v/lightning.svg?logo=rust)](https://crates.io/crates/lightning) - Bitcoin Lightning library. The main crate,`lightning`, does not handle networking, persistence, or any other I/O. Thus,it is runtime-agnostic, but users must implement basic networking logic, chain interactions, and disk storage.po on linking crate.
 
 ### Libraries / Audio and Music
 
-*   [Serial-ATA/lofty-rs (⭐183)](https://github.com/Serial-ATA/lofty-rs) \[[lofty](https://crates.io/crates/lofty)] - A library for reading and editing the metadata of various audio formats [![build badge](https://github.com/Serial-ATA/lofty-rs/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Serial-ATA/lofty-rs/actions)
+*   [Serial-ATA/lofty-rs (⭐203)](https://github.com/Serial-ATA/lofty-rs) \[[lofty](https://crates.io/crates/lofty)] - A library for reading and editing the metadata of various audio formats [![build badge](https://github.com/Serial-ATA/lofty-rs/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Serial-ATA/lofty-rs/actions)
 
 ### Libraries / Cloud
 
@@ -489,41 +475,42 @@
 ### Libraries / Network programming
 
 *   MQTT
-    *   [bytebeamio/rumqtt (⭐1.6k)](https://github.com/bytebeamio/rumqtt) - A library for developers to build applications that communicate with the [MQTT protocol](https://mqtt.org) over TCP and WebSockets, with or without TLS. [![Build and Test](https://github.com/bytebeamio/rumqtt/actions/workflows/build.yml/badge.svg)](https://github.com/bytebeamio/rumqtt/actions/workflows/build.yml)
+    *   [bytebeamio/rumqtt (⭐1.7k)](https://github.com/bytebeamio/rumqtt) - A library for developers to build applications that communicate with the [MQTT protocol](https://mqtt.org) over TCP and WebSockets, with or without TLS. [![Build and Test](https://github.com/bytebeamio/rumqtt/actions/workflows/build.yml/badge.svg)](https://github.com/bytebeamio/rumqtt/actions/workflows/build.yml)
+    *   [rmqtt/rmqtt (⭐618)](https://github.com/rmqtt/rmqtt) - MQTT Server/MQTT Broker - Scalable Distributed MQTT Message Broker for IoT in the 5G Era
 
-## [43. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [42. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / React
 
-*   [vite-rtk-query (⭐123)](https://github.com/laststance/vite-rtk-query) - React, TypeScript, Redux Toolkit, RTK Query, TailwindCSS, MSW, Jest, React Testing Library, ESLint, Prettier.
-*   [React-PWA (⭐559)](https://github.com/suren-atoyan/react-pwa) - React v18, TypeScript, Vite, React Router v6, MUI v5, Recoil, PWA, Eslint, Prettier, Husky, lint-staged, https localhost and more.
+*   [vite-rtk-query (⭐136)](https://github.com/laststance/vite-rtk-query) - React, TypeScript, Redux Toolkit, RTK Query, TailwindCSS, MSW, Jest, React Testing Library, ESLint, Prettier.
+*   [React-PWA (⭐598)](https://github.com/suren-atoyan/react-pwa) - React v18, TypeScript, Vite, React Router v6, MUI v5, Recoil, PWA, Eslint, Prettier, Husky, lint-staged, https localhost and more.
 
-### Templates / Others
+### Tauri / Others
 
-*   [chrome-ext-template-preact-windi-vite (⭐77)](https://github.com/fell-lucas/chrome-ext-template-preact-windi-vite) - Preact, Windi CSS, TypeScript, Prettier, ESLint, GitHub Actions and Chrome Extension Manifest v3.
+*   [chrome-ext-template-preact-windi-vite (⭐82)](https://github.com/fell-lucas/chrome-ext-template-preact-windi-vite) - Preact, Windi CSS, TypeScript, Prettier, ESLint, GitHub Actions and Chrome Extension Manifest v3.
 
-## [44. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [43. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### (requires Neovim 0.5)
 
-*   [onsails/lspkind.nvim (⭐1.4k)](https://github.com/onsails/lspkind.nvim) - The plugin adds vscode-like icons to Neovim LSP completions.
-*   [scalameta/nvim-metals (⭐459)](https://github.com/scalameta/nvim-metals) - Neovim plugin for Metals, the Scala language server, using Neovim's builtin LSP.
+*   [onsails/lspkind.nvim (⭐1.5k)](https://github.com/onsails/lspkind.nvim) - The plugin adds vscode-like icons to Neovim LSP completions.
+*   [scalameta/nvim-metals (⭐485)](https://github.com/scalameta/nvim-metals) - Neovim plugin for Metals, the Scala language server, using Neovim's builtin LSP.
 
 ### Motion / Diagnostics
 
-*   [ggandor/leap.nvim (⭐4.2k)](https://github.com/ggandor/leap.nvim) - A refined successor of Lightspeed, aiming to establish a widely accepted standard interface extension for moving around in Vim-like editors.
+*   [ggandor/leap.nvim (⭐4.5k)](https://github.com/ggandor/leap.nvim) - A refined successor of Lightspeed, aiming to establish a widely accepted standard interface extension for moving around in Vim-like editors.
 
-## [45. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
+## [44. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
 
 ### Tools / Building
 
 *   [esbuild-plugin-lit](https://www.npmjs.com/package/esbuild-plugin-lit) - ESBuild plugin to import CSS, SVG, HTML, XLIFF files as JavaScript tagged-template literal objects.
 
-## [46. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [45. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### CSV
 
-*   [lazycsv (⭐78)](https://github.com/ashtum/lazycsv) - A fast, lightweight and single-header csv parser for modern C++. \[MIT]
+*   [lazycsv (⭐80)](https://github.com/ashtum/lazycsv) - A fast, lightweight and single-header csv parser for modern C++. \[MIT]
 
 ---
 

@@ -69,7 +69,7 @@
 
 ### Software / Conference Management
 
-*   [pretalx](https://pretalx.org) - Web-based event management, including running a Call for Papers, reviewing submissions, and scheduling talks. Exports and imports for various related tools. ([Source Code (⭐698)](https://github.com/pretalx/pretalx)) `Apache-2.0` `Python`
+*   [pretalx](https://pretalx.org) - Web-based event management, including running a Call for Papers, reviewing submissions, and scheduling talks. Exports and imports for various related tools. ([Source Code (⭐764)](https://github.com/pretalx/pretalx)) `Apache-2.0` `Python`
 
 ## [8. Awesome Groovy](/content/kdabir/awesome-groovy/README.md)
 

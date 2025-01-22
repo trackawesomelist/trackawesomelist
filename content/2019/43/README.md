@@ -22,14 +22,14 @@
 
 ### Applications
 
-*   [jedisct1/flowgger (⭐822)](https://github.com/awslabs/flowgger) - A fast, simple and lightweight data collector
+*   [jedisct1/flowgger (⭐843)](https://github.com/awslabs/flowgger) - A fast, simple and lightweight data collector
 
 ### Libraries / GUI
 
 *   [Flutter](https://flutter.dev/)
-    *   [cunarist/rinf (⭐1.8k)](https://github.com/cunarist/rinf) - Rust as your Flutter backend, Flutter as your Rust frontend [![Build Test](https://github.com/cunarist/rinf/actions/workflows/build_test.yaml/badge.svg)](https://github.com/cunarist/rinf/actions/workflows/build_test.yaml?query=branch%3Amain)
+    *   [cunarist/rinf (⭐2.1k)](https://github.com/cunarist/rinf) - Rust as your Flutter backend, Flutter as your Rust frontend [![Build Test](https://github.com/cunarist/rinf/actions/workflows/build_test.yaml/badge.svg)](https://github.com/cunarist/rinf/actions/workflows/build_test.yaml?query=branch%3Amain)
     *   [flutter-rs (⭐2.1k)](https://github.com/flutter-rs/flutter-rs) - Build flutter desktop app in dart & rust.
-    *   [fzyzcjy/flutter\_rust\_bridge (⭐4k)](https://github.com/fzyzcjy/flutter_rust_bridge) - High-level memory-safe binding generator for Flutter/Dart <-> Rust
+    *   [fzyzcjy/flutter\_rust\_bridge (⭐4.4k)](https://github.com/fzyzcjy/flutter_rust_bridge) - High-level memory-safe binding generator for Flutter/Dart <-> Rust
 
 ## [4. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
@@ -87,7 +87,7 @@
 
 *   [Crystar (⭐38)](https://github.com/naqvis/crystar) - Readers and writers of Tar archive format
 *   [snappy (⭐18)](https://github.com/naqvis/snappy) -  Snappy compression format reader/writer for Crystal
-*   [zstd.cr (⭐41)](https://github.com/didactic-drunk/zstd.cr) - Bindings for [Zstandard (⭐23k)](https://github.com/facebook/zstd) compression library
+*   [zstd.cr (⭐41)](https://github.com/didactic-drunk/zstd.cr) - Bindings for [Zstandard (⭐24k)](https://github.com/facebook/zstd) compression library
 
 ## [12. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
 
@@ -158,7 +158,7 @@
 
 ### Tools / Reverse Engineering
 
-*   [apk-mitm (⭐3.6k)](https://github.com/shroudedcode/apk-mitm) - A CLI application that prepares Android APK files for HTTPS inspection
+*   [apk-mitm (⭐4.1k)](https://github.com/shroudedcode/apk-mitm) - A CLI application that prepares Android APK files for HTTPS inspection
 
 ## [17. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
@@ -240,7 +240,7 @@
 
 ### Frameworks • Libraries • Ecosystems
 
-*   [Canvas-sketch (⭐5k)](https://github.com/mattdesl/canvas-sketch) \[Cross-platform] - HTML5 framework for making generative artwork in JavaScript and the browser.
+*   [Canvas-sketch (⭐5.1k)](https://github.com/mattdesl/canvas-sketch) \[Cross-platform] - HTML5 framework for making generative artwork in JavaScript and the browser.
 
 ### Projection Mapping • VJing
 
@@ -390,7 +390,7 @@
 
 ### Keyboard
 
-*   [Ribbon (⭐294)](https://github.com/chriszielinski/Ribbon) - A simple cross-platform toolbar/custom input accessory view library for iOS & macOS.
+*   [Ribbon (⭐298)](https://github.com/chriszielinski/Ribbon) - A simple cross-platform toolbar/custom input accessory view library for iOS & macOS.
 
 ### Extensions / Collection View Layout
 
@@ -499,15 +499,15 @@
 
 ### Status Bar
 
-*   [tmux-network-bandwidth (⭐76)](https://github.com/xamut/tmux-network-bandwidth) Show
+*   [tmux-network-bandwidth (⭐78)](https://github.com/xamut/tmux-network-bandwidth) Show
     network bandwidth
-*   [tmux-weather (⭐60)](https://github.com/xamut/tmux-weather) Show current weather using wttr.in
+*   [tmux-weather (⭐70)](https://github.com/xamut/tmux-weather) Show current weather using wttr.in
 
 ## [43. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
 
 ### Suggested Awesome Lists / Useful References
 
-*   [Awesome JMeter (⭐687)](https://github.com/aliesbelik/awesome-jmeter) - A curated collection of resources around Apache JMeter.
+*   [Awesome JMeter (⭐732)](https://github.com/aliesbelik/awesome-jmeter) - A curated collection of resources around Apache JMeter.
 
 ## [44. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
@@ -525,11 +525,11 @@
 
 ### Routing / Runner
 
-*   [navaid (⭐762)](https://github.com/lukeed/navaid) - A navigation aid (aka, router) for the browser in 850 bytes\~!
+*   [navaid (⭐773)](https://github.com/lukeed/navaid) - A navigation aid (aka, router) for the browser in 850 bytes\~!
 
 ### API / Runner
 
-*   [wretch (⭐4.6k)](https://github.com/elbywan/wretch) - A tiny wrapper built around fetch with an intuitive syntax.
+*   [wretch (⭐4.7k)](https://github.com/elbywan/wretch) - A tiny wrapper built around fetch with an intuitive syntax.
 
 ## [45. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
 
@@ -568,11 +568,11 @@
 
 ### Software / Software Development - Project Management
 
-*   [UVDesk](https://www.uvdesk.com/) - UVDesk community is a service oriented, event driven extensible opensource helpdesk system that can be used by your organization to provide efficient support to your clients effortlessly whichever way you imagine. ([Demo](https://demo.uvdesk.com/), [Source Code (⭐8.2k)](https://github.com/uvdesk/community-skeleton)) `MIT` `PHP`
+*   [UVDesk](https://www.uvdesk.com/) - UVDesk community is a service oriented, event driven extensible opensource helpdesk system that can be used by your organization to provide efficient support to your clients effortlessly whichever way you imagine. ([Demo](https://demo.uvdesk.com/), [Source Code (⭐9.7k)](https://github.com/uvdesk/community-skeleton)) `MIT` `PHP`
 
 ### Software / Video Surveillance
 
-*   [Bluecherry](https://www.bluecherrydvr.com/) - Closed-circuit television (CCTV) software application which supports IP and Analog cameras. ([Source Code (⭐205)](https://github.com/bluecherrydvr/bluecherry-apps)) `GPL-2.0` `PHP`
+*   [Bluecherry](https://www.bluecherrydvr.com/) - Closed-circuit television (CCTV) software application which supports IP and Analog cameras. ([Source Code (⭐222)](https://github.com/bluecherrydvr/bluecherry-apps)) `GPL-2.0` `PHP`
 
 ## [50. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
@@ -607,12 +607,27 @@ Webpage: <https://www.peacecoffee.com/peace-coffee-shops/wonderland-park/>
 *   [Drupal Vendor Hardening Composer Plugin (⭐14)](https://github.com/drupal/core-vendor-hardening) - Removes extraneous directories from the project's vendor directory & adds .htaccess and web.config files to the root of the project's vendor directory.
 *   [Private-Composer-Installer (⭐224)](https://github.com/ffraenz/private-composer-installer) - Install helper outsourcing sensitive keys from the package URL into environment variables.
 
-## [54. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [54. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+
+### Resources / Tutorials
+
+*   [Frontend and Fullstack VENM-stack coding tutorials by RabbitWerks JavaScript](https://www.youtube.com/c/rabbitwerksjavascript)
+
+### Resources / Blog Posts
+
+*   [Get Started Writing Class-based Vue.js Apps in TypeScript](https://www.sitepoint.com/class-based-vue-js-typescript)
+*   [Vue.js with TypeScript](https://johnpapa.net/vue-typescript) by [John Papa](https://johnpapa.net/about/)
+
+### Projects Using Vue.js / Open Source
+
+*   [Pychat (⭐236)](https://github.com/akoidan/pychat) - Self-hosted webrtc video chat (an alternative to Slack)
+
+## [55. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Internationalization / Image Picker
 
-*   [GenLang (⭐101)](https://github.com/KingWu/gen_lang) <!--stargazers:KingWu/gen_lang--> - Code generator for Internationalization by [King Wu](https://github.com/KingWu)
-*   [Flutter Translate (⭐392)](https://github.com/bratan/flutter_translate) <!--stargazers:bratan/flutter_translate--> - Internationalization (i18n) library by [Florin Bratan](http://bratan.me)
+*   [GenLang (⭐100)](https://github.com/KingWu/gen_lang) <!--stargazers:KingWu/gen_lang--> - Code generator for Internationalization by [King Wu](https://github.com/KingWu)
+*   [Flutter Translate (⭐407)](https://github.com/bratan/flutter_translate) <!--stargazers:bratan/flutter_translate--> - Internationalization (i18n) library by [Florin Bratan](http://bratan.me)
 
 ### 🇰🇷 Korea / Misc
 
@@ -620,19 +635,19 @@ Webpage: <https://www.peacecoffee.com/peace-coffee-shops/wonderland-park/>
 *   Facebook [Flutter Korea User Group](https://www.facebook.com/groups/flutterkorea/)
 *   Slack [GDG Korea #flutter channel](http://slack.gdg.kr/)
 
-## [55. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [56. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Event
 
-*   [PHP Defer (⭐283)](https://github.com/php-defer/php-defer) - Golang's defer statement for PHP.
+*   [PHP Defer (⭐301)](https://github.com/php-defer/php-defer) - Golang's defer statement for PHP.
 
-## [56. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/week/README.md)
+## [57. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/week/README.md)
 
 ### Articles
 
 *   [Incorporate performance budgets into your build process](https://web.dev/incorporate-performance-budgets-into-your-build-tools) - Set up performance budget into your build process.
 
-## [57. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
+## [58. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
 
 ### Organizations
 
@@ -646,7 +661,7 @@ Webpage: <https://www.peacecoffee.com/peace-coffee-shops/wonderland-park/>
 
 *   [Building Open Source Software that Empowers Native Communities](https://www.youtube.com/watch?v=AAdrbrYNnPw) - By Adam Recvlohe (@arecvlohe)
 
-## [58. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [59. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Notification
 
@@ -656,7 +671,7 @@ Webpage: <https://www.peacecoffee.com/peace-coffee-shops/wonderland-park/>
 
 *   [react-final-form (⭐7.3k)](https://github.com/final-form/react-final-form) - Subscription-based form state management
 
-## [59. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+## [60. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
 ### Community
 
@@ -664,32 +679,29 @@ Webpage: <https://www.peacecoffee.com/peace-coffee-shops/wonderland-park/>
 
 ### Extensions and Utilities
 
-*   [playcanvas-node (⭐4)](https://github.com/yushimatenjin/playcanvas-node) - REST API wrapper for Node.js.
-*   [tween.js (⭐9.7k)](https://github.com/tweenjs/tween.js/) - Popular JavaScript tweening library that integrates easily with PlayCanvas.
+*   [playcanvas-node (⭐5)](https://github.com/yushimatenjin/playcanvas-node) - REST API wrapper for Node.js.
+*   [tween.js (⭐9.8k)](https://github.com/tweenjs/tween.js/) - Popular JavaScript tweening library that integrates easily with PlayCanvas.
 
 ### Interactive Experiences
 
 *   [Ride Along 2](https://vimeo.com/152996271) - Using WebGL to promote a Hollywood movie release.
 *   [Rugby World Cup](https://www.youtube.com/watch?v=onOJBCC8R7A) - Promoting the Rugby World Cup in London's Piccadilly Circus.
 
-## [60. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+## [61. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
 ### Resources / Educational
 
 *   [Classy Class-Based Views](https://ccbv.co.uk/) - Detailed descriptions of methods/properties/attributes for each generic class-based view.
-*   [Classy Django Forms (⭐27)](https://github.com/ana-balica/classy-django-forms) - Detailed descriptions of methods/properties/attributes for each form class.
+*   [Classy Django Forms (⭐28)](https://github.com/ana-balica/classy-django-forms) - Detailed descriptions of methods/properties/attributes for each form class.
 *   [Classy Django REST Framework](http://www.cdrf.co) - Detailed descriptions with methods/attributes for DRF class-based views and serializers.
 
 ### Resources / Community
 
 *   [Django Users Google Group](https://groups.google.com/forum/#!forum/django-users/) - Very active discussion board for questions/answers.
 *   [Developers Google Group](https://groups.google.com/forum/#!forum/django-developers/) - For contributions to Django itself only.
-*   [Twitter](https://twitter.com/djangoproject/) - For official announcements on updates, security fixes, etc.
 
 ### Resources / Conferences
 
-*   [PyCon Australia](https://2019.pycon-au.org/) ([YouTube Channel](https://www.youtube.com/user/PyConAU))
-*   [Euro Python](https://ep2019.europython.eu/) ([YouTube Channel](https://www.youtube.com/user/PythonItalia))
 *   [Complete listing of all PyCons globally](https://pycon.org)
 
 ### Resources / Podcasts
@@ -705,7 +717,7 @@ Webpage: <https://www.peacecoffee.com/peace-coffee-shops/wonderland-park/>
 ### Projects / Boilerplate
 
 *   [cookiecutter-django (⭐12k)](https://github.com/pydanny/cookiecutter-django/) - A full-bodied starter project, highly customizable.
-*   [DRFx (⭐479)](https://github.com/wsvincent/drfx/) - A DRF starter with user auth, Pipenv, and other goodies.
+*   [DRFx (⭐487)](https://github.com/wsvincent/drfx/) - A DRF starter with user auth, Pipenv, and other goodies.
 *   [wemake-django-template (⭐2k)](https://github.com/wemake-services/wemake-django-template/) - Bleeding edge Django template focused on code quality and security.
 *   [django-webpack-starter (⭐59)](https://github.com/khadegd/django-webpack-starter) - Django Webpack starter template for using Webpack 4.
 
@@ -717,17 +729,17 @@ Webpage: <https://www.peacecoffee.com/peace-coffee-shops/wonderland-park/>
 ### Django REST Framework / DRF Resources
 
 *   [Official Documentation](https://www.django-rest-framework.org/)
-*   [awesome-django-rest-framework (⭐1.3k)](https://github.com/nioperas06/awesome-django-rest-framework)
+*   [awesome-django-rest-framework (⭐1.4k)](https://github.com/nioperas06/awesome-django-rest-framework)
 
 ### Django REST Framework / DRF Tutorials
 
 *   [DRF with React](https://www.valentinog.com/blog/drf/)
 
-## [61. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
+## [62. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
 
 ### CI / Tools & Plugins
 
-*   [JMeter Maven Plugin (⭐425)](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin) - Maven plugin that provides the ability to run JMeter tests as part of the build.
+*   [JMeter Maven Plugin (⭐429)](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin) - Maven plugin that provides the ability to run JMeter tests as part of the build.
 
 ### Distributed Testing / Tutorials & Demo
 
@@ -739,9 +751,9 @@ Webpage: <https://www.peacecoffee.com/peace-coffee-shops/wonderland-park/>
 
 ### Related / Awesome Lists
 
-*   [Awesome Testing (⭐1.6k)](https://github.com/TheJambo/awesome-testing) - A curated list of testing resources.
+*   [Awesome Testing (⭐1.9k)](https://github.com/TheJambo/awesome-testing) - A curated list of testing resources.
 
-## [62. Awesome Wordpress Gatsby](/content/henrikwirth/awesome-wordpress-gatsby/week/README.md)
+## [63. Awesome Wordpress Gatsby](/content/henrikwirth/awesome-wordpress-gatsby/week/README.md)
 
 ### Written Tutorials / Other helpful Plugins
 
@@ -767,7 +779,7 @@ Webpage: <https://www.peacecoffee.com/peace-coffee-shops/wonderland-park/>
 *   [Gatsby WordPress Publisher Theme
     &#x20;(⭐32)](https://github.com/staticfuse/gatsby-theme-publisher) - The Gatsby Publisher Theme allows you to create a headless (or decoupled) WordPress site. This theme will display all of your pages and posts in a static front-end built on React and Gatsby.
 
-## [63. Awesome Waves](/content/msmolyakov/awesome-waves/week/README.md)
+## [64. Awesome Waves](/content/msmolyakov/awesome-waves/week/README.md)
 
 ### Projects / Swift
 
@@ -781,33 +793,6 @@ Webpage: <https://www.peacecoffee.com/peace-coffee-shops/wonderland-park/>
 
 *   [Telegram - WavesBrasil](https://t.me/WavesBrasil) - Chat de Telegram para a Comunidade da Waves.
 *   [Telegram - Waves Dev Jedi 🇧🇷 🇵🇹](https://t.me/joinchat/DtIEA0mI2HvmVbyBBodOew) - Chat de Telegram para desenvolvedores dApps.
-
-## [64. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
-
-### Resources / Tutorials
-
-*   [Frontend and Fullstack VENM-stack coding tutorials by RabbitWerks JavaScript](https://www.youtube.com/c/rabbitwerksjavascript)
-
-### Resources / Examples
-
-*   [ Personal Website that use Vue, Vuex and Vue-Router  (⭐1)](https://github.com/snturk/snturk.github.io) - A simple website example that made with vue, vuex and vue-router by [Muratcan Şentürk](https://github.com/snturk)
-
-### Resources / Blog Posts
-
-*   [Get Started Writing Class-based Vue.js Apps in TypeScript](https://www.sitepoint.com/class-based-vue-js-typescript)
-*   [Vue.js with TypeScript](https://johnpapa.net/vue-typescript) by [John Papa](https://johnpapa.net/about/)
-
-### Projects Using Vue.js / Open Source
-
-*   [Pychat (⭐231)](https://github.com/akoidan/pychat) - Self-hosted webrtc video chat (an alternative to Slack)
-
-### Components & Libraries / UI Utilities
-
-*   [vue-html-to-paper (⭐298)](https://github.com/mycurelabs/vue-html-to-paper) - Vue mixin for paper printing html elements to paper.
-
-### Components & Libraries / Utilities
-
-*   [vue-uuid (⭐73)](https://github.com/VitorLuizC/vue-uuid) - Adds UUID to Vue instance.
 
 ## [65. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
@@ -877,7 +862,7 @@ Webpage: <https://www.peacecoffee.com/peace-coffee-shops/wonderland-park/>
 
 ### GitHub Tools and Management / Docker Container Actions
 
-*   [Push Git changes to GitHub repository without authentication difficulties (⭐915)](https://github.com/ad-m/github-push-action)
+*   [Push Git changes to GitHub repository without authentication difficulties (⭐1.2k)](https://github.com/ad-m/github-push-action)
 
 ### Collection of Actions / Docker Container Actions
 
@@ -885,17 +870,17 @@ Webpage: <https://www.peacecoffee.com/peace-coffee-shops/wonderland-park/>
 
 ### Static Analysis / Security
 
-*   [A vulnerability scanner for your docker images (⭐29)](https://github.com/phonito/phonito-scanner-action)
+*   [A vulnerability scanner for your docker images (⭐31)](https://github.com/phonito/phonito-scanner-action)
 
 ### Deployment / Code Coverage
 
-*   [GitHub Action for Homebrew Tap (⭐10)](https://github.com/izumin5210/action-homebrew-tap)
-*   [Deploy a Collection to Ansible Galaxy (⭐32)](https://github.com/artis3n/ansible_galaxy_collection)
+*   [GitHub Action for Homebrew Tap (⭐12)](https://github.com/izumin5210/action-homebrew-tap)
+*   [Deploy a Collection to Ansible Galaxy (⭐88)](https://github.com/artis3n/ansible_galaxy_collection)
 
 ### Machine Learning Ops / Terraform
 
-*   [Submitting Argo Workflows (Cloud Agnostic) (⭐30)](https://github.com/machine-learning-apps/actions-argo)
-*   [Submitting Argo Workflows to GKE (⭐13)](https://github.com/machine-learning-apps/gke-argo)
+*   [Submitting Argo Workflows (Cloud Agnostic) (⭐38)](https://github.com/machine-learning-apps/actions-argo)
+*   [Submitting Argo Workflows to GKE (⭐16)](https://github.com/machine-learning-apps/gke-argo)
 
 ## [71. Awesome Vapor](/content/vapor-community/awesome-vapor/week/README.md)
 
@@ -948,10 +933,6 @@ Webpage: <https://www.peacecoffee.com/peace-coffee-shops/wonderland-park/>
 ### Management System
 
 *   [moss.sh](https://moss.sh) - Help developers deploy and manage their web apps and servers. Free up to 25 git deployments per month
-
-### Email
-
-*   [cloudmersive.com](https://www.cloudmersive.com/email-verification-api) — Email validation and verification API for developers, 800 free API requests/month
 
 ### Tunneling, WebRTC, Web Socket Servers and Other Routers
 

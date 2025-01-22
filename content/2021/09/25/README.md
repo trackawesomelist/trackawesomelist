@@ -10,8 +10,8 @@
 
 ### Starter Templates
 
-*   [Vite Lit Starter (⭐66k)](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-lit) - Lit based template preset for Vite.
-*   [Vite Lit TS Starter (⭐66k)](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-lit-ts) - Lit and TypeScript based template preset for Vite.
+*   [Vite Lit Starter (⭐67k)](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-lit) - Lit based template preset for Vite.
+*   [Vite Lit TS Starter (⭐67k)](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-lit-ts) - Lit and TypeScript based template preset for Vite.
 
 ### Extensions
 
@@ -19,7 +19,7 @@
 
 ### Design Systems
 
-*   [Outline Design System (⭐123)](https://github.com/phase2/outline) - Web component based design system starter kit.
+*   [Outline Design System (⭐126)](https://github.com/phase2/outline) - Web component based design system starter kit.
 
 ### Integrations / Other Tools
 
@@ -43,13 +43,13 @@
 
 ### Tools
 
-*   [Pi-Apps (⭐1.9k)](https://github.com/Botspot/pi-apps) - The most popular app store for Raspberry Pi computers, 100% open-source bash scripts.
+*   [Pi-Apps (⭐2k)](https://github.com/Botspot/pi-apps) - The most popular app store for Raspberry Pi computers, 100% open-source bash scripts.
 
 ## [4. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 
 ### Exfiltration Tools / Zealandia
 
-*   [QueenSono (⭐140)](https://github.com/ariary/QueenSono) - Client/Server Binaries for data exfiltration with ICMP. Useful in a network where ICMP protocol is less monitored than others (which is a common case).
+*   [QueenSono (⭐144)](https://github.com/ariary/QueenSono) - Client/Server Binaries for data exfiltration with ICMP. Useful in a network where ICMP protocol is less monitored than others (which is a common case).
 
 ---
 

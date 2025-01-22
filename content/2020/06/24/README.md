@@ -28,7 +28,7 @@
 
 ### Third-Party Packages / Models
 
-*   [django-polymorphic (⭐1.6k)](https://github.com/django-polymorphic/django-polymorphic) - Django-polymorphic simplifies using inherited models in Django projects.
+*   [django-polymorphic (⭐1.7k)](https://github.com/django-polymorphic/django-polymorphic) - Django-polymorphic simplifies using inherited models in Django projects.
 
 ## [5. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
@@ -40,13 +40,13 @@
 
 ### Tools and session management
 
-*   [dmux (⭐305)](https://github.com/zdcthomas/dmux) Configurable tmux workspace manager written in Rust
+*   [dmux (⭐316)](https://github.com/zdcthomas/dmux) Configurable tmux workspace manager written in Rust
 
 ## [7. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Intermediate
 
-*   [Lisp Tips (⭐118)](https://github.com/lisp-tips/lisp-tips/issues/) - A blog with useful tips and tricks. A continuation of [Common Lisp tips](http://lisptips.com/).
+*   [Lisp Tips (⭐123)](https://github.com/lisp-tips/lisp-tips/issues/) - A blog with useful tips and tricks.
 *   [Lisp project of the day](http://40ants.com/lisp-project-of-the-day/) - A blog showcasing many Lisp libraries.
 
 ## [8. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)

@@ -10,7 +10,7 @@
 
 ### (requires Neovim 0.5)
 
-*   [stevearc/aerial.nvim (⭐1.6k)](https://github.com/stevearc/aerial.nvim) - A code outline window for skimming and quick navigation.
+*   [stevearc/aerial.nvim (⭐1.9k)](https://github.com/stevearc/aerial.nvim) - A code outline window for skimming and quick navigation.
 
 ## [2. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
@@ -22,7 +22,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [Evidently (⭐5k)](https://github.com/evidentlyai/evidently): Interactive reports to analyze machine learning models during validation or production monitoring.
+*   [Evidently (⭐5.5k)](https://github.com/evidentlyai/evidently): Interactive reports to analyze machine learning models during validation or production monitoring.
 
 ## [4. Awesome Minecraft](/content/bs-community/awesome-minecraft/README.md)
 
@@ -86,7 +86,7 @@
 
 ### Components & Libraries / Frameworks
 
-*   [vuestic-admin (⭐10k)](https://github.com/epicmaxco/vuestic-admin) - Vue Admin Dashboard built with Vue 3 and `vuestic-ui`.
+*   [vuestic-admin (⭐11k)](https://github.com/epicmaxco/vuestic-admin) - Vue Admin Dashboard built with Vue 3 and `vuestic-ui`.
 
 ---
 

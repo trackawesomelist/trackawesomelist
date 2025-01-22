@@ -16,7 +16,7 @@
 
 ### Third-Party Packages / APIs
 
-*   [drf-spectacular (⭐2.3k)](https://github.com/tfranzel/drf-spectacular) - Sane and flexible OpenAPI 3 schema generation for Django REST framework.
+*   [drf-spectacular (⭐2.5k)](https://github.com/tfranzel/drf-spectacular) - Sane and flexible OpenAPI 3 schema generation for Django REST framework.
 
 ## [3. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
@@ -34,21 +34,21 @@
 
 ### Utility / Diagnostics
 
-*   [yagiziskirik/AirSupport.nvim (⭐8)](https://github.com/yagiziskirik/AirSupport.nvim) - Searchable reminder window for your custom shortcuts and commands.
+*   [yagiziskirik/AirSupport.nvim (⭐9)](https://github.com/yagiziskirik/AirSupport.nvim) - Searchable reminder window for your custom shortcuts and commands.
 
 ### Code Runner / Diagnostics
 
-*   [google/executor.nvim (⭐143)](https://github.com/google/executor.nvim) - Allows you to run command line tasks in the background and be notified of results.
+*   [google/executor.nvim (⭐149)](https://github.com/google/executor.nvim) - Allows you to run command line tasks in the background and be notified of results.
 
 ## [6. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Others
 
-*   [Netflix microfrontend like (⭐26)](https://github.com/piral-samples/netflix-demo) - ![stars](https://img.shields.io/github/stars/piral-samples/netflix-demo?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/piral-samples/netflix-demo?style=flat-square\&cacheSeconds=86400) A netflix-like portal application with pilets. This sample demonstrates the use of piral to build a dynamic app consisting of various micro frontends. [Demo](https://notflix-demo.samples.piral.cloud/browse).
+*   [Netflix microfrontend like (⭐30)](https://github.com/piral-samples/netflix-demo) - ![stars](https://img.shields.io/github/stars/piral-samples/netflix-demo?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/piral-samples/netflix-demo?style=flat-square\&cacheSeconds=86400) A netflix-like portal application with pilets. This sample demonstrates the use of piral to build a dynamic app consisting of various micro frontends. [Demo](https://notflix-demo.samples.piral.cloud/browse).
 
 ### Videos / Others
 
-*   [On .NET Live - Micro Frontends with Blazor](https://www.youtube.com/watch?v=t8w_OTkafNE) - ![duration](https://img.shields.io/badge/Duration:%20-62%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) May 22, 2023 - Have you ever considered writing microservices in Blazor? In this week's episode, community MVP Florian Rappl joins us to talk about micro frontends. He'll show us how to break a Blazor UI into modules for maintainability and development by decoupled teams. ![stars](https://img.shields.io/github/stars/piral-samples/netflix-demo?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/piral-samples/netflix-demo?style=flat-square\&cacheSeconds=86400) [Sample repo (⭐26)](https://github.com/piral-samples/netflix-demo). [Demo](https://notflix-demo.samples.piral.cloud/browse).
+*   [On .NET Live - Micro Frontends with Blazor](https://www.youtube.com/watch?v=t8w_OTkafNE) - ![duration](https://img.shields.io/badge/Duration:%20-62%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) May 22, 2023 - Have you ever considered writing microservices in Blazor? In this week's episode, community MVP Florian Rappl joins us to talk about micro frontends. He'll show us how to break a Blazor UI into modules for maintainability and development by decoupled teams. ![stars](https://img.shields.io/github/stars/piral-samples/netflix-demo?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/piral-samples/netflix-demo?style=flat-square\&cacheSeconds=86400) [Sample repo (⭐30)](https://github.com/piral-samples/netflix-demo). [Demo](https://notflix-demo.samples.piral.cloud/browse).
 
 ---
 

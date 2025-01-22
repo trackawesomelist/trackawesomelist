@@ -23,15 +23,15 @@
 
 ### Command Line
 
-*   [SwiftyTextTable (⭐312)](https://github.com/scottrhoyt/SwiftyTextTable) :penguin: - A lightweight library to generate text tables.
+*   [SwiftyTextTable (⭐317)](https://github.com/scottrhoyt/SwiftyTextTable) :penguin: - A lightweight library to generate text tables.
 
 ### Embedded Systems
 
-*   [SwiftyGPIO (⭐1.3k)](https://github.com/uraimo/SwiftyGPIO) :penguin: - Interact with Linux GPIO/SPI/PWM on ARM.
+*   [SwiftyGPIO (⭐1.4k)](https://github.com/uraimo/SwiftyGPIO) :penguin: - Interact with Linux GPIO/SPI/PWM on ARM.
 
 ### Logging / Barcode
 
-*   [Duration (⭐324)](https://github.com/SwiftStudies/Duration) :penguin: - Lightweight logging library focused on reporting timings for operations.
+*   [Duration (⭐325)](https://github.com/SwiftStudies/Duration) :penguin: - Lightweight logging library focused on reporting timings for operations.
 
 ### Socket / Barcode
 

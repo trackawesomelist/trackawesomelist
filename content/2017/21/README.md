@@ -40,7 +40,7 @@
 
 ### Utilities
 
-*   [Vert.x Web Accesslog (⭐26)](https://github.com/romanpierson/vertx-web-accesslog) - Just a simple handler to be used in Vert.x Web to generate access logs.
+*   [Vert.x Web Accesslog (⭐29)](https://github.com/romanpierson/vertx-web-accesslog) - Just a simple handler to be used in Vert.x Web to generate access logs.
 
 ## [6. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
 
@@ -107,10 +107,6 @@
 ### Tools / Others
 
 *   [Qbserve](https://qotoqot.com/qbserve/) - Time tracking automation: freelance project tracking, timesheets, invoicing & real-time productivity feedback (Mac).
-
-### Articles & Posts
-
-*   [My Remote Developer Life](https://shift.infinite.red/my-remote-developer-life-ama-bb91fa7bd0bd#.kjpehbcab)
 
 ### Companies with "remote DNA"
 
@@ -374,7 +370,7 @@
 
 *   [Apache Cassandra](http://cassandra.apache.org) - Column-oriented and providing high availability with no single point of failure.
 *   [Infinispan](http://infinispan.org/) - Highly concurrent key/value datastore used for caching.
-*   [InfluxDB (⭐28k)](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics.
+*   [InfluxDB (⭐29k)](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics.
 *   [OpenTSDB](http://opentsdb.net) - Scalable and distributed time series database written on top of Apache HBase.
 
 ## [28. Awesome Pyramid](/content/uralbash/awesome-pyramid/week/README.md)
@@ -422,11 +418,11 @@
 
 ### Networking
 
-*   [Breep (⭐138)](https://github.com/Organic-Code/Breep) - Event based, high-level C++14 peer-to-peer library. \[EUPL-1.1 (OSI approved)]
+*   [Breep (⭐143)](https://github.com/Organic-Code/Breep) - Event based, high-level C++14 peer-to-peer library. \[EUPL-1.1 (OSI approved)]
 
 ### Miscellaneous
 
-*   [Kangaru (⭐475)](https://github.com/gracicot/kangaru) - A dependency injection container for C++11 and C++14. \[MIT]
+*   [Kangaru (⭐508)](https://github.com/gracicot/kangaru) - A dependency injection container for C++11 and C++14. \[MIT]
 
 ## [32. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
@@ -434,12 +430,6 @@
 
 *   [Add a headless CMS to VueJs in 5 Minutes](https://www.storyblok.com/tp/add-a-headless-CMS-to-vuejs-in-5-minutes)
 *   [vue 架构中的 Watcher (⭐0)](https://github.com/dengwanc/dengwanc.github.io/issues/11)
-
-### Components & Libraries / UI Components
-
-*   [vue-image-lightbox (⭐347)](https://github.com/pexea12/vue-image-lightbox) - A Vue image lightbox/gallery to display images nicely.
-*   [vue2-simplert (⭐214)](https://github.com/mazipan/vue2-simplert) - Vue 2 Simple Alert Component (SweetAlert Inspired) By Irfan Maulana
-*   [vue-model-autoset (⭐17)](https://github.com/outluch/vue-model-autoset) - A Vue.js plugin to workaround Vue limitation in observing dynamically added properties with v-model directive
 
 ## [33. Awesome Uncopyright](/content/johnjago/awesome-uncopyright/week/README.md)
 
@@ -477,7 +467,7 @@
 
 ### Go / Natural Language Processing
 
-*   [word-embedding (⭐465)](https://github.com/ynqa/word-embedding) - Word Embeddings: the full implementation of word2vec, GloVe in Go.
+*   [word-embedding (⭐476)](https://github.com/ynqa/word-embedding) - Word Embeddings: the full implementation of word2vec, GloVe in Go.
 
 ### Java / General-Purpose Machine Learning
 

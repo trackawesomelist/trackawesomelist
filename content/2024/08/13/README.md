@@ -10,7 +10,7 @@
 
 ### Distributions / Webinterface
 
-*   [nixbsd (⭐393)](https://github.com/nixos-bsd/nixbsd) - A NixOS fork with a FreeBSD kernel.
+*   [nixbsd (⭐546)](https://github.com/nixos-bsd/nixbsd) - A NixOS fork with a FreeBSD kernel.
 *   [SnowflakeOS](https://snowflakeos.org/) - A NixOS-based Linux distribution focused on beginner friendliness and ease of use.
 
 ## [2. Awesome Minecraft](/content/bs-community/awesome-minecraft/README.md)
@@ -23,43 +23,39 @@
 
 ### Colorscheme Switchers / Diagnostics
 
-*   [BrunoCiccarino/gardenal (⭐3)](https://github.com/BrunoCiccarino/gardenal) - Gardenal is a theme switcher, which allows the user to create keyboard shortcuts to switch between themes with one click.
+*   [BrunoCiccarino/gardenal (⭐6)](https://github.com/BrunoCiccarino/gardenal) - Gardenal is a theme switcher, which allows the user to create keyboard shortcuts to switch between themes with one click.
 
 ### Utility / Diagnostics
 
-*   [SunnyTamang/pendulum.nvim (⭐5)](https://github.com/SunnyTamang/pendulum.nvim) - Simple timer for creating time based productive sessions for coders, competitive programmers, developers etc.
+*   [SunnyTamang/pendulum.nvim (⭐11)](https://github.com/SunnyTamang/pendulum.nvim) - Simple timer for creating time based productive sessions for coders, competitive programmers, developers etc.
 
 ## [4. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Data Integration Frameworks
 
-*   [Benthos (⭐8k)](https://github.com/benthosdev/benthos) - A message streaming bridge between a range of protocols.
-*   [CloudQuery (⭐5.7k)](http://github.com/cloudquery/cloudquery) - A high-performance ELT data integration framework with pluggable architecture.
+*   [Benthos (⭐8.2k)](https://github.com/benthosdev/benthos) - A message streaming bridge between a range of protocols.
+*   [CloudQuery (⭐5.9k)](http://github.com/cloudquery/cloudquery) - A high-performance ELT data integration framework with pluggable architecture.
 
 ### Goroutines
 
-*   [async (⭐3)](https://github.com/yaitoo/async) - An asynchronous task package with async/await style for Go.
-*   [rill (⭐463)](https://github.com/destel/rill) - Go concurrency with channel transformations. No boilerplate, type safety, batching and error handling.
+*   [async (⭐9)](https://github.com/yaitoo/async) - An asynchronous task package with async/await style for Go.
+*   [rill (⭐1.5k)](https://github.com/destel/rill) - Go toolkit for clean, composable, channel-based concurrency.
 
 ### GUI
 
-*   [Cogent Core (⭐1.7k)](https://github.com/cogentcore/core) - A framework for building 2D and 3D apps that run on macOS, Windows, Linux, iOS, Android, and the web.
-
-### Job Scheduler
-
-*   [Cadence-client (⭐344)](https://github.com/uber-go/cadence-client) - A framework for authoring workflows and activities running on top of the Cadence orchestration engine made by Uber.
+*   [Cogent Core (⭐1.8k)](https://github.com/cogentcore/core) - A framework for building 2D and 3D apps that run on macOS, Windows, Linux, iOS, Android, and the web.
 
 ### Messaging
 
-*   [rabbitroutine (⭐109)](https://github.com/furdarius/rabbitroutine) - Lightweight library that handles RabbitMQ auto-reconnect and publishing retries. The library takes into account the need to re-declare entities in RabbitMQ after reconnection.
+*   [rabbitroutine (⭐110)](https://github.com/furdarius/rabbitroutine) - Lightweight library that handles RabbitMQ auto-reconnect and publishing retries. The library takes into account the need to re-declare entities in RabbitMQ after reconnection.
 
 ### Language Detection
 
-*   [lingua-go (⭐1.1k)](https://github.com/pemistahl/lingua-go) - An accurate natural language detection library, suitable for long and short text alike. Supports detecting multiple languages in mixed-language text.
+*   [lingua-go (⭐1.2k)](https://github.com/pemistahl/lingua-go) - An accurate natural language detection library, suitable for long and short text alike. Supports detecting multiple languages in mixed-language text.
 
 ### Testing Frameworks
 
-*   [arch-go (⭐151)](https://github.com/fdaines/arch-go) - Architecture testing tool for Go projects.
+*   [arch-go (⭐1)](https://github.com/fdaines/arch-go) - Architecture testing tool for Go projects.
 
 ### Parsers/Encoders/Decoders
 
@@ -73,22 +69,26 @@
 
 *   [fastuuid (⭐0)](https://github.com/rekby/fastuuid) - Fast generate UUIDv4 as string or bytes.
 
+### Workflow Frameworks / Libraries for creating HTTP middlewares
+
+*   [Cadence-client (⭐353)](https://github.com/uber-go/cadence-client) - A framework for authoring workflows and activities running on top of the Cadence orchestration engine made by Uber.
+
 ### Benchmarks / Libraries for creating HTTP middlewares
 
-*   [golang-benchmarks (⭐130)](https://github.com/SimonWaldherr/golang-benchmarks) - a collection of golang benchmarks.
+*   [golang-benchmarks (⭐133)](https://github.com/SimonWaldherr/golang-benchmarks) - a collection of golang benchmarks.
 
 ## [5. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Machine Learning
 
-*   [iOS-GenAI-Sampler (⭐59)](https://github.com/shu223/iOS-GenAI-Sampler) - A collection of Generative AI examples on iOS.
+*   [iOS-GenAI-Sampler (⭐93)](https://github.com/shu223/iOS-GenAI-Sampler) - A collection of Generative AI examples on iOS.
 
 ## [6. Magictools](/content/ellisonleao/magictools/README.md)
 
 ### Music and Audio Editors / Voxel Editors
 
 *   :free: [Famistudio (⭐1.6k)](https://github.com/BleuBleu/FamiStudio) - FamiStudio NES Music Editor.
-*   :free: [FamiTracker (⭐362)](https://github.com/Dn-Programming-Core-Management/Dn-FamiTracker) - free windows tracker for producing music for the NES/Famicom-systems.
+*   :free: [FamiTracker (⭐389)](https://github.com/Dn-Programming-Core-Management/Dn-FamiTracker) - free windows tracker for producing music for the NES/Famicom-systems.
 
 ## [7. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
@@ -100,7 +100,7 @@
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [sorin-modified-dark (⭐0)](https://github.com/hrmeetsingh/sorin-modified-dark) - Based on [sorin (⭐172k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#sorin). Minimalist, adds decorators for `git` status and current directory.
+*   [sorin-modified-dark (⭐0)](https://github.com/hrmeetsingh/sorin-modified-dark) - Based on [sorin (⭐175k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#sorin). Minimalist, adds decorators for `git` status and current directory.
 
 ## [9. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
@@ -112,19 +112,19 @@
 
 ### Databases / ORMs
 
-*   [Edgy ORM (⭐142)](https://github.com/dymmond/edgy) - Complex databases made simple.
+*   [Edgy ORM (⭐215)](https://github.com/dymmond/edgy) - Complex databases made simple.
 
 ### Official Resources / Other Tools
 
-*   [Source Code (⭐75k)](https://github.com/fastapi/fastapi) - Hosted on GitHub.
+*   [Source Code (⭐79k)](https://github.com/fastapi/fastapi) - Hosted on GitHub.
 
 ### PaaS / Other Tools
 
-*   [Fly](https://fly.io) ([tutorial](https://fly.io/docs/python/frameworks/fastapi/), [Deploy from a Git repo (⭐2)](https://github.com/fly-apps/hello-fastapi))
+*   [Fly](https://fly.io) ([tutorial](https://fly.io/docs/python/frameworks/fastapi/), [Deploy from a Git repo (⭐5)](https://github.com/fly-apps/hello-fastapi))
 
 ### Boilerplate / Other Tools
 
-*   [Full Stack FastAPI and PostgreSQL - Base Project Generator (⭐25k)](https://github.com/fastapi/full-stack-fastapi-template) - Full Stack FastAPI Template
+*   [Full Stack FastAPI and PostgreSQL - Base Project Generator (⭐29k)](https://github.com/fastapi/full-stack-fastapi-template) - Full Stack FastAPI Template
     , which includes FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS, and more (developed by the creator of FastAPI, [Sebastián Ramírez](https://github.com/tiangolo)).
 
 ---

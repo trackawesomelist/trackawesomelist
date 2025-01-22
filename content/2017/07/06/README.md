@@ -16,7 +16,7 @@
 
 ### Monitoring & Quality Control
 
-*   [Jack Meter (⭐43)](https://github.com/njh/jackmeter) - Text console based DPM (Digital Peak Meter) for JACK.
+*   [Jack Meter (⭐44)](https://github.com/njh/jackmeter) - Text console based DPM (Digital Peak Meter) for JACK.
 
 ## [3. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
 
@@ -234,7 +234,7 @@
 
 ### Libraries for driving the protocol (or a layer above)
 
-*   C#/dotnet: [chrome-dev-tools (⭐76)](https://github.com/BaristaLabs/chrome-dev-tools) - Protocol wrapper generator that can be customized by editing handlebars templates. Includes .Net Core template.
+*   C#/dotnet: [chrome-dev-tools (⭐79)](https://github.com/BaristaLabs/chrome-dev-tools) - Protocol wrapper generator that can be customized by editing handlebars templates. Includes .Net Core template.
 
 ## [8. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/README.md)
 
@@ -267,11 +267,11 @@
 
 ### CLI
 
-*   [ReadLine (⭐804)](https://github.com/tonerdo/readline) - A GNU-Readline like library for .NET/.NET Core.
+*   [ReadLine (⭐812)](https://github.com/tonerdo/readline) - A GNU-Readline like library for .NET/.NET Core.
 
 ### Cloud Storage
 
-*   [Foundatio (⭐1.9k)](https://github.com/FoundatioFx/Foundatio#jobs) - Cloud Storage library with AWS, Azure and many other providers supported.
+*   [Foundatio (⭐2k)](https://github.com/FoundatioFx/Foundatio#jobs) - Cloud Storage library with AWS, Azure and many other providers supported.
 
 ### Decompilation
 
@@ -305,13 +305,13 @@
 
 ### Network Tools / Network Reconnaissance Tools
 
-*   [dnsenum (⭐575)](https://github.com/fwaeytens/dnsenum/) - Perl script that enumerates DNS information from a domain, attempts zone transfers, performs a brute force dictionary style attack, and then performs reverse look-ups on the results.
-*   [dnsmap (⭐110)](https://github.com/makefu/dnsmap/) - Passive DNS network mapper.
-*   [dnsrecon (⭐2.5k)](https://github.com/darkoperator/dnsrecon/) - DNS enumeration script.
+*   [dnsenum (⭐614)](https://github.com/fwaeytens/dnsenum/) - Perl script that enumerates DNS information from a domain, attempts zone transfers, performs a brute force dictionary style attack, and then performs reverse look-ups on the results.
+*   [dnsmap (⭐112)](https://github.com/makefu/dnsmap/) - Passive DNS network mapper.
+*   [dnsrecon (⭐2.7k)](https://github.com/darkoperator/dnsrecon/) - DNS enumeration script.
 *   [dnstracer](http://www.mavetju.org/unix/dnstracer.php) - Determines where a given DNS server gets its information from, and follows the chain of DNS servers.
-*   [passivedns-client (⭐197)](https://github.com/chrislee35/passivedns-client) - Library and query tool for querying several passive DNS providers.
+*   [passivedns-client (⭐199)](https://github.com/chrislee35/passivedns-client) - Library and query tool for querying several passive DNS providers.
 *   [passivedns (⭐1.7k)](https://github.com/gamelinux/passivedns) - Network sniffer that logs all DNS server replies for use in a passive DNS setup.
-*   [smbmap (⭐1.7k)](https://github.com/ShawnDEvans/smbmap) - Handy SMB enumeration tool.
+*   [smbmap (⭐1.8k)](https://github.com/ShawnDEvans/smbmap) - Handy SMB enumeration tool.
 
 ## [14. Awesome Lockpicking](/content/fabacab/awesome-lockpicking/README.md)
 

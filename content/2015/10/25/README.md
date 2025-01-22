@@ -55,7 +55,7 @@
 
 ### JSON
 
-*   [jose (⭐306)](https://github.com/potatosalad/erlang-jose) - JSON Object Signing and Encryption (JOSE) for Erlang and Elixir.
+*   [jose (⭐314)](https://github.com/potatosalad/erlang-jose) - JSON Object Signing and Encryption (JOSE) for Erlang and Elixir.
 
 ## [3. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
 
@@ -68,7 +68,7 @@
 
 ### Deployment
 
-*   [DbUp (⭐2.3k)](https://github.com/DbUp/DbUp) - .NET library that helps you to deploy changes to SQL Server databases. It tracks which SQL scripts have been run already, and runs the change scripts that are needed to get your database up to date
+*   [DbUp (⭐2.4k)](https://github.com/DbUp/DbUp) - .NET library that helps you to deploy changes to SQL Server databases. It tracks which SQL scripts have been run already, and runs the change scripts that are needed to get your database up to date
 
 ### Office
 

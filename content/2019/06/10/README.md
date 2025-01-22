@@ -26,7 +26,7 @@
 
 ### Scala / Symfony2
 
-*   [Chaos (⭐249)](https://github.com/mesosphere/chaos) - A lightweight framework for writing REST services in Scala.
+*   [Chaos (⭐250)](https://github.com/mesosphere/chaos) - A lightweight framework for writing REST services in Scala.
 
 ## [4. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
@@ -114,7 +114,7 @@
 
 ### Graphic Displays
 
-*   [ggstatsplot (⭐1.9k)](https://github.com/IndrajeetPatil/ggstatsplot) - ggplot2 Based Plots with Statistical Details
+*   [ggstatsplot (⭐2k)](https://github.com/IndrajeetPatil/ggstatsplot) - ggplot2 Based Plots with Statistical Details
 
 ## [14. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
@@ -130,7 +130,7 @@
 
 ### Security
 
-*   [Fuzzing (⭐808)](https://github.com/cpuu/awesome-fuzzing#readme) - Automated software testing technique that involves feeding pseudo-randomly generated input data.
+*   [Fuzzing (⭐847)](https://github.com/cpuu/awesome-fuzzing#readme) - Automated software testing technique that involves feeding pseudo-randomly generated input data.
 
 ---
 

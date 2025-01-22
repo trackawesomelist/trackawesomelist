@@ -62,13 +62,13 @@
 
 ### Projects
 
-*   [karaoke-rs (⭐157)](https://github.com/tarkah/karaoke-rs) - A simple, network enabled karaoke player in Rust.
+*   [karaoke-rs (⭐165)](https://github.com/tarkah/karaoke-rs) - A simple, network enabled karaoke player in Rust.
 
 ## [4. Awesome Java](/content/akullpp/awesome-java/README.md)
 
 ### Bean Mapping
 
-*   [JMapper (⭐225)](https://github.com/jmapper-framework/jmapper-core) - Uses byte code manipulation for lightning-fast mapping. Supports annotations and API or XML configuration.
+*   [JMapper (⭐231)](https://github.com/jmapper-framework/jmapper-core) - Uses byte code manipulation for lightning-fast mapping. Supports annotations and API or XML configuration.
 *   [ModelMapper (⭐2.3k)](https://github.com/modelmapper/modelmapper) - Intelligent object mapping library that automatically maps objects to each other.
 
 ### Build
@@ -97,7 +97,7 @@
 
 ### Code Generators / Text-Based User Interfaces
 
-*   [FreeBuilder (⭐828)](https://github.com/inferred/FreeBuilder) - Automatically generates the Builder pattern.
+*   [FreeBuilder (⭐839)](https://github.com/inferred/FreeBuilder) - Automatically generates the Builder pattern.
 *   [Joda-Beans](https://www.joda.org/joda-beans/) - Small framework that adds queryable properties to Java, enhancing JavaBeans.
 
 ### Compiler-compiler / Text-Based User Interfaces
@@ -124,49 +124,48 @@
 *   [Apache Orc](https://orc.apache.org) - Fast and efficient columnar storage format for Hadoop-based workloads.
 *   [Apache Parquet](https://parquet.apache.org) - Columnar storage format based on assembly algorithms from Google's paper on Dremel.
 *   [Apache Thrift](https://thrift.apache.org) - Data interchange format that originated at Facebook.
-*   [Big Queue (⭐552)](https://github.com/bulldog2011/bigqueue) - Fast and persistent queue based on memory-mapped files.
-*   [HyperMinHash-java (⭐53)](https://github.com/LiveRamp/HyperMinHash-java) - Probabilistic data structure for computing union, intersection, and set cardinality in loglog space.
-*   [Persistent Collection (⭐759)](https://github.com/hrldcpr/pcollections) - Persistent and immutable analogue of the Java Collections Framework.
-*   [Protobuf (⭐65k)](https://github.com/protocolbuffers/protobuf) - Google's data interchange format.
-*   [SBE (⭐3k)](https://github.com/real-logic/simple-binary-encoding) - Simple Binary Encoding, one of the fastest message formats around.
+*   [Big Queue (⭐557)](https://github.com/bulldog2011/bigqueue) - Fast and persistent queue based on memory-mapped files.
+*   [HyperMinHash-java (⭐54)](https://github.com/LiveRamp/HyperMinHash-java) - Probabilistic data structure for computing union, intersection, and set cardinality in loglog space.
+*   [Persistent Collection (⭐765)](https://github.com/hrldcpr/pcollections) - Persistent and immutable analogue of the Java Collections Framework.
+*   [Protobuf (⭐66k)](https://github.com/protocolbuffers/protobuf) - Google's data interchange format.
+*   [SBE (⭐3.1k)](https://github.com/real-logic/simple-binary-encoding) - Simple Binary Encoding, one of the fastest message formats around.
 *   [Tape (⭐2.5k)](https://github.com/square/tape) - Lightning-fast, transactional, file-based FIFO.
 *   [Wire (⭐4.2k)](https://github.com/square/wire) - Clean, lightweight protocol buffers.
 
 ### Database / Text-Based User Interfaces
 
-*   [eXist (⭐415)](https://github.com/eXist-db/exist) - NoSQL document database and application platform. (LGPL-2.1-only)
-*   [Modality (⭐12)](https://github.com/arkanovicz/modality) - Lightweight ORM with database reverse engineering features.
+*   [eXist (⭐429)](https://github.com/eXist-db/exist) - NoSQL document database and application platform. (LGPL-2.1-only)
+*   [Modality (⭐13)](https://github.com/arkanovicz/modality) - Lightweight ORM with database reverse engineering features.
 *   [Redisson (⭐23k)](https://github.com/redisson/redisson) - Allows for distributed and scalable data structures on top of a Redis server.
 *   [requery (⭐3.1k)](https://github.com/requery/requery) - Modern, lightweight but powerful object mapping and SQL generator. Easily map to or create databases, or perform queries and updates from any Java-using platform.
 
 ### Dependency Injection / Text-Based User Interfaces
 
 *   [Dagger](https://dagger.dev/) - Compile-time injection framework without reflection.
-*   [HK2](https://javaee.github.io/hk2/) - Lightweight and dynamic dependency injection framework.
 
 ### Development / Text-Based User Interfaces
 
 *   [AspectJ](https://www.eclipse.org/aspectj/) - Seamless aspect-oriented programming extension.
-*   [JavaSymbolSolver (⭐291)](https://github.com/javaparser/javasymbolsolver) - Symbol solver.
-*   [Manifold (⭐2.3k)](https://github.com/manifold-systems/manifold) - Re-energizes Java with powerful features like type-safe metaprogramming, structural typing and extension methods.
+*   [JavaSymbolSolver (⭐290)](https://github.com/javaparser/javasymbolsolver) - Symbol solver.
+*   [Manifold (⭐2.4k)](https://github.com/manifold-systems/manifold) - Re-energizes Java with powerful features like type-safe metaprogramming, structural typing and extension methods.
 
 ### Distributed Applications / Text-Based User Interfaces
 
 *   [Axon](https://axoniq.io) - Framework for creating CQRS applications.
 *   [Quasar](http://docs.paralleluniverse.co/quasar/) - Lightweight threads and actors for the JVM.
-*   [ScaleCube Services (⭐604)](https://github.com/scalecube/scalecube-services) - Embeddable Cluster-Membership library based on SWIM and gossip protocol.
-*   [Zuul (⭐13k)](https://github.com/Netflix/zuul) - Gateway service that provides dynamic routing, monitoring, resiliency, security, and more.
+*   [ScaleCube Services (⭐611)](https://github.com/scalecube/scalecube-services) - Embeddable Cluster-Membership library based on SWIM and gossip protocol.
+*   [Zuul (⭐14k)](https://github.com/Netflix/zuul) - Gateway service that provides dynamic routing, monitoring, resiliency, security, and more.
 
 ### Distributed Transactions / Text-Based User Interfaces
 
-*   [Bitronix (⭐422)](https://github.com/bitronix/btm) - Simple but complete implementation of the JTA 1.1 API.
+*   [Bitronix (⭐426)](https://github.com/bitronix/btm) - Simple but complete implementation of the JTA 1.1 API.
 *   [Narayana](https://narayana.io) - Provides support for traditional ACID and compensation transactions, also complies with JTA, JTS and other standards. (LGPL-2.1-only)
 
 ### Distribution / Text-Based User Interfaces
 
 *   [Capsule (⭐1.1k)](https://github.com/puniverse/capsule) - Simple and powerful packaging and deployment. A fat JAR on steroids, or a "Docker for Java" that supports JVM-optimized containers.
 *   [Nexus ![c](https://cdn.rawgit.com/akullpp/23246ca832bda82bb505230bf3538e2a/raw/d9bcdb769bf025292f9c6bc1290f01f1fcd1f864/commercial.svg)](https://www.sonatype.com) - Binary management with proxy and caching capabilities.
-*   [packr (⭐2.5k)](https://github.com/libgdx/packr) - Packs JARs, assets and the JVM for native distribution on Windows, Linux and macOS.
+*   [packr (⭐2.6k)](https://github.com/libgdx/packr) - Packs JARs, assets and the JVM for native distribution on Windows, Linux and macOS.
 
 ### Document Processing / Text-Based User Interfaces
 
@@ -175,7 +174,7 @@
 ### Financial / Text-Based User Interfaces
 
 *   [Square (⭐39)](https://github.com/square/connect-java-sdk) - Integration with the Square API.
-*   [Stripe (⭐771)](https://github.com/stripe/stripe-java) - Integration with the Stripe API.
+*   [Stripe (⭐818)](https://github.com/stripe/stripe-java) - Integration with the Stripe API.
 
 ### Formal Verification / Text-Based User Interfaces
 
@@ -206,8 +205,8 @@
 
 ### Microservice / Text-Based User Interfaces
 
-*   [Armeria (⭐4.7k)](https://github.com/line/armeria) - Asynchronous RPC/REST client/server library built on top of Java 8, Netty, HTTP/2, Thrift and gRPC.
-*   [consul-api (⭐416)](https://github.com/Ecwid/consul-api) - Client for the Consul API: a distributed, highly available and datacenter-aware registry/discovery service.
+*   [Armeria (⭐4.8k)](https://github.com/line/armeria) - Asynchronous RPC/REST client/server library built on top of Java 8, Netty, HTTP/2, Thrift and gRPC.
+*   [consul-api (⭐417)](https://github.com/Ecwid/consul-api) - Client for the Consul API: a distributed, highly available and datacenter-aware registry/discovery service.
 *   [Eureka (⭐12k)](https://github.com/Netflix/eureka) - REST-based service registry for resilient load balancing and failover.
 *   [Helidon](https://helidon.io) - Two-style approach for writing microservices: Functional-reactive and as an implementation of MicroProfile.
 *   [Nacos](https://nacos.io) - Dynamic service discovery, configuration and service management platform for building cloud native applications.
@@ -215,13 +214,13 @@
 
 ### Miscellaneous / Text-Based User Interfaces
 
-*   [Membrane Service Proxy (⭐448)](https://github.com/membrane/service-proxy) - Open-source, reverse-proxy framework.
-*   [PipelinR (⭐409)](https://github.com/sizovs/pipelinr) - Small utility library for using handlers and commands with pipelines.
+*   [Membrane Service Proxy (⭐461)](https://github.com/membrane/service-proxy) - Open-source, reverse-proxy framework.
+*   [PipelinR (⭐420)](https://github.com/sizovs/pipelinr) - Small utility library for using handlers and commands with pipelines.
 *   [Simple Java Mail (⭐1.2k)](https://github.com/bbottema/simple-java-mail) - Mailing with a clean and fluent API.
 
 ### Performance analysis / Text-Based User Interfaces
 
-*   [honest-profiler (⭐1.2k)](https://github.com/jvm-profiling-tools/honest-profiler) - Low-overhead, bias-free sampling profiler.
+*   [honest-profiler (⭐1.3k)](https://github.com/jvm-profiling-tools/honest-profiler) - Low-overhead, bias-free sampling profiler.
 
 ### REST Frameworks / Other
 
@@ -233,19 +232,19 @@
 
 ### Testing / Fixtures
 
-*   [Java Faker (⭐4.6k)](https://github.com/DiUS/java-faker) - Port of Ruby's fake data generator.
+*   [Java Faker (⭐4.7k)](https://github.com/DiUS/java-faker) - Port of Ruby's fake data generator.
 
 ### Testing / Miscellaneous
 
-*   [junit-dataprovider (⭐243)](https://github.com/TNG/junit-dataprovider) - TestNG-like data provider/runner for JUnit.
+*   [junit-dataprovider (⭐246)](https://github.com/TNG/junit-dataprovider) - TestNG-like data provider/runner for JUnit.
 
 ### Utility / Mocking
 
-*   [fswatch (⭐28)](https://github.com/vorburger/ch.vorburger.fswatch) - Micro library to watch for directory file system changes, simplifying java.nio.file.WatchService.
+*   [fswatch (⭐29)](https://github.com/vorburger/ch.vorburger.fswatch) - Micro library to watch for directory file system changes, simplifying java.nio.file.WatchService.
 
 ### Version Managers / Mocking
 
-*   [jabba (⭐2.9k)](https://github.com/shyiko/jabba) - Java Version Manager inspired by nvm. Supports macOS, Linux and Windows.
+*   [jabba (⭐3k)](https://github.com/shyiko/jabba) - Java Version Manager inspired by nvm. Supports macOS, Linux and Windows.
 
 ### Communities / Mocking
 
@@ -263,7 +262,7 @@
 
 ## [6. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
-### Other Tools / Telegram
+### Other Tools / Steam
 
 *   [Maltego](https://www.maltego.com/) - Maltego is an open source intelligence (OSINT) and graphical link analysis tool for gathering and connecting information for investigative tasks.
 
@@ -281,7 +280,7 @@
 
 ## [9. Awesome Ci](/content/ligurio/awesome-ci/README.md)
 
-- Name: [Abstruse CI (⭐920)](https://github.com/bleenco/abstruse)
+- Name: [Abstruse CI (⭐937)](https://github.com/bleenco/abstruse)
 
   Description: Self-Hosted, Open-Source CI Platform. Based on NodeJS and Docker.
 
@@ -289,7 +288,7 @@
 
   Supported repositories: GitHub, GitLab, BitBucket, Gogs
 
-  Documentation: [Documentation (⭐920)](https://github.com/bleenco/abstruse/tree/master/docs)
+  Documentation: [Documentation (⭐937)](https://github.com/bleenco/abstruse/tree/master/docs)
 
   Price: [Open Source](https://abstruse.bleenco.io)
 
@@ -388,7 +387,7 @@
 
   Description: Mobile Continuous Integration and Delivery.
 
-  Features: [Source code (⭐828)](https://github.com/bitrise-io/bitrise) is available
+  Features: [Source code (⭐839)](https://github.com/bitrise-io/bitrise) is available
 
   Supported repositories: GitHub, BitBucket, Gitlab, Custom
 
@@ -418,7 +417,7 @@
 
   Description: A build automation platform which gives you complete control, without the pain of running your own CI system.
 
-  Features: Languages: Ruby, Python, Node.js, JavaScript, PHP, Go, Rust, Erlang, Elixir, Java, Clojure, Scala, C/C++, Objective-C, Swift, .NET/C#<br />Source code is available: [Buildkite Agent (⭐792)](https://github.com/buildkite/agent)
+  Features: Languages: Ruby, Python, Node.js, JavaScript, PHP, Go, Rust, Erlang, Elixir, Java, Clojure, Scala, C/C++, Objective-C, Swift, .NET/C#<br />Source code is available: [Buildkite Agent (⭐810)](https://github.com/buildkite/agent)
 
   Supported repositories: GitHub, Bitbucket, GitLab, Custom
 
@@ -429,7 +428,7 @@
   Stars: [![Stars](https://img.shields.io/github/stars/buildkite/agent.svg)](https://github.com/buildkite/agent)
 
 
-- Name: [CDS (⭐4.4k)](https://github.com/ovh/cds)
+- Name: [CDS (⭐4.6k)](https://github.com/ovh/cds)
 
   Description: Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform
 
@@ -439,7 +438,7 @@
 
   Documentation: [Documentation](https://ovh.github.io/cds/)
 
-  Price: [Free Open Source (⭐4.4k)](https://github.com/ovh/cds)
+  Price: [Free Open Source (⭐4.6k)](https://github.com/ovh/cds)
 
   Stars: [![Stars](https://img.shields.io/github/stars/ovh/cds.svg)](https://github.com/ovh/cds)
 
@@ -579,7 +578,7 @@
   Stars: 
 
 
-- Name: [Evergreen (⭐406)](https://github.com/evergreen-ci/evergreen)
+- Name: [Evergreen (⭐418)](https://github.com/evergreen-ci/evergreen)
 
   Description: Evergreen is a distributed continuous integration system built by MongoDB. It dynamically allocates hosts to run tasks in parallel across many machines.
 
@@ -587,7 +586,7 @@
 
   Supported repositories: GitHub
 
-  Documentation: [Documentation (⭐406)](https://github.com/evergreen-ci/evergreen/wiki)
+  Documentation: [Documentation (⭐418)](https://github.com/evergreen-ci/evergreen/wiki)
 
   Price: 
 
@@ -679,7 +678,7 @@
 
   Documentation: [Documentation](https://jenkins.io/doc/)
 
-  Price: [Open Source (⭐22k)](https://github.com/jenkinsci/jenkins)
+  Price: [Open Source (⭐23k)](https://github.com/jenkinsci/jenkins)
 
   Stars: [![Stars](https://img.shields.io/github/stars/jenkinsci/jenkins.svg)](https://github.com/jenkinsci/jenkins)
 
@@ -699,7 +698,7 @@
   Stars: 
 
 
-- Name: [Previs (⭐324)](https://github.com/PaulRosset/previs)
+- Name: [Previs (⭐325)](https://github.com/PaulRosset/previs)
 
   Description: Use Travis configuration to run stuff locally in a clean environment.
 
@@ -707,7 +706,7 @@
 
   Supported repositories: Your computer, it's running locally!
 
-  Documentation: [Documentation (⭐324)](https://github.com/PaulRosset/previs)
+  Documentation: [Documentation (⭐325)](https://github.com/PaulRosset/previs)
 
   Price: It's free! Since you are hosting everything locally on your computer!
 
@@ -856,7 +855,7 @@
 
 ### Platforms
 
-*   [ESP (⭐990)](https://github.com/agucova/awesome-esp#readme) - Low-cost microcontrollers with WiFi and broad IoT applications.
+*   [ESP (⭐1.1k)](https://github.com/agucova/awesome-esp#readme) - Low-cost microcontrollers with WiFi and broad IoT applications.
 
 ## [11. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
@@ -884,7 +883,7 @@
 
 ### Build Tools to set up performance budget
 
-*   [Size Limit (⭐5.5k)](https://github.com/ai/size-limit) - Calculate the real cost to run your JS app or lib to keep good performance. Show error in pull request if the cost exceeds the limit.
+*   [Size Limit (⭐6.6k)](https://github.com/ai/size-limit) - Calculate the real cost to run your JS app or lib to keep good performance. Show error in pull request if the cost exceeds the limit.
 *   [Size Plugin (⭐1.7k)](https://github.com/GoogleChromeLabs/size-plugin) - Track compressed Webpack asset sizes over time.
 
 ---

@@ -26,7 +26,7 @@
 
 ### Streaming / Barcode
 
-*   [HaishinKit (⭐2.7k)](https://github.com/shogo4405/HaishinKit.swift) - Camera and Microphone streaming library via RTMP, HLS for iOS, macOS, tvOS.
+*   [HaishinKit (⭐2.8k)](https://github.com/shogo4405/HaishinKit.swift) - Camera and Microphone streaming library via RTMP, HLS for iOS, macOS, tvOS.
 
 ## [4. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
@@ -41,19 +41,19 @@
 
 ### UI / Calendar
 
-*   [Calendar Widget (⭐246)](https://github.com/pinkfish/flutter_calendar) <!--stargazers:pinkfish/flutter_calendar--> - Calendar widget by [David Bennett](https://github.com/pinkfish)
+*   [Calendar Widget (⭐243)](https://github.com/pinkfish/flutter_calendar) <!--stargazers:pinkfish/flutter_calendar--> - Calendar widget by [David Bennett](https://github.com/pinkfish)
 
 ## [5. Awesome Java](/content/akullpp/awesome-java/README.md)
 
 ### Networking / Text-Based User Interfaces
 
-*   [TLS Channel (⭐187)](https://github.com/marianobarrios/tls-channel) - Implements a ByteChannel interface over SSLEngine, enabling easy-to-use (socket-like) TLS.
+*   [TLS Channel (⭐191)](https://github.com/marianobarrios/tls-channel) - Implements a ByteChannel interface over SSLEngine, enabling easy-to-use (socket-like) TLS.
 
 ## [6. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Platforms
 
-*   [Home Assistant (⭐5.9k)](https://github.com/frenck/awesome-home-assistant#readme) - Open source home automation that puts local control and privacy first.
+*   [Home Assistant (⭐6.3k)](https://github.com/frenck/awesome-home-assistant#readme) - Open source home automation that puts local control and privacy first.
 
 ## [7. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
@@ -65,7 +65,6 @@
 
 ### Resources for Web Publishers
 
-*   [Stanford Libraries' Archivability pages](https://library.stanford.edu/projects/web-archiving/archivability)
 *   The [Archive Ready](http://archiveready.com/) tool, for estimating how likely a web page will be archived successfully.
 
 ## [9. Awesome Xamarin](/content/XamSome/awesome-xamarin/README.md)
@@ -113,7 +112,7 @@
 
 ### Apps
 
-*   [Urteile & Gesetze (⭐15)](https://github.com/neo-search/urteile-gesetze-web) - German Legal Information System licensed under GPLv3.
+*   [Urteile & Gesetze](https://github.com/neo-search/urteile-gesetze-web) - German Legal Information System licensed under GPLv3.
 
 ## [13. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 

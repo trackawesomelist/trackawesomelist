@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 19, 2021
 
-13 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Third-Party Packages / Models
 
-*   [django-recurrence (⭐475)](https://github.com/django-recurrence/django-recurrence) - Utility for working with recurring dates in Django.
+*   [django-recurrence (⭐498)](https://github.com/django-recurrence/django-recurrence) - Utility for working with recurring dates in Django.
 
 ## [2. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/README.md)
 
@@ -73,9 +73,9 @@
 
 ## [6. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
-### Projects / Godot 3.2+
+### Projects / Godot 3
 
-*   [Arrow (⭐844)](https://github.com/mhgolkar/Arrow) - A tool to design game narratives with nodes.
+*   [Arrow (⭐923)](https://github.com/mhgolkar/Arrow) - A tool to design game narratives with nodes.
 
 ## [7. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
@@ -83,39 +83,25 @@
 
 *   [JSS with Vue.js](https://github.com/KayeeNL/sitecore-jss-getting-started-vuejs) - A starting template for JSS using Vue.js framework.
 
-## [8. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/README.md)
-
-### Calendar
-
-*   [scriptable-calendar-widget (⭐114)](https://github.com/rudotriton/scriptable-calendar-widget) - Customizable calendar.
-
-    <img src="https://raw.githubusercontent.com/rudotriton/scriptable-calendar-widget/main/assets/scriptable-calendar-widget.jpg" width="400"/>
-
-## [9. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+## [8. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 
 ### ARKit
 
 *   [*Apple Augmented Reality by Tutorials* by Chris Language](https://www.raywenderlich.com/books/apple-augmented-reality-by-tutorials/v1.0)
 
-## [10. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
+## [9. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ### Tools / Community providers
 
-*   [KICS (⭐2k)](https://github.com/Checkmarx/kics) - Scans IaC projects for security vulnerabilities, compliance issues, and infrastructure misconfiguration. Currently working with Terraform projects, Kubernetes manifests, Dockerfiles, AWS CloudFormation Templates, and Ansible playbooks.
+*   [KICS (⭐2.1k)](https://github.com/Checkmarx/kics) - Scans IaC projects for security vulnerabilities, compliance issues, and infrastructure misconfiguration. Currently working with Terraform projects, Kubernetes manifests, Dockerfiles, AWS CloudFormation Templates, and Ansible playbooks.
 
-## [11. Progressive Enhancement Resources](/content/jbmoelker/progressive-enhancement-resources/README.md)
+## [10. Progressive Enhancement Resources](/content/jbmoelker/progressive-enhancement-resources/README.md)
 
 ### Support Tables
 
 *   [Accessibility Support](https://a11ysupport.io/) - Compare accessibility support of HTML elements and ARIA roles across browsers & assistive technologies.
 
-## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / Integrations
-
-*   [vuetube (⭐13)](https://github.com/webistomin/vuetube) - 🚀 A fast, lightweight, lazyload vue component acting as a thin layer over the YouTube Iframe Player API which renders fast
-
-## [13. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
+## [11. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 
 ### Learning
 

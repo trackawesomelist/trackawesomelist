@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 12, 2019
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -28,10 +28,6 @@
 
 ## [4. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
-### Mobile
-
-*   [jonathan (⭐162)](https://github.com/Rudolph-Miller/jonathan) - A JSON encoder and decoder. [MIT](https://opensource.org/licenses/MIT).
-
 ### Community
 
 *   [Planet Lisp](http://planet.lisp.org/) - A meta blog that collects the contents of various Lisp-related blogs.
@@ -40,38 +36,32 @@
 
 ### Resources
 
-*   [Low Resource Languages (⭐380)](https://github.com/RIchardLitt/low-resource-languages) - A list of resources for conservation, development, and documentation of low resource (human) languages.
+*   [Low Resource Languages (⭐395)](https://github.com/RIchardLitt/low-resource-languages) - A list of resources for conservation, development, and documentation of low resource (human) languages.
 
-## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / UI Components
-
-*   [vue-restricted-input (⭐10)](https://github.com/Scrum/vue-restricted-input) - Input mask library for vue.js based on [restricted-input (⭐67)](https://github.com/braintree/restricted-input)
-
-## [7. Awesome List](/content/sindresorhus/awesome/README.md)
+## [6. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Front-End Development
 
-*   [Tailwind CSS (⭐13k)](https://github.com/aniftyco/awesome-tailwindcss#readme) - Utility-first CSS framework for rapid UI development.
+*   [Tailwind CSS (⭐14k)](https://github.com/aniftyco/awesome-tailwindcss#readme) - Utility-first CSS framework for rapid UI development.
 
 ### Gaming
 
-*   [PlayCanvas (⭐250)](https://github.com/playcanvas/awesome-playcanvas#readme) - Game engine.
+*   [PlayCanvas (⭐261)](https://github.com/playcanvas/awesome-playcanvas#readme) - Game engine.
 
-## [8. Awesome Nlg](/content/accelerated-text/awesome-nlg/README.md)
+## [7. Awesome Nlg](/content/accelerated-text/awesome-nlg/README.md)
 
 ### Neural Natural Language Generation
 
 *   [graph-2-text (⭐151)](https://github.com/diegma/graph-2-text) - Graph to sequence implemented in Pytorch combining Graph convolutional networks and opennmt-py.
 *   [Transformers (⭐111k)](https://github.com/huggingface/transformers) - State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.
 
-## [9. Awesome Vscode](/content/viatsko/awesome-vscode/README.md)
+## [8. Awesome Vscode](/content/viatsko/awesome-vscode/README.md)
 
 ### UI / [Gradle Tasks](https://marketplace.visualstudio.com/items?itemName=richardwillis.vscode-gradle)
 
 *   [Essence (⭐1)](https://github.com/essence-language/vscode-extension)
 
-## [10. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/README.md)
+## [9. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/README.md)
 
 ### Mathematics
 

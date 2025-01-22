@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 12 - Feb 18, 2024
 
-49 awesome lists updated this week.
+48 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -32,7 +32,7 @@
 
 ### Tooling / Frameworks
 
-*   [yew-fmt (⭐18)](https://github.com/schvv31n/yew-fmt) - A configurable extension to `rustfmt` for formatting Yew HTML.
+*   [yew-fmt (⭐22)](https://github.com/schvv31n/yew-fmt) - A configurable extension to `rustfmt` for formatting Yew HTML.
 
 ## [3. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
@@ -74,90 +74,86 @@
 
 ## [6. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
-### Company Research / Telegram
-
-*   [Datalead AI](https://datalead.ai) - A 360-degree view to billions of people and companies with deep, actionable insights.
-
 ### Real-Time Search, Social Media Search, and General Social Media Tools
 
 *   [Predicta Search](https://predictasearch.com) - Search for social accounts with e-mail and phone
 *   [SocialBlade](http://socialblade.com)
 
-### Username Check / Telegram
+### Username Check / Steam
 
 *   [CheckUser](https://checkuser.vercel.app/) - search username across social networks
 
-### People Investigations / Telegram
+### People Investigations / Steam
 
 *   [FamilyTreeNow](https://familytreenow.com) - Research family and geneology, no registration required, can search addresses, phone numbers, and email addresses as well as associations.
 *   [VineLink](https://www.vinelink.com/#state-selection) - Inmate search and notification service for victims of crime, linked to multiple correctional facilities' booking systems in the U.S.
 
-### Email Search / Email Check / Telegram
+### Email Search / Email Check / Steam
 
-*   [Gitrecon (⭐18)](https://github.com/atiilla/gitrecon) - Node.js tool to scan GitHub repositories for exposed email addresses and names.
+*   [Gitrecon (⭐21)](https://github.com/atiilla/gitrecon) - Node.js tool to scan GitHub repositories for exposed email addresses and names.
 
-### Domain and IP Research / Telegram
+### Domain and IP Research / Steam
 
 *   [Validin](https://app.validin.com/) - Website and API to search current and historical DNS records for free
 
-### Image Search / Telegram
+### Image Search / Steam
 
-*   [GeoSpyer (⭐171)](https://github.com/atiilla/geospy "Original service: https://geospy.web.app/") - Python tool using Graylark's AI-powered geo-location service to uncover the location where photos were taken.
+*   [GeoSpyer (⭐218)](https://github.com/atiilla/geospy "Original service: https://geospy.web.app/") - Python tool using Graylark's AI-powered geo-location service to uncover the location where photos were taken.
 
-### Image Analysis / Telegram
+### Image Analysis / Steam
 
 *   [GeoSpy](https://geospy.web.app/) - AI based image osint tool
 
-### Web Monitoring / Telegram
+### Web Monitoring / Steam
 
 *   [ChangeDetection.io](https://changedetection.io)
-*   [ChangeDetection.io Open Source (⭐16k)](https://github.com/dgtlmoon/changedetection.io)
+*   [ChangeDetection.io Open Source (⭐21k)](https://github.com/dgtlmoon/changedetection.io)
 
-### Other Tools / Telegram
+### Other Tools / Steam
 
-*   [Discoshell (⭐76)](https://github.com/foozzi/discoshell) - A simple discovery script that uses popular tools like subfinder, amass, puredns, alterx, massdns and others
+*   [Discoshell (⭐77)](https://github.com/foozzi/discoshell) - A simple discovery script that uses popular tools like subfinder, amass, puredns, alterx, massdns and others
 *   [OSINT-Tool](https://www.osint-tool.com/) - A browser extension that gives you access to a suite of OSINT utilities (Dehashed, Epieos, Domaintools, Exif data, Reverse image search, etc) directly on any webpage you visit.
 
 ## [7. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
 ### Libraries
 
-*   [PureEval (⭐27)](https://github.com/PureEval/PureEval) - A powerful JavaScript functional programming toolset, including utility functions and abstract data structures.
-*   [context-fp (⭐1)](https://github.com/darky/context-fp) - Microscopic functional programming context aka dependency injection. +TS
+*   [PureEval (⭐37)](https://github.com/PureEval/PureEval) - A powerful JavaScript functional programming toolset, including utility functions and abstract data structures.
+*   [context-fp (⭐2)](https://github.com/darky/context-fp) - Microscopic functional programming context aka dependency injection. +TS
 
 ## [8. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [classic (⭐0)](https://github.com/freakinu/classic-zsh-theme) - A classic unix theme with decorators for username, host, current directory and `git` status.
+*   [classic (⭐1)](https://github.com/freakinu/classic-zsh-theme) - A classic unix theme with decorators for username, host, current directory and `git` status.
 *   [frontcube (⭐0)](https://github.com/ronitkrshah/frontcube/) - Requires a nerd font. Based on the official [Frontcube (⭐4)](https://github.com/ornicar/oh-my-zsh/blob/master/themes/frontcube.zsh-theme) theme. Includes decorators for `git` status and current directory.
 
 ## [9. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### Pastebin and Secret Sharing
 
-*   [NoPaste (⭐361)](https://github.com/bokub/nopaste) - Open Source pastebin alternative that works with no database, and no back-end code. Instead, the data is compressed and stored entirely in the link that you share, nowhere else.
+*   [NoPaste (⭐385)](https://github.com/bokub/nopaste) - Open Source pastebin alternative that works with no database, and no back-end code. Instead, the data is compressed and stored entirely in the link that you share, nowhere else.
 
-## [10. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/week/README.md)
+## [10. Awesome V](/content/vlang/awesome-v/week/README.md)
 
-### **Other techniques and LLM patterns** / **Llama Finetuning**
+### Database clients
 
-*   [LLM patterns](https://eugeneyan.com/writing/llm-patterns/): 🏆From data to user, from defensive to offensive [doc](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/files/llm-patterns-og.png)
+*   [mongodb (⭐47)](https://github.com/vlang/mongo) - MongoDB driver for V.
 
 ## [11. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Content Management Systems (CMS)
 
-*   [WordPress (⭐19k)](https://github.com/WordPress/WordPress) - A blogging platform and CMS.
+*   [WordPress (⭐20k)](https://github.com/WordPress/WordPress) - A blogging platform and CMS.
 
 ### Table of Contents / Event
 
-*   [Elephant.io (⭐98)](https://github.com/ElephantIO/elephant.io) - Yet another web socket library.
+*   [Elephant.io (⭐115)](https://github.com/ElephantIO/elephant.io) - Yet another web socket library.
 
 ### Configuration / Development Environment
 
-*   [DDEV (⭐2.6k)](https://github.com/ddev/ddev) - a local web development environment system for PHP.
-*   [Docksal (⭐683)](https://github.com/docksal/docksal) - Unified, Docker :whale: powered web development environments for macOS, Windows, and Linux.
+*   [DDEV (⭐2.9k)](https://github.com/ddev/ddev) - a local web development environment system for PHP.
+*   [Docksal (⭐694)](https://github.com/docksal/docksal) - Unified, Docker :whale: powered web development environments for macOS, Windows, and Linux.
 
 ### Configuration / Text Editors and IDEs
 
@@ -183,17 +179,13 @@
 
 ### Table of Contents / Toolkit
 
-*   [Apache Pekko (⭐1.2k)](https://github.com/apache/incubator-pekko) \[Scala, Java] - Fork of Akka 2.6.x, prior to the Akka project's adoption of the Business Source License.
+*   [Apache Pekko (⭐1.3k)](https://github.com/apache/incubator-pekko) \[Scala, Java] - Fork of Akka 2.6.x, prior to the Akka project's adoption of the Business Source License.
 
 ## [15. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Resources / Blog posts
 
 *   [15 Pandas ↔ Polars ↔ SQL ↔ PySpark Translations](https://www.blog.dailydoseofds.com/p/15-pandas-polars-sql-pyspark-translations) - A post that depicts the 15 most common tabular operations in Polars and their corresponding translations in Pandas, SQL and PySpark by [@ChawlaAvi](https://github.com/ChawlaAvi).
-
-### Resources / Talks and videos
-
-*   [Polars and time zones: everything you need to know | PyData Global 2023](https://www.youtube.com/watch?v=DFQFAwt_0VY) ⏳ 29 min - A video that  shows how to use Polars effectively for time series analysis involving different time zones by [@MarcoGorelli](https://github.com/MarcoGorelli).
 
 ## [16. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
@@ -214,26 +206,26 @@
 
 ### Programming Languages / [Other](#other-1)
 
-*   [PHPArkitect (⭐697)](https://github.com/phparkitect/arkitect) — PHPArkitect helps you to keep your PHP codebase coherent and solid, by permitting to add some architectural constraint check to your workflow. You can express the constraint that you want to enforce, in simple and readable PHP code.
+*   [PHPArkitect (⭐764)](https://github.com/phparkitect/arkitect) — PHPArkitect helps you to keep your PHP codebase coherent and solid, by permitting to add some architectural constraint check to your workflow. You can express the constraint that you want to enforce, in simple and readable PHP code.
 
 ## [18. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
 
 ### Utils
 
-*   [POMWright (⭐29)](https://github.com/DyHex/POMWright) - POMWright is a TypeScript-based framework designed for creating and maintaining Page Object Models. It streamlines locator management by automatically generating nested/chained locators from flat and atomic locator structures which can be dynamically updated throughout tests. This significantly reduces code duplication and makes tests easier to read, write, and maintain.
+*   [POMWright (⭐32)](https://github.com/DyHex/POMWright) - POMWright is a TypeScript-based framework designed for creating and maintaining Page Object Models. It streamlines locator management by automatically generating nested/chained locators from flat and atomic locator structures which can be dynamically updated throughout tests. This significantly reduces code duplication and makes tests easier to read, write, and maintain.
 
 ## [19. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/week/README.md)
 
 ### Other sources
 
 *   [SpeedChecker Insights](https://insights.speedchecker.com/) - Periodic country-level reports on mobile internet speeds, latency, and coverage
-*   [Cloudflare Radar](https://radar.cloudflare.com/) - Invaluable resource on internet traffic, security, routing, outages, DNS, and more.
+*   [Cloudflare Radar](https://radar.cloudflare.com/) - ([2024](https://blog.cloudflare.com/radar-2024-year-in-review/)) ([2023](https://blog.cloudflare.com/radar-2023-year-in-review/)) ([2022](https://blog.cloudflare.com/radar-2022-year-in-review/)) Invaluable resource on internet traffic, security, routing, outages, DNS, and more.
 
 ## [20. Awesome Music](/content/ciconia/awesome-music/week/README.md)
 
 ### Free Music Scores
 
-*   [Lavender Blue Open-Scores (⭐13)](https://github.com/madrisan/open-scores) - open scores for piano encoded using lilypond.
+*   [Lavender Blue Open-Scores (⭐15)](https://github.com/madrisan/open-scores) - open scores for piano encoded using lilypond.
 
 ## [21. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
@@ -257,7 +249,7 @@
 
 ### Literate programming / Third-party APIs
 
-*   [papyrus (⭐44)](https://github.com/tani/papyrus) - Papyrus makes your markdown executable with the reader macro of Common Lisp.[MIT](https://opensource.org/licenses/MIT)
+*   [papyrus (⭐49)](https://github.com/tani/papyrus) - Papyrus makes your markdown executable with the reader macro of Common Lisp.[MIT](https://opensource.org/licenses/MIT)
 
 ## [24. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/week/README.md)
 
@@ -295,7 +287,7 @@
 
 ### Tools / Templates & Starter Kits
 
-*   [State Design System (DSFR) starter (⭐34)](https://github.com/numerique-gouv/content-manager) - Wagtail template and starter kit from the French government.
+*   [State Design System (DSFR) starter (⭐36)](https://github.com/numerique-gouv/content-manager) - Wagtail template and starter kit from the French government.
 
 ## [27. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
@@ -305,7 +297,7 @@
 
 ### Resources / API Specification
 
-*   [API Blueprint (⭐8.6k) (⭐8.6k)](https://github.com/apiaryio/api-blueprint) - A powerful high-level language for designing and documenting APIs that allows software engineers to easily collaborate and create efficient APIs.
+*   [API Blueprint (⭐8.6k) (⭐8.7k)](https://github.com/apiaryio/api-blueprint) - A powerful high-level language for designing and documenting APIs that allows software engineers to easily collaborate and create efficient APIs.
 
 ## [28. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
@@ -317,78 +309,67 @@
 
 ### Platforms
 
-*   [Bluetooth Low Energy (⭐39)](https://github.com/dotintent/awesome-ble#readme) - Low-power wireless communication protocol ideal for IoT, wearables, and other battery-powered applications.
-*   [Uno Platform (⭐38)](https://github.com/MartinZikmund/awesome-uno-platform#readme) - Open-source .NET UI platform for building cross-platform apps.
+*   [Bluetooth Low Energy (⭐78)](https://github.com/dotintent/awesome-ble#readme) - Low-power wireless communication protocol ideal for IoT, wearables, and other battery-powered applications.
+*   [Uno Platform (⭐45)](https://github.com/MartinZikmund/awesome-uno-platform#readme) - Open-source .NET UI platform for building cross-platform apps.
 
 ### Front-End Development
 
-*   [Frontend GIS (⭐364)](https://github.com/joewdavies/awesome-frontend-gis#readme) - Geographic Information Systems (GIS) for web browsers.
+*   [Frontend GIS (⭐469)](https://github.com/joewdavies/awesome-frontend-gis#readme) - Geographic Information Systems (GIS) for web browsers.
 
 ### Back-End Development
 
-*   [Kustomize (⭐90)](https://github.com/DevOpsHiveHQ/awesome-kustomize#readme) - Kubernetes native declarative configuration management tool.
+*   [Kustomize (⭐97)](https://github.com/DevOpsHiveHQ/awesome-kustomize#readme) - Kubernetes native declarative configuration management tool.
 
 ### Miscellaneous
 
-*   [Stock Trading (⭐88)](https://github.com/shi-rudo/awesome-stock-trading#readme) - Purchase and sale of equities of publicly traded companies with the aim of generating profits.
-*   [Astrophotography (⭐59)](https://github.com/lunohodov/awesome-astrophotography#readme) - Photography of astronomical objects, celestial events, or areas of the night sky.
+*   [Stock Trading (⭐142)](https://github.com/shi-rudo/awesome-stock-trading#readme) - Purchase and sale of equities of publicly traded companies with the aim of generating profits.
+*   [Astrophotography (⭐77)](https://github.com/lunohodov/awesome-astrophotography#readme) - Photography of astronomical objects, celestial events, or areas of the night sky.
 
 ## [30. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
-### 2D / Godot 4.2
+### 2D / Godot 4
 
-*   [Poder Solar (⭐44)](https://github.com/antimundo/poder-solar) - Simple resource management game.
+*   [Poder Solar (⭐66)](https://github.com/antimundo/poder-solar) - Simple resource management game.
 
-### Plugins and scripts / Various Godot versions
+### Plugins and scripts / Godot 4
 
-*   [Godot Spin Button (⭐57)](https://github.com/yudinikita/godot-spin-button) - Horizontal Selector with extended options (Godot 4.x).
+*   [Godot Spin Button (⭐76)](https://github.com/yudinikita/godot-spin-button) - Horizontal Selector with extended options.
 
-## [31. Awesome V](/content/vlang/awesome-v/week/README.md)
-
-### Web
-
-*   [Tiniest vWeb Server (⭐9)](https://github.com/davlgd/tws) - A < 1MB static hosting web server written in V, based on x.vweb. 🍃
-*   [vistas (⭐1)](https://github.com/Coachonko/vistas) - Central file server API.
-
-### Database clients
-
-*   [mongodb (⭐43)](https://github.com/vlang/mongo) - MongoDB driver for V.
-
-## [32. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
+## [31. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
 
 ### Resources / Tutorials and Hints
 
 *   [Coq requirements in Common Criteria evaluations](https://inria.hal.science/hal-04452421) - Guide on how to write readable and reviewable Coq code in high assurance applications.
 
-## [33. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [32. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Database
 
-*   [Reindexer (⭐761)](https://github.com/Restream/reindexer) - Embeddable, in-memory, document-oriented database with a high-level Query builder interface. \[Apache2] [website](https://reindexer.io/)
+*   [Reindexer (⭐778)](https://github.com/Restream/reindexer) - Embeddable, in-memory, document-oriented database with a high-level Query builder interface. \[Apache2] [website](https://reindexer.io/)
 
-## [34. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [33. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Admin Interface
 
-*   [Hot Glue (⭐165)](https://github.com/hot-glue-for-rails/hot-glue/) - Hot Glue takes a different approach to building both admin and user dashboards. It is a code generation tool like the Rails scaffold generator but with significantly more features. Instead of providing a lot of configuration options, Hot Glue can generate your code. Good for lists & CRUD views for both admin and user-facing dashboards.
+*   [Hot Glue (⭐214)](https://github.com/hot-glue-for-rails/hot-glue/) - Hot Glue takes a different approach to building both admin and user dashboards. It is a code generation tool like the Rails scaffold generator but with significantly more features. Instead of providing a lot of configuration options, Hot Glue can generate your code. Good for lists & CRUD views for both admin and user-facing dashboards.
 
 ### Optimizations
 
-*   [fast\_count (⭐220)](https://github.com/fatkodima/fast_count) - Quickly get a count estimation for large tables (>99% of accuracy for PostgreSQL).
+*   [fast\_count (⭐230)](https://github.com/fatkodima/fast_count) - Quickly get a count estimation for large tables (>99% of accuracy for PostgreSQL).
 
-## [35. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
+## [34. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
 
 ### Manuals, Ephemera, Papers, and Patents / Ephemera
 
 *   [Hewlett-Packard Journal Volume 33 Number 12 (1982)](https://archive.org/details/Hewlett-Packard_Journal_Vol._33_No._12_1982-12_Hewlett-Packard) - Multiple articles about the HP Model 7470A plotter.
 
-## [36. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
+## [35. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
 
 ### Gems / Other external resources
 
-*   [alba (⭐912)](https://github.com/okuramasafumi/alba) - A JSON serializer for Ruby, JRuby, and TruffleRuby. [:red\_circle:](https://rubygems.org/gems/alba)
+*   [alba (⭐946)](https://github.com/okuramasafumi/alba) - A JSON serializer for Ruby, JRuby, and TruffleRuby. [:red\_circle:](https://rubygems.org/gems/alba)
 
-## [37. Awesome Cropsteering](/content/Intergalactic-XYZ/awesome-cropsteering/week/README.md)
+## [36. Awesome Cropsteering](/content/Intergalactic-XYZ/awesome-cropsteering/week/README.md)
 
 ### **AI/ML**
 
@@ -522,29 +503,29 @@
 *   [Awesome Open Hardware (⭐326)](https://github.com/delftopenhardware/awesome-open-hardware)
 *   [Awesome Raspberry Pi (⭐12k)](https://github.com/thibmaek/awesome-raspberry-pi)
 
-## [38. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [37. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Inductive Logic & Program Synthesis / Commonsense Knowledgebase
 
-*   [Latent Programmer: Discrete Latent Codes for Program Synthesis](https://proceedings.mlr.press/v139/hong21a.html) - ***ICML'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=9789877360194738968\&hl=en\&as_sdt=0,5)]. Paper introducing the Latent Programmer, a program synthesis method that first predicts a discrete latent code from input/output examples, and then generates the program in the target language.
+*   [Latent Programmer: Discrete Latent Codes for Program Synthesis](https://proceedings.mlr.press/v139/hong21a.html) - ***ICML'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=9789877360194738968)]. Paper introducing the Latent Programmer, a two-level program synthesis method that first predicts a discrete latent code from input/output examples, and then generates the program in the target language.
 *   [PAL: Program-aided Language Models](https://proceedings.mlr.press/v202/gao23f) - ***ICML'23***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=14898051625978777315\&hl=en\&as_sdt=0,5)]. Paper presenting an approach that uses the LLM to read natural language problems and generate programs as the intermediate reasoning steps, but offloads the solution step to a runtime such as a Python interpreter. With PAL, decomposing the natural language problem into runnable steps remains the only learning task for the LLM, while solving is delegated to the interpreter.
 
-## [39. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [38. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / System tools
 
-*   [qarmin/czkawka (⭐19k)](https://github.com/qarmin/czkawka) - Multi-functional app to find duplicates, empty folders, similar images, etc. [![GitHub Actions Workflow](https://github.com/qarmin/czkawka/actions/workflows/pages/pages-build-deployment/badge.svg?branch=master)](https://github.com/qarmin/czkawka/actions)
+*   [qarmin/czkawka (⭐21k)](https://github.com/qarmin/czkawka) - Multi-functional app to find duplicates, empty folders, similar images, etc. [![GitHub Actions Workflow](https://github.com/qarmin/czkawka/actions/workflows/pages/pages-build-deployment/badge.svg?branch=master)](https://github.com/qarmin/czkawka/actions)
 
 ### Development tools / Web Servers
 
-*   [envio-cli/envio (⭐760)](https://github.com/envio-cli/envio) - A Modern And Secure CLI Tool For Managing Environment Variables [![build badge](https://github.com/envio-cli/envio/actions/workflows/CICD.yml/badge.svg?branch=main)](https://github.com/envio-cli/envio/actions/workflows/CICD.yml)
+*   [envio-cli/envio (⭐835)](https://github.com/envio-cli/envio) - A Modern And Secure CLI Tool For Managing Environment Variables [![build badge](https://github.com/envio-cli/envio/actions/workflows/CICD.yml/badge.svg?branch=main)](https://github.com/envio-cli/envio/actions/workflows/CICD.yml)
 
 ### Libraries / Markup language
 
 *   CommonMark
-    *   [pulldown-cmark/pulldown-cmark (⭐2k)](https://github.com/pulldown-cmark/pulldown-cmark) - [CommonMark](https://commonmark.org/) parser
+    *   [pulldown-cmark/pulldown-cmark (⭐2.1k)](https://github.com/pulldown-cmark/pulldown-cmark) - [CommonMark](https://commonmark.org/) parser
 
-## [40. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/week/README.md)
+## [39. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/week/README.md)
 
 ### Open Source Projects
 
@@ -557,13 +538,13 @@
 
 *   [ApexCharts](https://opencollective.com/apexchartsjs) - JavaScript charts library.
 
-## [41. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+## [40. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Public Data Resources / Politics
 
 *   [OpenPrecincts](https://gerrymander.princeton.edu/) - OpenPrecincts is a data and software resource to open the redistricting process to all citizens and ensure that district boundaries are fair for all voters.
 
-## [42. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [41. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### PaaS
 
@@ -581,7 +562,7 @@
 
 *   [Yandex.Datalens](https://datalens.yandex.com/) — Yandex Cloud data visualization and analysis service. The service is provided free of charge. No restrictions on the number of users and requests.
 
-## [43. Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/week/README.md)
+## [42. Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/week/README.md)
 
 ### Featured On
 
@@ -598,31 +579,31 @@
 *   [Core Kubernetes](https://www.manning.com/books/core-kubernetes) by [Chris Love](https://github.com/chrislovecnm)
 *   [Road to Kubernetes](https://www.manning.com/books/road-to-kubernetes) by [Justin Mitchel](https://github.com/jmitchel3)
 
-## [44. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [43. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-oxlint (⭐17)](https://github.com/52-entertainment/vite-plugin-oxlint) - Oxlint linter.
+*   [vite-plugin-oxlint (⭐25)](https://github.com/52-entertainment/vite-plugin-oxlint) - Oxlint linter.
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [css-media-splitter/vite-plugin (⭐31)](https://github.com/levchak0910/css-media-splitter) - Extracts all `@media` At-rules into a dedicated `.css` files and download it only when matches the media query.
+*   [css-media-splitter/vite-plugin (⭐37)](https://github.com/levchak0910/css-media-splitter) - Extracts all `@media` At-rules into a dedicated `.css` files and download it only when matches the media query.
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [unplugin-detect-duplicated-deps (⭐74)](https://github.com/tjx666/unplugin-detect-duplicated-deps) - Detect duplicate packaged dependencies.
+*   [unplugin-detect-duplicated-deps (⭐78)](https://github.com/tjx666/unplugin-detect-duplicated-deps) - Detect duplicate packaged dependencies.
 
 ### React / Loaders
 
-*   [vite-plugin-react-rich-svg (⭐5)](https://github.com/iGoodie/vite-plugin-react-rich-svg) - Seamless SVG loader with versatile import options; such as DataURI, SVGR Component and Raw HTML Code.
+*   [vite-plugin-react-rich-svg (⭐7)](https://github.com/iGoodie/vite-plugin-react-rich-svg) - Seamless SVG loader with versatile import options; such as DataURI, SVGR Component and Raw HTML Code.
 
-## [45. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [44. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Tools / Paid and commercially available materials
 
-*   [svd-generator](https://codeberg.org/weathered-steel/svd-generator) CLI tool to parse flattened device tree files, and create a SVD file. - ![crates.io](https://img.shields.io/crates/v/svd-generator.svg)
+*   [svd-generator](https://codeberg.org/weathered-steel/svd-generator) CLI tool to parse flattened device tree files, and create a SVD file. - [![crates.io](https://img.shields.io/crates/v/svd-generator.svg)](https://crates.io/crates/svd-generator)
 
-## [46. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
+## [45. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
 
 ### Zig development tools / Messaging
 
@@ -632,7 +613,7 @@
 
 *   [weskoerber/kewpie (⭐2)](https://github.com/weskoerber/kewpie) - A simple query string parser.
 
-## [47. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [46. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### Constraint Satisfaction Problem Solver / Text-Based User Interfaces
 
@@ -644,13 +625,13 @@
 
 ### Testing / Miscellaneous
 
-*   [Selfie (⭐47)](https://github.com/diffplug/selfie) - Snapshot testing (inline and on disk).
+*   [Selfie (⭐52)](https://github.com/diffplug/selfie) - Snapshot testing (inline and on disk).
 
-## [48. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [47. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### CMS
 
-*   [Piranha CMS (⭐1.9k)](https://github.com/PiranhaCMS/piranha.core) - Piranha is the fun, fast and lightweight .NET framework for developing cms-based web applications with an extra bite. It's built on ASP.NET MVC and Web Pages and is fully compatible with both Visual Studio and WebMatrix. <https://piranhacms.org>
+*   [Piranha CMS (⭐2.1k)](https://github.com/PiranhaCMS/piranha.core) - Piranha is the fun, fast and lightweight .NET framework for developing cms-based web applications with an extra bite. It's built on ASP.NET MVC and Web Pages and is fully compatible with both Visual Studio and WebMatrix. <https://piranhacms.org>
 
 ### Code Snippets
 
@@ -658,25 +639,25 @@
 
 ### Game
 
-*   [Foster (⭐413)](https://github.com/FosterFramework/Foster) - Foster is a small cross-platform 2D game framework in C#.
+*   [Foster (⭐489)](https://github.com/FosterFramework/Foster) - Foster is a small cross-platform 2D game framework in C#.
 
 ### Visual Studio Plugins
 
 *   [EFCore.Visualizer](https://marketplace.visualstudio.com/items?itemName=GiorgiDalakishvili.EFCoreVisualizer) - View Entity Framework Core query plan directly in Visual Studio.
 
-## [49. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [48. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Plugin Manager
 
-*   [echasnovski/mini.nvim#mini.deps (⭐4.7k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-deps.md) - Module of `mini.nvim` for managing other plugins. Uses Git and built-in packages to install, update, clean, and snapshot plugins.
+*   [echasnovski/mini.nvim#mini.deps (⭐6.2k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-deps.md) - Module of `mini.nvim` for managing other plugins. Uses Git and built-in packages to install, update, clean, and snapshot plugins.
 
 ### (requires Neovim 0.5) / Diagnostics
 
-*   [artemave/workspace-diagnostics.nvim (⭐130)](https://github.com/artemave/workspace-diagnostics.nvim) - Populate diagnostics for all projects files, not just the opened ones.
+*   [artemave/workspace-diagnostics.nvim (⭐178)](https://github.com/artemave/workspace-diagnostics.nvim) - Populate diagnostics for all projects files, not just the opened ones.
 
 ### Note Taking / Diagnostics
 
-*   [backdround/global-note.nvim (⭐112)](https://github.com/backdround/global-note.nvim) - One global note in a floating window.
+*   [backdround/global-note.nvim (⭐124)](https://github.com/backdround/global-note.nvim) - One global note in a floating window.
 
 ### OS-specific / Diagnostics
 

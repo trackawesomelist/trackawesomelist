@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 21 - Dec 27, 2020
 
-67 awesome lists updated this week.
+65 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Integrations
 
-*   [Apple Social Identity Provider for Keycloak (⭐108)](https://github.com/BenjaminFavre/keycloak-apple-social-identity-provider)
+*   [Apple Social Identity Provider for Keycloak (⭐113)](https://github.com/BenjaminFavre/keycloak-apple-social-identity-provider)
 
 ## [2. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
 
@@ -23,7 +23,7 @@
 
 ### Testing / Misc
 
-*   [dmg-acid2 (⭐124)](https://github.com/mattcurrie/dmg-acid2) and [cgb-acid2 (⭐73)](https://github.com/mattcurrie/cgb-acid2) - Basic PPU rendering tests.
+*   [dmg-acid2 (⭐184)](https://github.com/mattcurrie/dmg-acid2) and [cgb-acid2 (⭐78)](https://github.com/mattcurrie/cgb-acid2) - Basic PPU rendering tests.
 
 ## [4. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
@@ -35,7 +35,7 @@
 
 ### Streaming
 
-*   [Owncast (⭐9.1k)](https://github.com/owncast/owncast) - Selfhosted video streaming plattform (<https://owncast.online/>)
+*   [Owncast (⭐9.6k)](https://github.com/owncast/owncast) - Selfhosted video streaming plattform (<https://owncast.online/>)
 
 ## [6. Awesome Games of Coding](/content/michelpereira/awesome-games-of-coding/week/README.md)
 
@@ -53,10 +53,10 @@
 
 ### Reading
 
-*   [scriptable-news-Widget.js (⭐112)](https://github.com/Saudumm/scriptable-News-Widget) - The latest posts from a feed or a WordPress blog.
+*   [scriptable-news-Widget.js (⭐122)](https://github.com/Saudumm/scriptable-News-Widget) - The latest posts from a feed or a WordPress blog.
 
     <img src="https://raw.githubusercontent.com/Saudumm/scriptable-News-Widget/main/images/widgets.jpg" width="800"/>
-*   [sonntagsfrage (⭐27)](https://github.com/henningtillmann/sonntagsfrage) - The latest German political poll results.
+*   [sonntagsfrage (⭐30)](https://github.com/henningtillmann/sonntagsfrage) - The latest German political poll results.
 
     <img src="https://raw.githubusercontent.com/henningtillmann/sonntagsfrage/main/screenshot-1.png" width="400"/>
 
@@ -72,7 +72,7 @@
 
 *   [**modern-css-reset**](https://github.com/hankchizljaw/modern-css-reset) - Tiny little reset that you can use as the basis of your CSS projects.\
     ![](https://img.shields.io/github/stars/hankchizljaw/modern-css-reset.svg?style=social\&label=Star)
-    [Repo (⭐2.9k)](https://github.com/hankchizljaw/modern-css-reset)
+    [Repo (⭐3k)](https://github.com/hankchizljaw/modern-css-reset)
     \| #CSS
 
 ## [10. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
@@ -84,7 +84,7 @@
 ### Authentication & Identity
 
 *   [AWS cognito](https://aws.amazon.com/cognito/) - AWS's authentication as a service.
-*   [Magic.link](https://magic.link) - Passwordless (email-based) log in as a service.
+*   [Magic.link](https://magic.link) - Passwordless (email-based) log-in as a service.
 
 ### CMS (headless)
 
@@ -108,7 +108,7 @@
 
 ### Discussions
 
-*   [Commento](https://commento.io/) - Privacy centric embeddable comment system.
+*   [Commento](https://commento.io/) - Privacy-centric embeddable comment system.
 *   [MuutIo](https://muut.io/) - Tools to create a community-driven app.
 
 ### IDE
@@ -125,7 +125,7 @@
 ### Media
 
 *   [Cloudinary](https://cloudinary.com/) - Optimize, create, manage, and deliver images and videos.
-*   [Mux](https://mux.com/) - APIs to upload, manage, and stream video.
+*   [Mux](https://mux.com/) - APIs to upload, manage, and stream video. [![featured on launchweek.dev](https://img.shields.io/badge/featured-0D1117.svg?style=flat-square\&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMzYwIiBoZWlnaHQ9IjM2MCIgdmlld0JveD0iMCAwIDM2MCAzNjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+IDxyZWN0IHdpZHRoPSI2MCIgaGVpZ2h0PSIzMDAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjYwIiB5PSIzMDAiIHdpZHRoPSIxMjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjI0MCIgeT0iMzAwIiB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjMwMCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjMwMCIgZmlsbD0id2hpdGUiLz4gPHJlY3QgeD0iMTgwIiB3aWR0aD0iNjAiIGhlaWdodD0iMzAwIiBmaWxsPSJ3aGl0ZSIvPiA8L3N2Zz4=)](https://launchweek.dev)
 
 ### Messaging
 
@@ -141,7 +141,7 @@
 
 *   [KeenIO](https://keen.io/) - Event streaming platform.
 *   [LogRocket](https://logrocket.com/) - Replay bugs users had.
-*   [Sentry](https://sentry.io/) - Application monitoring for bugs and performance.
+*   [Sentry](https://sentry.io/) - Application monitoring for bugs and performance. [![featured on launchweek.dev](https://img.shields.io/badge/featured-0D1117.svg?style=flat-square\&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMzYwIiBoZWlnaHQ9IjM2MCIgdmlld0JveD0iMCAwIDM2MCAzNjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+IDxyZWN0IHdpZHRoPSI2MCIgaGVpZ2h0PSIzMDAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjYwIiB5PSIzMDAiIHdpZHRoPSIxMjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjI0MCIgeT0iMzAwIiB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjMwMCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjMwMCIgZmlsbD0id2hpdGUiLz4gPHJlY3QgeD0iMTgwIiB3aWR0aD0iNjAiIGhlaWdodD0iMzAwIiBmaWxsPSJ3aGl0ZSIvPiA8L3N2Zz4=)](https://launchweek.dev)
 
 ### Natural Language Processing
 
@@ -150,7 +150,7 @@
 ### Payments & Pricing
 
 *   [Braintree](https://www.braintreepayments.com/) - Paypal's take on API-first payments.
-*   [Plaid](https://plaid.com/) - Accept, send ACH (bank transfers) and get bank information.
+*   [Plaid](https://plaid.com/) - Accept, send ACH (bank transfers), and get bank information.
 
 ### Scraping
 
@@ -166,8 +166,8 @@
 
 ### Community
 
-*   [GitHub (⭐119k)](https://github.com/vercel/next.js)
-*   [GitHub discussions for Next.js (⭐119k)](https://github.com/vercel/next.js/discussions)
+*   [GitHub](https://github.com/vercel/next.js)
+*   [GitHub discussions for Next.js (⭐128k)](https://github.com/vercel/next.js/discussions)
 
 ### Articles
 
@@ -175,7 +175,7 @@
 
 ### Extensions
 
-*   [Next-Pkg (⭐66)](https://github.com/onready/next-pkg) - Extended Next.js server with [pkg (⭐24k)](https://github.com/vercel/pkg) support.
+*   [Next-Pkg (⭐67)](https://github.com/onready/next-pkg) - Extended Next.js server with [pkg (⭐24k)](https://github.com/vercel/pkg) support.
 
 ## [12. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
 
@@ -187,7 +187,7 @@
 
 ### Applications / Utilities
 
-*   [vamolessa/verco (⭐229)](https://github.com/vamolessa/verco) \[[verco](https://crates.io/crates/verco)] - A simple Git/Hg tui client focused on keyboard shortcuts
+*   [vamolessa/verco (⭐226)](https://github.com/vamolessa/verco) \[[verco](https://crates.io/crates/verco)] - A simple Git/Hg tui client focused on keyboard shortcuts
 
 ## [14. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
@@ -197,11 +197,11 @@
 
 ### Miscellaneous / Text-Based User Interfaces
 
-*   [jsweet (⭐1.4k)](https://github.com/cincheo/jsweet) - Source transpiler to TypeScript/JavaScript.
+*   [jsweet (⭐1.5k)](https://github.com/cincheo/jsweet) - Source transpiler to TypeScript/JavaScript.
 
 ## [15. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
-### Email Search / Email Check / Telegram
+### Email Search / Email Check / Steam
 
 *   [LeakCheck](https://leakcheck.io/) - Data Breach Search Engine with 7.5B+ entries collected from more than 3000 databases. Search by e-mail, username, keyword, password or corporate domain name.
 
@@ -221,7 +221,7 @@
 
 ### LSP Language Server Protocol Implementations
 
-*   [scry (⭐333)](https://github.com/crystal-lang-tools/scry) - Code analysis server for Crystal implementing the [Language Server Protocol](https://microsoft.github.io/language-server-protocol/)
+*   [scry (⭐332)](https://github.com/crystal-lang-tools/scry) - Code analysis server for Crystal implementing the [Language Server Protocol](https://microsoft.github.io/language-server-protocol/)
 
 ## [19. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
 
@@ -229,19 +229,13 @@
 
 *   Tile Paths - [Android](https://play.google.com/store/apps/details?id=com.naslausky.tile_paths) - Drag the tiles and find the best path to make your character collect all items while avoiding the enemy. With 10 different stages you can challenge your friends to see who gets the best highscore in every one of them. By [Naslausky](https://github.com/naslausky)
 
-## [20. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
-
-### Unofficial Godot builds / Godot version unknown
-
-*   [Raspberry Pi 4 builds (⭐281)](https://github.com/hiulit/Unofficial-Godot-Engine-Raspberry-Pi) - ARM builds of Godot Engine for the Raspberry Pi 4.
-
-## [21. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
+## [20. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
 
 ### Organizations
 
 *   [Disability Visibility Project](https://disabilityvisibilityproject.com/) - An online community dedicated to creating, sharing, and amplifying disability media and culture.
 
-## [22. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
+## [21. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
 
 ### Accounting / Online Ads
 
@@ -255,7 +249,7 @@
 
 *   [The Games People Play With Cash Flow](https://commoncog.com/blog/cash-flow-games/) - “Malone created a new accounting metric, something he called ‘earnings before interest, depreciation, and taxes’, or EBITDA.” This is how a cable company CEO made sense of cash flow, like real-estate business did. The article starts with this example and describes other cash flow games for SaaS models.
 
-## [23. Awesome R](/content/qinwf/awesome-R/week/README.md)
+## [22. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### Machine Learning
 
@@ -268,60 +262,55 @@
 
 *   [reticulate <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](https://cran.r-project.org/web/packages/reticulate/index.html) - Interface to 'Python'.
 
-## [24. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
+## [23. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
 
 ### Preprocessing
 
-*   [MDSveX (⭐2.3k)](https://github.com/pngwn/MDsveX) - Preprocessor for MDX markdown.
+*   [MDSveX (⭐2.5k)](https://github.com/pngwn/MDsveX) - Preprocessor for MDX markdown.
 *   [svelte-preprocess-less (⭐13)](https://github.com/ls-age/svelte-preprocess-less) - Preprocessor for less.
-*   [modular-css (⭐287)](https://github.com/tivac/modular-css/tree/main/packages/svelte) - Preprocessor support for modular-css.
-*   [svelte-preprocess-sass (⭐91)](https://github.com/ls-age/svelte-preprocess-sass) - Preprocessor for sass.
+*   [modular-css (⭐288)](https://github.com/tivac/modular-css/tree/main/packages/svelte) - Preprocessor support for modular-css.
+*   [svelte-preprocess-sass (⭐90)](https://github.com/ls-age/svelte-preprocess-sass) - Preprocessor for sass.
 
 ### UI Libraries
 
-*   [Smelte (⭐1.5k)](https://github.com/matyunya/smelte) - UI framework with material components built with Tailwind CSS.
 *   [Svelte Material UI (⭐3.3k)](https://github.com/hperrin/svelte-material-ui) - Material UI Components.
+*   [Smelte (⭐1.5k)](https://github.com/matyunya/smelte) - UI framework with material components built with Tailwind CSS. *(pre-v5)*
 
 ### Table
 
-*   [svelte-table (⭐509)](https://github.com/dasDaniel/svelte-table) - A table implementation that allows sorting and filtering.
+*   [svelte-table (⭐537)](https://github.com/dasDaniel/svelte-table) - A table implementation that allows sorting and filtering.
 
 ### Notification
 
-*   [svelte-notifications (⭐310)](https://github.com/beyonk-adventures/svelte-notifications) - Toast notifications component that can be used in any JS application.
+*   [svelte-notifications (⭐313)](https://github.com/beyonk-adventures/svelte-notifications) - Toast notifications component that can be used in any JS application.
 
 ### Icons
 
-*   [svelte-fa (⭐397)](https://github.com/Cweili/svelte-fa) - Tiny FontAwesome 5 component.
-*   [svelte-simple-icons (⭐13)](https://github.com/beyonk-adventures/svelte-simple-icons) - Simple Icons component.
-*   [svelte-awesome (⭐492)](https://github.com/RobBrazier/svelte-awesome) - Awesome SVG icon component, built with Font Awesome icons.
+*   [svelte-fa (⭐402)](https://github.com/Cweili/svelte-fa) - Tiny FontAwesome 5 and 6 component.
+*   [svelte-awesome (⭐493)](https://github.com/RobBrazier/svelte-awesome) - Awesome SVG icon component, built with Font Awesome icons.
 *   [svelte-icons (⭐291)](https://github.com/AnxiousDarkly/svelte-icons) - Icon components.
 
 ### Calendar
 
-*   [svelte-fullcalendar (⭐196)](https://github.com/YogliB/svelte-fullcalendar) - A component wrapper around FullCalendar.
+*   [svelte-fullcalendar (⭐197)](https://github.com/YogliB/svelte-fullcalendar) - A component wrapper around FullCalendar.
 
 ### Maps
 
-*   [svelte-googlemaps (⭐77)](https://github.com/beyonk-adventures/svelte-googlemaps) - Google Maps component.
-*   [svelte-mapbox (⭐338)](https://github.com/beyonk-adventures/svelte-mapbox) - MapBox map and autocomplete components.
-*   [leaflet-svelte (⭐52)](https://github.com/anoram/leaflet-svelte) - Svelte wrapper for Leaflet.
+*   [svelte-googlemaps (⭐79)](https://github.com/beyonk-adventures/svelte-googlemaps) - Google Maps component.
+*   [svelte-mapbox (⭐347)](https://github.com/beyonk-adventures/svelte-mapbox) - MapBox map and autocomplete components.
+*   [leaflet-svelte (⭐51)](https://github.com/anoram/leaflet-svelte) - Svelte wrapper for Leaflet.
 
-### Form / Checkbox
+### Forms / Form Components
 
-*   [svelte-checkbox (⭐78)](https://github.com/HosseinShabani/svelte-checkbox) - A checkbox component (cool animation, customizable).
-*   [svelte-toggle (⭐22)](https://github.com/beyonk-adventures/svelte-toggle) - Basic toggle component with styling.
+*   [svelte-checkbox (⭐78)](https://github.com/HosseinShabani/svelte-checkbox) - A checkbox component (cool animation, customizable). *(pre-v5)*
+*   [svelte-toggle (⭐22)](https://github.com/beyonk-adventures/svelte-toggle) - Basic toggle component with styling. *(pre-v5)*
 
-### Lint / Checkbox
+### Lint / Form Components
 
-*   [prettier-plugin-svelte (⭐724)](https://github.com/sveltejs/prettier-plugin-svelte) - Format your components using prettier.
+*   [prettier-plugin-svelte (⭐751)](https://github.com/sveltejs/prettier-plugin-svelte) - Format your components using prettier.
 *   [svelte-check](https://www.npmjs.com/package/svelte-check) - Check your code.
 
-### Docs / Checkbox
-
-*   [sveltedoc-parser (⭐88)](https://github.com/alexprey/sveltedoc-parser) - Generate a JSON documentation for your component.
-
-### Test / Checkbox
+### Test / Form Components
 
 *   [svelte-jester (⭐128)](https://github.com/mihar-22/svelte-jester) - A Jest transformer to compile your components before importing them into tests.
 
@@ -329,39 +318,34 @@
 
 *   [Svelte for VS Code](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode) - Provides syntax highlighting and rich intellisense for your components.
 
-### Editors / Atom
-
-*   [ide-svelte](https://atom.io/packages/ide-svelte) - Provides syntax highlighting and rich intellisense for your components.
-*   [language-svelte](https://atom.io/packages/language-svelte) - Provides syntax highlighting for components, directives and other Svelte specific syntax in Atom.
-
 ### Editors / Sublime Text
 
 *   [Svelte](https://packagecontrol.io/packages/Svelte) - Syntax highlighting and support for Sublime Text.
 
 ### Editors / Vim
 
-*   [vim-svelte-plugin (⭐133)](https://github.com/leafOfTree/vim-svelte-plugin) - Syntax highlighting and support for Vim.
-*   [coc-svelte (⭐175)](https://github.com/coc-extensions/coc-svelte) - Syntax highlighting and support for (Neo)Vim.
+*   [vim-svelte-plugin (⭐139)](https://github.com/leafOfTree/vim-svelte-plugin) - Syntax highlighting and support for Vim.
+*   [coc-svelte (⭐179)](https://github.com/coc-extensions/coc-svelte) - Syntax highlighting and support for (Neo)Vim.
 
 ### Editors / JetBrains
 
 *   [Svelte](https://plugins.jetbrains.com/plugin/12375-svelte) - Syntax highlighting and support for JetBrains.
 
-## [25. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [24. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Front-End Development
 
-*   [Svelte (⭐1.4k)](https://github.com/TheComputerM/awesome-svelte#readme) - App framework.
+*   [Svelte (⭐1.6k)](https://github.com/TheComputerM/awesome-svelte#readme) - App framework.
 
 ### Back-End Development
 
-*   [Flask (⭐1.4k)](https://github.com/mjhea0/awesome-flask#readme) - Python framework.
+*   [Flask (⭐1.5k)](https://github.com/mjhea0/awesome-flask#readme) - Python framework.
 
 ### Work
 
-*   [Creative Technology (⭐410)](https://github.com/j0hnm4r5/awesome-creative-technology#readme) - Businesses & groups that specialize in combining computing, design, art, and user experience.
+*   [Creative Technology (⭐452)](https://github.com/j0hnm4r5/awesome-creative-technology#readme) - Businesses & groups that specialize in combining computing, design, art, and user experience.
 
-## [26. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/week/README.md)
+## [25. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/week/README.md)
 
 ### Articles
 
@@ -372,7 +356,7 @@
 
 *   [Web Performance Calender](https://calendar.perfplanet.com/2020/) - Speed geek's favorite time of the year.
 
-## [27. Awesome Biological Visualizations](/content/keller-mark/awesome-biological-visualizations/week/README.md)
+## [26. Awesome Biological Visualizations](/content/keller-mark/awesome-biological-visualizations/week/README.md)
 
 ### (Non-spatial) Transcriptomics / Gene expression matrices
 
@@ -380,31 +364,31 @@
 *   [MORPHEUS](https://software.broadinstitute.org/morpheus/) - Versatile matrix visualization and analysis software.
 *   [Clustergrammer](https://maayanlab.cloud/clustergrammer/) - Visualize high-dimensional data as interactive hierarchically clustered heatmaps.
 
-## [28. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [27. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Applications
 
 *   [HASH](https://hash.ai) - open source simulation and visualization platform.
 
-## [29. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [28. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Localization
 
-*   [attranslate (⭐325)](https://github.com/fkirc/attranslate) - Semi-automatically translate or synchronize .strings files or crossplatform-files from different languages.
+*   [attranslate (⭐341)](https://github.com/fkirc/attranslate) - Semi-automatically translate or synchronize .strings files or crossplatform-files from different languages.
 
-## [30. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [29. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Debugging
 
-*   [extrace (⭐55)](https://github.com/redink/extrace) - Elixir wrapper for Recon Trace.
+*   [extrace (⭐58)](https://github.com/redink/extrace) - Elixir wrapper for Recon Trace.
 
-## [31. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
+## [30. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
 ### Rust / Git
 
 *   [mundane (⭐1.1k)](https://github.com/google/mundane) - is a Rust cryptography library backed by BoringSSL that is difficult to misuse, ergonomic, and performant.
 
-## [32. Quick Look Plugins](/content/sindresorhus/quick-look-plugins/week/README.md)
+## [31. Quick Look Plugins](/content/sindresorhus/quick-look-plugins/week/README.md)
 
 ### Plugins
 
@@ -450,19 +434,19 @@ Run `brew install --cask --no-quarantine syntax-highlight` or [download manually
 
 To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has waived all copyright and related or neighboring rights to this work.
 
-## [33. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [32. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Back-end API / Playground
 
-*   :octocat: [ZenTS (⭐35)](https://github.com/sahachide/ZenTS) - A modern Node.js and TypeScript first framework for building rich web applications
+*   :octocat: [ZenTS (⭐36)](https://github.com/sahachide/ZenTS) - A modern Node.js and TypeScript first framework for building rich web applications
 
-## [34. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
+## [33. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 
 ### Contents / Finance
 
-*   [Receipt Manager (⭐174)](https://github.com/ReceiptManager/Application) <!--stargazers:ReceiptManager/Application--> - Receipt parser, manager and tracker by [Monolidth](https://github.com/monolidth)
+*   [Receipt Manager (⭐193)](https://github.com/ReceiptManager/Application) <!--stargazers:ReceiptManager/Application--> - Receipt parser, manager and tracker by [Monolidth](https://github.com/monolidth)
 
-## [35. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
+## [34. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
 
 ### Articles / Other Tools
 
@@ -473,19 +457,19 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 *   [Deploy Machine Learning Models with Keras, FastAPI, Redis and Docker](https://medium.com/analytics-vidhya/deploy-machine-learning-models-with-keras-fastapi-redis-and-docker-4940df614ece)
 *   [Developing and Testing an Asynchronous API with FastAPI and Pytest](https://testdriven.io/blog/fastapi-crud/) - Develop and test an asynchronous API with FastAPI, Postgres, Pytest, and Docker using Test-Driven Development.
 
-## [36. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
+## [35. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
 ### Packages / Containerization
 
 *   [ros-tooling/cross\_compile (⭐172)](https://github.com/ros-tooling/cross_compile) - Cross compile ROS and ROS 2 workspaces to non-native architectures and generate corresponding Docker images.
 
-## [37. Awesome Blockchain Ai](/content/steven2358/awesome-blockchain-ai/week/README.md)
+## [36. Awesome Blockchain Ai](/content/steven2358/awesome-blockchain-ai/week/README.md)
 
 ### Blockchains for computation / Blockchain projects for AI algorithms
 
 *   [DeepBrain Chain](https://www.deepbrainchain.org/) - A decentralized AI computing platform that supplies processing power to companies looking to develop A.I. technologies.
 
-## [38. Awesome Codepoints](/content/Codepoints/awesome-codepoints/week/README.md)
+## [37. Awesome Codepoints](/content/Codepoints/awesome-codepoints/week/README.md)
 
 ### Standalone Code Points
 
@@ -530,7 +514,7 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
     they were mis-read or misinterpreted from other signs, when JIS was compiled
     from original printed text sources.
 
-## [39. Awesome Cdk](/content/kalaiser/awesome-cdk/week/README.md)
+## [38. Awesome Cdk](/content/kalaiser/awesome-cdk/week/README.md)
 
 ### Construct Libraries / Static Websites
 
@@ -540,27 +524,27 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 
 *   [aws-pdf-textract-pipeline (⭐126)](https://github.com/aeksco/aws-pdf-textract-pipeline) - ETL pipeline for crawling PDFs from the Web using Puppeteer and transforming their contents into structured data using AWS Textract and storing the results in DynamoDB.
 
-## [40. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+## [39. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
 ### Conferences and Events / South America
 
 *   [Hackers to Hackers Conference (H2HC)](https://www.h2hc.com.br/) - Oldest security research (hacking) conference in Latin America and one of the oldest ones still active in the world.
 
-## [41. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
+## [40. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
 
 ### Tools / Static Analysis Tools
 
-*   [Quark-Engine (⭐1.3k)](https://github.com/quark-engine/quark-engine) - An Obfuscation-Neglect Android Malware Scoring System
-*   [One Step Decompiler (⭐242)](https://github.com/b-mueller/apkx) - Android APK Decompilation for the Lazy
+*   [Quark-Engine (⭐1.4k)](https://github.com/quark-engine/quark-engine) - An Obfuscation-Neglect Android Malware Scoring System
+*   [One Step Decompiler (⭐258)](https://github.com/b-mueller/apkx) - Android APK Decompilation for the Lazy
 
 ### Tools / Misc Tools
 
-*   [Android Mobile Device Hardening (⭐192)](https://github.com/SecTheTech/AMDH) - AMDH scans and hardens the device's settings and lists harmful installed Apps based on permissions.
+*   [Android Mobile Device Hardening (⭐202)](https://github.com/SecTheTech/AMDH) - AMDH scans and hardens the device's settings and lists harmful installed Apps based on permissions.
 *   ~~[Opcodes table for quick reference](http://ww38.xchg.info/corkami/opcodes_tables.pdf)~~
 *   ~~[APK-Downloader](http://codekiem.com/2012/02/24/apk-downloader/)~~ - seems dead now
 *   ~~[Dalvik opcodes](http://pallergabor.uw.hu/androidblog/dalvik_opcodes.html)~~
 
-## [42. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [41. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Cryptocurrency
 
@@ -604,7 +588,7 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 
 
 
-## [43. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [42. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Infinite Scroll
 
@@ -632,18 +616,18 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 
 *   [react-enterprise-starter-kit (⭐88)](https://github.com/anandgupta193/react-enterprise-starter-kit) - Highly Scalable and Performant Awesome React Starter Kit for an enterprise application with a very easy maintainable codebase.
 
-## [44. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
+## [43. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
 
 ### Emojis / Fonts
 
-*   [Crypto Puzzles (⭐20)](https://github.com/2d4d/crypto_puzzles) - Includes e
+*   [Crypto Puzzles (⭐29)](https://github.com/2d4d/crypto_puzzles) - Includes e
     moji font: ᵺ ༐ 💰     ༐ ⑀     🅰️ И     € ❎ ㏂ 𝔭 ᇉ     𝔬 🎏     ᵺ €     モ Ⓜ️ 🍩 🃛 ï     ℉ 𝔬 ♑ 𝔱  (Online demo: <http://rupp.de/crypto_puzzles/crypto_puzzles_web.py>)
 
 ### Iconic fonts / Fonts
 
 *   [Crypto animal font (⭐3)](https://github.com/ariassd/crypto-animal-font) - This font translates alphabet characters into symbols. The english ordered version uses animals matching the first letter of their name.
 
-## [45. Awesome Translations](/content/mbiesiad/awesome-translations/week/README.md)
+## [44. Awesome Translations](/content/mbiesiad/awesome-translations/week/README.md)
 
 ### Apps / Translation software
 
@@ -705,7 +689,7 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 
 *   [Google Crowdsource](https://crowdsource.google.com/) - Crowdsourcing platform developed by Google intended to improve a host of Google services through the user-facing training of different algorithms (with translation and translation validation section).
 
-## [46. Tools](/content/lvwzhen/tools/week/README.md)
+## [45. Tools](/content/lvwzhen/tools/week/README.md)
 
 ### CDN
 
@@ -715,13 +699,13 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 
 *   [neumorphism css generator](https://neumorphism.io/)
 
-## [47. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
+## [46. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
 
 ### Crash monitoring
 
 *   [Sentry (⭐672)](https://github.com/getsentry/sentry-dart) - Sentry provides self-hosted and cloud-based error monitoring that helps all software teams discover, triage, and prioritize errors in real-time.
 
-## [48. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [47. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Tools
 
@@ -729,16 +713,16 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 
 ### Starters & Themes
 
-*   🚀 [Starter Dashboard Layout (⭐206)](https://github.com/Kamona-WD/starter-dashboard-layout) - Dashboard layout using Tailwind CSS and Alpine JS.
+*   🚀 [Starter Dashboard Layout (⭐213)](https://github.com/Kamona-WD/starter-dashboard-layout) - Dashboard layout using Tailwind CSS and Alpine JS.
 
-## [49. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/week/README.md)
+## [48. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/week/README.md)
 
 ### IDE
 
 *   [Atom (⭐60k)](https://github.com/atom/atom) - Opensource,fully-featured,hackable text editor for coding.
 *   [Brackets (⭐33k)](https://github.com/adobe/brackets) -  A modern and open-source code editor for HTML, CSS and JavaScript.
 
-## [50. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [49. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
@@ -753,27 +737,27 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 
 *   [BoxySVG](https://boxy-svg.com/app) — A free installable Web app for drawing SVGs and exporting in SVG, PNG, jpeg, and other formats.
 
-## [51. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [50. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Bookmarks and Link Sharing
 
-*   [Firefox Account Server](https://mozilla-services.readthedocs.io/en/latest/howtos/run-fxa.html) - This allows you to host your own Firefox accounts server. ([Source Code (⭐588)](https://github.com/mozilla/fxa)) `MPL-2.0` `Nodejs/Java`
+*   [Firefox Account Server](https://mozilla-services.readthedocs.io/en/latest/howtos/run-fxa.html) - This allows you to host your own Firefox accounts server. ([Source Code (⭐612)](https://github.com/mozilla/fxa)) `MPL-2.0` `Nodejs/Java`
 
 ### Software / Communication - Custom Communication Systems
 
 *   [Conduit](https://conduit.rs/) - A simple, fast, and reliable chat server powered by Matrix. ([Source Code](https://gitlab.com/famedly/conduit)) `Apache-2.0` `Rust`
 
-## [52. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/week/README.md)
+## [51. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/week/README.md)
 
 ### Inspiration / Games
 
 *   [Hyper Light Drifter](https://heartmachine.com/hyper-light) - Top-down action in a sci-fi world that radiates light and warmth. Using a colorful palette and kaleidoscopic neon yet setting a grim ambiance.
 
-## [53. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [52. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / Computer Vision
 
-*   [Learnergy (⭐64)](https://github.com/gugarosa/learnergy) - Energy-based machine learning models built upon PyTorch.
+*   [Learnergy (⭐65)](https://github.com/gugarosa/learnergy) - Energy-based machine learning models built upon PyTorch.
 
 ### Python / Natural Language Processing
 
@@ -783,7 +767,7 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 
 *   [OPFython (⭐34)](https://github.com/gugarosa/opfython) - A Python-inspired implementation of the Optimum-Path Forest classifier.
 
-## [54. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
+## [53. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
 
 ### Libraries / PHP
 
@@ -793,13 +777,13 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 
 *   [termd (⭐59)](https://github.com/dephraiim/termd) - Markdown renderer for the terminal with syntax highlighting. ![Mac OS X](https://img.icons8.com/color/24/mac-logo.png "Mac OS X") ![Linux](https://img.icons8.com/color/24//linux--v1.png "Linux") ![Windows](https://img.icons8.com/color/24/windows-11.png "Windows")
 
-## [55. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
+## [54. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
 ### Related awesomeness / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
 *   [Tromjaro Apps](https://www.tromjaro.com/apps/) - A curated collection of trade-free applications.
 
-## [56. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [55. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### Books
 
@@ -813,7 +797,7 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 
 *   [Booster](https://www.booster.cloud/) - A CQRS, DDD and event-sourcing open-source framework that leverages all the infrastructure and uses high-level abstractions and conventions. It help users build advanved even-driven applications letting them focus on business logic exclusively.
 
-## [57. Awesome Perl](/content/hachiojipm/awesome-perl/week/README.md)
+## [56. Awesome Perl](/content/hachiojipm/awesome-perl/week/README.md)
 
 ### Audio
 
@@ -905,21 +889,21 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 *   [Asm::X86](https://metacpan.org/pod/Asm::X86) - List of instructions and registers of x86-compatible processors, validating and converting instructions and memory references
 *   [ELF::Writer](https://metacpan.org/pod/ELF::Writer) - write and read executable ELF files
 
-## [58. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
+## [57. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
 
 ### Plugins / Languages and Environments
 
-*   [YAML (⭐108)](https://github.com/ota-meshi/eslint-plugin-yml) - ESLint plugin for YAML.
+*   [YAML (⭐121)](https://github.com/ota-meshi/eslint-plugin-yml) - ESLint plugin for YAML.
 
 ### Plugins / Style
 
 *   [padding (⭐4)](https://github.com/mu-io/eslint-plugin-padding) - Allows/disallows padding between statements.
 
-## [59. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [58. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Tools
 
-*   [bst (⭐8)](https://github.com/glv2/bst) - Binary Search Tree. [GPL3](http://www.gnu.org/copyleft/gpl.html).
+*   [bst (⭐9)](https://github.com/glv2/bst) - Binary Search Tree. [GPL3](http://www.gnu.org/copyleft/gpl.html).
 
 ### Community / Interfaces to other package managers
 
@@ -927,31 +911,25 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 
 ### Utils / Third-party APIs
 
-*   [calispel (⭐31)](https://github.com/hawkir/calispel) - [CSP](https://en.wikipedia.org/wiki/Communicating_sequential_processes)-like channels for common lisp. With blocking, optionally buffered channels and a "CSP select" statement. ISC-style.
-    *   "It is complete, flexible and easy to use. I would recommend Calispel over Lparallel and ChanL." @Ambrevar. [discussion (⭐2.5k)](https://github.com/CodyReichert/awesome-cl/issues/290)
+*   [calispel (⭐32)](https://github.com/hawkir/calispel) - [CSP](https://en.wikipedia.org/wiki/Communicating_sequential_processes)-like channels for common lisp. With blocking, optionally buffered channels and a "CSP select" statement. ISC-style.
+    *   "It is complete, flexible and easy to use. I would recommend Calispel over Lparallel and ChanL." @Ambrevar. [discussion (⭐2.7k)](https://github.com/CodyReichert/awesome-cl/issues/290)
 
 ### Apps / Third-party APIs
 
-*   [cl-phonetic (⭐24)](https://github.com/bgutter/cl-phonetic) - Phonetic pattern matching library for Common Lisp (intended to replace the Sylvia library for Python). [MIT](https://opensource.org/licenses/MIT).
-*   [cl-string-generator (⭐23)](https://github.com/pokepay/cl-string-generator) -  Generate string from regular expression. [MIT](https://opensource.org/licenses/MIT).
+*   [cl-phonetic (⭐25)](https://github.com/bgutter/cl-phonetic) - Phonetic pattern matching library for Common Lisp (intended to replace the Sylvia library for Python). [MIT](https://opensource.org/licenses/MIT).
+*   [cl-string-generator (⭐24)](https://github.com/pokepay/cl-string-generator) -  Generate string from regular expression. [MIT](https://opensource.org/licenses/MIT).
 
 ### Plotting / Third-party APIs
 
 *   [ADW-Charting](https://common-lisp.net/project/adw-charting/) - A simple chart drawing library written completely in Common Lisp. Also includes a backend to Google's chart service. BSD-like.
 
-## [60. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
+## [59. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
 ### Books / Automation
 
 *   [The Jamstack Book](https://www.manning.com/books/the-jamstack-book) - by Raymond Camden and Brian Rinaldi
 
-## [61. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/week/README.md)
-
-### Web Hosting
-
-*   [Bip](https://bip.sh/students) \[DISCOUNT] - Static web hosting. Bip provides a 30% recurring discount per domain on your student account [on all plans](https://bip.sh/pricing).
-
-## [62. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+## [60. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
 ### Tutorials
 
@@ -961,7 +939,7 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 
 *   [Cyber City](https://vz777.com/cybercity/index.html) - Promotional site for Visionaries777.
 
-## [63. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
+## [61. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
 ### Architecture and Design
 
@@ -971,37 +949,29 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 
 *   [SA-SSD (⭐466)](https://github.com/skyhehe123/SA-SSD) - Structure Aware Single-stage 3D Object Detection from Point Cloud.
 
-## [64. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
+## [62. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
 ### Threat intelligence / Threat signature packages and collections
 
 *   [FireEye's Sunburst Countermeasures (⭐560)](https://github.com/fireeye/sunburst_countermeasures) - Collection of IoC in various languages for detecting backdoored SolarWinds Orion NMS activities and related vulnerabilities.
 
-## [65. Awesome Software Architecture](/content/simskij/awesome-software-architecture/week/README.md)
+## [63. Awesome Software Architecture](/content/simskij/awesome-software-architecture/week/README.md)
 
 ### Documentation / Scalability and Resilience
 
 *   [arc42](https://arc42.org/) - Template for documentation and communication of software and system architectures.
 
-## [66. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
+## [64. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
 
 ### Remote / TypeScript
 
 *   [Just Remote](https://justremote.co/remote-jobs)
 
-## [67. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [65. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
-*   [Building a realtime quiz with VueJS using a starter kit (⭐75)](https://github.com/ably-labs/realtime-quiz-framework/blob/main/TUTORIAL.md) by Srushtika Neelakantam (October 2020)
-
-### Resources / Examples
-
-*   [Shopify Theme Lab (⭐736)](https://github.com/uicrooks/shopify-theme-lab) - Shopify theme development starter using Vue, Vuex and Tailwind CSS
-
-### Projects Using Vue.js / Open Source
-
-*   [Realtime quiz framework (⭐75)](https://github.com/ably-labs/realtime-quiz-framework) - A starter kit built with NodeJS, VueJS and Ably providing the scalable base networking framework to host a live quiz
+*   [Building a realtime quiz with VueJS using a starter kit (⭐77)](https://github.com/ably-labs/realtime-quiz-framework/blob/main/TUTORIAL.md) by Srushtika Neelakantam (October 2020)
 
 ### Projects Using Vue.js / Apps/Websites
 
@@ -1010,17 +980,10 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 ### Components & Libraries / Frameworks
 
 *   [element3 (⭐3.3k)](https://github.com/kkbjs/element3) - A Vue.js 3.0 UI Toolkit for Web is based on element-ui
-*   [Qui (⭐235)](https://github.com/Qvant-lab/qui) - A Vue 2.x Design System for Web
 
 ### Components & Libraries / UI Components
 
-*   [vue-my-toasts (⭐137)](https://github.com/Tahul/vue-my-toasts) - Provide your component and let us toast the rest.
-*   [vue-use-sound (⭐473)](https://github.com/Tahul/vue-use-sound) - A Vue Hook for playing sound effects.
-*   [@vueform/multiselect (⭐790)](https://github.com/vueform/multiselect) - Vue 3 multiselect component with single select, multiselect and tagging options.
-
-### Components & Libraries / Utilities
-
-*   [vue-catch-hrefs (⭐5)](https://github.com/Tahul/vue-catch-hrefs) - Catch clicks on hrefs links (in v-html) and route them to vue-router.
+*   [@vueform/multiselect (⭐811)](https://github.com/vueform/multiselect) - Vue 3 multiselect component with single select, multiselect and tagging options.
 
 ---
 

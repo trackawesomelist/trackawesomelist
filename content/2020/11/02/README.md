@@ -75,24 +75,24 @@
 
 ### Entertainment / Video
 
-*   [editly (⭐4.5k)](https://github.com/mifi/editly) - Declarative video editing.
+*   [editly (⭐4.8k)](https://github.com/mifi/editly) - Declarative video editing.
 
 ### Data Manipulation / Processors
 
-*   [jq (⭐29k)](https://github.com/stedolan/jq) - JSON processor.
-*   [yq (⭐2.5k)](https://github.com/kislyuk/yq) - YAML processor.
-*   [dasel (⭐4.9k)](https://github.com/tomwright/dasel) - JSON/YAML/TOML/XML processor (like jq/yq).
+*   [jq (⭐31k)](https://github.com/stedolan/jq) - JSON processor.
+*   [yq (⭐2.6k)](https://github.com/kislyuk/yq) - YAML processor.
+*   [dasel (⭐7.2k)](https://github.com/tomwright/dasel) - JSON/YAML/TOML/XML processor (like jq/yq).
 *   [yaml-cli (⭐86)](https://github.com/pandastrike/yaml-cli) - Query/update YAML.
-*   [ramda-cli (⭐571)](https://github.com/raine/ramda-cli) - Process data with functional pipelines.
+*   [ramda-cli (⭐573)](https://github.com/raine/ramda-cli) - Process data with functional pipelines.
 
 ### Data Manipulation / JSON
 
-*   [jp (⭐50)](https://github.com/therealklanni/jp) - JSON parser.
+*   [jp (⭐51)](https://github.com/therealklanni/jp) - JSON parser.
 *   [underscore-cli (⭐1.7k)](https://github.com/ddopson/underscore-cli) - Utility-belt for hacking JSON and Javascript.
 
 ### Data Manipulation / Columns
 
-*   [parse-columns-cli (⭐64)](https://github.com/sindresorhus/parse-columns-cli) - Parse text columns to JSON.
+*   [parse-columns-cli (⭐66)](https://github.com/sindresorhus/parse-columns-cli) - Parse text columns to JSON.
 *   [q](http://harelba.github.io/q/) - Execution of SQL-like queries on CSV/TSV/tabular text file.
 
 ## [9. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
@@ -122,7 +122,7 @@
 
 ### Packages / Storage
 
-*   [Delta Lake (⭐5.9k)](https://github.com/delta-io/delta) <img src="https://img.shields.io/github/last-commit/delta-io/delta.svg"> - Storage layer with ACID transactions.
+*   [Delta Lake (⭐7.5k)](https://github.com/delta-io/delta) <img src="https://img.shields.io/github/last-commit/delta-io/delta.svg"> - Storage layer with ACID transactions.
 
 ## [11. Awesome Dash](/content/ucg8j/awesome-dash/README.md)
 
@@ -392,13 +392,13 @@
 
 ### Official Documentation Translations
 
-*   [Invidious (⭐16k)](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
+*   [Invidious (⭐17k)](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
 
 ## [18. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / General-Purpose Machine Learning
 
-*   [sktime (⭐7.7k)](https://github.com/alan-turing-institute/sktime) - A unified framework for machine learning with time series
+*   [sktime (⭐8k)](https://github.com/alan-turing-institute/sktime) - A unified framework for machine learning with time series
 
 ## [19. Awesome Silverstripe Cms](/content/wernerkrauss/awesome-silverstripe-cms/README.md)
 

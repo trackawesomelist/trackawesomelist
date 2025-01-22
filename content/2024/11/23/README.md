@@ -10,7 +10,7 @@
 
 ### Reproducing Works, Training & Books / Data Visualization
 
-*   [RoughVolatilityWorkshop (⭐14)](https://github.com/jgatheral/RoughVolatilityWorkshop) - 2024 QuantMind's Rough Volatility Workshop lectures.
+*   [RoughVolatilityWorkshop (⭐28)](https://github.com/jgatheral/RoughVolatilityWorkshop) - 2024 QuantMind's Rough Volatility Workshop lectures.
 
 ## [2. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
@@ -28,7 +28,7 @@
 
 ### Applications
 
-*   [Rust Iot Platform (⭐75)](https://github.com/iot-ecology/rust-iot-platform) - A high-performance IoT development platform built with Rust, designed for multi-protocol support and real-time data processing. This platform supports MQTT, WebSockets (WS), TCP, and CoAP protocols, making it highly flexible for diverse IoT applications.
+*   [Rust Iot Platform (⭐111)](https://github.com/iot-ecology/rust-iot-platform) - A high-performance IoT development platform built with Rust, designed for multi-protocol support and real-time data processing. This platform supports MQTT, WebSockets (WS), TCP, and CoAP protocols, making it highly flexible for diverse IoT applications.
 
 ## [5. Awesome Dos](/content/balintkissdev/awesome-dos/README.md)
 
@@ -55,7 +55,7 @@
 
 ### Examples
 
-*   [PlexRipper/PlexRipper (⭐283)](https://github.com/PlexRipper/PlexRipper#readme) - Multiple badges, project logo, feature list, explanation, demonstration video, TOC for easy navigation.
+*   [PlexRipper/PlexRipper (⭐319)](https://github.com/PlexRipper/PlexRipper#readme) - Multiple badges, project logo, feature list, explanation, demonstration video, TOC for easy navigation.
 
 ## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -91,7 +91,7 @@
 *   [electron-typescript-angular (⭐1)](https://github.com/supersu-man/electron-typescript-angular) - Really simple Electron + Typescript + Angular boilerplate.
 *   [nx-starter (⭐4)](https://github.com/touhidrahman/nx-starter) - Nx powered starter project for Angular with SpartanUI.
 *   [ng-starter-template (⭐1)](https://github.com/hkurma/ng-starter-template) - Angular application starter template configured with scss, eslint, prettier, husky, and lint-staged.
-*   [angular-material-tailwind-playwright-starter (⭐1)](https://github.com/adrian-taralunga/angular-material-tailwind-playwright-starter) - Angular 19 with material, tailwind, jest, playwright, and ngxs.
+*   [angular-material-tailwind-playwright-starter (⭐2)](https://github.com/adrian-taralunga/angular-material-tailwind-playwright-starter) - Angular 19 with material, tailwind, jest, playwright, and ngxs.
 
 ### Validation / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -99,4 +99,5 @@
 
 ---
 
+- Prev: [Nov 24, 2024](/content/2024/11/24/README.md)
 - Next: [Nov 22, 2024](/content/2024/11/22/README.md)

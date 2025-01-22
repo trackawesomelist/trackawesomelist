@@ -16,9 +16,9 @@
 ### Services / Misc
 
 *   [Sendgrid](https://sendgrid.com/) - Delivering your transactional and marketing email through one reliable platform.
-*   [Postal (⭐13k)](https://github.com/atech/postal) - A fully featured open source mail delivery platform for incoming & outgoing e-mail.
+*   [Postal (⭐15k)](https://github.com/atech/postal) - A fully featured open source mail delivery platform for incoming & outgoing e-mail.
 
-### Copy / Misc
+### Inspirations / Misc
 
 *   [Email Copy](http://www.goodemailcopy.com/) - Email copy from great companies.
 
@@ -26,13 +26,13 @@
 
 ### Audio Libraries
 
-*   [Librosa (⭐6.7k)](https://github.com/librosa/librosa) - a python package for music and audio analysis, providing the building blocks necessary to create music information retrieval systems.
+*   [Librosa (⭐7.3k)](https://github.com/librosa/librosa) - a python package for music and audio analysis, providing the building blocks necessary to create music information retrieval systems.
 
 ## [3. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
 ### Demo
 
-*   [RealWorld (⭐105)](https://github.com/gothinkster/cakephp-realworld-example-app) - Example CakePHP codebase containing real world examples (CRUD, auth, advanced patterns and more) that adheres to the [RealWorld (⭐80k)](https://github.com/gothinkster/realworld-example-apps) spec and API.
+*   [RealWorld (⭐104)](https://github.com/gothinkster/cakephp-realworld-example-app) - Example CakePHP codebase containing real world examples (CRUD, auth, advanced patterns and more) that adheres to the [RealWorld (⭐81k)](https://github.com/gothinkster/realworld-example-apps) spec and API.
 
 ## [4. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/README.md)
 
@@ -50,7 +50,7 @@
 
 ### IDE
 
-*   [RoslynPad (⭐2.4k)](https://github.com/aelij/RoslynPad) - A simple C# editor based on Roslyn and AvalonEdit.
+*   [RoslynPad (⭐2.5k)](https://github.com/aelij/RoslynPad) - A simple C# editor based on Roslyn and AvalonEdit.
 
 ## [7. Awesome Opengl](/content/eug/awesome-opengl/README.md)
 

@@ -10,7 +10,7 @@
 
 ### Software / E-commerce
 
-*   [MedusaJs](https://medusajs.com/) - Medusa is an open-source headless commerce engine that enables developers to create amazing digital commerce experiences. ([Demo](https://next.medusajs.com/), [Source Code (⭐24k)](https://github.com/medusajs/medusa)) `MIT` `Nodejs`
+*   [MedusaJs](https://medusajs.com/) - Medusa is an open-source headless commerce engine that enables developers to create amazing digital commerce experiences. ([Demo](https://next.medusajs.com/), [Source Code (⭐27k)](https://github.com/medusajs/medusa)) `MIT` `Nodejs`
 
 ## [2. Awesome Github Wiki](/content/MyHoneyBadger/awesome-github-wiki/README.md)
 
@@ -29,11 +29,11 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [mkarch (⭐4)](https://github.com/0xRZ/mkarch) - ZSH plugin that allows you to create archives using multiple different compression formats.
+*   [mkarch (⭐5)](https://github.com/0xRZ/mkarch) - ZSH plugin that allows you to create archives using multiple different compression formats.
 
 ## [5. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
-### Domain and IP Research / Telegram
+### Domain and IP Research / Steam
 
 *   [Majestic](https://majestic.com) - Find out who links to your website.
 *   [OpenLinkProfiler](http://www.openlinkprofiler.org/)

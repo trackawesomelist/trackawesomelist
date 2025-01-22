@@ -38,7 +38,7 @@
 
 ### Unit Test, Testing / Apache License
 
-*   [gnatbdd (⭐6)](https://github.com/briot/gnatbdd) - Behavior Driven Development in Ada.
+*   [gnatbdd (⭐7)](https://github.com/briot/gnatbdd) - Behavior Driven Development in Ada.
 
 ### System Modeling / Apache License
 
@@ -58,9 +58,9 @@
 
 ## [8. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
-### Other Tools / Telegram
+### Other Tools / Steam
 
-*   [sn0int (⭐1.9k)](https://github.com/kpcyrd/sn0int) - Semi-automatic OSINT framework and package manager.
+*   [sn0int (⭐2.1k)](https://github.com/kpcyrd/sn0int) - Semi-automatic OSINT framework and package manager.
 
 ## [9. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
@@ -72,7 +72,7 @@
 
 ### Logging / Text-Based User Interfaces
 
-*   [p6spy (⭐2k)](https://github.com/p6spy/p6spy) - Enables logging for all JDBC transactions without changes to the code.
+*   [p6spy (⭐2.1k)](https://github.com/p6spy/p6spy) - Enables logging for all JDBC transactions without changes to the code.
 
 ### Messaging / Text-Based User Interfaces
 
@@ -85,7 +85,7 @@
 
 ### Monitoring / Text-Based User Interfaces
 
-*   [Jaeger client (⭐490)](https://github.com/jaegertracing/jaeger-client-java) - Jaeger client.
+*   [Jaeger client (⭐491)](https://github.com/jaegertracing/jaeger-client-java) - Jaeger client.
 
 ### Security / Other
 
@@ -106,7 +106,7 @@
 
 ### Framework Components
 
-*   [praetorian (⭐59)](https://github.com/ilanusse/praetorian) - Minimalist authorization library inspired by Pundit
+*   [praetorian (⭐60)](https://github.com/ilanusse/praetorian) - Minimalist authorization library inspired by Pundit
 
 ## [13. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
@@ -263,7 +263,7 @@ Topics: Standards, Web Assembly\
 
 ### Swift programming / iOS
 
-*   [SwiftyGPIO (⭐1.3k)](https://github.com/uraimo/SwiftyGPIO) - Swift library for hardware projects on Linux/ARM boards with support for GPIOs/SPI/I2C/PWM/UART/1Wire.
+*   [SwiftyGPIO (⭐1.4k)](https://github.com/uraimo/SwiftyGPIO) - Swift library for hardware projects on Linux/ARM boards with support for GPIOs/SPI/I2C/PWM/UART/1Wire.
 
 ## [27. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
@@ -404,7 +404,7 @@ Topics: Standards, Web Assembly\
 
 - ☆: ★★★
 
-  Name: [Mini-Editorials (⭐376)](https://github.com/mostafa-saad/MyCompetitiveProgramming), by [Mostafa Saad Ibrahim](https://sites.google.com/site/mostafasibrahim/) trainees
+  Name: [Mini-Editorials (⭐397)](https://github.com/mostafa-saad/MyCompetitiveProgramming), by [Mostafa Saad Ibrahim](https://sites.google.com/site/mostafasibrahim/) trainees
 
   Description: Solutions with mini-editorials for many problems, including UVA/SPOJ/IOI/Olympiad problems
 
@@ -646,19 +646,19 @@ Topics: Standards, Web Assembly\
 
   Name: [CodeLibrary](http://code-library.herokuapp.com/), by Andrey Naumenko (indy256)
 
-  Description: CodeLibrary contains a large collection of implementations for algorithms and data structures in Java and C++. You may also visit his [GitHub Repository (⭐1.8k)](https://github.com/indy256/codelibrary).
+  Description: CodeLibrary contains a large collection of implementations for algorithms and data structures in Java and C++. You may also visit his [GitHub Repository (⭐1.9k)](https://github.com/indy256/codelibrary).
 
 
 - ☆: ★★★
 
-  Name: [spaghetti-source/algorithm (⭐781)](https://github.com/spaghetti-source/algorithm), by Takanori MAEHARA (@tmaehara)
+  Name: [spaghetti-source/algorithm (⭐782)](https://github.com/spaghetti-source/algorithm), by Takanori MAEHARA (@tmaehara)
 
   Description: High-quality implementations of many hard algorithms and data structures.
 
 
 - ☆: ★★★
 
-  Name: [kth-competitive-programming/kactl (⭐2.6k)](https://github.com/kth-competitive-programming/kactl), by Simon Lindholm (simonlindholm) et al.
+  Name: [kth-competitive-programming/kactl (⭐2.8k)](https://github.com/kth-competitive-programming/kactl), by Simon Lindholm (simonlindholm) et al.
 
   Description: A phenomenally organized, documented and tested team notebook from KTH Royal Institute of Technology. One of the most well-crafted team notebooks (contest libraries) I've ever seen.
 
@@ -672,21 +672,21 @@ Topics: Standards, Web Assembly\
 
 - ☆: ★★☆
 
-  Name: [ngthanhtrung23/ACM\_Notebook\_new (⭐420)](https://github.com/ngthanhtrung23/ACM_Notebook_new), by team RR Watameda (I\_love\_Hoang\_Yen, flashmt, nguyenhungtam) from National University of Singapore
+  Name: [ngthanhtrung23/ACM\_Notebook\_new (⭐428)](https://github.com/ngthanhtrung23/ACM_Notebook_new), by team RR Watameda (I\_love\_Hoang\_Yen, flashmt, nguyenhungtam) from National University of Singapore
 
   Description: RR Watameda represented National University of Singapore for the 2016 ACM-ICPC World Finals. The items in this notebook are pretty standard and well-organized.
 
 
 - ☆: ★★☆
 
-  Name: [bobogei81123/bcw\_codebook (⭐111)](https://github.com/bobogei81123/bcw_codebook), by team bcw0x1bd2 (darkhh, bobogei81123, step5) from National Taiwan University
+  Name: [bobogei81123/bcw\_codebook (⭐110)](https://github.com/bobogei81123/bcw_codebook), by team bcw0x1bd2 (darkhh, bobogei81123, step5) from National Taiwan University
 
   Description: bcw0x1bd2 represented National Taiwan University for the 2016 ACM-ICPC World Finals. This notebook contains robust implementations for advanced data structures and algorithms.
 
 
 - ☆: ★☆☆
 
-  Name: [foreverbell/acm-icpc-cheat-sheet (⭐168)](https://github.com/foreverbell/acm-icpc-cheat-sheet), by foreverbell (foreverbell)
+  Name: [foreverbell/acm-icpc-cheat-sheet (⭐165)](https://github.com/foreverbell/acm-icpc-cheat-sheet), by foreverbell (foreverbell)
 
   Description: A notebook with some advanced data structures and algorithms including some from the China informatics scene.
 
@@ -887,7 +887,7 @@ Topics: Standards, Web Assembly\
 
 - ☆: ★★☆
 
-  Name: Codeforces Parsers: ... [Codeforces Parser (⭐133)](https://github.com/johnathan79717/codeforces-parser) ... [GoCF (⭐47)](https://github.com/sukeesh/GoCF) ... [cfparser (⭐17)](https://github.com/gnull/cfparser) (emacs) [cfparser (⭐3)](https://github.com/ikatanic/cfparser) (cli)
+  Name: Codeforces Parsers: ... [Codeforces Parser (⭐137)](https://github.com/johnathan79717/codeforces-parser) ... [GoCF (⭐47)](https://github.com/sukeesh/GoCF) ... [cfparser (⭐17)](https://github.com/gnull/cfparser) (emacs) [cfparser (⭐4)](https://github.com/ikatanic/cfparser) (cli)
 
   Description: These tools parse Codeforces contest problems and help run sample tests.
 
@@ -1084,7 +1084,7 @@ Topics: Standards, Web Assembly\
 
 - Name: Free Programming Books
 
-  Link: [vhf/free-programming-books (⭐327k)](https://github.com/EbookFoundation/free-programming-books)
+  Link: [vhf/free-programming-books (⭐340k)](https://github.com/EbookFoundation/free-programming-books)
 
 
 - Name: Community-curated C++ Resources
@@ -1103,23 +1103,23 @@ Topics: Standards, Web Assembly\
 
 ### ASM / Syntax highlighting packages
 
-*   [rgbds-mode (⭐3)](https://github.com/japanoise/rgbds-mode) - Emacs major mode for RGBDS assembly.
+*   [rgbds-mode (⭐4)](https://github.com/japanoise/rgbds-mode) - Emacs major mode for RGBDS assembly.
 
 ## [32. Awesome Mysql](/content/shlomi-noach/awesome-mysql/week/README.md)
 
 ### Analysis
 
 *   [Anemometer (⭐1.4k)](https://github.com/box/Anemometer) - Box SQL slow query monitor.
-*   [innodb-ruby (⭐1.6k)](https://github.com/jeremycole/innodb_ruby) - A parser for InnoDB file formats, in Ruby.
-*   [innotop (⭐753)](https://github.com/innotop/innotop) - a 'top' clone for MySQL with many features and flexibility.
-*   [MySQL Explain Analyzer (⭐92)](https://github.com/Preetam/explain-analyzer) - A web-based analyzer of `EXPLAIN FORMAT=JSON` output, providing comments, scalability analysis and permalinks for saved samples.
+*   [innodb-ruby (⭐1.7k)](https://github.com/jeremycole/innodb_ruby) - A parser for InnoDB file formats, in Ruby.
+*   [innotop (⭐763)](https://github.com/innotop/innotop) - a 'top' clone for MySQL with many features and flexibility.
+*   [MySQL Explain Analyzer (⭐93)](https://github.com/Preetam/explain-analyzer) - A web-based analyzer of `EXPLAIN FORMAT=JSON` output, providing comments, scalability analysis and permalinks for saved samples.
 *   [mysql-statsd (⭐99)](https://github.com/db-art/mysql-statsd) - A Python daemon to collect information from MySQL and send it via StatsD to Graphite.
-*   [pstop (⭐202)](https://github.com/sjmudd/ps-top) - a top-like program for MySQL, collecting, aggregating and displaying information from performance\_schema.
+*   [pstop (⭐206)](https://github.com/sjmudd/ps-top) - a top-like program for MySQL, collecting, aggregating and displaying information from performance\_schema.
 
 ### Benchmarking
 
 *   [iibench-mysql (⭐46)](https://github.com/tmcallaghan/iibench-mysql) - Java based version of the Index Insertion Benchmark for MySQL/Percona/MariaDB.
-*   [Sysbench (⭐6k)](https://github.com/akopytov/sysbench) - a modular, cross-platform and multi-threaded benchmark tool.
+*   [Sysbench (⭐6.2k)](https://github.com/akopytov/sysbench) - a modular, cross-platform and multi-threaded benchmark tool.
 
 ### ChatOps
 
@@ -1131,10 +1131,10 @@ Topics: Standards, Web Assembly\
 
 ### Connectors
 
-*   [go-sql-driver (⭐14k)](https://github.com/go-sql-driver/mysql) - a lightweight and fast MySQL-Driver for Go's (golang) database/sql package.
-*   [libAttachSQL (⭐31)](https://github.com/libattachsql/libattachsql) - libAttachSQL is a lightweight, non-blocking C API for MySQL servers.
-*   [PyMySQL (⭐7.6k)](https://github.com/PyMySQL/PyMySQL) - MySQL database connector for Python.
-*   [Ruby Mysql2 gem (⭐2.2k)](https://github.com/brianmario/mysql2) - MySQL driver for Ruby and Rails projects.
+*   [go-sql-driver (⭐15k)](https://github.com/go-sql-driver/mysql) - a lightweight and fast MySQL-Driver for Go's (golang) database/sql package.
+*   [libAttachSQL (⭐30)](https://github.com/libattachsql/libattachsql) - libAttachSQL is a lightweight, non-blocking C API for MySQL servers.
+*   [PyMySQL (⭐7.7k)](https://github.com/PyMySQL/PyMySQL) - MySQL database connector for Python.
+*   [Ruby Mysql2 gem (⭐2.3k)](https://github.com/brianmario/mysql2) - MySQL driver for Ruby and Rails projects.
 
 ### Deployment
 
@@ -1142,17 +1142,17 @@ Topics: Standards, Web Assembly\
 
 ### Development
 
-*   [Shift (⭐738)](https://github.com/square/shift) - An application that helps you run schema migrations on MySQL databases
+*   [Shift (⭐735)](https://github.com/square/shift) - An application that helps you run schema migrations on MySQL databases
 
 ### GUI
 
 *   [mycli (⭐11k)](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
-*   [Ocelot GUI (⭐61)](https://github.com/ocelot-inc/ocelotgui) - GUI client for MySQL or MariaDB, including debugger.
-*   [pspg (⭐2.4k)](https://github.com/okbob/pspg) - provides a pager with enhanced visualization and navigation for tabular data. Originally implemented for PostgreSQL, but also supports MySQL.
+*   [Ocelot GUI (⭐62)](https://github.com/ocelot-inc/ocelotgui) - GUI client for MySQL or MariaDB, including debugger.
+*   [pspg (⭐2.5k)](https://github.com/okbob/pspg) - provides a pager with enhanced visualization and navigation for tabular data. Originally implemented for PostgreSQL, but also supports MySQL.
 
 ### HA
 
-*   [replication-manager (⭐646)](https://github.com/signal18/replication-manager) - a high availability solution to manage MariaDB 10.x and MySQL & Percona Server 5.7 GTID replication topologies.
+*   [replication-manager (⭐660)](https://github.com/signal18/replication-manager) - a high availability solution to manage MariaDB 10.x and MySQL & Percona Server 5.7 GTID replication topologies.
 
 ### Proxy
 
@@ -1160,16 +1160,16 @@ Topics: Standards, Web Assembly\
 
 ### Schema
 
-*   [common\_schema (⭐128)](https://github.com/shlomi-noach/common_schema) - DBA's framework for MySQL, providing a function library, views library and QueryScript interpreter.
-*   [sys (⭐826)](https://github.com/mysql/mysql-sys) - A collection of views, functions and procedures to help MySQL administrators get insight in to MySQL Database usage.
+*   [common\_schema (⭐130)](https://github.com/shlomi-noach/common_schema) - DBA's framework for MySQL, providing a function library, views library and QueryScript interpreter.
+*   [sys (⭐828)](https://github.com/mysql/mysql-sys) - A collection of views, functions and procedures to help MySQL administrators get insight in to MySQL Database usage.
 
 ### Security
 
-*   [Acra (⭐1.3k)](https://github.com/cossacklabs/acra) - SQL database protection suite: strong selective encryption, SQL injections prevention, intrusion detection system.
+*   [Acra (⭐1.4k)](https://github.com/cossacklabs/acra) - SQL database protection suite: strong selective encryption, SQL injections prevention, intrusion detection system.
 
 ### Server
 
-*   [MariaDB (⭐5.5k)](https://github.com/MariaDB/server) - Community developed fork of MySQL server.
+*   [MariaDB (⭐5.7k)](https://github.com/MariaDB/server) - Community developed fork of MySQL server.
 *   [MySQL Server & MySQL Cluster (⭐11k)](https://github.com/mysql/mysql-server) - Official Oracle's MySQL server & MySQL Cluster distribution.
 *   [TiDB (⭐37k)](https://github.com/pingcap/tidb) - A distributed HTAP database compatible with the MySQL protocol.
 
@@ -1179,7 +1179,7 @@ Topics: Standards, Web Assembly\
 
 ### e-books
 
-*   [SQL-exercise (⭐1.3k)](https://github.com/XD-DENG/SQL-exercise) - contains several SQL exercises, including the schema description figure, SQL code to build schema, questions and solutions in SQL. Based on wikibook [SQL Exercises](https://en.wikibooks.org/wiki/SQL_Exercises).
+*   [SQL-exercise (⭐1.4k)](https://github.com/XD-DENG/SQL-exercise) - contains several SQL exercises, including the schema description figure, SQL code to build schema, questions and solutions in SQL. Based on wikibook [SQL Exercises](https://en.wikibooks.org/wiki/SQL_Exercises).
 
 ## [33. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
@@ -1192,7 +1192,7 @@ Topics: Standards, Web Assembly\
 
 ### Modules / Utils
 
-*   [deno-opn (⭐40)](https://github.com/hashrock/deno-opn) - Opens stuff like websites, files, executables. Cross-platform.
+*   [deno-opn (⭐39)](https://github.com/hashrock/deno-opn) - Opens stuff like websites, files, executables. Cross-platform.
 
 ## [35. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
@@ -1202,7 +1202,7 @@ Topics: Standards, Web Assembly\
 
 ### Serialization
 
-*   [nanopb (⭐4.2k)](https://github.com/nanopb/nanopb) - Small code-size Protocol Buffers implementation in ANSI C. \[Zlib]
+*   [nanopb (⭐4.5k)](https://github.com/nanopb/nanopb) - Small code-size Protocol Buffers implementation in ANSI C. \[Zlib]
 
 ## [36. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
@@ -1238,7 +1238,7 @@ Topics: Standards, Web Assembly\
 
 ### Data / Redux / ELM / Dependency Injection
 
-*   [Graphql (⭐3.2k)](https://github.com/zino-app/graphql-flutter) <!--stargazers:zino-app/graphql-flutter--> - Implementation of the GraphQL spec by [Zino App B.V.](https://github.com/zino-app)
+*   [Graphql (⭐3.3k)](https://github.com/zino-app/graphql-flutter) <!--stargazers:zino-app/graphql-flutter--> - Implementation of the GraphQL spec by [Zino App B.V.](https://github.com/zino-app)
 
 ### Premium / Game Engine resources
 

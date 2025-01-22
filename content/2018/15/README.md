@@ -44,44 +44,44 @@
 ### Network Tools / Intentionally Vulnerable Systems as Docker Containers
 
 *   [Zarp (⭐1.4k)](https://github.com/hatRiot/zarp) - Network attack tool centered around the exploitation of local networks.
-*   [dnstwist (⭐4.7k)](https://github.com/elceef/dnstwist) - Domain name permutation engine for detecting typo squatting, phishing and corporate espionage.
+*   [dnstwist (⭐4.9k)](https://github.com/elceef/dnstwist) - Domain name permutation engine for detecting typo squatting, phishing and corporate espionage.
 
 ### Network Tools / Protocol Analyzers and Sniffers
 
-*   [Netzob (⭐755)](https://github.com/netzob/netzob) - Reverse engineering, traffic generation and fuzzing of communication protocols.
+*   [Netzob (⭐768)](https://github.com/netzob/netzob) - Reverse engineering, traffic generation and fuzzing of communication protocols.
 
 ### Network Tools / Proxies and Machine-in-the-Middle (MITM) Tools
 
-*   [Morpheus (⭐833)](https://github.com/r00t-3xp10it/morpheus) - Automated ettercap TCP/IP Hijacking tool.
+*   [Morpheus (⭐849)](https://github.com/r00t-3xp10it/morpheus) - Automated ettercap TCP/IP Hijacking tool.
 *   [SSH MITM (⭐1.6k)](https://github.com/jtesta/ssh-mitm) - Intercept SSH connections with a proxy; all plaintext passwords and sessions are logged to disk.
 
 ## [6. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/week/README.md)
 
 ### :sparkles: Tutorials
 
-*   [How to *evolve* neural networks in Ruby using the Machine Learning Workbench (⭐19)](https://github.com/giuse/machine_learning_workbench/blob/master/examples/neuroevolution.rb)
+*   [How to *evolve* neural networks in Ruby using the Machine Learning Workbench (⭐20)](https://github.com/giuse/machine_learning_workbench/blob/master/examples/neuroevolution.rb)
 
 ### Machine Learning Libraries / Frameworks
 
-*   [machine\_learning\_workbench (⭐19)](https://github.com/giuse/machine_learning_workbench) -
+*   [machine\_learning\_workbench (⭐20)](https://github.com/giuse/machine_learning_workbench) -
     Growing machine learning framework written in pure Ruby, high performance computing using
-    [Numo](https://github.com/ruby-numo/), CUDA bindings through [Cumo (⭐91)](https://github.com/sonots/cumo).
+    [Numo](https://github.com/ruby-numo/), CUDA bindings through [Cumo (⭐94)](https://github.com/sonots/cumo).
     Currently implementating neural networks, evolutionary strategies, vector quantization, and plenty of
     examples and utilities.
-*   [Deep NeuroEvolution (⭐124)](https://github.com/giuse/DNE) -
-    Experimental setup based on the [machine\_learning\_workbench (⭐19)](https://github.com/giuse/machine_learning_workbench)
+*   [Deep NeuroEvolution (⭐125)](https://github.com/giuse/DNE) -
+    Experimental setup based on the [machine\_learning\_workbench (⭐20)](https://github.com/giuse/machine_learning_workbench)
     towards searching for deep neural networks (rather than training) using evolutionary algorithms. Applications to the
-    [OpenAI Gym (⭐33k)](https://github.com/openai/gym) using [PyCall (⭐1k)](https://github.com/mrkn/pycall.rb).
+    [OpenAI Gym (⭐35k)](https://github.com/openai/gym) using [PyCall (⭐1.1k)](https://github.com/mrkn/pycall.rb).
 
 ### Machine Learning Libraries / Neural networks
 
-*   [machine\_learning\_workbench (⭐19)](https://github.com/giuse/machine_learning_workbench/tree/master/lib/machine_learning_workbench/neural_network) -
+*   [machine\_learning\_workbench (⭐20)](https://github.com/giuse/machine_learning_workbench/tree/master/lib/machine_learning_workbench/neural_network) -
     Framework including pure-Ruby implementation of both feed-forward and recurrent neural networks
     (fully connected). Training available using neuroevolution (Natural Evolution Strategies algorithms).
 
 ### Machine Learning Libraries / Evolutionary algorithms
 
-*   [machine\_learning\_workbench (⭐19)](https://github.com/giuse/machine_learning_workbench/tree/master/lib/machine_learning_workbench/optimizer/natural_evolution_strategies) -
+*   [machine\_learning\_workbench (⭐20)](https://github.com/giuse/machine_learning_workbench/tree/master/lib/machine_learning_workbench/optimizer/natural_evolution_strategies) -
     Framework including pure-Ruby implementations of Natural Evolution Strategy algorithms
     (black-box optimization), specifically Exponential NES (XNES),
     Separable NES (sNES), Block-Diagonal NES (BDNES) and more.
@@ -113,7 +113,7 @@
 
 ### Compilers, Transpilers and Languages
 
-*   [Testura.Code (⭐296)](https://github.com/Testura/Testura.Code) - Wrapper around the Roslyn API and used for generation, saving and compiling C# code. It provides methods and helpers to generate classes, methods, statements and expressions.
+*   [Testura.Code (⭐297)](https://github.com/Testura/Testura.Code) - Wrapper around the Roslyn API and used for generation, saving and compiling C# code. It provides methods and helpers to generate classes, methods, statements and expressions.
 
 ## [10. Awesome Roslyn](/content/ironcev/awesome-roslyn/week/README.md)
 
@@ -154,7 +154,7 @@
 
 ### Developer Tools / Command Line Tools
 
-*   [tmux (⭐34k)](https://github.com/tmux/tmux) - "Terminal multiplexer", it enables a number of terminals (or windows) to be accessed and controlled from a single terminal. tmux is intended to be a simple, modern, BSD-licensed alternative to programs such as GNU screen. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/tmux/tmux)
+*   [tmux (⭐36k)](https://github.com/tmux/tmux) - Terminal multiplexer to manage multiple terminals from a single terminal. [![OSS](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/tmux/tmux)
 
 ### Communication / File Sharing
 
@@ -162,7 +162,7 @@
 
 ### Utilities / System Related Tools
 
-*   [KeepingYouAwake (⭐5.6k)](https://github.com/newmarcel/KeepingYouAwake) - Alternative to Caffeine with better support for dark mode in Mac. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/newmarcel/KeepingYouAwake)
+*   [KeepingYouAwake (⭐5.7k)](https://github.com/newmarcel/KeepingYouAwake) - Alternative to Caffeine with better support for dark mode in Mac. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/newmarcel/KeepingYouAwake)
 
 ## [15. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
@@ -173,7 +173,7 @@
 
 ### Applications / Web
 
-*   [CodeCombat (⭐7.9k)](https://github.com/codecombat/codecombat) - Multiplayer programming game for learning how to code
+*   [CodeCombat (⭐8k)](https://github.com/codecombat/codecombat) - Multiplayer programming game for learning how to code
 
 ## [16. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
@@ -333,10 +333,6 @@
 
 *   [Vue.js 2 Design Patterns and Best Practices](https://www.amazon.com/dp/178883979X) by Paul Halliday, Packt. (March 2018)
 
-### Projects Using Vue.js / Open Source
-
-*   [V·oogle (⭐42)](https://github.com/VeryWow/v-oogle) - Google.com, reVued
-
 ## [35. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
 
 ### Golang
@@ -377,7 +373,7 @@
 
 ### Example Projects
 
-*   [Keycloak - Experimental extensions by Stian Thorgersen/Keycloak (⭐128)](https://github.com/stianst/keycloak-experimental)
+*   [Keycloak - Experimental extensions by Stian Thorgersen/Keycloak (⭐130)](https://github.com/stianst/keycloak-experimental)
 
 ## [39. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
 
@@ -435,7 +431,7 @@
 
 ### Examples / Templates
 
-*   [CMakeInstallExample (⭐28)](https://github.com/DeveloperPaul123/CMakeInstallExample) - Installation example for a C++ project (Windows) with Cmake. `[NO LICENSE]`
+*   [CMakeInstallExample (⭐35)](https://github.com/DeveloperPaul123/CMakeInstallExample) - Installation example for a C++ project (Windows) with Cmake. `[NO LICENSE]`
 
 ## [47. Awesome Swift Playgrounds](/content/uraimo/Awesome-Swift-Playgrounds/week/README.md)
 
@@ -461,11 +457,11 @@
 
 ### Concurrency
 
-*   [Intel Parallel STL (⭐719)](https://github.com/intel/parallelstl) - Intel® implementation of C++17 STL for C++11 and above. \[Apache2]
+*   [Intel Parallel STL (⭐732)](https://github.com/intel/parallelstl) - Intel® implementation of C++17 STL for C++11 and above. \[Apache2]
 
 ### Containers
 
-*   [ring\_span lite (⭐147)](https://github.com/martinmoene/ring-span-lite) - A simplified implementation of Arthur O'Dwyer's ring\_span implementation ie. a circular buffer view. \[MIT]
+*   [ring\_span lite (⭐155)](https://github.com/martinmoene/ring-span-lite) - A simplified implementation of Arthur O'Dwyer's ring\_span implementation ie. a circular buffer view. \[MIT]
 
 ---
 

@@ -79,12 +79,7 @@
 ### Component Libraries
 
 *   [dash-color-picker (⭐2)](https://github.com/vivekvs1/dash-color-picker) - Wrapper around react-color.
-*   [dash-dual-listbox (⭐11)](https://github.com/vivekvs1/dash-dual-listbox) - Wrapper around react-duallist.
-*   [dash-bootstrap-components](https://dash-bootstrap-components.opensource.asidatascience.com/) - Layout engine, default styles and high-level components based on Bootstrap.
-
-### Galleries
-
-*   [Dash Recipes GitHub (⭐951)](https://github.com/plotly/dash-recipes) - Collection of scripts and examples created while answering questions from the greater Dash community.
+*   [dash-dual-listbox (⭐12)](https://github.com/vivekvs1/dash-dual-listbox) - Wrapper around react-duallist.
 
 ## [5. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
@@ -165,19 +160,19 @@
 
 ### Peripheral Access Crates / Nordic
 
-*   [`nrf52810-pac`](https://crates.io/crates/nrf52810-pac) - Peripheral access API for the nRF52810 microcontroller (generated using svd2rust) - ![crates.io](https://img.shields.io/crates/v/nrf52810-pac.svg)
-*   [`nrf52832-pac`](https://crates.io/crates/nrf52832-pac) - Peripheral access API for the nRF52832 microcontroller (generated using svd2rust) - ![crates.io](https://img.shields.io/crates/v/nrf52832-pac.svg)
-*   [`nrf52840-pac`](https://crates.io/crates/nrf52840-pac) - Peripheral access API for the nRF52840 microcontroller (generated using svd2rust) - ![crates.io](https://img.shields.io/crates/v/nrf52840-pac.svg)
+*   [`nrf52810-pac`](https://crates.io/crates/nrf52810-pac) - Peripheral access API for the nRF52810 microcontroller (generated using svd2rust) - [![crates.io](https://img.shields.io/crates/v/nrf52810-pac.svg)](https://crates.io/crates/nrf52810-pac)
+*   [`nrf52832-pac`](https://crates.io/crates/nrf52832-pac) - Peripheral access API for the nRF52832 microcontroller (generated using svd2rust) - [![crates.io](https://img.shields.io/crates/v/nrf52832-pac.svg)](https://crates.io/crates/nrf52832-pac)
+*   [`nrf52840-pac`](https://crates.io/crates/nrf52840-pac) - Peripheral access API for the nRF52840 microcontroller (generated using svd2rust) - [![crates.io](https://img.shields.io/crates/v/nrf52840-pac.svg)](https://crates.io/crates/nrf52840-pac)
 
 ### HAL implementation crates / Nordic
 
-*   [`nrf52810-hal`](https://crates.io/crates/nrf52810-hal) - ![crates.io](https://img.shields.io/crates/v/nrf52810-hal.svg)
-*   [`nrf52832-hal`](https://crates.io/crates/nrf52832-hal) - ![crates.io](https://img.shields.io/crates/v/nrf52832-hal.svg)
-*   [`nrf52840-hal`](https://crates.io/crates/nrf52840-hal) - ![crates.io](https://img.shields.io/crates/v/nrf52840-hal.svg)
+*   [`nrf52810-hal`](https://crates.io/crates/nrf52810-hal) - [![crates.io](https://img.shields.io/crates/v/nrf52810-hal.svg)](https://crates.io/crates/nrf52810-hal)
+*   [`nrf52832-hal`](https://crates.io/crates/nrf52832-hal) - [![crates.io](https://img.shields.io/crates/v/nrf52832-hal.svg)](https://crates.io/crates/nrf52832-hal)
+*   [`nrf52840-hal`](https://crates.io/crates/nrf52840-hal) - [![crates.io](https://img.shields.io/crates/v/nrf52840-hal.svg)](https://crates.io/crates/nrf52840-hal)
 
 ### Board support crates / Nordic
 
-*   [`dwm1001`](https://crates.io/crates/dwm1001) - [Decawave DWM1001-DEV](https://www.decawave.com/product/dwm1001-development-board/) - ![crates.io](https://img.shields.io/crates/v/dwm1001.svg)
+*   [`dwm1001`](https://crates.io/crates/dwm1001) - [Decawave DWM1001-DEV](https://www.decawave.com/product/dwm1001-development-board/) - [![crates.io](https://img.shields.io/crates/v/dwm1001.svg)](https://crates.io/crates/dwm1001)
 
 ## [8. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/README.md)
 
@@ -266,8 +261,8 @@
 
 ### Hardware / Motor Controllers
 
-*   [grblShield (⭐131)](https://github.com/synthetos/grblShield) - All the stepper motor control hardware needed to turn an [Arduino](https://www.arduino.cc) into a G-code-based motion controller using the grbl firmware. ([adafruit](https://www.adafruit.com/product/1750))
-*   [TinyG (⭐887)](https://github.com/synthetos/TinyG) - More featureful and robust 6-axis G-code-based motion control hardware. ([adafruit](https://www.adafruit.com/product/1749))
+*   [grblShield (⭐133)](https://github.com/synthetos/grblShield) - All the stepper motor control hardware needed to turn an [Arduino](https://www.arduino.cc) into a G-code-based motion controller using the grbl firmware. ([adafruit](https://www.adafruit.com/product/1750))
+*   [TinyG (⭐899)](https://github.com/synthetos/TinyG) - More featureful and robust 6-axis G-code-based motion control hardware. ([adafruit](https://www.adafruit.com/product/1749))
 *   [Raspberry Pi CNC Hat](https://wiki.protoneer.co.nz/Raspberry_Pi_CNC) - Raspberry Pi add-on board w/ stepper controllers and a microcontroller running grbl. Interfaces with the Pi's serial pins.
 
 ### Hardware / Accessories and Adapters
@@ -285,31 +280,31 @@
 *   [Chiplotle (⭐33)](https://github.com/drepetto/chiplotle) - Python library for generating HPGL and interfacing with serial plotters.
 *   [HPGL Reference Guide](https://www.isoplotec.co.jp/HPGL/eHPGL.htm) - HTML-based HPGL Reference.
 *   [HP 7475A Interfacing and Programming Manual](https://archive.org/details/HP7475AInterfacingandProgrammingManual) - Scanned PDF manual that contains a full HPGL reference.
-*   [djipco/hpgl (⭐37)](https://github.com/djipco/hpgl) - A Node.js library to communicate with HPGL-compatible plotters and printers.
+*   [djipco/hpgl (⭐39)](https://github.com/djipco/hpgl) - A Node.js library to communicate with HPGL-compatible plotters and printers.
 *   [hp2xx](https://www.gnu.org/software/hp2xx) - GNU tool to convert HPGL into other vector and raster formats. Can also be used as a previewing in X11.
-*   [vec (⭐23)](https://github.com/anachrocomputer/vec) - Example C code for generating HPGL, with a turtle graphics interface.
+*   [vec (⭐25)](https://github.com/anachrocomputer/vec) - Example C code for generating HPGL, with a turtle graphics interface.
 *   [d3-hpgl (⭐19)](https://github.com/aubergene/d3-hpgl) - An adapter for the HTML Canvas API so you can output HPGL using the popular [D3](https://d3js.org) library.
 *   [HPGL Viewer (⭐19)](https://github.com/drskullster/HPGLViewer) - An HPGL Viewer using JavaScript and HTML5 canvas.
 *   [HPGL Sender (⭐10)](https://github.com/LgHS/hpgl-sender) - A web interface for previewing HPGL and sending it to your plotter.
 
 ### Software / G-code
 
-*   [grbl (⭐5.5k)](https://github.com/grbl/grbl) - A high-performance G-code interpreting firmware for the Atmega 328 microcontroller and Arduino.
-*   [cncjs (⭐2.2k)](https://github.com/cncjs/cncjs) - A web-based interface controlling CNC machines running grbl, TinyG, or other G-code-based firmware.
-*   [Universal-G-Code-Sender (⭐1.8k)](https://github.com/winder/Universal-G-Code-Sender) - Java-based grbl-compatible cross-platform G-code sender.
+*   [grbl (⭐5.6k)](https://github.com/grbl/grbl) - A high-performance G-code interpreting firmware for the Atmega 328 microcontroller and Arduino.
+*   [cncjs (⭐2.3k)](https://github.com/cncjs/cncjs) - A web-based interface controlling CNC machines running grbl, TinyG, or other G-code-based firmware.
+*   [Universal-G-Code-Sender (⭐1.9k)](https://github.com/winder/Universal-G-Code-Sender) - Java-based grbl-compatible cross-platform G-code sender.
 *   [ChiliPeppr Hardware Fiddle](http://chilipeppr.com) - Modular web-based workspaces to visualize G-code and control hardware.
 
 ### Software / Plotter Control
 
-*   [axi (⭐273)](https://github.com/fogleman/axi) - Unofficial Python library for the AxiDraw v3.
+*   [axi (⭐276)](https://github.com/fogleman/axi) - Unofficial Python library for the AxiDraw v3.
 *   [xy (⭐70)](https://github.com/fogleman/xy) - Utilities for the Makeblock XY Plotter Robot Kit.
-*   [LaserGRBL (⭐1.2k)](https://github.com/arkypita/LaserGRBL) - Laser-optimized Windows GUI for grbl controllers. Could be repurposed for DIY pen plotters that use a solenoid for pen up/down movements.
-*   [PenPlotter (⭐119)](https://github.com/RickMcConney/PenPlotter) - Polargraph controller that uses repetier firmware.
-*   [Makelangelo-firmware (⭐157)](https://github.com/MarginallyClever/Makelangelo-firmware) - Firmware for the Makelangelo polargraph robot.
-*   [RoboPaint (⭐125)](https://github.com/evil-mad/robopaint) - Software for the WaterColorBot.
+*   [LaserGRBL (⭐1.3k)](https://github.com/arkypita/LaserGRBL) - Laser-optimized Windows GUI for grbl controllers. Could be repurposed for DIY pen plotters that use a solenoid for pen up/down movements.
+*   [PenPlotter (⭐121)](https://github.com/RickMcConney/PenPlotter) - Polargraph controller that uses repetier firmware.
+*   [Makelangelo-firmware (⭐158)](https://github.com/MarginallyClever/Makelangelo-firmware) - Firmware for the Makelangelo polargraph robot.
+*   [RoboPaint (⭐127)](https://github.com/evil-mad/robopaint) - Software for the WaterColorBot.
 *   [AxiTurtle (⭐15)](https://github.com/ralphcrutzen/AxiTurtle) - Turtle graphics for AxiDraw in Processing.
-*   [GRBL-Plotter (⭐647)](https://github.com/svenhb/GRBL-Plotter) - Plotter-optimized Windows GUI for grbl controller with SVG and DXF import, and flexible pen up/down control.
-*   [saxi (⭐461)](https://github.com/nornagon/saxi) - Driver and library for the AxiDraw. Uses constant-acceleration motion planning and automatically resizes to paper.
+*   [GRBL-Plotter (⭐698)](https://github.com/svenhb/GRBL-Plotter) - Plotter-optimized Windows GUI for grbl controller with SVG and DXF import, and flexible pen up/down control.
+*   [saxi (⭐474)](https://github.com/nornagon/saxi) - Driver and library for the AxiDraw. Uses constant-acceleration motion planning and automatically resizes to paper.
 
 ### Software / Vector Creation
 
@@ -317,36 +312,36 @@
 *   [p5.js](https://p5js.org) - "JavaScript library that makes coding accessible for artists, designers, educators, and beginners".
 *   [Paper.js](http://paperjs.org) - "The Swiss Army Knife of Vector Graphics Scripting".
 *   [ln (⭐3.3k)](https://github.com/fogleman/ln) - Vector-based 3D renderer written in Go.
-*   [autotrace (⭐502)](https://github.com/autotrace/autotrace) - Converts bitmap images to vector graphics.
-*   [stipplegen (⭐421)](https://github.com/evil-mad/stipplegen) - Creates interesting stippled drawings from bitmap images. ([blog post](https://www.evilmadscientist.com/2012/stipplegen2))
-*   [SquiggleDraw (⭐316)](https://github.com/gwygonik/SquiggleDraw/commits/master) - "SquiggleDraw will create a SVG file from an image, using the brightness to change the amplitude of sine waves".
+*   [autotrace (⭐539)](https://github.com/autotrace/autotrace) - Converts bitmap images to vector graphics.
+*   [stipplegen (⭐430)](https://github.com/evil-mad/stipplegen) - Creates interesting stippled drawings from bitmap images. ([blog post](https://www.evilmadscientist.com/2012/stipplegen2))
+*   [SquiggleDraw (⭐319)](https://github.com/gwygonik/SquiggleDraw/commits/master) - "SquiggleDraw will create a SVG file from an image, using the brightness to change the amplitude of sine waves".
 *   [svgurt](https://svgurt.com) - Web-based PNG to SVG creative noodler.
 *   [maptrace (⭐123)](https://github.com/mzucker/maptrace) - Produce watertight polygonal vector maps by tracing raster images.
-*   [Drawbot\_image\_to\_gcode\_v2 (⭐162)](https://github.com/Scott-Cooper/Drawbot_image_to_gcode_v2) - Creates G-code for use on drawbots.
-*   [blackstripes (⭐94)](https://github.com/fullscreennl/blackstripes-python-extensions) - Turns a PNG image into a SVG line drawing.
+*   [Drawbot\_image\_to\_gcode\_v2 (⭐165)](https://github.com/Scott-Cooper/Drawbot_image_to_gcode_v2) - Creates G-code for use on drawbots.
+*   [blackstripes (⭐95)](https://github.com/fullscreennl/blackstripes-python-extensions) - Turns a PNG image into a SVG line drawing.
 *   [Ribbon (⭐243)](https://github.com/fogleman/ribbon) - Ribbon diagrams of proteins in written in Go.
-*   [penplot (⭐267)](https://github.com/mattdesl/penplot) - A development environment for plotter art in JavaScript.
-*   [penkit (⭐137)](https://github.com/paulgb/penkit) - A Python library for creating line-based SVG graphics.
+*   [penplot (⭐269)](https://github.com/mattdesl/penplot) - A development environment for plotter art in JavaScript.
+*   [penkit (⭐143)](https://github.com/paulgb/penkit) - A Python library for creating line-based SVG graphics.
 *   [generativeExamples (⭐63)](https://github.com/digitalcoleman/generativeExamples) - Example Processing code that generates plottable PDFs.
 *   [Let's make map](https://svg-exporter.netlify.com) - Web-based tool to export an SVG map from Mapzen tiles.
 *   [SuperformulaSVG for web](https://jasonwebb.github.io/SuperformulaSVG-for-web) - A generative line art web app.
-*   [scribbleplot (⭐47)](https://github.com/bleeptrack/scribbleplot) - Scribbly image transformations in Processing.
+*   [scribbleplot (⭐48)](https://github.com/bleeptrack/scribbleplot) - Scribbly image transformations in Processing.
 *   [Maker.js](https://maker.js.org) - Library for creating 2D vector drawings for CNC and laser cutter machines.
 *   [Turtletoy](https://turtletoy.net) - Browser-based JavaScript turtle graphics API with SVG export.
 
 ### Software / Vector Utilities
 
-*   [svgsort (⭐249)](https://github.com/inconvergent/svgsort) - Path planning for plotting SVG files, reduces time spent moving with the pen up.
+*   [svgsort (⭐253)](https://github.com/inconvergent/svgsort) - Path planning for plotting SVG files, reduces time spent moving with the pen up.
 *   [svgo (⭐21k)](https://github.com/svg/svgo) - Node.js-based tool for optimizing SVG files.
 *   [Polargraph Optimizer (⭐57)](https://github.com/ezheidtmann/polargraph-optimizer) - Optimize drawing plan for a polargraph.
-*   [penkit-optimize (⭐137)](https://github.com/paulgb/penkit/tree/master/optimizer) - An SVG optimizer that uses a vehicle routing solver to minimize plot time.
+*   [penkit-optimize (⭐143)](https://github.com/paulgb/penkit/tree/master/optimizer) - An SVG optimizer that uses a vehicle routing solver to minimize plot time.
 *   [svg-crowbar (⭐839)](https://github.com/NYTimes/svg-crowbar) - Chrome-only bookmarklet for extracting SVG from an HTML document.
 
 ### Software / Fonts
 
 *   [Summary of single line fonts](http://imajeenyus.com/computer/20150110_single_line_fonts/index.shtml) - Good information and links to other resources and fonts.
 *   [Hershey Vector Font](http://paulbourke.net/dataformats/hershey) - `.fnt` format of vector fonts from the 60s. Includes a good overview of the original data format of the fonts.
-*   [hershey-fonts (⭐54)](https://github.com/kamalmostafa/hershey-fonts) - C library and original font data for the Hershey fonts.
+*   [hershey-fonts (⭐59)](https://github.com/kamalmostafa/hershey-fonts) - C library and original font data for the Hershey fonts.
 
 ### Inspiration, Instruction, and Research / Fonts
 
@@ -366,6 +361,7 @@
 ### Miscellaneous
 
 *   [eql, eql5, eql5-android](https://gitlab.com/eql) - Embedded Qt4 and Qt5 Lisp, embedded in ECL, embeddable in Qt. Port of EQL5 to the Android platform. [MIT](https://opensource.org/licenses/MIT).
+    *   [EQL5 on the Android store](https://play.google.com/store/apps/details?id=org.eql5.android.repl\&pcampaignid=web_share)
 
 ## [13. Awesome Minecraft](/content/bs-community/awesome-minecraft/README.md)
 
@@ -393,11 +389,11 @@
 
 ### Plasma desktop / KCM Modules and Systems
 
-*   [kded\_rotation (⭐65)](https://github.com/dos1/kded_rotation) - A small, hacky KDED module for handling automatic screen rotation on tablets and hybrid laptops.
+*   [kded\_rotation (⭐64)](https://github.com/dos1/kded_rotation) - A small, hacky KDED module for handling automatic screen rotation on tablets and hybrid laptops.
 
 ### Plasma desktop / Qt and GTK+ Applications Appearance
 
-*   [breeze-gtk (⭐72)](https://github.com/KDE/breeze-gtk) - A GTK Theme Built to Match KDE's Breeze 📌.
+*   [breeze-gtk (⭐76)](https://github.com/KDE/breeze-gtk) - A GTK Theme Built to Match KDE's Breeze 📌.
 
 ### Documentation and Resources / Display Manager
 
@@ -478,23 +474,23 @@
 
 ### Programming Languages
 
-*   [Q# (⭐156)](https://github.com/ebraminio/awesome-qsharp#readme) - Domain-specific programming language used for expressing quantum algorithms.
+*   [Q# (⭐163)](https://github.com/ebraminio/awesome-qsharp#readme) - Domain-specific programming language used for expressing quantum algorithms.
 
 ### Gaming
 
-*   [Minecraft (⭐425)](https://github.com/bs-community/awesome-minecraft#readme) - Sandbox video game.
+*   [Minecraft (⭐465)](https://github.com/bs-community/awesome-minecraft#readme) - Sandbox video game.
 
 ### Databases
 
-*   [NoSQL Guides (⭐250)](https://github.com/erictleung/awesome-nosql-guides#readme) - Help on using non-relational, distributed, open-source, and horizontally scalable databases.
+*   [NoSQL Guides (⭐262)](https://github.com/erictleung/awesome-nosql-guides#readme) - Help on using non-relational, distributed, open-source, and horizontally scalable databases.
 
 ### Learn
 
-*   [CSS Learning (⭐3.4k)](https://github.com/micromata/awesome-css-learning#readme) - Mainly about CSS – the language and the modules.
+*   [CSS Learning (⭐3.5k)](https://github.com/micromata/awesome-css-learning#readme) - Mainly about CSS – the language and the modules.
 
 ### Miscellaneous
 
-*   [Board Games (⭐292)](https://github.com/edm00se/awesome-board-games#readme) - Table-top gaming fun for all.
+*   [Board Games (⭐313)](https://github.com/edm00se/awesome-board-games#readme) - Table-top gaming fun for all.
 
 ## [21. Awesome Mobile Web Development](/content/myshov/awesome-mobile-web-development/README.md)
 

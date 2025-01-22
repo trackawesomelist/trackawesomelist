@@ -10,13 +10,13 @@
 
 ### Modules / Utils
 
-*   [deno\_tokenizer (⭐15)](https://github.com/eliassjogreen/deno_tokenizer) - A simple tokenizer for deno.
+*   [deno\_tokenizer (⭐16)](https://github.com/eliassjogreen/deno_tokenizer) - A simple tokenizer for deno.
 
 ## [2. Awesome Java](/content/akullpp/awesome-java/README.md)
 
 ### Testing / Fixtures
 
-*   [jFairy (⭐738)](https://github.com/Devskiller/jfairy) - Fake data generator.
+*   [jFairy (⭐741)](https://github.com/Devskiller/jfairy) - Fake data generator.
 
 ## [3. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 

@@ -72,7 +72,7 @@
 
 ### Deployment / Docker
 
-*   [Set up Docker Buildx (⭐228)](https://github.com/crazy-max/ghaction-docker-buildx)
+*   [Set up Docker Buildx (⭐226)](https://github.com/crazy-max/ghaction-docker-buildx)
 
 ---
 

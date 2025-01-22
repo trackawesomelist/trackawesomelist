@@ -10,12 +10,12 @@
 
 ### Game Disassemblies / Syntax highlighting packages
 
-*   [Pokémon Red/Blue (⭐3.7k)](https://github.com/pret/pokered)
-*   [Pokémon Crystal (⭐2k)](https://github.com/pret/pokecrystal)
+*   [Pokémon Red/Blue (⭐4.1k)](https://github.com/pret/pokered)
+*   [Pokémon Crystal (⭐2.1k)](https://github.com/pret/pokecrystal)
 
 ### Related projects / Syntax highlighting packages
 
-*   [Piglet (⭐42)](https://github.com/danShumway/Piglet) - A LUA-driven AI that plays classic Game Boy color games using experimentation. In active development.
+*   [Piglet (⭐43)](https://github.com/danShumway/Piglet) - A LUA-driven AI that plays classic Game Boy color games using experimentation. In active development.
 
 ## [2. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
 
@@ -83,7 +83,7 @@ Webpage: <http://www.moustache.pt/>
 
 ### Functional Languages that Compile to JavaScript / Lenses
 
-*   [Quack (⭐322)](https://github.com/quack/quack) - A multi-paradigm programming language with gradual and duck typing that targets PHP and JS.
+*   [Quack (⭐323)](https://github.com/quack/quack) - A multi-paradigm programming language with gradual and duck typing that targets PHP and JS.
 
 ## [7. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 

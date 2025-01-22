@@ -22,7 +22,7 @@
 
 ### Dataset / Web
 
-*   [The Quick, Draw! Dataset (⭐5.8k)](https://github.com/googlecreativelab/quickdraw-dataset) - Collection of 50 million drawings across 345 categories.
+*   [The Quick, Draw! Dataset (⭐6.2k)](https://github.com/googlecreativelab/quickdraw-dataset) - Collection of 50 million drawings across 345 categories.
 
 ## [4. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
 
@@ -36,7 +36,7 @@
 
 ### Deployment / Code Coverage
 
-*   [Publish Article to Dev.to (⭐19)](https://github.com/tylerauerbeck/publish-to-dev.to-action)
+*   [Publish Article to Dev.to (⭐24)](https://github.com/tylerauerbeck/publish-to-dev.to-action)
 
 ## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
@@ -59,7 +59,7 @@
 ### Related projects / Syntax highlighting packages
 
 *   [Work Master OS](https://translate.google.com/translate?hl=\&sl=ru\&tl=en\&u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20081226145726%2Fhttp%3A%2F%2Fworkmaster.ru%2Findex.php%3Fp%3D8\&sandbox=1) - Russian multi tasking operating system.
-*   [GBCamcorder (⭐87)](https://github.com/furrtek/GBCamcorder) - Lo-Fi portable video recorder using a GameBoy Camera cartridge.
+*   [GBCamcorder (⭐91)](https://github.com/furrtek/GBCamcorder) - Lo-Fi portable video recorder using a GameBoy Camera cartridge.
 
 ## [9. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
 
@@ -86,13 +86,13 @@
 
 ### Utilities / Window Management
 
-*   [yabai (⭐23k)](https://github.com/koekeishiya/yabai) - Tiling window manager for macOS. A rewrite of chunkwm, it provides a more seamless integration with the operating system. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/koekeishiya/yabai/wiki)
+*   [yabai (⭐25k)](https://github.com/koekeishiya/yabai) - Tiling window manager for macOS. A rewrite of chunkwm, it provides a more seamless integration with the operating system. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/koekeishiya/yabai/wiki)
 
 ## [12. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 
 ### Hash Cracking Tools / Zealandia
 
-*   [hate\_crack (⭐1.6k)](https://github.com/trustedsec/hate_crack) - Tool for automating cracking methodologies through Hashcat.
+*   [hate\_crack (⭐1.7k)](https://github.com/trustedsec/hate_crack) - Tool for automating cracking methodologies through Hashcat.
 
 ---
 

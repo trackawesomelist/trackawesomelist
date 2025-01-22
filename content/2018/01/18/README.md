@@ -66,7 +66,7 @@
 
 ### Boilerplates
 
-*   [Next Blog Firestore (⭐268)](https://github.com/suevalov/next-blog-firestore) - Blog with simple CMS built with Next.js, Firebase Firestore, styled-components and mobx-state-tree.
+*   [Next Blog Firestore (⭐269)](https://github.com/suevalov/next-blog-firestore) - Blog with simple CMS built with Next.js, Firebase Firestore, styled-components and mobx-state-tree.
 
 ## [3. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
@@ -78,7 +78,7 @@
 
 ### Readline, ncurses and other graphical helpers / Third-party APIs
 
-*   [cl-charms (⭐155)](https://github.com/HiTECNOLOGYs/cl-charms) - an
+*   [cl-charms (⭐163)](https://github.com/HiTECNOLOGYs/cl-charms) - an
     interface to `libcurses` in Common Lisp. It provides both a raw,
     low-level interface to libcurses via CFFI, and a more higher-level
     lispier interface. [MIT](https://opensource.org/licenses/MIT).
@@ -114,8 +114,8 @@
 
 ### Related lists
 
-*   [Awesome Music Listening (⭐112)](https://github.com/ybayle/awesome-music-listening) - Awesome list of websites dedicated to listening to music.
-*   [Awesome sheet music (⭐736)](https://github.com/adius/awesome-sheet-music) - A curated list of awesome sheet music software, libraries and resources.
+*   [Awesome Music Listening (⭐123)](https://github.com/ybayle/awesome-music-listening) - Awesome list of websites dedicated to listening to music.
+*   [Awesome sheet music (⭐829)](https://github.com/adius/awesome-sheet-music) - A curated list of awesome sheet music software, libraries and resources.
 
 ## [7. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
@@ -132,7 +132,7 @@
 
 ### Gesture
 
-*   [ShowTime (⭐507)](https://github.com/KaneCheshire/ShowTime) - Show off your iOS taps and gestures for demos and videos with just one line of code.
+*   [ShowTime (⭐524)](https://github.com/KaneCheshire/ShowTime) - Show off your iOS taps and gestures for demos and videos with just one line of code.
 
 ### UICollectionView / Barcode
 

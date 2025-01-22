@@ -10,7 +10,7 @@
 
 ### Audio
 
-*   [minimp3 (⭐1.6k)](https://github.com/lieff/minimp3) - Public domain, header-only MP3 decoder with clean-room implementation. \[CC0]
+*   [minimp3 (⭐1.7k)](https://github.com/lieff/minimp3) - Public domain, header-only MP3 decoder with clean-room implementation. \[CC0]
 
 ## [2. Awesome Code Review](/content/joho/awesome-code-review/README.md)
 
@@ -65,7 +65,7 @@
 
 ### Libraries / Parsing
 
-*   [lalrpop/lalrpop (⭐3k)](https://github.com/lalrpop/lalrpop) - LR(1) parser generator
+*   [lalrpop/lalrpop (⭐3.1k)](https://github.com/lalrpop/lalrpop) - LR(1) parser generator
 
 ## [7. Awesome Research](/content/emptymalei/awesome-research/README.md)
 
@@ -75,7 +75,7 @@
 
 ## [8. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
-### Academic Resources and Grey Literature / Telegram
+### Academic Resources and Grey Literature / Steam
 
 *   [Leibniz Information Centre For Science and Technology University Library](https://www.tib.eu/en/search-discover/) - indexes all reports of German publicly funded projects and many scientific papers.
 

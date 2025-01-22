@@ -10,7 +10,7 @@
 
 ### Web / Playground
 
-*   :octocat: [Angular (⭐95k)](https://github.com/angular/angular) - Angular is a development platform for building mobile and desktop web applications
+*   :octocat: [Angular (⭐97k)](https://github.com/angular/angular) - Angular is a development platform for building mobile and desktop web applications
 
 ## [2. Awesome Theravada](/content/johnjago/awesome-theravada/README.md)
 
@@ -26,31 +26,31 @@
 
 ## [4. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 
-### Tools and frameworks
+### Tools and frameworks (a-z↓)
 
-*   [Wraith (⭐4.8k)](https://github.com/BBC-News/wraith) - Easy to use ruby tool with docker support.
-*   [BackstopJS (⭐6.7k)](https://github.com/garris/BackstopJS) - Config-driven automated screenshot test framework.
-*   [Galen (⭐1.4k)](https://github.com/galenframework/galen) - Java framework based on [Selenium (⭐30k)](https://github.com/SeleniumHQ/selenium).
-*   [CSSCritic (⭐484)](https://github.com/cburgmer/csscritic) - Lightweight CSS regression testing.
-*   [Spectre (⭐458)](https://github.com/wearefriday/spectre) - Provides image comparison capabilities and an admin interface for managing screenshots.
-*   [Shoov (⭐38)](https://github.com/shoov/shoov) - UI regression and functional testing focused on Drupal 7 sites.
-*   [Hardy (⭐322)](https://github.com/thingsinjars/Hardy) - Selenium-driven, cucumber-powered CSS testing.
+*   [BackstopJS (⭐6.9k)](https://github.com/garris/BackstopJS) - Config-driven automated screenshot test framework.
+*   [CSSCritic (⭐487)](https://github.com/cburgmer/csscritic) - Lightweight CSS regression testing.
+*   [Galen (⭐1.4k)](https://github.com/galenframework/galen) - Java framework based on [Selenium (⭐31k)](https://github.com/SeleniumHQ/selenium).
+*   [grunt-photobox (⭐278)](https://github.com/stefanjudis/grunt-photobox) - Plugin to prevent your project of broken layout via screenshot photo sessions of your site.
+*   [Hardy (⭐323)](https://github.com/thingsinjars/Hardy) - Selenium-driven, cucumber-powered CSS testing.
+*   [Needle (⭐592)](https://github.com/python-needle/needle) - Needle is a tool for testing visuals with Selenium and nose (Python).
+*   [Shoov (⭐39)](https://github.com/shoov/shoov) - UI regression and functional testing focused on Drupal 7 sites.
+*   [Spectre (⭐461)](https://github.com/wearefriday/spectre) - Provides image comparison capabilities and an admin interface for managing screenshots.
 *   [TestCafe (⭐9.8k)](https://github.com/DevExpress/testcafe) - Automated browser testing for the modern web development stack.
-*   [Needle (⭐590)](https://github.com/python-needle/needle) - Needle is a tool for testing visuals with Selenium and nose (Python).
-*   [grunt-photobox (⭐276)](https://github.com/stefanjudis/grunt-photobox) - Plugin to prevent your project of broken layout via screenshot photo sessions of your site.
+*   [Wraith (⭐4.8k)](https://github.com/BBC-News/wraith) - Easy to use ruby tool with docker support.
 
-### Blog posts
+### Blog posts  (a-z↓)
 
-*   [Kevin Lamping: The 5 best visual regression testing tools](http://www.creativebloq.com/features/the-5-best-visual-regression-testing-tools) - Compares: Wraith, PhantomCSS, Gemini, WebdriverCSS and Spectre.
-*   [Garris Shipon: Visual Regression Testing For Angular Applications](https://davidwalsh.name/visual-regression-testing-angular-applications) -  Tutorial using BackstopJS.
 *   [Angela Riggs: Visual Regression Testing with BackstopJS](https://www.metaltoad.com/blog/visual-regression-testing-backstopjs) - Tutorial using BackstopJS.
 *   [Garris Shipon: Automating CSS Regression Testing](https://css-tricks.com/automating-css-regression-testing/) - Tutorial using BackstopJS.
+*   [Garris Shipon: Visual Regression Testing For Angular Applications](https://davidwalsh.name/visual-regression-testing-angular-applications) -  Tutorial using BackstopJS.
+*   [Kevin Lamping: The 5 best visual regression testing tools](http://www.creativebloq.com/features/the-5-best-visual-regression-testing-tools) - Compares: Wraith, PhantomCSS, Gemini, WebdriverCSS and Spectre.
 
-### Deprecated
+### Deprecated  (a-z↓)
 
-*   [trifleJS (⭐826)](https://github.com/sdesalas/trifleJS) - Headless automation for Internet Explorer. (last update 2016)
 *   [CasperJS (⭐7.2k)](https://github.com/casperjs/casperjs) - Navigation scripting and testing utility for PhantomJS and SlimerJS. (archived 2018)
-*   [Navalia (⭐957)](https://github.com/joelgriffith/navalia) - Browser Automation based on headless Chrome and GraphQL. (archived 2018)
+*   [Navalia (⭐962)](https://github.com/joelgriffith/navalia) - Browser Automation based on headless Chrome and GraphQL. (archived 2018)
+*   [trifleJS (⭐825)](https://github.com/sdesalas/trifleJS) - Headless automation for Internet Explorer. (last update 2016)
 
 ## [5. Awesome Hbase](/content/rayokota/awesome-hbase/README.md)
 

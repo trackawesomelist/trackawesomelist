@@ -10,14 +10,14 @@
 
 ### Other Software / Libraries for creating HTTP middlewares
 
-*   [JuiceFS (⭐10k)](https://github.com/juicedata/juicefs) - Distributed POSIX file system built on top of Redis and AWS S3.
+*   [JuiceFS (⭐11k)](https://github.com/juicedata/juicefs) - Distributed POSIX file system built on top of Redis and AWS S3.
 *   [sonic (⭐2k)](https://github.com/go-sonic/sonic) - Sonic is a Go Blogging Platform. Simple and Powerful.
 
 ## [2. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Image processing
 
-*   [Enet4/dicom-rs (⭐409)](https://github.com/Enet4/dicom-rs) - A pure Rust implementation of the DICOM standard, allowing users to work with DICOM objects and interact with DICOM applications, while aiming to be fast, safe, and intuitive to use.
+*   [Enet4/dicom-rs (⭐443)](https://github.com/Enet4/dicom-rs) - A pure Rust implementation of the DICOM standard, allowing users to work with DICOM objects and interact with DICOM applications, while aiming to be fast, safe, and intuitive to use.
 
 ## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -39,7 +39,7 @@
 
 ### Database clients
 
-*   [vduckdb (⭐15)](https://github.com/rodabt/vduckdb) - A DuckDB client wrapper for V.
+*   [vduckdb (⭐33)](https://github.com/rodabt/vduckdb) - A DuckDB client wrapper for V.
 
 ## [6. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
@@ -49,9 +49,9 @@
 
 ### Editor Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [slate-angular (⭐175)](https://github.com/worktile/slate-angular) - Angular view layer for [Slate (⭐29k)](https://github.com/ianstormtaylor/slate).
+*   [slate-angular (⭐181)](https://github.com/worktile/slate-angular) - Angular view layer for [Slate (⭐30k)](https://github.com/ianstormtaylor/slate).
 
-### State Management / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+### Additional / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [@tethys/store (⭐60)](https://github.com/worktile/store) - A mini, yet powerful state management library for Angular.
 

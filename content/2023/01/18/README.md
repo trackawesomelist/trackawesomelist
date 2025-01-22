@@ -16,14 +16,14 @@
 
 ### JetBrains / Third-party APIs
 
-*   [SLT (⭐192)](https://github.com/Enerccio/SLT) -  an IDE Plugin for Itellij/Jetbrains IDE lineup implementing support for Common Lisp via SBCL and Slime/Swank.
+*   [SLT (⭐201)](https://github.com/Enerccio/SLT) -  an IDE Plugin for Itellij/Jetbrains IDE lineup implementing support for Common Lisp via SBCL and Slime/Swank.
     *   🎉 NEW! Released in Jan, 2023.
 
 ## [3. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### UI Libraries, Components & Templates
 
-*   📁 [Flowbite Admin Dashboard (⭐1.9k)](https://github.com/themesberg/flowbite-admin-dashboard) - Open-source admin dashboard template built with Tailwind CSS and Flowbite.
+*   📁 [Flowbite Admin Dashboard (⭐2.3k)](https://github.com/themesberg/flowbite-admin-dashboard) - Open-source admin dashboard template built with Tailwind CSS and Flowbite.
 
 ## [4. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
@@ -35,7 +35,7 @@
 
 ### Static Page Generation
 
-*   [NimblePublisher (⭐451)](https://github.com/dashbitco/nimble_publisher) - Minimal filesystem-based publisher with markdown and syntax highlighting.
+*   [NimblePublisher (⭐485)](https://github.com/dashbitco/nimble_publisher) - Minimal filesystem-based publisher with markdown and syntax highlighting.
 
 ### Third Party APIs
 
@@ -47,11 +47,11 @@
 
 *   [Stable Diffusion Frivolous · Because lawsuits based on ignorance deserve a response.](http://www.stablediffusionfrivolous.com/): a community response for the "Stable Diffusion litigation"
 
-### Inbox: Text-to-speech (TTS) and avatars / Deforum
+### Text-to-speech (TTS) and avatars / Deforum
 
 *   [VALL-E](https://valle-demo.github.io/): synthesize high-quality personalized speech with only a 3-second samples
 
-### Inbox: Speech-to-text (STT) and spoken content analysis / Deforum
+### Speech-to-text (STT) and spoken content analysis / Deforum
 
 *   [AI for Game Development](https://huggingface.co/blog/ml-for-games-1): Creating a Farming Game in 5 Days. Part 1
 
@@ -88,11 +88,11 @@
 
 ### Racing
 
-*   [Vange-rs (⭐412)](https://github.com/kvark/vange-rs) - The idea of this project is to replicate the old look and behavior of Vangers, but with native hardware acceleration for the graphics.
+*   [Vange-rs (⭐435)](https://github.com/kvark/vange-rs) - The idea of this project is to replicate the old look and behavior of Vangers, but with native hardware acceleration for the graphics.
 
 ### Strategy
 
-*   [VanillaConquer (⭐327)](https://github.com/TheAssemblyArmada/Vanilla-Conquer/) - Command and Conquer and Red Alert original release source port based on the remaster source code drop.
+*   [VanillaConquer (⭐352)](https://github.com/TheAssemblyArmada/Vanilla-Conquer/) - Command and Conquer and Red Alert original release source port based on the remaster source code drop.
 
 ## [11. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
@@ -102,7 +102,7 @@
 
 ## [12. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
-### Other Awesome Lists / Book Deals (Affiliated) 🛍
+### Other Awesome Lists / Book Deals (Affiliated)
 
 *   [Deep Learning Interview Questions](https://www.adaface.com/blog/deep-learning-interview-questions/)
 

@@ -145,7 +145,7 @@
 
 ## [7. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
-### Facebook Accounts / Book Deals (Affiliated) 🛍
+### Facebook Accounts / Book Deals (Affiliated)
 
 *   [Veri Bilimi Istanbul](https://www.facebook.com/groups/veribilimiistanbul/)
 

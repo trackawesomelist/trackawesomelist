@@ -10,27 +10,26 @@
 
 ### Template Engine
 
-*   [Fluid (⭐1.4k)](https://github.com/sebastienros/fluid) - Fluid is an open-source .NET template engine based on the Liquid template language.
+*   [Fluid (⭐1.5k)](https://github.com/sebastienros/fluid) - Fluid is an open-source .NET template engine based on the Liquid template language.
 
 ## [2. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Authentication and OAuth
 
-*   [authboss (⭐3.8k)](https://github.com/volatiletech/authboss) - Modular authentication system for the web. It tries to remove as much boilerplate and "hard things" as possible so that each time you start a new web project in Go, you can plug it in, configure it, and start building your app without having to build an authentication system each time.
-*   [casbin (⭐17k)](https://github.com/hsluoyz/casbin) - Authorization library that supports access control models like ACL, RBAC, and ABAC.
-*   [cookiestxt (⭐16)](https://github.com/mengzhuo/cookiestxt) - provides a parser of cookies.txt file format.
-*   [go-guardian (⭐538)](https://github.com/shaj13/go-guardian) - Go-Guardian is a golang library that provides a simple, clean, and idiomatic way to create powerful modern API and web authentication that supports LDAP, Basic, Bearer token, and Certificate based authentication.
-*   [gosession (⭐249)](http://github.com/Kwynto/gosession) - This is quick session for net/http in GoLang. This package is perhaps the best implementation of the session mechanism, or at least it tries to become one.
-*   [jeff (⭐265)](https://github.com/abraithwaite/jeff) - Simple, flexible, secure, and idiomatic web session management with pluggable backends.
-*   [jwt (⭐664)](https://github.com/cristalhq/jwt) - Safe, simple, and fast JSON Web Tokens for Go.
-*   [oauth2 (⭐5.3k)](https://github.com/golang/oauth2) - Successor of goauth2. Generic OAuth 2.0 package that comes with JWT, Google APIs, Compute Engine, and App Engine support.
-*   [permissions2 (⭐510)](https://github.com/xyproto/permissions2) - Library for keeping track of users, login states, and permissions. Uses secure cookies and bcrypt.
+*   [authboss (⭐3.9k)](https://github.com/volatiletech/authboss) - Modular authentication system for the web. It tries to remove as much boilerplate and "hard things" as possible so that each time you start a new web project in Go, you can plug it in, configure it, and start building your app without having to build an authentication system each time.
+*   [casbin (⭐18k)](https://github.com/hsluoyz/casbin) - Authorization library that supports access control models like ACL, RBAC, and ABAC.
+*   [cookiestxt (⭐17)](https://github.com/mengzhuo/cookiestxt) - provides a parser of cookies.txt file format.
+*   [go-guardian (⭐568)](https://github.com/shaj13/go-guardian) - Go-Guardian is a golang library that provides a simple, clean, and idiomatic way to create powerful modern API and web authentication that supports LDAP, Basic, Bearer token, and Certificate based authentication.
+*   [jeff (⭐267)](https://github.com/abraithwaite/jeff) - Simple, flexible, secure, and idiomatic web session management with pluggable backends.
+*   [jwt (⭐673)](https://github.com/cristalhq/jwt) - Safe, simple, and fast JSON Web Tokens for Go.
+*   [oauth2 (⭐5.5k)](https://github.com/golang/oauth2) - Successor of goauth2. Generic OAuth 2.0 package that comes with JWT, Google APIs, Compute Engine, and App Engine support.
+*   [permissions2 (⭐512)](https://github.com/xyproto/permissions2) - Library for keeping track of users, login states, and permissions. Uses secure cookies and bcrypt.
 
 ### Bot Building
 
 *   [go-sarah (⭐261)](https://github.com/oklahomer/go-sarah) - Framework to build a bot for desired chat services including LINE, Slack, Gitter, and more.
-*   [go-tgbot (⭐121)](https://github.com/olebedev/go-tgbot) - Pure Golang Telegram Bot API wrapper, generated from swagger file, session-based router, and middleware.
-*   [telebot (⭐3.9k)](https://github.com/tucnak/telebot) - Telegram bot framework is written in Go.
+*   [go-tgbot (⭐120)](https://github.com/olebedev/go-tgbot) - Pure Golang Telegram Bot API wrapper, generated from swagger file, session-based router, and middleware.
+*   [telebot (⭐4.1k)](https://github.com/tucnak/telebot) - Telegram bot framework is written in Go.
 
 ### Build Automation
 
@@ -39,30 +38,29 @@
 ### Advanced Console UIs
 
 *   [aurora (⭐1.4k)](https://github.com/logrusorgru/aurora) - ANSI terminal colors that support fmt.Printf/Sprintf.
-*   [simpletable (⭐521)](https://github.com/alexeyco/simpletable) - Simple tables in a terminal with Go.
+*   [simpletable (⭐533)](https://github.com/alexeyco/simpletable) - Simple tables in a terminal with Go.
 *   [uilive (⭐1.7k)](https://github.com/gosuri/uilive) - Library for updating terminal output in real time.
 
 ### Standard CLI
 
-*   [acmd (⭐115)](https://github.com/cristalhq/acmd) - Simple, useful, and opinionated CLI package in Go.
-*   [command-chain (⭐59)](https://github.com/rainu/go-command-chain) - A go library for configure and run command chains - such as pipelining in unix shells.
-*   [go-andotp (⭐30)](https://github.com/grijul/go-andotp) - A CLI program to encrypt/decrypt [andOTP (⭐3.8k)](https://github.com/andOTP/andOTP) files. Can be used as a library as well.
-*   [go-getoptions (⭐56)](https://github.com/DavidGamba/go-getoptions) - Go option parser inspired by the flexibility of Perl’s GetOpt::Long.
-*   [sflags (⭐150)](https://github.com/octago/sflags) - Struct based flags generator for flag, urfave/cli, pflag, cobra, kingpin, and other libraries.
-*   [wmenu (⭐216)](https://github.com/dixonwille/wmenu) - Easy to use menu structure for cli applications that prompt users to make choices.
+*   [acmd (⭐120)](https://github.com/cristalhq/acmd) - Simple, useful, and opinionated CLI package in Go.
+*   [command-chain (⭐64)](https://github.com/rainu/go-command-chain) - A go library for configure and run command chains - such as pipelining in unix shells.
+*   [go-getoptions (⭐57)](https://github.com/DavidGamba/go-getoptions) - Go option parser inspired by the flexibility of Perl’s GetOpt::Long.
+*   [sflags (⭐157)](https://github.com/octago/sflags) - Struct based flags generator for flag, urfave/cli, pflag, cobra, kingpin, and other libraries.
+*   [wmenu (⭐222)](https://github.com/dixonwille/wmenu) - Easy to use menu structure for cli applications that prompt users to make choices.
 
 ## [3. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
 ### Book and web annotations/highlights management
 
-*   [Hypothesis (⭐2.9k)](https://github.com/hypothesis/h/) - Annotate the web, with anyone, anywhere.
-*   [Kobuddy (⭐142)](https://github.com/karlicoss/kobuddy) - Get your Kobo e-reader device bookmarks and annotations in a .txt file.
+*   [Hypothesis (⭐3k)](https://github.com/hypothesis/h/) - Annotate the web, with anyone, anywhere.
+*   [Kobuddy (⭐154)](https://github.com/karlicoss/kobuddy) - Get your Kobo e-reader device bookmarks and annotations in a .txt file.
 
 ## [4. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### UI
 
-*   [Flyer Chat (⭐1.5k)](https://github.com/flyerhq/flutter_chat_ui) <!--stargazers:flyerhq/flutter_chat_ui--> - Community-driven chat UI implementation by the [Flyer Chat team](https://github.com/flyerhq)
+*   [Flyer Chat (⭐1.7k)](https://github.com/flyerhq/flutter_chat_ui) <!--stargazers:flyerhq/flutter_chat_ui--> - Community-driven chat UI implementation by the [Flyer Chat team](https://github.com/flyerhq)
 
 ## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -88,19 +86,19 @@
 
 ## [8. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 
-### Tools and frameworks
+### Tools and frameworks (a-z↓)
 
-*   [Lost Pixel (⭐1.3k)](https://github.com/lost-pixel/lost-pixel) - Holistic visual regression testing for full pages, components (via Storybook and Ladle integration), and custom shots (e.g. via Cypress).
+*   [Lost Pixel (⭐1.4k)](https://github.com/lost-pixel/lost-pixel) - Holistic visual regression testing for full pages, components (via Storybook and Ladle integration), and custom shots (e.g. via Cypress).
 
 ## [9. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/README.md)
 
 ### Changeset Tools / Web Services
 
-*   [osmcha](https://osmcha.org) - Detector for suspicious changesets. ([Source Code (⭐118)](https://github.com/mapbox/osmcha-frontend) / [Wiki](https://wiki.openstreetmap.org/wiki/OSMCha))
+*   [osmcha](https://osmcha.org) - Detector for suspicious changesets. ([Source Code (⭐121)](https://github.com/mapbox/osmcha-frontend) / [Wiki](https://wiki.openstreetmap.org/wiki/OSMCha))
 
 ### Public APIs / Java
 
-*   [OSMCha API](https://osmcha.org/api-docs/) - Powerful API that allows to query and retrieve changeset information. ([Source Code (⭐33)](https://github.com/willemarcel/osmcha-django))
+*   [OSMCha API](https://osmcha.org/api-docs/) - Powerful API that allows to query and retrieve changeset information. ([Source Code (⭐35)](https://github.com/willemarcel/osmcha-django))
 
 ## [10. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
@@ -112,13 +110,13 @@
 
 *   [SnowdreamFramework/ToyBricks (⭐33)](https://github.com/SnowdreamFramework/ToyBricks) - Android Library that provide simpler way to achieve modularity.
 *   [rahulchowdhury/Mystique (⭐47)](https://github.com/rahulchowdhury/Mystique) - A generalized adapter for RecyclerView on Android which makes it easy to add heterogeneous items to a list.
-*   [costular/kotlin-android-utils (⭐49)](https://github.com/costular/kotlin-android-utils) - Android utilities for easier and faster Kotlin programming.
+*   [costular/kotlin-android-utils (⭐48)](https://github.com/costular/kotlin-android-utils) - Android utilities for easier and faster Kotlin programming.
 
 ## [11. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Terminal Integration / Diagnostics
 
-*   [samjwill/nvim-unception (⭐216)](https://github.com/samjwill/nvim-unception) - Automatic unnesting of Neovim sessions started from terminal buffers.
+*   [samjwill/nvim-unception (⭐225)](https://github.com/samjwill/nvim-unception) - Automatic unnesting of Neovim sessions started from terminal buffers.
 
 ## [12. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 
@@ -130,7 +128,7 @@
 
 ### Machine Learning
 
-*   [Probabilistic Machine Learning - An Introduction (⭐4.9k)](https://github.com/probml/pml-book/releases/latest/download/book1.pdf) - Kevin P. Murphy (PDF)
+*   [Probabilistic Machine Learning - An Introduction (⭐5k)](https://github.com/probml/pml-book/releases/latest/download/book1.pdf) - Kevin P. Murphy (PDF)
 
 ### Misc
 
@@ -138,7 +136,7 @@
 
 ### Open Source Ecosystem
 
-*   [Contributing to opensource: the right way (⭐128)](https://github.com/Mte90/Contribute-to-opensource-the-right-way) - Daniele Scasciafratte
+*   [Contributing to opensource: the right way (⭐131)](https://github.com/Mte90/Contribute-to-opensource-the-right-way) - Daniele Scasciafratte
 
 ### Search Engines
 

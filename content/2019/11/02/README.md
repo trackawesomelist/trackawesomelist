@@ -14,47 +14,47 @@
 
 ### Workflow Examples
 
-*   [actions/starter-workflows (⭐6.8k)](https://github.com/actions/starter-workflows) - Starter workflow management.
-*   [actions/example-services (⭐233)](https://github.com/actions/example-services) - Example workflows using service containers.
+*   [actions/starter-workflows (⭐8.8k)](https://github.com/actions/starter-workflows) - Starter workflow management.
+*   [actions/example-services (⭐247)](https://github.com/actions/example-services) - Example workflows using service containers.
 
 ### Official Actions / Workflow Tool Actions
 
-*   [actions/checkout (⭐3.2k)](https://github.com/actions/checkout) - Setup your repository on your workflow.
-*   [actions/upload-artifact (⭐1.9k)](https://github.com/actions/upload-artifact) - Upload artifacts from your workflow.
-*   [actions/download-artifact (⭐752)](https://github.com/actions/download-artifact) - Download artifacts from your build.
-*   [actions/cache (⭐3.2k)](https://github.com/actions/cache) - Cache dependencies and build outputs in GitHub Actions.
-*   [actions/github-script (⭐2.8k)](https://github.com/actions/github-script) - Write a script for GitHub API and the workflow contexts.
+*   [actions/checkout (⭐5.7k)](https://github.com/actions/checkout) - Setup your repository on your workflow.
+*   [actions/upload-artifact (⭐3.1k)](https://github.com/actions/upload-artifact) - Upload artifacts from your workflow.
+*   [actions/download-artifact (⭐1.4k)](https://github.com/actions/download-artifact) - Download artifacts from your build.
+*   [actions/cache (⭐4.4k)](https://github.com/actions/cache) - Cache dependencies and build outputs in GitHub Actions.
+*   [actions/github-script (⭐4.1k)](https://github.com/actions/github-script) - Write a script for GitHub API and the workflow contexts.
 
 ### Official Actions / Actions for GitHub Automation
 
-*   [actions/create-release (⭐1.2k)](https://github.com/actions/create-release) - An Action to create releases via the GitHub Release API.
-*   [actions/upload-release-asset (⭐624)](https://github.com/actions/upload-release-asset) - An Action to upload a release asset via the GitHub Release API.
-*   [actions/first-interaction (⭐494)](https://github.com/actions/first-interaction) - An action for filtering pull requests and issues from first-time contributors.
-*   [actions/stale (⭐803)](https://github.com/actions/stale) - Marks issues and pull requests that have not had recent interaction.
-*   [actions/labeler (⭐1.1k)](https://github.com/actions/labeler) - An action for automatically labelling pull requests.
+*   [actions/create-release (⭐1.3k)](https://github.com/actions/create-release) - An Action to create releases via the GitHub Release API.
+*   [actions/upload-release-asset (⭐684)](https://github.com/actions/upload-release-asset) - An Action to upload a release asset via the GitHub Release API.
+*   [actions/first-interaction (⭐756)](https://github.com/actions/first-interaction) - An action for filtering pull requests and issues from first-time contributors.
+*   [actions/stale (⭐1.3k)](https://github.com/actions/stale) - Marks issues and pull requests that have not had recent interaction.
+*   [actions/labeler (⭐1.9k)](https://github.com/actions/labeler) - An action for automatically labelling pull requests.
 
 ### Official Actions / Setup Actions
 
-*   [actions/setup-node: Node.js (⭐2.4k)](https://github.com/actions/setup-node)
-*   [actions/setup-python: Python (⭐980)](https://github.com/actions/setup-python)
-*   [actions/setup-go: Go (⭐895)](https://github.com/actions/setup-go)
-*   [actions/setup-dotnet: .NET core sdk (⭐607)](https://github.com/actions/setup-dotnet)
-*   [actions/setup-haskell: Haskell (GHC and Cabal) (⭐66)](https://github.com/actions/setup-haskell)
-*   [actions/setup-java: Java (⭐900)](https://github.com/actions/setup-java)
-*   [actions/setup-ruby: Ruby (⭐167)](https://github.com/actions/setup-ruby)
-*   [actions/setup-elixir: Elixir (⭐151)](https://github.com/actions/setup-elixir)
+*   [actions/setup-node: Node.js (⭐3.8k)](https://github.com/actions/setup-node)
+*   [actions/setup-python: Python (⭐1.6k)](https://github.com/actions/setup-python)
+*   [actions/setup-go: Go (⭐1.4k)](https://github.com/actions/setup-go)
+*   [actions/setup-dotnet: .NET core sdk (⭐935)](https://github.com/actions/setup-dotnet)
+*   [actions/setup-haskell: Haskell (GHC and Cabal) (⭐70)](https://github.com/actions/setup-haskell)
+*   [actions/setup-java: Java (⭐1.5k)](https://github.com/actions/setup-java)
+*   [actions/setup-ruby: Ruby (⭐171)](https://github.com/actions/setup-ruby)
+*   [actions/setup-elixir: Elixir (⭐154)](https://github.com/actions/setup-elixir)
 
 ### Create your Actions / JavaScript and TypeScript Actions
 
-*   [actions/toolkit (⭐3.6k)](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
-*   [actions/hello-world-javascript-action (⭐151)](https://github.com/actions/hello-world-javascript-action) - A template to demonstrate how to build a JavaScript action.
-*   [actions/javascript-action (⭐668)](https://github.com/actions/javascript-action) - Create a JavaScript Action.
-*   [actions/typescript-action (⭐1.2k)](https://github.com/actions/typescript-action) - Create a TypeScript Action.
+*   [actions/toolkit (⭐4.9k)](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
+*   [actions/hello-world-javascript-action (⭐234)](https://github.com/actions/hello-world-javascript-action) - A template to demonstrate how to build a JavaScript action.
+*   [actions/javascript-action (⭐948)](https://github.com/actions/javascript-action) - Create a JavaScript Action.
+*   [actions/typescript-action (⭐2k)](https://github.com/actions/typescript-action) - Create a TypeScript Action.
 
 ### Create your Actions / Docker Container Actions
 
-*   [actions/hello-world-docker-action (⭐113)](https://github.com/actions/hello-world-docker-action) - A template to demonstrate how to build a Docker action.
-*   [actions/container-toolkit-action (⭐79)](https://github.com/actions/container-toolkit-action) - Template repo for creating container actions using actions/toolkit.
+*   [actions/hello-world-docker-action (⭐162)](https://github.com/actions/hello-world-docker-action) - A template to demonstrate how to build a Docker action.
+*   [actions/container-toolkit-action (⭐116)](https://github.com/actions/container-toolkit-action) - Template repo for creating container actions using actions/toolkit.
 
 ### Tutorials / Terraform
 
@@ -78,12 +78,12 @@
 
 ### CLI Builders
 
-*   [Phreak (⭐32)](https://github.com/shinzlet/phreak) - A highly flexible Crystal CLI builder in the style of OptionParser
+*   [Phreak (⭐33)](https://github.com/shinzlet/phreak) - A highly flexible Crystal CLI builder in the style of OptionParser
 
 ### Dependency Injection
 
-*   [Crystal-DI (⭐32)](https://github.com/funk-yourself/crystal-di) - Lightweight DI Container
-*   [syringe (⭐6)](https://github.com/Bonemind/syringe) - A simple and basic dependency injection shard for crystal
+*   [Crystal-DI (⭐33)](https://github.com/funk-yourself/crystal-di) - Lightweight DI Container
+*   [syringe (⭐7)](https://github.com/Bonemind/syringe) - A simple and basic dependency injection shard for crystal
 
 ## [4. Awesome Saltstack](/content/hbokh/awesome-saltstack/README.md)
 

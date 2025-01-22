@@ -10,7 +10,7 @@
 
 ### Libraries
 
-*   [Ramda Adjunct (⭐679)](https://github.com/char0n/ramda-adjunct) is a community-maintained extension of Ramda.
+*   [Ramda Adjunct (⭐682)](https://github.com/char0n/ramda-adjunct) is a community-maintained extension of Ramda.
 
 ### Resources / Articles
 
@@ -32,7 +32,7 @@
 
 ### Job processing / Third-party APIs
 
-*   [psychiq (⭐51)](https://github.com/fukamachi/psychiq) - redis-based background job processing for Common Lisp applications. Inspired by Ruby's Sidekiq and compatible with its web UI. [LLGPL](http://opensource.franz.com/preamble.html).
+*   [psychiq (⭐54)](https://github.com/fukamachi/psychiq) - redis-based background job processing for Common Lisp applications. Inspired by Ruby's Sidekiq and compatible with its web UI. [LLGPL](http://opensource.franz.com/preamble.html).
 
 ### Logging / Third-party APIs
 

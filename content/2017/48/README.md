@@ -74,9 +74,6 @@
 
 ### Applications and Platforms / Mood
 
-*   [Daylio](http://daylio.webflow.io/) - Capture your day without writing down a single line. Exportable data with Premium Version. (iOS & Android).
-*   [MoodNotes](http://moodnotes.thriveport.com/) - Capture your feelings with a modifiable smiling or frowning face. Exportable data. (iOS and Apple Watch).
-*   [MoodPanda](http://moodpanda.com/) - One of the oldest moodtrackers available online. Rate your mood and share to support. Exportable data. Sync and extend via API (Web, iOS, Android).
 *   [MoodJam](http://moodjam.com/) - Track your moods with colors. (Web only).
 *   [iMoodJournal](https://www.imoodjournal.com/) - Mood Tracking on a 10-point scale from Really great to Couldn't be worse. Exportable data. (Android, iOS, Apple Watch).
 *   [Perspective](https://itunes.apple.com/us/app/perspective-daily-journal/id1186753097?mt=8) - Journaling to captures Thoughts, Moods, and Interests with the goal of helping you reflect and find perspective. (iOS).
@@ -91,7 +88,7 @@
 ### Electron / Themes
 
 *   [StarCabinet (⭐407)](https://github.com/thundernet8/StarCabinet) - Github Stars-based cross-platform tool based on React, Electronand and Ant Design.
-*   [Nowa (⭐202)](https://github.com/nowa-webpack/nowa-gui) - A webpack based front-end plug-in scaffolding and development solution.
+*   [Nowa (⭐201)](https://github.com/nowa-webpack/nowa-gui) - A webpack based front-end plug-in scaffolding and development solution.
 
 ## [9. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
 
@@ -261,21 +258,21 @@
 ### Integration
 
 *   Mail
-    *   [SMTP (⭐33)](https://github.com/vert-x3/vertx-mail-client) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Async SMTP client.
+    *   [SMTP (⭐36)](https://github.com/vert-x3/vertx-mail-client) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Async SMTP client.
     *   [vertx-smtp-server (⭐5)](https://github.com/cinterloper/vertx-smtp-server) - SMTP server bridging to EventBus.
 
 ## [13. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Configuration / Miscellaneous
 
-*   [BotMan (⭐6k)](https://github.com/botman/botman) - A framework agnostic PHP library to build cross-platform chatbots.
+*   [BotMan (⭐6.1k)](https://github.com/botman/botman) - A framework agnostic PHP library to build cross-platform chatbots.
 
 ## [14. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Development tools / IDEs
 
 *   [Sublime Text](https://www.sublimetext.com/)
-    *   [rust-lang/rust-enhanced (⭐778)](https://github.com/rust-lang/rust-enhanced) - official Rust package
+    *   [rust-lang/rust-enhanced (⭐794)](https://github.com/rust-lang/rust-enhanced) - official Rust package
 
 ## [15. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
 
@@ -316,7 +313,7 @@
 
 ### Suggested Awesome Lists / Useful References
 
-*   [Awesome Software Quality (⭐2.2k)](https://github.com/ligurio/awesome-software-quality) - A list of free software testing and verification resources.
+*   [Awesome Software Quality (⭐2.3k)](https://github.com/ligurio/awesome-software-quality) - A list of free software testing and verification resources.
 
 ## [18. Awesome Devenv](/content/jondot/awesome-devenv/week/README.md)
 
@@ -397,8 +394,8 @@
 
 ### Applications
 
-*   [RemoteRetro (⭐575)](https://github.com/stride-nyc/remote_retro) - A real-time application for conducting Agile retrospectives at [remoteretro.org](https://remoteretro.org) written in Elixir/Phoenix/React.
-*   [uai\_shot (⭐61)](https://github.com/sergioaugrod/uai_shot) - A multiplayer ship game built with Elixir, Phoenix Framework and Phaser.
+*   [RemoteRetro (⭐578)](https://github.com/stride-nyc/remote_retro) - A real-time application for conducting Agile retrospectives at [remoteretro.org](https://remoteretro.org) written in Elixir/Phoenix/React.
+*   [uai\_shot (⭐63)](https://github.com/sergioaugrod/uai_shot) - A multiplayer ship game built with Elixir, Phoenix Framework and Phaser.
 
 ### Macros
 
@@ -406,7 +403,7 @@
 
 ### Networking
 
-*   [tunnerl (⭐27)](https://github.com/surik/tunnerl) - SOCKS4 and SOCKS5 proxy server.
+*   [tunnerl (⭐28)](https://github.com/surik/tunnerl) - SOCKS4 and SOCKS5 proxy server.
 
 ### Queue
 
@@ -502,7 +499,6 @@
 
 ### Books / Post-quantum cryptography
 
-*   [CrypTool book](https://www.cryptool.org/en/ctp-documentation/ctbook) - Predominantly mathematically oriented information on learning, using and experimenting cryptographic procedures.
 *   [The joy of Cryptography](http://web.engr.oregonstate.edu/~rosulekm/crypto/) - By Mike Rosulek. A lot of basic stuff covered really well. No ECC.
 *   [A Computational Introduction to Number Theory and Algebra](http://www.shoup.net/ntb/) - By Victor Shoup, excellent starters book on math universally used in cryptography.
 
@@ -542,10 +538,10 @@
 ### Miscellaneous / Episodes
 
 *   [Arduino](https://www.arduino.cc/) - Arduino boards have a number of shields you can attach to connect to CAN-enabled devices.
-    *   [CANdiy-Shield (⭐23)](https://github.com/watterott/CANdiy-Shield)
+    *   [CANdiy-Shield (⭐24)](https://github.com/watterott/CANdiy-Shield)
     *   [DFRobot CAN-BUS Shield For Arduino](http://www.dfrobot.com/index.php?route=product/product\&product_id=1444)
     *   [SparkFun CAN-BUS Shield](https://www.sparkfun.com/products/13262)
-    *   [arduino-canbus-monitor (⭐278)](https://github.com/latonita/arduino-canbus-monitor) - No matter which shield is selected you will need your own sniffer. This is implementation of standard Lawicel/SLCAN protocol for Arduino + any MCP CAN Shield to use with many standard CAN bus analysis software packages or SocketCAN
+    *   [arduino-canbus-monitor (⭐309)](https://github.com/latonita/arduino-canbus-monitor) - No matter which shield is selected you will need your own sniffer. This is implementation of standard Lawicel/SLCAN protocol for Arduino + any MCP CAN Shield to use with many standard CAN bus analysis software packages or SocketCAN
 
 ## [32. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
 
@@ -557,7 +553,7 @@
 
 ### Serial Port
 
-*   [Asio (⭐4.8k)](https://github.com/chriskohlhoff/asio/) - Asio includes classes for creating and manipulating serial ports in a portable manner. \[Boost] [website](http://think-async.com/)
+*   [Asio (⭐5.1k)](https://github.com/chriskohlhoff/asio/) - Asio includes classes for creating and manipulating serial ports in a portable manner. \[Boost] [website](http://think-async.com/)
 
 ### Asynchronous Event Loop
 
@@ -565,36 +561,36 @@
 
 ### Debug
 
-*   [Catch2 (⭐18k)](https://github.com/catchorg/Catch2) - A modern, C++-native, test framework for unit-tests, TDD and BDD. \[Boost]
-*   [CppUTest (⭐1.3k)](https://github.com/cpputest/cpputest) - Unit testing and mocking framework for C/C++. \[BSD-3-clause]
+*   [Catch2 (⭐19k)](https://github.com/catchorg/Catch2) - A modern, C++-native, test framework for unit-tests, TDD and BDD. \[Boost]
+*   [CppUTest (⭐1.4k)](https://github.com/cpputest/cpputest) - Unit testing and mocking framework for C/C++. \[BSD-3-clause]
 
 ### Graphics
 
-*   [DirectXTK (⭐2.5k)](https://github.com/Microsoft/DirectXTK) - A collection of helper classes for writing DirectX 11.x code in C++. \[MIT]
+*   [DirectXTK (⭐2.6k)](https://github.com/Microsoft/DirectXTK) - A collection of helper classes for writing DirectX 11.x code in C++. \[MIT]
 
 ### Networking
 
-*   [nghttp2 (⭐4.6k)](https://github.com/nghttp2/nghttp2) - HTTP/2 C Library. \[MIT] [website](https://nghttp2.org/)
-*   [uWebSockets (⭐17k)](https://github.com/uNetworking/uWebSockets) - µWS is one of the most lightweight, efficient & scalable WebSocket & HTTP server implementations available. \[Zlib]
+*   [nghttp2 (⭐4.7k)](https://github.com/nghttp2/nghttp2) - HTTP/2 C Library. \[MIT] [website](https://nghttp2.org/)
+*   [uWebSockets (⭐18k)](https://github.com/uNetworking/uWebSockets) - µWS is one of the most lightweight, efficient & scalable WebSocket & HTTP server implementations available. \[Zlib]
 
 ### Scripting
 
 *   [cppimport (⭐1.2k)](https://github.com/tbenthompson/cppimport) - Import C++ files directly from Python! \[MIT]
-*   [CppSharp (⭐3.1k)](https://github.com/mono/CppSharp) - Tools and libraries to glue C/C++ APIs to high-level languages. \[MIT]
-*   [Cython (⭐9.3k)](https://github.com/cython/cython) - Cython is an optimising static compiler for both the Python programming language and the extended Cython programming language (based on Pyrex). It makes writing C extensions for Python as easy as Python itself. \[Apache] [website](http://cython.org/)
+*   [CppSharp (⭐3.2k)](https://github.com/mono/CppSharp) - Tools and libraries to glue C/C++ APIs to high-level languages. \[MIT]
+*   [Cython (⭐9.7k)](https://github.com/cython/cython) - Cython is an optimising static compiler for both the Python programming language and the extended Cython programming language (based on Pyrex). It makes writing C extensions for Python as easy as Python itself. \[Apache] [website](http://cython.org/)
 *   [JavaCpp (⭐4.5k)](https://github.com/bytedeco/javacpp) - The missing bridge between Java and native C++. \[Apache2]
-*   [libffi (⭐3.2k)](https://github.com/libffi/libffi) - A portable foreign-function interface library. \[MIT] [website](https://sourceware.org/libffi/)
+*   [libffi (⭐3.3k)](https://github.com/libffi/libffi) - A portable foreign-function interface library. \[MIT] [website](https://sourceware.org/libffi/)
 *   [nbind (⭐2k)](https://github.com/charto/nbind) - Magical headers that make your C++ library accessible from JavaScript. \[MIT]
-*   [pybind11 (⭐15k)](https://github.com/pybind/pybind11) - Seamless operability between C++11 and Python. \[BSD]
-*   [SWIG (⭐5.7k)](https://github.com/swig/swig) - A wrapper/interface Generator that let you link your c++ code to Javascript, Perl, PHP, Python, Tcl and Ruby. \[GPL/Output not licensed] [website](http://www.swig.org/)
+*   [pybind11 (⭐16k)](https://github.com/pybind/pybind11) - Seamless operability between C++11 and Python. \[BSD]
+*   [SWIG (⭐5.9k)](https://github.com/swig/swig) - A wrapper/interface Generator that let you link your c++ code to JavaScript, Perl, PHP, Python, Tcl and Ruby. \[GPL/Output not licensed] [website](http://www.swig.org/)
 
 ### Build Systems
 
-*   [Bear (⭐4.7k)](https://github.com/rizsotto/Bear) - A tool to generate compilation database for clang tooling. \[GPLv3]
+*   [Bear (⭐5.2k)](https://github.com/rizsotto/Bear) - A tool to generate compilation database for clang tooling. \[GPLv3]
 
 ### Static Code Analysis
 
-*   [include-what-you-use (⭐4k)](https://github.com/include-what-you-use/include-what-you-use) - A tool for use with clang to analyze includes in C and C++ source files. [website](https://include-what-you-use.org/)
+*   [include-what-you-use (⭐4.2k)](https://github.com/include-what-you-use/include-what-you-use) - A tool for use with clang to analyze includes in C and C++ source files. [website](https://include-what-you-use.org/)
 
 ## [34. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
 
@@ -611,14 +607,6 @@
 ### Resources / Books
 
 *   [Front-end com Vue.js](https://www.casadocodigo.com.br/products/livro-frontend-vue) by Leonardo Vilarinho, Casa do Código. (November 2017)
-
-### Projects Using Vue.js / Open Source
-
-*   [discord-logo (⭐62)](https://github.com/NNTin/discord-logo) - A Vue.js animated discord logo generator based on SVGs. ([Github Page](https://nntin.github.io/discord-logo/))
-
-### Components & Libraries / UI Components
-
-*   [vue-input-number (⭐13)](https://github.com/joseluisq/vue-input-number) - A custom input number component for Vue.js 2.
 
 ## [36. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
@@ -650,11 +638,11 @@
 
 ### Mail
 
-*   [StrongGrid (⭐179)](https://github.com/Jericho/StrongGrid) - Client for SendGrid's v3 API. Not only allows you to send emails, but also allows you to bulk import contacts, manage lists and segments, create custom fields for your lists, etc. Also includes a parser for SendGrid Webhooks.
+*   [StrongGrid (⭐188)](https://github.com/Jericho/StrongGrid) - Client for SendGrid's v3 API. Not only allows you to send emails, but also allows you to bulk import contacts, manage lists and segments, create custom fields for your lists, etc. Also includes a parser for SendGrid Webhooks.
 
 ### Tools
 
-*   [posh-dotnet (⭐45)](https://github.com/bergmeister/posh-dotnet) - `PowerShell` tab completion for the [dotnet CLI (⭐3.5k)](https://github.com/dotnet/cli)
+*   [posh-dotnet (⭐46)](https://github.com/bergmeister/posh-dotnet) - `PowerShell` tab completion for the [dotnet CLI (⭐3.5k)](https://github.com/dotnet/cli)
 
 ## [40. Awesome Chatops](/content/exAspArk/awesome-chatops/week/README.md)
 

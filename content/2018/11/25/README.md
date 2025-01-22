@@ -16,7 +16,7 @@
 
 ### Testing
 
-*   [timecop.cr (⭐19)](https://github.com/crystal-community/timecop.cr) - Library for mocking with `Time.now`. Inspired by the [timecop ruby gem (⭐3.3k)](https://github.com/travisjeffery/timecop)
+*   [timecop.cr (⭐19)](https://github.com/crystal-community/timecop.cr) - Library for mocking with `Time.now`. Inspired by the [timecop ruby gem (⭐3.4k)](https://github.com/travisjeffery/timecop)
 
 ## [3. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 

@@ -37,8 +37,8 @@
 
 ### Database Management
 
-*   [RNeo4j (⭐236)](https://github.com/nicolewhite/Rneo4j) - Neo4j graph database driver.
-*   [rpostgis (⭐75)](https://github.com/mablab/rpostgis) - R interface to PostGIS database and get spatial objects in R.
+*   [RNeo4j (⭐239)](https://github.com/nicolewhite/Rneo4j) - Neo4j graph database driver.
+*   [rpostgis (⭐78)](https://github.com/mablab/rpostgis) - R interface to PostGIS database and get spatial objects in R.
 
 ## [5. Awesome Recursion Schemes](/content/passy/awesome-recursion-schemes/README.md)
 
@@ -58,7 +58,7 @@
 
 ### Third Party APIs
 
-*   [cashier (⭐48)](https://github.com/swelham/cashier) - Payment gateway offering a common interface into multiple payment providers.
+*   [cashier (⭐50)](https://github.com/swelham/cashier) - Payment gateway offering a common interface into multiple payment providers.
 
 ## [7. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 

@@ -10,7 +10,7 @@
 
 ### Web Frameworks
 
-*   [Fuego (⭐761)](https://github.com/go-fuego/fuego) - The framework for busy Go developers! Web framework generating OpenAPI 3 spec from source code.
+*   [Fuego (⭐1.1k)](https://github.com/go-fuego/fuego) - The framework for busy Go developers! Web framework generating OpenAPI 3 spec from source code.
 
 ## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -22,7 +22,7 @@
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [boban (⭐0)](https://github.com/TheEdgeOfRage/boban-zsh) - A powerline-style file based on [Agnoster (⭐4k)](https://github.com/agnoster/agnoster-zsh-theme). Includes decorators for user\@hostname, `git` status, current working directory, python venv, AWS profile, `$KUBECONFIG`, the terraform workspace and the exit status of the last command run. Requires a Nerd Font for symbols to render properly.
+*   [boban (⭐1)](https://github.com/TheEdgeOfRage/boban-zsh) - A powerline-style file based on [Agnoster (⭐4k)](https://github.com/agnoster/agnoster-zsh-theme). Includes decorators for user\@hostname, `git` status, current working directory, python venv, AWS profile, `$KUBECONFIG`, the terraform workspace and the exit status of the last command run. Requires a Nerd Font for symbols to render properly.
 *   [shiro (arturDobrowolski) (⭐0)](https://github.com/ArturDobrowolski/shiro-zsh-theme) - Includes decorators for current directory, `git` status, and exit status and execution time of last command run.
 *   [shiro (shirozuki) (⭐0)](https://github.com/shirozuki/shiro-zsh-theme) - Includes decorators for current directory, `git` status and execution time and exit status of last command run.
 
@@ -37,7 +37,7 @@
 *   [Become a ninja with Angular](https://books.ninja-squad.com/angular) - `Ninja Squad`
 *   [Angular University Ebooks](https://angular-university.io/my-ebooks) - Available separately or included with a subscription.
 *   [Mastering Angular Signals](https://angularexperts.io/products/ebook-signals) - `Kevin Kreuzer`
-*   [Angular Book (⭐34)](https://github.com/DenysVuika/angular-book) - `Denys Vuika` **FREE**
+*   [Angular Book (⭐35)](https://github.com/DenysVuika/angular-book) - `Denys Vuika` **FREE**
 *   [Modern Angular](https://www.angulararchitects.io/en/ebooks/modern-angular/?book) - `Manfred Steyer` **FREE**
 *   [Ultimate Guide to Angular Evolution](https://houseofangular.io/the-ultimate-guide-to-angular-evolution/) - `House of Angular` **FREE**
 *   [Micro Frontends and Moduliths with Angular](https://www.angulararchitects.io/en/ebooks/micro-frontends-and-moduliths-with-angular/) - `Manfred Steyer` **FREE**
@@ -57,7 +57,7 @@
 
 ### Test / Diagnostics
 
-*   [quolpr/quicktest.nvim (⭐65)](https://github.com/quolpr/quicktest.nvim) - Run your tests in split window or popup with live feedback.
+*   [quolpr/quicktest.nvim (⭐85)](https://github.com/quolpr/quicktest.nvim) - Run your tests in split window or popup with live feedback.
 
 ---
 

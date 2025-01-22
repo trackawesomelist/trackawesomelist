@@ -15,7 +15,7 @@
 
 ### Tools
 
-*   [keycloak-config-cli: Configuration as Code for Keycloak (⭐721)](https://github.com/adorsys/keycloak-config-cli)
+*   [keycloak-config-cli: Configuration as Code for Keycloak (⭐836)](https://github.com/adorsys/keycloak-config-cli)
 
 ## [2. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
@@ -25,7 +25,7 @@
 
 ### Calendar / Barcode
 
-*   [ElegantCalendar (⭐856)](https://github.com/ThasianX/ElegantCalendar) - The elegant full screen calendar missed in SwiftUI.
+*   [ElegantCalendar (⭐887)](https://github.com/ThasianX/ElegantCalendar) - The elegant full screen calendar missed in SwiftUI.
 
 ### Label / Barcode
 
@@ -53,8 +53,8 @@
 
 ### Authentication
 
-*   [TheIdServer (⭐682)](https://github.com/Aguafrommars/TheIdServer) - ![stars](https://img.shields.io/github/stars/Aguafrommars/TheIdServer?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Aguafrommars/TheIdServer?style=flat-square\&cacheSeconds=86400) OpenID/Connect server base on IdentityServer4.
-*   [Blorc.OpenIdConnect (⭐89)](https://github.com/WildGums/Blorc.OpenIdConnect) - ![stars](https://img.shields.io/github/stars/WildGums/Blorc.OpenIdConnect?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/WildGums/Blorc.OpenIdConnect?style=flat-square\&cacheSeconds=86400) The right way to use OpenID Connect on Blazor.
+*   [TheIdServer (⭐701)](https://github.com/Aguafrommars/TheIdServer) - ![stars](https://img.shields.io/github/stars/Aguafrommars/TheIdServer?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Aguafrommars/TheIdServer?style=flat-square\&cacheSeconds=86400) OpenID/Connect server base on IdentityServer4.
+*   [Blorc.OpenIdConnect (⭐91)](https://github.com/WildGums/Blorc.OpenIdConnect) - ![stars](https://img.shields.io/github/stars/WildGums/Blorc.OpenIdConnect?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/WildGums/Blorc.OpenIdConnect?style=flat-square\&cacheSeconds=86400) The right way to use OpenID Connect on Blazor.
 
 ### Courses / Others
 

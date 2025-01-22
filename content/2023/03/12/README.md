@@ -10,31 +10,31 @@
 
 ### ChatGPT
 
-*   [llama.cpp (⭐64k)](https://github.com/ggerganov/llama.cpp) - Inference of Facebook's LLaMA model in pure C/C++ so it can run locally on a CPU.
+*   [llama.cpp (⭐71k)](https://github.com/ggerganov/llama.cpp) - Inference of Facebook's LLaMA model in pure C/C++ so it can run locally on a CPU.
 
 ## [2. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Go Generate Tools / Libraries for creating HTTP middlewares
 
-*   [options-gen (⭐76)](https://github.com/kazhuravlev/options-gen) - Functional options described by Dave Cheney's post "Functional options for friendly APIs".
+*   [options-gen (⭐82)](https://github.com/kazhuravlev/options-gen) - Functional options described by Dave Cheney's post "Functional options for friendly APIs".
 
 ## [3. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [neanias/everforest-nvim (⭐227)](https://github.com/neanias/everforest-nvim) - A Lua port of the Everforest colour scheme.
+*   [neanias/everforest-nvim (⭐292)](https://github.com/neanias/everforest-nvim) - A Lua port of the Everforest colour scheme.
 
 ### Terminal Integration / Diagnostics
 
-*   [willothy/flatten.nvim (⭐465)](https://github.com/willothy/flatten.nvim) - Open files from terminal buffers in your current Neovim instance instead of launching a nested instance.
+*   [willothy/flatten.nvim (⭐555)](https://github.com/willothy/flatten.nvim) - Open files from terminal buffers in your current Neovim instance instead of launching a nested instance.
 
 ### Editing Support / Diagnostics
 
-*   [willothy/moveline.nvim (⭐131)](https://github.com/willothy/moveline.nvim) - Move lines and blocks up and down easily, with indenting handled automatically as you move. Written in Rust.
+*   [willothy/moveline.nvim (⭐142)](https://github.com/willothy/moveline.nvim) - Move lines and blocks up and down easily, with indenting handled automatically as you move. Written in Rust.
 
 ### Indent / Diagnostics
 
-*   [shellRaining/hlchunk.nvim (⭐485)](https://github.com/shellRaining/hlchunk.nvim) - A Lua implementation of `nvim-hlchunk`, contains more features, such as highlight `{}` chunk, indent line, space blank etc.
+*   [shellRaining/hlchunk.nvim (⭐702)](https://github.com/shellRaining/hlchunk.nvim) - A Lua implementation of `nvim-hlchunk`, contains more features, such as highlight `{}` chunk, indent line, space blank etc.
 
 ## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -64,7 +64,7 @@
 
 ### Containers
 
-*   [Docker Tutorial](https://people.irisa.fr/Anthony.Baire/docker-tutorial.pdf) - Anthony Baire (PDF)
+*   [Docker Tutorial](https://people.irisa.fr/Anthony.Baire/docker-tutorial.pdf) - Anthony Baire (PDF) (CC BY-NC-ND)
 
 ---
 

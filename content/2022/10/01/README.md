@@ -26,21 +26,21 @@
 
 ### Applications / Blockchain
 
-*   [ibc-rs (⭐433)](https://github.com/informalsystems/hermes) - Implementation of the [Interblockchain Communication](https://ibc.cosmos.network/) protocol
+*   [ibc-rs (⭐457)](https://github.com/informalsystems/hermes) - Implementation of the [Interblockchain Communication](https://ibc.cosmos.network/) protocol
 
 ### Development tools / Web Servers
 
-*   [bacon (⭐1.6k)](https://github.com/Canop/bacon) - background rust code checker, similar to cargo-watch
+*   [bacon (⭐2.2k)](https://github.com/Canop/bacon) - background rust code checker, similar to cargo-watch
 
 ### Libraries / Audio and Music
 
-*   [musitdev/portmidi-rs (⭐76)](https://github.com/musitdev/portmidi-rs) - [PortMidi](https://portmedia.sourceforge.net/portmidi/) bindings
+*   [musitdev/portmidi-rs (⭐79)](https://github.com/musitdev/portmidi-rs) - [PortMidi](https://portmedia.sourceforge.net/portmidi/) bindings
 
 ## [3. Awesome Github Wiki](/content/MyHoneyBadger/awesome-github-wiki/README.md)
 
 ### Examples
 
-*   [FortAwesome/Font-Awesome (⭐73k)](https://github.com/FortAwesome/Font-Awesome/wiki)
+*   [FortAwesome/Font-Awesome (⭐74k)](https://github.com/FortAwesome/Font-Awesome/wiki)
 
 ### Useful links with tips & tricks
 
@@ -50,7 +50,7 @@
 
 ### (requires Neovim 0.5)
 
-*   [mfussenegger/nvim-jdtls (⭐1k)](https://github.com/mfussenegger/nvim-jdtls) - Extensions for the built-in LSP support for eclipse.jdt.ls.
+*   [mfussenegger/nvim-jdtls (⭐1.2k)](https://github.com/mfussenegger/nvim-jdtls) - Extensions for the built-in LSP support for eclipse.jdt.ls.
 
 ## [5. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 
@@ -71,7 +71,7 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [communism (⭐18)](https://github.com/victoria-riley-barnett/Communism/) - Displays a Marx quote of the day.
+*   [communism (⭐22)](https://github.com/victoria-riley-barnett/Communism/) - Displays a Marx quote of the day.
 
 ## [7. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
@@ -81,7 +81,7 @@
 
 ### Libraries/Frameworks / Misc
 
-*   [fork-handles/tuples4k (⭐205)](https://github.com/fork-handles/forkhandles/tree/trunk/tuples4k) - Tuple classes
+*   [fork-handles/tuples4k (⭐226)](https://github.com/fork-handles/forkhandles/tree/trunk/tuples4k) - Tuple classes
 
 ## [8. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -136,29 +136,29 @@
 
 ### Development / Devops
 
-*   [pm2 (⭐41k)](https://github.com/Unitech/pm2) - Production Process Manager for Node.js.
+*   [pm2 (⭐42k)](https://github.com/Unitech/pm2) - Production Process Manager for Node.js.
 
 ### Development / Release
 
-*   [release (⭐3.5k)](https://github.com/vercel/release) - Generate changelogs with a single command.
+*   [release (⭐3.6k)](https://github.com/vercel/release) - Generate changelogs with a single command.
 
 ### Productivity / Calendars
 
-*   [birthday (⭐77)](https://github.com/IonicaBizau/birthday) - Know when a friend's birthday is coming.
+*   [birthday (⭐80)](https://github.com/IonicaBizau/birthday) - Know when a friend's birthday is coming.
 
 ### Utilities / Calendars
 
-*   [kill-tabs (⭐389)](https://github.com/sindresorhus/kill-tabs) - Kill all Chrome tabs.
+*   [kill-tabs (⭐388)](https://github.com/sindresorhus/kill-tabs) - Kill all Chrome tabs.
 *   [alex (⭐4.8k)](https://github.com/get-alex/alex) - Catch insensitive, inconsiderate writing.
 
 ### Utilities / Network Utilities
 
-*   [acmetool (⭐2k)](https://github.com/hlandau/acmetool) - Automatic certificate acquisition for ACME (Let's Encrypt).
-*   [certificate-ripper (⭐665)](https://github.com/Hakky54/certificate-ripper) - Extract server certificates.
+*   [acmetool (⭐2.1k)](https://github.com/hlandau/acmetool) - Automatic certificate acquisition for ACME (Let's Encrypt).
+*   [certificate-ripper (⭐713)](https://github.com/Hakky54/certificate-ripper) - Extract server certificates.
 
 ### Utilities / Theming and Customization
 
-*   [splash-cli (⭐541)](https://github.com/splash-cli/splash-cli) - Beautiful wallpapers from Unsplash.
+*   [splash-cli (⭐548)](https://github.com/splash-cli/splash-cli) - Beautiful wallpapers from Unsplash.
 
 ### Utilities / Shell Utilities
 
@@ -166,13 +166,12 @@
 
 ### Utilities / System Interaction Utilities
 
-*   [neofetch (⭐20k)](https://github.com/dylanaraps/neofetch) - System information tool.
 *   [glances](https://nicolargo.github.io/glances/) - System monitoring tool.
 *   [gzip-size-cli (⭐188)](https://github.com/sindresorhus/gzip-size-cli) - Get the gzipped size of a file.
 
 ### Utilities / Markdown
 
-*   [glow (⭐15k)](https://github.com/charmbracelet/glow) - Styled markdown rendering.
+*   [glow (⭐16k)](https://github.com/charmbracelet/glow) - Styled markdown rendering.
 
 ### Utilities / Security
 
@@ -181,23 +180,23 @@
 ### Utilities / Browser Replacement
 
 *   [s (⭐2.3k)](https://github.com/zquestz/s) - Open a web search in your terminal.
-*   [hget (⭐349)](https://github.com/bevacqua/hget) - Render websites in plain text from your terminal.
-*   [mapscii (⭐7.4k)](https://github.com/rastapasta/mapscii) - Terminal Map Viewer.
-*   [nasa-cli (⭐82)](https://github.com/xxczaki/nasa-cli) - Download NASA Picture of the Day.
-*   [getnews.tech (⭐152)](https://github.com/omgimanerd/getnews.tech) - Fetch news headlines from various news outlets.
-*   [trino (⭐133)](https://github.com/eneserdogan/trino) - Translation of words and phrases.
-*   [translate-shell (⭐6.8k)](https://github.com/soimort/translate-shell) - Google Translate interface.
+*   [hget (⭐356)](https://github.com/bevacqua/hget) - Render websites in plain text from your terminal.
+*   [mapscii (⭐7.9k)](https://github.com/rastapasta/mapscii) - Terminal Map Viewer.
+*   [nasa-cli (⭐86)](https://github.com/xxczaki/nasa-cli) - Download NASA Picture of the Day.
+*   [getnews.tech (⭐157)](https://github.com/omgimanerd/getnews.tech) - Fetch news headlines from various news outlets.
+*   [trino (⭐136)](https://github.com/eneserdogan/trino) - Translation of words and phrases.
+*   [translate-shell (⭐7k)](https://github.com/soimort/translate-shell) - Google Translate interface.
 
 ### Utilities / Internet Speedtest
 
-*   [speedtest-net (⭐607)](https://github.com/ddsol/speedtest.net) - Test internet connection speed and ping using speedtest.net.
+*   [speedtest-net (⭐611)](https://github.com/ddsol/speedtest.net) - Test internet connection speed and ping using speedtest.net.
 *   [speed-test (⭐3.9k)](https://github.com/sindresorhus/speed-test) - `speedtest-net` wrapper with different UI.
-*   [speedtest-cli (⭐13k)](https://github.com/sivel/speedtest-cli) - Test internet bandwidth using speedtest.net.
-*   [bandwhich (⭐8.6k)](https://github.com/imsnif/bandwhich) - Track bandwidth utilization by process.
+*   [speedtest-cli (⭐14k)](https://github.com/sivel/speedtest-cli) - Test internet bandwidth using speedtest.net.
+*   [bandwhich (⭐10k)](https://github.com/imsnif/bandwhich) - Track bandwidth utilization by process.
 
 ### Files and Directories / Directory Navigation
 
-*   [fz (⭐504)](https://github.com/changyuheng/fz.sh) - Seamless fuzzy tab completion for z.
+*   [fz (⭐528)](https://github.com/changyuheng/fz.sh) - Seamless fuzzy tab completion for z.
 
 ### Version Control / Git
 
@@ -205,12 +204,12 @@
 
 ### Version Control / Emoji
 
-*   [gitmoji-cli (⭐4.5k)](https://github.com/carloscuesta/gitmoji-cli) - Use emoji in commit messages.
-*   [gitmoji-changelog (⭐379)](https://github.com/frinyvonnick/gitmoji-changelog) - Generate gitmoji changelogs.
+*   [gitmoji-cli (⭐4.6k)](https://github.com/carloscuesta/gitmoji-cli) - Use emoji in commit messages.
+*   [gitmoji-changelog (⭐390)](https://github.com/frinyvonnick/gitmoji-changelog) - Generate gitmoji changelogs.
 
 ### Images / Emoji
 
-*   [carbon-now-cli (⭐5.7k)](https://github.com/mixn/carbon-now-cli) - Generate beautiful images of your code.
+*   [carbon-now-cli (⭐5.8k)](https://github.com/mixn/carbon-now-cli) - Generate beautiful images of your code.
 
 ## [12. Papers We Love](/content/papers-we-love/papers-we-love/README.md)
 

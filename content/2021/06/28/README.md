@@ -27,7 +27,7 @@
 
 ### Chemistry
 
-*   [gromacs (⭐685)](https://github.com/gromacs/gromacs) - A message-passing parallel molecular dynamics implementation. \[GPL] [website](http://www.gromacs.org)
+*   [gromacs (⭐737)](https://github.com/gromacs/gromacs) - A message-passing parallel molecular dynamics implementation. \[GPL] [website](http://www.gromacs.org)
 
 ### Image Processing
 
@@ -36,19 +36,19 @@
 
 ### Logging
 
-*   [Easylogging++ (⭐3.7k)](https://github.com/amrayn/easyloggingpp) - Extremely light-weight high performance logging library for C++11 (or higher) applications. \[MIT]
+*   [Easylogging++ (⭐3.8k)](https://github.com/amrayn/easyloggingpp) - Extremely light-weight high performance logging library for C++11 (or higher) applications. \[MIT]
 
 ### Math
 
-*   [xtensor (⭐3.3k)](https://github.com/xtensor-stack/xtensor) - A C++14 library for numerical analysis with multi-dimensional array expressions, inspired by NumPy syntax. \[BSD 3-clause] [website](https://xtensor-stack.github.io/xtensor)
+*   [xtensor (⭐3.4k)](https://github.com/xtensor-stack/xtensor) - A C++14 library for numerical analysis with multi-dimensional array expressions, inspired by NumPy syntax. \[BSD 3-clause] [website](https://xtensor-stack.github.io/xtensor)
 
 ### Reflection
 
-*   [clReflect (⭐266)](https://github.com/Celtoys/clReflect) - C++ Reflection using clang. \[MIT]
+*   [clReflect (⭐276)](https://github.com/Celtoys/clReflect) - C++ Reflection using clang. \[MIT]
 
 ### Miscellaneous
 
-*   [libsigc++ (⭐365)](https://github.com/libsigcplusplus/libsigcplusplus) - A typesafe callback system for standard C++. \[LGPL] [website](https://libsigcplusplus.github.io/libsigcplusplus)
+*   [libsigc++ (⭐391)](https://github.com/libsigcplusplus/libsigcplusplus) - A typesafe callback system for standard C++. \[LGPL] [website](https://libsigcplusplus.github.io/libsigcplusplus)
 
 ### Compiler
 
@@ -64,7 +64,7 @@
 
 ### Configuration / Development Environment
 
-*   [Docker PHP Extension Installer (⭐4.1k)](https://github.com/mlocati/docker-php-extension-installer) - Easily install PHP extensions in Docker containers.
+*   [Docker PHP Extension Installer (⭐4.4k)](https://github.com/mlocati/docker-php-extension-installer) - Easily install PHP extensions in Docker containers.
 
 ## [6. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
 
@@ -76,7 +76,7 @@
 
 ### Driver crates / WIP
 
-*   [IST7920](https://crates.io/crates/ist7920) - SPI monochrome LCD display - ![crates.io](https://img.shields.io/crates/v/ist7920.svg)
+*   [IST7920](https://crates.io/crates/ist7920) - SPI monochrome LCD display - [![crates.io](https://img.shields.io/crates/v/ist7920.svg)](https://crates.io/crates/ist7920)
 
 ## [8. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
@@ -88,7 +88,7 @@
 
 ### Tools
 
-*   [keycloak-scanner Python CLI (⭐49)](https://github.com/NeuronAddict/keycloak-scanner)
+*   [keycloak-scanner Python CLI (⭐52)](https://github.com/NeuronAddict/keycloak-scanner)
 
 ## [10. Awesome Ava](/content/avajs/awesome-ava/README.md)
 

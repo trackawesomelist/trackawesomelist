@@ -14,9 +14,9 @@
 
 ## [2. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
-### 2D / Godot 3.2+
+### 2D / Godot 3
 
-*   [Everplast (⭐70)](https://github.com/WraithWinterly/Everplast) - Unique 2D platforming experience filled with rage, rush, speed, and spray.
+*   [Everplast (⭐74)](https://github.com/WraithWinterly/Everplast) - Unique 2D platforming experience filled with rage, rush, speed, and spray.
 
 ## [3. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
@@ -34,13 +34,13 @@
 
 ### Distribution
 
-*   [love-packager (⭐14)](https://github.com/simplifylabs/love-packager) - Simple CLI to package your LÖVE Game in seconds.
+*   [love-packager (⭐12)](https://github.com/simplifylabs/love-packager) - Simple CLI to package your LÖVE Game in seconds.
 
 ## [6. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Graphics
 
-*   [kotlin-graphics/openvr (⭐35)](https://github.com/kotlin-graphics/openvr) - OpenVR binding
+*   [kotlin-graphics/openvr (⭐37)](https://github.com/kotlin-graphics/openvr) - OpenVR binding
 
 ## [7. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
@@ -96,11 +96,11 @@
 
 ### Projects
 
-*   [Realworld example (⭐840)](https://github.com/jetli/rust-yew-realworld-example-app) - Exemplary real world app built with Rust + Yew + WebAssembly. It utilizes Yew's latest `function components` and `hooks`. It also supports desktop application powered by [Tauri (⭐78k)](https://github.com/tauri-apps/tauri).
+*   [Realworld example (⭐874)](https://github.com/jetli/rust-yew-realworld-example-app) - Exemplary real world app built with Rust + Yew + WebAssembly. It utilizes Yew's latest `function components` and `hooks`. It also supports desktop application powered by [Tauri (⭐88k)](https://github.com/tauri-apps/tauri).
 
 ### Crates / Utils
 
-*   [Tailwind RS (⭐101)](https://github.com/oovm/tailwind-rs) - Tailwind style tracer in rust, JIT + AOT interpreter.
+*   [Tailwind RS (⭐112)](https://github.com/oovm/tailwind-rs) - Tailwind style tracer in rust, JIT + AOT interpreter.
 
 ---
 

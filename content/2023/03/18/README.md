@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 18, 2023
 
-8 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Authentication and OAuth
 
-*   [go-jose (⭐305)](https://github.com/go-jose/go-jose) - Fairly complete implementation of the JOSE working group's JSON Web Token, JSON Web Signatures, and JSON Web Encryption specs.
+*   [go-jose (⭐348)](https://github.com/go-jose/go-jose) - Fairly complete implementation of the JOSE working group's JSON Web Token, JSON Web Signatures, and JSON Web Encryption specs.
 
 ### NoSQL Database Drivers
 
@@ -22,17 +22,17 @@
 
 ### Science and Data Analysis
 
-*   [gograph (⭐59)](https://github.com/hmdsefi/gograph) - A golang generic graph library that provides mathematical graph-theory and algorithms.
+*   [gograph (⭐73)](https://github.com/hmdsefi/gograph) - A golang generic graph library that provides mathematical graph-theory and algorithms.
 
 ### Utilities
 
-*   [watchhttp (⭐32)](https://github.com/nikolaydubina/watchhttp) - Run command periodically and expose latest STDOUT or its rich delta as HTTP endpoint.
+*   [watchhttp (⭐33)](https://github.com/nikolaydubina/watchhttp) - Run command periodically and expose latest STDOUT or its rich delta as HTTP endpoint.
 
 ## [2. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / System tools
 
-*   [lsd (⭐13k)](https://github.com/lsd-rs/lsd) - An ls with a lot of pretty colors and awesome icons [![build](https://github.com/lsd-rs/lsd/workflows/CICD/badge.svg?branch=master)](https://github.com/lsd-rs/lsd/actions)
+*   [lsd (⭐14k)](https://github.com/lsd-rs/lsd) - An ls with a lot of pretty colors and awesome icons [![build](https://github.com/lsd-rs/lsd/workflows/CICD/badge.svg?branch=master)](https://github.com/lsd-rs/lsd/actions)
 
 ## [3. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
@@ -52,7 +52,7 @@
 
 ### Core Extensions
 
-*   [MemoWise (⭐570)](https://github.com/panorama-ed/memo_wise) - Memoize any instance/class/module method, including support for frozen objects - rigorously tested and benchmarked on all Rubies - fast performance of memoized reads.
+*   [MemoWise (⭐579)](https://github.com/panorama-ed/memo_wise) - Memoize any instance/class/module method, including support for frozen objects - rigorously tested and benchmarked on all Rubies - fast performance of memoized reads.
 
 ## [5. Awesome Product Design](/content/ttt30ga/awesome-product-design/README.md)
 
@@ -76,14 +76,6 @@
 ### Font
 
 *   [FontsKey](https://www.fontskey.com/) - Provides free and commercial paid fonts for personal use and can enter text for quick filtering.
-
-## [8. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
-
-### Tutorials
-
-*   [Mutiple Paid Svelte/Sveltekit tutourials - LevelUpTutourials](https://levelup.video/library?tags=svelte#library-grid)
-*   [Mutiple Free Svelte Tutourials - Joy Of Code](https://joyofcode.xyz/categories/svelte)
-*   [Mutiple Free Sveltekit Tutourials - Joy Of Code](https://joyofcode.xyz/categories/sveltekit)
 
 ---
 

@@ -10,20 +10,20 @@
 
 ### JSON
 
-*   [json (⭐219)](https://github.com/cblage/elixir-json) - Native JSON library for Elixir.
+*   [json (⭐218)](https://github.com/cblage/elixir-json) - Native JSON library for Elixir.
 *   [poison (⭐2k)](https://github.com/devinus/poison) - Poison is a new JSON library for Elixir focusing on wicked-fast speed without sacrificing simplicity, completeness, or correctness.
 
 ### Miscellaneous
 
-*   [exprint (⭐35)](https://github.com/parroty/exprintf) - A printf / sprintf library for Elixir, works as a wrapper for :io.format.
+*   [exprint (⭐33)](https://github.com/parroty/exprintf) - A printf / sprintf library for Elixir, works as a wrapper for :io.format.
 
 ### ORM and Datamapping
 
-*   [amnesia (⭐692)](https://github.com/meh/amnesia) - Mnesia wrapper for Elixir.
+*   [amnesia (⭐698)](https://github.com/meh/amnesia) - Mnesia wrapper for Elixir.
 
 ### Testing
 
-*   [meck (⭐811)](https://github.com/eproxus/meck) - A mocking library for Erlang.
+*   [meck (⭐819)](https://github.com/eproxus/meck) - A mocking library for Erlang.
 
 ### Websites
 
@@ -33,7 +33,7 @@
 
 ### Packages / Command-line apps
 
-*   [pjs (⭐419)](https://github.com/danielstjules/pjs) - Pipeable JavaScript. Quickly filter, map, and reduce from the terminal.
+*   [pjs (⭐420)](https://github.com/danielstjules/pjs) - Pipeable JavaScript. Quickly filter, map, and reduce from the terminal.
 *   [license-checker (⭐1.6k)](https://github.com/davglass/license-checker) - Check licenses of your app's dependencies.
 
 ---

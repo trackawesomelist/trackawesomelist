@@ -47,11 +47,11 @@
 
 ### Search / Diagnostics
 
-*   [mangelozzi/rgflow.nvim (⭐82)](https://github.com/mangelozzi/rgflow.nvim) - Quickly get RipGrep results into an editable Quickfix list, while learning RipGrep's CLI.
+*   [mangelozzi/rgflow.nvim (⭐94)](https://github.com/mangelozzi/rgflow.nvim) - Quickly get RipGrep results into an editable Quickfix list, while learning RipGrep's CLI.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [miikanissi/modus-themes.nvim (⭐170)](https://github.com/miikanissi/modus-themes.nvim) - Accessible theme, conforming with the highest standard for color contrast (WCAG AAA).
+*   [miikanissi/modus-themes.nvim (⭐250)](https://github.com/miikanissi/modus-themes.nvim) - Accessible theme, conforming with the highest standard for color contrast (WCAG AAA).
 
 ## [6. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/README.md)
 
@@ -63,13 +63,13 @@
 
 ### XM Cloud
 
-*   [FEaaS BYOC Example (⭐3)](https://github.com/Sitecore/feaas-nextjs-example) - A repo that demonstrates an example of BYOC components using best practices.
+*   [FEaaS BYOC Example (⭐5)](https://github.com/Sitecore/feaas-nextjs-example) - A repo that demonstrates an example of BYOC components using best practices.
 
 ## [8. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### AI
 
-*   [Cledev.OpenAI (⭐107)](https://github.com/lucabriguglia/Cledev.OpenAI) - ![stars](https://img.shields.io/github/stars/lucabriguglia/Cledev.OpenAI?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/lucabriguglia/Cledev.OpenAI?style=flat-square\&cacheSeconds=86400) .NET 7 SDK for OpenAI with a Blazor Server playground.
+*   [Cledev.OpenAI (⭐116)](https://github.com/lucabriguglia/Cledev.OpenAI) - ![stars](https://img.shields.io/github/stars/lucabriguglia/Cledev.OpenAI?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/lucabriguglia/Cledev.OpenAI?style=flat-square\&cacheSeconds=86400) .NET 7 SDK for OpenAI with a Blazor Server playground.
 
 ### Videos / Others
 

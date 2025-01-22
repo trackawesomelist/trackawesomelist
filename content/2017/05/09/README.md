@@ -34,7 +34,7 @@
 
 ### JavaScript libs / Programming fonts with ligatures
 
-*   [fontkit (⭐1.2k)](https://github.com/devongovett/fontkit) - An advanced font engine for Node and the browser ([demo](https://fontkit-demo.now.sh/))
+*   [fontkit (⭐1.5k)](https://github.com/devongovett/fontkit) - An advanced font engine for Node and the browser ([demo](https://fontkit-demo.now.sh/))
 
 ## [6. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md)
 
@@ -49,7 +49,7 @@
 
 ### Routing
 
-*   [router.cr (⭐263)](https://github.com/tbrand/router.cr) - Minimum but powerful http router for HTTP::Server
+*   [router.cr (⭐264)](https://github.com/tbrand/router.cr) - Minimum but powerful http router for HTTP::Server
 
 ## [8. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 
@@ -69,11 +69,11 @@
 
 ### IoC
 
-*   [VS MEF (⭐423)](https://github.com/Microsoft/vs-mef) - Managed Extensibility Framework (MEF) implementation used by Visual Studio.
+*   [VS MEF (⭐443)](https://github.com/Microsoft/vs-mef) - Managed Extensibility Framework (MEF) implementation used by Visual Studio.
 
 ### ORM
 
-*   [Dapper (⭐17k)](https://github.com/StackExchange/Dapper) - A simple object mapper for .NET by [StackExchange](https://stackexchange.github.io/)
+*   [Dapper (⭐18k)](https://github.com/StackExchange/Dapper) - A simple object mapper for .NET by [StackExchange](https://stackexchange.github.io/)
 
 ## [10. Citizen Science](/content/dylanrees/citizen-science/README.md)
 

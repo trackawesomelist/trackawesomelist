@@ -53,7 +53,7 @@
 
 ### Miscellaneous
 
-*   [QtVerbalExpressions (⭐63)](https://github.com/VerbalExpressions/QtVerbalExpressions) - This Qt lib is based off of the C++ VerbalExpressions library. \[MIT]
+*   [QtVerbalExpressions (⭐64)](https://github.com/VerbalExpressions/QtVerbalExpressions) - This Qt lib is based off of the C++ VerbalExpressions library. \[MIT]
 
 ### Coding Style
 
@@ -85,7 +85,7 @@
 
 ### Logging
 
-*   [syslog (⭐87)](https://github.com/Vagabond/erlang-syslog) - Erlang port driver for interacting with syslog via syslog(3).
+*   [syslog (⭐86)](https://github.com/Vagabond/erlang-syslog) - Erlang port driver for interacting with syslog via syslog(3).
 
 ### Miscellaneous
 
@@ -98,7 +98,7 @@
 
 ### Testing
 
-*   [ponos (⭐158)](https://github.com/klarna/ponos) - Ponos is an Erlang application that exposes a flexible load generator API.
+*   [ponos (⭐157)](https://github.com/klarna/ponos) - Ponos is an Erlang application that exposes a flexible load generator API.
 *   [shouldi (⭐135)](https://github.com/batate/shouldi) - Elixir testing libraries with nested contexts, superior readability, and ease of use.
 
 ### Text and Numbers
@@ -115,10 +115,10 @@
 ### Metaprogramming
 
 *   **Syntax Extensions**:
-    *   [ppx\_import (⭐87)](https://github.com/ocaml-ppx/ppx_import) – Import is a syntax extension that allows to pull in types or signatures from other compiled interface files.
+    *   [ppx\_import (⭐89)](https://github.com/ocaml-ppx/ppx_import) – Import is a syntax extension that allows to pull in types or signatures from other compiled interface files.
     *   [ppx\_string\_interpolate (⭐21)](https://github.com/sheijk/ppx_string_interpolate) – A simple ppx filter to support string interpolation like `[%str "value of foo is $(foo)"]`.
     *   [ppx\_monad (⭐7)](https://github.com/rizo/ppx_monad) – Monad syntax extension for OCaml.
-    *   [ppx\_deriving\_yojson (⭐154)](https://github.com/whitequark/ppx_deriving_yojson) – A Yojson codec generator for OCaml.
+    *   [ppx\_deriving\_yojson (⭐157)](https://github.com/whitequark/ppx_deriving_yojson) – A Yojson codec generator for OCaml.
 
 ---
 

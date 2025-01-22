@@ -424,11 +424,11 @@
 
 ### UI / List
 
-*   [Liquid Pull To Refresh (⭐1.2k)](https://github.com/aagarwal1012/Liquid-Pull-To-Refresh) <!--stargazers:aagarwal1012/Liquid-Pull-To-Refresh--> - A beautiful and custom refresh indicator by [Ayush Agarwal](https://github.com/aagarwal1012/).
+*   [Liquid Pull To Refresh (⭐1.3k)](https://github.com/aagarwal1012/Liquid-Pull-To-Refresh) <!--stargazers:aagarwal1012/Liquid-Pull-To-Refresh--> - A beautiful and custom refresh indicator by [Ayush Agarwal](https://github.com/aagarwal1012/).
 
 ### UI / UI Helpers
 
-*   [Offline (⭐1k)](https://github.com/jogboms/flutter_offline) <!--stargazers:jogboms/flutter_offline--> - Tidy utility to handle offline/online connectivity by [Jeremiah Ogbomo](https://twitter.com/jogboms).
+*   [Offline (⭐1.1k)](https://github.com/jogboms/flutter_offline) <!--stargazers:jogboms/flutter_offline--> - Tidy utility to handle offline/online connectivity by [Jeremiah Ogbomo](https://twitter.com/jogboms).
 
 ### UI / Calendar
 
@@ -465,9 +465,8 @@
 *   [ITU Broadband Atlas](https://www.itu.int/ITU-D/treg/atlas/broadbandatlas.asp) - (2010) Interactive infographic tool showcasing the status of broadband deployment worldwide and the regulatory landscape for broadband.
 *   [InternetLiveStats](http://www.internetlivestats.com/internet-users-by-country/) - (2016) Internet Users by Country, interpolated from ITU, United Nations Population Division, Internet & Mobile Association of India (IAMAI), and World Bank data.
 *   [Internet World Stats](https://www.internetworldstats.com/) - Internet users compiled from Nielsen and ITU statistics.
-*   [ITU ICT Development Index](http://www.itu.int/net4/ITU-D/idi/) - (2017) Composite index based on three pillars, ICT Access, ICT Use, and ICT Skills.
 *   [World Economic Forum - Networked Readiness Index](http://reports.weforum.org/global-information-technology-report-2016/networked-readiness-index/) - (2016).
-*   [UN E-Government Knowledge Database](https://publicadministration.un.org/egovkb/en-us/Data-Center) - (2016).
+*   [UN E-Government Knowledge Database](https://publicadministration.un.org/egovkb/en-us/Data-Center) - (2024).
 
 ### Connectivity Maps
 
@@ -493,11 +492,9 @@
 ### Other sources
 
 *   [GSMA - Enabling Rural Coverage](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2018/02/Enabling_Rural_Coverage_English_February_2018.pdf) - (Feb 2018) Regulatory and policy recommendations to foster mobile broadband coverage in developing countries.
-*   [Facebook Audience Insights](https://www.facebook.com/ads/audience-insights/) - Demographic information on Facebook usage.
 *   [SimilarWeb - Mobile App Ranking](https://www.similarweb.com/apps/top/google/app-index/us/all/top-free) - Ranking of popular mobile apps across countries.
 *   [Global Stats by StatCounter](http://gs.statcounter.com/) - Browser market share over time by browser, region, OS.
 *   [Global Mobile Suppliers Association](https://gsacom.com/) - Various reports on LTE and 5G adoption.
-*   [CIESIN Earth Institute - High Resolution Settlement Layer GIS data](https://ciesin.columbia.edu/data/hrsl/) - HRSL datasets offering unprecedented accuracy in population mapping.
 *   [Kleiner Perkins Mary Meeker Internet Trends Report](https://www.kleinerperkins.com/perspectives/internet-trends-report-2018/) - (May 2018) Trends that affect and drive internet uptake globally.
 *   [WEF Internet for All](https://www.weforum.org/reports/internet-for-all-a-framework-for-accelerating-internet-access-and-adoption/) - (2016) A Framework for Accelerating Internet Access and Adoption.
 *   [LTE, WiMAX, HSPA+, 3G, GSM information by country](https://www.worldtimezone.com/4g.html) - Reasonably up-to-date list of mobile networks around the world and their associated frequencies.
@@ -517,11 +514,6 @@
 ### Resources / Blog Posts
 
 *   [Using GitLab CI/CD to auto-deploy your Vue.js application to AWS S3](https://medium.com/@croo/using-gitlab-ci-cd-to-auto-deploy-your-vue-js-application-to-aws-s3-9affe1eb3457)
-
-### Projects Using Vue.js / Open Source
-
-*   [Vue HQ Admin Dashboard](https://vue-hq.netlify.com/) – A modern admin dashboard powered by Vue, Sass, Firestore, and Netlify.
-*   [MToDo (⭐9)](https://github.com/satriaajiputra/mtodo) - Mini To Do Lists with simple auth built with Vue.js and JSON Server as data mock. Great as reference for anyone that finding reference about real world Vue.js
 
 ## [15. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/week/README.md)
 
@@ -546,23 +538,19 @@
 
 ## [17. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
-### Entertainment / Social Media
-
-*   [facebook-cli (⭐394)](https://github.com/specious/facebook-cli) - Facebook command line interface.
-
 ### Utilities / macOS
 
-*   [active-win-cli (⭐58)](https://github.com/sindresorhus/active-win-cli) - Get the title/id/etc of the active window.
+*   [active-win-cli (⭐65)](https://github.com/sindresorhus/active-win-cli) - Get the title/id/etc of the active window.
 
 ### Utilities / Terminal Sharing Utilities
 
-*   [gotty (⭐18k)](https://github.com/yudai/gotty) - Share your terminal as a web application.
+*   [gotty (⭐19k)](https://github.com/yudai/gotty) - Share your terminal as a web application.
 *   [mosh](https://mosh.org/) - Remote SSH client that allows roaming with intermittent connectivity.
 *   [warp (⭐1.6k)](https://github.com/spolu/warp) - Secure and simple terminal sharing.
 
 ### Files and Directories / File Managers
 
-*   [nnn (⭐18k)](https://github.com/jarun/nnn) - File browser and disk usage analyzer with excellent desktop integration.
+*   [nnn (⭐19k)](https://github.com/jarun/nnn) - File browser and disk usage analyzer with excellent desktop integration.
 
 ### Files and Directories / Files
 
@@ -571,14 +559,14 @@
 ### Files and Directories / Directory Navigation
 
 *   [autojump (⭐16k)](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line.
-*   [goto (⭐862)](https://github.com/iridakos/goto) - Directory aliases for the shell with autocomplete.
+*   [goto (⭐878)](https://github.com/iridakos/goto) - Directory aliases for the shell with autocomplete.
 
 ### Files and Directories / Search
 
-*   [happyfinder (⭐329)](https://github.com/hugows/hf) - (another) Fuzzy file finder for the command line.
-*   [find-up-cli (⭐36)](https://github.com/sindresorhus/find-up-cli) - Find a file by walking up parent directories.
-*   [ripgrep (⭐45k)](https://github.com/BurntSushi/ripgrep) - A line-oriented search tool that recursively searches your current directory for a regex pattern.
-*   [fzf (⭐60k)](https://github.com/junegunn/fzf) - A general purpose command-line fuzzy finder, can be used with any list: files/directories, command history, processes, hostnames, bookmarks, git commits, etc.
+*   [happyfinder (⭐331)](https://github.com/hugows/hf) - (another) Fuzzy file finder for the command line.
+*   [find-up-cli (⭐39)](https://github.com/sindresorhus/find-up-cli) - Find a file by walking up parent directories.
+*   [ripgrep (⭐49k)](https://github.com/BurntSushi/ripgrep) - A line-oriented search tool that recursively searches your current directory for a regex pattern.
+*   [fzf (⭐65k)](https://github.com/junegunn/fzf) - A general purpose command-line fuzzy finder, can be used with any list: files/directories, command history, processes, hostnames, bookmarks, git commits, etc.
 
 ### Images / Image Conversion
 
@@ -627,7 +615,7 @@
 
 ### Cluster Managers
 
-*   [Consul Cluster Manager (⭐19)](https://github.com/reactiverse/consul-cluster-manager) - Consul cluster manager.
+*   [Consul Cluster Manager (⭐20)](https://github.com/reactiverse/consul-cluster-manager) - Consul cluster manager.
 
 ## [22. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
@@ -643,56 +631,56 @@
 
 ### GitHub Tools and Management / Docker Container Actions
 
-*   [Declaratively setup GitHub Labels (⭐171)](https://github.com/lannonbr/issue-label-manager-action)
+*   [Declaratively setup GitHub Labels (⭐188)](https://github.com/lannonbr/issue-label-manager-action)
 
 ### Collection of Actions / Docker Container Actions
 
-*   [GitHub Actions for Golang (⭐132)](https://github.com/cedrickring/golang-action)
+*   [GitHub Actions for Golang (⭐133)](https://github.com/cedrickring/golang-action)
 *   [GitHub Actions for R and accompanying #rstats package](http://maxheld.de/ghactions/)
-*   [GitHub Actions for WordPress (⭐348)](https://github.com/10up/actions-wordpress/)
+*   [GitHub Actions for WordPress (⭐415)](https://github.com/10up/actions-wordpress/)
 
 ### Static Analysis / Semantic Versioning
 
-*   [PHPStan Static code analyzer Action (⭐86)](https://github.com/OskarStark/phpstan-ga)
-*   [GraphQL Inspector Action (⭐1.4k)](https://github.com/kamilkisiela/graphql-inspector)
-*   [PowerShell static analysis with PSScriptAnalyzer (⭐58)](https://github.com/devblackops/github-action-psscriptanalyzer)
+*   [PHPStan Static code analyzer Action (⭐96)](https://github.com/OskarStark/phpstan-ga)
+*   [GraphQL Inspector Action (⭐1.6k)](https://github.com/kamilkisiela/graphql-inspector)
+*   [PowerShell static analysis with PSScriptAnalyzer (⭐71)](https://github.com/devblackops/github-action-psscriptanalyzer)
 
 ### Static Analysis / Testing
 
-*   [Run Tests through Puppeteer, the Headless Chrome Node API (⭐89)](https://github.com/ianwalter/puppeteer)
+*   [Run Tests through Puppeteer, the Headless Chrome Node API (⭐93)](https://github.com/ianwalter/puppeteer)
 
 ### GitHub Pages / Code Coverage
 
-*   [Deploy a Zola site to GitHub Pages (⭐147)](https://github.com/shalzz/zola-deploy-action)
-*   [Build Hugo static content site and publish it to gh-pages branch (⭐37)](https://github.com/khanhicetea/gh-actions-hugo-deploy-gh-pages)
-*   [Build a Jekyll site—with Custom Jekyll Plugins & Build Scripts—and deploy it back to the Gh-Pages Branch (⭐112)](https://github.com/BryanSchuetz/jekyll-deploy-gh-pages)
+*   [Deploy a Zola site to GitHub Pages (⭐221)](https://github.com/shalzz/zola-deploy-action)
+*   [Build Hugo static content site and publish it to gh-pages branch (⭐42)](https://github.com/khanhicetea/gh-actions-hugo-deploy-gh-pages)
+*   [Build a Jekyll site—with Custom Jekyll Plugins & Build Scripts—and deploy it back to the Gh-Pages Branch (⭐118)](https://github.com/BryanSchuetz/jekyll-deploy-gh-pages)
 *   [Google Dataset Search Metadata](https://www.github.com/openschemas/extractors/) - And other schema.org extractors to make datasets discoverable from GitHub pages.
 
 ### Notifications and Messages / Code Coverage
 
-*   [Send a Discord notification (⭐271)](https://github.com/Ilshidur/action-discord)
-*   [Post a Slack message as a bot (⭐256)](https://github.com/pullreminders/slack-action)
-*   [Send an SMS from GitHub Actions using Nexmo (⭐12)](https://github.com/nexmo-community/nexmo-sms-action)
-*   [Send a Telegram Message (⭐568)](https://github.com/appleboy/telegram-action)
+*   [Send a Discord notification (⭐394)](https://github.com/Ilshidur/action-discord)
+*   [Post a Slack message as a bot (⭐270)](https://github.com/pullreminders/slack-action)
+*   [Send an SMS from GitHub Actions using Nexmo (⭐14)](https://github.com/nexmo-community/nexmo-sms-action)
+*   [Send a Telegram Message (⭐811)](https://github.com/appleboy/telegram-action)
 
 ### Deployment / Code Coverage
 
-*   [Deploy to Netlify (⭐343)](https://github.com/netlify/actions)
+*   [Deploy to Netlify (⭐374)](https://github.com/netlify/actions)
 *   [Deploy a Probot App using Actions](https://probot.github.io/docs/deployment/#github-actions)
-*   [Deploy a playlist to Spotify (⭐106)](https://github.com/swinton/SpotHub)
-*   [Deploy VS Code extensions with vsce (⭐76)](https://github.com/lannonbr/vsce-action)
-*   [Deploy your DNS configuration using DNS Control (⭐58)](https://github.com/koenrh/dnscontrol-action)
+*   [Deploy a playlist to Spotify (⭐114)](https://github.com/swinton/SpotHub)
+*   [Deploy VS Code extensions with vsce (⭐87)](https://github.com/lannonbr/vsce-action)
+*   [Deploy your DNS configuration using DNS Control (⭐79)](https://github.com/koenrh/dnscontrol-action)
 
 ### External Services / Terraform
 
-*   [Use a Jenkinsfile (⭐189)](https://github.com/jonico/jenkinsfile-runner-github-actions)
-*   [GitHub Action for Firebase (⭐757)](https://github.com/w9jds/firebase-action)
+*   [Use a Jenkinsfile (⭐198)](https://github.com/jonico/jenkinsfile-runner-github-actions)
+*   [GitHub Action for Firebase (⭐919)](https://github.com/w9jds/firebase-action)
 *   [GitHub Action for Contentful Migration CLI (⭐15)](https://github.com/Shy/contentful-action)
 
 ### Frontend Tools / Terraform
 
 *   [Execute Gradle task (⭐29)](https://github.com/MrRamych/gradle-actions)
-*   [JS Build Actions (⭐46)](https://github.com/elstudio/actions-js-build) - Run Grunt or Gulp build tasks and commit file changes.
+*   [JS Build Actions (⭐53)](https://github.com/elstudio/actions-js-build) - Run Grunt or Gulp build tasks and commit file changes.
 *   [GitHub Action for Gatsby CLI (⭐47)](https://github.com/jzweifel/gatsby-cli-github-action)
 
 ## [24. Awesome Scala Native](/content/tindzk/awesome-scala-native/week/README.md)
@@ -771,15 +759,15 @@
 
 ### Chat
 
-*   [Real-time Chat with Firebase (⭐755)](https://github.com/instamobile/messenger-iOS-chat-swift-firestore) - Functional real-time chat app with Firebase Firestore using MessageKit.
+*   [Real-time Chat with Firebase (⭐768)](https://github.com/instamobile/messenger-iOS-chat-swift-firestore) - Functional real-time chat app with Firebase Firestore using MessageKit.
 
 ### Network / Barcode
 
-*   [Connectivity (⭐1.6k)](https://github.com/rwbutler/Connectivity) - 🌐 Makes Internet connectivity detection more robust by detecting Wi-Fi networks without Internet access.
+*   [Connectivity (⭐1.7k)](https://github.com/rwbutler/Connectivity) - 🌐 Makes Internet connectivity detection more robust by detecting Wi-Fi networks without Internet access.
 
 ### UI / Barcode
 
-*   [GradientProgressBar (⭐532)](https://github.com/fxm90/GradientProgressBar) - An animated gradient progress bar.
+*   [GradientProgressBar (⭐535)](https://github.com/fxm90/GradientProgressBar) - An animated gradient progress bar.
 
 ### Alert / Barcode
 
@@ -787,11 +775,11 @@
 
 ### Tab / Barcode
 
-*   [CircleBar (⭐864)](https://github.com/softhausHQ/CircleBar) - A fun, easy-to-use tab bar navigation controller for iOS.
+*   [CircleBar (⭐869)](https://github.com/softhausHQ/CircleBar) - A fun, easy-to-use tab bar navigation controller for iOS.
 
 ### UITableView / Barcode
 
-*   [CollapsibleTableSectionViewController (⭐352)](https://github.com/jeantimex/CollapsibleTableSectionViewController) - A library to support collapsible sections in a table view.
+*   [CollapsibleTableSectionViewController (⭐353)](https://github.com/jeantimex/CollapsibleTableSectionViewController) - A library to support collapsible sections in a table view.
 
 ## [27. Awesome Roadmaps](/content/liuchong/awesome-roadmaps/week/README.md)
 
@@ -823,11 +811,11 @@
 
 ### Metadata
 
-*   [libadm (⭐35)](https://github.com/irt-open-source/libadm) - Audio Definition Model (ITU-R BS.2076) handling C++11 library.
+*   [libadm (⭐39)](https://github.com/irt-open-source/libadm) - Audio Definition Model (ITU-R BS.2076) handling C++11 library.
 
 ### Multimedia content processing
 
-*   [libbw64 (⭐27)](https://github.com/irt-open-source/libbw64) – Header-only Broadcast Wave 64 (ITU-R BS.2088) C++11 library.
+*   [libbw64 (⭐30)](https://github.com/irt-open-source/libbw64) – Header-only Broadcast Wave 64 (ITU-R BS.2088) C++11 library.
 
 ## [30. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
@@ -838,17 +826,17 @@
 
 ### Database Management
 
-*   [RPostgres (⭐320)](https://github.com/r-dbi/RPostgres) - an DBI-compliant interface to the postgres database.
+*   [RPostgres (⭐334)](https://github.com/r-dbi/RPostgres) - an DBI-compliant interface to the postgres database.
 *   [RCassandra](http://cran.r-project.org/web/packages/RCassandra/index.html) - Direct interface (not Java) to the most basic functionality of Apache Cassandra.
 
 ### Machine Learning
 
-*   [anomalize (⭐335)](https://github.com/business-science/anomalize) - Tidy Anomaly Detection using Twitter's AnomalyDetection method.
+*   [anomalize (⭐339)](https://github.com/business-science/anomalize) - Tidy Anomaly Detection using Twitter's AnomalyDetection method.
 *   [L0Learn](https://cran.r-project.org/web/packages/L0Learn/index.html) - Fast algorithms for best subset selection
 
 ### Data Packages
 
-*   [gapminder (⭐279)](http://github.com/jennybc/gapminder) - Excerpt from the Gapminder dataset (data about countries through the past 50 years).
+*   [gapminder (⭐289)](http://github.com/jennybc/gapminder) - Excerpt from the Gapminder dataset (data about countries through the past 50 years).
 
 ## [31. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
@@ -1029,12 +1017,7 @@
 ### Component Libraries
 
 *   [dash-color-picker (⭐2)](https://github.com/vivekvs1/dash-color-picker) - Wrapper around react-color.
-*   [dash-dual-listbox (⭐11)](https://github.com/vivekvs1/dash-dual-listbox) - Wrapper around react-duallist.
-*   [dash-bootstrap-components](https://dash-bootstrap-components.opensource.asidatascience.com/) - Layout engine, default styles and high-level components based on Bootstrap.
-
-### Galleries
-
-*   [Dash Recipes GitHub (⭐951)](https://github.com/plotly/dash-recipes) - Collection of scripts and examples created while answering questions from the greater Dash community.
+*   [dash-dual-listbox (⭐12)](https://github.com/vivekvs1/dash-dual-listbox) - Wrapper around react-duallist.
 
 ## [41. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
@@ -1219,19 +1202,19 @@
 
 ### Peripheral Access Crates / Nordic
 
-*   [`nrf52810-pac`](https://crates.io/crates/nrf52810-pac) - Peripheral access API for the nRF52810 microcontroller (generated using svd2rust) - ![crates.io](https://img.shields.io/crates/v/nrf52810-pac.svg)
-*   [`nrf52832-pac`](https://crates.io/crates/nrf52832-pac) - Peripheral access API for the nRF52832 microcontroller (generated using svd2rust) - ![crates.io](https://img.shields.io/crates/v/nrf52832-pac.svg)
-*   [`nrf52840-pac`](https://crates.io/crates/nrf52840-pac) - Peripheral access API for the nRF52840 microcontroller (generated using svd2rust) - ![crates.io](https://img.shields.io/crates/v/nrf52840-pac.svg)
+*   [`nrf52810-pac`](https://crates.io/crates/nrf52810-pac) - Peripheral access API for the nRF52810 microcontroller (generated using svd2rust) - [![crates.io](https://img.shields.io/crates/v/nrf52810-pac.svg)](https://crates.io/crates/nrf52810-pac)
+*   [`nrf52832-pac`](https://crates.io/crates/nrf52832-pac) - Peripheral access API for the nRF52832 microcontroller (generated using svd2rust) - [![crates.io](https://img.shields.io/crates/v/nrf52832-pac.svg)](https://crates.io/crates/nrf52832-pac)
+*   [`nrf52840-pac`](https://crates.io/crates/nrf52840-pac) - Peripheral access API for the nRF52840 microcontroller (generated using svd2rust) - [![crates.io](https://img.shields.io/crates/v/nrf52840-pac.svg)](https://crates.io/crates/nrf52840-pac)
 
 ### HAL implementation crates / Nordic
 
-*   [`nrf52810-hal`](https://crates.io/crates/nrf52810-hal) - ![crates.io](https://img.shields.io/crates/v/nrf52810-hal.svg)
-*   [`nrf52832-hal`](https://crates.io/crates/nrf52832-hal) - ![crates.io](https://img.shields.io/crates/v/nrf52832-hal.svg)
-*   [`nrf52840-hal`](https://crates.io/crates/nrf52840-hal) - ![crates.io](https://img.shields.io/crates/v/nrf52840-hal.svg)
+*   [`nrf52810-hal`](https://crates.io/crates/nrf52810-hal) - [![crates.io](https://img.shields.io/crates/v/nrf52810-hal.svg)](https://crates.io/crates/nrf52810-hal)
+*   [`nrf52832-hal`](https://crates.io/crates/nrf52832-hal) - [![crates.io](https://img.shields.io/crates/v/nrf52832-hal.svg)](https://crates.io/crates/nrf52832-hal)
+*   [`nrf52840-hal`](https://crates.io/crates/nrf52840-hal) - [![crates.io](https://img.shields.io/crates/v/nrf52840-hal.svg)](https://crates.io/crates/nrf52840-hal)
 
 ### Board support crates / Nordic
 
-*   [`dwm1001`](https://crates.io/crates/dwm1001) - [Decawave DWM1001-DEV](https://www.decawave.com/product/dwm1001-development-board/) - ![crates.io](https://img.shields.io/crates/v/dwm1001.svg)
+*   [`dwm1001`](https://crates.io/crates/dwm1001) - [Decawave DWM1001-DEV](https://www.decawave.com/product/dwm1001-development-board/) - [![crates.io](https://img.shields.io/crates/v/dwm1001.svg)](https://crates.io/crates/dwm1001)
 
 ## [44. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/week/README.md)
 
@@ -1320,8 +1303,8 @@
 
 ### Hardware / Motor Controllers
 
-*   [grblShield (⭐131)](https://github.com/synthetos/grblShield) - All the stepper motor control hardware needed to turn an [Arduino](https://www.arduino.cc) into a G-code-based motion controller using the grbl firmware. ([adafruit](https://www.adafruit.com/product/1750))
-*   [TinyG (⭐887)](https://github.com/synthetos/TinyG) - More featureful and robust 6-axis G-code-based motion control hardware. ([adafruit](https://www.adafruit.com/product/1749))
+*   [grblShield (⭐133)](https://github.com/synthetos/grblShield) - All the stepper motor control hardware needed to turn an [Arduino](https://www.arduino.cc) into a G-code-based motion controller using the grbl firmware. ([adafruit](https://www.adafruit.com/product/1750))
+*   [TinyG (⭐899)](https://github.com/synthetos/TinyG) - More featureful and robust 6-axis G-code-based motion control hardware. ([adafruit](https://www.adafruit.com/product/1749))
 *   [Raspberry Pi CNC Hat](https://wiki.protoneer.co.nz/Raspberry_Pi_CNC) - Raspberry Pi add-on board w/ stepper controllers and a microcontroller running grbl. Interfaces with the Pi's serial pins.
 
 ### Hardware / Accessories and Adapters
@@ -1339,31 +1322,31 @@
 *   [Chiplotle (⭐33)](https://github.com/drepetto/chiplotle) - Python library for generating HPGL and interfacing with serial plotters.
 *   [HPGL Reference Guide](https://www.isoplotec.co.jp/HPGL/eHPGL.htm) - HTML-based HPGL Reference.
 *   [HP 7475A Interfacing and Programming Manual](https://archive.org/details/HP7475AInterfacingandProgrammingManual) - Scanned PDF manual that contains a full HPGL reference.
-*   [djipco/hpgl (⭐37)](https://github.com/djipco/hpgl) - A Node.js library to communicate with HPGL-compatible plotters and printers.
+*   [djipco/hpgl (⭐39)](https://github.com/djipco/hpgl) - A Node.js library to communicate with HPGL-compatible plotters and printers.
 *   [hp2xx](https://www.gnu.org/software/hp2xx) - GNU tool to convert HPGL into other vector and raster formats. Can also be used as a previewing in X11.
-*   [vec (⭐23)](https://github.com/anachrocomputer/vec) - Example C code for generating HPGL, with a turtle graphics interface.
+*   [vec (⭐25)](https://github.com/anachrocomputer/vec) - Example C code for generating HPGL, with a turtle graphics interface.
 *   [d3-hpgl (⭐19)](https://github.com/aubergene/d3-hpgl) - An adapter for the HTML Canvas API so you can output HPGL using the popular [D3](https://d3js.org) library.
 *   [HPGL Viewer (⭐19)](https://github.com/drskullster/HPGLViewer) - An HPGL Viewer using JavaScript and HTML5 canvas.
 *   [HPGL Sender (⭐10)](https://github.com/LgHS/hpgl-sender) - A web interface for previewing HPGL and sending it to your plotter.
 
 ### Software / G-code
 
-*   [grbl (⭐5.5k)](https://github.com/grbl/grbl) - A high-performance G-code interpreting firmware for the Atmega 328 microcontroller and Arduino.
-*   [cncjs (⭐2.2k)](https://github.com/cncjs/cncjs) - A web-based interface controlling CNC machines running grbl, TinyG, or other G-code-based firmware.
-*   [Universal-G-Code-Sender (⭐1.8k)](https://github.com/winder/Universal-G-Code-Sender) - Java-based grbl-compatible cross-platform G-code sender.
+*   [grbl (⭐5.6k)](https://github.com/grbl/grbl) - A high-performance G-code interpreting firmware for the Atmega 328 microcontroller and Arduino.
+*   [cncjs (⭐2.3k)](https://github.com/cncjs/cncjs) - A web-based interface controlling CNC machines running grbl, TinyG, or other G-code-based firmware.
+*   [Universal-G-Code-Sender (⭐1.9k)](https://github.com/winder/Universal-G-Code-Sender) - Java-based grbl-compatible cross-platform G-code sender.
 *   [ChiliPeppr Hardware Fiddle](http://chilipeppr.com) - Modular web-based workspaces to visualize G-code and control hardware.
 
 ### Software / Plotter Control
 
-*   [axi (⭐273)](https://github.com/fogleman/axi) - Unofficial Python library for the AxiDraw v3.
+*   [axi (⭐276)](https://github.com/fogleman/axi) - Unofficial Python library for the AxiDraw v3.
 *   [xy (⭐70)](https://github.com/fogleman/xy) - Utilities for the Makeblock XY Plotter Robot Kit.
-*   [LaserGRBL (⭐1.2k)](https://github.com/arkypita/LaserGRBL) - Laser-optimized Windows GUI for grbl controllers. Could be repurposed for DIY pen plotters that use a solenoid for pen up/down movements.
-*   [PenPlotter (⭐119)](https://github.com/RickMcConney/PenPlotter) - Polargraph controller that uses repetier firmware.
-*   [Makelangelo-firmware (⭐157)](https://github.com/MarginallyClever/Makelangelo-firmware) - Firmware for the Makelangelo polargraph robot.
-*   [RoboPaint (⭐125)](https://github.com/evil-mad/robopaint) - Software for the WaterColorBot.
+*   [LaserGRBL (⭐1.3k)](https://github.com/arkypita/LaserGRBL) - Laser-optimized Windows GUI for grbl controllers. Could be repurposed for DIY pen plotters that use a solenoid for pen up/down movements.
+*   [PenPlotter (⭐121)](https://github.com/RickMcConney/PenPlotter) - Polargraph controller that uses repetier firmware.
+*   [Makelangelo-firmware (⭐158)](https://github.com/MarginallyClever/Makelangelo-firmware) - Firmware for the Makelangelo polargraph robot.
+*   [RoboPaint (⭐127)](https://github.com/evil-mad/robopaint) - Software for the WaterColorBot.
 *   [AxiTurtle (⭐15)](https://github.com/ralphcrutzen/AxiTurtle) - Turtle graphics for AxiDraw in Processing.
-*   [GRBL-Plotter (⭐647)](https://github.com/svenhb/GRBL-Plotter) - Plotter-optimized Windows GUI for grbl controller with SVG and DXF import, and flexible pen up/down control.
-*   [saxi (⭐461)](https://github.com/nornagon/saxi) - Driver and library for the AxiDraw. Uses constant-acceleration motion planning and automatically resizes to paper.
+*   [GRBL-Plotter (⭐698)](https://github.com/svenhb/GRBL-Plotter) - Plotter-optimized Windows GUI for grbl controller with SVG and DXF import, and flexible pen up/down control.
+*   [saxi (⭐474)](https://github.com/nornagon/saxi) - Driver and library for the AxiDraw. Uses constant-acceleration motion planning and automatically resizes to paper.
 
 ### Software / Vector Creation
 
@@ -1371,36 +1354,36 @@
 *   [p5.js](https://p5js.org) - "JavaScript library that makes coding accessible for artists, designers, educators, and beginners".
 *   [Paper.js](http://paperjs.org) - "The Swiss Army Knife of Vector Graphics Scripting".
 *   [ln (⭐3.3k)](https://github.com/fogleman/ln) - Vector-based 3D renderer written in Go.
-*   [autotrace (⭐502)](https://github.com/autotrace/autotrace) - Converts bitmap images to vector graphics.
-*   [stipplegen (⭐421)](https://github.com/evil-mad/stipplegen) - Creates interesting stippled drawings from bitmap images. ([blog post](https://www.evilmadscientist.com/2012/stipplegen2))
-*   [SquiggleDraw (⭐316)](https://github.com/gwygonik/SquiggleDraw/commits/master) - "SquiggleDraw will create a SVG file from an image, using the brightness to change the amplitude of sine waves".
+*   [autotrace (⭐539)](https://github.com/autotrace/autotrace) - Converts bitmap images to vector graphics.
+*   [stipplegen (⭐430)](https://github.com/evil-mad/stipplegen) - Creates interesting stippled drawings from bitmap images. ([blog post](https://www.evilmadscientist.com/2012/stipplegen2))
+*   [SquiggleDraw (⭐319)](https://github.com/gwygonik/SquiggleDraw/commits/master) - "SquiggleDraw will create a SVG file from an image, using the brightness to change the amplitude of sine waves".
 *   [svgurt](https://svgurt.com) - Web-based PNG to SVG creative noodler.
 *   [maptrace (⭐123)](https://github.com/mzucker/maptrace) - Produce watertight polygonal vector maps by tracing raster images.
-*   [Drawbot\_image\_to\_gcode\_v2 (⭐162)](https://github.com/Scott-Cooper/Drawbot_image_to_gcode_v2) - Creates G-code for use on drawbots.
-*   [blackstripes (⭐94)](https://github.com/fullscreennl/blackstripes-python-extensions) - Turns a PNG image into a SVG line drawing.
+*   [Drawbot\_image\_to\_gcode\_v2 (⭐165)](https://github.com/Scott-Cooper/Drawbot_image_to_gcode_v2) - Creates G-code for use on drawbots.
+*   [blackstripes (⭐95)](https://github.com/fullscreennl/blackstripes-python-extensions) - Turns a PNG image into a SVG line drawing.
 *   [Ribbon (⭐243)](https://github.com/fogleman/ribbon) - Ribbon diagrams of proteins in written in Go.
-*   [penplot (⭐267)](https://github.com/mattdesl/penplot) - A development environment for plotter art in JavaScript.
-*   [penkit (⭐137)](https://github.com/paulgb/penkit) - A Python library for creating line-based SVG graphics.
+*   [penplot (⭐269)](https://github.com/mattdesl/penplot) - A development environment for plotter art in JavaScript.
+*   [penkit (⭐143)](https://github.com/paulgb/penkit) - A Python library for creating line-based SVG graphics.
 *   [generativeExamples (⭐63)](https://github.com/digitalcoleman/generativeExamples) - Example Processing code that generates plottable PDFs.
 *   [Let's make map](https://svg-exporter.netlify.com) - Web-based tool to export an SVG map from Mapzen tiles.
 *   [SuperformulaSVG for web](https://jasonwebb.github.io/SuperformulaSVG-for-web) - A generative line art web app.
-*   [scribbleplot (⭐47)](https://github.com/bleeptrack/scribbleplot) - Scribbly image transformations in Processing.
+*   [scribbleplot (⭐48)](https://github.com/bleeptrack/scribbleplot) - Scribbly image transformations in Processing.
 *   [Maker.js](https://maker.js.org) - Library for creating 2D vector drawings for CNC and laser cutter machines.
 *   [Turtletoy](https://turtletoy.net) - Browser-based JavaScript turtle graphics API with SVG export.
 
 ### Software / Vector Utilities
 
-*   [svgsort (⭐249)](https://github.com/inconvergent/svgsort) - Path planning for plotting SVG files, reduces time spent moving with the pen up.
+*   [svgsort (⭐253)](https://github.com/inconvergent/svgsort) - Path planning for plotting SVG files, reduces time spent moving with the pen up.
 *   [svgo (⭐21k)](https://github.com/svg/svgo) - Node.js-based tool for optimizing SVG files.
 *   [Polargraph Optimizer (⭐57)](https://github.com/ezheidtmann/polargraph-optimizer) - Optimize drawing plan for a polargraph.
-*   [penkit-optimize (⭐137)](https://github.com/paulgb/penkit/tree/master/optimizer) - An SVG optimizer that uses a vehicle routing solver to minimize plot time.
+*   [penkit-optimize (⭐143)](https://github.com/paulgb/penkit/tree/master/optimizer) - An SVG optimizer that uses a vehicle routing solver to minimize plot time.
 *   [svg-crowbar (⭐839)](https://github.com/NYTimes/svg-crowbar) - Chrome-only bookmarklet for extracting SVG from an HTML document.
 
 ### Software / Fonts
 
 *   [Summary of single line fonts](http://imajeenyus.com/computer/20150110_single_line_fonts/index.shtml) - Good information and links to other resources and fonts.
 *   [Hershey Vector Font](http://paulbourke.net/dataformats/hershey) - `.fnt` format of vector fonts from the 60s. Includes a good overview of the original data format of the fonts.
-*   [hershey-fonts (⭐54)](https://github.com/kamalmostafa/hershey-fonts) - C library and original font data for the Hershey fonts.
+*   [hershey-fonts (⭐59)](https://github.com/kamalmostafa/hershey-fonts) - C library and original font data for the Hershey fonts.
 
 ### Inspiration, Instruction, and Research / Fonts
 
@@ -1420,6 +1403,7 @@
 ### Miscellaneous
 
 *   [eql, eql5, eql5-android](https://gitlab.com/eql) - Embedded Qt4 and Qt5 Lisp, embedded in ECL, embeddable in Qt. Port of EQL5 to the Android platform. [MIT](https://opensource.org/licenses/MIT).
+    *   [EQL5 on the Android store](https://play.google.com/store/apps/details?id=org.eql5.android.repl\&pcampaignid=web_share)
 
 ### Community
 
@@ -1427,7 +1411,7 @@
 
 ### Deployment / Isomorphic web frameworks
 
-*   [cl-aws-runtime-test (⭐37)](https://github.com/y2q-actionman/cl-aws-custom-runtime-test) - An example of using Common Lisp (SBCL) as a custom runtime on AWS lambda. WTFPL.
+*   [cl-aws-runtime-test (⭐39)](https://github.com/y2q-actionman/cl-aws-custom-runtime-test) - An example of using Common Lisp (SBCL) as a custom runtime on AWS lambda. WTFPL.
 
 ## [49. Awesome Minecraft](/content/bs-community/awesome-minecraft/week/README.md)
 
@@ -1455,11 +1439,11 @@
 
 ### Plasma desktop / KCM Modules and Systems
 
-*   [kded\_rotation (⭐65)](https://github.com/dos1/kded_rotation) - A small, hacky KDED module for handling automatic screen rotation on tablets and hybrid laptops.
+*   [kded\_rotation (⭐64)](https://github.com/dos1/kded_rotation) - A small, hacky KDED module for handling automatic screen rotation on tablets and hybrid laptops.
 
 ### Plasma desktop / Qt and GTK+ Applications Appearance
 
-*   [breeze-gtk (⭐72)](https://github.com/KDE/breeze-gtk) - A GTK Theme Built to Match KDE's Breeze 📌.
+*   [breeze-gtk (⭐76)](https://github.com/KDE/breeze-gtk) - A GTK Theme Built to Match KDE's Breeze 📌.
 
 ### Documentation and Resources / Display Manager
 
@@ -1534,43 +1518,43 @@
 
 ### Platforms
 
-*   [Robot Operating System 2.0 (⭐1.6k)](https://github.com/fkromer/awesome-ros2#readme) - Set of software libraries and tools that help you build robot apps.
+*   [Robot Operating System 2.0 (⭐1.7k)](https://github.com/fkromer/awesome-ros2#readme) - Set of software libraries and tools that help you build robot apps.
 
 ### Programming Languages
 
-*   [Q# (⭐156)](https://github.com/ebraminio/awesome-qsharp#readme) - Domain-specific programming language used for expressing quantum algorithms.
+*   [Q# (⭐163)](https://github.com/ebraminio/awesome-qsharp#readme) - Domain-specific programming language used for expressing quantum algorithms.
 
 ### Front-End Development
 
-*   [CSS (⭐5k)](https://github.com/awesome-css-group/awesome-css#readme) - Style sheet language that specifies how HTML elements are displayed on screen.
-    *   [Critical-Path Tools (⭐1.1k)](https://github.com/addyosmani/critical-path-css-tools#readme)
+*   [CSS (⭐5.1k)](https://github.com/awesome-css-group/awesome-css#readme) - Style sheet language that specifies how HTML elements are displayed on screen.
+    *   [Critical-Path Tools (⭐1.2k)](https://github.com/addyosmani/critical-path-css-tools#readme)
     *   [Scalability (⭐1.5k)](https://github.com/davidtheclark/scalable-css-reading-list#readme)
     *   [Must-Watch Talks (⭐4.7k)](https://github.com/AllThingsSmitty/must-watch-css#readme)
     *   [Protips (⭐28k)](https://github.com/AllThingsSmitty/css-protips#readme)
-    *   [Frameworks (⭐7.7k)](https://github.com/troxler/awesome-css-frameworks#readme)
+    *   [Frameworks (⭐8.1k)](https://github.com/troxler/awesome-css-frameworks#readme)
 
 ### Gaming
 
-*   [PICO-8 (⭐2.6k)](https://github.com/pico-8/awesome-PICO-8#readme) - Fantasy console.
-*   [Minecraft (⭐425)](https://github.com/bs-community/awesome-minecraft#readme) - Sandbox video game.
+*   [PICO-8 (⭐2.7k)](https://github.com/pico-8/awesome-PICO-8#readme) - Fantasy console.
+*   [Minecraft (⭐465)](https://github.com/bs-community/awesome-minecraft#readme) - Sandbox video game.
 
 ### Databases
 
-*   [NoSQL Guides (⭐250)](https://github.com/erictleung/awesome-nosql-guides#readme) - Help on using non-relational, distributed, open-source, and horizontally scalable databases.
+*   [NoSQL Guides (⭐262)](https://github.com/erictleung/awesome-nosql-guides#readme) - Help on using non-relational, distributed, open-source, and horizontally scalable databases.
 
 ### Learn
 
-*   [CSS Learning (⭐3.4k)](https://github.com/micromata/awesome-css-learning#readme) - Mainly about CSS – the language and the modules.
+*   [CSS Learning (⭐3.5k)](https://github.com/micromata/awesome-css-learning#readme) - Mainly about CSS – the language and the modules.
 
 ### Decentralized Systems
 
-*   [EOSIO (⭐73)](https://github.com/DanailMinchev/awesome-eosio#readme) - A decentralized operating system supporting industrial-scale apps.
+*   [EOSIO (⭐76)](https://github.com/DanailMinchev/awesome-eosio#readme) - A decentralized operating system supporting industrial-scale apps.
 
 ### Miscellaneous
 
-*   [Board Games (⭐292)](https://github.com/edm00se/awesome-board-games#readme) - Table-top gaming fun for all.
+*   [Board Games (⭐313)](https://github.com/edm00se/awesome-board-games#readme) - Table-top gaming fun for all.
 *   [Scientific Computing (⭐1.3k)](https://github.com/nschloe/awesome-scientific-computing#readme) - Solving complex scientific problems using computers.
-*   [Amazon Sellers (⭐304)](https://github.com/ScaleLeap/awesome-amazon-seller#readme)
+*   [Amazon Sellers (⭐320)](https://github.com/ScaleLeap/awesome-amazon-seller#readme)
 
 ## [56. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
@@ -1641,7 +1625,7 @@
 
 ### Configuration
 
-*   [Sail (⭐506)](https://github.com/vinistock/sail) - A lightweight Rails engine that brings an admin panel for managing configuration settings on a live Rails app.
+*   [Sail (⭐508)](https://github.com/vinistock/sail) - A lightweight Rails engine that brings an admin panel for managing configuration settings on a live Rails app.
 
 ### Documentation
 
@@ -1661,11 +1645,11 @@
 
 ### Networking
 
-*   [Dnsruby (⭐196)](https://github.com/alexdalitz/dnsruby) - A pure Ruby DNS client library which implements a stub resolver. It aims to comply with all DNS RFCs.
+*   [Dnsruby (⭐198)](https://github.com/alexdalitz/dnsruby) - A pure Ruby DNS client library which implements a stub resolver. It aims to comply with all DNS RFCs.
 
 ### PDF
 
-*   [InvoicePrinter (⭐875)](https://github.com/strzibny/invoice_printer) - Super simple PDF invoicing in Ruby (built on top of Prawn).
+*   [InvoicePrinter (⭐964)](https://github.com/strzibny/invoice_printer) - Super simple PDF invoicing in Ruby (built on top of Prawn).
 
 ### Queues and Messaging
 
@@ -1678,11 +1662,11 @@
 
 ### Scheduling
 
-*   [Sidekiq-Cron (⭐1.8k)](https://github.com/ondrejbartas/sidekiq-cron) - A scheduling add-on for Sidekiq.
+*   [Sidekiq-Cron (⭐1.9k)](https://github.com/ondrejbartas/sidekiq-cron) - A scheduling add-on for Sidekiq.
 
 ### Social Networking
 
-*   [Mastodon (⭐6)](https://github.com/Gargron/mastodon) - A GNU Social-compatible microblogging server.
+*   [Mastodon (⭐8)](https://github.com/Gargron/mastodon) - A GNU Social-compatible microblogging server.
 
 ### Third-party APIs
 
@@ -1706,7 +1690,7 @@
 
 ### Boilerplates / Themes
 
-*   [Create React App + Ant Design (⭐584)](https://github.com/ant-design/create-react-app-antd) - Use antd in create-react-app without ejecting
+*   [Create React App + Ant Design (⭐582)](https://github.com/ant-design/create-react-app-antd) - Use antd in create-react-app without ejecting
 
 ## [66. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 

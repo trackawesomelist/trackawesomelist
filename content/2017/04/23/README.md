@@ -108,7 +108,7 @@
 
 ### Other Useful Repositories
 
-- Repository: [Payloads (⭐3.6k)](https://github.com/foospidy/payloads)
+- Repository: [Payloads (⭐3.7k)](https://github.com/foospidy/payloads)
 
   Description: Collection of web attack payloads
 

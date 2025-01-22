@@ -16,17 +16,17 @@
 
 ### Cryptography
 
-*   [s2n (⭐4.5k)](https://github.com/awslabs/s2n) - An implementation of the TLS/SSL protocols. \[Apache]
+*   [s2n (⭐4.6k)](https://github.com/awslabs/s2n) - An implementation of the TLS/SSL protocols. \[Apache]
 
 ### Database
 
-*   [MongoDB C Driver (⭐806)](https://github.com/mongodb/mongo-c-driver) - MongoDB client library for C. \[Apache2]
-*   [MongoDB C++ Driver (⭐1k)](https://github.com/mongodb/mongo-cxx-driver) - C++ driver for MongoDB. \[Apache2]
-*   [MongoDB Libbson (⭐343)](https://github.com/mongodb/libbson) - A BSON utility library. \[Apache2]
+*   [MongoDB C Driver (⭐823)](https://github.com/mongodb/mongo-c-driver) - MongoDB client library for C. \[Apache2]
+*   [MongoDB C++ Driver (⭐1.1k)](https://github.com/mongodb/mongo-cxx-driver) - C++ driver for MongoDB. \[Apache2]
+*   [MongoDB Libbson (⭐347)](https://github.com/mongodb/libbson) - A BSON utility library. \[Apache2]
 
 ### Debug
 
-*   [Celero (⭐815)](https://github.com/DigitalInBlue/Celero) - C++ Benchmarking Framework. \[Apache2]
+*   [Celero (⭐831)](https://github.com/DigitalInBlue/Celero) - C++ Benchmarking Framework. \[Apache2]
 
 ### Image Processing
 
@@ -34,7 +34,7 @@
 
 ### Logging
 
-*   [log4cplus (⭐1.6k)](https://github.com/log4cplus/log4cplus) - A simple to use C++ logging API providing thread-safe, flexible, and arbitrarily granular control over log management and configuration. \[BSD & Apache2]
+*   [log4cplus (⭐1.7k)](https://github.com/log4cplus/log4cplus) - A simple to use C++ logging API providing thread-safe, flexible, and arbitrarily granular control over log management and configuration. \[BSD & Apache2]
 
 ## [3. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
 
@@ -46,7 +46,7 @@
 
 ### Web Frameworks / Bare metal / kernel development
 
-*   [libasync (⭐141)](https://github.com/etcimon/libasync) -  Cross-platform event loop library of asynchronous objects
+*   [libasync (⭐144)](https://github.com/etcimon/libasync) -  Cross-platform event loop library of asynchronous objects
 *   [libhttp2 (⭐35)](https://github.com/etcimon/libhttp2) -  HTTP/2 library in D, translated from nghttp2
 
 ## [5. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/README.md)

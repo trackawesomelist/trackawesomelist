@@ -51,7 +51,7 @@
 
 ### Tables / Paid Books
 
-*   [Bootgrid (⭐978)](https://github.com/rstaib/jquery-bootgrid) - A grid control especially designed for bootstrap.
+*   [Bootgrid (⭐972)](https://github.com/rstaib/jquery-bootgrid) - A grid control especially designed for bootstrap.
 
 ### Looking for more lists like this? / Paid Books
 
@@ -80,8 +80,8 @@
 
 ### Natural Language Processing
 
-*   [text2vec (⭐836)](https://github.com/dselivanov/text2vec) - Fast Text Mining Framework for Vectorization and Word Embeddings.
-*   [quanteda (⭐815)](https://github.com/kbenoit/quanteda) - R functions for Quantitative Analysis of Textual Data.
+*   [text2vec (⭐852)](https://github.com/dselivanov/text2vec) - Fast Text Mining Framework for Vectorization and Word Embeddings.
+*   [quanteda (⭐844)](https://github.com/kbenoit/quanteda) - R functions for Quantitative Analysis of Textual Data.
 
 ## [10. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
 
@@ -261,11 +261,11 @@
 
 ### Registry
 
-*   [nrm (⭐2.7k)](https://github.com/Pana/nrm) - Registry manager.
+*   [nrm (⭐2.8k)](https://github.com/Pana/nrm) - Registry manager.
 
 ### Other
 
-*   [ntl (⭐896)](https://github.com/ruyadorno/ntl) - Interactive CLI menu to list & run npm tasks.
+*   [ntl (⭐932)](https://github.com/ruyadorno/ntl) - Interactive CLI menu to list & run npm tasks.
 
 ## [15. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
 
@@ -324,7 +324,7 @@
 
 ### Loading Status / Runner
 
-*   [css-loaders (⭐7k)](https://github.com/lukehaas/css-loaders) - A collection of loading spinners animated with CSS
+*   [css-loaders (⭐7.1k)](https://github.com/lukehaas/css-loaders) - A collection of loading spinners animated with CSS
 
 ### Sliders / Runner
 
@@ -348,7 +348,7 @@
 *   [html5-boilerplate (⭐56k)](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
 *   [mobile-boilerplate (⭐3.9k)](https://github.com/h5bp/mobile-boilerplate) - A front-end template that helps you build fast, modern mobile web apps.
 *   [webplate (⭐558)](https://github.com/chrishumboldt/webplate) - An awesome front-end framework that lets you stay focused on building your site or app while remaining really easy to use.
-*   [Cerberus (⭐4.9k)](https://github.com/TedGoas/Cerberus) - A few simple, but solid patterns for responsive HTML emails. Even in Outlook.
+*   [Cerberus (⭐5k)](https://github.com/TedGoas/Cerberus) - A few simple, but solid patterns for responsive HTML emails. Even in Outlook.
 *   [Fluid-Squares (⭐32)](https://github.com/crozynski/Fluid-Squares) - A fluid grid of square units.
 
 ### Video/Audio / Other
@@ -358,21 +358,21 @@
 ### Typography / Other
 
 *   [FlowType.JS (⭐4.6k)](https://github.com/simplefocus/FlowType.JS) - Web typography at its finest: font-size and line-height based on element width.
-*   [BigText (⭐886)](https://github.com/zachleat/BigText) - jQuery plugin, calculates the font-size and word-spacing needed to match a line of text to a specific width.
+*   [BigText (⭐888)](https://github.com/zachleat/BigText) - jQuery plugin, calculates the font-size and word-spacing needed to match a line of text to a specific width.
 *   [novacancy.js (⭐187)](https://github.com/chuckyglitch/novacancy.js) - Text Neon Golden effect jQuery plug-in.
 *   [jquery-responsive-text (⭐124)](https://github.com/ghepting/jquery-responsive-text) - Make your text sizing responsive!
 
 ### Animations / Other
 
 *   [the-cube (⭐10)](https://github.com/pstadler/the-cube) - The Cube is an experiment with CSS3 transitions.
-*   [animate.css (⭐80k)](https://github.com/daneden/animate.css) - A cross-browser library of CSS animations. As easy to use as an easy thing.
+*   [animate.css (⭐81k)](https://github.com/daneden/animate.css) - A cross-browser library of CSS animations. As easy to use as an easy thing.
 
 ### Misc / Other
 
 *   [spoiler-alert (⭐473)](https://github.com/joshbuddy/spoiler-alert) - SPOILER ALERT! A happy little jquery plugin to hide spoilers on your site.
 *   [jquery.vibrate.js (⭐144)](https://github.com/illyism/jquery.vibrate.js) - Vibration API Wrappers
 *   [jquery-match-height (⭐3.1k)](https://github.com/liabru/jquery-match-height) - a responsive equal heights plugin for jQuery.
-*   [sotayamashita/awesome-css (⭐4.9k)](https://github.com/sotayamashita/awesome-css)
+*   [sotayamashita/awesome-css (⭐5k)](https://github.com/sotayamashita/awesome-css)
 
 ## [21. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
 
@@ -425,11 +425,11 @@
 ### Development tools / FFI
 
 *   Objective-C
-    *   [SSheldon/rust-objc (⭐385)](https://github.com/SSheldon/rust-objc) - Objective-C Runtime bindings and wrapper for Rust
+    *   [SSheldon/rust-objc (⭐394)](https://github.com/SSheldon/rust-objc) - Objective-C Runtime bindings and wrapper for Rust
 
 ### Libraries / Virtualization
 
-*   [saurvs/hypervisor-rs (⭐62)](https://github.com/saurvs/hypervisor-rs) - Hardware-accelerated virtualization on OS X
+*   [saurvs/hypervisor-rs (⭐64)](https://github.com/saurvs/hypervisor-rs) - Hardware-accelerated virtualization on OS X
 
 ## [23. Tips](/content/git-tips/tips/week/README.md)
 
@@ -460,13 +460,13 @@ git instaweb [--local] [--httpd=<httpd>] [--port=<port>] [--browser=<browser>]
 
 ### Tools
 
-*   [ShareX (⭐29k)](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to over 80 supported destinations you can choose from.
+*   [ShareX (⭐31k)](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to over 80 supported destinations you can choose from.
 
 ## [26. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Bittorrent
 
-*   [bento (⭐93)](https://github.com/folz/bento) - An incredibly fast, correct, pure-Elixir Bencoding library.
+*   [bento (⭐95)](https://github.com/folz/bento) - An incredibly fast, correct, pure-Elixir Bencoding library.
 
 ### Email
 
@@ -478,11 +478,11 @@ git instaweb [--local] [--httpd=<httpd>] [--port=<port>] [--browser=<browser>]
 
 ### Queue
 
-*   [verk (⭐721)](https://github.com/edgurgel/verk) - Verk is a job processing system backed by Redis. It uses the same job definition of Sidekiq/Resque.
+*   [verk (⭐724)](https://github.com/edgurgel/verk) - Verk is a job processing system backed by Redis. It uses the same job definition of Sidekiq/Resque.
 
 ### Editors
 
-*   [Alchemist.vim (⭐652)](https://github.com/slashmili/alchemist.vim) - Elixir Tooling Integration Into Vim.
+*   [Alchemist.vim (⭐650)](https://github.com/slashmili/alchemist.vim) - Elixir Tooling Integration Into Vim.
 
 ### Websites
 
@@ -497,7 +497,7 @@ git instaweb [--local] [--httpd=<httpd>] [--port=<port>] [--browser=<browser>]
 
 ## [28. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
-### Videos
+### Videos / Commerical Tools
 
 *   [A tutorial on Deep Learning](http://videolectures.net/jul09_hinton_deeplearn)
 *   [Basics of Computational Reinforcement Learning](http://videolectures.net/rldm2015_littman_computational_reinforcement)

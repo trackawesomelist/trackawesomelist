@@ -10,7 +10,7 @@
 
 ### Boilerplates / Themes
 
-*   [CRA-TS-Antd (⭐112)](https://github.com/comerc/cra-ts-antd) - Create-React-App + TypeScript + Ant-Design (without Eject).
+*   [CRA-TS-Antd (⭐114)](https://github.com/comerc/cra-ts-antd) - Create-React-App + TypeScript + Ant-Design (without Eject).
 
 ## [2. Awesome Uncopyright](/content/johnjago/awesome-uncopyright/week/README.md)
 
@@ -78,7 +78,7 @@
 
 ### Testing
 
-*   [microtest (⭐31)](https://github.com/Ragmaanir/microtest) - Small opinionated testing library focusing on power asserts
+*   [microtest (⭐30)](https://github.com/Ragmaanir/microtest) - Small opinionated testing library focusing on power asserts
 
 ## [5. Awesome Deep Learning Resources](/content/guillaume-chevalier/Awesome-Deep-Learning-Resources/week/README.md)
 
@@ -151,15 +151,15 @@ Webpage: <http://www.26grados.com/>
 
 ## [11. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
-### Tools and frameworks
+### Tools and frameworks (a-z↓)
 
 *   [Nightmare (⭐20k)](https://github.com/segmentio/nightmare) - High-level browser automation library based on Electron.
 
-### Blog posts
+### Blog posts  (a-z↓)
 
 *   [Chromeless, Chrominator, Chromy, Navalia, Lambdium, GhostJS, AutoGCD](https://medium.com/@kensoh/chromeless-chrominator-chromy-navalia-lambdium-ghostjs-autogcd-ef34bcd26907) - Headless Chrome is shaking up traditional approaches to test automation.
 
-### Deprecated
+### Deprecated  (a-z↓)
 
 *   [Chromeless (⭐13k)](https://github.com/graphcool/chromeless) - Chrome automation made simple. Runs locally or headless on AWS Lambda. (archived 2018)
 
@@ -276,12 +276,12 @@ Webpage: <http://www.26grados.com/>
 
 ### Awesome Repositories
 
-- Repository: [Reversing (⭐4k)](https://github.com/fdivrp/awesome-reversing)
+- Repository: [Reversing (⭐4.2k)](https://github.com/fdivrp/awesome-reversing)
 
   Description: List of awesome reverse engineering resources
 
 
-- Repository: [Vehicle Security (⭐3k)](https://github.com/jaredthecoder/awesome-vehicle-security)
+- Repository: [Vehicle Security (⭐3.3k)](https://github.com/jaredthecoder/awesome-vehicle-security)
 
   Description: List of resources for learning about vehicle security and car hacking
 
@@ -289,17 +289,17 @@ Webpage: <http://www.26grados.com/>
 
 ### Other Useful Repositories
 
-- Repository: [Free Programming Books (⭐331k)](https://github.com/EbookFoundation/free-programming-books)
+- Repository: [Free Programming Books (⭐348k)](https://github.com/EbookFoundation/free-programming-books)
 
   Description: Free programming books for developers
 
 
-- Repository: [Lockpicking (⭐1.4k)](https://github.com/meitar/awesome-lockpicking)
+- Repository: [Lockpicking (⭐1.5k)](https://github.com/meitar/awesome-lockpicking)
 
   Description: Resources relating to the security and compromise of locks, safes, and keys.
 
 
-- Repository: [ThreatHunter-Playbook (⭐4k)](https://github.com/Cyb3rWard0g/ThreatHunter-Playbook)
+- Repository: [ThreatHunter-Playbook (⭐4.1k)](https://github.com/Cyb3rWard0g/ThreatHunter-Playbook)
 
   Description: A Threat hunter's playbook to aid the development of techniques and hypothesis for hunting campaigns
 
@@ -324,7 +324,7 @@ Webpage: <http://www.26grados.com/>
 
 ### Python / General-Purpose Machine Learning
 
-*   [PyTorch (⭐81k)](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
+*   [PyTorch (⭐85k)](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 
 ## [26. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
 
@@ -374,11 +374,11 @@ git push -u origin <branch_name>
 
 ### Device
 
-*   [UIDeviceComplete (⭐415)](https://github.com/Nirma/UIDeviceComplete) - UIDevice extensions that fill in the missing pieces.
+*   [UIDeviceComplete (⭐418)](https://github.com/Nirma/UIDeviceComplete) - UIDevice extensions that fill in the missing pieces.
 
 ### Tab / Barcode
 
-*   [HHTabBarView (⭐153)](https://github.com/hemangshah/HHTabBarView) - A lightweight customized tab bar view.
+*   [HHTabBarView (⭐154)](https://github.com/hemangshah/HHTabBarView) - A lightweight customized tab bar view.
 
 ## [32. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
@@ -428,8 +428,8 @@ git push -u origin <branch_name>
 
 ### Web / Playground
 
-*   :octocat: [excaliburjs/Excalibur (⭐1.7k)](https://github.com/excaliburjs/Excalibur) - Free open source JavaScript game engine
-*   :octocat: [Bobril (⭐363)](https://github.com/Bobris/Bobril) - Component oriented framework inspired by Mithril and ReactJs. (see also: <http://bobril.com/>)
+*   :octocat: [excaliburjs/Excalibur (⭐1.9k)](https://github.com/excaliburjs/Excalibur) - Free open source JavaScript game engine
+*   :octocat: [Bobril (⭐367)](https://github.com/Bobris/Bobril) - Component oriented framework inspired by Mithril and ReactJs. (see also: <http://bobril.com/>)
 
 ### :dollar: Paid Courses / Chrome Extensions
 
@@ -455,9 +455,9 @@ git push -u origin <branch_name>
 
 ## [37. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
-### Other Tools / Telegram
+### Other Tools / Steam
 
-*   [Datasploit (⭐3k)](https://github.com/DataSploit/datasploit) - Tool to perform various OSINT techniques on usernames, emails addresses, and domains.
+*   [Datasploit (⭐3.1k)](https://github.com/DataSploit/datasploit) - Tool to perform various OSINT techniques on usernames, emails addresses, and domains.
 
 ## [38. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
@@ -476,7 +476,7 @@ git push -u origin <branch_name>
 
 ### UI Automation
 
-*   [Atata (⭐481)](https://github.com/atata-framework/atata) - Automated web testing full featured framework based on Selenium WebDriver.
+*   [Atata (⭐494)](https://github.com/atata-framework/atata) - Automated web testing full featured framework based on Selenium WebDriver.
 
 ## [41. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 

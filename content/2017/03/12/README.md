@@ -40,7 +40,7 @@
 
 ### Development Projects / Miscellaneous
 
-*   [pokemongo-game-master (⭐39)](https://github.com/BrunnerLivio/pokemongo-game-master) - Collection of Pokémon GO Game Master versions.
+*   [pokemongo-game-master (⭐38)](https://github.com/BrunnerLivio/pokemongo-game-master) - Collection of Pokémon GO Game Master versions.
 
 ## [6. Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md)
 

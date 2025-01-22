@@ -14,52 +14,52 @@
 
 ### Application Frameworks
 
-*   [HopFramework (⭐49)](https://github.com/DiegoTondim/hop-framework) - HopFramework is a framework to create projects easily applying Domain Driven Design and a lot of patterns to delivery a better solution.
+*   [HopFramework (⭐48)](https://github.com/DiegoTondim/hop-framework) - HopFramework is a framework to create projects easily applying Domain Driven Design and a lot of patterns to delivery a better solution.
 
 ### Blockchain
 
-*   [Nethermind (⭐1.2k)](https://github.com/NethermindEth/nethermind) - full Ethereum client in .NET Core
+*   [Nethermind (⭐1.3k)](https://github.com/NethermindEth/nethermind) - full Ethereum client in .NET Core
 
 ### GUI
 
-*   [HandyControl (⭐5.9k)](https://github.com/HandyOrg/HandyControl) - Contains some simple and commonly used WPF controls
+*   [HandyControl (⭐6.3k)](https://github.com/HandyOrg/HandyControl) - Contains some simple and commonly used WPF controls
 
 ### HTML and CSS
 
-*   [LtGt (⭐119)](https://github.com/Tyrrrz/LtGt) - lightweight HTML processor, can be used to parse and navigate DOM, handles CSS selectors, can convert to Linq2Xml, easily extensible, and more.
+*   [LtGt (⭐121)](https://github.com/Tyrrrz/LtGt) - lightweight HTML processor, can be used to parse and navigate DOM, handles CSS selectors, can convert to Linq2Xml, easily extensible, and more.
 
 ### Image Processing
 
-*   [Colourful (⭐273)](https://github.com/tompazourek/Colourful) - Open source .NET library for working with color spaces.
+*   [Colourful (⭐279)](https://github.com/tompazourek/Colourful) - Open source .NET library for working with color spaces.
 
 ### Install tools
 
-*   [Onova (⭐501)](https://github.com/Tyrrrz/Onova) - An unopinionated auto-update framework for desktop applications.
+*   [Onova (⭐526)](https://github.com/Tyrrrz/Onova) - An unopinionated auto-update framework for desktop applications.
 
 ### Machine Learning and Data Science
 
-*   [Catalyst (⭐705)](https://github.com/curiosity-ai/catalyst) Cross-platform Natural Language Processing (NLP) library inspired by spaCy, with pre-trained models, out-of-the box support for training word and document embeddings, and flexible entity recognition models. Part of the [SciSharp Stack](https://scisharp.github.io/SciSharp/)
+*   [Catalyst (⭐764)](https://github.com/curiosity-ai/catalyst) Cross-platform Natural Language Processing (NLP) library inspired by spaCy, with pre-trained models, out-of-the box support for training word and document embeddings, and flexible entity recognition models. Part of the [SciSharp Stack](https://scisharp.github.io/SciSharp/)
 
 ### Mathematics
 
-*   [Rationals (⭐79)](https://github.com/tompazourek/Rationals) - Implementation of rational number arithmetic for .NET with arbitrary precision.
+*   [Rationals (⭐81)](https://github.com/tompazourek/Rationals) - Implementation of rational number arithmetic for .NET with arbitrary precision.
 
 ### Misc
 
-*   [Coravel (⭐3.8k)](https://github.com/jamesmh/coravel) Near-zero config .NET Core library that makes Task Scheduling, Caching, Queuing, Mailing, Event Broadcasting (and more) a breeze!
+*   [Coravel (⭐4k)](https://github.com/jamesmh/coravel) Near-zero config .NET Core library that makes Task Scheduling, Caching, Queuing, Mailing, Event Broadcasting (and more) a breeze!
 
 ### Queue
 
-*   [Gofer.NET (⭐540)](https://github.com/brthor/Gofer.NET) - Easy C# API for Distributed Background Tasks/Jobs for .NET Core. Inspired by celery for python.
+*   [Gofer.NET (⭐546)](https://github.com/brthor/Gofer.NET) - Easy C# API for Distributed Background Tasks/Jobs for .NET Core. Inspired by celery for python.
 
 ### Tools
 
-*   [Mockaco (⭐327)](https://github.com/natenho/Mockaco/) - API mock server with fast setup, useful to simulate HTTP responses, leveraging ASP.NET Core features, built-in fake data generation and C# scripting engine powered by Roslyn scripting API.
+*   [Mockaco (⭐338)](https://github.com/natenho/Mockaco/) - API mock server with fast setup, useful to simulate HTTP responses, leveraging ASP.NET Core features, built-in fake data generation and C# scripting engine powered by Roslyn scripting API.
 *   [AnyStatus](https://www.anystat.us) - A desktop notifications app for monitoring CI/CD pipelines, servers, network, health and metrics. AnyStatus supports Azure DevOps, Jenkins, TeamCity, AppVeyor and more.
 
 ### Source Generator
 
-*   [.NET Open Source Developer Projects (⭐14k)](https://github.com/Microsoft/dotnet/blob/master/dotnet-developer-projects.md) - This community maintained list showcases .NET open source projects that are useful for any aspect of the development process.
+*   [.NET Open Source Developer Projects (⭐15k)](https://github.com/Microsoft/dotnet/blob/master/dotnet-developer-projects.md) - This community maintained list showcases .NET open source projects that are useful for any aspect of the development process.
 
 ## [2. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
 
@@ -77,9 +77,9 @@
 
 ### Notifications and Messages / Code Coverage
 
-*   [New package version checker for npm (⭐19)](https://github.com/MeilCli/npm-update-check-action)
-*   [New package version checker for NuGet (⭐6)](https://github.com/MeilCli/nuget-update-check-action)
-*   [New package version checker for Gradle (⭐14)](https://github.com/MeilCli/gradle-update-check-action)
+*   [New package version checker for npm (⭐24)](https://github.com/MeilCli/npm-update-check-action)
+*   [New package version checker for NuGet (⭐9)](https://github.com/MeilCli/nuget-update-check-action)
+*   [New package version checker for Gradle (⭐16)](https://github.com/MeilCli/gradle-update-check-action)
 
 ---
 

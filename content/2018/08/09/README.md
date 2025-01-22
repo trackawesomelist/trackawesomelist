@@ -27,7 +27,7 @@
 
 ## [4. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
 
-### Courses
+### Courses / Commerical Tools
 
 *   [Grokking Deep Learning in Motion](https://www.manning.com/livevideo/grokking-deep-learning-in-motion?a_aid=algmotion\&a_bid=5d7bc0ba) - Beginner's course to learn deep learning and neural networks without frameworks.
 
@@ -35,13 +35,13 @@
 
 ### Platforms
 
-*   [Fuse (⭐333)](https://github.com/fuse-compound/awesome-fuse#readme) - Mobile development tools.
+*   [Fuse (⭐337)](https://github.com/fuse-compound/awesome-fuse#readme) - Mobile development tools.
 
 ## [6. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Reading and Writing Tools / Text Editors
 
-*   [Emacs](https://www.emacswiki.org/emacs/EmacsForMacOS) - A popular text editor used mainly on Unix-based systems by programmers, scientists, engineers, students, and system administrators. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://git.savannah.gnu.org/cgit/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![Awesome List](https://jaywcjlove.github.io/sb/ico/min-awesome.svg "Awesome List")](https://github.com/emacs-tw/awesome-emacs#readme)
+*   [Emacs](https://www.emacswiki.org/emacs/EmacsForMacOS) - Popular Unix-based text editor for programmers and system administrators. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://git.savannah.gnu.org/cgit/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![Awesome List](https://jaywcjlove.github.io/sb/ico/min-awesome.svg "Awesome List")](https://github.com/emacs-tw/awesome-emacs#readme)
 
 ## [7. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/README.md)
 
@@ -53,7 +53,7 @@
 
 ### Cheatsheet / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [List of 100 Angular Interview questions and answers (⭐4.2k)](https://github.com/sudheerj/angular-interview-questions)
+*   [List of 100 Angular Interview questions and answers (⭐4.4k)](https://github.com/sudheerj/angular-interview-questions)
 
 ## [9. Awesome Opengl](/content/eug/awesome-opengl/README.md)
 

@@ -20,7 +20,7 @@
 
 ### Search
 
-*   🍰 [PlumSearch plugin (⭐19)](https://github.com/skie/plum_search) - Implements custom, flexible and extendable search strategies. Implements PRG pattern.
+*   [PlumSearch plugin (⭐19)](https://github.com/skie/plum_search) - Implements custom, flexible and extendable search strategies. Implements PRG pattern.
 
 ## [3. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -46,21 +46,17 @@
 
 ### Packages / Debugging / Profiling
 
-*   [NiM (⭐195)](https://github.com/june07/nim) - Manages DevTools debugging workflow.
+*   [NiM (⭐197)](https://github.com/june07/nim) - Manages DevTools debugging workflow.
 
 ### Packages / Testing
 
-*   [Playwright (⭐65k)](https://github.com/microsoft/playwright) - Headless Chromium, WebKit, and Firefox with a single API.
+*   [Playwright (⭐68k)](https://github.com/microsoft/playwright) - Headless Chromium, WebKit, and Firefox with a single API.
 
 ### Packages / Miscellaneous
 
-*   [basic-ftp (⭐657)](https://github.com/patrickjuchli/basic-ftp) - FTP/FTPS client.
-*   [cashify (⭐399)](https://github.com/xxczaki/cashify) - Currency conversion.
-*   [genepi (⭐80)](https://github.com/Geode-solutions/genepi) - Automatically generate a native Node.js addon from C++ code.
-
-### Resources / Tools
-
-*   [CodeSandbox](https://codesandbox.io/s/node-http-server-node) - Online IDE and prototyping.
+*   [basic-ftp (⭐678)](https://github.com/patrickjuchli/basic-ftp) - FTP/FTPS client.
+*   [cashify (⭐404)](https://github.com/xxczaki/cashify) - Currency conversion.
+*   [genepi (⭐81)](https://github.com/Geode-solutions/genepi) - Automatically generate a native Node.js addon from C++ code.
 
 ## [6. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 

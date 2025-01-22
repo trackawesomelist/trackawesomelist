@@ -16,11 +16,11 @@
 
 ### Utilities / Shell Utilities
 
-*   [has (⭐615)](https://github.com/kdabir/has) - Checks for the presence of various commands and their versions on the path.
-*   [Ultimate Plumber (⭐8.1k)](https://github.com/akavel/up) - Write Linux pipes with live previews.
-*   [fkill-cli (⭐6.8k)](https://github.com/sindresorhus/fkill-cli) - Simple cross-platform process killer.
-*   [undollar (⭐155)](https://github.com/ImFeelingDucky/undollar) - Strip the '$' preceding copy-pasted terminal commands.
-*   [pipe\_exec (⭐63)](https://github.com/koraa/pipe_exec) - Run executables from stdin, pipes and ttys without creating a temporary file.
+*   [has (⭐681)](https://github.com/kdabir/has) - Checks for the presence of various commands and their versions on the path.
+*   [Ultimate Plumber (⭐8.4k)](https://github.com/akavel/up) - Write Linux pipes with live previews.
+*   [fkill-cli (⭐6.9k)](https://github.com/sindresorhus/fkill-cli) - Simple cross-platform process killer.
+*   [undollar (⭐175)](https://github.com/ImFeelingDucky/undollar) - Strip the '$' preceding copy-pasted terminal commands.
+*   [pipe\_exec (⭐66)](https://github.com/koraa/pipe_exec) - Run executables from stdin, pipes and ttys without creating a temporary file.
 
 ## [3. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
@@ -46,7 +46,7 @@
 
 ## [6. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
-### Web History and Website Capture / Telegram
+### Web History and Website Capture / Steam
 
 *   [BlackWidow](http://softbytelabs.com/wp/blackwidow/)
 

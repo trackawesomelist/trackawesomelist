@@ -16,11 +16,11 @@
 
 ### Authentication
 
-*   [aeacus (⭐37)](https://github.com/zmoshansky/aeacus) - A simple configurable identity/password authentication module (Compatible with Ecto/Phoenix).
+*   [aeacus (⭐38)](https://github.com/zmoshansky/aeacus) - A simple configurable identity/password authentication module (Compatible with Ecto/Phoenix).
 
 ### Email
 
-*   [echo (⭐29)](https://github.com/zmoshansky/echo) - A meta-notification system; Echo checks notification preferences & dispatches notifications.
+*   [echo (⭐30)](https://github.com/zmoshansky/echo) - A meta-notification system; Echo checks notification preferences & dispatches notifications.
 
 ## [3. Awesome Tech Videos](/content/lucasviola/awesome-tech-videos/README.md)
 
@@ -79,7 +79,7 @@
 
 ### Source Generator
 
-*   [awesome-LINQ (⭐399)](https://github.com/aloisdg/awesome-linq) - A curated collection of awesome LINQ libraries, tools, and more.
+*   [awesome-LINQ (⭐403)](https://github.com/aloisdg/awesome-linq) - A curated collection of awesome LINQ libraries, tools, and more.
 
 ---
 

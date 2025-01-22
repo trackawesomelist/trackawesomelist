@@ -6,22 +6,28 @@
 
 
 
-## [1. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+## [1. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+
+### Components & Libraries / UI Components
+
+*   [@kyvg/vue3-notification (⭐384)](https://github.com/kyvg/vue3-notification) - Vue 3 notification library
+
+## [2. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ### Meta Search
 
 *   [Swisscows](https://swisscows.com/)
 
-### Email Search / Email Check / Telegram
+### Email Search / Email Check / Steam
 
-*   [h8mail (⭐4.1k)](https://github.com/khast3x/h8mail) - Password Breach Hunting and Email OSINT, locally or using premium services. Supports chasing down related email.
-*   [Holehe (⭐7.1k)](https://github.com/megadose/holehe) - allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
+*   [h8mail (⭐4.3k)](https://github.com/khast3x/h8mail) - Password Breach Hunting and Email OSINT, locally or using premium services. Supports chasing down related email.
+*   [Holehe (⭐7.9k)](https://github.com/megadose/holehe) - allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
 
-### Video Search and Other Video Tools / Telegram
+### Video Search and Other Video Tools / Steam
 
 *   [Frame by Frame](https://chrome.google.com/webstore/detail/frame-by-frame/cclnaabdfgnehogonpeddbgejclcjneh/) - Browser plugin that allows you to watch YouTube videos frame by frame.
 
-### Geospatial Research and Mapping Tools / Telegram
+### Geospatial Research and Mapping Tools / Steam
 
 *   [Google Earth Pro](https://www.google.com/intl/en/earth/versions/#earth-pro)
 *   [Maxar](https://discover.digitalglobe.com/)
@@ -30,15 +36,15 @@
 *   [USGS (EarthExplorer)](https://earthexplorer.usgs.gov/)
 *   [Zoom Earth](https://zoom.earth/)
 
-### Other Tools / Telegram
+### Other Tools / Steam
 
 *   [Hunchly](https://www.hunch.ly/) - Hunchly is a web capture tool designed specifically for online investigations.
 
-### OSINT Videos / Telegram
+### OSINT Videos / Steam
 
 *   [Bendobrown](https://www.youtube.com/c/Bendobrown)
 
-### OSINT Blogs / Telegram
+### OSINT Blogs / Steam
 
 *   [Bellingcat](https://www.bellingcat.com/)
 *   [NixIntel](https://nixintel.info/)
@@ -46,7 +52,7 @@
 *   [eInvestigator](https://www.einvestigator.com/)
 *   [OSINT Techniques](https://www.osinttechniques.com/blog)
 
-## [2. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/README.md)
+## [3. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/README.md)
 
 ### Finance
 
@@ -54,17 +60,17 @@
 
     <img src="https://raw.githubusercontent.com/wickenico/btc-usd-course.js/main/img/bitcoin-usd-course-widget-small.png" height="200"/>
 
-## [3. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [4. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Links / Official Links
 
 *   [Slack (38k+ users)](https://slack.kotlinlang.org/)
 
-## [4. Public Apis](/content/public-apis/public-apis/README.md)
+## [5. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Video
 
-- API: [Movie Quote (⭐26)](https://github.com/F4R4N/movie-quote/)
+- API: [Movie Quote (⭐28)](https://github.com/F4R4N/movie-quote/)
 
   Description: Random Movie and Series Quotes
 
@@ -76,37 +82,23 @@
 
 
 
-## [5. Awesome Java](/content/akullpp/awesome-java/README.md)
+## [6. Awesome Java](/content/akullpp/awesome-java/README.md)
 
 ### ORM / Text-Based User Interfaces
 
 *   [ObjectiveSql (⭐1.3k)](https://github.com/braisdom/ObjectiveSql) - ActiveRecord ORM for rapid development and convention over configuration.
 
-## [6. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [7. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Tooling / Others
 
-*   [Publish-time Pre-render for Blazor Wasm (⭐240)](https://github.com/jsakamoto/BlazorWasmPreRendering.Build) - ![last commit](https://img.shields.io/github/last-commit/jsakamoto/BlazorWasmPreRendering.Build?style=flat-square\&cacheSeconds=86400) When you publish your Blazor WebAssembly app, this package pre-renders and saves the app as static HTML files in your public folder.
+*   [Publish-time Pre-render for Blazor Wasm (⭐261)](https://github.com/jsakamoto/BlazorWasmPreRendering.Build) - ![last commit](https://img.shields.io/github/last-commit/jsakamoto/BlazorWasmPreRendering.Build?style=flat-square\&cacheSeconds=86400) When you publish your Blazor WebAssembly app, this package pre-renders and saves the app as static HTML files in your public folder.
 
-## [7. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
+## [8. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
 ### DevSecOps / Policy enforcement
 
 *   [Conftest](https://conftest.dev/) - Utility to help you write tests against structured configuration data.
-
-## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Projects Using Vue.js / Open Source
-
-*   [Mythic table](https://gitlab.com/mythicteam/mythictable/) - A Free and Open Source virtual table top for playing Role Playing Games.
-
-### Components & Libraries / UI Components
-
-*   [@kyvg/vue3-notification (⭐366)](https://github.com/kyvg/vue3-notification) - Vue 3 notification library
-
-### Components & Libraries / Utilities
-
-*   [vue-object-state (⭐9)](https://github.com/crashkonijn/vue-object-state) - Simple object/dto/model state tracking
 
 ## [9. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
@@ -129,18 +121,18 @@
 
 ### Planning Data Specifications / Built Environment
 
-*   [DTDL (⭐148)](https://github.com/Azure/opendigitaltwins-building) - The Digital Twins Definition Language is the language by which developers can define the language of the entities they expect to use in their topologies.
+*   [DTDL (⭐163)](https://github.com/Azure/opendigitaltwins-building) - The Digital Twins Definition Language is the language by which developers can define the language of the entities they expect to use in their topologies.
 
 ### Planning Coding Resources / Other
 
-*   [civic-tech-patterns (⭐188)](https://github.com/codeforamerica/civic-tech-patterns) - Common patterns and anti-patterns for civic tech and civic applications. Additional Information: Provided by Code for America.
+*   [civic-tech-patterns (⭐198)](https://github.com/codeforamerica/civic-tech-patterns) - Common patterns and anti-patterns for civic tech and civic applications. Additional Information: Provided by Code for America.
 
 ### Planning Coding Resources / Web and JS
 
 *   [Bootstrap](https://getbootstrap.com/) - Widely-used, well documented library for quick design and customization of websites. Additional Information: [Documentation](https://getbootstrap.com/docs/5.0/getting-started/introduction/).
-*   [Chart.js](https://www.chartjs.org/) - Create simple (or advanced) visualizations of data for web and mobile. Additional Information: [GitHub (⭐64k)](https://github.com/chartjs/Chart.js).
+*   [Chart.js](https://www.chartjs.org/) - Create simple (or advanced) visualizations of data for web and mobile. Additional Information: [GitHub (⭐65k)](https://github.com/chartjs/Chart.js).
 *   [Leaflet](https://leafletjs.com/) - Open-source JavaScript library for mobile-friendly interactive maps. Plugins available to extend functionality (e.g., storymaps, heatmaps, animation). Additional Information: [Quickstart Guide](https://leafletjs.com/examples/quick-start/).
-*   [Turf.js](https://turfjs.org/) - Advanced geospatial analysis for browsers and Node.js. Additional Information: [GitHub (⭐8.8k)](https://github.com/Turfjs/turf).
+*   [Turf.js](https://turfjs.org/) - Advanced geospatial analysis for browsers and Node.js. Additional Information: [GitHub (⭐9.5k)](https://github.com/Turfjs/turf).
 *   [GTFS-Js (⭐1)](https://github.com/WSDOT-GIS/GTFS-JS) - JavaScript library for working with GTFS data. Additional Information: Unlicense: WSDOT.
 
 ## [10. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)

@@ -33,12 +33,12 @@
 *   [CATS](http://jbaron.github.io/cats/) is an IDE for TypeScript and Web developers by @jbaron
 *   [TypeScript Sublime Plugin (⭐1.7k)](https://github.com/Microsoft/TypeScript-Sublime-Plugin) by @Microsoft
 *   [Atom TypeScript (⭐1.1k)](https://github.com/TypeStrong/atom-typescript) by @TypeStrong
-*   [TypeScript Interactive Development Environment for Emacs (⭐1.4k)](https://github.com/ananthakumaran/tide) by @ananthakumaran
+*   [TypeScript Interactive Development Environment for Emacs (⭐1.5k)](https://github.com/ananthakumaran/tide) by @ananthakumaran
 *   [TypeScript Syntax for VIM (⭐1.9k)](https://github.com/leafgarland/typescript-vim)
 
 ### Online / Playground
 
-*   [TypeScript playground-on-ace (⭐90)](https://github.com/hi104/typescript-playground-on-ace) by @hi104 [updated to TypeScript 1.5 (⭐56)](https://github.com/basarat/TypeScriptEditor)
+*   [TypeScript playground-on-ace (⭐91)](https://github.com/hi104/typescript-playground-on-ace) by @hi104 [updated to TypeScript 1.5 (⭐56)](https://github.com/basarat/TypeScriptEditor)
 *   [TypeScript official Playground](http://www.typescriptlang.org/Playground/)
 *   [JS Bin](http://jsbin.com/?js) (Select TypeScript)
 *   [Codepen](http://codepen.io/) (Select TypeScript)
@@ -46,10 +46,6 @@
 *   [TypeScript Editor](http://drake7707.github.io/Typescript-Editor/) by @drake7707
 
 ## [4. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
-
-### Reference resources
-
-*   [TransitWiki](http://transitwiki.org) community wiki for transit planners. Like this repo, but better.
 
 ### Community
 
@@ -59,20 +55,20 @@
 
 ### Other Awesome Lists
 
-*   [open-source-ios-apps (⭐41k)](https://github.com/dkhamsing/open-source-ios-apps) - A collaborative list of open-source iOS Apps.
+*   [open-source-ios-apps (⭐43k)](https://github.com/dkhamsing/open-source-ios-apps) - A collaborative list of open-source iOS Apps.
 
 ### API
 
-*   [PXGoogleDirections (⭐269)](https://github.com/poulpix/PXGoogleDirections) - Google Directions API helper.
+*   [PXGoogleDirections (⭐268)](https://github.com/poulpix/PXGoogleDirections) - Google Directions API helper.
 *   [reddift (⭐242)](https://github.com/sonsongithub/reddift) - reddit API wrapper.
 
 ### Key Value Store
 
-*   [Storez (⭐67)](https://github.com/SwiftKitz/Storez) - Safe, statically-typed, store-agnostic key-value storage.
+*   [Storez (⭐68)](https://github.com/SwiftKitz/Storez) - Safe, statically-typed, store-agnostic key-value storage.
 
 ### Other Data
 
-*   [EVCloudKitDao (⭐643)](https://github.com/evermeer/EVCloudKitDao) - Simplified access to CloudKit with support for subscriptions and local caching.
+*   [EVCloudKitDao (⭐645)](https://github.com/evermeer/EVCloudKitDao) - Simplified access to CloudKit with support for subscriptions and local caching.
 
 ### Auto Layout / Barcode
 
@@ -199,13 +195,13 @@
 ### Tools / Monitoring
 
 *   [check\_mongodb (⭐15)](https://github.com/dalenys/check_mongodb) - Nagios plugin (in Bash)
-*   [nagios-plugin-mongodb (⭐347)](https://github.com/mzupan/nagios-plugin-mongodb) - Nagios plugin (in Python)
+*   [nagios-plugin-mongodb (⭐346)](https://github.com/mzupan/nagios-plugin-mongodb) - Nagios plugin (in Python)
 
 ## [9. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Configuration / Miscellaneous
 
-*   [noCAPTCHA (⭐358)](https://github.com/ARCANEDEV/noCAPTCHA) - Helper for Google's noCAPTCHA (reCAPTCHA).
+*   [noCAPTCHA (⭐361)](https://github.com/ARCANEDEV/noCAPTCHA) - Helper for Google's noCAPTCHA (reCAPTCHA).
 
 ## [10. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
@@ -253,7 +249,7 @@
 
 - ☆: ★★★
 
-  Name: [prakhar1989/awesome-courses#algorithms (⭐55k)](https://github.com/prakhar1989/awesome-courses#algorithms)
+  Name: [prakhar1989/awesome-courses#algorithms (⭐58k)](https://github.com/prakhar1989/awesome-courses#algorithms)
 
   Description: A fantastic list of open courses offered by notable institutions (MIT, Stanford, UC Berkeley ... etc.).
 
@@ -373,7 +369,7 @@
 
 - ☆: ★★☆
 
-  Name: [Coder's Calendar (⭐340)](https://github.com/nishanthvijayan/CoderCalendar): [Android App](https://play.google.com/store/apps/details?id=com.corphots.coderscalendar), [Chrome Extension](https://chrome.google.com/webstore/detail/coders-calendar/bageaffklfkikjigoclfgengklfnidll), [Firefox Add-on](https://addons.mozilla.org/en-US/firefox/addon/coder-calendar/)
+  Name: [Coder's Calendar (⭐337)](https://github.com/nishanthvijayan/CoderCalendar): [Android App](https://play.google.com/store/apps/details?id=com.corphots.coderscalendar), [Chrome Extension](https://chrome.google.com/webstore/detail/coders-calendar/bageaffklfkikjigoclfgengklfnidll), [Firefox Add-on](https://addons.mozilla.org/en-US/firefox/addon/coder-calendar/)
 
   Description: 
 

@@ -25,7 +25,7 @@
 
 ### Board support crates / Texas Instruments
 
-*   [`monotron`](https://github.com/thejpster/monotron) - A 1980s home-computer style application for the Texas Instruments Stellaris Launchpad. PS/2 keyboard input, text output on a bit-bashed 800x600 VGA signal. Uses [menu (⭐48)](https://github.com/thejpster/menu), [vga-framebuffer (⭐31)](https://github.com/thejpster/vga-framebuffer-rs) and [pc-keyboard (⭐98)](https://github.com/thejpster/pc-keyboard).
+*   [`monotron`](https://github.com/thejpster/monotron) - A 1980s home-computer style application for the Texas Instruments Stellaris Launchpad. PS/2 keyboard input, text output on a bit-bashed 800x600 VGA signal. Uses [menu (⭐53)](https://github.com/thejpster/menu), [vga-framebuffer (⭐31)](https://github.com/thejpster/vga-framebuffer-rs) and [pc-keyboard (⭐100)](https://github.com/thejpster/pc-keyboard).
 
 ## [4. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 
@@ -55,7 +55,7 @@
 
 ### Command Line / XML
 
-*   [darg (⭐37)](https://github.com/jasonwhite/darg) - Robust command line argument parsing for D.
+*   [darg (⭐38)](https://github.com/jasonwhite/darg) - Robust command line argument parsing for D.
 
 ## [9. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 

@@ -58,7 +58,7 @@
 
 ### Contents / Backups
 
-*   [pg\_probackup (⭐695)](https://github.com/postgrespro/pg_probackup) – A fork of pg\_arman, improved by @PostgresPro, supports incremental backups, backups from replica, multithreaded backup and restore, and anonymous backup without archive command.
+*   [pg\_probackup (⭐704)](https://github.com/postgrespro/pg_probackup) – A fork of pg\_arman, improved by @PostgresPro, supports incremental backups, backups from replica, multithreaded backup and restore, and anonymous backup without archive command.
 
 ### Contents / Extensions
 

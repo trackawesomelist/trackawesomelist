@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 15, 2016
 
-7 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -31,18 +31,12 @@
 *   [Zotero](https://www.zotero.org/) - Open-source citation management software.
 *   [TiddlyWiki](http://tiddlywiki.com/) - Easily create your own wikis to organize information.
 *   [Evergreen ILS](http://evergreen-ils.org/) - Software for managing a library of books (and the loaning process).
-*   [ISLE (⭐213)](https://github.com/nasa/isle) - Open-source laboratory equipment inventory management system developed by NASA.
+*   [ISLE (⭐215)](https://github.com/nasa/isle) - Open-source laboratory equipment inventory management system developed by NASA.
 *   [GanttProject](http://www.ganttproject.biz/) - Productivity tool for scheduling tasks and making Gantt charts.
 *   [Open Science Framework](https://osf.io/) - Open-source collaborative project manager for scientific research.
 *   [Calibre](http://calibre-ebook.com/) - eBook management software.
 
-## [3. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
-
-### Companies with "remote DNA"
-
-*   [AT\&T](https://att.jobs) - Nearly [20% of the eligible workforce](https://www.att.com/Common/about_us/files/csr_2012/worklife_balance.pdf) works remotely.
-
-## [4. Awesome Less](/content/LucasBassetti/awesome-less/README.md)
+## [3. Awesome Less](/content/LucasBassetti/awesome-less/README.md)
 
 ### UI/Theme Frameworks and Components
 
@@ -75,19 +69,19 @@
 *   [Stack Overflow](http://stackoverflow.com/questions/tagged/less)
 *   [Twitter](https://twitter.com/hashtag/lesscss)
 
-## [5. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
+## [4. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Packages / Command-line apps
 
 *   [lessmd](https://github.com/linuxenko/lessmd) - Markdown in the terminal.
 
-## [6. Tools](/content/lvwzhen/tools/README.md)
+## [5. Tools](/content/lvwzhen/tools/README.md)
 
 ### Color
 
 *   [krmp.cc (⭐2)](https://github.com/dadleyy/krmp.cc)
 
-## [7. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [6. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### GUI
 

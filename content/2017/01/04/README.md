@@ -58,13 +58,13 @@
 
 ### ORM and Datamapping
 
-*   [Bolt.Sips (⭐256)](https://github.com/florinpatrascu/bolt_sips) - Neo4j driver for Elixir using the Bolt protocol.
+*   [Bolt.Sips (⭐261)](https://github.com/florinpatrascu/bolt_sips) - Neo4j driver for Elixir using the Bolt protocol.
 
 ## [8. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Go / Natural Language Processing
 
-*   [snowball (⭐44)](https://github.com/tebeka/snowball) - Snowball Stemmer for Go.
+*   [snowball (⭐46)](https://github.com/tebeka/snowball) - Snowball Stemmer for Go.
 
 ## [9. Vim Galore](/content/mhinz/vim-galore/README.md)
 

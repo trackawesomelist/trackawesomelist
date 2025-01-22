@@ -36,16 +36,16 @@
 
 ### Misc
 
-*   [Tuist (⭐4.4k)](https://github.com/tuist/tuist) - An open source command line tool to create, maintain and interact with your Xcode projects at scale.
+*   [Tuist (⭐4.6k)](https://github.com/tuist/tuist) - An open source command line tool to create, maintain and interact with your Xcode projects at scale.
 *   [xcodeproj (⭐2k)](https://github.com/tuist/xcodeproj) - A library to read, update and write Xcode projects and workspaces.
 
 ### Video / Barcode
 
-*   [PryntTrimmerView (⭐816)](https://github.com/HHK1/PryntTrimmerView) - Trim and crop videos.
+*   [PryntTrimmerView (⭐861)](https://github.com/HHK1/PryntTrimmerView) - Trim and crop videos.
 
 ## [5. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
 
-### Courses
+### Courses / Commerical Tools
 
 *   [Deep Learning and the Game of Go](https://www.manning.com/books/deep-learning-and-the-game-of-go) - Deep Learning and the Game of Go teaches you how to apply the power of deep learning to complex human-flavored reasoning tasks by building a Go-playing AI. After exposing you to the foundations of machine and deep learning, you'll use Python to build a bot and then teach it the rules of the game.
 *   [Deep Learning for Search](https://www.manning.com/books/deep-learning-for-search) -  Deep Learning for Search teaches you how to leverage neural networks, NLP, and deep learning techniques to improve search performance.
@@ -53,7 +53,7 @@
 *   [Deep Reinforcement Learning in Action](https://www.manning.com/books/deep-reinforcement-learning-in-action) -  Deep Reinforcement Learning in Action teaches you the fundamental concepts and terminology of deep reinforcement learning, along with the practical skills and techniques you’ll need to implement it into your own projects.
 *   [Grokking Deep Reinforcement Learning](https://www.manning.com/books/grokking-deep-reinforcement-learning) -  Grokking Deep Reinforcement Learning introduces this powerful machine learning approach, using examples, illustrations, exercises, and crystal-clear teaching.
 
-### Videos
+### Videos / Commerical Tools
 
 *   [AWS Machine Learning in Motion](https://www.manning.com/livevideo/aws-machine-learning-in-motion)—This interactive live video course gives you a crash course in using AWS for machine learning and teaches you how to build a fully working predictive algorithm.
 *   [Deep Learning with R in Motion](https://www.manning.com/livevideo/deep-learning-with-r-in-motion)-Deep Learning with R in Motion teaches you to apply deep learning to text and images using the powerful Keras library and its R language interface.
@@ -85,11 +85,11 @@
 
 ### Platforms
 
-*   [DigitalOcean (⭐341)](https://github.com/jonleibowitz/awesome-digitalocean#readme) - Cloud computing platform designed for developers.
+*   [DigitalOcean (⭐349)](https://github.com/jonleibowitz/awesome-digitalocean#readme) - Cloud computing platform designed for developers.
 
 ### Gaming
 
-*   [Game Boy Development (⭐3.9k)](https://github.com/gbdev/awesome-gbdev#readme)
+*   [Game Boy Development (⭐4k)](https://github.com/gbdev/awesome-gbdev#readme)
 
 ## [10. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

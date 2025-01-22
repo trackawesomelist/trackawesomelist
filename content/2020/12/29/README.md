@@ -16,7 +16,7 @@
 
 ### no-std crates / WIP
 
-*   [device-driver](https://crates.io/crates/device-driver): A toolkit to write better device drivers, faster. ![crates.io](https://img.shields.io/crates/v/device-driver.svg)
+*   [device-driver](https://crates.io/crates/device-driver): A toolkit to write better device drivers, faster. [![crates.io](https://img.shields.io/crates/v/device-driver.svg)](https://crates.io/crates/device-driver)
 
 ## [3. Awesome Tensorflow Lite](/content/margaretmz/awesome-tensorflow-lite/README.md)
 
@@ -44,7 +44,7 @@
 
 ### Concurrency
 
-*   [concurrencpp (⭐2.2k)](https://github.com/David-Haim/concurrencpp) - A general concurrency library containing tasks, executors, timers and C++20 coroutines to rule them all.
+*   [concurrencpp (⭐2.4k)](https://github.com/David-Haim/concurrencpp) - A general concurrency library containing tasks, executors, timers and C++20 coroutines to rule them all.
 
 ## [7. Public Apis](/content/public-apis/public-apis/README.md)
 

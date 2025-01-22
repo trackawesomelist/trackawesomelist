@@ -46,13 +46,13 @@
 
 ### Packages / Command-line apps
 
-*   [np (⭐7.5k)](https://github.com/sindresorhus/np) - Better `npm publish`.
+*   [np (⭐7.6k)](https://github.com/sindresorhus/np) - Better `npm publish`.
 *   [pageres (⭐9.7k)](https://github.com/sindresorhus/pageres) - Capture website screenshots.
-*   [clipboard-cli (⭐490)](https://github.com/sindresorhus/clipboard-cli) - Copy & paste on the terminal.
+*   [clipboard-cli (⭐496)](https://github.com/sindresorhus/clipboard-cli) - Copy & paste on the terminal.
 *   [Live Server (⭐4.4k)](https://github.com/tapio/live-server) - Development HTTP-server with livereload capability.
 *   [fkill (⭐6.9k)](https://github.com/sindresorhus/fkill-cli) - Fabulously kill processes. Cross-platform.
-*   [tmpin (⭐123)](https://github.com/sindresorhus/tmpin) - Adds stdin support to any CLI app that accepts file input.
-*   [dark-mode (⭐653)](https://github.com/sindresorhus/dark-mode) - Toggle the macOS Dark Mode.
+*   [tmpin (⭐124)](https://github.com/sindresorhus/tmpin) - Adds stdin support to any CLI app that accepts file input.
+*   [dark-mode (⭐662)](https://github.com/sindresorhus/dark-mode) - Toggle the macOS Dark Mode.
 
 ### Packages / HTTP
 
@@ -61,33 +61,33 @@
 
 ### Packages / Logging
 
-*   [winston (⭐22k)](https://github.com/winstonjs/winston) - Multi-transport async logging library.
+*   [winston (⭐23k)](https://github.com/winstonjs/winston) - Multi-transport async logging library.
 
 ### Packages / Command-line utilities
 
-*   [ora (⭐9k)](https://github.com/sindresorhus/ora) - Elegant terminal spinner.
+*   [ora (⭐9.2k)](https://github.com/sindresorhus/ora) - Elegant terminal spinner.
 *   [conf (⭐1.2k)](https://github.com/sindresorhus/conf) - Simple config handling for your app or module.
-*   [cli-truncate (⭐85)](https://github.com/sindresorhus/cli-truncate) - Truncate a string to a specific width in the terminal.
+*   [cli-truncate (⭐86)](https://github.com/sindresorhus/cli-truncate) - Truncate a string to a specific width in the terminal.
 *   [blessed (⭐11k)](https://github.com/chjj/blessed) - Curses-like library.
-*   [insight (⭐555)](https://github.com/yeoman/insight) - Helps you understand how your tool is being used by anonymously reporting usage metrics to Google Analytics.
+*   [insight (⭐557)](https://github.com/yeoman/insight) - Helps you understand how your tool is being used by anonymously reporting usage metrics to Google Analytics.
 
 ### Packages / Build tools
 
-*   [webpack (⭐64k)](https://github.com/webpack/webpack) - Packs modules and assets for the browser.
+*   [webpack (⭐65k)](https://github.com/webpack/webpack) - Packs modules and assets for the browser.
 *   [rollup (⭐25k)](https://github.com/rollup/rollup) - Next-generation ES2015 module bundler.
 *   [Broccoli (⭐3.3k)](https://github.com/broccolijs/broccoli) - Fast, reliable asset pipeline, supporting constant-time rebuilds and compact build definitions.
 
 ### Packages / Templating
 
 *   [marko (⭐13k)](https://github.com/marko-js/marko) - HTML-based templating engine that compiles templates to CommonJS modules and supports streaming, async rendering and custom tags.
-*   [nunjucks (⭐8.5k)](https://github.com/mozilla/nunjucks) - Templating engine with inheritance, asynchronous control, and more (jinja2 inspired).
+*   [nunjucks (⭐8.6k)](https://github.com/mozilla/nunjucks) - Templating engine with inheritance, asynchronous control, and more (jinja2 inspired).
 
 ### Packages / Control flow
 
 *   Observables
     *   [RxJS (⭐31k)](https://github.com/ReactiveX/RxJS) - Reactive programming.
     *   [observable-to-promise (⭐47)](https://github.com/sindresorhus/observable-to-promise) - Convert an Observable to a Promise.
-    *   [More… (⭐335)](https://github.com/sindresorhus/awesome-observables)
+    *   [More… (⭐339)](https://github.com/sindresorhus/awesome-observables)
 
 ### Packages / Streams
 
@@ -95,15 +95,15 @@
 
 ### Packages / Real-time
 
-*   [MQTT.js (⭐8.5k)](https://github.com/mqttjs/MQTT.js) - Client for MQTT - Pub-sub based messaging protocol for use on top of TCP/IP.
+*   [MQTT.js (⭐8.6k)](https://github.com/mqttjs/MQTT.js) - Client for MQTT - Pub-sub based messaging protocol for use on top of TCP/IP.
 
 ### Packages / Text
 
-*   [he (⭐3.4k)](https://github.com/mathiasbynens/he) - HTML entity encoder/decoder.
+*   [he (⭐3.5k)](https://github.com/mathiasbynens/he) - HTML entity encoder/decoder.
 
 ### Packages / Date
 
-*   [date-fns (⭐34k)](https://github.com/date-fns/date-fns) - Modern date utility.
+*   [date-fns (⭐35k)](https://github.com/date-fns/date-fns) - Modern date utility.
 
 ### Packages / Parsing
 
@@ -112,8 +112,8 @@
 
 ### Packages / Compression
 
-*   [yazl (⭐323)](https://github.com/thejoshwolfe/yazl) - Zip.
-*   [yauzl (⭐689)](https://github.com/thejoshwolfe/yauzl) - Unzip.
+*   [yazl (⭐343)](https://github.com/thejoshwolfe/yazl) - Zip.
+*   [yauzl (⭐741)](https://github.com/thejoshwolfe/yauzl) - Unzip.
 
 ### Packages / Database
 
@@ -122,9 +122,9 @@
     *   [Redis (⭐14k)](https://github.com/luin/ioredis) - Redis client.
     *   [LevelUP (⭐4.1k)](https://github.com/Level/levelup) - LevelDB.
     *   [MySQL (⭐18k)](https://github.com/mysqljs/mysql) - MySQL client.
-    *   [couchdb-nano (⭐643)](https://github.com/apache/couchdb-nano) - CouchDB client.
-    *   [Aerospike (⭐198)](https://github.com/aerospike/aerospike-client-nodejs) - Aerospike client.
-    *   [Couchbase (⭐461)](https://github.com/couchbase/couchnode) - Couchbase client.
+    *   [couchdb-nano (⭐657)](https://github.com/apache/couchdb-nano) - CouchDB client.
+    *   [Aerospike (⭐202)](https://github.com/aerospike/aerospike-client-nodejs) - Aerospike client.
+    *   [Couchbase (⭐462)](https://github.com/couchbase/couchnode) - Couchbase client.
     *   [MongoDB (⭐10k)](https://github.com/mongodb/node-mongodb-native) - MongoDB driver.
 
 ### Packages / Testing
@@ -146,11 +146,11 @@
 
 ### Packages / Weird
 
-*   [cows (⭐417)](https://github.com/sindresorhus/cows) - ASCII cows.
+*   [cows (⭐419)](https://github.com/sindresorhus/cows) - ASCII cows.
 
 ### Packages / Miscellaneous
 
-*   [execa (⭐6.7k)](https://github.com/sindresorhus/execa) - Better `child_process`.
+*   [execa (⭐6.9k)](https://github.com/sindresorhus/execa) - Better `child_process`.
 *   [ssh2 (⭐5.5k)](https://github.com/mscdex/ssh2) - SSH2 client and server module.
 *   [Bottleneck (⭐1.8k)](https://github.com/SGrondin/bottleneck) - Rate limiter that makes throttling easy.
 *   [clipboardy (⭐1.8k)](https://github.com/sindresorhus/clipboardy) - Access the system clipboard (copy/paste).

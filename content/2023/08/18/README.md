@@ -17,24 +17,24 @@
 ### Libraries / Filesystem
 
 *   Operations
-    *   [Camino (⭐414)](https://github.com/camino-rs/camino) \[[camino](https://crates.io/crates/camino)] - Like Rust's std::path::Path, but UTF-8.
-    *   [OpenDAL (⭐3.1k)](https://github.com/apache/opendal) \[[opendal](https://crates.io/crates/opendal)] - A unified data access layer, empowering users to seamlessly and efficiently retrieve data from diverse storage services. [![build](https://img.shields.io/github/actions/workflow/status/apache/opendal/ci_core.yml?branch=main)](https://github.com/apache/opendal/actions?query=branch%3Amain)
-    *   [ParthJadhav/Rust\_Search (⭐135)](https://github.com/ParthJadhav/Rust_Search) \[[rust\_search](https://crates.io/crates/rust_search)] - Blazingly fast file search library.
+    *   [Camino (⭐457)](https://github.com/camino-rs/camino) \[[camino](https://crates.io/crates/camino)] - Like Rust's std::path::Path, but UTF-8.
+    *   [OpenDAL (⭐3.7k)](https://github.com/apache/opendal) \[[opendal](https://crates.io/crates/opendal)] - A unified data access layer, empowering users to seamlessly and efficiently retrieve data from diverse storage services. [![build](https://img.shields.io/github/actions/workflow/status/apache/opendal/ci_core.yml?branch=main)](https://github.com/apache/opendal/actions?query=branch%3Amain)
+    *   [ParthJadhav/Rust\_Search (⭐153)](https://github.com/ParthJadhav/Rust_Search) \[[rust\_search](https://crates.io/crates/rust_search)] - Blazingly fast file search library.
     *   [pop-os/dbus-udisks2 (⭐18)](https://github.com/pop-os/dbus-udisks2) \[[dbus-udisks2](https://crates.io/crates/dbus-udisks2)] - UDisks2 DBus API
-    *   [pop-os/sys-mount (⭐42)](https://github.com/pop-os/sys-mount) \[[sys-mount](https://crates.io/crates/sys-mount)] - High level abstraction for the `mount` / `umount2` system calls.
-    *   [vitiral/path\_abs (⭐50)](https://github.com/vitiral/path_abs) \[[path\_abs](https://crates.io/crates/path_abs)] - Absolute serializable path types and associated methods.
-    *   [webdesus/fs\_extra (⭐294)](https://github.com/webdesus/fs_extra) - expanding opportunities standard library std::fs and std::io
+    *   [pop-os/sys-mount (⭐43)](https://github.com/pop-os/sys-mount) \[[sys-mount](https://crates.io/crates/sys-mount)] - High level abstraction for the `mount` / `umount2` system calls.
+    *   [vitiral/path\_abs (⭐51)](https://github.com/vitiral/path_abs) \[[path\_abs](https://crates.io/crates/path_abs)] - Absolute serializable path types and associated methods.
+    *   [webdesus/fs\_extra (⭐309)](https://github.com/webdesus/fs_extra) - expanding opportunities standard library std::fs and std::io
 
 ## [3. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
 
 ### Applications and Platforms / Aggregators & Dashboards
 
-*   [BiomarkerDash (⭐10)](https://github.com/NoTranslationLayer/biomarkerdash) - Simple dashboard to visualize trends in bloodwork biomarkers.
+*   [BiomarkerDash (⭐14)](https://github.com/NoTranslationLayer/biomarkerdash) - Simple dashboard to visualize trends in bloodwork biomarkers.
 
 ### Open Source Projects / Wealth
 
-*   [Timeliner (⭐3.5k)](https://github.com/mholt/timeliner) - A data aggregation and and timeline visualization tool.
-*   [TimelineBuilder (⭐322)](https://github.com/facebookresearch/personal-timeline) - A data aggregation and and timeline visualization tool by Facebook.
+*   [Timeliner (⭐3.6k)](https://github.com/mholt/timeliner) - A data aggregation and and timeline visualization tool.
+*   [TimelineBuilder (⭐335)](https://github.com/facebookresearch/personal-timeline) - A data aggregation and and timeline visualization tool by Facebook.
 
 ## [4. Awesome Minecraft](/content/bs-community/awesome-minecraft/README.md)
 
@@ -52,8 +52,8 @@
 
 ### Utilities
 
-*   [go-qr (⭐23)](https://github.com/piglig/go-qr) - A native, high-quality and minimalistic QR code generator.
-*   [yogo (⭐41)](https://github.com/antham/yogo) - Check yopmail mails from command line.
+*   [go-qr (⭐35)](https://github.com/piglig/go-qr) - A native, high-quality and minimalistic QR code generator.
+*   [yogo (⭐43)](https://github.com/antham/yogo) - Check yopmail mails from command line.
 
 ### DevOps Tools / Libraries for creating HTTP middlewares
 
@@ -63,12 +63,12 @@
 
 ### Maps / Web Maps
 
-*   [Streets GL (⭐530)](https://github.com/StrandedKitty/streets-gl) - OpenStreetMap 3D renderer powered by WebGL2. ([Wiki](https://wiki.openstreetmap.org/wiki/Streets_GL))
+*   [Streets GL (⭐633)](https://github.com/StrandedKitty/streets-gl) - OpenStreetMap 3D renderer powered by WebGL2. ([Wiki](https://wiki.openstreetmap.org/wiki/Streets_GL))
 
 ### Libraries / Python
 
-*   [overpy (⭐223)](https://github.com/DinoTools/python-overpy) - A Python wrapper to access the Overpass API.
-*   [overpassforge (⭐4)](https://github.com/Krafpy/Overpass-Forge) - A package to build Overpass queries from Python objects.
+*   [overpy (⭐242)](https://github.com/DinoTools/python-overpy) - A Python wrapper to access the Overpass API.
+*   [overpassforge (⭐8)](https://github.com/Krafpy/Overpass-Forge) - A package to build Overpass queries from Python objects.
 *   [humanized\_opening\_hours (⭐26)](https://github.com/rezemika/humanized_opening_hours) - A package to parse the `opening_hours` tag.
 
 ## [8. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
@@ -76,7 +76,7 @@
 ### Ballerina / React
 
 *   [graphql (⭐140)](https://github.com/ballerina-platform/module-ballerina-graphql) - Ballerina standard library for GraphQL. This library provides a GraphQL client and server implementations including builtin support for GraphQL subscriptions.
-*   [graphql CLI (⭐110)](https://github.com/ballerina-platform/graphql-tools) - A CLI tool to generate Ballerina code from GraphQL schema and GraphQL schema from Ballerina code. It also provides functionality to generate usage-specific GraphQL clients using GraphQL schemas and documents.
+*   [graphql CLI (⭐109)](https://github.com/ballerina-platform/graphql-tools) - A CLI tool to generate Ballerina code from GraphQL schema and GraphQL schema from Ballerina code. It also provides functionality to generate usage-specific GraphQL clients using GraphQL schemas and documents.
 
 ### Ballerina Samples / React
 
@@ -97,17 +97,17 @@
 
 ### Editing Support / Diagnostics
 
-*   [echasnovski/mini.nvim#mini.operators (⭐4.7k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-operators.md) - Module of `mini.nvim` with various text edit operators: replace, exchange, multiply, sort, evaluate.
+*   [echasnovski/mini.nvim#mini.operators (⭐6.2k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-operators.md) - Module of `mini.nvim` with various text edit operators: replace, exchange, multiply, sort, evaluate.
 
 ## [11. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Entertainment / Music
 
-*   [radio-active (⭐451)](https://github.com/deep5050/radio-active) - Internet radio player with 40k+ stations.
+*   [radio-active (⭐509)](https://github.com/deep5050/radio-active) - Internet radio player with 40k+ stations.
 
 ### Productivity / HTTP Client
 
-*   [fjira (⭐88)](https://github.com/mk-5/fjira) - Fuzzy finder and TUI application for Jira.
+*   [fjira (⭐141)](https://github.com/mk-5/fjira) - Fuzzy finder and TUI application for Jira.
 
 ## [12. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 27 - Sep 02, 2018
 
-47 awesome lists updated this week.
+46 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -270,16 +270,16 @@
 *   Can manage everything
     *   ZSH plugins/UNIX commands on [GitHub](https://github.com) and [Bitbucket](https://bitbucket.org)
     *   Gist files ([gist.github.com](https://gist.github.com/discover))
-    *   Externally managed plugins e.g., [oh-my-zsh (⭐172k)](https://github.com/ohmyzsh/ohmyzsh) and [prezto (⭐14k)](https://github.com/sorin-ionescu/prezto) plugins/themes
+    *   Externally managed plugins e.g., [oh-my-zsh (⭐175k)](https://github.com/ohmyzsh/ohmyzsh) and [prezto (⭐14k)](https://github.com/sorin-ionescu/prezto) plugins/themes
     *   Binary artifacts on [GitHub Releases](https://help.github.com/articles/about-releases/)
     *   Local plugins
-    *   etc. (you can add your [own sources (⭐5.8k)](https://github.com/zplug/zplug/blob/master/doc/guide/External-Sources.md)!)
+    *   etc. (you can add your [own sources (⭐5.9k)](https://github.com/zplug/zplug/blob/master/doc/guide/External-Sources.md)!)
 *   Super-fast parallel installation/update
 *   Support for lazy-loading
 *   Branch/tag/commit support
 *   Post-update, post-load hooks
-*   Interactive interface ([fzf (⭐63k)](https://github.com/junegunn/fzf), [peco (⭐7.6k)](https://github.com/peco/peco), [zaw (⭐570)](https://github.com/zsh-users/zaw), and so on)
-*   Cache mechanism for reducing [the startup time (⭐5.8k)](https://github.com/zplug/zplug#vs)
+*   Interactive interface ([fzf (⭐67k)](https://github.com/junegunn/fzf), [peco (⭐7.7k)](https://github.com/peco/peco), [zaw (⭐573)](https://github.com/zsh-users/zaw), and so on)
+*   Cache mechanism for reducing [the startup time (⭐5.9k)](https://github.com/zplug/zplug#vs)
 
 ## [8. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
@@ -352,7 +352,7 @@
 ### Cryptography
 
 *   [sha1collisiondetection (⭐1.3k)](https://github.com/cr-marcstevens/sha1collisiondetection) - Library and command line tool to detect SHA-1 collision in a file. \[MIT]
-*   [Tink (⭐13k)](https://github.com/google/tink) - A multi-language, cross-platform library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse. \[Apache-2.0]
+*   [Tink (⭐14k)](https://github.com/google/tink) - A multi-language, cross-platform library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse. \[Apache-2.0]
 
 ## [19. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
 
@@ -397,13 +397,13 @@
 
 ### Python / Kaggle Competition Source Code
 
-*   [open-solution-home-credit (⭐449)](https://github.com/neptune-ml/open-solution-home-credit) -> source code and [experiments results](https://app.neptune.ml/neptune-ml/Home-Credit-Default-Risk) for [Home Credit Default Risk](https://www.kaggle.com/c/home-credit-default-risk).
+*   [open-solution-home-credit (⭐454)](https://github.com/neptune-ml/open-solution-home-credit) -> source code and [experiments results](https://app.neptune.ml/neptune-ml/Home-Credit-Default-Risk) for [Home Credit Default Risk](https://www.kaggle.com/c/home-credit-default-risk).
 *   [open-solution-googleai-object-detection (⭐46)](https://github.com/neptune-ml/open-solution-googleai-object-detection) -> source code and [experiments results](https://app.neptune.ml/neptune-ml/Google-AI-Object-Detection-Challenge) for [Google AI Open Images - Object Detection Track](https://www.kaggle.com/c/google-ai-open-images-object-detection-track).
-*   [open-solution-salt-identification (⭐120)](https://github.com/neptune-ml/open-solution-salt-identification) -> source code and [experiments results](https://app.neptune.ml/neptune-ml/Salt-Detection) for [TGS Salt Identification Challenge](https://www.kaggle.com/c/tgs-salt-identification-challenge).
-*   [open-solution-ship-detection (⭐62)](https://github.com/neptune-ml/open-solution-ship-detection) -> source code and [experiments results](https://app.neptune.ml/neptune-ml/Ships) for [Airbus Ship Detection Challenge](https://www.kaggle.com/c/airbus-ship-detection).
+*   [open-solution-salt-identification (⭐121)](https://github.com/neptune-ml/open-solution-salt-identification) -> source code and [experiments results](https://app.neptune.ml/neptune-ml/Salt-Detection) for [TGS Salt Identification Challenge](https://www.kaggle.com/c/tgs-salt-identification-challenge).
+*   [open-solution-ship-detection (⭐63)](https://github.com/neptune-ml/open-solution-ship-detection) -> source code and [experiments results](https://app.neptune.ml/neptune-ml/Ships) for [Airbus Ship Detection Challenge](https://www.kaggle.com/c/airbus-ship-detection).
 *   [open-solution-data-science-bowl-2018 (⭐157)](https://github.com/neptune-ml/open-solution-data-science-bowl-2018) -> source code and [experiments results](https://app.neptune.ml/neptune-ml/Data-Science-Bowl-2018) for [2018 Data Science Bowl](https://www.kaggle.com/c/data-science-bowl-2018).
 *   [open-solution-value-prediction (⭐39)](https://github.com/neptune-ml/open-solution-value-prediction) -> source code and [experiments results](https://app.neptune.ml/neptune-ml/Santander-Value-Prediction-Challenge) for [Santander Value Prediction Challenge](https://www.kaggle.com/c/santander-value-prediction-challenge).
-*   [open-solution-toxic-comments (⭐154)](https://github.com/neptune-ml/open-solution-toxic-comments) -> source code for [Toxic Comment Classification Challenge](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge).
+*   [open-solution-toxic-comments (⭐155)](https://github.com/neptune-ml/open-solution-toxic-comments) -> source code for [Toxic Comment Classification Challenge](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge).
 
 ### Swift / General-Purpose Machine Learning
 
@@ -422,10 +422,6 @@
 *   [TypeScript composite monorepo (⭐125)](https://github.com/tommedema/serverless-mono-example) - Yarn / Lerna workspaces with Typescript 3.0 composite references using `nohoist` for compatible serverless application packaging.
 
 ## [26. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
-
-### Other multimodal data formats / Ruby
-
-*   [Mobility as a Service API](http://maas-api.org/) - A set of open documents and test suite that defines a MaaS-compatible API (e.g., a [MaaS Transport Service Provider Booking API (⭐15)](https://github.com/maasglobal/maas-tsp-api/blob/master/specs/Booking.md)).
 
 ### Government reports / Ruby
 
@@ -567,7 +563,7 @@
 
 ### Boilerplates
 
-*   [tomimick/tm-nextjs-starter (⭐49)](https://github.com/tomimick/tm-nextjs-starter) - A minimal starter/demo with basic CRUD, axios/localstorage, MobX, SASS, static site export, live demo
+*   [tomimick/tm-nextjs-starter (⭐50)](https://github.com/tomimick/tm-nextjs-starter) - A minimal starter/demo with basic CRUD, axios/localstorage, MobX, SASS, static site export, live demo
 
 ## [37. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
@@ -616,31 +612,25 @@
 
 *   [How to use React Native Navigation v2 with Redux and Google Analytics](https://www.codingsavvy.com/2018/08/react-native-navigation-v2-with-redux.html)
 
-## [42. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
-
-### Companies with "remote DNA"
-
-*   [DigitalOcean](https://www.digitalocean.com/careers/) - Simple Cloud Hosting, Built for Developers
-
-## [43. Awesome Recursion Schemes](/content/passy/awesome-recursion-schemes/week/README.md)
+## [42. Awesome Recursion Schemes](/content/passy/awesome-recursion-schemes/week/README.md)
 
 ### Presentations / Hylomorphisms in the Wild
 
 *   [Peeling the Banana: Recursion Schemes from First Principles](https://www.youtube.com/watch?v=XZ9nPZbaYfE\&t=3s) - Zainab Ali's Introductory talk presented at LambdaWorld.
 
-## [44. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/week/README.md)
+## [43. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/week/README.md)
 
 ### Community / Mesh tools
 
 *   [John D. Cook's blog](https://www.johndcook.com/blog/) - Feats of scientific computing.
 
-## [45. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [44. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Miscellaneous
 
-*   [FIRST Robotics Competition (⭐107)](https://github.com/andrewda/awesome-frc#readme) - International high school robotics championship.
+*   [FIRST Robotics Competition (⭐110)](https://github.com/andrewda/awesome-frc#readme) - International high school robotics championship.
 
-## [46. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [45. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Machine Learning
 
@@ -654,7 +644,7 @@
 *   [Clojure Pills screencast](https://www.youtube.com/channel/UCH0CkLvbv6yEyrUnw9qujpQ/videos): Introduction to Clojure one function at a time
 *   [Data persistance with Postgres, Clojure and JDBC](https://www.youtube.com/channel/UCrwwOZ4h2FQhAdTMfjyQfQA/playlists)
 
-## [47. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
+## [46. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
 ### Resources / Articles
 

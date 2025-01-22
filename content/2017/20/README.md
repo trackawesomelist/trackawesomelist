@@ -37,7 +37,7 @@
 
 ### Ask these people anything!
 
-*   [Rachel Andrew (⭐323)](https://github.com/rachelandrew/cssgrid-ama) - CSS Grid Ask Me Anything. Rachel Andrew is a UK web developer, writer, public speaker and co-founder of Perch CMS.
+*   [Rachel Andrew (⭐328)](https://github.com/rachelandrew/cssgrid-ama) - CSS Grid Ask Me Anything. Rachel Andrew is a UK web developer, writer, public speaker and co-founder of Perch CMS.
 
 ## [6. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
@@ -55,7 +55,7 @@
 
 ### Boilerplates / Themes
 
-*   [Aspnet Core Antd Boilerplate (⭐19)](https://github.com/bang88/aspnet-core-react-antd-boilerplate) - Server Side Rendering with Asp.net core.
+*   [Aspnet Core Antd Boilerplate (⭐20)](https://github.com/bang88/aspnet-core-react-antd-boilerplate) - Server Side Rendering with Asp.net core.
 *   [React Redux Universal (⭐18)](https://github.com/subenksaha/react-redux-universal) - Universal/Isomorphic boilerplate using react router 4 and webpack 2.5+. All latest packages.
 
 ## [8. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
@@ -91,8 +91,8 @@
 ### Github Libraries / Randomized Algorithms
 
 *   C#
-    *   [by @shkolovy (⭐32)](https://github.com/shkolovy/classic-algorithms)
-    *   [by @aalhour (⭐5.9k)](https://github.com/aalhour/C-Sharp-Algorithms)
+    *   [by @shkolovy (⭐35)](https://github.com/shkolovy/classic-algorithms)
+    *   [by @aalhour (⭐6k)](https://github.com/aalhour/C-Sharp-Algorithms)
     *   [by @justcoding121 (⭐1.3k)](https://github.com/justcoding121/Advanced-Algorithms)
 
 ## [12. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
@@ -106,8 +106,8 @@
 ### Scripts / GitHub
 
 *   [Gist to dabblet (⭐1.8k)](https://github.com/Mottie/GitHub-userscripts/wiki/Gist-to-dabblet) - Add a Dabblet link to Gists saved from Dabblet.
-*   [GitHub Custom Emojis (⭐72)](https://github.com/StylishThemes/GitHub-Custom-Emojis) - Add custom emojis anywhere on GitHub.
-*   [GitHub Dark Script (⭐550)](https://github.com/StylishThemes/GitHub-Dark-Script) - Apply the [GitHub-Dark (⭐9.6k)](https://github.com/StylishThemes/GitHub-Dark) style to the site.
+*   [GitHub Custom Emojis (⭐74)](https://github.com/StylishThemes/GitHub-Custom-Emojis) - Add custom emojis anywhere on GitHub.
+*   [GitHub Dark Script (⭐549)](https://github.com/StylishThemes/GitHub-Dark-Script) - Apply the [GitHub-Dark (⭐9.7k)](https://github.com/StylishThemes/GitHub-Dark) style to the site.
 *   [GitHub code colors (⭐1.8k)](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-code-colors) - Add a color swatch preview to code.
 *   [GitHub code folding (⭐1.8k)](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-code-folding) - Add code folding to files.
 *   [GitHub code guides (⭐1.8k)](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-code-guides) - Add code guides to files and diffs.
@@ -150,7 +150,7 @@
 
 ### Registry
 
-*   [verdaccio (⭐15k)](https://github.com/verdaccio/verdaccio) - Lightweight private npm proxy registry.
+*   [verdaccio (⭐16k)](https://github.com/verdaccio/verdaccio) - Lightweight private npm proxy registry.
 
 ## [17. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
@@ -185,8 +185,8 @@
 
 ### Related awesome lists
 
-*   [Awesome Robotics (⭐628)](https://github.com/ahundt/awesome-robotics)
-*   [Awesome Robotics Libraries (⭐1.6k)](https://github.com/jslee02/awesome-robotics-libraries)
+*   [Awesome Robotics (⭐979)](https://github.com/ahundt/awesome-robotics)
+*   [Awesome Robotics Libraries (⭐2.3k)](https://github.com/jslee02/awesome-robotics-libraries)
 
 ## [22. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
 
@@ -392,18 +392,18 @@
 
 ### REST and API
 
-*   [accent (⭐41)](https://github.com/sticksnleaves/accent) - Plug for handling the conversion of JSON API keys to different cases.
+*   [accent (⭐42)](https://github.com/sticksnleaves/accent) - Plug for handling the conversion of JSON API keys to different cases.
 *   [versionary (⭐40)](https://github.com/sticksnleaves/versionary) - API versioning for Elixir Plug and Phoenix.
 
 ## [37. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/week/README.md)
 
 ### Machine Learning Libraries / Frameworks
 
-*   [weka (⭐64)](https://github.com/paulgoetze/weka-jruby) -
+*   [weka (⭐65)](https://github.com/paulgoetze/weka-jruby) -
     JRuby bindings for Weka, different ML algorithms implemented through Weka.
-*   [ai4r (⭐711)](https://github.com/SergioFierens/ai4r) -
+*   [ai4r (⭐713)](https://github.com/SergioFierens/ai4r) -
     Artificial Intelligence for Ruby.
-*   [classifier-reborn (⭐541)](https://github.com/jekyll/classifier-reborn) -
+*   [classifier-reborn (⭐554)](https://github.com/jekyll/classifier-reborn) -
     General classifier module to allow Bayesian and other types of classifications. <sup>\[[dep: GLS](#gls)]</sup>
 *   [scoruby (⭐68)](https://github.com/asafschers/scoruby) -
     Ruby scoring API for [PMML](http://dmg.org/pmml/v4-3/GeneralStructure.html) (Predictive Model Markup Language).
@@ -412,9 +412,9 @@
 
 *   [neural-net-ruby (⭐127)](https://github.com/gbuesing/neural-net-ruby) -
     Neural network written in Ruby.
-*   [ruby-fann (⭐465)](https://github.com/tangledpath/ruby-fann) -
+*   [ruby-fann (⭐498)](https://github.com/tangledpath/ruby-fann) -
     Ruby bindings to the [Fast Artificial Neural Network Library (FANN)](http://leenissen.dk/fann/wp/).
-*   [cerebrum (⭐35)](https://github.com/irfansharif/cerebrum) -
+*   [cerebrum (⭐36)](https://github.com/irfansharif/cerebrum) -
     Experimental implementation for Artificial Neural Networks in Ruby.
 *   [tlearn-rb (⭐96)](https://github.com/josephwilk/tlearn-rb) -
     Recurrent Neural Network library for Ruby.
@@ -431,16 +431,16 @@
 
 ### Machine Learning Libraries / Bayesian methods
 
-*   [linnaeus (⭐37)](https://github.com/djcp/linnaeus) -
+*   [linnaeus (⭐38)](https://github.com/djcp/linnaeus) -
     Redis-backed Bayesian classifier.
-*   [naive\_bayes (⭐47)](https://github.com/reddavis/Naive-Bayes) -
+*   [naive\_bayes (⭐49)](https://github.com/reddavis/Naive-Bayes) -
     Simple Naive Bayes classifier.
-*   [nbayes (⭐152)](https://github.com/oasic/nbayes) -
+*   [nbayes (⭐153)](https://github.com/oasic/nbayes) -
     Full-featured, Ruby implementation of Naive Bayes.
 
 ### Machine Learning Libraries / Linear classifiers
 
-*   [liblinear-ruby-swig (⭐82)](https://github.com/tomz/liblinear-ruby-swig) -
+*   [liblinear-ruby-swig (⭐83)](https://github.com/tomz/liblinear-ruby-swig) -
     Ruby interface to LIBLINEAR (much more efficient than LIBSVM for text classification).
 *   [liblinear-ruby (⭐83)](https://github.com/kei500/liblinear-ruby) -
     Ruby interface to LIBLINEAR using SWIG.
@@ -579,7 +579,7 @@
 
 ### Database
 
-*   [SimDB (⭐515)](https://github.com/LiveAsynchronousVisualizedArchitecture/simdb) - High performance, shared memory, lock free, cross platform, single file, minimal dependencies, C++11 key-value store. \[Apache2]
+*   [SimDB (⭐540)](https://github.com/LiveAsynchronousVisualizedArchitecture/simdb) - High performance, shared memory, lock free, cross platform, single file, minimal dependencies, C++11 key-value store. \[Apache2]
 
 ## [41. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
 
@@ -598,11 +598,11 @@
 
 ## [43. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
-### Username Check / Telegram
+### Username Check / Steam
 
 *   [Name Checkr](http://www.namecheckr.com) - checks a domain and username across many platforms.
 
-### VPN Services / Telegram
+### VPN Services / Steam
 
 *   [TorrentFreak List of VPNs](https://torrentfreak.com/vpn-services-anonymous-review-2017-170304/)
 
@@ -610,7 +610,7 @@
 
 ### CLI Builders
 
-*   [clim (⭐121)](https://github.com/at-grandpa/clim) - Slim command line interface builder
+*   [clim (⭐123)](https://github.com/at-grandpa/clim) - Slim command line interface builder
 
 ## [45. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
 
@@ -660,20 +660,11 @@
 *   [Vue JS: Simultaneously Running Express and Webpack Dev Server](https://medium.com/dailyjs/vue-js-simultaneously-running-express-and-webpack-dev-server-292f4a7ed7a3) on Medium by Henrik Fogelberg
 *   [Vue JS 2 Tutorials](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa) on Youtube by [The Net Ninja](https://www.thenetninja.co.uk)
 
-### Projects Using Vue.js / Open Source
-
-*   [Dockeron (⭐795)](https://github.com/dockeron/dockeron) - A project built on Electron + Vue.js for Docker on desktop.
-
-### Components & Libraries / Utilities
-
-*   [jsx-vue-functional (⭐66)](https://github.com/nickmessing/babel-plugin-jsx-vue-functional) - A Babel plugin that brings syntactic sugar for Vue functional components.
-*   [jsx-event-modifiers (⭐44)](https://github.com/nickmessing/babel-plugin-jsx-event-modifiers) - A Babel plugin that adds event modifiers similar to Vue templates to JSX.
-
 ## [48. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### GUI
 
-*   [Avalonia (⭐25k)](https://github.com/AvaloniaUI/Avalonia) - A multi-platform .NET UI framework (formerly known as Perspex).
+*   [Avalonia (⭐27k)](https://github.com/AvaloniaUI/Avalonia) - A multi-platform .NET UI framework (formerly known as Perspex).
 
 ---
 

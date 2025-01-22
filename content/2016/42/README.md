@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 17 - Oct 23, 2016
 
-48 awesome lists updated this week.
+47 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -38,7 +38,7 @@
 
 ### Polyglot
 
-*   [Hprose](http://github.com/hprose) - A very newbility RPC Library, support 25+ languages now.
+*   [Hprose](http://github.com/hprose) - A very newability RPC Library, support 25+ languages now.
 
 ## [6. Awesome Speaking](/content/matteofigus/awesome-speaking/week/README.md)
 
@@ -133,8 +133,8 @@
 
 ### Related Projects / Themes
 
-*   [Grammar of Graphics](https://g2.alipay.com/) - Pure javascript, powerful semantic graph generation tool for big data which provides a set of graphical syntax that lets users build with simple syntax a myriad of charts and integrates a large number of statistical tools, ([Read more (⭐123)](https://github.com/antvis/feedback)).
-*   [Ant Visualization](https://antv.alipay.com/) - Professional data visualization specification that aims to put several years of valuable data pattern group work in the process of exploring data visualization to share with all people who need data visualization theory. AntV consists of few parts, data, design specifications and rules for use of the chart, ([Read more (⭐123)](https://github.com/antvis/feedback)).
+*   [Grammar of Graphics](https://g2.alipay.com/) - Pure javascript, powerful semantic graph generation tool for big data which provides a set of graphical syntax that lets users build with simple syntax a myriad of charts and integrates a large number of statistical tools, ([Read more (⭐124)](https://github.com/antvis/feedback)).
+*   [Ant Visualization](https://antv.alipay.com/) - Professional data visualization specification that aims to put several years of valuable data pattern group work in the process of exploring data visualization to share with all people who need data visualization theory. AntV consists of few parts, data, design specifications and rules for use of the chart, ([Read more (⭐124)](https://github.com/antvis/feedback)).
 
 ### Vue.js / Themes
 
@@ -144,11 +144,11 @@
 
 ### Boilerplates / Themes
 
-*   [React Admin (⭐596)](https://github.com/fireyy/react-antd-admin) - React Admin UI built on Ant Design (username: admin, password: 123456).
-*   [React Redux (⭐413)](https://github.com/Justin-lu/react-redux-antd) - React Redux for CMS/Enterprise class apps (ERP/Admin) built with Ant Design.
-*   [Webbf (⭐390)](https://github.com/peterchenhdu/webbf) - Java demo that uses Maven to build the backend with Spring, Spring MVC and Mybatis. React, Reflux, Eebpack, jQuery, React-bootstrap and Ant Design.
+*   [React Admin (⭐597)](https://github.com/fireyy/react-antd-admin) - React Admin UI built on Ant Design (username: admin, password: 123456).
+*   [React Redux (⭐417)](https://github.com/Justin-lu/react-redux-antd) - React Redux for CMS/Enterprise class apps (ERP/Admin) built with Ant Design.
+*   [Webbf (⭐438)](https://github.com/peterchenhdu/webbf) - Java demo that uses Maven to build the backend with Spring, Spring MVC and Mybatis. React, Reflux, Eebpack, jQuery, React-bootstrap and Ant Design.
 *   [React Redux Intro (⭐33)](https://github.com/LeuisKen/react-redux-intro) - Demo app built with Ant Design and can be configured to initialize a Redux dependencies.
-*   [CL React (⭐177)](https://github.com/chenliang2016/CLReactAntDesign) - Based on Ant Design front-end framework structures for enterprise back-office software.
+*   [CL React (⭐176)](https://github.com/chenliang2016/CLReactAntDesign) - Based on Ant Design front-end framework structures for enterprise back-office software.
 *   [TODO MVC (⭐10)](https://github.com/cupools/todoMVC-react) - Todo list built with React and Ant Design.
 
 ## [14. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
@@ -407,13 +407,7 @@
 
 *   [How to create a chatbot without coding a single line](https://chatbotsmagazine.com/how-to-create-a-chatbot-without-coding-a-single-line-e716840c7245#.kimh0igkz)
 
-## [34. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
-
-### Resources / Tutorials
-
-*   [Jayway Vue.js 2 workshop. Build an e-commerce site with vue-router, vuex and vue-resource](https://github.com/jayway/vue-js-workshop)
-
-## [35. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
+## [34. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
 
 ### Security / Links
 
@@ -424,26 +418,26 @@
     *   [Architecting Containers Part 2: Why the User Space Matters](http://rhelblog.redhat.com/2015/09/17/architecting-containers-part-2-why-the-user-space-matters-2/)
     *   [Secure Your Containers with this One Weird Trick](http://rhelblog.redhat.com/2016/10/17/secure-your-containers-with-this-one-weird-trick/)
 
-## [36. Awesome Projects Boilerplates](/content/melvin0008/awesome-projects-boilerplates/week/README.md)
+## [35. Awesome Projects Boilerplates](/content/melvin0008/awesome-projects-boilerplates/week/README.md)
 
 ### Websites
 
 *   [Jekyll Starter Kit (⭐146)](https://github.com/nirgn975/generator-jekyll-starter-kit) Jekyll Progressive Web App generator boilerplate.
 
-## [37. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [36. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Docker Related
 
 *   [Docker Hub](https://hub.docker.com) — One free private repository and unlimited public repositories to build and store Docker images
 *   [quay.io](https://quay.io/) — Build and store container images with unlimited free public repositories
 
-## [38. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [37. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Open Source / Other
 
 *   [Boostnote (⭐17k)](https://github.com/BoostIO/Boostnote) - Markdown note & code snippet app for developers.
 
-## [39. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [38. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / Data Analysis / Data Visualization
 
@@ -451,13 +445,13 @@
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
-*   [Suiron (⭐704)](https://github.com/kendricktan/suiron/) - Machine Learning for RC Cars.
+*   [Suiron (⭐706)](https://github.com/kendricktan/suiron/) - Machine Learning for RC Cars.
 
 ### R / General-Purpose Machine Learning
 
 *   [TDSP-Utilities (⭐373)](https://github.com/Azure/Azure-TDSP-Utilities) - Two data science utilities in R from Microsoft: 1) Interactive Data Exploration, Analysis, and Reporting (IDEAR) ; 2) Automated Modelling and Reporting (AMR).
 
-## [40. Awesome Neo4j](/content/neueda/awesome-neo4j/week/README.md)
+## [39. Awesome Neo4j](/content/neueda/awesome-neo4j/week/README.md)
 
 ### Bolt
 
@@ -480,7 +474,7 @@
 
 *   [Hardware Sizing Calculator](https://neo4j.com/hardware-sizing-calculator/)
 
-## [41. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [40. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### Books
 
@@ -567,7 +561,7 @@
 *   [Software Engineering Radio Episode 225: Eric Evans on Domain-Driven Design at 10 Years](http://www.se-radio.net/2015/05/se-radio-episode-226-eric-evans-on-domain-driven-design-at-10-years/) - 13 May 2015.
 *   [Software Engineering Radio Episode 218: Udi Dahan on CQRS (Command Query Responsibility Segregation)](http://www.se-radio.net/2015/01/episode-218-udi-dahan-on-cqrs-command-query-responsibility-segregation/) - 30 January 2015.
 
-## [42. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [41. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Culture
 
@@ -586,7 +580,7 @@
 
 *   [Susan J. Fowler](http://www.susanjfowler.com/blog/) - Various blog posts about SRE, Software Engineering and Microservices.
 
-## [43. Awesome Json Datasets](/content/jdorfman/awesome-json-datasets/week/README.md)
+## [42. Awesome Json Datasets](/content/jdorfman/awesome-json-datasets/week/README.md)
 
 ### Gaming
 
@@ -630,9 +624,9 @@
 
 ### More Awesome Lists
 
-*   [Public APIs (⭐2k)](https://github.com/toddmotto/public-apis) *(JSON APIs for use in web dev, some of which require authentication)*
+*   [Public APIs (⭐2.2k)](https://github.com/toddmotto/public-apis) *(JSON APIs for use in web dev, some of which require authentication)*
 
-## [44. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [43. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### GUI
 
@@ -646,7 +640,7 @@
 
 *   [The Android Arsenal](https://android-arsenal.com/) - Large list of android libraries
 
-## [45. Awesome Ssh](/content/moul/awesome-ssh/week/README.md)
+## [44. Awesome Ssh](/content/moul/awesome-ssh/week/README.md)
 
 ### Apps / Tools using the   *SSH*   protocol
 
@@ -690,7 +684,7 @@
 *   [01/14/2016](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2016-0777) - Integer Overflow `CVE 2016 077[7-8]`.
 *   [Security/Guidelines/OpenSSH - MozillaWiki](https://wiki.mozilla.org/Security/Guidelines/OpenSSH) - `sshd\_config` for `6.7+`, `5.3`.
 
-## [46. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [45. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### CLI
 
@@ -698,15 +692,15 @@
 
 ### DLR
 
-*   [cmd (⭐352)](https://github.com/manojlds/cmd) - C# library to run external programs in a simpler way. Demonstration of "dynamic" features of C#.
+*   [cmd (⭐359)](https://github.com/manojlds/cmd) - C# library to run external programs in a simpler way. Demonstration of "dynamic" features of C#.
 
 ### Functional programming
 
-*   [language-ext (⭐6.4k)](https://github.com/louthy/language-ext) - This library uses and abuses the features of C# 6+ to provide a functional 'Base class library', that, if you squint, can look like extensions to the language itself. It also includes an 'Erlang like' process system (actors) that can optionally persist messages and state to Redis (note you can use it without Redis for in-app messaging). The process system additionally supports Rx streams of messages and state allowing for a complete system of reactive events and message dispatch.
+*   [language-ext (⭐6.6k)](https://github.com/louthy/language-ext) - This library uses and abuses the features of C# 6+ to provide a functional 'Base class library', that, if you squint, can look like extensions to the language itself. It also includes an 'Erlang like' process system (actors) that can optionally persist messages and state to Redis (note you can use it without Redis for in-app messaging). The process system additionally supports Rx streams of messages and state allowing for a complete system of reactive events and message dispatch.
 
 ### Graphics
 
-*   [LibTessDotNet (⭐310)](https://github.com/speps/LibTessDotNet) - .NET port of the famous GLU Tessellator, triangulates polygons
+*   [LibTessDotNet (⭐319)](https://github.com/speps/LibTessDotNet) - .NET port of the famous GLU Tessellator, triangulates polygons
 
 ### IDE
 
@@ -722,17 +716,17 @@
 
 ### Office
 
-*   [ClosedXML (⭐4.6k)](https://github.com/ClosedXML/ClosedXML) - ClosedXML makes it easier for developers to create Excel 2007/2010 files
+*   [ClosedXML (⭐4.9k)](https://github.com/ClosedXML/ClosedXML) - ClosedXML makes it easier for developers to create Excel 2007/2010 files
 
 ### WebSocket
 
-*   [Websockets.PCL (⭐98)](https://github.com/NVentimiglia/Websockets.PCL) - WebSockets.PCL is a portable class library, profile 259, C# WebSocket implementation.
+*   [Websockets.PCL (⭐99)](https://github.com/NVentimiglia/Websockets.PCL) - WebSockets.PCL is a portable class library, profile 259, C# WebSocket implementation.
 
 ### Source Generator
 
-*   [Awesome Unity (⭐6.5k)](https://github.com/RyanNielson/awesome-unity) - A categorized community-driven collection of high-quality awesome Unity assets, projects, and resources.
+*   [Awesome Unity (⭐6.7k)](https://github.com/RyanNielson/awesome-unity) - A categorized community-driven collection of high-quality awesome Unity assets, projects, and resources.
 
-## [47. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/week/README.md)
+## [46. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/week/README.md)
 
 ### Object Detection
 
@@ -765,7 +759,7 @@
 *   Mixing Convolutional and Adversarial Networks
     *   Alec Radford, Luke Metz, Soumith Chintala, "Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks", ICLR 2016. \[[Paper](http://arxiv.org/pdf/1511.06434.pdf)]
 
-## [48. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [47. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Popular Packages / Authentication & Authorization
 

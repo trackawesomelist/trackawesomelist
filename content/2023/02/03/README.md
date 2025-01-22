@@ -14,12 +14,12 @@
 
 ### Debug
 
-*   [snitch (⭐253)](https://github.com/cschreib/snitch) - Lightweight C++20 testing framework. \[Boost]
+*   [snitch (⭐273)](https://github.com/cschreib/snitch) - Lightweight C++20 testing framework. \[Boost]
 
 ### Game Engine
 
-*   [Torque2D (⭐1.2k)](https://github.com/TorqueGameEngines/Torque2D) - An open-source and cross-platform C++ engine built for 2D game development. \[MIT] [website](https://torque3d.org/torque2d)
-*   [Torque3D (⭐1.4k)](https://github.com/TorqueGameEngines/Torque3D) - An open-source C++ engine built for 3D game development. \[MIT] [website](https://torque3d.org/torque3d)
+*   [Torque2D (⭐1.3k)](https://github.com/TorqueGameEngines/Torque2D) - An open-source and cross-platform C++ engine built for 2D game development. \[MIT] [website](https://torque3d.org/torque2d)
+*   [Torque3D (⭐1.6k)](https://github.com/TorqueGameEngines/Torque3D) - An open-source C++ engine built for 3D game development. \[MIT] [website](https://torque3d.org/torque3d)
 
 ### Math
 
@@ -53,13 +53,13 @@
 
 ### Libraries / System
 
-*   [GuillaumeGomez/sysinfo (⭐2k)](https://github.com/GuillaumeGomez/sysinfo) \[[sysinfo](https://crates.io/crates/sysinfo)] - Cross-platform library to fetch system information [![build badge](https://github.com/GuillaumeGomez/sysinfo/actions/workflows/CI.yml/badge.svg?branch=master)](https://github.com/GuillaumeGomez/sysinfo/actions/workflows/CI.yml)
+*   [GuillaumeGomez/sysinfo (⭐2.4k)](https://github.com/GuillaumeGomez/sysinfo) \[[sysinfo](https://crates.io/crates/sysinfo)] - Cross-platform library to fetch system information [![build badge](https://github.com/GuillaumeGomez/sysinfo/actions/workflows/CI.yml/badge.svg?branch=master)](https://github.com/GuillaumeGomez/sysinfo/actions/workflows/CI.yml)
 
 ## [5. Awesome Snmp](/content/eozer/awesome-snmp/README.md)
 
 ### Libraries / Go
 
-*   [sleepinggenius2/gosmi (⭐90)](https://github.com/sleepinggenius2/gosmi) - MIB parser in Go language.
+*   [sleepinggenius2/gosmi (⭐99)](https://github.com/sleepinggenius2/gosmi) - MIB parser in Go language.
 
 ## [6. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
 
@@ -112,13 +112,13 @@
 
 ### .NET Clients
 
-*   [RestSharp (⭐9.6k)](https://github.com/restsharp/RestSharp) - Simple REST and HTTP API client for .NET
-*   [Refit (⭐8.4k)](https://github.com/reactiveui/refit) - The automatic type-safe REST library for Xamarin and .NET
+*   [RestSharp (⭐9.7k)](https://github.com/restsharp/RestSharp) - Simple REST and HTTP API client for .NET
+*   [Refit (⭐8.8k)](https://github.com/reactiveui/refit) - The automatic type-safe REST library for Xamarin and .NET
 *   [Flurl](https://flurl.dev) - Fluent, portable, testable REST/HTTP client library
 *   [RestEase (⭐1.1k)](https://github.com/canton7/RestEase) - Easy-to-use typesafe REST API client library, which is simple and customisable. Heavily inspired by Refit
 *   [Tiny.RestClient (⭐210)](https://github.com/jgiacomini/Tiny.RestClient) - Simpliest Fluent REST client for .NET.
-*   [RestLess (⭐112)](https://github.com/letsar/RestLess) - The automatic type-safe-reflectionless REST API client library for .Net Standard.
-*   [Apizr (⭐131)](https://github.com/Respawnsive/Apizr) - Refit-based web api client, but resilient (retry, connectivity, cache, auth, log, priority, etc...).
+*   [RestLess (⭐111)](https://github.com/letsar/RestLess) - The automatic type-safe-reflectionless REST API client library for .Net Standard.
+*   [Apizr (⭐146)](https://github.com/Respawnsive/Apizr) - Refit-based web api client, but resilient (retry, connectivity, cache, auth, log, priority, etc...).
 
 ### Node.js
 
@@ -154,7 +154,7 @@
 ### Public REST APIs To Use In Tests / Symfony2
 
 *   [Deck of Cards API](https://deckofcardsapi.com) - Open API for simulating a deck of cards.
-*   [Public APIS (⭐309k)](https://github.com/public-apis/public-apis) - Explore The Largest API Directory In The Galaxy.
+*   [Public APIS (⭐325k)](https://github.com/public-apis/public-apis) - Explore The Largest API Directory In The Galaxy.
 *   [Marvel Comics API](https://developer.marvel.com/) - Query characters, stories, events about Marvel superheroes.
 *   [JSON Placeholder](https://jsonplaceholder.typicode.com/) - Free online REST service that you can use whenever you need some fake data.
 *   [APIs.guru](https://APIs.guru) - Wikipedia for Web APIs, each API has OpenAPI/Swagger description.
@@ -169,7 +169,7 @@
 
 ### IDE Extensions
 
-*   [CSS to TailwindCSS converter for Code (⭐57)](https://github.com/Jackardios/vscode-css-to-tailwindcss) - Converts CSS to Tailwind CSS in Visual Studio Code.
+*   [CSS to TailwindCSS converter for Code (⭐67)](https://github.com/Jackardios/vscode-css-to-tailwindcss) - Converts CSS to Tailwind CSS in Visual Studio Code.
 
 ## [10. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
@@ -181,20 +181,20 @@
 
 ### Templates / React
 
-*   [template-vite-react-ts-tailwind (⭐44)](https://github.com/RoyRao2333/template-vite-react-ts-tailwind) - React + TypeScript + Tailwind CSS + Eslint + Prettier.
+*   [template-vite-react-ts-tailwind (⭐59)](https://github.com/RoyRao2333/template-vite-react-ts-tailwind) - React + TypeScript + Tailwind CSS + Eslint + Prettier.
 
 ## [12. Awesome Mysql](/content/shlomi-noach/awesome-mysql/README.md)
 
 ### GUI
 
-*   [ILLA Cloud (⭐11k)](https://github.com/illacloud/illa-builder) - Low-code internal tool builder integrated with Mysql, can be used as GUI for Mysql.
+*   [ILLA Cloud (⭐12k)](https://github.com/illacloud/illa-builder) - Low-code internal tool builder integrated with Mysql, can be used as GUI for Mysql.
 
 ## [13. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
 ### XM Cloud
 
 *   [Next.js Styleguide for XM Cloud (⭐3)](https://github.com/sitecorelabs/XmCloudNextJsJssStyleguide) - A solution designed to help developers learn and get started quickly with Sitecore Containers, the Sitecore Next.js SDK, and Sitecore Content Serialization.
-*   [XM Cloud Starter Kit (⭐40)](https://github.com/sitecorelabs/xmcloud-foundation-head) - A solution designed to help developers learn and get started quickly with XMCLoud + SXA + Next.js.
+*   [XM Cloud Starter Kit (⭐48)](https://github.com/sitecorelabs/xmcloud-foundation-head) - A solution designed to help developers learn and get started quickly with XMCLoud + SXA + Next.js.
 
 ## [14. Awesome Nlg](/content/accelerated-text/awesome-nlg/README.md)
 
@@ -204,16 +204,16 @@
 
 ## [15. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
-### Username Check / Telegram
+### Username Check / Steam
 
-*   [NexFil (⭐2.2k)](https://github.com/thewhiteh4t/nexfil) - checks username from almost all social network sites.
-*   [Seekr (⭐514)](https://github.com/seekr-osint/seekr) A multi-purpose all in one toolkit for gathering and managing OSINT-Data with a neat web-interface. Can be used for note taking and username checking.
+*   [NexFil (⭐2.3k)](https://github.com/thewhiteh4t/nexfil) - checks username from almost all social network sites.
+*   [Seekr (⭐591)](https://github.com/seekr-osint/seekr) A multi-purpose all in one toolkit for gathering and managing OSINT-Data with a neat web-interface. Can be used for note taking and username checking.
 
-### Video Search and Other Video Tools / Telegram
+### Video Search and Other Video Tools / Steam
 
 *   [Find YouTube Video](https://findyoutubevideo.thetechrobo.ca/) - Searches currently 5 YouTube archives for specific videos by ID, which is really useful for finding deleted or private YouTube videos.
-*   [Tubuep (⭐396)](https://github.com/bibanon/tubeup) - Downloads online videos via yt-dlp, then reuploads them to the Internet Archive for preservation. Note: if you would like to archive comments too, you need to install version 0.0.33 and use the --get-comments flag, however you will still have the new yt-dlp fixes and features, but existing tubeup bugs cannot be fixed, unless you do manual work.
-*   [yt-dlp (⭐77k)](https://github.com/yt-dlp/yt-dlp/) - Downloads videos from almost any online platform, along with information, thumbnails, subtitles, descriptions, and comments (comments only on a select few sites like Youtube and a few small sites). If a site is not supported, or a useful or crucial piece of metadata, including comments, is missing, create an issue.
+*   [Tubuep (⭐429)](https://github.com/bibanon/tubeup) - Downloads online videos via yt-dlp, then reuploads them to the Internet Archive for preservation. Note: if you would like to archive comments too, you need to install version 0.0.33 and use the --get-comments flag, however you will still have the new yt-dlp fixes and features, but existing tubeup bugs cannot be fixed, unless you do manual work.
+*   [yt-dlp (⭐97k)](https://github.com/yt-dlp/yt-dlp/) - Downloads videos from almost any online platform, along with information, thumbnails, subtitles, descriptions, and comments (comments only on a select few sites like Youtube and a few small sites). If a site is not supported, or a useful or crucial piece of metadata, including comments, is missing, create an issue.
 
 ## [16. Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md)
 
@@ -221,7 +221,7 @@
 
 *   [FreeCodeCamp - Algorithms and Data Structures Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=8hly31xKli0) - Complete beginner friendly Algorithms and Data Structures Tutorial with mindblowing animation.
 *   [Abdul Bari - Introduction to Algorithm](https://www.youtube.com/watch?v=0IAPZzGSbME\&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O) - This playlist is so much informative and provide simulation with code example. As like as you are in a class.
-*   [Jenny's Lectures- Algorithm](https://www.youtube.com/watch?v=AT14lCXuMKI\&list=PLdo5W4Nhv31bbKJzrsKfMpo_grxuLl8LU) - Another complete alogrithm playlist from basic level to intermediate. Easy explanation and simulation.
+*   [Jenny's Lectures- Algorithm](https://www.youtube.com/watch?v=AT14lCXuMKI\&list=PLdo5W4Nhv31bbKJzrsKfMpo_grxuLl8LU) - Another complete algorithm playlist from basic level to intermediate. Easy explanation and simulation.
 
 ## [17. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
 
@@ -229,12 +229,12 @@
 
 *   [TUFF](https://theupdateframework.io/security/) - We can think of a software update system as “secure” if:
 
-### Optics and Extra Info / Xen Exploitation
+### Exploitation Tools / Xen Exploitation
 
 *   [Advanced Exploitation](https://www.youtube.com/watch?v=6Ld5CiInrcI) - Xen Hypervisor VM Escape
 *   [Hypervisor Vulnerability Research \[PDF\]](https://alisa.sh/slides/HypervisorVulnerabilityResearch2020.pdf) - State of the Art
 
-### Optics and Extra Info / Web articles
+### Exploitation Tools / Web articles
 
 *   [Glitches in the Matrix](https://www.cpl0.com/blog/?p=46) - Escape via NMI
 
@@ -258,9 +258,9 @@
 
 ## [21. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
-### 3D / Godot 3.2+
+### 3D / Godot 4
 
-*   [Tanks of Freedom II (⭐216)](https://github.com/P1X-in/Tanks-of-Freedom-3-D) - Free turn-based isometric strategy game in voxel art.
+*   [Tanks of Freedom II (⭐269)](https://github.com/P1X-in/Tanks-of-Freedom-3-D) - Free turn-based isometric strategy game in voxel art.
 
 ## [22. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/README.md)
 
@@ -784,7 +784,7 @@
 
 ### Development / Devops
 
-*   [updatecli (⭐483)](https://github.com/updatecli/updatecli) - A declarative dependency management tool.
+*   [updatecli (⭐577)](https://github.com/updatecli/updatecli) - A declarative dependency management tool.
 
 ---
 

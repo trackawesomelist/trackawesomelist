@@ -10,11 +10,11 @@
 
 ### Projects / Boilerplate
 
-*   [django-base-site (⭐364)](https://github.com/epicserve/django-base-site/) - A Django site with many common third-party packages pre-installed.
+*   [django-base-site (⭐405)](https://github.com/epicserve/django-base-site/) - A Django site with many common third-party packages pre-installed.
 
 ## [2. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
 
-### Social media / Web articles
+### Social media / Extra Info
 
 *   [Forum](https://forum.qubes-os.org/) - Qubes OS Discorse Forum
 

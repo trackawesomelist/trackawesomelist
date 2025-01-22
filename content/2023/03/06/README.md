@@ -14,7 +14,7 @@
 
 ### Resources / Talks and videos
 
-*   [Polars: The main alternative to pandas in Python!?](https://www.youtube.com/playlist?list=PLo9Vi5B84_dfAuwJqNYG4XhZMrGTF3sBx) ⏳ `57 min` - A Polars tutorial series on Youtube by [@martinbel](https://github.com/martinbel). Notebooks and datasets used for the videos available [in this github repo (⭐34)](https://github.com/martinbel/polars-tutorial).
+*   [Polars: The main alternative to pandas in Python!?](https://www.youtube.com/playlist?list=PLo9Vi5B84_dfAuwJqNYG4XhZMrGTF3sBx) ⏳ `57 min` - A Polars tutorial series on Youtube by [@martinbel](https://github.com/martinbel). Notebooks and datasets used for the videos available [in this github repo (⭐47)](https://github.com/martinbel/polars-tutorial).
 *   [Polars: The Super Fast Dataframe Library for Python — Goodbye Pandas?](https://artificialcorner.com/polars-the-super-fast-dataframe-library-for-python-goodbye-pandas-85156e84337f) - An article and a [video](https://www.youtube.com/watch?v=CByx7XjYMhw) ⏳ `19 min` that explores some basic features of Polars by [@ifrankandrade](https://github.com/ifrankand).
 
 ## [2. Awesome Malware Persistence](/content/Karneades/awesome-malware-persistence/README.md)
@@ -23,40 +23,40 @@
 
 *   [Linux Persistence Techniques](https://research.splunk.com/stories/linux_persistence_techniques/) - List of persistence techniques.
 *   [Linux Red Team Persistence Techniques](https://www.linode.com/docs/guides/linux-red-team-persistence-techniques/) - List of persistence techniques.
-*   [ebpfkit (⭐739)](https://github.com/Gui774ume/ebpfkit) - Rootkit leveraging eBPF.
-*   [TripleCross (⭐1.7k)](https://github.com/h3xduck/TripleCross) - Rootkit leveraging eBPF.
+*   [ebpfkit (⭐764)](https://github.com/Gui774ume/ebpfkit) - Rootkit leveraging eBPF.
+*   [TripleCross (⭐1.8k)](https://github.com/h3xduck/TripleCross) - Rootkit leveraging eBPF.
 
 ## [3. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### Books, blogs, and training materials / Free and public materials
 
-*   [ESP32-C3 Rust Tutorials](https://youtube.com/playlist?list=PLkch9g9DEE0Lkm1LqcD7pZNDmXEczOo-a) Short videos and [Github project (⭐63)](https://github.com/shanemmattner/ESP32-C3_Rust_Tutorials) implementing various peripherals of the ESP32-C3 with the end goal of creating a complete data logger application.
+*   [ESP32-C3 Rust Tutorials](https://youtube.com/playlist?list=PLkch9g9DEE0Lkm1LqcD7pZNDmXEczOo-a) Short videos and [Github project (⭐68)](https://github.com/shanemmattner/ESP32-C3_Rust_Tutorials) implementing various peripherals of the ESP32-C3 with the end goal of creating a complete data logger application.
 
 ### Peripheral Access Crates / Renesas
 
-*   [`ra2a1`](https://github.com/ra-rs/ra/tree/main/pac/ra2a1) Peripheral Access Crate for ra2a1 microcontrollers (generated using svd2rust) - ![crates.io](https://img.shields.io/crates/v/ra2a1.svg)
-*   [`ra2e1`](https://github.com/ra-rs/ra/tree/main/pac/ra2e1) Peripheral Access Crate for ra2e1 microcontrollers (generated using svd2rust) - ![crates.io](https://img.shields.io/crates/v/ra2e1.svg)
-*   [`ra2e2`](https://github.com/ra-rs/ra/tree/main/pac/ra2e2) Peripheral Access Crate for ra2e2 microcontrollers (generated using svd2rust) - ![crates.io](https://img.shields.io/crates/v/ra2e2.svg)
-*   [`ra2l1`](https://github.com/ra-rs/ra/tree/main/pac/ra2l1) Peripheral Access Crate for ra2l1 microcontrollers (generated using svd2rust) - ![crates.io](https://img.shields.io/crates/v/ra2l1.svg)
-*   [`ra4e1`](https://github.com/ra-rs/ra/tree/main/pac/ra4e1) Peripheral Access Crate for ra4e1 microcontrollers (generated using svd2rust) - ![crates.io](https://img.shields.io/crates/v/ra4e1.svg)
-*   [`ra4m1`](https://github.com/ra-rs/ra/tree/main/pac/ra4m1) Peripheral Access Crate for ra4m1 microcontrollers (generated using svd2rust) - ![crates.io](https://img.shields.io/crates/v/ra4m1.svg)
-*   [`ra4m2`](https://github.com/ra-rs/ra/tree/main/pac/ra4m2) Peripheral Access Crate for ra4m2 microcontrollers (generated using svd2rust) - ![crates.io](https://img.shields.io/crates/v/ra4m2.svg)
-*   [`ra4m3`](https://github.com/ra-rs/ra/tree/main/pac/ra4m3) Peripheral Access Crate for ra4m3 microcontrollers (generated using svd2rust) - ![crates.io](https://img.shields.io/crates/v/ra4m3.svg)
-*   [`ra4w1`](https://github.com/ra-rs/ra/tree/main/pac/ra4w1) Peripheral Access Crate for ra4w1 microcontrollers (generated using svd2rust) - ![crates.io](https://img.shields.io/crates/v/ra4w1.svg)
-*   [`ra6e1`](https://github.com/ra-rs/ra/tree/main/pac/ra6e1) Peripheral Access Crate for ra6e1 microcontrollers (generated using svd2rust) - ![crates.io](https://img.shields.io/crates/v/ra6e1.svg)
-*   [`ra6m1`](https://github.com/ra-rs/ra/tree/main/pac/ra6m1) Peripheral Access Crate for ra6m1 microcontrollers (generated using svd2rust) - ![crates.io](https://img.shields.io/crates/v/ra6m1.svg)
-*   [`ra6m2`](https://github.com/ra-rs/ra/tree/main/pac/ra6m2) Peripheral Access Crate for ra6m2 microcontrollers (generated using svd2rust) - ![crates.io](https://img.shields.io/crates/v/ra6m2.svg)
-*   [`ra6m3`](https://github.com/ra-rs/ra/tree/main/pac/ra6m3) Peripheral Access Crate for ra6m3 microcontrollers (generated using svd2rust) - ![crates.io](https://img.shields.io/crates/v/ra6m3.svg)
-*   [`ra6m4`](https://github.com/ra-rs/ra/tree/main/pac/ra6m4) Peripheral Access Crate for ra6m4 microcontrollers (generated using svd2rust) - ![crates.io](https://img.shields.io/crates/v/ra6m4.svg)
-*   [`ra6t1`](https://github.com/ra-rs/ra/tree/main/pac/ra6t1) Peripheral Access Crate for ra6t1 microcontrollers (generated using svd2rust) - ![crates.io](https://img.shields.io/crates/v/ra6t1.svg)
-*   [`ra6t2`](https://github.com/ra-rs/ra/tree/main/pac/ra6t2) Peripheral Access Crate for ra6t2 microcontrollers (generated using svd2rust) - ![crates.io](https://img.shields.io/crates/v/ra6t2.svg)
+*   [`ra2a1`](https://github.com/ra-rs/ra/tree/main/pac/ra2a1) Peripheral Access Crate for ra2a1 microcontrollers (generated using svd2rust) - [![crates.io](https://img.shields.io/crates/v/ra2a1.svg)](https://crates.io/crates/ra2a1)
+*   [`ra2e1`](https://github.com/ra-rs/ra/tree/main/pac/ra2e1) Peripheral Access Crate for ra2e1 microcontrollers (generated using svd2rust) - [![crates.io](https://img.shields.io/crates/v/ra2e1.svg)](https://crates.io/crates/ra2e1)
+*   [`ra2e2`](https://github.com/ra-rs/ra/tree/main/pac/ra2e2) Peripheral Access Crate for ra2e2 microcontrollers (generated using svd2rust) - [![crates.io](https://img.shields.io/crates/v/ra2e2.svg)](https://crates.io/crates/ra2e2)
+*   [`ra2l1`](https://github.com/ra-rs/ra/tree/main/pac/ra2l1) Peripheral Access Crate for ra2l1 microcontrollers (generated using svd2rust) - [![crates.io](https://img.shields.io/crates/v/ra2l1.svg)](https://crates.io/crates/ra2l1)
+*   [`ra4e1`](https://github.com/ra-rs/ra/tree/main/pac/ra4e1) Peripheral Access Crate for ra4e1 microcontrollers (generated using svd2rust) - [![crates.io](https://img.shields.io/crates/v/ra4e1.svg)](https://crates.io/crates/ra4e1)
+*   [`ra4m1`](https://github.com/ra-rs/ra/tree/main/pac/ra4m1) Peripheral Access Crate for ra4m1 microcontrollers (generated using svd2rust) - [![crates.io](https://img.shields.io/crates/v/ra4m1.svg)](https://crates.io/crates/ra4m1)
+*   [`ra4m2`](https://github.com/ra-rs/ra/tree/main/pac/ra4m2) Peripheral Access Crate for ra4m2 microcontrollers (generated using svd2rust) - [![crates.io](https://img.shields.io/crates/v/ra4m2.svg)](https://crates.io/crates/ra4m2)
+*   [`ra4m3`](https://github.com/ra-rs/ra/tree/main/pac/ra4m3) Peripheral Access Crate for ra4m3 microcontrollers (generated using svd2rust) - [![crates.io](https://img.shields.io/crates/v/ra4m3.svg)](https://crates.io/crates/ra4m3)
+*   [`ra4w1`](https://github.com/ra-rs/ra/tree/main/pac/ra4w1) Peripheral Access Crate for ra4w1 microcontrollers (generated using svd2rust) - [![crates.io](https://img.shields.io/crates/v/ra4w1.svg)](https://crates.io/crates/ra4w1)
+*   [`ra6e1`](https://github.com/ra-rs/ra/tree/main/pac/ra6e1) Peripheral Access Crate for ra6e1 microcontrollers (generated using svd2rust) - [![crates.io](https://img.shields.io/crates/v/ra6e1.svg)](https://crates.io/crates/ra6e1)
+*   [`ra6m1`](https://github.com/ra-rs/ra/tree/main/pac/ra6m1) Peripheral Access Crate for ra6m1 microcontrollers (generated using svd2rust) - [![crates.io](https://img.shields.io/crates/v/ra6m1.svg)](https://crates.io/crates/ra6m1)
+*   [`ra6m2`](https://github.com/ra-rs/ra/tree/main/pac/ra6m2) Peripheral Access Crate for ra6m2 microcontrollers (generated using svd2rust) - [![crates.io](https://img.shields.io/crates/v/ra6m2.svg)](https://crates.io/crates/ra6m2)
+*   [`ra6m3`](https://github.com/ra-rs/ra/tree/main/pac/ra6m3) Peripheral Access Crate for ra6m3 microcontrollers (generated using svd2rust) - [![crates.io](https://img.shields.io/crates/v/ra6m3.svg)](https://crates.io/crates/ra6m3)
+*   [`ra6m4`](https://github.com/ra-rs/ra/tree/main/pac/ra6m4) Peripheral Access Crate for ra6m4 microcontrollers (generated using svd2rust) - [![crates.io](https://img.shields.io/crates/v/ra6m4.svg)](https://crates.io/crates/ra6m4)
+*   [`ra6t1`](https://github.com/ra-rs/ra/tree/main/pac/ra6t1) Peripheral Access Crate for ra6t1 microcontrollers (generated using svd2rust) - [![crates.io](https://img.shields.io/crates/v/ra6t1.svg)](https://crates.io/crates/ra6t1)
+*   [`ra6t2`](https://github.com/ra-rs/ra/tree/main/pac/ra6t2) Peripheral Access Crate for ra6t2 microcontrollers (generated using svd2rust) - [![crates.io](https://img.shields.io/crates/v/ra6t2.svg)](https://crates.io/crates/ra6t2)
 
 ## [4. Awesome D](/content/dlang-community/awesome-d/README.md)
 
 ### Machine Learning / XML
 
-*   [grain2 (⭐6)](https://github.com/ShigekiKarita/grain2) - Autograd and GPGPU library for dynamic neural networks in D
-*   [tfd (⭐30)](https://github.com/ShigekiKarita/tfd) -  Tensorflow wrapper for D
+*   [grain2 (⭐7)](https://github.com/ShigekiKarita/grain2) - Autograd and GPGPU library for dynamic neural networks in D
+*   [tfd (⭐31)](https://github.com/ShigekiKarita/tfd) -  Tensorflow wrapper for D
 
 ## [5. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
@@ -91,7 +91,7 @@
 
 ### Templates / React
 
-*   [vite-react-ts-template (⭐75)](https://github.com/bartstc/vite-ts-react-template) - React 18, TypeScript, ESlint, Prettier, Dev Container, Vitest, Storybook, Playwright, MSW, React Router 6, React Query, Chakra UI, Zustand.
+*   [vite-react-ts-template (⭐89)](https://github.com/bartstc/vite-ts-react-template) - React 18, TypeScript, ESlint, Prettier, Dev Container, Vitest, Storybook, Playwright, MSW, React Router 6, React Query, Chakra UI, Zustand.
 
 ## [8. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
 
@@ -103,7 +103,7 @@
 
 ### Tools / Development
 
-*   [migrate-mongo (⭐915)](https://github.com/seppevs/migrate-mongo) - Database migration tool
+*   [migrate-mongo (⭐947)](https://github.com/seppevs/migrate-mongo) - Database migration tool
 
 ## [10. Awesome Plone](/content/collective/awesome-plone/README.md)
 
@@ -127,11 +127,11 @@
 
 ### Advanced Console UIs
 
-*   [go-palette (⭐16)](https://github.com/abusomani/go-palette) - Go library that provides elegant and convenient style definitions using ANSI colors. Fully compatible & wraps the [fmt library](https://pkg.go.dev/fmt) for nice terminal layouts.
+*   [go-palette (⭐18)](https://github.com/abusomani/go-palette) - Go library that provides elegant and convenient style definitions using ANSI colors. Fully compatible & wraps the [fmt library](https://pkg.go.dev/fmt) for nice terminal layouts.
 
 ### Third-party APIs
 
-*   [openaigo (⭐287)](https://github.com/otiai10/openaigo) - OpenAI GPT3/GPT3.5 ChatGPT API client library for Go.
+*   [openaigo (⭐290)](https://github.com/otiai10/openaigo) - OpenAI GPT3/GPT3.5 ChatGPT API client library for Go.
 
 ## [14. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
@@ -160,19 +160,19 @@
 ### How-to guides
 
 *   [How to persist Tailscale tunnel in QubesOS  (⭐2)](https://github.com/kennethrrosen/tailscale_QubesOS) - Tailscale is a mesh private network that lets you easily manage access to private resources or quickly SSH into devices on your network.
-*   [How to use Qubes for journalists and Humans Rights Defenders (⭐14)](https://github.com/kennethrrosen/journoSEC) - A suite of tools for improving and streamlining the use of Qubes OS for reporters, edtiors, lawyers and aid workers. Work in progress.
+*   [How to use Qubes for journalists and Humans Rights Defenders (⭐17)](https://github.com/kennethrrosen/journoSEC) - A suite of tools for improving and streamlining the use of Qubes OS for reporters, edtiors, lawyers and aid workers. Work in progress.
     *   [PAM distress login for xscreensaver](https://github.com/kennethrrosen/qubes-PAM-distress-login/) - A simple setup for sending a distress email if forced to login to desktop beyond LUKS passwords.
-    *   [Automated Arkenfox Qubes browser install (⭐14)](https://github.com/kennethrrosen/journoSEC/tree/main/mozilla/arkenfox) - Arkenfox config install for journalists
+    *   [Automated Arkenfox Qubes browser install (⭐17)](https://github.com/kennethrrosen/journoSEC/tree/main/mozilla/arkenfox) - Arkenfox config install for journalists
 
 ## [17. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
 
 ### Miscellaneous / React
 
-*   [graphql-armor (⭐487)](https://github.com/Escape-Technologies/graphql-armor) - An instant security layer for production GraphQL Endpoints.
+*   [graphql-armor (⭐507)](https://github.com/Escape-Technologies/graphql-armor) - An instant security layer for production GraphQL Endpoints.
 
 ### Python / React
 
-*   [sgqlc (⭐507)](https://github.com/profusion/sgqlc) - Simple GraphQL Client makes working with GraphQL API responses easier in Python.
+*   [sgqlc (⭐523)](https://github.com/profusion/sgqlc) - Simple GraphQL Client makes working with GraphQL API responses easier in Python.
 
 ---
 

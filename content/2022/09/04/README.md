@@ -22,7 +22,7 @@
 
 ### AppImage developer tools / Tools to convert from other package formats
 
-*   [arch2appimage (⭐343)](https://github.com/hanzala123/arch2appimage) - Python script to convert any Arch Linux package (official/AUR) to an AppImage.
+*   [arch2appimage (⭐337)](https://github.com/hanzala123/arch2appimage) - Python script to convert any Arch Linux package (official/AUR) to an AppImage.
 
 ## [4. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
@@ -40,7 +40,7 @@
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-validate-env (⭐161)](https://github.com/Julien-R44/vite-plugin-validate-env) - Validate your environment variables at build time. Never forget an environment variable again.
+*   [vite-plugin-validate-env (⭐175)](https://github.com/Julien-R44/vite-plugin-validate-env) - Validate your environment variables at build time. Never forget an environment variable again.
 
 ## [7. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/README.md)
 

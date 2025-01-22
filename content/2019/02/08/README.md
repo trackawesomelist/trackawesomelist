@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 08, 2019
 
-8 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -8,7 +8,7 @@
 
 ## [1. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
-### Other multimodal data formats / Ruby
+### Pilot or development stage / Ruby
 
 *   [NCHRP 08-119 Developing Data Standards and Guidance for Transportation Planning and Traffic Operations - Phase 1 (Anticipated)](http://apps.trb.org/cmsfeed/TRBNetProjectDisplay.asp?ProjectID=4543) - The objective of this research is to develop standards and/or guidance to be used and adopted by the transportation community in collecting, managing, and sharing static and real-time data for transportation planning and operations.
 
@@ -76,13 +76,7 @@
 
 *   [Mixkit](https://mixkit.co/) - A gallery of high-quality videos and animation
 
-## [7. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
-
-### Open Source Projects / Wealth
-
-*   [BetterSelf](https://betterself.io) - An open sourced app for tracking supplements and habits
-
-## [8. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [7. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Package Management
 
@@ -90,7 +84,7 @@
 
 ### Tools
 
-*   [NETworkManager (⭐6.2k)](https://github.com/BornToBeRoot/NETworkManager) - A powerful tool for managing networks and troubleshoot network problems!
+*   [NETworkManager (⭐6.8k)](https://github.com/BornToBeRoot/NETworkManager) - A powerful tool for managing networks and troubleshoot network problems!
 
 ---
 

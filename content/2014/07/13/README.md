@@ -380,7 +380,7 @@
 *   [tipsy (⭐2k)](https://github.com/jaz303/tipsy) - Facebook-style tooltips plugin for jQuery.
 *   [qTip2 (⭐2k)](https://github.com/qTip2/qTip2) - Pretty powerful tooltips.
 *   [tooltipster (⭐2.8k)](https://github.com/iamceege/tooltipster) - A jQuery tooltip plugin.
-*   [simptip (⭐647)](https://github.com/arashmanteghi/simptip) - A simple CSS tooltip made with Sass.
+*   [simptip (⭐648)](https://github.com/arashmanteghi/simptip) - A simple CSS tooltip made with Sass.
 
 ### Modals and Popups / Other
 

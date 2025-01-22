@@ -20,7 +20,7 @@
 
 ### Music Notation
 
-*   [MusicKit (⭐109)](https://github.com/venturemedia/musickit) - Music sheet rendering for iOS and OSX.
+*   [MusicKit (⭐111)](https://github.com/venturemedia/musickit) - Music sheet rendering for iOS and OSX.
 
 ## [3. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/README.md)
 

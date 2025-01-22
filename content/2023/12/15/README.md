@@ -14,7 +14,7 @@
 
 ## [2. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
-### Other Awesome Lists / Book Deals (Affiliated) 🛍
+### Other Awesome Lists / Book Deals (Affiliated)
 
 *   [How Generative AI Is Changing Creative Work](https://hbr.org/2022/11/how-generative-ai-is-changing-creative-work)
 *   [What is generative AI?](https://www.techtarget.com/searchenterpriseai/definition/generative-AI)
@@ -24,9 +24,9 @@
 ### Embedded Systems
 
 *   [Control and Embedded Systems](http://www.learn-c.com) (HTML)
-*   [Discovering the STM32 Microcontroller](http://www.cs.indiana.edu/~geobrown/book.pdf) (PDF)
+*   [Discovering the STM32 Microcontroller](http://www.cs.indiana.edu/~geobrown/book.pdf) (PDF) (CC BY-NC-SA)
 *   [First Steps with Embedded Systems](https://www.phaedsys.com/principals/bytecraft/bytecraftdata/bcfirststeps.pdf) - Byte Craft Limited (PDF)
-*   [Introduction to Embedded Systems, Second Edition](https://ptolemy.berkeley.edu/books/leeseshia/releases/LeeSeshia_DigitalV2_2.pdf) - Edward Ashford Lee, Sanjit Arunkumar Seshia (PDF)
+*   [Introduction to Embedded Systems, Second Edition](https://ptolemy.berkeley.edu/books/leeseshia/releases/LeeSeshia_DigitalV2_2.pdf) - Edward Ashford Lee, Sanjit Arunkumar Seshia (PDF) (CC BY-NC-ND)
 *   [Introduction to Microcontrollers](http://www.embeddedrelated.com/showarticle/453.php) (HTML)
 *   [Mastering the FreeRTOS Real Time Kernel - a Hands On Tutorial Guide](https://freertos.org/Documentation/RTOS_book.html) - freertos.org ([PDF](https://freertos.org/fr-content-src/uploads/2018/07/161204_Mastering_the_FreeRTOS_Real_Time_Kernel-A_Hands-On_Tutorial_Guide.pdf))
 

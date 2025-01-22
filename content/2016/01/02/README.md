@@ -50,7 +50,7 @@
 
 ### Music Notation
 
-*   [OpenLilyLib (⭐115)](https://github.com/openlilylib/snippets/) - LilyPond tools - snippets, templates, and extensions.
+*   [OpenLilyLib (⭐120)](https://github.com/openlilylib/snippets/) - LilyPond tools - snippets, templates, and extensions.
 
 ## [3. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
 
@@ -66,7 +66,7 @@
 
 ### C++ / Gesture Detection
 
-*   [grt (⭐856)](https://github.com/nickgillian/grt) - The Gesture Recognition Toolkit (GRT) is a cross-platform, open-source, C++ machine learning library designed for real-time gesture recognition.
+*   [grt (⭐866)](https://github.com/nickgillian/grt) - The Gesture Recognition Toolkit (GRT) is a cross-platform, open-source, C++ machine learning library designed for real-time gesture recognition.
 
 ## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
@@ -76,7 +76,7 @@
 
 ## [6. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
 
-### Videos
+### Videos / Commerical Tools
 
 *   [Intelligent agents and paradigms for AI](https://youtu.be/7o2GzSj86e8?t=3457)
 

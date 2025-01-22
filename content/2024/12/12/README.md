@@ -16,14 +16,6 @@
     *   [Quantization & Optimization](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/ft.md/#quantization-techniques)
     *   [Other Techniques](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/ft.md/#other-techniques-and-llm-patterns): e.g., MoE
     *   [Visual Prompting](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/prompt.md/#visual-prompting--visual-grounding)
-*   **Legend** 🔑:
-    *   `ref`: external URL
-    *   `doc`: archived doc
-    *   `cite`: the source of comments
-    *   `cnt`: number of citations
-    *   `git`: GitHub link
-    *   `x-ref`: Cross reference
-    *   📺: youtube or video
 
 ## [2. Awesome Acg](/content/soruly/awesome-acg/README.md)
 
@@ -41,30 +33,30 @@
 
 ### Motion / Diagnostics
 
-*   [DanilaMihailov/beacon.nvim (⭐386)](https://github.com/DanilaMihailov/beacon.nvim) - Highlights cursor when it moves, changes windows and more. Inspired by Emacs beacon package.
-*   [Aaronik/Treewalker.nvim (⭐2)](https://github.com/aaronik/Treewalker.nvim) - Move seamlessly around the abstract syntax tree.
+*   [DanilaMihailov/beacon.nvim (⭐416)](https://github.com/DanilaMihailov/beacon.nvim) - Highlights cursor when it moves, changes windows and more. Inspired by Emacs beacon package.
+*   [Aaronik/Treewalker.nvim (⭐329)](https://github.com/aaronik/Treewalker.nvim) - Move seamlessly around the abstract syntax tree.
 
 ### Game / Diagnostics
 
-*   [csessh/aoc.vim (⭐3)](https://github.com/csessh/aoc.nvim) - Simple little elf who fetches Advent of Code puzzle input for you.
+*   [csessh/aoc.vim (⭐4)](https://github.com/csessh/aoc.nvim) - Simple little elf who fetches Advent of Code puzzle input for you.
 
 ## [5. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
 
 ### Web / Messaging
 
-*   [by-nir/aws-lambda-zig (⭐3)](https://github.com/by-nir/aws-lambda-zig) - Super-fast AWS Lambda runtime for Zig.
+*   [by-nir/aws-lambda-zig (⭐5)](https://github.com/by-nir/aws-lambda-zig) - Super-fast AWS Lambda runtime for Zig.
 
 ## [6. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Scripting
 
-*   [facebook/starlark-rust (⭐729)](https://github.com/facebook/starlark-rust) - A small, deterministic, thread-safe language with Python syntax
+*   [facebook/starlark-rust (⭐748)](https://github.com/facebook/starlark-rust) - A small, deterministic, thread-safe language with Python syntax
 
 ## [7. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### Loaders / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [skeletonizer (⭐4)](https://github.com/lukaVarga/skeletonizer) - A lightweight package that provides a simple way to create skeletonized views for your application. It has adapters for Vue and Angular and is highly customizable and easy to use.
+*   [skeletonizer (⭐5)](https://github.com/lukaVarga/skeletonizer) - A lightweight package that provides a simple way to create skeletonized views for your application. It has adapters for Vue and Angular and is highly customizable and easy to use.
 
 ## [8. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md)
 
@@ -74,4 +66,5 @@
 
 ---
 
+- Prev: [Dec 13, 2024](/content/2024/12/13/README.md)
 - Next: [Dec 11, 2024](/content/2024/12/11/README.md)

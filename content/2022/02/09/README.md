@@ -16,22 +16,21 @@
 
 ### Mobile Games / Android
 
-*   [Pimple Popper (⭐32)](https://github.com/Crazy-Marvin/PimplePopper) - Game to pop pimples using the awesome Godot Engine.
+*   [Pimple Popper (⭐34)](https://github.com/Crazy-Marvin/PimplePopper) - Game to pop pimples using the awesome Godot Engine.
 
 ## [3. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
 ### Status Bar
 
-*   [tmux-clima (⭐8)](https://github.com/vascomfnunes/tmux-clima) Displays the current temperature and weather condition using the OpenWeather API.
-*   [tmux-cpu (⭐418)](https://github.com/tmux-plugins/tmux-cpu) Show CPU load with easy icons
-*   [tmux-kripto (⭐4)](https://github.com/vascomfnunes/tmux-kripto) Add a cryptocurrency stock price to the statusbar.
+*   [tmux-clima (⭐13)](https://github.com/vascomfnunes/tmux-clima) Displays the current temperature and weather condition using the OpenWeather API.
+*   [tmux-cpu (⭐454)](https://github.com/tmux-plugins/tmux-cpu) Show CPU load with easy icons
+*   [tmux-kripto (⭐5)](https://github.com/vascomfnunes/tmux-kripto) Add a cryptocurrency stock price to the statusbar.
 
 ## [4. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Neovim Lua Development / Diagnostics
 
-*   [nanotee/luv-vimdocs (⭐69)](https://github.com/nanotee/luv-vimdocs) - The luv docs in vimdoc format.
-*   [milisims/nvim-luaref (⭐120)](https://github.com/milisims/nvim-luaref) - A reference for builtin Lua functions.
+*   [milisims/nvim-luaref (⭐124)](https://github.com/milisims/nvim-luaref) - A reference for builtin Lua functions.
 
 ## [5. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
@@ -47,20 +46,20 @@
 
 ## [7. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
-### Templates / Godot 3.2+
+### Templates / Godot 3
 
-*   [Godot First Person Camera (⭐54)](https://github.com/tavurth/godot-simple-fps-camera) - A simple FPS starter with jumping, movement, flashlight and a player character with animations.
+*   [Godot First Person Camera (⭐59)](https://github.com/tavurth/godot-simple-fps-camera) - A simple FPS starter with jumping, movement, flashlight and a player character with animations.
 
 ## [8. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Emulators
 
 *   ZX Spectrum
-    *   [rustzx/rustzx (⭐200)](https://github.com/rustzx/rustzx) - [![RustZX CI](https://github.com/rustzx/rustzx/actions/workflows/ci.yml/badge.svg)](https://github.com/rustzx/rustzx/actions/workflows/ci.yml)
+    *   [rustzx/rustzx (⭐205)](https://github.com/rustzx/rustzx) - [![RustZX CI](https://github.com/rustzx/rustzx/actions/workflows/ci.yml/badge.svg)](https://github.com/rustzx/rustzx/actions/workflows/ci.yml)
 
 ### Libraries / Authentication
 
-*   [constantoine/totp-rs (⭐162)](https://github.com/constantoine/totp-rs) \[[totp-rs](https://crates.io/crates/totp-rs)] - 2fa library to generate and verify TOTP-based tokens ![Build Status](https://github.com/constantoine/totp-rs/workflows/Rust/badge.svg)
+*   [constantoine/totp-rs (⭐192)](https://github.com/constantoine/totp-rs) \[[totp-rs](https://crates.io/crates/totp-rs)] - 2fa library to generate and verify TOTP-based tokens ![Build Status](https://github.com/constantoine/totp-rs/workflows/Rust/badge.svg)
 
 ## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -106,14 +105,14 @@
 
 ### Extensions / Community
 
-*   [Search Sync (⭐112)](https://github.com/dimitrov-adrian/directus-extension-searchsync) - Sync data into a search engine index, supports Algolia, ElasticSearch & MeiliSearch.
-*   [Dictionary (⭐39)](https://github.com/georgexchelebiev/directus-dictionary) - Save key-value pairs as JSON blobs with a progress indicator for completeness.
-*   [WordPress-like Slug (⭐93)](https://github.com/dimitrov-adrian/directus-extension-wpslug-interface) - Slug/Permalink interface with support for pre- and suffixes.
-*   [Link Meta (⭐26)](https://github.com/dimitrov-adrian/directus-extension-linkmeta) - Stores hyperlink metadata into Directus.
-*   [Group Modal (⭐57)](https://github.com/dimitrov-adrian/directus-extension-group-modal-interface) - Group interface fields into a modal that can be opened with a button.
-*   [Display Link (⭐56)](https://github.com/jacoborus/directus-extension-display-link) - Display URLs with an "open in new tab" button.
-*   [SQL Panel (⭐18)](https://github.com/harish2704/directus-sql-panel) - Panel component which shows result of stored SQL query as a table.
-*   [SVG Map Picker Interface (⭐31)](https://github.com/dimitrov-adrian/directus-extension-svgmap-picker-interface) - Select a value from a SVG Map box.
+*   [Search Sync (⭐116)](https://github.com/dimitrov-adrian/directus-extension-searchsync) - Sync data into a search engine index, supports Algolia, ElasticSearch & MeiliSearch.
+*   [Dictionary (⭐40)](https://github.com/georgexchelebiev/directus-dictionary) - Save key-value pairs as JSON blobs with a progress indicator for completeness.
+*   [WordPress-like Slug (⭐97)](https://github.com/dimitrov-adrian/directus-extension-wpslug-interface) - Slug/Permalink interface with support for pre- and suffixes.
+*   [Link Meta (⭐28)](https://github.com/dimitrov-adrian/directus-extension-linkmeta) - Stores hyperlink metadata into Directus.
+*   [Group Modal (⭐62)](https://github.com/dimitrov-adrian/directus-extension-group-modal-interface) - Group interface fields into a modal that can be opened with a button.
+*   [Display Link (⭐60)](https://github.com/jacoborus/directus-extension-display-link) - Display URLs with an "open in new tab" button.
+*   [SQL Panel (⭐19)](https://github.com/harish2704/directus-sql-panel) - Panel component which shows result of stored SQL query as a table.
+*   [SVG Map Picker Interface (⭐33)](https://github.com/dimitrov-adrian/directus-extension-svgmap-picker-interface) - Select a value from a SVG Map box.
 
 ## [12. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
@@ -125,7 +124,7 @@
 
 *   [Axon (c)](https://axoniq.io/) - An end-to-end development and infrastructure platform for easy development and running of any DDD, CQRS and Event Sourcing applications on JVM.
 
-### Coordination & Governance / Scala
+### Workflow Orchestration / Scala
 
 *   [AWS Step Functions (c)](https://aws.amazon.com/step-functions/) - Coordinate the components of distributed applications and microservices using visual workflows.
 
@@ -167,21 +166,21 @@
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [vite-compression-plugin (⭐157)](https://github.com/XeryYue/vite-compression-plugin) - Use Node.js stream compress file to gzip or more.
+*   [vite-compression-plugin (⭐197)](https://github.com/XeryYue/vite-compression-plugin) - Use Node.js stream compress file to gzip or more.
 
 ## [14. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
 
-### Internationalisation / Checkbox
+### Internationalization / Form Components
 
-*   [svelte-fluent (⭐91)](https://github.com/nubolab-ffwd/svelte-fluent) - Components for easy integration of [Fluent](https://projectfluent.org/) localization.
-*   [svelte-i18n (⭐1.2k)](https://github.com/kaisermann/svelte-i18n) - Internationalization library for Svelte.
-*   [sveltekit-i18n (⭐456)](https://github.com/jarda-svoboda/sveltekit-i18n) - For integrating [i18n](https://www.npmjs.com/package/i18n) style localization in SvelteKit.
+*   [svelte-fluent (⭐96)](https://github.com/nubolab-ffwd/svelte-fluent) - Components for easy integration of [Fluent](https://projectfluent.org/) localization.
+*   [svelte-i18n (⭐1.3k)](https://github.com/kaisermann/svelte-i18n) - Internationalization library for Svelte.
+*   [sveltekit-i18n (⭐513)](https://github.com/jarda-svoboda/sveltekit-i18n) - For integrating [i18n](https://www.npmjs.com/package/i18n) style localization in SvelteKit.
 
 ## [15. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
 
 ### Table of Contents / Toolkit
 
-*   [Nussknacker (⭐633)](https://github.com/TouK/nussknacker) \[Scala] - A visual tool to define and run real-time decision algorithms.
+*   [Nussknacker (⭐670)](https://github.com/TouK/nussknacker) \[Scala] - A visual tool to define and run real-time decision algorithms.
 
 ---
 

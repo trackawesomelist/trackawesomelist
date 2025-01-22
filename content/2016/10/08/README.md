@@ -16,7 +16,7 @@
 
 ### Libraries / Data Structures
 
-*   [Icepick (⭐419)](https://github.com/aearly/icepick) Utilities for treating frozen JavaScript objects as persistent immutable collections
+*   [Icepick (⭐421)](https://github.com/aearly/icepick) Utilities for treating frozen JavaScript objects as persistent immutable collections
 
 ## [3. Awesome Npm Scripts](/content/RyanZim/awesome-npm-scripts/README.md)
 

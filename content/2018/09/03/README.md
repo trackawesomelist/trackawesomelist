@@ -36,7 +36,7 @@
 
 ### Misc
 
-*   [retriable.cr (⭐41)](https://github.com/Sija/retriable.cr) - Simple DSL to retry failed code blocks
+*   [retriable.cr (⭐42)](https://github.com/Sija/retriable.cr) - Simple DSL to retry failed code blocks
 
 ### DevOps
 
@@ -72,7 +72,7 @@
 
 ### Algorithms and Data structures
 
-*   [bimap (⭐27)](https://github.com/mkaput/elixir-bimap) - Pure Elixir implementation of [bidirectional maps](https://en.wikipedia.org/wiki/Bidirectional_map) and multimaps.
+*   [bimap (⭐28)](https://github.com/mkaput/elixir-bimap) - Pure Elixir implementation of [bidirectional maps](https://en.wikipedia.org/wiki/Bidirectional_map) and multimaps.
 
 ## [10. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/README.md)
 

@@ -343,15 +343,15 @@
 
 ### Build Automation
 
-*   [Invoke-Build (⭐634)](https://github.com/nightroman/Invoke-Build) - PowerShell build and test automation tool inspired by Psake.
+*   [Invoke-Build (⭐663)](https://github.com/nightroman/Invoke-Build) - PowerShell build and test automation tool inspired by Psake.
 
 ### Logging
 
-*   [StackExchange.Exceptional (⭐862)](https://github.com/NickCraver/StackExchange.Exceptional) - Error handler used for the Stack Exchange network
+*   [StackExchange.Exceptional (⭐863)](https://github.com/NickCraver/StackExchange.Exceptional) - Error handler used for the Stack Exchange network
 
 ### Queue
 
-*   [MassTransit (⭐6.8k)](https://github.com/MassTransit/MassTransit) - MassTransit is lean service bus implementation for building loosely coupled applications using the .NET Framework.
+*   [MassTransit (⭐7.1k)](https://github.com/MassTransit/MassTransit) - MassTransit is lean service bus implementation for building loosely coupled applications using the .NET Framework.
 
 ## [8. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
@@ -377,7 +377,7 @@
 
 ### Data Manipulation
 
-*   [tidyr (⭐1.3k)](https://github.com/hadley/tidyr) - Easily tidy data with spread and gather functions.
+*   [tidyr (⭐1.4k)](https://github.com/hadley/tidyr) - Easily tidy data with spread and gather functions.
 
 ### Graphic Displays
 
@@ -386,7 +386,7 @@
 ### Web Technologies and Services
 
 *   [RCurl](http://cran.r-project.org/web/packages/RCurl/index.html) - General network (HTTP/FTP/...) client interface for R.
-*   [httpuv (⭐221)](https://github.com/rstudio/httpuv) - HTTP and WebSocket server library.
+*   [httpuv (⭐229)](https://github.com/rstudio/httpuv) - HTTP and WebSocket server library.
 
 ### Machine Learning
 
@@ -431,8 +431,8 @@
 
 ### 2017 / Book/monograph Lists and Reviews
 
-*   [awesome-awesomeness (⭐31k)](https://github.com/bayandin/awesome-awesomeness)
-*   [lists (⭐9.4k)](https://github.com/jnv/lists)
+*   [awesome-awesomeness (⭐32k)](https://github.com/bayandin/awesome-awesomeness)
+*   [lists (⭐10k)](https://github.com/jnv/lists)
 
 ## [10. Awesome Perl](/content/hachiojipm/awesome-perl/README.md)
 

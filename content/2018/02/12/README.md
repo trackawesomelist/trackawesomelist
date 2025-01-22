@@ -1,38 +1,31 @@
 # Awesome List Updates on Feb 12, 2018
 
-8 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Projects Using Vue.js / Open Source
-
-*   [XMR Miner (⭐502)](https://github.com/bradoyler/xmr-miner) - Cryptocurrency (XMR) mining app, built with Vue.js and visualized with D3
-*   [XMR Paper (⭐8)](https://github.com/bradoyler/xmr-paper) - Monero wallet generator, built with Vue.js
-
-## [2. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
+## [1. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
 ### Scala / Git
 
-*   [tsec (⭐349)](https://github.com/jmcardon/tsec) - A type-safe, functional, general purpose security and cryptography library.
+*   [tsec (⭐352)](https://github.com/jmcardon/tsec) - A type-safe, functional, general purpose security and cryptography library.
 
-## [3. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [2. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Misc
 
 *   [Scientist (⭐1.5k)](https://github.com/github/Scientist.net) - .NET library for carefully refactoring critical paths. It's a port of GitHub's Ruby Scientist library.
 
-## [4. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [3. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Miscellaneous
 
-*   [cl-svg (⭐40)](https://github.com/wmannis/cl-svg) - A basic library for producing SVG files. [Expat](https://directory.fsf.org/wiki/License:Expat).
-*   [Varjo (⭐220)](https://github.com/cbaggers/varjo) - Lisp to GLSL translator. [BSD\_2Clause](https://directory.fsf.org/wiki/License:BSD_2Clause).
+*   [cl-svg (⭐43)](https://github.com/wmannis/cl-svg) - A basic library for producing SVG files. [Expat](https://directory.fsf.org/wiki/License:Expat).
+*   [Varjo (⭐225)](https://github.com/cbaggers/varjo) - Lisp to GLSL translator. [BSD\_2Clause](https://directory.fsf.org/wiki/License:BSD_2Clause).
 
-## [5. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [4. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### JavaScript / Misc
 
@@ -42,7 +35,7 @@
 
 *   [Parris (⭐316)](https://github.com/jgreenemi/Parris) - Parris, the automated infrastructure setup tool for machine learning algorithms.
 
-## [6. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [5. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Culture
 
@@ -73,14 +66,14 @@
 
 *   [Commentary on Site Reliability Engineering](https://medium.com/@jerub/commentary-on-site-reliability-engineering-9ba9e1be2a8c)
 
-## [7. Awesome Maintainers](/content/nayafia/awesome-maintainers/README.md)
+## [6. Awesome Maintainers](/content/nayafia/awesome-maintainers/README.md)
 
 *   [@fat](https://github.com/fat), [Bootstrap (⭐160k)](https://github.com/twbs/bootstrap/)
     *   "What is open source and why do I feel so guilty?" ([video](https://www.youtube.com/watch?v=UIDb6VBO9os), [slides](http://fat.github.io/slides-os-guilt/))
 *   [@jodosha](https://github.com/jodosha), [Hanami](https://github.com/hanami)
     *   "Lessons Learned While Building Hanami" ([video](https://www.youtube.com/watch?v=0RyitUKfUFE), [slides](https://speakerdeck.com/jodosha/lessons-learned-while-building-hanami))
 
-## [8. Awesome Couchdb](/content/quangv/awesome-couchdb/README.md)
+## [7. Awesome Couchdb](/content/quangv/awesome-couchdb/README.md)
 
 ### Libraries
 

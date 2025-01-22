@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 02 - Apr 08, 2018
 
-49 awesome lists updated this week.
+48 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -21,7 +21,7 @@
 
 ### Other Data
 
-*   [KeyPathKit (⭐425)](https://github.com/vincent-pradeilles/KeyPathKit) - KeyPathKit provides a seamless syntax to manipulate data using typed keypaths.
+*   [KeyPathKit (⭐426)](https://github.com/vincent-pradeilles/KeyPathKit) - KeyPathKit provides a seamless syntax to manipulate data using typed keypaths.
 
 ### Socket / Barcode
 
@@ -29,11 +29,11 @@
 
 ### Quality / Barcode
 
-*   [IBLinter (⭐950)](https://github.com/IBDecodable/IBLinter) - A linter tool for Interface Builder.
+*   [IBLinter (⭐948)](https://github.com/IBDecodable/IBLinter) - A linter tool for Interface Builder.
 
 ### Text / Barcode
 
-*   [MarkdownKit (⭐765)](https://github.com/bmoliveira/MarkdownKit) - A simple and customizable Markdown Parser.
+*   [MarkdownKit (⭐792)](https://github.com/bmoliveira/MarkdownKit) - A simple and customizable Markdown Parser.
 
 ## [4. Amas](/content/sindresorhus/amas/week/README.md)
 
@@ -52,10 +52,6 @@
 ### Resources / External Resources
 
 *   [Vue Curated Resources](https://hackr.io/tutorials/learn-vue-js) - Recommended Vue.js courses and tutorials.
-
-### Components & Libraries / Utilities
-
-*   [vue-ramda (⭐18)](https://github.com/choufeng/vue-ramda) - Vue Wrapper for [ramda](http://ramdajs.com/)
 
 ## [7. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 
@@ -111,13 +107,13 @@
 
 ### ORM/ODM Extensions
 
-*   [granite (⭐295)](https://github.com/amberframework/granite) - ORM for Postgres, Mysql, Sqlite
+*   [granite (⭐297)](https://github.com/amberframework/granite) - ORM for Postgres, Mysql, Sqlite
 
 ## [11. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Event processing / Third-party APIs
 
-*   [cl-flow (⭐49)](https://github.com/borodust/cl-flow/) -  Data-flowish computation tree library for non-blocking concurrent Common Lisp. [MIT](https://opensource.org/licenses/MIT).
+*   [cl-flow (⭐50)](https://github.com/borodust/cl-flow/) -  Data-flowish computation tree library for non-blocking concurrent Common Lisp. [MIT](https://opensource.org/licenses/MIT).
 
 ## [12. Awesome Vapor](/content/vapor-community/awesome-vapor/week/README.md)
 
@@ -159,37 +155,37 @@
 
 ### Tools / Paid and commercially available materials
 
-*   [svd2rust (⭐681)](https://github.com/japaric/svd2rust) Generate Rust structs with register mappings from SVD files.
-*   [bindgen](https://crates.io/crates/bindgen) Automatically generates Rust FFI bindings to C and C++ libraries. - ![crates.io](https://img.shields.io/crates/v/bindgen.svg)
+*   [svd2rust (⭐736)](https://github.com/japaric/svd2rust) Generate Rust structs with register mappings from SVD files.
+*   [bindgen](https://crates.io/crates/bindgen) Automatically generates Rust FFI bindings to C and C++ libraries. - [![crates.io](https://img.shields.io/crates/v/bindgen.svg)](https://crates.io/crates/bindgen)
 *   [cortex-m semihosting (⭐0)](https://github.com/japaric/cortex-m-semihosting) Semihosting for ARM Cortex-M processors
 
 ### Peripheral Access Crates / Nordic
 
-*   [`nrf51`](https://crates.io/crates/nrf51) Peripheral access API for nRF51 microcontrollers (generated using svd2rust) - ![crates.io](https://img.shields.io/crates/v/nrf51.svg)
+*   [`nrf51`](https://crates.io/crates/nrf51) Peripheral access API for nRF51 microcontrollers (generated using svd2rust) - [![crates.io](https://img.shields.io/crates/v/nrf51.svg)](https://crates.io/crates/nrf51)
 
 ### Peripheral Access Crates / NXP
 
-*   [`mkw41z`](https://crates.io/crates/mkw41z) - ![crates.io](https://img.shields.io/crates/v/mkw41z.svg)
+*   [`mkw41z`](https://crates.io/crates/mkw41z) - [![crates.io](https://img.shields.io/crates/v/mkw41z.svg)](https://crates.io/crates/mkw41z)
 
 ### HAL implementation crates / Nordic
 
-*   [`nrf51-hal`](https://crates.io/crates/nrf51-hal) - ![crates.io](https://img.shields.io/crates/v/nrf51-hal.svg)
+*   [`nrf51-hal`](https://crates.io/crates/nrf51-hal) - [![crates.io](https://img.shields.io/crates/v/nrf51-hal.svg)](https://crates.io/crates/nrf51-hal)
 
 ### HAL implementation crates / STMicroelectronics
 
-*   [`stm32l151-hal`](https://crates.io/crates/stm32l151-hal) - ![crates.io](https://img.shields.io/crates/v/stm32l151-hal.svg)
+*   [`stm32l151-hal`](https://crates.io/crates/stm32l151-hal) - [![crates.io](https://img.shields.io/crates/v/stm32l151-hal.svg)](https://crates.io/crates/stm32l151-hal)
 
 ### Board support crates / Nordic
 
-*   [`microbit`](https://crates.io/crates/microbit) - [micro:bit](http://microbit.org/) - ![crates.io](https://img.shields.io/crates/v/microbit.svg)
+*   [`microbit`](https://crates.io/crates/microbit) - [micro:bit](http://microbit.org/) - [![crates.io](https://img.shields.io/crates/v/microbit.svg)](https://crates.io/crates/microbit)
 
 ### Board support crates / NXP
 
-*   [`frdm-kw41z`](https://crates.io/crates/frdm-kw41z) - [FRDM-KW41Z](https://www.nxp.com/products/processors-and-microcontrollers/arm-based-processors-and-mcus/kinetis-cortex-m-mcus/w-serieswireless-conn.m0-plus-m4/freedom-development-kit-for-kinetis-kw41z-31z-21z-mcus:FRDM-KW41Z) - ![crates.io](https://img.shields.io/crates/v/frdm-kw41z.svg)
+*   [`frdm-kw41z`](https://crates.io/crates/frdm-kw41z) - [FRDM-KW41Z](https://www.nxp.com/products/processors-and-microcontrollers/arm-based-processors-and-mcus/kinetis-cortex-m-mcus/w-serieswireless-conn.m0-plus-m4/freedom-development-kit-for-kinetis-kw41z-31z-21z-mcus:FRDM-KW41Z) - [![crates.io](https://img.shields.io/crates/v/frdm-kw41z.svg)](https://crates.io/crates/frdm-kw41z)
 
 ### Driver crates / Other
 
-*   [L3GD20](https://crates.io/crates/l3gd20) - SPI - Gyroscope - [Intro blog post](http://blog.japaric.io/wd-1-2-l3gd20-lsm303dlhc-madgwick/) - ![crates.io](https://img.shields.io/crates/v/l3gd20.svg)
+*   [L3GD20](https://crates.io/crates/l3gd20) - SPI - Gyroscope - [Intro blog post](http://blog.japaric.io/wd-1-2-l3gd20-lsm303dlhc-madgwick/) - [![crates.io](https://img.shields.io/crates/v/l3gd20.svg)](https://crates.io/crates/l3gd20)
 
 ## [17. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
@@ -350,16 +346,16 @@
 
 ### Containers
 
-*   [plf::list (⭐146)](https://github.com/mattreecebentley/plf_list) - A std::list implementation which removes range splicing in order to enable cache-friendlier structure, yielding significant performance gains. \[zLib] [website](http://www.plflib.org/list.htm)
-*   [plf::stack (⭐62)](https://github.com/mattreecebentley/plf_stack) - A replacement container for the std::stack container adaptor, with better performance than any std container in a stack context. \[zLib] [website](http://www.plflib.org/stack.htm)
+*   [plf::list (⭐151)](https://github.com/mattreecebentley/plf_list) - A std::list implementation which removes range splicing in order to enable cache-friendlier structure, yielding significant performance gains. \[zLib] [website](http://www.plflib.org/list.htm)
+*   [plf::stack (⭐64)](https://github.com/mattreecebentley/plf_stack) - A replacement container for the std::stack container adaptor, with better performance than any std container in a stack context. \[zLib] [website](http://www.plflib.org/stack.htm)
 
 ### Debug
 
-*   [Nanotimer (⭐127)](https://github.com/mattreecebentley/plf_nanotimer) - A simple low-overhead cross-platform timer class for benchmarking. \[zLib] [website](http://www.plflib.org/nanotimer.htm)
+*   [Nanotimer (⭐139)](https://github.com/mattreecebentley/plf_nanotimer) - A simple low-overhead cross-platform timer class for benchmarking. \[zLib] [website](http://www.plflib.org/nanotimer.htm)
 
 ### Sorting
 
-*   [Timsort (⭐291)](https://github.com/gfx/cpp-TimSort) - A templated stable sorting function which outperforms quicksort-based algorithms including std::sort, for reversed or semi-sorted data. \[MIT]
+*   [Timsort (⭐305)](https://github.com/gfx/cpp-TimSort) - A templated stable sorting function which outperforms quicksort-based algorithms including std::sort, for reversed or semi-sorted data. \[MIT]
 
 ## [23. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
@@ -367,8 +363,8 @@
 
 *   [ack](https://beyondgrep.com) - A tool like grep, optimized for programmers. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [archey-osx](http://obihann.github.io/archey-osx/) - An archey script for OS X. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/obihann/archey-osx) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [autojump (⭐16k)](https://github.com/wting/autojump/wiki) - Replace `cd` with an intelligent autojump to easily navigate directories from the command line. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/wting/autojump) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [ccat (⭐3.1k)](https://github.com/jingweno/ccat) - The colorizing cat which works similar to cat but displays content with syntax highlighting. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/jingweno/ccat) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [autojump (⭐16k)](https://github.com/wting/autojump/wiki) - Replace `cd` with intelligent autojump. [![OSS](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/wting/autojump) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [ccat (⭐3.2k)](https://github.com/jingweno/ccat) - The colorizing cat which works similar to cat but displays content with syntax highlighting. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/jingweno/ccat) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [24. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
@@ -381,8 +377,7 @@
 
 ### Libraries / Python
 
-*   [Flask-Stupe (⭐27)](https://github.com/numberly/flask-stupe) - Flask extension that adds PyMongo support to Flask
-*   [Motor (⭐2.4k)](https://github.com/mongodb/motor) - Official non-blocking Python driver for Tornado or asyncio
+*   [Motor (⭐2.5k)](https://github.com/mongodb/motor) - Official non-blocking Python driver for Tornado or asyncio
 
 ## [26. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
@@ -478,13 +473,7 @@
 *   [Ember Watch](https://twitter.com/EmberWatch)
 *   [Erik Bryn](https://twitter.com/ebryn)
 
-## [34. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
-
-### DNS / Telegram
-
-*   [Amass](https://github.com/caffix/amass) - The amass tool searches Internet data sources, performs brute force subdomain enumeration, searches web archives, and uses machine learning to generate additional subdomain name guesses. DNS name resolution is performed across many public servers so the authoritative server will see the traffic coming from different locations. Written in Go.
-
-## [35. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
+## [34. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
 ### Presentations / Embedded World Conference 2018
 
@@ -494,37 +483,37 @@
 
 *   [Maruyama, Yuya et al. “Exploring the performance of ROS2.” 2016 International Conference on Embedded Software (EMSOFT) (2016): 1-10.](https://www.semanticscholar.org/paper/Exploring-the-performance-of-ROS2-Maruyama-Kato/07b895f3b584dea4f64e91844f243de382026b20)
 
-## [36. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
+## [35. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
 
 ### Applications
 
 *   [OnionShare](https://onionshare.org): Open source tool that lets you securely and anonymously share a file of any size.
 
-## [37. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [36. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Blogs • Websites / Other
 
 *   [CreativeApplications.Net \[CAN\]](http://creativeapplications.net/) - Famous digital art blog.
 
-## [38. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [37. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Endpoint / Forensics
 
 *   [Logdissect (⭐137)](https://github.com/dogoncouch/logdissect) - CLI utility and Python API for analyzing log files and other data.
 
-## [39. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
+## [38. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
 ### Software / Command Line Tools
 
 *   [Logdissect (⭐129)](https://github.com/dogoncouch/logdissect/) - CLI utility and Python API for analyzing log files and other data. ([MIT (⭐129)](https://github.com/dogoncouch/logdissect/blob/master/LICENSE))
 
-## [40. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [39. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [TypeGQL (⭐423)](https://github.com/prismake/typegql) - Set of tools for creating GraphQL schema directly from typed TypeScript class.
+*   :octocat: [TypeGQL (⭐424)](https://github.com/prismake/typegql) - Set of tools for creating GraphQL schema directly from typed TypeScript class.
 
-## [41. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
+## [40. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
 
 ### Organizations
 
@@ -534,13 +523,13 @@
 
 *   [ACT-W National Conference](http://www.act-w.org/) - Presented by ChickTech, ACT-W National focuses on providing you with inspiring and actionable education in career development, leadership, technology, and diversity.
 
-## [42. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [41. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Compilers, Transpilers and Languages
 
 *   [Fable (⭐2.9k)](https://github.com/fable-compiler/Fable) - F# to JavaScript Compiler.
 
-## [43. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [42. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### United States 🇺🇸 / Massachusetts <a id="massachusetts"></a>
 
@@ -552,19 +541,19 @@
 | ---- | ----- | ---------------------------------------------------------------------- | -------------- |
 | ✔    | ✔     | [239 W Read St, Baltimore, MD 21201](https://goo.gl/maps/yfasgrqVjjJ2) | 7 days 7am-3am |
 
-## [44. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
+## [43. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
 
 ### Applications and Platforms / Goals
 
 *   [Taskade](https://www.taskade.com/) - Simple and sharable tasks, checklists, and notes. (Web, iOS & Android).
 
-## [45. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
+## [44. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
 
 ### Esoteric languages
 
 *   [OnlyToday (⭐6)](https://github.com/molnarmark/onlytoday) - A date and time based programming language.
 
-## [46. Awesome Ffmpeg](/content/transitive-bullshit/awesome-ffmpeg/week/README.md)
+## [45. Awesome Ffmpeg](/content/transitive-bullshit/awesome-ffmpeg/week/README.md)
 
 ### JavaScript
 
@@ -583,26 +572,21 @@
 
 *   [Learn FFmpeg libav the Hard Way (⭐8.2k)](https://github.com/leandromoreira/ffmpeg-libav-tutorial)
 
-## [47. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [46. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
-### 3rd party GTFS URL directories
+### Courses
 
-*   [~~GTFS Data Exchange~~ (Deprecated)](http://www.gtfs-data-exchange.com/agencies) - Formerly the definitive directory of GTFS feed URLs. Shutdown in 2016. But 93 GB of data from 2008 to 2016 is available upon request.
+*   [World Bank - "Intro. to GTFS" online course](https://olc.worldbank.org/content/introduction-general-transit-feed-specification-gtfs-and-informal-transit-system-mapping) - A free, online, self-paced course for learning about GTFS and GTFS-realtime.
 
 ### Transit agency data archives
 
-*   [CapMetrics (⭐15)](https://github.com/scascketta/CapMetrics) - Historical vehicle locations for Austin's transit agency (CapMetro). Data is collected by [capmetricsd (⭐10)](https://github.com/scascketta/capmetricsd), a Go daemon.
+*   [CapMetrics (⭐16)](https://github.com/scascketta/CapMetrics) - Historical vehicle locations for Austin's transit agency (CapMetro). Data is collected by [capmetricsd (⭐10)](https://github.com/scascketta/capmetricsd), a Go daemon.
 
 ### Proprietary (non-standard) vendor APIs
 
 *   [Transport API](https://www.transportapi.com/) - REST API for aggregated transit data for the United Kingdom.  Fee-based access.
-*   [TransLoc OpenAPI](https://market.mashape.com/transloc/openapi-1-2) - REST API for real-time vehicle, route, stop, and arrival data for over 60 transit systems in the United States that have purchased TransLoc's AVL hardware and software.
 *   [NextBus API](http://www.nextbus.com/xmlFeedDocs/NextBusXMLFeed.pdf) - REST API for real-time vehicle, route, stop, and arrival data for agencies that have puchased NextBus's hardware and/or software.
-*   [CityBikes](http://api.citybik.es) - REST API for aggregated bikeshare data from around the world. Powered by [pyBikes (⭐544)](https://github.com/eskerda/pybikes).
-
-### On-line courses / Ruby
-
-*   [World Bank - "Intro. to GTFS" online course](https://olc.worldbank.org/content/introduction-general-transit-feed-specification-gtfs-and-informal-transit-system-mapping) - A free, online, self-paced course for learning about GTFS and GTFS-realtime.
+*   [CityBikes](http://api.citybik.es) - REST API for aggregated bikeshare data from around the world. Powered by [pyBikes (⭐569)](https://github.com/eskerda/pybikes).
 
 ### Blog posts / Ruby
 
@@ -615,7 +599,6 @@
 ### Academic papers / Ruby
 
 *   [Tang et al. - "Ridership effects of real-time bus information system: A case study in the City of Chicago"](https://www.sciencedirect.com/science/article/pii/S0968090X12000022) - Experiment in Chicago, IL showed modest increase in ridership when riders had access to real-time info via text message or email.
-*   [Kay et al. - "When(ish) is my bus? User-centered Visualizations of Uncertainty in Everyday, Mobile Predictive Systems"](http://faculty.washington.edu/jhullman/busUncertaintyVis.pdf) - Paper attempts to answr the question of "how do we communicate uncertainty in transit predictions?" Explains the problem, existing solutions and designs a [better interface for letting users know when to arrive at the bus stop (⭐45)](https://github.com/mjskay/when-ish-is-my-bus/blob/master/quantile-dotplots.md#quantile-dotplots).
 *   [Watkins et al. - "Where Is My Bus? Impact of mobile real-time information on the perceived and actual wait time of transit riders"](https://www.sciencedirect.com/science/article/pii/S0965856411001030) - Experiments in Seattl,e WA showed that riders perceived shorter bus wait times when they had access to real-time info via mobile apps.
 *   [Brakewood et al. - “An experiment evaluating the impacts of real-time transit information on bus riders in Tampa, Florida”](https://www.sciencedirect.com/science/article/pii/S0965856414002146) - Controlled experiment in Tampa, FL showed that riders with access to real-time info via mobile apps perceived nearly 2 minute reduction in wait times compared to riders without real-time info.  Riders with real-time info also had decreases in anxiety and frustration and better reception of agency.
 *   [Brakewood et al. - "The impact of real-time information on bus ridership in New York City"](https://www.sciencedirect.com/science/article/pii/S0968090X15000297) - Experiment in NYC showed that ridership increased on long routes when real-time info was made available to riders.
@@ -624,7 +607,7 @@
 
 *   [APTA Policy Development and Research - Public Transportation Embracing Open Data](http://www.apta.com/resources/reportsandpublications/Documents/APTA-Embracing-Open-Data.pdf) - APTA's discussion of the benefits and challenges of open transit data (a short summary of the below TCRP report).
 
-## [48. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [47. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### IDE
 
@@ -634,7 +617,7 @@
 
 *   [GeneticSharp (⭐1.3k)](https://github.com/giacomelli/GeneticSharp) - Multi-platform genetic algorithm library for .NET Core and .NET Framework. The library has several implementations of GA operators, like: selection, crossover, mutation, reinsertion and termination.
 
-## [49. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [48. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### SDKs and Samples / JavaScript SDK
 

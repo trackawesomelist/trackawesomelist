@@ -20,56 +20,56 @@
 
 ### GitHub Tools and Management / Docker Container Actions
 
-*   [Declaratively setup GitHub Labels (⭐171)](https://github.com/lannonbr/issue-label-manager-action)
+*   [Declaratively setup GitHub Labels (⭐188)](https://github.com/lannonbr/issue-label-manager-action)
 
 ### Collection of Actions / Docker Container Actions
 
-*   [GitHub Actions for Golang (⭐132)](https://github.com/cedrickring/golang-action)
+*   [GitHub Actions for Golang (⭐133)](https://github.com/cedrickring/golang-action)
 *   [GitHub Actions for R and accompanying #rstats package](http://maxheld.de/ghactions/)
-*   [GitHub Actions for WordPress (⭐348)](https://github.com/10up/actions-wordpress/)
+*   [GitHub Actions for WordPress (⭐415)](https://github.com/10up/actions-wordpress/)
 
 ### Static Analysis / Semantic Versioning
 
-*   [PHPStan Static code analyzer Action (⭐86)](https://github.com/OskarStark/phpstan-ga)
-*   [GraphQL Inspector Action (⭐1.4k)](https://github.com/kamilkisiela/graphql-inspector)
-*   [PowerShell static analysis with PSScriptAnalyzer (⭐58)](https://github.com/devblackops/github-action-psscriptanalyzer)
+*   [PHPStan Static code analyzer Action (⭐96)](https://github.com/OskarStark/phpstan-ga)
+*   [GraphQL Inspector Action (⭐1.6k)](https://github.com/kamilkisiela/graphql-inspector)
+*   [PowerShell static analysis with PSScriptAnalyzer (⭐71)](https://github.com/devblackops/github-action-psscriptanalyzer)
 
 ### Static Analysis / Testing
 
-*   [Run Tests through Puppeteer, the Headless Chrome Node API (⭐89)](https://github.com/ianwalter/puppeteer)
+*   [Run Tests through Puppeteer, the Headless Chrome Node API (⭐93)](https://github.com/ianwalter/puppeteer)
 
 ### GitHub Pages / Code Coverage
 
-*   [Deploy a Zola site to GitHub Pages (⭐147)](https://github.com/shalzz/zola-deploy-action)
-*   [Build Hugo static content site and publish it to gh-pages branch (⭐37)](https://github.com/khanhicetea/gh-actions-hugo-deploy-gh-pages)
-*   [Build a Jekyll site—with Custom Jekyll Plugins & Build Scripts—and deploy it back to the Gh-Pages Branch (⭐112)](https://github.com/BryanSchuetz/jekyll-deploy-gh-pages)
+*   [Deploy a Zola site to GitHub Pages (⭐221)](https://github.com/shalzz/zola-deploy-action)
+*   [Build Hugo static content site and publish it to gh-pages branch (⭐42)](https://github.com/khanhicetea/gh-actions-hugo-deploy-gh-pages)
+*   [Build a Jekyll site—with Custom Jekyll Plugins & Build Scripts—and deploy it back to the Gh-Pages Branch (⭐118)](https://github.com/BryanSchuetz/jekyll-deploy-gh-pages)
 *   [Google Dataset Search Metadata](https://www.github.com/openschemas/extractors/) - And other schema.org extractors to make datasets discoverable from GitHub pages.
 
 ### Notifications and Messages / Code Coverage
 
-*   [Send a Discord notification (⭐271)](https://github.com/Ilshidur/action-discord)
-*   [Post a Slack message as a bot (⭐256)](https://github.com/pullreminders/slack-action)
-*   [Send an SMS from GitHub Actions using Nexmo (⭐12)](https://github.com/nexmo-community/nexmo-sms-action)
-*   [Send a Telegram Message (⭐568)](https://github.com/appleboy/telegram-action)
+*   [Send a Discord notification (⭐394)](https://github.com/Ilshidur/action-discord)
+*   [Post a Slack message as a bot (⭐270)](https://github.com/pullreminders/slack-action)
+*   [Send an SMS from GitHub Actions using Nexmo (⭐14)](https://github.com/nexmo-community/nexmo-sms-action)
+*   [Send a Telegram Message (⭐811)](https://github.com/appleboy/telegram-action)
 
 ### Deployment / Code Coverage
 
-*   [Deploy to Netlify (⭐343)](https://github.com/netlify/actions)
+*   [Deploy to Netlify (⭐374)](https://github.com/netlify/actions)
 *   [Deploy a Probot App using Actions](https://probot.github.io/docs/deployment/#github-actions)
-*   [Deploy a playlist to Spotify (⭐106)](https://github.com/swinton/SpotHub)
-*   [Deploy VS Code extensions with vsce (⭐76)](https://github.com/lannonbr/vsce-action)
-*   [Deploy your DNS configuration using DNS Control (⭐58)](https://github.com/koenrh/dnscontrol-action)
+*   [Deploy a playlist to Spotify (⭐114)](https://github.com/swinton/SpotHub)
+*   [Deploy VS Code extensions with vsce (⭐87)](https://github.com/lannonbr/vsce-action)
+*   [Deploy your DNS configuration using DNS Control (⭐79)](https://github.com/koenrh/dnscontrol-action)
 
 ### External Services / Terraform
 
-*   [Use a Jenkinsfile (⭐189)](https://github.com/jonico/jenkinsfile-runner-github-actions)
-*   [GitHub Action for Firebase (⭐757)](https://github.com/w9jds/firebase-action)
+*   [Use a Jenkinsfile (⭐198)](https://github.com/jonico/jenkinsfile-runner-github-actions)
+*   [GitHub Action for Firebase (⭐919)](https://github.com/w9jds/firebase-action)
 *   [GitHub Action for Contentful Migration CLI (⭐15)](https://github.com/Shy/contentful-action)
 
 ### Frontend Tools / Terraform
 
 *   [Execute Gradle task (⭐29)](https://github.com/MrRamych/gradle-actions)
-*   [JS Build Actions (⭐46)](https://github.com/elstudio/actions-js-build) - Run Grunt or Gulp build tasks and commit file changes.
+*   [JS Build Actions (⭐53)](https://github.com/elstudio/actions-js-build) - Run Grunt or Gulp build tasks and commit file changes.
 *   [GitHub Action for Gatsby CLI (⭐47)](https://github.com/jzweifel/gatsby-cli-github-action)
 
 ## [3. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
@@ -166,15 +166,15 @@
 
 ### Chat
 
-*   [Real-time Chat with Firebase (⭐755)](https://github.com/instamobile/messenger-iOS-chat-swift-firestore) - Functional real-time chat app with Firebase Firestore using MessageKit.
+*   [Real-time Chat with Firebase (⭐768)](https://github.com/instamobile/messenger-iOS-chat-swift-firestore) - Functional real-time chat app with Firebase Firestore using MessageKit.
 
 ### UI / Barcode
 
-*   [GradientProgressBar (⭐532)](https://github.com/fxm90/GradientProgressBar) - An animated gradient progress bar.
+*   [GradientProgressBar (⭐535)](https://github.com/fxm90/GradientProgressBar) - An animated gradient progress bar.
 
 ### UITableView / Barcode
 
-*   [CollapsibleTableSectionViewController (⭐352)](https://github.com/jeantimex/CollapsibleTableSectionViewController) - A library to support collapsible sections in a table view.
+*   [CollapsibleTableSectionViewController (⭐353)](https://github.com/jeantimex/CollapsibleTableSectionViewController) - A library to support collapsible sections in a table view.
 
 ## [7. Awesome Roadmaps](/content/liuchong/awesome-roadmaps/README.md)
 
@@ -206,11 +206,11 @@
 
 ### Metadata
 
-*   [libadm (⭐35)](https://github.com/irt-open-source/libadm) - Audio Definition Model (ITU-R BS.2076) handling C++11 library.
+*   [libadm (⭐39)](https://github.com/irt-open-source/libadm) - Audio Definition Model (ITU-R BS.2076) handling C++11 library.
 
 ### Multimedia content processing
 
-*   [libbw64 (⭐27)](https://github.com/irt-open-source/libbw64) – Header-only Broadcast Wave 64 (ITU-R BS.2088) C++11 library.
+*   [libbw64 (⭐30)](https://github.com/irt-open-source/libbw64) – Header-only Broadcast Wave 64 (ITU-R BS.2088) C++11 library.
 
 ## [10. Awesome R](/content/qinwf/awesome-R/README.md)
 
@@ -220,7 +220,7 @@
 
 ### Machine Learning
 
-*   [anomalize (⭐335)](https://github.com/business-science/anomalize) - Tidy Anomaly Detection using Twitter's AnomalyDetection method.
+*   [anomalize (⭐339)](https://github.com/business-science/anomalize) - Tidy Anomaly Detection using Twitter's AnomalyDetection method.
 *   [L0Learn](https://cran.r-project.org/web/packages/L0Learn/index.html) - Fast algorithms for best subset selection
 
 ## [11. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
@@ -283,16 +283,16 @@
 
 ### Front-End Development
 
-*   [CSS (⭐5k)](https://github.com/awesome-css-group/awesome-css#readme) - Style sheet language that specifies how HTML elements are displayed on screen.
-    *   [Critical-Path Tools (⭐1.1k)](https://github.com/addyosmani/critical-path-css-tools#readme)
+*   [CSS (⭐5.1k)](https://github.com/awesome-css-group/awesome-css#readme) - Style sheet language that specifies how HTML elements are displayed on screen.
+    *   [Critical-Path Tools (⭐1.2k)](https://github.com/addyosmani/critical-path-css-tools#readme)
     *   [Scalability (⭐1.5k)](https://github.com/davidtheclark/scalable-css-reading-list#readme)
     *   [Must-Watch Talks (⭐4.7k)](https://github.com/AllThingsSmitty/must-watch-css#readme)
     *   [Protips (⭐28k)](https://github.com/AllThingsSmitty/css-protips#readme)
-    *   [Frameworks (⭐7.7k)](https://github.com/troxler/awesome-css-frameworks#readme)
+    *   [Frameworks (⭐8.1k)](https://github.com/troxler/awesome-css-frameworks#readme)
 
 ### Gaming
 
-*   [PICO-8 (⭐2.6k)](https://github.com/pico-8/awesome-PICO-8#readme) - Fantasy console.
+*   [PICO-8 (⭐2.7k)](https://github.com/pico-8/awesome-PICO-8#readme) - Fantasy console.
 
 ## [14. Awesome Actionscript3](/content/robinrodricks/awesome-actionscript3/README.md)
 

@@ -10,7 +10,7 @@
 
 ### Pagination
 
-*   [order\_query (⭐509)](https://github.com/glebm/order_query) - A keyset pagination library to find the next or previous record(s) relative to the current one efficiently, e.g. for infinite scroll.
+*   [order\_query (⭐510)](https://github.com/glebm/order_query) - A keyset pagination library to find the next or previous record(s) relative to the current one efficiently, e.g. for infinite scroll.
 
 ## [2. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 

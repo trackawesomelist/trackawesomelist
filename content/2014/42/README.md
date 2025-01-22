@@ -10,12 +10,12 @@
 
 ### Packages / Command-line apps
 
-*   [pjs (⭐419)](https://github.com/danielstjules/pjs) - Pipeable JavaScript. Quickly filter, map, and reduce from the terminal.
+*   [pjs (⭐420)](https://github.com/danielstjules/pjs) - Pipeable JavaScript. Quickly filter, map, and reduce from the terminal.
 *   [license-checker (⭐1.6k)](https://github.com/davglass/license-checker) - Check licenses of your app's dependencies.
 
 ### Packages / Node.js management
 
-*   [nvm for Windows (⭐36k)](https://github.com/coreybutler/nvm-windows) - Version management for Windows.
+*   [nvm for Windows (⭐38k)](https://github.com/coreybutler/nvm-windows) - Version management for Windows.
 
 ## [2. Awesome Linguistics](/content/theimpossibleastronaut/awesome-linguistics/week/README.md)
 
@@ -95,7 +95,7 @@
 
 ### Algorithms and Data structures
 
-*   [fsm (⭐357)](https://github.com/sasa1977/fsm) - Finite state machine as a functional data structure.
+*   [fsm (⭐359)](https://github.com/sasa1977/fsm) - Finite state machine as a functional data structure.
 *   [key2value (⭐7)](https://github.com/okeuday/key2value) - Erlang 2-way Set Associative Map.
 *   [lfsr (⭐8)](https://github.com/pma/lfsr) - Elixir implementation of a binary Galois Linear Feedback Shift Register.
 *   [trie (⭐132)](https://github.com/okeuday/trie) - Erlang Trie Implementation.
@@ -103,13 +103,13 @@
 ### Authentication
 
 *   [apache\_passwd\_md5 (⭐5)](https://github.com/kevinmontuori/Apache.PasswdMD5) - Apache/APR Style Password Hashing.
-*   [oauther (⭐67)](https://github.com/lexmag/oauther) - An OAuth 1.0 implementation for Elixir.
+*   [oauther (⭐70)](https://github.com/lexmag/oauther) - An OAuth 1.0 implementation for Elixir.
 
 ### Build Tools
 
-*   [coffee\_rotor (⭐17)](https://github.com/HashNuke/coffee_rotor) - Rotor plugin to compile CoffeeScript files.
+*   [coffee\_rotor (⭐16)](https://github.com/HashNuke/coffee_rotor) - Rotor plugin to compile CoffeeScript files.
 *   [reltool\_util (⭐26)](https://github.com/okeuday/reltool_util) - Erlang reltool utility functionality application.
-*   [rotor (⭐83)](https://github.com/HashNuke/rotor) - Super-simple build system for Elixir.
+*   [rotor (⭐82)](https://github.com/HashNuke/rotor) - Super-simple build system for Elixir.
 
 ### Cloud Infrastructure and Management
 
@@ -123,7 +123,7 @@
 
 ### Date and Time
 
-*   [moment (⭐29)](https://github.com/atabary/moment) - Parse, validate, manipulate, and display dates in Elixir.
+*   [moment (⭐28)](https://github.com/atabary/moment) - Parse, validate, manipulate, and display dates in Elixir.
 
 ### Debugging
 
@@ -131,28 +131,28 @@
 
 ### Framework Components
 
-*   [exrecaptcha (⭐11)](https://github.com/adanselm/exrecaptcha) - Simple reCaptcha display/verify code for Elixir applications.
+*   [exrecaptcha (⭐12)](https://github.com/adanselm/exrecaptcha) - Simple reCaptcha display/verify code for Elixir applications.
 *   [plug\_jwt (⭐39)](https://github.com/bryanjos/plug_jwt) - Plug for JWT authentication.
 
 ### Images
 
-*   [mogrify (⭐558)](https://github.com/route/mogrify) - An Elixir wrapper for ImageMagick command line.
+*   [mogrify (⭐571)](https://github.com/route/mogrify) - An Elixir wrapper for ImageMagick command line.
 
 ### JSON
 
-*   [json (⭐219)](https://github.com/cblage/elixir-json) - Native JSON library for Elixir.
+*   [json (⭐218)](https://github.com/cblage/elixir-json) - Native JSON library for Elixir.
 *   [poison (⭐2k)](https://github.com/devinus/poison) - Poison is a new JSON library for Elixir focusing on wicked-fast speed without sacrificing simplicity, completeness, or correctness.
 
 ### Miscellaneous
 
 *   [address\_us (⭐30)](https://github.com/smashedtoatoms/address_us) - Library for parsing US Addresses into their individual parts.
-*   [erlang\_term (⭐34)](https://github.com/okeuday/erlang_term) - Provide the in-memory size of Erlang terms, ignoring where these are stored.
-*   [exprint (⭐35)](https://github.com/parroty/exprintf) - A printf / sprintf library for Elixir, works as a wrapper for :io.format.
+*   [erlang\_term (⭐33)](https://github.com/okeuday/erlang_term) - Provide the in-memory size of Erlang terms, ignoring where these are stored.
+*   [exprint (⭐33)](https://github.com/parroty/exprintf) - A printf / sprintf library for Elixir, works as a wrapper for :io.format.
 *   [keys1value (⭐1)](https://github.com/okeuday/keys1value) - Erlang set associative map for key lists.
 
 ### ORM and Datamapping
 
-*   [amnesia (⭐692)](https://github.com/meh/amnesia) - Mnesia wrapper for Elixir.
+*   [amnesia (⭐698)](https://github.com/meh/amnesia) - Mnesia wrapper for Elixir.
 *   [exleveldb (⭐44)](https://github.com/skovsgaard/exleveldb) - Elixir wrapper around Basho's eleveldb module for LevelDB.
 *   [hstore](https://github.com/senecasystems/hstore) - Hstore support for Postgrex.
 
@@ -167,17 +167,17 @@
 
 ### Statistics
 
-*   [statistics (⭐138)](https://github.com/msharp/elixir-statistics) - Some basic statistical functions for Elixir.
+*   [statistics (⭐139)](https://github.com/msharp/elixir-statistics) - Some basic statistical functions for Elixir.
 
 ### Testing
 
-*   [meck (⭐811)](https://github.com/eproxus/meck) - A mocking library for Erlang.
+*   [meck (⭐819)](https://github.com/eproxus/meck) - A mocking library for Erlang.
 
 ### Text and Numbers
 
 *   [dicer (⭐4)](https://github.com/olhado/dicer) - A dice roller expression evaluator.
 *   [quickrand (⭐41)](https://github.com/okeuday/quickrand) - Quick Random Number Generation.
-*   [uuid\_erl (⭐216)](https://github.com/okeuday/uuid) - Erlang Native UUID Generation.
+*   [uuid\_erl (⭐217)](https://github.com/okeuday/uuid) - Erlang Native UUID Generation.
 
 ### Third Party APIs
 
@@ -185,7 +185,7 @@
 *   [forecast\_io (⭐8)](https://github.com/r-icarus/forecast_io) - Simple wrapper for Forecast.IO API.
 *   [hexoku](https://github.com/JonGretar/Hexoku) - Heroku API client and Heroku Mix tasks for Elixir projects.
 *   [link\_shrinkex (⭐8)](https://github.com/jonahoffline/link_shrinkex) - Elixir library for creating short URLs using Google's URL Shortener API.
-*   [mailgun (⭐194)](https://github.com/chrismccord/mailgun) - Elixir Mailgun Client.
+*   [mailgun (⭐196)](https://github.com/chrismccord/mailgun) - Elixir Mailgun Client.
 *   [parsex (⭐2)](https://github.com/maarek/ParsEx) - ParsEx is an Elixir HTTP Client for communicating with Parse.com's Restful API.
 
 ### XML
@@ -209,11 +209,11 @@
 
 ### Authorization
 
-*   [CanCanCan (⭐5.5k)](https://github.com/CanCanCommunity/cancancan) - Continuation of CanCan, an authorization Gem for Ruby on Rails.
+*   [CanCanCan (⭐5.6k)](https://github.com/CanCanCommunity/cancancan) - Continuation of CanCan, an authorization Gem for Ruby on Rails.
 
 ### Performance Monitoring
 
-*   [Skylight (⭐310)](https://github.com/skylightio/skylight-ruby) - A smart profiler for your Rails apps that visualizes request performance.
+*   [Skylight (⭐314)](https://github.com/skylightio/skylight-ruby) - A smart profiler for your Rails apps that visualizes request performance.
 
 ## [6. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
@@ -231,35 +231,35 @@
 
 *   [libsequence](http://molpopgen.github.io/libsequence/) - A C++ library for representing and analyzing population genetics data. \[GPL]
 *   [SeqAn](http://www.seqan.de/) - Algorithms and data structures for the analysis of sequences with the focus on biological data. \[BSD/3-clause]
-*   [Vcflib (⭐613)](https://github.com/ekg/vcflib) - A C++ library for parsing and manipulating VCF files. \[MIT]
+*   [Vcflib (⭐631)](https://github.com/ekg/vcflib) - A C++ library for parsing and manipulating VCF files. \[MIT]
 
 ### Cryptography
 
 *   [Botan](http://botan.randombit.net/) - A crypto library for C++. \[BSD-2]
 *   [GnuPG](https://www.gnupg.org/) - A complete and free implementation of the OpenPGP standard. \[GPL]
 *   [LibreSSL](http://www.libressl.org/) - A free version of the SSL/TLS protocol forked from OpenSSL in 2014. \[?]
-*   [LibTomCrypt (⭐1.5k)](https://github.com/libtom/libtomcrypt) - A fairly comprehensive, modular and portable cryptographic toolkit. \[WTFPL]
+*   [LibTomCrypt (⭐1.6k)](https://github.com/libtom/libtomcrypt) - A fairly comprehensive, modular and portable cryptographic toolkit. \[WTFPL]
 *   [Nettle](http://www.lysator.liu.se/~nisse/nettle/) - A low-level cryptographic library. \[LGPL]
 
 ### Image Processing
 
-*   [VIGRA (⭐407)](https://github.com/ukoethe/vigra) - A generic C++ computer vision library for image analysis. \[MIT X11]
+*   [VIGRA (⭐418)](https://github.com/ukoethe/vigra) - A generic C++ computer vision library for image analysis. \[MIT X11]
 
 ### JSON
 
-*   [YAJL (⭐2.1k)](https://github.com/lloyd/yajl) - A fast streaming JSON parsing library in C. \[ISC]
+*   [YAJL (⭐2.2k)](https://github.com/lloyd/yajl) - A fast streaming JSON parsing library in C. \[ISC]
 
 ### Robotics
 
 *   [MOOS-IvP](http://moos-ivp.org) - A set of open source C++ modules for providing autonomy on robotic platforms, in particular autonomous marine vehicles.
 *   [MRPT](http://www.mrpt.org/) - Mobile Robot Programming Toolkit. \[BSD]
-*   [PCL (⭐9.8k)](https://github.com/PointCloudLibrary/pcl) - Point Cloud Library is a standalone, large scale, open project for 2D/3D image and point cloud processing. \[BSD] [website](http://www.pointclouds.org/)
+*   [PCL (⭐10k)](https://github.com/PointCloudLibrary/pcl) - Point Cloud Library is a standalone, large scale, open project for 2D/3D image and point cloud processing. \[BSD] [website](http://www.pointclouds.org/)
 *   [Robotics Library (RL)](http://www.roboticslibrary.org/) - A self-contained C++ library for robot kinematics, motion planning and control. \[BSD]
 *   [ROS](http://wiki.ros.org/) - Robot Operating System provides libraries and tools to help software developers create robot applications. \[BSD]
 
 ### Virtual Machines
 
-*   [MicroPython (⭐19k)](https://github.com/micropython/micropython) - Aims to put an implementation of Python 3.x on a microcontroller. \[MIT]
+*   [MicroPython (⭐20k)](https://github.com/micropython/micropython) - Aims to put an implementation of Python 3.x on a microcontroller. \[MIT]
 
 ### Miscellaneous
 
@@ -268,14 +268,14 @@
 ### Integrated Development Environment
 
 *   [AppCode](http://www.jetbrains.com/objc/) - an IDE for Objective-C, C, C++, and JavaScript development built on JetBrains’ IntelliJ IDEA platform.
-*   [Irony-mode (⭐904)](https://github.com/Sarcasm/irony-mode) - A C/C++ minor mode for Emacs powered by libclang.
+*   [Irony-mode (⭐913)](https://github.com/Sarcasm/irony-mode) - A C/C++ minor mode for Emacs powered by libclang.
 *   [rtags (⭐1.8k)](https://github.com/Andersbakken/rtags) - A c/c++ client/server indexer with for integration with emacs based on clang.
 
 ### Build Systems
 
-*   [CPM (⭐741)](https://github.com/iauns/cpm) - A C++ Package Manager based on CMake and Git.
+*   [CPM (⭐747)](https://github.com/iauns/cpm) - A C++ Package Manager based on CMake and Git.
 *   [FASTBuild](http://www.fastbuild.org/docs/home.html) - High performance, open-source build system supporting highly scalable compilation, caching and network distribution.
-*   [tundra (⭐437)](https://github.com/deplinenoise/tundra) - High-performance code build system designed to give the best possible incremental build times even for very large software projects.
+*   [tundra (⭐440)](https://github.com/deplinenoise/tundra) - High-performance code build system designed to give the best possible incremental build times even for very large software projects.
 *   [tup](http://gittup.org/tup/) - File-based build system that monitors in the background for changed files.
 
 ### Static Code Analysis
@@ -298,7 +298,7 @@
 
 ### Image Processing / Other
 
-*   [lena.js (⭐639)](https://github.com/davidsonfellipe/lena.js) - A Library for image processing with filters and util functions.
+*   [lena.js (⭐643)](https://github.com/davidsonfellipe/lena.js) - A Library for image processing with filters and util functions.
 
 ---
 

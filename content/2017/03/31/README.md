@@ -50,7 +50,7 @@
 
 ### Misc
 
-*   [Enums.NET (⭐1.7k)](https://github.com/TylerBrinkley/Enums.NET) - Enums.NET is a high-performance type-safe .NET enum utility library
+*   [Enums.NET (⭐1.8k)](https://github.com/TylerBrinkley/Enums.NET) - Enums.NET is a high-performance type-safe .NET enum utility library
 
 ## [6. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 

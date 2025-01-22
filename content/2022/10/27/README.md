@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 27, 2022
 
-7 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -27,30 +27,24 @@
 
 *   [Litote/kmongo (⭐781)](https://github.com/Litote/kmongo) - KMongo - Kotlin toolkit for Mongo
 
-## [3. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
-
-### CakePHP Tutorials
-
-*   [Official Content Management Tutorial](https://book.cakephp.org/4/en/tutorials-and-examples/cms/installation.html)
-
-## [4. Amas](/content/sindresorhus/amas/README.md)
+## [3. Amas](/content/sindresorhus/amas/README.md)
 
 ### Ask these people anything!
 
 *   [Frances Coronel](https://francescoronel.com/ama) - Open source enthusiast, senior software engineer at Byteboard, Corgi mom.
 
-## [5. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [4. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Emulators
 
-*   [Blzhawk (⭐2.1k)](https://github.com/TASEmulators/BizHawk) - BizHawk is a multi-system emulator written in C#. BizHawk provides nice features for casual gamers such as full screen, and joypad support in addition to full rerecording and debugging tools for all system cores.
-*   [Ryujinx (⭐34k)](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
+*   [Blzhawk (⭐2.3k)](https://github.com/TASEmulators/BizHawk) - BizHawk is a multi-system emulator written in C#. BizHawk provides nice features for casual gamers such as full screen, and joypad support in addition to full rerecording and debugging tools for all system cores.
+*   [Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
 
 ### Image Processing
 
-*   [MagicScaler (⭐570)](https://github.com/saucecontrol/PhotoSauce) - High-performance image processing pipeline for .NET, focused on making complex imaging tasks simple.
+*   [MagicScaler (⭐622)](https://github.com/saucecontrol/PhotoSauce) - High-performance image processing pipeline for .NET, focused on making complex imaging tasks simple.
 
-## [6. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [5. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Communication / Collaboration and Team Tools
 
@@ -60,7 +54,7 @@
 
 *   [Mullvad VPN](https://mullvad.net) - Privacy focused VPN that requires no personal information for use, keeps no logs, and allows payments with Bitcoin Cash, Monero and more. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/mullvad/mullvadvpn-app)
 
-## [7. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
+## [6. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
 ### In French
 

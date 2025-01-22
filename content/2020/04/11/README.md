@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 11, 2020
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -286,7 +286,7 @@
 
 ### Social Media Tools / Instagram
 
-*   [Toutatis (⭐1.8k)](https://github.com/megadose/toutatis) - a tool that allows you to extract information from instagrams accounts such as s, phone numbers and more
+*   [Toutatis (⭐2.2k)](https://github.com/megadose/toutatis) - a tool that allows you to extract information from instagrams accounts such as s, phone numbers and more
 
 ## [4. Awesome Embedded and Iot Security](/content/fkie-cad/awesome-embedded-and-iot-security/README.md)
 
@@ -310,38 +310,32 @@
 
 *   [QUIC-WG](https://quicwg.org/) - IETF Working Group that is chartered to deliver the next transport protocol for the Internet.
 
-## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / Frameworks
-
-*   [V-Craft (⭐300)](https://github.com/yoychen/v-craft) - A toolset for building extensible page builders with Vue.js.
-
-## [8. Awesome Powershell](/content/janikvonrotz/awesome-powershell/README.md)
+## [7. Awesome Powershell](/content/janikvonrotz/awesome-powershell/README.md)
 
 ### Blogs
 
 *   [Clear-Script](https://vexx32.github.io/) - Personal blog of Joel (Sallow) Francis.
 
-## [9. Awesome Actions](/content/sdras/awesome-actions/README.md)
+## [8. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
 ### Utility / Docker Container Actions
 
-*   [YAML/JSON/XML Converter (⭐25)](https://github.com/fabasoad/yaml-json-xml-converter-action) - Converts YAML/JSON/XML file formats interchangeably.
-*   [Memer Action (⭐23)](https://github.com/Bhupesh-V/memer-action) - A GitHub Action for Programmer Memes xD.
-*   [Public IP (⭐59)](https://github.com/haythem/public-ip) - Queries GitHub actions runner's public IP address.
+*   [YAML/JSON/XML Converter (⭐27)](https://github.com/fabasoad/yaml-json-xml-converter-action) - Converts YAML/JSON/XML file formats interchangeably.
+*   [Memer Action (⭐36)](https://github.com/Bhupesh-V/memer-action) - A GitHub Action for Programmer Memes xD.
+*   [Public IP (⭐111)](https://github.com/haythem/public-ip) - Queries GitHub actions runner's public IP address.
 
-## [10. Awesome R](/content/qinwf/awesome-R/README.md)
+## [9. Awesome R](/content/qinwf/awesome-R/README.md)
 
 ### 2020
 
 *   [VSCode](https://code.visualstudio.com/) - [vscode-R](https://marketplace.visualstudio.com/items?itemName=Ikuyadeu.r) + [vscode-r-lsp](https://marketplace.visualstudio.com/items?itemName=REditorSupport.r-lsp) VSCode R Langauage Support
-*   [gt (⭐1.9k)](https://github.com/rstudio/gt) - Easily generate information-rich, publication-quality tables from R
+*   [gt (⭐2k)](https://github.com/rstudio/gt) - Easily generate information-rich, publication-quality tables from R
 
 ### Integrated Development Environments
 
 *   [VSCode <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](https://code.visualstudio.com/) - [vscode-R](https://marketplace.visualstudio.com/items?itemName=Ikuyadeu.r) + [vscode-r-lsp](https://marketplace.visualstudio.com/items?itemName=REditorSupport.r-lsp) VSCode R Langauage Support
 
-## [11. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [10. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Go / Data Analysis / Data Visualization
 

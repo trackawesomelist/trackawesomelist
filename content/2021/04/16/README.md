@@ -78,13 +78,13 @@
 
 ### Tools & Software / Utilities
 
-*   [httrack2warc (⭐27)](https://github.com/nla/httrack2warc) - Convert HTTrack archives to WARC format (Java).
+*   [httrack2warc (⭐32)](https://github.com/nla/httrack2warc) - Convert HTTrack archives to WARC format (Java).
 
 ## [8. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
 
 ### Python / Trading & Backtesting
 
-*   [bta-lib (⭐445)](https://github.com/mementum/bta-lib) - Technical Analysis library in pandas for backtesting algotrading and quantitative analysis.
+*   [bta-lib (⭐460)](https://github.com/mementum/bta-lib) - Technical Analysis library in pandas for backtesting algotrading and quantitative analysis.
 
 ## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 29, 2023
 
-7 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,7 +16,7 @@
 
 ### Applications / Database
 
-*   [GreptimeDB (⭐4.1k)](https://github.com/grepTimeTeam/greptimedb/) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported.[![CI](https://github.com/greptimeTeam/greptimedb/actions/workflows/develop.yml/badge.svg)](https://github.com/greptimeTeam/greptimedb/actions/workflows/develop.yml)
+*   [GreptimeDB (⭐4.6k)](https://github.com/grepTimeTeam/greptimedb/) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported.[![CI](https://github.com/greptimeTeam/greptimedb/actions/workflows/develop.yml/badge.svg)](https://github.com/greptimeTeam/greptimedb/actions/workflows/develop.yml)
 
 ## [3. Awesome Java](/content/akullpp/awesome-java/README.md)
 
@@ -30,7 +30,7 @@
 
 ### Database / Text-Based User Interfaces
 
-*   [OpenDJ (⭐356)](https://github.com/OpenIdentityPlatform/OpenDJ) - LDAPv3 compliant directory service, developed for the Java platform, providing a high performance, highly available, and secure store for the identities.
+*   [OpenDJ (⭐368)](https://github.com/OpenIdentityPlatform/OpenDJ) - LDAPv3 compliant directory service, developed for the Java platform, providing a high performance, highly available, and secure store for the identities.
 
 ### Dependency Injection / Text-Based User Interfaces
 
@@ -38,7 +38,7 @@
 
 ### Distributed Applications / Text-Based User Interfaces
 
-*   [OpenIG (⭐66)](https://github.com/OpenIdentityPlatform/OpenIG) - High-performance reverse proxy server with specialized session management and credential replay functionality.
+*   [OpenIG (⭐74)](https://github.com/OpenIdentityPlatform/OpenIG) - High-performance reverse proxy server with specialized session management and credential replay functionality.
 
 ### HTTP Clients / Text-Based User Interfaces
 
@@ -50,7 +50,7 @@
 
 ### Security / Other
 
-*   [OpenAM (⭐743)](https://github.com/OpenIdentityPlatform/OpenAM) - Access management solution that includes authentication, SSO, authorization, federation, entitlements and web services security.
+*   [OpenAM (⭐774)](https://github.com/OpenIdentityPlatform/OpenAM) - Access management solution that includes authentication, SSO, authorization, federation, entitlements and web services security.
 
 ## [4. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -58,43 +58,33 @@
 
 *   [The ChatGPT revolution is another tech fantasy](https://www.disconnect.blog/p/the-chatgpt-revolution-is-another)
 
-### Inbox: Speech-to-text (STT) and spoken content analysis / Deforum
+### Speech-to-text (STT) and spoken content analysis / Deforum
 
 *   [LeMUR](https://www.assemblyai.com/blog/lemur/): a single API, enabling developers to reason over their spoken data with a few lines of code
 
-## [5. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
-
-### GTFS Analysis Tools / Ruby
-
-*   [GTFS Display](https://git.wtf-eg.de/dancesWithCycles/gtfs-display) - Analyse, monitor and maintain GTFS data ([Example instances](https://www.swingbe.de/activity/gtfs-display/)).
-
-### GTFS Realtime Utilities / Ruby
-
-*   [GTFS Realtime Display](https://git.wtf-eg.de/dancesWithCycles/gtfs-rt-display) - Analyse, monitor and maintain GTFS Realtime data. [Example instances](https://www.swingbe.de/activity/gtfs-rt-display/)
-
-## [6. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
+## [5. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
 
 ### Tools - Miscellaneous / React
 
-*   [Dynaboard](https://dynaboard.com) - Generate low-code web apps from any GraphQL API using AI. <a name="databases" />
+*   [Dynaboard](https://dynaboard.com) - Generate low-code web apps from any GraphQL API using AI.
 
-## [7. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [6. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Markdown and LaTeX / Diagnostics
 
-*   [Zeioth/markmap.nvim (⭐152)](https://github.com/Zeioth/markmap.nvim) - Visualize your Markdown as mindmaps.
+*   [Zeioth/markmap.nvim (⭐175)](https://github.com/Zeioth/markmap.nvim) - Visualize your Markdown as mindmaps.
 
 ### Utility / Diagnostics
 
-*   [chrisgrieser/nvim-origami (⭐162)](https://github.com/chrisgrieser/nvim-origami) - Fold with relentless elegance.
+*   [chrisgrieser/nvim-origami (⭐208)](https://github.com/chrisgrieser/nvim-origami) - Fold with relentless elegance.
 
 ### Code Runner / Diagnostics
 
-*   [Zeioth/compiler.nvim (⭐465)](https://github.com/Zeioth/compiler.nvim) - Compiler for building and running your code without having to configure anything.
+*   [Zeioth/compiler.nvim (⭐544)](https://github.com/Zeioth/compiler.nvim) - Compiler for building and running your code without having to configure anything.
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [NormalNvim/NormalNvim (⭐459)](https://github.com/NormalNvim/NormalNvim) - Focused on stability for your daily work. From the creator of Compiler.nvim.
+*   [NormalNvim/NormalNvim (⭐568)](https://github.com/NormalNvim/NormalNvim) - Focused on stability for your daily work. From the creator of Compiler.nvim.
 
 ---
 

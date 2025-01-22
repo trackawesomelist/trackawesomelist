@@ -10,30 +10,30 @@
 
 ### Authentication
 
-*   [zachaeus (⭐17)](https://github.com/railsmechanic/zachaeus) - An easy to use licensing system, based on asymmetric cryptography.
+*   [zachaeus (⭐19)](https://github.com/railsmechanic/zachaeus) - An easy to use licensing system, based on asymmetric cryptography.
 
 ### Frameworks
 
-*   [RIG (⭐590)](https://github.com/Accenture/reactive-interaction-gateway) - Create low-latency, interactive user experiences for stateless microservices.
+*   [RIG (⭐592)](https://github.com/Accenture/reactive-interaction-gateway) - Create low-latency, interactive user experiences for stateless microservices.
 
 ### Queue
 
-*   [oban (⭐3.2k)](https://github.com/sorentwo/oban) - Robust asynchronous job processor powered by Elixir and modern PostgreSQL.
+*   [oban (⭐3.4k)](https://github.com/sorentwo/oban) - Robust asynchronous job processor powered by Elixir and modern PostgreSQL.
 
 ## [2. Awesome Coq](/content/coq-community/awesome-coq/README.md)
 
 ### Projects / Libraries
 
-*   [ALEA (⭐24)](https://github.com/coq-community/alea) - Library for reasoning on randomized algorithms.
-*   [Hahn (⭐29)](https://github.com/vafeiadis/hahn) - Library for reasoning on lists and binary relations.
+*   [ALEA (⭐25)](https://github.com/coq-community/alea) - Library for reasoning on randomized algorithms.
+*   [Hahn (⭐30)](https://github.com/vafeiadis/hahn) - Library for reasoning on lists and binary relations.
 
 ### Projects / Tools
 
-*   [Cosette (⭐658)](https://github.com/uwdb/Cosette) - Automated solver for reasoning about SQL query equivalences.
+*   [Cosette (⭐671)](https://github.com/uwdb/Cosette) - Automated solver for reasoning about SQL query equivalences.
 
 ### Resources / Community
 
-*   [Official Coq wiki (⭐4.7k)](https://github.com/coq/coq/wiki)
+*   [Official Coq wiki (⭐4.9k)](https://github.com/coq/coq/wiki)
 *   [Coq tag on Stack Overflow](https://stackoverflow.com/questions/tagged/coq)
 *   [Coq tag on Theoretical Computer Science Stack Exchange](https://cstheory.stackexchange.com/questions/tagged/coq)
 
@@ -48,14 +48,13 @@
 
 ### Tools / Plugins
 
-*   [gatling-maven-plugin (⭐35)](https://github.com/gatling/gatling-maven-plugin) - Gatling Maven Extensions.
+*   [gatling-maven-plugin (⭐36)](https://github.com/gatling/gatling-maven-plugin) - Gatling Maven Extensions.
 
 ## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Projects Using Vue.js / Open Source
 
-*   [VueComponentGenerator (⭐150)](https://github.com/ChangJoo-Park/vue-component-generator) - Generate vue single file component on browser.
-*   [Light Bootstrap Dashboard (⭐769)](https://github.com/creativetimofficial/vue-light-bootstrap-dashboard) - Creative Tim Light Bootstrap Dashboard made for Vue
+*   [Light Bootstrap Dashboard (⭐773)](https://github.com/creativetimofficial/vue-light-bootstrap-dashboard) - Creative Tim Light Bootstrap Dashboard made for Vue
 
 ## [5. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 
@@ -65,7 +64,7 @@
 
 ### Software / JavaScript
 
-*   [NetworkCube (⭐92)](https://github.com/networkcube/networkcube) - "Dynamic Network Visualizations \[for] Domain Scientists." For demo examples, see [The Vistorian](https://networkcube.github.io/vistorian/).
+*   [NetworkCube (⭐93)](https://github.com/networkcube/networkcube) - "Dynamic Network Visualizations \[for] Domain Scientists." For demo examples, see [The Vistorian](https://networkcube.github.io/vistorian/).
 
 ## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -105,8 +104,8 @@
 
 ### Driver crates / Other
 
-*   [usbd-hid-device](http://crates.io/crates/usbd-hid-device) - USB HID class implementation without `unsafe` - [github (⭐12)](https://github.com/agalakhov/usbd-hid-device) - ![crates.io](https://img.shields.io/crates/v/usbd-hid-device.svg)
-*   [usbd-midi](http://crates.io/crates/usbd-midi) - USB MIDI class implementation - [github (⭐44)](https://github.com/btrepp/usbd-midi) - ![crates.io](https://img.shields.io/crates/v/usbd-midi.svg)
+*   [usbd-hid-device](http://crates.io/crates/usbd-hid-device) - USB HID class implementation without `unsafe` - [github (⭐12)](https://github.com/agalakhov/usbd-hid-device) - [![crates.io](https://img.shields.io/crates/v/usbd-hid-device.svg)](https://crates.io/crates/usbd-hid-device)
+*   [usbd-midi](http://crates.io/crates/usbd-midi) - USB MIDI class implementation - [github (⭐50)](https://github.com/btrepp/usbd-midi) - [![crates.io](https://img.shields.io/crates/v/usbd-midi.svg)](https://crates.io/crates/usbd-midi)
 
 ---
 

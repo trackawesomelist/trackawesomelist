@@ -139,7 +139,6 @@
 
 ### Native Apps (closed source)
 
-*   [ally](http://www.allyapp.com/)
 *   [CityMapper](https://citymapper.com/)
 
 ### GTFS Realtime Utilities / Ruby
@@ -433,7 +432,7 @@
 
 ### Native Implemented Functions
 
-*   [Rustler (⭐4.3k)](https://github.com/hansihe/Rustler) - Library for writing NIFs for Erlang or Elixir safely in Rust. No segfaults.
+*   [Rustler (⭐4.4k)](https://github.com/hansihe/Rustler) - Library for writing NIFs for Erlang or Elixir safely in Rust. No segfaults.
 
 ### Protocols
 
@@ -496,7 +495,7 @@
 
 ### Scientific / XML
 
-*   [scid (⭐89)](https://github.com/DlangScience/scid) -  Scientific library for the D programming language
+*   [scid (⭐90)](https://github.com/DlangScience/scid) -  Scientific library for the D programming language
 *   [dstats (⭐25)](https://github.com/DlangScience/dstats) -  A statistics library for D.
 
 ---

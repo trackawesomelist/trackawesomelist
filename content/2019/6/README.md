@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 11 - Feb 17, 2019
 
-40 awesome lists updated this week.
+38 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -29,7 +29,7 @@
 
 ### Music Programming
 
-*   [Orca (⭐4.4k)](https://github.com/hundredrabbits/Orca) - live programming environment for music.
+*   [Orca (⭐4.6k)](https://github.com/hundredrabbits/Orca) - live programming environment for music.
 
 ## [5. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
 
@@ -41,21 +41,21 @@
 
 ### Contents / Personalization
 
-*   [Dashboard (⭐906)](https://github.com/Ivaskuu/dashboard) - Dashboard concept made by [Ivascu Adrian](https://github.com/Ivaskuu/).
-*   [Tailor made (⭐323)](https://github.com/jogboms/tailor_made) - Managing a Fashion designer's daily routine by [Jeremiah Ogbomo](https://github.com/jogboms).
+*   [Dashboard (⭐918)](https://github.com/Ivaskuu/dashboard) - Dashboard concept made by [Ivascu Adrian](https://github.com/Ivaskuu/).
+*   [Tailor made (⭐327)](https://github.com/jogboms/tailor_made) - Managing a Fashion designer's daily routine by [Jeremiah Ogbomo](https://github.com/jogboms).
 
 ### Contents / Social Network
 
-*   [FlutterWhatsAppClone (⭐1.6k)](https://github.com/iampawan/FlutterWhatsAppClone) - Building a WhatsApp Clone in Flutter by [Pawan Kumar](https://github.com/iampawan).
-*   [Tinder Card (⭐824)](https://github.com/Ivaskuu/tinder_cards) - Tinder like cards swipe effect by [Ivascu Adrian](https://github.com/Ivaskuu/).
+*   [FlutterWhatsAppClone (⭐1.7k)](https://github.com/iampawan/FlutterWhatsAppClone) - Building a WhatsApp Clone in Flutter by [Pawan Kumar](https://github.com/iampawan).
+*   [Tinder Card (⭐835)](https://github.com/Ivaskuu/tinder_cards) - Tinder like cards swipe effect by [Ivascu Adrian](https://github.com/Ivaskuu/).
 
 ### Contents / Shopping
 
-*   [Plantly (⭐167)](https://github.com/Ivaskuu/plantly) - App concept where you can purchase and get info of plants by [Ivascu Adrian](https://github.com/Ivaskuu/).
+*   [Plantly (⭐168)](https://github.com/Ivaskuu/plantly) - App concept where you can purchase and get info of plants by [Ivascu Adrian](https://github.com/Ivaskuu/).
 
 ### Contents / Travel
 
-*   [Travel Guide (⭐27)](https://github.com/Ivaskuu/travel-guide_app) - Travel guide app by [Ivascu Adrian](https://github.com/Ivaskuu/).
+*   [Travel Guide (⭐30)](https://github.com/Ivaskuu/travel-guide_app) - Travel guide app by [Ivascu Adrian](https://github.com/Ivaskuu/).
 
 ## [7. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
@@ -74,9 +74,9 @@
 
 ### GTFS Data Collection and Maintenance Tools / Ruby
 
-*   [pfaedle (⭐184)](https://github.com/ad-freiburg/pfaedle) - Precise map-matching for GTFS using OpenStreetMap data
+*   [pfaedle (⭐214)](https://github.com/ad-freiburg/pfaedle) - Precise map-matching for GTFS using OpenStreetMap data
 
-### Other multimodal data formats / Ruby
+### Pilot or development stage / Ruby
 
 *   [NCHRP 08-119 Developing Data Standards and Guidance for Transportation Planning and Traffic Operations - Phase 1 (Anticipated)](http://apps.trb.org/cmsfeed/TRBNetProjectDisplay.asp?ProjectID=4543) - The objective of this research is to develop standards and/or guidance to be used and adopted by the transportation community in collecting, managing, and sharing static and real-time data for transportation planning and operations.
 
@@ -93,13 +93,7 @@
 
 *   [Mixkit](https://mixkit.co/) - A gallery of high-quality videos and animation
 
-## [12. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
-
-### Open Source Projects / Wealth
-
-*   [BetterSelf](https://betterself.io) - An open sourced app for tracking supplements and habits
-
-## [13. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [12. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Package Management
 
@@ -107,9 +101,9 @@
 
 ### Tools
 
-*   [NETworkManager (⭐6.2k)](https://github.com/BornToBeRoot/NETworkManager) - A powerful tool for managing networks and troubleshoot network problems!
+*   [NETworkManager (⭐6.8k)](https://github.com/BornToBeRoot/NETworkManager) - A powerful tool for managing networks and troubleshoot network problems!
 
-## [14. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [13. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### Components / Apache License
 
@@ -121,12 +115,12 @@
 
 ### Web / Apache License
 
-*   [awa (⭐93)](https://github.com/stcarrez/ada-awa) - Ada Web Application is a framework to build a Web Application in Ada 2012. The framework provides several ready to use and extendable modules that are common to many web application. This includes the login, authentication, users, permissions, managing comments, tags, votes, documents, images.
+*   [awa (⭐96)](https://github.com/stcarrez/ada-awa) - Ada Web Application is a framework to build a Web Application in Ada 2012. The framework provides several ready to use and extendable modules that are common to many web application. This includes the login, authentication, users, permissions, managing comments, tags, votes, documents, images.
     *   [dynamo (⭐17)](https://github.com/stcarrez/dynamo) - Code generator used to generate an Ada Web Application or database mappings from hibernate-like XML description, YAML doctrine model or UML models.
     *   [ada-wiki (⭐19)](https://github.com/stcarrez/ada-wiki) - Ada Wiki is a small library that provides a Wiki engine.
     *   [ada-security (⭐22)](https://github.com/stcarrez/ada-security) - OAuth 2.0 client and server framework to secure web applications.
     *   [ada-el (⭐7)](https://github.com/stcarrez/ada-el) - This library provides the support for a simple Expression Language close to the Java Unified Expression Language (EL).
-    *   [ada-asf (⭐12)](https://github.com/stcarrez/ada-asf) - Ada Server Faces allows to create web applications using the same pattern as the Java Server Faces (See JSR 252, JSR 314 and JSR 344).
+    *   [ada-asf (⭐13)](https://github.com/stcarrez/ada-asf) - Ada Server Faces allows to create web applications using the same pattern as the Java Server Faces (See JSR 252, JSR 314 and JSR 344).
     *   [ada-servlet (⭐7)](https://github.com/stcarrez/ada-servlet) - Ada Servlet allows to create web applications using the same pattern as the Java Servlet (See JSR 154, JSR 315).
 *   [swagger-ada (⭐27)](https://github.com/stcarrez/swagger-ada) - Ada support for Swagger codegen: OpenAPI Generator is a code generator that supports generation of API client libraries, server stubs and documentation automatically given an OpenAPI Spec.
 
@@ -136,21 +130,21 @@
 
 ### Applications / Apache License
 
-*   [etherscope (⭐17)](https://github.com/stcarrez/etherscope) - Ethernet traffic monitor on a STM32F746 board.
+*   [etherscope (⭐18)](https://github.com/stcarrez/etherscope) - Ethernet traffic monitor on a STM32F746 board.
 
-## [15. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
+## [14. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
 
 ### JavaScript
 
 *   [not-paid.js (⭐9.5k)](https://github.com/kleampa/not-paid) - Add opacity to the body tag and increase it every day until their site completely fades away. 💸
 
-## [16. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
+## [15. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
 
 ### Contents / Tutorials
 
 *   [Newgrounds Medals Tutorial (⭐12)](https://github.com/Bigaston/pico-8-newgrounds-tutorial) - a little tutorial to add Newgrounds Medals to PICO-8 games.
 
-## [17. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [16. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In English
 
@@ -166,19 +160,19 @@
 
 *   [Webbidevaus.fi](https://webbidevaus.fi/) - Weekly podcast about web-development. Hosted by Antti Mattila and Riku Rouvila.
 
-## [18. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
+## [17. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
 ### Multimedia content processing
 
-*   [Beam Coder (⭐390)](https://github.com/Streampunk/beamcoder) - Node.js native bindings to FFmpeg, with support for asynchronous processing via promises and streams.
+*   [Beam Coder (⭐401)](https://github.com/Streampunk/beamcoder) - Node.js native bindings to FFmpeg, with support for asynchronous processing via promises and streams.
 
-## [19. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
+## [18. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
 ### CMS
 
 *   [TakeShape](https://www.takeshape.io/) - Headless GraphQL API CMS with 1-click deploy to Netlify.
 
-## [20. Awesome Homematic](/content/homematic-community/awesome-homematic/week/README.md)
+## [19. Awesome Homematic](/content/homematic-community/awesome-homematic/week/README.md)
 
 ### Community Ressources (mostly german language)
 
@@ -211,14 +205,14 @@
 *   [IP-Symcon](https://www.symcon.de/) - 💵
 *   [Mediola](https://www.mediola.com/) - 💵
 
-## [21. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [20. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Resources in Other Languages / Japanese
 
 *   [Design Mistakes in Node & Deno #kng5 / deno](https://speakerdeck.com/masashi/deno)
 *   [Dive into Deno：プロセス起動からTypeScriptが実行されるまで](https://blog.leko.jp/post/code-reading-of-deno-boot-process/)
 
-## [22. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
+## [21. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
 
 ### E-Commerce / Provided by the Host
 
@@ -228,25 +222,25 @@
 
 *   [CloudSh](https://cloudsh.com/) - Powerful search for your website with a few lines of JavaScript.
 
-## [23. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [22. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### Tools / Ruby
 
 *   [Domain Storytelling](http://www.domainstorytelling.org/) - a knowledge-crunching technique that helps the people involved to familiarize themselves with the domain and work out a model that expresses their shared understanding. Available as a [print-out template](http://www.domainstorytelling.org/images/DST_Whiteboard-Kit.pdf), as well as open-source online tool, [WPS Modeler](https://www.wps.de/modeler) ([source (⭐698)](https://github.com/wps/domain-story-modeler)).
 
-## [24. Awesome Open Source Supporters](/content/zachflower/awesome-open-source-supporters/week/README.md)
+## [23. Awesome Open Source Supporters](/content/zachflower/awesome-open-source-supporters/week/README.md)
 
 ### Continuous Integration
 
 *   [Bitrise](https://www.bitrise.io/) - Hosted CI/CD for Android and iOS, free for Public Projects.
 
-## [25. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
+## [24. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
 
 ### LG webOS / Third-party remote control libraries
 
 *   [homebridge-webos-tv (⭐556)](https://github.com/merdok/homebridge-webos-tv) - A plugin for [Homebridge (⭐21k)](https://github.com/nfarina/homebridge) which allows you to control your webOS TV.
 
-## [26. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [25. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Finance
 
@@ -260,7 +254,7 @@
 
   CORS: Yes
 
-  Call this API: 
+  : 
 
 
 
@@ -328,20 +322,20 @@
 
 
 
-## [27. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+## [26. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### GDScript/C# editor support / Godot version unknown
 
 *   [Atom](https://atom.io/packages/lang-gdscript) - Syntax highlighting.
 *   [Geany (⭐21)](https://github.com/haimat/GDScript-Geany) - Syntax highlighting.
 *   [Gedit (⭐17)](https://github.com/haimat/GDScript-gedit) - Syntax highlighting.
-*   [Sublime Text (⭐68)](https://github.com/beefsack/GDScript-sublime) - Syntax highlighting.
+*   [Sublime Text (⭐67)](https://github.com/beefsack/GDScript-sublime) - Syntax highlighting.
 
-### Godot script editor syntax themes / Godot version unknown
+### Syntax themes / Godot version unknown
 
-*   [base16-godot (⭐31)](https://github.com/Calinou/base16-godot) - All [base16 (⭐539)](https://github.com/chriskempson/base16) themes.
+*   [base16-godot (⭐34)](https://github.com/Calinou/base16-godot) - All [base16 (⭐656)](https://github.com/chriskempson/base16) themes.
 
-## [28. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [27. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### Caching
 
@@ -349,13 +343,13 @@
 
 ### Development / Text-Based User Interfaces
 
-*   [SneakyThrow (⭐75)](https://github.com/rainerhahnekamp/sneakythrow) - Ignores checked exceptions without bytecode manipulation. Can also be used inside Java 8 stream operations.
+*   [SneakyThrow (⭐77)](https://github.com/rainerhahnekamp/sneakythrow) - Ignores checked exceptions without bytecode manipulation. Can also be used inside Java 8 stream operations.
 
 ### Miscellaneous / Text-Based User Interfaces
 
 *   [FF4J (⭐1.4k)](https://github.com/ff4j/ff4j) - Feature Flags for Java.
 
-## [29. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
+## [28. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
 
 ### Research Papers
 
@@ -365,13 +359,13 @@
 
 *   [University of Oslo: Introduction to Automatic and Scalable Machine Learning with H2O and R](https://www.ub.uio.no/english/courses-events/events/all-libraries/2019/research-bazaar-2019.html) - Research Bazaar 2019
 
-## [30. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [29. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### ORM and Datamapping
 
-*   [ecto\_shortuuid (⭐27)](https://github.com/gpedic/ecto_shortuuid) - Ecto type which adds support for [ShortUUIDs (⭐44)](https://github.com/gpedic/ex_shortuuid).
+*   [ecto\_shortuuid (⭐28)](https://github.com/gpedic/ecto_shortuuid) - Ecto type which adds support for [ShortUUIDs (⭐47)](https://github.com/gpedic/ex_shortuuid).
 
-## [31. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [30. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / API
 
@@ -386,15 +380,7 @@
 
 *   [NuKeeper (⭐540)](https://github.com/NuKeeperDotNet/NuKeeper) - Automagically update nuget packages in .NET projects.
 
-## [32. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
-
-### Libraries / PHP
-
-*   [PHPMongo ODM (⭐242)](https://github.com/sokil/php-mongo) - ODM based on the PHP Mongo PECL extension
-*   [PHPMongo Migrator (⭐29)](https://github.com/sokil/php-mongo-migrator) - Migration tool based on PHPMongo ODM
-*   [yadm (⭐85)](https://github.com/formapro/yadm) - Fast schemaless ODM
-
-## [33. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/week/README.md)
+## [31. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/week/README.md)
 
 ### Open Source Projects / Games
 
@@ -409,7 +395,7 @@
 *   [Reini Urban](https://www.patreon.com/rurban) - Maintaining and developing software such as cperl, parrot, a lot of perl5 modules, safeclib and libredwg.
 *   [Ryan C. Gordon](https://www.patreon.com/icculus), [#2](https://liberapay.com/icculus/) - Linux ports of games, game-related utilities.
 
-## [34. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [32. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Reading and Writing Tools / Text Editors
 
@@ -417,7 +403,7 @@
 
 ### Reading and Writing Tools / Markdown Tools
 
-*   [MarkText (⭐46k)](https://github.com/marktext/marktext) - Next generation markdown editor, running on platforms of MacOS Windows and Linux. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/marktext/marktext) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [MarkText (⭐48k)](https://github.com/marktext/marktext) - Next generation markdown editor, running on platforms of MacOS Windows and Linux. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/marktext/marktext) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Reading and Writing Tools / Others
 
@@ -439,10 +425,10 @@
 
 ### Developer Tools / Command Line Tools
 
-*   [cool-retro-term (⭐22k)](https://github.com/Swordfish90/cool-retro-term) - Good looking terminal emulator which mimics the old cathode display. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/Swordfish90/cool-retro-term)
-*   [fselect (⭐4k)](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/jhspetersson/fselect)
+*   [cool-retro-term (⭐23k)](https://github.com/Swordfish90/cool-retro-term) - Good looking terminal emulator which mimics the old cathode display. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/Swordfish90/cool-retro-term)
+*   [fselect (⭐4.1k)](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/jhspetersson/fselect)
 *   [m-cli (⭐9.7k)](https://github.com/rgcr/m-cli) - Swiss Army Knife for macOS. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/rgcr/m-cli) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [pgcli](https://www.pgcli.com) - Pgcli is a command line interface for Postgres with auto-completion and syntax highlighting. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/dbcli/pgcli) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [pgcli](https://www.pgcli.com) - Pgcli is a command line interface for Postgres with auto-completion and syntax
 
 ### Developer Tools / Frameworks For Hybrid Applications
 
@@ -454,7 +440,7 @@
 
 ### Developer Tools / Databases
 
-*   [MongoDB](https://www.mongodb.com) - MongoDB is a document database with the scalability and flexibility that you want with the querying and indexing that you need. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/gcollazo/mongodbapp) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![Awesome List](https://jaywcjlove.github.io/sb/ico/min-awesome.svg "Awesome List")](https://github.com/ramnes/awesome-mongodb#desktop)
+*   [MongoDB](https://www.mongodb.com) - Scalable, flexible document database with querying and indexing. [![OSS](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/gcollazo/mongodbapp) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![Awesome List](https://jaywcjlove.github.io/sb/ico/min-awesome.svg "Awesome List")](https://github.com/ramnes/awesome-mongodb#desktop)
 *   [PSequel](http://www.psequel.com/) - PostgreSQL GUI tool for Mac OS X. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [SQLight](https://aurvan.com/sqlight/) - SQLite database manager tool. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [SQLPro Studio](http://www.sqlprostudio.com/) - Simple, powerful database manager for macOS.
@@ -463,7 +449,7 @@
 ### Design and Product / Design Tools
 
 *   [Alchemy](http://al.chemy.org/) - Experimental, open-source drawing application with an emphasis on creating conceptual art. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](http://svn.al.chemy.org/)
-*   [Art Text 3](https://www.belightsoft.com/art-text/) - This is graphic design software specifically tuned for lettering, typography, text mockups and various artistic text effects.
+*   [Art Text 3](https://www.belightsoft.com/art-text/) - Graphic design software for lettering, typography, and text effects.
 *   [Figma](https://www.figma.com/) - The collaborative interface design tool, for vector graphics and UI prototyping. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [FontForge](http://fontforge.github.io/) - Free, open-source font editor. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/fontforge) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [GIMP](https://www.gimp.org) - The GNU Image Manipulation Program. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://www.gimp.org/source/#gimp-source-code)
@@ -472,7 +458,7 @@
 *   [MagicaVoxel](https://ephtracy.github.io/) - Free, lightweight 8-bit voxel editor and interactive path tracing renderer.
 *   [Pixelmator](http://www.pixelmator.com/mac/) - Full-featured image editor for Mac.
 *   [Sketch](http://www.sketchapp.com/) - Professional digital design for mac.
-    *   [Sketch Cache Cleaner](https://yo-op.github.io/sketchcachecleaner/) - Deletes hidden Sketch history files that can take a lot of space on your hard drive and that you would probably never use. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/yo-op/sketchcachecleaner) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+    *   [Sketch Cache Cleaner](https://yo-op.github.io/sketchcachecleaner/) - Deletes hidden Sketch history files. [![OSS](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/yo-op/sketchcachecleaner) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
     *   [Measure Plugin](http://utom.design/measure/) - Make it a fun to create spec for developers and teammates. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/utom/sketch-measure) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
     *   [Sketch Toolbox Plugin Manager](http://sketchtoolbox.com/) - Simple plugin manager for Sketch. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/buzzfeed/Sketch-Toolbox)
     *   [User Flows Plugin](https://abynim.github.io/UserFlows/) -  Generating flow diagrams from Artboards. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/abynim/UserFlows) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
@@ -500,22 +486,21 @@
 
 *   [Adapter](https://macroplant.com/adapter) -  Free audio, video and image conversion software. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Audacity](http://www.audacityteam.org/) - Free, open-source, cross-platform audio software for multi-track recording and editing. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/audacity/audacity)
-*   [Carol (⭐108)](https://github.com/AnaghSharma/Carol) - A minimal and beautiful lyrics app for macOS. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/AnaghSharma/Carol) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Carol (⭐113)](https://github.com/AnaghSharma/Carol) - A minimal and beautiful lyrics app for macOS. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/AnaghSharma/Carol) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Hydrogen](http://hydrogen-music.org/) - Professional yet simple and intuitive pattern-based drum programming for GNU/Linux. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/hydrogen-music/hydrogen)
-*   [IINA](https://lhc70000.github.io/iina/) - The modern video player for macOS. Based on mpv, the powerful media player project. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/lhc70000/iina) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Kodi](https://kodi.tv/) - Award-winning free and open-source (GPL) software media center for playing videos, music, pictures, games, and more. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/xbmc/xbmc) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [LosslessCut (⭐26k)](https://github.com/mifi/lossless-cut) - Cross platform tool for quick and lossless video and audio trimming using ffmpeg. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/mifi/lossless-cut)
-*   [LyricsX (⭐4.7k)](https://github.com/ddddxxx/LyricsX) - Lyrics for iTunes, Spotify and Vox. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ddddxxx/LyricsX) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [LosslessCut (⭐29k)](https://github.com/mifi/lossless-cut) - Cross platform tool for quick and lossless video and audio trimming using ffmpeg. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/mifi/lossless-cut)
+*   [LyricsX (⭐4.8k)](https://github.com/ddddxxx/LyricsX) - Lyrics for iTunes, Spotify and Vox. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ddddxxx/LyricsX) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Metadatics](http://markvapps.com/metadatics) - Advanced Audio Metadata Editor. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/metadatics/id554883654?mt=12)
 *   [Mixxx](http://mixxx.org/) - The most advanced free DJ software. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/mixxxdj/mixxx)
 *   [Movie Catcher](https://evilcult.github.io/moviecatcher/) - Movie movie and online viewing offline download software, with Baidu cloud to make offline download and online playback. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/EvilCult/moviecatcher)
 *   [mpv](https://www.mpv.io/) - Free, open-source, and cross-platform media player. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/mpv-player/mpv) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [MuseScore](https://musescore.org/) - Free, open-source music notation software. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/musescore/MuseScore) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Perian](http://perian.org/#download) - (**No longer under active development**) ~~Let QuickTime play all the common formats of free plug-ins~~. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/MaddTheSane/perian)
-*   [Sonora (⭐931)](https://github.com/sonoramac/Sonora) -  Minimal, beautifully designed music player. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/sonoramac/Sonora)
+*   [Sonora (⭐938)](https://github.com/sonoramac/Sonora) -  Minimal, beautifully designed music player. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/sonoramac/Sonora)
 *   [Stringed 2](http://stringed.buenosapps.com/) - Music practice software designed to help users learn how to play their favorite songs.
 *   [Synfig Studio](http://synfig.org) - Synfig Studio is free, open-source 2D animation software. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/synfig/synfig) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [VLC](http://www.videolan.org/index.html) - Free, open-source, cross-platform multimedia player as well as framework that plays most multimedia files, DVDs, Audio CDs, VCDs and various streaming protocols. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/videolan/vlc)
+*   [VLC](http://www.videolan.org/index.html) - Free, open-source, cross-platform multimedia player and framework that plays most multimedia files, DVDs, Audio CDs, VCDs, and various streaming protocols. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/videolan/vlc)
 *   [VOX Player](https://vox.rocks/mac-music-player) - High-definition audio player for Mac and iPhone. Music just sounds better! ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [XLD](http://tmkk.undo.jp/xld/index_e.html) - Tool to decode, convert and play various 'lossless' audio files. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://code.google.com/archive/p/xld/source)
 
@@ -529,7 +514,7 @@
 
 ### Proxy and VPN Tools / Audio Record and Process
 
-*   [ShadowsocksX-NG (⭐32k)](https://github.com/qiuyuzhou/ShadowsocksX-NG) - Next generation of ShadowsocksX. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/qiuyuzhou/ShadowsocksX-NG)
+*   [ShadowsocksX-NG (⭐33k)](https://github.com/qiuyuzhou/ShadowsocksX-NG) - Next generation of ShadowsocksX. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/qiuyuzhou/ShadowsocksX-NG)
 *   [ShadowsocksX](http://shadowsocks.org/) - Secure socks5 proxy, designed to protect your internet traffic. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/shadowsocks/shadowsocks)
 *   [Shimo](https://www.shimovpn.com/) - VPN Client for Mac.
 *   [SpechtLite (⭐2.9k)](https://github.com/zhuhaow/SpechtLite) - Rule-based proxy app for macOS.  [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/shadowsocks) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
@@ -540,7 +525,7 @@
 
 *   [Qbserve](https://qotoqot.com/qbserve/) - Time tracking automation: freelance project tracking, timesheets, invoicing & real-time productivity feedback.
 *   [RescueTime](https://www.rescuetime.com/) - Personal analytics service that shows you how you spend your time and provides tools to help you be more productive.
-*   [skhd (⭐6k)](https://github.com/koekeishiya/skhd) - Simple hotkey daemon for macOS. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/koekeishiya/skhd)
+*   [skhd (⭐6.7k)](https://github.com/koekeishiya/skhd) - Simple hotkey daemon for macOS. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/koekeishiya/skhd)
 *   [Timing](https://timingapp.com/) - Automatic time and productivity tracking for Mac. Helps you stay on track with your work and ensures no billable hours get lost if you are billing hourly.
 
 ### Utilities / Window Management
@@ -550,11 +535,11 @@
 *   [Magnet](http://magnet.crowdcafe.com/) - Window manager that keeps your workspace organized. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://itunes.apple.com/us/app/id441258766)
 *   [Moom](http://manytricks.com/moom/) - Allows you to easily move and zoom windows, or to another display—using either the mouse or the keyboard.
 *   [ShiftIt (⭐5.5k)](https://github.com/fikovnik/ShiftIt) - Managing window size and position in OSX. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/fikovnik/ShiftIt) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [Slate (⭐7.9k)](https://github.com/jigish/slate) - Window management application similar to Divvy and SizeUp (except better and free!). (**Needs config file**) [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/jigish/slate)
+*   [Slate (⭐7.8k)](https://github.com/jigish/slate) - Window management application similar to Divvy and SizeUp (except better and free!). (**Needs config file**) [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/jigish/slate)
 
 ### Utilities / System Related Tools
 
-*   [Gray (⭐1.3k)](https://github.com/zenangst/Gray) - Pick between the light appearance and the dark appearance on a per-app basis with the click of a button. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/zenangst/Gray)
+*   [Gray (⭐1.4k)](https://github.com/zenangst/Gray) - Pick between the light appearance and the dark appearance on a per-app basis with the click of a button. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/zenangst/Gray)
 *   [OnyX](https://www.titanium-software.fr/en/onyx.html) - Multifunction utility to verify disks and files, run cleaning and system maintenance tasks, configure hidden options and more. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Third Party App Markets / Package Managers
@@ -567,7 +552,7 @@
 *   MacUpdate：<https://www.macupdate.com/>
 *   Other sites like [MacStories](https://www.macstories.net/), [LifeHacker](http://lifehacker.com/), [ProductHunt](https://www.producthunt.com/topics/mac) are great resources.
 
-## [35. Awesome Haxe Gamedev](/content/Dvergar/awesome-haxe-gamedev/week/README.md)
+## [33. Awesome Haxe Gamedev](/content/Dvergar/awesome-haxe-gamedev/week/README.md)
 
 ### Articles / Video
 
@@ -576,7 +561,7 @@
 *   [How I wrote my own 3D game engine and shipped a game with it in 20 months](https://kircode.com/post/how-i-wrote-my-own-3d-game-engine-and-shipped-a-game-with-it-in-20-months)
 *   [Building 42 games within a year — Insane game development](https://medium.com/@mknol/building-42-games-within-a-year-insane-game-development-5340d506068f)
 
-## [36. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
+## [34. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
 
 ### General Libraries
 
@@ -668,13 +653,13 @@
 
 *   [WinSparkle](https://winsparkle.org) and its [Delphi wrapper (⭐19)](https://github.com/jkour/neSparkleComponent). WinSparkle is an easy-to-use software update library for Windows developers. WinSparkle is a heavily (to the point of being its almost-port) inspired by the Sparkle framework originally by Andy Matuschak that became the de facto standard for software updates on macOS.
 
-## [37. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [35. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Top / Game Engine resources
 
-*   [TailorMade (⭐329)](https://github.com/jogboms/tailor_made) <!--stargazers:jogboms/tailor_made--> - Managing a Fashion designer's daily routine using a mixture of ReBLoC w/ Firebase Cloud Store & Functions by [Jeremiah Ogbomo](https://twitter.com/jogboms)
+*   [TailorMade (⭐328)](https://github.com/jogboms/tailor_made) <!--stargazers:jogboms/tailor_made--> - Managing a Fashion designer's daily routine using a mixture of ReBLoC w/ Firebase Cloud Store & Functions by [Jeremiah Ogbomo](https://twitter.com/jogboms)
 
-## [38. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
+## [36. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
 ### Learning
 
@@ -694,7 +679,7 @@
 *   [Pennylane Discussion Forum](https://discuss.pennylane.ai/) - Discussion forum for quantum machine learning, both using simulations and on near term hardware.
 *   [Strawberry Fields Community](https://u.strawberryfields.ai/slack) - Slack channel for Xanadu and Strawberry Fields photonic/CV quantum computing discussions.
 
-## [39. Awesome Coins](/content/Zheaoli/awesome-coins/week/README.md)
+## [37. Awesome Coins](/content/Zheaoli/awesome-coins/week/README.md)
 
 ### ☤ Reading Material
 
@@ -704,7 +689,7 @@
 
 *   [Binance](https://www.binance.com) — Exchange the world.
 
-## [40. Awesome Phalcon](/content/phalcon/awesome-phalcon/week/README.md)
+## [38. Awesome Phalcon](/content/phalcon/awesome-phalcon/week/README.md)
 
 ### Provisioning
 

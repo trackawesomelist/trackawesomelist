@@ -127,7 +127,7 @@
 
 ### Software / Search Engines
 
-*   [Typesense](https://typesense.org) - Blazing fast, typo-tolerant open source search engine optimized for developer happiness and ease of use. ([Source Code (⭐20k)](https://github.com/typesense/typesense)) `GPL-3.0` `C++/Docker/K8S/deb`
+*   [Typesense](https://typesense.org) - Blazing fast, typo-tolerant open source search engine optimized for developer happiness and ease of use. ([Source Code (⭐22k)](https://github.com/typesense/typesense)) `GPL-3.0` `C++/Docker/K8S/deb`
 
 ## [3. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/README.md)
 
@@ -139,13 +139,13 @@
 
 ### Third-Party Packages / General
 
-*   [django-filter (⭐4.4k)](https://github.com/carltongibson/django-filter) - Powerful filters based on Django QuerySets.
-*   [django-sql-explorer (⭐2.7k)](https://github.com/groveco/django-sql-explorer) - Share data via SQL queries.
+*   [django-filter (⭐4.5k)](https://github.com/carltongibson/django-filter) - Powerful filters based on Django QuerySets.
+*   [django-sql-explorer (⭐2.8k)](https://github.com/groveco/django-sql-explorer) - Share data via SQL queries.
 *   [django-tables2 (⭐1.9k)](https://github.com/jieter/django-tables2) - HTML tables with pagination/sorting.
 
 ### Third-Party Packages / Permissions
 
-*   [django-guardian (⭐3.6k)](https://github.com/django-guardian/django-guardian) - Per object permissions in Django.
+*   [django-guardian (⭐3.7k)](https://github.com/django-guardian/django-guardian) - Per object permissions in Django.
 
 ## [5. Awesome H2o](/content/h2oai/awesome-h2o/README.md)
 
@@ -189,27 +189,12 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [jsettlers-web (⭐25)](https://github.com/generateui/jsettlers-web) - Popular German board game to build hexes, settlements, cities, roads with earned resources
-*   [Roast (⭐300)](https://github.com/serversideup/roastandbrew) - An app built to help coffee enthusiasts find their next cup of coffee while learning about Laravel + Vue.js.
-*   [Buefy Shop (⭐260)](https://github.com/14nrv/buefy-shop) - Sample shop, open source, built with Nuxt, Stripe, Firebase, Bulma and Serverless Functions.
-*   [sysmon (⭐117)](https://github.com/Lt0/sysmon) - A B/S mode system monitor for Linux. You can remotely watch the usage of your system resources via web browser everywhere.
-*   [eth-vue (⭐243)](https://github.com/DOkwufulueze/eth-vue) - A Truffle Box that provides everything you need to quickly build Ethereum dApps that have authentication features with Vue.js, including configuration for easy deployment to the Ropsten Network. It's also Gravatar-enabled.
-*   [Nippon-color (⭐112)](https://github.com/ssshooter/nippon-color) - Inspired by nipponcolors dot com. This is a nippon-color PWA build with vue-cli 3.
-*   [Saleina CMS (⭐26)](https://github.com/saleina/SaleinaCMS) - A static site content management system built with vue using git as a backend.
-*   [Vuido (⭐6.1k)](https://github.com/mimecorg/vuido) - A framework for creating native desktop applications. It can run on Windows, OS X and Linux, using native GUI components.
-*   [YouGet (⭐195)](https://github.com/ahmetzeybek/YouGet) - YouTube Video/Audio/Subtitle Downloader + Cutter
-*   [Vue Pug Stylus (⭐43)](https://github.com/wesssel/vue-pug-stylus) - Vue + Pug + Stylus boilerplate 💚 🐶 🖌
-*   [Crypto News (⭐29)](https://github.com/Bartozzz/crypto-news) - allows you to convert cryptocurrencies, view latest news and exchange rates for each ICO – all the data from the world of cryptocurrencies in one place.
-*   [Epiboard (⭐329)](https://github.com/Alexays/Epiboard) - A new tab page extension with material design and useful features :new: :tada:
-*   [zhudyos/duic (⭐291)](https://github.com/zhudyos/duic) - Distributed configuration center :new:
-*   [Vuemmerce (⭐431)](https://github.com/ivanlori/Vuemmerce) - Free ecommerce template built with Vue.js and Bulma framework :new:
+*   [Buefy Shop (⭐261)](https://github.com/14nrv/buefy-shop) - Sample shop, open source, built with Nuxt, Stripe, Firebase, Bulma and Serverless Functions.
+*   [Vuemmerce (⭐438)](https://github.com/ivanlori/Vuemmerce) - Free ecommerce template built with Vue.js and Bulma framework :new:
 *   [Carpoolear (⭐96)](https://github.com/STS-Rosario/carpoolear) - The open source Vue.js frontend (mobile and cordova app) for the argentinian carpooling application: [Carpoolear](https://carpoolear.com.ar)
-*   [RosterWebApp (⭐20)](https://github.com/SnakeyHips/RosterWebApp) - Open source rostering web application which allows the rostering of employees/teams to work sessions and other features.
-*   [Eplee (⭐352)](https://github.com/Janglee123/eplee) - Sweet, simple epub reader made with Vue.js and Electron.js.
 
 ### Projects Using Vue.js / Apps/Websites
 
-*   [mmf-blog-vue2-ssr (⭐176)](https://github.com/lincenying/mmf-blog-vue2-ssr) - A blog built with Vue 2.0, vue-router & vuex, with server-side rendering
 *   [PingBreak](https://pingbreak.com) - A free and simple website monitoring service using vuejs for real-time dashboard
 
 ## [11. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/README.md)
@@ -229,7 +214,7 @@
 
 ### Top / Game Engine resources
 
-*   [Fwitter (⭐3.7k)](https://github.com/TheAlphamerc/flutter_twitter_clone) <!--stargazers:TheAlphamerc/flutter_twitter_clone--> - Full Twitter clone using Firebase solution by [Sonu Sharma](https://github.com/TheAlphamerc)
+*   [Fwitter (⭐4k)](https://github.com/TheAlphamerc/flutter_twitter_clone) <!--stargazers:TheAlphamerc/flutter_twitter_clone--> - Full Twitter clone using Firebase solution by [Sonu Sharma](https://github.com/TheAlphamerc)
 
 ## [14. Awesome Scala Native](/content/tindzk/awesome-scala-native/README.md)
 
@@ -247,7 +232,7 @@
 
 ### Product Catalog / Market Research
 
-*   [Akeneo PIM (⭐946)](https://github.com/akeneo/pim-community-dev) - The open-source variant of the commercial Akeneo products.
+*   [Akeneo PIM (⭐956)](https://github.com/akeneo/pim-community-dev) - The open-source variant of the commercial Akeneo products.
 
 ## [17. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
 
@@ -289,7 +274,7 @@
 
 ## [22. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
-### Wrappers
+### Other DB wrappers
 
 *   [cl-mango (⭐1)](https://github.com/cmoore/cl-mango/) -  A minimalist CouchDB 2.x database client. BSD\_3Clause.
     *   See also [clouchdb](https://common-lisp.net/project/clouchdb/) - Library for interacting with CouchDB. [FreeBSD](https://directory.fsf.org/wiki?title=License:FreeBSD).
@@ -346,17 +331,21 @@
 
 ### Analytics / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ng2-adsense (⭐136)](https://github.com/scttcper/ng2-adsense) - Angular Adsense Component.
+*   [ng2-adsense (⭐138)](https://github.com/scttcper/ng2-adsense) - Angular Adsense Component.
 
 ### Authentication / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [casl-angular (⭐5.8k)](https://github.com/stalniy/casl/tree/master/packages/casl-angular) - Module which integrates isomorphic  permissions management library [CASL (⭐5.8k)](https://github.com/stalniy/casl) with Angular2+.
-*   [ngx-auth-firebaseui (⭐589)](https://github.com/AnthonyNahas/ngx-auth-firebaseui) - Angular Material UI component for Firebase authentication.
-*   [ngx-permissions (⭐935)](https://github.com/AlexKhymenko/ngx-permissions) - Permission and roles based access control for your angular applications(AOT, lazy modules compatible).
+*   [casl-angular (⭐6.2k)](https://github.com/stalniy/casl/tree/master/packages/casl-angular) - Module which integrates isomorphic  permissions management library [CASL (⭐6.2k)](https://github.com/stalniy/casl) with Angular2+.
+*   [ngx-auth-firebaseui (⭐591)](https://github.com/AnthonyNahas/ngx-auth-firebaseui) - Angular Material UI component for Firebase authentication.
+*   [ngx-permissions (⭐947)](https://github.com/AlexKhymenko/ngx-permissions) - Permission and roles based access control for your angular applications(AOT, lazy modules compatible).
 
 ### HTTP / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [angular2-jwt (⭐2.6k)](https://github.com/auth0/angular2-jwt) - Library for sending authenticated HTTP requests and decoding JWTs.
+
+### Breadcrumbs / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [xng-breadcrumb (⭐243)](https://github.com/udayvunnam/xng-breadcrumb) - Zero config breadcrumb solution. A lightweight, configurable and reactive breadcrumbs for Angular 6 and beyond.
 
 ### Calendars / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -365,8 +354,12 @@
 
 ### Charts / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ng2-charts (⭐2.3k)](https://github.com/valor-software/ng2-charts) - Beautiful charts for Angular2 based on Chart.js.
+*   [ng2-charts (⭐2.4k)](https://github.com/valor-software/ng2-charts) - Beautiful charts for Angular2 based on Chart.js.
 *   [ngx-charts (⭐4.3k)](https://github.com/swimlane/ngx-charts) - Declarative Charting Framework for Angular2 and beyond!
+
+### Data Grids / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ag-grid](https://www.ag-grid.com/) - The best JavaScript Data Table for building Enterprise Applications. Supports React, Angular, Vue and Plain JavaScript.
 
 ### Drag and Drop / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -374,24 +367,24 @@
 
 ### Editor Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [@ctrl/ngx-codemirror (⭐279)](https://github.com/TypeCtrl/ngx-codemirror) - Codemirror Wrapper for Angular.
+*   [@ctrl/ngx-codemirror (⭐281)](https://github.com/TypeCtrl/ngx-codemirror) - Codemirror Wrapper for Angular.
 *   [@instechnologies/ng-rooster (⭐12)](https://github.com/insurance-technologies/ng-rooster) - Angular wrapper of roosterjs, a rich text editor.
-*   [angular2-froala-wysiwyg (⭐732)](https://github.com/froala/angular-froala-wysiwyg) - Angular 2 wrapper for Froala WYSIWYG HTML Editor.
+*   [angular2-froala-wysiwyg (⭐735)](https://github.com/froala/angular-froala-wysiwyg) - Angular 2 wrapper for Froala WYSIWYG HTML Editor.
 
 ### File Upload / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ng2-file-upload (⭐1.9k)](https://github.com/valor-software/ng2-file-upload) - Easy to use file upload directives.
 *   [ngx-awesome-uploader](https://www.npmjs.com/package/ngx-awesome-uploader) - Angular Library for uploading files. It supports: File Upload and Preview (additionally preview images with lightbox), validation, image cropper, drag and drop with multi language support.
-*   [ngx-flow (⭐60)](https://github.com/flowjs/ngx-flow) - Angular7+ wrapper for [flow.js (⭐3k)](https://github.com/flowjs/flow.js) for file upload.
+*   [ngx-flow (⭐62)](https://github.com/flowjs/ngx-flow) - Angular7+ wrapper for [flow.js (⭐3k)](https://github.com/flowjs/flow.js) for file upload.
 
 ### General / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [angular-imask (⭐4.9k)](https://github.com/uNmAnNeR/imaskjs/tree/master/packages/angular-imask) - Angular input mask.
+*   [angular-imask (⭐5k)](https://github.com/uNmAnNeR/imaskjs/tree/master/packages/angular-imask) - Angular input mask.
 
 ### Form Controls / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-color (⭐432)](https://github.com/scttcper/ngx-color) - 🎨 Color Pickers from Sketch, Photoshop, Chrome, Github, X & more.
-*   [angular2-multiselect-dropdown (⭐285)](https://github.com/CuppaLabs/angular2-multiselect-dropdown) - Angular multiselect dropdown component for web applications.
+*   [ngx-color (⭐437)](https://github.com/scttcper/ngx-color) - 🎨 Color Pickers from Sketch, Photoshop, Chrome, Github, X & more.
+*   [angular2-multiselect-dropdown (⭐298)](https://github.com/CuppaLabs/angular2-multiselect-dropdown) - Angular multiselect dropdown component for web applications.
 *   [ng-select (⭐3.3k)](https://github.com/ng-select/ng-select) - All in One UI Select, Multiselect and Autocomplete.
 
 ### Icons / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
@@ -401,7 +394,7 @@
 
 ### Layout Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [angular-split (⭐838)](https://github.com/bertrandg/angular-split) - Angular split component.
+*   [angular-split (⭐880)](https://github.com/bertrandg/angular-split) - Angular split component.
 *   [egjs-infinitegrid (⭐2.2k)](https://github.com/naver/egjs-infinitegrid/tree/master/packages/ngx-infinitegrid) - Arrange infinite card elements according to various layout types like masonry for Angular.
 
 ### Loaders / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
@@ -411,8 +404,8 @@
 
 ### Maps / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [angular-cesium (⭐177)](https://github.com/TGFTech/angular-cesium) - Creating map based web apps using Cesium and Angular.
-*   [ngx-mapbox-gl (⭐342)](https://github.com/Wykks/ngx-mapbox-gl) - Angular binding of mapbox-gl-js.
+*   [angular-cesium (⭐178)](https://github.com/TGFTech/angular-cesium) - Creating map based web apps using Cesium and Angular.
+*   [ngx-mapbox-gl (⭐347)](https://github.com/Wykks/ngx-mapbox-gl) - Angular binding of mapbox-gl-js.
 
 ### Notifications / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -423,20 +416,16 @@
 *   [angular-fullpage (⭐174)](https://github.com/alvarotrigo/angular-fullpage) - Official component for fullPage.js, a fullscreen scrolling library.
 *   [ngx-scrolltop (⭐30)](https://github.com/bartholomej/ngx-scrolltop) - Lightweight, Material Design inspired **button for scroll-to-top** of the page. 🔼 **No dependencies. Pure Angular!** (Compatibility: Angular 9, Ivy, Universal, `ng add`).
 
-### State Management / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+### Additional / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [universal-model-angular (⭐8)](https://github.com/universal-model/universal-model-angular) - Store and state management for Angular.
 
-### Tables / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [ag-grid](https://www.ag-grid.com/) - The best JavaScript Data Table for building Enterprise Applications. Supports React, Angular, Vue and Plain JavaScript.
-
 ### Unspecified / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [Nebular (⭐8k)](https://github.com/akveo/nebular) - Customizable Angular UI Library based on Eva Design System.
+*   [Nebular (⭐8.1k)](https://github.com/akveo/nebular) - Customizable Angular UI Library based on Eva Design System.
 *   [NG ZORRO MOBILE (⭐797)](https://github.com/NG-ZORRO/ng-zorro-antd-mobile) - An enterprise-class mobile UI components based on Ant Design Mobile and Angular.
-*   [NG ZORRO (⭐8.8k)](https://github.com/NG-ZORRO/ng-zorro-antd) - An enterprise-class UI components based on Ant Design and Angular.
-*   [ngx-ui (⭐705)](https://github.com/swimlane/ngx-ui) - Style and Component Library for Angular2 and beyond!
+*   [NG ZORRO (⭐8.9k)](https://github.com/NG-ZORRO/ng-zorro-antd) - An enterprise-class UI components based on Ant Design and Angular.
+*   [ngx-ui (⭐708)](https://github.com/swimlane/ngx-ui) - Style and Component Library for Angular2 and beyond!
 *   [Wijmo 5](http://wijmo.com/products/wijmo-5/) - Set of UI components for Angular2.
 
 ### Material Based / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
@@ -455,8 +444,7 @@
 
 ### Misc Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-countdown (⭐191)](https://github.com/cipchk/ngx-countdown) - Simple, easy and performant countdown.
-*   [xng-breadcrumb (⭐238)](https://github.com/udayvunnam/xng-breadcrumb) - Zero config breadcrumb solution. A lightweight, configurable and reactive breadcrumbs for Angular 6 and beyond.
+*   [ngx-countdown (⭐194)](https://github.com/cipchk/ngx-countdown) - Simple, easy and performant countdown.
 
 ### Ionic / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 

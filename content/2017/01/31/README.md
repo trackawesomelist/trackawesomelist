@@ -93,7 +93,7 @@
 ### CAD Specific / Eagle
 
 *   [Adafruit Eagle Library (⭐1k)](https://github.com/adafruit/Adafruit-Eagle-Library)
-*   [SparkFun Electronics Eagle Libraries (⭐1.7k)](https://github.com/sparkfun/SparkFun-Eagle-Libraries)
+*   [SparkFun Electronics Eagle Libraries (⭐1.8k)](https://github.com/sparkfun/SparkFun-Eagle-Libraries)
 
 ### Videos / Help
 

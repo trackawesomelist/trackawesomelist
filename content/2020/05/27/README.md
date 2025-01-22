@@ -14,13 +14,13 @@
 
 ### Tools
 
-*   [oidc-bash-client (⭐96)](https://github.com/please-openit/oidc-bash-client)
+*   [oidc-bash-client (⭐110)](https://github.com/please-openit/oidc-bash-client)
 
 ## [2. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / Integrations
 
-*   [vue-postgrest (⭐77)](https://github.com/technowledgy/vue-postgrest) - Vue.js integration for postgREST: flexible, powerful and easy to use.
+*   [vue-postgrest (⭐80)](https://github.com/technowledgy/vue-postgrest) - Vue.js integration for postgREST: flexible, powerful and easy to use.
 
 ## [3. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
@@ -54,7 +54,7 @@
 
 ### Animation, Graphics & Video Playout
 
-*   [Macadam (⭐107)](https://github.com/Streampunk/macadam) - Blackmagic Node.js bindings that support HTML/CSS (via [Electron](https://www.electronjs.org/)) and SVG (via [Sevruga (⭐4)](https://github.com/Streampunk/sevruga)) graphics.
+*   [Macadam (⭐108)](https://github.com/Streampunk/macadam) - Blackmagic Node.js bindings that support HTML/CSS (via [Electron](https://www.electronjs.org/)) and SVG (via [Sevruga (⭐5)](https://github.com/Streampunk/sevruga)) graphics.
 
 ### Radio Production
 
@@ -68,7 +68,7 @@
 
 ### TextField / Barcode
 
-*   [CHIOTPField (⭐275)](https://github.com/ChiliLabs/CHIOTPField) - A set of textfields that can be used for One-time passwords, SMS codes, PIN codes, etc.
+*   [CHIOTPField (⭐278)](https://github.com/ChiliLabs/CHIOTPField) - A set of textfields that can be used for One-time passwords, SMS codes, PIN codes, etc.
 
 ### Video / Barcode
 
@@ -109,7 +109,7 @@
 
 ### Web Programming • Libraries
 
-*   [OGL.js (⭐3.6k)](https://github.com/oframe/ogl) - JavaScript 3D library (WebGL).
+*   [OGL.js (⭐3.8k)](https://github.com/oframe/ogl) - JavaScript 3D library (WebGL).
 
 ### Schools • Workshops / Other
 
@@ -117,7 +117,7 @@
 
 ### Blogs • Websites / Other
 
-*   [jsdo.it-archives (⭐11)](https://github.com/cx20/jsdo.it-archives) - Compilation of WebGL experiments including comparisons on WebGL frameworks and physics engine (oimo.js, cannon.js, ammo.js)
+*   [jsdo.it-archives (⭐13)](https://github.com/cx20/jsdo.it-archives) - Compilation of WebGL experiments including comparisons on WebGL frameworks and physics engine (oimo.js, cannon.js, ammo.js)
 *   [WebAudio Weekly](https://www.webaudioweekly.com/) - Newsletter to know everything about the WebAudio API
 
 ## [10. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/README.md)
@@ -143,11 +143,11 @@
 ### GitHub Tools and Management / Docker Container Actions
 
 *   [Update Configured GitHub Actions to the Latest Versions (⭐8)](https://github.com/fabasoad/ghacu)
-*   [Remove Old Artifacts (⭐238)](https://github.com/c-hive/gha-remove-artifacts)
+*   [Remove Old Artifacts (⭐319)](https://github.com/c-hive/gha-remove-artifacts)
 
 ### Monitoring / Code Coverage
 
-*   [Check bundlephobia (⭐46)](https://github.com/carlesnunez/check-my-bundlephobia) - Comments new and modified package size according to bundlephobia.io website and rejects PR on threshold surpassed.
+*   [Check bundlephobia (⭐51)](https://github.com/carlesnunez/check-my-bundlephobia) - Comments new and modified package size according to bundlephobia.io website and rejects PR on threshold surpassed.
 
 ---
 

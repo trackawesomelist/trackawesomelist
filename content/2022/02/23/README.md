@@ -44,13 +44,13 @@
 
 ### Templates / Vue 2
 
-*   [vite-vue2-ts-starter (⭐34)](https://github.com/logue/vite-vue2-ts-starter) - Vue2 TypeScript starter template using vue-property-decorator, vue-router, Vuex.
+*   [vite-vue2-ts-starter (⭐36)](https://github.com/logue/vite-vue2-ts-starter) - Vue2 TypeScript starter template using vue-property-decorator, vue-router, Vuex.
 
 ### Templates / Svelte
 
-*   [SvelteKit (⭐18k)](https://github.com/sveltejs/kit) - The fastest way to build Svelte apps.
+*   [SvelteKit (⭐19k)](https://github.com/sveltejs/kit) - The fastest way to build Svelte apps.
 
-### Templates / Others
+### Tauri / Others
 
 *   [vit-singlefile-gzip](https://github.com/MillerRen/vite-singlefile-gzip.git) - Starter template for embedded.
 *   [11st-Starter-Kit](https://github.com/stefanfrede/11st-starter-kit) - 11ty, powered by Vite with Tailwind CSS and Alpine.js.
@@ -59,7 +59,7 @@
 
 ### Tools / CLIs
 
-*   [prometheus/snmp\_exporter (⭐1.5k)](https://github.com/prometheus/snmp_exporter) - This exporter is the recommended way to expose SNMP data in a format which Prometheus can ingest.
+*   [prometheus/snmp\_exporter (⭐1.7k)](https://github.com/prometheus/snmp_exporter) - This exporter is the recommended way to expose SNMP data in a format which Prometheus can ingest.
 
 ## [7. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
@@ -76,15 +76,11 @@
 
 ## [9. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
-### Decentralized
-
-*   [SimpleX Chat](https://simplex.chat/) - The first chat platform that is 100% private by design - it has no access to your connection graph
-
 ### Alternative Frontends
 
-*   [Nitter (⭐9.9k)](https://github.com/zedeus/nitter/wiki/Instances) - Nitter is a free and open source alternative Twitter front-end focused on privacy.
+*   [Nitter (⭐10k)](https://github.com/zedeus/nitter/wiki/Instances) - Nitter is a free and open source alternative Twitter front-end focused on privacy.
     *   [Fritter (⭐1.4k)](https://github.com/jonjomckay/fritter/) - A free, open-source Nitter client for Android (feed no longer available).
-        *   *   [Squawker (⭐842)](https://github.com/j-fbriere/squawker) - An active fork of Fritter that fixes the feed.
+        *   *   [Squawker (⭐1k)](https://github.com/j-fbriere/squawker) - An active fork of Fritter that fixes the feed.
 
 ## [10. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
 
@@ -100,7 +96,7 @@
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [mac (⭐180)](https://github.com/scriptingosx/mac-zsh-completions) - Completions files for macOS specific commands and third party tools.
+*   [mac (⭐187)](https://github.com/scriptingosx/mac-zsh-completions) - Completions files for macOS specific commands and third party tools.
 
 ## [12. Awesome Security](/content/sbilly/awesome-security/README.md)
 

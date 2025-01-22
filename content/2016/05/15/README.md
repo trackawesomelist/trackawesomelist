@@ -85,7 +85,7 @@
 
 ### Libraries / Algebraic Data Types
 
-*   [immutable-ext (⭐492)](https://github.com/DrBoolean/immutable-ext) – FantasyLand extensions for [Immutable.js (⭐33k)](https://github.com/facebook/immutable-js).
+*   [immutable-ext (⭐489)](https://github.com/DrBoolean/immutable-ext) – FantasyLand extensions for [Immutable.js (⭐33k)](https://github.com/facebook/immutable-js).
 
 ### Resources / Articles
 

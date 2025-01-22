@@ -22,42 +22,40 @@
 
 ### Software / Booking and Scheduling
 
-*   [Alf.io](https://alf.io/) - The open source ticket reservation system. ([Demo](https://demo.alf.io/authentication), [Source Code (⭐1.4k)](https://github.com/alfio-event/alf.io)) `GPL-3.0` `Java`
-*   [Easy!Appointments](https://easyappointments.org/) - A highly customizable web application that allows your customers to book appointments with you via the web. ([Demo](https://demo.easyappointments.org/), [Source Code (⭐3.2k)](https://github.com/alextselegidis/easyappointments)) `GPL-3.0` `PHP`
+*   [Alf.io](https://alf.io/) - The open source ticket reservation system. ([Demo](https://demo.alf.io/authentication), [Source Code (⭐1.5k)](https://github.com/alfio-event/alf.io)) `GPL-3.0` `Java`
+*   [Easy!Appointments](https://easyappointments.org/) - A highly customizable web application that allows your customers to book appointments with you via the web. ([Demo](https://demo.easyappointments.org/), [Source Code (⭐3.4k)](https://github.com/alextselegidis/easyappointments)) `GPL-3.0` `PHP`
 
 ### Software / Media Streaming - Multimedia Streaming
 
 *   [Gerbera](https://gerbera.io/) - Gerbera is an UPnP Media Server. It allows you to stream your digital media throughout your home network and listen to/watch it on a variety of UPnP compatible devices. ([Source Code (⭐1.2k)](https://github.com/gerbera/gerbera)) `GPL-2.0` `Docker/deb/C++`
-*   [Jellyfin](https://jellyfin.org) - Media server for audio, video, books, comics, and photos with a sleek interface and robust transcoding capabilities. Almost all modern platforms have clients, including Roku, Android TV, iOS, and Kodi. ([Demo](https://demo.jellyfin.org/stable), [Source Code (⭐33k)](https://github.com/jellyfin/jellyfin), [Clients (⭐1.7k)](https://github.com/awesome-jellyfin/awesome-jellyfin)) `GPL-2.0` `C#/deb/Docker`
-*   [LBRY](https://lbry.com/) - Is a secure, open, and community-run digital marketplace that aims to replace Youtube and Amazon. ([Demo](https://lbry.tv/), [Source Code (⭐263)](https://github.com/lbryio/lbry.com), [Clients (⭐3.6k)](https://github.com/lbryio/lbry-desktop)) `MIT` `PHP`
-*   [MistServer](https://mistserver.org/) - Streaming media server that works well in any streaming environment. ([Source Code (⭐360)](https://github.com/DDVTECH/mistserver)) `AGPL-3.0` `C++`
-*   [NymphCast](http://nyanko.ws/nymphcast.php) - Turn your choice of Linux-capable hardware into an audio and video source for a television or powered speakers (alternative to Chromecast). ([Source Code (⭐2.4k)](https://github.com/MayaPosch/NymphCast)) `BSD-3-Clause` `C++`
+*   [Jellyfin](https://jellyfin.org) - Media server for audio, video, books, comics, and photos with a sleek interface and robust transcoding capabilities. Almost all modern platforms have clients, including Roku, Android TV, iOS, and Kodi. ([Demo](https://demo.jellyfin.org/stable), [Source Code (⭐37k)](https://github.com/jellyfin/jellyfin), [Clients (⭐2.5k)](https://github.com/awesome-jellyfin/awesome-jellyfin)) `GPL-2.0` `C#/deb/Docker`
+*   [MistServer](https://mistserver.org/) - Public domain streaming media server that works with any device and any format. ([Source Code (⭐398)](https://github.com/DDVTECH/mistserver)) `Unlicense` `C++`
+*   [NymphCast](http://nyanko.ws/nymphcast.php) - Turn your choice of Linux-capable hardware into an audio and video source for a television or powered speakers (alternative to Chromecast). ([Source Code (⭐2.5k)](https://github.com/MayaPosch/NymphCast)) `BSD-3-Clause` `C++`
 *   [ReadyMedia](https://sourceforge.net/projects/minidlna/) - Simple media server software, with the aim of being fully compliant with DLNA/UPnP-AV clients. Formerly known as MiniDLNA. ([Source Code](https://sourceforge.net/p/minidlna/git/ci/master/tree/)) `GPL-2.0` `C`
-*   [Rygel](https://wiki.gnome.org/action/show/Projects/Rygel) - Rygel is a UPnP AV MediaServer that allows you to easily share audio, video, and pictures. Media player software may use Rygel to become a MediaRenderer that may be controlled remotely by a UPnP or DLNA Controller. ([Source Code](https://gitlab.gnome.org/GNOME/rygel/)) `GPL-3.0` `C`
 
 ### Software / Software Development - API Management
 
-*   [DreamFactory](https://www.dreamfactory.com/) - Turns any SQL/NoSQL/Structured data into Restful API. ([Source Code (⭐1.5k)](https://github.com/dreamfactorysoftware/dreamfactory)) `Apache-2.0` `PHP/Docker/K8S`
+*   [DreamFactory](https://www.dreamfactory.com/) - Turns any SQL/NoSQL/Structured data into Restful API. ([Source Code (⭐1.6k)](https://github.com/dreamfactorysoftware/dreamfactory)) `Apache-2.0` `PHP/Docker/K8S`
 *   [form.io](https://form.io) - A REST API building platform that utilizes a drag & drop form builder, and is application framework agnostic. Contains open source and enterprise version. ([Demo](https://portal.form.io), [Source Code](https://github.com/formio)) `MIT` `Nodejs/Docker`
-*   [Fusio](https://www.fusio-project.org/) - Open-source API management platform which helps to build and manage REST APIs. ([Demo](https://fusio-project.org/demo), [Source Code (⭐1.8k)](https://github.com/apioo/fusio)) `AGPL-3.0` `PHP/Docker`
+*   [Fusio](https://www.fusio-project.org/) - Open-source API management platform which helps to build and manage REST APIs. ([Demo](https://fusio-project.org/demo), [Source Code (⭐1.9k)](https://github.com/apioo/fusio)) `AGPL-3.0` `PHP/Docker`
 *   [Hasura](https://hasura.io) - Fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events. ([Source Code (⭐31k)](https://github.com/hasura/graphql-engine)) `Apache-2.0` `Haskell/Docker/K8S`
-*   [Kong](https://konghq.com/kong/) - The World's Most Popular Open Source Microservice API Gateway and Platform. ([Source Code (⭐39k)](https://github.com/Kong/kong)) `Apache-2.0` `Lua/Docker/K8S/deb`
-*   [Lura](https://luraproject.org/) - Open source High-Performance API Gateway. ([Source Code (⭐6.3k)](https://github.com/luraproject/lura)) `Apache-2.0` `Go`
-*   [Para](https://paraio.org) - Flexible and modular backend framework/server for object persistence, API development and authentication. ([Source Code (⭐523)](https://github.com/erudika/para)) `Apache-2.0` `Java/Docker`
-*   [Tyk](https://tyk.io) - Fast and scalable open source API Gateway. Out of the box, Tyk offers an API Management Platform with an API Gateway, API Analytics, Developer Portal and API Management Dashboard. ([Source Code (⭐9.5k)](https://github.com/TykTechnologies/tyk)) `MPL-2.0` `Go/Docker/K8S`
+*   [Kong](https://konghq.com/kong/) - The World's Most Popular Open Source Microservice API Gateway and Platform. ([Source Code (⭐40k)](https://github.com/Kong/kong)) `Apache-2.0` `Lua/Docker/K8S/deb`
+*   [Lura](https://luraproject.org/) - Open source High-Performance API Gateway. ([Source Code (⭐6.4k)](https://github.com/luraproject/lura)) `Apache-2.0` `Go`
+*   [Para](https://paraio.org) - Flexible and modular backend framework/server for object persistence, API development and authentication. ([Source Code (⭐536)](https://github.com/erudika/para)) `Apache-2.0` `Java/Docker`
+*   [Tyk](https://tyk.io) - Fast and scalable open source API Gateway. Out of the box, Tyk offers an API Management Platform with an API Gateway, API Analytics, Developer Portal and API Management Dashboard. ([Source Code (⭐9.8k)](https://github.com/TykTechnologies/tyk)) `MPL-2.0` `Go/Docker/K8S`
 
 ### Software / Software Development - IDE & Tools
 
-*   [Eclipse Che](https://www.eclipse.org/che/) - Open source workspace server and cloud IDE. ([Source Code (⭐6.9k)](https://github.com/eclipse/che)) `EPL-1.0` `Docker/Java`
+*   [Eclipse Che](https://www.eclipse.org/che/) - Open source workspace server and cloud IDE. ([Source Code (⭐7k)](https://github.com/eclipse/che)) `EPL-1.0` `Docker/Java`
 
 ### Software / Software Development - Localization
 
-*   [Accent](https://www.accent.reviews/) - Open-source, self-hosted, developer-oriented translation tool. ([Source Code (⭐1.2k)](https://github.com/mirego/accent)) `BSD-3-Clause` `Elixir/Docker`
-*   [Weblate](https://weblate.org) - Web-based translation tool with tight version control integration. ([Demo](https://demo.weblate.org), [Source Code (⭐4.5k)](https://github.com/WeblateOrg/weblate)) `GPL-3.0` `Python/Docker/K8S`
+*   [Accent](https://www.accent.reviews/) - Open-source, self-hosted, developer-oriented translation tool. ([Source Code (⭐1.3k)](https://github.com/mirego/accent)) `BSD-3-Clause` `Elixir/Docker`
+*   [Weblate](https://weblate.org) - Web-based translation tool with tight version control integration. ([Demo](https://demo.weblate.org), [Source Code (⭐4.8k)](https://github.com/WeblateOrg/weblate)) `GPL-3.0` `Python/Docker/K8S`
 
 ### Software / Software Development - Low Code
 
-*   [Appwrite](https://appwrite.io) - End to end backend server for web, native, and mobile developers 🚀. ([Source Code (⭐43k)](https://github.com/appwrite/appwrite)) `BSD-3-Clause` `Docker`
+*   [Appwrite](https://appwrite.io) - End to end backend server for web, native, and mobile developers 🚀. ([Source Code (⭐46k)](https://github.com/appwrite/appwrite)) `BSD-3-Clause` `Docker`
 
 ## [4. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
 

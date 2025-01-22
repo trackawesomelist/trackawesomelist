@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 26, 2021
 
-18 awesome lists updated today.
+17 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Reproducing Works, Training & Books / Data Visualization
 
-*   [NMOF (⭐35)](https://github.com/enricoschumann/NMOF) - Functions, examples and data from the first and the second edition of "Numerical Methods and Optimization in Finance" by M. Gilli, D. Maringer and E. Schumann (2019, ISBN:978-0128150658).
+*   [NMOF (⭐36)](https://github.com/enricoschumann/NMOF) - Functions, examples and data from the first and the second edition of "Numerical Methods and Optimization in Finance" by M. Gilli, D. Maringer and E. Schumann (2019, ISBN:978-0128150658).
 
 ## [2. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
 
@@ -34,7 +34,7 @@
 
 ### Desktop / Game Engine resources
 
-*   [Awesome Flutter Desktop (⭐1.5k)](https://github.com/leanflutter/awesome-flutter-desktop) <!--stargazers:leanflutter/awesome-flutter-desktop--> - A curated list of awesome things related to Flutter desktop by [LeanFlutter](https://github.com/leanflutter)
+*   [Awesome Flutter Desktop (⭐1.6k)](https://github.com/leanflutter/awesome-flutter-desktop) <!--stargazers:leanflutter/awesome-flutter-desktop--> - A curated list of awesome things related to Flutter desktop by [LeanFlutter](https://github.com/leanflutter)
 
 ## [6. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 
@@ -76,18 +76,14 @@
 
 ### VSCode / Third-party APIs
 
-*   [alive (⭐197)](https://github.com/nobody-famous/alive) -  Common Lisp Extension for VSCode. Public domain.
+*   [alive (⭐217)](https://github.com/nobody-famous/alive) -  Common Lisp Extension for VSCode. Public domain.
     *   see the Cookbook: [using VSCode with Alive](https://lispcookbook.github.io/cl-cookbook/vscode-alive.html)
 
 ## [12. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [rmehri01/onenord.nvim (⭐512)](https://github.com/rmehri01/onenord.nvim) - A Neovim theme that combines the Nord and Atom One Dark color palettes for a more vibrant programming experience.
-
-### Utility / Diagnostics
-
-*   [saifulapm/chartoggle.nvim (⭐39)](https://github.com/saifulapm/chartoggle.nvim) - Toggle any character at end of line.
+*   [rmehri01/onenord.nvim (⭐548)](https://github.com/rmehri01/onenord.nvim) - A Neovim theme that combines the Nord and Atom One Dark color palettes for a more vibrant programming experience.
 
 ## [13. Awesome Scala Native](/content/tindzk/awesome-scala-native/README.md)
 
@@ -118,7 +114,7 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-sass-dts (⭐113)](https://github.com/activeguild/vite-plugin-sass-dts) - This is a plugin that automatically creates a type file when using the CSS module type-safely.
+*   [vite-plugin-sass-dts (⭐122)](https://github.com/activeguild/vite-plugin-sass-dts) - This is a plugin that automatically creates a type file when using the CSS module type-safely.
 
 ## [15. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -132,13 +128,7 @@
 
 *   [Bangle.io](https://bangle.io/) - A Notion like note taking webapp where data is saved in Markdown format locally. ![Globe](https://img.icons8.com/color/24/globe.png "Globe")
 
-## [17. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
-
-### Tutorials
-
-*   [Create your blog with SvelteKit](https://svelteland.github.io/svelte-kit-blog-demo/) - @zhuzilin (Github).
-
-## [18. Public Apis](/content/public-apis/public-apis/README.md)
+## [17. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Art & Design
 
@@ -165,8 +155,6 @@
   HTTPS: No
 
   CORS: No
-
-  Call this API: 
 
 
 

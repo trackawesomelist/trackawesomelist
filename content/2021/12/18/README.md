@@ -29,15 +29,15 @@
 
 ### Projects / Libraries
 
-*   [Interaction Trees (⭐198)](https://github.com/DeepSpec/InteractionTrees) - Library for representing recursive and impure programs.
+*   [Interaction Trees (⭐208)](https://github.com/DeepSpec/InteractionTrees) - Library for representing recursive and impure programs.
 
 ### Projects / Tools
 
-*   [Sail (⭐581)](https://github.com/rems-project/sail) - Tool for specifying instruction set architecture (ISA) semantics of processors and generating Coq definitions.
+*   [Sail (⭐657)](https://github.com/rems-project/sail) - Tool for specifying instruction set architecture (ISA) semantics of processors and generating Coq definitions.
 
 ### Projects / Type Theory and Mathematics
 
-*   [Monae (⭐68)](https://github.com/affeldt-aist/monae) - Monadic effects and equational reasoning.
+*   [Monae (⭐71)](https://github.com/affeldt-aist/monae) - Monadic effects and equational reasoning.
 
 ## [5. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/README.md)
 
@@ -47,26 +47,26 @@
     ![](https://img.shields.io/github/stars/picocss/pico.svg?style=social\&label=Star)
     [Demo](https://picocss.com/#examples),
     [Docs](https://picocss.com/docs/),
-    [Repo (⭐13k)](https://github.com/picocss/pico)
+    [Repo (⭐14k)](https://github.com/picocss/pico)
     \| #SCSS
 *   [**Vanilla Framework**](https://vanillaframework.io/) - Simple, extensible CSS framework. Written by the Canonical Web Team.\
     ![](https://img.shields.io/github/stars/canonical-web-and-design/vanilla-framework.svg?style=social\&label=Star)
     [Demo](https://vanillaframework.io/docs/examples),
     [Docs](https://vanillaframework.io/docs/),
-    [Repo (⭐790)](https://github.com/canonical/vanilla-framework)
+    [Repo (⭐854)](https://github.com/canonical/vanilla-framework)
     \| #SCSS
 *   [**PatternFly**](https://www.patternfly.org/) - UI framework for enterprise web applications.\
     ![](https://img.shields.io/github/stars/patternfly/patternfly.svg?style=social\&label=Star)
     [Demo](https://www.patternfly.org/patterns/about-patterns),
     [Docs](https://www.patternfly.org/get-started/),
-    [Repo (⭐680)](https://github.com/patternfly/patternfly)
+    [Repo (⭐714)](https://github.com/patternfly/patternfly)
     \| #SCSS #LESS
 
 ### Specialized
 
 *   [**Tufte CSS**](https://edwardtufte.github.io/tufte-css/) - Style your webpage like Edward Tufte’s handouts.\
     ![](https://img.shields.io/github/stars/edwardtufte/tufte-css.svg?style=social\&label=Star)
-    [Repo (⭐5.9k)](https://github.com/edwardtufte/tufte-css)
+    [Repo (⭐6k)](https://github.com/edwardtufte/tufte-css)
     \| #CSS
 
 ### Stalled Development
@@ -79,7 +79,7 @@
     ![](https://img.shields.io/github/stars/turretcss/turretcss.svg?style=social\&label=Star)
     [Demo](https://turretcss.com/demo/),
     [Docs](https://turretcss.com/getting-started/),
-    [Repo (⭐802)](https://github.com/turretcss/turretcss)
+    [Repo (⭐798)](https://github.com/turretcss/turretcss)
     \| #CSS
 
 ## [6. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
@@ -100,7 +100,7 @@
 
 ### Animals
 
-- API: [MeowFacts (⭐382)](https://github.com/wh-iterabb-it/meowfacts)
+- API: [MeowFacts (⭐409)](https://github.com/wh-iterabb-it/meowfacts)
 
   Description: Get random cat facts
 

@@ -10,16 +10,16 @@
 
 ### Techniques / Linux
 
-*   [PANIX - Persistence Against \*NIX - Features (⭐318)](https://github.com/Aegrah/PANIX?tab=readme-ov-file#features) - List of persistence techniques.
+*   [PANIX - Persistence Against \*NIX - Features (⭐448)](https://github.com/Aegrah/PANIX?tab=readme-ov-file#features) - List of persistence techniques.
 *   [Linux Detection Engineering -  A primer on persistence mechanisms](https://www.elastic.co/security-labs/primer-on-persistence-mechanisms) - List of Linux persistence mechanisms.
 
 ### Techniques / Cloud
 
 *   [Persisting on Entra ID applications and User Managed Identities with Federated Credentials](https://dirkjanm.io/persisting-with-federated-credentials-entra-apps-managed-identities/) - Persist on Entra ID applications and User Managed Identities with Federated Credentials.
 
-### Detection Testing / Windows
+### Detection Testing / Linux
 
-*   [PANIX (⭐318)](https://github.com/Aegrah/PANIX) - A highly customizable Linux persistence tool. Perform various persistence techniques against Linux systems, among others Debian and RHEL.
+*   [PANIX (⭐448)](https://github.com/Aegrah/PANIX) - A highly customizable Linux persistence tool. Perform various persistence techniques against Linux systems, among others Debian and RHEL.
 
 ## [2. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
@@ -43,7 +43,7 @@
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [vite-plugin-bundle-obfuscator (⭐3)](https://github.com/z0ffy/vite-plugin-bundle-obfuscator) - JavaScript obfuscator.
+*   [vite-plugin-bundle-obfuscator (⭐80)](https://github.com/z0ffy/vite-plugin-bundle-obfuscator) - JavaScript obfuscator.
 
 ## [6. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
 
@@ -53,7 +53,7 @@
 
 ### Authorization / ReBAC frameworks
 
-*   [Permify (⭐3.5k)](https://github.com/Permify/permify) - Another open-source authorization as a service inspired by Google Zanzibar, and see [how it compares to other Zanzibar-inspired tools](https://permify.notion.site/Differentiation-Between-Zanzibar-Products-ad4732da62e64655bc82d3abe25f48b6).
+*   [Permify (⭐4.8k)](https://github.com/Permify/permify) - Another open-source authorization as a service inspired by Google Zanzibar, and see [how it compares to other Zanzibar-inspired tools](https://permify.notion.site/Differentiation-Between-Zanzibar-Products-ad4732da62e64655bc82d3abe25f48b6).
 
 ### Authorization / AWS policy tools
 
@@ -61,12 +61,12 @@
 
 ### Authorization / Other tools
 
-*   [Gubernator (⭐84)](https://github.com/gubernator-io/gubernator) - High performance rate-limiting micro-service and library.
+*   [Gubernator (⭐94)](https://github.com/gubernator-io/gubernator) - High performance rate-limiting micro-service and library.
 
 ### OAuth2 & OpenID / Other tools
 
 *   [How to Implement a Secure Central Authentication Service in Six Steps](https://shopify.engineering/implement-secure-central-authentication-service-six-steps) - Got multiple legacy systems to merge with their own login methods and accounts? Here is how to merge all that mess by the way of OIDC.
-*   [Authgear (⭐78)](https://github.com/authgear/authgear-server) - Open-source authentication-as-a-service solution. It includes the code for the server, AuthUI, the Portal, and Admin API.
+*   [Authgear (⭐81)](https://github.com/authgear/authgear-server) - Open-source authentication-as-a-service solution. It includes the code for the server, AuthUI, the Portal, and Admin API.
 
 ### Trust & Safety / User Identity
 
@@ -76,12 +76,12 @@
 
 ### Tools
 
+*   **[Automate.io](https://automate.io/)** - *[Review](https://productivity.directory/automate-io)*: Enables app integrations and automations for businesses.
+*   **[Parabola](https://parabola.io/)** - *[Review](https://productivity.directory/parabola)*: Allows non-coders to automate complex workflows and tasks.
 *   **[Pipedream](https://pipedream.com/)** - *[Review](https://productivity.directory/pipedream)*: Integrates APIs and data for powerful automation.
+*   **[Tallyfy](https://tallyfy.com/)** - *[Review](https://productivity.directory/tallyfy)*: Streamlines and automates business processes with an easy-to-use interface.
 *   **[Tray.io](https://tray.io/)** - *[Review](https://productivity.directory/tray-io)*: Provides a visual platform for connecting and automating business processes.
 *   **[Workato](https://www.workato.com/)** - *[Review](https://productivity.directory/workato)*: Focuses on enterprise automation with AI and machine learning capabilities.
-*   **[Automate.io](https://automate.io/)** - *[Review](https://productivity.directory/automate-io)*: Enables app integrations and automations for businesses.
-*   **[Tallyfy](https://tallyfy.com/)** - *[Review](https://productivity.directory/tallyfy)*: Streamlines and automates business processes with an easy-to-use interface.
-*   **[Parabola](https://parabola.io/)** - *[Review](https://productivity.directory/parabola)*: Allows non-coders to automate complex workflows and tasks.
 
 ### Books
 
@@ -102,15 +102,15 @@
 
 ### Software / Analytics
 
-*   [Prisme Analytics](https://www.prismeanalytics.com) - A privacy-focused and progressive analytics service based on Grafana. ([Demo](https://app.prismeanalytics.com/grafana), [Source Code (⭐16)](https://github.com/prismelabs/analytics)) `AGPL-3.0/MIT` `Docker`
+*   [Prisme Analytics](https://www.prismeanalytics.com) - A privacy-focused and progressive analytics service based on Grafana. ([Demo](https://app.prismeanalytics.com/grafana), [Source Code (⭐83)](https://github.com/prismelabs/analytics)) `AGPL-3.0/MIT` `Docker`
 
 ### Software / Games - Administrative Utilities & Control Panels
 
-*   [Kubek](https://kubek.seeeroy.ru) - Web management panel for Minecraft servers. ([Source Code (⭐84)](https://github.com/seeroy/kubek-minecraft-dashboard)) `GPL-3.0` `Nodejs`
+*   [Kubek](https://kubek.seeeroy.ru) - Web management panel for Minecraft servers. ([Source Code (⭐98)](https://github.com/seeroy/kubek-minecraft-dashboard)) `GPL-3.0` `Nodejs`
 
 ### Software / Miscellaneous
 
-*   [MyIP](https://ipcheck.ing) `⚠` - All in one IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability and more. ([Demo](https://ipcheck.ing), [Source Code (⭐5.7k)](https://github.com/jason5ng32/MyIP)) `MIT` `Nodejs/Docker`
+*   [MyIP](https://ipcheck.ing) `⚠` - All in one IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability and more. ([Demo](https://ipcheck.ing), [Source Code (⭐7.1k)](https://github.com/jason5ng32/MyIP)) `MIT` `Nodejs/Docker`
 
 ---
 

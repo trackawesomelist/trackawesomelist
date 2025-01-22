@@ -22,55 +22,54 @@
 
 ### Asset Management
 
-*   🍰 [AssetCompress plugin (⭐370)](https://github.com/markstory/asset_compress) - A complete asset manager for CakePHP.
+*   [AssetCompress plugin (⭐370)](https://github.com/markstory/asset_compress) - A complete asset manager for CakePHP.
 
 ### Authentication and Authorization
 
-*   🍰 [Authentication plugin (⭐114)](https://github.com/cakephp/authentication) - Official CakePHP authentication middleware plugin.
-*   🍰 [Authorization plugin (⭐74)](https://github.com/cakephp/authorization) - Official CakePHP authorization stack.
-*   🍰 [TinyAuth plugin (⭐128)](https://github.com/dereuromark/cakephp-tinyauth) - Authentication and role-based (single/multi) authorization as very light-weight approach.
+*   [Authentication plugin (⭐116)](https://github.com/cakephp/authentication) - Official CakePHP authentication middleware plugin.
+*   [Authorization plugin (⭐75)](https://github.com/cakephp/authorization) - Official CakePHP authorization stack.
+*   [TinyAuth plugin (⭐126)](https://github.com/dereuromark/cakephp-tinyauth) - Authentication and role-based (single/multi) authorization as very light-weight approach.
 
 ### Code Analysis
 
-*   🍰 [IdeHelper plugin (⭐182)](https://github.com/dereuromark/cakephp-ide-helper) - Helps to make IDE support better by adding annotations to your existing code similar to what baking does to new code.
+*   [IdeHelper plugin (⭐186)](https://github.com/dereuromark/cakephp-ide-helper) - Helps to make IDE support better by adding annotations to your existing code similar to what baking does to new code.
 
 ### I18n
 
-*   🍰 [ADmad/I18n plugin (⭐43)](https://github.com/ADmad/cakephp-i18n) - A plugin with I18n related tools.
+*   [ADmad/I18n plugin (⭐44)](https://github.com/ADmad/cakephp-i18n) - A plugin with I18n related tools.
 
 ### Imagery
 
-*   🍰 [ADmad/Glide plugin (⭐34)](https://github.com/ADmad/cakephp-glide) - A plugin for using [Glide](https://glide.thephpleague.com/) image manipulation library.
+*   [ADmad/Glide plugin (⭐35)](https://github.com/ADmad/cakephp-glide) - A plugin for using [Glide](https://glide.thephpleague.com/) image manipulation library.
 
 ### Miscellaneous
 
-*   🍰 [Flash plugin (⭐12)](https://github.com/dereuromark/cakephp-flash) - More powerful flash messages for your application.
-*   🍰 [Shim plugin (⭐37)](https://github.com/dereuromark/cakephp-shim) - A plugin containing useful shims and improvements as basis for your application.
+*   [Flash plugin (⭐12)](https://github.com/dereuromark/cakephp-flash) - More powerful flash messages for your application.
+*   [Shim plugin (⭐37)](https://github.com/dereuromark/cakephp-shim) - A plugin containing useful shims and improvements as basis for your application.
 
 ### ORM / Database / Datamapping
 
-*   🍰 [ADmad/Sequence plugin (⭐44)](https://github.com/ADmad/cakephp-sequence) - Behavior for maintaining ordered list of records.
-*   🍰 [Duplicatable plugin (⭐50)](https://github.com/riesenia/cakephp-duplicatable) - Behavior for duplicating entities including related data.
-*   🍰 [Muffin/Orderly plugin (⭐22)](https://github.com/usemuffin/orderly) - Allows setting default order for your tables.
-*   [Muffin/Webservices ORM plugin (⭐89)](https://github.com/usemuffin/webservice) - An ORM like interface for webservices.
+*   [ADmad/Sequence plugin (⭐44)](https://github.com/ADmad/cakephp-sequence) - Behavior for maintaining ordered list of records.
+*   [Duplicatable plugin (⭐52)](https://github.com/riesenia/cakephp-duplicatable) - Behavior for duplicating entities including related data.
+*   [Muffin/Orderly plugin (⭐22)](https://github.com/usemuffin/orderly) - Allows setting default order for your tables.
 
 ### PDF
 
-*   🍰 [CakePdf plugin (⭐374)](https://github.com/FriendsOfCake/CakePdf) - A plugin around PDF generation.
+*   [CakePdf plugin (⭐373)](https://github.com/FriendsOfCake/CakePdf) - A plugin around PDF generation.
 
 ### Security
 
-*   🍰 [Muffin/Throttle plugin (⭐62)](https://github.com/usemuffin/throttle) - A plugin for rate limiting (API) requests.
+*   [Muffin/Throttle plugin (⭐63)](https://github.com/usemuffin/throttle) - A plugin for rate limiting (API) requests.
 
 ### SEO
 
-*   🍰 [Muffin/Slug plugin (⭐35)](https://github.com/UseMuffin/Slug) - A plugin for generating slugs and finding records by slug. Uses a pluggable architecture which allows using your own slug generator class.
+*   [Muffin/Slug plugin (⭐35)](https://github.com/UseMuffin/Slug) - A plugin for generating slugs and finding records by slug. Uses a pluggable architecture which allows using your own slug generator class.
 
 ### Templating
 
-*   🍰 [Bake plugin (⭐110)](https://github.com/cakephp/bake) - Provides code generation functionality.
-*   🍰 [BootstrapUI plugin (⭐339)](https://github.com/friendsofcake/bootstrap-ui) - Bootstrap 4/5 integration.
-*   🍰 [CsvView plugin (⭐175)](https://github.com/FriendsOfCake/cakephp-csvview) - A view class to easily generate CSV.
+*   [Bake plugin (⭐111)](https://github.com/cakephp/bake) - Provides code generation functionality.
+*   [BootstrapUI plugin (⭐340)](https://github.com/friendsofcake/bootstrap-ui) - Bootstrap 4/5 integration.
+*   [CsvView plugin (⭐177)](https://github.com/FriendsOfCake/cakephp-csvview) - A view class to easily generate CSV.
 
 ## [4. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 

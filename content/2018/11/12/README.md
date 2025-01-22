@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 12, 2018
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -22,7 +22,7 @@
 
 ### Components / Themes
 
-*   [antd-password-input-strength (⭐86)](https://github.com/Kombustor/antd-password-input-strength) - AntD Input component with password-strength indicator.
+*   [antd-password-input-strength (⭐87)](https://github.com/Kombustor/antd-password-input-strength) - AntD Input component with password-strength indicator.
 
 ## [4. Awesome Idris](/content/joaomilho/awesome-idris/README.md)
 
@@ -54,7 +54,7 @@
 
 ### Transition / Barcode
 
-*   [Jelly (⭐2.4k)](https://github.com/SebastianBoldt/Jelly) - Jelly provides custom view controller transitions with just a few lines of code.
+*   [Jelly (⭐2.5k)](https://github.com/SebastianBoldt/Jelly) - Jelly provides custom view controller transitions with just a few lines of code.
 
 ### UICollectionView / Barcode
 
@@ -82,12 +82,6 @@
 
 *   [EmberFest 2018](https://www.youtube.com/watch?v=oRzmDobMZ_Q\&list=PLN4SpDLOSVkSB9034lDNdP1JoNBGssax9)
 *   [EmberFest 2014](https://www.youtube.com/watch?v=z4oxa-UR7oA\&list=PLN4SpDLOSVkSbGTLohVaYGDB8hxWxGPBA)
-
-## [11. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Projects Using Vue.js / Open Source
-
-*   [Modular Genealogy (⭐204)](https://github.com/modularsoftware/genealogy) - Genealogy / family tree management system using Laravel 5.7, Vue.js 2.5 and various components. Work in progress.
 
 ---
 

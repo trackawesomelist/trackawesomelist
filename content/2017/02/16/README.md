@@ -86,10 +86,6 @@ Webpage: <http://www.novaarcada.pt/>
 
 ## [11. Android Security Awesome](/content/ashishb/android-security-awesome/README.md)
 
-### Academic/Research/Publications/Books / Books
-
-*   [SEI CERT Android Secure Coding Standard](https://www.securecoding.cert.org/confluence/display/android/Android+Secure+Coding+Standard)
-
 ### Exploits/Vulnerabilities/Bugs / Bounty Programs
 
 *   [Android Security Reward Program](https://www.google.com/about/appsecurity/android-rewards/)

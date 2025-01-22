@@ -16,13 +16,13 @@
 
 ### Discord
 
-*   [kitten (⭐13)](https://github.com/geniushq/kitten) - Simple Discord API library for writing bots.
+*   [kitten (⭐14)](https://github.com/geniushq/kitten) - Simple Discord API library for writing bots.
 
 ## [3. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Internationalization
 
-*   [uni-algo (⭐257)](https://github.com/uni-algo/uni-algo) - Unicode Algorithms Implementation for C/C++. \[Unlicense or MIT]
+*   [uni-algo (⭐292)](https://github.com/uni-algo/uni-algo) - Unicode Algorithms Implementation for C/C++. \[Unlicense or MIT]
 
 ## [4. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 

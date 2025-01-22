@@ -37,7 +37,7 @@
 *   [Probabilistic Robotics (Intelligent Robotics and Autonomous Agents series)](http://www.amazon.com/Probabilistic-Robotics-Intelligent-Autonomous-Agents/dp/0262201623/)  :dollar:
 *   [Introduction to Autonomous Mobile Robots (Intelligent Robotics and Autonomous Agents series)](http://www.amazon.com/Introduction-Autonomous-Mobile-Intelligent-Robotics/dp/0262015358/)  :dollar:
 *   [Planning Algorithms](http://planning.cs.uiuc.edu/)
-*   [A Mathematical Introduction to Robotic Manipulation](http://www.cds.caltech.edu/\~murray/mlswiki/?title=First_edition)
+*   [A Mathematical Introduction to Robotic Manipulation](http://www.cds.caltech.edu/~murray/mlswiki/?title=First_edition)
 *   [Learning Computing With Robots](http://wiki.roboteducation.org/Introduction_to_Computer_Science_via_Robots)
 *   [Robotics, Vision and Control: Fundamental Algorithms in MATLAB (Springer Tracts in Advanced Robotics)](http://www.amazon.com/Robotics-Vision-Control-Fundamental-Algorithms/dp/3642201431)  :dollar:
 *   [INTECH Books](http://www.intechopen.com/subjects/robotics)
@@ -48,10 +48,10 @@
 
 ### Related awesome lists
 
-*   [Awesome Artificial Intelligence (⭐7.1k)](https://github.com/owainlewis/awesome-artificial-intelligence)
-*   [Awesome Computer Vision (⭐17k)](https://github.com/jbhuang0604/awesome-computer-vision)
-*   [Awesome Machine Learning (⭐56k)](https://github.com/josephmisiti/awesome-machine-learning)
-*   [Awesome Deep Learning (⭐20k)](https://github.com/ChristosChristofidis/awesome-deep-learning)
+*   [Awesome Artificial Intelligence (⭐10k)](https://github.com/owainlewis/awesome-artificial-intelligence)
+*   [Awesome Computer Vision (⭐21k)](https://github.com/jbhuang0604/awesome-computer-vision)
+*   [Awesome Machine Learning (⭐65k)](https://github.com/josephmisiti/awesome-machine-learning)
+*   [Awesome Deep Learning (⭐24k)](https://github.com/ChristosChristofidis/awesome-deep-learning)
 
 ## [5. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
 
@@ -61,7 +61,7 @@
 
 ### Icons / Icons Packages and Collections
 
-*   [Maps Icon (⭐2.1k)](https://github.com/djaiss/mapsicon) - [:copyright: (⭐2.1k)](https://github.com/djaiss/mapsicon#license) Mapsicon is a free collection of maps for nearly every country in the world, available in 11 different sizes, ranging from 16x16 pixels to 1024x1024 pixels, as well as .svg format.
+*   [Maps Icon (⭐2.2k)](https://github.com/djaiss/mapsicon) - [:copyright: (⭐2.2k)](https://github.com/djaiss/mapsicon#license) Mapsicon is a free collection of maps for nearly every country in the world, available in 11 different sizes, ranging from 16x16 pixels to 1024x1024 pixels, as well as .svg format.
 
 ## [6. Awesome Codepoints](/content/Codepoints/awesome-codepoints/README.md)
 

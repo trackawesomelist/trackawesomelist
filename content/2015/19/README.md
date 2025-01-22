@@ -23,7 +23,7 @@
 
 ### Audio
 
-*   [AudioPlayer (⭐718)](https://github.com/delannoyk/AudioPlayer) - A wrapper around AVPlayer with some cool features.
+*   [AudioPlayer (⭐731)](https://github.com/delannoyk/AudioPlayer) - A wrapper around AVPlayer with some cool features.
 
 ## [4. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
 
@@ -415,7 +415,7 @@ A secure OAuth2 server implementation
 ### Ruby Clients
 
 *   [RESTClient (⭐5.2k)](https://github.com/rest-client/rest-client) - Simple HTTP and REST client for Ruby, inspired by microframework syntax for specifying actions.
-*   [Spyke (⭐899)](https://github.com/balvig/spyke) - Interact with REST services in an ActiveRecord-like manner.
+*   [Spyke (⭐900)](https://github.com/balvig/spyke) - Interact with REST services in an ActiveRecord-like manner.
 *   [excon (⭐1.2k)](https://github.com/excon/excon) - Usable, fast, simple Ruby HTTP 1.1. It works great as a general HTTP(s) client and is particularly well suited to usage in API clients.
 
 ### Go Clients
@@ -531,7 +531,7 @@ A secure OAuth2 server implementation
 
 ### CLI Builder
 
-*   [Commander (⭐822)](https://github.com/commander-rb/commander) - The complete solution for Ruby command-line executables.
+*   [Commander (⭐824)](https://github.com/commander-rb/commander) - The complete solution for Ruby command-line executables.
 
 ### DevOps Tools
 

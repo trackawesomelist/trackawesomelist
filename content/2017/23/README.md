@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 05 - Jun 11, 2017
 
-43 awesome lists updated this week.
+42 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -32,7 +32,7 @@
 
 ### Programming / Python
 
-*   [Brian2 (⭐727)](https://github.com/brian-team/brian2) - Free, open source simulator for spiking neural networks.
+*   [Brian2 (⭐933)](https://github.com/brian-team/brian2) - Free, open source simulator for spiking neural networks.
 
 ## [5. Awesome Actionscript3](/content/robinrodricks/awesome-actionscript3/week/README.md)
 
@@ -126,13 +126,13 @@
 
 ### Libraries / Caching
 
-*   [jaemk/cached (⭐1.5k)](https://github.com/jaemk/cached) - Simple function caching/memoization
+*   [jaemk/cached (⭐1.6k)](https://github.com/jaemk/cached) - Simple function caching/memoization
 
 ## [8. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### Web Technologies and Services
 
-*   [shinyjs (⭐718)](https://github.com/daattali/shinyjs) -  Easily improve the user interaction and user experience in your Shiny apps in seconds.
+*   [shinyjs (⭐738)](https://github.com/daattali/shinyjs) -  Easily improve the user interaction and user experience in your Shiny apps in seconds.
 
 ## [9. Awesome Leading and Managing](/content/LappleApple/awesome-leading-and-managing/week/README.md)
 
@@ -158,7 +158,7 @@ Lite Version (Free) and Full Version ($3)
 
 ### Artificial Intelligence
 
-*   [CNTK (⭐17k)](https://github.com/Microsoft/CNTK) - Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit. \[Boost]
+*   [CNTK (⭐18k)](https://github.com/Microsoft/CNTK) - Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit. \[Boost]
 
 ## [12. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
 
@@ -184,13 +184,7 @@ Lite Version (Free) and Full Version ($3)
 
 *   [jhsdb](https://docs.oracle.com/javase/9/tools/jhsdb.htm) - Launch a postmortem debugger to analyze the content of a core-dump from a crashed JVM.
 
-## [16. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
-
-### Tools / Others
-
-*   [Timing](https://timingapp.com/) - Automatic time and productivity tracking for Mac. Helps you stay on track with your work (especially important when working remotely). Also ensures that no billable hours get lost if you are billing hourly (Mac).
-
-## [17. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [16. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Tutorials
 
@@ -198,19 +192,19 @@ Lite Version (Free) and Full Version ($3)
 
 ### Models/Projects
 
-*   [Show, Attend and Tell (⭐907)](https://github.com/yunjey/show_attend_and_tell) - Attention Based Image Caption Generator
-*   [GoogleNet Convolutional Neural Network Groups Movie Scenes By Setting (⭐357)](https://github.com/agermanidis/thingscoop) - Search, filter, and describe videos based on objects, places, and other things that appear in them
+*   [Show, Attend and Tell (⭐909)](https://github.com/yunjey/show_attend_and_tell) - Attention Based Image Caption Generator
+*   [GoogleNet Convolutional Neural Network Groups Movie Scenes By Setting (⭐358)](https://github.com/agermanidis/thingscoop) - Search, filter, and describe videos based on objects, places, and other things that appear in them
 *   [Colornet - Neural Network to colorize grayscale images (⭐3.6k)](https://github.com/pavelgonchar/colornet) - Neural Network to colorize grayscale images
 
-## [18. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
+## [17. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
 ### Integration
 
 *   Server-Sent Events
-    *   [jEaSSE (⭐59)](https://github.com/mariomac/jeasse) - Java Easy SSE. A simple, lightweight implementation of SSE.
-    *   [vertx-sse (⭐41)](https://github.com/aesteve/vertx-sse) - Vert.x SSE implementation + event-bus SSE bridge.
+    *   [jEaSSE (⭐61)](https://github.com/mariomac/jeasse) - Java Easy SSE. A simple, lightweight implementation of SSE.
+    *   [vertx-sse (⭐47)](https://github.com/aesteve/vertx-sse) - Vert.x SSE implementation + event-bus SSE bridge.
 
-## [19. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [18. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Keychain / Barcode
 
@@ -218,20 +212,20 @@ Lite Version (Free) and Full Version ($3)
 
 ### UI / Barcode
 
-*   [Dodo (⭐874)](https://github.com/evgenyneu/Dodo) - A message bar for iOS.
-*   [SectionedSlider (⭐368)](https://github.com/LeonardoCardoso/SectionedSlider) - Control Center Slider.
+*   [Dodo (⭐878)](https://github.com/evgenyneu/Dodo) - A message bar for iOS.
+*   [SectionedSlider (⭐371)](https://github.com/LeonardoCardoso/SectionedSlider) - Control Center Slider.
 
 ### Menu / Barcode
 
 *   [FanMenu (⭐728)](https://github.com/exyte/fan-menu) - Menu with a circular layout based on Macaw.
 
-## [20. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [19. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Input Methods / Audio Record and Process
 
 *   [Rocket](http://matthewpalmer.net/rocket/) - Makes typing emoji faster and easier using Slack-style shortcuts. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [21. Rbooks](/content/RomanTsegelskyi/rbooks/week/README.md)
+## [20. Rbooks](/content/RomanTsegelskyi/rbooks/week/README.md)
 
 ### Beginner Books
 
@@ -242,6 +236,12 @@ Lite Version (Free) and Full Version ($3)
 Data Munging with R shows you how to take raw data and transform it for use in computations, tables, graphs, and more. Whether you already have some programming experience or you're just a spreadsheet whiz looking for a more powerful data manipulation tool, this book will help you get started.
 
 You'll discover the ins and outs of using the data-oriented R programming language and its many task-specific packages. With dozens of practical examples to follow, learn to fill in missing values, make predictions, and visualize data as graphs. By the time you're done, you'll be a master munger, with a robust, reproducible workflow and the skills to use data to strengthen your conclusions!
+
+## [21. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
+
+### Applications and Platforms / Time
+
+*   [Timing](https://timingapp.com/) - Automatic time and productivity tracking for Mac. Helps you stay on track with your work and tells you exactly how many seconds you spent in each document, website and app (Mac).
 
 ## [22. Awesome Design](/content/gztchan/awesome-design/week/README.md)
 
@@ -256,36 +256,25 @@ You'll discover the ins and outs of using the data-oriented R programming langua
 *   [TOAST](http://developer.samsung.com/tv/develop/extension-libraries/toast/) - Samsung open-source framework for multi-platform TV apps developemnt.
 *   [Enyo](http://enyojs.com) - LG framework for development apps for all major platforms, from phones and tablets to PCs and TVs.
 
-## [24. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
-
-### Projects Using Vue.js / Open Source
-
-*   [Flamme (⭐128)](https://github.com/alicin/flamme) - An open source Tinder desktop client built with electron and Vue.js for educational purposes
-*   [Goldfish (⭐2.2k)](https://github.com/Caiyeon/goldfish) - A HashiCorp Vault UI built with VueJS, Golang, and Bulma CSS
-
-### Components & Libraries / UI Utilities
-
-*   [vue-scroll-behavior (⭐141)](https://github.com/jeneser/vue-scroll-behavior) - Customize the scroll behavior on route navigation. Especially hash mode.
-
-## [25. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
+## [24. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
 
 ### Configs / Configs by Well-Known Companies/Organizations
 
 *   [Facebook](https://www.npmjs.com/package/eslint-config-fbjs) - Sharable config for Facebook's style guide.
 
-## [26. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
+## [25. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
 
 ### Utility Scripts
 
-*   [cmake-get (⭐59)](https://github.com/pfultz2/cmake-get) - Get dependencies in config or script mode. `[NO LICENSE]`
+*   [cmake-get (⭐63)](https://github.com/pfultz2/cmake-get) - Get dependencies in config or script mode. `[NO LICENSE]`
 
-## [27. Awesome Laravel Education](/content/fukuball/Awesome-Laravel-Education/week/README.md)
+## [26. Awesome Laravel Education](/content/fukuball/Awesome-Laravel-Education/week/README.md)
 
 ### Blogs / Case Study
 
 *   [Diving Laravel](https://divinglaravel.com/)
 
-## [28. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
+## [27. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
 ### Software / Operating Systems
 
@@ -299,13 +288,13 @@ You'll discover the ins and outs of using the data-oriented R programming langua
 
 *   [gplenforced.org](https://gplenforced.org/) - Community-oriented GPL enforcement.
 
-## [29. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [28. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Hardware
 
 *   [Pinoccio](https://www.open-electronics.org/pinoccio-wifi-mesh-networking-for-arduino-and-iot-available-now/) - Pinoccio is a solution to add mesh networking capability and WiFi-Internet access to all your IoT devices, and it is Arduino compatible.
 
-## [30. Awesome Recursion Schemes](/content/passy/awesome-recursion-schemes/week/README.md)
+## [29. Awesome Recursion Schemes](/content/passy/awesome-recursion-schemes/week/README.md)
 
 ### Papers / Hylomorphisms in the Wild
 
@@ -317,7 +306,7 @@ You'll discover the ins and outs of using the data-oriented R programming langua
 *   [purescript-matryoshka (⭐57)](https://github.com/slamdata/purescript-matryoshka) for PureScript -
     Work-in-process port of matryoshka.
 
-## [31. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [30. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Network / IDS / IPS / Host IDS / Host IPS
 
@@ -332,7 +321,7 @@ You'll discover the ins and outs of using the data-oriented R programming langua
 *   [passbolt](https://www.passbolt.com/) - The password manager your team was waiting for. Free, open source, extensible, based on OpenPGP.
 *   [Vault](https://www.vaultproject.io/) - An encrypted datastore secure enough to hold environment and application secrets.
 
-## [32. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [31. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Debugging / Profiling
 
@@ -344,15 +333,15 @@ You'll discover the ins and outs of using the data-oriented R programming langua
 
 ### Packages / Real-time
 
-*   [Kalm (⭐209)](https://github.com/kalm/kalm.js) - Low-level socket router and middleware framework.
+*   [Kalm (⭐210)](https://github.com/kalm/kalm.js) - Low-level socket router and middleware framework.
 
-## [33. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
+## [32. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
 ### Contents / Utilities
 
-*   [pg-formatter (⭐79)](https://github.com/gajus/pg-formatter) - A PostgreSQL SQL syntax beautifier (Node.js).
+*   [pg-formatter (⭐80)](https://github.com/gajus/pg-formatter) - A PostgreSQL SQL syntax beautifier (Node.js).
 
-## [34. Awesome Pyramid](/content/uralbash/awesome-pyramid/week/README.md)
+## [33. Awesome Pyramid](/content/uralbash/awesome-pyramid/week/README.md)
 
 ### Translations
 
@@ -362,7 +351,7 @@ You'll discover the ins and outs of using the data-oriented R programming langua
 
 *   [Pyramid Workshop in Munich, Germany.](https://pyconweb.com/talks/28-05-2017/pyramid-workshop) (May 28, 2017, 10:30 a.m. - 12:30 p.m.)
 
-## [35. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [34. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### IDE
 
@@ -374,24 +363,24 @@ You'll discover the ins and outs of using the data-oriented R programming langua
 
 ### Scheduling
 
-*   [DurableTask (⭐1.5k)](https://github.com/Azure/durabletask) - This framework allows users to write long running persistent workflows in C# using the async/await capabilities.
+*   [DurableTask (⭐1.6k)](https://github.com/Azure/durabletask) - This framework allows users to write long running persistent workflows in C# using the async/await capabilities.
 
 ### WPF
 
-*   [Data Grid Extensions (⭐797)](https://github.com/tom-englert/DataGridExtensions) - Modular extensions for the WPF DataGrid control, like filtering, additional column events, extended star-size column behavior, and more...
+*   [Data Grid Extensions (⭐841)](https://github.com/tom-englert/DataGridExtensions) - Modular extensions for the WPF DataGrid control, like filtering, additional column events, extended star-size column behavior, and more...
 
-## [36. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [35. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In Persian
 
 *   [Shir Ya Khat](http://shiryakhat.net/) - The first Blockchain Podcast dedicated to Iranians and Farsi speaking communities. We talk about Bitcoin, Blockchain assets and decentralization ideaology.
 
-## [37. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
+## [36. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
 ### Libraries
 
-*   [Javascript Parser Combinator (⭐139)](https://github.com/d-plaindoux/parsec) – Javascript parser combinator implementation inspired by the Haskell's Parsec
-*   [fun-task (⭐372)](https://github.com/rpominov/fun-task) – An abstraction for managing asynchronous code in JS. Tasks are similar to Promises with the key difference that Tasks can represent a computation while Promises can represent only the results of a computation. Ships with Flow type definitions.
+*   [Javascript Parser Combinator (⭐145)](https://github.com/d-plaindoux/parsec) – Javascript parser combinator implementation inspired by the Haskell's Parsec
+*   [fun-task (⭐373)](https://github.com/rpominov/fun-task) – An abstraction for managing asynchronous code in JS. Tasks are similar to Promises with the key difference that Tasks can represent a computation while Promises can represent only the results of a computation. Ships with Flow type definitions.
 *   [most (⭐3.5k)](https://github.com/cujojs/most) – Ultra-high performance reactive programming to help you compose asynchronous operations on streams of values and events without many of the hazards of side effects and mutable shared state.
 
 ### Functional Languages that Compile to JavaScript / Lenses
@@ -401,22 +390,22 @@ You'll discover the ins and outs of using the data-oriented R programming langua
 ### Programming Tools / Lenses
 
 *   [4.5 (⭐21)](https://github.com/TylorS/4.5) – A functional assertions library. If you prefer functional style APIs and practices in JavaScript, this library aims to solve this with functionally-oriented assertions that are lazy and monadic.
-*   [hm-def (⭐196)](https://github.com/xodio/hm-def) – Runtime type checking for JS with Hindley Milner signatures.
+*   [hm-def (⭐198)](https://github.com/xodio/hm-def) – Runtime type checking for JS with Hindley Milner signatures.
 
-## [38. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [37. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Development / Devops
 
 *   [SAWS (⭐5.2k)](https://github.com/donnemartin/saws) - Supercharged AWS CLI.
-*   [s3cmd (⭐4.4k)](https://github.com/s3tools/s3cmd) - Fully-Featured S3 client.
+*   [s3cmd (⭐4.6k)](https://github.com/s3tools/s3cmd) - Fully-Featured S3 client.
 
 ### Command Line Learning / Internet Speedtest
 
-*   [The Fuck (⭐83k)](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
-*   [tldr (⭐48k)](https://github.com/tldr-pages/tldr) - Simplified and community-driven man pages.
-*   [Wat (⭐489)](https://github.com/dthree/wat) - Instant, central, community-built docs.
+*   [The Fuck (⭐85k)](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
+*   [tldr (⭐51k)](https://github.com/tldr-pages/tldr) - Simplified and community-driven man pages.
+*   [Wat (⭐495)](https://github.com/dthree/wat) - Instant, central, community-built docs.
 
-## [39. Awesome Gif](/content/davisonio/awesome-gif/week/README.md)
+## [38. Awesome Gif](/content/davisonio/awesome-gif/week/README.md)
 
 ### Online Tools / Swift
 
@@ -430,7 +419,7 @@ You'll discover the ins and outs of using the data-oriented R programming langua
 
 *   [Why is the GIF I created so slow?](https://superuser.com/questions/569924/why-is-the-gif-i-created-so-slow/569967) - Using ImageMagick to solve problems concerning GIF speed.
 
-## [40. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
+## [39. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
 
 ### Developer
 
@@ -440,13 +429,13 @@ You'll discover the ins and outs of using the data-oriented R programming langua
 
 *   [Kaomoji](https://github.com/vinkla/alfred-kaomoji) - Find relevant kaomoji from text.
 
-## [41. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [40. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Swift / General-Purpose Machine Learning
 
 *   [Bender (⭐1.8k)](https://github.com/xmartlabs/Bender) - Fast Neural Networks framework built on top of Metal. Supports TensorFlow models.
 
-## [42. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [41. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### Norway 🇳🇴 / Stavanger
 
@@ -503,7 +492,7 @@ Webpage: <http://breadandhearth.com/>
 | ---- | ----- | ------------------------------------------------------------- | ------------------- |
 | ✔    | ?     | [18 Keong Saik Road, 089125](https://goo.gl/maps/hyWVdRe7Dys) | Daily 8:30AM–9.30PM |
 
-## [43. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [42. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### Emulators
 

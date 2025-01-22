@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 02, 2017
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -70,14 +70,7 @@ Topics: Browser Technologies, Web Audio, Web MIDI\
 
 *   [Foundation Icon Fonts 2](http://zurb.com/playground/foundation-icons)
 
-## [7. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
-
-### Newsletters
-
-*   [Remoteur](http://www.remoteur.com) - Remote jobs in Europe delivered to your inbox bi-weekly
-*   [Yonder Newsletter](https://yonder.io/newsletter) - Daily remote work tips, links, articles, and the Yonder Podcast
-
-## [8. Bots](/content/hackerkid/bots/README.md)
+## [7. Bots](/content/hackerkid/bots/README.md)
 
 ### Tutorials / Go
 
@@ -89,19 +82,19 @@ Topics: Browser Technologies, Web Audio, Web MIDI\
 *   [ChatbotTest](http://chatbottest.com/) - Chatbottest is an open source guide that helps you identify chatbot's design issues under 7 different categories.
 *   [BotTesting](http://bottesting.co/) - Test your bot! Send your email and bot link to us, we’ll examine your bot’s performance and usability
 
-## [9. Awesome Okr](/content/domenicosolazzo/awesome-okr/README.md)
+## [8. Awesome Okr](/content/domenicosolazzo/awesome-okr/README.md)
 
 ### Software
 
 *   [Zugata](http://www.zugata.com/)
 
-## [10. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
+## [9. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
 
 ### Questions
 
 *   [obandit](http://freux.fr/oss/obandit.html) - OCaml library for multi-armed bandits.
 
-## [11. Awesome4girls](/content/cristianoliveira/awesome4girls/README.md)
+## [10. Awesome4girls](/content/cristianoliveira/awesome4girls/README.md)
 
 ### General / UX
 
@@ -207,21 +200,13 @@ Topics: Browser Technologies, Web Audio, Web MIDI\
 
     List of initiatives and information about women in tech as well as the industry's gender gap.
 
-## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [11. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Tutorials
 
 *   [Building Your First Advanced CRUD Application with Vue 2 (Video)](https://www.packtpub.com/web-development/building-your-first-advanced-crud-application-vue-2-video) by Peter van Meijgaard, Packt. (July 2017)
 *   [프론트엔드 개발자를 위한 Vue.js 입문서](https://joshua1988.github.io/web-development/vuejs/vuejs-tutorial-for-beginner/)
 *   [누구나 다루기 쉬운 Vue.js (Video)](https://www.inflearn.com/course/vue-pwa-vue-js-%EA%B8%B0%EB%B3%B8/) on [Inflearn](https://www.inflearn.com/) by [Captain Pangyo](https://joshua1988.github.io/)
-
-### Projects Using Vue.js / Open Source
-
-*   [grid-awesome (⭐25)](https://github.com/louisbourque/grid-awesome) - Generate boilerplate css for grid layouts using the css display: grid; property.
-
-### Components & Libraries / UI Components
-
-*   [vue-datetime (⭐986)](https://github.com/mariomka/vue-datetime) - Mobile friendly datetime picker for Vue. Supports date, datetime and time modes, i18n and disabling dates.
 
 ---
 

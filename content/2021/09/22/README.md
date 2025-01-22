@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 22, 2021
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -22,13 +22,13 @@
 
 ### Tools / Misc
 
-*   [DVClive (⭐161)](https://github.com/iterative/dvclive) - Python library for experiment metrics logging into simply formatted local files.
+*   [DVClive (⭐167)](https://github.com/iterative/dvclive) - Python library for experiment metrics logging into simply formatted local files.
 
 ## [4. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### Plugins
 
-*   💼 [Fluid Type (⭐331)](https://github.com/davidhellmann/tailwindcss-fluid-type) - Adds fluid type (`font-size`) utilities.
+*   💼 [Fluid Type (⭐350)](https://github.com/davidhellmann/tailwindcss-fluid-type) - Adds fluid type (`font-size`) utilities.
 
 ## [5. Awesome Low Code](/content/zenitysec/awesome-low-code/README.md)
 
@@ -40,7 +40,7 @@
 
 ### Platforms
 
-*   [Integration (⭐339)](https://github.com/stn1slv/awesome-integration#readme) - Linking together different IT systems (components) to functionally cooperate as a whole.
+*   [Integration (⭐369)](https://github.com/stn1slv/awesome-integration#readme) - Linking together different IT systems (components) to functionally cooperate as a whole.
 
 ## [7. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
 
@@ -50,10 +50,10 @@
 
 ### Component Libraries
 
-*   [ESP Web Tools (⭐382)](https://github.com/esphome/esp-web-tools) - Allow flashing ESPHome or other ESP-based firmwares via the browser.
-*   [Ignite UI Web Components (⭐111)](https://github.com/IgniteUI/igniteui-webcomponents) - Complete library of UI components from Infragistics.
-*   [Medblocks UI (⭐51)](https://github.com/medblocks/medblocks-ui) - Web Components for rapid development of openEHR and FHIR systems.
-*   [Vidstack Elements (⭐1.8k)](https://github.com/vidstack/vds-elements) - Spec-compliant customizable, extensible, accessible and universal media elements.
+*   [ESP Web Tools (⭐417)](https://github.com/esphome/esp-web-tools) - Allow flashing ESPHome or other ESP-based firmwares via the browser.
+*   [Ignite UI Web Components (⭐118)](https://github.com/IgniteUI/igniteui-webcomponents) - Complete library of UI components from Infragistics.
+*   [Medblocks UI (⭐54)](https://github.com/medblocks/medblocks-ui) - Web Components for rapid development of openEHR and FHIR systems.
+*   [Vidstack Elements (⭐2.1k)](https://github.com/vidstack/vds-elements) - Spec-compliant customizable, extensible, accessible and universal media elements.
 
 ### Tools / Building
 
@@ -77,7 +77,7 @@
 *   [vscode-lit-html](https://marketplace.visualstudio.com/items?itemName=bierner.lit-html) - Syntax highlighting and IntelliSense for lit-html template strings.
 *   [vscode-lit-plugin](https://marketplace.visualstudio.com/items?itemName=runem.lit-plugin) - Syntax highlighting, type checking and code completion for lit-html.
 *   [es6-string-html](https://marketplace.visualstudio.com/items?itemName=Tobermory.es6-string-html) - VSCode extension which provides syntax highlighting for HTML in ES6 multiline strings.
-*   [vim-html-template-literals (⭐69)](https://github.com/jonsmithers/vim-html-template-literals) - Syntax highlighting and indentation for HTML inside of tagged template literals.
+*   [vim-html-template-literals (⭐71)](https://github.com/jonsmithers/vim-html-template-literals) - Syntax highlighting and indentation for HTML inside of tagged template literals.
 
 ### Tools / TypeScript Plugins
 
@@ -102,13 +102,7 @@
 *   [Why Authorization is Hard](https://www.osohq.com/post/why-authorization-is-hard) - Because it needs multiple tradeoffs on Enforcement which is required in so many places, on Decision architecture to split business logic from authorization logic, and on Modeling to balance power and complexity.
 *   [The never-ending product requirements of user authorization](https://alexolivier.me/posts/the-never-ending-product-requirements-of-user-authorization) - How a simple authorization model based on roles is not enough and gets complicated fast due to product packaging, data locality, enterprise organizations and compliance.
 
-## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / Scaffold
-
-*   [electron-vue3-flask (⭐30)](https://github.com/megasanjay/electron-vue3-flask) - An Electron & Vue.js application starter template that uses a python backend via Flask for desktop application building.
-
-## [10. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+## [9. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Component Collections / Material Design
 

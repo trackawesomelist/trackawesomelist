@@ -76,7 +76,7 @@
 
 ### Logging
 
-*   [logglix (⭐11)](https://github.com/pragmaticivan/logglix) - A logger backend for posting errors to Loggly.
+*   [logglix (⭐10)](https://github.com/pragmaticivan/logglix) - A logger backend for posting errors to Loggly.
 
 ## [9. Awesome Relay](/content/expede/awesome-relay/README.md)
 

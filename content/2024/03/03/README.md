@@ -20,11 +20,11 @@
 
 ### OS and Kernels / Apache License
 
-*   [ironclad](https://ironclad.nongnu.org/) - A kernel for several architectures striving for POSIX compatibility, used on several distributions like [Gloire (⭐94)](https://github.com/streaksu/Gloire).
+*   [ironclad](https://ironclad.nongnu.org/) - A kernel for several architectures striving for POSIX compatibility, used on several distributions like [Gloire (⭐131)](https://github.com/streaksu/Gloire).
 
 ### Games / Apache License
 
-*   [steamsky (⭐94)](https://github.com/thindil/steamsky) - Roguelike in sky with a steampunk setting.
+*   [steamsky (⭐93)](https://github.com/thindil/steamsky) - Roguelike in sky with a steampunk setting.
 
 ## [3. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
@@ -47,15 +47,15 @@
 
 ### Color / Diagnostics
 
-*   [rasulomaroff/reactive.nvim (⭐183)](https://github.com/rasulomaroff/reactive.nvim) - Set global and window-specific highlights or trigger callbacks when modes/operators change or windows are switched.
+*   [rasulomaroff/reactive.nvim (⭐211)](https://github.com/rasulomaroff/reactive.nvim) - Set global and window-specific highlights or trigger callbacks when modes/operators change or windows are switched.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [samharju/synthweave.nvim (⭐36)](https://github.com/samharju/synthweave.nvim) - Synthwave '84 colorscheme port.
+*   [samharju/synthweave.nvim (⭐50)](https://github.com/samharju/synthweave.nvim) - Synthwave '84 colorscheme port.
 
 ### Terminal Integration / Diagnostics
 
-*   [samharju/yeet.nvim (⭐31)](https://github.com/samharju/yeet.nvim) - Run shell commands in terminal buffers or tmux panes.
+*   [samharju/yeet.nvim (⭐103)](https://github.com/samharju/yeet.nvim) - Run shell commands in terminal buffers or tmux panes.
 
 ---
 

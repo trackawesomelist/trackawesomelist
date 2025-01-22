@@ -10,7 +10,7 @@
 
 ### Static Analysis / Linting
 
-*   [Run TSLint with status checks and file diff annotations (⭐31)](https://github.com/mooyoul/tslint-actions)
+*   [Run TSLint with status checks and file diff annotations (⭐34)](https://github.com/mooyoul/tslint-actions)
 
 ## [2. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
@@ -166,7 +166,7 @@
 
 ### Tools
 
-*   [go-orbit-db (⭐376)](https://github.com/berty/go-orbit-db) - This is a Golang port of OrbitDB that intends to be fully compatible with the original JavaScript version. OrbitDB is a serverless, distributed, peer-to-peer database.
+*   [go-orbit-db (⭐423)](https://github.com/berty/go-orbit-db) - This is a Golang port of OrbitDB that intends to be fully compatible with the original JavaScript version. OrbitDB is a serverless, distributed, peer-to-peer database.
 
 ## [11. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
@@ -205,12 +205,12 @@
 ### Internationalization
 
 *   [Camomile (⭐124)](https://github.com/yoriyuki/Camomile/) — A Unicode library for OCaml.
-*   [ocaml-m17n (⭐52)](https://github.com/whitequark/ocaml-m17n) — Multilingualization for OCaml source code. Allows using Unicode identifiers in OCaml source code.
-*   [Uucd (⭐16)](https://github.com/dbuenzli/uucd) — Unicode character database decoder for OCaml.
-*   [Uucp (⭐20)](https://github.com/dbuenzli/uucp) — Unicode character properties for OCaml.
-*   [Uunf (⭐22)](https://github.com/dbuenzli/uunf) — Unicode text normalization for OCaml.
+*   [ocaml-m17n (⭐51)](https://github.com/whitequark/ocaml-m17n) — Multilingualization for OCaml source code. Allows using Unicode identifiers in OCaml source code.
+*   [Uucd (⭐17)](https://github.com/dbuenzli/uucd) — Unicode character database decoder for OCaml.
+*   [Uucp (⭐21)](https://github.com/dbuenzli/uucp) — Unicode character properties for OCaml.
+*   [Uunf (⭐21)](https://github.com/dbuenzli/uunf) — Unicode text normalization for OCaml.
 *   [Uuseg (⭐23)](https://github.com/dbuenzli/uuseg) — Unicode text segmentation for OCaml.
-*   [Uutf (⭐30)](https://github.com/dbuenzli/uutf) — Non-blocking streaming Unicode codec for OCaml.
+*   [Uutf (⭐32)](https://github.com/dbuenzli/uutf) — Non-blocking streaming Unicode codec for OCaml.
 
 ## [14. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
@@ -222,7 +222,7 @@
 
 ### Auth / Image Picker
 
-*   [Flutter AppAuth (⭐269)](https://github.com/MaikuB/flutter_appauth) <!--stargazers:MaikuB/flutter_appauth--> - Plugin that provides a wrapper around the AppAuth iOS and Android SDKs by [Michael Bui](https://github.com/MaikuB)
+*   [Flutter AppAuth (⭐275)](https://github.com/MaikuB/flutter_appauth) <!--stargazers:MaikuB/flutter_appauth--> - Plugin that provides a wrapper around the AppAuth iOS and Android SDKs by [Michael Bui](https://github.com/MaikuB)
 
 ### 🇦🇺 Australia / Misc
 
@@ -294,8 +294,8 @@
 
 ### Tools / Reverse Engineering
 
-*   [Simplify Android deobfuscator (⭐4.4k)](https://github.com/CalebFenton/simplify)
-*   [Andromeda (⭐695)](https://github.com/secrary/Andromeda) - Another basic command-line reverse engineering tool
+*   [Simplify Android deobfuscator (⭐4.5k)](https://github.com/CalebFenton/simplify)
+*   [Andromeda (⭐704)](https://github.com/secrary/Andromeda) - Another basic command-line reverse engineering tool
 
 ## [18. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 

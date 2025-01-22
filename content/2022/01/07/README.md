@@ -41,7 +41,7 @@
 
   CORS: Yes
 
-  Call this API: 
+  : 
 
 
 
@@ -49,11 +49,11 @@
 
 ### Showcases
 
-*   [Demo.Playwright (⭐239)](https://github.com/MarcusFelling/Demo.Playwright) - Various testing scenarios with Playwright, using the official test-runner and scripts authored in TypeScript.
+*   [Demo.Playwright (⭐250)](https://github.com/MarcusFelling/Demo.Playwright) - Various testing scenarios with Playwright, using the official test-runner and scripts authored in TypeScript.
 
 ## [4. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
 
-### Form / Checkbox
+### Forms
 
 *   [felte](https://felte.dev/) - Extensible form library, with built-in Yup, Zod, Vest, and Superstruct validation.
 
@@ -61,13 +61,13 @@
 
 ### Components & Libraries / UI Utilities
 
-*   [vest (⭐2.5k)](https://github.com/ealush/vest) - 🦺 Declarative form validation framework inspired by unit testing.
+*   [vest (⭐2.6k)](https://github.com/ealush/vest) - 🦺 Declarative form validation framework inspired by unit testing.
 
 ## [6. Awesome Magento2](/content/run-as-root/awesome-magento2/README.md)
 
 ### Development Utilities
 
-*   [bitExpert/phpstan-magento (⭐133)](https://github.com/bitExpert/phpstan-magento) - Magento specific extension for PHPStan
+*   [bitExpert/phpstan-magento (⭐135)](https://github.com/bitExpert/phpstan-magento) - Magento specific extension for PHPStan
 
 ### Company Blogs / Progressive Web Application
 
@@ -93,7 +93,7 @@
 
 ### Software Architecture
 
-*   [Domain-Driven Design Reference](https://www.domainlanguage.com/ddd/reference) - Eric Evans
+*   [Domain-Driven Design Reference](https://www.domainlanguage.com/ddd/reference) - Eric Evans (CC BY)
 
 ## [10. Web Development Resources](/content/markodenic/web-development-resources/README.md)
 
@@ -115,13 +115,13 @@
 
 ### Libraries/Frameworks / Misc
 
-*   [consoleau/kassava (⭐114)](https://github.com/consoleau/kassava) - This library provides some useful kotlin extension functions for implementing toString() and equals() without all of the boilerplate.
+*   [consoleau/kassava (⭐115)](https://github.com/consoleau/kassava) - This library provides some useful kotlin extension functions for implementing toString() and equals() without all of the boilerplate.
 
 ## [13. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
 ### Overlays / Webinterface
 
-*   [nixpkgs-firefox-darwin (⭐42)](https://github.com/bandithedoge/nixpkgs-firefox-darwin) - Automatically updated Firefox binary packages for macOS.
+*   [nixpkgs-firefox-darwin (⭐55)](https://github.com/bandithedoge/nixpkgs-firefox-darwin) - Automatically updated Firefox binary packages for macOS.
 
 ## [14. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/README.md)
 
@@ -189,23 +189,19 @@
 
 ### Job boards
 
-*   [Stream Native Jobs](https://streamnative.io/careers/) - Scroll down to `Join Us`
 *   [SwissDev Jobs](https://swissdevjobs.ch/) - Filter -> "Remote / Work from home"
 *   [Upwork](https://www.upwork.com) - Find remote jobs in any category
 *   [Virtual Vocations](https://www.virtualvocations.com/)
 *   [Vue.js Jobs](https://vuejobs.com/) Find Vue.js jobs all around the world - Click on "Remote" tab.
-*   [React.js Jobs](https://www.react-jobs.com) Find React.js jobs all around the world - Click on "Remote" toggle button.
 *   [Web3Jobs](https://web3.career/remote-jobs) - Remote Web3 Jobs
-*   [We Love Go](https://www.welovegolang.com/) Find Go jobs and Go people all around the world - Click on "Remote Go jobs" link. #golang
 *   [We Work Remotely](https://weworkremotely.com/)
 *   [Workana](https://www.workana.com/) Freelance Job Board in Spanish and Portuguese
-*   [Working Nomads](https://www.workingnomads.co/jobs)
 
 ## [16. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-remove-console (⭐151)](https://github.com/xiaoxian521/vite-plugin-remove-console) - A vite plugin that deletes console.log in the production environment.
+*   [vite-plugin-remove-console (⭐165)](https://github.com/xiaoxian521/vite-plugin-remove-console) - A vite plugin that deletes console.log in the production environment.
 
 ---
 

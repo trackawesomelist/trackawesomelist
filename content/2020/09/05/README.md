@@ -78,7 +78,7 @@
 
 ### Utilities / Game Engine resources
 
-*   [Fontify (⭐102)](https://github.com/westracer/fontify) <!--stargazers:westracer/fontify--> - CLI tool to convert SVG icons to OTF font and generate Flutter-compatible class by [Igor Kharakhordin](https://github.com/westracer)
+*   [Fontify (⭐105)](https://github.com/westracer/fontify) <!--stargazers:westracer/fontify--> - CLI tool to convert SVG icons to OTF font and generate Flutter-compatible class by [Igor Kharakhordin](https://github.com/westracer)
 
 ## [4. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
@@ -90,11 +90,11 @@
 
 ### Software / Software Development - Project Management
 
-*   [SCM Manager](https://www.scm-manager.org/) - The easiest way to share and manage your Git, Mercurial and Subversion repositories over http. ([Source Code (⭐134)](https://github.com/scm-manager/scm-manager)) `BSD-3-Clause` `Java/deb/Docker/K8S`
+*   [SCM Manager](https://www.scm-manager.org/) - The easiest way to share and manage your Git, Mercurial and Subversion repositories over http. ([Source Code (⭐137)](https://github.com/scm-manager/scm-manager)) `BSD-3-Clause` `Java/deb/Docker/K8S`
 
 ### Software / Task Management & To-do Lists
 
-*   [Wekan](https://wekan.github.io/) - Open-source Trello-like kanban. ([Source Code (⭐19k)](https://github.com/wekan/wekan)) `MIT` `Nodejs`
+*   [Wekan](https://wekan.github.io/) - Open-source Trello-like kanban. ([Source Code (⭐20k)](https://github.com/wekan/wekan)) `MIT` `Nodejs`
 
 ## [6. Awesome Internships](/content/lodthe/awesome-internships/README.md)
 
@@ -107,7 +107,7 @@
 
 ### GitHub Tools and Management / Docker Container Actions
 
-*   [Herald Rules for GitHub: Add Subscribers, Assignees, Labels, and More to Your PR (⭐45)](https://github.com/gagoar/use-herald-action)
+*   [Herald Rules for GitHub: Add Subscribers, Assignees, Labels, and More to Your PR (⭐53)](https://github.com/gagoar/use-herald-action)
 
 ---
 

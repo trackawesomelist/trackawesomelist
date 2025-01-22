@@ -10,7 +10,7 @@
 
 ### Software / File Transfer - Peer-to-peer Filesharing
 
-*   [Send (⭐4.3k)](https://github.com/timvisee/send) - Simple, private, end to end encrypted temporary file sharing, originally built by Mozilla. ([Clients (⭐4.3k)](https://github.com/timvisee/send#clients)) `MPL-2.0` `Nodejs/Docker`
+*   [Send (⭐4.9k)](https://github.com/timvisee/send) - Simple, private, end to end encrypted temporary file sharing, originally built by Mozilla. ([Clients (⭐4.9k)](https://github.com/timvisee/send#clients)) `MPL-2.0` `Nodejs/Docker`
 
 ## [2. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 
@@ -26,14 +26,14 @@
 
 ### Tools / Ansible
 
-*   [dotbare (⭐633)](https://github.com/kazhala/dotbare) - Manage dotfiles interactively with fzf.
-*   [toml-bombadil (⭐207)](https://github.com/oknozor/toml-bombadil) - Templatize and manage your dotfiles.
+*   [dotbare (⭐673)](https://github.com/kazhala/dotbare) - Manage dotfiles interactively with fzf.
+*   [toml-bombadil (⭐232)](https://github.com/oknozor/toml-bombadil) - Templatize and manage your dotfiles.
 
 ## [4. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
 ### Configs / Other Prominent Configs (100 stars or so)
 
-*   [Auto (⭐396)](https://github.com/davidjbradshaw/eslint-config-auto) - Automatically configure ESLint based on your project's dependencies.
+*   [Auto (⭐402)](https://github.com/davidjbradshaw/eslint-config-auto) - Automatically configure ESLint based on your project's dependencies.
 
 ### Configs / Other Configs
 
@@ -41,7 +41,7 @@
 
 ### Plugins / Languages and Environments
 
-*   [TOML (⭐25)](https://github.com/ota-meshi/eslint-plugin-toml) - ESLint plugin for TOML.
+*   [TOML (⭐26)](https://github.com/ota-meshi/eslint-plugin-toml) - ESLint plugin for TOML.
 
 ## [5. Awesome Veganism](/content/sdassow/awesome-veganism/README.md)
 
@@ -63,9 +63,9 @@
 ### Programming Language Design Patterns
 
 *   C#
-    *   [design-patterns (⭐2.3k)](https://github.com/abishekaditya/DesignPatterns)
-    *   [design-patterns-for-human (⭐1.2k)](https://github.com/anupavanm/csharp-design-patterns-for-humans) - ultra simplified explanation to design patterns.
-    *   [Design Patterns Library (⭐1.9k)](https://github.com/nemanjarogic/DesignPatternsLibrary)
+    *   [design-patterns (⭐2.5k)](https://github.com/abishekaditya/DesignPatterns)
+    *   [design-patterns-for-human (⭐1.3k)](https://github.com/anupavanm/csharp-design-patterns-for-humans) - ultra simplified explanation to design patterns.
+    *   [Design Patterns Library (⭐2k)](https://github.com/nemanjarogic/DesignPatternsLibrary)
 
 ## [7. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 

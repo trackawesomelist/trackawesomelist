@@ -16,17 +16,17 @@
 
 ### Forms / Paid Books
 
-*   [jquery-minicolors (⭐953)](https://github.com/claviska/jquery-minicolors) - A tiny color picker plugin.
+*   [jquery-minicolors (⭐959)](https://github.com/claviska/jquery-minicolors) - A tiny color picker plugin.
 
 ## [3. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Algorithms and Data structures
 
-*   [ratio (⭐40)](https://github.com/Qqwy/elixir-rational) - Adds Rational Numbers and allows them to be used in common arithmetic operations. Also supports conversion between Floats and Rational Numbers.
+*   [ratio (⭐41)](https://github.com/Qqwy/elixir-rational) - Adds Rational Numbers and allows them to be used in common arithmetic operations. Also supports conversion between Floats and Rational Numbers.
 
 ### Applications
 
-*   [Phoenix Battleship (⭐525)](https://github.com/bigardone/phoenix-battleship) - The Good Old game built with Elixir, Phoenix Framework, React and Redux.
+*   [Phoenix Battleship (⭐527)](https://github.com/bigardone/phoenix-battleship) - The Good Old game built with Elixir, Phoenix Framework, React and Redux.
 
 ### Cloud Infrastructure and Management
 
@@ -34,7 +34,7 @@
 
 ### Validations
 
-*   [bankster (⭐30)](https://github.com/railsmechanic/bankster) - A IBAN account number and BIC validation library for Elixir.
+*   [bankster (⭐32)](https://github.com/railsmechanic/bankster) - A IBAN account number and BIC validation library for Elixir.
 
 ## [4. Rbooks](/content/RomanTsegelskyi/rbooks/README.md)
 
@@ -64,7 +64,7 @@ This book is packed with practical recipes, designed to provide you with all the
 
 ### Source Generator
 
-*   [awesome-analyzers (⭐511)](https://github.com/Cybermaxs/awesome-analyzers) - A curated list of .NET Compiler Platform ("Roslyn") diagnostic analyzers and code fixes.
+*   [awesome-analyzers (⭐548)](https://github.com/Cybermaxs/awesome-analyzers) - A curated list of .NET Compiler Platform ("Roslyn") diagnostic analyzers and code fixes.
 
 ## [7. Awesome Vorpal](/content/vorpaljs/awesome-vorpal/README.md)
 
@@ -82,12 +82,12 @@ This book is packed with practical recipes, designed to provide you with all the
 
 ### Natural Language Processing
 
-*   [Topic Models Resources (⭐227)](https://github.com/trinker/topicmodels_learning) - Topic Models learning and R related resources.
+*   [Topic Models Resources (⭐228)](https://github.com/trinker/topicmodels_learning) - Topic Models learning and R related resources.
 *   [NLP for <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e8-1f1f3.png" width="20" heigth="20" align="absmiddle" class="emoji" alt=":cn:">](https://github.com/BZRLC/R-notes/blob/master/NLP/readme.md) - NLP related resources in R. @Chinese
 
 ### Network Analysis
 
-*   [Network Analysis List (⭐3.3k)](https://github.com/briatte/awesome-network-analysis) - Network Analysis related resources.
+*   [Network Analysis List (⭐3.6k)](https://github.com/briatte/awesome-network-analysis) - Network Analysis related resources.
 
 ### Lists / Book/monograph Lists and Reviews
 
@@ -98,7 +98,7 @@ This book is packed with practical recipes, designed to provide you with all the
 ### Language Utilities
 
 *   [GPerfUtils](https://github.com/gperfutils) - Groovy-based tools verifying performance of your code
-    *   [gprof (⭐32)](https://github.com/gperfutils/gprof) - The profiling module for Groovy
+    *   [gprof (⭐33)](https://github.com/gperfutils/gprof) - The profiling module for Groovy
     *   [gbench (⭐28)](https://github.com/gperfutils/gbench) - The benchmarking module for Groovy
 
 ## [11. Awesome Rxjava](/content/eleventigers/awesome-rxjava/README.md)

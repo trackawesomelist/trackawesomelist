@@ -10,7 +10,7 @@
 
 ### Logging
 
-*   [slog (⭐380)](https://github.com/gookit/slog) - Lightweight, configurable, extensible logger for Go.
+*   [slog (⭐416)](https://github.com/gookit/slog) - Lightweight, configurable, extensible logger for Go.
 
 ### Third-party APIs
 
@@ -40,14 +40,13 @@
 
 ### Other Lists / Help
 
-*   [delftopenhardware/awesome-open-hardware (⭐376)](https://github.com/delftopenhardware/awesome-open-hardware) - Helpful items for making and learning about open source hardware projects.
+*   [delftopenhardware/awesome-open-hardware (⭐475)](https://github.com/delftopenhardware/awesome-open-hardware) - Helpful items for making and learning about open source hardware projects.
 
 ## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Motion / Diagnostics
 
-*   [edluffy/specs.nvim (⭐458)](https://github.com/edluffy/specs.nvim) - A fast and lightweight Neovim Lua plugin to keep an eye on where your cursor has jumped.
-*   [abecodes/tabout.nvim (⭐709)](https://github.com/abecodes/tabout.nvim) - Jump out of brackets, quotes, objects, etc.
+*   [abecodes/tabout.nvim (⭐772)](https://github.com/abecodes/tabout.nvim) - Jump out of brackets, quotes, objects, etc.
 
 ## [6. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/README.md)
 
@@ -71,10 +70,10 @@
 
 ## [7. Awesome Acg](/content/soruly/awesome-acg/README.md)
 
-### Databases / Data Sources
+### Data Sources
 
-*   [anime-streaming (⭐73)](https://github.com/otakulogy/anime-streaming) - A curated list of worldwide legal anime streaming. \[English]
-*   [manga-platform (⭐28)](https://github.com/otakulogy/manga-platform) - A curated list of worldwide legal manga reading site. \[English]
+*   [anime-streaming (⭐78)](https://github.com/otakulogy/anime-streaming) - A curated list of worldwide legal anime streaming. \[English]
+*   [manga-platform (⭐29)](https://github.com/otakulogy/manga-platform) - A curated list of worldwide legal manga reading site. \[English]
 
 ### Web
 
@@ -89,13 +88,13 @@
 ### Projects
 
 *   [mb2](https://devctm.com) - A poker server with a Yew client. Click the `Demo` button and then `Start` to see the client.
-*   [Puzzle Cube (⭐8)](https://github.com/wainwrightmark/puzzle_cube) - Rubix Cube solver using Rust and Yew, [Live Demo](https://wainwrightmark.github.io/puzzle_cube/).
+*   [Puzzle Cube (⭐9)](https://github.com/wainwrightmark/puzzle_cube) - Rubix Cube solver using Rust and Yew, [Live Demo](https://wainwrightmark.github.io/puzzle_cube/).
 
 ## [9. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Utilities / System Related Tools
 
-*   [Time Machine Inspector (⭐88)](https://github.com/probablykasper/time-machine-inspector) - Find out what's hogging up your Time Machine backups. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/probablykasper/time-machine-inspector) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Time Machine Inspector (⭐93)](https://github.com/probablykasper/time-machine-inspector) - Find out what's hogging up your Time Machine backups. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/probablykasper/time-machine-inspector) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ---
 

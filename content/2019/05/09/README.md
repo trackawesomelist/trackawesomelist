@@ -22,14 +22,14 @@
 
 ### Physics
 
-*   [Quantum++ (⭐528)](https://github.com/vsoftco/qpp) - A modern C++11 quantum computing library. \[MIT]
+*   [Quantum++ (⭐559)](https://github.com/vsoftco/qpp) - A modern C++11 quantum computing library. \[MIT]
 
 ## [4. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Entertainment / Music
 
-*   [ncmpcpp (⭐2k)](https://github.com/arybczak/ncmpcpp) - mpd client.
-*   [beets (⭐12k)](https://github.com/beetbox/beets) - Music library manager and tagger.
+*   [ncmpcpp (⭐2.1k)](https://github.com/arybczak/ncmpcpp) - mpd client.
+*   [beets (⭐13k)](https://github.com/beetbox/beets) - Music library manager and tagger.
 
 ### Entertainment / Video
 
@@ -41,7 +41,7 @@
 
 ### Files and Directories / Files
 
-*   [bat (⭐46k)](https://github.com/sharkdp/bat) - A cat clone with syntax highlighting.
+*   [bat (⭐50k)](https://github.com/sharkdp/bat) - A cat clone with syntax highlighting.
 
 ## [5. Awesome Product Design](/content/ttt30ga/awesome-product-design/README.md)
 
@@ -103,17 +103,17 @@
 
 ### Platforms
 
-*   [KDE (⭐445)](https://github.com/francoism90/awesome-kde#readme) - A free software community dedicated to creating an open and user-friendly computing experience.
+*   [KDE (⭐495)](https://github.com/francoism90/awesome-kde#readme) - A free software community dedicated to creating an open and user-friendly computing experience.
 
 ### Computer Science
 
-*   [Empirical Software Engineering (⭐409)](https://github.com/dspinellis/awesome-msr#readme) - Evidence-based research on software systems.
+*   [Empirical Software Engineering (⭐421)](https://github.com/dspinellis/awesome-msr#readme) - Evidence-based research on software systems.
 
 ### Miscellaneous
 
-*   [Cheminformatics (⭐671)](https://github.com/hsiaoyi0504/awesome-cheminformatics#readme) - Informatics techniques applied to problems in chemistry.
-*   [Prisma (⭐601)](https://github.com/catalinmiron/awesome-prisma#readme) - Turn your database into a GraphQL API.
-*   [Software Architecture (⭐2.3k)](https://github.com/simskij/awesome-software-architecture#readme) - The discipline of designing and building software.
+*   [Cheminformatics (⭐707)](https://github.com/hsiaoyi0504/awesome-cheminformatics#readme) - Informatics techniques applied to problems in chemistry.
+*   [Prisma (⭐626)](https://github.com/catalinmiron/awesome-prisma#readme) - Turn your database into a GraphQL API.
+*   [Software Architecture (⭐2.4k)](https://github.com/simskij/awesome-software-architecture#readme) - The discipline of designing and building software.
 
 ---
 

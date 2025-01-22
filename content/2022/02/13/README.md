@@ -16,13 +16,13 @@
 
 ### CLI
 
-*   [usql (⭐8.7k)](https://github.com/xo/usql) - A universal command-line interface for PostgreSQL, MySQL, Oracle Database, SQLite3, Microsoft SQL Server, and many other databases including NoSQL and non-relational databases!
+*   [usql (⭐9.2k)](https://github.com/xo/usql) - A universal command-line interface for PostgreSQL, MySQL, Oracle Database, SQLite3, Microsoft SQL Server, and many other databases including NoSQL and non-relational databases!
 
 ### SQL / Analyzers
 
 *   [SQLCheck (⭐2.4k)](https://github.com/jarulraj/sqlcheck) - Automatically detects common SQL anti-patterns.
-*   [SQLFluff (⭐7.4k)](https://github.com/sqlfluff/sqlfluff) - Dialect-flexible and configurable SQL linter.
-*   [TSQLLint (⭐207)](https://github.com/tsqllint/tsqllint) - A tool for describing, identifying, and reporting the presence of anti-patterns in TSQL scripts.
+*   [SQLFluff (⭐8.5k)](https://github.com/sqlfluff/sqlfluff) - Dialect-flexible and configurable SQL linter.
+*   [TSQLLint (⭐214)](https://github.com/tsqllint/tsqllint) - A tool for describing, identifying, and reporting the presence of anti-patterns in TSQL scripts.
 
 ### SQL / Extensions
 
@@ -31,22 +31,22 @@
 ### SQL / Frameworks
 
 *   [Apache Calcite](https://calcite.apache.org) - Dynamic data management framework with advanced SQL features.
-*   [ZetaSQL (⭐2.2k)](https://github.com/google/zetasql) - Analyzer Framework for SQL.
+*   [ZetaSQL (⭐2.3k)](https://github.com/google/zetasql) - Analyzer Framework for SQL.
 
 ### SQL / Formatters
 
-*   [CodeBuff (⭐434)](https://github.com/antlr/codebuff) - Language-agnostic pretty-printing through machine learning.
-*   [pgFormatter (⭐1.6k)](https://github.com/darold/pgFormatter) - A PostgreSQL SQL syntax beautifier.
+*   [CodeBuff (⭐449)](https://github.com/antlr/codebuff) - Language-agnostic pretty-printing through machine learning.
+*   [pgFormatter (⭐1.7k)](https://github.com/darold/pgFormatter) - A PostgreSQL SQL syntax beautifier.
 *   [Poor SQL](https://poorsql.com) - Instant free and open-source T-SQL formatting.
-*   [SQL Formatter (⭐2.2k)](https://github.com/zeroturnaround/sql-formatter) - JavaScript library for pretty-printing SQL queries.
+*   [SQL Formatter (⭐2.4k)](https://github.com/zeroturnaround/sql-formatter) - JavaScript library for pretty-printing SQL queries.
 
 ### SQL / Parsers
 
 *   [General SQL Parser](https://www.sqlparser.com) - Parsing, formatting, modification and analysis for SQL.
-*   [jOOQ (⭐6k)](https://github.com/jOOQ/jOOQ) - Parses SQL, translates it to other dialects, and allows for expression tree transformations.
-*   [JSqlParser (⭐5.2k)](https://github.com/JSQLParser/JSqlParser) - Parses an SQL statement and translate it into a hierarchy of Java classes.
-*   [More SQL Parsing! (⭐244)](https://github.com/klahnakoski/mo-sql-parsing) - Parse SQL into JSON.
-*   [sqlparse (⭐3.6k)](https://github.com/andialbrecht/sqlparse) - Non-validating SQL parser for Python.
+*   [jOOQ (⭐6.3k)](https://github.com/jOOQ/jOOQ) - Parses SQL, translates it to other dialects, and allows for expression tree transformations.
+*   [JSqlParser (⭐5.5k)](https://github.com/JSQLParser/JSqlParser) - Parses an SQL statement and translate it into a hierarchy of Java classes.
+*   [More SQL Parsing! (⭐265)](https://github.com/klahnakoski/mo-sql-parsing) - Parse SQL into JSON.
+*   [sqlparse (⭐3.8k)](https://github.com/andialbrecht/sqlparse) - Non-validating SQL parser for Python.
 
 ## [3. Awesome Snmp](/content/eozer/awesome-snmp/README.md)
 
@@ -76,7 +76,7 @@
 
 ### no-std crates / WIP
 
-*   [minimq](https://crates.io/crates/minimq): A minimal MQTT5 client designed for no\_std platforms - ![crates.io](https://img.shields.io/crates/v/minimq.svg)
+*   [minimq](https://crates.io/crates/minimq): A minimal MQTT5 client designed for no\_std platforms - [![crates.io](https://img.shields.io/crates/v/minimq.svg)](https://crates.io/crates/minimq)
 
 ## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -108,45 +108,45 @@
 
 ### Crash Courses
 
-*   [Algorand School (⭐78)](https://github.com/cusma/algorand-school) - Algorand School crash course slide deck.
+*   [Algorand School (⭐79)](https://github.com/cusma/algorand-school) - Algorand School crash course slide deck.
 
 ## [9. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Developer Tools / IDEs
 
-*   [CodeRunner](https://coderunnerapp.com) - A lightweight, multi-language programming text editor and IDE for quickly building, running and debugging code.
+*   [CodeRunner](https://coderunnerapp.com) - Lightweight, multi-language programming text editor and IDE.
 
 ### Developer Tools / Command Line Tools
 
-*   [ripgrep (rg) (⭐47k)](https://github.com/BurntSushi/ripgrep) - Very fast text searching tool similar to (but faster than) ack, ag or grep ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [ripgrep (rg) (⭐50k)](https://github.com/BurntSushi/ripgrep) - Very fast text searching tool similar to (but faster than) ack, ag or grep ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [10. Awesome Coq](/content/coq-community/awesome-coq/README.md)
 
 ### Projects / Verified Software
 
-*   [Jasmin (⭐244)](https://github.com/jasmin-lang/jasmin) - Formalized language and verified compiler for high-assurance and high-speed cryptography.
+*   [Jasmin (⭐278)](https://github.com/jasmin-lang/jasmin) - Formalized language and verified compiler for high-assurance and high-speed cryptography.
 
 ## [11. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Security
 
-*   [Executable Packing (⭐1.1k)](https://github.com/dhondta/awesome-executable-packing#readme) - Packing and unpacking executable formats.
+*   [Executable Packing (⭐1.2k)](https://github.com/dhondta/awesome-executable-packing#readme) - Packing and unpacking executable formats.
 
 ### Decentralized Systems
 
-*   [Algorand (⭐186)](https://github.com/aorumbayev/awesome-algorand#readme) - An open-source, proof of stake blockchain and smart contract computing platform.
+*   [Algorand (⭐193)](https://github.com/aorumbayev/awesome-algorand#readme) - An open-source, proof of stake blockchain and smart contract computing platform.
 
 ## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [vue-search-input (⭐31)](https://github.com/kouts/vue-search-input) - A Vue 3 search input component, inspired by the global search input of Storybook and GitHub.
+*   [vue-search-input (⭐32)](https://github.com/kouts/vue-search-input) - A Vue 3 search input component, inspired by the global search input of Storybook and GitHub.
 
 ## [13. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
 ### Status Bar
 
-*   [tmux-df (⭐28)](https://github.com/tassaron/tmux-df) - Show available disk space (output of df command)
+*   [tmux-df (⭐32)](https://github.com/tassaron/tmux-df) - Show available disk space (output of df command)
 
 ## [14. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/README.md)
 
@@ -163,10 +163,10 @@
 *   [Enigma Virtual Box](https://www.enigmaprotector.com/en/aboutvb.html) - Application virtualization system for Windows.
 *   [EXE Bundle](https://www.webtoolmaster.com/exebundle.htm) - Bundles application files into a single PE32 file.
 *   [EXE Stealth](http://www.webtoolmaster.com/packer.htm) - Anti-cracking protection and licensing tool for PE files featuring compression and encryption polymorphic technology.
-*   [hXOR-Packer (⭐53)](https://github.com/rurararura/hXOR-Packer) - PE packer with Huffman compression and XOR encryption.
+*   [hXOR-Packer (⭐57)](https://github.com/rurararura/hXOR-Packer) - PE packer with Huffman compression and XOR encryption.
 *   [LIAPP](https://liapp.lockincomp.com) - Easiest and most powerful mobile app security solution.
 *   [MPRESS](https://www.autohotkey.com/mpress/mpress_web.htm) - Compresses (using LZMA) and protects PE, .NET or Mach-O programs against reverse engineering.
-*   [Papaw (⭐38)](https://github.com/dimkr/papaw) - Permissively-licensed packer for ELF executables using LZMA Zstandard or Deflate compression.
+*   [Papaw (⭐43)](https://github.com/dimkr/papaw) - Permissively-licensed packer for ELF executables using LZMA Zstandard or Deflate compression.
 *   [ZProtect](http://www.jiami.net) - Renames metadata entities and supports advanced obfuscation methods that harden protection scheme and foil reverse engineering altogether.
 
 ### :package: Packers / Between 2000 and 2010
@@ -191,7 +191,7 @@
 
 ### :wrench: Tools / Before 2000
 
-*   [APKiD (⭐2k)](https://github.com/rednaga/APKiD) - Android application Identifier for packers, protectors, obfuscators and oddities - PEiD for Android.
+*   [APKiD (⭐2.1k)](https://github.com/rednaga/APKiD) - Android application Identifier for packers, protectors, obfuscators and oddities - PEiD for Android.
 *   [BinUnpack](https://doi.org/10.1145/3243734.3243771) - Unpacking approach free from tedious memory access monitoring, therefore introducing very small runtime overhead.
 
 ---

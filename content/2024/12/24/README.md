@@ -10,13 +10,13 @@
 
 ### Application Launchers
 
-*   [kunkun (⭐11)](https://github.com/kunkunsh/kunkun) - Raycast/Alfred-like launcher with sandboxed extensions ![oss](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+*   [kunkun (⭐24)](https://github.com/kunkunsh/kunkun) - Raycast/Alfred-like launcher with sandboxed extensions ![oss](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 *   [Wox](http://wox-launcher.github.io/Wox/) - Launches apps with web search integration. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/Wox-launcher/Wox/)
 
 ### Chat Clients
 
 *   [LegCord](https://legcord.app/) - Discord client with Vencord and shelter integration. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/legcord/legcord) ![star](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/star.svg)
-*   [Equicord (⭐328)](https://github.com/Equicord/Equicord) - Fork of Vencord with additional plugins and features. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/Equicord/Equicord)
+*   [Equicord (⭐358)](https://github.com/Equicord/Equicord) - Fork of Vencord with additional plugins and features. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/Equicord/Equicord)
 
 ### Cloud Storage
 
@@ -57,7 +57,7 @@
 
 *   [1Password](https://1password.com/) - Premium password manager with secure vault and team features. ![paid](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/paid.svg)
 *   [Proton Pass](https://proton.me/pass) - Zero-knowledge encrypted password manager.
-*   [Vaultwarden (⭐40k)](https://github.com/dani-garcia/vaultwarden) - Lightweight Bitwarden server implementation. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/dani-garcia/vaultwarden) ![star](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/star.svg)
+*   [Vaultwarden (⭐41k)](https://github.com/dani-garcia/vaultwarden) - Lightweight Bitwarden server implementation. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/dani-garcia/vaultwarden) ![star](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/star.svg)
 
 ### Terminal
 
@@ -67,11 +67,11 @@
 
 ### Python / Data Sources
 
-*   [datamule-python (⭐101)](https://github.com/john-friedman/datamule-python) - A package to work with SEC data. Incorporates datamule endpoints.
+*   [datamule-python (⭐125)](https://github.com/john-friedman/datamule-python) - A package to work with SEC data. Incorporates datamule endpoints.
 
 ### Reproducing Works, Training & Books / Data Visualization
 
-*   [AFML (⭐639)](https://github.com/boyboi86/AFML) - All the answers for exercises from Advances in Financial Machine Learning by Dr Marco Lopez de Parodo.
+*   [AFML (⭐646)](https://github.com/boyboi86/AFML) - All the answers for exercises from Advances in Financial Machine Learning by Dr Marco Lopez de Parodo.
 
 ## [3. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
@@ -83,27 +83,27 @@
 
 ### Editing Support / Diagnostics
 
-*   [zongben/capsoff.nvim (⭐1)](https://github.com/zongben/capsoff.nvim) - Turns off CapsLock when you leaving insert mode.
+*   [zongben/capsoff.nvim (⭐9)](https://github.com/zongben/capsoff.nvim) - Turns off CapsLock when you leaving insert mode.
 
 ## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Scripting
 
-*   [Luau (⭐4.1k)](https://github.com/luau-lang/luau) - A fast, small, safe, gradually typed embeddable scripting language derived from Lua. \[MIT] [website](https://luau.org/)
+*   [Luau (⭐4.2k)](https://github.com/luau-lang/luau) - A fast, small, safe, gradually typed embeddable scripting language derived from Lua. \[MIT] [website](https://luau.org/)
 
 ## [6. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Standard CLI
 
-*   [getopt (⭐3)](https://github.com/jon-codes/getopt) - An accurate Go `getopt`, validated against the GNU libc implementation.
+*   [getopt (⭐4)](https://github.com/jon-codes/getopt) - An accurate Go `getopt`, validated against the GNU libc implementation.
 
 ### Configuration
 
-*   [envyaml (⭐10)](https://github.com/yuseferi/envyaml) - Yaml with environment variables reader. it helps to have secrets as environment variable but load them configs as structured Yaml.
+*   [envyaml (⭐12)](https://github.com/yuseferi/envyaml) - Yaml with environment variables reader. it helps to have secrets as environment variable but load them configs as structured Yaml.
 
 ### File Handling
 
-*   [gulter (⭐60)](https://github.com/adelowo/gulter) - A simple HTTP middleware to automatically handle all your file upload needs
+*   [gulter (⭐61)](https://github.com/adelowo/gulter) - A simple HTTP middleware to automatically handle all your file upload needs
 
 ### Generators
 
@@ -111,24 +111,24 @@
 
 ### HTTP Clients
 
-*   [azuretls-client (⭐187)](https://github.com/Noooste/azuretls-client) -  An easy-to-use HTTP client 100% in Go to spoof TLS/JA3 and HTTP2 fingerprint
-*   [tls-client (⭐887)](https://github.com/bogdanfinn/tls-client) - net/http.Client like HTTP Client with options to select specific client TLS Fingerprints to use for requests.
+*   [azuretls-client (⭐198)](https://github.com/Noooste/azuretls-client) -  An easy-to-use HTTP client 100% in Go to spoof TLS/JA3 and HTTP2 fingerprint
+*   [tls-client (⭐929)](https://github.com/bogdanfinn/tls-client) - net/http.Client like HTTP Client with options to select specific client TLS Fingerprints to use for requests.
 
 ### Security
 
-*   [entpassgen (⭐3)](https://github.com/andreimerlescu/entpassgen) - Entropy Password Generator with extensive command line arguments to generate random strings securely including digits, passwords, and passwords built using obscure dictionary words mixed with symbols and digits.
+*   [entpassgen (⭐4)](https://github.com/andreimerlescu/entpassgen) - Entropy Password Generator with extensive command line arguments to generate random strings securely including digits, passwords, and passwords built using obscure dictionary words mixed with symbols and digits.
 
 ### Web Frameworks
 
-*   [templui (⭐216)](https://github.com/axzilla/templui) - Modern UI Components for Go & Templ.
+*   [templui (⭐276)](https://github.com/axzilla/templui) - Modern UI Components for Go & Templ.
 
 ### Webhooks Server / Libraries for creating HTTP middlewares
 
-*   [WebhookX (⭐111)](https://github.com/webhookx-io/webhookx) - A webhooks gateway for message receiving, processing, and reliable delivering.
+*   [WebhookX (⭐132)](https://github.com/webhookx-io/webhookx) - A webhooks gateway for message receiving, processing, and reliable delivering.
 
 ### Other Software / Libraries for creating HTTP middlewares
 
-*   [Chapar (⭐499)](https://github.com/chapar-rest/chapar) - Chapar is a a cross-platform Postman alternative built with go, aims to help developers to test their api endpoints. it support http and grpc protocols.
+*   [Chapar (⭐513)](https://github.com/chapar-rest/chapar) - Chapar is a a cross-platform Postman alternative built with go, aims to help developers to test their api endpoints. it support http and grpc protocols.
 
 ## [7. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
 
@@ -144,4 +144,5 @@
 
 ---
 
+- Prev: [Dec 25, 2024](/content/2024/12/25/README.md)
 - Next: [Dec 23, 2024](/content/2024/12/23/README.md)

@@ -30,17 +30,13 @@
 
 ## [4. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
-### Augmented Reality
-
-*   [ARKit-CoreLocation (⭐5.4k)](https://github.com/ProjectDent/ARKit-CoreLocation) - Combines the high accuracy of AR with the scale of GPS data.
-
 ### Concurrency
 
 *   [Queuer (⭐1.1k)](https://github.com/FabrizioBrancati/Queuer) :penguin: - A queue manager, built on top of OperationQueue and Dispatch (aka GCD).
 
 ### Walkthrough / Barcode
 
-*   [AwesomeSpotlightView (⭐319)](https://github.com/aleksandrshoshiashvili/AwesomeSpotlightView) - Create tutorial or coach tour.
+*   [AwesomeSpotlightView (⭐320)](https://github.com/aleksandrshoshiashvili/AwesomeSpotlightView) - Create tutorial or coach tour.
 
 ## [5. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/README.md)
 

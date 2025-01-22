@@ -26,7 +26,7 @@
 
 ### Contents / High-Availability
 
-*   [PAF (⭐337)](https://github.com/ClusterLabs/PAF) - PostgreSQL Automatic Failover: High-Availibility for Postgres, based on Pacemaker and Corosync.
+*   [PAF (⭐339)](https://github.com/ClusterLabs/PAF) - PostgreSQL Automatic Failover: High-Availibility for Postgres, based on Pacemaker and Corosync.
 
 ### Contents / Extensions
 

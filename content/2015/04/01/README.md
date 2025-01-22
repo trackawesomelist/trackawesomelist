@@ -10,7 +10,7 @@
 
 ### Testing
 
-*   [espec (⭐806)](https://github.com/antonmi/espec) - BDD test framework for Elixir inspired by RSpec.
+*   [espec (⭐808)](https://github.com/antonmi/espec) - BDD test framework for Elixir inspired by RSpec.
 
 ## [2. Js Must Watch](/content/bolshchikov/js-must-watch/README.md)
 

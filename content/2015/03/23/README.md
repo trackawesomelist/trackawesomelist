@@ -10,7 +10,7 @@
 
 ### JSON
 
-*   [json-voorhees (⭐128)](https://github.com/tgockel/json-voorhees) - JSON library for C++. Support for C++11. No dependencies, fast and dev-friendly. \[Apache2]
+*   [json-voorhees (⭐129)](https://github.com/tgockel/json-voorhees) - JSON library for C++. Support for C++11. No dependencies, fast and dev-friendly. \[Apache2]
 
 ## [2. Awesome IoT Hybrid](/content/weblancaster/awesome-IoT-hybrid/README.md)
 
@@ -68,7 +68,7 @@
 
 ### Queues and Messaging
 
-*   [Shoryuken (⭐2k)](https://github.com/phstc/shoryuken) - A super efficient AWS SQS thread based message processor for Ruby.
+*   [Shoryuken (⭐2.1k)](https://github.com/phstc/shoryuken) - A super efficient AWS SQS thread based message processor for Ruby.
 
 ---
 

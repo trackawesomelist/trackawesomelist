@@ -10,13 +10,13 @@
 
 ### Key Value Store
 
-*   [SwiftyUserDefaults (⭐4.8k)](https://github.com/sunshinejr/SwiftyUserDefaults) - Cleaner, nicer syntax for NSUserDefaults.
+*   [SwiftyUserDefaults (⭐4.9k)](https://github.com/sunshinejr/SwiftyUserDefaults) - Cleaner, nicer syntax for NSUserDefaults.
 
 ## [2. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
 ### Web / Apache License
 
-*   [yass (⭐23)](https://github.com/yet-another-static-site-generator/yass) - Yet Another Static Site Generator (like Jekyll or Hugo).
+*   [yass (⭐24)](https://github.com/yet-another-static-site-generator/yass) - Yet Another Static Site Generator (like Jekyll or Hugo).
 
 ## [3. Awesome Code Review](/content/joho/awesome-code-review/README.md)
 
@@ -55,7 +55,7 @@
 
 ### Miscellaneous / Related
 
-*   [Awesome Gamedev (⭐2.1k)](https://github.com/Calinou/awesome-gamedev) - Collection of open-source games.
+*   [Awesome Gamedev (⭐2.4k)](https://github.com/Calinou/awesome-gamedev) - Collection of open-source games.
 
 ---
 

@@ -16,7 +16,7 @@
 
 ### Third-Party Packages / Content Management Systems
 
-*   [feincms (⭐931)](https://github.com/feincms/feincms) - An extensible Django-based CMS.
+*   [feincms (⭐963)](https://github.com/feincms/feincms) - An extensible Django-based CMS.
 
 ## [3. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md)
 
@@ -42,7 +42,7 @@
 
 ### Table of Contents / Content Management Systems (CMS)
 
-*   [CraftCMS (⭐3.2k)](https://github.com/craftcms/cms) - A flexible, user-friendly CMS for creating custom digital experiences on the web and beyond.
+*   [CraftCMS (⭐3.3k)](https://github.com/craftcms/cms) - A flexible, user-friendly CMS for creating custom digital experiences on the web and beyond.
 *   [Moodle](https://moodle.org/) - An open-source learning platform.
 *   [Statamic](https://statamic.com/) - Build beautiful, easy-to-manage websites.
 
@@ -67,7 +67,7 @@
 ### Language Support
 
 *   [playwright](https://git.io/JT2bj) - Official Playwright in Node.js (JavaScript and TypeScript).
-*   [playwright-python (⭐11k)](https://github.com/microsoft/playwright-python) - Official Playwright port to Python.
+*   [playwright-python (⭐12k)](https://github.com/microsoft/playwright-python) - Official Playwright port to Python.
 *   [playwright-java (⭐1.1k)](https://github.com/microsoft/playwright-java) - Official Playwright port to Java.
 
 ## [10. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
@@ -114,7 +114,7 @@
 
 ### Tooling / Frameworks
 
-*   [wasm-bindgen-action (⭐9)](https://github.com/jetli/wasm-bindgen-action) - Github action to install `wasm-bindgen` by downloading the executable to speed up CI/CD.
+*   [wasm-bindgen-action (⭐10)](https://github.com/jetli/wasm-bindgen-action) - Github action to install `wasm-bindgen` by downloading the executable to speed up CI/CD.
 
 ## [13. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 

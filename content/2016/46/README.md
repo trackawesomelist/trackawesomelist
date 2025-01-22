@@ -115,7 +115,7 @@
 
 ### Python / Data Analysis / Data Visualization
 
-*   [somoclu (⭐265)](https://github.com/peterwittek/somoclu) Massively parallel self-organizing maps: accelerate training on multicore CPUs, GPUs, and clusters, has python API.
+*   [somoclu (⭐268)](https://github.com/peterwittek/somoclu) Massively parallel self-organizing maps: accelerate training on multicore CPUs, GPUs, and clusters, has python API.
 
 ## [6. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
@@ -280,7 +280,7 @@
 
 ### Button / Barcode
 
-*   [LTHRadioButton (⭐371)](https://github.com/rolandleth/LTHRadioButton) - A radio button with a pretty animation.
+*   [LTHRadioButton (⭐370)](https://github.com/rolandleth/LTHRadioButton) - A radio button with a pretty animation.
 
 ## [19. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/week/README.md)
 
@@ -303,7 +303,6 @@
 
 ### Interactive learning / Single Topics
 
-*   [Udacity JavaScript Basics](https://www.udacity.com/course/javascript-basics--ud804) - They also offer more advanced courses.
 *   [Code School](https://www.codeschool.com/learn/javascript) - From Basics to Best Practices. Different courses related to JavaScript.
 
 ## [20. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
@@ -316,12 +315,12 @@
 
 ### Code Analysis and Metrics
 
-*   [BenchmarkDotNet (⭐10k)](https://github.com/dotnet/BenchmarkDotNet) - Powerful .NET library for benchmarking.
+*   [BenchmarkDotNet (⭐11k)](https://github.com/dotnet/BenchmarkDotNet) - Powerful .NET library for benchmarking.
 
 ### Compilers, Transpilers and Languages
 
-*   [P (⭐3k)](https://github.com/p-org/P) - P is a language for asynchronous event-driven programming.
-*   [Roslyn-linq-rewrite (⭐717)](https://github.com/antiufo/roslyn-linq-rewrite) - Compiles C# code by first rewriting the syntax trees of LINQ expressions using plain procedural code, minimizing allocations and dynamic dispatch.
+*   [P (⭐3.1k)](https://github.com/p-org/P) - P is a language for asynchronous event-driven programming.
+*   [Roslyn-linq-rewrite (⭐715)](https://github.com/antiufo/roslyn-linq-rewrite) - Compiles C# code by first rewriting the syntax trees of LINQ expressions using plain procedural code, minimizing allocations and dynamic dispatch.
 
 ### Visual Studio Plugins
 
@@ -367,8 +366,8 @@
 
 ### Web Programming • Libraries
 
-*   [three.js (⭐101k)](https://github.com/mrdoob/three.js/) - JavaScript 3D library.
-*   [regl (⭐5.2k)](https://github.com/regl-project/regl) - Functional WebGL.
+*   [three.js (⭐103k)](https://github.com/mrdoob/three.js/) - JavaScript 3D library.
+*   [regl (⭐5.3k)](https://github.com/regl-project/regl) - Functional WebGL.
 *   [Stackgl](http://stack.gl/) - Open software ecosystem for WebGL, built on top of browserify and npm.
 *   [Paper.js](http://paperjs.org/) - The swiss army knife of vector graphics scripting.
 *   [Fabric.js](http://fabricjs.com/) - Javascript canvas library, SVG-to-canvas parser.
@@ -388,9 +387,9 @@
 
 *   [Shaders: A primer](https://notes.underscorediscovery.com/shaders-a-primer/) - A primer on shaders.
 *   [Shaders: Second stage](https://notes.underscorediscovery.com/shaders-second-stage/) - The second part to the previous.
-*   [WebGL Lessons — Fragment Shaders (⭐310)](https://github.com/Jam3/jam3-lesson-webgl-shader-intro) - A brief introduction to fragment shaders.
+*   [WebGL Lessons — Fragment Shaders (⭐312)](https://github.com/Jam3/jam3-lesson-webgl-shader-intro) - A brief introduction to fragment shaders.
 *   [Introduction to Ray Tracing](http://jamie-wong.com/2016/07/15/ray-marching-signed-distance-functions/) - A simple method for creating 3D images.
-*   [GLSL lighting walkthrough (⭐457)](https://github.com/stackgl/glsl-lighting-walkthrough) - Phong shading tutorial with glslify.
+*   [GLSL lighting walkthrough (⭐460)](https://github.com/stackgl/glsl-lighting-walkthrough) - Phong shading tutorial with glslify.
 
 ### Interactive / Other
 
@@ -404,7 +403,6 @@
 ### Math / Other
 
 *   [Coding Math](https://www.youtube.com/user/codingmath) - Teaches you the math you need to understand as a programmer.
-*   [Formul Animations](https://www.youtube.com/watch?v=0ifChJ0nJfM) - The principles of painting with maths.
 
 ## [27. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
 
@@ -423,7 +421,6 @@
 *   /r/IndieBiz - <https://www.reddit.com/r/indiebiz/>
 *   /r/LadyBusiness - <https://www.reddit.com/r/ladybusiness/>
 *   /r/RoastMyStartup - <https://www.reddit.com/r/roastmystartup>
-*   /r/ShamelessPlug - <https://www.reddit.com/r/shamelessplug/>
 *   /r/SideProject - <http://reddit.com/r/sideproject>
 *   /r/SmallBusiness - <https://www.reddit.com/r/smallbusiness/>
 *   /r/Startups - <http://reddit.com/r/startups>
@@ -439,25 +436,20 @@
 *   Apps Mamma - <http://appsmamma.com/submit-your-app/>
 *   AppsThunder - <http://appsthunder.com/submit-your-app/>
 *   Beta Bound - <http://www.betabound.com/announce/>
-*   Betafy - <https://www.betafy.co/easysignup/startup>
 *   CrozDesk - <https://vendor.crozdesk.com/user/signup>
 *   Discova - <http://www.discova.co/>
 *   Discover Cloud - <https://www.discovercloud.com/become-a-vendor>
 *   F6S - <http://www.f6s.com/>
-*   Feed My App - <https://feedmyapp.com/submit/>
 *   Get App - <http://getapp.com/>
 *   Getworm - <https://getworm.com/submit-startup>
 *   Gust - <https://www.gust.com>
-*   Launch List - <https://launchlister.com/submit-startup>
 *   Next Big What - <http://nextbigwhat.com/>
 *   Product Hunt - <http://www.producthunt.com/>
 *   Software Advice - <https://softwareadvice-markets.questionpro.com/>
 *   Startup Lift - <http://www.startuplift.com/>
-*   Startup Resources - <https://startupresources.io>
 *   Startup Stash - <http://startupstash.com/>
 *   Startup Tabs - <http://startuptabs.com/>
 *   State of Tech - <http://stateoftech.net/advertise?submit-an-app-for-review>
-*   Tech Map - <http://thetechmap.com/>
 *   Vator - <http://www.vator.tv/>
 
 ## [29. Awesome Sass](/content/Famolus/awesome-sass/week/README.md)

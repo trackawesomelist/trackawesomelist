@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 03, 2020
 
-13 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Plugins / Frameworks
 
-*   [Ember (⭐257)](https://github.com/ember-cli/eslint-plugin-ember) - Linting rules for Ember.
+*   [Ember (⭐262)](https://github.com/ember-cli/eslint-plugin-ember) - Linting rules for Ember.
 
 ## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
@@ -64,17 +64,17 @@
 
 ### Demonstrations
 
-*   [Flutter Catalog (⭐2.1k)](https://github.com/X-Wei/flutter_catalog) <!--stargazers:X-Wei/flutter_catalog--> - showcasing Flutter components, with side-by-side source code view, by [X-Wei](https://github.com/X-Wei)
-*   [Generative Art (⭐473)](https://github.com/Solido/flutter-d-art) <!--stargazers:Solido/flutter-d-art--> - Generative Art by [Robert Felker](https://github.com/Solido)
+*   [Flutter Catalog (⭐2.2k)](https://github.com/X-Wei/flutter_catalog) <!--stargazers:X-Wei/flutter_catalog--> - showcasing Flutter components, with side-by-side source code view, by [X-Wei](https://github.com/X-Wei)
+*   [Generative Art (⭐472)](https://github.com/Solido/flutter-d-art) <!--stargazers:Solido/flutter-d-art--> - Generative Art by [Robert Felker](https://github.com/Solido)
 
 ### State management / Standard
 
-*   [RiverPod (⭐6k)](https://github.com/rrousselGit/river_pod) <!--stargazers:rrousselGit/river_pod--> - Provider, but different by [Remi Rousselet](https://github.com/rrousselGit)
+*   [RiverPod (⭐6.4k)](https://github.com/rrousselGit/river_pod) <!--stargazers:rrousselGit/river_pod--> - Provider, but different by [Remi Rousselet](https://github.com/rrousselGit)
 *   [GetX (⭐10k)](https://github.com/jonataslaw/getx) <!--stargazers:jonataslaw/getx--> - Contextless, State-management & navigation by [Jonny Borges](https://github.com/jonataslaw)
 
 ### Animation / Redux / ELM / Dependency Injection
 
-*   [Funvas (⭐516)](https://github.com/creativecreatorormaybenot/funvas) <!--stargazers:creativecreatorormaybenot/funvas--> - Create fun *time based canvas animations* by [creativecreatorormaybenot](https://twitter.com/creativemaybeno).
+*   [Funvas (⭐528)](https://github.com/creativecreatorormaybenot/funvas) <!--stargazers:creativecreatorormaybenot/funvas--> - Create fun *time based canvas animations* by [creativecreatorormaybenot](https://twitter.com/creativemaybeno).
 
 ### Guide & Interviews / Game Engine resources
 
@@ -84,7 +84,7 @@
 
 ### Contents / Productivity
 
-*   [Yata (⭐6)](https://github.com/Rohithgilla12/yata) - Todo application that makes your todolist as your wallpaper by [Rohith Gilla](https://github.com/Rohithgilla12)
+*   [Yata (⭐8)](https://github.com/Rohithgilla12/yata) - Todo application that makes your todolist as your wallpaper by [Rohith Gilla](https://github.com/Rohithgilla12)
 
 ## [7. Awesome Silverstripe Cms](/content/wernerkrauss/awesome-silverstripe-cms/README.md)
 
@@ -97,13 +97,13 @@
 
 ### Utils / Other Tools
 
-*   [FastAPI SocketIO (⭐327)](https://github.com/pyropy/fastapi-socketio) - Easy integration for FastAPI and SocketIO.
+*   [FastAPI SocketIO (⭐334)](https://github.com/pyropy/fastapi-socketio) - Easy integration for FastAPI and SocketIO.
 
 ## [9. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Component bundles
 
-*   [PanoramicData Blazor UI Components (⭐55)](https://github.com/panoramicdata/PanoramicData.Blazor) - ![stars](https://img.shields.io/github/stars/panoramicdata/PanoramicData.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/PanoramicData/PanoramicData.Blazor) An open source library of Blazor components including Table, Tree, ToolBar and FileExplorer. [Demo](https://panoramicdata.github.io/PanoramicData.Blazor).
+*   [PanoramicData Blazor UI Components (⭐56)](https://github.com/panoramicdata/PanoramicData.Blazor) - ![stars](https://img.shields.io/github/stars/panoramicdata/PanoramicData.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/PanoramicData/PanoramicData.Blazor) An open source library of Blazor components including Table, Tree, ToolBar and FileExplorer. [Demo](https://panoramicdata.github.io/PanoramicData.Blazor).
 
 ## [10. Awesome PICO 8](/content/pico-8/awesome-PICO-8/README.md)
 
@@ -134,12 +134,6 @@
 ### Miscellaneous
 
 *   [readme.com](https://readme.com/) — Beautiful documentation made easy, free for Open Source.
-
-## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / UI Components
-
-*   [element-ui-sticky-table (⭐11)](https://github.com/iendeavor/element-ui-sticky-table) - Sticky for element-ui table
 
 ---
 

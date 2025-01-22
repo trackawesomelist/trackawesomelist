@@ -10,13 +10,13 @@
 
 ### C / Syntax highlighting packages
 
-*   [Evoland.gb (⭐36)](https://github.com/flozz/evoland.gb) - A port of the first level of Evoland.
+*   [Evoland.gb (⭐38)](https://github.com/flozz/evoland.gb) - A port of the first level of Evoland.
 
 ## [2. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Misc
 
-*   [crystal-web-framework-stars (⭐70)](https://github.com/isaced/crystal-web-framework-stars) - Web frameworks for Crystal, most starred on Github
+*   [crystal-web-framework-stars (⭐72)](https://github.com/isaced/crystal-web-framework-stars) - Web frameworks for Crystal, most starred on Github
 
 ## [3. Awesome Adafruitio](/content/adafruit/awesome-adafruitio/README.md)
 
@@ -34,7 +34,7 @@
 
 ### Online Resources / Other Lists Online
 
-*   [Awesome Shodan Queries (⭐5.3k)](https://github.com/jakejarvis/awesome-shodan-queries) - Awesome list of useful, funny, and depressing search queries for Shodan.
+*   [Awesome Shodan Queries (⭐5.9k)](https://github.com/jakejarvis/awesome-shodan-queries) - Awesome list of useful, funny, and depressing search queries for Shodan.
 
 ## [6. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 
@@ -55,7 +55,7 @@
 
 ### no-std crates / WIP
 
-*   [Rubble (⭐396)](https://github.com/jonas-schievink/rubble): A pure-Rust embedded BLE stack ![crates.io](https://img.shields.io/crates/v/rubble.svg)
+*   [Rubble (⭐399)](https://github.com/jonas-schievink/rubble): A pure-Rust embedded BLE stack [![crates.io](https://img.shields.io/crates/v/rubble.svg)](https://crates.io/crates/rubble)
 
 ## [8. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
@@ -77,11 +77,11 @@
 
 ### Concurrency
 
-*   [FiberTaskingLib (⭐920)](https://github.com/RichieSams/FiberTaskingLib) - Task-based multi-threading library that supports task graphs with arbitrary dependencies. \[Apache]
+*   [FiberTaskingLib (⭐942)](https://github.com/RichieSams/FiberTaskingLib) - Task-based multi-threading library that supports task graphs with arbitrary dependencies. \[Apache]
 
 ### Debug
 
-*   [Nonius (⭐358)](https://github.com/libnonius/nonius) - A C++ micro-benchmarking framework. \[CC]
+*   [Nonius (⭐361)](https://github.com/libnonius/nonius) - A C++ micro-benchmarking framework. \[CC]
 
 ## [11. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

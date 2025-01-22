@@ -64,7 +64,7 @@
 
 ### Development Tools
 
-*   [Vert.x Hot (⭐48)](https://github.com/dazraf/vertx-hot) - A Maven plugin for the hot-deploy of Maven Vert.x projects.
+*   [Vert.x Hot (⭐47)](https://github.com/dazraf/vertx-hot) - A Maven plugin for the hot-deploy of Maven Vert.x projects.
 
 ## [8. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 

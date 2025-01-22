@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 20, 2021
 
-13 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -17,7 +17,6 @@
 ### Email
 
 *   [Antideo](https://www.antideo.com) — 10 API requests per hour for email verification, IP, and phone number validation in the free tier. No Credit Cards are required.
-*   [HotTempMail](https://hottempmail.com/) - Unlimited, free, disposable temporary email addresses. Autoexpires in one day.
 *   [QuickEmailVerification](https://quickemailverification.com) — Verify 100 emails daily for free on a free tier along with other free APIs like DEA Detector, DNS Lookup, SPF Detector, and more.
 
 ## [3. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
@@ -34,7 +33,7 @@
 
 ### Developer Tools / Command Line Tools
 
-*   [Tabby (formerly Terminus) (⭐58k)](https://github.com/Eugeny/tabby) - Free terminal tool, built with TypeScript, heavily inspired by Hyper. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Eugeny/terminus) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Tabby (formerly Terminus) (⭐61k)](https://github.com/Eugeny/tabby) - Free terminal tool, built with TypeScript, heavily inspired by Hyper. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Eugeny/terminus) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [5. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -70,46 +69,40 @@
 
 ### Crates / Utils
 
-*   [stylist-rs (⭐356)](https://github.com/futursolo/stylist-rs) - A CSS-in-Rust styling solution for WebAssembly Applications.
+*   [stylist-rs (⭐376)](https://github.com/futursolo/stylist-rs) - A CSS-in-Rust styling solution for WebAssembly Applications.
 
-## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [7. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
 
-### Components & Libraries / UI Components
-
-*   [eos-icons-vue (⭐4)](https://github.com/EOS-uiux-Solutions/eos-icons-vue) - Eos icons npm package for Vue 3, [eos-icons-vue2 (⭐5)](https://github.com/EOS-uiux-Solutions/eos-icons-vue2) for Vue 2
-
-## [8. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
-
-### Fonts / Checkbox
+### Fonts / Form Components
 
 *   [svelte-web-fonts/google (⭐16)](https://github.com/svelte-web-fonts/google) - Tiny component for easily loading Fonts via the Google Fonts API including autocompletion.
 
-## [9. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
+## [8. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
 ### Articles & Papers / Scala
 
-*   [Awesome Scalability (⭐57k)](https://github.com/binhnguyennus/awesome-scalability) :star: - An updated and organized reading list for illustrating the patterns of scalable, reliable, and performant large-scale systems. Concepts are explained in the articles of prominent engineers and credible references. Case studies are taken from battle-tested systems that serve millions to billions of users.
+*   [Awesome Scalability (⭐60k)](https://github.com/binhnguyennus/awesome-scalability) :star: - An updated and organized reading list for illustrating the patterns of scalable, reliable, and performant large-scale systems. Concepts are explained in the articles of prominent engineers and credible references. Case studies are taken from battle-tested systems that serve millions to billions of users.
 *   [A Sidecar for Your Service Mesh](https://www.abhishek-tiwari.com/a-sidecar-for-your-service-mesh/) - A short service mesh introduction.
 
-## [10. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
+## [9. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 
 ### Apps / Media
 
 *   [Wagtail Makeup (⭐6)](https://github.com/kevinhowbrook/wagtail-makeup) - A plugin that replaces all your images with [Unsplash](https://unsplash.com/) images.
 
-## [11. Awesome Php](/content/ziadoz/awesome-php/README.md)
+## [10. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Table of Contents / Dependency Management Extras
 
-*   [Composer Normalize (⭐1k)](https://github.com/ergebnis/composer-normalize) - A plugin for normalizing `composer.json` files.
+*   [Composer Normalize (⭐1.1k)](https://github.com/ergebnis/composer-normalize) - A plugin for normalizing `composer.json` files.
 
-## [12. Awesome Directus](/content/directus-community/awesome-directus/README.md)
+## [11. Awesome Directus](/content/directus-community/awesome-directus/README.md)
 
 ### Integration / Community
 
-*   [react-directus (⭐92)](https://github.com/gremo/react-directus) - A set of React components and utilities for Directus Headless CMS.
+*   [react-directus (⭐118)](https://github.com/gremo/react-directus) - A set of React components and utilities for Directus Headless CMS.
 
-## [13. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
+## [12. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
 ### Simulation / Version Control
 

@@ -18,13 +18,27 @@
 
 *   [IMDb Scout Mod](https://greasyfork.org/en/scripts/407284-imdb-scout-mod) Adds links to IMDb pages from the torrent, ddl, subtitles, streaming, usenet and other sites.
 
-## [3. Awesome H2o](/content/h2oai/awesome-h2o/README.md)
+## [3. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
+
+### Family
+
+### [Parcheesi](https://en.wikipedia.org/wiki/Parcheesi)
+
+> Pachisi, the national game of India, dates back to 4 AD and remains popular today. Parcheesi is the westernized version. Parcheesi is typically played with two dice, four pieces per player and a gameboard with a track around the outside, four corner spaces and four home paths leading to a central end space. Moving all four pieces to the home position wins the game.
+
+![Parcheesi Image](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Parcheesi-board-perspective.jpg/320px-Parcheesi-board-perspective.jpg)
+
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|   2 - 4 |        8 | 30-60m |
+
+## [4. Awesome H2o](/content/h2oai/awesome-h2o/README.md)
 
 ### Books
 
 *   [Mastering Machine Learning with Spark 2.x](https://www.packtpub.com/product/mastering-machine-learning-with-spark-2-x/9781785283451) Alex Tellez, Max Pumperla, Michal Malohlava. (2017)
 
-## [4. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
+## [5. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
 
 ### Autobiographies and Biographies
 
@@ -38,31 +52,31 @@
 
 
 
-## [5. Awesome Veganism](/content/sdassow/awesome-veganism/README.md)
+## [6. Awesome Veganism](/content/sdassow/awesome-veganism/README.md)
 
 ### Brands
 
 *   [Vantastic Foods](https://www.vantastic-foods.com/) - Massive selection of plant-based products, including their own brand with different types of delicious sausages, slices, and more.
 
-## [6. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
+## [7. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Media / Video
 
-*   [CamerAwesome (⭐912)](https://github.com/Apparence-io/camera_awesome) <!--stargazers:Apparence-io/camera_awesome--> - Community camera plugin rework by [Apparence.io studio](https://apparence.io)
+*   [CamerAwesome (⭐988)](https://github.com/Apparence-io/camera_awesome) <!--stargazers:Apparence-io/camera_awesome--> - Community camera plugin rework by [Apparence.io studio](https://apparence.io)
 
-## [7. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [8. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Configuration
 
-*   [Envy (⭐7)](https://github.com/grottopress/envy) - Load environment variables from YAML
+*   [Envy (⭐8)](https://github.com/grottopress/envy) - Load environment variables from YAML
 
-## [8. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
+## [9. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
 ### Apps / Outline Processor Markup Language
 
 *   [轻芒杂志<strike>（草稿版）</strike>](http://qingmang.me/beta/) <sup>[741](https://t.me/s/aboutrss/741), [743](https://t.me/s/aboutrss/743), [809](https://t.me/s/aboutrss/809), [812](https://t.me/s/aboutrss/812), [828](https://t.me/s/aboutrss/828)</sup> ![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)
 *   RSS Savvy <sup>[811](https://t.me/s/aboutrss/811)</sup> [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=com.savvysaurus.rsssavvy)
-*   [NiceFeed (⭐96)](https://github.com/joshuacerdenia/NiceFeed) <sup>[843](https://t.me/s/aboutrss/843)</sup> [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=com.joshuacerdenia.android.nicefeed\&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/joshuacerdenia/NiceFeed)
+*   [NiceFeed (⭐94)](https://github.com/joshuacerdenia/NiceFeed) <sup>[843](https://t.me/s/aboutrss/843)</sup> [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=com.joshuacerdenia.android.nicefeed\&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/joshuacerdenia/NiceFeed)
 
 ### Hosted Readers / Outline Processor Markup Language
 
@@ -85,7 +99,7 @@
 
 *   [中文独立博客全订阅计划](https://box.othing.xyz/) <sup>[834](https://t.me/s/aboutrss/834)</sup>
 
-## [9. Public Apis](/content/public-apis/public-apis/README.md)
+## [10. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Games & Comics
 
@@ -101,56 +115,26 @@
 
 
 
-## [10. Awesome Sdn](/content/sdnds-tw/awesome-sdn/README.md)
+## [11. Awesome Sdn](/content/sdnds-tw/awesome-sdn/README.md)
 
 ### Books
 
 *   [SDN: Software Defined Networks: An Authoritative Review of Network Programmability Technologies](https://www.oreilly.com/library/view/sdn-software-defined/9781449342425/)
 
-## [11. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
+## [12. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
 
 ### NMOS
 
-*   [BBC NMOS Joint Reference Implementation (⭐11)](https://github.com/bbc/nmos-joint-ri) - A Vagrant provisioning to build 4 virtual machines, an IS-04/IS-05 Node, IS-04 Registry, BCP-003-02 Authorisation Server, and the NMOS Testing Tool.
-*   [Easy-NMOS (⭐55)](https://github.com/rhastie/easy-nmos) - A starter kit that allows the user to launch a simple NMOS setup with minimal installation steps, composed of three Docker containers: an NMOS Registry, a virtual NMOS Node, and the AMWA NMOS Testing Tool.
-*   [nmos-cpp (⭐136)](https://github.com/sony/nmos-cpp) - An implementation of the AMWA Networked Media Open Specifications in C++, including an NMOS Registry and a toolkit and example of building an NMOS Node.
-*   [nmos-js (⭐31)](https://github.com/sony/nmos-js) - A simple browser-based NMOS Client/Controller with an IS-04 Registry browser and IS-05 Connection Management.
+*   [BBC NMOS Joint Reference Implementation (⭐13)](https://github.com/bbc/nmos-joint-ri) - A Vagrant provisioning to build 4 virtual machines, an IS-04/IS-05 Node, IS-04 Registry, BCP-003-02 Authorisation Server, and the NMOS Testing Tool.
+*   [Easy-NMOS (⭐65)](https://github.com/rhastie/easy-nmos) - A starter kit that allows the user to launch a simple NMOS setup with minimal installation steps, composed of three Docker containers: an NMOS Registry, a virtual NMOS Node, and the AMWA NMOS Testing Tool.
+*   [nmos-cpp (⭐144)](https://github.com/sony/nmos-cpp) - An implementation of the AMWA Networked Media Open Specifications in C++, including an NMOS Registry and a toolkit and example of building an NMOS Node.
+*   [nmos-js (⭐33)](https://github.com/sony/nmos-js) - A simple browser-based NMOS Client/Controller with an IS-04 Registry browser and IS-05 Connection Management.
 
-## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / External Resources
 
 *   [Vue.js Workshops](https://public.vuejsworkshops.com) - Learn Vue 2, in browser, by building 3 applications: Landing page, Todos App and Podcasts aggregator.( Vue.js, Vue-Router, Vuex, Vue-Axios, Vue-Apollo )
-
-### Components & Libraries / UI Components
-
-*   [vue3-tabs (⭐39)](https://github.com/HJ29/vue3-tabs) - A touch swipe tabs component for vue 3
-
-## [13. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
-
-### Family
-
-### [Parcheesi](https://en.wikipedia.org/wiki/Parcheesi)
-
-> Pachisi, the national game of India, dates back to 4 AD and remains popular today. Parcheesi is the westernized version. Parcheesi is typically played with two dice, four pieces per player and a gameboard with a track around the outside, four corner spaces and four home paths leading to a central end space. Moving all four pieces to the home position wins the game.
-
-![Parcheesi Image](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Parcheesi-board-perspective.jpg/320px-Parcheesi-board-perspective.jpg)
-
-| Players | Min. Age |   Time |
-| ------: | -------: | -----: |
-|   2 - 4 |        8 | 30-60m |
-
-### Party
-
-### [Catan: Explorers & Pirates Expansion](https://boardgamegeek.com/boardgame/135378/catan-explorers-pirates)
-
-> Catan: Explorers & Pirates is the fourth major expansion for The Settlers of Catan. It includes five scenarios and three missions; some of the scenarios make use of the missions while others do not. This expansion is based on the CATAN base game rules but also contains a number of new game mechanisms. For example, ships are now equipped for expeditions and can be moved freely across the board. In the ships you transport settlers, crews, fish, or spices across the seas. The main goal is to build new outposts on the islands that are still undiscovered and to complete the Council of Catan's missions in the most skillful way possible. Catan: Explorers & Pirates differs from the Catan base game in three main ways. First, instead of having only a single island in the game on which players build and compete for resources, three islands are present. Second, instead of using cities, Catan: Explorers & Pirates allows players to build port settlements. Like cities, port settlements are worth two victory points (VPs), and the number of VPs required to win depends on the scenario. Third, if a player receives no resources during the production roll (other than on a roll of 7), she receives one gold in compensation. The winner is the first one who reaches 17 VPs.
-
-![Catan image](https://cf.geekdo-images.com/itemrep/img/mSwnoBBEdGDnzC5wlDVU9dhpIyA=/fit-in/246x300/filters:strip_icc\(\)/pic2420310.jpg)
-
-| Players | Min. Age |    Time |
-| ------: | -------: | ------: |
-|   2 - 4 |      12+ | 90-120m |
 
 ---
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 16, 2021
 
-13 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -8,63 +8,63 @@
 
 ## [1. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
-### Plugins and scripts / Various Godot versions
+### Plugins and scripts / Godot 3
 
-*   [AgonesSDK (⭐57)](https://github.com/AndreMicheletti/godot-agones-sdk) - Plugin to add [Agones (⭐6k)](https://github.com/googleforgames/agones) SDK functionality to Godot (Godot 3.x).
+*   [AgonesSDK (⭐62)](https://github.com/AndreMicheletti/godot-agones-sdk) - Plugin to add [Agones (⭐6.2k)](https://github.com/googleforgames/agones) SDK functionality to Godot.
 
 ## [2. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
 
 ### Static type checkers
 
-*   [mypy (⭐18k)](https://github.com/python/mypy) - Optional static typing (PEP 484).
-*   [pyanalyze (⭐315)](https://github.com/quora/pyanalyze) - Extensible static analyzer and type checker.
+*   [mypy (⭐19k)](https://github.com/python/mypy) - Optional static typing (PEP 484).
+*   [pyanalyze (⭐350)](https://github.com/quora/pyanalyze) - Extensible static analyzer and type checker.
 *   [pyre](https://pyre-check.org/) - Performant type-checker.
-*   [pytype (⭐4.7k)](https://github.com/google/pytype) - Tool to check and infer types - without requiring type annotations.
+*   [pytype (⭐4.8k)](https://github.com/google/pytype) - Tool to check and infer types - without requiring type annotations.
 
 ### Dynamic type checkers
 
-*   [strongtyping (⭐104)](https://github.com/FelixTheC/strongtyping) - Decorator which checks whether the function is called with the correct type of parameters.
+*   [strongtyping (⭐111)](https://github.com/FelixTheC/strongtyping) - Decorator which checks whether the function is called with the correct type of parameters.
 
 ### Stub packages
 
-*   [asgiref (⭐1.4k)](https://github.com/django/asgiref) - ASGI specification, provides [asgiref.typing (⭐1.4k)](https://github.com/django/asgiref/blob/main/asgiref/typing.py) module with type annotations for ASGI servers.
-*   [typeshed (⭐4.2k)](https://github.com/python/typeshed) - Collection of library stubs, with static types.
+*   [asgiref (⭐1.5k)](https://github.com/django/asgiref) - ASGI specification, provides [asgiref.typing (⭐1.5k)](https://github.com/django/asgiref/blob/main/asgiref/typing.py) module with type annotations for ASGI servers.
+*   [typeshed (⭐4.4k)](https://github.com/python/typeshed) - Collection of library stubs, with static types.
 
 ### Additional types
 
 *   [meiga (⭐76)](https://github.com/alice-biometrics/meiga) - Simple, typed and monad-based Result type.
-*   [option (⭐81)](https://github.com/MaT1g3R/option) - Rust like Option and Result types.
-*   [phantom-types (⭐188)](https://github.com/antonagestam/phantom-types) - Phantom types.
-*   [returns (⭐3.4k)](https://github.com/dry-python/returns) - Make your functions return something meaningful, typed, and safe.
-*   [safetywrap (⭐43)](https://github.com/mplanchard/safetywrap) - Fully typesafe, Rust-like Result and Option types.
-*   [typet (⭐20)](https://github.com/contains-io/typet) - Length-bounded types, dynamic object validation.
+*   [option (⭐85)](https://github.com/MaT1g3R/option) - Rust like Option and Result types.
+*   [phantom-types (⭐205)](https://github.com/antonagestam/phantom-types) - Phantom types.
+*   [returns (⭐3.7k)](https://github.com/dry-python/returns) - Make your functions return something meaningful, typed, and safe.
+*   [safetywrap (⭐44)](https://github.com/mplanchard/safetywrap) - Fully typesafe, Rust-like Result and Option types.
+*   [typet (⭐22)](https://github.com/contains-io/typet) - Length-bounded types, dynamic object validation.
 
 ### Tools / Linters
 
-*   [wemake-python-styleguide (⭐2.5k)](https://github.com/wemake-services/wemake-python-styleguide) - The strictest and most opinionated Python linter ever.
+*   [wemake-python-styleguide (⭐2.6k)](https://github.com/wemake-services/wemake-python-styleguide) - The strictest and most opinionated Python linter ever.
 
 ### Tools / Working with types
 
-*   [com2ann (⭐138)](https://github.com/ilevkivskyi/com2ann) - Tool for translation of type comments to type annotations.
-*   [typing-inspect (⭐337)](https://github.com/ilevkivskyi/typing_inspect) - The typing\_inspect module defines experimental API for runtime inspection of types defined in the `typing` module.
+*   [com2ann (⭐143)](https://github.com/ilevkivskyi/com2ann) - Tool for translation of type comments to type annotations.
+*   [typing-inspect (⭐352)](https://github.com/ilevkivskyi/typing_inspect) - The typing\_inspect module defines experimental API for runtime inspection of types defined in the `typing` module.
 
 ### Tools / Helper tools to add annotations to existing code
 
-*   [monkeytype (⭐4.7k)](https://github.com/instagram/MonkeyType) - Collects runtime types of function arguments and return values, and can automatically generate stub files or even add draft type annotations directly to your code based on the types collected at runtime.
-*   [type4py (⭐61)](https://github.com/saltudelft/type4py) - Deep Similarity Learning-Based Type Inference.
+*   [monkeytype (⭐4.8k)](https://github.com/instagram/MonkeyType) - Collects runtime types of function arguments and return values, and can automatically generate stub files or even add draft type annotations directly to your code based on the types collected at runtime.
+*   [type4py (⭐62)](https://github.com/saltudelft/type4py) - Deep Similarity Learning-Based Type Inference.
 
 ### Integrations / Mypy plugins
 
-*   [mypy-playground (⭐67)](https://github.com/ymyzk/mypy-playground) - Online playground for mypy.
-*   [mypy-pycharm-plugin (⭐313)](https://github.com/dropbox/mypy-PyCharm-plugin) - Mypy integration for PyCharm.
+*   [mypy-playground (⭐72)](https://github.com/ymyzk/mypy-playground) - Online playground for mypy.
+*   [mypy-pycharm-plugin (⭐314)](https://github.com/dropbox/mypy-PyCharm-plugin) - Mypy integration for PyCharm.
 *   [pylance (⭐1.7k)](https://github.com/microsoft/pylance-release) - PyRight integration for VSCode.
 
 ## [3. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-restart (⭐159)](https://github.com/antfu/vite-plugin-restart) - Restart the Vite server on file changes.
-*   [vite-plugin-full-reload (⭐134)](https://github.com/ElMassimo/vite-plugin-full-reload) - Reload the browser on file changes.
+*   [vite-plugin-restart (⭐173)](https://github.com/antfu/vite-plugin-restart) - Restart the Vite server on file changes.
+*   [vite-plugin-full-reload (⭐152)](https://github.com/ElMassimo/vite-plugin-full-reload) - Reload the browser on file changes.
 
 ## [4. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
 
@@ -138,7 +138,7 @@
 ### RSS2KINDLE / Docsify
 
 *   [Reabble](https://reabble.com/) ([中国镜像](https://reabble.cn/)) <sup>[26](https://t.me/s/aboutrss/26), [1056![Video](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-circled-play-16.png)](https://t.me/s/aboutrss/1056)</sup>
-    *   [Reabble for Android (⭐117)](https://github.com/zmk-ink/reabble-android) <sup>[1333](https://t.me/s/aboutrss/1333)</sup>: A third-party app [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/zmk-ink/reabble-android)
+    *   [Reabble for Android (⭐126)](https://github.com/zmk-ink/reabble-android) <sup>[1333](https://t.me/s/aboutrss/1333)</sup>: A third-party app [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/zmk-ink/reabble-android)
 *   [WhereMyLife](http://wheremylife.cn/) <sup>[26](https://t.me/s/aboutrss/26), [88](https://t.me/s/aboutrss/88), [284](https://t.me/s/aboutrss/284), [1056![Video](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-circled-play-16.png)](https://t.me/s/aboutrss/1056)</sup> ![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
 ### Self Hosted Readers / Outline Processor Markup Language
@@ -180,7 +180,7 @@
 
 ### RSS Feed Finding/Detection / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
-*   [RSSBud (⭐1.2k)](https://github.com/Cay-Zhang/RSSBud) <sup>[816](https://t.me/s/aboutrss/816), [910](https://t.me/s/aboutrss/910), [1064](https://t.me/s/aboutrss/1064), [1356](https://t.me/s/aboutrss/1356)</sup> : iOS-version RSSHub Radar [![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://apps.apple.com/us/app/rssbud/id1531443645)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Cay-Zhang/RSSBud)
+*   [RSSBud (⭐1.3k)](https://github.com/Cay-Zhang/RSSBud) <sup>[816](https://t.me/s/aboutrss/816), [910](https://t.me/s/aboutrss/910), [1064](https://t.me/s/aboutrss/1064), [1356](https://t.me/s/aboutrss/1356)</sup> : iOS-version RSSHub Radar [![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://apps.apple.com/us/app/rssbud/id1531443645)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Cay-Zhang/RSSBud)
 
 ### ⛓ OPML management / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
@@ -193,7 +193,7 @@
 ### Tech or IT / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [Mac iOS Tech Blogs By Women](https://inessential.com/2015/11/16/blogs_by_women)
-*   [Software Engineering Blogs (⭐31k)](https://github.com/kilimchoi/engineering-blogs/) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/kilimchoi/engineering-blogs/)
+*   [Software Engineering Blogs (⭐32k)](https://github.com/kilimchoi/engineering-blogs/) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/kilimchoi/engineering-blogs/)
 *   [Tech Blogs shared by Emacs China Forum users](https://emacs-china.org/t/elfeed-tech-feeds-rss/17680) <sup>[1071](https://t.me/s/aboutrss/1071)</sup>
 
 ### ⏬ Utilize RSS to automate downloading / Broadcatching / Crypto or Blockchain relevant
@@ -215,33 +215,27 @@
 
 *   [jshn](https://openwrt.org/docs/guide-developer/jshn) - JSON parsing and generation library in for shell scripts (Ash/Bash)
 
-## [10. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Projects Using Vue.js / Open Source
-
-*   [QuickTok (⭐28)](https://github.com/statickidz/quicktok) - TikTok popular trends viewer.
-
-## [11. Awesome Irc](/content/davisonio/awesome-irc/README.md)
+## [10. Awesome Irc](/content/davisonio/awesome-irc/README.md)
 
 ### Clients
 
 *   [gamja](https://sr.ht/~emersion/gamja/) - A simple IRC web client. ([source](https://git.sr.ht/~emersion/gamja)) `Web`
 
-## [12. Asdf Plugins](/content/asdf-vm/asdf-plugins/README.md)
+## [11. Asdf Plugins](/content/asdf-vm/asdf-plugins/README.md)
 
 ### Creating a new Plugin
 
-*   Consider using our [Template (⭐98)](https://github.com/asdf-vm/asdf-plugin-template) which has the core functionality to tools published to GitHub releases and CI for GitHub/GitLab/CircleCI out of the box.
+*   Consider using our [Template (⭐108)](https://github.com/asdf-vm/asdf-plugin-template) which has the core functionality to tools published to GitHub releases and CI for GitHub/GitLab/CircleCI out of the box.
 
 ### Contributing a new Plugin / `asdf-community`
 
 *   Create a PR following the instructions in the PR template.
 
-## [13. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
+## [12. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
 ### Plugins / Frameworks
 
-*   [Custom Elements (⭐57)](https://github.com/github/eslint-plugin-custom-elements) - Rules by GitHub for Custom Elements.
+*   [Custom Elements (⭐58)](https://github.com/github/eslint-plugin-custom-elements) - Rules by GitHub for Custom Elements.
 
 ---
 

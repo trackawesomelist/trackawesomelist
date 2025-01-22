@@ -10,7 +10,7 @@
 
 ### Code Analysis and Metrics
 
-*   [ameba (⭐510)](https://github.com/crystal-ameba/ameba) - A static code analysis tool
+*   [ameba (⭐524)](https://github.com/crystal-ameba/ameba) - A static code analysis tool
 
 ## [2. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 

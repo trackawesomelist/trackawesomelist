@@ -22,24 +22,20 @@
 
 ### Non-JavaScript Libraries / Themes
 
-*   [Antizer (⭐258)](https://github.com/priornix/antizer) - Ant Design library for [ClojureScript](https://clojurescript.org/), an immutable, functional language that cross-compiles to JavaScript.
+*   [Antizer (⭐259)](https://github.com/priornix/antizer) - Ant Design library for [ClojureScript](https://clojurescript.org/), an immutable, functional language that cross-compiles to JavaScript.
 
 ## [4. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Scripting
 
-*   [gluon-lang/gluon (⭐3.2k)](https://github.com/gluon-lang/gluon) - A small, statically-typed, functional programming language
-*   [murarth/ketos (⭐749)](https://github.com/murarth/ketos) - A Lisp dialect functional programming language serving as a scripting and extension language for rust
+*   [gluon-lang/gluon (⭐3.3k)](https://github.com/gluon-lang/gluon) - A small, statically-typed, functional programming language
+*   [murarth/ketos (⭐752)](https://github.com/murarth/ketos) - A Lisp dialect functional programming language serving as a scripting and extension language for rust
 
 ## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Tutorials
 
 *   [Interactive Vue.js Screencasts For Beginners](https://scrimba.com/playlist/playlist-38)
-
-### Components & Libraries / UI Components
-
-*   [v-img (⭐415)](https://github.com/crowdbotics/v-img) - Easy to install image gallery.
 
 ---
 

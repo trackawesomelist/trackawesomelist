@@ -23,14 +23,14 @@ git clone repo.bundle <repo-dir> -b <branch-name>
 
 ### Packages / URL
 
-*   [normalize-url (⭐833)](https://github.com/sindresorhus/normalize-url) - Normalize a URL.
+*   [normalize-url (⭐841)](https://github.com/sindresorhus/normalize-url) - Normalize a URL.
 *   [speakingurl (⭐1.1k)](https://github.com/pid/speakingurl) - Generate a slug from a string with transliteration.
-*   [linkify-it (⭐653)](https://github.com/markdown-it/linkify-it) - Link patterns detector with full unicode support.
-*   [url-pattern (⭐582)](https://github.com/snd/url-pattern) - Easier than regex string matching patterns for URLs and other strings.
+*   [linkify-it (⭐670)](https://github.com/markdown-it/linkify-it) - Link patterns detector with full unicode support.
+*   [url-pattern (⭐584)](https://github.com/snd/url-pattern) - Easier than regex string matching patterns for URLs and other strings.
 
 ### Resources / Cheatsheets
 
-*   [Stream FAQs (⭐194)](https://github.com/stephenplusplus/stream-faqs) - Answering common questions about streams, covering pagination, events, and more.
+*   [Stream FAQs (⭐196)](https://github.com/stephenplusplus/stream-faqs) - Answering common questions about streams, covering pagination, events, and more.
 
 ## [3. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
@@ -46,7 +46,7 @@ git clone repo.bundle <repo-dir> -b <branch-name>
 
 ### Graphics
 
-*   [NGraphics (⭐704)](https://github.com/praeclarum/NGraphics) - NGraphics is a cross-platform library for rendering vector graphics on .NET
+*   [NGraphics (⭐714)](https://github.com/praeclarum/NGraphics) - NGraphics is a cross-platform library for rendering vector graphics on .NET
 
 ## [5. Awesome Rails Gem](/content/hothero/awesome-rails-gem/week/README.md)
 
@@ -147,28 +147,28 @@ git clone repo.bundle <repo-dir> -b <branch-name>
 
 ## [6. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
-### Programming
+### Programming / Commerical Tools
 
 *   [Python Tools for Machine Learning](https://www.cbinsights.com/blog/python-tools-machine-learning/)
 *   [Python for Artificial Intelligence](https://wiki.python.org/moin/PythonForArtificialIntelligence)
 
-### Code
+### Code / Commerical Tools
 
 *   [FANN](http://leenissen.dk/fann/wp/) - Fast Artificial Neural Network Library, native for C
 
-### Learning
+### Learning / Commerical Tools
 
 *   [Getting Started with Deep Learning and Python](http://www.pyimagesearch.com/2014/09/22/getting-started-deep-learning-python/)
 *   [Machine Learning Mastery](http://machinelearningmastery.com/)
-*   [Awesome Machine Learning (⭐63k)](https://github.com/josephmisiti/awesome-machine-learning) - Like this Github, but ML-focused
+*   [Awesome Machine Learning (⭐67k)](https://github.com/josephmisiti/awesome-machine-learning) - Like this Github, but ML-focused
 *   [FastML](http://fastml.com/)
 
-### Organizations
+### Organizations / Commerical Tools
 
 *   [IEEE Computational Intelligence Society](http://cis.ieee.org/)
 *   [Machine Intelligence Research Institute](https://intelligence.org/research-guide/)
 
-### Journals
+### Journals / Commerical Tools
 
 *   [AI & Society](http://www.springer.com/journal/146)
 *   [Applicable Algebra in Engineering, Communication and Computing](http://www.springer.com/journal/200)
@@ -312,13 +312,13 @@ git clone repo.bundle <repo-dir> -b <branch-name>
 
 ### More Awesome Lists
 
-*   [Public Datasets (⭐59k)](https://github.com/caesar0301/awesome-public-datasets) *(Datasets beyond just JSON)*
+*   [Public Datasets (⭐61k)](https://github.com/caesar0301/awesome-public-datasets) *(Datasets beyond just JSON)*
 
 ## [19. Amas](/content/sindresorhus/amas/week/README.md)
 
 ### Ask these people anything!
 
-*   [Yitzchok Willroth (⭐0)](https://github.com/coderabbi/ama) - Coder & Rabbi (though seldom at the same time!); Engineering Practice Manager, Grovo; Organizer, ShorePHP & NYPHP; Conference Speaker; Mentor.
+*   [Yitzchok Willroth (⭐1)](https://github.com/coderabbi/ama) - Coder & Rabbi (though seldom at the same time!); Engineering Practice Manager, Grovo; Organizer, ShorePHP & NYPHP; Conference Speaker; Mentor.
 *   [Jeff Carouth (⭐0)](https://github.com/jcarouth/ama) - Lead Platform Engineer at Liftopia, Co-host of the Loosely Coupled Podcast, mentor, and conference speaker.
 *   [Matthew Turland (⭐2)](https://github.com/elazar/amas) - Full Stack Engineer at When I Work, author, mentor, and conference speaker.
 *   [Joe Ferguson](https://github.com/svpernova09/ama) - PHP Dev, Sys Admin, Community Builder, Conf Organizer & Speaker, Maker, Hacker, Tinkerer, Space Geek, Husband. Enjoys craft beers and whiskey. Owned by cats.
@@ -348,7 +348,7 @@ git clone repo.bundle <repo-dir> -b <branch-name>
 ### Sliders / Runner
 
 *   [basic-jquery-slider (⭐542)](https://github.com/jcobb/basic-jquery-slider) - Simple to use, simple to theme, simple to customise.
-*   [jQuery.adaptive-slider (⭐53)](https://github.com/creative-punch/jQuery.adaptive-slider/) - A jQuery plugin for a slider with adaptive colored figcaption and navigation.
+*   [jQuery.adaptive-slider (⭐54)](https://github.com/creative-punch/jQuery.adaptive-slider/) - A jQuery plugin for a slider with adaptive colored figcaption and navigation.
 *   [slidr (⭐1.6k)](https://github.com/bchanx/slidr) - add some slide effects.
 
 ### Video/Audio / Other
@@ -357,7 +357,7 @@ git clone repo.bundle <repo-dir> -b <branch-name>
 
 ### Misc / Other
 
-*   [peterkokot/awesome-jquery (⭐917)](https://github.com/peterkokot/awesome-jquery)
+*   [peterkokot/awesome-jquery (⭐923)](https://github.com/peterkokot/awesome-jquery)
 
 ## [22. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 

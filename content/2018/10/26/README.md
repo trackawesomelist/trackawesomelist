@@ -44,7 +44,7 @@
 
 ## [3. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
 
-### Courses
+### Courses / Commerical Tools
 
 *   [Machine Learning Crash Course By Google](https://developers.google.com/machine-learning/crash-course/ml-intro) Machine Learning Crash Course features a series of lessons with video lectures, real-world case studies, and hands-on practice exercises.
 *   [Python Class By Google](https://developers.google.com/edu/python/) This is a free class for people with a little bit of programming experience who want to learn Python. The class includes written materials, lecture videos, and lots of code exercises to practice Python coding.
@@ -79,7 +79,7 @@
 
 ### Tools / Paid and commercially available materials
 
-*   [embedded-hal-mock](https://crates.io/crates/embedded-hal-mock) Mock implementation of `embedded-hal` traits for testing without accessing real hardware. - ![crates.io](https://img.shields.io/crates/v/embedded-hal-mock.svg)
+*   [embedded-hal-mock](https://crates.io/crates/embedded-hal-mock) Mock implementation of `embedded-hal` traits for testing without accessing real hardware. - [![crates.io](https://img.shields.io/crates/v/embedded-hal-mock.svg)](https://crates.io/crates/embedded-hal-mock)
 
 ## [8. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
@@ -91,29 +91,9 @@
 
 ### Free fonts / Fonts
 
-*   [Libre Franklin (⭐339)](https://github.com/impallari/Libre-Franklin) - An interpretation and expansion based on Morris Fuller Benton’s 1912 classic.
+*   [Libre Franklin (⭐381)](https://github.com/impallari/Libre-Franklin) - An interpretation and expansion based on Morris Fuller Benton’s 1912 classic.
 
-## [10. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/README.md)
-
-### Experiments
-
-*   [Audio Visualizer (⭐27)](https://github.com/Teoxoy/audio-visualizer) - An interesting web audio visualizer built with Pixi.js.
-
-## [11. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
-
-### JavaScript / General-Purpose Machine Learning
-
-*   [ml5 (⭐6.4k)](https://github.com/ml5js/ml5-library) - Friendly machine learning for the web!
-
-## [12. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
-
-### In Portuguese
-
-*   [Galera do Rau](http://galeradorau.com.br/category/podcast/galera-do-rau/) - Quatro professores, extremamente nerds, divertidos e com muita história pra contar.
-*   [Rapadura Cast](https://cinemacomrapadura.com.br/cat/rapaduracast-podcast/) - Podcast da galera do Cinema com rapadura, considerado hoje referência sobre cultura pop no Brasil.
-*   [Rede Geek](http://www.redegeek.com.br/podcast/) - Podcast destinado ao público geek sobre diversos assuntos como, tecnologia, ciência, história e outros.
-
-## [13. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
+## [10. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 
 ### Family
 
@@ -175,17 +155,25 @@
 | ------: | -------: | ------: |
 |   2 - 4 |       13 | 90-120m |
 
-### Party
+## [11. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/README.md)
 
-### [Munchkin](http://www.worldofmunchkin.com/game/)
+### Experiments
 
-> Munchkin is the mega-hit card game about dungeon adventure ... with none of that stupid roleplaying stuff. You and your friends compete to kill monsters and grab magic items. And what magic items! Don the Horny Helmet and the Boots of Butt-Kicking. Wield the Staff of Napalm ... or maybe the Chainsaw of Bloody Dismemberment. Start by slaughtering the Potted Plant and the Drooling Slime, and work your way up to the Plutonium Dragon ...
+*   [Audio Visualizer (⭐27)](https://github.com/Teoxoy/audio-visualizer) - An interesting web audio visualizer built with Pixi.js.
 
-![Munchkin game image](https://upload.wikimedia.org/wikipedia/en/e/ee/Munchkin_game_cover.jpg)
+## [12. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
-| Players | Min. Age |    Time |
-| ------: | -------: | ------: |
-|   3 - 6 |       10 | 60-120m |
+### JavaScript / General-Purpose Machine Learning
+
+*   [ml5 (⭐6.5k)](https://github.com/ml5js/ml5-library) - Friendly machine learning for the web!
+
+## [13. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
+
+### In Portuguese
+
+*   [Galera do Rau](http://galeradorau.com.br/category/podcast/galera-do-rau/) - Quatro professores, extremamente nerds, divertidos e com muita história pra contar.
+*   [Rapadura Cast](https://cinemacomrapadura.com.br/cat/rapaduracast-podcast/) - Podcast da galera do Cinema com rapadura, considerado hoje referência sobre cultura pop no Brasil.
+*   [Rede Geek](http://www.redegeek.com.br/podcast/) - Podcast destinado ao público geek sobre diversos assuntos como, tecnologia, ciência, história e outros.
 
 ## [14. Awesome Android](/content/JStumpp/awesome-android/README.md)
 

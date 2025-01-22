@@ -10,15 +10,19 @@
 
 ### Unit Test, Testing / Apache License
 
-*   [aunit (⭐7)](https://github.com/AdaCore/aunit) - Ada unit testing framework.
+*   [aunit (⭐8)](https://github.com/AdaCore/aunit) - Ada unit testing framework.
 
 ## [2. Awesome Groovy](/content/kdabir/awesome-groovy/README.md)
 
 ### Build tools, setup and CI
 
-*   [skeletal (⭐11)](https://github.com/cbmarcum/skeletal) - A simple project creation tool that uses packaged templates (successor of Lazybones)
+*   [skeletal (⭐17)](https://github.com/cbmarcum/skeletal) - A simple project creation tool that uses packaged templates (successor of Lazybones)
 
 ## [3. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
+
+### Sensors / Barometer - Air and Water Pressure
+
+*   [MicroPython\_MS5611 (⭐0)](https://github.com/jposada202020/MicroPython_MS5611) - MicroPython Driver for the TE MS5611 Pressure and Temperature Sensor. (Archived)
 
 ### Sensors / Colour
 
@@ -27,10 +31,6 @@
 ### Sensors / Magnetometer
 
 *   [MicroPython\_BMM150 (⭐1)](https://github.com/jposada202020/MicroPython_BMM150) - MicroPython Driver for the Bosch BMM150 Magnetometer.
-
-### Sensors / Pressure
-
-*   [MicroPython\_MS5611 (⭐0)](https://github.com/jposada202020/MicroPython_MS5611) - MicroPython Driver for the TE MS5611 Pressure and Temperature Sensor.
 
 ### Sensors / Temperature Digital
 
@@ -44,7 +44,7 @@
 
 ### Software / R
 
-*   [netUtils (⭐14)](https://github.com/schochastics/netUtils) - Various network functions and methods, e.g. computing the Cartesian product of two graphs or fitting a discrete core periphery model.
+*   [netUtils (⭐15)](https://github.com/schochastics/netUtils) - Various network functions and methods, e.g. computing the Cartesian product of two graphs or fitting a discrete core periphery model.
 
 ## [5. Awesome Icons](/content/vkarampinis/awesome-icons/README.md)
 
@@ -67,15 +67,15 @@
 *   :money\_with\_wings: [Besel](https://www.bezel.it/hq) - Make a 3d real-time collaboration design and prototype in your VR headset or mobile AR.
 *   :money\_with\_wings: [Daz 3D](https://www.daz3d.com/) - A 3D software allows you to easily create custom scenes and characters in seconds.
 *   :free: [sculptris](https://sculptris.br.uptodown.com/windows) - A version by Pixologic and the original [1.01](https://www.moddb.com/downloads/sculptris)
-*   :money\_with\_wings: [Spline](https://spline.design/) - A 3d colalaborative real-time
+*   :money\_with\_wings: [Spline](https://spline.design/) - A 3d collaborative real-time
 *   :free: [Womp](https://womp.com/) - A 3D intuitive and easy to use for create right in your browser
-*   :free: [ZBRUSHCOREMINI](https://www.maxon.net/en/zbrushcoremini) - The new version of sculpris by MAXON
+*   :free: [ZBRUSHCOREMINI](https://www.maxon.net/en/zbrushcoremini) - The new version of sculptris by MAXON
 
 ## [8. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Data Manipulation / Processors
 
-*   [xq (⭐752)](https://github.com/sibprogrammer/xq) - XML and HTML beautifier and content extractor.
+*   [xq (⭐855)](https://github.com/sibprogrammer/xq) - XML and HTML beautifier and content extractor.
 
 ---
 

@@ -16,18 +16,13 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [rafamadriz/neon (⭐178)](https://github.com/rafamadriz/neon) - Customizable colorscheme with excellent italic and bold support, dark and light variants. Made to work and look good with Tree-sitter.
-*   [bluz71/vim-moonfly-colors (⭐805)](https://github.com/bluz71/vim-moonfly-colors) - A dark charcoal colorscheme with modern Neovim support including Tree-sitter.
-*   [ChristianChiarulli/nvcode-color-schemes.vim (⭐300)](https://github.com/ChristianChiarulli/nvcode-color-schemes.vim) - Nvcode, onedark, nord colorschemes with Tree-sitter support.
-*   [folke/tokyonight.nvim (⭐6.1k)](https://github.com/folke/tokyonight.nvim) - A clean, dark and light Neovim theme written in Lua, with support for LSP, Tree-sitter and lots of plugins.
-*   [rockerBOO/boo-colorscheme-nvim (⭐192)](https://github.com/rockerBOO/boo-colorscheme-nvim) - A colorscheme with handcrafted support for LSP, Tree-sitter.
-*   [ray-x/aurora (⭐324)](https://github.com/ray-x/aurora) - A 24-bit dark theme with Tree-sitter and LSP support.
-*   [lourenci/github-colors (⭐95)](https://github.com/lourenci/github-colors) - GitHub colors leveraging Tree-sitter to get 100% accuracy.
-*   [kdheepak/monochrome.nvim (⭐91)](https://github.com/kdheepak/monochrome.nvim) - A 16 bit monochrome colorscheme that uses hsluv for perceptually distinct gray colors, with support for Tree-sitter and other commonly used plugins.
-
-### Lua Colorscheme / Diagnostics
-
-*   [tjdevries/gruvbuddy.nvim (⭐117)](https://github.com/tjdevries/gruvbuddy.nvim) - Gruvbox colors.
+*   [rafamadriz/neon (⭐189)](https://github.com/rafamadriz/neon) - Customizable colorscheme with excellent italic and bold support, dark and light variants. Made to work and look good with Tree-sitter.
+*   [bluz71/vim-moonfly-colors (⭐930)](https://github.com/bluz71/vim-moonfly-colors) - A dark charcoal colorscheme with modern Neovim support including Tree-sitter.
+*   [ChristianChiarulli/nvcode-color-schemes.vim (⭐304)](https://github.com/ChristianChiarulli/nvcode-color-schemes.vim) - Nvcode, onedark, nord colorschemes with Tree-sitter support.
+*   [folke/tokyonight.nvim (⭐6.7k)](https://github.com/folke/tokyonight.nvim) - A clean, dark and light Neovim theme written in Lua, with support for LSP, Tree-sitter and lots of plugins.
+*   [rockerBOO/boo-colorscheme-nvim (⭐203)](https://github.com/rockerBOO/boo-colorscheme-nvim) - A colorscheme with handcrafted support for LSP, Tree-sitter.
+*   [ray-x/aurora (⭐349)](https://github.com/ray-x/aurora) - A 24-bit dark theme with Tree-sitter and LSP support.
+*   [kdheepak/monochrome.nvim (⭐118)](https://github.com/kdheepak/monochrome.nvim) - A 16 bit monochrome colorscheme that uses hsluv for perceptually distinct gray colors, with support for Tree-sitter and other commonly used plugins.
 
 ## [3. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
@@ -44,7 +39,7 @@
 
 ### UI
 
-*   [Rounded Loading Button (⭐311)](https://github.com/chrisedg87/flutter_rounded_loading_button) <!--stargazers:chrisedg87/flutter_rounded_loading_button--> - Button with a loading indicator, complete with success and error animations by [Chris Edgington](https://twitter.com/ChrisTheEdg)
+*   [Rounded Loading Button (⭐344)](https://github.com/chrisedg87/flutter_rounded_loading_button) <!--stargazers:chrisedg87/flutter_rounded_loading_button--> - Button with a loading indicator, complete with success and error animations by [Chris Edgington](https://twitter.com/ChrisTheEdg)
 
 ## [5. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/README.md)
 
@@ -96,18 +91,13 @@
 
 ### Localization / Barcode
 
-*   [Locheck (⭐96)](https://github.com/Asana/locheck) - Validate .strings and .stringsdict files for errors
+*   [Locheck (⭐98)](https://github.com/Asana/locheck) - Validate .strings and .stringsdict files for errors
 
 ## [10. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Tutorials
 
 *   [Create A Blog With Gridsome & Vue](https://nordschool.com/create-a-blog-with-gridsome-and-vue/)
-
-### Resources / Examples
-
-*   [vue-cli-3-tailwind-axios-starter](https://github.com/Ted2xmen/vue-cli-3-tailwind-axios-starter) - A boilerplate using Tailwind, Axios-ready, Vuex and Router
-*   [vue-cli-3-wave-ui-starter (⭐1)](https://github.com/Ted2xmen/vue-cli-3-wave-ui-starter) - A boilerplate using Wave UI + Vuex and Router
 
 ## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

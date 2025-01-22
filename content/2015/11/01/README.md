@@ -10,7 +10,7 @@
 
 ### Miscellaneous
 
-*   [Vert.x Child Process (⭐46)](https://github.com/vietj/vertx-childprocess) - Spawn child process from Vert.x.
+*   [Vert.x Child Process (⭐51)](https://github.com/vietj/vertx-childprocess) - Spawn child process from Vert.x.
 
 ## [2. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
@@ -18,7 +18,7 @@
 
 *   [Mitmproxy](https://mitmproxy.org/) - An interactive console program that allows traffic flows to be intercepted, inspected, modified and replayed.
 *   [Mountebank](http://www.mbtest.org/) - Cross-platform, multi-protocol test doubles over the wire.
-*   [VCR (⭐5.8k)](https://github.com/vcr/vcr) - Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests. See the list of ports for implementations in other languages.
+*   [VCR (⭐5.9k)](https://github.com/vcr/vcr) - Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests. See the list of ports for implementations in other languages.
 *   [Wilma (⭐57)](https://github.com/epam/Wilma) - Combined HTTP/HTTPS service stub and transparent proxy solution.
 *   [WireMock](http://wiremock.org/) - Flexible library for stubbing and mocking web services. Unlike general purpose mocking tools it works by creating an actual HTTP server that your code under test can connect to as it would a real web service.
 
@@ -26,7 +26,7 @@
 
 ### Caching
 
-*   [CacheManager (⭐2.3k)](https://github.com/MichaCo/CacheManager) - A common interface and abstraction layer for caching.
+*   [CacheManager (⭐2.4k)](https://github.com/MichaCo/CacheManager) - A common interface and abstraction layer for caching.
 
 ## [4. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 

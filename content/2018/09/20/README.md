@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 20, 2018
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,11 +10,11 @@
 
 ### Software / Money, Budgeting & Management
 
-*   [Kresus](https://kresus.org/) - Open source personal finance manager. ([Demo](https://kresus.org/en/demo.html), [Source Code (⭐293)](https://github.com/kresusapp/kresus)) `MIT` `Nodejs/Docker`
+*   [Kresus](https://kresus.org/) - Open source personal finance manager. ([Demo](https://kresus.org/en/demo.html), [Source Code (⭐306)](https://github.com/kresusapp/kresus)) `AGPL-3.0` `Nodejs/Docker`
 
 ### Software / Ticketing
 
-*   [FreeScout (⭐2.8k)](https://github.com/freescout-helpdesk/freescout) - Open source clone of Help Scout: email-based customer support application, help desk and shared mailbox. `AGPL-3.0` `PHP/Docker`
+*   [FreeScout (⭐3.2k)](https://github.com/freescout-helpdesk/freescout) - Open source clone of Help Scout: email-based customer support application, help desk and shared mailbox. `AGPL-3.0` `PHP/Docker`
 
 ## [2. Awesome Ethereum](/content/ttumiel/Awesome-Ethereum/README.md)
 
@@ -29,27 +29,21 @@
 *   [accord (⭐24)](https://github.com/neovintage/accord) - Shareable validation library for Crystal Objects
 *   [validations (⭐13)](https://github.com/vladfaust/validations.cr) - Validations mixin
 
-## [4. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
+## [4. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
 
-### Job boards aggregators
-
-*   [JS Remotely](https://jsremotely.com/) - All remote JavaScript jobs on one board
-
-## [5. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
-
-### Philosophy
+### Philosophy / Commerical Tools
 
 *   [Life 3.0: Being Human in the Age of Artificial Intelligence](https://www.goodreads.com/book/show/34272565-life-3-0) - Max Tegmark, professor of Physics at MIT, discusses how Artificial Intelligence may affect crime, war, justice, jobs, society and our very sense of being human both in the near and far future.
 
-### Organizations
+### Organizations / Commerical Tools
 
 *   [Google DeepMind Research](https://deepmind.com/research/)
 
-### Misc
+### Misc / Commerical Tools
 
 *   [Artificial Intelligence Subreddit](https://www.reddit.com/r/artificial/)
 
-## [6. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
+## [5. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
 
 ### Source Code Repos
 
@@ -60,10 +54,6 @@
 
 *   [Bootstrap Studio](https://bootstrapstudio.io/pages/student-license) \[FREE] - IDE that creates responsive websites using the Bootstrap framework.
 
-### Email
-
-*   [Send Grid](https://sendgrid.com/partner/github-education) \[CREDIT] - Student plan 15K free emails/month (normally limited to 200 free emails/day) while you're a student available via [Github Student Developer Pack](https://education.github.com/pack).
-
 ### CI / CD
 
 *   [Travis CI](https://travis-ci.org) \[FREE] - Private builds (normally $69/month) while you're a student available via [Github Student Developer Pack](https://education.github.com/pack).
@@ -72,21 +62,13 @@
 
 *   [Stripe](https://stripe.com/) \[CREDIT] - Web and mobile payments, built for developers. Waived transaction fees on first $1,000 in revenue processed available via [Github Student Developer Pack](https://education.github.com/pack).
 
-### Management Systems
-
-*   [Bitnami](https://bitnami.com) \[FREE] - Install cloud applications in a single click. Business 3 plan (normally $49/month) for one year available via [Github Student Developer Pack](https://education.github.com/pack).
-
-### Localization
-
-*   [Transifex](https://www.transifex.com) \[FREE / CREDIT]- A localization platform for translating digital content. 1 Free Year worth $99/month available via [Github Student Developer Pack](https://education.github.com/pack).
-
-## [7. Awesome Web Design](/content/nicolesaidy/awesome-web-design/README.md)
+## [6. Awesome Web Design](/content/nicolesaidy/awesome-web-design/README.md)
 
 ### Design Tools
 
 *   [Framer X](https://framer.com/): Interaction Design and UX design software.
 
-## [8. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
+## [7. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
 ### Tracking / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
@@ -105,18 +87,18 @@
 *   [Hosts (⭐22k)](https://github.com/StevenBlack/hosts) - Consolidates several reputable hosts files, and merges them into a single unified one.
 *   [Blocklists (⭐4.5k)](https://github.com/jmdugan/blocklists) - Shared lists of problem domains people may want to block with hosts files.
 
-## [9. Awesome Ruby](/content/markets/awesome-ruby/README.md)
+## [8. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Pagination
 
-*   [Pagy (⭐4.5k)](https://github.com/ddnexus/pagy) - Pagy is the ultimate pagination gem that outperforms the others in each and every benchmark and comparison. More details can be found on [Pagy Wiki](https://ddnexus.github.io/pagy/index).
+*   [Pagy (⭐4.6k)](https://github.com/ddnexus/pagy) - Pagy is the ultimate pagination gem that outperforms the others in each and every benchmark and comparison. More details can be found on [Pagy Wiki](https://ddnexus.github.io/pagy/index).
 
-## [10. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+## [9. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Libraries / Chrome Extensions
 
 *   :octocat: [io-ts (⭐6.7k)](https://github.com/gcanti/io-ts) - Type validation at runtime
-*   :octocat: [fast-check (⭐4.2k)](https://github.com/dubzzz/fast-check) - Property based testing framework for TypeScript.
+*   :octocat: [fast-check (⭐4.4k)](https://github.com/dubzzz/fast-check) - Property based testing framework for TypeScript.
 
 ---
 

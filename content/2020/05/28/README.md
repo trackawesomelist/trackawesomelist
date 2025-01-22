@@ -1,6 +1,6 @@
 # Awesome List Updates on May 28, 2020
 
-16 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -36,7 +36,7 @@
 
 ### Tools / Dynamic Analysis Tools
 
-*   [Droidbox (⭐749)](https://github.com/pjlantz/droidbox)
+*   [Droidbox (⭐762)](https://github.com/pjlantz/droidbox)
 
 ## [3. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md)
 
@@ -56,18 +56,18 @@
 
 ### GTFS Validators / Ruby
 
-*   [GTFSVTOR (⭐27)](https://github.com/mecatran/gtfsvtor) - An open-source GTFS validator implemented in Java licensed under GPLv3 maintained by [Mecatran](https://www.mecatran.com/).
+*   [GTFSVTOR (⭐28)](https://github.com/mecatran/gtfsvtor) - An open-source GTFS validator implemented in Java licensed under GPLv3 maintained by [Mecatran](https://www.mecatran.com/).
 
 ## [5. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### UI
 
-*   [Animated Selection Slide (⭐369)](https://github.com/sbilketay/animated_selection_slide) An animated selection widget by swiping by [Sezgin Bilgetay](https://github.com/sbilketay).
-*   [Flutter Tags (⭐505)](https://github.com/Dn-a/flutter_tags) <!--stargazers:Dn-a/flutter_tags--> - Tags with different customizations by [Di Natale Antonino](https://github.com/Dn-a).
+*   [Animated Selection Slide (⭐372)](https://github.com/sbilketay/animated_selection_slide) An animated selection widget by swiping by [Sezgin Bilgetay](https://github.com/sbilketay).
+*   [Flutter Tags (⭐509)](https://github.com/Dn-a/flutter_tags) <!--stargazers:Dn-a/flutter_tags--> - Tags with different customizations by [Di Natale Antonino](https://github.com/Dn-a).
 
 ### Top / Game Engine resources
 
-*   [GitJournal (⭐3.4k)](https://github.com/GitJournal/GitJournal) <!--stargazers:GitJournal/GitJournal--> - Journaling your data in a Git Repo by [Vishesh Handa](https://github.com/vHanda)
+*   [GitJournal (⭐3.5k)](https://github.com/GitJournal/GitJournal) <!--stargazers:GitJournal/GitJournal--> - Journaling your data in a Git Repo by [Vishesh Handa](https://github.com/vHanda)
 
 ## [6. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
@@ -77,11 +77,11 @@
 
 ### Plugins / Libraries
 
-*   [jQuery (⭐31)](https://github.com/wikimedia/eslint-plugin-no-jquery) - Linting rules for jQuery, including versioned configs for deprecated features.
+*   [jQuery (⭐32)](https://github.com/wikimedia/eslint-plugin-no-jquery) - Linting rules for jQuery, including versioned configs for deprecated features.
 
 ### Plugins / Testing Tools
 
-*   [AVA (⭐227)](https://github.com/avajs/eslint-plugin-ava) - Linting rules for AVA.
+*   [AVA (⭐230)](https://github.com/avajs/eslint-plugin-ava) - Linting rules for AVA.
 
 ## [7. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
 
@@ -90,41 +90,35 @@
 *   [Deepfence Enterprise](https://deepfence.io) - Full life cycle Cloud Native Workload Protection platform for kubernetes, virtual machines and serverless.
 *   [Deepfence Threat Mapper (⭐2.3k)](https://github.com/deepfence/ThreatMapper) - Powerful runtime vulnerability scanner for kubernetes, virtual machines and serverless.
 
-## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / UI Components
-
-*   [vuesence-book (⭐52)](https://github.com/altrusl/vuesence-book) - Documentation/help system component.
-
-## [9. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [8. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Framework Components
 
-*   [surface (⭐2k)](https://github.com/msaraiva/surface) - A server-side rendering component library for Phoenix.
+*   [surface (⭐2.1k)](https://github.com/msaraiva/surface) - A server-side rendering component library for Phoenix.
 
 ### Queue
 
-*   [broadway (⭐2.4k)](https://github.com/dashbitco/broadway) - Concurrent and multi-stage data ingestion and data processing with Elixir.
+*   [broadway (⭐2.5k)](https://github.com/dashbitco/broadway) - Concurrent and multi-stage data ingestion and data processing with Elixir.
 
-## [10. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
+## [9. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 
 ### Development Tools
 
 *   [Paddle Quantum (⭐536)](https://github.com/PaddlePaddle/Quantum) - Baidu's python toolkit for quantum machine learning.
 
-## [11. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [10. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Component bundles
 
-*   [DevExpress Blazor UI Components (⭐379)](https://github.com/DevExpress/RazorComponents) - ![stars](https://img.shields.io/github/stars/DevExpress/RazorComponents?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/DevExpress/RazorComponents?style=flat-square\&cacheSeconds=86400) A set of native UI Blazor components (including a Data Grid, Pivot Grid, Scheduler, and Charts) for both Blazor server-side and Blazor client-side platforms.
+*   [DevExpress Blazor UI Components (⭐396)](https://github.com/DevExpress/RazorComponents) - ![stars](https://img.shields.io/github/stars/DevExpress/RazorComponents?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/DevExpress/RazorComponents?style=flat-square\&cacheSeconds=86400) A set of native UI Blazor components (including a Data Grid, Pivot Grid, Scheduler, and Charts) for both Blazor server-side and Blazor client-side platforms.
 
-## [12. Awesome Actions](/content/sdras/awesome-actions/README.md)
+## [11. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
 ### GitHub Tools and Management / Docker Container Actions
 
-*   [Expose Git Commit Data As Environment Variables (⭐34)](https://github.com/rlespinasse/git-commit-data-action)
+*   [Expose Git Commit Data As Environment Variables (⭐38)](https://github.com/rlespinasse/git-commit-data-action)
 
-## [13. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
+## [12. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
 ### Design Systems
 
@@ -134,7 +128,7 @@
 
 *   [Labs Talk - Web Components with Peter Muessig](https://labstalk.buzzsprout.com/993481/3932975-web-components-with-peter-muessig)
 
-## [14. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
+## [13. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
 ### Extensions
 
@@ -142,21 +136,21 @@
 
 ### Apps
 
-*   [Tottem (⭐969)](https://github.com/poulainv/tottem) - Bookmark manager on steroid built with NextJs / Auth0 / Apollo Tools / Prisma2
+*   [Tottem (⭐977)](https://github.com/poulainv/tottem) - Bookmark manager on steroid built with NextJs / Auth0 / Apollo Tools / Prisma2
 
-## [15. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
+## [14. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 
 ### Packages / Client libraries
 
 *   [ros2\_rust (⭐613)](https://github.com/ros2-rust/ros2_rust) - Rust bindings for ROS2. ![ros2\_rust](https://img.shields.io/github/stars/esteve/ros2_rust.svg)
 
-## [16. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/README.md)
+## [15. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/README.md)
 
 ### External Services
 
-*   [book-box (⭐17)](https://github.com/amorriscode/book-box) - Update a pinned gist to contain your latest reads from goodreads
+*   [book-box (⭐19)](https://github.com/amorriscode/book-box) - Update a pinned gist to contain your latest reads from goodreads
 *   [covid-box (⭐11)](https://github.com/puf17640/covid-box) - Update a gist to contain global or country specific coronavirus stats.
-*   [shortcut-box (⭐10)](https://github.com/artemnovichkov/shortcut-box) - Update a pinned gist to contain random IDE shortcut
+*   [shortcut-box (⭐11)](https://github.com/artemnovichkov/shortcut-box) - Update a pinned gist to contain random IDE shortcut
 *   [youtube-box (⭐8)](https://github.com/SinaKhalili/youtube-box) - Update a pinned gist to show your latest YouTube videos
 
 ---

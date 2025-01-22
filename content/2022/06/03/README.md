@@ -35,35 +35,31 @@
 
 ## [4. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
-### Software / Automation
-
-*   [betanin (⭐329)](https://github.com/sentriz/betanin) - Music organization man-in-the-middle of your torrent client and music player. Based on beets.io, similar to Sonarr and Radarr. `GPL-3.0` `Python/Docker`
-
 ### Software / Calendar & Contacts
 
-*   [Davis (⭐357)](https://github.com/tchapi/davis) - A simple, dockerizable and fully translatable admin interface for sabre/dav based on Symfony 5 and Bootstrap 4, largely inspired by Baïkal. `MIT` `PHP`
+*   [Davis (⭐417)](https://github.com/tchapi/davis) - A simple, dockerizable and fully translatable admin interface for sabre/dav based on Symfony 5 and Bootstrap 4, largely inspired by Baïkal. `MIT` `PHP`
 
 ### Software / Communication - Custom Communication Systems
 
-*   [Centrifugo](https://centrifugal.dev/) - Language-agnostic real-time messaging (Websocket or SockJS) server. ([Demo (⭐8.2k)](https://github.com/centrifugal/centrifugo#demo), [Source Code (⭐8.2k)](https://github.com/centrifugal/centrifugo)) `MIT` `Go/Docker/K8S`
+*   [Centrifugo](https://centrifugal.dev/) - Language-agnostic real-time messaging (Websocket or SockJS) server. ([Demo (⭐8.6k)](https://github.com/centrifugal/centrifugo#demo), [Source Code (⭐8.6k)](https://github.com/centrifugal/centrifugo)) `MIT` `Go/Docker/K8S`
 
 ### Software / Document Management
 
-*   [EveryDocs (⭐201)](https://github.com/jonashellmann/everydocs-core) - A simple Document Management System for private use with basic functionality to organize your documents digitally. `GPL-3.0` `Docker/Ruby`
+*   [EveryDocs (⭐231)](https://github.com/jonashellmann/everydocs-core) - A simple Document Management System for private use with basic functionality to organize your documents digitally. `GPL-3.0` `Docker/Ruby`
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [Black Candy (⭐1.2k)](https://github.com/blackcandy-org/black_candy) - Music streaming server built with Rails and Stimulus. `MIT` `Docker/Ruby`
+*   [Black Candy (⭐3.3k)](https://github.com/blackcandy-org/black_candy) - Music streaming server built with Rails and Stimulus. `MIT` `Docker/Ruby`
 
 ### Software / Miscellaneous
 
-*   [DOCAT (⭐786)](https://github.com/docat-org/docat) - Host your docs. Simple. Versioned. Fancy. `MIT` `Python/Docker`
+*   [DOCAT (⭐820)](https://github.com/docat-org/docat) - Host your docs. Simple. Versioned. Fancy. `MIT` `Python/Docker`
 
 ## [5. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Serialization
 
-*   [knbt (⭐71)](https://github.com/BenWoodworth/knbt) - Minecraft NBT support for kotlinx.serialization
+*   [knbt (⭐79)](https://github.com/BenWoodworth/knbt) - Minecraft NBT support for kotlinx.serialization
 
 ## [6. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md)
 
@@ -75,11 +71,11 @@
 
 ### Markup Languages
 
-*   [goldmark (⭐3.5k)](https://github.com/yuin/goldmark) - A Markdown parser written in Go. Easy to extend, standard (CommonMark) compliant, well structured.
+*   [goldmark (⭐3.8k)](https://github.com/yuin/goldmark) - A Markdown parser written in Go. Easy to extend, standard (CommonMark) compliant, well structured.
 
 ### Utilities
 
-*   [wifiqr (⭐260)](https://github.com/reugn/wifiqr) - Wi-Fi QR Code Generator.
+*   [wifiqr (⭐264)](https://github.com/reugn/wifiqr) - Wi-Fi QR Code Generator.
 
 ## [8. Awesome Ansible](/content/ansible-community/awesome-ansible/README.md)
 
@@ -97,7 +93,7 @@
 
 ### Applications / Web
 
-*   [Revolt/backend (⭐1.1k)](https://github.com/revoltchat/backend) - User-first chat platform built with modern web technologies.
+*   [Revolt/backend (⭐1.3k)](https://github.com/revoltchat/backend) - User-first chat platform built with modern web technologies.
 
 ### Development tools / Web Servers
 

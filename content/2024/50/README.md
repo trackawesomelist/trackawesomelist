@@ -26,7 +26,7 @@
 
 ### Software / Analytics
 
-*   [EDA (⭐122)](https://github.com/jortilles/EDA) - Web application for data analysis and visualization. `AGPL-3.0` `Nodejs/Docker`
+*   [EDA (⭐124)](https://github.com/jortilles/EDA) - Web application for data analysis and visualization. `AGPL-3.0` `Nodejs/Docker`
 
 ### Software / Media Streaming - Multimedia Streaming
 
@@ -34,7 +34,7 @@
 
 ### Software / Recipe Management
 
-*   [Bar Assistant](https://barassistant.app/) - Bar assistant is a self hosted application for managing your home bar. It allows you to add your ingredients, search for cocktails and create custom cocktail recipes. ([Demo](https://demo.barassistant.app/), [Source Code (⭐593)](https://github.com/karlomikus/bar-assistant)) `MIT` `PHP/Docker`
+*   [Bar Assistant](https://barassistant.app/) - Bar assistant is a self hosted application for managing your home bar. It allows you to add your ingredients, search for cocktails and create custom cocktail recipes. ([Demo](https://demo.barassistant.app/), [Source Code (⭐685)](https://github.com/karlomikus/bar-assistant)) `MIT` `PHP/Docker`
 
 ## [4. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
@@ -56,7 +56,7 @@
 
 ### Miscellaneous
 
-*   [tiny::optional (⭐107)](https://github.com/Sedeniono/tiny-optional/) - Replacement for std::optional that does not waste memory unnecessarily. \[BSL-1.0]
+*   [tiny::optional (⭐113)](https://github.com/Sedeniono/tiny-optional/) - Replacement for std::optional that does not waste memory unnecessarily. \[BSL-1.0]
 
 ## [7. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
@@ -68,21 +68,21 @@
 
 ### Networking
 
-*   [bart (⭐37)](https://github.com/gaissmai/bart) - Package bart provides a fast routing table algorithm.
+*   [bart (⭐45)](https://github.com/gaissmai/bart) - Package bart provides a fast routing table algorithm.
 
 ### Utilities
 
-*   [jet (⭐6)](https://github.com/NicoNex/jet) - Just Edit Text: a fast and powerful tool for finding and replacing file content and names using regular expressions.
+*   [jet (⭐11)](https://github.com/NicoNex/jet) - Just Edit Text: a fast and powerful tool for finding and replacing file content and names using regular expressions.
 
 ## [9. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Reading and Writing Tools / Ebooks
 
-*   [Readest (⭐298)](https://github.com/chrox/readest) - Readest is an ebook reader with cross-platform access, powerful tools, and an intuitive interface. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/chrox/readest) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Readest (⭐2.2k)](https://github.com/chrox/readest) - Readest is an ebook reader with cross-platform access, powerful tools, and an intuitive interface. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/chrox/readest) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / Menu Bar Tools
 
-*   [Peninsula (⭐221)](https://github.com/Celve/Peninsula) - Dynamic Peninsula for macOS, focusing on window switching, notifications, and file storage. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Celve/Peninsula) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Peninsula (⭐296)](https://github.com/Celve/Peninsula) - Dynamic Peninsula for macOS, focusing on window switching, notifications, and file storage. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Celve/Peninsula) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [10. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/week/README.md)
 
@@ -94,14 +94,6 @@
     *   [Quantization & Optimization](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/ft.md/#quantization-techniques)
     *   [Other Techniques](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/ft.md/#other-techniques-and-llm-patterns): e.g., MoE
     *   [Visual Prompting](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/prompt.md/#visual-prompting--visual-grounding)
-*   **Legend** 🔑:
-    *   `ref`: external URL
-    *   `doc`: archived doc
-    *   `cite`: the source of comments
-    *   `cnt`: number of citations
-    *   `git`: GitHub link
-    *   `x-ref`: Cross reference
-    *   📺: youtube or video
 
 ## [11. Awesome Acg](/content/soruly/awesome-acg/week/README.md)
 
@@ -119,7 +111,7 @@
 
 ### Web / Messaging
 
-*   [by-nir/aws-lambda-zig (⭐3)](https://github.com/by-nir/aws-lambda-zig) - Super-fast AWS Lambda runtime for Zig.
+*   [by-nir/aws-lambda-zig (⭐5)](https://github.com/by-nir/aws-lambda-zig) - Super-fast AWS Lambda runtime for Zig.
 
 ## [14. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
 
@@ -131,7 +123,7 @@
 
 ### Examples
 
-*   [gitroomhq/postiz-app (⭐14k)](https://github.com/gitroomhq/postiz-app#readme) - Clear description. Project Logo. Motion graphic video, explanatory gifs.
+*   [gitroomhq/postiz-app (⭐18k)](https://github.com/gitroomhq/postiz-app#readme) - Clear description. Project Logo. Motion graphic video, explanatory gifs.
 
 ## [16. Awesome Mysql](/content/shlomi-noach/awesome-mysql/week/README.md)
 
@@ -143,7 +135,7 @@
 
 ### Libraries/Packages/Scripts / Polars plugins
 
-*   [polars-h3 (⭐9)](https://github.com/Filimoa/polars-h3) - Efficient hexagonal indexing for large-scale geospatial analysis by [@Filimoa](https://github.com/Filimoa).
+*   [polars-h3 (⭐42)](https://github.com/Filimoa/polars-h3) - Efficient hexagonal indexing for large-scale geospatial analysis by [@Filimoa](https://github.com/Filimoa).
 
 ## [18. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
@@ -153,49 +145,13 @@
 
 ## [19. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
-### Projects / API Management
-
-*   [Gravitee.io API Management (⭐205) (⭐199)](https://github.com/gravitee-io/gravitee-api-management) - A flexible, lightweight, and open-source API management solution that provides comprehensive API management capabilities and helps you manage your APIs with ease.
-*   [WSO2 API Manager (⭐859) (⭐857)](https://github.com/wso2/product-apim) - A fully open-source API management platform that provides comprehensive API management capabilities and allows you to manage APIs with ease.
-
-### Projects / API Design
-
-*   [OpenAPI Diff (⭐841) (⭐837)](https://github.com/OpenAPITools/openapi-diff) - Compare OpenAPI specs with version control and visualize the differences in HTML or Markdown format.
-*   [Zally (⭐914) (⭐908)](https://github.com/zalando/zally) - Ensure the quality of your OpenAPI specs with this linter tool that provides extensive analysis and feedback.
-
-### Projects / API Documentation
-
-*   [DapperDox (⭐410) (⭐409)](https://github.com/DapperDox/dapperdox) - An open-source API documentation generator and server for OpenAPI/Swagger specifications, with customizable documentation, automated updates, and easy sharing.
-*   [OpenAPI Explorer (⭐317) (⭐316)](https://github.com/Rhosys/openapi-explorer) - A tool for generating user interfaces from OpenAPI specifications, making it easier for software engineers to visualize and interact with APIs.
-
-### Projects / API Gateway
-
-*   [Gloo Edge (⭐15) (⭐10)](https://github.com/solo-io/gloo) - An Envoy Proxy-based API Gateway that provides advanced traffic management, security, and observability features for modern microservices architectures.
-
-### Projects / BRE
-
-*   [OpenL Tablets (⭐159) (⭐157)](https://github.com/openl-tablets/openl-tablets) - Open-source business rules engine (BRE, BRMS) and decision management system that allows users to define, manage, and execute business rules and decision tables.
-
-### Projects / Data Mapping Solution
-
-*   [JSLT (⭐639) (⭐638)](https://github.com/schibsted/jslt) - A complete query and transformation language for JSON that is inspired by jq, XPath, and XQuery. With JSLT, software engineers can quickly and easily transform JSON data to meet their needs.
-
 ### Projects / Integration Frameworks
 
-*   [Apache Camel (⭐5.6k) (⭐5.6k)](https://github.com/apache/camel) - A powerful integration framework that uses Enterprise Integration Patterns to connect and unify different transport APIs.
+*   [Apache Camel (⭐5.6k) (⭐5.7k)](https://github.com/apache/camel) - A powerful integration framework that uses Enterprise Integration Patterns to connect and unify different transport APIs.
 
 ### Projects / Messaging
 
 *   [Apache Kafka (⭐29k) (⭐29k)](https://github.com/apache/kafka) - A distributed messaging system designed for high-throughput and fault-tolerance. Enables real-time data processing and stream processing applications with its distributed architecture and efficient data storage.
-
-### Projects / Workflow engine
-
-*   [Elsa Core (⭐6.6k) (⭐6.6k)](https://github.com/elsa-workflows/elsa-core) - A library that enables workflow execution in any .NET Core application, making it easier to automate business processes in .NET environments.
-
-### Resources / Data Formats
-
-*   [NDJSON (⭐688) (⭐686)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
-*   [YAML (⭐352) (⭐349)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
 ## [20. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/week/README.md)
 
@@ -208,7 +164,7 @@
 
 ### Plugins and scripts / Godot 4
 
-*   [NobodyWho (⭐29)](https://github.com/nobodywho-ooo/nobodywho) - Local large language models (LLMs) for "AI-powered" NPC dialogue.
+*   [NobodyWho (⭐118)](https://github.com/nobodywho-ooo/nobodywho) - Local large language models (LLMs) for "AI-powered" NPC dialogue.
 
 ## [22. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
 
@@ -252,20 +208,20 @@
 
 ### AI / Diagnostics
 
-*   [supermaven-inc/supermaven-nvim (⭐776)](https://github.com/supermaven-inc/supermaven-nvim) - The fastest copilot, brought to you by [Supermaven](https://supermaven.com/).
+*   [supermaven-inc/supermaven-nvim (⭐834)](https://github.com/supermaven-inc/supermaven-nvim) - The fastest copilot, brought to you by [Supermaven](https://supermaven.com/).
 
 ### Programming Languages Support / Diagnostics
 
-*   [nvim-java/nvim-java (⭐945)](https://github.com/nvim-java/nvim-java) - Everything you need for a painless Java experience.
+*   [nvim-java/nvim-java (⭐1k)](https://github.com/nvim-java/nvim-java) - Everything you need for a painless Java experience.
 
 ### Motion / Diagnostics
 
-*   [DanilaMihailov/beacon.nvim (⭐386)](https://github.com/DanilaMihailov/beacon.nvim) - Highlights cursor when it moves, changes windows and more. Inspired by Emacs beacon package.
-*   [Aaronik/Treewalker.nvim (⭐2)](https://github.com/aaronik/Treewalker.nvim) - Move seamlessly around the abstract syntax tree.
+*   [DanilaMihailov/beacon.nvim (⭐416)](https://github.com/DanilaMihailov/beacon.nvim) - Highlights cursor when it moves, changes windows and more. Inspired by Emacs beacon package.
+*   [Aaronik/Treewalker.nvim (⭐329)](https://github.com/aaronik/Treewalker.nvim) - Move seamlessly around the abstract syntax tree.
 
 ### Game / Diagnostics
 
-*   [csessh/aoc.vim (⭐3)](https://github.com/csessh/aoc.nvim) - Simple little elf who fetches Advent of Code puzzle input for you.
+*   [csessh/aoc.vim (⭐4)](https://github.com/csessh/aoc.nvim) - Simple little elf who fetches Advent of Code puzzle input for you.
 
 ## [26. Awesome V](/content/vlang/awesome-v/week/README.md)
 
@@ -307,7 +263,7 @@
 
 ### Tools / Dynamic Analysis Tools
 
-*   [friTap (⭐292)](https://github.com/fkie-cad/friTap)- - Intercept SSL/TLS connections with Frida; Allows TLS key extraction and decryption of TLS payload as PCAP on Android in real-time.
+*   [friTap (⭐309)](https://github.com/fkie-cad/friTap)- - Intercept SSL/TLS connections with Frida; Allows TLS key extraction and decryption of TLS payload as PCAP on Android in real-time.
 
 ### Exploits/Vulnerabilities/Bugs / Malware
 
@@ -324,11 +280,11 @@
 
 ### Tools
 
-*   [rope (⭐5)](https://github.com/garlic0x1/rope) -  Immutable Ropes for Common Lisp. MIT.
+*   [rope (⭐6)](https://github.com/garlic0x1/rope) -  Immutable Ropes for Common Lisp. MIT.
 
 ### Iteration
 
-*   [cl-transducers](https://codeberg.org/fosskers/cl-transducers) - Ergonomic, efficient data processing. [LGPL3](https://www.gnu.org/licenses/lgpl-3.0.en.html). ([GitHub mirror (⭐110)](https://github.com/fosskers/cl-transducers))
+*   [cl-transducers](https://codeberg.org/fosskers/cl-transducers) - Ergonomic, efficient data processing. [LGPL3](https://www.gnu.org/licenses/lgpl-3.0.en.html). ([GitHub mirror (⭐117)](https://github.com/fosskers/cl-transducers))
     *   "Transducers are an ergonomic and extremely memory-efficient way to process a data source. Here “data source” means simple collections like Lists or Vectors, but also potentially large files or generators of infinite data."
     *   "It is, in general, the most complete implementation of the Transducer pattern."
     *   a "modern" API with `map`, `filter`, `take`, `repeat`, `cycle`, `fold`…
@@ -344,9 +300,9 @@
 
 ### Others / Third-party APIs
 
-*   [numericals (⭐50)](https://github.com/digikar99/numericals) -  SIMD powered simple-math numerical operations on arrays for Common Lisp through CFFI \[still experimental]. MIT.
+*   [numericals (⭐51)](https://github.com/digikar99/numericals) -  SIMD powered simple-math numerical operations on arrays for Common Lisp through CFFI \[still experimental]. MIT.
     *   documentation: <https://digikar99.github.io/numericals/>
-*   [dense-arrays (⭐24)](https://github.com/digikar99/dense-arrays) -  Numpy like array object for common lisp. MIT.
+*   [dense-arrays (⭐25)](https://github.com/digikar99/dense-arrays) -  Numpy like array object for common lisp. MIT.
 
 ## [34. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
@@ -358,23 +314,23 @@
 
 ### Applications / Database
 
-*   [Hiqlite (⭐51)](https://github.com/sebadob/hiqlite) - highly-available, embeddable, raft-based SQLite + cache
+*   [Hiqlite (⭐75)](https://github.com/sebadob/hiqlite) - highly-available, embeddable, raft-based SQLite + cache
 
 ### Applications / Message Queue
 
-*   [Rocketmq-Rust (⭐779)](https://github.com/mxsm/rocketmq-rust) - 🚀Apache RocketMQ build in Rust🦀. Faster, safer, and with lower memory usage.
+*   [Rocketmq-Rust (⭐885)](https://github.com/mxsm/rocketmq-rust) - 🚀Apache RocketMQ build in Rust🦀. Faster, safer, and with lower memory usage.
 
 ### Applications / Web
 
-*   [Redlib (⭐1.4k)](https://github.com/redlib-org/redlib) - An alternative private front-end to Reddit, with its origins in [Libreddit (⭐5k)](https://github.com/libreddit/libreddit)
+*   [Redlib (⭐1.6k)](https://github.com/redlib-org/redlib) - An alternative private front-end to Reddit, with its origins in [Libreddit (⭐5.1k)](https://github.com/libreddit/libreddit)
 
 ### Libraries / Date and time
 
-*   [burntSushi/jiff (⭐1.8k)](https://github.com/BurntSushi/jiff) - A date-time library for Rust that encourages you to jump into the pit of success. [![Build status](https://github.com/BurntSushi/jiff/workflows/ci/badge.svg)](https://github.com/BurntSushi/jiff/actions)
+*   [burntSushi/jiff (⭐1.9k)](https://github.com/BurntSushi/jiff) - A date-time library for Rust that encourages you to jump into the pit of success. [![Build status](https://github.com/BurntSushi/jiff/workflows/ci/badge.svg)](https://github.com/BurntSushi/jiff/actions)
 
 ### Libraries / Scripting
 
-*   [facebook/starlark-rust (⭐729)](https://github.com/facebook/starlark-rust) - A small, deterministic, thread-safe language with Python syntax
+*   [facebook/starlark-rust (⭐748)](https://github.com/facebook/starlark-rust) - A small, deterministic, thread-safe language with Python syntax
 
 ## [36. Awesome Design Systems](/content/alexpate/awesome-design-systems/week/README.md)
 
@@ -397,7 +353,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐248)](https://github.com/GouvernementFR/dsfr)
+  Source code \*: [:octocat: (⭐254)](https://github.com/GouvernementFR/dsfr)
 
 
 - : [Just Eat Takeaway.com PIE Design System](https://pie.design/)
@@ -454,12 +410,12 @@
 
 ### Third-Party Packages / Admin Themes
 
-*   [django-daisy (⭐68)](https://github.com/hypy13/django-daisy) - A modern django dashboard fully responsive built with daisyui.
+*   [django-daisy (⭐134)](https://github.com/hypy13/django-daisy) - A modern django dashboard fully responsive built with daisyui.
 *   [django-admin-dracula (⭐51)](https://github.com/sjbitcode/django-admin-dracula) - 🦇 Dracula themes for the Django admin.
 
 ### Third-Party Packages / Performance
 
-*   [django-zeal (⭐112)](https://github.com/taobojlen/django-zeal) - Detect N+1 queries with user-friendly error messages
+*   [django-zeal (⭐122)](https://github.com/taobojlen/django-zeal) - Detect N+1 queries with user-friendly error messages
 
 ### Third-Party Packages / Templates
 
@@ -476,7 +432,7 @@
 
 ### Large Language Models (LLMs)
 
-*   [mendableai/firecrawl (⭐19k)](https://github.com/mendableai/firecrawl): Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
+*   [mendableai/firecrawl (⭐22k)](https://github.com/mendableai/firecrawl): Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
 
 ## [41. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
@@ -516,7 +472,7 @@
 
 ### DOM / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-speculative-link (⭐5)](https://github.com/push-based/ngx-speculative-link) - An Angular implementation of [Speculative Rules API](https://developer.mozilla.org/en-US/docs/Web/API/Speculation_Rules_API) inspired by [quicklink (⭐11k)](https://github.com/GoogleChromeLabs/quicklink) and ngx-quicklink.
+*   [ngx-speculative-link (⭐8)](https://github.com/push-based/ngx-speculative-link) - An Angular implementation of [Speculative Rules API](https://developer.mozilla.org/en-US/docs/Web/API/Speculation_Rules_API) inspired by [quicklink (⭐11k)](https://github.com/GoogleChromeLabs/quicklink) and ngx-quicklink.
 
 ### General / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -529,19 +485,19 @@
 
 ### Images / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-smart-cropper (⭐1)](https://github.com/kurti-vdb/ngx-smart-cropper) - Angular standalone component that allows users to upload, crop, and resize images with ease. It provides intuitive drag-and-resize functionality, grid overlays, and supports various aspect ratios and output formats.
+*   [ngx-smart-cropper (⭐3)](https://github.com/kurti-vdb/ngx-smart-cropper) - Angular standalone component that allows users to upload, crop, and resize images with ease. It provides intuitive drag-and-resize functionality, grid overlays, and supports various aspect ratios and output formats.
 
 ### Loaders / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [skeletonizer (⭐4)](https://github.com/lukaVarga/skeletonizer) - A lightweight package that provides a simple way to create skeletonized views for your application. It has adapters for Vue and Angular and is highly customizable and easy to use.
+*   [skeletonizer (⭐5)](https://github.com/lukaVarga/skeletonizer) - A lightweight package that provides a simple way to create skeletonized views for your application. It has adapters for Vue and Angular and is highly customizable and easy to use.
 
 ### Modals / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-dialog (⭐2)](https://github.com/soc221b/ngx-dialog) - Type-safe Angular Dialogs Directive for Angular 16+.
+*   [ngx-dialog (⭐1)](https://github.com/soc221b/ngx-dialog) - Type-safe Angular Dialogs Directive for Angular 16+.
 
 ### QR Codes / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [Angular-html5qrcode (⭐2)](https://github.com/mohamedfakhreldin/Angular-html5qrcode) - This library provides an Angular wrapper for the [html5-qrcode (⭐5.1k)](https://github.com/mebjas/html5-qrcode) library, allowing developers to easily integrate QR code and barcode scanning functionalities into their applications.
+*   [Angular-html5qrcode (⭐2)](https://github.com/mohamedfakhreldin/Angular-html5qrcode) - This library provides an Angular wrapper for the [html5-qrcode (⭐5.2k)](https://github.com/mebjas/html5-qrcode) library, allowing developers to easily integrate QR code and barcode scanning functionalities into their applications.
 
 ### NgRx / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -567,4 +523,5 @@
 
 ---
 
+- Prev: [Dec 16 - Dec 22, 2024](/content/2024/51/README.md)
 - Next: [Dec 02 - Dec 08, 2024](/content/2024/49/README.md)

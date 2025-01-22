@@ -14,7 +14,7 @@
 
 ### Scripts / Privacy
 
-*   [Autoclear ChatGPT History (⭐40)](https://github.com/adamlui/autoclear-chatgpt-history/tree/main/greasemonkey) - Auto-clears chat history when visiting chat.openai.com for maximum privacy.
+*   [Autoclear ChatGPT History (⭐47)](https://github.com/adamlui/autoclear-chatgpt-history/tree/main/greasemonkey) - Auto-clears chat history when visiting chat.openai.com for maximum privacy.
 
 ### Tutorials / YouTube
 
@@ -43,11 +43,11 @@
 
 ### (requires Neovim 0.5)
 
-*   [SmiteshP/nvim-navbuddy (⭐756)](https://github.com/SmiteshP/nvim-navbuddy) - A simple popup display that provides breadcrumbs like navigation features using LSP.
+*   [SmiteshP/nvim-navbuddy (⭐819)](https://github.com/SmiteshP/nvim-navbuddy) - A simple popup display that provides breadcrumbs like navigation features using LSP.
 
 ### Utility / Diagnostics
 
-*   [nvim-early-retirement (⭐170)](https://github.com/chrisgrieser/nvim-early-retirement) - Send buffers into early retirement by automatically closing them after x minutes of inactivity.
+*   [nvim-early-retirement (⭐190)](https://github.com/chrisgrieser/nvim-early-retirement) - Send buffers into early retirement by automatically closing them after x minutes of inactivity.
 
 ## [4. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 

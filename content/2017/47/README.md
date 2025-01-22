@@ -163,8 +163,6 @@
 *   [Introducing Plotly Dash](https://medium.com/@plotlygraphs/introducing-dash-5ecf7191b503) - A high level introduction to Dash by Chris Parmer, the author of Dash. This essay was released as part of Dash's official launch (June 21, 2017).
 *   [Interactive Web-Based Dashboards in Python](https://alysivji.github.io/reactive-dashboards-with-dash.html) - How the MVC model pertains to Dash and a walkthrough of building an app.
 *   [OPS CodeDay: Dash Plotly Map + Graph](https://radumas.info/blog/tutorial/2017/08/10/codeday.html) - How to use Jupyter notebooks in tandom with Dash to create mapping viz.
-*   [Creating Interactive Visualizations with Plotly’s Dash Framework](http://pbpython.com/plotly-dash-intro.html) - High level overview of how to get started with Dash.
-*   [Visualize Earthquakes with Plotly Dash](https://www.giacomodebidda.com/visualize-earthquakes-with-plotly-dash/) - Environmental scan of alternatives to Dash followed with a tutorial.
 
 ### Contributors
 
@@ -186,7 +184,7 @@ Topics: Microservices, PHP, JavaScript, Docker\
 
 ### Misc
 
-*   [XcodeGen (⭐6.9k)](https://github.com/yonaskolb/XcodeGen) - Tool for generating Xcode projects from a YAML file and your project directory.
+*   [XcodeGen (⭐7.1k)](https://github.com/yonaskolb/XcodeGen) - Tool for generating Xcode projects from a YAML file and your project directory.
 
 ### Events
 
@@ -196,7 +194,7 @@ Topics: Microservices, PHP, JavaScript, Docker\
 
 ### Configuration
 
-*   [habitat (⭐83)](https://github.com/luckyframework/habitat) - Type safe configuration for your classes and modules
+*   [habitat (⭐84)](https://github.com/luckyframework/habitat) - Type safe configuration for your classes and modules
 
 ### Web Frameworks
 
@@ -210,17 +208,13 @@ Topics: Microservices, PHP, JavaScript, Docker\
 
 ### Mathematics
 
-*   [AutoDiff (⭐89)](https://github.com/alexshtf/autodiff) - AutoDiff is a library for quickly computing gradients of functions defined by expressions. Mainly useful in numerical optimization
+*   [AutoDiff (⭐94)](https://github.com/alexshtf/autodiff) - AutoDiff is a library for quickly computing gradients of functions defined by expressions. Mainly useful in numerical optimization
 
 ## [21. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
 *   [Vue2 ACL using CASL](https://medium.com/@sergiy.stotskiy/vue-acl-with-casl-781a374b987a) by Sergii Stotskyi
-
-### Projects Using Vue.js / Open Source
-
-*   [Coypu (⭐103)](https://github.com/bkzl/coypu) - Text-editor-like weekly planner
 
 ## [22. Bots](/content/hackerkid/bots/week/README.md)
 
@@ -298,6 +292,8 @@ Topics: Microservices, PHP, JavaScript, Docker\
 ### Miscellaneous
 
 *   [McCLIM](https://common-lisp.net/project/mcclim/) - An implementation of the Common Lisp Interface Manager, version II. [GNU LGPL2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html).
+    *   example project: a Lem editor CLIM interface: [discussion (⭐2.5k)](https://github.com/lem-project/lem/discussions/1311#discussioncomment-10203860), [screenshot](https://framapiaf.org/@frescosecco@mastodon.social/112909105163460836).
+    *   [Anathema](https://codeberg.org/contrapunctus/anathema), a theme library for McCLIM applications. Unlicense.
 
 ### Beginner
 
@@ -305,7 +301,7 @@ Topics: Microservices, PHP, JavaScript, Docker\
 
 ### Apps / Third-party APIs
 
-*   [montezuma (⭐46)](https://github.com/sharplispers/montezuma/) -  Full-text indexing and search for Common Lisp. [Expat](https://directory.fsf.org/wiki/License:Expat).
+*   [montezuma (⭐47)](https://github.com/sharplispers/montezuma/) -  Full-text indexing and search for Common Lisp. [Expat](https://directory.fsf.org/wiki/License:Expat).
 *   [mk-string-metrics (⭐22)](https://github.com/cbaggers/mk-string-metrics) -
     Calculate various string metrics efficiently in Common Lisp
     (Damerau-Levenshtein, Hamming, Jaro, Jaro-Winkler, Levenshtein,
@@ -373,25 +369,25 @@ See [https://github.com/otobrglez/awesome-workplaces-slovenia (⭐95)](https://g
 
 ### Parallel computing / XML
 
-*   [DCompute (⭐131)](https://github.com/libmir/dcompute) - [GPGPU with Native D for OpenCL and CUDA](https://dlang.org/blog/2017/07/17/dcompute-gpgpu-with-native-d-for-opencl-and-cuda/)
+*   [DCompute (⭐134)](https://github.com/libmir/dcompute) - [GPGPU with Native D for OpenCL and CUDA](https://dlang.org/blog/2017/07/17/dcompute-gpgpu-with-native-d-for-opencl-and-cuda/)
 *   [DerelictCUDA (⭐17)](https://github.com/DerelictOrg/DerelictCUDA) - Dynamic bindings to the CUDA library for the D Programming Language.
-*   [DerelictCL (⭐8)](https://github.com/DerelictOrg/DerelictCL) - Dynamic bindings to the OpenCL library for the D Programming Language.
+*   [DerelictCL (⭐7)](https://github.com/DerelictOrg/DerelictCL) - Dynamic bindings to the OpenCL library for the D Programming Language.
 
 ## [36. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Geolocation
 
-*   [geocoder (⭐122)](https://github.com/knrz/geocoder) - A simple, efficient geocoder/reverse geocoder with a built-in cache.
+*   [geocoder (⭐125)](https://github.com/knrz/geocoder) - A simple, efficient geocoder/reverse geocoder with a built-in cache.
 
 ### Testing
 
-*   [mockery (⭐91)](https://github.com/appunite/mockery) - Simple mocking library for asynchronous testing.
+*   [mockery (⭐92)](https://github.com/appunite/mockery) - Simple mocking library for asynchronous testing.
 
 ## [37. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### Design
 
-*   [API-Security-Checklist (⭐22k)](https://github.com/shieldfy/API-Security-Checklist) - Best practices about REST API security
+*   [API-Security-Checklist (⭐23k)](https://github.com/shieldfy/API-Security-Checklist) - Best practices about REST API security
 
 ## [38. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
@@ -409,8 +405,8 @@ See [https://github.com/otobrglez/awesome-workplaces-slovenia (⭐95)](https://g
 
 ### Tools
 
-*   [AWX (⭐13k)](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is the upstream project for Automation Controller, a commercial derivative of AWX.
-*   [Ansible cmdb (⭐2.3k)](https://github.com/fboender/ansible-cmdb) - Takes the output of Ansible's fact gathering and converts it into a static HTML page.
+*   [AWX (⭐14k)](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is the upstream project for Automation Controller, a commercial derivative of AWX.
+*   [Ansible cmdb (⭐2.4k)](https://github.com/fboender/ansible-cmdb) - Takes the output of Ansible's fact gathering and converts it into a static HTML page.
 
 ### Blog posts and opinions
 
@@ -446,7 +442,7 @@ See [https://github.com/otobrglez/awesome-workplaces-slovenia (⭐95)](https://g
 
 ### Localization
 
-*   [it\_IT (⭐16)](https://github.com/mageplaza/magento-2-italian-language-pack) :it: - Italian Language.
+*   [it\_IT (⭐15)](https://github.com/mageplaza/magento-2-italian-language-pack) :it: - Italian Language.
 
 ### List of trustworthy Extension Developers / Progressive Web Application
 
@@ -457,17 +453,17 @@ See [https://github.com/otobrglez/awesome-workplaces-slovenia (⭐95)](https://g
 
 ### Math
 
-*   [OpenBLAS (⭐6.2k)](https://github.com/xianyi/OpenBLAS) - An optimized BLAS library based on GotoBLAS2 1.13 BSD version. \[BSD 3-clause] [website](http://www.openblas.net/)
+*   [OpenBLAS (⭐6.5k)](https://github.com/xianyi/OpenBLAS) - An optimized BLAS library based on GotoBLAS2 1.13 BSD version. \[BSD 3-clause] [website](http://www.openblas.net/)
 
 ### Multimedia
 
-*   [MediaInfoLib (⭐627)](https://github.com/MediaArea/MediaInfoLib) - Convenient unified display of the most relevant technical and tag data for video and audio files. \[BSD]
+*   [MediaInfoLib (⭐657)](https://github.com/MediaArea/MediaInfoLib) - Convenient unified display of the most relevant technical and tag data for video and audio files. \[BSD]
 
 ## [46. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
 
 ### Exploits/Vulnerabilities/Bugs / How to report Security issues
 
-*   [Android Reports and Resources (⭐1.4k)](https://github.com/B3nac/Android-Reports-and-Resources) - List of Android Hackerone disclosed reports and other resources
+*   [Android Reports and Resources (⭐1.5k)](https://github.com/B3nac/Android-Reports-and-Resources) - List of Android Hackerone disclosed reports and other resources
 
 ## [47. Awesome Uncopyright](/content/johnjago/awesome-uncopyright/week/README.md)
 

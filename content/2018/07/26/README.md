@@ -54,7 +54,7 @@
 
 ### Tools
 
-*   [Dva Cli (⭐969)](https://github.com/dvajs/dva-cli) - Create Ant Design projects based on [Dva.js (⭐16k)](https://github.com/dvajs/dva), a
+*   [Dva Cli (⭐964)](https://github.com/dvajs/dva-cli) - Create Ant Design projects based on [Dva.js (⭐16k)](https://github.com/dvajs/dva), a
     lightweight front-end framework based on Redux and React and inspired by [Elm](http://elm-lang.org) and [Choo (⭐6.8k)](https://github.com/yoshuawuyts/choo).
 
 ### Components / Themes

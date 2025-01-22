@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 17, 2021
 
-9 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -31,28 +31,28 @@
 
 ### Apps / Automated translation
 
-*   [LibreTranslate (⭐8.1k)](https://github.com/uav4geo/LibreTranslate) - 100% Self-Hosted web app to translate text, based on Argos Translate.
+*   [LibreTranslate (⭐8.4k)](https://github.com/uav4geo/LibreTranslate) - 100% Self-Hosted web app to translate text, based on Argos Translate.
 
 ### Apps / Translation software
 
-*   [Argos Translate (⭐3.6k)](https://github.com/argosopentech/argos-translate) - Completely open source offline translation app written in Python and based on OpenNMT. It can also be used as a Python library.
+*   [Argos Translate (⭐3.7k)](https://github.com/argosopentech/argos-translate) - Completely open source offline translation app written in Python and based on OpenNMT. It can also be used as a Python library.
 
 ## [3. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
 ### Developer Tools / Other Tools
 
-*   [FastAPI Profiler (⭐223)](https://github.com/sunhailin-Leo/fastapi_profiler) - A FastAPI Middleware of joerick/pyinstrument to check your service performance.
+*   [FastAPI Profiler (⭐245)](https://github.com/sunhailin-Leo/fastapi_profiler) - A FastAPI Middleware of joerick/pyinstrument to check your service performance.
 
 ### Utils / Other Tools
 
-*   [FastAPI Limiter (⭐461)](https://github.com/long2ice/fastapi-limiter) - A request rate limiter for FastAPI.
-*   [FastAPI Pagination (⭐1.1k)](https://github.com/uriyyo/fastapi-pagination) - Pagination for FastAPI.
+*   [FastAPI Limiter (⭐522)](https://github.com/long2ice/fastapi-limiter) - A request rate limiter for FastAPI.
+*   [FastAPI Pagination (⭐1.2k)](https://github.com/uriyyo/fastapi-pagination) - Pagination for FastAPI.
 
 ## [4. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Front-End Development
 
-*   [Design systems (⭐699)](https://github.com/klaufel/awesome-design-systems#readme) - Collection of reusable components, guided by rules that ensure consistency and speed.
+*   [Design systems (⭐727)](https://github.com/klaufel/awesome-design-systems#readme) - Collection of reusable components, guided by rules that ensure consistency and speed.
 
 ## [5. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
@@ -60,28 +60,16 @@
 
 *   [paginated (⭐21)](https://github.com/makotot/paginated) - React render props & custom hook to build pagination.
 
-## [6. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
-
-### SaaS
-
-*   [Twilio](https://www.twilio.com/blog/twilio-perks-students-and-educators-now-available-github-education)\[CREDIT] - Free $50 USD in Twilio API credits & Exclusive in-game items in TwilioQuest for student via [Github Student Developer Pack](https://education.github.com/pack).
-
-## [7. Awesome Elm](/content/sporto/awesome-elm/README.md)
+## [6. Awesome Elm](/content/sporto/awesome-elm/README.md)
 
 ### Learning Guides
 
 *   [Elm patterns](https://sporto.github.io/elm-patterns/) - A collection of coding patterns.
-*   [Codings hints (⭐7.5k)](https://github.com/elm/compiler/tree/master/hints) - A list of README files by Evan.
+*   [Codings hints (⭐7.6k)](https://github.com/elm/compiler/tree/master/hints) - A list of README files by Evan.
 *   [Ellies catalog](https://janiczek-ellies.builtwithdark.com/) - A Collection of small example in Ellie.
 *   [Elm Cookbook](https://orasund.gitbook.io/elm-cookbook/) - A digital book about Elm.
 
-## [8. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
-
-### Studies
-
-*   [JavaScript Frameworks Performance Comparison](https://medium.com/javascript-in-plain-english/javascript-frameworks-performance-comparison-2020-cd881ac21fce) - Performance of Svelte and other top javascript frameworks.
-
-## [9. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
+## [7. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
 ### Tools / Others
 

@@ -10,13 +10,13 @@
 
 ### Utility / Docker Container Actions
 
-*   [GitHub Actions for Python project with pyenv (⭐18)](https://github.com/gabrielfalcao/pyenv-action)
+*   [GitHub Actions for Python project with pyenv (⭐39)](https://github.com/gabrielfalcao/pyenv-action)
 
 ## [2. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
 ### Distributions / Zabbix
 
-*   [dbatools (⭐2.4k)](https://github.com/sqlcollaborative/dbatools) - PowerShell module that you may think of like a command-line SQL Server Management Studio.
+*   [dbatools (⭐2.5k)](https://github.com/sqlcollaborative/dbatools) - PowerShell module that you may think of like a command-line SQL Server Management Studio.
 
 ## [3. Awesome Programming for Kids](/content/HollyAdele/awesome-programming-for-kids/README.md)
 
@@ -33,20 +33,20 @@
 
 ### Plugins / Practices and Specific ES Features
 
-*   [no-restricted-syntax (⭐4)](https://github.com/brettz9/eslint-plugin-query) - Show queried syntax's content in messages.
-*   [sort-keys-fix (⭐95)](https://github.com/leo-buneev/eslint-plugin-sort-keys-fix) - Adds fixer for ESLint `sort-keys` rule.
+*   [no-restricted-syntax (⭐5)](https://github.com/brettz9/eslint-plugin-query) - Show queried syntax's content in messages.
+*   [sort-keys-fix (⭐97)](https://github.com/leo-buneev/eslint-plugin-sort-keys-fix) - Adds fixer for ESLint `sort-keys` rule.
 
 ### Plugins / Testing Tools
 
 *   Chai
     *   [expect practices (⭐27)](https://github.com/turbo87/eslint-plugin-chai-expect)
-    *   [with unused expressions (⭐51)](https://github.com/ihordiachenko/eslint-plugin-chai-friendly)
+    *   [with unused expressions (⭐53)](https://github.com/ihordiachenko/eslint-plugin-chai-friendly)
     *   [permitted keywords (⭐1)](https://github.com/gavinaiken/eslint-plugin-chai-expect-keywords)
     *   [with chai-as-promised plugin (⭐4)](https://github.com/fintechstudios/eslint-plugin-chai-as-promised)
     <!-- lint disable double-link -->
     *   [globals (⭐2)](https://github.com/t-huth/eslint-plugin-chai-assert-bdd)
 *   Mocha
-    *   [Enforcing practices (⭐276)](https://github.com/lo1tuma/eslint-plugin-mocha) - Linting rules for Mocha.
+    *   [Enforcing practices (⭐280)](https://github.com/lo1tuma/eslint-plugin-mocha) - Linting rules for Mocha.
     *   [Enforcing manageability (⭐13)](https://github.com/onechiporenko/eslint-plugin-mocha-cleanup/)
 *   [QUnit (⭐30)](https://github.com/platinumazure/eslint-plugin-qunit) - Linting rules for QUnit.
 
@@ -54,7 +54,7 @@
 
 ### General
 
-*   [Bootstrap Icons (⭐7.3k)](https://github.com/twbs/icons#readme) - SVG icons custom designed and built for Bootstrap components. ([Website](https://icons.getbootstrap.com/))
+*   [Bootstrap Icons (⭐7.4k)](https://github.com/twbs/icons#readme) - SVG icons custom designed and built for Bootstrap components. ([Website](https://icons.getbootstrap.com/))
 
 ## [6. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
 
@@ -90,7 +90,7 @@
 
 ### Front-End Development
 
-*   [Material-UI (⭐216)](https://github.com/nadunindunil/awesome-material-ui#readme) - Material Design React components for faster and easier web development.
+*   [Material-UI (⭐234)](https://github.com/nadunindunil/awesome-material-ui#readme) - Material Design React components for faster and easier web development.
 
 ## [11. Awesome Ssh](/content/moul/awesome-ssh/README.md)
 

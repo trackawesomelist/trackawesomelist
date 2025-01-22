@@ -32,13 +32,13 @@
 ### Electron / Themes
 
 *   [StarCabinet (⭐407)](https://github.com/thundernet8/StarCabinet) - Github Stars-based cross-platform tool based on React, Electronand and Ant Design.
-*   [Nowa (⭐202)](https://github.com/nowa-webpack/nowa-gui) - A webpack based front-end plug-in scaffolding and development solution.
+*   [Nowa (⭐201)](https://github.com/nowa-webpack/nowa-gui) - A webpack based front-end plug-in scaffolding and development solution.
 
 ## [4. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Serial Port
 
-*   [Asio (⭐4.8k)](https://github.com/chriskohlhoff/asio/) - Asio includes classes for creating and manipulating serial ports in a portable manner. \[Boost] [website](http://think-async.com/)
+*   [Asio (⭐5.1k)](https://github.com/chriskohlhoff/asio/) - Asio includes classes for creating and manipulating serial ports in a portable manner. \[Boost] [website](http://think-async.com/)
 
 ### Asynchronous Event Loop
 
@@ -46,23 +46,23 @@
 
 ### Debug
 
-*   [Catch2 (⭐18k)](https://github.com/catchorg/Catch2) - A modern, C++-native, test framework for unit-tests, TDD and BDD. \[Boost]
-*   [CppUTest (⭐1.3k)](https://github.com/cpputest/cpputest) - Unit testing and mocking framework for C/C++. \[BSD-3-clause]
+*   [Catch2 (⭐19k)](https://github.com/catchorg/Catch2) - A modern, C++-native, test framework for unit-tests, TDD and BDD. \[Boost]
+*   [CppUTest (⭐1.4k)](https://github.com/cpputest/cpputest) - Unit testing and mocking framework for C/C++. \[BSD-3-clause]
 
 ### Networking
 
-*   [nghttp2 (⭐4.6k)](https://github.com/nghttp2/nghttp2) - HTTP/2 C Library. \[MIT] [website](https://nghttp2.org/)
-*   [uWebSockets (⭐17k)](https://github.com/uNetworking/uWebSockets) - µWS is one of the most lightweight, efficient & scalable WebSocket & HTTP server implementations available. \[Zlib]
+*   [nghttp2 (⭐4.7k)](https://github.com/nghttp2/nghttp2) - HTTP/2 C Library. \[MIT] [website](https://nghttp2.org/)
+*   [uWebSockets (⭐18k)](https://github.com/uNetworking/uWebSockets) - µWS is one of the most lightweight, efficient & scalable WebSocket & HTTP server implementations available. \[Zlib]
 
 ### Scripting
 
 *   [cppimport (⭐1.2k)](https://github.com/tbenthompson/cppimport) - Import C++ files directly from Python! \[MIT]
-*   [CppSharp (⭐3.1k)](https://github.com/mono/CppSharp) - Tools and libraries to glue C/C++ APIs to high-level languages. \[MIT]
+*   [CppSharp (⭐3.2k)](https://github.com/mono/CppSharp) - Tools and libraries to glue C/C++ APIs to high-level languages. \[MIT]
 *   [nbind (⭐2k)](https://github.com/charto/nbind) - Magical headers that make your C++ library accessible from JavaScript. \[MIT]
 
 ### Static Code Analysis
 
-*   [include-what-you-use (⭐4k)](https://github.com/include-what-you-use/include-what-you-use) - A tool for use with clang to analyze includes in C and C++ source files. [website](https://include-what-you-use.org/)
+*   [include-what-you-use (⭐4.2k)](https://github.com/include-what-you-use/include-what-you-use) - A tool for use with clang to analyze includes in C and C++ source files. [website](https://include-what-you-use.org/)
 
 ## [5. Awesome Css](/content/awesome-css-group/awesome-css/README.md)
 
@@ -76,9 +76,6 @@
 
 ### Applications and Platforms / Mood
 
-*   [Daylio](http://daylio.webflow.io/) - Capture your day without writing down a single line. Exportable data with Premium Version. (iOS & Android).
-*   [MoodNotes](http://moodnotes.thriveport.com/) - Capture your feelings with a modifiable smiling or frowning face. Exportable data. (iOS and Apple Watch).
-*   [MoodPanda](http://moodpanda.com/) - One of the oldest moodtrackers available online. Rate your mood and share to support. Exportable data. Sync and extend via API (Web, iOS, Android).
 *   [MoodJam](http://moodjam.com/) - Track your moods with colors. (Web only).
 *   [iMoodJournal](https://www.imoodjournal.com/) - Mood Tracking on a 10-point scale from Really great to Couldn't be worse. Exportable data. (Android, iOS, Apple Watch).
 *   [Perspective](https://itunes.apple.com/us/app/perspective-daily-journal/id1186753097?mt=8) - Journaling to captures Thoughts, Moods, and Interests with the goal of helping you reflect and find perspective. (iOS).

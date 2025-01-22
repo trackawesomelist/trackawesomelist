@@ -14,11 +14,11 @@
 
 ### Markdown
 
-*   [Pandex (⭐56)](https://github.com/filterkaapi/pandex) - Lightweight Elixir wrapper for Pandoc. Converts Markdown, CommonMark, HTML, Latex, HTML, HTML5, opendocument, rtf, texttile, asciidoc to each other.
+*   [Pandex (⭐59)](https://github.com/filterkaapi/pandex) - Lightweight Elixir wrapper for Pandoc. Converts Markdown, CommonMark, HTML, Latex, HTML, HTML5, opendocument, rtf, texttile, asciidoc to each other.
 
 ### ORM and Datamapping
 
-*   [ecto\_enum (⭐561)](https://github.com/gjaldon/ecto_enum) - Ecto extension to support enums in models.
+*   [ecto\_enum (⭐563)](https://github.com/gjaldon/ecto_enum) - Ecto extension to support enums in models.
 
 ## [2. Amas](/content/sindresorhus/amas/README.md)
 

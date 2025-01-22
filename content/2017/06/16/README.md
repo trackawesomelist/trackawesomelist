@@ -10,7 +10,7 @@
 
 ### Web Apps (open source)
 
-*   [Google I/O Transport Tracker (⭐566)](https://github.com/googlemaps/transport-tracker) - Shows shuttle arrival times for Google I/O conference, based on the open-source [transport-tracker project (⭐566)](https://github.com/googlemaps/transport-tracker).  Note: To implement this yourself, you need a [Google Maps APIs Premium Plan license](https://developers.google.com/maps/pricing-and-plans/).
+*   [Google I/O Transport Tracker (⭐575)](https://github.com/googlemaps/transport-tracker) - Shows shuttle arrival times for Google I/O conference, based on the open-source [transport-tracker project (⭐575)](https://github.com/googlemaps/transport-tracker).  Note: To implement this yourself, you need a [Google Maps APIs Premium Plan license](https://developers.google.com/maps/pricing-and-plans/).
 
 ## [2. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
@@ -38,18 +38,18 @@
 ### Companion Screens
 
 *   [dial-discovery-ios (⭐3)](https://github.com/bbc/dial-discovery-ios) - A library for the discovery of devices via the DIAL protocol on the iOS platform.
-*   [dvbcss-synctiming (⭐19)](https://github.com/BBC/dvbcss-synctiming) - A system for measuring how accurately a TV or companion are synchronised.
+*   [dvbcss-synctiming (⭐20)](https://github.com/BBC/dvbcss-synctiming) - A system for measuring how accurately a TV or companion are synchronised.
 
 ### DVB & WiFi
 
 *   [DVB Inspector](https://sourceforge.net/projects/dvbinspector/) - An open-source DVB analyzer.
 *   [DVBlast](http://www.videolan.org/projects/dvblast.html) - A simple and powerful MPEG-2/TS demux and streaming application.
-*   [dvbshout (⭐9)](https://github.com/njh/dvbshout) - Tool to send DVB audio to a shoutcast server or a RTP stream.
+*   [dvbshout (⭐10)](https://github.com/njh/dvbshout) - Tool to send DVB audio to a shoutcast server or a RTP stream.
 *   [Opencaster](http://www.avalpa.com/the-key-values/15-free-software/33-opencaster) - A free and open source MPEG2 transport stream data generator and packet manipulator.
 
 ### Animation, Graphics & Video Playout
 
-*   [Aurena (⭐127)](https://github.com/thaytan/aurena) - A network distributed media playback system.
+*   [Aurena (⭐128)](https://github.com/thaytan/aurena) - A network distributed media playback system.
 *   [CasparCG](http://www.casparcg.com/) - A professional graphics and video play-out software, proven in 24/7 broadcasts since 2006.
 
 ### Hybrid Radio
@@ -58,8 +58,8 @@
 
 ### Metadata
 
-*   [EBUCore (⭐21)](https://github.com/ebu/ebucore) - The Github for maintenance of the [EBUCore schema](https://tech.ebu.ch/docs/tech/tech3293.pdf).
-*   [TV-Anytime (⭐15)](https://github.com/ebu/tvanytime) - The TV-Anytime schema github maintenance page.
+*   [EBUCore (⭐22)](https://github.com/ebu/ebucore) - The Github for maintenance of the [EBUCore schema](https://tech.ebu.ch/docs/tech/tech3293.pdf).
+*   [TV-Anytime (⭐16)](https://github.com/ebu/tvanytime) - The TV-Anytime schema github maintenance page.
 
 ### Multimedia content processing
 
@@ -148,7 +148,7 @@
 
 ### Database Clients
 
-*   [vertx-mysql-binlog-client (⭐17)](https://github.com/guoyu511/vertx-mysql-binlog-client) - A Vert.x client for tapping into MySQL replication stream.
+*   [vertx-mysql-binlog-client (⭐16)](https://github.com/guoyu511/vertx-mysql-binlog-client) - A Vert.x client for tapping into MySQL replication stream.
 
 ---
 

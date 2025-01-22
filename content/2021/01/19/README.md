@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 19, 2021
 
-17 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,13 +10,13 @@
 
 ### Resources / Packages
 
-*   [Resource Links (⭐244)](https://github.com/spatie/laravel-resource-links) - Laravel package for adding links to API resources.
+*   [Resource Links (⭐245)](https://github.com/spatie/laravel-resource-links) - Laravel package for adding links to API resources.
 
 ## [2. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### CRM
 
-*   [Hitobito (⭐361)](https://github.com/hitobito/hitobito) - An open source Ruby on Rails based community management solution.
+*   [Hitobito (⭐385)](https://github.com/hitobito/hitobito) - An open source Ruby on Rails based community management solution.
 
 ## [3. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
@@ -112,19 +112,13 @@
 
 
 
-## [15. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / Utilities
-
-*   [v-fetch (⭐6)](https://github.com/shaynekasai/v-fetch) - Vue.js directive to make AJAX requests.
-
-## [16. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
+## [15. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
 ### Demo
 
 *   [Sitecore MVP (⭐63)](https://github.com/Sitecore/MVP-Site) - The source code of a real Sitecore MVP website built with Sitecore 10 and SXA working in containers.
 
-## [17. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [16. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / S3
 

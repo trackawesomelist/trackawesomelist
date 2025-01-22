@@ -10,13 +10,13 @@
 
 ### PaaS
 
-*   [Lade](https://www.lade.io/) - Lade is a cloud platform built for developers. The free tier includes five services, which can be either apps or databases. Each service includes 128 MB RAM and 1 GB storage.
+*   [Lade](https://www.lade.io/) - Lade is a cloud platform built for developers. The free tier includes three services, which can be either apps or databases. Each service includes 128 MB RAM and 1 GB storage.
 
 ## [2. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### Carousels / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-hm-carousel (⭐60)](https://github.com/ZouYouShun/ngx-hm-carousel) - A light carousel for Angular 18+, supports mobile touch with [HammerJs](https://hammerjs.github.io/).
+*   [ngx-hm-carousel (⭐61)](https://github.com/ZouYouShun/ngx-hm-carousel) - A light carousel for Angular 18+, supports mobile touch with [HammerJs](https://hammerjs.github.io/).
 
 ### File Upload / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -26,7 +26,7 @@
 
 ### Tools / Community providers
 
-*   [hatchet (⭐157)](https://github.com/hatchet-dev/hatchet-v1-archived) - An all-in-one Terraform management tool. :skull:
+*   [hatchet (⭐156)](https://github.com/hatchet-dev/hatchet-v1-archived) - An all-in-one Terraform management tool. :skull:
 
 ---
 

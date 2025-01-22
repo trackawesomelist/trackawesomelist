@@ -10,7 +10,7 @@
 
 ### Libraries/Frameworks / Http Clients
 
-*   [corbella83/kotliny.network (⭐4)](https://github.com/corbella83/kotliny.network) - Simple, powerful and lightweight Kotlin Multiplatform Network Client
+*   [corbella83/kotliny.network (⭐6)](https://github.com/corbella83/kotliny.network) - Simple, powerful and lightweight Kotlin Multiplatform Network Client
 
 ## [2. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
 
@@ -36,7 +36,7 @@
 
 ### AI
 
-*   [upython-chat-gpt (⭐24)](https://github.com/karlsoderby/upython-chat-gpt) - ChatGPT for MicroPython.
+*   [upython-chat-gpt (⭐30)](https://github.com/karlsoderby/upython-chat-gpt) - ChatGPT for MicroPython.
 
 ### Communications / IoT
 
@@ -67,9 +67,9 @@
 *   [AI Image Upscaler - Upscale Photo, Cartoons in Batch Free](https://www.imgupscaler.com/): "free, browser-based, with five credits per day" reference by nejcsusec.beehiiv.com
 *   [Why you should upscale your images](https://nejcsusec.beehiiv.com/p/upscale-images): comparing different tools
 
-### Inbox: Speech-to-text (STT) and spoken content analysis / Deforum
+### Speech-to-text (STT) and spoken content analysis / Deforum
 
-*   [wolfia-app/gpt-code-search (⭐198)](https://github.com/wolfia-app/gpt-code-search/): search a codebase with natural language using AI
+*   [wolfia-app/gpt-code-search (⭐201)](https://github.com/wolfia-app/gpt-code-search/): search a codebase with natural language using AI
 
 ## [6. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
@@ -87,17 +87,17 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [fzf-tools (⭐9)](https://github.com/happycod3r/fzf-tools) - Provides functions, aliases and key-bindings for commands such as `alias`, `find`, `ls`, `man`, `printenv` that are designed to enhance your command-line workflow by making them to default to filtering through [fzf (⭐63k)](https://github.com/junegunn/fzf), allowing you to quickly find files, search & run commands from history, run scripts of many supported types, browse `git` commits, and more.
+*   [fzf-tools](https://github.com/happycod3r/fzf-tools) - Provides functions, aliases and key-bindings for commands such as `alias`, `find`, `ls`, `man`, `printenv` that are designed to enhance your command-line workflow by making them to default to filtering through [fzf (⭐67k)](https://github.com/junegunn/fzf), allowing you to quickly find files, search & run commands from history, run scripts of many supported types, browse `git` commits, and more.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [zunder (⭐4)](https://github.com/Warbacon/zunder-prompt) - Simple and fast ZSH prompt based on [gitstatus (⭐1.7k)](https://github.com/romkatv/gitstatus).
+*   [zunder (⭐6)](https://github.com/Warbacon/zunder-prompt) - Simple and fast ZSH prompt based on [gitstatus (⭐1.7k)](https://github.com/romkatv/gitstatus).
 
 ## [8. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
 ### Nodes & Consensus Participation / Wallets
 
-*   [AlgoRun (⭐28)](https://github.com/algorandfoundation/algorun) - Simple CLI utility for setting up and starting Algorand MainNet participation node.
+*   [AlgoRun (⭐31)](https://github.com/algorandfoundation/algorun) - Simple CLI utility for setting up and starting Algorand MainNet participation node.
 
 ---
 

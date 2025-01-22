@@ -20,7 +20,7 @@
 
 ### Ask these people anything!
 
-*   [Yitzchok Willroth (⭐0)](https://github.com/coderabbi/ama) - Coder & Rabbi (though seldom at the same time!); Engineering Practice Manager, Grovo; Organizer, ShorePHP & NYPHP; Conference Speaker; Mentor.
+*   [Yitzchok Willroth (⭐1)](https://github.com/coderabbi/ama) - Coder & Rabbi (though seldom at the same time!); Engineering Practice Manager, Grovo; Organizer, ShorePHP & NYPHP; Conference Speaker; Mentor.
 *   [Jeff Carouth (⭐0)](https://github.com/jcarouth/ama) - Lead Platform Engineer at Liftopia, Co-host of the Loosely Coupled Podcast, mentor, and conference speaker.
 
 ## [3. Awesome Dojo](/content/petk/awesome-dojo/README.md)
@@ -41,7 +41,7 @@
 ### Sliders / Runner
 
 *   [basic-jquery-slider (⭐542)](https://github.com/jcobb/basic-jquery-slider) - Simple to use, simple to theme, simple to customise.
-*   [jQuery.adaptive-slider (⭐53)](https://github.com/creative-punch/jQuery.adaptive-slider/) - A jQuery plugin for a slider with adaptive colored figcaption and navigation.
+*   [jQuery.adaptive-slider (⭐54)](https://github.com/creative-punch/jQuery.adaptive-slider/) - A jQuery plugin for a slider with adaptive colored figcaption and navigation.
 *   [slidr (⭐1.6k)](https://github.com/bchanx/slidr) - add some slide effects.
 
 ### Video/Audio / Other

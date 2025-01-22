@@ -13,20 +13,20 @@
 *   [**Carbon Components**](https://www.carbondesignsystem.com/) - Component library behind IBM's Carbon Design System.\
     ![](https://img.shields.io/github/stars/carbon-design-system/carbon-components.svg?style=social\&label=Star)
     [Docs](https://www.carbondesignsystem.com/components/overview/),
-    [Repo (⭐7.5k)](https://github.com/carbon-design-system/carbon)
+    [Repo (⭐7.9k)](https://github.com/carbon-design-system/carbon)
     \| #SCSS
 
 ## [2. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Top / Game Engine resources
 
-*   [Trinity Orientation @ Univ Toronto (⭐616)](https://github.com/matthewtory/trinity-orientation-2018) <!--stargazers:matthewtory/trinity-orientation-2018--> - Orientation week at Trinity College, U of T by [Matthew Tory](https://github.com/matthewtory)
+*   [Trinity Orientation @ Univ Toronto (⭐617)](https://github.com/matthewtory/trinity-orientation-2018) <!--stargazers:matthewtory/trinity-orientation-2018--> - Orientation week at Trinity College, U of T by [Matthew Tory](https://github.com/matthewtory)
 
 ## [3. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Patterns
 
-*   [Viperit (⭐510)](https://github.com/ferranabello/Viperit) - Viper Framework for iOS.
+*   [Viperit (⭐513)](https://github.com/ferranabello/Viperit) - Viper Framework for iOS.
 
 ## [4. Awesome Json Datasets](/content/jdorfman/awesome-json-datasets/README.md)
 
@@ -92,7 +92,7 @@
 
 ### XML
 
-*   [Mini-XML (⭐438)](https://github.com/michaelrsweet/mxml) - A small XML parsing library written in ANSI C. \[LGPL2 with exceptions]
+*   [Mini-XML (⭐454)](https://github.com/michaelrsweet/mxml) - A small XML parsing library written in ANSI C. \[LGPL2 with exceptions]
 
 ## [14. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 

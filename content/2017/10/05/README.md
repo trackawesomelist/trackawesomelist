@@ -10,7 +10,7 @@
 
 ### MVVM
 
-*   [Win Application Framework (WAF) (⭐706)](https://github.com/jbe2277/waf) - A lightweight Framework that helps you to create well structured WPF and UWP Applications. It supports you in applying a Layered Architecture and the Model-View-ViewModel pattern.
+*   [Win Application Framework (WAF) (⭐718)](https://github.com/jbe2277/waf) - A lightweight Framework that helps you to create well structured WPF and UWP Applications. It supports you in applying a Layered Architecture and the Model-View-ViewModel pattern.
 
 ## [2. Awesome Material](/content/sachin1092/awesome-material/README.md)
 
@@ -32,16 +32,14 @@
 
 ### Notebooks / Third-party APIs
 
-*   [Darkmatter (⭐353)](https://github.com/tamamu/darkmatter) - A
+*   [Darkmatter (⭐356)](https://github.com/tamamu/darkmatter) - A
     notebook-style Common Lisp environment. [MIT](https://opensource.org/licenses/MIT).
 
 ## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Projects Using Vue.js / Open Source
 
-*   [SPA-asp.net-api-vuejs- (⭐61)](https://github.com/mubaidr/SPA-asp.net-api-vuejs-) - A Vue.js single page application for basic task Management & messaging using ASP .NET Webapi 2 and SQL server
-*   [Book-Trading-Club (⭐20)](https://github.com/mubaidr/Book-Trading-Club) - Trade or loan books with other book readers in your area. Built using nodejs and vuejs2
-*   [vuejs-extension-pack vscode (⭐36)](https://github.com/mubaidr/vuejs-extension-pack) - An extension packf or vscode with popular VS Code extensions for Vue.js development.
+*   [vuejs-extension-pack vscode (⭐37)](https://github.com/mubaidr/vuejs-extension-pack) - An extension packf or vscode with popular VS Code extensions for Vue.js development.
 
 ## [6. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
@@ -81,7 +79,7 @@
 
 ### Images, Maps and Charts / Paid Books
 
-*   [JQuery-linechart (⭐42)](https://github.com/kis/jquery-linechart) - Simple and lightweight library for creating line charts
+*   [JQuery-linechart](https://github.com/kis/jquery-linechart) - Simple and lightweight library for creating line charts
 
 ### Tables / Paid Books
 
@@ -94,12 +92,12 @@
 
 ### Miscellaneous Plugins / Paid Books
 
-*   [autoNumberic (⭐1.7k)](https://github.com/autoNumeric/autoNumeric) - autoNumeric is a standalone library that provides live as-you-type formatting for international numbers and currencies.
+*   [autoNumberic (⭐1.8k)](https://github.com/autoNumeric/autoNumeric) - autoNumeric is a standalone library that provides live as-you-type formatting for international numbers and currencies.
 
 ### Server-side Integrations / Paid Books
 
 *   Ruby:
-    *   [jquery-rails (⭐935)](https://github.com/rails/jquery-rails) - A gem to automate using jQuery with Rails.
+    *   [jquery-rails (⭐948)](https://github.com/rails/jquery-rails) - A gem to automate using jQuery with Rails.
     *   [jquery-ui-rails (⭐1.1k)](https://github.com/jquery-ui-rails/jquery-ui-rails) - jQuery UI for the Rails asset pipeline.
 
 ### Community / Paid Books
@@ -118,7 +116,7 @@
 
 ### Machine learning • Computer Vision • Ai / Other
 
-*   [Teachable Machine (⭐3.8k)](https://github.com/googlecreativelab/teachable-machine) - Explore how machine learning works, live in the browser.
+*   [Teachable Machine (⭐3.9k)](https://github.com/googlecreativelab/teachable-machine) - Explore how machine learning works, live in the browser.
 
 ---
 

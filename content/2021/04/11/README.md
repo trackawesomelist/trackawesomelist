@@ -17,21 +17,21 @@
 ### Peripheral Access Crates / MSP430
 
 *   [`msp430g2553`](https://github.com/japaric/msp430g2553) Peripheral access API for MSP430G2553 microcontrollers (generated using svd2rust)
-    *   [msp430 quickstart (⭐36)](https://github.com/rust-embedded/msp430-quickstart) some examples for msp430
+    *   [msp430 quickstart (⭐38)](https://github.com/rust-embedded/msp430-quickstart) some examples for msp430
 
 ## [3. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
 ### Content Hub
 
-*   [Focal point cropping (⭐4)](https://github.com/robhabraken/content-hub-focal-point-cropping) - Focal point cropping for Content Hub.
+*   [Focal point cropping (⭐5)](https://github.com/robhabraken/content-hub-focal-point-cropping) - Focal point cropping for Content Hub.
 
 ## [4. Awesome Playwright](/content/mxschmitt/awesome-playwright/README.md)
 
 ### Language Support
 
-*   [playwright-ruby-client (⭐311)](https://github.com/YusukeIwaki/playwright-ruby-client) - Playwright port for Ruby.
+*   [playwright-ruby-client (⭐322)](https://github.com/YusukeIwaki/playwright-ruby-client) - Playwright port for Ruby.
 *   [playwright-cr (⭐20)](https://github.com/naqvis/playwright-cr) - Playwright port for Crystal.
-*   [playwright-rust (⭐302)](https://github.com/octaltree/playwright-rust) - Playwright port for Rust.
+*   [playwright-rust (⭐316)](https://github.com/octaltree/playwright-rust) - Playwright port for Rust.
 
 ## [5. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 

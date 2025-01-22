@@ -20,19 +20,19 @@
 
 ### Example Projects
 
-*   [FAPI demo from DevConf.cz Mini: Secure digital transformation via keycloak's FAPI (⭐3)](https://github.com/mposolda/fapi-demo/tree/main)
+*   [FAPI demo from DevConf.cz Mini: Secure digital transformation via keycloak's FAPI (⭐4)](https://github.com/mposolda/fapi-demo/tree/main)
 
 ## [3. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Utilities
 
-*   [rust-parallel (⭐136)](https://github.com/aaronriekenberg/rust-parallel) - Fast command line app using Tokio to execute commands in parallel.  Similar interface to GNU Parallel or xargs. [![Crate](https://img.shields.io/crates/v/rust-parallel.svg?logo=rust)](https://crates.io/crates/rust-parallel) [![Build Status](https://github.com/aaronriekenberg/rust-parallel/actions/workflows/CI.yml/badge.svg)](https://github.com/aaronriekenberg/rust-parallel/actions/workflows/CI.yml)
+*   [rust-parallel (⭐176)](https://github.com/aaronriekenberg/rust-parallel) - Fast command line app using Tokio to execute commands in parallel.  Similar interface to GNU Parallel or xargs. [![Crate](https://img.shields.io/crates/v/rust-parallel.svg?logo=rust)](https://crates.io/crates/rust-parallel) [![Build Status](https://github.com/aaronriekenberg/rust-parallel/actions/workflows/CI.yml/badge.svg)](https://github.com/aaronriekenberg/rust-parallel/actions/workflows/CI.yml)
 
 ## [4. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Communication / Collaboration and Team Tools
 
-*   [Mattermost](https://mattermost.com/download/) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/mattermost/mattermost)
+*   [Mattermost](https://mattermost.com/download/) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/mattermost/mattermost) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [5. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 
@@ -54,7 +54,7 @@
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [git-kali (⭐4)](https://github.com/Green0wl/zsh-git-kali-prompt) - Based on [An informative `git` prompt for kali (⭐1.7k)](https://github.com/olivierverdier/zsh-git-prompt). Includes decorators for `git` status, username\@host, and the current directory.
+*   [git-kali (⭐6)](https://github.com/Green0wl/zsh-git-kali-prompt) - Based on [An informative `git` prompt for kali (⭐1.7k)](https://github.com/olivierverdier/zsh-git-prompt). Includes decorators for `git` status, username\@host, and the current directory.
 
 ## [8. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
 
@@ -66,7 +66,7 @@
 
 ### Utilities
 
-*   [dive (⭐45k)](https://github.com/wagoodman/dive) - A tool for exploring each layer in a Docker image.
+*   [dive (⭐49k)](https://github.com/wagoodman/dive) - A tool for exploring each layer in a Docker image.
 
 ## [10. Awesome Capacitor](/content/riderx/awesome-capacitor/README.md)
 
@@ -84,7 +84,7 @@
 
 ### Projects
 
-*   [Ubiquity (⭐148)](https://github.com/opensourcecheemsburgers/ubiquity) - An open-source, cross-platform markdown editor; built with Yew, Tauri, Tailwind, and DaisyUI. [Web App](https://ubiquity.rs).
+*   [Ubiquity (⭐186)](https://github.com/opensourcecheemsburgers/ubiquity) - An open-source, cross-platform markdown editor; built with Yew, Tauri, Tailwind, and DaisyUI. [Web App](https://ubiquity.rs).
 
 ## [13. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
@@ -107,13 +107,13 @@
 
 ### Community Modules / Miscellaneous
 
-*   [terraform-kubestack (⭐641)](https://github.com/kbst/terraform-kubestack) - Kubestack is a framework for Kubernetes platform engineering teams to define the entire cloud native stack in one Terraform code base and continuously evolve the platform safely through GitOps.
-*   [terraform-nixos (⭐322)](https://github.com/nix-community/terraform-nixos) - A set of Terraform modules that are designed to deploy NixOS.
-*   [typhoon (⭐1.9k)](https://github.com/poseidon/typhoon) - Minimal and free Kubernetes distribution with Terraform.
+*   [terraform-kubestack (⭐658)](https://github.com/kbst/terraform-kubestack) - Kubestack is a framework for Kubernetes platform engineering teams to define the entire cloud native stack in one Terraform code base and continuously evolve the platform safely through GitOps.
+*   [terraform-nixos (⭐345)](https://github.com/nix-community/terraform-nixos) - A set of Terraform modules that are designed to deploy NixOS.
+*   [typhoon (⭐2k)](https://github.com/poseidon/typhoon) - Minimal and free Kubernetes distribution with Terraform.
 
 ### Tools / Community providers
 
-*   [terraform-aws-clickops-notifier (⭐197)](https://github.com/cloudandthings/terraform-aws-clickops-notifier) - Get notified when actions are taken in the AWS Console.
+*   [terraform-aws-clickops-notifier (⭐271)](https://github.com/cloudandthings/terraform-aws-clickops-notifier) - Get notified when actions are taken in the AWS Console.
 
 ---
 

@@ -16,7 +16,7 @@
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [Stretto (⭐616)](https://github.com/benkaiser/stretto) - Music player with Youtube/Soundcloud import and iTunes/Spotify discovery. ([Demo](https://next.kaiserapps.com), [Clients (⭐9)](https://github.com/benkaiser/stretto-mobile-next)) `MIT` `Nodejs`
+*   [Stretto (⭐620)](https://github.com/benkaiser/stretto) - Music player with Youtube/Soundcloud import and iTunes/Spotify discovery. ([Demo](https://next.kaiserapps.com), [Clients (⭐9)](https://github.com/benkaiser/stretto-mobile-next)) `MIT` `Nodejs`
 
 ## [3. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
@@ -28,7 +28,7 @@
 
 ### Applications / System tools
 
-*   [ajeetdsouza/zoxide (⭐21k)](https://github.com/ajeetdsouza/zoxide/) - A fast alternative to `cd` that learns your habits [![release](https://github.com/ajeetdsouza/zoxide/workflows/.github/workflows/release.yml/badge.svg)](https://github.com/ajeetdsouza/zoxide/actions)
+*   [ajeetdsouza/zoxide (⭐24k)](https://github.com/ajeetdsouza/zoxide/) - A fast alternative to `cd` that learns your habits [![release](https://github.com/ajeetdsouza/zoxide/workflows/.github/workflows/release.yml/badge.svg)](https://github.com/ajeetdsouza/zoxide/actions)
 
 ## [5. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
@@ -40,19 +40,19 @@
 
 ### Concurrency
 
-*   [SwiftCoroutine (⭐835)](https://github.com/belozierov/SwiftCoroutine) :penguin: - Coroutines for iOS, macOS and Linux.
+*   [SwiftCoroutine (⭐837)](https://github.com/belozierov/SwiftCoroutine) :penguin: - Coroutines for iOS, macOS and Linux.
 
 ## [7. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Gaming
 
-*   [Game Remakes (⭐746)](https://github.com/radek-sprta/awesome-game-remakes#readme) - Actively maintained open-source game remakes.
+*   [Game Remakes (⭐872)](https://github.com/radek-sprta/awesome-game-remakes#readme) - Actively maintained open-source game remakes.
 
 ## [8. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Version Control / Git
 
-*   [semantic-git-commit-cli (⭐143)](https://github.com/JPeer264/node-semantic-git-commit-cli) - Ensure semantic commits messages.
+*   [semantic-git-commit-cli (⭐147)](https://github.com/JPeer264/node-semantic-git-commit-cli) - Ensure semantic commits messages.
 
 ## [9. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 
@@ -65,7 +65,7 @@
 ### Finite Elements
 
 *   [libceed](https://libceed.readthedocs.io/en/latest/index.html) - Code for Efficient Extensible Discretizations.
-    (C, 2-clause BSD, [GitHub (⭐172)](https://github.com/CEED/libCEED))
+    (C, 2-clause BSD, [GitHub (⭐205)](https://github.com/CEED/libCEED))
 
 ## [11. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
@@ -94,7 +94,7 @@
 
 ### GitHub Tools and Management / Docker Container Actions
 
-*   [Generate Release Notes Based on Git References (⭐95)](https://github.com/metcalfc/changelog-generator)
+*   [Generate Release Notes Based on Git References (⭐137)](https://github.com/metcalfc/changelog-generator)
 
 ### Utility / Environments
 
@@ -102,15 +102,15 @@
 
 ### Monitoring / Code Coverage
 
-*   [Size Limit Action (⭐342)](https://github.com/andresz1/size-limit-action) - Comments cost comparison of your JS in PRs and rejects them if limit is exceeded.
+*   [Size Limit Action (⭐446)](https://github.com/andresz1/size-limit-action) - Comments cost comparison of your JS in PRs and rejects them if limit is exceeded.
 
 ### Notifications and Messages / Code Coverage
 
-*   [Send a File or Text Message to Discord (custom define color, username or avatar) (⭐69)](https://github.com/appleboy/discord-action)
+*   [Send a File or Text Message to Discord (custom define color, username or avatar) (⭐97)](https://github.com/appleboy/discord-action)
 
 ### Deployment / Docker
 
-*   [Monitor and limit your docker image size (⭐100)](https://github.com/wemake-services/docker-image-size-limit)
+*   [Monitor and limit your docker image size (⭐118)](https://github.com/wemake-services/docker-image-size-limit)
 
 ---
 

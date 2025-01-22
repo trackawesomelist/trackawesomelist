@@ -40,11 +40,11 @@
 
 ### Apps / Forms
 
-*   [Wagtail ReCaptcha (⭐56)](https://github.com/springload/wagtail-django-recaptcha) - wagtail-django-captcha provides an easy way to integrate the [django-recaptcha (⭐985)](https://github.com/praekelt/django-recaptcha) field when using the Wagtail formbuilder.
+*   [Wagtail ReCaptcha (⭐56)](https://github.com/springload/wagtail-django-recaptcha) - wagtail-django-captcha provides an easy way to integrate the [django-recaptcha (⭐991)](https://github.com/praekelt/django-recaptcha) field when using the Wagtail formbuilder.
 
 ### Apps / Misc
 
-*   [wagtailmenus (⭐392)](https://github.com/rkhleics/wagtailmenus) - An extension for Torchbox's Wagtail CMS to help you manage and render multi-level navigation and simple flat menus in a consistent, flexible way.
+*   [wagtailmenus (⭐397)](https://github.com/rkhleics/wagtailmenus) - An extension for Torchbox's Wagtail CMS to help you manage and render multi-level navigation and simple flat menus in a consistent, flexible way.
 
 ### Resources / Presentations
 

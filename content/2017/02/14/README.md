@@ -1,18 +1,12 @@
 # Awesome List Updates on Feb 14, 2017
 
-7 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
-
-### Companies with "remote DNA"
-
-*   [Deeson](https://www.deeson.co.uk/careers) - UK-based with European team. Digital agency specialising in Drupal, Symfony and Laravel
-
-## [2. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
+## [1. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
 
 ### United Kingdom 🇬🇧 / England
 
@@ -26,7 +20,7 @@ Webpage: <http://www.denizlihs.org/>
 | ---- | ----- | ------------------------------------------------------------------------------------------------------------------------ | ---------- |
 | ✔    | ✔     | [Çamlaraltı Mah. Hüseyin Yılmaz Cad. No:67 Pamukkale/Denizli](https://www.google.com.tr/maps/@37.7382126,29.0916182,18z) | 24/7       |
 
-## [3. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [2. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### REST and API
 
@@ -36,7 +30,7 @@ Webpage: <http://www.denizlihs.org/>
 
 *   [jeaux (⭐13)](https://github.com/zbarnes757/jeaux) - A light and easy schema validator.
 
-## [4. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/README.md)
+## [3. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/README.md)
 
 ### PHP
 
@@ -46,7 +40,7 @@ Webpage: <http://www.denizlihs.org/>
 
 *   [lolcat (⭐5.2k)](https://github.com/busyloop/lolcat) - Rainbows and unicorns!
 
-## [5. Awesome Android](/content/JStumpp/awesome-android/README.md)
+## [4. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
 ### Cloud Services
 
@@ -56,7 +50,7 @@ Webpage: <http://www.denizlihs.org/>
 
 *   [ActivityStarter (⭐428)](https://github.com/MarcinMoskala/ActivityStarter) - Android Library that provide simpler way to start the Activities with multiple arguments.
 
-## [6. Awesome Deep Learning Papers](/content/terryum/awesome-deep-learning-papers/README.md)
+## [5. Awesome Deep Learning Papers](/content/terryum/awesome-deep-learning-papers/README.md)
 
 ### Awesome list criteria
 
@@ -255,7 +249,7 @@ Webpage: <http://www.denizlihs.org/>
 *   WildML [\[Web\]](http://www.wildml.com/)
 *   FastML [\[web\]](http://www.fastml.com/)
 
-## [7. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
+## [6. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
 ### Videos
 

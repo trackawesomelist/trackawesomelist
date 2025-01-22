@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 21, 2022
 
-17 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,17 +10,17 @@
 
 ### NixOS Modules / Zig
 
-*   [Home Manager (⭐6.5k)](https://github.com/nix-community/home-manager) - Manage your user configuration just like NixOS.
+*   [Home Manager (⭐7.4k)](https://github.com/nix-community/home-manager) - Manage your user configuration just like NixOS.
 
 ## [2. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
 ### GTFS Based Visualizations
 
-*   [Transit Vis (⭐11)](https://github.com/zackAemmer/transit_vis) - A visualization tool to display performance metrics derived from the King County Metro GTFS-RT feed (OneBusAway API). Viewable [here](https://www.transitvis.com/). Used for [this paper](https://link.springer.com/article/10.1007/s12469-022-00291-7).
+*   [Transit Vis (⭐12)](https://github.com/zackAemmer/transit_vis) - A visualization tool to display performance metrics derived from the King County Metro GTFS-RT feed (OneBusAway API). Viewable [here](https://www.transitvis.com/). Used for [this paper](https://link.springer.com/article/10.1007/s12469-022-00291-7).
 
 ### Academic papers / Ruby
 
-*   [Aemmer et al. - "Measurement and classification of transit delays using GTFS-RT data"](https://link.springer.com/article/10.1007/s12469-022-00291-7) - Presents a method for extracting transit performance metrics from a General Transit Feed Specification’s Real-Time (GTFS-RT) component and aggregating them to roadway segments. Used with [Transit Vis (⭐11)](https://github.com/zackAemmer/transit_vis), viewable [here](https://www.transitvis.com/).
+*   [Aemmer et al. - "Measurement and classification of transit delays using GTFS-RT data"](https://link.springer.com/article/10.1007/s12469-022-00291-7) - Presents a method for extracting transit performance metrics from a General Transit Feed Specification’s Real-Time (GTFS-RT) component and aggregating them to roadway segments. Used with [Transit Vis (⭐12)](https://github.com/zackAemmer/transit_vis), viewable [here](https://www.transitvis.com/).
 
 ## [3. Awesome Css Learning](/content/micromata/awesome-css-learning/README.md)
 
@@ -32,11 +32,11 @@
 
 ### Integrations
 
-*   [cucumber-playwright (⭐369)](https://github.com/Tallyb/cucumber-playwright) - A starter repo for writing E2E tests based on Cucumber with Playwright using Typescript.
+*   [cucumber-playwright (⭐382)](https://github.com/Tallyb/cucumber-playwright) - A starter repo for writing E2E tests based on Cucumber with Playwright using Typescript.
 
 ## [5. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
-### Domain and IP Research / Telegram
+### Domain and IP Research / Steam
 
 *   [Threat Jammer](https://threatjammer.com) - Risk scoring service from curated threat intelligence data.
 
@@ -50,8 +50,8 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [bitwarden (kalsowerus) (⭐12)](https://github.com/kalsowerus/zsh-bitwarden) - Opens a [fzf (⭐63k)](https://github.com/junegunn/fzf) widget containing your [Bitwarden](https://bitwarden.com/) vault items. Upon selecting an item either the username or password will be either written into the shell or copied into the clipboard. Requires `fzf`, `jq` and `bitwarden`.
-*   [bw (⭐4)](https://github.com/begris/bw-zsh-plugin) - Provides formatting options and easy access to credentials stored in [Bitwarden](https://bitwarden.com) via the Bitwarden [CLI](https://bitwarden.com/download/). The plugin tries to retrieve a valid session before each action, therefore an explicit login is not nescessary beforehand.
+*   [bitwarden (kalsowerus) (⭐12)](https://github.com/kalsowerus/zsh-bitwarden) - Opens a [fzf (⭐67k)](https://github.com/junegunn/fzf) widget containing your [Bitwarden](https://bitwarden.com/) vault items. Upon selecting an item either the username or password will be either written into the shell or copied into the clipboard. Requires `fzf`, `jq` and `bitwarden`.
+*   [bw (⭐5)](https://github.com/begris/bw-zsh-plugin) - Provides formatting options and easy access to credentials stored in [Bitwarden](https://bitwarden.com) via the Bitwarden [CLI](https://bitwarden.com/download/). The plugin tries to retrieve a valid session before each action, therefore an explicit login is not nescessary beforehand.
 
 ## [8. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
@@ -96,25 +96,14 @@
 
 *   [Write your dissertation in RMarkdown](https://ourcodingclub.github.io/tutorials/rmarkdown-dissertation/) - Step-by-step guide on creating a complex pdf document, including text, figures, references, images, formatting, and more.
 
-## [11. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/README.md)
-
-### Conferences / Monograph
-
-*   [COLT](https://www.learningtheory.org/).
-
-### Research Groups / Monograph
-
-*   [Simons Institute. Machine Learning Research Pod](https://simons.berkeley.edu/research-pods/machine-learning-research-pod).
-*   [Harvard Machine Learning Foundations Group](https://mltheory.org/).
-
-## [12. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+## [11. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ### Projects / BPM
 
 *   [Genpack Cora SeQuence](https://www.genpact.com/cora/sequence) - A tool for orchestrating business processes, driving business agility and improving cost efficiency.
 *   [Red Hat Process Automation Manager](https://www.redhat.com/en/technologies/jboss-middleware/process-automation-manager) - Application development platform that enables developers and business experts to create cloud-native applications that automate business operations.
 
-## [13. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [12. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### APIs, Data, and ML
 
@@ -124,7 +113,7 @@
 
 *   [Translized](https://translized.com) - Free up to 1000 strings, one user, unlimited languages, unlimited projects
 
-## [14. Awesome Gdpr](/content/bakke92/awesome-gdpr/README.md)
+## [13. Awesome Gdpr](/content/bakke92/awesome-gdpr/README.md)
 
 ### Privacy by Design - Guides for developers (art. 25)
 
@@ -142,23 +131,17 @@
 
 *   [European web analytics services](https://european-alternatives.eu/category/web-analytics-services)
 
-## [15. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
-
-### Decentralized
-
-*   [Session](https://getsession.org/) - Extreme focus on privacy and anonymity. Blockchain technology.
-
-## [16. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [14. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### System 1 & System 2 / Dual-Coding Theory
 
 *   [The Deese-Roediger-McDermott (DRM) task: A simple cognitive paradigm to investigate false memories in the laboratory](https://europepmc.org/article/med/28190038) - ***Journal of Visualized Experiments***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=10880194606861797581\&hl=en\&as_sdt=0,5)].
 
-## [17. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [15. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Vue / Helpers
 
-*   ![v23](https://img.shields.io/badge/-2%2F3-3C8171) [vite-plugin-vue-inspector (⭐662)](https://github.com/webfansplz/vite-plugin-vue-inspector) - Jump to local IDE source code while click the element of browser.
+*   ![v23](https://img.shields.io/badge/-2%2F3-3C8171) [vite-plugin-vue-inspector (⭐714)](https://github.com/webfansplz/vite-plugin-vue-inspector) - Jump to local IDE source code while click the element of browser.
 
 ---
 

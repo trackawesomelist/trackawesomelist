@@ -84,7 +84,7 @@ Free
 
 ### Contents / Utilities
 
-*   [pg\_migrate (⭐30)](https://github.com/jwdeitch/pg_migrate) - Manage PostgreSQL codebases and make VCS simple.
+*   [pg\_migrate (⭐31)](https://github.com/jwdeitch/pg_migrate) - Manage PostgreSQL codebases and make VCS simple.
 
 ## [9. Tips](/content/git-tips/tips/README.md)
 

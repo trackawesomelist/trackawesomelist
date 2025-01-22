@@ -58,7 +58,7 @@
 
 ### DevOps Tools
 
-*   [Centurion (⭐1.7k)](https://github.com/newrelic/centurion) - A mass deployment tool for Docker fleets.
+*   [Centurion (⭐1.8k)](https://github.com/newrelic/centurion) - A mass deployment tool for Docker fleets.
 
 ## [4. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 

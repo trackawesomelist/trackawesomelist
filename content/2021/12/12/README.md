@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 12, 2021
 
-4 awesome lists updated today.
+3 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -12,13 +12,7 @@
 
 *   [DataStation (⭐2.9k)](https://github.com/multiprocessio/datastation) - Easily query, script, and visualize data from every database, file, and API.
 
-## [2. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
-
-### Communications / Pragmatics
-
-*   [Language as shaped by the environment: linguistic construal in a collaborative spatial task](https://www.nature.com/articles/s41599-020-0404-9.pdf) - ***Nature Humanities and Social Sciences Communications***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=7842508027049437987\&hl=en\&as_sdt=0,5)]. \[[Code & Data](https://osf.io/sxtaq)]. \[[Dialogue Experimental Toolkit(DiET)](https://dialoguetoolkit.github.io/chattool/)].
-
-## [3. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/README.md)
+## [2. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/README.md)
 
 ### JavaScript tools / Charting libraries
 
@@ -106,7 +100,7 @@
 *   [University of Washington Interactive Data Lab Papers](https://idl.cs.washington.edu/papers)
 *   Fabio Souto originally createad this repo, connect with Fabio at [fabiosouto.me](https://fabiosouto.me/).
 
-## [4. Awesome Spark](/content/awesome-spark/awesome-spark/README.md)
+## [3. Awesome Spark](/content/awesome-spark/awesome-spark/README.md)
 
 ### Resources / Docker Images
 

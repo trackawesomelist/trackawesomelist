@@ -10,11 +10,11 @@
 
 ### React Awesome Components
 
-*   [react-select (⭐27k)](https://github.com/JedWatson/react-select) - The Select Component for React
+*   [react-select (⭐28k)](https://github.com/JedWatson/react-select) - The Select Component for React
 
 ### React Tables and Grids
 
-*   [react-data-grid (⭐6.7k)](https://github.com/adazzle/react-data-grid) - Feature-rich and customizable data grid React component
+*   [react-data-grid (⭐7k)](https://github.com/adazzle/react-data-grid) - Feature-rich and customizable data grid React component
 
 ## [2. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 

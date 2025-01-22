@@ -98,8 +98,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Wiki.js (⭐24k)](https://github.com/Requarks/wiki) - A modern, lightweight and powerful wiki app built on NodeJS, Git and Markdown
-*   [vue-speech-streaming (⭐72)](https://github.com/aofdev/vue-speech-streaming) - A Performing Streaming Speech Recognition results in real time Speech To Text with Google Cloud Speech + socket.io on Progressive Web App
+*   [Wiki.js (⭐25k)](https://github.com/Requarks/wiki) - A modern, lightweight and powerful wiki app built on NodeJS, Git and Markdown
 
 ---
 

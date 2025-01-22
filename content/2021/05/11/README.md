@@ -89,7 +89,7 @@
 
 ### AppImage consumption tools / Desktop integration
 
-*   [Thumbnailer for AppImages (⭐7)](https://github.com/mttbernardini/appimage-thumbnailer) - Generates icons for AppImages that are shown in file managers of GNOME and KDE compatible desktop environments.
+*   [Thumbnailer for AppImages (⭐10)](https://github.com/mttbernardini/appimage-thumbnailer) - Generates icons for AppImages that are shown in file managers of GNOME and KDE compatible desktop environments.
 
 ## [3. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
@@ -99,11 +99,11 @@
 
 ### Community Extensions
 
-*   [Role-based Docker registry authentication (⭐9)](https://github.com/lifs-tools/keycloak-docker-role-mapper)
+*   [Role-based Docker registry authentication (⭐10)](https://github.com/lifs-tools/keycloak-docker-role-mapper)
 
 ### Example Projects
 
-*   [Keycloak Last Login Date Event Listener (⭐24)](https://github.com/ThoreKr/keycloak-last-login-event-listener)
+*   [Keycloak Last Login Date Event Listener (⭐29)](https://github.com/ThoreKr/keycloak-last-login-event-listener)
 
 ## [4. Awesome Powershell](/content/janikvonrotz/awesome-powershell/README.md)
 

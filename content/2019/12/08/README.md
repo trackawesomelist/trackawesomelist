@@ -10,7 +10,7 @@
 
 ### Utility / Docker Container Actions
 
-*   [Wait for commit statuses (⭐78)](https://github.com/WyriHaximus/github-action-wait-for-status) - Wait until all statuses and checks are successful or any of them has failed and set its status output accordingly.
+*   [Wait for commit statuses (⭐98)](https://github.com/WyriHaximus/github-action-wait-for-status) - Wait until all statuses and checks are successful or any of them has failed and set its status output accordingly.
 
 ### Tutorials / Terraform
 

@@ -30,7 +30,7 @@
 
 ### Platforms
 
-*   [Adafruit IO (⭐58)](https://github.com/adafruit/awesome-adafruitio#readme) - Visualize and store data from any device.
+*   [Adafruit IO (⭐63)](https://github.com/adafruit/awesome-adafruitio#readme) - Visualize and store data from any device.
 
 ## [4. Awesome Maintainers](/content/nayafia/awesome-maintainers/README.md)
 
@@ -74,14 +74,14 @@
 
 ### Tools
 
-*   [ipfs-deploy (⭐1.1k)](https://github.com/agentofuser/ipfs-deploy) - Zero-config CLI to deploy static websites: cd my-static-website && npx @agentofuser/ipfs-deploy
+*   [ipfs-deploy (⭐1.2k)](https://github.com/agentofuser/ipfs-deploy) - Zero-config CLI to deploy static websites: cd my-static-website && npx @agentofuser/ipfs-deploy
 
 ## [11. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
 ### Deployment / Code Coverage
 
-*   [Copy files and artifacts via SSH (⭐694)](https://github.com/appleboy/scp-action)
-*   [Executing remote ssh commands (⭐2.6k)](https://github.com/appleboy/ssh-action)
+*   [Copy files and artifacts via SSH (⭐1.2k)](https://github.com/appleboy/scp-action)
+*   [Executing remote ssh commands (⭐4.6k)](https://github.com/appleboy/ssh-action)
 
 ## [12. Awesome Ionic](/content/candelibas/awesome-ionic/README.md)
 

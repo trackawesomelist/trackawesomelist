@@ -10,13 +10,13 @@
 
 ### Blockchain API and Web services
 
-*   [One-Time Address (⭐66)](https://github.com/alexk111/One-Time-Address) A better way to share your Bitcoin address.
+*   [One-Time Address (⭐76)](https://github.com/alexk111/One-Time-Address) A better way to share your Bitcoin address.
 
 ## [2. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 
 ### Statistics / NLP
 
-*   [statsmodels (⭐9.6k)](https://github.com/statsmodels/statsmodels) - Statistical modeling and econometrics in Python.
+*   [statsmodels (⭐10k)](https://github.com/statsmodels/statsmodels) - Statistical modeling and econometrics in Python.
 
 ## [3. Awesome Coins](/content/Zheaoli/awesome-coins/README.md)
 
@@ -32,7 +32,7 @@
 
 ### Utility / Docker Container Actions
 
-*   [Setup `ssh-agent` (⭐704)](https://github.com/webfactory/ssh-agent) - Run `ssh-agent` with additional SSH keys to access private repositories.
+*   [Setup `ssh-agent` (⭐1.2k)](https://github.com/webfactory/ssh-agent) - Run `ssh-agent` with additional SSH keys to access private repositories.
 
 ### Deployment / Code Coverage
 
@@ -74,7 +74,7 @@
 
 ### Peripheral Access Crates / GigaDevice
 
-*   [`gd32vf103-pac`](https://github.com/riscv-rust/gd32vf103-pac) Peripheral access API for GD32VF103 RISC-V microcontrollers (generated using svd2rust) - ![crates.io](https://img.shields.io/crates/v/gd32vf103-pac.svg)
+*   [`gd32vf103-pac`](https://github.com/riscv-rust/gd32vf103-pac) Peripheral access API for GD32VF103 RISC-V microcontrollers (generated using svd2rust) - [![crates.io](https://img.shields.io/crates/v/gd32vf103-pac.svg)](https://crates.io/crates/gd32vf103-pac)
 
 ## [9. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

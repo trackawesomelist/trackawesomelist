@@ -28,31 +28,37 @@
 
 *   [Into the Borg – SSRF inside Google production network](https://opnsec.com/2018/07/into-the-borg-ssrf-inside-google-production-network/) - Written by [opnsec](https://opnsec.com/).
 
-## [4. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
+## [4. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+
+### Resources / Tutorials
+
+*   [Real World Projects with Vue.js](https://www.packtpub.com/web-development/real-world-projects-vuejs-video) by Daniel Khalil, Packt. (August 2018)
+
+## [5. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
 
 ### Security
 
 *   [Why Do Keynote Speakers Keep Suggesting That Improving Security Is Possible?](https://www.youtube.com/watch?v=ajGX7odA87k) by **James Mickens** \[51:21]
 
-## [5. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
+## [6. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
 ### Papers / ROSCon 2015
 
 *   [An information model for modular robots: the Hardware Robot Information Model (HRIM)](https://arxiv.org/pdf/1802.01459.pdf)
 
-## [6. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
+## [7. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
 ### Services / Misc
 
 *   [Mailgun](https://www.mailgun.com/) - Transactional Email API Service For Developers.
 
-## [7. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
+## [8. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
 ### Utilities
 
 *   [ocaml-cuid (⭐18)](https://github.com/marcoonroad/ocaml-cuid) - Collision-resistant IDs for server scalability & database performance.
 
-## [8. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
+## [9. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
 
 ### Organizations
 
@@ -72,37 +78,37 @@
 *   [What I Learned From The Fall Of Ellen Pao](https://www.damemagazine.com/2018/03/15/what-i-learned-from-the-fall-of-ellen-pao/) - By Madhushree Ghosh.
 *   [Why Are There Few Women In Tech? Watch A Recruiting Session](https://www.wired.com/story/why-are-there-few-women-in-tech-watch-a-recruiting-session/) - By Jessi Hempel.
 
-## [9. Awesome Mastodon](/content/tleb/awesome-mastodon/week/README.md)
+## [10. Awesome Mastodon](/content/tleb/awesome-mastodon/week/README.md)
 
 ### Bots
 
 *   [Welcome Bot (⭐7)](https://github.com/indyhall/mastodon-welcome-bot) - Automatically send a welcome DM to new users (Python).
 
-## [10. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [11. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### GTFS Realtime / Ruby
 
-*   [GTFS-realtime Autodoc](https://laidig.github.io/gtfs-rt-autodoc/index.html) - Automatically generated documentation for GTFS-realtime, generated from the official [GTFS-realtime protocol buffer specification (⭐553)](https://github.com/google/transit/blob/master/gtfs-realtime/proto/gtfs-realtime.proto) and including some extensions.
+*   [GTFS-realtime Autodoc](https://laidig.github.io/gtfs-rt-autodoc/index.html) - Automatically generated documentation for GTFS-realtime, generated from the official [GTFS-realtime protocol buffer specification (⭐646)](https://github.com/google/transit/blob/master/gtfs-realtime/proto/gtfs-realtime.proto) and including some extensions.
 
-## [11. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+## [12. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Tools and session management
 
-*   [tmuxpair (⭐44)](https://github.com/goerz/tmuxpair) Command line script for setting up a temporary tmux session for pair programming
+*   [tmuxpair (⭐45)](https://github.com/goerz/tmuxpair) Command line script for setting up a temporary tmux session for pair programming
 
-## [12. Awesome Xamarin](/content/XamSome/awesome-xamarin/week/README.md)
+## [13. Awesome Xamarin](/content/XamSome/awesome-xamarin/week/README.md)
 
 ### UI
 
 *   [XamEffects ★53 (⭐251)](https://github.com/mrxten/XamEffects) - Touch effect for Xamarin.Forms.
 
-## [13. Amas](/content/sindresorhus/amas/week/README.md)
+## [14. Amas](/content/sindresorhus/amas/week/README.md)
 
 ### Ask these people anything!
 
 *   [Khen Daniel (⭐0)](https://github.com/thekhenzie/ama) - Software Engineer. Aspiring Photographer. Hacker.
 
-## [14. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
+## [15. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### IDE
 
@@ -111,7 +117,7 @@
 *   [dbForge Studio for PostgreSQL](https://www.devart.com/dbforge/postgresql/studio) - GUI tool for managing and developing databases and objects.
 *   [dbForge Studio for SQL Server](https://www.devart.com/dbforge/sql/studio) - Powerful integrated development environment for SQL Server development, management, administration, data analysis, and reporting.
 
-## [15. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/week/README.md)
+## [16. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/week/README.md)
 
 ### Very Lightweight
 
@@ -119,7 +125,7 @@
     ![](https://img.shields.io/github/stars/pure-css/pure.svg?style=social\&label=Star)
     [Demo](https://purecss.io/layouts/),
     [Docs](https://purecss.io/start/),
-    [Repo (⭐23k)](https://github.com/pure-css/pure)
+    [Repo (⭐24k)](https://github.com/pure-css/pure)
     \| #CSS
 *   [**Picnic CSS**](https://picnicss.com) - Lightweight and beautiful library.\
     ![](https://img.shields.io/github/stars/franciscop/picnic.svg?style=social\&label=Star)
@@ -140,7 +146,7 @@
     ![](https://img.shields.io/github/stars/twbs/bootstrap.svg?style=social\&label=Star)
     [Demo](https://getbootstrap.com/docs/4.0/examples/),
     [Docs](https://getbootstrap.com/docs/4.0/),
-    [Repo (⭐168k)](https://github.com/twbs/bootstrap)
+    [Repo (⭐171k)](https://github.com/twbs/bootstrap)
     \| #SCSS
 *   [**Bulma**](https://bulma.io) - Modern CSS framework based on Flexbox.\
     ![](https://img.shields.io/github/stars/jgthms/bulma.svg?style=social\&label=Star)
@@ -157,7 +163,7 @@
 *   [**Primer**](https://primer.style/) - CSS framework that powers GitHub's front-end design.\
     ![](https://img.shields.io/github/stars/primer/css.svg?style=social\&label=Star)
     [Docs](https://primer.style/css/),
-    [Repo (⭐12k)](https://github.com/primer/css)
+    [Repo (⭐13k)](https://github.com/primer/css)
     \| #SCSS
 
 ### Material Design
@@ -174,14 +180,14 @@
 *   [**Tailwind CSS**](https://tailwindcss.com) - Utility-first CSS framework for rapid UI development.\
     ![](https://img.shields.io/github/stars/tailwindlabs/tailwindcss.svg?style=social\&label=Star)
     [Docs](https://tailwindcss.com/docs),
-    [Repo (⭐79k)](https://github.com/tailwindlabs/tailwindcss)
+    [Repo (⭐84k)](https://github.com/tailwindlabs/tailwindcss)
     \| #CSS
 
 ### Specialized
 
 *   [**98.css**](https://jdan.github.io/98.css/) - CSS library for building interfaces that look like Windows 98.\
     ![](https://img.shields.io/github/stars/jdan/98.css.svg?style=social\&label=Star)
-    [Repo (⭐8.7k)](https://github.com/jdan/98.css)
+    [Repo (⭐9.7k)](https://github.com/jdan/98.css)
     \| #CSS
 *   [**Gutenberg**](https://github.com/BafS/Gutenberg) - Modern framework to print the web correctly.\
     ![](https://img.shields.io/github/stars/BafS/Gutenberg.svg?style=social\&label=Star)
@@ -196,34 +202,23 @@
 
 ### Stalled Development
 
-*   [**Milligram**](https://milligram.io) - Minimalist CSS framework.\
-    ![](https://img.shields.io/github/stars/milligram/milligram.svg?style=social\&label=Star)
-    [Demo](https://milligram.io/showcase.html),
-    [Docs](https://milligram.io/#getting-started),
-    [Repo (⭐10k)](https://github.com/milligram/milligram)
-    \| #Sass
 *   [**sanitize.css**](https://csstools.github.io/sanitize.css/) - The best-practices CSS foundation.\
     ![](https://img.shields.io/github/stars/csstools/sanitize.css.svg?style=social\&label=Star)
     [Repo (⭐5.2k)](https://github.com/csstools/sanitize.css)
     \| #CSS
-*   [**MUI**](https://www.muicss.com) - Lightweight CSS framework that follows Google's Material Design guidelines.\
-    ![](https://img.shields.io/github/stars/muicss/mui.svg?style=social\&label=Star)
-    [Docs](https://www.muicss.com/docs/v1/getting-started/introduction),
-    [Repo (⭐4.5k)](https://github.com/muicss/mui)
-    \| #SCSS
 *   [**minireset.css**](https://jgthms.com/minireset.css/) - Tiny modern CSS reset.\
     ![](https://img.shields.io/github/stars/jgthms/minireset.css.svg?style=social\&label=Star)
-    [Repo (⭐2.7k)](https://github.com/jgthms/minireset.css)
+    [Repo (⭐2.8k)](https://github.com/jgthms/minireset.css)
     \| #Sass
 
-## [16. Awesome Ava](/content/avajs/awesome-ava/week/README.md)
+## [17. Awesome Ava](/content/avajs/awesome-ava/week/README.md)
 
 ### Packages
 
 *   [ava-fixture (⭐5)](https://github.com/unional/ava-fixture) - Run fixture/baseline tests.
 *   [ava-fast-check (⭐44)](https://github.com/dubzzz/ava-fast-check) - Property based testing.
 
-## [17. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
+## [18. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
 
 ### Articles
 
@@ -235,7 +230,7 @@
 
 *   [npm.community](https://npm.community/c/support)
 
-## [18. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [19. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Other Awesome Lists
 
@@ -243,49 +238,35 @@
 
 ### Tab / Barcode
 
-*   [ESTabBarController (⭐5.1k)](https://github.com/eggswift/ESTabBarController) - A highly customizable TabBarController component, which is inherited from UITabBarController.
+*   [ESTabBarController (⭐5.2k)](https://github.com/eggswift/ESTabBarController) - A highly customizable TabBarController component, which is inherited from UITabBarController.
 
-## [19. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [20. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### File Upload
 
 *   [PaperClip (⭐9k)](https://github.com/thoughtbot/paperclip) - Easy file attachment management for ActiveRecord. Deprecated as of May 14, 2018.
 
-## [20. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
+## [21. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
 ### Become an Appium Pro
 
 *   [Finding Elements By Image, Part 2](https://appiumpro.com/editions/33)
 
-## [21. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [22. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Top / Game Engine resources
 
-*   [Taskist (⭐975)](https://github.com/huextrat/Taskist) <!--stargazers:huextrat/Taskist--> - Taskist is a ToDo List app for Task Management by [Hugo EXTRAT](https://github.com/huextrat)
-
-## [22. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
-
-### Resources / Tutorials
-
-*   [Real World Projects with Vue.js](https://www.packtpub.com/web-development/real-world-projects-vuejs-video) by Daniel Khalil, Packt. (August 2018)
-
-### Resources / Examples
-
-*   [ASP.NET Core Vue Starter CLI 3.0 (⭐556)](https://github.com/SoftwareAteliers/asp-net-core-vue-starter) A Vue starter template using Vue CLI 3.0 with custom configuration (default TypeScript, Vue, Router, Vuex, Vuetify) integrated with ASP.​NET Core by [@SoftwareAteliers](https://github.com/SoftwareAteliers) (September 2018)
-
-### Components & Libraries / UI Utilities
-
-*   [vue2-scrollspy (⭐136)](https://github.com/ibufu/vue2-scrollspy) - A scrollspy plugin and animated scroll-to.
+*   [Taskist (⭐1k)](https://github.com/huextrat/Taskist) <!--stargazers:huextrat/Taskist--> - Taskist is a ToDo List app for Task Management by [Hugo EXTRAT](https://github.com/huextrat)
 
 ## [23. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
 
 ### Libraries and Tools / C
 
-*   [dbcc (⭐334)](https://github.com/howerj/dbcc) - "dbcc is a program for converting a DBC file primarily into into C code that can serialize and deserialize CAN messages." With existing DBC files from a vehicle, this file allows you to convert them to C code that extracts the CAN messages and properties of the CAN environment.
+*   [dbcc (⭐383)](https://github.com/howerj/dbcc) - "dbcc is a program for converting a DBC file primarily into into C code that can serialize and deserialize CAN messages." With existing DBC files from a vehicle, this file allows you to convert them to C code that extracts the CAN messages and properties of the CAN environment.
 
 ### Libraries and Tools / Python
 
-*   [CanCat (⭐186)](https://github.com/atlas0fd00m/CanCat) - A "swiss-army knife" for interacting with live CAN data. Primary API interface in Python, but written in C++.
+*   [CanCat (⭐199)](https://github.com/atlas0fd00m/CanCat) - A "swiss-army knife" for interacting with live CAN data. Primary API interface in Python, but written in C++.
 
 ## [24. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
@@ -393,7 +374,7 @@
 
 ### Frameworks
 
-*   [ETL (⭐2.1k)](https://github.com/ETLCPP/etl) - Embedded Template Library. \[MIT]
+*   [ETL (⭐2.3k)](https://github.com/ETLCPP/etl) - Embedded Template Library. \[MIT]
 
 ### Podcasts
 
@@ -443,7 +424,7 @@
 
 ### Misc
 
-*   [retriable.cr (⭐41)](https://github.com/Sija/retriable.cr) - Simple DSL to retry failed code blocks
+*   [retriable.cr (⭐42)](https://github.com/Sija/retriable.cr) - Simple DSL to retry failed code blocks
 
 ### DevOps
 
@@ -496,7 +477,7 @@
 
 ### Algorithms and Data structures
 
-*   [bimap (⭐27)](https://github.com/mkaput/elixir-bimap) - Pure Elixir implementation of [bidirectional maps](https://en.wikipedia.org/wiki/Bidirectional_map) and multimaps.
+*   [bimap (⭐28)](https://github.com/mkaput/elixir-bimap) - Pure Elixir implementation of [bidirectional maps](https://en.wikipedia.org/wiki/Bidirectional_map) and multimaps.
 
 ## [37. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/week/README.md)
 

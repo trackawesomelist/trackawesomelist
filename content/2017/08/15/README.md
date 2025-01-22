@@ -31,14 +31,6 @@
 
 *   [Vue.js 预览](https://ninghao.net/course/4256) on ninghao.net
 
-### Projects Using Vue.js / Open Source
-
-*   [LeafPlayer (⭐155)](https://github.com/paulschwoerer/leafplayer) - A simple and fast, privately hosted music streaming server.
-
-### Components & Libraries / UI Utilities
-
-*   [vue-intersect (⭐322)](https://github.com/heavyy/vue-intersect) - A Vue component to add intersection-observer to a Vue component or HTML element.
-
 ## [5. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Menu / Barcode

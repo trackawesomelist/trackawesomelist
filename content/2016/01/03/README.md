@@ -24,7 +24,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [pgmpy (⭐2.7k)](https://github.com/pgmpy/pgmpy) A python library for working with Probabilistic Graphical Models.
+*   [pgmpy (⭐2.8k)](https://github.com/pgmpy/pgmpy) A python library for working with Probabilistic Graphical Models.
 
 ## [4. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 19, 2023
 
-14 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,12 +10,12 @@
 
 ### Machine Learning / General Purpose Machine Learning
 
-*   [PyCaret (⭐8.4k)](https://github.com/pycaret/pycaret) - An open-source, low-code machine learning library in Python.  <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/R_big.png" alt="R inspired lib">
+*   [PyCaret (⭐8.9k)](https://github.com/pycaret/pycaret) - An open-source, low-code machine learning library in Python.  <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/R_big.png" alt="R inspired lib">
 
 ### Reinforcement Learning / Others
 
-*   [DI-engine (⭐2.6k)](https://github.com/opendilab/DI-engine) - OpenDILab Decision AI Engine. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
-*   [Imitation (⭐1.1k)](https://github.com/HumanCompatibleAI/imitation) - Clean PyTorch implementations of imitation and reward learning algorithms. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
+*   [DI-engine (⭐3k)](https://github.com/opendilab/DI-engine) - OpenDILab Decision AI Engine. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
+*   [Imitation (⭐1.3k)](https://github.com/HumanCompatibleAI/imitation) - Clean PyTorch implementations of imitation and reward learning algorithms. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
 
 ## [2. Awesome Naming](/content/gruhn/awesome-naming/README.md)
 
@@ -29,13 +29,7 @@
 
 *   [tailwind-react](https://tw-elements.com/docs/standard/integrations/react-integration/) - Article that shows you how to integrate React application with Tailwind
 
-## [4. Awesome Vite](/content/vitejs/awesome-vite/README.md)
-
-### Templates / Vanilla
-
-*   [create-domco (⭐16)](https://github.com/rossrobino/domco) - Starter template for domco SSG.
-
-## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [4. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Media / Diagnostics
 
@@ -43,9 +37,9 @@
 
 ### Code Runner / Diagnostics
 
-*   [dasupradyumna/launch.nvim (⭐48)](https://github.com/dasupradyumna/launch.nvim) - A simple and quick task launcher which allows dynamically configuring tasks on the fly, with optional support for debugging.
+*   [dasupradyumna/launch.nvim (⭐51)](https://github.com/dasupradyumna/launch.nvim) - A simple and quick task launcher which allows dynamically configuring tasks on the fly, with optional support for debugging.
 
-## [6. Typedb Awesome](/content/vaticle/typedb-awesome/README.md)
+## [5. Typedb Awesome](/content/vaticle/typedb-awesome/README.md)
 
 ### Open source projects using TypeDB
 
@@ -108,17 +102,7 @@
 *   [LinkedIn](https://www.linkedin.com/groups/13657731/)
 *   [Blog](https://typedb.com/blog)
 
-## [7. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/README.md)
-
-### **Azure Reference Architectures** / **Azure AI Search**
-
-*   Hybrid search using Reciprocal Rank Fusion (RRF): Reciprocal Rank Fusion (RRF) is an algorithm that evaluates the search scores from multiple, previously ranked results to produce a unified result set. In Azure Cognitive Search, RRF is used whenever there are two or more queries that execute in parallel. [ref](https://learn.microsoft.com/en-us/azure/search/hybrid-search-ranking)
-
-### **LangChain vs Competitors** / **LangChain vs Semantic Kernel vs Azure Machine Learning Prompt flow**
-
-*   Promptflow is not intended to replace chat conversation flow. Instead, it’s an optimized solution for integrating Search and Open Source Language Models. By default, it supports Python, LLM, and the Prompt tool as its fundamental building blocks.
-
-## [8. Ai Collective Tools](/content/Hyraze/ai-collective-tools/README.md)
+## [6. Ai Collective Tools](/content/Hyraze/ai-collective-tools/README.md)
 
 ### Legal Assistant
 
@@ -135,45 +119,19 @@
 *   [Neural Times](https://www.neuraltimes.org/) - Your Unbiased AI-Powered News Source `#free`
 *   [Quill](https://apps.apple.com/us/app/quill-news-digest/id1669557131) - The AI Way to Stay Informed `#free`
 
-## [9. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
+## [7. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Packages / Command-line utilities
 
-*   [listr2 (⭐490)](https://github.com/listr2/listr2) - Terminal task list.
+*   [listr2 (⭐531)](https://github.com/listr2/listr2) - Terminal task list.
 
-## [10. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
+## [8. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
 
 ### AI
 
 *   [Landing AI](https://landing.ai/) - Building computer vision systems in minutes via natural prompting interactions.
 
-## [11. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
-
-### Family
-
-### [Tide of Fortune](https://boardgamegeek.com/boardgame/3354/tide-fortune)
-
-> This is an evolution of the Westwar series first introduced by Vanguard Games with Pas de Calais. Other games using a similar system are To the Far Shore and the Italian Campaign series (Sicily, Salerno, Anzio and Med War).
->
-> Tide of Fortune features the September-October Allied campaign in northern Belgium and in the Low countries, culminating with the Arnhem operation.
->
-> Scale is 1-2 days/turn (variable because of the Impulse system), 3 km/hex. Units are regiments/brigades.
->
-> The game has 2 22"x34" maps, 300 counters.
->
-> The heart of the system is the Operations phase where players alternate activating formations (divisions) which execute Orders (Assault, Advance, Maneuver etc.).
->
-> Players bid for Initiative and there are possibilities for the Reaction player to foil the initiative player's moves by having units react and do spoiling attacks.
->
-> Losses can be applied to the HQ of a formation, not only directly to units.
->
-> Low counter density, high maneuver. Medium-high complexity.
-
-<img src="https://cf.geekdo-images.com/vkDLqn-CMvTelKH0BvBBRA__imagepage/img/k2e0JHeSt5AwvNJco2rzFAXXaKM=/fit-in/900x600/filters:no_upscale():strip_icc()/pic3446255.jpg" width="270" height="285">
-
-| Players | Min. Age | Time |
-| ------: | -------: | ---: |
-|    1 -2 |       12 | 360m |
+## [9. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 
 ### Party
 
@@ -187,7 +145,7 @@
 | ------: | -------: | ------: |
 |   1 - 4 |       14 | 30-120m |
 
-## [12. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Monitoring
 
@@ -201,13 +159,13 @@
 
 *   [Markdown Tools](https://markdowntools.com) - Tools for converting HTML, CSVs, PDFs, JSON, and Excel files to and from Markdown
 
-## [13. Awesome Bash](/content/awesome-lists/awesome-bash/README.md)
+## [11. Awesome Bash](/content/awesome-lists/awesome-bash/README.md)
 
 ### Customization
 
 *   [LS\_COLORS (⭐2.1k)](https://github.com/trapd00r/LS_COLORS) - A collection of LS\_COLORS definitions.
 
-## [14. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+## [12. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
 ### Algorithms & Data Structures
 

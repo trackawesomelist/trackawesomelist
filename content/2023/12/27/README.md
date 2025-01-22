@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 27, 2023
 
-35 awesome lists updated today.
+34 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -135,17 +135,17 @@
 
 ### Python / Trading & Backtesting
 
-*   [Investing algorithm framework (⭐112)](https://github.com/coding-kitties/investing-algorithm-framework) - Framework for developing, backtesting, and deploying automated trading algorithms.
-*   [vnpy (⭐24k)](https://github.com/vnpy/vnpy) - VeighNa is a Python-based open source quantitative trading system development framework.
-*   [Intelligent Trading Bot (⭐841)](https://github.com/asavinov/intelligent-trading-bot) - Automatically generating signals and trading based on machine learning and feature engineering
+*   [Investing algorithm framework (⭐301)](https://github.com/coding-kitties/investing-algorithm-framework) - Framework for developing, backtesting, and deploying automated trading algorithms.
+*   [vnpy (⭐27k)](https://github.com/vnpy/vnpy) - VeighNa is a Python-based open source quantitative trading system development framework.
+*   [Intelligent Trading Bot (⭐1.2k)](https://github.com/asavinov/intelligent-trading-bot) - Automatically generating signals and trading based on machine learning and feature engineering
 
 ### Python / Quant Research Environment
 
-*   [Jupyter Quant (⭐4)](https://github.com/gnzsnz/jupyter-quant) - A dockerized Jupyter quant research environment with preloaded tools for quant analysis, statsmodels, pymc, arch, py\_vollib, zipline-reloaded, PyPortfolioOpt, etc.
+*   [Jupyter Quant (⭐8)](https://github.com/gnzsnz/jupyter-quant) - A dockerized Jupyter quant research environment with preloaded tools for quant analysis, statsmodels, pymc, arch, py\_vollib, zipline-reloaded, PyPortfolioOpt, etc.
 
 ### Reproducing Works, Training & Books / Data Visualization
 
-*   [QuantFinanceTraining (⭐17)](https://github.com/JoaoJungblut/QuantFinanceTraining) - This repository contains codes that were executed during my training in the CQF (Certificate in Quantitative Finance). The codes are organized by class, facilitating navigation and reference.
+*   [QuantFinanceTraining (⭐22)](https://github.com/JoaoJungblut/QuantFinanceTraining) - This repository contains codes that were executed during my training in the CQF (Certificate in Quantitative Finance). The codes are organized by class, facilitating navigation and reference.
 
 ## [5. Awesome Polars](/content/ddotta/awesome-polars/README.md)
 
@@ -183,7 +183,7 @@
 ### Communications / Pragmatics
 
 *   [The SocialAI School: Insights from Developmental Psychology Towards Artificial Socio-Cultural Agents](https://arxiv.org/abs/2307.07871) - ***ICML'23 Workshop on Theory-of-Mind***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=11933410239580707313\&hl=en\&as_sdt=0,5)]. \[[Project](https://sites.google.com/view/socialai-school)].
-*   [Exploring Urban Form Through Openstreetmap Data: A Visual Introduction](https://arxiv.org/abs/2008.12142) - ***Urban Experience and Design: Contemporary Perspectives on Improving the Public Realm***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=7094530618542001733\&hl=en\&as_sdt=0,5)]. \[[OSMnx Tool (⭐4.8k)](https://github.com/gboeing/osmnx)]. \[[OpenStreetMap Website](https://www.openstreetmap.org/)].
+*   [Exploring Urban Form Through Openstreetmap Data: A Visual Introduction](https://arxiv.org/abs/2008.12142) - ***Urban Experience and Design: Contemporary Perspectives on Improving the Public Realm***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=7094530618542001733\&hl=en\&as_sdt=0,5)]. \[[OSMnx Tool (⭐5k)](https://github.com/gboeing/osmnx)]. \[[OpenStreetMap Website](https://www.openstreetmap.org/)].
 *   [Saying what you mean in dialogue: A study in conceptual and semantic co-ordination](https://www.speech.kth.se/~edlund/bielefeld/references/garrod-and-anderson-1987.pdf) - ***Cognition***, 1987. \[[All Versions](https://scholar.google.com/scholar?cluster=15377075954534820544\&hl=en\&as_sdt=0,5)].
 *   [Conversation, co-ordination and convention: an empirical investigation of how groups establish linguistic conventions](http://www.sfs.uni-tuebingen.de/~gjaeger/lehre/ws0708/spieltheorie/garrod.pdf) - ***Cognition***, 1994. \[[All Versions](https://scholar.google.com/scholar?cluster=3784850469297049700\&hl=en\&as_sdt=0,5)].
 
@@ -205,9 +205,9 @@
 
 ### Integrations
 
-*   [Chromium for Serverless platforms (⭐893)](https://github.com/Sparticuz/chromium?tab=readme-ov-file#usage-with-playwright) - Chromium for Serverless platforms.
-*   [@axe-core/playwright (⭐581)](https://github.com/dequelabs/axe-core-npm/blob/develop/packages/playwright/README.md) - Official Axe integration with Playwright.
-*   [artillery-engine-playwright (⭐7.8k)](https://github.com/artilleryio/artillery/tree/main/packages/artillery-engine-playwright) - Load testing with Playwright.
+*   [Chromium for Serverless platforms (⭐962)](https://github.com/Sparticuz/chromium?tab=readme-ov-file#usage-with-playwright) - Chromium for Serverless platforms.
+*   [@axe-core/playwright (⭐598)](https://github.com/dequelabs/axe-core-npm/blob/develop/packages/playwright/README.md) - Official Axe integration with Playwright.
+*   [artillery-engine-playwright (⭐7.9k)](https://github.com/artilleryio/artillery/tree/main/packages/artillery-engine-playwright) - Load testing with Playwright.
 *   [Serenity/JS](https://serenity-js.org) - Acceptance testing, reporting, and test integration framework for Playwright, implementing the [Screenplay Pattern](https://serenity-js.org/handbook/design/screenplay-pattern/).
 
 ### Utils
@@ -217,7 +217,7 @@
 
 ### Reporters
 
-*   [testomatio-reporter (⭐119)](https://github.com/testomatio/reporter) - Runs and sends test executions to the TCMS testomatio, Jira / Linear / Azure DevOps task management.
+*   [testomatio-reporter (⭐123)](https://github.com/testomatio/reporter) - Runs and sends test executions to the TCMS testomatio, Jira / Linear / Azure DevOps task management.
 
 ### Guides
 
@@ -272,22 +272,22 @@
 
 ### HAL implementation crates / Microchip
 
-*   [`atsamx7x-hal`](https://crates.io/crates/atsamx7x-hal) - HAL for SAM S70/E70/V70/V71-based devices - ![crates.io](https://img.shields.io/crates/v/atsamx7x-hal.svg)
+*   [`atsamx7x-hal`](https://crates.io/crates/atsamx7x-hal) - HAL for SAM S70/E70/V70/V71-based devices - [![crates.io](https://img.shields.io/crates/v/atsamx7x-hal.svg)](https://crates.io/crates/atsamx7x-hal)
 
 ### Driver crates / Other
 
-*   [MAX6675](https://crates.io/crates/max6675-hal) - SPI - A driver for the MAX6675 digital thermocouple converter - [Intro blog post](https://barretts.club/posts/max6675-hal/) - ![crates.io](https://img.shields.io/crates/v/max6675-hal.svg)
+*   [MAX6675](https://crates.io/crates/max6675-hal) - SPI - A driver for the MAX6675 digital thermocouple converter - [Intro blog post](https://barretts.club/posts/max6675-hal/) - [![crates.io](https://img.shields.io/crates/v/max6675-hal.svg)](https://crates.io/crates/max6675-hal)
 
 ### Driver crates / WIP
 
-*   [MS5637](https://crates.io/crates/ms5637) - no\_std I2C driver for the MS5637 temperature and pressure sensor ![crates.io](https://img.shields.io/crates/v/ms5637.svg)
+*   [MS5637](https://crates.io/crates/ms5637) - no\_std I2C driver for the MS5637 temperature and pressure sensor [![crates.io](https://img.shields.io/crates/v/ms5637.svg)](https://crates.io/crates/ms5637)
 *   [HX711 (⭐6)](https://github.com/DaneSlattery/hx711) - GPIO - An interrupt-based driver for the HX711 Load Cell Amplifier IC. no-std.
 
 ## [14. Awesome Vala](/content/desiderantes/awesome-vala/README.md)
 
 ### Apps / Productivity
 
-*   [Planify (⭐2.5k)](https://github.com/alainm23/planify) - Task manager with Todoist support designed for GNU/Linux.
+*   [Planify (⭐3.8k)](https://github.com/alainm23/planify) - Task manager with Todoist support designed for GNU/Linux.
 
 ## [15. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
@@ -301,7 +301,7 @@
 
 *   [HKDF (⭐1)](https://github.com/spider-gazelle/HKDF) - HMAC-based Extract-and-Expand Key Derivation Function [rfc5869](https://www.rfc-editor.org/rfc/rfc5869)
 *   [named\_information (⭐0)](https://github.com/spider-gazelle/named_information) - Naming Things with Hashes [rfc6920](https://datatracker.ietf.org/doc/html/rfc6920)
-*   [SPAKE2+ (⭐1)](https://github.com/spider-gazelle/SPAKE2_plus) - Password Authenticated Key Exchange (PAKE) protocol, comparable to SRP-6a
+*   [SPAKE2+ (⭐2)](https://github.com/spider-gazelle/SPAKE2_plus) - Password Authenticated Key Exchange (PAKE) protocol, comparable to SRP-6a
 *   [verhoeff (⭐0)](https://github.com/spider-gazelle/verhoeff) - Implementation of the Verhoeff checksum algorithm
 
 ## [17. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
@@ -319,12 +319,12 @@
 
 ### Theorem provers
 
-*   NASA's [PVS](https://pvs.csl.sri.com/), the Prototype Verification System, and [NASAlib (⭐259)](https://github.com/nasa/pvslib), a collection of formal development libraries.
+*   NASA's [PVS](https://pvs.csl.sri.com/), the Prototype Verification System, and [NASAlib (⭐270)](https://github.com/nasa/pvslib), a collection of formal development libraries.
     *   its 63 top-level libraries span the fields of: real analysis, limits, continuity, derivatives, integrals; complex integration; directed graphs; exact real arithmetic including trig functions; interval arithmetic and numerical approximations; linear algebra; 2-D, 3-D, 4-D, and n-dimensional vectors… and more.
 
 ### Others / OpenAPI, OData, OpenRPC
 
-*   [jsonrpc (⭐64)](https://github.com/cxxxr/jsonrpc) -  JSON-RPC 2.0 server/client for Common Lisp. [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
+*   [jsonrpc (⭐68)](https://github.com/cxxxr/jsonrpc) -  JSON-RPC 2.0 server/client for Common Lisp. [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
 ## [18. Awesome R](/content/qinwf/awesome-R/README.md)
 
@@ -340,95 +340,95 @@
 
 ### Frameworks
 
-*   [itlib (⭐151)](https://github.com/iboB/itlib) - A collection of std-like single-header C++ libraries  \[MIT]
+*   [itlib (⭐163)](https://github.com/iboB/itlib) - A collection of std-like single-header C++ libraries  \[MIT]
 
 ### CLI
 
-*   [argparse (⭐2.6k)](https://github.com/p-ranav/argparse) - Argument Parser for Modern C++. \[MIT]
+*   [argparse (⭐2.9k)](https://github.com/p-ranav/argparse) - Argument Parser for Modern C++. \[MIT]
 
 ### Containers
 
-*   [parallel-hashmap (⭐2.5k)](https://github.com/greg7mdp/parallel-hashmap) - A family of header-only, very fast and memory-friendly hashmap and btree containers \[Apache2] [website](https://greg7mdp.github.io/parallel-hashmap/)
-*   [plf::colony (⭐391)](https://github.com/mattreecebentley/plf_colony) - An unordered "bag"-type container which outperforms std containers in high-modification scenarios while maintaining permanent pointers to non-erased elements regardless of insertion/erasure. \[zLib] [website](http://www.plflib.org/colony.htm)
+*   [parallel-hashmap (⭐2.7k)](https://github.com/greg7mdp/parallel-hashmap) - A family of header-only, very fast and memory-friendly hashmap and btree containers \[Apache2] [website](https://greg7mdp.github.io/parallel-hashmap/)
+*   [plf::colony (⭐401)](https://github.com/mattreecebentley/plf_colony) - An unordered "bag"-type container which outperforms std containers in high-modification scenarios while maintaining permanent pointers to non-erased elements regardless of insertion/erasure. \[zLib] [website](http://www.plflib.org/colony.htm)
 
 ### Database
 
-*   [TinyORM (⭐218)](https://github.com/silverqx/TinyORM) - Modern C++ ORM library. \[MIT] [website](https://www.tinyorm.org/)
+*   [TinyORM (⭐271)](https://github.com/silverqx/TinyORM) - Modern C++ ORM library. \[MIT] [website](https://www.tinyorm.org/)
 
 ### Debug
 
-*   [Cpptrace (⭐594)](https://github.com/jeremy-rifkin/cpptrace) - A simple, portable, and self-contained C++ stacktrace library supporting C++11 and greater. \[MIT]
+*   [Cpptrace (⭐793)](https://github.com/jeremy-rifkin/cpptrace) - A simple, portable, and self-contained C++ stacktrace library supporting C++11 and greater. \[MIT]
 
 ### Graphics
 
-*   [LunaSVG (⭐827)](https://github.com/sammycage/lunasvg) - a standalone SVG rendering library in C++. \[MIT]
+*   [LunaSVG (⭐936)](https://github.com/sammycage/lunasvg) - a standalone SVG rendering library in C++. \[MIT]
 
 ### Image Processing
 
-*   [libavif (⭐1.5k)](https://github.com/AOMediaCodec/libavif) - Library for encoding and decoding .avif files. \[BSD-2-Clause]
-*   [libjxl (⭐2.5k)](https://github.com/libjxl/libjxl) - JPEG XL image format reference implementation. \[BSD-3-Clause]
-*   [libspng (⭐714)](https://github.com/randy408/libspng) - Simple, modern libpng alternative. \[BSD-2] [website](https://libspng.org/)
+*   [libavif (⭐1.6k)](https://github.com/AOMediaCodec/libavif) - Library for encoding and decoding .avif files. \[BSD-2-Clause]
+*   [libjxl (⭐2.8k)](https://github.com/libjxl/libjxl) - JPEG XL image format reference implementation. \[BSD-3-Clause]
+*   [libspng (⭐759)](https://github.com/randy408/libspng) - Simple, modern libpng alternative. \[BSD-2] [website](https://libspng.org/)
 *   [LodePNG (⭐2.1k)](https://github.com/lvandeve/lodepng) - PNG encoder and decoder in C and C++. \[Zlib]
-*   [MozJPEG (⭐5.4k)](https://github.com/mozilla/mozjpeg) - Improved JPEG encoder. \[BSD/BSD-3-Clause/ZLIB]
+*   [MozJPEG (⭐5.5k)](https://github.com/mozilla/mozjpeg) - Improved JPEG encoder. \[BSD/BSD-3-Clause/ZLIB]
 
 ### Memory Allocation
 
-*   [buddy\_alloc (⭐134)](https://github.com/spaskalev/buddy_alloc) - A single header buddy memory allocator for C with bounded allocation costs. \[0BSD]
+*   [buddy\_alloc (⭐165)](https://github.com/spaskalev/buddy_alloc) - A single header buddy memory allocator for C with bounded allocation costs. \[0BSD]
 
 ### Office Open XML
 
-*   [DuckX (⭐403)](https://github.com/amiremohamadi/DuckX) - C++ library for creating and modifying Microsoft Word (.docx) files. \[MIT]
+*   [DuckX (⭐435)](https://github.com/amiremohamadi/DuckX) - C++ library for creating and modifying Microsoft Word (.docx) files. \[MIT]
 *   [FreeXL](https://www.gaia-gis.it/fossil/freexl/index) - an open source library to extract valid data from within Spreadsheets. \[MPL/GPL-2/LGPL-2]
-*   [libxls (⭐418)](https://github.com/libxls/libxls) - Read binary Excel files from C/C++ \[BSD-2-Clause]
-*   [libxlsxwriter (⭐1.5k)](https://github.com/jmcnamara/libxlsxwriter) - A C library for creating Excel XLSX files. \[BSD-2-Clause] [website](https://libxlsxwriter.github.io/)
-*   [OpenXLSX (⭐1.3k)](https://github.com/troldal/OpenXLSX) - A C++ library for reading, writing, creating and modifying Microsoft Excel® (.xlsx) files.  \[BSD-3-Clause]
+*   [libxls (⭐450)](https://github.com/libxls/libxls) - Read binary Excel files from C/C++ \[BSD-2-Clause]
+*   [libxlsxwriter (⭐1.6k)](https://github.com/jmcnamara/libxlsxwriter) - A C library for creating Excel XLSX files. \[BSD-2-Clause] [website](https://libxlsxwriter.github.io/)
+*   [OpenXLSX (⭐1.4k)](https://github.com/troldal/OpenXLSX) - A C++ library for reading, writing, creating and modifying Microsoft Excel® (.xlsx) files.  \[BSD-3-Clause]
 *   [SimpleXlsxWriter](https://sourceforge.net/projects/simplexlsx/) - XLSX files writer for Microsoft Excel 2007 and above. \[zlib]
-*   [XLSX I/O (⭐409)](https://github.com/brechtsanders/xlsxio) - C library for reading and writing .xlsx files. \[MIT]
+*   [XLSX I/O (⭐454)](https://github.com/brechtsanders/xlsxio) - C library for reading and writing .xlsx files. \[MIT]
 
 ### Reflection
 
-*   [reflect-cpp (⭐891)](https://github.com/getml/reflect-cpp) - Serialization through reflection, including automatic field name retrieval from structs. \[MIT]
+*   [reflect-cpp (⭐1.2k)](https://github.com/getml/reflect-cpp) - Serialization through reflection, including automatic field name retrieval from structs. \[MIT]
 
 ### Scripting
 
-*   [QuickJS](https://bellard.org/quickjs/) - a small and embeddable Javascript engine. \[MIT]
-*   [v8pp (⭐894)](https://github.com/pmed/v8pp) - Header-only library to expose C++ classes and functions into V8 to use them in JavaScript code. \[BOOST] [website](https://pmed.github.io/v8pp/)
+*   [QuickJS](https://bellard.org/quickjs/) - a small and embeddable JavaScript engine. \[MIT]
+*   [v8pp (⭐919)](https://github.com/pmed/v8pp) - Header-only library to expose C++ classes and functions into V8 to use them in JavaScript code. \[BOOST] [website](https://pmed.github.io/v8pp/)
 
 ### Serialization
 
-*   [iguana (⭐1.1k)](https://github.com/qicosmos/iguana) - a modern, universal and easy-to-use serialization engine developed in C++20 and C++17. \[Apache2]
+*   [iguana (⭐1.2k)](https://github.com/qicosmos/iguana) - a modern, universal and easy-to-use serialization engine developed in C++20 and C++17. \[Apache2]
 
 ### Serial Port
 
-*   [CSerialPort (⭐702)](https://github.com/itas109/CSerialPort) - lightweight cross-platform serial port library. \[LGPL3]
+*   [CSerialPort (⭐762)](https://github.com/itas109/CSerialPort) - lightweight cross-platform serial port library. \[LGPL3]
 
 ### Sorting
 
-*   [cpp-sort (⭐618)](https://github.com/Morwenn/cpp-sort) - Sorting algorithms & related tools for C++14. \[MIT]
+*   [cpp-sort (⭐632)](https://github.com/Morwenn/cpp-sort) - Sorting algorithms & related tools for C++14. \[MIT]
 
 ### Miscellaneous
 
-*   [date (⭐3.1k)](https://github.com/HowardHinnant/date) - A date and time library based on the C++11/14/17 <chrono> header. \[MIT] [website](https://howardhinnant.github.io/date/date.html)
-*   [emio (⭐130)](https://github.com/Viatorus/emio) - A safe and fast high-level and low-level character input/output library. \[MIT]
-*   [hedley (⭐764)](https://github.com/nemequ/hedley) - A C/C++ header file designed to smooth over some platform-specific annoyances. [website](https://nemequ.github.io/hedley/)
+*   [date (⭐3.2k)](https://github.com/HowardHinnant/date) - A date and time library based on the C++11/14/17 <chrono> header. \[MIT] [website](https://howardhinnant.github.io/date/date.html)
+*   [emio (⭐137)](https://github.com/Viatorus/emio) - A safe and fast high-level and low-level character input/output library. \[MIT]
+*   [hedley (⭐812)](https://github.com/nemequ/hedley) - A C/C++ header file designed to smooth over some platform-specific annoyances. [website](https://nemequ.github.io/hedley/)
 
 ## [20. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### DevOps Tools
 
-*   [Kamal (⭐9.5k)](https://github.com/basecamp/kamal) - Kamal offers zero-downtime deploys, rolling restarts, asset bridging, remote builds, accessory service management, and everything else you need to deploy and manage your web app in production with Docker.
+*   [Kamal (⭐12k)](https://github.com/basecamp/kamal) - Kamal offers zero-downtime deploys, rolling restarts, asset bridging, remote builds, accessory service management, and everything else you need to deploy and manage your web app in production with Docker.
 
 ## [21. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Artificial Intelligence
 
-*   [langchaingo (⭐4.1k)](https://github.com/tmc/langchaingo) - LangChainGo is a framework for developing applications powered by language models.
-*   [LocalAI (⭐23k)](https://github.com/mudler/LocalAI) - Open Source OpenAI alternative, self-host AI models.
-*   [Ollama (⭐86k)](https://github.com/jmorganca/ollama) - Run large language models locally.
+*   [langchaingo (⭐5.4k)](https://github.com/tmc/langchaingo) - LangChainGo is a framework for developing applications powered by language models.
+*   [LocalAI (⭐29k)](https://github.com/mudler/LocalAI) - Open Source OpenAI alternative, self-host AI models.
+*   [Ollama (⭐109k)](https://github.com/jmorganca/ollama) - Run large language models locally.
 
 ### Email
 
-*   [Maddy (⭐4.9k)](https://github.com/foxcpp/maddy) - All-in-one (SMTP, IMAP, DKIM, DMARC, MTA-STS, DANE) email server
+*   [Maddy (⭐5.3k)](https://github.com/foxcpp/maddy) - All-in-one (SMTP, IMAP, DKIM, DMARC, MTA-STS, DANE) email server
 
 ### Error Handling
 
@@ -440,23 +440,23 @@
 
 ### Serialization
 
-*   [gotiny (⭐17)](https://github.com/raszia/gotiny) - Efficient Go serialization library, gotiny is almost as fast as serialization libraries that generate code.
+*   [gotiny (⭐21)](https://github.com/raszia/gotiny) - Efficient Go serialization library, gotiny is almost as fast as serialization libraries that generate code.
 
 ### Web Frameworks
 
-*   [GoFr (⭐1.6k)](https://github.com/gofr-dev/gofr) - Gofr is an opinionated microservice development framework.
+*   [GoFr (⭐3.9k)](https://github.com/gofr-dev/gofr) - Gofr is an opinionated microservice development framework.
 
 ### Go Generate Tools / Libraries for creating HTTP middlewares
 
-*   [envdoc (⭐50)](https://github.com/g4s8/envdoc) -  generate documentation for environment variables from Go source files.
+*   [envdoc (⭐72)](https://github.com/g4s8/envdoc) -  generate documentation for environment variables from Go source files.
 
 ### DevOps Tools / Libraries for creating HTTP middlewares
 
-*   [decompose (⭐82)](https://github.com/s0rg/decompose) - tool to generate and process Docker containers connections graphs.
+*   [decompose (⭐89)](https://github.com/s0rg/decompose) - tool to generate and process Docker containers connections graphs.
 
 ### Other Software / Libraries for creating HTTP middlewares
 
-*   [yai (⭐617)](https://github.com/ekkinox/yai) - AI powered terminal assistant.
+*   [yai (⭐728)](https://github.com/ekkinox/yai) - AI powered terminal assistant.
 
 ## [22. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
@@ -466,13 +466,13 @@
 
 ### Mathematics / Waveform Generator
 
-*   [Sun and Moon (⭐447)](https://github.com/peterhinch/micropython-samples/blob/master/astronomy/README.md) - Determine Sun and Moon rise and set times, Moon phases.
+*   [Sun and Moon (⭐482)](https://github.com/peterhinch/micropython-samples/blob/master/astronomy/README.md) - Determine Sun and Moon rise and set times, Moon phases.
 
 ## [23. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
 ### Third-Party Packages / General
 
-*   [django-nh3 (⭐23)](https://github.com/marksweb/django-nh3) - Django integration with for nh3 and is an alternative for django-bleach.
+*   [django-nh3 (⭐30)](https://github.com/marksweb/django-nh3) - Django integration with for nh3 and is an alternative for django-bleach.
 
 ### Third-Party Packages / Search
 
@@ -494,28 +494,22 @@
 
 ### Other plugins
 
-*   [Safe Area (⭐58)](https://github.com/AlwaysLoveme/capacitor-plugin-safe-area) - Get SafeArea info on Android and IOS.
+*   [Safe Area (⭐76)](https://github.com/AlwaysLoveme/capacitor-plugin-safe-area) - Get SafeArea info on Android and IOS.
 
-## [26. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
-
-### Projects / Integration Frameworks
-
-*   [Ballerina (⭐3.5k) (⭐3.6k)](https://github.com/ballerina-platform/ballerina-lang) - An open-source programming language that simplifies the creation, usage, and combination of network services.
-
-## [27. Awesome Nix](/content/nix-community/awesome-nix/README.md)
+## [26. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
 ### Development / Discovery
 
-*   [flakelight (⭐191)](https://github.com/nix-community/flakelight) - A modular flake framework aiming to minimize boilerplate.
-*   [services-flake (⭐321)](https://github.com/juspay/services-flake) - A NixOS-like service configuration framework for Nix flakes.
+*   [flakelight (⭐254)](https://github.com/nix-community/flakelight) - A modular flake framework aiming to minimize boilerplate.
+*   [services-flake (⭐432)](https://github.com/juspay/services-flake) - A NixOS-like service configuration framework for Nix flakes.
 
-## [28. Awesome Deno](/content/denolib/awesome-deno/README.md)
+## [27. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Modules / Automation
 
 *   [swissknife (⭐8)](https://github.com/fakoua/SwissKnife) - SwissKnife - Deno Swiss Knife tools for Windows.
 
-## [29. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
+## [28. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
 
 ### Internet and Networking
 
@@ -525,43 +519,43 @@
 
 *   [Monophony](https://flathub.org/fr/apps/io.gitlab.zehkira.Monophony) - Stream music from YouTube.
 
-## [30. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
+## [29. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
 ### OS Images
 
 *   [NextCloudPi (⭐2.5k)](https://github.com/nextcloud/nextcloudpi) - Nextcloud ready image based on Raspbian. Features Nextcloud 11 running on Raspbian 8, with PHP 7 and HTTP2 enabled Apache server.
 
-## [31. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
+## [30. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
 
 ### Tools
 
-*   [sourcify (⭐685)](https://github.com/ethereum/sourcify) - Decentralized Solidity contract source code verification service
+*   [sourcify (⭐803)](https://github.com/ethereum/sourcify) - Decentralized Solidity contract source code verification service
 
 ### Services & Platforms
 
 *   [Matters.town](https://matters.town/) - Decentralized content publication ecosystem.
 
-## [32. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [31. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Communication / File Sharing
 
-*   [Dropshare](https://dropshare.app) - powerful menu bar application for sharing screen shots, screen recordings and all other files with over 27 storage providers.
+*   [Dropshare](https://dropshare.app) - Powerful menu bar application for sharing screen shots, screen recordings and all other files with over 27 storage providers.
 
 ### Utilities / Productivity
 
 *   [PaletteBrain](https://palettebrain.com) - Access the power of ChatGPT across all your Mac applications with the press of a shortcut.
 
-## [33. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
+## [32. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
 
 ### Examples / Hardware Offload
 
-*   [XDP/TC-eBPF example (⭐29)](https://github.com/netfoundry/zfw) - Program that uses XDP/TC-eBPF to provide statefull firewalling and socket redirection.
+*   [XDP/TC-eBPF example (⭐46)](https://github.com/netfoundry/zfw) - Program that uses XDP/TC-eBPF to provide statefull firewalling and socket redirection.
 
 ### Projects Related to eBPF / Networking
 
 *   [PcapPlusPlus](https://pcapplusplus.github.io/) - An open-source C++ library for capturing, parsing and crafting network packets. It features a C++ interface for creating AF\_XDP sockets, making it easy to [send and receive packets through them](https://pcapplusplus.github.io/docs/next/features#af_xdp-support-beta).
 
-## [34. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [33. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Projects Using Vue.js / Interactive Experiences
 
@@ -569,13 +563,13 @@
 
 ### Components & Libraries / UI Components
 
-*   [virtua (⭐1.2k)](https://github.com/inokawa/virtua) - A zero-config, fast and small (\~3kB) virtual list component for React and Vue
+*   [virtua (⭐1.9k)](https://github.com/inokawa/virtua) - A zero-config, fast and small (\~3kB) virtual list component for React and Vue
 
-## [35. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
+## [34. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
 ### Scheme / Git
 
-*   [chicken-sodium (⭐3)](https://github.com/caolan/chicken-sodium) - Bindings to libsodium crypto library for Chicken Scheme.
+*   [chicken-sodium (⭐4)](https://github.com/caolan/chicken-sodium) - Bindings to libsodium crypto library for Chicken Scheme.
 *   [crypto-tools](https://wiki.call-cc.org/eggref/5/crypto-tools) - Useful cryptographic primitives for Chicken Scheme.
 
 ---

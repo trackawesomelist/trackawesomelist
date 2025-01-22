@@ -10,7 +10,7 @@
 
 ### Other Useful Repositories
 
-- Repository: [Gray Hacker Resources (⭐142)](https://github.com/bt3gl/Gray-Hacker-Resources)
+- Repository: [Gray Hacker Resources (⭐169)](https://github.com/bt3gl/Gray-Hacker-Resources)
 
   Description: Useful for CTFs, wargames, pentesting
 
@@ -98,7 +98,7 @@
 
 ### Design and Product / Design Tools
 
-*   [Amadine](https://amadine.com) - A vector drawing app that has everything a graphic designer needs wrapped in an uncluttered and intuitive interface.
+*   [Amadine](https://amadine.com) - Vector drawing app with an intuitive interface for graphic designers.
 
 ## [4. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/README.md)
 
@@ -114,7 +114,7 @@
 
 ### Style Guides
 
-*   [Airbnb (⭐2.3k)](https://github.com/airbnb/swift) - Airbnb's Official Style Guide.
+*   [Airbnb (⭐2.4k)](https://github.com/airbnb/swift) - Airbnb's Official Style Guide.
 
 ### Mock / Barcode
 

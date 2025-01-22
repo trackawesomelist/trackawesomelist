@@ -30,11 +30,6 @@
 
 *   [Screensiz](http://screensiz.es/phone)
 
-### CSS
-
-*   [css3 animation generator](http://isux.tencent.com/css3/tools.html)
-*   [css3 maker](http://www.css3maker.com/index.html)
-
 ### Image compression
 
 *   [Shrinkray](https://shrinkray.io)

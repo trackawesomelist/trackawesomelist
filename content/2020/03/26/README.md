@@ -10,28 +10,27 @@
 
 ### Tools & Software / Acquisition
 
-*   [archivenow (⭐391)](https://github.com/oduwsdl/archivenow) - A [Python library](http://ws-dl.blogspot.com/2017/02/2017-02-22-archive-now-archivenow.html) to push web resources into on-demand web archives. *(Stable)*
-*   [Chronicler (⭐82)](https://github.com/CGamesPlay/chronicler) - Web browser with record and replay functionality. *(In Development)*
+*   [archivenow (⭐412)](https://github.com/oduwsdl/archivenow) - A [Python library](http://ws-dl.blogspot.com/2017/02/2017-02-22-archive-now-archivenow.html) to push web resources into on-demand web archives. *(Stable)*
+*   [Chronicler (⭐85)](https://github.com/CGamesPlay/chronicler) - Web browser with record and replay functionality. *(In Development)*
 *   [Crawl](https://git.autistici.org/ale/crawl) - A simple web crawler in Golang. *(Stable)*
-*   [crocoite (⭐42)](https://github.com/promyloph/crocoite) - Crawl websites using headless Google Chrome/Chromium and save resources, static DOM snapshot and page screenshots to WARC files. *(In Development)*
-*   [F(b)arc (⭐78)](https://github.com/justinlittman/fbarc) - A commandline tool and Python library for archiving data from [Facebook](https://www.facebook.com/) using the [Graph API](https://developers.facebook.com/docs/graph-api). *(Stable)*
-*   [freeze-dry (⭐265)](https://github.com/WebMemex/freeze-dry) - JavaScript library to turn page into static, self-contained HTML document; useful for browser extensions. *(In Development)*
-*   [grab-site (⭐1.3k)](https://github.com/ArchiveTeam/grab-site) - The archivist's web crawler: WARC output, dashboard for all crawls, dynamic ignore patterns. *(Stable)*
-*   [html2warc (⭐15)](https://github.com/steffenfritz/html2warc) - A simple script to convert offline data into a single WARC file. *(Stable)*
+*   [crocoite (⭐44)](https://github.com/promyloph/crocoite) - Crawl websites using headless Google Chrome/Chromium and save resources, static DOM snapshot and page screenshots to WARC files. *(In Development)*
+*   [F(b)arc (⭐77)](https://github.com/justinlittman/fbarc) - A commandline tool and Python library for archiving data from [Facebook](https://www.facebook.com/) using the [Graph API](https://developers.facebook.com/docs/graph-api). *(Stable)*
+*   [freeze-dry (⭐292)](https://github.com/WebMemex/freeze-dry) - JavaScript library to turn page into static, self-contained HTML document; useful for browser extensions. *(In Development)*
+*   [grab-site (⭐1.4k)](https://github.com/ArchiveTeam/grab-site) - The archivist's web crawler: WARC output, dashboard for all crawls, dynamic ignore patterns. *(Stable)*
+*   [html2warc (⭐19)](https://github.com/steffenfritz/html2warc) - A simple script to convert offline data into a single WARC file. *(Stable)*
 *   [HTTrack](http://www.httrack.com/) - An open source website copying utility. *(Stable)*
-*   [monolith (⭐9.9k)](https://github.com/Y2Z/monolith) - CLI tool to save a web page as a single HTML file. *(Stable)*
-*   [SingleFile (⭐14k)](https://github.com/gildas-lormeau/SingleFile) - Browser extension for Firefox/Chrome and CLI tool to save a faithful copy of a complete page as a single HTML file. *(Stable)*
-*   [SiteStory](http://mementoweb.github.com/SiteStory/) - A transactional archive that selectively captures and stores transactions that take place between a web client (browser) and a web server. *(Stable)*
+*   [monolith (⭐12k)](https://github.com/Y2Z/monolith) - CLI tool to save a web page as a single HTML file. *(Stable)*
+*   [SingleFile (⭐17k)](https://github.com/gildas-lormeau/SingleFile) - Browser extension for Firefox/Chrome and CLI tool to save a faithful copy of a complete page as a single HTML file. *(Stable)*
 *   [Social Feed Manager](https://gwu-libraries.github.io/sfm-ui/) - Open source software that enables users to create social media collections from Twitter, Tumblr, Flickr, and Sina Weibo public APIs. *(Stable)*
-*   [Squidwarc (⭐164)](https://github.com/N0taN3rd/Squidwarc) - An [open source, high-fidelity, page interacting](http://ws-dl.blogspot.com/2017/07/2017-07-24-replacing-heritrix-with.html) archival crawler that uses Chrome or Chrome Headless directly. *(In Development)*
+*   [Squidwarc (⭐171)](https://github.com/N0taN3rd/Squidwarc) - An [open source, high-fidelity, page interacting](http://ws-dl.blogspot.com/2017/07/2017-07-24-replacing-heritrix-with.html) archival crawler that uses Chrome or Chrome Headless directly. *(In Development)*
 *   [StormCrawler](http://stormcrawler.net/) - A collection of resources for building low-latency, scalable web crawlers on Apache Storm. *(Stable)*
 *   [twarc (⭐1.4k)](https://github.com/docnow/twarc) - A command line tool and Python library for archiving Twitter JSON data. *(Stable)*
 *   [WARCreate](http://matkelly.com/warcreate/) - A [Google Chrome](https://www.google.com/intl/en/chrome/browser/) extension for archiving an individual webpage or website to a WARC file. *(Stable)*
-*   [Warcworker (⭐53)](https://github.com/peterk/warcworker) - An open source, dockerized, queued, high fidelity web archiver based on Squidwarc with a simple web GUI. *(Stable)*
-*   [Web2Warc (⭐24)](https://github.com/helgeho/Web2Warc) - An easy-to-use and highly customizable crawler that enables anyone to create their own little Web archives (WARC/CDX). *(Stable)*
+*   [Warcworker (⭐56)](https://github.com/peterk/warcworker) - An open source, dockerized, queued, high fidelity web archiver based on Squidwarc with a simple web GUI. *(Stable)*
+*   [Web2Warc (⭐25)](https://github.com/helgeho/Web2Warc) - An easy-to-use and highly customizable crawler that enables anyone to create their own little Web archives (WARC/CDX). *(Stable)*
 *   [Wget](http://www.gnu.org/software/wget/) - An open source file retrieval utility that of [version 1.14 supports writing warcs](http://www.archiveteam.org/index.php?title=Wget_with_WARC_output). *(Stable)*
-*   [Wget-lua (⭐22)](https://github.com/alard/wget-lua) - Wget with Lua extension. *(Stable)*
-*   [Wpull (⭐532)](https://github.com/chfoo/wpull) - A Wget-compatible (or remake/clone/replacement/alternative) web downloader and crawler. *(Stable)*
+*   [Wget-lua (⭐23)](https://github.com/alard/wget-lua) - Wget with Lua extension. *(Stable)*
+*   [Wpull (⭐563)](https://github.com/chfoo/wpull) - A Wget-compatible (or remake/clone/replacement/alternative) web downloader and crawler. *(Stable)*
 
 ### Tools & Software / Search & Discovery
 
@@ -40,27 +39,27 @@
 
 ### Tools & Software / Utilities
 
-*   [MementoMap (⭐9)](https://github.com/oduwsdl/MementoMap) - A Tool to Summarize Web Archive Holdings (Python). *(In Development)*
-*   [MemGator (⭐51)](https://github.com/oduwsdl/MemGator) - A Memento Aggregator CLI and Server (Golang). *(Stable)*
+*   [MementoMap (⭐10)](https://github.com/oduwsdl/MementoMap) - A Tool to Summarize Web Archive Holdings (Python). *(In Development)*
+*   [MemGator (⭐61)](https://github.com/oduwsdl/MemGator) - A Memento Aggregator CLI and Server (Golang). *(Stable)*
 *   [node-cdxj (⭐0)](https://github.com/N0taN3rd/node-cdxj) - [CDXJ (⭐15)](https://github.com/oduwsdl/ORS/wiki/CDXJ) file parser (Node.js). *(Stable)*
-*   [OutbackCDX (⭐28)](https://github.com/nla/outbackcdx) - RocksDB-based capture index (CDX) server supporting incremental updates and compression. Can be used as backend for OpenWayback, PyWb and [Heritrix (⭐9)](https://github.com/ukwa/ukwa-heritrix/blob/master/src/main/java/uk/bl/wap/modules/uriuniqfilters/OutbackCDXRecentlySeenUriUniqFilter.java). *(Stable)*
-*   [py-wasapi-client (⭐12)](https://github.com/unt-libraries/py-wasapi-client) - Command line application to download crawls from WASAPI (Python). *(Stable)*
-*   [tikalinkextract (⭐8)](https://github.com/httpreserve/tikalinkextract) - Extract hyperlinks as a seed for web archiving from folders of document types that can be parsed by Apache Tika (Golang, Apache Tika Server). *(In Development)*
+*   [OutbackCDX (⭐34)](https://github.com/nla/outbackcdx) - RocksDB-based capture index (CDX) server supporting incremental updates and compression. Can be used as backend for OpenWayback, PyWb and [Heritrix (⭐11)](https://github.com/ukwa/ukwa-heritrix/blob/master/src/main/java/uk/bl/wap/modules/uriuniqfilters/OutbackCDXRecentlySeenUriUniqFilter.java). *(Stable)*
+*   [py-wasapi-client (⭐15)](https://github.com/unt-libraries/py-wasapi-client) - Command line application to download crawls from WASAPI (Python). *(Stable)*
+*   [tikalinkextract (⭐10)](https://github.com/httpreserve/tikalinkextract) - Extract hyperlinks as a seed for web archiving from folders of document types that can be parsed by Apache Tika (Golang, Apache Tika Server). *(In Development)*
 *   [wasapi-downloader (⭐6)](https://github.com/sul-dlss/wasapi-downloader) - Java command line application to download crawls from WASAPI. *(Stable)*
 *   [WarcPartitioner (⭐1)](https://github.com/helgeho/WarcPartitioner) - Partition (W)ARC Files by MIME Type and Year. *(Stable)*
-*   [wikiteam (⭐687)](https://github.com/WikiTeam/wikiteam) - Tools for downloading and preserving wikis. *(Stable)*
+*   [wikiteam (⭐741)](https://github.com/WikiTeam/wikiteam) - Tools for downloading and preserving wikis. *(Stable)*
 
 ### Tools & Software / WARC I/O Libraries
 
 *   [HadoopConcatGz (⭐9)](https://github.com/helgeho/HadoopConcatGz) - A Splitable Hadoop InputFormat for Concatenated GZIP Files (and `*.warc.gz`). *(Stable)*
-*   [node-warc (⭐91)](https://github.com/N0taN3rd/node-warc) - Parse WARC files or create WARC files using either [Electron](https://electron.atom.io/) or [chrome-remote-interface (⭐4.2k)](https://github.com/cyrus-and/chrome-remote-interface) (Node.js). *(Stable)*
-*   [Warcat (⭐135)](https://github.com/chfoo/warcat) - Tool and library for handling Web ARChive (WARC) files (Python). *(Stable)*
+*   [node-warc (⭐95)](https://github.com/N0taN3rd/node-warc) - Parse WARC files or create WARC files using either [Electron](https://electron.atom.io/) or [chrome-remote-interface (⭐4.3k)](https://github.com/cyrus-and/chrome-remote-interface) (Node.js). *(Stable)*
+*   [Warcat (⭐154)](https://github.com/chfoo/warcat) - Tool and library for handling Web ARChive (WARC) files (Python). *(Stable)*
 
 ### Tools & Software / Analysis
 
-*   [ArchiveSpark (⭐140)](https://github.com/helgeho/ArchiveSpark) - An Apache Spark framework (not only) for Web Archives that enables easy data processing, extraction as well as derivation. *(Stable)*
-*   [Archives Unleashed Notebooks (⭐21)](https://github.com/archivesunleashed/notebooks) - Notebooks for working with web archives with the Archives Unleashed Toolkit, and derivatives generated by the Archives Unleashed Toolkit. *(Stable)*
-*   [Archives Unleashed Toolkit (⭐131)](https://github.com/archivesunleashed/aut) - Archives Unleashed Toolkit (AUT) is an open-source platform for analyzing web archives with Apache Spark. *(Stable)*
+*   [ArchiveSpark (⭐148)](https://github.com/helgeho/ArchiveSpark) - An Apache Spark framework (not only) for Web Archives that enables easy data processing, extraction as well as derivation. *(Stable)*
+*   [Archives Unleashed Notebooks (⭐24)](https://github.com/archivesunleashed/notebooks) - Notebooks for working with web archives with the Archives Unleashed Toolkit, and derivatives generated by the Archives Unleashed Toolkit. *(Stable)*
+*   [Archives Unleashed Toolkit (⭐140)](https://github.com/archivesunleashed/aut) - Archives Unleashed Toolkit (AUT) is an open-source platform for analyzing web archives with Apache Spark. *(Stable)*
 *   [Tweet Archvies Unleashed Toolkit (⭐9)](https://github.com/archivesunleashed/twut) - An open-source toolkit for analyzing line-oriented JSON Twitter archives with Apache Spark. *(In Development)*
 
 ## [2. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
@@ -101,19 +100,19 @@
 
 ### Utility / Docker Container Actions
 
-*   [Has Changed Path (⭐180)](https://github.com/MarceloPrado/has-changed-path) - Conditionally run actions based on changed paths.
+*   [Has Changed Path (⭐220)](https://github.com/MarceloPrado/has-changed-path) - Conditionally run actions based on changed paths.
 
 ## [4. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/README.md)
 
 ### Platformer
 
-*   [Omnispeak (⭐289)](https://github.com/sulix/omnispeak) - Reimplementation of Commander Keen in Goodbye Galaxy.
+*   [Omnispeak (⭐296)](https://github.com/sulix/omnispeak) - Reimplementation of Commander Keen in Goodbye Galaxy.
 
 ## [5. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Experimental / Redux / ELM / Dependency Injection
 
-*   [styled\_widget (⭐1.2k)](https://github.com/ReinBentdal/styled_widget) <!--stargazers:ReinBentdal/styled_widget--> - Simplifying your widget tree structure by defining widgets using methods by [Rein Gundersen Bentdal](https://github.com/ReinBentdal).
+*   [styled\_widget (⭐1.3k)](https://github.com/ReinBentdal/styled_widget) <!--stargazers:ReinBentdal/styled_widget--> - Simplifying your widget tree structure by defining widgets using methods by [Rein Gundersen Bentdal](https://github.com/ReinBentdal).
 
 ## [6. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
 
@@ -129,13 +128,13 @@
 
 ### Demo
 
-*   [Sitecore Habitat (⭐411)](https://github.com/Sitecore/Habitat) - Habitat is an example Sitecore solution built on the Helix architecture principles. No longer being updated or maintained, and is being replaced with Sitecore Helix Examples.
+*   [Sitecore Habitat (⭐415)](https://github.com/Sitecore/Habitat) - Habitat is an example Sitecore solution built on the Helix architecture principles. No longer being updated or maintained, and is being replaced with Sitecore Helix Examples.
 
 ## [8. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Menu
 
-*   [SwiftyMenu (⭐572)](https://github.com/KarimEbrahemAbdelaziz/SwiftyMenu) - A Simple and Elegant DropDown menu for iOS 🔥💥
+*   [SwiftyMenu (⭐578)](https://github.com/KarimEbrahemAbdelaziz/SwiftyMenu) - A Simple and Elegant DropDown menu for iOS 🔥💥
 
 ---
 

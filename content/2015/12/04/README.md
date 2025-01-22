@@ -10,7 +10,7 @@
 
 ### Testing / Barcode
 
-*   [Erik (⭐590)](https://github.com/phimage/Erik) - An headless browser to access and manipulate webpages using javascript allowing to run functional tests.
+*   [Erik (⭐599)](https://github.com/phimage/Erik) - An headless browser to access and manipulate webpages using javascript allowing to run functional tests.
 
 ## [2. Awesome Chess](/content/hkirat/awesome-chess/README.md)
 
@@ -44,11 +44,11 @@
 
 ### Database Drivers
 
-*   [RethinkDb.Driver (⭐383)](https://github.com/bchavez/RethinkDb.Driver/) - A RethinkDB database driver in C# striving for 100% ReQL API compatibility and completeness.
+*   [RethinkDb.Driver (⭐385)](https://github.com/bchavez/RethinkDb.Driver/) - A RethinkDB database driver in C# striving for 100% ReQL API compatibility and completeness.
 
 ### Testing
 
-*   [Bogus (⭐8.6k)](https://github.com/bchavez/Bogus) - A simple and sane fake data generator for C#. Based on and ported from the famed faker.js.
+*   [Bogus (⭐9k)](https://github.com/bchavez/Bogus) - A simple and sane fake data generator for C#. Based on and ported from the famed faker.js.
 
 ## [6. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/README.md)
 

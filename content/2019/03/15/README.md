@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 15, 2019
 
-13 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -18,31 +18,25 @@ Free
 
 [![](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/october30.png)](https://github.com/lekevicius/october30)
 
-## [2. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Resources / Examples
-
-*   [Vue.js \[ONE\] client (⭐5)](https://github.com/jasscia/one) - \[ONE] client written with Vue2.5
-
-## [3. Awesome Security](/content/sbilly/awesome-security/README.md)
+## [2. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Network / Scanning / Pentesting
 
 *   [Legion (⭐983)](https://github.com/GoVanguard/legion) - Open source semi-automated discovery and reconnaissance network penetration testing framework.
 
-## [4. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/README.md)
+## [3. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/README.md)
 
 ### Alertmanager / Miscellaneous
 
 *   [Karma (⭐2.3k)](https://github.com/prymitive/karma) - Alert dashboard for Prometheus Alertmanager.
 
-## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [4. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Image Processing
 
 *   [libfacedetection (⭐12k)](https://github.com/ShiqiYu/libfacedetection) - Open source library for face detection in images. The face detection speed can reach 1500FPS. \[BSD]
 
-## [6. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/README.md)
+## [5. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/README.md)
 
 ### JavaScript References
 
@@ -60,7 +54,7 @@ Free
 ### Free eBooks / Single Topics
 
 *   [Eloquent JavaScript](http://eloquentjavascript.net) - Covering the language and runtime specifics.
-*   [You Don't Know JS (book series) (⭐178k)](https://github.com/getify/You-Dont-Know-JS) - Series of books diving deep into language.
+*   [You Don't Know JS (book series) (⭐180k)](https://github.com/getify/You-Dont-Know-JS) - Series of books diving deep into language.
 
 ### Books / Single Topics
 
@@ -75,13 +69,13 @@ Free
 
 *   [Exploring ES6](http://exploringjs.com/es6.html) - Good introduction with in-depth chapters.
 
-## [7. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+## [6. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### no-std crates / WIP
 
-*   [light-cli (⭐15)](https://github.com/rudihorn/light-cli): a lightweight heapless cli interface ![crates.io](https://img.shields.io/crates/v/light_cli.svg)
+*   [light-cli (⭐15)](https://github.com/rudihorn/light-cli): a lightweight heapless cli interface [![crates.io](https://img.shields.io/crates/v/light_cli.svg)](https://crates.io/crates/light_cli)
 
-## [8. Awesome Vapor](/content/vapor-community/awesome-vapor/README.md)
+## [7. Awesome Vapor](/content/vapor-community/awesome-vapor/README.md)
 
 ### Education / Articles
 
@@ -91,13 +85,13 @@ Free
 
 *   ![v3](https://github.com/vapor-community/awesome-vapor/raw/main/img/vapor-3.png) [Vapor - Beginner to Advanced](https://www.youtube.com/channel/UCoLEXFUHIKXunm9QJjsAftw/videos)
 
-## [9. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [8. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Data Formats
 
 *   [BinData (⭐48)](https://github.com/spider-gazelle/bindata) - Binary data parser helper with an [ASN.1](https://en.wikipedia.org/wiki/Abstract_Syntax_Notation_One) parser
 
-## [10. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+## [9. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
 
 ### Browser Extensions
 
@@ -215,7 +209,7 @@ Free
 *   [DirtyWarez](https://dirtywarez.org/) Lists top warez sites with Alexa rankings and other metadata.
 *   [MacGuffin (⭐87)](https://github.com/hwkns/macguffin) Automated tools for handling Scene and P2P film releases.
 
-## [11. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
+## [10. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
 
 ### Theory
 
@@ -225,13 +219,13 @@ Free
 
 *   [do (⭐25)](https://github.com/8gears/do)  The simplest build tool on earth. Agnostic and multipurpose build tool and a build file. Tries to be better than the usual shell hell.
 
-## [12. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [11. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### API
 
-*   [Ocelot (⭐8.3k)](https://github.com/ThreeMammals/Ocelot) - .NET core API Gateway
+*   [Ocelot (⭐8.4k)](https://github.com/ThreeMammals/Ocelot) - .NET core API Gateway
 
-## [13. Public Apis](/content/public-apis/public-apis/README.md)
+## [12. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Development
 

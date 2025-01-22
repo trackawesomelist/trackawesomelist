@@ -1,6 +1,6 @@
 # Awesome List Updates on May 06 - May 12, 2019
 
-45 awesome lists updated this week.
+44 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,11 +16,11 @@
 ### Artificial Intelligence
 
 *   [MiniDungeons](http://minidungeons.com/) - Procedural dungeon-like game.
-*   [polyworld (⭐173)](https://github.com/polyworld/polyworld) - Artificial life system.
+*   [polyworld (⭐181)](https://github.com/polyworld/polyworld) - Artificial life system.
 
 ### Dataset / Web
 
-*   [dnddata (⭐99)](https://github.com/oganm/dnddata) - Dataset of Dungeons and Dragons characters.
+*   [dnddata (⭐107)](https://github.com/oganm/dnddata) - Dataset of Dungeons and Dragons characters.
 
 ### Miscellaneous / Related
 
@@ -88,7 +88,7 @@
 
 ### Component abstraction crates / Other
 
-*   [`accelerometer`](https://github.com/NeoBirth/accelerometer.rs) - Generic accelerometer support, including traits and types for taking readings from 2 or 3-axis accelerometers and tracking device orientations - ![crates.io](https://img.shields.io/crates/v/accelerometer.svg)
+*   [`accelerometer`](https://github.com/NeoBirth/accelerometer.rs) - Generic accelerometer support, including traits and types for taking readings from 2 or 3-axis accelerometers and tracking device orientations - [![crates.io](https://img.shields.io/crates/v/accelerometer.svg)](https://crates.io/crates/accelerometer)
 
 ## [11. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
@@ -100,7 +100,7 @@
 
 ### Developer Tools / Command Line Tools
 
-*   [alacritty (⭐55k)](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/jwilm/alacritty) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [alacritty (⭐57k)](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/jwilm/alacritty) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Data Recovery Tools / File Sharing
 
@@ -114,11 +114,11 @@
 
 ### Animation
 
-*   [lottie-ios (⭐25k)](https://github.com/airbnb/lottie-ios) - An iOS library to natively render After Effects vector animations.
+*   [lottie-ios (⭐26k)](https://github.com/airbnb/lottie-ios) - An iOS library to natively render After Effects vector animations.
 
 ### Bots
 
-*   [Telegram Bot SDK (⭐375)](https://github.com/rapierorg/telegram-bot-swift) :penguin: - Unofficial SDK.
+*   [Telegram Bot SDK (⭐376)](https://github.com/rapierorg/telegram-bot-swift) :penguin: - Unofficial SDK.
 
 ### Keychain / Barcode
 
@@ -133,13 +133,13 @@
 ### Web Development
 
 *   **Frameworks**:
-    *   [Opium (⭐752)](https://github.com/rgrinberg/opium) – Sinatra like web toolkit for OCaml.
+    *   [Opium (⭐757)](https://github.com/rgrinberg/opium) – Sinatra like web toolkit for OCaml.
     *   [Ocsigen Eliom](http://ocsigen.org/eliom/) – Eliom is a full-featured multi-tier framework, for developing multi-platform Web and mobile apps as 100% OCaml distributed applications. It can also be used for more traditional Web or mobile apps: Web sites, single page applications, REST API, etc.
     *   [Dream](https://aantron.github.io/dream/) - Tidy Web framework for OCaml and ReasonML
-    *   [webmachine (⭐223)](https://github.com/inhabitedtype/ocaml-webmachine) – A REST toolkit for OCaml. OCaml webmachine is a layer on top of cohttp that implements a state-machine-based HTTP request processor. It's particularly well-suited for writing RESTful APIs. As the name suggests, this is an OCaml port of the webmachine project.
-    *   [incr\_dom (⭐376)](https://github.com/janestreet/incr_dom) - A library for building dynamic webapps, using Js\_of\_ocaml
+    *   [webmachine (⭐221)](https://github.com/inhabitedtype/ocaml-webmachine) – A REST toolkit for OCaml. OCaml webmachine is a layer on top of cohttp that implements a state-machine-based HTTP request processor. It's particularly well-suited for writing RESTful APIs. As the name suggests, this is an OCaml port of the webmachine project.
+    *   [incr\_dom (⭐381)](https://github.com/janestreet/incr_dom) - A library for building dynamic webapps, using Js\_of\_ocaml
     *   [fmlib\_browser](https://hbr.github.io/fmlib/odoc/fmlib_browser/doc_overview.html) - a library which helps to write web applications which run in the browser in a pure functional style.
-    *   [ocaml-vdom (⭐196)](https://github.com/LexiFi/ocaml-vdom) - Elm architecture and (V)DOM for OCaml
+    *   [ocaml-vdom (⭐197)](https://github.com/LexiFi/ocaml-vdom) - Elm architecture and (V)DOM for OCaml
 
 ## [15. Awesome Beacon](/content/rabschi/awesome-beacon/week/README.md)
 
@@ -231,7 +231,7 @@
 
 ## [19. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
-### Blog posts
+### Blog posts  (a-z↓)
 
 *   [Visual Regression Test with WebdriverIO & WebdriverCSS](https://medium.com/@dalenguyen/visual-regression-test-with-webdriverio-webdrivercss-d7675a1812b2) - Tutorial using WebdriverIO and WebdriverCSS with Spec Reporter
 
@@ -281,15 +281,15 @@
 
 ### Tools
 
-*   [IPDR (⭐515)](https://github.com/miguelmota/ipdr) - IPFS-backed Docker Registry.
-*   [mahuta (⭐230)](https://github.com/ConsenSys/Mahuta) - Mahuta is a plug and play service for your micro-service architecture allowing to collect, store and index data on IPFS and offering search functionalities (full text, query).
+*   [IPDR (⭐540)](https://github.com/miguelmota/ipdr) - IPFS-backed Docker Registry.
+*   [mahuta (⭐240)](https://github.com/ConsenSys/Mahuta) - Mahuta is a plug and play service for your micro-service architecture allowing to collect, store and index data on IPFS and offering search functionalities (full text, query).
 
 ## [28. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Integrations
 
-*   [Duo Security MFA Authentication for Keycloak (⭐32)](https://github.com/mulesoft-labs/keycloak-duo-spi)
-*   [Extension Keycloak facilitant l'utilisation de FranceConnect (⭐83)](https://github.com/InseeFr/Keycloak-FranceConnect)
+*   [Duo Security MFA Authentication for Keycloak](https://github.com/mulesoft-labs/keycloak-duo-spi)
+*   [Extension Keycloak facilitant l'utilisation de FranceConnect (⭐88)](https://github.com/InseeFr/Keycloak-FranceConnect)
 
 ## [29. Awesome](/content/craftcms/awesome/week/README.md)
 
@@ -301,7 +301,7 @@
 
 ### Scala / General-Purpose Machine Learning
 
-*   [TensorFlow Scala (⭐937)](https://github.com/eaplatanios/tensorflow_scala) -   Strongly-typed Scala API for TensorFlow.
+*   [TensorFlow Scala (⭐939)](https://github.com/eaplatanios/tensorflow_scala) - Strongly-typed Scala API for TensorFlow.
 
 ## [31. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
@@ -309,38 +309,32 @@
 
 *   [ASP.NET Blog's archives](https://devblogs.microsoft.com/aspnet/category/blazor/) - Archives of the ASP.NET blog about Blazor.
 
-## [32. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
-
-### Housing
-
-*   [Hive Arena](https://hivearena.com/coworking/) - Coworking & Coliving Space in Seoul, South Korea
-
-## [33. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [32. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### Sample Projects / JVM languages
 
 *   [DDD By Examples - Library (⭐4.1k)](https://github.com/ddd-by-examples/library) - sample project of a library driven by real business requirements. Modular monolith implemented with the help od DDD, BDD, EventStorming, Example Mapping, CQRS, and more.
 
-## [34. Guides](/content/NARKOZ/guides/week/README.md)
+## [33. Guides](/content/NARKOZ/guides/week/README.md)
 
 ### Programming Languages / Clojure
 
 *   [Clojure Style Guide (⭐4k)](https://github.com/bbatsov/clojure-style-guide#readme)
 
-## [35. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [34. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Open Source / Other
 
 *   [Unsplash Wallpapers (⭐350)](https://github.com/soroushchehresa/unsplash-wallpapers) - Set desktop wallpaper from Unsplash.
 
-## [36. Awesome Learn Datascience](/content/siboehm/awesome-learn-datascience/week/README.md)
+## [35. Awesome Learn Datascience](/content/siboehm/awesome-learn-datascience/week/README.md)
 
 ### Data Science using Python / General
 
 *   [O'Reilly Data Science from Scratch (Book)](https://amzn.to/2GSjjrK) - Data processing, implementation, and visualization with example code.
 *   [Coursera Applied Data Science](https://www.coursera.org/specializations/data-science-python) - Online Course using Python that covers most of the relevant toolkits.
 
-## [37. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
+## [36. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
 
 ### Swift
 
@@ -356,14 +350,14 @@
 *   [*Server Side Swift with Vapor* by Tim Condon, Tanner Nelson, Jonas Schwartz, Logan Wright](https://store.raywenderlich.com/products/server-side-swift-with-vapor)
 *   [*Server Side Swift with Kitura* by David Okun, Chris Bailey](https://store.raywenderlich.com/products/server-side-swift-with-kitura)
 
-## [38. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [37. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### File System Listener
 
 *   [Guard::LiveReload (⭐2.1k)](https://github.com/guard/guard-livereload) - Automatically reload your browser when 'view' files are modified.
 *   [Rerun (⭐980)](https://github.com/alexch/rerun) - Restarts an app when the filesystem changes. Uses growl and FSEventStream if on OS X.
 
-## [39. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [38. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Websites / Blogs
 
@@ -375,13 +369,13 @@
 
 ### UI / Calendar
 
-*   [Calendar Carousel Widget (⭐823)](https://github.com/dooboolab/flutter_calendar_carousel) <!-- stargazers:dooboolab/flutter_calendar_carousel--> - Calendar carousel by [dooboolab (⭐823)](https://github.com/dooboolab/flutter_calendar_carousel)
+*   [Calendar Carousel Widget (⭐839)](https://github.com/dooboolab/flutter_calendar_carousel) <!-- stargazers:dooboolab/flutter_calendar_carousel--> - Calendar carousel by [dooboolab (⭐839)](https://github.com/dooboolab/flutter_calendar_carousel)
 
 ### Vision / Augmented Reality
 
-*   [ARCore Plugin (⭐426)](https://github.com/giandifra/arcore_flutter_plugin) <!--stargazers:giandifra/arcore_flutter_plugin--> - Augmented reality with ARCore platform by [Gian Marco Di Francesco](https://github.com/giandifra).
+*   [ARCore Plugin (⭐435)](https://github.com/giandifra/arcore_flutter_plugin) <!--stargazers:giandifra/arcore_flutter_plugin--> - Augmented reality with ARCore platform by [Gian Marco Di Francesco](https://github.com/giandifra).
 
-## [40. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [39. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### Template Engine / Other
 
@@ -389,9 +383,9 @@
 
 ### Related Awesome Lists / Mocking
 
-*   [Java Developer Roadmap (⭐3.8k)](https://github.com/s4kibs4mi/java-developer-roadmap)
+*   [Java Developer Roadmap (⭐4k)](https://github.com/s4kibs4mi/java-developer-roadmap)
 
-## [41. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [40. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / Boilerplating
 
@@ -422,51 +416,51 @@
 
 *   [lost-in-technology.com](https://www.lost-in-technology.com/blog/)
 
-## [42. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/week/README.md)
+## [41. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/week/README.md)
 
 ### Basic linear algebra
 
 *   [Ginkgo](https://ginkgo-project.github.io/) - High-performance manycore linear algebra library, focus on sparse systems.
-    (C++, BSD, [GitHub (⭐365)](https://github.com/ginkgo-project/ginkgo))
+    (C++, BSD, [GitHub (⭐415)](https://github.com/ginkgo-project/ginkgo))
 
 ### Other libraries and tools / Mesh tools
 
 *   [Chebfun](https://www.chebfun.org/) - Computing with functions to about 15-digit accuracy.
-    (MATLAB, BSD, [GitHub (⭐565)](https://github.com/chebfun/chebfun))
+    (MATLAB, BSD, [GitHub (⭐614)](https://github.com/chebfun/chebfun))
 
-## [43. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [42. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Command-line apps
 
-*   [npm-name (⭐167)](https://github.com/sindresorhus/npm-name) - Check a package name's availability on npm.
+*   [npm-name (⭐168)](https://github.com/sindresorhus/npm-name) - Check a package name's availability on npm.
 
 ### Packages / Date
 
-*   [Day.js (⭐46k)](https://github.com/iamkun/dayjs) - Immutable date library alternative to Moment.js.
+*   [Day.js (⭐47k)](https://github.com/iamkun/dayjs) - Immutable date library alternative to Moment.js.
 
 ### Packages / Job queues
 
-*   [RedisSMQ (⭐582)](https://github.com/weyoss/redis-smq) - Simple high-performance Redis message queue with real-time monitoring.
+*   [RedisSMQ (⭐597)](https://github.com/weyoss/redis-smq) - Simple high-performance Redis message queue with real-time monitoring.
 
 ### Packages / Natural language processing
 
-*   [nlp.js (⭐6.2k)](https://github.com/axa-group/nlp.js) - Building bots, with entity extraction, sentiment analysis, automatic language identify, and more.
+*   [nlp.js (⭐6.3k)](https://github.com/axa-group/nlp.js) - Building bots, with entity extraction, sentiment analysis, automatic language identify, and more.
 
 ### Resources / Books
 
 *   [Get Programming with Node.js](https://www.manning.com/books/get-programming-with-node-js)
 
-## [44. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
+## [43. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
 
 ### Tools / Reverse Engineering
 
 *   [Dedexer](https://sourceforge.net/projects/dedexer/)
 
-## [45. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
+## [44. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
 
 ### Awesome Repositories
 
-- Repository: [Windows Exploitation - Advanced (⭐1.4k)](https://github.com/yeyintminthuhtut/Awesome-Advanced-Windows-Exploitation-References)
+- Repository: [Windows Exploitation - Advanced (⭐1.5k)](https://github.com/yeyintminthuhtut/Awesome-Advanced-Windows-Exploitation-References)
 
   Description: List of Awesome Advanced Windows Exploitation References
 

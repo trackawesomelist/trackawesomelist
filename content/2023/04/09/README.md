@@ -10,7 +10,7 @@
 
 ### Libraries / Text processing
 
-*   [null8626/decancer (⭐96)](https://github.com/null8626/decancer) \[[decancer](https://crates.io/crates/decancer)] - A tiny package that removes common unicode confusables/homoglyphs from strings. [![crates](https://img.shields.io/crates/v/decancer.svg)](https://crates.io/crates/decancer) [![build badge](https://github.com/null8626/decancer/workflows/CI/badge.svg)](https://github.com/null8626/decancer/actions/workflows/CI.yml)
+*   [null8626/decancer (⭐104)](https://github.com/null8626/decancer) \[[decancer](https://crates.io/crates/decancer)] - A tiny package that removes common unicode confusables/homoglyphs from strings. [![crates](https://img.shields.io/crates/v/decancer.svg)](https://crates.io/crates/decancer) [![build badge](https://github.com/null8626/decancer/workflows/CI/badge.svg)](https://github.com/null8626/decancer/actions/workflows/CI.yml)
 
 ## [2. Awesome Prisma](/content/catalinmiron/awesome-prisma/README.md)
 
@@ -22,7 +22,7 @@
 
 ### Debugging / Diagnostics
 
-*   [t-troebst/perfanno.nvim (⭐192)](https://github.com/t-troebst/perfanno.nvim) - Annotate your code with callgraph profiling data. Native support for perf, flamegraph and the LuaJit profiler.
+*   [t-troebst/perfanno.nvim (⭐299)](https://github.com/t-troebst/perfanno.nvim) - Annotate your code with callgraph profiling data. Native support for perf, flamegraph and the LuaJit profiler.
 
 ## [4. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -32,7 +32,7 @@
 
 ### Translation Tools / Audio Record and Process
 
-*   [OpenAI Translator (⭐23k)](https://github.com/yetone/openai-translator) - Browser extension and cross-platform desktop application for translation based on ChatGPT API.[![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/yetone/openai-translator)
+*   [OpenAI Translator (⭐24k)](https://github.com/yetone/openai-translator) - Browser extension and cross-platform desktop application for translation based on ChatGPT API.[![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/yetone/openai-translator)
 
 ## [5. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -40,7 +40,7 @@
 
 *   [The Generative AI Landscape](https://ai-collection.org/): "a collection of awesome generative AI applications"
 
-### Inbox: Speech-to-text (STT) and spoken content analysis / Deforum
+### Speech-to-text (STT) and spoken content analysis / Deforum
 
 *   [pgosar/ChatGDB (⭐902)](https://github.com/pgosar/ChatGDB): "Harness the power of ChatGPT inside the GDB debugger"
 
@@ -48,18 +48,18 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [exa (zshell) (⭐48)](https://github.com/z-shell/zsh-exa) - replace `ls` with [ogham/exa (⭐23k)](https://github.com/ogham/exa).
+*   [exa (zshell) (⭐68)](https://github.com/z-shell/zsh-exa) - replace `ls` with [ogham/exa (⭐24k)](https://github.com/ogham/exa).
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [gallifrey-war (⭐1)](https://github.com/cdubos-fr/gallifrey-war) - Inspired by [gallifrey (⭐172k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#gallifrey). Includes decorators for `git` information, user\@host and current directory.
+*   [gallifrey-war (⭐1)](https://github.com/cdubos-fr/gallifrey-war) - Inspired by [gallifrey (⭐175k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#gallifrey). Includes decorators for `git` information, user\@host and current directory.
 *   [t2colorful (⭐3)](https://github.com/AmirhosseinAbutalebi/t2colorful-oh.my.zsh) - Includes decorators for `git` information, current directory, last command exit status, and current time.
 
 ## [7. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md)
 
 ### C Libraries
 
-*   [libsecp256k1 (⭐2k)](https://github.com/bitcoin-core/secp256k1)
+*   [libsecp256k1 (⭐2.1k)](https://github.com/bitcoin-core/secp256k1)
 
 ---
 

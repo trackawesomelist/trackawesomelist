@@ -43,7 +43,7 @@
 
 ### Large Language Models (LLMs)
 
-*   [lm-sys/FastChat (⭐36k)](https://github.com/lm-sys/FastChat): The release repo for "Vicuna: An Open Chatbot Impressing GPT-4" \[[demo](https://chat.lmsys.org/)]
+*   [lm-sys/FastChat (⭐38k)](https://github.com/lm-sys/FastChat): The release repo for "Vicuna: An Open Chatbot Impressing GPT-4" \[[demo](https://chat.lmsys.org/)]
 
 ## [4. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md)
 
@@ -73,34 +73,34 @@
 
 ### Developer Tools / Virtualization
 
-*   [OrbStack](https://orbstack.dev/) - OrbStack is a fast, light, and simple way to run Docker containers and Linux machines on macOS. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [OrbStack](https://orbstack.dev/) - Fast, light, and simple way to run Docker containers and Linux machines on macOS. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [9. Awesome Fonts](/content/brabadu/awesome-fonts/README.md)
 
 ### Programming fonts / Fonts
 
-*   [agave (⭐514)](https://github.com/blobject/agave) - Fixed-width outline typeface, designed and produced by type agaric
+*   [agave (⭐760)](https://github.com/blobject/agave) - Fixed-width outline typeface, designed and produced by type agaric
 
 ### Programming fonts / Programming fonts with ligatures
 
-*   [Lilex (⭐350)](https://github.com/mishamyrt/Lilex) - Modern programming font containing a set of ligatures for common programming multi-character combinations
+*   [Lilex (⭐796)](https://github.com/mishamyrt/Lilex) - Modern programming font containing a set of ligatures for common programming multi-character combinations
 
 ### Other / Event listeners for fonts loading on a web page
 
-*   [fnt (⭐361)](https://github.com/alexmyczko/fnt) - Apt for fonts, the missing font manager for macOS/linux
+*   [fnt (⭐486)](https://github.com/alexmyczko/fnt) - Apt for fonts, the missing font manager for macOS/linux
 
 ## [10. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md)
 
 ### JavaScript Libraries
 
-*   [noble-curves (⭐638)](https://github.com/paulmillr/noble-curves) — audited implementation of secp256k1 + schnorr in pure typescript
-*   [noble-secp256k1 (⭐736)](https://github.com/paulmillr/noble-secp256k1) — alternative implementation of secp256k1: size is only 4KB gzipped; lots of comments, very valuable for learning how algorithms work
+*   [noble-curves (⭐723)](https://github.com/paulmillr/noble-curves) — audited implementation of secp256k1 + schnorr in pure typescript
+*   [noble-secp256k1 (⭐777)](https://github.com/paulmillr/noble-secp256k1) — alternative implementation of secp256k1: size is only 4KB gzipped; lots of comments, very valuable for learning how algorithms work
 
 ## [11. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
 
 ### Testing / Other
 
-*   [EZDC (⭐11)](https://github.com/lynchborg/ezdc) - Golang test harness for easily setting up tests that rely on services in a docker-compose.yml. By [@byrnedo](https://github.com/byrnedo)
+*   [EZDC (⭐12)](https://github.com/lynchborg/ezdc) - Golang test harness for easily setting up tests that rely on services in a docker-compose.yml. By [@byrnedo](https://github.com/byrnedo)
 
 ---
 

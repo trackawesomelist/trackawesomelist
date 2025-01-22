@@ -574,13 +574,13 @@ Topics: ReasonML, React, Software Philosophy\
 
 ### Emulators / Experimental/Proof of Concepts
 
-*   [mGBA (⭐5.1k)](https://github.com/mgba-emu/mgba) - Modern cross platform GBA emulator which also runs GB/GBC games.
+*   [mGBA (⭐5.8k)](https://github.com/mgba-emu/mgba) - Modern cross platform GBA emulator which also runs GB/GBC games.
 
 ## [12. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Miscellaneous
 
-*   [Speakers (⭐758)](https://github.com/karlhorky/awesome-speakers#readme) - Conference and meetup speakers in the programming and design community.
+*   [Speakers (⭐761)](https://github.com/karlhorky/awesome-speakers#readme) - Conference and meetup speakers in the programming and design community.
 
 ## [13. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
@@ -602,7 +602,7 @@ Topics: ReasonML, React, Software Philosophy\
 
 ### Awesome lists / Event listeners for fonts loading on a web page
 
-*   [Awesome Typography (⭐1.2k)](https://github.com/Jolg42/awesome-typography)
+*   [Awesome Typography (⭐1.4k)](https://github.com/Jolg42/awesome-typography)
 
 ## [16. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 

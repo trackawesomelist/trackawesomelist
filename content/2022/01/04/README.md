@@ -10,7 +10,7 @@
 
 ### File Management and Sharing
 
-*   [Magic Wormhole (⭐20k)](https://github.com/magic-wormhole/magic-wormhole) - Get things from one computer to another, safely.
+*   [Magic Wormhole (⭐21k)](https://github.com/magic-wormhole/magic-wormhole) - Get things from one computer to another, safely.
 
 ## [2. Awesome Conversational Ai](/content/jyguyomarch/awesome-conversational-ai/README.md)
 
@@ -30,7 +30,7 @@
 
 ### GTFS Merge Tools / Ruby
 
-*   [combine\_gtfs\_feeds (⭐4)](https://github.com/psrc/combine_gtfs_feeds) - A Python tool to combine multiple gtfs feeds into one feed/dataset.
+*   [combine\_gtfs\_feeds (⭐7)](https://github.com/psrc/combine_gtfs_feeds) - A Python tool to combine multiple gtfs feeds into one feed/dataset.
 
 ## [4. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
 
@@ -53,7 +53,7 @@
 
 ### Languages / PHP
 
-*   [php-algorand-sdk (⭐22)](https://github.com/ffsolutions/php-algorand-sdk) - Algorand PHP SDK created by [@ffsolutions](https://github.com/ffsolutions).
+*   [php-algorand-sdk (⭐21)](https://github.com/ffsolutions/php-algorand-sdk) - Algorand PHP SDK created by [@ffsolutions](https://github.com/ffsolutions).
 *   [algorand-php (⭐44)](https://github.com/RootSoft/algorand-php) - Algorand PHP SDK created by [@RootSoft](https://github.com/RootSoft).
 
 ### IDEs / vim
@@ -70,7 +70,7 @@
 
 ### Other Development Tools / Docker
 
-*   [Algorand Sandbox (⭐238)](https://github.com/algorand/sandbox) - Fast way to create and configure an Algorand development environment.
+*   [Algorand Sandbox (⭐242)](https://github.com/algorand/sandbox) - Fast way to create and configure an Algorand development environment.
 
 ### DeFi Platforms / Wallets
 
@@ -90,7 +90,7 @@
 
 ### Helpers
 
-*   [hump (⭐70)](https://github.com/HDictus/hump) - Collection of tools for developing games with LÖVE (Gamestates, Timers/Tweens, Vectors, Classes, Signals, Cameras).
+*   [hump (⭐80)](https://github.com/HDictus/hump) - Collection of tools for developing games with LÖVE (Gamestates, Timers/Tweens, Vectors, Classes, Signals, Cameras).
 
 ## [8. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/README.md)
 
@@ -114,11 +114,11 @@
 
 ### Status Bar
 
-*   [tmux-mullvad (⭐7)](https://github.com/jaclu/tmux-mullvad) - Keep track of [Mullvad VPN](https://mullvad.net/) status.
+*   [tmux-mullvad (⭐8)](https://github.com/jaclu/tmux-mullvad) - Keep track of [Mullvad VPN](https://mullvad.net/) status.
 
 ### Plugins
 
-*   [tmux-mouse-swipe (⭐10)](https://github.com/jaclu/tmux-mouse-swipe) - Switch Window or Session by clicking right mouse button and swiping.
+*   [tmux-mouse-swipe (⭐12)](https://github.com/jaclu/tmux-mouse-swipe) - Switch Window or Session by clicking right mouse button and swiping.
 
 ## [12. Public Apis](/content/public-apis/public-apis/README.md)
 

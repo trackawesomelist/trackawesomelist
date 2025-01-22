@@ -22,7 +22,7 @@
 
 ### Miscellaneous / Episodes
 
-*   [Reverse Engineering Resources (⭐80)](https://github.com/ps1337/automotive-security-research)
+*   [Reverse Engineering Resources (⭐89)](https://github.com/ps1337/automotive-security-research)
 
 ## [4. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md)
 
@@ -73,13 +73,13 @@
 
 ### Device / Bluetooth / NFC / Beacon
 
-*   [NFC Reader (⭐388)](https://github.com/matteocrippa/flutter-nfc-reader) <!--stargazers:matteocrippa/flutter-nfc-reader--> - NFC reader plugin for iOS and Android by [Matteo Crippa](https://github.com/matteocrippa)
+*   [NFC Reader (⭐406)](https://github.com/matteocrippa/flutter-nfc-reader) <!--stargazers:matteocrippa/flutter-nfc-reader--> - NFC reader plugin for iOS and Android by [Matteo Crippa](https://github.com/matteocrippa)
 
 ## [6. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
 ### Compilers / Experimental/Proof of Concepts
 
-*   [llvm-gbz80 (⭐35)](https://github.com/Bevinsky/llvm-gbz80) / [clang-gbz80 (⭐22)](https://github.com/Bevinsky/clang-gbz80) - Clang/LLVM port to the GBZ80 CPU (similar to the deprecated [euclio/llvm-gbz80 (⭐9)](https://github.com/euclio/llvm-gbz80)).
+*   [llvm-gbz80 (⭐37)](https://github.com/Bevinsky/llvm-gbz80) / [clang-gbz80 (⭐23)](https://github.com/Bevinsky/clang-gbz80) - Clang/LLVM port to the GBZ80 CPU (similar to the deprecated [euclio/llvm-gbz80 (⭐9)](https://github.com/euclio/llvm-gbz80)).
 
 ## [7. Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md)
 
@@ -91,7 +91,7 @@
 
 ### GTFS Timetable Publishing Tools / Ruby
 
-*   [TimeTablePublisher (TTPUB) (⭐25)](https://github.com/OpenTransitTools/ttpub) - A web publishing system developed by TriMet that allows a transit agency to examine, modify, and transform raw scheduling data into easy-to-read timetables for customer information purposes
+*   [TimeTablePublisher (TTPUB) (⭐26)](https://github.com/OpenTransitTools/ttpub) - A web publishing system developed by TriMet that allows a transit agency to examine, modify, and transform raw scheduling data into easy-to-read timetables for customer information purposes
 
 ## [9. Awesome Educational Games](/content/yrgo/awesome-educational-games/README.md)
 
@@ -103,7 +103,7 @@
 
 ### Logging
 
-*   [Sentry (⭐576)](https://github.com/getsentry/sentry-dotnet) - .NET SDK for [Sentry](https://sentry.io/welcome/) Open-source error tracking that helps developers monitor and fix crashes in real time..
+*   [Sentry (⭐623)](https://github.com/getsentry/sentry-dotnet) - .NET SDK for [Sentry](https://sentry.io/welcome/) Open-source error tracking that helps developers monitor and fix crashes in real time..
 
 ## [11. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
@@ -141,28 +141,28 @@
 
 ### Tools / Reverse Engineering
 
-*   [Jadx (⭐40k)](https://github.com/skylot/jadx)
+*   [Jadx (⭐43k)](https://github.com/skylot/jadx)
 
 ### Academic/Research/Publications/Books / Others
 
-*   [doridori/Android-Security-Reference (⭐901)](https://github.com/doridori/Android-Security-Reference)
-*   [android app security checklist (⭐844)](https://github.com/b-mueller/android_app_security_checklist)
-*   [Mobile App Pentest Cheat Sheet (⭐4.5k)](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet)
+*   [doridori/Android-Security-Reference (⭐932)](https://github.com/doridori/Android-Security-Reference)
+*   [android app security checklist (⭐864)](https://github.com/b-mueller/android_app_security_checklist)
+*   [Mobile App Pentest Cheat Sheet (⭐4.8k)](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet)
 
 ## [14. Awesome Love2d](/content/love2d-community/awesome-love2d/README.md)
 
 ### 3D
 
-*   [bump-3dpd (⭐70)](https://github.com/oniietzschan/bump-3dpd) - A 3D collision detection library for Lua.
+*   [bump-3dpd (⭐77)](https://github.com/oniietzschan/bump-3dpd) - A 3D collision detection library for Lua.
 
 ### Helpers
 
-*   [cartographer (⭐72)](https://github.com/tesselode/cartographer) - Small Tiled map loader and drawer.
-*   [lovely-windows (⭐14)](https://github.com/flamendless/lovely-windows) - A Window/Screen Manager Module for virtual windows.
+*   [cartographer (⭐73)](https://github.com/tesselode/cartographer) - Small Tiled map loader and drawer.
+*   [lovely-windows (⭐16)](https://github.com/flamendless/lovely-windows) - A Window/Screen Manager Module for virtual windows.
 
 ### OO
 
-*   [knife.base (⭐429)](https://github.com/airstruck/knife/blob/master/readme/base.md) - Extremely minimal base class providing single inheritance and constructors.
+*   [knife.base (⭐459)](https://github.com/airstruck/knife/blob/master/readme/base.md) - Extremely minimal base class providing single inheritance and constructors.
 
 ### Physics
 
@@ -170,11 +170,11 @@
 
 ### Shaders
 
-*   [Moonshine (⭐523)](https://github.com/vrld/moonshine) - Repository of common post-processing effects like blur, vignette, color-grading, etc.
+*   [Moonshine (⭐588)](https://github.com/vrld/moonshine) - Repository of common post-processing effects like blur, vignette, color-grading, etc.
 
 ### Tweening
 
-*   [knife.timer (⭐429)](https://github.com/airstruck/knife/blob/master/readme/timer.md) - Create timers and tweens with ease.
+*   [knife.timer (⭐459)](https://github.com/airstruck/knife/blob/master/readme/timer.md) - Create timers and tweens with ease.
 
 ### UI
 
@@ -183,7 +183,7 @@
 ### IDEs
 
 *   [ZeroBrane Studio](https://studio.zerobrane.com/) - ZeroBrane Studio is a lightweight Lua IDE with code completion, syntax highlighting, live coding, code analyzer, and debugging support.
-    *   [API Syntax Hightlight (⭐10)](https://github.com/flamendless/LOVE-API-Extractor-for-ZeroBraneStudio) - Script to add LOVE API syntax highlighting to ZBS.
+    *   [API Syntax Hightlight (⭐11)](https://github.com/flamendless/LOVE-API-Extractor-for-ZeroBraneStudio) - Script to add LOVE API syntax highlighting to ZBS.
 *   [Sublime Text](https://www.sublimetext.com) - Sublime Text is a sophisticated text editor for code, markup and prose. You'll love the slick user interface, extraordinary features and amazing performance.
     *   [Package Manager](https://packagecontrol.io/) - The Sublime Text package manager that makes it exceedingly simple to find, install and keep packages up-to-date.
     *   [SublimeLove](https://packagecontrol.io/packages/SublimeLove) - Supports syntax highlighting, auto-completion, and build system.
@@ -205,7 +205,7 @@
 
 ### Gallery / PGFPlots
 
-*   [alemelis/tikz\_drawings (⭐36)](https://github.com/alemelis/tikz_drawings) - Source codes for illustration made in TikZ by Alessandro Melis for various publications.
+*   [alemelis/tikz\_drawings (⭐54)](https://github.com/alemelis/tikz_drawings) - Source codes for illustration made in TikZ by Alessandro Melis for various publications.
 
 ## [17. Awesome Esp](/content/agucova/awesome-esp/README.md)
 

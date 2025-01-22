@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 16, 2020
 
-19 awesome lists updated today.
+17 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -18,7 +18,7 @@
 
 ### Collaboration Tools / Malware Analysis Books
 
-*   [Lair (⭐378)](https://github.com/lair-framework/lair/wiki) - Reactive attack collaboration framework and web application built with meteor.
+*   [Lair (⭐379)](https://github.com/lair-framework/lair/wiki) - Reactive attack collaboration framework and web application built with meteor.
 
 ## [3. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/README.md)
 
@@ -42,19 +42,13 @@
 
 *   [samsung-tv-control (⭐123)](https://github.com/Toxblh/samsung-tv-control) - Library for remote control Samsung TV in your Node.js
 
-## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / UI Components
-
-*   [vue-tinybox (⭐95)](https://github.com/NickKaramoff/vue-tinybox) - a tiny (only 2.5 KB minzipped) and slick lightbox gallery. Optimized for both desktop and mobile.
-
-## [7. Awesome Naming](/content/gruhn/awesome-naming/README.md)
+## [6. Awesome Naming](/content/gruhn/awesome-naming/README.md)
 
 ### Design Patterns and Anti Patterns
 
 *   [Promise](https://en.wikipedia.org/wiki/Futures_and_promises) - A representation of a result that is available in the future, unless there are errors. Like in reality, promises are broken sometimes.
 
-## [8. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
+## [7. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### 🇪🇸 Spain / Misc
 
@@ -62,19 +56,19 @@
 *   [Madrid Meetup](https://www.meetup.com/es-ES/Flutter-Madrid)
 *   [Madrid Twitter](https://twitter.com/FlutterMadrid)
 
-## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Managed Data Services
 
 *   [restdb.io](https://restdb.io/) - a fast and straightforward NoSQL cloud database service. With restdb.io you get schema, relations, automatic REST API (with MongoDB-like queries), and an efficient multi-user admin UI for working with data. The free plan allows 3 users, 2500 records, and 1 API request per second.
 
-## [10. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+## [9. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 
 ### SwiftUI
 
 *   [*SwiftUI Animations Mastery* by Mark Moeykens](https://www.bigmountainstudio.com/swiftui-animations)
 
-## [11. Awesome Rails](/content/gramantin/awesome-rails/README.md)
+## [10. Awesome Rails](/content/gramantin/awesome-rails/README.md)
 
 ### Jobs / Other external resources
 
@@ -82,13 +76,13 @@
 *   [rails jobs on indeed.com](https://www.indeed.com/q-Ruby-On-Rails-jobs.html)
 *   [rails jobs on glassdoor.com](https://www.glassdoor.com/Job/ruby-on-rails-developer-jobs-SRCH_KO0,23.htm)
 
-## [12. Awesome Icons](/content/notlmn/awesome-icons/README.md)
+## [11. Awesome Icons](/content/notlmn/awesome-icons/README.md)
 
 ### General
 
 *   [Picon (⭐23)](https://github.com/yne/picon#readme) - Small ligature-based icon font and SVG. ([Website](https://yne.fr/picon))
 
-## [13. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
+## [12. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
 
 ### Machine Learning
 
@@ -97,20 +91,20 @@
     *   [Transfer Learning with OCaml (PyTorch bindings)](https://blog.janestreet.com/of-pythons-and-camels/).
     *   [Reinforcement Learning with OCaml (PyTorch bindings)](https://blog.janestreet.com/playing-atari-games-with-ocaml-and-deep-rl/).
 
-## [14. Awesome Php](/content/ziadoz/awesome-php/README.md)
+## [13. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Table of Contents / Markup and CSS
 
-*   [CommonMark PHP (⭐2.7k)](https://github.com/thephpleague/commonmark) - Highly-extensible Markdown parser which fully supports the [CommonMark spec](https://spec.commonmark.org/).
+*   [CommonMark PHP (⭐2.8k)](https://github.com/thephpleague/commonmark) - Highly-extensible Markdown parser which fully supports the [CommonMark spec](https://spec.commonmark.org/).
 
-## [15. Awesome Java](/content/akullpp/awesome-java/README.md)
+## [14. Awesome Java](/content/akullpp/awesome-java/README.md)
 
 ### Financial / Text-Based User Interfaces
 
 *   [Parity (⭐502)](https://github.com/paritytrading/parity) - Platform for trading venues.
-*   [Philadelphia (⭐318)](https://github.com/paritytrading/philadelphia) - Low-latency financial information exchange.
+*   [Philadelphia (⭐324)](https://github.com/paritytrading/philadelphia) - Low-latency financial information exchange.
 
-## [16. Awesome Chip 8](/content/tobiasvl/awesome-chip-8/README.md)
+## [15. Awesome Chip 8](/content/tobiasvl/awesome-chip-8/README.md)
 
 ### Community
 
@@ -170,19 +164,13 @@
 *   [CHIP-8 Archive](https://johnearnest.github.io/chip8Archive/) - A collection of public domain (CC0) games, all playable online.
 *   [A collection of CHIP-8 programs and documentation (⭐214)](https://github.com/mattmikolay/chip-8) - Matt Mikolay's games, programs and documentation.
 
-## [17. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
+## [16. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
 
 ### Illustration / Unspecified License
 
 *   [Biodiversity Heritage Library](https://www.flickr.com/people/biodivlibrary/) [:copyright:](https://creativecommons.org/publicdomain/mark/1.0/) [:copyright:](https://creativecommons.org/licenses/by/2.0/) A mix of Public Domain and Attribution (CC BY 2.0) licenses. Nearly 150,000 exquisite, historical illustrations of life on Earth.
 
-## [18. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
-
-### Websites and Resources
-
-*   [Biohack Stack](https://biohackstack.com/) - Biohacker community with "stacks" of famous scientists.
-
-## [19. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+## [17. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Table
 

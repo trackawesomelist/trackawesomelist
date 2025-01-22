@@ -79,13 +79,13 @@ Topics: React, Socket.IO, Storybook, Accessibility\
 
 ### Patterns / Apache License
 
-*   [ada-promises (⭐8)](https://github.com/briot/Ada-promises) - Implementing promises in Ada. Type-safe, efficient, thread-safe.
+*   [ada-promises (⭐9)](https://github.com/briot/Ada-promises) - Implementing promises in Ada. Type-safe, efficient, thread-safe.
 
 ## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Math
 
-*   [Dlib (⭐13k)](https://github.com/davisking/dlib) :zap: - A modern C++11 machine learning, computer vision, numerical optimization, and deep learning toolkit. \[Boost] [website](http://dlib.net/)
+*   [Dlib (⭐14k)](https://github.com/davisking/dlib) :zap: - A modern C++11 machine learning, computer vision, numerical optimization, and deep learning toolkit. \[Boost] [website](http://dlib.net/)
 
 ---
 

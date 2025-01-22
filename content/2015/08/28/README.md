@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 28, 2015
 
-7 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -21,31 +21,25 @@
 
 *   Freek Van der Herten <https://murze.be/>
 
-## [3. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
-
-### Native Apps (closed source)
-
-*   [TransLoc Rider](http://translocrider.com/) - Real-time transit maps for over 100 transit systems.
-
-## [4. Awesome D3](/content/wbkd/awesome-d3/README.md)
+## [3. Awesome D3](/content/wbkd/awesome-d3/README.md)
 
 ### Charts
 
 *   [d3pie (⭐372)](https://github.com/benkeen/d3pie) - A configurable pie chart lib and generator
 
-## [5. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [4. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### General-Purpose Machine Learning / Data Analysis / Data Visualization
 
 *   [PredictionBuilder (⭐111)](https://github.com/denissimon/prediction-builder) - A library for machine learning that builds predictions using a linear regression.
 
-## [6. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
+## [5. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
 
 ### Other Awesome Lists
 
 *   [ci tools compare](https://en.wikipedia.org/wiki/Comparison_of_continuous_integration_software)
 
-## [7. Rbooks](/content/RomanTsegelskyi/rbooks/README.md)
+## [6. Rbooks](/content/RomanTsegelskyi/rbooks/README.md)
 
 ### Beginner Books
 

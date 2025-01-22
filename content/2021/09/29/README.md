@@ -39,7 +39,7 @@
 *   [Microsoft Press: Free E-Books](https://mva.microsoft.com/ebooks)
 *   [Microsoft Technologies 1, including books on Windows Azure, SharePoint, Visual Studio Guide, Windows phone development, ASP.net, Office365, etc. collection by Eric Ligman](https://blogs.msdn.microsoft.com/mssmallbiz/2012/07/27/large-collection-of-free-microsoft-ebooks-for-you-including-sharepoint-visual-studio-windows-phone-windows-8-office-365-office-2010-sql-server-2012-azure-and-more/)
 *   [Microsoft Technologies 2, including books on Windows Azure, SharePoint, Visual Studio Guide, Windows phone development, ASP.net, etc. collection by Eric Ligman](https://blogs.msdn.microsoft.com/mssmallbiz/2012/07/30/another-large-collection-of-free-microsoft-ebooks-and-resource-kits-for-you-including-sharepoint-2013-office-2013-office-365-duet-2-0-azure-cloud-windows-phone-lync-dynamics-crm-and-more/)
-*   [Papers we love (⭐86k)](https://github.com/papers-we-love/papers-we-love)
+*   [Papers we love (⭐89k)](https://github.com/papers-we-love/papers-we-love)
 *   [Stef's Free Online Smalltalk Books](http://stephane.ducasse.free.fr/FreeBooks/)
 *   [Theassayer.org](http://theassayer.org)
 
@@ -53,12 +53,12 @@
 *   [Binary Trees](http://cslibrary.stanford.edu/110/BinaryTrees.pdf) - Nick Parlante (PDF)
 *   [Data Structures Succinctly Part 1, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/datastructurespart1) - Robert Horvick
 *   [Data Structures Succinctly Part 2, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/datastructurespart2) - Robert Horvick
-*   [Elementary Algorithms (⭐6k)](https://github.com/liuxinyu95/AlgoXY) - Larry Liu Xinyu (PDF)
+*   [Elementary Algorithms (⭐6.1k)](https://github.com/liuxinyu95/AlgoXY) - Larry Liu Xinyu (PDF)
 *   [The Kademlia Protocol Succinctly](https://www.syncfusion.com/ebooks/kademlia_protocol_succinctly) - Marc Clifton
 
 ### Artificial Intelligence
 
-*   [Introduction to Autonomous Robots (⭐1.7k)](https://github.com/correll/Introduction-to-Autonomous-Robots/releases) - Nikolaus Correll (PDF)
+*   [Introduction to Autonomous Robots (⭐1.7k)](https://github.com/correll/Introduction-to-Autonomous-Robots/releases) - Nikolaus Correll (PDF) (CC BY-NC-ND)
 
 ### Cellular Automata
 
@@ -87,8 +87,6 @@
 
 *   [An Introduction to GCC](https://web.archive.org/web/20170326232435/http://www.network-theory.co.uk/docs/gccintro/index.html) - Brian Gough *(:card\_file\_box: archived)*
 *   [Basics of Compiler Design (Anniversary Edition)](http://www.diku.dk/~torbenm/Basics/) - Torben Mogensen
-*   [Compiler Design: Theory, Tools, and Examples, C/C++ Edition](http://elvis.rowan.edu/~bergmann/books/Compiler_Design/c_cpp/Text/C_CppEd.pdf) - Seth D. Bergmann (PDF)
-*   [Compiler Design: Theory, Tools, and Examples, Java Edition](http://elvis.rowan.edu/~bergmann/books/Compiler_Design/java/CompilerDesignBook.pdf) - Seth D. Bergmann (PDF)
 *   [The ANTLR Mega Tutorial](https://tomassetti.me/antlr-mega-tutorial/)
 
 ### Computer Science
@@ -111,7 +109,7 @@
 
 ### Game Development
 
-*   [2D Game Development: From Zero To Hero (⭐217)](https://github.com/Penaz91/2DGD_F0TH) - Daniele Penazzo (HTML, [PDF, EBPUB, Kindle...](https://therealpenaz91.itch.io/2dgd-f0th#download)) *(:construction: in process)*
+*   [2D Game Development: From Zero To Hero (⭐226)](https://github.com/Penaz91/2DGD_F0TH) - Daniele Penazzo (HTML, [PDF, EBPUB, Kindle...](https://therealpenaz91.itch.io/2dgd-f0th#download)) *(:construction: in process)*
 *   [Coding With Minecraft](https://turtleappstore.com/book/) - Al Sweigart
 *   [Designing Virtual Worlds](https://mud.co.uk/richard/DesigningVirtualWorlds.pdf) - Richard A. Bartle (PDF)
 *   [Game Design with AGS](https://ensadi.github.io/AGSBook/) - Dave Ensminger, A. G. Madi
@@ -143,7 +141,7 @@
 *   [A Course in Machine Learning](http://ciml.info/dl/v0_9/ciml-v0_9-all.pdf) (PDF)
 *   [Algorithms for Reinforcement Learning](https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf) - Csaba Szepesvári (PDF)
 *   [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage)
-*   [Deep Learning for Coders with Fastai and PyTorch (⭐21k)](https://github.com/fastai/fastbook) - Jeremy Howard, Sylvain Gugger (Jupyter Notebooks)
+*   [Deep Learning for Coders with Fastai and PyTorch (⭐22k)](https://github.com/fastai/fastbook) - Jeremy Howard, Sylvain Gugger (Jupyter Notebooks)
 *   [Explorations in Parallel Distributed Processing: A Handbook of Models, Programs, and Exercises](https://web.stanford.edu/group/pdplab/pdphandbook) - James L. McClelland
 *   [IBM Machine Learning for Dummies](https://www.ibm.com/downloads/cas/GB8ZMQZ3) - Judith Hurwitz, Daniel Kirsch
 *   [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) - Christoph Molnar
@@ -153,7 +151,7 @@
 *   [Machine Learning for Data Streams](https://moa.cms.waikato.ac.nz/book-html/) - Albert Bifet, Ricard Gavaldà, Geoff Holmes, Bernhard Pfahringer
 *   [Mathematics for Machine Learning](https://gwthomas.github.io/docs/math4ml.pdf) - Garrett Thomas (PDF)
 *   [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com)
-*   [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/RLbook2020.pdf) - Richard S. Sutton, Andrew G. Barto (PDF)
+*   [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/RLbook2020.pdf) - Richard S. Sutton, Andrew G. Barto (PDF) (CC BY-NC-ND)
 *   [Speech and Language Processing (3rd Edition Draft)](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf) - Daniel Jurafsky, James H. Martin (PDF)
 *   [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/) - Trevor Hastie, Robert Tibshirani, and Jerome Friedman
 *   [The LION Way: Machine Learning plus Intelligent Optimization](https://intelligent-optimization.org/LIONbook/lionbook_3v0.pdf) - Roberto Battiti, Mauro Brunato (PDF)
@@ -196,7 +194,7 @@
 *   [Graph Theory](http://compalg.inf.elte.hu/~tony/Oktatas/TDK/FINAL/)
 *   [Introduction to Proofs](http://joshua.smcvt.edu/proofs/) - Jim Hefferon
 *   [Introduction to Real Analysis](https://digitalcommons.trinity.edu/mono/7/) - William F. Trench
-*   [Kalman and Bayesian Filters in Python (⭐16k)](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
+*   [Kalman and Bayesian Filters in Python (⭐17k)](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
 *   [Lies, Damned Lies, or Statistics: How to Tell the Truth with Statistics](https://www.poritz.net/jonathan/share/ldlos.pdf) - Jonathan A. Poritz (PDF)
 *   [Linear Algebra](http://joshua.smcvt.edu/linearalgebra/) - Jim Hefferon
 *   [Linear Algebra Done Wrong](https://www.math.brown.edu/streil/papers/LADW/LADW.html) - Sergei Treil
@@ -207,7 +205,7 @@
 *   [Mathematical Reasoning: Writing and Proof](https://www.tedsundstrom.com/mathematical-reasoning-3) - Ted Sundstrom
 *   [Non-Uniform Random Variate Generation](http://luc.devroye.org/rnbookindex.html) - Luc Devroye (PDF)
 *   [Notes on Diffy Qs](https://www.jirka.org/diffyqs/) - Jiří Lebl
-*   [Number Theory (⭐54)](https://github.com/holdenlee/number-theory) - Holden Lee MIT
+*   [Number Theory (⭐57)](https://github.com/holdenlee/number-theory) - Holden Lee MIT
 *   [Odds and Ends: Introducing Probability & Decision with a Visual Emphasis](https://jonathanweisberg.org/vip/) - Jonathan Weisberg
 *   [OpenIntro Statistics](https://www.openintro.org/stat/textbook.php) - David M. Diez, Christopher D. Barr, Mine Çetinkaya-Rundel
 *   [ORCCA: Open Resources for Community College Algebra](https://spaces.pcc.edu/pages/viewpage.action?pageId=52729944) - Portland Community College
@@ -288,10 +286,10 @@
 
 ### Operating Systems
 
-*   [How to Make a Computer Operating System (⭐21k)](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) - Samy Pesse  *(:construction: in process)*
+*   [How to Make a Computer Operating System (⭐22k)](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) - Samy Pesse  *(:construction: in process)*
 *   [Operating Systems and Middleware](https://gustavus.edu/mcs/max/os-book/) - Max Hailperin (PDF, LaTeX)
 *   [The Art of Unix Programming](http://catb.org/esr/writings/taoup/html/) - Eric S. Raymond (HTML)
-*   [UNIX Application and System Programming, lecture notes](http://www.compsci.hunter.cuny.edu/~sweiss/course_materials/unix_lecture_notes.php) - Stewart Weiss (PDF)
+*   [UNIX Application and System Programming, lecture notes](http://www.compsci.hunter.cuny.edu/~sweiss/course_materials/unix_lecture_notes.php) - Stewart Weiss (PDF) (CC BY-SA)
 
 ### Professional Development
 
@@ -314,8 +312,8 @@
 
 *   [Making Sense of Stream Processing](https://assets.confluent.io/m/2a60fabedb2dfbb1/original/20190307-EB-Making_Sense_of_Stream_Processing_Confluent.pdf) - Martin Kleppmann (PDF)
 *   [Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/content/) - Mostly Adequate Core Team
-*   [The Pure Function Pipeline Data Flow v3.0 ---- the Grand Unified Programming Theory (⭐445)](https://github.com/linpengcheng/PurefunctionPipelineDataflow) - Lin Pengcheng
-*   [Type Theory and Functional Programming](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/)
+*   [The Pure Function Pipeline Data Flow v3.0 ---- the Grand Unified Programming Theory (⭐446)](https://github.com/linpengcheng/PurefunctionPipelineDataflow) - Lin Pengcheng
+*   [Type Theory and Functional Programming](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/) - Simon Thompson
 
 ### Regular Expressions
 
@@ -327,19 +325,19 @@
 ### Reverse Engineering
 
 *   [Hacking the Xbox: An Introduction to Reverse Engineering](https://www.nostarch.com/xboxfree/) - Andrew "bunnie" Huang
-*   [iOS App Reverse Engineering (⭐4.2k)](https://github.com/iosre/iOSAppReverseEngineering) (PDF)
+*   [iOS App Reverse Engineering (⭐4.3k)](https://github.com/iosre/iOSAppReverseEngineering) - Zishe Sha (PDF)
 
 ### Search Engines
 
-*   [Elasticsearch: The Definitive Guide](https://www.elastic.co/guide/en/elasticsearch/guide/current/index.html) ([fork it on GH (⭐3.5k)](https://github.com/elastic/elasticsearch-definitive-guide))
-*   [Solr for newbies workshop (2019) (⭐78)](https://github.com/hectorcorrea/solr-for-newbies) - Hector Correa ([PDF (⭐78)](https://github.com/hectorcorrea/solr-for-newbies/blob/master/tutorial.pdf))
+*   [Elasticsearch: The Definitive Guide](https://www.elastic.co/guide/en/elasticsearch/guide/current/index.html) ([fork it on GH (⭐3.6k)](https://github.com/elastic/elasticsearch-definitive-guide))
+*   [Solr for newbies workshop (2019) (⭐80)](https://github.com/hectorcorrea/solr-for-newbies) - Hector Correa ([PDF (⭐80)](https://github.com/hectorcorrea/solr-for-newbies/blob/master/tutorial.pdf))
 
 ### Security & Privacy
 
 *   [Crypto 101 - Crypto for everyone](https://www.crypto101.io)
 *   [CryptoParty Handbook](https://unglue.it/work/141611/)
 *   [How HTTPS works](https://howhttps.works) - dnsimple
-*   [How to deal with Passwords (⭐49)](https://github.com/MHM5000/pass)
+*   [How to deal with Passwords (⭐50)](https://github.com/MHM5000/pass)
 *   [OpenSSL Cookbook](https://www.feistyduck.com/library/openssl-cookbook/)
 *   [OWASP Mobile Security Testing Guide](https://mobile-security.gitbook.io/mobile-security-testing-guide/) - Bernhard Mueller et al.
 
@@ -360,14 +358,14 @@
 *   [Shape Up - Stop Running in Circles and Ship Work that Matters](https://basecamp.com/shapeup) - Ryan Singer (PDF)
 *   [Site Reliability Engineering](https://landing.google.com/sre/book/index.html)
 *   [Source Making Design Patterns and UML](https://sourcemaking.com/design_patterns)
-*   [Test Driven Development, Extensive Tutorial (⭐359)](https://github.com/grzesiek-galezowski/tdd-ebook) - Grzegorz Gałęzowski
+*   [Test Driven Development, Extensive Tutorial (⭐362)](https://github.com/grzesiek-galezowski/tdd-ebook) - Grzegorz Gałęzowski
 *   [Web API Design](https://pages.apigee.com/rs/apigee/images/api-design-ebook-2012-03.pdf) - Brian Mulloy (PDF)
 *   [Working with Web APIs](https://launchschool.com/books/working_with_apis) - Launch School
 *   [Your API Is Bad](https://leanpub.com/yourapiisbad/read) - Paddy Foran
 
 ### Standards
 
-*   [UNIX - The POSIX Standard - IEEE Std 1003.1 (⭐191)](https://github.com/geoff-codes/posix-standard)
+*   [UNIX - The POSIX Standard - IEEE Std 1003.1 (⭐192)](https://github.com/geoff-codes/posix-standard)
 
 ### Theoretical Computer Science
 
@@ -394,13 +392,13 @@
 ### UI Libraries, Components & Templates
 
 *   📚 [Flowbite](https://flowbite.com/docs/getting-started/introduction/) - Open-source component library built with Tailwind CSS.
-*   🧩 [Tailwind Datepicker (⭐136)](https://github.com/themesberg/tailwind-datepicker) - Adds a datepicker component built with Tailwind CSS and vanilla JavaScript.
+*   🧩 [Tailwind Datepicker (⭐141)](https://github.com/themesberg/tailwind-datepicker) - Adds a datepicker component built with Tailwind CSS and vanilla JavaScript.
 
 ## [6. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### UI / Barcode
 
-*   [HPParallaxHeader (⭐53)](https://github.com/ngochiencse/HPParallaxHeader) - Simple parallax header for UIScrollView.
+*   [HPParallaxHeader (⭐55)](https://github.com/ngochiencse/HPParallaxHeader) - Simple parallax header for UIScrollView.
 
 ## [7. Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/README.md)
 

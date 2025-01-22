@@ -10,14 +10,14 @@
 
 ### ⚙️ Middlewares / ‍💻 Contrib
 
-*   [jwt (⭐180)](https://github.com/gofiber/contrib/tree/main/jwt) - JWT returns a JSON Web Token (JWT) auth middleware.
-*   [websocket (⭐180)](https://github.com/gofiber/contrib/tree/main/websocket) - Based on Fasthttp WebSocket for Fiber with Locals support!
+*   [jwt (⭐239)](https://github.com/gofiber/contrib/tree/main/jwt) - JWT returns a JSON Web Token (JWT) auth middleware.
+*   [websocket (⭐239)](https://github.com/gofiber/contrib/tree/main/websocket) - Based on Fasthttp WebSocket for Fiber with Locals support!
 
 ## [2. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
 
 ### Extensions / Community
 
-*   [API Viewer (⭐109)](https://github.com/u12206050/directus-extension-api-viewer-module) - View and run API queries directly from a Module.
+*   [API Viewer (⭐115)](https://github.com/u12206050/directus-extension-api-viewer-module) - View and run API queries directly from a Module.
 
 ## [3. Awesome CoreML Models](/content/likedan/Awesome-CoreML-Models/week/README.md)
 
@@ -29,7 +29,7 @@
 
 ### CMS and applications built on CakePHP
 
-*   [baserCMS (⭐161)](https://github.com/baserproject/basercms) - This is a website development framework with RESTful APIs. Installable as a plugin for CakePHP 4.x.
+*   [baserCMS (⭐174)](https://github.com/baserproject/basercms) - This is a website development framework with RESTful APIs. Installable as a plugin for CakePHP.
 
 ## [5. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
@@ -89,17 +89,23 @@
 
 ### Caches
 
-*   [gocache (⭐6)](https://github.com/yuseferi/gocache) - A data race free Go ache library with high performance and auto pruge functionality
+*   [gocache (⭐9)](https://github.com/yuseferi/gocache) - A data race free Go ache library with high performance and auto pruge functionality
 
 ### Logging
 
-*   [zax (⭐20)](https://github.com/yuseferi/zax) - Integrate Context with Zap logger, which leads to more flexibility in Go logging.
+*   [zax (⭐26)](https://github.com/yuseferi/zax) - Integrate Context with Zap logger, which leads to more flexibility in Go logging.
 
 ### Utilities
 
-*   [gofn (⭐33)](https://github.com/tiendc/gofn) - High performance utility functions written using Generics for Go 1.18+.
+*   [gofn (⭐52)](https://github.com/tiendc/gofn) - High performance utility functions written using Generics for Go 1.18+.
 
-## [10. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/week/README.md)
+## [10. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+
+### Applications
+
+*   [mdBook (⭐19k)](https://github.com/rust-lang/mdBook) - A command line utility to create books from markdown files [![Build Status](https://github.com/rust-lang/mdBook/workflows/CI/badge.svg?branch=master)](https://github.com/rust-lang/mdBook/actions)
+
+## [11. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/week/README.md)
 
 ### IDE and Code Editing
 
@@ -113,10 +119,6 @@
 
 *   [DeepSource](https://education.github.com/pack) \[FREE] - Static code analyzer for Python and Go. Detect bug risks, anti-patterns and security vulnerabilities. Free for students.
 
-### Web Hosting
-
-*   [Education Host](https://education.github.com/pack) \[FREE] - 50% web hosting for the first year for students. Available via [Github Student Developer Pack](https://education.github.com/pack).
-
 ### Design and Photo Editing
 
 *   [Sketch](https://www.sketch.com/education/) \[FREE] - Get Sketch for free as a student or educator.
@@ -124,61 +126,39 @@
 ### SaaS
 
 *   [Blockchair](https://education.github.com/pack) \[FREE] - Connect to the world of blockchains through Blockchair’s professional APIs — supports most major cryptocurrencies.100,000 free requests.
-*   [Customerly](https://education.github.com/pack) \[FREE] - Live chat, behavioural funnels, newsletters, and in-app surveys for SaaS.Customerly Pro free for 6 months.
 
 ### Email
 
 *   [Mailgun](https://education.github.com/pack) \[FREE] - Powerful APIs that enable you to send, receive and track email effortlessly.20,000 free emails and 100 free email validations each month for up to 12 months, available via [Github Student Developer Pack](https://education.github.com/pack).
 
-### CI / CD
-
-*   [StyleCI](https://blog.styleci.io/introducing-the-student-plan/) \[FREE / CREDIT] - Free Student Plan with access to StyleCI for up to five private repositories.
-
-### Management Systems
-
-*   [LingoHub](https://education.github.com/pack) \[FREE] - Translation management service for web, desktop and mobile apps.Free Professional Plan containing 10,000 text segments for students.
-*   [MongoDB](https://education.github.com/pack) \[FREE] - A general purpose, document-based, distributed database built for modern application developers and for the cloud era.$200 in MongoDB Atlas Credits, plus access to MongoDB Compass and MongoDB University including free certification.
-
 ### Localization
 
-*   [Crowdin](https://education.github.com/pack)\[FREE] - Crowdin is a cloud-based solution that streamlines localization management.Bronze plan for 1 year available via [Github Student Developer Pack](https://education.github.com/pack).
 *   [POEditor](https://education.github.com/pack) \[FREE] - POEditor is a highly scalable localization management platform for teams.Plus Plan for free for one year.
 
 ### Programming Help
 
 *   [Covalence](https://education.github.com/pack)\[FREE] - Join an exclusive developer community and learn Full Stack web-development with no long-term commitments.One free month of Covalence's Atomic Plan and two 1-on-1 mentoring sessions via [Github Student Developer Pack](https://education.github.com/pack).
-*   [Jaamly](https://education.github.com/pack) \[FREE] - Helping developers, designers, and startups to launch their apps on the App Store.Jaamly Startup plan free for 6 months.
 
 ### Security
 
 *   [LambdaTest](https://education.github.com/pack) \[FREE] - Perform automated and live interactive cross browser testing on 2000+ real browsers and operating systems online.Free LambdaTest Live Plan for one year.
-*   [SOFY](https://education.github.com/pack) \[FREE] - SOFY automates your software testing, uses machine learning to create tests, suggests test scenarios based on product changes, customer usage data and runs at scale.6 months of free website and mobile app testing.
 
 ### Visual Analytics
 
-*   [Scrapinghub](https://education.github.com/pack) \[FREE] - Scrapinghub's Scrapy Cloud is a battle-tested cloud platform for running web crawlers. Manage and automate your web spiders at scale.1 Free Forever Scrapy Cloud Unit - unlimited team members, projects or requests. Unlimited crawl time and 120 day data retention.
-*   [Typeform](https://education.github.com/pack) \[FREE] - Interactive forms, surveys & quizzes to engage and grow your audience.Free professional plan for 1 year.
-*   [Baremetrics](https://education.github.com/pack) \[FREE] - Metrics, dunning, and engagement tools for SaaS & subscription businesses.Get Baremetrics for free up to $2.5k Monthly Recurring Revenue while you are a student.
 *   [CodeScene](https://education.github.com/pack) \[FREE] - A powerful visualization tool that uses Predictive Analytics to identify social patterns in your code, detect delivery risks and manage technical debt.A free Student account to analyze private GitHub repositories.
 *   [DailyBot](https://education.github.com/pack) \[FREE] - Automate daily stand-ups, follow-ups, retrospectives, surveys and feedback for your team.DailyBot Business plan free for 1 year.
-*   [Freshpaint](https://education.github.com/pack) \[FREE] - Integrate your marketing and analytics tools with one click.Free Freshpaint Growth Plan while you are a student.
-*   [Raygun](https://education.github.com/pack) \[FREE] - Error, crash and performance monitoring for web and mobile apps. Startup Platform plan, free for one year.
-
-### Game Development Tools
-
-*   [Unity3D](https://education.github.com/pack) \[FREE] -Accomplish your creative goals using the world’s leading real-time development platform, used to create half of the world’s games.Unity Student Plan free while you are a student.
 
 ### Infrastructure Monitoring
 
 *   [HoneyBadger](https://education.github.com/pack)\[FREE] - Exception, uptime, and cron monitoring.Free Small account for 1 year available via [Github Student Developer Pack](https://education.github.com/pack).
 
-## [11. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [12. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Testing
 
-*   [Kotlin/kotlinx-benchmark (⭐497)](https://github.com/Kotlin/kotlinx-benchmark) - A powerful library for benchmarking in Kotlin.
+*   [Kotlin/kotlinx-benchmark (⭐525)](https://github.com/Kotlin/kotlinx-benchmark) - A powerful library for benchmarking in Kotlin.
 
-## [12. Awesome Flask](/content/mjhea0/awesome-flask/week/README.md)
+## [13. Awesome Flask](/content/mjhea0/awesome-flask/week/README.md)
 
 ### Auth / Basic Auth and Session-based (for HTML Endpoints)
 
@@ -190,11 +170,11 @@
 
 ### Security / Testing
 
-*   [Flask-Argon2 (⭐20)](https://github.com/red-coracle/flask-argon2) - Provides argon2 hashing utilities.
+*   [Flask-Argon2 (⭐19)](https://github.com/red-coracle/flask-argon2) - Provides argon2 hashing utilities.
 
 ### Utils / Testing
 
-*   [Flask-Injector (⭐265)](https://github.com/python-injector/flask_injector) - Adds support for dependency injection.
+*   [Flask-Injector (⭐280)](https://github.com/python-injector/flask_injector) - Adds support for dependency injection.
 *   [Flask-SSE](https://flask-sse.readthedocs.io) - Streaming with flask.
 
 ### External Resources / Testing
@@ -211,16 +191,16 @@
 
 ### Boilerplates / Testing
 
-*   [flask-htmx-boilerplate (⭐29)](https://github.com/marcusschiesser/flask-htmx-boilerplate) - Boilerplate template for a Python Flask application with HTMX and Tailwind CSS.
+*   [flask-htmx-boilerplate (⭐35)](https://github.com/marcusschiesser/flask-htmx-boilerplate) - Boilerplate template for a Python Flask application with HTMX and Tailwind CSS.
 
-## [13. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [14. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Resources / Talks and videos
 
-*   [Polars - make the switch to lightning-fast dataframes](https://www.youtube.com/watch?v=CtkMzCIXOWk) ⏳ `30 min` - A talk that reports an experience switching from Pandas to Polars in a real-world ML project by [@datenzauberai](https://github.com/datenzauberai). Slides are available [here (⭐5)](https://github.com/datenzauberai/PyConDE-2023--Polars-make-the-switch/raw/main/Polars%20-%20make%20the%20switch%20to%20lightning-fast%20dataframes%20-%20Versand.pdf).
+*   [Polars - make the switch to lightning-fast dataframes](https://www.youtube.com/watch?v=CtkMzCIXOWk) ⏳ `30 min` - A talk that reports an experience switching from Pandas to Polars in a real-world ML project by [@datenzauberai](https://github.com/datenzauberai). Slides are available [here (⭐6)](https://github.com/datenzauberai/PyConDE-2023--Polars-make-the-switch/raw/main/Polars%20-%20make%20the%20switch%20to%20lightning-fast%20dataframes%20-%20Versand.pdf).
 *   [Polars: A highly optimized dataframe library](https://youtu.be/2Yz4VCxRJA4) ⏳ `20 min` - A video that presents some mains features of Polars by [@mattharrison](https://github.com/mattharrison).
 
-## [14. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [15. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Transpilers
 
@@ -228,9 +208,9 @@
 
 ### Notifications / Runner
 
-*   [toastify-js (⭐2k)](https://github.com/apvarun/toastify-js) - Pure JavaScript library for better notification messages.
+*   [toastify-js (⭐2.1k)](https://github.com/apvarun/toastify-js) - Pure JavaScript library for better notification messages.
 
-## [15. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [16. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Free Courses
 
@@ -240,7 +220,7 @@
 
 *   [Scaler Data Science & Machine Learning Program](https://www.scaler.com/data-science-course/)
 
-## [16. Awesome Phalcon](/content/phalcon/awesome-phalcon/week/README.md)
+## [17. Awesome Phalcon](/content/phalcon/awesome-phalcon/week/README.md)
 
 ### Conferences / Communities
 
@@ -252,7 +232,7 @@
 
 *   [Phalcon Book (in French)](https://www.editions-eni.fr/livre/phalcon-3-developpez-des-applications-web-complexes-et-performantes-en-php-version-en-ligne-9782409022753) - Phalcon : Develop complex and powerful web applications in PHP
 
-## [17. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [18. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Science Logology / Democratization of Science
 
@@ -262,7 +242,7 @@
 
 *   [The Internet of Things comes to the lab](https://www.nature.com/articles/542125a) - ***Nature***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=7747117198956166976\&hl=en\&as_sdt=0,5)]. The emergence of connected instruments and equipment promises to untether researchers from the laboratory --- letting them fine-tune experiments and analyse data remotely.
 
-## [18. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
+## [19. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
 ### Hosted Notebook Solutions
 
@@ -272,77 +252,77 @@
 
 *   [Sharing Jupyter Notebooks from localhost](https://pinggy.io/blog/share_jupyter_notebook_from_localhost/) - Sharing Jupyter Notebooks from localhost.
 
-## [19. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
+## [20. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
 
 ### Tools
 
-*   [RabbitMQ Retry Mechanism (⭐53)](https://github.com/run-as-root/magento2-message-queue-retry) - Magento 2 extension that brings possibility to retry RabbitMQ failed messages
+*   [RabbitMQ Retry Mechanism (⭐57)](https://github.com/run-as-root/magento2-message-queue-retry) - Magento 2 extension that brings possibility to retry RabbitMQ failed messages
 
-## [20. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [21. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Gaming
 
-*   [Game Engine Development (⭐846)](https://github.com/stevinz/awesome-game-engine-dev#readme) - Building software to speed up game creation.
-*   [Game Production (⭐82)](https://github.com/vhladiienko/awesome-game-production#readme) - Leading the process of designing, developing, testing and distributing a video game from concept to release.
+*   [Game Engine Development (⭐975)](https://github.com/stevinz/awesome-game-engine-dev#readme) - Building software to speed up game creation.
+*   [Game Production (⭐108)](https://github.com/vhladiienko/awesome-game-production#readme) - Leading the process of designing, developing, testing and distributing a video game from concept to release.
 
 ### Learn
 
-*   [STEAM (⭐89)](https://github.com/RahulBirCodes/awesome-steam#readme) - Supplements for specific science, technology, engineering, arts, and math (STEAM) courses across all grade levels.
+*   [STEAM (⭐108)](https://github.com/RahulBirCodes/awesome-steam#readme) - Supplements for specific science, technology, engineering, arts, and math (STEAM) courses across all grade levels.
 
 ### Security
 
-*   [Security Card Games (⭐104)](https://github.com/Karneades/awesome-security-card-games#readme) - Train your skills and discuss various security topics.
-*   [Suricata (⭐122)](https://github.com/satta/awesome-suricata#readme) - Intrusion detection/prevention system and network security monitoring engine.
+*   [Security Card Games (⭐112)](https://github.com/Karneades/awesome-security-card-games#readme) - Train your skills and discuss various security topics.
+*   [Suricata (⭐138)](https://github.com/satta/awesome-suricata#readme) - Intrusion detection/prevention system and network security monitoring engine.
 
 ### Hardware
 
-*   [ADS-B (⭐90)](https://github.com/rickstaa/awesome-adsb#readme) - Technology broadcasting aircraft's identity, position, and data periodically.
-*   [Flying FPV (⭐262)](https://github.com/Matthias84/awesome-flying-fpv#readme) - Open hardware and software related to drones / UAVs.
+*   [ADS-B (⭐120)](https://github.com/rickstaa/awesome-adsb#readme) - Technology broadcasting aircraft's identity, position, and data periodically.
+*   [Flying FPV (⭐332)](https://github.com/Matthias84/awesome-flying-fpv#readme) - Open hardware and software related to drones / UAVs.
 
 ### Decentralized Systems
 
-*   [Cosmos SDK (⭐508)](https://github.com/cosmos/awesome-cosmos#readme) - Modular framework for building app-specific blockchains in Go.
+*   [Cosmos SDK (⭐539)](https://github.com/cosmos/awesome-cosmos#readme) - Modular framework for building app-specific blockchains in Go.
 
-## [21. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
+## [22. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
 
 ### Archives and primary sources / Germany
 
 *   [historicum.net](https://www.historicum.net/home/) - A specialized information service for historians that offers access to research tools and services.
 
-## [22. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [23. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [chinatown (⭐1)](https://github.com/skippyr/chinatown) - Powerline-esque theme with decorators for the exit status of the last command run, user\@hostname, virtual environments and current directory. Requires a nerdfont font.
+*   [chinatown (⭐2)](https://github.com/skippyr/chinatown) - Powerline-esque theme with decorators for the exit status of the last command run, user\@hostname, virtual environments and current directory. Requires a nerdfont font.
 *   [joje (⭐0)](https://github.com/joje6/joje.zsh-theme) - Includes decorators for `git` status and current directory.
 *   [less-noise (⭐0)](https://github.com/ablil/less-noise) - Minimalist theme with decorators for `git` status, current directory and the current time.
 *   [rs (⭐0)](https://github.com/sam-621/rs-zsh-theme) - Includes `git` decorations. Requires unicode capable terminal.
 
-## [23. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [24. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / General-Purpose Machine Learning
 
-*   [Aim (⭐5.1k)](https://github.com/aimhubio/aim) -> An easy-to-use & supercharged open-source AI metadata tracker.
+*   [Aim (⭐5.3k)](https://github.com/aimhubio/aim) -> An easy-to-use & supercharged open-source AI metadata tracker.
 
-## [24. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [25. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Self-hosted Terraform Platforms / IDE
 
 *   [Terrakube](https://docs.terrakube.io) - Open Source alternative to Terraform Enterprise with private registry, remote state, custom flows, scheduled workspaces, and visual states.
 
-## [25. Nginx Resources](/content/fcambus/nginx-resources/week/README.md)
+## [26. Nginx Resources](/content/fcambus/nginx-resources/week/README.md)
 
 ### Configuration
 
 *   [Nginx common configuration - Universal config and snippets (⭐576)](https://github.com/tldr-devops/nginx-common-configuration)
 
-## [26. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [27. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
-### Domain and IP Research / Telegram
+### Domain and IP Research / Steam
 
-*   [WebsiteTechMiner.py (⭐5)](https://github.com/cybersader/WebsiteTechMiner-py) - automates gathering website profiling data into a CSV from the "BuiltWith" or "Wappalyzer" API for tech stack information, technographic data, website reports, website tech lookups, website architecture lookups, etc.
+*   [WebsiteTechMiner.py (⭐7)](https://github.com/cybersader/WebsiteTechMiner-py) - automates gathering website profiling data into a CSV from the "BuiltWith" or "Wappalyzer" API for tech stack information, technographic data, website reports, website tech lookups, website architecture lookups, etc.
 
-## [27. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [28. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Open Source / Other
 
@@ -352,15 +332,15 @@
 
 *   [electron-vite (⭐3k)](https://github.com/alex8088/electron-vite) - Fast and easy-to-use build tool integrated with Vite.
 
-## [28. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [29. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Build tools
 
-*   [Vite (⭐67k)](https://github.com/vitejs/vite) - Front-end build tool with hot module replacement and static asset bundling.
+*   [Vite (⭐69k)](https://github.com/vitejs/vite) - Front-end build tool with hot module replacement and static asset bundling.
 
 ### Packages / Hardware
 
-*   [modbus-serial (⭐612)](https://github.com/yaacov/node-modbus-serial) - A pure JavaScript implementation of MODBUS-RTU (serial and TCP).
+*   [modbus-serial (⭐646)](https://github.com/yaacov/node-modbus-serial) - A pure JavaScript implementation of MODBUS-RTU (serial and TCP).
 
 ### Resources / Courses
 
@@ -371,22 +351,12 @@
 *   [Amplication (⭐15k)](https://github.com/amplication/amplication) - Auto-generates fully functional apps.
 *   [RunJS](https://runjs.app) - Desktop JavaScript playground.
 
-## [29. Awesome Minecraft](/content/bs-community/awesome-minecraft/week/README.md)
+## [30. Awesome Minecraft](/content/bs-community/awesome-minecraft/week/README.md)
 
 ### Softwares / Servers
 
 *   [Legendary-Java-Minecraft-Geyser-Floodgate (⭐146)](https://github.com/TheRemote/Legendary-Java-Minecraft-Geyser-Floodgate) - PaperMC server with out of the box Geyser and Floodgate support using docker.
 *   [minecraft-docker (⭐1)](https://github.com/tywil04/minecraft-docker) - Fork of [Legendary-Java-Minecraft-Geyser-Floodgate (⭐146)](https://github.com/TheRemote/Legendary-Java-Minecraft-Geyser-Floodgate) that embeds a discord bot for easy starting and stopping of the server.
-
-## [30. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
-
-### Applications
-
-*   [mdBook (⭐17k)](https://github.com/rust-lang/mdBook) - A command line utility to create books from markdown files [![Build Status](https://github.com/rust-lang/mdBook/workflows/CI/badge.svg?branch=master)](https://github.com/rust-lang/mdBook/actions)
-
-### Applications / Text processing
-
-*   [jqnatividad/qsv (⭐2.4k)](https://github.com/jqnatividad/qsv) \[[qsv](https://crates.io/crates/qsv)] - A high performance CSV data-wrangling toolkit. Forked from xsv, with 34+ additional commands & more. [![Linux build status](https://github.com/jqnatividad/qsv/actions/workflows/rust.yml/badge.svg)](https://github.com/jqnatividad/qsv/actions/workflows/rust.yml) [![Windows build status](https://github.com/jqnatividad/qsv/actions/workflows/rust-windows.yml/badge.svg)](https://github.com/jqnatividad/qsv/actions/workflows/rust-windows.yml) [![macOS build status](https://github.com/jqnatividad/qsv/actions/workflows/rust-macos.yml/badge.svg)](https://github.com/jqnatividad/qsv/actions/workflows/rust-macos.yml)
 
 ## [31. Awesome Arcgis Developers](/content/Esri/awesome-arcgis-developers/week/README.md)
 
@@ -421,11 +391,11 @@
 
 ### Development / Discovery
 
-*   [nixd (⭐802)](https://github.com/nix-community/nixd) - Nix language server, based on Nix libraries.
+*   [nixd (⭐973)](https://github.com/nix-community/nixd) - Nix language server, based on Nix libraries.
 
 ### Overlays / Webinterface
 
-*   [chaotic-nyx (⭐301)](https://github.com/chaotic-cx/nyx) - Daily bumped bleeding edge packages like `mesa_git` & others that aren't yet in Nixpkgs. Created by the makers of [Chaotic-AUR](https://github.com/chaotic-aur/).
+*   [chaotic-nyx (⭐406)](https://github.com/chaotic-cx/nyx) - Daily bumped bleeding edge packages like `mesa_git` & others that aren't yet in Nixpkgs. Created by the makers of [Chaotic-AUR](https://github.com/chaotic-aur/).
 
 ## [36. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
@@ -437,11 +407,11 @@
 
 ### Software / Automation
 
-*   [Apache Airflow](https://airflow.apache.org/) - Airflow is a platform to programmatically author, schedule, and monitor workflows. ([Source Code (⭐36k)](https://github.com/apache/airflow/)) `Apache-2.0` `Python/Docker`
+*   [Apache Airflow](https://airflow.apache.org/) - Airflow is a platform to programmatically author, schedule, and monitor workflows. ([Source Code (⭐38k)](https://github.com/apache/airflow/)) `Apache-2.0` `Python/Docker`
 
 ### Software / Communication - Custom Communication Systems
 
-*   [Tailchat](https://tailchat.msgbyte.com/) - Next generation noIM application in your own workspace, not only another Slack/Discord/rocket.chat. ([Demo](https://nightly.paw.msgbyte.com/), [Source Code (⭐2.8k)](https://github.com/msgbyte/tailchat)) `Apache-2.0` `Docker/K8S/Nodejs`
+*   [Tailchat](https://tailchat.msgbyte.com/) - Next generation noIM application in your own workspace, not only another Slack/Discord/rocket.chat. ([Demo](https://nightly.paw.msgbyte.com/), [Source Code (⭐3.1k)](https://github.com/msgbyte/tailchat)) `Apache-2.0` `Docker/K8S/Nodejs`
 
 ### Software / Communication - Email - Complete Solutions
 
@@ -449,7 +419,7 @@
 
 ### Software / Miscellaneous
 
-*   [Flagsmith](https://flagsmith.com) - Flagsmith provides a dashboard, API and SDKs for adding Feature Flags to your applications (alternative to LaunchDarkly). ([Source Code (⭐4.7k)](https://github.com/flagsmith/flagsmith)) `BSD-3-Clause` `Docker/K8S`
+*   [Flagsmith](https://flagsmith.com) - Flagsmith provides a dashboard, API and SDKs for adding Feature Flags to your applications (alternative to LaunchDarkly). ([Source Code (⭐5.3k)](https://github.com/flagsmith/flagsmith)) `BSD-3-Clause` `Docker/K8S`
 
 ## [38. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -461,19 +431,19 @@
 
 ### (requires Neovim 0.5)
 
-*   [chrisgrieser/nvim-dr-lsp (⭐27)](https://github.com/chrisgrieser/nvim-dr-lsp) - Status line component showing the number of LSP definition and reference of the token under the cursor.
+*   [chrisgrieser/nvim-dr-lsp (⭐29)](https://github.com/chrisgrieser/nvim-dr-lsp) - Status line component showing the number of LSP definition and reference of the token under the cursor.
 
 ### File Explorer / Diagnostics
 
-*   [echasnovski/mini.nvim#mini.files (⭐4.7k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-files.md) - Module of `mini.nvim` providing file explorer with column view capable of manipulating file system by editing text. Can create/delete/rename/copy/move files/directories inside and across directories.
+*   [echasnovski/mini.nvim#mini.files (⭐6.2k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-files.md) - Module of `mini.nvim` providing file explorer with column view capable of manipulating file system by editing text. Can create/delete/rename/copy/move files/directories inside and across directories.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [sonjiku/yawnc.nvim (⭐14)](https://github.com/sonjiku/yawnc.nvim) - Theming using pywal, with a Base16 twist.
+*   [sonjiku/yawnc.nvim (⭐15)](https://github.com/sonjiku/yawnc.nvim) - Theming using pywal, with a Base16 twist.
 
 ### Git / Diagnostics
 
-*   [linrongbin16/gitlinker.nvim (⭐129)](https://github.com/linrongbin16/gitlinker.nvim) - Maintained fork of "ruifm's gitlinker", refactored with bug fixes, ssh aliases, blame support and other improvements.
+*   [linrongbin16/gitlinker.nvim (⭐185)](https://github.com/linrongbin16/gitlinker.nvim) - Maintained fork of "ruifm's gitlinker", refactored with bug fixes, ssh aliases, blame support and other improvements.
 
 ### Formatting / Diagnostics
 
@@ -508,7 +478,7 @@
 
 ### Large Language Models (LLMs)
 
-*   [SolidUI (⭐558)](https://github.com/CloudOrc/SolidUI): AI-generated visualization prototyping and editing platform, support 2D, 3D models, combined with LLM(Large Language Model) for quick editing.
+*   [SolidUI (⭐584)](https://github.com/CloudOrc/SolidUI): AI-generated visualization prototyping and editing platform, support 2D, 3D models, combined with LLM(Large Language Model) for quick editing.
 
 ### Image Segmentation / Deforum
 
@@ -518,8 +488,8 @@
 
 ### LLMs
 
-*   [PIXIU (⭐427)](https://github.com/chancefocus/PIXIU) - An open-source resource providing a financial large language model, a dataset with 136K instruction samples, and a comprehensive evaluation benchmark.
-*   [FinGPT (⭐12k)](https://github.com/AI4Finance-Foundation/FinGPT) - Provides a playground for all people interested in LLMs and NLP in Finance.
+*   [PIXIU (⭐571)](https://github.com/chancefocus/PIXIU) - An open-source resource providing a financial large language model, a dataset with 136K instruction samples, and a comprehensive evaluation benchmark.
+*   [FinGPT (⭐14k)](https://github.com/AI4Finance-Foundation/FinGPT) - Provides a playground for all people interested in LLMs and NLP in Finance.
 *   [MACD + RSI + ADX Strategy (ChatGPT-powered) by TradeSmart](https://www.tradingview.com/script/GxkUyJKW-MACD-RSI-ADX-Strategy-ChatGPT-powered-by-TradeSmart/) - Asked ChatGPT on which indicators are the most popular for trading. We used all of the recommendations given.
 
 ## [44. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/week/README.md)

@@ -1,6 +1,6 @@
 # Awesome List Updates on May 13, 2020
 
-22 awesome lists updated today.
+21 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -17,7 +17,7 @@
 
 ### Calendar
 
-*   [iCal.NET (⭐772)](https://github.com/rianjs/ical.net) iCal.NET is an iCalendar (RFC 5545) class library for .NET aimed at providing RFC 5545 compliance, while providing full compatibility with popular calendaring applications and libraries.
+*   [iCal.NET (⭐818)](https://github.com/rianjs/ical.net) iCal.NET is an iCalendar (RFC 5545) class library for .NET aimed at providing RFC 5545 compliance, while providing full compatibility with popular calendaring applications and libraries.
 
 ### Functional programming
 
@@ -33,7 +33,7 @@
 
 ### Misc
 
-*   [FormHelper (⭐270)](https://github.com/SinanBozkus/FormHelper) - Form & Validation Helper for ASP.NET Core. Form Helper helps you to create ajax forms and validations without writing any javascript code. (Compatible with Fluent Validation)
+*   [FormHelper (⭐273)](https://github.com/SinanBozkus/FormHelper) - Form & Validation Helper for ASP.NET Core. Form Helper helps you to create ajax forms and validations without writing any javascript code. (Compatible with Fluent Validation)
 
 ### PDF
 
@@ -98,7 +98,7 @@ Free
 
 ### Tools / Libraries
 
-*   [Distinct Colors (⭐119)](https://github.com/internalfx/distinct-colors) - Generate a palette of visually distinct colors.
+*   [Distinct Colors (⭐121)](https://github.com/internalfx/distinct-colors) - Generate a palette of visually distinct colors.
 
 ## [11. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
@@ -122,7 +122,7 @@ Free
 
 ### Tech or IT / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
-*   [RSS-IT人 (⭐1.7k)](https://github.com/Gracker/Rss-IT) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Gracker/Rss-IT)
+*   [RSS-IT人 (⭐1.8k)](https://github.com/Gracker/Rss-IT) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Gracker/Rss-IT)
 *   [f43.me](https://f43.me/) <sup>[590](https://t.me/s/aboutrss/590)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/j0k3r/f43.me)
 
 ### Podcast Statistics / Crypto or Blockchain relevant
@@ -172,7 +172,7 @@ Free
 
 ### Demonstrations
 
-*   [Official Gallery (⭐6.3k)](https://github.com/flutter/gallery) - Demo for the material design widgets provided by Flutter Team
+*   [Official Gallery (⭐6.4k)](https://github.com/flutter/gallery) - Demo for the material design widgets provided by Flutter Team
 
 ### 🇲🇾 Malaysia / Misc
 
@@ -188,8 +188,8 @@ Free
 
 ### Front-End Development
 
-*   [Preact (⭐880)](https://github.com/preactjs/awesome-preact#readme) - App framework.
-*   [Web Performance Budget (⭐111)](https://github.com/pajaydev/awesome-web-performance-budget#readme) - Techniques to ensure certain performance metrics for a website.
+*   [Preact (⭐905)](https://github.com/preactjs/awesome-preact#readme) - App framework.
+*   [Web Performance Budget (⭐113)](https://github.com/pajaydev/awesome-web-performance-budget#readme) - Techniques to ensure certain performance metrics for a website.
 
 ### Computer Science
 
@@ -197,29 +197,23 @@ Free
 
 ### Learn
 
-*   [Educational Games (⭐837)](https://github.com/yrgo/awesome-educational-games#readme) - Learn while playing.
+*   [Educational Games (⭐899)](https://github.com/yrgo/awesome-educational-games#readme) - Learn while playing.
 
 ### Hardware
 
-*   [Bluetooth Beacons (⭐897)](https://github.com/rabschi/awesome-beacon#readme)
+*   [Bluetooth Beacons (⭐904)](https://github.com/rabschi/awesome-beacon#readme)
 
 ### Decentralized Systems
 
-*   [Ethereum (⭐305)](https://github.com/ttumiel/Awesome-Ethereum#readme) - Distributed computing platform for smart contract development.
+*   [Ethereum (⭐317)](https://github.com/ttumiel/Awesome-Ethereum#readme) - Distributed computing platform for smart contract development.
 
 ### Miscellaneous
 
-*   [Continuous Integration and Continuous Delivery (⭐1.8k)](https://github.com/cicdops/awesome-ciandcd#readme)
-*   [Self Hosted (⭐190k)](https://github.com/awesome-selfhosted/awesome-selfhosted#readme)
-*   [Homematic (⭐186)](https://github.com/homematic-community/awesome-homematic#readme) - Smart home devices.
+*   [Continuous Integration and Continuous Delivery (⭐1.9k)](https://github.com/cicdops/awesome-ciandcd#readme)
+*   [Self Hosted (⭐205k)](https://github.com/awesome-selfhosted/awesome-selfhosted#readme)
+*   [Homematic (⭐195)](https://github.com/homematic-community/awesome-homematic#readme) - Smart home devices.
 
-## [21. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / UI Components
-
-*   [vuedt (⭐9)](https://github.com/nkoehring/vuedt) - Crazy lightweight (<5kb!) Vuejs Date and Time picker component with i18n support, nice animations and not too much fuzz.
-
-## [22. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [21. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / SQS
 

@@ -74,7 +74,7 @@
 
 ### Other Useful Repositories
 
-- Repository: [CVE PoC (⭐3.3k)](https://github.com/qazbnm456/awesome-cve-poc)
+- Repository: [CVE PoC (⭐3.4k)](https://github.com/qazbnm456/awesome-cve-poc)
 
   Description: List of CVE Proof of Concepts (PoCs)
 
@@ -84,7 +84,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vodal (⭐380)](https://github.com/chenjiahan/vodal) - A vue modal with animations.
+*   [vodal (⭐381)](https://github.com/chenjiahan/vodal) - A vue modal with animations.
 
 ---
 

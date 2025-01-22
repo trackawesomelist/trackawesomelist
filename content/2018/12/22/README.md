@@ -65,7 +65,7 @@
 
 ### Demos / Syntax highlighting packages
 
-*   [GBVideoPlayer (⭐81)](https://github.com/LIJI32/GBVideoPlayer) - A technical demo demonstrating how the Game Boy LCD controller can be hacked to make a Game Boy Color play a full motion video in color, together with music.
+*   [GBVideoPlayer (⭐88)](https://github.com/LIJI32/GBVideoPlayer) - A technical demo demonstrating how the Game Boy LCD controller can be hacked to make a Game Boy Color play a full motion video in color, together with music.
 
 ## [6. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 

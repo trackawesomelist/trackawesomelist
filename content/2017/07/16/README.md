@@ -10,13 +10,13 @@
 
 ### :sparkles: Tutorials
 
-*   [How to implement classification using a SVM in Ruby](https://www.practicalai.io/implementing-classification-using-a-svm-in-ruby/) <sup>\[[code (⭐5)](https://github.com/daugaard/example-svm)]</sup>
+*   [How to implement classification using a SVM in Ruby](https://www.practicalai.io/implementing-classification-using-a-svm-in-ruby/) <sup>\[[code (⭐6)](https://github.com/daugaard/example-svm)]</sup>
 
 ### Machine Learning Libraries / Frameworks
 
-*   [aws-sdk-machinelearning (⭐3.5k)](https://github.com/aws/aws-sdk-ruby) -
+*   [aws-sdk-machinelearning (⭐3.6k)](https://github.com/aws/aws-sdk-ruby) -
     Machine Learning API of the Amazon Web Services.
-*   [azure\_mgmt\_machine\_learning (⭐274)](https://github.com/Azure/azure-sdk-for-ruby) -
+*   [azure\_mgmt\_machine\_learning (⭐275)](https://github.com/Azure/azure-sdk-for-ruby) -
     Machine Learning API of the Microsoft Azure.
 
 ## [2. Awesome Vue](/content/vuejs/awesome-vue/README.md)
@@ -24,10 +24,6 @@
 ### Resources / Tutorials
 
 *   [Build a realtime chart with VueJS and Pusher](https://blog.pusher.com/build-realtime-chart-with-vuejs-pusher/)
-
-### Projects Using Vue.js / Open Source
-
-*   [Explore-Github (⭐56)](https://github.com/mazipan/explore-github) - VueJS 2 Github Explorer Using API v3
 
 ## [3. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 

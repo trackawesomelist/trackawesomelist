@@ -10,7 +10,7 @@
 
 ### Other Testing
 
-*   [DataFixture (⭐2)](https://github.com/andreadelfante/DataFixture) - Creation of data model easily, with no headache.
+*   [DataFixture (⭐3)](https://github.com/andreadelfante/DataFixture) - Creation of data model easily, with no headache.
 
 ## [2. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
@@ -52,22 +52,22 @@
 
 ### Applications
 
-*   [tiny (⭐990)](https://github.com/osa1/tiny) - A terminal IRC client
+*   [tiny (⭐1k)](https://github.com/osa1/tiny) - A terminal IRC client
 
 ### Applications / System tools
 
-*   [dust (⭐8.3k)](https://github.com/bootandy/dust) - A more intuitive version of du
+*   [dust (⭐9.3k)](https://github.com/bootandy/dust) - A more intuitive version of du
 
 ### Applications / Utilities
 
-*   [tversteeg/emplace (⭐253)](https://github.com/tversteeg/emplace) - Synchronize installed packages on multiple machines
+*   [tversteeg/emplace (⭐269)](https://github.com/tversteeg/emplace) - Synchronize installed packages on multiple machines
 
 ### Libraries / Cryptography
 
-*   [dalek-cryptography/curve25519-dalek (⭐859)](https://github.com/dalek-cryptography/curve25519-dalek) - Curve25519 operations
-*   [dalek-cryptography/ed25519-dalek (⭐671)](https://github.com/dalek-cryptography/ed25519-dalek) - Ed25519 digital signatures
-*   [dalek-cryptography/x25519-dalek (⭐325)](https://github.com/dalek-cryptography/x25519-dalek) - X25519 key exchange
-*   [debris/tiny-keccak (⭐192)](https://github.com/debris/tiny-keccak) - Keccak family (SHA3)
+*   [dalek-cryptography/curve25519-dalek (⭐925)](https://github.com/dalek-cryptography/curve25519-dalek) - Curve25519 operations
+*   [dalek-cryptography/ed25519-dalek (⭐697)](https://github.com/dalek-cryptography/ed25519-dalek) - Ed25519 digital signatures
+*   [dalek-cryptography/x25519-dalek (⭐333)](https://github.com/dalek-cryptography/x25519-dalek) - X25519 key exchange
+*   [debris/tiny-keccak (⭐197)](https://github.com/debris/tiny-keccak) - Keccak family (SHA3)
 
 ## [5. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
@@ -79,7 +79,7 @@
 
 ### React Frameworks
 
-*   [react-admin (⭐24k)](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications
+*   [react-admin (⭐25k)](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications
 
 ## [7. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/README.md)
 
@@ -125,7 +125,7 @@
 ### Events
 
 *   [Events in Italy (⭐148)](https://github.com/ildoc/awesome-italy-events#readme) - Tech-related events in Italy.
-*   [Events in the Netherlands (⭐61)](https://github.com/awkward/awesome-netherlands-events#readme) - Tech-related events in the Netherlands.
+*   [Events in the Netherlands (⭐62)](https://github.com/awkward/awesome-netherlands-events#readme) - Tech-related events in the Netherlands.
 
 ## [10. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
@@ -135,7 +135,7 @@
 
 ### UICollectionView / Barcode
 
-*   [ASCollectionView (⭐371)](https://github.com/abdullahselek/ASCollectionView) - Lightweight custom collection view inspired by Airbnb.
+*   [ASCollectionView (⭐372)](https://github.com/abdullahselek/ASCollectionView) - Lightweight custom collection view inspired by Airbnb.
 
 ## [11. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 

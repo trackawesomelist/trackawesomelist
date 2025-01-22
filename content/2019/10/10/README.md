@@ -80,11 +80,11 @@
 
 ### Utility / Docker Container Actions
 
-*   [Generate build numbers across multiple scopes (⭐12)](https://github.com/zyborg/gh-action-buildnum)
+*   [Generate build numbers across multiple scopes (⭐20)](https://github.com/zyborg/gh-action-buildnum)
 
 ### Pull Requests / Code Coverage
 
-*   [Automatically Update PRs with Outdated Checks and Squash and Merge the Ones Matching All Branch Protections (⭐134)](https://github.com/tibdex/autosquash)
+*   [Automatically Update PRs with Outdated Checks and Squash and Merge the Ones Matching All Branch Protections (⭐140)](https://github.com/tibdex/autosquash)
 
 ## [10. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
@@ -107,7 +107,7 @@
 
 ### Tools
 
-*   [Orangetool (⭐106)](https://github.com/Moduland/Orangetool) - Control functions for Single-Board computers in Python.
+*   [Orangetool (⭐107)](https://github.com/Moduland/Orangetool) - Control functions for Single-Board computers in Python.
 
 ## [13. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 
@@ -172,7 +172,7 @@
 
 ### Table of Contents / DSL
 
-*   [Apache Beam (⭐7.7k)](https://github.com/apache/beam) \[Java, Python, SQL, Scala, Go] - unified model and set of language-specific SDKs for defining and executing data processing workflows, and also data ingestion and integration flows, supporting Enterprise Integration Patterns (EIPs) and Domain Specific Languages (DSLs), open sourced by Google.
+*   [Apache Beam (⭐7.9k)](https://github.com/apache/beam) \[Java, Python, SQL, Scala, Go] - unified model and set of language-specific SDKs for defining and executing data processing workflows, and also data ingestion and integration flows, supporting Enterprise Integration Patterns (EIPs) and Domain Specific Languages (DSLs), open sourced by Google.
 
 ### Table of Contents / Closed Source
 

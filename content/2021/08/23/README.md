@@ -25,11 +25,10 @@
 *   [Client-side Geometry Engine](https://esri-es.github.io/arcgis-search/?search=geometry+engine\&utm_source=chrome-extension#gsc.tab=0\&gsc.q=geometry%20engine%20site:developers.arcgis.com\&gsc.sort=) - Allows you to test spatial relationships, calculate new geometries, and measure lengths, areas, distances, etc.
     *   [ArcGIS API for JavaScript `geometryEngine`](https://developers.arcgis.com/javascript/latest/api-reference/esri-geometry-geometryEngine.html) - Works for browsers and Node.js.
     *   [ArcGIS API for Python `arcgis.geometry`](https://developers.arcgis.com/python/api-reference/arcgis.geometry.html)
-    *   [ArcGIS Runtime API for .NET `GeometryEngine`](https://developers.arcgis.com/net/api-reference/api/netwin/Esri.ArcGISRuntime/Esri.ArcGISRuntime.Geometry.GeometryEngine.html)
-    *   [ArcGIS Runtime API for Android `GeometryEngine`](https://developers.arcgis.com/android/api-reference/reference/com/esri/arcgisruntime/geometry/GeometryEngine.html)
-    *   [ArcGIS Runtime API for iOS `AGSGeometryEngine`](https://developers.arcgis.com/ios/api-reference/interface_a_g_s_geometry_engine.html)
-    *   [ArcGIS Runtime API for Java `GeometryEngine`](https://developers.arcgis.com/java/api-reference/reference/com/esri/arcgisruntime/geometry/GeometryEngine.html)
-    *   [ArcGIS Runtime API for Qt `GeometryEngine`](https://developers.arcgis.com/qt/cpp/api-reference/esri-arcgisruntime-geometryengine.html)
+    *   [ArcGIS Maps SDK for .NET `GeometryEngine`](https://developers.arcgis.com/net/api-reference/api/netwin/Esri.ArcGISRuntime/Esri.ArcGISRuntime.Geometry.GeometryEngine.html)
+    *   [ArcGIS Maps SDK for Android `GeometryEngine`](https://developers.arcgis.com/android/api-reference/reference/com/esri/arcgisruntime/geometry/GeometryEngine.html)
+    *   [ArcGIS Maps SDK for iOS `AGSGeometryEngine`](https://developers.arcgis.com/ios/api-reference/interface_a_g_s_geometry_engine.html)
+    *   [ArcGIS Maps SDK for Qt `GeometryEngine`](https://developers.arcgis.com/qt/cpp/api-reference/esri-arcgisruntime-geometryengine.html)
 
 ## [4. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -45,7 +44,7 @@
 
   CORS: Unknown
 
-  Postman: 
+  : 
 
 
 - API: [BayFiles](https://bayfiles.com/docs/api)
@@ -58,7 +57,7 @@
 
   CORS: Unknown
 
-  Postman: 
+  : 
 
 
 - API: [File.io](https://www.file.io)
@@ -71,7 +70,7 @@
 
   CORS: Unknown
 
-  Postman: 
+  : 
 
 
 
@@ -110,7 +109,7 @@
 
 ### Engines and Frameworks / Voxel Editors
 
-*   :tada: [boardgame.io (⭐10k)](https://github.com/boardgameio/boardgame.io) - State management and multiplayer networking for turn-based games.
+*   :tada: [boardgame.io (⭐11k)](https://github.com/boardgameio/boardgame.io) - State management and multiplayer networking for turn-based games.
 *   :tada: [Solar2D](https://solar2d.com/) - A Lua based game engine with focus on ease of iterations and usage.
 
 ## [7. Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/README.md)
@@ -209,7 +208,7 @@
 
 ### Applications / Video
 
-*   [harlanc/xiu (⭐1.7k)](https://github.com/harlanc/xiu) - A powerful and secure live server (rtmp/httpflv/hls/relay). [![crates.io](https://img.shields.io/crates/v/xiu.svg)](https://crates.io/crates/xiu)
+*   [harlanc/xiu (⭐1.9k)](https://github.com/harlanc/xiu) - A powerful and secure live server (rtmp/httpflv/hls/relay). [![crates.io](https://img.shields.io/crates/v/xiu.svg)](https://crates.io/crates/xiu)
 
 ## [11. Awesome Security](/content/sbilly/awesome-security/README.md)
 
@@ -245,21 +244,17 @@
 
 ### Components & Libraries / Frameworks
 
-*   [Materio-vuetify-vuejs-admin-template-free (⭐775)](https://github.com/themeselection/materio-vuetify-vuejs-admin-template-free) - A Production ready, carefully crafted, most comprehensive Vuetify Vuejs admin template. [Live demo](https://themeselection.com/demo/materio-vuetify-vuejs-admin-template-free/demo/dashboard)
-
-### Components & Libraries / UI Layout
-
-*   [simple-vue-grid (⭐3)](https://github.com/harmyderoman/simple-vue-grid) - Simple grid containers that will help you to build layouts for your app.
+*   [Materio-vuetify-vuejs-admin-template-free (⭐820)](https://github.com/themeselection/materio-vuetify-vuejs-admin-template-free) - A Production ready, carefully crafted, most comprehensive Vuetify Vuejs admin template. [Live demo](https://themeselection.com/demo/materio-vuetify-vuejs-admin-template-free/demo/dashboard)
 
 ### Components & Libraries / UI Components
 
-*   [vue-timer-hook (⭐170)](https://github.com/riderx/vue-timer-hook) - Vue 3 Timer module inspired by react-timer-hook
+*   [vue-timer-hook (⭐176)](https://github.com/riderx/vue-timer-hook) - Vue 3 Timer module inspired by react-timer-hook
 
 ## [16. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
 ### Schema / Changes
 
-*   [Bytebase (⭐10k)](https://github.com/bytebase/bytebase) - Web-based, zero-config, dependency-free database schema change and version control tool for teams.
+*   [Bytebase (⭐12k)](https://github.com/bytebase/bytebase) - Web-based, zero-config, dependency-free database schema change and version control tool for teams.
 
 ## [17. Awesome Golem](/content/golemfactory/awesome-golem/README.md)
 

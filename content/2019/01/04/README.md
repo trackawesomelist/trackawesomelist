@@ -30,13 +30,13 @@
 
 ### Tools / Reverse Engineering
 
-*   [Dwarf (⭐1.2k)](https://github.com/iGio90/Dwarf) - GUI for reverse engineering
+*   [Dwarf (⭐1.3k)](https://github.com/iGio90/Dwarf) - GUI for reverse engineering
 
 ## [3. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
 ### Boilerplates
 
-*   [Oh My Fullstack (⭐171)](https://github.com/oh-my-c0de/oh-my-fullstack) - Full stack web application skeleton (Next.js, Redux, RxJS, Immutable, Express)
+*   [Oh My Fullstack (⭐175)](https://github.com/oh-my-c0de/oh-my-fullstack) - Full stack web application skeleton (Next.js, Redux, RxJS, Immutable, Express)
 
 ## [4. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
 
@@ -52,7 +52,7 @@
 
 ### Language Utilities
 
-*   [Fuzzy-CSV (⭐15)](https://github.com/kayr/fuzzy-csv) - Simple lightweight data processing library, useful for shaping/processing your tabular data before its consumed by another service or library.
+*   [Fuzzy-CSV (⭐17)](https://github.com/kayr/fuzzy-csv) - Simple lightweight data processing library, useful for shaping/processing your tabular data before its consumed by another service or library.
 
 ## [6. Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md)
 

@@ -30,7 +30,7 @@
 
 ### Configuration
 
-*   [inifile-cpp (⭐344)](https://github.com/Rookfighter/inifile-cpp) - A header-only and easy to use Ini file parser for C++. \[MIT]
+*   [inifile-cpp (⭐378)](https://github.com/Rookfighter/inifile-cpp) - A header-only and easy to use Ini file parser for C++. \[MIT]
 
 ### Online Compiler
 
@@ -44,7 +44,7 @@
 
 ### UI Libraries, Components & Templates
 
-*   🧩 [Tailwind Typeahead (⭐20)](https://github.com/basarozcan/vue-tailwindcss-typeahead) - Typeahead/Autocomplete component built with Vue.js and Tailwind CSS.
+*   🧩 [Tailwind Typeahead (⭐21)](https://github.com/basarozcan/vue-tailwindcss-typeahead) - Typeahead/Autocomplete component built with Vue.js and Tailwind CSS.
 
 ## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -83,7 +83,7 @@
 
 ### Modules / Editor framework
 
-*   [Denops (⭐659)](https://github.com/vim-denops/denops.vim) - 🐜 An ecosystem to write Vim/Neovim plugins with Deno.
+*   [Denops (⭐682)](https://github.com/vim-denops/denops.vim) - 🐜 An ecosystem to write Vim/Neovim plugins with Deno.
 
 ---
 

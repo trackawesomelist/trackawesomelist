@@ -101,11 +101,11 @@
 
 ### Peripheral Access Crates / NXP
 
-*   [`imxrt-ral`](https://github.com/imxrt-rs/imxrt-rs) Register access layer for i.MX RT series. -  ![crates.io](https://img.shields.io/crates/v/imxrt-ral.svg)
+*   [`imxrt-ral`](https://github.com/imxrt-rs/imxrt-rs) Register access layer for i.MX RT series. -  [![crates.io](https://img.shields.io/crates/v/imxrt-ral.svg)](https://crates.io/crates/imxrt-ral)
 
 ### HAL implementation crates / NXP
 
-*   [`imxrt-hal`](https://github.com/imxrt-rs/imxrt-rs) - HAL for i.MX RT series. -  ![crates.io](https://img.shields.io/crates/v/imxrt-hal.svg)
+*   [`imxrt-hal`](https://github.com/imxrt-rs/imxrt-rs) - HAL for i.MX RT series. -  [![crates.io](https://img.shields.io/crates/v/imxrt-hal.svg)](https://crates.io/crates/imxrt-hal)
 
 ## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -117,7 +117,7 @@
 
 ### Monitoring / Isomorphic web frameworks
 
-*   [cl-sentry-client (⭐22)](https://github.com/mmontone/cl-sentry-client) - a Sentry client for Common Lisp, the cloud-based error monitoring system. [MIT](https://opensource.org/licenses/MIT).
+*   [cl-sentry-client (⭐24)](https://github.com/mmontone/cl-sentry-client) - a Sentry client for Common Lisp, the cloud-based error monitoring system. [MIT](https://opensource.org/licenses/MIT).
 
 ## [11. Awesome Katas](/content/gamontal/awesome-katas/README.md)
 

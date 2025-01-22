@@ -35,18 +35,17 @@
 
 ### Table of Contents / Code Quality
 
-*   [PHP CodeSniffer (⭐11k)](https://github.com/squizlabs/PHP_CodeSniffer) - A library that detects PHP, CSS and JS coding standard violations.
 *   [PHPCheckstyle (⭐164)](https://github.com/PHPCheckstyle/phpcheckstyle) - A tool to help adhere to certain coding conventions.
 *   [PHPCPD (⭐2.2k)](https://github.com/sebastianbergmann/phpcpd) - A library that detects copied and pasted code.
 
 ### Table of Contents / Static Analysis
 
-*   [Exakat (⭐376)](https://github.com/exakat/exakat) - A static analysis engine for PHP.
+*   [Exakat (⭐379)](https://github.com/exakat/exakat) - A static analysis engine for PHP.
 *   [Mondrian (⭐395)](https://github.com/Trismegiste/Mondrian) - A code analysis tool using Graph Theory.
 *   [phan (⭐5.5k)](https://github.com/phan/phan) - A static analyzer based on PHP 7+ and the php-ast extension.
-*   [PhpDependencyAnalysis (⭐561)](https://github.com/mamuz/PhpDependencyAnalysis) - A tool to create customizable dependency graphs.
+*   [PhpDependencyAnalysis (⭐567)](https://github.com/mamuz/PhpDependencyAnalysis) - A tool to create customizable dependency graphs.
 *   [PHP Metrics (⭐2.5k)](https://github.com/phpmetrics/PhpMetrics) - A static metric library.
-*   [PHP Migration (⭐201)](https://github.com/monque/PHP-Migration) - A static analyzer for PHP version migration.
+*   [PHP Migration (⭐202)](https://github.com/monque/PHP-Migration) - A static analyzer for PHP version migration.
 *   [PHPStan (⭐13k)](https://github.com/phpstan/phpstan) - A PHP Static Analysis Tool.
 
 ## [5. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)

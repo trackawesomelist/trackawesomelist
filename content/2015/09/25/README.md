@@ -29,23 +29,23 @@
 
 ### Go / Erlang
 
-*   [Go kit (⭐26k)](https://github.com/go-kit/kit) - Distributed programming toolkit for microservices in the modern enterprise.
+*   [Go kit (⭐27k)](https://github.com/go-kit/kit) - Distributed programming toolkit for microservices in the modern enterprise.
 
 ### Haskell / Erlang
 
 *   [Scotty (⭐1.7k)](https://github.com/scotty-web/scotty) - Micro web framework inspired by Ruby's Sinatra, using WAI and Warp.
-*   [Yesod (⭐2.6k)](https://github.com/yesodweb/yesod) - The Haskell RESTful web framework.
+*   [Yesod (⭐2.7k)](https://github.com/yesodweb/yesod) - The Haskell RESTful web framework.
 
 ### Java VM / Clojure
 
 *   [Compojure (⭐4.1k)](https://github.com/weavejester/compojure) - A concise routing library for Ring/Clojure.
 *   [Duct (⭐1.1k)](https://github.com/weavejester/duct) - Minimal framework for building web applications in Clojure, with a strong emphasis on simplicity.
-*   [System (⭐607)](https://github.com/danielsz/system) - Built on top of Stuart Sierra's component library, offers a set of readymade components.
-*   [Tesla (⭐190)](https://github.com/otto-de/tesla-microservice) - Common basis for some of Otto.de's Clojure microservices.
+*   [System (⭐608)](https://github.com/danielsz/system) - Built on top of Stuart Sierra's component library, offers a set of readymade components.
+*   [Tesla (⭐191)](https://github.com/otto-de/tesla-microservice) - Common basis for some of Otto.de's Clojure microservices.
 
 ### Java VM / Java
 
-*   [Airlift (⭐578)](https://github.com/airlift/airlift) - Framework for building REST services in Java.
+*   [Airlift (⭐594)](https://github.com/airlift/airlift) - Framework for building REST services in Java.
 *   [Dropwizard](https://dropwizard.github.io/) - Java framework for developing ops-friendly, high-performance, RESTful web services.
 *   [Spring Boot](http://projects.spring.io/spring-boot/) - Makes it easy to create stand-alone, production-grade Spring based applications.
 
@@ -63,10 +63,6 @@
 ### Serialization / Scala
 
 *   [Ffjson (⭐3k)](https://github.com/pquerna/ffjson) - Faster JSON serialization for Go.
-
-### Storage / Scala
-
-*   [Couchbase](http://www.couchbase.com/) - A distributed database engineered for performance, scalability, and simplified administration.
 
 ## [5. Awesome Neo4j](/content/neueda/awesome-neo4j/README.md)
 
@@ -110,14 +106,14 @@
 
 ### Editors / Paid Books
 
-*   [Froala WYSIWYG HTML Editor (⭐5k)](https://github.com/froala/wysiwyg-editor) - jQuery WYSIWYG Rich Text Editor based on HTML5.
-*   [Hallo (⭐2.5k)](https://github.com/bergie/hallo) - Simple rich text editor (contentEditable) for jQuery UI.
+*   [Froala WYSIWYG HTML Editor (⭐5.3k)](https://github.com/froala/wysiwyg-editor) - jQuery WYSIWYG Rich Text Editor based on HTML5.
+*   [Hallo (⭐2.4k)](https://github.com/bergie/hallo) - Simple rich text editor (contentEditable) for jQuery UI.
 *   [jQuery Notebook (⭐1.7k)](https://github.com/raphaelcruzeiro/jquery-notebook) - A modern, simple and elegant WYSIWYG rich text editor.
 *   [jQuery TE](http://jqueryte.com/) - Lightweight HTML editor.
 
 ### Images, Maps and Charts / Paid Books
 
-*   [jQueryGantt (⭐2.1k)](https://github.com/robicch/jQueryGantt) - Gantt editor.
+*   [jQueryGantt (⭐2.2k)](https://github.com/robicch/jQueryGantt) - Gantt editor.
 
 ### Testing / Paid Books
 

@@ -80,12 +80,11 @@
 
 ### Articles • Tutorials / Shaders • OpenGL • WebGL
 
-*   [GLSL lighting walkthrough (⭐457)](https://github.com/stackgl/glsl-lighting-walkthrough) - Phong shading tutorial with glslify.
+*   [GLSL lighting walkthrough (⭐460)](https://github.com/stackgl/glsl-lighting-walkthrough) - Phong shading tutorial with glslify.
 
 ### Math / Other
 
 *   [Coding Math](https://www.youtube.com/user/codingmath) - Teaches you the math you need to understand as a programmer.
-*   [Formul Animations](https://www.youtube.com/watch?v=0ifChJ0nJfM) - The principles of painting with maths.
 
 ## [7. Awesome Promises](/content/wbinnssmith/awesome-promises/README.md)
 
@@ -150,7 +149,7 @@
 
 ### Code Analysis and Metrics
 
-*   [BenchmarkDotNet (⭐10k)](https://github.com/dotnet/BenchmarkDotNet) - Powerful .NET library for benchmarking.
+*   [BenchmarkDotNet (⭐11k)](https://github.com/dotnet/BenchmarkDotNet) - Powerful .NET library for benchmarking.
 
 ### Visual Studio Plugins
 

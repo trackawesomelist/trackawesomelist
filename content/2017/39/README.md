@@ -10,27 +10,27 @@
 
 ### C / Git
 
-*   [themis (⭐1.8k)](https://github.com/cossacklabs/themis) - High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption). Ported on many languages and platforms, suitable for client-server infastructures.
+*   [themis (⭐1.9k)](https://github.com/cossacklabs/themis) - High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption). Ported on many languages and platforms, suitable for client-server infastructures.
 
 ### Go / Git
 
-*   [goThemis (⭐1.8k)](https://github.com/cossacklabs/themis/wiki/Go-Howto) - Go wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
+*   [goThemis (⭐1.9k)](https://github.com/cossacklabs/themis/wiki/Go-Howto) - Go wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
 
 ### Java / Git
 
-*   [Java Themis (⭐1.8k)](https://github.com/cossacklabs/themis/wiki/Java-and-Android-Howto) - Java/Android wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
+*   [Java Themis (⭐1.9k)](https://github.com/cossacklabs/themis/wiki/Java-and-Android-Howto) - Java/Android wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
 
 ### PHP / Git
 
-*   [PHP Themis (⭐1.8k)](https://github.com/cossacklabs/themis/wiki/PHP-Howto) - PHP wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
+*   [PHP Themis (⭐1.9k)](https://github.com/cossacklabs/themis/wiki/PHP-Howto) - PHP wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
 
 ### Python / Git
 
-*   [pythemis (⭐1.8k)](https://github.com/cossacklabs/themis/wiki/Python-Howto) - Python wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
+*   [pythemis (⭐1.9k)](https://github.com/cossacklabs/themis/wiki/Python-Howto) - Python wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
 
 ### Ruby / Git
 
-*   [Ruby Themis (⭐1.8k)](https://github.com/cossacklabs/themis/wiki/Ruby-Howto) - Ruby wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
+*   [Ruby Themis (⭐1.9k)](https://github.com/cossacklabs/themis/wiki/Ruby-Howto) - Ruby wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
 
 ## [2. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
@@ -90,7 +90,7 @@
 
 ### Utility / Collection View Layout
 
-*   [VTAcknowledgementsViewController (⭐857)](https://github.com/vtourraine/VTAcknowledgementsViewController) - Ready to use “Acknowledgements”/“Licenses”/“Credits” view controller for CocoaPods.
+*   [VTAcknowledgementsViewController (⭐855)](https://github.com/vtourraine/VTAcknowledgementsViewController) - Ready to use “Acknowledgements”/“Licenses”/“Credits” view controller for CocoaPods.
 
 ## [8. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
@@ -230,19 +230,19 @@
 
 ### Reset and Normalize / Editor's Draft :black_nib:
 
-*   [MiniReset.css (⭐2.6k)](https://github.com/jgthms/minireset.css) - A tiny modern CSS reset.
+*   [MiniReset.css (⭐2.8k)](https://github.com/jgthms/minireset.css) - A tiny modern CSS reset.
 
 ## [23. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### 2017 / Book/monograph Lists and Reviews
 
-*   [awesome-rshiny (⭐769)](https://github.com/grabear/awesome-rshiny)
+*   [awesome-rshiny (⭐805)](https://github.com/grabear/awesome-rshiny)
 
 ## [24. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Boilerplates
 
-*   [phox (⭐18)](https://github.com/herschel666/phox) - Create a static photo blog.
+*   [phox (⭐19)](https://github.com/herschel666/phox) - Create a static photo blog.
 
 ### Apps
 
@@ -349,7 +349,7 @@
 
 ### Git Tools
 
-*   [RepoZ (⭐999)](https://github.com/awaescher/RepoZ) - A Git repository information aggregator with Windows Explorer & CLI-enhancements
+*   [RepoZ (⭐1k)](https://github.com/awaescher/RepoZ) - A Git repository information aggregator with Windows Explorer & CLI-enhancements
 
 ### IoC
 
@@ -363,7 +363,7 @@
 
 ### Infrastructure
 
-*   [Fastly Extension (⭐144)](https://github.com/fastly/fastly-magento2) - Magento 2 fastly integration.
+*   [Fastly Extension (⭐150)](https://github.com/fastly/fastly-magento2) - Magento 2 fastly integration.
 
 ### List of trustworthy Extension Developers / Progressive Web Application
 
@@ -379,13 +379,13 @@
 
 ### Others / Web project skeletons and generators
 
-*   [find-port (⭐19)](https://github.com/eudoxia0/find-port) -  Programmatically find open ports. [MIT](https://opensource.org/licenses/MIT).
+*   [find-port (⭐20)](https://github.com/eudoxia0/find-port) -  Programmatically find open ports. [MIT](https://opensource.org/licenses/MIT).
 
 ## [36. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Utilities
 
-*   [VueGL (⭐678)](https://github.com/vue-gl/vue-gl) - Vue.js components rendering 3D graphics reactively via three.js
+*   [VueGL (⭐680)](https://github.com/vue-gl/vue-gl) - Vue.js components rendering 3D graphics reactively via three.js
 
 ## [37. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
 
@@ -473,7 +473,7 @@
 
 ### CLI Utilities
 
-*   [TablePrint (⭐898)](https://github.com/arches/table_print) - Slice your data from multiple DB tables into a single CLI view.
+*   [TablePrint (⭐903)](https://github.com/arches/table_print) - Slice your data from multiple DB tables into a single CLI view.
 
 ## [43. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
 

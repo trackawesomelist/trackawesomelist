@@ -19,8 +19,8 @@
 
 ### Example Projects
 
-*   [Example for Securing Apps with Keycloak on Kubernetes (⭐56)](https://github.com/stianst/demo-kubernetes)
-*   [Example for Securing AspDotNet Core Apps with Keycloak (⭐37)](https://github.com/thomasdarimont/kc-dnc-demo)
+*   [Example for Securing Apps with Keycloak on Kubernetes (⭐57)](https://github.com/stianst/demo-kubernetes)
+*   [Example for Securing AspDotNet Core Apps with Keycloak (⭐38)](https://github.com/thomasdarimont/kc-dnc-demo)
 
 ## [2. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
@@ -100,7 +100,7 @@ Free
 ### Free eBooks / Single Topics
 
 *   [Eloquent JavaScript](http://eloquentjavascript.net) - Covering the language and runtime specifics.
-*   [You Don't Know JS (book series) (⭐178k)](https://github.com/getify/You-Dont-Know-JS) - Series of books diving deep into language.
+*   [You Don't Know JS (book series) (⭐180k)](https://github.com/getify/You-Dont-Know-JS) - Series of books diving deep into language.
 
 ### Books / Single Topics
 
@@ -290,38 +290,25 @@ Free
 
 *   [wsldl (⭐1.7k)](https://github.com/yuk7/wsldl) - General purpose WSL installer and launcher. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 
-## [18. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
-
-### Entertainment / Social Media
-
-*   [irssi (⭐2.8k)](https://github.com/irssi/irssi) - IRC chat client.
-
-### Development / Release
-
-*   [clog (⭐834)](https://github.com/clog-tool/clog-cli) - A conventional changelog for the rest of us.
-
-## [19. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [18. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Podcasts
 
 *   [Cynical Developer #99 (10-15-2018)](https://cynicaldeveloper.com/podcast/99/)
 
-### Resources / Examples
-
-*   [Vue.js \[ONE\] client (⭐5)](https://github.com/jasscia/one) - \[ONE] client written with Vue2.5
-
-### Projects Using Vue.js / Open Source
-
-*   [FireX Proxy (⭐94)](https://github.com/Orogenesis/FireX-Proxy) - FireX Proxy is the user's trusted Chrome and Firefox browser extension that allows you to unblock any website and browse the web privately and securely. 🛡
-
 ### Components & Libraries / UI Components
 
-*   [vue-currency-input (⭐638)](https://github.com/dm4t2/vue-currency-input) - Easy input of currency formatted numbers for Vue.js.
+*   [vue-currency-input (⭐658)](https://github.com/dm4t2/vue-currency-input) - Easy input of currency formatted numbers for Vue.js.
 
-### Components & Libraries / Utilities
+## [19. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
-*   [vue-direction (⭐36)](https://github.com/shwilliam/vue-direction) - 👋 Direction aware hover in Vuejs
-*   [vue-unique-id (⭐47)](https://github.com/berniegp/vue-unique-id) - Generates unique component ids and component-scoped HTML ids.
+### Entertainment / Chat
+
+*   [irssi (⭐2.9k)](https://github.com/irssi/irssi) - IRC chat client.
+
+### Development / Release
+
+*   [clog (⭐859)](https://github.com/clog-tool/clog-cli) - A conventional changelog for the rest of us.
 
 ## [20. Amas](/content/sindresorhus/amas/week/README.md)
 
@@ -403,7 +390,7 @@ Free
 
 ### Artificial Intelligence
 
-*   [Dungeon and Cave Generation (⭐12)](https://github.com/sentientdesigns/constructive) - Constructive generation methods for dungeons and levels.
+*   [Dungeon and Cave Generation (⭐15)](https://github.com/sentientdesigns/constructive) - Constructive generation methods for dungeons and levels.
 *   [irrlamb](https://github.com/jazztickets/irrlamb) - Puzzle game with physics effects in 3D.
 *   [Robocode](https://robocode.sourceforge.io/) - Robot battle tank competition.
 
@@ -432,43 +419,43 @@ Free
 ### Tools / Paid and commercially available materials
 
 *   [xargo (⭐1.1k)](https://github.com/japaric/xargo) Rust package manager with support for non-default std libraries — build Rust runtime for your embedded system.
-    *   xargo is great, but since it's in maintenance mode, [cargo-xbuild (⭐256)](https://github.com/rust-osdev/cargo-xbuild) is catching up as its intended replacement.
+    *   xargo is great, but since it's in maintenance mode, [cargo-xbuild (⭐259)](https://github.com/rust-osdev/cargo-xbuild) is catching up as its intended replacement.
 
 ### HAL implementation crates / STMicroelectronics
 
-*   [`stm32f4xx-hal`](https://crates.io/crates/stm32f4xx-hal) - ![crates.io](https://img.shields.io/crates/v/stm32f4xx-hal.svg)
+*   [`stm32f4xx-hal`](https://crates.io/crates/stm32f4xx-hal) - [![crates.io](https://img.shields.io/crates/v/stm32f4xx-hal.svg)](https://crates.io/crates/stm32f4xx-hal)
     *   Generic HAL implementation for all MCUs of the stm32f4 series
 
 ### no-std crates / WIP
 
-*   [light-cli (⭐15)](https://github.com/rudihorn/light-cli): a lightweight heapless cli interface ![crates.io](https://img.shields.io/crates/v/light_cli.svg)
+*   [light-cli (⭐15)](https://github.com/rudihorn/light-cli): a lightweight heapless cli interface [![crates.io](https://img.shields.io/crates/v/light_cli.svg)](https://crates.io/crates/light_cli)
 
 ## [27. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
 ### Frontend Tools / Terraform
 
-*   [Runs a WebPageTest audit and prints the results as commit comment (⭐53)](https://github.com/JCofman/webPagetestAction)
+*   [Runs a WebPageTest audit and prints the results as commit comment (⭐57)](https://github.com/JCofman/webPagetestAction)
 
 ## [28. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### API
 
-*   [Ocelot (⭐8.3k)](https://github.com/ThreeMammals/Ocelot) - .NET core API Gateway
+*   [Ocelot (⭐8.4k)](https://github.com/ThreeMammals/Ocelot) - .NET core API Gateway
 
 ### Interoperability
 
-*   [Pyrolite (⭐177)](https://github.com/irmen/Pyrolite) - This library allows your Java or .NET program to interface very easily with
+*   [Pyrolite (⭐179)](https://github.com/irmen/Pyrolite) - This library allows your Java or .NET program to interface very easily with
     the Python world. It uses the Pyro protocol to call methods on remote objects.
 
 ### Scheduling
 
-*   [Workflow Core (⭐5.2k)](https://github.com/danielgerlag/workflow-core) - Lightweight embeddable workflow engine
+*   [Workflow Core (⭐5.5k)](https://github.com/danielgerlag/workflow-core) - Lightweight embeddable workflow engine
 
 ## [29. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Communication - SIP
 
-*   [FusionPBX](https://www.fusionpbx.com/) - Open source project that provides a customizable and flexible web interface to the very powerful and highly scalable multi-platform voice switch called FreeSWITCH. ([Source Code (⭐757)](https://github.com/fusionpbx/fusionpbx)) `MPL-1.1` `PHP`
+*   [FusionPBX](https://www.fusionpbx.com/) - Open source project that provides a customizable and flexible web interface to the very powerful and highly scalable multi-platform voice switch called FreeSWITCH. ([Source Code (⭐817)](https://github.com/fusionpbx/fusionpbx)) `MPL-1.1` `PHP`
 
 ## [30. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
@@ -495,15 +482,15 @@ Free
 ### Plugins / Practices and Specific ES Features
 
 *   [array-func (⭐94)](https://github.com/freaktechnik/eslint-plugin-array-func) - Avoid redundancy when using es2015 array methods and functions.
-*   [arrow functions (⭐305)](https://github.com/getify/eslint-plugin-proper-arrows) - ESLint rules to ensure proper arrow function definitions.
-*   [no-loops (⭐123)](https://github.com/buildo/eslint-plugin-no-loops) - It's 2019 and you still use loops?
+*   [arrow functions (⭐306)](https://github.com/getify/eslint-plugin-proper-arrows) - ESLint rules to ensure proper arrow function definitions.
+*   [no-loops (⭐126)](https://github.com/buildo/eslint-plugin-no-loops) - It's 2019 and you still use loops?
 
 ## [33. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Extensions
 
-*   [next-i18next (⭐5.2k)](https://github.com/isaachinman/next-i18next) - The easiest way to translate your NextJs apps.
-*   [Serverless Framework plugin for Next.js (⭐4.4k)](https://github.com/danielcondemarin/serverless-nextjs-plugin) - Deploy serverless applications with ease.
+*   [next-i18next (⭐5.7k)](https://github.com/isaachinman/next-i18next) - The easiest way to translate your NextJs apps.
+*   [Serverless Framework plugin for Next.js (⭐4.5k)](https://github.com/danielcondemarin/serverless-nextjs-plugin) - Deploy serverless applications with ease.
 
 ## [34. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
@@ -513,18 +500,18 @@ Free
 
 ### Math
 
-*   [SymEngine (⭐1.1k)](https://github.com/symengine/symengine) - Fast symbolic manipulation library, a rewriting of SymPy's core in C++. \[MIT]
+*   [SymEngine (⭐1.2k)](https://github.com/symengine/symengine) - Fast symbolic manipulation library, a rewriting of SymPy's core in C++. \[MIT]
 
 ### Networking
 
-*   [Restinio (⭐1.1k)](https://github.com/Stiffstream/restinio) - A header-only C++14 library that gives you an embedded HTTP/Websocket server. \[BSD]
-*   [cpp-netlib/uri (⭐138)](https://github.com/cpp-netlib/uri) - URI parser/builder library for C++, compatible with RFC 3986 and RFC 3987. \[Boost]
-*   [restclient-cpp (⭐1.5k)](https://github.com/mrtazz/restclient-cpp) - Simple REST client for C++. It wraps libcurl for HTTP requests. \[MIT]
-*   [uriparser (⭐323)](https://github.com/uriparser/uriparser) - Strictly RFC 3986 compliant URI parsing and handling library. \[BSD-3-Clause]
+*   [Restinio (⭐1.2k)](https://github.com/Stiffstream/restinio) - A header-only C++14 library that gives you an embedded HTTP/Websocket server. \[BSD]
+*   [cpp-netlib/uri (⭐140)](https://github.com/cpp-netlib/uri) - URI parser/builder library for C++, compatible with RFC 3986 and RFC 3987. \[Boost]
+*   [restclient-cpp (⭐1.6k)](https://github.com/mrtazz/restclient-cpp) - Simple REST client for C++. It wraps libcurl for HTTP requests. \[MIT]
+*   [uriparser (⭐346)](https://github.com/uriparser/uriparser) - Strictly RFC 3986 compliant URI parsing and handling library. \[BSD-3-Clause]
 
 ### Build Systems
 
-*   [Vcpkg (⭐23k)](https://github.com/microsoft/vcpkg) - C++ library manager for Windows, Linux, and MacOS. \[MIT]
+*   [Vcpkg (⭐24k)](https://github.com/microsoft/vcpkg) - C++ library manager for Windows, Linux, and MacOS. \[MIT]
 
 ### Podcasts
 
@@ -532,7 +519,7 @@ Free
 
 ### Other Awesome Projects
 
-*   [30 Seconds of C++ (⭐1.4k)](https://github.com/Bhupesh-V/30-seconds-of-cpp)
+*   [30 Seconds of C++ (⭐1.5k)](https://github.com/Bhupesh-V/30-seconds-of-cpp)
 
 ## [35. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
@@ -544,7 +531,7 @@ Free
 
 ### Examples / Templates
 
-*   [cmake-examples (⭐977)](https://github.com/pr0g/cmake-examples) - A collection of as simple as possible, modern CMake projects. [`[MIT]`](https://opensource.org/licenses/MIT)
+*   [cmake-examples (⭐1.1k)](https://github.com/pr0g/cmake-examples) - A collection of as simple as possible, modern CMake projects. [`[MIT]`](https://opensource.org/licenses/MIT)
 
 ## [37. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/week/README.md)
 
@@ -579,7 +566,7 @@ Free
 
 ### Utilities / Game Engine resources
 
-*   [FVM (⭐4.4k)](https://github.com/leoafarias/fvm) <!--stargazers:leoafarias/fvm--> - Flutter Version Management: A simple cli to manage Flutter SDK versions.
+*   [FVM (⭐4.7k)](https://github.com/leoafarias/fvm) <!--stargazers:leoafarias/fvm--> - Flutter Version Management: A simple cli to manage Flutter SDK versions.
 
 ### VSCode / Game Engine resources
 
@@ -601,11 +588,11 @@ Free
 
 ### Animation, Graphics & Video Playout
 
-*   [Sofie - TV Automation (⭐310)](https://github.com/nrkno/Sofie-TV-automation) - MOS-driven automation system for news casts, with many libraries for e.g. device control.
+*   [Sofie - TV Automation (⭐331)](https://github.com/nrkno/Sofie-TV-automation) - MOS-driven automation system for news casts, with many libraries for e.g. device control.
 
 ### Monitoring & Quality Control
 
-*   [Pi Audio Monitor (⭐139)](https://github.com/martim01/pam) - Audio Monitoring for Raspberry Pi, supports S/PDIF, AES3, AES67, Livewire and Ravenna.
+*   [Pi Audio Monitor (⭐147)](https://github.com/martim01/pam) - Audio Monitoring for Raspberry Pi, supports S/PDIF, AES3, AES67, Livewire and Ravenna.
 
 ## [45. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
 

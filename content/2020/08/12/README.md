@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 12, 2020
 
-13 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -26,7 +26,7 @@
 
 ### Pull Requests / Code Coverage
 
-*   [Pull Request Lint With Regex (⭐42)](https://github.com/MorrisonCole/pr-lint-action)
+*   [Pull Request Lint With Regex (⭐65)](https://github.com/MorrisonCole/pr-lint-action)
 
 ## [4. Awesome Naming](/content/gruhn/awesome-naming/README.md)
 
@@ -39,12 +39,12 @@
 
 ### AppImage developer tools / QC tools
 
-*   [appimage-testsuite (⭐17)](https://github.com/aferrero2707/appimage-testsuite) - AppImage testing environment based on Docker containers for various Linux distributions.
+*   [appimage-testsuite (⭐19)](https://github.com/aferrero2707/appimage-testsuite) - AppImage testing environment based on Docker containers for various Linux distributions.
 
 ### AppImage developer tools / Continuous integration
 
-*   [GitHub Actions example (⭐48)](https://github.com/probonopd/Zoom.AppImage/blob/master/.github/workflows/main.yml) - Example of how to upload AppImages built using GitHub Actions to GitHub Releases.
-*   [appimage.yml (⭐485)](https://github.com/iotang/Project_LemonLime/blob/master/.github/workflows/appimage.yml) - Bigger, more complex example of how to build and upload AppImages using GitHub Actions.
+*   [GitHub Actions example (⭐49)](https://github.com/probonopd/Zoom.AppImage/blob/master/.github/workflows/main.yml) - Example of how to upload AppImages built using GitHub Actions to GitHub Releases.
+*   [appimage.yml (⭐599)](https://github.com/iotang/Project_LemonLime/blob/master/.github/workflows/appimage.yml) - Bigger, more complex example of how to build and upload AppImages using GitHub Actions.
 
 ### Resources / Miscellaneous
 
@@ -87,29 +87,19 @@
 *   [PeerTube](https://joinpeertube.org/en) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/Chocobozzz/PeerTube) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitlab.svg?sanitize=true" width="16"/>](https://framagit.org/framasoft/peertube/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser.
 *   [Socialhome](https://socialhome.network/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitlab.svg?sanitize=true" width="16"/>](https://git.feneas.org/socialhome/socialhome) - A federated personal profile with social networking functionality.
 
-## [10. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Projects Using Vue.js / Apps/Websites
-
-*   [n2ex (⭐270)](https://github.com/OrangeXC/n2ex) - A vue ssr(nuxt) website, use v2ex API
-
-### Components & Libraries / UI Utilities
-
-*   [vue-digital-transform (⭐60)](https://github.com/DakerHub/vue-digital-transform) A vue component for better digital transform animation
-
-## [11. Awesome Json](/content/burningtree/awesome-json/README.md)
+## [10. Awesome Json](/content/burningtree/awesome-json/README.md)
 
 ### Libraries
 
 *   [simdjson (⭐18k)](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second.
 
-## [12. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
+## [11. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
 
 ### Table of Contents / Streaming Library
 
-*   [Tributary (⭐437)](https://github.com/timkpaine/tributary) \[Python] - A python library for constructing dataflow graphs. Supports synchronous, reactive data streams built using python generators that mimic complex event processors, as well as lazily-evaluated acyclic graphs and functional currying streams.
+*   [Tributary (⭐444)](https://github.com/timkpaine/tributary) \[Python] - A python library for constructing dataflow graphs. Supports synchronous, reactive data streams built using python generators that mimic complex event processors, as well as lazily-evaluated acyclic graphs and functional currying streams.
 
-## [13. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [12. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Utilities / Clipboard Tools
 

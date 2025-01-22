@@ -14,7 +14,7 @@
 
 ## [2. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/README.md)
 
-### Transition To Pure Rigour Math / Monograph
+### Transition To Pure Rigour Math / Lecture Videos Playlist
 
 *   Velleman. How to Prove it: A Structured Approach. - It transitions from solving problems to proving theorems by teaching them the techniques needed to read and write proofs.
 
@@ -48,17 +48,17 @@
 
 ### Plugin Manager
 
-*   [folke/lazy.nvim (⭐14k)](https://github.com/folke/lazy.nvim) - A modern plugin manager, featuring a graphical interface, async execution, a lockfile and more 💤.
+*   [folke/lazy.nvim (⭐16k)](https://github.com/folke/lazy.nvim) - A modern plugin manager, featuring a graphical interface, async execution, a lockfile and more.
 
 ### Editing Support / Diagnostics
 
-*   [chrisgrieser/nvim-various-textobjs (⭐520)](https://github.com/chrisgrieser/nvim-various-textobjs) - Bundle of more than 30 new text objects.
+*   [chrisgrieser/nvim-various-textobjs (⭐642)](https://github.com/chrisgrieser/nvim-various-textobjs) - Bundle of more than 30 new text objects.
 
 ## [8. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [softblobby (⭐3)](https://github.com/gsalami00/softblobby/) - A theme for people who love unicorns, pink and purple. Includes decorators for `git` information, current directory, time and username.
+*   [softblobby (⭐4)](https://github.com/gsalami00/softblobby/) - A theme for people who love unicorns, pink and purple. Includes decorators for `git` information, current directory, time and username.
 
 ## [9. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 

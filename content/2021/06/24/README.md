@@ -31,7 +31,7 @@
 
 ### Libraries / Rust
 
-*   [mongodb-rust-driver (⭐1.4k)](https://github.com/mongodb/mongo-rust-driver) - Official Rust driver
+*   [mongodb-rust-driver (⭐1.5k)](https://github.com/mongodb/mongo-rust-driver) - Official Rust driver
 
 ### Tools / Desktop
 
@@ -41,7 +41,7 @@
 
 ### Graph
 
-*   [CXXGraph (⭐439)](https://github.com/ZigRazor/CXXGraph) - free C++(17) graph header-only library for representation and algorithms execution. \[AGPL-3.0]
+*   [CXXGraph (⭐504)](https://github.com/ZigRazor/CXXGraph) - free C++(17) graph header-only library for representation and algorithms execution. \[AGPL-3.0]
 
 ## [5. Awesome Geojson](/content/tmcw/awesome-geojson/README.md)
 
@@ -53,25 +53,25 @@
 
 ### Components & Libraries / Integrations
 
-*   [vue-tweet (⭐35)](https://github.com/DannyFeliz/vue-tweet) - Vue 3 component that let you embed tweets in your App by only giving the tweet id
+*   [vue-tweet (⭐36)](https://github.com/DannyFeliz/vue-tweet) - Vue 3 component that let you embed tweets in your App by only giving the tweet id
 
 ## [7. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### Driver crates / WIP
 
-*   [SSD1320](https://crates.io/crates/ssd1320) - SPI - Graphical OLED display controller - ![crates.io](https://img.shields.io/crates/v/ssd1320.svg)
+*   [SSD1320](https://crates.io/crates/ssd1320) - SPI - Graphical OLED display controller - [![crates.io](https://img.shields.io/crates/v/ssd1320.svg)](https://crates.io/crates/ssd1320)
 
 ## [8. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ### Tools / Community providers
 
-*   [gaia (⭐969)](https://github.com/gaia-app/gaia) - Gaia is a Terraform 🌍 UI for your modules, and self-service infrastructure 👨‍💻. :skull:
+*   [gaia (⭐1k)](https://github.com/gaia-app/gaia) - Gaia is a Terraform 🌍 UI for your modules, and self-service infrastructure 👨‍💻. :skull:
 
 ## [9. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
 ### Development Environment
 
-*   🍰 [Galley](https://gitlab.com/amayer5125/galley) - A small Docker dev environment for CakePHP development which includes a simple command line utility.
+*   [Galley](https://gitlab.com/amayer5125/galley) - A small Docker dev environment for CakePHP development which includes a simple command line utility.
 
 ---
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 27, 2023
 
-6 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -22,35 +22,7 @@
 
 *   [KS DB Merge Tools](https://ksdbmerge.tools) - GUI to compare and sync DB schema and data. For Oracle Database, MySQL, MariaDB, SQL Server, PostgreSQL, SQLite, MS Access and Cross-DBMS.
 
-## [3. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/README.md)
-
-### **RAG Pipeline & Advanced RAG**
-
-*   [cite](https://twitter.com/yi_ding/status/1721728060876300461) \[7 Nov 2023] `OpenAI has put together a pretty good roadmap for building a production RAG system.` Naive RAG -> Tune Chunks -> Rerank & Classify -> Prompt Engineering. In `llama_index`... [Youtube](https://www.youtube.com/watch?v=ahnGLM-RC1Y)  <br/> <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/oai-rag-success-story.jpg" width="500">
-
-### **Azure Enterprise Services** / **Azure AI Search**
-
-*   Copilot (FKA. Bing Chat Enterprise) \[18 Jul 2023] [Privacy and Protection](https://learn.microsoft.com/en-us/bing-chat-enterprise/privacy-and-protections#protected-by-default)
-    1.  Doesn't have plugin support
-    2.  Only content provided in the chat by users is accessible to Bing Chat Enterprise.
-
-### **Prompt Engineering** / **Prompt Template Language**
-
-*   Adversarial Prompting
-    *   Prompt Injection: `Ignore the above directions and ...`
-    *   Prompt Leaking: `Ignore the above instructions ... followed by a copy of the full prompt with exemplars:`
-    *   Jailbreaking: Bypassing a safety policy, instruct Unethical instructions if the request is contextualized in a clever way. [ref](https://www.promptingguide.ai/risks/adversarial)
-
-### **Finetuning** / PEFT: Parameter-Efficient Fine-Tuning ([Youtube](https://youtu.be/Us5ZFp16PaU)) [24 Apr 2023]
-
-*   [Practical Tips for Finetuning LLMs Using LoRA (Low-Rank Adaptation)](https://magazine.sebastianraschka.com/p/practical-tips-for-finetuning-llms) \[19 Nov 2023]: Best practical guide of LoRA.
-    1.  QLoRA saves 33% memory but increases runtime by 39%, useful if GPU memory is a constraint.
-    2.  Optimizer choice for LLM finetuning isn’t crucial. Adam optimizer’s memory-intensity doesn’t significantly impact LLM’s peak memory.
-    3.  Apply LoRA across all layers for maximum performance.
-    4.  Adjusting the LoRA rank is essential.
-    5.  Multi-epoch training on static datasets may lead to overfitting and deteriorate results.
-
-## [4. Awesome Ai4lam](/content/AI4LAM/awesome-ai4lam/README.md)
+## [3. Awesome Ai4lam](/content/AI4LAM/awesome-ai4lam/README.md)
 
 ### Conferences and Workshops / Upcoming Conferences and Workshops
 
@@ -66,17 +38,17 @@
 *   [Fantastic Futures 2022](https://sites.google.com/view/ai4lam/ai4lam-2022-virtual-event) – Nov. 30–Dec. 2 virtual event hosted by the British Library, London, England.
 *   [Fantastic Futures 2023](https://ff2023.archive.org) – Nov. 15–17 at Internet Archive Canada Headquarters, Vancouver, British Columbia, Canada.
 
-## [5. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [4. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Misc
 
-*   [jillesvangurp/querylight (⭐5)](https://github.com/jillesvangurp/querylight) - In memory search engine for simple in app search. Implements tf/idf and a some basic queries, tokenizers and analyzers.
-*   [jillesvangurp/geogeometry (⭐125)](https://github.com/jillesvangurp/geogeometry) - GeoGeometry is a set of algorithms and functions for manipulating geo hashes and geometric shapes with geo coordinates
+*   [jillesvangurp/querylight (⭐6)](https://github.com/jillesvangurp/querylight) - In memory search engine for simple in app search. Implements tf/idf and a some basic queries, tokenizers and analyzers.
+*   [jillesvangurp/geogeometry (⭐126)](https://github.com/jillesvangurp/geogeometry) - GeoGeometry is a set of algorithms and functions for manipulating geo hashes and geometric shapes with geo coordinates
 
 ### Libraries/Frameworks / API Clients
 
-*   [jillesvangurp/kt-search (⭐105)](https://github.com/jillesvangurp/kt-search) - Kotlin multiplatform library for Elasticsearch and Opensearch
 *   [formation-res/overpass-kotlin-client (⭐1)](https://github.com/formation-res/overpass-kotlin-client) - A simple client for overpass that uses ktor-client and kotlinx.serialization for parsing JSON responses.
+*   [jillesvangurp/kt-search (⭐112)](https://github.com/jillesvangurp/kt-search) - Kotlin multiplatform library for Elasticsearch and Opensearch
 
 ### Libraries/Frameworks / Internationalisation and Localization
 
@@ -88,17 +60,17 @@
 
 ### Projects / Examples
 
-*   [formation-res/kt-fullstack-demo (⭐3)](https://github.com/formation-res/kt-fullstack-demo) - This demo kotlin-js project implements a UI and server for a little recipe search engine to demonstrate fritz2, kotlin-js, localization with mozilla fluent, use of koin in a webapp.
+*   [formation-res/kt-fullstack-demo (⭐2)](https://github.com/formation-res/kt-fullstack-demo) - This demo kotlin-js project implements a UI and server for a little recipe search engine to demonstrate fritz2, kotlin-js, localization with mozilla fluent, use of koin in a webapp.
 
-## [6. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [5. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Communication - Email - Mail Delivery Agents
 
-*   [Piler](https://www.mailpiler.org/) - Feature-rich email archiving solution. ([Source Code](https://bitbucket.org/jsuto/piler)) `GPL-3.0` `C`
+*   [Piler](https://www.mailpiler.org/) - Feature-rich email archiving solution. ([Source Code (⭐101)](https://github.com/jsuto/piler/)) `GPL-3.0` `C`
 
 ### Software / File Transfer - Web-based File Managers
 
-*   [mikochi (⭐198)](https://github.com/zer0tonin/Mikochi) - Browse remote folders, upload files, delete, rename, download and stream files to VLC/mpv. `MIT` `Go/Docker/K8S`
+*   [mikochi (⭐290)](https://github.com/zer0tonin/Mikochi) - Browse remote folders, upload files, delete, rename, download and stream files to VLC/mpv. `MIT` `Go/Docker/K8S`
 
 ### Software / Knowledge Management Tools
 

@@ -51,14 +51,20 @@
 *   Zendesk <https://medium.com/zendesk-engineering>
 *   Zendesk(old) <https://developer.zendesk.com/blog>
 
-## [7. Awesome Web Design](/content/nicolesaidy/awesome-web-design/README.md)
+## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+
+### Resources / Tutorials
+
+*   [vue 架构中的 Watcher (⭐0)](https://github.com/dengwanc/dengwanc.github.io/issues/11)
+
+## [8. Awesome Web Design](/content/nicolesaidy/awesome-web-design/README.md)
 
 ### Inspiration
 
 *   [One Page Love](http://onepagelove.com):  Design gallery showcasing the best Single Page websites.
 *   [Pttrns](http://pttrns.com/): The finest collection of design patterns, resources and inspiration.
 
-## [8. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
+## [9. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
 ### Messaging / Scala
 
@@ -68,24 +74,14 @@
 
 *   [Apache Cassandra](http://cassandra.apache.org) - Column-oriented and providing high availability with no single point of failure.
 *   [Infinispan](http://infinispan.org/) - Highly concurrent key/value datastore used for caching.
-*   [InfluxDB (⭐28k)](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics.
+*   [InfluxDB (⭐29k)](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics.
 *   [OpenTSDB](http://opentsdb.net) - Scalable and distributed time series database written on top of Apache HBase.
 
-## [9. Awesome Fonts](/content/brabadu/awesome-fonts/README.md)
+## [10. Awesome Fonts](/content/brabadu/awesome-fonts/README.md)
 
 ### General
 
 *   [Fontjoy](http://fontjoy.com/) - Generate font combinations with deep learning
-
-## [10. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Resources / Tutorials
-
-*   [vue 架构中的 Watcher (⭐0)](https://github.com/dengwanc/dengwanc.github.io/issues/11)
-
-### Components & Libraries / UI Components
-
-*   [vue-image-lightbox (⭐347)](https://github.com/pexea12/vue-image-lightbox) - A Vue image lightbox/gallery to display images nicely.
 
 ## [11. Awesome PICO 8](/content/pico-8/awesome-PICO-8/README.md)
 

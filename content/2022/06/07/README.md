@@ -16,18 +16,18 @@
 
 ### Software / Document Management - E-books
 
-*   [Stump](https://www.stumpapp.dev) - A fast, free and open source comics, manga and digital book server with OPDS support. ([Source Code (⭐896)](https://github.com/stumpapp/stump)) `MIT` `Rust`
+*   [Stump](https://www.stumpapp.dev) - A fast, free and open source comics, manga and digital book server with OPDS support. ([Source Code (⭐1.1k)](https://github.com/stumpapp/stump)) `MIT` `Rust`
 
 ### Software / Games - Administrative Utilities & Control Panels
 
-*   [ARRCON (⭐178)](https://github.com/radj307/ARRCON) - Terminal-based RCON client compatible with any game servers using the Source RCON Protocol. `GPL-3.0` `C++`
-*   [LinuxGSM](https://linuxgsm.com/) - CLI tool for deployment and management of dedicated game servers on Linux: more than 120 games are supported. ([Source Code (⭐4.2k)](https://github.com/GameServerManagers/LinuxGSM)) `MIT` `Shell`
-*   [Pterodactyl](https://pterodactyl.io/) - Management panel for game servers, with an intuitive UI for end users. ([Source Code (⭐6.5k)](https://github.com/pterodactyl/panel)) `MIT` `PHP`
-*   [RconCli (⭐462)](https://github.com/gorcon/rcon-cli) - CLI for executing queries on a remote Valve Source dedicated server using the RCON Protocol. `MIT` `Go`
+*   [ARRCON (⭐193)](https://github.com/radj307/ARRCON) - Terminal-based RCON client compatible with any game servers using the Source RCON Protocol. `GPL-3.0` `C++`
+*   [LinuxGSM](https://linuxgsm.com/) - CLI tool for deployment and management of dedicated game servers on Linux: more than 120 games are supported. ([Source Code (⭐4.4k)](https://github.com/GameServerManagers/LinuxGSM)) `MIT` `Shell`
+*   [Pterodactyl](https://pterodactyl.io/) - Management panel for game servers, with an intuitive UI for end users. ([Source Code (⭐7.1k)](https://github.com/pterodactyl/panel)) `MIT` `PHP`
+*   [RconCli (⭐518)](https://github.com/gorcon/rcon-cli) - CLI for executing queries on a remote Valve Source dedicated server using the RCON Protocol. `MIT` `Go`
 
 ### Software / Self-hosting Solutions
 
-*   [Mars Server (⭐98)](https://github.com/borjapazr/mars-server) - Managed home server with Docker, Docker Compose, Make and Bash. `MIT` `Docker`
+*   [Mars Server (⭐105)](https://github.com/borjapazr/mars-server) - Managed home server with Docker, Docker Compose, Make and Bash. `MIT` `Docker`
 
 ## [3. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
@@ -54,10 +54,10 @@
 
 ### Software / Plotter Control
 
-*   [axidraw (⭐424)](https://github.com/evil-mad/axidraw) - Official AxiDraw extensions for Inkscape.
+*   [axidraw (⭐437)](https://github.com/evil-mad/axidraw) - Official AxiDraw extensions for Inkscape.
 *   [Line-us Inkscape Plugin (⭐9)](https://github.com/Line-us/Inkscape-Plugin) - Sends drawings to the Line-us plotter directly from Inkscape.
-*   [Line-us API Examples (⭐113)](https://github.com/Line-us/Line-us-Programming) - Example code for the Line-us plotter's G-code-based API.
-*   [@beardicus/line-us (⭐31)](https://github.com/beardicus/line-us) - JavaScript library for controlling the Line-us machine from Node or the browser.
+*   [Line-us API Examples (⭐115)](https://github.com/Line-us/Line-us-Programming) - Example code for the Line-us plotter's G-code-based API.
+*   [@beardicus/line-us (⭐33)](https://github.com/beardicus/line-us) - JavaScript library for controlling the Line-us machine from Node or the browser.
 
 ### Inspiration, Instruction, and Research / Fonts
 
@@ -67,13 +67,13 @@
 
 ### Workflow Managers
 
-*   **[SciPipe (⭐972)](https://github.com/scipipe/scipipe)** - Workflow library embedded in the Go programming language, focusing on supporting complex workflow constructs, compiling to a single binary, providing powerful file naming and comprehensive audit reports for every output \[ [paper-2019](https://pubmed.ncbi.nlm.nih.gov/31029061/) | [web](https://scipipe.org/) ]
+*   **[SciPipe (⭐1.1k)](https://github.com/scipipe/scipipe)** - Workflow library embedded in the Go programming language, focusing on supporting complex workflow constructs, compiling to a single binary, providing powerful file naming and comprehensive audit reports for every output \[ [paper-2019](https://pubmed.ncbi.nlm.nih.gov/31029061/) | [web](https://scipipe.org/) ]
 
 ## [6. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / Finance
 
-*   [HADWIN (⭐73)](https://github.com/brownboycodes/HADWIN) - a prototype of a fund transfer platform by [Nabhodipta Garai](https://github.com/brownboycodes).
+*   [HADWIN (⭐81)](https://github.com/brownboycodes/HADWIN) - a prototype of a fund transfer platform by [Nabhodipta Garai](https://github.com/brownboycodes).
 
 ## [7. Awesome Security](/content/sbilly/awesome-security/README.md)
 
@@ -85,19 +85,15 @@
 
 ### Modules / Game engine
 
-*   [caviar (⭐145)](https://github.com/load1n9/caviar) - ⚡ Blazing fast, modern, Game Engine powered by WebGPU for Deno and the browser
+*   [caviar (⭐149)](https://github.com/load1n9/caviar) - ⚡ Blazing fast, modern, Game Engine powered by WebGPU for Deno and the browser
 *   [neko (⭐46)](https://github.com/load1n9/neko) - 🐈 caviar's twin frame buffer deno module with a framebuffer canvas implementation
-*   [sdl2 (⭐129)](https://github.com/littledivy/deno_sdl2) - SDL2 module for Deno
+*   [sdl2 (⭐151)](https://github.com/littledivy/deno_sdl2) - SDL2 module for Deno
 
 ## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [sortablejs-vue3 (⭐374)](https://github.com/MaxLeiter/sortablejs-vue3) - A Vue 3 component acting as a thin wrapper around SortableJS
-
-### Components & Libraries / UI Utilities
-
-*   [VFM (⭐1)](https://github.com/ccqgithub/vfm) - Vue driven form management tool.
+*   [sortablejs-vue3 (⭐387)](https://github.com/MaxLeiter/sortablejs-vue3) - A Vue 3 component acting as a thin wrapper around SortableJS
 
 ---
 

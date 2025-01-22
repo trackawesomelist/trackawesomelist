@@ -14,12 +14,12 @@
 
 ## [2. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
 
-### Courses
+### Courses / Commerical Tools
 
 *   [Artificial Intelligence: A Modern Approach](http://www.amazon.com/Artificial-Intelligence-Modern-Approach-3rd/dp/0136042597) - Stuart Russell & Peter Norvig
     *   Also consider browsing the [list of recommended reading](http://aima.cs.berkeley.edu/books.html), divided by each chapter in "Artificial Intelligence: A Modern Approach".
 
-### Misc
+### Misc / Commerical Tools
 
 *   [AIResources](http://airesources.org/) - Directory of open source software and open access data for the AI research community
 

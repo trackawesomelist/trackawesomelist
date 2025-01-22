@@ -35,11 +35,11 @@
 
 ### Profiler and Optimization
 
-*   [batch-loader (⭐1k)](https://github.com/exaspark/batch-loader) – A generic lazy batching mechanism to avoid N+1 DB queries, HTTP queries, etc.
+*   [batch-loader (⭐1.1k)](https://github.com/exaspark/batch-loader) – A generic lazy batching mechanism to avoid N+1 DB queries, HTTP queries, etc.
 
 ## [4. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
 
-### Courses
+### Courses / Commerical Tools
 
 *   [Reinforcement Learning: An Introduction](http://www.freetechbooks.com/reinforcement-learning-an-introduction-second-edition-draft-t1282.html) - This introductory textbook on reinforcement learning is targeted toward engineers and scientists in artificial intelligence, operations research, neural networks, and control systems, and we hope it will also be of interest to psychologists and neuroscientists.
 
@@ -61,7 +61,7 @@
 
 ### Game Development
 
-*   [CrSFML (⭐348)](https://github.com/oprypin/crsfml) - Bindings to [SFML](https://www.sfml-dev.org/) multimedia/game library
+*   [CrSFML (⭐352)](https://github.com/oprypin/crsfml) - Bindings to [SFML](https://www.sfml-dev.org/) multimedia/game library
 
 ### HTTP
 
@@ -73,16 +73,16 @@
 
 ### Network Protocols
 
-*   [jwt (⭐205)](https://github.com/crystal-community/jwt) - Implementation of JWT (JSON Web Token)
-*   [msgpack-crystal (⭐134)](https://github.com/crystal-community/msgpack-crystal) - MessagePack library
+*   [jwt (⭐208)](https://github.com/crystal-community/jwt) - Implementation of JWT (JSON Web Token)
+*   [msgpack-crystal (⭐137)](https://github.com/crystal-community/msgpack-crystal) - MessagePack library
 
 ### Package Management
 
-*   [shards (⭐758)](https://github.com/crystal-lang/shards) - Dependency manager for the Crystal
+*   [shards (⭐768)](https://github.com/crystal-lang/shards) - Dependency manager for the Crystal
 
 ### Web Frameworks
 
-*   [kemal (⭐3.6k)](https://github.com/kemalcr/kemal) - Lightning Fast, Super Simple web framework. Inspired by Sinatra
+*   [kemal (⭐3.7k)](https://github.com/kemalcr/kemal) - Lightning Fast, Super Simple web framework. Inspired by Sinatra
 *   [Reddit](https://www.reddit.com/r/crystal_programming/)
 *   [Stackoverflow](https://stackoverflow.com/tags/crystal-lang/info)
 
@@ -92,19 +92,19 @@
 
 ### Official Documentation Translations
 
-*   [icr (⭐502)](https://github.com/crystal-community/icr) - Interactive console for Crystal (like IRB for Ruby)
+*   [icr (⭐504)](https://github.com/crystal-community/icr) - Interactive console for Crystal (like IRB for Ruby)
 
 ### Editor Plugins
 
 *   Sublime
-    *   [sublime-crystal (⭐84)](https://github.com/crystal-lang-tools/sublime-crystal) - Crystal syntax highlighting for sublime Text
+    *   [sublime-crystal (⭐86)](https://github.com/crystal-lang-tools/sublime-crystal) - Crystal syntax highlighting for sublime Text
 *   TextMate
     *   [Crystal.tmbundle (⭐18)](https://github.com/crystal-lang-tools/Crystal.tmbundle) - Crystal syntax highlighting, compile, format command, snippets
 *   Vim
-    *   [vim-crystal (⭐412)](https://github.com/vim-crystal/vim-crystal) - Vim filetype support for Crystal
+    *   [vim-crystal (⭐418)](https://github.com/vim-crystal/vim-crystal) - Vim filetype support for Crystal
     *   [vim-slang (⭐12)](https://github.com/elorest/vim-slang) - Vim filetype support for Slang Templating Engine
 *   Visual Studio Code
-    *   [vscode-crystal-lang (⭐275)](https://github.com/crystal-lang-tools/vscode-crystal-lang) - Formatter, linter and syntax highlighting for `cr` and `ecr` files
+    *   [vscode-crystal-lang (⭐280)](https://github.com/crystal-lang-tools/vscode-crystal-lang) - Formatter, linter and syntax highlighting for `cr` and `ecr` files
 
 ---
 

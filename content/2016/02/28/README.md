@@ -73,7 +73,7 @@
 
 ### Libraries / JavaScript
 
-*   [Camo (⭐556)](https://github.com/scottwrobinson/camo) - Class-based ES6 ODM for Mongo-like databases
+*   [Camo (⭐558)](https://github.com/scottwrobinson/camo) - Class-based ES6 ODM for Mongo-like databases
 
 ### Libraries / Scala
 

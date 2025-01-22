@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 21, 2021
 
-16 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -22,7 +22,7 @@
 
 ### Art & Design
 
-- API: [EmojiHub (⭐126)](https://github.com/cheatsnake/emojihub)
+- API: [EmojiHub (⭐133)](https://github.com/cheatsnake/emojihub)
 
   Description: Get emojis by categories and groups
 
@@ -50,7 +50,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐48)](https://github.com/vimeo/iris)
+  Source code \*: [:octocat: (⭐46)](https://github.com/vimeo/iris)
 
 
 
@@ -73,13 +73,13 @@
 
 ### (requires Neovim 0.5)
 
-*   [ldelossa/litee.nvim (⭐404)](https://github.com/ldelossa/litee.nvim) - Neovim's missing IDE features.
+*   [ldelossa/litee.nvim (⭐418)](https://github.com/ldelossa/litee.nvim) - Neovim's missing IDE features.
 
 ## [9. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Misc
 
-*   [Jire/Strukt (⭐73)](https://github.com/Jire/Strukt) - Value types on the JVM, today!
+*   [Jire/Strukt (⭐74)](https://github.com/Jire/Strukt) - Value types on the JVM, today!
 
 ## [10. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
@@ -87,45 +87,33 @@
 
 *   [RemoteJobs.lat](https://remotejobs.lat/) -  Remote jobs for LATAM people
 
-## [11. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / Utilities
-
-*   [hami-vuex (⭐25)](https://github.com/guyskk/hami-vuex) - 🍈 Hami melon flavored Vuex, modular by design, completely TypeScript intelligence, state management for Vue.js.
-
-## [12. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [11. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Database
 
-*   [vorot93/libmdbx-rs (⭐76)](https://github.com/vorot93/libmdbx-rs) \[[mdbx-sys](https://crates.io/crates/mdbx-sys)] - Bindings for MDBX, a "fast, compact, powerful, embedded, transactional key-value database, with permissive license". This is a fork of mozilla/lmdb-rs with patches to make it work with libmdbx.
+*   [vorot93/libmdbx-rs (⭐85)](https://github.com/vorot93/libmdbx-rs) \[[mdbx-sys](https://crates.io/crates/mdbx-sys)] - Bindings for MDBX, a "fast, compact, powerful, embedded, transactional key-value database, with permissive license". This is a fork of mozilla/lmdb-rs with patches to make it work with libmdbx.
 
-## [13. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+## [12. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
-### People Investigations / Telegram
+### People Investigations / Steam
 
 *   [OpenSanctions](https://www.opensanctions.org/search/) - Information on sanctions and public office holders.
 
-### Company Research / Telegram
+### Company Research / Steam
 
 *   [OpenOwnership Register](https://register.openownership.org/)
 
-## [14. Awesome Ios](/content/vsouza/awesome-ios/README.md)
+## [13. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Other Parsing
 
-*   [SVGView (⭐600)](https://github.com/exyte/SVGView) - SVG parser and renderer written in SwiftUI.
+*   [SVGView (⭐685)](https://github.com/exyte/SVGView) - SVG parser and renderer written in SwiftUI.
 
-## [15. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [14. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Logging
 
-*   [ULogViewer (⭐347)](https://github.com/carina-studio/ULogViewer) - Cross-Platform (Windows/macOS/Linux) Universal Log Viewer which supports reading and parsing various type of logs. You can also define your own profile to parse and show logs.
-
-## [16. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
-
-### Programming / JavaScript
-
-*   [React Jobs](https://reactjsjob.com)
+*   [ULogViewer (⭐434)](https://github.com/carina-studio/ULogViewer) - Cross-Platform (Windows/macOS/Linux) Universal Log Viewer which supports reading and parsing various type of logs. You can also define your own profile to parse and show logs.
 
 ---
 

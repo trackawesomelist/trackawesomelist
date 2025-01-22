@@ -68,7 +68,7 @@
 
 ### Free fonts / Collections
 
-*   [Plex (⭐8.4k)](https://github.com/IBM/plex) - IBM's open source font
+*   [Plex (⭐9.7k)](https://github.com/IBM/plex) - IBM's open source font
 
 ### Iconic fonts / Fonts
 
@@ -84,7 +84,7 @@
 
 ### Packages / Security
 
-*   [upash (⭐536)](https://github.com/simonepri/upash) - Unified API for all password hashing algorithms.
+*   [upash (⭐540)](https://github.com/simonepri/upash) - Unified API for all password hashing algorithms.
 
 ## [4. Awesome Rails Gem](/content/hothero/awesome-rails-gem/README.md)
 
@@ -109,64 +109,70 @@
 
 [![](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/pongSaver.png)](https://mikeash.com/software/pongsaver/)
 
-## [7. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+
+### Resources / Examples
+
+*   [Vue Design System (⭐2.2k)](https://github.com/viljamis/vue-design-system) - An open source boilerplate for building UI Design Systems with Vue.js.
+
+## [8. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Algorithms and Data structures
 
-*   [machinery (⭐521)](https://github.com/joaomdmoura/machinery) - A state machine library for structs in general, it integrates with Phoenix out of the box.
+*   [machinery (⭐541)](https://github.com/joaomdmoura/machinery) - A state machine library for structs in general, it integrates with Phoenix out of the box.
 
 ### Miscellaneous
 
-*   [codec-beam (⭐172)](https://github.com/hkgumbs/codec-beam) - Generate Erlang VM byte code from Haskell.
+*   [codec-beam (⭐171)](https://github.com/hkgumbs/codec-beam) - Generate Erlang VM byte code from Haskell.
 
 ### Books
 
 *   [The Beam Book](https://happi.github.io/theBeamBook/) - A description of the Erlang Runtime System ERTS and the virtual Machine BEAM.
 
-## [8. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/README.md)
+## [9. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/README.md)
 
 ### Forms / Normal Forms
 
 *   [GitHub Issues](https://help.github.com/articles/about-issues/) - This is an interesting way for developers to get comments/questions. See [github.com/sindresorhus/ama (⭐136)](https://github.com/sindresorhus/ama) for an example.
 *   [Utterences (⭐8.7k)](https://github.com/utterance/utterances) - A lightweight comments widget built on GitHub issues.
 
-## [9. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [10. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Pagination / Barcode
 
-*   [SlideController (⭐420)](https://github.com/touchlane/SlideController) - It is a nice alternative for UIPageViewController built using power of generic types. Swipe between pages with an interactive title navigation control. Configure horizontal or vertical chains for unlimited pages amount.
+*   [SlideController (⭐421)](https://github.com/touchlane/SlideController) - It is a nice alternative for UIPageViewController built using power of generic types. Swipe between pages with an interactive title navigation control. Configure horizontal or vertical chains for unlimited pages amount.
 
-## [10. Awesome Charting](/content/zingchart/awesome-charting/README.md)
+## [11. Awesome Charting](/content/zingchart/awesome-charting/README.md)
 
 ### Framework-Specific Libraries / React
 
 *   [Potion](http://numberpicture.com/build) - Low-level building blocks for constructing animated visualizations with React & D3.
 
-## [11. Awesome Research](/content/emptymalei/awesome-research/README.md)
+## [12. Awesome Research](/content/emptymalei/awesome-research/README.md)
 
 ### Investigate Papers / HTML+CSS+JS
 
 *   [Peerus](https://peer.us/): Monitor specific topics or journal for new and relevant papers.
 
-## [12. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
+## [13. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
 ### Related projects / Syntax highlighting packages
 
 *   [Digitized Speech in Game Boy Games](https://youtube.com/watch?v=1lzHfLYzyRM)
 
-## [13. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
+## [14. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
 
 ### R / Time Series
 
-*   [tibbletime (⭐180)](https://github.com/business-science/tibbletime) - Built on top of the tidyverse, tibbletime is an extension that allows for the creation of time aware tibbles through the setting of a time index.
+*   [tibbletime (⭐178)](https://github.com/business-science/tibbletime) - Built on top of the tidyverse, tibbletime is an extension that allows for the creation of time aware tibbles through the setting of a time index.
 
-## [14. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
+## [15. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 
 ### Serverless Framework Plugins
 
 *   [Nocode (⭐10)](https://github.com/ServerlessOpsIO/serverless-nocode) - Deploy nocode via the Serverless Framework.
 
-## [15. Awesome Ripple](/content/vhpoet/awesome-ripple/README.md)
+## [16. Awesome Ripple](/content/vhpoet/awesome-ripple/README.md)
 
 ### Code
 
@@ -180,7 +186,7 @@
 
 *   [XRP Tip Bot for Reddit, Twitter & Discord](https://xrptipbot.com)
 
-## [16. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)
+## [17. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)
 
 ### Layout
 
@@ -566,17 +572,6 @@
   Demo: <img src="https://github.com/wasabeef/awesome-android-ui/raw/master/art/Rotatable.gif" width="100%">
 
 
-
-## [17. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Resources / Examples
-
-*   [laravel-vue-boilerplate (⭐541)](https://github.com/alefesouza/laravel-vue-boilerplate) - A Laravel 5.5 SPA boilerplate with a users CRUD using Vue.js 2.5, Bootstrap 4, TypeScript, Sass, Pug and Jest.
-*   [Vue Design System (⭐2.2k)](https://github.com/viljamis/vue-design-system) - An open source boilerplate for building UI Design Systems with Vue.js.
-
-### Projects Using Vue.js / Open Source
-
-*   [Leo Vue (⭐165)](https://github.com/kaleguy/leovue) - Use the open source Leo outlining editor/IDE to create webapps with nested menus, with support for Vue components in content.
 
 ---
 

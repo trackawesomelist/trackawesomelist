@@ -10,8 +10,8 @@
 
 ### Resources / Blog posts
 
-*   [DuckDB vs Polars vs Spark!](https://www.karnwong.me/posts/2023/04/duckdb-vs-polars-vs-spark/) - An article that performs a benchmark against duckdb/Polars/spark, with varying row count, with swap usage as another metric, in addition to runtime in seconds. Code used is available on Github [here (⭐4)](https://github.com/kahnwong/dataframe-frameworks-showdown).
-*   [Benchmarking PySpark Pandas, Pandas UDFs, and Fugue Polars](https://medium.com/fugue-project/benchmarking-pyspark-pandas-pandas-udfs-and-fugue-polars-198c3109a226) - A blog post that compares the execution time of [fugue (⭐1.9k)](https://github.com/fugue-project/fugue/) + Polars, Pandas UDFs and PySpark Pandas by [@kvnkho](https://github.com/kvnkho).
+*   [DuckDB vs Polars vs Spark!](https://www.karnwong.me/posts/2023/04/duckdb-vs-polars-vs-spark/) - An article that performs a benchmark against duckdb/Polars/spark, with varying row count, with swap usage as another metric, in addition to runtime in seconds. Code used is available on Github [here (⭐6)](https://github.com/kahnwong/dataframe-frameworks-showdown).
+*   [Benchmarking PySpark Pandas, Pandas UDFs, and Fugue Polars](https://medium.com/fugue-project/benchmarking-pyspark-pandas-pandas-udfs-and-fugue-polars-198c3109a226) - A blog post that compares the execution time of [fugue (⭐2k)](https://github.com/fugue-project/fugue/) + Polars, Pandas UDFs and PySpark Pandas by [@kvnkho](https://github.com/kvnkho).
 *   [Pandas vs. Polars: The Battle of Performance](https://www.makeuseof.com/pandas-vs-polars-which-is-better/) - An another blog post that compares the performance between Pandas and Polars across a range of common data manipulation tasks by [@makeuseofcode](https://github.com/makeuseofcode). Code used is available on [Github (⭐0)](https://github.com/makeuseofcode/Polars-vs-Pandas-Comparison).
 
 ## [2. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
@@ -24,35 +24,21 @@
 
 ### IoC
 
-*   [Microsoft.Extensions.DependencyInjection (⭐15k)](https://github.com/dotnet/runtime/tree/main/src/libraries/Microsoft.Extensions.DependencyInjection) - The default IoC container for NET applications.
+*   [Microsoft.Extensions.DependencyInjection (⭐16k)](https://github.com/dotnet/runtime/tree/main/src/libraries/Microsoft.Extensions.DependencyInjection) - The default IoC container for NET applications.
 
 ### OpenAI
 
-*   [Cledev.OpenAI (⭐108)](https://github.com/lucabriguglia/Cledev.OpenAI) - .NET SDK for OpenAI which includes ChatGPT, DALL-E and Whisper APIs and a Blazor Server playground.
+*   [Cledev.OpenAI (⭐117)](https://github.com/lucabriguglia/Cledev.OpenAI) - .NET SDK for OpenAI which includes ChatGPT, DALL-E and Whisper APIs and a Blazor Server playground.
 
 ## [4. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
 ### Job boards
 
 *   [PyJobs.com](https://www.pyjobs.com/?remoteLevel\[0]=1\&remoteLevel\[1]=2) - Jobs for Python developers
-*   [Remotewide](https://remotewide.co/) - Find remote jobs with location independent pay
-
-### Interviewing
-
-*   [Meetapro](https://meetapro.com/) - An Airbnb style mock interview platform with top FAANG interviewers
-
-### Newsletters
-
-*   [Figures](https://joinfigures.com) - Set your salary requirement and receive remote jobs that pay more
 
 ### Companies with "remote DNA"
 
-*   [Custimy](https://jobs.custimy.io/) - Customer Data Platform for e-commerce. Jobs with Spark, Python, Terraform, AWS, Node and more. EU timezone. HQ in Copenhagen with colleagues all over Europe. Fully remote allowed. Company gatherings and optional travel.
 *   [Iterative](https://iterative.notion.site/Iterative-ai-is-Hiring-852cb978129645e1906e2c9a878a4d22) - ML Model Development for teams. Remotely worldwide
-
-### Communities
-
-*   [Invide](https://invidelabs.com/developer.html) - Invite-only community of experienced remote developers since 2016. Also has a [public discord community](https://dsc.gg/invide) for newbies.
 
 ## [5. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 

@@ -16,11 +16,11 @@
 
 ### Framework Components
 
-*   [rummage\_ecto (⭐211)](https://github.com/Excipients/rummage_ecto) - A configurable framework to search, sort and paginate Ecto Queries.
+*   [rummage\_ecto (⭐212)](https://github.com/Excipients/rummage_ecto) - A configurable framework to search, sort and paginate Ecto Queries.
 
 ### ORM and Datamapping
 
-*   [mongodb\_ecto (⭐365)](https://github.com/michalmuskala/mongodb_ecto) - MongoDB adapter for Ecto.
+*   [mongodb\_ecto (⭐374)](https://github.com/michalmuskala/mongodb_ecto) - MongoDB adapter for Ecto.
 
 ## [3. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 
@@ -47,7 +47,7 @@ Webpage: <https://metalab.at>
 
 ### Images, Maps and Charts / Paid Books
 
-*   [AnyChart-jQuery (⭐12)](https://github.com/AnyChart/AnyChart-jQuery) - Plugin for easily using AnyChart JavaScript charting library with jQuery.
+*   [AnyChart-jQuery (⭐13)](https://github.com/AnyChart/AnyChart-jQuery) - Plugin for easily using AnyChart JavaScript charting library with jQuery.
 
 ## [6. Awesome Network Js](/content/Kikobeats/awesome-network-js/README.md)
 
@@ -82,7 +82,7 @@ Webpage: <https://metalab.at>
 
 ### Other Useful Repositories
 
-- Repository: [PayloadsAllTheThings (⭐59k)](https://github.com/swisskyrepo/PayloadsAllTheThings)
+- Repository: [PayloadsAllTheThings (⭐63k)](https://github.com/swisskyrepo/PayloadsAllTheThings)
 
   Description: List of useful payloads and bypass for Web Application Security and Pentest/CTF
 

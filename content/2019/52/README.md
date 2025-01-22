@@ -10,7 +10,7 @@
 
 ### Projects
 
-*   [yew-react-example (⭐63)](https://github.com/hobofan/yew-react-example) - This project shows how to create a web app using a React component inside a Yew component.
+*   [yew-react-example (⭐65)](https://github.com/hobofan/yew-react-example) - This project shows how to create a web app using a React component inside a Yew component.
 
 ### Crates / Wasm
 
@@ -20,9 +20,9 @@
 
 ### Software / Make your life easier
 
-*   [Kiwi TCMS (⭐935)](https://github.com/kiwitcms/Kiwi) - Open Source test case management system.
-*   [Captura (⭐9.4k)](https://github.com/MathewSachin/Captura) - Open Source video recording tool.
-*   [QA Wolf (⭐3.3k)](https://github.com/qawolf/qawolf) - Open Source Node.js library for creating browser tests 10x faster.
+*   [Kiwi TCMS (⭐1k)](https://github.com/kiwitcms/Kiwi) - Open Source test case management system.
+*   [Captura (⭐10k)](https://github.com/MathewSachin/Captura) - Open Source video recording tool.
+*   [QA Wolf (⭐3.4k)](https://github.com/qawolf/qawolf) - Open Source Node.js library for creating browser tests 10x faster.
 
 ## [3. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
@@ -159,7 +159,7 @@
 
 ### Talks
 
-*   [Meeting Cpp](https://www.youtube.com/user/MeetingCPP/videos) - Meeting C++ Youtube Channel
+*   [Meeting Cpp](https://www.youtube.com/user/MeetingCPP/videos) - Meeting C++ YouTube Channel
 
 ## [11. Awesome Linguistics](/content/theimpossibleastronaut/awesome-linguistics/week/README.md)
 
@@ -189,73 +189,68 @@
 
 ### Asset Management
 
-*   🍰 [AssetCompress plugin (⭐370)](https://github.com/markstory/asset_compress) - A complete asset manager for CakePHP.
+*   [AssetCompress plugin (⭐370)](https://github.com/markstory/asset_compress) - A complete asset manager for CakePHP.
 
 ### Auditing / Logging
 
-*   🍰 [DatabaseLog plugin (⭐43)](https://github.com/dereuromark/CakePHP-DatabaseLog) - Simple and stand-alone logging to database instead of files.
+*   [DatabaseLog plugin (⭐43)](https://github.com/dereuromark/CakePHP-DatabaseLog) - Simple and stand-alone logging to database instead of files.
 
 ### Authentication and Authorization
 
-*   🍰 [Authentication plugin (⭐114)](https://github.com/cakephp/authentication) - Official CakePHP authentication middleware plugin.
-*   🍰 [Authorization plugin (⭐74)](https://github.com/cakephp/authorization) - Official CakePHP authorization stack.
-*   🍰 [TinyAuth plugin (⭐128)](https://github.com/dereuromark/cakephp-tinyauth) - Authentication and role-based (single/multi) authorization as very light-weight approach.
+*   [Authentication plugin (⭐116)](https://github.com/cakephp/authentication) - Official CakePHP authentication middleware plugin.
+*   [Authorization plugin (⭐75)](https://github.com/cakephp/authorization) - Official CakePHP authorization stack.
+*   [TinyAuth plugin (⭐126)](https://github.com/dereuromark/cakephp-tinyauth) - Authentication and role-based (single/multi) authorization as very light-weight approach.
 
 ### Code Analysis
 
-*   🍰 [IdeHelper plugin (⭐182)](https://github.com/dereuromark/cakephp-ide-helper) - Helps to make IDE support better by adding annotations to your existing code similar to what baking does to new code.
-*   🍰 [TestHelper plugin (⭐7)](https://github.com/dereuromark/cakephp-test-helper) - Provides testing enhancements and TDD support as browser backend.
+*   [IdeHelper plugin (⭐186)](https://github.com/dereuromark/cakephp-ide-helper) - Helps to make IDE support better by adding annotations to your existing code similar to what baking does to new code.
+*   [TestHelper plugin (⭐7)](https://github.com/dereuromark/cakephp-test-helper) - Provides testing enhancements and TDD support as browser backend.
 
 ### Queue
 
-*   🍰 [Queue plugin (⭐302)](https://github.com/dereuromark/cakephp-queue) - A minimal and dependency-free queue solution.
-
-### File Manipulation
-
-*   [Josbeir/Filesystem plugin (⭐20)](https://github.com/josbeir/cakephp-filesystem) - Abstract [Flysystem](https://flysystem.thephpleague.com/) + file entity based upload plugin.
+*   [Queue plugin (⭐308)](https://github.com/dereuromark/cakephp-queue) - A minimal and dependency-free queue solution.
 
 ### I18n
 
-*   🍰 [ADmad/I18n plugin (⭐43)](https://github.com/ADmad/cakephp-i18n) - A plugin with I18n related tools.
+*   [ADmad/I18n plugin (⭐44)](https://github.com/ADmad/cakephp-i18n) - A plugin with I18n related tools.
 
 ### Imagery
 
-*   🍰 [ADmad/Glide plugin (⭐34)](https://github.com/ADmad/cakephp-glide) - A plugin for using [Glide](https://glide.thephpleague.com/) image manipulation library.
+*   [ADmad/Glide plugin (⭐35)](https://github.com/ADmad/cakephp-glide) - A plugin for using [Glide](https://glide.thephpleague.com/) image manipulation library.
 
 ### Migration
 
-*   🍰 [Upgrade app (⭐109)](https://github.com/cakephp/upgrade) - Official upgrade app for 3.x=>4.x and 4.x=>5.x.
+*   [Upgrade app (⭐110)](https://github.com/cakephp/upgrade) - Official upgrade app for 3.x=>4.x and 4.x=>5.x.
 
 ### Miscellaneous
 
-*   🍰 [CakeDto plugin (⭐24)](https://github.com/dereuromark/cakephp-dto) - Quickly generate useful data transfer objects for your app (mutable/immutable), replacing messy arrays and leveraging your IDE through typehinting and autocomplete.
-*   🍰 [Flash plugin (⭐12)](https://github.com/dereuromark/cakephp-flash) - More powerful flash messages for your application.
-*   🍰 [Shim plugin (⭐37)](https://github.com/dereuromark/cakephp-shim) - A plugin containing useful shims and improvements as basis for your application.
+*   [CakeDto plugin (⭐24)](https://github.com/dereuromark/cakephp-dto) - Quickly generate useful data transfer objects for your app (mutable/immutable), replacing messy arrays and leveraging your IDE through typehinting and autocomplete.
+*   [Flash plugin (⭐12)](https://github.com/dereuromark/cakephp-flash) - More powerful flash messages for your application.
+*   [Shim plugin (⭐37)](https://github.com/dereuromark/cakephp-shim) - A plugin containing useful shims and improvements as basis for your application.
 
 ### ORM / Database / Datamapping
 
-*   🍰 [ADmad/Sequence plugin (⭐44)](https://github.com/ADmad/cakephp-sequence) - Behavior for maintaining ordered list of records.
-*   🍰 [Duplicatable plugin (⭐50)](https://github.com/riesenia/cakephp-duplicatable) - Behavior for duplicating entities including related data.
-*   🍰 [Muffin/Orderly plugin (⭐22)](https://github.com/usemuffin/orderly) - Allows setting default order for your tables.
-*   [Muffin/Webservices ORM plugin (⭐89)](https://github.com/usemuffin/webservice) - An ORM like interface for webservices.
+*   [ADmad/Sequence plugin (⭐44)](https://github.com/ADmad/cakephp-sequence) - Behavior for maintaining ordered list of records.
+*   [Duplicatable plugin (⭐52)](https://github.com/riesenia/cakephp-duplicatable) - Behavior for duplicating entities including related data.
+*   [Muffin/Orderly plugin (⭐22)](https://github.com/usemuffin/orderly) - Allows setting default order for your tables.
 
 ### PDF
 
-*   🍰 [CakePdf plugin (⭐374)](https://github.com/FriendsOfCake/CakePdf) - A plugin around PDF generation.
+*   [CakePdf plugin (⭐373)](https://github.com/FriendsOfCake/CakePdf) - A plugin around PDF generation.
 
 ### Security
 
-*   🍰 [Muffin/Throttle plugin (⭐62)](https://github.com/usemuffin/throttle) - A plugin for rate limiting (API) requests.
+*   [Muffin/Throttle plugin (⭐63)](https://github.com/usemuffin/throttle) - A plugin for rate limiting (API) requests.
 
 ### SEO
 
-*   🍰 [Muffin/Slug plugin (⭐35)](https://github.com/UseMuffin/Slug) - A plugin for generating slugs and finding records by slug. Uses a pluggable architecture which allows using your own slug generator class.
+*   [Muffin/Slug plugin (⭐35)](https://github.com/UseMuffin/Slug) - A plugin for generating slugs and finding records by slug. Uses a pluggable architecture which allows using your own slug generator class.
 
 ### Templating
 
-*   🍰 [Bake plugin (⭐110)](https://github.com/cakephp/bake) - Provides code generation functionality.
-*   🍰 [BootstrapUI plugin (⭐339)](https://github.com/friendsofcake/bootstrap-ui) - Bootstrap 4/5 integration.
-*   🍰 [CsvView plugin (⭐175)](https://github.com/FriendsOfCake/cakephp-csvview) - A view class to easily generate CSV.
+*   [Bake plugin (⭐111)](https://github.com/cakephp/bake) - Provides code generation functionality.
+*   [BootstrapUI plugin (⭐340)](https://github.com/friendsofcake/bootstrap-ui) - Bootstrap 4/5 integration.
+*   [CsvView plugin (⭐177)](https://github.com/FriendsOfCake/cakephp-csvview) - A view class to easily generate CSV.
 
 ## [16. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
@@ -338,13 +333,11 @@
 *   [appveyor.com](https://www.appveyor.com/) — CD service for Windows, free for Open Source
 *   [bitrise.io](https://www.bitrise.io/) — A CI/CD for mobile apps, native or hybrid. With 200 free builds/month 10 min build time and two team members. OSS projects get 45 min build time, +1 concurrency and unlimited team size.
 *   [buddy.works](https://buddy.works/) — A CI/CD with five free projects and one concurrent run (120 executions/month)
-*   [buddybuild.com](https://www.buddybuild.com/) — Build, deploy, and gather feedback for your iOS and Android apps in one seamless, iterative system
 *   [deployhq.com](https://www.deployhq.com/) — 1 project with ten daily deployments (30 build minutes/month)
 
 ### Testing
 
 *   [browserstack.com](https://www.browserstack.com/) — Manual and automated browser testing, [free for Open Source](https://www.browserstack.com/open-source?ref=pricing)
-*   [crossbrowsertesting.com](https://crossbrowsertesting.com) - Manual, Visual, and Selenium Browser Testing in the cloud - [free for Open Source](https://crossbrowsertesting.com/open-source)
 *   [everystep-automation.com](https://www.everystep-automation.com/) — Records and replays all steps made in a web browser and creates scripts, free with fewer options
 *   [gridlastic.com](https://www.gridlastic.com/) — Selenium Grid testing with a free plan of up to 4 simultaneous selenium nodes/10 grid starts/4,000 test minutes/month
 *   [testingbot.com](https://testingbot.com/) — Selenium Browser and Device Testing, [free for Open Source](https://testingbot.com/open-source)
@@ -383,7 +376,6 @@
 
 *   [appdynamics.com](https://www.appdynamics.com/) — Free for 24-hour metrics, application performance management agents limited to one Java, one .NET, one PHP, and one Node.js
 *   [assertible.com](https://assertible.com) — Automated API testing and monitoring. Free plans for teams and individuals.
-*   [circonus.com](https://www.circonus.com/) — Free for 20 metrics
 *   [cloudsploit.com](https://cloudsploit.com) — AWS security and configuration monitoring. Free: unlimited on-demand scans, unlimited users, unlimited stored accounts. Subscription: automated scanning, API access, etc.
 *   [datadoghq.com](https://www.datadoghq.com/) — Free for up to 5 nodes
 *   [elastic.co](https://www.elastic.co/solutions/apm) — Instant performance insights for JS developers. Free with 24-hour data retention
@@ -501,7 +493,6 @@
 *   [pivotaltracker.com](https://www.pivotaltracker.com/) — Free for unlimited public projects and two private projects with three total active users (read-write) and unlimited passive users (read-only).
 *   [plan.io](https://plan.io/) — Project Management with Repository Hosting and more options. Free for two users with ten customers and 500MB Storage
 *   [planitpoker.com](https://www.planitpoker.com/) — Free online planning poker (estimation tool)
-*   [SpeedBoard](https://speedboard.app) - Board for Agile and Scrum retrospectives - Free.
 *   [Tadum](https://tadum.app) - Meeting agenda and minutes app designed for recurring meetings, free for teams of up to 10
 *   [taskade.com](https://www.taskade.com/) — Real-time collaborative task lists and team outlines. The free plan has one workspace with unlimited tasks and projects; 1GB file storage; 1-week project history; and five attendees per video meeting.
 *   [testlio.com](https://testlio.com/) — Issue tracking, test management and beta testing platform. Free for private use
@@ -515,7 +506,6 @@
 *   [kraken.io](https://kraken.io/) — Image optimization for website performance as a service, free plan up to 1 MB file size
 *   [otixo.com](https://www.otixo.com/) — Encrypt, share, copy, and move all your cloud storage files from one place. The basic plan provides unlimited file transfer with 250 MB max. file size and allows five encrypted files
 *   [packagecloud.io](https://packagecloud.io/) — Hosted Package Repositories for YUM, APT, RubyGem and PyPI.  Limited free plans and open-source plans are available via request
-*   [piio.co](https://piio.co/) — Responsive image optimization and delivery for every website. Free plan for developers and personal websites. Includes free CDN, WebP, and Lazy Loading out of the box.
 *   [placekitten.com](https://placekitten.com/) — A quick and simple service for getting pictures of kittens for use as placeholders
 *   [plot.ly](https://plot.ly/) — Graph and share your data. The free tier includes unlimited public files and ten private files
 *   [podio.com](https://podio.com/) — You can use Podio with a team of up to five people and try out the features of the Basic Plan, except user management
@@ -531,7 +521,7 @@
 *   [landen.co](https://www.landen.co) — Generate, edit, and publish beautiful websites and landing pages for your startup. All without code. The free tier allows you to have one website, fully customizable and published on the web.
 *   [lensdump.com](https://lensdump.com/) - Free cloud image hosting.
 *   [marvelapp.com](https://marvelapp.com/) — Design, prototyping, and collaboration, free plan limited to one user and project.
-*   [Pencil (⭐9k)](https://github.com/evolus/pencil) - Open source design tool using Electron.
+*   [Pencil (⭐9.1k)](https://github.com/evolus/pencil) - Open source design tool using Electron.
 *   [pexels.com](https://www.pexels.com/) - Free stock photos for commercial use. Has a free API that allows you to search photos by keywords.
 *   [photopea.com](https://www.photopea.com) — A Free, Advanced online design editor with Adobe Photoshop UI supporting PSD, XCF & Sketch formats (Adobe Photoshop, Gimp and Sketch App).
 *   [pixlr.com](https://pixlr.com/) — Free online browser editor on the level of commercial ones.
@@ -578,7 +568,6 @@
 ### Visitor Session Recording
 
 *   [hotjar.com](https://www.hotjar.com/) — Per site: 1,050 pages views/month, unlimited heatmaps, data stored for three months
-*   [usersurge.com](https://www.usersurge.com/) — 250K sessions per month for individuals.
 
 ### Payment and Billing Integration
 
@@ -591,7 +580,6 @@
 ### Miscellaneous
 
 *   [FOSSA](https://fossa.com/) - Scalable, end-to-end management for third-party code, license compliance and vulnerabilities.
-*   [ReqBin](https://www.reqbin.com/) — Post HTTP Requests Online. Popular Request Methods include GET, POST, PUT, DELETE, and HEAD. Supports Headers and Token Authentication. Includes a basic login system for saving your requests.
 *   [superfeedr.com](https://superfeedr.com/) — Real-time PubSubHubbub compliant feeds, export, analytics. Free with less customization
 *   [SurveyMonkey.com](https://www.surveymonkey.com) — Create online surveys. Analyze the results online. The free plan allows only 10 questions and 100 responses per survey.
 
@@ -600,7 +588,7 @@
 ### Web Development
 
 *   **Tools**:
-    *   [COW (⭐106)](https://github.com/mirage/ocaml-cow) – Caml on the Web (COW) is a set of parsers and syntax extensions to let you manipulate HTML, CSS, XML, JSON and Markdown directly from OCaml code.
+    *   [COW (⭐107)](https://github.com/mirage/ocaml-cow) – Caml on the Web (COW) is a set of parsers and syntax extensions to let you manipulate HTML, CSS, XML, JSON and Markdown directly from OCaml code.
     *   [Ocamlnet](http://projects.camlcity.org/projects/ocamlnet.html)
         has many relevant web libraries —
         [Nethtml](http://projects.camlcity.org/projects/dl/ocamlnet-4.0.4/doc/html-main/Nethtml.html)
@@ -617,17 +605,17 @@
     *   [js\_of\_ocaml](http://ocsigen.org/js_of_ocaml) – Js\_of\_ocaml is a compiler of OCaml bytecode to Javascript. It makes it possible to run Ocaml programs in a Web browser.
         *   [commonjs\_of\_ocaml (⭐13)](https://github.com/AngryLawyer/commonjs_of_ocaml) - Easily import and export CommonJS modules from a js\_of\_ocaml project.
     *   [ReScript](https://rescript-lang.org/) - ReScript is a robustly typed language that compiles to efficient and human-readable JavaScript.
-    *   [ocaml-uri (⭐97)](https://github.com/mirage/ocaml-uri) – RFC3986 URI parsing library.
+    *   [ocaml-uri (⭐98)](https://github.com/mirage/ocaml-uri) – RFC3986 URI parsing library.
     *   [Goji (⭐44)](https://github.com/klakplok/goji) – An OCaml bindings generator for JavaScript libraries.
     *   [Syndic (⭐34)](https://github.com/Cumulus/Syndic) – RSS and Atom feed parsing
-    *   [ocaml-mustache (⭐82)](https://github.com/rgrinberg/ocaml-mustache) – mustache.js logic-less templates in OCaml.
+    *   [ocaml-mustache (⭐83)](https://github.com/rgrinberg/ocaml-mustache) – mustache.js logic-less templates in OCaml.
     *   [atdjs (⭐9)](https://github.com/barko/atdjs) – atd code generator (serialization) for OCaml/js\_of\_ocaml.
-    *   [jingoo (⭐124)](https://github.com/tategakibunko/jingoo) – OCaml template engine almost compatible with jinja2.
-    *   [dispatch (⭐47)](https://github.com/inhabitedtype/ocaml-dispatch) – Path-based dispatching for client- and server-side applications.
-    *   [Lambda Soup (⭐378)](https://github.com/aantron/lambda-soup) - Functional HTML scraping and manipulation with CSS selectors, à la Python's Beautiful Soup.
+    *   [jingoo (⭐126)](https://github.com/tategakibunko/jingoo) – OCaml template engine almost compatible with jinja2.
+    *   [dispatch (⭐46)](https://github.com/inhabitedtype/ocaml-dispatch) – Path-based dispatching for client- and server-side applications.
+    *   [Lambda Soup (⭐383)](https://github.com/aantron/lambda-soup) - Functional HTML scraping and manipulation with CSS selectors, à la Python's Beautiful Soup.
     *   [Markup.ml (⭐146)](https://github.com/aantron/markup.ml) - Error-recovering streaming HTML5 and XML parsers, serializers.
     *   [gen\_js\_api (⭐176)](https://github.com/LexiFi/gen_js_api) - gen\_js\_api aims at simplifying the creation of OCaml bindings for Javascript libraries.
-    *   [routes (⭐140)](https://github.com/anuragsoni/routes) - Typed routes for OCaml/ReasonML web applications.
+    *   [routes (⭐144)](https://github.com/anuragsoni/routes) - Typed routes for OCaml/ReasonML web applications.
 
 ## [20. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/week/README.md)
 
@@ -687,7 +675,7 @@
 
 ### Database / Text-Based User Interfaces
 
-*   [Leaf (⭐6.3k)](https://github.com/Meituan-Dianping/Leaf) - Distributed ID generate service.
+*   [Leaf (⭐6.5k)](https://github.com/Meituan-Dianping/Leaf) - Distributed ID generate service.
 
 ### Messaging / Text-Based User Interfaces
 
@@ -700,13 +688,13 @@
 
 ### REST Frameworks / Other
 
-*   [springdoc-openapi (⭐3.2k)](https://github.com/springdoc/springdoc-openapi) - Automates the generation of API documentation using Spring Boot projects.
+*   [springdoc-openapi (⭐3.3k)](https://github.com/springdoc/springdoc-openapi) - Automates the generation of API documentation using Spring Boot projects.
 
 ## [26. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
 
 ### Tools
 
-*   [formik-antd (⭐566)](https://github.com/jannikbuschke/formik-antd) - Declarative bindings for the popular form state management library Formik.
+*   [formik-antd (⭐591)](https://github.com/jannikbuschke/formik-antd) - Declarative bindings for the popular form state management library Formik.
 
 ## [27. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
 
@@ -730,20 +718,20 @@
 
 ### GitHub Tools and Management / Docker Container Actions
 
-*   [Generate release notes based on your events (⭐85)](https://github.com/Decathlon/release-notes-generator-action)
-*   [Create a GitHub wiki page based on the provided markdown file (⭐73)](https://github.com/Decathlon/wiki-page-creator-action)
-*   [Label your Pull Requests auto-magically (using committed files) (⭐85)](https://github.com/Decathlon/pull-request-labeler-action)
-*   [Add Label to your Pull Requests based on the author team name (⭐40)](https://github.com/JulienKode/team-labeler-action)
+*   [Generate release notes based on your events (⭐115)](https://github.com/Decathlon/release-notes-generator-action)
+*   [Create a GitHub wiki page based on the provided markdown file (⭐94)](https://github.com/Decathlon/wiki-page-creator-action)
+*   [Label your Pull Requests auto-magically (using committed files) (⭐95)](https://github.com/Decathlon/pull-request-labeler-action)
+*   [Add Label to your Pull Requests based on the author team name (⭐49)](https://github.com/JulienKode/team-labeler-action)
 
 ### Utility / Docker Container Actions
 
-*   [awesome-lint as a GitHub Action (⭐17)](https://github.com/max/awesome-lint)
-*   [Edit JSON File (⭐10)](https://github.com/deef0000dragon1/json-edit-action)
-*   [Build Slate documentation (⭐15)](https://github.com/Decathlon/slate-builder-action)
+*   [awesome-lint as a GitHub Action (⭐20)](https://github.com/max/awesome-lint)
+*   [Edit JSON File (⭐12)](https://github.com/deef0000dragon1/json-edit-action)
+*   [Build Slate documentation (⭐18)](https://github.com/Decathlon/slate-builder-action)
 
 ### Deployment / Code Coverage
 
-*   [Build and deploy a theme to Ghost CMS (⭐295)](https://github.com/TryGhost/action-deploy-theme)
+*   [Build and deploy a theme to Ghost CMS (⭐352)](https://github.com/TryGhost/action-deploy-theme)
 
 ## [31. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
@@ -756,28 +744,28 @@
 
 ### Monitoring/Statistics/Perfomance / Samples
 
-*   [Percona Monitoring and Management (⭐573)](https://github.com/percona/pmm) - Open source platform for managing and monitoring MySQL and MongoDB performance.
+*   [Percona Monitoring and Management (⭐712)](https://github.com/percona/pmm) - Open source platform for managing and monitoring MySQL and MongoDB performance.
 
 ### HA/Failover/Sharding / Zabbix
 
-*   [Citus (⭐10k)](https://github.com/citusdata/citus) - Postgres extension that distributes your data and your queries across multiple nodes.
-*   [patroni (⭐6.4k)](https://github.com/zalando/patroni) - A template for PostgreSQL High Availability with ZooKeeper, etcd, or Consul.
-*   [Percona XtraDB Cluster (⭐339)](https://github.com/percona/percona-xtradb-cluster) - A High Scalability Solution for MySQL Clustering and High Availability.
-*   [stolon (⭐4.6k)](https://github.com/sorintlab/stolon) - Cloud native PostgreSQL manager for PostgreSQL high availability.
+*   [Citus (⭐11k)](https://github.com/citusdata/citus) - Postgres extension that distributes your data and your queries across multiple nodes.
+*   [patroni (⭐7k)](https://github.com/zalando/patroni) - A template for PostgreSQL High Availability with ZooKeeper, etcd, or Consul.
+*   [Percona XtraDB Cluster (⭐342)](https://github.com/percona/percona-xtradb-cluster) - A High Scalability Solution for MySQL Clustering and High Availability.
+*   [stolon (⭐4.7k)](https://github.com/sorintlab/stolon) - Cloud native PostgreSQL manager for PostgreSQL high availability.
 *   [pg\_auto\_failover (⭐1.1k)](https://github.com/citusdata/pg_auto_failover) - Postgres extension and service for automated failover and high-availability.
-*   [pglookout (⭐182)](https://github.com/aiven/pglookout) - PostgreSQL replication monitoring and failover daemon.
-*   [PostgreSQL Automatic Failover (⭐334)](https://github.com/ClusterLabs/PAF) - High-Availibility for Postgres, based on industry references Pacemaker and Corosync.
+*   [pglookout (⭐183)](https://github.com/aiven/pglookout) - PostgreSQL replication monitoring and failover daemon.
+*   [PostgreSQL Automatic Failover (⭐342)](https://github.com/ClusterLabs/PAF) - High-Availibility for Postgres, based on industry references Pacemaker and Corosync.
 
 ### Kubernetes / Zabbix
 
 *   [KubeDB](https://kubedb.com) - Making running production-grade databases easy on Kubernetes.
-*   [Postgres operator (⭐4.1k)](https://github.com/zalando/postgres-operator) - The Postgres Operator enables highly-available PostgreSQL clusters on Kubernetes (K8s) powered by Patroni.
-*   [Spilo (⭐1.5k)](https://github.com/zalando/spilo) - HA PostgreSQL Clusters with Docker.
+*   [Postgres operator (⭐4.5k)](https://github.com/zalando/postgres-operator) - The Postgres Operator enables highly-available PostgreSQL clusters on Kubernetes (K8s) powered by Patroni.
+*   [Spilo (⭐1.6k)](https://github.com/zalando/spilo) - HA PostgreSQL Clusters with Docker.
 *   [StackGres](https://gitlab.com/ongresinc/stackgres) - Enterprise-grade, Full Stack PostgreSQL on Kubernetes.
 
 ### Configuration Tuning / Zabbix
 
-*   [pgtune (⭐1k)](https://github.com/gregs1104/pgtune) - PostgreSQL configuration wizard.
+*   [pgtune (⭐1.1k)](https://github.com/gregs1104/pgtune) - PostgreSQL configuration wizard.
 
 ## [33. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
@@ -822,14 +810,14 @@
 
 ### Other Hardware
 
-*   [NFCPassportReader (⭐733)](https://github.com/AndyQ/NFCPassportReader) - Swift library  to read an NFC enabled passport. Supports BAC, Secure Messaging, and both active and passive authentication. Requires iOS 13 or above.
+*   [NFCPassportReader (⭐773)](https://github.com/AndyQ/NFCPassportReader) - Swift library  to read an NFC enabled passport. Supports BAC, Secure Messaging, and both active and passive authentication. Requires iOS 13 or above.
 
 ## [39. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/week/README.md)
 
 ### Visualization / Mesh tools
 
 *   [PyVista](https://docs.pyvista.org/) - 3D plotting and mesh analysis through a streamlined interface for VTK.
-    (Python, MIT, [GitHub (⭐2.2k)](https://github.com/pyvista/pyvista))
+    (Python, MIT, [GitHub (⭐2.8k)](https://github.com/pyvista/pyvista))
 
 ## [40. Awesome Actions on Google](/content/ravirupareliya/awesome-actions-on-google/week/README.md)
 
@@ -850,7 +838,7 @@
 
 ### 3D
 
-*   [3DreamEngine (⭐370)](https://github.com/3dreamengine/3DreamEngine) - An awesome 3D engine for LÖVE.
+*   [3DreamEngine (⭐404)](https://github.com/3dreamengine/3DreamEngine) - An awesome 3D engine for LÖVE.
 
 ## [42. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 

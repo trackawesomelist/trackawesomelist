@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 20 - Mar 26, 2023
 
-46 awesome lists updated this week.
+45 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Command line interface (CLI) / Terminal / Shell
 
-*   [bartender (⭐48)](https://github.com/tobealive/bartender) - Customizable progress indicators for V terminal applications.
+*   [bartender (⭐52)](https://github.com/tobealive/bartender) - Customizable progress indicators for V terminal applications.
 
 ## [2. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
@@ -18,16 +18,16 @@
 
 *   dvm
     *   [asdf-community/asdf-deno](https://github.com/asdf-community/asdf-deno.git) - Deno plugin for [asdf](https://asdf-vm.com/)
-    *   [justjavac/dvm (⭐625)](https://github.com/justjavac/dvm) - Deno Version Manager: manage multiple active Deno versions.
+    *   [justjavac/dvm (⭐642)](https://github.com/justjavac/dvm) - Deno Version Manager: manage multiple active Deno versions.
     *   [axetroy/dvm (⭐167)](https://github.com/axetroy/dvm) - Version manger for Deno without runtime dependencies.
     *   [dvm.cmd (⭐2)](https://github.com/MarkTiedemann/dvm.cmd) - Deno Version Manager for Windows. Written as a single batch file.
-    *   [ghosind/dvm (⭐34)](https://github.com/ghosind/dvm) - A lightweight Deno Version Manager for Linux/MacOS.
+    *   [ghosind/dvm (⭐40)](https://github.com/ghosind/dvm) - A lightweight Deno Version Manager for Linux/MacOS.
 
 ## [3. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/week/README.md)
 
 ### AppImage developer tools / Deployment tools for .NET Core (Mono) applications
 
-*   [PupNet Deploy (⭐45)](https://github.com/kuiperzone/PupNet-Deploy) - Cross-platform deployment utility which publishes your .NET project and packages it as a ready-to-ship installation file in a single step.
+*   [PupNet Deploy (⭐195)](https://github.com/kuiperzone/PupNet-Deploy) - Cross-platform deployment utility which publishes your .NET project and packages it as a ready-to-ship installation file in a single step.
 
 ## [4. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
@@ -50,70 +50,70 @@
 
 ### Frameworks / Runtimes
 
-*   [Spin (⭐5.1k)](https://github.com/fermyon/spin) - An open source framework for building and running fast, secure, and composable cloud microservices with WebAssembly.
+*   [Spin (⭐5.6k)](https://github.com/fermyon/spin) - An open source framework for building and running fast, secure, and composable cloud microservices with WebAssembly.
 
 ## [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [Pingvin Share (⭐2.7k)](https://github.com/stonith404/pingvin-share) - A self-hosted file sharing platform that combines lightness and beauty, perfect for seamless and efficient file sharing. ([Demo](https://pingvin-share.dev.eliasschneider.com)) `BSD-2-Clause` `Docker/Nodejs`
+*   [Pingvin Share (⭐3.7k)](https://github.com/stonith404/pingvin-share) - A self-hosted file sharing platform that combines lightness and beauty, perfect for seamless and efficient file sharing. ([Demo](https://pingvin-share.dev.eliasschneider.com)) `BSD-2-Clause` `Docker/Nodejs`
 
 ### Software / Money, Budgeting & Management
 
-*   [Budget Zen](https://budgetzen.net) - End-to-end encrypted and simple expense manager. ([Demo](https://app.budgetzen.net), [Source Code (⭐83)](https://github.com/BrunoBernardino/budgetzen-web)) `AGPL-3.0` `Deno`
-*   [Lago](https://www.getlago.com/) - Open-source metering and usage-based billing. ([Source Code (⭐6.7k)](https://github.com/getlago/lago)) `AGPL-3.0` `Docker`
+*   [Budget Zen](https://budgetzen.net) - End-to-end encrypted and simple expense manager. ([Demo](https://app.budgetzen.net), [Source Code (⭐103)](https://github.com/BrunoBernardino/budgetzen-web)) `AGPL-3.0` `Deno`
+*   [Lago](https://www.getlago.com/) - Open-source metering and usage-based billing. ([Source Code (⭐7.2k)](https://github.com/getlago/lago)) `AGPL-3.0` `Docker`
 
 ## [8. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Editor Plugins
 
 *   IntelliJ IDEA
-    *   [intellij-crystal-lang (⭐38)](https://github.com/asedunov/intellij-crystal-lang) - Crystal support for the JetBrains IDEs
+    *   [intellij-crystal-lang (⭐39)](https://github.com/asedunov/intellij-crystal-lang) - Crystal support for the JetBrains IDEs
 
 ## [9. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Authentication & Identity
 
 *   [BoxyHQ Enterprise SSO](https://boxyhq.com) - Open-source API for enterprise SSO and Directory Sync.
-*   [WorkOS](https://workos.com/) - Enterprise SSO and more out-of-the-box enterprise features.
+*   [WorkOS](https://workos.com/) - Enterprise SSO and more out-of-the-box enterprise features. [![featured on launchweek.dev](https://img.shields.io/badge/featured-0D1117.svg?style=flat-square\&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMzYwIiBoZWlnaHQ9IjM2MCIgdmlld0JveD0iMCAwIDM2MCAzNjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+IDxyZWN0IHdpZHRoPSI2MCIgaGVpZ2h0PSIzMDAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjYwIiB5PSIzMDAiIHdpZHRoPSIxMjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjI0MCIgeT0iMzAwIiB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjMwMCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjMwMCIgZmlsbD0id2hpdGUiLz4gPHJlY3QgeD0iMTgwIiB3aWR0aD0iNjAiIGhlaWdodD0iMzAwIiBmaWxsPSJ3aGl0ZSIvPiA8L3N2Zz4=)](https://launchweek.dev)
 
 ### Deployment Hosting
 
-*   [Koyeb](https://www.koyeb.com/) - Serverless platform for deploying full-stack apps and APIs in minutes.
+*   [Koyeb](https://www.koyeb.com/) - Serverless platform for deploying full-stack apps and APIs in minutes. [![featured on launchweek.dev](https://img.shields.io/badge/featured-0D1117.svg?style=flat-square\&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMzYwIiBoZWlnaHQ9IjM2MCIgdmlld0JveD0iMCAwIDM2MCAzNjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+IDxyZWN0IHdpZHRoPSI2MCIgaGVpZ2h0PSIzMDAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjYwIiB5PSIzMDAiIHdpZHRoPSIxMjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjI0MCIgeT0iMzAwIiB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjMwMCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjMwMCIgZmlsbD0id2hpdGUiLz4gPHJlY3QgeD0iMTgwIiB3aWR0aD0iNjAiIGhlaWdodD0iMzAwIiBmaWxsPSJ3aGl0ZSIvPiA8L3N2Zz4=)](https://launchweek.dev)
 
 ## [10. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
 
 ### Misc libraries
 
-*   [karlseguin/log.zig (⭐76)](https://github.com/karlseguin/log.zig) - Structured logging library.
+*   [karlseguin/log.zig (⭐110)](https://github.com/karlseguin/log.zig) - Structured logging library.
 
 ### Network / HTTP
 
-*   [karlseguin/http.zig (⭐455)](https://github.com/karlseguin/http.zig) - HTTP/1.1 server.
+*   [karlseguin/http.zig (⭐726)](https://github.com/karlseguin/http.zig) - HTTP/1.1 server.
 
 ## [11. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Applications
 
-*   [Plural (⭐1.3k)](https://github.com/pluralsh/plural) - Deploys your favorite open source applications like airflow and airbyte in your own cloud account with just two commands.  Written in Elixir and Phoenix Framework for server side, and React for frontend.
+*   [Plural (⭐1.4k)](https://github.com/pluralsh/plural) - Deploys your favorite open source applications like airflow and airbyte in your own cloud account with just two commands.  Written in Elixir and Phoenix Framework for server side, and React for frontend.
 
 ## [12. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Libraries / Artificial Intelligence
 
-*   [zurawiki/tiktoken-rs (⭐234)](https://github.com/zurawiki/tiktoken-rs) \[[tiktoken-rs](https://crates.io/crates/tiktoken-rs)] - Library for tokenizing text with OpenAI models using tiktoken. [![CI](https://github.com/zurawiki/tiktoken-rs/actions/workflows/ci.yml/badge.svg)](https://github.com/zurawiki/tiktoken-rs/actions/workflows/ci.yml)
+*   [zurawiki/tiktoken-rs (⭐282)](https://github.com/zurawiki/tiktoken-rs) \[[tiktoken-rs](https://crates.io/crates/tiktoken-rs)] - Library for tokenizing text with OpenAI models using tiktoken. [![CI](https://github.com/zurawiki/tiktoken-rs/actions/workflows/ci.yml/badge.svg)](https://github.com/zurawiki/tiktoken-rs/actions/workflows/ci.yml)
 
 ## [13. Awesome Userscripts](/content/bvolpato/awesome-userscripts/week/README.md)
 
 ### Scripts / Ads
 
-*   [AntiAdware (⭐202)](https://github.com/handyuserscripts/antiadware) - Remove forced download accelerators, managers, and adware on supported websites.
+*   [AntiAdware (⭐211)](https://github.com/handyuserscripts/antiadware) - Remove forced download accelerators, managers, and adware on supported websites.
 
 ## [14. Awesome Music](/content/ciconia/awesome-music/week/README.md)
 
 ### Music Programming
 
-*   [Sardine (⭐185)](https://github.com/Bubobubobubobubo/sardine) - a music live coding library for Python 3.10+ (MIDI/OSC/SuperCollider).
+*   [Sardine (⭐211)](https://github.com/Bubobubobubobubo/sardine) - a music live coding library for Python 3.10+ (MIDI/OSC/SuperCollider).
 
 ## [15. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
@@ -132,7 +132,7 @@
 
 ### Other / [Other](#other-1)
 
-*   [Credential Digger (⭐311)](https://github.com/SAP/credential-digger) — Credential Digger is a GitHub scanning tool that identifies hardcoded credentials (Passwords, API Keys, Secret Keys, Tokens, personal information, etc),  and filtering the false positive data through a machine learning model called [Password Model](https://huggingface.co/SAPOSS/password-model). This scanner is able to detect passwords and non structured tokens with a low false positive rate.
+*   [Credential Digger (⭐328)](https://github.com/SAP/credential-digger) — Credential Digger is a GitHub scanning tool that identifies hardcoded credentials (Passwords, API Keys, Secret Keys, Tokens, personal information, etc),  and filtering the false positive data through a machine learning model called [Password Model](https://huggingface.co/SAPOSS/password-model). This scanner is able to detect passwords and non structured tokens with a low false positive rate.
 
 ## [18. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/week/README.md)
 
@@ -151,21 +151,21 @@
 
 ### JavaScript Libraries
 
-*   [scure-btc-signer (⭐139)](https://github.com/paulmillr/scure-btc-signer) — audited & minimal library for creating, signing & decoding Bitcoin transactions. With Schnorr, Taproot, UTXO & PSBT.
+*   [scure-btc-signer (⭐169)](https://github.com/paulmillr/scure-btc-signer) — audited & minimal library for creating, signing & decoding Bitcoin transactions. With Schnorr, Taproot, UTXO & PSBT.
 
 ### Swift libraries
 
-*   [secp256k1.swift (⭐103)](https://github.com/GigaBitcoin/secp256k1.swift) - Swift package for secp256k1 applications, includes Elliptic Curve operations, Schnorr, ZKP and more for Bitcoin.
+*   [secp256k1.swift (⭐115)](https://github.com/GigaBitcoin/secp256k1.swift) - Swift package for secp256k1 applications, includes Elliptic Curve operations, Schnorr, ZKP and more for Bitcoin.
 
 ## [20. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
 
 ### CI/CD / Other
 
-*   [Jaypore CI (⭐36)](https://github.com/theSage21/jaypore_ci) - Simple, very flexible, powerful CI / CD / automation system configured in Python. Offline and local first.
+*   [Jaypore CI (⭐37)](https://github.com/theSage21/jaypore_ci) - Simple, very flexible, powerful CI / CD / automation system configured in Python. Offline and local first.
 
 ### Testing / Other
 
-*   [Kurtosis (⭐331)](https://github.com/kurtosis-tech/kurtosis) - A composable build system for multi-container test environments that provides developers with: a powerful Python-like SDK for environment configuration, a compile-time validator to verify environment behavior & setup, and a runtime for environment execution, monitoring, & debugging capabilities. By [Kurtosis](https://www.kurtosis.com/)
+*   [Kurtosis (⭐385)](https://github.com/kurtosis-tech/kurtosis) - A composable build system for multi-container test environments that provides developers with: a powerful Python-like SDK for environment configuration, a compile-time validator to verify environment behavior & setup, and a runtime for environment execution, monitoring, & debugging capabilities. By [Kurtosis](https://www.kurtosis.com/)
 
 ## [21. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
@@ -173,22 +173,22 @@
 
 *   [Destiny](https://leastauthority.com/community-matters/destiny/) - Send files directly to the receiver in real-time. Developed for and with HROs as a free Privacy Enhancing Technology alternative.
 *   [Localsend](https://localsend.org/) - Share files to nearby devices. Free, open source, cross-platform.
-*   [Paperless (⭐7.8k)](https://github.com/the-paperless-project/paperless) - \[Now archived] Scan, index, and archive all of your paper documents.
+*   [Paperless (⭐7.9k)](https://github.com/the-paperless-project/paperless) - \[Now archived] Scan, index, and archive all of your paper documents.
     *   [Paperless-ng (⭐5.4k)](https://github.com/jonaswinkler/paperless-ng) - \[inactive] A supercharged version of paperless: scan, index and archive all your physical documents.
-*   [PairDrop (⭐4.2k)](https://github.com/schlagmichdoch/PairDrop) - An improved version of Snapdrop that also allows you to pair devices and share files outside your network.
-*   [Portal (⭐1.4k)](https://github.com/SpatiumPortae/portal) - A command-line file transfer utility for sending encrypted files from any computer to another.
+*   [PairDrop (⭐5.3k)](https://github.com/schlagmichdoch/PairDrop) - An improved version of Snapdrop that also allows you to pair devices and share files outside your network.
+*   [Portal (⭐1.5k)](https://github.com/SpatiumPortae/portal) - A command-line file transfer utility for sending encrypted files from any computer to another.
 *   [Winden](https://winden.app/) - A convenient version of Magic Wormhole you can use from within your browser. No need to install an app.
 
 ## [22. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Database
 
-*   [komapper/komapper (⭐295)](https://github.com/komapper/komapper) - Komapper is an ORM library for server-side Kotlin with JDBC and R2DBC support.
+*   [komapper/komapper (⭐302)](https://github.com/komapper/komapper) - Komapper is an ORM library for server-side Kotlin with JDBC and R2DBC support.
 
 ### Libraries/Frameworks / API Clients
 
-*   [MoviebaseApp/tmdb-api (⭐199)](https://github.com/MoviebaseApp/tmdb-api) - Modern powerful TMDB API to fetch movies and TV shows for Kotlin Multiplatform.
-*   [MoviebaseApp/trakt-api (⭐44)](https://github.com/MoviebaseApp/trakt-api) - Modern powerful Trakt API to track, discover and share your movies & TV shows.
+*   [MoviebaseApp/trakt-api (⭐47)](https://github.com/MoviebaseApp/trakt-api) - Modern powerful Trakt API to track, discover and share your movies & TV shows.
+*   [MoviebaseApp/tmdb-api (⭐217)](https://github.com/MoviebaseApp/tmdb-api) - Modern powerful TMDB API to fetch movies and TV shows for Kotlin Multiplatform.
 
 ## [23. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -210,14 +210,14 @@
 
 ### Examples
 
-*   [ivanperez-keera/Yampa (⭐429)](https://github.com/ivanperez-keera/Yampa#readme) - Clear description. Feature list. TOC for easy navigation. Simple install instructions. Usage code samples. Project samples with GIFs and links to app stores. Documentation and publications. Clear development / contribution rules.
-*   [Slackadays/Clipboard (⭐4.5k)](https://github.com/Slackadays/Clipboard#readme) - Project logo. Build and test/coverage badges. Transition from plain description to people-oriented description. Animated GIF showing usage. Custom banners for clearly laid out sections. Custom text assets for headers. Immediate call to action with Quick Start section. Consistent and easy to read command names and signatures. Three immediate options for getting help provided. Easter eggs provided for the detail-oriented.
+*   [ivanperez-keera/Yampa (⭐451)](https://github.com/ivanperez-keera/Yampa#readme) - Clear description. Feature list. TOC for easy navigation. Simple install instructions. Usage code samples. Project samples with GIFs and links to app stores. Documentation and publications. Clear development / contribution rules.
+*   [Slackadays/Clipboard (⭐5k)](https://github.com/Slackadays/Clipboard#readme) - Project logo. Build and test/coverage badges. Transition from plain description to people-oriented description. Animated GIF showing usage. Custom banners for clearly laid out sections. Custom text assets for headers. Immediate call to action with Quick Start section. Consistent and easy to read command names and signatures. Three immediate options for getting help provided. Easter eggs provided for the detail-oriented.
 
 ## [26. Awesome Libgdx](/content/rafaskb/awesome-libgdx/week/README.md)
 
 ### Resources / Visual Effects
 
-*   [HackLights (⭐22)](https://github.com/aliasifk/HackLights) - Lightweight framebuffer based lighting engine for libGDX.
+*   [HackLights (⭐24)](https://github.com/aliasifk/HackLights) - Lightweight framebuffer based lighting engine for libGDX.
 
 ## [27. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
@@ -259,7 +259,7 @@
 
 ### Large Language Models (LLMs)
 
-*   \[🔥🔥🔥] [oobabooga/text-generation-webui (⭐39k)](https://github.com/oobabooga/text-generation-webui): a gradio web UI for running Large Language Models like GPT-J 6B, OPT, GALACTICA, LLaMA, and Pygmalion
+*   \[🔥🔥🔥] [oobabooga/text-generation-webui (⭐42k)](https://github.com/oobabooga/text-generation-webui): a gradio web UI for running Large Language Models like GPT-J 6B, OPT, GALACTICA, LLaMA, and Pygmalion
 *   [Why LLaMa Is A Big Deal | Hackaday](https://hackaday.com/2023/03/22/why-llama-is-a-big-deal/): post that discusses the impact of LLaMa and Alpaca in popularizing LLMs and even using them in small hardware devices
 
 ### Hypertechniques / References Collection about Stable Diffusion
@@ -279,14 +279,14 @@
 
 ### Miscellaneous / React
 
-*   [GraphQL Constraint Directive (⭐566)](https://github.com/confuser/graphql-constraint-directive) - Allows using @constraint as a directive to validate input data. Inspired by Constraints Directives RFC and OpenAPI
+*   [GraphQL Constraint Directive (⭐569)](https://github.com/confuser/graphql-constraint-directive) - Allows using @constraint as a directive to validate input data. Inspired by Constraints Directives RFC and OpenAPI
 *   [Validator.js Wrapper Directive (⭐4)](https://github.com/ktutnik/graphql-directive/tree/master/packages/validator) - A comprehensive list of validator directive wraps Validator.js functionalities
 
 ## [32. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
-### Projects / Godot 4.0
+### Projects / Godot 4
 
-*   [Clipboard Narrator (⭐43)](https://github.com/lesleyrs/clipboard-narrator) - Turn any web page into an audiobook, works in the background on desktop!
+*   [Clipboard Narrator (⭐50)](https://github.com/lesleyrs/clipboard-narrator) - Turn any web page into an audiobook, works in the background on desktop!
 
 ## [33. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
@@ -298,7 +298,7 @@
 
 ### Libraries/Packages/Scripts / Scala/Java
 
-*   [scala-polars for Scala and Java (⭐62)](https://github.com/chitralverma/scala-polars) - [Scala](https://scala-lang.org/) - [Java](https://www.java.com/fr/) `scala-polars` is a library for using Polars in Scala and Java projects by [@chitralverma](https://github.com/chitralverma).
+*   [scala-polars for Scala and Java (⭐78)](https://github.com/chitralverma/scala-polars) - [Scala](https://scala-lang.org/) - [Java](https://www.java.com/fr/) `scala-polars` is a library for using Polars in Scala and Java projects by [@chitralverma](https://github.com/chitralverma).
 
 ### Resources / Tutorials & workshops
 
@@ -311,54 +311,48 @@
 
 *   [How to use Let's Encrypt certificates with Keycloak](https://kaeruct.github.io/posts/how-to-use-lets-encrypt-certificates-with-keycloak.html)
 
-## [36. Awesome Go](/content/avelino/awesome-go/week/README.md)
-
-### Utilities
-
-*   [contextplus (⭐16)](https://github.com/contextplus/contextplus) - Package contextplus provide more easy to use functions for contexts.
-
-## [37. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
+## [36. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
 ### Clocks & Studio Screens
 
-*   [PiClock Advanced (⭐3)](https://github.com/ael/piclock_advanced) Improved version of PiRSClock-Full with changed layout, added timers and network capabilities.
+*   [PiClock Advanced (⭐6)](https://github.com/ael/piclock_advanced) Improved version of PiRSClock-Full with changed layout, added timers and network capabilities.
 
-## [38. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
+## [37. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
 
 ### Simulators / Object detection and object tracking
 
 *   [LGSVL / SVL](https://www.lgsvlsimulator.com/) - Unity Engine based simulator for automotive applications. Compatible with Autoware, Baidu Apollo and ROS/ROS 2. *Note:* LG has made the difficult decision to [suspend](https://www.svlsimulator.com/news/2022-01-20-svl-simulator-sunset) active development of SVL Simulator.
-    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐2.2k)](https://github.com/lgsvl/simulator)
+    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐2.3k)](https://github.com/lgsvl/simulator)
     *   [YouTube channel ![](https://img.shields.io/badge/youtube-red?style=flat-square\&logo=youtube)](https://www.youtube.com/c/LGSVLSimulator)
-*   [OSSDC SIM (⭐79)](https://github.com/OSSDC/OSSDC-SIM) - Unity Engine based simulator for automotive applications, based on the suspended LGSVL simulator, but an active development. Compatible with Autoware, Baidu Apollo and ROS/ROS 2.
-    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐79)](https://github.com/OSSDC/OSSDC-SIM) ![](https://img.shields.io/badge/ROS-2-34aec5?style=flat-square\&logo=ros)
+*   [OSSDC SIM (⭐82)](https://github.com/OSSDC/OSSDC-SIM) - Unity Engine based simulator for automotive applications, based on the suspended LGSVL simulator, but an active development. Compatible with Autoware, Baidu Apollo and ROS/ROS 2.
+    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐82)](https://github.com/OSSDC/OSSDC-SIM) ![](https://img.shields.io/badge/ROS-2-34aec5?style=flat-square\&logo=ros)
     *   [YouTube video ![](https://img.shields.io/badge/youtube-red?style=flat-square\&logo=youtube)](https://www.youtube.com/watch?v=fU_C38WEwGw)
 *   [AWSIM](https://tier4.github.io/AWSIM) - Unity Engine based simulator for automotive applications. Compatible with Autoware and ROS 2.
-    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐477)](https://github.com/tier4/AWSIM) ![](https://img.shields.io/badge/ROS-2-34aec5?style=flat-square\&logo=ros)
+    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐545)](https://github.com/tier4/AWSIM) ![](https://img.shields.io/badge/ROS-2-34aec5?style=flat-square\&logo=ros)
     *   [YouTube video ![](https://img.shields.io/badge/youtube-red?style=flat-square\&logo=youtube)](https://www.youtube.com/watch?v=FH7aBWDmSNA)
 
-## [39. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [38. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [unplugin-fonts (⭐318)](https://github.com/cssninjaStudio/unplugin-fonts) - Load font from Typekit, Google Fonts, Fontsource or your own custom one.
+*   [unplugin-fonts (⭐353)](https://github.com/cssninjaStudio/unplugin-fonts) - Load font from Typekit, Google Fonts, Fontsource or your own custom one.
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-find-image-duplicates (⭐6)](https://github.com/wChenonly/vite-plugin-find-image-duplicates) - Find if there are duplicate images in your project when building it.
-*   [@froxz/vite-plugin-s3 (⭐27)](https://github.com/Froxz/vite-plugin-s3) - Allows you to upload files to S3.
+*   [vite-plugin-find-image-duplicates (⭐7)](https://github.com/wChenonly/vite-plugin-find-image-duplicates) - Find if there are duplicate images in your project when building it.
+*   [@froxz/vite-plugin-s3 (⭐34)](https://github.com/Froxz/vite-plugin-s3) - Allows you to upload files to S3.
 
 ### Frameworks / Community
 
-*   [Vise (⭐15)](https://github.com/stauren/vise-ssr) - SSR framework with server hooks. ![react](https://img.shields.io/badge/-React-4ab2cf) ![vue3](https://img.shields.io/badge/-Vue%203-42b883)
+*   [Vise (⭐16)](https://github.com/stauren/vise-ssr) - SSR framework with server hooks. ![react](https://img.shields.io/badge/-React-4ab2cf) ![vue3](https://img.shields.io/badge/-Vue%203-42b883)
 
-## [40. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [39. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Productivity / Presentations
 
-*   [slides (⭐9.1k)](https://github.com/maaslalani/slides) - A markdown presentation tool.
+*   [slides (⭐9.9k)](https://github.com/maaslalani/slides) - A markdown presentation tool.
 
-## [41. Awesome D](/content/dlang-community/awesome-d/week/README.md)
+## [40. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 
 ### Tutorials
 
@@ -366,14 +360,14 @@
 
 ### End-user applications / XML
 
-*   [Literate (⭐647)](https://github.com/zyedidia/Literate) - A literate programming tool for any language
-*   [onedrive (⭐8.8k)](https://github.com/abraunegg/onedrive) - #1 Free OneDrive Client for Linux
+*   [Literate (⭐662)](https://github.com/zyedidia/Literate) - A literate programming tool for any language
+*   [onedrive (⭐9.9k)](https://github.com/abraunegg/onedrive) - #1 Free OneDrive Client for Linux
 
-## [42. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [41. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Audio and Video Tools / Audio Record and Process
 
-*   [Stargate DAW (⭐649)](https://github.com/stargatedaw/stargate) - An all-in-one digital audio workstation (DAW) and plugin suite. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/aria2) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Stargate DAW (⭐697)](https://github.com/stargatedaw/stargate) - An all-in-one digital audio workstation (DAW) and plugin suite. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/aria2) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / Clipboard Tools
 
@@ -383,7 +377,7 @@
 
 *   [Folders File Manager](https://foldersapp.dev) - A file manager with an expandable folder tree, similar to that of Windows Explorer.
 
-## [43. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
+## [42. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
 
 ### Utilities (uncategorized) / Others
 
@@ -393,7 +387,7 @@
 
 *   [Dub](https://dub.sh/) - Open-source link shortener.
 
-## [44. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [43. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Tools / Playground
 
@@ -403,15 +397,15 @@
 
 *   [Functional Programming with TypeScript](https://www.youtube.com/playlist?list=PLuPevXgCPUIMbCxBEnc1dNwboH6e2ImQo) - Discover functional programming with Typescript and create a library like fp-ts alongside Sahand Javid in this beginner-friendly YouTube playlist.
 
-## [45. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [44. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Syntax / Diagnostics
 
-*   [desdic/agrolens.nvim (⭐48)](https://github.com/desdic/agrolens.nvim) - Navigate via Tree-sitter nodes using Telescope.
+*   [desdic/agrolens.nvim (⭐56)](https://github.com/desdic/agrolens.nvim) - Navigate via Tree-sitter nodes using Telescope or FZF.
 
 ### Startup / Diagnostics
 
-*   [willothy/veil.nvim (⭐140)](https://github.com/willothy/veil.nvim) - A blazingly fast, animated, and infinitely customizable startup / dashboard plugin.
+*   [willothy/veil.nvim (⭐155)](https://github.com/willothy/veil.nvim) - A blazingly fast, animated, and infinitely customizable startup / dashboard plugin.
 
 ### Utility / Diagnostics
 
@@ -419,23 +413,23 @@
 
 ### Code Runner / Diagnostics
 
-*   [MarcHamamji/runner.nvim (⭐47)](https://github.com/MarcHamamji/runner.nvim) - A customizable Lua code runner.
+*   [MarcHamamji/runner.nvim (⭐50)](https://github.com/MarcHamamji/runner.nvim) - A customizable Lua code runner.
 
 ### Motion / Diagnostics
 
-*   [chrisgrieser/nvim-spider (⭐586)](https://github.com/chrisgrieser/nvim-spider) - Use the w, e, b motions like a spider. Considers camelCase and skips insignificant punctuation.
+*   [chrisgrieser/nvim-spider (⭐684)](https://github.com/chrisgrieser/nvim-spider) - Use the w, e, b motions like a spider. Considers camelCase and skips insignificant punctuation.
 
 ### Keybinding / Diagnostics
 
-*   [Wansmer/langmapper.nvim (⭐131)](https://github.com/Wansmer/langmapper.nvim) - Auto translating your mappings for non-English input methods.
+*   [Wansmer/langmapper.nvim (⭐164)](https://github.com/Wansmer/langmapper.nvim) - Auto translating your mappings for non-English input methods.
 
 ### Game / Diagnostics
 
-*   [Eandrju/cellular-automaton.nvim (⭐1.8k)](https://github.com/Eandrju/cellular-automaton.nvim) - It lets you execute aesthetically pleasing, cellular automaton animations based on the content of Neovim buffer.
-*   [alanfortlink/blackjack.nvim (⭐54)](https://github.com/alanfortlink/blackjack.nvim) - Classic Black Jack game.
-*   [jim-fx/sudoku.nvim (⭐68)](https://github.com/jim-fx/sudoku.nvim) - Classic sudoku puzzle.
+*   [Eandrju/cellular-automaton.nvim (⭐1.9k)](https://github.com/Eandrju/cellular-automaton.nvim) - It lets you execute aesthetically pleasing, cellular automaton animations based on the content of Neovim buffer.
+*   [alanfortlink/blackjack.nvim (⭐61)](https://github.com/alanfortlink/blackjack.nvim) - Classic Black Jack game.
+*   [jim-fx/sudoku.nvim (⭐73)](https://github.com/jim-fx/sudoku.nvim) - Classic sudoku puzzle.
 
-## [46. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
+## [45. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
 
 ### Libraries / New Libraries
 

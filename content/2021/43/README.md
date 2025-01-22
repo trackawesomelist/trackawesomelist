@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 25 - Oct 31, 2021
 
-71 awesome lists updated this week.
+70 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -27,13 +27,13 @@
 
 ### Software / Personal Dashboards
 
-*   [Dashy (⭐17k)](https://github.com/lissy93/dashy) - Feature-rich homepage for your homelab, with easy YAML configuration. ([Demo](https://demo.dashy.to/)) `MIT` `Nodejs/Docker`
+*   [Dashy (⭐19k)](https://github.com/lissy93/dashy) - Feature-rich homepage for your homelab, with easy YAML configuration. ([Demo](https://demo.dashy.to/)) `MIT` `Nodejs/Docker`
 
 ## [4. Awesome Neuroscience](/content/analyticalmonk/awesome-neuroscience/week/README.md)
 
 ### Programming / Python
 
-*   [SpikeInterface (⭐162)](https://github.com/SpikeInterface/spikeinterface) - Framework designed to unify spike-sorting technologies
+*   [SpikeInterface (⭐517)](https://github.com/SpikeInterface/spikeinterface) - Framework designed to unify spike-sorting technologies
 
 ### Resources / Miscellaneous
 
@@ -43,8 +43,8 @@
 
 ### Libraries
 
-*   [Ditox.js (⭐79)](https://github.com/mnasyrov/ditox) - Powerful dependency injection container for building modular apps. +TS
-*   [RxEffects (⭐34)](https://github.com/mnasyrov/rx-effects) - Reactive state and effect management with RxJS. +TS
+*   [Ditox.js (⭐93)](https://github.com/mnasyrov/ditox) - Powerful dependency injection container for building modular apps. +TS
+*   [RxEffects (⭐36)](https://github.com/mnasyrov/rx-effects) - Reactive state and effect management with RxJS. +TS
 
 ## [6. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
@@ -56,9 +56,15 @@
 
 ### Others
 
-*   [UpBlazor (⭐60)](https://github.com/Hona/UpBlazor) - ![GitHub stars](https://img.shields.io/github/stars/Hona/UpBlazor?style=flat-square\&cacheSeconds=604800) - ![last commit](https://img.shields.io/github/last-commit/Hona/UpBlazor?style=flat-square\&cacheSeconds=86400) Blazor Server integrating with Up bank (an Australian digital bank), to assist users with budgeting and to gain powerful future insights. Uses Clean Architecture and [Marten DB](https://martendb.io/).
+*   [UpBlazor (⭐63)](https://github.com/Hona/UpBlazor) - ![GitHub stars](https://img.shields.io/github/stars/Hona/UpBlazor?style=flat-square\&cacheSeconds=604800) - ![last commit](https://img.shields.io/github/last-commit/Hona/UpBlazor?style=flat-square\&cacheSeconds=86400) Blazor Server integrating with Up bank (an Australian digital bank), to assist users with budgeting and to gain powerful future insights. Uses Clean Architecture and [Marten DB](https://martendb.io/).
 
-## [8. Awesome Nodered](/content/naimo84/awesome-nodered/week/README.md)
+## [8. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
+
+### Notification
+
+*   [@zerodevx/svelte-toast (⭐842)](https://github.com/zerodevx/svelte-toast) - Simple elegant toast notifications.
+
+## [9. Awesome Nodered](/content/naimo84/awesome-nodered/week/README.md)
 
 ### Installation
 
@@ -68,41 +74,41 @@
 
 *   [Node-RED Forum](https://discourse.nodered.org/)
 
-## [9. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
+## [10. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
 ### Sensor Processing / Calibration and Transformation
 
 *   [TriP (⭐15)](https://github.com/TriPed-Robot/TriP) - A Inverse Kinematics library for serial robots, parallel robots and hybrids of both.
 
-## [10. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [11. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Database
 
-*   [sqlite\_orm (⭐2.2k)](https://github.com/fnc12/sqlite_orm) - SQLite ORM light header only library for modern C++. \[AGPL + paid MIT]
+*   [sqlite\_orm (⭐2.4k)](https://github.com/fnc12/sqlite_orm) - SQLite ORM light header only library for modern C++. \[AGPL + paid MIT]
 
-## [11. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
+## [12. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
 
 ### Table of Contents / Readings
 
 *   [Data Pipelines with Apache Airflow](https://www.manning.com/books/data-pipelines-with-apache-airflow) by Bas P. Harenslak and Julian Rutger de Ruiter
 
-## [12. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
+## [13. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
 
 ### Projects / Package and Build Management
 
-*   [Coq Platform (⭐187)](https://github.com/coq/platform) - Curated collection of packages to support Coq use in industry, education, and research.
+*   [Coq Platform (⭐191)](https://github.com/coq/platform) - Curated collection of packages to support Coq use in industry, education, and research.
 
 ### Projects / Verified Software
 
 *   [Tarjan and Kosaraju (⭐13)](https://github.com/math-comp/tarjan) - Verified implementations of algorithms for topological sorting and finding strongly connected components in finite graphs.
 
-## [13. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
+## [14. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
 
 ### Table of Contents / Books
 
 *   [Functional Programming in Kotlin](https://www.manning.com/books/functional-programming-in-kotlin) - Master techniques and concepts of functional programming to deliver safer, simpler, and more effective Kotlin code.
 
-## [14. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/week/README.md)
+## [15. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/week/README.md)
 
 ### Open Source Projects
 
@@ -117,7 +123,7 @@
 *   [Citra](https://www.patreon.com/citraemu) - Nintendo 3DS emulator.
 *   [Ryujinx](https://www.patreon.com/ryujinx) - Nintendo Switch emulator.
 
-## [15. Awesome Nosql Guides](/content/erictleung/awesome-nosql-guides/week/README.md)
+## [16. Awesome Nosql Guides](/content/erictleung/awesome-nosql-guides/week/README.md)
 
 ### Data Structures and Modeling
 
@@ -152,13 +158,13 @@
 *   [Why You Should Build Your Wwn NoSQL Database](https://medium.com/@marceloboeira/why-you-should-build-your-own-nosql-database-9bbba42039f5) - Brief overview of NoSQL databases and the spectrum of schema, along with a very basic implementation of a NoSQL database using the Crystal programming language.
 *   [PostgreSQL, The NoSQL Database (2015)](https://www.linuxjournal.com/content/postgresql-nosql-database) - An argument for PostgreSQL being an alternative to NoSQL databases with NoSQL-like features using its new features like HStore (key-value store) and JSONB (document-based) as of Version 9.4.
 
-## [16. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [17. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Books / Visualization Tools
 
 *   [Designing Cloud Data Platforms](https://www.manning.com/books/designing-cloud-data-platforms) - Early Access
 
-## [17. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [18. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Table of Contents / Books
 
@@ -166,25 +172,11 @@
 *   [Inside Deep Learning](https://www.manning.com/books/inside-deep-learning) - by Edward Raff
 *   [Deep Learning with Python, Second Edition](https://www.manning.com/books/deep-learning-with-python-second-edition) - by François Chollet
 
-## [18. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
+## [19. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
 ### Programming Languages / Rust
 
-*   [nix-cargo-integration (⭐176)](https://github.com/yusdacra/nix-cargo-integration) - A library that allows easy and effortless integration for Cargo projects.
-
-## [19. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
-
-### Party
-
-### [Battleship](https://board-games-galore.fandom.com/wiki/Battleship)
-
-> In this two-person game of strategy, players secretly arrange their ships on a lettered and numbered 10x10 grid and then try to locate and destroy their opponent’s fleet. There are two grids for each player. One grid is used for placing your own vessels and tracking hits made against you, while the second grid is for marking the hits targeted at your opponent. Take turns firing shots by calling out one of the grid’s plot points. If a hit doesn’t strike a ship, it’s considered a miss and pegged with white pieces. If a hit makes contact with a ship, then that strike gets pegged with red. The number of hits each kind of vessel can sustain before it sinks is varied. After some initial exploratory firing, you will likely start to figure out the location of your opponent’s ships and begin to deal the fatal blows. It’s a battle on the high seas!
-
-![Battleship image](https://cf.geekdo-images.com/dUh-sb2V8CyDjBDvwzf-qg__itemrep/img/_U6cCRlORa_Ex4emUsVXE77bCbo=/fit-in/246x300/filters:strip_icc\(\)/pic1293566.jpg)
-
-| Players | Min. Age |       Time |
-| ------: | -------: | ---------: |
-|       2 |       8+ | 30m around |
+*   [nix-cargo-integration (⭐192)](https://github.com/yusdacra/nix-cargo-integration) - A library that allows easy and effortless integration for Cargo projects.
 
 ## [20. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
 
@@ -209,11 +201,11 @@
 
 ## [23. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
-### Email Search / Email Check / Telegram
+### Email Search / Email Check / Steam
 
 *   [MailTester](http://mailtester.com) - hunt for emails and improve your email deliverability
 
-### Data and Statistics / Telegram
+### Data and Statistics / Steam
 
 *   [UNESCO Institute for Statistics](http://uis.unesco.org)
 
@@ -221,8 +213,8 @@
 
 ### eBPF Workflow: Tools and Utilities / Aya
 
-*   [aya (⭐2.9k)](https://github.com/aya-rs/aya) - A pure Rust library for writing, loading, and managing eBPF objects, with a focus on developer experience and operability. It supports writing eBPF programs in Rust and distributing library code over crates.io to share it between eBPF programs. Aya does not depend on libbpf.
-*   [aya-template (⭐70)](https://github.com/aya-rs/aya-template) - Templates for writing BPF applications in Aya that can be used with [`cargo generate`](https://github.com/cargo-generate/cargo-generate).
+*   [aya (⭐3.4k)](https://github.com/aya-rs/aya) - A pure Rust library for writing, loading, and managing eBPF objects, with a focus on developer experience and operability. It supports writing eBPF programs in Rust and distributing library code over crates.io to share it between eBPF programs. Aya does not depend on libbpf.
+*   [aya-template (⭐90)](https://github.com/aya-rs/aya-template) - Templates for writing BPF applications in Aya that can be used with [`cargo generate`](https://github.com/cargo-generate/cargo-generate).
 
 ## [25. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
@@ -248,7 +240,7 @@
 
 ### Other libraries and tools / Mesh tools
 
-*   [PyDMD (⭐55)](https://github.com/mathLab/PyDMD) - Dynamic Mode Decomposition (DMD) in Python.
+*   [PyDMD (⭐77)](https://github.com/mathLab/PyDMD) - Dynamic Mode Decomposition (DMD) in Python.
     (Python, MIT, GitHub)
 
 ## [28. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
@@ -259,7 +251,7 @@
 
 ### App Releases / Online Multiplayer
 
-*   Penguin Chat - [Android](https://play.google.com/store/apps/details?id=com.sanjeev.penguin_chat_game), [GitHub (⭐94)](https://github.com/Shadow60539/club_penguin_game) - Players use cartoon penguin avatars and chat in a virtual world without losing their real-time position. By [Sanjeev Madhav](https://sanjeevmadhav.com)
+*   Penguin Chat - [Android](https://play.google.com/store/apps/details?id=com.sanjeev.penguin_chat_game), [GitHub (⭐100)](https://github.com/Shadow60539/club_penguin_game) - Players use cartoon penguin avatars and chat in a virtual world without losing their real-time position. By [Sanjeev Madhav](https://sanjeevmadhav.com)
 
 ## [29. Awesome Vlc](/content/mfkl/awesome-vlc/week/README.md)
 
@@ -285,17 +277,17 @@
 ### Cloud Platform Attack Tools / Malware Analysis Books
 
 *   [Cloud Container Attack Tool (CCAT)](https://rhinosecuritylabs.com/aws/cloud-container-attack-tool/) - Tool for testing security of container environments.
-*   [CloudHunter (⭐107)](https://github.com/belane/CloudHunter) - Looks for AWS, Azure and Google cloud storage buckets and lists permissions for vulnerable buckets.
+*   [CloudHunter (⭐133)](https://github.com/belane/CloudHunter) - Looks for AWS, Azure and Google cloud storage buckets and lists permissions for vulnerable buckets.
 *   [Cloudsplaining](https://cloudsplaining.readthedocs.io/) - Identifies violations of least privilege in AWS IAM policies and generates a pretty HTML report with a triage worksheet.
 *   [Endgame](https://endgame.readthedocs.io/) - AWS Pentesting tool that lets you use one-liner commands to backdoor an AWS account's resources with a rogue AWS account.
-*   [GCPBucketBrute (⭐463)](https://github.com/RhinoSecurityLabs/GCPBucketBrute) - Script to enumerate Google Storage buckets, determine what access you have to them, and determine if they can be privilege escalated.
+*   [GCPBucketBrute (⭐493)](https://github.com/RhinoSecurityLabs/GCPBucketBrute) - Script to enumerate Google Storage buckets, determine what access you have to them, and determine if they can be privilege escalated.
 
 ## [33. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### Native Apps (open source)
 
-*   OneBusAway Apps - [Android](https://play.google.com/store/apps/details?id=com.joulespersecond.seattlebusbot) [*(source code)*](https://github.com/OneBusAway/onebusaway-android), [Fire Phone](http://www.amazon.com/gp/mas/dl/android?p=com.joulespersecond.seattlebusbot) [*(source code)*](https://github.com/OneBusAway/onebusaway-android), [iOS](https://itunes.apple.com/us/app/onebusaway/id329380089)  [*(source code)*](https://github.com/OneBusAway/onebusaway-ios), [Windows Phone](https://www.microsoft.com/en-us/store/apps/onebusaway/9nblggh0cbd9) [*(source code)*](https://github.com/OneBusAway/onebusaway-windows-phone), [Windows 8](https://www.microsoft.com/en-us/store/apps/onebusaway/9wzdncrdm5pc) [*(source code)*](https://github.com/OneBusAway/onebusaway-windows8), [Google Glass GDK (⭐463)](https://github.com/OneBusAway/onebusaway-android/pull/219) [*(source code)*](https://github.com/OneBusAway/onebusaway-android/pull/219), [Alexa skill](https://www.amazon.com/OneBusAway/dp/B01ELVUYCW/) [*(source code)*](https://github.com/OneBusAway/onebusaway-alexa)
-*   [Trufi App (⭐6)](https://github.com/trufi-association/trufi-app) - A cross-platform Flutter app that uses [OpenTripPlanner](http://www.opentripplanner.org/)
+*   OneBusAway Apps - [Android](https://play.google.com/store/apps/details?id=com.joulespersecond.seattlebusbot) [*(source code)*](https://github.com/OneBusAway/onebusaway-android), [Fire Phone](http://www.amazon.com/gp/mas/dl/android?p=com.joulespersecond.seattlebusbot) [*(source code)*](https://github.com/OneBusAway/onebusaway-android), [iOS](https://itunes.apple.com/us/app/onebusaway/id329380089)  [*(source code)*](https://github.com/OneBusAway/onebusaway-ios), [Windows Phone](https://www.microsoft.com/en-us/store/apps/onebusaway/9nblggh0cbd9) [*(source code)*](https://github.com/OneBusAway/onebusaway-windows-phone), [Google Glass GDK (⭐491)](https://github.com/OneBusAway/onebusaway-android/pull/219) [*(source code)*](https://github.com/OneBusAway/onebusaway-android/pull/219), [Alexa skill](https://www.amazon.com/OneBusAway/dp/B01ELVUYCW/) [*(source code)*](https://github.com/OneBusAway/onebusaway-alexa)
+*   [Trufi App (⭐9)](https://github.com/trufi-association/trufi-app) - A cross-platform Flutter app that uses [OpenTripPlanner](http://www.opentripplanner.org/)
 *   [MACS Transit Android App (⭐9)](https://github.com/yeSpud/MACSTransitApp) - A bus tracker app for Android devices for the MACS Transit system in Fairbanks, Alaska. Uses RouteMatch APIs.
 
 ### GTFS Data Collection and Maintenance Tools / Ruby
@@ -339,7 +331,7 @@
 
 ### Platforms and Software Resources / Urban Planning Tools and Platforms
 
-*   [UrbanCanvas](https://urbansim.com/urbancanvas) - UrbanCanvas Modeler is a web-based platform designed for planners and modelers to generate long-range, small area socioeconomic forecasts using [UrbanSim (⭐470)](https://github.com/UDST/urbansim) to inform Regional Transportation Plans.
+*   [UrbanCanvas](https://urbansim.com/urbancanvas) - UrbanCanvas Modeler is a web-based platform designed for planners and modelers to generate long-range, small area socioeconomic forecasts using [UrbanSim (⭐488)](https://github.com/UDST/urbansim) to inform Regional Transportation Plans.
 
 ### Platforms and Software Resources / Transportation Planning Tools and Platforms
 
@@ -373,7 +365,7 @@
 
 ### Machine Learning
 
-*   [Approaching Almost Any Machine Learning Problem (⭐7.1k)](https://github.com/abhishekkrthakur/approachingalmost) - Abhishek Thakur (PDF)
+*   [Approaching Almost Any Machine Learning Problem (⭐7.6k)](https://github.com/abhishekkrthakur/approachingalmost) - Abhishek Thakur (PDF)
 
 ## [37. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
@@ -405,21 +397,21 @@
 
 ### Communications / Compression
 
-*   [ufastlz (⭐14)](https://github.com/dmazzella/ufastlz) - MicroPython wrapper for FastLZ, a lightning-fast lossless compression library.
+*   [ufastlz (⭐16)](https://github.com/dmazzella/ufastlz) - MicroPython wrapper for FastLZ, a lightning-fast lossless compression library.
 
 ### Sensors / Distance Laser
 
-*   [vl53l5cx (⭐11)](https://github.com/mp-extras/vl53l5cx) - MicroPython and CircuitPython Package for the [VL53L5CX](https://www.st.com/en/imaging-and-photonics-solutions/vl53l5cx.html) (4x4/8x8 ToF sensor array).
+*   [vl53l5cx (⭐14)](https://github.com/mp-extras/vl53l5cx) - MicroPython and CircuitPython Package for the [VL53L5CX](https://www.st.com/en/imaging-and-photonics-solutions/vl53l5cx.html) (4x4/8x8 ToF sensor array).
 
-### Storage / Database
+### Storage / Databases
 
-*   [uSQLite (⭐84)](https://github.com/spatialdude/usqlite) - SQLite library module for MicroPython.
+*   [uSQLite (⭐97)](https://github.com/spatialdude/usqlite) - SQLite library module for MicroPython.
 
 ## [40. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Starters & Themes
 
-*   🚀 [Vitailse (⭐141)](https://github.com/zynth17/vitailse) - Opinionated Vite starter template with Vue 3, TypeScript and Tailwind CSS.
+*   🚀 [Vitailse (⭐138)](https://github.com/zynth17/vitailse) - Opinionated Vite starter template with Vue 3, TypeScript and Tailwind CSS.
 
 ## [41. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
@@ -429,75 +421,65 @@
 
     *   [ArangoDB](https://arangodb.com)
         *   [Aragog](https://gitlab.com/qonfucius/aragog) \[[aragog](https://crates.io/crates/aragog)] - A Lightweight ArangoDB Object document, relational and graph mapper [![pipeline status](https://gitlab.com/qonfucius/aragog/badges/master/pipeline.svg)](https://gitlab.com/qonfucius/aragog/-/commits/master)
-        *   [Arangors (⭐124)](https://github.com/fMeow/arangors) \[[arangors](https://crates.io/crates/arangors)] - An ArangoDB driver
+        *   [Arangors (⭐128)](https://github.com/fMeow/arangors) \[[arangors](https://crates.io/crates/arangors)] - An ArangoDB driver
     *   [Cassandra](https://cassandra.apache.org/_/index.html) \[[cassandra](https://crates.io/keywords/cassandra), [cql](https://crates.io/keywords/cql)]
-        *   [AlexPikalov/cdrs (⭐347)](https://github.com/AlexPikalov/cdrs) \[[cdrs](https://crates.io/crates/cdrs)] - native client
-        *   [cassandra-rs (⭐130)](https://github.com/cassandra-rs/cassandra-rs) - bindings to the DataStax C/C++
-        *   [krojew/cdrs-tokio (⭐133)](https://github.com/krojew/cdrs-tokio) - High-level async Cassandra client written in 100% Rust. [![build badge](https://github.com/krojew/cdrs-tokio/actions/workflows/rust.yml/badge.svg)](https://github.com/krojew/cdrs-tokio/actions)
+        *   [AlexPikalov/cdrs (⭐342)](https://github.com/AlexPikalov/cdrs) \[[cdrs](https://crates.io/crates/cdrs)] - native client
+        *   [cassandra-rs (⭐139)](https://github.com/cassandra-rs/cassandra-rs) - bindings to the DataStax C/C++
+        *   [krojew/cdrs-tokio (⭐139)](https://github.com/krojew/cdrs-tokio) - High-level async Cassandra client written in 100% Rust. [![build badge](https://github.com/krojew/cdrs-tokio/actions/workflows/rust.yml/badge.svg)](https://github.com/krojew/cdrs-tokio/actions)
             *   \[[cassandra-protocol](https://crates.io/crates/cassandra-protocol)] - Cassandra protocol implementation.
             *   \[[cdrs-tokio](https://crates.io/crates/cdrs-tokio)] - production-ready async Apache Cassandra driverclient
     *   CouchDB \[[couchdb](https://crates.io/keywords/couchdb)]
         *   [chill-rs/chill (⭐36)](https://github.com/chill-rs/chill) \[[couchdb](https://crates.io/crates/chill)] - Client for the CouchDB REST API
     *   [DynamoDB](https://aws.amazon.com/dynamodb/) \[[dynamodb](https://crates.io/keywords/dynamodb)]
-        *   [softprops/dynomite (⭐217)](https://github.com/softprops/dynomite) - A library for strongly-typed and convenient interaction with `rusoto_dynamodb` [![build badge](https://github.com/softprops/dynomite/workflows/Main/badge.svg?branch=master)](https://github.com/softprops/dynomite/actions)
+        *   [softprops/dynomite (⭐220)](https://github.com/softprops/dynomite) - A library for strongly-typed and convenient interaction with `rusoto_dynamodb` [![build badge](https://github.com/softprops/dynomite/workflows/Main/badge.svg?branch=master)](https://github.com/softprops/dynomite/actions)
     *   Elasticsearch \[[elasticsearch](https://crates.io/keywords/elasticsearch)]
-        *   [benashford/rs-es (⭐217)](https://github.com/benashford/rs-es) \[[rs-es](https://crates.io/crates/rs-es)] - Client for the [Elastic](https://www.elastic.co/) REST API
+        *   [benashford/rs-es (⭐218)](https://github.com/benashford/rs-es) \[[rs-es](https://crates.io/crates/rs-es)] - Client for the [Elastic](https://www.elastic.co/) REST API
         *   [elastic-rs/elastic (⭐253)](https://github.com/elastic-rs/elastic) \[[elastic](https://crates.io/crates/elastic)] - elastic is an efficient, modular API client for Elasticsearch written in Rust [![build badge](https://ci.appveyor.com/api/projects/status/csa78tcumdpnbur2?svg=true)](https://ci.appveyor.com/project/KodrAus/elastic)
     *   etcd
         *   [jimmycuadra/rust-etcd (⭐143)](https://github.com/jimmycuadra/rust-etcd) \[[etcd](https://crates.io/crates/etcd)] - A client library for CoreOS's etcd.
     *   [InfluxDB](https://www.influxdata.com/)
-        *   [driftluo/InfluxDBClient-rs (⭐82)](https://github.com/driftluo/InfluxDBClient-rs) - Synchronization interface
+        *   [driftluo/InfluxDBClient-rs (⭐83)](https://github.com/driftluo/InfluxDBClient-rs) - Synchronization interface
     *   LevelDB
-        *   [skade/leveldb (⭐182)](https://github.com/skade/leveldb) - [LevelDB (⭐36k)](https://github.com/google/leveldb) bindings
+        *   [skade/leveldb (⭐182)](https://github.com/skade/leveldb) - [LevelDB (⭐37k)](https://github.com/google/leveldb) bindings
     *   LMDB \[[lmdb](https://crates.io/keywords/lmdb)]
-        *   [vhbit/lmdb-rs (⭐114)](https://github.com/vhbit/lmdb-rs) \[[lmdb-rs](https://crates.io/crates/lmdb-rs)] - [LMDB](https://www.symas.com/symas-embedded-database-lmdb) bindings
+        *   [vhbit/lmdb-rs (⭐115)](https://github.com/vhbit/lmdb-rs) \[[lmdb-rs](https://crates.io/crates/lmdb-rs)] - [LMDB](https://www.symas.com/symas-embedded-database-lmdb) bindings
     *   MongoDB \[[mongodb](https://crates.io/keywords/mongodb)]
-        *   [mongodb/mongo-rust-driver (⭐1.4k)](https://github.com/mongodb/mongo-rust-driver) \[[mongodb](https://crates.io/crates/mongodb)] - [MongoDB](https://www.mongodb.com/) bindings
+        *   [mongodb/mongo-rust-driver (⭐1.5k)](https://github.com/mongodb/mongo-rust-driver) \[[mongodb](https://crates.io/crates/mongodb)] - [MongoDB](https://www.mongodb.com/) bindings
     *   [PickleDB](https://pythonhosted.org/pickleDB/)
-        *   [seladb/pickledb-rs (⭐253)](https://github.com/seladb/pickledb-rs) - a lightweight and simple key-value store, heavily inspired by Python's PickleDB.
+        *   [seladb/pickledb-rs (⭐262)](https://github.com/seladb/pickledb-rs) - a lightweight and simple key-value store, heavily inspired by Python's PickleDB.
     *   [PoloDB](https://www.polodb.org/)
-        *   [PoloDB (⭐840)](https://github.com/PoloDB/PoloDB) - An embedded JSON-based database has API similar to MongoDB. ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/PoloDB/PoloDB/rust.yml)
+        *   [PoloDB (⭐976)](https://github.com/PoloDB/PoloDB) - An embedded JSON-based database has API similar to MongoDB. ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/PoloDB/PoloDB/rust.yml)
     *   [Redb](https://www.redb.org/)
-        *   [Redb (⭐3.1k)](https://github.com/cberner/redb) - An embedded key-value database. It provides a similar interface to other embedded key-value stores such as rocksdb and lmdb. ![GitHub Workflow Status](https://github.com/cberner/redb/actions/workflows/ci.yml/badge.svg)
+        *   [Redb (⭐3.5k)](https://github.com/cberner/redb) - An embedded key-value database. It provides a similar interface to other embedded key-value stores such as rocksdb and lmdb. ![GitHub Workflow Status](https://github.com/cberner/redb/actions/workflows/ci.yml/badge.svg)
     *   Redis \[[redis](https://crates.io/keywords/redis)]
-        *   [aembke/fred (⭐361)](https://github.com/aembke/fred.rs) \[[fred](https://crates.io/crates/fred)] - A high level async [Redis](https://redis.io/) client for Rust with Tokio. [![CircleCI](https://circleci.com/gh/aembke/fred.rs/tree/main.svg?style=svg)](\[https://circleci.com/gh/aembke/fred.rs/tree/main]\(https://app.circleci.com/pipelines/github/aembke/fred.rs?branch=main\))
-        *   [redis-rs (⭐3.5k)](https://github.com/redis-rs/redis-rs) - [Redis](https://redis.io/) library [![Rust](https://github.com/redis-rs/redis-rs/actions/workflows/rust.yml/badge.svg)](https://github.com/redis-rs/redis-rs/actions/workflows/rust.yml)
+        *   [aembke/fred (⭐423)](https://github.com/aembke/fred.rs) \[[fred](https://crates.io/crates/fred)] - A high level async [Redis](https://redis.io/) client for Rust with Tokio. [![CircleCI](https://circleci.com/gh/aembke/fred.rs/tree/main.svg?style=svg)](\[https://circleci.com/gh/aembke/fred.rs/tree/main]\(https://app.circleci.com/pipelines/github/aembke/fred.rs?branch=main\))
+        *   [redis-rs (⭐3.8k)](https://github.com/redis-rs/redis-rs) - [Redis](https://redis.io/) library [![Rust](https://github.com/redis-rs/redis-rs/actions/workflows/rust.yml/badge.svg)](https://github.com/redis-rs/redis-rs/actions/workflows/rust.yml)
     *   [RocksDB](https://rocksdb.org/)
-        *   [rust-rocksdb/rust-rocksdb (⭐1.8k)](https://github.com/rust-rocksdb/rust-rocksdb) - RocksDB bindings [![RocksDB CI](https://github.com/rust-rocksdb/rust-rocksdb/actions/workflows/rust.yml/badge.svg?branch=master)](https://github.com/rust-rocksdb/rust-rocksdb/actions/workflows/rust.yml)
+        *   [rust-rocksdb/rust-rocksdb (⭐1.9k)](https://github.com/rust-rocksdb/rust-rocksdb) - RocksDB bindings [![RocksDB CI](https://github.com/rust-rocksdb/rust-rocksdb/actions/workflows/rust.yml/badge.svg?branch=master)](https://github.com/rust-rocksdb/rust-rocksdb/actions/workflows/rust.yml)
     *   [SurrealDB](https://surrealdb.com/)
-        *   [surrealdb/surrealdb (⭐27k)](https://github.com/surrealdb/surrealdb) - SurrealDB embedded document-graph database
+        *   [surrealdb/surrealdb (⭐29k)](https://github.com/surrealdb/surrealdb) - SurrealDB embedded document-graph database
     *   [UnQLite (⭐2.1k)](https://github.com/symisc/unqlite)
-        *   [zitsen/unqlite.rs (⭐110)](https://github.com/zitsen/unqlite.rs) - UnQLite bindings
+        *   [zitsen/unqlite.rs (⭐113)](https://github.com/zitsen/unqlite.rs) - UnQLite bindings
     *   [ZooKeeper](https://zookeeper.apache.org/)
-        *   [bonifaido/rust-zookeeper (⭐205)](https://github.com/bonifaido/rust-zookeeper) \[[zookeeper](https://crates.io/crates/zookeeper)] - A client library for Apache ZooKeeper.
-        *   [krojew/rust-zookeeper (⭐22)](https://github.com/krojew/rust-zookeeper) \[[zookeeper-async](https://crates.io/crates/zookeeper-async)] - Async Zookeeper client, based on tokio.  ![build status](https://github.com/krojew/rust-zookeeper/actions/workflows/rust.yml/badge.svg)
+        *   [bonifaido/rust-zookeeper (⭐206)](https://github.com/bonifaido/rust-zookeeper) \[[zookeeper](https://crates.io/crates/zookeeper)] - A client library for Apache ZooKeeper.
+        *   [krojew/rust-zookeeper (⭐23)](https://github.com/krojew/rust-zookeeper) \[[zookeeper-async](https://crates.io/crates/zookeeper-async)] - Async Zookeeper client, based on tokio.  ![build status](https://github.com/krojew/rust-zookeeper/actions/workflows/rust.yml/badge.svg)
 
 ## [42. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
-### Centralized
-
-*   [Signal](https://signal.org/) - Extreme focus on privacy, combined with all of the features you expect. Strong encryption by design. 100% Open Source.
-    *   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Molly (⭐1.5k)](https://github.com/mollyim/mollyim-android) - Signal-compatible fork client with some security enhancements.
-
 ### Self-Hosted
 
-*   [Docker mail server (⭐14k)](https://github.com/docker-mailserver/docker-mailserver) - A fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) using Docker.
+*   [Docker mail server (⭐15k)](https://github.com/docker-mailserver/docker-mailserver) - A fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) using Docker.
 *   [Mail-in-a-box (⭐14k)](https://github.com/mail-in-a-box/mailinabox) - Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.
-
-### Android / iOS
-
-*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [FairEmail (⭐3k)](https://github.com/M66B/FairEmail) - Fully featured, open source, privacy friendly email app for Android.
-*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [K9](https://k9mail.app/) - Open Source Email App for Android.
 
 ### Video and Audio
 
-*   [Dim (⭐3.8k)](https://github.com/Dusk-Labs/dim) - Dim is a self-hosted media manager. With minimal setup, Dim will organize and beautify your media collections, letting you access and play them anytime from anywhere.
+*   [Dim (⭐3.9k)](https://github.com/Dusk-Labs/dim) - Dim is a self-hosted media manager. With minimal setup, Dim will organize and beautify your media collections, letting you access and play them anytime from anywhere.
 
 ## [43. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
 
 ### Reproducing Works, Training & Books / Data Visualization
 
-*   [NMOF (⭐35)](https://github.com/enricoschumann/NMOF) - Functions, examples and data from the first and the second edition of "Numerical Methods and Optimization in Finance" by M. Gilli, D. Maringer and E. Schumann (2019, ISBN:978-0128150658).
+*   [NMOF (⭐36)](https://github.com/enricoschumann/NMOF) - Functions, examples and data from the first and the second edition of "Numerical Methods and Optimization in Finance" by M. Gilli, D. Maringer and E. Schumann (2019, ISBN:978-0128150658).
 
 ## [44. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
 
@@ -521,11 +503,11 @@
 
 ### Beginner
 
-*   [Beginner's Guide (⭐361)](https://github.com/antz22/ultimate-guide-to-flutter) <!--stargazers:antz22/ultimate-guide-to-flutter--> - Comprehensive guide to the basics of Flutter and Firebase by [Anthony](https://github.com/antz22)
+*   [Beginner's Guide (⭐387)](https://github.com/antz22/ultimate-guide-to-flutter) <!--stargazers:antz22/ultimate-guide-to-flutter--> - Comprehensive guide to the basics of Flutter and Firebase by [Anthony](https://github.com/antz22)
 
 ### Desktop / Game Engine resources
 
-*   [Awesome Flutter Desktop (⭐1.5k)](https://github.com/leanflutter/awesome-flutter-desktop) <!--stargazers:leanflutter/awesome-flutter-desktop--> - A curated list of awesome things related to Flutter desktop by [LeanFlutter](https://github.com/leanflutter)
+*   [Awesome Flutter Desktop (⭐1.6k)](https://github.com/leanflutter/awesome-flutter-desktop) <!--stargazers:leanflutter/awesome-flutter-desktop--> - A curated list of awesome things related to Flutter desktop by [LeanFlutter](https://github.com/leanflutter)
 
 ## [48. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
@@ -575,7 +557,7 @@
 
 ### VSCode / Third-party APIs
 
-*   [alive (⭐197)](https://github.com/nobody-famous/alive) -  Common Lisp Extension for VSCode. Public domain.
+*   [alive (⭐217)](https://github.com/nobody-famous/alive) -  Common Lisp Extension for VSCode. Public domain.
     *   see the Cookbook: [using VSCode with Alive](https://lispcookbook.github.io/cl-cookbook/vscode-alive.html)
 
 ## [54. Awesome Scala Native](/content/tindzk/awesome-scala-native/week/README.md)
@@ -612,115 +594,110 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-sass-dts (⭐113)](https://github.com/activeguild/vite-plugin-sass-dts) - This is a plugin that automatically creates a type file when using the CSS module type-safely.
+*   [vite-plugin-sass-dts (⭐122)](https://github.com/activeguild/vite-plugin-sass-dts) - This is a plugin that automatically creates a type file when using the CSS module type-safely.
 
-## [56. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
+## [56. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+
+### Resources / Tutorials
+
+*   [Vuejs Authentication Tutorial](https://www.loginradius.com/blog/async/implementing-authentication-on-vuejs-using-jwt/) on LoginRadius blog
+
+## [57. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
 
 ### Tools / Editors
 
 *   [Bangle.io](https://bangle.io/) - A Notion like note taking webapp where data is saved in Markdown format locally. ![Globe](https://img.icons8.com/color/24/globe.png "Globe")
 
-## [57. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
-
-### Tutorials
-
-*   [Create your blog with SvelteKit](https://svelteland.github.io/svelte-kit-blog-demo/) - @zhuzilin (Github).
-
-### Notification
-
-*   [@zerodevx/svelte-toast (⭐789)](https://github.com/zerodevx/svelte-toast) - Simple elegant toast notifications.
-
 ## [58. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Serialization
 
-*   [ObjectDumper.NET (⭐389)](https://github.com/thomasgalliker/ObjectDumper) - Serializes in-memory object to C# code.
+*   [ObjectDumper.NET (⭐404)](https://github.com/thomasgalliker/ObjectDumper) - Serializes in-memory object to C# code.
 
 ## [59. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### (requires Neovim 0.5)
 
-*   [neovim/nvim-lspconfig (⭐10k)](https://github.com/neovim/nvim-lspconfig) - Quickstart configurations for the LSP client.
-*   [gfanto/fzf-lsp.nvim (⭐217)](https://github.com/gfanto/fzf-lsp.nvim) - Enable the power of FZF fuzzy search for the Neovim built in LSP.
-*   [b0o/SchemaStore.nvim (⭐707)](https://github.com/b0o/SchemaStore.nvim) - Provide access to the [SchemaStore (⭐3k)](https://github.com/SchemaStore/schemastore) catalog.
+*   [neovim/nvim-lspconfig (⭐11k)](https://github.com/neovim/nvim-lspconfig) - Quickstart configurations for the LSP client.
+*   [gfanto/fzf-lsp.nvim (⭐229)](https://github.com/gfanto/fzf-lsp.nvim) - Enable the power of FZF fuzzy search for the Neovim built in LSP.
+*   [b0o/SchemaStore.nvim (⭐777)](https://github.com/b0o/SchemaStore.nvim) - Provide access to the [SchemaStore (⭐3.2k)](https://github.com/SchemaStore/schemastore) catalog.
 
 ### Completion / Diagnostics
 
-*   [ms-jpq/coq\_nvim (⭐3.5k)](https://github.com/ms-jpq/coq_nvim) - Fast as FUCK Neovim completion. SQLite, concurrent scheduler, hundreds of hours of optimization.
+*   [ms-jpq/coq\_nvim (⭐3.6k)](https://github.com/ms-jpq/coq_nvim) - Fast as FUCK Neovim completion. SQLite, concurrent scheduler, hundreds of hours of optimization.
 
 ### Programming Languages Support / Diagnostics
 
-*   [nanotee/sqls.nvim (⭐182)](https://github.com/nanotee/sqls.nvim) - SQL database connection plugin + LSP client.
+*   [nanotee/sqls.nvim (⭐206)](https://github.com/nanotee/sqls.nvim) - SQL database connection plugin + LSP client.
 
 ### Markdown and LaTeX / Diagnostics
 
-*   [ellisonleao/glow.nvim (⭐1.2k)](https://github.com/ellisonleao/glow.nvim) - Markdown preview using glow.
+*   [ellisonleao/glow.nvim (⭐1.3k)](https://github.com/ellisonleao/glow.nvim) - Markdown preview using glow.
 
 ### Syntax / Diagnostics
 
-*   [nvim-treesitter/nvim-treesitter (⭐10k)](https://github.com/nvim-treesitter/nvim-treesitter) - Neovim Treesitter configurations and abstraction layer.
+*   [nvim-treesitter/nvim-treesitter (⭐11k)](https://github.com/nvim-treesitter/nvim-treesitter) - Neovim Tree-sitter configurations and abstraction layer.
 
 ### Snippet / Diagnostics
 
-*   [norcalli/snippets.nvim (⭐277)](https://github.com/norcalli/snippets.nvim) - Snippets in Lua.
+*   [norcalli/snippets.nvim (⭐275)](https://github.com/norcalli/snippets.nvim) - Snippets in Lua.
 
 ### Register / Diagnostics
 
-*   [acksld/nvim-neoclip.lua (⭐959)](https://github.com/AckslD/nvim-neoclip.lua) - Clipboard manager Neovim plugin with telescope integration.
+*   [acksld/nvim-neoclip.lua (⭐1k)](https://github.com/AckslD/nvim-neoclip.lua) - Clipboard manager Neovim plugin with telescope integration.
 
 ### Fuzzy Finder / Diagnostics
 
-*   [nvim-telescope/telescope.nvim (⭐15k)](https://github.com/nvim-telescope/telescope.nvim) - Telescope.nvim is a highly [extendable (⭐15k)](https://github.com/nvim-telescope/telescope.nvim/wiki/Extensions) fuzzy finder over lists. Built on the latest awesome features from Neovim core. Telescope is centered around modularity, allowing for easy customization.
-*   [ibhagwan/fzf-lua (⭐2.1k)](https://github.com/ibhagwan/fzf-lua) - The Lua version of `fzf.vim`, high-performance and fully async, supports `nvim-web-devicons`, git indicators, LSP, quickfix/location lists and more. Also supports [`skim`](https://github.com/lotabout/skim) as its fzf binary.
+*   [nvim-telescope/telescope.nvim (⭐17k)](https://github.com/nvim-telescope/telescope.nvim) - Telescope.nvim is a highly [extendable (⭐17k)](https://github.com/nvim-telescope/telescope.nvim/wiki/Extensions) fuzzy finder over lists. Built on the latest awesome features from Neovim core. Telescope is centered around modularity, allowing for easy customization.
+*   [ibhagwan/fzf-lua (⭐2.9k)](https://github.com/ibhagwan/fzf-lua) - The Lua version of `fzf.vim`, high-performance and fully async, supports `nvim-web-devicons`, Git indicators, LSP, quickfix/location lists and more. Also supports [`skim`](https://github.com/lotabout/skim) as its fzf binary.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [Mofiqul/vscode.nvim (⭐685)](https://github.com/Mofiqul/vscode.nvim) - A Lua port of vim-code-dark colorscheme with vscode light and dark theme.
-*   [marko-cerovac/material.nvim (⭐964)](https://github.com/marko-cerovac/material.nvim) - Material.nvim is a highly configurable colorscheme written in Lua and based on the material palette.
+*   [Mofiqul/vscode.nvim (⭐761)](https://github.com/Mofiqul/vscode.nvim) - A Lua port of vim-code-dark colorscheme with vscode light and dark theme.
+*   [marko-cerovac/material.nvim (⭐1k)](https://github.com/marko-cerovac/material.nvim) - Material.nvim is a highly configurable colorscheme written in Lua and based on the material palette.
 *   [mhartington/oceanic-next (⭐1.1k)](https://github.com/mhartington/oceanic-next) - Oceanic Next theme.
-*   [bkegley/gloombuddy (⭐48)](https://github.com/bkegley/gloombuddy) - Gloom inspired theme.
-*   [Th3Whit3Wolf/one-nvim (⭐107)](https://github.com/Th3Whit3Wolf/one-nvim) - An Atom One inspired dark and light colorscheme.
+*   [bkegley/gloombuddy (⭐46)](https://github.com/bkegley/gloombuddy) - Gloom inspired theme.
+*   [Th3Whit3Wolf/one-nvim (⭐112)](https://github.com/Th3Whit3Wolf/one-nvim) - An Atom One inspired dark and light colorscheme.
 *   [PHSix/nvim-hybrid (⭐26)](https://github.com/PHSix/nvim-hybrid) - A Neovim colorscheme write in Lua.
-*   [Th3Whit3Wolf/space-nvim (⭐45)](https://github.com/Th3Whit3Wolf/space-nvim) - A spacemacs inspired dark and light colorscheme.
-*   [ishan9299/nvim-solarized-lua (⭐181)](https://github.com/ishan9299/nvim-solarized-lua) - Solarized colorscheme in Lua (Neovim >= 0.5).
-*   [navarasu/onedark.nvim (⭐1.5k)](https://github.com/navarasu/onedark.nvim) - A One Dark Theme (Neovim >= 0.5) written in Lua based on Atom's One Dark Theme.
-*   [nxvu699134/vn-night.nvim (⭐42)](https://github.com/nxvu699134/vn-night.nvim) - A dark Neovim colorscheme written in Lua. Support built-in LSP and Tree-sitter.
-*   [adisen99/codeschool.nvim (⭐43)](https://github.com/adisen99/codeschool.nvim) - Codeschool colorscheme written in Lua with Tree-sitter and built-in lsp support.
-*   [projekt0n/github-nvim-theme (⭐2.1k)](https://github.com/projekt0n/github-nvim-theme) - A GitHub theme, kitty, alacritty written in Lua. Support built-in LSP and Tree-sitter.
-*   [FrenzyExists/aquarium-vim (⭐277)](https://github.com/FrenzyExists/aquarium-vim) - A dark, yet vibrant colorscheme.
-*   [adisen99/apprentice.nvim (⭐44)](https://github.com/adisen99/apprentice.nvim) - Colorscheme written in Lua based on the [Apprentice (⭐877)](https://github.com/romainl/Apprentice) color pattete with Tree-sitter and built-in lsp support.
-*   [rmehri01/onenord.nvim (⭐512)](https://github.com/rmehri01/onenord.nvim) - A Neovim theme that combines the Nord and Atom One Dark color palettes for a more vibrant programming experience.
+*   [Th3Whit3Wolf/space-nvim (⭐47)](https://github.com/Th3Whit3Wolf/space-nvim) - A spacemacs inspired dark and light colorscheme.
+*   [ishan9299/nvim-solarized-lua (⭐184)](https://github.com/ishan9299/nvim-solarized-lua) - Solarized colorscheme in Lua (Neovim >= 0.5).
+*   [navarasu/onedark.nvim (⭐1.7k)](https://github.com/navarasu/onedark.nvim) - A One Dark Theme (Neovim >= 0.5) written in Lua based on Atom's One Dark Theme.
+*   [nxvu699134/vn-night.nvim (⭐43)](https://github.com/nxvu699134/vn-night.nvim) - A dark Neovim colorscheme written in Lua. Support built-in LSP and Tree-sitter.
+*   [adisen99/codeschool.nvim (⭐43)](https://github.com/adisen99/codeschool.nvim) - Codeschool colorscheme written in Lua with Tree-sitter and built-in LSP support.
+*   [projekt0n/github-nvim-theme (⭐2.2k)](https://github.com/projekt0n/github-nvim-theme) - A GitHub theme, kitty, alacritty written in Lua. Support built-in LSP and Tree-sitter.
+*   [FrenzyExists/aquarium-vim (⭐292)](https://github.com/FrenzyExists/aquarium-vim) - A dark, yet vibrant colorscheme.
+*   [adisen99/apprentice.nvim (⭐44)](https://github.com/adisen99/apprentice.nvim) - Colorscheme written in Lua based on the [Apprentice (⭐895)](https://github.com/romainl/Apprentice) color palette with Tree-sitter and built-in LSP support.
+*   [rmehri01/onenord.nvim (⭐548)](https://github.com/rmehri01/onenord.nvim) - A Neovim theme that combines the Nord and Atom One Dark color palettes for a more vibrant programming experience.
 
 ### Lua Colorscheme / Diagnostics
 
-*   [ellisonleao/gruvbox.nvim (⭐1.8k)](https://github.com/ellisonleao/gruvbox.nvim) - Gruvbox community colorscheme Lua port.
-*   [metalelf0/jellybeans-nvim (⭐100)](https://github.com/metalelf0/jellybeans-nvim) - A port of jellybeans colorscheme.
+*   [ellisonleao/gruvbox.nvim (⭐2k)](https://github.com/ellisonleao/gruvbox.nvim) - Gruvbox community colorscheme Lua port.
+*   [metalelf0/jellybeans-nvim (⭐111)](https://github.com/metalelf0/jellybeans-nvim) - A port of jellybeans colorscheme.
 
 ### Utility / Diagnostics
 
-*   [code-biscuits/nvim-biscuits (⭐244)](https://github.com/code-biscuits/nvim-biscuits) - A Neovim port of Assorted Biscuits. Ends up with more supported languages too.
-*   [saifulapm/chartoggle.nvim (⭐39)](https://github.com/saifulapm/chartoggle.nvim) - Toggle any character at end of line.
+*   [code-biscuits/nvim-biscuits (⭐253)](https://github.com/code-biscuits/nvim-biscuits) - A Neovim port of Assorted Biscuits. Ends up with more supported languages too.
 
 ### Neovim Lua Development / Diagnostics
 
-*   [svermeulen/vimpeccable (⭐354)](https://github.com/svermeulen/vimpeccable) - Commands to help write your .vimrc in Lua or any Lua based language.
-*   [rafcamlet/nvim-luapad (⭐547)](https://github.com/rafcamlet/nvim-luapad) - Interactive real time Neovim scratchpad for embedded Lua engine - Type and watch!.
-*   [nvim-lua/plenary.nvim (⭐2.6k)](https://github.com/nvim-lua/plenary.nvim) - Plenary: full; complete; entire; absolute; unqualified. All the Lua functions I don't want to write twice.
-*   [tjdevries/vlog.nvim (⭐124)](https://github.com/tjdevries/vlog.nvim) - Single file, no dependency, easy copy & paste log file to add to your Neovim Lua plugins.
-*   [bfredl/nvim-luadev (⭐277)](https://github.com/bfredl/nvim-luadev) - REPL/debug console Lua plugins. The `:Luadev` command will open an scratch window which will show output from executing Lua code.
-*   [jbyuki/one-small-step-for-vimkind (⭐384)](https://github.com/jbyuki/one-small-step-for-vimkind) - An adapter for the Neovim Lua language. It allows you to debug any Lua code running in a Neovim instance (A Lua plugin that can debug Neovim Lua plugins).
+*   [svermeulen/vimpeccable (⭐353)](https://github.com/svermeulen/vimpeccable) - Commands to help write your .vimrc in Lua or any Lua based language.
+*   [rafcamlet/nvim-luapad (⭐592)](https://github.com/rafcamlet/nvim-luapad) - Interactive real time Neovim scratchpad for embedded Lua engine - Type and watch!.
+*   [nvim-lua/plenary.nvim (⭐2.9k)](https://github.com/nvim-lua/plenary.nvim) - Plenary: full; complete; entire; absolute; unqualified. All the Lua functions I don't want to write twice.
+*   [tjdevries/vlog.nvim (⭐134)](https://github.com/tjdevries/vlog.nvim) - Single file, no dependency, easy copy & paste log file to add to your Neovim Lua plugins.
+*   [bfredl/nvim-luadev (⭐281)](https://github.com/bfredl/nvim-luadev) - REPL/debug console Lua plugins. The `:Luadev` command will open an scratch window which will show output from executing Lua code.
+*   [jbyuki/one-small-step-for-vimkind (⭐441)](https://github.com/jbyuki/one-small-step-for-vimkind) - An adapter for the Neovim Lua language. It allows you to debug any Lua code running in a Neovim instance (A Lua plugin that can debug Neovim Lua plugins).
 
 ### Scrolling / Diagnostics
 
-*   [karb94/neoscroll.nvim (⭐1.4k)](https://github.com/karb94/neoscroll.nvim) - Smooth scrolling.
+*   [karb94/neoscroll.nvim (⭐1.6k)](https://github.com/karb94/neoscroll.nvim) - Smooth scrolling.
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [siduck76/NvChad (⭐24k)](https://github.com/siduck76/NvChad) - An attempt to make Neovim cli as functional as an IDE while being very beautiful and less bloated.
+*   [siduck76/NvChad (⭐25k)](https://github.com/siduck76/NvChad) - An attempt to make Neovim cli as functional as an IDE while being very beautiful and less bloated.
 
 ### Boilerplate / Diagnostics
 
-*   [gennaro-tedesco/boilit (⭐71)](https://github.com/gennaro-tedesco/boilit) - Create boilerplate structure plugins.
+*   [gennaro-tedesco/boilit (⭐81)](https://github.com/gennaro-tedesco/boilit) - Create boilerplate structure plugins.
 
 ## [60. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
@@ -740,7 +717,7 @@
 
 ### Other References / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [Mastering ZSH (⭐1.3k)](https://github.com/rothgar/mastering-zsh) is a great tutorial that builds on the basics to show you advanced ZSH usage, customizations, and practical examples.
+*   [Mastering ZSH (⭐1.4k)](https://github.com/rothgar/mastering-zsh) is a great tutorial that builds on the basics to show you advanced ZSH usage, customizations, and practical examples.
 
 ## [61. Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/week/README.md)
 
@@ -764,14 +741,14 @@
 
 ### Bindings to Other Languages / Apache License
 
-*   [ada-lua (⭐41)](https://github.com/AdaCore/ada-lua) - Ada binding for Lua.
+*   [ada-lua (⭐42)](https://github.com/AdaCore/ada-lua) - Ada binding for Lua.
 *   [coreland-lua-ada (⭐6)](https://github.com/io7m/coreland-lua-ada) - Ada bindings to the Lua language.
 
 ## [65. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Functional Programming
 
-*   [arrow-kt/arrow-meta (⭐393)](https://github.com/arrow-kt/arrow-meta) - Functional companion to Kotlin's Compiler.
+*   [arrow-kt/arrow-meta (⭐396)](https://github.com/arrow-kt/arrow-meta) - Functional companion to Kotlin's Compiler.
 
 ## [66. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
 
@@ -815,20 +792,9 @@
 
 ### Third-Party Packages / Full-stack frameworks
 
-*   [iommi (⭐683)](https://github.com/TriOptima/iommi) - Toolkit for development of CRUD applications without writing HTML or JavaScript.
+*   [iommi (⭐823)](https://github.com/TriOptima/iommi) - Toolkit for development of CRUD applications without writing HTML or JavaScript.
 
-## [70. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
-
-### Resources / Tutorials
-
-*   [Vuejs Authentication Tutorial](https://www.loginradius.com/blog/async/implementing-authentication-on-vuejs-using-jwt/) on LoginRadius blog
-
-### Components & Libraries / Utilities
-
-*   [pinia-persistedstate (⭐15)](https://github.com/JD-Wang/pinia-persistedstate) - Persist Vuex state with localStorage, like vuex-persistedstate.
-*   [vue-sfc-split (⭐0)](https://github.com/gVguy/vue-sfc-split) - Convert SFCs for native browser use without build
-
-## [71. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [70. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Animals
 
@@ -942,8 +908,6 @@
 
   CORS: Yes
 
-  Call this API: [<sup>**Run in Postman**</sup>](https://god.gw.postman.com/run-collection/25426789-7a8343d9-68b2-40f0-b80b-6dec788bc152?action=collection%2Ffork\&source=rip_markdown\&collection-url=entityId%3D25426789-7a8343d9-68b2-40f0-b80b-6dec788bc152%26entityType%3Dcollection%26workspaceId%3De4d9a7d3-b961-474e-a054-51861ed481f6)
-
 
 - API: [Helium](https://docs.helium.com/api/blockchain/introduction/)
 
@@ -955,8 +919,6 @@
 
   CORS: Unknown
 
-  Call this API: 
-
 
 - API: [Steem](https://developers.steem.io/)
 
@@ -967,8 +929,6 @@
   HTTPS: No
 
   CORS: No
-
-  Call this API: 
 
 
 
@@ -998,8 +958,6 @@
 
   CORS: Yes
 
-  Call this API: 
-
 
 - API: [Square](https://developer.squareup.com/reference/square)
 
@@ -1011,8 +969,6 @@
 
   CORS: Unknown
 
-  Call this API: [<sup>**Run in Postman**</sup>](https://god.gw.postman.com/run-collection/25426789-e3f07ce4-5495-4626-9e92-0b94c48d08dd?action=collection%2Ffork\&source=rip_markdown\&collection-url=entityId%3D25426789-e3f07ce4-5495-4626-9e92-0b94c48d08dd%26entityType%3Dcollection%26workspaceId%3De4d9a7d3-b961-474e-a054-51861ed481f6)
-
 
 - API: [SwiftKanban](https://www.digite.com/knowledge-base/swiftkanban/article/api-for-swift-kanban-web-services/#restapi)
 
@@ -1023,8 +979,6 @@
   HTTPS: Yes
 
   CORS: Unknown
-
-  Call this API: 
 
 
 
@@ -1040,7 +994,7 @@
 
   CORS: Unknown
 
-  Postman: 
+  : 
 
 
 
@@ -1296,7 +1250,7 @@
 
   CORS: Unknown
 
-  Call this API: 
+  : 
 
 
 
@@ -1335,7 +1289,7 @@
   CORS: Yes
 
 
-- API: [Codex (⭐263)](https://github.com/Jaagrav/CodeX)
+- API: [Codex (⭐271)](https://github.com/Jaagrav/CodeX)
 
   Description: Online Compiler for Various Languages
 
@@ -1478,7 +1432,7 @@
   CORS: Yes
 
 
-- API: [Sonar (⭐639)](https://github.com/Cgboal/SonarSearch)
+- API: [Sonar (⭐642)](https://github.com/Cgboal/SonarSearch)
 
   Description: Project Sonar DNS Enumeration API
 
@@ -1649,7 +1603,7 @@
 
   CORS: Unknown
 
-  Call this API: 
+  : 
 
 
 - API: [Boleto.Cloud](https://boleto.cloud/)
@@ -1662,7 +1616,7 @@
 
   CORS: Unknown
 
-  Call this API: 
+  : 
 
 
 - API: [Front Accounting APIs](https://frontaccounting.com/fawiki/index.php?n=Devel.SimpleAPIModule)
@@ -1675,7 +1629,7 @@
 
   CORS: Yes
 
-  Call this API: 
+  : 
 
 
 - API: [Indian Mutual Fund](https://www.mfapi.in/)
@@ -1688,7 +1642,7 @@
 
   CORS: Unknown
 
-  Call this API: 
+  : 
 
 
 - API: [Razorpay IFSC](https://razorpay.com/docs/)
@@ -1701,7 +1655,7 @@
 
   CORS: Unknown
 
-  Call this API: 
+  : 
 
 
 - API: [SEC EDGAR Data](https://www.sec.gov/edgar/sec-api-documentation)
@@ -1714,7 +1668,7 @@
 
   CORS: Yes
 
-  Call this API: 
+  : 
 
 
 - API: [SmartAPI](https://smartapi.angelbroking.com/)
@@ -1727,7 +1681,7 @@
 
   CORS: Unknown
 
-  Call this API: 
+  : 
 
 
 
@@ -1824,7 +1778,7 @@
   CORS: Yes
 
 
-- API: [PokéAPI (GraphQL) (⭐173)](https://github.com/mazipan/graphql-pokeapi)
+- API: [PokéAPI (GraphQL) (⭐175)](https://github.com/mazipan/graphql-pokeapi)
 
   Description: The Unofficial GraphQL for PokeAPI
 
@@ -1882,7 +1836,7 @@
   CORS: Unknown
 
 
-- API: [administrative-divisons-db (⭐17)](https://github.com/kamikazechaser/administrative-divisions-db)
+- API: [administrative-divisons-db (⭐20)](https://github.com/kamikazechaser/administrative-divisions-db)
 
   Description: Get all administrative divisions of a country
 

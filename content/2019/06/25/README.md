@@ -45,14 +45,14 @@
 
 ### HTTP
 
-*   [sse.cr (⭐22)](https://github.com/y2k2mt/sse.cr) - [Server-Sent Events](https://html.spec.whatwg.org/multipage/server-sent-events.html) client
+*   [sse.cr (⭐23)](https://github.com/y2k2mt/sse.cr) - [Server-Sent Events](https://html.spec.whatwg.org/multipage/server-sent-events.html) client
 
 ## [6. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
 ### Frameworks / Misc
 
 *   [Pine](https://docs.thememountain.com/pine/) - A 12 column grid, responsive email framework.
-*   [Maizzle](https://maizzle.com) - Rapidly prototype HTML emails with Tailwind CSS and advanced, email-specific post-processing.
+*   [Maizzle](https://maizzle.com) - Quickly build HTML emails with Tailwind CSS.
 
 ## [7. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
 

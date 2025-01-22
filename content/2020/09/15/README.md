@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 15, 2020
 
-17 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -80,7 +80,7 @@
 
 ### Cloud Infrastructure and Management
 
-*   [k8s (⭐315)](https://github.com/coryodaniel/k8s) - Kubernetes Elixir client with CRD support, multi-cluster support, pluggable auth, and configurable middleware.
+*   [k8s (⭐321)](https://github.com/coryodaniel/k8s) - Kubernetes Elixir client with CRD support, multi-cluster support, pluggable auth, and configurable middleware.
 
 ## [11. Awesome Mysql](/content/shlomi-noach/awesome-mysql/README.md)
 
@@ -92,7 +92,7 @@
 
 ### Non-deterministic, logic programming
 
-*   [Temperance (⭐56)](https://github.com/sjl/temperance) - logic programming. [MIT](https://opensource.org/licenses/MIT). A focus on performance, with General Game Playing in mind.
+*   [Temperance (⭐59)](https://github.com/sjl/temperance) - logic programming. [MIT](https://opensource.org/licenses/MIT). A focus on performance, with General Game Playing in mind.
 
 ## [13. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/README.md)
 
@@ -113,18 +113,11 @@
 
 *   [El-Tee-See](http://elteesee.pehrhovey.net/) - LTC wav file generator.
 
-## [16. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / UI Components
-
-*   [vue-splide (⭐322)](https://github.com/Splidejs/vue-splide) - Splide is a free lightweight but powerful slider and carousel, written in pure JavaScript without any dependencies. It supports a thumbnail slider, nested slide.
-*   [Vue Flow Form (⭐772)](https://github.com/ditdot-dev/vue-flow-form) - Create conversational conditional-logic forms with Vue.js. [Online Demo](https://www.ditdot.hr/demo/vff/questionnaire/)
-
-## [17. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [16. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Application Frameworks
 
-*   [Newbe.Claptrap (⭐215)](https://github.com/newbe36524/Newbe.Claptrap) - This is a set of server-side development frameworks with reactive, event sourcing and Actor pattern as basic theories. On top of this, developers can develop "distributed", "scale out", and "easy to test" application more simply.
+*   [Newbe.Claptrap (⭐216)](https://github.com/newbe36524/Newbe.Claptrap) - This is a set of server-side development frameworks with reactive, event sourcing and Actor pattern as basic theories. On top of this, developers can develop "distributed", "scale out", and "easy to test" application more simply.
 
 ### Code Snippets
 
@@ -132,11 +125,11 @@
 
 ### Graphics
 
-*   [RealTimeGraphX (⭐213)](https://github.com/royben/RealTimeGraphX) - RealTimeGraphX is a data type agnostic, high performance plotting library for WPF, UWP and soon, Xamarin Forms.
+*   [RealTimeGraphX (⭐219)](https://github.com/royben/RealTimeGraphX) - RealTimeGraphX is a data type agnostic, high performance plotting library for WPF, UWP and soon, Xamarin Forms.
 
 ### Mathematics
 
-*   [MKL.NET (⭐160)](https://github.com/AnthonyLloyd/MKL.NET) - A simple cross platform .NET API for Intel MKL.
+*   [MKL.NET (⭐169)](https://github.com/AnthonyLloyd/MKL.NET) - A simple cross platform .NET API for Intel MKL.
 
 ### PDF
 

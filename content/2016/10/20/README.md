@@ -31,11 +31,11 @@
 
 ### Related Projects / Themes
 
-*   [Ant Visualization](https://antv.alipay.com/) - Professional data visualization specification that aims to put several years of valuable data pattern group work in the process of exploring data visualization to share with all people who need data visualization theory. AntV consists of few parts, data, design specifications and rules for use of the chart, ([Read more (⭐123)](https://github.com/antvis/feedback)).
+*   [Ant Visualization](https://antv.alipay.com/) - Professional data visualization specification that aims to put several years of valuable data pattern group work in the process of exploring data visualization to share with all people who need data visualization theory. AntV consists of few parts, data, design specifications and rules for use of the chart, ([Read more (⭐124)](https://github.com/antvis/feedback)).
 
 ### Boilerplates / Themes
 
-*   [CL React (⭐177)](https://github.com/chenliang2016/CLReactAntDesign) - Based on Ant Design front-end framework structures for enterprise back-office software.
+*   [CL React (⭐176)](https://github.com/chenliang2016/CLReactAntDesign) - Based on Ant Design front-end framework structures for enterprise back-office software.
 
 ## [3. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 

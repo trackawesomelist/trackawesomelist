@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 26, 2023
 
-7 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,20 +10,14 @@
 
 ### APIs, Data, and ML
 
-*   [Zuplo](https://zuplo.com/) - Add API Key authentication, rate limiting, and developer documentation to any API in minutes. The free plan offers up to 10 projects, unlimited production edge environments, 250 API keys, 100K monthly requests, and 1GB egress.
+*   [Zuplo](https://zuplo.com/) - Free API Management platform to design, build, and deploy APIs to the Edge. Add API Key authentication, rate limiting, developer documentation and Monetization to any API in minutes. OpenAPI-native and fully-programmable with web standard apis & Typescript. The free plan offers up to 10 projects, unlimited production edge environments, 250 API keys, 100K monthly requests, and 1GB egress.
 
-## [2. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
-
-### Resources / Ironsworn
-
-*   [Starsmith Expanded Oracles](https://preview.drivethrurpg.com/en/product/417619/Starsmith-Expanded-Oracles) - Supplemental oracles for Starforged
-
-## [3. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
+## [2. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
 ### Extensions
 
-*   [next-google-tag-manager (⭐44)](https://github.com/XD2Sketch/next-google-tag-manager) – Easily add Google Tag Manager to Next 13 and up.
-*   [next-api-decorators (⭐391)](https://github.com/storyofams/next-api-decorators) - Decorators to create typed Next.js API routes, with easy request validation and transformation.
+*   [next-google-tag-manager (⭐48)](https://github.com/XD2Sketch/next-google-tag-manager) – Easily add Google Tag Manager to Next 13 and up.
+*   [next-api-decorators (⭐420)](https://github.com/storyofams/next-api-decorators) - Decorators to create typed Next.js API routes, with easy request validation and transformation.
 
 ### Projects(Beginner level)
 
@@ -32,7 +26,7 @@
 *   [Full Stack Spotify Clone: Next 13.4, React, Stripe, Supabase, PostgreSQL, Tailwind (2023)](https://youtube.com/watch?v=2aeMRB8LL4o\&t=4402s)
 *   [Full Stack E-Commerce + Dashboard & CMS: Next.js 13 App Router, React, Tailwind, Prisma, MySQL, 2023](https://www.youtube.com/watch?v=5miHyP6lExg\&t=1908s)
 
-## [4. Web Development Resources](/content/markodenic/web-development-resources/README.md)
+## [3. Web Development Resources](/content/markodenic/web-development-resources/README.md)
 
 ### CSS Games:
 
@@ -72,23 +66,23 @@
 
 
 
-## [5. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
+## [4. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
 ### Programming Languages / [Other](#other-1)
 
 *   [CakeFuzzer](https://zigrin.com/tools/cake-fuzzer/) — Web application security testing tool for CakePHP-based web applications. CakeFuzzer employs a predefined set of attacks that are randomly modified before execution. Leveraging its deep understanding of the Cake PHP framework, Cake Fuzzer launches attacks on all potential application entry points.
 
-## [6. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
+## [5. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
 
 ### Other LLM Frameworks / Videos Playlists
 
 *   [AgentVerse (⭐4k)](https://github.com/openbmb/agentverse) Provides a flexible framework that simplifies the process of building custom multi-agent environments for LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/openbmb/agentverse?style=social)
 
-## [7. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
+## [6. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
 
 ### Hardware / Accessories and Adapters
 
-*   [PlotAdapter (⭐21)](https://github.com/rhalkyard/plotadapter) - "Serial-GPIB converter for HP Plotters", uses an Arduino microcontroller to convert serial HPGL to the GPIB/HP-IB expected by some older HP plotters.
+*   [PlotAdapter (⭐22)](https://github.com/rhalkyard/plotadapter) - "Serial-GPIB converter for HP Plotters", uses an Arduino microcontroller to convert serial HPGL to the GPIB/HP-IB expected by some older HP plotters.
 
 ### Inspiration, Instruction, and Research / Fonts
 

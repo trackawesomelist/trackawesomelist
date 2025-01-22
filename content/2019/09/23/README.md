@@ -10,11 +10,11 @@
 
 ### Reinforcement Learning / Others
 
-*   [Dopamine (⭐10k)](https://github.com/google/dopamine) - A research framework for fast prototyping of reinforcement learning algorithms.
+*   [Dopamine (⭐11k)](https://github.com/google/dopamine) - A research framework for fast prototyping of reinforcement learning algorithms.
 
 ### Statistics / NLP
 
-*   [weightedcalcs (⭐104)](https://github.com/jsvine/weightedcalcs) - A pandas-based utility to calculate weighted means, medians, distributions, standard deviations, and more.
+*   [weightedcalcs (⭐103)](https://github.com/jsvine/weightedcalcs) - A pandas-based utility to calculate weighted means, medians, distributions, standard deviations, and more.
 
 ### Distributed Computing / Synthetic Data
 
@@ -47,7 +47,7 @@
 
 ### UI / UI Helpers
 
-*   [ShowCaseView (⭐1.4k)](https://github.com/simformsolutions/flutter_showcaseview) <!--stargazers:simformsolutions/flutter_showcaseview--> - Way to showcase your app features on iOS and Android by [Simform](https://github.com/simformsolutions)
+*   [ShowCaseView (⭐1.6k)](https://github.com/simformsolutions/flutter_showcaseview) <!--stargazers:simformsolutions/flutter_showcaseview--> - Way to showcase your app features on iOS and Android by [Simform](https://github.com/simformsolutions)
 
 ### UI / Effect
 
@@ -105,7 +105,7 @@
 
 ### GitHub Tools and Management / Docker Container Actions
 
-*   [Generate sequential build numbers for GitHub Actions (⭐130)](https://github.com/einaregilsson/build-number)
+*   [Generate sequential build numbers for GitHub Actions (⭐138)](https://github.com/einaregilsson/build-number)
 
 ### Deployment / Code Coverage
 
@@ -115,7 +115,7 @@
 
 ### Windows Utilities / Web Exploitation Books
 
-*   [WinPwn (⭐3.2k)](https://github.com/SecureThisShit/WinPwn) - Internal penetration test script to perform local and domain reconnaissance, privilege escalation and exploitation.
+*   [WinPwn (⭐3.4k)](https://github.com/SecureThisShit/WinPwn) - Internal penetration test script to perform local and domain reconnaissance, privilege escalation and exploitation.
 
 ## [9. Awesome Ads](/content/cenoura/awesome-ads/README.md)
 
@@ -127,7 +127,7 @@
 
 ### Packages / Static site generators
 
-*   [Charge (⭐424)](https://github.com/brandonweiss/charge) - Opinionated, zero-config static site generator using JSX and MDX.
+*   [Charge (⭐427)](https://github.com/brandonweiss/charge) - Opinionated, zero-config static site generator using JSX and MDX.
 
 ### Resources / Tutorials
 
@@ -156,15 +156,15 @@
 
 ### Front-End Development
 
-*   [KnockoutJS (⭐97)](https://github.com/dnbard/awesome-knockout#readme) - JavaScript library.
-*   [Dojo Toolkit (⭐83)](https://github.com/petk/awesome-dojo#readme) - JavaScript toolkit.
+*   [KnockoutJS (⭐100)](https://github.com/dnbard/awesome-knockout#readme) - JavaScript library.
+*   [Dojo Toolkit (⭐87)](https://github.com/petk/awesome-dojo#readme) - JavaScript toolkit.
 
 ### Back-End Development
 
-*   [Vagrant (⭐596)](https://github.com/iJackUA/awesome-vagrant#readme) - Automation virtual machine environment.
-*   [Pyramid (⭐550)](https://github.com/uralbash/awesome-pyramid#readme) - Python framework.
-*   [Phalcon (⭐604)](https://github.com/phalcon/awesome-phalcon#readme) - PHP framework.
-*   [Dropwizard (⭐92)](https://github.com/stve/awesome-dropwizard#readme) - Java framework.
+*   [Vagrant (⭐605)](https://github.com/iJackUA/awesome-vagrant#readme) - Automation virtual machine environment.
+*   [Pyramid (⭐554)](https://github.com/uralbash/awesome-pyramid#readme) - Python framework.
+*   [Phalcon (⭐609)](https://github.com/phalcon/awesome-phalcon#readme) - PHP framework.
+*   [Dropwizard (⭐94)](https://github.com/stve/awesome-dropwizard#readme) - Java framework.
 *   [Lumen (⭐327)](https://github.com/unicodeveloper/awesome-lumen#readme) - PHP micro-framework.
 *   [Serverless Framework (⭐2.1k)](https://github.com/pmuens/awesome-serverless#readme) - Serverless computing and serverless architectures.
 

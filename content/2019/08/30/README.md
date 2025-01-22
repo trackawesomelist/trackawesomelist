@@ -10,12 +10,12 @@
 
 ### Model Explanation / Others
 
-*   [Auralisation (⭐39)](https://github.com/keunwoochoi/Auralisation) - Auralisation of learned features in CNN (for audio).
-*   [CapsNet-Visualization (⭐394)](https://github.com/bourdakos1/CapsNet-Visualization) - A visualization of the CapsNet layers to better understand how it works.
-*   [lucid (⭐4.6k)](https://github.com/tensorflow/lucid) - A collection of infrastructure and tools for research in neural network interpretability.
-*   [Netron (⭐26k)](https://github.com/lutzroeder/Netron) - Visualizer for deep learning and machine learning models (no Python code, but visualizes models from most Python Deep Learning frameworks).
+*   [Auralisation (⭐42)](https://github.com/keunwoochoi/Auralisation) - Auralisation of learned features in CNN (for audio).
+*   [CapsNet-Visualization (⭐393)](https://github.com/bourdakos1/CapsNet-Visualization) - A visualization of the CapsNet layers to better understand how it works.
+*   [lucid (⭐4.7k)](https://github.com/tensorflow/lucid) - A collection of infrastructure and tools for research in neural network interpretability.
+*   [Netron (⭐28k)](https://github.com/lutzroeder/Netron) - Visualizer for deep learning and machine learning models (no Python code, but visualizes models from most Python Deep Learning frameworks).
 *   [FlashLight](https://github.com/dlguys/flashlight) - Visualization Tool for your NeuralNetwork.
-*   [tensorboard-pytorch (⭐7.8k)](https://github.com/lanpa/tensorboard-pytorch) - Tensorboard for PyTorch (and chainer, mxnet, numpy, ...).
+*   [tensorboard-pytorch (⭐7.9k)](https://github.com/lanpa/tensorboard-pytorch) - Tensorboard for PyTorch (and chainer, mxnet, numpy, ...).
 
 ### Data Manipulation / Data Frames
 
@@ -23,7 +23,7 @@
 
 ### Data Manipulation / Pipelines
 
-*   [meza (⭐411)](https://github.com/reubano/meza) - A Python toolkit for processing tabular data.
+*   [meza (⭐414)](https://github.com/reubano/meza) - A Python toolkit for processing tabular data.
 
 ## [2. Awesome Bioie](/content/caufieldjh/awesome-bioie/README.md)
 
@@ -41,7 +41,7 @@
 
 ### Software / Maps and Global Positioning System (GPS)
 
-*   [OpenStreetMap](https://www.openstreetmap.org/) - Collaborative project to create a free editable map of the world. ([Source Code (⭐2.1k)](https://github.com/openstreetmap/openstreetmap-website), [Clients](https://wiki.openstreetmap.org/wiki/Software)) `GPL-2.0` `Ruby`
+*   [OpenStreetMap](https://www.openstreetmap.org/) - Collaborative project to create a free editable map of the world. ([Source Code (⭐2.3k)](https://github.com/openstreetmap/openstreetmap-website), [Clients](https://wiki.openstreetmap.org/wiki/Software)) `GPL-2.0` `Ruby`
 
 ### Software / Miscellaneous
 
@@ -57,12 +57,11 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Vue Crypto Dashboard (⭐227)](https://github.com/JayeshLab/vue-crypto-dashboard) - Cryptocurrency Dashboard made with Vue.js
+*   [Vue Crypto Dashboard (⭐231)](https://github.com/JayeshLab/vue-crypto-dashboard) - Cryptocurrency Dashboard made with Vue.js
 
 ### Components & Libraries / UI Components
 
-*   [vue-sweetalert2 (⭐642)](https://github.com/avil13/vue-sweetalert2) - wrapper for sweatlaert2 with support for TypeScript, Nuxt and SSR
-*   [vue-modality (⭐5)](https://github.com/ovictorpereira/vue-modality) - A really nice Vue.js modal component
+*   [vue-sweetalert2 (⭐657)](https://github.com/avil13/vue-sweetalert2) - wrapper for sweatlaert2 with support for TypeScript, Nuxt and SSR
 
 ## [7. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
 
@@ -74,7 +73,7 @@
 
 ### Tools
 
-*   [Ansible Lint (⭐3.3k)](https://github.com/ansible/ansible-lint) - Checks Playbooks for best practices and behavior that could potentially be improved.
+*   [Ansible Lint (⭐3.5k)](https://github.com/ansible/ansible-lint) - Checks Playbooks for best practices and behavior that could potentially be improved.
 
 ## [9. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

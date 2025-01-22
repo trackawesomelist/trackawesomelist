@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 03, 2018
 
-15 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -36,57 +36,51 @@
 
 ### Web Application Framework
 
-*   [Cutelyst (⭐905)](https://github.com/cutelyst/cutelyst) - A C++ Web Framework built on top of Qt, using the simple approach of Catalyst (Perl) framework. \[BSD-3-Clause] [website](https://cutelyst.org/)
+*   [Cutelyst (⭐926)](https://github.com/cutelyst/cutelyst) - A C++ Web Framework built on top of Qt, using the simple approach of Catalyst (Perl) framework. \[BSD-3-Clause] [website](https://cutelyst.org/)
 
-## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / UI Components
-
-*   [vue-img-view (⭐30)](https://github.com/la7ender/vue-img-view) - a plugin for Vue.js, you can drag / view / rotate pictures anywhere
-
-## [7. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
+## [6. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
 
 ### Blockchain
 
 *   [Crypto Jobs List](https://cryptojobslist.com/) - Crypto Jobs List is your #1 board to find and post crypto, bitcoin and blockchain jobs
 
-## [8. Awesome Framer](/content/podo/awesome-framer/README.md)
+## [7. Awesome Framer](/content/podo/awesome-framer/README.md)
 
 ### Examples
 
 *   [Framer Experiments by Ed Chao](http://thatedchao.com/published/2014/10/27/framer.html) - Several awesome examples with download links from designer at Dropbox.
 
-## [9. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
+## [8. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 
 ### Document
 
 *   Epic
     *   [Efficient use of Vulkan on UE4 Mobile](https://community.arm.com/cfs-file/__key/telligent-evolution-extensions-calendar-calendarfiles/00-00-00-00-05/6_2D00_mmg_2D00_siggraph2016_2D00_vulkan_2D00_smedis.pdf)
 
-## [10. Awesome Projects Boilerplates](/content/melvin0008/awesome-projects-boilerplates/README.md)
+## [9. Awesome Projects Boilerplates](/content/melvin0008/awesome-projects-boilerplates/README.md)
 
 ### Python
 
 *   [hasura/hello-python-flask](https://hasura.io/hub/project/hasura/hello-python-flask) A boilerplate Flask application which can be deployed in 3 mins, with ready-to-use database, authentication and file APIs.
 
-## [11. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [10. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Community / Interfaces to other package managers
 
 *   [qldeb (⭐5)](https://github.com/ralt/qldeb) -  Quicklisp systems to debian packages, along with [deb-packager (⭐4)](https://github.com/ralt/deb-packager) (simply create a debian package by defining an s-expression) and an introductory [blog post](http://margaine.com/2015/12/22/quicklisp-packagecloud-debian-packages.html). Both [MIT](https://opensource.org/licenses/MIT).
 *   [ql-to-deb (⭐23)](https://github.com/dimitri/ql-to-deb) -  Update cl-\* debian packages from Quicklisp releases. WTFPL.
 
-## [12. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [11. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### GUI
 
-*   [QtSharp (⭐570)](https://github.com/ddobrev/QtSharp) - Mono/.NET Bindings for Qt
+*   [QtSharp (⭐577)](https://github.com/ddobrev/QtSharp) - Mono/.NET Bindings for Qt
 
 ### IDE
 
 *   [Visual Studio Code](https://code.visualstudio.com/) - Excellent open source editor from Microsoft, based on Electron.
 
-## [13. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [12. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Blockchain
 
@@ -100,7 +94,7 @@
 
 *   [LibLog (⭐929)](https://github.com/damianh/LibLog) - Single file for you to either copy/paste or install via nuget, into your library/ framework/ application to provide a logging abstraction.
 
-## [14. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [13. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Animation
 
@@ -114,7 +108,7 @@
 
 *   [Zingle (⭐111)](https://github.com/hemangshah/Zingle) - An alert will display underneath your UINavigationBar.
 
-## [15. Awesome ad Free](/content/johnjago/awesome-ad-free/README.md)
+## [14. Awesome ad Free](/content/johnjago/awesome-ad-free/README.md)
 
 ### Resources / Ad Blockers
 

@@ -12,28 +12,24 @@
 
 *   [LangchainRb (⭐1.2k)](https://github.com/andreibondarev/langchainrb): Ruby Langchain ![GitHub Repo stars](https://img.shields.io/github/stars/andreibondarev/langchainrb?style=social)
 
-## [2. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md)
-
-### Events / Conferences
-
-*   [We Love Speed](https://www.welovespeed.com/) – We Love Speed ​​was born from the desire to share knowledge and experiences in web performance as widely as possible.
-
-## [3. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
-
-### Starter Templates / Diagnostics
-
-*   [tokiory/neovim-boilerplate (⭐93)](https://github.com/tokiory/neovim-boilerplate) - Starter boilerplate for making new configurations.
-*   [frans-johansson/lazy-nvim-starter (⭐80)](https://github.com/frans-johansson/lazy-nvim-starter) - Starter boilerplate with lazy plugin manager.
-
-## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Email
 
 *   [Imitate Email](https://imitate.email) - Sandbox Email Server for testing email functionality across build/qa and ci/cd. Free accounts get 15 emails a day forever.
 
-### BaaS
+## [3. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md)
 
-*   [nudge-hook.net](https://nudge-hook.net/client) — Job Scheduling API (with swagger/openapi client). Allows you to schedule as many ad-hoc/cron/periodic webhook deliveries as possible. Free for everyone (no signup required), but infinite schedules are limited to 500 'nudges' max. Accepts donations.
+### Events / Conferences
+
+*   [We Love Speed](https://www.welovespeed.com/) – We Love Speed ​​was born from the desire to share knowledge and experiences in web performance as widely as possible.
+
+## [4. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+### Starter Templates / Diagnostics
+
+*   [tokiory/neovim-boilerplate (⭐98)](https://github.com/tokiory/neovim-boilerplate) - Starter boilerplate for making new configurations.
+*   [frans-johansson/lazy-nvim-starter (⭐90)](https://github.com/frans-johansson/lazy-nvim-starter) - Starter boilerplate with lazy plugin manager.
 
 ## [5. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 

@@ -20,14 +20,14 @@
 
 ### Non-JavaScript Libraries / Themes
 
-*   [Antizer (⭐258)](https://github.com/priornix/antizer) - Ant Design library for [ClojureScript](https://clojurescript.org/), an immutable, functional language that cross-compiles to JavaScript.
+*   [Antizer (⭐259)](https://github.com/priornix/antizer) - Ant Design library for [ClojureScript](https://clojurescript.org/), an immutable, functional language that cross-compiles to JavaScript.
 
 ## [3. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Libraries / Scripting
 
-*   [gluon-lang/gluon (⭐3.2k)](https://github.com/gluon-lang/gluon) - A small, statically-typed, functional programming language
-*   [murarth/ketos (⭐749)](https://github.com/murarth/ketos) - A Lisp dialect functional programming language serving as a scripting and extension language for rust
+*   [gluon-lang/gluon (⭐3.3k)](https://github.com/gluon-lang/gluon) - A small, statically-typed, functional programming language
+*   [murarth/ketos (⭐752)](https://github.com/murarth/ketos) - A Lisp dialect functional programming language serving as a scripting and extension language for rust
 
 ## [4. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
@@ -68,11 +68,11 @@
 
 *   [BeaqleJS (⭐86)](https://github.com/HSU-ANT/beaqlejs) - A framework to create browser based listening tests for subjective audio quality assessment.
 *   [MediaInfo](https://mediaarea.net/en/MediaInfo) - A convenient unified display of the most relevant technical and tag data for video and audio files.
-*   [Photon (⭐234)](https://github.com/Netflix/photon) - Implementation of the SMPTE Interoperable Master Format (IMF) standard.
-*   [QCTools (⭐306)](https://github.com/bavc/qctools) - Quality Control tools for video preservation to analyse digitized video files.
-*   [Rotter (⭐49)](https://github.com/njh/rotter) - Recording of Transmissions / Audio Logger for JACK.
-*   [silan (⭐38)](https://github.com/x42/silan) -  Audiofile silence analyzer.
-*   [VMAF (⭐4.3k)](https://github.com/Netflix/vmaf) - Perceptual video quality assessment based on multi-method fusion.
+*   [Photon (⭐239)](https://github.com/Netflix/photon) - Implementation of the SMPTE Interoperable Master Format (IMF) standard.
+*   [QCTools (⭐319)](https://github.com/bavc/qctools) - Quality Control tools for video preservation to analyse digitized video files.
+*   [Rotter (⭐50)](https://github.com/njh/rotter) - Recording of Transmissions / Audio Logger for JACK.
+*   [silan (⭐39)](https://github.com/x42/silan) -  Audiofile silence analyzer.
+*   [VMAF (⭐4.7k)](https://github.com/Netflix/vmaf) - Perceptual video quality assessment based on multi-method fusion.
 *   [Wisual (⭐19)](https://github.com/MarcAntoine-Arnaud/wisual) - A web service for Visual Quality Assessment, which supports PSNR, SSIM, VQM, etc.
 
 ### Radio Production
@@ -127,7 +127,7 @@
 
 ### Machine Learning Libraries / Frameworks
 
-*   [rblearn (⭐1)](https://github.com/himkt/rblearn) - Feature Extraction and Crossvalidation library.
+*   [rblearn (⭐2)](https://github.com/himkt/rblearn) - Feature Extraction and Crossvalidation library.
 *   [data\_modeler (⭐1)](https://github.com/giuse/data_modeler) -
     Model your data with machine learning. Ample test coverage, examples to start fast, complete documentation. Production ready since 1.0.0.
 
@@ -147,7 +147,7 @@
 
 ## [18. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
-### Image Analysis / Telegram
+### Image Analysis / Steam
 
 *   [Jeffreys Image Metadata Viewer](http://exif.regex.info/)
 
@@ -167,8 +167,8 @@
 
 ### General information
 
-*   [Wikipedia: Regression testing](https://en.wikipedia.org/wiki/Regression_testing)
 *   [Survey of screenshot-based CSS testing tools](https://gist.github.com/cvrebert/adf91e429906a4d746cd)
+*   [Wikipedia: Regression testing](https://en.wikipedia.org/wiki/Regression_testing)
 
 ## [22. Awesome Deep Learning Papers](/content/terryum/awesome-deep-learning-papers/week/README.md)
 
@@ -190,7 +190,7 @@
 
 ## [24. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
-### Competitions
+### Competitions / Commerical Tools
 
 *   [MIT Battlecode](https://www.battlecode.org/)
 
@@ -198,7 +198,7 @@
 
 ### Swift / General-Purpose Machine Learning
 
-*   [Perfect TensorFlow (⭐167)](https://github.com/PerfectlySoft/Perfect-TensorFlow) - Swift Language Bindings of TensorFlow. Using native TensorFlow models on both macOS / Linux.
+*   [Perfect TensorFlow (⭐168)](https://github.com/PerfectlySoft/Perfect-TensorFlow) - Swift Language Bindings of TensorFlow. Using native TensorFlow models on both macOS / Linux.
 
 ## [26. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
@@ -232,8 +232,8 @@
 
 ### Tools & Software
 
-*   [Comparison of web archiving software (⭐91)](https://github.com/archivers-space/research/tree/master/web_archiving)
-*   [Awesome Website Change Monitoring (⭐481)](https://github.com/edgi-govdata-archiving/awesome-website-change-monitoring)
+*   [Comparison of web archiving software (⭐95)](https://github.com/archivers-space/research/tree/master/web_archiving)
+*   [Awesome Website Change Monitoring (⭐500)](https://github.com/edgi-govdata-archiving/awesome-website-change-monitoring)
 
 ## [31. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
@@ -265,10 +265,6 @@
 
 ## [33. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
-### Resources / Community
-
-*   [Vue Land - Discord chat server](https://vue-land.js.org/)
-
 ### Resources / Tutorials
 
 *   [Vue.js 2 & Firebase - Building Real Time Single Page Web Applications](https://www.youtube.com/watch?v=we4zuQIXmnw)
@@ -277,12 +273,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [v-img (⭐415)](https://github.com/crowdbotics/v-img) - Easy to install image gallery.
-*   [vue-flatpickr-component (⭐965)](https://github.com/ankurk91/vue-flatpickr-component) Vue.js component for [flatpickr (⭐16k)](https://github.com/chmln/flatpickr) datetime picker
-
-### Components & Libraries / UI Utilities
-
-*   [vue-3d-model (⭐2.5k)](https://github.com/hujiulong/vue-3d-model) - A 3D model viewer in Vue component.
+*   [vue-flatpickr-component (⭐970)](https://github.com/ankurk91/vue-flatpickr-component) Vue.js component for [flatpickr (⭐16k)](https://github.com/chmln/flatpickr) datetime picker
 
 ## [34. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
@@ -318,7 +309,7 @@
 
 *   [Keycloak Website](http://www.keycloak.org/)
 
-### Discussion Groups and Mailing Lists
+### Community, SIGs, Discussion Forums and Mailing Lists
 
 *   [Mailing List Search](http://www.keycloak.org/search)
 
@@ -348,18 +339,18 @@
 
 ### Community Extensions
 
-*   [Keyloak Proxy written in Go (⭐950)](https://github.com/gambol99/keycloak-proxy)
+*   [Keyloak Proxy written in Go (⭐948)](https://github.com/gambol99/keycloak-proxy)
 
 ### Integrations
 
 *   [Keycloak support for Aurelia (⭐4)](https://github.com/waynepennington/aurelia-keycloak)
-*   [Keycloak OAuth2 Auth for PHP (⭐203)](https://github.com/stevenmaguire/oauth2-keycloak)
-*   [Jenkins Keycloak Authentication Plugin (⭐34)](https://github.com/jenkinsci/keycloak-plugin)
+*   [Keycloak OAuth2 Auth for PHP (⭐210)](https://github.com/stevenmaguire/oauth2-keycloak)
+*   [Jenkins Keycloak Authentication Plugin (⭐37)](https://github.com/jenkinsci/keycloak-plugin)
 
 ### Themes
 
 *   [Community Keycloak Ionic Theme (⭐21)](https://github.com/lfryc/keycloak-ionic-theme)
-*   [A Keycloak theme based on the AdminLTE UI library (⭐90)](https://github.com/MAXIMUS-DeltaWare/adminlte-keycloak-theme)
+*   [A Keycloak theme based on the AdminLTE UI library (⭐93)](https://github.com/MAXIMUS-DeltaWare/adminlte-keycloak-theme)
 
 ### Docker
 
@@ -368,11 +359,11 @@
 
 ### Example Projects
 
-*   [Official Examples (⭐21k)](https://github.com/keycloak/keycloak/tree/master/examples)
-*   [Keycloak Quickstarts (⭐1.9k)](https://github.com/keycloak/keycloak-quickstarts)
+*   [Official Examples (⭐25k)](https://github.com/keycloak/keycloak/tree/master/examples)
+*   [Keycloak Quickstarts (⭐2k)](https://github.com/keycloak/keycloak-quickstarts)
 *   [Drupal 7.0 with Keycloak](https://gist.github.com/thomasdarimont/17fa146c4fb5440d7fc2ee6322ec392d)
 *   [Securing Realm Resources With Custom Roles (⭐14)](https://github.com/dteleguin/custom-admin-roles)
-*   [BeerCloak: a comprehensive KeyCloak extension example (⭐133)](https://github.com/dteleguin/beercloak)
+*   [BeerCloak: a comprehensive KeyCloak extension example (⭐137)](https://github.com/dteleguin/beercloak)
 *   [KeyCloak Extensions: Securing Realm Resources With Custom Roles (⭐14)](https://github.com/dteleguin/custom-admin-roles)
 
 ### Benchmarks

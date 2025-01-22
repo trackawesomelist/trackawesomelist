@@ -195,14 +195,14 @@ git log --show-notes='*'
 
 ### Applications / Episodes
 
-*   [CANToolz (⭐304)](https://github.com/eik00d/CANToolz) - CANToolz is a framework for analysing CAN networks and devices. It is based on several modules which can be assembled in a pipeline.
+*   [CANToolz (⭐307)](https://github.com/eik00d/CANToolz) - CANToolz is a framework for analysing CAN networks and devices. It is based on several modules which can be assembled in a pipeline.
 *   [BUSMASTER](https://rbei-etas.github.io/busmaster/) -An Open Source tool to simulate, analyze and test data bus systems such as CAN, LIN, FlexRay.
 
 ## [17. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
 
 ### Other
 
-*   [shrinkpack (⭐792)](https://github.com/JamieMason/shrinkpack) - Lock down your dependencies and install offline.
+*   [shrinkpack (⭐793)](https://github.com/JamieMason/shrinkpack) - Lock down your dependencies and install offline.
 
 ## [18. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
@@ -377,29 +377,29 @@ git log --show-notes='*'
 
 ### GTFS Libraries / JavaScript
 
-*   [gtfs-sequelize (⭐20)](https://github.com/evansiroky/gtfs-sequelize) - Node.js library modeling the static GTFS using [sequelize.js](http://sequelizejs.com/).
+*   [gtfs-sequelize (⭐19)](https://github.com/evansiroky/gtfs-sequelize) - Node.js library modeling the static GTFS using sequelize.js.
 
 ### GTFS Libraries / Python
 
-*   [gtfslib-python (⭐43)](https://github.com/afimb/gtfslib-python) -  An open source library in python for reading GTFS files and computing various stats and indicators about Public Transport networks.
+*   [gtfslib-python (⭐44)](https://github.com/afimb/gtfslib-python) -  An open source library in python for reading GTFS files and computing various stats and indicators about Public Transport networks.
 
 ## [36. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
 ### Software / Python
 
-*   [PyGraphistry (⭐2.1k)](https://github.com/graphistry/pygraphistry) - Python library to extract, transform, and visually explore big graphs.
+*   [PyGraphistry (⭐2.2k)](https://github.com/graphistry/pygraphistry) - Python library to extract, transform, and visually explore big graphs.
 
 ## [37. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Parsing
 
-*   [ref (⭐453)](https://github.com/TooTallNate/ref) - Read/write structured binary data in Buffers.
+*   [ref (⭐457)](https://github.com/TooTallNate/ref) - Read/write structured binary data in Buffers.
 
 ## [38. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Algorithms and Data structures
 
-*   [dataframe (⭐61)](https://github.com/JordiPolo/dataframe) - Package providing functionality similar to Python's Pandas or R's data.frame().
+*   [dataframe (⭐63)](https://github.com/JordiPolo/dataframe) - Package providing functionality similar to Python's Pandas or R's data.frame().
 
 ### Framework Components
 
@@ -407,7 +407,7 @@ git log --show-notes='*'
 
 ### ORM and Datamapping
 
-*   [paper\_trail (⭐552)](https://github.com/izelnakri/paper_trail) - Ecto plugin for tracking and recording all the changes in your database.
+*   [paper\_trail (⭐571)](https://github.com/izelnakri/paper_trail) - Ecto plugin for tracking and recording all the changes in your database.
 
 ### Testing
 
@@ -489,7 +489,7 @@ Webpage: <https://pt.foursquare.com/v/casinha-boutique-caf%C3%A9/53909128498ec1b
 
 ### Apps / Media
 
-*   [wagtailmedia (⭐231)](https://github.com/torchbox/wagtailmedia) - A Wagtail module for managing video and audio files within the admin.
+*   [wagtailmedia (⭐232)](https://github.com/torchbox/wagtailmedia) - A Wagtail module for managing video and audio files within the admin.
 
 ### Apps / Translations
 
@@ -501,17 +501,17 @@ Webpage: <https://pt.foursquare.com/v/casinha-boutique-caf%C3%A9/53909128498ec1b
 
 ### Apps / Content Management
 
-*   [Wagtail Themes (⭐101)](https://github.com/moorinteractive/wagtail-themes) - Site-specific theme loader for Wagtail.
+*   [Wagtail Themes (⭐103)](https://github.com/moorinteractive/wagtail-themes) - Site-specific theme loader for Wagtail.
 
 ### Tools / Templates & Starter Kits
 
-*   [Wagtail Cookiecutter Foundation (⭐167)](https://github.com/chrisdev/wagtail-cookiecutter-foundation) - A Cookiecutter template for Wagtail CMS using Zurb Foundation 6.
+*   [Wagtail Cookiecutter Foundation (⭐166)](https://github.com/chrisdev/wagtail-cookiecutter-foundation) - A Cookiecutter template for Wagtail CMS using Zurb Foundation 6.
 
 ## [42. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Middlewares
 
-*   [Relay (⭐318)](https://github.com/relayphp/Relay.Relay) - A PHP 5.5 PSR-7 middleware dispatcher.
+*   [Relay (⭐323)](https://github.com/relayphp/Relay.Relay) - A PHP 5.5 PSR-7 middleware dispatcher.
 
 ### Table of Contents / Testing
 
@@ -547,7 +547,7 @@ Webpage: <https://pt.foursquare.com/v/casinha-boutique-caf%C3%A9/53909128498ec1b
 
 ### Web Frameworks
 
-*   [FubuMVC (⭐427)](https://github.com/DarthFubuMVC/fubumvc) - A front-controller style MVC framework for .NET
+*   [FubuMVC (⭐426)](https://github.com/DarthFubuMVC/fubumvc) - A front-controller style MVC framework for .NET
 
 ---
 

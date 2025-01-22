@@ -10,7 +10,7 @@
 
 ### Official Docs & Quickstarts
 
-*   🔧 [Docker Images (⭐75)](https://github.com/nextgenhealthcare/connect-docker) - Official Docker Image.
+*   🔧 [Docker Images (⭐81)](https://github.com/nextgenhealthcare/connect-docker) - Official Docker Image.
 
 ### Client API
 
@@ -29,10 +29,6 @@
 
 ## [3. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
-### Relocation Incentives
-
-*   [Visto](https://visto.ai/find-a-job) - We relocate developers to canada and help companies to bring developers outside the world!
-
 ### Companies with "remote DNA"
 
 *   [Svix](https://www.svix.com/careers/) - Open source and hosted webhook service so you can launch webhooks in days, not months.
@@ -41,11 +37,11 @@
 
 ### Tools
 
-*   [bit-smasher (⭐51)](https://github.com/thephoeron/bit-smasher) -  Common Lisp library for handling bit vectors, bit vector arithmetic, and type conversions. [MIT](https://opensource.org/licenses/MIT).
+*   [bit-smasher (⭐53)](https://github.com/thephoeron/bit-smasher) -  Common Lisp library for handling bit vectors, bit vector arithmetic, and type conversions. [MIT](https://opensource.org/licenses/MIT).
 
 ### Mobile
 
-*   [shasht (⭐44)](https://github.com/yitzchak/shasht) -  Common Lisp JSON reading and writing for the Kzinti. [MIT](https://directory.fsf.org/wiki/License:Expat).
+*   [shasht (⭐53)](https://github.com/yitzchak/shasht) -  Common Lisp JSON reading and writing for the Kzinti. [MIT](https://directory.fsf.org/wiki/License:Expat).
     *   " Shasht is one of the two new libraries that I particularly like and is already in quicklisp. It is fast, it handles null correctly, it encodes CLOS objects, structures and hash-tables. It can also do incremental encoding." Sabra Crolleton.
 
 ## [5. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
@@ -67,14 +63,14 @@
 
 ### Examples
 
-*   [dbt-labs/dbt-core (⭐9.3k)](https://github.com/dbt-labs/dbt-core#readme) - Project banner, super clear description (friendly to people brand new to the product), screenshot of the docs the tool generates, and concise links to other comprehensive pages explaining Getting Started, Joining the dbt Community, Bug Reports, Code Contribution, and Code of Conduct
-*   [refinedev/refine (⭐26k)](https://github.com/refinedev/refine#readme) - Clean project logo. Brief description at top. Multiple badges. Usage description and examples. Use cases and demo links. Screenshots. Key Features. Contributors. Stargazers. Contribution guidelines.
+*   [dbt-labs/dbt-core (⭐10k)](https://github.com/dbt-labs/dbt-core#readme) - Project banner, super clear description (friendly to people brand new to the product), screenshot of the docs the tool generates, and concise links to other comprehensive pages explaining Getting Started, Joining the dbt Community, Bug Reports, Code Contribution, and Code of Conduct
+*   [refinedev/refine (⭐30k)](https://github.com/refinedev/refine#readme) - Clean project logo. Brief description at top. Multiple badges. Usage description and examples. Use cases and demo links. Screenshots. Key Features. Contributors. Stargazers. Contribution guidelines.
 
 ## [7. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Get Started
 
-*   [create-nx-workspace (⭐23k)](https://github.com/nrwl/nx) - Scaffolding a Nx + React + Vite + Vitest.
+*   [create-nx-workspace (⭐24k)](https://github.com/nrwl/nx) - Scaffolding a Nx + React + Vite + Vitest.
 
 ### Templates / React
 
@@ -82,13 +78,13 @@
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-optimize-css-modules (⭐28)](https://github.com/Simonwep/vite-plugin-optimize-css-modules) - Generate the smallest possible CSS-Classes when CSS-Modules are used.
+*   [vite-plugin-optimize-css-modules (⭐34)](https://github.com/Simonwep/vite-plugin-optimize-css-modules) - Generate the smallest possible CSS-Classes when CSS-Modules are used.
 
 ## [8. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Motion / Diagnostics
 
-*   [cbochs/portal.nvim (⭐331)](https://github.com/cbochs/portal.nvim) - Build upon and enhance existing jumplist motions (i.e. `<c-i>` and `<c-o>`).
+*   [cbochs/portal.nvim (⭐351)](https://github.com/cbochs/portal.nvim) - Build upon and enhance existing jumplist motions (i.e. `<c-i>` and `<c-o>`).
 
 ## [9. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
@@ -103,11 +99,11 @@
 ### XM Cloud
 
 *   [Play Summit (⭐21)](https://github.com/Sitecore/Sitecore.Demo.XmCloud.PlaySummit) - Play Summit demo featuring XM Cloud, Content Hub DAM, CMP, Next.js with Versel hosting, etc.
-*   [XM Cloud Introduction (⭐47)](https://github.com/Sitecore/XM-Cloud-Introduction) - A codebase for a series of XM Cloud sites managed by the Technical Marketing Team at Sitecore: new MVP website along with 3 websites of SUGCON events.
+*   [XM Cloud Introduction (⭐48)](https://github.com/Sitecore/XM-Cloud-Introduction) - A codebase for a series of XM Cloud sites managed by the Technical Marketing Team at Sitecore: new MVP website along with 3 websites of SUGCON events.
 
 ### Demo
 
-*   [Developer Portal (⭐30)](https://github.com/Sitecore/developer-portal) - The Sitecore developer portal built with Next.js, Typescript, Tailwind CSS, and hosted on Vercel, uses static site generation to create all the pages at build time. It also utilizes Incremental Static Regeneration (ISR) to automatically update the app when changes to page content are made. With much of the page content written in Markdown and converted to HTML at build time, images are however used and managed in Sitecore DAM and
+*   [Developer Portal (⭐31)](https://github.com/Sitecore/developer-portal) - The Sitecore developer portal built with Next.js, Typescript, Tailwind CSS, and hosted on Vercel, uses static site generation to create all the pages at build time. It also utilizes Incremental Static Regeneration (ISR) to automatically update the app when changes to page content are made. With much of the page content written in Markdown and converted to HTML at build time, images are however used and managed in Sitecore DAM and
     published to a CDN.
 
 ### Edge
@@ -138,7 +134,7 @@
 
 ### Tools / Community providers
 
-*   [AIaC (⭐3.4k)](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator
+*   [AIaC (⭐3.6k)](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator
 
 ## [11. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/README.md)
 
@@ -198,13 +194,13 @@
 
 ### Libraries and Tools / Python
 
-*   [canTot (⭐113)](https://github.com/shipcod3/canTot) - A python-based cli framework based on sploitkit and is easy to use because it similar to working with Metasploit. This similar to an exploit framework but focused on known CAN Bus vulnerabilities or fun CAN Bus hacks.
+*   [canTot (⭐132)](https://github.com/shipcod3/canTot) - A python-based cli framework based on sploitkit and is easy to use because it similar to working with Metasploit. This similar to an exploit framework but focused on known CAN Bus vulnerabilities or fun CAN Bus hacks.
 
 ## [13. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
 ### Configs / Configs by Well-Known Companies/Organizations
 
-*   [Feedzai (⭐9)](https://github.com/feedzai/eslint-config-feedzai) - Feedzai's shareable config for JavaScript/React projects.
+*   [Feedzai (⭐8)](https://github.com/feedzai/eslint-config-feedzai) - Feedzai's shareable config for JavaScript/React projects.
 
 ## [14. Awesome Dos](/content/balintkissdev/awesome-dos/README.md)
 
@@ -235,7 +231,7 @@
 
 ### Localization
 
-*   [locheck (⭐97)](https://github.com/Asana/locheck) - Validate .strings, .stringsdict, and strings.xml files for correctness to avoid crashes and bad translations.
+*   [locheck (⭐100)](https://github.com/Asana/locheck) - Validate .strings, .stringsdict, and strings.xml files for correctness to avoid crashes and bad translations.
 
 ## [16. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md)
 
@@ -255,10 +251,6 @@
 
 ## [18. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
 
-### Websites and Resources
-
-*   [Quantified Self Institute](http://www.qsinstitute.org/) - Quantified Self research and innovation projects.
-
 ### Applications and Platforms / Fitness
 
 *   [OpenTracks](https://opentracksapp.com/) - Privacy-respecting offline-capable fitness activity tracker (Android).
@@ -275,7 +267,7 @@
 
 ### Software / Ticketing
 
-*   [ITFlow](https://itflow.org) - Client IT Documentation, Ticketing, Invoicing and Accounting Web Application for MSPs (Managed Service Providers). ([Demo](https://demo.itflow.org), [Source Code (⭐534)](https://github.com/itflow-org/itflow)) `GPL-3.0` `PHP`
+*   [ITFlow](https://itflow.org) - Client IT Documentation, Ticketing, Invoicing and Accounting Web Application for MSPs (Managed Service Providers). ([Demo](https://demo.itflow.org), [Source Code (⭐619)](https://github.com/itflow-org/itflow)) `GPL-3.0` `PHP`
 
 ## [20. Awesome Flame](/content/flame-engine/awesome-flame/README.md)
 

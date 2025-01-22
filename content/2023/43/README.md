@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 23 - Oct 29, 2023
 
-47 awesome lists updated this week.
+45 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -20,17 +20,17 @@
 
 ### Configuration / Text-Based User Interfaces
 
-*   [Gestalt (⭐71)](https://github.com/gestalt-config/gestalt) - Gestalt offers a comprehensive solution to the challenges of configuration management. It allows you to source configuration data from multiple inputs, merge them intelligently, and present them in a structured, type-safe manner.
+*   [Gestalt (⭐80)](https://github.com/gestalt-config/gestalt) - Gestalt offers a comprehensive solution to the challenges of configuration management. It allows you to source configuration data from multiple inputs, merge them intelligently, and present them in a structured, type-safe manner.
 
 ### Monitoring / Text-Based User Interfaces
 
 *   [Dropwizard Metrics (⭐7.8k)](https://github.com/dropwizard/metrics) - Expose metrics via JMX or HTTP and send them to a database.
-*   [Micrometer (⭐4.4k)](https://github.com/micrometer-metrics/micrometer) - Vendor-neutral metrics/observability facade for the most popular metrics/observability libraries.
-*   [Micrometer Tracing (⭐231)](https://github.com/micrometer-metrics/tracing) - Vendor-neutral distributed tracing facade for the most popular tracer libraries.
+*   [Micrometer (⭐4.5k)](https://github.com/micrometer-metrics/micrometer) - Vendor-neutral metrics/observability facade for the most popular metrics/observability libraries.
+*   [Micrometer Tracing (⭐245)](https://github.com/micrometer-metrics/tracing) - Vendor-neutral distributed tracing facade for the most popular tracer libraries.
 
 ### Serialization / Other
 
-*   [Fury (⭐2.8k)](https://github.com/alipay/fury) - Blazing fast object graph serialization framework powered by JIT and zero-copy.
+*   [Fury (⭐3.1k)](https://github.com/alipay/fury) - Blazing fast object graph serialization framework powered by JIT and zero-copy.
 
 ### Testing / Asynchronous
 
@@ -38,13 +38,13 @@
 
 ### Testing / Fixtures
 
-*   [Datafaker (⭐1.1k)](https://github.com/datafaker-net/datafaker) - Modern fake data generator forked from Java Faker.
+*   [Datafaker (⭐1.2k)](https://github.com/datafaker-net/datafaker) - Modern fake data generator forked from Java Faker.
 
 ### Utility / Mocking
 
-*   [dregex (⭐45)](https://github.com/marianobarrios/dregex) - Regular expression engine that uses deterministic finite automata. It supports some Perl-style features and yet retains linear matching time, and also offers set operations.
+*   [dregex (⭐46)](https://github.com/marianobarrios/dregex) - Regular expression engine that uses deterministic finite automata. It supports some Perl-style features and yet retains linear matching time, and also offers set operations.
 *   [JADE](https://jade.tilab.com) - Framework and environment for building and debugging multi-agent systems. (LGPL-2.0-only)
-*   [Semver4j (⭐66)](https://github.com/semver4j/semver4j) - Lightweight library that helps you handling semantic versioning with different modes.
+*   [Semver4j (⭐72)](https://github.com/semver4j/semver4j) - Lightweight library that helps you handling semantic versioning with different modes.
 
 ## [3. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
 
@@ -62,13 +62,13 @@
 
 ### Editor Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-simple-text-editor (⭐6)](https://github.com/Raiper34/ngx-simple-text-editor) - Ngx Simple Text editor or ST editor is a simple native text editor component for Angular 9+.
+*   [ngx-simple-text-editor (⭐9)](https://github.com/Raiper34/ngx-simple-text-editor) - Ngx Simple Text editor or ST editor is a simple native text editor component for Angular 9+.
 
 ## [6. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Programming Languages / [Other](#other-1)
 
-*   [luacheck (⭐340)](https://github.com/lunarmodules/luacheck) — A tool for linting and static analysis of Lua code.
+*   [luacheck (⭐372)](https://github.com/lunarmodules/luacheck) — A tool for linting and static analysis of Lua code.
 *   [fta](https://ftaproject.dev/) — Rust-based static analysis for TypeScript projects
 
 ## [7. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
@@ -94,29 +94,29 @@
 
 ### ChatGPT
 
-*   [ollama (⭐86k)](https://github.com/jmorganca/ollama) - Get up and running with Llama 2 and other large language models locally.
+*   [ollama (⭐109k)](https://github.com/jmorganca/ollama) - Get up and running with Llama 2 and other large language models locally.
 
 ### Copilot
 
 *   [Fauxpilot (⭐15k)](https://github.com/fauxpilot/fauxpilot) - an open-source,local alternative to GitHub Copilot server
-    *   [vscode-fauxpilot (⭐202)](https://github.com/Venthe/vscode-fauxpilot) - vscode extension for fauxpilot. **reminder**: use [vscodium](https://vscodium.com/) instead!
-*   [Localpilot (⭐3.3k)](https://github.com/danielgross/localpilot) - Use GitHub Copilot locally on your Macbook with one-click.
+    *   [vscode-fauxpilot (⭐204)](https://github.com/Venthe/vscode-fauxpilot) - vscode extension for fauxpilot. **reminder**: use [vscodium](https://vscodium.com/) instead!
+*   [Localpilot (⭐3.4k)](https://github.com/danielgross/localpilot) - Use GitHub Copilot locally on your Macbook with one-click.
 
 ## [9. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Alert / Barcode
 
-*   [MijickPopupView (⭐1k)](https://github.com/Mijick/PopupView) - Present any popup in no time. Keep your code clean.
+*   [MijickPopupView (⭐1.3k)](https://github.com/Mijick/PopupView) - Present any popup in no time. Keep your code clean.
 
 ### Transition / Barcode
 
-*   [MijickNavigattie (⭐198)](https://github.com/Mijick/Navigattie) - Easy navigation with SwiftUI.
+*   [MijickNavigattie (⭐264)](https://github.com/Mijick/Navigattie) - Easy navigation with SwiftUI.
 
 ## [10. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### UI Libraries, Components & Templates
 
-*   📁 [Astro Template Ovidius (⭐66)](https://github.com/JustGoodUI/ovidius-astro-theme) - Tailwind CSS & Astro blog template.
+*   📁 [Astro Template Ovidius (⭐90)](https://github.com/JustGoodUI/ovidius-astro-theme) - Tailwind CSS & Astro blog template.
 
 ## [11. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
@@ -124,29 +124,17 @@
 
 *   [kubo (⭐16k)](https://github.com/ipfs/kubo) - A blockchain framework implemented in Go. It provides content-addressable storage which can be used for decentralized storage in DApps. It is based on the IPFS protocol.
 
-## [12. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
-
-### Components & Libraries / UI Components
-
-*   [vue3-ui-preloader (⭐5)](https://github.com/gbast0s/vue3-ui-preloader) - Vue3 Pre Loader components for vue.js projects with playground.
-
-## [13. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/week/README.md)
-
-### **Section 10: General AI Tools and Extensions** / **OSS Alternatives for OpenAI Code Interpreter (aka. Advanced Data Analytics)**
-
-*   Content writing: <http://jasper.ai/chat> / [cite](https://twitter.com/slow_developer/status/1671530676045094915)
-
-## [14. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [12. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Design and Product / Other Tools
 
-*   [Aspect](https://aspect.bildhuus.com) - Photo organization application with support for peer-to-peer based synchronization across devices. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Aspect](https://aspect.bildhuus.com) - Photo organization app with peer-to-peer sync. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / Productivity
 
 *   [Journey Navigation](https://gowithjourney.com) - A powerful route planning app with weather along your route, traffic alerts, turn by turn directions, and more. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/journey-navigation/id1662059644)
 
-## [15. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [13. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Critical Views about Generative AI
 
@@ -161,7 +149,7 @@
 *   [Prompt Engineering Guide | Learn Prompting: Your Guide to Communicating with AI](https://learnprompting.org/docs/intro)
 *   [Short Courses | Learn Generative AI from DeepLearning.AI](https://www.deeplearning.ai/short-courses/)
 
-## [16. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [14. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Videos / Others
 
@@ -171,23 +159,23 @@
 
 *   [ASP.NET Core updates in .NET 8 Release Candidate 2](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-8-rc-2/) - October 10, 2023 - This is the last release candidate that we plan to share before the final .NET 8 release later this year. Most of the planned features and changes for .NET 8 are part of this release candidate and are ready for you to try out.
 
-## [17. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
+## [15. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
 
 ### Reproducing Works, Training & Books / Data Visualization
 
-*   [Quant-Finance-With-Python-Code (⭐66)](https://github.com/lingyixu/Quant-Finance-With-Python-Code) - Repo for code examples in Quantitative Finance with Python by Chris Kelliher
+*   [Quant-Finance-With-Python-Code (⭐102)](https://github.com/lingyixu/Quant-Finance-With-Python-Code) - Repo for code examples in Quantitative Finance with Python by Chris Kelliher
 
-## [18. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
+## [16. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
 
-### Form / Checkbox
+### Forms
 
 *   [Superforms](https://superforms.rocks) - SvelteKit library for handling server and client validation, and client-side display of forms.
 
-### PWA / Checkbox
+### PWA / Form Components
 
-*   [SvelteKit-Adapter-Versioned-Worker (⭐9)](https://github.com/hedgehog125/SvelteKit-Adapter-Versioned-Worker) - An easy-to-use service worker build plugin where you don't need to worry about cache durations.
+*   [SvelteKit-Adapter-Versioned-Worker (⭐12)](https://github.com/hedgehog125/SvelteKit-Adapter-Versioned-Worker) - An easy-to-use service worker build plugin where you don't need to worry about cache durations.
 
-## [19. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
+## [17. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
 
 ### Angular UI libraries:
 
@@ -197,7 +185,7 @@
 
 
 
-## [20. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
+## [18. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
 ### Apps / Outline Processor Markup Language
 
@@ -211,17 +199,17 @@
 *   [~~Subworthy~~](https://subworthy.com/) <sup>[1163](https://t.me/s/aboutrss/1163)</sup> ![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 *   [Buttondown](https://buttondown.email/) <sup>[1382](https://t.me/s/aboutrss/1382)</sup>
 
-## [21. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/week/README.md)
+## [19. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/week/README.md)
 
 ### Tools / Web Tools
 
 *   [OSM Statistics](https://piebro.github.io/openstreetmap-statistics/) - Up-to-date OSM statistics about editor usage, corporate contributions and more.
 
-## [22. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
+## [20. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### Testing / Zabbix
 
-*   [pgTAP (⭐958)](https://github.com/theory/pgtap) - Unit Testing for PostgreSQL.
+*   [pgTAP (⭐1k)](https://github.com/theory/pgtap) - Unit Testing for PostgreSQL.
 
 ### SQL / Games
 
@@ -231,7 +219,7 @@
 *   [SQL Murder Mystery](https://mystery.knightlab.com) - Designed to be both a self-directed lesson to learn SQL concepts and commands and a fun game for experienced SQL users to solve an intriguing crime.
 *   [SQL Police Department](https://sqlpd.com) - In SQLPD, you get to solve crimes while learning SQL at the same time.
 
-## [23. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
+## [21. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
 
 ### Tools / Agents
 
@@ -246,16 +234,16 @@
 
 *   [XAgent (⭐8k)](https://github.com/OpenBMB/XAgent): An Autonomous LLM Agent for Complex Task Solving ![GitHub Repo stars](https://img.shields.io/github/stars/OpenBMB/XAgent?style=social)
 
-## [24. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [22. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Development tools / FFI
 
 *   C#
-    *   [csbindgen (⭐634)](https://github.com/Cysharp/csbindgen) - generates C# bindings for Rust source files
+    *   [csbindgen (⭐717)](https://github.com/Cysharp/csbindgen) - generates C# bindings for Rust source files
 *   Prolog
-    *   [mthom/scryer-prolog (⭐2k)](https://github.com/mthom/scryer-prolog/) - Scryer Prolog is a free software ISO Prolog system written in Rust
+    *   [mthom/scryer-prolog (⭐2.1k)](https://github.com/mthom/scryer-prolog/) - Scryer Prolog is a free software ISO Prolog system written in Rust
 
-## [25. Awesome Browser Extensions for Github](/content/stefanbuck/awesome-browser-extensions-for-github/week/README.md)
+## [23. Awesome Browser Extensions for Github](/content/stefanbuck/awesome-browser-extensions-for-github/week/README.md)
 
 ### [Le Git Graph (⭐3.3k)](https://github.com/NirmalScaria/le-git-graph) <a href="https://chrome.google.com/webstore/detail/le-git-graph-commits-grap/joggkdfebigddmaagckekihhfncdobff"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/le-git-graph-github-git-graph/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
@@ -263,13 +251,13 @@ Browser extension to add git graph to GitHub website.
 
 Installs: 449 | Stars: 3313 | Last update: 6 Aug 2024
 
-## [26. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
+## [24. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
 ### Other Development Tools / Wallets
 
 *   [use-wallet-js (⭐12)](https://github.com/TxnLab/use-wallet-js) - TypeScript library for integrating Algorand wallets into decentralized applications.
 
-## [27. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [25. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Concepts / AI Concept Representation
 
@@ -283,17 +271,17 @@ Installs: 449 | Stars: 3313 | Last update: 6 Aug 2024
 
 *   [Age-of-acquisition ratings for 30,000 English words](https://link.springer.com/article/10.3758/s13428-012-0210-4) - ***Behavior Research Methods***, 2012. \[[All Versions](https://scholar.google.com/scholar?cluster=6752414178722956940\&hl=en\&as_sdt=0,5)]. \[[Project](http://crr.ugent.be/archives/806)]. A database for age-of-acquisition ratings for over 30k English words.
 
-## [28. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
+## [26. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
 ### Tools
 
-*   [dump-ipfs (⭐1)](https://github.com/quasarch/dump-ipfs) - A decentralized encrypted backup agent for popular databases supported by IPFS and Filecoin.
+*   [dump-ipfs (⭐3)](https://github.com/quasarch/dump-ipfs) - A decentralized encrypted backup agent for popular databases supported by IPFS and Filecoin.
 
 ### Pinning services
 
 *   [Scaleway](https://labs.scaleway.com/en/ipfs-pinning/) - A multi-region, multi-az redundant IPFS pinning service.
 
-## [29. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/week/README.md)
+## [27. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/week/README.md)
 
 ### Sports
 
@@ -301,51 +289,51 @@ Installs: 449 | Stars: 3313 | Last update: 6 Aug 2024
 
     <img src="https://raw.githubusercontent.com/bestmacfly/Scriptable-lichess-Widget/main/Screenshot.png" width="400"/>
 
-## [30. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+## [28. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
 ### IO Games
 
 *   [GUMMYZ](https://gummyz.fitfuns.com) - Sword-swinging multiplayer combat game.
 *   [Vortelli's Pizza](https://poki.com/en/g/vortellis-pizza-delivery) - Multiplayer restaurant game.
 
-## [31. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [29. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
-### Templates / Others
+### Tauri / Others
 
-*   [vite-vue3-chrome-extension-v3 (⭐409)](https://github.com/mubaidr/vite-vue3-chrome-extension-v3) - Web extension starter template for Chrome, Firefox and Edge.
+*   [vite-vue3-chrome-extension-v3 (⭐533)](https://github.com/mubaidr/vite-vue3-chrome-extension-v3) - Web extension starter template for Chrome, Firefox and Edge.
 
-## [32. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [30. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### (requires Neovim 0.5)
 
-*   [mrcjkb/rustaceanvim (⭐1.4k)](https://github.com/mrcjkb/rustaceanvim) - A heavily modified fork of rust-tools.nvim that does not require a `setup` call and does not depend on nvim-lspconfig.
+*   [mrcjkb/rustaceanvim (⭐2k)](https://github.com/mrcjkb/rustaceanvim) - A heavily modified fork of rust-tools.nvim that does not require a `setup` call and does not depend on nvim-lspconfig.
 
 ### Deployment / Diagnostics
 
-*   [coffebar/transfer.nvim (⭐65)](https://github.com/coffebar/transfer.nvim) - Sync and diff with remote server using rsync and OpenSSH.
+*   [coffebar/transfer.nvim (⭐81)](https://github.com/coffebar/transfer.nvim) - Sync and diff with remote server using rsync and OpenSSH.
 
 ### Motion / Diagnostics
 
-*   [smoka7/hop.nvim (⭐410)](https://github.com/smoka7/hop.nvim) - Hop is an EasyMotion-like plugin allowing you to jump anywhere in a document with as few keystrokes as possible.
+*   [smoka7/hop.nvim (⭐556)](https://github.com/smoka7/hop.nvim) - Hop is an EasyMotion-like plugin allowing you to jump anywhere in a document with as few keystrokes as possible.
 
 ### Indent / Diagnostics
 
-*   [VidocqH/auto-indent.nvim (⭐70)](https://github.com/VidocqH/auto-indent.nvim) - Auto indent cursor when cursor at the first column and press `<TAB>` key like VSCode.
+*   [VidocqH/auto-indent.nvim (⭐78)](https://github.com/VidocqH/auto-indent.nvim) - Auto indent cursor when cursor at the first column and press `<TAB>` key like VSCode.
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [mrcjkb/kickstart-nix.nvim (⭐178)](https://github.com/mrcjkb/kickstart-nix.nvim) - A simple [Nix flake](https://wiki.nixos.org/wiki/Flakes) template repo for Neovim derivations, with the goal of simplifying the migration from existing Neovim configurations.
+*   [mrcjkb/kickstart-nix.nvim (⭐258)](https://github.com/mrcjkb/kickstart-nix.nvim) - A simple [Nix flake](https://wiki.nixos.org/wiki/Flakes) template repo for Neovim derivations, with the goal of simplifying the migration from existing Neovim configurations.
 
-## [33. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
+## [31. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
 
 ### Extensions / Community
 
-*   [Tab Group (⭐10)](https://github.com/formfcw/directus-extension-tab-group) - A group interface with a tab menu for toggling the visibility of fields within the group.
-*   [Drawer Notice (⭐7)](https://github.com/formfcw/directus-extension-drawer-notice) - A notice field that is only visible in the drawer.
-*   [Classified Group (⭐5)](https://github.com/formfcw/directus-extension-classified-group) - A group to which a class can be assigned for custom styling.
-*   [Tokenized Preview (⭐7)](https://github.com/formfcw/directus-extension-tokenized-preview) - An endpoint that adds an active auth token to your preview URL.
+*   [Tab Group (⭐11)](https://github.com/formfcw/directus-extension-tab-group) - A group interface with a tab menu for toggling the visibility of fields within the group.
+*   [Drawer Notice (⭐8)](https://github.com/formfcw/directus-extension-drawer-notice) - A notice field that is only visible in the drawer.
+*   [Classified Group (⭐10)](https://github.com/formfcw/directus-extension-classified-group) - A group to which a class can be assigned for custom styling.
+*   [Tokenized Preview (⭐8)](https://github.com/formfcw/directus-extension-tokenized-preview) - An endpoint that adds an active auth token to your preview URL.
 
-## [34. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
+## [32. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
 
 ### Libraries / New Libraries
 
@@ -356,11 +344,11 @@ Installs: 449 | Stars: 3313 | Last update: 6 Aug 2024
 
 *   [Learn JAX: From Linear Regression to Neural Networks by Rito Ghosh](https://www.kaggle.com/code/truthr/jax-0) - A gentle introduction to JAX and using it to implement Linear and Logistic Regression, and Neural Network models and using them to solve real world problems.
 
-## [35. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [33. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Tutorials
 
-*   [Tutorials to get started on signal processing for machine learning (⭐57)](https://github.com/jinglescode/python-signal-processing)
+*   [Tutorials to get started on signal processing for machine learning (⭐64)](https://github.com/jinglescode/python-signal-processing)
 
 ### Comparison / Supervised Learning
 
@@ -386,11 +374,11 @@ Installs: 449 | Stars: 3313 | Last update: 6 Aug 2024
 *   [SARSA (State-Action-Reward-State-Action) algorithm](https://en.wikipedia.org/wiki/State%E2%80%93action%E2%80%93reward%E2%80%93state%E2%80%93action)
 *   [Temporal difference learning](https://en.wikipedia.org/wiki/Temporal_difference_learning#:~:text=Temporal%20difference%20\(TD\)%20learning%20refers,estimate%20of%20the%20value%20function.)
 
-### YouTube Videos & Channels / Book Deals (Affiliated) 🛍
+### YouTube Videos & Channels / Book Deals (Affiliated)
 
 *   [Time Series Modelling and Analysis](https://www.youtube.com/playlist?list=PL3N9eeOlCrP5cK0QRQxeJd6GrQvhAtpBK)
 
-## [36. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
+## [34. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
 
 ### Mathematics
 
@@ -400,7 +388,7 @@ Installs: 449 | Stars: 3313 | Last update: 6 Aug 2024
 
 *   [A Short Introduction to the Art of Programming (1971)](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD03xx/EWD316.html) - Edsger W. Dijkstra (HTML)
 
-## [37. Awesome Capacitorjs](/content/capawesome-team/awesome-capacitorjs/week/README.md)
+## [35. Awesome Capacitorjs](/content/capawesome-team/awesome-capacitorjs/week/README.md)
 
 ### Plugins / Community Plugins
 
@@ -430,7 +418,7 @@ Installs: 449 | Stars: 3313 | Last update: 6 Aug 2024
 *   [@capawesome/capacitor-screen-orientation](https://capawesome.io/plugins/screen-orientation) - Capacitor plugin to lock/unlock the screen orientation.
 *   [capacitor-bing-translator (⭐2)](https://github.com/sabereen/capacitor-bing-translator) - A simple and free API for using Bing Translator.
 
-## [38. Ai Collective Tools](/content/Hyraze/ai-collective-tools/week/README.md)
+## [36. Ai Collective Tools](/content/Hyraze/ai-collective-tools/week/README.md)
 
 ### Pricing
 
@@ -487,7 +475,7 @@ Installs: 449 | Stars: 3313 | Last update: 6 Aug 2024
 *   [LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/) - A foundational, 65-billion-parameter large language model by Meta. `#opensource` `#free`
 *   [Llama 2](https://ai.meta.com/llama/) - The next generation of Meta's open source large language model. `#opensource` `#free`
 *   [OPT](https://opt.alpa.ai/) - Open Pretrained Transformers (OPT) by Facebook is a suite of decoder-only pre-trained transformers. `#opensource` `#free`
-*   [Qwen (⭐11k)](https://github.com/QwenLM/Qwen) - Pretrained large language model proposed by Alibaba Cloud. `#free`
+*   [Qwen (⭐14k)](https://github.com/QwenLM/Qwen) - Pretrained large language model proposed by Alibaba Cloud. `#free`
 
 ### Productivity
 
@@ -517,7 +505,7 @@ Installs: 449 | Stars: 3313 | Last update: 6 Aug 2024
 
 *   [ElevenLabs](https://elevenlabs.io/) - AI-powered text-to-speech and voice cloning technology.`#freemium`
 
-## [39. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+## [37. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
 ### Industrial Control and SCADA Systems / Zealandia
 
@@ -527,56 +515,40 @@ Installs: 449 | Stars: 3313 | Last update: 6 Aug 2024
 
 *   [GraphQL Voyager](https://graphql-kit.com/graphql-voyager/) - Represent any GraphQL API as an interactive graph, letting you explore data models from any Web site with a GraphQL query endpoint.
 
-## [40. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [38. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Containers
 
-*   [svector (⭐94)](https://github.com/martinus/svector) - Compact SVO optimized vector for C++17 or higher. \[MIT]
+*   [svector (⭐97)](https://github.com/martinus/svector) - Compact SVO optimized vector for C++17 or higher. \[MIT]
 
 ### Logging
 
-*   [haclog (⭐74)](https://github.com/MuggleWei/haclog) - An extremely fast plain C logging library. \[MIT]
+*   [haclog (⭐75)](https://github.com/MuggleWei/haclog) - An extremely fast plain C logging library. \[MIT]
 
 ### PDF
 
-*   [PDF-Writer (⭐877)](https://github.com/galkahana/PDF-Writer) - High performance library for creating, modiyfing and parsing PDF files in C++ \[Apache-2.0] [website](https://www.pdfhummus.com/)
+*   [PDF-Writer (⭐914)](https://github.com/galkahana/PDF-Writer) - High performance library for creating, modiyfing and parsing PDF files in C++ \[Apache-2.0] [website](https://www.pdfhummus.com/)
 
 ### Miscellaneous
 
-*   [faker-cxx (⭐280)](https://github.com/cieslarmichal/faker-cxx) - C++20 Faker library for generating fake (but realistic) data for testing and development. \[MIT]
-*   [inja (⭐1.6k)](https://github.com/pantor/inja) - A Template Engine for Modern C++. \[MIT]
+*   [faker-cxx (⭐328)](https://github.com/cieslarmichal/faker-cxx) - C++20 Faker library for generating fake (but realistic) data for testing and development. \[MIT]
+*   [inja (⭐1.7k)](https://github.com/pantor/inja) - A Template Engine for Modern C++. \[MIT]
 
-## [41. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [39. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Game
 
-*   [DotRecast (⭐487)](https://github.com/ikpil/DotRecast) - A port of Recast & Detour, navigation mesh toolset for games, Unity3D, servers, C#
+*   [DotRecast (⭐614)](https://github.com/ikpil/DotRecast) - A port of Recast & Detour, navigation mesh toolset for games, Unity3D, servers, C#
 
 ### ORM
 
-*   [EntityFrameworkCore.SqlServer.SimpleBulks (⭐151)](https://github.com/phongnguyend/EntityFrameworkCore.SqlServer.SimpleBulks) - Simple library that can help to sync a large number of records in-memory into the database. Lambda Expression is supported.
+*   [EntityFrameworkCore.SqlServer.SimpleBulks (⭐166)](https://github.com/phongnguyend/EntityFrameworkCore.SqlServer.SimpleBulks) - Simple library that can help to sync a large number of records in-memory into the database. Lambda Expression is supported.
 
 ### PDF
 
 *   [IronPDF](https://ironpdf.com/)  - High-performance C# PDF library with compatibility for various .NET versions, HTML to PDF conversion, content page conversion, file format support (e.g., DOCX, RTF, MD), responsive layouts, and robust PDF capabilities features ranging from compability, generating PDFs, formatting PDFs, and editing PDFs. **\[$]** **\[Free trial available]**
 
-## [42. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
-
-### Family
-
-### [Shadows of Brimstone: Swamps of Death](https://boardgamegeek.com/boardgame/150997/shadows-brimstone-swamps-death)
-
-> Shadows of Brimstone: Swamps of Death is a fast-paced, fully cooperative, dungeon-crawl board game set in the Old West, with a heavy dose of unspeakable horror! Players create characters, taking on the role of a classic Western Hero Archetype, such as the Law Man, Gunslinger, or Saloon Girl. Forming an adventuring posse, the Heroes venture down into the dark mines, overrun with all manner of ancient demons and foul creatures from another world. With tactical gameplay, lots of dice, and a robust card-driven exploration system, no two games are ever the same as the heroes explore the mines finding new enemies to fight, new loot to collect, and new dangers to overcome.
->
-> Players can even find portals to other worlds, stepping through to continue their adventures on the other side!
->
-> In Swamps of Death, players will encounter portals to the otherworld Jargono, a humid swampland inhabited by sentient reptiles, vicious dinosaurs and a tribe of humanoids, cut off from return to their homeworld untold years after their own portal closed.
-
-![Shadows of Brimstone: Swamps of Death game image](https://cf.geekdo-images.com/qRyYKK4IxR9QBwyr7OMvzw__itemrep/img/inbrCrbkzm-36PykegNeHmOD7yc=/fit-in/246x300/filters:strip_icc\(\)/pic2037826.jpg)
-
-| Players | Min. Age |      Time |
-| ------: | -------: | --------: |
-|   1 - 4 |       12 | 90 - 180m |
+## [40. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
 
 ### Strategy
 
@@ -600,53 +572,9 @@ Installs: 449 | Stars: 3313 | Last update: 6 Aug 2024
 | Players | Min. Age | Time |
 | ------: | -------: | ---: |
 |       2 |        6 |  30m |
-### [Raiders of the North Sea](https://boardgamegeek.com/boardgame/170042/raiders-north-sea)
-
-> Raiders of the North Sea is set in the central years of the Viking Age. As Viking warriors, players seek to impress the Chieftain by raiding unsuspecting settlements. To do so, players need to assemble a crew, collect provisions, and journey north to plunder gold, iron and livestock. Glory can be found in battle, even at the hands of the Valkyrie, so gather your warriors because it's raiding season.
-
-![Raiders of the North Sea](https://github.com/kishanrajput23/awesome-board-games/assets/70385488/a5243a9a-90ca-4955-87ba-807679b2b68b)
-
-| Players | Min. Age | Time |
-| ------: | -------: | ---: |
-|   2 - 4 |       12 |  80m |
-### [The Old King's Crown](https://boardgamegeek.com/boardgame/357873/old-kings-crown)
-
-> The Old King’s Crown is a game of card-driven conquest, where you play as heirs to a vacant throne, vying for control of an ancient, overgrown kingdom. Wield unique abilities and leverage your followers’ traits to best outwit your opponents across a map that stretches from the teetering heights of the castle to the dappled light of the necropolis.
->
-> As leader of your faction you will be staking claims with Heralds openly as well as positioning your forces in secret, hoping to claim the locations that fit your designs. However, keep an eye on your rivals, as they too have agents and agendas, poised to undo your best laid plans.
->
-> Royalty, rebels or ruses. What crown will you wear?
->
-> In The Old King's Crown, players move their Herald to locations, hoping to claim them. Then simultaneously players play cards from their hand, facedown to regions of the board. These are then revealed and resolved. Winning these clashes will result in different rewards that further their position and grant them the game's primary goal, influence. When a player is able to reach a set number of influence, dependent on player count, and is able to retain it until the end of a round, they win the game.
-
-![The Old King's Crown game image](https://cf.geekdo-images.com/hQG2-XQoEhXCITIORvx24A__itemrep/img/nxjDR_nK5kmSdApd5YJDeoPoQnc=/fit-in/246x300/filters:strip_icc\(\)/pic7508098.jpg)
-
-| Players | Min. Age |   Time |
-| ------: | -------: | -----: |
-|   1 - 4 |       12 | 60-90m |
 
 ### Party
 
-### [The Lord of the Rings: Journeys in Middle-Earth](https://boardgamegeek.com/boardgame/269385/lord-rings-journeys-middle-earth)
-
-> Embark on your own adventures in J.R.R. Tolkien's iconic world with The Lord of the Rings: Journeys in Middle-Earth, a fully co-operative, app-supported board game for one to five players! You'll battle villainous foes, make courageous choices, and strike a blow against the evil that threatens the land — all as part of a thrilling campaign that leads you across the storied hills and dales of Middle-Earth.
->
-> Each individual game of Journeys in Middle-Earth is a single adventure in a larger campaign. You'll explore the vast and dynamic landscapes of Middle-earth, using your skills to survive the challenges that you encounter on these perilous quests. As you and your fellow heroes explore the wilderness and battle the dark forces arrayed against you, the game's companion app guides you to reveal the looming forests, quiet clearings, and ancient halls of Middle-Earth, while also controlling the enemies you encounter. Whether you're venturing into the wild on your own or with close companions by your side, you can write your own legend in the history of Middle-Earth.
-
-![The Lord of the Rings: Journeys in Middle-Earth game image](https://cf.geekdo-images.com/1XA2-niwTBa0HEB7hOz3Dw__itemrep/img/_ITP3pPZx-TQoUYwXoBOLvUboSw=/fit-in/246x300/filters:strip_icc\(\)/pic4530974.jpg)
-
-| Players | Min. Age |    Time |
-| ------: | -------: | ------: |
-|   1 - 5 |       14 | 60-120m |
-### [Five Tribes](https://boardgamegeek.com/boardgame/157354/five-tribes)
-
-> In the fabled Sultanate of Naqala, the old sultan's passing has left control of the realm in contention, as strangers aim to fulfill the oracles' prophecy by shrewdly maneuvering the Five Tribes—Assassins, Elders, Builders, Merchants, and Viziers—across villages, markets, oases, and sacred places. Designed by Bruno Cathala, Five Tribes is a captivating twist on worker placement games, with meeples already in place at the start. As you invoke Djinns and make calculated moves, you must strategically consider when and where to displace the tribes to secure your influence over this legendary city-state, all while weighing different pathways to victory and outmaneuvering your rivals.
-
-![Five Tribes](https://cf.geekdo-images.com/dmo-WD6HZHVUPrbVHunaTw__itemrep/img/4RfYsuXBO2FrnJynkXV5zTj7PU4=/fit-in/246x300/filters:strip_icc\(\)/pic2055255.jpg)
-
-| Players | Min. Age |   Time |
-| ------: | -------: | -----: |
-|   2 - 4 |       13 | 40–80m |
 ### [Arkham Horror](https://boardgamegeek.com/boardgame/15987/arkham-horror)
 
 > The year is 1926, and it is the height of the Roaring Twenties. Flappers dance till dawn in smoke-filled speakeasies drinking alcohol supplied by rum runners and the mob. It's a celebration to end all celebrations in the aftermath of the war to end all wars.Yet a dark shadow grows in the city of Arkham. Alien entities known as Ancient Ones lurk in the emptiness beyond space and time, writhing at the gates between worlds. These gates have begun to open and must be closed before the Ancient Ones make our world their ruined domination.
@@ -665,15 +593,6 @@ Installs: 449 | Stars: 3313 | Last update: 6 Aug 2024
 | Players | Min. Age |  Time |
 | ------: | -------: | ----: |
 |   2 - 4 |        7 | 5-15m |
-### [Lords of Vegas](https://boardgamegeek.com/boardgame/20437/lords-vegas)
-
-> You and your opponents represent powerful developers in a burgeoning Nevada city. You will earn money and prestige by building the biggest and most profitable casinos on "The Strip," the town's backbone of dust and sin. You start with nothing but parking lots and dreams, but from there you build, sprawl, reorganize and gamble your way to victory. Score the most points investing in the most profitable development companies and putting the best bosses in control of the richest casinos. Put your dollars on the line . . . it's time to roll!.The game board is broken into 6 different areas, each consisting of a number of empty 'lots'. Players build lots by paying money and placing a die of the value matching the one shown on the lot's space onto the lot, along with a casino tile of one of 7 colors. Adjoining lots of the same color are considered a single casino. The casino's boss is the player whose die value is higher than any other in the casino. On each players turn, players turn over a new card representing a new lot they get. The card also is one of the casino colors. Any built casinos of the matching color will score both money and points. Money is earned for each lot in the casino, where each lot may be owned by a different player. Points go only to the casino's owner. Players can expand their casinos; try to take over casinos owned by other players; make deals to trade lots, casinos and money; or gamble in opponents' casinos to make more money. Ultimately, though, only points matter, and that means making yourself boss of the biggest casinos.
-
-![Lords Of Vegas](https://cf.geekdo-images.com/-uYn413Wy8Vzm9wkuOajWg__itemrep/img/cxNjgjWpiQ3ATxJ6rShTlMYYzpk=/fit-in/246x300/filters:strip_icc\(\)/pic774410.jpg)
-
-| Players | Min. Age |   Time |
-| ------: | -------: | -----: |
-|   2 - 4 |       12 | 60-90m |
 ### [Diplomacy](https://boardgamegeek.com/boardgame/483/diplomacy)
 
 > This classic game of pure negotiation has taken many forms over the years. The first The Avalon Hill Game Co version has perhaps the widest release, but Avalon Hill re-released the game in 1999, complete with a colorful new map and metal pieces. In 2008, Avalon Hill released a 50th anniversary edition with a new map and cardboard pieces representing the armies and navies.In the game, players represent one of the seven "Great Powers of Europe" (Great Britain, France, Austria-Hungary, Germany, Italy, Russia or Turkey) in the years prior to World War I. Play begins in the Spring of 1901, and players make both Spring and Autumn moves each year. There are only two kinds of military units: armies and fleets. On any given turn, each of your military units has limited options: they can move into an adjoining territory, support an allied unit in an attack on an adjoining territory, support an allied unit in defending an adjoining territory, or hold their position. Players instruct each of their units by writing a set of "orders." The outcome of each turn is determined by the rules of the game. There are no dice rolls or other elements of chance. With its incredibly simplistic movement mechanics fused to a significant negotiation element, this system is highly respected by many gamers.
@@ -749,15 +668,6 @@ Installs: 449 | Stars: 3313 | Last update: 6 Aug 2024
 | Players | Min. Age |   Time |
 | ------: | -------: | -----: |
 |   1 - 4 |       10 | 45-60m |
-### [Paths of Glory](https://boardgamegeek.com/boardgame/91/paths-glory)
-
-> Paths of Glory: The First World War, designed by six-time Charles S. Roberts awards winner, Ted Raicer, allows players to step into the shoes of the monarchs and marshals who triumphed and bungled from 1914 to 1918. As the Central Powers you must use the advantage of interior lines and the fighting skill of the Imperial German Army to win your rightful 'place in the sun.' As the Entente Powers (Allies) you must bring your greater numbers to bear to put an end to German militarism and ensure this is the war 'to end all wars.' Both players will find their generalship and strategic abilities put to the test as Paths of Glory's innovative game systems let you recreate all the dramatic events of World War I.
-
-![Paths of Glory](https://cf.geekdo-images.com/Ip4TygnwFxuR57Vky9ZeZA__itemrep/img/D1X3z1gSLJg1IltMfhTpfhZ_dPA=/fit-in/246x300/filters:strip_icc\(\)/pic4490515.jpg)
-
-| Players | Min. Age | Time |
-| ------: | -------: | ---: |
-|       2 |       14 | 480m |
 ### [Calico](https://boardgamegeek.com/boardgame/283155/calico)
 
 > Calico is a puzzly tile-laying game of quilts and cats. In Calico, players compete to sew the coziest quilt as they collect and place patches of different colors and patterns. Each quilt has a particular pattern that must be followed, and players are also trying to create color and pattern combinations that are not only aesthetically pleasing, but also able to attract the cuddliest cats! Turns are simple. Select a single patch tile from your hand and sew it into your quilt, then draw another patch into your hand from the three available. If you are able to create a color group, you may sew a button onto your quilt. If you are able to create a pattern combination that is attractive to any of the cats, it will come over and curl up on your quilt! At the end of the game, you score points for buttons, cats, and how well you were able to complete your unique quilt pattern.
@@ -804,19 +714,19 @@ Installs: 449 | Stars: 3313 | Last update: 6 Aug 2024
 | ------: | -------: | ------: |
 |   2 - 6 |      12+ | 90-120m |
 
-## [43. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
+## [41. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
 
 ### Posts / React
 
 *   [Why Automatic Persisted Queries Don't Scale](https://blog.tailcall.run/the-truth-about-scaling-automatic-persisted-queries/)
 
-## [44. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [42. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Software Development - Low Code
 
-*   [Dashpress (⭐1.7k)](https://github.com/dashpresshq/dashpress) - Generate fully functional admin apps in seconds from your database information, with a single command. ([Demo](https://demo.dashpress.io/auth)) `AGPL-3.0` `Nodejs/Docker`
+*   [Dashpress (⭐1.8k)](https://github.com/dashpresshq/dashpress) - Generate fully functional admin apps in seconds from your database information, with a single command. ([Demo](https://demo.dashpress.io/auth)) `AGPL-3.0` `Nodejs/Docker`
 
-## [45. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [43. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
@@ -843,7 +753,7 @@ Installs: 449 | Stars: 3313 | Last update: 6 Aug 2024
 
 *   [Trackingplan](https://www.trackingplan.com/) - Automatically detect digital analytics, marketing data and pixels issues, maintain up-to-date tracking plans, and foster seamless collaboration. Deploy it to your production environment with real traffic or add analytics coverage to your regression tests without writing code.
 
-## [46. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [44. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Module Bundlers / Playground
 
@@ -853,17 +763,16 @@ Installs: 449 | Stars: 3313 | Last update: 6 Aug 2024
 
 *   [bun](https://bun.sh/) - Bun is a fast JavaScript runtime, package manager, bundler, test runner
 
-## [47. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [45. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [colorize-functions (⭐3)](https://github.com/Freed-Wu/zsh-colorize-functions) - Colorizes functions for ZSH.
-*   [help (⭐7)](https://github.com/Freed-Wu/zsh-help) - Colorizes the output of commands run with `--help`.
+*   [help (⭐12)](https://github.com/Freed-Wu/zsh-help) - Colorizes the output of commands run with `--help`.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [backbone (⭐2)](https://github.com/lmllrjr/backbone-zsh-prompt) - A bare minimum single file prompt, fast as a roadrunner MEEP! MEEP. Includes `git` status and current directory decorations.
-*   [ultima (⭐81)](https://github.com/egorlem/ultima.zsh-theme) - Minimalist, includes `git` status and current directory decorators.
+*   [ultima (⭐96)](https://github.com/egorlem/ultima.zsh-theme) - Minimalist, includes `git` status and current directory decorators.
 
 ---
 

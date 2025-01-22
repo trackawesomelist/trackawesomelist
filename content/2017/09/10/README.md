@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 10, 2017
 
-8 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -50,17 +50,6 @@
 
 *   [Visual Object Classes Challenge 2012 (VOC2012)](http://host.robots.ox.ac.uk/pascal/VOC/voc2012/index.html#devkit) - VOC2012 dataset containing 12k images with 20 annotated classes for object detection and segmentation.
 *   [Large-scale Fashion (DeepFashion) Database](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html) - Contains over 800,000 diverse fashion images.  Each image in this dataset is labeled with 50 categories, 1,000 descriptive attributes, bounding box and clothing landmarks
-
-## [8. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/README.md)
-
-### Stalled Development
-
-*   [**Basscss**](https://basscss.com) - Low-level CSS toolkit.\
-    ![](https://img.shields.io/github/stars/basscss/basscss.svg?style=social\&label=Star)
-    [Repo (⭐5.8k)](https://github.com/basscss/basscss/)
-*   [**Cutestrap**](https://www.cutestrap.com) - Sassy, opinionated CSS framework, a tiny alternative to Bootstrap.\
-    ![](https://img.shields.io/github/stars/tylerchilds/cutestrap.svg?style=social\&label=Star)
-    [Repo (⭐1.6k)](https://github.com/tylerchilds/cutestrap)
 
 ---
 

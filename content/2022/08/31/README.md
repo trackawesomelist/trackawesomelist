@@ -10,7 +10,7 @@
 
 ### Libraries / Scripting
 
-*   [duckscript](https://crates.io/crates/duckscript) - [Simple, extendable and embeddable scripting language. (⭐502)](https://github.com/sagiegurari/duckscript) [![build badge](https://github.com/sagiegurari/duckscript/workflows/CI/badge.svg?branch=master)](https://github.com/sagiegurari/duckscript/actions)
+*   [duckscript](https://crates.io/crates/duckscript) - [Simple, extendable and embeddable scripting language. (⭐536)](https://github.com/sagiegurari/duckscript) [![build badge](https://github.com/sagiegurari/duckscript/workflows/CI/badge.svg?branch=master)](https://github.com/sagiegurari/duckscript/actions)
 
 ## [2. Awesome Security](/content/sbilly/awesome-security/README.md)
 
@@ -22,7 +22,7 @@
 
 ### Java / React
 
-*   [dgs-extended-formatters (⭐6)](https://github.com/setchy/dgs-extended-formatters) - An experimental set of DGS Directives for common formatting use-cases.
+*   [dgs-extended-formatters (⭐7)](https://github.com/setchy/dgs-extended-formatters) - An experimental set of DGS Directives for common formatting use-cases.
 
 ### Tools - Browser Extensions / React
 
@@ -37,7 +37,7 @@
 ### Maps / Web Maps
 
 *   [OSM Landuse](https://osmlanduse.org) - OSM based landuse and landcover WebGIS application.
-*   [OsmAPP](https://osmapp.org) - A browsable map showing data and offering simple POI-editing capabilities. ([Source Code (⭐148)](https://github.com/zbycz/osmapp))
+*   [OsmAPP](https://osmapp.org) - A browsable map showing data and offering simple POI-editing capabilities. ([Source Code (⭐179)](https://github.com/zbycz/osmapp))
 *   [Tracesmap](https://tracesmap.com/) - A map allowing for planning routes on OsmCarto and OpenTopoMap-derived retina maps.
 
 ### Maps / Goal Tracking
@@ -46,13 +46,13 @@
 
 ### Libraries / Python
 
-*   [prettymapp (⭐2.1k)](https://github.com/chrieke/prettymapp) - Create beautiful maps from OpenStreetMap data.
+*   [prettymapp (⭐2.3k)](https://github.com/chrieke/prettymapp) - Create beautiful maps from OpenStreetMap data.
 
 ## [5. Awesome Java](/content/akullpp/awesome-java/README.md)
 
 ### Miscellaneous / Text-Based User Interfaces
 
-*   [LittleProxy (⭐2k)](https://github.com/adamfisk/LittleProxy) - High performance HTTP proxy atop Netty's event-based networking library.
+*   [LittleProxy (⭐2.1k)](https://github.com/adamfisk/LittleProxy) - High performance HTTP proxy atop Netty's event-based networking library.
 
 ### People / Twitter
 
@@ -68,14 +68,14 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-env-switch (⭐8)](https://github.com/PengBoUESTC/vite-plugin-env-switch) - Switch project env and restart vite server without command line operation.
+*   [vite-plugin-env-switch (⭐10)](https://github.com/PengBoUESTC/vite-plugin-env-switch) - Switch project env and restart vite server without command line operation.
 
 ## [8. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
-### Plugins and scripts / Various Godot versions
+### Plugins and scripts / Godot 4
 
-*   [Dialogue Manager (⭐2k)](https://github.com/nathanhoad/godot_dialogue_manager) - A simple but powerful text based branching dialogue editor and runtime (Godot 3.x, 4.x).
-*   [Input Helper (⭐721)](https://github.com/nathanhoad/godot_input_helper) - A helper for detecting input devices and remapping controls (Godot 3.x, 4.x).
+*   [Dialogue Manager (⭐2.3k)](https://github.com/nathanhoad/godot_dialogue_manager) - A simple but powerful text based branching dialogue editor and runtime. *(Godot 3 and 4)*
+*   [Input Helper (⭐819)](https://github.com/nathanhoad/godot_input_helper) - A helper for detecting input devices and remapping controls. *(Godot 3 and 4)*
 
 ## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -91,7 +91,7 @@
 
 ### Tools / Helper tools to add annotations to existing code
 
-*   [infer-types (⭐79)](https://github.com/orsinium-labs/infer-types) - CLI tool to automatically infer and add type annotations into Python code.
+*   [infer-types (⭐88)](https://github.com/orsinium-labs/infer-types) - CLI tool to automatically infer and add type annotations into Python code.
 
 ## [11. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 
@@ -109,7 +109,7 @@
 
 ### Optimization / Others
 
-*   [sklearn-genetic-opt (⭐273)](https://github.com/rodrigo-arenas/Sklearn-genetic-opt) - Hyperparameters tuning and feature selection using evolutionary algorithms. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
+*   [sklearn-genetic-opt (⭐307)](https://github.com/rodrigo-arenas/Sklearn-genetic-opt) - Hyperparameters tuning and feature selection using evolutionary algorithms. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
 
 ## [13. Awesome Acg](/content/soruly/awesome-acg/README.md)
 

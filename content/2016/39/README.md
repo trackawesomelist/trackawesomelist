@@ -14,11 +14,11 @@
 
 ### JavaScript / Git
 
-*   [jsrsasign (⭐3.2k)](https://github.com/kjur/jsrsasign) - The 'jsrsasign' (RSA-Sign JavaScript Library) is an opensource free cryptography library supporting RSA/RSAPSS/ECDSA/DSA signing/validation.
+*   [jsrsasign (⭐3.3k)](https://github.com/kjur/jsrsasign) - The 'jsrsasign' (RSA-Sign JavaScript Library) is an opensource free cryptography library supporting RSA/RSAPSS/ECDSA/DSA signing/validation.
 
 ### Rust / Git
 
-*   [rustls (⭐5.7k)](https://github.com/ctz/rustls) - Rustls is a new, modern TLS library written in Rust.
+*   [rustls (⭐5.9k)](https://github.com/ctz/rustls) - Rustls is a new, modern TLS library written in Rust.
 
 ## [2. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/week/README.md)
 
@@ -75,13 +75,19 @@ Webpage: N/A
 ### Style Guide Generators :slot_machine: / Editor's Draft :black_nib:
 
 *   [Hologram (⭐2.2k)](https://github.com/trulia/hologram)
-*   [mdcss (⭐679)](https://github.com/jonathantneal/mdcss)
+*   [mdcss (⭐686)](https://github.com/jonathantneal/mdcss)
 
 ### Videos :tv: / 2015
 
 *   [CSS Architecture with SMACSS](https://www.youtube.com/watch?v=6co781JgoqQ) :watch: `30:15` - Caleb Meredith @ DevTips channel.
 
-## [8. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
+## [8. Amas](/content/sindresorhus/amas/week/README.md)
+
+### Ask these people anything!
+
+*   [Kundan Singh (⭐0)](https://github.com/kundansingh1/ama) - Full Stack Javascript Developer, Biker, Traveller, Photographer.
+
+## [9. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
 
 ### Photography / Custom License / Usage
 
@@ -91,25 +97,25 @@ Webpage: N/A
 
 *   [AMCharts - Free SVG Maps](https://www.amcharts.com/svg-maps/) - [:copyright:](https://creativecommons.org/licenses/by-nc/4.0/) A directory of free non-commercial, attribution licensed SVG maps in two level of details: High and low.
 
-## [9. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [10. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Resources / Presentations
 
 *   [DjangoCon US 2015 - Wagtail - Yet Another Django CMS](https://www.youtube.com/watch?v=6j0NVq6g4FE) by Tom Dyson - Tom will explain why his agency decided to build a new CMS, share some lessons learned in running a growing open source project, and outline Wagtail's roadmap to version 2 and beyond. [Slide deck](https://speakerdeck.com/tomdyson/wagtail-yet-another-cms-djangocon-us-2015).
 
-## [10. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [11. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Community / Videos
 
 *   [Laravel.io Forum](http://laravel.io/forum)
 
-## [11. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
+## [12. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
 
 ### Behaviors
 
 *   [Polymer-Apollo (⭐79)](https://github.com/aruntk/polymer-apollo) Polymer Apollo GraphQL Integration.
 
-## [12. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
+## [13. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
 
 ### Pomodoro / Enterprise Git Service
 
@@ -120,13 +126,13 @@ Webpage: N/A
 
 *   [Todoist](https://todoist.com/) (`Cloud`,`Mac`,`Win`,`Android`,`iOS`): Todoist invented the karma system which keeps track of the tasks done.
 
-## [13. Awesome Web Design](/content/nicolesaidy/awesome-web-design/week/README.md)
+## [14. Awesome Web Design](/content/nicolesaidy/awesome-web-design/week/README.md)
 
 ### Typography
 
 *   [Fontpair](http://fontpair.co): Beautiful Google Font combinations and pairs.
 
-## [14. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
+## [15. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 
 ### Courses / Systems
 
@@ -144,7 +150,7 @@ Webpage: N/A
     *   [Lectures](http://people.seas.harvard.edu/\~minilek/cs229r/fall15/lec.html) ([Youtube](https://www.youtube.com/playlist?list=PL2SOU6wwxB0v1kQTpqpuu5kEJo2i-iUyf))
     *   [Assignments](http://people.seas.harvard.edu/\~minilek/cs229r/fall15/hmwk.html)
 
-## [15. Awesome Sass](/content/Famolus/awesome-sass/week/README.md)
+## [16. Awesome Sass](/content/Famolus/awesome-sass/week/README.md)
 
 ### Articles / Miscellaneous
 
@@ -155,20 +161,20 @@ Webpage: N/A
 *   [Inverse trigonometric functions with Sass](http://thesassway.com/advanced/inverse-trigonometric-functions-with-sass)
 *   [Stop Arguing So Much with Your Mixins](http://sassbreak.com/stop-arguing-with-your-mixins)
 
-## [16. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [17. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Audio
 
-*   [AudioPlayerSwift (⭐275)](https://github.com/tbaranes/AudioPlayerSwift) - AudioPlayer is a simple class for playing audio (basic and advanced usage) in iOS, OS X and tvOS apps.
+*   [AudioPlayerSwift (⭐278)](https://github.com/tbaranes/AudioPlayerSwift) - AudioPlayer is a simple class for playing audio (basic and advanced usage) in iOS, OS X and tvOS apps.
 
-## [17. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [18. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Database Drivers/Clients
 
-*   [crystal-mysql (⭐108)](https://github.com/crystal-lang/crystal-mysql) - MySQL connector for Crystal
-*   [crystal-sqlite3 (⭐136)](https://github.com/crystal-lang/crystal-sqlite3) - SQLite3 bindings
+*   [crystal-mysql (⭐106)](https://github.com/crystal-lang/crystal-mysql) - MySQL connector for Crystal
+*   [crystal-sqlite3 (⭐141)](https://github.com/crystal-lang/crystal-sqlite3) - SQLite3 bindings
 
-## [18. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [19. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Time-Series Databases
 
@@ -180,20 +186,20 @@ Webpage: N/A
 *   [Blueflood (⭐591)](https://github.com/rackerlabs/blueflood) A distributed system designed to ingest and process time series data
 *   [Timely (⭐367)](https://github.com/NationalSecurityAgency/timely) Timely is a time series database application that provides secure access to time series data based on Accumulo and Grafana.
 
-## [19. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [20. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Malware Collection / Malware Corpora
 
 *   [Ragpicker (⭐91)](https://github.com/robbyFux/Ragpicker) - Plugin based malware
     crawler with pre-analysis and reporting functionalities
 
-## [20. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [21. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Functional Programming / Runner
 
 *   [preludejs (⭐99)](https://github.com/alanrsoares/prelude-js) - Hardcore Functional Programming for JavaScript.
 
-## [21. Awesome Appsec](/content/paragonie/awesome-appsec/week/README.md)
+## [22. Awesome Appsec](/content/paragonie/awesome-appsec/week/README.md)
 
 ### Books
 
@@ -210,7 +216,7 @@ How to go on the offence before online attackers do.
 
 A portable public domain password hashing framework for use in PHP applications.
 
-## [22. Awesome Ctf](/content/apsdehal/awesome-ctf/week/README.md)
+## [23. Awesome Ctf](/content/apsdehal/awesome-ctf/week/README.md)
 
 ### Networking
 
@@ -225,7 +231,7 @@ A portable public domain password hashing framework for use in PHP applications.
 
 *   [W3af (⭐4k)](https://github.com/andresriancho/w3af) -  Web Application Attack and Audit Framework.
 
-## [23. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [24. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Applications
 
@@ -245,9 +251,9 @@ A portable public domain password hashing framework for use in PHP applications.
 
 ### Instrumenting / Monitoring
 
-*   [prometheus.ex (⭐405)](https://github.com/deadtrickster/prometheus.ex) - Elixir-friendly [Prometheus.io](https://prometheus.io) monitoring system and time series database client.
+*   [prometheus.ex (⭐413)](https://github.com/deadtrickster/prometheus.ex) - Elixir-friendly [Prometheus.io](https://prometheus.io) monitoring system and time series database client.
 
-## [24. Tips](/content/git-tips/tips/week/README.md)
+## [25. Tips](/content/git-tips/tips/week/README.md)
 
 ## Apply commit from another repository
 
@@ -260,59 +266,59 @@ git --git-dir=<source-dir>/.git format-patch -k -1 --stdout <SHA1> | git am -3 -
 git merge-base <branch-name> <other-branch-name>
 ```
 
-## [25. Awesome Fuse](/content/fuse-compound/awesome-fuse/week/README.md)
+## [26. Awesome Fuse](/content/fuse-compound/awesome-fuse/week/README.md)
 
 ### Open Source
 
 *   [Infinite Scroll](https://bitbucket.org/uzeidurs/fuse-infinite-scroll/) - An example implementation of "infinite scroll" for use with Fuse Tools version 0.26 and above.
 
-## [26. Awesome R](/content/qinwf/awesome-R/week/README.md)
+## [27. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### Data Manipulation
 
-*   [tidyverse (⭐1.6k)](https://github.com/hadley/tidyverse) - Easily install and load packages from the tidyverse.
+*   [tidyverse (⭐1.7k)](https://github.com/hadley/tidyverse) - Easily install and load packages from the tidyverse.
 
 ### Parallel Computing
 
 *   [sparklyr](http://spark.rstudio.com/) - R interface for Apache Spark from RStudio.
 
-## [27. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
+## [28. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
 
 ### Featured Projects / Slides and Notes
 
 *   [Reflexbox (⭐1.4k)](https://github.com/jxnblk/reflexbox) - Responsive React flexbox grid system higher order component.
 
-## [28. Awesome Redux](/content/brillout/awesome-redux/week/README.md)
+## [29. Awesome Redux](/content/brillout/awesome-redux/week/README.md)
 
 ### Utilities
 
 *   [redux-transducers (⭐130)](https://github.com/acdlite/redux-transducers) - Transducer utilities for Redux.
 
-## [29. Awesome Material](/content/sachin1092/awesome-material/week/README.md)
+## [30. Awesome Material](/content/sachin1092/awesome-material/week/README.md)
 
 ### CSS
 
 *   [mui (⭐4.5k)](https://github.com/muicss/mui) — A lightweight CSS framework that follows Material Design guidelines.
 
-## [30. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/week/README.md)
+## [31. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/week/README.md)
 
 ### Development Projects / Apps
 
-*   [Shuffle-Move (⭐92)](https://github.com/Loreinator/Shuffle-Move) - A program to identify and display the best next move for the game Pokémon Shuffle.
+*   [Shuffle-Move (⭐97)](https://github.com/Loreinator/Shuffle-Move) - A program to identify and display the best next move for the game Pokémon Shuffle.
 
 ### Development Projects / Bots
 
-*   [Pokemon Go Bot (⭐15)](https://github.com/Hrithikd/Pokemon-Go-Bot-Working-Hack-API) - Pokémon GO bot that farms for Pokestops and Pokémon.
-*   [PokeBot (⭐16)](https://github.com/akbaryahya/PokeBot) - The automated Pokémon speedrunning machine.
+*   [Pokemon Go Bot (⭐23)](https://github.com/Hrithikd/Pokemon-Go-Bot-Working-Hack-API) - Pokémon GO bot that farms for Pokestops and Pokémon.
+*   [PokeBot (⭐17)](https://github.com/akbaryahya/PokeBot) - The automated Pokémon speedrunning machine.
 
-## [31. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
+## [32. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
 
 ### Low-level Vision / Change Detection
 
 *   [Labeled and Annotated Sequences for Integral Evaluation of SegmenTation Algorithms](http://www.gti.ssr.upm.es/data/LASIESTA)
 *   [ChangeDetection.net](http://www.changedetection.net/)
 
-## [32. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [33. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Software / Frameworks
 
@@ -322,31 +328,24 @@ git merge-base <branch-name> <other-branch-name>
 
 *   [DreamFactory](http://www.dreamfactory.com) - DreamFactory is a free open source REST API Platform for mobile, web and IoT Applications.
 
-## [33. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [34. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Web Frameworks
 
-*   [Syro (⭐137)](https://github.com/soveran/syro/) - Simple router for web applications.
+*   [Syro (⭐138)](https://github.com/soveran/syro/) - Simple router for web applications.
 
-## [34. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
+## [35. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
 
 ### Security
 
 *   [GlassWire](https://www.glasswire.com/) - Network security monitoring tool and analyzer that visualizes your network activity.
 
-## [35. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [36. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In Spanish
 
 *   [Fallo de sistema](http://www.rtve.es/alacarta/audios/fallo-de-sistema/) - Programa de divulgación científica, ciencia ficción y vídeo juegos.
 *   [WeDevelopers](http://wedevelopers.com/) - Podcast de developers (algunos episodios en inglés / some podcasts in English).
-
-## [36. Amas](/content/sindresorhus/amas/week/README.md)
-
-### Ask these people anything!
-
-*   [Arjun Mayilvaganan (⭐0)](https://github.com/arjunmayilvaganan/ama) - Senior Year Student at CEG. Striving to make it as a Full stack developer.
-*   [Kundan Singh (⭐0)](https://github.com/kundansingh1/ama) - Full Stack Javascript Developer, Biker, Traveller, Photographer.
 
 ## [37. Progressive Enhancement Resources](/content/jbmoelker/progressive-enhancement-resources/week/README.md)
 
@@ -397,7 +396,7 @@ git merge-base <branch-name> <other-branch-name>
 
 ### GUI
 
-*   [ScintillaNET (⭐967)](https://github.com/jacobslusser/ScintillaNET) - Windows Forms control for the Scintilla text editor component (Scintilla is used by Notepad++)
+*   [ScintillaNET (⭐970)](https://github.com/jacobslusser/ScintillaNET) - Windows Forms control for the Scintilla text editor component (Scintilla is used by Notepad++)
 
 ### Image Processing
 
@@ -405,15 +404,15 @@ git merge-base <branch-name> <other-branch-name>
 
 ### Media
 
-*   [NAudio (⭐5.4k)](https://github.com/naudio/NAudio) - Playback, decode and encode audio in a variety of file formats such as MP3, MP4, WAV, AIFF, Speex, etc.
+*   [NAudio (⭐5.7k)](https://github.com/naudio/NAudio) - Playback, decode and encode audio in a variety of file formats such as MP3, MP4, WAV, AIFF, Speex, etc.
 
 ### Protocols
 
-*   [SSH.NET (⭐3.9k)](https://github.com/sshnet/SSH.NET) - A Secure Shell (SSH) library for .NET, optimized for parallelism. Provides SSH commands, SFTP/SCP uploads and downloads, and SOCKS4/SOCKS5/HTTP proxies.
+*   [SSH.NET (⭐4.1k)](https://github.com/sshnet/SSH.NET) - A Secure Shell (SSH) library for .NET, optimized for parallelism. Provides SSH commands, SFTP/SCP uploads and downloads, and SOCKS4/SOCKS5/HTTP proxies.
 
 ### Web Browsers
 
-*   [CefSharp (⭐9.8k)](https://github.com/cefsharp/CefSharp/) - HTML5, CSS3 and JS web browser powered by Chromium, for WinForms and WPF
+*   [CefSharp (⭐9.9k)](https://github.com/cefsharp/CefSharp/) - HTML5, CSS3 and JS web browser powered by Chromium, for WinForms and WPF
 
 ## [42. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 

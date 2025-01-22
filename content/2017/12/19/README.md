@@ -85,15 +85,15 @@
 
 ## [3. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 
-### Tools and frameworks
+### Tools and frameworks (a-z↓)
 
-*   [Chimp (⭐797)](https://github.com/xolvio/chimp) - Develop acceptance tests & end-to-end tests with realtime feedback.
+*   [Chimp (⭐799)](https://github.com/xolvio/chimp) - Develop acceptance tests & end-to-end tests with realtime feedback.
 
 ## [4. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Go / Natural Language Processing
 
-*   [sentences (⭐435)](https://github.com/neurosnap/sentences) - Golang implementation of Punkt sentence tokenizer.
+*   [sentences (⭐441)](https://github.com/neurosnap/sentences) - Golang implementation of Punkt sentence tokenizer.
 
 ## [5. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
 

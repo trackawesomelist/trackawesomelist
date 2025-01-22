@@ -10,11 +10,11 @@
 
 ### Configuration
 
-*   [figaro\_elixir (⭐10)](https://github.com/KamilLelonek/figaro-elixir) - Environmental variables manager for Elixir.
+*   [figaro\_elixir (⭐11)](https://github.com/KamilLelonek/figaro-elixir) - Environmental variables manager for Elixir.
 
 ### Third Party APIs
 
-*   [coinbase (⭐12)](https://github.com/gregpardo/coinbase-elixir) - A unofficial Coinbase API v1 Client.
+*   [coinbase (⭐13)](https://github.com/gregpardo/coinbase-elixir) - A unofficial Coinbase API v1 Client.
 
 ## [2. Tips](/content/git-tips/tips/README.md)
 
@@ -49,8 +49,8 @@ git ls-files --others
 ### Awesome TypeScript Essential Resources
 
 *   :books: [Handbook - Welcome to TypeScript](http://www.typescriptlang.org/Handbook) the official resource for learning TypeScript
-*   :octocat: [Microsoft/TypeScript on Github (⭐99k)](https://github.com/Microsoft/TypeScript) fork TypeScript on Github! Or... just read the code
-*   :octocat:[The official TypeScript Roadmap (⭐99k)](https://github.com/Microsoft/TypeScript/wiki/Roadmap)
+*   :octocat: [Microsoft/TypeScript on Github (⭐102k)](https://github.com/Microsoft/TypeScript) fork TypeScript on Github! Or... just read the code
+*   :octocat:[The official TypeScript Roadmap (⭐102k)](https://github.com/Microsoft/TypeScript/wiki/Roadmap)
 *   :books: [TypeScript Team Blog](http://blogs.msdn.com/b/typescript/) with announcements and recent updates
 
 ### Build Systems / Playground

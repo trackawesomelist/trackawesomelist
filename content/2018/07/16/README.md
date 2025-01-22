@@ -37,7 +37,7 @@
     *   [IntelliJ IDEA](https://www.jetbrains.com/idea/) - Powerful IDE for JVM languages. (**Free** for Students)
     *   [PHPStorm](https://www.jetbrains.com/phpstorm/) - The Lightning-Smart PHP IDE.
     *   [PyCharm](https://www.jetbrains.com/pycharm/) - Powerful Python IDE, which has professional version and community version.
-    *   [Rider](https://www.jetbrains.com/rider/) - Cross-Platform C# IDE. It is an alternative to Visual Studio by Microsoft with the additional benefit of getting Resharper features that are not available on Visual Studio for Mac.
+    *   [Rider](https://www.jetbrains.com/rider/) - Cross-platform C# IDE with Resharper features.
     *   [WebStorm](http://www.jetbrains.com/webstorm/) - The smartest JavaScript IDE by JetBrains. **FREE** for Students, check [here](https://www.jetbrains.com/student/) for more info.
 
 ### Developer Tools / Frameworks For Hybrid Applications
@@ -48,7 +48,7 @@
 
 ### ORM
 
-*   [Perfect-CRUD (⭐63)](https://github.com/PerfectlySoft/Perfect-CRUD) :penguin: - CRUD is an object-relational mapping (ORM) system using Codable protocol.
+*   [Perfect-CRUD (⭐64)](https://github.com/PerfectlySoft/Perfect-CRUD) :penguin: - CRUD is an object-relational mapping (ORM) system using Codable protocol.
 
 ### Network / Barcode
 

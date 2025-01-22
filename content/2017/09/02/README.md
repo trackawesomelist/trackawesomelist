@@ -12,36 +12,23 @@
 
 *   [rblearn (⭐1)](https://github.com/himkt/rblearn) - Feature Extraction and Crossvalidation library.
 
-## [2. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
-
-### Contents / Server
-
-*   [Postgres-XL](https://www.postgres-xl.org/) - Scalable Open Source PostgreSQL-based Database Cluster.
-
-## [3. Awesome Unity](/content/RyanNielson/awesome-unity/README.md)
-
-### Utilities
-
-*   [GitHub for Unity](https://unity.github.com/) - The new GitHub for Unity extension brings the GitHub workflow and more to Unity, providing support for large files with Git LFS and file locking.
-
-## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Resources / Conferences
-
-*   [VueConf](http://conf.vuejs.org)
-*   [Vue.js London](http://vuejs.london)
+## [2. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Tutorials
 
 *   [Hybrid App Example with Laravel and Vue.js in Portuguese](https://www.youtube.com/watch?v=TGSJjDahlrQ) by @vedovelli
 
-### Components & Libraries / UI Components
+## [3. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
 
-*   [vue-monthly-picker (⭐69)](https://github.com/ittus/vue-monthly-picker) - Vue.js component for month and year picker only
+### Contents / Server
 
-### Components & Libraries / UI Utilities
+*   [Postgres-XL](https://www.postgres-xl.org/) - Scalable Open Source PostgreSQL-based Database Cluster.
 
-*   [vue-pano](https://github.com/ChiChou/vue-pano) - A panorama viewer in Vue component.
+## [4. Awesome Unity](/content/RyanNielson/awesome-unity/README.md)
+
+### Utilities
+
+*   [GitHub for Unity](https://unity.github.com/) - The new GitHub for Unity extension brings the GitHub workflow and more to Unity, providing support for large files with Git LFS and file locking.
 
 ## [5. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 

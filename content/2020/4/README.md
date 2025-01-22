@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 27 - Feb 02, 2020
 
-67 awesome lists updated this week.
+65 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -17,7 +17,7 @@
 
 ### Utilities & Tools
 
-*   [Wacom GUI (⭐130)](https://github.com/tb2097/wacom-gui) - Python/PyQt Wacom GUI for KDE.
+*   [Wacom GUI (⭐135)](https://github.com/tb2097/wacom-gui) - Python/PyQt Wacom GUI for KDE.
 
 ### Education
 
@@ -25,57 +25,56 @@
 
 ### Plasma desktop / Extensions
 
-*   [Hoppla (⭐64)](https://github.com/Fuchs/hoppla-sa) - KDE Plasma desktop widget to control Philips Hue lights.
-*   [Places Widget (⭐12)](https://github.com/dfaust/plasma-applet-places-widget) - Plasma 5 widget that gives access to user places.
-*   [Window AppMenu Applet (⭐419)](https://github.com/psifidotos/applet-window-appmenu) - Plasma 5 applet in order to show the window appmenu.
+*   [Hoppla (⭐66)](https://github.com/Fuchs/hoppla-sa) - KDE Plasma desktop widget to control Philips Hue lights.
+*   [Places Widget (⭐13)](https://github.com/dfaust/plasma-applet-places-widget) - Plasma 5 widget that gives access to user places.
+*   [Window AppMenu Applet (⭐423)](https://github.com/psifidotos/applet-window-appmenu) - Plasma 5 applet in order to show the window appmenu.
 
 ### Plasma desktop / Themes
 
-*   [Canta (⭐75)](https://github.com/vinceliuice/Canta-kde) - A flat design theme for KDE Plasma desktop.
-*   [Darkine KDE (⭐44)](https://github.com/Rokin05/darkine-kde) - Theme for KDE Plasma 5 desktop, SDDM and more.
-*   [Layan (⭐355)](https://github.com/vinceliuice/Layan-kde) - A flat design theme for KDE Plasma desktop.
+*   [Canta (⭐76)](https://github.com/vinceliuice/Canta-kde) - A flat design theme for KDE Plasma desktop.
+*   [Darkine KDE (⭐45)](https://github.com/Rokin05/darkine-kde) - Theme for KDE Plasma 5 desktop, SDDM and more.
+*   [Layan (⭐391)](https://github.com/vinceliuice/Layan-kde) - A flat design theme for KDE Plasma desktop.
 
 ### Plasma desktop / Qt and GTK+ Applications Appearance
 
-*   [Breeze10 (⭐91)](https://github.com/fauzie811/Breeze10) - A Windows 10 style windows decoration for KDE Plasma.
-*   [BreezeBlurred (⭐200)](https://github.com/alex47/BreezeBlurred) - A fork of KDE Breeze window decoration written in Qt C++.
-*   [BreezeEnhanced (⭐158)](https://github.com/tsujan/BreezeEnhanced) - A fork of KDE Breeze decoration with additional options.
-*   [Sweet KDE (⭐208)](https://github.com/EliverLara/Sweet-kde) - A dark and modern theme for KDE plasma.
-*   [XBoomer (⭐78)](https://github.com/efskap/XBoomer) - XP Window Decorations for KDE Plasma.
+*   [Breeze10 (⭐94)](https://github.com/fauzie811/Breeze10) - A Windows 10 style windows decoration for KDE Plasma.
+*   [BreezeBlurred (⭐201)](https://github.com/alex47/BreezeBlurred) - A fork of KDE Breeze window decoration written in Qt C++.
+*   [BreezeEnhanced (⭐165)](https://github.com/tsujan/BreezeEnhanced) - A fork of KDE Breeze decoration with additional options.
+*   [Sweet KDE (⭐213)](https://github.com/EliverLara/Sweet-kde) - A dark and modern theme for KDE plasma.
+*   [XBoomer (⭐85)](https://github.com/efskap/XBoomer) - XP Window Decorations for KDE Plasma.
 
 ### Plasma desktop / Icons
 
 *   [La Capitaine (⭐1.9k)](https://github.com/keeferrourke/la-capitaine-icon-theme) - Icon pack with inspiration taken from the latest iterations of macOS and Google's Material Design.
-*   [Tela (⭐1.4k)](https://github.com/vinceliuice/Tela-icon-theme) - A flat colorful Design icon theme.
+*   [Tela (⭐1.6k)](https://github.com/vinceliuice/Tela-icon-theme) - A flat colorful Design icon theme.
 
 ### Plasma desktop / Scripts
 
-*   [Grid-Tiling-Kwin (⭐877)](https://github.com/lingtjien/Grid-Tiling-Kwin) - A kwin script that automatically tiles windows.
-*   [Kröhnkite (⭐1.6k)](https://github.com/esjeon/krohnkite) - A dynamic tiling extension for KWin.
+*   [Grid-Tiling-Kwin (⭐900)](https://github.com/lingtjien/Grid-Tiling-Kwin) - A kwin script that automatically tiles windows.
 
 ### Plasma desktop / Display Manager
 
-*   [Chili (⭐200)](https://github.com/MarianArlt/kde-plasma-chili) - The hottest login theme around for KDE Plasma 5.
-*   [Delicious (⭐101)](https://github.com/stuomas/delicious-sddm-theme) - A delicious SDDM theme for DE collectors/addicts.
+*   [Chili (⭐211)](https://github.com/MarianArlt/kde-plasma-chili) - The hottest login theme around for KDE Plasma 5.
+*   [Delicious (⭐106)](https://github.com/stuomas/delicious-sddm-theme) - A delicious SDDM theme for DE collectors/addicts.
 *   [Sugar Candy](https://framagit.org/MarianArlt/sddm-sugar-candy) - The sweetest login theme available for the SDDM display manager.
 
-## [3. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [3. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
 
-### Science
+### Graph Machine Learning / Others
 
-*   [Karate Club (⭐2.1k)](https://github.com/benedekrozemberczki/karateclub) - Unsupervised machine learning toolbox for graph structured data.
+*   [Karate Club (⭐2.1k)](https://github.com/benedekrozemberczki/karateclub) - An unsupervised machine learning library for graph-structured data.
 
 ## [4. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
 ### Software / Python
 
-*   [karateclub (⭐2.1k)](https://github.com/benedekrozemberczki/karateclub) - Python package for unsupervised learning on graph structured data with a scikit-learn like API.
+*   [karateclub (⭐2.2k)](https://github.com/benedekrozemberczki/karateclub) - Python package for unsupervised learning on graph structured data with a scikit-learn like API.
 
 ## [5. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### User Interface toolkits
 
-*   [vgtk3 (⭐58)](https://github.com/vgtk/vgtk3) - A wrapper for GTK3 in V.
+*   [vgtk3 (⭐60)](https://github.com/vgtk/vgtk3) - A wrapper for GTK3 in V.
 
 ## [6. Awesome Product Management](/content/dend/awesome-product-management/week/README.md)
 
@@ -91,10 +90,9 @@
 
 ### Communication / Collaboration and Team Tools
 
-*   [Shift](https://tryshift.com/) - De-clutter your desktop workspace and streamline your accounts, apps, and workflows.
 *   [Stack](https://getstack.app/) - Open, organize and use multiple web apps on a single screen. Stack your apps by categories or projects.
 
-### Utilities / Quality of Life Improvements
+### Utilities / Menu Bar Tools
 
 *   [One Switch](https://fireball.studio/oneswitch) - Mac menu bar app that adds various switches to the Mac's menu bar.
 
@@ -111,7 +109,7 @@
 
 ### Quickstarts
 
-*   [Quickstart with Webpack (⭐106)](https://github.com/seed-rs/seed-quickstart-webpack) - Main features: Auto-reload, Prerendering, Minification, [TailwindCSS](https://tailwindcss.com/), Typescript.
+*   [Quickstart with Webpack (⭐112)](https://github.com/seed-rs/seed-quickstart-webpack) - Main features: Auto-reload, Prerendering, Minification, [TailwindCSS](https://tailwindcss.com/), Typescript.
 
 ## [9. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
@@ -186,7 +184,7 @@
 
 ### C
 
-*   [cl-gobject-introspection (⭐49)](https://github.com/andy128k/cl-gobject-introspection) - [Gobject Introspection](https://gi.readthedocs.io/en/latest/) FFI. Automatic bindings to call into the C library. [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause). Generate a lisp interface with [gir2cl (⭐7)](https://github.com/kat-co/gir2cl). [LGPL3](https://www.gnu.org/licenses/lgpl-3.0.en.html).
+*   [cl-gobject-introspection (⭐51)](https://github.com/andy128k/cl-gobject-introspection) - [Gobject Introspection](https://gi.readthedocs.io/en/latest/) FFI. Automatic bindings to call into the C library. [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause). Generate a lisp interface with [gir2cl (⭐7)](https://github.com/kat-co/gir2cl). [LGPL3](https://www.gnu.org/licenses/lgpl-3.0.en.html).
 
 ## [15. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
@@ -198,7 +196,7 @@
 
 ### Architecture Patterns
 
-*   [Clean Architecture for SwiftUI + Combine (⭐5.7k)](https://github.com/nalexn/clean-architecture-swiftui) - A demo project showcasing the production setup of the SwiftUI app with Clean Architecture.
+*   [Clean Architecture for SwiftUI + Combine (⭐6k)](https://github.com/nalexn/clean-architecture-swiftui) - A demo project showcasing the production setup of the SwiftUI app with Clean Architecture.
 
 ## [17. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
@@ -230,44 +228,38 @@
 
 ### Contents / Finance
 
-*   [Wallet UI (⭐532)](https://github.com/kalismeras61/flutter_wallet_ui) - Flutter Wallet APP UI by [Yasin ilhan](https://github.com/kalismeras61).
+*   [Wallet UI (⭐550)](https://github.com/kalismeras61/flutter_wallet_ui) - Flutter Wallet APP UI by [Yasin ilhan](https://github.com/kalismeras61).
 
 ## [21. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / Computer Vision
 
 *   [Detectron (⭐26k)](https://github.com/facebookresearch/Detectron) - FAIR's software system that implements state-of-the-art object detection algorithms, including Mask R-CNN. It is written in Python and powered by the Caffe2 deep learning framework. **\[Deprecated]**
-*   [Detecto (⭐612)](https://github.com/alankbi/detecto) - Train and run a computer vision model with 5-10 lines of code.
+*   [Detecto (⭐615)](https://github.com/alankbi/detecto) - Train and run a computer vision model with 5-10 lines of code.
 
 ### Python / Natural Language Processing
 
-*   [PySS3 (⭐332)](https://github.com/sergioburdisso/pyss3) - Python package that implements a novel white-box machine learning model for text classification, called SS3. Since SS3 has the ability to visually explain its rationale, this package also comes with easy-to-use interactive visualizations tools ([online demos](http://tworld.io/ss3/)).
+*   [PySS3 (⭐336)](https://github.com/sergioburdisso/pyss3) - Python package that implements a novel white-box machine learning model for text classification, called SS3. Since SS3 has the ability to visually explain its rationale, this package also comes with easy-to-use interactive visualizations tools ([online demos](http://tworld.io/ss3/)).
 
-## [22. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
-
-### ORM / Database / Datamapping
-
-*   [Muffin/Sti plugin (⭐6)](https://github.com/UseMuffin/Sti) - Single Table Inheritance for CakePHP.
-
-## [23. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [22. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Testing Frameworks / Frameworks
 
 *   [Cypress](https://www.cypress.io/) - Complete end-to-end testing framework for anything that runs in a browser and beyond.
 
-## [24. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [23. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### GTFS Converters / Ruby
 
 *   [onebusaway-vdv-modules (⭐13)](https://github.com/OneBusAway/onebusaway-vdv-modules) - A Java library for working with transit data in the VDV format, including converting VDV-452 schedule data into GTFS.
 
-## [25. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
+## [24. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
 
 ### eBPF Workflow: Tools and Utilities / User Space eBPF
 
-*   [oster (⭐295)](https://github.com/grantseltzer/oster) - Written in Go. A tool for tracing execution of Go programs by attaching eBPF to uprobes.
+*   [oster (⭐302)](https://github.com/grantseltzer/oster) - Written in Go. A tool for tracing execution of Go programs by attaching eBPF to uprobes.
 
-## [26. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
+## [25. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
 ### Community
 
@@ -275,43 +267,43 @@
 *   [Quantum Information and Quantum Computer Scientists of the World Unite](https://www.facebook.com/groups/qinfo.scientists.unite/) - Facebook group for quantum research discussion.
 *   [Q# Community](https://qsharp.community) - Community contributed libraries, projects, and demos for the Q# language.
 
-## [27. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [26. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Blogs
 
 *   [Resilience Roundup](https://ResilienceRoundup.com) - Weekly analysis of Resilience Engineering and Human Factors research designed for software systems
 
-## [28. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [27. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Design and UI
 
 *   [Pixelixe](https://pixelixe.com/) — Create and edit engaging, unique graphics and images online.
 
-## [29. Awesome Irc](/content/davisonio/awesome-irc/week/README.md)
+## [28. Awesome Irc](/content/davisonio/awesome-irc/week/README.md)
 
 ### Clients
 
 *   [HexChat](https://hexchat.github.io) - Based on XChat, easy to use, spell check & multiple languages. ([source (⭐3k)](https://github.com/hexchat/hexchat)) `Windows` `macOS` `Linux`
 
-## [30. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
+## [29. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
 ### Companies / Robotics Capture the Flag (RCTF)
 
 *   [ROBOOX](https://roboox.co/) - OPEN-SOURCE SOFTWARE ECOSYSTEM FOR CONSUMER ROBOTS.
 
-## [31. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
+## [30. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
 
 ### Standalone Components
 
 *   [`<codesandbox-button>`](https://github.com/bennypowers/codesandbox-button) - Custom Element that shows a CodeSandbox demo when you click on it.
 
-## [32. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
+## [31. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
 ### JupyterLab Extensions
 
 *   [lsp (⭐102)](https://github.com/krassowski/jupyterlab-lsp) - IDE-like features (code navigation, hover suggestions, linters, diagnostics, kernel-less autocompletion etc.)
 
-## [33. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
+## [32. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
 
 ### UI
 
@@ -321,13 +313,13 @@
 
 *   [*Swift Algorithms & Data Structures* by Wayne Bishop](https://www.waynewbishop.com/ios-interview/book)
 
-## [34. Awesome Xamarin](/content/XamSome/awesome-xamarin/week/README.md)
+## [33. Awesome Xamarin](/content/XamSome/awesome-xamarin/week/README.md)
 
 ### Network
 
 *   [ModernHttpClient (⭐126)](https://github.com/alexrainman/ModernHttpClient) - Accelerates HTTP requests by using mobile-optimized libs (NSURLSession / OkHttp).
 
-## [35. Awesome Esp](/content/agucova/awesome-esp/week/README.md)
+## [34. Awesome Esp](/content/agucova/awesome-esp/week/README.md)
 
 ### Firmware
 
@@ -385,37 +377,31 @@
 *   [TinyUPnP (⭐84)](https://github.com/ofekp/TinyUPnP) - A lightweight UPnP IGD library for automatic port forwarding on the 8266 and 32.
 *   [Esp32SSHClient (⭐30)](https://github.com/J-Rios/Arduino-esp32sshclient) - A library that implements a SSH client in the ESP32.
 
-## [36. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [35. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Table of Contents / Courses
 
 *   [Deep Learning - UC Berkeley | STAT-157](https://www.youtube.com/playlist?list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW) by Alex Smola and Mu Li (2019)
 
-## [37. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [36. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### SDKs and Samples / Ruby SDK
 
 *   [Samples :fire::fire::fire::fire::fire: (⭐7.6k)](https://github.com/awsdocs/aws-doc-sdk-examples/tree/master/ruby/example_code/)
 
-## [38. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
-
-### Plotter Art For Sale / Patents
-
-*   [Geoffrey Bradway](https://www.chromatocosmos.com/)
-
-## [39. Awesome Web Animation](/content/sergey-pimenov/awesome-web-animation/week/README.md)
+## [37. Awesome Web Animation](/content/sergey-pimenov/awesome-web-animation/week/README.md)
 
 ### Common
 
 *   [ES6-tween (⭐178)](https://github.com/tweenjs/es6-tween) - ES6 version of tween.js.
 
-## [40. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [38. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Integrations
 
-*   [React/NextJS Keycloak Bindings (⭐557)](https://github.com/panz3r/react-keycloak)
+*   [React/NextJS Keycloak Bindings (⭐561)](https://github.com/panz3r/react-keycloak)
 
-## [41. Awesome Mobile Web Development](/content/myshov/awesome-mobile-web-development/week/README.md)
+## [39. Awesome Mobile Web Development](/content/myshov/awesome-mobile-web-development/week/README.md)
 
 ### Articles and Documentation
 
@@ -427,36 +413,36 @@
 
 *   [Adaptive Loading - Improving web performance on slow devices](https://www.youtube.com/watch?v=puUPpVrIRkc\&feature=emb_title) - Overview of practices for adapting a site to hardware and network constraints, by Addy Osmani, Nate Schloss.
 
-## [42. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [40. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Content Management Systems (CMS)
 
-*   [Alfresco Community Edition](https://www.alfresco.com/products/community/download) - The open source Enterprise Content Management software that handles any type of content, allowing users to easily share and collaborate on content. ([Source Code (⭐130)](https://github.com/Alfresco/alfresco-community-repo)) `LGPL-3.0` `Java`
+*   [Alfresco Community Edition](https://www.alfresco.com/products/community/download) - The open source Enterprise Content Management software that handles any type of content, allowing users to easily share and collaborate on content. ([Source Code (⭐152)](https://github.com/Alfresco/alfresco-community-repo)) `LGPL-3.0` `Java`
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [Audioserve (⭐702)](https://github.com/izderadicka/audioserve) - Simple personal server to serve audio files from directories (audiobooks, music, podcasts...). Focused on simplicity and supports sync of play position between clients. `MIT` `Rust`
+*   [Audioserve (⭐741)](https://github.com/izderadicka/audioserve) - Simple personal server to serve audio files from directories (audiobooks, music, podcasts...). Focused on simplicity and supports sync of play position between clients. `MIT` `Rust`
 
-## [43. Awesome Asyncio](/content/timofurrer/awesome-asyncio/week/README.md)
+## [41. Awesome Asyncio](/content/timofurrer/awesome-asyncio/week/README.md)
 
 ### Writings
 
 *   [First Principles Introduction to Asyncio](https://hackernoon.com/a-simple-introduction-to-pythons-asyncio-595d9c9ecf8c) - A no-buzzword first principles introduction to the internal workings of asyncio.
 *   [Developing and Testing an Asynchronous API with FastAPI and Pytest](https://testdriven.io/blog/fastapi-crud/) - This tutorial looks at how to develop and test an asynchronous API with FastAPI using Test-Driven Development (TDD).
 
-## [44. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
+## [42. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
 
 ### Browser extensions
 
 *   [npm-search-update](https://chrome.google.com/webstore/detail/npm-search-update/kagpoplamlmaonpddimnnigiojimihnh) - Chrome extension to quickly search for dependencies and monitor changes from the npm registry.
 
-## [45. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
+## [43. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Official
 
 *   [API Docs](https://docs.rs/yew) - Docs on docs.rs.
 
-## [46. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
+## [44. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
 
 ### Marketplace / Online Ads
 
@@ -468,7 +454,7 @@
 
 *   [16 Startup Metrics](https://a16z.com/2015/08/21/16-metrics/) - The 2 critical metrics being Customer Acquisition Cost (CAC) and Customer Lifetime Value (CLV).
 
-## [47. Quick Look Plugins](/content/sindresorhus/quick-look-plugins/week/README.md)
+## [45. Quick Look Plugins](/content/sindresorhus/quick-look-plugins/week/README.md)
 
 ### Install
 
@@ -492,7 +478,7 @@ And run this to remove the attributes:
 
     xattr -d -r com.apple.quarantine ~/Library/QuickLook
 
-## [48. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [46. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Open Source / Other
 
@@ -510,7 +496,7 @@ And run this to remove the attributes:
 
 *   [Make Your Electron App Feel at Home Everywhere](https://www.youtube.com/watch?v=fw4PmPaghyU) - Tips on making your app feel more native on macOS, Windows, and Linux without sacrificing your own style.
 
-## [49. Awesome Actions on Google](/content/ravirupareliya/awesome-actions-on-google/week/README.md)
+## [47. Awesome Actions on Google](/content/ravirupareliya/awesome-actions-on-google/week/README.md)
 
 ### Codelabs/Courses
 
@@ -523,12 +509,12 @@ And run this to remove the attributes:
 
 *   [Assistant On Air](https://podcasts.google.com/?feed=aHR0cHM6Ly9hY3Rpb25zb25nb29nbGUubGlic3luLmNvbS9yc3M\&ved=0CAAQ4aUDahcKEwiQruG2mJTnAhUAAAAAHQAAAAAQAQ) - By Google team
 
-## [50. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [48. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Programming Languages
 
-*   [Common Lisp (⭐2.5k)](https://github.com/CodyReichert/awesome-cl#readme) - Powerful dynamic multiparadigm language that facilitates iterative and interactive development.
-    *   [Learning (⭐194)](https://github.com/GustavBertram/awesome-common-lisp-learning#readme)
+*   [Common Lisp (⭐2.6k)](https://github.com/CodyReichert/awesome-cl#readme) - Powerful dynamic multiparadigm language that facilitates iterative and interactive development.
+    *   [Learning (⭐202)](https://github.com/GustavBertram/awesome-common-lisp-learning#readme)
 
 ### Front-End Development
 
@@ -540,118 +526,118 @@ And run this to remove the attributes:
 
 ### Events
 
-*   [Creative Tech Events (⭐153)](https://github.com/danvoyce/awesome-creative-tech-events#readme) - Events around the globe for creative coding, tech, design, music, arts and cool stuff.
+*   [Creative Tech Events (⭐166)](https://github.com/danvoyce/awesome-creative-tech-events#readme) - Events around the globe for creative coding, tech, design, music, arts and cool stuff.
 
-## [51. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/week/README.md)
+## [49. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/week/README.md)
 
 ### Education
 
 *   [Postdoc myths](https://www.cs.kent.ac.uk/people/staff/srk21/blog/2019/12/02/) - “Lots of things are said, written and believed about postdoctoral researchers that are simply not true.”
 
-## [52. Awesome Chip 8](/content/tobiasvl/awesome-chip-8/week/README.md)
+## [50. Awesome Chip 8](/content/tobiasvl/awesome-chip-8/week/README.md)
 
 ### Emulator/interpreter development
 
 *   [Chip 8 Instruction Scheduling and Frequency](https://jackson-s.me/2019/07/13/Chip-8-Instruction-Scheduling-and-Frequency.html) - Timing of CHIP-8 instructions on the COSMAC VIP.
 
-## [53. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
+## [51. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
 ### GitHub Tools and Management / Docker Container Actions
 
-*   [Use private actions in any workflow (⭐164)](https://github.com/InVisionApp/private-action-loader)
+*   [Use private actions in any workflow (⭐168)](https://github.com/InVisionApp/private-action-loader)
 
 ### Utility / Docker Container Actions
 
-*   [Read Properties (⭐14)](https://github.com/christian-draeger/read-properties) - Read values from `.properties` files.
+*   [Read Properties (⭐21)](https://github.com/christian-draeger/read-properties) - Read values from `.properties` files.
 *   [Write Properties (⭐14)](https://github.com/christian-draeger/write-properties) - Write values to `.properties` files.
 
 ### Utility / Environments
 
-*   [Create an envfile (⭐238)](https://github.com/SpicyPizza/create-envfile)
+*   [Create an envfile (⭐400)](https://github.com/SpicyPizza/create-envfile)
 *   [Export global environment variables for succeeding build steps (⭐6)](https://github.com/zweitag/github-actions)
-*   [Programmatically set environment variables for use in subsequent steps (⭐41)](https://github.com/allenevans/set-env)
+*   [Programmatically set environment variables for use in subsequent steps (⭐50)](https://github.com/allenevans/set-env)
 
 ### Utility / Semantic Versioning
 
-*   [Next SemVers (⭐37)](https://github.com/WyriHaximus/github-action-next-semvers) - Output the next version for major, minor, and patch version based on the given semver version.
+*   [Next SemVers (⭐58)](https://github.com/WyriHaximus/github-action-next-semvers) - Output the next version for major, minor, and patch version based on the given semver version.
 
 ### Static Analysis / Testing
 
-*   [xUnit Slack Reporter: Sends summary of tests from xUnit reports to a Slack channel (⭐11)](https://github.com/ivanklee86/xunit-slack-reporter)
-*   [Run codeception tests (⭐12)](https://github.com/joelwmale/codeception-action)
-*   [Run TestCafe tests (⭐28)](https://github.com/DevExpress/testcafe-action)
-*   [Run Unity tests (⭐130)](https://github.com/webbertakken/unity-test-runner)
-*   [Run Cypress E2E tests (⭐974)](https://github.com/cypress-io/github-action)
-*   [Test Ansible roles with Molecule (⭐51)](https://github.com/robertdebock/molecule-action)
+*   [xUnit Slack Reporter: Sends summary of tests from xUnit reports to a Slack channel (⭐12)](https://github.com/ivanklee86/xunit-slack-reporter)
+*   [Run codeception tests (⭐15)](https://github.com/joelwmale/codeception-action)
+*   [Run TestCafe tests (⭐37)](https://github.com/DevExpress/testcafe-action)
+*   [Run Unity tests (⭐205)](https://github.com/webbertakken/unity-test-runner)
+*   [Run Cypress E2E tests (⭐1.3k)](https://github.com/cypress-io/github-action)
+*   [Test Ansible roles with Molecule (⭐56)](https://github.com/robertdebock/molecule-action)
 
 ### Static Analysis / Linting
 
 *   [Runs Hadolint against a Dockerfile within a repository (⭐14)](https://github.com/burdzwastaken/hadolint-action)
 *   [PHP\_CodeSniffer With Annotations (⭐55)](https://github.com/chekalsky/phpcs-action)
-*   [Linter for markdown (with presets) (⭐65)](https://github.com/avto-dev/markdown-lint)
+*   [Linter for markdown (with presets) (⭐78)](https://github.com/avto-dev/markdown-lint)
 
 ### Static Analysis / Security
 
-*   [AWS Secrets Manager Actions (⭐53)](https://github.com/say8425/aws-secrets-manager-actions) - Define AWS Secrets Manager secrets to environment values.
+*   [AWS Secrets Manager Actions (⭐62)](https://github.com/say8425/aws-secrets-manager-actions) - Define AWS Secrets Manager secrets to environment values.
 
 ### Static Analysis / Code Coverage
 
-*   [Scan code with SonarCloud (⭐446)](https://github.com/sonarsource/sonarcloud-github-action)
-*   [Send your code coverage to codecov.io (⭐1.1k)](https://github.com/codecov/codecov-action)
-*   [Publishing code coverage to CodeClimate (⭐141)](https://github.com/paambaati/codeclimate-action)
+*   [Scan code with SonarCloud (⭐588)](https://github.com/sonarsource/sonarcloud-github-action)
+*   [Send your code coverage to codecov.io (⭐1.4k)](https://github.com/codecov/codecov-action)
+*   [Publishing code coverage to CodeClimate (⭐199)](https://github.com/paambaati/codeclimate-action)
 
 ### Monitoring / Code Coverage
 
-*   [Audit a webpage with Google Chrome's Lighthouse tests (⭐318)](https://github.com/jakejarvis/lighthouse-action)
-*   [Runs Lighthouse and posts results to PRs and Slack (⭐370)](https://github.com/foo-software/lighthouse-check-action)
-*   [Run Lighthouse in CI using GitHub Actions (⭐926)](https://github.com/treosh/lighthouse-ci-action)
-*   [Continuous Benchmarking and Benchmark Visualization for Go (⭐94)](https://github.com/bobheadxi/gobenchdata)
+*   [Audit a webpage with Google Chrome's Lighthouse tests (⭐342)](https://github.com/jakejarvis/lighthouse-action)
+*   [Runs Lighthouse and posts results to PRs and Slack (⭐476)](https://github.com/foo-software/lighthouse-check-action)
+*   [Run Lighthouse in CI using GitHub Actions (⭐1.2k)](https://github.com/treosh/lighthouse-ci-action)
+*   [Continuous Benchmarking and Benchmark Visualization for Go (⭐141)](https://github.com/bobheadxi/gobenchdata)
 
 ### Pull Requests / Code Coverage
 
-*   [Lint pull request name with commitlint (Awesome if you squash merge !) (⭐54)](https://github.com/JulienKode/pull-request-name-linter-action)
+*   [Lint pull request name with commitlint (Awesome if you squash merge !) (⭐78)](https://github.com/JulienKode/pull-request-name-linter-action)
 
 ### Deployment / Code Coverage
 
-*   [Purge Cloudflare cache after updating a website (⭐99)](https://github.com/jakejarvis/cloudflare-purge-action)
+*   [Purge Cloudflare cache after updating a website (⭐133)](https://github.com/jakejarvis/cloudflare-purge-action)
 
 ### Deployment / Docker
 
-*   [Update a Docker Hub repository description from README.md (⭐197)](https://github.com/peter-evans/dockerhub-description)
-*   [Publish Docker Images to the GitHub Package Registry (GPR) (⭐48)](https://github.com/machine-learning-apps/gpr-docker-publish)
+*   [Update a Docker Hub repository description from README.md (⭐323)](https://github.com/peter-evans/dockerhub-description)
+*   [Publish Docker Images to the GitHub Package Registry (GPR) (⭐53)](https://github.com/machine-learning-apps/gpr-docker-publish)
 *   [Update a repository's "Full description" on Docker Hub (⭐4)](https://github.com/mpepping/github-actions/tree/master/docker-hub-metadata)
 
 ### Deployment / Kubernetes
 
-*   [Deploy to any Cloud or Kubernetes Using Pulumi (⭐171)](https://github.com/pulumi/actions)
-*   [Deploy to Kubernetes with kubectl (⭐188)](https://github.com/steebchen/kubectl)
+*   [Deploy to any Cloud or Kubernetes Using Pulumi (⭐250)](https://github.com/pulumi/actions)
+*   [Deploy to Kubernetes with kubectl (⭐213)](https://github.com/steebchen/kubectl)
 *   [Get Kubeconfig File From Google Kubernetes Engine (GKE) (⭐13)](https://github.com/machine-learning-apps/gke-kubeconfig)
 
 ### Deployment / AWS
 
-*   [Sync/upload a directory to an AWS S3 bucket (⭐818)](https://github.com/jakejarvis/s3-sync-action)
-*   [Deploy Lambda code to an existing function (⭐263)](https://github.com/appleboy/lambda-action)
+*   [Sync/upload a directory to an AWS S3 bucket (⭐1k)](https://github.com/jakejarvis/s3-sync-action)
+*   [Deploy Lambda code to an existing function (⭐387)](https://github.com/appleboy/lambda-action)
 
 ### Deployment / Terraform
 
-*   [Generate terraform documentation (⭐35)](https://github.com/Dirrk/terraform-docs) - Uses terraform-docs to generate docs for terraform modules.
-*   [An example of using Terraform to validate and apply GitHub administration (⭐3)](https://github.com/asgharlabs/github-terraform/tree/master/.github/workflows)
+*   [Generate terraform documentation (⭐38)](https://github.com/Dirrk/terraform-docs) - Uses terraform-docs to generate docs for terraform modules.
+*   [An example of using Terraform to validate and apply GitHub administration (⭐2)](https://github.com/asgharlabs/github-terraform/tree/master/.github/workflows)
 
 ### Build / Terraform
 
-*   [run-cmake (⭐118)](https://github.com/lukka/run-cmake) - Multi platform action to build C/C++ software with [CMake](https://cmake.org) and [Ninja](https://ninja-build.org/).
-*   [run-vcpkg (⭐102)](https://github.com/lukka/run-vcpkg) - Multi platform action to build and install C/C++ dependencies with [vcpkg (⭐17k)](https://github.com/microsoft/vcpkg).
-*   [Build Go applications for multiplatform (⭐4)](https://github.com/izumin5210/action-go-crossbuild)
+*   [run-cmake (⭐176)](https://github.com/lukka/run-cmake) - Multi platform action to build C/C++ software with [CMake](https://cmake.org) and [Ninja](https://ninja-build.org/).
+*   [run-vcpkg (⭐186)](https://github.com/lukka/run-vcpkg) - Multi platform action to build and install C/C++ dependencies with [vcpkg (⭐23k)](https://github.com/microsoft/vcpkg).
+*   [Build Go applications for multiplatform (⭐6)](https://github.com/izumin5210/action-go-crossbuild)
 
-## [54. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [52. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### UI / Effect
 
-*   [Shine (⭐145)](https://github.com/JonathanMonga/flutter_shine.dart) <!--stargazers:JonathanMonga/flutter_shine.dart-->  - Pretty shadows with dynamic light positions by [Jonathan Monga](https://github.com/JonathanMonga/).
+*   [Shine (⭐146)](https://github.com/JonathanMonga/flutter_shine.dart) <!--stargazers:JonathanMonga/flutter_shine.dart-->  - Pretty shadows with dynamic light positions by [Jonathan Monga](https://github.com/JonathanMonga/).
 
 ### Device / Bluetooth / NFC / Beacon
 
-*   [Reactive Ble (⭐651)](https://github.com/PhilipsHue/flutter_reactive_ble) <!--stargazers:PhilipsHue/flutter_reactive_ble--> - Handles BLE operations for multiple devices by [Philips Hue](https://github.com/PhilipsHue)
+*   [Reactive Ble (⭐672)](https://github.com/PhilipsHue/flutter_reactive_ble) <!--stargazers:PhilipsHue/flutter_reactive_ble--> - Handles BLE operations for multiple devices by [Philips Hue](https://github.com/PhilipsHue)
 
 ### 🇵🇪 Peru / Misc
 
@@ -659,12 +645,12 @@ And run this to remove the attributes:
 *   Meetup [Flutter Peru](https://meetup.com/Flutter-Peru/)
 *   Twitter [Flutter Peru](https://twitter.com/FlutterPeru)
 
-## [55. Awesome Maintainers](/content/nayafia/awesome-maintainers/week/README.md)
+## [53. Awesome Maintainers](/content/nayafia/awesome-maintainers/week/README.md)
 
 *   [@BurntSushi](https://github.com/BurntSushi), [Rust libraries](https://github.com/BurntSushi?tab=repositories)
     *   "My FOSS Story" ([post](https://blog.burntsushi.net/foss/))
 
-## [56. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/week/README.md)
+## [54. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/week/README.md)
 
 ### Build Tools to set up performance budget
 
@@ -672,15 +658,15 @@ And run this to remove the attributes:
 
 ### Bundle Analyzers
 
-*   [CSS Analyzer (⭐671)](https://github.com/macbre/analyze-css) - CSS selectors complexity and performance analyzer.
+*   [CSS Analyzer (⭐699)](https://github.com/macbre/analyze-css) - CSS selectors complexity and performance analyzer.
 
-## [57. Awesome Esolangs](/content/angrykoala/awesome-esolangs/week/README.md)
+## [55. Awesome Esolangs](/content/angrykoala/awesome-esolangs/week/README.md)
 
 ### Languages
 
 *   [Golfscript](http://www.golfscript.com/golfscript) - Stack oriented, aimed at solving problems in as few keystrokes as possible.
 
-## [58. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [56. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Currency Exchange
 
@@ -696,7 +682,7 @@ And run this to remove the attributes:
 
 
 
-## [59. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
+## [57. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
 
 ### Self-hosted VPNs
 
@@ -710,13 +696,13 @@ And run this to remove the attributes:
 
 *   [Outline](https://outline.com/) Designed to remove ads, comments, and other junk from news articles but conveniently also bypasses paywalls
 
-## [60. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/week/README.md)
+## [58. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/week/README.md)
 
 ### Regional Connectivity Reports and Data
 
 *   [Open Signal - State of Mobile Networks Reports](http://opensignal.com/reports/) - Report covers a potpourri of countries based on OpenSignal data gathering.
 
-## [61. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [59. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Network / Scanning / Pentesting
 
@@ -726,13 +712,13 @@ And run this to remove the attributes:
 
 *   [Checkov (⭐6.5k)](https://github.com/bridgecrewio/checkov/) - A static analysis tool for infrastucture as code (Terraform).
 
-## [62. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/week/README.md)
+## [60. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/week/README.md)
 
 ### Open Source Projects
 
 *   [Pixelorama](https://www.patreon.com/OramaInteractive) - A free & open-source 2D sprite editor, made with the Godot Engine.
 
-## [63. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [61. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Form Components / Input Types
 
@@ -746,21 +732,21 @@ And run this to remove the attributes:
 
 *   [reactponsive (⭐14)](https://github.com/jmlweb/reactponsive) - Responsive components and hooks.
 
-## [64. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [62. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications
 
-*   [alacritty (⭐55k)](https://github.com/alacritty/alacritty) - A cross-platform, GPU enhanced terminal emulator
+*   [alacritty (⭐57k)](https://github.com/alacritty/alacritty) - A cross-platform, GPU enhanced terminal emulator
 
 ### Applications / Emulators
 
 *   NES
-    *   [koute/pinky (⭐767)](https://github.com/koute/pinky) - A NES emulator
-    *   [pcwalton/sprocketnes (⭐749)](https://github.com/pcwalton/sprocketnes) - A NES emulator
+    *   [koute/pinky (⭐783)](https://github.com/koute/pinky) - A NES emulator
+    *   [pcwalton/sprocketnes (⭐750)](https://github.com/pcwalton/sprocketnes) - A NES emulator
 
 ### Applications / Text editors
 
-*   [mathall/rim (⭐606)](https://github.com/mathall/rim) - Vim-like text editor.
+*   [mathall/rim (⭐611)](https://github.com/mathall/rim) - Vim-like text editor.
 
 ### Applications / Text processing
 
@@ -769,58 +755,58 @@ And run this to remove the attributes:
 ### Libraries / Computation
 
 *   Parallel
-    *   [arrayfire/arrayfire-rust (⭐810)](https://github.com/arrayfire/arrayfire-rust) - [Arrayfire](https://github.com/arrayfire) bindings
-    *   [autumnai/collenchyma (⭐474)](https://github.com/autumnai/collenchyma) - An extensible, pluggable, backend-agnostic framework for parallel, high-performance computations on CUDA, OpenCL and common host CPU.
+    *   [arrayfire/arrayfire-rust (⭐818)](https://github.com/arrayfire/arrayfire-rust) - [Arrayfire](https://github.com/arrayfire) bindings
+    *   [autumnai/collenchyma (⭐477)](https://github.com/autumnai/collenchyma) - An extensible, pluggable, backend-agnostic framework for parallel, high-performance computations on CUDA, OpenCL and common host CPU.
     *   [luqmana/rust-opencl (⭐170)](https://github.com/luqmana/rust-opencl) - [OpenCL](https://www.khronos.org/opencl/) bindings
 
 ### Libraries / GUI
 
-*   [Nuklear (⭐9k)](https://github.com/Immediate-Mode-UI/Nuklear)
-    *   [nuklear-rust (⭐359)](https://github.com/snuk182/nuklear-rust) - Bindings for Nuklear
+*   [Nuklear (⭐9.6k)](https://github.com/Immediate-Mode-UI/Nuklear)
+    *   [nuklear-rust (⭐366)](https://github.com/snuk182/nuklear-rust) - Bindings for Nuklear
 
 ### Libraries / Logging
 
-*   [rust-lang/log (⭐2.1k)](https://github.com/rust-lang/log) - Logging implementation
+*   [rust-lang/log (⭐2.3k)](https://github.com/rust-lang/log) - Logging implementation
 
 ### Libraries / Text search
 
-*   [CurrySoftware/perlin (⭐75)](https://github.com/CurrySoftware/perlin) \[[perlin](https://crates.io/crates/perlin)] - A lazy, zero-allocation and data-agnostic Information Retrieval library
+*   [CurrySoftware/perlin (⭐76)](https://github.com/CurrySoftware/perlin) \[[perlin](https://crates.io/crates/perlin)] - A lazy, zero-allocation and data-agnostic Information Retrieval library
 
-## [65. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/week/README.md)
+## [63. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/week/README.md)
 
 ### ZSH
 
 *   [zinit (⭐25)](https://github.com/zdharma/zinit) - Flexible Zsh plugin manager with clean fpath, reports, completion management, turbo mode, services.
 
-## [66. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
+## [64. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
 ### Workshops / ChatGPT
 
-*   [Wardley Maps Battle Camp (⭐45)](https://github.com/simalexan/battlecamp) - Workshop rules, cards and materials.
+*   [Wardley Maps Battle Camp (⭐47)](https://github.com/simalexan/battlecamp) - Workshop rules, cards and materials.
 
-## [67. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [65. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### HAL implementation crates / GigaDevice
 
-*   [`gd32vf103xx-hal`](https://github.com/riscv-rust/gd32vf103xx-hal) - ![crates.io](https://img.shields.io/crates/v/gd32vf103xx-hal.svg)
+*   [`gd32vf103xx-hal`](https://github.com/riscv-rust/gd32vf103xx-hal) - [![crates.io](https://img.shields.io/crates/v/gd32vf103xx-hal.svg)](https://crates.io/crates/gd32vf103xx-hal)
     *   HAL for GD32VF103xx microcontrollers
 
 ### Board support crates / SeeedStudio
 
 *   [`seedstudio-gd32v`](https://github.com/riscv-rust/seedstudio-gd32v) - Board support crate for the [GD32 RISC-V Dev Board](https://www.seeedstudio.com/SeeedStudio-GD32-RISC-V-Dev-Board-p-4302.html)
-    ![crates.io](https://img.shields.io/crates/v/seedstudio-gd32v.svg)
+    [![crates.io](https://img.shields.io/crates/v/seedstudio-gd32v.svg)](https://crates.io/crates/seedstudio-gd32v)
     *   Contains runnable examples for this board
 
 ### Board support crates / Sipeed
 
 *   [`longan-nano`](https://github.com/riscv-rust/longan-nano) - Board support package for the [Longan Nano board](https://www.seeedstudio.com/Sipeed-Longan-Nano-RISC-V-GD32VF103CBT6-Development-Board-p-4205.html)
-    ![crates.io](https://img.shields.io/crates/v/longan-nano.svg)
+    [![crates.io](https://img.shields.io/crates/v/longan-nano.svg)](https://crates.io/crates/longan-nano)
     *   Contains runnable examples for this board
 
 ### no-std crates / WIP
 
-*   [bitmatch](https://crates.io/crates/bitmatch): A crate that allows you to match, bind, and pack the individual bits of integers. - ![crates.io](https://img.shields.io/crates/v/bitmatch.svg)
-*   [irq](https://crates.io/crates/irq): utilities for writing interrupt handlers (allows moving data into interrupts, and sharing data between them) - ![crates.io](https://img.shields.io/crates/v/irq.svg)
+*   [bitmatch](https://crates.io/crates/bitmatch): A crate that allows you to match, bind, and pack the individual bits of integers. - [![crates.io](https://img.shields.io/crates/v/bitmatch.svg)](https://crates.io/crates/bitmatch)
+*   [irq](https://crates.io/crates/irq): utilities for writing interrupt handlers (allows moving data into interrupts, and sharing data between them) - [![crates.io](https://img.shields.io/crates/v/irq.svg)](https://crates.io/crates/irq)
 
 ---
 

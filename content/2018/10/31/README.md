@@ -16,7 +16,7 @@
 
 ### Animation / Paid Books
 
-*   [jQuery DrawSVG (⭐759)](https://github.com/lcdsantos/jquery-drawsvg) - Lightweight, simple to use jQuery plugin to animate SVG paths
+*   [jQuery DrawSVG (⭐769)](https://github.com/lcdsantos/jquery-drawsvg) - Lightweight, simple to use jQuery plugin to animate SVG paths
 
 ## [3. Awesome Healthcare](/content/kakoni/awesome-healthcare/README.md)
 
@@ -89,7 +89,7 @@
 
 ### How to show your progress / Advanced math
 
-*   **[Contributors (⭐165k)](https://github.com/ossu/computer-science/graphs/contributors)**
+*   **[Contributors (⭐173k)](https://github.com/ossu/computer-science/graphs/contributors)**
 
 ## [7. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
 
@@ -101,22 +101,11 @@
 
 ### Articles & Posts
 
-*   [3 mistakes to avoid if you want to get hired remotely](https://x-team.com/blog/mistakes-remote-developers/)
-*   [5 Tricks to Get More Done While Working Remotely](https://medium.com/@rdutel/working-remotely-getting-things-done-38dcd0413733)
-*   [8 tips that will make you a more active, healthier remote developer](https://x-team.com/blog/how-to-be-healthy-remote/)
-*   [How to focus when working remotely](https://x-team.com/blog/focus-working-remotely/)
-*   [How to Handle Client Work Remotely: Our Communication Stack](https://marsbased.com/blog/2015/12/07/how-to-handle-client-work-remotely-our-communication-stack/)
 *   [How to Make Remote Working Work for You](https://www.toptal.com/remote/how-to-make-remote-working-work-for-you)
-*   [How to run a team of people who never see each other](https://qz.com/230998/how-to-run-a-team-of-people-who-never-see-each-other/)
-*   [How to suggest improvements remotely](https://x-team.com/blog/suggest-improvements-remotely/)
-*   [How to Work Remotely and Still Be the Best](https://www.toptal.com/freelance/how-to-work-remotely-and-still-be-the-best)
 *   [Remote versus Co-located Work](https://martinfowler.com/articles/remote-or-co-located.html)
-*   [The 5 most important things we do as a remote company](https://x-team.com/blog/5-important-things-remote-company/)
-*   [The Ultimate Remote Team Culture](https://www.toptal.com/remote/the-ultimate-remote-culture)
 *   [The Villains of Remote Work](https://blog.dnsimple.com/2016/10/the-villains-of-remote-work/)
 *   [Things To Watch Out For While Working Remotely](https://www.toptal.com/remote/remote-work-burnout-a-cautionary-tale)
 *   [Tips to Land a Remote Job](https://moduscreate.com/blog/tips-to-land-a-remote-job/)
-*   [Who Needs an Office? How to Go 100 Percent Remote.](https://www.entrepreneur.com/article/242708)
 
 ### Books
 
@@ -164,7 +153,7 @@
 
 ### Tools / Misc
 
-*   [DVC (⭐13k)](https://github.com/iterative/dvc) - Data Science Version Control is an open-source version control system for machine learning projects with pipelines support. It makes ML projects reproducible and shareable.
+*   [DVC (⭐14k)](https://github.com/iterative/dvc) - Data Science Version Control is an open-source version control system for machine learning projects with pipelines support. It makes ML projects reproducible and shareable.
 
 ## [14. Awesome Chrome Devtools](/content/ChromeDevTools/awesome-chrome-devtools/README.md)
 

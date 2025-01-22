@@ -10,29 +10,29 @@
 
 ### Resources / Services
 
-*   [gdx-gameanalytics (⭐31)](https://github.com/MrStahlfelge/gdx-gameanalytics) - Game Analytics REST API client implementation for libGDX. Works on all backends.
+*   [gdx-gameanalytics (⭐32)](https://github.com/MrStahlfelge/gdx-gameanalytics) - Game Analytics REST API client implementation for libGDX. Works on all backends.
 
 ### Resources / User Interface
 
-*   [Skin Composer (⭐414)](https://github.com/raeleus/skin-composer) - Create skins for libGDX scene2d.ui with a graphical interface.
-*   [TenPatch (⭐47)](https://github.com/raeleus/TenPatch) - An alternative to libGDX's 9patch implementation that implements multiple stretch regions.
-*   [TypingLabel (⭐148)](https://github.com/rafaskb/typing-label) - A libGDX Label that appears as if it was being typed in real time.
-*   [VisUI (⭐694)](https://github.com/kotcrab/vis-ui) - Allows to create nice looking UI in libGDX using scene2d.ui. Note this is not a UI editor.
+*   [Skin Composer (⭐435)](https://github.com/raeleus/skin-composer) - Create skins for libGDX scene2d.ui with a graphical interface.
+*   [TenPatch (⭐48)](https://github.com/raeleus/TenPatch) - An alternative to libGDX's 9patch implementation that implements multiple stretch regions.
+*   [TypingLabel (⭐152)](https://github.com/rafaskb/typing-label) - A libGDX Label that appears as if it was being typed in real time.
+*   [VisUI (⭐733)](https://github.com/kotcrab/vis-ui) - Allows to create nice looking UI in libGDX using scene2d.ui. Note this is not a UI editor.
 
 ### Resources / Others
 
-*   [Texture Packer GUI (⭐569)](https://github.com/crashinvaders/gdx-texture-packer-gui) - A simple way to pack and manage texture atlases for libGDX game framework.
+*   [Texture Packer GUI (⭐618)](https://github.com/crashinvaders/gdx-texture-packer-gui) - A simple way to pack and manage texture atlases for libGDX game framework.
 
 ### Tutorials / Getting Started
 
 *   [Creating a Launcher](https://youtu.be/3l5F7f7vfTU) - Video tutorial on using libGDX to make a game launcher.
-*   [Deploying with JPackage (⭐414)](https://github.com/raeleus/skin-composer/wiki/libGDX-and-JPackage) - A tutorial on deploying libGDX games with JPackage via Gradle commands.
+*   [Deploying with JPackage (⭐435)](https://github.com/raeleus/skin-composer/wiki/libGDX-and-JPackage) - A tutorial on deploying libGDX games with JPackage via Gradle commands.
 
 ### Tutorials / Advanced
 
 *   [Code Hotswapping](https://youtu.be/zKfh6WuaikQ) - Video tutorial on enabling code hotswapping for libGDX projects to increase productivity.
 
-### Community / Advanced
+### Community / General Learning Material
 
 *   [Reddit](https://www.reddit.com/r/libgdx/) - Unofficial subreddit for libGDX. Not a lot of activity.
 
@@ -40,15 +40,15 @@
 
 ### Gaming
 
-*   [libGDX (⭐981)](https://github.com/rafaskb/awesome-libgdx#readme) - Java game framework.
+*   [libGDX (⭐1k)](https://github.com/rafaskb/awesome-libgdx#readme) - Java game framework.
 
 ### Health and Social Science
 
-*   [Computational Neuroscience (⭐702)](https://github.com/eselkin/awesome-computational-neuroscience#readme) - A multidisciplinary science which uses computational approaches to study the nervous system.
+*   [Computational Neuroscience (⭐754)](https://github.com/eselkin/awesome-computational-neuroscience#readme) - A multidisciplinary science which uses computational approaches to study the nervous system.
 
 ### Miscellaneous
 
-*   [IRC (⭐877)](https://github.com/davisonio/awesome-irc#readme) - Open source messaging protocol.
+*   [IRC (⭐945)](https://github.com/davisonio/awesome-irc#readme) - Open source messaging protocol.
 
 ## [3. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 02 - Oct 08, 2023
 
-35 awesome lists updated this week.
+33 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,13 +10,13 @@
 
 ### Examples
 
-*   [internetarchive/openlibrary (⭐5k)](https://github.com/internetarchive/openlibrary/wiki)
+*   [internetarchive/openlibrary (⭐5.3k)](https://github.com/internetarchive/openlibrary/wiki)
 
 ## [2. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Web
 
-*   [Flaxoos/flax-ktor-plugins (⭐54)](https://github.com/Flaxoos/flax-ktor-plugins) - A Ktor plugins repository for servers and clients, including a kafka client plugin, circuit breaker and more
+*   [Flaxoos/flax-ktor-plugins (⭐69)](https://github.com/Flaxoos/flax-ktor-plugins) - A Ktor plugins repository for servers and clients, including a kafka client plugin, circuit breaker and more
 
 ## [3. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
 
@@ -30,7 +30,7 @@
 
 ## [4. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/week/README.md)
 
-### Optics and Extra Info / Unikernel-like
+### Optics and Extra Info / Qubes OS Summit - 3mdeb Summit videos
 
 *   [Qubes OS Summit 2023](https://www.youtube.com/watch?v=_UxndcxIngw) - Day 1
 
@@ -38,13 +38,13 @@
 
 ### Decentralized Systems
 
-*   [Mastodon (⭐24)](https://github.com/hyperupcall/awesome-mastodon#readme) - Open source decentralized microblogging network.
+*   [Mastodon (⭐29)](https://github.com/hyperupcall/awesome-mastodon#readme) - Open source decentralized microblogging network.
 
 ## [6. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/week/README.md)
 
 ### External Services
 
-*   [osu-box (⭐7)](https://github.com/AiverAiva/osu-box) - Update a pinned gist to display your osu! stats.
+*   [osu-box (⭐11)](https://github.com/AiverAiva/osu-box) - Update a pinned gist to display your osu! stats.
 
 ## [7. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
@@ -78,7 +78,7 @@
 
 ### Other Apps / Outline Processor Markup Language
 
-*   [PlainApp (⭐2.4k)](https://github.com/ismartcoding/plain-app): with an RSS reader function built in <sup>[1338](https://t.me/s/aboutrss/1338)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/ismartcoding/plain-app)
+*   [PlainApp (⭐2.7k)](https://github.com/ismartcoding/plain-app): with an RSS reader function built in <sup>[1338](https://t.me/s/aboutrss/1338)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/ismartcoding/plain-app)
 
 ### RSSHub / Outline Processor Markup Language
 
@@ -123,12 +123,12 @@
 ### RSS Feed integrated with AI generated content / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [RSSPath](http://www.rsspath.com/) <sup>[1363](https://t.me/s/aboutrss/1363)</sup> ![AI](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-ai-16.png)
-*   [RSS-GPT (⭐282)](https://github.com/yinan-c/RSS-GPT) <sup>[1367](https://t.me/s/aboutrss/1367)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/yinan-c/RSS-GPT)![AI](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-ai-16.png)
+*   [RSS-GPT (⭐304)](https://github.com/yinan-c/RSS-GPT) <sup>[1367](https://t.me/s/aboutrss/1367)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/yinan-c/RSS-GPT)![AI](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-ai-16.png)
 
 ### RSS Feed Finding/Detection / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [RSS+](https://greasyfork.org/scripts/373252-rss-show-site-all-rss)
-*   [Get RSS Feed URL (⭐206)](https://github.com/shevabam/get-rss-feed-url-extension) [![Chrome](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Google_Chrome.png)](https://chrome.google.com/webstore/detail/get-rss-feed-url/kfghpdldaipanmkhfpdcjglncmilendn)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/shevabam/get-rss-feed-url-extension)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+*   [Get RSS Feed URL (⭐227)](https://github.com/shevabam/get-rss-feed-url-extension) [![Chrome](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Google_Chrome.png)](https://chrome.google.com/webstore/detail/get-rss-feed-url/kfghpdldaipanmkhfpdcjglncmilendn)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/shevabam/get-rss-feed-url-extension)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 *   [RSS+Atom Feed Subscribe Button Generator](https://greasyfork.org/scripts/6261-rss-atom-feed-subscribe-button-generator) ![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 *   [FeedReader App](https://feedreader.xyz/) <sup>[1364](https://t.me/s/aboutrss/1364)</sup> ![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 *   [RSS feed ASAP](https://rssfeedasap.com/) <sup>[1373](https://t.me/s/aboutrss/1373)</sup> ![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
@@ -168,8 +168,8 @@
 
 ### Programming Languages / [Other](#other-1)
 
-*   [Meziantou.Analyzer (⭐917)](https://github.com/meziantou/Meziantou.Analyzer) — A Roslyn analyzer to enforce some good practices in C# in terms of design, usage, security, performance, and style.
-*   [SonarAnalyzer.CSharp (⭐765)](https://github.com/SonarSource/sonar-dotnet) — These Roslyn analyzers allow you to produce Clean Code that is safe, reliable, and maintainable by helping you find and correct bugs, vulnerabilities, and code smells in your codebase.
+*   [Meziantou.Analyzer (⭐969)](https://github.com/meziantou/Meziantou.Analyzer) — A Roslyn analyzer to enforce some good practices in C# in terms of design, usage, security, performance, and style.
+*   [SonarAnalyzer.CSharp (⭐805)](https://github.com/SonarSource/sonar-dotnet) — These Roslyn analyzers allow you to produce Clean Code that is safe, reliable, and maintainable by helping you find and correct bugs, vulnerabilities, and code smells in your codebase.
 
 ## [14. Awesome Captcha](/content/ZYSzys/awesome-captcha/week/README.md)
 
@@ -187,12 +187,12 @@
 
 ### Templates / Vanilla
 
-*   [vite-starter-markup-template (⭐33)](https://github.com/Grinch3214/vite-starter-markup-template) - Starter template for Markup.
+*   [vite-starter-markup-template (⭐44)](https://github.com/Grinch3214/vite-starter-markup-template) - Starter template for Markup.
 
 ### Templates / React
 
-*   [vite-react-chakra-starter (⭐96)](https://github.com/sozonome/vite-react-chakra-starter) - Starter template for creating React App with TypeScript and Chakra UI. Configured with ESLint, Prettier, and Husky.
-*   [vite-react-tailwind-starter (⭐31)](https://github.com/sozonome/vite-react-tailwind-starter) - Starter template for creating React App with TypeScript and Tailwind CSS with Shadcn UI. Configured with ESLint, Prettier, and Husky.
+*   [vite-react-chakra-starter (⭐105)](https://github.com/sozonome/vite-react-chakra-starter) - Starter template for creating React App with TypeScript and Chakra UI. Configured with ESLint, Prettier, and Husky.
+*   [vite-react-tailwind-starter (⭐43)](https://github.com/sozonome/vite-react-tailwind-starter) - Starter template for creating React App with TypeScript and Tailwind CSS with Shadcn UI. Configured with ESLint, Prettier, and Husky.
 
 ## [17. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
@@ -220,7 +220,6 @@
 *   [HyperCity](https://newmadras.itch.io/hypercity) - A cyberpunk hack of Ironsworn
 *   [Ironcrunch](https://www.patreon.com/posts/ironcrunch-35463893) - A crunchy Ironsworn supplement
 *   [Ironmons](https://docs.google.com/document/d/1MPLxI_RdVdhqvvvAbjXAt1PnKJ11CMZg4V6NTT7BNx0/) - An Ironsworn Pokemon hack
-*   [Ironsworn Flavor Packs](https://www.drivethrurpg.com/product/374949/Ironsmith-Flavor-Packs) - Japanese, South American and Norse setting card packs
 *   [Mistsworn](https://docs.google.com/document/d/1dTLl2rLMmJ0MQfs2BOKu_WxEWEJ6gpQQf1jaSyMK-pY/) - A City of Mist / Ironsworn hybrid hack
 *   [Under Contract](https://docs.google.com/document/d/1K1Cr1F1MABw8h-Hm-YL7DH4V9VLmq2Ezn9PEcOsuw-o/) - A cyberpunk hack for Ironsworn
 
@@ -247,13 +246,13 @@
 
 ### Templating
 
-*   🍰 [Tools:Tree (⭐336)](https://github.com/dereuromark/cakephp-tools) - Tree helper to work with Core Tree behavior and handle tree structure output.
+*   [Tools:Tree](https://github.com/dereuromark/cakephp-tools) - Tree helper to work with Core Tree behavior and handle tree structure output.
 
 ## [21. Awesome Acg](/content/soruly/awesome-acg/week/README.md)
 
 ### Image Reverse Search
 
-*   [imsearch (⭐616)](https://github.com/lolishinshi/imsearch) - Image search powering [soutubot.moe](https://soutubot.moe). \[中文]
+*   [imsearch (⭐670)](https://github.com/lolishinshi/imsearch) - Image search powering [soutubot.moe](https://soutubot.moe). \[中文]
 
 ## [22. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
 
@@ -269,136 +268,29 @@
 
 ### Software / Note-taking & Editors
 
-*   [Note Mark](https://notemark.docs.enchantedcode.co.uk/) - A minimal web-based Markdown notes app. ([Source Code (⭐293)](https://github.com/enchant97/note-mark)) `AGPL-3.0` `Docker`
+*   [Note Mark](https://notemark.docs.enchantedcode.co.uk/) - A minimal web-based Markdown notes app. ([Source Code (⭐382)](https://github.com/enchant97/note-mark)) `AGPL-3.0` `Docker`
 
 ### Software / Personal Dashboards
 
-*   [Homepage by gethomepage (⭐18k)](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. `GPL-3.0` `Docker/Nodejs`
+*   [Homepage by gethomepage (⭐21k)](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. `GPL-3.0` `Docker/Nodejs`
 
 ## [24. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [@f3ve/vue-markdown-it (⭐13)](https://github.com/f3ve/vue-markdown-it) - A markdown-it component for Vue3. Easy to use and fully typed.
+*   [@f3ve/vue-markdown-it (⭐20)](https://github.com/f3ve/vue-markdown-it) - A markdown-it component for Vue3. Easy to use and fully typed.
 
 ### Components & Libraries / UI Utilities
 
 *   [vue-animate (⭐1.4k)](https://github.com/asika32764/vue-animate) - A Vue.js port of Animate.css. For use with Vue's built-in transitions.
 
-## [25. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/week/README.md)
-
-### **Finetuning** / PEFT: Parameter-Efficient Fine-Tuning ([Youtube](https://youtu.be/Us5ZFp16PaU)) [24 Apr 2023]
-
-*   [Efficient Streaming Language Models with Attention Sinks](http://arxiv.org/abs/2309.17453): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2309.17453)] 1. StreamingLLM, an efficient framework that enables LLMs trained with a finite length attention window to generalize to infinite sequence length without any fine-tuning. 2. We neither expand the LLMs' context window nor enhance their long-term memory. [git (⭐6.4k)](https://github.com/mit-han-lab/streaming-llm) \[29 Sep 2023]
-
-    <details>
-
-    <summary>Expand: StreamingLLM</summary>
-
-    <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/streaming-llm.png" alt="streaming-attn"/>
-
-    *   Key-Value (KV) cache is an important component in the StreamingLLM framework.
-
-    1.  Window Attention: Only the most recent Key and Value states (KVs) are cached. This approach fails when the text length surpasses the cache size.
-    2.  Sliding Attention /w Re-computation: Rebuilds the Key-Value (KV) states from the recent tokens for each new token. Evicts the oldest part of the cache.
-    3.  StreamingLLM: One of the techniques used is to add a placeholder token (yellow-colored) as a dedicated attention sink during pre-training. This attention sink attracts the model’s attention and helps it generalize to longer sequences. Outperforms the sliding window with re-computation baseline by up to a remarkable 22.2× speedup.
-
-    </details>
-
-### **Finetuning** / **Llama Finetuning**
-
-*   Coding LLaMA 2 from scratch in PyTorch - KV Cache, Grouped Query Attention, Rotary PE, RMSNorm [Youtube](https://www.youtube.com/watch?v=oM4VmoabDAI) / [git (⭐205)](https://github.com/hkproj/pytorch-llama) \[03 Sep 2023] <br/>
-
-    <details>
-
-    <summary>Expand: KV Cache, Grouped Query Attention, Rotary PE</summary>
-
-    <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/llama2.png" width="300" />
-
-    Rotary PE
-
-    ```python
-    def apply_rotary_embeddings(x: torch.Tensor, freqs_complex: torch.Tensor, device: str):
-        # Separate the last dimension pairs of two values, representing the real and imaginary parts of the complex number
-        # Two consecutive values will become a single complex number
-        # (B, Seq_Len, H, Head_Dim) -> (B, Seq_Len, H, Head_Dim/2)
-        x_complex = torch.view_as_complex(x.float().reshape(*x.shape[:-1], -1, 2))
-        # Reshape the freqs_complex tensor to match the shape of the x_complex tensor. So we need to add the batch dimension and the head dimension
-        # (Seq_Len, Head_Dim/2) --> (1, Seq_Len, 1, Head_Dim/2)
-        freqs_complex = freqs_complex.unsqueeze(0).unsqueeze(2)
-        # Multiply each complex number in the x_complex tensor by the corresponding complex number in the freqs_complex tensor
-        # Which results in the rotation of the complex number as shown in the Figure 1 of the paper
-        # (B, Seq_Len, H, Head_Dim/2) * (1, Seq_Len, 1, Head_Dim/2) = (B, Seq_Len, H, Head_Dim/2)
-        x_rotated = x_complex * freqs_complex
-        # Convert the complex number back to the real number
-        # (B, Seq_Len, H, Head_Dim/2) -> (B, Seq_Len, H, Head_Dim/2, 2)
-        x_out = torch.view_as_real(x_rotated)
-        # (B, Seq_Len, H, Head_Dim/2, 2) -> (B, Seq_Len, H, Head_Dim)
-        x_out = x_out.reshape(*x.shape)
-        return x_out.type_as(x).to(device)
-    ```
-
-    KV Cache, Grouped Query Attention
-
-    ```python
-      # Replace the entry in the cache
-      self.cache_k[:batch_size, start_pos : start_pos + seq_len] = xk
-      self.cache_v[:batch_size, start_pos : start_pos + seq_len] = xv
-
-      # (B, Seq_Len_KV, H_KV, Head_Dim)
-      keys = self.cache_k[:batch_size, : start_pos + seq_len]
-      # (B, Seq_Len_KV, H_KV, Head_Dim)
-      values = self.cache_v[:batch_size, : start_pos + seq_len]
-
-      # Since every group of Q shares the same K and V heads, just repeat the K and V heads for every Q in the same group.
-
-      # (B, Seq_Len_KV, H_KV, Head_Dim) --> (B, Seq_Len_KV, H_Q, Head_Dim)
-      keys = repeat_kv(keys, self.n_rep)
-      # (B, Seq_Len_KV, H_KV, Head_Dim) --> (B, Seq_Len_KV, H_Q, Head_Dim)
-      values = repeat_kv(values, self.n_rep)
-    ```
-
-    </details>
-*   Official LLama Recipes incl. Finetuning: [git (⭐11k)](https://github.com/facebookresearch/llama-recipes)
-
-### **Section 10: General AI Tools and Extensions** / **OSS Alternatives for OpenAI Code Interpreter (aka. Advanced Data Analytics)**
-
-*   Future Tools: <https://www.futuretools.io/>
-
-## [26. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
-
-### Family
-
-### [The Witcher: Old World](https://boardgamegeek.com/boardgame/331106/witcher-old-world)
-
-> The Witcher: Old World immerses you in the legendary universe of The Witcher franchise. In the time when monsters roamed the Continent, the well-trained Witchers were in high demand. Competing schools prepared them for perilous adventures and helping those in trouble in exchange for coins.
-> In this competitive board game, 2-5 players embark on quests, make moral choices, fight monsters, and sometimes brawl with other witchers to defend their school's honor. Players construct unique decks with attacks, dodges, and witcher magic called "signs" to achieve powerful combos. Earn money, obtain items, and train skills through quests, battles or even dice poker.
-
-![The Witcher: Old World](https://cf.geekdo-images.com/tQVVSXcmYLvAoI28cp-2Tg__itemrep/img/rxCXKwIjRmHKwONcIo5Ja7iTiKc=/fit-in/246x300/filters:strip_icc\(\)/pic5974859.jpg)
-
-| Players | Min. Age |    Time |
-| ------: | -------: | ------: |
-|    1 -5 |       14 | 90-150m |
-
-### Party
-
-### [Magic: The Gathering](https://boardgamegeek.com/boardgame/463/magic-gathering)
-
-> In the Magic game, you play the role of a planeswalker—a powerful wizard who fights other planeswalkers for glory, knowledge, and conquest. Your deck of cards represents all the weapons in your arsenal. It contains the spells you know and the creatures you can summon to fight for you. This is the grandfather of the collectible card game (or CCG) genre. Cards are categorized as common, uncommon, rare, and mythic rare. Players collect cards and build decks out of their collection. Players build a deck of cards and duel against an opponent's deck. Players are wizards attempting to reduce their opponent's life total to zero. The first player to reduce his opponent's life to zero (or meet another set win condition) wins the game. An important part of the game is deck construction, which is done prior to the actual game by selecting what cards are included in a particular deck. There are over 25,000 different cards from which to build your deck! Cards can be lands, which usually generate mana of various colors, or spells, which require a certain amount of mana to be used. Some cards (creatures, artifacts, and enchantments) stay on the board and continue to affect the game, while others have a one-time effect. Players randomly draw spells to see what they get and can play each turn. Although this limits your choices, there is a lot of strategy in how you play those spells. A robust list of game mechanics, including intricate rules for reactive card play called "the stack," provide for rich tactics and tough choices each turn. Though traditionally a two-player duel, there are several casual and tournament formats to Magic that allow more players to play.
-
-![MTG image](https://cf.geekdo-images.com/CxJmNl4wR4InjqyNrMdBTw__itemrep/img/kBqgXHgOkEqyADW3Fk9c8KcCJRk=/fit-in/246x300/filters:strip_icc\(\)/pic163749.jpg)
-
-| Players | Min. Age | Time |
-| ------: | -------: | ---: |
-|       2 |       13 |  20m |
-
-## [27. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/week/README.md)
+## [25. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/week/README.md)
 
 ### Online editors
 
 *   [WebLaTeX (⭐884)](https://github.com/sanjib-sen/weblatex) - Web-based vscode with Git Integration + Copilot + Grammar & Spell Checker + Live Collaboration Support based on GitHub Codespace and Dev container.
 
-## [28. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [26. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
@@ -421,38 +313,38 @@
 
 *   [FxRatesAPI](https://fxratesapi.com) — Provides real-time and historical exchange rates. The free tier requires attribution.
 
-## [29. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [27. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### (requires Neovim 0.5)
 
-*   [hinell/lsp-timeout.nvim (⭐204)](https://github.com/hinell/lsp-timeout.nvim) - Automatically start/stop idle/unused LSP servers; keeps RAM usage low.
+*   [hinell/lsp-timeout.nvim (⭐222)](https://github.com/hinell/lsp-timeout.nvim) - Automatically start/stop idle/unused LSP servers; keeps RAM usage low.
 
 ### AI / Diagnostics
 
-*   [dense-analysis/neural (⭐443)](https://github.com/dense-analysis/neural) - Integrate LLMs for generating code, interacting with chat bots, and more.
+*   [dense-analysis/neural (⭐479)](https://github.com/dense-analysis/neural) - Integrate LLMs for generating code, interacting with chat bots, and more.
 
 ### Programming Languages Support / Diagnostics
 
-*   [niuiic/typst-preview.nvim (⭐32)](https://github.com/niuiic/typst-preview.nvim) - Preview typst documents, respond to file changes.
+*   [niuiic/typst-preview.nvim (⭐34)](https://github.com/niuiic/typst-preview.nvim) - Preview typst documents, respond to file changes.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [polirritmico/monokai-nightasty.nvim (⭐99)](https://github.com/polirritmico/monokai-nightasty.nvim) - A dark/light theme based on the Monokai color palette written in Lua, support for LSP, Tree-sitter and lots of plugins.
+*   [polirritmico/monokai-nightasty.nvim (⭐135)](https://github.com/polirritmico/monokai-nightasty.nvim) - A dark/light theme based on the Monokai color palette written in Lua, support for LSP, Tree-sitter and lots of plugins.
 
 ### Statusline / Diagnostics
 
-*   [MunifTanjim/nougat.nvim (⭐192)](https://github.com/MunifTanjim/nougat.nvim) - Hyperextensible Statusline / Tabline / Winbar.
+*   [MunifTanjim/nougat.nvim (⭐202)](https://github.com/MunifTanjim/nougat.nvim) - Hyperextensible Statusline / Tabline / Winbar.
 
 ### CSV Files / Diagnostics
 
-*   [VidocqH/data-viewer.nvim (⭐85)](https://github.com/VidocqH/data-viewer.nvim) - Provide a simple table view to inspect data files such as `csv`, `tsv`.
+*   [VidocqH/data-viewer.nvim (⭐103)](https://github.com/VidocqH/data-viewer.nvim) - Provide a simple table view to inspect data files such as `csv`, `tsv`.
 
 ### Editing Support / Diagnostics
 
 *   [hinell/duplicate.nvim (⭐19)](https://github.com/hinell/duplicate.nvim) - Duplicate lines & blocks of lines easily; undo & unfolding support; full OOP.
-*   [hinell/move.nvim (⭐9)](https://github.com/hinell/move.nvim) - Move chunks of text around; fork of [fedepujol/move.nvim (⭐342)](https://github.com/fedepujol/move.nvim).
+*   [hinell/move.nvim (⭐10)](https://github.com/hinell/move.nvim) - Move chunks of text around; fork of [fedepujol/move.nvim (⭐353)](https://github.com/fedepujol/move.nvim).
 
-## [30. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
+## [28. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
 
 ### 0 - Meta-Lists
 
@@ -540,7 +432,7 @@
 
 *   [Introduction to Quantum Information](https://www.gla.ac.uk/media/Media_344957_smxx.pdf) - Stephen M. Barnett (PDF)
 
-## [31. Awesome Git Addons](/content/stevemao/awesome-git-addons/week/README.md)
+## [29. Awesome Git Addons](/content/stevemao/awesome-git-addons/week/README.md)
 
 ### [Git Town](https://github.com/git-town/git-town)
 
@@ -822,7 +714,7 @@ Interactive UI and fuzzy-search for Git branches.
       3|  ⭐  milk
       4|  ✅  love
 
-## [32. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
+## [30. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
 
 ### Coding Challenge Platforms:
 
@@ -876,33 +768,33 @@ Interactive UI and fuzzy-search for Git branches.
 
 
 
-## [33. Awesome Music](/content/ciconia/awesome-music/week/README.md)
+## [31. Awesome Music](/content/ciconia/awesome-music/week/README.md)
 
 ### MIDI Tools & Libraries
 
-*   [mido (⭐1.4k)](https://github.com/mido/mido) - Python library for working with MIDI messages and ports.
+*   [mido (⭐1.5k)](https://github.com/mido/mido) - Python library for working with MIDI messages and ports.
 
 ### Music Programming
 
 *   [Strudel](https://strudel.tidalcycles.org/) - an experiment in making a language built on javascript for live coding patterns using web technologies.
 
-## [34. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [32. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [apt (⭐4)](https://github.com/GeoLMg/apt-zsh-plugin) - For distros with `apt` package manager. Offers to install missing programs for you.
-*   [brew-switcher (⭐5)](https://github.com/fielding/zsh-brew-switcher) - Automatically switch between Homebrew installations based on the current active arch, arm64 or x86\_64, on Apple Silicon Macs.
-*   [fzfsh (⭐2)](https://github.com/ethan605/fzfsh) - Add [fzf (⭐63k)](https://github.com/junegunn/fzf) plugins for `chezmoi`, `docker`, `git`, `kubectl` and `pass`.
+*   [apt (⭐5)](https://github.com/GeoLMg/apt-zsh-plugin) - For distros with `apt` package manager. Offers to install missing programs for you.
+*   [brew-switcher (⭐7)](https://github.com/fielding/zsh-brew-switcher) - Automatically switch between Homebrew installations based on the current active arch, arm64 or x86\_64, on Apple Silicon Macs.
+*   [fzfsh (⭐2)](https://github.com/ethan605/fzfsh) - Add [fzf (⭐67k)](https://github.com/junegunn/fzf) plugins for `chezmoi`, `docker`, `git`, `kubectl` and `pass`.
 *   [incsearch (⭐5)](https://github.com/aoyama-val/zsh-incsearch) - Friendlier `vim` mode for ZSH. Moves cursor with incremental search within current line.
-*   [purge-history-secrets (⭐1)](https://github.com/jotasixto/purge-history-secrets) - Uses [gitleaks (⭐17k)](https://github.com/gitleaks/gitleaks) to periodically scan your ZSH history for secrets and purge them if found. Requires [jq](https://jqlang.github.io/jq/).
+*   [purge-history-secrets (⭐2)](https://github.com/jotasixto/purge-history-secrets) - Uses [gitleaks (⭐19k)](https://github.com/gitleaks/gitleaks) to periodically scan your ZSH history for secrets and purge them if found. Requires [jq](https://jqlang.github.io/jq/).
 *   [sussysh (⭐0)](https://github.com/sussynuggetz/sussysh-zsh) - Based on xiong-chiamiov.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [minima (⭐3)](https://github.com/Brolly0204/zsh-minima) - Includes `git`, `node`, `golang`, `yarn`, `php`, `docker` and `python` status decorations.
-*   [x (⭐5)](https://github.com/tharindu899/x-theme) - Includes customizable banners
+*   [x](https://github.com/tharindu899/x-theme) - Includes customizable banners
 
-## [35. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [33. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Colleges
 
@@ -939,7 +831,7 @@ Interactive UI and fuzzy-search for Git branches.
 
 *   [Machine Learning For Absolute Beginners](https://www.amazon.in/Machine-Learning-Absolute-Beginners-Introduction-ebook/dp/B07335JNW1)
 
-### Bloggers / Book Deals (Affiliated) 🛍
+### Bloggers / Book Deals (Affiliated)
 
 *   [Akhil Soni](https://medium.com/@akhil0435) - ML, DL and Data Science
 *   [Akhil Soni](https://akhilworld.hashnode.dev/) - ML, DL and Data Science

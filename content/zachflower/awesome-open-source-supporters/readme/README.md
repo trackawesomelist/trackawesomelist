@@ -2,7 +2,7 @@
 
 ⭐️ A curated list of companies that offer their services for free to Open Source projects
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/zachflower/awesome-open-source-supporters/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 zachflower/awesome-open-source-supporters](https://github.com/zachflower/awesome-open-source-supporters) · ⭐ 606 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/zachflower/awesome-open-source-supporters/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 zachflower/awesome-open-source-supporters](https://github.com/zachflower/awesome-open-source-supporters) · ⭐ 625 · 🏷️ Miscellaneous
 
 [ [Daily](/content/zachflower/awesome-open-source-supporters/README.md) / [Weekly](/content/zachflower/awesome-open-source-supporters/week/README.md) / Overview ]
 
@@ -90,7 +90,6 @@ A curated list of awesome companies that offer their tools and services for free
 
 ## Monitoring
 
-*   [Check my Website](https://checkmy.ws/) `requires-approval` - Automated website monitoring.
 *   [Healthchecks.io](https://healthchecks.io/) `requires-approval` - Cron job monitoring.
 *   [WebGazer](https://www.webgazer.io) `requires-approval` - Uptime and cron job monitoring with hosted status pages.
 

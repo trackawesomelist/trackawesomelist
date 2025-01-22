@@ -30,8 +30,7 @@
 
 ### JVM and JDK / Text-Based User Interfaces
 
-*   [Avian (⭐1.2k)](https://github.com/ReadyTalk/avian) - JVM with JIT, AOT modes and iOS port.
-*   [OpenJ9 (⭐3.2k)](https://github.com/eclipse/openj9) - High performance, enterprise-calibre, flexibly licensed, openly-governed cross-platform JVM extending and augmenting the runtime technology components from the Eclipse OMR and OpenJDK project.
+*   [OpenJ9 (⭐3.3k)](https://github.com/eclipse/openj9) - High performance, enterprise-calibre, flexibly licensed, openly-governed cross-platform JVM extending and augmenting the runtime technology components from the Eclipse OMR and OpenJDK project.
 
 ## [5. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
@@ -60,7 +59,7 @@
 
 ### Apps / Content Management
 
-*   [Wagtail Tag Manager (⭐74)](https://github.com/jberghoef/wagtail-tag-manager) - A Wagtail addon that allows for easier and GDPR compliant administration of scripts and tags.
+*   [Wagtail Tag Manager (⭐75)](https://github.com/jberghoef/wagtail-tag-manager) - A Wagtail addon that allows for easier and GDPR compliant administration of scripts and tags.
 
 ### Open-source sites / Lists
 
@@ -93,7 +92,7 @@
 
 ### Image Processing
 
-*   [stb-image (⭐26k)](https://github.com/nothings/stb/blob/master/stb_image.h) - STB single-header image loading library. \[Public Domain]
+*   [stb-image (⭐28k)](https://github.com/nothings/stb/blob/master/stb_image.h) - STB single-header image loading library. \[Public Domain]
 
 ## [13. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
@@ -139,7 +138,7 @@
 
 ### Contents / High-Availability
 
-*   [pglookout (⭐182)](https://github.com/aiven/pglookout) - Replication monitoring and failover daemon.
+*   [pglookout (⭐183)](https://github.com/aiven/pglookout) - Replication monitoring and failover daemon.
 
 ### Contents / Backups
 
@@ -167,7 +166,7 @@
 ### Contents / Utilities
 
 *   [PostgREST (⭐23k)](https://github.com/PostgREST/postgrest) - Serves a fully RESTful API from any existing PostgreSQL database.
-*   [sqitch (⭐2.7k)](https://github.com/sqitchers/sqitch) - Tool for managing versioned schema deployment
+*   [sqitch (⭐2.8k)](https://github.com/sqitchers/sqitch) - Tool for managing versioned schema deployment
 
 ### Contents / Language bindings
 
@@ -192,7 +191,7 @@
 
 ### Generators / Apache License
 
-*   [svd2ada (⭐63)](https://github.com/AdaCore/svd2ada) - An Ada binding generator from SVD descriptions for bare board ARM devices.
+*   [svd2ada (⭐65)](https://github.com/AdaCore/svd2ada) - An Ada binding generator from SVD descriptions for bare board ARM devices.
 
 ## [18. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
@@ -206,10 +205,6 @@
 
 *   [Vue x Hasura GraphQL](https://medium.com/@malgamves/vue-x-hasura-graphql-d66f585a3ba5)
 *   [Using GraphQL Mutations in Vue.js](https://medium.com/@malgamves/using-graphql-mutations-in-vue-js-3b4570234edf)
-
-### Projects Using Vue.js / Open Source
-
-*   [DynamoDb-GUI-Client (⭐657)](https://github.com/Arattian/DynamoDb-GUI-Client): Cross-platform GUI client for DynamoDb
 
 ## [20. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/week/README.md)
 
@@ -459,7 +454,7 @@
 
 ### Language Support
 
-*   [EcmaScript (⭐870)](https://github.com/reactiverse/es4x) - EcmaScript >=6 (JavaScript) support.
+*   [EcmaScript (⭐886)](https://github.com/reactiverse/es4x) - EcmaScript >=6 (JavaScript) support.
 
 ## [29. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 

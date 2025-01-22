@@ -20,7 +20,7 @@
 
 ### Unit Test, Testing / Apache License
 
-*   [gnatbdd (⭐6)](https://github.com/briot/gnatbdd) - Behavior Driven Development in Ada.
+*   [gnatbdd (⭐7)](https://github.com/briot/gnatbdd) - Behavior Driven Development in Ada.
 
 ### System Modeling / Apache License
 
@@ -40,9 +40,9 @@
 
 ## [5. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
-### Other Tools / Telegram
+### Other Tools / Steam
 
-*   [sn0int (⭐1.9k)](https://github.com/kpcyrd/sn0int) - Semi-automatic OSINT framework and package manager.
+*   [sn0int (⭐2.1k)](https://github.com/kpcyrd/sn0int) - Semi-automatic OSINT framework and package manager.
 
 ## [6. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
@@ -54,7 +54,7 @@
 
 ### Logging / Text-Based User Interfaces
 
-*   [p6spy (⭐2k)](https://github.com/p6spy/p6spy) - Enables logging for all JDBC transactions without changes to the code.
+*   [p6spy (⭐2.1k)](https://github.com/p6spy/p6spy) - Enables logging for all JDBC transactions without changes to the code.
 
 ### Messaging / Text-Based User Interfaces
 
@@ -67,7 +67,7 @@
 
 ### Monitoring / Text-Based User Interfaces
 
-*   [Jaeger client (⭐490)](https://github.com/jaegertracing/jaeger-client-java) - Jaeger client.
+*   [Jaeger client (⭐491)](https://github.com/jaegertracing/jaeger-client-java) - Jaeger client.
 
 ### Security / Other
 
@@ -82,7 +82,7 @@
 
 ### Serialization
 
-*   [nanopb (⭐4.2k)](https://github.com/nanopb/nanopb) - Small code-size Protocol Buffers implementation in ANSI C. \[Zlib]
+*   [nanopb (⭐4.5k)](https://github.com/nanopb/nanopb) - Small code-size Protocol Buffers implementation in ANSI C. \[Zlib]
 
 ## [9. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 

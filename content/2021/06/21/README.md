@@ -59,7 +59,7 @@
 
 ### OAuth2 & OpenID / Other tools
 
-*   [Casdoor (⭐9.6k)](https://github.com/casbin/casdoor) - A UI-first centralized authentication / Single-Sign-On (SSO) platform based. Supports OIDC and OAuth 2, social logins, user management, 2FA based on Email and SMS.
+*   [Casdoor (⭐10k)](https://github.com/casbin/casdoor) - A UI-first centralized authentication / Single-Sign-On (SSO) platform based. Supports OIDC and OAuth 2, social logins, user management, 2FA based on Email and SMS.
 
 ## [10. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 
@@ -76,10 +76,6 @@
 ### CMS
 
 *   [Directus](https://directus.io) — Headless CMS. A completely free and open-source platform for managing assets and database content on-prem or in the Cloud. There are no limitations or paywalls.
-
-### Email
-
-*   [fakermail.com](https://fakermail.com/) — Free, temporary email for testing with the last 100 email accounts stored.
 
 ### CDN and Protection
 
@@ -128,13 +124,13 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Aimeos (⭐3.9k)](https://github.com/aimeos/aimeos) - Leading Laravel eCommerce framework to build ultra fast online shops, marketplaces and complex B2B applications scalable from 1 to 1,000,000,000+ items
+*   [Aimeos (⭐4.2k)](https://github.com/aimeos/aimeos) - Leading Laravel eCommerce framework to build ultra fast online shops, marketplaces and complex B2B applications scalable from 1 to 1,000,000,000+ items
 
 ## [18. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
 ### Community Extensions
 
-*   [SCIM for keycloak (⭐183)](https://github.com/Captain-P-Goldfish/scim-for-keycloak)
+*   [SCIM for keycloak (⭐187)](https://github.com/Captain-P-Goldfish/scim-for-keycloak)
 
 ## [19. Awesome Minecraft](/content/bs-community/awesome-minecraft/README.md)
 

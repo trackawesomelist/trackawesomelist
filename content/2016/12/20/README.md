@@ -8,7 +8,7 @@
 
 ## [1. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
-### OSINT Videos / Telegram
+### OSINT Videos / Steam
 
 *   [Amazing mind reader reveals his ‘gift’](https://www.youtube.com/watch?v=F7pYHN9iC9I)
 *   [Data to Go](https://www.youtube.com/watch?v=_YRs28yBYuI)
@@ -89,7 +89,7 @@
 
 ### Python / Neural Networks
 
-*   [Data Driven Code (⭐30)](https://github.com/atmb4u/data-driven-code) - Very simple implementation of neural networks for dummies in python without using any libraries, with detailed comments.
+*   [Data Driven Code (⭐29)](https://github.com/atmb4u/data-driven-code) - Very simple implementation of neural networks for dummies in python without using any libraries, with detailed comments.
 
 ## [7. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/README.md)
 

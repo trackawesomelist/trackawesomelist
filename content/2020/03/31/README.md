@@ -20,7 +20,7 @@
 
 ### Self-Hosted Services / Misc
 
-*   [SimpleLogin (⭐3.9k)](https://github.com/simple-login/app) - Self-hosted email alias solution.
+*   [SimpleLogin (⭐5k)](https://github.com/simple-login/app) - Self-hosted email alias solution.
 
 ## [3. Awesome Embedded and Iot Security](/content/fkie-cad/awesome-embedded-and-iot-security/README.md)
 
@@ -80,29 +80,29 @@
 
 ### Themes
 
-*   [Carbon Design (⭐25)](https://github.com/httpsOmkar/carbon-keycloak-theme)
+*   [Carbon Design (⭐26)](https://github.com/httpsOmkar/carbon-keycloak-theme)
 
 ### Kubernetes
 
-*   [keycloak-operator (⭐429)](https://github.com/keycloak/keycloak-operator)
+*   [keycloak-operator (⭐431)](https://github.com/keycloak/keycloak-operator)
 
 ### Tools
 
-*   [keycloakmigration: Manage your Keycloak configuration with code (⭐108)](https://github.com/klg71/keycloakmigration)
+*   [keycloakmigration: Manage your Keycloak configuration with code (⭐115)](https://github.com/klg71/keycloakmigration)
 
 ## [6. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
 ### Encryption / Apache License
 
-*   [ada-keystore (⭐31)](https://github.com/stcarrez/ada-keystore) - Ada Keystore - protect your sensitive data with secure storage.
+*   [ada-keystore (⭐34)](https://github.com/stcarrez/ada-keystore) - Ada Keystore - protect your sensitive data with secure storage.
 
 ### Algorithms, Containers and Protocols / Apache License
 
-*   [ada-language-server (⭐229)](https://github.com/AdaCore/ada_language_server) - Adacore server implemention of the the Microsoft Language Protocol for Ada and SPARK.
+*   [ada-language-server (⭐245)](https://github.com/AdaCore/ada_language_server) - Adacore server implemention of the the Microsoft Language Protocol for Ada and SPARK.
 
 ### Simulation / Apache License
 
-*   [ghdl (⭐2.3k)](https://github.com/ghdl/ghdl) - VHDL 2008/93/87 simulator.
+*   [ghdl (⭐2.5k)](https://github.com/ghdl/ghdl) - VHDL 2008/93/87 simulator.
 
 ## [7. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/README.md)
 
@@ -121,26 +121,26 @@
 
 ### Collection of Actions / Docker Container Actions
 
-*   [GitHub Actions for Docker (⭐161)](https://github.com/docker/github-actions)
+*   [GitHub Actions for Docker (⭐163)](https://github.com/docker/github-actions)
 
 ### Utility / Docker Container Actions
 
 *   [Linguist (⭐6)](https://github.com/fabasoad/linguist-action) - Checks a repository and produces information about used languages in output.
-*   [Twilio Voice Call (⭐11)](https://github.com/fabasoad/twilio-voice-call-action/) - Make Twilio voice call with defined text.
+*   [Twilio Voice Call (⭐14)](https://github.com/fabasoad/twilio-voice-call-action/) - Make Twilio voice call with defined text.
 
 ### External Services / Terraform
 
-*   [Generate Custom Response using JSONbin (⭐4)](https://github.com/fabasoad/jsonbin-action)
+*   [Generate Custom Response using JSONbin (⭐6)](https://github.com/fabasoad/jsonbin-action)
 
 ### Build / Terraform
 
-*   [Run Pascal Script (⭐4)](https://github.com/fabasoad/pascal-action)
-*   [Publish Go Binaries to GitHub Release Assets (⭐251)](https://github.com/wangyoucao577/go-release-action)
+*   [Run Pascal Script (⭐6)](https://github.com/fabasoad/pascal-action)
+*   [Publish Go Binaries to GitHub Release Assets (⭐485)](https://github.com/wangyoucao577/go-release-action)
 
 ### Localization / Terraform
 
-*   [Find and automatically fix typos and grammar issues in your code (⭐128)](https://github.com/sobolevn/misspell-fixer-action)
-*   [Translation (⭐25)](https://github.com/fabasoad/translation-action) - Translate text from any language to any language.
+*   [Find and automatically fix typos and grammar issues in your code (⭐146)](https://github.com/sobolevn/misspell-fixer-action)
+*   [Translation (⭐40)](https://github.com/fabasoad/translation-action) - Translate text from any language to any language.
 
 ---
 

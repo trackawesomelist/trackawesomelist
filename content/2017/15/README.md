@@ -139,7 +139,7 @@
 
 ### Other Useful Repositories
 
-- Repository: [Cryptography (⭐5.6k)](https://github.com/sobolevn/awesome-cryptography)
+- Repository: [Cryptography (⭐6k)](https://github.com/sobolevn/awesome-cryptography)
 
   Description: Cryptography resources and tools
 
@@ -489,10 +489,6 @@
 
 *   [James (⭐1.4k)](https://github.com/james-proxy/james) - Open-source proxy tool for checking and mapping requests with http as well as https. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/james-proxy/james) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-### Developer Tools / Command Line Tools
-
-*   [itunes-remote (⭐426)](https://github.com/mischah/itunes-remote) - Software for controlling iTunes via the terminal. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/mischah/itunes-remote) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-
 ### Developer Tools / Databases
 
 *   [Tableau Public](https://public.tableau.com/s/) - Free data-visualization software. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
@@ -575,19 +571,15 @@
 
 ### Libraries
 
-*   [Sonnet (⭐9.7k)](https://github.com/deepmind/sonnet) - Sonnet is DeepMind's library built on top of TensorFlow for building complex neural networks.
+*   [Sonnet (⭐9.8k)](https://github.com/deepmind/sonnet) - Sonnet is DeepMind's library built on top of TensorFlow for building complex neural networks.
 
 ## [32. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
-*   [Build vue-hackernews-2.0 from Scratch (⭐88)](https://github.com/Detachment/Build-vue-hackernews-2.0-from-scratch) by [@ Detachment](https://github.com/Detachment)
+*   [Build vue-hackernews-2.0 from Scratch (⭐89)](https://github.com/Detachment/Build-vue-hackernews-2.0-from-scratch) by [@ Detachment](https://github.com/Detachment)
 *   [Vue.js Introduction For People Who Know Just Enough jQuery To Get By](https://medium.com/@mattrothenberg/vue-js-introduction-for-people-who-know-just-enough-jquery-to-get-by-eab5aa193d77)
 *   [Fetching Data from a Third-Party API with Vue.js and Axios](https://www.sitepoint.com/fetching-data-third-party-api-vue-axios/)
-
-### Components & Libraries / UI Components
-
-*   [vue-js-modal (⭐4.4k)](https://github.com/euvl/vue-js-modal) - Simple to use, highly customizable, mobile friendly Vue.js 2.0+ modal with 0 dependencies.
 
 ## [33. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
 
@@ -614,7 +606,7 @@
 
 ## [36. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
-### Fact Checking / Telegram
+### Fact Checking / Steam
 
 *   [Check](https://meedan.com/check)
 
@@ -639,9 +631,9 @@
 
 ### Programming / Python
 
-*   [Nilearn (⭐919)](https://github.com/nilearn/nilearn) - Module for performing statistical learning/machine learning on NeuroImaging data.
-*   [DIPY (⭐561)](https://github.com/nipy/dipy) - Toolbox for analysis of MR diffusion imaging.
-*   [expyriment (⭐104)](https://github.com/expyriment/expyriment) - Platform-independent lightweight Python library for designing and conducting timing-critical behavioural and neuroimaging experiments.
+*   [Nilearn (⭐1.2k)](https://github.com/nilearn/nilearn) - Module for performing statistical learning/machine learning on NeuroImaging data.
+*   [DIPY (⭐712)](https://github.com/nipy/dipy) - Toolbox for analysis of MR diffusion imaging.
+*   [expyriment (⭐113)](https://github.com/expyriment/expyriment) - Platform-independent lightweight Python library for designing and conducting timing-critical behavioural and neuroimaging experiments.
 
 ### Resources / Blogs
 
@@ -818,7 +810,7 @@
 
 ### Projection Mapping • VJing
 
-*   [VirtualMapper (⭐228)](https://github.com/baku89/VirtualMapper) - Realtime preview tool for projection mapping.
+*   [VirtualMapper (⭐225)](https://github.com/baku89/VirtualMapper) - Realtime preview tool for projection mapping.
 
 ### Videos
 
@@ -839,7 +831,7 @@
 
 ### Machine learning • Computer Vision • Ai / Other
 
-*   [Machine Learning (⭐953)](https://github.com/CodingTrain/Machine-Learning) - Coding Train repo with links to machine learning resources.
+*   [Machine Learning (⭐955)](https://github.com/CodingTrain/Machine-Learning) - Coding Train repo with links to machine learning resources.
 
 ## [44. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
@@ -851,15 +843,15 @@
 
 ### Code Analysis and Metrics
 
-*   [NsDepCop (⭐185)](https://github.com/realvizu/NsDepCop) - Static code analysis tool to enforce namespace dependency rules in C# projects.
+*   [NsDepCop (⭐204)](https://github.com/realvizu/NsDepCop) - Static code analysis tool to enforce namespace dependency rules in C# projects.
 
 ### Decompilation
 
-*   [dnSpy (⭐26k)](https://github.com/0xd4d/dnSpy) - open-source .NET assembly browser, editor, decompiler and debugger
+*   [dnSpy (⭐27k)](https://github.com/0xd4d/dnSpy) - open-source .NET assembly browser, editor, decompiler and debugger
 
 ### Distributed Computing
 
-*   [protoactor-dotnet (⭐1.7k)](https://github.com/AsynkronIT/protoactor-dotnet) - Proto Actor - Ultra fast distributed actors for Golang and C#
+*   [protoactor-dotnet (⭐1.8k)](https://github.com/AsynkronIT/protoactor-dotnet) - Proto Actor - Ultra fast distributed actors for Golang and C#
 
 ---
 

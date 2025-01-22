@@ -14,43 +14,43 @@
 
 ### Caching
 
-*   [con\_cache (⭐908)](https://github.com/sasa1977/con_cache) - ConCache is an ETS based key/value storage.
+*   [con\_cache (⭐910)](https://github.com/sasa1977/con_cache) - ConCache is an ETS based key/value storage.
 
 ### Code Analysis
 
-*   [coverex (⭐100)](https://github.com/alfert/coverex) - Coverage Reports for Elixir.
-*   [excoveralls (⭐818)](https://github.com/parroty/excoveralls) - Coverage report tool for Elixir with coveralls.io integration.
+*   [coverex (⭐102)](https://github.com/alfert/coverex) - Coverage Reports for Elixir.
+*   [excoveralls (⭐832)](https://github.com/parroty/excoveralls) - Coverage report tool for Elixir with coveralls.io integration.
 
 ### Date and Time
 
-*   [timex (⭐1.7k)](https://github.com/bitwalker/timex) - Easy to use Date and Time modules for Elixir.
+*   [timex (⭐1.8k)](https://github.com/bitwalker/timex) - Easy to use Date and Time modules for Elixir.
 *   [timex\_interval (⭐9)](https://github.com/atabary/timex-interval) - A date/time interval library for Elixir projects, based on Timex.
 
 ### Files and Directories
 
-*   [dir\_walker (⭐41)](https://github.com/pragdave/dir_walker) - DirWalker lazily traverses one or more directory trees, depth first, returning successive file names.
+*   [dir\_walker (⭐43)](https://github.com/pragdave/dir_walker) - DirWalker lazily traverses one or more directory trees, depth first, returning successive file names.
 
 ### Frameworks
 
-*   [phoenix (⭐21k)](https://github.com/phoenixframework/phoenix) - Elixir Web Framework targeting full-featured, fault tolerant applications with realtime functionality.
-*   [placid (⭐190)](https://github.com/slogsdon/placid) - A REST toolkit for building highly-scalable and fault-tolerant HTTP APIs with Elixir.
-*   [sugar (⭐430)](https://github.com/sugar-framework/sugar) - Modular web framework for Elixir.
+*   [phoenix (⭐22k)](https://github.com/phoenixframework/phoenix) - Elixir Web Framework targeting full-featured, fault tolerant applications with realtime functionality.
+*   [placid (⭐195)](https://github.com/slogsdon/placid) - A REST toolkit for building highly-scalable and fault-tolerant HTTP APIs with Elixir.
+*   [sugar (⭐432)](https://github.com/sugar-framework/sugar) - Modular web framework for Elixir.
 
 ### Geolocation
 
-*   [geo (⭐618)](https://github.com/bryanjos/geo) - A collection of GIS functions for Elixir.
+*   [geo (⭐647)](https://github.com/bryanjos/geo) - A collection of GIS functions for Elixir.
 
 ### Miscellaneous
 
 *   [exquisite (⭐78)](https://github.com/meh/exquisite) - LINQ-like match\_spec generation for Elixir.
-*   [porcelain (⭐934)](https://github.com/alco/porcelain) - Porcelain implements a saner approach to launching and communicating with external OS processes from Elixir.
+*   [porcelain (⭐946)](https://github.com/alco/porcelain) - Porcelain implements a saner approach to launching and communicating with external OS processes from Elixir.
 *   [reprise (⭐43)](https://github.com/herenowcoder/reprise) - Simplified module reloader for Elixir.
-*   [spawndir (⭐3)](https://github.com/jtmoulia/spawndir) - Spawns processes from the file system.
+*   [spawndir (⭐4)](https://github.com/jtmoulia/spawndir) - Spawns processes from the file system.
 
 ### Networking
 
-*   [reagent (⭐93)](https://github.com/meh/reagent) - reagent is a socket acceptor pool for Elixir.
-*   [socket (⭐688)](https://github.com/meh/elixir-socket) - Socket wrapping for Elixir.
+*   [reagent (⭐92)](https://github.com/meh/reagent) - reagent is a socket acceptor pool for Elixir.
+*   [socket (⭐691)](https://github.com/meh/elixir-socket) - Socket wrapping for Elixir.
 *   [wpa\_supplicant (⭐5)](https://github.com/fhunleth/wpa_supplicant.ex) - Elixir interface to the wpa\_supplicant.
 
 ### Package Management
@@ -59,7 +59,7 @@
 
 ### Release Management
 
-*   [exrm (⭐924)](https://github.com/bitwalker/exrm) - Automatically generate a release for your Elixir project.
+*   [exrm (⭐921)](https://github.com/bitwalker/exrm) - Automatically generate a release for your Elixir project.
 
 ### Static Page Generation
 
@@ -77,7 +77,7 @@
 
 ### Websites
 
-*   [Elixir Github Repository (⭐24k)](https://github.com/elixir-lang/elixir) - The project repository.
+*   [Elixir Github Repository (⭐25k)](https://github.com/elixir-lang/elixir) - The project repository.
 
 ## [2. Scalable Css Reading List](/content/davidtheclark/scalable-css-reading-list/README.md)
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 05, 2018
 
-7 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -27,36 +27,26 @@
 
 *   [StackOverflow](https://stackoverflow.com/questions/tagged/dropwizard)
 
-## [3. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Projects Using Vue.js / Open Source
-
-*   [vue-chrome-extension-boilerplate (⭐257)](https://github.com/mubaidr/vue-chrome-extension-boilerplate) - Boilerplate for Chrome extension using Vue.js and Webpack
-
-### Components & Libraries / UI Utilities
-
-*   [vue-seamless-scroll (⭐1.8k)](https://github.com/chenxuan0000/vue-seamless-scroll) - A simple, Seamless scrolling for Vue.js.
-
-## [4. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [3. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Mobile
 
-*   👍 [serapeum (⭐417)](https://github.com/TBRSS/serapeum/) - Another general-purpose utility library. [Expat](https://directory.fsf.org/wiki/License:Expat).
+*   👍 [serapeum (⭐448)](https://github.com/TBRSS/serapeum/) - Another general-purpose utility library. [Expat](https://directory.fsf.org/wiki/License:Expat).
 *   [anaphora](https://common-lisp.net/project/anaphora/) - A collection of anaphoric macros. Public domain.
 
-## [5. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
+## [4. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
 
 ### Home Entertainment / Firmwares for ESP based Devices
 
 *   [sonos2mqtt (⭐53)](https://github.com/svrooij/sonos2mqtt) - A bridge between Sonos and MQTT.
 
-## [6. Awesome ad Free](/content/johnjago/awesome-ad-free/README.md)
+## [5. Awesome ad Free](/content/johnjago/awesome-ad-free/README.md)
 
 ### Alternatives / Mobile Apps
 
 *   [Bible](https://www.bible.com/) - Bible reader with many versions and languages to choose from.
 
-## [7. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [6. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Misc
 
@@ -72,19 +62,19 @@
 
 ### Network / Barcode
 
-*   [Ciao (⭐61)](https://github.com/AlTavares/Ciao) - Publish and discover services using mDNS (Bonjour, Zeroconf).
+*   [Ciao (⭐62)](https://github.com/AlTavares/Ciao) - Publish and discover services using mDNS (Bonjour, Zeroconf).
 
 ### Styling / Barcode
 
-*   [Stylist (⭐292)](https://github.com/yonaskolb/Stylist) - Define UI styles in a hot-loadable external yaml or json file.
+*   [Stylist (⭐297)](https://github.com/yonaskolb/Stylist) - Define UI styles in a hot-loadable external yaml or json file.
 
 ### UI / Barcode
 
-*   [Shiny (⭐799)](https://github.com/efremidze/Shiny) - Iridescent Effect View (inspired by Apple Pay Cash).
+*   [Shiny (⭐809)](https://github.com/efremidze/Shiny) - Iridescent Effect View (inspired by Apple Pay Cash).
 
 ### Alert / Barcode
 
-*   [StatusAlert (⭐843)](https://github.com/LowKostKustomz/StatusAlert) - Display Apple system-like self-hiding status alerts without interrupting user flow.
+*   [StatusAlert (⭐846)](https://github.com/LowKostKustomz/StatusAlert) - Display Apple system-like self-hiding status alerts without interrupting user flow.
 
 ---
 

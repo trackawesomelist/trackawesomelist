@@ -12,10 +12,6 @@
 
 *   [15 Pandas ↔ Polars ↔ SQL ↔ PySpark Translations](https://www.blog.dailydoseofds.com/p/15-pandas-polars-sql-pyspark-translations) - A post that depicts the 15 most common tabular operations in Polars and their corresponding translations in Pandas, SQL and PySpark by [@ChawlaAvi](https://github.com/ChawlaAvi).
 
-### Resources / Talks and videos
-
-*   [Polars and time zones: everything you need to know | PyData Global 2023](https://www.youtube.com/watch?v=DFQFAwt_0VY) ⏳ 29 min - A video that  shows how to use Polars effectively for time series analysis involving different time zones by [@MarcoGorelli](https://github.com/MarcoGorelli).
-
 ## [2. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Visual Studio Plugins
@@ -33,25 +29,25 @@
 
 ### Programming Languages / [Other](#other-1)
 
-*   [PHPArkitect (⭐697)](https://github.com/phparkitect/arkitect) — PHPArkitect helps you to keep your PHP codebase coherent and solid, by permitting to add some architectural constraint check to your workflow. You can express the constraint that you want to enforce, in simple and readable PHP code.
+*   [PHPArkitect (⭐764)](https://github.com/phparkitect/arkitect) — PHPArkitect helps you to keep your PHP codebase coherent and solid, by permitting to add some architectural constraint check to your workflow. You can express the constraint that you want to enforce, in simple and readable PHP code.
 
 ## [5. Awesome Playwright](/content/mxschmitt/awesome-playwright/README.md)
 
 ### Utils
 
-*   [POMWright (⭐29)](https://github.com/DyHex/POMWright) - POMWright is a TypeScript-based framework designed for creating and maintaining Page Object Models. It streamlines locator management by automatically generating nested/chained locators from flat and atomic locator structures which can be dynamically updated throughout tests. This significantly reduces code duplication and makes tests easier to read, write, and maintain.
+*   [POMWright (⭐32)](https://github.com/DyHex/POMWright) - POMWright is a TypeScript-based framework designed for creating and maintaining Page Object Models. It streamlines locator management by automatically generating nested/chained locators from flat and atomic locator structures which can be dynamically updated throughout tests. This significantly reduces code duplication and makes tests easier to read, write, and maintain.
 
 ## [6. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/README.md)
 
 ### Other sources
 
-*   [Cloudflare Radar](https://radar.cloudflare.com/) - Invaluable resource on internet traffic, security, routing, outages, DNS, and more.
+*   [Cloudflare Radar](https://radar.cloudflare.com/) - ([2024](https://blog.cloudflare.com/radar-2024-year-in-review/)) ([2023](https://blog.cloudflare.com/radar-2023-year-in-review/)) ([2022](https://blog.cloudflare.com/radar-2022-year-in-review/)) Invaluable resource on internet traffic, security, routing, outages, DNS, and more.
 
 ## [7. Awesome Music](/content/ciconia/awesome-music/README.md)
 
 ### Free Music Scores
 
-*   [Lavender Blue Open-Scores (⭐13)](https://github.com/madrisan/open-scores) - open scores for piano encoded using lilypond.
+*   [Lavender Blue Open-Scores (⭐15)](https://github.com/madrisan/open-scores) - open scores for piano encoded using lilypond.
 
 ## [8. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 

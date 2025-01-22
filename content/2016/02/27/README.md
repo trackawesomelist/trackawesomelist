@@ -26,7 +26,7 @@
 
 ### Credits
 
-*   Some of the python libraries were cut-and-pasted from [vinta (⭐201k)](https://github.com/vinta/awesome-python)
+*   Some of the python libraries were cut-and-pasted from [vinta (⭐222k)](https://github.com/vinta/awesome-python)
 *   The few go reference I found where pulled from [this page](https://code.google.com/p/go-wiki/wiki/Projects#Machine_Learning)
 
 ## [4. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
@@ -39,7 +39,7 @@
 
 ### Packages / Command-line utilities
 
-*   [cli-columns (⭐33)](https://github.com/shannonmoeller/cli-columns) - Columnated unicode and ansi-safe text lists.
+*   [cli-columns (⭐34)](https://github.com/shannonmoeller/cli-columns) - Columnated unicode and ansi-safe text lists.
 
 ## [6. Awesome Geojson](/content/tmcw/awesome-geojson/README.md)
 
@@ -55,7 +55,7 @@
 
 ## [8. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
 
-### Free Content
+### Free Content / Commerical Tools
 
 *   [Society of Mind](http://aurellem.org/society-of-mind/index.html) - Marvin Minsky's seminal work on how our mind works. Lot of Symbolic AI concepts have been derived from this basis.
 

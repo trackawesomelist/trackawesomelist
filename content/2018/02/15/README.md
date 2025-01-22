@@ -16,7 +16,7 @@
 
 ### ES6 and above / Single Topics
 
-*   [30 seconds of code (⭐120k)](https://github.com/Chalarangelo/30-seconds-of-code) - Useful ES6 snippets that you can understand in 30 seconds or less.
+*   [30 seconds of code (⭐122k)](https://github.com/Chalarangelo/30-seconds-of-code) - Useful ES6 snippets that you can understand in 30 seconds or less.
 
 ## [3. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
 
@@ -41,7 +41,6 @@
 
 ### Videos
 
-*   [David Copeland: The Effective Remote Developer](https://www.infoq.com/presentations/effective-remote-developer-2017)
 *   [Jason Fried: Why work doesn't happen at work](https://www.youtube.com/watch?v=5XD2kNopsUs)
 
 ## [6. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
@@ -58,7 +57,7 @@
 
 ### CLI
 
-*   [replxx (⭐682)](https://github.com/AmokHuginnsson/replxx) - A readline and libedit replacement that supports UTF-8, syntax highlighting, hints, works on Unix and Windows. \[BSD]
+*   [replxx (⭐695)](https://github.com/AmokHuginnsson/replxx) - A readline and libedit replacement that supports UTF-8, syntax highlighting, hints, works on Unix and Windows. \[BSD]
 
 ## [8. Awesome Framer](/content/podo/awesome-framer/README.md)
 

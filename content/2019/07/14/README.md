@@ -22,7 +22,7 @@
 
 ### Varia / Tutorials
 
-*   [Awesome graph classification (⭐4.7k)](https://github.com/benedekrozemberczki/awesome-graph-classification) - Comprehensive list of graph embedding papers with title, authors, link to the paper and reference implementation.
+*   [Awesome graph classification (⭐4.8k)](https://github.com/benedekrozemberczki/awesome-graph-classification) - Comprehensive list of graph embedding papers with title, authors, link to the paper and reference implementation.
 
 ## [3. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 

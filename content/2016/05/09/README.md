@@ -34,8 +34,8 @@
 
 ### Resources / Examples and Exercises
 
-*   [FPJS-Class (⭐94)](https://github.com/loop-recur/FPJS-Class) – Functional Programming learned through JavaScript.
-*   [functional-javascript-workshop (⭐2k)](https://github.com/timoxley/functional-javascript-workshop) – The goal of this workshop is to create realistic problems that can be solved using terse, vanilla, idiomatic JavaScript to teach fundamental functional programming features of JavaScript.
+*   [FPJS-Class (⭐93)](https://github.com/loop-recur/FPJS-Class) – Functional Programming learned through JavaScript.
+*   [functional-javascript-workshop (⭐2.1k)](https://github.com/timoxley/functional-javascript-workshop) – The goal of this workshop is to create realistic problems that can be solved using terse, vanilla, idiomatic JavaScript to teach fundamental functional programming features of JavaScript.
 
 ## [2. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/README.md)
 

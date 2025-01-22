@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 30, 2020
 
-15 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,20 +10,20 @@
 
 ### Algorithms and Data structures
 
-*   [Towel (⭐719)](https://github.com/ZacharyPatten/Towel) - data structures, algorithms, mathematics, metadata, extensions, console, measurements, and other useful stuff
+*   [Towel (⭐731)](https://github.com/ZacharyPatten/Towel) - data structures, algorithms, mathematics, metadata, extensions, console, measurements, and other useful stuff
 
 ### GUI
 
-*   [Ookii.Dialogs.Wpf (⭐1.1k)](https://github.com/augustoproiete/ookii-dialogs-wpf) - Enable WPF applications to access common Windows dialogs such as task dialogs, credential dialog, progress dialog, folder browser dialog, and more
-*   [Ookii.Dialogs.WinForms (⭐596)](https://github.com/augustoproiete/ookii-dialogs-winforms) - Enable Windows Forms applications to access common Windows dialogs such as task dialogs, credential dialog, progress dialog, folder browser dialog, and more
+*   [Ookii.Dialogs.Wpf (⭐1.2k)](https://github.com/augustoproiete/ookii-dialogs-wpf) - Enable WPF applications to access common Windows dialogs such as task dialogs, credential dialog, progress dialog, folder browser dialog, and more
+*   [Ookii.Dialogs.WinForms (⭐628)](https://github.com/augustoproiete/ookii-dialogs-winforms) - Enable Windows Forms applications to access common Windows dialogs such as task dialogs, credential dialog, progress dialog, folder browser dialog, and more
 
 ### Minification
 
-*   [CompressedStaticFiles (⭐85)](https://github.com/AnderssonPeter/CompressedStaticFiles) - Send compressed static files to the browser without having to compress on demand, also has support for sending more advanced image formats when the browser indicates that i has support for it.
+*   [CompressedStaticFiles (⭐89)](https://github.com/AnderssonPeter/CompressedStaticFiles) - Send compressed static files to the browser without having to compress on demand, also has support for sending more advanced image formats when the browser indicates that i has support for it.
 
 ### Tools
 
-*   [Downloader (⭐1.3k)](https://github.com/bezzad/Downloader) - Fast and reliable multipart downloader with asynchronous progress events for .NET applications.
+*   [Downloader (⭐1.4k)](https://github.com/bezzad/Downloader) - Fast and reliable multipart downloader with asynchronous progress events for .NET applications.
 
 ## [2. Css Protips](/content/AllThingsSmitty/css-protips/README.md)
 
@@ -35,28 +35,28 @@
 
 ### Chat
 
-*   [RocketChat (⭐1.5k)](https://github.com/RocketChat/Rocket.Chat.Electron) - Free open source chat system for teams. An alternative to Slack that can also be self hosted. ![javascript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/javascript-16.png "JavaScript language.")
+*   [RocketChat (⭐1.6k)](https://github.com/RocketChat/Rocket.Chat.Electron) - Free open source chat system for teams. An alternative to Slack that can also be self hosted. ![javascript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/javascript-16.png "JavaScript language.")
 
 ### Utilities / Text
 
-*   [Boop (⭐3.5k)](https://github.com/IvanMathy/Boop) - A scriptable scratchpad for developers. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.") ![javascript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/javascript-16.png "JavaScript language.")
-*   [Plain Pasta (⭐81)](https://github.com/hisaac/PlainPasta) - Plaintextify your clipboard ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
+*   [Boop (⭐3.8k)](https://github.com/IvanMathy/Boop) - A scriptable scratchpad for developers. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.") ![javascript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/javascript-16.png "JavaScript language.")
+*   [Plain Pasta (⭐85)](https://github.com/hisaac/PlainPasta) - Plaintextify your clipboard ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
 
 ### Editors / JSON
 
-*   [JSON Editor (⭐59)](https://github.com/fand/json-editor-app) - Dead simple JSON editor using josdejong/jsoneditor ![typescript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/typescript-16.png "TypeScript language.")
+*   [JSON Editor (⭐61)](https://github.com/fand/json-editor-app) - Dead simple JSON editor using josdejong/jsoneditor ![typescript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/typescript-16.png "TypeScript language.")
 
 ### Terminal / Text
 
-*   [OpenInTerminal (⭐5.5k)](https://github.com/Ji4n1ng/OpenInTerminal) - Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
+*   [OpenInTerminal (⭐5.9k)](https://github.com/Ji4n1ng/OpenInTerminal) - Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
 
 ### Menubar / Text
 
-*   [Pi Stats (⭐359)](https://github.com/Bunn/PiStats) - macOS app to visualize Pi-hole information. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.") ![objective\_c\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/objective-c-16.png "Objective-C language.")
+*   [Pi Stats (⭐372)](https://github.com/Bunn/PiStats) - macOS app to visualize Pi-hole information. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.") ![objective\_c\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/objective-c-16.png "Objective-C language.")
 
 ### Screensaver / Text
 
-*   [MinimalClock (⭐111)](https://github.com/mattiarossini/MinimalClock) - Simple and elegant screensaver that displays the time. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
+*   [MinimalClock (⭐123)](https://github.com/mattiarossini/MinimalClock) - Simple and elegant screensaver that displays the time. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
 
 ## [4. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
@@ -99,7 +99,7 @@
 
 ## [7. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
-### Bloggers / Book Deals (Affiliated) 🛍
+### Bloggers / Book Deals (Affiliated)
 
 *   [Jingles](https://jinglescode.github.io/) - Review and extract key concepts from academic papers
 
@@ -119,8 +119,8 @@
 
 ### Component bundles
 
-*   [Element-Blazor (⭐685)](https://github.com/Element-Blazor/Element-Blazor/blob/master/README.en.md) - ![GitHub stars](https://img.shields.io/github/stars/Element-Blazor/Element-Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Element-Blazor/Element-Blazor?style=flat-square\&cacheSeconds=86400) A blazor component library using Element UI. API imitates Element, CSS directly uses Element's style, HTML structure directly uses Element's HTML structure. [Blazor WebAssembly Version demo](https://blazorwasm.github.io). [Blazor WebAssembly Version PWA Mode demo](https://pwawasm.github.io).
-*   [BlazorFluentUI (⭐812)](https://github.com/BlazorFluentUI/BlazorFluentUI) - ![stars](https://img.shields.io/github/stars/BlazorFluentUI/BlazorFluentUI?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/BlazorFluentUI/BlazorFluentUI?style=flat-square\&cacheSeconds=86400) Simple port of FluenUI/Office Fabric React components and style to Blazor. [Client-side demo (WebAssembly)](https://www.blazorfluentui.net/). [Server-side demo (SignalR)](https://blazorfluentui.azurewebsites.net/).
+*   [Element-Blazor (⭐689)](https://github.com/Element-Blazor/Element-Blazor/blob/master/README.en.md) - ![GitHub stars](https://img.shields.io/github/stars/Element-Blazor/Element-Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Element-Blazor/Element-Blazor?style=flat-square\&cacheSeconds=86400) A blazor component library using Element UI. API imitates Element, CSS directly uses Element's style, HTML structure directly uses Element's HTML structure. [Blazor WebAssembly Version demo](https://blazorwasm.github.io). [Blazor WebAssembly Version PWA Mode demo](https://pwawasm.github.io).
+*   [BlazorFluentUI (⭐817)](https://github.com/BlazorFluentUI/BlazorFluentUI) - ![stars](https://img.shields.io/github/stars/BlazorFluentUI/BlazorFluentUI?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/BlazorFluentUI/BlazorFluentUI?style=flat-square\&cacheSeconds=86400) Simple port of FluenUI/Office Fabric React components and style to Blazor. [Client-side demo (WebAssembly)](https://www.blazorfluentui.net/). [Server-side demo (SignalR)](https://blazorfluentui.azurewebsites.net/).
 
 ## [11. Awesome Home Assistant](/content/frenck/awesome-home-assistant/README.md)
 
@@ -152,19 +152,7 @@
 *   [Flax - a neural network ecosystem for JAX that is designed for flexibility (⭐3.7k)](https://github.com/google/flax)
 *   [QuickVision (⭐50)](https://github.com/Quick-AI/quickvision)
 
-## [13. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
-
-### Plotter Art For Sale / Patents
-
-*   [Marcel Schwittlick](https://schwittlick.bigcartel.com/)
-
-## [14. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / UI Components
-
-*   [vue-show-more-text (⭐8)](https://github.com/limlt/vue-show-more-text) - Vue multiline sentence ellipsis component. The text in the component will be truncated.
-
-## [15. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/README.md)
+## [13. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/README.md)
 
 ### Case Studies
 

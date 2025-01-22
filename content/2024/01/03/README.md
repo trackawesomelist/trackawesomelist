@@ -16,7 +16,7 @@
 
 ### Rust / React
 
-*   [tailcall (⭐1.2k)](https://github.com/tailcallhq/tailcall) - A platform for building high-performance GraphQL backends.
+*   [tailcall (⭐1.3k)](https://github.com/tailcallhq/tailcall) - A platform for building high-performance GraphQL backends.
 
 ## [3. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
 
@@ -31,15 +31,11 @@
 
 *   [Learn Vue 3: Step by Step](https://laracasts.com/series/learn-vue-3-step-by-step) on Laracasts
 
-### Components & Libraries / UI Components
-
-*   [vue3-slot-calendar (⭐489)](https://github.com/icai/vue3-calendar) - A vue 3 calendar, datepicker component which supported lunar or date event, bootstrap style.
-
 ## [5. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
 ### Android Keyboard
 
-*   [OpenBoard (⭐2.5k)](https://github.com/openboard-team/openboard) - OpenBoard is a 100% foss keyboard based on AOSP, with no dependency on Google binaries, that respects your privacy. It is no longer updated, but still works.
+*   [OpenBoard (⭐2.6k)](https://github.com/openboard-team/openboard) - OpenBoard is a 100% foss keyboard based on AOSP, with no dependency on Google binaries, that respects your privacy. It is no longer updated, but still works.
 
 ## [6. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
@@ -51,7 +47,7 @@
 
 ### Physics
 
-*   [Jolt Physics (⭐6.3k)](https://github.com/jrouwe/JoltPhysics) - A multi core friendly rigid body physics and collision detection library. \[MIT]
+*   [Jolt Physics (⭐7.1k)](https://github.com/jrouwe/JoltPhysics) - A multi core friendly rigid body physics and collision detection library. \[MIT]
 
 ### Videos
 
@@ -86,7 +82,7 @@
 
 ### Colorscheme Switchers / Diagnostics
 
-*   [CWood-sdf/pineapple (⭐50)](https://github.com/CWood-sdf/pineapple) - Install any colorscheme in your config without leaving your terminal. Collects every colorscheme on the internet and allows you to preview them all before installing.
+*   [CWood-sdf/pineapple (⭐54)](https://github.com/CWood-sdf/pineapple) - Install any colorscheme in your config without leaving your terminal. Collects every colorscheme on the internet and allows you to preview them all before installing.
 
 ## [13. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 19, 2022
 
-18 awesome lists updated today.
+17 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -18,19 +18,19 @@
 ### Tools / Community providers
 
 *   [tf-init-booster (⭐7)](https://github.com/hayorov/terraform-init-booster) - A Pre-terraform routine that speedups terraform modules download for bulky blueprints.
-*   [tf-summarize (⭐506)](https://github.com/dineshba/tf-summarize) - A command-line utility to print the summary of the terraform plan
+*   [tf-summarize (⭐545)](https://github.com/dineshba/tf-summarize) - A command-line utility to print the summary of the terraform plan
 
 ## [3. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/README.md)
 
 ### AppImage developer tools / Build systems
 
-*   [rules\_appimage (⭐7)](https://github.com/lalten/rules_appimage) - Bazel rules to package any lang\_binary target as AppImage.
+*   [rules\_appimage (⭐27)](https://github.com/lalten/rules_appimage) - Bazel rules to package any lang\_binary target as AppImage.
 
 ## [4. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Database Management
 
-*   [Bytebase](https://www.bytebase.com/) - Safe database schema change and version control for DevOps teams, supports MySQL, PostgreSQL, TiDB, ClickHouse, and Snowflake. ([Demo](https://demo.bytebase.com), [Source Code (⭐11k)](https://github.com/bytebase/bytebase)) `MIT` `Docker/K8S/Go`
+*   [Bytebase](https://www.bytebase.com/) - Safe database schema change and version control for DevOps teams, supports MySQL, PostgreSQL, TiDB, ClickHouse, and Snowflake. ([Demo](https://demo.bytebase.com), [Source Code (⭐12k)](https://github.com/bytebase/bytebase)) `MIT` `Docker/K8S/Go`
 
 ### Software / File Transfer & Synchronization
 
@@ -42,38 +42,38 @@
 
 ### Software / Genealogy
 
-*   [Genea.app](https://www.genea.app/) - Genea is a privacy by design and open source tool anyone can use to author or edit their family tree. Data is stored in the GEDCOM format and all processing is done in the browser. ([Source Code (⭐191)](https://github.com/genea-app/genea-app)) `MIT` `Javascript`
+*   [Genea.app](https://www.genea.app/) - Genea is a privacy by design and open source tool anyone can use to author or edit their family tree. Data is stored in the GEDCOM format and all processing is done in the browser. ([Source Code (⭐211)](https://github.com/genea-app/genea-app)) `MIT` `Javascript`
 
 ### Software / Groupware
 
-*   [SOGo](https://www.sogo.nu/) - SOGo offers multiple ways to access the calendaring and messaging data. CalDAV, CardDAV, GroupDAV, as well as ActiveSync, including native Outlook compatibility and Web interface. ([Demo](https://demo.sogo.nu/SOGo/), [Source Code (⭐1.8k)](https://github.com/Alinto/sogo)) `LGPL-2.1` `Objective-C`
+*   [SOGo](https://www.sogo.nu/) - SOGo offers multiple ways to access the calendaring and messaging data. CalDAV, CardDAV, GroupDAV, as well as ActiveSync, including native Outlook compatibility and Web interface. ([Demo](https://demo.sogo.nu/SOGo/), [Source Code (⭐1.9k)](https://github.com/Alinto/sogo)) `LGPL-2.1` `Objective-C`
 
 ### Software / Learning and Courses
 
-*   [Gibbon](https://gibbonedu.org/) - The flexible, open source school management platform designed to make life better for teachers, students, parents and leaders. ([Source Code (⭐460)](https://github.com/GibbonEdu/core)) `GPL-3.0` `PHP`
+*   [Gibbon](https://gibbonedu.org/) - The flexible, open source school management platform designed to make life better for teachers, students, parents and leaders. ([Source Code (⭐502)](https://github.com/GibbonEdu/core)) `GPL-3.0` `PHP`
 
 ### Software / Note-taking & Editors
 
-*   [Standard Notes](https://docs.standardnotes.com/self-hosting/getting-started) - Simple and private notes app. Protect your privacy while getting more done. That's Standard Notes. ([Demo](https://app.standardnotes.org/), [Source Code (⭐5.2k)](https://github.com/standardnotes/app)) `GPL-3.0` `Ruby`
+*   [Standard Notes](https://docs.standardnotes.com/self-hosting/getting-started) - Simple and private notes app. Protect your privacy while getting more done. That's Standard Notes. ([Demo](https://app.standardnotes.org/), [Source Code (⭐5.5k)](https://github.com/standardnotes/app)) `GPL-3.0` `Ruby`
 
 ### Software / Polls and Events
 
-*   [Christmas Community (⭐226)](https://github.com/Wingysam/Christmas-Community) - Create a simple place for your entire family to use to find gifts that people want, and to avoid double-gifting. `AGPL-3.0` `Docker/Nodejs`
-*   [Fider](https://fider.io) - Open platform to collect and prioritize feedback (alternative to UserVoice). ([Demo](https://demo.fider.io), [Source Code (⭐2.8k)](https://github.com/getfider/fider)) `MIT` `Docker`
+*   [Christmas Community (⭐326)](https://github.com/Wingysam/Christmas-Community) - Create a simple place for your entire family to use to find gifts that people want, and to avoid double-gifting. `AGPL-3.0` `Docker/Nodejs`
+*   [Fider](https://fider.io) - Open platform to collect and prioritize feedback (alternative to UserVoice). ([Demo](https://demo.fider.io), [Source Code (⭐3.2k)](https://github.com/getfider/fider)) `MIT` `Docker`
 *   [Framadate](https://framadate.org/abc/) - Online service for planning an appointment or make a decision quickly and easily: Make a poll, Define dates or subjects to choose, Send the poll link to your friends or colleagues, Discuss and make a decision. ([Demo](https://framadate.org/aqg259dth55iuhwm), [Source Code](https://framagit.org/framasoft/framadate?)) `CECILL-B` `PHP`
-*   [Meetable](https://events.indieweb.org) - A minimal events aggregator. ([Source Code (⭐102)](https://github.com/aaronpk/Meetable)) `MIT` `PHP`
+*   [Meetable](https://events.indieweb.org) - A minimal events aggregator. ([Source Code (⭐129)](https://github.com/aaronpk/Meetable)) `MIT` `PHP`
 
 ### Software / Remote Access
 
-*   [MeshCentral](https://meshcentral.com/) - A full computer management website. With MeshCentral, you can run your own web server to remotely manage and control computers on a local network or anywhere on the internet. ([Source Code (⭐3.9k)](https://github.com/Ylianst/MeshCentral)) `Apache-2.0` `Nodejs`
+*   [MeshCentral](https://meshcentral.com/) - A full computer management website. With MeshCentral, you can run your own web server to remotely manage and control computers on a local network or anywhere on the internet. ([Source Code (⭐4.5k)](https://github.com/Ylianst/MeshCentral)) `Apache-2.0` `Nodejs`
 
 ### Software / Search Engines
 
-*   [MeiliSearch](https://www.meilisearch.com) - Ultra relevant, instant and typo-tolerant full-text search API. ([Source Code (⭐46k)](https://github.com/meilisearch/MeiliSearch)) `MIT` `Rust/Docker/deb`
+*   [MeiliSearch](https://www.meilisearch.com) - Ultra relevant, instant and typo-tolerant full-text search API. ([Source Code (⭐49k)](https://github.com/meilisearch/MeiliSearch)) `MIT` `Rust/Docker/deb`
 
 ### Software / Web Servers
 
-*   [Pomerium](https://www.pomerium.io) - An identity-aware reverse proxy, successor to now obsolete oauth\_proxy. It inserts an OAuth step before proxying your request to the backend, so that you can safely expose your self-hosted websites to public Internet. ([Source Code (⭐4k)](https://github.com/pomerium/pomerium)) `Apache-2.0` `Go`
+*   [Pomerium](https://www.pomerium.io) - An identity-aware reverse proxy, successor to now obsolete oauth\_proxy. It inserts an OAuth step before proxying your request to the backend, so that you can safely expose your self-hosted websites to public Internet. ([Source Code (⭐4.1k)](https://github.com/pomerium/pomerium)) `Apache-2.0` `Go`
 
 ### Software / Wikis
 
@@ -89,7 +89,7 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-virtual-mpa (⭐109)](https://github.com/emosheeep/vite-plugin-virtual-mpa) - Out-of-box MPA plugin, with html template engine and virtual files support, which generate multiple files using only one template.
+*   [vite-plugin-virtual-mpa (⭐126)](https://github.com/emosheeep/vite-plugin-virtual-mpa) - Out-of-box MPA plugin, with html template engine and virtual files support, which generate multiple files using only one template.
 
 ## [7. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
@@ -101,7 +101,7 @@
 
 ### Utility / Diagnostics
 
-*   [AckslD/messages.nvim (⭐88)](https://github.com/AckslD/messages.nvim) - Capture and show any messages in a customisable (floating) buffer.
+*   [AckslD/messages.nvim (⭐89)](https://github.com/AckslD/messages.nvim) - Capture and show any messages in a customisable (floating) buffer.
 
 ## [9. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
@@ -111,26 +111,26 @@
 
 ### Libraries/Frameworks / Raspberry Pi
 
-*   [Pi4J/pi4j-kotlin (⭐46)](https://github.com/Pi4J/pi4j-kotlin) - Pi4J Kotlin DSL and API.
+*   [Pi4J/pi4j-kotlin (⭐48)](https://github.com/Pi4J/pi4j-kotlin) - Pi4J Kotlin DSL and API.
 
 ## [10. Awesome for Beginners](/content/MunGell/awesome-for-beginners/README.md)
 
 ### .NET
 
-*   [Legerity (⭐47)](https://github.com/MADE-Apps/legerity) *(label: good first issue)* <br> A framework for speeding up the development of automated UI tests for Windows, Android, iOS, and Web with Appium/Selenium on .NET.
-*   [Legerity for Uno Platform (⭐14)](https://github.com/MADE-Apps/legerity-uno) *(label: good first issue)* <br> An extension framework to Legerity for speeding up the development of automated UI tests for Uno Platform applications with Appium/Selenium on .NET.
+*   [Legerity (⭐81)](https://github.com/MADE-Apps/legerity) *(label: good first issue)* <br> A framework for speeding up the development of automated UI tests for Windows, Android, iOS, and Web with Appium/Selenium on .NET.
+*   [Legerity for Uno Platform (⭐19)](https://github.com/MADE-Apps/legerity-uno) *(label: good first issue)* <br> An extension framework to Legerity for speeding up the development of automated UI tests for Uno Platform applications with Appium/Selenium on .NET.
 
 ## [11. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Algorithms and Data structures
 
 *   [clope (⭐22)](https://github.com/ayrat555/clope) - Elixir implementation of CLOPE: A Fast and Effective Clustering Algorithm for Transactional Data.
-*   [Closure Table (⭐29)](https://github.com/florinpatrascu/closure_table) - Closure Table for Elixir - a simple solution for storing and manipulating complex hierarchies. It provides in-memory and Ecto adapters.
+*   [Closure Table (⭐33)](https://github.com/florinpatrascu/closure_table) - Closure Table for Elixir - a simple solution for storing and manipulating complex hierarchies. It provides in-memory and Ecto adapters.
 *   [graphex (⭐12)](https://github.com/stocks29/graphex) - A library for composing and executing task graphs in elixir.
 
 ### Applications
 
-*   [Caddishouse (⭐13)](https://github.com/caddishouse/reader) - A web-based document reader that connects to your cloud storage accounts using Phoenix/LiveView.
+*   [Caddishouse (⭐15)](https://github.com/caddishouse/reader) - A web-based document reader that connects to your cloud storage accounts using Phoenix/LiveView.
 
 ### Audio and Sounds
 
@@ -143,7 +143,7 @@
 
 ### Errors and Exception Handling
 
-*   [AppSignal Elixir (⭐281)](https://github.com/appsignal/appsignal-elixir) - The official [AppSignal](https://appsignal.com/) package for Elixir.
+*   [AppSignal Elixir (⭐287)](https://github.com/appsignal/appsignal-elixir) - The official [AppSignal](https://appsignal.com/) package for Elixir.
 
 ### Geolocation
 
@@ -159,7 +159,7 @@
 
 ### Miscellaneous
 
-*   [cubdb (⭐537)](https://github.com/lucaong/cubdb) - CubDB is an embedded key-value database, written in the Elixir language. It runs locally, it is schema-less, and backed by a single file.
+*   [cubdb (⭐579)](https://github.com/lucaong/cubdb) - CubDB is an embedded key-value database, written in the Elixir language. It runs locally, it is schema-less, and backed by a single file.
 *   [quarantine (⭐3)](https://github.com/leorog/quarantine) - Quarantine is a tiny OTP application for feature toggles.
 
 ### ORM and Datamapping
@@ -169,17 +169,17 @@
 ### Testing
 
 *   [dummy](https://github.com/Vesuvium/dummy) - An Elixir mocking library that makes sense by exposing meck in the right way.
-*   [propcheck (⭐369)](https://github.com/alfert/propcheck) - Property based testing for Elixir.
+*   [propcheck (⭐379)](https://github.com/alfert/propcheck) - Property based testing for Elixir.
 
 ### Utilities
 
 *   [plugmap (⭐3)](https://github.com/nerdslabs/plugmap) - Plugmap is sitemap generation library for Plug/Phoenix Framework.
-*   [sitemapper (⭐40)](https://github.com/tomtaylor/sitemapper) - A fast, stream based XML Sitemap generator.
+*   [sitemapper (⭐44)](https://github.com/tomtaylor/sitemapper) - A fast, stream based XML Sitemap generator.
 
 ### Books
 
 *   [Elixir Succinctly](https://www.syncfusion.com/ebooks/elixir-succinctly) - A short book to learn the basic of Elixir and its ecosystem.
-*   [Études for Elixir](https://www.oreilly.com/library/view/etudes-for-elixir/9781491917640/) - A collection of exercises to program in Elixir by J. David Eisenberg (2013) ([Github Repo (⭐514)](https://github.com/oreillymedia/etudes-for-elixir)).
+*   [Études for Elixir](https://www.oreilly.com/library/view/etudes-for-elixir/9781491917640/) - A collection of exercises to program in Elixir by J. David Eisenberg (2013) ([Github Repo (⭐517)](https://github.com/oreillymedia/etudes-for-elixir)).
 
 ### Podcasts
 
@@ -203,18 +203,12 @@
 
 *   Pocket (Formerly Read It Later) - [Bad privacy policy](https://tosdr.org/en/service/384). [Apps have trackers](https://reports.exodus-privacy.eu.org/en/reports/com.ideashower.readitlater.pro/latest/) and requires many permissions.
 *   Evernote Web Clipper -  [Bad privacy policy](https://tosdr.org/en/service/207). [Apps have many trackers](https://reports.exodus-privacy.eu.org/en/reports/com.evernote/latest/) and require too many permissions.
-*   [LinkAce (⭐2.5k)](https://github.com/Kovah/LinkAce)
-*   [LinkDing (⭐5.6k)](https://github.com/sissbruecker/linkding)
-*   [Shiori (⭐9.2k)](https://github.com/go-shiori/shiori)
+*   [LinkAce (⭐2.7k)](https://github.com/Kovah/LinkAce)
+*   [LinkDing (⭐7.3k)](https://github.com/sissbruecker/linkding)
+*   [Shiori (⭐9.9k)](https://github.com/go-shiori/shiori)
 *   [Wallabag](https://wallabag.org/) - Open-source, optionally self-hosted, read it later server. Provides paid hosted service with privacy in mind.
 
-## [14. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
-
-### Libraries / Python
-
-*   [PyMongoExplain (⭐3)](https://github.com/mongodb-labs/pymongoexplain/) - A wrapper for PyMongo's Collection object that makes it easy to run `explain` on your queries.
-
-## [15. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/README.md)
+## [14. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/README.md)
 
 ### Cars
 
@@ -222,19 +216,19 @@
 
     <img src="https://user-images.githubusercontent.com/20643017/189459347-e66e7ec1-c66a-4467-b6c9-5517bd38ac28.png" width="200"/>
 
-## [16. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [15. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Miscellaneous
 
-*   🆕 [cl-gtk4 (⭐212)](https://github.com/bohonghuang/cl-gtk4) -  GTK4/Libadwaita/WebKit binding for Common Lisp. [LGPL3](https://www.gnu.org/licenses/lgpl-3.0.en.html).
+*   🆕 [cl-gtk4 (⭐222)](https://github.com/bohonghuang/cl-gtk4) -  GTK4/Libadwaita/WebKit binding for Common Lisp. [LGPL3](https://www.gnu.org/licenses/lgpl-3.0.en.html).
 
-## [17. Awesome Scala](/content/lauris/awesome-scala/README.md)
+## [16. Awesome Scala](/content/lauris/awesome-scala/README.md)
 
 ### Tutorials and courses / Devops
 
 *   [Free Scala Courses](https://skillcombo.com/topic/scala/free/) - A curated list of free Scala courses.
 
-## [18. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [17. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Meta-Level Considerations / The Aha! Moment
 

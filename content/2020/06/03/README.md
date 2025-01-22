@@ -10,7 +10,7 @@
 
 ### Media / Audio
 
-*   [AssetsAudioPlayer (⭐742)](https://github.com/florent37/Flutter-AssetsAudioPlayer) <!--stargazers:florent37/Flutter-AssetsAudioPlayer-->  Simultaneous playback of audio from assets/network/file and displaying notifications \[android / ios / web / macos]
+*   [AssetsAudioPlayer (⭐757)](https://github.com/florent37/Flutter-AssetsAudioPlayer) <!--stargazers:florent37/Flutter-AssetsAudioPlayer-->  Simultaneous playback of audio from assets/network/file and displaying notifications \[android / ios / web / macos]
 
 ## [2. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 
@@ -50,23 +50,23 @@
 
 ### Patterns
 
-*   [StateViewController (⭐308)](https://github.com/davidask/StateViewController) - Stateful UIVIewController composition — the MVC cure for Massive View Controllers.
+*   [StateViewController (⭐310)](https://github.com/davidask/StateViewController) - Stateful UIVIewController composition — the MVC cure for Massive View Controllers.
 
 ### Concurrency
 
-*   [Futures (⭐57)](https://github.com/davidask/Futures) :penguin: - Lightweight promises for iOS, macOS, tvOS, watchOS, and server-side.
+*   [Futures (⭐58)](https://github.com/davidask/Futures) :penguin: - Lightweight promises for iOS, macOS, tvOS, watchOS, and server-side.
 
 ### Other Data
 
-*   [CoreXLSX (⭐807)](https://github.com/CoreOffice/CoreXLSX) - Excel spreadsheet (XLSX) format support.
+*   [CoreXLSX (⭐829)](https://github.com/CoreOffice/CoreXLSX) - Excel spreadsheet (XLSX) format support.
 
 ### Auto Layout / Barcode
 
-*   [EasySwiftLayout (⭐350)](https://github.com/Pimine/EasySwiftLayout) - Lightweight Swift framework for Apple's Auto-Layout.
+*   [EasySwiftLayout (⭐349)](https://github.com/Pimine/EasySwiftLayout) - Lightweight Swift framework for Apple's Auto-Layout.
 
 ### Payment / Barcode
 
-*   [AnimatedCardInput (⭐37)](https://github.com/netguru/AnimatedCardInput) - Customisable and easy to use Credit Card UI.
+*   [AnimatedCardInput (⭐38)](https://github.com/netguru/AnimatedCardInput) - Customisable and easy to use Credit Card UI.
 
 ## [8. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
@@ -203,17 +203,17 @@ Language: English
 
 ### Plugins / Security
 
-*   [no-secrets (⭐127)](https://github.com/nickdeis/eslint-plugin-no-secrets) - An eslint plugin that detects potential secrets/credentials.
-*   [no-unsanitized (⭐223)](https://github.com/mozilla/eslint-plugin-no-unsanitized) - Checks for `innerHTML`, `outerHTML`, etc.
+*   [no-secrets (⭐135)](https://github.com/nickdeis/eslint-plugin-no-secrets) - An eslint plugin that detects potential secrets/credentials.
+*   [no-unsanitized (⭐230)](https://github.com/mozilla/eslint-plugin-no-unsanitized) - Checks for `innerHTML`, `outerHTML`, etc.
 *   ScanJS [config (⭐88)](https://github.com/mozfreddyb/eslint-config-scanjs) and [plugin (⭐28)](https://github.com/mozfreddyb/eslint-plugin-scanjs-rules) - Security-related rules.
 *   [Security (⭐2.2k)](https://github.com/nodesecurity/eslint-plugin-security) - ESLint rules for Node Security.
-*   [xss (⭐67)](https://github.com/Rantanen/eslint-plugin-xss) - Tries to detect XSS issues in codebase before they end up in production.
+*   [xss (⭐66)](https://github.com/Rantanen/eslint-plugin-xss) - Tries to detect XSS issues in codebase before they end up in production.
 
 ## [12. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Communication - Custom Communication Systems
 
-*   [MiAOU](https://miaou.dystroy.org/login) - Multi-room persistent chat server. ([Source Code (⭐539)](https://github.com/Canop/miaou)) `MIT` `Nodejs`
+*   [MiAOU](https://miaou.dystroy.org/login) - Multi-room persistent chat server. ([Source Code (⭐544)](https://github.com/Canop/miaou)) `MIT` `Nodejs`
 
 ---
 

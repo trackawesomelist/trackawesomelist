@@ -25,50 +25,36 @@
 
 ## [3. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
-### Other Tools / Telegram
+### Other Tools / Steam
 
-*   [DuckDuckGo URL scraper (⭐22)](https://github.com/its0x08/duckduckgo) - A simple DuckDuckGo URL scraper.
+*   [DuckDuckGo URL scraper (⭐24)](https://github.com/its0x08/duckduckgo) - A simple DuckDuckGo URL scraper.
 
 ## [4. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Back-End Development
 
-*   [Slim (⭐30)](https://github.com/nekofar/awesome-slim#readme) - PHP framework.
+*   [Slim (⭐33)](https://github.com/nekofar/awesome-slim#readme) - PHP framework.
 
 ## [5. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
-### Resources / Examples
-
-*   [Vue 3 TypeScript Library Template (⭐4)](https://github.com/TinkoLiu/vue3-ts-lib-template) A simple but complete library template for Vue 3, supports generating `.vue.d.ts`
-
 ### Projects Using Vue.js / Open Source
 
-*   [Balancer (⭐186)](https://github.com/balancer-labs/frontend-v2) - A Decentralized Finance app that runs on Ethereum.
-
-### Components & Libraries / Frameworks
-
-*   [petite-vue (⭐9k)](https://github.com/vuejs/petite-vue) - 6kb subset of Vue optimized for progressive enhancement.
-
-### Components & Libraries / UI Components
-
-*   [control-knob (⭐11)](https://github.com/slipmatio/control-knob) - Rotary control knob component for Vue 3 that behaves like audio app controls.
-*   [vue-nav-tab (⭐5)](https://github.com/kien5436/vue-nav-tab) Tab components for Vue.js 3 project
-*   [vue-dropify (⭐17)](https://github.com/khofaai/vue-dropify) - A Simple image dropzone component for Vuejs
+*   [Balancer (⭐191)](https://github.com/balancer-labs/frontend-v2) - A Decentralized Finance app that runs on Ethereum.
 
 ### Components & Libraries / Scaffold
 
-*   [electron-vite-template (⭐393)](https://github.com/umbrella22/electron-vite-template) - A modern desktop application project template with Vue 3, Vite & Electron. **It's fast!**
+*   [electron-vite-template (⭐433)](https://github.com/umbrella22/electron-vite-template) - A modern desktop application project template with Vue 3, Vite & Electron. **It's fast!**
 
 ## [6. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Projects
 
-*   [Rust algorithms (⭐91)](https://github.com/Jondolf/rust-algorithms) - A website with interactive implementations of various algorithms.
+*   [Rust algorithms (⭐115)](https://github.com/Jondolf/rust-algorithms) - A website with interactive implementations of various algorithms.
 
 ### Alternatives / Frameworks
 
-*   [Dioxus (⭐19k)](https://github.com/DioxusLabs/dioxus) - Elegant React-like library for building user interfaces for desktop, web, mobile, SSR, liveview, and more.
-*   [Sycamore (⭐2.7k)](https://github.com/sycamore-rs/sycamore) - A reactive library for creating web apps in Rust and WebAssembly.
+*   [Dioxus (⭐24k)](https://github.com/DioxusLabs/dioxus) - Elegant React-like library for building user interfaces for desktop, web, mobile, SSR, liveview, and more.
+*   [Sycamore (⭐2.9k)](https://github.com/sycamore-rs/sycamore) - A reactive library for creating web apps in Rust and WebAssembly.
 
 ## [7. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
@@ -80,11 +66,11 @@
 
 ### Admin
 
-*   [SQLAlchemy Admin (⭐1.8k)](https://github.com/aminalaee/sqladmin) - Admin Panel for FastAPI/Starlette that works with SQLAlchemy models.
+*   [SQLAlchemy Admin (⭐2k)](https://github.com/aminalaee/sqladmin) - Admin Panel for FastAPI/Starlette that works with SQLAlchemy models.
 
 ### Utils / Other Tools
 
-*   [FastAPI Opentracing (⭐23)](https://github.com/wesdu/fastapi-opentracing) - Opentracing middleware and database tracing support for FastAPI.
+*   [FastAPI Opentracing (⭐24)](https://github.com/wesdu/fastapi-opentracing) - Opentracing middleware and database tracing support for FastAPI.
 
 ### Official Resources / Other Tools
 
@@ -92,54 +78,54 @@
 
 ### Docker Images / Other Tools
 
-*   [inboard (⭐176)](https://github.com/br3ndonland/inboard) - Docker images to power your FastAPI apps and help you ship faster.
+*   [inboard (⭐194)](https://github.com/br3ndonland/inboard) - Docker images to power your FastAPI apps and help you ship faster.
 *   [uvicorn-gunicorn-fastapi-docker (⭐2.7k)](https://github.com/tiangolo/uvicorn-gunicorn-fastapi-docker) - Docker image with Uvicorn managed by Gunicorn for high-performance FastAPI web applications in Python 3.7 and 3.6 with performance auto-tuning.
-*   [uvicorn-gunicorn-poetry (⭐43)](https://github.com/max-pfeiffer/uvicorn-gunicorn-poetry) - This Docker image provides a platform to run FastAPI using Gunicorn with Uvicorn workers. It provides Poetry for managing dependencies and setting up a virtual environment in the container.
-*   [uvicorn-poetry (⭐50)](https://github.com/max-pfeiffer/uvicorn-poetry) - This Docker image provides a platform to run FastAPI with Uvicorn on Kubernetes container orchestration system. It provides Poetry for managing dependencies and setting up a virtual environment in the container.
+*   [uvicorn-gunicorn-poetry (⭐45)](https://github.com/max-pfeiffer/uvicorn-gunicorn-poetry) - Docker image with Gunicorn using Uvicorn workers for running Python web applications. Uses Poetry for managing dependencies and setting up a virtual environment. Supports AMD64 and ARM64 CPU architectures.
+*   [uvicorn-poetry (⭐52)](https://github.com/max-pfeiffer/uvicorn-poetry) - Docker image with Uvicorn ASGI server for running Python web applications on Kubernetes. Uses Poetry for managing dependencies and setting up a virtual environment. Supports AMD64 and ARM64 CPU architectures.
 
 ### Open Source Projects / Other Tools
 
-*   [FastAPI Websocket Broadcast (⭐129)](https://github.com/kthwaite/fastapi-websocket-broadcast) - Websocket 'broadcast' demo.
+*   [FastAPI Websocket Broadcast (⭐135)](https://github.com/kthwaite/fastapi-websocket-broadcast) - Websocket 'broadcast' demo.
 
 ## [9. Magictools](/content/ellisonleao/magictools/week/README.md)
 
 ### Engines and Frameworks / Voxel Editors
 
-*   :tada: [Pyxel (⭐14k)](https://github.com/kitao/pyxel) - a retro game engine for Python.
+*   :tada: [Pyxel (⭐16k)](https://github.com/kitao/pyxel) - a retro game engine for Python.
 
 ## [10. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
 
 ### Communications / Modbus
 
-*   [micropython-modbus (⭐102)](https://github.com/brainelectronics/micropython-modbus) - ModBus TCP and RTU library supporting client and host mode. Based on pycom-modbus from Pycom.
+*   [micropython-modbus (⭐117)](https://github.com/brainelectronics/micropython-modbus) - ModBus TCP and RTU library supporting client and host mode. Based on pycom-modbus from Pycom.
 
 ### Communications / Serial
 
-*   [I2C Slave (⭐718)](https://github.com/peterhinch/micropython-async/blob/master/v3/docs/I2C.md) - Uses the Pyboard's I2C slave mode to implement a full duplex asynchronous link. Principal use case is for ESP8266 which has only one UART.
+*   [I2C Slave (⭐761)](https://github.com/peterhinch/micropython-async/blob/master/v3/docs/I2C.md) - Uses the Pyboard's I2C slave mode to implement a full duplex asynchronous link. Principal use case is for ESP8266 which has only one UART.
 
 ### Communications / WiFi
 
-*   [Micropython-ESP-WiFi-Manager (⭐31)](https://github.com/brainelectronics/Micropython-ESP-WiFi-Manager) - WiFi Manager to configure and connect to networks.
+*   [Micropython-ESP-WiFi-Manager (⭐35)](https://github.com/brainelectronics/Micropython-ESP-WiFi-Manager) - WiFi Manager to configure and connect to networks.
 
 ### Display / GUI
 
-*   [TFT-GUI (⭐85)](https://github.com/peterhinch/micropython-tft-gui) - A fast touch GUI for large displays based on SSD1963 controller with XPT2046 touch controller.
+*   [TFT-GUI (⭐92)](https://github.com/peterhinch/micropython-tft-gui) - A fast touch GUI for large displays based on SSD1963 controller with XPT2046 touch controller.
 
 ### Storage / Flash
 
-*   [micropython-winbond (⭐9)](https://github.com/brainelectronics/micropython-winbond) - Interact with Winbond W25Q Flash chips via SPI.
+*   [micropython-winbond (⭐12)](https://github.com/brainelectronics/micropython-winbond) - Interact with Winbond W25Q Flash chips via SPI.
 
 ## [11. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Misc
 
-*   [ziggy42/kolor (⭐77)](https://github.com/ziggy42/kolor) - A library to print colored strings, with Kotlin.
+*   [ziggy42/kolor (⭐78)](https://github.com/ziggy42/kolor) - A library to print colored strings, with Kotlin.
 
 ## [12. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
 
 ### UI Libraries
 
-*   [AgnosticUI (⭐715)](https://github.com/agnosticui/agnosticui) - Accessible Svelte Component Primitives (that also work with React, Vue 3, and Angular).
+*   [AgnosticUI (⭐725)](https://github.com/agnosticui/agnosticui) - Accessible Svelte Component Primitives (that also work with React, Vue 3, and Angular).
 
 ## [13. Awesome Dotfiles](/content/webpro/awesome-dotfiles/week/README.md)
 
@@ -149,7 +135,7 @@
 
 ### Tools / Ansible
 
-*   [comtrya (⭐454)](https://github.com/comtrya/comtrya) - Configuration management for localhost, written in Rust, for Linux,
+*   [comtrya (⭐494)](https://github.com/comtrya/comtrya) - Configuration management for localhost, written in Rust, for Linux,
     BSD, macOS, and Windows.
 
 ## [14. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
@@ -193,7 +179,7 @@
 
 ### Status Bar
 
-*   [tmux-window-name (⭐201)](https://github.com/ofirgall/tmux-window-name) Names your tmux windows smartly.
+*   [tmux-window-name (⭐215)](https://github.com/ofirgall/tmux-window-name) Names your tmux windows smartly.
 
 ## [17. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
@@ -213,7 +199,7 @@
 
 ### Blockchain
 
-*   [Mastering Bitcoin - Unlocking digital currencies (2017), 2nd Edition (⭐23k)](https://github.com/bitcoinbook/bitcoinbook) - Andreas M. Antonopoulos (AsciiDoc)
+*   [Mastering Bitcoin - Unlocking digital currencies (2017), 2nd Edition (⭐24k)](https://github.com/bitcoinbook/bitcoinbook) - Andreas M. Antonopoulos (AsciiDoc)
 *   [Mastering Ethereum (2018), 1st Edition (⭐20k)](https://github.com/ethereumbook/ethereumbook) - Andreas M. Antonopoulos, Gavin Wood (AsciiDoc)
 
 ### Mathematics
@@ -258,7 +244,7 @@
 
 ### Software / Make your life easier
 
-*   [Keploy (⭐3.4k)](https://github.com/keploy/keploy) - API Testing Platform that automatically generates unit test cases along with dependency mocks(test data) from API calls.
+*   [Keploy (⭐5.3k)](https://github.com/keploy/keploy) - API Testing Platform that automatically generates unit test cases along with dependency mocks(test data) from API calls.
 
 ## [26. Awesome Gdpr](/content/bakke92/awesome-gdpr/week/README.md)
 
@@ -294,7 +280,7 @@
 
 *   [SVG.js](https://svgjs.dev/) - Dependency-free lightweight library for creating, manipulating, and animating SVG.
 *   [Components AI](https://components.ai/) - Experimental computational design platform for exploring generative space.
-*   [DrawingBotV3 (⭐325)](https://github.com/SonarSonic/DrawingBotV3) - Cross-platform software for converting images to line drawings.
+*   [DrawingBotV3 (⭐363)](https://github.com/SonarSonic/DrawingBotV3) - Cross-platform software for converting images to line drawings.
 
 ### Software / Vector Utilities
 
@@ -328,17 +314,13 @@
 
 ### Audio
 
-*   [Beatbump (⭐1k)](https://github.com/snuffyDev/Beatbump) - Alternative frontend for YouTube Music; no ads and custom API wrapper.
-
-### Decentralized
-
-*   [SimpleX Chat](https://simplex.chat/) - The first chat platform that is 100% private by design - it has no access to your connection graph
+*   [Beatbump (⭐1.1k)](https://github.com/snuffyDev/Beatbump) - Alternative frontend for YouTube Music; no ads and custom API wrapper.
 
 ### Alternative Frontends
 
-*   [Nitter (⭐9.9k)](https://github.com/zedeus/nitter/wiki/Instances) - Nitter is a free and open source alternative Twitter front-end focused on privacy.
+*   [Nitter (⭐10k)](https://github.com/zedeus/nitter/wiki/Instances) - Nitter is a free and open source alternative Twitter front-end focused on privacy.
     *   [Fritter (⭐1.4k)](https://github.com/jonjomckay/fritter/) - A free, open-source Nitter client for Android (feed no longer available).
-        *   *   [Squawker (⭐842)](https://github.com/j-fbriere/squawker) - An active fork of Fritter that fixes the feed.
+        *   *   [Squawker (⭐1k)](https://github.com/j-fbriere/squawker) - An active fork of Fritter that fixes the feed.
 
 ## [33. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
@@ -363,21 +345,21 @@
 
 ### GTFS Based Visualizations
 
-*   [fastest-bus-analysis-in-the-west (⭐17)](https://github.com/vta/fastest-bus-analysis-in-the-west) - A python Pandas script that combines Ridership/APC, Swiftly speed and dwell data, bus stop inventory, GTFS, and geospatial shapes to create a stop by stop, route by route, time grouping filterable dataset for cross-analyses.  The dataset is then visualized in [Tableau](https://public.tableau.com/profile/vivek7797#!/vizhome/stopsandspeedanalyses/Story1) to help VTA Planners find places to make bus and rail network faster and more reliable through speedups methods like stop consolidation and dedicated lanes.
-*   [gtfs-visualizations (⭐124)](https://github.com/cmichi/gtfs-visualizations) - Open-source NodeJS application for visualizing the routes of GTFS datasets.
+*   [fastest-bus-analysis-in-the-west (⭐23)](https://github.com/vta/fastest-bus-analysis-in-the-west) - A python Pandas script that combines Ridership/APC, Swiftly speed and dwell data, bus stop inventory, GTFS, and geospatial shapes to create a stop by stop, route by route, time grouping filterable dataset for cross-analyses.  The dataset is then visualized in [Tableau](https://public.tableau.com/profile/vivek7797#!/vizhome/stopsandspeedanalyses/Story1) to help VTA Planners find places to make bus and rail network faster and more reliable through speedups methods like stop consolidation and dedicated lanes.
+*   [gtfs-visualizations (⭐129)](https://github.com/cmichi/gtfs-visualizations) - Open-source NodeJS application for visualizing the routes of GTFS datasets.
 *   [MIT COAXS](http://mittransportanalyst.github.io/) - Co-creative Planning of Transit Corridors using Accessibility-Based Stakeholder Engagement (shows route scenarios using [OpenTripPlanner Analyst](http://www.opentripplanner.org/analyst/)).
 *   [MOTIS](https://motis-project.de/) - Intermodal Mobility Information System including [visualization](https://europe.motis-project.de/)
 *   [MTA Frequency](http://www.tyleragreen.com/maps/new_york/) - Frequency visualization of subways and buses in New York City built using [Transitland](https://transit.land/).
 *   [SEPTA Rail OTP Report](https://apps.phor.net/septa/) - An online on-time performance reporing & drill down tool using GTFS.
-*   [Toronto Transit Explorer (⭐35)](https://github.com/sidewalklabs/totx) - A Java application that visualizes transit, biking and walking accessibility across the city of Toronto. Live version hosted [here](https://totx.sidewalklabs.com/). Uses a modified version of [R5 (⭐272)](https://github.com/conveyal/r5) for routing.
-*   [TransitFlow (⭐276)](https://github.com/transitland/transitland-processing-animation) Animate GTFS data around the world using Processing and Transitland.
+*   [Toronto Transit Explorer (⭐36)](https://github.com/sidewalklabs/totx) - A Java application that visualizes transit, biking and walking accessibility across the city of Toronto. Uses a modified version of [R5 (⭐302)](https://github.com/conveyal/r5) for routing.
+*   [TransitFlow (⭐281)](https://github.com/transitland/transitland-processing-animation) Animate GTFS data around the world using Processing and Transitland.
 *   [TRAVIC Transit Visualization Client](http://tracker.geops.ch/) - Visualizes vehicles moving based on static GTFS data (and sometimes realtime data). Supports over 260 cities.  Github account for geOps organization is [here](https://github.com/geops).
-*   [Traze](https://traze.app/) by [Veridict](https://www.veridict.com) - Visualization of public transport vehicles from all over the world. Collaborate with other users to get real-time updates even when it is not available from the agency. Based on a number of sources, including GTFS and GTFS-RT. (Previously known as [Livemap24](https://www.livemap24.com)).
+*   [Traze](https://traze.app/) by [Veridict](https://www.veridict.com) - Visualization of public transport vehicles from all over the world. Collaborate with other users to get real-time updates even when it is not available from the agency. Based on a number of sources, including GTFS and GTFS-RT. (Previously known as Livemap24).
 *   [Visualizing MBTA Data](http://mbtaviz.github.io/) - Interactive graphs that show how people use Boston's subway system.
 
 ### GTFS Realtime Utilities / Ruby
 
-*   [Concentrate (⭐26)](https://github.com/mbta/concentrate) - Combines realtime transit information from multiple sources into single output files. Maintained by [
+*   [Concentrate (⭐28)](https://github.com/mbta/concentrate) - Combines realtime transit information from multiple sources into single output files. Maintained by [
     Massachusetts Bay Transportation Authority (MBTA)](https://github.com/mbta).
 
 ## [36. Alternative Front Ends](/content/mendel5/alternative-front-ends/week/README.md)
@@ -422,6 +404,8 @@
 *   Chemical Protein Interaction
     *   [STITCH](http://stitch.embl.de/) - A database of Chemical Protein Interaction.
     *   [BindingDB](https://www.bindingdb.org/rwd/bind/index.jsp) - A database of compounds and targes.
+    *   [PDBBind](http://www.pdbbind.org.cn/) - Database of experimentally measured binding affinity data for biomolecular complexes.
+    *   [CrossDocked2020](https://arxiv.org/abs/2001.01037) - Large-scale dataset for machine learning in structure-based virtual screening.
 
 ## [38. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
@@ -439,17 +423,17 @@
 
 ### Projects / Wallets
 
-*   [QRCode Generator (⭐21)](https://github.com/emg110/algorand-qrcode)
+*   [QRCode Generator (⭐22)](https://github.com/emg110/algorand-qrcode) - Uinversal QRCode generator module for Algorand ARC-26 URIs.
 
 ## [39. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Communication - Custom Communication Systems
 
-*   [SimpleX Chat (⭐5.9k)](https://github.com/simplex-chat/simplex-chat) - The most private and secure chat and applications platform - now with double ratchet E2E encryption. `AGPL-3.0` `Haskell`
+*   [SimpleX Chat (⭐7.8k)](https://github.com/simplex-chat/simplex-chat) - The most private and secure chat and applications platform - now with double ratchet E2E encryption. `AGPL-3.0` `Haskell`
 
 ### Software / Communication - Email - Webmail Clients
 
-*   [SnappyMail](https://snappymail.eu/) - Simple, modern, lightweight & fast web-based email client (fork of RainLoop). ([Demo](https://snappymail.eu/demo/), [Source Code (⭐968)](https://github.com/the-djmaze/snappymail)) `AGPL-3.0` `PHP`
+*   [SnappyMail](https://snappymail.eu/) - Simple, modern, lightweight & fast web-based email client (fork of RainLoop). ([Demo](https://snappymail.eu/demo/), [Source Code (⭐1.1k)](https://github.com/the-djmaze/snappymail)) `AGPL-3.0` `PHP`
 
 ### Software / Content Management Systems (CMS)
 
@@ -459,13 +443,13 @@
 
 ### Libraries / Lua
 
-*   [luasnmp (⭐10)](https://github.com/hleuwer/luasnmp) - Lua binding to net-snmp library.
+*   [luasnmp (⭐11)](https://github.com/hleuwer/luasnmp) - Lua binding to net-snmp library.
 
 ### Libraries / PHP
 
 *   [php.net/SNMP](https://www.php.net/manual/en/book.snmp.php) - This is an SNMP extension for PHP, which is a wrapper around the net-snmp library.
-*   [FreeDSx/SNMP (⭐56)](https://github.com/FreeDSx/SNMP) - A Pure PHP SNMP Library.
-*   [opensolutions/OSS\_SNMP (⭐106)](https://github.com/opensolutions/OSS_SNMP) - A PHP SNMP library for people who hate SNMP, MIBs and OIDs!
+*   [FreeDSx/SNMP (⭐58)](https://github.com/FreeDSx/SNMP) - A Pure PHP SNMP Library.
+*   [opensolutions/OSS\_SNMP (⭐108)](https://github.com/opensolutions/OSS_SNMP) - A PHP SNMP library for people who hate SNMP, MIBs and OIDs!
 
 ### Tools / CLIs
 
@@ -473,17 +457,17 @@
     *   [snmptt](http://www.snmptt.org/docs/snmptt.shtml) - SNMPTT (SNMP Trap Translator) is an SNMP trap handler written in Perl for use with the Net-SNMP / UCD-SNMP snmptrapd program ([www.net-snmp.org](http://www.net-snmp.org)). SNMPTT supports Linux, Unix and Windows.
     *   [snmpttconvert](http://www.snmptt.org/docs/snmpttconvert.shtml) - Some vendors provide a file that can be imported into HP Openview using a HP Openview utility. snmpttconvert is a simple Perl script which will convert one of these files into the format used by snmptt.
     *   [snmpttconvertmib](http://www.snmptt.org/docs/temp/snmpttconvertmib.shtml) - The snmpttconvertmib is a Perl script which will read a MIB file and convert the TRAP-TYPE (v1) or NOTIFICATION-TYPE (v2) definitions into a configuration file readable by snmptt.
-*   [prometheus/snmp\_exporter (⭐1.5k)](https://github.com/prometheus/snmp_exporter) - This exporter is the recommended way to expose SNMP data in a format which Prometheus can ingest.
-*   [trailofbits/onesixtyone (⭐454)](https://github.com/trailofbits/onesixtyone) - Fast SNMP Scanner.
-*   [SECFORCE/SNMP-Brute (⭐288)](https://github.com/SECFORCE/SNMP-Brute) - Fast SNMP brute force, enumeration, CISCO config downloader and password cracking script.
-*   [hatlord/snmpwn (⭐229)](https://github.com/hatlord/snmpwn) - An SNMPv3 User Enumerator and Attack tool.
-*   [zabbix-tools/mib2zabbix (⭐167)](https://github.com/zabbix-tools/mib2zabbix) - This Perl script will generate a Zabbix v3 Template in XML format from an OID tree in a SNMP MIB file.
+*   [prometheus/snmp\_exporter (⭐1.7k)](https://github.com/prometheus/snmp_exporter) - This exporter is the recommended way to expose SNMP data in a format which Prometheus can ingest.
+*   [trailofbits/onesixtyone (⭐522)](https://github.com/trailofbits/onesixtyone) - Fast SNMP Scanner.
+*   [SECFORCE/SNMP-Brute (⭐294)](https://github.com/SECFORCE/SNMP-Brute) - Fast SNMP brute force, enumeration, CISCO config downloader and password cracking script.
+*   [hatlord/snmpwn (⭐243)](https://github.com/hatlord/snmpwn) - An SNMPv3 User Enumerator and Attack tool.
+*   [zabbix-tools/mib2zabbix (⭐189)](https://github.com/zabbix-tools/mib2zabbix) - This Perl script will generate a Zabbix v3 Template in XML format from an OID tree in a SNMP MIB file.
 
 ### Tools / GUIs
 
 *   [ireasoning/SNMP Agent Simulator](http://ireasoning.com/snmpsimulator.shtml) - Free SNMP Agent Simulator Java based application that can simulate SNMPv1/v2c/v3 agents.
 *   [muonics/Online MIB validator](http://www.muonics.com/Tools/smicheck.php) - Free online MIB/PIB Validator based on MIB Smithy SDK.
-*   [toni-moreno/snmpcollector (⭐281)](https://github.com/toni-moreno/snmpcollector) - SnmpCollector is a full featured Generic SNMP data collector with Web Administration Interface Open Source tool which has as main goal simplify the configuration for getting data from any device which snmp protocol support and send resulting data to an influxdb backend.
+*   [toni-moreno/snmpcollector (⭐288)](https://github.com/toni-moreno/snmpcollector) - SnmpCollector is a full featured Generic SNMP data collector with Web Administration Interface Open Source tool which has as main goal simplify the configuration for getting data from any device which snmp protocol support and send resulting data to an influxdb backend.
 
 ### Publications / Books
 
@@ -498,8 +482,8 @@
 
 ### MIB repositories / Tutorials
 
-*   [hsnodgrass/snmp\_mib\_archive (⭐170)](https://github.com/hsnodgrass/snmp_mib_archive) - An archive of over 3000 unique SNMP MIBs.
-*   [kcsinclair/mibs (⭐61)](https://github.com/kcsinclair/mibs) - Another collection of MIBS used for SNMP. Make sure to clone the repository to see the full list of MIBs.
+*   [hsnodgrass/snmp\_mib\_archive (⭐173)](https://github.com/hsnodgrass/snmp_mib_archive) - An archive of over 3000 unique SNMP MIBs.
+*   [kcsinclair/mibs (⭐63)](https://github.com/kcsinclair/mibs) - Another collection of MIBS used for SNMP. Make sure to clone the repository to see the full list of MIBs.
 *   [mibdepot.com](http://www.mibdepot.com) - mibDepot is a free service to the SNMP community and offers a dictionary of MIBs and a unique-in-the-industry Search Engine with over 12,000 SNMP MIBs representing over 1,800,000 MIB object definitions.
 *   [oid-info.com](http://oid-info.com) - This OID repository gathers information about Object Identifiers (OIDs), and provides tools to display, update and search for this information.
 *   [michaelfmcnamara.com](https://blog.michaelfmcnamara.com/mibs/) - Hand-curated list of MIBs by Michael McNamara.
@@ -515,11 +499,11 @@
 
 ### Contents / Entertainment
 
-*   [Doddle- (become an artist in a minute) (⭐124)](https://github.com/NaserElziadna/doddle) - 💚Amazing magical doodle drawing app/game provide a creative doodle world for you 🖌💛🌸💚 [Naser Elziadna](https://github.com/NaserElziadna)
+*   [Doddle- (become an artist in a minute) (⭐157)](https://github.com/NaserElziadna/doddle) - 💚Amazing magical doodle drawing app/game provide a creative doodle world for you 🖌💛🌸💚 [Naser Elziadna](https://github.com/NaserElziadna)
 
 ### Contents / News and Magazine
 
-*   [Hacki (⭐876)](https://github.com/Livinglist/Hacki) - A Hacker News reader by [Jiaqi Feng](https://github.com/Livinglist).
+*   [Hacki (⭐983)](https://github.com/Livinglist/Hacki) - A Hacker News reader by [Jiaqi Feng](https://github.com/Livinglist).
 
 ## [42. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
 
@@ -555,7 +539,6 @@
 ### Issue Tracking and Project Management
 
 *   [Shake](https://www.shakebugs.com/) - In-app bug reporting and feedback tool for mobile apps. Free plan, ten bug reports per app/month.
-*   [SuperPM](https://superpm.app/) - Versatile project management platform. Free for up to 3 projects, unlimited users, 1 GB storage.
 
 ## [44. Awesome Agriculture](/content/brycejohnston/awesome-agriculture/week/README.md)
 
@@ -584,7 +567,7 @@
 
 ### Snippet / Diagnostics
 
-*   [ellisonleao/carbon-now.nvim (⭐166)](https://github.com/ellisonleao/carbon-now.nvim) - Create beautiful code snippets directly from Neovim.
+*   [ellisonleao/carbon-now.nvim (⭐182)](https://github.com/ellisonleao/carbon-now.nvim) - Create beautiful code snippets directly from Neovim.
 
 ## [48. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
@@ -627,32 +610,32 @@
 
 ### Cryptography
 
-*   [CryptoNet (⭐96)](https://github.com/maythamfahmi/CryptoNet) - .NET simple crypto library. Native c#.
+*   [CryptoNet (⭐103)](https://github.com/maythamfahmi/CryptoNet) - .NET simple crypto library. Native c#.
 
 ### Image Processing
 
-*   [PixelViewer (⭐245)](https://github.com/carina-studio/PixelViewer) - Cross-platform (Windows/macOS/Linux) image viewer which supports reading raw Luminance/YUV/RGB/ARGB/Bayer pixels data from file and rendering it. 10/16-bit YUV and viewing image frame sequence are also supported (v1.99+).
+*   [PixelViewer (⭐288)](https://github.com/carina-studio/PixelViewer) - Cross-platform (Windows/macOS/Linux) image viewer which supports reading raw Luminance/YUV/RGB/ARGB/Bayer pixels data from file and rendering it. 10/16-bit YUV and viewing image frame sequence are also supported (v1.99+).
 
 ## [53. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [pyenv (mattberther) (⭐44)](https://github.com/mattberther/zsh-pyenv) - Inspired by **zsh-rbenv**. Installs, updates or loads `pyenv`, and adds extra functionality.
-*   [pyenv (xlshiz) (⭐2)](https://github.com/xlshiz/pyenv-zsh-plugin) - Loads [pyenv (⭐38k)](https://github.com/pyenv/pyenv) into the current shell and provides prompt info via the `pyenv_prompt_info` function. Also loads [pyenv-virtualenv (⭐6.2k)](https://github.com/pyenv/pyenv-virtualenv) if available.
-*   [pyenv-lazy (⭐46)](https://github.com/davidparsson/zsh-pyenv-lazy) - Lazy load [pyenv (⭐38k)](https://github.com/pyenv/pyenv). The initial `eval "$(pyenv init -)"` is executed the first time `pyenv` is called.
+*   [pyenv (mattberther) (⭐46)](https://github.com/mattberther/zsh-pyenv) - Inspired by **zsh-rbenv**. Installs, updates or loads `pyenv`, and adds extra functionality.
+*   [pyenv (xlshiz) (⭐2)](https://github.com/xlshiz/pyenv-zsh-plugin) - Loads [pyenv (⭐40k)](https://github.com/pyenv/pyenv) into the current shell and provides prompt info via the `pyenv_prompt_info` function. Also loads [pyenv-virtualenv (⭐6.4k)](https://github.com/pyenv/pyenv-virtualenv) if available.
+*   [pyenv-lazy (⭐47)](https://github.com/davidparsson/zsh-pyenv-lazy) - Lazy load [pyenv (⭐40k)](https://github.com/pyenv/pyenv). The initial `eval "$(pyenv init -)"` is executed the first time `pyenv` is called.
 *   [pyvenv-fast (⭐2)](https://github.com/ACmyles/pyvenv-fast) - Launch a Python `venv` with one command. Designed for use with [dotpyvenv (⭐6)](https://github.com/jeanpantoja/dotpyvenv).
-*   [shift-select (⭐102)](https://github.com/jirutka/zsh-shift-select) - Emacs shift-select mode for ZSH - select text in the command line using Shift, as in many text editors, browsers and other GUI programs.
+*   [shift-select (⭐126)](https://github.com/jirutka/zsh-shift-select) - Emacs shift-select mode for ZSH - select text in the command line using Shift, as in many text editors, browsers and other GUI programs.
 *   [unwrap (⭐7)](https://github.com/foxleigh81/unwrap-zsh-plugin) - Allows you to remove a directory without removing the contents - it puts them in the directory's parent directory.
 *   [zservice-py3http (⭐4)](https://github.com/z-shell/zservice-py3http) - Serve a given directory with Python 3's http server from the standard library.
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [gardenctl (⭐0)](https://github.com/holgerkoser/gardenctl) - Tab completions for the [Gardener (⭐24)](https://github.com/gardener/gardenctl-v2) command-line interface, as well as some aliases for common gardenctl commands
-*   [mac (⭐180)](https://github.com/scriptingosx/mac-zsh-completions) - Completions files for macOS specific commands and third party tools.
+*   [gardenctl (⭐0)](https://github.com/holgerkoser/gardenctl) - Tab completions for the [Gardener (⭐31)](https://github.com/gardener/gardenctl-v2) command-line interface, as well as some aliases for common gardenctl commands
+*   [mac (⭐187)](https://github.com/scriptingosx/mac-zsh-completions) - Completions files for macOS specific commands and third party tools.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [bernkastel (⭐1)](https://github.com/JamesLaverack/bernkastel) - Based on [ys (⭐172k)](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/ys.zsh-theme). Includes decorations for kubernetes context, current directory, last command exit status and `git` status.
+*   [bernkastel (⭐1)](https://github.com/JamesLaverack/bernkastel) - Based on [ys (⭐175k)](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/ys.zsh-theme). Includes decorations for kubernetes context, current directory, last command exit status and `git` status.
 *   [boxy (⭐0)](https://github.com/evil-tim/boxy-zsh-theme) - Works well with solarized terminal colors. Includes decorators for `username@hostname`, current directory, `git` status, return code for last command, and time last command was run.
 *   [devj121 (⭐0)](https://github.com/cjeonguk/devj121-zsh-theme) - Includes `git` decorations with branch glyphs.
 
@@ -660,7 +643,7 @@
 
 ### JSON
 
-*   [Sextant (⭐46)](https://github.com/KittyMac/Sextant) :penguin: - High performance JSONPath queries
+*   [Sextant (⭐50)](https://github.com/KittyMac/Sextant) :penguin: - High performance JSONPath queries
 
 ## [55. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
@@ -689,28 +672,28 @@
 
 ### Native / FPS
 
-*   [Darkest Hour (⭐64)](https://github.com/DarklightGames/DarkestHour) - World War 2 online multiplayer tactical shooter based on Red Orchestra: Ostfront.
-*   [Urban Terror (⭐76)](https://github.com/FrozenSand/UrbanTerror4) - Free multiplayer first person shooter that will run on any Quake III Arena compatible engine.
+*   [Darkest Hour (⭐70)](https://github.com/DarklightGames/DarkestHour) - World War 2 online multiplayer tactical shooter based on Red Orchestra: Ostfront.
+*   [Urban Terror (⭐77)](https://github.com/FrozenSand/UrbanTerror4) - Free multiplayer first person shooter that will run on any Quake III Arena compatible engine.
 
 ## [57. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Forms
 
-*   [httpin (⭐297)](https://github.com/ggicci/httpin) - Decode an HTTP request into a custom struct, including querystring, forms, HTTP headers, etc.
+*   [httpin (⭐331)](https://github.com/ggicci/httpin) - Decode an HTTP request into a custom struct, including querystring, forms, HTTP headers, etc.
 
 ### HTTP Clients
 
-*   [go-cleanhttp (⭐365)](https://github.com/hashicorp/go-cleanhttp) - Get easily stdlib HTTP client, which does not share any state with other clients.
+*   [go-cleanhttp (⭐379)](https://github.com/hashicorp/go-cleanhttp) - Get easily stdlib HTTP client, which does not share any state with other clients.
 
 ### Server Applications
 
-*   [Wish (⭐3.4k)](https://github.com/charmbracelet/wish) - Make SSH apps, just like that!
+*   [Wish (⭐3.8k)](https://github.com/charmbracelet/wish) - Make SSH apps, just like that!
 
 ## [58. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Get Started
 
-*   [create-vitawind (⭐155)](https://github.com/huibizhang/vitawind/tree/package/create-vitawind) - Scaffolding for TailwindCSS project.
+*   [create-vitawind (⭐160)](https://github.com/huibizhang/vitawind/tree/package/create-vitawind) - Scaffolding for TailwindCSS project.
 
 ### Templates / Vue 3
 
@@ -718,31 +701,31 @@
 
 ### Templates / Vue 2
 
-*   [vite-vue2-ts-starter (⭐34)](https://github.com/logue/vite-vue2-ts-starter) - Vue2 TypeScript starter template using vue-property-decorator, vue-router, Vuex.
+*   [vite-vue2-ts-starter (⭐36)](https://github.com/logue/vite-vue2-ts-starter) - Vue2 TypeScript starter template using vue-property-decorator, vue-router, Vuex.
 
 ### Templates / Svelte
 
-*   [SvelteKit (⭐18k)](https://github.com/sveltejs/kit) - The fastest way to build Svelte apps.
+*   [SvelteKit (⭐19k)](https://github.com/sveltejs/kit) - The fastest way to build Svelte apps.
 
-### Templates / Others
+### Tauri / Others
 
 *   [vit-singlefile-gzip](https://github.com/MillerRen/vite-singlefile-gzip.git) - Starter template for embedded.
 *   [11st-Starter-Kit](https://github.com/stefanfrede/11st-starter-kit) - 11ty, powered by Vite with Tailwind CSS and Alpine.js.
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [vite-plugin-chunk-split (⭐328)](https://github.com/sanyuan0704/vite-plugin-chunk-split) - Automatically code splitting, support unbundle in production.
-*   [vite-plugin-static-copy (⭐264)](https://github.com/sapphi-red/vite-plugin-static-copy) - Copy files and folders.
+*   [vite-plugin-chunk-split (⭐359)](https://github.com/sanyuan0704/vite-plugin-chunk-split) - Automatically code splitting, support unbundle in production.
+*   [vite-plugin-static-copy (⭐307)](https://github.com/sapphi-red/vite-plugin-static-copy) - Copy files and folders.
 
 ### WordPress / Community
 
-*   [wordpress-vite-assets (⭐128)](https://github.com/idleberg/php-wordpress-vite-assets) - Integration for WordPress themes.
+*   [wordpress-vite-assets (⭐136)](https://github.com/idleberg/php-wordpress-vite-assets) - Integration for WordPress themes.
 
 ## [59. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### System 1 & System 2 / Neural-Symbolic AI
 
-*   [Grounded Language Learning Fast and Slow](https://arxiv.org/pdf/2009.01719.pdf) - ***ICLR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=17735027444431750346\&hl=en\&as_sdt=0,5)]. \[[Project (⭐53)](https://github.com/deepmind/dm_fast_mapping?s=05)].
+*   [Grounded Language Learning Fast and Slow](https://arxiv.org/pdf/2009.01719.pdf) - ***ICLR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=17735027444431750346\&hl=en\&as_sdt=0,5)]. \[[Project (⭐54)](https://github.com/deepmind/dm_fast_mapping?s=05)].
 
 ### Causality / AI Assisted Research
 

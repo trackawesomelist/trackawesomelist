@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 04, 2021
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -39,13 +39,7 @@
     *   [geojson2osm-es6 (⭐1)](https://github.com/DenisCarriere/geojson2osm-es6/): convert GeoJSON to OSM XML
     *   [query-overpass (⭐156)](https://github.com/perliedman/query-overpass) CLI to make Overpass query and transform result to GeoJSON. Based on [osmtogeojson (⭐676)](https://github.com/tyrasd/osmtogeojson)
 
-## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / Utilities
-
-*   [vue-storage-watcher (⭐60)](https://github.com/dreambo8563/vue-storage-watcher) / [Vue 3 version (⭐5)](https://github.com/dreambo8563/next-vue-storage-watcher) - A reactive localStorage/sessionStorage plugin for Vue.js with strong typed for Vue 2 / Vue 3.
-
-## [5. Awesome Programming for Kids](/content/HollyAdele/awesome-programming-for-kids/README.md)
+## [4. Awesome Programming for Kids](/content/HollyAdele/awesome-programming-for-kids/README.md)
 
 ### Pre-Literate
 
@@ -55,33 +49,33 @@
 
 *   [Sphereo](https://sphero.com/products/mini-at-home-learning-kit) - A spherical robot that can be programmed with a block-programming language in a companion app.
 
-## [6. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
+## [5. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
 ### FreshRSS / Outline Processor Markup Language
 
 *   <https://rss.rssforever.com/> by [思有云 - IOIOX](https://www.ioiox.com/) ![Website](https://img.shields.io/website?down_message=down\&up_message=up\&url=https%3A%2F%2Frss.rssforever.com%2F)
 
-## [7. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [6. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [andersevenrud/nordic.nvim (⭐173)](https://github.com/andersevenrud/nordic.nvim) - A nord-esque colorscheme.
+*   [andersevenrud/nordic.nvim (⭐176)](https://github.com/andersevenrud/nordic.nvim) - A nord-esque colorscheme.
 
 ### Utility / Diagnostics
 
-*   [stevearc/dressing.nvim (⭐1.8k)](https://github.com/stevearc/dressing.nvim) - Improve the built-in `vim.ui` interfaces with telescope, fzf, etc.
+*   [stevearc/dressing.nvim (⭐2k)](https://github.com/stevearc/dressing.nvim) - Improve the built-in `vim.ui` interfaces with telescope, fzf, etc.
 
-## [8. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [7. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Application Frameworks
 
-*   [Signals (⭐53)](https://github.com/EmitKnowledge/Signals) - Signals is a .NET5 based framework which focuses on increasing the quality and productivity within development teams by providing them with tools, aspects and processes.
+*   [Signals (⭐61)](https://github.com/EmitKnowledge/Signals) - Signals is a .NET5 based framework which focuses on increasing the quality and productivity within development teams by providing them with tools, aspects and processes.
 
 ### Serialization
 
-*   [FlatSharp (⭐494)](https://github.com/jamescourtney/FlatSharp) - Fast, idiomatic FlatBuffers implementation. Use .fbs files or attributes.
+*   [FlatSharp (⭐519)](https://github.com/jamescourtney/FlatSharp) - Fast, idiomatic FlatBuffers implementation. Use .fbs files or attributes.
 
-## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Security and PKI
 
@@ -91,7 +85,7 @@
 
 *   [imgen](https://www.jitbit.com/imgen/) - Free unlimited social cover image generation API, no watermark
 
-## [10. Public Apis](/content/public-apis/public-apis/README.md)
+## [9. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Science & Math
 

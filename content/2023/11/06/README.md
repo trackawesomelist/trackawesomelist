@@ -10,13 +10,13 @@
 
 ### Concepts / AI Concept Representation
 
-*   [Connecting Touch and Vision via Cross-Modal Prediction](https://ieeexplore.ieee.org/document/8953737) - ***CVPR'19***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=17326564895972374001\&hl=en\&as_sdt=0,5)]. \[[Project (⭐67)](https://github.com/YunzhuLi/VisGel)].
+*   [Connecting Touch and Vision via Cross-Modal Prediction](https://ieeexplore.ieee.org/document/8953737) - ***CVPR'19***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=17326564895972374001\&hl=en\&as_sdt=0,5)]. \[[Project (⭐72)](https://github.com/YunzhuLi/VisGel)].
 
 ## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Networking
 
-*   [nghttp3 (⭐844)](https://github.com/ngtcp2/nghttp3) - HTTP/3 library written in C. \[MIT] [website](https://nghttp2.org/nghttp3/)
+*   [nghttp3 (⭐889)](https://github.com/ngtcp2/nghttp3) - HTTP/3 library written in C. \[MIT] [website](https://nghttp2.org/nghttp3/)
 
 ## [3. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/README.md)
 
@@ -32,26 +32,19 @@
 *   [neo4cl](https://codeberg.org/Equill/neo4cl) - a library for interacting with Neo4J. Sends Cypher queries to a Neo4J server, and decodes the responses into something useful for processing in CL. [Apache2](https://directory.fsf.org/wiki/License:Apache2.0).
     *   and maybe: [cl-neo4j (⭐26)](https://github.com/kraison/cl-neo4j) - a thin neo4j RESTFUL client interface.
 
-### Iteration
-
-*   [cl-transducers](https://git.sr.ht/~fosskers/cl-transducers) - Ergonomic, efficient data processing. [LGPL3](https://www.gnu.org/licenses/lgpl-3.0.en.html).
-    *   "Transducers are an ergonomic and extremely memory-efficient way to process a data source. Here “data source” means simple collections like Lists or Vectors, but also potentially large files or generators of infinite data."
-    *   "It is, in general, the most complete implementation of the Transducer pattern."
-    *   a "modern" API with `map`, `filter`, `take`, `repeat`, `cycle`, `fold`…
-
 ## [5. Awesome Npm](/content/sindresorhus/awesome-npm/README.md)
 
 ### Other
 
-*   [package-up (⭐148)](https://github.com/sindresorhus/package-up) - Find the closest package.json file.
-*   [read-package-up (⭐250)](https://github.com/sindresorhus/read-package-up) - Read the closest package.json file.
-*   [package-config (⭐113)](https://github.com/sindresorhus/package-config) - Get namespaced config from the closest package.json.
+*   [package-up (⭐159)](https://github.com/sindresorhus/package-up) - Find the closest package.json file.
+*   [read-package-up (⭐258)](https://github.com/sindresorhus/read-package-up) - Read the closest package.json file.
+*   [package-config (⭐120)](https://github.com/sindresorhus/package-config) - Get namespaced config from the closest package.json.
 
 ## [6. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [SuperJSON (⭐3.9k)](https://github.com/blitz-js/superjson) - Safely serialize JavaScript expressions to a superset of JSON, which includes Dates, BigInts, and more
+*   :octocat: [SuperJSON (⭐4.3k)](https://github.com/blitz-js/superjson) - Safely serialize JavaScript expressions to a superset of JSON, which includes Dates, BigInts, and more
 
 ## [7. Web Development Resources](/content/markodenic/web-development-resources/README.md)
 
@@ -79,7 +72,7 @@
 
 ### Tools / Community providers
 
-*   [tfprovidercheck (⭐70)](https://github.com/suzuki-shunsuke/tfprovidercheck) - CLI to prevent malicious Terraform Providers from being executed
+*   [tfprovidercheck (⭐77)](https://github.com/suzuki-shunsuke/tfprovidercheck) - CLI to prevent malicious Terraform Providers from being executed
 
 ---
 

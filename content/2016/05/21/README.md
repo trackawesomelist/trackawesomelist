@@ -94,7 +94,7 @@
 ### Libraries / Computation
 
 *   [BLAS](https://en.wikipedia.org/wiki/Basic_Linear_Algebra_Subprograms) \[[blas](https://crates.io/keywords/blas)]
-    *   [mikkyang/rust-blas (⭐83)](https://github.com/mikkyang/rust-blas) - BLAS bindings
+    *   [mikkyang/rust-blas (⭐84)](https://github.com/mikkyang/rust-blas) - BLAS bindings
 
 ---
 

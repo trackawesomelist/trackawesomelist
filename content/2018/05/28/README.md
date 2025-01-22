@@ -41,7 +41,7 @@
 
 ### CLI
 
-*   [pgcenter (⭐1.5k)](https://github.com/lesovsky/pgcenter) - Top-like admin tool for PostgreSQL.
+*   [pgcenter (⭐1.6k)](https://github.com/lesovsky/pgcenter) - Top-like admin tool for PostgreSQL.
 
 ## [7. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 

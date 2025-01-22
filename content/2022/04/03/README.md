@@ -16,21 +16,21 @@
 
 ### Schema / Changes
 
-*   [Atlas (⭐5.3k)](https://github.com/ariga/atlas) - Inspect and Apply changes to your database schema.
+*   [Atlas (⭐6.3k)](https://github.com/ariga/atlas) - Inspect and Apply changes to your database schema.
 *   [Reshape (⭐1.7k)](https://github.com/fabianlindfors/reshape) - An easy-to-use, zero-downtime schema migration tool for Postgres.
-*   [sqldef (⭐1.9k)](https://github.com/k0kubun/sqldef) - Idempotent schema management for MySQL, PostgreSQL, and more.
+*   [sqldef (⭐2k)](https://github.com/k0kubun/sqldef) - Idempotent schema management for MySQL, PostgreSQL, and more.
 
 ### Schema / Diagrams
 
-*   [ERAlchemy (⭐1.1k)](https://github.com/Alexis-benoist/eralchemy) - Entity Relation Diagrams generation tool.
+*   [ERAlchemy (⭐1.2k)](https://github.com/Alexis-benoist/eralchemy) - Entity Relation Diagrams generation tool.
 
 ### Schema / Documentations
 
 *   [dbdocs](https://dbdocs.io/) - Create web-based database documentation using DSL code.
-*   [DBML (⭐2.5k)](https://github.com/holistics/dbml) - Database Markup Language, designed to define and document database structures.
+*   [DBML (⭐3k)](https://github.com/holistics/dbml) - Database Markup Language, designed to define and document database structures.
 *   [SchemaCrawler (⭐1.6k)](https://github.com/schemacrawler/SchemaCrawler) - A free database schema discovery and comprehension tool.
-*   [Schema Spy (⭐3.1k)](https://github.com/schemaspy/schemaspy) - Generating your database to HTML documentation, including Entity Relationship diagrams.
-*   [tbls (⭐3.2k)](https://github.com/k1LoW/tbls) - CI-Friendly tool for document a database, written in Go.
+*   [Schema Spy (⭐3.3k)](https://github.com/schemaspy/schemaspy) - Generating your database to HTML documentation, including Entity Relationship diagrams.
+*   [tbls (⭐3.6k)](https://github.com/k1LoW/tbls) - CI-Friendly tool for document a database, written in Go.
 
 ### Schema / Design
 
@@ -38,11 +38,11 @@
 *   [ERBuilder Data Modeler](https://soft-builder.com/erbuilder-data-modeler) - Easy-to-use database modeling software for high-quality data models. It's a complete data modeling solution for data modelers and data architects.
 *   [Navicat Data Modeler](https://www.navicat.com/en/products/navicat-data-modeler) - A powerful and cost-effective database design tool which helps you build high-quality conceptual, logical and physical data models.
 *   [Oracle SQL Developer Data Modeler](http://www.oracle.com/technetwork/developer-tools/datamodeler/overview/index.html) - Oracle SQL Developer Data Modeler is a free graphical tool that enhances productivity and simplifies data modeling tasks.
-*   [pgmodeler (⭐3k)](https://github.com/pgmodeler/pgmodeler) - Data modeling tool designed for PostgreSQL.
+*   [pgmodeler (⭐3.2k)](https://github.com/pgmodeler/pgmodeler) - Data modeling tool designed for PostgreSQL.
 
 ### Schema / Samples
 
-*   [Oracle Database Sample Schemas (⭐696)](https://github.com/oracle/db-sample-schemas) - Oracle Database Sample Schemas.
+*   [Oracle Database Sample Schemas (⭐769)](https://github.com/oracle/db-sample-schemas) - Oracle Database Sample Schemas.
 
 ### Monitoring/Statistics/Perfomance / Samples
 
@@ -51,27 +51,27 @@
 
 ### Testing / Zabbix
 
-*   [SQLancer (⭐1.4k)](https://github.com/sqlancer/sqlancer) - Automatically test DBMS in order to find logic bugs in their implementation.
+*   [SQLancer (⭐1.5k)](https://github.com/sqlancer/sqlancer) - Automatically test DBMS in order to find logic bugs in their implementation.
 
 ### HA/Failover/Sharding / Zabbix
 
-*   [pgslice (⭐1k)](https://github.com/ankane/pgslice) - Postgres partitioning as easy as pie.
+*   [pgslice (⭐1.1k)](https://github.com/ankane/pgslice) - Postgres partitioning as easy as pie.
 
 ### Data / Generation/Masking/Subsetting
 
-*   [Benerator (⭐130)](https://github.com/rapiddweller/rapiddweller-benerator-ce) - Generate, obfuscate (anonymize / pseudonymize) and migrate data for development, testing and training purposes.
+*   [Benerator (⭐146)](https://github.com/rapiddweller/rapiddweller-benerator-ce) - Generate, obfuscate (anonymize / pseudonymize) and migrate data for development, testing and training purposes.
 *   [dbForge Data Generator for MySQL](https://www.devart.com/dbforge/mysql/data-generator) - Powerful GUI tool for creating massive volumes of realistic test data.
 *   [dbForge Data Generator for Oracle](https://www.devart.com/dbforge/oracle/data-generator) - Small but mighty GUI tool for populating Oracle schemas with tons of realistic test data.
 *   [dbForge Data Generator for SQL Server](https://www.devart.com/dbforge/sql/data-generator) - Powerful GUI tool for a fast generation of meaningful test data for databases.
-*   [Faker (⭐12k)](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and Node.js.
-*   [Noisia (⭐689)](https://github.com/lesovsky/noisia) - Harmful workload generator for PostgreSQL.
+*   [Faker (⭐13k)](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and Node.js.
+*   [Noisia (⭐692)](https://github.com/lesovsky/noisia) - Harmful workload generator for PostgreSQL.
 *   [SB Data Generator](https://soft-builder.com/sb-data-generator) - Simple and powerful tool to generate and populate selected tables or entire databases with realistic test data for your applications. Generate test data for: Oracle, MS SQL Server, MySQL, PostgreSQL, Firebird, SQLite, Azure SQL Database, Amazon Redshift and Amazon RDS.
 
 ## [3. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / Entertainment
 
-*   [Tachidesk-Sorayomi (⭐624)](https://github.com/Suwayomi/Tachidesk-Sorayomi) - Frontend for [Tachidesk-server](https://github.com/tortuvshin/open-source-flutter-apps/blob/master/README.md/github.com/Suwayomi/Tachidesk-server/), based on Tachiyomi to read manga in desktop by [DattatreyaReddy](https://github.com/DattatreyaReddy).
+*   [Tachidesk-Sorayomi (⭐816)](https://github.com/Suwayomi/Tachidesk-Sorayomi) - Frontend for [Tachidesk-server](https://github.com/tortuvshin/open-source-flutter-apps/blob/master/README.md/github.com/Suwayomi/Tachidesk-server/), based on Tachiyomi to read manga in desktop by [DattatreyaReddy](https://github.com/DattatreyaReddy).
 
 ### Contents / Media
 
@@ -133,7 +133,7 @@
 
 ### Python / Time Series
 
-*   [gluon-ts (⭐4.5k)](https://github.com/awslabs/gluon-ts) - vProbabilistic time series modeling in Python.
+*   [gluon-ts (⭐4.7k)](https://github.com/awslabs/gluon-ts) - vProbabilistic time series modeling in Python.
 
 ## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

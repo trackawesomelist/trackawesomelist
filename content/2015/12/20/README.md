@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 20, 2015
 
-6 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -71,13 +71,7 @@
 
 *   Amazon Web Services in Action [Manning](https://www.manning.com/books/amazon-web-services-in-action) or [Amazon.com](http://amzn.com/1617292885)
 
-## [5. Awesome Php](/content/ziadoz/awesome-php/README.md)
-
-### Table of Contents / Static Site Generators
-
-*   [Spress](http://spress.yosymfony.com) - An extensible tool that converts Markdown and Twig into HTML.
-
-## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### XML
 

@@ -25,8 +25,8 @@
 ### Development tools / Profiling
 
 *   FlameGraphs
-    *   [llogiq/flame (⭐690)](https://github.com/llogiq/flame) - An intrusive flamegraph profiling tool for rust
-    *   [mrhooray/torch (⭐131)](https://github.com/mrhooray/torch) - generates FlameGraphs based on DWARF Debug Info
+    *   [llogiq/flame (⭐709)](https://github.com/llogiq/flame) - An intrusive flamegraph profiling tool for rust
+    *   [mrhooray/torch (⭐132)](https://github.com/mrhooray/torch) - generates FlameGraphs based on DWARF Debug Info
 
 ## [3. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 

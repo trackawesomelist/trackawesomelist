@@ -20,10 +20,10 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
 
 ### Validation / Playground
 
-*   [zod (⭐32k)](https://github.com/vriad/zod) - TypeScript-first schema validation with static type inference
+*   [zod (⭐35k)](https://github.com/vriad/zod) - TypeScript-first schema validation with static type inference
 *   [runtypes (⭐2.6k)](https://github.com/pelotom/runtypes) - Runtime validation for static types
 *   [ow (⭐3.8k)](https://github.com/sindresorhus/ow) - Function argument validation for humans
-*   [superstruct (⭐6.9k)](https://github.com/ianstormtaylor/superstruct) - A simple and composable way to validate data
+*   [superstruct (⭐7.1k)](https://github.com/ianstormtaylor/superstruct) - A simple and composable way to validate data
 
 ## [3. Awesome Web Monetization](/content/thomasbnt/awesome-web-monetization/README.md)
 
@@ -68,7 +68,7 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
 
 ### Back-End Development
 
-*   [FastAPI (⭐8.1k)](https://github.com/mjhea0/awesome-fastapi#readme) - Python web app framework.
+*   [FastAPI (⭐8.8k)](https://github.com/mjhea0/awesome-fastapi#readme) - Python web app framework.
 
 ### Security
 
@@ -78,19 +78,19 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
 
 ### UI
 
-*   [Flutter Neumorphic (⭐2k)](https://github.com/Idean/Flutter-Neumorphic) <!--stargazers:Idean/Flutter-Neumorphic--> - Ready to use Neumorphic kit for Flutter with 🕶️ dark mode.
+*   [Flutter Neumorphic (⭐2.1k)](https://github.com/Idean/Flutter-Neumorphic) <!--stargazers:Idean/Flutter-Neumorphic--> - Ready to use Neumorphic kit for Flutter with 🕶️ dark mode.
 
 ## [6. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 
 ### Libraries
 
-*   [rocket-pipes (⭐23)](https://github.com/darky/rocket-pipes) - Powerful pipes, that chain Promise and ADT like Maybe or Either from popular FP libraries. +TS
+*   [rocket-pipes (⭐25)](https://github.com/darky/rocket-pipes) - Powerful pipes, that chain Promise and ADT like Maybe or Either from popular FP libraries. +TS
 
 ## [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Personal Dashboards
 
-*   [Hiccup](https://designedbyashw.in/test/hiccup/) - A beautiful static homepage to get to your links and services quickly. It has built-in search, editing, PWA support and localstorage caching to easily organize your start page. ([Source Code (⭐145)](https://github.com/ashwin-pc/hiccup)) `MIT` `Javascript/Docker`
+*   [Hiccup](https://designedbyashw.in/test/hiccup/) - A beautiful static homepage to get to your links and services quickly. It has built-in search, editing, PWA support and localstorage caching to easily organize your start page. ([Source Code (⭐158)](https://github.com/ashwin-pc/hiccup)) `MIT` `Javascript/Docker`
 
 ## [8. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
@@ -106,24 +106,20 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
 
 ### 2D/3D Rendering engines / API
 
-*   [Head Element Helper (⭐158)](https://github.com/jsakamoto/Toolbelt.Blazor.HeadElement) - ![stars](https://img.shields.io/github/stars/jsakamoto/Toolbelt.Blazor.HeadElement?style=flat-square\&cacheSeconds=604800\&logo=microsoft) ![last commit](https://img.shields.io/github/last-commit/jsakamoto/Toolbelt.Blazor.HeadElement?style=flat-square\&cacheSeconds=86400) `<Title>` and `<Meta>` components for changing the document titile and meta elements, with server-side prerendering support for SEO/OGP. ([Demo](https://demo-blazor-headelement.azurewebsites.net/)).
+*   [Head Element Helper (⭐160)](https://github.com/jsakamoto/Toolbelt.Blazor.HeadElement) - ![stars](https://img.shields.io/github/stars/jsakamoto/Toolbelt.Blazor.HeadElement?style=flat-square\&cacheSeconds=604800\&logo=microsoft) ![last commit](https://img.shields.io/github/last-commit/jsakamoto/Toolbelt.Blazor.HeadElement?style=flat-square\&cacheSeconds=86400) `<Title>` and `<Meta>` components for changing the document titile and meta elements, with server-side prerendering support for SEO/OGP. ([Demo](https://demo-blazor-headelement.azurewebsites.net/)).
 
 ### Tools & Utilities / Others
 
-*   [Blazor.SpeechSynthesis (⭐89)](https://github.com/jsakamoto/Toolbelt.Blazor.SpeechSynthesis) - ![last commit](https://img.shields.io/github/last-commit/jsakamoto/Toolbelt.Blazor.SpeechSynthesis?style=flat-square\&cacheSeconds=86400) A library to provide Speech Synthesis API access for Blazor.
+*   [Blazor.SpeechSynthesis (⭐91)](https://github.com/jsakamoto/Toolbelt.Blazor.SpeechSynthesis) - ![last commit](https://img.shields.io/github/last-commit/jsakamoto/Toolbelt.Blazor.SpeechSynthesis?style=flat-square\&cacheSeconds=86400) A library to provide Speech Synthesis API access for Blazor.
 *   [BlazorState.Redux (⭐29)](https://github.com/BerserkerDotNet/BlazorState.Redux) - ![last commit](https://img.shields.io/github/last-commit/BerserkerDotNet/BlazorState.Redux?style=flat-square\&cacheSeconds=86400) Develop Blazor apps with Redux.
 *   [Howler.Blazor (⭐31)](https://github.com/StefH/Howler.Blazor) - ![last commit](https://img.shields.io/github/last-commit/StefH/Howler.Blazor?style=flat-square\&cacheSeconds=86400) A Blazor JSInterop wrapper for Howler.js, an audio library.
-*   [jsMind.Blazor (⭐20)](https://github.com/StefH/jsMind.Blazor) - ![last commit](https://img.shields.io/github/last-commit/StefH/jsMind.Blazor?style=flat-square\&cacheSeconds=86400) A Blazor JSInterop wrapper for jsMind, a MindMapping tool.
+*   [jsMind.Blazor (⭐19)](https://github.com/StefH/jsMind.Blazor) - ![last commit](https://img.shields.io/github/last-commit/StefH/jsMind.Blazor?style=flat-square\&cacheSeconds=86400) A Blazor JSInterop wrapper for jsMind, a MindMapping tool.
 
 ## [10. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
-### Components & Libraries / UI Components
-
-*   [vuerollr (⭐23)](https://github.com/japick/vuerollr) - Mouseover gallery plugin for Vue.js. Supports image and video.
-
 ### Components & Libraries / Utilities
 
-*   [vue-concurrency (⭐349)](https://github.com/MartinMalinda/vue-concurrency) - library for encapsulating asynchronous operations and managing concurrency for Vue and Composition API.
+*   [vue-concurrency (⭐353)](https://github.com/MartinMalinda/vue-concurrency) - library for encapsulating asynchronous operations and managing concurrency for Vue and Composition API.
 
 ## [11. Awesome Design Patterns](/content/DovAmir/awesome-design-patterns/README.md)
 
@@ -142,15 +138,15 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
 ### General
 
 *   [css.gg (⭐9.7k)](https://github.com/astrit/css.gg#readme) - Pure CSS, SVG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API. ([Website](https://css.gg))
-*   [Heroicons (⭐21k)](https://github.com/refactoringui/heroicons#readme) - A set of free high-quality SVG icons for you to use in your web projects. ([Website](https://heroicons.dev))
+*   [Heroicons (⭐22k)](https://github.com/refactoringui/heroicons#readme) - A set of free high-quality SVG icons for you to use in your web projects. ([Website](https://heroicons.dev))
 
 ## [14. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
 ### Apps / Outline Processor Markup Language
 
-*   [Livemarks (⭐224)](https://github.com/nt1m/livemarks/) <sup>[690](https://t.me/s/aboutrss/690)</sup> [![Firefox](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Mozilla.png)](https://addons.mozilla.org/firefox/addon/livemarks/)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/nt1m/livemarks/)
+*   [Livemarks (⭐233)](https://github.com/nt1m/livemarks/) <sup>[690](https://t.me/s/aboutrss/690)</sup> [![Firefox](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Mozilla.png)](https://addons.mozilla.org/firefox/addon/livemarks/)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/nt1m/livemarks/)
 *   [CubeRSS Reader](https://www.cube-soft.jp/cuberssreader/) <sup>[700](https://t.me/s/aboutrss/700)</sup> [![Windows](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-windows-10-16.png)](https://www.cube-soft.jp/cuberssreader/confirm.php)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/cube-soft/Cube.Net)
-*   [Drop Feeds (⭐19)](https://github.com/dauphine-dev/drop-feeds) <sup>[701](https://t.me/s/aboutrss/701)</sup> [![Firefox](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Mozilla.png)](https://addons.mozilla.org/en-US/firefox/addon/drop-feeds/)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/dauphine-dev/drop-feeds)
+*   [Drop Feeds (⭐20)](https://github.com/dauphine-dev/drop-feeds) <sup>[701](https://t.me/s/aboutrss/701)</sup> [![Firefox](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Mozilla.png)](https://addons.mozilla.org/en-US/firefox/addon/drop-feeds/)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/dauphine-dev/drop-feeds)
 
 ### specifically from (*a certain platform*) / Telegram
 
@@ -186,7 +182,7 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
 
 ### Players / MPEG
 
-*   [videolan/libvlcsharp (⭐1.4k)](https://github.com/videolan/LibVLCSharp)  - Cross-platform .NET/Mono bindings for LibVLC
+*   [videolan/libvlcsharp (⭐1.5k)](https://github.com/videolan/LibVLCSharp)  - Cross-platform .NET/Mono bindings for LibVLC
 
 ### Community / Dolby
 
@@ -196,7 +192,7 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
 
 ### Utilities / General Tools
 
-*   [Ultra TabSaver (⭐265)](https://github.com/Swift-open-source/UltraTabSaver) - The Open Source Tab Manager for Safari [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/Swift-open-source/UltraTabSaver)
+*   [Ultra TabSaver (⭐269)](https://github.com/Swift-open-source/UltraTabSaver) - The Open Source Tab Manager for Safari [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/Swift-open-source/UltraTabSaver)
 
 ---
 

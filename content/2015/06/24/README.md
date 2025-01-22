@@ -10,7 +10,7 @@
 
 ### Caching
 
-*   [crystal-memcached (⭐35)](https://github.com/comandeo/crystal-memcached) - Implementation of a memcached client
+*   [crystal-memcached (⭐36)](https://github.com/comandeo/crystal-memcached) - Implementation of a memcached client
 
 ### Database Drivers/Clients
 
@@ -18,7 +18,7 @@
 
 ### HTTP
 
-*   [crul (⭐113)](https://github.com/porras/crul) - Command line HTTP client
+*   [crul (⭐112)](https://github.com/porras/crul) - Command line HTTP client
 
 ### Testing
 
@@ -82,7 +82,7 @@
 
 ### Bundlers
 
-*   [webpack (⭐64k)](https://github.com/webpack/webpack) - Packs CommonJs/AMD modules for the browser.
+*   [webpack (⭐65k)](https://github.com/webpack/webpack) - Packs CommonJs/AMD modules for the browser.
 
 ### Testing Frameworks / Assertion
 
@@ -102,7 +102,7 @@
 ### Functional Programming / Runner
 
 *   [underscore (⭐27k)](https://github.com/jashkenas/underscore) - JavaScript's utility \_ belt.
-*   [lodash (⭐59k)](https://github.com/lodash/lodash) - A utility library delivering consistency, customization, performance, & extras.
+*   [lodash (⭐60k)](https://github.com/lodash/lodash) - A utility library delivering consistency, customization, performance, & extras.
 *   [lazy.js (⭐6k)](https://github.com/dtao/lazy.js) - Like Underscore, but lazier.
 
 ### Data Structure / Runner
@@ -133,7 +133,7 @@
 ### Color / Runner
 
 *   [randomColor (⭐6.1k)](https://github.com/davidmerfield/randomColor) - A color generator for JavaScript.
-*   [chroma.js (⭐9.9k)](https://github.com/gka/chroma.js) - JavaScript library for all kinds of color manipulations.
+*   [chroma.js (⭐10k)](https://github.com/gka/chroma.js) - JavaScript library for all kinds of color manipulations.
 *   [TinyColor (⭐5k)](https://github.com/bgrins/TinyColor) - Fast, small color manipulation and conversion for JavaScript.
 
 ### Control Flow / Runner
@@ -154,7 +154,7 @@
 
 *   [Spin.js (⭐9.3k)](https://github.com/fgnass/spin.js) - A spinning activity indicator.
 *   [pace (⭐16k)](https://github.com/HubSpot/pace) - Automatically add a progress bar to your site.
-*   [topbar (⭐428)](https://github.com/buunguyen/topbar) - Tiny & beautiful site-wide progress indicator.
+*   [topbar (⭐435)](https://github.com/buunguyen/topbar) - Tiny & beautiful site-wide progress indicator.
 *   [nanobar (⭐2.8k)](https://github.com/jacoborus/nanobar) - Very lightweight progress bars. No jQuery.
 
 ### Keyboard Wrappers / Runner

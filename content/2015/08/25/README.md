@@ -456,7 +456,7 @@ To the extent possible under law, [Steve Mao](https://github.com/stevemao) has w
 
 ### Templates / Misc
 
-*   [Campaign (⭐644)](https://github.com/bevacqua/campaign) - Compose responsive email templates easily, fill them with models, and send them out.
+*   [Campaign (⭐640)](https://github.com/bevacqua/campaign) - Compose responsive email templates easily, fill them with models, and send them out.
 
 ### Resources / Misc
 

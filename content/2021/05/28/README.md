@@ -1,6 +1,6 @@
 # Awesome List Updates on May 28, 2021
 
-14 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,10 +16,9 @@
 
 ### Tools & Software / Acquisition
 
-*   [ArchiveBox (⭐20k)](https://github.com/pirate/ArchiveBox) - A tool which maintains an additive archive from RSS feeds, bookmarks, and links using wget, Chrome headless, and other methods (formerly `Bookmark Archiver`). *(In Development)*
-*   [ArchiveWeb.Page](https://archiveweb.page) - A plugin for Chrome and other Chromium based browsers that lets you interactively archive web pages, replay them, and export them as WARC data. Also available as an Electron based desktop application.
-*   [Browsertrix Crawler (⭐539)](https://github.com/webrecorder/browsertrix-crawler) - A Chromium based high-fidelity crawling system, designed to run a complex, customizable browser-based crawl in a single Docker container. *(Stable)*
-*   [Brozzler (⭐629)](https://github.com/internetarchive/brozzler) - A distributed web crawler (爬虫) that uses a real browser (Chrome or Chromium) to fetch pages and embedded urls and to extract links. *(Stable)*
+*   [ArchiveBox (⭐23k)](https://github.com/pirate/ArchiveBox) - A tool which maintains an additive archive from RSS feeds, bookmarks, and links using wget, Chrome headless, and other methods (formerly `Bookmark Archiver`). *(In Development)*
+*   [Browsertrix Crawler (⭐690)](https://github.com/webrecorder/browsertrix-crawler) - A Chromium based high-fidelity crawling system, designed to run a complex, customizable browser-based crawl in a single Docker container. *(Stable)*
+*   [Brozzler (⭐683)](https://github.com/internetarchive/brozzler) - A distributed web crawler (爬虫) that uses a real browser (Chrome or Chromium) to fetch pages and embedded urls and to extract links. *(Stable)*
 
 ## [3. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md)
 
@@ -31,7 +30,7 @@
 ### Other libraries and tools / Mesh tools
 
 *   [shenfun](https://shenfun.readthedocs.io/en/latest/) - High-performance Python library for the spectral Galerkin method.
-    (Python, BSD-2, [GitHub (⭐177)](https://github.com/spectralDNS/shenfun))
+    (Python, BSD-2, [GitHub (⭐204)](https://github.com/spectralDNS/shenfun))
 
 ## [4. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
@@ -60,7 +59,7 @@
 
 ### Libraries/Frameworks / Testing
 
-*   [serpro69/kotlin-faker (⭐462)](https://github.com/serpro69/kotlin-faker) - Port of ruby faker gem written in kotlin
+*   [serpro69/kotlin-faker (⭐474)](https://github.com/serpro69/kotlin-faker) - Port of ruby faker gem written in kotlin
 
 ## [7. Awesome Mdbootstrap](/content/mdbootstrap/awesome-mdbootstrap/README.md)
 
@@ -108,25 +107,19 @@
 
 *   [Video Tutorials](https://www.youtube.com/channel/UC5CF7mLQZhvx8O5GODZAhdA)
 
-## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / UI Components
-
-*   [vue-easy-range-date-picker (⭐5)](https://github.com/HC200ok/vue-easy-range-date-picker) - A simple and easy VueJS (2.x) component for date range selection
-
-## [9. Awesome Translations](/content/mbiesiad/awesome-translations/README.md)
+## [8. Awesome Translations](/content/mbiesiad/awesome-translations/README.md)
 
 ### Platforms / Platform-specific tools
 
 *   [Respresso](https://respresso.io/) - Collaborative online resource manager for localizations, images, colors, etc. that generates platform-specific files and delivers them directly to your source code.
 
-## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### APIs, Data, and ML
 
 *   [WebScraping.AI](https://webscraping.ai) - Simple Web Scraping API with built-in parsing, Chrome rendering, and proxies. Two thousand free API calls per month.
 
-## [11. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
+## [10. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
 
 ### Secrets Management / Ansible
 
@@ -136,7 +129,7 @@
 
 *   [Preflight (⭐152)](https://github.com/spectralops/preflight) - *Spectral* - helps you verify scripts and executables to mitigate supply chain attacks in your CI and other systems, such as in the recent [Codecov hack](https://spectralops.io/blog/credentials-risk-supply-chain-lessons-from-the-codecov-breach/).
 
-## [12. Public Apis](/content/public-apis/public-apis/README.md)
+## [11. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Development
 
@@ -152,13 +145,13 @@
 
 
 
-## [13. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
+## [12. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / Social Network
 
-*   [Harpy (⭐2k)](https://github.com/robertodoering/harpy) - A Twitter app built with Flutter [Roberto Doering (⭐2k)](https://github.com/robertodoering/harpy)
+*   [Harpy (⭐2.1k)](https://github.com/robertodoering/harpy) - A Twitter app built with Flutter [Roberto Doering (⭐2.1k)](https://github.com/robertodoering/harpy)
 
-## [14. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
+## [13. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
 ### Display / LCD TFT
 
@@ -175,15 +168,15 @@
 
 ### IO / Rotary Encoder
 
-*   [encodermenu (⭐108)](https://github.com/sgall17a/encodermenu) - Simple GUI menu for MicroPython using a rotary encoder and basic display.
+*   [encodermenu (⭐112)](https://github.com/sgall17a/encodermenu) - Simple GUI menu for MicroPython using a rotary encoder and basic display.
 
 ### Motion / Servo
 
-*   [micropython-pca9685 (⭐2)](https://github.com/mcauser/deshipu-micropython-pca9685) - 16-channel 12-bit PWM/servo driver.
+*   [micropython-pca9685 (⭐3)](https://github.com/mcauser/deshipu-micropython-pca9685) - 16-channel 12-bit PWM/servo driver.
 
 ### Sensors / Distance IR
 
-*   [micropython-gp2y0e03 (⭐0)](https://github.com/mcauser/deshipu-micropython-gp2y0e03) - IR-LED distance measuring sensor using Sharp GP2Y0E03.
+*   [micropython-gp2y0e03 (⭐1)](https://github.com/mcauser/deshipu-micropython-gp2y0e03) - IR-LED distance measuring sensor using Sharp GP2Y0E03.
 *   [micropython-vl6180 (⭐0)](https://github.com/mcauser/deshipu-micropython-vl6180) - Time-of-Flight sensor, ambient light sensor & IR emitter.
 
 ### Sensors / Distance Laser

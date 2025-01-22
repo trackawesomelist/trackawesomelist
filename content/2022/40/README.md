@@ -25,11 +25,11 @@
 
 ### Software / Archiving and Digital Preservation (DP)
 
-*   [Wayback (⭐1.7k)](https://github.com/wabarc/wayback) - A self-hosted toolkit for archiving webpages to the Internet Archive, archive.today, IPFS, and local file systems. `GPL-3.0` `Go`
+*   [Wayback (⭐1.9k)](https://github.com/wabarc/wayback) - A self-hosted toolkit for archiving webpages to the Internet Archive, archive.today, IPFS, and local file systems. `GPL-3.0` `Go`
 
 ### Software / Media Streaming - Video Streaming
 
-*   [SRS](https://ossrs.io/) - A simple, high efficiency and real-time video server, supports RTMP, WebRTC, HLS, HTTP-FLV and SRT. ([Source Code (⭐25k)](https://github.com/ossrs/srs)) `MIT` `Docker/C++`
+*   [SRS](https://ossrs.io/) - A simple, high efficiency and real-time video server, supports RTMP, WebRTC, HLS, HTTP-FLV and SRT. ([Source Code (⭐26k)](https://github.com/ossrs/srs)) `MIT` `Docker/C++`
 
 ### Software / Software Development - Project Management
 
@@ -115,13 +115,13 @@
 
 ### Courses / Frameworks
 
-*   [full-stack-todo-rust-course (⭐234)](https://github.com/brooks-builds/full-stack-todo-rust-course) - Full stack rust course including course for Yew.
+*   [full-stack-todo-rust-course (⭐249)](https://github.com/brooks-builds/full-stack-todo-rust-course) - Full stack rust course including course for Yew.
 
 ## [7. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Reading and Writing Tools / Note-taking
 
-*   [Joplin](https://joplinapp.org/) - Cross platform open-source notepad with markdown support and todo list manager with synchronisation capabilities. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/laurent22/joplin) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Joplin](https://joplinapp.org/) - Cross-platform open-source notepad with markdown support and to-do list management. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/laurent22/joplin) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [8. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
 
@@ -169,11 +169,11 @@ Installs: 4000 | Stars: 961 | Last update: n/a
 
 ### Schema / Diagrams
 
-*   [Azimutt (⭐1.1k)](https://github.com/azimuttapp/azimutt) - An Entity Relationship diagram (ERD) visualization tool, with various filters and inputs to help understand your database schema.
+*   [Azimutt (⭐1.7k)](https://github.com/azimuttapp/azimutt) - An Entity Relationship diagram (ERD) visualization tool, with various filters and inputs to help understand your database schema.
 
 ### SQL / Analyzers
 
-*   [SQLLineage (⭐1.2k)](https://github.com/reata/sqllineage) - SQL Lineage Analysis Tool powered by Python.
+*   [SQLLineage (⭐1.4k)](https://github.com/reata/sqllineage) - SQL Lineage Analysis Tool powered by Python.
 
 ## [14. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
@@ -189,13 +189,13 @@ Installs: 4000 | Stars: 961 | Last update: n/a
 
 ### Components / Apache License
 
-*   [asap (⭐6)](https://github.com/annexi-strayline/ASAP) - A set of general libraries and thick bindings for use with the AURA package management/build tool. Includes TCP, TLS, HTTP, a high-performance JSON parser/generator, and a formally verified (SPARK) UTF-8 stream decoder.
+*   [asap (⭐7)](https://github.com/annexi-strayline/ASAP) - A set of general libraries and thick bindings for use with the AURA package management/build tool. Includes TCP, TLS, HTTP, a high-performance JSON parser/generator, and a formally verified (SPARK) UTF-8 stream decoder.
 
 ## [16. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Web Application Framework
 
-*   [userver (⭐2.4k)](https://github.com/userver-framework/userver) - Asynchronous C++17 framework with a rich set of abstractions and database drivers for fast and comfortable creation of efficient microservices, services and utilities. \[Apache-2.0] [website](https://userver.tech/)
+*   [userver (⭐2.5k)](https://github.com/userver-framework/userver) - Asynchronous C++17 framework with a rich set of abstractions and database drivers for fast and comfortable creation of efficient microservices, services and utilities. \[Apache-2.0] [website](https://userver.tech/)
 
 ## [17. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
 
@@ -209,31 +209,37 @@ Installs: 4000 | Stars: 961 | Last update: n/a
 
 *   [Hyperfy](https://hyperfy.io/) - A platform hosting up to 10,000 customizable, cross-platform, and immersive virtual worlds. Built on three.js, powered by Ethereum.
 
-## [19. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
+## [19. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+
+### Components & Libraries / Utilities
+
+*   [vue-ts-types (⭐10)](https://github.com/FloEdelmann/vue-ts-types) - Lightweight TypeScript-first Vue prop type definitions.
+
+## [20. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
 
 ### Others / Other Resource
 
 *   [Explore Finance Service Libraries & Projects](https://kandi.openweaver.com/explore/financial-services#Top-Authors) - Explore a curated list of Fintech popular & new libraries, top authors, trending project kits, discussions, tutorials & learning resources on kandi.
 
-## [20. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
+## [21. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
 
 ### Misc libraries
 
-*   [ryoppippi/zigcv (⭐92)](https://github.com/ryoppippi/zigcv) - Bindings for OpenCV4.
+*   [ryoppippi/zigcv (⭐106)](https://github.com/ryoppippi/zigcv) - Bindings for OpenCV4.
 
-## [21. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [22. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Tools / Playground
 
 *   [Zapatos](https://jawj.github.io/zapatos/) - Zero-Abstraction Postgres for TypeScript
 
-## [22. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [23. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Version Control
 
 *   [cli](https://gitlab.com/gitlab-org/cli) - An open-source GitLab command line tool bringing GitLab's cool features to your command line.
 
-## [23. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [24. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
@@ -241,7 +247,7 @@ Installs: 4000 | Stars: 961 | Last update: n/a
 
 ### Tools for Teams and Collaboration
 
-*   [Hackmd.io](https://hackmd.io/) - Real time collaboration & writing tool for markdown format docs/files. Like Google but for markdown files. Free unlimited number of "notes", but the number of collaborators (invitee) for private notes & template [will be limited](https://hackmd.io/pricing).
+*   [Hackmd.io](https://hackmd.io/) - Real time collaboration & writing tool for markdown format docs/files. Like Google Docs but for markdown files. Free unlimited number of "notes", but the number of collaborators (invitee) for private notes & template [will be limited](https://hackmd.io/pricing).
 
 ### Security and PKI
 
@@ -254,7 +260,6 @@ Installs: 4000 | Stars: 961 | Last update: n/a
 ### Email
 
 *   [Proton Mail](https://proton.me/mail) -  Free secure email account service provider with built-in end-to-end encryption. Free 1GB storage.
-*   [Tutanota](https://tutanota.com/) - Free secure email account service provider with built-in end-to-end encryption, no ads, no tracking. Free 1GB storage. Which is also partially [open source (⭐5.9k)](https://github.com/tutao/tutanota), so you can self-host.
 
 ### Storage and Media Processing
 
@@ -266,7 +271,7 @@ Installs: 4000 | Stars: 961 | Last update: n/a
 
 *   [Wdrfree SVG](https://wdrfree.com/free-svg) - Black and White Free SVG Cut files.
 
-## [24. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
+## [25. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 
 ### Courses / Algorithms
 
@@ -306,13 +311,13 @@ Installs: 4000 | Stars: 961 | Last update: n/a
 *   [Syllabus](https://andrewpbray.github.io/reg/syllabus.html)
 *   [Lecture Notes](https://andrewpbray.github.io/reg/index.html)
 
-## [25. Awesome Opensource Documents](/content/44bits/awesome-opensource-documents/week/README.md)
+## [26. Awesome Opensource Documents](/content/44bits/awesome-opensource-documents/week/README.md)
 
 ### Programming Languages / Assembly
 
 *   [Some Assembly Required (⭐2.2k)](https://github.com/hackclub/some-assembly-required/) (cc-sa) - An approachable introduction to Assembly
 
-## [26. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [27. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Image Synthesis / Multi-agents
 
@@ -322,13 +327,13 @@ Installs: 4000 | Stars: 961 | Last update: n/a
 
 *   [(5) Deforum notebook v0.5 for Stable Diffusion animations is out! Now with math automation, perspective flips, prompt weights, video masking and waifus! : StableDiffusion](https://www.reddit.com/r/StableDiffusion/comments/xuytx5/deforum_notebook_v05_for_stable_diffusion/)
 
-## [27. Awesome Amazon Seller](/content/ScaleLeap/awesome-amazon-seller/week/README.md)
+## [28. Awesome Amazon Seller](/content/ScaleLeap/awesome-amazon-seller/week/README.md)
 
 ### Software and Tools
 
 *   [Flapen](https://flapen.com) - Flapen is a free real-time dashboard to monitor Amazon category changes in 19 country and 215 categories
 
-## [28. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
+## [29. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
 
 ### Family
 
@@ -365,19 +370,19 @@ Installs: 4000 | Stars: 961 | Last update: n/a
 | ------: | -------: | -----: |
 |   2 - 6 |       10 | 20-40m |
 
-## [29. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
+## [30. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
 
 ### Projects / Libraries
 
-*   [LibHyps (⭐20)](https://github.com/Matafou/LibHyps) - Library of Ltac tactics to manage and manipulate hypotheses in proofs.
+*   [LibHyps (⭐21)](https://github.com/Matafou/LibHyps) - Library of Ltac tactics to manage and manipulate hypotheses in proofs.
 
-## [30. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [31. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Hardware
 
 *   [Raspberry Pi Pico](https://www.raspberrypi.com/products/raspberry-pi-pico/) - Raspberry Pi Pico is a small, fast and versatile board that is equipped with the RP2040 microcontroller chip developed by the Raspberry Pi Foundation. It also comes with a 2.4GHz 802.11n wireless LAN variant, which makes it great for IoT.
 
-## [31. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+## [32. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### Software / Editors
 
@@ -387,7 +392,7 @@ Installs: 4000 | Stars: 961 | Last update: n/a
 
 *   [aptly](https://www.aptly.info/) - Swiss army knife for Debian repository management. ([Source Code (⭐2.6k)](https://github.com/aptly-dev/aptly)) `MIT` `Go`
 
-## [32. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [33. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Mobile
 
@@ -395,7 +400,7 @@ Installs: 4000 | Stars: 961 | Last update: n/a
     *   compiles to bytecode, its default REPL is more user friendly than SBCL's (with symbol completion and readline integration).
     *   however, it is not actively developed, it doesn't comply entirely to the ANSI standard, it is less performant than SBCL and it is lacking compatibility features.
 
-## [33. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
+## [34. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
 
 ### Using WSL / CUDA Development on WSL
 
@@ -408,20 +413,6 @@ Installs: 4000 | Stars: 961 | Last update: n/a
 *   *   [Installing Software](https://help.ubuntu.com/community/InstallingSoftware) guide to using apt from Ubuntu.
 *   [Ubuntu Community Previews](https://ubuntu.com/blog/explore-whats-in-store-ubuntu-preview-on-wsl) More Information About the Ubuntu Community Previews
 *   *   [Issues and Feedback](https://discourse.ubuntu.com/c/wsl2/27?_ga=2.263253898.784609326.1665083044-1177481074.1653602430) Report Issues and Give Feedback on the Community Previews Here.
-
-## [34. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
-
-### Resources / Examples
-
-*   [Text Editor (⭐6)](https://github.com/devisasari/text-editor-vue-3) Text Editor made with Vue 3 Composition API, Bootstrap and Firebase by [İsa Sarı](https://github.com/devisasari)
-
-### Components & Libraries / UI Components
-
-*   [vue-spruce (⭐4)](https://github.com/crishellco/vue-spruce) - A collection of useful Vue 2 renderless components.
-
-### Components & Libraries / Utilities
-
-*   [vue-ts-types (⭐7)](https://github.com/FloEdelmann/vue-ts-types) - Lightweight TypeScript-first Vue prop type definitions.
 
 ## [35. Awesome Material](/content/sachin1092/awesome-material/week/README.md)
 
@@ -443,28 +434,28 @@ Installs: 4000 | Stars: 961 | Last update: n/a
 
 ### Templates / React
 
-*   [template-vite-react (⭐160)](https://github.com/lzm0x219/template-vite-react) - A minimal React Vite starter template.
+*   [template-vite-react (⭐171)](https://github.com/lzm0x219/template-vite-react) - A minimal React Vite starter template.
 
 ### Templates / Electron
 
-*   [electron-vue-template (⭐550)](https://github.com/Deluze/electron-vue-template) - Electron template with TypeScript, including Electron Builder.
+*   [electron-vue-template (⭐620)](https://github.com/Deluze/electron-vue-template) - Electron template with TypeScript, including Electron Builder.
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [@vituum/vite-plugin-handlebars (⭐5)](https://github.com/vituum/vite-plugin-handlebars) - Handlebars template engine support, transforms `.hbs` templates to `.html`.
-*   [@vituum/vite-plugin-pug (⭐5)](https://github.com/vituum/vite-plugin-pug) - Pug template engine support, transforms `.pug` templates to `.html`.
-*   [@vituum/vite-plugin-nunjucks (⭐10)](https://github.com/vituum/vite-plugin-nunjucks) - Nunjucks template engine support, transforms `.njk` templates to `.html`.
-*   [@vituum/vite-plugin-liquid (⭐10)](https://github.com/vituum/vite-plugin-liquid) - Liquid template engine support, transforms `.liquid` templates to `.html`.
-*   [@vituum/vite-plugin-twig (⭐16)](https://github.com/vituum/vite-plugin-twig) - Twig template engine support, transforms `.twig` templates to `.html`.
+*   [@vituum/vite-plugin-handlebars (⭐6)](https://github.com/vituum/vite-plugin-handlebars) - Handlebars template engine support, transforms `.hbs` templates to `.html`.
+*   [@vituum/vite-plugin-pug (⭐8)](https://github.com/vituum/vite-plugin-pug) - Pug template engine support, transforms `.pug` templates to `.html`.
+*   [@vituum/vite-plugin-nunjucks (⭐11)](https://github.com/vituum/vite-plugin-nunjucks) - Nunjucks template engine support, transforms `.njk` templates to `.html`.
+*   [@vituum/vite-plugin-liquid (⭐12)](https://github.com/vituum/vite-plugin-liquid) - Liquid template engine support, transforms `.liquid` templates to `.html`.
+*   [@vituum/vite-plugin-twig (⭐18)](https://github.com/vituum/vite-plugin-twig) - Twig template engine support, transforms `.twig` templates to `.html`.
 *   [@vituum/vite-plugin-latte (⭐1)](https://github.com/vituum/vite-plugin-latte) - Latte template engine support, transforms `.latte` templates to `.html`.
-*   [@vituum/vite-plugin-posthtml (⭐8)](https://github.com/vituum/vite-plugin-posthtml) - PostHTML support, transforms syntax to `.html`.
-*   [@vituum/vite-plugin-juice (⭐3)](https://github.com/vituum/vite-plugin-juice) - Juice support, transforms `.css` to inline styles in `.html`.
+*   [@vituum/vite-plugin-posthtml (⭐9)](https://github.com/vituum/vite-plugin-posthtml) - PostHTML support, transforms syntax to `.html`.
+*   [@vituum/vite-plugin-juice (⭐5)](https://github.com/vituum/vite-plugin-juice) - Juice support, transforms `.css` to inline styles in `.html`.
 
 ## [38. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
 
 ### Tools / Helper tools to add annotations to existing code
 
-*   [PyTypes (⭐10)](https://github.com/pvs-hd-tea/PyTypes) - Infer Types by Python Tracing.
+*   [PyTypes (⭐11)](https://github.com/pvs-hd-tea/PyTypes) - Infer Types by Python Tracing.
 
 ## [39. Awesome Vlc](/content/mfkl/awesome-vlc/week/README.md)
 
@@ -483,8 +474,7 @@ Installs: 4000 | Stars: 961 | Last update: n/a
 
 ### Other / [Other](#other-1)
 
-*   [htmlbeautifier (⭐328)](https://github.com/threedaymonk/htmlbeautifier) — A normaliser/beautifier for HTML that also understands embedded Ruby. Ideal for tidying up Rails templates.
-*   [LunaSec](https://www.lunasec.io) — Open Source AppSec platform that automatically notifies you the next time vulnerabilities like Log4Shell or node-ipc happen. Track your dependencies and builds in a centralized service.
+*   [htmlbeautifier (⭐340)](https://github.com/threedaymonk/htmlbeautifier) — A normaliser/beautifier for HTML that also understands embedded Ruby. Ideal for tidying up Rails templates.
 *   [Rezilion](https://www.rezilion.com/) :copyright: — Discovers vulnerabilities for all components in your environment, filters out 85% non-exploitable vulnerabilities and creates a  remediation plan and open tickets to upgrade components that violate your security policy and/or patch automatically in CI.
 
 ### Multiple languages / [Other](#other-1)
@@ -496,7 +486,7 @@ Installs: 4000 | Stars: 961 | Last update: n/a
 
 ### Tools
 
-*   [create-ipfs-app (⭐14)](https://github.com/alexbakers/create-ipfs-app) - Set up a decentralized web3 app by running one command.
+*   [create-ipfs-app (⭐17)](https://github.com/alexbakers/create-ipfs-app) - Set up a decentralized web3 app by running one command.
 
 ## [43. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
@@ -560,7 +550,7 @@ Installs: 4000 | Stars: 961 | Last update: n/a
 
 ### Open-source sites / Lists
 
-*   [Outreachy website (⭐241)](https://github.com/outreachy/website/) - Website for Outreachy, who provide internships in open source and open science.
+*   [Outreachy website (⭐246)](https://github.com/outreachy/website/) - Website for Outreachy, who provide internships in open source and open science.
 
 ## [44. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
 
@@ -572,22 +562,22 @@ Installs: 4000 | Stars: 961 | Last update: n/a
 
 ### Python / General-Purpose Machine Learning
 
-*   [einops (⭐8.2k)](https://github.com/arogozhnikov/einops) - Deep learning operations reinvented (for pytorch, tensorflow, jax and others).
+*   [einops (⭐8.6k)](https://github.com/arogozhnikov/einops) - Deep learning operations reinvented (for pytorch, tensorflow, jax and others).
 
 ## [46. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Command-line
 
 *   [HN-top (⭐22)](https://github.com/BafS/hn-top) - A simple command to list most recent news from hacker-news.
-*   [klonol (⭐19)](https://github.com/hungrybluedev/klonol) - CLI tool to help you "clone all" git repositories belonging to you. Works with GitHub and Gitea.
+*   [klonol (⭐20)](https://github.com/hungrybluedev/klonol) - CLI tool to help you "clone all" git repositories belonging to you. Works with GitHub and Gitea.
 *   [portctl (⭐9)](https://github.com/apoprotsky/portctl) - CLI tool to manage Docker Swarm resources using Portainer API.
-*   [runner (⭐24)](https://github.com/Naheel-Azawy/runner) - A tool that automates running/compiling code written in various programming languages.
+*   [runner (⭐26)](https://github.com/Naheel-Azawy/runner) - A tool that automates running/compiling code written in various programming languages.
 *   [symlinker (⭐8)](https://github.com/serkonda7/symlinker) - A small Linux tool to manage symlinks.
-*   [vast (⭐24)](https://github.com/lydiandy/vast) - A simple tool for vlang, generate v source file to AST json file.
-*   [verve (⭐5)](https://github.com/MohammadMD1383/verve) - Simple and fast static file server.
+*   [vast (⭐27)](https://github.com/lydiandy/vast) - A simple tool for vlang, generate v source file to AST json file.
+*   [verve (⭐7)](https://github.com/MohammadMD1383/verve) - Simple and fast static file server.
 *   [vinit (⭐16)](https://github.com/pranavbaburaj/vinit) - A tool to generate v projects.
-*   [vLogQL (⭐16)](https://github.com/lmangani/vLogQL) - A tiny command-line utility to query LogQL APIs.
-*   [vqrcode (⭐23)](https://github.com/carlosqsilva/vqrcode) - CLI for creating QR Codes.
+*   [vLogQL (⭐17)](https://github.com/lmangani/vLogQL) - A tiny command-line utility to query LogQL APIs.
+*   [vqrcode (⭐26)](https://github.com/carlosqsilva/vqrcode) - CLI for creating QR Codes.
 *   [vspect (⭐2)](https://github.com/zakuro9715/vspect) - A tool to inspect vlang source file. ( Archived )
 
 ### Editors
@@ -596,22 +586,22 @@ Installs: 4000 | Stars: 961 | Last update: n/a
 
 ### Games
 
-*   [Boundstone (⭐60)](https://github.com/organization/boundstone) - High Performance / Fast Compilation / Lightweight Minecraft: Bedrock Edition Server.
-*   [Kurarin (⭐54)](https://github.com/FireRedz/kurarin) - osu! beatmap visualizer made in V. [Example video](https://p153.p0.n0.cdn.getcloudapp.com/items/6quvQjb5/ce3ea737-eb29-4b8c-a5f3-65a804a2f56f.mp4).
+*   [Boundstone (⭐61)](https://github.com/organization/boundstone) - High Performance / Fast Compilation / Lightweight Minecraft: Bedrock Edition Server.
+*   [Kurarin (⭐52)](https://github.com/FireRedz/kurarin) - osu! beatmap visualizer made in V. [Example video](https://p153.p0.n0.cdn.getcloudapp.com/items/6quvQjb5/ce3ea737-eb29-4b8c-a5f3-65a804a2f56f.mp4).
 *   [minesweeper (⭐38)](https://github.com/ali-furkan/minesweeper-v) - A simple Minesweeper game written in vlang.
 *   [v-pong (⭐13)](https://github.com/thebigsmileXD/v-pong) - A classic paddle game brought back to life through the power of V.
 
 ### Interpreters/Compilers
 
-*   [monkey\_v (⭐38)](https://github.com/Delta456/monkey_v) - Implementation of [Thorsten Ball's Monkey Language](https://interpreterbook.com/) in V.
+*   [monkey\_v (⭐37)](https://github.com/Delta456/monkey_v) - Implementation of [Thorsten Ball's Monkey Language](https://interpreterbook.com/) in V.
 *   [v (⭐36k)](https://github.com/vlang/v) - V itself. Simple, fast, safe, compiled language for developing maintainable software.
 *   [vbf (⭐19)](https://github.com/vpervenditti/vbf) - A brainfuck interpreter/compiler.
-*   [vcc (⭐97)](https://github.com/lemoncmd/vcc) - A C compiler written in V.
-*   [Vork (⭐28)](https://github.com/Itay2805/Vork) - Alternative V compiler/interpreter written in Python.
+*   [vcc (⭐102)](https://github.com/lemoncmd/vcc) - A C compiler written in V.
+*   [Vork (⭐27)](https://github.com/Itay2805/Vork) - Alternative V compiler/interpreter written in Python.
 
 ### Operating systems/Kernels
 
-*   [Vinix (⭐1.9k)](https://github.com/vlang/vinix) - Small and simple OS in V. Runs bash.
+*   [Vinix (⭐2k)](https://github.com/vlang/vinix) - Small and simple OS in V. Runs bash.
 
 ### Project management
 
@@ -624,28 +614,28 @@ Installs: 4000 | Stars: 961 | Last update: n/a
 
 ### Web
 
-*   [vblog (⭐27)](https://github.com/scurty-labs/vblog) - A simple, fast and responsive blogging system.
-*   [Vebview.JS (⭐71)](https://github.com/malisipi/Vebview.JS) - Electron/Neutralino.JS alternative written in V.
+*   [vblog (⭐29)](https://github.com/scurty-labs/vblog) - A simple, fast and responsive blogging system.
+*   [Vebview.JS (⭐78)](https://github.com/malisipi/Vebview.JS) - Electron/Neutralino.JS alternative written in V.
 *   [Vieter (⭐11)](https://github.com/ChewingBever/vieter) - Archlinux repository server & package build system, written in V.
 *   [Vlang Benchmarks Visualization (⭐9)](https://github.com/ArtemkaKun/VlangBenchmarksVisualization) - Fancy statistics and plots for *[Is V still fast?](https://fast.vlang.io/)*.
-*   [vorum (⭐215)](https://github.com/vlang/vorum) - Open-source blogging/forum software written in V.
-*   [vss (⭐31)](https://github.com/vssio/vss) - Easy-to-use static site generator.
+*   [vorum (⭐217)](https://github.com/vlang/vorum) - Open-source blogging/forum software written in V.
+*   [vss (⭐35)](https://github.com/vssio/vss) - Easy-to-use static site generator.
 *   [VTik (⭐18)](https://github.com/Sharqo78/VTik) - TikTok and Twitter video downloader app (CLI / Telegram Bot).
-*   [pico.v (⭐108)](https://github.com/S-YOU/pico.v) - A web server in V based on picoev and picohttpparser.
-*   [v-jsonrpc (⭐32)](https://github.com/nedpals/v-jsonrpc) - Basic JSON-RPC 2.0-compliant server written on V.
-*   [validate (⭐20)](https://github.com/endeveit/v-validate) - A simple library to validate strings in V.
+*   [pico.v (⭐111)](https://github.com/S-YOU/pico.v) - A web server in V based on picoev and picohttpparser.
+*   [v-jsonrpc (⭐33)](https://github.com/nedpals/v-jsonrpc) - Basic JSON-RPC 2.0-compliant server written on V.
+*   [validate (⭐21)](https://github.com/endeveit/v-validate) - A simple library to validate strings in V.
 *   [valval (⭐152)](https://github.com/taojy123/valval) - Web framework written in V, improved by vweb.
-*   [vcurrency (⭐8)](https://github.com/mehtaarn000/vcurrency) - API wrapper (written in V) for <https://api.exchangeratesapi.io>.
-*   [vex (⭐337)](https://github.com/nedpals/vex) - Web framework written on V inspired by Express and Sinatra.
+*   [vcurrency (⭐7)](https://github.com/mehtaarn000/vcurrency) - API wrapper (written in V) for <https://api.exchangeratesapi.io>.
+*   [vex (⭐342)](https://github.com/nedpals/vex) - Web framework written on V inspired by Express and Sinatra.
 *   [vigest (⭐4)](https://github.com/withs/vigest) - Simple client for digest authentication (written in V).
 *   [vweb (⭐36k)](https://github.com/vlang/v/tree/master/vlib/vweb) - V's built-in web framework. Used by Vorum.
 *   [vxbloauth (⭐8)](https://github.com/WolvesFortress/vxbl-oauth) - A minimalistic Xbox Live authenticator for vweb.
 
 ### Audio
 
-*   [miniaudio (⭐48)](https://github.com/Larpon/miniaudio) - Bindings for the excellent miniaudio C audio library.
+*   [miniaudio (⭐51)](https://github.com/Larpon/miniaudio) - Bindings for the excellent miniaudio C audio library.
 *   [vave (⭐39)](https://github.com/thecodrr/vave) - A crazy simple library for reading/writing WAV files in V. 🌊
-*   [vspeech (⭐51)](https://github.com/thecodrr/vspeech) - Complete V bindings for Mozilla's DeepSpeech TensorFlow based Speech-to-Text library. 📢📜
+*   [vspeech (⭐49)](https://github.com/thecodrr/vspeech) - Complete V bindings for Mozilla's DeepSpeech TensorFlow based Speech-to-Text library. 📢📜
 
 ### Automation
 
@@ -659,7 +649,7 @@ Installs: 4000 | Stars: 961 | Last update: n/a
 
 *   [redis (⭐66)](https://github.com/patrickpissurno/vredis) - Redis client for V, written in V.
 *   [vmemcached (⭐11)](https://github.com/blacktrub/vmemcached) - Memcached client for V, written in V.
-*   [vsql (⭐45)](https://github.com/lydiandy/vsql) - A sql query builder for V.
+*   [vsql (⭐46)](https://github.com/lydiandy/vsql) - A sql query builder for V.
 
 ### Discord
 
@@ -674,7 +664,7 @@ Installs: 4000 | Stars: 961 | Last update: n/a
 ### File handling
 
 *   [v-mime (⭐24)](https://github.com/nedpals/v-mime) - MIME detection library for V.
-*   [vmon (⭐34)](https://github.com/Larpon/vmon) - Asynchronously watch for file changes in a directory. The module is essentially a V wrapper for `septag/dmon`. It works for Windows, macOS and Linux.
+*   [vmon (⭐36)](https://github.com/Larpon/vmon) - Asynchronously watch for file changes in a directory. The module is essentially a V wrapper for `septag/dmon`. It works for Windows, macOS and Linux.
 
 ### Game development
 
@@ -684,17 +674,17 @@ Installs: 4000 | Stars: 961 | Last update: n/a
 
 *   [V Earcut (⭐14)](https://github.com/Larpon/earcut) - fast (real-time) polygon triangulation library based on [mapbox/Earcut (⭐2.2k)](https://github.com/mapbox/earcut) to handle holes, twisted polygons, degeneracies and self-intersections.
 *   [V\_sokol\_gp (⭐4)](https://github.com/mohamedLT/V_sokol_gp) - A V wrapper for the sokol\_gp library for easy and fast 2d graphics.
-*   [viup (⭐43)](https://github.com/kjlaw89/viup) - V wrapper for the C-based cross-platform UI library, IUP.
-*   [vsdl (⭐13)](https://github.com/kjlaw89/vsdl) - V wrapper for the C-based SDL library.
-*   [vsdl2 (⭐46)](https://github.com/nsauzede/vsdl2) - A libSDL2 wrapper.
+*   [viup (⭐46)](https://github.com/kjlaw89/viup) - V wrapper for the C-based cross-platform UI library, IUP.
+*   [vsdl (⭐12)](https://github.com/kjlaw89/vsdl) - V wrapper for the C-based SDL library.
+*   [vsdl2 (⭐45)](https://github.com/nsauzede/vsdl2) - A libSDL2 wrapper.
 
 ### IRC
 
-*   [vitric (⭐3)](https://github.com/m-242/vitric) - A transparent IRC library.
+*   [vitric (⭐4)](https://github.com/m-242/vitric) - A transparent IRC library.
 
 ### Networking
 
-*   [vmq (⭐18)](https://github.com/jordan-bonecutter/vmq) -  V wrapper For [ZMQ](https://zeromq.org/) (aka ZeroMQ, ØMQ, 0MQ: a high-performance asynchronous messaging library).
+*   [vmq (⭐17)](https://github.com/jordan-bonecutter/vmq) -  V wrapper For [ZMQ](https://zeromq.org/) (aka ZeroMQ, ØMQ, 0MQ: a high-performance asynchronous messaging library).
 
 ### Operating system
 
@@ -706,32 +696,31 @@ Installs: 4000 | Stars: 961 | Last update: n/a
 
 ### Serial Communications
 
-*   [vi2c (⭐13)](https://github.com/erdetn/vi2c) - A tiny (wrapper) library for I2C serial communication for Linux written in V.
+*   [vi2c (⭐14)](https://github.com/erdetn/vi2c) - A tiny (wrapper) library for I2C serial communication for Linux written in V.
 
 ### Telecommunications
 
-*   [vagi (⭐5)](https://github.com/Ouri028/vagi) - Asterisk FastAGI library in V.
+*   [vagi (⭐7)](https://github.com/Ouri028/vagi) - Asterisk FastAGI library in V.
 
 ### Text processing
 
 *   [ascii\_robot (⭐13)](https://github.com/Delta456/ascii_robot) - ASCII Robot generator written in V.
-*   [chalk (⭐21)](https://github.com/etienne-napoleone/chalk) - Colorize strings in the terminal.
+*   [chalk (⭐22)](https://github.com/etienne-napoleone/chalk) - Colorize strings in the terminal.
 *   [cjson (⭐11)](https://github.com/lydiandy/cjson) - Wrap cJSON for vlang.
-*   [crayon (⭐55)](https://github.com/thecodrr/crayon) - Paint your terminal output like Picasso. 🖍️🎨
+*   [crayon (⭐58)](https://github.com/thecodrr/crayon) - Paint your terminal output like Picasso. 🖍️🎨
 *   [iconv (⭐6)](https://github.com/fanlia/iconv) - Wrap iconv for vlang.
-*   [Rosie-RPL (⭐4)](https://github.com/jdonnerstag/vlang-rosie) - A Rosie Pattern Language (RPL) implementation.
-*   [strfmt](https://github.com/BenStigsen/strfmt) - Tiny and fast string formatting library ideal for templating.
-*   [v-regex (⭐15)](https://github.com/spytheman/v-regex) - A simple regex library for V.
+*   [Rosie-RPL (⭐6)](https://github.com/jdonnerstag/vlang-rosie) - A Rosie Pattern Language (RPL) implementation.
+*   [v-regex (⭐14)](https://github.com/spytheman/v-regex) - A simple regex library for V.
 
 ### User Interface toolkits
 
-*   [mui (⭐98)](https://github.com/malisipi/mui) - A Cross-Platform UI library for Windows, Linux, Android and Web.
-*   [V UI (⭐2.3k)](https://github.com/vlang/ui) - Integrated cross platform UI toolkit for Windows, macOS, Linux, Android, iOS and the web.
+*   [mui (⭐107)](https://github.com/malisipi/mui) - A Cross-Platform UI library for Windows, Linux, Android and Web.
+*   [V UI (⭐2.4k)](https://github.com/vlang/ui) - Integrated cross platform UI toolkit for Windows, macOS, Linux, Android, iOS and the web.
 
 ### Utility
 
 *   [range (⭐33)](https://github.com/Delta456/range) - Functionality of Python's range() in V.
-*   [vdotenv (⭐33)](https://github.com/zztkm/vdotenv) - Support for .env files which loads environment variables.
+*   [vdotenv (⭐38)](https://github.com/zztkm/vdotenv) - Support for .env files which loads environment variables.
 
 ### Articles
 
@@ -751,13 +740,13 @@ Installs: 4000 | Stars: 961 | Last update: n/a
 
 ### Editor plugins / Emacs
 
-*   [v-mode (⭐59)](https://github.com/damon-kwok/v-mode) - Emacs major mode for the V programming language.
-*   [vlang-mode.el (⭐9)](https://github.com/Naheel-Azawy/vlang-mode.el) - Emacs major mode for the V programming language.
+*   [v-mode (⭐61)](https://github.com/damon-kwok/v-mode) - Emacs major mode for the V programming language.
+*   [vlang-mode.el (⭐12)](https://github.com/Naheel-Azawy/vlang-mode.el) - Emacs major mode for the V programming language.
 
 ### Editor plugins / Sublime Text 3
 
-*   [sublime-v (⭐14)](https://github.com/onerbs/sublime-v) - Fully-featured Sublime Text 3 package for the V Programming Language.
-*   [vlang-sublime (⭐19)](https://github.com/oversoul/vlang-sublime) - Sublime text 3 Support for the Vlang Programming Language.
+*   [sublime-v (⭐15)](https://github.com/onerbs/sublime-v) - Fully-featured Sublime Text 3 package for the V Programming Language.
+*   [vlang-sublime (⭐18)](https://github.com/oversoul/vlang-sublime) - Sublime text 3 Support for the Vlang Programming Language.
 
 ### Editor plugins / Vim
 
@@ -786,15 +775,15 @@ Installs: 4000 | Stars: 961 | Last update: n/a
 
 ### Syntax highlighting / Vim
 
-*   [kate-syntax-highlight-v (⭐20)](https://github.com/Larpon/kate-syntax-highlight-v) - V syntax highlighting for [Kate](https://kate-editor.org/).
+*   [kate-syntax-highlight-v (⭐21)](https://github.com/Larpon/kate-syntax-highlight-v) - V syntax highlighting for [Kate](https://kate-editor.org/).
 *   [scite-v-support (⭐2)](https://github.com/sunnylcw/scite-v-support) - V syntax highlighting for [SciTE](https://www.scintilla.org/SciTE.html).
 
 ### Tutorials / Vim
 
 *   [Learn V in Y Minutes (⭐62)](https://github.com/v-community/learn_v_in_y_minutes)
-*   [V by Example (⭐169)](https://github.com/v-community/v_by_example) - V book as [GitBook](https://v-community.gitbook.io/v-by-example/).
-*   [V for Node Devs (⭐29)](https://github.com/Thigidu/vlang-for-nodejs-developers) - Vlang for node js developers.
-*   [V learning notes (⭐168)](https://github.com/lydiandy/vlang_note) - Personal learning notes in Chinese.
+*   [V by Example (⭐170)](https://github.com/v-community/v_by_example) - V book as [GitBook](https://v-community.gitbook.io/v-by-example/).
+*   [V for Node Devs (⭐28)](https://github.com/Thigidu/vlang-for-nodejs-developers) - Vlang for node js developers.
+*   [V learning notes (⭐170)](https://github.com/lydiandy/vlang_note) - Personal learning notes in Chinese.
 
 ### Videos / Vim
 
@@ -813,33 +802,29 @@ Installs: 4000 | Stars: 961 | Last update: n/a
 
 *   [ExportData](https://www.exportdata.io/) - Data export tool for historical tweets, followers & followings and historical trends.
 
-### Other Tools / Telegram
-
-*   [CantHide](https://canthide.me) - CantHide finds previous locations by looking at a given social media account.
-
 ## [49. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### App Store
 
-*   [AppReview (⭐100)](https://github.com/mezhevikin/AppReview) - A tiny library to request review on the AppStore via SKStoreReviewController.
+*   [AppReview (⭐110)](https://github.com/mezhevikin/AppReview) - A tiny library to request review on the AppStore via SKStoreReviewController.
 
 ## [50. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [ray-x/starry.nvim (⭐217)](https://github.com/ray-x/starry.nvim) - A collection of modern Neovim colorschemes: material, moonlight, dracula (blood), monokai, mariana, emerald, earlysummer, middlenight\_blue, darksolar.
+*   [ray-x/starry.nvim (⭐224)](https://github.com/ray-x/starry.nvim) - A collection of modern Neovim colorschemes: material, moonlight, dracula (blood), monokai, mariana, emerald, earlysummer, middlenight\_blue, darksolar.
 
 ### Note Taking / Diagnostics
 
-*   [jghauser/papis.nvim (⭐148)](https://github.com/jghauser/papis.nvim) - Manage your bibliography from within your favourite editor.
+*   [jghauser/papis.nvim (⭐158)](https://github.com/jghauser/papis.nvim) - Manage your bibliography from within your favourite editor.
 
 ### Utility / Diagnostics
 
-*   [numToStr/BufOnly.nvim (⭐35)](https://github.com/numToStr/BufOnly.nvim) - Lua/Neovim port of BufOnly.vim with some changes.
+*   [numToStr/BufOnly.nvim (⭐34)](https://github.com/numToStr/BufOnly.nvim) - Lua/Neovim port of BufOnly.vim with some changes.
 
 ### Code Runner / Diagnostics
 
-*   [Shatur/neovim-tasks (⭐105)](https://github.com/Shatur/neovim-tasks) - A stateful task manager focused on integration with build systems.
+*   [Shatur/neovim-tasks (⭐110)](https://github.com/Shatur/neovim-tasks) - A stateful task manager focused on integration with build systems.
 
 ## [51. Awesome Software Architecture](/content/simskij/awesome-software-architecture/week/README.md)
 
@@ -851,43 +836,32 @@ Installs: 4000 | Stars: 961 | Last update: n/a
 
 ### Testing / Redux / ELM / Dependency Injection
 
-*   [Patrol (⭐820)](https://github.com/leancodepl/patrol) <!--stargazers:leancodepl/patrol--> - Easy-to-learn, powerful UI testing framework eliminating limitations of `flutter_test`, `integration_test`, and `flutter_driver` by [LeanCode](https://leancode.co)
+*   [Patrol (⭐938)](https://github.com/leancodepl/patrol) <!--stargazers:leancodepl/patrol--> - Easy-to-learn, powerful UI testing framework eliminating limitations of `flutter_test`, `integration_test`, and `flutter_driver` by [LeanCode](https://leancode.co)
 
 ## [53. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### File Management and Sharing
 
-*   [Snapdrop (⭐18k)](https://github.com/RobinLinus/snapdrop) - A Progressive Web App for local file sharing inspired by Apple's Airdrop.
+*   [Snapdrop (⭐19k)](https://github.com/RobinLinus/snapdrop) - A Progressive Web App for local file sharing inspired by Apple's Airdrop.
 
 ### Podcasts
 
 *   **Deezer** - [Bad privacy policy](https://tosdr.org/en/service/2516). Apps have [many trackers](https://reports.exodus-privacy.eu.org/en/reports/deezer.android.tv/latest/). Way too many permissions are required for a streaming app.
-*   [Funkwhale](https://funkwhale.audio/) - A social platform to enjoy and share audio.
 *   **Spotify** - [Very bad](https://tosdr.org/en/service/225) privacy policy. They collect tons of data about you: mood, free time, likes, dislikes, friends... Also, their apps have [way too many trackers](https://reports.exodus-privacy.eu.org/en/reports/com.spotify.music/latest/).
 *   **iVoox** - Their apps are [filled with trackers](https://reports.exodus-privacy.eu.org/en/reports/com.ivoox.app/latest/). Their website has trackers.
 *   **Audible** - [Very bad](https://tosdr.org/en/service/190) privacy policy. Their app has [many trackers](https://reports.exodus-privacy.eu.org/en/reports/com.audible.application/latest/).
 *   [Antennapod](https://antennapod.org) - A podcast player that is completely open. Subscribe to any RSS feed.
 *   [Castopod](https://castopod.org) - Self-host your podcasts with ease, keep control over what you create and talk to your audience without any middleman. Your podcast and your audience belong to you and you only.
+*   [Funkwhale](https://funkwhale.audio/) - A social platform to enjoy and share audio.
 
 ### Blogging platforms (Medium)
 
 *   **Medium** - website has Google trackers and ads.
 *   **Blogger** - Google owned, has google trackers and ads.
-*   [Plume (⭐2.1k)](https://github.com/Plume-org/Plume) 🧩 - Federated blogging application, thanks to ActivityPub.
-*   [WriteFreely](https://writefreely.org/) 🧩 - An open source platform for building a writing space on the web.
-
-### Instagram
-
-*   [Pixelfed](https://pixelfed.org/) 🧩 - Decentralized, federated and Open Source alternative to Instagram with posts, videos, stories, tags, etc.
-
-### Reddit
-
-*   [Kbin (⭐769)](https://github.com/ernestwisniewski/kbin) 🧩 - A reddit-like content aggregator and micro-blogging platform for the fediverse.
-*   [Lemmy](https://join.lemmy.ml/) 🧩 - A federated and open alternative to Reddit in Rust.
 
 ### Video and Audio Conferencing / Alternative clients/modifications of Discord:
 
-*   [Vencord (⭐8.4k)](https://github.com/Vendicated/Vencord) - A Discord client mod that does things differently.
+*   [Vencord (⭐9.7k)](https://github.com/Vendicated/Vencord) - A Discord client mod that does things differently.
 *   [Replugged](https://replugged.dev/) - A continuation of the deprecated client mod [Powercord](https://powercord.dev).
 
 ## [54. Awesome Crypto Papers](/content/pFarb/awesome-crypto-papers/week/README.md)
@@ -924,20 +898,20 @@ Installs: 4000 | Stars: 961 | Last update: n/a
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [git-prompt-enhanced (⭐2)](https://github.com/LFabre/zsh-git-prompt-enhanced) - Provides a more granular information about a `git` repository.
-*   [znvm (⭐1)](https://github.com/Ajnasz/znvm) - A [Node.js](https://nodejs.org) version manager for ZSH similar to [nvm.sh (⭐78k)](https://github.com/nvm-sh/nvm) but faster.
+*   [znvm (⭐1)](https://github.com/Ajnasz/znvm) - A [Node.js](https://nodejs.org) version manager for ZSH similar to [nvm.sh (⭐82k)](https://github.com/nvm-sh/nvm) but faster.
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [conda (⭐360)](https://github.com/conda-incubator/conda-zsh-completion) - ZSH tab completion for [conda](http://conda.pydata.org/).
-*   [ddc (⭐22)](https://github.com/Shougo/ddc-zsh) - Adds tab completions for [ddc (⭐659)](https://github.com/Shougo/ddc.vim).
-*   [symfony-complete (⭐6)](https://github.com/voronkovich/symfony-complete.plugin.zsh) - Universal completion for [Symfony](https://symfony.com/doc/current/components/console.html) based CLI applications: `composer`, `php-cs-fix`, `bin/console`, `artisan`, `php-cs-fixer` and etc. This supports autocompletion for subcommands and GNU-style options (`--help`)
+*   [conda (⭐380)](https://github.com/conda-incubator/conda-zsh-completion) - ZSH tab completion for [conda](http://conda.pydata.org/).
+*   [ddc (⭐23)](https://github.com/Shougo/ddc-zsh) - Adds tab completions for [ddc (⭐682)](https://github.com/Shougo/ddc.vim).
+*   [symfony-complete (⭐7)](https://github.com/voronkovich/symfony-complete.plugin.zsh) - Universal completion for [Symfony](https://symfony.com/doc/current/components/console.html) based CLI applications: `composer`, `php-cs-fix`, `bin/console`, `artisan`, `php-cs-fixer` and etc. This supports autocompletion for subcommands and GNU-style options (`--help`)
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [dangerroom (⭐1)](https://github.com/abbreviatedman/dangerroom) - Informative, minimal, and, above all, X-Men themed. Includes decorators for `git` status, working directory, parent directory and `vim` mode.
-*   [lpha3cho (⭐40)](https://github.com/sdcampbell/lpha3cho-Oh-My-Zsh-theme-for-pentesters) - Modified version of the [intheloop (⭐172k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/intheloop.zsh-theme) theme for pentesters which includes the date, time, and IP address for pentest logging.
+*   [lpha3cho (⭐43)](https://github.com/sdcampbell/lpha3cho-Oh-My-Zsh-theme-for-pentesters) - Modified version of the [intheloop (⭐175k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/intheloop.zsh-theme) theme for pentesters which includes the date, time, and IP address for pentest logging.
 *   [nt9 (⭐31)](https://github.com/lenguyenthanh/nt9-oh-my-zsh-theme) - A clean, distraction free and `git` focused development theme. Shows path relative to `git` root (or `~` when outside `git` repo), time since last commit, current SHA, branch and branch state.
-*   [purpleblood (⭐0)](https://github.com/HFMorais/oh-my-zsh-purpleblood-theme/) - Based on [darkblood (⭐172k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/darkblood.zsh-theme). Includes decorators for `username@host`, `git` status, and current directory.
+*   [purpleblood (⭐0)](https://github.com/HFMorais/oh-my-zsh-purpleblood-theme/) - Based on [darkblood (⭐175k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/darkblood.zsh-theme). Includes decorators for `username@host`, `git` status, and current directory.
 *   [themeraf (⭐0)](https://github.com/oliver-svrcek/Themeraf) - Has decorators for username, last two directories in working directory path, `git` status, timestamp, last exit status and also name of active virtual environment.
 
 ## [56. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
@@ -981,7 +955,7 @@ Installs: 4000 | Stars: 961 | Last update: n/a
 
 ### Libraries/Frameworks / Functional Programming
 
-*   [h0tk3y/kotlin-monads (⭐119)](https://github.com/h0tk3y/kotlin-monads) - Monads for Kotlin
+*   [h0tk3y/kotlin-monads (⭐120)](https://github.com/h0tk3y/kotlin-monads) - Monads for Kotlin
 
 ### Libraries/Frameworks / Graphics
 
@@ -1024,7 +998,7 @@ Installs: 4000 | Stars: 961 | Last update: n/a
 ### Applications / Emulators
 
 *   Flash Player
-    *   [Ruffle (⭐15k)](https://github.com/ruffle-rs/ruffle) - Ruffle is an Adobe Flash Player emulator. Ruffle targets both the desktop and the web using WebAssembly. [![CI](https://github.com/ruffle-rs/ruffle/actions/workflows/test_rust.yml/badge.svg)](https://github.com/ruffle-rs/ruffle/actions/workflows/test_rust.yml)[![CI](https://github.com/ruffle-rs/ruffle/actions/workflows/test_web.yml/badge.svg)](https://github.com/ruffle-rs/ruffle/actions/workflows/test_web.yml)
+    *   [Ruffle (⭐16k)](https://github.com/ruffle-rs/ruffle) - Ruffle is an Adobe Flash Player emulator. Ruffle targets both the desktop and the web using WebAssembly. [![CI](https://github.com/ruffle-rs/ruffle/actions/workflows/test_rust.yml/badge.svg)](https://github.com/ruffle-rs/ruffle/actions/workflows/test_rust.yml)[![CI](https://github.com/ruffle-rs/ruffle/actions/workflows/test_web.yml/badge.svg)](https://github.com/ruffle-rs/ruffle/actions/workflows/test_web.yml)
 
 ## [61. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
@@ -1099,17 +1073,17 @@ Installs: 4000 | Stars: 961 | Last update: n/a
 
 ### AppImage consumption tools / Desktop integration
 
-*   [AppImage-Integrator (⭐1)](https://github.com/w-j-r/AppImage-Integrator) - A simple program to integrate AppImages into the Linux desktop written in Qt6.
-*   [gnome\_appimage\_installer (⭐2)](https://github.com/knork-fork/gnome_appimage_installer) - Somewhat a misnomer (AppImages don't need to be "installed"), creates a desktop file that follows the freedesktop.org spec for your AppImage files; written in bash.
+*   [AppImage-Integrator](https://github.com/w-j-r/AppImage-Integrator) - A simple program to integrate AppImages into the Linux desktop written in Qt6.
+*   [gnome\_appimage\_installer (⭐3)](https://github.com/knork-fork/gnome_appimage_installer) - Somewhat a misnomer (AppImages don't need to be "installed"), creates a desktop file that follows the freedesktop.org spec for your AppImage files; written in bash.
 
 ### AppImage consumption tools / Package managers
 
-*   [leap (⭐8)](https://github.com/lnxcz/leap) - Fast and simple AppImage manager. Written in Rust.
+*   [leap (⭐11)](https://github.com/lnxcz/leap) - Fast and simple AppImage manager. Written in Rust.
 
 ### AppImage developer tools / Tools to convert from other package formats
 
-*   [Package-to-appimage (⭐1)](https://github.com/CausaPrincipalis71/package-to-appimage) - Tool for converting `.deb` and `.rpm` packages into AppImage format by using Docker.
-*   [GMAppImager (⭐3)](https://github.com/time-killer-games/GMAppImager) - Graphically Converts GameMaker Studio 2 games to AppImage bundles.
+*   [Package-to-appimage (⭐4)](https://github.com/CausaPrincipalis71/package-to-appimage) - Tool for converting `.deb` and `.rpm` packages into AppImage format by using Docker.
+*   [GMAppImager (⭐4)](https://github.com/time-killer-games/GMAppImager) - Graphically Converts GameMaker Studio 2 games to AppImage bundles.
 
 ### AppImage developer tools / Libraries
 
@@ -1117,17 +1091,17 @@ Installs: 4000 | Stars: 961 | Last update: n/a
 
 ## [64. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
-### Development / Books
+### Development / Chat
 
 *   [rebound (⭐4.1k)](https://github.com/shobrook/rebound) - Fetch Stack Overflow results on compiler error.
-*   [bcal (⭐620)](https://github.com/jarun/bcal) - Byte CALculator for storage conversions and calculations.
-*   [bitwise (⭐611)](https://github.com/mellowcandle/bitwise) - Base conversion and bit manipulation.
-*   [cgasm (⭐368)](https://github.com/bnagy/cgasm) - x86 assembly documentation.
-*   [add-gitignore (⭐646)](https://github.com/TejasQ/add-gitignore) - Interactively generate a .gitignore for your project based on your needs.
-*   [is-up-cli (⭐355)](https://github.com/sindresorhus/is-up-cli) - Check if a domain is up.
-*   [reachable (⭐26)](https://github.com/italolelis/reachable) - Check if a domain is up.
-*   [loadtest (⭐2.5k)](https://github.com/alexfernandez/loadtest) - Run load tests.
-*   [diff2html-cli (⭐492)](https://github.com/rtfpessoa/diff2html-cli) - Create pretty HTML from diffs.
+*   [bcal (⭐632)](https://github.com/jarun/bcal) - Byte CALculator for storage conversions and calculations.
+*   [bitwise (⭐648)](https://github.com/mellowcandle/bitwise) - Base conversion and bit manipulation.
+*   [cgasm (⭐370)](https://github.com/bnagy/cgasm) - x86 assembly documentation.
+*   [add-gitignore (⭐675)](https://github.com/TejasQ/add-gitignore) - Interactively generate a .gitignore for your project based on your needs.
+*   [is-up-cli (⭐359)](https://github.com/sindresorhus/is-up-cli) - Check if a domain is up.
+*   [reachable (⭐33)](https://github.com/italolelis/reachable) - Check if a domain is up.
+*   [loadtest (⭐2.6k)](https://github.com/alexfernandez/loadtest) - Run load tests.
+*   [diff2html-cli (⭐533)](https://github.com/rtfpessoa/diff2html-cli) - Create pretty HTML from diffs.
 
 ### Development / Frontend Development
 
@@ -1136,40 +1110,40 @@ Installs: 4000 | Stars: 961 | Last update: n/a
 
 ### Development / Devops
 
-*   [ipfs-deploy (⭐1.1k)](https://github.com/agentofuser/ipfs-deploy) - Deploy static websites to [IPFS (⭐23k)](https://github.com/ipfs/ipfs#overviewhttps://github.com/ipfs/ipfs#overview).
-*   [Discharge (⭐569)](https://github.com/brandonweiss/discharge) - Deploy static websites to Amazon S3.
+*   [ipfs-deploy (⭐1.2k)](https://github.com/agentofuser/ipfs-deploy) - Deploy static websites to [IPFS (⭐23k)](https://github.com/ipfs/ipfs#overviewhttps://github.com/ipfs/ipfs#overview).
+*   [Discharge (⭐642)](https://github.com/brandonweiss/discharge) - Deploy static websites to Amazon S3.
 
 ### Development / HTTP Server
 
-*   [serve (⭐9.2k)](https://github.com/vercel/serve) - Serve static files (https, CORS, GZIP compression, etc).
-*   [simplehttp (⭐59)](https://github.com/snwfdhmp/simplehttp) - Easily serve a local directory over HTTP.
+*   [serve (⭐9.4k)](https://github.com/vercel/serve) - Serve static files (https, CORS, GZIP compression, etc).
+*   [simplehttp (⭐66)](https://github.com/snwfdhmp/simplehttp) - Easily serve a local directory over HTTP.
 *   [shell2http (⭐1.3k)](https://github.com/msoap/shell2http) - Shell script based HTTP server.
 
 ### Development / HTTP Client
 
-*   [HTTPie (⭐32k)](https://github.com/httpie/httpie) - A user-friendly HTTP client.
-*   [HTTP Prompt (⭐8.9k)](https://github.com/eliangcs/http-prompt) - Interactive HTTP client featuring autocomplete and syntax highlighting.
-*   [ain (⭐561)](https://github.com/jonaslu/ain) - HTTP client with a simple format to organize API endpoints.
+*   [HTTPie (⭐34k)](https://github.com/httpie/httpie) - A user-friendly HTTP client.
+*   [HTTP Prompt (⭐9k)](https://github.com/eliangcs/http-prompt) - Interactive HTTP client featuring autocomplete and syntax highlighting.
+*   [ain (⭐601)](https://github.com/jonaslu/ain) - HTTP client with a simple format to organize API endpoints.
 
 ### Utilities / Calendars
 
-*   [bitly-client (⭐50)](https://github.com/specious/bitly-client) - Bitly client.
+*   [bitly-client (⭐48)](https://github.com/specious/bitly-client) - Bitly client.
 
 ### Data Manipulation / JSON
 
-*   [gron (⭐13k)](https://github.com/tomnomnom/gron) - Make JSON greppable.
+*   [gron (⭐14k)](https://github.com/tomnomnom/gron) - Make JSON greppable.
 
 ### Data Manipulation / YAML
 
-*   [dyff (⭐1.2k)](https://github.com/homeport/dyff) - YAML diff tool.
+*   [dyff (⭐1.3k)](https://github.com/homeport/dyff) - YAML diff tool.
 
 ### Files and Directories / Directory Listing
 
-*   [lsd (⭐12k)](https://github.com/Peltoche/lsd) - `ls` with many extra features.
+*   [lsd (⭐14k)](https://github.com/Peltoche/lsd) - `ls` with many extra features.
 
 ### Images / Emoji
 
-*   [imgur-uploader-cli (⭐56)](https://github.com/kevva/imgur-uploader-cli) - Upload images to imgur.
+*   [imgur-uploader-cli (⭐57)](https://github.com/kevva/imgur-uploader-cli) - Upload images to imgur.
 *   [pageres-cli (⭐1.7k)](https://github.com/sindresorhus/pageres-cli) - Capture website screenshots.
 
 ## [65. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)

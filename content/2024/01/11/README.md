@@ -52,13 +52,13 @@
 
 ### Software / Make your life easier
 
-*   [Ferrum (⭐1.7k)](https://github.com/rubycdp/ferrum) - very simple and easy to get started with frontend/UI testing in small Ruby scripts, high-level API to control Chrome with the CDP - Chrome DevTools Protocol (NO Selenium dependency)
+*   [Ferrum (⭐1.8k)](https://github.com/rubycdp/ferrum) - very simple and easy to get started with frontend/UI testing in small Ruby scripts, high-level API to control Chrome with the CDP - Chrome DevTools Protocol (NO Selenium dependency)
 
 ## [7. Awesome Java](/content/akullpp/awesome-java/README.md)
 
 ### Related Awesome Lists / Mocking
 
-*   [Awesome Hybris (⭐27)](https://github.com/eminyagiz42/awesome-hybris)
+*   [Awesome Hybris (⭐34)](https://github.com/eminyagiz42/awesome-hybris)
 
 ## [8. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
@@ -77,7 +77,7 @@
 
 ### Community Modules / Miscellaneous
 
-*   [terraform-aws-account-lookup (⭐2)](https://github.com/be-bold/terraform-aws-account-lookup) - This Terraform module allows querying AWS accounts and outputs the accounts in various mappings or as a complete list, with the ability to apply a search filter to the account list and group the accounts by existing tags using a submodule.
+*   [terraform-aws-account-lookup (⭐3)](https://github.com/be-bold/terraform-aws-account-lookup) - This Terraform module allows querying AWS accounts and outputs the accounts in various mappings or as a complete list, with the ability to apply a search filter to the account list and group the accounts by existing tags using a submodule.
 
 ---
 

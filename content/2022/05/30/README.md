@@ -18,12 +18,12 @@
 
 *   [Dive into Deep Learning](https://d2l.ai/)
 
-### Bloggers / Book Deals (Affiliated) 🛍
+### Bloggers / Book Deals (Affiliated)
 
 *   [Datawrangling](http://www.datawrangling.org) by Peter Skomoroch. MACHINE LEARNING, DATA MINING, AND MORE
 *   [Data Science 101](https://ryanswanstrom.com/datascience101/) - Learning To Be A Data Scientist
 
-### Datasets / Book Deals (Affiliated) 🛍
+### Datasets / Book Deals (Affiliated)
 
 *   [NASDAQ:DATA](https://data.nasdaq.com/) - Nasdaq Data Link A premier source for financial, economic and alternative datasets.
 *   [National Centers for Environmental Information](https://www.ncei.noaa.gov/)
@@ -32,13 +32,13 @@
 
 ### Error Handling
 
-*   [exception (⭐30)](https://github.com/rbrahul/exception) - A simple utility package for exception handling with try-catch in Golang.
+*   [exception (⭐35)](https://github.com/rbrahul/exception) - A simple utility package for exception handling with try-catch in Golang.
 
 ## [4. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Version Manager / Diagnostics
 
-*   [MordechaiHadad/bob (⭐1.4k)](https://github.com/MordechaiHadad/bob) - A cross platform and easy to use Neovim version manager.
+*   [MordechaiHadad/bob (⭐1.5k)](https://github.com/MordechaiHadad/bob) - A cross platform and easy to use Neovim version manager.
 
 ## [5. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
@@ -72,19 +72,19 @@
 
 ### CLI
 
-*   [sqlite-utils (⭐1.6k)](https://github.com/simonw/sqlite-utils) - CLI tools for manipulating SQLite database files - inserting data, running queries, creating indexes, configuring full-text search and more.
+*   [sqlite-utils (⭐1.7k)](https://github.com/simonw/sqlite-utils) - CLI tools for manipulating SQLite database files - inserting data, running queries, creating indexes, configuring full-text search and more.
 
 ### API / Samples
 
-*   [PostGraphile (⭐12k)](https://github.com/graphile/postgraphile) - Instantly spin-up a GraphQL API server by pointing PostGraphile at your existing PostgreSQL database.
+*   [PostGraphile (⭐13k)](https://github.com/graphile/postgraphile) - Instantly spin-up a GraphQL API server by pointing PostGraphile at your existing PostgreSQL database.
 
 ### Application platforms / Samples
 
-*   [Appsmith (⭐32k)](https://github.com/appsmithorg/appsmith) - Powerful open source low code framework to build internal applications really quickly.
+*   [Appsmith (⭐35k)](https://github.com/appsmithorg/appsmith) - Powerful open source low code framework to build internal applications really quickly.
 
 ### SQL / Über SQL
 
-*   [Trino (⭐9.8k)](https://github.com/trinodb/trino) - Trino is a distributed SQL query engine designed to query large data sets distributed over one or more heterogeneous data sources.
+*   [Trino (⭐11k)](https://github.com/trinodb/trino) - Trino is a distributed SQL query engine designed to query large data sets distributed over one or more heterogeneous data sources.
 
 ## [10. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
@@ -103,7 +103,7 @@
 
 ### UI
 
-*   [Slicy (⭐9)](https://github.com/wqferr/slicy) - A newer 9patch/9slice library fixing some issues with Patchy.
+*   [Slicy (⭐11)](https://github.com/wqferr/slicy) - A newer 9patch/9slice library fixing some issues with Patchy.
 
 ---
 

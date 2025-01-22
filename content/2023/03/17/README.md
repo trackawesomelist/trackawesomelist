@@ -57,17 +57,17 @@
 
 ### CLI Builders
 
-*   [Cling (⭐23)](https://github.com/devnote-dev/cling) - A modular, non-macro-based command line interface library
+*   [Cling (⭐26)](https://github.com/devnote-dev/cling) - A modular, non-macro-based command line interface library
 
 ## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Math
 
-*   [DirectXMath (⭐1.5k)](https://github.com/microsoft/DirectXMath) - An all inline SIMD C++ linear algebra library for use in games and graphics apps.
+*   [DirectXMath (⭐1.6k)](https://github.com/microsoft/DirectXMath) - An all inline SIMD C++ linear algebra library for use in games and graphics apps.
 
 ### Reflection
 
-*   [TSMP (⭐93)](https://github.com/fabian-jung/tsmp) - An intrusion and macro-free C++20 library for static reflection. It uses libclang to extract reflection data from your source code and makes it usable via template specialization. \[MIT]
+*   [TSMP (⭐97)](https://github.com/fabian-jung/tsmp) - An intrusion and macro-free C++20 library for static reflection. It uses libclang to extract reflection data from your source code and makes it usable via template specialization. \[MIT]
 
 ### Websites
 
@@ -78,7 +78,7 @@
 
 ### API Builder and Discovery
 
-*   [Alba (⭐912)](https://github.com/okuramasafumi/alba) - A JSON serializer for Ruby, JRuby and TruffleRuby.
+*   [Alba (⭐953)](https://github.com/okuramasafumi/alba) - A JSON serializer for Ruby, JRuby and TruffleRuby.
 
 ### CMS
 
@@ -86,7 +86,7 @@
 
 ### Third-party APIs
 
-*   [Notion Ruby Client (⭐116)](https://github.com/orbit-love/notion-ruby-client) - A Ruby wrapper for the Notion API.
+*   [Notion Ruby Client (⭐123)](https://github.com/orbit-love/notion-ruby-client) - A Ruby wrapper for the Notion API.
 
 ## [8. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
@@ -96,9 +96,9 @@
 
 ## [9. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
-### Software / Photo and Video Galleries
+### Software / Photo Galleries
 
-*   [SPIS (⭐122)](https://github.com/gbbirkisson/spis) - A simple, lightweight and fast media server with decent mobile support. `GPL-3.0` `Docker/Rust`
+*   [SPIS (⭐141)](https://github.com/gbbirkisson/spis) - A simple, lightweight and fast media server with decent mobile support. `GPL-3.0` `Docker/Rust`
 
 ## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -110,8 +110,8 @@
 
 ### Learning / Check Also
 
-*   [Web Configs (⭐5)](https://github.com/jonathandion/web-configs) - Monorepo for all common configurations for building web apps.
-*   [My Neovim Config (⭐52)](https://github.com/jonathandion/web-dev.nvim) - Small Neovim configuration written in Lua that is specifically designed for web development.
+*   [Web Configs (⭐16)](https://github.com/jonathandion/web-configs) - Monorepo for all common configurations for building web apps.
+*   [My Neovim Config (⭐66)](https://github.com/jonathandion/web-dev.nvim) - Small Neovim configuration written in Lua that is specifically designed for web development.
 
 ## [12. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 

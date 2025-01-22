@@ -14,48 +14,48 @@
 *   [Build a Career in Data Science](https://www.manning.com/books/build-a-career-in-data-science)
 *   [Machine Learning Bookcamp](https://mlbookcamp.com/) - Early access
 
-### Slack Communities / Book Deals (Affiliated) 🛍
+### Slack Communities / Book Deals (Affiliated)
 
 *   [DataTalks.Club](https://datatalks.club)
 
-### Datasets / Book Deals (Affiliated) 🛍
+### Datasets / Book Deals (Affiliated)
 
-*   [5000 Images of Clothes (⭐99)](https://github.com/alexeygrigorev/clothing-dataset)
+*   [5000 Images of Clothes (⭐104)](https://github.com/alexeygrigorev/clothing-dataset)
 
-### Other Awesome Lists / Book Deals (Affiliated) 🛍
+### Other Awesome Lists / Book Deals (Affiliated)
 
-*   [Data Science Interviews Questions (⭐8.6k)](https://github.com/alexeygrigorev/data-science-interviews)
+*   [Data Science Interviews Questions (⭐9.1k)](https://github.com/alexeygrigorev/data-science-interviews)
 
 ## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Graphics
 
-*   [C-Turtle (⭐61)](https://github.com/walkerje/C-Turtle) - A C++11 header-only turtle graphics library acting as a CImg wrapper. \[MIT]
+*   [C-Turtle (⭐64)](https://github.com/walkerje/C-Turtle) - A C++11 header-only turtle graphics library acting as a CImg wrapper. \[MIT]
 
 ### Multimedia
 
-*   [libass (⭐924)](https://github.com/libass/libass) - Portable subtitle renderer for the ASS/SSA subtitle format. \[ISC]
+*   [libass (⭐967)](https://github.com/libass/libass) - Portable subtitle renderer for the ASS/SSA subtitle format. \[ISC]
 
 ### Networking
 
-*   [CppServer (⭐1.4k)](https://github.com/chronoxor/CppServer) - Ultra fast and low latency asynchronous socket server & client C++ library with support TCP, SSL, UDP, HTTP, HTTPS, WebSocket protocols and 10K connections problem solution. \[MIT]
+*   [CppServer (⭐1.5k)](https://github.com/chronoxor/CppServer) - Ultra fast and low latency asynchronous socket server & client C++ library with support TCP, SSL, UDP, HTTP, HTTPS, WebSocket protocols and 10K connections problem solution. \[MIT]
 
 ### Physics
 
-*   [PhysX (⭐2.3k)](https://github.com/NVIDIAGameWorks/PhysX-3.4) - An open-source realtime physics engine middleware SDK developed by Nvidia as a part of Nvidia GameWorks software suite. \[BSD-3-Clause]
+*   [PhysX (⭐2.4k)](https://github.com/NVIDIAGameWorks/PhysX-3.4) - An open-source realtime physics engine middleware SDK developed by Nvidia as a part of Nvidia GameWorks software suite. \[BSD-3-Clause]
 
 ### Serialization
 
 *   [Bitsery (⭐1.1k)](https://github.com/fraillt/bitsery) - Header only C++ binary serialization library. \[MIT]
-*   [FastBinaryEncoding (⭐817)](https://github.com/chronoxor/FastBinaryEncoding) - Fast Binary Encoding is ultra fast and universal serialization solution for C++, C#, Go, Java, JavaScript, Kotlin, Python, Ruby, Swift. \[MIT]
+*   [FastBinaryEncoding (⭐897)](https://github.com/chronoxor/FastBinaryEncoding) - Fast Binary Encoding is ultra fast and universal serialization solution for C++, C#, Go, Java, JavaScript, Kotlin, Python, Ruby, Swift. \[MIT]
 
 ### Web Application Framework
 
-*   [oat++ (⭐7.7k)](https://github.com/oatpp/oatpp) - Light, zero-dependency framework to create high-performance web-services. \[Apache-2.0] [website](https://oatpp.io/)
+*   [oat++ (⭐8k)](https://github.com/oatpp/oatpp) - Light, zero-dependency framework to create high-performance web-services. \[Apache-2.0] [website](https://oatpp.io/)
 
 ### Online Compiler
 
-*   [paiza.io](https://paiza.io/en) - An online C/C++ compiler with multiple files supporting feature, Github(gist) integration and collaborative editing.
+*   [paiza.io](https://paiza.io/en) - An online C/C++ compiler with multiple files supporting feature, GitHub(gist) integration and collaborative editing.
 
 ### Weblogs
 
@@ -77,17 +77,17 @@
 
 *   Messaging
     *   [AMQP 1.0 (⭐8)](https://github.com/vert-x3/vertx-amqp-bridge) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Interact with AMQP 1.0 servers using the Vert.x Producer and Consumer APIs.
-    *   [MQTT (⭐175)](https://github.com/vert-x3/vertx-mqtt) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Provides two different components: an MQTT server for handling all the MQTT communication and messages exchanges with clients and an MQTT client for sending and receiving messages against an MQTT broker.
-    *   [RabbitMQ (⭐72)](https://github.com/vert-x3/vertx-rabbitmq-client) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - A RabbitMQ client (AMQP 0.9.1).
-    *   [Kafka Client (⭐79)](https://github.com/vert-x3/vertx-kafka-client) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - A Kafka client.
+    *   [MQTT (⭐189)](https://github.com/vert-x3/vertx-mqtt) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Provides two different components: an MQTT server for handling all the MQTT communication and messages exchanges with clients and an MQTT client for sending and receiving messages against an MQTT broker.
+    *   [RabbitMQ (⭐73)](https://github.com/vert-x3/vertx-rabbitmq-client) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - A RabbitMQ client (AMQP 0.9.1).
+    *   [Kafka Client (⭐84)](https://github.com/vert-x3/vertx-kafka-client) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - A Kafka client.
     *   [kafka (⭐30)](https://github.com/cyngn/vertx-kafka) - Kafka client for consuming and producing messages.
-    *   [SaltStack (⭐1)](https://github.com/cinterloper/vertx-salt) - A bi-directional bridge between the SaltStack event system and the Vert.x event bus.
-    *   [STOMP (⭐29)](https://github.com/vert-x3/vertx-stomp) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - A Kafka client and server.
+    *   [SaltStack (⭐2)](https://github.com/cinterloper/vertx-salt) - A bi-directional bridge between the SaltStack event system and the Vert.x event bus.
+    *   [STOMP (⭐31)](https://github.com/vert-x3/vertx-stomp) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - A Kafka client and server.
     *   [ZeroMQ (⭐12)](https://github.com/dano/vertx-zeromq) - ZeroMQ Event Bus bridge.
-    *   [Azure ServiceBus (⭐0)](https://github.com/TextBack/vertx-azure-servicebus) - Azure [ServiceBus](https://azure.microsoft.com/en-us/services/service-bus/) producer and consumer (fully async, doesn't use Microsoft Azure SDK).
-    *   [AMQP 1.0 - Kafka bridge (⭐248)](https://github.com/rhiot/amqp-kafka-bridge) - Bridge for sending/receiving messages to/from Apache Kafka using the AMQP 1.0 protocol.
-    *   [Vert.x Kafka Client (⭐79)](https://github.com/vert-x3/vertx-kafka-client) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Apache Kafka client for reading and sending messages from/to an Apache Kafka cluster.
-    *   [The White Rabbit (⭐93)](https://github.com/viartemev/the-white-rabbit) - An asynchronous RabbitMQ (AMQP) client based on Kotlin coroutines.
+    *   [Azure ServiceBus (⭐0)](https://github.com/TextBack/vertx-azure-servicebus) - Azure [ServiceBus](https://azure.microsoft.com/en-us/products/service-bus/) producer and consumer (fully async, doesn't use Microsoft Azure SDK).
+    *   [AMQP 1.0 - Kafka bridge (⭐291)](https://github.com/rhiot/amqp-kafka-bridge) - Bridge for sending/receiving messages to/from Apache Kafka using the AMQP 1.0 protocol.
+    *   [Vert.x Kafka Client (⭐84)](https://github.com/vert-x3/vertx-kafka-client) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Apache Kafka client for reading and sending messages from/to an Apache Kafka cluster.
+    *   [The White Rabbit (⭐116)](https://github.com/viartemev/the-white-rabbit) - An asynchronous RabbitMQ (AMQP) client based on Kotlin coroutines.
     *   [WAMP Broker (⭐2)](https://github.com/i22-digitalagentur/vertx-wamp) - A WAMP broker you can embed into your Vert.x application.
 
 ## [5. Awesome Charting](/content/zingchart/awesome-charting/README.md)
@@ -150,30 +150,29 @@
 
 ### Tools / Development tools
 
-*   [gbdk-lib-extension (⭐11)](https://github.com/ProGM/gbdk-lib-extension) - A small set of sources and tools for the Game Boy Development Kit by Michael Hope.
-*   [Dot Matrix Game Editor](http://www.dotmatrixgame.com/) - An IDE for Game Boy programming in a C-like language called GBL, with many other features like tile and map extraction, WLA-DX assembly, and more.
-*   [mgbdis (⭐221)](https://github.com/mattcurrie/mgbdis) - Game Boy ROM disassembler with RGBDS compatible output.
+*   [gbdk-lib-extension (⭐12)](https://github.com/ProGM/gbdk-lib-extension) - A small set of sources and tools for the Game Boy Development Kit by Michael Hope.
+*   [mgbdis (⭐258)](https://github.com/mattcurrie/mgbdis) - Game Boy ROM disassembler with RGBDS compatible output.
 *   [ROM Header Utility](http://catskull.net/GB-Logo-Generator/) - An online tool to inspect and modify a ROM's header data, including the logo.
-*   [romusage (⭐41)](https://github.com/bbbbbr/romusage) - Command line tool for estimating usage (free space) of Game Boy ROMs from a .map, .noi or ihx file. Works with GBDK-2020 and RGBDS.
-*   [awake (⭐60)](https://github.com/devdri/awake) - Game Boy decompiler.
-*   [Game Boy Text Tools (⭐9)](https://github.com/raphaklaus/gameboy-text-tools) - Set of tools for text manipulation and translation of Game Boy ROMs written in Node.js.
+*   [romusage (⭐47)](https://github.com/bbbbbr/romusage) - Command line tool for estimating usage (free space) of Game Boy ROMs from a .map, .noi or ihx file. Works with GBDK-2020 and RGBDS.
+*   [awake (⭐68)](https://github.com/devdri/awake) - Game Boy decompiler.
+*   [Game Boy Text Tools (⭐10)](https://github.com/raphaklaus/gameboy-text-tools) - Set of tools for text manipulation and translation of Game Boy ROMs written in Node.js.
 
 ### Tools / Graphics utilities
 
 *   [Harry Mulder's GB Development](http://www.devrs.com/gb/hmgd/intro.html) - Some sources and home of Game Boy Tile Designer (GBTD) and Game Boy Map Builder (GBMB) tools.
-*   [Tilemap Studio (⭐336)](https://github.com/Rangi42/tilemap-studio) - A tilemap editor for Game Boy, Color, Advance, and SNES projects. Written in C++ with FLTK.
+*   [Tilemap Studio (⭐399)](https://github.com/Rangi42/tilemap-studio) - A tilemap editor for Game Boy, Color, Advance, and SNES projects. Written in C++ with FLTK.
 
 ### Tools / Hardware and ROM utilities
 
-*   [cart-dumper (⭐37)](https://github.com/Palmr/cart-dumper) - Game Boy Cartridge Dumper ROM.
+*   [cart-dumper (⭐41)](https://github.com/Palmr/cart-dumper) - Game Boy Cartridge Dumper ROM.
 *   [gbcamextract (⭐47)](https://github.com/jkbenaim/gbcamextract) - Extracts photos from Game Boy Camera saves.
-*   [Game Boy LCD sniffing (⭐162)](https://github.com/svendahlstrand/game-boy-lcd-sniffing) - Sniff your Game Boy's LCD using a logic analyzer.
+*   [Game Boy LCD sniffing (⭐170)](https://github.com/svendahlstrand/game-boy-lcd-sniffing) - Sniff your Game Boy's LCD using a logic analyzer.
 *   [swapdump (⭐2)](https://github.com/sanqui/swapdump) - Diagnostic utility for Game Boy flashcarts.
-*   [Gameboy-LinkUp (⭐9)](https://github.com/JustinLloyd/Gameboy-LinkUp) - Game Boy LinkUp serial cable networking project.
+*   [Gameboy-LinkUp (⭐0)](https://github.com/JustinLloyd/Gameboy-LinkUp) - Game Boy LinkUp serial cable networking project.
 
 ### C / Syntax highlighting packages
 
-*   [Petris (⭐28)](https://github.com/bbbbbr/Petris) - A puzzle game of shapely pets for the Game Boy Color ([itch.io](https://bbbbbr.itch.io/petris)).
+*   [Petris (⭐33)](https://github.com/bbbbbr/Petris) - A puzzle game of shapely pets for the Game Boy Color ([itch.io](https://bbbbbr.itch.io/petris)).
 
 ## [8. Awesome Msr](/content/dspinellis/awesome-msr/README.md)
 
@@ -189,7 +188,7 @@
 
 *   [Ford Dataset](https://avdata.ford.com/) - The dataset is time-stamped and contains raw data from all the sensors, calibration values, pose trajectory, ground truth pose, and 3D maps. The data is Robot Operating System (ROS) compatible.
     *   [Paper ![](https://img.shields.io/badge/paper-blue?style=flat-square\&logo=semanticscholar)](https://arxiv.org/pdf/2003.07969.pdf)
-    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐290)](https://github.com/Ford/AVData)
+    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐296)](https://github.com/Ford/AVData)
 *   [Oxford RobotCar](https://robotcar-dataset.robots.ox.ac.uk/) - The Oxford RobotCar Dataset contains over 100 repetitions of a consistent route through Oxford, UK, captured over a period of over a year.
     *   [YouTube channel ![](https://img.shields.io/badge/youtube-red?style=flat-square\&logo=youtube)](https://www.youtube.com/c/ORIOxfordRoboticsInstitute)
     *   [Paper ![](https://img.shields.io/badge/paper-blue?style=flat-square\&logo=semanticscholar)](https://robotcar-dataset.robots.ox.ac.uk/images/RCD_RTK.pdf)
@@ -198,20 +197,19 @@
 
 ### Studies
 
-*   [SvelteScaling](https://svelte-scaling.acmion.com/) - Does Svelte Scale?
-*   [Will it Scale? (⭐172)](https://github.com/halfnelson/svelte-it-will-scale) - Finding Svelte's inflection point.
+*   [SvelteScaling](https://svelte-scaling.acmion.com/) - Does Svelte Scale? *(pre-v5)*
+*   [Will it Scale? (⭐174)](https://github.com/halfnelson/svelte-it-will-scale) - Finding Svelte's inflection point. *(pre-v5)*
 
-### Scaffold / Checkbox
+### Scaffold
 
-*   [component-template (⭐554)](https://github.com/sveltejs/component-template) - A base for building shareable components.
-*   [svelte-pwa-template (⭐220)](https://github.com/tretapey/svelte-pwa) - A starter template for PWAs based in the official Template.
+*   [svelte-pwa-template (⭐221)](https://github.com/tretapey/svelte-pwa) - A starter template for PWAs based in the official Template. *(pre-v5)*
 
 ## [11. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / Games
 
-*   [Sudoku (⭐83)](https://github.com/VarunS2002/Flutter-Sudoku) - Sudoku Game built by [VarunS2002](https://github.com/VarunS2002/).
-*   [Truth or Dare (⭐46)](https://github.com/ITCraftship/truth-or-dare) - a Truth or Dare party game build with [Codemagic](https://codemagic.io/) and [Fastlane](https://fastlane.tools/) by [ITCraftship](https://github.com/ITCraftship).
+*   [Sudoku (⭐88)](https://github.com/VarunS2002/Flutter-Sudoku) - Sudoku Game built by [VarunS2002](https://github.com/VarunS2002/).
+*   [Truth or Dare (⭐49)](https://github.com/ITCraftship/truth-or-dare) - a Truth or Dare party game build with [Codemagic](https://codemagic.io/) and [Fastlane](https://fastlane.tools/) by [ITCraftship](https://github.com/ITCraftship).
 
 ---
 

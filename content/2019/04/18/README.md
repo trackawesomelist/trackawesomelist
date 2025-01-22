@@ -10,13 +10,13 @@
 
 ### Testing / Misc
 
-*   [Mealybug Tearoom Tests (⭐53)](https://github.com/mattcurrie/mealybug-tearoom-tests)
+*   [Mealybug Tearoom Tests (⭐59)](https://github.com/mattcurrie/mealybug-tearoom-tests)
 
 ## [2. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / General-Purpose Machine Learning
 
-*   [numpy-ML (⭐15k)](https://github.com/ddbourgin/numpy-ml): Reference implementations of ML models written in numpy
+*   [numpy-ML (⭐16k)](https://github.com/ddbourgin/numpy-ml): Reference implementations of ML models written in numpy
 
 ## [3. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
@@ -26,7 +26,7 @@
 *   [Blazor-Dev gallery on .NET Foundation](https://dotnet.myget.org/gallery/blazor-dev) - Daily builds of the 'dev' branch of Blazor.
 *   [Blazor Extensions](https://github.com/BlazorExtensions) - Curated extensions for Microsoft ASP.Net Core Blazor.
 *   [FAQ (⭐9.3k)](https://github.com/aspnet/Blazor/wiki/FAQ) - FAQ.
-*   ['Hello World' sample (⭐9.1k)](https://github.com/dodyg/practical-aspnetcore/tree/master/projects/blazor) - 'Hello World' sample.
+*   ['Hello World' sample (⭐9.6k)](https://github.com/dodyg/practical-aspnetcore/tree/master/projects/blazor) - 'Hello World' sample.
 
 ### Tooling / Others
 
@@ -46,8 +46,8 @@
 *   [Awesome Blazor on Twitter](https://twitter.com/awesomeblazor) - This repository's Twitter feed.
 *   [Gitter](https://gitter.im/aspnet/Blazor) - Blazor discussion on Gitter.
 *   [Learn Blazor](https://learn-blazor.com/) - Community documentation on Blazor.
-*   [Practical samples of Blazor (⭐9.1k)](https://github.com/dodyg/practical-aspnetcore/tree/master/projects/blazor) - Practical samples of Blazor.
-*   [Practical samples of Blazor Server-Side (⭐9.1k)](https://github.com/dodyg/practical-aspnetcore/tree/master/projects/blazor-ss) - Practical samples of Blazor Server-Side.
+*   [Practical samples of Blazor (⭐9.6k)](https://github.com/dodyg/practical-aspnetcore/tree/master/projects/blazor) - Practical samples of Blazor.
+*   [Practical samples of Blazor Server-Side (⭐9.6k)](https://github.com/dodyg/practical-aspnetcore/tree/master/projects/blazor-ss) - Practical samples of Blazor Server-Side.
 *   [Stack Overflow](https://stackoverflow.com/questions/tagged/blazor) - Blazor questions feed on Stack Overflow.
 *   [Twitter](https://twitter.com/hashtag/blazor) - Hashtag on Twitter.
 *   [WebAssemblyMan](https://www.webassemblyman.com/) - Man page for Blazor and WebAssembly.

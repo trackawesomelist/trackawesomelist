@@ -241,7 +241,7 @@
 
 ### Datasets / Realtime
 
-*   [Eventsim (⭐489)](https://github.com/Interana/eventsim) - Event data simulator. Generates a stream of pseudo-random events from a set of users, designed to simulate web traffic.
+*   [Eventsim (⭐501)](https://github.com/Interana/eventsim) - Event data simulator. Generates a stream of pseudo-random events from a set of users, designed to simulate web traffic.
 
 ## [5. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
 
@@ -278,7 +278,7 @@ This is a great introduction to several aspects of R programming. Loading data i
 
 ### Templates / Misc
 
-*   [Grunt Email Boilerplate (⭐287)](https://github.com/dwightjack/grunt-email-boilerplate) - A Grunt template to create emails.
+*   [Grunt Email Boilerplate (⭐285)](https://github.com/dwightjack/grunt-email-boilerplate) - A Grunt template to create emails.
 *   [Responsive Email Patterns](http://responsiveemailpatterns.com/) - A collection of patterns & modules for responsive emails.
 
 ### Articles / Misc
@@ -325,7 +325,7 @@ This is a great introduction to several aspects of R programming. Loading data i
 
 ### Debug
 
-*   [UnitTest++ (⭐551)](https://github.com/unittest-cpp/unittest-cpp) - A lightweight unit testing framework for C++. \[MIT/X Consortium license]
+*   [UnitTest++ (⭐559)](https://github.com/unittest-cpp/unittest-cpp) - A lightweight unit testing framework for C++. \[MIT/X Consortium license]
 
 ## [10. Tips](/content/git-tips/tips/week/README.md)
 
@@ -460,7 +460,7 @@ git subtree pull --prefix=<directory_name>/<project_name> --squash git@github.co
 ### HTML Widgets
 
 *   [networkD3](http://christophergandrud.github.io/networkD3/) - D3 JavaScript Network Graphs from R.
-*   [threejs (⭐295)](https://github.com/bwlewis/rthreejs) - Interactive 3D scatter plots and globes.
+*   [threejs (⭐303)](https://github.com/bwlewis/rthreejs) - Interactive 3D scatter plots and globes.
 
 ### Reproducible Research
 
@@ -473,11 +473,11 @@ git subtree pull --prefix=<directory_name>/<project_name> --squash git@github.co
 ### Language API
 
 *   [RinRuby](https://sites.google.com/a/ddahl.org/rinruby-users/) - a Ruby library that integrates the R interpreter in Ruby.
-*   [RcppOctave (⭐17)](https://github.com/renozao/RcppOctave) - Seamless Interface to Octave and Matlab.
+*   [RcppOctave (⭐18)](https://github.com/renozao/RcppOctave) - Seamless Interface to Octave and Matlab.
 
 ### Database Management
 
-*   [RHive (⭐123)](https://github.com/nexr/RHive) - R extension facilitating distributed computing via Apache Hive.
+*   [RHive (⭐122)](https://github.com/nexr/RHive) - R extension facilitating distributed computing via Apache Hive.
 
 ### Natural Language Processing
 
@@ -577,7 +577,7 @@ git subtree pull --prefix=<directory_name>/<project_name> --squash git@github.co
 
 ### GTFS Data Collection and Maintenance Tools / Ruby
 
-*   [bus-router (⭐34)](https://github.com/atlregional/bus-router) - Python script that generates missing shapes.txt for GTFS using routing from [Google Maps Directions API](https://developers.google.com/maps/documentation/directions/) or [OSRM (⭐6.2k)](https://github.com/Project-OSRM/osrm-backend/wiki/Server-api).
+*   [bus-router (⭐38)](https://github.com/atlregional/bus-router) - Python script that generates missing shapes.txt for GTFS using routing from [Google Maps Directions API](https://developers.google.com/maps/documentation/directions/) or [OSRM (⭐6.5k)](https://github.com/Project-OSRM/osrm-backend/wiki/Server-api).
 
 ## [23. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
@@ -695,7 +695,6 @@ git subtree pull --prefix=<directory_name>/<project_name> --squash git@github.co
 ### Geometry and Topology / Differential Geometry
 
 *   📝 [Introduction to Differential Geometry](https://people.math.ethz.ch/~salamon/PREPRINTS/diffgeo.pdf) - Joel W. Robbin, Dietmar A. Salamon
-*   📝 [Notes on Differential Geometry and Lie Groups](http://www.seas.upenn.edu/~jean/diffgeom.pdf) - Jean Gallier (University of Pennsylvania)
 *   📝 [Topics in Differential Geometry](http://www.mat.univie.ac.at/~michor/dgbook.pdf) - Peter W. Michor
 *   📝 [Lectures on Differential Geometry](http://mysite.science.uottawa.ca/rossmann/Differential%20Geometry%20book_files/Diffgeo.pdf) - Wulf Rossmann
 *   📝 [An Introduction to Riemannian Geometry](http://www.matematik.lu.se/matematiklu/personal/sigma/Riemann.pdf) - Sigmundur Gudmundsson (Lund University)
@@ -874,7 +873,7 @@ git subtree pull --prefix=<directory_name>/<project_name> --squash git@github.co
 
 ### Algorithms and Data structures
 
-*   [bitmap (⭐35)](https://github.com/hashd/bitmap-elixir) - Pure Elixir implementation of [bitmaps](https://en.wikipedia.org/wiki/Bitmap).
+*   [bitmap (⭐36)](https://github.com/hashd/bitmap-elixir) - Pure Elixir implementation of [bitmaps](https://en.wikipedia.org/wiki/Bitmap).
 *   [tfidf (⭐17)](https://github.com/OCannings/tf-idf) - An Elixir implementation of term frequency–inverse document frequency.
 
 ### Office
@@ -883,7 +882,7 @@ git subtree pull --prefix=<directory_name>/<project_name> --squash git@github.co
 
 ### Text and Numbers
 
-*   [money (⭐822)](https://github.com/liuggio/money) - Working with Money safer, easier, and fun, interpretation of the Fowler's Money pattern.
+*   [money (⭐834)](https://github.com/liuggio/money) - Working with Money safer, easier, and fun, interpretation of the Fowler's Money pattern.
 
 ## [28. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/week/README.md)
 

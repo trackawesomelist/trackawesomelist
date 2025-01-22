@@ -90,7 +90,7 @@ Topics: Standards, Web Assembly\
 
 ### Swift programming / iOS
 
-*   [SwiftyGPIO (⭐1.3k)](https://github.com/uraimo/SwiftyGPIO) - Swift library for hardware projects on Linux/ARM boards with support for GPIOs/SPI/I2C/PWM/UART/1Wire.
+*   [SwiftyGPIO (⭐1.4k)](https://github.com/uraimo/SwiftyGPIO) - Swift library for hardware projects on Linux/ARM boards with support for GPIOs/SPI/I2C/PWM/UART/1Wire.
 
 ## [9. Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md)
 

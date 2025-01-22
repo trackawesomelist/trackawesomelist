@@ -54,7 +54,7 @@ git clean -fd --dry-run
 
 ### Packages / Job queues
 
-*   [bull (⭐15k)](https://github.com/OptimalBits/bull) - Persistent job and message queue.
+*   [bull (⭐16k)](https://github.com/OptimalBits/bull) - Persistent job and message queue.
 
 ## [6. Awesome Fuse](/content/fuse-compound/awesome-fuse/README.md)
 

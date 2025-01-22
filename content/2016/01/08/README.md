@@ -20,7 +20,7 @@
 
 ### Image Processing
 
-*   [DotImaging (⭐314)](https://github.com/dajuric/dot-imaging) - Minimalistic .NET imaging portable platform
+*   [DotImaging (⭐313)](https://github.com/dajuric/dot-imaging) - Minimalistic .NET imaging portable platform
 
 ## [3. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
@@ -32,7 +32,7 @@
 
 ### Books
 
-*   [A gentle introduction to ROS](https://cse.sc.edu/\~jokane/agitr/agitr-letter.pdf)
+*   [A gentle introduction to ROS](https://cse.sc.edu/~jokane/agitr/agitr-letter.pdf)
 
 ## [5. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

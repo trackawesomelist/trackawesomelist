@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 13, 2017
 
-8 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -35,19 +35,13 @@
 
 *   [99 Inbound](https://www.99inbound.com) - Form endpoint service with email/Slack notifications and third party app integrations (e.g. MailChimp)
 
-## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Projects Using Vue.js / Open Source
-
-*   [My Animation List (⭐78)](https://github.com/limichange/my-animation-list) - A tool to easy get css animation code
-
-## [5. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
+## [4. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
 ### Time-Series Databases
 
 *   [Axibase Time Series Database](http://axibase.com/products/axibase-time-series-database/) - Integrated time series database on top of HBase with built-in visualization, rule-engine and SQL support.
 
-## [6. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
+## [5. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
 
 ### Philosophy And Psychology
 
@@ -142,13 +136,13 @@
 
 
 
-## [7. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [6. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Animation
 
-*   [ViewAnimator (⭐7.2k)](https://github.com/marcosgriselli/ViewAnimator) - Brings your UI to life with just one line.
+*   [ViewAnimator (⭐7.3k)](https://github.com/marcosgriselli/ViewAnimator) - Brings your UI to life with just one line.
 
-## [8. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
+## [7. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Resources / Tools
 

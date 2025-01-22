@@ -35,6 +35,8 @@
 ### Miscellaneous
 
 *   [McCLIM](https://common-lisp.net/project/mcclim/) - An implementation of the Common Lisp Interface Manager, version II. [GNU LGPL2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html).
+    *   example project: a Lem editor CLIM interface: [discussion (⭐2.5k)](https://github.com/lem-project/lem/discussions/1311#discussioncomment-10203860), [screenshot](https://framapiaf.org/@frescosecco@mastodon.social/112909105163460836).
+    *   [Anathema](https://codeberg.org/contrapunctus/anathema), a theme library for McCLIM applications. Unlicense.
 
 ## [6. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 

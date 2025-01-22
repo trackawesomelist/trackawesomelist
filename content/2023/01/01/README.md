@@ -34,7 +34,7 @@
 ### Resources / Miscellaneous
 
 *   [NeuroHackademy](https://neurohackademy.org/course_type/lectures/) - Summer school in neuroimaging and data science, held at the University of Washington eScience Institute. Lectures are available through the institute's [YouTube channel](https://www.youtube.com/@UWeScienceInstitute).
-*   [SORTED (⭐1)](https://github.com/PTDZ/SORTED) - SORTED: a list of interesting science ideas and links (cognitive/neuro & data science)
+*   [SORTED (⭐13)](https://github.com/PTDZ/SORTED) - SORTED: a list of interesting science ideas and links (cognitive/neuro & data science)
 
 ## [3. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/README.md)
 
@@ -44,7 +44,7 @@
 
 ## [4. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
-### Plugins and scripts / Various Godot versions
+### Plugins and scripts / Godot version unknown
 
 *   [Godot Recipes](https://kidscancode.org/godot_recipes/3.x/) - A large collection of tutorials and techniques, both big and small.
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 20 - Nov 26, 2023
 
-33 awesome lists updated this week.
+31 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,13 +10,13 @@
 
 ### Frameworks / Apache License
 
-*   [adamant (⭐32)](https://github.com/lasp/adamant) - A component-based, model-driven framework for constructing reliable and reusable real-time software.
+*   [adamant (⭐34)](https://github.com/lasp/adamant) - A component-based, model-driven framework for constructing reliable and reusable real-time software.
 
 ## [2. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Tools
 
-*   [typesafegithub/github-workflows-kt (⭐505)](https://github.com/typesafegithub/github-workflows-kt) - Authoring GitHub Actions workflows in Kotlin. You won't go back to YAML!
+*   [typesafegithub/github-workflows-kt (⭐552)](https://github.com/typesafegithub/github-workflows-kt) - Authoring GitHub Actions workflows in Kotlin. You won't go back to YAML!
 
 ## [3. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
@@ -34,7 +34,7 @@
 
 ### System interface / Third-party APIs
 
-*   [machine-state (⭐13)](https://github.com/Shinmera/machine-state/) -  Retrieve machine state information about CPU time, memory usage, thread processing time, etc.
+*   [machine-state (⭐18)](https://github.com/Shinmera/machine-state/) -  Retrieve machine state information about CPU time, memory usage, thread processing time, etc.
 
 ## [6. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
 
@@ -62,26 +62,26 @@
 
 ### Serial Port
 
-*   [Libserial (⭐397)](https://github.com/crayzeewulf/libserial) - Serial Port Programming in C++. \[BSD-3-Clause]
+*   [Libserial (⭐432)](https://github.com/crayzeewulf/libserial) - Serial Port Programming in C++. \[BSD-3-Clause]
 
 ### Miscellaneous
 
-*   [Jinja2С++ (⭐490)](https://github.com/jinja2cpp/Jinja2Cpp) - almost full-conformance template engine implementation. [website](https://jinja2cpp.github.io/)
-*   [scnlib (⭐1k)](https://github.com/eliaskosunen/scnlib) - scanf for modern C++. \[Apache-2.0] [website](https://v1.scnlib.dev/)
+*   [Jinja2С++ (⭐516)](https://github.com/jinja2cpp/Jinja2Cpp) - almost full-conformance template engine implementation. [website](https://jinja2cpp.github.io/)
+*   [scnlib (⭐1.1k)](https://github.com/eliaskosunen/scnlib) - scanf for modern C++. \[Apache-2.0] [website](https://v1.scnlib.dev/)
 
 ## [9. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Translation Tools / Audio Record and Process
 
-*   [Easydict (⭐6.8k)](https://github.com/tisfeng/Easydict) - Easy to look up words or translate text [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/tisfeng/Easydict)
+*   [Easydict (⭐8k)](https://github.com/tisfeng/Easydict) - Easy to look up words or translate text [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/tisfeng/Easydict)
 
 ## [10. Awesome K6](/content/grafana/awesome-k6/week/README.md)
 
 ### Related / Community
 
-*   [How They Load Test (⭐94)](https://github.com/aliesbelik/how-they-load) - A collection of resources on how companies around the world perform load testing.
-*   [Load Testing Toolkit (⭐158)](https://github.com/aliesbelik/load-testing-toolkit) - A collection of open-source tools for debugging, benchmarking, load and stress testing your code or services.
-*   [awesome-http-benchmark (⭐3.3k)](https://github.com/denji/awesome-http-benchmark) - A collection of HTTP benchmark tools, testing/debugging, & restAPI (RESTful).
+*   [How They Load Test (⭐102)](https://github.com/aliesbelik/how-they-load) - A collection of resources on how companies around the world perform load testing.
+*   [Load Testing Toolkit (⭐167)](https://github.com/aliesbelik/load-testing-toolkit) - A collection of open-source tools for debugging, benchmarking, load and stress testing your code or services.
+*   [awesome-http-benchmark (⭐3.4k)](https://github.com/denji/awesome-http-benchmark) - A collection of HTTP benchmark tools, testing/debugging, & restAPI (RESTful).
 
 ## [11. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
 
@@ -91,25 +91,19 @@
 
 ### Tools / Utilities
 
-*   [Hamster (⭐14)](https://github.com/QAInsights/hamster) - Swiftly launch your JMeter test plans from Mac menubar.
+*   [Hamster (⭐15)](https://github.com/QAInsights/hamster) - Swiftly launch your JMeter test plans from Mac menubar.
 
-## [12. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
-
-### Projects / Messaging
-
-*   [Apache ActiveMQ (⭐2.2k) (⭐2.3k)](https://github.com/apache/activemq) - An open-source message broker that implements Java Message Service (JMS) and allows for synchronous to asynchronous communication conversion. Offers reliable messaging and supports multiple protocols and messaging styles.
-
-## [13. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [12. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Communication - Email - Mail Transfer Agents
 
-*   [OpenTrashmail (⭐597)](https://github.com/HaschekSolutions/opentrashmail) - Complete trashmail solution that exposes an SMTP server and has a web interface to manage received emails. Works with multiple and wildcard domains and is fully file based (no database needed). Includes RSS feeds and JSON API. `Apache-2.0` `Python/PHP/Docker`
+*   [OpenTrashmail (⭐657)](https://github.com/HaschekSolutions/opentrashmail) - Complete trashmail solution that exposes an SMTP server and has a web interface to manage received emails. Works with multiple and wildcard domains and is fully file based (no database needed). Includes RSS feeds and JSON API. `Apache-2.0` `Python/PHP/Docker`
 
 ### Software / Groupware
 
 *   [Digiwall](https://digiwall.app/) - Create multimedia collaborative walls for in-person or remote work (documentation in French). ([Source Code](https://codeberg.org/ladigitale/digiwall)) `AGPL-3.0` `Nodejs`
 
-## [14. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [13. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -118,58 +112,48 @@
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [achab (⭐2)](https://github.com/niotna/antoinechab-theme) - Includes decorators for the current folder path, the current user and the current `git` branch. Decorator colors are easily customizable.
+*   [achab (⭐3)](https://github.com/niotna/antoinechab-theme) - Includes decorators for the current folder path, the current user and the current `git` branch. Decorator colors are easily customizable.
 *   [htb (⭐1)](https://github.com/ibyf0r3ns1cs/zsh-htb-theme) - Inspired by the pwnbox on a HackTheBox machine. Includes decorators for user\@host, IP address and the current directory.
 *   [ruweird (⭐0)](https://github.com/ruweird/ruweird.zsh-theme) - Minimalist. Has decorators for `git` status and current directory. Shows an umbrella with raindrops and exit code of the last command if non-zero.
 *   [s1ck3r (⭐1)](https://github.com/pseifer/s1ck3r) - Sleek, transient and space-efficient. Includes decorators for `vi`-mode, elevated permissions, last command exit status, if background jobs are running, working directory and `git` status,
 *   [velvet (⭐0)](https://github.com/dor133/velvet-zsh-theme) - Includes decorators for `git` status, username, current directory, exit status of last command, and the time.
 
-## [15. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
+## [14. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
 
 ### Algorithms & Data Structures
 
 *   [The Algorithms](https://the-algorithms.com)
 
-## [16. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
+## [15. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
 
 ### Testing / Data Profiler
 
-*   [Grai (⭐283)](https://github.com/grai-io/grai-core/) - A data catalog tool that integrates into your CI system exposing downstream impact testing of data changes. These tests prevent data changes which might break data pipelines or BI dashboards from making it to production.
+*   [Grai (⭐292)](https://github.com/grai-io/grai-core/) - A data catalog tool that integrates into your CI system exposing downstream impact testing of data changes. These tests prevent data changes which might break data pipelines or BI dashboards from making it to production.
 
-## [17. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/week/README.md)
-
-### **Semantic Kernel** / **Semantic Kernel Planner**
-
-*   Gen-4 and Gen-5 planners: 1. Gen-4: Generate multi-step plans with the [Handlebars](https://handlebarsjs.com/) 2. Gen-5: Stepwise Planner supports Function Calling. [ref](https://devblogs.microsoft.com/semantic-kernel/semantic-kernels-ignite-release-beta8-for-the-net-sdk/) \[16 Nov 2023]
-
-### **LangChain Feature Matrix & Cheetsheet** / DSPy optimizer
-
-*   [LangChain Tutorial](https://nanonets.com/blog/langchain/): A Complete LangChain Guide
-
-## [18. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [16. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Resources / Blog posts
 
 *   [Working with DateTime data in Polars](https://medium.com/@riellygriffiths/working-with-datetime-data-in-polars-9bb57e7f6304) - A blog post to helps you with the main operations that can be done with datetime data by [Rielly Griffiths](https://medium.com/@riellygriffiths).
 *   [Revolutionize Your Data Analysis: Polars Outperforms Pandas by Up to 5x in Numerical Filter Operations!](https://medium.com/@riellygriffiths/working-with-datetime-data-in-polars-9bb57e7f6304) - A blog post that compares Polars with Pandas by examining their performance in the real world by [Daniel Builescu](https://medium.com/@danielbuilescu).
 
-## [19. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
+## [17. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
-### Online services
+### Online services (a-z↓)
 
-*   [Testomat.io Reporter (⭐113)](https://github.com/testomatio/reporter) - Allows to collect tests to a Test Case Management System (TCMS) like testomat.io and sync manual and automated tests in one place.
+*   [Testomat.io Reporter (⭐132)](https://github.com/testomatio/reporter) - Allows to collect tests to a Test Case Management System (TCMS) like testomat.io and sync manual and automated tests in one place.
 
-## [20. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [18. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Misc
 
-*   [MemberwiseInit (⭐97)](https://github.com/gohanlon/swift-memberwise-init-macro) - `@MemberwiseInit` is a Swift Macro that can more often provide your intended `init`, while following the same safe-by-default semantics of Swift’s memberwise initializers.
+*   [MemberwiseInit (⭐122)](https://github.com/gohanlon/swift-memberwise-init-macro) - `@MemberwiseInit` is a Swift Macro that can more often provide your intended `init`, while following the same safe-by-default semantics of Swift’s memberwise initializers.
 
 ### Alert / Barcode
 
-*   [FullscreenPopup (⭐31)](https://github.com/Ryu0118/swift-fullscreen-popup) - Present any popup above NavigationBar in SwiftUI
+*   [FullscreenPopup (⭐35)](https://github.com/Ryu0118/swift-fullscreen-popup) - Present any popup above NavigationBar in SwiftUI
 
-## [21. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [19. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Prompt Engineering
 
@@ -206,13 +190,13 @@
 
 *   [(1166) A Hackers' Guide to Language Models - YouTube](https://www.youtube.com/watch?v=jkrNMKz9pWU\&t=21s)
 
-## [22. Awesome Speaking](/content/matteofigus/awesome-speaking/week/README.md)
+## [20. Awesome Speaking](/content/matteofigus/awesome-speaking/week/README.md)
 
 ### Videos
 
 *   [KubeCon + CloudNativeCon 2020 Keynote: Hiding in the Dark](https://www.youtube.com/watch?v=zSdqHxvB0s4) - by **Dan Kohn** \[07:51]
 
-## [23. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/week/README.md)
+## [21. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/week/README.md)
 
 ### Papers / ACM Conference on Computer and Communications Security (ACM CCS)
 
@@ -253,7 +237,7 @@
 
 *   [Squirrel (⭐166)](https://github.com/s3team/Squirrel) - Squirrel is a fuzzer for database managment systems (DBMSs).
 
-## [24. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [22. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Tunneling, WebRTC, Web Socket Servers and Other Routers
 
@@ -264,97 +248,93 @@
 *   [Wave Terminal](https://waveterm.dev/) - Wave is an open-source, cross-platform terminal for seamless workflows. Render anything inline. Save sessions and history. Powered by open web standards. MacOS and Linux.
 *   [WebDB](https://webdb.app) - Free Efficient Database IDE. Featuring Server Discovery, ERD, Data Generator, AI, NoSQL Structure Manager, Database Versioning and many more.
 
-## [25. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [23. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-public-typescript (⭐11)](https://github.com/hemengke1997/vite-plugin-public-typescript) - Inject Typescript into `index.html`.
+*   [vite-plugin-public-typescript (⭐12)](https://github.com/hemengke1997/vite-plugin-public-typescript) - Inject Typescript into `index.html`.
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-bundle-analyzer (⭐126)](https://github.com/nonzzz/vite-bundle-analyzer) - Utility that represents bundles as an interactive treemap.
-*   [vite-font-extractor-plugin (⭐4)](https://github.com/a3mitskevich/vite-font-extractor-plugin) - Utility that minification bundle fonts by glyphs.
-*   [vite-plugin-i18n-detector (⭐9)](https://github.com/hemengke1997/vite-plugin-i18n-detector) - Lazyload i18n locale resources.
+*   [vite-bundle-analyzer (⭐196)](https://github.com/nonzzz/vite-bundle-analyzer) - Utility that represents bundles as an interactive treemap.
+*   [vite-font-extractor-plugin (⭐6)](https://github.com/a3mitskevich/vite-font-extractor-plugin) - Utility that minification bundle fonts by glyphs.
+*   [vite-plugin-i18n-detector (⭐12)](https://github.com/hemengke1997/vite-plugin-i18n-detector) - Lazyload i18n locale resources.
 
 ### React / Community
 
-*   [Viject (⭐119)](https://github.com/bhbs/viject) - One-shot migration tool from Create React App.
+*   [Viject (⭐145)](https://github.com/bhbs/viject) - One-shot migration tool from Create React App.
 
-## [26. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
-
-### Completion / Diagnostics
-
-*   [nvimdev/epo.nvim (⭐131)](https://github.com/nvimdev/epo.nvim) - Blazingly fast, minimal LSP auto-completion and snippet engine.
+## [24. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### AI / Diagnostics
 
-*   [jpmcb/nvim-llama (⭐241)](https://github.com/jpmcb/nvim-llama) - LLM (Llama 2 and llama.cpp) wrappers.
-*   [David-Kunz/gen.nvim (⭐1.1k)](https://github.com/David-Kunz/gen.nvim) - Generate text using LLMs (via Ollama) with customizable prompts.
-
-### Markdown and LaTeX / Diagnostics
-
-*   [ellisonleao/dotenv.nvim (⭐35)](https://github.com/ellisonleao/dotenv.nvim) - Minimalist .env support.
+*   [jpmcb/nvim-llama (⭐264)](https://github.com/jpmcb/nvim-llama) - LLM (Llama 2 and llama.cpp) wrappers.
+*   [David-Kunz/gen.nvim (⭐1.3k)](https://github.com/David-Kunz/gen.nvim) - Generate text using LLMs (via Ollama) with customizable prompts.
 
 ### Syntax / Diagnostics
 
-*   [IndianBoy42/tree-sitter-just (⭐138)](https://github.com/IndianBoy42/tree-sitter-just) - Treesitter grammar for [Justfiles (⭐19k)](https://github.com/casey/just).
+*   [IndianBoy42/tree-sitter-just (⭐153)](https://github.com/IndianBoy42/tree-sitter-just) - Tree-sitter grammar for [Justfiles (⭐23k)](https://github.com/casey/just).
 
 ### Snippet / Diagnostics
 
-*   [rafamadriz/friendly-snippets (⭐1.9k)](https://github.com/rafamadriz/friendly-snippets) - Set of preconfigured snippets for different languages.
-*   [cvigilv/esqueleto.nvim (⭐97)](https://github.com/cvigilv/esqueleto.nvim) - Simple templates to use when creating new files.
+*   [rafamadriz/friendly-snippets (⭐2.2k)](https://github.com/rafamadriz/friendly-snippets) - Set of preconfigured snippets for different languages.
+*   [cvigilv/esqueleto.nvim (⭐101)](https://github.com/cvigilv/esqueleto.nvim) - Simple templates to use when creating new files.
 
 ### Fuzzy Finder / Diagnostics
 
-*   [fdschmidt93/telescope-egrepify.nvim (⭐112)](https://github.com/fdschmidt93/telescope-egrepify.nvim) - Telescope plugin for better `rg` flags in `live_grep`.
+*   [fdschmidt93/telescope-egrepify.nvim (⭐132)](https://github.com/fdschmidt93/telescope-egrepify.nvim) - Telescope plugin for better `rg` flags in `live_grep`.
 
 ### Colorscheme Switchers / Diagnostics
 
-*   [linrongbin16/colorbox.nvim (⭐34)](https://github.com/linrongbin16/colorbox.nvim) - Load all the ultra colorschemes into your Neovim player!
+*   [linrongbin16/colorbox.nvim (⭐39)](https://github.com/linrongbin16/colorbox.nvim) - Load all the ultra colorschemes into your Neovim player!
+
+### Utility / Diagnostics
+
+*   [ellisonleao/dotenv.nvim (⭐43)](https://github.com/ellisonleao/dotenv.nvim) - Minimalist .env support.
 
 ### Debugging / Diagnostics
 
-*   [theHamsta/nvim-dap-virtual-text (⭐823)](https://github.com/theHamsta/nvim-dap-virtual-text) - Virtual text support for nvim-dap.
+*   [theHamsta/nvim-dap-virtual-text (⭐904)](https://github.com/theHamsta/nvim-dap-virtual-text) - Virtual text support for nvim-dap.
 
 ### Code Runner / Diagnostics
 
-*   [bfredl/nvim-ipy (⭐422)](https://github.com/bfredl/nvim-ipy) - Make interfacing with IPython/Jupyter easier.
+*   [bfredl/nvim-ipy (⭐426)](https://github.com/bfredl/nvim-ipy) - Make interfacing with IPython/Jupyter easier.
 
 ### Motion / Diagnostics
 
-*   [ggandor/flit.nvim (⭐364)](https://github.com/ggandor/flit.nvim) - Enhanced f/t motions for Leap.
+*   [ggandor/flit.nvim (⭐372)](https://github.com/ggandor/flit.nvim) - Enhanced f/t motions for Leap.
 *   [ggandor/leap-spooky.nvim (⭐277)](https://github.com/ggandor/leap-spooky.nvim) - Spooky (Leap) actions at a distance.
 
 ### Editing Support / Diagnostics
 
-*   [nat-418/boole.nvim (⭐159)](https://github.com/nat-418/boole.nvim) - Toggle booleans and common string values.
-*   [cshuaimin/ssr.nvim (⭐902)](https://github.com/cshuaimin/ssr.nvim) - Treesitter-based structural search and replace.
-*   [Jxstxs/conceal.nvim (⭐67)](https://github.com/Jxstxs/conceal.nvim) - Use Tree-sitter to conceal common boilerplate code.
+*   [nat-418/boole.nvim (⭐164)](https://github.com/nat-418/boole.nvim) - Toggle booleans and common string values.
+*   [cshuaimin/ssr.nvim (⭐957)](https://github.com/cshuaimin/ssr.nvim) - Tree-sitter based structural search and replace.
+*   [Jxstxs/conceal.nvim (⭐73)](https://github.com/Jxstxs/conceal.nvim) - Use Tree-sitter to conceal common boilerplate code.
 
 ### Formatting / Diagnostics
 
-*   [nvimdev/guard.nvim (⭐433)](https://github.com/nvimdev/guard.nvim) - Minimalist async formatting and linting plugin.
+*   [nvimdev/guard.nvim (⭐463)](https://github.com/nvimdev/guard.nvim) - Minimalist async formatting and linting plugin.
 
-## [27. Awesome Dotfiles](/content/webpro/awesome-dotfiles/week/README.md)
+## [25. Awesome Dotfiles](/content/webpro/awesome-dotfiles/week/README.md)
 
 ### Archive/abandoned projects / macOS
 
 *   [macOS Defaults (⭐1.3k)](https://github.com/kevinSuttle/macOS-Defaults)
 
-## [28. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
+## [26. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
 
 ### Resources / Community
 
 *   [Directus Extensions](https://directusextensions.com) - A searchable index of Directus extensions, themes, OSes, and more.
 
-## [29. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/week/README.md)
+## [27. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/week/README.md)
 
 ### Text / Developer tools
 
 *   [Portkey](https://portkey.ai/) - Full-stack LLMOps platform to monitor, manage, and improve LLM-based apps.
 *   [OpenAI Downtime Monitor](https://status.portkey.ai/) - Free tool that tracks API uptime and latencies for various OpenAI models and other LLM providers.
 
-## [30. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [28. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Communications / Coordination
 
@@ -364,11 +344,11 @@
 
 *   [From Word Models to World Models: Translating from Natural Language to the Probabilistic Language of Thought](https://arxiv.org/abs/2306.12672) - 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=13778788929096574993)]. Rational meaning construction, a computational framework for language-informed thinking that combines neural language models with probabilistic models for rational inference. Linguistic meaning is framed as a context-sensitive mapping from natural language into a probabilistic language of thought (PLoT)--a general-purpose symbolic substrate for generative world modeling.
 
-## [31. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [29. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### GUI / Text-Based User Interfaces
 
-*   [SnapKit (⭐205)](https://github.com/reportmill/SnapKit) - Modern Java UI library for both desktop and web.
+*   [SnapKit (⭐251)](https://github.com/reportmill/SnapKit) - Modern Java UI library for both desktop and web.
 
 ### IDE / Text-Based User Interfaces
 
@@ -376,7 +356,7 @@
 
 ### JVM and JDK / Text-Based User Interfaces
 
-*   [Microsoft JDK (⭐313)](https://github.com/microsoft/openjdk) - Microsoft Build of OpenJDK, Free, Open Source, Freshly Brewed!
+*   [Microsoft JDK (⭐323)](https://github.com/microsoft/openjdk) - Microsoft Build of OpenJDK, Free, Open Source, Freshly Brewed!
 
 ### Science / Other
 
@@ -384,9 +364,9 @@
 
 ### Testing / Mocking
 
-*   [EasyMock (⭐812)](https://github.com/easymock/easymock) - EasyMock is a Java library that provides an easy way to use Mock Objects in unit testing.
+*   [EasyMock (⭐820)](https://github.com/easymock/easymock) - EasyMock is a Java library that provides an easy way to use Mock Objects in unit testing.
 
-## [32. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/week/README.md)
+## [30. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/week/README.md)
 
 ### Templates
 
@@ -394,7 +374,7 @@
 *   [Pentesting: BlackArch](https://forum.qubes-os.org/t/blackarch-templatevm/19010) - BlackArch Linux is an Arch Linux-based distribution for penetration testers and security researchers.
 *   [Pentesting: PTF](https://forum.qubes-os.org/t/penetration-testers-framework-ptf-templatevm/19011) - "The PenTesters Framework (PTF) is a Python script designed for Debian/Ubuntu/ArchLinux based distributions to create a similar and familiar distribution for Penetration Testing.
 
-## [33. Awesome Katas](/content/gamontal/awesome-katas/week/README.md)
+## [31. Awesome Katas](/content/gamontal/awesome-katas/week/README.md)
 
 ### Others
 

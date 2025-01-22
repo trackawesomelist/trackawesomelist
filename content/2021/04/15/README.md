@@ -24,7 +24,7 @@
 ### Icons / Icon Fonts
 
 *   [Ligature Symbols](http://kudakurage.com/ligature_symbols/) - [:copyright:](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi\&id=OFL&_sc=1) Really clean icon set including all major topics.
-*   [Simple Icons](https://simpleicons.org/) -[:copyright: (⭐19k)](https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md) Free SVG icons for popular brands.
+*   [Simple Icons](https://simpleicons.org/) -[:copyright: (⭐22k)](https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md) Free SVG icons for popular brands.
 
 ### Sounds & Music / Icons Packages and Collections
 
@@ -69,10 +69,6 @@
 
 ## [6. Awesome Dash](/content/ucg8j/awesome-dash/README.md)
 
-### Component Libraries
-
-*   [Dash ECharts Components (⭐49)](https://github.com/mergeforward/dash_echarts) - ECharts(V5) Components for Dash.
-
 ### Contributors
 
 *   [Fanchao MENG](https://github.com/pingf)
@@ -94,21 +90,21 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-it-bigger (⭐189)](https://github.com/haiafara/vue-it-bigger) - A simple image / (YouTube) video lightbox component for Vue.js.
+*   [vue-it-bigger (⭐190)](https://github.com/haiafara/vue-it-bigger) - A simple image / (YouTube) video lightbox component for Vue.js.
 
 ## [10. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Scala / Data Analysis / Data Visualization
 
-*   [NDScala (⭐48)](https://github.com/SciScala/NDScala) - N-dimensional arrays in Scala 3. Think NumPy ndarray, but with compile-time type-checking/inference over shapes, tensor/axis labels & numeric data types
+*   [NDScala (⭐47)](https://github.com/SciScala/NDScala) - N-dimensional arrays in Scala 3. Think NumPy ndarray, but with compile-time type-checking/inference over shapes, tensor/axis labels & numeric data types
 
 ### Scala / General-Purpose Machine Learning
 
-*   [ONNX-Scala (⭐137)](https://github.com/EmergentOrder/onnx-scala) - An ONNX (Open Neural Network eXchange) API and backend for typeful, functional deep learning in Scala (3).
+*   [ONNX-Scala (⭐138)](https://github.com/EmergentOrder/onnx-scala) - An ONNX (Open Neural Network eXchange) API and backend for typeful, functional deep learning in Scala (3).
 
 ## [11. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 
-### Online services
+### Online services (a-z↓)
 
 *   [Chromatic](https://www.chromatic.com/) - Visual testing and UI review for component libraries. Cloud-based. [Video](https://youtu.be/6KDLJBcutQE)
 
@@ -132,7 +128,7 @@
 
 ### Resources / MOOCs
 
-*   [Neuromatch Academy (⭐2.3k)](https://github.com/NeuromatchAcademy/course-content) - Jupyter notebooks for the three-week intensive summer school in computational neuroscience.
+*   [Neuromatch Academy (⭐2.7k)](https://github.com/NeuromatchAcademy/course-content) - Jupyter notebooks for the three-week intensive summer school in computational neuroscience.
 
 ---
 

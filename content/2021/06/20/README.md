@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 20, 2021
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -14,7 +14,7 @@
 
 ### no-std crates / WIP
 
-*   [`cmsis-dsp-sys`](https://github.com/jacobrosenthal/cmsis-dsp-sys): Rust FFI bindings to the [Arm CMSIS\_5 (⭐1.3k)](https://github.com/ARM-software/CMSIS_5) math library - ![crates.io](https://img.shields.io/crates/v/cmsis-dsp-sys.svg)
+*   [`cmsis-dsp-sys`](https://github.com/jacobrosenthal/cmsis-dsp-sys): Rust FFI bindings to the [Arm CMSIS\_5 (⭐1.4k)](https://github.com/ARM-software/CMSIS_5) math library - [![crates.io](https://img.shields.io/crates/v/cmsis-dsp-sys.svg)](https://crates.io/crates/cmsis-dsp-sys)
 
 ## [2. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
@@ -26,7 +26,7 @@
 
 ### Utility / Diagnostics
 
-*   [matbme/JABS.nvim (⭐279)](https://github.com/matbme/JABS.nvim) - Pretty and minimal buffer switcher window.
+*   [matbme/JABS.nvim (⭐284)](https://github.com/matbme/JABS.nvim) - Pretty and minimal buffer switcher window.
 
 ## [4. Awesome Irc](/content/davisonio/awesome-irc/README.md)
 
@@ -38,7 +38,7 @@
 
 ### Software / Groupware
 
-*   [EspoCRM](https://www.espocrm.com/) - CRM with a frontend designed as a single page application, and a REST API. ([Demo](https://demo.espocrm.com/), [Source Code (⭐1.7k)](https://github.com/espocrm/espocrm)) `AGPL-3.0` `PHP`
+*   [EspoCRM](https://www.espocrm.com/) - CRM with a frontend designed as a single page application, and a REST API. ([Demo](https://demo.espocrm.com/), [Source Code (⭐2k)](https://github.com/espocrm/espocrm)) `AGPL-3.0` `PHP`
 
 ## [6. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
@@ -56,14 +56,14 @@
 
 ### Compilers / Misc
 
-*   [GBDK (⭐1.5k)](https://github.com/gbdk-2020/gbdk-2020/) - Maintained and modernized GBDK (Game Boy Development Kit) powered by an updated version of the SDCC toolchain. Provides a C compiler, assembler, linker and a set of libraries.
+*   [GBDK (⭐1.8k)](https://github.com/gbdk-2020/gbdk-2020/) - Maintained and modernized GBDK (Game Boy Development Kit) powered by an updated version of the SDCC toolchain. Provides a C compiler, assembler, linker and a set of libraries.
     *   [API docs: Getting Started](https://gbdk-2020.github.io/gbdk-2020/docs/api/docs_getting_started.html)
-    *   [Examples (⭐175)](https://github.com/mrombout/gbdk_playground)
+    *   [Examples (⭐193)](https://github.com/mrombout/gbdk_playground)
     *   [Documentation, links and tools](https://gbdk-2020.github.io/gbdk-2020/docs/api/docs_links_and_tools.html)
 
 ### Game Disassemblies / Syntax highlighting packages
 
-*   [Tetris (⭐24)](https://github.com/vinheim3/tetris-gb-disasm) - Complete Tetris disassembly.
+*   [Tetris (⭐25)](https://github.com/vinheim3/tetris-gb-disasm) - Complete Tetris disassembly.
 
 ### Related projects / Syntax highlighting packages
 
@@ -71,14 +71,7 @@
     *   [Resources to get started](https://gbstudiocentral.com/resources/)
     *   [Dedicated Discord](https://discord.gg/knRryZWGcm)
 
-## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Resources / Examples
-
-*   [Google Keep Clone with Vue + Firestore (⭐99)](https://github.com/wobsoriano/vue-keep) - Google Keep clone with Vue and Firestore written in TypeScript.
-*   [Vue 3 Shopping Cart (⭐128)](https://github.com/wobsoriano/vue-cart) - A Shopping cart example using Vue 3, Vite, [daisyUI](https://daisyui.com/) and [Pinia](https://pinia.esm.dev/).
-
-## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Tools for Teams and Collaboration
 

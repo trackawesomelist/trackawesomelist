@@ -127,7 +127,7 @@
 
 ### Formatting / Diagnostics
 
-*   [tenxsoydev/tabs-vs-spaces.nvim (⭐20)](https://github.com/tenxsoydev/tabs-vs-spaces.nvim) - Hint and fix deviating indentation.
+*   [tenxsoydev/tabs-vs-spaces.nvim (⭐23)](https://github.com/tenxsoydev/tabs-vs-spaces.nvim) - Hint and fix deviating indentation.
 
 ## [4. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
@@ -139,7 +139,7 @@
 
 ### Analytics
 
-*   [PostHog](https://posthog.com/) - Open-source product analytics platform. [![PostHog](https://img.shields.io/github/stars/posthog/posthog?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/posthog/posthog)
+*   [PostHog](https://posthog.com/) - Open-source product analytics platform. [![PostHog](https://img.shields.io/github/stars/posthog/posthog?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/posthog/posthog) [![featured on launchweek.dev](https://img.shields.io/badge/featured-0D1117.svg?style=flat-square\&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMzYwIiBoZWlnaHQ9IjM2MCIgdmlld0JveD0iMCAwIDM2MCAzNjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+IDxyZWN0IHdpZHRoPSI2MCIgaGVpZ2h0PSIzMDAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjYwIiB5PSIzMDAiIHdpZHRoPSIxMjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjI0MCIgeT0iMzAwIiB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjMwMCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjMwMCIgZmlsbD0id2hpdGUiLz4gPHJlY3QgeD0iMTgwIiB3aWR0aD0iNjAiIGhlaWdodD0iMzAwIiBmaWxsPSJ3aGl0ZSIvPiA8L3N2Zz4=)](https://launchweek.dev)
 
 ## [6. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
 
@@ -164,14 +164,14 @@
 ### Real-time / Real-time tools
 
 *   [RTIC v1.0](https://rtic.rs/1/book/en/) Real-Time Interrupt-driven Concurrency — A concurrency framework for building real-time systems:
-    *   [cortex-m rtic (⭐1.7k)](https://github.com/rtic-rs/cortex-m-rtic) RTIC framework for ARM Cortex-M microcontrollers
+    *   [cortex-m rtic (⭐1.9k)](https://github.com/rtic-rs/cortex-m-rtic) RTIC framework for ARM Cortex-M microcontrollers
     *   [msp430 rtfm (⭐11)](https://github.com/japaric/msp430-rtfm) RTFM framework for MSP430 MCUs
 
 ## [10. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
 ### Programming Languages / OCaml
 
-*   [opam2nix (⭐93)](https://github.com/timbertson/opam2nix) - Generate Nix expressions from opam packages.
+*   [opam2nix (⭐92)](https://github.com/timbertson/opam2nix) - Generate Nix expressions from opam packages.
 
 ## [11. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/README.md)
 

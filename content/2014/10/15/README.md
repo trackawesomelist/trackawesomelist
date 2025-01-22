@@ -19,22 +19,22 @@
 *   [Botan](http://botan.randombit.net/) - A crypto library for C++. \[BSD-2]
 *   [GnuPG](https://www.gnupg.org/) - A complete and free implementation of the OpenPGP standard. \[GPL]
 *   [LibreSSL](http://www.libressl.org/) - A free version of the SSL/TLS protocol forked from OpenSSL in 2014. \[?]
-*   [LibTomCrypt (⭐1.5k)](https://github.com/libtom/libtomcrypt) - A fairly comprehensive, modular and portable cryptographic toolkit. \[WTFPL]
+*   [LibTomCrypt (⭐1.6k)](https://github.com/libtom/libtomcrypt) - A fairly comprehensive, modular and portable cryptographic toolkit. \[WTFPL]
 *   [Nettle](http://www.lysator.liu.se/~nisse/nettle/) - A low-level cryptographic library. \[LGPL]
 
 ### JSON
 
-*   [YAJL (⭐2.1k)](https://github.com/lloyd/yajl) - A fast streaming JSON parsing library in C. \[ISC]
+*   [YAJL (⭐2.2k)](https://github.com/lloyd/yajl) - A fast streaming JSON parsing library in C. \[ISC]
 
 ### Integrated Development Environment
 
 *   [AppCode](http://www.jetbrains.com/objc/) - an IDE for Objective-C, C, C++, and JavaScript development built on JetBrains’ IntelliJ IDEA platform.
-*   [Irony-mode (⭐904)](https://github.com/Sarcasm/irony-mode) - A C/C++ minor mode for Emacs powered by libclang.
+*   [Irony-mode (⭐913)](https://github.com/Sarcasm/irony-mode) - A C/C++ minor mode for Emacs powered by libclang.
 *   [rtags (⭐1.8k)](https://github.com/Andersbakken/rtags) - A c/c++ client/server indexer with for integration with emacs based on clang.
 
 ### Build Systems
 
-*   [CPM (⭐741)](https://github.com/iauns/cpm) - A C++ Package Manager based on CMake and Git.
+*   [CPM (⭐747)](https://github.com/iauns/cpm) - A C++ Package Manager based on CMake and Git.
 *   [FASTBuild](http://www.fastbuild.org/docs/home.html) - High performance, open-source build system supporting highly scalable compilation, caching and network distribution.
 
 ### Static Code Analysis

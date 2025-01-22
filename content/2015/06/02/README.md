@@ -44,7 +44,7 @@
 
 ### Visual Studio Plugins
 
-*   [Git Diff Margin (⭐290)](https://github.com/laurentkempe/GitDiffMargin) - Displays live Git changes of the currently edited file on Visual Studio margin and scroll bar
+*   [Git Diff Margin (⭐289)](https://github.com/laurentkempe/GitDiffMargin) - Displays live Git changes of the currently edited file on Visual Studio margin and scroll bar
 
 ---
 

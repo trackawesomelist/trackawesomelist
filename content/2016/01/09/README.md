@@ -57,7 +57,7 @@
 
 ### Static Site Generation
 
-*   [Photish (⭐149)](https://github.com/henrylawson/photish) - Generate a highly configurable static website from a photo collection.
+*   [Photish (⭐150)](https://github.com/henrylawson/photish) - Generate a highly configurable static website from a photo collection.
 
 ---
 

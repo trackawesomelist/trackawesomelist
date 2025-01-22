@@ -16,7 +16,7 @@
 
 ### Templates / Misc
 
-*   [Postmark Transactional Email Templates (⭐2.8k)](https://github.com/wildbit/postmark-templates) - Rock-solid email templates for applications.
+*   [Postmark Transactional Email Templates (⭐3.1k)](https://github.com/wildbit/postmark-templates) - Rock-solid email templates for applications.
 
 ## [3. Awesome Lockpicking](/content/fabacab/awesome-lockpicking/README.md)
 

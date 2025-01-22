@@ -10,21 +10,21 @@
 
 ### Template Engines
 
-*   [sprout (⭐71)](https://github.com/go-sprout/sprout) - Useful template functions for Go templates.
+*   [sprout (⭐117)](https://github.com/go-sprout/sprout) - Useful template functions for Go templates.
 
 ### Testing Frameworks
 
-*   [dft (⭐2)](https://github.com/abecodes/dft) - Lightweight, zero dependency docker containers for testing (or more).
+*   [dft (⭐15)](https://github.com/abecodes/dft) - Lightweight, zero dependency docker containers for testing (or more).
 
 ## [2. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Recipe Management
 
-*   [Tamari](https://tamariapp.com) - Recipe manager web app with a built-in collection of recipes. Organize by favorites and categories, create shopping lists, and plan meals. ([Demo](https://app.tamariapp.com), [Source Code (⭐61)](https://github.com/alexbates/Tamari)) `GPL-3.0` `Docker/Python`
+*   [Tamari](https://tamariapp.com) - Recipe manager web app with a built-in collection of recipes. Organize by favorites and categories, create shopping lists, and plan meals. ([Demo](https://app.tamariapp.com), [Source Code (⭐78)](https://github.com/alexbates/Tamari)) `GPL-3.0` `Docker/Python`
 
 ### Software / Web Servers
 
-*   [BunkerWeb](https://www.bunkerweb.io) - Next-gen Web Application Firewall (WAF) that will protect your web services. ([Demo](https://demo.bunkerweb.io), [Source Code (⭐5.5k)](https://github.com/bunkerity/bunkerweb), [Clients](https://docs.bunkerweb.io/latest/plugins/)) `AGPL-3.0` `deb/Docker/K8S/Python`
+*   [BunkerWeb](https://www.bunkerweb.io) - Next-gen Web Application Firewall (WAF) that will protect your web services. ([Demo](https://demo.bunkerweb.io), [Source Code (⭐7.3k)](https://github.com/bunkerity/bunkerweb), [Clients](https://docs.bunkerweb.io/latest/plugins/)) `AGPL-3.0` `deb/Docker/K8S/Python`
 
 ## [3. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
 
@@ -36,7 +36,7 @@
 
 ### Table of Contents / Code Quality
 
-*   [Laravel Pint (⭐2.7k)](https://github.com/laravel/pint) - A coding standards fixer library for Laravel.
+*   [Laravel Pint (⭐2.8k)](https://github.com/laravel/pint) - A coding standards fixer library for Laravel.
 
 ### Table of Contents / Event
 
@@ -44,16 +44,16 @@
 
 ### Table of Contents / Filtering, Sanitizing and Validation
 
-*   [Symfony HTML Sanitizer (⭐231)](https://github.com/symfony/html-sanitizer) - An HTML sanitizer library.
+*   [Symfony HTML Sanitizer (⭐243)](https://github.com/symfony/html-sanitizer) - An HTML sanitizer library.
 *   [Valinor (⭐1.3k)](https://github.com/CuyZ/Valinor) - A library for mapping to strongly typed value objects.
 
 ### Configuration / Miscellaneous
 
-*   [Laravel Serializable Closure (⭐494)](https://github.com/laravel/serializable-closure) - A library that allows Closures to be serialized.
+*   [Laravel Serializable Closure (⭐543)](https://github.com/laravel/serializable-closure) - A library that allows Closures to be serialized.
 
 ### Configuration / PHP Installation
 
-*   [Static PHP CLI (⭐1.2k)](https://github.com/crazywhalecc/static-php-cli) - Build or [download](https://dl.static-php.dev/static-php-cli/) static versions of PHP CLI and FPM.
+*   [Static PHP CLI (⭐1.4k)](https://github.com/crazywhalecc/static-php-cli) - Build or [download](https://dl.static-php.dev/static-php-cli/) static versions of PHP CLI and FPM.
 
 ### Configuration / Development Environment
 
@@ -82,15 +82,15 @@
 
 ### Internationalization / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [transloco (⭐2k)](https://github.com/jsverse/transloco/) - 🚀 😍 The internationalization (i18n) library for Angular.
-*   [transloco-keys-manager (⭐193)](https://github.com/jsverse/transloco-keys-manager) - Tools to help reduce monotonous work.
+*   [transloco (⭐2.1k)](https://github.com/jsverse/transloco/) - 🚀 😍 The internationalization (i18n) library for Angular.
+*   [transloco-keys-manager (⭐207)](https://github.com/jsverse/transloco-keys-manager) - Tools to help reduce monotonous work.
 
 ## [9. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [ez-compinit (⭐0)](https://github.com/mattmc3/ez-compinit) - Wraps `compinit`, queueing up calls to `compdef`, and hooking the real `compinit` call to an event that runs at the end of your `.zshrc`. That way you get all the benefits of calling `compinit` early without any of the downsides.
-*   [shellcolor (⭐1)](https://github.com/SaltedBlowfish/zsh-shellcolor) - Changes the terminal background color based on the presence of a `.shellcolor` in the current directory.
+*   [ez-compinit (⭐13)](https://github.com/mattmc3/ez-compinit) - Wraps `compinit`, queueing up calls to `compdef`, and hooking the real `compinit` call to an event that runs at the end of your `.zshrc`. That way you get all the benefits of calling `compinit` early without any of the downsides.
+*   [shellcolor (⭐3)](https://github.com/SaltedBlowfish/zsh-shellcolor) - Changes the terminal background color based on the presence of a `.shellcolor` in the current directory.
 
 ---
 

@@ -28,7 +28,7 @@
 
 ### Table of Contents / Data Pipeline
 
-*   [brooklin (⭐909)](https://github.com/linkedin/Brooklin/) \[Java] - a distributed system intended for streaming data between various heterogeneous source and destination systems with high reliability and throughput at scale from Linkedin (replaced databus).
+*   [brooklin (⭐932)](https://github.com/linkedin/Brooklin/) \[Java] - a distributed system intended for streaming data between various heterogeneous source and destination systems with high reliability and throughput at scale from Linkedin (replaced databus).
 
 ## [5. Awesome Elm](/content/sporto/awesome-elm/README.md)
 
@@ -39,15 +39,15 @@
 ### Inspired by Elm / Games
 
 *   [Elchemy (⭐1.1k)](https://github.com/wende/elchemy) - Write Elixir code using statically-typed Elm-like syntax
-*   [Elmish (⭐825)](https://github.com/elmish/elmish) - Elm-like abstractions for F# apps
-*   [Fabulous (⭐1.1k)](https://github.com/fsprojects/Fabulous) - F# Functional App Development, using declarative dynamic UI
+*   [Elmish (⭐850)](https://github.com/elmish/elmish) - Elm-like abstractions for F# apps
+*   [Fabulous (⭐1.2k)](https://github.com/fsprojects/Fabulous) - F# Functional App Development, using declarative dynamic UI
 *   [Redux](https://redux.js.org/introduction/prior-art) - A predictable state container for JavaScript apps.
 
 ### Beyond the DOM / Games
 
-*   [iOS (⭐159)](https://github.com/pzp1997/elm-ios) A POC for using Elm 0.18 for native iOS Applications
-*   [elmish-wasm (⭐18)](https://github.com/Chadtech/elmish-wasm) A POC for compiling elm to Web Assembly
-*   [elm-serverless (⭐169)](https://github.com/ktonon/elm-serverless) Run Elm 0.18 on Cloud Functions using the Serverless Frameworks
+*   [iOS (⭐160)](https://github.com/pzp1997/elm-ios) A POC for using Elm 0.18 for native iOS Applications
+*   [elmish-wasm (⭐17)](https://github.com/Chadtech/elmish-wasm) A POC for compiling elm to Web Assembly
+*   [elm-serverless (⭐166)](https://github.com/ktonon/elm-serverless) Run Elm 0.18 on Cloud Functions using the Serverless Frameworks
 
 ## [6. Awesome Vapor](/content/vapor-community/awesome-vapor/README.md)
 

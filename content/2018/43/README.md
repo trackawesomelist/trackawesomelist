@@ -35,7 +35,7 @@
 
 ### UI / List
 
-*   [Snaplist (⭐452)](https://github.com/ariedov/flutter_snaplist) <!--stargazers:ariedov/flutter_snaplist--> - Create snappable list views by [David Leibovych](https://github.com/ariedov)
+*   [Snaplist (⭐454)](https://github.com/ariedov/flutter_snaplist) <!--stargazers:ariedov/flutter_snaplist--> - Create snappable list views by [David Leibovych](https://github.com/ariedov)
 
 ## [4. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
@@ -275,7 +275,7 @@ RewriteRule ^robots.txt - [L]
 
 ## [20. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
-### Courses
+### Courses / Commerical Tools
 
 *   [Machine Learning Crash Course By Google](https://developers.google.com/machine-learning/crash-course/ml-intro) Machine Learning Crash Course features a series of lessons with video lectures, real-world case studies, and hands-on practice exercises.
 *   [Python Class By Google](https://developers.google.com/edu/python/) This is a free class for people with a little bit of programming experience who want to learn Python. The class includes written materials, lecture videos, and lots of code exercises to practice Python coding.
@@ -314,31 +314,15 @@ RewriteRule ^robots.txt - [L]
 
 ### Tools / Paid and commercially available materials
 
-*   [embedded-hal-mock](https://crates.io/crates/embedded-hal-mock) Mock implementation of `embedded-hal` traits for testing without accessing real hardware. - ![crates.io](https://img.shields.io/crates/v/embedded-hal-mock.svg)
+*   [embedded-hal-mock](https://crates.io/crates/embedded-hal-mock) Mock implementation of `embedded-hal` traits for testing without accessing real hardware. - [![crates.io](https://img.shields.io/crates/v/embedded-hal-mock.svg)](https://crates.io/crates/embedded-hal-mock)
 
 ## [25. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
 
 ### Free fonts / Fonts
 
-*   [Libre Franklin (⭐339)](https://github.com/impallari/Libre-Franklin) - An interpretation and expansion based on Morris Fuller Benton’s 1912 classic.
+*   [Libre Franklin (⭐381)](https://github.com/impallari/Libre-Franklin) - An interpretation and expansion based on Morris Fuller Benton’s 1912 classic.
 
-## [26. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
-
-### Experiments
-
-*   [Audio Visualizer (⭐27)](https://github.com/Teoxoy/audio-visualizer) - An interesting web audio visualizer built with Pixi.js.
-
-## [27. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
-
-### JavaScript / General-Purpose Machine Learning
-
-*   [ml5 (⭐6.4k)](https://github.com/ml5js/ml5-library) - Friendly machine learning for the web!
-
-### Python / Reinforcement Learning
-
-*   [Coach (⭐2.3k)](https://github.com/NervanaSystems/coach) - Reinforcement Learning Coach by Intel® AI Lab enables easy experimentation with state of the art Reinforcement Learning algorithms
-
-## [28. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
+## [26. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
 
 ### Family
 
@@ -409,17 +393,21 @@ RewriteRule ^robots.txt - [L]
 | ------: | -------: | -----: |
 |   2 - 5 |        8 | 30-90m |
 
-### Party
+## [27. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
 
-### [Munchkin](http://www.worldofmunchkin.com/game/)
+### Experiments
 
-> Munchkin is the mega-hit card game about dungeon adventure ... with none of that stupid roleplaying stuff. You and your friends compete to kill monsters and grab magic items. And what magic items! Don the Horny Helmet and the Boots of Butt-Kicking. Wield the Staff of Napalm ... or maybe the Chainsaw of Bloody Dismemberment. Start by slaughtering the Potted Plant and the Drooling Slime, and work your way up to the Plutonium Dragon ...
+*   [Audio Visualizer (⭐27)](https://github.com/Teoxoy/audio-visualizer) - An interesting web audio visualizer built with Pixi.js.
 
-![Munchkin game image](https://upload.wikimedia.org/wikipedia/en/e/ee/Munchkin_game_cover.jpg)
+## [28. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
-| Players | Min. Age |    Time |
-| ------: | -------: | ------: |
-|   3 - 6 |       10 | 60-120m |
+### JavaScript / General-Purpose Machine Learning
+
+*   [ml5 (⭐6.5k)](https://github.com/ml5js/ml5-library) - Friendly machine learning for the web!
+
+### Python / Reinforcement Learning
+
+*   [Coach (⭐2.3k)](https://github.com/NervanaSystems/coach) - Reinforcement Learning Coach by Intel® AI Lab enables easy experimentation with state of the art Reinforcement Learning algorithms
 
 ## [29. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
@@ -457,11 +445,11 @@ RewriteRule ^robots.txt - [L]
 
 ## [33. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
-### Online services
+### Online services (a-z↓)
 
 *   [Visual Knight](https://visual-knight.io/) - Cloud-based visual testing platform with realtime results for testing tools.
 
-### Deprecated
+### Deprecated  (a-z↓)
 
 *   [dpxdt (⭐1.4k)](https://github.com/bslatkin/dpxdt) - End-to-end testing with Python.
 
@@ -493,7 +481,7 @@ RewriteRule ^robots.txt - [L]
 
 ### Web / Apache License
 
-*   [aws (⭐126)](https://github.com/AdaCore/aws) - AWS is a complete framework to develop Web based applications in Ada.
+*   [aws (⭐133)](https://github.com/AdaCore/aws) - AWS is a complete framework to develop Web based applications in Ada.
 
 ### Algorithms, Containers and Protocols / Apache License
 
@@ -543,16 +531,16 @@ RewriteRule ^robots.txt - [L]
 
 ### Non-deterministic, logic programming
 
-*   [Screamer (⭐223)](https://github.com/nikodemus/screamer) - augment Common
+*   [Screamer (⭐237)](https://github.com/nikodemus/screamer) - augment Common
     Lisp with practically all of the functionality of both Prolog and
     constraint logic programming
     languages. [Blog post](https://chriskohlhepp.wordpress.com/reasoning-systems/specification-driven-programming-in-common-lisp/)
     solving Project Euler puzzles. [MIT](https://opensource.org/licenses/MIT).
-*   [Screamer+ (⭐6)](https://github.com/yakovzaytsev/screamer-plus) - increasing the expressiveness of SCREAMER. [MIT](https://opensource.org/licenses/MIT).
+*   [Screamer+ (⭐7)](https://github.com/yakovzaytsev/screamer-plus) - increasing the expressiveness of SCREAMER. [MIT](https://opensource.org/licenses/MIT).
 
 ### Data validation / Third-party APIs
 
-*   [clavier (⭐18)](https://github.com/mmontone/clavier) - General purpose validation library for Common Lisp. [MIT](https://opensource.org/licenses/MIT).
+*   [clavier (⭐25)](https://github.com/mmontone/clavier) - General purpose validation library for Common Lisp. [MIT](https://opensource.org/licenses/MIT).
 
 ## [42. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
@@ -635,7 +623,7 @@ Topics: HTML, CSS, JavaScript, WebGL\
 
 ### Regular Expression
 
-*   [CTRE (⭐3.3k)](https://github.com/hanickadot/compile-time-regular-expressions) - A Compile time PCRE (almost) compatible regular expression matcher. \[MIT]
+*   [CTRE (⭐3.4k)](https://github.com/hanickadot/compile-time-regular-expressions) - A Compile time PCRE (almost) compatible regular expression matcher. \[MIT]
 
 ## [46. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
@@ -647,7 +635,7 @@ Topics: HTML, CSS, JavaScript, WebGL\
 
 ### Extensions
 
-*   [next-mdx-blog (⭐72)](https://github.com/hipstersmoothie/next-mdx-blog) - Easily add a blog to any next.js based project
+*   [next-mdx-blog (⭐74)](https://github.com/hipstersmoothie/next-mdx-blog) - Easily add a blog to any next.js based project
 
 ## [48. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
@@ -726,11 +714,11 @@ Topics: HTML, CSS, JavaScript, WebGL\
 
 ### Standalone / Hash functions
 
-*   [sops (⭐16k)](https://github.com/mozilla/sops) - sops is an editor of encrypted files that supports YAML, JSON and BINARY formats and encrypts with AWS KMS, GCP KMS, Azure Key Vault and PGP.
+*   [sops (⭐17k)](https://github.com/mozilla/sops) - sops is an editor of encrypted files that supports YAML, JSON and BINARY formats and encrypts with AWS KMS, GCP KMS, Azure Key Vault and PGP.
 
 ### Java / Git
 
-*   [securitybuilder (⭐43)](https://github.com/tersesystems/securitybuilder) - Fluent Builder API for JCA/JSSE objects.
+*   [securitybuilder (⭐46)](https://github.com/tersesystems/securitybuilder) - Fluent Builder API for JCA/JSSE objects.
 
 ## [56. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
 
@@ -748,15 +736,15 @@ Topics: HTML, CSS, JavaScript, WebGL\
 
 ### Software / Communication - Social Networks and Forums
 
-*   [Simple Machines Forum](https://www.simplemachines.org/) - Free, professional grade software package that allows you to set up your own online community within minutes. ([Source Code (⭐583)](https://github.com/SimpleMachines/SMF)) `BSD-3-Clause` `PHP`
+*   [Simple Machines Forum](https://www.simplemachines.org/) - Free, professional grade software package that allows you to set up your own online community within minutes. ([Source Code (⭐613)](https://github.com/SimpleMachines/SMF)) `BSD-3-Clause` `PHP`
 
 ### Software / Pastebins
 
-*   [bepasty](https://bepasty-server.readthedocs.io/en/latest/) - A pastebin for all kinds of files. ([Source Code (⭐192)](https://github.com/bepasty/bepasty-server)) `BSD-2-Clause` `Python/deb`
+*   [bepasty](https://bepasty-server.readthedocs.io/en/latest/) - A pastebin for all kinds of files. ([Source Code (⭐197)](https://github.com/bepasty/bepasty-server)) `BSD-2-Clause` `Python/deb`
 
 ### Software / Video Surveillance
 
-*   [Zoneminder](https://www.zoneminder.com/) - Closed-circuit television (CCTV) software application which supports IP, USB and Analog cameras. ([Source Code (⭐5k)](https://github.com/ZoneMinder/ZoneMinder)) `GPL-2.0` `PHP/deb`
+*   [Zoneminder](https://www.zoneminder.com/) - Closed-circuit television (CCTV) software application which supports IP, USB and Analog cameras. ([Source Code (⭐5.3k)](https://github.com/ZoneMinder/ZoneMinder)) `GPL-2.0` `PHP/deb`
 
 ## [59. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
@@ -772,7 +760,7 @@ Topics: HTML, CSS, JavaScript, WebGL\
 
 ### JSON
 
-*   [ObjectMapper (⭐9.1k)](https://github.com/tristanhimmelman/ObjectMapper) - JSON object mapper.
+*   [ObjectMapper (⭐9.2k)](https://github.com/tristanhimmelman/ObjectMapper) - JSON object mapper.
 
 ### Multi Database
 
@@ -780,32 +768,32 @@ Topics: HTML, CSS, JavaScript, WebGL\
 
 ### Images / Barcode
 
-*   [Rough (⭐98)](https://github.com/bakhtiyork/Rough) - Rough lets you draw in a sketchy, hand-drawn-like, style.
+*   [Rough (⭐99)](https://github.com/bakhtiyork/Rough) - Rough lets you draw in a sketchy, hand-drawn-like, style.
 
 ### System / Barcode
 
-*   [LaunchAtLogin (⭐1.5k)](https://github.com/sindresorhus/LaunchAtLogin) - Easily add 'Launch at Login' functionality to your sandboxed macOS app.
+*   [LaunchAtLogin (⭐1.6k)](https://github.com/sindresorhus/LaunchAtLogin) - Easily add 'Launch at Login' functionality to your sandboxed macOS app.
 
 ### Testing / Barcode
 
 *   [SnapshotTest (⭐41)](https://github.com/parski/SnapshotTest) - Snapshot testing tool for iOS and tvOS.
-*   [XCTest (⭐1.1k)](https://github.com/apple/swift-corelibs-xctest) - The XCTest Project, A Swift core library for providing unit test support.
+*   [XCTest (⭐1.2k)](https://github.com/apple/swift-corelibs-xctest) - The XCTest Project, A Swift core library for providing unit test support.
 
 ### UI / Barcode
 
-*   [CircularProgress (⭐569)](https://github.com/sindresorhus/CircularProgress) - Circular progress indicator for your macOS app.
-*   [DockProgress (⭐1.2k)](https://github.com/sindresorhus/DockProgress) - Show progress in your macOS app's Dock icon.
+*   [CircularProgress (⭐574)](https://github.com/sindresorhus/CircularProgress) - Circular progress indicator for your macOS app.
+*   [DockProgress (⭐1.3k)](https://github.com/sindresorhus/DockProgress) - Show progress in your macOS app's Dock icon.
 *   [Preferences (⭐1.4k)](https://github.com/sindresorhus/Preferences) - Add a preferences window to your macOS app in minutes.
 
 ### Walkthrough / Barcode
 
-*   [OnboardKit (⭐529)](https://github.com/NikolaKirev/OnboardKit) - Customisable user onboarding for your iOS app.
+*   [OnboardKit (⭐539)](https://github.com/NikolaKirev/OnboardKit) - Customisable user onboarding for your iOS app.
 
 ## [61. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Assets
 
-*   [Sprockets (⭐937)](https://github.com/rails/sprockets) - Rack-based asset packaging system.
+*   [Sprockets (⭐958)](https://github.com/rails/sprockets) - Rack-based asset packaging system.
 
 ### Code Analysis and Metrics
 
@@ -813,7 +801,7 @@ Topics: HTML, CSS, JavaScript, WebGL\
 
 ### Dashboards
 
-*   [Blazer (⭐4.5k)](https://github.com/ankane/blazer) - Simple data viewer using only SQL. Output to table, chart, and maps.
+*   [Blazer (⭐4.6k)](https://github.com/ankane/blazer) - Simple data viewer using only SQL. Output to table, chart, and maps.
 
 ### Email
 
@@ -829,12 +817,12 @@ Topics: HTML, CSS, JavaScript, WebGL\
 
 ### Measurements
 
-*   [Measured (⭐335)](https://github.com/Shopify/measured) - Wrapper objects which encapsulate measurements and their associated units in Ruby.
-*   [Ruby Units (⭐516)](https://github.com/olbrich/ruby-units) - Provides classes and methods to perform unit math and conversions.
+*   [Measured (⭐364)](https://github.com/Shopify/measured) - Wrapper objects which encapsulate measurements and their associated units in Ruby.
+*   [Ruby Units (⭐531)](https://github.com/olbrich/ruby-units) - Provides classes and methods to perform unit math and conversions.
 
 ### Music and Sound
 
-*   [Coltrane (⭐2.3k)](https://github.com/pedrozath/coltrane) - A music theory library with a command-line interface.
+*   [Coltrane (⭐2.4k)](https://github.com/pedrozath/coltrane) - A music theory library with a command-line interface.
 
 ### ORM/ODM
 
@@ -1121,7 +1109,7 @@ Topics: HTML, CSS, JavaScript, WebGL\
 
 *   [EasyDokkaPlugin (⭐13)](https://github.com/Vorlonsoft/EasyDokkaPlugin) - Gradle script plugin to generate documentation by Dokka documentation engine for Java and Kotlin
 *   [GradleMavenPush (⭐21)](https://github.com/Vorlonsoft/GradleMavenPush) - Gradle script plugin to upload Gradle Artifacts to Maven repositories
-*   [sshoogr (⭐350)](https://github.com/aestasit/sshoogr) - DSL library for working with remote servers through SSH.
+*   [sshoogr (⭐356)](https://github.com/aestasit/sshoogr) - DSL library for working with remote servers through SSH.
 
 ## [71. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 

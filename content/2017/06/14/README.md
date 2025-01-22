@@ -16,11 +16,11 @@
 
 ### Programming / C++
 
-*   [Brayns (⭐275)](https://github.com/BlueBrain/Brayns) - Minimalistic visualiser that can perform ray-traced rendering of neurons. Ray-tracing can help to highlight areas of neural circuits where cells touch each other and where synapses are being created leading to a better understanding of how individual cells and subsequently the brain functions.
+*   [Brayns (⭐289)](https://github.com/BlueBrain/Brayns) - Minimalistic visualiser that can perform ray-traced rendering of neurons. Ray-tracing can help to highlight areas of neural circuits where cells touch each other and where synapses are being created leading to a better understanding of how individual cells and subsequently the brain functions.
 
 ### Programming / JavaScript
 
-*   [Brainbrowser (⭐316)](https://github.com/aces/brainbrowser) - Library exposing set of web-based 3D visualization tools primarily targetting neuroimaging.
+*   [Brainbrowser (⭐352)](https://github.com/aces/brainbrowser) - Library exposing set of web-based 3D visualization tools primarily targetting neuroimaging.
 
 ## [3. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
@@ -30,7 +30,7 @@
 
 ### Applications
 
-*   [Startup Job (⭐98)](https://github.com/tsurupin/job_search) - An umbrella project to search startup jobs scraped from websites written in Elixir/Phoenix and React/Redux.
+*   [Startup Job (⭐99)](https://github.com/tsurupin/job_search) - An umbrella project to search startup jobs scraped from websites written in Elixir/Phoenix and React/Redux.
 
 ### Date and Time
 
@@ -47,7 +47,7 @@
 
 ### Third Party APIs
 
-*   [ethereumex (⭐375)](https://github.com/exthereum/ethereumex) - Elixir JSON-RPC client for the Ethereum blockchain.
+*   [ethereumex (⭐381)](https://github.com/exthereum/ethereumex) - Elixir JSON-RPC client for the Ethereum blockchain.
 
 ### Books
 

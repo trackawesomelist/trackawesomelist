@@ -84,7 +84,7 @@
 
 ### Language API
 
-*   [jvmr (⭐15)](https://github.com/cran/jvmr) - Integration of R, Java, and Scala.
+*   [jvmr (⭐16)](https://github.com/cran/jvmr) - Integration of R, Java, and Scala.
 *   [rpy2](http://rpy.sourceforge.net/) - Python interface for R.
 
 ### Bioinformatics and Biostatistics
@@ -95,23 +95,23 @@
 
 ### Packages / Mad science
 
-*   [webcat (⭐442)](https://github.com/mafintosh/webcat) - p2p pipe across the web using WebRTC that uses your GitHub private/public key for authentication.
+*   [webcat (⭐445)](https://github.com/mafintosh/webcat) - p2p pipe across the web using WebRTC that uses your GitHub private/public key for authentication.
 
 ### Packages / Command-line apps
 
-*   [wallpaper (⭐1k)](https://github.com/sindresorhus/wallpaper) - Change the desktop wallpaper.
+*   [wallpaper (⭐1.1k)](https://github.com/sindresorhus/wallpaper) - Change the desktop wallpaper.
 
 ### Packages / Text
 
-*   [camelcase (⭐674)](https://github.com/sindresorhus/camelcase) - Convert a dash/dot/underscore/space separated string to camelCase: foo-bar → fooBar.
+*   [camelcase (⭐684)](https://github.com/sindresorhus/camelcase) - Convert a dash/dot/underscore/space separated string to camelCase: foo-bar → fooBar.
 
 ### Packages / Data validation
 
-*   [is-my-json-valid (⭐960)](https://github.com/mafintosh/is-my-json-valid) - JSON Schema validator that uses code generation to be extremely fast.
+*   [is-my-json-valid (⭐965)](https://github.com/mafintosh/is-my-json-valid) - JSON Schema validator that uses code generation to be extremely fast.
 
 ### Resources / Miscellaneous
 
-*   [node-module-boilerplate (⭐730)](https://github.com/sindresorhus/node-module-boilerplate) - Boilerplate to kickstart creating a node module.
+*   [node-module-boilerplate (⭐737)](https://github.com/sindresorhus/node-module-boilerplate) - Boilerplate to kickstart creating a node module.
 *   [generator-nm (⭐742)](https://github.com/sindresorhus/generator-nm) - Scaffold out a node module.
 
 ## [8. Awesome Open Company](/content/opencompany/awesome-open-company/week/README.md)
@@ -125,13 +125,13 @@
 
 ### Multimedia content processing
 
-*   [L-SMASH (⭐231)](https://github.com/l-smash/l-smash/) - A rigidly spec-compliant ISOBMFF library, which has full DASH muxing support.
+*   [L-SMASH (⭐234)](https://github.com/l-smash/l-smash/) - A rigidly spec-compliant ISOBMFF library, which has full DASH muxing support.
 
 ## [10. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Assembly Manipulation
 
-*   [Mono.Cecil (⭐2.7k)](https://github.com/jbevain/cecil) - Cecil is a library to generate and inspect programs and libraries in the ECMA CIL form.
+*   [Mono.Cecil (⭐2.8k)](https://github.com/jbevain/cecil) - Cecil is a library to generate and inspect programs and libraries in the ECMA CIL form.
 
 ## [11. Git Cheat Sheet](/content/arslanbilal/git-cheat-sheet/week/README.md)
 
@@ -596,12 +596,12 @@ to this,
 
 ### Build Tools
 
-*   [active (⭐67)](https://github.com/synrc/active) - Recompilation and Reloading on FileSystem changes.
+*   [active (⭐68)](https://github.com/synrc/active) - Recompilation and Reloading on FileSystem changes.
 *   [mad (⭐173)](https://github.com/synrc/mad) - Small and Fast Rebar Replacement.
 
 ### CSV
 
-*   [csv (⭐492)](https://github.com/beatrichartz/csv) - CSV Decoding and Encoding for Elixir.
+*   [csv (⭐503)](https://github.com/beatrichartz/csv) - CSV Decoding and Encoding for Elixir.
 
 ### Date and Time
 
@@ -609,12 +609,12 @@ to this,
 
 ### Debugging
 
-*   [eper (⭐438)](https://github.com/massemanet/eper) - Erlang performance and debugging tools.
+*   [eper (⭐437)](https://github.com/massemanet/eper) - Erlang performance and debugging tools.
 
 ### Files and Directories
 
 *   [ex\_minimatch (⭐13)](https://github.com/gniquil/ex_minimatch) - Globbing paths without walking the tree!.
-*   [fs (⭐234)](https://github.com/synrc/fs) - Erlang FileSystem Listener.
+*   [fs (⭐236)](https://github.com/synrc/fs) - Erlang FileSystem Listener.
 
 ### Forms
 
@@ -622,14 +622,14 @@ to this,
 
 ### Framework Components
 
-*   [phoenix\_live\_reload (⭐312)](https://github.com/phoenixframework/phoenix_live_reload) - Provides live-reload functionality for Phoenix.
+*   [phoenix\_live\_reload (⭐318)](https://github.com/phoenixframework/phoenix_live_reload) - Provides live-reload functionality for Phoenix.
 *   [phoenix\_pubsub\_postgres (⭐27)](https://github.com/opendrops/phoenix-pubsub-postgres) - Postgresql PubSub adapter for Phoenix apps.
 *   [phoenix\_pubsub\_rabbitmq (⭐45)](https://github.com/pma/phoenix_pubsub_rabbitmq) - RabbitMQ adapter for Phoenix's PubSub layer.
 *   [plug\_statsd (⭐49)](https://github.com/jeffweiss/plug_statsd) - A plug for automatically sending timing and count metrics to statsd.
 
 ### Frameworks
 
-*   [rest (⭐82)](https://github.com/synrc/rest) - Micro-REST framework with typed JSON.
+*   [rest (⭐83)](https://github.com/synrc/rest) - Micro-REST framework with typed JSON.
 
 ### HTTP
 
@@ -637,7 +637,7 @@ to this,
 
 ### Images
 
-*   [chunky\_svg (⭐31)](https://github.com/mmmries/chunky_svg) -  A library for drawing things with SVG.
+*   [chunky\_svg (⭐32)](https://github.com/mmmries/chunky_svg) -  A library for drawing things with SVG.
 
 ### JSON
 
@@ -658,21 +658,21 @@ to this,
 
 ### OTP
 
-*   [immortal (⭐176)](https://github.com/danielberkompas/immortal) - Immortal is a small collection of helper modules intended to make it easier to build a fault-tolerant OTP application.
+*   [immortal (⭐175)](https://github.com/danielberkompas/immortal) - Immortal is a small collection of helper modules intended to make it easier to build a fault-tolerant OTP application.
 
 ### Queue
 
 *   [adap (⭐16)](https://github.com/awetzel/adap) - Create a data stream across your information systems to query, augment and transform data according to Elixir matching rules.
-*   [hulaaki (⭐115)](https://github.com/suvash/hulaaki) - An MQTT 3.1.1 client library written in Elixir.
-*   [mqs (⭐28)](https://github.com/synrc/mqs) - RabbitMQ client library, routing keys, RPC over MQ and other stuff.
+*   [hulaaki (⭐114)](https://github.com/suvash/hulaaki) - An MQTT 3.1.1 client library written in Elixir.
+*   [mqs (⭐27)](https://github.com/synrc/mqs) - RabbitMQ client library, routing keys, RPC over MQ and other stuff.
 
 ### REST and API
 
-*   [detergentex (⭐64)](https://github.com/r-icarus/detergentex) - Elixir binding to Detergent erlang library used to call WSDL/SOAP Services.
+*   [detergentex (⭐65)](https://github.com/r-icarus/detergentex) - Elixir binding to Detergent erlang library used to call WSDL/SOAP Services.
 
 ### Templating
 
-*   [mustache (⭐57)](https://github.com/schultyy/Mustache.ex) - Mustache templates for Elixir.
+*   [mustache (⭐63)](https://github.com/schultyy/Mustache.ex) - Mustache templates for Elixir.
 
 ### Testing
 
@@ -687,12 +687,12 @@ to this,
 *   [expr (⭐12)](https://github.com/Rob-bie/Expr) - An Elixir library for parsing and evaluating mathematical expressions.
 *   [palette (⭐2)](https://github.com/lpil/palette) - A handy library for colouring strings in Elixir.
 *   [ref\_inspector (⭐14)](https://github.com/elixytics/ref_inspector) - Referer parser library in Elixir. Fetching info from URLs.
-*   [ua\_inspector (⭐122)](https://github.com/elixytics/ua_inspector) - User agent parser library like `piwik/device-detector`.
+*   [ua\_inspector (⭐129)](https://github.com/elixytics/ua_inspector) - User agent parser library like `piwik/device-detector`.
 
 ### Third Party APIs
 
-*   [ex\_twilio (⭐334)](https://github.com/danielberkompas/ex_twilio) - Twilio API client for Elixir.
-*   [google\_sheets (⭐41)](https://github.com/GrandCru/GoogleSheets) - Elixir library for fetching and polling Google spreadsheet data in CSV format.
+*   [ex\_twilio (⭐337)](https://github.com/danielberkompas/ex_twilio) - Twilio API client for Elixir.
+*   [google\_sheets (⭐40)](https://github.com/GrandCru/GoogleSheets) - Elixir library for fetching and polling Google spreadsheet data in CSV format.
 *   [mmExchangeRate (⭐0)](https://github.com/Arkar-Aung/mmExchangeRate) - A simple exchange rate checker and calculator based on Central Bank of Myanmar Api.
 *   [opbeat (⭐7)](https://github.com/teodor-pripoae/opbeat) - Elixir client for Opbeat.
 *   [qiniu (⭐60)](https://github.com/tony612/qiniu) - Qiniu SDK for Elixir.
@@ -716,11 +716,6 @@ to this,
 ### Response
 
 *   [Screensiz](http://screensiz.es/phone)
-
-### CSS
-
-*   [css3 animation generator](http://isux.tencent.com/css3/tools.html)
-*   [css3 maker](http://www.css3maker.com/index.html)
 
 ### Image compression
 

@@ -69,7 +69,7 @@
 
 ### Performance / Ruby
 
-*   [TracerBench (⭐240)](https://github.com/TracerBench/tracerbench) - TracerBench is a controlled performance benchmarking tool for web applications, providing clear, actionable and usable insights into performance deltas.
+*   [TracerBench (⭐246)](https://github.com/TracerBench/tracerbench) - TracerBench is a controlled performance benchmarking tool for web applications, providing clear, actionable and usable insights into performance deltas.
 
 ## [5. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
@@ -94,7 +94,7 @@
 
 ### Other
 
-*   [lockfile-lint (⭐738)](https://github.com/lirantal/lockfile-lint) - Lint lockfiles for improved security and trust policies to mitigate malicious package injection and insecure lockfile resources.
+*   [lockfile-lint (⭐783)](https://github.com/lirantal/lockfile-lint) - Lint lockfiles for improved security and trust policies to mitigate malicious package injection and insecure lockfile resources.
 
 ## [8. Awesome Tap](/content/sindresorhus/awesome-tap/README.md)
 
@@ -119,9 +119,9 @@
 
 ### Utility / Docker Container Actions
 
-*   [Get Latest Tag (⭐130)](https://github.com/WyriHaximus/github-action-get-previous-tag) - Get the previous tag from git.
-*   [Create Milestone (⭐15)](https://github.com/WyriHaximus/github-action-create-milestone) - Create a new open milestone given the title and description.
-*   [Close Milestone (⭐2)](https://github.com/WyriHaximus/github-action-close-milestone) - Close the given milestone.
+*   [Get Latest Tag (⭐182)](https://github.com/WyriHaximus/github-action-get-previous-tag) - Get the previous tag from git.
+*   [Create Milestone (⭐16)](https://github.com/WyriHaximus/github-action-create-milestone) - Create a new open milestone given the title and description.
+*   [Close Milestone (⭐4)](https://github.com/WyriHaximus/github-action-close-milestone) - Close the given milestone.
 
 ## [12. Public Apis](/content/public-apis/public-apis/README.md)
 

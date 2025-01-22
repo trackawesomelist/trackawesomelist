@@ -40,7 +40,7 @@
 
 ### Projects / Idea Plugins
 
-*   [dkandalov/activity-tracker (⭐67)](https://github.com/dkandalov/activity-tracker) - Plugin for IntelliJ IDEs to track and record user activity.
+*   [dkandalov/activity-tracker (⭐70)](https://github.com/dkandalov/activity-tracker) - Plugin for IntelliJ IDEs to track and record user activity.
 
 ## [6. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 
@@ -58,11 +58,11 @@
 
 ### Modules / Logging
 
-*   [dlog (⭐4)](https://github.com/dpmland/dlog) - A ussefull logger for the prompt with icons or simple version!
+*   [dlog (⭐3)](https://github.com/dpmland/dlog) - A ussefull logger for the prompt with icons or simple version!
 
 ### Modules / String utils
 
-*   [deno-json-colorizer (⭐4)](https://github.com/dpmland/deno-json-colorizer) - A library for colorizing JSON strings in Deno
+*   [deno-json-colorizer (⭐5)](https://github.com/dpmland/deno-json-colorizer) - A library for colorizing JSON strings in Deno
 
 ### Modules / Utils
 

@@ -70,7 +70,7 @@
 
 ### Multimedia
 
-*   [TagLib (⭐1.1k)](https://github.com/taglib/taglib) - A library for reading and editing the metadata of several popular audio formats. \[LGPL/MPL] [website](https://taglib.org/)
+*   [TagLib (⭐1.2k)](https://github.com/taglib/taglib) - A library for reading and editing the metadata of several popular audio formats. \[LGPL/MPL] [website](https://taglib.org/)
 
 ## [9. Awesome Xamarin](/content/XamSome/awesome-xamarin/README.md)
 

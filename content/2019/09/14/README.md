@@ -22,8 +22,8 @@
 
 ### Tools / Graphics utilities
 
-*   [Tilemap GB (⭐60)](https://github.com/bbbbbr/gimp-tilemap-gb) - GIMP image editor plug-in for importing & exporting GBMB and GBTD tilemaps and tilesets (as bitmap images or .GBM/.GBR files).
-*   [Tilemap Helper (⭐27)](https://github.com/bbbbbr/gimp-tilemap-helper) - GIMP image editor plug-in for optimizing tile maps and tile sets.
+*   [Tilemap GB (⭐63)](https://github.com/bbbbbr/gimp-tilemap-gb) - GIMP image editor plug-in for importing & exporting GBMB and GBTD tilemaps and tilesets (as bitmap images or .GBM/.GBR files).
+*   [Tilemap Helper (⭐28)](https://github.com/bbbbbr/gimp-tilemap-helper) - GIMP image editor plug-in for optimizing tile maps and tile sets.
 
 ## [4. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
 
@@ -42,15 +42,15 @@
 
 ### GitHub Tools and Management / Docker Container Actions
 
-*   [GitHub Project Automation+ (⭐246)](https://github.com/alex-page/github-project-automation-plus) - Automate GitHub Project cards with any webhook event.
+*   [GitHub Project Automation+ (⭐322)](https://github.com/alex-page/github-project-automation-plus) - Automate GitHub Project cards with any webhook event.
 
 ### GitHub Pages / Code Coverage
 
-*   [GitHub Action for Hexo (⭐27)](https://github.com/heowc/action-hexo)
+*   [GitHub Action for Hexo (⭐30)](https://github.com/heowc/action-hexo)
 
 ### Deployment / Code Coverage
 
-*   [Publish a Python distribution package to PyPI (⭐546)](https://github.com/pypa/gh-action-pypi-publish)
+*   [Publish a Python distribution package to PyPI (⭐888)](https://github.com/pypa/gh-action-pypi-publish)
 
 ## [7. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 

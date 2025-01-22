@@ -34,7 +34,7 @@
 
 ### Games / Text
 
-*   [Dynamic Dark Mode (⭐477)](https://github.com/ApolloZhu/Dynamic-Dark-Mode) - Dynamic Dark Mode is the app you are looking for to power up Dark Mode on macOS Mojave and beyond. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
+*   [Dynamic Dark Mode (⭐504)](https://github.com/ApolloZhu/Dynamic-Dark-Mode) - Dynamic Dark Mode is the app you are looking for to power up Dark Mode on macOS Mojave and beyond. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
 
 ## [6. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
 
@@ -56,15 +56,15 @@
 
 ## [9. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
-### Username Check / Telegram
+### Username Check / Steam
 
-*   [Snoop (⭐2.8k)](https://github.com/snooppr/snoop/blob/master/README.en.md) - Search for a nickname on the web (OSINT world)
+*   [Snoop (⭐3.2k)](https://github.com/snooppr/snoop/blob/master/README.en.md) - Search for a nickname on the web (OSINT world)
 
 ## [10. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
 ### ASM / Sources
 
-*   [DeadCScroll (⭐16)](https://github.com/gb-archive/DeadCScroll) - A detailed tutorial on how to make the screen wobble, among other "raster effects"
+*   [DeadCScroll (⭐23)](https://github.com/gb-archive/DeadCScroll) - A detailed tutorial on how to make the screen wobble, among other "raster effects"
 
 ## [11. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 

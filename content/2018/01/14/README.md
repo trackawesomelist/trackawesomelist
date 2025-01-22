@@ -1,18 +1,12 @@
 # Awesome List Updates on Jan 14, 2018
 
-3 awesome lists updated today.
+2 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Projects Using Vue.js / Open Source
-
-*   [TimeMark (⭐15)](https://github.com/MarsZone/TimeMark) - A Time manager which will can record your time and some more function will be developed.
-
-## [2. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
+## [1. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
 
 ### Science and Medicine
 
@@ -38,7 +32,7 @@
 
 
 
-## [3. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
+## [2. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
 ### Hardware
 

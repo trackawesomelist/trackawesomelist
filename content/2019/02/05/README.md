@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 05, 2019
 
-6 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -13,11 +13,11 @@
 *   [Atom](https://atom.io/packages/lang-gdscript) - Syntax highlighting.
 *   [Geany (⭐21)](https://github.com/haimat/GDScript-Geany) - Syntax highlighting.
 *   [Gedit (⭐17)](https://github.com/haimat/GDScript-gedit) - Syntax highlighting.
-*   [Sublime Text (⭐68)](https://github.com/beefsack/GDScript-sublime) - Syntax highlighting.
+*   [Sublime Text (⭐67)](https://github.com/beefsack/GDScript-sublime) - Syntax highlighting.
 
-### Godot script editor syntax themes / Godot version unknown
+### Syntax themes / Godot version unknown
 
-*   [base16-godot (⭐31)](https://github.com/Calinou/base16-godot) - All [base16 (⭐539)](https://github.com/chriskempson/base16) themes.
+*   [base16-godot (⭐34)](https://github.com/Calinou/base16-godot) - All [base16 (⭐656)](https://github.com/chriskempson/base16) themes.
 
 ## [2. Awesome Java](/content/akullpp/awesome-java/README.md)
 
@@ -27,7 +27,7 @@
 
 ### Development / Text-Based User Interfaces
 
-*   [SneakyThrow (⭐75)](https://github.com/rainerhahnekamp/sneakythrow) - Ignores checked exceptions without bytecode manipulation. Can also be used inside Java 8 stream operations.
+*   [SneakyThrow (⭐77)](https://github.com/rainerhahnekamp/sneakythrow) - Ignores checked exceptions without bytecode manipulation. Can also be used inside Java 8 stream operations.
 
 ## [3. Awesome H2o](/content/h2oai/awesome-h2o/README.md)
 
@@ -39,21 +39,13 @@
 
 ### ORM and Datamapping
 
-*   [ecto\_shortuuid (⭐27)](https://github.com/gpedic/ecto_shortuuid) - Ecto type which adds support for [ShortUUIDs (⭐44)](https://github.com/gpedic/ex_shortuuid).
+*   [ecto\_shortuuid (⭐28)](https://github.com/gpedic/ecto_shortuuid) - Ecto type which adds support for [ShortUUIDs (⭐47)](https://github.com/gpedic/ex_shortuuid).
 
 ## [5. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Tools
 
 *   [NuKeeper (⭐540)](https://github.com/NuKeeperDotNet/NuKeeper) - Automagically update nuget packages in .NET projects.
-
-## [6. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
-
-### Libraries / PHP
-
-*   [PHPMongo ODM (⭐242)](https://github.com/sokil/php-mongo) - ODM based on the PHP Mongo PECL extension
-*   [PHPMongo Migrator (⭐29)](https://github.com/sokil/php-mongo-migrator) - Migration tool based on PHPMongo ODM
-*   [yadm (⭐85)](https://github.com/formapro/yadm) - Fast schemaless ODM
 
 ---
 

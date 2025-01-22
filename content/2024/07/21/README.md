@@ -32,11 +32,11 @@
 ### Community
 
 *   [Angular Discord Channel](https://discord.com/invite/angular)
-*   [angular-memes (⭐34)](https://github.com/dzhavat/angular-memes) - A collection of Angular memes.
+*   [angular-memes (⭐35)](https://github.com/dzhavat/angular-memes) - A collection of Angular memes.
 
 ### Authentication / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-security (⭐20)](https://github.com/mselerin/ngx-security) - Security directives for your Angular application to show/hide elements based on a user roles / permissions.
+*   [ngx-security (⭐22)](https://github.com/mselerin/ngx-security) - Security directives for your Angular application to show/hide elements based on a user roles / permissions.
 
 ### Mixed utilities / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 

@@ -1319,6 +1319,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Developer First](/content/agamm/awesome-developer-first/README.md) - ([Source ⭐ 1.2K, 📝 01&#x2F;21 ](https://github.com/agamm/awesome-developer-first)) - A curated list of awesome developer-first tools products.
 - [Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md) - ([Source ⭐ 2K, 📝 24&#x2F;11&#x2F;19 ](https://github.com/kdeldycke/awesome-engineering-team-management)) - 👔 How to transition from software development to engineering management
 - [Awesome Indie](/content/mezod/awesome-indie/README.md) - ([Source ⭐ 9.5K, 📝 22&#x2F;01&#x2F;09 ](https://github.com/mezod/awesome-indie)) - Resources for independent developers to make money
+- [Awesome Leading and Managing](/content/LappleApple/awesome-leading-and-managing/README.md) - ([Source ⭐ 0, 📝 70&#x2F;01&#x2F;01 ](https://github.com/LappleApple/awesome-leading-and-managing)) - 
 - [Awesome Okr](/content/domenicosolazzo/awesome-okr/README.md) - ([Source ⭐ 1.4K, 📝 21&#x2F;09&#x2F;13 ](https://github.com/domenicosolazzo/awesome-okr)) - A curated list about OKR (Objective - Key Results)
 - [Awesome Open Company](/content/opencompany/awesome-open-company/README.md) - ([Source ⭐ 907, 📝 24&#x2F;01&#x2F;11 ](https://github.com/opencompany/awesome-open-company)) - A community-curated list of awesome open companies.
 - [Awesome Social Enterprise](/content/RayBB/awesome-social-enterprise/README.md) - ([Source ⭐ 100, 📝 24&#x2F;12&#x2F;23 ](https://github.com/RayBB/awesome-social-enterprise)) - 📗Resources to dive into the world of social enterprises 🌼 
@@ -1658,6 +1659,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md) - ([Source ⭐ 13K, 📝 24&#x2F;07&#x2F;13 ](https://github.com/neutraltone/awesome-stock-resources)) - :city_sunrise: A collection of links for free stock photography, video and Illustration websites
 - [Awesome Vlc](/content/mfkl/awesome-vlc/README.md) - ([Source ⭐ 66, 📝 22&#x2F;12&#x2F;22 ](https://github.com/mfkl/awesome-vlc)) - 👻 A curated list of awesome VLC and LibVLC resources. 
 - [Codeface](/content/chrissimpkins/codeface/README.md) - ([Source ⭐ 5.8K, 📝 17&#x2F;09&#x2F;16 ](https://github.com/chrissimpkins/codeface)) - Typefaces for source code beautification
+- [Creative Commons Media](/content/shime/creative-commons-media/README.md) - ([Source ⭐ 0, 📝 70&#x2F;01&#x2F;01 ](https://github.com/shime/creative-commons-media)) - 
 
 ### Miscellaneous
 
@@ -1730,6 +1732,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Json Datasets](/content/jdorfman/awesome-json-datasets/README.md) - ([Source ⭐ 3.3K, 📝 22&#x2F;03&#x2F;28 ](https://github.com/jdorfman/awesome-json-datasets)) - A curated list of awesome JSON datasets that don't require authentication.
 - [Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md) - ([Source ⭐ 3.9K, 📝 24&#x2F;07&#x2F;07 ](https://github.com/markusschanta/awesome-jupyter)) - A curated list of awesome Jupyter projects, libraries and resources
 - [Awesome Katas](/content/gamontal/awesome-katas/README.md) - ([Source ⭐ 2.7K, 📝 24&#x2F;08&#x2F;01 ](https://github.com/gamontal/awesome-katas)) - A curated list of code katas
+- [Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md) - ([Source ⭐ 0, 📝 70&#x2F;01&#x2F;01 ](https://github.com/KotlinBy/awesome-kotlin)) - 
 - [Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/README.md) - ([Source ⭐ 15K, 📝 24&#x2F;11&#x2F;13 ](https://github.com/ramitsurana/awesome-kubernetes)) - A curated list for awesome kubernetes sources :ship::tada:
 - [Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/README.md) - ([Source ⭐ 1.4K, 📝 24&#x2F;07&#x2F;18 ](https://github.com/egeerardyn/awesome-LaTeX)) - Curated list of LaTeX awesomeness
 - [Awesome Ledger](/content/sfischer13/awesome-ledger/README.md) - ([Source ⭐ 126, 📝 18&#x2F;04&#x2F;25 ](https://github.com/sfischer13/awesome-ledger)) - :star: Useful resources for the Ledger command-line accounting system
@@ -1823,6 +1826,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 ### Platforms
 
+- [Awesome](/content/Awesome-Windows/Awesome/README.md) - ([Source ⭐ 0, 📝 70&#x2F;01&#x2F;01 ](https://github.com/Awesome-Windows/Awesome)) - 
 - [Awesome Actions on Google](/content/ravirupareliya/awesome-actions-on-google/README.md) - ([Source ⭐ 63, 📝 20&#x2F;10&#x2F;31 ](https://github.com/ravirupareliya/awesome-actions-on-google)) - A collection of useful things regarding Actions on Google.
 - [Awesome Adafruitio](/content/adafruit/awesome-adafruitio/README.md) - ([Source ⭐ 39, 📝 22&#x2F;02&#x2F;20 ](https://github.com/adafruit/awesome-adafruitio)) - A curated list of awesome Adafruit IO guides, videos, libraries, frameworks, software and resources. 
 - [Awesome Amazon Alexa](/content/miguelmota/awesome-amazon-alexa/README.md) - ([Source ⭐ 524, 📝 21&#x2F;05&#x2F;04 ](https://github.com/miguelmota/awesome-amazon-alexa)) - 🗣Curated list of awesome resources for the Amazon Alexa platform.

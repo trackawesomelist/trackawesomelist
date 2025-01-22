@@ -71,13 +71,19 @@
 *   [Social Enterprise Alliance](https://twitter.com/SEAlliance)
 *   [senco](https://twitter.com/senco_io)
 
-## [6. Awesome Ffmpeg](/content/transitive-bullshit/awesome-ffmpeg/README.md)
+## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+
+### Components & Libraries / Utilities
+
+*   [vue-live (⭐259)](https://github.com/vue-styleguidist/vue-live) - A component to demo components, inspired by react-live.
+
+## [7. Awesome Ffmpeg](/content/transitive-bullshit/awesome-ffmpeg/README.md)
 
 ### JavaScript
 
 *   [editly (⭐3.7k)](https://github.com/mifi/editly) - Declarative video editing tool and library with slick animations and transitions.
 
-## [7. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
+## [8. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
 ### Apps / Outline Processor Markup Language
 
@@ -87,7 +93,7 @@
 
 *   [CommaFeed](https://www.commafeed.com/) ![Online](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-web-design-16.png)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Athou/commafeed)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
-## [8. Public Apis](/content/public-apis/public-apis/README.md)
+## [9. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Cryptocurrency
 
@@ -192,24 +198,17 @@
 
 
 
-## [9. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [10. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### E-Books / Others
 
 *   [Blazor Succinctly](https://www.syncfusion.com/ebooks/blazor-succinctly) - April 16, 2020 - A free e-book for starting with the Blazor framework.
 
-## [10. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
+## [11. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
 ### Platforms
 
 *   [Jolie](https://jolie-lang.org) - Open source microservice-oriented programming language.
-
-## [11. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / Utilities
-
-*   [vue-timed-content (⭐7)](https://github.com/dannyfeliz/vue-timed-content) - Shows or hides content based on a given time range and timezone.
-*   [vue-live (⭐252)](https://github.com/vue-styleguidist/vue-live) - A component to demo components, inspired by react-live.
 
 ## [12. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

@@ -10,7 +10,7 @@
 
 ### Terminal / Terminal UI
 
-*   [goManageDocker (⭐333)](https://github.com/ajayd-san/gomanagedocker) - TUI tool to view and manage your docker objects blazingly fast with sensible keybindings, also supports VIM navigation out of the box by [@ajay-dsan](https://github.com/ajayd-san)
+*   [goManageDocker (⭐523)](https://github.com/ajayd-san/gomanagedocker) - TUI tool to view and manage your docker objects blazingly fast with sensible keybindings, also supports VIM navigation out of the box by [@ajay-dsan](https://github.com/ajayd-san)
 
 ### Security / Other
 
@@ -20,13 +20,13 @@
 
 ### Engines and Frameworks / Voxel Editors
 
-*   :tada: [RGFW (⭐226)](https://github.com/ColleagueRiley/RGFW) - Lightweight multi-platform single-header library for creating windows, supports many graphics contexts and software rendering.
+*   :tada: [RGFW (⭐790)](https://github.com/ColleagueRiley/RGFW) - Lightweight multi-platform single-header library for creating windows, supports many graphics contexts and software rendering.
 
 ## [3. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Web Development / Diagnostics
 
-*   [cjodo/convert.nvim (⭐40)](https://github.com/cjodo/convert.nvim) - A tool for CSS unit conversions.
+*   [cjodo/convert.nvim (⭐49)](https://github.com/cjodo/convert.nvim) - A tool for CSS unit conversions.
 
 ---
 

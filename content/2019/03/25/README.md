@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 25, 2019
 
-7 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -99,28 +99,22 @@
 
 ### Deployment / Code Coverage
 
-*   [Deploy a Theme to Shopify (⭐110)](https://github.com/pgrimaud/action-shopify)
+*   [Deploy a Theme to Shopify (⭐129)](https://github.com/pgrimaud/action-shopify)
 
-## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
-
-### APIs, Data, and ML
-
-*   [IPList](https://www.iplist.cc) — Lookup details about any IP address, such as Geo IP information, tor addresses, hostnames, and ASN details. Free for personal and business users.
-
-## [5. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [4. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Developer Tools / Databases
 
-*   [FastoNoSQL](https://fastonosql.com/) - Cross-platform GUI client for Redis, Memcached, SSDB, LevelDB, RocksDB, UnQLite, LMDB, ForestDB, Pika and Dynomite key-value databases. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/fastogt/fastonosql) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [FastoNoSQL](https://fastonosql.com/) - Cross-platform GUI client for various key-value databases. [![OSS](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/fastogt/fastonosql) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [FastoRedis](https://fastoredis.com/) - Cross-platform professional GUI management tool for Redis. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/fastogt/fastoredis) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [6. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [5. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / Code Deploy
 
 *   [aws-codedeploy-samples :fire::fire::fire: (⭐620)](https://github.com/awslabs/aws-codedeploy-samples) - Samples and template scenarios.
 
-## [7. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
+## [6. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
 ### General Section / Svelte
 

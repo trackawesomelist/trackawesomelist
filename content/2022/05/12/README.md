@@ -16,13 +16,13 @@
 
 ### JavaScript / FrameWorks
 
-*   [ccxt (⭐32k)](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges.
+*   [ccxt (⭐34k)](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges.
 
 ## [3. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Vue / Routing
 
-*   ![v3](https://img.shields.io/badge/-v3-35495e) [v-route-generate (⭐12)](https://github.com/weiquanju/v-route-generate) - A tool to generate routes.
+*   ![v3](https://img.shields.io/badge/-v3-35495e) [v-route-generate (⭐13)](https://github.com/weiquanju/v-route-generate) - A tool to generate routes.
 
 ## [4. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
@@ -54,7 +54,7 @@
 
 ### File Management and Sharing
 
-*   [Blindsend (⭐173)](https://github.com/blindnet-io/blindsend) - Open source tool for private, end-to-end encrypted file exchange.
+*   [Blindsend (⭐178)](https://github.com/blindnet-io/blindsend) - Open source tool for private, end-to-end encrypted file exchange.
 
 ## [8. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
@@ -66,11 +66,11 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [chrsm/paramount-ng.nvim (⭐19)](https://github.com/chrsm/paramount-ng.nvim) - A dark color scheme written using Lush. Treesitter supported.
+*   [chrsm/paramount-ng.nvim (⭐20)](https://github.com/chrsm/paramount-ng.nvim) - A dark color scheme written using Lush. Tree-sitter supported.
 
 ### Editing Support / Diagnostics
 
-*   [nvim-treesitter/nvim-treesitter-context (⭐2.4k)](https://github.com/nvim-treesitter/nvim-treesitter-context) - Shows floating hover with the current function/block context.
+*   [nvim-treesitter/nvim-treesitter-context (⭐2.6k)](https://github.com/nvim-treesitter/nvim-treesitter-context) - Shows floating hover with the current function/block context.
 
 ## [10. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
 

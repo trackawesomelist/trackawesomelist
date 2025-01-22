@@ -10,7 +10,7 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [sonjiku/yawnc.nvim (⭐14)](https://github.com/sonjiku/yawnc.nvim) - Theming using pywal, with a Base16 twist.
+*   [sonjiku/yawnc.nvim (⭐15)](https://github.com/sonjiku/yawnc.nvim) - Theming using pywal, with a Base16 twist.
 
 ## [2. Awesome CoreML Models](/content/likedan/Awesome-CoreML-Models/README.md)
 
@@ -22,7 +22,7 @@
 
 ### CMS and applications built on CakePHP
 
-*   [baserCMS (⭐161)](https://github.com/baserproject/basercms) - This is a website development framework with RESTful APIs. Installable as a plugin for CakePHP 4.x.
+*   [baserCMS (⭐174)](https://github.com/baserproject/basercms) - This is a website development framework with RESTful APIs. Installable as a plugin for CakePHP.
 
 ## [4. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 

@@ -24,7 +24,7 @@
 
 ### Modules / Database
 
-*   [dongoose (⭐21)](https://github.com/roonie007/dongoose) - A simple and easy to use ORM for Deno KV.
+*   [dongoose (⭐24)](https://github.com/roonie007/dongoose) - A simple and easy to use ORM for Deno KV.
 
 ### Modules / Web utils
 
@@ -40,17 +40,17 @@
 
 ### Inter-process communication
 
-*   [SRPC (⭐1.9k)](https://github.com/sogou/srpc) - A lightweight RPC system that supports multiple protocols and OpenTelemetry. \[Apache2]
+*   [SRPC (⭐2k)](https://github.com/sogou/srpc) - A lightweight RPC system that supports multiple protocols and OpenTelemetry. \[Apache2]
 
 ## [5. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Graphics
 
-*   [rustq/vue-skia (⭐283)](https://github.com/rustq/vue-skia) - Skia based 2d graphics vue rendering library. It is based on Rust to implement software rasterization to perform rendering.
+*   [rustq/vue-skia (⭐306)](https://github.com/rustq/vue-skia) - Skia based 2d graphics vue rendering library. It is based on Rust to implement software rasterization to perform rendering.
 
 ### Libraries / Finance
 
-*   [d-e-s-o/apca (⭐134)](https://github.com/d-e-s-o/apca) \[[apca](https://crates.io/crates/apca)] - Opinionated and comprehensive bindings to the [Alpaca API](https://alpaca.markets/) for stock trading and more. ![GitHub Workflow Status](https://github.com/d-e-s-o/apca/actions/workflows/test.yml/badge.svg?branch=main)
+*   [d-e-s-o/apca (⭐151)](https://github.com/d-e-s-o/apca) \[[apca](https://crates.io/crates/apca)] - Opinionated and comprehensive bindings to the [Alpaca API](https://alpaca.markets/) for stock trading and more. ![GitHub Workflow Status](https://github.com/d-e-s-o/apca/actions/workflows/test.yml/badge.svg?branch=main)
 
 ## [6. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 

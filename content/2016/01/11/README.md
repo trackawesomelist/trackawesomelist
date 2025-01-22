@@ -28,20 +28,20 @@
 
 ### Files and Directories
 
-*   [exfswatch (⭐261)](https://github.com/falood/exfswatch) - A file change watcher wrapper based on **fs**.
+*   [exfswatch (⭐269)](https://github.com/falood/exfswatch) - A file change watcher wrapper based on **fs**.
 
 ### Framework Components
 
-*   [phoenix\_slime (⭐310)](https://github.com/slime-lang/phoenix_slime) - Slim template support for Phoenix.
+*   [phoenix\_slime (⭐311)](https://github.com/slime-lang/phoenix_slime) - Slim template support for Phoenix.
 *   [plug\_redirect\_https (⭐7)](https://github.com/stocks29/plug_redirect_https) - Plug to redirect http requests to https requests behind a reverse proxy.
 
 ### HTTP
 
-*   [spell (⭐66)](https://github.com/MyMedsAndMe/spell) - Spell is a [Web Application Messaging Protocol](http://wamp-proto.org/) (WAMP) client implementation in Elixir.
+*   [spell (⭐67)](https://github.com/MyMedsAndMe/spell) - Spell is a [Web Application Messaging Protocol](http://wamp-proto.org/) (WAMP) client implementation in Elixir.
 
 ### ORM and Datamapping
 
-*   [arc\_ecto (⭐255)](https://github.com/stavro/arc_ecto) - Arc.Ecto provides an integration with Arc and Ecto.
+*   [arc\_ecto (⭐254)](https://github.com/stavro/arc_ecto) - Arc.Ecto provides an integration with Arc and Ecto.
 *   [exnumerator (⭐65)](https://github.com/KamilLelonek/exnumerator) - Elixir enumerable type definition in a simple way to be used with any database.
 
 ### Utilities
@@ -78,13 +78,13 @@
 
 ### Development / Mobile Development
 
-*   [mobisplash-cli (⭐70)](https://github.com/SamVerschueren/mobisplash-cli) - Mobile app splash screen generator.
+*   [mobisplash-cli (⭐71)](https://github.com/SamVerschueren/mobisplash-cli) - Mobile app splash screen generator.
 
 ## [5. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Packages / Command-line apps
 
-*   [mobisplash (⭐70)](https://github.com/samverschueren/mobisplash-cli) - Mobile app splash screen generator.
+*   [mobisplash (⭐71)](https://github.com/samverschueren/mobisplash-cli) - Mobile app splash screen generator.
 
 ### Resources / Community
 

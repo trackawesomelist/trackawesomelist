@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 03, 2023
 
-13 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Icons / Upstream Style
 
-*   [MoreWaita (⭐488)](https://github.com/somepaulo/MoreWaita) - An Adwaita-style icon theme for Gnome Shell.
+*   [MoreWaita (⭐574)](https://github.com/somepaulo/MoreWaita) - An Adwaita-style icon theme for Gnome Shell.
 
 ## [2. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
@@ -30,15 +30,15 @@
 
 ### Software / Communication - Custom Communication Systems
 
-*   [Screego](https://screego.net) - Screego is a simple tool to quickly share your screen to one or multiple people via web browser. ([Demo](https://app.screego.net/), [Source Code (⭐7.6k)](https://github.com/screego/server)) `GPL-3.0` `Docker/Go`
+*   [Screego](https://screego.net) - Screego is a simple tool to quickly share your screen to one or multiple people via web browser. ([Demo](https://app.screego.net/), [Source Code (⭐8.2k)](https://github.com/screego/server)) `GPL-3.0` `Docker/Go`
 
 ### Software / Money, Budgeting & Management
 
-*   [FOSSBilling](https://fossbilling.org/) - Free and open source hosting and billing automation. Integrates with WHM, CWP, cPanel and HestiaCP. Full API and easily extensible. ([Demo](https://fossbilling.org/demo), [Source Code (⭐805)](https://github.com/FOSSBilling/FOSSBilling)) `Apache-2.0` `PHP/Docker`
+*   [FOSSBilling](https://fossbilling.org/) - Free and open source hosting and billing automation. Integrates with WHM, CWP, cPanel and HestiaCP. Full API and easily extensible. ([Demo](https://fossbilling.org/demo), [Source Code (⭐920)](https://github.com/FOSSBilling/FOSSBilling)) `Apache-2.0` `PHP/Docker`
 
 ### Software / Remote Access
 
-*   [Remotely (⭐4.4k)](https://github.com/immense/Remotely) - A remote desktop control and remote scripting solution, enterprise level remote support solution with admin web interface and remote control via browser. `GPL-3.0` `C#/Docker`
+*   [Remotely (⭐4.7k)](https://github.com/immense/Remotely) - A remote desktop control and remote scripting solution, enterprise level remote support solution with admin web interface and remote control via browser. `GPL-3.0` `C#/Docker`
 
 ## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -63,59 +63,53 @@
 
 ### Development / Devops
 
-*   [flog (⭐1k)](https://github.com/mingrammer/flog) - A fake log generator for log formats such as apache-common, apache error and RFC3164 syslog.
+*   [flog (⭐1.1k)](https://github.com/mingrammer/flog) - A fake log generator for log formats such as apache-common, apache error and RFC3164 syslog.
 
 ### Development / Boilerplate
 
-*   [mevn-cli (⭐822)](https://github.com/madlabsinc/mevn-cli) - Light speed setup for MEVN (Mongo Express Vue Node) Apps.
+*   [mevn-cli (⭐825)](https://github.com/madlabsinc/mevn-cli) - Light speed setup for MEVN (Mongo Express Vue Node) Apps.
 
 ### Files and Directories / Directory Navigation
 
-*   [tere (⭐1.6k)](https://github.com/mgunyho/tere) - A faster alternative to using cd and ls.
+*   [tere (⭐1.7k)](https://github.com/mgunyho/tere) - A faster alternative to using cd and ls.
 
 ### Version Control / Git
 
-*   [Lazygit (⭐45k)](https://github.com/jesseduffield/lazygit) - Simple TUI for git commands.
+*   [Lazygit (⭐53k)](https://github.com/jesseduffield/lazygit) - Simple TUI for git commands.
 
-## [8. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
-
-### Artificial Intelligence (AI)
-
-*   [AI Jobs Board](https://aijobsboard.net) - Jobs in AI/ML
-
-## [9. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
+## [8. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 
 ### Vulnerability Databases / Social Engineering Tools
 
 *   [CISA Known Vulnerabilities Database (KEV)](https://www.cisa.gov/known-exploited-vulnerabilities-catalog) - Vulnerabilities in various systems already known to America's cyber defense agency, the Cybersecurity and Infrastructure Security Agency, to be actively exploited.
 
-## [10. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [9. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Caching
 
-*   [FastCache (⭐124)](https://github.com/jitbit/FastCache) - 10X faster alternative to `MemoryCache` for .NET
+*   [FastCache (⭐144)](https://github.com/jitbit/FastCache) - 10X faster alternative to `MemoryCache` for .NET
 
-## [11. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [10. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / DSL
 
 *   [bipokot/Kabu (⭐33)](https://github.com/bipokot/Kabu) - The fastest way to create complex Kotlin DSL
 
-## [12. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+## [11. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Miscellaneous
 
 *   [react-mrz-scanner (⭐3)](https://github.com/tony-xlh/react-mrz-scanner) - A React component to scan MRZ on passports, visa cards, etc. It is based on Dynamsoft Label Recognizer.
 
-## [13. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
+## [12. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
 ### Tools and session management
 
-*   [tmux-nav-master (⭐5)](https://github.com/TheSast/tmux-nav-master) Easy cross-navigation between tmux and other terminal applications.
+*   [tmux-nav-master (⭐6)](https://github.com/TheSast/tmux-nav-master) Easy cross-navigation between tmux and other terminal applications.
 
 ### Plugins
 
-*   [tmux-keylocker (⭐3)](https://github.com/TheSast/tmux-keylocker) Lock away your tmux keybinds temporarely.
+*   [tmux-keylocker (⭐4)](https://github.com/TheSast/tmux-keylocker) Lock away your tmux keybinds temporarely.
 
 ---
 

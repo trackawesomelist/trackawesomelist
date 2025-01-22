@@ -10,12 +10,12 @@
 
 ### Function extensions
 
-*   [cl-hooks (⭐16)](https://github.com/scymtym/architecture.hooks/) - Hooks extension point mechanism (as known, e.g., from GNU Emacs). LGPL.
+*   [cl-hooks (⭐17)](https://github.com/scymtym/architecture.hooks/) - Hooks extension point mechanism (as known, e.g., from GNU Emacs). LGPL.
 *   [method-hooks](https://gitlab.com/Gnuxie/method-hooks) - When CLOS method combination allow only one hook per method, this library allows an arbitrary number of them. Mozilla Public Licence.
 
 ### Typing
 
-*   👍 [trivial-types (⭐66)](https://github.com/m2ym/trivial-types) - provides missing but important type definitions such as `proper-list`, `association-list`, `property-list` and `tuple`. [LLGPL](http://opensource.franz.com/preamble.html).
+*   👍 [trivial-types (⭐67)](https://github.com/m2ym/trivial-types) - provides missing but important type definitions such as `proper-list`, `association-list`, `property-list` and `tuple`. [LLGPL](http://opensource.franz.com/preamble.html).
 
 ## [2. Awesome Seed Rs](/content/seed-rs/awesome-seed-rs/README.md)
 
@@ -92,8 +92,8 @@
 
 ### Utility / Docker Container Actions
 
-*   [Unlock git-crypt files (⭐31)](https://github.com/sliteteam/github-action-git-crypt-unlock)
-*   [Golang CGO cross compiler (⭐46)](https://github.com/crazy-max/ghaction-xgo)
+*   [Unlock git-crypt files (⭐46)](https://github.com/sliteteam/github-action-git-crypt-unlock)
+*   [Golang CGO cross compiler (⭐64)](https://github.com/crazy-max/ghaction-xgo)
 
 ## [11. Awesome Steam](/content/scholtzm/awesome-steam/README.md)
 
@@ -117,7 +117,7 @@
 
 ### Networking
 
-*   [KCP (⭐15k)](https://github.com/skywind3000/kcp/blob/master/README.en.md) - A fast and reliable ARQ protocol that helps applications to reduce network latency. \[MIT]
+*   [KCP (⭐16k)](https://github.com/skywind3000/kcp/blob/master/README.en.md) - A fast and reliable ARQ protocol that helps applications to reduce network latency. \[MIT]
 
 ---
 

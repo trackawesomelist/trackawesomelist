@@ -76,7 +76,7 @@
 
 ### C bindings
 
-*   [crystal-hunspell (⭐6)](https://github.com/mamantoha/crystal-hunspell) - Bindings for [Hunspell](https://hunspell.github.io/)
+*   [crystal-hunspell (⭐7)](https://github.com/mamantoha/crystal-hunspell) - Bindings for [Hunspell](https://hunspell.github.io/)
 
 ## [10. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
@@ -138,11 +138,11 @@
 ### Types / Playground
 
 *   [typesync (⭐1.5k)](https://github.com/jeffijoe/typesync) - Install missing TypeScript typings for dependencies in your package.json.
-*   [type-fest (⭐14k)](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types
+*   [type-fest (⭐15k)](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types
 
 ### Web / Playground
 
-*   :octocat: [armour/vue-typescript-admin-template (⭐5.5k)](https://github.com/Armour/vue-typescript-admin-template) - A vue-cli 3.0 & typescript minimal admin template + a production-ready front-end solution for admin interfaces ([demo](https://armour.github.io/vue-typescript-admin-template/#/dashboard))
+*   :octocat: [armour/vue-typescript-admin-template (⭐5.6k)](https://github.com/Armour/vue-typescript-admin-template) - A vue-cli 3.0 & typescript minimal admin template + a production-ready front-end solution for admin interfaces ([demo](https://armour.github.io/vue-typescript-admin-template/#/dashboard))
 
 ### Libraries / Chrome Extensions
 
@@ -174,7 +174,7 @@
 
 ### Physics
 
-*   [Quantum++ (⭐528)](https://github.com/vsoftco/qpp) - A modern C++11 quantum computing library. \[MIT]
+*   [Quantum++ (⭐559)](https://github.com/vsoftco/qpp) - A modern C++11 quantum computing library. \[MIT]
 
 ## [22. Awesome Product Design](/content/ttt30ga/awesome-product-design/week/README.md)
 
@@ -207,17 +207,17 @@
 
 ### Platforms
 
-*   [KDE (⭐445)](https://github.com/francoism90/awesome-kde#readme) - A free software community dedicated to creating an open and user-friendly computing experience.
+*   [KDE (⭐495)](https://github.com/francoism90/awesome-kde#readme) - A free software community dedicated to creating an open and user-friendly computing experience.
 
 ### Computer Science
 
-*   [Empirical Software Engineering (⭐409)](https://github.com/dspinellis/awesome-msr#readme) - Evidence-based research on software systems.
+*   [Empirical Software Engineering (⭐421)](https://github.com/dspinellis/awesome-msr#readme) - Evidence-based research on software systems.
 
 ### Miscellaneous
 
-*   [Cheminformatics (⭐671)](https://github.com/hsiaoyi0504/awesome-cheminformatics#readme) - Informatics techniques applied to problems in chemistry.
-*   [Prisma (⭐601)](https://github.com/catalinmiron/awesome-prisma#readme) - Turn your database into a GraphQL API.
-*   [Software Architecture (⭐2.3k)](https://github.com/simskij/awesome-software-architecture#readme) - The discipline of designing and building software.
+*   [Cheminformatics (⭐707)](https://github.com/hsiaoyi0504/awesome-cheminformatics#readme) - Informatics techniques applied to problems in chemistry.
+*   [Prisma (⭐626)](https://github.com/catalinmiron/awesome-prisma#readme) - Turn your database into a GraphQL API.
+*   [Software Architecture (⭐2.4k)](https://github.com/simskij/awesome-software-architecture#readme) - The discipline of designing and building software.
 
 ## [26. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
@@ -268,7 +268,7 @@
 
 *   [Backdrop](https://backdropcms.org) - A CMS targeting small-to-medium-sized business and non-profits (a fork of Drupal).
 *   [Drupal](https://www.drupal.org) - An enterprise level CMS.
-*   [Grav (⭐14k)](https://github.com/getgrav/grav) - A modern flat-file CMS.
+*   [Grav (⭐15k)](https://github.com/getgrav/grav) - A modern flat-file CMS.
 *   [Joomla](https://www.joomla.org/) - Another leading CMS.
 
 ### Table of Contents / Templating
@@ -281,7 +281,7 @@
 
 ### Table of Contents / Files
 
-*   [PHP FFmpeg (⭐4.8k)](https://github.com/PHP-FFmpeg/PHP-FFmpeg/) - A wrapper for the [FFmpeg](https://www.ffmpeg.org/) video library.
+*   [PHP FFmpeg (⭐4.9k)](https://github.com/PHP-FFmpeg/PHP-FFmpeg/) - A wrapper for the [FFmpeg](https://www.ffmpeg.org/) video library.
 
 ### Table of Contents / Imagery
 
@@ -339,11 +339,11 @@
 
 ### Table of Contents / Filtering, Sanitizing and Validation
 
-*   [ISO-codes (⭐789)](https://github.com/ronanguilloux/IsoCodes) - A library for validating inputs according to standards from ISO, International Finance, Public Administrations, GS1, Book Industry, Phone numbers & Zipcodes for many countries.
+*   [ISO-codes (⭐792)](https://github.com/ronanguilloux/IsoCodes) - A library for validating inputs according to standards from ISO, International Finance, Public Administrations, GS1, Book Industry, Phone numbers & Zipcodes for many countries.
 
 ### Table of Contents / Data Structure and Storage
 
-*   [msgpack.php (⭐386)](https://github.com/rybakit/msgpack.php) - A pure PHP implementation of the [MessagePack](https://msgpack.org/) serialization format.
+*   [msgpack.php (⭐390)](https://github.com/rybakit/msgpack.php) - A pure PHP implementation of the [MessagePack](https://msgpack.org/) serialization format.
 
 ### Configuration / Third Party APIs
 
@@ -388,8 +388,8 @@
 
 ### Entertainment / Music
 
-*   [ncmpcpp (⭐2k)](https://github.com/arybczak/ncmpcpp) - mpd client.
-*   [beets (⭐12k)](https://github.com/beetbox/beets) - Music library manager and tagger.
+*   [ncmpcpp (⭐2.1k)](https://github.com/arybczak/ncmpcpp) - mpd client.
+*   [beets (⭐13k)](https://github.com/beetbox/beets) - Music library manager and tagger.
 
 ### Entertainment / Video
 
@@ -397,11 +397,7 @@
 
 ### Development / Npm
 
-*   [updates (⭐95)](https://github.com/silverwind/updates) - Flexible npm dependency update tool.
-
-### Productivity / Note Taking and Lists
-
-*   [taskell (⭐1.7k)](https://github.com/smallhadroncollider/taskell) - Interactive kanban board/task manager.
+*   [updates (⭐99)](https://github.com/silverwind/updates) - Flexible npm dependency update tool.
 
 ### Utilities / Terminal Sharing Utilities
 
@@ -409,22 +405,22 @@
 
 ### Files and Directories / Files
 
-*   [bat (⭐46k)](https://github.com/sharkdp/bat) - A cat clone with syntax highlighting.
-*   [webtorrent-cli (⭐1.1k)](https://github.com/feross/webtorrent-cli) – Streaming torrent client.
+*   [bat (⭐50k)](https://github.com/sharkdp/bat) - A cat clone with syntax highlighting.
+*   [webtorrent-cli (⭐1.2k)](https://github.com/feross/webtorrent-cli) – Streaming torrent client.
 
 ### Other Awesome Lists / Emoji
 
-*   [awesome-git-addons (⭐1.9k)](https://github.com/stevemao/awesome-git-addons#readme) - Addons that extend git cli.
-*   [awesome-shell (⭐31k)](https://github.com/alebcay/awesome-shell#readme) – Command-line utilities and frameworks.
+*   [awesome-git-addons (⭐2k)](https://github.com/stevemao/awesome-git-addons#readme) - Addons that extend git cli.
+*   [awesome-shell (⭐33k)](https://github.com/alebcay/awesome-shell#readme) – Command-line utilities and frameworks.
 *   [terminals-are-sexy (⭐12k)](https://github.com/k4m4/terminals-are-sexy#readme) – Terminal frameworks, plugins & resources.
-*   [awesome-zsh-plugins (⭐14k)](https://github.com/unixorn/awesome-zsh-plugins#readme) – ZSH frameworks, plugins, tutorials & themes.
-*   [awesome-nodejs clis (⭐56k)](https://github.com/sindresorhus/awesome-nodejs#command-line-apps) – Node.js modules and resources.
+*   [awesome-zsh-plugins (⭐15k)](https://github.com/unixorn/awesome-zsh-plugins#readme) – ZSH frameworks, plugins, tutorials & themes.
+*   [awesome-nodejs clis (⭐59k)](https://github.com/sindresorhus/awesome-nodejs#command-line-apps) – Node.js modules and resources.
 
 ## [35. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
 ### Network Vulnerability Scanners / Wireless Network Tools
 
-*   [celerystalk (⭐395)](https://github.com/sethsec/celerystalk) - Asynchronous enumeration and vulnerability scanner that "runs all the tools on all the hosts" in a configurable manner.
+*   [celerystalk (⭐399)](https://github.com/sethsec/celerystalk) - Asynchronous enumeration and vulnerability scanner that "runs all the tools on all the hosts" in a configurable manner.
 
 ## [36. Awesome React Hooks](/content/glauberfc/awesome-react-hooks/week/README.md)
 
@@ -515,7 +511,7 @@
 
 ### Developer Tools / Command Line Tools
 
-*   [job (⭐145)](https://github.com/liujianping/job) - JOB, make your short-term command as a long-term job. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/liujianping/job) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [job (⭐147)](https://github.com/liujianping/job) - JOB, make your short-term command as a long-term job. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/liujianping/job) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [42. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
 
@@ -555,47 +551,47 @@
 
 ### Software / Automation
 
-*   [Kibitzr](https://kibitzr.github.io) - Lightweight personal web assistant with powerful integrations. ([Source Code (⭐644)](https://github.com/kibitzr/kibitzr)) `MIT` `Python`
+*   [Kibitzr](https://kibitzr.github.io) - Lightweight personal web assistant with powerful integrations. ([Source Code (⭐660)](https://github.com/kibitzr/kibitzr)) `MIT` `Python`
 
 ### Software / Communication - Email - Webmail Clients
 
-*   [Roundcube](https://roundcube.net) - Browser-based IMAP client with an application-like user interface. ([Source Code (⭐5.7k)](https://github.com/roundcube/roundcubemail)) `GPL-3.0` `PHP/deb`
+*   [Roundcube](https://roundcube.net) - Browser-based IMAP client with an application-like user interface. ([Source Code (⭐6k)](https://github.com/roundcube/roundcubemail)) `GPL-3.0` `PHP/deb`
 
 ### Software / Content Management Systems (CMS)
 
-*   [Strapi](https://strapi.io/) - The most advanced open-source Content Management Framework (headless-CMS) to build powerful API with no effort. ([Source Code (⭐62k)](https://github.com/strapi/strapi)) `MIT` `Nodejs`
+*   [Strapi](https://strapi.io/) - The most advanced open-source Content Management Framework (headless-CMS) to build powerful API with no effort. ([Source Code (⭐65k)](https://github.com/strapi/strapi)) `MIT` `Nodejs`
 
 ### Software / File Transfer - Peer-to-peer Filesharing
 
-*   [qBittorrent](https://www.qbittorrent.org/) - Free cross-platform bittorrent client with a feature rich Web UI for remote access. ([Source Code (⭐27k)](https://github.com/qbittorrent/qBittorrent)) `GPL-2.0` `C++`
+*   [qBittorrent](https://www.qbittorrent.org/) - Free cross-platform bittorrent client with a feature rich Web UI for remote access. ([Source Code (⭐30k)](https://github.com/qbittorrent/qBittorrent)) `GPL-2.0` `C++`
 
 ### Software / File Transfer - Web-based File Managers
 
-*   [IFM (⭐339)](https://github.com/misterunknown/ifm) - Single script file manager. `MIT` `PHP`
+*   [IFM (⭐349)](https://github.com/misterunknown/ifm) - Single script file manager. `MIT` `PHP`
 
 ### Software / Learning and Courses
 
-*   [RELATE](https://documen.tician.de/relate/) - RELATE is a web-based courseware package, includes features such as: flexible rules, statistics, multi-course support, class calendar. ([Source Code (⭐376)](https://github.com/inducer/relate)) `MIT` `Python`
+*   [RELATE](https://documen.tician.de/relate/) - RELATE is a web-based courseware package, includes features such as: flexible rules, statistics, multi-course support, class calendar. ([Source Code (⭐389)](https://github.com/inducer/relate)) `MIT` `Python`
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [Polaris (⭐1.4k)](https://github.com/agersant/polaris) - Music browsing and streaming application optimized for large music collections, ease of use and high performance. `MIT` `Rust/Docker`
+*   [Polaris (⭐1.5k)](https://github.com/agersant/polaris) - Music browsing and streaming application optimized for large music collections, ease of use and high performance. `MIT` `Rust/Docker`
 
 ### Software / Money, Budgeting & Management
 
-*   [Fava](https://beancount.github.io/fava/) - Fava is the web frontend of Beancount, a text based double-entry accounting system. ([Demo](https://fava.pythonanywhere.com/example-with-budgets/income_statement/), [Source Code (⭐1.9k)](https://github.com/beancount/fava)) `MIT` `Python`
+*   [Fava](https://beancount.github.io/fava/) - Fava is the web frontend of Beancount, a text based double-entry accounting system. ([Demo](https://fava.pythonanywhere.com/example-with-budgets/income_statement/), [Source Code (⭐2k)](https://github.com/beancount/fava)) `MIT` `Python`
 
 ### Software / Software Development - IDE & Tools
 
-*   [RStudio Server](https://www.rstudio.com/products/rstudio/#Server) - Web browser based IDE for R. ([Source Code (⭐4.6k)](https://github.com/rstudio/rstudio)) `AGPL-3.0` `Java/C++`
+*   [RStudio Server](https://www.rstudio.com/products/rstudio/#Server) - Web browser based IDE for R. ([Source Code (⭐4.7k)](https://github.com/rstudio/rstudio)) `AGPL-3.0` `Java/C++`
 
 ### Software / Software Development - Project Management
 
-*   [Klaus (⭐676)](https://github.com/jonashaag/klaus) - Simple, easy-to-set-up Git web viewer that Just Works. `ISC` `Python/Docker`
+*   [Klaus (⭐685)](https://github.com/jonashaag/klaus) - Simple, easy-to-set-up Git web viewer that Just Works. `ISC` `Python/Docker`
 
 ### Software / Wikis
 
-*   [Pepperminty Wiki (⭐180)](https://github.com/sbrl/Pepperminty-Wiki) - Complete markdown-powered wiki contained in a single PHP file. ([Demo](https://starbeamrainbowlabs.com/labs/peppermint/build/)) `MPL-2.0` `PHP`
+*   [Pepperminty Wiki (⭐191)](https://github.com/sbrl/Pepperminty-Wiki) - Complete markdown-powered wiki contained in a single PHP file. ([Demo](https://starbeamrainbowlabs.com/labs/peppermint/build/)) `MPL-2.0` `PHP`
 
 ## [47. Game Datasets](/content/leomaurodesenv/game-datasets/week/README.md)
 
@@ -603,7 +599,7 @@
 
 *   [IGDB](https://www.igdb.com/api) - General information of games from any platform.
 *   [Riot Games](https://developer.riotgames.com/) - Active games, match history, and ranked statistics.
-*   [TGDB (⭐128)](https://github.com/TheGamesDB/TheGamesDB/) - General information of games from any platform. [Website](https://thegamesdb.net/).
+*   [TGDB (⭐133)](https://github.com/TheGamesDB/TheGamesDB/) - General information of games from any platform. [Website](https://thegamesdb.net/).
 
 ### Artificial Intelligence
 
@@ -611,43 +607,42 @@
 *   [Angry Bots](http://www.aigameresearch.org/demo-item/pcg-angry-bots/) - Shooting game against robots.
 *   [Daimonin](https://www.daimonin.org/) - Isometric MMORPG.
 *   [Deliantra](http://www.deliantra.net/) - Adventure game in a medieval environment.
-*   [Dungeon Crawl: Stone Soup (⭐2.1k)](https://github.com/crawl/crawl) - Roguelike adventure.
+*   [Dungeon Crawl: Stone Soup (⭐2.4k)](https://github.com/crawl/crawl) - Roguelike adventure.
 *   [Fighting Game AI Competition](http://www.ice.ci.ritsumei.ac.jp/~ftgaic/) - Controller for a fighting game.
 *   [FlightGear Flight Simulator](http://home.flightgear.org/) - Flight simulator.
 *   [General Video Game AI](http://www.gvgai.net/) - Controller for general video game playing. [Paper](https://arxiv.org/abs/1802.10363).
 *   [Hanabi Competition](http://hanabi.aiclash.com/) - Board game competition.
 *   [Hearthstone AI](https://dockhorn.antares.uberspace.de/wordpress/) - Card game competition.
 *   [Infinite Mario Bros](http://www.marioai.org/) - Super Mario competition. Platformer AI antecedent. [Website](http://julian.togelius.com/mariocompetition2009/).
-*   [Malmo (⭐4k)](https://github.com/Microsoft/malmo) - Platform built on top of [Minecraft](https://www.minecraft.net/en-us/) game.
-*   [microRTS (⭐257)](https://github.com/santiontanon/microrts) - RTS game competition. [PT-BR (⭐5)](https://github.com/rubensolv/MicroRTS).
+*   [Malmo (⭐4.1k)](https://github.com/Microsoft/malmo) - Platform built on top of [Minecraft](https://www.minecraft.net/en-us/) game.
+*   [microRTS (⭐286)](https://github.com/santiontanon/microrts) - RTS game competition. [PT-BR (⭐4)](https://github.com/rubensolv/MicroRTS).
 *   [Ms. Pac-Man](http://gameaibook.org/wp-content/uploads/2016/10/mspacman-master.zip) - Pac-Man game competition. [Website](https://github.com/leomaurodesenv/game-datasets/blob/master/README.md/www.pacmanvghosts.co.uk).
 *   [OpenLieroX](http://www.openlierox.net/) - Liero (similar to Worms) game.
 *   [Platformer AI](https://sites.google.com/site/platformersai/) - Super Mario competition.
-*   [qengine (⭐834)](https://github.com/klaussilveira/qengine) - Retro game engine.
-*   [Retro Contest (⭐3.3k)](https://github.com/openai/retro) - Competition on SEGA Genesis games. [Website](https://openai.com/blog/retro-contest/).
+*   [qengine (⭐855)](https://github.com/klaussilveira/qengine) - Retro game engine.
+*   [Retro Contest (⭐3.4k)](https://github.com/openai/retro) - Competition on SEGA Genesis games. [Website](https://openai.com/blog/retro-contest/).
 *   [Showdown AI Competition (⭐14)](https://github.com/scotchkorean27/showdownaiclient) - Competition of Pokemon battle. [Website](http://game.engineering.nyu.edu/showdown-ai-competition/), [paper](http://game.engineering.nyu.edu/wp-content/uploads/2017/02/CIG_2017_paper_87-1.pdf).
 *   [StarCraft AI Competition](https://sites.google.com/site/starcraftaic/) - StarCraft game competition.
-*   [Text-Based Adventure AI Competition (⭐29)](https://github.com/Atkrye/IEEE-CIG-Text-Adventurer-Competition) - Text-adventure game competition. [Website](http://atkrye.github.io/IEEE-CIG-Text-Adventurer-Competition/).
+*   [Text-Based Adventure AI Competition (⭐30)](https://github.com/Atkrye/IEEE-CIG-Text-Adventurer-Competition) - Text-adventure game competition. [Website](http://atkrye.github.io/IEEE-CIG-Text-Adventurer-Competition/).
 *   [The Genius](http://thegenius.sourceforge.net/) - Chess engine.
-*   [Visual Doom AI Competition (⭐1.6k)](https://github.com/mwydmuch/ViZDoom) - Doom game competition. [Website](http://vizdoom.cs.put.edu.pl/).
+*   [Visual Doom AI Competition (⭐1.7k)](https://github.com/mwydmuch/ViZDoom) - Doom game competition. [Website](http://vizdoom.cs.put.edu.pl/).
 
 ### Artificial Intelligence / Mobile
 
-*   [Pixel Dungeon (⭐3.4k)](https://github.com/watabou/pixel-dungeon) - Roguelike game.
-*   [Shattered Pixel Dungeon (⭐3.2k)](https://github.com/00-Evan/shattered-pixel-dungeon) - Improved Pixel Dungeon.
+*   [Pixel Dungeon (⭐3.6k)](https://github.com/watabou/pixel-dungeon) - Roguelike game.
+*   [Shattered Pixel Dungeon (⭐4.8k)](https://github.com/00-Evan/shattered-pixel-dungeon) - Improved Pixel Dungeon.
 
 ### Artificial Intelligence / Web
 
-*   [Infinite Mario Bros (⭐471)](https://github.com/robertkleffner/mariohtml5) - Super Mario Bros. [Play](https://openhtml5games.github.io/games-mirror/dist/mariohtml5/main.html).
-*   [Onslaught! Arena (⭐189)](https://github.com/lostdecade/onslaught_arena) - Fight off hordes of medieval monsters. [Play](http://arcade.lostdecadegames.com/onslaught-arena/).
-*   [TapAI (⭐0)](https://github.com/leomaurodesenv/TapAI) - User interactions with a tap on screen game. [Play](http://projects.leonardomauro.com/tapai/).
+*   [Infinite Mario Bros (⭐488)](https://github.com/robertkleffner/mariohtml5) - Super Mario Bros. [Play](https://openhtml5games.github.io/games-mirror/dist/mariohtml5/main.html).
+*   [Onslaught! Arena (⭐194)](https://github.com/lostdecade/onslaught_arena) - Fight off hordes of medieval monsters. [Play](http://arcade.lostdecadegames.com/onslaught-arena/).
+*   [TapAI (⭐1)](https://github.com/leomaurodesenv/TapAI) - User interactions with a tap on screen game. [Play](http://projects.leonardomauro.com/tapai/).
 
 ### Dataset / Web
 
 *   [(LoL) League of Legends Ranked Games](https://www.kaggle.com/datasnaek/league-of-legends) - Matches details from ranked games.
 *   [2018 FIFA World Cup Squads](https://www.kaggle.com/cclayford/2018-fifa-world-cup-squads) - Squad details for teams participating in the World Cup.
 *   [Board Game Data](https://www.kaggle.com/mrpantherson/board-game-data) - Data from board games.
-*   [Board Games Dataset](https://www.kaggle.com/gabrio/board-games-dataset) - Attributes and the ratings from board games in [BoardGameGeek](https://www.boardgamegeek.com/).
 *   [Boardgaming Online Game Records](https://www.kaggle.com/jingking/boardgaming-online-processed-game-records) - Playthroughs of board games.
 *   [Clash of Clans app store user comments](https://www.kaggle.com/moradnejad/clash-of-clans-50000-user-comments) - User reviews from Google Play and iTunes App Store.
 *   [Complete FIFA 2017 Player dataset (Global)](https://www.kaggle.com/artimous/complete-fifa-2017-player-dataset-global) - Players data.
@@ -662,13 +657,12 @@
 *   [OpenDota](https://blog.opendota.com/2017/03/24/datadump2/) - Continuous database of Dota 2 matches.
 *   [Path of exile game statistic](https://www.kaggle.com/gagazet/path-of-exile-league-statistic) - Players data.
 *   [Platform Experience Dataset](https://drive.google.com/drive/folders/0B93_a48_LnJ0VEc3NklYbWpVZXM) - Super Mario Bros matches. [Paper](https://doi.org/10.1109/ACII.2015.7344647).
-*   [Pokémon GO Pokédex (⭐128)](https://github.com/Biuni/PokemonGO-Pokedex) - Encyclopedia Pokemon.
+*   [Pokémon GO Pokédex (⭐126)](https://github.com/Biuni/PokemonGO-Pokedex) - Encyclopedia Pokemon.
 *   [Pokemon Wonder Trade Results](https://data.world/notgibs/pokemon-wonder-trade-results) - Results of wonder trades in Pokemon Moon version.
 *   [PokemonGO](https://www.kaggle.com/abcsds/pokemongo) - Pokemon and battle stats.
 *   [Scrabble (⭐0)](https://github.com/onzie9/Quackle_Self_Play) - Data Quackle game matches.
 *   [StarCraft 2 (UCI)](https://archive.ics.uci.edu/ml/datasets/SkillCraft1+Master+Table+Dataset) - Data stream of matches. [Paper](https://doi.org/10.1371/journal.pone.0075129).
 *   [StarCraft II Replay Analysis](https://www.kaggle.com/sfu-summit/starcraft-ii-replay-analysis) - Aggregation of the replays.
-*   [The Complete Pokemon Dataset](https://www.kaggle.com/rounakbanik/pokemon) - Pokemon data from all generations.
 *   [World of Warcraft Avatar History](https://www.kaggle.com/mylesoneill/warcraft-avatar-history) - Collection of records. [Website](http://mmnet.iis.sinica.edu.tw/dl/wowah/).
 
 ### Dataset / Related
@@ -679,7 +673,6 @@
 *   [Metacritic games](https://www.kaggle.com/destring/metacritic-reviewed-games-since-2000) - Games data from [metacritc](https://www.metacritic.com).
 *   [Over 13,000 Steam Games](https://www.kaggle.com/kingburrito666/over-13000-steam-games) - Prices of video games from Steam.
 *   [PEW-Gaming-Broadband](https://data.world/jshep512/pew-gaming-broadband) - Questions about video games.
-*   [Steam Video Games](https://www.kaggle.com/tamber/steam-video-games) - Steam user interactions.
 *   [Vandal Game Reviews](https://www.kaggle.com/floval/12-000-video-game-reviews-from-vandal) - Game data from [Vandal.com](https://vandal.elespanol.com/).
 *   [Video Game DATA](https://www.kaggle.com/juttugarakesh/video-game-data) - Video games released.
 *   [Video Games Review](https://www.kaggle.com/launay10christian/video-games-review) - Reviews on [JeuxVideo.com](http://www.jeuxvideo.com/).
@@ -689,9 +682,9 @@
 ### Miscellaneous / Related
 
 *   [Academic Torrents](http://academictorrents.com/) - Sharing enormous datasets.
-*   [Awesome ACG (⭐1.2k)](https://github.com/soruly/awesome-acg) - Technologies related to anime, comic and games.
-*   [Games of Coding (⭐1.7k)](https://github.com/michelpereira/awesome-gamesofcoding) - Games to teach programming language.
-*   [Games on GitHub (⭐22k)](https://github.com/leereilly/games) - Popular videos games hosted in GitHub.
+*   [Awesome ACG (⭐1.3k)](https://github.com/soruly/awesome-acg) - Technologies related to anime, comic and games.
+*   [Games of Coding (⭐1.9k)](https://github.com/michelpereira/awesome-gamesofcoding) - Games to teach programming language.
+*   [Games on GitHub (⭐23k)](https://github.com/leereilly/games) - Popular videos games hosted in GitHub.
 *   [Libre Game Wiki](https://libregamewiki.org/Main_Page) - Free gaming encyclopedia.
 *   [Open-source games](https://pt.wikipedia.org/wiki/Lista_de_jogos_de_c%C3%B3digo_aberto) - Open-source games (PT-BR).
 *   [UCI](https://archive.ics.uci.edu/) - Datasets.
@@ -733,8 +726,8 @@
 
 ### Kubernetes
 
-*   [Deprecated Keycloak Helm Chart (⭐610)](https://github.com/codecentric/helm-charts/tree/master/charts/keycloak)
-*   [codecentric Keycloak Helm Chart (⭐610)](https://github.com/codecentric/helm-charts/tree/master/charts/keycloak)
+*   [Deprecated Keycloak Helm Chart (⭐631)](https://github.com/codecentric/helm-charts/tree/master/charts/keycloak)
+*   [codecentric Keycloak Helm Chart (⭐631)](https://github.com/codecentric/helm-charts/tree/master/charts/keycloak)
 
 ## [51. Awesome Code Review](/content/joho/awesome-code-review/week/README.md)
 

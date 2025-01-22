@@ -10,7 +10,7 @@
 
 ### Machine Learning Libraries / Deep learning
 
-*   [ruby-dnn (⭐43)](https://github.com/unagiootoro/ruby-dnn) - Simple deep learning for Ruby.
+*   [ruby-dnn (⭐46)](https://github.com/unagiootoro/ruby-dnn) - Simple deep learning for Ruby.
 
 ## [2. Awesome Embedded and Iot Security](/content/fkie-cad/awesome-embedded-and-iot-security/README.md)
 
@@ -24,25 +24,17 @@
 
 *   [NAR](https://academic.oup.com/nar) - Nucleic Acids Research. Has a broad biomolecular focus but is particularly notable for its annual database issue.
 
-## [4. Awesome Sre](/content/dastergon/awesome-sre/README.md)
-
-### Service Level Agreement
-
-*   [Backblaze Durability is 99.999999999% — And Why It Doesn’t Matter](https://www.backblaze.com/blog/cloud-storage-durability/)
-
-## [5. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
-
-### Job boards
-
-*   [Slasify](https://slasify.com/en/) - Remote tech, art/design and marketing opportunities from Asia, global payroll service included.
-
-### Companies with "remote DNA"
-
-*   [ConsenSys](https://consensys.net/careers/) - Blockchain software technology company with offices all around the world, and independent employees in even more locations.
+## [4. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
 ### Tools / Communication
 
 *   [Whereby](https://whereby.com) – Browser-based, plugin-less group video calls.
+
+## [5. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+
+### Service Level Agreement
+
+*   [Backblaze Durability is 99.999999999% — And Why It Doesn’t Matter](https://www.backblaze.com/blog/cloud-storage-durability/)
 
 ## [6. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 
@@ -54,7 +46,7 @@
 
 ### Utility / Docker Container Actions
 
-*   [Update Maxmind Databases (⭐4)](https://github.com/meetup/maxmind-updater)
+*   [Update Maxmind Databases (⭐5)](https://github.com/meetup/maxmind-updater)
 
 ## [8. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 
@@ -70,7 +62,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [Neuraxle (⭐604)](https://github.com/Neuraxio/Neuraxle): A framework providing the right abstractions to ease research, development, and deployment of your ML pipelines.
+*   [Neuraxle (⭐610)](https://github.com/Neuraxio/Neuraxle): A framework providing the right abstractions to ease research, development, and deployment of your ML pipelines.
 
 ---
 

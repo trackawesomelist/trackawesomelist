@@ -10,8 +10,8 @@
 
 ### Template Engine
 
-*   [Nustache (⭐593)](https://github.com/jdiamond/Nustache) - Open source library for logic-less templates
-*   [DotLiquid (⭐1k)](https://github.com/dotliquid/dotliquid) - C# port of the Ruby Liquid templating language
+*   [Nustache (⭐599)](https://github.com/jdiamond/Nustache) - Open source library for logic-less templates
+*   [DotLiquid (⭐1.1k)](https://github.com/dotliquid/dotliquid) - C# port of the Ruby Liquid templating language
 
 ## [2. Awesome Polymer](/content/Granze/awesome-polymer/README.md)
 
@@ -27,7 +27,7 @@
 
 ### DevOps Tools
 
-*   [SSHKey (⭐276)](https://github.com/bensie/sshkey) - SSH private and public key generator in pure Ruby (RSA & DSA).
+*   [SSHKey (⭐275)](https://github.com/bensie/sshkey) - SSH private and public key generator in pure Ruby (RSA & DSA).
 
 ## [4. Awesome Geojson](/content/tmcw/awesome-geojson/README.md)
 
@@ -58,7 +58,7 @@
 
 ### JavaScript Libraries
 
-*   [Bitcoinjs-lib (⭐5.6k)](https://github.com/bitcoinjs/bitcoinjs-lib)
+*   [Bitcoinjs-lib (⭐5.8k)](https://github.com/bitcoinjs/bitcoinjs-lib)
 
 ## [6. Awesome Groovy](/content/kdabir/awesome-groovy/README.md)
 
@@ -70,7 +70,7 @@
 
 ### High Performance
 
-*   [Rcpp11 (⭐80)](https://github.com/Rcpp11/Rcpp11) - Rcpp11 is a complete redesign of Rcpp, targetting C++11.
+*   [Rcpp11 (⭐78)](https://github.com/Rcpp11/Rcpp11) - Rcpp11 is a complete redesign of Rcpp, targetting C++11.
 
 ---
 

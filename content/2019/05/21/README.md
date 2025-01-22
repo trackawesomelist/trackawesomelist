@@ -10,7 +10,7 @@
 
 ### Related Awesome Lists / Mocking
 
-*   [Awesome Annotation Processing (⭐456)](https://github.com/gunnarmorling/awesome-annotation-processing)
+*   [Awesome Annotation Processing (⭐481)](https://github.com/gunnarmorling/awesome-annotation-processing)
 
 ## [2. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
@@ -40,7 +40,7 @@
 
 ### Front-End Development
 
-*   [Storybook (⭐367)](https://github.com/lauthieb/awesome-storybook#readme) - Development environment for UI components.
+*   [Storybook (⭐379)](https://github.com/lauthieb/awesome-storybook#readme) - Development environment for UI components.
 
 ## [7. Awesome Storybook](/content/lauthieb/awesome-storybook/README.md)
 
@@ -81,12 +81,12 @@
 ### Bioinformatics and Biostatistics
 
 *   [glmmTMB](https://cran.r-project.org/web/packages/glmmTMB/index.html) - Generalized mixed-effects models, handling user-specified matrix of residual covariance, relevant for the anaysis of repeated observations in longitudinal trials.
-*   [lme4 (⭐588)](https://github.com/lme4/lme4) - Generalized mixed-effects models.
+*   [lme4 (⭐626)](https://github.com/lme4/lme4) - Generalized mixed-effects models.
 *   [nlme](https://cran.r-project.org/web/packages/nlme/index.html) - Mixed-effects models, handling user-specified matrix of residual covariance, relevant for the anaysis of repeated observations in longitudinal trials.
 
 ### Finance
 
-*   [scorecard (⭐156)](https://github.com/ShichenXie/scorecard) - Credit Risk Scorecard
+*   [scorecard (⭐161)](https://github.com/ShichenXie/scorecard) - Credit Risk Scorecard
 
 ### Spatial
 
@@ -96,11 +96,11 @@
 
 ### CSV
 
-*   [Vince's CSV Parser (⭐886)](https://github.com/vincentlaucsb/csv-parser) - A fast, self-contained, streaming C++17 CSV parser with optional type-casting and statistics. \[MIT]
+*   [Vince's CSV Parser (⭐939)](https://github.com/vincentlaucsb/csv-parser) - A fast, self-contained, streaming C++17 CSV parser with optional type-casting and statistics. \[MIT]
 
 ### Web Application Framework
 
-*   [Drogon (⭐11k)](https://github.com/an-tao/drogon) - A C++14/17 based, high-performance HTTP application framework. \[MIT]
+*   [Drogon (⭐12k)](https://github.com/an-tao/drogon) - A C++14/17 based, high-performance HTTP application framework. \[MIT]
 
 ## [10. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 

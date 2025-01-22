@@ -30,7 +30,7 @@
 
 ### Hybrid
 
-*   [BlazorInAngularDemo (⭐30)](https://github.com/Xenoage/BlazorInAngularDemo) - ![last commit](https://img.shields.io/github/last-commit/Xenoage/BlazorInAngularDemo?style=flat-square\&cacheSeconds=86400) Demonstrates how an existing Angular app can be migrated to Blazor gradually by integrating Blazor components, including calling Angular service methods. [Demo](https://xenoage.github.io/BlazorInAngularDemo/).
+*   [BlazorInAngularDemo (⭐31)](https://github.com/Xenoage/BlazorInAngularDemo) - ![last commit](https://img.shields.io/github/last-commit/Xenoage/BlazorInAngularDemo?style=flat-square\&cacheSeconds=86400) Demonstrates how an existing Angular app can be migrated to Blazor gradually by integrating Blazor components, including calling Angular service methods. [Demo](https://xenoage.github.io/BlazorInAngularDemo/).
 
 ## [4. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/README.md)
 
@@ -76,7 +76,7 @@
 
 ### Questions
 
-*   [bistro (⭐46)](https://github.com/pveber/bistro) – OCaml library for building bioinformatics pipelines.
+*   [bistro (⭐47)](https://github.com/pveber/bistro) – OCaml library for building bioinformatics pipelines.
 
 ## [8. Awesome Deno](/content/denolib/awesome-deno/README.md)
 

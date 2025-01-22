@@ -14,15 +14,15 @@
 
 ### Animation
 
-*   [Comets (⭐611)](https://github.com/cruisediary/Comets) - Animating Particles.
+*   [Comets (⭐612)](https://github.com/cruisediary/Comets) - Animating Particles.
 
 ### Audio
 
-*   [Soundable (⭐91)](https://github.com/ThXou/Soundable) - Soundable allows you to play sounds, single and in sequence, in a very easy way.
+*   [Soundable (⭐93)](https://github.com/ThXou/Soundable) - Soundable allows you to play sounds, single and in sequence, in a very easy way.
 
 ### Colors
 
-*   [SwiftGen-Colors (⭐9.2k)](https://github.com/SwiftGen/SwiftGen#uicolor) - A tool to auto-generate `enums` for your `UIColor` constants.
+*   [SwiftGen-Colors (⭐9.3k)](https://github.com/SwiftGen/SwiftGen#uicolor) - A tool to auto-generate `enums` for your `UIColor` constants.
 
 ### JSON
 
@@ -31,25 +31,25 @@
 
 ### Dependency Injection
 
-*   [Pure (⭐375)](https://github.com/devxoul/Pure) - A way to do a dependency injection without a DI container.
+*   [Pure (⭐378)](https://github.com/devxoul/Pure) - A way to do a dependency injection without a DI container.
 
 ### Events
 
-*   [PMKVObserver (⭐709)](https://github.com/postmates/PMKVObserver/) - Modern thread-safe and type-safe key-value observing.
+*   [PMKVObserver (⭐708)](https://github.com/postmates/PMKVObserver/) - Modern thread-safe and type-safe key-value observing.
 *   [RxSwift (⭐24k)](https://github.com/ReactiveX/RxSwift) - Microsoft Reactive Extensions (Rx).
 
 ### Images / Barcode
 
-*   [GPUImage 2 (⭐4.8k)](https://github.com/BradLarson/GPUImage2) - GPUImage 2 is a BSD-licensed framework for GPU-accelerated video and image processing.
+*   [GPUImage 2 (⭐4.9k)](https://github.com/BradLarson/GPUImage2) - GPUImage 2 is a BSD-licensed framework for GPU-accelerated video and image processing.
 *   [GPUImage 3 (⭐2.7k)](https://github.com/BradLarson/GPUImage3) - GPUImage 3 is a BSD-licensed framework for GPU-accelerated video and image processing using Metal.
 
 ### Layout / Barcode
 
-*   [PinLayout (⭐2.3k)](https://github.com/layoutBox/PinLayout) - Fast Views layouting without auto layout. No magic, pure code, full control and blazing fast. Concise syntax, intuitive, readable & chainable. \[iOS/macOS/tvOS]
+*   [PinLayout (⭐2.4k)](https://github.com/layoutBox/PinLayout) - Fast Views layouting without auto layout. No magic, pure code, full control and blazing fast. Concise syntax, intuitive, readable & chainable. \[iOS/macOS/tvOS]
 
 ### Network / Barcode
 
-*   [PMHTTP (⭐503)](https://github.com/postmates/PMHTTP) - HTTP framework with a focus on REST and JSON.
+*   [PMHTTP (⭐504)](https://github.com/postmates/PMHTTP) - HTTP framework with a focus on REST and JSON.
 
 ### Socket / Barcode
 
@@ -73,19 +73,19 @@
 
 ### Utility / Barcode
 
-*   [DifferenceKit (⭐3.5k)](https://github.com/ra1028/DifferenceKit) - 💻 A fast and flexible O(n) difference algorithm framework.
-*   [FluentQuery (⭐148)](https://github.com/MihaelIsaev/FluentQuery) :penguin: - Powerful and easy to use Query Builder.
+*   [DifferenceKit (⭐3.6k)](https://github.com/ra1028/DifferenceKit) - 💻 A fast and flexible O(n) difference algorithm framework.
+*   [FluentQuery (⭐149)](https://github.com/MihaelIsaev/FluentQuery) :penguin: - Powerful and easy to use Query Builder.
 *   [SwifterSwift (⭐14k)](https://github.com/SwifterSwift/SwifterSwift) - A handy collection of more than 500 native extensions to boost your productivity.
 
 ### Video / Barcode
 
-*   [SwiftFFmpeg (⭐498)](https://github.com/sunlubo/SwiftFFmpeg) - A wrapper for the FFmpeg C API.
+*   [SwiftFFmpeg (⭐522)](https://github.com/sunlubo/SwiftFFmpeg) - A wrapper for the FFmpeg C API.
 
 ## [2. Awesome Java](/content/akullpp/awesome-java/README.md)
 
 ### Bean Mapping
 
-*   [dOOv (⭐89)](https://github.com/doov-io/doov) - Provides fluent API for typesafe domain model validation and mapping. It uses annotations, code generation and a type safe DSL to make bean validation and mapping fast and easy.
+*   [dOOv (⭐92)](https://github.com/doov-io/doov) - Provides fluent API for typesafe domain model validation and mapping. It uses annotations, code generation and a type safe DSL to make bean validation and mapping fast and easy.
 
 ## [3. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/README.md)
 
@@ -98,7 +98,7 @@
     [Repo (⭐30k)](https://github.com/foundation/foundation-sites)
     \| #SCSS
 
-### Toolkits
+### Stalled Development
 
 *   [**Bourbon**](https://www.bourbon.io/) - Lightweight Sass tool set.\
     ![](https://img.shields.io/github/stars/thoughtbot/bourbon.svg?style=social\&label=Star)
@@ -133,7 +133,7 @@
 
 ### Boilerplates
 
-*   [Next.js App with AWS Lambda (⭐57)](https://github.com/mattdamon108/nextjs-with-lambda) - Deploy a Next.js App to AWS Lambda using Apex Up.
+*   [Next.js App with AWS Lambda (⭐59)](https://github.com/mattdamon108/nextjs-with-lambda) - Deploy a Next.js App to AWS Lambda using Apex Up.
 
 ---
 

@@ -14,17 +14,17 @@
 
 ### Alert / Barcode
 
-*   [Alerts Pickers (⭐5.6k)](https://github.com/dillidon/alerts-and-pickers) - Advanced usage of UIAlertController with TextField, DatePicker, PickerView, TableView and CollectionView.
+*   [Alerts Pickers (⭐5.7k)](https://github.com/dillidon/alerts-and-pickers) - Advanced usage of UIAlertController with TextField, DatePicker, PickerView, TableView and CollectionView.
 
 ### Video / Barcode
 
-*   [NextLevelSessionExporter (⭐259)](https://github.com/NextLevel/NextLevelSessionExporter) - Export and transcode media.
+*   [NextLevelSessionExporter (⭐262)](https://github.com/NextLevel/NextLevelSessionExporter) - Export and transcode media.
 
 ## [2. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
 
-### Code
+### Code / Commerical Tools
 
-*   [FARGonautica (⭐107)](https://github.com/Alex-Linhares/FARGonautica) - Source code of Douglas Hosftadter's Fluid Concepts and Creative Analogies Ph.D. projects.
+*   [FARGonautica (⭐113)](https://github.com/Alex-Linhares/FARGonautica) - Source code of Douglas Hosftadter's Fluid Concepts and Creative Analogies Ph.D. projects.
 
 ## [3. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 
@@ -40,14 +40,14 @@
 
 ## [5. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 
-### Tools and frameworks
+### Tools and frameworks (a-z↓)
 
 *   [ResembleJS (⭐4.5k)](https://github.com/Huddle/Resemble.js) - Analyse and compare images with Javascript and HTML5.
 
-### Deprecated
+### Deprecated  (a-z↓)
 
-*   [PhantomCSS](https://github.com/Huddle/PhantomCSS) - Visual/CSS regression testing with PhantomJS or SlimerJS. No longer maintained since 22 Dec 2017.
 *   [DalekJS (⭐695)](https://github.com/dalekjs/dalek) - Automated cross browser testing with JavaScript. No longer maintained since 4 Jun 2017.
+*   [PhantomCSS](https://github.com/Huddle/PhantomCSS) - Visual/CSS regression testing with PhantomJS or SlimerJS. No longer maintained since 22 Dec 2017.
 
 ## [6. Awesome Android](/content/JStumpp/awesome-android/README.md)
 

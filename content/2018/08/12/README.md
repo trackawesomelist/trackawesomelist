@@ -56,27 +56,15 @@
 
 ## [8. Awesome Dash](/content/ucg8j/awesome-dash/README.md)
 
-### Tutorials
-
-*   [Plotly's tutorials - Part 1: App Layout](https://plot.ly/dash/getting-started)
-*   [Plotly's tutorials - Part 2: Interactivity](https://plot.ly/dash/getting-started-part-2)
-*   [Plotly's tutorials - Part 3: Interactive Graphing](https://plot.ly/dash/interactive-graphing)
-*   [Plotly's tutorials - Part 4: Callbacks With State](https://plot.ly/dash/state)
-
 ### Component Libraries
 
-*   [Tutorial on creating custom Dash components with React.js.](https://plot.ly/dash/plugins)
-*   [Dash Core Components (⭐267)](https://github.com/plotly/dash-core-components)
-*   [Dash HTML Components (⭐155)](https://github.com/plotly/dash-html-components)
-*   [mydcc (⭐34)](https://github.com/jimmybow/mydcc) - Extension of Dash Core Components.
-*   [sd-material-ui (⭐179)](https://github.com/StratoDem/sd-material-ui) - StratoDem Analytics implementations of material-ui components for Dash.
-*   [sd-range-slider (⭐2)](https://github.com/StratoDem/sd-range-slider) - Range Slider Dash component.
-*   [dj-plotly-dash (⭐44)](https://github.com/pikhovkin/dj-plotly-dash) - Plotly Dash fork for Django.
-*   [dash-flexbox-grid (⭐19)](https://github.com/pikhovkin/dash-flexbox-grid) - Wrapper around react-flexbox-grid for Plotly Dash.
-
-### Galleries
-
-*   [Plotly App Gallery](https://plot.ly/dash/gallery) - Plotly's collection of Dash applications.
+*   [Dash Core Components (⭐271)](https://github.com/plotly/dash-core-components)
+*   [Dash HTML Components (⭐153)](https://github.com/plotly/dash-html-components)
+*   [mydcc (⭐37)](https://github.com/jimmybow/mydcc) - Extension of Dash Core Components.
+*   [sd-material-ui (⭐194)](https://github.com/StratoDem/sd-material-ui) - StratoDem Analytics implementations of material-ui components for Dash.
+*   [sd-range-slider (⭐3)](https://github.com/StratoDem/sd-range-slider) - Range Slider Dash component.
+*   [dj-plotly-dash (⭐59)](https://github.com/pikhovkin/dj-plotly-dash) - Plotly Dash fork for Django.
+*   [dash-flexbox-grid (⭐20)](https://github.com/pikhovkin/dash-flexbox-grid) - Wrapper around react-flexbox-grid for Plotly Dash.
 
 ### Talks
 

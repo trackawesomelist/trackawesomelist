@@ -10,7 +10,7 @@
 
 ### Applications
 
-*   [Fractalide (⭐865)](https://github.com/fractalide/fractalide) - Simple microservices
+*   [Fractalide (⭐879)](https://github.com/fractalide/fractalide) - Simple microservices
 
 ## [2. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
@@ -56,7 +56,6 @@
 ### Research and Analysis / Wealth
 
 *   [23andMe](https://www.23andme.com/) - Genetic testing and analysis.
-*   [DNA land](http://dna.land/) - DNA imputation and scientific research.
 
 ## [4. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 
@@ -86,8 +85,8 @@
 ### Core Data
 
 *   [CoreStore (⭐4k)](https://github.com/JohnEstropia/CoreStore) - simple and elegant way to handle Core Data.
-*   [DataKernel (⭐17)](https://github.com/mrdekk/DataKernel) - DataKernel is a minimalistic wrapper around Core Data stack to ease persistence operations. No external dependencies.
-*   [Graph (⭐874)](https://github.com/CosmicMind/Graph) - An elegant data-driven framework for Core Data.
+*   [DataKernel (⭐18)](https://github.com/mrdekk/DataKernel) - DataKernel is a minimalistic wrapper around Core Data stack to ease persistence operations. No external dependencies.
+*   [Graph (⭐873)](https://github.com/CosmicMind/Graph) - An elegant data-driven framework for Core Data.
 *   [QueryKit (⭐1.5k)](https://github.com/QueryKit/QueryKit) - An easy way to play with Core Data filtering.
 
 ### UI / Barcode

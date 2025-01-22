@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 26 - Mar 03, 2024
 
-43 awesome lists updated this week.
+42 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -14,11 +14,11 @@
 
 ### OS and Kernels / Apache License
 
-*   [ironclad](https://ironclad.nongnu.org/) - A kernel for several architectures striving for POSIX compatibility, used on several distributions like [Gloire (⭐94)](https://github.com/streaksu/Gloire).
+*   [ironclad](https://ironclad.nongnu.org/) - A kernel for several architectures striving for POSIX compatibility, used on several distributions like [Gloire (⭐131)](https://github.com/streaksu/Gloire).
 
 ### Games / Apache License
 
-*   [steamsky (⭐94)](https://github.com/thindil/steamsky) - Roguelike in sky with a steampunk setting.
+*   [steamsky (⭐93)](https://github.com/thindil/steamsky) - Roguelike in sky with a steampunk setting.
 
 ## [2. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
@@ -34,11 +34,11 @@
 
 ### Storage / Configuration file
 
-*   [uPyftsConf (⭐4)](https://github.com/aleppax/upyftsconf) - MicroPython Far Too Simple Config File. Single file library that writes configurations to itself.
+*   [uPyftsConf (⭐5)](https://github.com/aleppax/upyftsconf) - MicroPython Far Too Simple Config File. Single file library that writes configurations to itself.
 
 ### Utilities / SRAM
 
-*   [micropython-hexdump (⭐3)](https://github.com/mattytrentini/micropython-hexdump) - An implementation of Hexdump for MicroPython.
+*   [micropython-hexdump (⭐4)](https://github.com/mattytrentini/micropython-hexdump) - An implementation of Hexdump for MicroPython.
 
 ## [4. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
 
@@ -58,96 +58,7 @@
 
 *   [TechTok Today](https://techtok.today). Daily summarised and curated news in technology (as newsletter and in-website stories) picked from the most popular sources and fresh engineering blogs articles from leading tech companies.
 
-## [7. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
-
-### Java / Git
-
-*   [Google Tink (⭐95)](https://github.com/tink-crypto/tink-java) - A small crypto library that provides a safe, simple, agile and fast way to accomplish some common crypto tasks.
-
-## [8. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/week/README.md)
-
-### **Microsoft Azure OpenAI relevant LLM Framework** / **Lucene based search engine with OpenAI Embedding**
-
-*   [PromptBench (⭐2.3k)](https://github.com/microsoft/promptbench): A unified evaluation framework for large language models \[Jun 2023]
-
-### **LangChain Agent & Memory** / LangChain Agent
-
-*   `self-ask-with-search`: [Measuring and Narrowing the Compositionality Gap in Language Models](https://arxiv.org/abs/2210.03350) \[7 Oct 2022]
-*   `react-docstore`: [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629) \[6 Oct 2022]
-*   Agent Type
-
-### **LangChain Agent & Memory** / LangChain Memory
-
-*   `ConversationBufferMemory`: Stores the entire conversation history.
-*   `ConversationBufferWindowMemory`: Stores recent messages from the conversation history.
-*   `Entity Memory`: Stores and retrieves entity-related information.
-*   `Conversation Knowledge Graph Memory`: Stores entities and relationships between entities.
-*   `ConversationSummaryMemory`: Stores summarized information about the conversation.
-*   `ConversationSummaryBufferMemory`: Stores summarized information about the conversation with a token limit.
-*   `ConversationTokenBufferMemory`: Stores tokens from the conversation.
-*   `VectorStore-Backed Memory`: Leverages vector space models for storing and retrieving information.
-
-### **Prompt Engineering** / **Prompt Template Language**
-
-*   ChatGPT : “user”, “assistant”, and “system” messages.\*\*
-
-    To be specific, the ChatGPT API allows for differentiation between “user”, “assistant”, and “system” messages.
-
-    1.  always obey "system" messages.
-    2.  all end user input in the “user” messages.
-    3.  "assistant" messages as previous chat responses from the assistant.
-
-    Presumably, the model is trained to treat the user messages as human messages, system messages as some system level configuration, and assistant messages as previous chat responses from the assistant. [ref](https://blog.langchain.dev/using-chatgpt-api-to-evaluate-chatgpt/) \[2 Mar 2023]
-
-### **Prompt Guide & Leaked prompts** / **Prompt Template Language**
-
-*   [Prompt Engineering Guide](https://www.promptingguide.ai/): 🏆Copyright © 2023 DAIR.AI
-*   [LLM Prompt Engineering Simplified (⭐102)](https://github.com/AkmmusAI/LLM-Prompt-Engineering-Simplified-Book) \[Feb 2024]
-
-### **OpenAI's Roadmap and Products** / **GPT series release date**
-
-*   GPT 1: Decoder-only model. 117 million parameters. \[Jun 2018] [git (⭐2.1k)](https://github.com/openai/finetune-transformer-lm)
-*   GPT 2: Increased model size and parameters. 1.5 billion. \[14 Feb 2019] [git (⭐22k)](https://github.com/openai/gpt-2)
-*   GPT 3: Introduced few-shot learning. 175B. \[11 Jun 2020] [git (⭐16k)](https://github.com/openai/gpt-3)
-*   ChtGPT: GPT-3 fine-tuned with RLHF. 20B or 175B. `unverified` [ref](https://www.reddit.com/r/LocalLLaMA/comments/17lvquz/clearing_up_confusion_gpt_35turbo_may_not_be_20b/) \[30 Nov 2022]
-*   GPT 4: Mixture of Experts (MoE). 8 models with 220 billion parameters each, for a total of about 1.76 trillion parameters. `unverified` [ref](https://the-decoder.com/gpt-4-architecture-datasets-costs-and-more-leaked/) \[14 Mar 2023]
-
-### **Survey on Large Language Models** / **GPT series release date**
-
-*   A Survey of LLMs
-    *   [Large Language Models: A Survey](https://arxiv.org/abs/2402.06196) \[9 Feb 2024]: 🏆Well organized visuals and contents
-    *   [A Survey of Transformers](https://arxiv.org/abs/2106.04554):\[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2106.04554)] \[8 Jun 2021]
-    *   [A Survey of Large Language Models](https://arxiv.org/abs/2303.18223):\[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2303.18223)] \[v1: 31 Mar 2023 - v13: 24 Nov 2023]
-    *   [A Comprehensive Survey of AI-Generated Content (AIGC)](https://arxiv.org/abs/2303.04226): A History of Generative AI from GAN to ChatGPT:\[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2303.04226)] \[7 Mar 2023]
-    *   [Summary of ChatGPT/GPT-4 Research and Perspective Towards the Future of Large Language Models](https://arxiv.org/abs/2304.01852):\[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2304.01852)] \[4 Apr 2023]
-    *   [A Survey on Language Models for Code](https://arxiv.org/abs/2311.07989):\[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2311.07989)] \[14 Nov 2023]
-    *   [ChatGPT’s One-year Anniversary: Are Open-Source Large Language Models Catching up?](#section-12-evaluating-large-language-models--llmops) > Evaluation benchmark: Benchmarks and Performance of LLMs \[28 Nov 2023]
-    *   [From Google Gemini to OpenAI Q\* (Q-Star)](https://arxiv.org/abs/2312.10868): A Survey of Reshaping the Generative Artificial Intelligence (AI) Research Landscape:\[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2312.10868)] \[18 Dec 2023]
-    *   [Towards Efficient Generative Large Language Model Serving: A Survey from Algorithms to Systems](https://arxiv.org/abs/2312.15234): The survey aims to provide a comprehensive understanding of the current state and future directions in efficient LLM serving \[23 Dec 2023]
-    *   [A Survey of NL2SQL with Large Language Models: Where are we, and where are we going?](https://arxiv.org/abs/2408.05109): \[9 Aug 2024] [git (⭐42)](https://github.com/HKUSTDial/NL2SQL_Handbook)
-
-### **Awesome demo** / **OSS Alternatives for OpenAI Code Interpreter (aka. Advanced Data Analytics)**
-
-*   [groq](https://github.com/groq): An LPU Inference Engine, the LPU is reported to be 10 times faster than NVIDIA’s GPU performance [ref](https://www.gamingdeputy.com/groq-unveils-worlds-fastest-large-model-500-tokens-per-second-shatters-record-self-developed-lpu-outperforms-nvidia-gpu-by-10-times/) \[Jan 2024]
-*   [Sora](https://youtu.be/HK6y8DAPN_0?si=FPZaGk4fP2d456QP): Introducing Sora — OpenAI’s text-to-video model \[Feb 2024]
-
-## [9. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/week/README.md)
-
-### Text / Chatbots
-
-*   [Gemini](https://gemini.google.com) - *[reviews](https://altern.ai/product/gemini)* - An experimental AI chatbot by Google, powered by the LaMDA model.
-
-## [10. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/week/README.md)
-
-### Related Events / 2005
-
-*   [Regulatable ML Workshop (RegML'23)](https://regulatableml.github.io/)
-
-## [11. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
-
-### Projects / API Documentation
-
-*   [SpectaQL (⭐1k) (⭐1.1k)](https://github.com/anvilco/spectaql) - A Node.js library that generates static documentation for a GraphQL schema from various sources, including live endpoint, query result, and SDL files.
+## [7. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Resources / Certifications
 
@@ -159,7 +70,25 @@
 *   [OWASP API Security Top 10](https://www.apisecuniversity.com/courses/owasp-api-security-top-10-and-beyond) - The 90-minute course provides a deep-dive into the 2023 edition of the OWASP API Security Top 10 - and covers key concepts that didn't make it into the Top 10.
 *   [Securing API Servers](https://www.apisecuniversity.com/courses/securing-api-servers) - Learn key concepts for keeping API servers secure - from CORS to error handling to rate limiting and more.
 
-## [12. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [8. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
+
+### Java / Git
+
+*   [Google Tink (⭐124)](https://github.com/tink-crypto/tink-java) - A small crypto library that provides a safe, simple, agile and fast way to accomplish some common crypto tasks.
+
+## [9. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/week/README.md)
+
+### Text / Chatbots
+
+*   [Gemini](https://gemini.google.com) - *[reviews](https://altern.ai/product/gemini)* - An experimental AI chatbot by Google, powered by the LaMDA model.
+
+## [10. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/week/README.md)
+
+### Related Events / 2023
+
+*   [Regulatable ML Workshop (RegML'23)](https://regulatableml.github.io/)
+
+## [11. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / Utils
 
@@ -167,69 +96,69 @@
 
 ### Modules / Web framework
 
-*   [alosaur (⭐808)](https://github.com/alosaur/alosaur) - Alosaur - Deno web framework with many ES Decorators.
+*   [alosaur (⭐810)](https://github.com/alosaur/alosaur) - Alosaur - Deno web framework with many ES Decorators.
 
-## [13. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [12. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Feed Readers
 
-*   [FeedCord (⭐122)](https://github.com/Qolors/FeedCord) `⚠` - A simple, lightweight & customizable RSS News Feed for your Discord Server. `MIT` `Docker`
+*   [FeedCord (⭐158)](https://github.com/Qolors/FeedCord) `⚠` - A simple, lightweight & customizable RSS News Feed for your Discord Server. `MIT` `Docker`
 
 ### Software / URL Shorteners
 
-*   [Chhoto URL (⭐95)](https://github.com/SinTan1729/chhoto-url) - Simple, lightning-fast URL shortener with no bloat (fork of simply-shorten). `MIT` `Rust/Docker`
+*   [Chhoto URL (⭐179)](https://github.com/SinTan1729/chhoto-url) - Simple, lightning-fast URL shortener with no bloat (fork of simply-shorten). `MIT` `Rust/Docker`
 
 ### Software / Web Servers
 
-*   [Jauth (⭐64)](https://github.com/Jipok/Jauth) `⚠` - Lightweight SSL/TLS reverse proxy with authorization (via Telegram and SSH) for self-hosted apps. `GPL-3.0` `Go`
+*   [Jauth (⭐77)](https://github.com/Jipok/Jauth) `⚠` - Lightweight SSL/TLS reverse proxy with authorization (via Telegram and SSH) for self-hosted apps. `GPL-3.0` `Go`
 
-## [14. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
+## [13. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
 
 ### Workflow
 
 *   [SuprSend](https://www.suprsend.com/products/workflows) - Create automated workflows and logic using API's for your notification service. Add templates, batching, preferences, inapp inbox with workflows to trigger notifications directly from your data warehouse.
 
-## [15. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [14. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Content management systems
 
-*   [Graphweaver (⭐466)](https://github.com/exogee-technology/graphweaver) - CMS and headless GraphQL API.
+*   [Graphweaver (⭐494)](https://github.com/exogee-technology/graphweaver) - CMS and headless GraphQL API.
 
-## [16. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [15. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Boilerplates
 
-*   [Start UI \[web\] (⭐1.3k)](https://github.com/BearStudio/start-ui-web) - 🚀 opinionated UI starter with TypeScript, React, NextJS, Chakra UI, tRPC, Prisma, TanStack Query, Storybook, Playwright, Formiz
+*   [Start UI \[web\] (⭐1.4k)](https://github.com/BearStudio/start-ui-web) - 🚀 opinionated UI starter with TypeScript, React, NextJS, Chakra UI, tRPC, Prisma, TanStack Query, Storybook, Playwright, Formiz
 
-## [17. Awesome Opentofu](/content/virtualroot/awesome-opentofu/week/README.md)
+## [16. Awesome Opentofu](/content/virtualroot/awesome-opentofu/week/README.md)
 
 ### Tools / Wrappers
 
-*   [Terragrunt (⭐7.9k)](https://github.com/gruntwork-io/terragrunt) - Keep your configurations DRY, work with multiple modules, and manage remote state.
-*   [tf (⭐68)](https://github.com/dex4er/tf) - Less verbose and more friendly command outputs.
+*   [Terragrunt (⭐8.3k)](https://github.com/gruntwork-io/terragrunt) - Keep your configurations DRY, work with multiple modules, and manage remote state.
+*   [tf (⭐76)](https://github.com/dex4er/tf) - Less verbose and more friendly command outputs.
 
 ### Tools / Tests
 
-*   [Terratest (⭐7.4k)](https://github.com/gruntwork-io/terratest) - Go library that makes writing automated tests for your infrastructure code easier.
+*   [Terratest (⭐7.6k)](https://github.com/gruntwork-io/terratest) - Go library that makes writing automated tests for your infrastructure code easier.
 
 ### Tools / Platforms
 
-*   [terrakube (⭐471)](https://github.com/AzBuilder/terrakube) - Open-source platform with a private registry, remote state, custom flows, scheduled workspaces, and visual states.
+*   [terrakube (⭐563)](https://github.com/AzBuilder/terrakube) - Open-source platform with a private registry, remote state, custom flows, scheduled workspaces, and visual states.
 
 ### Tools / Registry
 
-*   [hermitcrab (⭐23)](https://github.com/seal-io/hermitcrab) - Registry network mirroring service compatible with OpenTofu.
+*   [hermitcrab (⭐26)](https://github.com/seal-io/hermitcrab) - Registry network mirroring service compatible with OpenTofu.
 *   [terrac (⭐30)](https://github.com/haoliangyu/terrac) - Minimal private module registry compatible with OpenTofu.
 *   [GitLab Module Registry](https://docs.gitlab.com/ee/user/packages/terraform_module_registry/) - Use GitLab projects as a private registry for terraform modules.
-*   [terralist (⭐307)](https://github.com/terralist/terralist) - Private registry for providers and modules.
-*   [citizen (⭐618)](https://github.com/outsideris/citizen) - Private registry for modules and providers with support for multiple databases and storages.
-*   [petra (⭐41)](https://github.com/devoteamgcloud/petra) - Private registry manager using Google Cloud Storage.
-*   [tapir (⭐183)](https://github.com/PacoVK/tapir) - Private registry for modules and providers with a UI.
-*   [terraform-registry (⭐88)](https://github.com/nrkno/terraform-registry) - Modules registry with authentication and support for multiple backends.
-*   [terrareg (⭐266)](https://github.com/MatthewJohn/terrareg) - Open-source modules registry with UI, optional Git integration and deep analysis.
-*   [terustry (⭐63)](https://github.com/veepee-oss/terustry) - Proxy registry for providers.
+*   [terralist (⭐347)](https://github.com/terralist/terralist) - Private registry for providers and modules.
+*   [citizen (⭐634)](https://github.com/outsideris/citizen) - Private registry for modules and providers with support for multiple databases and storages.
+*   [petra (⭐43)](https://github.com/devoteamgcloud/petra) - Private registry manager using Google Cloud Storage.
+*   [tapir (⭐209)](https://github.com/PacoVK/tapir) - Private registry for modules and providers with a UI.
+*   [terraform-registry (⭐93)](https://github.com/nrkno/terraform-registry) - Modules registry with authentication and support for multiple backends.
+*   [terrareg (⭐286)](https://github.com/MatthewJohn/terrareg) - Open-source modules registry with UI, optional Git integration and deep analysis.
+*   [terustry (⭐66)](https://github.com/veepee-oss/terustry) - Proxy registry for providers.
 
-## [18. Awesome Math](/content/rossant/awesome-math/week/README.md)
+## [17. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
 ### Analysis / Functional Analysis
 
@@ -240,21 +169,21 @@
 
 *   📝 [Advanced Numerical Methods and Their Applications to Industrial Problems: Adaptive Finite Element Methods](https://user.math.uni-bremen.de/schmi/SS04/YSU_Notes.pdf) - Alfred Schmidt, Arsen Narimanyan
 
-## [19. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [18. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Image Processing
 
-*   [OpenJPEG (⭐962)](https://github.com/uclouvain/openjpeg) - an open-source JPEG 2000 codec written in C language.  \[BSD-2-Clause]
+*   [OpenJPEG (⭐994)](https://github.com/uclouvain/openjpeg) - an open-source JPEG 2000 codec written in C language.  \[BSD-2-Clause]
 
 ### XML
 
-*   [Xalan C (⭐28)](https://github.com/apache/xalan-c) - A library and a command line program to transform XML documents using a stylesheet that conforms to XSLT 1.0 standards. \[Apache-2.0] [website](https://xalan.apache.org/)
+*   [Xalan C (⭐31)](https://github.com/apache/xalan-c) - A library and a command line program to transform XML documents using a stylesheet that conforms to XSLT 1.0 standards. \[Apache-2.0] [website](https://xalan.apache.org/)
 
 ### Miscellaneous
 
-*   [CRCpp (⭐327)](https://github.com/d-bahr/CRCpp) - Easy to use and fast C++ CRC library. \[BSD-3-Clause]
+*   [CRCpp (⭐346)](https://github.com/d-bahr/CRCpp) - Easy to use and fast C++ CRC library. \[BSD-3-Clause]
 
-## [20. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/week/README.md)
+## [19. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/week/README.md)
 
 ### Connectivity Maps
 
@@ -265,26 +194,26 @@
 
 *   [ITU Data Hub](https://datahub.itu.int/) - a revamp of the ITU World ICT/Telecommunication Indicators Database (WTID), now free for non-commercial use
 
-## [21. Awesome Cropsteering](/content/Intergalactic-XYZ/awesome-cropsteering/week/README.md)
+## [20. Awesome Cropsteering](/content/Intergalactic-XYZ/awesome-cropsteering/week/README.md)
 
 ### **Grow Automation**
 
 *   [Potnanny (⭐0)](https://github.com/potnanny/application) - Potnanny turns your Raspberry Pi into powerful grow-room automation system using inexpensive, off-the-shelf Bluetooth sensors, power outlets, and other devices
 
-## [22. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
+## [21. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
 
 ### Applications
 
 *   [Hidden Lake (⭐210)](https://github.com/number571/go-peer/tree/master/cmd/hidden_lake): Anonymous network with theoretical provability to a global observer. It is based on the problem of queues.
 
-## [23. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [22. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Libraries/Packages/Scripts / Python
 
-*   [polars-upgrade (⭐59)](https://github.com/MarcoGorelli/polars-upgrade) - Python package that automatically upgrades your Polars code so it's compatible with future versions by [@MarcoGorelli](https://github.com/MarcoGorelli).
-*   [polars-fuzzy-match (⭐18)](https://github.com/bnm3k/polars-fuzzy-match) - Python package for fuzzy matching with Polars, i.e. matching text elements that are similar but not exactly identical by [@bnm3k](https://github.com/bnm3k).
+*   [polars-upgrade (⭐62)](https://github.com/MarcoGorelli/polars-upgrade) - Python package that automatically upgrades your Polars code so it's compatible with future versions by [@MarcoGorelli](https://github.com/MarcoGorelli).
+*   [polars-fuzzy-match (⭐22)](https://github.com/bnm3k/polars-fuzzy-match) - Python package for fuzzy matching with Polars, i.e. matching text elements that are similar but not exactly identical by [@bnm3k](https://github.com/bnm3k).
 
-## [24. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [23. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Apps / Widgets
 
@@ -292,20 +221,20 @@
 
 ### Apps / Asynchronous (tasks)
 
-*   [Wagtail Celery Beat (⭐3)](https://github.com/Nigel2392/wagtail_celery_beat) - A way to manage your Django Celery Beat tasks inside of the Wagtail admin.
+*   [Wagtail Celery Beat (⭐4)](https://github.com/Nigel2392/wagtail_celery_beat) - A way to manage your Django Celery Beat tasks inside of the Wagtail admin.
 
 ### Apps / Misc
 
 *   [Wagtail Word (⭐0)](https://github.com/Nigel2392/wagtail_word) - A way to upload your word (.docx, .doc) documents as pages to Wagtail.
 
-## [25. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
+## [24. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
 ### AI
 
 *   [Learn about Wardley Maps using Claude](https://claude-chatbot.streamlit.app/) - An AI Application using Claude to help learn Wardley Maps
 *   [Learn about Wardley Maps using OpenAI](https://learnwardleymapping.streamlit.app/) - Streamlit and OpenAI application to learn Wardley Maps.
 *   [Learn about Wardley Maps using OpenAI Assistants](https://learnwardleymapping-gpt.streamlit.app/) - OpenAI Assistant application to help learn Wardley Maps.
-*   [Learn about Wardley Maps using MEMGPT](\(https://stmemgptv2.streamlit.app/\)) - Experimental Streamlit AI Assistant bot tuned on Wardley Mapping. Using MemGPT this AI Assistant has memory is divided into three parts: recall memory, core memory, and archival memory. Full source code and data provided in the [GitHub repo (⭐8)](https://github.com/tractorjuice/STMemGPT). Recall Memory: This is my short-term memory where I keep recent interactions. Core Memory: This is where I store key details about my persona and about you, the user. This gives me a 'personality' and allows for more personalized conversation. Archival Memory: This is my long-term memory where I store information that doesn't fit into core memory but is essential to remember. It's infinite in size, and I usually page through it to find answers to your questions. These parts work together to help the AI Assistant remember prior engagements, learn from them, and refer back when needed.
+*   [Learn about Wardley Maps using MEMGPT](\(https://stmemgptv2.streamlit.app/\)) - Experimental Streamlit AI Assistant bot tuned on Wardley Mapping. Using MemGPT this AI Assistant has memory is divided into three parts: recall memory, core memory, and archival memory. Full source code and data provided in the [GitHub repo (⭐9)](https://github.com/tractorjuice/STMemGPT). Recall Memory: This is my short-term memory where I keep recent interactions. Core Memory: This is where I store key details about my persona and about you, the user. This gives me a 'personality' and allows for more personalized conversation. Archival Memory: This is my long-term memory where I store information that doesn't fit into core memory but is essential to remember. It's infinite in size, and I usually page through it to find answers to your questions. These parts work together to help the AI Assistant remember prior engagements, learn from them, and refer back when needed.
 
 ### Development
 
@@ -319,13 +248,13 @@
 *   [Introduction to Wardley Mapping](https://chat.openai.com/g/g-v6OW6JOQ7-introduction-to-wardley-mapping) - A quick introduction to Wardley Mapping
 *   [Wardley Map Syntax Expert](https://chat.openai.com/g/g-6vfuL6SXd-wardley-map-syntax-expert) - Expert in analyzing and fixing Wardley Map syntax
 
-## [26. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
+## [25. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
 
 ### Julia / FrameWorks
 
-*   [Lucky.jl (⭐6)](https://github.com/oliviermilla/Lucky.jl) - Modular, asynchronous trading engine in pure Julia.
+*   [Lucky.jl (⭐13)](https://github.com/oliviermilla/Lucky.jl) - Modular, asynchronous trading engine in pure Julia.
 
-## [27. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
+## [26. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
 
 ### Artificial Intelligence (AI)
 
@@ -340,7 +269,7 @@
 
 *   [androiddev.careers](https://androiddev.careers/) – Job board for Android developers
 
-## [28. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [27. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Configuration / PHP Books
 
@@ -356,84 +285,76 @@
 
 *   [Mostly Technical](https://mostlytechnical.com/) - Hosted by Ian Landsman and Aaron Francis, Mostly Technical is a lively discussion on Laravel, business, and an eclectic mix of related topics.
 
-## [29. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [28. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Misc
 
-*   [xcbeautify (⭐912)](https://github.com/cpisciotta/xcbeautify) - Little beautifier tool for xcodebuild.
-
-### Audio
-
-*   [MusicKit (⭐611)](https://github.com/vprtwn/MusicKit) - A framework for composing and transforming music.
-
-### Chart
-
-*   [SwiftCharts (⭐2.5k)](https://github.com/owlmafia/SwiftCharts) - Highly customizable charts for iOS.
+*   [xcbeautify (⭐994)](https://github.com/cpisciotta/xcbeautify) - Little beautifier tool for xcodebuild.
 
 ### Utility / Barcode
 
 *   [EZSwiftExtensions (⭐3k)](https://github.com/Esqarrouth/EZSwiftExtensions) - How standard types and classes were supposed to work.
 
-## [30. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
+## [29. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
 
 ### Examples
 
-*   [IgorAntun/node-chat (⭐755)](https://github.com/IgorAntun/node-chat#readme) - Project screenshot. Informative badges. Clear description. Easy installation/use instructions. Live demo.
+*   [IgorAntun/node-chat (⭐764)](https://github.com/IgorAntun/node-chat#readme) - Project screenshot. Informative badges. Clear description. Easy installation/use instructions. Live demo.
 
-## [31. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [30. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Rust / General-Purpose Machine Learning
 
-*   [candle (⭐15k)](https://github.com/huggingface/candle) - Candle is a minimalist ML framework for Rust with a focus on performance (including GPU support) and ease of use.
+*   [candle (⭐16k)](https://github.com/huggingface/candle) - Candle is a minimalist ML framework for Rust with a focus on performance (including GPU support) and ease of use.
 
 ### Rust / Deep Learning
 
-*   [tch-rs (⭐4.1k)](https://github.com/LaurentMazare/tch-rs) - Rust bindings for the C++ API of PyTorch
+*   [tch-rs (⭐4.4k)](https://github.com/LaurentMazare/tch-rs) - Rust bindings for the C++ API of PyTorch
 *   [dfdx (⭐1.7k)](https://github.com/coreylowman/dfdx) - Deep learning in Rust, with shape checked tensors and neural networks
-*   [burn (⭐7.9k)](https://github.com/tracel-ai/burn) - Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals
+*   [burn (⭐9.1k)](https://github.com/tracel-ai/burn) - Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals
 
 ### Rust / Natural Language Processing
 
-*   [huggingface/tokenizers (⭐8.7k)](https://github.com/huggingface/tokenizers) - Fast State-of-the-Art Tokenizers optimized for Research and Production
-*   [rust-bert (⭐2.5k)](https://github.com/guillaume-be/rust-bert) - Rust native ready-to-use NLP pipelines and transformer-based models (BERT, DistilBERT, GPT2,...)
+*   [huggingface/tokenizers (⭐9.1k)](https://github.com/huggingface/tokenizers) - Fast State-of-the-Art Tokenizers optimized for Research and Production
+*   [rust-bert (⭐2.7k)](https://github.com/guillaume-be/rust-bert) - Rust native ready-to-use NLP pipelines and transformer-based models (BERT, DistilBERT, GPT2,...)
 
 ### Tools / Misc
 
 *   [Chroma](https://www.trychroma.com/) - Chroma - the AI-native open-source embedding database
 
-## [32. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [31. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Design Inspiration
 
 *   [Lapa Ninja](https://www.lapa.ninja/) - \[Landing page / UI KIts / Web screenshots] Lapa Ninja is a gallery featuring the best 6025 landing page examples, free books for designers and free UI kits from around the web.
 
-## [33. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [32. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / Vanilla
 
-*   [vite-alpine-template (⭐2)](https://github.com/dvd101x/vite-alpine) - Starter template for Alpine.
+*   [vite-alpine-template (⭐4)](https://github.com/dvd101x/vite-alpine) - Starter template for Alpine.
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [@tomjs/vite-plugin-electron (⭐3)](https://github.com/tomjs/vite-plugin-electron) - Easily develop `Electron` applications.
-*   [@tomjs/vite-plugin-vscode (⭐25)](https://github.com/tomjs/vite-plugin-vscode) - Easily use web frameworks to develop `VSCode Extension`'s `Webview`, and support `HMR` and `Debug`.
+*   [@tomjs/vite-plugin-electron (⭐5)](https://github.com/tomjs/vite-plugin-electron) - Easily develop `Electron` applications.
+*   [@tomjs/vite-plugin-vscode (⭐48)](https://github.com/tomjs/vite-plugin-vscode) - Easily use web frameworks to develop `VSCode Extension`'s `Webview`, and support `HMR` and `Debug`.
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [vite-plugin-minipic (⭐30)](https://github.com/60late/vite-plugin-minipic) - Efficient image compression tool.
+*   [vite-plugin-minipic (⭐44)](https://github.com/60late/vite-plugin-minipic) - Efficient image compression tool.
 
 ### Drupal / Community
 
 *   [Vite module](https://git.drupalcode.org/project/vite) - Backend integration for Drupal.
-*   [vite-plugin-twig-drupal (⭐16)](https://github.com/larowlan/vite-plugin-twig-drupal) - Support for Twig with includes/embeds and Drupal specific twig features.
+*   [vite-plugin-twig-drupal (⭐21)](https://github.com/larowlan/vite-plugin-twig-drupal) - Support for Twig with includes/embeds and Drupal specific twig features.
 
-## [34. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [33. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Testing
 
 *   [Apidog](https://apidog.com/) - GUI tool for API mocking, testing (scenario testing, functional testing, performance testing, etc.).
 
-## [35. Awesome Productivity Tools](/content/ProductivityDirectory/awesome-productivity-tools/week/README.md)
+## [34. Awesome Productivity Tools](/content/ProductivityDirectory/awesome-productivity-tools/week/README.md)
 
 ### Pomodoro Timer Apps
 
@@ -449,7 +370,7 @@
 
 *   **[Motion App](https://usemotion.com)** - [reviews](https://productivity.directory/motion) - [blog post](https://blog.productivity.directory/motion-app-review-a-deep-dive-into-the-ai-powered-productivity-app-78081e8107f7) - Automation for connecting apps and services.
 
-## [36. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [35. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Concepts / Human Concept Representation
 
@@ -463,23 +384,23 @@
 
 *   [Compressed File Length Predicts Search Time and Errors on Visual Displays](https://www.sciencedirect.com/science/article/pii/S0141938205000120) - ***Displays***, 2005. \[[All Versions](https://scholar.google.com/scholar?cluster=15600966633648834042)]. Compressed file size, an objective, easily obtained measure of display complexity, predicts both subjective complexity judgments and objective search performance. It is analogous to algorithmic complexity, a theoretical but impractical measure of bit string complexity. The data suggest that it may be possible to use the compressed file size measure to predict display performance in applied tasks.
 
-### Domain Specific Language / Design Practises
-
-*   [Communicating Natural Programs to Humans and Machines](https://proceedings.neurips.cc/paper_files/paper/2022/hash/182aed0379591ebd1d655b2bdc152075-Abstract-Datasets_and_Benchmarks.html) - ***NeurIPS'22***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=13381039702346039142)]. While humans readily generate and interpret instructions in a general language, computer systems are shackled to a narrow domain-specific language that they can precisely execute. This makes building intelligent systems that can generalize to novel situations such as ARC difficult. Human-generated instructions are referred as \`natural programs'. While they resemble computer programs, they are distinct in two ways: First, they contain a wide range of primitives; Second, they frequently leverage communicative strategies beyond directly executable codes.
-
 ### Domain Specific Language / DSL Program Synthesis
 
 *   [pix2code: Generating Code from a Graphical User Interface Screenshot](https://dl.acm.org/doi/abs/10.1145/3220134.3220135) - ***ACM SIGCHI Symposium on Engineering Interactive Computing Systems***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=8296741513177971931)]. \[[Code (⭐12k)](https://github.com/tonybeltramelli/pix2code)]. \[[Website](https://uizard.io/research/)]. This paper shows that deep learning methods can be leveraged to train a model end-to-end to automatically reverse engineer user interfaces and generate code from a single input image with over 77% of accuracy for three different platforms (i.e. iOS, Android and web-based technologies).
+
+### Domain Specific Language / Cognitive Foundations
+
+*   [Communicating Natural Programs to Humans and Machines](https://proceedings.neurips.cc/paper_files/paper/2022/hash/182aed0379591ebd1d655b2bdc152075-Abstract-Datasets_and_Benchmarks.html) - ***NeurIPS'22***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=13381039702346039142)]. While humans readily generate and interpret instructions in a general language, computer systems are shackled to a narrow domain-specific language that they can precisely execute. This makes building intelligent systems that can generalize to novel situations such as ARC difficult. Human-generated instructions are referred as “natural programs”. While they resemble computer programs, they are distinct in two ways: First, they contain a wide range of primitives; Second, they frequently leverage communicative strategies beyond directly executable codes.
 
 ### Science Logology / Science of Science
 
 *   [HCI Research as Problem-Solving](https://dl.acm.org/doi/10.1145/2858036.2858283) - ***ACM SIGCHI'16***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=3206201064123443333\&as_sdt=0,5)]. This essay contributes a meta-scientific account of human-computer interaction (HCI) research as problem-solving. We build on the philosophy of Larry Laudan, who develops problem and solution as the foundational concepts of science. We argue that most HCI research is about three main types of problem: empirical, conceptual, and constructive.
 
-## [37. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [36. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Blockchain
 
-*   [gosemble (⭐9)](https://github.com/LimeChain/gosemble) - A Go-based framework for building Polkadot/Substrate-compatible runtimes.
+*   [gosemble (⭐12)](https://github.com/LimeChain/gosemble) - A Go-based framework for building Polkadot/Substrate-compatible runtimes.
 
 ### Date and Time
 
@@ -491,7 +412,7 @@
 
 ### JSON
 
-*   [gabs (⭐3.4k)](https://github.com/Jeffail/gabs) - For parsing, creating and editing unknown or dynamic JSON in Go.
+*   [gabs (⭐3.5k)](https://github.com/Jeffail/gabs) - For parsing, creating and editing unknown or dynamic JSON in Go.
 
 ### Dependency Injection
 
@@ -503,7 +424,7 @@
 
 ### ORM
 
-*   [CQL (⭐16)](https://github.com/FrancoLiberali/cql) - Built on top of GORM, adds compile-time verified queries based on auto-generated code.
+*   [CQL (⭐17)](https://github.com/FrancoLiberali/cql) - Built on top of GORM, adds compile-time verified queries based on auto-generated code.
 
 ### Security
 
@@ -521,13 +442,13 @@
 
 *   [Understanding Go in a visual way](https://dev.to/aurelievache/series/26234) - Learn Go visually
 
-## [38. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [37. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Misc
 
 *   [seljabali/java-time-fun (⭐59)](https://github.com/seljabali/java-time-fun) - java.time Kotlin extension functions library.
 
-## [39. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [38. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Online Tools and Applications
 
@@ -536,25 +457,25 @@
 ### Small Language Models
 
 *   [\[2402.17764\] The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits](https://arxiv.org/abs/2402.17764)
-*   [mbzuai-oryx/MobiLlama (⭐574)](https://github.com/mbzuai-oryx/MobiLlama): Small Language Model tailored for edge devices
+*   [mbzuai-oryx/MobiLlama (⭐616)](https://github.com/mbzuai-oryx/MobiLlama): Small Language Model tailored for edge devices
 
 ### Prompt Engineering / Prompt Optimizers
 
-*   \[🔥🔥🔥] [stanfordnlp/dspy (⭐16k)](https://github.com/stanfordnlp/dspy): DSPy: The framework for programming — not prompting — foundation models
-*   [vaibkumr/prompt-optimizer (⭐220)](https://github.com/vaibkumr/prompt-optimizer): Minimize LLM token complexity to save API costs and model computations.
+*   \[🔥🔥🔥] [stanfordnlp/dspy (⭐21k)](https://github.com/stanfordnlp/dspy): DSPy: The framework for programming — not prompting — foundation models
+*   [vaibkumr/prompt-optimizer (⭐248)](https://github.com/vaibkumr/prompt-optimizer): Minimize LLM token complexity to save API costs and model computations.
 *   [PromptPerfect](https://promptperfect.jina.ai/): "Optimize Your Prompts to Perfection"
 
 ### Auxiliary tools and concepts / Deforum
 
 *   [Inline Help](https://inlinehelp.com): Answer customer questions before they ask
 
-## [40. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+## [39. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Planning Data Specifications / Transportation
 
 *   [OpenDrive](https://www.asam.net/standards/detail/opendrive/) - The data that is stored in an ASAM OpenDRIVE file describes the geometry of roads, lanes and objects, such as roadmarks on the road, as well as features along the roads, like signals.
 
-## [41. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+## [40. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
 ### PlayCanvas
 
@@ -562,53 +483,53 @@
 
 ### Extensions and Utilities
 
-*   [playcanvas-rest-api-tools (⭐21)](https://github.com/playcanvas/playcanvas-rest-api-tools) - CLI tools built on the PlayCanvas REST API.
+*   [playcanvas-rest-api-tools (⭐23)](https://github.com/playcanvas/playcanvas-rest-api-tools) - CLI tools built on the PlayCanvas REST API.
 
-## [42. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [41. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Programming Languages Support / Diagnostics
 
-*   [dmmulroy/ts-error-translator.nvim (⭐219)](https://github.com/dmmulroy/ts-error-translator.nvim) - A port of Matt Pocock's ts-error-translator for VSCode for turning messy and confusing TypeScript errors into plain English.
+*   [dmmulroy/ts-error-translator.nvim (⭐273)](https://github.com/dmmulroy/ts-error-translator.nvim) - A port of Matt Pocock's ts-error-translator for VSCode for turning messy and confusing TypeScript errors into plain English.
 
 ### Markdown and LaTeX / Diagnostics
 
-*   [Myzel394/easytables.nvim (⭐91)](https://github.com/Myzel394/easytables.nvim) - Easily insert and edit markdown tables with a live preview and useful helpers.
+*   [Myzel394/easytables.nvim (⭐113)](https://github.com/Myzel394/easytables.nvim) - Easily insert and edit markdown tables with a live preview and useful helpers.
 
 ### Marks / Diagnostics
 
-*   [desdic/marlin.nvim (⭐20)](https://github.com/desdic/marlin.nvim) - Like harpoon, but with key differences like project path, split support, no UI.
+*   [desdic/marlin.nvim (⭐23)](https://github.com/desdic/marlin.nvim) - Like harpoon, but with key differences like project path, split support, no UI.
 
 ### Search / Diagnostics
 
-*   [polirritmico/telescope-lazy-plugins.nvim (⭐48)](https://github.com/polirritmico/telescope-lazy-plugins.nvim) - A Telescope picker to quickly access plugins configurations from the lazy.nvim spec.
+*   [polirritmico/telescope-lazy-plugins.nvim (⭐59)](https://github.com/polirritmico/telescope-lazy-plugins.nvim) - A Telescope picker to quickly access plugins configurations from the lazy.nvim spec.
 
 ### Color / Diagnostics
 
-*   [rasulomaroff/reactive.nvim (⭐183)](https://github.com/rasulomaroff/reactive.nvim) - Set global and window-specific highlights or trigger callbacks when modes/operators change or windows are switched.
+*   [rasulomaroff/reactive.nvim (⭐211)](https://github.com/rasulomaroff/reactive.nvim) - Set global and window-specific highlights or trigger callbacks when modes/operators change or windows are switched.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
 *   [sxwpb/halfspace.nvim](https://gitlab.com/sxwpb/halfspace.nvim) - A semi-light colorscheme for minimal eye melting.
 *   [bartekjaszczak/distinct-nvim](https://gitlab.com/bartekjaszczak/distinct-nvim) - Theme with distinct syntax colours. Supports Tree-sitter and semantic highlighting. For people who love multi-colour syntax highlighting.
-*   [samharju/synthweave.nvim (⭐36)](https://github.com/samharju/synthweave.nvim) - Synthwave '84 colorscheme port.
+*   [samharju/synthweave.nvim (⭐50)](https://github.com/samharju/synthweave.nvim) - Synthwave '84 colorscheme port.
 
 ### Terminal Integration / Diagnostics
 
-*   [samharju/yeet.nvim (⭐31)](https://github.com/samharju/yeet.nvim) - Run shell commands in terminal buffers or tmux panes.
+*   [samharju/yeet.nvim (⭐103)](https://github.com/samharju/yeet.nvim) - Run shell commands in terminal buffers or tmux panes.
 
 ### Motion / Diagnostics
 
-*   [rasulomaroff/telepath.nvim (⭐55)](https://github.com/rasulomaroff/telepath.nvim) - Another Leap extension for performing remote actions with a different approach.
+*   [rasulomaroff/telepath.nvim (⭐60)](https://github.com/rasulomaroff/telepath.nvim) - Another Leap extension for performing remote actions with a different approach.
 
 ### Competitive Programming / Diagnostics
 
-*   [kawre/leetcode.nvim (⭐966)](https://github.com/kawre/leetcode.nvim) - Solve Leetcode problems.
+*   [kawre/leetcode.nvim (⭐1.3k)](https://github.com/kawre/leetcode.nvim) - Solve Leetcode problems.
 
-## [43. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [42. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [talosctl (⭐1)](https://github.com/RusMephist/talosctl-zsh-plugin) - Tab completion for [Talos Linux](https://www.talos.dev/v1.6/introduction/what-is-talos/).
+*   [talosctl (⭐2)](https://github.com/RusMephist/talosctl-zsh-plugin) - Tab completion for [Talos Linux](https://www.talos.dev/v1.6/introduction/what-is-talos/).
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 

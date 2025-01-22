@@ -1,24 +1,18 @@
 # Awesome List Updates on Mar 17, 2016
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
-
-### Dependency Managers
-
-*   [swift-package-manager (⭐9.7k)](https://github.com/apple/swift-package-manager) - SPM is the Package Manager for the Swift Programming Language.
-
-## [2. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/README.md)
+## [1. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/README.md)
 
 ### Resources / TikZ
 
 *   [MartinThoma's LaTeX example (⭐1.6k)](https://github.com/MartinThoma/LaTeX-examples/) - GitHub repository containing example LaTeX documents.
 
-## [3. Awesome Groovy](/content/kdabir/awesome-groovy/README.md)
+## [2. Awesome Groovy](/content/kdabir/awesome-groovy/README.md)
 
 ### Rich Application
 
@@ -26,51 +20,51 @@
 
 ### HTTP
 
-*   [Http-Builder (⭐312)](https://github.com/jgritman/httpbuilder) - HTTPBuilder is the easiest way to manipulate HTTP-based resources from the JVM
+*   [Http-Builder (⭐315)](https://github.com/jgritman/httpbuilder) - HTTPBuilder is the easiest way to manipulate HTTP-based resources from the JVM
 
-## [4. Awesome Service Workers](/content/TalAter/awesome-service-workers/README.md)
+## [3. Awesome Service Workers](/content/TalAter/awesome-service-workers/README.md)
 
 ### Reference
 
 *   [Background Sync Spec](https://wicg.github.io/BackgroundSync/spec/) - The WIP spec for Background Sync.
 
-## [5. Awesome Beacon](/content/rabschi/awesome-beacon/README.md)
+## [4. Awesome Beacon](/content/rabschi/awesome-beacon/README.md)
 
 ### Physical Web
 
 *   [Physical Web Getting Started Guide for Developers](https://docs.google.com/document/d/1VC9umaw9TItV31WrcX0eJ9xVsfXXQoWvUjuSqWXmH8A)
 
-## [6. Awesome Fonts](/content/brabadu/awesome-fonts/README.md)
+## [5. Awesome Fonts](/content/brabadu/awesome-fonts/README.md)
 
 ### Iconic fonts / Fonts
 
-*   [WebHostingHub Glyphs (⭐268)](https://github.com/whhglyphs/webhostinghub-glyphs)
+*   [WebHostingHub Glyphs (⭐267)](https://github.com/whhglyphs/webhostinghub-glyphs)
 
-## [7. Awesome Marionette](/content/sadcitizen/awesome-marionette/README.md)
+## [6. Awesome Marionette](/content/sadcitizen/awesome-marionette/README.md)
 
 ### General
 
 *   [MarionetteJS CLI package for atom](https://atom.io/packages/atom-marionettejs-cli)
 
-## [8. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+## [7. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
 ### Individuals/Group Contributors / I individuals
 
 *   Ian Hummel <https://themodernlife.github.io/>
 
-## [9. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [8. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### MVC Frameworks and Libraries / Runner
 
 *   [feathers (⭐15k)](https://github.com/feathersjs/feathers) - A minimalist real-time JavaScript framework for tomorrow's apps.
 
-## [10. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
+## [9. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Packages / Logging
 
-*   [storyboard (⭐749)](https://github.com/guigrpa/storyboard) - End-to-end, hierarchical, real-time, colorful logs and stories.
+*   [storyboard (⭐755)](https://github.com/guigrpa/storyboard) - End-to-end, hierarchical, real-time, colorful logs and stories.
 
-## [11. Awesome Heroku](/content/ianstormtaylor/awesome-heroku/README.md)
+## [10. Awesome Heroku](/content/ianstormtaylor/awesome-heroku/README.md)
 
 ### Analytics
 

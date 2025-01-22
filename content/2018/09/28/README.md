@@ -35,17 +35,17 @@
 
 *   [Blargg's test roms](http://gbdev.gg8.se/files/roms/blargg-gb-tests/)
 *   [Gekkio's test roms](https://gekkio.fi/files/mooneye-gb/latest/)
-*   [SameSuite (⭐28)](https://github.com/LIJI32/SameSuite)
+*   [SameSuite (⭐33)](https://github.com/LIJI32/SameSuite)
 *   [GB Accuracy Tests](http://tasvideos.org/EmulatorResources/GBAccuracyTests.html)
-*   [144p Test Suite (⭐202)](https://github.com/pinobatch/240p-test-mini/tree/master/gameboy) - Port of Artemio Urbina's 240p Test Suite to the Game Boy.
+*   [144p Test Suite (⭐237)](https://github.com/pinobatch/240p-test-mini/tree/master/gameboy) - Port of Artemio Urbina's 240p Test Suite to the Game Boy.
 
 ### Emulators / Experimental/Proof of Concepts
 
-*   [Mooneye GB (⭐867)](https://github.com/Gekkio/mooneye-gb) - Research project and emulator in Rust.
+*   [Mooneye GB (⭐904)](https://github.com/Gekkio/mooneye-gb) - Research project and emulator in Rust.
 
 ### C / Syntax highlighting packages
 
-*   [flappybird-gameboy (⭐14)](https://github.com/pashutk/flappybird-gameboy)
+*   [flappybird-gameboy (⭐15)](https://github.com/pashutk/flappybird-gameboy)
 *   [fbgb (⭐3)](https://github.com/gb-archive/fbgb)
 
 ## [3. Awesome Composer](/content/jakoch/awesome-composer/README.md)
@@ -65,6 +65,7 @@
 ### Readline, ncurses and other graphical helpers / Third-party APIs
 
 *   [cl-progress-bar (⭐19)](https://github.com/sirherrbatka/cl-progress-bar/) - progress bars, just like in Quicklisp ! [MIT](https://opensource.org/licenses/MIT).
+    *   and [progressons (⭐14)](https://github.com/vindarel/progressons), a progress bar on one line, for real an dumb terminals. MIT.
 
 ### Other / Third-party APIs
 
@@ -91,7 +92,7 @@
 
 ### UI
 
-*   [Stepper Touch (⭐295)](https://github.com/Rahiche/stepper_touch) <!--stargazers:Rahiche/stepper_touch--> - Lateral value stepper nicely animated by [Raouf Rahiche](https://github.com/Rahiche).
+*   [Stepper Touch (⭐322)](https://github.com/Rahiche/stepper_touch) <!--stargazers:Rahiche/stepper_touch--> - Lateral value stepper nicely animated by [Raouf Rahiche](https://github.com/Rahiche).
 
 ## [8. Awesome Coins](/content/Zheaoli/awesome-coins/README.md)
 

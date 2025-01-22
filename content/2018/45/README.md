@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 05 - Nov 11, 2018
 
-52 awesome lists updated this week.
+50 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -113,7 +113,7 @@
 
 ### Templates / Misc
 
-*   [Postmark Transactional Email Templates (⭐2.8k)](https://github.com/wildbit/postmark-templates) - Rock-solid email templates for applications.
+*   [Postmark Transactional Email Templates (⭐3.1k)](https://github.com/wildbit/postmark-templates) - Rock-solid email templates for applications.
 
 ## [13. Awesome Lockpicking](/content/fabacab/awesome-lockpicking/week/README.md)
 
@@ -251,7 +251,7 @@
 
 ### Packages / Filesystem
 
-*   [move-file (⭐196)](https://github.com/sindresorhus/move-file) - Move a file, even works across devices.
+*   [move-file (⭐198)](https://github.com/sindresorhus/move-file) - Move a file, even works across devices.
 
 ## [22. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/week/README.md)
 
@@ -259,84 +259,68 @@
 
 *   [AfterAccess - Mobile & Internet Use in the Global South](http://afteraccess.net/wp-content/uploads/After-Access-Website-layout-r1.pdf) - Infographic highlights of nationally representative surveys of ICT access and use by households and individuals in the public domain in 16 developing countries of the Global South.
 
-## [23. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
-
-### Articles & Posts
-
-*   [The case for all-remote companies](https://about.gitlab.com/2018/10/18/the-case-for-all-remote-companies/)
-
-### Law & Finance / Others
-
-*   [Transferwise](https://transferwise.com/gb/business/international-payroll-via-batch-payments) - Easy way to pay remote employees.
-
-## [24. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [23. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### HTTP Servers / Clack plugins
 
 *   [clack-static-asset-middleware (⭐1)](https://github.com/fisxoj/clack-static-asset-middleware) - a cache-busting static asset middleware for the clack. [MIT](https://opensource.org/licenses/MIT).
 
-## [25. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
-
-### Table of Contents / Numbers
-
-*   [Brick\Math (⭐1.8k)](https://github.com/brick/math) - A library providing large number support: `BigInteger`, `BigDecimal` and `BigRational`.
-
-## [26. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
+## [24. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
 
 ### Charts
 
 *   [chart-parts (⭐600)](https://github.com/Microsoft/chart-parts) - A flexible, React-friendly, Grammar of Graphics for data visualization
 
-## [27. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
+## [25. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
 ### Become an Appium Pro
 
 *   [Simulating Incoming Phone Calls On Android](https://appiumpro.com/editions/42)
 
-## [28. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [26. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Elixir / General-Purpose Machine Learning
 
-*   [emel (⭐101)](https://github.com/mrdimosthenis/emel) - A simple and functional machine learning library written in Elixir.
+*   [emel (⭐105)](https://github.com/mrdimosthenis/emel) - A simple and functional machine learning library written in Elixir.
 
 ### Python / General-Purpose Machine Learning
 
 *   [Thampi (⭐9)](https://github.com/scoremedia/thampi) - Machine Learning Prediction System on AWS Lambda
 
-## [29. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/week/README.md)
+## [27. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/week/README.md)
 
 ### Articles
 
 *   [It's Time To Talk About Mental Illness In Indie Development](https://www.engadget.com/2018/04/04/mental-illness-indie-take-this-kate-edwards-mike-wilson) - By Jessica Conditt.
 
-## [30. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
+## [28. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
 
 ### Blog Posts & Tutorials
 
 *   [Inspecting Decision Trees in H2O](https://dzone.com/articles/inspecting-decision-trees-in-h2o) Nov 07, 2018
 *   [Machine Learning With H2O — Hands-On Guide for Data Scientists](https://dzone.com/articles/machine-learning-with-h2o-hands-on-guide-for-data) Jun 27, 2018
 
-## [31. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [29. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Communication - Social Networks and Forums
 
-*   [Scoold](https://scoold.com) - Stack Overflow in a JAR. An enterprise-ready Q\&A platform with full-text search, SAML, LDAP integration and social login support. ([Demo](https://live.scoold.com), [Source Code (⭐854)](https://github.com/Erudika/scoold)) `Apache-2.0` `Java/Docker/K8S`
+*   [Scoold](https://scoold.com) - Stack Overflow in a JAR. An enterprise-ready Q\&A platform with full-text search, SAML, LDAP integration and social login support. ([Demo](https://live.scoold.com), [Source Code (⭐875)](https://github.com/Erudika/scoold)) `Apache-2.0` `Java/Docker/K8S`
 
 ### Software / Content Management Systems (CMS)
 
-*   [Expressa (⭐436)](https://github.com/thomas4019/expressa) - Content Management System for powering database driven websites using JSON schemas. Provides permission management and automatic REST APIs. `MIT` `Nodejs`
+*   [Expressa (⭐440)](https://github.com/thomas4019/expressa) - Content Management System for powering database driven websites using JSON schemas. Provides permission management and automatic REST APIs. `MIT` `Nodejs`
 
 ### Software / Personal Dashboards
 
-*   [Organizr (⭐5.1k)](https://github.com/causefx/Organizr) - Organizr aims to be your one stop shop for your Servers Frontend. `GPL-3.0` `PHP/Docker`
+*   [Organizr (⭐5.3k)](https://github.com/causefx/Organizr) - Organizr aims to be your one stop shop for your Servers Frontend. `GPL-3.0` `PHP/Docker`
 
-## [32. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [30. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Table/Grid / Other
 
 *   [Tabulator](http://olifolkerd.github.io/tabulator/) - (jQuery plug-in) An extremely flexible library that create tables with a range of interactive features from any JSON data source or existing HTML table.
 
-## [33. Awesome Food](/content/jzarca01/awesome-food/week/README.md)
+## [31. Awesome Food](/content/jzarca01/awesome-food/week/README.md)
 
 ### Food-related projects
 
@@ -351,13 +335,13 @@
 *   [tacofancy (⭐1.3k)](https://github.com/sinker/tacofancy) - Community-driven taco repo. stars stars stars.
 *   [cookbook (⭐10)](https://github.com/jlinder/cookbook) - Delicious food. Mostly wheat or gluten free.
 
-## [34. Awesome Saltstack](/content/hbokh/awesome-saltstack/week/README.md)
+## [32. Awesome Saltstack](/content/hbokh/awesome-saltstack/week/README.md)
 
 ### Cheat sheets
 
 *   [Salt Commands cheat sheet](https://sites.google.com/site/mrxpalmeiras/saltstack/salt-cheat-sheet) - List of common Salt commands.
 
-## [35. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
+## [33. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
 
 ### Social Networks
 
@@ -367,7 +351,7 @@
 
 *   The [Decentralized Library of Alexandria](https://www.alexandria.io/) is an open-source standard in active development to allow users to publish and distribute original content themselves, from music to videos to feature films, 3d printable inventions, recipes, books and just about anything else.
 
-## [36. Awesome Sass](/content/Famolus/awesome-sass/week/README.md)
+## [34. Awesome Sass](/content/Famolus/awesome-sass/week/README.md)
 
 ### Libraries and Mixins / Grid
 
@@ -381,13 +365,13 @@
 
 *   [Kf](https://kf-sass.com) - Sass mixin library for creating keyframe-based animations from maps.
 
-## [37. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [35. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Culture
 
 *   [Less Risk Through Greater Humanity - Dave Rensin](https://www.youtube.com/watch?v=0zqBlRW_6jA)
 
-## [38. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
+## [36. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
 
 ### Blog posts
 
@@ -399,7 +383,7 @@
 *   [Operiant](https://operiant.com) - Connect your event streams to actions.
 *   [TriggerMesh](https://triggermesh.com) - Serverless cloud with a library of event triggers to enable hybrid cloud and workload portability.
 
-## [39. Awesome R](/content/qinwf/awesome-R/week/README.md)
+## [37. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### Integrated Development Environments
 
@@ -407,58 +391,54 @@
 
 ### Data Manipulation
 
-*   [lubridate (⭐712)](https://github.com/tidyverse/lubridate) - A set of functions to work with dates and times.
-*   [bigmemory (⭐124)](https://github.com/kaneplusplus/bigmemory) - Shared memory and memory-mapped matrices. The big\* packages provide additional tools including linear models ([biglm](http://cran.r-project.org/web/packages/biglm/index.html)) and Random Forests ([bigrf (⭐92)](https://github.com/aloysius-lim/bigrf)).
+*   [lubridate (⭐734)](https://github.com/tidyverse/lubridate) - A set of functions to work with dates and times.
+*   [bigmemory (⭐126)](https://github.com/kaneplusplus/bigmemory) - Shared memory and memory-mapped matrices. The big\* packages provide additional tools including linear models ([biglm](http://cran.r-project.org/web/packages/biglm/index.html)) and Random Forests ([bigrf (⭐91)](https://github.com/aloysius-lim/bigrf)).
 
 ### Graphic Displays
 
 *   [lattice (⭐68)](https://github.com/deepayan/lattice) - A powerful and elegant high-level data visualization system.
-*   [animation (⭐208)](https://github.com/yihui/animation) - A simple way to produce animated graphics in R, using [ImageMagick](http://imagemagick.org/).
-*   [waffle (⭐757)](https://github.com/hrbrmstr/waffle) -  🍁 Make waffle (square pie) charts in R.
-*   [dendextend (⭐148)](https://github.com/talgalili/dendextend) -  visualizing, adjusting and comparing trees of hierarchical clustering.
+*   [animation (⭐206)](https://github.com/yihui/animation) - A simple way to produce animated graphics in R, using [ImageMagick](http://imagemagick.org/).
+*   [waffle (⭐778)](https://github.com/hrbrmstr/waffle) -  🍁 Make waffle (square pie) charts in R.
+*   [dendextend (⭐153)](https://github.com/talgalili/dendextend) -  visualizing, adjusting and comparing trees of hierarchical clustering.
 
 ### HTML Widgets
 
-*   [heatmaply (⭐366)](https://github.com/talgalili/heatmaply) - Interactive heatmaps with D3.
+*   [heatmaply (⭐380)](https://github.com/talgalili/heatmaply) - Interactive heatmaps with D3.
 *   [d3heatmap (⭐236)](https://github.com/rstudio/d3heatmap) - Interactive heatmaps with D3 (no longer maintained).
 
 ### Reproducible Research
 
-*   [tinytex (⭐913)](https://github.com/yihui/tinytex) - A lightweight and easy-to-maintain LaTeX distribution
+*   [tinytex (⭐995)](https://github.com/yihui/tinytex) - A lightweight and easy-to-maintain LaTeX distribution
 
 ### Web Technologies and Services
 
-*   [curl (⭐208)](https://github.com/jeroen/curl) - A Modern and Flexible Web Client for R.
+*   [curl (⭐220)](https://github.com/jeroen/curl) - A Modern and Flexible Web Client for R.
 
 ### Database Management
 
-*   [odbc (⭐378)](https://github.com/r-dbi/odbc) - Connect to ODBC databases (using the DBI interface)
+*   [odbc (⭐392)](https://github.com/r-dbi/odbc) - Connect to ODBC databases (using the DBI interface)
 
 ### Machine Learning
 
-*   [ranger (⭐749)](https://github.com/imbs-hl/ranger) - A Fast Implementation of Random Forests.
+*   [ranger (⭐779)](https://github.com/imbs-hl/ranger) - A Fast Implementation of Random Forests.
 
 ### R Development
 
-*   [sinew (⭐163)](https://github.com/metrumresearchgroup/sinew) - Generate roxygen2 skeletons populated with information scraped from the function script.
+*   [sinew (⭐166)](https://github.com/metrumresearchgroup/sinew) - Generate roxygen2 skeletons populated with information scraped from the function script.
 
-## [40. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [38. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / External Resources
 
 *   [Vue School](https://vueschool.io) - Learn Vue.js from video courses by core members and industry experts
 
-## [41. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
+## [39. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
 
 ### Database
 
 *   [Leya - MySQL API (⭐16)](https://github.com/kevgk/Leya) - by kevgk - Work with MySQL databases in autohotkey, without exposing server credentials to the client.
 
-## [42. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
-
-### Frameworks, Libraries and Tools / Reporting
-
-*   [FastReport (⭐2.6k)](https://github.com/FastReports/FastReport) - The open source report generator for .NET Core 2.x/.Net Framework 4.x. FastReport can be used in MVC, Web API applications.
+## [40. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
@@ -489,24 +469,24 @@
 
 *   [Rin (⭐637)](https://github.com/mayuki/Rin) - Request/response Inspector middleware for ASP.NET Core. like Glimpse.
 
-## [43. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [41. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In Portuguese
 
 *   [10deploys](https://www.10deploys.com/) - São discutidas as origens, tendências, influências e os conceitos por trás do DevOps com o objetivo de ajudar organizações a se transformarem em organizações de alto desempenho.
 
-## [44. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [42. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### CLI
 
-*   [linenoise (⭐3.7k)](https://github.com/antirez/linenoise) - A small self-contained alternative to readline and libedit. \[BSD-2-Clause]
-*   [linenoise-ng (⭐360)](https://github.com/arangodb/linenoise-ng) - A small, portable GNU readline replacement for Linux, Windows and MacOS which is capable of handling UTF-8 characters. \[BSD]
+*   [linenoise (⭐3.9k)](https://github.com/antirez/linenoise) - A small self-contained alternative to readline and libedit. \[BSD-2-Clause]
+*   [linenoise-ng (⭐361)](https://github.com/arangodb/linenoise-ng) - A small, portable GNU readline replacement for Linux, Windows and MacOS which is capable of handling UTF-8 characters. \[BSD]
 
 ### Networking
 
 *   [Libmicrohttpd](http://www.gnu.org/software/libmicrohttpd/) - GNU libmicrohttpd is a small C library that is supposed to make it easy to run an HTTP server as part of another application. \[LGPL v2.1+]
 
-## [45. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
+## [43. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
 
 ### Boilerplates / Themes
 
@@ -517,7 +497,7 @@
 
 ### Theming
 
-*   [antd-theme-webpack-plugin (⭐370)](https://github.com/mzohaibqc/antd-theme-webpack-plugin) - A webpack plugin to generate your custom theme file.
+*   [antd-theme-webpack-plugin (⭐368)](https://github.com/mzohaibqc/antd-theme-webpack-plugin) - A webpack plugin to generate your custom theme file.
 *   [antd-theme-generator (⭐358)](https://github.com/mzohaibqc/antd-theme-generator) - A simple script to generate theme specific less file which can be used in any environment.
 
 ### Design Tools and Resources / Themes
@@ -528,29 +508,29 @@
 
 ### Angular / Themes
 
-*   [NG-ZORRO-Mobile (⭐786)](https://github.com/NG-ZORRO/ng-zorro-antd-mobile) - Ant Design Mobile of Angular
+*   [NG-ZORRO-Mobile (⭐798)](https://github.com/NG-ZORRO/ng-zorro-antd-mobile) - Ant Design Mobile of Angular
 *   [ng-alain](https://ng-alain.com/) - ng-zorro-antd admin panel front-end framework.
 
 ### Vue.js / Themes
 
-*   [ant-design-vue (⭐19k)](https://github.com/vueComponent/ant-design-vue) - Ant Design of Vue.js 2.5.0+.
-*   [antue (⭐256)](https://github.com/zzuu666/antue) - A set of enterprise-class Vue UI components, following the Ant Design specification completely.
-*   [vue-antd-admin (⭐3.5k)](https://github.com/iczer/vue-antd-admin) - Ant Design Pro's implementation with Vue
+*   [ant-design-vue (⭐20k)](https://github.com/vueComponent/ant-design-vue) - Ant Design of Vue.js 2.5.0+.
+*   [antue (⭐258)](https://github.com/zzuu666/antue) - A set of enterprise-class Vue UI components, following the Ant Design specification completely.
+*   [vue-antd-admin (⭐3.7k)](https://github.com/iczer/vue-antd-admin) - Ant Design Pro's implementation with Vue
 
 ### Components / Themes
 
-*   [antd-amplify-react (⭐57)](https://github.com/mzohaibqc/antd-amplify-react) - A collection of Ant Design component for Aws Amplify for Authentication
+*   [antd-amplify-react (⭐59)](https://github.com/mzohaibqc/antd-amplify-react) - A collection of Ant Design component for Aws Amplify for Authentication
 
 ### Icons / Themes
 
-*   [Official Ant Design Icons (⭐841)](http://github.com/ant-design/ant-design-icons)
+*   [Official Ant Design Icons (⭐965)](http://github.com/ant-design/ant-design-icons)
 
 ### Other / Themes
 
 *   [Ant Design of Ember](http://idcos.github.io/antd-ember/#/home) - Enterprise-class UI framework based on Ant Design and Emberjs.
-*   [Fable Ant Design (⭐23)](https://github.com/evilz/fable-ant-design) - Ant Design bindings for Fable Elmish.
+*   [Fable Ant Design (⭐24)](https://github.com/evilz/fable-ant-design) - Ant Design bindings for Fable Elmish.
 
-## [46. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [44. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Camera / Barcode
 
@@ -558,7 +538,7 @@
 
 ### Button / Barcode
 
-*   [AHDownloadButton (⭐480)](https://github.com/amerhukic/AHDownloadButton) - Customizable download button with progress and transition animations. It is based on Apple's App Store download button.
+*   [AHDownloadButton (⭐483)](https://github.com/amerhukic/AHDownloadButton) - Customizable download button with progress and transition animations. It is based on Apple's App Store download button.
 
 ### Menu / Barcode
 
@@ -566,25 +546,25 @@
 
 ### UICollectionView / Barcode
 
-*   [UICollectionViewSplitLayout (⭐241)](https://github.com/yahoojapan/UICollectionViewSplitLayout) - UICollectionViewSplitLayout makes collection view more responsive.
+*   [UICollectionViewSplitLayout (⭐243)](https://github.com/yahoojapan/UICollectionViewSplitLayout) - UICollectionViewSplitLayout makes collection view more responsive.
 
 ### Walkthrough / Barcode
 
 *   [PaperOnboarding (⭐3.3k)](https://github.com/Ramotion/paper-onboarding) - PaperOnboarding is a material design UI slider.
 
-## [47. Awesome Selenium](/content/christian-bromann/awesome-selenium/week/README.md)
+## [45. Awesome Selenium](/content/christian-bromann/awesome-selenium/week/README.md)
 
 ### Tools / Java
 
-*   [WebDriverManager (⭐2.3k)](https://github.com/bonigarcia/webdrivermanager) - Automatic management of Selenium WebDriver binaries.
+*   [WebDriverManager (⭐2.6k)](https://github.com/bonigarcia/webdrivermanager) - Automatic management of Selenium WebDriver binaries.
 
-## [48. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
+## [46. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
 
 ### CLI
 
 *   [Gosleap (⭐20)](https://github.com/koriroys/gosleap) - Make Ryan Gosling jump across your screen.
 
-## [49. Awesome Xamarin](/content/XamSome/awesome-xamarin/week/README.md)
+## [47. Awesome Xamarin](/content/XamSome/awesome-xamarin/week/README.md)
 
 ### IO/Storage
 
@@ -594,7 +574,7 @@
 
 *   [Xamarin.Forms.EntryAutoComplete (⭐37)](https://github.com/krzysztofstepnikowski/Xamarin.Forms.EntryAutoComplete) - Custom control which functionality provides you with suggestions while typing. There are several modes of suggestions. The suggested text can be displayed in a drop-down list so that you can choose from different options.
 
-## [50. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
+## [48. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
 
 ### XSS
 
@@ -610,14 +590,18 @@
 *   [Social Mapper (⭐3.4k)](https://github.com/SpiderLabs/social_mapper) - Social Media Enumeration & Correlation Tool by Jacob Wilkin(Greenwolf) by [@SpiderLabs](https://github.com/SpiderLabs).
 *   [espi0n/Dockerfiles (⭐36)](https://github.com/espi0n/Dockerfiles) - Dockerfiles for various OSINT tools by [@espi0n](https://github.com/espi0n).
 
-## [51. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [49. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+
+### Business Intelligence
+
+*   [FastReport (⭐2.8k)](https://github.com/FastReports/FastReport) - The open source report generator for .NET Core 2.x/.Net Framework 4.x. FastReport can be used in ASP.NET MVC, Web API applications.
 
 ### IoC
 
-*   [DryIoc (⭐991)](https://github.com/dadhi/DryIoc) - Simple, fast all fully featured IoC container.
-*   [Stashbox (⭐138)](https://github.com/z4kn4fein/stashbox) - A lightweight, portable dependency injection framework for .NET based solutions.
+*   [DryIoc (⭐1k)](https://github.com/dadhi/DryIoc) - Simple, fast all fully featured IoC container.
+*   [Stashbox (⭐143)](https://github.com/z4kn4fein/stashbox) - A lightweight, portable dependency injection framework for .NET based solutions.
 
-## [52. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [50. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Advanced datastructures
 

@@ -62,7 +62,7 @@
 
 ### Algorithms and Data structures
 
-*   [graphlb (⭐19)](https://github.com/mettuaditya/graphlb) - Collection of graph datastructure and algorithms
+*   [graphlb (⭐20)](https://github.com/mettuaditya/graphlb) - Collection of graph datastructure and algorithms
 
 ## [9. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 
@@ -78,7 +78,7 @@
 
 ### Others / Useful References
 
-*   [Software Testing Interview Tool (⭐42)](https://github.com/TheJambo/ToDoInterviewTest) - A very buggy To Do List to facilitate face to face interviews.
+*   [Software Testing Interview Tool (⭐45)](https://github.com/TheJambo/ToDoInterviewTest) - A very buggy To Do List to facilitate face to face interviews.
 
 ## [11. Awesome Vscode](/content/viatsko/awesome-vscode/README.md)
 
@@ -144,7 +144,7 @@
 
 ### State management / Redux / ELM / Dependency Injection
 
-*   [Flux (⭐372)](https://github.com/google/flutter_flux) <!--stargazers:google/flutter_flux--> - Implementation of the Flux framework by Google
+*   [Flux (⭐374)](https://github.com/google/flutter_flux) <!--stargazers:google/flutter_flux--> - Implementation of the Flux framework by Google
 
 ### Top / Game Engine resources
 

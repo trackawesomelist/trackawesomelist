@@ -89,7 +89,7 @@
 
 ### Go / General-Purpose Machine Learning
 
-*   [gorse (⭐8.4k)](https://github.com/zhenghaoz/gorse) - An offline recommender system backend based on collaborative filtering written in Go.
+*   [gorse (⭐8.6k)](https://github.com/zhenghaoz/gorse) - An offline recommender system backend based on collaborative filtering written in Go.
 
 ## [13. Awesome Diversity](/content/folkswhocode/awesome-diversity/README.md)
 
@@ -105,7 +105,7 @@
 
 ## [15. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
-### Coordination & Governance / Scala
+### Workflow Orchestration / Scala
 
 *   [Cadence](https://cadenceworkflow.io/) - Fault-oblivious stateful code platform.
 
@@ -131,7 +131,7 @@
 
 ### Anonymity Tools / Tor Tools
 
-*   [dos-over-tor (⭐31)](https://github.com/skizap/dos-over-tor) - Proof of concept denial of service over Tor stress test tool.
+*   [dos-over-tor (⭐36)](https://github.com/skizap/dos-over-tor) - Proof of concept denial of service over Tor stress test tool.
 
 ### Conferences and Events / North America
 
@@ -140,7 +140,7 @@
 
 ### Network Tools / Intentionally Vulnerable Systems as Docker Containers
 
-*   [Smart Install Exploitation Tool (SIET) (⭐563)](https://github.com/Sab0tag3d/SIET) - Scripts for identifying Cisco Smart Install-enabled switches on a network and then manipulating them.
+*   [Smart Install Exploitation Tool (SIET) (⭐573)](https://github.com/Sab0tag3d/SIET) - Scripts for identifying Cisco Smart Install-enabled switches on a network and then manipulating them.
 
 ## [18. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
 

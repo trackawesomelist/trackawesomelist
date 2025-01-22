@@ -16,13 +16,13 @@
 
 ### Assets
 
-*   [Shakapacker (⭐410)](https://github.com/shakacode/shakapacker) - Use Webpack to manage app-like JavaScript modules in Rails. (Official and actively maintained successor to rails/webpacker)
+*   [Shakapacker (⭐432)](https://github.com/shakacode/shakapacker) - Use Webpack to manage app-like JavaScript modules in Rails. (Official and actively maintained successor to rails/webpacker)
 
 ## [3. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Project Layout
 
-*   [nunu (⭐1.8k)](https://github.com/go-nunu/nunu) - Nunu is a scaffolding tool for building Go applications.
+*   [nunu (⭐2k)](https://github.com/go-nunu/nunu) - Nunu is a scaffolding tool for building Go applications.
 
 ## [4. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
@@ -34,7 +34,7 @@
 
 ### Plugin Manager
 
-*   [lewis6991/pckr.nvim (⭐241)](https://github.com/lewis6991/pckr.nvim) - Spiritual successor of `wbthomason/packer.nvim`.
+*   [lewis6991/pckr.nvim (⭐276)](https://github.com/lewis6991/pckr.nvim) - Spiritual successor of `wbthomason/packer.nvim`.
 
 ## [6. Awesome Dotfiles](/content/webpro/awesome-dotfiles/README.md)
 
@@ -54,8 +54,8 @@
 
 ### Miscellaneous
 
-*   [cl-raylib (⭐34)](https://github.com/bohonghuang/claw-raylib) NEW in 2023 - fully auto-generated Common Lisp bindings to Raylib and Raygui using claw and cffi-object. Apache 2.0.
-*   [glfw (⭐21)](https://github.com/shirakumo/glfw) NEW in 2023 - An up-to-date Common Lisp bindings library to the most recent GLFW OpenGL context management library.
+*   [cl-raylib (⭐46)](https://github.com/bohonghuang/claw-raylib) NEW in 2023 - fully auto-generated Common Lisp bindings to Raylib and Raygui using claw and cffi-object. Apache 2.0.
+*   [glfw (⭐28)](https://github.com/shirakumo/glfw) NEW in 2023 - An up-to-date Common Lisp bindings library to the most recent GLFW OpenGL context management library.
 
 ## [9. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -91,17 +91,17 @@
 
 ### Files and Directories / File Sync/Sharing
 
-*   [ncp (⭐33)](https://github.com/kha7iq/ncp) - Transfer files and folders, to and from NFS servers.
+*   [ncp (⭐35)](https://github.com/kha7iq/ncp) - Transfer files and folders, to and from NFS servers.
 
 ## [13. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / Natural Language Processing
 
-*   [CometLLM (⭐504)](https://github.com/comet-ml/comet-llm) - Track, log, visualize and evaluate your LLM prompts and prompt chains.
+*   [CometLLM (⭐2.6k)](https://github.com/comet-ml/comet-llm) - Track, log, visualize and evaluate your LLM prompts and prompt chains.
 
 ### Python / General-Purpose Machine Learning
 
-*   [CometML (⭐144)](https://github.com/comet-ml/comet-examples): The best-in-class MLOps platform with experiment tracking, model production monitoring, a model registry, and data lineage from training straight through to production.
+*   [CometML (⭐152)](https://github.com/comet-ml/comet-examples): The best-in-class MLOps platform with experiment tracking, model production monitoring, a model registry, and data lineage from training straight through to production.
 
 ---
 

@@ -18,18 +18,13 @@
 
 *   [Polynote](https://polynote.org/)  <img src="https://img.shields.io/github/last-commit/polynote/polynote.svg"> - Polynote: an IDE-inspired polyglot notebook. It supports mixing multiple languages in one notebook, and sharing data between them seamlessly. It encourages reproducible notebooks with its immutable data model. Originating from [Netflix](https://medium.com/netflix-techblog/open-sourcing-polynote-an-ide-inspired-polyglot-notebook-7f929d3f447).
 
-### Packages / SQL Data Sources
-
-*   [Spark CSV (⭐1.1k)](https://github.com/databricks/spark-csv) <img src="https://img.shields.io/github/last-commit/databricks/spark-csv.svg"> - CSV reader and writer (obsolete since Spark 2.0 [\[SPARK-12833\]](https://issues.apache.org/jira/browse/SPARK-12833)).
-
 ### Packages / Machine Learning Extension
 
-*   [Clustering4Ever (⭐124)](https://github.com/Clustering4Ever/Clustering4Ever) <img src="https://img.shields.io/github/last-commit/Clustering4Ever/Clustering4Ever.svg"> Scala and Spark API to benchmark and analyse clustering algorithms on any vectorization you can generate.
-*   [Microsoft ML for Apache Spark (⭐4k)](https://github.com/Azure/mmlspark) <img src="https://img.shields.io/github/last-commit/Azure/mmlspark.svg"> - A distributed ml library with support for LightGBM, Vowpal Wabbit, OpenCV, Deep Learning, Cognitive Services, and Model Deployment.
+*   [Microsoft ML for Apache Spark (⭐5.1k)](https://github.com/Azure/mmlspark) <img src="https://img.shields.io/github/last-commit/Azure/mmlspark.svg"> - A distributed ml library with support for LightGBM, Vowpal Wabbit, OpenCV, Deep Learning, Cognitive Services, and Model Deployment.
 
 ### Packages / Natural Language Processing
 
-*   [spark-nlp (⭐3.2k)](https://github.com/JohnSnowLabs/spark-nlp) <img src="https://img.shields.io/github/last-commit/JohnSnowLabs/spark-nlp.svg"> - Natural language processing library built on top of Apache Spark ML.
+*   [spark-nlp (⭐3.9k)](https://github.com/JohnSnowLabs/spark-nlp) <img src="https://img.shields.io/github/last-commit/JohnSnowLabs/spark-nlp.svg"> - Natural language processing library built on top of Apache Spark ML.
 
 ### Resources / Papers
 
@@ -74,7 +69,7 @@
 
 ### Shell Script Development
 
-*   [bashly (⭐2k)](https://github.com/DannyBen/bashly) - Bash command line framework and CLI generator.
+*   [bashly (⭐2.1k)](https://github.com/DannyBen/bashly) - Bash command line framework and CLI generator.
 
 ## [6. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/README.md)
 
@@ -86,13 +81,13 @@
 
 ### Projects / Libraries
 
-*   [CertiGraph (⭐16)](https://github.com/Salamari/CertiGraph) - Library for reasoning about directed graphs and their embedding in separation logic.
+*   [CertiGraph (⭐18)](https://github.com/Salamari/CertiGraph) - Library for reasoning about directed graphs and their embedding in separation logic.
 
 ## [8. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Web
 
-*   [moia-dev/lambda-kotlin-request-router (⭐19)](https://github.com/moia-dev/lambda-kotlin-request-router) - A REST request routing layer for AWS lambda handlers written in Kotlin
+*   [moia-dev/lambda-kotlin-request-router (⭐20)](https://github.com/moia-dev/lambda-kotlin-request-router) - A REST request routing layer for AWS lambda handlers written in Kotlin
 
 ## [9. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
@@ -114,20 +109,19 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [imbalanced-ensemble (⭐299)](https://github.com/ZhiningLiu1998/imbalanced-ensemble) - Python toolbox for quick implementation, modification, evaluation, and visualization of ensemble learning algorithms for class-imbalanced data. Supports out-of-the-box multi-class imbalanced (long-tailed) classification.
+*   [imbalanced-ensemble (⭐340)](https://github.com/ZhiningLiu1998/imbalanced-ensemble) - Python toolbox for quick implementation, modification, evaluation, and visualization of ensemble learning algorithms for class-imbalanced data. Supports out-of-the-box multi-class imbalanced (long-tailed) classification.
 
 ## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [vue-otp-2 (⭐12)](https://github.com/tonghoai/vue-otp-2) - Vue OTP input 2, A Vue component for OTP input.
-*   [vue3-otp-input (⭐111)](https://github.com/ejirocodes/vue3-otp-input) - A fully customizable, OTP (one-time-password) input component built with Vue 3.x and Vue Composition API.
+*   [vue3-otp-input (⭐119)](https://github.com/ejirocodes/vue3-otp-input) - A fully customizable, OTP (one-time-password) input component built with Vue 3.x and Vue Composition API.
 
 ## [13. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Testing Frameworks / Runner
 
-*   [Playwright (⭐64k)](https://github.com/microsoft/playwright) - Node.js library to automate Chromium, Firefox and WebKit with a single API.
+*   [Playwright (⭐65k)](https://github.com/microsoft/playwright) - Node.js library to automate Chromium, Firefox and WebKit with a single API.
 
 ## [14. Awesome Umbraco](/content/umbraco-community/awesome-umbraco/README.md)
 

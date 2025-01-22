@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 19, 2019
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -41,7 +41,7 @@
 
 ### I18n And L10n / Runner
 
-*   [ttag (⭐336)](https://github.com/ttag-org/ttag) - Modern javascript i18n localization library based on ES6 tagged templates and the good old GNU gettext.
+*   [ttag (⭐341)](https://github.com/ttag-org/ttag) - Modern javascript i18n localization library based on ES6 tagged templates and the good old GNU gettext.
 
 ## [7. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/README.md)
 
@@ -55,13 +55,7 @@
 
 *   [Converting Docker-based Actions to JavaScript/TypeScript](https://httgp.com/converting-github-actions-from-docker-to-javascript/)
 
-## [9. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
-
-### Applications and Platforms / Time
-
-*   [Code Time](https://www.software.com/) - Time-tracking for VS Code, Atom, Sublime Text, and other editors
-
-## [10. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+## [9. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Libraries / Chrome Extensions
 

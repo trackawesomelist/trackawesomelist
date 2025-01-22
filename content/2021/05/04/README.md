@@ -83,13 +83,13 @@
 
 ### Sensors / Soil Moisture
 
-*   [MicroPython-MiFlora (⭐5)](https://github.com/matthias-bs/MicroPython-MiFlora) - Xiaomi Mi Flora (aka flower care) BLE plant sensors (soil moisture/conductivity/light intensity/temperature).
+*   [MicroPython-MiFlora (⭐6)](https://github.com/matthias-bs/MicroPython-MiFlora) - Xiaomi Mi Flora (aka flower care) BLE plant sensors (soil moisture/conductivity/light intensity/temperature).
 
 ## [7. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
 ### Authentication and Authorization
 
-*   🍰 [ADmad/SocialAuth plugin (⭐48)](https://github.com/ADmad/cakephp-social-auth) - A plugin which allows you to authenticate using social providers like Facebook/Google/Twitter etc. using [SocialConnect/auth (⭐545)](https://github.com/SocialConnect/auth) social sign on library.
+*   [ADmad/SocialAuth plugin (⭐50)](https://github.com/ADmad/cakephp-social-auth) - A plugin which allows you to authenticate using social providers like Facebook/Google/Twitter etc. using [SocialConnect/auth (⭐551)](https://github.com/SocialConnect/auth) social sign on library.
 
 ## [8. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
@@ -124,29 +124,21 @@ git stash show -p <stash@{n}>
 git push origin HEAD
 ```
 
-## [11. Awesome Design Systems](/content/klaufel/awesome-design-systems/README.md)
+## [11. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+
+### Components & Libraries / UI Components
+
+*   [vue-concise-carousel (⭐24)](https://github.com/jambonn/vue-concise-carousel) - Vue Concise Carousel with True SSR. Works for Vue 2 & 3.
+
+### Components & Libraries / UI Utilities
+
+*   [vue3-lazyload (⭐36)](https://github.com/jambonn/vue-lazyload) - Vue module for lazy-loading images in your vue 3 applications.
+
+## [12. Awesome Design Systems](/content/klaufel/awesome-design-systems/README.md)
 
 ### Design tools
 
 *   [Penpot](https://penpot.app) - Penpot is the first Open Source design and prototyping platform meant for cross-domain teams.
-
-## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Resources / Examples
-
-*   [Vue simulating (⭐1.1k)](https://github.com/GoodManWEN/GoodManWEN.github.io) - A website simulating linux system's GUI, using theme of Deepin distro. Using vue + tailwindcss + animate.css.
-
-### Components & Libraries / UI Components
-
-*   [vue-concise-carousel (⭐23)](https://github.com/jambonn/vue-concise-carousel) - Vue Concise Carousel with True SSR. Works for Vue 2 & 3.
-
-### Components & Libraries / UI Utilities
-
-*   [vue3-lazyload (⭐35)](https://github.com/jambonn/vue-lazyload) - Vue module for lazy-loading images in your vue 3 applications.
-
-### Components & Libraries / Scaffold
-
-*   [Vuetify-tailwind-animate-starter (⭐6)](https://github.com/GoodManWEN/vuetify-tailwind-animate-starter) - A vue-cli starter template for vuetify + tailwindcss + animate.css.
 
 ---
 

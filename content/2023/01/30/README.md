@@ -10,7 +10,7 @@
 
 ### Code Analysis / Text-Based User Interfaces
 
-*   [Error Prone Support (⭐178)](https://github.com/PicnicSupermarket/error-prone-support) - Error Prone extensions: extra bug checkers and a large battery of Refaster templates.
+*   [Error Prone Support (⭐196)](https://github.com/PicnicSupermarket/error-prone-support) - Error Prone extensions: extra bug checkers and a large battery of Refaster templates.
 *   [p3c (⭐30k)](https://github.com/alibaba/p3c) - Provides Alibaba's coding guidelines for PMD, IDEA and Eclipse.
 
 ### Database / Text-Based User Interfaces
@@ -19,7 +19,7 @@
 
 ### Machine Learning / Text-Based User Interfaces
 
-*   [Intelligent java (⭐64)](https://github.com/Barqawiz/IntelliJava) - Seamlessly integrate with remote deep learning and language models programmatically.
+*   [Intelligent java (⭐65)](https://github.com/Barqawiz/IntelliJava) - Seamlessly integrate with remote deep learning and language models programmatically.
 
 ### Podcasts and Screencasts / Mocking
 
@@ -27,9 +27,9 @@
 
 ## [2. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
-### Plugins and scripts / Various Godot versions
+### Plugins and scripts / Godot 4
 
-*   [Fast Fourier Transform (FFT) (⭐34)](https://github.com/tavurth/godot-fft) - Fast Fourier Transform in GDScript (Godot 4.x).
+*   [Fast Fourier Transform (FFT) (⭐41)](https://github.com/tavurth/godot-fft) - Fast Fourier Transform in GDScript.
 
 ## [3. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
@@ -41,21 +41,21 @@
 
 ### Database
 
-*   [Kvrocks (⭐3.4k)](https://github.com/apache/incubator-kvrocks) - A distributed key value NoSQL database that uses RocksDB as storage engine and is compatible with Redis protocol. \[Apache2]
+*   [Kvrocks (⭐3.6k)](https://github.com/apache/incubator-kvrocks) - A distributed key value NoSQL database that uses RocksDB as storage engine and is compatible with Redis protocol. \[Apache2]
 
 ## [5. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 
 ### Data Manipulation / Data Frames
 
-*   [polars (⭐26k)](https://github.com/pola-rs/polars) - A fast multi-threaded, hybrid-out-of-core DataFrame library.
+*   [polars (⭐30k)](https://github.com/pola-rs/polars) - A fast multi-threaded, hybrid-out-of-core DataFrame library.
 
 ## [6. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
 ### Web Feed Specifications / Specification Converters
 
 *   [RSS/Atom to JSONFeed Converter](https://feed2json.org/) <sup>[1285](https://t.me/s/aboutrss/1285)</sup>
-*   [rss to json (⭐175)](https://github.com/nasa8x/rss-to-json) <sup>[1285](https://t.me/s/aboutrss/1285)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/nasa8x/rss-to-json)
-*   [rsscrape (⭐15)](https://github.com/trbznk/rsscrape) <sup>[1285](https://t.me/s/aboutrss/1285)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/trbznk/rsscrape)
+*   [rss to json (⭐182)](https://github.com/nasa8x/rss-to-json) <sup>[1285](https://t.me/s/aboutrss/1285)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/nasa8x/rss-to-json)
+*   [rsscrape (⭐18)](https://github.com/trbznk/rsscrape) <sup>[1285](https://t.me/s/aboutrss/1285)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/trbznk/rsscrape)
 
 ### 🧩 API / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
@@ -73,7 +73,7 @@
 
 ### Self Hosted Readers / Outline Processor Markup Language
 
-*   [Orpinton News (⭐108)](https://github.com/frysztak/orpington-news) <sup>[1267](https://t.me/s/aboutrss/1267)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/frysztak/orpington-news)
+*   [Orpinton News (⭐114)](https://github.com/frysztak/orpington-news) <sup>[1267](https://t.me/s/aboutrss/1267)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/frysztak/orpington-news)
 *   [Informate.club](https://infomate.club/) <sup>[1283](https://t.me/s/aboutrss/1283)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/vas3k/infomate.club)
 
 ### RSSHub / Outline Processor Markup Language
@@ -157,7 +157,7 @@
 
 ### Image Segmentation / Deforum
 
-*   [lucidrains/musiclm-pytorch (⭐3.1k)](https://github.com/lucidrains/musiclm-pytorch): Implementation of MusicLM, Google's new SOTA model for music generation using attention networks, in Pytorch
+*   [lucidrains/musiclm-pytorch (⭐3.2k)](https://github.com/lucidrains/musiclm-pytorch): Implementation of MusicLM, Google's new SOTA model for music generation using attention networks, in Pytorch
 *   \[🔥🔥🔥] [archinetai/audio-ai-timeline (⭐1.9k)](https://github.com/archinetai/audio-ai-timeline): A timeline of the latest AI models for audio generation, starting in 2023
 
 ## [9. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
@@ -180,7 +180,7 @@
 
 ### RPG
 
-*   [OpenEnroth (⭐690)](https://github.com/OpenEnroth/OpenEnroth) - Might and Magic VI-VIII engine remake using original data & code.
+*   [OpenEnroth (⭐713)](https://github.com/OpenEnroth/OpenEnroth) - Might and Magic VI-VIII engine remake using original data & code.
 
 ## [12. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
 
@@ -212,12 +212,12 @@
 
 ### (requires Neovim 0.5)
 
-*   [DNLHC/glance.nvim (⭐668)](https://github.com/DNLHC/glance.nvim) - A pretty window for previewing, navigating and editing your LSP locations.
+*   [DNLHC/glance.nvim (⭐757)](https://github.com/DNLHC/glance.nvim) - A pretty window for previewing, navigating and editing your LSP locations.
 
 ### Editing Support / Diagnostics
 
 *   [\~nedia/auto-save.nvim](https://git.sr.ht/~nedia/auto-save.nvim) - Extremely simple auto saving on `InsertLeave` & `TextChanged`. Based on Pocco81/AutoSave but lighter.
-*   [echasnovski/mini.nvim#mini.basics (⭐4.7k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-basics.md) - Module of `mini.nvim` with customizable configuration presets for common options, mappings, and autocommands.
+*   [echasnovski/mini.nvim#mini.basics (⭐6.2k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-basics.md) - Module of `mini.nvim` with customizable configuration presets for common options, mappings, and autocommands.
 
 ### Formatting / Diagnostics
 
@@ -227,7 +227,7 @@
 
 ### User Defined
 
-*   [date-box (⭐2)](https://github.com/kf-liu/date-box) - Update a pinned gist to contain your anniversaries and countdown days (or hours).
+*   [date-box (⭐3)](https://github.com/kf-liu/date-box) - Update a pinned gist to contain your anniversaries and countdown days (or hours).
 
 ## [17. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
@@ -239,7 +239,7 @@
 
 ### Developer tools and frameworks
 
-*   [DB3 Network (⭐348)](https://github.com/dbpunk-labs/db3) - DB3 Network is an open-source decentralized firebase firestore alternative to build dapps quickly with minimal engineering effort.
+*   [DB3 Network (⭐351)](https://github.com/dbpunk-labs/db3) - DB3 Network is an open-source decentralized firebase firestore alternative to build dapps quickly with minimal engineering effort.
 
 ---
 

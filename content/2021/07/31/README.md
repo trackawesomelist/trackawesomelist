@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 31, 2021
 
-7 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -34,7 +34,7 @@
 
   CORS: Unknown
 
-  Call this API: 
+  : 
 
 
 
@@ -70,13 +70,13 @@
 
 ### Software / Communication - Custom Communication Systems
 
-*   [Tox](https://tox.chat/) - Distributed, secure messenger with audio and video chat capabilities. ([Source Code (⭐2.2k)](https://github.com/TokTok/c-toxcore)) `GPL-3.0` `C`
+*   [Tox](https://tox.chat/) - Distributed, secure messenger with audio and video chat capabilities. ([Source Code (⭐2.3k)](https://github.com/TokTok/c-toxcore)) `GPL-3.0` `C`
 
 ## [3. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
 
 ### Awesome Repositories
 
-- Repository: [The Art of Hacking Series (⭐18k)](https://github.com/The-Art-of-Hacking/h4cker)
+- Repository: [The Art of Hacking Series (⭐20k)](https://github.com/The-Art-of-Hacking/h4cker)
 
   Description: List of resources  includes thousands of cybersecurity-related references and resources
 
@@ -89,7 +89,7 @@
   Description: A curated list of Unix binaries that can be exploited by an attacker to bypass local security restrictions
 
 
-- Repository: [Vulhub (⭐17k)](https://github.com/vulhub/vulhub)
+- Repository: [Vulhub (⭐18k)](https://github.com/vulhub/vulhub)
 
   Description: Pre-Built Vulnerable Environments Based on Docker-Compose
 
@@ -99,19 +99,13 @@
 
 ### Shaders
 
-*   [ngrading (⭐39)](https://github.com/MikuAuahDark/NPad93/tree/master/ngrading) - Simple color grading library.
+*   [ngrading (⭐45)](https://github.com/MikuAuahDark/NPad93/tree/master/ngrading) - Simple color grading library.
 
 ### UI
 
-*   [NLay (⭐39)](https://github.com/MikuAuahDark/NPad93#nlay) - Flexible layouting library.
+*   [NLay (⭐45)](https://github.com/MikuAuahDark/NPad93#nlay) - Flexible layouting library.
 
-## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / Utilities
-
-*   [fontawesome-autogen (⭐15)](https://github.com/GTANAdam/fontawesome-autogen) - Automatically detect and import fontawesome icons used in your webapp.
-
-## [6. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
+## [5. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
 ### Public Data Resources / Energy and Natural Resources
 
@@ -121,7 +115,7 @@
 
 *   [A/B Street](https://www.abstreet.org) - Edit streets and intersections, explore the effects through traffic simulation on all modes, and use the resulting visualizations to communicate a proposal. Apache licensed, runs anywhere with OpenStreetMap, and works on the web or as an offline download.
 
-## [7. GoBooks](/content/dariubs/GoBooks/README.md)
+## [6. GoBooks](/content/dariubs/GoBooks/README.md)
 
 ### 2024 - [Learning Go: An Idiomatic Approach to Real-World Go Programming, 2nd Edition](https://www.amazon.de/-/en/Jon-Bodner/dp/1098139291) / Why does this book look so different?
 

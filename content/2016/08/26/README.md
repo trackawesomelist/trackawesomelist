@@ -97,7 +97,7 @@
 
 ### Translations and Internationalizations
 
-*   [trans (⭐229)](https://github.com/belaustegui/trans) - A Elixir library to manage embedded translations into models leveraging PostgreSQL JSONB datatype.
+*   [trans (⭐231)](https://github.com/belaustegui/trans) - A Elixir library to manage embedded translations into models leveraging PostgreSQL JSONB datatype.
 
 ## [5. Tips](/content/git-tips/tips/README.md)
 

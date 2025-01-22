@@ -10,7 +10,7 @@
 
 ### Hardware
 
-*   [Bus Tracking GPS (⭐29)](https://github.com/herrdragon/busTrackingGps) - Code for Miami prototype of a cheap open-source solution to track transit buses.
+*   [Bus Tracking GPS (⭐31)](https://github.com/herrdragon/busTrackingGps) - Code for Miami prototype of a cheap open-source solution to track transit buses.
 
 ## [2. Awesome Rails Gem](/content/hothero/awesome-rails-gem/README.md)
 

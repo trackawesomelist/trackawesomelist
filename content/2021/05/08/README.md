@@ -22,7 +22,7 @@
 
 ### Containers
 
-*   [C++ B-tree (⭐74)](https://github.com/algorithm-ninja/cpp-btree) - A template library that implements ordered in-memory containers based on a B-tree data structure. \[Apache2]
+*   [C++ B-tree (⭐73)](https://github.com/algorithm-ninja/cpp-btree) - A template library that implements ordered in-memory containers based on a B-tree data structure. \[Apache2]
 
 ## [4. Awesome Security](/content/sbilly/awesome-security/README.md)
 
@@ -46,7 +46,7 @@
 
 ### Remote Login Software / System Related Tools
 
-*   [RoyalTSX](https://www.royalapps.com/ts/mac/features) - Royal TSX is an ideal tool for system engineers and other IT professionals who need remote access to system with different protocols. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [RoyalTSX](https://www.royalapps.com/ts/mac/features) - Royal TSX is an ideal tool for system engineers and other IT professionals who need remote access to systems with different protocols. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ---
 

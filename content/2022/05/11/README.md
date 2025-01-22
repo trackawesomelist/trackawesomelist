@@ -20,13 +20,13 @@
 
 ### Templates / React
 
-*   [react-vite-ssr (⭐26)](https://github.com/EverSeenTOTOTO/browser-app-boilerplate/tree/react-vite-ssr) - Mobx, Typescript, Eslint, Stylelint, Husky, Lint-staged and Commitlint.
+*   [react-vite-ssr (⭐27)](https://github.com/EverSeenTOTOTO/browser-app-boilerplate/tree/react-vite-ssr) - Mobx, Typescript, Eslint, Stylelint, Husky, Lint-staged and Commitlint.
 
 ## [3. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
 
 ### Examples
 
-*   [AI model output API based on PMML with Vert.x (⭐1)](https://github.com/immusen/vertx-pmml) - High performance PMML evaluator API based on Vert.x. Supports dynamic routing configuration for multiple PMML models via JSON.
+*   [AI model output API based on PMML with Vert.x (⭐2)](https://github.com/immusen/vertx-pmml) - High performance PMML evaluator API based on Vert.x. Supports dynamic routing configuration for multiple PMML models via JSON.
 
 ## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

@@ -10,7 +10,7 @@
 
 ### Natural Language Processing
 
-*   [Text (⭐588)](https://github.com/threedaymonk/text) - A collection of text algorithms including Levenshtein distance, Metaphone, Soundex 2, Porter stemming & White similarity.
+*   [Text (⭐586)](https://github.com/threedaymonk/text) - A collection of text algorithms including Levenshtein distance, Metaphone, Soundex 2, Porter stemming & White similarity.
 
 ### Queues and Messaging
 
@@ -132,8 +132,8 @@
 
 ### Miscellaneous
 
-*   [Klib (⭐4.1k)](https://github.com/attractivechaos/klib) - Small and lightweight implementations of common algorithms and data structures. \[MIT]
-*   [libnih (⭐90)](https://github.com/keybuk/libnih) - A lightweight library of C functions and structures. \[GPL2.1]
+*   [Klib (⭐4.3k)](https://github.com/attractivechaos/klib) - Small and lightweight implementations of common algorithms and data structures. \[MIT]
+*   [libnih (⭐89)](https://github.com/keybuk/libnih) - A lightweight library of C functions and structures. \[GPL2.1]
 
 ### Compiler
 
@@ -143,13 +143,13 @@
 
 ### Packages / Command-line apps
 
-*   [empty-trash (⭐130)](https://github.com/sindresorhus/empty-trash) - Empty the trash.
+*   [empty-trash (⭐131)](https://github.com/sindresorhus/empty-trash) - Empty the trash.
 *   [is-online (⭐1.2k)](https://github.com/sindresorhus/is-online) - Check if the internet connection is up.
 *   [public-ip (⭐1k)](https://github.com/sindresorhus/public-ip) - Get your public IP address.
 
 ### Packages / Command-line utilities
 
-*   [meow (⭐3.5k)](https://github.com/sindresorhus/meow) - CLI app helper.
+*   [meow (⭐3.6k)](https://github.com/sindresorhus/meow) - CLI app helper.
 
 ## [10. Awesome Db](/content/numetriclabz/awesome-db/week/README.md)
 
@@ -249,16 +249,16 @@
 
 *   [cuckoo (⭐42)](https://github.com/gmcabrita/cuckoo) - A pure Elixir implementation of [Cuckoo Filters](https://www.cs.cmu.edu/%7Edga/papers/cuckoo-conext2014.pdf).
 *   [exkad](https://github.com/rozap/exkad) - A [kademlia](https://en.wikipedia.org/wiki/Kademlia) implementation in Elixir.
-*   [graphmath (⭐79)](https://github.com/crertel/graphmath) - An Elixir library for performing 2D and 3D mathematics.
+*   [graphmath (⭐84)](https://github.com/crertel/graphmath) - An Elixir library for performing 2D and 3D mathematics.
 
 ### Authentication
 
-*   [oauth2 (⭐743)](https://github.com/scrogson/oauth2) - An OAuth 2.0 client library for Elixir.
-*   [oauth2ex (⭐57)](https://github.com/parroty/oauth2ex) - Another OAuth 2.0 client library for Elixir.
+*   [oauth2 (⭐756)](https://github.com/scrogson/oauth2) - An OAuth 2.0 client library for Elixir.
+*   [oauth2ex (⭐56)](https://github.com/parroty/oauth2ex) - Another OAuth 2.0 client library for Elixir.
 
 ### Frameworks
 
-*   [relax (⭐123)](https://github.com/AgilionApps/relax) - Simple Elixir implementation of a [jsonapi.org](http://jsonapi.org) server.
+*   [relax (⭐122)](https://github.com/AgilionApps/relax) - Simple Elixir implementation of a [jsonapi.org](http://jsonapi.org) server.
 
 ### Macros
 

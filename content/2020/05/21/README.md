@@ -49,7 +49,7 @@
 
 ### Component bundles
 
-*   [Ant Design Blazor (⭐5.7k)](https://github.com/ant-design-blazor/ant-design-blazor) - ![GitHub stars](https://img.shields.io/github/stars/ant-design-blazor/ant-design-blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/ant-design-blazor/ant-design-blazor?style=flat-square\&cacheSeconds=86400) A set of enterprise-class UI components based on Ant Design and Blazor. ([Docs as Demo](https://ant-design-blazor.github.io/)).
+*   [Ant Design Blazor (⭐5.9k)](https://github.com/ant-design-blazor/ant-design-blazor) - ![GitHub stars](https://img.shields.io/github/stars/ant-design-blazor/ant-design-blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/ant-design-blazor/ant-design-blazor?style=flat-square\&cacheSeconds=86400) A set of enterprise-class UI components based on Ant Design and Blazor. ([Docs as Demo](https://ant-design-blazor.github.io/)).
 
 ## [8. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
 
@@ -87,8 +87,8 @@
 
 ### UI / Bottom Sheets
 
-*   [Rubber Bottom Sheet (⭐561)](https://github.com/mcrovero/rubber) <!--stargazers:mcrovero/rubber--> - Elastic material bottom sheet by [Mattia Crovero](https://github.com/mcrovero).
-*   [Modal Bottom Sheet (⭐1.8k)](https://github.com/jamesblasco/modal_bottom_sheet) <!--stargazers:jamesblasco/modal_bottom_sheet--> - Modal bottom sheet with Material, Cupertino iOS13 or custom appareance by [Jaime Blasco](https://github.com/jamesblasco).
+*   [Rubber Bottom Sheet (⭐562)](https://github.com/mcrovero/rubber) <!--stargazers:mcrovero/rubber--> - Elastic material bottom sheet by [Mattia Crovero](https://github.com/mcrovero).
+*   [Modal Bottom Sheet (⭐1.9k)](https://github.com/jamesblasco/modal_bottom_sheet) <!--stargazers:jamesblasco/modal_bottom_sheet--> - Modal bottom sheet with Material, Cupertino iOS13 or custom appareance by [Jaime Blasco](https://github.com/jamesblasco).
 
 ## [11. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
@@ -105,10 +105,6 @@
 ### Resources / Blog Posts
 
 *   [Vue vs. React – Which Should You Pick For Your Next Web Project?](https://www.ideamotive.co/blog/vue-vs-react?utm_source=github.com\&utm_medium=social\&utm_campaign=vue-vs-react)
-
-### Components & Libraries / UI Components
-
-*   [vue-d3-barchart (⭐16)](https://github.com/emiliorizzo/vue-d3-barchart) - Small component to draw charts using d3.
 
 ## [13. Awesome Mobile Web Development](/content/myshov/awesome-mobile-web-development/README.md)
 
@@ -135,7 +131,7 @@
 
 ### Security
 
-- API: [Mozilla http scanner (⭐1.8k)](https://github.com/mozilla/http-observatory/blob/master/httpobs/docs/api.md)
+- API: [Mozilla http scanner (⭐1.9k)](https://github.com/mozilla/http-observatory/blob/master/httpobs/docs/api.md)
 
   Description: Mozilla observatory http scanner
 
@@ -146,7 +142,7 @@
   CORS: Unknown
 
 
-- API: [Mozilla tls scanner (⭐527)](https://github.com/mozilla/tls-observatory#api-endpoints)
+- API: [Mozilla tls scanner (⭐534)](https://github.com/mozilla/tls-observatory#api-endpoints)
 
   Description: Mozilla observatory tls scanner
 
@@ -174,7 +170,7 @@
 
 ### Modules / Web utils
 
-*   [youtube-deno (⭐43)](https://github.com/akshgpt7/youtube-deno) - A Deno client library for the YouTube Data API for any interaction with YouTube.
+*   [youtube-deno (⭐45)](https://github.com/akshgpt7/youtube-deno) - A Deno client library for the YouTube Data API for any interaction with YouTube.
 
 ### Resources in Other Languages / Indonesian
 

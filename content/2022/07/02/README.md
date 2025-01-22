@@ -16,8 +16,8 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [skim (casonadams) (⭐2)](https://github.com/casonadams/skim.zsh) - Tries to determine where [skim (⭐5k)](https://github.com/lotabout/skim) is installed, then enables its fuzzy auto-completion and key bindings.
-*   [skim (hackerchai) (⭐3)](https://github.com/hackerchai/skim-zsh) - Adds support for [skim (⭐5k)](https://github.com/lotabout/skim)
+*   [skim (casonadams) (⭐2)](https://github.com/casonadams/skim.zsh) - Tries to determine where [skim (⭐5.3k)](https://github.com/lotabout/skim) is installed, then enables its fuzzy auto-completion and key bindings.
+*   [skim (hackerchai) (⭐3)](https://github.com/hackerchai/skim-zsh) - Adds support for [skim (⭐5.3k)](https://github.com/lotabout/skim)
 
 ## [3. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
@@ -29,13 +29,13 @@
 
 ### Back-end API / Playground
 
-*   :octocat: [Nest (⭐66k)](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript 🚀 (see also: <https://nestjs.com/>)
-    *   :octocat: [nestia (⭐1.7k)](https://github.com/samchon/nestia) - 20,000x faster validation and 200x faster JSON serialization decorators using `typia`. Enable to utilize pure TypeScript interface type as DTO, and overall server performance improved by about 30x times. Also, it supports SDK (collection of `fetch` functions with type definitions) and Mockup Simulator (backend server simulator embedded in SDK) generation, and even possible to migrate NestJS project only by `swagger.json` file. 🚀 (see also: <https://nestia.io/docs>)
+*   :octocat: [Nest (⭐69k)](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript 🚀 (see also: <https://nestjs.com/>)
+    *   :octocat: [nestia (⭐1.9k)](https://github.com/samchon/nestia) - 20,000x faster validation and 200x faster JSON serialization decorators using `typia`. Enable to utilize pure TypeScript interface type as DTO, and overall server performance improved by about 30x times. Also, it supports SDK (collection of `fetch` functions with type definitions) and Mockup Simulator (backend server simulator embedded in SDK) generation, and even possible to migrate NestJS project only by `swagger.json` file. 🚀 (see also: <https://nestia.io/docs>)
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [TypeORM (⭐34k)](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
-    *   :octocat: [Safe-TypeORM (⭐226)](https://github.com/samchon/safe-typeorm) - Enhances `TypeORM` in the compilation level and supports automated performance tuning tools through the application level joining. Furthermore, your raw SQL queries would be ensured safety by type meta programming.
+*   :octocat: [TypeORM (⭐35k)](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
+    *   :octocat: [Safe-TypeORM (⭐229)](https://github.com/samchon/safe-typeorm) - Enhances `TypeORM` in the compilation level and supports automated performance tuning tools through the application level joining. Furthermore, your raw SQL queries would be ensured safety by type meta programming.
 
 ## [5. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
@@ -51,11 +51,11 @@
 
 ### Syntax / Diagnostics
 
-*   [kylechui/nvim-surround (⭐3k)](https://github.com/kylechui/nvim-surround) - A plugin for adding/changing/deleting surrounding delimiter pairs.
+*   [kylechui/nvim-surround (⭐3.4k)](https://github.com/kylechui/nvim-surround) - A plugin for adding/changing/deleting surrounding delimiter pairs.
 
 ### Utility / Diagnostics
 
-*   [kevinhwang91/nvim-ufo (⭐2.2k)](https://github.com/kevinhwang91/nvim-ufo) - Ultra fold with modern looking and performance boosting.
+*   [kevinhwang91/nvim-ufo (⭐2.4k)](https://github.com/kevinhwang91/nvim-ufo) - Ultra fold with modern looking and performance boosting.
 
 ---
 

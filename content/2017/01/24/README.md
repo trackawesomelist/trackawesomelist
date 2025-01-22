@@ -205,8 +205,6 @@
 
 *   [Hasjob](https://hasjob.co/) – Location filter -> "*Anywhere/Remote*"
 *   [HigherEdJobs](https://www.higheredjobs.com/search/remote.cfm) has remote type filter.
-*   [HN hiring](http://hnhiring.me/) – Filter REMOTE.
-*   [No Fluff Jobs](https://nofluffjobs.com/#criteria=remote) – Filter -> “*remote*”
 *   [Remote.co Jobs](https://remote.co/remote-jobs/)
 
 ### Housing
@@ -228,19 +226,12 @@
 
 *   Remote.co: [Q\&A's with 90+ Remote Companies](https://remote.co/qa-leading-remote-companies/)
 
-### Communities
-
-*   [/r/telecommuting](https://www.reddit.com/r/telecommuting/) - Subreddit.
-
 ### Tools / Communication
 
 *   [Fleep](https://fleep.io/) - Internal chat and collaboration tool for development teams
-*   [Flowdock](https://www.flowdock.com/) – Browser-based group chat for teams. Integrates with GitHub, Jira, Jenkins etc.
 *   [IRCCloud](https://www.irccloud.com) – Browser-based IRC client with permanent storage.
 *   [Precursor](https://precursorapp.com) - Simple prototyping & brainstorming web app with real-time collaboration.
-*   [PukkaTeam](https://www.pukkateam.com) - Real team presence through regular automated selfies and one-click video calling
 *   [Talky](https://talky.io/) — Truly simple video chat and screen sharing for groups
-*   [Zoom](https://zoom.us) — High-quality group video and sharing screen, run on linux, record session and support telephone calls.
 
 ### Tools / Project Management
 
@@ -249,12 +240,10 @@
 ### Tools / Others
 
 *   [Coffitivity](https://coffitivity.com/) - Coffitivity recreates the ambient sounds of a cafe to boost your creativity and help you work better.
-*   [Teleport Sundial](https://sundial.teleport.org) - Manage the locations and timezones of your distributed team.
 
 ### Others / Others
 
 *   [LiquidSpace](https://liquidspace.com/) - Daily & Hourly Office & Meeting Room Rental.
-*   [Nomad List](https://nomadlist.io/) - Compare cost and quality of living in different cities.
 *   [WorkFrom](https://workfrom.co/) - Find coffee shops that are good to work from.
 
 ## [3. Awesome Fuse](/content/fuse-compound/awesome-fuse/README.md)
@@ -291,7 +280,7 @@
 
 ### Libraries / Lenses
 
-*   [partial.lenses (⭐905)](https://github.com/calmm-js/partial.lenses) – Partial lenses is a comprehensive, high-performance optics library for JavaScript.
+*   [partial.lenses (⭐918)](https://github.com/calmm-js/partial.lenses) – Partial lenses is a comprehensive, high-performance optics library for JavaScript.
 
 ## [7. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/README.md)
 

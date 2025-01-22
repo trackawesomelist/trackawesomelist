@@ -22,7 +22,7 @@
 
 ### Autonomous LLM Agents / Multi-agents
 
-*   [microsoft/TinyTroupe (⭐1.1k)](https://github.com/microsoft/TinyTroupe): LLM-powered multiagent persona simulation for imagination enhancement and business insights
+*   [microsoft/TinyTroupe (⭐5.3k)](https://github.com/microsoft/TinyTroupe): LLM-powered multiagent persona simulation for imagination enhancement and business insights
 
 ## [4. Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/README.md)
 
@@ -69,68 +69,18 @@
 
 ### HTML generators and templates / Isomorphic web frameworks
 
-*   [hsx (⭐20)](https://github.com/skyizwhite/hsx/) - An easily composable HTML5 generation library with the most simplistic syntax. [MIT](https://opensource.org/licenses/MIT).
+*   [hsx (⭐21)](https://github.com/skyizwhite/hsx/) - An easily composable HTML5 generation library with the most simplistic syntax. [MIT](https://opensource.org/licenses/MIT).
 
 ## [9. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
-### Projects / API Management
-
-*   [Gravitee.io API Management (⭐193) (⭐193)](https://github.com/gravitee-io/gravitee-api-management) - A flexible, lightweight, and open-source API management solution that provides comprehensive API management capabilities and helps you manage your APIs with ease.
-*   [WSO2 API Manager (⭐849) (⭐849)](https://github.com/wso2/product-apim) - A fully open-source API management platform that provides comprehensive API management capabilities and allows you to manage APIs with ease.
-
-### Projects / API Design
-
-*   [OpenAPI Diff (⭐830) (⭐829)](https://github.com/OpenAPITools/openapi-diff) - Compare OpenAPI specs with version control and visualize the differences in HTML or Markdown format.
-*   [OpenAPI Style Validator (⭐208) (⭐208)](https://github.com/OpenAPITools/openapi-style-validator) - Ensure that your OpenAPI specs meet your organization's standards with this flexible and customizable style validator.
-
 ### Projects / API Documentation
 
-*   [DapperDox (⭐408) (⭐408)](https://github.com/DapperDox/dapperdox) - An open-source API documentation generator and server for OpenAPI/Swagger specifications, with customizable documentation, automated updates, and easy sharing.
 *   [RapiDoc (⭐1.7k) (⭐1.7k)](https://github.com/rapi-doc/RapiDoc) - A tool that generates customizable, interactive API documentation from OpenAPI Specification, with a range of design options.
-*   [Stoplight Elements (⭐1.8k) (⭐1.8k)](https://github.com/stoplightio/elements) - Beautiful API documentation powered by OpenAPI and Markdown. Use these UI components to create API reference documentation, or more complete documentation with Markdown articles covering tutorials, how-to guides, etc.
+*   [Stoplight Elements (⭐1.8k) (⭐1.9k)](https://github.com/stoplightio/elements) - Beautiful API documentation powered by OpenAPI and Markdown. Use these UI components to create API reference documentation, or more complete documentation with Markdown articles covering tutorials, how-to guides, etc.
 
 ### Projects / API Gateway
 
-*   [KrakenD API Gateway (⭐2k) (⭐2k)](https://github.com/devopsfaith/krakend-ce) - An ultra-high performance API Gateway that leverages middlewares for fast and efficient API management.
-
-### Projects / API Testing
-
-*   MQ clients
-    *   [JMSToolBox (⭐205) (⭐205)](https://github.com/jmstoolbox/jmstoolbox) - Universal JMS client designed to interact with a wide range of JMS-based message brokers.
-    *   [kcat (⭐5.4k) (⭐5.4k)](https://github.com/edenhill/kcat) - Generic non-JVM producer and consumer for Apache Kafka, functioning as a netcat for Kafka.
-    *   [MQTT Explorer (⭐3k) (⭐3.1k)](https://github.com/thomasnordquist/MQTT-Explorer) - All-round MQTT client with a structured topic overview, suitable for debugging and testing MQTT-based systems.
-    *   [Offset Explorer](https://www.kafkatool.com) - GUI application for managing and using Apache Kafka clusters, formerly known as Kafka Tool.
-    *   [Service Bus Explorer (⭐2k) (⭐2k)](https://github.com/paolosalvatori/ServiceBusExplorer) - GUI app for Azure Service Bus, offering advanced features like import/export functionality and the ability to test topic, queues, subscriptions, relay services, notification hubs, and events hubs.
-*   Mocking tools
-    *   [Imposter (⭐371) (⭐370)](https://github.com/outofcoffee/imposter) - Mock server for REST APIs, OpenAPI (and Swagger) specifications, SOAP web services (and WSDL files), Salesforce and HBase APIs.
-    *   [Microcks (⭐1.4k) (⭐1.4k)](https://github.com/microcks/microcks) - Open-source Kubernetes-native tool for API mocking and testing, supporting AsyncAPI, OpenAPI, Postman Collections, etc.
-    *   [Mockable](https://www.mockable.io/) - Simple configurable service to mock out RESTful API or SOAP web-services.
-    *   [Mockbin (⭐92) (⭐89)](https://github.com/zuplo/mockbin) - Easily generate custom endpoints to test HTTP requests, and view the request logs from that API for free.
-    *   [Mockoon (⭐6.5k) (⭐6.5k)](https://github.com/mockoon/mockoon) - Easy-to-use tool for designing and running mock REST APIs.
-    *   [MockServer (⭐4.6k) (⭐4.6k)](https://github.com/mock-server/mockserver) - Easy mocking of any system you integrate with via HTTP or HTTPS.
-    *   [Mocky (⭐2k) (⭐2.1k)](https://github.com/MockyAbstract/Mocky) - Free and unlimited online service for generating custom HTTP responses.
-    *   [Prism (⭐4.3k) (⭐4.3k)](https://github.com/stoplightio/prism) - Open-source HTTP mock server that can mimic your API's behavior as if you already built it.
-    *   [WireMock (⭐6.3k) (⭐6.4k)](https://github.com/tomakehurst/wiremock) - Mock your APIs for fast, robust, and comprehensive testing.
-*   Testing tools and frameworks
-    *   [Apache JMeter (⭐8.4k) (⭐8.4k)](https://github.com/apache/jmeter) - Open-source Java-based load testing tool that can be used to test the performance and scalability of web applications, databases, and other network services.
-    *   [Gatling (⭐6.4k) (⭐6.5k)](https://github.com/gatling/gatling) - An open-source load testing tool that allows users to write and run load tests as code, providing detailed performance reports to optimize system performance.
-    *   [Karate (⭐8.2k) (⭐8.3k)](https://github.com/intuit/karate) - Open-source tool that combines API test-automation, mocks, performance-testing, and even UI automation into a single, unified framework.
-    *   [Pyresttest (⭐1.1k) (⭐1.2k)](https://github.com/svanoort/pyresttest) - Python-based REST testing and API microbenchmarking tool that uses YAML or JSON for test.
-    *   [REST Assured (⭐6.8k) (⭐6.9k)](https://github.com/rest-assured/rest-assured) - Java DSL for easy testing of REST services.
-    *   [Schemathesis (⭐2.2k) (⭐2.3k)](https://github.com/schemathesis/schemathesis) - Python library for property-based testing of API schemas.
-    *   [Taurus (⭐2k) (⭐2k)](https://github.com/Blazemeter/taurus) - An open-source framework for continuous testing that simplifies test execution and management through a user-friendly interface and integrates with various testing tools and frameworks.
-
-### Projects / Data Mapping Solution
-
-*   [JSLT (⭐638) (⭐638)](https://github.com/schibsted/jslt) - A complete query and transformation language for JSON that is inspired by jq, XPath, and XQuery. With JSLT, software engineers can quickly and easily transform JSON data to meet their needs.
-
-### Projects / Integration Frameworks
-
-*   [Frank!Framework (⭐130) (⭐130)](https://github.com/frankframework/frankframework) - A Low-Code Java-based messaging framework to connect your system and application data, that is completely configurable through XML configurations.
-
-### Projects / Messaging
-
-*   [Centrifugo (⭐8.4k) (⭐8.4k)](https://github.com/centrifugal/centrifugo) - An open-source, scalable real-time messaging server that allows you to build interactive applications where events are delivered to online users with minimal delay.
+*   [KrakenD API Gateway (⭐2k) (⭐2.1k)](https://github.com/devopsfaith/krakend-ce) - An ultra-high performance API Gateway that leverages middlewares for fast and efficient API management.
 
 ### Resources / API Specification
 
@@ -177,4 +127,5 @@
 
 ---
 
+- Prev: [Nov 14, 2024](/content/2024/11/14/README.md)
 - Next: [Nov 12, 2024](/content/2024/11/12/README.md)

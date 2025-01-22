@@ -16,13 +16,13 @@
 
 ### Pull Requests / Code Coverage
 
-*   [Lint pull request name with commitlint (Awesome if you squash merge !) (⭐54)](https://github.com/JulienKode/pull-request-name-linter-action)
+*   [Lint pull request name with commitlint (Awesome if you squash merge !) (⭐78)](https://github.com/JulienKode/pull-request-name-linter-action)
 
 ## [3. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Device / Bluetooth / NFC / Beacon
 
-*   [Reactive Ble (⭐651)](https://github.com/PhilipsHue/flutter_reactive_ble) <!--stargazers:PhilipsHue/flutter_reactive_ble--> - Handles BLE operations for multiple devices by [Philips Hue](https://github.com/PhilipsHue)
+*   [Reactive Ble (⭐672)](https://github.com/PhilipsHue/flutter_reactive_ble) <!--stargazers:PhilipsHue/flutter_reactive_ble--> - Handles BLE operations for multiple devices by [Philips Hue](https://github.com/PhilipsHue)
 
 ## [4. Awesome Maintainers](/content/nayafia/awesome-maintainers/README.md)
 
@@ -37,7 +37,7 @@
 
 ### Bundle Analyzers
 
-*   [CSS Analyzer (⭐671)](https://github.com/macbre/analyze-css) - CSS selectors complexity and performance analyzer.
+*   [CSS Analyzer (⭐699)](https://github.com/macbre/analyze-css) - CSS selectors complexity and performance analyzer.
 
 ## [6. Awesome Esolangs](/content/angrykoala/awesome-esolangs/README.md)
 
@@ -99,11 +99,11 @@
 
 ### Applications
 
-*   [alacritty (⭐55k)](https://github.com/alacritty/alacritty) - A cross-platform, GPU enhanced terminal emulator
+*   [alacritty (⭐57k)](https://github.com/alacritty/alacritty) - A cross-platform, GPU enhanced terminal emulator
 
 ### Libraries / Text search
 
-*   [CurrySoftware/perlin (⭐75)](https://github.com/CurrySoftware/perlin) \[[perlin](https://crates.io/crates/perlin)] - A lazy, zero-allocation and data-agnostic Information Retrieval library
+*   [CurrySoftware/perlin (⭐76)](https://github.com/CurrySoftware/perlin) \[[perlin](https://crates.io/crates/perlin)] - A lazy, zero-allocation and data-agnostic Information Retrieval library
 
 ## [14. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/README.md)
 
@@ -115,13 +115,13 @@
 
 ### Workshops / ChatGPT
 
-*   [Wardley Maps Battle Camp (⭐45)](https://github.com/simalexan/battlecamp) - Workshop rules, cards and materials.
+*   [Wardley Maps Battle Camp (⭐47)](https://github.com/simalexan/battlecamp) - Workshop rules, cards and materials.
 
 ## [16. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### no-std crates / WIP
 
-*   [bitmatch](https://crates.io/crates/bitmatch): A crate that allows you to match, bind, and pack the individual bits of integers. - ![crates.io](https://img.shields.io/crates/v/bitmatch.svg)
+*   [bitmatch](https://crates.io/crates/bitmatch): A crate that allows you to match, bind, and pack the individual bits of integers. - [![crates.io](https://img.shields.io/crates/v/bitmatch.svg)](https://crates.io/crates/bitmatch)
 
 ---
 

@@ -10,43 +10,43 @@
 
 ### Algorithms and Data structures
 
-*   [array (⭐34)](https://github.com/takscape/elixir-array) - An Elixir wrapper library for Erlang's array.
+*   [array (⭐36)](https://github.com/takscape/elixir-array) - An Elixir wrapper library for Erlang's array.
 
 ### Configuration
 
 *   [conform (⭐376)](https://github.com/bitwalker/conform) - Easy release configuration for Elixir apps.
-*   [ex\_conf (⭐36)](https://github.com/phoenixframework/ex_conf) - Simple Elixir Configuration Management.
+*   [ex\_conf (⭐35)](https://github.com/phoenixframework/ex_conf) - Simple Elixir Configuration Management.
 
 ### CSV
 
 *   [cesso (⭐26)](https://github.com/meh/cesso) - CSV handling library for Elixir.
 *   [csvlixir (⭐33)](https://github.com/jimm/csvlixir) - A CSV reading/writing application for Elixir.
-*   [ex\_csv (⭐47)](https://github.com/CargoSense/ex_csv) - CSV for Elixir.
+*   [ex\_csv (⭐46)](https://github.com/CargoSense/ex_csv) - CSV for Elixir.
 
 ### Hardware
 
-*   [elixir\_ale (⭐342)](https://github.com/fhunleth/elixir_ale) - Elixir access to hardware I/O interfaces such as GPIO, I2C, and SPI.
+*   [elixir\_ale (⭐344)](https://github.com/fhunleth/elixir_ale) - Elixir access to hardware I/O interfaces such as GPIO, I2C, and SPI.
 
 ### JSON
 
-*   [jazz (⭐61)](https://github.com/meh/jazz) - Yet another library to handle JSON in Elixir.
-*   [joken (⭐760)](https://github.com/bryanjos/joken) - Encodes and decodes JSON Web Tokens.
+*   [jazz (⭐60)](https://github.com/meh/jazz) - Yet another library to handle JSON in Elixir.
+*   [joken (⭐783)](https://github.com/bryanjos/joken) - Encodes and decodes JSON Web Tokens.
 *   [jsxn (⭐26)](https://github.com/talentdeficit/jsxn) - jsx but with maps.
 
 ### Markdown
 
 *   [discount (⭐21)](https://github.com/asaaki/discount.ex) - Elixir NIF for discount, a Markdown parser.
-*   [earmark (⭐853)](https://github.com/pragdave/earmark) - Markdown parser for Elixir.
+*   [earmark (⭐878)](https://github.com/pragdave/earmark) - Markdown parser for Elixir.
 
 ### OTP
 
-*   [core (⭐44)](https://github.com/fishcakez/core) - Library for selective receive OTP processes.
+*   [core (⭐43)](https://github.com/fishcakez/core) - Library for selective receive OTP processes.
 *   [libex\_config (⭐1)](https://github.com/reset/libex-config) - Helpers for accessing OTP application configuration.
 
 ### REST and API
 
 *   [signaturex (⭐26)](https://github.com/edgurgel/signaturex) - Simple key/secret based authentication for APIs.
-*   [urna (⭐95)](https://github.com/meh/urna) - Urna is a simple DSL around cauldron to implement REST services.
+*   [urna (⭐94)](https://github.com/meh/urna) - Urna is a simple DSL around cauldron to implement REST services.
 
 ### Statistics
 
@@ -55,7 +55,7 @@
 ### XML
 
 *   [quinn (⭐49)](https://github.com/nhu313/Quinn) - XML parser for Elixir.
-*   [xml\_builder (⭐170)](https://github.com/joshnuss/xml_builder) - Elixir library for generating xml.
+*   [xml\_builder (⭐176)](https://github.com/joshnuss/xml_builder) - Elixir library for generating xml.
 
 ---
 

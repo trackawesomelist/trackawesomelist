@@ -10,7 +10,7 @@
 
 ### Driver crates / Other
 
-*   [SHTCx](http://crates.io/crates/shtcx) - I2C - Temperature / humidity sensors - [github (⭐12)](https://github.com/dbrgn/shtcx-rs) - ![crates.io](https://img.shields.io/crates/v/shtcx.svg)
+*   [SHTCx](http://crates.io/crates/shtcx) - I2C - Temperature / humidity sensors - [github (⭐13)](https://github.com/dbrgn/shtcx-rs) - [![crates.io](https://img.shields.io/crates/v/shtcx.svg)](https://crates.io/crates/shtcx)
 
 ## [2. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
 
@@ -77,11 +77,11 @@
 
 ### C, C++
 
-*   [Software-Evolution-Library (⭐165)](https://github.com/GrammaTech/sel) - The SEL enables the programmatic modification and evaluation of software (C/C++ support using Clang, compiled assembler, and linked ELF binaries). [GPL3](http://www.gnu.org/copyleft/gpl.html).
+*   [Software-Evolution-Library (⭐173)](https://github.com/GrammaTech/sel) - The SEL enables the programmatic modification and evaluation of software (C/C++ support using Clang, compiled assembler, and linked ELF binaries). [GPL3](http://www.gnu.org/copyleft/gpl.html).
 
 ### C
 
-*   [cl-bindgen (⭐26)](https://github.com/sdilts/cl-bindgen) - A command line tool and library for creating Common Lisp language bindings from C header files. [MIT](https://opensource.org/licenses/MIT).
+*   [cl-bindgen (⭐30)](https://github.com/sdilts/cl-bindgen) - A command line tool and library for creating Common Lisp language bindings from C header files. [MIT](https://opensource.org/licenses/MIT).
 
 ## [11. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
 
@@ -107,7 +107,7 @@ Webpage: [publicspace.amsterdam](https://publicspace.amsterdam/)
 
 ### Software / Communication - Custom Communication Systems
 
-*   [OTS](https://ots.fyi/) - One-Time-Secret sharing platform with a symmetric 256bit AES encryption in the browser. ([Source Code (⭐434)](https://github.com/Luzifer/ots)) `Apache-2.0` `Go`
+*   [OTS](https://ots.fyi/) - One-Time-Secret sharing platform with a symmetric 256bit AES encryption in the browser. ([Source Code (⭐489)](https://github.com/Luzifer/ots)) `Apache-2.0` `Go`
 
 ---
 

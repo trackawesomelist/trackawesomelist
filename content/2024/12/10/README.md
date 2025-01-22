@@ -30,7 +30,7 @@
 
 ### AI / Diagnostics
 
-*   [supermaven-inc/supermaven-nvim (⭐776)](https://github.com/supermaven-inc/supermaven-nvim) - The fastest copilot, brought to you by [Supermaven](https://supermaven.com/).
+*   [supermaven-inc/supermaven-nvim (⭐834)](https://github.com/supermaven-inc/supermaven-nvim) - The fastest copilot, brought to you by [Supermaven](https://supermaven.com/).
 
 ## [4. Awesome V](/content/vlang/awesome-v/README.md)
 
@@ -42,19 +42,19 @@
 
 ### Others / Third-party APIs
 
-*   [numericals (⭐50)](https://github.com/digikar99/numericals) -  SIMD powered simple-math numerical operations on arrays for Common Lisp through CFFI \[still experimental]. MIT.
+*   [numericals (⭐51)](https://github.com/digikar99/numericals) -  SIMD powered simple-math numerical operations on arrays for Common Lisp through CFFI \[still experimental]. MIT.
     *   documentation: <https://digikar99.github.io/numericals/>
-*   [dense-arrays (⭐24)](https://github.com/digikar99/dense-arrays) -  Numpy like array object for common lisp. MIT.
+*   [dense-arrays (⭐25)](https://github.com/digikar99/dense-arrays) -  Numpy like array object for common lisp. MIT.
 
 ## [6. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Message Queue
 
-*   [Rocketmq-Rust (⭐779)](https://github.com/mxsm/rocketmq-rust) - 🚀Apache RocketMQ build in Rust🦀. Faster, safer, and with lower memory usage.
+*   [Rocketmq-Rust (⭐885)](https://github.com/mxsm/rocketmq-rust) - 🚀Apache RocketMQ build in Rust🦀. Faster, safer, and with lower memory usage.
 
 ### Applications / Web
 
-*   [Redlib (⭐1.4k)](https://github.com/redlib-org/redlib) - An alternative private front-end to Reddit, with its origins in [Libreddit (⭐5k)](https://github.com/libreddit/libreddit)
+*   [Redlib (⭐1.6k)](https://github.com/redlib-org/redlib) - An alternative private front-end to Reddit, with its origins in [Libreddit (⭐5.1k)](https://github.com/libreddit/libreddit)
 
 ## [7. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -79,7 +79,7 @@
 
 ### QR Codes / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [Angular-html5qrcode (⭐2)](https://github.com/mohamedfakhreldin/Angular-html5qrcode) - This library provides an Angular wrapper for the [html5-qrcode (⭐5.1k)](https://github.com/mebjas/html5-qrcode) library, allowing developers to easily integrate QR code and barcode scanning functionalities into their applications.
+*   [Angular-html5qrcode (⭐2)](https://github.com/mohamedfakhreldin/Angular-html5qrcode) - This library provides an Angular wrapper for the [html5-qrcode (⭐5.2k)](https://github.com/mebjas/html5-qrcode) library, allowing developers to easily integrate QR code and barcode scanning functionalities into their applications.
 
 ### Additional / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -111,4 +111,5 @@
 
 ---
 
+- Prev: [Dec 11, 2024](/content/2024/12/11/README.md)
 - Next: [Dec 09, 2024](/content/2024/12/09/README.md)

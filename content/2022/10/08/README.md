@@ -1,24 +1,18 @@
 # Awesome List Updates on Oct 08, 2022
 
-7 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Osint](/content/jivoi/awesome-osint/README.md)
-
-### Other Tools / Telegram
-
-*   [CantHide](https://canthide.me) - CantHide finds previous locations by looking at a given social media account.
-
-## [2. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
+## [1. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
 ### General courses
 
 *   [Foundations of Blockchains](https://www.youtube.com/watch?v=KNJGPI0fuFA\&list=PLEGCF-WLh2RLOHv_xUGLqRts_9JxrckiA) - A video course by Tim Roughgarden a Professor of Computer Science at Columbia University highlighting the fundamental principles, concepts and properties of Blockchain protocols.
 
-## [3. Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md)
+## [2. Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md)
 
 ### IR Tools Collection / Books
 
@@ -28,13 +22,13 @@
 
 *   [Threat.Zone](https://app.threat.zone) - Cloud based threat analysis platform which include sandbox, CDR and interactive analysis for researchers.
 
-## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Design and UI
 
 *   [Wdrfree SVG](https://wdrfree.com/free-svg) - Black and White Free SVG Cut files.
 
-## [5. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [4. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Web
 
@@ -42,9 +36,9 @@
 
 ### Libraries/Frameworks / Functional Programming
 
-*   [h0tk3y/kotlin-monads (⭐119)](https://github.com/h0tk3y/kotlin-monads) - Monads for Kotlin
+*   [h0tk3y/kotlin-monads (⭐120)](https://github.com/h0tk3y/kotlin-monads) - Monads for Kotlin
 
-## [6. Awesome Github Wiki](/content/MyHoneyBadger/awesome-github-wiki/README.md)
+## [5. Awesome Github Wiki](/content/MyHoneyBadger/awesome-github-wiki/README.md)
 
 ### Useful links with tips & tricks
 
@@ -55,7 +49,7 @@
 *   [Resize image in the wiki of GitHub using Markdown](https://stackoverflow.com/questions/24383700/resize-image-in-the-wiki-of-github-using-markdown)
 *   [Linking to other Wiki pages on GitHub?](https://stackoverflow.com/questions/6474045/linking-to-other-wiki-pages-on-github)
 
-## [7. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
+## [6. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ### Books
 

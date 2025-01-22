@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 03, 2017
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -69,7 +69,7 @@
 
 ### ORM/ODM Extensions
 
-*   [jennifer.cr (⭐415)](https://github.com/imdrasil/jennifer.cr) - Active Record pattern implementation with flexible query chainable builder and migration system
+*   [jennifer.cr (⭐421)](https://github.com/imdrasil/jennifer.cr) - Active Record pattern implementation with flexible query chainable builder and migration system
 
 ## [6. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
 
@@ -103,12 +103,6 @@
 ### Machine Learning / XML
 
 *   [vectorflow (⭐1.3k)](https://github.com/Netflix/vectorflow) - Nexflix's opensource deep learning framework.
-
-## [11. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Projects Using Vue.js / Open Source
-
-*   [ChuckNorris (⭐20)](https://github.com/mazipan/chucknorris) - Chuck Norris Jokes Generator built with VueJS + api.chucknorris.io
 
 ---
 

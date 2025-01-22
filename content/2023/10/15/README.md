@@ -22,12 +22,12 @@
 
 ### Security
 
-*   [Prompt Injection (⭐153)](https://github.com/FonduAI/awesome-prompt-injection#readme) - A type of vulnerability that specifically targets machine learning models.
+*   [Prompt Injection (⭐195)](https://github.com/FonduAI/awesome-prompt-injection#readme) - A type of vulnerability that specifically targets machine learning models.
 
 ### Miscellaneous
 
-*   [Biological Image Analysis (⭐108)](https://github.com/hallvaaw/awesome-biological-image-analysis#readme) - Interpreting biological phenomena using images.
-*   [HPC (⭐82)](https://github.com/dstdev/awesome-hpc#readme) - High Performance Computing.
+*   [Biological Image Analysis (⭐125)](https://github.com/hallvaaw/awesome-biological-image-analysis#readme) - Interpreting biological phenomena using images.
+*   [HPC (⭐114)](https://github.com/dstdev/awesome-hpc#readme) - High Performance Computing.
 
 ## [4. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 

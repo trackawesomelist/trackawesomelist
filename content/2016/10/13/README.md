@@ -37,7 +37,6 @@
 
 *   [Quantified Self](http://quantifiedself.com/) - Official website.
 *   [Flowing Data](http://flowingdata.com/category/self-surveillance/) - Self surveillance and quantification news.
-*   [Wearables Database](http://vandrico.com/wearables/) - Awesome list of wearables available per body part.
 *   [Wolfram Connected Devices Project](http://devices.wolfram.com/) - IoT and Quantified Self device list.
 
 ### Articles & Blogs
@@ -47,7 +46,6 @@
 ### Applications and Platforms / Fitness
 
 *   [Runkeeper](http://runkeeper.com/) - Outdoor fitness activity tracker (iOS & Android).
-*   [Endomondo](https://www.endomondo.com/) - Sport and health statistics tracker (iOS & Android).
 *   [Runtastic](https://www.runtastic.com/) - Running, cycling, and fitness GPS tracker (iOS & Android).
 *   [Strava](https://www.strava.com/) - Athletic activity tracking and social network.
 
@@ -74,18 +72,12 @@
 
 *   [Fitbit](http://www.fitbit.com/) - Awesome activity tracking wearables to track steps, heart rate, quality of sleep, and other personal metrics.
 *   [Garmin](https://buy.garmin.com/en-US/US/wearables/c10002-p1.html) - World-class range of wearables.
-*   [TomTom](https://www.tomtom.com/en_us/sports/fitness-trackers/) - Fitness trackers and watches.
-*   [Jawbone UP](https://jawbone.com/up) - Fitness trackers for a healthier you.
 *   [Withings](http://www.withings.com/) - Activity tracking and connected devices.
-*   [Nike Fuel](https://secure-nikeplus.nike.com/plus/what_is_fuel/) - Universal activity tracking devices.
-*   [Misfit](https://misfit.com/) - Wearable tracking devices.
-*   [Pebble](https://www.pebble.com/) - Smart watches that works with your mobile device.
 *   [Wahoo](http://wahoofitness.com/) - Connected cycling, running, and fitness devices.
 *   [Hexo Skin](http://www.hexoskin.com/) - Awesome biometric shirts.
 *   [Whoop](http://whoop.com/) - Athletic performance monitoring.
 *   [Zephyr BioHarness](https://www.zephyranywhere.com/products/bioharness-3) - Performance monitoring wearables.
 *   [Apple Watch](http://www.apple.com/watch/) - Fitness and other health oriented tracking.
-*   [Amiigo](https://amiigo.com/) - Activity and gym workout trackers.
 
 ### Research and Analysis / Wealth
 
@@ -100,8 +92,6 @@
 ### Open Source Projects / Wealth
 
 *   [Open mHealth](http://www.openmhealth.org/) - Open source health data integration tools.
-*   [Quantifier (⭐40)](https://github.com/tsubery/quantifier) - A Quantified Self app that tracks various fitness and productivity metrics.
-*   [Fluxtream (⭐150)](https://github.com/fluxtream/fluxtream-app) - An open-source non-profit personal data visualization framework.
 
 ## [6. Awesome Pyramid](/content/uralbash/awesome-pyramid/README.md)
 

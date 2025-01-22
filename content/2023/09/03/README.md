@@ -34,7 +34,7 @@
 
 ### ORM
 
-*   [go-dbw (⭐13)](https://github.com/hashicorp/go-dbw) - A simple package that encapsulates database operations.
+*   [go-dbw (⭐15)](https://github.com/hashicorp/go-dbw) - A simple package that encapsulates database operations.
 
 ## [4. Awesome Nlg](/content/accelerated-text/awesome-nlg/README.md)
 
@@ -64,7 +64,7 @@
 
 ### Strategy
 
-*   [KeeperFX (⭐707)](https://github.com/dkfans/keeperfx) - Open source remake and Fan Expansion of Dungeon Keeper.
+*   [KeeperFX (⭐765)](https://github.com/dkfans/keeperfx) - Open source remake and Fan Expansion of Dungeon Keeper.
 *   [Ozymandias (⭐0)](https://github.com/dalerank/Ozymandias) - An open source re-implementation of Pharaoh in the Julius/Augustus engine.
 
 ## [7. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)

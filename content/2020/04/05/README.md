@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 05, 2020
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -14,7 +14,7 @@
 
 ### Utilities / Productivity
 
-*   [Pomodoro Cycle (⭐81)](https://github.com/jet8a/pomodoro-cycle-app) - Pomodoro tracker
+*   [Pomodoro Cycle (⭐83)](https://github.com/jet8a/pomodoro-cycle-app) - Pomodoro tracker
 
 ## [2. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/README.md)
 
@@ -42,13 +42,7 @@
 
 *   [react-threejs (⭐81)](https://github.com/fritx/react-threejs) - Simplest bindings between React & Three.js
 
-## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Projects Using Vue.js / Open Source
-
-*   [miniPress](https://christiankienle.github.io/minipress/) - Yet another static site generator
-
-## [6. Public Apis](/content/public-apis/public-apis/README.md)
+## [5. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Documents & Productivity
 
@@ -64,29 +58,29 @@
 
 
 
-## [7. Awesome List](/content/sindresorhus/awesome/README.md)
+## [6. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Databases
 
-*   [Database Tools (⭐4k)](https://github.com/mgramin/awesome-db-tools#readme) - Everything that makes working with databases easier.
+*   [Database Tools (⭐4.2k)](https://github.com/mgramin/awesome-db-tools#readme) - Everything that makes working with databases easier.
 
-## [8. Awesome Text Editing](/content/dok/awesome-text-editing/README.md)
+## [7. Awesome Text Editing](/content/dok/awesome-text-editing/README.md)
 
 ### Code editors
 
 *   [CodeJar](https://medv.io/codejar/) - CodeJar is a micro code editor for the browser
 
-## [9. Awesome Actions](/content/sdras/awesome-actions/README.md)
+## [8. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
 ### GitHub Pages / Code Coverage
 
-*   [Deploy A Static Site to GitHub Pages (⭐26)](https://github.com/appleboy/gh-pages-action) - Deploy to custom directory and ignore folder/file.
+*   [Deploy A Static Site to GitHub Pages (⭐27)](https://github.com/appleboy/gh-pages-action) - Deploy to custom directory and ignore folder/file.
 
 ### Deployment / Docker
 
-*   [Publish Docker Images to the Amazon Elastic Container Registry (ECR) (⭐16)](https://github.com/appleboy/docker-ecr-action)
+*   [Publish Docker Images to the Amazon Elastic Container Registry (ECR) (⭐22)](https://github.com/appleboy/docker-ecr-action)
 
-## [10. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
+## [9. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 
 ### Tools
 

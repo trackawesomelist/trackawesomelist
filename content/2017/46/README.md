@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 13 - Nov 19, 2017
 
-47 awesome lists updated this week.
+45 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -62,13 +62,7 @@
 
 *   [occu-test (⭐3)](https://github.com/hobbyquaker/occu-test) - Automated System Tests of ReGaHss - the HomeMatic (O)CCU "Logic Layer".
 
-## [10. Awesome Dash](/content/ucg8j/awesome-dash/week/README.md)
-
-### App Examples
-
-*   [Finding Bigfoot](https://bigfoot-sightings-dash.herokuapp.com/) - Several plots (including a map), a grid layout built with Bootstrap, interactions with an input field, and caching (See also [Tutorials](#tutorials)). [Source Code. (⭐23)](https://github.com/timothyrenner/bigfoot-dash-app)
-
-## [11. Awesome Math](/content/rossant/awesome-math/week/README.md)
+## [10. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
 ### Probability and Statistics / Stochastic processes
 
@@ -88,31 +82,31 @@
 *   📝 [An Introduction to Statistical Signal Processing](https://ee.stanford.edu/~gray/sp.pdf) - Robert M. Gray, Lee D. Davisson
 *   📝 [Linear algebra, signal processing, and wavelets. A unified approach.](https://www.uio.no/studier/emner/matnat/math/MAT-INF2360/v15/kompendium/applinalgpython.pdf) - Øyvind Ryan (University of Oslo)
 
-## [12. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [11. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / HTTP
 
 *   [cacheable-request](https://github.com/lukechilds/cacheable-request) - Wrap native HTTP requests with RFC compliant cache support.
 
-## [13. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
+## [12. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
 
 ### Get Feedback
 
 *   [maintainer.io](https://maintainer.io/) - Free README standardization and feedback, if you click on 'Book an audit'.
 
-## [14. Awesome Beacon](/content/rabschi/awesome-beacon/week/README.md)
+## [13. Awesome Beacon](/content/rabschi/awesome-beacon/week/README.md)
 
 ### Stackoverflow Q&A
 
 *   [Quick Beacon](https://itunes.apple.com/us/app/quick-beacon/id1303172948?mt=8)
 
-## [15. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [14. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Open Source / Other
 
 *   [Buttercup Desktop (⭐4.3k)](https://github.com/buttercup/buttercup-desktop) - Password manager.
 
-## [16. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [15. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### CLI
 
@@ -124,28 +118,28 @@
 
 ### Game Engine
 
-*   [KlayGE (⭐2k)](https://github.com/gongminmin/KlayGE) - a cross-platform open source game engine with plugin-based architecture. \[GPLv2] [website](http://www.klayge.org/)
+*   [KlayGE (⭐2.1k)](https://github.com/gongminmin/KlayGE) - a cross-platform open source game engine with plugin-based architecture. \[GPLv2] [website](http://www.klayge.org/)
 
 ### Networking
 
-*   [HTTP Parser (⭐6.3k)](https://github.com/nodejs/http-parser) :zap: - A http request/response parser for C. \[MIT]
+*   [HTTP Parser (⭐6.4k)](https://github.com/nodejs/http-parser) :zap: - A http request/response parser for C. \[MIT]
 *   [libquic (⭐1.8k)](https://github.com/devsisters/libquic) - A QUIC protocol library extracted from Chromium's QUIC Implementation. \[BSD]
-*   [libwebsockets (⭐4.7k)](https://github.com/warmcat/libwebsockets) - A lightweight pure C WebSocket implementation that provides both client and server libraries. \[LGPL2.1 + static link exception] [website](https://libwebsockets.org/)
+*   [libwebsockets (⭐4.9k)](https://github.com/warmcat/libwebsockets) - A lightweight pure C WebSocket implementation that provides both client and server libraries. \[LGPL2.1 + static link exception] [website](https://libwebsockets.org/)
 
 ### Regular Expression
 
-*   [CppVerbalExpressions (⭐378)](https://github.com/VerbalExpressions/CppVerbalExpressions) - C++ regular expressions made easy. \[MIT]
+*   [CppVerbalExpressions (⭐384)](https://github.com/VerbalExpressions/CppVerbalExpressions) - C++ regular expressions made easy. \[MIT]
 *   [PCRE](http://pcre.org/) - A regular expression C library inspired by the regular expression capabilities in Perl. \[BSD]
-*   [RE2 (⭐8.9k)](https://github.com/google/re2) - A software library for regular expressions via a finite-state machine using automata theory. \[BSD-3-Clause]
-*   [SLRE (⭐524)](https://github.com/cesanta/slre) - Super Light Regexp engine for C/C++. \[GPLv2/Proprietary]
+*   [RE2 (⭐9.1k)](https://github.com/google/re2) - A software library for regular expressions via a finite-state machine using automata theory. \[BSD-3-Clause]
+*   [SLRE (⭐536)](https://github.com/cesanta/slre) - Super Light Regexp engine for C/C++. \[GPLv2/Proprietary]
 
-## [17. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
+## [16. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
 
 ### Client Web App Frameworks
 
 *   [OverReact](https://workiva.github.io/over_react/) - A library for building statically-typed React UI components.
 
-## [18. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
+## [17. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
 
 ### React Native
 
@@ -157,20 +151,20 @@
 
 
 
-## [19. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [18. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Online Scanners and Sandboxes / Other Resources
 
 *   [Intezer](https://analyze.intezer.com) - Detect, analyze, and categorize malware by
     identifying code reuse and code similarities.
 
-## [20. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
+## [19. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
 ### ASM / Music drivers and trackers
 
 *   [Super Game Boy development](https://imanoleasgames.blogspot.no/2016/12/games-aside-1-super-game-boy.html) - Step by step tutorial to implement Super Game Boy features (frame and palettes).
 
-## [21. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [20. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Business Intelligence
 
@@ -181,7 +175,7 @@
 *   [Kafka in Action](https://www.manning.com/books/kafka-in-action) - Kafka in Action is a fast-paced introduction to every aspect of working with Kafka you need to really reap its benefits.
 *   [Reactive Data Handling](https://www.manning.com/books/reactive-data-handling) - Reactive Data Handling is a collection of five hand-picked chapters, selected by Manuel Bernhardt, that introduce you to building reactive applications capable of handling real-time processing with large data loads--free eBook!
 
-## [22. Awesome Codepoints](/content/Codepoints/awesome-codepoints/week/README.md)
+## [21. Awesome Codepoints](/content/Codepoints/awesome-codepoints/week/README.md)
 
 ### Record Holders and Extremes / Breaking and Gluing other characters
 
@@ -190,41 +184,41 @@
     in the 0x10000-0x10FFFD range, are private use characters, guaranteed to
     be never filled by a future Unicode standard.
 
-## [23. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
+## [22. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
 
 ### Localization
 
-*   [pt\_BR (⭐68)](https://github.com/rafaelstz/traducao_magento2_pt_br) 🇧🇷 - Portuguese Brazil Language Package.
+*   [pt\_BR (⭐71)](https://github.com/rafaelstz/traducao_magento2_pt_br) 🇧🇷 - Portuguese Brazil Language Package.
 
-## [24. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
+## [23. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
 
 ### External Resources / Other external resources
 
 *   [Ruby on Windows Guides](http://rubyonwindowsguides.github.io)
 
-## [25. Awesome Inspectit](/content/inspectit-labs/awesome-inspectit/week/README.md)
+## [24. Awesome Inspectit](/content/inspectit-labs/awesome-inspectit/week/README.md)
 
 ### Videos
 
 *   [Integration of inspectIT into a Sping Boot or Java application](https://www.youtube.com/watch?v=x0fnYSANIFk) - Tutorial on integrating an inspectIT agent into a Spring (Boot) or Java application.
 
-## [26. Amas](/content/sindresorhus/amas/week/README.md)
+## [25. Amas](/content/sindresorhus/amas/week/README.md)
 
 ### Ask these people anything!
 
 *   [Honza Bittner (⭐1)](https://github.com/tenhobi/ama) - Student at FIT CTU, Dart lover.
 
-## [27. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
+## [26. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
 ### Rust / Git
 
-*   [proteus (⭐420)](https://github.com/wireapp/proteus) - Axolotl protocol implementation, without header keys, in Rust.
+*   [proteus (⭐421)](https://github.com/wireapp/proteus) - Axolotl protocol implementation, without header keys, in Rust.
 
-## [28. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [27. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Authentication
 
-*   [ReCaptcha (⭐266)](https://github.com/fjcaetano/ReCaptcha) - \[In]visible ReCaptcha for iOS.
+*   [ReCaptcha (⭐268)](https://github.com/fjcaetano/ReCaptcha) - \[In]visible ReCaptcha for iOS.
 
 ### XML
 
@@ -240,18 +234,18 @@
 
 ### UI / Barcode
 
-*   [Mandoline (⭐893)](https://github.com/blueapron/Mandoline) - An iOS picker view to serve all your 'picking' needs.
+*   [Mandoline (⭐894)](https://github.com/blueapron/Mandoline) - An iOS picker view to serve all your 'picking' needs.
 
 ### Menu / Barcode
 
-*   [FlowingMenu (⭐975)](https://github.com/yannickl/FlowingMenu) - Interactive view transition to display menus with flowing and bouncing effects.
+*   [FlowingMenu (⭐974)](https://github.com/yannickl/FlowingMenu) - Interactive view transition to display menus with flowing and bouncing effects.
 *   [HHFloatingView (⭐95)](https://github.com/hemangshah/HHFloatingView) - An easy to use and setup floating view for your app.
 
 ### UICollectionView / Barcode
 
-*   [CardsLayout (⭐843)](https://github.com/filletofish/CardsLayout) - Nice card-designed custom CollectionView layout.
+*   [CardsLayout (⭐855)](https://github.com/filletofish/CardsLayout) - Nice card-designed custom CollectionView layout.
 
-## [29. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [28. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### United States 🇺🇸 / New York <a id="new-york"></a>
 
@@ -265,25 +259,25 @@ Webpage: <https://www.houndstoothcoffee.com/>
 | ---- | ----- | ------------- | ------------------------------------------------------------------------------ | --------------------------------------------------- |
 | ✔    | ✔     | ❄️/♨️         | [401 CONGRESS AVE STE 100C AUSTIN, TX 78701](https://goo.gl/maps/irEZayEujm32) | MON – FRI: 6:30 AM – 7 PM SAT & SUN: 8:00 AM – 5 PM |
 
-## [30. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
+## [29. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
 
 ### Projects / Dedicated
 
 *   [snmpcollector (⭐259)](https://github.com/toni-moreno/snmpcollector) - A full featured Generic SNMP data collector with Web Administration Interface for InfluxDB
 
-## [31. Awesome Ctf](/content/apsdehal/awesome-ctf/week/README.md)
+## [30. Awesome Ctf](/content/apsdehal/awesome-ctf/week/README.md)
 
 ### Wargames
 
 *   [W3Challs](https://w3challs.com) - A penetration testing training platform, which offers various computer challenges, in various categories.
 
-## [32. Awesome Steam](/content/scholtzm/awesome-steam/week/README.md)
+## [31. Awesome Steam](/content/scholtzm/awesome-steam/week/README.md)
 
 ### Python / General
 
 *   [Steam-Trade (⭐18)](https://github.com/Zwork101/steam-trade) - An asynchronous, event-based trade library.
 
-## [33. Bots](/content/hackerkid/bots/week/README.md)
+## [32. Bots](/content/hackerkid/bots/week/README.md)
 
 ### General
 
@@ -301,25 +295,25 @@ Webpage: <https://www.houndstoothcoffee.com/>
 *   [BotList Chat](http://t.me/botlistchat) - Telegram group.
 *   [Bot Development](http://t.me/botdevelopment) - Telegram group.
 
-## [34. Awesome Choo](/content/choojs/awesome-choo/week/README.md)
+## [33. Awesome Choo](/content/choojs/awesome-choo/week/README.md)
 
 ### Contents / Projects using choo
 
 *   [Robotopia (⭐502)](https://github.com/robotopia-x/robotopia) - Introducing kids to coding with tiny virtual robots!
 
-## [35. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
+## [34. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
 
 ### Others / Useful References
 
 *   [Software Testing Conferences](http://testingconferences.org/) - A list of software testing conferences and workshops.
 
-## [36. Awesome Sass](/content/Famolus/awesome-sass/week/README.md)
+## [35. Awesome Sass](/content/Famolus/awesome-sass/week/README.md)
 
 ### Libraries and Mixins / Miscellaneous
 
 *   [Sass Accoutrement](http://oddbird.net/open-source/accoutrement/) - Accoutrement modules are Sass toolkits that work together to form the central configuration of a project. The tools can be used individually, or integrated for extra power.
 
-## [37. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [36. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Talks
 
@@ -329,20 +323,20 @@ Webpage: <https://www.houndstoothcoffee.com/>
 
 *   [OpenGL/GLSL Shader Programing](http://web.cse.ohio-state.edu/~wang.3602/courses/cse5542-2013-spring/13-GLSL.pdf) - Deck on OpenGL/GLSL shader programing.
 
-## [38. Awesome Deep Learning Resources](/content/guillaume-chevalier/Awesome-Deep-Learning-Resources/week/README.md)
+## [37. Awesome Deep Learning Resources](/content/guillaume-chevalier/Awesome-Deep-Learning-Resources/week/README.md)
 
 ### Posts and Articles
 
 *   [Estimating an Optimal Learning Rate For a Deep Neural Network](https://medium.com/@surmenok/estimating-optimal-learning-rate-for-a-deep-neural-network-ce32f2556ce0) - Clever trick to estimate an optimal learning rate prior any single full training.
 
-## [39. Awesome Katas](/content/gamontal/awesome-katas/week/README.md)
+## [38. Awesome Katas](/content/gamontal/awesome-katas/week/README.md)
 
 ### Others
 
 *   [Functional Structures Refactoring Kata (⭐32)](https://github.com/matteobaglini/functional-structures-refactoring-kata)
 *   [incremental\_katas (⭐62)](https://github.com/Gianfrancoalongi/incremental_katas)
 
-## [40. Awesome Speakers](/content/karlhorky/awesome-speakers/week/README.md)
+## [39. Awesome Speakers](/content/karlhorky/awesome-speakers/week/README.md)
 
 ### Europe / Germany 🇩🇪
 
@@ -464,26 +458,26 @@ Topics: Developer Tools, JavaScript\
 Topics: WebAPI, Microservices, JavaScript\
 <https://twitter.com/D3DVincent>
 
-## [41. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [40. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Blog posts
 
 *   [Why TensorFlow will change the Game for AI](https://archive.fo/o9asj)
 *   [Coca-Cola's Image Recognition App](https://developers.googleblog.com/2017/09/how-machine-learning-with-tensorflow.html) Coca-Cola's product code image recognizing neural network with user input feedback loop.
 
-## [42. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
+## [41. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
 
 ### Python / [Smarty Template Support](https://marketplace.visualstudio.com/items?itemName=aswinkumar863.smarty-template-support)
 
 *   [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - Linting, Debugging (multi threaded, web apps), Intellisense, auto-completion, code formatting, snippets, unit testing, and more.
 
-## [43. Awesome Electronics](/content/kitspace/awesome-electronics/week/README.md)
+## [42. Awesome Electronics](/content/kitspace/awesome-electronics/week/README.md)
 
 ### PCB Batching Services / Altium
 
 *   [Aisler](https://aisler.net) - Affordable quality circuit boards made in and shipped from Europe (Germany).
 
-## [44. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
+## [43. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
 ### Garbage collectors
 
@@ -502,7 +496,7 @@ Topics: WebAPI, Microservices, JavaScript\
 
 *   [grappa (⭐62)](https://github.com/fge/grappa) - Java fork of Parboiled. Write grammars with no preprocessing phase.
 
-## [45. Awesome R](/content/qinwf/awesome-R/week/README.md)
+## [44. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### Reproducible Research
 
@@ -518,24 +512,13 @@ Topics: WebAPI, Microservices, JavaScript\
 
 ### R Development
 
-*   [RStudio Addins (⭐819)](https://github.com/daattali/rstudio-addins) - List of RStudio addins.
+*   [RStudio Addins (⭐845)](https://github.com/daattali/rstudio-addins) - List of RStudio addins.
 
-## [46. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
+## [45. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
 
 ### 2014
 
 *   [Pete Hunt: **OSCON 2014: How Instagram.com Works**](https://www.youtube.com/watch?v=VkTCL6Nqm6Y) \[40:18]
-
-## [47. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
-
-### Projects Using Vue.js / Open Source
-
-*   [AmmoBin.ca (⭐19)](https://github.com/ammobinDOTca/ammobin-client) - meta search site for online ammo prices across Canada
-*   [vue-webpack-buefy (⭐25)](https://github.com/ndro/vue-webpack-buefy) - Vue.js starter with full-featured Webpack and Buefy
-
-### Components & Libraries / UI Utilities
-
-*   [navscroll-js (⭐57)](https://github.com/nash403/navscroll-js) - Highlights menu items as you scroll, and also scrolls to a section when a menu item clicked. Use as a vue component, a vue directive or with vanilla js.
 
 ---
 

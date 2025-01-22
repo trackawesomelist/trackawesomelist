@@ -48,11 +48,11 @@
 
 ### Maps / Barcode
 
-*   [FlyoverKit (⭐705)](https://github.com/SvenTiigi/FlyoverKit) - FlyoverKit enables you to present stunning 360° flyover views on your MKMapView with zero effort while maintaining full configuration possibilities.
+*   [FlyoverKit (⭐710)](https://github.com/SvenTiigi/FlyoverKit) - FlyoverKit enables you to present stunning 360° flyover views on your MKMapView with zero effort while maintaining full configuration possibilities.
 
 ### Menu / Barcode
 
-*   [Parchment (⭐3.3k)](https://github.com/rechsteiner/Parchment) - A paging view controller with a highly customizable menu, built on UICollectionView.
+*   [Parchment (⭐3.4k)](https://github.com/rechsteiner/Parchment) - A paging view controller with a highly customizable menu, built on UICollectionView.
 
 ## [7. Awesome Algorithms Education](/content/gaerae/awesome-algorithms-education/README.md)
 

@@ -30,7 +30,7 @@
 
 ### Resources / Visual Effects
 
-*   [libgdx-screenmanager (⭐97)](https://github.com/crykn/libgdx-screenmanager) - A screen manager for libGDX supporting various transition effects
+*   [libgdx-screenmanager (⭐102)](https://github.com/crykn/libgdx-screenmanager) - A screen manager for libGDX supporting various transition effects
 
 ## [4. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
@@ -72,11 +72,11 @@
 
 ### Date and Time
 
-*   [calixir (⭐2)](https://github.com/rengel-de/calixir) - Calixir is a port of the Lisp calendar software calendrica-4.0 to Elixir.
+*   [calixir (⭐3)](https://github.com/rengel-de/calixir) - Calixir is a port of the Lisp calendar software calendrica-4.0 to Elixir.
 
 ### Testing
 
-*   [Walkman (⭐53)](https://github.com/derekkraan/walkman) - Isolate tests from the real world, inspired by Ruby's VCR.
+*   [Walkman (⭐54)](https://github.com/derekkraan/walkman) - Isolate tests from the real world, inspired by Ruby's VCR.
 
 ## [8. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/README.md)
 
@@ -110,13 +110,13 @@
 
 ### Components & Libraries / Frameworks
 
-*   [uiv (⭐944)](https://github.com/uiv-lib/uiv) - Bootstrap3 components implemented by Vue2.
+*   [uiv (⭐941)](https://github.com/uiv-lib/uiv) - Bootstrap3 components implemented by Vue2.
 
 ## [11. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### 2D/3D Rendering engines / Others
 
-*   [BlazorContextMenu (⭐529)](https://github.com/stavroskasidis/BlazorContextMenu) - ![GitHub stars](https://img.shields.io/github/stars/stavroskasidis/BlazorContextMenu?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/stavroskasidis/BlazorContextMenu?style=flat-square\&cacheSeconds=86400) A context menu component for Blazor ([Demo](https://blazor-context-menu-demo.azurewebsites.net/)).
+*   [BlazorContextMenu (⭐531)](https://github.com/stavroskasidis/BlazorContextMenu) - ![GitHub stars](https://img.shields.io/github/stars/stavroskasidis/BlazorContextMenu?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/stavroskasidis/BlazorContextMenu?style=flat-square\&cacheSeconds=86400) A context menu component for Blazor ([Demo](https://blazor-context-menu-demo.azurewebsites.net/)).
 
 ## [12. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -147,7 +147,7 @@
 *   [Advances in Evolutionary Algorithms](https://www.intechopen.com/books/advances_in_evolutionary_algorithms) - Free Download
 *   [Genetic Programming: New Approaches and Successful Applications](https://www.intechopen.com/books/genetic-programming-new-approaches-and-successful-applications) - Free Download
 
-### GitHub Groups / Book Deals (Affiliated) 🛍
+### GitHub Groups / Book Deals (Affiliated)
 
 *   [Berkeley Institute for Data Science](https://github.com/BIDS)
 

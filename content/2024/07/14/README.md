@@ -14,19 +14,15 @@
 
 ## [2. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
-### Community
-
-*   [opensauced pizza](https://app.opensauced.pizza/explore/topic/angular/dashboard/filter/recent) - Insights on GitHub repositories using the Angular topic.
-
 ### Carousels / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [keen-slider (⭐4.6k)](https://github.com/rcbyr/keen-slider) - The HTML touch slider carousel with the most native feeling you will get.
+*   [keen-slider (⭐4.7k)](https://github.com/rcbyr/keen-slider) - The HTML touch slider carousel with the most native feeling you will get.
 
 ## [3. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
 
 ### Python / Sentiment Analysis
 
-*   [Asset News Sentiment Analyzer (⭐20)](https://github.com/KVignesh122/AssetNewsSentimentAnalyzer) - Sentiment analysis and report generation package for financial assets and securities utilizing GPT models.
+*   [Asset News Sentiment Analyzer (⭐124)](https://github.com/KVignesh122/AssetNewsSentimentAnalyzer) - Sentiment analysis and report generation package for financial assets and securities utilizing GPT models.
 
 ## [4. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
@@ -48,7 +44,7 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [zenv (⭐0)](https://github.com/janitha/zenv) - Isolated working shell enviornments per directory (like direnv, but uses a new shell instance to provide cleaner isolation).
+*   [zenv (⭐2)](https://github.com/janitha/zenv) - Isolated working shell enviornments per directory (like direnv, but uses a new shell instance to provide cleaner isolation).
 
 ---
 

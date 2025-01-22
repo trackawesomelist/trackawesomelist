@@ -10,23 +10,23 @@
 
 ### Reddit
 
-*   [Libreddit (⭐5k)](https://github.com/libreddit/libreddit) - ~~Private Reddit front-end written in Rust~~ [No longer working - Read here (⭐5k)](https://github.com/libreddit/libreddit/issues/840)
+*   [Libreddit (⭐5.1k)](https://github.com/libreddit/libreddit) - ~~Private Reddit front-end written in Rust~~ [No longer working - Read here (⭐5.1k)](https://github.com/libreddit/libreddit/issues/840)
 
 ## [2. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Third-party APIs
 
-*   [swag (⭐46)](https://github.com/zc2638/swag) - No comments, simple go wrapper to create swagger 2.0 compatible APIs. Support most routing frameworks, such as built-in, gin, chi, mux, echo, httprouter, fasthttp and more.
+*   [swag (⭐47)](https://github.com/zc2638/swag) - No comments, simple go wrapper to create swagger 2.0 compatible APIs. Support most routing frameworks, such as built-in, gin, chi, mux, echo, httprouter, fasthttp and more.
 
 ## [3. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
 ### Databases / ORMs
 
-*   [Fastapi-SQLA (⭐177)](https://github.com/dialoguemd/fastapi-sqla) - SQLAlchemy extension for FastAPI with support for pagination, asyncio, and pytest.
+*   [Fastapi-SQLA (⭐233)](https://github.com/dialoguemd/fastapi-sqla) - SQLAlchemy extension for FastAPI with support for pagination, asyncio, and pytest.
 
 ### Developer Tools / Other Tools
 
-*   [FastAPI MVC (⭐608)](https://github.com/fastapi-mvc/fastapi-mvc) - Developer productivity tool for making high-quality FastAPI production-ready APIs.
+*   [FastAPI MVC (⭐643)](https://github.com/fastapi-mvc/fastapi-mvc) - Developer productivity tool for making high-quality FastAPI production-ready APIs.
 
 ### Articles / Other Tools
 
@@ -44,7 +44,7 @@
 
 ### Development Environment / Other
 
-*   [DockerDL (⭐69)](https://github.com/matifali/dockerdl) - Deep Learning Docker Images. Don't waste time setting up a deep learning env when you can get a deep learning environment with everything pre-installed.
+*   [DockerDL (⭐78)](https://github.com/matifali/dockerdl) - Deep Learning Docker Images. Don't waste time setting up a deep learning env when you can get a deep learning environment with everything pre-installed.
 
 ## [5. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
@@ -61,7 +61,7 @@
 
 ## [7. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
-### Wrappers
+### Other DB wrappers
 
 *   [cl-ndbapi (⭐13)](https://github.com/datagraph/cl-ndbapi) - bindings to the C++ NDB API of [RonDB](https://www.rondb.com/), "the world's fastest key value store", by [Dydra](https://dydra.com/home). GPLv2.
 
@@ -69,11 +69,11 @@
 
 ### Software / Remote Access
 
-*   [RustDesk](https://rustdesk.com/) - Remote Desktop Access software that works out-of-the-box (alternative to TeamViewer). ([Source Code (⭐6.3k)](https://github.com/rustdesk/rustdesk-server)) `AGPL-3.0` `Rust/Docker/deb`
+*   [RustDesk](https://rustdesk.com/) - Remote Desktop Access software that works out-of-the-box (alternative to TeamViewer). ([Source Code (⭐7.1k)](https://github.com/rustdesk/rustdesk-server)) `AGPL-3.0` `Rust/Docker/deb`
 
 ### Software / Status / Uptime pages
 
-*   [Gatus (⭐5.9k)](https://github.com/TwiN/gatus) - Automated service health dashboard. ([Demo](https://status.twin.sh)) `Apache-2.0` `Docker/K8S`
+*   [Gatus (⭐6.9k)](https://github.com/TwiN/gatus) - Automated service health dashboard. ([Demo](https://status.twin.sh)) `Apache-2.0` `Docker/K8S`
 
 ## [9. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
@@ -83,16 +83,16 @@
 
 ### Others
 
-*   [BlazorServerImageRecognitionApp (⭐9)](https://github.com/johnt84/BlazorServerImageRecognitionApp) - ![last commit](https://img.shields.io/github/last-commit/johnt84/BlazorServerImageRecognitionApp) Simple Blazor Server app which uses image recognition to identify and extract text printed in an image file uploaded by the user. [Demo](https://blazorimagerecognitionapp.azurewebsites.net/).
+*   [BlazorServerImageRecognitionApp (⭐12)](https://github.com/johnt84/BlazorServerImageRecognitionApp) - ![last commit](https://img.shields.io/github/last-commit/johnt84/BlazorServerImageRecognitionApp) Simple Blazor Server app which uses image recognition to identify and extract text printed in an image file uploaded by the user. [Demo](https://blazorimagerecognitionapp.azurewebsites.net/).
 *   [FootballBlazorApp (⭐8)](https://github.com/johnt84/FootballBlazorApp) - ![last commit](https://img.shields.io/github/last-commit/johnt84/FootballBlazorApp) Simple Football Blazor Server web app displaying fixtures & results, group standings, teams & players and has a player search.  [Demo](https://premierleagueblazorapp.azurewebsites.net/).
 
 ### Component bundles
 
-*   [Makani (⭐61)](https://github.com/getspacetime/makani) - ![GitHub stars](https://img.shields.io/github/stars/getspacetime/makani?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/getspacetime/makani?style=flat-square) Lightweight, customizable, and performance oriented component library for Blazor and .NET MAUI Hybrid. Built with TailwindCSS. [Demo](https://getspacetime.github.io/makani/).
+*   [Makani (⭐60)](https://github.com/getspacetime/makani) - ![GitHub stars](https://img.shields.io/github/stars/getspacetime/makani?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/getspacetime/makani?style=flat-square) Lightweight, customizable, and performance oriented component library for Blazor and .NET MAUI Hybrid. Built with TailwindCSS. [Demo](https://getspacetime.github.io/makani/).
 
 ### Tools & Utilities / Others
 
-*   [Blazor.FileSystemAccess (⭐319)](https://github.com/KristofferStrube/Blazor.FileSystemAccess) - ![GitHub stars](https://img.shields.io/github/stars/KristofferStrube/Blazor.FileSystemAccess?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/KristofferStrube/Blazor.FileSystemAccess?style=flat-square\&cacheSeconds=86400) A Blazor wrapper for the browser File System Access API.
+*   [Blazor.FileSystemAccess (⭐334)](https://github.com/KristofferStrube/Blazor.FileSystemAccess) - ![GitHub stars](https://img.shields.io/github/stars/KristofferStrube/Blazor.FileSystemAccess?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/KristofferStrube/Blazor.FileSystemAccess?style=flat-square\&cacheSeconds=86400) A Blazor wrapper for the browser File System Access API.
 
 ### Videos / Others
 
@@ -106,26 +106,26 @@
 ### Community / Others
 
 *   [Discord](https://discord.com/channels/732297728826277939/732297874062311424) - Blazor channel on the DotNetEvolution discord server.
-*   [I Love DotNet (⭐104)](https://github.com/ILoveDotNet/ilovedotnet) - ![stars](https://img.shields.io/github/stars/ilovedotnet/ilovedotnet?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/ilovedotnet/ilovedotnet?style=flat-square) - This is a .NET knowledge sharing platform with live demos crafted by developers for developers with love using .NET Blazor. [ilovedotnet.org](https://www.ilovedotnet.org).
+*   [I Love DotNet (⭐114)](https://github.com/ILoveDotNet/ilovedotnet) - ![stars](https://img.shields.io/github/stars/ilovedotnet/ilovedotnet?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/ilovedotnet/ilovedotnet?style=flat-square) - This is a .NET knowledge sharing platform with live demos crafted by developers for developers with love using .NET Blazor. [ilovedotnet.org](https://www.ilovedotnet.org).
 *   [Reddit](https://www.reddit.com/r/Blazor/) - Blazor subreddit.
 
 ## [10. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
 ### Plugins
 
-*   [tmux-fzf-session-switch (⭐43)](https://github.com/thuanOwa/tmux-fzf-session-switch) Easy way to switch, when you have a ton of sessions.
+*   [tmux-fzf-session-switch (⭐58)](https://github.com/thuanOwa/tmux-fzf-session-switch) Easy way to switch, when you have a ton of sessions.
 
 ## [11. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
 ### Other / [Other](#other-1)
 
-*   [klint (⭐41)](https://github.com/uswitch/klint) — A tool that listens to changes in Kubernetes resources and runs linting rules against them. Identify and debug erroneous objects and nudge objects in line with the policies as both change over time. Klint helps us encode checks and proactively alert teams when they need to take action.
+*   [klint (⭐42)](https://github.com/uswitch/klint) — A tool that listens to changes in Kubernetes resources and runs linting rules against them. Identify and debug erroneous objects and nudge objects in line with the policies as both change over time. Klint helps us encode checks and proactively alert teams when they need to take action.
 
 ## [12. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Frameworks
 
-*   [CGraph (⭐1.7k)](https://github.com/ChunelFeng/CGraph) - A cross-platform DAG framework based on C++ without any 3rd-party. \[MIT]
+*   [CGraph (⭐1.9k)](https://github.com/ChunelFeng/CGraph) - A cross-platform DAG framework based on C++ without any 3rd-party. \[MIT]
 
 ## [13. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
@@ -137,7 +137,7 @@
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [fancy-completions (⭐15)](https://github.com/z-shell/zsh-fancy-completions) - Provides various completions tools, libraries and integrations.
+*   [fancy-completions (⭐14)](https://github.com/z-shell/zsh-fancy-completions) - Provides various completions tools, libraries and integrations.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 

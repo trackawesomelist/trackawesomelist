@@ -10,7 +10,7 @@
 
 ### Applications / Games
 
-*   [chess-tui (⭐347)](https://github.com/thomas-mauran/chess-tui) - A Chess TUI implementation ♟️
+*   [chess-tui (⭐574)](https://github.com/thomas-mauran/chess-tui) - A Chess TUI implementation ♟️
 
 ## [2. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
@@ -28,11 +28,11 @@
 
 ### Developer Tools / Virtualization
 
-*   [Rancher Desktop](https://rancherdesktop.io) - Rancher Desktop is an app that provides container management and Kubernetes on the desktop. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/rancher-sandbox/rancher-desktop/blob/main/LICENSE)
+*   [Rancher Desktop](https://rancherdesktop.io) - Container management and Kubernetes on the desktop. [![OSS](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/rancher-sandbox/rancher-desktop/blob/main/LICENSE)
 
 ### Audio and Video Tools / File Sharing
 
-*   [trax (⭐6)](https://github.com/nbonamy/trax) - Free, open-source music library management tool with audio conversion and tag management functionalities. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/nbonamy/trax)
+*   [trax (⭐8)](https://github.com/nbonamy/trax) - Free, open-source music library management tool with audio conversion and tag management functionalities. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/nbonamy/trax)
 
 ## [5. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 

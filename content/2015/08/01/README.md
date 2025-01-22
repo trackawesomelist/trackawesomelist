@@ -10,7 +10,7 @@
 
 ### Miscellaneous
 
-*   [access\_profiler (⭐73)](https://github.com/arvidn/access_profiler) - A tool to count accesses to member variables in c++ programs. \[GPL3]
+*   [access\_profiler (⭐75)](https://github.com/arvidn/access_profiler) - A tool to count accesses to member variables in c++ programs. \[GPL3]
 
 ## [2. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 

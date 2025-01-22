@@ -1,18 +1,12 @@
 # Awesome List Updates on Nov 23, 2022
 
-15 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
-
-### Bayesian Modeling / Bayesian Induction
-
-*   [How to Grow a Mind: Statistics, Structure, and Abstraction](https://cocosci.princeton.edu/tom/papers/growamind.pdf) - ***Science***, 2011. \[[All Versions](https://scholar.google.com/scholar?cluster=2667398573353002097\&hl=en\&as_sdt=0,5)]. Josh Tenenbaum's review on Bayesian theory induction.
-
-## [2. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [1. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Miscellaneous
 
@@ -25,7 +19,7 @@
 
 ### Javascript / Isomorphic web frameworks
 
-*   [Valtan (⭐227)](https://github.com/cxxxr/valtan) -  Common Lisp to JavaScript compiler.
+*   [Valtan (⭐245)](https://github.com/cxxxr/valtan) -  Common Lisp to JavaScript compiler.
 *   [JACL](https://tailrecursion.com/JACL/) - an experimental Lisp system for the Web browser platform to explore new techniques for developing large Single Page Applications with Lisp.
 
 ### Others / Email
@@ -34,13 +28,13 @@
 
 ### Actors pattern / Third-party APIs
 
-*   👍 [Sento (⭐194)](https://github.com/mdbergmann/cl-gserver) - Sento (formerly cl-gserver) is a 'message passing' library/framework with actors similar to Erlang or Akka. It supports creating systems that should work reactive, require parallel computing and event based message handling. [Apache2](https://directory.fsf.org/wiki/License:Apache2.0).
+*   👍 [Sento (⭐201)](https://github.com/mdbergmann/cl-gserver) - Sento (formerly cl-gserver) is a 'message passing' library/framework with actors similar to Erlang or Akka. It supports creating systems that should work reactive, require parallel computing and event based message handling. [Apache2](https://directory.fsf.org/wiki/License:Apache2.0).
 
-### Caching / Third-party APIs
+### Caching (memoization) / Third-party APIs
 
-*   [function-cache (⭐46)](https://github.com/AccelerationNet/function-cache) -  A Common Lisp function caching / memoization library. [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
+*   [function-cache (⭐47)](https://github.com/AccelerationNet/function-cache) -  A Common Lisp function caching / memoization library. [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
-## [3. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [2. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### Image Synthesis / Multi-agents
 
@@ -58,26 +52,31 @@
 
 *   [Deforum Stable Diffusion Animation - v5 Math Functions - Demo and Test - YouTube](https://www.youtube.com/watch?v=6snk7gw898g)
 
-## [4. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
+## [3. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 
 ### Bindings
 
 *   [Raw Node.js Vulkan API](https://github.com/hydra2s/node-vulkan-api) - A new Vulkan bindings for Node.JS, similar with LWJGL-3 or NVK.
+
+## [4. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
+
+### Public Data Resources / Climate
+
+*   [NOAA Severe Weather Inventory](https://www.ncei.noaa.gov/products/severe-weather-data-inventory) - The Severe Weather Data Inventory (SWDI) is an integrated database of severe weather records for the United States. The formats currently supported are Shapefile (for GIS), KMZ (for Google Earth), CSV (comma-separated), and XML.
+
+### Public Data Resources / Transportation
+
+*   [HPMS](https://www.fhwa.dot.gov/policyinformation/hpms.cfm) - The HPMS is a national level highway information system that includes data on the extent, condition, performance, use and operating characteristics of the nation's highways.
+
+### Planning Data Specifications / Environmental
+
+*   [EPA Data Standards](https://www.epa.gov/data-standards) - A chart with links to the diversity of data standards adopted by EPA.
 
 ## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Projects Using Vue.js / Commercial Products
 
 *   [He3](https://he3.app) - Free and Modern Developer Utilities Toolbox.
-
-### Projects Using Vue.js / Apps/Websites
-
-*   [findcharitables.org](https://findcharitables.org/) - Website for listing of organizations that need donation
-
-### Components & Libraries / UI Components
-
-*   [vue2-text-annotation (⭐6)](https://github.com/HC200ok/vue2-text-annotation) - A \[Vue 2.x] component for text annotation and manual data masking
-*   [vue-auth-ui (⭐22)](https://github.com/ndrbrt/vue-auth-ui) - Pre-built set of components for user authentication
 
 ## [6. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
 
@@ -89,11 +88,11 @@
 
 ### Table of Contents / Streaming Engine
 
-*   [Bytewax (⭐1.4k)](https://github.com/bytewax/bytewax) \[Python] - data parallel, distributed, stateful stream processing framework.
+*   [Bytewax (⭐1.6k)](https://github.com/bytewax/bytewax) \[Python] - data parallel, distributed, stateful stream processing framework.
 
 ### Table of Contents / Online Machine Learning
 
-*   [River (⭐5k)](https://github.com/online-ml/river) \[Python] - online machine learning library.
+*   [River (⭐5.1k)](https://github.com/online-ml/river) \[Python] - online machine learning library.
 
 ## [8. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
 
@@ -120,7 +119,7 @@
 ### Applications / Social networks
 
 *   Mastodon
-    *   [Rustodon (⭐866)](https://github.com/rustodon/rustodon) - A Mastodon-compatible, ActivityPub-speaking server.
+    *   [Rustodon (⭐877)](https://github.com/rustodon/rustodon) - A Mastodon-compatible, ActivityPub-speaking server.
 
 ## [12. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
@@ -134,30 +133,12 @@
 
 *   [Inter-university Consortium for Political and Social Research (ICPSR)](https://www.icpsr.umich.edu/web/pages/) (`Lookup`)
 
-## [14. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
-
-### Public Data Resources / Climate
-
-*   [NOAA Severe Weather Inventory](https://www.ncei.noaa.gov/products/severe-weather-data-inventory) - The Severe Weather Data Inventory (SWDI) is an integrated database of severe weather records for the United States. The formats currently supported are Shapefile (for GIS), KMZ (for Google Earth), CSV (comma-separated), and XML.
-
-### Public Data Resources / Transportation
-
-*   [HPMS](https://www.fhwa.dot.gov/policyinformation/hpms.cfm) - The HPMS is a national level highway information system that includes data on the extent, condition, performance, use and operating characteristics of the nation's highways.
-
-### Vendor Data Resources / Urban Observation
-
-*   [Vade](https://www.vade.ai/) - Using custom IoT cameras and computer vision to bring real time parking availability easily queryable via web-based API's.
-
-### Planning Data Specifications / Environmental
-
-*   [EPA Data Standards](https://www.epa.gov/data-standards) - A chart with links to the diversity of data standards adopted by EPA.
-
-## [15. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [14. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [meganerd (⭐1)](https://github.com/meganerd/meganerd-zsh/) - Inspired by jonathan. Includes decorators for `git` status, user\@hostname, current directory, time and the last command's exit status.
-*   [paroape (⭐2)](https://github.com/ParoaPe/ParoaPe-zsh-theme) - Based on [lpha3cho (⭐40)](https://github.com/sdcampbell/lpha3cho-Oh-My-Zsh-theme-for-pentesters)
+*   [paroape (⭐2)](https://github.com/ParoaPe/ParoaPe-zsh-theme) - Based on [lpha3cho (⭐43)](https://github.com/sdcampbell/lpha3cho-Oh-My-Zsh-theme-for-pentesters)
 
 ---
 

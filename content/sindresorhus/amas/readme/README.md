@@ -14,15 +14,15 @@ Awesome & Marvelous Amas
 
 #### Ask these people anything!
 
-*   [Sindre Sorhus (⭐143)](https://github.com/sindresorhus/ama) - Full-time open-sourcerer. Maker of many npm packages and apps.
+*   [Sindre Sorhus (⭐142)](https://github.com/sindresorhus/ama) - Full-time open-sourcerer. Maker of many npm packages and apps.
 *   [Pascal Hartig (⭐33)](https://github.com/passy/ama) - Polyglot. Engineer at Twitter. Contributor to Yeoman, TodoMVC, WSK.
 *   [Stephen Sawchuk](https://github.com/stephenplusplus/ama) - Just having fun. Creator of wiredep, youmeyou. Helper of ^.
 *   [Mark Otto (⭐94)](https://github.com/mdo/ama) - Designer at GitHub. Creator of Bootstrap.
-*   [Zach Holman (⭐732)](https://github.com/holman/feedback) - Developer and speaker. Previously worked at GitHub.
+*   [Zach Holman (⭐731)](https://github.com/holman/feedback) - Developer and speaker. Previously worked at GitHub.
 *   [Kent C. Dodds (⭐685)](https://github.com/kentcdodds/ama) - JavaScript dev, open source contributor, community builder, and speaker.
 *   [Simon Boudrias (⭐2)](https://github.com/SBoudrias/ama) - Yeoman, Inquirer.js and a bunch of other node modules. Software engineer at Yelp.
 *   [Reza Akhavan (⭐3)](https://github.com/jedireza/ama) - Engineer at Mozilla. Co-organizer at NodeSchoolSF. Creator of Drywall, Frame, Aqua.
-*   [Wes Bos (⭐281)](https://github.com/wesbos/ama) - Full stack developer, independent author, speaker, teacher and JavaScripter.
+*   [Wes Bos (⭐282)](https://github.com/wesbos/ama) - Full stack developer, independent author, speaker, teacher and JavaScripter.
 *   [Anselm Hannemann (⭐9)](https://github.com/anselmh/AMA) - Freelance front-end developer, author of WDRL, co-organizer of Nightlybuild.io.
 *   [Blain Smith](https://github.com/blainsmith/ama) - Partner/Engineer at MadGlory and Odd Networks. Rebel Geek.
 *   [Lewis Cowper](https://github.com/lewiscowper/ama) - Former forklift driver. Now web developer.
@@ -71,7 +71,7 @@ Awesome & Marvelous Amas
 *   [Charlike Mike Reagent (⭐4)](https://github.com/tunnckoCore/ama) - Passionate full stack developer, hacking on ArchLinux. Perfectionist. Revolutionist. Founder of RegexHQ, core member at JSTransformers and part of dwylhq.
 *   [Mohamad Jahani (⭐1)](https://github.com/mamal72/ama) - Software developer from Iran, mostly working on web backends, \*nix servers, electronic devices and most cool stuff you can imagine! A knowledge addict, who's reading and working 24/7.
 *   [Justin Miller (⭐0)](https://github.com/incanus/ama) - Mobile lead at Mapbox, formerly Code Sorcery Workshop (Pukka/Meerkat), photographer, traveler.
-*   [Yitzchok Willroth (⭐0)](https://github.com/coderabbi/ama) - Coder & Rabbi (though seldom at the same time!); Engineering Practice Manager, Grovo; Organizer, ShorePHP & NYPHP; Conference Speaker; Mentor.
+*   [Yitzchok Willroth (⭐1)](https://github.com/coderabbi/ama) - Coder & Rabbi (though seldom at the same time!); Engineering Practice Manager, Grovo; Organizer, ShorePHP & NYPHP; Conference Speaker; Mentor.
 *   [Graham Daniels (⭐5)](https://github.com/greydnls/ama) - Sr Software Engineer at Refinery29, US Lead for PHPWomen, Host of #NoCapes, Single dad. Brooklyn, NY.
 *   [Jeff Carouth (⭐0)](https://github.com/jcarouth/ama) - Lead Platform Engineer at Liftopia, Co-host of the Loosely Coupled Podcast, mentor, and conference speaker.
 *   [Matthew Turland (⭐2)](https://github.com/elazar/amas) - Full Stack Engineer at When I Work, author, mentor, and conference speaker.
@@ -109,7 +109,7 @@ Awesome & Marvelous Amas
 *   [Tibor Simon (⭐0)](https://github.com/tiborsimon/ama) - Electrical engineer, software geek, DSP, iOS, vimmer, guitarist, biker, runner, tiborsimon.io.
 *   [Danilo Vaz (⭐1)](https://github.com/danilovaz/ama) - Front-end developer (Brazilian), working at mLabs with JavaScript, EmberJS, APIs and other cool stuffs. I'm also BeerJS/SJC organizer.
 *   [Adrian Mejia (⭐1)](https://github.com/amejiarosario/ama) - Software engineer at Cisco. Blogger at adrianmejia.com. Author of "E-commerce Application built with the MEAN stack". JavaScript lover. Boston located.
-*   [Jon Kuperman (⭐21)](https://github.com/jkup/ama) - I love JavaScript! I blog at Codeplanet, make videos at Nodecasts and podcast at The Web Behind.
+*   [Jon Kuperman (⭐23)](https://github.com/jkup/ama) - I love JavaScript! I blog at Codeplanet, make videos at Nodecasts and podcast at The Web Behind.
 *   [Max Stoiber (⭐28)](https://github.com/mxstbr/ama) - Open source developer advocate at Thinkmill, developing KeystoneJS and ElementalUI. Creator of react-boilerplate, part of React Vienna.
 *   [Joe Lencioni (⭐1)](https://github.com/lencioni/ama) - Building ImportJS and Diffux CI. Web infra at Airbnb.
 *   [Lindsey Bieda](https://github.com/lindseyb/ama) - Back-end developer, game maker, and hardware hacker.
@@ -117,14 +117,13 @@ Awesome & Marvelous Amas
 *   [Tim Smith (⭐0)](https://github.com/smithtimmytim/ama) - Front-end designer, nerd, and recovering coffee addict.
 *   [Sam Verschueren (⭐3)](https://github.com/SamVerschueren/ama) - Full stack JavaScript developer and open source contributor.
 *   [Haroen Viaene (⭐0)](https://github.com/Haroenv/ama) - Student mostly doing JS, open source everything, creating stuff at bullgit.
-*   [Arjun Mayilvaganan (⭐0)](https://github.com/arjunmayilvaganan/ama) - Senior Year Student at CEG. Striving to make it as a Full stack developer.
 *   [Kundan Singh (⭐0)](https://github.com/kundansingh1/ama) - Full Stack Javascript Developer, Biker, Traveller, Photographer.
 *   [Michael Novotny (⭐2)](https://github.com/manovotny/ama) - JavaScript developer. Open source contributor. Insatiable learner. Standards and best practices enthusiast. Development is a lifestyle, not a job.
 *   [Artem Sapegin (⭐15)](https://github.com/sapegin/ama) - Frontend developer at Here, creator of React Styleguidist and passionate photographer.
 *   [Miguel Durán](https://github.com/miduga/ama) - Developer of things and stuff at Typeform, creator of React Slidy. Love videogames, embrace StandardJS. Living in Barcelona.
 *   [Chris 'Freddy' Getsfred (⭐0)](https://github.com/elderfo/ama) - Black hoodie aficionado, full-stack developer, JavaScript lover, new open source contributer, former script nerd, former technology instructor.
 *   [Seth Holladay (⭐0)](https://github.com/sholladay/ama) - A human seeking a full stack of pancakes and software, bug free.
-*   [Nikita Voloboev (⭐34)](https://github.com/nikitavoloboev/ama) - macOS enthusiast, open knowledge evangelist, writer, and an aspiring web developer.
+*   [Nikita Voloboev (⭐36)](https://github.com/nikitavoloboev/ama) - macOS enthusiast, open knowledge evangelist, writer, and an aspiring web developer.
 *   [Sitesh Shrivastava (⭐0)](https://github.com/SITZ/ama) - About Technology, Quantitative Finance, Products & Extreme Sports.
 *   [Zach Leatherman (⭐0)](https://github.com/zachleat/ama) - I have a beard sometimes.
 *   [Francis Sunday (⭐1)](https://github.com/codehakase/ama) - Software Developer based in Port Harcourt, Nigeria.
@@ -133,7 +132,7 @@ Awesome & Marvelous Amas
 *   [Manu Sunny](https://github.com/manupsunny/ama) - Back-end .NET/Java developer.
 *   [Ken Wheeler (⭐10)](https://github.com/kenwheeler/ama) - Professional American. Manchild.
 *   [Helen V. Holmes](https://github.com/helenvholmes/ama) - Freelance designer and UI engineer.
-*   [Rachel Andrew (⭐323)](https://github.com/rachelandrew/cssgrid-ama) - CSS Grid Ask Me Anything. Rachel Andrew is a UK web developer, writer, public speaker and co-founder of Perch CMS.
+*   [Rachel Andrew (⭐328)](https://github.com/rachelandrew/cssgrid-ama) - CSS Grid Ask Me Anything. Rachel Andrew is a UK web developer, writer, public speaker and co-founder of Perch CMS.
 *   [Ilya Bodrov (⭐0)](https://github.com/bodrovis/ama) - Author, teacher, consulting developer. Fan of Ruby and Elixir.
 *   [Matt Seemon (⭐0)](https://github.com/mattseemon/ama) - Voice-over artist, karaoke jockey, amateur actor, IT enthusiast.
 *   [Gaurav Mehla (⭐5)](https://github.com/gauravmehla/ama) - Full-stack developer, JS coder, open source contributor.
@@ -155,7 +154,7 @@ Awesome & Marvelous Amas
 *   [Md Eftakhairul Islam (⭐0)](https://github.com/eftakhairul/ama) - Software engineer, hacker, open source enthusiast and tech blogger at eftakhairul.com.
 *   [Chaitanya Giri (⭐0)](https://github.com/chaitanyagiri/ama) - Full-stack developer, JavaScript <3, tabs over spaces, open source enthusiast.
 *   [Rishi Pithadiya (⭐1)](https://github.com/rishiip/ama) - Full-stack Ruby on Rails developer in India, open source enthusiast.
-*   [Byungjin Park (⭐14)](https://github.com/posquit0/ama) - Software Architect, DevOps Engineer, Hacker, Open Sourcer.
+*   [Byungjin Park (⭐15)](https://github.com/posquit0/ama) - Software Architect, DevOps Engineer, Hacker, Open Sourcer.
 *   [Ali Spittel (⭐10)](https://github.com/aspittel/ama) - Teaching code, Python and JavaScript developer, blogger.
 *   [Khen Daniel (⭐0)](https://github.com/thekhenzie/ama) - Software Engineer. Aspiring Photographer. Hacker.
 *   [Riza Fahmi (⭐2)](https://github.com/rizafahmi/ama) - Developer, mentor, speaker. Curriculum Director, Co-Founder Hacktiv8 Coding Bootcamp.
@@ -199,8 +198,8 @@ Awesome & Marvelous Amas
 *   [From the Front (⭐0)](https://github.com/fromthefront/ama) - Nonprofit organization behind the "From the Front" conference series in Italy.
 *   [HackCU](https://github.com/HackCU/ama) - A collegiate hackathon at the University of Colorado that operates a free bi-annual event for students to learn coding or push their skills building things.
 *   [Ansible Taiwan (⭐33)](https://github.com/ansible-tw/ama) - Helping Ansible users in Taiwan with any questions.
-*   [IIIT Vadodara (⭐17)](https://github.com/iiitv/aua) - Open-source organization maintained by college students.
-*   [Nikita Voloboev (⭐34)](https://github.com/nikitavoloboev/ama) - Loves making and sharing things. Building Learn Anything, Enpicom and tools.
+*   [IIIT Vadodara (⭐18)](https://github.com/iiitv/aua) - Open-source organization maintained by college students.
+*   [Nikita Voloboev (⭐36)](https://github.com/nikitavoloboev/ama) - Loves making and sharing things. Building Learn Anything, Enpicom and tools.
 *   [S Fox Jones (⭐1)](https://github.com/tj-commits/ama) - Full stack developer, independent author, and JavaScript lover.
 
 ***

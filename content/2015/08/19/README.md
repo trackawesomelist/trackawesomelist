@@ -10,14 +10,14 @@
 
 ### Compilers, Transpilers and Languages
 
-*   [Mono-basic (⭐108)](https://github.com/mono/mono-basic) - Visual Basic Compiler and Runtime
-*   [Netjs (⭐961)](https://github.com/praeclarum/Netjs) - .NET to TypeScript and JavaScript compiler. Portable Class Libraries work great for this. You can even pass EXEs.
+*   [Mono-basic (⭐109)](https://github.com/mono/mono-basic) - Visual Basic Compiler and Runtime
+*   [Netjs (⭐966)](https://github.com/praeclarum/Netjs) - .NET to TypeScript and JavaScript compiler. Portable Class Libraries work great for this. You can even pass EXEs.
 
 ## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Frameworks
 
-*   [OpenFrameworks (⭐9.9k)](https://github.com/openframeworks/openFrameworks) - A cross platform open source toolkit for creative coding in C++. \[MIT] [website](http://www.openframeworks.cc/)
+*   [OpenFrameworks (⭐10k)](https://github.com/openframeworks/openFrameworks) - A cross platform open source toolkit for creative coding in C++. \[MIT] [website](http://www.openframeworks.cc/)
 
 ## [3. Tips](/content/git-tips/tips/README.md)
 
@@ -51,12 +51,12 @@ git branch -m [<old-branch-name>] <new-branch-name>
 
 ### Templates / Misc
 
-*   [Mailchimp Email Blueprints (⭐6.9k)](https://github.com/mailchimp/Email-Blueprints) - Email Blueprints is a collection of HTML email templates that can serve as a solid foundation and starting point for the design of emails.
+*   [Mailchimp Email Blueprints (⭐7k)](https://github.com/mailchimp/Email-Blueprints) - Email Blueprints is a collection of HTML email templates that can serve as a solid foundation and starting point for the design of emails.
 *   [Campaign Monitor Templates](https://www.campaignmonitor.com/email-templates/) - Easily create beautiful, branded email marketing campaigns.
-*   [Responsive Transactional HTML Email Templates (⭐6.8k)](https://github.com/mailgun/transactional-email-templates) - Each template is responsive and each has been tested in all the popular email clients.
-*   [Cerberus (⭐4.8k)](https://github.com/TedGoas/Cerberus) - Few responsive email patterns.
+*   [Responsive Transactional HTML Email Templates (⭐6.9k)](https://github.com/mailgun/transactional-email-templates) - Each template is responsive and each has been tested in all the popular email clients.
+*   [Cerberus (⭐5k)](https://github.com/TedGoas/Cerberus) - Few responsive email patterns.
 *   [Antwort (⭐3.6k)](https://github.com/internations/antwort) - Antwort offers responsive layouts for Email that both fits and adapts to client widths.
-*   [Responsive HTML Template (⭐687)](https://github.com/charlesmudy/responsive-html-email-template) - This template is designed to work on all major email platforms and it is built with media query, making it responsive for smartphones that supports media query.
+*   [Responsive HTML Template (⭐691)](https://github.com/charlesmudy/responsive-html-email-template) - This template is designed to work on all major email platforms and it is built with media query, making it responsive for smartphones that supports media query.
 *   [Free Responsive template : Slate](https://litmus.com/resources/free-responsive-email-templates/) - Five pre-tested templates that work with any mailing service.
 *   [Lee Munroe's Grunt Email Design (⭐3k)](https://github.com/leemunroe/grunt-email-workflow) - A Grunt workflow for designing and testing responsive HTML email templates with SCSS.
 
@@ -66,7 +66,7 @@ git branch -m [<old-branch-name>] <new-branch-name>
 
 ### Articles / Misc
 
-*   [Darylldoyle Gulp workflow (⭐166)](https://github.com/darylldoyle/Gulp-Email-Creator) - Gulp Email Creator is a gulp workflow inspired by Lee Munroe's grunt-email-design workflow.
+*   [Darylldoyle Gulp workflow (⭐167)](https://github.com/darylldoyle/Gulp-Email-Creator) - Gulp Email Creator is a gulp workflow inspired by Lee Munroe's grunt-email-design workflow.
 
 ### Resources / Misc
 
@@ -76,7 +76,7 @@ git branch -m [<old-branch-name>] <new-branch-name>
 ### Inspirations / Misc
 
 *   [Really good emails](http://reallygoodemails.com/) - The Best Email Designs in the Universe.
-*   [The Top Email Campaigns](https://www.campaignmonitor.com/best-email-marketing-campaigns/) -The most effective email marketing campaigns from Campaign Monitor.
+*   [The Top Email Campaigns](https://www.campaignmonitor.com/best-email-marketing-campaigns/) - The most effective email marketing campaigns from Campaign Monitor.
 *   [Htmlemaildesigns](http://htmlemaildesigns.com/) - Beautiful emails to help inspire your next email design.
 
 ### Testing / Misc

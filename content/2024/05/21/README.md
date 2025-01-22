@@ -15,7 +15,7 @@
 
 ### Peripheral Access Crates / Espressif
 
-*   [`esp32h2`](https://github.com/esp-rs/esp-pacs/tree/main/esp32h2) - ![crates.io](https://img.shields.io/crates/v/esp32h2.svg)
+*   [`esp32h2`](https://github.com/esp-rs/esp-pacs/tree/main/esp32h2) - [![crates.io](https://img.shields.io/crates/v/esp32h2.svg)](https://crates.io/crates/esp32h2)
 
 ## [2. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -23,48 +23,47 @@
 
 *   [Documentation](https://vuejs.org/)
 *   [GitHub Repo](https://github.com/vuejs/)
-*   [Release Notes (⭐46k)](https://github.com/vuejs/core/releases)
-*   [IDE Language Support (⭐5.7k)](https://github.com/vuejs/language-tools?tab=readme-ov-file#vue-language-tools)
-*   [Awesome Vite (⭐14k)](https://github.com/vitejs/awesome-vite)
+*   [Release Notes (⭐48k)](https://github.com/vuejs/core/releases)
+*   [IDE Language Support (⭐6k)](https://github.com/vuejs/language-tools?tab=readme-ov-file#vue-language-tools)
+*   [Awesome Vite (⭐15k)](https://github.com/vitejs/awesome-vite)
 
 ### Components & Libraries / Utilities
 
-*   [unplugin-vue-components (⭐3.7k)](https://github.com/unplugin/unplugin-vue-components) - 📲 On-demand components auto importing for Vue.
-*   [unplugin-auto-import (⭐3.2k)](https://github.com/unplugin/unplugin-auto-import) - Auto import Vue APIs on-demand for Vite, Webpack and Rollup.
+*   [unplugin-vue-components (⭐3.9k)](https://github.com/unplugin/unplugin-vue-components) - 📲 On-demand components auto importing for Vue.
+*   [unplugin-auto-import (⭐3.4k)](https://github.com/unplugin/unplugin-auto-import) - Auto import Vue APIs on-demand for Vite, Webpack and Rollup.
 
 ## [3. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### General / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [fluent-form (⭐46)](https://github.com/fluent-form/fluent-form) - Building dynamic form in Angular with Fluent API or JSON.
-*   [ng-signal-forms (⭐115)](https://github.com/timdeschryver/ng-signal-forms) - Signal powered Angular Forms.
+*   [fluent-form (⭐51)](https://github.com/fluent-form/fluent-form) - Building dynamic form in Angular with Fluent API or JSON.
+*   [ng-signal-forms (⭐133)](https://github.com/timdeschryver/ng-signal-forms) - Signal powered Angular Forms.
 *   [ngx-sub-form (⭐315)](https://github.com/cloudnc/ngx-sub-form) - Utility library for breaking down an Angular form into multiple components.
-*   [forms-typed (⭐84)](https://github.com/gparlakov/forms-typed) - Want types in your forms? Want to have nested forms? This is library can help.
+*   [forms-typed (⭐83)](https://github.com/gparlakov/forms-typed) - Want types in your forms? Want to have nested forms? This is library can help.
 
 ### Validation / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-valdemort (⭐199)](https://github.com/Ninja-Squad/ngx-valdemort) - Simpler, cleaner Angular validation error messages.
-*   [ngx-validator (⭐43)](https://github.com/why520crazy/ngx-validator) - About
-    Angular 7+ Validator, a library handle validation messages easy and automatic.
-*   [validointi (⭐23)](https://github.com/validointi/validointi) - This is a library to help you validate your template driven forms.
+*   [ngx-valdemort (⭐203)](https://github.com/Ninja-Squad/ngx-valdemort) - Simpler, cleaner Angular validation error messages.
+*   [ngx-validator (⭐43)](https://github.com/why520crazy/ngx-validator) - Angular 7+ Validator. Handle validation messages easily and automatically.
+*   [validointi (⭐24)](https://github.com/validointi/validointi) - This is a library to help you validate your template driven forms.
 *   [ngx-reactive-forms-utils (⭐6)](https://github.com/pjlamb12/ngx-reactive-forms-utils) - Provides easy validation error display and custom validators.
-*   [angular-reactive-validation (⭐31)](https://github.com/davidwalschots/angular-reactive-validation) - Reactive Forms validation shouldn't require the developer to write lots of HTML to show validation messages. This library makes it easy.
+*   [angular-reactive-validation (⭐32)](https://github.com/davidwalschots/angular-reactive-validation) - Reactive Forms validation shouldn't require the developer to write lots of HTML to show validation messages. This library makes it easy.
 
 ### Mixed utilities / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [rxweb (⭐403)](https://github.com/rxweb/rxweb) - Tons of extensively featured packages for Angular, Vue and React Projects.
-*   [jsonforms (⭐2.1k)](https://github.com/eclipsesource/jsonforms) - Customizable JSON Schema-based forms with React, Angular and Vue support out of the box.
+*   [rxweb (⭐401)](https://github.com/rxweb/rxweb) - Tons of extensively featured packages for Angular, Vue and React Projects.
+*   [jsonforms (⭐2.3k)](https://github.com/eclipsesource/jsonforms) - Customizable JSON Schema-based forms with React, Angular and Vue support out of the box.
 *   [ngspot (⭐25)](https://github.com/DmitryEfimenko/ngspot) - Collection of awesome Angular libraries.
 
 ## [4. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### (requires Neovim 0.5)
 
-*   [zeioth/none-ls-autoload.nvim (⭐15)](https://github.com/zeioth/none-ls-autoload.nvim) - Auto-load/Auto-unload none-ls sources installed with mason. It supports builtin sources and external sources.
+*   [zeioth/none-ls-autoload.nvim (⭐22)](https://github.com/zeioth/none-ls-autoload.nvim) - Auto-load/Auto-unload none-ls sources installed with mason. It supports builtin sources and external sources.
 
 ### Color / Diagnostics
 
-*   [rachartier/tiny-devicons-auto-colors.nvim (⭐97)](https://github.com/rachartier/tiny-devicons-auto-colors.nvim) - Automatically updates nvim-web-devicons colors based on your current colorscheme.
+*   [rachartier/tiny-devicons-auto-colors.nvim (⭐111)](https://github.com/rachartier/tiny-devicons-auto-colors.nvim) - Automatically updates nvim-web-devicons colors based on your current colorscheme.
 
 ## [5. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
 

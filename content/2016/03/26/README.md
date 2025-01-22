@@ -134,7 +134,7 @@
 
 ### Tools / Reverse Engineering
 
-*   [Smali/Baksmali (⭐6.3k)](https://github.com/JesusFreke/smali) – apk decompilation
+*   [Smali/Baksmali (⭐6.4k)](https://github.com/JesusFreke/smali) – apk decompilation
 
 ## [3. Awesome Haskell](/content/krispo/awesome-haskell/README.md)
 
@@ -179,7 +179,7 @@
 
 ### Testing
 
-*   [ex\_unit\_notifier (⭐127)](https://github.com/navinpeiris/ex_unit_notifier) - Desktop notifications for ExUnit.
+*   [ex\_unit\_notifier (⭐130)](https://github.com/navinpeiris/ex_unit_notifier) - Desktop notifications for ExUnit.
 
 ## [5. Awesome Music](/content/ciconia/awesome-music/README.md)
 
@@ -189,7 +189,7 @@
 
 ### Related lists
 
-*   [Awesome Music Production (⭐939)](https://github.com/adius/awesome-music-production) - A curated list of software and resources to create music.
+*   [Awesome Music Production (⭐1.1k)](https://github.com/adius/awesome-music-production) - A curated list of software and resources to create music.
 
 ## [6. Js Must Watch](/content/bolshchikov/js-must-watch/README.md)
 

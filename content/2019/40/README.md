@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 07 - Oct 13, 2019
 
-77 awesome lists updated this week.
+76 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -98,7 +98,7 @@
 
 ### Machine Learning / General Purpose Machine Learning
 
-*   [hyperlearn (⭐1.6k)](https://github.com/danielhanchen/hyperlearn) - 50%+ Faster, 50%+ less RAM usage, GPU support re-written Sklearn, Statsmodels. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn"> <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
+*   [hyperlearn (⭐1.8k)](https://github.com/danielhanchen/hyperlearn) - 50%+ Faster, 50%+ less RAM usage, GPU support re-written Sklearn, Statsmodels. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn"> <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
 
 ### Natural Language Processing / Others
 
@@ -158,7 +158,7 @@
 
 ### Web / Playground
 
-*   :octocat: [n8n.io (⭐43k)](https://github.com/n8n-io/n8n) - Open Source Workflow Automation Tool
+*   :octocat: [n8n.io (⭐54k)](https://github.com/n8n-io/n8n) - Open Source Workflow Automation Tool
 
 ## [12. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
 
@@ -262,47 +262,47 @@
 
 ### Applications
 
-*   [CaptainFact (⭐185)](https://github.com/CaptainFact/captain-fact-api) - A collaborative, real-time video fact-checking platform. ([Docs](https://captainfact.io/)).
+*   [CaptainFact (⭐187)](https://github.com/CaptainFact/captain-fact-api) - A collaborative, real-time video fact-checking platform. ([Docs](https://captainfact.io/)).
 *   [Exon (⭐22)](https://github.com/tchoutri/Exon) - A “mess manager” developed in Elixir and provides a simple API to manage & document your stuff. ([Docs](https://hexdocs.pm/exon/readme.html)).
 *   [medusa\_server (⭐8)](https://github.com/IcaliaLabs/medusa_server) - A simple cowboy web server written in Elixir to stack images. ([Docs](https://hexdocs.pm/medusa/0.2.0/api-reference.html)).
 
 ### Artificial Intelligence
 
-*   [Exnn (⭐99)](https://github.com/zampino/exnn) - Evolutive Neural Networks framework à la G.Sher written in Elixir. ([Docs](http://zampino.github.io/exnn/)).
+*   [Exnn (⭐100)](https://github.com/zampino/exnn) - Evolutive Neural Networks framework à la G.Sher written in Elixir. ([Docs](http://zampino.github.io/exnn/)).
 *   [Neat-Ex](https://gitlab.com/onnoowl/Neat-Ex) - An Elixir implementation of the NEAT algorithm. ([Docs](https://hexdocs.pm/neat_ex/Neat.html)).
 
 ### Authentication
 
 *   [coherence (⭐1.3k)](https://github.com/smpallen99/coherence) - Coherence is a full featured, configurable authentication system for Phoenix. ([Docs](https://hexdocs.pm/coherence/Coherence.html)).
-*   [guardian (⭐3.4k)](https://github.com/ueberauth/guardian) - An authentication framework for use with Elixir applications. ([Docs](https://hexdocs.pm/guardian/Guardian.html)).
+*   [guardian (⭐3.5k)](https://github.com/ueberauth/guardian) - An authentication framework for use with Elixir applications. ([Docs](https://hexdocs.pm/guardian/Guardian.html)).
 *   [pow (⭐1.6k)](https://github.com/danschultzer/pow) - Robust, modular, and extendable user authentication system ([Website](https://powauth.com) - [Doc](https://hex.pm/packages/pow)).
 
 ### Authorization
 
 *   [canary (⭐472)](https://github.com/cpjk/canary) - An authorization library for Elixir applications that restricts what resources the current user is allowed to access. ([Docs](https://hexdocs.pm/canary/api-reference.html)).
-*   [terminator (⭐61)](https://github.com/MilosMosovsky/terminator) - Database based authorization (ACL), with custom DSL rules for requiring needed permissions. ([Docs](https://hexdocs.pm/terminator/readme.html)).
+*   [terminator (⭐62)](https://github.com/MilosMosovsky/terminator) - Database based authorization (ACL), with custom DSL rules for requiring needed permissions. ([Docs](https://hexdocs.pm/terminator/readme.html)).
 
 ### Chatting
 
-*   [ExGram (⭐180)](https://github.com/rockneurotiko/ex_gram) - a library to build Telegram Bots, you can use the low-level methods and models or use the really opinionated framework included. ([Docs](https://hexdocs.pm/ex_gram/readme.html)).
-*   [hedwig (⭐652)](https://github.com/hedwig-im/hedwig) - XMPP Client/Bot Framework for Elixir.([Docs](https://hexdocs.pm/hedwig/readme.html)).
+*   [ExGram (⭐187)](https://github.com/rockneurotiko/ex_gram) - a library to build Telegram Bots, you can use the low-level methods and models or use the really opinionated framework included. ([Docs](https://hexdocs.pm/ex_gram/readme.html)).
+*   [hedwig (⭐657)](https://github.com/hedwig-im/hedwig) - XMPP Client/Bot Framework for Elixir.([Docs](https://hexdocs.pm/hedwig/readme.html)).
 
 ### Cloud Infrastructure and Management
 
 *   [erlcloud (⭐651)](https://github.com/erlcloud/erlcloud) - Cloud Computing library for Erlang (Amazon EC2, S3, SQS, SimpleDB, Mechanical Turk, ELB). ([Docs](https://hexdocs.pm/erlcloud/)).
-*   [libcluster (⭐1.9k)](https://github.com/bitwalker/libcluster) - Automatic cluster formation/healing for Elixir applications.([Docs](https://hexdocs.pm/libcluster/readme.html)).
+*   [libcluster (⭐2k)](https://github.com/bitwalker/libcluster) - Automatic cluster formation/healing for Elixir applications.([Docs](https://hexdocs.pm/libcluster/readme.html)).
 
 ### Code Analysis
 
-*   [credo (⭐4.9k)](https://github.com/rrrene/credo) - A static code analysis tool with a focus on code consistency and teaching Elixir. ([Docs](https://hexdocs.pm/credo/Credo.html)).
+*   [credo (⭐5k)](https://github.com/rrrene/credo) - A static code analysis tool with a focus on code consistency and teaching Elixir. ([Docs](https://hexdocs.pm/credo/Credo.html)).
 *   [dialyxir (⭐1.7k)](https://github.com/jeremyjh/dialyxir) - Mix tasks to simplify use of Dialyzer in Elixir projects.([Docs](https://hexdocs.pm/dialyzex/Mix.Tasks.Dialyzer.html)).
-*   [dogma (⭐473)](https://github.com/lpil/dogma) - A code style linter for Elixir, powered by shame.([Docs](https://hexdocs.pm/dogma/api-reference.html)).
+*   [dogma (⭐471)](https://github.com/lpil/dogma) - A code style linter for Elixir, powered by shame.([Docs](https://hexdocs.pm/dogma/api-reference.html)).
 
 ### Cryptography
 
-*   [cloak (⭐559)](https://github.com/danielberkompas/cloak) - Cloak makes it easy to use encryption with Ecto.([Docs](https://hexdocs.pm/cloak/readme.html)).
+*   [cloak (⭐591)](https://github.com/danielberkompas/cloak) - Cloak makes it easy to use encryption with Ecto.([Docs](https://hexdocs.pm/cloak/readme.html)).
 *   [comeonin (⭐1.3k)](https://github.com/riverrun/comeonin) - Password hashing (argon2, bcrypt, pbkdf2\_sha512) library for Elixir.(<https://hexdocs.pm/comeonin/api-reference.html>).
-*   [ex\_crypto (⭐140)](https://github.com/ntrepid8/ex_crypto) - Elixir wrapper for Erlang `crypto` and `public_key` modules. Provides sensible defaults for many crypto functions to make them easier to use.([Docs](https://hexdocs.pm/ex_crypto/readme.html)).
+*   [ex\_crypto (⭐150)](https://github.com/ntrepid8/ex_crypto) - Elixir wrapper for Erlang `crypto` and `public_key` modules. Provides sensible defaults for many crypto functions to make them easier to use.([Docs](https://hexdocs.pm/ex_crypto/readme.html)).
 
 ### Date and Time
 
@@ -325,7 +325,7 @@
 
 ### ORM and Datamapping
 
-*   [panoramix (⭐41)](https://github.com/gameanalytics/panoramix) - Apache Druid client for Elixir.
+*   [panoramix (⭐42)](https://github.com/gameanalytics/panoramix) - Apache Druid client for Elixir.
 
 ### Static Page Generation
 
@@ -333,7 +333,7 @@
 
 ### Text and Numbers
 
-*   [caustic (⭐2)](https://github.com/agro1986/caustic) - Elixir cryptocurrency library for Bitcoin, Ethereum, and other blockchains. Includes cryptography, number theory (prime, congruence), and general mathematics library for exploratory math.
+*   [caustic (⭐6)](https://github.com/agro1986/caustic) - Elixir cryptocurrency library for Bitcoin, Ethereum, and other blockchains. Includes cryptography, number theory (prime, congruence), and general mathematics library for exploratory math.
 
 ### Third Party APIs
 
@@ -405,15 +405,15 @@
 
 ### C++ / General-Purpose Machine Learning
 
-*   [Featuretools (⭐7.1k)](https://github.com/featuretools/featuretools) - A library for automated feature engineering. It excels at transforming transactional and relational datasets into feature matrices for machine learning using reusable feature engineering "primitives".
+*   [Featuretools (⭐7.3k)](https://github.com/featuretools/featuretools) - A library for automated feature engineering. It excels at transforming transactional and relational datasets into feature matrices for machine learning using reusable feature engineering "primitives".
 
 ### Elixir / General-Purpose Machine Learning
 
-*   [Tensorflex (⭐307)](https://github.com/anshuman23/tensorflex) - Tensorflow bindings for the Elixir programming language.
+*   [Tensorflex (⭐308)](https://github.com/anshuman23/tensorflex) - Tensorflow bindings for the Elixir programming language.
 
 ### Go / Computer vision
 
-*   [GoCV (⭐6.5k)](https://github.com/hybridgroup/gocv) - Package for computer vision using OpenCV 4 and beyond.
+*   [GoCV (⭐6.8k)](https://github.com/hybridgroup/gocv) - Package for computer vision using OpenCV 4 and beyond.
 
 ### Data Analysis / Data Visualization / Data Analysis / Data Visualization
 
@@ -424,25 +424,25 @@
 
 ### Python / Computer Vision
 
-*   [neural-style-pt (⭐834)](https://github.com/ProGamerGov/neural-style-pt) - A PyTorch implementation of Justin Johnson's neural-style (neural style transfer).
+*   [neural-style-pt (⭐841)](https://github.com/ProGamerGov/neural-style-pt) - A PyTorch implementation of Justin Johnson's neural-style (neural style transfer).
 
 ### Python / Natural Language Processing
 
-*   [pkuseg-python (⭐6.5k)](https://github.com/lancopku/pkuseg-python) - A better version of Jieba, developed by Peking University.
+*   [pkuseg-python (⭐6.6k)](https://github.com/lancopku/pkuseg-python) - A better version of Jieba, developed by Peking University.
 
 ### Python / General-Purpose Machine Learning
 
 *   [auto\_ml (⭐1.6k)](https://github.com/ClimbsRocks/auto_ml) - Automated machine learning for production and analytics. Lets you focus on the fun parts of ML, while outputting production-ready code, and detailed analytics of your dataset and results. Includes support for NLP, XGBoost, CatBoost, LightGBM, and soon, deep learning.
-*   [Cogitare (⭐76)](https://github.com/cogitare-ai/cogitare): A Modern, Fast, and Modular Deep Learning and Machine Learning framework for Python.
-*   [JAX (⭐29k)](https://github.com/google/jax) - JAX is Autograd and XLA, brought together for high-performance machine learning research.
+*   [Cogitare (⭐77)](https://github.com/cogitare-ai/cogitare): A Modern, Fast, and Modular Deep Learning and Machine Learning framework for Python.
+*   [JAX (⭐31k)](https://github.com/google/jax) - JAX is Autograd and XLA, brought together for high-performance machine learning research.
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
-*   [Map/Reduce implementations of common ML algorithms (⭐60)](https://github.com/Yannael/BigDataAnalytics_INFOH515): Jupyter notebooks that cover how to implement from scratch different ML algorithms (ordinary least squares, gradient descent, k-means, alternating least squares), using Python NumPy, and how to then make these implementations scalable using Map/Reduce and Spark.
+*   [Map/Reduce implementations of common ML algorithms (⭐59)](https://github.com/Yannael/BigDataAnalytics_INFOH515): Jupyter notebooks that cover how to implement from scratch different ML algorithms (ordinary least squares, gradient descent, k-means, alternating least squares), using Python NumPy, and how to then make these implementations scalable using Map/Reduce and Spark.
 
 ### Python / Reinforcement Learning
 
-*   [Serpent.AI (⭐6.7k)](https://github.com/SerpentAI/SerpentAI) - Serpent.AI is a game agent framework that allows you to turn any video game you own into a sandbox to develop AI and machine learning experiments. For both researchers and hobbyists.
+*   [Serpent.AI (⭐6.8k)](https://github.com/SerpentAI/SerpentAI) - Serpent.AI is a game agent framework that allows you to turn any video game you own into a sandbox to develop AI and machine learning experiments. For both researchers and hobbyists.
 
 ### Swift / General-Purpose Machine Learning
 
@@ -524,7 +524,7 @@
 
 ### Awesome Repositories
 
-- Repository: [Asset Discovery (⭐1.9k)](https://github.com/redhuntlabs/Awesome-Asset-Discovery)
+- Repository: [Asset Discovery (⭐2k)](https://github.com/redhuntlabs/Awesome-Asset-Discovery)
 
   Description: List of resources which help during asset discovery phase of a security assessment engagement
 
@@ -545,41 +545,41 @@
 
 ### Bytecode Manipulation
 
-*   [bytecode-viewer (⭐14k)](https://github.com/Konloch/bytecode-viewer) - Java 8 Jar & Android APK reverse engineering suite. (GPL-3.0-only)
+*   [bytecode-viewer (⭐15k)](https://github.com/Konloch/bytecode-viewer) - Java 8 Jar & Android APK reverse engineering suite. (GPL-3.0-only)
 *   [Byteman](https://byteman.jboss.org) - Manipulate bytecode at runtime via DSL (rules); mainly for testing/troubleshooting. (LGPL-2.1-or-later)
 
 ### CLI / Text-Based User Interfaces
 
-*   [Lanterna (⭐2.2k)](https://github.com/mabe02/lanterna) - Easy console text-GUI library, similar to curses. (LGPL-3.0-only)
+*   [Lanterna (⭐2.3k)](https://github.com/mabe02/lanterna) - Easy console text-GUI library, similar to curses. (LGPL-3.0-only)
 
 ### Code Analysis / Text-Based User Interfaces
 
-*   [Checkstyle (⭐8.2k)](https://github.com/checkstyle/checkstyle) - Static analysis of coding conventions and standards. (LGPL-2.1-or-later)
+*   [Checkstyle (⭐8.3k)](https://github.com/checkstyle/checkstyle) - Static analysis of coding conventions and standards. (LGPL-2.1-or-later)
 *   [jQAssistant](https://jqassistant.org) - Static code analysis with Neo4J-based query language. (GPL-3.0-only)
 *   [SonarJava (⭐1.1k)](https://github.com/SonarSource/sonar-java) - Static analyzer for SonarQube & SonarLint. (LGPL-3.0-only)
-*   [Spotbugs (⭐3.4k)](https://github.com/spotbugs/spotbugs) - Static analysis of bytecode to find potential bugs. (LGPL-2.1-only)
+*   [Spotbugs (⭐3.5k)](https://github.com/spotbugs/spotbugs) - Static analysis of bytecode to find potential bugs. (LGPL-2.1-only)
 
 ### Constraint Satisfaction Problem Solver / Text-Based User Interfaces
 
-*   [JaCoP (⭐219)](https://github.com/radsz/jacop) - Includes an interface for the FlatZinc language, enabling it to execute MiniZinc models. (AGPL-3.0)
+*   [JaCoP (⭐220)](https://github.com/radsz/jacop) - Includes an interface for the FlatZinc language, enabling it to execute MiniZinc models. (AGPL-3.0)
 
 ### Date and Time / Text-Based User Interfaces
 
-*   [Time4J (⭐426)](https://github.com/MenoData/Time4J) - Advanced date and time library. (LGPL-2.1-only)
+*   [Time4J (⭐439)](https://github.com/MenoData/Time4J) - Advanced date and time library. (LGPL-2.1-only)
 
 ### Dependency Injection / Text-Based User Interfaces
 
-*   [JayWire (⭐55)](https://github.com/vanillasource/jaywire) - Lightweight dependency injection framework. (LGPL-3.0-only)
+*   [JayWire (⭐56)](https://github.com/vanillasource/jaywire) - Lightweight dependency injection framework. (LGPL-3.0-only)
 
 ### Development / Text-Based User Interfaces
 
 *   [DCEVM](https://dcevm.github.io) - JVM modification that allows unlimited redefinition of loaded classes at runtime. (GPL-2.0-only)
-*   [HotswapAgent (⭐2.2k)](https://github.com/HotswapProjects/HotswapAgent) - Unlimited runtime class and resource redefinition. (GPL-2.0-only)
+*   [HotswapAgent (⭐2.3k)](https://github.com/HotswapProjects/HotswapAgent) - Unlimited runtime class and resource redefinition. (GPL-2.0-only)
 
 ### Distributed Applications / Text-Based User Interfaces
 
 *   [Atomix](https://atomix.io) - Fault-tolerant distributed coordination framework.
-*   [Dropwizard Circuit Breaker (⭐41)](https://github.com/mtakaki/dropwizard-circuitbreaker) - Circuit breaker design pattern for Dropwizard. (GPL-2.0-only)
+*   [Dropwizard Circuit Breaker (⭐43)](https://github.com/mtakaki/dropwizard-circuitbreaker) - Circuit breaker design pattern for Dropwizard. (GPL-2.0-only)
 
 ### Distribution / Text-Based User Interfaces
 
@@ -592,11 +592,11 @@
 ### Formal Verification / Text-Based User Interfaces
 
 *   [Checker Framework](https://checkerframework.org) - Pluggable type systems. Includes nullness types, physical units, immutability types and more. (GPL-2.0-only WITH Classpath-exception-2.0)
-*   [Java Path Finder (JPF) (⭐518)](https://github.com/javapathfinder/jpf-core) - JVM formal verification tool containing a model checker and more. Created by NASA.
+*   [Java Path Finder (JPF) (⭐534)](https://github.com/javapathfinder/jpf-core) - JVM formal verification tool containing a model checker and more. Created by NASA.
 
 ### Functional Programming / Text-Based User Interfaces
 
-*   [derive4j (⭐560)](https://github.com/derive4j/derive4j) - Java 8 annotation processor and framework for deriving algebraic data types constructors, pattern-matching and morphisms. (GPL-3.0-only)
+*   [derive4j (⭐566)](https://github.com/derive4j/derive4j) - Java 8 annotation processor and framework for deriving algebraic data types constructors, pattern-matching and morphisms. (GPL-3.0-only)
 
 ### Geospatial / Text-Based User Interfaces
 
@@ -623,7 +623,7 @@
 
 ### Machine Learning / Text-Based User Interfaces
 
-*   [JSAT (⭐786)](https://github.com/EdwardRaff/JSAT) - Algorithms for pre-processing, classification, regression, and clustering with support for multi-threaded execution. (GPL-3.0-only)
+*   [JSAT (⭐788)](https://github.com/EdwardRaff/JSAT) - Algorithms for pre-processing, classification, regression, and clustering with support for multi-threaded execution. (GPL-3.0-only)
 
 ### Miscellaneous / Text-Based User Interfaces
 
@@ -637,11 +637,11 @@
 ### Networking / Text-Based User Interfaces
 
 *   [Undertow](http://undertow.io) - Web server providing both blocking and non-blocking APIs based on NIO. Used as a network layer in WildFly. (LGPL-2.1-only)
-*   [urnlib (⭐30)](https://github.com/slub/urnlib) - Represent, parse and encode URNs, as in RFC 2141. (GPL-3.0-only)
+*   [urnlib (⭐31)](https://github.com/slub/urnlib) - Represent, parse and encode URNs, as in RFC 2141. (GPL-3.0-only)
 
 ### PDF / Text-Based User Interfaces
 
-*   [DynamicReports (⭐198)](https://github.com/dynamicreports/dynamicreports) - Simplifies JasperReports. (LGPL-3.0-only)
+*   [DynamicReports (⭐215)](https://github.com/dynamicreports/dynamicreports) - Simplifies JasperReports. (LGPL-3.0-only)
 *   [flyingsaucer (⭐2k)](https://github.com/flyingsaucerproject/flyingsaucer) - XML/XHTML and CSS 2.1 renderer. (LGPL-2.1-or-later)
 *   [JasperReports](https://community.jaspersoft.com/project/jasperreports-library) - Complex reporting engine. (LGPL-3.0-only)
 
@@ -662,7 +662,7 @@
 ### Utility / Mocking
 
 *   [CRaSH](http://www.crashub.org) - Provides a shell into a JVM that's running CRaSH. Used by Spring Boot and others. (LGPL-2.1-or-later)
-*   [Gephi (⭐5.7k)](https://github.com/gephi/gephi) - Cross-platform for visualizing and manipulating large graph networks. (GPL-3.0-only)
+*   [Gephi (⭐5.9k)](https://github.com/gephi/gephi) - Cross-platform for visualizing and manipulating large graph networks. (GPL-3.0-only)
 
 ### Web Frameworks / Mocking
 
@@ -672,7 +672,7 @@
 
 ### Style Guide Generators :slot_machine: / Editor's Draft :black_nib:
 
-*   [Source (⭐553)](https://github.com/sourcejs/Source)
+*   [Source (⭐548)](https://github.com/sourcejs/Source)
 
 ## [41. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
 
@@ -682,13 +682,13 @@
 
 ### Tools / Working with types
 
-*   [mypyc (⭐18k)](https://github.com/python/mypy/tree/master/mypyc) - Compiles mypy-annotated, statically typed Python modules into CPython C extensions.
+*   [mypyc (⭐19k)](https://github.com/python/mypy/tree/master/mypyc) - Compiles mypy-annotated, statically typed Python modules into CPython C extensions.
 
 ## [42. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Boilerplates
 
-*   [Next & Now 2.0 Typescript template (⭐42)](https://github.com/alepacheco/landing-template) - Serverless, Typescript, Jest, Github CI, SCSS, prettier boilerplate
+*   [Next & Now 2.0 Typescript template (⭐43)](https://github.com/alepacheco/landing-template) - Serverless, Typescript, Jest, Github CI, SCSS, prettier boilerplate
 *   [nextjs-mongodb-app (⭐1.5k)](https://github.com/hoangvvo/nextjs-mongodb-app) - Full-fledged app made with Next.JS and MongoDB, with authentication and much more (Next.js 9, MongoDB)
 
 ## [43. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
@@ -863,17 +863,6 @@
   CORS: Yes
 
 
-- API: [FreeGeoIP](https://freegeoip.app/)
-
-  Description: Free geo ip information, no registration required. 15k/hour rate limit
-
-  Auth: No
-
-  HTTPS: Yes
-
-  CORS: Yes
-
-
 - API: [GeoDataSource](https://www.geodatasource.com/web-service)
 
   Description: Geocoding of city name by using latitude and longitude coordinates
@@ -960,7 +949,7 @@
 
 ### Personality
 
-- API: [Programming Quotes (⭐458)](https://github.com/skolakoda/programming-quotes-api)
+- API: [Programming Quotes (⭐469)](https://github.com/skolakoda/programming-quotes-api)
 
   Description: Programming Quotes API for open source projects
 
@@ -1211,33 +1200,6 @@
 
 ### Family
 
-### [Pandemic](https://wikipedia.org/wiki/Pandemic_\(board_game\))
-
-> Can you save humanity in this cooperative game where deadly viruses are spreading across the globe? Together, you will treat diseases, share knowledge, and fly all over the world to prevent outbreaks and slow down the epidemic.
-
-![Pandemic game image](https://cf.geekdo-images.com/cTrAWasNHyKMcNs8Zrv5O7sKS6M=/fit-in/246x300/pic1534148.jpg)
-
-| Players | Min. Age | Time |
-| ------: | -------: | ---: |
-|   2 - 4 |        8 |  45m |
-### [Forbidden Desert](https://wikipedia.org/wiki/Forbidden_Desert)
-
-> ...players take on the roles of brave adventurers who must throw caution to the wind and survive both blistering heat and blustering sand in order to recover a legendary flying machine buried under an ancient desert city.
-
-![Forbidden Desert game image](https://cf.geekdo-images.com/9cYnsP-GJPPrse1qZc3pTAqZTU4=/fit-in/246x300/pic1528722.jpg)
-
-| Players | Min. Age | Time |
-| ------: | -------: | ---: |
-|   2 - 5 |       10 |  45m |
-### [Elder Sign](https://wikipedia.org/wiki/Elder_Sign_\(card_game\))
-
-> Set in a world of Lovecraftian horror, cooperatively investigate a museum full of strange artefacts and stranger demons. Collect eldritch symbols, "elder signs", to close the portals and prevent the creatures from invading our world. Collect enough before the time is up or suffer the wrath of the Ancient Ones.
-
-![Elder Sign game image](https://cf.geekdo-images.com/V3ZBoSTdW7AjenPmOws7jfbkFsY=/fit-in/246x300/pic1236119.jpg)
-
-| Players | Min. Age | Time |
-| ------: | -------: | ---: |
-|   1 - 8 |       13 |  90m |
 ### [Betrayal at House on the Hill](https://en.wikipedia.org/wiki/Betrayal_at_House_on_the_Hill)
 
 > Players all begin as allies exploring a haunted house filled with dangers, traps, items, and omens.\
@@ -1267,26 +1229,6 @@
 | Players | Min. Age |   Time |
 | ------: | -------: | -----: |
 |   2 - 6 |        8 | 10-20m |
-### [Dungeons & Dragons: Castle Ravenloft](https://boardgamegeek.com/boardgame/59946/dungeons-dragons-castle-ravenloft-board-game)
-
-> The master of Ravenloft is having guests for dinner – and you are invited!\
-> Evil lurks in the towers and dungeons of Castle Ravenloft, and only heroes of exceptional bravery can survive the horrors within.\
-> Designed for 1-5 players, this boardgame features multiple scenarios, challenging quests, and cooperative gameplay.
-
-![Dungeons & Dragons: Castle Ravenloft](https://cf.geekdo-images.com/itemrep/img/XTw-eglE4VMj6fgZytjEAIqa98g=/fit-in/246x300/pic660244.jpg)
-
-| Players | Min. Age | Time |
-| ------: | -------: | ---: |
-|   1 - 5 |       13 |  60m |
-### [Exit The Game the Abandoned Cabin](https://boardgamegeek.com/boardgame/203420/exit-game-abandoned-cabin)
-
-> After seeking shelter in an abandoned cabin and spending the night, you and your friends realize that someone has secured the door with a combination lock. The only way to escape your predicament is to work as a team, crack codes and solve various puzzles in order to deduct the combination that leads to freedom.
-
-![Exit Abandoned Cabin game image](https://cf.geekdo-images.com/itemrep/img/YuNiISiSOUDAtk634f7dUq7MXu8=/fit-in/246x300/pic3332426.jpg)
-
-| Players | Min. Age |    Time |
-| ------: | -------: | ------: |
-|   1 - 6 |       12 | 60-120m |
 ### [Candy Land](https://en.wikipedia.org/wiki/Candy_Land)
 
 > The race is woven around a storyline about finding King Kandy, the lost king of Candy Land...game requires no reading and minimal counting skills, making it suitable for young children...players are never required to make choices, just follow directions.
@@ -1317,15 +1259,6 @@
 | Players | Min. Age | Time |
 | ------: | -------: | ---: |
 |       2 |        5 |  30m |
-### [7 Wonders](https://wikipedia.org/wiki/7_Wonders_\(board_game\))
-
-> You are the leader of one of the 7 great cities of the Ancient World. Gather resources, develop commercial routes, and affirm your military supremacy. Build your city and erect an architectural wonder which will transcend future times.
-
-![7 Wonders game image](https://cf.geekdo-images.com/RvFVTEpnbb4NM7k0IF8V7A__itemrep/img/F__zhk-OFDgFcMBysW2JlcYJADw=/fit-in/246x300/filters:strip_icc\(\)/pic860217.jpg)
-
-| Players | Min. Age | Time |
-| ------: | -------: | ---: |
-|   3 - 7 |       10 |  45m |
 ### [7 Wonders Duel](https://boardgamegeek.com/boardgame/173346/7-wonders-duel)
 
 > The great 7 Wonders concepts adapted especially for two players. The feel is very '7 Wonders' with a few refinements which many will with made it to the main game such as the reworked military and science victories as well as new commerce dynamics. Playing a game always leaves me wanting to play again.
@@ -1344,17 +1277,6 @@
 | Players | Min. Age | Time |
 | ------: | -------: | ---: |
 |       2 |       13 |  75m |
-### [Legendary: A Marvel Deck Building Game](https://boardgamegeek.com/boardgame/129437/legendary-marvel-deck-building-game)
-
-<!-- nothing on wikipedia currently -->
-
-> ...a deck-building game set in the Marvel Comics universe. To set up the game, players choose a number of hero decks from the likes of Spider-man, Hulk, Cyclops or Wolverine, and shuffle them together to get a variety of hero decks. Players then choose a mastermind villain (Magneto, Loki, Dr. Doom, etc.) and stack that particular villain's attack cards underneath it. Next, modify the villain deck as needed based on that villain's particular scheme.
-
-![Legendary A Marvel Deck Building Game image](https://cf.geekdo-images.com/oP3_ojBKQ6EXfUupdha3t9JF728=/fit-in/246x300/pic1430769.jpg)
-
-| Players | Min. Age | Time |
-| ------: | -------: | ---: |
-|   1 - 5 |       10 |  45m |
 ### [Complots](https://boardgamegeek.com/boardgame/188188/complots)
 
 > A corrupt city, subject to vice and avarice, is under the control of vile characters. The seat of power is vacant and waiting for you to take it — unless someone else takes it first. In Complots, as in the original game Coup, you control two characters and start with two coins, and through trickery, manipulation and bluffing, you want to eliminate all other players who stand in your way, possibly by having them eliminate one another along the way.
@@ -1364,15 +1286,6 @@
 | Players | Min. Age | Time |
 | ------: | -------: | ---: |
 |   2 - 8 |        8 |  15m |
-### [Exploding Kittens](https://explodingkittens.com/)
-
-> Exploding Kittens is a highly-strategic, kitty-powered version of Russian roulette. It was the most-funded game in the history of Kickstarter and has paved the way for peace and tranquility in the modern world. It also features cards illustrated by The Oatmeal.
-
-![Exploding Kittens image](https://cf.geekdo-images.com/N8bL53-pRU7zaXDTrEaYrw__itemrep/img/ON0bQporMQQ9KJlVC2UP8LAa_WI=/fit-in/246x300/filters:strip_icc\(\)/pic2691976.png)
-
-| Players | Min. Age | Time |
-| ------: | -------: | ---: |
-|   2 - 5 |        7 |  15m |
 ### [Chess](https://en.wikipedia.org/wiki/Chess)
 
 > Chess is a board game played between two opponents on opposite sides of a board containing 64 squares of alternating colors (white and black). Each player has 16 pieces: 1 king, 1 queen, 2 rooks, 2 bishops, 2 knights, and 8 pawns. The goal of the game is to checkmate your opponent's king. The game is played by millions of people worldwide.
@@ -1391,15 +1304,6 @@
 | Players | Min. Age |   Time |
 | ------: | -------: | -----: |
 |   3 - 6 |        8 | 10-60m |
-### [Sheriff of Nottingham](https://boardgamegeek.com/boardgame/157969/sheriff-nottingham)
-
-> In Sheriff of Nottingham, each player assumes the role of a merchant who is looking to make a tidy profit during the Prince's visit to Nottingham. While it is possible to make a decent profit off of legal goods, illicit goods will leave you swimming in riches. But be careful, lest the Sheriff of Nottingham catches you!
-
-![Sheriff of Nottingham game image](https://cf.geekdo-images.com/itemrep/img/ue8OIdjUCpDrnM9Y0ZXKuDdk8Y8=/fit-in/246x300/pic2075830.jpg)
-
-| Players | Min. Age | Time |
-| ------: | -------: | ---: |
-|   3 - 5 |       14 |  60m |
 ### [Splendor](https://boardgamegeek.com/boardgame/148228/splendor)
 
 > Splendor places you in the shoes of a wealthy Renaissance merchant trying to compete with others to build the most lucrative and prestigious jewelry business in all of Europe. Players will compete with each other to buy gem mines, transportation, and storefronts in order to increase their wealth and accumulate the most prestige points. As your fame and wealth grows, you may even attract the attention of the local nobles...
@@ -1421,15 +1325,6 @@
 | Players | Min. Age | Time |
 | ------: | -------: | ---: |
 |   2 - 8 |        7 |  10m |
-### [Mysterium](https://wikipedia.org/wiki/Mysterium_\(board_game\))
-
-> As a group, divine the messages from the recently murdered ghost to solve the murder in this collaborative whodunit. Equally easy for beginners and experienced gamers to play with something new every game.
-
-![Mysterium game image](https://cf.geekdo-images.com/cmPajGP0Q5NrBkZ7Ur4B7-V677w=/fit-in/246x300/pic2601683.jpg)
-
-| Players | Min. Age | Time |
-| ------: | -------: | ---: |
-|   2 - 7 |       10 |  42m |
 ### [Shabadabada](https://boardgamegeek.com/boardgameexpansion/119871/shabadabada-2)
 
 > This is a small and quite simple party game designed to make you sing beside the fireplace, or anywhere. Two teams compete using predetermined words. As soon as a player sings part of a song which contains the current word, the other team must find another song containing the word. As soon as a team fails, the other one wins the card.
@@ -1466,15 +1361,6 @@
 | Players | Min. Age |   Time |
 | ------: | -------: | -----: |
 |   2 - 4 |        3 | 30-60m |
-### [That's A Question﹗](https://boardgamegeek.com/boardgame/226322/s-question)
-
-> A great game to play with people you think you know. You take the role of squirrels asking each other questions as they climb up a mountain. Players assemble questions from tiles in their hands, asking each other things like "Would you rather live in a world without pizza or fruit?" or "Would you rather write the Great American Novel or never have to sleep again?" It's a good time for everyone, and the game has this nice, innocent charm to it. Even the manual is fun to read.
-
-![That's A Question game image](https://cf.geekdo-images.com/itemrep/img/HtERyYjSCmmOaczgGx_31xn_9EY=/fit-in/246x300/pic3643950.jpg)
-
-| Players | Min. Age | Time |
-| ------: | -------: | ---: |
-|   3 - 6 |       15 |  30m |
 ### [One Night Werewolf](https://beziergames.com/products/one-night-ultimate-werewolf)
 
 > One Night Ultimate Werewolf is a fast-paced game where everyone gets to be a different role. In the course of only one night and the following morning, the players will determine who among them is a werewolf...hopefully.
@@ -1484,24 +1370,6 @@
 | Players | Min. Age |   Time |
 | ------: | -------: | -----: |
 |  3 - 10 |        8 | 10-15m |
-### [Who Wants to Be a Millionare](http://www.boardgamecapital.com/who-wants-to-be-a-millionaire-rules.htm)
-
-> Ever wanted to play the popular Game Show game Who Wants To Be A Millionaire? Check out this board game version of Who Wants To Be A Millionaire. Other than the TV cameras, Regis Philbin, and the real money, this is the same game including easy laughable $100 questions, life lines, and a over 2,000 questions.
-
-![Who Wants to be a millionare game image](https://upload.wikimedia.org/wikipedia/en/7/75/Millionaire.png)
-
-| Players | Min. Age |   Time |
-| ------: | -------: | -----: |
-|   2 - 5 |       12 | 45-60m |
-### [Catan](https://www.catan.com/game/catan)
-
-> Picture yourself in the era of discoveries: after a long voyage of great deprivation, your ships have finally reached the coast of an uncharted island. Its name shall be Catan! But you are not the only discoverer. Other fearless seafarers have also landed on the shores of Catan: the race to settle the island has begun!
-
-![catan game image](https://cf.geekdo-images.com/W3Bsga_uLP9kO91gZ7H8yw__itemrep/img/IzYEUm_gWFuRFOL8gQYqGm5gU6A=/fit-in/246x300/filters:strip_icc\(\)/pic2419375.jpg)
-
-| Players | Min. Age |   Time |
-| ------: | -------: | -----: |
-|   3 - 4 |       10 | 45-90m |
 ### [Sushi Go](https://gamewright.com/product/Sushi-Go)
 
 > In the super-fast sushi card game Sushi Go!, you are eating at a sushi restaurant and trying to grab the best combination of sushi dishes as they whiz by. Score points for collecting the most sushi rolls or making a full set of sashimi. Dip your favorite nigiri in wasabi to triple its value! And once you've eaten it all, finish your meal with all the pudding you've got! But be careful which sushi you allow your friends to take; it might be just what they need to beat you!
@@ -1584,15 +1452,6 @@
 | Players | Min. Age | Time |
 | ------: | -------: | ---: |
 |  5 - 10 |       13 |  45m |
-### [Smash Up](https://boardgamegeek.com/boardgame/122522/smash)
-
-> The "shufflebuilding" game Smash Up begins with a simple premise: take the 20-card decks of two factions, shuffle them into a deck of forty cards, then compete to crush more Bases than your opponents! Each faction involves a different gaming mechanism - the pirates move the cards, the zombies bring back the cards from the discard pile, the dinosaurs have enormous power - and each combination of factions brings a different gaming experience.
-
-![Smash Up Image](https://cf.geekdo-images.com/itemrep/img/B477eHwGjDYBLMYSIlLGGeJcoMo=/fit-in/246x300/pic1269874.jpg)
-
-| Players | Min. Age | Time |
-| ------: | -------: | ---: |
-|   2 - 4 |       12 |  45m |
 ### [Gloomhaven](https://boardgamegeek.com/boardgame/174430/gloomhaven)
 
 > Gloomhaven is a game of Euro-inspired tactical combat in a persistent world of shifting motives. Players will take on the role of a wandering adventurer with their own special set of skills and their own reasons for traveling to this dark corner of the world. Players must work together out of necessity to clear out menacing dungeons and forgotten ruins. In the process, they will enhance their abilities with experience and loot, discover new locations to explore and plunder, and expand an ever-branching story fueled by the decisions they make.
@@ -1752,7 +1611,7 @@ In Codenames, two teams compete to see who can make contact with all of their ag
 
 ## [68. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
-### Tools and frameworks
+### Tools and frameworks (a-z↓)
 
 *   [basset](https://basset.io) - Open source platform for generating and reviewing visual differences. Supports multiple browsers, integrations for github and slack.
 
@@ -1760,7 +1619,7 @@ In Codenames, two teams compete to see who can make contact with all of their ag
 
 ### Image / Backend-Driven
 
-*   [Bitmap (⭐171)](https://github.com/renancaraujo/bitmap) <!--stargazers:renancaraujo/bitmap--> - Perform Bitmap manipulations (such as contrast and exposure) with a help from the Dart FFI by [Renan C. Araújo](https://github.com/renancaraujo)
+*   [Bitmap (⭐175)](https://github.com/renancaraujo/bitmap) <!--stargazers:renancaraujo/bitmap--> - Perform Bitmap manipulations (such as contrast and exposure) with a help from the Dart FFI by [Renan C. Araújo](https://github.com/renancaraujo)
 
 ### 🏴 Kurdistan / Misc
 
@@ -1781,19 +1640,13 @@ In Codenames, two teams compete to see who can make contact with all of their ag
 
 ### Software / Communication - IRC
 
-*   [ngircd](https://ngircd.barton.de/) - Free, portable and lightweight Internet Relay Chat server for small or private networks. ([Source Code (⭐440)](https://github.com/ngircd/ngircd)) `GPL-2.0` `C/deb`
+*   [ngircd](https://ngircd.barton.de/) - Free, portable and lightweight Internet Relay Chat server for small or private networks. ([Source Code (⭐456)](https://github.com/ngircd/ngircd)) `GPL-2.0` `C/deb`
 
 ### Software / Games
 
-*   [piqueserver (⭐208)](https://github.com/piqueserver/piqueserver) - Server for openspades, the first-person shooter in a destructible voxel world. ([Clients (⭐1.1k)](https://github.com/yvt/openspades)) `GPL-3.0` `Python/C++`
+*   [piqueserver (⭐218)](https://github.com/piqueserver/piqueserver) - Server for openspades, the first-person shooter in a destructible voxel world. ([Clients (⭐1.1k)](https://github.com/yvt/openspades)) `GPL-3.0` `Python/C++`
 
-## [72. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
-
-### Components & Libraries / UI Components
-
-*   [vue-accessible-modal (⭐20)](https://github.com/andrewvasilchuk/vue-accessible-modal) - A Vue.js accessible modal wrapper over your components.
-
-## [73. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/week/README.md)
+## [72. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/week/README.md)
 
 ### Books
 
@@ -1808,17 +1661,17 @@ In Codenames, two teams compete to see who can make contact with all of their ag
 
 *   [CircuitPython 5 release poster](https://www.adafruit.com/product/4365) - CircuitPython release version 5 poster.
 
-## [74. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [73. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### E-Books / Others
 
 *   [Blazor for ASP.NET Web Forms developers](https://dotnet.microsoft.com/learn/aspnet/architecture#blazor-for-web-forms-devs-ebook-swim) - Blazor for ASP.NET Web Forms developers, a free e-book from Microsoft.
 
-## [75. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
+## [74. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
 ### Utility / Docker Container Actions
 
-*   [Generate a table of contents (⭐187)](https://github.com/technote-space/toc-generator)
+*   [Generate a table of contents (⭐220)](https://github.com/technote-space/toc-generator)
 
 ### Pull Requests / Code Coverage
 
@@ -1826,13 +1679,13 @@ In Codenames, two teams compete to see who can make contact with all of their ag
 
 ### Deployment / Code Coverage
 
-*   [GitHub Action for GoReleaser, a release automation tool for Go projects (⭐606)](https://github.com/goreleaser/goreleaser-action)
+*   [GitHub Action for GoReleaser, a release automation tool for Go projects (⭐851)](https://github.com/goreleaser/goreleaser-action)
 
 ### External Services / Terraform
 
 *   [Upload files to any OpenStack Swift service provider (⭐1)](https://github.com/iksaku/openstack-swift-action)
 
-## [76. Awesome Actions on Google](/content/ravirupareliya/awesome-actions-on-google/week/README.md)
+## [75. Awesome Actions on Google](/content/ravirupareliya/awesome-actions-on-google/week/README.md)
 
 ### Document
 
@@ -1845,7 +1698,7 @@ In Codenames, two teams compete to see who can make contact with all of their ag
 
 *   [Mandy Chan](https://twitter.com/MandyChanNYC) - Developer Advocate for the Actions On Google team.
 
-## [77. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [76. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Reading and Writing Tools / Office
 
@@ -1869,7 +1722,7 @@ In Codenames, two teams compete to see who can make contact with all of their ag
 
 ### Utilities / Clipboard Tools
 
-*   [Paste](http://pasteapp.me) - Smart clipboard history & snippets manager. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://itunes.apple.com/us/app/paste-clipboard-history-manager/id967805235)
+*   [Paste](http://pasteapp.me) - Smart clipboard history & snippets manager. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/paste-clipboard-history-manager/id967805235)
 
 ### Utilities / General Tools
 

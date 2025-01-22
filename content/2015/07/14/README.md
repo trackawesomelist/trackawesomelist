@@ -10,7 +10,7 @@
 
 ### Game Engine
 
-*   [Panda3D (⭐4.4k)](https://github.com/panda3d/panda3d) - A game engine, a framework for 3D rendering and game development for Python and C++ programs. \[Modified BSD] [website](https://www.panda3d.org/)
+*   [Panda3D (⭐4.6k)](https://github.com/panda3d/panda3d) - A game engine, a framework for 3D rendering and game development for Python and C++ programs. \[Modified BSD] [website](https://www.panda3d.org/)
 
 ## [2. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
@@ -45,8 +45,8 @@
 
 ### File System Utilities
 
-*   [Groovy-Vfs (⭐62)](https://github.com/ysb33r/groovy-vfs) - A DSL for Groovy on top of Apache VFS2
-*   [Directree (⭐12)](https://github.com/kdabir/directree) - A Simple DSL to create Directory Tree with Text Files
+*   [Groovy-Vfs (⭐63)](https://github.com/ysb33r/groovy-vfs) - A DSL for Groovy on top of Apache VFS2
+*   [Directree (⭐14)](https://github.com/kdabir/directree) - A Simple DSL to create Directory Tree with Text Files
 
 ---
 

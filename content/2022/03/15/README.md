@@ -6,33 +6,29 @@
 
 
 
-## [1. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [1. Awesome Go](/content/avelino/awesome-go/README.md)
+
+### DevOps Tools / Libraries for creating HTTP middlewares
+
+*   [Mantil (⭐110)](https://github.com/mantil-io/mantil) - Go specific framework for building serverless applications on AWS that enables you to focus on pure Go code while Mantil takes care of the infrastructure.
+
+## [2. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [voidy (⭐0)](https://github.com/rwejdling/voidy) - Borrows elements from [lambda (⭐172k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/lambda.zsh-theme) and [robbyrussell (⭐172k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/robbyrussell.zsh-theme) themes and adds the active [aws-vault (⭐8.3k)](https://github.com/99designs/aws-vault) profile to the right side of the prompt.
+*   [voidy (⭐0)](https://github.com/rwejdling/voidy) - Borrows elements from [lambda (⭐175k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/lambda.zsh-theme) and [robbyrussell (⭐175k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/robbyrussell.zsh-theme) themes and adds the active [aws-vault (⭐8.6k)](https://github.com/99designs/aws-vault) profile to the right side of the prompt.
 
-## [2. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
+## [3. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 
 ### Libraries / New Libraries
 
 *   [tinygp](https://github.com/dfm/tinygp) - The *tiniest* of Gaussian process libraries in JAX. <img src="https://img.shields.io/github/stars/dfm/tinygp?style=social" align="center">
 
-## [3. Awesome Elm](/content/sporto/awesome-elm/README.md)
+## [4. Awesome Elm](/content/sporto/awesome-elm/README.md)
 
 ### Learning Guides / Learning Videos
 
 *   [Elm The Complete Guide](https://www.udemy.com/course/elm-the-complete-guide/) - Video tutorial including Elm UI, Elm Review, responsive design, tests and more.
-
-## [4. Awesome Go](/content/avelino/awesome-go/README.md)
-
-### DevOps Tools / Libraries for creating HTTP middlewares
-
-*   [Mantil (⭐109)](https://github.com/mantil-io/mantil) - Go specific framework for building serverless applications on AWS that enables you to focus on pure Go code while Mantil takes care of the infrastructure.
-
-### Other Software / Libraries for creating HTTP middlewares
-
-*   [goblin](https://goblin.reaper.im) - Golang binaries in a curl, built by goblins.
 
 ## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -45,7 +41,7 @@
 ### Finite Elements
 
 *   [MFEM](https://mfem.org) - Free, lightweight, scalable C++ library for finite element methods.
-    (C++, BSD-3-Clause, [GitHub (⭐1.5k)](https://github.com/mfem/mfem))
+    (C++, BSD-3-Clause, [GitHub (⭐1.7k)](https://github.com/mfem/mfem))
 
 ## [7. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
@@ -62,7 +58,7 @@
 
 ### Editing Support / Diagnostics
 
-*   [bennypowers/nvim-regexplainer (⭐615)](https://github.com/bennypowers/nvim-regexplainer) - Explain the regular expression under the cursor.
+*   [bennypowers/nvim-regexplainer (⭐628)](https://github.com/bennypowers/nvim-regexplainer) - Explain the regular expression under the cursor.
 
 ## [9. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 

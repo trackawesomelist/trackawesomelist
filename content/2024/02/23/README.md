@@ -57,38 +57,38 @@
 
 ### Python / Financial Instruments and Pricing
 
-*   [rateslib (⭐112)](https://github.com/attack68/rateslib) - A fixed income library for pricing bonds and bond futures, and derivatives such as IRS, cross-currency and FX swaps.
+*   [rateslib (⭐179)](https://github.com/attack68/rateslib) - A fixed income library for pricing bonds and bond futures, and derivatives such as IRS, cross-currency and FX swaps.
 
 ### Python / Risk Analysis
 
-*   [empyrical-reloaded (⭐45)](https://github.com/stefan-jansen/empyrical-reloaded) - Common financial risk and performance metrics. [empyrical (⭐1.3k)](https://github.com/quantopian/empyrical) fork.
-*   [pyfolio-reloaded (⭐323)](https://github.com/stefan-jansen/pyfolio-reloaded) - Portfolio and risk analytics in Python. [pyfolio (⭐5.6k)](https://github.com/quantopian/pyfolio) fork.
+*   [empyrical-reloaded (⭐60)](https://github.com/stefan-jansen/empyrical-reloaded) - Common financial risk and performance metrics. [empyrical (⭐1.3k)](https://github.com/quantopian/empyrical) fork.
+*   [pyfolio-reloaded (⭐414)](https://github.com/stefan-jansen/pyfolio-reloaded) - Portfolio and risk analytics in Python. [pyfolio (⭐5.8k)](https://github.com/quantopian/pyfolio) fork.
 
 ### R / Financial Instruments and Pricing
 
-*   [RQuantLib (⭐118)](https://github.com/eddelbuettel/rquantlib) - RQuantLib connects GNU R with QuantLib.
+*   [RQuantLib (⭐122)](https://github.com/eddelbuettel/rquantlib) - RQuantLib connects GNU R with QuantLib.
 
 ### Java / FrameWorks
 
-*   [JQuantLib (⭐125)](https://github.com/frgomes/jquantlib) - JQuantLib is a free, open-source, comprehensive framework for quantitative finance, written in 100% Java.
+*   [JQuantLib (⭐128)](https://github.com/frgomes/jquantlib) - JQuantLib is a free, open-source, comprehensive framework for quantitative finance, written in 100% Java.
 
 ### Frameworks / Data Visualization
 
-*   [QuantLib (⭐5.1k)](https://github.com/lballabio/QuantLib) - The QuantLib project is aimed at providing a comprehensive software framework for quantitative finance.
-    *   QuantLibRisks - Fast risks with QuantLib in [Python](https://pypi.org/project/QuantLib-Risks/) and [C++ (⭐13)](https://github.com/auto-differentiation/QuantLib-Risks-Cpp)
-    *   XAD - Automatic Differentiation (AAD) Library in [Python](https://pypi.org/project/xad/) and [C++ (⭐229)](https://github.com/auto-differentiation/xad/)
-    *   [JQuantLib (⭐125)](https://github.com/frgomes/jquantlib) - Java port.
-    *   [RQuantLib (⭐118)](https://github.com/eddelbuettel/rquantlib) - R port.
+*   [QuantLib (⭐5.6k)](https://github.com/lballabio/QuantLib) - The QuantLib project is aimed at providing a comprehensive software framework for quantitative finance.
+    *   QuantLibRisks - Fast risks with QuantLib in [Python](https://pypi.org/project/QuantLib-Risks/) and [C++ (⭐20)](https://github.com/auto-differentiation/QuantLib-Risks-Cpp)
+    *   XAD - Automatic Differentiation (AAD) Library in [Python](https://pypi.org/project/xad/) and [C++ (⭐351)](https://github.com/auto-differentiation/xad/)
+    *   [JQuantLib (⭐128)](https://github.com/frgomes/jquantlib) - Java port.
+    *   [RQuantLib (⭐122)](https://github.com/eddelbuettel/rquantlib) - R port.
     *   [QuantLibAddin](https://www.quantlib.org/quantlibaddin/) - Excel support.
     *   [QuantLibXL](https://www.quantlib.org/quantlibxl/) - Excel support.
-    *   [QLNet (⭐380)](https://github.com/amaggiulli/qlnet) - .Net port.
-    *   [PyQL (⭐966)](https://github.com/enthought/pyql) - Python port.
-    *   [QuantLib.jl (⭐136)](https://github.com/pazzo83/QuantLib.jl) - Julia port.
+    *   [QLNet (⭐390)](https://github.com/amaggiulli/qlnet) - .Net port.
+    *   [PyQL (⭐1k)](https://github.com/enthought/pyql) - Python port.
+    *   [QuantLib.jl (⭐139)](https://github.com/pazzo83/QuantLib.jl) - Julia port.
     *   [QuantLib-Python Documentation](https://quantlib-python-docs.readthedocs.io/) - Documentation for the Python bindings for the QuantLib library
 
 ### Reproducing Works, Training & Books / Data Visualization
 
-*   [book\_irds3 (⭐47)](https://github.com/attack68/book_irds3) - Code repository for Pricing and Trading Interest Rate Derivatives.
+*   [book\_irds3 (⭐66)](https://github.com/attack68/book_irds3) - Code repository for Pricing and Trading Interest Rate Derivatives.
 
 ## [5. Awesome Polars](/content/ddotta/awesome-polars/README.md)
 
@@ -100,7 +100,7 @@
 
 ### Libraries/Packages/Scripts / Polars plugins
 
-*   [polars-xdt (⭐175)](https://github.com/pola-rs/polars-xdt) - Polars plugin with extra-datetime-related functionalities by [@MarcoGorelli](https://github.com/MarcoGorelli).
+*   [polars-xdt (⭐193)](https://github.com/pola-rs/polars-xdt) - Polars plugin with extra-datetime-related functionalities by [@MarcoGorelli](https://github.com/MarcoGorelli).
 
 ### Resources / Tutorials & workshops
 
@@ -137,7 +137,7 @@
 
 ### Domain Specific Language / DSL Program Synthesis
 
-*   [Grammar Prompting for Domain-Specific Language Generation with Large Language Models](https://proceedings.neurips.cc/paper_files/paper/2023/hash/cd40d0d65bfebb894ccc9ea822b47fa8-Abstract-Conference.html) - ***NeurIPS'23***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=11694070042468483715)]. Grammar prompting is a simple approach to enable LLMs to use external knowledge and domain-specific constraints expressed through a grammar in Backus--Naur Form (BNF) during in-context learning.
+*   [Grammar Prompting for Domain-Specific Language Generation with Large Language Models](https://proceedings.neurips.cc/paper_files/paper/2023/hash/cd40d0d65bfebb894ccc9ea822b47fa8-Abstract-Conference.html) - ***NeurIPS'23***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=11694070042468483715)]. Grammar prompting is a simple approach to enable LLMs to use external knowledge and domain-specific constraints expressed through a grammar in Backus--Naur Form (BNF) during in-context learning. Grammar prompting augments each demonstration example with a specialized grammar that is minimally sufficient for generating the particular output example, where the specialized grammar is a subset of the full DSL grammar. For inference, the LLM first predicts a BNF grammar given a test input, and then generates the output according to the rules of the grammar. Experiments demonstrate that grammar prompting can enable LLMs to perform competitively on a diverse set of DSL generation tasks, including semantic parsing (SMCalFlow, Overnight, GeoQuery), PDDL planning, and SMILES-based molecule generation.
 
 ### System 1 & System 2 / Neural-Symbolic AI
 
@@ -154,7 +154,7 @@
 
 ## [7. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
-### Domain and IP Research / Telegram
+### Domain and IP Research / Steam
 
 *   [TinyScan](https://www.tiny-scan.com) - Another powerful URL scan tool that provides comprehensive information about any given URL. Get insights into IP address, location, screenshots, technology stack, performance metrics, and more.
 
@@ -162,14 +162,14 @@
 
 ### Driver crates / WIP
 
-*   [ad57xx (⭐0)](https://github.com/deltronix/ad57xx) - SPI - Quad and dual channel DAC - ![crates.io](https://img.shields.io/crates/v/ad57xx.svg)
+*   [ad57xx (⭐0)](https://github.com/deltronix/ad57xx) - SPI - Quad and dual channel DAC - [![crates.io](https://img.shields.io/crates/v/ad57xx.svg)](https://crates.io/crates/ad57xx)
 
 ## [9. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
 
 ### Network / Messaging
 
 *   [skunkwerks/zamqp (⭐4)](https://github.com/skunkwerks/zamqp) - AMQP client, based on rabbitmq-c.
-*   [nine-lives-later/zzmq (⭐14)](https://github.com/nine-lives-later/zzmq) - ZeroMQ library, based on CZMQ.
+*   [nine-lives-later/zzmq (⭐28)](https://github.com/nine-lives-later/zzmq) - ZeroMQ library, based on CZMQ.
 
 ## [10. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
@@ -193,9 +193,9 @@
 
 ### CLI
 
-*   [args (⭐1.4k)](https://github.com/taywee/args) - A simple header-only C++ argument parser library. \[MIT]
-*   [cxxopts (⭐4.1k)](https://github.com/jarro2783/cxxopts) - Lightweight C++ command line option parser. \[MIT]
-*   [TermOx (⭐656)](https://github.com/a-n-t-h-o-n-y/TermOx) - C++17 Terminal User Interface(TUI) Library. \[MIT]
+*   [args (⭐1.5k)](https://github.com/taywee/args) - A simple header-only C++ argument parser library. \[MIT]
+*   [cxxopts (⭐4.3k)](https://github.com/jarro2783/cxxopts) - Lightweight C++ command line option parser. \[MIT]
+*   [TermOx (⭐692)](https://github.com/a-n-t-h-o-n-y/TermOx) - C++17 Terminal User Interface(TUI) Library. \[MIT]
 
 ## [13. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
@@ -214,36 +214,36 @@
 ### ORM/ODM Extensions
 
 *   Auditing and Versioning
-    *   [active\_snapshot (⭐105)](https://github.com/westonganger/active_snapshot) - Simplified snapshots and restoration for ActiveRecord models and associations with a transparent white-box implementation
+    *   [active\_snapshot (⭐130)](https://github.com/westonganger/active_snapshot) - Simplified snapshots and restoration for ActiveRecord models and associations with a transparent white-box implementation
     *   [acts\_as\_archival (⭐128)](https://github.com/expectedbehavior/acts_as_archival) - ActiveRecord plugin for atomic object tree archiving.
     *   [ActsAsParanoid (⭐1.5k)](https://github.com/ActsAsParanoid/acts_as_paranoid) - ActiveRecord plugin allowing you to hide and restore records without actually deleting them.
     *   [Audited (⭐3.4k)](https://github.com/collectiveidea/audited) - Audited is an ORM extension for ActiveRecord & MongoMapper that logs all changes to your models.
-    *   [Destroyed At (⭐350)](https://github.com/dockyard/ruby-destroyed_at) - Allows you to "destroy" an object without deleting the record or associated records.
-    *   [Discard (⭐2.1k)](https://github.com/jhawthorn/discard) - A simple ActiveRecord mixin to add conventions for flagging records as discarded.
+    *   [Destroyed At (⭐349)](https://github.com/dockyard/ruby-destroyed_at) - Allows you to "destroy" an object without deleting the record or associated records.
+    *   [Discard (⭐2.2k)](https://github.com/jhawthorn/discard) - A simple ActiveRecord mixin to add conventions for flagging records as discarded.
     *   [Logidze (⭐1.6k)](https://github.com/palkan/logidze) - Database changes log for Rails.
     *   [marginalia (⭐1.7k)](https://github.com/basecamp/marginalia) - Attach comments to your ActiveRecord queries. By default, it adds the application, controller, and action names as a comment at the end of each query.
-    *   [mongoid-history (⭐391)](https://github.com/aq1018/mongoid-history) - Multi-user non-linear history tracking, auditing, undo, redo for mongoid.
-    *   [PaperTrail (⭐6.7k)](https://github.com/airblade/paper_trail) - Track changes to your ActiveRecord models' data for auditing or versioning.
+    *   [mongoid-history (⭐393)](https://github.com/aq1018/mongoid-history) - Multi-user non-linear history tracking, auditing, undo, redo for mongoid.
+    *   [PaperTrail (⭐6.8k)](https://github.com/airblade/paper_trail) - Track changes to your ActiveRecord models' data for auditing or versioning.
     *   [Paranoia (⭐2.9k)](https://github.com/radar/paranoia) - A re-implementation of acts\_as\_paranoid for Rails 3 and 4, using much, much, much less code.
-    *   [PermenantRecords (⭐271)](https://github.com/JackDanger/permanent_records) - Soft-delete your ActiveRecord records, like an explicit version of ActsAsParanoid.
+    *   [PermenantRecords (⭐272)](https://github.com/JackDanger/permanent_records) - Soft-delete your ActiveRecord records, like an explicit version of ActsAsParanoid.
 
 ## [14. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Bot Building
 
-*   [go-tg (⭐91)](https://github.com/mr-linch/go-tg) - Generated from official docs Go client library for accessing Telegram Bot API, with batteries for building complex bots included.
+*   [go-tg (⭐109)](https://github.com/mr-linch/go-tg) - Generated from official docs Go client library for accessing Telegram Bot API, with batteries for building complex bots included.
 
 ### Build Automation
 
-*   [gob (⭐8)](https://github.com/kcmvp/gob) - [Gradle](https://docs.gradle.org/)/[Maven](https://maven.apache.org/) like build tool for Go projects.
+*   [gob (⭐12)](https://github.com/kcmvp/gob) - [Gradle](https://docs.gradle.org/)/[Maven](https://maven.apache.org/) like build tool for Go projects.
 
 ### Configuration
 
-*   [konf (⭐221)](https://github.com/nil-go/konf) - The simplest API for reading/watching config from file, env, flag and clouds (e.g. AWS, Azure, GCP).
+*   [konf (⭐271)](https://github.com/nil-go/konf) - The simplest API for reading/watching config from file, env, flag and clouds (e.g. AWS, Azure, GCP).
 
 ### Interfaces to Multiple Backends
 
-*   [dynamo (⭐18)](https://github.com/fogfish/dynamo) - A simple key-value abstraction to store algebraic and linked-data data types at AWS storage services: AWS DynamoDB and AWS S3.
+*   [dynamo (⭐19)](https://github.com/fogfish/dynamo) - A simple key-value abstraction to store algebraic and linked-data data types at AWS storage services: AWS DynamoDB and AWS S3.
 
 ### NoSQL Database Drivers
 
@@ -251,23 +251,19 @@
 
 ### Distributed Systems
 
-*   [Tarmac (⭐325)](https://github.com/tarmac-project/tarmac) - Framework for writing functions, microservices, or monoliths with WebAssembly
-
-### Job Scheduler
-
-*   [go-dag (⭐18)](https://github.com/rhosocial/go-dag) - A framework developed in Go that manages the execution of workflows described by directed acyclic graphs.
+*   [Tarmac (⭐331)](https://github.com/tarmac-project/tarmac) - Framework for writing functions, microservices, or monoliths with WebAssembly
 
 ### Dependency Injection
 
-*   [kod (⭐128)](https://github.com/go-kod/kod) - A generics based dependency injection framework for Go.
+*   [kod (⭐177)](https://github.com/go-kod/kod) - A generics based dependency injection framework for Go.
 
 ### Strings
 
-*   [bexp (⭐18)](https://github.com/happy-sdk/happy/tree/main/pkg/strings/bexp) - Go implementation of Brace Expansion mechanism to generate arbitrary strings.
+*   [bexp (⭐21)](https://github.com/happy-sdk/happy/tree/main/pkg/strings/bexp) - Go implementation of Brace Expansion mechanism to generate arbitrary strings.
 
 ### Security
 
-*   [encid (⭐2)](https://github.com/bobg/encid) - Encode and decode encrypted integer IDs.
+*   [encid (⭐3)](https://github.com/bobg/encid) - Encode and decode encrypted integer IDs.
 
 ### Template Engines
 
@@ -275,26 +271,30 @@
 
 ### Web Frameworks
 
-*   [Yokai (⭐350)](https://github.com/ankorstore/yokai) - Simple, modular, and observable Go framework for backend applications.
+*   [Yokai (⭐579)](https://github.com/ankorstore/yokai) - Simple, modular, and observable Go framework for backend applications.
+
+### Workflow Frameworks / Libraries for creating HTTP middlewares
+
+*   [go-dag (⭐25)](https://github.com/rhosocial/go-dag) - A framework developed in Go that manages the execution of workflows described by directed acyclic graphs.
 
 ## [15. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Database
 
-*   [ParadeDB (⭐5.3k)](https://github.com/paradedb/paradedb/) - ParadeDB is an Elasticsearch alternative built on Postgres, designed for real-time search and analytics.
-*   [USearch (⭐2.1k)](https://github.com/unum-cloud/usearch) - Similarity Search Engine for Vectors and Strings [![crates.io](https://img.shields.io/crates/v/usearch.svg)](https://crates.io/crates/usearch)
+*   [ParadeDB (⭐6.5k)](https://github.com/paradedb/paradedb/) - ParadeDB is an Elasticsearch alternative built on Postgres, designed for real-time search and analytics.
+*   [USearch (⭐2.4k)](https://github.com/unum-cloud/usearch) - Similarity Search Engine for Vectors and Strings [![crates.io](https://img.shields.io/crates/v/usearch.svg)](https://crates.io/crates/usearch)
 
 ### Applications / Text processing
 
-*   [ashvardanian/stringzilla (⭐2k)](https://github.com/ashvardanian/StringZilla) - SIMD-accelerated string search, sort, edit distances, alignments, and generators for x86 AVX2 & AVX-512, and Arm NEON [![crates.io](https://img.shields.io/crates/v/stringzilla.svg)](https://crates.io/crates/stringzilla)
+*   [ashvardanian/stringzilla (⭐2.4k)](https://github.com/ashvardanian/StringZilla) - SIMD-accelerated string search, sort, edit distances, alignments, and generators for x86 AVX2 & AVX-512, and Arm NEON [![crates.io](https://img.shields.io/crates/v/stringzilla.svg)](https://crates.io/crates/stringzilla)
 
 ### Libraries / Data processing
 
-*   [pg\_analytics (⭐5.3k)](https://github.com/paradedb/paradedb/tree/dev/pg_analytics) - PostgreSQL extension that accelerates analytical query processing inside Postgres to a performance level comparable to dedicated OLAP databases.
+*   [pg\_analytics (⭐6.5k)](https://github.com/paradedb/paradedb/tree/dev/pg_analytics) - PostgreSQL extension that accelerates analytical query processing inside Postgres to a performance level comparable to dedicated OLAP databases.
 
 ### Libraries / Data structures
 
-*   [ashvardanian/simsimd (⭐853)](https://github.com/ashvardanian/SimSIMD) - SIMD-accelerated vector distances and similarity functions for x86 AVX2 & AVX-512, and Arm NEON [![crates.io](https://img.shields.io/crates/v/simsimd.svg)](https://crates.io/crates/simsimd)
+*   [ashvardanian/simsimd (⭐1.2k)](https://github.com/ashvardanian/SimSIMD) - SIMD-accelerated vector distances and similarity functions for x86 AVX2 & AVX-512, and Arm NEON [![crates.io](https://img.shields.io/crates/v/simsimd.svg)](https://crates.io/crates/simsimd)
 
 ## [16. Awesome Python](/content/vinta/awesome-python/README.md)
 
@@ -578,28 +578,28 @@
 
 ### [Capgo plugins](https://capgo.app/)
 
-*   [Native Purchases (⭐4)](https://github.com/Cap-go/native-purchases) - Manage IAP on capacitor with latest libs Android and IOS.
+*   [Native Purchases (⭐10)](https://github.com/Cap-go/native-purchases) - Manage IAP on capacitor with latest libs Android and IOS.
 
 ### Other plugins
 
-*   [capacitor-plugin-camera (⭐6)](https://github.com/xulihang/capacitor-plugin-camera) - A camera plugin that is designed to make it easy to perform image processing tasks like barcode reading and OCR. We can use reflection to get the camera frames in another plugin so that it can enjoy native performance.
+*   [capacitor-plugin-camera (⭐12)](https://github.com/xulihang/capacitor-plugin-camera) - A camera plugin that is designed to make it easy to perform image processing tasks like barcode reading and OCR. We can use reflection to get the camera frames in another plugin so that it can enjoy native performance.
 *   [Bing Translator (⭐2)](https://github.com/sabereen/capacitor-bing-translator) - A simple and **free** API for using [Bing Translator](https://bing.com/translator).
 
 ## [18. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
 ### Command-Line Tools / Discovery
 
-*   [nix-output-monitor (⭐806)](https://github.com/maralorn/nix-output-monitor) - A tool to produce useful graphs and statistics when building derivations.
+*   [nix-output-monitor (⭐979)](https://github.com/maralorn/nix-output-monitor) - A tool to produce useful graphs and statistics when building derivations.
 
 ## [19. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### API
 
-*   [FastEndpoints (⭐4.4k)](https://github.com/FastEndpoints/FastEndpoints) - High-performance middleground between classic ASP.NET Core API controllers and Minimal APIs. Using a REPR ([Request-Endpoint-Response](https://deviq.com/design-patterns/repr-design-pattern)) pattern, this library eliminates the boilerplate and monolithic feel of controllers by improving colocation of code.
+*   [FastEndpoints (⭐4.9k)](https://github.com/FastEndpoints/FastEndpoints) - High-performance middleground between classic ASP.NET Core API controllers and Minimal APIs. Using a REPR ([Request-Endpoint-Response](https://deviq.com/design-patterns/repr-design-pattern)) pattern, this library eliminates the boilerplate and monolithic feel of controllers by improving colocation of code.
 
 ### PDF
 
-*   [QPdfSharp (⭐13)](https://github.com/svengeance/QPdfSharp) - A C# wrapper written around QPdf to allow for easy PDF manipulation that is tested for both linux and windows. QPdf is one of the only libraries capable of PDF linearization, and this wrapper ensures you keep up to date with the underlying improvements.
+*   [QPdfSharp (⭐18)](https://github.com/svengeance/QPdfSharp) - A C# wrapper written around QPdf to allow for easy PDF manipulation that is tested for both linux and windows. QPdf is one of the only libraries capable of PDF linearization, and this wrapper ensures you keep up to date with the underlying improvements.
 
 ## [20. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
@@ -609,13 +609,13 @@
 
 ### Libraries/Frameworks / Data Science
 
-*   [sigbla/sigbla-app (⭐19)](https://github.com/sigbla/sigbla-app) - Sigbla is a framework for working with data in tables, supporting various data types, reactive programming and events, user input, charts, and more
+*   [sigbla/sigbla-app (⭐24)](https://github.com/sigbla/sigbla-app) - Sigbla is a framework for working with data in tables, supporting various data types, reactive programming and events, user input, charts, and more
 
 ## [21. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/README.md)
 
 ### Tools / Web Tools
 
-*   [Bellingcat OpenStreetMap search](https://osm-search.bellingcat.com/) - Web based tool to find geolocation leads by searching for proximate features on OpenStreetMap. ([Source Code (⭐84)](https://github.com/bellingcat/osm-search) / [Article](https://www.bellingcat.com/resources/how-tos/2023/05/08/finding-geolocation-leads-with-bellingcats-openstreetmap-search-tool/))
+*   [Bellingcat OpenStreetMap search](https://osm-search.bellingcat.com/) - Web based tool to find geolocation leads by searching for proximate features on OpenStreetMap. ([Source Code (⭐153)](https://github.com/bellingcat/osm-search) / [Article](https://www.bellingcat.com/resources/how-tos/2023/05/08/finding-geolocation-leads-with-bellingcats-openstreetmap-search-tool/))
 
 ### Additional Resources / Websites
 
@@ -668,7 +668,7 @@
 
 *   [Retrieval-Augmented Generation for Large Language Models: A Survey](https://arxiv.org/abs/2312.10997)
 
-### Inbox: Speech-to-text (STT) and spoken content analysis / Deforum
+### Speech-to-text (STT) and spoken content analysis / Deforum
 
 *   [New study on coding behavior raises questions about impact of AI on software development – GeekWire](https://www.geekwire.com/2024/new-study-on-coding-behavior-raises-questions-about-impact-of-ai-on-software-development/)
 
@@ -677,7 +677,7 @@
 ### Frameworks • Libraries • Ecosystems
 
 *   [Godot](https://godotengine.org) \[Cross-platform] - Open source game engine, that can also be used for all sorts of things.
-*   [Fragment.tools (⭐806)](https://github.com/raphaelameaume/fragment) \[Cross-platform] - A web development environment for creative coding.
+*   [Fragment.tools (⭐838)](https://github.com/raphaelameaume/fragment) \[Cross-platform] - A web development environment for creative coding.
 
 ### Visual Programming Languages
 
@@ -707,7 +707,7 @@
 
 *   [Shaderific GLSL](https://shaderific.com/glsl.html) - OpenGL ES shading language reference.
 *   [Procedural Patterns And Noises](http://www.neilblevins.com/art_lessons/procedural_noise/procedural_noise.html) - Collection of procedural patterns and procedural noises.
-*   [Morphogenesis (⭐2k)](https://github.com/jasonwebb/morphogenesis-resources) - Exploration of how shapes, forms, and patterns emerge in nature.
+*   [Morphogenesis (⭐2.1k)](https://github.com/jasonwebb/morphogenesis-resources) - Exploration of how shapes, forms, and patterns emerge in nature.
 
 ### Math / Other
 
@@ -727,7 +727,7 @@
 
 ### Software / Archiving and Digital Preservation (DP)
 
-*   [bitmagnet](https://bitmagnet.io) - A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration. ([Source Code (⭐2.3k)](https://github.com/bitmagnet-io/bitmagnet)) `MIT` `Go/Docker`
+*   [bitmagnet](https://bitmagnet.io) - A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration. ([Source Code (⭐2.6k)](https://github.com/bitmagnet-io/bitmagnet)) `MIT` `Go/Docker`
 
 ## [27. Awesome Product Management](/content/dend/awesome-product-management/README.md)
 
@@ -741,7 +741,7 @@
 
 ### Adapters / Server-side
 
-*   [Grails (⭐7)](https://github.com/matrei/grails-inertia-plugin)
+*   [Grails (⭐8)](https://github.com/matrei/grails-inertia-plugin)
 
 ### Resources / Examples
 
@@ -757,7 +757,7 @@
 
 ### Media
 
-*   [Flatfile](https://flatfile.com/) - Programmatically import data from files so it's API-ready.
+*   [Flatfile](https://flatfile.com/) - Programmatically import data from files so it's API-ready. [![featured on launchweek.dev](https://img.shields.io/badge/featured-0D1117.svg?style=flat-square\&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMzYwIiBoZWlnaHQ9IjM2MCIgdmlld0JveD0iMCAwIDM2MCAzNjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+IDxyZWN0IHdpZHRoPSI2MCIgaGVpZ2h0PSIzMDAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjYwIiB5PSIzMDAiIHdpZHRoPSIxMjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjI0MCIgeT0iMzAwIiB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjMwMCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjMwMCIgZmlsbD0id2hpdGUiLz4gPHJlY3QgeD0iMTgwIiB3aWR0aD0iNjAiIGhlaWdodD0iMzAwIiBmaWxsPSJ3aGl0ZSIvPiA8L3N2Zz4=)](https://launchweek.dev)
 
 ---
 

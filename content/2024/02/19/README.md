@@ -14,13 +14,13 @@
 
 ### Editing Support / Diagnostics
 
-*   [AckslD/nvim-trevJ.lua (⭐165)](https://github.com/AckslD/nvim-trevJ.lua) - Does the opposite of join-line (J) for arguments, powered by Tree-sitter.
+*   [AckslD/nvim-trevJ.lua (⭐174)](https://github.com/AckslD/nvim-trevJ.lua) - Does the opposite of join-line (J) for arguments, powered by Tree-sitter.
 
 ## [2. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
-### Plugins and scripts / Various Godot versions
+### Plugins and scripts / Godot 4
 
-*   [GdUnit4 (⭐518)](https://github.com/MikeSchulze/gdUnit4) - Godot Unit Testing Framework (Godot 4.x).
+*   [GdUnit4 (⭐625)](https://github.com/MikeSchulze/gdUnit4) - Godot Unit Testing Framework.
 
 ## [3. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 

@@ -16,7 +16,7 @@
 
 ### Fun / Terraform
 
-*   [Add equivalent of a like button in your README (⭐1)](https://github.com/ariary/Readme-Like-Button) - Visualize community approval on some part of your readme (can be used as a poll).
+*   [Add equivalent of a like button in your README (⭐9)](https://github.com/ariary/Readme-Like-Button) - Visualize community approval on some part of your readme (can be used as a poll).
 
 ## [3. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 
@@ -97,7 +97,7 @@
 
 ### Code Generators / Text-Based User Interfaces
 
-*   [Record-Builder (⭐674)](https://github.com/Randgalt/record-builder) - Companion builder class, withers and templates for Java records.
+*   [Record-Builder (⭐748)](https://github.com/Randgalt/record-builder) - Companion builder class, withers and templates for Java records.
 
 ### People / Twitter
 
@@ -117,7 +117,7 @@
 
 ### Distributed Testing
 
-*   [Distributed Gatling (⭐100)](https://github.com/Abiy/distGatling) - Solution to run Gatling simulation tests in a distributed/cluster environment.
+*   [Distributed Gatling (⭐102)](https://github.com/Abiy/distGatling) - Solution to run Gatling simulation tests in a distributed/cluster environment.
 
 ### Tools / Plugins
 
@@ -125,7 +125,7 @@
 
 ### Tools / Reporting
 
-*   [gatling-report (⭐117)](https://github.com/nuxeo/gatling-report) - Parse Gatling simulation.log files to output CSV stats or build HTML reports with Plotly charts.
+*   [gatling-report (⭐118)](https://github.com/nuxeo/gatling-report) - Parse Gatling simulation.log files to output CSV stats or build HTML reports with Plotly charts.
 
 ## [13. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
@@ -196,7 +196,7 @@
   CORS: Unknown
 
 
-- API: [Sakura CardCaptor (⭐57)](https://github.com/JessVel/sakura-card-captor-api)
+- API: [Sakura CardCaptor (⭐59)](https://github.com/JessVel/sakura-card-captor-api)
 
   Description: Sakura CardCaptor Cards Information
 
@@ -365,7 +365,7 @@
 
 ### Open Source Projects
 
-- API: [GitHub ReadMe Stats (⭐67k)](https://github.com/anuraghazra/github-readme-stats)
+- API: [GitHub ReadMe Stats (⭐70k)](https://github.com/anuraghazra/github-readme-stats)
 
   Description: Add dynamically generated statistics to your GitHub profile ReadMe
 

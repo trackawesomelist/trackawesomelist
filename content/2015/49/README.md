@@ -17,7 +17,7 @@
 
 ### Files and Directories / Deleting, Copying, and Renaming
 
-*   [del-cli (⭐304)](https://github.com/sindresorhus/del-cli) - Delete files and folders.
+*   [del-cli (⭐315)](https://github.com/sindresorhus/del-cli) - Delete files and folders.
 
 ## [3. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
 
@@ -75,7 +75,7 @@
 
 ### Testing / Barcode
 
-*   [Erik (⭐590)](https://github.com/phimage/Erik) - An headless browser to access and manipulate webpages using javascript allowing to run functional tests.
+*   [Erik (⭐599)](https://github.com/phimage/Erik) - An headless browser to access and manipulate webpages using javascript allowing to run functional tests.
 
 ## [11. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
 
@@ -316,11 +316,11 @@
 
 ### Application Frameworks
 
-*   [peasy (⭐508)](https://github.com/peasy/Peasy.NET) - Peasy is a middle tier framework that offers an easy to use and flexible rules engine and was designed to address common challenges such as concurrency handling, transactional support, fault tolerance, threading, scalability, async and multiple client support, and easy testability, all without a huge learning curve!
+*   [peasy (⭐512)](https://github.com/peasy/Peasy.NET) - Peasy is a middle tier framework that offers an easy to use and flexible rules engine and was designed to address common challenges such as concurrency handling, transactional support, fault tolerance, threading, scalability, async and multiple client support, and easy testability, all without a huge learning curve!
 
 ### Database Drivers
 
-*   [RethinkDb.Driver (⭐383)](https://github.com/bchavez/RethinkDb.Driver/) - A RethinkDB database driver in C# striving for 100% ReQL API compatibility and completeness.
+*   [RethinkDb.Driver (⭐385)](https://github.com/bchavez/RethinkDb.Driver/) - A RethinkDB database driver in C# striving for 100% ReQL API compatibility and completeness.
 
 ### IoC
 
@@ -336,12 +336,12 @@
 
 ### Testing
 
-*   [Bogus (⭐8.6k)](https://github.com/bchavez/Bogus) - A simple and sane fake data generator for C#. Based on and ported from the famed faker.js.
+*   [Bogus (⭐9k)](https://github.com/bchavez/Bogus) - A simple and sane fake data generator for C#. Based on and ported from the famed faker.js.
 *   [FsCheck (⭐1.2k)](https://github.com/fscheck/FsCheck) - Random Testing for .NET.
 
 ### Source Generator
 
-*   [C# Algorithms, Data Structures (⭐5.9k)](https://github.com/aalhour/C-Sharp-Algorithms) - A list of algorithms and data structures implementations.
+*   [C# Algorithms, Data Structures (⭐6k)](https://github.com/aalhour/C-Sharp-Algorithms) - A list of algorithms and data structures implementations.
 
 ## [35. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
 
@@ -369,7 +369,7 @@
 
 ### Database
 
-*   [LMDB++ (⭐269)](https://github.com/bendiken/lmdbxx) - C++11 wrapper for the LMDB embedded database library. \[PublicDomain]
+*   [LMDB++ (⭐274)](https://github.com/bendiken/lmdbxx) - C++11 wrapper for the LMDB embedded database library. \[PublicDomain]
 
 ## [38. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
 

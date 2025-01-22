@@ -40,7 +40,7 @@
 
 ### Development tools / Web Servers
 
-*   [ptags (⭐122)](https://github.com/dalance/ptags) - A parallel universal-ctags wrapper for git repository
+*   [ptags (⭐127)](https://github.com/dalance/ptags) - A parallel universal-ctags wrapper for git repository
 
 ## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -96,7 +96,7 @@
 
 ### CMS
 
-*   [Fae (⭐846)](https://github.com/wearefine/fae) - Flexible, open source, Rails CMS engine.
+*   [Fae (⭐849)](https://github.com/wearefine/fae) - Flexible, open source, Rails CMS engine.
 
 ---
 

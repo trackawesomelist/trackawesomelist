@@ -20,7 +20,7 @@
 
 ### Game Disassemblies / Syntax highlighting packages
 
-*   [Final Fantasy Adventure (⭐15)](https://github.com/daid/FFA-disassembly)
+*   [Final Fantasy Adventure (⭐17)](https://github.com/daid/FFA-disassembly)
 
 ## [3. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
@@ -33,7 +33,7 @@
 
 ### Tutorials / Getting Started
 
-*   [Scene2D.UI From the Ground Up (⭐414)](https://github.com/raeleus/skin-composer/wiki/From-the-Ground-Up:-Scene2D.UI-Tutorials) - Covers the basics of UI design in Scene2D, libGDX's premiere scene graph and layout toolkit.
+*   [Scene2D.UI From the Ground Up (⭐435)](https://github.com/raeleus/skin-composer/wiki/From-the-Ground-Up:-Scene2D.UI-Tutorials) - Covers the basics of UI design in Scene2D, libGDX's premiere scene graph and layout toolkit.
 
 ### Tutorials / Advanced
 
@@ -71,17 +71,17 @@
 
 ### zgenom
 
-*   [zsh-quickstart-kit (⭐765)](https://github.com/unixorn/zsh-quickstart-kit) - A simple quickstart for using ZSH with [zgenom (⭐353)](https://github.com/jandamm/zgenom). This automatically configures ZSH to use [zgenom (⭐353)](https://github.com/jandamm/zgenom) to load a curated (but easily customizable) collection of plugins and periodically automatically update itself, the plugins, and the quickstart kit itself.
+*   [zsh-quickstart-kit (⭐801)](https://github.com/unixorn/zsh-quickstart-kit) - A simple quickstart for using ZSH with [zgenom (⭐374)](https://github.com/jandamm/zgenom). This automatically configures ZSH to use [zgenom (⭐374)](https://github.com/jandamm/zgenom) to load a curated (but easily customizable) collection of plugins and periodically automatically update itself, the plugins, and the quickstart kit itself.
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [git-worktrees (⭐12)](https://github.com/egyptianbman/zsh-git-worktrees) - Makes `git` worktrees more functional. Includes tab completions.
+*   [git-worktrees (⭐14)](https://github.com/egyptianbman/zsh-git-worktrees) - Makes `git` worktrees more functional. Includes tab completions.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [bref (⭐3)](https://github.com/mpostaire/bref-zsh-prompt) - A simple prompt. It includes decorators to display `git` status asynchronously, a notification if the `ssh` session is remote, the battery level and the number of background jobs.
 *   [winline (⭐1)](https://github.com/khuei/winline) - Async version of Greg Hurrell's [prompt (⭐1.1k)](https://github.com/wincent/wincent/blob/master/aspects/dotfiles/files/.zshrc). Includes decorators for `git` status, duration of last command, current directory, nested shells, root status.
-*   [zen (⭐15)](https://github.com/cybardev/zen.zsh) - A minimalist theme for `*NIX` systems. Includes decorators for execution time of last command run, curreent directory and vcs status information.
+*   [zen (⭐23)](https://github.com/cybardev/zen.zsh) - A minimalist theme for `*NIX` systems. Includes decorators for execution time of last command run, curreent directory and vcs status information.
 *   [zshify (⭐2)](https://github.com/nrjdalal/zshify) - A minimalistic, one command installation to customize your prompt. Requires [npx](https://docs.npmjs.com/getting-started/installing-npm-packages-locally).
 
 ## [7. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)

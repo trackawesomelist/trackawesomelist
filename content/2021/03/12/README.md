@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 12, 2021
 
-14 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -35,7 +35,7 @@
 
 ### Text & Rich Content / Image Picker
 
-*   [Code Field (⭐230)](https://github.com/BertrandBev/code_field) - Customizable code field widget supporting syntax highlighting by [Bertrand Bevillard](https://github.com/BertrandBev)
+*   [Code Field (⭐232)](https://github.com/BertrandBev/code_field) - Customizable code field widget supporting syntax highlighting by [Bertrand Bevillard](https://github.com/BertrandBev)
 
 ## [5. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
@@ -47,7 +47,7 @@
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [Gokapi (⭐1.2k)](https://github.com/Forceu/gokapi) - Lightweight server to share files, which expire after a set amount of downloads or days. Similar to the discontinued Firefox Send, with the difference that only the admin is allowed to upload files. `GPL-3.0` `Go/Docker`
+*   [Gokapi (⭐1.8k)](https://github.com/Forceu/gokapi) - Lightweight server to share files, which expire after a set amount of downloads or days. Similar to the discontinued Firefox Send, with the difference that only the admin is allowed to upload files. `GPL-3.0` `Go/Docker`
 
 ## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -65,29 +65,23 @@
 
 *   [react-darkreader (⭐277)](https://github.com/Turkyden/react-darkreader) - A React Hook for adding a dark / night mode to your site inspired by darkreader.
 
-## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / UI Utilities
-
-*   [vue-typical (⭐174)](https://github.com/Turkyden/vue-typical) 🐡 Vue Animated typing in \~400 bytes of JavaScript.
-
-## [10. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/README.md)
+## [9. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/README.md)
 
 ### Keyboard / Text
 
-*   [Kawa (⭐1.3k)](https://github.com/hatashiro/kawa) - Better input source switcher for macOS.  ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
+*   [Kawa (⭐1.4k)](https://github.com/hatashiro/kawa) - Better input source switcher for macOS.  ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
 
 ### Menubar / Text
 
-*   [xbar (⭐17k)](https://github.com/matryer/xbar) - Put the output from any script or program into your macOS Menu Bar.  ![objective\_c\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/objective-c-16.png "Objective-C language.")
+*   [xbar (⭐18k)](https://github.com/matryer/xbar) - Put the output from any script or program into your macOS Menu Bar.  ![objective\_c\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/objective-c-16.png "Objective-C language.")
 
-## [11. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+## [10. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 
 ### Database
 
 *   [*Practical Core Data: A modern guide to the Core Data framework* by Donny Wals](https://gumroad.com/l/practical-core-data)
 
-## [12. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/README.md)
+## [11. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/README.md)
 
 ### Table of Contents / Plugins for Salesforce
 
@@ -98,7 +92,7 @@
     *   [xysfdx (⭐7)](https://github.com/exiahuang/xysfdx) is a Visual Studio Code extension for Salesforce SFDX Development.
     *   [Salesforce Snippets](https://marketplace.visualstudio.com/items?itemName=ajinkya-hingne.salesforce-snippets) is a VS Code Extension which provides useful Salesforce snippets to speed up writing code for Salesforce platform
 
-## [13. Awesome Social Enterprise](/content/RayBB/awesome-social-enterprise/README.md)
+## [12. Awesome Social Enterprise](/content/RayBB/awesome-social-enterprise/README.md)
 
 ### News 📰 / Finding Articles
 
@@ -108,7 +102,7 @@
 
 *   [The Tech Matters Podcast](https://techmatters.org/introducing-the-tech-matters-podcast/) - Talking about social enterprise structure and interviewing folks running them. Hosted by social entreprenur and engineer [Jim Fruchterman](https://en.wikipedia.org/wiki/Jim_Fruchterman).
 
-## [14. Awesome4girls](/content/cristianoliveira/awesome4girls/README.md)
+## [13. Awesome4girls](/content/cristianoliveira/awesome4girls/README.md)
 
 ### Initiatives/Programs / Conferences/Talks
 

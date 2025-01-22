@@ -69,7 +69,7 @@
 ### Special
 
 *   [Flag Kit (⭐3k)](https://github.com/madebybowtie/FlagKit#readme) - Beautiful flag icons for usage in apps and on the web.
-*   [Mapsicon (⭐2.1k)](https://github.com/djaiss/mapsicon#readme) - A free collection of maps for every country in the world.
+*   [Mapsicon (⭐2.2k)](https://github.com/djaiss/mapsicon#readme) - A free collection of maps for every country in the world.
 
 ## [8. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
 
@@ -93,7 +93,7 @@
 
 ### Reverse Engineering / Reverse Engineering Tools
 
-*   [boxxy (⭐74)](https://github.com/kpcyrd/boxxy-rs) - Linkable sandbox explorer.
+*   [boxxy (⭐78)](https://github.com/kpcyrd/boxxy-rs) - Linkable sandbox explorer.
 
 ---
 

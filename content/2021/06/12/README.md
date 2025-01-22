@@ -26,11 +26,11 @@
 
 ### Plugin Manager
 
-*   [NTBBloodbath/cheovim (⭐332)](https://github.com/NTBBloodbath/cheovim) - Neovim configuration switcher written in Lua. Inspired by chemacs.
+*   [NTBBloodbath/cheovim (⭐331)](https://github.com/NTBBloodbath/cheovim) - Neovim configuration switcher written in Lua. Inspired by chemacs.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [NTBBloodbath/doom-one.nvim (⭐201)](https://github.com/NTBBloodbath/doom-one.nvim) - Lua port of doom-emacs' doom-one.
+*   [NTBBloodbath/doom-one.nvim (⭐218)](https://github.com/NTBBloodbath/doom-one.nvim) - Lua port of doom-emacs' doom-one.
 
 ## [4. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
@@ -53,8 +53,8 @@
 
 ### Tools
 
-*   [Keycloak on AWS (⭐180)](https://github.com/aws-samples/keycloak-on-aws)
-*   [aws-cdk construct library that allows you to create KeyCloak on AWS in TypeScript or Python (⭐87)](https://github.com/aws-samples/cdk-keycloak)
+*   [Keycloak on AWS (⭐190)](https://github.com/aws-samples/keycloak-on-aws)
+*   [aws-cdk construct library that allows you to create KeyCloak on AWS in TypeScript or Python (⭐89)](https://github.com/aws-samples/cdk-keycloak)
 
 ## [7. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 

@@ -10,35 +10,35 @@
 
 ### Community
 
-*   [angular hub (⭐48)](https://github.com/angular-sanctuary/angular-hub) - Curated list of Angular events and communities.
+*   [angular hub (⭐50)](https://github.com/angular-sanctuary/angular-hub) - Curated list of Angular events and communities.
 
 ### HTTP / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [cashew (⭐680)](https://github.com/ngneat/cashew) - A flexible and straightforward library that caches HTTP requests in Angular.
+*   [cashew (⭐688)](https://github.com/ngneat/cashew) - A flexible and straightforward library that caches HTTP requests in Angular.
 
 ### Charts / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [dag (⭐154)](https://github.com/ngneat/dag) - An Angular service for managing directed acyclic graphs.
+*   [dag (⭐155)](https://github.com/ngneat/dag) - An Angular service for managing directed acyclic graphs.
 
 ### DOM / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [edit-in-place (⭐262)](https://github.com/ngneat/edit-in-place) - A flexible and unopinionated edit in place library.
+*   [edit-in-place (⭐265)](https://github.com/ngneat/edit-in-place) - A flexible and unopinionated edit in place library.
 
 ### General / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [reactive-forms (⭐609)](https://github.com/ngneat/reactive-forms) - (Angular Reactive) Forms with Benefits.
+*   [reactive-forms (⭐612)](https://github.com/ngneat/reactive-forms) - (Angular Reactive) Forms with Benefits.
 
 ### Icons / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [svg-icon (⭐255)](https://github.com/ngneat/svg-icon) - A lightweight library that makes it easier to use SVG icons in your Angular Application.
+*   [svg-icon (⭐263)](https://github.com/ngneat/svg-icon) - A lightweight library that makes it easier to use SVG icons in your Angular Application.
 
 ### Keyboard Mouse / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [hotkeys (⭐327)](https://github.com/ngneat/hotkeys) - A declarative library for handling hotkeys in Angular applications.
+*   [hotkeys (⭐334)](https://github.com/ngneat/hotkeys) - A declarative library for handling hotkeys in Angular applications.
 
 ### Layout Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [overview (⭐118)](https://github.com/ngneat/overview) - A collection of tools to make your Angular views more modular, scalable, and maintainable.
+*   [overview (⭐122)](https://github.com/ngneat/overview) - A collection of tools to make your Angular views more modular, scalable, and maintainable.
 
 ### Loaders / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -46,11 +46,11 @@
 
 ### Modals / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [dialog (⭐389)](https://github.com/ngneat/dialog) - A simple to use, highly customizable, and powerful modal.
+*   [dialog (⭐395)](https://github.com/ngneat/dialog) - A simple to use, highly customizable, and powerful modal.
 
 ### Tooltips / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [helipopper (⭐400)](https://github.com/ngneat/helipopper) - A Powerful Tooltip and Popover for Angular Applications.
+*   [helipopper (⭐420)](https://github.com/ngneat/helipopper) - A Powerful Tooltip and Popover for Angular Applications.
 
 ### Misc Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -65,7 +65,7 @@
 
 ### Motion / Diagnostics
 
-*   [tris203/precognition.nvim (⭐693)](https://github.com/tris203/precognition.nvim) - Precognition uses virtual text and gutter signs to show available motions.
+*   [tris203/precognition.nvim (⭐970)](https://github.com/tris203/precognition.nvim) - Precognition uses virtual text and gutter signs to show available motions.
 
 ## [3. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
@@ -77,11 +77,11 @@
 
 ### Applications / Database
 
-*   [native\_db (⭐390)](https://github.com/vincent-herlemont/native_db) \[[native\_db](https://crates.io/crates/native_db)] - Drop-in, embedded database for multi-platform apps (server, desktop, mobile). Sync Rust types effortlessly
+*   [native\_db (⭐522)](https://github.com/vincent-herlemont/native_db) \[[native\_db](https://crates.io/crates/native_db)] - Drop-in, embedded database for multi-platform apps (server, desktop, mobile). Sync Rust types effortlessly
 
 ### Applications / Productivity
 
-*   [ShadoySV/work-break (⭐7)](https://github.com/ShadoySV/work-break) \[[work-break](https://crates.io/crates/work-break)] - Work and rest time balancer taking into account your current and today strain [![Build](https://github.com/shadoysv/work-break/actions/workflows/release.yml/badge.svg)](https://github.com/ShadoySV/work-break/releases)
+*   [ShadoySV/work-break (⭐11)](https://github.com/ShadoySV/work-break) \[[work-break](https://crates.io/crates/work-break)] - Work and rest time balancer taking into account your current and today strain [![Build](https://github.com/shadoysv/work-break/actions/workflows/release.yml/badge.svg)](https://github.com/ShadoySV/work-break/releases)
 
 ## [5. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -116,7 +116,7 @@
 
 *   [git-plugin (dark-kitt) (⭐0)](https://github.com/dark-kitt/zsh-git-plugin) - `git` integration that displays the current directory and `git` branch.
 *   [git-plugin (rcruzper) (⭐7)](https://github.com/rcruzper/zsh-git-plugin) - Adds some functions for `git`.
-*   [nvim-appname (⭐15)](https://github.com/mehalter/zsh-nvim-appname) - Maintain multiple Neovim configurations with `NVIM_APPNAME` with full tab completion of available flags, available neovim applications, and neovim arguments/flags. Requires neovim v0.9+
+*   [nvim-appname (⭐24)](https://github.com/mehalter/zsh-nvim-appname) - Maintain multiple Neovim configurations with `NVIM_APPNAME` with full tab completion of available flags, available neovim applications, and neovim arguments/flags. Requires neovim v0.9+
 
 ---
 

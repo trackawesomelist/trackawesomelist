@@ -29,9 +29,9 @@
 ### Platforms
 
 *   macOS - Operating system for Apple's Mac computers.
-    *   [Screensavers (⭐3.9k)](https://github.com/agarrharr/awesome-macos-screensavers#readme)
-    *   [Apps (⭐74k)](https://github.com/jaywcjlove/awesome-mac#readme)
-    *   [Open Source Apps (⭐41k)](https://github.com/serhii-londar/open-source-mac-os-apps#readme)
+    *   [Screensavers (⭐4k)](https://github.com/agarrharr/awesome-macos-screensavers#readme)
+    *   [Apps (⭐77k)](https://github.com/jaywcjlove/awesome-mac#readme)
+    *   [Open Source Apps (⭐42k)](https://github.com/serhii-londar/open-source-mac-os-apps#readme)
 
 ## [5. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/week/README.md)
 
@@ -40,7 +40,7 @@
 *   [**HiQ**](https://jonathanharrell.github.io/hiq/) - Simple CSS foundation with responsive typography and input styling.\
     ![](https://img.shields.io/github/stars/jonathanharrell/hiq.svg?style=social\&label=Star)
     [Docs](https://jonathanharrell.github.io/hiq/guide/),
-    [Repo (⭐310)](https://github.com/jonathanharrell/hiq/)
+    [Repo (⭐315)](https://github.com/jonathanharrell/hiq/)
     \| #PostCSS
 
 ## [6. Git Cheat Sheet](/content/arslanbilal/git-cheat-sheet/week/README.md)
@@ -112,6 +112,7 @@ Rename Index.txt to Index.html
 ### Readline, ncurses and other graphical helpers / Third-party APIs
 
 *   [cl-progress-bar (⭐19)](https://github.com/sirherrbatka/cl-progress-bar/) - progress bars, just like in Quicklisp ! [MIT](https://opensource.org/licenses/MIT).
+    *   and [progressons (⭐14)](https://github.com/vindarel/progressons), a progress bar on one line, for real an dumb terminals. MIT.
 
 ### Other / Third-party APIs
 
@@ -186,21 +187,21 @@ Rename Index.txt to Index.html
 
 ### UI
 
-*   [Stepper Touch (⭐295)](https://github.com/Rahiche/stepper_touch) <!--stargazers:Rahiche/stepper_touch--> - Lateral value stepper nicely animated by [Raouf Rahiche](https://github.com/Rahiche).
+*   [Stepper Touch (⭐322)](https://github.com/Rahiche/stepper_touch) <!--stargazers:Rahiche/stepper_touch--> - Lateral value stepper nicely animated by [Raouf Rahiche](https://github.com/Rahiche).
 
 ### Templates / Preferences
 
-*   [Liquid Pay Payment App (⭐303)](https://github.com/longhoang2984/flutter_payment_app_ui) <!--stargazers:longhoang2984/flutter_payment_app_ui--> - Liquid Pay App Concept by [Long Hoang](https://github.com/longhoang2984)
+*   [Liquid Pay Payment App (⭐309)](https://github.com/longhoang2984/flutter_payment_app_ui) <!--stargazers:longhoang2984/flutter_payment_app_ui--> - Liquid Pay App Concept by [Long Hoang](https://github.com/longhoang2984)
 
 ### Device / Augmented Reality
 
-*   [Downloader (⭐898)](https://github.com/hnvn/flutter_downloader) <!--stargazers:hnvn/flutter_downloader--> - Create and manage download tasks by [HungHD](https://github.com/hnvn)
-*   [AppAvailability (⭐91)](https://github.com/pichillilorenzo/flutter_appavailability) <!--stargazers:pichillilorenzo/flutter_appavailability--> - List, launch and check installed apps by [Lorenzo Pichilli](https://github.com/pichillilorenzo)
+*   [Downloader (⭐0)](https://github.com/hnvn/flutter_downloader) <!--stargazers:hnvn/flutter_downloader--> - Create and manage download tasks by [HungHD](https://github.com/hnvn)
+*   [AppAvailability (⭐92)](https://github.com/pichillilorenzo/flutter_appavailability) <!--stargazers:pichillilorenzo/flutter_appavailability--> - List, launch and check installed apps by [Lorenzo Pichilli](https://github.com/pichillilorenzo)
 
 ### Device / Scanner
 
-*   [QR Code Reader (⭐234)](https://github.com/villela/flutter_qrcode_reader) <!--stargazers:villela/flutter_qrcode_reader--> - QR Code reader plugin by [Matheus Villela](https://github.com/villela)
-*   [Fast QR Reader View (⭐295)](https://github.com/facundomedica/fast_qr_reader_view) <!--stargazers:facundomedica/fast_qr_reader_view--> - Live multicode reader by [Facundo Medica](https://github.com/facundomedica)
+*   [QR Code Reader (⭐233)](https://github.com/villela/flutter_qrcode_reader) <!--stargazers:villela/flutter_qrcode_reader--> - QR Code reader plugin by [Matheus Villela](https://github.com/villela)
+*   [Fast QR Reader View (⭐294)](https://github.com/facundomedica/fast_qr_reader_view) <!--stargazers:facundomedica/fast_qr_reader_view--> - Live multicode reader by [Facundo Medica](https://github.com/facundomedica)
 
 ### Device / Bluetooth / NFC / Beacon
 
@@ -209,7 +210,7 @@ Rename Index.txt to Index.html
 
 ### Storage / Bluetooth / NFC / Beacon
 
-*   [Sqflite (⭐2.8k)](https://github.com/tekartik/sqflite) <!--stargazers:tekartik/sqflite--> - SQLite flutter plugin by [Alexandre Roux](https://www.linkedin.com/in/alextekartik/)
+*   [Sqflite (⭐2.9k)](https://github.com/tekartik/sqflite) <!--stargazers:tekartik/sqflite--> - SQLite flutter plugin by [Alexandre Roux](https://www.linkedin.com/in/alextekartik/)
 
 ### Services / Bluetooth / NFC / Beacon
 
@@ -390,7 +391,7 @@ Rename Index.txt to Index.html
 
 ### no-std crates / WIP
 
-*   [OxCC (⭐18)](https://github.com/jonlamb-gh/oxcc): A port of Open Source Car Control written in Rust
+*   [OxCC (⭐20)](https://github.com/jonlamb-gh/oxcc): A port of Open Source Car Control written in Rust
 
 ## [24. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
@@ -455,7 +456,7 @@ Webpage: <https://ironcladcoffee.com/>
 
 ### Miscellaneous / Development and testing
 
-*   [tmux-tail-f (⭐32)](https://github.com/mapio/tmux-tail-f) A tool to tail multiple files using tmux
+*   [tmux-tail-f (⭐33)](https://github.com/mapio/tmux-tail-f) A tool to tail multiple files using tmux
 
 ## [28. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
@@ -488,11 +489,11 @@ Webpage: <https://ironcladcoffee.com/>
 
 ### Modules
 
-*   [FindWiX (⭐11)](https://github.com/apriorit/FindWiX) - CMake module for building [Windows Installer](https://en.wikipedia.org/wiki/Windows_Installer) packages with [WiX toolset](http://wixtoolset.org). [`[BSD3]`](https://opensource.org/licenses/BSD-3-Clause)
+*   [FindWiX (⭐18)](https://github.com/apriorit/FindWiX) - CMake module for building [Windows Installer](https://en.wikipedia.org/wiki/Windows_Installer) packages with [WiX toolset](http://wixtoolset.org). [`[BSD3]`](https://opensource.org/licenses/BSD-3-Clause)
 
 ### Examples / Templates
 
-*   [cpp-template (⭐47)](https://github.com/joshpeterson/cpp-template) - A template C++ repository, using CMake and Catch. `[NO LICENSE]`
+*   [cpp-template (⭐51)](https://github.com/joshpeterson/cpp-template) - A template C++ repository, using CMake and Catch. `[NO LICENSE]`
 
 ## [32. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
@@ -518,7 +519,7 @@ Webpage: <https://ironcladcoffee.com/>
 
 ### Docker
 
-*   [Keycloak Maven SDK for managing the entire lifecycle of your extensions with Docker (⭐34)](https://github.com/OpenPj/keycloak-docker-quickstart)
+*   [Keycloak Maven SDK for managing the entire lifecycle of your extensions with Docker (⭐33)](https://github.com/OpenPj/keycloak-docker-quickstart)
 
 ## [36. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
@@ -534,9 +535,9 @@ Webpage: <https://ironcladcoffee.com/>
 
 ## [38. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
-### Tools and frameworks
+### Tools and frameworks (a-z↓)
 
-*   [AyeSpy (⭐203)](https://github.com/newsuk/ayespy) - 44 image comparisons in 90 seconds.
+*   [AyeSpy (⭐207)](https://github.com/newsuk/ayespy) - 44 image comparisons in 90 seconds.
 
 ## [39. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
 
@@ -708,24 +709,24 @@ Webpage: <https://ironcladcoffee.com/>
 
 ### Chat
 
-*   [InputBarAccessoryView (⭐1.1k)](https://github.com/nathantannar4/InputBarAccessoryView) - A simple and easily customizable InputAccessoryView for making powerful input bars with autocomplete and attachments.
+*   [InputBarAccessoryView (⭐1.2k)](https://github.com/nathantannar4/InputBarAccessoryView) - A simple and easily customizable InputAccessoryView for making powerful input bars with autocomplete and attachments.
 
 ### Dependency Injection
 
-*   [DITranquillity (⭐418)](https://github.com/ivlevAstef/DITranquillity/) - Dependency injection framework with tranquility.
+*   [DITranquillity (⭐422)](https://github.com/ivlevAstef/DITranquillity/) - Dependency injection framework with tranquility.
 
 ### Pagination / Barcode
 
-*   [FlexiblePageControl (⭐798)](https://github.com/shima11/FlexiblePageControl) - A flexible UIPageControl like Instagram.
+*   [FlexiblePageControl (⭐801)](https://github.com/shima11/FlexiblePageControl) - A flexible UIPageControl like Instagram.
 
 ## [51. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
 ### Hardware / Opcodes
 
 *   [The Game Boy Project](http://marc.rawer.de/Gameboy/Docs/GBProject.pdf) - Provides a study on the hardware and detailed constructional information for the implementation of three 8-bit bidirectional parallel ports.
-*   [Related custom hardware (⭐287)](https://github.com/Gekkio/gb-hardware) - by Gekkio.
+*   [Related custom hardware (⭐325)](https://github.com/Gekkio/gb-hardware) - by Gekkio.
 *   [ESP8266 GB Dev Board (⭐26)](https://github.com/applefreak/esp8266-gameboy-dev-board) - Dev board for Game Boy accessories development, powered by ESP8266.
-*   [ESP8266 GB Printer (⭐47)](https://github.com/applefreak/esp8266-gameboy-printer) - A device that emulates the GB Printer and lets you retrieve images using WiFi.
+*   [ESP8266 GB Printer (⭐48)](https://github.com/applefreak/esp8266-gameboy-printer) - A device that emulates the GB Printer and lets you retrieve images using WiFi.
 
 ### Peripherals / Opcodes
 
@@ -749,32 +750,32 @@ Webpage: <https://ironcladcoffee.com/>
 
 *   [Blargg's test roms](http://gbdev.gg8.se/files/roms/blargg-gb-tests/)
 *   [Gekkio's test roms](https://gekkio.fi/files/mooneye-gb/latest/)
-*   [SameSuite (⭐28)](https://github.com/LIJI32/SameSuite)
+*   [SameSuite (⭐33)](https://github.com/LIJI32/SameSuite)
 *   [GB Accuracy Tests](http://tasvideos.org/EmulatorResources/GBAccuracyTests.html)
-*   [144p Test Suite (⭐202)](https://github.com/pinobatch/240p-test-mini/tree/master/gameboy) - Port of Artemio Urbina's 240p Test Suite to the Game Boy.
+*   [144p Test Suite (⭐237)](https://github.com/pinobatch/240p-test-mini/tree/master/gameboy) - Port of Artemio Urbina's 240p Test Suite to the Game Boy.
 
 ### Emulators / Experimental/Proof of Concepts
 
-*   [SameBoy (⭐1.4k)](https://github.com/LIJI32/SameBoy) - Accurate emulator with a wide range of powerful debugging features.
-*   [Mooneye GB (⭐867)](https://github.com/Gekkio/mooneye-gb) - Research project and emulator in Rust.
+*   [SameBoy (⭐1.7k)](https://github.com/LIJI32/SameBoy) - Accurate emulator with a wide range of powerful debugging features.
+*   [Mooneye GB (⭐904)](https://github.com/Gekkio/mooneye-gb) - Research project and emulator in Rust.
 
 ### C / Syntax highlighting packages
 
-*   [flappybird-gameboy (⭐14)](https://github.com/pashutk/flappybird-gameboy)
+*   [flappybird-gameboy (⭐15)](https://github.com/pashutk/flappybird-gameboy)
 *   [fbgb (⭐3)](https://github.com/gb-archive/fbgb)
 
 ### Demos / Syntax highlighting packages
 
-*   [matrix-rain-gb (⭐28)](https://github.com/wtjones/matrix-rain-gb) - A Matrix digital rain effect in assembler.
+*   [matrix-rain-gb (⭐29)](https://github.com/wtjones/matrix-rain-gb) - A Matrix digital rain effect in assembler.
 
 ### Related projects / Syntax highlighting packages
 
-*   [liblsdj (⭐84)](https://github.com/stijnfrishert/liblsdj) - Utility library for interacting with the LSDj save format (.sav), song files (.lsdsng) and more.
-*   [lsdpatch (⭐156)](https://github.com/jkotlinski/lsdpatch) - Tool for modifying samples, fonts and palettes on LSDj ROM images.
+*   [liblsdj (⭐93)](https://github.com/stijnfrishert/liblsdj) - Utility library for interacting with the LSDj save format (.sav), song files (.lsdsng) and more.
+*   [lsdpatch (⭐176)](https://github.com/jkotlinski/lsdpatch) - Tool for modifying samples, fonts and palettes on LSDj ROM images.
 
 ### Directories / Syntax highlighting packages
 
-*   [The Game Boy Archive - Salvage (⭐26)](https://github.com/gb-archive/salvage) - Historical archive of software, old articles, FAQs and various documents.
+*   [The Game Boy Archive - Salvage (⭐33)](https://github.com/gb-archive/salvage) - Historical archive of software, old articles, FAQs and various documents.
 
 ## [52. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 

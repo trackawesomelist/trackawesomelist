@@ -32,13 +32,13 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [wsl2-ssh-pageant (⭐1)](https://github.com/antoinemartin/wsl2-ssh-pageant-oh-my-zsh-plugin) - Use your Yubikey stored GPG keys from WSL. This packages the instructions from [wsl2-ssh-pageant repo (⭐364)](https://github.com/BlackReloaded/wsl2-ssh-pageant) as a ZSH plugin.
+*   [wsl2-ssh-pageant (⭐1)](https://github.com/antoinemartin/wsl2-ssh-pageant-oh-my-zsh-plugin) - Use your Yubikey stored GPG keys from WSL. This packages the instructions from [wsl2-ssh-pageant repo (⭐371)](https://github.com/BlackReloaded/wsl2-ssh-pageant) as a ZSH plugin.
 
 ## [4. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### Plugins
 
-*   💼 [Background Unsplash (⭐19)](https://github.com/shorwood/tailwindcss-unsplash) - Apply [unsplash.com](https://unsplash.com) images as background.
+*   💼 [Background Unsplash (⭐20)](https://github.com/shorwood/tailwindcss-unsplash) - Apply [unsplash.com](https://unsplash.com) images as background.
 
 ## [5. Awesome Math](/content/rossant/awesome-math/README.md)
 
@@ -59,17 +59,16 @@
 
 ## [7. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/README.md)
 
-### Magazines, News, and Monographs / Monograph
+### Magazines & Newsletter / Lecture Videos Playlist
 
 *   [EATCS Bulletin](https://eatcs.org/index.php/on-line-issues) - Surveys, tutorials, conferences reports, events, open problems and solutions, PhD Theses, and entertaining contributions.
 *   [SIGACT News](https://dl.acm.org/loi/sigact) - ACM's official theoretical computer science news feed.
 *   [Foundations and Trends in Theoretical Computer Science](https://www.nowpublishers.com/TCS) - It provides monographs written by leaders that give tutorial coverage of subjects, research retrospectives as well as survey papers that offer state-of-the-art reviews fall within the scope of the journal.
 *   [Quanta Magazine](https://www.quantamagazine.org/tag/computational-complexity) - Features breakthroughs in the field, written in an accessible style for non-experts.
 
-### Special Magazines and Workshops / Monograph
+### Popular Science / Lecture Videos Playlist
 
 *   [The Legacy of Alan Turing: Pushing the Boundaries of Computation (Volume 18, Issue 3, Spring 2012). ACM, XRDS](https://dl.acm.org/toc/xrds/2012/18/3) - ACM's students magazine special issue for theory of computation.
-*   [TCS Visioning Workshop 2020 Report](https://cra.org/ccc/wp-content/uploads/sites/2/2021/07/TCS-Visioning-Workshop-Report-2020.pdf) - Recent accomplishments and new challenges in the field of TCS.
 
 ## [8. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 
@@ -102,11 +101,11 @@
 
 ### Adapters / Server-side
 
-*   [Echo (⭐8)](https://github.com/kohkimakimoto/inertia-echo)
+*   [Echo (⭐10)](https://github.com/kohkimakimoto/inertia-echo)
 
 ### Resources / Examples
 
-*   [Ping CRM / Echo (⭐2)](https://github.com/kohkimakimoto/pingcrm-echo) - Demonstration application made with Echo and Vue.js.
+*   [Ping CRM / Echo (⭐3)](https://github.com/kohkimakimoto/pingcrm-echo) - Demonstration application made with Echo and Vue.js.
 
 ---
 

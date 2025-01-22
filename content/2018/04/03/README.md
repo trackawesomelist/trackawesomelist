@@ -34,7 +34,7 @@
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [TypeGQL (⭐423)](https://github.com/prismake/typegql) - Set of tools for creating GraphQL schema directly from typed TypeScript class.
+*   :octocat: [TypeGQL (⭐424)](https://github.com/prismake/typegql) - Set of tools for creating GraphQL schema directly from typed TypeScript class.
 
 ## [6. Awesome Diversity](/content/folkswhocode/awesome-diversity/README.md)
 

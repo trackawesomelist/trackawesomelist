@@ -22,11 +22,11 @@
 
 ### HTML Widgets
 
-*   [highcharter (⭐705)](https://github.com/jbkunst/highcharter) - R wrapper for highcharts based on htmlwidgets
+*   [highcharter (⭐723)](https://github.com/jbkunst/highcharter) - R wrapper for highcharts based on htmlwidgets
 
 ### Spatial
 
-*   [tigris (⭐314)](https://github.com/walkerke/tigris) - Download and use Census TIGER/Line shapefiles in R
+*   [tigris (⭐325)](https://github.com/walkerke/tigris) - Download and use Census TIGER/Line shapefiles in R
 
 ## [4. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
@@ -63,10 +63,6 @@
 ### Components & Libraries / UI Components
 
 *   [vue-r-mask (⭐22)](https://github.com/raidan00/vue-r-mask) - Directive with template similar to javascript regular expression.
-
-### Components & Libraries / UI Utilities
-
-*   [vue-scroll-stop (⭐41)](https://github.com/voxtobox/vue-scroll-stop) - Stops propagation scroll when edge reached.
 
 ## [10. Awesome Hbase](/content/rayokota/awesome-hbase/README.md)
 

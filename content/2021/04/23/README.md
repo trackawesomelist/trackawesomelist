@@ -39,13 +39,13 @@
 
 ### Example Projects
 
-*   [Keycloak Clustering examples (⭐164)](https://github.com/ivangfr/keycloak-clustered)
+*   [Keycloak Clustering examples (⭐181)](https://github.com/ivangfr/keycloak-clustered)
 
 ## [6. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Java / General-Purpose Machine Learning
 
-*   [knn-java-library (⭐8)](https://github.com/felipexw/knn-java-library) - Just a simple implementation of K-Nearest Neighbors algorithm using with a bunch of similarity measures.
+*   [knn-java-library (⭐7)](https://github.com/felipexw/knn-java-library) - Just a simple implementation of K-Nearest Neighbors algorithm using with a bunch of similarity measures.
 
 ## [7. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/README.md)
 
@@ -58,7 +58,6 @@
 ### Components & Libraries / Utilities
 
 *   [vue-datatable-url-sync (⭐32)](https://github.com/socotecio/vue-datatable-url-sync) - Synchronize datatable options and filters with the url to keep user preference even after refresh or navigation
-*   [vue-sse (⭐143)](https://github.com/tserkov/vue-sse) - A Vue plugin for using Server-Sent Events (EventSource).
 
 ## [9. Awesome Preact](/content/preactjs/awesome-preact/README.md)
 
@@ -70,7 +69,7 @@
 
 ### Projects
 
-*   [Flow.er (⭐52)](https://github.com/LighghtEeloo/flow.er) - A notebook app integrated with todo lists utility. Developed with Rust, WebAssembly, Yew and Trunk.
+*   [Flow.er (⭐53)](https://github.com/LighghtEeloo/flow.er) - A notebook app integrated with todo lists utility. Developed with Rust, WebAssembly, Yew and Trunk.
 
 ## [11. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
 

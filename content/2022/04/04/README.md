@@ -10,7 +10,7 @@
 
 ### SQL / Über SQL
 
-*   [osquery (⭐21k)](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
+*   [osquery (⭐22k)](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
 
 ## [2. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
 
@@ -34,16 +34,16 @@
 
 ### Templates / React
 
-*   [reactjs-vite-tailwindcss-boilerplate (⭐514)](https://github.com/joaopaulomoraes/reactjs-vite-tailwindcss-boilerplate) - React 18, TypeScript, Vitest, Testing Library, TailwindCSS 3, Eslint and Prettier.
+*   [reactjs-vite-tailwindcss-boilerplate (⭐598)](https://github.com/joaopaulomoraes/reactjs-vite-tailwindcss-boilerplate) - React 18, TypeScript, Vitest, Testing Library, TailwindCSS 3, Eslint and Prettier.
 
 ## [6. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
 ### Audio
 
-*   [Spotube (⭐28k)](https://github.com/KRTirtho/spotube) - A lightweight free Spotify crossplatform-client.
+*   [Spotube (⭐34k)](https://github.com/KRTirtho/spotube) - A lightweight free Spotify crossplatform-client.
 *   [Spot\* (⭐2.3k)](https://github.com/xou816/spot) - Native Spotify client built in GTK and Rust.
-*   [psst\* (⭐8.4k)](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI.
-*   [ncspot\* (⭐4.9k)](https://github.com/hrkfdn/ncspot) - Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.ç
+*   [psst\* (⭐8.9k)](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI.
+*   [ncspot\* (⭐5.2k)](https://github.com/hrkfdn/ncspot) - Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.ç
 
 ## [7. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
 
@@ -73,28 +73,24 @@
 
 ### Caches
 
-*   [bcache (⭐151)](https://github.com/iwanbk/bcache) - Eventually consistent distributed in-memory cache Go library.
+*   [bcache (⭐157)](https://github.com/iwanbk/bcache) - Eventually consistent distributed in-memory cache Go library.
 
 ### Databases Implemented in Go
 
 *   [nutsdb (⭐3.4k)](https://github.com/xujiajun/nutsdb) - Nutsdb is a simple, fast, embeddable, persistent key/value store written in pure Go. It supports fully serializable transactions and many data structures such as list, set, sorted set.
-*   [unitdb (⭐118)](https://github.com/unit-io/unitdb) - Fast timeseries database for IoT, realtime messaging applications. Access unitdb with pubsub over tcp or websocket using github.com/unit-io/unitd application.
-
-### File Handling
-
-*   [stl](https://gitlab.com/russoj88/stl) - Modules to read and write STL (stereolithography) files. Concurrent algorithm for reading.
+*   [unitdb (⭐120)](https://github.com/unit-io/unitdb) - Fast timeseries database for IoT, realtime messaging applications. Access unitdb with pubsub over tcp or websocket using github.com/unit-io/unitd application.
 
 ### Logging
 
-*   [sqldb-logger (⭐349)](https://github.com/simukti/sqldb-logger) - A logger for Go SQL database driver without modify existing \*sql.DB stdlib usage.
+*   [sqldb-logger (⭐365)](https://github.com/simukti/sqldb-logger) - A logger for Go SQL database driver without modify existing \*sql.DB stdlib usage.
 
 ### Tokenizers
 
-*   [sentences (⭐435)](https://github.com/neurosnap/sentences) - Sentence tokenizer: converts text into a list of sentences.
+*   [sentences (⭐442)](https://github.com/neurosnap/sentences) - Sentence tokenizer: converts text into a list of sentences.
 
 ### Security
 
-*   [secret (⭐28)](https://github.com/rsjethani/secret) - Prevent your secrets from leaking into logs, std\* etc.
+*   [secret (⭐29)](https://github.com/rsjethani/secret) - Prevent your secrets from leaking into logs, std\* etc.
 
 ### Utilities
 

@@ -16,7 +16,7 @@
 
 ### Software / Analytics
 
-*   [EDA (⭐122)](https://github.com/jortilles/EDA) - Web application for data analysis and visualization. `AGPL-3.0` `Nodejs/Docker`
+*   [EDA (⭐124)](https://github.com/jortilles/EDA) - Web application for data analysis and visualization. `AGPL-3.0` `Nodejs/Docker`
 
 ### Software / Media Streaming - Multimedia Streaming
 
@@ -24,7 +24,7 @@
 
 ### Software / Recipe Management
 
-*   [Bar Assistant](https://barassistant.app/) - Bar assistant is a self hosted application for managing your home bar. It allows you to add your ingredients, search for cocktails and create custom cocktail recipes. ([Demo](https://demo.barassistant.app/), [Source Code (⭐593)](https://github.com/karlomikus/bar-assistant)) `MIT` `PHP/Docker`
+*   [Bar Assistant](https://barassistant.app/) - Bar assistant is a self hosted application for managing your home bar. It allows you to add your ingredients, search for cocktails and create custom cocktail recipes. ([Demo](https://demo.barassistant.app/), [Source Code (⭐685)](https://github.com/karlomikus/bar-assistant)) `MIT` `PHP/Docker`
 
 ## [3. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
@@ -44,4 +44,5 @@
 
 ---
 
+- Prev: [Dec 15, 2024](/content/2024/12/15/README.md)
 - Next: [Dec 13, 2024](/content/2024/12/13/README.md)

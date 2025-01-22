@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 13, 2017
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -173,19 +173,13 @@ Topics: Developer Tools, JavaScript\
 
 ### R Development
 
-*   [RStudio Addins (⭐819)](https://github.com/daattali/rstudio-addins) - List of RStudio addins.
+*   [RStudio Addins (⭐845)](https://github.com/daattali/rstudio-addins) - List of RStudio addins.
 
 ## [8. Js Must Watch](/content/bolshchikov/js-must-watch/README.md)
 
 ### 2014
 
 *   [Pete Hunt: **OSCON 2014: How Instagram.com Works**](https://www.youtube.com/watch?v=VkTCL6Nqm6Y) \[40:18]
-
-## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / UI Utilities
-
-*   [navscroll-js (⭐57)](https://github.com/nash403/navscroll-js) - Highlights menu items as you scroll, and also scrolls to a section when a menu item clicked. Use as a vue component, a vue directive or with vanilla js.
 
 ---
 

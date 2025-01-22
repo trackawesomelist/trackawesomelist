@@ -10,19 +10,19 @@
 
 ### Applications / Payments
 
-*   [hyperswitch (⭐11k)](https://github.com/juspay/hyperswitch) - An open source payments orchestrator that lets you connect with multiple payment processors and route payment traffic effortlessly, all with a single API integration ![GitHub last commit](https://img.shields.io/github/last-commit/juspay/hyperswitch?style=flat-square)
+*   [hyperswitch (⭐13k)](https://github.com/juspay/hyperswitch) - An open source payments orchestrator that lets you connect with multiple payment processors and route payment traffic effortlessly, all with a single API integration ![GitHub last commit](https://img.shields.io/github/last-commit/juspay/hyperswitch?style=flat-square)
 
 ## [2. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Modules / Web utils
 
-*   [rpc (⭐23)](https://github.com/deno-libs/rpc) - JSONRPC server implementation for Deno.
+*   [rpc (⭐24)](https://github.com/deno-libs/rpc) - JSONRPC server implementation for Deno.
 
 ## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Games - Administrative Utilities & Control Panels
 
-*   [EasyWI](https://easy-wi.com) - Easy-Wi is a Web-interface that allows you to manage server daemons like gameservers. In addition it provides you with a CMS which includes a fully automated game- and voiceserver lending service. ([Source Code (⭐225)](https://github.com/easy-wi/developer/)) `GPL-3.0` `PHP/Shell`
+*   [EasyWI](https://easy-wi.com) - Easy-Wi is a Web-interface that allows you to manage server daemons like gameservers. In addition it provides you with a CMS which includes a fully automated game- and voiceserver lending service. ([Source Code (⭐231)](https://github.com/easy-wi/developer/)) `GPL-3.0` `PHP/Shell`
 
 ## [4. Awesome Geojson](/content/tmcw/awesome-geojson/README.md)
 
@@ -46,7 +46,7 @@
 
 ### Configuration
 
-*   [ini-cpp (⭐33)](https://github.com/SSARCandy/ini-cpp) - Single header only C++ version, with some handy read/write interface, extend from [inih (⭐2.4k)](https://github.com/benhoyt/inih). \[BSD-3-Clause] [website](https://ssarcandy.tw/ini-cpp/index.html)
+*   [ini-cpp (⭐40)](https://github.com/SSARCandy/ini-cpp) - Single header only C++ version, with some handy read/write interface, extend from [inih (⭐2.5k)](https://github.com/benhoyt/inih). \[BSD-3-Clause] [website](https://ssarcandy.tw/ini-cpp/index.html)
 
 ## [8. Awesome Video](/content/krzemienski/awesome-video/README.md)
 
@@ -80,7 +80,7 @@
 
 ### Community Modules / Miscellaneous
 
-*   [terraform-gce-atlantis (⭐32)](https://github.com/bschaatsbergen/terraform-gce-atlantis) - Creates Terraform configurations for running [Atlantis](https://runatlantis.io) on Google Compute Engine.
+*   [terraform-gce-atlantis (⭐33)](https://github.com/bschaatsbergen/terraform-gce-atlantis) - Creates Terraform configurations for running [Atlantis](https://runatlantis.io) on Google Compute Engine.
 
 ---
 

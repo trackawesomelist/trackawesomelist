@@ -16,13 +16,13 @@
 
 ### Libraries / Data streaming
 
-*   [iggy-rs/iggy (⭐1.8k)](https://github.com/iggy-rs/iggy) \[[iggy](https://crates.io/crates/iggy)] - Persistent message streaming platform, supporting QUIC, TCP and HTTP transport protocols [![CI](https://github.com/iggy-rs/iggy/actions/workflows/test.yml/badge.svg)](https://github.com/iggy-rs/iggy/actions/workflows/test.yml)
+*   [iggy-rs/iggy (⭐2.2k)](https://github.com/iggy-rs/iggy) \[[iggy](https://crates.io/crates/iggy)] - Persistent message streaming platform, supporting QUIC, TCP and HTTP transport protocols [![CI](https://github.com/iggy-rs/iggy/actions/workflows/test.yml/badge.svg)](https://github.com/iggy-rs/iggy/actions/workflows/test.yml)
 
 ## [3. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
 
 ### Themes for non-GTK apps / Skeumorphic Icons
 
-*   [Obsidian Adwaita Theme (⭐103)](https://github.com/birneee/obsidian-adwaita-theme) - [Obsidian](https://obsidian.md) theme in the style of GNOME Adwaita.
+*   [Obsidian Adwaita Theme (⭐110)](https://github.com/birneee/obsidian-adwaita-theme) - [Obsidian](https://obsidian.md) theme in the style of GNOME Adwaita.
 
 ## [4. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
@@ -38,14 +38,14 @@
 
 ### Utilities / General Tools
 
-*   [CapsLockNoDelay (⭐381)](https://github.com/gkpln3/CapsLockNoDelay) - Removes caps-lock key activation delay for fast typers. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/gkpln3/CapsLockNoDelay)
+*   [CapsLockNoDelay (⭐460)](https://github.com/gkpln3/CapsLockNoDelay) - Removes caps-lock key activation delay for fast typers. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/gkpln3/CapsLockNoDelay)
 
 ## [6. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [blaze (⭐20)](https://github.com/danieltodor/blaze) - Visually similar to powerline. Requires `make` and `g++`. Works best with your terminal set to use a nerd font. Includes decorators for current directory, execution time of last command, exit status of last command, `git` status information, date, time, username and host. Can be extended with custom segments.
-*   [osx2 (⭐1)](https://github.com/RizkiIqbal02/zsh-theme-custom) - Based on archcraft. Minimalist. Includes decorator for current directory.
+*   [blaze (⭐27)](https://github.com/danieltodor/blaze) - Visually similar to powerline. Requires `make` and `g++`. Works best with your terminal set to use a nerd font. Includes decorators for current directory, execution time of last command, exit status of last command, `git` status information, date, time, username and host. Can be extended with custom segments.
+*   [osx2 (⭐2)](https://github.com/RizkiIqbal02/zsh-theme-custom) - Based on archcraft. Minimalist. Includes decorator for current directory.
 
 ## [7. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 

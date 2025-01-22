@@ -22,13 +22,13 @@
 
 ### Database / Text-Based User Interfaces
 
-*   [CosId (⭐449)](https://github.com/Ahoo-Wang/CosId) - Universal, flexible, high-performance distributed ID generator.
+*   [CosId (⭐482)](https://github.com/Ahoo-Wang/CosId) - Universal, flexible, high-performance distributed ID generator.
 
 ## [3. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
 
 ### Tools - Editors & IDEs & Explorers / React
 
-*   [Brangr (⭐2)](https://github.com/networkimprov/brangr) - A unique, user-friendly data browser/viewer for any GraphQL service, with attractive result layouts.
+*   [Brangr (⭐3)](https://github.com/networkimprov/brangr) - A unique, user-friendly data browser/viewer for any GraphQL service, with attractive result layouts.
 
 ## [4. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
 
@@ -40,7 +40,7 @@
 
 ### Reactive Programming
 
-*   [OneWay (⭐76)](https://github.com/DevYeom/OneWay) - A Swift library for state management with unidirectional data flow.
+*   [OneWay (⭐87)](https://github.com/DevYeom/OneWay) - A Swift library for state management with unidirectional data flow.
 
 ## [6. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
 
@@ -67,16 +67,15 @@
 ### Components & Libraries / UI Components
 
 *   [vue-global-alert-utility (⭐0)](https://github.com/RashadSaleh/vue-global-alert-utility) - A Vue.js global alert utility to replace vanilla JavaScript `alert` function with better user and developer experience, while keeping it as simple as possible.
-*   [v-image-magnifier (⭐14)](https://github.com/fchancel/v-image-magnifier) - A Vue 3 plugin that provides interactive image zoom functionality. Allow users to zoom in on an image by hovering over it, providing an enlarged view of the corresponding part of the image.
-*   [Everright-filter (⭐90)](https://github.com/Liberty-liu/Everright-filter) - A query builder component for Vue3. Supports filtering of multiple data types, including string, number, dropdown, cascade, region, date, and time.
+*   [Everright-filter (⭐95)](https://github.com/Liberty-liu/Everright-filter) - A query builder component for Vue3. Supports filtering of multiple data types, including string, number, dropdown, cascade, region, date, and time.
 
 ### Components & Libraries / UI Utilities
 
 *   [vrf (⭐9)](https://github.com/dimailn/vrf) - Declarative scalable ui-agnostic markup-based Vue forms.
-*   [vueginate (⭐4)](https://github.com/lombervid/vueginate) - A simple pagination component for Vue 3
-*   [blottie (⭐9)](https://github.com/Applelo/blottie) Lottie component for Vue 3
-*   [TresJs (⭐2.1k)](https://github.com/tresjs/tres) - Declarative ThreeJS using Vue Components
-*   [Cientos (⭐259)](https://github.com/Tresjs/cientos) - Collection of useful helpers and fully functional, ready-made abstractions for TresJs
+*   [vueginate (⭐5)](https://github.com/lombervid/vueginate) - A simple pagination component for Vue 3
+*   [blottie (⭐11)](https://github.com/Applelo/blottie) Lottie component for Vue 3
+*   [TresJs (⭐2.4k)](https://github.com/tresjs/tres) - Declarative ThreeJS using Vue Components
+*   [Cientos (⭐303)](https://github.com/Tresjs/cientos) - Collection of useful helpers and fully functional, ready-made abstractions for TresJs
 
 ---
 

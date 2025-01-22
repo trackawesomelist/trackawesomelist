@@ -16,11 +16,11 @@
 ### Artificial Intelligence
 
 *   [MiniDungeons](http://minidungeons.com/) - Procedural dungeon-like game.
-*   [polyworld (⭐173)](https://github.com/polyworld/polyworld) - Artificial life system.
+*   [polyworld (⭐181)](https://github.com/polyworld/polyworld) - Artificial life system.
 
 ### Dataset / Web
 
-*   [dnddata (⭐99)](https://github.com/oganm/dnddata) - Dataset of Dungeons and Dragons characters.
+*   [dnddata (⭐107)](https://github.com/oganm/dnddata) - Dataset of Dungeons and Dragons characters.
 
 ### Miscellaneous / Related
 
@@ -58,7 +58,7 @@
 
 ### Developer Tools / Command Line Tools
 
-*   [alacritty (⭐55k)](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/jwilm/alacritty) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [alacritty (⭐57k)](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/jwilm/alacritty) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [7. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 

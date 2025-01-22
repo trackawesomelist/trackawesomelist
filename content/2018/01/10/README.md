@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 10, 2018
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -28,27 +28,21 @@
 
 *   [doc.ai](https://doc.ai/about) - doc.ai aims to decentralize precision medicine on the blockchain by using AI.
 
-## [2. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / UI Components
-
-*   [vue-ip (⭐25)](https://github.com/peteringram0/vue-ip) - An ip address input with port and material design support
-
-## [3. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [2. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### To third parties
 
-*   [dyna (⭐22)](https://github.com/Rudolph-Miller/dyna) - an AWS DynamoDB ORM. [MIT](https://opensource.org/licenses/MIT).
+*   [dyna (⭐23)](https://github.com/Rudolph-Miller/dyna) - an AWS DynamoDB ORM. [MIT](https://opensource.org/licenses/MIT).
 
 ### Objective-C
 
-*   [objc-lisp-bridge (⭐42)](https://github.com/fiddlerwoaroof/objc-lisp-bridge) -  A portable reader and bridge for interacting with Objective-C and Cocoa. [MIT](https://opensource.org/licenses/MIT).
+*   [objc-lisp-bridge (⭐43)](https://github.com/fiddlerwoaroof/objc-lisp-bridge) -  A portable reader and bridge for interacting with Objective-C and Cocoa. [MIT](https://opensource.org/licenses/MIT).
 
 ### Miscellaneous
 
-*   [cl-webkit (⭐52)](https://github.com/joachifm/cl-webkit) - A binding to WebKitGTK+. Also adds web browsing capabilities to an application, leveraging the full power of the WebKit browsing engine. [MIT](https://opensource.org/licenses/MIT).
+*   [cl-webkit (⭐54)](https://github.com/joachifm/cl-webkit) - A binding to WebKitGTK+. Also adds web browsing capabilities to an application, leveraging the full power of the WebKit browsing engine. [MIT](https://opensource.org/licenses/MIT).
 
-## [4. Awesome D3](/content/wbkd/awesome-d3/README.md)
+## [3. Awesome D3](/content/wbkd/awesome-d3/README.md)
 
 ### Charts
 
@@ -66,31 +60,31 @@
 
 *   [swoopy-drag (⭐119)](https://github.com/1wheel/swoopy-drag) - Artisanal label placement for d3 graphics
 
-## [5. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [4. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### UI / Barcode
 
 *   [Fluid Slider (⭐2k)](https://github.com/Ramotion/fluid-slider) - A slider widget with a popup bubble displaying the precise value selected.
 
-## [6. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [5. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Application Templates
 
 *   [Serenity (⭐2.6k)](https://github.com/volkanceylan/Serenity) - Serenity is an ASP.NET MVC / TypeScript application platform designed to simplify and shorten development of data-centric business applications with a service based architecture.
 
-## [7. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [6. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### HTTP
 
-*   [gun (⭐893)](https://github.com/ninenines/gun) - HTTP/1.1, HTTP/2 and Websocket client for Erlang/OTP.
+*   [gun (⭐909)](https://github.com/ninenines/gun) - HTTP/1.1, HTTP/2 and Websocket client for Erlang/OTP.
 
-## [8. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [7. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Database Tools
 
-*   [migrate (⭐31)](https://github.com/vladfaust/migrate.cr) - A simpler database migration tool with transactions
+*   [migrate (⭐32)](https://github.com/vladfaust/migrate.cr) - A simpler database migration tool with transactions
 
-## [9. Awesome D](/content/dlang-community/awesome-d/README.md)
+## [8. Awesome D](/content/dlang-community/awesome-d/README.md)
 
 ### People
 

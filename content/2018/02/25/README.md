@@ -10,7 +10,7 @@
 
 ### Software / Communication - XMPP - Servers
 
-*   [ejabberd](https://www.ejabberd.im/) - XMPP instant messaging server. ([Source Code (⭐6k)](https://github.com/processone/ejabberd)) `GPL-2.0` `Erlang/Docker`
+*   [ejabberd](https://www.ejabberd.im/) - XMPP instant messaging server. ([Source Code (⭐6.2k)](https://github.com/processone/ejabberd)) `GPL-2.0` `Erlang/Docker`
 
 ### Software / Learning and Courses
 
@@ -55,21 +55,21 @@
 
 ### Models/Projects
 
-*   [SRGAN (⭐3.2k)](https://github.com/tensorlayer/srgan) - Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network
+*   [SRGAN (⭐3.3k)](https://github.com/tensorlayer/srgan) - Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network
 *   [Seq2seq-Chatbot (⭐837)](https://github.com/tensorlayer/seq2seq-chatbot) - Chatbot in 200 lines of code
-*   [DCGAN (⭐332)](https://github.com/tensorlayer/dcgan) - Deep Convolutional Generative Adversarial Networks
-*   [GAN-CLS (⭐592)](https://github.com/zsdonghao/text-to-image) -Generative Adversarial Text to Image Synthesis
+*   [DCGAN (⭐339)](https://github.com/tensorlayer/dcgan) - Deep Convolutional Generative Adversarial Networks
+*   [GAN-CLS (⭐598)](https://github.com/zsdonghao/text-to-image) -Generative Adversarial Text to Image Synthesis
 *   [im2im (⭐73)](https://github.com/zsdonghao/Unsup-Im2Im) - Unsupervised Image to Image Translation with Generative Adversarial Networks
-*   [Improved CycleGAN (⭐90)](https://github.com/luoxier/CycleGAN_Tensorlayer) - Unpaired Image to Image Translation
-*   [DAGAN (⭐173)](https://github.com/nebulaV/DAGAN) - Fast Compressed Sensing MRI Reconstruction
+*   [Improved CycleGAN (⭐89)](https://github.com/luoxier/CycleGAN_Tensorlayer) - Unpaired Image to Image Translation
+*   [DAGAN (⭐175)](https://github.com/nebulaV/DAGAN) - Fast Compressed Sensing MRI Reconstruction
 *   [Policy Gradient (⭐7.3k)](https://github.com/zsdonghao/tensorlayer/blob/master/example/tutorial_atari_pong.py) - For Playing Atari Ping Pong
 *   [Deep Q-Network (⭐7.3k)](https://github.com/zsdonghao/tensorlayer/blob/master/example/tutorial_frozenlake_dqn.py) - For Playing Frozen Lake Game
 *   [AC (⭐7.3k)](https://github.com/zsdonghao/tensorlayer/blob/master/example/tutorial_cartpole_ac.py) - Actor Critic for Playing Discrete Action space Game (Cartpole)
 *   [A3C (⭐7.3k)](https://github.com/zsdonghao/tensorlayer/blob/master/example/tutorial_bipedalwalker_a3c_continuous_action.py) - Asynchronous Advantage Actor Critic (A3C) for Continuous Action Space (Bipedal Walker)
-*   [DAGGER (⭐70)](https://github.com/zsdonghao/Imitation-Learning-Dagger-Torcs) - For Playing [Gym Torcs (⭐411)](https://github.com/ugo-nama-kun/gym_torcs)
+*   [DAGGER (⭐71)](https://github.com/zsdonghao/Imitation-Learning-Dagger-Torcs) - For Playing [Gym Torcs (⭐409)](https://github.com/ugo-nama-kun/gym_torcs)
 *   [TRPO (⭐43)](https://github.com/jjkke88/RL_toolbox) - For Continuous and Discrete Action Space by
-*   [U-Net (⭐484)](https://github.com/zsdonghao/u-net-brain-tumor) - For Brain Tumor Segmentation
-*   [Spatial Transformer Networks (⭐35)](https://github.com/zsdonghao/Spatial-Transformer-Nets) - Learn the Transformation Function
+*   [U-Net (⭐503)](https://github.com/zsdonghao/u-net-brain-tumor) - For Brain Tumor Segmentation
+*   [Spatial Transformer Networks (⭐36)](https://github.com/zsdonghao/Spatial-Transformer-Nets) - Learn the Transformation Function
 
 ### Libraries
 
@@ -81,7 +81,7 @@
 
 ### Books
 
-*   [Deep Learning using TensorLayer](http://www.broadview.com.cn/book/5059) - by Hao Dong et al. This book covers both deep learning and the implmentation by using TensorFlow and TensorLayer.
+*   [Deep Learning using TensorLayer](http://www.broadview.com.cn/book/5059) - by Hao Dong et al. This book covers both deep learning and the implementation by using TensorFlow and TensorLayer.
 
 ## [8. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 

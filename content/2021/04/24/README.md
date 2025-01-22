@@ -38,7 +38,7 @@
 
 ### Tools & Software / Search & Discovery
 
-*   [playback (⭐6)](https://github.com/wabarc/playback) - A toolkit for searching archived webpages from [Internet Archive](https://web.archive.org), [archive.today](https://archive.today), [Memento](http://timetravel.mementoweb.org) and beyond. *(In Development)*
+*   [playback (⭐8)](https://github.com/wabarc/playback) - A toolkit for searching archived webpages from [Internet Archive](https://web.archive.org), [archive.today](https://archive.today), [Memento](http://timetravel.mementoweb.org) and beyond. *(In Development)*
 
 ## [5. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/README.md)
 

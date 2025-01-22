@@ -71,7 +71,7 @@
 
 ### Utility / Docker Container Actions
 
-*   [Branch Protection Bot (⭐61)](https://github.com/benjefferies/branch-protection-bot) - Temporarily disable and re-enable "Include administrators" option in branch protection.
+*   [Branch Protection Bot (⭐72)](https://github.com/benjefferies/branch-protection-bot) - Temporarily disable and re-enable "Include administrators" option in branch protection.
 
 ### Deployment / Code Coverage
 

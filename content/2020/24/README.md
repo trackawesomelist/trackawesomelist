@@ -22,15 +22,15 @@
 
 ### Themes
 
-*   [tmux-power (⭐521)](https://github.com/wfxr/tmux-power) 8 powerline style themes for tmux, easily to expand.
+*   [tmux-power (⭐571)](https://github.com/wfxr/tmux-power) 8 powerline style themes for tmux, easily to expand.
 
 ### Plugins
 
-*   [tmux-fzf-url (⭐503)](https://github.com/wfxr/tmux-fzf-url) For opening urls from browser quickly without mouse.
+*   [tmux-fzf-url (⭐546)](https://github.com/wfxr/tmux-fzf-url) For opening urls from browser quickly without mouse.
 
 ## [4. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
-### Email Search / Email Check / Telegram
+### Email Search / Email Check / Steam
 
 *   [Reacher](https://reacher.email) - Real-time email verification API, written in Rust, 100% open-source.
 
@@ -57,11 +57,11 @@
 
 ### Tools
 
-*   [Migrate DB Magento 2 Commerce to Magento 2 Open-Source (⭐55)](https://github.com/opengento/magento2-downgrade-ee-ce)
+*   [Migrate DB Magento 2 Commerce to Magento 2 Open-Source (⭐66)](https://github.com/opengento/magento2-downgrade-ee-ce)
 
 ### Adminhtml / Backend
 
-*   [Clean Admin Menu (⭐137)](https://github.com/redchamps/clean-admin-menu) - Merges 3rd party extensions to a single menu.
+*   [Clean Admin Menu (⭐143)](https://github.com/redchamps/clean-admin-menu) - Merges 3rd party extensions to a single menu.
 
 ## [9. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
 
@@ -78,17 +78,13 @@
 
 ### Tools / Dynamic Analysis Tools
 
-*   [AndroPyTool (⭐334)](https://github.com/alexMyG/AndroPyTool) - a tool for extracting static and dynamic features from Android APKs. It combines different well-known Android app analysis tools such as DroidBox, FlowDroid, Strace, AndroGuard, or VirusTotal analysis.
-
-### Academic/Research/Publications/Books / Others
-
-*   [Android Reverse Engineering 101 by Daniele Altomare (Web Archive link)](http://web.archive.org/web/20180721134044/http://www.fasteque.com:80/android-reverse-engineering-101-part-1/)
+*   [AndroPyTool (⭐356)](https://github.com/alexMyG/AndroPyTool) - a tool for extracting static and dynamic features from Android APKs. It combines different well-known Android app analysis tools such as DroidBox, FlowDroid, Strace, AndroGuard, or VirusTotal analysis.
 
 ### Exploits/Vulnerabilities/Bugs / Malware
 
 *   [Kharon Malware Dataset](http://kharon.gforge.inria.fr/dataset/) - 7 malware which have been reverse-engineered and documented
 *   [Android Adware and General Malware Dataset](https://www.unb.ca/cic/datasets/android-adware.html)
-*   [AndroZoo](https://androzoo.uni.lu/) - AndroZoo is a growing collection of Android Applications collected from several sources, including the official Google Play app market.
+*   [AndroZoo](https://androzoo.uni.lu/) - AndroZoo is a growing Android application collection from several sources, including the official Google Play app market.
 *   ~~[Android PRAGuard Dataset](http://pralab.diee.unica.it/en/AndroidPRAGuardDataset) - The dataset contains 10479 samples, obtained by obfuscating the MalGenome and the Contagio Minidump datasets with seven different obfuscation techniques.~~
 
 ## [11. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
@@ -114,10 +110,6 @@
 ### Projects Using Vue.js / Apps/Websites
 
 *   [d-patterns.js.org](https://d-patterns.js.org) - FOSS Discord templates listing website 💬
-
-### Components & Libraries / UI Components
-
-*   [vue-snap (⭐163)](https://github.com/bartdominiak/vue-snap) - Lightweight Carousel based on Scroll Snap CSS
 
 ## [15. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
@@ -166,13 +158,13 @@
 
 ### Examples / Templates
 
-*   [ModernCppStarter (⭐2.9k)](https://github.com/TheLartians/ModernCppStarter) - A template for modern C++ projects using CMake, CI, code coverage, clang-format, reproducible dependency management, tests using [doctest (⭐4.3k)](https://github.com/onqtam/doctest) and much more. [`[UNLICENSE]`](https://unlicense.org/)
+*   [ModernCppStarter (⭐4.3k)](https://github.com/TheLartians/ModernCppStarter) - A template for modern C++ projects using CMake, CI, code coverage, clang-format, reproducible dependency management, tests using [doctest (⭐5.8k)](https://github.com/onqtam/doctest) and much more. [`[UNLICENSE]`](https://unlicense.org/)
 
 ## [21. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
 ### Third-Party Packages / Admin
 
-*   [impostor (⭐157)](https://github.com/avallbona/Impostor) - Impostor is a Django application which allows staff members to login as a different user by using their own username and password.
+*   [impostor (⭐159)](https://github.com/avallbona/Impostor) - Impostor is a Django application which allows staff members to login as a different user by using their own username and password.
 
 ### Projects / Boilerplate
 
@@ -194,7 +186,7 @@
 
 ### Tools
 
-*   [louketo-proxy (FKA Gatekeeper) (⭐950)](https://github.com/louketo/louketo-proxy)
+*   [louketo-proxy (FKA Gatekeeper) (⭐948)](https://github.com/louketo/louketo-proxy)
 
 ## [24. Awesome Lumen](/content/unicodeveloper/awesome-lumen/week/README.md)
 
@@ -206,7 +198,7 @@
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [moOde Audio](https://moodeaudio.org/) - Audiophile-quality music playback for the wonderful Raspberry Pi family of single board computers. ([Source Code (⭐974)](https://github.com/moode-player/moode)) `GPL-3.0` `PHP`
+*   [moOde Audio](https://moodeaudio.org/) - Audiophile-quality music playback for the wonderful Raspberry Pi family of single board computers. ([Source Code (⭐1.1k)](https://github.com/moode-player/moode)) `GPL-3.0` `PHP`
 
 ## [26. Public Apis](/content/public-apis/public-apis/week/README.md)
 
@@ -240,17 +232,17 @@
 
 ### Templates / Preferences
 
-*   [Smart Washing Machine (⭐873)](https://github.com/pawlik92/flutter_whirlpool) <!--stargazers:pawlik92/flutter_whirlpool--> - Smart washing machine UI challenge app with Box2D physic engine by [Tomasz Pawlikowski](https://github.com/pawlik92)
+*   [Smart Washing Machine (⭐882)](https://github.com/pawlik92/flutter_whirlpool) <!--stargazers:pawlik92/flutter_whirlpool--> - Smart washing machine UI challenge app with Box2D physic engine by [Tomasz Pawlikowski](https://github.com/pawlik92)
 
 ## [30. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
 ### Collection of Actions / Docker Container Actions
 
-*   [Use HashiCorp's Terraform (⭐849)](https://github.com/hashicorp/setup-terraform)
+*   [Use HashiCorp's Terraform (⭐1.3k)](https://github.com/hashicorp/setup-terraform)
 
 ### Static Analysis / Testing
 
-*   [Display Inline Code Annotations for Jest Tests (⭐13)](https://github.com/IgnusG/jest-report-action)
+*   [Display Inline Code Annotations for Jest Tests (⭐16)](https://github.com/IgnusG/jest-report-action)
 
 ### Tutorials / Terraform
 
@@ -277,7 +269,7 @@
 
 ### Applications
 
-*   [wezterm (⭐16k)](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer
+*   [wezterm (⭐19k)](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer
 
 ## [34. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
 
@@ -494,12 +486,8 @@
 
 ### GTFS Analysis Tools / Ruby
 
-*   [GTFS Kit (⭐36)](https://github.com/mrcagney/gtfs_kit) - A Python 3.6+ tool kit for analyzing General Transit Feed Specification (GTFS) data. Supersedes [GTFSTK](https://github.com/araichev/gtfstk).
+*   [GTFS Kit (⭐58)](https://github.com/mrcagney/gtfs_kit) - A Python 3.6+ tool kit for analyzing General Transit Feed Specification (GTFS) data. Supersedes [GTFSTK](https://github.com/araichev/gtfstk).
 *   [Busbuzzard (⭐10)](https://github.com/bmander/busbuzzard) - Inference of probabilistic schedules from empirical data about transit vehicles.
-
-### GTFS Libraries / Python
-
-*   [GTFSTK](https://github.com/araichev/gtfstk) - A Python 3 toolkit for analyzing GTFS data in memory. Uses Pandas and Shapely for speed. Superseded by [GTFS Kit (⭐36)](https://github.com/mrcagney/gtfs_kit).
 
 ### GTFS Realtime Utilities / Ruby
 
@@ -557,27 +545,27 @@
 
 ### Telegram
 
-*   [vgram (⭐145)](https://github.com/dariotarantini/vgram) - Telegram bot library.
+*   [vgram (⭐146)](https://github.com/dariotarantini/vgram) - Telegram bot library.
 
 ## [49. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
 
 ### Auth
 
-*   [FastAPI Auth (⭐140)](https://github.com/dmontagu/fastapi-auth) - Pluggable auth that supports the OAuth2 Password Flow with JWT access and refresh tokens.
-*   [FastAPI Login (⭐628)](https://github.com/MushroomMaula/fastapi_login) - Account management and authentication (based on [Flask-Login (⭐3.5k)](https://github.com/maxcountryman/flask-login)).
-*   [FastAPI Permissions (⭐466)](https://github.com/holgi/fastapi-permissions) - Row-level permissions.
+*   [FastAPI Auth (⭐144)](https://github.com/dmontagu/fastapi-auth) - Pluggable auth that supports the OAuth2 Password Flow with JWT access and refresh tokens.
+*   [FastAPI Login (⭐650)](https://github.com/MushroomMaula/fastapi_login) - Account management and authentication (based on [Flask-Login (⭐3.6k)](https://github.com/maxcountryman/flask-login)).
+*   [FastAPI Permissions (⭐502)](https://github.com/holgi/fastapi-permissions) - Row-level permissions.
 
 ### Databases / ORMs
 
-*   [FastAPI SQLAlchemy (⭐600)](https://github.com/mfreeborn/fastapi-sqlalchemy) - Simple integration between FastAPI and [SQLAlchemy](https://www.sqlalchemy.org/).
+*   [FastAPI SQLAlchemy (⭐629)](https://github.com/mfreeborn/fastapi-sqlalchemy) - Simple integration between FastAPI and [SQLAlchemy](https://www.sqlalchemy.org/).
 *   [GINO (⭐2.7k)](https://github.com/python-gino/gino) - A lightweight asynchronous ORM built on top of SQLAlchemy core for Python asyncio.
-    *   [FastAPI Example (⭐413)](https://github.com/leosussan/fastapi-gino-arq-uvicorn)
+    *   [FastAPI Example (⭐428)](https://github.com/leosussan/fastapi-gino-arq-uvicorn)
 *   [ORM (⭐1.8k)](https://github.com/encode/orm) - An async ORM.
 
 ### Databases / Query Builders
 
-*   [asyncpgsa (⭐417)](https://github.com/CanopyTax/asyncpgsa) - A wrapper around [asyncpg (⭐6.8k)](https://github.com/MagicStack/asyncpg) for use with [SQLAlchemy Core](https://docs.sqlalchemy.org/en/latest/core/).
-*   [Databases (⭐3.8k)](https://github.com/encode/databases) - Async SQL query builder that works on top of the [SQLAlchemy Core](https://docs.sqlalchemy.org/en/latest/core/) expression language.
+*   [asyncpgsa (⭐416)](https://github.com/CanopyTax/asyncpgsa) - A wrapper around [asyncpg (⭐7.1k)](https://github.com/MagicStack/asyncpg) for use with [SQLAlchemy Core](https://docs.sqlalchemy.org/en/latest/core/).
+*   [Databases (⭐3.9k)](https://github.com/encode/databases) - Async SQL query builder that works on top of the [SQLAlchemy Core](https://docs.sqlalchemy.org/en/latest/core/) expression language.
 
 ### Databases / ODMs
 
@@ -585,23 +573,22 @@
 
 ### Databases / Other Tools
 
-*   [Pydantic-SQLAlchemy (⭐1.1k)](https://github.com/tiangolo/pydantic-sqlalchemy) - Convert SQLAlchemy models to [Pydantic](https://docs.pydantic.dev/latest/) models.
+*   [Pydantic-SQLAlchemy (⭐1.2k)](https://github.com/tiangolo/pydantic-sqlalchemy) - Convert SQLAlchemy models to [Pydantic](https://docs.pydantic.dev/latest/) models.
 
 ### Developer Tools / Other Tools
 
-*   [FastAPI Client Generator (⭐331)](https://github.com/dmontagu/fastapi_client) - Generate a mypy- and IDE-friendly API client from an OpenAPI spec.
-*   [FastAPI Versioning (⭐640)](https://github.com/DeanWay/fastapi-versioning) - API versioning.
-*   [Jupyter Notebook REST API (⭐77)](https://github.com/Invictify/Jupter-Notebook-REST-API) - Run your Jupyter notebooks as RESTful API endpoints.
+*   [FastAPI Client Generator (⭐336)](https://github.com/dmontagu/fastapi_client) - Generate a mypy- and IDE-friendly API client from an OpenAPI spec.
+*   [FastAPI Versioning (⭐670)](https://github.com/DeanWay/fastapi-versioning) - API versioning.
+*   [Jupyter Notebook REST API (⭐80)](https://github.com/Invictify/Jupter-Notebook-REST-API) - Run your Jupyter notebooks as RESTful API endpoints.
 
 ### Utils / Other Tools
 
-*   [FastAPI Contrib (⭐611)](https://github.com/identixone/fastapi_contrib) - Opinionated set of utilities: pagination, auth middleware, permissions, custom exception handlers, MongoDB support, and Opentracing middleware.
-*   [FastAPI Plugins (⭐358)](https://github.com/madkote/fastapi-plugins) - Redis and Scheduler plugins.
-*   [FastAPI ServiceUtils (⭐33)](https://github.com/skallfass/fastapi_serviceutils) - Generator for creating API services.
-*   [FastAPI Utilities (⭐1.9k)](https://github.com/dmontagu/fastapi-utils) - Reusable utilities: class-based views, response inferring router, periodic tasks, timing middleware, SQLAlchemy session, OpenAPI spec simplification.
+*   [FastAPI Contrib (⭐627)](https://github.com/identixone/fastapi_contrib) - Opinionated set of utilities: pagination, auth middleware, permissions, custom exception handlers, MongoDB support, and Opentracing middleware.
+*   [FastAPI Plugins (⭐405)](https://github.com/madkote/fastapi-plugins) - Redis and Scheduler plugins.
+*   [FastAPI ServiceUtils (⭐34)](https://github.com/skallfass/fastapi_serviceutils) - Generator for creating API services.
 *   [Prerender Python Starlette (⭐15)](https://github.com/BeeMyDesk/prerender-python-starlette) - Starlette middleware for Prerender.
-*   [SlowApi (⭐1.1k)](https://github.com/laurents/slowapi) - Rate limiter (based on [Flask-Limiter](https://flask-limiter.readthedocs.io)).
-*   [Starlette Exporter (⭐305)](https://github.com/stephenhillier/starlette_exporter) - One more prometheus integration for FastAPI and Starlette.
+*   [SlowApi (⭐1.3k)](https://github.com/laurents/slowapi) - Rate limiter (based on [Flask-Limiter](https://flask-limiter.readthedocs.io)).
+*   [Starlette Exporter (⭐319)](https://github.com/stephenhillier/starlette_exporter) - One more prometheus integration for FastAPI and Starlette.
 
 ### Official Resources / Other Tools
 
@@ -617,21 +604,21 @@
 
 ### Serverless / Other Tools
 
-*   [Vercel](https://vercel.com/) - (formerly Zeit) ([example (⭐71)](https://github.com/Snailedlt/Markdown-Videos)).
+*   [Vercel](https://vercel.com/) - (formerly Zeit) ([example (⭐81)](https://github.com/Snailedlt/Markdown-Videos)).
 
 ### Boilerplate / Other Tools
 
-*   [FastAPI Model Server Skeleton (⭐377)](https://github.com/eightBEC/fastapi-ml-skeleton) - Skeleton app to serve machine learning models production-ready.
-*   [cookiecutter-spacy-fastapi (⭐505)](https://github.com/microsoft/cookiecutter-spacy-fastapi) - Quick deployments of spaCy models with FastAPI.
+*   [FastAPI Model Server Skeleton (⭐418)](https://github.com/eightBEC/fastapi-ml-skeleton) - Skeleton app to serve machine learning models production-ready.
+*   [cookiecutter-spacy-fastapi (⭐526)](https://github.com/microsoft/cookiecutter-spacy-fastapi) - Quick deployments of spaCy models with FastAPI.
 *   [Pywork (⭐11)](https://github.com/vutran1710/YeomanPywork) - [Yeoman](https://yeoman.io/) generator to scaffold a FastAPI app.
-*   [FastAPI Nano (⭐832)](https://github.com/rednafi/fastapi-nano) - Simple FastAPI template with factory pattern architecture.
+*   [FastAPI Nano (⭐910)](https://github.com/rednafi/fastapi-nano) - Simple FastAPI template with factory pattern architecture.
 
 ### Open Source Projects / Other Tools
 
-*   [Dispatch (⭐4.9k)](https://github.com/Netflix/dispatch) - Manage security incidents.
-*   [Mailer (⭐57)](https://github.com/rclement/mailer) - Dead-simple mailer micro-service for static websites.
-*   [Sprites as a service (⭐304)](https://github.com/ljvmiranda921/sprites-as-a-service) - Generate your personal 8-bit avatars using Cellular Automata.
-*   [Slackers (⭐79)](https://github.com/uhavin/slackers) - Slack webhooks API.
+*   [Dispatch (⭐5.3k)](https://github.com/Netflix/dispatch) - Manage security incidents.
+*   [Mailer (⭐60)](https://github.com/rclement/mailer) - Dead-simple mailer micro-service for static websites.
+*   [Sprites as a service (⭐307)](https://github.com/ljvmiranda921/sprites-as-a-service) - Generate your personal 8-bit avatars using Cellular Automata.
+*   [Slackers (⭐78)](https://github.com/uhavin/slackers) - Slack webhooks API.
 
 ## [50. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
@@ -700,7 +687,7 @@
 
 ### Table of Contents / Testing
 
-*   [Infection (⭐2k)](https://github.com/infection/infection) - An AST-based PHP Mutation testing framework.
+*   [Infection (⭐2.1k)](https://github.com/infection/infection) - An AST-based PHP Mutation testing framework.
 
 ### Configuration / PHP Internals Reading
 
@@ -710,7 +697,7 @@
 
 ### Keyboard / Barcode
 
-*   [KeyboardShortcuts (⭐1.9k)](https://github.com/sindresorhus/KeyboardShortcuts) - Add user-customizable global keyboard shortcuts to your macOS app. Includes a Cocoa and SwiftUI component.
+*   [KeyboardShortcuts (⭐2k)](https://github.com/sindresorhus/KeyboardShortcuts) - Add user-customizable global keyboard shortcuts to your macOS app. Includes a Cocoa and SwiftUI component.
 
 ### Mock / Barcode
 
@@ -720,12 +707,12 @@
 
 ### Plugins / Misc
 
-*   [Only-Error (⭐15)](https://github.com/davidjbradshaw/eslint-plugin-only-error) - Convert all rules to errors.
-*   [Only-Warn (⭐155)](https://github.com/bfanger/eslint-plugin-only-warn) - Convert all rules to warnings.
+*   [Only-Error (⭐16)](https://github.com/davidjbradshaw/eslint-plugin-only-error) - Convert all rules to errors.
+*   [Only-Warn (⭐161)](https://github.com/bfanger/eslint-plugin-only-warn) - Convert all rules to warnings.
 
 ### Plugins / Testing Tools
 
-*   [Testing Library (⭐971)](https://github.com/testing-library/eslint-plugin-testing-library) - Linting rules for Testing Library.
+*   [Testing Library (⭐989)](https://github.com/testing-library/eslint-plugin-testing-library) - Linting rules for Testing Library.
 
 ## [59. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
@@ -776,13 +763,13 @@
 
 ### Libraries and Tools / Python
 
-*   [Scapy (⭐9.8k)](https://github.com/secdev/scapy) - A python library to send, receive, edit raw packets. Supports CAN and automotive protocols: see the [automotive doc](https://scapy.readthedocs.io/en/latest/layers/automotive.html)
+*   [Scapy (⭐11k)](https://github.com/secdev/scapy) - A python library to send, receive, edit raw packets. Supports CAN and automotive protocols: see the [automotive doc](https://scapy.readthedocs.io/en/latest/layers/automotive.html)
 
 ## [64. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Layout
 
-*   [Grid (⭐1.7k)](https://github.com/exyte/Grid) - The most powerful Grid container missed in SwiftUI.
+*   [Grid (⭐1.8k)](https://github.com/exyte/Grid) - The most powerful Grid container missed in SwiftUI.
 
 ## [65. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
@@ -798,25 +785,25 @@
 
 ### Framework Components
 
-*   [Athena Event Dispatcher (⭐13)](https://github.com/athena-framework/event-dispatcher) - A Mediator and Observer pattern event library
+*   [Athena Event Dispatcher (⭐14)](https://github.com/athena-framework/event-dispatcher) - A Mediator and Observer pattern event library
 
 ### Network Protocols
 
-*   [crystal-mqtt (⭐19)](https://github.com/spider-gazelle/crystal-mqtt) - A MQTT client
+*   [crystal-mqtt (⭐20)](https://github.com/spider-gazelle/crystal-mqtt) - A MQTT client
 
 ### Web Frameworks
 
-*   [Athena (⭐207)](https://github.com/athena-framework/athena) - A web framework comprised of reusable, independent components
+*   [Athena (⭐213)](https://github.com/athena-framework/athena) - A web framework comprised of reusable, independent components
 
 ### Official Documentation Translations
 
-*   [Crank (⭐50)](https://github.com/arktisklada/crank) - A Procfile-based application manager (like Foreman)
+*   [Crank (⭐51)](https://github.com/arktisklada/crank) - A Procfile-based application manager (like Foreman)
 
 ## [67. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/week/README.md)
 
 ### External Services
 
-*   [steam-box (⭐159)](https://github.com/YouEclipse/steam-box) - Update a pinned gist to contain your Steam playtime leaderboard.
+*   [steam-box (⭐167)](https://github.com/YouEclipse/steam-box) - Update a pinned gist to contain your Steam playtime leaderboard.
 
 ## [68. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/week/README.md)
 
@@ -840,7 +827,6 @@
 
 ### Version Control
 
-*   [Tower](https://www.git-tower.com/students/github) \[DISCOUNT] -  The Git client that brings all of Git and GitHub's power to the desktop, for Mac and Windows. Free license for Tower Pro while you're a student.
 *   [GitKraken](https://www.gitkraken.com/github-student-developer-pack) \[FREE] - Pro version of the GitKraken Client. Sign into the desktop version after getting your [Github Student Developer Pack](https://education.github.com/pack).
 *   [Sentry](https://sentry.io/for/education/) \[FREE] - Open-source error tracking that helps developers monitor and fix crashes in real time. Also included via [Github Student Developer Pack](https://education.github.com/pack).
 *   [Working Copy](https://workingcopy.app/education/) \[FREE] - Powerful Git client for iOS that clones, edits, commits, pushes. All Pro features for free while you are a student via [Github Student Developer Pack](https://education.github.com/pack).
@@ -879,8 +865,6 @@
 ### Management Systems
 
 *   [PushBots](https://pushbots.com/for/education/) \[FREE] - The easiest way to engage your mobile & web app users via push notifications. Free Premium account for 6 months.
-*   [EverSQL](https://www.eversql.com/github-students/) \[FREE] - Boost your database performance by automatically optimizing your SQL queries.Free 6-month subscription to the Basic plan
-*   [Weglot](https://weglot.com/github-students/) \[FREE] - Make any website multilingual and manage your translations through a single platform.Free 1-year Pro Plan giving you access to unlimited languages + up to 200k translated words.
 
 ### Programming Help
 
@@ -894,7 +878,6 @@
 
 ### Security
 
-*   [Shodan](https://www.shodan.io/) \[FREE / CREDIT] - Free upgrade (normally 49$) to gain full access to everything shodan has to offer + 100 Export credits. Simply use your academic email address when you signup.
 *   [Cryptolens](https://app.cryptolens.io/user/githubstudent) \[FREE] - License and sell your software securely.10 licenses and any number of end-users for free for students.
 *   [Termius](https://termius.com/education) \[FREE] - SSH client that works on desktop and mobile. Termius securely syncs data across all your devices. Free access to the Premium plan while you're a student.
 *   [Astra](https://www.getastra.com/github-student-developer-pack) \[FREE] - Security suite for your website - firewall, malware scanner & managed bug bounty platform.6 month access to website firewall & malware scanner.
@@ -909,21 +892,15 @@
 
 *   [Tableau Desktop](https://www.tableau.com/academic/students) \[FREE] - One Year Professional License for Students.
 *   [Appfigures](https://appfigures.com/landing/github-student) \[FREE] - App Store analytics, optimization, and intelligence. Free access to the Grow plan for 1 year.
-*   [Simple Analytics](https://simpleanalytics.com/students) \[FREE] - Privacy-friendly analytics with a simple interface and API.Starter plan free for one year, including 100k page views per month.
 
 ### Password Managers
 
 *   [Dashlane](https://www.dashlane.com/students) \[FREE] - 1 year of free Dashlane Premium for Students, offer for new and existing users with eligible student emails ($3.33/month thereafter)
 *   [RoboForm](https://www.roboform.com/promotions/college) \[FREE] - Free for students and professors with a valid college or university email address for the first year ($12/year thereafter)
 
-### Infrastructure Monitoring
-
-*   [Netwise](https://www.netwise.co.uk/students/) \[FREE] - Turnkey data centre services for the hosting of critical IT infrastructure systems.Free single unit server colocation package free for 12 months.
-
 ### Software Packs
 
 *   [Intel Tools for Students](https://software.intel.com/en-us/qualify-for-free-software/student) \[FREE] - Free access to the select Intel® Software Development Products, including: Intel® XDK, Intel® Video Pro Analyzer, Intel® System Studio, Intel® Parallel Studio XE Composer Edition and Intel® Parallel Studio XE Cluster Edition (includes Fortran and C/C++).
-*   [IBM Student Developer Community](https://developer.ibm.com/students/) \[FREE] - Get easy access to the tools you need to develop the next great thing. Enjoy powerful technical and strategic resources from IBM.
 *   [Exploratory](https://exploratory.io/) \[FREE] - Exploratory’s Simple UI experience makes it possible for Anyone to use the latest and the most advanced innovation in Data Science to discover deep insights.Student Registration Available for pricing.
 
 ### Learning Resources
@@ -931,7 +908,6 @@
 *   [Frontend Masters](https://frontendmasters.com/welcome/github-student-developers/) \[FREE] - Advance your skills with in-depth JavaScript, Node.js & front-end engineering courses. Getting your career started in field of FullStack Development with this amazing course. Free 6-months access to all courses and workshops.
 *   [One Month](https://onemonth.com/github/students) \[FREE] - Learn HTML, CSS, JavaScript and Python in just 30 days!You will get Free 30-day One Month subscription.
 *   [SymfonyCasts](https://symfonycasts.com/github-student) \[FREE] - Master Symfony and PHP with video tutorials and code challenges. Free 3-month subscription for students.
-*   [next.tech](https://next.tech/github-students) \[FREE] - Learn tech skills and build software directly from your browser with real, online computing environments. Free access to all interactive courses and cloud computing environments for 12 months.
 *   [Educative](https://www.educative.io/github-students) \[FREE] - Level up on trending coding skills at your own pace with interactive, text-based courses. Get 6 free months of 60+ courses covering in-demand topics like Web Development, Python, Java, and Machine Learning.
 *   [Interview Cake](https://www.interviewcake.com/github-students) \[FREE] - Interview Cake makes coding interviews a piece of cake with practice questions, data structures and algorithms reference pages, cheat sheets, and more. Access to the full coding interview prep course for 3 weeks.
 *   [Adafruit](https://www.adafruit.com/github-students) \[FREE] - Adafruit is an open-source hardware and open-source educational electronics company based in NYC, USA.One year of Adafruit IO+ and discounts on selected hardware.
@@ -950,18 +926,18 @@
 
 ### Python / Data Sources
 
-*   [yliveticker (⭐139)](https://github.com/yahoofinancelive/yliveticker) - Live stream of market data from Yahoo Finance websocket.
+*   [yliveticker (⭐149)](https://github.com/yahoofinancelive/yliveticker) - Live stream of market data from Yahoo Finance websocket.
 
 ### Python / Visualization
 
-*   [D-Tale (⭐4.7k)](https://github.com/man-group/dtale) - Visualizer for pandas dataframes and xarray datasets.
+*   [D-Tale (⭐4.8k)](https://github.com/man-group/dtale) - Visualizer for pandas dataframes and xarray datasets.
 
 ## [71. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Projects
 
-*   [Yew Fullstack Boilerplate (⭐57)](https://github.com/lukidoescode/yew-fullstack-boilerplate) - Highly opinionated boilerplate for creating full stack applications with Rust.
-*   [Chord Quiz (⭐15)](https://github.com/Stigjb/chord-quiz) - Practice recognizing chords in this Rust/Yew/WebAssembly app.
+*   [Yew Fullstack Boilerplate (⭐58)](https://github.com/lukidoescode/yew-fullstack-boilerplate) - Highly opinionated boilerplate for creating full stack applications with Rust.
+*   [Chord Quiz (⭐16)](https://github.com/Stigjb/chord-quiz) - Practice recognizing chords in this Rust/Yew/WebAssembly app.
 
 ---
 

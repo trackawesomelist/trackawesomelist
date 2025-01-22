@@ -37,10 +37,6 @@
 
 *   [codefresh.io](https://codefresh.io) — Free-for-Life plan: 1 build, one environment, shared servers, unlimited public repos
 
-### Monitoring
-
-*   [freeboard.io](https://freeboard.io/) — Free for public projects. Dashboards for your Internet of Things (IoT) projects
-
 ### Web Hosting
 
 *   [surge.sh](https://surge.sh/) — Static web publishing for Front-End developers. Unlimited sites with custom domain support
@@ -55,7 +51,7 @@
 
 ### Programming Tools / Lenses
 
-*   [eslint-plugin-fp (⭐969)](https://github.com/jfmengels/eslint-plugin-fp) - ESLint rules for functional programming
+*   [eslint-plugin-fp (⭐967)](https://github.com/jfmengels/eslint-plugin-fp) - ESLint rules for functional programming
 
 ## [6. Awesome Information Retrieval](/content/harpribot/awesome-information-retrieval/week/README.md)
 
@@ -239,7 +235,7 @@
 
 ### Algorithms and Data structures
 
-*   [indifferent (⭐20)](https://github.com/vic/indifferent) - Indifferent access for Elixir maps/list/tuples with custom key conversion.
+*   [indifferent (⭐19)](https://github.com/vic/indifferent) - Indifferent access for Elixir maps/list/tuples with custom key conversion.
 
 ### Cloud Infrastructure and Management
 
@@ -252,7 +248,7 @@
 
 ### Utilities
 
-*   [dress (⭐62)](https://github.com/veelenga/dress) - Cli app that makes your stdout fancy.
+*   [dress (⭐61)](https://github.com/veelenga/dress) - Cli app that makes your stdout fancy.
 
 ## [28. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
 
@@ -271,11 +267,11 @@
 
 ### Go / Erlang
 
-*   [RPCX (⭐8k)](https://github.com/smallnest/rpcx) - A distributed RPC service framework based on NET/RPC like Alibaba Dubbo and Weibo Motan.
+*   [RPCX (⭐8.2k)](https://github.com/smallnest/rpcx) - A distributed RPC service framework based on NET/RPC like Alibaba Dubbo and Weibo Motan.
 
 ### Java VM / Java
 
-*   [Disruptor (⭐17k)](https://github.com/LMAX-Exchange/disruptor) - High-performance inter-thread messaging library.
+*   [Disruptor (⭐18k)](https://github.com/LMAX-Exchange/disruptor) - High-performance inter-thread messaging library.
 
 ### Java VM / Scala
 
@@ -291,7 +287,7 @@
 
 ### Storage / Scala
 
-*   [AtlasDB (⭐47)](https://github.com/palantir/atlasdb) - Transactional layer on top of a key value store.
+*   [AtlasDB (⭐57)](https://github.com/palantir/atlasdb) - Transactional layer on top of a key value store.
 
 ### Testing / Scala
 
@@ -353,7 +349,7 @@
 
 ### Articles • Tutorials / Shaders • OpenGL • WebGL
 
-*   [WebGL Lessons — ThreeJS Shaders (⭐363)](https://github.com/Jam3/jam3-lesson-webgl-shader-threejs) - Using custom vertex and fragment shaders in ThreeJS.
+*   [WebGL Lessons — ThreeJS Shaders (⭐366)](https://github.com/Jam3/jam3-lesson-webgl-shader-threejs) - Using custom vertex and fragment shaders in ThreeJS.
 *   [ThreeJS post-proces example (⭐24)](https://github.com/Jam3/threejs-post-process-example) - example of post-processing effects in ThreeJS.
 
 ## [35. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
@@ -474,7 +470,7 @@
 
 ### Other Useful Repositories
 
-- Repository: [Linux Kernel Exploitation (⭐5.5k)](https://github.com/xairy/linux-kernel-exploitation)
+- Repository: [Linux Kernel Exploitation (⭐5.7k)](https://github.com/xairy/linux-kernel-exploitation)
 
   Description: A bunch of links related to Linux kernel fuzzing and exploitation
 

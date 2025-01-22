@@ -44,7 +44,7 @@
 
 ### Email
 
-*   [burnex (⭐71)](https://github.com/Betree/burnex) - Burner email (temporary address) detector.
+*   [burnex (⭐73)](https://github.com/Betree/burnex) - Burner email (temporary address) detector.
 
 ## [7. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
@@ -67,7 +67,7 @@
 
 ### Cursors / Skeumorphic Icons
 
-*   [Bibata (⭐1.9k)](https://github.com/KaizIqbal/Bibata_Cursor) - Silm material-based cursor theme.
+*   [Bibata (⭐2.2k)](https://github.com/KaizIqbal/Bibata_Cursor) - Silm material-based cursor theme.
 *   [Capitaine Cursors (⭐1.1k)](https://github.com/keeferrourke/capitaine-cursors) - An x-cursor theme inspired by macOS and based on KDE Breeze. Designed to be paired with La Capitaine icons.
 
 ## [10. Awesome Devenv](/content/jondot/awesome-devenv/README.md)

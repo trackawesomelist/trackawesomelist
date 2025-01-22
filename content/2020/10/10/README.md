@@ -34,7 +34,7 @@
 
 ### GUI
 
-*   [NanoGui (⭐1.5k)](https://github.com/mitsuba-renderer/nanogui) - A minimalistic cross-platform widget library for OpenGL 3.x or higher. \[BSD]
+*   [NanoGui (⭐1.6k)](https://github.com/mitsuba-renderer/nanogui) - A minimalistic cross-platform widget library for OpenGL 3.x or higher. \[BSD]
 
 ## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -44,7 +44,7 @@
 
 ### Components & Libraries / Frameworks
 
-*   [BalmUI (⭐504)](https://github.com/balmjs/balm-ui) - A modular and customizable UI library based on Material Design and Vue 3.0
+*   [BalmUI (⭐508)](https://github.com/balmjs/balm-ui) - A modular and customizable UI library based on Material Design and Vue 3.0
 
 ## [6. Public Apis](/content/public-apis/public-apis/README.md)
 

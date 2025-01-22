@@ -10,13 +10,13 @@
 
 ### Firmware projects / WIP
 
-*   [LuLuu (⭐6)](https://github.com/fu5ha/luluu): Firmware for a custom RP2040-based display controller that streams animated images from a microSD card to a small LCD display.
+*   [LuLuu (⭐8)](https://github.com/fu5ha/luluu): Firmware for a custom RP2040-based display controller that streams animated images from a microSD card to a small LCD display.
 
 ## [2. Awesome V](/content/vlang/awesome-v/README.md)
 
 ### Utility
 
-*   [votp (⭐15)](https://github.com/OdaiGH/votp) - TOTP and HOTP implementation in v.
+*   [votp (⭐19)](https://github.com/OdaiGH/votp) - TOTP and HOTP implementation in v.
 
 ## [3. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
@@ -49,7 +49,7 @@
 
 ### LangChain / Multi-agents
 
-*   [LangChain Template: Research Assistant (⭐91k)](https://github.com/langchain-ai/langchain/tree/master/templates/research-assistant)
+*   [LangChain Template: Research Assistant (⭐99k)](https://github.com/langchain-ai/langchain/tree/master/templates/research-assistant)
 
 ### Image Segmentation / Deforum
 
@@ -65,7 +65,7 @@
 
 ### Component Libraries
 
-*   [TrendChart Elements (⭐34)](https://github.com/WebLogin/trendchart-elements) - Components to generate simple charts representing trends.
+*   [TrendChart Elements (⭐45)](https://github.com/WebLogin/trendchart-elements) - Components to generate simple charts representing trends.
 
 ### Standalone Components
 
@@ -89,13 +89,13 @@
 
 ### Split and Window / Diagnostics
 
-*   [jyscao/ventana.nvim (⭐18)](https://github.com/jyscao/ventana.nvim) - Convenient flips & shifts for your windows layout.
+*   [jyscao/ventana.nvim (⭐19)](https://github.com/jyscao/ventana.nvim) - Convenient flips & shifts for your windows layout.
 
 ## [9. Awesome Polars](/content/ddotta/awesome-polars/README.md)
 
 ### Libraries/Packages/Scripts / R
 
-*   [polarssql (⭐24)](https://github.com/rpolars/r-polarssql) - `polarssql` experimental package which is a DBI-compliant interface to Polars.
+*   [polarssql (⭐25)](https://github.com/rpolars/r-polarssql) - `polarssql` experimental package which is a DBI-compliant interface to Polars.
 
 ### Resources / Talks and videos
 
@@ -105,7 +105,7 @@
 
 ### Algorithms and Data Structures
 
-*   [ODiff (⭐2k)](https://github.com/dmtrKovalenko/odiff) – Library of [YIQ NTSC transmission image difference alghoritm](http://www.progmat.uaem.mx:8080/artVol2Num2/Articulo3Vol2Num2.pdf) implemented in OCaml and ReasonML.
+*   [ODiff (⭐2.1k)](https://github.com/dmtrKovalenko/odiff) – Library of [YIQ NTSC transmission image difference alghoritm](http://www.progmat.uaem.mx:8080/artVol2Num2/Articulo3Vol2Num2.pdf) implemented in OCaml and ReasonML.
 
 ### Code Analysis and Linters
 
@@ -117,7 +117,7 @@
 
 ### Serialization
 
-*   [atdgen (⭐311)](https://github.com/ahrefs/atd) — A serialization compiler for multiple languages (OCaml, Java, Python, Scala, Typescript) with a Binou or JSON format
+*   [atdgen (⭐316)](https://github.com/ahrefs/atd) — A serialization compiler for multiple languages (OCaml, Java, Python, Scala, Typescript) with a Binou or JSON format
 
 ## [11. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 

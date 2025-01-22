@@ -10,7 +10,7 @@
 
 ### Libraries/Packages/Scripts / Python
 
-*   [Polars for Identifiers and Standard Format Strings (⭐13)](https://github.com/abstractqqq/polars_istr) - Python package for Processing IBAN, ISINs, URLs and other standard format data in Polars by [@abstractqqq](https://github.com/abstractqqq).
+*   [Polars for Identifiers and Standard Format Strings (⭐14)](https://github.com/abstractqqq/polars_istr) - Python package for Processing IBAN, ISINs, URLs and other standard format data in Polars by [@abstractqqq](https://github.com/abstractqqq).
 
 ### Resources / Blog posts
 
@@ -20,13 +20,13 @@
 
 ### Tools / Reverse Engineering
 
-*   [Dexmod (⭐42)](https://github.com/google/dexmod) - tool to exemplify patching Dalvik bytecode in a DEX (Dalvik Executable) file, and assist in the static analysis of Android applications.
+*   [Dexmod (⭐54)](https://github.com/google/dexmod) - tool to exemplify patching Dalvik bytecode in a DEX (Dalvik Executable) file, and assist in the static analysis of Android applications.
 
 ## [3. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
 
 ### Developer Tools
 
-*   [learn-ocaml (⭐299)](https://github.com/ocaml-sf/learn-ocaml). Web app (written in OCaml) underlying the learn-ocaml-corpus. Can be customized to serve lectures (with Markdown slides), playgrounds (with a toplevel prelude), and interactive exercises (with OCaml tests). MIT License.
+*   [learn-ocaml (⭐304)](https://github.com/ocaml-sf/learn-ocaml). Web app (written in OCaml) underlying the learn-ocaml-corpus. Can be customized to serve lectures (with Markdown slides), playgrounds (with a toplevel prelude), and interactive exercises (with OCaml tests). MIT License.
 *   [learn-ocaml.el (⭐7)](https://github.com/pfitaxel/learn-ocaml.el). Minor mode for Emacs that can display exercise topics and grade exercise solutions, after logging to a Learn-OCaml instance. MIT License.
 
 ### Exercises and Short Examples
@@ -40,7 +40,7 @@
 ### Utilities
 
 *   [Validate (⭐16)](https://github.com/Axot017/validate) - PPX deriver designed to streamline the process of validating records.
-*   [sqids-ocaml (⭐10)](https://github.com/sqids/sqids-ocaml) - Official OCaml port of Sqids. Generate short unique IDs from numbers.
+*   [sqids-ocaml (⭐9)](https://github.com/sqids/sqids-ocaml) - Official OCaml port of Sqids. Generate short unique IDs from numbers.
 
 ## [4. Awesome Go](/content/avelino/awesome-go/README.md)
 
@@ -52,7 +52,7 @@
 
 ### Keybinding / Diagnostics
 
-*   [nvimtools/hydra.nvim (⭐123)](https://github.com/nvimtools/hydra.nvim) - Create custom submodes and menus. Port of Emacs Hydra. Maintained fork of anuvyklack/hydra.nvim.
+*   [nvimtools/hydra.nvim (⭐182)](https://github.com/nvimtools/hydra.nvim) - Create custom submodes and menus. Port of Emacs Hydra. Maintained fork of anuvyklack/hydra.nvim.
 
 ## [6. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/README.md)
 
@@ -68,7 +68,7 @@
 
 ## [8. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
 
-### Courses
+### Courses / Commerical Tools
 
 *   [Introduction to Artificial Intelligence (AI)](https://www.notion.so/owainlewis/Introduction-to-Artificial-Intelligence-AI-ef59b363654542e597ba46a19d129882?pvs=4) - A high-level introduction to AI from IBM on Coursera
 *   [Introduction to Generative AI](https://www.coursera.org/learn/introduction-to-generative-ai) - A beginner-level introduction to Generative AI from Google on Coursera
@@ -107,15 +107,15 @@
 
 ### Software / Bookmarks and Link Sharing
 
-*   [Grimoire](https://grimoire.pro) - Bookmark manager with a modern UI, automatic content & metadata extraction, categorization, filtering, and more. It has fully documented REST API, and Docker image for easy deployment. ([Source Code (⭐1.9k)](https://github.com/goniszewski/grimoire)) `MIT` `Nodejs/Docker`
+*   [Grimoire](https://grimoire.pro) - Bookmark manager with a modern UI, automatic content & metadata extraction, categorization, filtering, and more. It has fully documented REST API, and Docker image for easy deployment. ([Source Code (⭐2.2k)](https://github.com/goniszewski/grimoire)) `MIT` `Nodejs/Docker`
 
 ### Software / Polls and Events
 
-*   [gathio](https://gath.io/) - Self-destructing, shareable, no-registration event pages. ([Demo](https://gath.io/), [Source Code (⭐295)](https://github.com/lowercasename/gathio)) `GPL-3.0` `Nodejs/Docker`
+*   [gathio](https://gath.io/) - Self-destructing, shareable, no-registration event pages. ([Demo](https://gath.io/), [Source Code (⭐334)](https://github.com/lowercasename/gathio)) `GPL-3.0` `Nodejs/Docker`
 
 ### Software / Software Development - Project Management
 
-*   [Huly](https://huly.io) - All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion). ([Demo](https://app.huly.io), [Source Code (⭐6.9k)](https://github.com/hcengineering/platform)) `EPL-2.0` `Docker/K8S/Nodejs`
+*   [Huly](https://huly.io) - All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion). ([Demo](https://app.huly.io), [Source Code (⭐18k)](https://github.com/hcengineering/platform)) `EPL-2.0` `Docker/K8S/Nodejs`
 
 ## [13. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
 
@@ -125,7 +125,7 @@
 
 ### Software / Fonts
 
-*   [hf2gcode (⭐47)](https://github.com/Andy1978/hf2gcode) - Generates G-code from text with a Hershey font.
+*   [hf2gcode (⭐49)](https://github.com/Andy1978/hf2gcode) - Generates G-code from text with a Hershey font.
 
 ---
 

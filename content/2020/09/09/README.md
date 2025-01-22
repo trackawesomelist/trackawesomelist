@@ -42,13 +42,13 @@
 
 ### Testing / Misc
 
-*   [MBC3 RTC test ROM (⭐23)](https://github.com/aaaaaa123456789/rtc3test)
+*   [MBC3 RTC test ROM (⭐31)](https://github.com/aaaaaa123456789/rtc3test)
 
 ## [5. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
 ### Notifications and Messages / Code Coverage
 
-*   [Keep Your PRs in Sync With Teamwork Tasks (⭐55)](https://github.com/Teamwork/github-sync)
+*   [Keep Your PRs in Sync With Teamwork Tasks (⭐64)](https://github.com/Teamwork/github-sync)
 
 ## [6. Awesome Roslyn](/content/ironcev/awesome-roslyn/README.md)
 
@@ -114,13 +114,13 @@
 
 ### TextField / Barcode
 
-*   [FloatingLabelTextFieldSwiftUI (⭐478)](https://github.com/kishanraja/FloatingLabelTextFieldSwiftUI) - FloatingLabelTextFieldSwiftUI is a small and lightweight SwiftUI framework written in completely SwiftUI (not using UIViewRepresentable) that allows to create beautiful and customisable floating label textfield!
+*   [FloatingLabelTextFieldSwiftUI (⭐498)](https://github.com/kishanraja/FloatingLabelTextFieldSwiftUI) - FloatingLabelTextFieldSwiftUI is a small and lightweight SwiftUI framework written in completely SwiftUI (not using UIViewRepresentable) that allows to create beautiful and customisable floating label textfield!
 
 ## [15. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / Frameworks
 
-*   [Wave UI (⭐544)](https://github.com/antoniandre/wave-ui) - An emerging UI framework for Vue.js with only the bright side. ☀️
+*   [Wave UI (⭐558)](https://github.com/antoniandre/wave-ui) - An emerging UI framework for Vue.js with only the bright side. ☀️
 
 ---
 

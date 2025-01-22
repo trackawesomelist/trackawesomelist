@@ -42,11 +42,11 @@ Webpage: [hamburg.ccc.de](https://www.hamburg.ccc.de/)
 
 ### Tools / Python
 
-*   [Selene (⭐617)](https://github.com/yashaka/selene) - Selenide-inspired concise and readable automated test framework, supports Ajax well like Selenide.
+*   [Selene (⭐698)](https://github.com/yashaka/selene) - Selenide-inspired concise and readable automated test framework, supports Ajax well like Selenide.
 
 ### Tools / Java
 
-*   [Selenide (⭐1.7k)](https://github.com/codeborne/selenide) - A framework for writing easy-to-read and easy-to-maintain automated tests using a Fluent API. Selenide has a magic trick that resolves most problems with Ajax and timeouts.
+*   [Selenide (⭐1.9k)](https://github.com/codeborne/selenide) - A framework for writing easy-to-read and easy-to-maintain automated tests using a Fluent API. Selenide has a magic trick that resolves most problems with Ajax and timeouts.
 
 ## [4. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/README.md)
 
@@ -58,7 +58,7 @@ Webpage: [hamburg.ccc.de](https://www.hamburg.ccc.de/)
 
 ### Internationalization
 
-*   [Tolk (⭐580)](https://github.com/tolk/tolk) - A web interface for doing i18n translations packaged as a Rails engine.
+*   [Tolk (⭐605)](https://github.com/tolk/tolk) - A web interface for doing i18n translations packaged as a Rails engine.
 
 ## [6. Awesome Coins](/content/Zheaoli/awesome-coins/README.md)
 

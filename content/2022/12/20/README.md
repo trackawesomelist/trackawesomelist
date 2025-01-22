@@ -22,34 +22,34 @@
 
 ### Templates / Solid
 
-*   [vitesse-solid (⭐62)](https://github.com/xbmlz/vitesse-solid) - Opinionated Vite + SolidJS Starter Template. Includes TypeScript, ESLint, Prettier, UnoCSS, HopeUI and more.
+*   [vitesse-solid (⭐64)](https://github.com/xbmlz/vitesse-solid) - Opinionated Vite + SolidJS Starter Template. Includes TypeScript, ESLint, Prettier, UnoCSS, HopeUI and more.
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-api (⭐27)](https://github.com/yracnet/vite-plugin-api) - Generate route mapping for API Routes services from the directory tree.
+*   [vite-plugin-api (⭐37)](https://github.com/yracnet/vite-plugin-api) - Generate route mapping for API Routes services from the directory tree.
 
 ### React / Helpers
 
-*   [vite-plugin-react-click-to-component (⭐40)](https://github.com/ArnaudBarre/vite-plugin-react-click-to-component) - Uses Vite's launch middleware to enable alt+click to go to component.
+*   [vite-plugin-react-click-to-component (⭐45)](https://github.com/ArnaudBarre/vite-plugin-react-click-to-component) - Uses Vite's launch middleware to enable alt+click to go to component.
 
 ## [4. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Editing Support / Diagnostics
 
-*   [debugloop/telescope-undo.nvim (⭐597)](https://github.com/debugloop/telescope-undo.nvim) - A telescope extension to visualize your undo tree and fuzzy-search changes in it.
+*   [debugloop/telescope-undo.nvim (⭐699)](https://github.com/debugloop/telescope-undo.nvim) - A telescope extension to visualize your undo tree and fuzzy-search changes in it.
 
 ## [5. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [aws (⭐1)](https://github.com/chiemerieezechukwu/aws-zsh-theme) - Based on [robbyrussell (⭐172k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#robbyrussell), with an extra decorator to show your `$AWS_PROFILE` when it is set.
+*   [aws (⭐1)](https://github.com/chiemerieezechukwu/aws-zsh-theme) - Based on [robbyrussell (⭐175k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#robbyrussell), with an extra decorator to show your `$AWS_PROFILE` when it is set.
 *   [pico (⭐0)](https://github.com/PicoGeyer/zsh-pico-prompt) - Simple prompt modified from [zap-prompt (⭐26)](https://github.com/zap-zsh/zap-prompt) with decorators for `git` information, user\@hostname and working directory.
 
 ## [6. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
 
 ### Table of Contents / Streaming Library
 
-*   [Mediapipe (⭐27k)](https://github.com/google/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
+*   [Mediapipe (⭐28k)](https://github.com/google/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 
 ### Table of Contents / Closed Source
 

@@ -10,20 +10,20 @@
 
 ### Plugins
 
-*   🎨🧬 [Theme Variants (⭐190)](https://github.com/JakeNavith/tailwindcss-theme-variants) - Adds theme variants based on media queries and/or CSS selectors.
+*   🎨🧬 [Theme Variants (⭐196)](https://github.com/JakeNavith/tailwindcss-theme-variants) - Adds theme variants based on media queries and/or CSS selectors.
 
 ## [2. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### Driver crates / Other
 
-*   [IIS2MDC](https://crates.io/crates/iis2mdc) - I2C - ST's High accuracy, ultra-low-power, 3-axis digital output magnetometer - ![crates.io](https://img.shields.io/crates/v/iis2mdc.svg)
-*   [ISM330DHCX](https://crates.io/crates/ism330dhcx) - I2C - ST's IMU with 3D accelerometer, 3D gyroscope, ML core and more - ![crates.io](https://img.shields.io/crates/v/ism330dhcx.svg)
+*   [IIS2MDC](https://crates.io/crates/iis2mdc) - I2C - ST's High accuracy, ultra-low-power, 3-axis digital output magnetometer - [![crates.io](https://img.shields.io/crates/v/iis2mdc.svg)](https://crates.io/crates/iis2mdc)
+*   [ISM330DHCX](https://crates.io/crates/ism330dhcx) - I2C - ST's IMU with 3D accelerometer, 3D gyroscope, ML core and more - [![crates.io](https://img.shields.io/crates/v/ism330dhcx.svg)](https://crates.io/crates/ism330dhcx)
 
 ## [3. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
 ### GTFS Analysis Tools / Ruby
 
-*   [ESRI ArcGIS Public Transit Tools (GTFS) (⭐165)](https://github.com/Esri/public-transit-tools) - Tools for working with public transit data in ArcGIS
+*   [ESRI ArcGIS Public Transit Tools (GTFS) (⭐175)](https://github.com/Esri/public-transit-tools) - Tools for working with public transit data in ArcGIS
 
 ## [4. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 
@@ -37,19 +37,15 @@
 
 *   [Building a VueJS chat app with realtime storage of messages in Airtable](https://ably.com/blog/airtable-database-realtime-messages) by Srushtika Neelakantam (December 2020)
 
-### Components & Libraries / Integrations
-
-*   [vue-cli-plugin-capacitor (⭐131)](https://github.com/capacitor-community/vue-cli-plugin-capacitor) - A Vue CLI 3 Plugin for Capacitor
-
 ## [6. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Date and Time
 
-*   [calendarific (⭐3)](https://github.com/Bounceapp/elixir-calendarific) - Calendarific is a wrapper for the holiday API Calendarific.
+*   [calendarific (⭐4)](https://github.com/Bounceapp/elixir-calendarific) - Calendarific is a wrapper for the holiday API Calendarific.
 
 ### Text and Numbers
 
-*   [minigen (⭐17)](https://github.com/mrdimosthenis/minigen) - Random data generators for the Erlang ecosystem.
+*   [minigen (⭐18)](https://github.com/mrdimosthenis/minigen) - Random data generators for the Erlang ecosystem.
 
 ## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -68,14 +64,14 @@
 
 ### Others
 
-*   [eShopOnBlazor (⭐497)](https://github.com/dotnet-architecture/eShopOnBlazor) - ![GitHub stars](https://img.shields.io/github/stars/dotnet-architecture/eShopOnBlazor?style=flat-square\&cacheSeconds=604800\&logo=microsoft) ![last commit](https://img.shields.io/github/last-commit/dotnet-architecture/eShopOnBlazor?style=flat-square\&cacheSeconds=86400) Migration of a traditional ASP.NET Web Forms app to Blazor.
-*   [BlazorCRUD (⭐367)](https://github.com/thbst16/BlazorCrud) - ![stars](https://img.shields.io/github/stars/thbst16/BlazorCrud?style=flat-square\&cacheSeconds=604800) ![GitHub stars](https://img.shields.io/github/last-commit/thbst16/BlazorCrud?style=flat-square\&cacheSeconds=86400) Sample line of business application that illustrates key features of Blazor. [Demo](https://becksblazor.azurewebsites.net/).
+*   [eShopOnBlazor (⭐511)](https://github.com/dotnet-architecture/eShopOnBlazor) - ![GitHub stars](https://img.shields.io/github/stars/dotnet-architecture/eShopOnBlazor?style=flat-square\&cacheSeconds=604800\&logo=microsoft) ![last commit](https://img.shields.io/github/last-commit/dotnet-architecture/eShopOnBlazor?style=flat-square\&cacheSeconds=86400) Migration of a traditional ASP.NET Web Forms app to Blazor.
+*   [BlazorCRUD (⭐394)](https://github.com/thbst16/BlazorCrud) - ![stars](https://img.shields.io/github/stars/thbst16/BlazorCrud?style=flat-square\&cacheSeconds=604800) ![GitHub stars](https://img.shields.io/github/last-commit/thbst16/BlazorCrud?style=flat-square\&cacheSeconds=86400) Sample line of business application that illustrates key features of Blazor. [Demo](https://becksblazor.azurewebsites.net/).
 
 ## [9. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### JSON
 
-*   [json-struct (⭐415)](https://github.com/jorgen/json_struct) - High performance, single header JSON parser parsing to and from C++ structs. \[MIT]
+*   [json-struct (⭐429)](https://github.com/jorgen/json_struct) - High performance, single header JSON parser parsing to and from C++ structs. \[MIT]
 
 ## [10. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
@@ -87,22 +83,22 @@
 
 ### Retrieving images / Syntax highlighting packages
 
-*   [Arduino Gameboy Printer Emulator (⭐288)](https://github.com/mofosyne/arduino-gameboy-printer-emulator) - Emulate a gameboy printer via the gameboy link cable.
-*   [ESP8266 Game Boy Printer (⭐47)](https://github.com/applefreak/esp8266-gameboy-printer) -  A device that emulates the Gameboy Printer and lets you retrieve images using WiFi powered by an ESP8266.
-*   [WiFi GBP Emulator (⭐55)](https://github.com/HerrZatacke/wifi-gbp-emulator) - A GameBoy printer emulator which provides the received data over a WiFi connection.
-*   [Game Boy WiFi Printer - D1 Mini Shield (⭐21)](https://github.com/cristofercruz/gbp-esp-shield-pcb) - Game Boy Printer interface shield for D1 mini/mini Pro ESP8266 boards.
-*   [Game Boy Printer Sniffer (⭐8)](https://github.com/mofosyne/GameboyPrinterSniffer) - Sniff packet communications between a Game Boy and the Printer.
+*   [Arduino Gameboy Printer Emulator (⭐321)](https://github.com/mofosyne/arduino-gameboy-printer-emulator) - Emulate a gameboy printer via the gameboy link cable.
+*   [ESP8266 Game Boy Printer (⭐48)](https://github.com/applefreak/esp8266-gameboy-printer) -  A device that emulates the Gameboy Printer and lets you retrieve images using WiFi powered by an ESP8266.
+*   [WiFi GBP Emulator (⭐67)](https://github.com/HerrZatacke/wifi-gbp-emulator) - A GameBoy printer emulator which provides the received data over a WiFi connection.
+*   [Game Boy WiFi Printer - D1 Mini Shield (⭐22)](https://github.com/cristofercruz/gbp-esp-shield-pcb) - Game Boy Printer interface shield for D1 mini/mini Pro ESP8266 boards.
+*   [Game Boy Printer Sniffer (⭐9)](https://github.com/mofosyne/GameboyPrinterSniffer) - Sniff packet communications between a Game Boy and the Printer.
 
 ### Changing the camera's behavior / Syntax highlighting packages
 
 *   [Game Boy Camera Canon EF Lens Mount](http://ekeler.com/game-boy-camera-canon-ef-mount)
 *   [Game Boy Camera to Canon Lens mount](https://www.thingiverse.com/thing:4337362) - based on the above.
-*   [game-boy-camera-frame-replacer (⭐23)](https://github.com/cristofercruz/game-boy-camera-frame-replacer) - Manipulate the ROM of a camera to include custom frames
+*   [game-boy-camera-frame-replacer (⭐37)](https://github.com/cristofercruz/game-boy-camera-frame-replacer) - Manipulate the ROM of a camera to include custom frames
 
 ### Post processing / Syntax highlighting packages
 
-*   [Game Boy Printer Paper Simulation (⭐61)](https://github.com/mofosyne/GameboyPrinterPaperSimulation) - Generate as-if-printed images of digital printed images.
-*   [Game Boy Printer Web (⭐50)](https://github.com/HerrZatacke/gb-printer-web) - Gallery app for to the Game Boy camera: import pictures from exports or cartridge dumps and choose color palettes.
+*   [Game Boy Printer Paper Simulation (⭐75)](https://github.com/mofosyne/GameboyPrinterPaperSimulation) - Generate as-if-printed images of digital printed images.
+*   [Game Boy Printer Web (⭐57)](https://github.com/HerrZatacke/gb-printer-web) - Gallery app for to the Game Boy camera: import pictures from exports or cartridge dumps and choose color palettes.
 
 ---
 

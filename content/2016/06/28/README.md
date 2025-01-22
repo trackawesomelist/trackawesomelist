@@ -10,7 +10,7 @@
 
 ### Images / Barcode
 
-*   [Moa (⭐332)](https://github.com/evgenyneu/moa) - An image download extension of the image view for iOS, tvOS and macOS.
+*   [Moa (⭐333)](https://github.com/evgenyneu/moa) - An image download extension of the image view for iOS, tvOS and macOS.
 
 ## [2. Css Protips](/content/AllThingsSmitty/css-protips/README.md)
 

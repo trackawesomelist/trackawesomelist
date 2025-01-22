@@ -40,13 +40,13 @@
 
 ### Utilities / General Tools
 
-*   [Upscayl (⭐32k)](https://github.com/upscayl/upscayl) - Free and open-source AI image upscaling tool. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/upscayl/upscayl) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Upscayl (⭐34k)](https://github.com/upscayl/upscayl) - Free and open-source AI image upscaling tool. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/upscayl/upscayl) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / Frameworks
 
-*   [flowbite-vue (⭐786)](https://github.com/themesberg/flowbite-vue) - Vue component library based on Tailwind CSS
+*   [flowbite-vue (⭐796)](https://github.com/themesberg/flowbite-vue) - Vue component library based on Tailwind CSS
 
 ## [6. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
@@ -56,7 +56,7 @@
 
 ### Dates / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [frxjs-Ngx-Timeline (⭐35)](https://github.com/emanuelefricano93/frxjs-Ngx-Timeline) - This library allows you to integrate a timeline in your Angular app.
+*   [frxjs-Ngx-Timeline (⭐37)](https://github.com/emanuelefricano93/frxjs-Ngx-Timeline) - This library allows you to integrate a timeline in your Angular app.
 
 ### Unspecified / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -66,8 +66,9 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [awsp (⭐0)](https://github.com/suonto/awsp-zsh-plugin) - AWS profile management for ZSH. Inspired by oh-my-zsh's [aws (⭐174k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/aws/aws.plugin.zsh) plugin.
+*   [awsp (⭐0)](https://github.com/suonto/awsp-zsh-plugin) - AWS profile management for ZSH. Inspired by oh-my-zsh's [aws (⭐175k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/aws/aws.plugin.zsh) plugin. Shows details of currently active AWS profile.
 
 ---
 
+- Prev: [Dec 07, 2024](/content/2024/12/07/README.md)
 - Next: [Dec 05, 2024](/content/2024/12/05/README.md)

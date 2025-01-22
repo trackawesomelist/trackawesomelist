@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 11 - Mar 17, 2019
 
-56 awesome lists updated this week.
+55 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,7 +16,7 @@
 
 ### Multimedia content processing
 
-*   [FFmbc (⭐190)](https://github.com/bcoudurier/FFmbc) - FFmpeg customized for broadcast and professional usage.
+*   [FFmbc (⭐192)](https://github.com/bcoudurier/FFmbc) - FFmpeg customized for broadcast and professional usage.
 
 ## [3. Guitarspecs](/content/gitfrage/guitarspecs/week/README.md)
 
@@ -54,7 +54,7 @@
 
 ## [7. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
-### Telegram Channels / Book Deals (Affiliated) 🛍
+### Telegram Channels / Book Deals (Affiliated)
 
 *   [Open Data Science](https://t.me/opendatascience) – First Telegram Data Science channel. Covering all technical and popular staff about anything related to Data Science: AI, Big Data, Machine Learning, Statistics, general Math and the applications of former.
 *   [Machinelearning](https://t.me/ai_machinelearning_big_data) – Daily ML news.
@@ -171,7 +171,7 @@
 
 ## [10. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
-### Tools and frameworks
+### Tools and frameworks (a-z↓)
 
 *   [jest-puppeteer-react (⭐72)](https://github.com/Hapag-Lloyd/jest-puppeteer-react) - Visual regression testing with Jest and puppeteer for React components
 
@@ -206,7 +206,7 @@
 *   [Cytoscape](http://www.cytoscape.org/) - Cross-platform Java program to build, analyze and visualize networks. Also a JavaScript library.
     *   [Network Analysis with Cytoscape Tutorial](https://archaeologicalnetworks.wordpress.com/resources/#cytoscape) - Illustrated through an archaeological and geographical case study (2013).
 *   [Mathematica](https://www.wolfram.com/mathematica/) - Cross-platform program with graph theory and network analysis functionalities.
-    *   [IGraph/M (⭐89)](https://github.com/szhorvat/IGraphM) - Interface to use the `igraph` library from within Mathematica, using standard Mathematica `Graph` objects.
+    *   [IGraph/M (⭐91)](https://github.com/szhorvat/IGraphM) - Interface to use the `igraph` library from within Mathematica, using standard Mathematica `Graph` objects.
 *   [NodeXL](http://nodexl.codeplex.com/) - Free, open-source template to explore network graphs with Microsoft Excel.
     *   [The NodeXL Series](https://blogs.k-state.edu/it-news/tag/nodexl/) - Series of blog posts on using NodeXL (2013).
 *   [Pajek](http://mrvar.fdv.uni-lj.si/pajek/) - Windows program for large network analysis, free for noncommercial use.
@@ -227,18 +227,18 @@
 
 ### Software / Julia
 
-*   [BayesNets.jl (⭐216)](https://github.com/sisl/BayesNets.jl) - Package to work with Bayesian networks.
+*   [BayesNets.jl (⭐218)](https://github.com/sisl/BayesNets.jl) - Package to work with Bayesian networks.
     *   [Smile.jl (⭐2)](https://github.com/sisl/Smile.jl) - Julia wrapper for the [Smile C++ library](http://www.bayesfusion.com/smile-engine), which covers Bayesian networks and influence diagrams.
 *   [EvolvingGraphs (⭐52)](https://github.com/weijianzhang/EvolvingGraphs.jl) - Package to create, manipulate and study time-dependent networks.
     *   [Dynamic Network Analysis in Julia](http://eprints.ma.man.ac.uk/2376/01/julia_eg_report.pdf).
 *   [Graphs.jl (⭐205)](https://github.com/JuliaLang/Graphs.jl) - Package to manipulate graph objects in Julia.
     *   [Creating Network Diagrams in Plotly from Julia](http://badhessian.org/2014/05/creating-network-diagrams-in-plotly-from-julia/).
-    *   [MetaGraphs (⭐58)](https://github.com/JuliaGraphs/MetaGraphs.jl) - Graph data structures with multiple heterogeneous metadata for Graphs.jl.
+    *   [MetaGraphs (⭐59)](https://github.com/JuliaGraphs/MetaGraphs.jl) - Graph data structures with multiple heterogeneous metadata for Graphs.jl.
 *   [JuliaGraphs](https://github.com/JuliaGraphs) - Suite of Julia packages for network analysis.
-    *   [GraphVisualize.jl (⭐5)](https://github.com/JuliaGraphs/GraphVisualize.jl) - Graph visualization built on top of [GLVisualize.jl (⭐246)](https://github.com/JuliaGL/GLVisualize.jl).
-    *   [LightGraphs.jl (⭐670)](https://github.com/JuliaGraphs/LightGraphs.jl) - Graph library with a focus on performance and simplicity.
+    *   [GraphVisualize.jl (⭐5)](https://github.com/JuliaGraphs/GraphVisualize.jl) - Graph visualization built on top of [GLVisualize.jl (⭐247)](https://github.com/JuliaGL/GLVisualize.jl).
+    *   [LightGraphs.jl (⭐672)](https://github.com/JuliaGraphs/LightGraphs.jl) - Graph library with a focus on performance and simplicity.
     *   [LightGraphsExtras.jl (⭐21)](https://github.com/JuliaGraphs/LightGraphsExtras.jl) - Community detection and other functionalities for the LightGraphs.jl package.
-    *   [NetworkLayout.jl (⭐97)](https://github.com/JuliaGraphs/NetworkLayout.jl) - Layout algorithms for graphs and trees.
+    *   [NetworkLayout.jl (⭐96)](https://github.com/JuliaGraphs/NetworkLayout.jl) - Layout algorithms for graphs and trees.
     *   [Networks.jl (⭐3)](https://github.com/JuliaGraphs/Networks.jl) - Additional graph functions for the LightGraphs.jl package.
     *   [GraphCentrality.jl (⭐4)](https://github.com/JuliaGraphs/GraphCentrality.jl) - Adds network measures to the Graphs.jl package.
 *   [NetworkViz.jl (⭐29)](https://github.com/abhijithanilkumar/NetworkViz.jl) - Package to visualize graphs produced with LightGraphs.jl, using [ThreeJS.jl (⭐56)](https://github.com/rohitvarkey/ThreeJS.jl).
@@ -246,7 +246,7 @@
 
 ### Software / Python
 
-*   [dash-cytoscape (⭐581)](https://github.com/plotly/dash-cytoscape) - Interactive network visualization library in Python, powered by Cytoscape.js and Dash
+*   [dash-cytoscape (⭐605)](https://github.com/plotly/dash-cytoscape) - Interactive network visualization library in Python, powered by Cytoscape.js and Dash
 
 ### Software / R
 
@@ -320,14 +320,14 @@
 
 ### Build Tools to set up performance budget
 
-*   [Bundle Size (⭐4.4k)](https://github.com/siddharthkp/bundlesize) - Keep your bundle size in check.
-*   [Grunt-perfbudget (⭐861)](https://github.com/tkadlec/grunt-perfbudget) - Grunt task for performance budgeting.
+*   [Bundle Size (⭐4.5k)](https://github.com/siddharthkp/bundlesize) - Keep your bundle size in check.
+*   [Grunt-perfbudget (⭐856)](https://github.com/tkadlec/grunt-perfbudget) - Grunt task for performance budgeting.
 *   [ImportCost - VS Extension](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) - Extension to display inline in the VS code editor the size of the imported package.
 
 ### Bundle Analyzers
 
 *   [Bundlephobia](https://bundlephobia.com/) - Find the cost of adding a npm package to your bundle.
-*   [webpack-bundle-analyzer (⭐12k)](https://github.com/webpack-contrib/webpack-bundle-analyzer) - Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap.
+*   [webpack-bundle-analyzer (⭐13k)](https://github.com/webpack-contrib/webpack-bundle-analyzer) - Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap.
 *   [Disc](http://hughsk.io/disc/) - Visualise the module tree of browserify project bundles and track down bloat.
 
 ### Videos
@@ -378,7 +378,7 @@
 
 ## [21. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
-### Videos
+### Videos / Commerical Tools
 
 *   [Reinforcement Learning in Motion](https://www.manning.com/livevideo/reinforcement-learning-in-motion) - This live-video breaks down critical concepts like how RL systems learn, how to sense and process environmental data, and how to build and train AI agents.
 
@@ -386,20 +386,20 @@
 
 ### Software / Note-taking & Editors
 
-*   [Trilium Notes (⭐27k)](https://github.com/zadam/trilium) - Trilium Notes is a hierarchical note taking application with focus on building large personal knowledge bases. `AGPL-3.0` `Nodejs/Docker/K8S`
+*   [Trilium Notes (⭐28k)](https://github.com/zadam/trilium) - Trilium Notes is a hierarchical note taking application with focus on building large personal knowledge bases. `AGPL-3.0` `Nodejs/Docker/K8S`
 
 ## [23. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
 ### Libraries / Go
 
-*   [Bongo (⭐487)](https://github.com/go-bongo/bongo) - ODM based on mgo
+*   [Bongo (⭐489)](https://github.com/go-bongo/bongo) - ODM based on mgo
 *   [mgo (⭐2k)](https://github.com/globalsign/mgo) - Community Go driver
 *   [minquery (⭐62)](https://github.com/icza/minquery) - MongoDB cursor that paginates
-*   [mongo-go-driver (⭐8.1k)](https://github.com/mongodb/mongo-go-driver) - Official Go driver
+*   [mongo-go-driver (⭐8.2k)](https://github.com/mongodb/mongo-go-driver) - Official Go driver
 
 ### Libraries / Java
 
-*   [Morphia (⭐1.6k)](https://github.com/MorphiaOrg/morphia) - Java ODM
+*   [Morphia (⭐1.7k)](https://github.com/MorphiaOrg/morphia) - Java ODM
 
 ## [24. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
@@ -423,31 +423,21 @@
 
 ### HAL implementation crates / STMicroelectronics
 
-*   [`stm32l1xx-hal`](https://crates.io/crates/stm32l1xx-hal) - ![crates.io](https://img.shields.io/crates/v/stm32l1xx-hal.svg)
+*   [`stm32l1xx-hal`](https://crates.io/crates/stm32l1xx-hal) - [![crates.io](https://img.shields.io/crates/v/stm32l1xx-hal.svg)](https://crates.io/crates/stm32l1xx-hal)
 
 ## [28. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
-
-### Proxy and VPN Tools / Audio Record and Process
-
-*   [ClashX](https://github.com/yichengchen/clashX) - A rule-based proxy for Mac based on Clash. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/yichengchen/clashX)![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / Productivity
 
 *   [Trello](https://trello.com) - A collaboration tool that organizes your projects into Kanban boards.![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")[![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://itunes.apple.com/app/trello/id1278508951?ls=1\&mt=12)
 
-## [29. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
-
-### Tools / Communication
-
-*   [TeamHub](https://teamhub.app/) — Realtime status and progress reporting directly inside your IDE
-
-## [30. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+## [29. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Plugins
 
-*   [extrakto (⭐841)](https://github.com/laktak/extrakto) tmux clipboard copy and output completions
+*   [extrakto (⭐910)](https://github.com/laktak/extrakto) tmux clipboard copy and output completions
 
-## [31. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
+## [30. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
 ### Software / Audio
 
@@ -463,7 +453,7 @@
 *   [GNU social](https://gnu.io/social/) -  Microblogging server written in PHP. ([GNU GPLv3](https://git.gnu.io/gnu/gnu-social/blob/master/COPYING))
 *   [Wallabag](https://wallabag.org/en) - Save and classify articles. Read them later. Freely. ([MIT (⭐8.6k)](https://github.com/wallabag/wallabag/blob/master/COPYING.md))
 
-## [32. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [31. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### Howtos
 
@@ -473,7 +463,7 @@
 
 *   [react-native-iphone-se-helper ★0 (⭐8)](https://github.com/heyman333/react-native-iphone-se-helper) - utils for developing iphone SE size.
 
-## [33. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [32. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Malware Collection / Honeypots
 
@@ -500,13 +490,13 @@
 *   [Malware Search+++](https://addons.mozilla.org/fr/firefox/addon/malware-search-plusplusplus/) Firefox extension allows
     you to easily search some of the most popular malware databases
 
-## [34. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
+## [33. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
 
 ### Tools / [Gradle Tasks](https://marketplace.visualstudio.com/items?itemName=richardwillis.vscode-gradle)
 
 *   [Online TextMate Themes Editor](https://tmtheme-editor.herokuapp.com/) - since VS Code supports TextMate themes, you can create them in this online editor and then create a new VS Code package using [Yo Code](https://code.visualstudio.com/docs/extensions/yocode) tool
 
-## [35. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
+## [34. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
 ### Game Boy Color / Opcodes
 
@@ -515,30 +505,30 @@
 
 ### Peripherals / Opcodes
 
-*   [Game Boy Camera RE (⭐78)](https://github.com/AntonioND/gbcam-rev-engineer) - Documentation about GB Camera and tools used to reverse engineer it by using Arduino.
-*   [Arduino Game Boy Printer Emulator (⭐288)](https://github.com/mofosyne/arduino-gameboy-printer-emulator) - Emulating a Game Boy Printer via the Game Boy Link cable with an Arduino.
+*   [Game Boy Camera RE (⭐82)](https://github.com/AntonioND/gbcam-rev-engineer) - Documentation about GB Camera and tools used to reverse engineer it by using Arduino.
+*   [Arduino Game Boy Printer Emulator (⭐321)](https://github.com/mofosyne/arduino-gameboy-printer-emulator) - Emulating a Game Boy Printer via the Game Boy Link cable with an Arduino.
 
 ### Cartridges / Custom cartridges
 
-*   [Homebrew-Gameboy-Cartridge (⭐129)](https://github.com/dwaq/Homebrew-Gameboy-Cartridge) - Eagle library, schematic, and board files for a cartridge PCB using an Atmel AT49F040 as ROM.
+*   [Homebrew-Gameboy-Cartridge (⭐130)](https://github.com/dwaq/Homebrew-Gameboy-Cartridge) - Eagle library, schematic, and board files for a cartridge PCB using an Atmel AT49F040 as ROM.
 
 ### Emulator Development / Misc
 
 *   [Decoding Gameboy Z80 opcodes](https://gb-archive.github.io/salvage/decoding_gbz80_opcodes/Decoding%20Gamboy%20Z80%20Opcodes.html) - How to algorithmically decode Game Boy instructions (as opposed to writing one huge switch-case statement).
 
-## [36. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [35. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Codebases for Reference / Videos
 
 *   [Pixelfed (⭐3.9k)](https://github.com/pixelfed/pixelfed) - A free and ethical photo sharing platform, powered by ActivityPub federation
 
-## [37. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [36. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / General-Purpose Machine Learning
 
 *   [Microsoft Recommenders (⭐19k)](https://github.com/Microsoft/Recommenders): Examples and best practices for building recommendation systems, provided as Jupyter notebooks. The repo contains some of the latest state of the art algorithms from Microsoft Research as well as from other companies and institutions.
 
-## [38. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [37. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Email
 
@@ -548,112 +538,112 @@
 
 *   [transfer\_more](https://git.sceptique.eu/Sceptique/transfer_more) - Clone of transfer.sh to uploads files
 
-## [39. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
+## [38. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
 
 ### Python / Numerical Libraries & Data Structures
 
 *   [numpy](https://www.numpy.org) - NumPy is the fundamental package for scientific computing with Python.
 *   [pandas](https://pandas.pydata.org) - pandas is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language.
-*   [quantdsl (⭐334)](https://github.com/johnbywater/quantdsl) - Domain specific language for quantitative analytics in finance and trading.
+*   [quantdsl (⭐346)](https://github.com/johnbywater/quantdsl) - Domain specific language for quantitative analytics in finance and trading.
 *   [statistics](https://docs.python.org/3/library/statistics.html) - Builtin Python library for all basic statistical calculations.
 *   [sympy](https://www.sympy.org/) - SymPy is a Python library for symbolic mathematics.
 *   [pymc3](https://docs.pymc.io/) - Probabilistic Programming in Python: Bayesian Modeling and Probabilistic Machine Learning with Theano.
 
 ### Python / Financial Instruments and Pricing
 
-*   [PyQL (⭐966)](https://github.com/enthought/pyql) - QuantLib's Python port.
-*   [pyfin (⭐306)](https://github.com/opendoor-labs/pyfin) - Basic options pricing in Python. *ARCHIVED*
-*   [QuantPy (⭐659)](https://github.com/jsmidt/QuantPy) - A framework for quantitative finance In python.
-*   [Finance-Python (⭐734)](https://github.com/alpha-miner/Finance-Python) - Python tools for Finance.
-*   [ffn (⭐1.9k)](https://github.com/pmorissette/ffn) - A financial function library for Python.
-*   [tia (⭐406)](https://github.com/bpsmith/tia) - Toolkit for integration and analysis.
+*   [PyQL (⭐1k)](https://github.com/enthought/pyql) - QuantLib's Python port.
+*   [pyfin (⭐311)](https://github.com/opendoor-labs/pyfin) - Basic options pricing in Python. *ARCHIVED*
+*   [QuantPy (⭐723)](https://github.com/jsmidt/QuantPy) - A framework for quantitative finance In python.
+*   [Finance-Python (⭐748)](https://github.com/alpha-miner/Finance-Python) - Python tools for Finance.
+*   [ffn (⭐2.1k)](https://github.com/pmorissette/ffn) - A financial function library for Python.
+*   [tia (⭐419)](https://github.com/bpsmith/tia) - Toolkit for integration and analysis.
 *   [hasura/base-python-dash](https://platform.hasura.io/hub/projects/hasura/base-python-dash) - Hasura quick start to deploy Dash framework. Written on top of Flask, Plotly.js, and React.js, Dash is ideal for building data visualization apps with highly custom user interfaces in pure Python.
 *   [hasura/base-python-bokeh](https://platform.hasura.io/hub/projects/hasura/base-python-bokeh) - Hasura quick start to visualize data with bokeh library.
-*   [pysabr (⭐453)](https://github.com/ynouri/pysabr) - SABR model Python implementation.
+*   [pysabr (⭐467)](https://github.com/ynouri/pysabr) - SABR model Python implementation.
 
 ### Python / Trading & Backtesting
 
-*   [QuantSoftware Toolkit (⭐462)](https://github.com/QuantSoftware/QuantSoftwareToolkit) - Python-based open source software framework designed to support portfolio construction and management.
-*   [quantitative (⭐60)](https://github.com/jeffrey-liang/quantitative) - Quantitative finance, and backtesting library.
-*   [analyzer (⭐208)](https://github.com/llazzaro/analyzer) - Python framework for real-time financial and backtesting trading strategies.
-*   [bt (⭐2.1k)](https://github.com/pmorissette/bt) - Flexible Backtesting for Python.
-*   [backtrader (⭐14k)](https://github.com/backtrader/backtrader) - Python Backtesting library for trading strategies.
-*   [pyalgotrade (⭐4.4k)](https://github.com/gbeced/pyalgotrade) - Python Algorithmic Trading Library.
+*   [QuantSoftware Toolkit (⭐467)](https://github.com/QuantSoftware/QuantSoftwareToolkit) - Python-based open source software framework designed to support portfolio construction and management.
+*   [quantitative (⭐64)](https://github.com/jeffrey-liang/quantitative) - Quantitative finance, and backtesting library.
+*   [analyzer (⭐213)](https://github.com/llazzaro/analyzer) - Python framework for real-time financial and backtesting trading strategies.
+*   [bt (⭐2.4k)](https://github.com/pmorissette/bt) - Flexible Backtesting for Python.
+*   [backtrader (⭐16k)](https://github.com/backtrader/backtrader) - Python Backtesting library for trading strategies.
+*   [pyalgotrade (⭐4.5k)](https://github.com/gbeced/pyalgotrade) - Python Algorithmic Trading Library.
 *   [tradingWithPython](https://pypi.org/project/tradingWithPython/) - A collection of functions and classes for Quantitative trading.
-*   [algobroker (⭐86)](https://github.com/joequant/algobroker) - This is an execution engine for algo trading.
+*   [algobroker (⭐90)](https://github.com/joequant/algobroker) - This is an execution engine for algo trading.
 *   [pysentosa](https://pypi.org/project/pysentosa/) - Python API for sentosa trading system.
-*   [finmarketpy (⭐3.4k)](https://github.com/cuemacro/finmarketpy) - Python library for backtesting trading strategies and analyzing financial markets.
-*   [binary-martingale (⭐46)](https://github.com/metaperl/binary-martingale) - Computer program to automatically trade binary options martingale style.
+*   [finmarketpy (⭐3.5k)](https://github.com/cuemacro/finmarketpy) - Python library for backtesting trading strategies and analyzing financial markets.
+*   [binary-martingale (⭐47)](https://github.com/metaperl/binary-martingale) - Computer program to automatically trade binary options martingale style.
 *   [fooltrader (⭐1.1k)](https://github.com/foolcage/fooltrader) - the project using big-data technology to provide an uniform way to analyze the whole market.
-*   [pylivetrader (⭐658)](https://github.com/alpacahq/pylivetrader) - zipline-compatible live trading library.
-*   [pipeline-live (⭐204)](https://github.com/alpacahq/pipeline-live) - zipline's pipeline capability with IEX for live trading.
+*   [pylivetrader (⭐666)](https://github.com/alpacahq/pylivetrader) - zipline-compatible live trading library.
+*   [pipeline-live (⭐206)](https://github.com/alpacahq/pipeline-live) - zipline's pipeline capability with IEX for live trading.
 *   [zipline-extensions (⭐18)](https://github.com/quantrocket-llc/zipline-extensions) - Zipline extensions and adapters for QuantRocket.
-*   [moonshot (⭐195)](https://github.com/quantrocket-llc/moonshot) - Vectorized backtester and trading engine for QuantRocket based on Pandas.
+*   [moonshot (⭐210)](https://github.com/quantrocket-llc/moonshot) - Vectorized backtester and trading engine for QuantRocket based on Pandas.
 
 ### Python / Risk Analysis
 
-*   [pyfolio (⭐5.6k)](https://github.com/quantopian/pyfolio) - Portfolio and risk analytics in Python.
+*   [pyfolio (⭐5.8k)](https://github.com/quantopian/pyfolio) - Portfolio and risk analytics in Python.
 *   [empyrical (⭐1.3k)](https://github.com/quantopian/empyrical) - Common financial risk and performance metrics.
 *   [finance](https://pypi.org/project/finance/) - Financial Risk Calculations. Optimized for ease of use through class construction and operator overload.
 *   [qfrm](https://pypi.org/project/qfrm/) - Quantitative Financial Risk Management: awesome OOP tools for measuring, managing and visualizing risk of financial instruments and portfolios.
-*   [visualize-wealth (⭐137)](https://github.com/benjaminmgross/visualize-wealth) - Portfolio construction and quantitative analysis.
-*   [VisualPortfolio (⭐100)](https://github.com/wegamekinglc/VisualPortfolio) - This tool is used to visualize the performance of a portfolio.
+*   [visualize-wealth (⭐140)](https://github.com/benjaminmgross/visualize-wealth) - Portfolio construction and quantitative analysis.
+*   [VisualPortfolio (⭐105)](https://github.com/wegamekinglc/VisualPortfolio) - This tool is used to visualize the performance of a portfolio.
 
 ### Python / Factor Analysis
 
-*   [alphalens (⭐3.2k)](https://github.com/quantopian/alphalens) - Performance analysis of predictive alpha factors.
+*   [alphalens (⭐3.5k)](https://github.com/quantopian/alphalens) - Performance analysis of predictive alpha factors.
 
 ### Python / Time Series
 
-*   [ARCH (⭐1.3k)](https://github.com/bashtage/arch) - ARCH models in Python.
+*   [ARCH (⭐1.4k)](https://github.com/bashtage/arch) - ARCH models in Python.
 *   [dynts (⭐86)](https://github.com/quantmind/dynts) - Python package for timeseries analysis and manipulation.
 *   [PyFlux (⭐2.1k)](https://github.com/RJT1990/pyflux) - Python library for timeseries modelling and inference (frequentist and Bayesian) on models.
-*   [tsfresh (⭐8.3k)](https://github.com/blue-yonder/tsfresh) - Automatic extraction of relevant features from time series.
+*   [tsfresh (⭐8.5k)](https://github.com/blue-yonder/tsfresh) - Automatic extraction of relevant features from time series.
 *   [hasura/quandl-metabase](https://platform.hasura.io/hub/projects/anirudhm/quandl-metabase-time-series) - Hasura quickstart to visualize Quandl's timeseries datasets with Metabase.
 
 ### Python / Calendars
 
-*   [bizdays (⭐79)](https://github.com/wilsonfreitas/python-bizdays) - Business days calculations and utilities.
-*   [pandas\_market\_calendars (⭐768)](https://github.com/rsheftel/pandas_market_calendars) - Exchange calendars to use with pandas for trading applications.
+*   [bizdays (⭐81)](https://github.com/wilsonfreitas/python-bizdays) - Business days calculations and utilities.
+*   [pandas\_market\_calendars (⭐828)](https://github.com/rsheftel/pandas_market_calendars) - Exchange calendars to use with pandas for trading applications.
 
 ### Python / Data Sources
 
-*   [googlefinance (⭐697)](https://github.com/hongtaocai/googlefinance) - Python module to get real-time stock data from Google Finance API.
-*   [yahoo-finance (⭐1.3k)](https://github.com/lukaszbanasiak/yahoo-finance) - Python module to get stock data from Yahoo! Finance.
-*   [pandas-datareader (⭐2.9k)](https://github.com/pydata/pandas-datareader) - Python module to get data from various sources (Google Finance, Yahoo Finance, FRED, OECD, Fama/French, World Bank, Eurostat...) into Pandas datastructures such as DataFrame, Panel with a caching mechanism.
-*   [pandas-finance (⭐152)](https://github.com/davidastephens/pandas-finance) - High level API for access to and analysis of financial data.
+*   [googlefinance (⭐741)](https://github.com/hongtaocai/googlefinance) - Python module to get real-time stock data from Google Finance API.
+*   [yahoo-finance (⭐1.4k)](https://github.com/lukaszbanasiak/yahoo-finance) - Python module to get stock data from Yahoo! Finance.
+*   [pandas-datareader (⭐3k)](https://github.com/pydata/pandas-datareader) - Python module to get data from various sources (Google Finance, Yahoo Finance, FRED, OECD, Fama/French, World Bank, Eurostat...) into Pandas datastructures such as DataFrame, Panel with a caching mechanism.
+*   [pandas-finance (⭐153)](https://github.com/davidastephens/pandas-finance) - High level API for access to and analysis of financial data.
 *   [pyhoofinance (⭐9)](https://github.com/innes213/pyhoofinance) - Rapidly queries Yahoo Finance for multiple tickers and returns typed data for analysis.
 *   [yfinanceapi (⭐9)](https://github.com/Karthik005/yfinanceapi) - Finance API for Python.
 *   [yql-finance (⭐16)](https://github.com/slawek87/yql-finance) - yql-finance is simple and fast. API returns stock closing prices for current period of time and current stock ticker (i.e. APPL, GOOGL).
-*   [ystockquote (⭐527)](https://github.com/cgoldberg/ystockquote) - Retrieve stock quote data from Yahoo Finance.
-*   [wallstreet (⭐1.3k)](https://github.com/mcdallas/wallstreet) - Real time stock and option data.
-*   [stock\_extractor (⭐32)](https://github.com/ZachLiuGIS/stock_extractor) - General Purpose Stock Extractors from Online Resources.
+*   [ystockquote (⭐535)](https://github.com/cgoldberg/ystockquote) - Retrieve stock quote data from Yahoo Finance.
+*   [wallstreet (⭐1.4k)](https://github.com/mcdallas/wallstreet) - Real time stock and option data.
+*   [stock\_extractor (⭐45)](https://github.com/ZachLiuGIS/stock_extractor) - General Purpose Stock Extractors from Online Resources.
 *   [Stockex (⭐33)](https://github.com/cttn/Stockex) - Python wrapper for Yahoo! Finance API.
-*   [finsymbols (⭐108)](https://github.com/skillachie/finsymbols) - Obtains stock symbols and relating information for SP500, AMEX, NYSE, and NASDAQ.
-*   [FRB (⭐162)](https://github.com/avelkoski/FRB) - Python Client for FRED® API.
-*   [inquisitor (⭐38)](https://github.com/econdb/inquisitor) - Python Interface to Econdb.com API.
+*   [finsymbols (⭐118)](https://github.com/skillachie/finsymbols) - Obtains stock symbols and relating information for SP500, AMEX, NYSE, and NASDAQ.
+*   [FRB (⭐168)](https://github.com/avelkoski/FRB) - Python Client for FRED® API.
+*   [inquisitor (⭐48)](https://github.com/econdb/inquisitor) - Python Interface to Econdb.com API.
 *   [yfi (⭐2)](https://github.com/nickelkr/yfi) - Yahoo! YQL library.
 *   [chinesestockapi](https://pypi.org/project/chinesestockapi/) - Python API to get Chinese stock price.
 *   [exchange (⭐16)](https://github.com/akarat/exchange) - Get current exchange rate.
 *   [ticks (⭐16)](https://github.com/jamescnowell/ticks) - Simple command line tool to get stock ticker data.
 *   [pybbg (⭐53)](https://github.com/bpsmith/pybbg) - Python interface to Bloomberg COM APIs.
-*   [ccy (⭐79)](https://github.com/lsbardel/ccy) - Python module for currencies.
+*   [ccy (⭐89)](https://github.com/lsbardel/ccy) - Python module for currencies.
 *   [tushare](https://pypi.org/project/tushare/) - A utility for crawling historical and Real-time Quotes data of China stocks.
 *   [jsm](https://pypi.org/project/jsm/) - Get the japanese stock market data.
-*   [cn\_stock\_src (⭐35)](https://github.com/jealous/cn_stock_src) - Utility for retrieving basic China stock data from different sources.
-*   [coinmarketcap (⭐434)](https://github.com/barnumbirr/coinmarketcap) - Python API for coinmarketcap.
-*   [after-hours (⭐35)](https://github.com/datawrestler/after-hours) - Obtain pre market and after hours stock prices for a given symbol.
+*   [cn\_stock\_src (⭐34)](https://github.com/jealous/cn_stock_src) - Utility for retrieving basic China stock data from different sources.
+*   [coinmarketcap (⭐438)](https://github.com/barnumbirr/coinmarketcap) - Python API for coinmarketcap.
+*   [after-hours (⭐34)](https://github.com/datawrestler/after-hours) - Obtain pre market and after hours stock prices for a given symbol.
 *   [bronto-python](https://pypi.org/project/bronto-python/) - Bronto API Integration for Python.
-*   [pytdx (⭐1.3k)](https://github.com/rainx/pytdx) - Python Interface for retrieving chinese stock realtime quote data from TongDaXin Nodes.
-*   [pdblp (⭐240)](https://github.com/matthewgilbert/pdblp) - A simple interface to integrate pandas and the Bloomberg Open API.
-*   [tiingo (⭐244)](https://github.com/hydrosquall/tiingo-python) - Python interface for daily composite prices/OHLC/Volume + Real-time News Feeds, powered by the Tiingo Data Platform.
-*   [alpaca-trade-api (⭐1.7k)](https://github.com/alpacahq/alpaca-trade-api-python) - Python interface for retrieving real-time and historical prices from Alpaca API as well as trade execution.
+*   [pytdx (⭐1.4k)](https://github.com/rainx/pytdx) - Python Interface for retrieving chinese stock realtime quote data from TongDaXin Nodes.
+*   [pdblp (⭐244)](https://github.com/matthewgilbert/pdblp) - A simple interface to integrate pandas and the Bloomberg Open API.
+*   [tiingo (⭐260)](https://github.com/hydrosquall/tiingo-python) - Python interface for daily composite prices/OHLC/Volume + Real-time News Feeds, powered by the Tiingo Data Platform.
+*   [alpaca-trade-api (⭐1.8k)](https://github.com/alpacahq/alpaca-trade-api-python) - Python interface for retrieving real-time and historical prices from Alpaca API as well as trade execution.
 
 ### Python / Excel Integration
 
 *   [xlwings](https://www.xlwings.org/) - Make Excel fly with Python.
 *   [openpyxl](https://openpyxl.readthedocs.io/en/latest/) - Read/Write Excel 2007 xlsx/xlsm files.
-*   [xlrd (⭐2.1k)](https://github.com/python-excel/xlrd) - Library for developers to extract data from Microsoft Excel spreadsheet files.
+*   [xlrd (⭐2.2k)](https://github.com/python-excel/xlrd) - Library for developers to extract data from Microsoft Excel spreadsheet files.
 *   [xlsxwriter](https://xlsxwriter.readthedocs.io/) - Write files in the Excel 2007+ XLSX file format.
 
 ### R / Time Series
@@ -662,15 +652,15 @@
 *   [fGarch](https://cran.r-project.org/web/packages/fGarch/index.html) - Rmetrics - Autoregressive Conditional Heteroskedastic Modelling.
 *   [timeSeries](https://cran.r-project.org/web/packages/timeSeries/index.html) - Rmetrics - Financial Time Series Objects.
 *   [tidypredict (⭐2)](https://github.com/edgararuiz/tidypredict) - Run predictions inside the database <https://tidypredict.netlify.com/>.
-*   [tidyquant (⭐844)](https://github.com/business-science/tidyquant) - Bringing financial analysis to the tidyverse.
-*   [timetk (⭐606)](https://github.com/business-science/timetk) - A toolkit for working with time series in R.
+*   [tidyquant (⭐866)](https://github.com/business-science/tidyquant) - Bringing financial analysis to the tidyverse.
+*   [timetk (⭐621)](https://github.com/business-science/timetk) - A toolkit for working with time series in R.
 
 ### R / Financial Instruments and Pricing
 
 *   [quantmod](https://cran.r-project.org/web/packages/quantmod/index.html) - Quantitative Financial Modelling Framework.
-*   [sparseIndexTracking (⭐49)](https://github.com/dppalomar/sparseIndexTracking) - Portfolio design to track an index.
-*   [covFactorModel (⭐31)](https://github.com/dppalomar/covFactorModel) - Covariance matrix estimation via factor models.
-*   [riskParityPortfolio (⭐105)](https://github.com/dppalomar/riskParityPortfolio) - Blazingly fast design of risk parity portfolios.
+*   [sparseIndexTracking (⭐52)](https://github.com/dppalomar/sparseIndexTracking) - Portfolio design to track an index.
+*   [covFactorModel (⭐33)](https://github.com/dppalomar/covFactorModel) - Covariance matrix estimation via factor models.
+*   [riskParityPortfolio (⭐107)](https://github.com/dppalomar/riskParityPortfolio) - Blazingly fast design of risk parity portfolios.
 *   [sde](https://cran.r-project.org/web/packages/sde/index.html) - Simulation and Inference for Stochastic Differential Equations.
 *   [YieldCurve](https://cran.r-project.org/web/packages/YieldCurve/index.html) - Modelling and estimation of the yield curve.
 *   [SmithWilsonYieldCurve](https://cran.r-project.org/web/packages/SmithWilsonYieldCurve/index.html) - Constructs a yield curve by the Smith-Wilson method from a table of LIBOR and SWAP rates.
@@ -683,7 +673,7 @@
 *   [tvm](https://cran.r-project.org/web/packages/tvm/index.html) - Time Value of Money Functions.
 *   [OptionPricing](https://cran.r-project.org/web/packages/OptionPricing/index.html) - Option Pricing with Efficient Simulation Algorithms.
 *   [derivmkts](https://cran.r-project.org/web/packages/derivmkts/index.html) - Functions and R Code to Accompany Derivatives Markets.
-*   [FinCal (⭐21)](https://github.com/felixfan/FinCal) - Package for time value of money calculation, time series analysis and computational finance.
+*   [FinCal (⭐22)](https://github.com/felixfan/FinCal) - Package for time value of money calculation, time series analysis and computational finance.
 *   [r-quant (⭐30)](https://github.com/artyyouth/r-quant) - R code for quantitative analysis in finance.
 *   [options.studies (⭐6)](https://github.com/taylorizing/options.studies) - options trading studies functions for use with options.data package and shiny.
 
@@ -695,28 +685,28 @@
 
 ### Matlab / FrameWorks
 
-*   [QUANTAXIS (⭐8k)](https://github.com/yutiansut/quantaxis) - Integrated Quantitative Toolbox with Matlab.
+*   [QUANTAXIS (⭐8.3k)](https://github.com/yutiansut/quantaxis) - Integrated Quantitative Toolbox with Matlab.
 
 ### Julia / FrameWorks
 
-*   [Ito.jl (⭐36)](https://github.com/aviks/Ito.jl) - A Julia package for quantitative finance.
-*   [TALib.jl (⭐51)](https://github.com/femtotrader/TALib.jl) - A Julia wrapper for TA-Lib.
-*   [Temporal.jl (⭐100)](https://github.com/dysonance/Temporal.jl) - Flexible and efficient time series class & methods.
-*   [Indicators.jl (⭐214)](https://github.com/dysonance/Indicators.jl) - Financial market technical analysis & indicators on top of Temporal.
-*   [Strategems.jl (⭐163)](https://github.com/dysonance/Strategems.jl) - Quantitative systematic trading strategy development and backtesting.
-*   [TimeSeries.jl (⭐348)](https://github.com/JuliaStats/TimeSeries.jl) - Time series toolkit for Julia.
+*   [Ito.jl (⭐38)](https://github.com/aviks/Ito.jl) - A Julia package for quantitative finance.
+*   [TALib.jl (⭐53)](https://github.com/femtotrader/TALib.jl) - A Julia wrapper for TA-Lib.
+*   [Temporal.jl (⭐101)](https://github.com/dysonance/Temporal.jl) - Flexible and efficient time series class & methods.
+*   [Indicators.jl (⭐217)](https://github.com/dysonance/Indicators.jl) - Financial market technical analysis & indicators on top of Temporal.
+*   [Strategems.jl (⭐162)](https://github.com/dysonance/Strategems.jl) - Quantitative systematic trading strategy development and backtesting.
+*   [TimeSeries.jl (⭐358)](https://github.com/JuliaStats/TimeSeries.jl) - Time series toolkit for Julia.
 *   [MarketTechnicals.jl (⭐127)](https://github.com/JuliaQuant/MarketTechnicals.jl) - Technical analysis of financial time series on top of TimeSeries.
-*   [MarketData.jl (⭐142)](https://github.com/JuliaQuant/MarketData.jl) - Time series market data.
+*   [MarketData.jl (⭐152)](https://github.com/JuliaQuant/MarketData.jl) - Time series market data.
 *   [TimeFrames.jl (⭐4)](https://github.com/femtotrader/TimeFrames.jl) - A Julia library that defines TimeFrame (essentially for resampling TimeSeries).
 
 ### Java / FrameWorks
 
 *   [finmath.net](http://finmath.net) - Java library with algorithms and methodologies related to mathematical finance.
-*   [quantcomponents (⭐163)](https://github.com/lsgro/quantcomponents) - Free Java components for Quantitative Finance and Algorithmic Trading.
+*   [quantcomponents (⭐164)](https://github.com/lsgro/quantcomponents) - Free Java components for Quantitative Finance and Algorithmic Trading.
 
 ### Haskell / Data Visualization
 
-*   [quantfin (⭐134)](https://github.com/boundedvariation/quantfin) - quant finance in pure haskell.
+*   [quantfin (⭐138)](https://github.com/boundedvariation/quantfin) - quant finance in pure haskell.
 
 ### Scala / Data Visualization
 
@@ -725,20 +715,20 @@
 ### Frameworks / Data Visualization
 
 *   [TA-Lib](https://ta-lib.org) - perform technical analysis of financial market data.
-    *   [ta-lib-python (⭐9.4k)](https://github.com/TA-Lib/ta-lib-python)
-    *   [ta-lib (⭐467)](https://github.com/TA-Lib/ta-lib)
+    *   [ta-lib-python (⭐10k)](https://github.com/TA-Lib/ta-lib-python)
+    *   [ta-lib (⭐721)](https://github.com/TA-Lib/ta-lib)
 
 ### Reproducing Works, Training & Books / Data Visualization
 
-*   [quant (⭐314)](https://github.com/paulperry/quant) - Quantitative Finance and Algorithmic Trading exhaust; mostly ipython notebooks based on Quantopian, Zipline, or Pandas.
+*   [quant (⭐331)](https://github.com/paulperry/quant) - Quantitative Finance and Algorithmic Trading exhaust; mostly ipython notebooks based on Quantopian, Zipline, or Pandas.
 
-## [40. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
+## [39. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
 
 ### Organizations
 
 *   [Women Make](https://womenmake.com/) - A community where women are in the forefront.
 
-## [41. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [40. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### API
 
@@ -763,7 +753,7 @@
 
 ### Database
 
-*   [LiteDB (⭐8.4k)](https://github.com/mbdavid/LiteDB) - A .NET NoSQL Document Store in a single data file - <https://www.litedb.org>
+*   [LiteDB (⭐8.7k)](https://github.com/mbdavid/LiteDB) - A .NET NoSQL Document Store in a single data file - <https://www.litedb.org>
 
 ### Decompilation
 
@@ -779,7 +769,7 @@
 
 ### Git Tools
 
-*   [GitExtensions (⭐7.6k)](https://github.com/gitextensions/gitextensions) - GitExtensions is a shell extension, a Visual Studio 2008/2010/2012/2013 plugin and a standalone Git repository tool. <https://gitextensions.github.io/>
+*   [GitExtensions (⭐7.9k)](https://github.com/gitextensions/gitextensions) - GitExtensions is a shell extension, a Visual Studio 2008/2010/2012/2013 plugin and a standalone Git repository tool. <https://gitextensions.github.io/>
 
 ### Graphics
 
@@ -787,7 +777,7 @@
 
 ### HTML and CSS
 
-*   [LibSass Host (⭐81)](https://github.com/Taritsyn/LibSassHost) - .NET wrapper around the [libSass](https://sass-lang.com/libsass) library with the ability to support a virtual file system
+*   [LibSass Host (⭐86)](https://github.com/Taritsyn/LibSassHost) - .NET wrapper around the [libSass](https://sass-lang.com/libsass) library with the ability to support a virtual file system
 
 ### IDE
 
@@ -808,11 +798,11 @@
 
 ### Object to object mapping
 
-*   [AutoMapper (⭐9.9k)](https://github.com/AutoMapper/AutoMapper) - A convention-based object-object mapper in .NET. <https://automapper.org>
+*   [AutoMapper (⭐10k)](https://github.com/AutoMapper/AutoMapper) - A convention-based object-object mapper in .NET. <https://automapper.org>
 
 ### Office
 
-*   [NPOI (⭐68)](https://github.com/tonyqus/npoi) - This project is the .NET version of POI Java project at <https://poi.apache.org/>.
+*   [NPOI (⭐85)](https://github.com/tonyqus/npoi) - This project is the .NET version of POI Java project at <https://poi.apache.org/>.
 
 ### Package Management
 
@@ -834,15 +824,15 @@
 
 *   [ASP.NET MVC](https://dotnet.microsoft.com/apps/aspnet) - ASP.NET is a free web framework for building great web sites and applications
 
-## [42. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [41. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Compression
 
-*   [miniz (⭐2.1k)](https://github.com/richgel999/miniz) - Single C source file Deflate/Inflate compression library with zlib-compatible API, ZIP archive reading/writing, PNG writing. \[MIT]
+*   [miniz (⭐2.3k)](https://github.com/richgel999/miniz) - Single C source file Deflate/Inflate compression library with zlib-compatible API, ZIP archive reading/writing, PNG writing. \[MIT]
 
 ### Machine Learning
 
-*   [flashlight (⭐5.2k)](https://github.com/facebookresearch/flashlight) - A fast, flexible machine learning library from Facebook AI Research written entirely in C++ and based on the ArrayFire tensor library. \[BSD-3-Clause] [website](https://fl.readthedocs.io/en/latest/)
+*   [flashlight (⭐5.3k)](https://github.com/facebookresearch/flashlight) - A fast, flexible machine learning library from Facebook AI Research written entirely in C++ and based on the ArrayFire tensor library. \[BSD-3-Clause] [website](https://fl.readthedocs.io/en/latest/)
 
 ### Weblogs
 
@@ -853,7 +843,7 @@
 *   [Vorbrodt's C++ Blog](https://vorbrodt.blog/)
 *   [foonathan::blog()](https://foonathan.net/index.html)
 
-## [43. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
+## [42. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
 
 ### Code check/review, debug
 
@@ -863,11 +853,11 @@
 *   [delphiunitsizes (⭐15)](https://github.com/VilleKrumlinde/delphiunitsizes). `[Delphi]` Tool to display the sizes of each unit in a Delphi executable. Shows the size of each unit that is included in a Delphi exe-file. It also shows an approximate size of each symbol (classes, methods, procedures etc) in a unit.
 *   [MapFileStats](https://www.delphitools.info/other-tools/mapfilestats). `[Delphi]` Tool that provides simple binary size statistics from .MAP files (any Delphi version up to at least Delphi XE5).
 
-## [44. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [43. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Third party Guides
 
-*   [Conferences.digital (⭐762)](https://github.com/zagahr/Conferences.digital) - Watch conference videos in a native macOS app.
+*   [Conferences.digital (⭐761)](https://github.com/zagahr/Conferences.digital) - Watch conference videos in a native macOS app.
 
 ### Cache
 
@@ -875,17 +865,17 @@
 
 ### UI / Barcode
 
-*   [Doric Design System Foundation (⭐99)](https://github.com/jayeshk/Doric) - Protocol oriented, type safe, scalable design system foundation framework for iOS.
+*   [Doric Design System Foundation (⭐100)](https://github.com/jayeshk/Doric) - Protocol oriented, type safe, scalable design system foundation framework for iOS.
 
-## [45. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [44. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### UI / List
 
-*   [Reorderables (⭐716)](https://github.com/hanshengchiu/reorderables) <!--stargazers:hanshengchiu/reorderables--> - Drag\&Drop Table, Row, Column, Wrap(Grid) and SliverList elements by [Hansheng Chiu](https://github.com/hanshengchiu).
+*   [Reorderables (⭐741)](https://github.com/hanshengchiu/reorderables) <!--stargazers:hanshengchiu/reorderables--> - Drag\&Drop Table, Row, Column, Wrap(Grid) and SliverList elements by [Hansheng Chiu](https://github.com/hanshengchiu).
 
 ### UI / Sliders
 
-*   [Flutter Xlider (⭐507)](https://github.com/Ali-Azmoud/flutter_xlider) <!--stargazers:Ali-Azmoud/flutter_xlider--> - A material design slider and range slider, horizontal and vertical, with RTL support by [Ali-Azmoud](https://github.com/Ali-Azmoud)
+*   [Flutter Xlider (⭐520)](https://github.com/Ali-Azmoud/flutter_xlider) <!--stargazers:Ali-Azmoud/flutter_xlider--> - A material design slider and range slider, horizontal and vertical, with RTL support by [Ali-Azmoud](https://github.com/Ali-Azmoud)
 
 ### Device / Bluetooth / NFC / Beacon
 
@@ -903,13 +893,13 @@
 
 *   [Awesome Snippets](https://marketplace.visualstudio.com/items?itemName=Nash.awesome-flutter-snippets) - Collection of commonly used classes and methods by [Nash](https://twitter.com/Nash0x7E2)
 
-## [46. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [45. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Related
 
 *   [Awesome Search](https://awesomelists.top) - Quick search for Awesome lists.
 
-## [47. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [46. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### CLI Utilities
 
@@ -917,20 +907,20 @@
 
 ### Cryptocurrencies and Blockchains
 
-*   [Peatio (⭐45)](https://github.com/rubykube/peatio) - Most Advanced Cryptocurrency open-source assets exchange.
+*   [Peatio (⭐49)](https://github.com/rubykube/peatio) - Most Advanced Cryptocurrency open-source assets exchange.
 
 ### DevOps Tools
 
-*   [Sunzi (⭐447)](https://github.com/kenn/sunzi) - Server provisioning utility for minimalists
+*   [Sunzi (⭐446)](https://github.com/kenn/sunzi) - Server provisioning utility for minimalists
 
 ### HTTP Clients and tools
 
-*   [Sniffer (⭐569)](https://github.com/aderyabin/sniffer) – Tool to log and debug outgoing HTTP requests across multiple ruby libraries.
+*   [Sniffer (⭐575)](https://github.com/aderyabin/sniffer) – Tool to log and debug outgoing HTTP requests across multiple ruby libraries.
 
 ### Machine Learning
 
 *   [AI4R (⭐713)](https://github.com/sergiofierens/ai4r) - Algorithms covering several Artificial intelligence fields.
-*   [ruby-fann (⭐492)](https://github.com/tangledpath/ruby-fann) - Ruby library for interfacing with FANN (Fast Artificial Neural Network).
+*   [ruby-fann (⭐498)](https://github.com/tangledpath/ruby-fann) - Ruby library for interfacing with FANN (Fast Artificial Neural Network).
 
 ### Process Management and Monitoring
 
@@ -940,14 +930,14 @@
 ### Scientific
 
 *   Bindings
-    *   [PyCall (⭐1k)](https://github.com/mrkn/pycall.rb) - Calling Python functions from the Ruby language.
+    *   [PyCall (⭐1.1k)](https://github.com/mrkn/pycall.rb) - Calling Python functions from the Ruby language.
     *   [ruby-opencv (⭐814)](https://github.com/ruby-opencv/ruby-opencv) - An OpenCV wrapper for Ruby.
 
 ### Social Networking
 
-*   [Decidim (⭐1.4k)](https://github.com/decidim/decidim) - free open-source participatory democracy for cities and organizations
+*   [Decidim (⭐1.5k)](https://github.com/decidim/decidim) - free open-source participatory democracy for cities and organizations
 
-## [48. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/week/README.md)
+## [47. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/week/README.md)
 
 ### Clocks
 
@@ -957,7 +947,7 @@
 
 [![](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/screenMazer.png)](https://github.com/dado3212/screenmazer)
 
-## [49. Awesome Scala Native](/content/tindzk/awesome-scala-native/week/README.md)
+## [48. Awesome Scala Native](/content/tindzk/awesome-scala-native/week/README.md)
 
 ### Build Tools
 
@@ -1003,7 +993,7 @@
 
 *   [Seed Docker image](https://hub.docker.com/r/tindzk/seed/tags) - Docker image for cross-platform builds with [Seed (⭐237)](https://github.com/tindzk/seed).
 
-## [50. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [49. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / API
 
@@ -1025,24 +1015,24 @@
 
 *   [NWebsec (⭐541)](https://github.com/NWebsec/NWebsec) - Security libraries for ASP.NET <http://www.nwebsec.com>.
 
-## [51. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
+## [50. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
 
 ### Plugins / Style
 
-*   [Simple import sort (⭐2k)](https://github.com/lydell/eslint-plugin-simple-import-sort) - Easy autofixable import sorting.
+*   [Simple import sort (⭐2.1k)](https://github.com/lydell/eslint-plugin-simple-import-sort) - Easy autofixable import sorting.
 *   [Switch case (⭐17)](https://github.com/lukeapage/eslint-plugin-switch-case) - Switch-case-specific linting rules for ESLint.
 
 ### Plugins / Testing Tools
 
 *   [Jasmine (⭐95)](https://github.com/tlvince/eslint-plugin-jasmine) - Linting rules for Jasmine.
 
-## [52. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [51. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Monitoring
 
 *   [paessler.com](https://www.paessler.com/) — Powerful infrastructure and network monitoring solution, including alerting, strong visualization capabilities, and basic reporting. Free up to 100 sensors.
 
-## [53. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
+## [52. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
 ### Static Analysis / Linting
 
@@ -1050,20 +1040,20 @@
 
 ### Notifications and Messages / Code Coverage
 
-*   [Collaborate on tweets using pull requests (⭐0)](https://github.com/gr2m/twitter-together)
+*   [Collaborate on tweets using pull requests (⭐4)](https://github.com/gr2m/twitter-together)
 
 ### Deployment / Code Coverage
 
-*   [Trigger multiple GitLab CI Pipeline (⭐60)](https://github.com/appleboy/gitlab-ci-action)
-*   [Trigger multiple Jenkins Jobs (⭐78)](https://github.com/appleboy/jenkins-action)
+*   [Trigger multiple GitLab CI Pipeline (⭐65)](https://github.com/appleboy/gitlab-ci-action)
+*   [Trigger multiple Jenkins Jobs (⭐90)](https://github.com/appleboy/jenkins-action)
 
-## [54. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
+## [53. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
 
 ### Games
 
 *   [GOG](https://www.gog.com/) - DRM-free game store with a lot of old games but also has a rich collection of new games.
 
-## [55. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/week/README.md)
+## [54. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/week/README.md)
 
 ### Articles
 
@@ -1072,28 +1062,28 @@
 *   [I Can't Do It All: My Burnout Story](https://dev.to/molly_struve/i-cant-do-it-all-my-burnout-story-1e54) - By Molly Struve.
 *   [My Mental Health Toolbelt](https://medium.com/@taylorotwell/my-mental-health-toolbelt-9b9fdd4ae149) - By Taylor Otwell.
 
-## [56. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [55. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Entertainment
 
-*   [newsboat (⭐2.8k)](https://github.com/newsboat/newsboat) - An extendable RSS feed reader for text terminals.
+*   [newsboat (⭐3k)](https://github.com/newsboat/newsboat) - An extendable RSS feed reader for text terminals.
 
 ### Development / Devops
 
-*   [htconvert (⭐186)](https://github.com/lukechilds/htconvert) - Convert .htaccess redirects to nginx.conf redirects.
+*   [htconvert (⭐188)](https://github.com/lukechilds/htconvert) - Convert .htaccess redirects to nginx.conf redirects.
 
 ### Development / Release
 
-*   [release-it (⭐7.5k)](https://github.com/webpro/release-it) - Automate releases for Git repositories and/or npm packages. Changelog generation, GitHub/GitLab releases, etc.
-*   [np (⭐7.4k)](https://github.com/sindresorhus/np) - A better `npm publish`.
+*   [release-it (⭐8k)](https://github.com/webpro/release-it) - Automate releases for Git repositories and/or npm packages. Changelog generation, GitHub/GitLab releases, etc.
+*   [np (⭐7.6k)](https://github.com/sindresorhus/np) - A better `npm publish`.
 
 ### Development / Npm
 
-*   [npm-name-cli (⭐281)](https://github.com/sindresorhus/npm-name-cli) - Check whether a package name is available on npm.
-*   [npm-user-cli (⭐29)](https://github.com/sindresorhus/npm-user-cli) - Get user info of a npm user.
-*   [npm-home (⭐194)](https://github.com/sindresorhus/npm-home) - Open the npm page of the package in the current directory.
-*   [pkg-dir-cli (⭐23)](https://github.com/sindresorhus/pkg-dir-cli) - Find the root directory of a npm package.
-*   [npm-check-updates (⭐9.1k)](https://github.com/tjunnone/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows.
+*   [npm-name-cli (⭐285)](https://github.com/sindresorhus/npm-name-cli) - Check whether a package name is available on npm.
+*   [npm-user-cli (⭐30)](https://github.com/sindresorhus/npm-user-cli) - Get user info of a npm user.
+*   [npm-home (⭐198)](https://github.com/sindresorhus/npm-home) - Open the npm page of the package in the current directory.
+*   [pkg-dir-cli (⭐24)](https://github.com/sindresorhus/pkg-dir-cli) - Find the root directory of a npm package.
+*   [npm-check-updates (⭐9.4k)](https://github.com/tjunnone/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows.
 
 ### Productivity / HTTP Client
 
@@ -1101,18 +1091,18 @@
 
 ### Utilities / Network Utilities
 
-*   [get-port-cli (⭐138)](https://github.com/sindresorhus/get-port-cli) - Get an available port.
-*   [is-reachable-cli (⭐23)](https://github.com/beatfreaker/is-reachable-cli) - Check if hostnames are reachable or not.
+*   [get-port-cli (⭐144)](https://github.com/sindresorhus/get-port-cli) - Get an available port.
+*   [is-reachable-cli (⭐24)](https://github.com/beatfreaker/is-reachable-cli) - Check if hostnames are reachable or not.
 
 ### Utilities / Theming and Customization
 
-*   [wallpaper-cli (⭐168)](https://github.com/sindresorhus/wallpaper-cli) - Get or set the desktop wallpaper.
-*   [themer (⭐5.4k)](https://github.com/mjswensen/themer) - Generate personalized themes for your editor, terminal, wallpaper, Slack, and more.
+*   [wallpaper-cli (⭐170)](https://github.com/sindresorhus/wallpaper-cli) - Get or set the desktop wallpaper.
+*   [themer (⭐5.5k)](https://github.com/mjswensen/themer) - Generate personalized themes for your editor, terminal, wallpaper, Slack, and more.
 
 ### Data Manipulation / JSON
 
-*   [fx (⭐18k)](https://github.com/antonmedv/fx) - Command-line JSON viewer.
-*   [vj (⭐82)](https://github.com/busyloop/vj) - Makes JSON human readable.
+*   [fx (⭐19k)](https://github.com/antonmedv/fx) - Command-line JSON viewer.
+*   [vj (⭐90)](https://github.com/busyloop/vj) - Makes JSON human readable.
 
 ### Data Manipulation / Text
 
@@ -1124,21 +1114,21 @@
 
 ### Files and Directories / Search
 
-*   [fselect (⭐3.8k)](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries.
+*   [fselect (⭐4k)](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries.
 
 ### Just for Fun / Image Conversion
 
-*   [quote-cli (⭐84)](https://github.com/riyadhalnur/quote-cli) - Get a random quote or the quote of the day in your CLI.
-*   [fortune (⭐377)](https://github.com/shlomif/fortune-mod) - Shows a random fortune.
+*   [quote-cli (⭐92)](https://github.com/riyadhalnur/quote-cli) - Get a random quote or the quote of the day in your CLI.
+*   [fortune (⭐430)](https://github.com/shlomif/fortune-mod) - Shows a random fortune.
 *   [ponysay (⭐1.2k)](https://github.com/erkin/ponysay) - Pony rewrite of cowsay.
-*   [yosay (⭐206)](https://github.com/yeoman/yosay) - Like cowsay, but for yeoman.
-*   [lolcat (⭐5.9k)](https://github.com/busyloop/lolcat) - Outputs text in rainbow colors.
+*   [yosay (⭐205)](https://github.com/yeoman/yosay) - Like cowsay, but for yeoman.
+*   [lolcat (⭐6.1k)](https://github.com/busyloop/lolcat) - Outputs text in rainbow colors.
 
 ### Just for Fun / Emoji
 
 *   [emoj (⭐2.4k)](https://github.com/sindresorhus/emoj) - Find relevant emoji from text on the command-line.
-*   [emoji-finder (⭐25)](https://github.com/dematerializer/emoji-finder) - Quickly find and copy emoji to the clipboard via the command-line.
-*   [oji (⭐711)](https://github.com/xxczaki/oji) - Interactive text emoji maker.
+*   [emoji-finder](https://github.com/dematerializer/emoji-finder) - Quickly find and copy emoji to the clipboard via the command-line.
+*   [oji (⭐719)](https://github.com/xxczaki/oji) - Interactive text emoji maker.
 
 ---
 

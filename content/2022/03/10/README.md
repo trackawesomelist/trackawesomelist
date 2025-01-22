@@ -16,7 +16,7 @@
 
 ### Software / Communication - Email - Mailing Lists and Newsletters
 
-*   [Keila](https://www.keila.io) - Self-hosted reliable and easy-to-use newsletter tool (alternative to Mailchimp or Sendinblue). ([Demo](https://app.keila.io), [Source Code (⭐1.3k)](https://github.com/pentacent/keila)) `AGPL-3.0` `Docker`
+*   [Keila](https://www.keila.io) - Self-hosted reliable and easy-to-use newsletter tool (alternative to Mailchimp or Sendinblue). ([Demo](https://app.keila.io), [Source Code (⭐1.5k)](https://github.com/pentacent/keila)) `AGPL-3.0` `Docker`
 
 ### Software / Media Streaming - Audio Streaming
 
@@ -24,9 +24,9 @@
 
 ## [3. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
 
-### Charts / Checkbox
+### Charts
 
-*   [svelte-frappe-charts (⭐307)](https://github.com/himynameisdave/svelte-frappe-charts) - Svelte bindings for frappe-charts.
+*   [svelte-frappe-charts (⭐310)](https://github.com/himynameisdave/svelte-frappe-charts) - Svelte bindings for frappe-charts.
 
 ## [4. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
@@ -57,11 +57,11 @@
 
 ### Tools / Misc
 
-*   [Chaos Genius (⭐721)](https://github.com/chaos-genius/chaos_genius/) - ML powered analytics engine for outlier/anomaly detection and root cause analysis.
+*   [Chaos Genius (⭐744)](https://github.com/chaos-genius/chaos_genius/) - ML powered analytics engine for outlier/anomaly detection and root cause analysis.
 
 ## [9. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/README.md)
 
-### Blog Posts and Essays / Monograph
+### Selected Posts and Essays / Lecture Videos Playlist
 
 *   [Princeton's Companion. Advice to a Young Mathematician](http://assets.press.princeton.edu/chapters/gowers/gowers_VIII_6.pdf) - Five contributors draw on their experiences of mathematical life and research, and to offer advice that they might have liked to receive when they were just setting-out on their careers.
 

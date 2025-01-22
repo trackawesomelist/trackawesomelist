@@ -23,13 +23,13 @@
 
 ### Web Apps (open source)
 
-*   [Transitive.js (⭐676)](https://github.com/conveyal/transitive.js) - Creates a customizable web map layer of transit routes using Leaflet or D3.
+*   [Transitive.js (⭐684)](https://github.com/conveyal/transitive.js) - Creates a customizable web map layer of transit routes using Leaflet or D3.
 
 ## [4. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### UI / Barcode
 
-*   [LeeGo (⭐967)](https://github.com/wangshengjia/LeeGo) - Declarative, configurable & highly reusable UI development as making Lego bricks.
+*   [LeeGo (⭐966)](https://github.com/wangshengjia/LeeGo) - Declarative, configurable & highly reusable UI development as making Lego bricks.
 
 ### Walkthrough / Barcode
 
@@ -55,7 +55,7 @@
 
 ### Artificial Intelligence
 
-*   [Recast/Detour (⭐6.4k)](https://github.com/recastnavigation/recastnavigation) - (3D) Navigation mesh generator and pathfinder, mostly for games. \[zlib]
+*   [Recast/Detour (⭐6.7k)](https://github.com/recastnavigation/recastnavigation) - (3D) Navigation mesh generator and pathfinder, mostly for games. \[zlib]
 
 ---
 

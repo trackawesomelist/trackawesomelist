@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 19, 2017
 
-8 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -58,10 +58,6 @@
 *   [Taiga.io](https://taiga.io/) - Project management for agile developers.
 *   [ZenHub](https://www.zenhub.com/) - Agile GitHub project management.
 *   [Zube](https://zube.io/) - Project management for GitHub issues.
-
-### Monitoring
-
-*   [Check my Website](https://checkmy.ws/) `requires-approval` - Automated website monitoring.
 
 ### Localization
 
@@ -128,12 +124,6 @@
 *   [neo4jd3 (⭐1.1k)](https://github.com/eisman/neo4jd3) - Neo4j graph visualization
 *   [venn.js (⭐960)](https://github.com/benfred/venn.js) - Area proportional Venn and Euler diagrams
 *   [visavail (⭐280)](https://github.com/flrs/visavail) - Time data availability visualization
-
-## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / Utilities
-
-*   [vue-gaspard (⭐7)](https://github.com/lucaperret/vue-gaspard) - DOM helpers plugin for Vue.js
 
 ---
 

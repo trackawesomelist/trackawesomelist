@@ -10,7 +10,7 @@
 
 ### Text / Search engines
 
-*   [MemFree (⭐255)](https://github.com/memfreeme/memfree) - Open Source Hybrid AI Search Engine, Instantly Get Accurate Answers from the Internet, Bookmarks, Notes, and Docs
+*   [MemFree (⭐1.2k)](https://github.com/memfreeme/memfree) - Open Source Hybrid AI Search Engine, Instantly Get Accurate Answers from the Internet, Bookmarks, Notes, and Docs
 
 ### Text / Writing assistants
 
@@ -33,7 +33,7 @@
 
 ### Code / Developer tools
 
-*   [MutahunterAI (⭐211)](https://github.com/codeintegrity-ai/mutahunter) - Accelerate developer productivity and code security with our open-source AI.
+*   [MutahunterAI (⭐255)](https://github.com/codeintegrity-ai/mutahunter) - Accelerate developer productivity and code security with our open-source AI.
 
 ### Image / Services
 
@@ -60,7 +60,7 @@
 ### Related Awesome Lists / Deep Learning
 
 *   [Altern](https://altern.ai) - Find Best AI Tools
-*   [Awesome AI Models (⭐21)](https://github.com/dariubs/awesome-ai-models) - A curated list of top AI models and LLMs
+*   [Awesome AI Models (⭐42)](https://github.com/dariubs/awesome-ai-models) - A curated list of top AI models and LLMs
 
 ## [2. Awesome Go](/content/avelino/awesome-go/README.md)
 
@@ -70,7 +70,7 @@
 
 ### Serialization
 
-*   [go-csvlib (⭐12)](https://github.com/tiendc/go-csvlib) - High level and rich functionalities CSV serialization/deserialization library.
+*   [go-csvlib (⭐18)](https://github.com/tiendc/go-csvlib) - High level and rich functionalities CSV serialization/deserialization library.
 
 ## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -91,7 +91,7 @@
 
 ### Tools / Wrappers
 
-*   [pug (⭐331)](https://github.com/leg100/pug) - A terminal user interface for power users.
+*   [pug (⭐491)](https://github.com/leg100/pug) - A terminal user interface for power users.
 
 ## [5. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -144,15 +144,15 @@
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [allclear (⭐1)](https://github.com/givensuman/zsh-allclear) - Clears the terminal when you cd into `$HOME`.
-*   [historikeeper (⭐2)](https://github.com/stiliajohny/historikeeper) - Captures history in a database.
-*   [myservice (⭐0)](https://github.com/jarlor/zsh-myservice) - Designed to help you manage custom systemd services and Docker containers more conveniently. This plugin provides user-friendly commands to list and check the status of your custom services and Docker containers straight from your command line.
+*   [historikeeper (⭐1)](https://github.com/stiliajohny/historikeeper) - Captures history in a database.
+*   [myservice (⭐1)](https://github.com/jarlor/zsh-myservice) - Designed to help you manage custom systemd services and Docker containers more conveniently. This plugin provides user-friendly commands to list and check the status of your custom services and Docker containers straight from your command line.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [aloy (garethclews) (⭐12)](https://github.com/garethclews/aloy) - Fork of [@elenapan's (⭐3.5k)](https://github.com/elenapan/dotfiles) lena theme. Includes magic enter from subnixr's [minimal (⭐260)](https://github.com/subnixr/minimal) where hitting enter without any further commands prints out some useful `ls`, `git` and current working directory information.
-*   [aloy (karetsu) (⭐12)](https://github.com/karetsu/aloy) - Fork of [@elenapan's (⭐3.5k)](https://github.com/elenapan/dotfiles) lena ZSH theme. extended to give a little more information in it. It also includes the 'magic enter' from subnixr's [minimal (⭐260)](https://github.com/subnixr/minimal) where hitting enter without any further commands prints out some useful `ls`, `git` and current working directory information.
+*   [aloy (garethclews) (⭐12)](https://github.com/garethclews/aloy) - Fork of [@elenapan's (⭐3.6k)](https://github.com/elenapan/dotfiles) lena theme. Includes magic enter from subnixr's [minimal (⭐261)](https://github.com/subnixr/minimal) where hitting enter without any further commands prints out some useful `ls`, `git` and current working directory information.
+*   [aloy (karetsu) (⭐12)](https://github.com/karetsu/aloy) - Fork of [@elenapan's (⭐3.6k)](https://github.com/elenapan/dotfiles) lena ZSH theme. extended to give a little more information in it. It also includes the 'magic enter' from subnixr's [minimal (⭐261)](https://github.com/subnixr/minimal) where hitting enter without any further commands prints out some useful `ls`, `git` and current working directory information.
 *   [ritz (⭐0)](https://github.com/Ritzier/ritz.zsh-theme) - Includes decorators for time, current directory, `git` status, exit status and time used for last command run.
-*   [spectere (⭐0)](https://github.com/Spectere/spectere-omz-theme) - Powerline-esque. Includes decorators for current directory, root status, and `git` status.
+*   [spectere (⭐1)](https://github.com/Spectere/spectere-omz-theme) - Powerline-esque. Includes decorators for current directory, root status, and `git` status.
 
 ---
 

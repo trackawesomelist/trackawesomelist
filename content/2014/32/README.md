@@ -35,17 +35,17 @@
 
 ### Packages / Streams
 
-*   [duplexify (⭐190)](https://github.com/mafintosh/duplexify) - Turn a writeable and readable stream into a single streams2 duplex stream.
-*   [pumpify (⭐253)](https://github.com/mafintosh/pumpify) - Combine an array of streams into a single duplex stream.
+*   [duplexify (⭐191)](https://github.com/mafintosh/duplexify) - Turn a writeable and readable stream into a single streams2 duplex stream.
+*   [pumpify (⭐256)](https://github.com/mafintosh/pumpify) - Combine an array of streams into a single duplex stream.
 *   [peek-stream (⭐56)](https://github.com/mafintosh/peek-stream) - Transform stream that lets you peek the first line before deciding how to parse it.
 
 ### Packages / Natural language processing
 
-*   [leven (⭐713)](https://github.com/sindresorhus/leven) - Measure the difference between two strings using the Levenshtein distance algorithm.
+*   [leven (⭐716)](https://github.com/sindresorhus/leven) - Measure the difference between two strings using the Levenshtein distance algorithm.
 
 ### Packages / Process management
 
-*   [node-mac (⭐534)](https://github.com/coreybutler/node-mac) - Run scripts as a native Mac daemon and log to the console app.
+*   [node-mac (⭐539)](https://github.com/coreybutler/node-mac) - Run scripts as a native Mac daemon and log to the console app.
 *   [node-linux (⭐419)](https://github.com/coreybutler/node-linux) - Run scripts as native system service and log to syslog.
 
 ### Packages / Miscellaneous
@@ -154,7 +154,7 @@
 
 ### Queue
 
-*   [Hangfire (⭐9.3k)](https://github.com/HangfireIO/Hangfire) - Incredibly easy way to perform fire-and-forget, delayed and recurring tasks inside ASP.NET applications
+*   [Hangfire (⭐9.5k)](https://github.com/HangfireIO/Hangfire) - Incredibly easy way to perform fire-and-forget, delayed and recurring tasks inside ASP.NET applications
 
 ## [12. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
@@ -224,11 +224,11 @@
 
 ### Command Line / XML
 
-*   [terminal.d (⭐517)](https://github.com/adamdruppe/arsd/blob/master/terminal.d) - Part of Adam Ruppe's [arsd (⭐517)](https://github.com/adamdruppe/arsd) library supporting cursor and color manipulation on the console.
+*   [terminal.d (⭐531)](https://github.com/adamdruppe/arsd/blob/master/terminal.d) - Part of Adam Ruppe's [arsd (⭐531)](https://github.com/adamdruppe/arsd) library supporting cursor and color manipulation on the console.
 
 ### Game Frameworks / XML
 
-*   [DGame (⭐84)](https://github.com/Dgame/Dgame) - A 2D framework for the D programming Language. see <http://dgame-dev.de/>.
+*   [DGame (⭐85)](https://github.com/Dgame/Dgame) - A 2D framework for the D programming Language. see <http://dgame-dev.de/>.
 
 ### Games / XML
 
@@ -236,12 +236,12 @@
 
 ### Image Processing / XML
 
-*   [ArmageddonEngine (⭐168)](https://github.com/CyberShadow/ae/tree/master/utils/graphics) - Vladimir Panteleev's ae library has a package for image processing in functional style, which is described in the article [Functional Image Processing in D](http://blog.thecybershadow.net/2014/03/21/functional-image-processing-in-d/).
+*   [ArmageddonEngine (⭐172)](https://github.com/CyberShadow/ae/tree/master/utils/graphics) - Vladimir Panteleev's ae library has a package for image processing in functional style, which is described in the article [Functional Image Processing in D](http://blog.thecybershadow.net/2014/03/21/functional-image-processing-in-d/).
 *   [Blogsort](https://bitbucket.org/infognition/bsort/) -  A simple Windows app for viewing photos and preparing them for a blog.
 
 ### Configuration / Language Processing
 
-*   [sdlang (⭐118)](https://github.com/Abscissa/SDLang-D) - An SDL (Simple Declarative Language) library for D.
+*   [sdlang (⭐120)](https://github.com/Abscissa/SDLang-D) - An SDL (Simple Declarative Language) library for D.
 
 ## [15. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
@@ -262,7 +262,7 @@
 
 ### Data Structure / Runner
 
-*   [hashmap (⭐384)](https://github.com/flesler/hashmap) - Simple hashmap implementation that supports any kind of keys.
+*   [hashmap (⭐383)](https://github.com/flesler/hashmap) - Simple hashmap implementation that supports any kind of keys.
 
 ### Control Flow / Runner
 
@@ -271,12 +271,12 @@
 ### Range Sliders / Runner
 
 *   [Ion.RangeSlider (⭐2.5k)](https://github.com/IonDen/ion.rangeSlider) - Powerful and easily customizable range slider with many options and skin support.
-*   [noUiSlider (⭐5.6k)](https://github.com/leongersen/noUiSlider) - A lightweight, highly customizable range slider without bloat.
+*   [noUiSlider (⭐5.7k)](https://github.com/leongersen/noUiSlider) - A lightweight, highly customizable range slider without bloat.
 *   [rangeslider.js (⭐2.2k)](https://github.com/andreruffert/rangeslider.js) - HTML5 input range slider element polyfill.
 
 ### Gesture / Other
 
-*   [touchemulator (⭐378)](https://github.com/hammerjs/touchemulator) - Emulate touch input on your desktop.
+*   [touchemulator (⭐379)](https://github.com/hammerjs/touchemulator) - Emulate touch input on your desktop.
 
 ---
 

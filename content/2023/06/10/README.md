@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 10, 2023
 
-7 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,15 +10,15 @@
 
 ### Software / Miscellaneous
 
-*   [Jellyseerr (⭐3.4k)](https://github.com/Fallenbagel/jellyseerr) - Manage requests for your media library, supports Plex, Jellyfin and Emby media servers (fork of Overseerr). `MIT` `Docker/Nodejs`
+*   [Jellyseerr (⭐4.3k)](https://github.com/Fallenbagel/jellyseerr) - Manage requests for your media library, supports Plex, Jellyfin and Emby media servers (fork of Overseerr). `MIT` `Docker/Nodejs`
 
 ### Software / Money, Budgeting & Management
 
-*   [SolidInvoice](https://solidinvoice.co) - Open source invoicing and quote application. ([Source Code (⭐566)](https://github.com/SolidInvoice/SolidInvoice)) `MIT` `PHP`
+*   [SolidInvoice](https://solidinvoice.co) - Open source invoicing and quote application. ([Source Code (⭐606)](https://github.com/SolidInvoice/SolidInvoice)) `MIT` `PHP`
 
 ### Software / Wikis
 
-*   [AmuseWiki](https://amusewiki.org/) - Amusewiki is based on the Emacs Muse markup, remaining mostly compatible with the original implementation. It can work as a read-only site, as a moderated wiki, or as a fully open wiki or even as a private site. ([Demo](https://sandbox.amusewiki.org), [Source Code (⭐172)](https://github.com/melmothx/amusewiki)) `GPL-1.0` `Perl/Docker`
+*   [AmuseWiki](https://amusewiki.org/) - Amusewiki is based on the Emacs Muse markup, remaining mostly compatible with the original implementation. It can work as a read-only site, as a moderated wiki, or as a fully open wiki or even as a private site. ([Demo](https://sandbox.amusewiki.org), [Source Code (⭐187)](https://github.com/melmothx/amusewiki)) `GPL-1.0` `Perl/Docker`
 
 ### List of Licenses / Wikis
 
@@ -34,27 +34,21 @@
 
 ### Resources / Blog posts
 
-*   [Pandas vs Polars – Speed Comparison](https://stuffbyyuki.com/pandas-vs-polars-speed-comparison/) - A blog post that compares the performance of Polars, Pandas and Pandas 2.0 by [@StuffbyYuki](https://github.com/StuffbyYuki). Code used is available on Github [here (⭐21)](https://github.com/StuffbyYuki/Python-Polars-Tips-and-Tricks/tree/main/pandas_vs_polars).
+*   [Pandas vs Polars – Speed Comparison](https://stuffbyyuki.com/pandas-vs-polars-speed-comparison/) - A blog post that compares the performance of Polars, Pandas and Pandas 2.0 by [@StuffbyYuki](https://github.com/StuffbyYuki). Code used is available on Github [here (⭐26)](https://github.com/StuffbyYuki/Python-Polars-Tips-and-Tricks/tree/main/pandas_vs_polars).
 
-## [4. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
-
-### Job boards
-
-*   [Dev Employ](https://devemploy.com) Hand-picked developer jobs
-
-## [5. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [4. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Editors
 
-*   [Jetbrains (⭐1.8k)](https://github.com/KronicDeth/intellij-elixir) - Elixir for IntelliJ IDEA, RubyMine, WebStorm, PhpStorm, PyCharm, AppCode, Android Studio, 0xDBE.
+*   [Jetbrains (⭐1.9k)](https://github.com/KronicDeth/intellij-elixir) - Elixir for IntelliJ IDEA, RubyMine, WebStorm, PhpStorm, PyCharm, AppCode, Android Studio, 0xDBE.
 
-## [6. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [5. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### Large Language Models (LLMs)
 
 *   [Falcon LLM - Home](https://falconllm.tii.ae/): a foundational large language model (LLM) with 40 billion parameters trained on one trillion tokens shared by Technology Innovation Institute from Abu Dhabi
 
-## [7. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
+## [6. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
 
 ### Marketplace / Cloud Resources
 
@@ -77,7 +71,7 @@
 
 ### Payments / Credit Cards
 
-*   [pci-blackbox (⭐4)](https://github.com/pjfoley/pci-blackbox) - PCI-DSS compliant card system built on PostgreSQL and PL/pgSQL.
+*   [pci-blackbox (⭐5)](https://github.com/pjfoley/pci-blackbox) - PCI-DSS compliant card system built on PostgreSQL and PL/pgSQL.
 
 ### UX/UI / Billing
 

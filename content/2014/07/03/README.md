@@ -10,11 +10,11 @@
 
 ### Framework Components
 
-*   [plug (⭐2.8k)](https://github.com/elixir-lang/plug) - A specification and conveniences for composable modules in between web applications.
+*   [plug (⭐2.9k)](https://github.com/elixir-lang/plug) - A specification and conveniences for composable modules in between web applications.
 
 ### Text and Numbers
 
-*   [uuid (⭐356)](https://github.com/zyro/elixir-uuid) - UUID generator and utilities for Elixir.
+*   [uuid (⭐361)](https://github.com/zyro/elixir-uuid) - UUID generator and utilities for Elixir.
 
 ### Third Party APIs
 
@@ -50,17 +50,13 @@
 ### CSS
 
 *   [css-triangle-generator](http://apps.eky.hk/css-triangle-generator/zh-hant)
-*   [css3lib](http://css3lib.alloyteam.com/)
 *   [csszengarden](http://www.csszengarden.com/)
-*   [css3Preview](http://www.css88.com/tool/css3Preview/)
 *   [CSS Gradient Generator](http://www.colorzilla.com/gradient-editor/)
 *   [cssBeutify](http://tool.lu/css/)
 
 ### Image compression
 
-*   [punypng](http://www.punypng.com/)
 *   [TinyPNG](https://tinypng.com)
-*   [smushit](http://www.smushit.com/ysmush.it/)
 *   [AlloyPhoto](http://alloyteam.github.io/AlloyPhoto/)
 
 ### JavaScript
@@ -72,7 +68,6 @@
 
 ### Pagespeed
 
-*   [YSlow](https://addons.mozilla.org/zh-cn/firefox/addon/yslow/)
 *   [Alibench](http://alibench.com/)
 *   [Webkaka](http://pagespeed.webkaka.com/)
 
@@ -82,7 +77,7 @@
 *   [flatuicolors](http://flatuicolors.com/)
 *   [Color Thief](http://lokeshdhakar.com/projects/color-thief/)
 *   [color-hex](http://www.color-hex.com/)
-*   [colors (⭐9.2k)](https://github.com/mrmrs/colors)
+*   [colors (⭐9.3k)](https://github.com/mrmrs/colors)
 *   [chuantongsecai](http://ylbook.com/cms/web/chuantongsecai/chuantongsecai.htm)
 
 ### Font
@@ -93,7 +88,7 @@
 *   [qiuziti](http://www.qiuziti.com/)
 *   [fonts2u](http://www.fonts2u.com/index.html)
 *   [justfont](http://www.justfont.com/)
-*   [iconpark (⭐360)](https://github.com/lvwzhen/iconpark)
+*   [iconpark (⭐361)](https://github.com/lvwzhen/iconpark)
 
 ### API Doc
 

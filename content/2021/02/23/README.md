@@ -10,9 +10,9 @@
 
 ### Distribution
 
-*   [boon (⭐136)](https://github.com/camchenry/boon) - Multi-platform, easy to use tool supporting Windows, macOS, Linux.
-*   [love-release (⭐445)](https://github.com/MisterDA/love-release) - A Lua script that automates game distribution. Supports Windows, macOS, Debian, Linux.
-*   [makelove (⭐134)](https://github.com/pfirsich/makelove) - Advanced multi-platform tool to fuse your game written in Python 3. Supports Windows and Linux with AppImage.
+*   [boon (⭐146)](https://github.com/camchenry/boon) - Multi-platform, easy to use tool supporting Windows, macOS, Linux.
+*   [love-release (⭐461)](https://github.com/MisterDA/love-release) - A Lua script that automates game distribution. Supports Windows, macOS, Debian, Linux.
+*   [makelove (⭐155)](https://github.com/pfirsich/makelove) - Advanced multi-platform tool to fuse your game written in Python 3. Supports Windows and Linux with AppImage.
 
 ## [2. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
@@ -25,7 +25,6 @@
 ### JAMstack
 
 *   [Uniform, JSS and Next.js starter kit (⭐28)](https://github.com/uniformdev/sitecore-jss-nextjs-starterkit) - A starter kit of Uniform, JSS, and Next.JS with content items and required configuration files, great to start a vanilla project with.
-*   [Uniform, MVC and Next.js starter kit (⭐7)](https://github.com/uniformdev/sitecore-mvc-nextjs-starterkit) - A starter kit of Uniform, MVC, and Next.JS with content items and required configuration files, great to start a vanilla project with.
 
 ## [4. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
 
@@ -37,7 +36,7 @@
 
 ### Concurrency
 
-*   [Throttler (⭐127)](https://github.com/boraseoksoon/Throttler) - Throttle massive number of asynchronous inputs in a single drop of one line API.
+*   [Throttler (⭐138)](https://github.com/boraseoksoon/Throttler) - Throttle massive number of asynchronous inputs in a single drop of one line API.
 
 ## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -84,13 +83,13 @@
 
 ## [7. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
-### Plugins and scripts / Various Godot versions
+### Plugins and scripts / Godot 3
 
-*   [Ridiculous Coding (⭐833)](https://github.com/jotson/ridiculous_coding) - Makes your coding experience in Godot 1000× more ridiculous (Godot 3.x).
+*   [Ridiculous Coding (⭐890)](https://github.com/jotson/ridiculous_coding) - Makes your coding experience in Godot 1000× more ridiculous.
 
-### Modules / Godot 3.2+
+### Modules / Godot 3
 
-*   [GodotAIGym (⭐211)](https://github.com/lupoglaz/GodotAIGym) - Make your Godot project into an OpenAI Gym environment to train RL models with PyTorch.
+*   [GodotAIGym (⭐214)](https://github.com/lupoglaz/GodotAIGym) - Make your Godot project into an OpenAI Gym environment to train RL models with PyTorch.
 
 ## [8. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
@@ -104,7 +103,7 @@
 ### REST and API
 
 *   [mazurka (⭐15)](https://github.com/exstruct/mazurka) - Hypermedia API toolkit.
-*   [SOAP client (⭐134)](https://github.com/elixir-soap/soap) - Hex-documented SOAP client based on HTTPoison.
+*   [SOAP client (⭐137)](https://github.com/elixir-soap/soap) - Hex-documented SOAP client based on HTTPoison.
 
 ## [10. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
 

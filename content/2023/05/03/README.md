@@ -10,7 +10,7 @@
 
 ### Development
 
-*   [LoveDebug (⭐34)](https://github.com/flamendless/lovedebug) - Inline console-like debugger utility.
+*   [LoveDebug (⭐35)](https://github.com/flamendless/lovedebug) - Inline console-like debugger utility.
 
 ## [2. Awesome Software Architecture](/content/simskij/awesome-software-architecture/README.md)
 
@@ -26,7 +26,7 @@
 
 ### DASH / Talks Presentations Podcasts
 
-*   [dash-mpd-rs (⭐67)](https://github.com/emarsden/dash-mpd-rs)  - Rust library for parsing, serializing and downloading media content from a DASH MPD file.
+*   [dash-mpd-rs (⭐75)](https://github.com/emarsden/dash-mpd-rs)  - Rust library for parsing, serializing and downloading media content from a DASH MPD file.
 
 ## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

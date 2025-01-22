@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 12, 2020
 
-8 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Contents / Language bindings
 
-*   R: [RPostgreSQL (⭐65)](https://github.com/tomoakin/RPostgreSQL)
+*   R: [RPostgreSQL (⭐64)](https://github.com/tomoakin/RPostgreSQL)
 
 ## [2. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
@@ -22,8 +22,8 @@
 
 ### Libraries / Authentication
 
-*   [oxide-auth (⭐664)](https://github.com/HeroicKatora/oxide-auth) - A OAuth2 server library, for use in combination with actix or other frontends, featuring a set of configurable and pluggable backends [![Build Status](https://api.cirrus-ci.com/github/HeroicKatora/oxide-auth.svg?branch=master)](https://cirrus-ci.com/github/HeroicKatora/oxide-auth)
-*   [yup-oauth2 (⭐218)](https://github.com/dermesser/yup-oauth2) - An oauth2 client implementation providing the Device, Installed and Service Account flows
+*   [oxide-auth (⭐697)](https://github.com/HeroicKatora/oxide-auth) - A OAuth2 server library, for use in combination with actix or other frontends, featuring a set of configurable and pluggable backends [![Build Status](https://api.cirrus-ci.com/github/HeroicKatora/oxide-auth.svg?branch=master)](https://cirrus-ci.com/github/HeroicKatora/oxide-auth)
+*   [yup-oauth2 (⭐225)](https://github.com/dermesser/yup-oauth2) - An oauth2 client implementation providing the Device, Installed and Service Account flows
 
 ## [4. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/README.md)
 
@@ -178,15 +178,9 @@ Language: English
 
 ### Plugins / Practices and Specific ES Features
 
-*   [RegExp (⭐676)](https://github.com/ota-meshi/eslint-plugin-regexp) - ESLint plugin for finding regexp mistakes and style guide violations.
+*   [RegExp (⭐694)](https://github.com/ota-meshi/eslint-plugin-regexp) - ESLint plugin for finding regexp mistakes and style guide violations.
 
-## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / UI Components
-
-*   [vuesence-modal-window (⭐3)](https://github.com/altrusl/vuesence-modal-window) - Simple Modal window Vue.js component that takes care of overlay, centering, animation, outside click/`Escape` key/`X-mark` closing and allows you to concentrate on its content only.
-
-## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Storage and Media Processing
 

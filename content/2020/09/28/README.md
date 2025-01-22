@@ -10,7 +10,7 @@
 
 ### Invoice / Electronic invoices
 
-*   [Factur-X (⭐139)](https://github.com/akretion/factur-x) - Python library to support the e-invoicing standard for France and Germany.
+*   [Factur-X (⭐181)](https://github.com/akretion/factur-x) - Python library to support the e-invoicing standard for France and Germany.
 
 ## [2. Awesome Credit Modeling](/content/mourarthur/awesome-credit-modeling/README.md)
 
@@ -39,7 +39,7 @@
 
 ### Development tools / Services
 
-*   [deps.rs (⭐422)](https://github.com/deps-rs/deps.rs) - Detect outdated or insecure dependencies
+*   [deps.rs (⭐452)](https://github.com/deps-rs/deps.rs) - Detect outdated or insecure dependencies
 
 ## [4. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
 
@@ -69,7 +69,7 @@
 
 ### Driver crates / Other
 
-*   [TSIC](https://crates.io/crates/tsic) - GPIO - TSIC 306 temperature sensor driver - [Intro blog post](https://nitschinger.at/Rusty-PID-Porting-the-TSic-sensor-from-C-to-Rust/) ![crates.io](https://img.shields.io/crates/v/tsic.svg)
+*   [TSIC](https://crates.io/crates/tsic) - GPIO - TSIC 306 temperature sensor driver - [Intro blog post](https://nitschinger.at/Rusty-PID-Porting-the-TSic-sensor-from-C-to-Rust/) [![crates.io](https://img.shields.io/crates/v/tsic.svg)](https://crates.io/crates/tsic)
 
 ## [7. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
@@ -116,7 +116,7 @@
 
 ### Tools / Plugins
 
-*   [gatling-sbt-plugin (⭐106)](https://github.com/gatling/gatling-sbt-plugin) - Gatling SBT plugin to integrate Gatling with SBT, allowing to use Gatling as a testing framework.
+*   [gatling-sbt-plugin (⭐108)](https://github.com/gatling/gatling-sbt-plugin) - Gatling SBT plugin to integrate Gatling with SBT, allowing to use Gatling as a testing framework.
 
 ## [10. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
@@ -128,7 +128,7 @@
 
 ### Python / Financial Instruments and Pricing
 
-*   [FinancePy (⭐2k)](https://github.com/domokane/FinancePy) - A Python Finance Library that focuses on the pricing and risk-management of Financial Derivatives, including fixed-income, equity, FX and credit derivatives.
+*   [FinancePy (⭐2.2k)](https://github.com/domokane/FinancePy) - A Python Finance Library that focuses on the pricing and risk-management of Financial Derivatives, including fixed-income, equity, FX and credit derivatives.
 
 ## [12. Awesome Chip 8](/content/tobiasvl/awesome-chip-8/README.md)
 

@@ -36,7 +36,7 @@
 
 ### API / Runner
 
-*   [wretch (⭐4.6k)](https://github.com/elbywan/wretch) - A tiny wrapper built around fetch with an intuitive syntax.
+*   [wretch (⭐4.7k)](https://github.com/elbywan/wretch) - A tiny wrapper built around fetch with an intuitive syntax.
 
 ## [5. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
@@ -44,7 +44,7 @@
 
 *   [Crystar (⭐38)](https://github.com/naqvis/crystar) - Readers and writers of Tar archive format
 *   [snappy (⭐18)](https://github.com/naqvis/snappy) -  Snappy compression format reader/writer for Crystal
-*   [zstd.cr (⭐41)](https://github.com/didactic-drunk/zstd.cr) - Bindings for [Zstandard (⭐23k)](https://github.com/facebook/zstd) compression library
+*   [zstd.cr (⭐41)](https://github.com/didactic-drunk/zstd.cr) - Bindings for [Zstandard (⭐24k)](https://github.com/facebook/zstd) compression library
 
 ## [6. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
 
@@ -103,11 +103,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Pychat (⭐231)](https://github.com/akoidan/pychat) - Self-hosted webrtc video chat (an alternative to Slack)
-
-### Components & Libraries / UI Utilities
-
-*   [vue-html-to-paper (⭐298)](https://github.com/mycurelabs/vue-html-to-paper) - Vue mixin for paper printing html elements to paper.
+*   [Pychat (⭐236)](https://github.com/akoidan/pychat) - Self-hosted webrtc video chat (an alternative to Slack)
 
 ## [11. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
@@ -127,7 +123,7 @@
 
 ### Tools / Reverse Engineering
 
-*   [apk-mitm (⭐3.6k)](https://github.com/shroudedcode/apk-mitm) - A CLI application that prepares Android APK files for HTTPS inspection
+*   [apk-mitm (⭐4.1k)](https://github.com/shroudedcode/apk-mitm) - A CLI application that prepares Android APK files for HTTPS inspection
 
 ---
 

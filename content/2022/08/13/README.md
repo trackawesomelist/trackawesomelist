@@ -20,13 +20,13 @@
 
 ### RSS Extensions / Outline Processor Markup Language
 
-*   [Podcast Index: the "podcast" namespace (⭐373)](https://github.com/Podcastindex-org/podcast-namespace) <sup>[865](https://t.me/s/aboutrss/865), [1235](https://t.me/s/aboutrss/1235), [1236](https://t.me/s/aboutrss/1236)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Podcastindex-org/podcast-namespace)
+*   [Podcast Index: the "podcast" namespace (⭐399)](https://github.com/Podcastindex-org/podcast-namespace) <sup>[865](https://t.me/s/aboutrss/865), [1235](https://t.me/s/aboutrss/1235), [1236](https://t.me/s/aboutrss/1236)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Podcastindex-org/podcast-namespace)
 *   [source namespace](http://source.scripting.com/#1653758422000) <sup>[1240](https://t.me/s/aboutrss/1240)</sup>: Markdown in RSS supported.
 
 ### Apps / Outline Processor Markup Language
 
 *   [Unread](https://www.goldenhillsoftware.com/unread/) <sup>[400](https://t.me/s/aboutrss/400), [402](https://t.me/s/aboutrss/402), [666](https://t.me/s/aboutrss/666), [1232](https://t.me/s/aboutrss/1232), [1476](https://t.me/s/aboutrss/1476)</sup> [![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://apps.apple.com/app/unread-2/id1363637349)![Mac](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-mac-client-16.png)
-*   [Read You (⭐4.5k)](https://github.com/Ashinch/ReadYou/) <sup>[1201](https://t.me/s/aboutrss/1201)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Ashinch/ReadYou/)[![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://t.me/ReadYouApp)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+*   [Read You (⭐5.4k)](https://github.com/Ashinch/ReadYou/) <sup>[1201](https://t.me/s/aboutrss/1201)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Ashinch/ReadYou/)[![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://t.me/ReadYouApp)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 *   [WebFeed](https://taoshu.in/webfeed/) <sup>[1213](https://t.me/s/aboutrss/1213)</sup> [![Chrome](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Google_Chrome.png)](https://chrome.google.com/webstore/detail/webfeed/phonnpdncnchhpobgkabgcjoapjcacop/)[![Firefox](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Mozilla.png)](https://addons.mozilla.org/zh-CN/firefox/addon/webfeed/)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/taoso/webfeed)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 *   [Matter Reader](https://hq.getmatter.com/) <sup>[1220](https://t.me/s/aboutrss/1220)</sup> [![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://apps.apple.com/app/matter-reader/id1501592184)
 *   [Folio Reader](https://foliorss.com/) <sup>[1201](https://t.me/s/aboutrss/1201)</sup> [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=me.bakumon.rss)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
@@ -39,12 +39,12 @@
 ### Self Hosted Readers / Outline Processor Markup Language
 
 *   [Miniflux](https://miniflux.app/index.html) <sup>[369](https://t.me/s/aboutrss/369), [428](https://t.me/s/aboutrss/428), [831](https://t.me/s/aboutrss/831), [858](https://t.me/s/aboutrss/858), [982](https://t.me/s/aboutrss/982), [983](https://t.me/s/aboutrss/983)</sup> [![Online](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-web-design-16.png)](https://miniflux.app/hosting.html)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/miniflux/miniflux)
-    *   [docker-miniflux-postgresql (⭐22)](https://github.com/fengkx/docker-miniflux-postgresql) <sup>[607](https://t.me/s/aboutrss/607)</sup>: docker of miniflux RSS Reader with PostgreSQL in docker-compose [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/fengkx/docker-miniflux-postgresql)
-    *   [Awesome Miniflux (⭐34)](https://github.com/hirusi/awesome-miniflux) <sup>[858](https://t.me/s/aboutrss/858)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/hirusi/awesome-miniflux)
-    *   [Miniflux Indexer (⭐13)](https://github.com/QuantumGhost/miniflux-indexer) <sup>[1022](https://t.me/s/aboutrss/1022)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/QuantumGhost/miniflux-indexer)
+    *   [docker-miniflux-postgresql (⭐24)](https://github.com/fengkx/docker-miniflux-postgresql) <sup>[607](https://t.me/s/aboutrss/607)</sup>: docker of miniflux RSS Reader with PostgreSQL in docker-compose [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/fengkx/docker-miniflux-postgresql)
+    *   [Awesome Miniflux (⭐47)](https://github.com/hirusi/awesome-miniflux) <sup>[858](https://t.me/s/aboutrss/858)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/hirusi/awesome-miniflux)
+    *   [Miniflux Indexer (⭐14)](https://github.com/QuantumGhost/miniflux-indexer) <sup>[1022](https://t.me/s/aboutrss/1022)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/QuantumGhost/miniflux-indexer)
     *   [Reading for RSS](https://apps.apple.com/app/reading-for-rss/id1611939852) <sup>[1219](https://t.me/s/aboutrss/1219)</sup> [![](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://apps.apple.com/app/reading-for-rss/id1611939852)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
     *   [Inoreader to Miniflux/v2 GitHub Gist](https://gist.github.com/douo/3e37bc863c5af9cbf393fe8724be6bb4) <sup>[1323](https://t.me/s/aboutrss/1323)</sup>
-    *   [Reactflux (⭐154)](https://github.com/electh/ReactFlux) <sup>[1425](https://t.me/s/aboutrss/1425)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/electh/ReactFlux)
+    *   [Reactflux (⭐257)](https://github.com/electh/ReactFlux) <sup>[1425](https://t.me/s/aboutrss/1425)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/electh/ReactFlux)
 
 ### RSS Reader in Email System / Outline Processor Markup Language
 
@@ -149,13 +149,13 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [fzf-fasd (⭐56)](https://github.com/wookayin/fzf-fasd) - Integrates [fzf (⭐63k)](https://github.com/junegunn/fzf) and [fasd (⭐5.9k)](https://github.com/clvv/fasd) --- tab completion of `z` with `fzf`'s fuzzy search!
+*   [fzf-fasd (⭐57)](https://github.com/wookayin/fzf-fasd) - Integrates [fzf (⭐67k)](https://github.com/junegunn/fzf) and [fasd (⭐5.9k)](https://github.com/clvv/fasd) --- tab completion of `z` with `fzf`'s fuzzy search!
 
 ## [4. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Color / Diagnostics
 
-*   [brenoprata10/nvim-highlight-colors (⭐629)](https://github.com/brenoprata10/nvim-highlight-colors) - A plugin to highlight colors with Neovim.
+*   [brenoprata10/nvim-highlight-colors (⭐768)](https://github.com/brenoprata10/nvim-highlight-colors) - A plugin to highlight colors with Neovim.
 
 ## [5. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 

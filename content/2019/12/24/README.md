@@ -10,7 +10,7 @@
 
 ### Tools
 
-*   [formik-antd (⭐566)](https://github.com/jannikbuschke/formik-antd) - Declarative bindings for the popular form state management library Formik.
+*   [formik-antd (⭐591)](https://github.com/jannikbuschke/formik-antd) - Declarative bindings for the popular form state management library Formik.
 
 ## [2. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
 
@@ -34,14 +34,14 @@
 
 ### GitHub Tools and Management / Docker Container Actions
 
-*   [Generate release notes based on your events (⭐85)](https://github.com/Decathlon/release-notes-generator-action)
-*   [Create a GitHub wiki page based on the provided markdown file (⭐73)](https://github.com/Decathlon/wiki-page-creator-action)
-*   [Label your Pull Requests auto-magically (using committed files) (⭐85)](https://github.com/Decathlon/pull-request-labeler-action)
+*   [Generate release notes based on your events (⭐115)](https://github.com/Decathlon/release-notes-generator-action)
+*   [Create a GitHub wiki page based on the provided markdown file (⭐94)](https://github.com/Decathlon/wiki-page-creator-action)
+*   [Label your Pull Requests auto-magically (using committed files) (⭐95)](https://github.com/Decathlon/pull-request-labeler-action)
 
 ### Utility / Docker Container Actions
 
-*   [Edit JSON File (⭐10)](https://github.com/deef0000dragon1/json-edit-action)
-*   [Build Slate documentation (⭐15)](https://github.com/Decathlon/slate-builder-action)
+*   [Edit JSON File (⭐12)](https://github.com/deef0000dragon1/json-edit-action)
+*   [Build Slate documentation (⭐18)](https://github.com/Decathlon/slate-builder-action)
 
 ## [6. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 

@@ -65,7 +65,7 @@ A **must-read** for anyone looking to build their own cryptography features.
 
 ### Documentation
 
-*   [DocFX (⭐4k)](https://github.com/dotnet/docfx) - Tools for building and publishing API documentation for .NET projects
+*   [DocFX (⭐4.2k)](https://github.com/dotnet/docfx) - Tools for building and publishing API documentation for .NET projects
 
 ## [6. Awesome Android](/content/JStumpp/awesome-android/README.md)
 

@@ -16,7 +16,7 @@
 
 ### General Purpose Computing / Apache License
 
-*   [cuda (⭐18)](https://github.com/AdaCore/cuda) - CUDA support from AdaCore.
+*   [cuda (⭐19)](https://github.com/AdaCore/cuda) - CUDA support from AdaCore.
 
 ## [3. Awesome Security](/content/sbilly/awesome-security/README.md)
 
@@ -28,7 +28,7 @@
 
 ### Tools / Testing Tools
 
-*   [eslint-remote-tester (⭐118)](https://github.com/AriPerkkio/eslint-remote-tester) - CLI tool for testing given ESlint rules against multiple repositories at once.
+*   [eslint-remote-tester (⭐129)](https://github.com/AriPerkkio/eslint-remote-tester) - CLI tool for testing given ESlint rules against multiple repositories at once.
 
 ## [5. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
 
@@ -40,7 +40,7 @@
 
 ### Applications / Productivity
 
-*   [Bartib (⭐650)](https://github.com/nikolassv/bartib) \[[Bartib](https://crates.io/crates/bartib)] - A simple timetracker for the command line [![Tests](https://github.com/nikolassv/bartib/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/nikolassv/bartib/actions/workflows/test.yml)
+*   [Bartib (⭐700)](https://github.com/nikolassv/bartib) \[[Bartib](https://crates.io/crates/bartib)] - A simple timetracker for the command line [![Tests](https://github.com/nikolassv/bartib/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/nikolassv/bartib/actions/workflows/test.yml)
 
 ## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -62,7 +62,7 @@
 
 ### Component bundles
 
-*   [MASA Blazor (⭐1.1k)](https://github.com/BlazorComponent/MASA.Blazor) - ![stars](https://img.shields.io/github/stars/BlazorComponent/MASA.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/BlazorComponent/MASA.Blazor?style=flat-square\&cacheSeconds=86400) A set of enterprise-class UI components based on Material Design and Blazor. It's an almost perfect copy of Vuetify, and Long-term roadmaps have been mapped out. It is powered by the MASA team and remains free and open source. [Documentation](http://blazor.masastack.com/). [Pro Demo](https://blazor-pro.masastack.com/).
+*   [MASA Blazor (⭐1.2k)](https://github.com/BlazorComponent/MASA.Blazor) - ![stars](https://img.shields.io/github/stars/BlazorComponent/MASA.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/BlazorComponent/MASA.Blazor?style=flat-square\&cacheSeconds=86400) A set of enterprise-class UI components based on Material Design and Blazor. It's an almost perfect copy of Vuetify, and Long-term roadmaps have been mapped out. It is powered by the MASA team and remains free and open source. [Documentation](http://blazor.masastack.com/). [Pro Demo](https://blazor-pro.masastack.com/).
 
 ## [10. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 

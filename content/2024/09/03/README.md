@@ -6,20 +6,14 @@
 
 
 
-## [1. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/README.md)
-
-### **Microsoft Azure OpenAI relevant LLM Framework** / LLM Integration Frameworks
-
-*   [Azure ML Prompt Flow](https://learn.microsoft.com/en-us/azure/machine-learning/prompt-flow/overview-what-is-prompt-flow) (Jun 2023): A visual designer for prompt crafting using Jinja as a prompt template language. / [Reference](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/harness-the-power-of-large-language-models-with-azure-machine/ba-p/3828459) / [GitHub (⭐9.1k)](https://github.com/microsoft/promptflow)
-
-## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [1. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Email
 
 *   [Temp-Mail.org](https://temp-mail.org/en/) - Temporary / Disposable Mail Gen Utilizing a range variety of domain. Email Address refreshes everytime, the page is reloaded. It is entirely free and does not include any pricing for their services.
 *   [FakeMailGenerator.com](https://www.fakemailgenerator.com/) - A German Temporary / Disposable Mail generator. Support 10 domain, while giving you the freedom of creating unlimited addresses. (include ads) but other than that, there is no pricing included in the service, it is entirely free.
 
-## [3. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
+## [2. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
 
 ### Metadata
 
@@ -27,12 +21,26 @@
 
 ### Network & Storage Testing
 
-*   [Wireshark dissector for TSL UMD protocol V3.1, V4 (⭐4)](https://github.com/roddypratt/tslumd-wireshark) - Analyzers for TSL UMD (under-monitor display) protocol V3.1 and V4.
-*   [Wireshark dissectors for Video Routers (⭐8)](https://github.com/roddypratt/router_dissectors) - Analyzers for various video router/matrix protocols.
+*   [Wireshark dissector for TSL UMD protocol V3.1, V4 (⭐5)](https://github.com/roddypratt/tslumd-wireshark) - Analyzers for TSL UMD (under-monitor display) protocol V3.1 and V4.
+*   [Wireshark dissectors for Video Routers (⭐11)](https://github.com/roddypratt/router_dissectors) - Analyzers for various video router/matrix protocols.
 
 ### NMOS
 
-*   [NVIDIA NMOS Library (⭐4)](https://github.com/NVIDIA/nvnmos) (NvNmos) - A simple-to-use C/C++ library for adding an NMOS Node to your application, with support for IS-04, IS-05, BCP-002-01, BCP-002-02, BCP-004-01, etc.
+*   [NVIDIA NMOS Library (⭐9)](https://github.com/NVIDIA/nvnmos) (NvNmos) - A simple-to-use C/C++ library for adding an NMOS Node to your application, with support for IS-04, IS-05, BCP-002-01, BCP-002-02, BCP-004-01, etc.
+
+## [3. Awesome Windows](/content/0pandadev/awesome-windows/README.md)
+
+### Compression
+
+*   [PeaZip](https://peazip.github.io/) - Archive manager with compression format support. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/peazip/PeaZip)
+
+### Proxy and VPN Tools
+
+*   [ProtonVPN](https://protonvpn.com/) - High-speed Swiss VPN that safeguards your privacy. ![star](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/star.svg)
+
+### Terminal
+
+*   [Cmder](https://cmder.app) - Console emulator with clink shell integration. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/cmderdev/cmder)
 
 ## [4. Android Security Awesome](/content/ashishb/android-security-awesome/README.md)
 
@@ -52,17 +60,17 @@
 
 ### Others / Web project skeletons and generators
 
-*   [dns-client (⭐15)](https://github.com/Shinmera/dns-client) - DNS record client. See [documentation](https://shinmera.github.io/dns-client/). [zlib](https://directory.fsf.org/wiki/License:Zlib).
+*   [dns-client (⭐16)](https://github.com/Shinmera/dns-client) - DNS record client. See [documentation](https://shinmera.github.io/dns-client/). [zlib](https://directory.fsf.org/wiki/License:Zlib).
 
 ## [6. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Database Tools
 
-*   [gatewayd (⭐206)](https://github.com/gatewayd-io/gatewayd) - Cloud-native database gateway and framework for building data-driven applications. Like API gateways, for databases.
+*   [gatewayd (⭐233)](https://github.com/gatewayd-io/gatewayd) - Cloud-native database gateway and framework for building data-driven applications. Like API gateways, for databases.
 
 ### Machine Learning
 
-*   [GoMLX (⭐236)](https://github.com/gomlx/gomlx) - An accelerated Machine Learning framework for Go.
+*   [GoMLX (⭐627)](https://github.com/gomlx/gomlx) - An accelerated Machine Learning framework for Go.
 
 ## [7. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
@@ -94,18 +102,19 @@
 
 *   [fast-facts/ng-update (⭐4)](https://github.com/fast-facts/ng-update) - A Github Action that keeps your Angular CLI-based projects up-to-date via automated PRs based on `ng update`.
 
-### Unspecified / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [po-angular (⭐902)](https://github.com/po-ui/po-angular) - Component library based on Angular. Documentation in Portuguese.
-
-### Misc Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [ngx-angular-query-builder (⭐30)](https://github.com/raysuelzer/ngx-angular-query-builder) - A new version of [angular2-query-builder (⭐293)](https://github.com/zebzhao/Angular-QueryBuilder) that supports modern Angular.  Used to create queries and filters.
-
 ### NgRx / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ngrx-entity-relationship (⭐43)](https://github.com/satanTime/ngrx-entity-relationship) - ORM selectors for Redux, `@ngrx/store`, `@ngrx/entity`, and `@ngrx/data`. Ease of relationships with entities.
 
+### Unspecified / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [po-angular (⭐924)](https://github.com/po-ui/po-angular) - Component library based on Angular. Documentation in Portuguese.
+
+### Misc Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-angular-query-builder (⭐32)](https://github.com/raysuelzer/ngx-angular-query-builder) - A new version of [angular2-query-builder (⭐299)](https://github.com/zebzhao/Angular-QueryBuilder) that supports modern Angular.  Used to create queries and filters.
+
 ---
 
+- Prev: [Sep 04, 2024](/content/2024/09/04/README.md)
 - Next: [Sep 02, 2024](/content/2024/09/02/README.md)

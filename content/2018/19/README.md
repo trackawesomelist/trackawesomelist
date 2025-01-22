@@ -1,6 +1,6 @@
 # Awesome List Updates on May 07 - May 13, 2018
 
-40 awesome lists updated this week.
+38 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -105,11 +105,11 @@
 
 ### Cloud Infrastructure and Management
 
-*   [Kazan (⭐139)](https://github.com/obmarg/kazan) - Kubernetes client for Elixir, generated from the k8s open API specifications.
+*   [Kazan (⭐140)](https://github.com/obmarg/kazan) - Kubernetes client for Elixir, generated from the k8s open API specifications.
 
 ### Date and Time
 
-*   [cocktail (⭐217)](https://github.com/peek-travel/cocktail) - Elixir date recurrence library based on iCalendar events.
+*   [cocktail (⭐223)](https://github.com/peek-travel/cocktail) - Elixir date recurrence library based on iCalendar events.
 
 ### Examples and funny stuff
 
@@ -125,7 +125,7 @@
 
 ### Queue
 
-*   [gen\_rmq (⭐182)](https://github.com/meltwater/gen_rmq) - Set of behaviours meant to be used to create RabbitMQ consumers and publishers.
+*   [gen\_rmq (⭐181)](https://github.com/meltwater/gen_rmq) - Set of behaviours meant to be used to create RabbitMQ consumers and publishers.
 
 ### Security
 
@@ -137,7 +137,7 @@
 
 ### Third Party APIs
 
-*   [shopify (⭐104)](https://github.com/nsweeting/shopify) - Easily access the Shopify API.
+*   [shopify (⭐102)](https://github.com/nsweeting/shopify) - Easily access the Shopify API.
 
 ### Translations and Internationalizations
 
@@ -295,13 +295,13 @@
 ### System
 
 *   [baked\_file\_system (⭐177)](https://github.com/schovi/baked_file_system) - Virtual file system implementation
-*   [hardware (⭐72)](https://github.com/crystal-community/hardware) - Get CPU, Memory and Network informations of the running OS and its processes
+*   [hardware (⭐74)](https://github.com/crystal-community/hardware) - Get CPU, Memory and Network informations of the running OS and its processes
 
 ## [18. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Tools / Communication
 
-*   [Slack](https://slack.com/) – Text, voice, and video chat system with loads of integration options including [ScreenHero](https://screenhero.com), a real-time, HD screen sharing system for collaboration in teams
+*   [Slack](https://slack.com/) – Text, voice, and video chat system with loads of integration options including [Huddles](https://slack.com/features/huddles), a real-time, HD screen sharing system for collaboration in teams
 
 ## [19. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
 
@@ -356,21 +356,7 @@
 
 *   [gcalcli (⭐3.2k)](https://github.com/insanum/gcalcli) - Google Calendar command line interface
 
-## [25. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
-
-### Components & Libraries / UI Components
-
-*   [vue-persian-datetime-picker (⭐586)](https://github.com/talkhabi/vue-persian-datetime-picker) Persian material datepicker. Supports datetime, date, time, year, month.
-
-### Components & Libraries / UI Utilities
-
-*   [vue-next-level-scroll (⭐49)](https://github.com/Developmint/vue-next-level-scroll) - A component based and SSR ready approach to smooth scrolling using the modern Scroll behavior API
-
-### Components & Libraries / Utilities
-
-*   [vue-router-user-roles (⭐241)](https://github.com/anthonygore/vue-router-user-roles) - Protects routes based on user roles. Add your own authentication.
-
-## [26. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md)
+## [25. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md)
 
 ### Libraries / General Purpose
 
@@ -380,7 +366,7 @@
 
 *   [JChemPaint (⭐106)](https://github.com/JChemPaint/jchempaint) - Chemical 2D structure editor application/applet based on the [Chemistry Development Kit](https://sourceforge.net/projects/cdk/).
 
-## [27. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [26. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / Automation
 
@@ -412,13 +398,13 @@
 
 *   [Developing ember apps on glitch.com](https://www.youtube.com/watch?v=uhXA6ECaknw)
 
-## [28. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [27. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Conferences / Third-party Service Integration
 
 *   [Laravel Live UK](https://laravellive.uk/)
 
-## [29. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [28. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### JavaScript / General-Purpose Machine Learning
 
@@ -426,17 +412,17 @@
 
 ### .NET / General-Purpose Machine Learning
 
-*   [GeneticSharp (⭐1.2k)](https://github.com/giacomelli/GeneticSharp) - Multi-platform genetic algorithm library for .NET Core and .NET Framework. The library has several implementations of GA operators, like: selection, crossover, mutation, reinsertion and termination.
-*   [ML.NET (⭐8.9k)](https://github.com/dotnet/machinelearning) - ML.NET is a cross-platform open-source machine learning framework which makes machine learning accessible to .NET developers. ML.NET was originally developed in Microsoft Research and evolved into a significant framework over the last decade and is used across many product groups in Microsoft like Windows, Bing, PowerPoint, Excel and more.
+*   [GeneticSharp (⭐1.3k)](https://github.com/giacomelli/GeneticSharp) - Multi-platform genetic algorithm library for .NET Core and .NET Framework. The library has several implementations of GA operators, like: selection, crossover, mutation, reinsertion and termination.
+*   [ML.NET (⭐9.1k)](https://github.com/dotnet/machinelearning) - ML.NET is a cross-platform open-source machine learning framework which makes machine learning accessible to .NET developers. ML.NET was originally developed in Microsoft Research and evolved into a significant framework over the last decade and is used across many product groups in Microsoft like Windows, Bing, PowerPoint, Excel and more.
 *   [Vulpes (⭐116)](https://github.com/fsprojects/Vulpes) - Deep belief and deep learning implementation written in F# and leverages CUDA GPU execution with Alea.cuBase.
 
-## [30. Bots](/content/hackerkid/bots/week/README.md)
+## [29. Bots](/content/hackerkid/bots/week/README.md)
 
 ### Tools For Building Bots
 
 *   [Dialogflow](https://dialogflow.com/) - Build natural and rich conversational experiences.
 
-## [31. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
+## [30. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
 ### Tools
 
@@ -447,13 +433,13 @@
 
 *   [homeeToMqtt (⭐10)](https://github.com/odig/homeeToMqtt) - Bidirectional Interface between homee and MQTT.
 
-## [32. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [31. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### Assorted
 
 *   [React and React Native State Museum](https://hackernoon.com/the-react-state-museum-a278c726315)
 
-## [33. Awesome Vapor](/content/vapor-community/awesome-vapor/week/README.md)
+## [32. Awesome Vapor](/content/vapor-community/awesome-vapor/week/README.md)
 
 ### Libraries
 
@@ -470,23 +456,17 @@
 
 *   ![v3](https://github.com/vapor-community/awesome-vapor/raw/main/img/vapor-3.png) [User Manager Service (⭐69)](https://github.com/skelpo/UserManager) – A small, useful user manager made for production application setups.
 
-## [34. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
-
-### Metadata
-
-*   [SDPoker (⭐37)](https://github.com/Streampunk/sdpoker) - CLI tool and library for testing SMPTE ST2110 SDP files.
-
-## [35. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [33. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
 *   [Awesome Container Security (⭐14)](https://github.com/kai5263499/container-security-awesome) - A curated list of awesome resources related to container building and runtime security
 
-## [36. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [34. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Animation
 
-*   [SpriteKitEasingSwift (⭐115)](https://github.com/craiggrummitt/SpriteKitEasingSwift) - Better Easing for SpriteKit.
+*   [SpriteKitEasingSwift (⭐117)](https://github.com/craiggrummitt/SpriteKitEasingSwift) - Better Easing for SpriteKit.
 
 ### Core Data
 
@@ -495,23 +475,23 @@
 ### Images / Barcode
 
 *   [BlockiesSwift (⭐64)](https://github.com/Boilertalk/BlockiesSwift) - Unique blocky identicons/profile picture generator.
-*   [ImageDetect (⭐302)](https://github.com/Feghal/ImageDetect) - Detect and crop faces, barcodes and texts in image with iOS 11 Vision API.
+*   [ImageDetect (⭐306)](https://github.com/Feghal/ImageDetect) - Detect and crop faces, barcodes and texts in image with iOS 11 Vision API.
 
 ### Logging / Barcode
 
-*   [TraceLog (⭐52)](https://github.com/tonystone/tracelog) :penguin: - Dead Simple: logging the way it's meant to be!  Runs on iOS, macOS, and Linux.
+*   [TraceLog (⭐53)](https://github.com/tonystone/tracelog) :penguin: - Dead Simple: logging the way it's meant to be!  Runs on iOS, macOS, and Linux.
 
 ### Webserver / Barcode
 
-*   [Curassow (⭐397)](https://github.com/kylef-archive/Curassow) :penguin: - HTTP server using the pre-fork worker model.
+*   [Curassow (⭐398)](https://github.com/kylef-archive/Curassow) :penguin: - HTTP server using the pre-fork worker model.
 
 ### Scripting / Barcode
 
-*   [Swift for Scripting (⭐285)](https://github.com/artemnovichkov/Swift-For-Scripting) - A hand-curated collection of useful and informative scripting material.
+*   [Swift for Scripting (⭐290)](https://github.com/artemnovichkov/Swift-For-Scripting) - A hand-curated collection of useful and informative scripting material.
 
 ### Text / Barcode
 
-*   [Croc (⭐130)](https://github.com/JKalash/Croc) - A lightweight Emoji parsing and querying library.
+*   [Croc (⭐129)](https://github.com/JKalash/Croc) - A lightweight Emoji parsing and querying library.
 
 ### Template / Barcode
 
@@ -521,7 +501,7 @@
 
 *   [EasyTransitions (⭐1.7k)](https://github.com/marcosgriselli/EasyTransitions) - A simple way to create custom interactive UIViewController transitions.
 
-## [37. Awesome Css Learning](/content/micromata/awesome-css-learning/week/README.md)
+## [35. Awesome Css Learning](/content/micromata/awesome-css-learning/week/README.md)
 
 ### CSS References
 
@@ -572,32 +552,32 @@
 *   [CSS Animation for Beginners](https://robots.thoughtbot.com/css-animation-for-beginners) - Imparts the concepts of CSS animations with keyframes.
 *   [animatable](http://leaverou.github.io/animatable/) - Nice little page demonstrating which CSS properties are animatable.
 
-## [38. Awesome Recursion Schemes](/content/passy/awesome-recursion-schemes/week/README.md)
+## [36. Awesome Recursion Schemes](/content/passy/awesome-recursion-schemes/week/README.md)
 
 ### Implementations / Hylomorphisms in the Wild
 
 *   [dada (⭐58)](https://github.com/sellout/dada) for Dhall - a library for recursion
     schemes in Dhall.
 
-## [39. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [37. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In English
 
 *   [Elixir Outlaws](https://elixiroutlaws.com) - Panel discussions of topics in and around Elixir development.
 
-## [40. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [38. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Assets
 
-*   [Bundle Transformer (⭐130)](https://github.com/Taritsyn/BundleTransformer) - Modular extension for [Microsoft ASP.NET Web Optimization Framework](https://www.nuget.org/packages/Microsoft.AspNet.Web.Optimization). Its modules supports LESS, Sass, CoffeeScript, TypeScript, Mustache, Handlebars, Autoprefixer along with a bunch of different JS and CSS minifiers.
+*   [Bundle Transformer (⭐132)](https://github.com/Taritsyn/BundleTransformer) - Modular extension for [Microsoft ASP.NET Web Optimization Framework](https://www.nuget.org/packages/Microsoft.AspNet.Web.Optimization). Its modules supports LESS, Sass, CoffeeScript, TypeScript, Mustache, Handlebars, Autoprefixer along with a bunch of different JS and CSS minifiers.
 
 ### Compilers, Transpilers and Languages
 
-*   [Mond (⭐359)](https://github.com/Rohansi/Mond) - A dynamically typed scripting language written in C# with a REPL, debugger, and simple embedding API.
+*   [Mond (⭐371)](https://github.com/Rohansi/Mond) - A dynamically typed scripting language written in C# with a REPL, debugger, and simple embedding API.
 
 ### Compression
 
-*   [DotNetZip.Semverd (⭐545)](https://github.com/haf/DotNetZip.Semverd) - An open-source project that delivers a .NET library for handling ZIP files, and some associated tools. (fork of [**Unmaintained** DotNetZip](https://archive.codeplex.com/?p=dotnetzip))
+*   [DotNetZip.Semverd (⭐549)](https://github.com/haf/DotNetZip.Semverd) - An open-source project that delivers a .NET library for handling ZIP files, and some associated tools. (fork of [**Unmaintained** DotNetZip](https://archive.codeplex.com/?p=dotnetzip))
 
 ### Cryptography
 
@@ -605,7 +585,7 @@
 
 ### ETL
 
-*   [Cinchoo ETL (⭐762)](https://github.com/Cinchoo/ChoETL) - ETL Framework for .NET (Read / Write CSV, Flat, Xml, JSON, Key-Value formatted files)
+*   [Cinchoo ETL (⭐813)](https://github.com/Cinchoo/ChoETL) - ETL Framework for .NET (Read / Write CSV, Flat, Xml, JSON, Key-Value formatted files)
 *   [Reactive ETL](https://archive.codeplex.com/?p=reactiveetl) - Reactive ETL is a rewrite of Rhino ETL using the reactive extensions for .NET
 
 ### Event aggregator and messenger
@@ -614,11 +594,11 @@
 
 ### GUI
 
-*   [Office Ribbon (⭐749)](https://github.com/RibbonWinForms/RibbonWinForms) - A library that implements MS Office Ribbon for WinForms.
+*   [Office Ribbon (⭐781)](https://github.com/RibbonWinForms/RibbonWinForms) - A library that implements MS Office Ribbon for WinForms.
 
 ### HTTP
 
-*   [Refit (⭐8.4k)](https://github.com/reactiveui/refit) - The automatic type-safe REST library for Xamarin and .NET
+*   [Refit (⭐8.8k)](https://github.com/reactiveui/refit) - The automatic type-safe REST library for Xamarin and .NET
 
 ### Minification
 
@@ -638,11 +618,11 @@
 
 ### PDF
 
-*   [WkhtmlToPdf (⭐265)](https://github.com/codaxy/wkhtmltopdf) - C# wrapper around wkhtmltopdf console utility. Allow to generate preety PDF using HTML and CSS.
+*   [WkhtmlToPdf (⭐264)](https://github.com/codaxy/wkhtmltopdf) - C# wrapper around wkhtmltopdf console utility. Allow to generate preety PDF using HTML and CSS.
 
 ### Reactive Programming
 
-*   [Rx.NET (⭐6.6k)](https://github.com/dotnet/reactive) - The Reactive Extensions (Rx) is a library for composing asynchronous and event-based programs using observable sequences and LINQ-style query operators
+*   [Rx.NET (⭐6.8k)](https://github.com/dotnet/reactive) - The Reactive Extensions (Rx) is a library for composing asynchronous and event-based programs using observable sequences and LINQ-style query operators
 
 ### Testing
 
@@ -656,7 +636,7 @@
 
 *   [WebSocket4NET](https://archive.codeplex.com/?p=websocket4net) - WebSocket client for .NET 2.0+, Xamarin, Mono, Silverlight, Windows Phone, & WinRT
 *   [Crossertech](https://crosser.io/) - Provides a great set of tools for you to build real-time applications on the Microsoft.NET plattform and much more. **\[$]**
-*   [WampSharp (⭐385)](https://github.com/Code-Sharp/WampSharp) - A C# implementation of [The Web Application Messaging Protocol](https://wamp-proto.org/) - a protocol that provides messaging patterns of Remote Procedure Calls and Publish/Subscribe over WebSockets.
+*   [WampSharp (⭐384)](https://github.com/Code-Sharp/WampSharp) - A C# implementation of [The Web Application Messaging Protocol](https://wamp-proto.org/) - a protocol that provides messaging patterns of Remote Procedure Calls and Publish/Subscribe over WebSockets.
 
 ---
 

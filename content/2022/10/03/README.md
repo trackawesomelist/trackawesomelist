@@ -10,13 +10,13 @@
 
 ### Testing / Redux / ELM / Dependency Injection
 
-*   [Patrol (⭐820)](https://github.com/leancodepl/patrol) <!--stargazers:leancodepl/patrol--> - Easy-to-learn, powerful UI testing framework eliminating limitations of `flutter_test`, `integration_test`, and `flutter_driver` by [LeanCode](https://leancode.co)
+*   [Patrol (⭐938)](https://github.com/leancodepl/patrol) <!--stargazers:leancodepl/patrol--> - Easy-to-learn, powerful UI testing framework eliminating limitations of `flutter_test`, `integration_test`, and `flutter_driver` by [LeanCode](https://leancode.co)
 
 ## [2. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
 ### File Management and Sharing
 
-*   [Snapdrop (⭐18k)](https://github.com/RobinLinus/snapdrop) - A Progressive Web App for local file sharing inspired by Apple's Airdrop.
+*   [Snapdrop (⭐19k)](https://github.com/RobinLinus/snapdrop) - A Progressive Web App for local file sharing inspired by Apple's Airdrop.
 
 ## [3. Awesome Crypto Papers](/content/pFarb/awesome-crypto-papers/README.md)
 
@@ -34,7 +34,7 @@
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [lpha3cho (⭐40)](https://github.com/sdcampbell/lpha3cho-Oh-My-Zsh-theme-for-pentesters) - Modified version of the [intheloop (⭐172k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/intheloop.zsh-theme) theme for pentesters which includes the date, time, and IP address for pentest logging.
+*   [lpha3cho (⭐43)](https://github.com/sdcampbell/lpha3cho-Oh-My-Zsh-theme-for-pentesters) - Modified version of the [intheloop (⭐175k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/intheloop.zsh-theme) theme for pentesters which includes the date, time, and IP address for pentest logging.
 *   [themeraf (⭐0)](https://github.com/oliver-svrcek/Themeraf) - Has decorators for username, last two directories in working directory path, `git` status, timestamp, last exit status and also name of active virtual environment.
 
 ## [5. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
@@ -78,7 +78,7 @@
 ### Applications / Emulators
 
 *   Flash Player
-    *   [Ruffle (⭐15k)](https://github.com/ruffle-rs/ruffle) - Ruffle is an Adobe Flash Player emulator. Ruffle targets both the desktop and the web using WebAssembly. [![CI](https://github.com/ruffle-rs/ruffle/actions/workflows/test_rust.yml/badge.svg)](https://github.com/ruffle-rs/ruffle/actions/workflows/test_rust.yml)[![CI](https://github.com/ruffle-rs/ruffle/actions/workflows/test_web.yml/badge.svg)](https://github.com/ruffle-rs/ruffle/actions/workflows/test_web.yml)
+    *   [Ruffle (⭐16k)](https://github.com/ruffle-rs/ruffle) - Ruffle is an Adobe Flash Player emulator. Ruffle targets both the desktop and the web using WebAssembly. [![CI](https://github.com/ruffle-rs/ruffle/actions/workflows/test_rust.yml/badge.svg)](https://github.com/ruffle-rs/ruffle/actions/workflows/test_rust.yml)[![CI](https://github.com/ruffle-rs/ruffle/actions/workflows/test_web.yml/badge.svg)](https://github.com/ruffle-rs/ruffle/actions/workflows/test_web.yml)
 
 ## [10. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
@@ -98,17 +98,17 @@
 
 ### AppImage consumption tools / Desktop integration
 
-*   [AppImage-Integrator (⭐1)](https://github.com/w-j-r/AppImage-Integrator) - A simple program to integrate AppImages into the Linux desktop written in Qt6.
-*   [gnome\_appimage\_installer (⭐2)](https://github.com/knork-fork/gnome_appimage_installer) - Somewhat a misnomer (AppImages don't need to be "installed"), creates a desktop file that follows the freedesktop.org spec for your AppImage files; written in bash.
+*   [AppImage-Integrator](https://github.com/w-j-r/AppImage-Integrator) - A simple program to integrate AppImages into the Linux desktop written in Qt6.
+*   [gnome\_appimage\_installer (⭐3)](https://github.com/knork-fork/gnome_appimage_installer) - Somewhat a misnomer (AppImages don't need to be "installed"), creates a desktop file that follows the freedesktop.org spec for your AppImage files; written in bash.
 
 ### AppImage consumption tools / Package managers
 
-*   [leap (⭐8)](https://github.com/lnxcz/leap) - Fast and simple AppImage manager. Written in Rust.
+*   [leap (⭐11)](https://github.com/lnxcz/leap) - Fast and simple AppImage manager. Written in Rust.
 
 ### AppImage developer tools / Tools to convert from other package formats
 
-*   [Package-to-appimage (⭐1)](https://github.com/CausaPrincipalis71/package-to-appimage) - Tool for converting `.deb` and `.rpm` packages into AppImage format by using Docker.
-*   [GMAppImager (⭐3)](https://github.com/time-killer-games/GMAppImager) - Graphically Converts GameMaker Studio 2 games to AppImage bundles.
+*   [Package-to-appimage (⭐4)](https://github.com/CausaPrincipalis71/package-to-appimage) - Tool for converting `.deb` and `.rpm` packages into AppImage format by using Docker.
+*   [GMAppImager (⭐4)](https://github.com/time-killer-games/GMAppImager) - Graphically Converts GameMaker Studio 2 games to AppImage bundles.
 
 ### AppImage developer tools / Libraries
 
@@ -116,17 +116,17 @@
 
 ## [13. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
-### Development / Books
+### Development / Chat
 
 *   [rebound (⭐4.1k)](https://github.com/shobrook/rebound) - Fetch Stack Overflow results on compiler error.
-*   [bcal (⭐620)](https://github.com/jarun/bcal) - Byte CALculator for storage conversions and calculations.
-*   [bitwise (⭐611)](https://github.com/mellowcandle/bitwise) - Base conversion and bit manipulation.
-*   [cgasm (⭐368)](https://github.com/bnagy/cgasm) - x86 assembly documentation.
-*   [add-gitignore (⭐646)](https://github.com/TejasQ/add-gitignore) - Interactively generate a .gitignore for your project based on your needs.
-*   [is-up-cli (⭐355)](https://github.com/sindresorhus/is-up-cli) - Check if a domain is up.
-*   [reachable (⭐26)](https://github.com/italolelis/reachable) - Check if a domain is up.
-*   [loadtest (⭐2.5k)](https://github.com/alexfernandez/loadtest) - Run load tests.
-*   [diff2html-cli (⭐492)](https://github.com/rtfpessoa/diff2html-cli) - Create pretty HTML from diffs.
+*   [bcal (⭐632)](https://github.com/jarun/bcal) - Byte CALculator for storage conversions and calculations.
+*   [bitwise (⭐648)](https://github.com/mellowcandle/bitwise) - Base conversion and bit manipulation.
+*   [cgasm (⭐370)](https://github.com/bnagy/cgasm) - x86 assembly documentation.
+*   [add-gitignore (⭐675)](https://github.com/TejasQ/add-gitignore) - Interactively generate a .gitignore for your project based on your needs.
+*   [is-up-cli (⭐359)](https://github.com/sindresorhus/is-up-cli) - Check if a domain is up.
+*   [reachable (⭐33)](https://github.com/italolelis/reachable) - Check if a domain is up.
+*   [loadtest (⭐2.6k)](https://github.com/alexfernandez/loadtest) - Run load tests.
+*   [diff2html-cli (⭐533)](https://github.com/rtfpessoa/diff2html-cli) - Create pretty HTML from diffs.
 
 ### Development / Frontend Development
 
@@ -135,40 +135,40 @@
 
 ### Development / Devops
 
-*   [ipfs-deploy (⭐1.1k)](https://github.com/agentofuser/ipfs-deploy) - Deploy static websites to [IPFS (⭐23k)](https://github.com/ipfs/ipfs#overviewhttps://github.com/ipfs/ipfs#overview).
-*   [Discharge (⭐569)](https://github.com/brandonweiss/discharge) - Deploy static websites to Amazon S3.
+*   [ipfs-deploy (⭐1.2k)](https://github.com/agentofuser/ipfs-deploy) - Deploy static websites to [IPFS (⭐23k)](https://github.com/ipfs/ipfs#overviewhttps://github.com/ipfs/ipfs#overview).
+*   [Discharge (⭐642)](https://github.com/brandonweiss/discharge) - Deploy static websites to Amazon S3.
 
 ### Development / HTTP Server
 
-*   [serve (⭐9.2k)](https://github.com/vercel/serve) - Serve static files (https, CORS, GZIP compression, etc).
-*   [simplehttp (⭐59)](https://github.com/snwfdhmp/simplehttp) - Easily serve a local directory over HTTP.
+*   [serve (⭐9.4k)](https://github.com/vercel/serve) - Serve static files (https, CORS, GZIP compression, etc).
+*   [simplehttp (⭐66)](https://github.com/snwfdhmp/simplehttp) - Easily serve a local directory over HTTP.
 *   [shell2http (⭐1.3k)](https://github.com/msoap/shell2http) - Shell script based HTTP server.
 
 ### Development / HTTP Client
 
-*   [HTTPie (⭐32k)](https://github.com/httpie/httpie) - A user-friendly HTTP client.
-*   [HTTP Prompt (⭐8.9k)](https://github.com/eliangcs/http-prompt) - Interactive HTTP client featuring autocomplete and syntax highlighting.
-*   [ain (⭐561)](https://github.com/jonaslu/ain) - HTTP client with a simple format to organize API endpoints.
+*   [HTTPie (⭐34k)](https://github.com/httpie/httpie) - A user-friendly HTTP client.
+*   [HTTP Prompt (⭐9k)](https://github.com/eliangcs/http-prompt) - Interactive HTTP client featuring autocomplete and syntax highlighting.
+*   [ain (⭐601)](https://github.com/jonaslu/ain) - HTTP client with a simple format to organize API endpoints.
 
 ### Utilities / Calendars
 
-*   [bitly-client (⭐50)](https://github.com/specious/bitly-client) - Bitly client.
+*   [bitly-client (⭐48)](https://github.com/specious/bitly-client) - Bitly client.
 
 ### Data Manipulation / JSON
 
-*   [gron (⭐13k)](https://github.com/tomnomnom/gron) - Make JSON greppable.
+*   [gron (⭐14k)](https://github.com/tomnomnom/gron) - Make JSON greppable.
 
 ### Data Manipulation / YAML
 
-*   [dyff (⭐1.2k)](https://github.com/homeport/dyff) - YAML diff tool.
+*   [dyff (⭐1.3k)](https://github.com/homeport/dyff) - YAML diff tool.
 
 ### Files and Directories / Directory Listing
 
-*   [lsd (⭐12k)](https://github.com/Peltoche/lsd) - `ls` with many extra features.
+*   [lsd (⭐14k)](https://github.com/Peltoche/lsd) - `ls` with many extra features.
 
 ### Images / Emoji
 
-*   [imgur-uploader-cli (⭐56)](https://github.com/kevva/imgur-uploader-cli) - Upload images to imgur.
+*   [imgur-uploader-cli (⭐57)](https://github.com/kevva/imgur-uploader-cli) - Upload images to imgur.
 *   [pageres-cli (⭐1.7k)](https://github.com/sindresorhus/pageres-cli) - Capture website screenshots.
 
 ## [14. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)

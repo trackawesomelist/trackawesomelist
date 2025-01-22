@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 08, 2020
 
-15 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Third-Party Packages / Editors
 
-*   [django-summernote (⭐1k)](https://github.com/summernote/django-summernote) - Summernote is a simple WYSIWYG editor.
+*   [django-summernote (⭐1.1k)](https://github.com/summernote/django-summernote) - Summernote is a simple WYSIWYG editor.
 
 ## [2. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
 
@@ -22,7 +22,7 @@
 
 ### Software / Automation
 
-*   [MeTube (⭐5.9k)](https://github.com/alexta69/metube) - Web GUI for youtube-dl, with playlist support. Allows downloading videos from dozens of websites. `AGPL-3.0` `Python/Nodejs/Docker`
+*   [MeTube (⭐7.6k)](https://github.com/alexta69/metube) - Web GUI for youtube-dl, with playlist support. Allows downloading videos from dozens of websites. `AGPL-3.0` `Python/Nodejs/Docker`
 
 ## [4. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
@@ -67,7 +67,7 @@
 
 ### Tools
 
-*   [Theo (⭐1.9k)](https://github.com/salesforce-ux/theo) - Theo is an abstraction for transforming and formatting Design Tokens.
+*   [Theo (⭐2k)](https://github.com/salesforce-ux/theo) - Theo is an abstraction for transforming and formatting Design Tokens.
 
 ## [7. Awesome Silverstripe Cms](/content/wernerkrauss/awesome-silverstripe-cms/README.md)
 
@@ -146,7 +146,7 @@
 
 ### C, C++
 
-*   [with-c-syntax (⭐139)](https://github.com/y2q-actionman/with-c-syntax) - a fun package which introduces the C language syntax into Common Lisp. (Yes, this package is not for practical coding, I think.) WTFPL Licence.
+*   [with-c-syntax (⭐144)](https://github.com/y2q-actionman/with-c-syntax) - a fun package which introduces the C language syntax into Common Lisp. (Yes, this package is not for practical coding, I think.) WTFPL Licence.
 
 ### Function extensions
 
@@ -166,7 +166,7 @@
 
 ### Python / Financial Instruments and Pricing
 
-*   [gs-quant (⭐7.4k)](https://github.com/goldmansachs/gs-quant) - Python toolkit for quantitative finance
+*   [gs-quant (⭐8.2k)](https://github.com/goldmansachs/gs-quant) - Python toolkit for quantitative finance
 
 ## [11. Awesome Userscripts](/content/bvolpato/awesome-userscripts/README.md)
 
@@ -178,30 +178,18 @@
 
 ### Clojure / Git
 
-*   [secrets.clj (⭐90)](https://github.com/lk-geimfari/secrets.clj) - A Clojure library designed to generate cryptographically strong random numbers suitable for managing data such as passwords, account authentication, security tokens, and related secrets.
+*   [secrets.clj (⭐93)](https://github.com/lk-geimfari/secrets.clj) - A Clojure library designed to generate cryptographically strong random numbers suitable for managing data such as passwords, account authentication, security tokens, and related secrets.
 
-## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / Integrations
-
-*   [Prisma (⭐4)](https://github.com/sherl0g/prisma) - Logs visualization client for @sherlog/cli
-
-## [14. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/README.md)
+## [13. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/README.md)
 
 ### Quantification / Clustering
 
-*   **[Cufflinks (⭐273)](https://github.com/cole-trapnell-lab/cufflinks)** - Cufflinks assembles transcripts, estimates their abundances, and tests for differential expression and regulation in RNA-Seq samples. \[ [paper-2010](https://www.nature.com/articles/nbt.1621) ]
-*   **[RSEM (⭐338)](https://github.com/deweylab/RSEM)** - A software package for estimating gene and isoform expression levels from RNA-Seq data. \[ [paper-2011](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-12-323) | [web](http://deweylab.github.io/RSEM/) ]
+*   **[Cufflinks (⭐312)](https://github.com/cole-trapnell-lab/cufflinks)** - Cufflinks assembles transcripts, estimates their abundances, and tests for differential expression and regulation in RNA-Seq samples. \[ [paper-2010](https://www.nature.com/articles/nbt.1621) ]
+*   **[RSEM (⭐424)](https://github.com/deweylab/RSEM)** - A software package for estimating gene and isoform expression levels from RNA-Seq data. \[ [paper-2011](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-12-323) | [web](http://deweylab.github.io/RSEM/) ]
 
 ### VCF File Utilities / Structural variant callers
 
-*   **[bcftools (⭐504)](https://github.com/samtools/bcftools)** - Set of tools for manipulating VCF files. \[ [paper-2016](https://pubmed.ncbi.nlm.nih.gov/26826718) | [paper-2017](https://pubmed.ncbi.nlm.nih.gov/28205675) | [web](http://samtools.github.io/bcftools) ]
-
-## [15. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
-
-### Reading and Writing Tools / Note-taking
-
-*   [AliYuQue](https://www.yuque.com/install/desktop) - Cloud note-taking knowledge management, collaboration platform, Markdown based writing, support embedded flow chart, brain diagram, timing sequence, code rendering, Sketch board creation, personal knowledge sharing, etc. Compared to youdao cloud note and evernote similar products, which include all of its functions, support knowledge sharing and more powerful creation, collaboration and editor, it comes from alibaba ant financial.![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   **[bcftools (⭐686)](https://github.com/samtools/bcftools)** - Set of tools for manipulating VCF files. \[ [paper-2016](https://pubmed.ncbi.nlm.nih.gov/26826718) | [paper-2017](https://pubmed.ncbi.nlm.nih.gov/28205675) | [web](http://samtools.github.io/bcftools) ]
 
 ---
 

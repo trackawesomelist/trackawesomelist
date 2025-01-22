@@ -24,7 +24,7 @@
 
 ### Utils / Other Tools
 
-*   [Strawberry GraphQL (⭐3.9k)](https://github.com/strawberry-graphql/strawberry) - Python GraphQL library based on dataclasses.
+*   [Strawberry GraphQL (⭐4.1k)](https://github.com/strawberry-graphql/strawberry) - Python GraphQL library based on dataclasses.
 
 ## [3. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
 
@@ -36,7 +36,7 @@
 
 ### Open Source Rails Apps / Other external resources
 
-*   [FAE (⭐846)](https://github.com/wearefine/fae/) - A modern CMS developed by FINE (using Rails 5.2)
+*   [FAE (⭐849)](https://github.com/wearefine/fae/) - A modern CMS developed by FINE (using Rails 5.2)
 
 ## [5. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 
@@ -68,7 +68,7 @@
 
 ### Snippet / Diagnostics
 
-*   [dcampos/nvim-snippy (⭐306)](https://github.com/dcampos/nvim-snippy) - Snippet plugin written in Lua with support for [vim-snippets (⭐4.8k)](https://github.com/honza/vim-snippets).
+*   [dcampos/nvim-snippy (⭐327)](https://github.com/dcampos/nvim-snippy) - Snippet plugin written in Lua with support for [vim-snippets (⭐4.8k)](https://github.com/honza/vim-snippets).
 
 ## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -80,13 +80,13 @@
 
 ### Applications / Text editors
 
-*   [ilai-deutel/kibi (⭐1.4k)](https://github.com/ilai-deutel/kibi) - A tiny (≤1024 LOC) text editor with syntax highlighting, incremental search and more. [![build badge](https://github.com/ilai-deutel/kibi/workflows/CI/badge.svg?branch=master)](https://github.com/ilai-deutel/kibi/actions?query=branch%3Amaster)
+*   [ilai-deutel/kibi (⭐1.6k)](https://github.com/ilai-deutel/kibi) - A tiny (≤1024 LOC) text editor with syntax highlighting, incremental search and more. [![build badge](https://github.com/ilai-deutel/kibi/workflows/CI/badge.svg?branch=master)](https://github.com/ilai-deutel/kibi/actions?query=branch%3Amaster)
 
 ## [9. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
 ### Planning Coding Resources / Learning to Code
 
-*   [Urban Informatics & Visualization-Berkeley (⭐223)](https://github.com/waddell/urban-informatics-and-visualization) - Urban Informatics and Visualization (UC Berkeley CP255) Class Jupyter Noteboom examples. Provides various resources to applied Python in planning contexts.
+*   [Urban Informatics & Visualization-Berkeley (⭐228)](https://github.com/waddell/urban-informatics-and-visualization) - Urban Informatics and Visualization (UC Berkeley CP255) Class Jupyter Noteboom examples. Provides various resources to applied Python in planning contexts.
 *   [Esri's Python For Everyone](https://www.esri.com/training/catalog/57630436851d31e02a43f13c/python-for-everyone/) - This course provides the building blocks you need to use Python. You will create and run scripts using these building blocks, and you can apply them directly inside ArcGIS and to your own workflows.
 
 ## [10. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
@@ -188,7 +188,7 @@
 
   CORS: Yes
 
-  Call this API: [<sup>**Run in Postman**</sup>](https://god.gw.postman.com/run-collection/25426789-2b2bad08-88f4-443d-8d8c-250e3470bd25?action=collection%2Ffork\&source=rip_markdown\&collection-url=entityId%3D25426789-2b2bad08-88f4-443d-8d8c-250e3470bd25%26entityType%3Dcollection%26workspaceId%3De4d9a7d3-b961-474e-a054-51861ed481f6)
+  : 
 
 
 - API: [Econdb](https://www.econdb.com/api/)
@@ -201,7 +201,7 @@
 
   CORS: Yes
 
-  Call this API: 
+  : 
 
 
 - API: [FRED](https://fred.stlouisfed.org/docs/api/fred/)
@@ -214,7 +214,7 @@
 
   CORS: Yes
 
-  Call this API: 
+  : 
 
 
 - API: [OpenFIGI](https://www.openfigi.com/api)
@@ -227,7 +227,7 @@
 
   CORS: Yes
 
-  Call this API: 
+  : 
 
 
 
@@ -247,7 +247,7 @@
 
 ### Games & Comics
 
-- API: [Geek-Jokes (⭐102)](https://github.com/sameerkumar18/geek-joke-api)
+- API: [Geek-Jokes (⭐104)](https://github.com/sameerkumar18/geek-joke-api)
 
   Description: Fetch a random geeky/programming related joke for use in all sorts of applications
 
@@ -428,7 +428,7 @@
 
 ### Video
 
-- API: [Dune (⭐54)](https://github.com/ywalia01/dune-api)
+- API: [Dune (⭐60)](https://github.com/ywalia01/dune-api)
 
   Description: A simple API which provides you with book, character, movie and quotes JSON data
 
@@ -439,7 +439,7 @@
   CORS: Yes
 
 
-- API: [IMDbOT (⭐90)](https://github.com/SpEcHiDe/IMDbOT)
+- API: [IMDbOT (⭐98)](https://github.com/SpEcHiDe/IMDbOT)
 
   Description: Unofficial IMDb Movie / Series Information
 

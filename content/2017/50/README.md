@@ -11,7 +11,7 @@
 ### Storage / Runner
 
 *   [lawnchair.js (⭐2.1k)](https://github.com/brianleroux/lawnchair/) - Simple client-side JSON storage.
-*   [sql.js (⭐119)](https://github.com/kripken/sql.js) - SQLite compiled to JavaScript through Emscripten.
+*   [sql.js (⭐121)](https://github.com/kripken/sql.js) - SQLite compiled to JavaScript through Emscripten.
 
 ### Color / Runner
 
@@ -60,13 +60,13 @@
 
 ### Web frameworks / Clack plugins
 
-*   [ningle (⭐273)](https://github.com/fukamachi/ningle) - A super-micro web framework. [LLGPL](http://opensource.franz.com/preamble.html).
-    *   [jingle (⭐47)](https://github.com/dnaeon/cl-jingle) - based on ningle, adds  bells and whistles, such as middlewares.
+*   [ningle (⭐283)](https://github.com/fukamachi/ningle) - A super-micro web framework. [LLGPL](http://opensource.franz.com/preamble.html).
+    *   [jingle (⭐48)](https://github.com/dnaeon/cl-jingle) - based on ningle, adds  bells and whistles, such as middlewares.
         *   includes an OpenAPI and Swagger UI demo.
 
 ### Other / Third-party APIs
 
-*   [corona (⭐49)](https://github.com/eudoxia0/corona) -  Create and manage virtual machines from Common Lisp <http://eudoxia.me/corona> [MIT](https://opensource.org/licenses/MIT).
+*   [corona (⭐50)](https://github.com/eudoxia0/corona) -  Create and manage virtual machines from Common Lisp <http://eudoxia.me/corona> [MIT](https://opensource.org/licenses/MIT).
 
 ## [8. Awesome Unity](/content/RyanNielson/awesome-unity/week/README.md)
 
@@ -108,18 +108,17 @@
 
 ### Table of Contents / Code Quality
 
-*   [PHP CodeSniffer (⭐11k)](https://github.com/squizlabs/PHP_CodeSniffer) - A library that detects PHP, CSS and JS coding standard violations.
 *   [PHPCheckstyle (⭐164)](https://github.com/PHPCheckstyle/phpcheckstyle) - A tool to help adhere to certain coding conventions.
 *   [PHPCPD (⭐2.2k)](https://github.com/sebastianbergmann/phpcpd) - A library that detects copied and pasted code.
 
 ### Table of Contents / Static Analysis
 
-*   [Exakat (⭐376)](https://github.com/exakat/exakat) - A static analysis engine for PHP.
+*   [Exakat (⭐379)](https://github.com/exakat/exakat) - A static analysis engine for PHP.
 *   [Mondrian (⭐395)](https://github.com/Trismegiste/Mondrian) - A code analysis tool using Graph Theory.
 *   [phan (⭐5.5k)](https://github.com/phan/phan) - A static analyzer based on PHP 7+ and the php-ast extension.
-*   [PhpDependencyAnalysis (⭐561)](https://github.com/mamuz/PhpDependencyAnalysis) - A tool to create customizable dependency graphs.
+*   [PhpDependencyAnalysis (⭐567)](https://github.com/mamuz/PhpDependencyAnalysis) - A tool to create customizable dependency graphs.
 *   [PHP Metrics (⭐2.5k)](https://github.com/phpmetrics/PhpMetrics) - A static metric library.
-*   [PHP Migration (⭐201)](https://github.com/monque/PHP-Migration) - A static analyzer for PHP version migration.
+*   [PHP Migration (⭐202)](https://github.com/monque/PHP-Migration) - A static analyzer for PHP version migration.
 *   [PHPStan (⭐13k)](https://github.com/phpstan/phpstan) - A PHP Static Analysis Tool.
 
 ### Table of Contents / Database
@@ -148,7 +147,7 @@
 
 ### Clients
 
-*   [pnpm (⭐26k)](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager.
+*   [pnpm (⭐30k)](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager.
 
 ## [15. Inspire](/content/noahbuscher/inspire/week/README.md)
 
@@ -177,18 +176,18 @@
 
 ### Application Libraries
 
-*   [ocaml-containers (⭐481)](https://github.com/c-cube/ocaml-containers) – A lightweight, modular standard library extension, string library, and interfaces to various libraries (bigarrays, Unix, etc.) BSD license.
+*   [ocaml-containers (⭐492)](https://github.com/c-cube/ocaml-containers) – A lightweight, modular standard library extension, string library, and interfaces to various libraries (bigarrays, Unix, etc.) BSD license.
 
 ## [19. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Boilerplates
 
-*   [NextJS in Firebase with Bootstrap (⭐25)](https://github.com/ananddayalan/nextjs-in-firebase-with-bootstrap) - Hosting NextJS app with Bootstrap in Firebase with Cloud Functions.
+*   [NextJS in Firebase with Bootstrap (⭐24)](https://github.com/ananddayalan/nextjs-in-firebase-with-bootstrap) - Hosting NextJS app with Bootstrap in Firebase with Cloud Functions.
 *   [Next Express Bootstrap Boilerplate (⭐112)](https://github.com/MustansirZia/next-express-bootstrap-boilerplate) - Boilerplate for a full stack app built using Next, Express, react-bootstrap, SCSS and SSR with eslint.
 
 ### Apps
 
-*   [Snape (⭐821)](https://github.com/ritz078/snape) - A torrent client to search, stream and download torrents.
+*   [Snape (⭐836)](https://github.com/ritz078/snape) - A torrent client to search, stream and download torrents.
 *   [Alexander Kachkaev’s website](https://gitlab.com/kachkaev/website-frontend/) – personal homepage built with Next.js, GraphQL, Docker and Kubernetes. Uses apollo client, react-intl, styled-components and recompose. Docker images are automatically built by GitLab CI.
 
 ## [20. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
@@ -221,7 +220,7 @@
 
 ### Other Data
 
-*   [LeetCode-Swift (⭐4.8k)](https://github.com/soapyigu/LeetCode-Swift) - Solutions to LeetCode interview questions.
+*   [LeetCode-Swift (⭐4.9k)](https://github.com/soapyigu/LeetCode-Swift) - Solutions to LeetCode interview questions.
 
 ## [24. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
@@ -235,7 +234,13 @@
 
 *   [Taskade](https://taskade.com/): Collaborative task lists and outlines for teams.
 
-## [26. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
+## [26. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+
+### Resources / Books
+
+*   [Vue.js 2 Web Development Projects](https://www.packtpub.com/web-development/vuejs-2-web-development-projects) by Guillaume Chau, Packt. (November 2017)
+
+## [27. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
 
 ### Developer
 
@@ -245,17 +250,17 @@
 
 *   [VPN Manager (⭐154)](https://github.com/deanishe/alfred-vpn-manager) - Control [Tunnelblick](https://tunnelblick.net/) and [Viscosity](https://www.sparklabs.com/viscosity/) OpenVPN connections.
 
-## [27. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [28. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### CMS
 
-*   [BlogEngine.NET (⭐955)](https://github.com/rxtur/BlogEngine.NET) - Simple but full featured ASP.NET blog
+*   [BlogEngine.NET (⭐969)](https://github.com/rxtur/BlogEngine.NET) - Simple but full featured ASP.NET blog
 
 ### Misc
 
-*   [Valit (⭐320)](https://github.com/valit-stack/Valit) - Valit is dead simple, fluent validation for .NET Core.
+*   [Valit (⭐322)](https://github.com/valit-stack/Valit) - Valit is dead simple, fluent validation for .NET Core.
 
-## [28. Awesome Ctf](/content/apsdehal/awesome-ctf/week/README.md)
+## [29. Awesome Ctf](/content/apsdehal/awesome-ctf/week/README.md)
 
 ### Networking
 
@@ -263,44 +268,33 @@
 *   [Nmap](https://nmap.org/) - An open source utility for network discovery and security auditing.
 *   [Zmap](https://zmap.io/) - An open-source network scanner.
 
-## [29. Awesome Choo](/content/choojs/awesome-choo/week/README.md)
+## [30. Awesome Choo](/content/choojs/awesome-choo/week/README.md)
 
 ### Contents / CLI Templates
 
 *   [simonwjackson/atomic-choo](https://github.com/simonwjackson/atomic-choo) - An opinionated project seed to get started developing with electron, webpack and choo.
 
-## [30. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
+## [31. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
-### Tools and frameworks
+### Tools and frameworks (a-z↓)
 
-*   [reg-suit (⭐1.1k)](https://github.com/reg-viz/reg-suit) - Visual regression testing suite which compares images, stores snapshots, and notifies the difference to your GitHub repo.
+*   [reg-suit (⭐1.2k)](https://github.com/reg-viz/reg-suit) - Visual regression testing suite which compares images, stores snapshots, and notifies the difference to your GitHub repo.
 
-## [31. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
+## [32. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
 ### Web Frameworks
 
-*   [Irked (⭐30)](https://github.com/GreenfieldTech/irked) - Annotations-based configuration for Vert.x Web, with a controller framework and expressive APIs for REST.
+*   [Irked (⭐34)](https://github.com/GreenfieldTech/irked) - Annotations-based configuration for Vert.x Web, with a controller framework and expressive APIs for REST.
 
 ### Examples
 
 *   [Cloud Foundry (⭐2)](https://github.com/amdelamar/vertx-cloudfoundry) - An example Vert.x for deploying to a [Cloud Foundry](https://www.cloudfoundry.org/) service provider.
 
-## [32. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
+## [33. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
 
 ### Companies
 
 *   [Festo Robotics](https://www.festo.com/) Festo is known for making moving robots that move like animals such as the sea gull like SmartBird, jellyfish, butterflies and kangaroos.
-
-## [33. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
-
-### Resources / Books
-
-*   [Vue.js 2 Web Development Projects](https://www.packtpub.com/web-development/vuejs-2-web-development-projects) by Guillaume Chau, Packt. (November 2017)
-
-### Components & Libraries / UI Components
-
-*   [vue-modal-dialogs (⭐295)](https://github.com/hjkcai/vue-modal-dialogs) - ✨ Promisify your own dialogs!
-*   [vue-cleave-component (⭐281)](https://github.com/ankurk91/vue-cleave-component) - Vue.js component for [cleave.js](http://nosir.github.io/cleave.js/)
 
 ## [34. Awesome Hadoop](/content/youngwookim/awesome-hadoop/week/README.md)
 

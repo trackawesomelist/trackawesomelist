@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 24, 2023
 
-8 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,17 +16,17 @@
 
 ### HTML
 
-*   [meseeks (⭐312)](https://github.com/mischov/meeseeks#html) - A library for parsing and extracting data from HTML and XML with CSS or XPath selectors.
+*   [meseeks (⭐317)](https://github.com/mischov/meeseeks#html) - A library for parsing and extracting data from HTML and XML with CSS or XPath selectors.
 
 ### XML
 
-*   [meeseeks (⭐312)](https://github.com/mischov/meeseeks#xml) - A library for parsing and extracting data from HTML and XML with CSS or XPath selectors.
+*   [meeseeks (⭐317)](https://github.com/mischov/meeseeks#xml) - A library for parsing and extracting data from HTML and XML with CSS or XPath selectors.
 
 ## [3. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Logging
 
-*   [slog-formatter (⭐103)](https://github.com/samber/slog-formatter) - Common formatters for slog and helpers to build your own.
+*   [slog-formatter (⭐147)](https://github.com/samber/slog-formatter) - Common formatters for slog and helpers to build your own.
 
 ## [4. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -34,46 +34,40 @@
 
 *   [Helix](https://helix-editor.com/) - A post-modern modal text editor. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/helix-editor/helix/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Projects Using Vue.js / Open Source
-
-*   [vite-vue-ultimate-starter (⭐19)](https://github.com/kaandesu/vite-vue-ultimate-starter) - Open source Vue3 template built with Vite that out of the box provides PWA mode, ts, Vue Router, Tailwind CSS, DaisyUI, Playwright, vitest, github pages workflow and many more.
-
-## [6. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [5. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Database
 
-*   [Atomic-Server (⭐914)](https://github.com/atomicdata-dev/atomic-server/) \[[atomic-server](https://crates.io/crates/atomic_server)] - NoSQL graph database with realtime updates, dynamic indexing and easy-to-use GUI for CMS purposes. [![Release](https://github.com/atomicdata-dev/atomic-server/actions/workflows/docker.yml/badge.svg)](https://github.com/atomicdata-dev/atomic-server/actions/workflows/docker.yml)
+*   [Atomic-Server (⭐1.1k)](https://github.com/atomicdata-dev/atomic-server/) \[[atomic-server](https://crates.io/crates/atomic_server)] - NoSQL graph database with realtime updates, dynamic indexing and easy-to-use GUI for CMS purposes. [![Release](https://github.com/atomicdata-dev/atomic-server/actions/workflows/docker.yml/badge.svg)](https://github.com/atomicdata-dev/atomic-server/actions/workflows/docker.yml)
 
 ### Libraries / Data structures
 
-*   [greyblake/nutype (⭐1.3k)](https://github.com/greyblake/nutype) \[[nutype](https://crates.io/crates/nutype)] - define newtype structures with validation constraints. [![build status](https://github.com/greyblake/nutype/actions/workflows/ci.yml/badge.svg)](https://github.com/greyblake/nutype/actions)
+*   [greyblake/nutype (⭐1.5k)](https://github.com/greyblake/nutype) \[[nutype](https://crates.io/crates/nutype)] - define newtype structures with validation constraints. [![build status](https://github.com/greyblake/nutype/actions/workflows/ci.yml/badge.svg)](https://github.com/greyblake/nutype/actions)
 
 ### Libraries / Distributed systems
 
 *   Other
-    *   [build-trust/ockam (⭐4.4k)](https://github.com/build-trust/ockam) \[[ockam](https://crates.io/crates/ockam)] - End-to-End Encryption, Mutual Authentication, and ABAC for distributed applications [![build badge](https://github.com/build-trust/ockam/workflows/Rust/badge.svg)](https://github.com/build-trust/ockam)
+    *   [build-trust/ockam (⭐4.5k)](https://github.com/build-trust/ockam) \[[ockam](https://crates.io/crates/ockam)] - End-to-End Encryption, Mutual Authentication, and ABAC for distributed applications [![build badge](https://github.com/build-trust/ockam/workflows/Rust/badge.svg)](https://github.com/build-trust/ockam)
 
-## [7. Awesome List](/content/sindresorhus/awesome/README.md)
+## [6. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Gaming
 
-*   [GameMaker (⭐241)](https://github.com/bytecauldron/awesome-gamemaker#readme) - Game engine.
+*   [GameMaker (⭐289)](https://github.com/bytecauldron/awesome-gamemaker#readme) - Game engine.
 
 ### Learn
 
-*   [Certificates (⭐1.8k)](https://github.com/PanXProject/awesome-certificates#readme) - Free computer science certifications to showcase your knowledge.
+*   [Certificates (⭐2.2k)](https://github.com/PanXProject/awesome-certificates#readme) - Free computer science certifications to showcase your knowledge.
 
 ### Miscellaneous
 
-*   [GitHub Wiki (⭐228)](https://github.com/MyHoneyBadger/awesome-github-wiki#readme) - Comprehensive documentation on GitHub beyond README.
+*   [GitHub Wiki (⭐286)](https://github.com/MyHoneyBadger/awesome-github-wiki#readme) - Comprehensive documentation on GitHub beyond README.
 
-## [8. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [7. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Utility / Diagnostics
 
-*   [LukasPietzschmann/telescope-tabs (⭐239)](https://github.com/LukasPietzschmann/telescope-tabs) - Quickly navigate between tabs using telescope.
+*   [LukasPietzschmann/telescope-tabs (⭐259)](https://github.com/LukasPietzschmann/telescope-tabs) - Quickly navigate between tabs using telescope.
 
 ---
 

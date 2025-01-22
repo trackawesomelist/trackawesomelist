@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 16, 2021
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Table of Contents / Code Quality
 
-*   [CaptainHook (⭐982)](https://github.com/captainhookphp/captainhook) - An easy-to-use and flexible Git hook library.
+*   [CaptainHook (⭐1k)](https://github.com/captainhookphp/captainhook) - An easy-to-use and flexible Git hook library.
 
 ## [2. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
@@ -18,25 +18,19 @@
 
 *   [altair](https://altair-viz.github.io/)
 
-## [3. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / UI Components
-
-*   [vue-sweet-calendar (⭐35)](https://github.com/maryayi/vue-sweet-calendar) - A simple and sweet vue.js calendar
-
-## [4. Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/README.md)
+## [3. Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/README.md)
 
 ### Featured On
 
 *   [How to Deploy a REST API in Kubernetes](https://www.loginradius.com/blog/async/rest-api-kubernetes/)
 
-## [5. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
+## [4. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 
 ### Automation / DSL
 
-*   [jmeter-as-code (⭐31)](https://github.com/anasoid/jmeter-as-code) - Simple wrapper for JMeter to write and execute JMeter tests with Java.
+*   [jmeter-as-code (⭐35)](https://github.com/anasoid/jmeter-as-code) - Simple wrapper for JMeter to write and execute JMeter tests with Java.
 
-## [6. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
+## [5. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
 ### Databases / ORMs
 
@@ -45,22 +39,22 @@
 
 ### Boilerplate / Other Tools
 
-*   [openapi-python-client (⭐1.2k)](https://github.com/openapi-generators/openapi-python-client) - Generate modern FastAPI Python clients (via FastAPI) from OpenAPI.
+*   [openapi-python-client (⭐1.4k)](https://github.com/openapi-generators/openapi-python-client) - Generate modern FastAPI Python clients (via FastAPI) from OpenAPI.
 
-## [7. Awesome Django](/content/wsvincent/awesome-django/README.md)
+## [6. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
-### Third-Party Packages / Admin
+### Third-Party Packages / Admin Themes
 
-*   [django-semantic-admin (⭐136)](https://github.com/globophobe/django-semantic-admin) - Django Semantic UI admin theme.
-*   [django-baton (⭐872)](https://github.com/otto-torino/django-baton) - A cool, modern and responsive django admin application based on bootstrap 5.
+*   [django-semantic-admin (⭐157)](https://github.com/globophobe/django-semantic-admin) - Django Semantic UI admin theme.
+*   [django-baton (⭐925)](https://github.com/otto-torino/django-baton) - A cool, modern and responsive django admin application based on bootstrap 5.
 
-## [8. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [7. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Markdown and LaTeX / Diagnostics
 
-*   [jubnzv/mdeval.nvim (⭐177)](https://github.com/jubnzv/mdeval.nvim) - Evaluate code blocks inside markdown documents.
+*   [jubnzv/mdeval.nvim (⭐202)](https://github.com/jubnzv/mdeval.nvim) - Evaluate code blocks inside markdown documents.
 
-## [9. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
+## [8. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
 
 ### Laravel
 
@@ -72,7 +66,7 @@
 
 
 
-## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Artifact Repos
 

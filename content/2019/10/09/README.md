@@ -74,7 +74,7 @@
 
 ### Reactive Programming / Runner
 
-*   [RxJS (⭐30k)](https://github.com/ReactiveX/rxjs) - A reactive programming library for JavaScript.
+*   [RxJS (⭐31k)](https://github.com/ReactiveX/rxjs) - A reactive programming library for JavaScript.
 
 ## [11. Awesome Wordpress Gatsby](/content/henrikwirth/awesome-wordpress-gatsby/README.md)
 
@@ -240,7 +240,7 @@
 
 ### Deployment / Code Coverage
 
-*   [FTP Deploy Action, Deploys a GitHub project to a FTP server using GitHub actions (⭐2k)](https://github.com/SamKirkland/FTP-Deploy-Action)
+*   [FTP Deploy Action, Deploys a GitHub project to a FTP server using GitHub actions (⭐3.7k)](https://github.com/SamKirkland/FTP-Deploy-Action)
 
 ### Cheat Sheet / Terraform
 

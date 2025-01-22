@@ -23,20 +23,20 @@
 
 ### Input Methods / Audio Record and Process
 
-*   [betterglobekey (⭐49)](https://github.com/Serpentiel/betterglobekey) - Make macOS Globe key great again! [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Serpentiel/betterglobekey) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [betterglobekey (⭐58)](https://github.com/Serpentiel/betterglobekey) - Make macOS Globe key great again! [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Serpentiel/betterglobekey) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [4. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
 ### Algorithms & Data Structures
 
-*   [A Field Guide To Genetic Programming](https://web.archive.org/web/20191020195105/http://www0.cs.ucl.ac.uk/staff/W.Langdon/ftp/papers/poli08_fieldguide.pdf) - Riccardo Poli, William B. Langdon, Nicholas F. McPhee (PDF) *(:card\_file\_box: archived)*
+*   [A Field Guide To Genetic Programming](https://web.archive.org/web/20191020195105/http://www0.cs.ucl.ac.uk/staff/W.Langdon/ftp/papers/poli08_fieldguide.pdf) - Riccardo Poli, William B. Langdon, Nicholas F. McPhee (PDF) *(:card\_file\_box: archived)* (CC BY-NC-ND)
 *   [Algorithm Design](https://archive.org/details/AlgorithmDesign1stEditionByJonKleinbergAndEvaTardos2005PDF) - Jon Kleinberg, Éva Tardos
 *   [Foundations of Computer Science](http://infolab.stanford.edu/~ullman/focs.html) - Al Aho, Jeff Ullman
 
 ### Blockchain
 
 *   [IBM Blockchain: The Founder’s Handbook, Third Edition](https://www.ibm.com/downloads/cas/GZPPMWM5) - Antonio Banda, Matthew Hamilton, Eileen Lowry, John Widdifield, et al. (PDF)
-*   [Learning Bitcoin from the Command Line (⭐3.1k)](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line) - Christopher Allen, Shannon Appelcline, et al. (HTML)
+*   [Learning Bitcoin from the Command Line (⭐3.2k)](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line) - Christopher Allen, Shannon Appelcline, et al. (HTML)
 
 ### Computer Science
 
@@ -44,7 +44,7 @@
 
 ### Graphics Programming
 
-*   [Learn OpenGL RS (⭐954)](https://github.com/bwasty/learn-opengl-rs) - Benjamin Wasty, et al. *(:construction: in process)*
+*   [Learn OpenGL RS (⭐982)](https://github.com/bwasty/learn-opengl-rs) - Benjamin Wasty, et al. *(:construction: in process)*
 *   [WebGL Insights](http://webglinsights.com) - Patrick Cozzi, et al.
 
 ### Graphical User Interfaces
@@ -113,13 +113,13 @@
 
 ### Backports and improvements
 
-*   [future-typing (⭐16)](https://github.com/PrettyWood/future-typing) - Backport for type hinting generics in standard collections and union types as `X | Y`.
+*   [future-typing (⭐19)](https://github.com/PrettyWood/future-typing) - Backport for type hinting generics in standard collections and union types as `X | Y`.
 
 ## [6. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [@deliberative/crypto (⭐25)](https://github.com/deliberative/crypto) - A Typescript/WebAssembly library for public key cryptography, AEAD secret boxes, Shamir secret sharing and random shuffling. Runs on Nodejs, ESM, CommonJS and the browser.
+*   :octocat: [@deliberative/crypto (⭐29)](https://github.com/deliberative/crypto) - A Typescript/WebAssembly library for public key cryptography, AEAD secret boxes, Shamir secret sharing and random shuffling. Runs on Nodejs, ESM, CommonJS and the browser.
 
 ### :dollar: Paid Courses / Chrome Extensions
 
@@ -136,15 +136,15 @@
 
 ### Software / Archiving and Digital Preservation (DP)
 
-*   [Ganymede (⭐415)](https://github.com/Zibbp/ganymede) `⚠` - Twitch VOD and Live Stream archiving platform. Includes a rendered chat for each archive. `GPL-3.0` `Docker`
+*   [Ganymede (⭐606)](https://github.com/Zibbp/ganymede) `⚠` - Twitch VOD and Live Stream archiving platform. Includes a rendered chat for each archive. `GPL-3.0` `Docker`
 
 ### Software / Communication - Video Conferencing
 
-*   [Jitsi Meet](https://jitsi.org/Projects/JitsiMeet) - Jitsi Meet is an OpenSource (MIT) WebRTC Javascript application that uses Jitsi Videobridge to provide high quality, scalable video conferences. ([Demo](https://meet.jit.si), [Source Code (⭐22k)](https://github.com/jitsi/jitsi-meet)) `Apache-2.0` `Nodejs/Docker/deb`
+*   [Jitsi Meet](https://jitsi.org/Projects/JitsiMeet) - Jitsi Meet is an OpenSource (MIT) WebRTC Javascript application that uses Jitsi Videobridge to provide high quality, scalable video conferences. ([Demo](https://meet.jit.si), [Source Code (⭐24k)](https://github.com/jitsi/jitsi-meet)) `Apache-2.0` `Nodejs/Docker/deb`
 
 ### Software / Human Resources Management (HRM)
 
-*   [OrangeHRM](https://www.orangehrm.com/) - OrangeHRM is a comprehensive HRM system that captures all the essential functionalities required for any enterprise. ([Demo](https://opensource-demo.orangehrmlive.com/), [Source Code (⭐796)](https://github.com/orangehrm/orangehrm)) `GPL-2.0` `PHP`
+*   [OrangeHRM](https://www.orangehrm.com/) - OrangeHRM is a comprehensive HRM system that captures all the essential functionalities required for any enterprise. ([Demo](https://opensource-demo.orangehrmlive.com/), [Source Code (⭐872)](https://github.com/orangehrm/orangehrm)) `GPL-2.0` `PHP`
 
 ### Software / Internet of Things (IoT)
 
@@ -152,50 +152,50 @@
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [Navidrome Music Server](https://www.navidrome.org) - Modern Music Server and Streamer, compatible with Subsonic/Airsonic. ([Demo](https://www.navidrome.org/demo), [Source Code (⭐11k)](https://github.com/navidrome/navidrome), [Clients](https://www.navidrome.org/docs/overview/#apps)) `GPL-3.0` `Docker/Go`
+*   [Navidrome Music Server](https://www.navidrome.org) - Modern Music Server and Streamer, compatible with Subsonic/Airsonic. ([Demo](https://www.navidrome.org/demo), [Source Code (⭐13k)](https://github.com/navidrome/navidrome), [Clients](https://www.navidrome.org/docs/overview/#apps)) `GPL-3.0` `Docker/Go`
 
 ### Software / Miscellaneous
 
-*   [WeTTY](https://butlerx.github.io/wetty/#/) - Terminal in browser over http/https. ([Source Code (⭐4.2k)](https://github.com/butlerx/wetty)) `MIT` `Docker/Nodejs`
+*   [WeTTY](https://butlerx.github.io/wetty/#/) - Terminal in browser over http/https. ([Source Code (⭐4.4k)](https://github.com/butlerx/wetty)) `MIT` `Docker/Nodejs`
 
 ### Software / Resource Planning
 
-*   [farmOS](https://farmos.org/) - Web-based farm record keeping application. ([Demo](https://farmos-demo.rootedsolutions.io/), [Source Code (⭐962)](https://github.com/farmOS/farmOS)) `GPL-2.0` `PHP/Docker`
+*   [farmOS](https://farmos.org/) - Web-based farm record keeping application. ([Demo](https://farmos-demo.rootedsolutions.io/), [Source Code (⭐1k)](https://github.com/farmOS/farmOS)) `GPL-2.0` `PHP/Docker`
 
 ### Software / Search Engines
 
-*   [Fess](https://fess.codelibs.org/) - Fess is a very powerful and easily deployable Enterprise Search Server. ([Demo](https://search.n2sm.co.jp/), [Source Code (⭐985)](https://github.com/codelibs/fess)) `Apache-2.0` `Java/Docker`
+*   [Fess](https://fess.codelibs.org/) - Fess is a very powerful and easily deployable Enterprise Search Server. ([Demo](https://search.n2sm.co.jp/), [Source Code (⭐1k)](https://github.com/codelibs/fess)) `Apache-2.0` `Java/Docker`
 
 ## [9. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### (requires Neovim 0.5)
 
-*   [j-hui/fidget.nvim (⭐1.9k)](https://github.com/j-hui/fidget.nvim) - Standalone UI for LSP progress.
+*   [j-hui/fidget.nvim (⭐2.1k)](https://github.com/j-hui/fidget.nvim) - Standalone UI for LSP progress.
 
 ## [10. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
 ### Notes and Tasks
 
 *   [AppFlowy](https://www.appflowy.io/) - Open Source Notion Alternative. You are in charge of your data and customizations.
-*   [Joplin (⭐45k)](https://github.com/laurent22/joplin) - Note taking and to-do application with synchronisation and encryption capabilities.
-*   [Nextcloud Notes (⭐604)](https://github.com/nextcloud/notes/) - The Notes app is a distraction free notes taking app for Nextcloud.
-    *   [Nextcloud Notes app (⭐917)](https://github.com/stefan-niedermann/nextcloud-notes) - An android client for Nextcloud Notes.
-*   [Notally (⭐1.6k)](https://github.com/OmGodse/Notally) - A beautiful notes app (local only, no sync).
+*   [Joplin (⭐47k)](https://github.com/laurent22/joplin) - Note taking and to-do application with synchronisation and encryption capabilities.
+*   [Nextcloud Notes (⭐630)](https://github.com/nextcloud/notes/) - The Notes app is a distraction free notes taking app for Nextcloud.
+    *   [Nextcloud Notes app (⭐960)](https://github.com/stefan-niedermann/nextcloud-notes) - An android client for Nextcloud Notes.
+*   [Notally (⭐1.8k)](https://github.com/OmGodse/Notally) - A beautiful notes app (local only, no sync).
 *   [Standard Notes](https://standardnotes.org/) - A free, open-source, and completely encrypted notes app.
 *   [TinyList](https://tinylist.app/) - Create and share notes and checklists, without sacrificing your privacy.
-*   [YankNote (⭐5.6k)](https://github.com/purocean/yn) - A Hackable Markdown Note Application for Programmers.
+*   [YankNote (⭐5.7k)](https://github.com/purocean/yn) - A Hackable Markdown Note Application for Programmers.
 
 ## [11. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / Games
 
-*   [Arcade Plaza (⭐26)](https://github.com/aryamangodara/Arcade-Plaza) - Hub of online games built by [Aryaman Godara](https://medium.com/@aryamangodara/why-i-open-sourced-my-flutter-game-application-7d008cdd01c5).
+*   [Arcade Plaza (⭐27)](https://github.com/aryamangodara/Arcade-Plaza) - Hub of online games built by [Aryaman Godara](https://medium.com/@aryamangodara/why-i-open-sourced-my-flutter-game-application-7d008cdd01c5).
 
 ## [12. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Frameworks
 
-*   [Coost (⭐3.9k)](https://github.com/idealvin/coost) - A tiny boost library in C++11. \[MIT]
+*   [Coost (⭐4.1k)](https://github.com/idealvin/coost) - A tiny boost library in C++11. \[MIT]
 
 ---
 

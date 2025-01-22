@@ -61,7 +61,7 @@
 
 ### JSON
 
-*   [json (⭐42k)](https://github.com/nlohmann/json) :zap: - JSON for Modern C++. \[MIT] [website](https://json.nlohmann.me)
+*   [json (⭐44k)](https://github.com/nlohmann/json) :zap: - JSON for Modern C++. \[MIT] [website](https://json.nlohmann.me)
 
 ### Math
 
@@ -426,7 +426,7 @@ or use one of the following commands to pull a font archive with `curl`:
 
 ### Go / Erlang
 
-*   [Goa (⭐5.6k)](https://github.com/goadesign/goa) - Design-based HTTP microservices in Go.
+*   [Goa (⭐5.7k)](https://github.com/goadesign/goa) - Design-based HTTP microservices in Go.
 *   [Gorilla](http://www.gorillatoolkit.org/) - Web toolkit for the Go programming language.
 
 ### Java VM / Java
@@ -435,7 +435,7 @@ or use one of the following commands to pull a font archive with `curl`:
 
 ### Node.js / Scala
 
-*   [Serverless (⭐46k)](https://github.com/serverless/serverless) - Build and maintain web, mobile and IoT applications running on AWS Lambda and API Gateway (formerly known as JAWS).
+*   [Serverless (⭐47k)](https://github.com/serverless/serverless) - Build and maintain web, mobile and IoT applications running on AWS Lambda and API Gateway (formerly known as JAWS).
 
 ### Python / Scala
 
@@ -465,7 +465,6 @@ or use one of the following commands to pull a font archive with `curl`:
 
 ### Native Apps (closed source)
 
-*   [ally](http://www.allyapp.com/)
 *   [CityMapper](https://citymapper.com/)
 
 ### GTFS Realtime Utilities / Ruby
@@ -798,7 +797,7 @@ or use one of the following commands to pull a font archive with `curl`:
 
 ### Scientific / XML
 
-*   [scid (⭐89)](https://github.com/DlangScience/scid) -  Scientific library for the D programming language
+*   [scid (⭐90)](https://github.com/DlangScience/scid) -  Scientific library for the D programming language
 *   [dstats (⭐25)](https://github.com/DlangScience/dstats) -  A statistics library for D.
 
 ## [46. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
@@ -807,21 +806,21 @@ or use one of the following commands to pull a font archive with `curl`:
 
 *   [Unix philosophy and Node.js](http://blog.izs.me/post/48281998870/unix-philosophy-and-nodejs) - Write programs that do one thing and do it well.
 *   [Optimizing the footprint of an npm package](https://medium.com/@goldglovecb/npm-needs-a-personal-trainer-537e0f8859c6)
-*   [The Art of Node (⭐9.7k)](https://github.com/maxogden/art-of-node#modules) - An introduction to Node.js and client-side development with npm.
+*   [The Art of Node (⭐9.8k)](https://github.com/maxogden/art-of-node#modules) - An introduction to Node.js and client-side development with npm.
 
 ### Registry
 
-*   [latest-version (⭐52)](https://github.com/sindresorhus/latest-version-cli) - Get the latest version of an npm package.
-*   [npm-user (⭐56)](https://github.com/sindresorhus/npm-user) - Get user info of an npm user.
-*   [npm-email (⭐31)](https://github.com/sindresorhus/npm-email) - Get the email of an npm user.
-*   [npm-user-packages (⭐1)](https://github.com/kevva/npm-user-packages-cli) - Get packages by an npm user.
+*   [latest-version (⭐53)](https://github.com/sindresorhus/latest-version-cli) - Get the latest version of an npm package.
+*   [npm-user (⭐57)](https://github.com/sindresorhus/npm-user) - Get user info of an npm user.
+*   [npm-email (⭐32)](https://github.com/sindresorhus/npm-email) - Get the email of an npm user.
+*   [npm-user-packages (⭐3)](https://github.com/kevva/npm-user-packages-cli) - Get packages by an npm user.
 *   [npm-stats (⭐51)](https://github.com/hughsk/npm-stats) - Get data from an npm registry.
 
 ### Other
 
-*   [generator-nm (⭐742)](https://github.com/sindresorhus/generator-nm) - Scaffold out an npm package.
+*   [generator-nm (⭐743)](https://github.com/sindresorhus/generator-nm) - Scaffold out an npm package.
 *   [enpeem-search (⭐4)](https://github.com/amovah/enpeem-search) - Search packages by scraping the npm web search.
-*   [npm-issues (⭐49)](https://github.com/seanzarrin/npm-issues) - Search known issues of all your packages at once.
+*   [npm-issues (⭐48)](https://github.com/seanzarrin/npm-issues) - Search known issues of all your packages at once.
 
 ## [47. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 
@@ -851,7 +850,7 @@ or use one of the following commands to pull a font archive with `curl`:
 
 ## [49. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
-### Facebook Accounts / Book Deals (Affiliated) 🛍
+### Facebook Accounts / Book Deals (Affiliated)
 
 *   [Veri Bilimi Istanbul](https://www.facebook.com/groups/veribilimiistanbul/)
 
@@ -859,7 +858,7 @@ or use one of the following commands to pull a font archive with `curl`:
 
 ### Data Generators
 
-*   [faker (⭐147)](https://github.com/askn/faker) - A library for generating fake data
+*   [faker (⭐150)](https://github.com/askn/faker) - A library for generating fake data
 
 ### Official Documentation Translations
 
@@ -869,13 +868,13 @@ or use one of the following commands to pull a font archive with `curl`:
 
 ### Source Generator
 
-*   [.NET-libraries-that-make-your-life-easier (⭐805)](https://github.com/tallesl/net-libraries-that-make-your-life-easier) - Open Source .NET libraries that make your life easier
+*   [.NET-libraries-that-make-your-life-easier (⭐818)](https://github.com/tallesl/net-libraries-that-make-your-life-easier) - Open Source .NET libraries that make your life easier
 
 ## [52. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Color / Runner
 
-*   [color (⭐4.7k)](https://github.com/Qix-/color) - JavaScript color conversion and manipulation library.
+*   [color (⭐4.8k)](https://github.com/Qix-/color) - JavaScript color conversion and manipulation library.
 
 ### Scroll / Other
 
@@ -961,7 +960,7 @@ or use one of the following commands to pull a font archive with `curl`:
 
 ### Date and Time
 
-*   [filtrex (⭐193)](https://github.com/rcdilorenzo/filtrex) - A library for performing and validating complex SQL-like filters from a client (e.g. smart filters).
+*   [filtrex (⭐196)](https://github.com/rcdilorenzo/filtrex) - A library for performing and validating complex SQL-like filters from a client (e.g. smart filters).
 
 ### HTTP
 
@@ -969,12 +968,12 @@ or use one of the following commands to pull a font archive with `curl`:
 
 ### Macros
 
-*   [ok\_jose (⭐101)](https://github.com/vic/ok_jose) - Pipe elixir functions that match `{:ok,_}`, `{:error,_}` tuples or custom patterns.
+*   [ok\_jose (⭐100)](https://github.com/vic/ok_jose) - Pipe elixir functions that match `{:ok,_}`, `{:error,_}` tuples or custom patterns.
 *   [pipe\_here (⭐34)](https://github.com/vic/pipe_here) - Easily pipe values into any argument position.
 
 ### Native Implemented Functions
 
-*   [Rustler (⭐4.3k)](https://github.com/hansihe/Rustler) - Library for writing NIFs for Erlang or Elixir safely in Rust. No segfaults.
+*   [Rustler (⭐4.4k)](https://github.com/hansihe/Rustler) - Library for writing NIFs for Erlang or Elixir safely in Rust. No segfaults.
 
 ### ORM and Datamapping
 

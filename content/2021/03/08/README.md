@@ -69,10 +69,6 @@
 
 *   [Apple Shortcuts](https://support.apple.com/guide/shortcuts/welcome/ios) - Powerful automation app (iOS).
 
-### Devices and Wearables / Wealth
-
-*   [Foci](https://fociai.com/) - Wearable (clip) that is automatically tracking focus, flow, relaxation, fatigue and stress.
-
 ## [7. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
 
 ### Adobe CC / Third Party Hosts
@@ -93,7 +89,7 @@
 
 ### 2D/3D Rendering engines / Others
 
-*   [BlazorTypewriter (⭐20)](https://github.com/ormesam/blazor-typewriter) - ![last commit](https://img.shields.io/github/last-commit/ormesam/blazor-typewriter?style=flat-square\&cacheSeconds=86400) A typewriter effect for Blazor.
+*   [BlazorTypewriter (⭐21)](https://github.com/ormesam/blazor-typewriter) - ![last commit](https://img.shields.io/github/last-commit/ormesam/blazor-typewriter?style=flat-square\&cacheSeconds=86400) A typewriter effect for Blazor.
 
 ## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -101,7 +97,7 @@
 
 *   [Protectumus](https://protectumus.com) - Free website security check, site antivirus, and server firewall (WAF) for PHP. Email notifications for registered users in the free tier.
 
-### PaaS
+### Low-code Platform
 
 *   [Mendix](https://www.mendix.com/) — Rapid Application Development for Enterprises, unlimited accessible sandbox environments supporting total users, 0.5 GB storage and 1 GB RAM per app. Also, Studio and Studio Pro IDEs are allowed in the free tier.
 

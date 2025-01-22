@@ -74,7 +74,7 @@
 
 ### Form Widgets / Input
 
-*   [awesomplete (⭐6.9k)](https://github.com/LeaVerou/awesomplete) - Ultra lightweight, usable, beautiful autocomplete with zero dependencies. - <https://projects.verou.me/awesomplete/>
+*   [awesomplete (⭐7k)](https://github.com/LeaVerou/awesomplete) - Ultra lightweight, usable, beautiful autocomplete with zero dependencies. - <https://projects.verou.me/awesomplete/>
 
 ### Form Widgets / Other
 
@@ -116,7 +116,7 @@
 
 ### UI Libraries, Components & Templates
 
-*   📁 [Admin One Vue 3 (⭐2.1k)](https://github.com/justboil/admin-one-vue-tailwind) - Free Vue.js 3 Tailwind CSS admin template with Vite & Vue CLI support.
+*   📁 [Admin One Vue 3 (⭐2.2k)](https://github.com/justboil/admin-one-vue-tailwind) - Free Vue.js 3 Tailwind CSS admin template with Vite & Vue CLI support.
 
 ## [5. Awesome Acg](/content/soruly/awesome-acg/README.md)
 
@@ -133,13 +133,13 @@
 
 ### Kotlin / Deep Learning
 
-*   [KotlinDL (⭐1.4k)](https://github.com/JetBrains/KotlinDL) - Deep learning framework written in Kotlin.
+*   [KotlinDL (⭐1.5k)](https://github.com/JetBrains/KotlinDL) - Deep learning framework written in Kotlin.
 
 ## [7. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Top / Game Engine resources
 
-*   [Mooltik (⭐196)](https://github.com/ruskakimov/mooltik) <!--stargazers:ruskakimov/mooltik--> - Animation app for making cartoons by [Rustem Kakimov](https://github.com/ruskakimov)
+*   [Mooltik (⭐208)](https://github.com/ruskakimov/mooltik) <!--stargazers:ruskakimov/mooltik--> - Animation app for making cartoons by [Rustem Kakimov](https://github.com/ruskakimov)
 
 ## [8. Jstips](/content/loverajoel/jstips/README.md)
 
@@ -153,13 +153,13 @@
 
 ### Projects Using Vue.js / Commercial Products
 
-*   [KodaDot (⭐618)](https://github.com/kodadot/nft-gallery) - NFT Marketplace on Polkadot funded as public good, written in Vue.js
+*   [KodaDot (⭐652)](https://github.com/kodadot/nft-gallery) - NFT Marketplace on Polkadot funded as public good, written in Vue.js
 
 ## [10. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
 ### Tools
 
-*   [stressberry (⭐316)](https://github.com/nschloe/stressberry) - Stress test your Raspberry Pi and plot temperatures.
+*   [stressberry (⭐320)](https://github.com/nschloe/stressberry) - Stress test your Raspberry Pi and plot temperatures.
 
 ## [11. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
@@ -196,11 +196,11 @@
 
 ### Utilities / Calendars
 
-*   [deadlink (⭐150)](https://github.com/nschloe/deadlink) - Find dead links in files.
+*   [deadlink (⭐165)](https://github.com/nschloe/deadlink) - Find dead links in files.
 
 ### Utilities / System Interaction Utilities
 
-*   [tiptop (⭐1.6k)](https://github.com/nschloe/tiptop) - System monitor.
+*   [tiptop (⭐1.8k)](https://github.com/nschloe/tiptop) - System monitor.
 
 ### Command Line Learning / Internet Speedtest
 

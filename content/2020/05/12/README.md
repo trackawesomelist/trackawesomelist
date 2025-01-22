@@ -42,7 +42,7 @@
 
 ### Utility / Docker Container Actions
 
-*   [Setup Xcode (⭐150)](https://github.com/maxim-lobanov/setup-xcode) - Switch between pre-installed versions of Xcode for macOS images.
+*   [Setup Xcode (⭐278)](https://github.com/maxim-lobanov/setup-xcode) - Switch between pre-installed versions of Xcode for macOS images.
 
 ## [5. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
 
@@ -82,7 +82,7 @@
 
 ### Software / Software Development - IDE & Tools
 
-*   [Hakatime (⭐624)](https://github.com/mujx/hakatime) - WakaTime server implementation with analytics dashboard. `Unlicense` `Haskell`
+*   [Hakatime (⭐652)](https://github.com/mujx/hakatime) - WakaTime server implementation with analytics dashboard. `Unlicense` `Haskell`
 
 ## [11. Awesome Waves](/content/msmolyakov/awesome-waves/README.md)
 
@@ -98,7 +98,7 @@
 
 ### Configuration / Virtual Machines
 
-*   [PeachPie (⭐2.3k)](https://github.com/peachpiecompiler/peachpie) - PHP compiler and runtime for .NET and .NET Core.
+*   [PeachPie (⭐2.4k)](https://github.com/peachpiecompiler/peachpie) - PHP compiler and runtime for .NET and .NET Core.
 
 ## [13. Awesome Wp Cli](/content/schlessera/awesome-wp-cli/README.md)
 

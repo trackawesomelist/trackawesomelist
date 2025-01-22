@@ -10,11 +10,11 @@
 
 ### Third-Party Packages / Files/Images
 
-*   [sorl-thumbnail (⭐1.7k)](https://github.com/jazzband/sorl-thumbnail) - Thumbnails for Django.
+*   [sorl-thumbnail (⭐1.8k)](https://github.com/jazzband/sorl-thumbnail) - Thumbnails for Django.
 
 ### Third-Party Packages / Models
 
-*   [django-simple-history (⭐2.2k)](https://github.com/jazzband/django-simple-history) - Store model history and view/revert changes from the admin.
+*   [django-simple-history (⭐2.3k)](https://github.com/jazzband/django-simple-history) - Store model history and view/revert changes from the admin.
 
 ## [2. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -43,15 +43,15 @@
 
 ### GTFS Libraries / C++
 
-*   [just\_gtfs (⭐19)](https://github.com/mesozoic-drones/just_gtfs) - C++17 header-only library for reading and writing GTFS (used in [Valhalla (⭐4.3k)](https://github.com/valhalla/valhalla)). Main features: fast reading and writing of GTFS feeds, support for [extended GTFS route types](https://developers.google.com/transit/gtfs/reference/extended-route-types), simple working with GTFS Date and Time formats.
+*   [just\_gtfs (⭐22)](https://github.com/mesozoic-drones/just_gtfs) - C++17 header-only library for reading and writing GTFS (used in [Valhalla (⭐4.6k)](https://github.com/valhalla/valhalla)). Main features: fast reading and writing of GTFS feeds, support for [extended GTFS route types](https://developers.google.com/transit/gtfs/reference/extended-route-types), simple working with GTFS Date and Time formats.
 
 ### GTFS Libraries / R
 
-*   [gtfsio (⭐13)](https://github.com/r-transit/gtfsio) - Fast and flexible functions to read and write GTFS in R.
+*   [gtfsio (⭐14)](https://github.com/r-transit/gtfsio) - Fast and flexible functions to read and write GTFS in R.
 
 ### GTFS Analysis Tools / Ruby
 
-*   [gtfstools (⭐38)](https://github.com/ipeaGIT/gtfstools) - A set of convenient tools for editing and analysing transit feeds in GTFS format in R.
+*   [gtfstools (⭐40)](https://github.com/ipeaGIT/gtfstools) - A set of convenient tools for editing and analysing transit feeds in GTFS format in R.
 
 ---
 

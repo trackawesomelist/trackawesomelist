@@ -10,11 +10,11 @@
 
 ### Packages / Debugging / Profiling
 
-*   [njsTrace (⭐364)](https://github.com/valyouw/njstrace) - Instrument and trace your code, see all function calls, arguments, return values, as well as the time spent in each function.
+*   [njsTrace (⭐368)](https://github.com/valyouw/njstrace) - Instrument and trace your code, see all function calls, arguments, return values, as well as the time spent in each function.
 
 ### Packages / Testing
 
-*   [Mochify (⭐347)](https://github.com/mantoni/mochify.js) - TDD with Browserify, Mocha, PhantomJS and WebDriver.
+*   [Mochify (⭐346)](https://github.com/mantoni/mochify.js) - TDD with Browserify, Mocha, PhantomJS and WebDriver.
 
 ## [2. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 

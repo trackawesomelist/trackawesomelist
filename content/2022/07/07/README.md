@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 07, 2022
 
-15 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,7 +16,7 @@
 
 ### Libraries/Frameworks / Validation
 
-*   [LeoColman/SimpleCpfValidator (⭐23)](https://github.com/LeoColman/SimpleCpfValidator) - Simple Brazilian taxpayer document (CPF) validator
+*   [LeoColman/SimpleCpfValidator (⭐25)](https://github.com/LeoColman/SimpleCpfValidator) - Simple Brazilian taxpayer document (CPF) validator
 
 ## [3. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
 
@@ -32,19 +32,13 @@
 
 
 
-## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
-
-### Tree-sitter Supported Colorscheme / Diagnostics
-
-*   [kaiuri/nvim-juliana (⭐92)](https://github.com/kaiuri/nvim-juliana) - Port of Sublime's Mariana Theme to Neovim for short attention span developers with Tree-sitter support.
-
-## [6. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [5. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Service Level Agreement
 
 *   [A Practical Guide to SLAs](https://www.catchpoint.com/blog/sla-management-guide/)
 
-## [7. Awesome Fonts](/content/brabadu/awesome-fonts/README.md)
+## [6. Awesome Fonts](/content/brabadu/awesome-fonts/README.md)
 
 ### Free fonts / Collections
 
@@ -54,38 +48,38 @@
 
 *   [Simple Icons](https://simpleicons.org/) - 2287+ free SVG icons for popular brands
 
-## [8. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
+## [7. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
 ### Application platforms / Samples
 
-*   [Nhost (⭐7.6k)](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
+*   [Nhost (⭐8k)](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 
-## [9. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+## [8. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### Peripheral Access Crates / GigaDevice
 
-*   [`gd32e2`](https://crates.io/crates/gd32e2) Peripheral access API for GD32E23x Cortex-M23 microcontrollers (generated using svd2rust) - ![crates.io](https://img.shields.io/crates/v/gd32e2.svg)
-*   [`gd32f2`](https://crates.io/crates/gd32f2) Peripheral access API for GD32F20x Cortex-M3 microcontrollers (generated using svd2rust) - ![crates.io](https://img.shields.io/crates/v/gd32f2.svg)
+*   [`gd32e2`](https://crates.io/crates/gd32e2) Peripheral access API for GD32E23x Cortex-M23 microcontrollers (generated using svd2rust) - [![crates.io](https://img.shields.io/crates/v/gd32e2.svg)](https://crates.io/crates/gd32e2)
+*   [`gd32f2`](https://crates.io/crates/gd32f2) Peripheral access API for GD32F20x Cortex-M3 microcontrollers (generated using svd2rust) - [![crates.io](https://img.shields.io/crates/v/gd32f2.svg)](https://crates.io/crates/gd32f2)
 
-## [10. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [9. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [tarcadia (⭐3)](https://github.com/Tarcadia/tarcadia-zsh-theme) - Based on [jonathan (⭐172k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/jonathan.zsh-theme). Includes decorators for current directory and `git` status.
+*   [tarcadia (⭐3)](https://github.com/Tarcadia/tarcadia-zsh-theme) - Based on [jonathan (⭐175k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/jonathan.zsh-theme). Includes decorators for current directory and `git` status.
 
-## [11. Awesome Capacitor](/content/riderx/awesome-capacitor/README.md)
+## [10. Awesome Capacitor](/content/riderx/awesome-capacitor/README.md)
 
 ### Other plugins
 
 *   [Apple Pay (⭐16)](https://github.com/fresha/capacitor-plugin-applepay) - Get Apple Pay payments in your app.
 
-## [12. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### PaaS
 
 *   [YepCode](https://yepcode.io) - All-in-one platform to connect APIs and services in a serverless environment. It brings all the agility and benefits of NoCode tools but with all the power of using programming languages. The free tier includes [1.000 yeps](https://yepcode.io/pricing/).
 
-## [13. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
+## [12. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
 ### Other Development Tools / Smart Contracts
 
@@ -95,13 +89,7 @@
 
 *   [AgorHash (⭐3)](https://github.com/bafio89/agorhash) - Public, permissionless, decentralized and uncensorable free speech protocol.
 
-## [14. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / UI Components
-
-*   [vue-vision-camera (⭐4)](https://github.com/xulihang/vue-vision-camera) - Camera component for Vue 3. We can use this component for computer vision tasks like barcode/QR code scanning, text recognition, etc.
-
-## [15. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [13. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Meta-Level Considerations / Rationality
 

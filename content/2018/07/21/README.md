@@ -80,7 +80,7 @@
 
 ### Animation / Redux / ELM / Dependency Injection
 
-*   [Villains (⭐363)](https://github.com/Norbert515/flutter_villains) <!--stargazers:Norbert515/flutter_villains--> - Page transition animations by [Norbert Kozsir](https://twitter.com/norbertkozsir)
+*   [Villains (⭐365)](https://github.com/Norbert515/flutter_villains) <!--stargazers:Norbert515/flutter_villains--> - Page transition animations by [Norbert Kozsir](https://twitter.com/norbertkozsir)
 
 ## [10. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 

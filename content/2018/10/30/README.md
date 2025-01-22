@@ -99,7 +99,7 @@
 
 ### Containers / Kubernetes
 
-*   [kubernetes/examples (⭐5.7k)](https://github.com/kubernetes/examples/tree/master/staging/selenium) - Example deployment of Selenium Hub and Nodes on a Kubernetes cluster
+*   [kubernetes/examples (⭐6.3k)](https://github.com/kubernetes/examples/tree/master/staging/selenium) - Example deployment of Selenium Hub and Nodes on a Kubernetes cluster
 
 ## [14. Awesome Actionscript3](/content/robinrodricks/awesome-actionscript3/README.md)
 
@@ -125,8 +125,8 @@
 
 ### Programming / R
 
-*   [nat: NeuroAnatomy Toolbox (⭐57)](https://github.com/jefferis/nat) - Package for the (3D) visualisation and analysis of biological image data, especially tracings of single neurons.
-*   [brainGraph (⭐137)](https://github.com/cwatson/brainGraph) - Package for performing graph theory analyses of brain MRI data.
+*   [nat: NeuroAnatomy Toolbox (⭐64)](https://github.com/jefferis/nat) - Package for the (3D) visualisation and analysis of biological image data, especially tracings of single neurons.
+*   [brainGraph (⭐175)](https://github.com/cwatson/brainGraph) - Package for performing graph theory analyses of brain MRI data.
 
 ### Resources / Ebooks
 
@@ -142,7 +142,7 @@
 
 ### Resources / Miscellaneous
 
-*   [Awesome Public Datasets - Neuroscience (⭐52k)](https://github.com/awesomedata/awesome-public-datasets#neuroscience) - High-quality open neuroscience datasets.
+*   [Awesome Public Datasets - Neuroscience (⭐60k)](https://github.com/awesomedata/awesome-public-datasets#neuroscience) - High-quality open neuroscience datasets.
 
 ## [17. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
 
@@ -179,31 +179,35 @@
 
 ## [20. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
-### Wrappers
+### C, C++
 
-*   [cl-sqlite (⭐71)](https://github.com/dmitryvk/cl-sqlite) - Bindings for SQLite. Public domain.
+*   [cl-sqlite (⭐73)](https://github.com/dmitryvk/cl-sqlite) - Bindings for SQLite. Public domain.
+
+### Other DB wrappers
+
 *   [cl-memcached (⭐21)](https://github.com/quasi/cl-memcached) - Fast, thread-safe interface to the Memcached object caching system. [Expat](https://directory.fsf.org/wiki/License:Expat).
-*   [cl-redis (⭐187)](https://github.com/vseloved/cl-redis) - Redis client. [Expat](https://directory.fsf.org/wiki/License:Expat).
+*   [cl-redis (⭐190)](https://github.com/vseloved/cl-redis) - Redis client. [Expat](https://directory.fsf.org/wiki/License:Expat).
 *   [cl-disque (⭐13)](https://github.com/CodyReichert/cl-disque) - Disque client. [3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
 *   [cl-rethinkdb (⭐48)](https://github.com/orthecreedence/cl-rethinkdb) - RethinkDB client. [Expat](https://directory.fsf.org/wiki/License:Expat).
 
 ### Tools
 
-*   ⭐ [pgloader (⭐5.2k)](https://github.com/dimitri/pgloader) - a data loading tool for PostgreSQL. [PostgreSQL Licence](https://www.postgresql.org/about/licence/).
+*   ⭐ [pgloader (⭐5.6k)](https://github.com/dimitri/pgloader) - a data loading tool for PostgreSQL. [PostgreSQL Licence](https://www.postgresql.org/about/licence/).
+    *   obligatory blog post: [Why is pgloader so much faster?](https://tapoueh.org/blog/2014/05/why-is-pgloader-so-much-faster/) (hint: it was re-written from Python to Common Lisp)
 
 ### C
 
-*   👍[cl-autowrap (⭐210)](https://github.com/rpav/cl-autowrap) - Automatically parses header files into CFFI definitions. [FreeBSD](https://directory.fsf.org/wiki?title=License:FreeBSD).
+*   👍[cl-autowrap (⭐227)](https://github.com/rpav/cl-autowrap) - Automatically parses header files into CFFI definitions. [FreeBSD](https://directory.fsf.org/wiki?title=License:FreeBSD).
 
 ### Miscellaneous
 
-*   [common-cv (⭐57)](https://github.com/byulparan/common-cv) - the OpenCV (Open Source Computer Vision Library) binding library for CommonLisp. No license specified.
-*   [ftw (⭐60)](https://github.com/fjames86/ftw) - A Win32 GUI library. [MIT](https://opensource.org/licenses/MIT).
+*   [common-cv (⭐63)](https://github.com/byulparan/common-cv) - the OpenCV (Open Source Computer Vision Library) binding library for CommonLisp. No license specified.
+*   [ftw (⭐64)](https://github.com/fjames86/ftw) - A Win32 GUI library. [MIT](https://opensource.org/licenses/MIT).
 
 ### Mobile
 
 *   [ECL](https://common-lisp.net/project/ecl/) - Embeddable Common Lisp; compiles to C. [GNU LGPL2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html).
-    *   [eclweb (⭐15)](https://github.com/chee/eclweb) is [a proof-of-concept REPL inside a browser](https://repl.chee.party/) using Web Assembly (WASM).
+    *   [eclweb (⭐17)](https://github.com/chee/eclweb) is [a proof-of-concept REPL inside a browser](https://repl.chee.party/) using Web Assembly (WASM).
 *   [CLASP (⭐2.6k)](https://github.com/drmeister/clasp) - a new Common Lisp implementation that seamlessly interoperates with C++ libraries and programs using LLVM for compilation to native code. This allows Clasp to take advantage of a vast array of preexisting libraries and programs, such as out of the scientific computing ecosystem. [LGPL2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html) (and others).
 *   [Allegro CL](https://franz.com/products/allegro-common-lisp/) - provides the full ANSI Common Lisp standard with many extensions.
     *   reputed features include: the AllegroCache object persistence database system, the KnowledgeGraph system, its concurrent garbage collector, its web-based IDE, and more.
@@ -211,19 +215,19 @@
 
 ### Community
 
-*   👍[Roswell (⭐1.8k)](https://github.com/roswell/roswell) - a Lisp implementation installer, script launcher and more. [MIT](https://opensource.org/licenses/MIT).
+*   [Roswell (⭐1.8k)](https://github.com/roswell/roswell) - a Lisp implementation installer, script launcher and more. [MIT](https://opensource.org/licenses/MIT).
 
 ### HTML generators and templates / Isomorphic web frameworks
 
-*   👍 [spinneret (⭐363)](https://github.com/ruricolist/spinneret) - Common Lisp HTML5 generator. [Expat](https://directory.fsf.org/wiki/License:Expat).
+*   👍 [spinneret (⭐376)](https://github.com/ruricolist/spinneret) - Common Lisp HTML5 generator. [Expat](https://directory.fsf.org/wiki/License:Expat).
 
 ### Utils / Third-party APIs
 
-*   [lfarm (⭐104)](https://github.com/lmj/lfarm) - distributing work across machines (on top of lparallel and usocket). [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause)
+*   [lfarm (⭐106)](https://github.com/lmj/lfarm) - distributing work across machines (on top of lparallel and usocket). [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause)
 
 ### Emacs / Third-party APIs
 
-*   👍 [Sly (⭐1.2k)](https://github.com/joaotavora/sly) - SLY is a fork of SLIME and contains multiple improvements upon it, such as Sly stickers.
+*   👍 [Sly (⭐1.3k)](https://github.com/joaotavora/sly) - SLY is a fork of SLIME and contains multiple improvements upon it, such as Sly stickers.
 *   👍 [Portacle](https://shinmera.github.io/portacle/) - A portable and multiplatform Common Lisp environment: SBCL, Quicklisp, Emacs, Slime, Git.
 
 ### Configuration / Third-party APIs
@@ -244,7 +248,7 @@
 
 ## [22. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
 
-### Organizations
+### Organizations / Commerical Tools
 
 *   [Nvidia Deep Learning](https://developer.nvidia.com/deep-learning)
 
@@ -296,7 +300,7 @@ Wifi pw: `ilovenicolau`
 
 ### Inter-process communication
 
-*   [nng (⭐3.7k)](https://github.com/nanomsg/nng) - nanomsg-next-generation, a light-weight brokerless messaging library. \[MIT] [website](https://nanomsg.github.io/nng/)
+*   [nng (⭐3.9k)](https://github.com/nanomsg/nng) - nanomsg-next-generation, a light-weight brokerless messaging library. \[MIT] [website](https://nanomsg.github.io/nng/)
 
 ### Build Systems
 

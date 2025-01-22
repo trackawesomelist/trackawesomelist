@@ -16,7 +16,7 @@
 
 ### Framework Components
 
-*   [dayron (⭐158)](https://github.com/inaka/Dayron) - A repository *similar* to `Ecto.Repo` that works with REST API requests instead of a database.
+*   [dayron (⭐159)](https://github.com/inaka/Dayron) - A repository *similar* to `Ecto.Repo` that works with REST API requests instead of a database.
 
 ## [3. Frontend Dev Bookmarks](/content/dypsilon/frontend-dev-bookmarks/README.md)
 
@@ -81,14 +81,14 @@
 ### Build Tools / Bare metal / kernel development
 
 *   [premake (⭐2)](https://github.com/premake/premake-dlang) - Premake has built-in support for D projects
-*   [reggae (⭐174)](https://github.com/atilaneves/reggae) - meta build system in D
+*   [reggae (⭐183)](https://github.com/atilaneves/reggae) - meta build system in D
 *   [Makefile (⭐20)](https://github.com/bioinfornatics/MakefileForD) - Makefile template for D projects
-*   [cmake-d (⭐64)](https://github.com/dcarp/cmake-d) - CMake D Projects
+*   [cmake-d (⭐65)](https://github.com/dcarp/cmake-d) - CMake D Projects
 
 ### Data serialization / XML
 
-*   [orange (⭐71)](https://github.com/jacob-carlborg/orange) - General purpose serializer (currently only supports XML)
-*   [std.experimental.xml (⭐21)](https://github.com/lodo1995/experimental.xml) - Phobos candidate for a XML serialization
+*   [orange (⭐72)](https://github.com/jacob-carlborg/orange) - General purpose serializer (currently only supports XML)
+*   [std.experimental.xml (⭐20)](https://github.com/lodo1995/experimental.xml) - Phobos candidate for a XML serialization
 
 ## [8. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
@@ -104,7 +104,7 @@
 
 ### Queues and Messaging
 
-*   [sidekiq.cr (⭐767)](https://github.com/mperham/sidekiq.cr) - Simple, efficient job processing
+*   [sidekiq.cr (⭐762)](https://github.com/mperham/sidekiq.cr) - Simple, efficient job processing
 
 ## [10. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 

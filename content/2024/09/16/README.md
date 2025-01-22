@@ -10,13 +10,13 @@
 
 ### Libraries/Packages/Scripts / Python
 
-*   [harley (⭐6)](https://github.com/TomBurdge/harley) - Polars helper methods to enhance developer productivity by [@TomBurdge](https://github.com/TomBurdge).
+*   [harley (⭐9)](https://github.com/TomBurdge/harley) - Polars helper methods to enhance developer productivity by [@TomBurdge](https://github.com/TomBurdge).
 
 ## [2. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Kotlin Native / Projects
 
-*   [trueangle/kotlin-native-aws-lambda-runtime (⭐4)](https://github.com/trueangle/kotlin-native-aws-lambda-runtime) - A runtime for executing AWS Lambda functions written in Kotlin/Native, designed to reduce cold start issues common with the JVM platform.
+*   [trueangle/kotlin-native-aws-lambda-runtime (⭐7)](https://github.com/trueangle/kotlin-native-aws-lambda-runtime) - A runtime for executing AWS Lambda functions written in Kotlin/Native, designed to reduce cold start issues common with the JVM platform.
 
 ## [3. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -42,11 +42,11 @@
 
 ### Charts / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [angular-google-charts (⭐272)](https://github.com/FERNman/angular-google-charts) - A wrapper for the Google Charts library written in Angular.
+*   [angular-google-charts (⭐276)](https://github.com/FERNman/angular-google-charts) - A wrapper for the Google Charts library written in Angular.
 
 ### Form Controls / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-ui-switch (⭐110)](https://github.com/webcat12345/ngx-ui-switch) - A simple iOS 7 style switch component for Angular.
+*   [ngx-ui-switch (⭐111)](https://github.com/webcat12345/ngx-ui-switch) - A simple iOS 7 style switch component for Angular.
 *   [olt-ngx-ui-switch (⭐1)](https://github.com/OuterlimitsTech/olt-ngx-ui-switch) - NGX UI Switch (Forked) to latest version of Angular.
 
 ## [6. Topics](/content/selvaklnc/topics/README.md)
@@ -71,11 +71,11 @@
 
 ### Applications / Message Queue
 
-*   [RobustMQ (⭐69)](https://github.com/robustmq/robustmq) - Next generation cloud-native converged message queue.
+*   [RobustMQ (⭐263)](https://github.com/robustmq/robustmq) - Next generation cloud-native converged message queue.
 
 ### Applications / MLOps
 
-*   [TensorZero (⭐56)](https://github.com/tensorzero/tensorzero) - data & learning flywheel for LLMs that unifies inference, observability, optimization, and experimentation ![TensorZero Build Status](https://img.shields.io/github/check-runs/tensorzero/tensorzero/main)
+*   [TensorZero (⭐2k)](https://github.com/tensorzero/tensorzero) - data & learning flywheel for LLMs that unifies inference, observability, optimization, and experimentation ![TensorZero Build Status](https://img.shields.io/github/check-runs/tensorzero/tensorzero/main)
 
 ## [8. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
 
@@ -85,4 +85,5 @@
 
 ---
 
+- Prev: [Sep 17, 2024](/content/2024/09/17/README.md)
 - Next: [Sep 15, 2024](/content/2024/09/15/README.md)

@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 14 - Oct 20, 2019
 
-78 awesome lists updated this week.
+77 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,7 +16,7 @@
 
 ### Dataset / Web
 
-*   [The Quick, Draw! Dataset (⭐5.8k)](https://github.com/googlecreativelab/quickdraw-dataset) - Collection of 50 million drawings across 345 categories.
+*   [The Quick, Draw! Dataset (⭐6.2k)](https://github.com/googlecreativelab/quickdraw-dataset) - Collection of 50 million drawings across 345 categories.
 
 ## [3. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
@@ -33,7 +33,7 @@
 ### Related projects / Syntax highlighting packages
 
 *   [Work Master OS](https://translate.google.com/translate?hl=\&sl=ru\&tl=en\&u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20081226145726%2Fhttp%3A%2F%2Fworkmaster.ru%2Findex.php%3Fp%3D8\&sandbox=1) - Russian multi tasking operating system.
-*   [GBCamcorder (⭐87)](https://github.com/furrtek/GBCamcorder) - Lo-Fi portable video recorder using a GameBoy Camera cartridge.
+*   [GBCamcorder (⭐91)](https://github.com/furrtek/GBCamcorder) - Lo-Fi portable video recorder using a GameBoy Camera cartridge.
 
 ## [5. Awesome Maintainers](/content/nayafia/awesome-maintainers/week/README.md)
 
@@ -46,7 +46,7 @@
 
 ### Hash Cracking Tools / Zealandia
 
-*   [hate\_crack (⭐1.6k)](https://github.com/trustedsec/hate_crack) - Tool for automating cracking methodologies through Hashcat.
+*   [hate\_crack (⭐1.7k)](https://github.com/trustedsec/hate_crack) - Tool for automating cracking methodologies through Hashcat.
 
 ## [7. Awesome Uncopyright](/content/johnjago/awesome-uncopyright/week/README.md)
 
@@ -129,13 +129,13 @@
 
 ### Projects Using Seed
 
-*   [benxu.dev/blog (⭐0)](https://github.com/AlterionX/benxu-dev) - A relatively simple open source personal blog. Built on [`Seed`](https://seed-rs.org/), [`maud`](https://maud.lambda.xyz), [`Rocket`](https://rocket.rs), and [`Diesel`](https://diesel.rs).
+*   [benxu.dev/blog (⭐0)](https://github.com/AlterionX/benxu-dev) - A relatively simple open source personal blog. Built on `Seed`, [`maud`](https://maud.lambda.xyz), [`Rocket`](https://rocket.rs), and [`Diesel`](https://diesel.rs).
 
 ## [14. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Personal Dashboards
 
-*   [Homer (⭐9.1k)](https://github.com/bastienwirtz/homer) - A dead simple static homepage to expose your server services, with an easy yaml configuration and connectivity check. `Apache-2.0` `Docker/K8S/Nodejs`
+*   [Homer (⭐9.6k)](https://github.com/bastienwirtz/homer) - A dead simple static homepage to expose your server services, with an easy yaml configuration and connectivity check. `Apache-2.0` `Docker/K8S/Nodejs`
 
 ## [15. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
@@ -193,7 +193,7 @@
 
 ### Javascript / Isomorphic web frameworks
 
-*   [remote-js (⭐34)](https://github.com/ceramic/remote-js) - send JavaScript from Common Lisp to a browser. [MIT](https://opensource.org/licenses/MIT).
+*   [remote-js (⭐35)](https://github.com/ceramic/remote-js) - send JavaScript from Common Lisp to a browser. [MIT](https://opensource.org/licenses/MIT).
 
 ## [18. AwesomeCSV](/content/secretGeek/AwesomeCSV/week/README.md)
 
@@ -210,7 +210,7 @@
 
 ### HAL implementation crates / GigaDevice
 
-*   [`gd32vf103-hal`](https://github.com/luojia65/gd32vf103-hal) - ![crates.io](https://img.shields.io/crates/v/gd32vf103-hal.svg)
+*   [`gd32vf103-hal`](https://github.com/luojia65/gd32vf103-hal) - [![crates.io](https://img.shields.io/crates/v/gd32vf103-hal.svg)](https://crates.io/crates/gd32vf103-hal)
     *   (WIP) Hardware abstract layer (HAL) for the GD32VF103 RISC-V microcontroller
 
 ## [20. Awesome Amazon Alexa](/content/miguelmota/awesome-amazon-alexa/week/README.md)
@@ -322,7 +322,7 @@
 
 ### Table of Contents / DSL
 
-*   [Apache Beam (⭐7.7k)](https://github.com/apache/beam) \[Java, Python, SQL, Scala, Go] - unified model and set of language-specific SDKs for defining and executing data processing workflows, and also data ingestion and integration flows, supporting Enterprise Integration Patterns (EIPs) and Domain Specific Languages (DSLs), open sourced by Google.
+*   [Apache Beam (⭐7.9k)](https://github.com/apache/beam) \[Java, Python, SQL, Scala, Go] - unified model and set of language-specific SDKs for defining and executing data processing workflows, and also data ingestion and integration flows, supporting Enterprise Integration Patterns (EIPs) and Domain Specific Languages (DSLs), open sourced by Google.
 
 ### Table of Contents / Closed Source
 
@@ -397,7 +397,7 @@
 
 ### Reactive Programming / Runner
 
-*   [RxJS (⭐30k)](https://github.com/ReactiveX/rxjs) - A reactive programming library for JavaScript.
+*   [RxJS (⭐31k)](https://github.com/ReactiveX/rxjs) - A reactive programming library for JavaScript.
 
 ### Storage / Runner
 
@@ -564,13 +564,19 @@
 
 
 
-## [45. Awesome Splunk](/content/sduff/awesome-splunk/week/README.md)
+## [45. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+
+### Resources / Community
+
+*   [VueJS USA - Meetups](https://events.vuejs.org/meetups/#united-states)
+
+## [46. Awesome Splunk](/content/sduff/awesome-splunk/week/README.md)
 
 ### Visualisations / IT Service Intelligence
 
 *   [Event Timeline Viz](https://splunkbase.splunk.com/app/4370/) - Interactive timeline with call-outs for events.
 
-## [46. Awesome Ctf](/content/apsdehal/awesome-ctf/week/README.md)
+## [47. Awesome Ctf](/content/apsdehal/awesome-ctf/week/README.md)
 
 ### Forensics
 
@@ -773,21 +779,11 @@
 *   [SababaSec (⭐15)](https://github.com/SababaSec/ctf-writeups) - A collection of CTF write-ups by the SababaSec team
 *   [Shell Storm](http://shell-storm.org/repo/CTF/) - CTF challenge archive maintained by Jonathan Salwan.
 
-## [47. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
+## [48. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
 
 ### JavaScript
 
 *   [jsFuck (⭐7.1k)](https://github.com/aemkei/jsfuck)
-
-## [48. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
-
-### Resources / Community
-
-*   [VueJS USA - Meetups](https://events.vuejs.org/meetups/#united-states)
-
-### Resources / Examples
-
-*   [Add Push Notifications to Your Vue Chat App Using CometChat and Firebase](https://www.cometchat.com/tutorials/vue-chat-push-notifications/)
 
 ## [49. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
@@ -805,13 +801,13 @@
 
 ### Testing / Matchers
 
-*   [XMLUnit (⭐291)](https://github.com/xmlunit/xmlunit) - Simplifies testing for XML output.
+*   [XMLUnit (⭐299)](https://github.com/xmlunit/xmlunit) - Simplifies testing for XML output.
 
 ## [51. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### API Gateway / Symfony2
 
-*   [KrakenD (⭐6.3k)](https://github.com/devopsfaith/krakend) - Ultra performant API Gateway with middleware. Written in Go.
+*   [KrakenD (⭐6.4k)](https://github.com/devopsfaith/krakend) - Ultra performant API Gateway with middleware. Written in Go.
 
 ## [52. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
@@ -825,13 +821,13 @@
 
 ### Network Protocols
 
-*   [connect-proxy (⭐6)](https://github.com/spider-gazelle/connect-proxy) - Connect method style of HTTP tunnelling / HTTP proxy
+*   [connect-proxy (⭐7)](https://github.com/spider-gazelle/connect-proxy) - Connect method style of HTTP tunnelling / HTTP proxy
 
 ## [53. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### E-Books / Others
 
-*   [Archives (⭐8.7k)](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2018 (⭐8.7k)](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#e-books).
+*   [Archives (⭐8.9k)](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2018 (⭐8.9k)](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#e-books).
 
 ### Courses / Others
 
@@ -849,24 +845,24 @@
 
 ### Games
 
-*   [Binbo (⭐120)](https://github.com/DOBRO/binbo) - A chess representation written in Erlang using [Bitboards](https://www.chessprogramming.org/Bitboards), ready for use on game servers.
+*   [Binbo (⭐126)](https://github.com/DOBRO/binbo) - A chess representation written in Erlang using [Bitboards](https://www.chessprogramming.org/Bitboards), ready for use on game servers.
 
 ### Miscellaneous
 
-*   [Apex (⭐276)](https://github.com/bjro/apex) - Awesome Print for Elixir.
+*   [Apex (⭐279)](https://github.com/bjro/apex) - Awesome Print for Elixir.
 
 ## [56. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
 
 ### Dynamic type checkers
 
-*   [pydantic (⭐20k)](https://github.com/samuelcolvin/pydantic) - Data parsing using Python type hinting. Supports dataclasses.
-*   [typeguard (⭐1.5k)](https://github.com/agronholm/typeguard) - Another one runtime type checker.
+*   [pydantic (⭐22k)](https://github.com/samuelcolvin/pydantic) - Data parsing using Python type hinting. Supports dataclasses.
+*   [typeguard (⭐1.6k)](https://github.com/agronholm/typeguard) - Another one runtime type checker.
 
 ## [57. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Command-line apps
 
-*   [npkill (⭐8.1k)](https://github.com/voidcosmos/npkill) - Easily find and remove old and heavy node\_modules folders.
+*   [npkill (⭐8.4k)](https://github.com/voidcosmos/npkill) - Easily find and remove old and heavy node\_modules folders.
 
 ## [58. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
@@ -886,42 +882,36 @@
 
 *   [Sender](https://www.sender.net) Up to 15,000 emails/month, up to 2,500 subscribers
 
-## [61. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
-
-### Companies with "remote DNA"
-
-*   [DareCode](https://www.darecode.com) - Big-data, fast-data, micro-services. Projects with real DevOps and OpenSource orientation.
-
-## [62. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
+## [61. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
 ### Utility / Docker Container Actions
 
-*   [Run your job on another architecture: arm32, aarch64 and others (⭐435)](https://github.com/uraimo/run-on-arch-action)
-*   [Generate build numbers across multiple scopes (⭐12)](https://github.com/zyborg/gh-action-buildnum)
+*   [Run your job on another architecture: arm32, aarch64 and others (⭐677)](https://github.com/uraimo/run-on-arch-action)
+*   [Generate build numbers across multiple scopes (⭐20)](https://github.com/zyborg/gh-action-buildnum)
 
 ### Static Analysis / Linting
 
-*   [Lint Pull Request commits with commitlint (⭐233)](https://github.com/wagoid/commitlint-github-action)
+*   [Lint Pull Request commits with commitlint (⭐358)](https://github.com/wagoid/commitlint-github-action)
 
 ### Pull Requests / Code Coverage
 
-*   [Automatically Update PRs with Outdated Checks and Squash and Merge the Ones Matching All Branch Protections (⭐134)](https://github.com/tibdex/autosquash)
+*   [Automatically Update PRs with Outdated Checks and Squash and Merge the Ones Matching All Branch Protections (⭐140)](https://github.com/tibdex/autosquash)
 
 ### Deployment / Code Coverage
 
-*   [Deploy a static site to Surge.sh (⭐60)](https://github.com/yavisht/deploy-via-surge.sh-github-action-template)
-*   [FTP Deploy Action, Deploys a GitHub project to a FTP server using GitHub actions (⭐2k)](https://github.com/SamKirkland/FTP-Deploy-Action)
-*   [Publish Article to Dev.to (⭐19)](https://github.com/tylerauerbeck/publish-to-dev.to-action)
+*   [Deploy a static site to Surge.sh (⭐80)](https://github.com/yavisht/deploy-via-surge.sh-github-action-template)
+*   [FTP Deploy Action, Deploys a GitHub project to a FTP server using GitHub actions (⭐3.7k)](https://github.com/SamKirkland/FTP-Deploy-Action)
+*   [Publish Article to Dev.to (⭐24)](https://github.com/tylerauerbeck/publish-to-dev.to-action)
 
 ### External Services / Terraform
 
-*   [GitHub Action for sending Stack Overflow posts to Slack (⭐13)](https://github.com/logankilpatrick/StackOverflowBot)
+*   [GitHub Action for sending Stack Overflow posts to Slack (⭐17)](https://github.com/logankilpatrick/StackOverflowBot)
 
 ### Cheat Sheet / Terraform
 
 *   [GitHub Actions Branding Cheat Sheet](https://haya14busa.github.io/github-action-brandings/)
 
-## [63. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [62. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Popular Packages / Testing & Debugging
 
@@ -936,7 +926,7 @@
 
 *   [Laravel Template with Vue (⭐880)](https://github.com/wmhello/laravel_template_with_vue)
 
-## [64. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/week/README.md)
+## [63. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/week/README.md)
 
 ### Museums & Collections
 
@@ -950,31 +940,31 @@
 
 *   [Annals of Parasitology](https://annals-parasitology.eu/go.live.php/PL-H54/archive.html) - Open-access scientific journal of the Polish Parasitological Society, formerly *Wiadomości Parazytologiczne*, that publishes issues quarterly. Open archives start from 2002.
 
-## [65. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [64. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### GUI
 
 *   [trikl (⭐142)](https://github.com/lambdaisland/trikl)
 
-## [66. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/week/README.md)
+## [65. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/week/README.md)
 
 ### Talks
 
 *   [Burnout And Your Meat Computer - Electromagnetic Field 2018](https://www.youtube.com/watch?v=gcYRhATiyO4) - By Jessica Rose.
 
-## [67. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [66. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / General-Purpose Machine Learning
 
 *   [Cortex (⭐8k)](https://github.com/cortexlabs/cortex) - Open source platform for deploying machine learning models in production.
 
-## [68. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [67. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### Agency Tools
 
 *   [TBEST](https://tbest.org/) - TBEST (Transit Boardings Estimation and Simulation Tool) is an effort to develop a multi-faceted GIS-based modeling, planning and analysis tool which integrates socio-economic, land use, and transit network data into a platform for scenario-based transit ridership estimation and analysis. Funded by the Florida Department of Transportation. Free to use but not open-source.
 
-## [69. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [68. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### OS Images
 
@@ -982,19 +972,19 @@
 
 ### Tools
 
-*   [Orangetool (⭐106)](https://github.com/Moduland/Orangetool) - Control functions for Single-Board computers in Python.
+*   [Orangetool (⭐107)](https://github.com/Moduland/Orangetool) - Control functions for Single-Board computers in Python.
 
 ### Projects
 
 *   [StreamPi](https://stream-pi.com/) - A robust alternative to the Elgato Stream Deck, that can launch apps, scripts, websites and control applications like OBS.
 
-## [70. Awesome Gideros](/content/stetso/awesome-gideros/week/README.md)
+## [69. Awesome Gideros](/content/stetso/awesome-gideros/week/README.md)
 
 ### Useful Lua-Libraries / Plugins
 
 *   [bump (⭐769)](https://github.com/kikito/bump.lua) - Simple, flexible and fast library for collision detection using axis-aligned bounding boxes (from version 2017.8 onwards Gideros contains a C-port of the library with the same API that should be used instead [cbump](https://wiki.giderosmobile.com/index.php/Bump).
 
-## [71. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [70. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Dictionaries
 
@@ -1080,7 +1070,7 @@
 
 
 
-## [72. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [71. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Reading and Writing Tools / Markdown Tools
 
@@ -1096,13 +1086,13 @@
 
 ### Utilities / Window Management
 
-*   [yabai (⭐23k)](https://github.com/koekeishiya/yabai) - Tiling window manager for macOS. A rewrite of chunkwm, it provides a more seamless integration with the operating system. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/koekeishiya/yabai/wiki)
+*   [yabai (⭐25k)](https://github.com/koekeishiya/yabai) - Tiling window manager for macOS. A rewrite of chunkwm, it provides a more seamless integration with the operating system. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/koekeishiya/yabai/wiki)
 
 ### Utilities / System Related Tools
 
-*   [Background Music (⭐16k)](https://github.com/kyleneideck/BackgroundMusic) - Automatically pause your music, set individual apps' volumes and record system audio. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/kyleneideck/BackgroundMusic)
+*   [Background Music (⭐17k)](https://github.com/kyleneideck/BackgroundMusic) - Automatically pause your music, set individual apps' volumes and record system audio. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/kyleneideck/BackgroundMusic)
 
-## [73. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
+## [72. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
 
 ### Family
 
@@ -1128,7 +1118,7 @@
 | ------: | -------: | -----: |
 |   2 - 4 |       12 | 60-90m |
 
-## [74. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/week/README.md)
+## [73. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/week/README.md)
 
 ### Companies / Materials
 
@@ -1181,7 +1171,7 @@
 
 *   [U.N Climate Change National Inventory Submissions](https://unfccc.int/process-and-meetings/transparency-and-reporting/reporting-and-review-under-the-convention/greenhouse-gas-inventories-annex-i-parties/national-inventory-submissions-2019) - This contains country specific climate reports from several U.N countries. It has data from 2003 onwards.
 
-## [75. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [74. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Top / Game Engine resources
 
@@ -1191,7 +1181,7 @@
 
 *   Telegram [Flutter Indonesia](https://t.me/flutter_id)
 
-## [76. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
+## [75. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
 
 ### Tools / Other
 
@@ -1201,7 +1191,7 @@
 
 *   [HackingLab](https://www.hacking-lab.com/)
 
-## [77. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/week/README.md)
+## [76. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/week/README.md)
 
 ### Terminal Emulation Applications
 
@@ -1211,7 +1201,7 @@
 
 *   [kubebox (⭐2k)](https://github.com/astefanutti/kubebox) - Terminal console for Kubernetes.
 
-## [78. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
+## [77. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
 
 ### How to Use
 

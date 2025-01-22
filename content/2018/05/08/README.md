@@ -1,6 +1,6 @@
 # Awesome List Updates on May 08, 2018
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -22,17 +22,7 @@
 
 *   [homeeToMqtt (⭐10)](https://github.com/odig/homeeToMqtt) - Bidirectional Interface between homee and MQTT.
 
-## [3. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / UI Components
-
-*   [vue-persian-datetime-picker (⭐586)](https://github.com/talkhabi/vue-persian-datetime-picker) Persian material datepicker. Supports datetime, date, time, year, month.
-
-### Components & Libraries / UI Utilities
-
-*   [vue-next-level-scroll (⭐49)](https://github.com/Developmint/vue-next-level-scroll) - A component based and SSR ready approach to smooth scrolling using the modern Scroll behavior API
-
-## [4. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/README.md)
+## [3. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/README.md)
 
 ### Libraries / General Purpose
 
@@ -42,11 +32,11 @@
 
 *   [JChemPaint (⭐106)](https://github.com/JChemPaint/jchempaint) - Chemical 2D structure editor application/applet based on the [Chemistry Development Kit](https://sourceforge.net/projects/cdk/).
 
-## [5. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [4. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Animation
 
-*   [SpriteKitEasingSwift (⭐115)](https://github.com/craiggrummitt/SpriteKitEasingSwift) - Better Easing for SpriteKit.
+*   [SpriteKitEasingSwift (⭐117)](https://github.com/craiggrummitt/SpriteKitEasingSwift) - Better Easing for SpriteKit.
 
 ### Images / Barcode
 
@@ -54,9 +44,9 @@
 
 ### Text / Barcode
 
-*   [Croc (⭐130)](https://github.com/JKalash/Croc) - A lightweight Emoji parsing and querying library.
+*   [Croc (⭐129)](https://github.com/JKalash/Croc) - A lightweight Emoji parsing and querying library.
 
-## [6. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
+## [5. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
 ### Packages / Automation
 
@@ -80,27 +70,27 @@
 
 *   [Developing ember apps on glitch.com](https://www.youtube.com/watch?v=uhXA6ECaknw)
 
-## [7. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
+## [6. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 
 ### Conferences / Third-party Service Integration
 
 *   [Laravel Live UK](https://laravellive.uk/)
 
-## [8. Awesome Css Learning](/content/micromata/awesome-css-learning/README.md)
+## [7. Awesome Css Learning](/content/micromata/awesome-css-learning/README.md)
 
 ### Layout
 
 *   [Laying Out The Future With Grid And Flexbox](https://www.youtube.com/watch?v=hj355PRbwSQ) - Introduction of a new layout system encompassing Flexbox, CSS Grid and the Box Alignment Module.
 
-## [9. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [8. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### .NET / General-Purpose Machine Learning
 
-*   [GeneticSharp (⭐1.2k)](https://github.com/giacomelli/GeneticSharp) - Multi-platform genetic algorithm library for .NET Core and .NET Framework. The library has several implementations of GA operators, like: selection, crossover, mutation, reinsertion and termination.
-*   [ML.NET (⭐8.9k)](https://github.com/dotnet/machinelearning) - ML.NET is a cross-platform open-source machine learning framework which makes machine learning accessible to .NET developers. ML.NET was originally developed in Microsoft Research and evolved into a significant framework over the last decade and is used across many product groups in Microsoft like Windows, Bing, PowerPoint, Excel and more.
+*   [GeneticSharp (⭐1.3k)](https://github.com/giacomelli/GeneticSharp) - Multi-platform genetic algorithm library for .NET Core and .NET Framework. The library has several implementations of GA operators, like: selection, crossover, mutation, reinsertion and termination.
+*   [ML.NET (⭐9.1k)](https://github.com/dotnet/machinelearning) - ML.NET is a cross-platform open-source machine learning framework which makes machine learning accessible to .NET developers. ML.NET was originally developed in Microsoft Research and evolved into a significant framework over the last decade and is used across many product groups in Microsoft like Windows, Bing, PowerPoint, Excel and more.
 *   [Vulpes (⭐116)](https://github.com/fsprojects/Vulpes) - Deep belief and deep learning implementation written in F# and leverages CUDA GPU execution with Alea.cuBase.
 
-## [10. Awesome Vapor](/content/vapor-community/awesome-vapor/README.md)
+## [9. Awesome Vapor](/content/vapor-community/awesome-vapor/README.md)
 
 ### Libraries
 

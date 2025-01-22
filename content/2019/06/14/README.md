@@ -16,7 +16,7 @@
 
 ### Alternatives / Paid Books
 
-*   [cash (⭐6k)](https://github.com/kenwheeler/cash) - small jQuery alternative for modern browsers. Includes all API with deliberate exception for ajax.
+*   [cash (⭐6.5k)](https://github.com/kenwheeler/cash) - small jQuery alternative for modern browsers. Includes all API with deliberate exception for ajax.
 *   [Zepto](https://zeptojs.com/) - small jQuery alternative, which includes ajax, effects and additional utilities.
 *   [jBone](http://jbone.js.org/) - jQuery implementation to use with Backbone. Supports only subset of API which is required for Backbone to work. Can be a byte-saver if you don't intend to use jQuery directly, but have Backbone in your project.
 
@@ -48,7 +48,7 @@
 
 ### Charts / Image Picker
 
-*   [FL Chart (⭐6.6k)](https://github.com/imaNNeoFighT/fl_chart) <!--stargazers:imaNNeoFighT/fl_chart--> - Draw fantastic charts in Flutter by [Iman Khoshabi](http://www.ikhoshabi.com)
+*   [FL Chart (⭐6.9k)](https://github.com/imaNNeoFighT/fl_chart) <!--stargazers:imaNNeoFighT/fl_chart--> - Draw fantastic charts in Flutter by [Iman Khoshabi](http://www.ikhoshabi.com)
 
 ## [7. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 
@@ -67,7 +67,7 @@
 
 ### Software / Algorithms
 
-*   [Linkcomm - Link Communities in Complex Networks (⭐90)](https://github.com/bagrow/linkcomm) - Community detection algorithms, available in C++, Python [and R](https://CRAN.R-project.org/package=linkcomm).
+*   [Linkcomm - Link Communities in Complex Networks (⭐91)](https://github.com/bagrow/linkcomm) - Community detection algorithms, available in C++, Python [and R](https://CRAN.R-project.org/package=linkcomm).
 
 ### Software / Python
 
@@ -77,17 +77,11 @@
 
 ### Resources / Community
 
-*   [VueJS Finland - Meetup](https://www.meetup.com/vuejs-finland/)
 *   [VueJS Finland - Facebook Page](https://www.facebook.com/vuejsfinland/)
 
 ### Projects Using Vue.js / Open Source
 
 *   [Thermal](https://thermal.codecarrot.net) - One stop to all Git repository.
-
-### Components & Libraries / UI Components
-
-*   [vue-business-hours (⭐50)](https://github.com/sbarry50/vue-business-hours) - Vue component for selecting business hours in an administration panel or dashboard.
-*   [material-vue-daterange-picker (⭐73)](https://github.com/ly525/material-vue-daterange-picker) - a daterange picker of Material Design style for Vuejs 2.x, which is compatible with vuetify and friendly for mobile.
 
 ---
 

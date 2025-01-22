@@ -16,7 +16,7 @@
 
 ### Files / Runner
 
-*   [diff2html (⭐2.8k)](https://github.com/rtfpessoa/diff2html) - Git diff output parser and pretty HTML generator.
+*   [diff2html (⭐2.9k)](https://github.com/rtfpessoa/diff2html) - Git diff output parser and pretty HTML generator.
 
 ## [3. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 

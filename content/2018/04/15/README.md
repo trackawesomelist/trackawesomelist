@@ -22,7 +22,7 @@
 
 ### Concurrency
 
-*   [Intel Parallel STL (⭐719)](https://github.com/intel/parallelstl) - Intel® implementation of C++17 STL for C++11 and above. \[Apache2]
+*   [Intel Parallel STL (⭐732)](https://github.com/intel/parallelstl) - Intel® implementation of C++17 STL for C++11 and above. \[Apache2]
 
 ## [4. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
 
@@ -43,11 +43,11 @@
 
 ### Developer Tools / Command Line Tools
 
-*   [tmux (⭐34k)](https://github.com/tmux/tmux) - "Terminal multiplexer", it enables a number of terminals (or windows) to be accessed and controlled from a single terminal. tmux is intended to be a simple, modern, BSD-licensed alternative to programs such as GNU screen. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/tmux/tmux)
+*   [tmux (⭐36k)](https://github.com/tmux/tmux) - Terminal multiplexer to manage multiple terminals from a single terminal. [![OSS](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/tmux/tmux)
 
 ### Utilities / System Related Tools
 
-*   [KeepingYouAwake (⭐5.6k)](https://github.com/newmarcel/KeepingYouAwake) - Alternative to Caffeine with better support for dark mode in Mac. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/newmarcel/KeepingYouAwake)
+*   [KeepingYouAwake (⭐5.7k)](https://github.com/newmarcel/KeepingYouAwake) - Alternative to Caffeine with better support for dark mode in Mac. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/newmarcel/KeepingYouAwake)
 
 ## [6. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 

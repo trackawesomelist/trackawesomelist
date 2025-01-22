@@ -10,7 +10,7 @@
 
 ### Miscellaneous
 
-*   [Vert.x Child Process (⭐46)](https://github.com/vietj/vertx-childprocess) - Spawn child process from Vert.x.
+*   [Vert.x Child Process (⭐51)](https://github.com/vietj/vertx-childprocess) - Spawn child process from Vert.x.
 
 ## [2. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
@@ -18,7 +18,7 @@
 
 *   [Mitmproxy](https://mitmproxy.org/) - An interactive console program that allows traffic flows to be intercepted, inspected, modified and replayed.
 *   [Mountebank](http://www.mbtest.org/) - Cross-platform, multi-protocol test doubles over the wire.
-*   [VCR (⭐5.8k)](https://github.com/vcr/vcr) - Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests. See the list of ports for implementations in other languages.
+*   [VCR (⭐5.9k)](https://github.com/vcr/vcr) - Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests. See the list of ports for implementations in other languages.
 *   [Wilma (⭐57)](https://github.com/epam/Wilma) - Combined HTTP/HTTPS service stub and transparent proxy solution.
 *   [WireMock](http://wiremock.org/) - Flexible library for stubbing and mocking web services. Unlike general purpose mocking tools it works by creating an actual HTTP server that your code under test can connect to as it would a real web service.
 
@@ -92,7 +92,7 @@
 
 ### Go / Symfony2
 
-*   [go-restful (⭐5k)](https://github.com/emicklei/go-restful) - A declarative highly readable framework for building restful API's.
+*   [go-restful (⭐5.1k)](https://github.com/emicklei/go-restful) - A declarative highly readable framework for building restful API's.
 
 ### Querying / Symfony2
 
@@ -152,7 +152,7 @@
 
 ### Caching
 
-*   [CacheManager (⭐2.3k)](https://github.com/MichaCo/CacheManager) - A common interface and abstraction layer for caching.
+*   [CacheManager (⭐2.4k)](https://github.com/MichaCo/CacheManager) - A common interface and abstraction layer for caching.
 
 ### Static Site Generators
 
@@ -160,7 +160,7 @@
 
 ### Testing
 
-*   [FluentAutomation (⭐233)](https://github.com/stirno/FluentAutomation) - Simple Fluent API for UI Automation
+*   [FluentAutomation (⭐235)](https://github.com/stirno/FluentAutomation) - Simple Fluent API for UI Automation
 
 ## [14. Awesome Jquery](/content/petk/awesome-jquery/week/README.md)
 
@@ -468,7 +468,7 @@ This book teaches you to use R to effectively visualize and explore complex data
 ### DevOps Tools
 
 *   [Backup (⭐4.8k)](https://github.com/backup/backup) - Provides an elegant DSL in Ruby for performing backups on UNIX-like systems.
-*   [Chef (⭐7.5k)](https://github.com/chef/chef) - A systems integration framework, built to bring the benefits of configuration management to your entire infrastructure.
+*   [Chef (⭐7.6k)](https://github.com/chef/chef) - A systems integration framework, built to bring the benefits of configuration management to your entire infrastructure.
 *   [Logstash (⭐14k)](https://github.com/elastic/logstash) - Logs/event transport, processing, management, search.
 
 ### Documentation
@@ -477,7 +477,7 @@ This book teaches you to use R to effectively visualize and explore complex data
 
 ### E-Commerce and Payments
 
-*   [Active Merchant (⭐4.5k)](https://github.com/activemerchant/active_merchant) - A simple payment abstraction library extracted from Shopify.
+*   [Active Merchant (⭐4.6k)](https://github.com/activemerchant/active_merchant) - A simple payment abstraction library extracted from Shopify.
 *   [Solidus (⭐5k)](https://github.com/solidusio/solidus) - An open source, eCommerce application for high volume retailers.
 
 ### Ebook
@@ -486,7 +486,7 @@ This book teaches you to use R to effectively visualize and explore complex data
 
 ### File Upload
 
-*   [Refile (⭐2.5k)](https://github.com/refile/refile) - A modern file upload library for Ruby applications, Refile is an attempt by CarrierWave's original author to fix the design mistakes and overengineering in CarrierWave.
+*   [Refile (⭐2.4k)](https://github.com/refile/refile) - A modern file upload library for Ruby applications, Refile is an attempt by CarrierWave's original author to fix the design mistakes and overengineering in CarrierWave.
 
 ### HTTP Clients and tools
 
@@ -494,15 +494,15 @@ This book teaches you to use R to effectively visualize and explore complex data
 
 ### Mobile Development
 
-*   [fastlane (⭐39k)](https://github.com/fastlane/fastlane) - Connect all iOS deployment tools into one streamlined workflow.
+*   [fastlane (⭐40k)](https://github.com/fastlane/fastlane) - Connect all iOS deployment tools into one streamlined workflow.
 
 ### ORM/ODM
 
-*   [NoBrainer (⭐388)](https://github.com/nviennot/nobrainer/) - A RethinkDB ORM for Ruby
+*   [NoBrainer (⭐386)](https://github.com/nviennot/nobrainer/) - A RethinkDB ORM for Ruby
 
 ### PDF
 
-*   [CombinePDF (⭐732)](https://github.com/boazsegev/combine_pdf) - A Pure ruby library to merge or stump PDF files, number pages and more.
+*   [CombinePDF (⭐735)](https://github.com/boazsegev/combine_pdf) - A Pure ruby library to merge or stump PDF files, number pages and more.
 
 ### Search
 
@@ -510,7 +510,7 @@ This book teaches you to use R to effectively visualize and explore complex data
 
 ### Third-party APIs
 
-*   [Pusher (⭐664)](https://github.com/pusher/pusher-http-ruby) - Ruby server library for the Pusher API.
+*   [Pusher (⭐665)](https://github.com/pusher/pusher-http-ruby) - Ruby server library for the Pusher API.
 
 ## [31. Awesome Tech Videos](/content/lucasviola/awesome-tech-videos/week/README.md)
 
@@ -553,13 +553,13 @@ This book teaches you to use R to effectively visualize and explore complex data
 
 ### Localization / Barcode
 
-*   [Localize-Swift (⭐3k)](https://github.com/marmelroy/Localize-Swift) - Localize apps using e.g. regular expressions in Localizable.strings.
+*   [Localize-Swift (⭐3.1k)](https://github.com/marmelroy/Localize-Swift) - Localize apps using e.g. regular expressions in Localizable.strings.
 
 ## [35. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Cloud Infrastructure and Management
 
-*   [IElixir (⭐355)](https://github.com/pprzetacznik/IElixir) - Jupyter's kernel for Elixir programming language.
+*   [IElixir (⭐362)](https://github.com/pprzetacznik/IElixir) - Jupyter's kernel for Elixir programming language.
 
 ### Macros
 
@@ -567,7 +567,7 @@ This book teaches you to use R to effectively visualize and explore complex data
 
 ### Testing
 
-*   [ex\_machina (⭐1.9k)](https://github.com/thoughtbot/ex_machina) - Flexible test factories for Elixir. Works out of the box with Ecto and Ecto associations.
+*   [ex\_machina (⭐2k)](https://github.com/thoughtbot/ex_machina) - Flexible test factories for Elixir. Works out of the box with Ecto and Ecto associations.
 
 ### Screencasts
 
@@ -617,21 +617,21 @@ This book teaches you to use R to effectively visualize and explore complex data
 
 ### Packages / Mad science
 
-*   [turf (⭐9.1k)](https://github.com/Turfjs/turf) - Modular geospatial processing and analysis engine.
+*   [turf (⭐9.4k)](https://github.com/Turfjs/turf) - Modular geospatial processing and analysis engine.
 
 ### Packages / Filesystem
 
-*   [find-up (⭐575)](https://github.com/sindresorhus/find-up) - Find a file by walking up parent directories.
-*   [load-json-file (⭐243)](https://github.com/sindresorhus/load-json-file) - Read and parse a JSON file.
-*   [write-json-file (⭐214)](https://github.com/sindresorhus/write-json-file) - Stringify and write JSON to a file atomically.
+*   [find-up (⭐585)](https://github.com/sindresorhus/find-up) - Find a file by walking up parent directories.
+*   [load-json-file (⭐245)](https://github.com/sindresorhus/load-json-file) - Read and parse a JSON file.
+*   [write-json-file (⭐219)](https://github.com/sindresorhus/write-json-file) - Stringify and write JSON to a file atomically.
 
 ### Packages / Streams
 
-*   [get-stream (⭐340)](https://github.com/sindresorhus/get-stream) - Get a stream as a string or buffer.
+*   [get-stream (⭐342)](https://github.com/sindresorhus/get-stream) - Get a stream as a string or buffer.
 
 ### Packages / Parsing
 
-*   [parse-json (⭐339)](https://github.com/sindresorhus/parse-json) - Parse JSON with more helpful errors.
+*   [parse-json (⭐348)](https://github.com/sindresorhus/parse-json) - Parse JSON with more helpful errors.
 
 ### Packages / Testing
 
@@ -639,7 +639,7 @@ This book teaches you to use R to effectively visualize and explore complex data
 
 ### Packages / Process management
 
-*   [PM2 (⭐41k)](https://github.com/Unitech/pm2) - Advanced Process Manager.
+*   [PM2 (⭐42k)](https://github.com/Unitech/pm2) - Advanced Process Manager.
 
 ### Packages / Miscellaneous
 

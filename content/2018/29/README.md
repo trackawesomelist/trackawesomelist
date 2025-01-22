@@ -95,7 +95,7 @@
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [substitute.js (⭐200)](https://github.com/ffMathy/FluffySpoon.JavaScript.Testing) - A fluent mocking library for TypeScript ported from NSubstitute.
+*   :octocat: [substitute.js (⭐204)](https://github.com/ffMathy/FluffySpoon.JavaScript.Testing) - A fluent mocking library for TypeScript ported from NSubstitute.
 
 ## [11. Awesome Asyncio](/content/timofurrer/awesome-asyncio/week/README.md)
 
@@ -137,11 +137,11 @@
 
 ### UI / Material Design
 
-*   [Unicorn Speed Dial (⭐347)](https://github.com/tiagojencmartins/unicornspeeddial) <!--stargazers:tiagojencmartins/unicornspeeddial--> - Floating Action Button with Speed Dial by [Tiago Martins](https://github.com/tiagojencmartins)
+*   [Unicorn Speed Dial (⭐344)](https://github.com/tiagojencmartins/unicornspeeddial) <!--stargazers:tiagojencmartins/unicornspeeddial--> - Floating Action Button with Speed Dial by [Tiago Martins](https://github.com/tiagojencmartins)
 
 ### Image / Backend-Driven
 
-*   [Cached Network Image (⭐2.4k)](https://github.com/renefloor/flutter_cached_network_image) <!--stargazers:renefloor/flutter_cached_network_image--> - Show images from the internet and keep them in the cache directory by
+*   [Cached Network Image (⭐2.5k)](https://github.com/renefloor/flutter_cached_network_image) <!--stargazers:renefloor/flutter_cached_network_image--> - Show images from the internet and keep them in the cache directory by
 
 ### Storage / Voice
 
@@ -149,20 +149,20 @@
 
 ### Device / Augmented Reality
 
-*   [Badger (⭐306)](https://github.com/g123k/flutter_app_badger) <!--stargazers:g123k/flutter_app_badger--> - Update app badge on the launcher by [Edouard Marquez](https://twitter.com/g123k)
+*   [Badger (⭐307)](https://github.com/g123k/flutter_app_badger) <!--stargazers:g123k/flutter_app_badger--> - Update app badge on the launcher by [Edouard Marquez](https://twitter.com/g123k)
 
 ### State management / Redux / ELM / Dependency Injection
 
-*   [Redux (⭐1.6k)](https://github.com/brianegan/flutter_redux) <!--stargazers:brianegan/flutter_redux--> - Built to work with [redux.dart (⭐513)](https://github.com/johnpryan/redux.dart), utilities that allow you to easily consume a Redux Store to build Widgets
+*   [Redux (⭐1.7k)](https://github.com/brianegan/flutter_redux) <!--stargazers:brianegan/flutter_redux--> - Built to work with [redux.dart (⭐519)](https://github.com/johnpryan/redux.dart), utilities that allow you to easily consume a Redux Store to build Widgets
 
 ### Animation / Redux / ELM / Dependency Injection
 
-*   [Villains (⭐363)](https://github.com/Norbert515/flutter_villains) <!--stargazers:Norbert515/flutter_villains--> - Page transition animations by [Norbert Kozsir](https://twitter.com/norbertkozsir)
+*   [Villains (⭐365)](https://github.com/Norbert515/flutter_villains) <!--stargazers:Norbert515/flutter_villains--> - Page transition animations by [Norbert Kozsir](https://twitter.com/norbertkozsir)
 
 ### Top / Game Engine resources
 
 *   [WhatTodo (⭐1.2k)](https://github.com/burhanrashid52/WhatTodo) <!--stargazers:burhanrashid52/WhatTodo--> - Todoist like UI by [Burhanuddin Rashid](https://about.me/burhanrashid52)
-*   [BookSearch (⭐539)](https://github.com/Norbert515/BookSearch) <!--stargazers:Norbert515/BookSearch--> - Digital BookShelf for your reading progress by [Norbert515](https://github.com/Norbert515)
+*   [BookSearch (⭐544)](https://github.com/Norbert515/BookSearch) <!--stargazers:Norbert515/BookSearch--> - Digital BookShelf for your reading progress by [Norbert515](https://github.com/Norbert515)
 
 ## [15. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
 
@@ -191,15 +191,11 @@
 
 ### Compilers, Transpilers and Languages
 
-*   [PeachPie (⭐2.3k)](https://github.com/peachpiecompiler/peachpie) - PeachPie is a PHP compiler and runtime for .NET and .NET Core, which allows entire PHP applications to run on the modern, secure and performant .NET and .NET Core platforms.
+*   [PeachPie (⭐2.4k)](https://github.com/peachpiecompiler/peachpie) - PeachPie is a PHP compiler and runtime for .NET and .NET Core, which allows entire PHP applications to run on the modern, secure and performant .NET and .NET Core platforms.
 
 ### GUI
 
 *   [MaterialDesignInXamlToolkit](http://materialdesigninxaml.net/) - Toolkit for creating Material Design styled WPF apps
-
-### Web Frameworks
-
-*   [Coalesce](https://coalesce.intellitect.com/) - Coalesce is a framework for rapid-development of ASP.NET Core web applications.
 
 ## [17. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
 
@@ -211,7 +207,7 @@
 
 ### Functional Languages that Compile to JavaScript / Lenses
 
-*   [RacketScript (⭐12)](https://github.com/vishesh/racketscript) – RacketScript aims to leverage both JavaScript and Racket's ecosystem, and make interoperability between them clean and smooth.
+*   [RacketScript (⭐13)](https://github.com/vishesh/racketscript) – RacketScript aims to leverage both JavaScript and Racket's ecosystem, and make interoperability between them clean and smooth.
 
 ## [19. Awesome Open Company](/content/opencompany/awesome-open-company/week/README.md)
 
@@ -321,7 +317,7 @@
 
 ### Documentation
 
-*   [The Cycle-Accurate Game Boy Docs (⭐184)](https://github.com/AntonioND/giibiiadvance/blob/master/docs/TCAGBD.pdf) - A precise documentation by AntonioND to make a cycle-accurate Game Boy emulator.
+*   [The Cycle-Accurate Game Boy Docs (⭐192)](https://github.com/AntonioND/giibiiadvance/blob/master/docs/TCAGBD.pdf) - A precise documentation by AntonioND to make a cycle-accurate Game Boy emulator.
 
 ### Related projects / Syntax highlighting packages
 
@@ -373,7 +369,7 @@
     *   [IntelliJ IDEA](https://www.jetbrains.com/idea/) - Powerful IDE for JVM languages. (**Free** for Students)
     *   [PHPStorm](https://www.jetbrains.com/phpstorm/) - The Lightning-Smart PHP IDE.
     *   [PyCharm](https://www.jetbrains.com/pycharm/) - Powerful Python IDE, which has professional version and community version.
-    *   [Rider](https://www.jetbrains.com/rider/) - Cross-Platform C# IDE. It is an alternative to Visual Studio by Microsoft with the additional benefit of getting Resharper features that are not available on Visual Studio for Mac.
+    *   [Rider](https://www.jetbrains.com/rider/) - Cross-platform C# IDE with Resharper features.
     *   [WebStorm](http://www.jetbrains.com/webstorm/) - The smartest JavaScript IDE by JetBrains. **FREE** for Students, check [here](https://www.jetbrains.com/student/) for more info.
 
 ### Developer Tools / Frameworks For Hybrid Applications
@@ -388,7 +384,7 @@
 
 ### ORM
 
-*   [Perfect-CRUD (⭐63)](https://github.com/PerfectlySoft/Perfect-CRUD) :penguin: - CRUD is an object-relational mapping (ORM) system using Codable protocol.
+*   [Perfect-CRUD (⭐64)](https://github.com/PerfectlySoft/Perfect-CRUD) :penguin: - CRUD is an object-relational mapping (ORM) system using Codable protocol.
 
 ### Network / Barcode
 

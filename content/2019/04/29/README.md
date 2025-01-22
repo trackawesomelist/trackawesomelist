@@ -27,7 +27,7 @@
 
 ### Related Awesome Lists / Mocking
 
-*   [Java Developer Roadmap (⭐3.8k)](https://github.com/s4kibs4mi/java-developer-roadmap)
+*   [Java Developer Roadmap (⭐4k)](https://github.com/s4kibs4mi/java-developer-roadmap)
 
 ## [4. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
@@ -41,30 +41,30 @@
 ### Basic linear algebra
 
 *   [Ginkgo](https://ginkgo-project.github.io/) - High-performance manycore linear algebra library, focus on sparse systems.
-    (C++, BSD, [GitHub (⭐365)](https://github.com/ginkgo-project/ginkgo))
+    (C++, BSD, [GitHub (⭐415)](https://github.com/ginkgo-project/ginkgo))
 
 ### Other libraries and tools / Mesh tools
 
 *   [Chebfun](https://www.chebfun.org/) - Computing with functions to about 15-digit accuracy.
-    (MATLAB, BSD, [GitHub (⭐565)](https://github.com/chebfun/chebfun))
+    (MATLAB, BSD, [GitHub (⭐614)](https://github.com/chebfun/chebfun))
 
 ## [6. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Packages / Command-line apps
 
-*   [npm-name (⭐167)](https://github.com/sindresorhus/npm-name) - Check a package name's availability on npm.
+*   [npm-name (⭐168)](https://github.com/sindresorhus/npm-name) - Check a package name's availability on npm.
 
 ### Packages / Date
 
-*   [Day.js (⭐46k)](https://github.com/iamkun/dayjs) - Immutable date library alternative to Moment.js.
+*   [Day.js (⭐47k)](https://github.com/iamkun/dayjs) - Immutable date library alternative to Moment.js.
 
 ### Packages / Job queues
 
-*   [RedisSMQ (⭐582)](https://github.com/weyoss/redis-smq) - Simple high-performance Redis message queue with real-time monitoring.
+*   [RedisSMQ (⭐597)](https://github.com/weyoss/redis-smq) - Simple high-performance Redis message queue with real-time monitoring.
 
 ### Packages / Natural language processing
 
-*   [nlp.js (⭐6.2k)](https://github.com/axa-group/nlp.js) - Building bots, with entity extraction, sentiment analysis, automatic language identify, and more.
+*   [nlp.js (⭐6.3k)](https://github.com/axa-group/nlp.js) - Building bots, with entity extraction, sentiment analysis, automatic language identify, and more.
 
 ### Resources / Books
 
@@ -80,7 +80,7 @@
 
 ### Awesome Repositories
 
-- Repository: [Windows Exploitation - Advanced (⭐1.4k)](https://github.com/yeyintminthuhtut/Awesome-Advanced-Windows-Exploitation-References)
+- Repository: [Windows Exploitation - Advanced (⭐1.5k)](https://github.com/yeyintminthuhtut/Awesome-Advanced-Windows-Exploitation-References)
 
   Description: List of Awesome Advanced Windows Exploitation References
 

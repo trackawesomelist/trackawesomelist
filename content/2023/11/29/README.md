@@ -27,11 +27,11 @@
 
 ### Go / Erlang
 
-*   [GoFr (⭐1.5k)](https://github.com/gofr-dev/gofr) - An opinionated microservice development framework emphasizing scalability and robustness. Designed to simplify the development of microservices.
+*   [GoFr (⭐3.9k)](https://github.com/gofr-dev/gofr) - An opinionated microservice development framework emphasizing scalability and robustness. Designed to simplify the development of microservices.
 
 ### Java VM / Java
 
-*   [Conjure (⭐80)](https://github.com/palantir/conjure-java-runtime) - Opinionated set of libraries for defining and creating RESTish/RPC servers and clients based on Feign or Retrofit as a client and Dropwizard/Jersey with JAX-RS service definitions as a server.
+*   [Conjure (⭐79)](https://github.com/palantir/conjure-java-runtime) - Opinionated set of libraries for defining and creating RESTish/RPC servers and clients based on Feign or Retrofit as a client and Dropwizard/Jersey with JAX-RS service definitions as a server.
 
 ### Node.js / Scala
 
@@ -40,11 +40,11 @@
 
 ### Rust / Scala
 
-*   [Tower (⭐3.4k)](https://github.com/tower-rs/tower) - Library of modular and reusable components for building robust networking clients and servers.
+*   [Tower (⭐3.6k)](https://github.com/tower-rs/tower) - Library of modular and reusable components for building robust networking clients and servers.
 
-### Coordination & Governance / Scala
+### Workflow Orchestration / Scala
 
-*   [Kestra (⭐7.2k)](https://github.com/kestra-io/kestra) - Open source microservices event-driven, language-agnostic orchestration and scheduling platform.
+*   [Kestra (⭐15k)](https://github.com/kestra-io/kestra) - Open source microservices event-driven, language-agnostic orchestration and scheduling platform.
 
 ### Elasticity / Scala
 
@@ -52,7 +52,7 @@
 
 ### Self-sovereignty & Decentralisation / Scala
 
-*   [DIDComm (⭐163)](https://github.com/decentralized-identity/didcomm-messaging) - Private communication methodology built atop the decentralized design of DIDs.
+*   [DIDComm (⭐172)](https://github.com/decentralized-identity/didcomm-messaging) - Private communication methodology built atop the decentralized design of DIDs.
 
 ### RPC / Scala
 
@@ -70,7 +70,7 @@
 
 ### Emulator Development / Misc
 
-*   [Emulation of Nintendo Game Boy (⭐4.3k)](https://github.com/Baekalfen/PyBoy/blob/master/extras/PyBoy.pdf) - Overview of the Game Boy hardware with the perspective of building an emulator.
+*   [Emulation of Nintendo Game Boy (⭐4.7k)](https://github.com/Baekalfen/PyBoy/blob/master/extras/PyBoy.pdf) - Overview of the Game Boy hardware with the perspective of building an emulator.
 
 ## [5. Magictools](/content/ellisonleao/magictools/README.md)
 
@@ -82,12 +82,12 @@
 
 ### Markdown and LaTeX / Diagnostics
 
-*   [tadmccorkle/markdown.nvim (⭐116)](https://github.com/tadmccorkle/markdown.nvim) - Configurable tools for markdown files, including inline-style, link, and navigation keymaps, table of contents, improved list editing, and more.
+*   [tadmccorkle/markdown.nvim (⭐176)](https://github.com/tadmccorkle/markdown.nvim) - Configurable tools for markdown files, including inline-style, link, and navigation keymaps, table of contents, improved list editing, and more.
 
 ### Utility / Diagnostics
 
-*   [yutkat/confirm-quit.nvim (⭐22)](https://github.com/yutkat/confirm-quit.nvim) - Confirm before quitting Neovim.
-*   [bgaillard/readonly.nvim (⭐14)](https://github.com/bgaillard/readonly.nvim) - Secure edition of files containing sensible / secret information, passwords, API keys, SSH keys, etc.
+*   [yutkat/confirm-quit.nvim (⭐23)](https://github.com/yutkat/confirm-quit.nvim) - Confirm before quitting Neovim.
+*   [bgaillard/readonly.nvim (⭐17)](https://github.com/bgaillard/readonly.nvim) - Secure edition of files containing sensible / secret information, passwords, API keys, SSH keys, etc.
 
 ## [7. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/README.md)
 
@@ -126,35 +126,35 @@
 *   [Adversarial Attacks on LLMs | Lil'Log](https://lilianweng.github.io/posts/2023-10-25-adv-attack-llm/)
 *   [Not what you've signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection](https://arxiv.org/abs/2302.12173)
 *   [Attacking Large Language Models](https://systemweakness.com/attacking-large-language-models-37229085d4ff): an overview of the current attack techniques on LLMs by Marcello Carboni
-*   [corca-ai/awesome-llm-security (⭐831)](https://github.com/corca-ai/awesome-llm-security): A curation of awesome tools, documents and projects about LLM Security.
+*   [corca-ai/awesome-llm-security (⭐1k)](https://github.com/corca-ai/awesome-llm-security): A curation of awesome tools, documents and projects about LLM Security.
 *   [Adversarial Prompting](https://www.promptingguide.ai/risks/adversarial): a list of adversarial prompts attacks by Prompt Engineering Guide
 
 ## [9. Awesome Userscripts](/content/bvolpato/awesome-userscripts/README.md)
 
 ### Scripts / GitHub
 
-*   [GitHub Commit Diff (⭐336)](https://github.com/jerone/UserScripts/tree/master/Github_Commit_Diff#readme) - Adds button to show diff (or patch) file for commit.
-*   [GitHub News Feed Filter (⭐336)](https://github.com/jerone/UserScripts/tree/master/Github_News_Feed_Filter#readme) - Add filters for Github homepage news feed items.
-*   [GitHub Pages Linker (⭐336)](https://github.com/jerone/UserScripts/tree/master/Github_Pages_Linker#readme) - Add a link to Github Pages (gh-pages) when available.
-*   [GitHub Pull Request From Link (⭐336)](https://github.com/jerone/UserScripts/tree/master/Github_Pull_Request_From#readme) - Make pull request branches linkable.
-*   [GitHub Reply Comments (⭐336)](https://github.com/jerone/UserScripts/tree/master/Github_Reply_Comments#readme) - Easy reply to Github comments.
+*   [GitHub Commit Diff (⭐341)](https://github.com/jerone/UserScripts/tree/master/Github_Commit_Diff#readme) - Adds button to show diff (or patch) file for commit.
+*   [GitHub News Feed Filter (⭐341)](https://github.com/jerone/UserScripts/tree/master/Github_News_Feed_Filter#readme) - Add filters for Github homepage news feed items.
+*   [GitHub Pages Linker (⭐341)](https://github.com/jerone/UserScripts/tree/master/Github_Pages_Linker#readme) - Add a link to Github Pages (gh-pages) when available.
+*   [GitHub Pull Request From Link (⭐341)](https://github.com/jerone/UserScripts/tree/master/Github_Pull_Request_From#readme) - Make pull request branches linkable.
+*   [GitHub Reply Comments (⭐341)](https://github.com/jerone/UserScripts/tree/master/Github_Reply_Comments#readme) - Easy reply to Github comments.
 *   [GitHub Skip Delete Repo Verification](https://greasyfork.org/en/scripts/411790-skip-delete-repo-verification) - Skips the verification step when deleting a repository.
 
 ## [10. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
 ### Public Data Resources / Land Use and Land Cover
 
-*   [National Zoning & Land Use Database (⭐41)](https://github.com/mtmleczko/nzlud/tree/main) - This GitHub project catalogs major metros municipal zoning ordinances in plain text. It can be a useful reference for comparing ordinances or perhaps fine tuning language models.
+*   [National Zoning & Land Use Database (⭐49)](https://github.com/mtmleczko/nzlud/tree/main) - This GitHub project catalogs major metros municipal zoning ordinances in plain text. It can be a useful reference for comparing ordinances or perhaps fine tuning language models.
 
 ## [11. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/README.md)
 
 ### Action
 
-*   [TR1X (⭐466)](https://github.com/LostArtefacts/TR1X) - Open source implementation of the classic Tomb Raider I game.
+*   [TR1X (⭐586)](https://github.com/LostArtefacts/TR1X) - Open source implementation of the classic Tomb Raider I game.
 
 ## [12. Awesome Ci](/content/ligurio/awesome-ci/README.md)
 
-- Name: [Pipelight (⭐272)](https://github.com/pipelight/pipelight)
+- Name: [Pipelight (⭐499)](https://github.com/pipelight/pipelight)
 
   Description: Tiny rust cli to run automation pipelines.
 
@@ -164,7 +164,7 @@
 
   Documentation: [Documentation](https://pipelight.dev)
 
-  Price: [Free & Open Source (⭐272)](https://github.com/pipelight/pipelight/LICENSE.md)
+  Price: [Free & Open Source (⭐499)](https://github.com/pipelight/pipelight/LICENSE.md)
 
   Stars: [![Stars](https://img.shields.io/github/stars/pipelight/pipelight.svg)](https://github.com/pipelight/pipelight)
 

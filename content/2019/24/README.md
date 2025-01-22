@@ -153,7 +153,7 @@
 
 ### Modals and Popups / Paid Books
 
-*   [iziModal (⭐2.1k)](https://github.com/marcelodolza/iziModal) - Elegant, responsive, flexible and lightweight modal plugin with jQuery.
+*   [iziModal (⭐2.2k)](https://github.com/marcelodolza/iziModal) - Elegant, responsive, flexible and lightweight modal plugin with jQuery.
 
 ### Tables / Paid Books
 
@@ -169,7 +169,7 @@
 
 ### Alternatives / Paid Books
 
-*   [cash (⭐6k)](https://github.com/kenwheeler/cash) - small jQuery alternative for modern browsers. Includes all API with deliberate exception for ajax.
+*   [cash (⭐6.5k)](https://github.com/kenwheeler/cash) - small jQuery alternative for modern browsers. Includes all API with deliberate exception for ajax.
 *   [Zepto](https://zeptojs.com/) - small jQuery alternative, which includes ajax, effects and additional utilities.
 *   [jBone](http://jbone.js.org/) - jQuery implementation to use with Backbone. Supports only subset of API which is required for Backbone to work. Can be a byte-saver if you don't intend to use jQuery directly, but have Backbone in your project.
 
@@ -263,7 +263,7 @@
 
 ### Software / Algorithms
 
-*   [Linkcomm - Link Communities in Complex Networks (⭐90)](https://github.com/bagrow/linkcomm) - Community detection algorithms, available in C++, Python [and R](https://CRAN.R-project.org/package=linkcomm).
+*   [Linkcomm - Link Communities in Complex Networks (⭐91)](https://github.com/bagrow/linkcomm) - Community detection algorithms, available in C++, Python [and R](https://CRAN.R-project.org/package=linkcomm).
 
 ### Software / Python
 
@@ -279,39 +279,10 @@
 *   [TNT: The Network Thinkers](http://www.thenetworkthinkers.com/) - Valdis Krebs’ blog.
 *   [Under Roquentin’s Chestnut Tree](https://mboudour.github.io/) - Moses Boudourides’ blog on analyzing (mostly) networks with Python.
 
-## [12. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
-
-### Host-based tools / Tarpits
-
-*   [chkrootkit](http://chkrootkit.org/) - Locally checks for signs of a rootkit on GNU/Linux systems.
-
-### Host-based tools / Sandboxes
-
-*   [Firejail](https://firejail.wordpress.com/) - SUID program that reduces the risk of security breaches by restricting the running environment of untrusted applications using Linux namespaces and seccomp-bpf.
-
-## [13. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
-
-### Functions as a Service
-
-*   [StackPath EdgeEngine](https://www.stackpath.com/products/edgeengine/) - Write functions as a service in the language of your choice and deploy them to a global network of data centers. All the networking, including intelligent routing and load balancing, is managed by StackPath over a private backbone.
-
-## [14. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
-
-### Packages / External Components Integration
-
-*   [ember-functional-component (⭐11)](https://github.com/rwjblue/ember-functional-component) - Attempting to use "pure functions" as components.
-
-## [15. Awesome Xamarin](/content/XamSome/awesome-xamarin/week/README.md)
-
-### UI
-
-*   [Animated Icon Button (⭐11)](https://github.com/HankiDesign/DOFavoriteButton.Xamarin) - An animated icon button for Xamarin.iOS.
-
-## [16. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [12. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Community
 
-*   [VueJS Finland - Meetup](https://www.meetup.com/vuejs-finland/)
 *   [VueJS Finland - Facebook Page](https://www.facebook.com/vuejsfinland/)
 
 ### Resources / Tutorials
@@ -326,32 +297,49 @@
 ### Projects Using Vue.js / Open Source
 
 *   [Thermal](https://thermal.codecarrot.net) - One stop to all Git repository.
-*   [QMK Configurator (⭐680)](https://github.com/qmk/qmk_configurator) - QMK Firmware Keyboard Configuration UI in Vue.js.
+*   [QMK Configurator (⭐712)](https://github.com/qmk/qmk_configurator) - QMK Firmware Keyboard Configuration UI in Vue.js.
 
 ### Components & Libraries / Frameworks
 
-*   [CabloyJS (⭐942)](https://github.com/zhennann/cabloy) The Ultimate NodeJS Full Stack Business Development Platform, based on KoaJS & EggJS & VueJS & Framework7
+*   [CabloyJS (⭐955)](https://github.com/zhennann/cabloy) The Ultimate NodeJS Full Stack Business Development Platform, based on KoaJS & EggJS & VueJS & Framework7
 
-### Components & Libraries / UI Components
+## [13. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
-*   [@innologica/vue-stackable-modal (⭐37)](https://github.com/Innologica/vue-stackable-modal) - Library for modal dialogs which can be stacked. Fully customizable and very easy to use.
-*   [simple-vue2-datetimepicker (⭐3)](https://github.com/jamespjarvis/simple-vue2-datetimepicker) - A simple, easy to use vue.js component for date and time picking. :new:
-*   [vue-business-hours (⭐50)](https://github.com/sbarry50/vue-business-hours) - Vue component for selecting business hours in an administration panel or dashboard.
-*   [material-vue-daterange-picker (⭐73)](https://github.com/ly525/material-vue-daterange-picker) - a daterange picker of Material Design style for Vuejs 2.x, which is compatible with vuetify and friendly for mobile.
+### Host-based tools / Tarpits
 
-### Components & Libraries / UI Utilities
+*   [chkrootkit](http://chkrootkit.org/) - Locally checks for signs of a rootkit on GNU/Linux systems.
 
-*   [vue-backtotop (⭐184)](https://github.com/caiofsouza/vue-backtotop) - A Back-to-top component for Vue.js, which scroll page to the top when clicked.
+### Host-based tools / Sandboxes
+
+*   [Firejail](https://firejail.wordpress.com/) - SUID program that reduces the risk of security breaches by restricting the running environment of untrusted applications using Linux namespaces and seccomp-bpf.
+
+## [14. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
+
+### Functions as a Service
+
+*   [StackPath EdgeEngine](https://www.stackpath.com/products/edgeengine/) - Write functions as a service in the language of your choice and deploy them to a global network of data centers. All the networking, including intelligent routing and load balancing, is managed by StackPath over a private backbone.
+
+## [15. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+
+### Packages / External Components Integration
+
+*   [ember-functional-component (⭐11)](https://github.com/rwjblue/ember-functional-component) - Attempting to use "pure functions" as components.
+
+## [16. Awesome Xamarin](/content/XamSome/awesome-xamarin/week/README.md)
+
+### UI
+
+*   [Animated Icon Button (⭐11)](https://github.com/HankiDesign/DOFavoriteButton.Xamarin) - An animated icon button for Xamarin.iOS.
 
 ## [17. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
 
 ### Github Libraries / Randomized Algorithms
 
 *   C++
-    *   [by @xtaci (⭐5.2k)](https://github.com/xtaci/algorithms)
-    *   [by @PetarV- (⭐634)](https://github.com/PetarV-/Algorithms)
-    *   [by @faheel (⭐507)](https://github.com/faheel/Algos)
-    *   [by @sslotin (⭐180)](http://github.com/sslotin/algo)
+    *   [by @xtaci (⭐5.3k)](https://github.com/xtaci/algorithms)
+    *   [by @PetarV- (⭐645)](https://github.com/PetarV-/Algorithms)
+    *   [by @faheel (⭐510)](https://github.com/faheel/Algos)
+    *   [by @sslotin (⭐193)](http://github.com/sslotin/algo)
 
 ## [18. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
 
@@ -382,7 +370,7 @@
 
 ### Other
 
-*   [luna (⭐998)](https://github.com/rvpanoz/luna) - App to manage npm dependencies.
+*   [luna (⭐1k)](https://github.com/rvpanoz/luna) - App to manage npm dependencies.
 *   [emma-cli (⭐1.2k)](https://github.com/maticzav/emma-cli) - Interactive CLI package search utility.
 
 ## [23. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/week/README.md)
@@ -413,20 +401,20 @@
 
 ### UI
 
-*   [Direct Select (⭐756)](https://github.com/LanarsInc/direct-select-flutter) <!--stargazers:LanarsInc/direct-select-flutter--> - Selection widget with an ethereal, full-screen modal popup by [Ivan Yatsouba](https://github.com/iyatsouba).
+*   [Direct Select (⭐786)](https://github.com/LanarsInc/direct-select-flutter) <!--stargazers:LanarsInc/direct-select-flutter--> - Selection widget with an ethereal, full-screen modal popup by [Ivan Yatsouba](https://github.com/iyatsouba).
 
 ### Charts / Image Picker
 
-*   [FL Chart (⭐6.6k)](https://github.com/imaNNeoFighT/fl_chart) <!--stargazers:imaNNeoFighT/fl_chart--> - Draw fantastic charts in Flutter by [Iman Khoshabi](http://www.ikhoshabi.com)
+*   [FL Chart (⭐6.9k)](https://github.com/imaNNeoFighT/fl_chart) <!--stargazers:imaNNeoFighT/fl_chart--> - Draw fantastic charts in Flutter by [Iman Khoshabi](http://www.ikhoshabi.com)
 
 ### Monetization / Preferences
 
-*   [Facebook Audience Network (⭐153)](https://github.com/dreamsoftin/facebook_audience_network) - Facebook Audience Network Ad plugin that shows banner, interstitial, in-stream video, rewarded video & natvie ads by [Dreamsoft Innovations](https://github.com/dreamsoftin).
-*   [Square In-App Payments SDK (⭐331)](https://github.com/square/in-app-payments-flutter-plugin) <!--stargazers:square/in-app-payments-flutter-plugin--> - Take payments by embedding a card entry form in your app that produces nonces from customer-provided card information or digital wallets by [Square](https://github.com/orgs/square)
+*   [Facebook Audience Network (⭐158)](https://github.com/dreamsoftin/facebook_audience_network) - Facebook Audience Network Ad plugin that shows banner, interstitial, in-stream video, rewarded video & native ads by [Dreamsoft Innovations](https://github.com/dreamsoftin).
+*   [Square In-App Payments SDK (⭐340)](https://github.com/square/in-app-payments-flutter-plugin) <!--stargazers:square/in-app-payments-flutter-plugin--> - Take payments by embedding a card entry form in your app that produces nonces from customer-provided card information or digital wallets by [Square](https://github.com/orgs/square)
 
 ### Top / Game Engine resources
 
-*   [Reply (⭐562)](https://github.com/flschweiger/reply) <!--stargazers:flschweiger/reply--> - 'Reply' Material Design case study by [Frederik Schweiger](https://github.com/flschweiger)
+*   [Reply (⭐559)](https://github.com/flschweiger/reply) <!--stargazers:flschweiger/reply--> - 'Reply' Material Design case study by [Frederik Schweiger](https://github.com/flschweiger)
 
 ## [27. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
 
@@ -439,7 +427,7 @@
 
 ### Notifications and Messages / Code Coverage
 
-*   [Send a Push Notification via Push by Techulus (⭐58)](https://github.com/techulus/push-github-action)
+*   [Send a Push Notification via Push by Techulus (⭐71)](https://github.com/techulus/push-github-action)
 
 ## [29. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
 
@@ -452,7 +440,7 @@
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
-*   [Prodmodel (⭐59)](https://github.com/prodmodel/prodmodel) - Build tool for data science pipelines.
+*   [Prodmodel (⭐58)](https://github.com/prodmodel/prodmodel) - Build tool for data science pipelines.
 
 ### Julia / General-Purpose Machine Learning
 
@@ -460,15 +448,15 @@
 
 ### Julia / Natural Language Processing
 
-*   [Word Tokenizers (⭐97)](https://github.com/JuliaText/WordTokenizers.jl) - Tokenizers for Natural Language Processing in Julia
+*   [Word Tokenizers (⭐96)](https://github.com/JuliaText/WordTokenizers.jl) - Tokenizers for Natural Language Processing in Julia
 *   [Corpus Loaders (⭐32)](https://github.com/JuliaText/CorpusLoaders.jl) - A Julia package providing a variety of loaders for various NLP corpora.
 *   [Embeddings (⭐81)](https://github.com/JuliaText/Embeddings.jl) - Functions and data dependencies for loading various word embeddings
 *   [Languages (⭐54)](https://github.com/JuliaText/Languages.jl) - Julia package for working with various human languages
-*   [WordNet (⭐35)](https://github.com/JuliaText/WordNet.jl) - A Julia package for Princeton's WordNet
+*   [WordNet (⭐34)](https://github.com/JuliaText/WordNet.jl) - A Julia package for Princeton's WordNet
 
 ### Julia / Misc Stuff / Presentations
 
-*   [DataDeps (⭐150)](https://github.com/oxinabox/DataDeps.jl) - Reproducible data setup for reproducible science.
+*   [DataDeps (⭐151)](https://github.com/oxinabox/DataDeps.jl) - Reproducible data setup for reproducible science.
 
 ## [31. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
@@ -538,7 +526,7 @@
 
 ### Scala / Symfony2
 
-*   [Chaos (⭐249)](https://github.com/mesosphere/chaos) - A lightweight framework for writing REST services in Scala.
+*   [Chaos (⭐250)](https://github.com/mesosphere/chaos) - A lightweight framework for writing REST services in Scala.
 
 ## [39. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
@@ -659,7 +647,7 @@
 
 ### Graphic Displays
 
-*   [ggstatsplot (⭐1.9k)](https://github.com/IndrajeetPatil/ggstatsplot) - ggplot2 Based Plots with Statistical Details
+*   [ggstatsplot (⭐2k)](https://github.com/IndrajeetPatil/ggstatsplot) - ggplot2 Based Plots with Statistical Details
 
 ## [49. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
@@ -677,16 +665,16 @@
 
 ### Theory
 
-*   [Algorithms (⭐19k)](https://github.com/tayllan/awesome-algorithms#readme)
-    *   [Education (⭐597)](https://github.com/gaerae/awesome-algorithms-education#readme) - Learning and practicing.
+*   [Algorithms (⭐21k)](https://github.com/tayllan/awesome-algorithms#readme)
+    *   [Education (⭐827)](https://github.com/gaerae/awesome-algorithms-education#readme) - Learning and practicing.
 
 ### Gaming
 
-*   [Game Datasets (⭐689)](https://github.com/leomaurodesenv/game-datasets#readme) - Materials and datasets for Artificial Intelligence in games.
+*   [Game Datasets (⭐750)](https://github.com/leomaurodesenv/game-datasets#readme) - Materials and datasets for Artificial Intelligence in games.
 
 ### Security
 
-*   [Fuzzing (⭐808)](https://github.com/cpuu/awesome-fuzzing#readme) - Automated software testing technique that involves feeding pseudo-randomly generated input data.
+*   [Fuzzing (⭐847)](https://github.com/cpuu/awesome-fuzzing#readme) - Automated software testing technique that involves feeding pseudo-randomly generated input data.
 
 ---
 

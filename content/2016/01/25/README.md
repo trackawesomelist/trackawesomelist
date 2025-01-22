@@ -60,7 +60,7 @@
 
 ### Packages / Filesystem
 
-*   [pkg-dir (⭐235)](https://github.com/sindresorhus/pkg-dir) - Find the root directory of an npm package.
+*   [pkg-dir (⭐237)](https://github.com/sindresorhus/pkg-dir) - Find the root directory of an npm package.
 
 ## [4. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/README.md)
 
@@ -104,11 +104,11 @@
 
 ### Core Extensions
 
-*   [Hanami::Utils (⭐174)](https://github.com/hanami/utils) - Lightweight, non-monkey-patch class utilities for Hanami and Ruby app.
+*   [Hanami::Utils (⭐172)](https://github.com/hanami/utils) - Lightweight, non-monkey-patch class utilities for Hanami and Ruby app.
 
 ### ORM/ODM
 
-*   [Hanami::Model (⭐445)](https://github.com/hanami/model) - A lean Repository-pattern based ORM framework for Hanami and modern Ruby applications.
+*   [Hanami::Model (⭐441)](https://github.com/hanami/model) - A lean Repository-pattern based ORM framework for Hanami and modern Ruby applications.
 
 ### Web Frameworks
 

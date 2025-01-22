@@ -10,7 +10,7 @@
 
 ### Applications / Database
 
-*   [ParityDB (⭐259)](https://github.com/paritytech/parity-db) - Fast and reliable database, optimised for read operation
+*   [ParityDB (⭐266)](https://github.com/paritytech/parity-db) - Fast and reliable database, optimised for read operation
 
 ## [2. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
@@ -44,7 +44,7 @@
 
 ### Misc / Other
 
-*   [iooxa (⭐176)](https://github.com/iooxa/article) - Components for interactive scientific writing, reactive documents and explorable explanations.
+*   [iooxa (⭐178)](https://github.com/iooxa/article) - Components for interactive scientific writing, reactive documents and explorable explanations.
 
 ## [6. Awesome Tap](/content/sindresorhus/awesome-tap/README.md)
 
@@ -83,16 +83,16 @@
 
 ### Migration tools
 
-*   [cl-migratum (⭐42)](https://github.com/dnaeon/cl-migratum) - a system which provides facilities for performing database schema migrations, designed to work with various databases. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
-*   [postmodern-passenger-pigeon (⭐8)](https://github.com/fisxoj/postmodern-passenger-pigeon/) - a migration manager for postmodern. No licence specified.
+*   [cl-migratum (⭐45)](https://github.com/dnaeon/cl-migratum) - a system which provides facilities for performing database schema migrations, designed to work with various databases. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
+*   [postmodern-passenger-pigeon (⭐9)](https://github.com/fisxoj/postmodern-passenger-pigeon/) - a migration manager for postmodern. No licence specified.
 
 ### Web frameworks / Clack plugins
 
-*   [cl-rest-server (⭐67)](https://github.com/mmontone/cl-rest-server) - a library for writing REST web APIs. Features validation with schemas, annotations for logging, caching, permissions or authentication, documentation via Swagger, etc. [MIT](https://opensource.org/licenses/MIT).
+*   [cl-rest-server (⭐68)](https://github.com/mmontone/cl-rest-server) - a library for writing REST web APIs. Features validation with schemas, annotations for logging, caching, permissions or authentication, documentation via Swagger, etc. [MIT](https://opensource.org/licenses/MIT).
 
 ### Others / OpenAPI, OData, OpenRPC
 
-*   [cl-odata-client (⭐5)](https://github.com/copyleft/cl-odata-client) - Common Lisp client library for accessing [OData services](https://www.odata.org). [MIT](https://opensource.org/licenses/MIT).
+*   [cl-odata-client (⭐6)](https://github.com/copyleft/cl-odata-client) - Common Lisp client library for accessing [OData services](https://www.odata.org). [MIT](https://opensource.org/licenses/MIT).
 
 ## [11. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
@@ -169,7 +169,7 @@
 
 ### Table of Contents / Data Pipeline
 
-*   [Gazette (⭐693)](https://github.com/gazette/core) \[golang] - Distributed streaming infrastructure built on cloud storage which makes it easy to mix and match batch and streaming paradigms.
+*   [Gazette (⭐728)](https://github.com/gazette/core) \[golang] - Distributed streaming infrastructure built on cloud storage which makes it easy to mix and match batch and streaming paradigms.
 
 ## [22. Public Apis](/content/public-apis/public-apis/README.md)
 

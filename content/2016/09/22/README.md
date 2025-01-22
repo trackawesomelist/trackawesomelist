@@ -43,14 +43,14 @@
 
 ### Applications / Episodes
 
-*   [CANToolz (⭐304)](https://github.com/eik00d/CANToolz) - CANToolz is a framework for analysing CAN networks and devices. It is based on several modules which can be assembled in a pipeline.
+*   [CANToolz (⭐307)](https://github.com/eik00d/CANToolz) - CANToolz is a framework for analysing CAN networks and devices. It is based on several modules which can be assembled in a pipeline.
 *   [BUSMASTER](https://rbei-etas.github.io/busmaster/) -An Open Source tool to simulate, analyze and test data bus systems such as CAN, LIN, FlexRay.
 
 ## [3. Awesome Npm](/content/sindresorhus/awesome-npm/README.md)
 
 ### Other
 
-*   [shrinkpack (⭐792)](https://github.com/JamieMason/shrinkpack) - Lock down your dependencies and install offline.
+*   [shrinkpack (⭐793)](https://github.com/JamieMason/shrinkpack) - Lock down your dependencies and install offline.
 
 ## [4. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 

@@ -99,11 +99,11 @@
 
 ### Math
 
-*   [MIRACL (⭐638)](https://github.com/CertiVox/MIRACL) - A Multiprecision Integer and Rational Arithmetic Cryptographic Library. \[AGPL]
+*   [MIRACL (⭐664)](https://github.com/CertiVox/MIRACL) - A Multiprecision Integer and Rational Arithmetic Cryptographic Library. \[AGPL]
 
 ### Miscellaneous
 
-*   [access\_profiler (⭐73)](https://github.com/arvidn/access_profiler) - A tool to count accesses to member variables in c++ programs. \[GPL3]
+*   [access\_profiler (⭐75)](https://github.com/arvidn/access_profiler) - A tool to count accesses to member variables in c++ programs. \[GPL3]
 
 ## [14. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
@@ -165,7 +165,7 @@
 
 ### Configuration
 
-*   [figaro\_elixir (⭐10)](https://github.com/KamilLelonek/figaro-elixir) - Environmental variables manager for Elixir.
+*   [figaro\_elixir (⭐11)](https://github.com/KamilLelonek/figaro-elixir) - Environmental variables manager for Elixir.
 
 ### Testing
 
@@ -173,23 +173,23 @@
 
 ### Text and Numbers
 
-*   [inet\_cidr (⭐48)](https://github.com/cobenian/inet_cidr) - Classless Inter-Domain Routing (CIDR) for Elixir that is compatible with :inet and supports both IPv4 and IPv6.
+*   [inet\_cidr (⭐49)](https://github.com/cobenian/inet_cidr) - Classless Inter-Domain Routing (CIDR) for Elixir that is compatible with :inet and supports both IPv4 and IPv6.
 
 ### Third Party APIs
 
-*   [coinbase (⭐12)](https://github.com/gregpardo/coinbase-elixir) - A unofficial Coinbase API v1 Client.
+*   [coinbase (⭐13)](https://github.com/gregpardo/coinbase-elixir) - A unofficial Coinbase API v1 Client.
 
 ### YAML
 
-*   [yaml\_elixir (⭐171)](https://github.com/KamilLelonek/yaml-elixir) - Yaml parser for Elixir based on native Erlang implementation.
+*   [yaml\_elixir (⭐174)](https://github.com/KamilLelonek/yaml-elixir) - Yaml parser for Elixir based on native Erlang implementation.
 
 ## [20. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Awesome TypeScript Essential Resources
 
 *   :books: [Handbook - Welcome to TypeScript](http://www.typescriptlang.org/Handbook) the official resource for learning TypeScript
-*   :octocat: [Microsoft/TypeScript on Github (⭐99k)](https://github.com/Microsoft/TypeScript) fork TypeScript on Github! Or... just read the code
-*   :octocat:[The official TypeScript Roadmap (⭐99k)](https://github.com/Microsoft/TypeScript/wiki/Roadmap)
+*   :octocat: [Microsoft/TypeScript on Github (⭐102k)](https://github.com/Microsoft/TypeScript) fork TypeScript on Github! Or... just read the code
+*   :octocat:[The official TypeScript Roadmap (⭐102k)](https://github.com/Microsoft/TypeScript/wiki/Roadmap)
 *   :books: [TypeScript Team Blog](http://blogs.msdn.com/b/typescript/) with announcements and recent updates
 
 ### Build Systems / Playground
@@ -385,11 +385,11 @@ git worktree add --detach <path> HEAD
 
 ### Java / General-Purpose Machine Learning
 
-*   [H2O (⭐6.8k)](https://github.com/h2oai/h2o-3) - ML engine that supports distributed learning on Hadoop, Spark or your laptop via APIs in R, Python, Scala, REST/JSON.
+*   [H2O (⭐7k)](https://github.com/h2oai/h2o-3) - ML engine that supports distributed learning on Hadoop, Spark or your laptop via APIs in R, Python, Scala, REST/JSON.
 
 ### Scala / General-Purpose Machine Learning
 
-*   [H2O Sparkling Water (⭐958)](https://github.com/h2oai/sparkling-water) - H2O and Spark interoperability.
+*   [H2O Sparkling Water (⭐968)](https://github.com/h2oai/sparkling-water) - H2O and Spark interoperability.
 
 ---
 

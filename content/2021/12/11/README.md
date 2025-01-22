@@ -10,13 +10,13 @@
 
 ### Navigation / Image Picker
 
-*   [go\_router (⭐440)](https://github.com/csells/go_router) <!--stargazers:csells/go_router--> - Declarative routes to reduce complexity, deep linking for mobile and the web while maintaining developer experience by [Chris Sells](https://github.com/csells).
+*   [go\_router (⭐442)](https://github.com/csells/go_router) <!--stargazers:csells/go_router--> - Declarative routes to reduce complexity, deep linking for mobile and the web while maintaining developer experience by [Chris Sells](https://github.com/csells).
 
 ## [2. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
 ### Community Extensions
 
-*   [Keycloak: Home IdP Discovery extension (⭐242)](https://github.com/sventorben/keycloak-home-idp-discovery)
+*   [Keycloak: Home IdP Discovery extension (⭐273)](https://github.com/sventorben/keycloak-home-idp-discovery)
 
 ## [3. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
@@ -48,19 +48,19 @@
 
 ### Examples
 
-*   [zenml-io/zenml (⭐3.8k)](https://github.com/zenml-io/zenml#readme) - Clean project logo. Useful TOC. Clear code examples amongst the feature list. Quickstart example.
+*   [zenml-io/zenml (⭐4.3k)](https://github.com/zenml-io/zenml#readme) - Clean project logo. Useful TOC. Clear code examples amongst the feature list. Quickstart example.
 
 ## [6. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
 ### Auth
 
-*   [AuthX (⭐762)](https://github.com/yezz123/AuthX) - Customizable Authentications and Oauth2 management for FastAPI.
-*   [FastAPI Security (⭐138)](https://github.com/jacobsvante/fastapi-security) - Implements authentication and authorization as dependencies in FastAPI.
+*   [AuthX (⭐851)](https://github.com/yezz123/AuthX) - Customizable Authentications and Oauth2 management for FastAPI.
+*   [FastAPI Security (⭐144)](https://github.com/jacobsvante/fastapi-security) - Implements authentication and authorization as dependencies in FastAPI.
 
 ### Utils / Other Tools
 
-*   [ASGI Correlation ID (⭐387)](https://github.com/snok/asgi-correlation-id) - Request ID logging middleware.
-*   [FastAPI Cache (⭐1.2k)](https://github.com/long2ice/fastapi-cache) - A tool to cache FastAPI response and function results, with support for Redis, Memcached, DynamoDB, and in-memory backends.
+*   [ASGI Correlation ID (⭐451)](https://github.com/snok/asgi-correlation-id) - Request ID logging middleware.
+*   [FastAPI Cache (⭐1.4k)](https://github.com/long2ice/fastapi-cache) - A tool to cache FastAPI response and function results, with support for Redis, Memcached, DynamoDB, and in-memory backends.
 
 ### Tutorials / Other Tools
 
@@ -74,7 +74,7 @@
 
 ### Blockchain dump
 
-*   [Chaingraph (⭐48)](https://github.com/bitauth/chaingraph/) – A multi-node blockchain indexer and GraphQL API.
+*   [Chaingraph (⭐53)](https://github.com/bitauth/chaingraph/) – A multi-node blockchain indexer and GraphQL API.
 
 ## [8. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
@@ -86,7 +86,7 @@
 
 ### Python / Git
 
-*   [ecdsa (⭐902)](https://github.com/tlsfuzzer/python-ecdsa) - An easy-to-use implementation of ECC with support for ECDSA and ECDH.
+*   [ecdsa (⭐915)](https://github.com/tlsfuzzer/python-ecdsa) - An easy-to-use implementation of ECC with support for ECDSA and ECDH.
 
 ## [10. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -244,7 +244,7 @@
   CORS: No
 
 
-- API: [SpaceX (⭐10k)](https://github.com/r-spacex/SpaceX-API)
+- API: [SpaceX (⭐11k)](https://github.com/r-spacex/SpaceX-API)
 
   Description: Company, vehicle, launchpad and launch data
 

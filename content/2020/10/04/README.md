@@ -21,21 +21,21 @@
 
 ## [2. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
-### Threat Intelligence / Telegram
+### Threat Intelligence / Steam
 
-*   [OnionScan (⭐2.8k)](https://github.com/s-rah/onionscan) - Free and open source tool for investigating the Dark Web. Its main goal is to help researchers and investigators monitor and track Dark Web sites.
+*   [OnionScan (⭐2.9k)](https://github.com/s-rah/onionscan) - Free and open source tool for investigating the Dark Web. Its main goal is to help researchers and investigators monitor and track Dark Web sites.
 
 ## [3. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 
-### Tools and frameworks
+### Tools and frameworks (a-z↓)
 
-*   [Selenide (⭐1.8k)](https://github.com/selenide/selenide) - Framework powered by Selenium WebDriver for writing easy-to-read and easy-to-maintain automated tests in Java.
+*   [Selenide (⭐1.9k)](https://github.com/selenide/selenide) - Framework powered by Selenium WebDriver for writing easy-to-read and easy-to-maintain automated tests in Java.
 
 ## [4. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / File Transfer & Synchronization
 
-*   [Seafile](https://www.seafile.com/en/home/) - File hosting and sharing solution primary for teams and organizations. ([Source Code (⭐12k)](https://github.com/haiwen/seafile)) `GPL-2.0/GPL-3.0/AGPL-3.0/Apache-2.0` `C`
+*   [Seafile](https://www.seafile.com/en/home/) - File hosting and sharing solution primary for teams and organizations. ([Source Code (⭐13k)](https://github.com/haiwen/seafile)) `GPL-2.0/GPL-3.0/AGPL-3.0/Apache-2.0` `C`
 
 ## [5. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
@@ -62,10 +62,6 @@
 
 *   [Abstract](https://www.abstract.com/) - Design collaboration without the chaos (for Sketch and XD on macOS).
 
-### Accessibility (a11y)
-
-*   [Accessibility for developeres](https://www.invisionapp.com/inside-design/accessibility-for-developers/) - 5 simple ways developers can help improve and enforce website accessibility.
-
 ### Design tokens
 
 *   [DesignTokens.dev](https://www.designtokens.dev/) - Ship your design tokens without managing infrastructure.
@@ -80,8 +76,8 @@
 
 ### Develop isolated components / Storybook addons
 
-*   [Source (⭐79k)](https://github.com/storybookjs/storybook/tree/master/addons/storysource) - View a story's source code to see how it works and paste into your app.
-*   [Viewport (⭐79k)](https://github.com/storybookjs/storybook/tree/master/addons/viewport) - Build responsive components by adjusting Storybook's viewport size and orientation.
+*   [Source (⭐85k)](https://github.com/storybookjs/storybook/tree/master/addons/storysource) - View a story's source code to see how it works and paste into your app.
+*   [Viewport (⭐85k)](https://github.com/storybookjs/storybook/tree/master/addons/viewport) - Build responsive components by adjusting Storybook's viewport size and orientation.
 
 ### Books / Storybook addons
 
@@ -103,7 +99,7 @@
 
 ### Scroll / Other
 
-*   [rellax (⭐7k)](https://github.com/dixonandmoe/rellax) - Buttery smooth, super lightweight, vanilla javascript parallax library.
+*   [rellax (⭐7.1k)](https://github.com/dixonandmoe/rellax) - Buttery smooth, super lightweight, vanilla javascript parallax library.
 
 ## [8. Awesome Actions on Google](/content/ravirupareliya/awesome-actions-on-google/README.md)
 
@@ -145,7 +141,7 @@
 
 ### UI Libraries, Components & Templates
 
-*   💙📚 [Headless UI (⭐25k)](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components.
+*   💙📚 [Headless UI (⭐26k)](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components.
 
 ---
 

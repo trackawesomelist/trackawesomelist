@@ -10,7 +10,7 @@
 
 ### Framework Components
 
-*   [scrivener (⭐550)](https://github.com/drewolson/scrivener) - Paginate your Ecto queries.
+*   [scrivener (⭐554)](https://github.com/drewolson/scrivener) - Paginate your Ecto queries.
 
 ## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
@@ -20,11 +20,11 @@
 
 ### JSON
 
-*   [RapidJSON (⭐14k)](https://github.com/miloyip/rapidjson) :zap: - A fast JSON parser/generator for C++ with both SAX/DOM style API. \[MIT] [website](https://rapidjson.org)
+*   [RapidJSON (⭐15k)](https://github.com/miloyip/rapidjson) :zap: - A fast JSON parser/generator for C++ with both SAX/DOM style API. \[MIT] [website](https://rapidjson.org)
 
 ### Machine Learning
 
-*   [OpenCV (⭐78k)](https://github.com/Itseez/opencv) :zap: - Open Source Computer Vision Library. \[BSD] [website](http://opencv.org/)
+*   [OpenCV (⭐80k)](https://github.com/Itseez/opencv) :zap: - Open Source Computer Vision Library. \[BSD] [website](http://opencv.org/)
 
 ### Networking
 
@@ -47,11 +47,11 @@
 
 ### Table of Contents / Dependency Injection
 
-*   [Container (⭐840)](https://github.com/thephpleague/container) - Another flexible dependency injection container.
+*   [Container (⭐850)](https://github.com/thephpleague/container) - Another flexible dependency injection container.
 
 ### Table of Contents / Imagery
 
-*   [Glide (⭐2.5k)](https://github.com/thephpleague/glide) - An on-demand image manipulation library.
+*   [Glide (⭐2.6k)](https://github.com/thephpleague/glide) - An on-demand image manipulation library.
 
 ### Table of Contents / Event
 
@@ -59,8 +59,8 @@
 
 ### Table of Contents / Authentication and Authorization
 
-*   [OAuth 1.0 Client (⭐958)](https://github.com/thephpleague/oauth1-client) - An OAuth 1.0 client library.
-*   [OAuth 2.0 Client (⭐3.6k)](https://github.com/thephpleague/oauth2-client) - An OAuth 2.0 client library.
+*   [OAuth 1.0 Client (⭐977)](https://github.com/thephpleague/oauth1-client) - An OAuth 1.0 client library.
+*   [OAuth 2.0 Client (⭐3.7k)](https://github.com/thephpleague/oauth2-client) - An OAuth 2.0 client library.
 
 ---
 

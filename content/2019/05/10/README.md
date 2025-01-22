@@ -33,11 +33,11 @@
 
 ### Table of Contents / Filtering, Sanitizing and Validation
 
-*   [ISO-codes (⭐789)](https://github.com/ronanguilloux/IsoCodes) - A library for validating inputs according to standards from ISO, International Finance, Public Administrations, GS1, Book Industry, Phone numbers & Zipcodes for many countries.
+*   [ISO-codes (⭐792)](https://github.com/ronanguilloux/IsoCodes) - A library for validating inputs according to standards from ISO, International Finance, Public Administrations, GS1, Book Industry, Phone numbers & Zipcodes for many countries.
 
 ### Table of Contents / Data Structure and Storage
 
-*   [msgpack.php (⭐386)](https://github.com/rybakit/msgpack.php) - A pure PHP implementation of the [MessagePack](https://msgpack.org/) serialization format.
+*   [msgpack.php (⭐390)](https://github.com/rybakit/msgpack.php) - A pure PHP implementation of the [MessagePack](https://msgpack.org/) serialization format.
 
 ## [3. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
@@ -45,35 +45,31 @@
 
 *   [spectralGraphTopology](https://cran.r-project.org/web/packages/spectralGraphTopology/index.html) - spectralGraphTopology: Learning Graphs from Data via Spectral Constraints.
 
-## [4. Awesome Kde](/content/francoism90/awesome-kde/README.md)
+## [4. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
+
+### Files and Directories / Files
+
+*   [webtorrent-cli (⭐1.2k)](https://github.com/feross/webtorrent-cli) – Streaming torrent client.
+
+### Other Awesome Lists / Emoji
+
+*   [awesome-git-addons (⭐2k)](https://github.com/stevemao/awesome-git-addons#readme) - Addons that extend git cli.
+*   [awesome-shell (⭐33k)](https://github.com/alebcay/awesome-shell#readme) – Command-line utilities and frameworks.
+*   [terminals-are-sexy (⭐12k)](https://github.com/k4m4/terminals-are-sexy#readme) – Terminal frameworks, plugins & resources.
+*   [awesome-zsh-plugins (⭐15k)](https://github.com/unixorn/awesome-zsh-plugins#readme) – ZSH frameworks, plugins, tutorials & themes.
+*   [awesome-nodejs clis (⭐59k)](https://github.com/sindresorhus/awesome-nodejs#command-line-apps) – Node.js modules and resources.
+
+## [5. Awesome Kde](/content/francoism90/awesome-kde/README.md)
 
 ### Articles / Display Manager
 
 *   [Kai Uwe's Blog](https://blog.broulik.de/) - Stories of a Plasma developer.
 
-## [5. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
+## [6. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Animation / Redux / ELM / Dependency Injection
 
 *   [Simple Animations (⭐1k)](https://github.com/felixblaschke/simple_animations) - Create awesome custom animations easily by [Felix Blaschke](https://github.com/felixblaschke)
-
-## [6. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
-
-### Productivity / Note Taking and Lists
-
-*   [taskell (⭐1.7k)](https://github.com/smallhadroncollider/taskell) - Interactive kanban board/task manager.
-
-### Files and Directories / Files
-
-*   [webtorrent-cli (⭐1.1k)](https://github.com/feross/webtorrent-cli) – Streaming torrent client.
-
-### Other Awesome Lists / Emoji
-
-*   [awesome-git-addons (⭐1.9k)](https://github.com/stevemao/awesome-git-addons#readme) - Addons that extend git cli.
-*   [awesome-shell (⭐31k)](https://github.com/alebcay/awesome-shell#readme) – Command-line utilities and frameworks.
-*   [terminals-are-sexy (⭐12k)](https://github.com/k4m4/terminals-are-sexy#readme) – Terminal frameworks, plugins & resources.
-*   [awesome-zsh-plugins (⭐14k)](https://github.com/unixorn/awesome-zsh-plugins#readme) – ZSH frameworks, plugins, tutorials & themes.
-*   [awesome-nodejs clis (⭐56k)](https://github.com/sindresorhus/awesome-nodejs#command-line-apps) – Node.js modules and resources.
 
 ## [7. Awesome Agriculture](/content/brycejohnston/awesome-agriculture/README.md)
 
@@ -94,11 +90,11 @@
 ### Types / Playground
 
 *   [typesync (⭐1.5k)](https://github.com/jeffijoe/typesync) - Install missing TypeScript typings for dependencies in your package.json.
-*   [type-fest (⭐14k)](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types
+*   [type-fest (⭐15k)](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types
 
 ### Web / Playground
 
-*   :octocat: [armour/vue-typescript-admin-template (⭐5.5k)](https://github.com/Armour/vue-typescript-admin-template) - A vue-cli 3.0 & typescript minimal admin template + a production-ready front-end solution for admin interfaces ([demo](https://armour.github.io/vue-typescript-admin-template/#/dashboard))
+*   :octocat: [armour/vue-typescript-admin-template (⭐5.6k)](https://github.com/Armour/vue-typescript-admin-template) - A vue-cli 3.0 & typescript minimal admin template + a production-ready front-end solution for admin interfaces ([demo](https://armour.github.io/vue-typescript-admin-template/#/dashboard))
 
 ## [9. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 

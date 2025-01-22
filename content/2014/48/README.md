@@ -26,7 +26,7 @@
 
 ### Debugging
 
-*   [eflame (⭐422)](https://github.com/proger/eflame) - Flame Graph profiler for Erlang.
+*   [eflame (⭐426)](https://github.com/proger/eflame) - Flame Graph profiler for Erlang.
 
 ### Feeds
 
@@ -53,7 +53,7 @@
 
 ### GUI
 
-*   [AvalonEdit (⭐1.8k)](https://github.com/icsharpcode/AvalonEdit) - The WPF-based text editor component used in SharpDevelop
+*   [AvalonEdit (⭐1.9k)](https://github.com/icsharpcode/AvalonEdit) - The WPF-based text editor component used in SharpDevelop
 
 ## [5. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
@@ -68,7 +68,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [python-timbl (⭐17)](https://github.com/proycon/python-timbl) - A Python extension module wrapping the full TiMBL C++ programming interface. Timbl is an elaborate k-Nearest Neighbours machine learning toolkit.
+*   [python-timbl (⭐18)](https://github.com/proycon/python-timbl) - A Python extension module wrapping the full TiMBL C++ programming interface. Timbl is an elaborate k-Nearest Neighbours machine learning toolkit.
 
 ## [6. Awesome Dojo](/content/petk/awesome-dojo/week/README.md)
 
@@ -167,25 +167,22 @@
 
 ### Analytics
 
-*   [Rack::Tracker (⭐647)](https://github.com/railslove/rack-tracker) - Rack middleware that can be hooked up to multiple services and exposing them in a unified fashion.
-
-### Documentation
-
-*   [Annotate (⭐4.4k)](https://github.com/ctran/annotate_models) - Add a comment documenting the current schema to the top or bottom of each of your ActiveRecord models.
+*   [Rack::Tracker (⭐649)](https://github.com/railslove/rack-tracker) - Rack middleware that can be hooked up to multiple services and exposing them in a unified fashion.
 
 ### ORM/ODM Extensions
 
 *   Social
     *   [Merit (⭐1.5k)](https://github.com/merit-gem/merit) - Adds reputation behavior to Rails apps in the form of Badges, Points, and Rankings for ActiveRecord or Mongoid.
     *   [PublicActivity (⭐3k)](https://github.com/chaps-io/public_activity) - Provides easy activity tracking for your ActiveRecord, Mongoid 3 and MongoMapper models in Rails 3 and 4. Similar to Github's Public Activity.
-    *   [Simple Feed (⭐332)](https://github.com/kigster/simple-feed) - Fast and highly scalable read-optimized social activity feed library in pure Ruby, backed by Redis.
-    *   [Unread (⭐712)](https://github.com/ledermann/unread) - Manage read/unread status of ActiveRecord objects - and it's fast.
+    *   [Simple Feed (⭐333)](https://github.com/kigster/simple-feed) - Fast and highly scalable read-optimized social activity feed library in pure Ruby, backed by Redis.
+    *   [Unread (⭐742)](https://github.com/ledermann/unread) - Manage read/unread status of ActiveRecord objects - and it's fast.
 *   Sorting
-    *   [ActsAsList (⭐2k)](https://github.com/swanandp/acts_as_list) - Provides the capabilities for sorting and reordering a number of objects in a list.
+    *   [ActsAsList (⭐2.1k)](https://github.com/swanandp/acts_as_list) - Provides the capabilities for sorting and reordering a number of objects in a list.
+    *   [positioning (⭐236)](https://github.com/brendon/positioning) - Simple positioning for Active Record models. Supports multiple lists per model and relative positioning.
     *   [ranked-model (⭐1.1k)](https://github.com/mixonic/ranked-model) - A modern row sorting library for ActiveRecord. It uses ARel aggressively and is better optimized than most other libraries.
 *   Tree
-    *   [ActsAsTree (⭐585)](https://github.com/amerine/acts_as_tree) - Extends ActiveRecord to add simple support for organizing items into parent–children relationships.
-    *   [ActsAsRecursiveTree (⭐18)](https://github.com/1and1/acts_as_recursive_tree) - ActsAsTree but recursive.
+    *   [ActsAsTree (⭐588)](https://github.com/amerine/acts_as_tree) - Extends ActiveRecord to add simple support for organizing items into parent–children relationships.
+    *   [ActsAsRecursiveTree (⭐73)](https://github.com/1and1/acts_as_recursive_tree) - ActsAsTree but recursive.
     *   [Ancestry (⭐3.7k)](https://github.com/stefankroes/ancestry) - Organise ActiveRecord model into a tree structure using a variation on the materialised path pattern.
     *   [Awesome Nested Set (⭐2.4k)](https://github.com/collectiveidea/awesome_nested_set) - Awesome Nested Set is an implementation of the nested set pattern for ActiveRecord models.
     *   [Closure Tree (⭐1.8k)](https://github.com/mceachen/closure_tree) - Easily and efficiently make your ActiveRecord models support hierarchies using a Closure Table.
@@ -193,9 +190,9 @@
 
 ### Search
 
-*   [Mongoid Search (⭐319)](https://github.com/mauriciozaffari/mongoid_search) - Simple full text search implementation for Mongoid.
-*   [SearchCop (⭐825)](https://github.com/mrkamel/search_cop) - Extends your ActiveRecord models to support fulltext search engine like queries via simple query strings and hash-based queries.
-*   [textacular (⭐942)](https://github.com/textacular/textacular) - Exposes full text search capabilities from PostgreSQL, and allows you to declare full text indexes. Textacular extends ActiveRecord with named\_scope methods making searching easy and fun!
+*   [Mongoid Search (⭐318)](https://github.com/mauriciozaffari/mongoid_search) - Simple full text search implementation for Mongoid.
+*   [SearchCop (⭐828)](https://github.com/mrkamel/search_cop) - Extends your ActiveRecord models to support fulltext search engine like queries via simple query strings and hash-based queries.
+*   [textacular (⭐946)](https://github.com/textacular/textacular) - Exposes full text search capabilities from PostgreSQL, and allows you to declare full text indexes. Textacular extends ActiveRecord with named\_scope methods making searching easy and fun!
 
 ### State Machines
 

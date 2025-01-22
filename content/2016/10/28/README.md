@@ -28,7 +28,7 @@
 
 ### Math
 
-*   [Vc (⭐1.4k)](https://github.com/VcDevel/Vc) - SIMD Vector Classes for C++. \[BSD]
+*   [Vc (⭐1.5k)](https://github.com/VcDevel/Vc) - SIMD Vector Classes for C++. \[BSD]
 
 ## [5. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
 
@@ -117,7 +117,7 @@
 
 ### Other
 
-*   [osg-3rdparty-cmake (⭐154)](https://github.com/bjornblissing/osg-3rdparty-cmake) - CMake scripts for building OpenSceneGraph third party libraries. `[MIXED LICENSE]`
+*   [osg-3rdparty-cmake (⭐178)](https://github.com/bjornblissing/osg-3rdparty-cmake) - CMake scripts for building OpenSceneGraph third party libraries. `[MIXED LICENSE]`
 
 ---
 

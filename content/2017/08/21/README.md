@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 21, 2017
 
-7 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -29,25 +29,19 @@
 *   [Machine Learning for Trading by Georgia Tech](https://www.udacity.com/course/machine-learning-for-trading--ud501) - Interesting class for acquiring basic knowledge of machine learning applied to trading and some AI and finance concepts. I especially liked the section on Q-Learning.
 *   [Neural networks class by Hugo Larochelle, Université de Sherbrooke](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH) - Interesting class about neural networks available online for free by Hugo Larochelle, yet I have watched a few of those videos.
 
-## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / UI Components
-
-*   [vue-date-picker (⭐56)](https://github.com/ridewn/vue-date-picker) - A vue date picker component inspired by material design
-
-## [5. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [4. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Developer Tools / Command Line Tools
 
 *   [Serial](https://www.decisivetactics.com/products/serial/) - Full-featured serial terminal for the Mac.
 
-## [6. Awesome Research](/content/emptymalei/awesome-research/README.md)
+## [5. Awesome Research](/content/emptymalei/awesome-research/README.md)
 
 ### Colors / Social Sciences
 
 *   [Color Calculator](https://www.sessions.edu/color-calculator/)
 
-## [7. Awesome Purescript](/content/passy/awesome-purescript/README.md)
+## [6. Awesome Purescript](/content/passy/awesome-purescript/README.md)
 
 ### Discovery
 

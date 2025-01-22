@@ -6,34 +6,30 @@
 
 
 
-## [1. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [1. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+
+### Components & Libraries / Frameworks
+
+*   [oruga (⭐1.1k)](https://github.com/oruga-ui/oruga) - UI components for Vue.js without CSS framework dependency.
+
+## [2. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / DynamoDB
 
 *   [aws-dynamodb-examples :fire::fire: (⭐479)](https://github.com/awslabs/aws-dynamodb-examples) - Samples using the Java SDK.
 
-## [2. Awesome Gpt3](/content/elyase/awesome-gpt3/README.md)
+## [3. Awesome Gpt3](/content/elyase/awesome-gpt3/README.md)
 
 ### Products / Other
 
 *   [Presentations.ai](https://presentations.ai) Visually stunning presentations
     that you can design instantly
 
-## [3. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / Frameworks
-
-*   [oruga (⭐1.1k)](https://github.com/oruga-ui/oruga) - UI components for Vue.js without CSS framework dependency.
-
-### Components & Libraries / UI Utilities
-
-*   [vue-styled-shadows (⭐7)](https://github.com/juliandreas/vue-styled-shadows) - Component based styled shadow patterns for images.
-
 ## [4. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Official
 
-*   [Apphud (⭐197)](https://github.com/apphud/ApphudSDK) - A complete solution to integrate auto-renewable subscriptions and regular in-app purchases in 30 minutes with no server code required.
+*   [Apphud (⭐211)](https://github.com/apphud/ApphudSDK) - A complete solution to integrate auto-renewable subscriptions and regular in-app purchases in 30 minutes with no server code required.
 
 ## [5. Android Security Awesome](/content/ashishb/android-security-awesome/README.md)
 
@@ -45,7 +41,7 @@
 
 ### Utility / Docker Container Actions
 
-*   [GitHub Action Locks (⭐15)](https://github.com/abatilo/github-action-locks/blob/master/README.md) - Guarantee atomic execution of your GitHub Action workflows.
+*   [GitHub Action Locks (⭐16)](https://github.com/abatilo/github-action-locks/blob/master/README.md) - Guarantee atomic execution of your GitHub Action workflows.
 
 ## [7. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -101,7 +97,7 @@
 
 ### Terminal-based / programmable RSS readers / Outline Processor Markup Language
 
-*   [neix (⭐200)](https://github.com/tomschwarz/neix) <sup>[788](https://t.me/s/aboutrss/788)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/tomschwarz/neix)
+*   [neix (⭐202)](https://github.com/tomschwarz/neix) <sup>[788](https://t.me/s/aboutrss/788)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/tomschwarz/neix)
 
 ### Telegram / Telegram RSS bots
 
@@ -125,7 +121,7 @@
 
 ### RSS2WIDGET / For browser
 
-*   [Epiboard (⭐329)](https://github.com/Alexays/Epiboard) <sup>[782](https://t.me/s/aboutrss/782)</sup> [![Chrome](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Google_Chrome.png)](https://chrome.google.com/webstore/detail/epiboard/eblmkpheecdcbflbhbadgfciakhlhdnm)[![Firefox](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Mozilla.png)](https://addons.mozilla.org/fr/firefox/addon/epiboard/)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Alexays/Epiboard)
+*   [Epiboard (⭐332)](https://github.com/Alexays/Epiboard) <sup>[782](https://t.me/s/aboutrss/782)</sup> [![Chrome](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Google_Chrome.png)](https://chrome.google.com/webstore/detail/epiboard/eblmkpheecdcbflbhbadgfciakhlhdnm)[![Firefox](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Mozilla.png)](https://addons.mozilla.org/fr/firefox/addon/epiboard/)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Alexays/Epiboard)
 
 ### RSS2DISCORD / RSS2GitHubProfile
 

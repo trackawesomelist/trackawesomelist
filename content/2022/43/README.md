@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 24 - Oct 30, 2022
 
-52 awesome lists updated this week.
+51 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Monitoring
 
-*   [HertzBeat (⭐5.3k)](https://github.com/dromara/hertzbeat) - An open-source real-time monitoring system with custom-monitor and agentless.
+*   [HertzBeat (⭐5.8k)](https://github.com/dromara/hertzbeat) - An open-source real-time monitoring system with custom-monitor and agentless.
 
 ## [2. Awesome Asyncio](/content/timofurrer/awesome-asyncio/week/README.md)
 
@@ -54,7 +54,7 @@
 
 ### Apps / Productivity
 
-*   [Dino (⭐2.1k)](https://github.com/dino/dino) - A modern Jabber/XMPP Client using GTK+/Vala.
+*   [Dino (⭐2.2k)](https://github.com/dino/dino) - A modern Jabber/XMPP Client using GTK+/Vala.
 
 ## [5. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
 
@@ -66,11 +66,11 @@
 
 ### Applications
 
-*   [SWC (⭐31k)](https://github.com/swc-project/swc) - super-fast TypeScript / JavaScript compiler
+*   [SWC (⭐32k)](https://github.com/swc-project/swc) - super-fast TypeScript / JavaScript compiler
 
 ### Applications / Web Servers
 
-*   [static-web-server (⭐1.4k)](https://github.com/static-web-server/static-web-server) - A blazing fast and asynchronous web server for static files-serving. ⚡ [![CI](https://github.com/static-web-server/static-web-server/actions/workflows/devel.yml/badge.svg)](https://github.com/static-web-server/static-web-server/actions/workflows/devel.yml?query=branch%3Amaster)
+*   [static-web-server (⭐1.6k)](https://github.com/static-web-server/static-web-server) - A blazing fast and asynchronous web server for static files-serving. ⚡ [![CI](https://github.com/static-web-server/static-web-server/actions/workflows/devel.yml/badge.svg)](https://github.com/static-web-server/static-web-server/actions/workflows/devel.yml?query=branch%3Amaster)
 
 ## [7. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/week/README.md)
 
@@ -97,82 +97,81 @@
 
 ### Audio
 
-*   [Aural Player (⭐580)](https://github.com/kartik-venugopal/aural-player) - Aural Player is a audio player application for the macOS platform. Inspired by the classic Winamp player for Windows, it is designed to be to-the-point and easy to use.  ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
+*   [Aural Player (⭐824)](https://github.com/kartik-venugopal/aural-player) - Aural Player is a audio player application for the macOS platform. Inspired by the classic Winamp player for Windows, it is designed to be to-the-point and easy to use.  ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
 
 ### Chat
 
-*   [Adium (⭐263)](https://github.com/adium/adium) - Instant messaging application that can connect to XMPP (Jabber), IRC and more. ![c\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/c-16.png "C language.")
+*   [Adium (⭐303)](https://github.com/adium/adium) - Instant messaging application that can connect to XMPP (Jabber), IRC and more. ![c\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/c-16.png "C language.")
 
 ### Database
 
 *   [Bdash (⭐1.5k)](https://github.com/bdash-app/bdash) - Simple SQL Client for lightweight data analysis. ![javascript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/javascript-16.png "JavaScript language.")
-*   [DbGate (⭐3k)](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application. ![javascript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/javascript-16.png "JavaScript language.") ![typescript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/typescript-16.png "TypeScript language.")
+*   [DbGate (⭐5.3k)](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application. ![javascript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/javascript-16.png "JavaScript language.") ![typescript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/typescript-16.png "TypeScript language.")
 
 ### Productivity / Text
 
-*   [sqlectron (⭐4.4k)](https://github.com/sqlectron/sqlectron-gui) - A simple and lightweight SQL client desktop/terminal with cross database and platform support. ![typescript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/typescript-16.png "TypeScript language.")
+*   [sqlectron (⭐4.6k)](https://github.com/sqlectron/sqlectron-gui) - A simple and lightweight SQL client desktop/terminal with cross database and platform support. ![typescript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/typescript-16.png "TypeScript language.")
 
 ### IDE / Text
 
-*   [Brackets (⭐1.1k)](https://github.com/brackets-cont/brackets) - Modern open-source code editor for HTML, CSS and JavaScript that's built in HTML, CSS and JavaScript. ![javascript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/javascript-16.png "JavaScript language.")
-*   [AuroraEditor (⭐726)](https://github.com/AuroraEditor/AuroraEditor) - Lightweight Code Editor (IDE) for macOS.  ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
-*   [CodeEdit (⭐19k)](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
+*   [Brackets (⭐1.4k)](https://github.com/brackets-cont/brackets) - Modern open-source code editor for HTML, CSS and JavaScript that's built in HTML, CSS and JavaScript. ![javascript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/javascript-16.png "JavaScript language.")
+*   [AuroraEditor (⭐1.1k)](https://github.com/AuroraEditor/AuroraEditor) - Lightweight Code Editor (IDE) for macOS.  ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
+*   [CodeEdit (⭐21k)](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
 
 ### Development / Git
 
-*   [GitAhead (⭐1.7k)](https://github.com/gitahead/gitahead/) - A graphical Git client designed to help you understand and manage your source code history. ![cpp\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/cpp-16.png "C++ language.") ![c\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/c-16.png "C language.")
+*   [GitAhead (⭐1.8k)](https://github.com/gitahead/gitahead/) - A graphical Git client designed to help you understand and manage your source code history. ![cpp\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/cpp-16.png "C++ language.") ![c\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/c-16.png "C language.")
 
 ### Development / iOS / macOS
 
-*   [AppBox (⭐593)](https://github.com/getappbox/AppBox-iOSAppsWirelessInstallation) - Tool for iOS developers to build and deploy Development, Ad-Hoc and In-house (Enterprise) applications directly to the devices from your Dropbox account.  ![objective\_c\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/objective-c-16.png "Objective-C language.")
+*   [AppBox (⭐629)](https://github.com/getappbox/AppBox-iOSAppsWirelessInstallation) - Tool for iOS developers to build and deploy Development, Ad-Hoc and In-house (Enterprise) applications directly to the devices from your Dropbox account.  ![objective\_c\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/objective-c-16.png "Objective-C language.")
 
 ### Editors / Markdown
 
-*   [Obsidian plugins & themes (⭐6.4k)](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.  ![javascript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/javascript-16.png "JavaScript language.")
+*   [Obsidian plugins & themes (⭐9.4k)](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.  ![javascript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/javascript-16.png "JavaScript language.")
 
 ### Utilities / Text
 
-*   [zoxide (⭐12k)](https://github.com/ajeetdsouza/zoxide) - zoxide is a smarter cd command for your terminal. ![rust\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/rust-16.png "Rust language.")
-*   [Betaflight Configurator (⭐2.1k)](https://github.com/betaflight/betaflight-configurator) - Cross platform configuration tool for the Betaflight firmware. ![javascript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/javascript-16.png "JavaScript language.")
-*   [far2l (⭐1.6k)](https://github.com/elfmz/far2l) - Linux/Mac fork of FAR Manager v2 ![c\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/c-16.png "C language.") ![cpp\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/cpp-16.png "C++ language.")
-*   [Balena Etcher (⭐27k)](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.  ![typescript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/typescript-16.png "TypeScript language.")
-*   [Keka (⭐4k)](https://github.com/aonez/Keka) - Keka is a full featured file archiver, as easy as it can be. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
-*   [NVM (⭐71k)](https://github.com/nvm-sh/nvm) - Node Version Manager.  ![shell\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/shell-16.png "Shell language.")
-*   [Nmap (⭐8.4k)](https://github.com/nmap/nmap) - Nmap - the Network Mapper.  ![cpp\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/cpp-16.png "C++ language.")
-*   [Nmap (⭐6.1k)](https://github.com/wireshark/wireshark) - Wireshark is the world’s foremost and widely-used network protocol analyzer. It lets you see what’s happening on your network at a microscopic level and is the de facto (and often de jure) standard across many commercial and non-profit enterprises, government agencies, and educational institutions.  ![cpp\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/cpp-16.png "C++ language.")
-*   [OpenRocket (⭐934)](https://github.com/openrocket/openrocket) - OpenRocket is a cross-platform utility tool to model and simulate model rockets and their flight characteristics. ![java\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/java-16.png "Java language.")
-*   [nix-package-manager (⭐9.3k)](https://github.com/NixOS/nix) - Nix is a reproducible package manager alternative to Homebrew, with over 80,000 packages. !\[c++\_icon] ![shell\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/shell-16.png "Shell language.") !\[nix\_icon]
+*   [zoxide (⭐22k)](https://github.com/ajeetdsouza/zoxide) - zoxide is a smarter cd command for your terminal. ![rust\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/rust-16.png "Rust language.")
+*   [Betaflight Configurator (⭐2.5k)](https://github.com/betaflight/betaflight-configurator) - Cross platform configuration tool for the Betaflight firmware. ![javascript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/javascript-16.png "JavaScript language.")
+*   [far2l (⭐1.8k)](https://github.com/elfmz/far2l) - Linux/Mac fork of FAR Manager v2 ![c\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/c-16.png "C language.") ![cpp\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/cpp-16.png "C++ language.")
+*   [Balena Etcher (⭐30k)](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.  ![typescript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/typescript-16.png "TypeScript language.")
+*   [Keka (⭐4.8k)](https://github.com/aonez/Keka) - Keka is a full featured file archiver, as easy as it can be. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
+*   [NVM (⭐79k)](https://github.com/nvm-sh/nvm) - Node Version Manager.  ![shell\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/shell-16.png "Shell language.")
+*   [Nmap (⭐10k)](https://github.com/nmap/nmap) - Nmap - the Network Mapper.  ![cpp\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/cpp-16.png "C++ language.")
+*   [OpenRocket (⭐1.3k)](https://github.com/openrocket/openrocket) - OpenRocket is a cross-platform utility tool to model and simulate model rockets and their flight characteristics. ![java\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/java-16.png "Java language.")
+*   [nix-package-manager (⭐12k)](https://github.com/NixOS/nix) - Nix is a reproducible package manager alternative to Homebrew, with over 80,000 packages. !\[c++\_icon] ![shell\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/shell-16.png "Shell language.") !\[nix\_icon]
 
 ### Games / Text
 
-*   [Widelands (⭐1.8k)](https://github.com/widelands/widelands) - Widelands is a free, open source real-time strategy game with singleplayer campaigns and a multiplayer mode. The game was inspired by Settlers II™ (© Bluebyte) but has significantly more variety and depth to it. !\[c++\_icon] ![python\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/python-16.png "Python language.") ![lua\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/Lua-16.png "Lua language.") ![javascript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/javascript-16.png "JavaScript language.")
+*   [Widelands (⭐2k)](https://github.com/widelands/widelands) - Widelands is a free, open source real-time strategy game with singleplayer campaigns and a multiplayer mode. The game was inspired by Settlers II™ (© Bluebyte) but has significantly more variety and depth to it. !\[c++\_icon] ![python\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/python-16.png "Python language.") ![lua\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/Lua-16.png "Lua language.") ![javascript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/javascript-16.png "JavaScript language.")
 
 ### Images / Text
 
-*   [Flameshot (⭐22k)](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software. ![cpp\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/cpp-16.png "C++ language.")
+*   [Flameshot (⭐25k)](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software. ![cpp\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/cpp-16.png "C++ language.")
 
 ### Menubar / Text
 
-*   [Market Bar (⭐17)](https://github.com/mnndnl/market-bar) - Tiny stocks watcher for the menu bar. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
-*   [Monitor Bar (⭐40)](https://github.com/tidiemme/monitorbar) - Monitor Bar app supports three modes, compact, normal, extra. It monitors battery, Disk, Memory, CPU, Network bandwidth, Wi-Fi. ![Swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
+*   [Market Bar (⭐24)](https://github.com/mnndnl/market-bar) - Tiny stocks watcher for the menu bar. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
+*   [Monitor Bar (⭐62)](https://github.com/tidiemme/monitorbar) - Monitor Bar app supports three modes, compact, normal, extra. It monitors battery, Disk, Memory, CPU, Network bandwidth, Wi-Fi. ![Swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
 
 ### Music / Text
 
-*   [spicetify-cli (⭐15k)](https://github.com/spicetify/spicetify-cli) - Command-line tool to customize the official Spotify client. Supports Windows, MacOS and Linux. ![javascript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/javascript-16.png "JavaScript language.")
+*   [spicetify-cli (⭐18k)](https://github.com/spicetify/spicetify-cli) - Command-line tool to customize the official Spotify client. Supports Windows, MacOS and Linux. ![javascript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/javascript-16.png "JavaScript language.")
 
 ### Notes / Text
 
 *   [Boostnote (⭐17k)](https://github.com/BoostIO/BoostNote-Legacy) - Note-taking application made for programmers just like you.  ![javascript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/javascript-16.png "JavaScript language.")
-*   [Standard Notes (⭐4.5k)](https://github.com/standardnotes/app) - Safe place for your notes, thoughts, and life's work. ![javascript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/javascript-16.png "JavaScript language.") ![css\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/css-16.png "CSS language.")
-*   [Tusk (⭐3.2k)](https://github.com/klaudiosinani/tusk) - Unofficial, third-party, community driven Evernote app with a handful of useful features. ![javascript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/javascript-16.png "JavaScript language.") ![css\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/css-16.png "CSS language.")
+*   [Standard Notes (⭐5.3k)](https://github.com/standardnotes/app) - Safe place for your notes, thoughts, and life's work. ![javascript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/javascript-16.png "JavaScript language.") ![css\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/css-16.png "CSS language.")
+*   [Tusk (⭐3.1k)](https://github.com/klaudiosinani/tusk) - Unofficial, third-party, community driven Evernote app with a handful of useful features. ![javascript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/javascript-16.png "JavaScript language.") ![css\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/css-16.png "CSS language.")
 
 ### Other / Text
 
-*   [ChipMunk (⭐489)](https://github.com/esrlabs/chipmunk) - Log analysis tool.  ![typescript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/typescript-16.png "TypeScript language.") ![rust\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/rust-16.png "Rust language.")
+*   [ChipMunk (⭐561)](https://github.com/esrlabs/chipmunk) - Log analysis tool.  ![typescript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/typescript-16.png "TypeScript language.") ![rust\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/rust-16.png "Rust language.")
 
 ### Security / Text
 
-*   [VeraCrypt (⭐5.6k)](https://github.com/veracrypt/VeraCrypt) - Disk encryption with strong security based on TrueCrypt.  ![c\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/c-16.png "C language.") ![cpp\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/cpp-16.png "C++ language.")
+*   [VeraCrypt (⭐6.8k)](https://github.com/veracrypt/VeraCrypt) - Disk encryption with strong security based on TrueCrypt.  ![c\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/c-16.png "C language.") ![cpp\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/cpp-16.png "C++ language.")
 
 ### System / Text
 
@@ -182,7 +181,7 @@
 
 ### Projects Related to eBPF / Observability
 
-*   [parca-agent (⭐508)](https://github.com/parca-dev/parca-agent) - eBPF based always-on continuous profiler for analysis of CPU and memory usage, down to the line number and throughout time.
+*   [parca-agent (⭐577)](https://github.com/parca-dev/parca-agent) - eBPF based always-on continuous profiler for analysis of CPU and memory usage, down to the line number and throughout time.
 
 ## [9. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
@@ -194,21 +193,25 @@
 
 ### Tools and session management
 
-*   [tmux-powerline (⭐3.4k)](https://github.com/erikw/tmux-powerline) A hackable statusbar for tmux consisting of dynamic & beautiful looking segments, inspired by vim-powerline, written purely in bash.
+*   [tmux-powerline (⭐3.5k)](https://github.com/erikw/tmux-powerline) A hackable statusbar for tmux consisting of dynamic & beautiful looking segments, inspired by vim-powerline, written purely in bash.
 
 ## [11. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Projects
 
-*   [viz.rs (⭐9)](https://github.com/viz-rs/viz-rs.github.io) - A website for viz web framework, [Live Demo](https://viz.rs/).
+*   [viz.rs (⭐13)](https://github.com/viz-rs/viz-rs.github.io) - A website for viz web framework, [Live Demo](https://viz.rs/).
 
 ## [12. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [castore (⭐221)](https://github.com/castore-dev/castore) - Typescript library to easily implement Event Sourcing in your application
+*   :octocat: [castore (⭐237)](https://github.com/castore-dev/castore) - Typescript library to easily implement Event Sourcing in your application
 
 ## [13. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+
+### Books / Visualization Tools
+
+*   [Foundations of Data Science](https://www.cs.cornell.edu/jeh/book.pdf) Free Download
 
 ### Comparison / Supervised Learning
 
@@ -223,7 +226,7 @@
     *   [ID3 algorithm](https://en.wikipedia.org/wiki/ID3_algorithm)
     *   [C4.5 algorithm](https://en.wikipedia.org/wiki/C4.5_algorithm)
 
-### Datasets / Book Deals (Affiliated) 🛍
+### Datasets / Book Deals (Affiliated)
 
 *   [ADS-B Exchange](https://www.adsbexchange.com/data-samples/) - Specific datasets for aircraft and Automatic Dependent Surveillance-Broadcast (ADS-B) sources.
 
@@ -233,19 +236,25 @@
 
 *   [GrowthBook](https://www.growthbook.io/) - Open-source feature flag and experimentation platform. [![GrowthBook](https://img.shields.io/github/stars/growthbook/growthbook?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/growthbook/growthbook)
 
-## [15. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [15. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+
+### Demo
+
+*   [Fluentd + Grafana Loki demo application (⭐1)](https://github.com/ishanvyas22/cakephp-loki-demo) - A demo application to send CakePHP docker container logs to [Grafana Loki](https://grafana.com/logs/) via [Fluentd](https://www.fluentd.org/).
+
+## [16. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [singularityenv (⭐0)](https://github.com/saravanabalagi/zsh-plugin-singularityenv) - Provides a `singularityenv_prompt_info` function which returns the current singularity environment name
 
-## [16. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
+## [17. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
 ### Security Auditing Services / Wallets
 
 *   [algorand-ecosystem-audits (⭐3)](https://github.com/blockshake-io/algorand-ecosystem-audits) - A growing collection of audit reports in the Algorand ecosystem maintained by [blockshake-io](https://blockshake.io).
 
-## [17. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
+## [18. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
 
 ### Programming / JavaScript
 
@@ -255,70 +264,56 @@
 
 *   [Jobbsy](https://jobbsy.dev) - Symfony Jobs
 
-## [18. Awesome V](/content/vlang/awesome-v/week/README.md)
+## [19. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Command-line
 
-*   [crepl (⭐29)](https://github.com/l1mey112/crepl) - Compile and execute C code on the fly as you type it.
+*   [crepl (⭐30)](https://github.com/l1mey112/crepl) - Compile and execute C code on the fly as you type it.
 
 ### Editors
 
-*   [vPDF (⭐79)](https://github.com/vlang/pdf) - A module to simplify PDF file creation using the V programming language.
+*   [vPDF (⭐84)](https://github.com/vlang/pdf) - A module to simplify PDF file creation using the V programming language.
 
 ### Web
 
-*   [Gitly (⭐1.3k)](https://github.com/vlang/gitly) - A light and fast SCM alternative to GitHub/GitLab written in V.
+*   [Gitly (⭐1.4k)](https://github.com/vlang/gitly) - A light and fast SCM alternative to GitHub/GitLab written in V.
 
-## [19. Awesome Arcgis Developers](/content/Esri/awesome-arcgis-developers/week/README.md)
+## [20. Awesome Arcgis Developers](/content/Esri/awesome-arcgis-developers/week/README.md)
 
 ### APIs and SDKs
 
-*   [ArcGIS CityEngine SDKs (C++) (⭐197)](https://github.com/esri/cityengine-sdk) - C++ APIs, documentation and examples for the Procedural Runtime (PRT).
-*   [ArcGIS CityEngine SDKs (Python) (⭐59)](https://github.com/Esri/pyprt) - Python bindings for the "Procedural Runtime" (PRT) of CityEngine.
+*   [ArcGIS CityEngine SDKs (C++) (⭐205)](https://github.com/esri/cityengine-sdk) - C++ APIs, documentation and examples for the Procedural Runtime (PRT).
+*   [ArcGIS CityEngine SDKs (Python) (⭐64)](https://github.com/Esri/pyprt) - Python bindings for the "Procedural Runtime" (PRT) of CityEngine.
 *   [MapLibre GL JS](https://developers.arcgis.com/mapbox-gl-js/) - Guide and tutorials to help you start building web apps with MapLibre and ArcGIS location services.
 
 ### Code samples and snippets
 
-*   [Esri/pyprt-examples (⭐26)](https://github.com/Esri/pyprt-examples) - Example for PyPRT (Python Bindings for the CityEngine SDK).
+*   [Esri/pyprt-examples (⭐30)](https://github.com/Esri/pyprt-examples) - Example for PyPRT (Python Bindings for the CityEngine SDK).
 
-## [20. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
-
-### Plugin Manager
-
-*   [chiyadev/dep (⭐86)](https://github.com/chiyadev/dep) - An alternative to packer.nvim. It was built to be even better and easier to use. Context can be found [here](https://chiya.dev/posts/2021-11-27-why-package-manager).
+## [21. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### (requires Neovim 0.5)
 
-*   [Kasama/nvim-custom-diagnostic-highlight (⭐58)](https://github.com/Kasama/nvim-custom-diagnostic-highlight) - Inline diagnostics popup-highlight much like coc-nvim but based on `vim.diagnostic`.
+*   [Kasama/nvim-custom-diagnostic-highlight (⭐59)](https://github.com/Kasama/nvim-custom-diagnostic-highlight) - Inline diagnostics popup-highlight much like coc-nvim but based on `vim.diagnostic`.
 
 ### Marks / Diagnostics
 
-*   [ofirgall/open.nvim (⭐63)](https://github.com/ofirgall/open.nvim) - Open the current word with custom openers, GitHub shorthand for example.
+*   [ofirgall/open.nvim (⭐65)](https://github.com/ofirgall/open.nvim) - Open the current word with custom openers, GitHub shorthand for example.
 
 ### Utility / Diagnostics
 
-*   [zbirenbaum/neodim (⭐293)](https://github.com/zbirenbaum/neodim) - Dimming the highlights of unused functions, variables, parameters, and more.
-*   [bfredl/nvim-miniyank (⭐232)](https://github.com/bfredl/nvim-miniyank) - The killring-alike plugin with no default mappings.
+*   [zbirenbaum/neodim (⭐320)](https://github.com/zbirenbaum/neodim) - Dimming the highlights of unused functions, variables, parameters, and more.
+*   [bfredl/nvim-miniyank (⭐233)](https://github.com/bfredl/nvim-miniyank) - The killring-alike plugin with no default mappings.
 
 ### Motion / Diagnostics
 
-*   [woosaaahh/sj.nvim (⭐122)](https://github.com/woosaaahh/sj.nvim) - Search based navigation combined with quick jump features.
+*   [woosaaahh/sj.nvim (⭐128)](https://github.com/woosaaahh/sj.nvim) - Search based navigation combined with quick jump features.
 
-## [21. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [22. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Tree
 
 *   [react-arborist (⭐2.8k)](https://github.com/brimdata/react-arborist) - [demo](https://react-arborist.netlify.app/) - A Full-Featured Tree View: headless, virtualized, multi-selectable, drag-n-drop, keyboard navigation, search
-
-## [22. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
-
-### Demo
-
-*   [Fluentd + Grafana Loki demo application (⭐1)](https://github.com/ishanvyas22/cakephp-loki-demo) - A demo application to send CakePHP docker container logs to [Grafana Loki](https://grafana.com/logs/) via [Fluentd](https://www.fluentd.org/).
-
-### CakePHP Tutorials
-
-*   [Official Content Management Tutorial](https://book.cakephp.org/4/en/tutorials-and-examples/cms/installation.html)
 
 ## [23. Amas](/content/sindresorhus/amas/week/README.md)
 
@@ -330,16 +325,16 @@
 
 ### Database
 
-*   [RocksDB (⭐158)](https://github.com/curiosity-ai/rocksdb-sharp) - C# binding for Facebook's RocksDB Key-Value store + native builds for Windows, macOS and Linux
+*   [RocksDB (⭐172)](https://github.com/curiosity-ai/rocksdb-sharp) - C# binding for Facebook's RocksDB Key-Value store + native builds for Windows, macOS and Linux
 
 ### Emulators
 
-*   [Blzhawk (⭐2.1k)](https://github.com/TASEmulators/BizHawk) - BizHawk is a multi-system emulator written in C#. BizHawk provides nice features for casual gamers such as full screen, and joypad support in addition to full rerecording and debugging tools for all system cores.
-*   [Ryujinx (⭐34k)](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
+*   [Blzhawk (⭐2.3k)](https://github.com/TASEmulators/BizHawk) - BizHawk is a multi-system emulator written in C#. BizHawk provides nice features for casual gamers such as full screen, and joypad support in addition to full rerecording and debugging tools for all system cores.
+*   [Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
 
 ### Image Processing
 
-*   [MagicScaler (⭐570)](https://github.com/saucecontrol/PhotoSauce) - High-performance image processing pipeline for .NET, focused on making complex imaging tasks simple.
+*   [MagicScaler (⭐622)](https://github.com/saucecontrol/PhotoSauce) - High-performance image processing pipeline for .NET, focused on making complex imaging tasks simple.
 
 ## [25. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
@@ -355,21 +350,15 @@
 
 ### Language Support
 
-*   [playwright-go (⭐2k)](https://github.com/playwright-community/playwright-go) - Playwright port for Golang.
+*   [playwright-go (⭐2.1k)](https://github.com/playwright-community/playwright-go) - Playwright port for Golang.
 
-## [27. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
-
-### Frameworks / React
-
-*   [JSX-email](https://jsx-mail.org/) - JSX Mail is an email framework that uses React to create email templates.
-
-## [28. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
+## [27. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
 
 ### Examples
 
-*   [ankitwasankar/mftool-java (⭐43)](https://github.com/ankitwasankar/mftool-java#readme) - Project logo with a short display of what can be achieved with it, TOC for easy navigation, important badges, clean installation guide, and multiple code snippets showing how to use the functionality.
+*   [ankitwasankar/mftool-java (⭐46)](https://github.com/ankitwasankar/mftool-java#readme) - Project logo with a short display of what can be achieved with it, TOC for easy navigation, important badges, clean installation guide, and multiple code snippets showing how to use the functionality.
 
-## [29. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [28. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Apps / Modeladmin
 
@@ -379,20 +368,20 @@
 
 *   [cookiecutter-wagtail-package (⭐17)](https://github.com/wagtail/cookiecutter-wagtail-package) - A cookiecutter template for building Wagtail add-on packages.
 
-## [30. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/week/README.md)
+## [29. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/week/README.md)
 
 ### Administration
 
 *   [TablerBundle (⭐17)](https://github.com/kevinpapst/TablerBundle) - Admin theme based on the Tabler Template. It ships with many twig helpers (functions, filter, embeds, macros and includes).
 
-## [31. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+## [30. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
 ### Ruby / Svelte
 
 *   [Short Ruby Newsletter](https://newsletter.shortruby.com). A visual weekly newsletter about everything happening in Ruby world.
 *   [⚡️ Hotwire dev newsletter](https://masilotti.com/hotwire/). A monthly newsletter on the Hotwire stack: Turbo (Native), Stimulus, and Strada articles, code, and courses.
 
-## [32. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [31. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In Portuguese
 
@@ -402,7 +391,7 @@
 
 *   [Le podcast 🎙 AWS ☁️ en français 🇫🇷](https://stormacq.com/podcasts) - Tous les vendredis, l'actualité du cloud, des retours d'expérience, des outils qui aident les développeurs.
 
-## [33. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
+## [32. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
 
 ### Family
 
@@ -460,7 +449,7 @@
 | ------: | -------: | ---: |
 |   2 - 4 |        8 | 120m |
 
-## [34. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
+## [33. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
 
 ### iOS
 
@@ -486,13 +475,13 @@
 
 *   [*Core Data for iOS* by Tim Isted, Tom Harrington](https://www.amazon.com/Core-Data-iOS-Data-Driven-Applications/dp/0321670426)
 
-## [35. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [34. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### E-books for purchase / Libraries for creating HTTP middlewares
 
 *   [Effective Go: Elegant, efficient, and testable code](https://www.manning.com/books/effective-go) - Unlock Go’s unique perspective on program design, and start writing simple, maintainable, and testable Go code.
 
-## [36. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
+## [35. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
 
 ### Company Blogs / Progressive Web Application
 
@@ -502,7 +491,7 @@
 
 *   [OneStepCheckout](https://onestepcheckout.com/)
 
-## [37. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [36. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Docs / Official Docs
 
@@ -511,15 +500,15 @@
 
 ### Modules / Frontend framework
 
-*   [packup (⭐326)](https://github.com/kt3k/packup) - Zero-config web application packager for Deno.
+*   [packup (⭐328)](https://github.com/kt3k/packup) - Zero-config web application packager for Deno.
 
 ### Modules / Web framework
 
-*   [hono (⭐17k)](https://github.com/honojs/hono) - Ultrafast web framework for Cloudflare Workers, Deno, and Bun. Fast, but not only fast.
+*   [hono (⭐19k)](https://github.com/honojs/hono) - Ultrafast web framework for Cloudflare Workers, Deno, and Bun. Fast, but not only fast.
 
 ### Modules / Web utils
 
-*   [fresh\_chart (⭐134)](https://github.com/denoland/fresh_charts) - A server-side-rendered charting library for Fresh.
+*   [fresh\_chart (⭐139)](https://github.com/denoland/fresh_charts) - A server-side-rendered charting library for Fresh.
 *   [squishy\_cookies (⭐15)](https://github.com/omar2205/squishy_cookies) - Easily sign and verify cookies.
 
 ### Showcases / XML
@@ -542,7 +531,7 @@
 
 *   [deno-ja](https://deno-ja.deno.dev/) - Deno Japanese User Group.
 
-## [38. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
+## [37. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
 ### Hosted Readers / Outline Processor Markup Language
 
@@ -556,17 +545,17 @@
 *   [Speak News](http://www.imaja.com/speaknews/) <sup>[1241](https://t.me/s/aboutrss/1241)</sup> [![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://itunes.apple.com/app/speak-news-rss-news-reader/id1117146910)
 *   [想看](https://chentiansaber.notion.site/chentiansaber/APP-4befacfd391c4530b462ff85296aaaeb) <sup>[1247](https://t.me/s/aboutrss/1247)</sup> [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](http://myapp.chentiansaber.top/xiangkanapp)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 *   [Next Level News](https://nextlevelnews.app/) <sup>[1258](https://t.me/s/aboutrss/1258)</sup> [![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://apps.apple.com/app/next-level-news/id1616555900)
-*   [Lettura (⭐1.4k)](https://github.com/zhanglun/lettura) <sup>[1262](https://t.me/s/aboutrss/1262)</sup> ![Mac](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-mac-client-16.png)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/zhanglun/lettura)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+*   [Lettura (⭐1.6k)](https://github.com/zhanglun/lettura) <sup>[1262](https://t.me/s/aboutrss/1262)</sup> ![Mac](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-mac-client-16.png)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/zhanglun/lettura)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
 ### Other Apps / Outline Processor Markup Language
 
 *   [Planet](https://planetable.eth.limo/C171164A-F0B7-4915-9FC6-4BC4217D7971/) <sup>[1244](https://t.me/s/aboutrss/1244)</sup>
-*   [Feedolin (⭐33)](https://github.com/strukturart/feedolin) <sup>[1252](https://t.me/s/aboutrss/1252)</sup> : An RSS reader for mobile phone system KaiOS [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/strukturart/feedolin)
+*   [Feedolin (⭐36)](https://github.com/strukturart/feedolin) <sup>[1252](https://t.me/s/aboutrss/1252)</sup> : An RSS reader for mobile phone system KaiOS [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/strukturart/feedolin)
 
 ### universally from / webpage/html
 
 *   [RSS Please](https://www.wezm.net/v2/posts/2022/generate-rss-from-webpage/) <sup>[1249](https://t.me/s/aboutrss/1249)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/wezm/rsspls)
-*   [FreshRSS 1.20.0 (⭐9.1k)](https://github.com/FreshRSS/FreshRSS/releases/tag/1.20.0) <sup>[1256](https://t.me/s/aboutrss/1256)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/FreshRSS/FreshRSS/)
+*   [FreshRSS 1.20.0 (⭐11k)](https://github.com/FreshRSS/FreshRSS/releases/tag/1.20.0) <sup>[1256](https://t.me/s/aboutrss/1256)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/FreshRSS/FreshRSS/)
 *   [ChangeDetection](https://lemonade.changedetection.io/start) <sup>[1264](https://t.me/s/aboutrss/1264)</sup>
 
 ### specifically from (*a certain platform*) / Twitter
@@ -592,17 +581,16 @@
 
 ### RSS2WeChat / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
-*   [RSSPush (⭐529)](https://github.com/easychen/rsspush) <sup>[1251](https://t.me/s/aboutrss/1251)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/easychen/rsspush)
+*   [RSSPush (⭐590)](https://github.com/easychen/rsspush) <sup>[1251](https://t.me/s/aboutrss/1251)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/easychen/rsspush)
 
 ### Multi-subject / Crypto or Blockchain relevant
 
 *   [Buzzing](https://www.buzzing.cc/) <sup>[1250](https://t.me/s/aboutrss/1250)</sup>
 
-## [39. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
+## [38. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
 
 ### Data Science
 
-*   [Foundations of Data Science](https://www.cs.cornell.edu/jeh/book.pdf) - Avrim Blum, John Hopcroft, Ravindran Kannan (PDF)
 *   [High-Dimensional Data Analysis with Low-Dimensional Models: Principles, Computation, and Applications](https://book-wright-ma.github.io/Book-WM-20210422.pdf) - John Wright, Yi Ma (PDF)
 
 ### Machine Learning
@@ -619,83 +607,82 @@
 
 ### Software Architecture
 
-*   [Refactor Like a Superhero (⭐977)](https://github.com/bespoyasov/refactor-like-a-superhero-online-book/blob/main/manuscript-en/README.md) - Alex Bespoyasov
+*   [Refactor Like a Superhero (⭐1k)](https://github.com/bespoyasov/refactor-like-a-superhero-online-book/blob/main/manuscript-en/README.md) - Alex Bespoyasov
 
-## [40. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/week/README.md)
+## [39. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/week/README.md)
 
 ### Specialty Topics / Transparency
 
 *   📚 [Depth Peeling](https://developer.download.nvidia.com/assets/gamedev/docs/OrderIndependentTransparency.pdf) - Method for order-independent transparency.
 
-## [41. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [40. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Programming Languages / [Other](#other-1)
 
-*   [STOKE (⭐730)](https://github.com/StanfordPL/stoke) :warning: — A programming-language agnostic stochastic optimizer for the x86\_64 instruction set. It uses random search to explore the extremely high-dimensional space of all possible program transformations.
+*   [STOKE (⭐753)](https://github.com/StanfordPL/stoke) :warning: — A programming-language agnostic stochastic optimizer for the x86\_64 instruction set. It uses random search to explore the extremely high-dimensional space of all possible program transformations.
 *   [CScout](https://www.spinellis.gr/cscout) — Complexity and quality metrics for C and C preprocessor code.
-*   [CSharpEssentials (⭐161)](https://github.com/DustinCampbell/CSharpEssentials) :warning: — C# Essentials is a collection of Roslyn diagnostic analyzers, code fixes and refactorings that make it easy to work with C# 6 language features.
-*   [VSDiagnostics (⭐64)](https://github.com/Vannevelj/VSDiagnostics) :warning: — A collection of static analyzers based on Roslyn that integrates with VS.
+*   [CSharpEssentials (⭐160)](https://github.com/DustinCampbell/CSharpEssentials) :warning: — C# Essentials is a collection of Roslyn diagnostic analyzers, code fixes and refactorings that make it easy to work with C# 6 language features.
+*   [VSDiagnostics (⭐65)](https://github.com/Vannevelj/VSDiagnostics) :warning: — A collection of static analyzers based on Roslyn that integrates with VS.
 *   [effective\_dart](https://pub.dev/packages/effective_dart) — Linter rules corresponding to the guidelines in Effective Dart
 *   [elm-analyse](https://stil4m.github.io/elm-analyse) :warning: — A tool that allows you to analyse your Elm code, identify deficiencies and apply best practices.
-*   [dingo-hunter (⭐316)](https://github.com/nickng/dingo-hunter) :warning: — Static analyser for finding deadlocks in Go.
-*   [dupl (⭐342)](https://github.com/mibk/dupl) :warning: — Reports potentially duplicated code.
+*   [dingo-hunter (⭐317)](https://github.com/nickng/dingo-hunter) :warning: — Static analyser for finding deadlocks in Go.
+*   [dupl (⭐347)](https://github.com/mibk/dupl) :warning: — Reports potentially duplicated code.
 *   [lll (⭐65)](https://github.com/walle/lll) :warning: — Report long lines.
-*   [safesql (⭐563)](https://github.com/stripe/safesql) :warning: — Static analysis tool for Golang that protects against SQL injections.
+*   [safesql (⭐564)](https://github.com/stripe/safesql) :warning: — Static analysis tool for Golang that protects against SQL injections.
 *   [aether](http://aetherjs.com) :warning: — Lint, analyze, normalize, transform, sandbox, run, step through, and visualize user JavaScript, in node or the browser.
 *   [es6-plato (⭐205)](https://github.com/the-simian/es6-plato) :warning: — Visualize JavaScript (ES6) source complexity.
-*   [escomplex (⭐261)](https://github.com/jared-stilwell/escomplex) :warning: — Software complexity analysis of JavaScript-family abstract syntax trees.
+*   [escomplex (⭐266)](https://github.com/jared-stilwell/escomplex) :warning: — Software complexity analysis of JavaScript-family abstract syntax trees.
 *   [Esprima](https://esprima.org) :warning: — ECMAScript parsing infrastructure for multipurpose analysis.
-*   [PHP-Token-Reflection (⭐189)](https://github.com/Andrewsville/PHP-Token-Reflection) :warning: — Library emulating the PHP internal reflection.
-*   [phpca (⭐96)](https://github.com/wapmorgan/PhpCodeAnalyzer) :warning: — Finds usage of non-built-in extensions.
+*   [PHP-Token-Reflection (⭐190)](https://github.com/Andrewsville/PHP-Token-Reflection) :warning: — Library emulating the PHP internal reflection.
+*   [phpca (⭐97)](https://github.com/wapmorgan/PhpCodeAnalyzer) :warning: — Finds usage of non-built-in extensions.
 *   [PhpDependencyAnalysis](https://mamuz.github.io/PhpDependencyAnalysis) :warning: — Builds a dependency graph for a project.
-*   [phpdoc-to-typehint (⭐225)](https://github.com/dunglas/phpdoc-to-typehint) :warning: — Add scalar type hints and return types to existing PHP projects using PHPDoc annotations.
-*   [phpsa (⭐636)](https://github.com/ovr/phpsa) :warning: — Static analysis tool for PHP.
+*   [phpdoc-to-typehint (⭐226)](https://github.com/dunglas/phpdoc-to-typehint) :warning: — Add scalar type hints and return types to existing PHP projects using PHPDoc annotations.
+*   [phpsa (⭐639)](https://github.com/ovr/phpsa) :warning: — Static analysis tool for PHP.
 *   [Qafoo Quality Analyzer (⭐494)](https://github.com/Qafoo/QualityAnalyzer) :warning: — Visualizes metrics and source code.
 *   [bellybutton (⭐266)](https://github.com/hchasestevens/bellybutton) — A linting engine supporting custom project-specific rules.
-*   [cohesion (⭐229)](https://github.com/mschwager/cohesion) :warning: — A tool for measuring Python class cohesion.
-*   [InspectorTiger (⭐79)](https://github.com/thg-consulting/it) :warning: — IT, Inspector Tiger, is a modern python code review tool / framework. It comes with bunch of pre-defined handlers which warns you about improvements and possible bugs. Beside these handlers, you can write your own or use community ones.
-*   [cyclocomp (⭐46)](https://github.com/MangoTheCat/cyclocomp) — Quantifies the cyclomatic complexity of R functions / expressions.
+*   [cohesion (⭐236)](https://github.com/mschwager/cohesion) — A tool for measuring Python class cohesion.
+*   [InspectorTiger (⭐80)](https://github.com/thg-consulting/it) :warning: — IT, Inspector Tiger, is a modern python code review tool / framework. It comes with bunch of pre-defined handlers which warns you about improvements and possible bugs. Beside these handlers, you can write your own or use community ones.
+*   [cyclocomp (⭐49)](https://github.com/MangoTheCat/cyclocomp) — Quantifies the cyclomatic complexity of R functions / expressions.
 *   [cane (⭐1.3k)](https://github.com/square/cane) :warning: — Code quality threshold checking as part of your build.
-*   [Churn (⭐405)](https://github.com/danmayer/churn) — A Project to give the churn file, class, and method for a project for a given checkin. Over time the tool adds up the history of churns to give the number of times a file, class, or method is changing during the life of a project.
-*   [Querly (⭐246)](https://github.com/soutaro/querly) :warning: — Pattern Based Checking Tool for Ruby.
+*   [Churn (⭐407)](https://github.com/danmayer/churn) — A Project to give the churn file, class, and method for a project for a given checkin. Over time the tool adds up the history of churns to give the number of times a file, class, or method is changing during the life of a project.
+*   [Querly (⭐250)](https://github.com/soutaro/querly) :warning: — Pattern Based Checking Tool for Ruby.
 *   [Railroader](https://railroader.org) :warning: — An open source static analysis security vulnerability scanner for Ruby on Rails applications.
-*   [Roodi (⭐278)](https://github.com/roodi/roodi) :warning: — Roodi stands for Ruby Object Oriented Design Inferometer. It parses your Ruby code and warns you about design issues you have based on the checks that it has configured.
+*   [Roodi (⭐277)](https://github.com/roodi/roodi) :warning: — Roodi stands for Ruby Object Oriented Design Inferometer. It parses your Ruby code and warns you about design issues you have based on the checks that it has configured.
 *   [Saikuro](https://metricfu.github.io/Saikuro) :warning: — A Ruby cyclomatic complexity analyzer.
-*   [herbie (⭐172)](https://github.com/mcarton/rust-herbie-lint) :warning: — Adds warnings or errors to your crate when using a numerically unstable floating point expression.
+*   [herbie (⭐174)](https://github.com/mcarton/rust-herbie-lint) :warning: — Adds warnings or errors to your crate when using a numerically unstable floating point expression.
 *   [linter-rust (⭐40)](https://github.com/AtomLinter/linter-rust) :warning: — Linting your Rust-files in Atom, using rustc and cargo.
 *   [TSqlRules (⭐29)](https://github.com/ashleyglee/TSqlRules) :warning: — TSQL Static Code Analysis Rules for SQL Server.
-*   [linter (⭐267)](https://github.com/HairyFotr/linter) :warning: — Linter is a Scala static analysis compiler plugin which adds compile-time checks for various possible bugs, inefficiencies, and style problems.
-*   [kmdr (⭐14)](https://github.com/ediardo/kmdr-cli) — CLI tool for learning commands from your terminal. kmdr delivers a break down of commands with every attribute explained.
+*   [linter (⭐268)](https://github.com/HairyFotr/linter) :warning: — Linter is a Scala static analysis compiler plugin which adds compile-time checks for various possible bugs, inefficiencies, and style problems.
+*   [kmdr (⭐17)](https://github.com/ediardo/kmdr-cli) — CLI tool for learning commands from your terminal. kmdr delivers a break down of commands with every attribute explained.
 
 ### Other / [Other](#other-1)
 
-*   [ciocheck (⭐25)](https://github.com/ContinuumIO/ciocheck) :warning: — Linter, formatter and test suite helper. As a linter, it is a wrapper around `pep8`, `pydocstyle`, `flake8`, and `pylint`.
-*   [multilint (⭐27)](https://github.com/adamchainz/multilint) :warning: — A wrapper around `flake8`, `isort` and `modernize`.
-*   [pure (⭐235)](https://github.com/ronomon/pure) :warning: — Pure is a static analysis file format checker that checks ZIP files for dangerous compression ratios, spec deviations, malicious archive signatures, mismatching local and central directory headers, ambiguous UTF-8 filenames, directory and symlink traversals, invalid MS-DOS dates, overlapping headers, overflow, underflow,  sparseness, accidental buffer bleeds etc.
+*   [ciocheck (⭐26)](https://github.com/ContinuumIO/ciocheck) :warning: — Linter, formatter and test suite helper. As a linter, it is a wrapper around `pep8`, `pydocstyle`, `flake8`, and `pylint`.
+*   [multilint (⭐28)](https://github.com/adamchainz/multilint) :warning: — A wrapper around `flake8`, `isort` and `modernize`.
+*   [pure (⭐238)](https://github.com/ronomon/pure) :warning: — Pure is a static analysis file format checker that checks ZIP files for dangerous compression ratios, spec deviations, malicious archive signatures, mismatching local and central directory headers, ambiguous UTF-8 filenames, directory and symlink traversals, invalid MS-DOS dates, overlapping headers, overflow, underflow,  sparseness, accidental buffer bleeds etc.
 *   [Parker (⭐2.5k)](https://github.com/katiefenn/parker) :warning: — Stylesheet analysis tool.
-*   [scsslint (⭐3.6k)](https://github.com/brigade/scss-lint) — Linter for SCSS files.
-*   [gixy (⭐8.2k)](https://github.com/yandex/gixy) — A tool to analyze Nginx configuration. The main goal is to prevent misconfiguration and automate flaw detection.
-*   [Puppet Lint (⭐818)](https://github.com/rodjek/puppet-lint) :warning: — Check that your Puppet manifests conform to the style guide.
+*   [scsslint (⭐3.7k)](https://github.com/brigade/scss-lint) :warning: — Linter for SCSS files.
+*   [gixy (⭐8.3k)](https://github.com/yandex/gixy) — A tool to analyze Nginx configuration. The main goal is to prevent misconfiguration and automate flaw detection.
+*   [Puppet Lint (⭐816)](https://github.com/rodjek/puppet-lint) :warning: — Check that your Puppet manifests conform to the style guide.
 *   [collector (⭐289)](https://github.com/banyanops/collector) :warning: — Run arbitrary scripts inside containers, and gather useful information.
-*   [Docker Label Inspector (⭐80)](https://github.com/garethr/docker-label-inspector) :warning: — Lint and validate Dockerfile labels.
+*   [Docker Label Inspector (⭐79)](https://github.com/garethr/docker-label-inspector) :warning: — Lint and validate Dockerfile labels.
 *   [grunt-bootlint (⭐66)](https://github.com/twbs/grunt-bootlint) :warning: — A Grunt wrapper for [Bootlint (⭐2.4k)](https://github.com/twbs/bootlint), the HTML linter for Bootstrap projects.
-*   [gulp-bootlint (⭐41)](https://github.com/tschortsch/gulp-bootlint) :warning: — A gulp wrapper for [Bootlint (⭐2.4k)](https://github.com/twbs/bootlint), the HTML linter for Bootstrap projects.
+*   [gulp-bootlint (⭐42)](https://github.com/tschortsch/gulp-bootlint) :warning: — A gulp wrapper for [Bootlint (⭐2.4k)](https://github.com/twbs/bootlint), the HTML linter for Bootstrap projects.
 *   [android-lint-summary](https://passy.github.io/android-lint-summary) :warning: — Combines lint errors of multiple projects into one output, check lint results of multiple sub-projects at once.
-*   [paprika (⭐72)](https://github.com/GeoffreyHecht/paprika) :warning: — A toolkit to detect some code smells in analyzed Android applications.
+*   [paprika (⭐74)](https://github.com/GeoffreyHecht/paprika) :warning: — A toolkit to detect some code smells in analyzed Android applications.
 *   [qark (⭐3.2k)](https://github.com/linkedin/qark) :warning: — Tool to look for several security related Android application vulnerabilities.
 *   [solhint](https://protofire.github.io/solhint) — Solhint is an open source project created by <https://protofire.io>. Its goal is to provide a linting utility for Solidity code.
 
 ### Multiple languages / [Other](#other-1)
 
 *   [Atom-Beautify](https://atom.io/packages/atom-beautify) :warning: — Beautify HTML, CSS, JavaScript, PHP, Python, Ruby, Java, C, C++, C#, Objective-C, CoffeeScript, TypeScript, Coldfusion, SQL, and more in Atom editor.
-*   [coala](https://coala.io) :warning: — Language independent framework for creating code analysis - supports [over 60 languages](https://coala.io/languages) by default.
 *   [cqc (⭐323)](https://github.com/xcatliu/cqc) :warning: — Check your code quality for js, jsx, vue, css, less, scss, sass and styl files.
-*   [include-gardener (⭐73)](https://github.com/feddischson/include_gardener) :warning: — A multi-language static analyzer for C/C++/Obj-C/Python/Ruby to create a graph (in dot or graphml format) which shows all `#include` relations of a given set of files.
+*   [include-gardener (⭐77)](https://github.com/feddischson/include_gardener) :warning: — A multi-language static analyzer for C/C++/Obj-C/Python/Ruby to create a graph (in dot or graphml format) which shows all `#include` relations of a given set of files.
 *   [pfff (⭐2.4k)](https://github.com/facebookarchive/pfff/wiki/Main) :warning: — Facebook's tools for code analysis, visualizations, or style-preserving source transformation for many languages.
 *   [Refactoring Essentials](https://marketplace.visualstudio.com/items?itemName=SharpDevelopTeam.RefactoringEssentialsforVisualStudio) — The free Visual Studio 2015 extension for C# and VB.NET refactorings, including code best practice analyzers.
-*   [Wotan (⭐282)](https://github.com/fimbullinter/wotan) :warning: — Pluggable TypeScript and JavaScript linter.
+*   [Wotan (⭐281)](https://github.com/fimbullinter/wotan) :warning: — Pluggable TypeScript and JavaScript linter.
 
-## [42. Awesome Browser Extensions for Github](/content/stefanbuck/awesome-browser-extensions-for-github/week/README.md)
+## [41. Awesome Browser Extensions for Github](/content/stefanbuck/awesome-browser-extensions-for-github/week/README.md)
 
 ### [Advanced GitHub Notifier (⭐79)](https://github.com/freaktechnik/advanced-github-notifier) <a href="https://addons.mozilla.org/firefox/addon/advanced-github-notifier/?src=external-awesome"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
@@ -946,7 +933,7 @@ Extends GitHub pages with math, diagrams, embedded YouTube videos etc.
 
 Installs: 426 | Stars: 91 | Last update: n/a
 
-## [43. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
+## [42. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
 
 ### Tools - Testing / React
 
@@ -956,11 +943,11 @@ Installs: 426 | Stars: 91 | Last update: n/a
 
 *   [Stargate](https://stargate.io/docs/latest/quickstart/qs-graphql-cql-first.html) - Open source data gateway currently supporting Apache Cassandra® and DataStax Enterprise.
 
-## [44. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
+## [43. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
 
 ### Automation / DSL
 
-*   [pymeter (⭐49)](https://github.com/eldaduzman/pymeter) - Simple JMeter performance tests API for Python.
+*   [pymeter (⭐139)](https://github.com/eldaduzman/pymeter) - Simple JMeter performance tests API for Python.
 
 ### CI / Tools & Plugins
 
@@ -985,20 +972,20 @@ Installs: 426 | Stars: 91 | Last update: n/a
 
 *   [Performance Testing with JMeter 2.9](https://books.google.com/books?id=fpWmv3wPT64C) - By Bayo Erinle ([Packt Publishing](https://www.packtpub.com/product/performance-testing-with-jmeter-29/9781782165842)); guide to test web applications using Apache JMeter with practical, hands-on examples.
 
-## [45. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [44. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Others / Third-party APIs
 
-*   [lisp-pay (⭐23)](https://github.com/K1D77A/lisp-pay) - Wrappers around various payment processors: Paypal, Stripe, Coinpayments and BTCPayServer. [MIT](https://opensource.org/licenses/MIT).
+*   [lisp-pay (⭐24)](https://github.com/K1D77A/lisp-pay) - Wrappers around various payment processors: Paypal, Stripe, Coinpayments and BTCPayServer. [MIT](https://opensource.org/licenses/MIT).
 *   [lunamech-matrix-api (⭐7)](https://github.com/K1D77A/lunamech-matrix-api) - A complete wrapper over the Client -> Server Matrix API. [MIT](https://opensource.org/licenses/MIT).
 
-## [46. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [45. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### Projects
 
 *   [Receiving GOES-16 Images on a Raspberry Pi](https://gist.github.com/lxe/c1756ca659c3b78414149a3ea723eae2#file-goes16-rtlsdr-md) - An advanced project to receive weather imagery from the GOES-16 satellite using software defined radio (SDR).
 
-## [47. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [46. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Links / Courses
 
@@ -1012,301 +999,298 @@ Installs: 426 | Stars: 91 | Last update: n/a
 ### Libraries/Frameworks / Database
 
 *   [Litote/kmongo (⭐781)](https://github.com/Litote/kmongo) - KMongo - Kotlin toolkit for Mongo
-*   [dizitart/nitrite-database (⭐820)](https://github.com/dizitart/nitrite-database/tree/master/potassium-nitrite) - Potassium Nitrite is a kotlin extension of nitrite database, an open source nosql embedded document store with mongodb like api.
+*   [dizitart/nitrite-database (⭐841)](https://github.com/dizitart/nitrite-database/tree/master/potassium-nitrite) - Potassium Nitrite is a kotlin extension of nitrite database, an open source nosql embedded document store with mongodb like api.
 
 ### Libraries/Frameworks / Tools
 
-*   [facebookincubator/ktfmt (⭐886)](https://github.com/facebookincubator/ktfmt) - Kotlin code formatter that reflows lines and always produces the same result.
+*   [facebookincubator/ktfmt (⭐941)](https://github.com/facebookincubator/ktfmt) - Kotlin code formatter that reflows lines and always produces the same result.
 
 ### Libraries/Frameworks / Game Development
 
-*   [zeganstyl/thelema-engine (⭐75)](https://github.com/zeganstyl/thelema-engine) - 3d graphics engine in Kotlin, based on sources of libGDX. Platforms: JVM, TeaVM, Kotlin/JS, Kotlin/Native. See live demo: <a href="https://zeganstyl.github.io/thelema-teavm-tests/">TeaVM</a>, <a href="https://zeganstyl.github.io/thelema-kxjs-demo/">Kotlin/JS</a>
+*   [zeganstyl/thelema-engine (⭐77)](https://github.com/zeganstyl/thelema-engine) - 3d graphics engine in Kotlin, based on sources of libGDX. Platforms: JVM, TeaVM, Kotlin/JS, Kotlin/Native. See live demo: <a href="https://zeganstyl.github.io/thelema-teavm-tests/">TeaVM</a>, <a href="https://zeganstyl.github.io/thelema-kxjs-demo/">Kotlin/JS</a>
 
 ### Libraries/Frameworks / Misc
 
-*   [ivanisidrowu/KtRssReader (⭐98)](https://github.com/ivanisidrowu/KtRssReader) - Kotlin library for parsing RSS feeds
-*   [krud-dev/shapeshift (⭐185)](https://github.com/krud-dev/shapeshift) - A Kotlin library for intelligent object mapping and conversion between objects.
-*   [pmwmedia/tinylog (⭐687)](https://github.com/pmwmedia/tinylog) - Lightweight logging framework with native logging API for Kotlin.
+*   [ivanisidrowu/KtRssReader (⭐99)](https://github.com/ivanisidrowu/KtRssReader) - Kotlin library for parsing RSS feeds
+*   [krud-dev/shapeshift (⭐192)](https://github.com/krud-dev/shapeshift) - A Kotlin library for intelligent object mapping and conversion between objects.
+*   [pmwmedia/tinylog (⭐707)](https://github.com/pmwmedia/tinylog) - Lightweight logging framework with native logging API for Kotlin.
 
 ### Libraries/Frameworks / Data Science
 
-*   [Kotlin/multik (⭐636)](https://github.com/Kotlin/multik) - A Kotlin library for working with multi-dimensional arrays
+*   [Kotlin/multik (⭐652)](https://github.com/Kotlin/multik) - A Kotlin library for working with multi-dimensional arrays
 
 ### Libraries/Frameworks / Command Line Interface
 
-*   [ajalt/clikt (⭐2.5k)](https://github.com/ajalt/clikt) - Clikt - Intuitive command line interface parsing for Kotlin.
-*   [xenomachina/kotlin-argparser (⭐483)](https://github.com/xenomachina/kotlin-argparser) - Easy to use and concise yet powerful and robust command line argument parsing for Kotlin.
-*   [ajalt/mordant (⭐945)](https://github.com/ajalt/mordant) - Mordant - Full-featured text styling for Kotlin command line applications.
 *   [aPureBase/arkenv (⭐17)](https://github.com/aPureBase/arkenv) - Fully fledged command line arguments / environment variables parser via simple Kotlin delegates
-*   [fork-handles/bunting4k (⭐205)](https://github.com/fork-handles/forkhandles/tree/trunk/bunting4k) - Simple, typesafe, testable command line flags
-*   [dbaelz/Konclik (⭐46)](https://github.com/dbaelz/Konclik)
-*   [varabyte/kotter (⭐560)](https://github.com/varabyte/kotter) - A declarative, Kotlin-idiomatic API for writing dynamic command line applications
-*   [kotlin-inquirer (⭐202)](https://github.com/kotlin-inquirer/kotlin-inquirer) - A collection of common interactive command line user interfaces written in Kotlin
+*   [dbaelz/Konclik (⭐45)](https://github.com/dbaelz/Konclik) - Konclik: Kotlin/Native Command Line Interface Kit
+*   [kotlin-inquirer (⭐224)](https://github.com/kotlin-inquirer/kotlin-inquirer) - A collection of common interactive command line user interfaces written in Kotlin
+*   [fork-handles/bunting4k (⭐226)](https://github.com/fork-handles/forkhandles/tree/trunk/bunting4k) - Simple, typesafe, testable command line flags
+*   [xenomachina/kotlin-argparser (⭐486)](https://github.com/xenomachina/kotlin-argparser) - Easy to use and concise yet powerful and robust command line argument parsing for Kotlin.
+*   [varabyte/kotter (⭐580)](https://github.com/varabyte/kotter) - A declarative, Kotlin-idiomatic API for writing dynamic command line applications
+*   [ajalt/mordant (⭐1k)](https://github.com/ajalt/mordant) - Mordant - Full-featured text styling for Kotlin command line applications.
+*   [ajalt/clikt (⭐2.6k)](https://github.com/ajalt/clikt) - Clikt - Intuitive command line interface parsing for Kotlin.
 
 ### Libraries/Frameworks / Browsers
 
-*   [wendigo/chrome-reactive-kotlin (⭐75)](https://github.com/wendigo/chrome-reactive-kotlin)
+*   [wendigo/chrome-reactive-kotlin (⭐77)](https://github.com/wendigo/chrome-reactive-kotlin) - Headless Chrome DevTools Protocol Client (RxJava3 + Kotlin)
 
 ### Libraries/Frameworks / I/O
 
-*   [square/okio](https://square.github.io/okio) - A modern I/O library for Android, Kotlin, and Java.
 *   [rsocket/rsocket-kotlin](https://rsocket.io) - Kotlin implementation of RSocket.
+*   [square/okio](https://square.github.io/okio) - A modern I/O library for Android, Kotlin, and Java.
 
 ### Libraries/Frameworks / Internationalisation and Localization
 
-*   [cashapp/barber (⭐164)](https://github.com/cashapp/barber) - A type safe Kotlin JVM library for building up localized, fillable, themed documents using Mustache templating.
 *   [projectfluent/fluent-kotlin (⭐29)](https://github.com/projectfluent/fluent-kotlin) - Kotlin tooling implementation of ProjectFluent. Read, write, and transform Fluent files.
+*   [cashapp/barber (⭐166)](https://github.com/cashapp/barber) - A type safe Kotlin JVM library for building up localized, fillable, themed documents using Mustache templating.
 
 ### Libraries/Frameworks / Jetpack-Compose
 
-*   [CuriousNikhil/neumorphic-compose (⭐384)](https://github.com/CuriousNikhil/neumorphic-compose) - Neumorphism UI on Android with Jetpack Compose. Just add one modifier = Modifier.neumorphic()
+*   [CuriousNikhil/neumorphic-compose (⭐401)](https://github.com/CuriousNikhil/neumorphic-compose) - Neumorphism UI on Android with Jetpack Compose. Just add one modifier = Modifier.neumorphic()
 
 ### Projects / Web
 
-*   [sdeleuze/spring-boot-kotlin-demo (⭐615)](https://github.com/sdeleuze/spring-boot-kotlin-demo) - Basic Spring Boot app in Kotlin.
+*   [derveloper/kiny](https://github.com/derveloper/kiny) - Your super simple private serverless service running your kotlin functions like AWS lambda.
+*   [MichaelGrigoryan25/kotlin-url-shortener](https://github.com/MichaelGrigoryan25/kotlin-url-shortener) - Basic URL shortener built with Kotlin, Redis and Javalin
+*   [viniciusccarvalho/kodein-cloud-functions (⭐3)](https://github.com/viniciusccarvalho/kodein-cloud-functions) - Provides adapters to different cloud functions providers (AWS, Azure) to run vanilla kotlin functions defined as kodein modules
+*   [yyunikov/spring-boot-2-kotlin-starter (⭐17)](https://github.com/yyunikov/spring-boot-2-kotlin-starter) - Spring Boot 2.0 Kotlin application starter with configurations for Gradle, Mongo, JUnit 5 tests, logging, CircleCI and Docker compose.
 *   [IRus/kotlin-dev-proxy (⭐22)](https://github.com/IRus/kotlin-dev-proxy) - Simple server for proxy requests and host static files written in Kotlin, Spark Java and Apache HttpClient.
 *   [ratpack/example-ratpack-gradle-kotlin-app (⭐37)](https://github.com/ratpack/example-ratpack-gradle-kotlin-app) - An example of a Kotlin Ratpack app built with Gradle.
-*   [eddywm/KTFLITE (⭐178)](https://github.com/eddywm/KTFLITE) - Computer Vision on Android with Kotlin and Tensorflow Lite.
-*   [corda/corda (⭐4k)](https://github.com/corda/corda) - Corda is a distributed ledger platform designed to record, manage and automate legal agreements between business partners.
-*   [mixitconf/mixit (⭐538)](https://github.com/mixitconf/mixit) - MiXiT website
-*   [derveloper/kiny](https://github.com/derveloper/kiny) - Your super simple private serverless service running your kotlin functions like AWS lambda.
 *   [ssouris/petclinic-spring5-reactive (⭐53)](https://github.com/ssouris/petclinic-spring5-reactive) - Spring 5 Reactive Petclinic app written in Kotlin.
-*   [yyunikov/spring-boot-2-kotlin-starter (⭐17)](https://github.com/yyunikov/spring-boot-2-kotlin-starter) - Spring Boot 2.0 Kotlin application starter with configurations for Gradle, Mongo, JUnit 5 tests, logging, CircleCI and Docker compose.
-*   [viniciusccarvalho/kodein-cloud-functions (⭐3)](https://github.com/viniciusccarvalho/kodein-cloud-functions) - Provides adapters to different cloud functions providers (AWS, Azure) to run vanilla kotlin functions defined as kodein modules
-*   [MichaelGrigoryan25/kotlin-url-shortener](https://github.com/MichaelGrigoryan25/kotlin-url-shortener) - Basic URL shortener built with Kotlin, Redis and Javalin
+*   [eddywm/KTFLITE (⭐178)](https://github.com/eddywm/KTFLITE) - Computer Vision on Android with Kotlin and Tensorflow Lite.
+*   [mixitconf/mixit (⭐539)](https://github.com/mixitconf/mixit) - MiXiT website
+*   [sdeleuze/spring-boot-kotlin-demo (⭐616)](https://github.com/sdeleuze/spring-boot-kotlin-demo) - Basic Spring Boot app in Kotlin.
+*   [corda/corda (⭐4k)](https://github.com/corda/corda) - Corda is a distributed ledger platform designed to record, manage and automate legal agreements between business partners.
 
 ### Projects / Build tools
 
-*   [cbeust/kobalt (⭐430)](https://github.com/cbeust/kobalt) - Build system inspired by Gradle.
 *   [pubref/rules\_kotlin (⭐159)](https://github.com/pubref/rules_kotlin) - Bazel rules for Kotlin.
+*   [cbeust/kobalt (⭐433)](https://github.com/cbeust/kobalt) - Build system inspired by Gradle.
 
 ### Projects / Misc
 
-*   [quicktype/quicktype (⭐12k)](https://github.com/quicktype/quicktype) - Generate Kotlin types and converters from JSON, Schema, TypeScript, and GraphQL
-*   [lice-lang/lice (⭐130)](https://github.com/lice-lang/lice) - A Lisp-like language's interpreter written in Kotlin
-*   [borisf/classyshark-bytecode-viewer (⭐202)](https://github.com/borisf/classyshark-bytecode-viewer) - View your Kotlin generated classes as Java and bytecode format.
-*   [mkobit/jenkins-pipeline-shared-libraries-gradle-plugin (⭐148)](https://github.com/mkobit/jenkins-pipeline-shared-libraries-gradle-plugin) - Gradle plugin to help with build and test of Jenkins Pipeline Shared Libraries.
-*   [sourcerer-io/sourcerer-app (⭐6.7k)](https://github.com/sourcerer-io/sourcerer-app) - Visual profile for software engineers written in Kotlin.
-*   [Poweranimal/PowerCollections (⭐16)](https://github.com/Poweranimal/PowerCollections) - Powerfull Collections, Sets, Lists and Maps.
 *   [neworld/gradle-jdeploy-plugin (⭐2)](https://github.com/neworld/gradle-jdeploy-plugin) - Gradle plugin to publish JVM applications via npmjs.com
-*   [ruslanys/telegraff (⭐147)](https://github.com/ruslanys/telegraff) - Kotlin DSL for Telegram Bots creation.
 *   [krzema12/fsynth (⭐11)](https://github.com/krzema12/fsynth) - Music synthesizer as a Kotlin multiplatform project
-*   [AngryJKirk/familybot (⭐115)](https://github.com/AngryJKirk/familybot) - Telegram bot to have some fun with your buddies
 *   [madhead/tyzenhaus (⭐14)](https://github.com/madhead/tyzenhaus) - Shared expenses tracking Telegram bot
+*   [Poweranimal/PowerCollections (⭐16)](https://github.com/Poweranimal/PowerCollections) - Powerfull Collections, Sets, Lists and Maps.
+*   [AngryJKirk/familybot (⭐121)](https://github.com/AngryJKirk/familybot) - Telegram bot to have some fun with your buddies
+*   [lice-lang/lice (⭐129)](https://github.com/lice-lang/lice) - A Lisp-like language's interpreter written in Kotlin
+*   [ruslanys/telegraff (⭐146)](https://github.com/ruslanys/telegraff) - Kotlin DSL for Telegram Bots creation.
+*   [mkobit/jenkins-pipeline-shared-libraries-gradle-plugin (⭐148)](https://github.com/mkobit/jenkins-pipeline-shared-libraries-gradle-plugin) - Gradle plugin to help with build and test of Jenkins Pipeline Shared Libraries.
+*   [borisf/classyshark-bytecode-viewer (⭐202)](https://github.com/borisf/classyshark-bytecode-viewer) - View your Kotlin generated classes as Java and bytecode format.
+*   [sourcerer-io/sourcerer-app (⭐6.7k)](https://github.com/sourcerer-io/sourcerer-app) - Visual profile for software engineers written in Kotlin.
+*   [quicktype/quicktype (⭐13k)](https://github.com/quicktype/quicktype) - Generate Kotlin types and converters from JSON, Schema, TypeScript, and GraphQL
 
 ### Projects / Desktop
 
-*   [ice1000/Dekoder (⭐21)](https://github.com/ice1000/Dekoder) - A kotlin music player, materially designed.
-*   [ice1000/dev-kt (⭐95)](https://github.com/ice1000/dev-kt) - DevC++-like cross-platform Kotlin IDE.
-*   [ruslanys/vkmusic (⭐36)](https://github.com/ruslanys/vkmusic) - JavaFX and Spring-Boot based application for grabbing music from VK.com.
 *   [datalisk/datalisk](https://github.com/datalisk/datalisk) - A file sync and storage application with end-to-end encryption and multi-platform support.
 *   [pintowar/sudoscan (⭐7)](https://github.com/pintowar/sudoscan) - Scans and solves Sudoku Puzzles from images using AI
-*   [russellbanks/HashHash (⭐34)](https://github.com/russellbanks/HashHash) - A Multiplatform GUI for Hashing, written in Compose for Desktop.
+*   [ice1000/Dekoder (⭐21)](https://github.com/ice1000/Dekoder) - A kotlin music player, materially designed.
+*   [russellbanks/HashHash (⭐35)](https://github.com/russellbanks/HashHash) - A Multiplatform GUI for Hashing, written in Compose for Desktop.
+*   [ruslanys/vkmusic (⭐36)](https://github.com/ruslanys/vkmusic) - JavaFX and Spring-Boot based application for grabbing music from VK.com.
+*   [ice1000/dev-kt (⭐94)](https://github.com/ice1000/dev-kt) - DevC++-like cross-platform Kotlin IDE.
 
 ### Projects / Examples
 
-*   [JetBrains/swot (⭐1.7k)](https://github.com/JetBrains/swot) - Identify email addresses or domains names that belong to colleges or universities. Help automate the process of approving or rejecting academic discounts.
 *   [robfletcher/lazybones-kotlin (⭐1)](https://github.com/robfletcher/lazybones-kotlin) - The Lazybones app migrated to Kotlin as a learning exercise.
-*   [wangjiegulu/KotlinAndroidSample (⭐27)](https://github.com/wangjiegulu/KotlinAndroidSample) - Android sample with kotlin.
-*   [dodyg/Kotlin101 (⭐193)](https://github.com/dodyg/Kotlin101) - 101 examples for Kotlin Programming language.
-*   [dkandalov/kotlin-99 (⭐649)](https://github.com/dkandalov/kotlin-99) - Solve 99 problems with Kotlin!
-*   [dkandalov/rosettacode-kotlin (⭐21)](https://github.com/dkandalov/rosettacode-kotlin) - Repository with source code from <a href="https://rosettacode.org/">RosettaCode</a>
-*   [vicboma1/Kotlin-Koans (⭐124)](https://github.com/vicboma1/Kotlin-Koans) - hese are the simple solutions of the kotlin koans online with intellij project.
-*   [vicboma1/GettingStartedKotlin (⭐43)](https://github.com/vicboma1/GettingStartedKotlin) - Learn the basics of getting started with kotlin.
-*   [vicboma1/Kotlin-Examples-Problems (⭐25)](https://github.com/vicboma1/Kotlin-Examples-Problems) - These are the simple solutions of the kotlin example problems online.
-*   [pakoito/FunctionalAndroidReference (⭐276)](https://github.com/pakoito/FunctionalAndroidReference) - A different Android app showcasing Functional Reactive Programming.
-*   [bmaslakov/kotlin-algorithm-club (⭐927)](https://github.com/bmaslakov/kotlin-algorithm-club) - Classic algorithms and data structures in Kotlin.
-*   [gyulavoros/kotlin-todomvc (⭐22)](https://github.com/gyulavoros/kotlin-todomvc) - Kotlin TodoMVC – full-stack Kotlin application demo
-*   [mkraynov/todomvc-react-kotlin (⭐10)](https://github.com/mkraynov/todomvc-react-kotlin) - React Kotlin TodoMVC – example based on create-react-kotlin-app and todomvc-react
-*   [IvanMwiruki/30-seconds-of-kotlin (⭐250)](https://github.com/IvanMwiruki/30-seconds-of-kotlin) - Useful Kotlin snippets you can understand quickly, using only the stdlib.
-*   [xurxodev/integration-testing-kotlin-multiplatform-kata (⭐28)](https://github.com/xurxodev/integration-testing-kotlin-multiplatform-kata) - A full exercise to learn how to use stubbing HTTP in Kotlin multiplatform using Ktor and Ktor Client Mock.
-*   [rozkminiacz/KotlinUnitTesting (⭐114)](https://github.com/rozkminiacz/KotlinUnitTesting) - Kotlin Unit Testing Examples.
 *   [itmaginationdemos/KMM-Sample-App (⭐5)](https://github.com/itmaginationdemos/KMM-Sample-App) - A sample app written with the help of KMM (Kotlin Multiplatform). File System access, voice recording, and persistence.
+*   [mkraynov/todomvc-react-kotlin (⭐10)](https://github.com/mkraynov/todomvc-react-kotlin) - React Kotlin TodoMVC – example based on create-react-kotlin-app and todomvc-react
+*   [dkandalov/rosettacode-kotlin (⭐21)](https://github.com/dkandalov/rosettacode-kotlin) - Repository with source code from <a href="https://rosettacode.org/">RosettaCode</a>
+*   [gyulavoros/kotlin-todomvc (⭐22)](https://github.com/gyulavoros/kotlin-todomvc) - Kotlin TodoMVC – full-stack Kotlin application demo
+*   [vicboma1/Kotlin-Examples-Problems (⭐25)](https://github.com/vicboma1/Kotlin-Examples-Problems) - These are the simple solutions of the kotlin example problems online.
+*   [wangjiegulu/KotlinAndroidSample (⭐27)](https://github.com/wangjiegulu/KotlinAndroidSample) - Android sample with kotlin.
+*   [xurxodev/integration-testing-kotlin-multiplatform-kata (⭐28)](https://github.com/xurxodev/integration-testing-kotlin-multiplatform-kata) - A full exercise to learn how to use stubbing HTTP in Kotlin multiplatform using Ktor and Ktor Client Mock.
+*   [vicboma1/GettingStartedKotlin (⭐43)](https://github.com/vicboma1/GettingStartedKotlin) - Learn the basics of getting started with kotlin.
+*   [rozkminiacz/KotlinUnitTesting (⭐115)](https://github.com/rozkminiacz/KotlinUnitTesting) - Kotlin Unit Testing Examples.
+*   [vicboma1/Kotlin-Koans (⭐123)](https://github.com/vicboma1/Kotlin-Koans) - hese are the simple solutions of the kotlin koans online with intellij project.
+*   [dodyg/Kotlin101 (⭐194)](https://github.com/dodyg/Kotlin101) - 101 examples for Kotlin Programming language.
+*   [IvanMwiruki/30-seconds-of-kotlin (⭐251)](https://github.com/IvanMwiruki/30-seconds-of-kotlin) - Useful Kotlin snippets you can understand quickly, using only the stdlib.
+*   [pakoito/FunctionalAndroidReference (⭐274)](https://github.com/pakoito/FunctionalAndroidReference) - A different Android app showcasing Functional Reactive Programming.
+*   [dkandalov/kotlin-99 (⭐653)](https://github.com/dkandalov/kotlin-99) - Solve 99 problems with Kotlin!
+*   [bmaslakov/kotlin-algorithm-club (⭐931)](https://github.com/bmaslakov/kotlin-algorithm-club) - Classic algorithms and data structures in Kotlin.
+*   [JetBrains/swot (⭐1.8k)](https://github.com/JetBrains/swot) - Identify email addresses or domains names that belong to colleges or universities. Help automate the process of approving or rejecting academic discounts.
 
 ### Projects / Idea Plugins
 
-*   [Vektah/CodeGlance (⭐1.1k)](https://github.com/Vektah/CodeGlance) - Intelij IDEA plugin for displaying a code mini-map similar to the one found in Sublime.
-*   [intellij-rust/intellij-rust (⭐4.5k)](https://github.com/intellij-rust/intellij-rust) - Rust IDE built using the IntelliJ Platform.
-*   [izhangzhihao/intellij-rainbow-brackets (⭐4.4k)](https://github.com/izhangzhihao/intellij-rainbow-brackets) - Rainbow Brackets / Rainbow Parentheses for IntelliJ IDEA based IDEs.
-*   [roger-yh99/Readhub (⭐61)](https://github.com/roger-yh99/Readhub) - <a href="https://plugins.jetbrains.com/plugin/10539-readhub">Readhub</a> is a News Reader plugin for IntelliJ IDEs
-*   [roger-yh99/AwesomeKotlinPlugin (⭐12)](https://github.com/roger-yh99/AwesomeKotlinPlugin) - <a href="https://plugins.jetbrains.com/plugin/11357-awesome-kotlin">AwesomeKotlin</a> plugin for IntelliJ IDEs
-*   [emedinaa/kotlin-mvp-volley (⭐9)](https://github.com/emedinaa/kotlin-mvp-volley) - Example of Android project in Kotlin using MVP(Model View Presenter) pattern and volley library
 *   [emedinaa/android-recyclerview (⭐2)](https://github.com/emedinaa/android-recyclerview) - Some samples about the RecyclerView and Adapters using kotlin
 *   [emedinaa/kotlin-viewmodel (⭐3)](https://github.com/emedinaa/kotlin-viewmodel) - Basic samples about ViewModel component
-*   [csense-oss/idea-kotlin-checked-exceptions (⭐23)](https://github.com/csense-oss/idea-kotlin-checked-exceptions) - Plugin to help integrate with java and exceptions (highlights, warns when not catching exceptions and a lot more)
+*   [emedinaa/kotlin-mvp-volley (⭐9)](https://github.com/emedinaa/kotlin-mvp-volley) - Example of Android project in Kotlin using MVP(Model View Presenter) pattern and volley library
+*   [roger-yh99/AwesomeKotlinPlugin (⭐12)](https://github.com/roger-yh99/AwesomeKotlinPlugin) - <a href="https://plugins.jetbrains.com/plugin/11357-awesome-kotlin">AwesomeKotlin</a> plugin for IntelliJ IDEs
+*   [csense-oss/idea-kotlin-checked-exceptions (⭐25)](https://github.com/csense-oss/idea-kotlin-checked-exceptions) - Plugin to help integrate with java and exceptions (highlights, warns when not catching exceptions and a lot more)
+*   [roger-yh99/Readhub (⭐62)](https://github.com/roger-yh99/Readhub) - <a href="https://plugins.jetbrains.com/plugin/10539-readhub">Readhub</a> is a News Reader plugin for IntelliJ IDEs
+*   [Vektah/CodeGlance (⭐1.1k)](https://github.com/Vektah/CodeGlance) - Intelij IDEA plugin for displaying a code mini-map similar to the one found in Sublime.
+*   [izhangzhihao/intellij-rainbow-brackets (⭐4.5k)](https://github.com/izhangzhihao/intellij-rainbow-brackets) - Rainbow Brackets / Rainbow Parentheses for IntelliJ IDEA based IDEs.
+*   [intellij-rust/intellij-rust (⭐4.5k)](https://github.com/intellij-rust/intellij-rust) - Rust IDE built using the IntelliJ Platform.
 
 ### Projects / Playground
 
-*   [LouisCAD/kotlin-libraries-playground (⭐181)](https://github.com/LouisCAD/kotlin-libraries-playground)
+*   [LouisCAD/kotlin-libraries-playground (⭐182)](https://github.com/LouisCAD/kotlin-libraries-playground) - A playground to gain a wider and deeper knowledge of the libraries in the Kotlin ecosystem. Also the official sample for gradle refreshVersions.
 
 ### Projects / Android
 
-*   [skydoves/themovies (⭐496)](https://github.com/skydoves/themovies) - A simple project for The Movie DB based on Kotlin MVVM clean architecture and material design & animations.
-*   [enricocid/Music-Player-GO](https://play.google.com/store/apps/details?id=com.iven.musicplayergo) - Simple yet fully-featured local music player aiming at simplicity and performance.
-*   [TonnyL/Mango (⭐655)](https://github.com/TonnyL/Mango) - An Android app for dribbble.com
-*   [SimonSchubert/LinuxCommandBibliotheca (⭐754)](https://github.com/SimonSchubert/LinuxCommandBibliotheca) - Android app which provides a bunch of useful Linux commands.
-*   [SimonSchubert/NewsOut (⭐117)](https://github.com/SimonSchubert/NewsOut) - Android and iOS mobile client for Nextcloud News app
-*   [pranayairan/CoinBit (⭐61)](https://github.com/pranayairan/CoinBit) - CoinBit is completely free Bitcoin & cryptocurrency portfolio tracker app. It helps you over 4000+ cryptocurrencies on 150+ platforms including Binance, GDAX, Kraken etc
 *   \[MohsinAli0899/Book Summary App]\(<https://github.com/MohsinAli0899/Book> Summary App) - BookHub is an Android application that helps users to view books and add them to favorites.
+*   [pranayairan/CoinBit (⭐61)](https://github.com/pranayairan/CoinBit) - CoinBit is completely free Bitcoin & cryptocurrency portfolio tracker app. It helps you over 4000+ cryptocurrencies on 150+ platforms including Binance, GDAX, Kraken etc
+*   [SimonSchubert/NewsOut (⭐117)](https://github.com/SimonSchubert/NewsOut) - Android and iOS mobile client for Nextcloud News app
+*   [skydoves/themovies (⭐496)](https://github.com/skydoves/themovies) - A simple project for The Movie DB based on Kotlin MVVM clean architecture and material design & animations.
+*   [TonnyL/Mango (⭐657)](https://github.com/TonnyL/Mango) - An Android app for dribbble.com
+*   [SimonSchubert/LinuxCommandBibliotheca (⭐889)](https://github.com/SimonSchubert/LinuxCommandBibliotheca) - Android app which provides a bunch of useful Linux commands.
+*   [enricocid/Music-Player-GO](https://play.google.com/store/apps/details?id=com.iven.musicplayergo) - Simple yet fully-featured local music player aiming at simplicity and performance.
 
 ### Android / Libraries
 
-*   [MarcinMoskala/ActivityStarter (⭐430)](https://github.com/MarcinMoskala/ActivityStarter)
-*   [MarcinMoskala/KotlinPreferences (⭐51)](https://github.com/MarcinMoskala/KotlinPreferences)
-*   [MarcinMoskala/PreferenceHolder (⭐155)](https://github.com/MarcinMoskala/PreferenceHolder)
-*   [pawegio/KAndroid (⭐896)](https://github.com/pawegio/KAndroid)
-*   [chibatching/Kotpref (⭐696)](https://github.com/chibatching/Kotpref)
-*   [TouK/bubble (⭐99)](https://github.com/TouK/bubble)
-*   [mcxiaoke/kotlin-koi (⭐515)](https://github.com/mcxiaoke/kotlin-koi)
-*   [PicsArt/stateful (⭐67)](https://github.com/PicsArt/stateful)
-*   [BennyWang/KBinding (⭐409)](https://github.com/BennyWang/KBinding)
-*   [inaka/KillerTask (⭐26)](https://github.com/inaka/KillerTask)
-*   [grandstaish/paperparcel (⭐498)](https://github.com/grandstaish/paperparcel) - Boilerplate reduction library written specifically for working with Kotlin data classes on Android.
-*   [nitrico/LastAdapter (⭐777)](https://github.com/nitrico/LastAdapter) - Don't write a RecyclerView adapter again. Not even a ViewHolder!.
-*   [denisidoro/krouter (⭐121)](https://github.com/denisidoro/krouter) - A lightweight Android activity router.
-*   [metalabdesign/AsyncAwait (⭐408)](https://github.com/metalabdesign/AsyncAwait) - async/await for Android built upon coroutines introduced in Kotlin 1.1.
-*   [zserge/anvil (⭐1.4k)](https://github.com/zserge/anvil) - Minimal UI library for Android inspired by React.
-*   [robinchew/mvil (⭐6)](https://github.com/robinchew/mvil) - 'Virtual DOM' for Android inspired by Anvil.
-*   [DanielMartinus/Stepper-Touch (⭐684)](https://github.com/DanielMartinus/Stepper-Touch) - Fun playful Android stepper widget for counting, written in Kotlin.
-*   [infotech-group/android-drawable-dsl (⭐179)](https://github.com/infotech-group/android-drawable-dsl) - DSL for constructing the drawables in Kotlin instead of in XML.
-*   [zsmb13/MaterialDrawerKt (⭐516)](https://github.com/zsmb13/MaterialDrawerKt) - A DSL for creating Material Design navigation drawers without any XML.
-*   [DanielMartinus/Konfetti (⭐3.1k)](https://github.com/DanielMartinus/Konfetti) - Lightweight particle system to create realistic confetti
-*   [calintat/alps (⭐4)](https://github.com/calintat/alps) - Android library for preferences which includes property delegates and a custom DSL for definining preferences.
-*   [rakshakhegde/ObservableFlow (⭐27)](https://github.com/rakshakhegde/ObservableFlow) - Functional Constructs for Databinding + Kotlin + RxJava
-*   [programmerr47/ganalytics (⭐11)](https://github.com/programmerr47/ganalytics) - A tiny api layer for any analytics in application.
-*   [line/clay (⭐121)](https://github.com/line/clay) - Clay is an Android library project that provides image trimming which is originally an UI component of LINE Creators Studio.
-*   [WindSekirun/RichUtilsKt (⭐172)](https://github.com/WindSekirun/RichUtilsKt) - Advancement Utils for Android Developer written in Kotlin.
-*   [TradeMe/MapMe (⭐841)](https://github.com/TradeMe/MapMe) - A library that brings the adapter pattern and DiffUtil to Google Maps and MapBox.
-*   [iglaweb/Ferris-Wheel (⭐323)](https://github.com/iglaweb/Ferris-Wheel) - Simple android library to present an animated ferris wheel
-*   [ehsunshine/colored-time-selector (⭐152)](https://github.com/ehsunshine/colored-time-selector) - A smart colored time selector. Users can select just free time with a handy colorful range selector.
-*   [yundom/kache (⭐24)](https://github.com/yundom/kache) - A lightweight cache library written in Kotlin.
-*   [adrielcafe/KBus (⭐46)](https://github.com/adrielcafe/KBus) - Dead simple EventBus for Android made with Kotlin and RxJava 2
-*   [yundom/RxVan (⭐3)](https://github.com/yundom/RxVan) - A lightweight event bus written in Kotlin and RxJava.
-*   [duanhong169/DrawableToolbox (⭐1.1k)](https://github.com/duanhong169/DrawableToolbox) - The missing drawable toolbox for Android.
-*   [adrielcafe/AndroidCoroutineScopes (⭐17)](https://github.com/adrielcafe/AndroidCoroutineScopes) - This lib implements the most common CoroutineScopes used in Android apps.
-*   [WindSekirun/RxSocialLogin (⭐125)](https://github.com/WindSekirun/RxSocialLogin) - This Android library is a library that provides social login for 15 platforms powered by RxJava2, Kotlin and Firebase Authentication.
-*   [bakhtiyork/gradients (⭐51)](https://github.com/bakhtiyork/gradients) - A curated collection of splendid gradients
-*   [hpost/rx-brainwaves (⭐5)](https://github.com/hpost/rx-brainwaves) - RxJava wrapper for NeuroSky MindWave headsets
-*   [adrielcafe/KrumbsView (⭐186)](https://github.com/adrielcafe/KrumbsView) - The ultimate breadcrumbs view for Android!
-*   [inshiro/Skate (⭐9)](https://github.com/inshiro/Skate) - A simple and easy to use Android fragment stack controller
-*   [cortinico/slidetoact (⭐1.2k)](https://github.com/cortinico/slidetoact) - A simple 'Slide to Unlock' Material widget for Android, written in Kotlin
-*   [AppIntro/AppIntro (⭐10k)](https://github.com/AppIntro/AppIntro) - Make a cool/material intro for you Android App - Now all in Kotlin!
-*   [CuriousNikhil/gossip (⭐14)](https://github.com/CuriousNikhil/gossip) - Android TextToSpeech Helper to speak any text you want and handle events.
-*   [adrielcafe/PufferDB (⭐100)](https://github.com/adrielcafe/PufferDB) - An Android & JVM key-value storage powered by Protobuf and Coroutines.
-*   [adrielcafe/HAL (⭐79)](https://github.com/adrielcafe/HAL) - A non-deterministic finite-state machine for Android & JVM that won't let you down.
-*   [coil-kt/coil (⭐11k)](https://github.com/coil-kt/coil) - Image loading for Android backed by Kotlin Coroutines.
-*   [levibostian/Shutter-Android (⭐56)](https://github.com/levibostian/Shutter-Android) - an Android library to take photos, record videos, pick images/videos from gallery, with ease. Written in Kotlin.
-*   [rosariopfernandes/firecoil (⭐44)](https://github.com/rosariopfernandes/firecoil) - Display images stored in Cloud Storage for Firebase using Coil.
-*   [skydoves/Only (⭐483)](https://github.com/skydoves/Only) - An easy way to persist and run code block only as many times as necessary on Android.
-*   [skydoves/AndroidVeil (⭐1.5k)](https://github.com/skydoves/AndroidVeil) - An easy, flexible way to implement veil skeletons and shimmering effect for Android.
-*   [skydoves/Submarine (⭐473)](https://github.com/skydoves/Submarine) - Fully customizable floating navigation view for listing items dynamically on Android.
-*   [skydoves/Needs (⭐614)](https://github.com/skydoves/Needs) - An easy way to implement modern permission instructions popup.
-*   [evilthreads669966/EvadeMe (⭐41)](https://github.com/evilthreads669966/EvadeMe) - A heuristics evasion library that prevents your code from being analyzed or tested.
-*   [evilthreads669966/BootLaces (⭐34)](https://github.com/evilthreads669966/BootLaces) - Turns your background service persistent.
 *   [evilthreads669966/WakeService](https://github.com/evilthreads669966/WakeService) - An IntentService that keeps your processor awake while doing work.
-*   [evilthreads669966/Pickpocket (⭐28)](https://github.com/evilthreads669966/Pickpocket) - An asynchronous Android library for content providers and more.
 *   [evilthreads669966/EasyShells](https://github.com/evilthreads669966/EasyShells) - A simple shell for executing Linux commands with responses
+*   [yundom/RxVan (⭐3)](https://github.com/yundom/RxVan) - A lightweight event bus written in Kotlin and RxJava.
 *   [mr-wizman/Consent (⭐4)](https://github.com/mr-wizman/Consent) - Easy Android permissions. Powered by Kotlin.
+*   [hpost/rx-brainwaves (⭐5)](https://github.com/hpost/rx-brainwaves) - RxJava wrapper for NeuroSky MindWave headsets
+*   [robinchew/mvil (⭐7)](https://github.com/robinchew/mvil) - 'Virtual DOM' for Android inspired by Anvil.
+*   [inshiro/Skate (⭐9)](https://github.com/inshiro/Skate) - A simple and easy to use Android fragment stack controller
+*   [programmerr47/ganalytics (⭐11)](https://github.com/programmerr47/ganalytics) - A tiny api layer for any analytics in application.
+*   [CuriousNikhil/gossip (⭐14)](https://github.com/CuriousNikhil/gossip) - Android TextToSpeech Helper to speak any text you want and handle events.
+*   [adrielcafe/AndroidCoroutineScopes (⭐17)](https://github.com/adrielcafe/AndroidCoroutineScopes) - This lib implements the most common CoroutineScopes used in Android apps.
 *   [matteocrippa/Parrot (⭐22)](https://github.com/matteocrippa/Parrot) - A lightweight library to load remote image and handle caching in ImageView.
+*   [yundom/kache (⭐24)](https://github.com/yundom/kache) - A lightweight cache library written in Kotlin.
+*   [inaka/KillerTask (⭐26)](https://github.com/inaka/KillerTask) - Android AsyncTask wrapper library, written in Kotlin
+*   [rakshakhegde/ObservableFlow (⭐27)](https://github.com/rakshakhegde/ObservableFlow) - Functional Constructs for Databinding + Kotlin + RxJava
+*   [evilthreads669966/Pickpocket (⭐28)](https://github.com/evilthreads669966/Pickpocket) - An asynchronous Android library for content providers and more.
+*   [developingdeveloper-tech/toaster-android (⭐27)](https://github.com/developingdeveloper-tech/toaster-android) - A simple library to add custom toast to android applications.
+*   [evilthreads669966/BootLaces (⭐34)](https://github.com/evilthreads669966/BootLaces) - Turns your background service persistent.
+*   [evilthreads669966/EvadeMe (⭐42)](https://github.com/evilthreads669966/EvadeMe) - A heuristics evasion library that prevents your code from being analyzed or tested.
+*   [rosariopfernandes/firecoil (⭐44)](https://github.com/rosariopfernandes/firecoil) - Display images stored in Cloud Storage for Firebase using Coil.
+*   [adrielcafe/KBus (⭐46)](https://github.com/adrielcafe/KBus) - Dead simple EventBus for Android made with Kotlin and RxJava 2
+*   [MarcinMoskala/KotlinPreferences (⭐51)](https://github.com/MarcinMoskala/KotlinPreferences) - Android Library to make SharedPreferences usage easier.
+*   [bakhtiyork/gradients (⭐51)](https://github.com/bakhtiyork/gradients) - A curated collection of splendid gradients
+*   [levibostian/Shutter-Android (⭐56)](https://github.com/levibostian/Shutter-Android) - an Android library to take photos, record videos, pick images/videos from gallery, with ease. Written in Kotlin.
+*   [heart-switch (⭐65)](https://github.com/popovanton0/heart-switch) - A heart-shaped toggle switch component for Jetpack Compose
+*   [PicsArt/stateful (⭐68)](https://github.com/PicsArt/stateful) - Stateful is a Kotlin library which makes Android application development faster and easier.
+*   [MackHartley/DashedView (⭐69)](https://github.com/MackHartley/DashedView) - The easiest way to create a dashed or striped background on Android
+*   [adrielcafe/HAL (⭐80)](https://github.com/adrielcafe/HAL) - A non-deterministic finite-state machine for Android & JVM that won't let you down.
+*   [TouK/bubble (⭐99)](https://github.com/TouK/bubble) - Screen orientation detector for android
+*   [adrielcafe/PufferDB (⭐100)](https://github.com/adrielcafe/PufferDB) - An Android & JVM key-value storage powered by Protobuf and Coroutines.
+*   [denisidoro/krouter (⭐121)](https://github.com/denisidoro/krouter) - A lightweight Android activity router.
+*   [line/clay (⭐121)](https://github.com/line/clay) - Clay is an Android library project that provides image trimming which is originally an UI component of LINE Creators Studio.
+*   [WindSekirun/RxSocialLogin (⭐126)](https://github.com/WindSekirun/RxSocialLogin) - This Android library is a library that provides social login for 15 platforms powered by RxJava2, Kotlin and Firebase Authentication.
+*   [ehsunshine/colored-time-selector (⭐152)](https://github.com/ehsunshine/colored-time-selector) - A smart colored time selector. Users can select just free time with a handy colorful range selector.
 *   [deva666/peko (⭐152)](https://github.com/deva666/peko) - Android library for requesting runtime permissions with Kotlin Coroutines
-*   [MackHartley/DashedView (⭐68)](https://github.com/MackHartley/DashedView) - The easiest way to create a dashed or striped background on Android
-*   [MackHartley/RoundedProgressBar (⭐771)](https://github.com/MackHartley/RoundedProgressBar) - A customizable, animated progress bar that features rounded corners. This Android library is designed to look great and be simple to use
-*   [developingdeveloper-tech/toaster-android (⭐28)](https://github.com/developingdeveloper-tech/toaster-android) - A simple library to add custom toast to android applications.
-*   [heart-switch (⭐61)](https://github.com/popovanton0/heart-switch) - A heart-shaped toggle switch component for Jetpack Compose
+*   [MarcinMoskala/PreferenceHolder (⭐155)](https://github.com/MarcinMoskala/PreferenceHolder) - SharedPreference usage made fun in Kotlin
+*   [WindSekirun/RichUtilsKt (⭐171)](https://github.com/WindSekirun/RichUtilsKt) - Advancement Utils for Android Developer written in Kotlin.
+*   [infotech-group/android-drawable-dsl (⭐180)](https://github.com/infotech-group/android-drawable-dsl) - DSL for constructing the drawables in Kotlin instead of in XML.
+*   [adrielcafe/KrumbsView (⭐186)](https://github.com/adrielcafe/KrumbsView) - The ultimate breadcrumbs view for Android!
+*   [iglaweb/Ferris-Wheel (⭐321)](https://github.com/iglaweb/Ferris-Wheel) - Simple android library to present an animated ferris wheel
+*   [BennyWang/KBinding (⭐407)](https://github.com/BennyWang/KBinding) - Android MVVM framework write in kotlin, develop Android has never been so fun.
+*   [metalabdesign/AsyncAwait (⭐407)](https://github.com/metalabdesign/AsyncAwait) - async/await for Android built upon coroutines introduced in Kotlin 1.1.
+*   [MarcinMoskala/ActivityStarter (⭐432)](https://github.com/MarcinMoskala/ActivityStarter) - Simple Android Library, that provides easy way to start the Activities with arguments.
+*   [skydoves/Submarine (⭐474)](https://github.com/skydoves/Submarine) - Fully customizable floating navigation view for listing items dynamically on Android.
+*   [skydoves/Only (⭐482)](https://github.com/skydoves/Only) - An easy way to persist and run code block only as many times as necessary on Android.
+*   [grandstaish/paperparcel (⭐500)](https://github.com/grandstaish/paperparcel) - Boilerplate reduction library written specifically for working with Kotlin data classes on Android.
+*   [mcxiaoke/kotlin-koi (⭐517)](https://github.com/mcxiaoke/kotlin-koi) - Koi, a lightweight kotlin library for Android Development.
+*   [zsmb13/MaterialDrawerKt (⭐518)](https://github.com/zsmb13/MaterialDrawerKt) - A DSL for creating Material Design navigation drawers without any XML.
+*   [skydoves/Needs (⭐613)](https://github.com/skydoves/Needs) - An easy way to implement modern permission instructions popup.
+*   [DanielMartinus/Stepper-Touch (⭐686)](https://github.com/DanielMartinus/Stepper-Touch) - Fun playful Android stepper widget for counting, written in Kotlin.
+*   [chibatching/Kotpref (⭐696)](https://github.com/chibatching/Kotpref) - Kotpref - Android SharedPreferences delegation library for Kotlin
+*   [nitrico/LastAdapter (⭐776)](https://github.com/nitrico/LastAdapter) - Don't write a RecyclerView adapter again. Not even a ViewHolder!.
+*   [MackHartley/RoundedProgressBar (⭐784)](https://github.com/MackHartley/RoundedProgressBar) - A customizable, animated progress bar that features rounded corners. This Android library is designed to look great and be simple to use
+*   [TradeMe/MapMe (⭐842)](https://github.com/TradeMe/MapMe) - A library that brings the adapter pattern and DiffUtil to Google Maps and MapBox.
+*   [pawegio/KAndroid (⭐894)](https://github.com/pawegio/KAndroid) - Kotlin library for Android
+*   [duanhong169/DrawableToolbox (⭐1.1k)](https://github.com/duanhong169/DrawableToolbox) - The missing drawable toolbox for Android.
+*   [cortinico/slidetoact (⭐1.2k)](https://github.com/cortinico/slidetoact) - A simple 'Slide to Unlock' Material widget for Android, written in Kotlin
+*   [zserge/anvil (⭐1.4k)](https://github.com/zserge/anvil) - Minimal UI library for Android inspired by React.
+*   [skydoves/AndroidVeil (⭐1.5k)](https://github.com/skydoves/AndroidVeil) - An easy, flexible way to implement veil skeletons and shimmering effect for Android.
+*   [DanielMartinus/Konfetti (⭐3.2k)](https://github.com/DanielMartinus/Konfetti) - Lightweight particle system to create realistic confetti
+*   [AppIntro/AppIntro (⭐11k)](https://github.com/AppIntro/AppIntro) - Make a cool/material intro for you Android App - Now all in Kotlin!
+*   [coil-kt/coil (⭐11k)](https://github.com/coil-kt/coil) - Image loading for Android backed by Kotlin Coroutines.
 
 ### Android / Frameworks
 
-*   [nekocode/kotgo (⭐1.6k)](https://github.com/nekocode/kotgo) - An android development framework on kotlin using MVP architecture.
-*   [lightningkite/kotlin-core (⭐36)](https://github.com/lightningkite/kotlin-core) - A full framework for making Android apps. Based on Anko and Kotson.
 *   [hpost/rx-mvi (⭐8)](https://github.com/hpost/rx-mvi) - Minimal framework for Model View Intent inspired Android applications written in Kotlin.
-*   [LouisCAD/Splitties (⭐2.5k)](https://github.com/LouisCAD/Splitties) - A family of small Kotlin libraries for delightful Android development including View DSLs
+*   [lightningkite/kotlin-core (⭐35)](https://github.com/lightningkite/kotlin-core) - A full framework for making Android apps. Based on Anko and Kotson.
 *   [Miha-x64/Lychee (⭐119)](https://github.com/Miha-x64/Lychee) - Data binding and persistence infrastructure for building Android and JavaFX UIs and binding them with data
-*   [0xe1f/ararat (⭐32)](https://github.com/0xe1f/ararat)
+*   [nekocode/kotgo (⭐1.6k)](https://github.com/nekocode/kotgo) - An android development framework on kotlin using MVP architecture.
+*   [LouisCAD/Splitties (⭐2.5k)](https://github.com/LouisCAD/Splitties) - A family of small Kotlin libraries for delightful Android development including View DSLs
 
 ### Android / Projects
 
-*   [BanDev/Buddha-Quotes (⭐35)](https://github.com/BanDev/Buddha-Quotes) - A collaborative project to create a Free and Open Source Buddha Quotes app.
-*   [antoniolg/Bandhook-Kotlin (⭐1.9k)](https://github.com/antoniolg/Bandhook-Kotlin) - A showcase music app for Android entirely written using Kotlin language.
-*   [antoniolg/Kotlin-for-Android-Developers (⭐2.7k)](https://github.com/antoniolg/Kotlin-for-Android-Developers) - Companion App for the book "Kotlin Android Developers".
-*   [damianpetla/kotlin-dagger-example (⭐535)](https://github.com/damianpetla/kotlin-dagger-example) - Example of Android project showing integration with Kotlin and Dagger 2.
-*   [dodyg/AndroidRivers (⭐321)](https://github.com/dodyg/AndroidRivers) - RSS Readers for Android.
+*   [WilderPereira/ftwfy (⭐3)](https://github.com/WilderPereira/ftwfy) - The real life Command/Ctrl + F - Android App that uses the Mobile Vision API to allow you to search for any occurrence of a text in a digital document.
+*   [adrielcafe/GreenHellCompanionApp (⭐4)](https://github.com/adrielcafe/GreenHellCompanionApp) - Unofficial companion app for the game Green Hell.
+*   [WilderPereira/lmgtfyGen (⭐6)](https://github.com/WilderPereira/lmgtfyGen) - Simple Android App to generate Let Me Google That For You urls.
+*   [halilozel1903/LearnKotlinProgramming (⭐7)](https://github.com/halilozel1903/LearnKotlinProgramming) - Let's Learn Kotlin Programming ❤️
 *   [MakinGiants/banjen (⭐11)](https://github.com/MakinGiants/banjen) - Android app to help to tune a banjo.
-*   [inaka/kotlillon (⭐33)](https://github.com/inaka/kotlillon) - Android Kotlin Examples.
+*   [Marwa-Eltayeb/CurrencyExchange (⭐11)](https://github.com/Marwa-Eltayeb/CurrencyExchange) - Currency Exchange App that displays real-time currency rates, shows a chart for any currency pair in the world to see their currency history and provides a currency converter.
+*   [massivedisaster/AFM (⭐12)](https://github.com/massivedisaster/AFM) - A library to help android developers work easily with activities and fragments with Kotlin
+*   [inshiro/Kodesh (⭐13)](https://github.com/inshiro/Kodesh) - Free and open source Bible for Android
+*   [ahong222/happy21 (⭐14)](https://github.com/ahong222/happy21) - A simple game of Black-Jack write with kotlin
 *   [MakinGiants/todayhistory (⭐30)](https://github.com/MakinGiants/todayhistory) - App that shows what happened today in history.
 *   [RxKotlin/Pocket (⭐32)](https://github.com/RxKotlin/Pocket) - This app help user to save links easily, and can export to Evernote as weekly.
-*   [SidneyXu/AndroidDemoIn4Languages (⭐195)](https://github.com/SidneyXu/AndroidDemoIn4Languages) - Comparison between Java, Groovy, Scala, Kotlin in Android Development.
-*   [skydoves/DisneyMotions (⭐1.5k)](https://github.com/skydoves/DisneyMotions) - A beautiful Disney app using transformation motions based on MVVM architecture.
-*   [ziggy42/Blum-kotlin (⭐82)](https://github.com/ziggy42/Blum-kotlin) - A simple android Twitter client written in Kotlin
-*   [TwidereProject/Twidere-Android (⭐2.8k)](https://github.com/TwidereProject/Twidere-Android) - Material Design ready and feature rich Twitter app for Android 4.0+
-*   [SimpleMobileTools/Simple-Calendar (⭐3.5k)](https://github.com/SimpleMobileTools/Simple-Calendar) - A simple calendar with events, customizable widget and no ads.
-*   [SimpleMobileTools/Simple-Camera (⭐758)](https://github.com/SimpleMobileTools/Simple-Camera) - A camera with flash, zoom and no ads.
-*   [SimpleMobileTools/Simple-Draw (⭐514)](https://github.com/SimpleMobileTools/Simple-Draw) - A canvas you can draw on with different colors.
-*   [SimpleMobileTools/Simple-File-Manager (⭐1.5k)](https://github.com/SimpleMobileTools/Simple-File-Manager) - A simple file manager for browsing and editing files and directories.
-*   [SimpleMobileTools/Simple-Gallery (⭐3.6k)](https://github.com/SimpleMobileTools/Simple-Gallery) - A gallery for viewing photos and videos without ads.
-*   [SimpleMobileTools/Simple-Notes (⭐826)](https://github.com/SimpleMobileTools/Simple-Notes) - A simple textfield for adding quick notes without ads.
-*   [ahong222/happy21 (⭐14)](https://github.com/ahong222/happy21) - A simple game of Black-Jack write with kotlin
-*   [AllanWang/KAU (⭐221)](https://github.com/AllanWang/KAU) - An extensive collection of Kotlin Android Utils
-*   [inshiro/Kodesh (⭐13)](https://github.com/inshiro/Kodesh) - Free and open source Bible for Android
-*   [Karumi/KataScreenshotKotlin (⭐76)](https://github.com/Karumi/KataScreenshotKotlin) - An full exercise to learn how to create screenshot tests for Android
-*   [massivedisaster/AFM (⭐12)](https://github.com/massivedisaster/AFM) - A library to help android developers work easily with activities and fragments with Kotlin
-*   [Karumi/KataSuperHeroesKotlin (⭐86)](https://github.com/Karumi/KataSuperHeroesKotlin) - A full exercise to learn how to create espresso tests using test doubles and a dependency injector for Android written in Kotlin.
-*   [Karumi/KataContactsKotlin (⭐48)](https://github.com/Karumi/KataContactsKotlin) - An exercise to learn how to write software based on Clean Architecture using Kotlin.
-*   [Karumi/KataTODOApiClientKotlin (⭐60)](https://github.com/Karumi/KataTODOApiClientKotlin) - A full exercise to learn how to use stubbing HTTP in Kotlin.
+*   [inaka/kotlillon (⭐33)](https://github.com/inaka/kotlillon) - Android Kotlin Examples.
+*   [BanDev/Buddha-Quotes (⭐37)](https://github.com/BanDev/Buddha-Quotes) - A collaborative project to create a Free and Open Source Buddha Quotes app.
 *   [Karumi/MaxibonKataKotlin (⭐43)](https://github.com/Karumi/MaxibonKataKotlin) - A ready to use playground to learn how to write tests using property-based testing in Kotlin.
-*   [WilderPereira/lmgtfyGen (⭐6)](https://github.com/WilderPereira/lmgtfyGen) - Simple Android App to generate Let Me Google That For You urls.
-*   [WilderPereira/ftwfy (⭐3)](https://github.com/WilderPereira/ftwfy) - The real life Command/Ctrl + F - Android App that uses the Mobile Vision API to allow you to search for any occurrence of a text in a digital document.
-*   [hanjoongcho/aaf-easydiary (⭐423)](https://github.com/hanjoongcho/aaf-easydiary) - This is a diary application optimized to user experience.
-*   [adrielcafe/GreenHellCompanionApp (⭐4)](https://github.com/adrielcafe/GreenHellCompanionApp) - Unofficial companion app for the game Green Hell.
-*   [adrielcafe/ChromaAndroidApp (⭐111)](https://github.com/adrielcafe/ChromaAndroidApp) - Chromatic tuner app.
-*   [cuongpm/youtube-dl-android (⭐506)](https://github.com/cuongpm/youtube-dl-android) - Video downloader for Android - Download videos from Youtube, Facebook, Twitter, Instagram, Dailymotion, Vimeo and more than 1000 other sites.
+*   [Karumi/KataContactsKotlin (⭐50)](https://github.com/Karumi/KataContactsKotlin) - An exercise to learn how to write software based on Clean Architecture using Kotlin.
+*   [Karumi/KataTODOApiClientKotlin (⭐60)](https://github.com/Karumi/KataTODOApiClientKotlin) - A full exercise to learn how to use stubbing HTTP in Kotlin.
+*   [Karumi/KataScreenshotKotlin (⭐76)](https://github.com/Karumi/KataScreenshotKotlin) - An full exercise to learn how to create screenshot tests for Android
+*   [ziggy42/Blum-kotlin (⭐83)](https://github.com/ziggy42/Blum-kotlin) - A simple android Twitter client written in Kotlin
+*   [Karumi/KataSuperHeroesKotlin (⭐87)](https://github.com/Karumi/KataSuperHeroesKotlin) - A full exercise to learn how to create espresso tests using test doubles and a dependency injector for Android written in Kotlin.
+*   [halilozel1903/KotlinTutorials (⭐112)](https://github.com/halilozel1903/KotlinTutorials) - It's a project that contains lessons and examples about Kotlin programming language.
+*   [adrielcafe/ChromaAndroidApp (⭐113)](https://github.com/adrielcafe/ChromaAndroidApp) - Chromatic tuner app.
+*   [AmrDeveloper/Linkhub (⭐180)](https://github.com/AmrDeveloper/Linkhub) - Free and open source effective link management app with no ads.
 *   [dgngulcan/droid-feed (⭐187)](https://github.com/dgngulcan/droid-feed) - News feed aggregated exclusively for Android Developers.
-*   [VMadalin/kotlin-sample-app (⭐2.4k)](https://github.com/VMadalin/kotlin-sample-app) - Android Sample App using modular, clean, scalable, testable Architecture written in Kotlin following the best practices with Jetpack
-*   [PatilShreyas/Foodium (⭐2.3k)](https://github.com/PatilShreyas/Foodium) - Foodium is a sample food blog Android application built to demonstrate use of Modern Android development tools - (Kotlin, Coroutines, Flow, Dagger 2, Architecture Components, MVVM, Room, Retrofit, Moshi, Material Components).
+*   [SidneyXu/AndroidDemoIn4Languages (⭐195)](https://github.com/SidneyXu/AndroidDemoIn4Languages) - Comparison between Java, Groovy, Scala, Kotlin in Android Development.
+*   [AllanWang/KAU (⭐220)](https://github.com/AllanWang/KAU) - An extensive collection of Kotlin Android Utils
+*   [dodyg/AndroidRivers (⭐321)](https://github.com/dodyg/AndroidRivers) - RSS Readers for Android.
+*   [hanjoongcho/aaf-easydiary (⭐444)](https://github.com/hanjoongcho/aaf-easydiary) - This is a diary application optimized to user experience.
+*   [SimpleMobileTools/Simple-Draw (⭐520)](https://github.com/SimpleMobileTools/Simple-Draw) - A canvas you can draw on with different colors.
+*   [cuongpm/youtube-dl-android (⭐522)](https://github.com/cuongpm/youtube-dl-android) - Video downloader for Android - Download videos from Youtube, Facebook, Twitter, Instagram, Dailymotion, Vimeo and more than 1000 other sites.
+*   [damianpetla/kotlin-dagger-example (⭐534)](https://github.com/damianpetla/kotlin-dagger-example) - Example of Android project showing integration with Kotlin and Dagger 2.
+*   [SimpleMobileTools/Simple-Camera (⭐773)](https://github.com/SimpleMobileTools/Simple-Camera) - A camera with flash, zoom and no ads.
+*   [SimpleMobileTools/Simple-Notes (⭐830)](https://github.com/SimpleMobileTools/Simple-Notes) - A simple textfield for adding quick notes without ads.
 *   [skydoves/MarvelHeroes (⭐1.2k)](https://github.com/skydoves/MarvelHeroes) - A sample Marvel heroes application based on MVVM (ViewModel, Coroutines, LiveData, Room, Repository, Koin)  architecture.
-*   [halilozel1903/LearnKotlinProgramming (⭐6)](https://github.com/halilozel1903/LearnKotlinProgramming) - Let's Learn Kotlin Programming ❤️
-*   [halilozel1903/KotlinTutorials (⭐111)](https://github.com/halilozel1903/KotlinTutorials) - It's a project that contains lessons and examples about Kotlin programming language.
-*   [android-password-store/Android-Password-Store (⭐2.5k)](https://github.com/android-password-store/Android-Password-Store) - Android application compatible with ZX2C4's Pass command line application.
+*   [skydoves/DisneyMotions (⭐1.5k)](https://github.com/skydoves/DisneyMotions) - A beautiful Disney app using transformation motions based on MVVM architecture.
+*   [SimpleMobileTools/Simple-File-Manager (⭐1.5k)](https://github.com/SimpleMobileTools/Simple-File-Manager) - A simple file manager for browsing and editing files and directories.
 *   [PatilShreyas/NotyKT (⭐1.7k)](https://github.com/PatilShreyas/NotyKT) - NotyKT is a complete Kotlin-stack (Backend + Android) application built to demonstrate the use of Modern development tools with best practices implementation.
-*   [Marwa-Eltayeb/CurrencyExchange (⭐11)](https://github.com/Marwa-Eltayeb/CurrencyExchange) - Currency Exchange App that displays real-time currency rates, shows a chart for any currency pair in the world to see their currency history and provides a currency converter.
-*   [AmrDeveloper/Linkhub (⭐163)](https://github.com/AmrDeveloper/Linkhub) - Free and open source effective link management app with no ads.
+*   [antoniolg/Bandhook-Kotlin (⭐1.9k)](https://github.com/antoniolg/Bandhook-Kotlin) - A showcase music app for Android entirely written using Kotlin language.
+*   [PatilShreyas/Foodium (⭐2.3k)](https://github.com/PatilShreyas/Foodium) - Foodium is a sample food blog Android application built to demonstrate use of Modern Android development tools - (Kotlin, Coroutines, Flow, Dagger 2, Architecture Components, MVVM, Room, Retrofit, Moshi, Material Components).
+*   [VMadalin/kotlin-sample-app (⭐2.4k)](https://github.com/VMadalin/kotlin-sample-app) - Android Sample App using modular, clean, scalable, testable Architecture written in Kotlin following the best practices with Jetpack
+*   [antoniolg/Kotlin-for-Android-Developers (⭐2.7k)](https://github.com/antoniolg/Kotlin-for-Android-Developers) - Companion App for the book "Kotlin Android Developers".
+*   [TwidereProject/Twidere-Android (⭐2.7k)](https://github.com/TwidereProject/Twidere-Android) - Material Design ready and feature rich Twitter app for Android 4.0+
+*   [SimpleMobileTools/Simple-Calendar (⭐3.6k)](https://github.com/SimpleMobileTools/Simple-Calendar) - A simple calendar with events, customizable widget and no ads.
+*   [SimpleMobileTools/Simple-Gallery (⭐3.7k)](https://github.com/SimpleMobileTools/Simple-Gallery) - A gallery for viewing photos and videos without ads.
 
 ### Android / Extensions
 
-*   [ajalt/timberkt (⭐203)](https://github.com/ajalt/timberkt) - Easy Android logging with Kotlin and Timber.
 *   [matteocrippa/karamba (⭐51)](https://github.com/matteocrippa/karamba) - A Swiss army knife of useful extensions for Kotlin
+*   [ajalt/timberkt (⭐205)](https://github.com/ajalt/timberkt) - Easy Android logging with Kotlin and Timber.
 
 ### Android / Tools
 
-*   [Kotlin/kdoctor (⭐583)](https://github.com/Kotlin/kdoctor) - CLI tool that helps to set up the environment for Kotlin Multiplatform Mobile app development.
+*   [Kotlin/kdoctor (⭐618)](https://github.com/Kotlin/kdoctor) - CLI tool that helps to set up the environment for Kotlin Multiplatform Mobile app development.
 
 ### Kotlin JavaScript / JavaScript
 
-*   [andrewoma/reakt (⭐265)](https://github.com/andrewoma/reakt) - Reakt is a Kotlin wrapper for facebook's React library.
-*   [shafirov/klogging (⭐34)](https://github.com/shafirov/klogging) - Kotlin logging, both js and jvm.
-*   [stangls/kotlin-js-jquery (⭐20)](https://github.com/stangls/kotlin-js-jquery) - A small framework for writing client -side web -applications in Kotlin.
-*   [danfma/kodando (⭐75)](https://github.com/danfma/kodando) - Kotlin JS bindings and libraries.
-*   [kengorab/kotlin-javascript-boilerplate (⭐10)](https://github.com/kengorab/kotlin-javascript-boilerplate) - An extremely barebones boilerplate project for compiling Kotlin to Javascript.
-*   [markaren/three-kt-wrapper (⭐56)](https://github.com/markaren/three-kt-wrapper) - Kotlin wrappers for three.js JavaScript 3D library
-*   [rjaros/kvision (⭐1.2k)](https://github.com/rjaros/kvision) - Object oriented Web UI framework for Kotlin/JS
-*   [nosix/vue-kotlin (⭐193)](https://github.com/nosix/vue-kotlin) - Libraries and tools supporting the use of Vue.js in Kotlin
-*   [Kabbura/Kunafa (⭐162)](https://github.com/Kabbura/Kunafa) - Easy to use, high level framework in Kotlin for front-end web-development and creating web apps without using HTML, CSS, or JavaScript.
 *   [fortytwoapps/kstitch (⭐5)](https://github.com/fortytwoapps/kstitch) - An object oriented toolkit for MongoDB Stitch in KotlinJS.
+*   [kengorab/kotlin-javascript-boilerplate (⭐10)](https://github.com/kengorab/kotlin-javascript-boilerplate) - An extremely barebones boilerplate project for compiling Kotlin to Javascript.
+*   [stangls/kotlin-js-jquery (⭐20)](https://github.com/stangls/kotlin-js-jquery) - A small framework for writing client -side web -applications in Kotlin.
+*   [shafirov/klogging (⭐34)](https://github.com/shafirov/klogging) - Kotlin logging, both js and jvm.
+*   [markaren/three-kt-wrapper (⭐56)](https://github.com/markaren/three-kt-wrapper) - Kotlin wrappers for three.js JavaScript 3D library
+*   [danfma/kodando (⭐75)](https://github.com/danfma/kodando) - Kotlin JS bindings and libraries.
+*   [Kabbura/Kunafa (⭐166)](https://github.com/Kabbura/Kunafa) - Easy to use, high level framework in Kotlin for front-end web-development and creating web apps without using HTML, CSS, or JavaScript.
+*   [nosix/vue-kotlin (⭐194)](https://github.com/nosix/vue-kotlin) - Libraries and tools supporting the use of Vue.js in Kotlin
+*   [andrewoma/reakt (⭐264)](https://github.com/andrewoma/reakt) - Reakt is a Kotlin wrapper for facebook's React library.
+*   [rjaros/kvision (⭐1.2k)](https://github.com/rjaros/kvision) - Object oriented Web UI framework for Kotlin/JS
 
 ### Kotlin JavaScript / Game Development
 
+*   [Ayfri/PIXI-Kotlin (⭐15)](https://github.com/Ayfri/PIXI-Kotlin) - Typings for the graphics library PixiJs
 *   [perses-games/kudens (⭐30)](https://github.com/perses-games/kudens) - Develop browser games in Kotlin
-*   [Ayfri/PIXI-Kotlin (⭐16)](https://github.com/Ayfri/PIXI-Kotlin) - Typings for the graphics library PixiJs
 
 ### Kotlin Native / Frameworks
 
-*   [KwangIO/kwang (⭐59)](https://github.com/KwangIO/kwang)
-*   [msink/kotlin-libui (⭐648)](https://github.com/msink/kotlin-libui)
+*   [KwangIO/kwang (⭐59)](https://github.com/KwangIO/kwang) - High Performance Kotlin Native Web Framework based on Lwan
+*   [msink/kotlin-libui (⭐653)](https://github.com/msink/kotlin-libui) - Kotlin/Native interop to libui: a portable GUI library
 
-## [48. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/week/README.md)
+## [47. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/week/README.md)
 
 ### Changeset Tools / Web Services
 
-*   [latest-changes](https://rene78.github.io/latest-changes/#2/15.0/-15.0) - Visualize latest OSM changesets within a certain geographic boundary. Includes a simple vandalism checker. ([Source Code (⭐3)](https://github.com/rene78/latest-changes/))
+*   [latest-changes](https://rene78.github.io/latest-changes/#2/15.0/-15.0) - Visualize latest OSM changesets within a certain geographic boundary. Includes a simple vandalism checker. ([Source Code (⭐5)](https://github.com/rene78/latest-changes/))
 
 ### Maps / Web Maps
 
@@ -1317,13 +1301,13 @@ Installs: 426 | Stars: 91 | Last update: n/a
 
 *   [OSM Monitor](https://osm-monitor.com/) - A website to monitor and display new OSM edits. ([Source Code (⭐12)](https://github.com/johanmorganti/osm-datadog))
 
-## [49. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [48. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Inbox: Stable Diffusion / Multi-agents
 
-*   [TheLastBen/fast-stable-diffusion (⭐7.4k)](https://github.com/TheLastBen/fast-stable-diffusion): fast-stable-diffusion, +25-50% speed increase + memory efficient + DreamBooth
+*   [TheLastBen/fast-stable-diffusion (⭐7.6k)](https://github.com/TheLastBen/fast-stable-diffusion): fast-stable-diffusion, +25-50% speed increase + memory efficient + DreamBooth
 
-## [50. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [49. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
@@ -1333,7 +1317,7 @@ Installs: 426 | Stars: 91 | Last update: n/a
 
 *   [DigitalOcean](https://www.digitalocean.com/pricing) - Build and deploy three static sites for free on the App Platform Starter tier.
 
-## [51. Awesome Minecraft](/content/bs-community/awesome-minecraft/week/README.md)
+## [50. Awesome Minecraft](/content/bs-community/awesome-minecraft/week/README.md)
 
 ### Softwares / Servers
 
@@ -1344,7 +1328,7 @@ Installs: 426 | Stars: 91 | Last update: n/a
 *   [Mohist](https://mohistmc.com/) - A server implementing the Forge and Bukkit API.
 *   [Paper](https://papermc.io/) - Miscellaneous patches for Spigot and BungeeCord providing better performance and more configuration options.
 
-## [52. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/week/README.md)
+## [51. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/week/README.md)
 
 ### Projects
 

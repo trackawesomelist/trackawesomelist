@@ -22,7 +22,7 @@
 
 ### GTFS Analysis Tools / Ruby
 
-*   [R5: Rapid Realistic Routing on Real-world and Reimagined networks (⭐272)](https://github.com/conveyal/r5) - A Java-based routing engine developed by Conveyal for multimodal (transit/bike/walk/car) networks. It currently plans many trips over a time window for scenario planning and analytics purposes. A related R wrapper package ([r5r (⭐177)](https://github.com/ipeaGIT/r5r/)) is developed independently by IPEA. See also the performance comparison from Higgins et al. (2022), linked below.
+*   [R5: Rapid Realistic Routing on Real-world and Reimagined networks (⭐302)](https://github.com/conveyal/r5) - A Java-based routing engine developed by Conveyal for multimodal (transit/bike/walk/car) networks. It currently plans many trips over a time window for scenario planning and analytics purposes. A related R wrapper package ([r5r (⭐184)](https://github.com/ipeaGIT/r5r/)) is developed independently by IPEA. See also the performance comparison from Higgins et al. (2022), linked below.
 
 ### Academic papers / Ruby
 
@@ -32,15 +32,15 @@
 
 ### Tutorials and Blog Posts / How-To
 
-*   [Google Cloud Platform for 10$ a month using terraform (⭐45)](https://github.com/nufailtd/terraform-budget-gcp) - Shows how to use terraform to create a secure Google Kubernetes Cluster, Google Cloud Run Services and other infrastructure elements for less than [10$](https://nufailtd.github.io/budget-gcp/) a month.
+*   [Google Cloud Platform for 10$ a month using terraform (⭐46)](https://github.com/nufailtd/terraform-budget-gcp) - Shows how to use terraform to create a secure Google Kubernetes Cluster, Google Cloud Run Services and other infrastructure elements for less than [10$](https://nufailtd.github.io/budget-gcp/) a month.
 
 ### Self-Hosted Registries / Miscellaneous
 
-*   [terustry (⭐63)](https://github.com/veepee-oss/terustry) - Open Source terraform provider registry acting as a proxy for gitlab or github releases.
+*   [terustry (⭐66)](https://github.com/veepee-oss/terustry) - Open Source terraform provider registry acting as a proxy for gitlab or github releases.
 
 ### Providers / Vendor supported providers
 
-*   [terraform-provider-openstack (⭐377)](https://github.com/terraform-provider-openstack/terraform-provider-openstack) - Plugin for OpenStack.
+*   [terraform-provider-openstack (⭐391)](https://github.com/terraform-provider-openstack/terraform-provider-openstack) - Plugin for OpenStack.
 
 ### Boilerplates / IDE
 
@@ -56,19 +56,19 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [ddev (⭐1)](https://github.com/voronkovich/ddev.plugin.zsh) - A ZSH plugin for the [ddev (⭐2.6k)](https://github.com/drud/ddev) tool for setting up PHP development environments.
+*   [ddev (⭐1)](https://github.com/voronkovich/ddev.plugin.zsh) - A ZSH plugin for the [ddev (⭐2.9k)](https://github.com/drud/ddev) tool for setting up PHP development environments.
 
 ## [7. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 
 ### Related / Awesome Lists
 
-*   [Awesome Locust (⭐79)](https://github.com/aliesbelik/awesome-locust) - Open-source scalable load testing framework written in Python.
+*   [Awesome Locust (⭐95)](https://github.com/aliesbelik/awesome-locust) - Open-source scalable load testing framework written in Python.
 
 ## [8. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Misc
 
-*   [Kotlin/kotlinx.atomicfu (⭐879)](https://github.com/Kotlin/kotlinx.atomicfu) - The idiomatic way to use atomic operations in Kotlin.
+*   [Kotlin/kotlinx.atomicfu (⭐931)](https://github.com/Kotlin/kotlinx.atomicfu) - The idiomatic way to use atomic operations in Kotlin.
 
 ## [9. Awesome Malware Persistence](/content/Karneades/awesome-malware-persistence/README.md)
 
@@ -94,7 +94,7 @@
 
 *   [Adversarial Model Extraction on Graph Neural Networks](https://arxiv.org/abs/1912.07721) - (AAAI Workshop on Deep Learning on Graphs: Methodologies and Applications) *Introduces GNN model extraction and presents a preliminary approach for this.*
 *   [Remote Explainability faces the bouncer problem](https://rdcu.be/b6qB4) - (Nature Machine Intelligence volume 2, pages529–539)  [(Code) (⭐4)](https://github.com/erwanlemerrer/bouncer_problem) *Shows the impossibility (with one request) or the difficulty to spot lies on the explanations of a remote AI decision.*
-*   [GeoDA: a geometric framework for black-box adversarial attacks](https://openaccess.thecvf.com/content_CVPR_2020/papers/Rahmati_GeoDA_A_Geometric_Framework_for_Black-Box_Adversarial_Attacks_CVPR_2020_paper.pdf) - (CVPR)  [(Code) (⭐31)](https://github.com/thisisalirah/GeoDA) *Crafts adversarial examples to fool models, in a pure blackbox setup (no gradients, inferred class only).*
+*   [GeoDA: a geometric framework for black-box adversarial attacks](https://openaccess.thecvf.com/content_CVPR_2020/papers/Rahmati_GeoDA_A_Geometric_Framework_for_Black-Box_Adversarial_Attacks_CVPR_2020_paper.pdf) - (CVPR)  [(Code) (⭐32)](https://github.com/thisisalirah/GeoDA) *Crafts adversarial examples to fool models, in a pure blackbox setup (no gradients, inferred class only).*
 *   [The Imitation Game: Algorithm Selectionby Exploiting Black-Box Recommender (⭐2)](https://github.com/erwanlemerrer/erwanlemerrer.github.io/raw/master/files/imitation_blackbox_recommenders_netys-2020.pdf) - (Netys)  [(Code) (⭐1)](https://github.com/gdamaskinos/RecRank) *Parametrize a local recommendation algorithm by imitating the decision of a remote and better trained one.*
 *   [Auditing News Curation Systems:A Case Study Examining Algorithmic and Editorial Logic in Apple News](https://ojs.aaai.org/index.php/ICWSM/article/view/7277) - (ICWSM) *Audit study of Apple News as a sociotechnical news curation system (trending stories section).*
 *   [Auditing Algorithms:  On Lessons Learned and the Risks of DataMinimization](https://dl.acm.org/doi/pdf/10.1145/3375627.3375852) - (AIES) *A practical audit for a well-being recommendation app developed by Telefónica (mostly on bias).*
@@ -114,7 +114,7 @@
 
 ### Papers / 2018
 
-*   [Towards Reverse-Engineering Black-Box Neural Networks](https://arxiv.org/abs/1711.01768) - (ICLR) [(Code) (⭐53)](https://github.com/coallaoh/WhitenBlackBox) *Infer inner hyperparameters (eg number of layers, non-linear activation type) of a remote neural network model by analysing its response patterns to certain inputs.*
+*   [Towards Reverse-Engineering Black-Box Neural Networks](https://arxiv.org/abs/1711.01768) - (ICLR) [(Code) (⭐54)](https://github.com/coallaoh/WhitenBlackBox) *Infer inner hyperparameters (eg number of layers, non-linear activation type) of a remote neural network model by analysing its response patterns to certain inputs.*
 *   [Data driven exploratory attacks on black box classifiers in adversarial domains](https://www.sciencedirect.com/science/article/pii/S092523121830136X) - (Neurocomputing) *Reverse engineers remote classifier models (e.g., for evading a CAPTCHA test).*
 *   [xGEMs: Generating Examplars to Explain Black-Box Models](https://arxiv.org/pdf/1806.08867.pdf) - (arXiv) *Searches bias in the black box model by training an unsupervised implicit generative model. Thensummarizes the black-box model behavior quantitatively by perturbing data samples along the data manifold.*
 *   [Learning Networks from Random Walk-Based Node Similarities](https://arxiv.org/pdf/1801.07386) - (NIPS) *Reversing graphs by observing some random walk commute times.*
@@ -133,7 +133,7 @@
 
 *   [Bias in Online Freelance Marketplaces: Evidence from TaskRabbit](http://datworkshop.org/papers/dat16-final22.pdf) - (dat workshop) *Measures the TaskRabbit's search algorithm rank.*
 *   [Stealing Machine Learning Models via Prediction APIs](https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/tramer) - (Usenix Security)  [(Code) (⭐342)](https://github.com/ftramer/Steal-ML) *Aims at extracting machine learning models in use by remote services.*
-*   [“Why Should I Trust You?”Explaining the Predictions of Any Classifier](https://arxiv.org/pdf/1602.04938v3.pdf) - (arXiv)  [(Code) (⭐305)](https://github.com/marcotcr/lime-experiments) *Explains a blackbox classifier model by sampling around data instances.*
+*   [“Why Should I Trust You?”Explaining the Predictions of Any Classifier](https://arxiv.org/pdf/1602.04938v3.pdf) - (arXiv)  [(Code) (⭐306)](https://github.com/marcotcr/lime-experiments) *Explains a blackbox classifier model by sampling around data instances.*
 *   [Back in Black: Towards Formal, Black Box Analysis of Sanitizers and Filters](http://ieeexplore.ieee.org/document/7546497/) - (Security and Privacy) *Black-box analysis of sanitizers and filters.*
 *   [Algorithmic Transparency via Quantitative Input Influence: Theory and Experiments with Learning Systems](http://ieeexplore.ieee.org/document/7546525/) - (Security and Privacy) *Introduces measures that capture the degree of influence of inputs on outputs of the observed system.*
 
@@ -165,17 +165,17 @@
 
 ### Components & Libraries / Utilities
 
-*   [pinia-orm (⭐439)](https://github.com/CodeDredd/pinia-orm) - The Pinia plugin to enable Object-Relational Mapping access to the Pinia Store. 🍍
+*   [pinia-orm (⭐470)](https://github.com/CodeDredd/pinia-orm) - The Pinia plugin to enable Object-Relational Mapping access to the Pinia Store. 🍍
 
 ## [13. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Marks / Diagnostics
 
-*   [ThePrimeagen/harpoon (⭐6.5k)](https://github.com/ThePrimeagen/harpoon) - A per project, auto updating and editable marks utility for fast file navigation.
+*   [ThePrimeagen/harpoon (⭐7.5k)](https://github.com/ThePrimeagen/harpoon) - A per project, auto updating and editable marks utility for fast file navigation.
 
 ## [14. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
-### Username Check / Telegram
+### Username Check / Steam
 
 *   [User Searcher](https://www.user-searcher.com) - User-Searcher is a powerful and free tool to help you search username in 2000+ websites.
 
@@ -183,35 +183,34 @@
 
 ### Trees
 
-*   [treemap (⭐59)](https://github.com/igrmk/treemap) - Generic key-sorted map using a red-black tree under the hood.
+*   [treemap (⭐62)](https://github.com/igrmk/treemap) - Generic key-sorted map using a red-black tree under the hood.
 
 ### Email
 
-*   [mailx (⭐18)](https://github.com/valord577/mailx) - Mailx is a library that makes it easier to send email via SMTP. It is an enhancement of the golang standard library `net/smtp`.
+*   [mailx (⭐19)](https://github.com/valord577/mailx) - Mailx is a library that makes it easier to send email via SMTP. It is an enhancement of the golang standard library `net/smtp`.
 
 ## [16. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Domain Specific Language / Logic DSL Applications
 
-*   [Qualitative and quantitative simulation: bridging the gap](https://www.sciencedirect.com/science/article/pii/S0004370297000507) - ***Artificial Intelligence***, 1997. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=9033452473914228535)].
+*   [Qualitative and quantitative simulation: bridging the gap](https://www.sciencedirect.com/science/article/pii/S0004370297000507) - ***Artificial Intelligence***, 1997. \[[All Versions](https://scholar.google.com/scholar?cluster=9033452473914228535)]. Shortcomings of qualitative simulation and of quantitative simulation motivate combining them to do simulations exhibiting strengths of both. The resulting class of techniques is called semiquantitative simulation. One approach to semi-quantitative simulation is to use numeric intervals to represent incomplete quantitative information. This research demonstrates semi-quantitative simulation using intervals in an implemented semi-quantitative simulator called Q3. Q3 progressively refines a qualitative simulation, providing increasingly specific quantitative predictions which can converge to a numerical simulation in the limit while retaining important correctness guarantees from qualitative and interval simulation techniques.
 
 ## [17. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
-### Bloggers / Book Deals (Affiliated) 🛍
+### Bloggers / Book Deals (Affiliated)
 
 *   [Yet Another Data Blog](https://yet-another-data-blog.blogspot.com/) Yet Another Data Blog
-*   [Data Scientist](https://datascientists.net/) is building the data scientist culture.
 *   [Tevfik Kosar](https://magnus-notitia.blogspot.com/) - Magnus Notitia
 *   [Periscopic](https://periscopic.com/#!/news)
 *   [O'reilly Learning Blog](https://www.oreilly.com/content/topics/oreilly-learning/)
 *   [Springboard](https://www.springboard.com/blog/) - A blog with resources for data science learners
 *   [Sebastian's Blog](https://ruder.io/#open) - Blog for NLP and transfer learning!
 
-### Facebook Accounts / Book Deals (Affiliated) 🛍
+### Facebook Accounts / Book Deals (Affiliated)
 
 *   [Data Science Day](https://www.facebook.com/datascienceday/)
 
-### Datasets / Book Deals (Affiliated) 🛍
+### Datasets / Book Deals (Affiliated)
 
 *   [datacite.org](https://datacite.org/)
 *   [GeoLite Legacy Downloadable Databases](https://dev.maxmind.com/geoip)
@@ -219,12 +218,12 @@
 *   [San Fransisco Government Open Data](https://datasf.org/opendata/)
 *   [Google Dataset Search (beta)](https://datasetsearch.research.google.com/)
 
-### Other Awesome Lists / Book Deals (Affiliated) 🛍
+### Other Awesome Lists / Book Deals (Affiliated)
 
-*   [awesome-dataviz (⭐3.7k)](https://github.com/javierluraschi/awesome-dataviz)
-*   [awesome-datasets (⭐60k)](https://github.com/awesomedata/awesome-public-datasets)
-*   [Awesome Data Science Ideas (⭐663)](https://github.com/JosPolfliet/awesome-ai-usecases)
-*   [Awesome Drug Synergy, Interaction and Polypharmacy Prediction (⭐87)](https://github.com/AstraZeneca/awesome-drug-pair-scoring)
+*   [awesome-dataviz (⭐3.9k)](https://github.com/javierluraschi/awesome-dataviz)
+*   [awesome-datasets (⭐62k)](https://github.com/awesomedata/awesome-public-datasets)
+*   [Awesome Data Science Ideas (⭐668)](https://github.com/JosPolfliet/awesome-ai-usecases)
+*   [Awesome Drug Synergy, Interaction and Polypharmacy Prediction (⭐89)](https://github.com/AstraZeneca/awesome-drug-pair-scoring)
 
 ## [18. Public Apis](/content/public-apis/public-apis/README.md)
 

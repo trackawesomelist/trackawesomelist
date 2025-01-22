@@ -14,52 +14,52 @@
 
 ### Application Frameworks
 
-*   [HopFramework (⭐49)](https://github.com/DiegoTondim/hop-framework) - HopFramework is a framework to create projects easily applying Domain Driven Design and a lot of patterns to delivery a better solution.
+*   [HopFramework (⭐48)](https://github.com/DiegoTondim/hop-framework) - HopFramework is a framework to create projects easily applying Domain Driven Design and a lot of patterns to delivery a better solution.
 
 ### Blockchain
 
-*   [Nethermind (⭐1.2k)](https://github.com/NethermindEth/nethermind) - full Ethereum client in .NET Core
+*   [Nethermind (⭐1.3k)](https://github.com/NethermindEth/nethermind) - full Ethereum client in .NET Core
 
 ### GUI
 
-*   [HandyControl (⭐5.9k)](https://github.com/HandyOrg/HandyControl) - Contains some simple and commonly used WPF controls
+*   [HandyControl (⭐6.3k)](https://github.com/HandyOrg/HandyControl) - Contains some simple and commonly used WPF controls
 
 ### HTML and CSS
 
-*   [LtGt (⭐119)](https://github.com/Tyrrrz/LtGt) - lightweight HTML processor, can be used to parse and navigate DOM, handles CSS selectors, can convert to Linq2Xml, easily extensible, and more.
+*   [LtGt (⭐121)](https://github.com/Tyrrrz/LtGt) - lightweight HTML processor, can be used to parse and navigate DOM, handles CSS selectors, can convert to Linq2Xml, easily extensible, and more.
 
 ### Image Processing
 
-*   [Colourful (⭐273)](https://github.com/tompazourek/Colourful) - Open source .NET library for working with color spaces.
+*   [Colourful (⭐279)](https://github.com/tompazourek/Colourful) - Open source .NET library for working with color spaces.
 
 ### Install tools
 
-*   [Onova (⭐501)](https://github.com/Tyrrrz/Onova) - An unopinionated auto-update framework for desktop applications.
+*   [Onova (⭐526)](https://github.com/Tyrrrz/Onova) - An unopinionated auto-update framework for desktop applications.
 
 ### Machine Learning and Data Science
 
-*   [Catalyst (⭐705)](https://github.com/curiosity-ai/catalyst) Cross-platform Natural Language Processing (NLP) library inspired by spaCy, with pre-trained models, out-of-the box support for training word and document embeddings, and flexible entity recognition models. Part of the [SciSharp Stack](https://scisharp.github.io/SciSharp/)
+*   [Catalyst (⭐764)](https://github.com/curiosity-ai/catalyst) Cross-platform Natural Language Processing (NLP) library inspired by spaCy, with pre-trained models, out-of-the box support for training word and document embeddings, and flexible entity recognition models. Part of the [SciSharp Stack](https://scisharp.github.io/SciSharp/)
 
 ### Mathematics
 
-*   [Rationals (⭐79)](https://github.com/tompazourek/Rationals) - Implementation of rational number arithmetic for .NET with arbitrary precision.
+*   [Rationals (⭐81)](https://github.com/tompazourek/Rationals) - Implementation of rational number arithmetic for .NET with arbitrary precision.
 
 ### Misc
 
-*   [Coravel (⭐3.8k)](https://github.com/jamesmh/coravel) Near-zero config .NET Core library that makes Task Scheduling, Caching, Queuing, Mailing, Event Broadcasting (and more) a breeze!
+*   [Coravel (⭐4k)](https://github.com/jamesmh/coravel) Near-zero config .NET Core library that makes Task Scheduling, Caching, Queuing, Mailing, Event Broadcasting (and more) a breeze!
 
 ### Queue
 
-*   [Gofer.NET (⭐540)](https://github.com/brthor/Gofer.NET) - Easy C# API for Distributed Background Tasks/Jobs for .NET Core. Inspired by celery for python.
+*   [Gofer.NET (⭐546)](https://github.com/brthor/Gofer.NET) - Easy C# API for Distributed Background Tasks/Jobs for .NET Core. Inspired by celery for python.
 
 ### Tools
 
-*   [Mockaco (⭐327)](https://github.com/natenho/Mockaco/) - API mock server with fast setup, useful to simulate HTTP responses, leveraging ASP.NET Core features, built-in fake data generation and C# scripting engine powered by Roslyn scripting API.
+*   [Mockaco (⭐338)](https://github.com/natenho/Mockaco/) - API mock server with fast setup, useful to simulate HTTP responses, leveraging ASP.NET Core features, built-in fake data generation and C# scripting engine powered by Roslyn scripting API.
 *   [AnyStatus](https://www.anystat.us) - A desktop notifications app for monitoring CI/CD pipelines, servers, network, health and metrics. AnyStatus supports Azure DevOps, Jenkins, TeamCity, AppVeyor and more.
 
 ### Source Generator
 
-*   [.NET Open Source Developer Projects (⭐14k)](https://github.com/Microsoft/dotnet/blob/master/dotnet-developer-projects.md) - This community maintained list showcases .NET open source projects that are useful for any aspect of the development process.
+*   [.NET Open Source Developer Projects (⭐15k)](https://github.com/Microsoft/dotnet/blob/master/dotnet-developer-projects.md) - This community maintained list showcases .NET open source projects that are useful for any aspect of the development process.
 
 ## [2. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
 
@@ -101,7 +101,7 @@
 
 ### CAD Specific / KiCad
 
-*   [InteractiveHtmlBom (⭐3.6k)](https://github.com/openscopeproject/InteractiveHtmlBom) - A html BOM generation tool for manual pick and place.
+*   [InteractiveHtmlBom (⭐3.8k)](https://github.com/openscopeproject/InteractiveHtmlBom) - A html BOM generation tool for manual pick and place.
 
 ### PCB Batching Services / Altium
 
@@ -115,7 +115,7 @@
 
 ### Cloud Support
 
-*   [AWS SDK (⭐46)](https://github.com/reactiverse/aws-sdk) - Use AWS Java SDK v2 (async) with Vert.x
+*   [AWS SDK (⭐49)](https://github.com/reactiverse/aws-sdk) - Use AWS Java SDK v2 (async) with Vert.x
 
 ## [10. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
 
@@ -128,7 +128,7 @@
 
 ### Board support crates / STMicroelectronics
 
-*   [`nucleo-f401re`](https://github.com/jkristell/nucleo-f401re.git) - [Nucleo-F401RE](https://www.st.com/en/evaluation-tools/nucleo-f401re.html) ![crates.io](https://img.shields.io/crates/v/nucleo-f401re.svg)
+*   [`nucleo-f401re`](https://github.com/jkristell/nucleo-f401re.git) - [Nucleo-F401RE](https://www.st.com/en/evaluation-tools/nucleo-f401re.html) [![crates.io](https://img.shields.io/crates/v/nucleo-f401re.svg)](https://crates.io/crates/nucleo-f401re)
 
 ## [12. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
@@ -453,7 +453,7 @@
 
 ### CLI Builder
 
-*   [Optimist (⭐249)](https://github.com/ManageIQ/optimist) - A commandline option parser for Ruby that just gets out of your way.
+*   [Optimist (⭐255)](https://github.com/ManageIQ/optimist) - A commandline option parser for Ruby that just gets out of your way.
 
 ## [23. Awesome Dash](/content/ucg8j/awesome-dash/week/README.md)
 
@@ -672,7 +672,7 @@
 
 ### Tools
 
-*   [go-orbit-db (⭐376)](https://github.com/berty/go-orbit-db) - This is a Golang port of OrbitDB that intends to be fully compatible with the original JavaScript version. OrbitDB is a serverless, distributed, peer-to-peer database.
+*   [go-orbit-db (⭐423)](https://github.com/berty/go-orbit-db) - This is a Golang port of OrbitDB that intends to be fully compatible with the original JavaScript version. OrbitDB is a serverless, distributed, peer-to-peer database.
 
 ## [38. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
@@ -705,12 +705,12 @@
 ### Internationalization
 
 *   [Camomile (⭐124)](https://github.com/yoriyuki/Camomile/) — A Unicode library for OCaml.
-*   [ocaml-m17n (⭐52)](https://github.com/whitequark/ocaml-m17n) — Multilingualization for OCaml source code. Allows using Unicode identifiers in OCaml source code.
-*   [Uucd (⭐16)](https://github.com/dbuenzli/uucd) — Unicode character database decoder for OCaml.
-*   [Uucp (⭐20)](https://github.com/dbuenzli/uucp) — Unicode character properties for OCaml.
-*   [Uunf (⭐22)](https://github.com/dbuenzli/uunf) — Unicode text normalization for OCaml.
+*   [ocaml-m17n (⭐51)](https://github.com/whitequark/ocaml-m17n) — Multilingualization for OCaml source code. Allows using Unicode identifiers in OCaml source code.
+*   [Uucd (⭐17)](https://github.com/dbuenzli/uucd) — Unicode character database decoder for OCaml.
+*   [Uucp (⭐21)](https://github.com/dbuenzli/uucp) — Unicode character properties for OCaml.
+*   [Uunf (⭐21)](https://github.com/dbuenzli/uunf) — Unicode text normalization for OCaml.
 *   [Uuseg (⭐23)](https://github.com/dbuenzli/uuseg) — Unicode text segmentation for OCaml.
-*   [Uutf (⭐30)](https://github.com/dbuenzli/uutf) — Non-blocking streaming Unicode codec for OCaml.
+*   [Uutf (⭐32)](https://github.com/dbuenzli/uutf) — Non-blocking streaming Unicode codec for OCaml.
 
 ## [40. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/week/README.md)
 
@@ -776,8 +776,8 @@
 
 ### Tools / Reverse Engineering
 
-*   [Simplify Android deobfuscator (⭐4.4k)](https://github.com/CalebFenton/simplify)
-*   [Andromeda (⭐695)](https://github.com/secrary/Andromeda) - Another basic command-line reverse engineering tool
+*   [Simplify Android deobfuscator (⭐4.5k)](https://github.com/CalebFenton/simplify)
+*   [Andromeda (⭐704)](https://github.com/secrary/Andromeda) - Another basic command-line reverse engineering tool
 
 ## [42. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
 
@@ -787,11 +787,11 @@
 
 ### Reinforcement Learning / Others
 
-*   [Dopamine (⭐10k)](https://github.com/google/dopamine) - A research framework for fast prototyping of reinforcement learning algorithms.
+*   [Dopamine (⭐11k)](https://github.com/google/dopamine) - A research framework for fast prototyping of reinforcement learning algorithms.
 
 ### Statistics / NLP
 
-*   [weightedcalcs (⭐104)](https://github.com/jsvine/weightedcalcs) - A pandas-based utility to calculate weighted means, medians, distributions, standard deviations, and more.
+*   [weightedcalcs (⭐103)](https://github.com/jsvine/weightedcalcs) - A pandas-based utility to calculate weighted means, medians, distributions, standard deviations, and more.
 
 ### Distributed Computing / Synthetic Data
 
@@ -824,7 +824,7 @@
 
 ### UI / UI Helpers
 
-*   [ShowCaseView (⭐1.4k)](https://github.com/simformsolutions/flutter_showcaseview) <!--stargazers:simformsolutions/flutter_showcaseview--> - Way to showcase your app features on iOS and Android by [Simform](https://github.com/simformsolutions)
+*   [ShowCaseView (⭐1.6k)](https://github.com/simformsolutions/flutter_showcaseview) <!--stargazers:simformsolutions/flutter_showcaseview--> - Way to showcase your app features on iOS and Android by [Simform](https://github.com/simformsolutions)
 
 ### UI / Effect
 
@@ -832,7 +832,7 @@
 
 ### Auth / Image Picker
 
-*   [Flutter AppAuth (⭐269)](https://github.com/MaikuB/flutter_appauth) <!--stargazers:MaikuB/flutter_appauth--> - Plugin that provides a wrapper around the AppAuth iOS and Android SDKs by [Michael Bui](https://github.com/MaikuB)
+*   [Flutter AppAuth (⭐275)](https://github.com/MaikuB/flutter_appauth) <!--stargazers:MaikuB/flutter_appauth--> - Plugin that provides a wrapper around the AppAuth iOS and Android SDKs by [Michael Bui](https://github.com/MaikuB)
 
 ### 🇦🇺 Australia / Misc
 
@@ -897,28 +897,28 @@
 
 ### GitHub Tools and Management / Docker Container Actions
 
-*   [Generate sequential build numbers for GitHub Actions (⭐130)](https://github.com/einaregilsson/build-number)
+*   [Generate sequential build numbers for GitHub Actions (⭐138)](https://github.com/einaregilsson/build-number)
 
 ### Static Analysis / Linting
 
-*   [Run ESLint, with reviewdog output on the PR (⭐180)](https://github.com/reviewdog/action-eslint)
-*   [Lint terraform files using tflint, with reviewdog output on the PR (⭐79)](https://github.com/reviewdog/action-tflint)
-*   [Run stylelint, with reviewdog output on the PR (⭐33)](https://github.com/reviewdog/action-stylelint)
-*   [Run TSLint with status checks and file diff annotations (⭐31)](https://github.com/mooyoul/tslint-actions)
-*   [Run vint, with reviewdog output on the PR (⭐7)](https://github.com/reviewdog/action-vint)
-*   [Run mispell, with reviewdog output on the PR (⭐65)](https://github.com/reviewdog/action-misspell)
-*   [Run golangci-lint, with reviewdog output on the PR (⭐160)](https://github.com/reviewdog/action-golangci-lint)
-*   [Run shellcheck, with reviewdog output on the PR (⭐80)](https://github.com/reviewdog/action-shellcheck)
+*   [Run ESLint, with reviewdog output on the PR (⭐233)](https://github.com/reviewdog/action-eslint)
+*   [Lint terraform files using tflint, with reviewdog output on the PR (⭐107)](https://github.com/reviewdog/action-tflint)
+*   [Run stylelint, with reviewdog output on the PR (⭐46)](https://github.com/reviewdog/action-stylelint)
+*   [Run TSLint with status checks and file diff annotations (⭐34)](https://github.com/mooyoul/tslint-actions)
+*   [Run vint, with reviewdog output on the PR (⭐10)](https://github.com/reviewdog/action-vint)
+*   [Run mispell, with reviewdog output on the PR (⭐88)](https://github.com/reviewdog/action-misspell)
+*   [Run golangci-lint, with reviewdog output on the PR (⭐210)](https://github.com/reviewdog/action-golangci-lint)
+*   [Run shellcheck, with reviewdog output on the PR (⭐100)](https://github.com/reviewdog/action-shellcheck)
 
 ### Pull Requests / Code Coverage
 
-*   [Automatically Bump and Tag on Merge (⭐503)](https://github.com/anothrNick/github-tag-action)
+*   [Automatically Bump and Tag on Merge (⭐755)](https://github.com/anothrNick/github-tag-action)
 
 ### Notifications and Messages / Code Coverage
 
-*   [New package version checker for npm (⭐19)](https://github.com/MeilCli/npm-update-check-action)
-*   [New package version checker for NuGet (⭐6)](https://github.com/MeilCli/nuget-update-check-action)
-*   [New package version checker for Gradle (⭐14)](https://github.com/MeilCli/gradle-update-check-action)
+*   [New package version checker for npm (⭐24)](https://github.com/MeilCli/npm-update-check-action)
+*   [New package version checker for NuGet (⭐9)](https://github.com/MeilCli/nuget-update-check-action)
+*   [New package version checker for Gradle (⭐16)](https://github.com/MeilCli/gradle-update-check-action)
 
 ### Deployment / Code Coverage
 
@@ -926,14 +926,14 @@
 
 ### Machine Learning Ops / Terraform
 
-*   [Query Experiment Tracking Results From Weights & Biases (⭐57)](https://github.com/machine-learning-apps/wandb-action)
-*   [Run Parameterized Jupyter Notebooks (⭐49)](https://github.com/yaananth/run-notebook)
+*   [Query Experiment Tracking Results From Weights & Biases (⭐60)](https://github.com/machine-learning-apps/wandb-action)
+*   [Run Parameterized Jupyter Notebooks (⭐69)](https://github.com/yaananth/run-notebook)
 
 ## [49. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
 ### Windows Utilities / Web Exploitation Books
 
-*   [WinPwn (⭐3.2k)](https://github.com/SecureThisShit/WinPwn) - Internal penetration test script to perform local and domain reconnaissance, privilege escalation and exploitation.
+*   [WinPwn (⭐3.4k)](https://github.com/SecureThisShit/WinPwn) - Internal penetration test script to perform local and domain reconnaissance, privilege escalation and exploitation.
 
 ## [50. Awesome Ads](/content/cenoura/awesome-ads/week/README.md)
 
@@ -945,15 +945,15 @@
 
 ### Packages / Debugging / Profiling
 
-*   [swagger-stats (⭐889)](https://github.com/slanatech/swagger-stats) - Trace API calls and monitor API performance, health, and usage metrics.
+*   [swagger-stats (⭐906)](https://github.com/slanatech/swagger-stats) - Trace API calls and monitor API performance, health, and usage metrics.
 
 ### Packages / Text
 
-*   [nanoid (⭐24k)](https://github.com/ai/nanoid) - Tiny, secure, URL-friendly, unique string ID generator.
+*   [nanoid (⭐25k)](https://github.com/ai/nanoid) - Tiny, secure, URL-friendly, unique string ID generator.
 
 ### Packages / Static site generators
 
-*   [Charge (⭐424)](https://github.com/brandonweiss/charge) - Opinionated, zero-config static site generator using JSX and MDX.
+*   [Charge (⭐427)](https://github.com/brandonweiss/charge) - Opinionated, zero-config static site generator using JSX and MDX.
 
 ### Resources / Tutorials
 
@@ -961,7 +961,7 @@
 
 ### Resources / Miscellaneous
 
-*   [modern-node (⭐243)](https://github.com/sheerun/modern-node) - Toolkit for creating node modules with Jest, Prettier, ESLint, and Standard.
+*   [modern-node (⭐246)](https://github.com/sheerun/modern-node) - Toolkit for creating node modules with Jest, Prettier, ESLint, and Standard.
 
 ## [52. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
@@ -987,39 +987,39 @@
 
 ### Platforms
 
-*   [Actions on Google (⭐85)](https://github.com/ravirupareliya/awesome-actions-on-google#readme) - Developer platform for Google Assistant.
+*   [Actions on Google (⭐92)](https://github.com/ravirupareliya/awesome-actions-on-google#readme) - Developer platform for Google Assistant.
 
 ### Front-End Development
 
-*   [KnockoutJS (⭐97)](https://github.com/dnbard/awesome-knockout#readme) - JavaScript library.
-*   [Dojo Toolkit (⭐83)](https://github.com/petk/awesome-dojo#readme) - JavaScript toolkit.
-*   [Ember (⭐192)](https://github.com/ember-community-russia/awesome-ember#readme) - App framework.
+*   [KnockoutJS (⭐100)](https://github.com/dnbard/awesome-knockout#readme) - JavaScript library.
+*   [Dojo Toolkit (⭐87)](https://github.com/petk/awesome-dojo#readme) - JavaScript toolkit.
+*   [Ember (⭐194)](https://github.com/ember-community-russia/awesome-ember#readme) - App framework.
 
 ### Back-End Development
 
-*   [Vagrant (⭐596)](https://github.com/iJackUA/awesome-vagrant#readme) - Automation virtual machine environment.
-*   [Pyramid (⭐550)](https://github.com/uralbash/awesome-pyramid#readme) - Python framework.
-*   [Phalcon (⭐604)](https://github.com/phalcon/awesome-phalcon#readme) - PHP framework.
-*   [Dropwizard (⭐92)](https://github.com/stve/awesome-dropwizard#readme) - Java framework.
+*   [Vagrant (⭐605)](https://github.com/iJackUA/awesome-vagrant#readme) - Automation virtual machine environment.
+*   [Pyramid (⭐554)](https://github.com/uralbash/awesome-pyramid#readme) - Python framework.
+*   [Phalcon (⭐609)](https://github.com/phalcon/awesome-phalcon#readme) - PHP framework.
+*   [Dropwizard (⭐94)](https://github.com/stve/awesome-dropwizard#readme) - Java framework.
 *   [Lumen (⭐327)](https://github.com/unicodeveloper/awesome-lumen#readme) - PHP micro-framework.
 *   [Serverless Framework (⭐2.1k)](https://github.com/pmuens/awesome-serverless#readme) - Serverless computing and serverless architectures.
 
 ### Gaming
 
-*   [Haxe Game Development (⭐383)](https://github.com/Dvergar/awesome-haxe-gamedev#readme) - A high-level strongly typed programming language used to produce cross-platform native code.
+*   [Haxe Game Development (⭐385)](https://github.com/Dvergar/awesome-haxe-gamedev#readme) - A high-level strongly typed programming language used to produce cross-platform native code.
 
 ### Security
 
-*   [GDPR (⭐209)](https://github.com/bakke92/awesome-gdpr#readme) - Regulation on data protection and privacy for all individuals within EU.
+*   [GDPR (⭐213)](https://github.com/bakke92/awesome-gdpr#readme) - Regulation on data protection and privacy for all individuals within EU.
 
 ### Business
 
-*   [Clean Tech (⭐420)](https://github.com/nglgzz/awesome-clean-tech#readme) - Fighting climate change with technology.
+*   [Clean Tech (⭐427)](https://github.com/nglgzz/awesome-clean-tech#readme) - Fighting climate change with technology.
 
 ### Miscellaneous
 
-*   [Cytodata (⭐71)](https://github.com/cytodata/awesome-cytodata#readme) - Image-based profiling of biological phenotypes for computational biologists.
-*   [Advertising (⭐114)](https://github.com/cenoura/awesome-ads#readme) - Advertising and programmatic media for websites.
+*   [Cytodata (⭐75)](https://github.com/cytodata/awesome-cytodata#readme) - Image-based profiling of biological phenotypes for computational biologists.
+*   [Advertising (⭐126)](https://github.com/cenoura/awesome-ads#readme) - Advertising and programmatic media for websites.
 
 ## [55. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 

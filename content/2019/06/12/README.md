@@ -75,7 +75,7 @@
 
 ### Other
 
-*   [luna (⭐998)](https://github.com/rvpanoz/luna) - App to manage npm dependencies.
+*   [luna (⭐1k)](https://github.com/rvpanoz/luna) - App to manage npm dependencies.
 *   [emma-cli (⭐1.2k)](https://github.com/maticzav/emma-cli) - Interactive CLI package search utility.
 
 ## [8. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/README.md)
@@ -112,7 +112,7 @@
 
 ### Monetization / Preferences
 
-*   [Facebook Audience Network (⭐153)](https://github.com/dreamsoftin/facebook_audience_network) - Facebook Audience Network Ad plugin that shows banner, interstitial, in-stream video, rewarded video & natvie ads by [Dreamsoft Innovations](https://github.com/dreamsoftin).
+*   [Facebook Audience Network (⭐158)](https://github.com/dreamsoftin/facebook_audience_network) - Facebook Audience Network Ad plugin that shows banner, interstitial, in-stream video, rewarded video & native ads by [Dreamsoft Innovations](https://github.com/dreamsoftin).
 
 ## [13. Awesome H2o](/content/h2oai/awesome-h2o/README.md)
 
@@ -132,13 +132,13 @@
 
 ### Notifications and Messages / Code Coverage
 
-*   [Send a Push Notification via Push by Techulus (⭐58)](https://github.com/techulus/push-github-action)
+*   [Send a Push Notification via Push by Techulus (⭐71)](https://github.com/techulus/push-github-action)
 
 ## [16. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
-*   [Prodmodel (⭐59)](https://github.com/prodmodel/prodmodel) - Build tool for data science pipelines.
+*   [Prodmodel (⭐58)](https://github.com/prodmodel/prodmodel) - Build tool for data science pipelines.
 
 ---
 

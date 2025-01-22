@@ -1,6 +1,6 @@
 # Awesome List Updates on May 31 - Jun 06, 2021
 
-76 awesome lists updated this week.
+75 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -22,8 +22,8 @@
 ### Testing Frameworks / Bare metal / kernel development
 
 *   [silly](https://gitlab.com/AntonMeep/silly) - Better test runner for the D programming language. No nonsense.
-*   [dunit (⭐63)](https://github.com/nomad-software/dunit) - Advanced unit testing & mocking toolkit
-*   [unit-threaded (⭐120)](https://github.com/atilaneves/unit-threaded) - Multi-threaded unit test framework
+*   [dunit (⭐62)](https://github.com/nomad-software/dunit) - Advanced unit testing & mocking toolkit
+*   [unit-threaded (⭐121)](https://github.com/atilaneves/unit-threaded) - Multi-threaded unit test framework
 
 ## [3. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
 
@@ -34,45 +34,31 @@
 
 ### Grid
 
-*   [svelte-grid-responsive (⭐53)](https://github.com/andrelmlins/svelte-grid-responsive) - Bootstrap-inspired responsive grid system.
+*   [svelte-grid-responsive (⭐54)](https://github.com/andrelmlins/svelte-grid-responsive) - Bootstrap-inspired responsive grid system.
 
-### Form / Checkbox
+### WebGL / Form Components
 
-*   [svelte-forms-lib (⭐599)](https://github.com/tjinauyeung/svelte-forms-lib) - A lightweight library for managing forms.
+*   [svelthree (⭐485)](https://github.com/vatro/svelthree) - Component library for declarative construction of reactive and reusable three.js scene graphs.
 
-### WebGL / Checkbox
+### Portal / Form Components
 
-*   [svelthree (⭐474)](https://github.com/vatro/svelthree) - Component library for declarative construction of reactive and reusable three.js scene graphs.
-
-### Portal / Checkbox
-
-*   [svelte-portal (⭐424)](https://github.com/romkor/svelte-portal) - Component for rendering outside the DOM of parent component.
+*   [svelte-portal (⭐445)](https://github.com/romkor/svelte-portal) - Component for rendering outside the DOM of parent component.
 *   [svelte-teleport (⭐25)](https://github.com/nasso/svelte-teleport) - A component to teleport elements across the DOM.
 
-### Routers / Checkbox
+### Routers / Form Components
 
-*   [svelte-router-spa (⭐511)](https://github.com/jorgegorka/svelte-router) - Router adds routing to your Single Page Applications (SPA). Includes localisation, guards and nested layouts.
+*   [svelte-router-spa (⭐529)](https://github.com/jorgegorka/svelte-router) - Router adds routing to your Single Page Applications (SPA). Includes localisation, guards and nested layouts.
 *   [svelte-routing (⭐2k)](https://github.com/EmilTholin/svelte-routing) - A declarative Svelte routing library with SSR support.
-*   [tinro (⭐669)](https://github.com/AlexxNB/tinro) - A tiny, dependency free and highly declarative router.
-*   [svelte-spa-router (⭐1.5k)](https://github.com/ItalyPaleAle/svelte-spa-router) - Optimized for Single Page Applications (SPA) with hash based routing and support for parameters.
-*   [svelte-client-router (⭐15)](https://github.com/arthurgermano/svelte-client-router) - Svelte Client Router is everything you need and think when routing SPA's.
+*   [tinro (⭐678)](https://github.com/AlexxNB/tinro) - A tiny, dependency free and highly declarative router.
+*   [svelte-spa-router (⭐1.6k)](https://github.com/ItalyPaleAle/svelte-spa-router) - Optimized for Single Page Applications (SPA) with hash based routing and support for parameters.
+*   [svelte-client-router (⭐17)](https://github.com/arthurgermano/svelte-client-router) - Svelte Client Router is everything you need and think when routing SPA's.
 
-### Frameworks / Checkbox
+### Frameworks / Form Components
 
-*   [SvelteKit](https://kit.svelte.dev/) - The fastest way to build Svelte apps.
-*   [Elder.js](https://elderguide.com/tech/elderjs/) - Opinionated static site generator and web framework for Svelte built with SEO in mind.
 *   [Routify](https://routify.dev/) - Routes for Svelte, automated by your file structure.
-*   [JungleJS](https://www.junglejs.org/) - The Jamstack framework for Svelte with GraphQL.
-
-### Docs / Checkbox
-
-*   [svelte-docster (⭐9)](https://github.com/TheComputerM/svelte-docster) - Generate metadata about your Svelte files from jsdoc.
+*   [JungleJS](https://www.junglejs.org/) - The Jamstack framework for Svelte with GraphQL. *(pre-v5)*
 
 ## [4. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/week/README.md)
-
-### Calendar
-
-*   [HomeDateGreeting.js](https://gist.github.com/cassianomon/efffbe09d20013986cd4ffc0f362a3e2) - Date and time greeting with background from Unsplash.
 
 ### Gaming
 
@@ -88,7 +74,7 @@
 
 ### Related / Download helper
 
-*   [Import-Script.js (⭐201)](https://github.com/supermamon/scriptable-scripts/blob/master/Import-Script.js) - Script to download code (i.e., from Pastebin, GitHub) into Scriptable.
+*   [Import-Script.js (⭐215)](https://github.com/supermamon/scriptable-scripts/blob/master/Import-Script.js) - Script to download code (i.e., from Pastebin, GitHub) into Scriptable.
 
 ### Related / Articles
 
@@ -104,81 +90,75 @@
 
 *   [e2calib (⭐115)](https://github.com/uzh-rpg/e2calib) - Contains code that implements video reconstruction from event data for calibration.
 
-## [6. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
-
-### Software / Communication - Social Networks and Forums
-
-*   [Nitter](https://nitter.net) `⚠` - An alternative front end to twitter. ([Source Code (⭐9.9k)](https://github.com/zedeus/nitter)) `AGPL-3.0` `Nim/Docker`
-
-## [7. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
+## [6. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
 ### Packages / Application layer
 
 *   [easy\_perception\_deployment (⭐51)](https://github.com/ros-industrial/easy_perception_deployment) - Package that accelerates training and deployment of Computer Vision models for industries. ![easy\_perception\_deployment](https://img.shields.io/github/stars/ros-industrial/easy_perception_deployment.svg)
 *   [easy\_manipulation\_deployment (⭐45)](https://github.com/ros-industrial/easy_manipulation_deployment) - Package that integrates perception elements to establish an end-to-end pick and place task. ![easy\_manipulation\_deployment](https://img.shields.io/github/stars/ros-industrial/easy_manipulation_deployment.svg)
 
-## [8. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
+## [7. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
 
 ### Libraries / New Libraries
 
 *   [jaxlie](https://github.com/brentyi/jaxlie) - Lie theory library for rigid body transformations and optimization. <img src="https://img.shields.io/github/stars/brentyi/jaxlie?style=social" align="center">
 *   [BRAX](https://github.com/google/brax) - Differentiable physics engine to simulate environments along with learning algorithms to train agents for these environments. <img src="https://img.shields.io/github/stars/google/brax?style=social" align="center">
 
-## [9. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [8. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Books
 
 *   [Hands-on Elixir & OTP: Cryptocurrency trading bot](https://www.elixircryptobot.com) - Want to learn Elixir & OTP by creating a real-world project? With Hands-on *Elixir & OTP: Cryptocurrency trading bot* you will gain hands-on experience by working on an interesting software project. We will explore all the key abstractions and essential principles through iterative implementation improvements. (2021).
 
-## [10. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [9. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
-### Tables / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+### Data Grids / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ignite-ui-angular's grid](https://www.infragistics.com/products/ignite-ui-angular/angular/components/grid/grid) - The data grid, tree grid, hierarchical grid in [Ignite UI for Angular (⭐569)](https://github.com/IgniteUI/igniteui-angular) provide excel-style filtering, live-data, sorting, draggable row and other toolbar.
+*   [ignite-ui-angular's grid](https://www.infragistics.com/products/ignite-ui-angular/angular/components/grid/grid) - The data grid, tree grid, hierarchical grid in [Ignite UI for Angular (⭐572)](https://github.com/IgniteUI/igniteui-angular) provide excel-style filtering, live-data, sorting, draggable row and other toolbar.
 
-## [11. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+## [10. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### Bash scripts / Godot version unknown
 
-*   [build-godot (⭐57)](https://github.com/aaronfranke/Linux-tools/blob/master/all-distros/build-godot) - (and [build-godot-mono (⭐57)](https://github.com/aaronfranke/Linux-tools/blob/master/all-distros/build-godot-mono)) Scripts that compile and run Godot, attempting to install dependencies if needed.
+*   [build-godot (⭐60)](https://github.com/aaronfranke/Linux-tools/blob/master/all-distros/build-godot) - (and [build-godot-mono (⭐60)](https://github.com/aaronfranke/Linux-tools/blob/master/all-distros/build-godot-mono)) Scripts that compile and run Godot, attempting to install dependencies if needed.
 
-## [12. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
+## [11. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
 
 ### Tools
 
 *   [Dart Code Metrics (⭐863)](https://github.com/dart-code-checker/dart-code-metrics) - Additional linter which reports code metrics, checks for anti-patterns and provides additional rules for Analyzer.
 
-## [13. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
+## [12. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
 
 ### App Releases / Sports
 
 *   Cycling Escape - [Android](https://play.google.com/store/apps/details?id=be.wive.cyclingescape), [iOS](https://apps.apple.com/us/app/cycling-escape/id1553634302#?platform=iphone), [GitHub (⭐10)](https://github.com/ikbendewilliam/CyclingEscape) - You start off with only one rider. Compete in races to start earning money. Unlock more team mates and compete in more extreme and longer races. Keep going and win the ultimate world tour! By [ikbendewilliam](https://github.com/ikbendewilliam)
 
-## [14. Awesome Material](/content/sachin1092/awesome-material/week/README.md)
+## [13. Awesome Material](/content/sachin1092/awesome-material/week/README.md)
 
 ### CSS
 
 *   [Tronic247 Material](https://www.tronic247.com/material/) - A material design framework based on jQuery and CSS
 
-## [15. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [14. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Miscellaneous
 
-*   [Urban & Regional Planning (⭐251)](https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme) - Concerning the built environment and communities.
+*   [Urban & Regional Planning (⭐271)](https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme) - Concerning the built environment and communities.
 
-## [16. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
+## [15. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
 
 ### Contents / Tools
 
 *   [pico8-deploy (⭐26)](https://github.com/tducasse/pico8-deploy) - An easy way to export and deploy PICO-8 projects to itch.io
 
-## [17. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [16. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### DevOps / Apache License
 
-*   [septum (⭐372)](https://github.com/pyjarrett/septum) - An interactive context-based text search tool for searching large codebases.
+*   [septum (⭐381)](https://github.com/pyjarrett/septum) - An interactive context-based text search tool for searching large codebases.
 
-## [18. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/week/README.md)
+## [17. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/week/README.md)
 
 ### Open Source Projects
 
@@ -198,7 +178,7 @@
 
 *   [OpenRGB](https://www.patreon.com/CalcProgrammer1) - RGB lighting control application.
 
-## [19. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [18. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### Portugal 🇵🇹 / Lisbon
 
@@ -212,13 +192,13 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 | ---- | ----- | ------------------------------------------------------------------------------ | ------------------------------------------------- |
 | ✔    | ✔     | [R. 25 de Abril 210, 4835-400 Silvares](https://goo.gl/maps/nQwiW3qHkvUkJz46A) | Mon-Thu, Sun 10:00 - 23:00; Fri-Sat 10:00 - 24:00 |
 
-## [20. Awesome Math](/content/rossant/awesome-math/week/README.md)
+## [19. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
 ### Analysis / Complex Analysis
 
 *   📝 [A Concise Course in Complex Analysis and Riemann Surfaces](https://gauss.math.yale.edu/~ws442/complex.pdf) - Wilhelm Schlag
 
-## [21. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [20. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Cryptocurrency
 
@@ -304,16 +284,16 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 
 
 
-## [22. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
+## [21. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
 
 ### Databases / ORMs
 
-*   [FastAPIwee (⭐18)](https://github.com/Ignisor/FastAPIwee) - A simple way to create REST API based on [PeeWee (⭐11k)](https://github.com/coleifer/peewee) models.
+*   [FastAPIwee (⭐19)](https://github.com/Ignisor/FastAPIwee) - A simple way to create REST API based on [PeeWee (⭐11k)](https://github.com/coleifer/peewee) models.
 
 ### Utils / Other Tools
 
-*   [FastAPI Chameleon (⭐138)](https://github.com/mikeckennedy/fastapi-chameleon) - Adds integration of the Chameleon template language to FastAPI.
-*   [FastAPI Jinja (⭐67)](https://github.com/AGeekInside/fastapi-jinja) - Adds integration of the Jinja template language to FastAPI.
+*   [FastAPI Chameleon (⭐141)](https://github.com/mikeckennedy/fastapi-chameleon) - Adds integration of the Chameleon template language to FastAPI.
+*   [FastAPI Jinja (⭐69)](https://github.com/AGeekInside/fastapi-jinja) - Adds integration of the Jinja template language to FastAPI.
 
 ### Tutorials / Other Tools
 
@@ -321,34 +301,34 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 *   [Running FastAPI applications in production](https://stribny.name/blog/fastapi-production/) - Use Gunicorn with systemd for production deployments.
 *   [Streaming video with FastAPI](https://stribny.name/blog/fastapi-video/) - Learn how to serve video streams.
 
-## [23. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
+## [22. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### Monitoring/Statistics/Perfomance / Prometheus
 
-*   [pgSCV (⭐163)](https://github.com/weaponry/pgscv) - Metrics exporter for PostgreSQL and Postgres-related services.
-*   [postgres\_exporter (⭐2.6k)](https://github.com/wrouesnel/postgres_exporter) - Prometheus exporter for PostgreSQL server metrics.
+*   [pgSCV (⭐167)](https://github.com/weaponry/pgscv) - Metrics exporter for PostgreSQL and Postgres-related services.
+*   [postgres\_exporter (⭐2.9k)](https://github.com/wrouesnel/postgres_exporter) - Prometheus exporter for PostgreSQL server metrics.
 
 ### Security / Zabbix
 
-*   [Databunker (⭐1.2k)](https://github.com/securitybunker/databunker) - Special GDPR compliant secure vault for customer records built on top of regular DB.
+*   [Databunker (⭐1.3k)](https://github.com/securitybunker/databunker) - Special GDPR compliant secure vault for customer records built on top of regular DB.
 
-## [24. Awesome Design Patterns](/content/DovAmir/awesome-design-patterns/week/README.md)
+## [23. Awesome Design Patterns](/content/DovAmir/awesome-design-patterns/week/README.md)
 
 ### Programming Language Design Patterns
 
 *   Java
     *   [sourcemaking](https://sourcemaking.com/design_patterns) - patterns and anti patterns.
     *   [oodesign](https://www.oodesign.com/)  - patterns catalog with UML diagrams.
-    *   [design-patterns (⭐85k)](https://github.com/iluwatar/java-design-patterns)
-    *   [effective-java patterns (⭐1.3k)](https://github.com/HugoMatilla/Effective-JAVA-Summary) - patterns from the Effective Java book.
+    *   [design-patterns (⭐90k)](https://github.com/iluwatar/java-design-patterns)
+    *   [effective-java patterns (⭐1.5k)](https://github.com/HugoMatilla/Effective-JAVA-Summary) - patterns from the Effective Java book.
     *   [Design patterns implemented in Java](https://java-design-patterns.com/patterns/)
     *   [Effective-Java-3rd-Joshua-Bloch](https://www.amazon.com/Effective-Java-3rd-Joshua-Bloch/dp/0134685997/ref=pd_sim_14_7)
 *   Node
-    *   [Real world design patterns with Node.js (⭐313)](https://github.com/nimit95/Real-world-Design-Patterns-Node-JS)
+    *   [Real world design patterns with Node.js (⭐380)](https://github.com/nimit95/Real-world-Design-Patterns-Node-JS)
     *   [Node.js Design Patterns](https://www.packtpub.com/web-development/nodejs-design-patterns-second-edition)
 *   Python
-    *   [design-patterns (⭐39k)](https://github.com/faif/python-patterns)
-    *   [PyPattyrn (⭐2.1k)](https://github.com/tylerlaberge/PyPattyrn) - A simple library for implementing common design patterns.
+    *   [design-patterns (⭐40k)](https://github.com/faif/python-patterns)
+    *   [PyPattyrn (⭐2.3k)](https://github.com/tylerlaberge/PyPattyrn) - A simple library for implementing common design patterns.
     *   [Python Design Patterns](https://python-patterns.guide/)
     *   [Design Patterns in Python](https://refactoring.guru/design-patterns/python)
     *   [Django Design Patterns and Best Practices](https://arunrocks.com/static/book/django-design-patterns-best-practices-2-ed)
@@ -368,61 +348,61 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 *   [cdk patterns](https://cdkpatterns.com/) - cdk patterns.
 *   [CDK Construct Catalog](https://awscdk.io/) - CDK construct catalog.
 
-## [25. Awesome Swift Playgrounds](/content/uraimo/Awesome-Swift-Playgrounds/week/README.md)
+## [24. Awesome Swift Playgrounds](/content/uraimo/Awesome-Swift-Playgrounds/week/README.md)
 
 ### PlaygroundBooks
 
 *   [Accessible Reality (⭐25)](https://github.com/aheze/AccessibleReality) - for learning the basics of ARKit through interactive lessons. 🍁
 
-## [26. Awesome Golem](/content/golemfactory/awesome-golem/week/README.md)
+## [25. Awesome Golem](/content/golemfactory/awesome-golem/week/README.md)
 
 ### Apps / Games
 
 *   [Golem Fleet Battle Simulator (⭐3)](https://github.com/UnfortuN8/Golem-Fleet-Battle-Simulator) - System for calculating the results of a battle between two opposing starship fleets. Used in the iOS game Rock Paper Frigate to determine the result of PvP fleet battles.
 
-## [27. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
+## [26. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
 
 ### Password-less auth / SMS-based
 
 *   [An argument for passwordless](https://web.archive.org/web/20190515230752/https://biarity.gitlab.io/2018/02/23/passwordless/) - Passwords are not the be-all and end-all of user authentication. This article tries to tell you why.
 
-## [28. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
+## [27. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 
 ### Contents / Health and Fitness
 
-*   [QuitSmoke (⭐69)](https://github.com/trizin/Quit-Smoke-App) - A Flutter app to help you quit smoking by [trizin](https://github.com/trizin).
+*   [QuitSmoke (⭐73)](https://github.com/trizin/Quit-Smoke-App) - A Flutter app to help you quit smoking by [trizin](https://github.com/trizin).
 
-## [29. Awesome Games of Coding](/content/michelpereira/awesome-games-of-coding/week/README.md)
+## [28. Awesome Games of Coding](/content/michelpereira/awesome-games-of-coding/week/README.md)
 
 ### Language Independent
 
 *   [Battlesnake](https://play.battlesnake.com) - Join a community of developers from around the world as you compete for fame and glory in Battlesnake, a multi-player programming competition based on the classic game - snake! All you need to play is a live web server that implements the Battlesnake API and the language of your choice to begin battling to find food, avoid other Battlesnakes, and stay alive as long as possible.
 
-## [30. Awesome Music](/content/ciconia/awesome-music/week/README.md)
+## [29. Awesome Music](/content/ciconia/awesome-music/week/README.md)
 
 ### Music Notation
 
-*   [OpenSheetMusicDisplay (⭐1.4k)](https://github.com/opensheetmusicdisplay/opensheetmusicdisplay) - Typescript library for rendering MusicXML in the browser.
+*   [OpenSheetMusicDisplay (⭐1.5k)](https://github.com/opensheetmusicdisplay/opensheetmusicdisplay) - Typescript library for rendering MusicXML in the browser.
 
-## [31. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/week/README.md)
+## [30. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/week/README.md)
 
 ### Libraries and Frameworks
 
 *   [ExtPay (⭐455)](https://github.com/Glench/ExtPay) - Take secure payments in extensions without needing to run a server backend.
 
-## [32. Awesome Design](/content/gztchan/awesome-design/week/README.md)
+## [31. Awesome Design](/content/gztchan/awesome-design/week/README.md)
 
 ### Color
 
 *   [Colorable](https://colorable.jxnblk.com/) “If one says ‘Red’ (the name of the color) and there are 50 people listening, it can be expected that there will be 50 reds in their minds. And one can be sure that all these reds will be very different.” – Josef Albers
 
-## [33. Awesome Tall Stack](/content/livewire/awesome-tall-stack/week/README.md)
+## [32. Awesome Tall Stack](/content/livewire/awesome-tall-stack/week/README.md)
 
 ### Learning
 
 *   ✍️ [How to Build a Job Board With the TALL Stack + Demo](https://lightit.io/blog/how-to-do-a-job-board-with-the-tall-stack/)
 
-## [34. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [33. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### CI/CD
 
@@ -437,7 +417,7 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 *   [1Password Secrets Automation](https://1password.com/secrets/) - Secrets management with integration to 1Password.
 *   [Doppler](https://doppler.com/) - Environment variable management across projects, in one place.
 *   [Envkey](https://www.envkey.com/) - Environment management with syncing mechanism for all apps.
-*   [Vault](https://www.vaultproject.io/) - API driven secret key management.
+*   [Vault](https://www.vaultproject.io/) - API-driven secret key management.
 
 ### GEO
 
@@ -445,9 +425,9 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 
 ### Payments & Pricing
 
-*   [Paddle](https://paddle.com/) - Revenue delivery platform for SaaS with broad geographical support (unlike stripe at the moment).
+*   [Paddle](https://paddle.com/) - Revenue delivery platform for SaaS with broad geographical support (unlike Stripe at the moment).
 
-## [35. Awesome Esp](/content/agucova/awesome-esp/week/README.md)
+## [34. Awesome Esp](/content/agucova/awesome-esp/week/README.md)
 
 ### Tools
 
@@ -458,47 +438,47 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 
 *   [Tasmota](https://tasmota.github.io/docs/) - An alternative firmware for Sonoff & other ESP8266/ESP32 devices. Includes a large collection of sensor drivers & integrates with [Home Assistant](https://www.home-assistant.io/) natively or via MQTT.
 
-## [36. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [35. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Editing Support / Diagnostics
 
-*   [mizlan/iswap.nvim (⭐496)](https://github.com/mizlan/iswap.nvim) - Interactively select and swap function arguments, list elements, and more. Powered by tree-sitter.
+*   [mizlan/iswap.nvim (⭐511)](https://github.com/mizlan/iswap.nvim) - Interactively select and swap function arguments, list elements, and more. Powered by Tree-sitter.
 
-## [37. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+## [36. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
 ### IO Games
 
 *   [Bullet Bonanza](https://www.bulletbonanza.io/) - Fast paced, high fidelity, 3D Multiplayer FPS game from Kiloo.
 
-## [38. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/week/README.md)
+## [37. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/week/README.md)
 
 ### AppImage developer tools / Deployment tools for Electron applications
 
-*   [Appnativefy (⭐142)](https://github.com/sarweshparajuli/appnativefy) - Create AppImage with embedded Electron browser from any website.
+*   [Appnativefy (⭐148)](https://github.com/sarweshparajuli/appnativefy) - Create AppImage with embedded Electron browser from any website.
 
 ### Resources / Community
 
 *   [#AppImage channel on libera.chat](https://web.libera.chat/#AppImage) - Chat where AppImage developers and users hang out, be prepared to stay in the channel for days if you don't get answers immediately.
 
-## [39. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
+## [38. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
 
 ### Applications
 
 *   [Pollen (⭐6)](https://github.com/maxtheaxe/pollen): A decentralized messaging service that functions without any internet or mesh connection. Written in Python.
 
-## [40. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [39. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Files and Directories / Search
 
-*   [rare (⭐253)](https://github.com/zix99/rare) - Real-time regex aggregation and analysis.
+*   [rare (⭐274)](https://github.com/zix99/rare) - Real-time regex aggregation and analysis.
 
-## [41. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [40. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Articles & Posts
 
 *   [5 Things I've Learned From Working Remotely](https://www.donedone.com/blog/five-things-ive-learned-working-remotely)
 
-## [42. Awesome Neuroscience](/content/analyticalmonk/awesome-neuroscience/week/README.md)
+## [41. Awesome Neuroscience](/content/analyticalmonk/awesome-neuroscience/week/README.md)
 
 ### Programming / Matlab
 
@@ -507,25 +487,25 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 *   [EEGLAB](https://sccn.ucsd.edu/eeglab/) - Interactive Matlab toolbox for processing continuous and event-related EEG, MEG and other electrophysiological data.
 *   [SPM](https://www.fil.ion.ucl.ac.uk/spm/) - Free and open source software for the  analysis of brain imaging data sequences (fMRI, PET, SPECT, EEG, MEG).
 
-## [43. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [42. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Apps/Websites / Community
 
-*   [react-device-frameset (⭐66)](https://github.com/zheeeng/react-device-frameset) - This is yet another device frameset component for React.
+*   [react-device-frameset (⭐79)](https://github.com/zheeeng/react-device-frameset) - This is yet another device frameset component for React.
 
-## [44. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
+## [43. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
 ### Feed item filtering / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [grepfeed](https://grepfeed.sigwait.tk/) <sup>[716](https://t.me/s/aboutrss/716)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/gromnitsky/grepfeed)
 
-## [45. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
+## [44. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
 
 ### Uncategorised
 
 *   [Libertree](http://libertree.org/) is free, libre, open-source software which is intended to provide a way for people to create their own social network. Libertree social networks can be free from commercial influence and manifestation, such as behaviour tracking, user profiling, advertising, data mining and analysis, and covert information filtering.
 
-## [46. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [45. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
@@ -539,25 +519,25 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 
 *   [Base64 decoder/encoder](https://devpal.co/base64-decode/) — Online free tool for decoding & encoding data.
 
-## [47. Awesome Amazon Seller](/content/ScaleLeap/awesome-amazon-seller/week/README.md)
+## [46. Awesome Amazon Seller](/content/ScaleLeap/awesome-amazon-seller/week/README.md)
 
 ### Software and Tools
 
 *   [Eva](https://eva.guru/) - Connects the most important aspects of your Amazon business into a single intuitive dashboard - price management, replenishments, reimbursements, analytics.
 
-## [48. Awesome Social Enterprise](/content/RayBB/awesome-social-enterprise/week/README.md)
+## [47. Awesome Social Enterprise](/content/RayBB/awesome-social-enterprise/week/README.md)
 
 ### Conferences / Articles
 
 *   [Social Enterprise Summit](https://www.ses.org.hk/) - Annual social enterprise conference based in Hong Kong.
 
-## [49. Awesome Firebase](/content/jthegedus/awesome-firebase/week/README.md)
+## [48. Awesome Firebase](/content/jthegedus/awesome-firebase/week/README.md)
 
 ### CLI & Editor / iOS
 
 *   🔧 [Firefoo](https://firefoo.app) - Cloud Firestore GUI Admin Tool with JSON/CSV Export and JavaScript Query Shell.
 
-## [50. Awesome](/content/craftcms/awesome/week/README.md)
+## [49. Awesome](/content/craftcms/awesome/week/README.md)
 
 ### Official Links
 
@@ -582,19 +562,19 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 *   [Ultimate.ai](https://craftcms.com/in-the-field/ultimate-ai) - Project: [ultimate.ai](https://www.ultimate.ai/) by Function & Form Digital
 *   [YumEarth](https://craftcms.com/in-the-field/yumearth) - Project: [yumearth.com](https://yumearth.com) by Electric Enjin
 
-## [51. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/week/README.md)
+## [50. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/week/README.md)
 
 ### Administration
 
 *   [Umbrella framework (⭐112)](https://github.com/acantepie/umbrella) - Admin components and theme to create administration backends.
 
-## [52. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
+## [51. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
 
 ### Photography / Unspecified License
 
 *   [Wunderstock](http://www.Wunderstock.com/) - 670 (and counting) free HD images for your web and design projects.
 
-## [53. Awesome Meteor](/content/Urigo/awesome-meteor/week/README.md)
+## [52. Awesome Meteor](/content/Urigo/awesome-meteor/week/README.md)
 
 ### Courses
 
@@ -632,23 +612,23 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 *   [Building a CMS-powered blog in Meteor](https://buttercms.com/blog/meteor-cms-blog-tutorial)
 *   [scotch.io - Building a Slack Clone in Meteor](https://scotch.io/tutorials/building-a-slack-clone-in-meteor-js-getting-started)
 
-## [54. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
+## [53. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
 
 ### Python / Risk Analysis
 
-*   [Empyrial (⭐909)](https://github.com/ssantoshp/Empyrial) - Portfolio's risk and performance analytics and returns predictions.
+*   [Empyrial (⭐969)](https://github.com/ssantoshp/Empyrial) - Portfolio's risk and performance analytics and returns predictions.
 
 ### Python / Calendars
 
-*   [exchange\_calendars (⭐409)](https://github.com/gerrymanoim/exchange_calendars) - Stock Exchange Trading Calendars.
+*   [exchange\_calendars (⭐467)](https://github.com/gerrymanoim/exchange_calendars) - Stock Exchange Trading Calendars.
 
-## [55. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [54. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Articles / Other
 
 *   [Making Electron apps feel native on Mac](https://getlotus.app/21-making-electron-apps-feel-native-on-mac)
 
-## [56. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
+## [55. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
 
 ### IR Tools Collection / Books
 
@@ -677,7 +657,7 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 
 *   [Aurora Incident Response (⭐720)](https://github.com/cyb3rfox/Aurora-Incident-Response) - Platform developed to build easily a detailed timeline of an incident.
 
-## [57. Awesome Competitive Programming](/content/lnishan/awesome-competitive-programming/week/README.md)
+## [56. Awesome Competitive Programming](/content/lnishan/awesome-competitive-programming/week/README.md)
 
 ### Sites for Practice / Books for Mathematics
 
@@ -717,69 +697,69 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 
 
 
-## [58. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [57. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### Native Apps (open source)
 
 *   [opentripplanner-client-library (⭐2)](https://github.com/CUTR-at-USF/opentripplanner-client-library) - A Kotlin Multiplatform library for making API requests and parsing responses from an OpenTripPlanner v2 server for trip plans, bike rental info, and server metadata for Android, iOS, and web.
 
-## [59. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [58. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / General-Purpose Machine Learning
 
-*   [FEDOT (⭐627)](https://github.com/nccr-itmo/FEDOT): An AutoML framework for the automated design of composite modelling pipelines. It can handle classification, regression, and time series forecasting tasks on different types of data (including multi-modal datasets).
+*   [FEDOT (⭐649)](https://github.com/nccr-itmo/FEDOT): An AutoML framework for the automated design of composite modelling pipelines. It can handle classification, regression, and time series forecasting tasks on different types of data (including multi-modal datasets).
 
 ### Python / Reinforcement Learning
 
-*   [Maze (⭐261)](https://github.com/enlite-ai/maze) - Application-oriented deep reinforcement learning framework addressing real-world decision problems.
+*   [Maze (⭐267)](https://github.com/enlite-ai/maze) - Application-oriented deep reinforcement learning framework addressing real-world decision problems.
 
-## [60. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [59. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### CLOS extensions
 
-*   [polymorphic functions (⭐51)](https://github.com/digikar99/polymorphic-functions) - A function type to dispatch on types instead of classes with partial support for dispatching on optional and keyword argument types. Still experimental (May, 2021). [MIT](https://opensource.org/licenses/MIT).
+*   [polymorphic functions (⭐53)](https://github.com/digikar99/polymorphic-functions) - A function type to dispatch on types instead of classes with partial support for dispatching on optional and keyword argument types. Still experimental (May, 2021). [MIT](https://opensource.org/licenses/MIT).
     *   polymorphic-functions dispatch on the types of the arguments supplied to it. This helps dispatching on specialized arrays as well as user-defined types.
     *   for differences with specialization-store and fast-generic-functions, see its README.
 
-## [61. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [60. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Resources / Books
 
 *   [Node.js Cookbook](https://www.amazon.com/dp/1838558756)
 *   [Node.js Design Patterns](https://www.nodejsdesignpatterns.com)
 
-## [62. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+## [61. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### File Management and Sharing
 
-*   [OnionShare (⭐6.2k)](https://github.com/micahflee/onionshare) - An open source tool that lets you securely and anonymously share files, host websites, and chat with friends using the Tor network.
+*   [OnionShare (⭐6.4k)](https://github.com/micahflee/onionshare) - An open source tool that lets you securely and anonymously share files, host websites, and chat with friends using the Tor network.
 
-### FIAT
+### Full Featured Financial Management
 
 *   [GnuCash](https://gnucash.org/) - GnuCash is personal and small-business financial-accounting software, freely licensed under the GNU GPL and available for GNU/Linux, BSD, Solaris, Mac OS X and Microsoft Windows.
 
-## [63. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
+## [62. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
 
 ### Tools / Dynamic Analysis Tools
 
-*   [PAPIMonitor (⭐48)](https://github.com/Dado1513/PAPIMonitor) – PAPIMonitor (Python API Monitor for Android apps) is a Python tool based on Frida for monitoring user-select APIs during the app execution.
+*   [PAPIMonitor (⭐53)](https://github.com/Dado1513/PAPIMonitor) – PAPIMonitor (Python API Monitor for Android apps) is a Python tool based on Frida for monitoring user-select APIs during the app execution.
 
 ### Tools / Reverse Engineering
 
 *   [Obfuscapk (⭐1.1k)](https://github.com/ClaudiuGeorgiu/Obfuscapk) - Obfuscapk is a modular Python tool for obfuscating Android apps without needing their source code.
-*   [ARMANDroid (⭐11)](https://github.com/Mobile-IoT-Security-Lab/ARMANDroid) - ARMAND (Anti-Repackaging through Multi-patternAnti-tampering based on Native Detection) is a novel anti-tampering protection scheme that embeds logic bombs and AT detection nodes directly in the apk file without needing their source code.
+*   [ARMANDroid (⭐13)](https://github.com/Mobile-IoT-Security-Lab/ARMANDroid) - ARMAND (Anti-Repackaging through Multi-patternAnti-tampering based on Native Detection) is a novel anti-tampering protection scheme that embeds logic bombs and AT detection nodes directly in the apk file without needing their source code.
 
 ### Tools / Market Crawlers
 
 *   [PlaystoreDownloader (⭐1.1k)](https://github.com/ClaudiuGeorgiu/PlaystoreDownloader) - PlaystoreDownloader is a tool for downloading Android applications directly from the Google Play Store. After an initial (one-time) configuration, applications can be downloaded by specifying their package name.
 
-## [64. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [63. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### SDKs and Samples / iOS SDK
 
 *   [Repo with Samples :fire::fire::fire::fire: (⭐1k)](https://github.com/awslabs/aws-sdk-ios-samples)
 
-## [65. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [64. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Canvas
 
@@ -798,27 +778,27 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 
 *   [react-intersection-observer (⭐4.9k)](https://github.com/thebuilder/react-intersection-observer) - React implementation of the Intersection Observer API.
 
-## [66. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/week/README.md)
+## [65. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/week/README.md)
 
 ### Sequence Processing
 
-*   **[SeqFu (⭐76)](https://github.com/telatin/seqfu2)** - Sequence manipulation toolkit for FASTA/FASTQ files written in Nim. \[ [paper-2021](https://www.mdpi.com/2306-5354/8/5/59) | [web](https://telatin.github.io/seqfu2/) ]
+*   **[SeqFu (⭐112)](https://github.com/telatin/seqfu2)** - Sequence manipulation toolkit for FASTA/FASTQ files written in Nim. \[ [paper-2021](https://www.mdpi.com/2306-5354/8/5/59) | [web](https://telatin.github.io/seqfu2/) ]
 
 ### GFF BED File Utilities / Structural variant callers
 
-*   **[AGAT (⭐281)](https://github.com/NBISweden/AGAT)** - Suite of tools to handle gene annotations in any GTF/GFF format. \[ [web](https://agat.readthedocs.io/en/latest/?badge=latest) ]
+*   **[AGAT (⭐473)](https://github.com/NBISweden/AGAT)** - Suite of tools to handle gene annotations in any GTF/GFF format. \[ [web](https://agat.readthedocs.io/en/latest/?badge=latest) ]
 
 ### Assembly / Tools
 
-*   **[SPAdes (⭐503)](https://github.com/ablab/spades)** - SPAdes (St. Petersburg genome assembler) is an assembly toolkit containing various assembly pipelines and the de-facto standard for prokaryotic genome assemblies.
-*   **[SKESA (⭐84)](https://github.com/ncbi/SKESA)** - SKESA is a de-novo sequence read assembler for microbial genomes. It uses conservative heuristics and is designed to create breaks at repeat regions in the genome. This leads to excellent sequence quality without significantly compromising contiguity.
+*   **[SPAdes (⭐771)](https://github.com/ablab/spades)** - SPAdes (St. Petersburg genome assembler) is an assembly toolkit containing various assembly pipelines and the de-facto standard for prokaryotic genome assemblies.
+*   **[SKESA (⭐112)](https://github.com/ncbi/SKESA)** - SKESA is a de-novo sequence read assembler for microbial genomes. It uses conservative heuristics and is designed to create breaks at repeat regions in the genome. This leads to excellent sequence quality without significantly compromising contiguity.
 
 ### Annotation / Tools
 
-*   **[Prokka (⭐620)](https://github.com/tseemann/prokka)** - Prokka: rapid prokaryotic genome annotation. Prokka is one of the most cited annotation command line tools for microbial genome annotations.
-*   **[Bakta (⭐249)](https://github.com/oschwengers/bakta)** - Bakta is a tool for the rapid & standardized annotation of bacterial genomes & plasmids. It provides dbxref-rich and sORF-including annotations in machine-readable JSON & bioinformatics standard file formats for automatic downstream analysis.
+*   **[Prokka (⭐853)](https://github.com/tseemann/prokka)** - Prokka: rapid prokaryotic genome annotation. Prokka is one of the most cited annotation command line tools for microbial genome annotations.
+*   **[Bakta (⭐460)](https://github.com/oschwengers/bakta)** - Bakta is a tool for the rapid & standardized annotation of bacterial genomes & plasmids. It provides dbxref-rich and sORF-including annotations in machine-readable JSON & bioinformatics standard file formats for automatic downstream analysis.
 
-## [67. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+## [66. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Vendor Data Resources / Travel Behavior
 
@@ -830,7 +810,7 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 
 ### Planning Data Specifications / Transportation
 
-*   [GMNS (⭐100)](https://github.com/zephyr-data-specs/GMNS) - The General Modeling Network Specification defines a common human and machine readable format for sharing routable road network files.
+*   [GMNS (⭐116)](https://github.com/zephyr-data-specs/GMNS) - The General Modeling Network Specification defines a common human and machine readable format for sharing routable road network files.
 
 ### Planning Coding Resources / Python
 
@@ -840,18 +820,17 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 
 *   [Rhino](https://www.rhino3d.com/) - This is a commercial 3D computer graphics and computer-aided design application software. Rhino has had multiple plug-ins built on top of it including Grasshopper and the Urban Network Analysis toolbox to enable complex modeling and analysis.
 
-## [68. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [67. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [v3confirm (⭐4)](https://github.com/malekim/v3confirm) - A plugin dedicated for vue3 to show confirm dialog modal.
-*   [vue-pdf-embed (⭐665)](https://github.com/hrynko/vue-pdf-embed) - PDF embed component for Vue 2 and Vue 3
+*   [vue-pdf-embed (⭐771)](https://github.com/hrynko/vue-pdf-embed) - PDF embed component for Vue 2 and Vue 3
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-fullscreen (⭐436)](https://github.com/mirari/vue-fullscreen) - A simple Vue component for fullscreen, support Vue2 and Vue3.
+*   [vue-fullscreen (⭐437)](https://github.com/mirari/vue-fullscreen) - A simple Vue component for fullscreen, support Vue2 and Vue3.
 
-## [69. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [68. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### Specialty Search Engines
 
@@ -863,7 +842,6 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 ### File Search
 
 *   [File Search Engine](https://www.filesearch.link/)
-*   [FileChef](https://www.filechef.com/)
 *   [FileListing](https://filelisting.com/)
 *   [FilePursuit](https://filepursuit.com/)
 *   [NAPALM FTP Indexer](https://www.searchftps.net/)
@@ -882,7 +860,7 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 
 *   [Kribrum](https://kribrum.io/)
 *   [Mail.Ru Social Network Search](https://go.mail.ru/search_social)
-*   [Oblivion (⭐491)](https://github.com/loseys/Oblivion)
+*   [Oblivion (⭐528)](https://github.com/loseys/Oblivion)
 *   [Profil3r](https://github.com/Rog3rSm1th/Profil3r)
 *   [WATools](https://watools.io/)
 
@@ -890,58 +868,58 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 
 *   [VK.watch](https://vk.watch/)
 
-### Forums and Discussion Boards Search / Telegram
+### Forums and Discussion Boards Search / Steam
 
 *   [4chan Search](https://4chansearch.com/)
 
-### Username Check / Telegram
+### Username Check / Steam
 
 *   [WhatsMyName](https://whatsmyname.app/) - check for usernames across many different platforms.
 
-### People Investigations / Telegram
+### People Investigations / Steam
 
 *   [Mugshots](https://mugshots.com/)
 *   [ZabaSearch](https://www.zabasearch.com/)
 
-### Phone Number Research / Telegram
+### Phone Number Research / Steam
 
 *   [FreeCarrierLookup](https://freecarrierlookup.com/) - enter a phone number and we'll return the carrier name and whether the number is wireless or landline. We also return the email-to-SMS and email-to-MMS gateway addresses for USA and Canadian\* phone numbers.
 *   [Sync.ME](https://sync.me/) - a caller ID and spam blocker app.
 
-### Company Research / Telegram
+### Company Research / Steam
 
 *   [BrownBook](https://www.brownbook.net/)
 *   [CorporationWiki](https://www.corporationwiki.com/)
 *   [GoodFirms](https://www.goodfirms.co/)
 *   [YouControl](https://youcontrol.com.ua/en/)
 
-### Job Search Resources / Telegram
+### Job Search Resources / Steam
 
 *   [RecruitEm](https://recruitin.net/)
 
-### Q&A Sites / Telegram
+### Q&A Sites / Steam
 
 *   [Ответы](https://otvet.mail.ru/)
 
-### Image Search / Telegram
+### Image Search / Steam
 
 *   [Betaface](https://www.betaface.com/demo.html)
 *   [Search4faces](https://search4faces.com/) - a service for searching people on the Internet by photo.
 
-### Image Analysis / Telegram
+### Image Analysis / Steam
 
 *   [DiffChecker](https://www.diffchecker.com/image-diff/)
 *   [Forensically](https://29a.ch/photo-forensics/)
 *   [ImgOps](https://imgops.com/)
 
-### Video Search and Other Video Tools / Telegram
+### Video Search and Other Video Tools / Steam
 
 *   [Insecam](http://insecam.org/) - Live cameras directory
-*   [Video Stabilization Methods (⭐343)](https://github.com/yaochih/awesome-video-stabilization)
+*   [Video Stabilization Methods (⭐405)](https://github.com/yaochih/awesome-video-stabilization)
 *   [YouTube Geofind](https://mattw.io/youtube-geofind/)
 *   [YouTube Metadata](https://mattw.io/youtube-metadata/)
 
-### Geospatial Research and Mapping Tools / Telegram
+### Geospatial Research and Mapping Tools / Steam
 
 *   [ArcGIS](https://livingatlas.arcgis.com/en/browse/)
 *   [Baidu Maps](https://map.baidu.com/)
@@ -957,20 +935,20 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 *   [SOAR](https://soar.earth/)
 *   [Windy](https://www.windy.com/)
 
-### Infographics and Data Visualization / Telegram
+### Infographics and Data Visualization / Steam
 
 *   [Observable](https://observablehq.com/) - a modern way to create powerful, performant, polyglot data apps built on open source.
 
-### Other Tools / Telegram
+### Other Tools / Steam
 
-*   [FOCA (⭐2.9k)](https://github.com/ElevenPaths/FOCA) - Tool to find metadata and hidden information in the documents.
+*   [FOCA (⭐3.1k)](https://github.com/ElevenPaths/FOCA) - Tool to find metadata and hidden information in the documents.
 *   [OSINT.SH](https://osint.sh/) - Information Gathering Toolset.
 
-### OSINT Videos / Telegram
+### OSINT Videos / Steam
 
 *   [SANS OSINT Summit 2021 (Playlist)](https://www.youtube.com/playlist?list=PLs4eo9Tja8bj3jJvv42LxOkhc2_ylpS9y)
 
-### OSINT Blogs / Telegram
+### OSINT Blogs / Steam
 
 *   [IntelTechniques](https://inteltechniques.com/)
 *   [OSINTCurious](https://osintcurio.us/)
@@ -978,13 +956,13 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 *   [Skopenow](https://www.skopenow.com/news)
 *   [Sleuth For The Truth](http://sleuthforthetruth.com/)
 
-### Other Resources / Telegram
+### Other Resources / Steam
 
 *   [OSINT Dojo](https://www.osintdojo.com/resources/)
 *   [OSINT Belarus](https://t.me/s/osintby)
 *   [Free OSINT Training](https://freetraining.dfirdiva.com/free-osint-training)
 
-## [70. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [69. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Online
 
@@ -995,7 +973,7 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 
 *   [Noise in Creative Coding](https://varun.ca/noise/) - In-depth blog post about noise as an indispensable tool for creative coding.
 
-## [71. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/week/README.md)
+## [70. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/week/README.md)
 
 ### Audio Related Packages / Transformations - General DSP
 
@@ -1005,7 +983,7 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 
 *   [ReTiSAR (⭐55)](https://github.com/AppliedAcousticsChalmers/ReTiSAR) [:octocat: (⭐55)](https://github.com/AppliedAcousticsChalmers/ReTiSAR) - Binarual rendering of streamed or IR-based high-order spherical microphone array signals.
 
-## [72. Awesome Eosio](/content/DanailMinchev/awesome-eosio/week/README.md)
+## [71. Awesome Eosio](/content/DanailMinchev/awesome-eosio/week/README.md)
 
 ### Websites
 
@@ -1036,7 +1014,7 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 *   [cmichel](https://cmichel.io/categories/EOS) - Christoph Michel blog, EOSIO developer related publications.
 *   [Blockgenic](https://medium.com/@blockgenic) - Blockgenic blog, firm focused on Enterprise adoption of blockchain technology. Learning resources.
 
-## [73. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
+## [72. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
 ### Programming Languages/Frameworks/Platforms / PHP
 
@@ -1050,23 +1028,23 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 
 *   [Networking Interview Questions](https://www.interviewbit.com/networking-interview-questions/)
 
-## [74. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
+## [73. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
 ### Vert.x Event Bus Extensions
 
-*   [Eventbus Service (⭐8)](https://github.com/wowselim/eventbus-service) - Code generator for type-safe event bus communication via simple Kotlin interfaces.
+*   [Eventbus Service (⭐11)](https://github.com/wowselim/eventbus-service) - Code generator for type-safe event bus communication via simple Kotlin interfaces.
 
-## [75. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [74. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / Utils
 
 *   [buckets (⭐25)](https://github.com/jacoborus/deno-buckets) - Bundle assets and scripts in a single executable file.
 
-## [76. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/week/README.md)
+## [75. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/week/README.md)
 
 ### Development Projects / Miscellaneous
 
-*   [PokéPalettes (⭐1)](https://github.com/BarryMode/pokepalettes) - 16-bit palettes that represent Pokémon (based on the models from Pokémon GO).
+*   [PokéPalettes](https://github.com/BarryMode/pokepalettes) - 16-bit palettes that represent Pokémon (based on the models from Pokémon GO).
 
 ---
 

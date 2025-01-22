@@ -16,13 +16,13 @@
 
 ### Debug
 
-*   [libassert (⭐513)](https://github.com/jeremy-rifkin/libassert) - The most over-engineered C++ assertion library. \[MIT]
+*   [libassert (⭐568)](https://github.com/jeremy-rifkin/libassert) - The most over-engineered C++ assertion library. \[MIT]
 
 ## [3. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Packages / Data validation
 
-*   [zod (⭐32k)](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference.
+*   [zod (⭐34k)](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference.
 
 ## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -46,31 +46,31 @@
 
 ### Driver crates / WIP
 
-*   [lp586x](https://crates.io/crates/lp586x) - I2C/SPI - LED matrix driver ![crates.io](https://img.shields.io/crates/v/lp586x.svg)
+*   [lp586x](https://crates.io/crates/lp586x) - I2C/SPI - LED matrix driver [![crates.io](https://img.shields.io/crates/v/lp586x.svg)](https://crates.io/crates/lp586x)
 
 ## [7. Awesome Elm](/content/sporto/awesome-elm/README.md)
 
 ### Examples / Other editors
 
-*   [Regex Nodes (⭐31)](https://github.com/johannesvollmer/regex-nodes) - A [node-based visual editor for fiddling with regular expressions](https://johannesvollmer.com/regex-nodes/), built with Elm.
+*   [Regex Nodes (⭐35)](https://github.com/johannesvollmer/regex-nodes) - A [node-based visual editor for fiddling with regular expressions](https://johannesvollmer.com/regex-nodes/), built with Elm.
 
 ## [8. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
 
 ### Tools / Helper tools to add annotations to existing code
 
-*   [no\_implicit\_optional (⭐74)](https://github.com/hauntsaninja/no_implicit_optional) - A codemod to make your implicit optional type hints [PEP 484](https://peps.python.org/pep-0484/#union-types) compliant.
+*   [no\_implicit\_optional (⭐87)](https://github.com/hauntsaninja/no_implicit_optional) - A codemod to make your implicit optional type hints [PEP 484](https://peps.python.org/pep-0484/#union-types) compliant.
 
 ## [9. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Utilities / Menu Bar Tools
 
-*   [Ice (⭐12k)](https://github.com/jordanbaird/Ice) - A free, open source, alternative to Bartender. Helps to hide menu items and gives options for different layouts. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Ice (⭐16k)](https://github.com/jordanbaird/Ice) - A free, open source, alternative to Bartender. Helps to hide menu items and gives options for different layouts. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [10. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Debugging
 
-*   [DebugSwift (⭐418)](https://github.com/DebugSwift/DebugSwift) - A comprehensive toolkit designed to simplify and enhance the debugging process for iOS applications.
+*   [DebugSwift (⭐612)](https://github.com/DebugSwift/DebugSwift) - A comprehensive toolkit designed to simplify and enhance the debugging process for iOS applications.
 
 ## [11. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -93,11 +93,11 @@
 
 ### Text-related Generative Tools / Multi-agents
 
-*   [Composum AI (⭐2)](https://github.com/ist-dresden/composum-AI) Plugin for CMS Adobe Experience Manager (AEM) or Composum Pages helping the editor to create / edit / translate texts
+*   [Composum AI (⭐4)](https://github.com/ist-dresden/composum-AI) Plugin for CMS Adobe Experience Manager (AEM) or Composum Pages helping the editor to create / edit / translate texts
 
-### Inbox: Speech-to-text (STT) and spoken content analysis / Deforum
+### Speech-to-text (STT) and spoken content analysis / Deforum
 
-*   [Co-Developer GPT engine (⭐7)](https://github.com/stoerr/CoDeveloperGPTengine) - local r/w file access and execute actions from an OpenAI GPT
+*   [Co-Developer GPT engine (⭐12)](https://github.com/stoerr/CoDeveloperGPTengine) - local r/w file access and execute actions from an OpenAI GPT
 
 ## [12. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
 
@@ -135,21 +135,21 @@
 
 ### React Development Tools
 
-*   [parcel (⭐43k)](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web
+*   [parcel (⭐44k)](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web
 
 ### React Components Sandboxes
 
-*   [bit (⭐17k)](https://github.com/teambit/bit) - A build system for development of composable software
+*   [bit (⭐18k)](https://github.com/teambit/bit) - A build system for development of composable software
 
 ### React Real Apps
 
-*   [wave (⭐2.3k)](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
+*   [wave (⭐4.6k)](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
 
 ## [16. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### OS-specific / Diagnostics
 
-*   [m15a/flake-awesome-neovim-plugins (⭐47)](https://github.com/m15a/flake-awesome-neovim-plugins) - Nix flake that provides Awesome Neovim plugins collection as Nix packages.
+*   [m15a/flake-awesome-neovim-plugins (⭐55)](https://github.com/m15a/flake-awesome-neovim-plugins) - Nix flake that provides Awesome Neovim plugins collection as Nix packages.
 
 ---
 

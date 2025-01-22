@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 18, 2018
 
-7 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -14,7 +14,7 @@
 
 ### Layout / Barcode
 
-*   [LayoutLess (⭐433)](https://github.com/DeclarativeHub/Layoutless) - Write less UI Code.
+*   [LayoutLess (⭐432)](https://github.com/DeclarativeHub/Layoutless) - Write less UI Code.
 
 ### Maps / Barcode
 
@@ -22,11 +22,11 @@
 
 ### Math / Barcode
 
-*   [Upsurge (⭐182)](https://github.com/alejandro-isaza/Upsurge) - Simple and fast matrix and vector math.
+*   [Upsurge (⭐183)](https://github.com/alejandro-isaza/Upsurge) - Simple and fast matrix and vector math.
 
 ### UICollectionView / Barcode
 
-*   [Blueprints (⭐990)](https://github.com/zenangst/Blueprints) - A framework that is meant to make your life easier when working with collection view flow layouts.
+*   [Blueprints (⭐991)](https://github.com/zenangst/Blueprints) - A framework that is meant to make your life easier when working with collection view flow layouts.
 
 ### Utility / Barcode
 
@@ -77,7 +77,7 @@
 
 ### Software / Document Management - Institutional Repository and Digital Library Software
 
-*   [Samvera Hyrax](https://samvera.org/) - Front-end for the Samvera framework, which itself is a Ruby on Rails application for browsing and managing Fedora-based digital repositories. ([Source Code (⭐183)](https://github.com/samvera/hyrax)) `Apache-2.0` `Ruby`
+*   [Samvera Hyrax](https://samvera.org/) - Front-end for the Samvera framework, which itself is a Ruby on Rails application for browsing and managing Fedora-based digital repositories. ([Source Code (⭐184)](https://github.com/samvera/hyrax)) `Apache-2.0` `Ruby`
 
 ## [5. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
@@ -90,12 +90,6 @@
 ### Tutorials
 
 *   [SaltStack - Quick Guide](https://www.tutorialspoint.com/saltstack/saltstack_quick_guide.htm) - Part of the larger "Learn SaltStack"-tutorial at Tutorials Point.
-
-## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / UI Components
-
-*   [vue-input-code (⭐67)](https://github.com/zhouyuexie/vue-input-code) - Base on Vue.js 2.0+ verification code input component.
 
 ---
 

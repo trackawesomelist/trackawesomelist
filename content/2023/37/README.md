@@ -10,13 +10,13 @@
 
 ### Strategy
 
-*   [GLSMAC (⭐361)](https://github.com/afwbkbc/glsmac) - Unofficial open-source OpenGL/SDL2 reimplementation of Sid Meier's Alpha Centauri ( + Alien Crossfire ).
+*   [GLSMAC (⭐418)](https://github.com/afwbkbc/glsmac) - Unofficial open-source OpenGL/SDL2 reimplementation of Sid Meier's Alpha Centauri ( + Alien Crossfire ).
 
 ## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### CSV
 
-*   [ssp (⭐48)](https://github.com/red0124/ssp) - A header only "csv" parser which is fast and versatile with modern C++ api. \[MIT]
+*   [ssp (⭐52)](https://github.com/red0124/ssp) - A header only "csv" parser which is fast and versatile with modern C++ api. \[MIT]
 
 ### Integrated Development Environment
 
@@ -27,14 +27,13 @@
 ### Libraries / Python
 
 *   [AtlasQ (⭐7)](https://github.com/certego/AtlasQ) - MongoDB Atlas Search wrapper with MongoEngine syntax
-*   [Flask-MongoEngine (⭐841)](https://github.com/MongoEngine/flask-mongoengine) - Flask extension that integrates MongoEngine, WTForms and FlaskDebugToolbar
 
 ## [4. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Free Courses
 
-*   [MLSys-NYU-2022 (⭐321)](https://github.com/jacopotagliabue/MLSys-NYU-2022/tree/main) - Slides, scripts and materials for the Machine Learning in Finance course at NYU Tandon, 2022.
-*   [Hands-on Train and Deploy ML (⭐704)](https://github.com/Paulescu/hands-on-train-and-deploy-ml) - A hands-on course to train and deploy a serverless API that predicts crypto prices.
+*   [MLSys-NYU-2022 (⭐381)](https://github.com/jacopotagliabue/MLSys-NYU-2022/tree/main) - Slides, scripts and materials for the Machine Learning in Finance course at NYU Tandon, 2022.
+*   [Hands-on Train and Deploy ML (⭐775)](https://github.com/Paulescu/hands-on-train-and-deploy-ml) - A hands-on course to train and deploy a serverless API that predicts crypto prices.
 
 ## [5. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/week/README.md)
 
@@ -49,7 +48,7 @@
 
 ## [6. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
 
-### Storage / Database
+### Storage / Databases
 
 *   [micropg\_lite (⭐4)](https://github.com/TimonW-Dev/micropg_lite) - PostgreSQL database driver for MicroPython, based on micropg but aiming to require less memory with some compromises in functionality.
 
@@ -73,7 +72,7 @@
 
 ### Miscellaneous / React
 
-*   [goctopus (⭐96)](https://github.com/Escape-Technologies/goctopus) - an incredibly fast GraphQL discovery & fingerprinting toolbox.
+*   [goctopus (⭐106)](https://github.com/Escape-Technologies/goctopus) - an incredibly fast GraphQL discovery & fingerprinting toolbox.
 
 ### Posts / React
 
@@ -87,15 +86,15 @@
 
 ### Applications / Blockchain
 
-*   [wagyu (⭐606)](https://github.com/howardwu/wagyu) \[[wagyu](https://crates.io/crates/wagyu)] - Library for generating cryptocurrency wallets
+*   [wagyu (⭐623)](https://github.com/howardwu/wagyu) \[[wagyu](https://crates.io/crates/wagyu)] - Library for generating cryptocurrency wallets
 
 ### Applications / Games
 
-*   [maras-archive/rsnake (⭐132)](https://github.com/maras-archive/rsnake) - Snake.
+*   [maras-archive/rsnake (⭐138)](https://github.com/maras-archive/rsnake) - Snake.
 
 ### Applications / System tools
 
-*   [eza-community/eza (⭐11k)](https://github.com/eza-community/eza) - A replacement for 'ls'
+*   [eza-community/eza (⭐14k)](https://github.com/eza-community/eza) - A replacement for 'ls'
 
 ## [11. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
@@ -105,25 +104,25 @@
 
 ## [12. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
-### Plugins and scripts / Various Godot versions
+### Plugins and scripts / Godot 4
 
-*   [Orchestrator (⭐875)](https://github.com/Vahera/godot-orchestrator) - Dialog and visual-scripting subsystem for 2D and 3D games (Godot 4.x).
+*   [Orchestrator (⭐1k)](https://github.com/Vahera/godot-orchestrator) - Dialog and visual-scripting subsystem for 2D and 3D games.
 
 ## [13. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
 
 ### LLMs
 
-*   [Hands-on LLMs: Train and Deploy a Real-time Financial Advisor (⭐2.5k)](https://github.com/iusztinpaul/hands-on-llms) - Train and deploy a real-time financial advisor chatbot with Falcon 7B and CometLLM.
+*   [Hands-on LLMs: Train and Deploy a Real-time Financial Advisor (⭐3.1k)](https://github.com/iusztinpaul/hands-on-llms) - Train and deploy a real-time financial advisor chatbot with Falcon 7B and CometLLM.
 
 ### Courses & Books & Blogs
 
-*   [Train and Deploy a Serverless API to predict crypto prices (⭐670)](https://github.com/Paulescu/hands-on-train-and-deploy-ml) - In this tutorial you won't build an ML system that will make you rich. But you will master the MLOps frameworks and tools you need to build ML systems that, together with tons of experimentation, can take you there.
+*   [Train and Deploy a Serverless API to predict crypto prices (⭐770)](https://github.com/Paulescu/hands-on-train-and-deploy-ml) - In this tutorial you won't build an ML system that will make you rich. But you will master the MLOps frameworks and tools you need to build ML systems that, together with tons of experimentation, can take you there.
 
 ## [14. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Utility
 
-*   [objc (⭐6)](https://github.com/magic003/objc) - V bindings to Objective-C runtime.
+*   [objc (⭐8)](https://github.com/magic003/objc) - V bindings to Objective-C runtime.
 *   [vhs (⭐4)](https://github.com/KevinDaSilvaS/vhs) - Haskell prelude list functions(zip, zipwith, head, etc) implemented in V.
 
 ## [15. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
@@ -8171,11 +8170,11 @@
 
 ### Community Extensions
 
-*   [embesozzi/keycloak-webauthn-conditional-mediation WebAuthn Support for Passkeys (⭐16)](https://github.com/embesozzi/keycloak-webauthn-conditional-mediation)
+*   [embesozzi/keycloak-webauthn-conditional-mediation WebAuthn Support for Passkeys (⭐22)](https://github.com/embesozzi/keycloak-webauthn-conditional-mediation)
 
 ### Example Projects
 
-*   [Keycloak enviornment with WebAuthn Support for Stepup Auth with MFA Biometrics and Passkeys (by embesozzi) (⭐35)](https://github.com/embesozzi/keycloak-workshop-stepup-mfa-biometrics)
+*   [Keycloak enviornment with WebAuthn Support for Stepup Auth with MFA Biometrics and Passkeys (by embesozzi) (⭐40)](https://github.com/embesozzi/keycloak-workshop-stepup-mfa-biometrics)
 
 ## [19. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
 
@@ -8197,7 +8196,7 @@
 
 ### Android / Libraries
 
-*   [Blueprint (⭐133)](https://github.com/popovanton0/Blueprint) - 📐 A library that draws a blueprint on top of your Jetpack Compose composables. It visualizes dimensions, like paddings and sizes.
+*   [Blueprint (⭐139)](https://github.com/popovanton0/Blueprint) - 📐 A library that draws a blueprint on top of your Jetpack Compose composables. It visualizes dimensions, like paddings and sizes.
 
 ## [22. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
@@ -8221,20 +8220,20 @@
 
 ### Game Development
 
-*   [Raylib-cr (⭐78)](https://github.com/sol-vin/raylib-cr) - Direct bindings to [Raylib](https://raylib.com), which supports Linux, Windows, and Mac
+*   [Raylib-cr (⭐91)](https://github.com/sol-vin/raylib-cr) - Direct bindings to [Raylib](https://raylib.com), which supports Linux, Windows, and Mac
 
 ## [24. Awesome Capacitor](/content/riderx/awesome-capacitor/week/README.md)
 
 ### [Capgo plugins](https://capgo.app/)
 
-*   [Shake (⭐4)](https://github.com/Cap-go/capacitor-shake) - Detect shake gesture in device.
-*   [Navigation bar (⭐7)](https://github.com/Cap-go/capacitor-navigation-bar) - Set navigation bar color for android lolipop and higher.
+*   [Shake (⭐7)](https://github.com/Cap-go/capacitor-shake) - Detect shake gesture in device.
+*   [Navigation bar (⭐8)](https://github.com/Cap-go/capacitor-navigation-bar) - Set navigation bar color for android lolipop and higher.
 *   [Video Player IVS (⭐2)](https://github.com/Cap-go/ivs-player) - Native Ivs player for Capacitor app Android and IOS.
 *   [Home indicator (⭐0)](https://github.com/Cap-go/home-indicator) - Hide and show home button indicator in Capacitor app.
 
 ### Other plugins
 
-*   [Purchases (⭐131)](https://github.com/RevenueCat/purchases-capacitor) - Capacitor in-app purchases and subscriptions made easy with RevenueCat.
+*   [Purchases (⭐160)](https://github.com/RevenueCat/purchases-capacitor) - Capacitor in-app purchases and subscriptions made easy with RevenueCat.
 
 ## [25. Awesome Veganism](/content/sdassow/awesome-veganism/week/README.md)
 
@@ -8288,7 +8287,7 @@
 
 ### Assets
 
-*   [Shakapacker (⭐410)](https://github.com/shakacode/shakapacker) - Use Webpack to manage app-like JavaScript modules in Rails. (Official and actively maintained successor to rails/webpacker)
+*   [Shakapacker (⭐432)](https://github.com/shakacode/shakapacker) - Use Webpack to manage app-like JavaScript modules in Rails. (Official and actively maintained successor to rails/webpacker)
 
 ## [29. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
@@ -8298,13 +8297,13 @@
 
 ### Project Layout
 
-*   [nunu (⭐1.8k)](https://github.com/go-nunu/nunu) - Nunu is a scaffolding tool for building Go applications.
+*   [nunu (⭐2k)](https://github.com/go-nunu/nunu) - Nunu is a scaffolding tool for building Go applications.
 
 ## [30. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Miscellaneous
 
-*   [Flipt](https://flipt.io) - Feature flag solution with support for multiple data backends (alternative to LaunchDarkly). ([Demo](https://try.flipt.io), [Source Code (⭐3.5k)](https://github.com/flipt-io/flipt)) `GPL-3.0` `Docker/K8S/Go`
+*   [Flipt](https://flipt.io) - Feature flag solution with support for multiple data backends (alternative to LaunchDarkly). ([Demo](https://try.flipt.io), [Source Code (⭐4k)](https://github.com/flipt-io/flipt)) `GPL-3.0` `Docker/K8S/Go`
 
 ### Software / Search Engines
 
@@ -8320,8 +8319,8 @@
 
 ### Miscellaneous
 
-*   [cl-raylib (⭐34)](https://github.com/bohonghuang/claw-raylib) NEW in 2023 - fully auto-generated Common Lisp bindings to Raylib and Raygui using claw and cffi-object. Apache 2.0.
-*   [glfw (⭐21)](https://github.com/shirakumo/glfw) NEW in 2023 - An up-to-date Common Lisp bindings library to the most recent GLFW OpenGL context management library.
+*   [cl-raylib (⭐46)](https://github.com/bohonghuang/claw-raylib) NEW in 2023 - fully auto-generated Common Lisp bindings to Raylib and Raygui using claw and cffi-object. Apache 2.0.
+*   [glfw (⭐28)](https://github.com/shirakumo/glfw) NEW in 2023 - An up-to-date Common Lisp bindings library to the most recent GLFW OpenGL context management library.
 
 ## [33. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
@@ -8351,29 +8350,29 @@
 
 ### Files and Directories / File Sync/Sharing
 
-*   [ncp (⭐33)](https://github.com/kha7iq/ncp) - Transfer files and folders, to and from NFS servers.
+*   [ncp (⭐35)](https://github.com/kha7iq/ncp) - Transfer files and folders, to and from NFS servers.
 
 ## [36. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / Natural Language Processing
 
-*   [CometLLM (⭐504)](https://github.com/comet-ml/comet-llm) - Track, log, visualize and evaluate your LLM prompts and prompt chains.
+*   [CometLLM (⭐2.6k)](https://github.com/comet-ml/comet-llm) - Track, log, visualize and evaluate your LLM prompts and prompt chains.
 
 ### Python / General-Purpose Machine Learning
 
-*   [CometML (⭐144)](https://github.com/comet-ml/comet-examples): The best-in-class MLOps platform with experiment tracking, model production monitoring, a model registry, and data lineage from training straight through to production.
+*   [CometML (⭐152)](https://github.com/comet-ml/comet-examples): The best-in-class MLOps platform with experiment tracking, model production monitoring, a model registry, and data lineage from training straight through to production.
 
 ## [37. Awesome Kustomize](/content/aabouzaid/awesome-kustomize/week/README.md)
 
 ### Plugins / Generators
 
-*   [Merger (⭐27)](https://github.com/aabouzaid/kustomize-plugin-merger) - Generating manifests seamlessly by extending Kustomize merge strategies using schemaless StrategicMerge (Containerized KRM, Exec KRM).
+*   [Merger (⭐29)](https://github.com/aabouzaid/kustomize-plugin-merger) - Generating manifests seamlessly by extending Kustomize merge strategies using schemaless StrategicMerge (Containerized KRM, Exec KRM).
 
 ## [38. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
 
 ### Resources / Course Material
 
-*   [Program Logics (⭐37)](https://github.com/xavierleroy/cdf-program-logics) - Companion Coq sources for a course on program logics at Collège de France.
+*   [Program Logics (⭐40)](https://github.com/xavierleroy/cdf-program-logics) - Companion Coq sources for a course on program logics at Collège de France.
 
 ## [39. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
@@ -8391,27 +8390,27 @@
 
 ### Get Started
 
-*   [bati (⭐210)](https://github.com/batijs/bati) - Scaffolding a Vike project.
+*   [bati (⭐304)](https://github.com/batijs/bati) - Scaffolding a Vike project.
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [vite-plugin-node-polyfills (⭐281)](https://github.com/davidmyersdev/vite-plugin-node-polyfills) - Polyfill Node's Core Modules for browser environments.
-*   [vite-plugin-cdn2 (⭐75)](https://github.com/nonzzz/vite-plugin-cdn) - Replace module with CDN.
+*   [vite-plugin-node-polyfills (⭐320)](https://github.com/davidmyersdev/vite-plugin-node-polyfills) - Polyfill Node's Core Modules for browser environments.
+*   [vite-plugin-cdn2 (⭐76)](https://github.com/nonzzz/vite-plugin-cdn) - Replace module with CDN.
 
 ## [42. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Plugin Manager
 
-*   [lewis6991/pckr.nvim (⭐241)](https://github.com/lewis6991/pckr.nvim) - Spiritual successor of `wbthomason/packer.nvim`.
+*   [lewis6991/pckr.nvim (⭐276)](https://github.com/lewis6991/pckr.nvim) - Spiritual successor of `wbthomason/packer.nvim`.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [judaew/ronny.nvim (⭐16)](https://github.com/judaew/ronny.nvim) - A dark colorscheme, which mostly was inspired by the Monokai originally created by Wimem Hazenberg.
-*   [ribru17/bamboo.nvim (⭐287)](https://github.com/ribru17/bamboo.nvim) - A warm green theme.
+*   [judaew/ronny.nvim (⭐17)](https://github.com/judaew/ronny.nvim) - A dark colorscheme, which mostly was inspired by the Monokai originally created by Wimem Hazenberg.
+*   [ribru17/bamboo.nvim (⭐329)](https://github.com/ribru17/bamboo.nvim) - A warm green theme.
 
 ### Utility / Diagnostics
 
-*   [LintaoAmons/scratch.nvim (⭐222)](https://github.com/LintaoAmons/scratch.nvim) - Create and manage scratch files.
+*   [LintaoAmons/scratch.nvim (⭐256)](https://github.com/LintaoAmons/scratch.nvim) - Create and manage scratch files.
 
 ## [43. Awesome Firebase](/content/jthegedus/awesome-firebase/week/README.md)
 
@@ -8424,11 +8423,6 @@
 ### Developer Tools / Virtualization
 
 *   [MacVirtue](https://naden.co) - Run free and unlimited Virtual Machines on your Mac.
-
-### Proxy and VPN Tools / Audio Record and Process
-
-*   [RerouteMe](https://naden.co) - An easy one-click macOS Proxy Configuration app. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [TigerVPN](https://www.tigervpn.com/vpn-for-mac) - VPN Client for Mac. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/vpn-plus/id1202726435)
 
 ### Utilities / Menu Bar Tools
 

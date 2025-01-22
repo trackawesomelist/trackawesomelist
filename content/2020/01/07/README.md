@@ -35,9 +35,9 @@
 ### Code Formatting
 
 *   [RuboCop (⭐13k)](https://github.com/rubocop-hq/rubocop) - A static code analyzer, based on the community Ruby style guide.
-    *   [Rubocop Rails (⭐799)](https://github.com/rubocop-hq/rubocop-rails) - A RuboCop extension focused on enforcing Rails best practices and coding conventions.
-    *   [Rubocop Rspec (⭐799)](https://github.com/rubocop-hq/rubocop-rspec) - Code style checking for RSpec files
-    *   [Rubocop Performance (⭐665)](https://github.com/rubocop-hq/rubocop-performance) - A RuboCop extension focused on code performance checks.
+    *   [Rubocop Rails (⭐823)](https://github.com/rubocop-hq/rubocop-rails) - A RuboCop extension focused on enforcing Rails best practices and coding conventions.
+    *   [Rubocop Rspec (⭐810)](https://github.com/rubocop-hq/rubocop-rspec) - Code style checking for RSpec files
+    *   [Rubocop Performance (⭐687)](https://github.com/rubocop-hq/rubocop-performance) - A RuboCop extension focused on code performance checks.
 
 ### Core Extensions
 
@@ -48,11 +48,11 @@
 
 ### Date and Time Processing
 
-*   [working\_hours (⭐534)](https://github.com/intrepidd/working_hours) - A modern ruby gem allowing to do time calculation with working hours.
+*   [working\_hours (⭐531)](https://github.com/intrepidd/working_hours) - A modern ruby gem allowing to do time calculation with working hours.
 
 ### Form Builder
 
-*   [Rapidfire (⭐319)](https://github.com/code-mancers/rapidfire) - Making dynamic surveys should be easy!
+*   [Rapidfire (⭐321)](https://github.com/code-mancers/rapidfire) - Making dynamic surveys should be easy!
 
 ### Scientific
 
@@ -98,7 +98,7 @@
 
 *   [backbone](https://CRAN.R-project.org/package=backbone) - Provides methods for binarizing a weighted network retaining only significant edges.
     *   [Introduction to the backbone package](https://arxiv.org/abs/1912.12779)
-*   [networkdata (⭐141)](https://github.com/schochastics/networkdata) - Includes 979 network datasets containing 2135 networks.
+*   [networkdata (⭐142)](https://github.com/schochastics/networkdata) - Includes 979 network datasets containing 2135 networks.
 *   [snahelper](https://CRAN.R-project.org/package=snahelper) - RStudio addin which provides a GUI to visualize and analyse networks
     *   [Introduction to snahelper (Part 1)](http://blog.schochastics.net/post/an-rstudio-addin-for-network-analysis-and-visualization/)
     *   [Introduction to snahelper (Part 2)](http://blog.schochastics.net/post/new-rstudio-addins-for-network-analysis/)
@@ -107,29 +107,21 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [Auto\_ViML (⭐517)](https://github.com/AutoViML/Auto_ViML) -> Automatically Build Variant Interpretable ML models fast! Auto\_ViML is pronounced "auto vimal", is a comprehensive and scalable Python AutoML toolkit with imbalanced handling, ensembling, stacking and built-in feature selection. Featured in <a href="https://towardsdatascience.com/why-automl-is-an-essential-new-tool-for-data-scientists-2d9ab4e25e46?source=friends_link&sk=d03a0cc55c23deb497d546d6b9be0653">Medium article</a>.
+*   [Auto\_ViML (⭐526)](https://github.com/AutoViML/Auto_ViML) -> Automatically Build Variant Interpretable ML models fast! Auto\_ViML is pronounced "auto vimal", is a comprehensive and scalable Python AutoML toolkit with imbalanced handling, ensembling, stacking and built-in feature selection. Featured in <a href="https://towardsdatascience.com/why-automl-is-an-essential-new-tool-for-data-scientists-2d9ab4e25e46?source=friends_link&sk=d03a0cc55c23deb497d546d6b9be0653">Medium article</a>.
 
 ### Python / Data Analysis / Data Visualization
 
-*   [AutoViz (⭐1.7k)](https://github.com/AutoViML/AutoViz) AutoViz performs automatic visualization of any dataset with a single line of Python code. Give it any input file (CSV, txt or JSON) of any size and AutoViz will visualize it. See <a href="https://towardsdatascience.com/autoviz-a-new-tool-for-automated-visualization-ec9c1744a6ad?source=friends_link&sk=c9e9503ec424b191c6096d7e3f515d10">Medium article</a>.
+*   [AutoViz (⭐1.8k)](https://github.com/AutoViML/AutoViz) AutoViz performs automatic visualization of any dataset with a single line of Python code. Give it any input file (CSV, txt or JSON) of any size and AutoViz will visualize it. See <a href="https://towardsdatascience.com/autoviz-a-new-tool-for-automated-visualization-ec9c1744a6ad?source=friends_link&sk=c9e9503ec424b191c6096d7e3f515d10">Medium article</a>.
 
 ## [13. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
-### Email
-
-*   [Mailgun plugin (⭐23)](https://github.com/narendravaghela/cakephp-mailgun) - Email transport plugin for sending email via Mailgun.
-
-### Miscellaneous
-
-*   [CakeImpersonate plugin (⭐7)](https://github.com/jomweb/CakeImpersonate) - A component that stores the current authentication session and creates new session for impersonating Users. User can revert back to original authentication sessions without the need to re-login.
-
 ### Navigation
 
-*   🍰 [Icings/Menu plugin (⭐11)](https://github.com/icings/menu) - A [KnpMenu (⭐1.4k)](https://github.com/KnpLabs/KnpMenu) seasoned menu plugin for CakePHP.
+*   [Icings/Menu plugin (⭐11)](https://github.com/icings/menu) - A [KnpMenu (⭐1.4k)](https://github.com/KnpLabs/KnpMenu) seasoned menu plugin for CakePHP.
 
 ### Search
 
-*   🍰 [Search plugin (⭐170)](https://github.com/FriendsOfCake/search) - Provides easy searching/filtering for paginated views using PRG pattern.
+*   [Search plugin (⭐170)](https://github.com/FriendsOfCake/search) - Provides easy searching/filtering for paginated views using PRG pattern.
 
 ## [14. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -141,7 +133,7 @@
 
 ### Deployment / Code Coverage
 
-*   [Deploy an Ansible role to Ansible Galaxy (⭐24)](https://github.com/robertdebock/galaxy-action)
+*   [Deploy an Ansible role to Ansible Galaxy (⭐32)](https://github.com/robertdebock/galaxy-action)
 
 ## [16. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 

@@ -10,13 +10,13 @@
 
 ### Security
 
-*   🍰 [Expose plugin](https://github.com/dereuromark/cakephp-expose) - Expose entities through additional UUIDs instead of their AIID primary keys to obfuscate those IDs and data associated with these numerically ordered values.
+*   [Expose plugin (⭐8)](https://github.com/dereuromark/cakephp-expose) - Expose entities through additional UUIDs instead of their AIID primary keys to obfuscate those IDs and data associated with these numerically ordered values.
 
 ## [2. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
 
 ### Python / Data Sources
 
-*   [yahooquery (⭐759)](https://github.com/dpguthrie/yahooquery) - Python interface for retrieving data through unofficial Yahoo Finance API.
+*   [yahooquery (⭐799)](https://github.com/dpguthrie/yahooquery) - Python interface for retrieving data through unofficial Yahoo Finance API.
 
 ## [3. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
@@ -28,11 +28,11 @@
 
 ### Deployment / Isomorphic web frameworks
 
-*   [s2i-lisp (⭐29)](https://github.com/container-lisp/s2i-lisp) - Source-to-Image builder image based on CentOS or alternatively RHEL7 for building Common LISP images for OpenShift (and also Docker). It features an up-to-date SBCL with Quicklisp installation, SLIME or SLY integration and allows customization via environment variables. [Apache2](https://directory.fsf.org/wiki/License:Apache2.0)
+*   [s2i-lisp (⭐31)](https://github.com/container-lisp/s2i-lisp) - Source-to-Image builder image based on CentOS or alternatively RHEL7 for building Common LISP images for OpenShift (and also Docker). It features an up-to-date SBCL with Quicklisp installation, SLIME or SLY integration and allows customization via environment variables. [Apache2](https://directory.fsf.org/wiki/License:Apache2.0)
 
 ### Others / Third-party APIs
 
-*   [Petalisp (⭐467)](https://github.com/marcoheisig/Petalisp) - an attempt to
+*   [Petalisp (⭐488)](https://github.com/marcoheisig/Petalisp) - an attempt to
     generate high performance code for parallel computers by
     JIT-compiling array definitions. It works on a more
     fundamental level than NumPy, by providing even more powerful
@@ -49,19 +49,18 @@
 
 ### Developer utilities / Third-party APIs
 
-*   [cl-debug (⭐1)](https://github.com/LowH/cl-debug) - a cross-package debug facility. Provides a unified way to enable or disable debug-specific code. Debugging code can be enabled or disabled relative to program features denoted by either a symbol or a keyword. ISC licence.
-*   [supertrace (⭐25)](https://github.com/fukamachi/supertrace) - Superior Common Lisp `trace` functionality for debugging/profiling. Trace many functions at once, use before and after hooks. [BSD\_2Clause](https://directory.fsf.org/wiki/License:BSD_2Clause).
+*   [supertrace (⭐31)](https://github.com/fukamachi/supertrace) - Superior Common Lisp `trace` functionality for debugging/profiling. Trace many functions at once, use before and after hooks. [BSD\_2Clause](https://directory.fsf.org/wiki/License:BSD_2Clause).
 
 ### Security / Third-party APIs
 
-*   [cl-isolated (⭐39)](https://github.com/kanru/cl-isolated) - A restricted environment for Common Lisp code evaluation [AGPL-3.0](https://directory.fsf.org/wiki/License:AGPL-3.0).
+*   [cl-isolated (⭐41)](https://github.com/kanru/cl-isolated) - A restricted environment for Common Lisp code evaluation [AGPL-3.0](https://directory.fsf.org/wiki/License:AGPL-3.0).
 
 ## [5. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
 ### Web Apps (open source)
 
 *   [OpenTripPlanner.js (⭐19)](https://github.com/conveyal/otp.js) - A Javascript-based client for OpenTripPlanner (no longer under development)
-*   [OTP-UI React Component Library (⭐52)](https://github.com/opentripplanner/otp-ui) - React Javascript component library, which can be used to build trip planner webapps. See the [Storybook](http://www.opentripplanner.org/otp-ui) for a demo.
+*   [OTP-UI React Component Library (⭐57)](https://github.com/opentripplanner/otp-ui) - React Javascript component library, which can be used to build trip planner webapps. See the [Storybook](http://www.opentripplanner.org/otp-ui) for a demo.
 
 ## [6. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
@@ -92,8 +91,7 @@
 
 ### Related / Awesome Lists
 
-*   [Awesome Tsung (⭐18)](https://github.com/aliesbelik/awesome-tsung) - Open-source multi-protocol distributed load testing tool, developed in Erlang.
-*   [Awesome JMeter (⭐700)](https://github.com/aliesbelik/awesome-jmeter) - Open-source load testing and performance measurement tool, written in Java.
+*   [Awesome JMeter (⭐720)](https://github.com/aliesbelik/awesome-jmeter) - Open-source load testing and performance measurement tool, written in Java.
 
 ## [11. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
@@ -121,22 +119,23 @@
 
 ### Related / Awesome Lists
 
-*   [Awesome Gatling (⭐63)](https://github.com/aliesbelik/awesome-gatling) - Open-source load and performance testing framework based on Scala, Akka and Netty.
+*   [Awesome Tsung (⭐20)](https://github.com/aliesbelik/awesome-tsung) - Open-source multi-protocol distributed load testing tool, developed in Erlang.
+*   [Awesome Gatling (⭐72)](https://github.com/aliesbelik/awesome-gatling) - Open-source load and performance testing framework based on Scala, Akka and Netty.
 
 ## [15. Awesome Tikz](/content/xiaohanyu/awesome-tikz/README.md)
 
 ### Tools / PGFPlots
 
-*   [sane\_tikz (⭐280)](https://github.com/negrinho/sane_tikz) - Create TikZ figures with Python.
+*   [sane\_tikz (⭐375)](https://github.com/negrinho/sane_tikz) - Create TikZ figures with Python.
 
 ## [16. Awesome Video](/content/krzemienski/awesome-video/README.md)
 
 ### Tools / Dolby
 
-*   [slhck/ffmpeg-bitrate-stats (⭐120)](https://github.com/slhck/ffmpeg-bitrate-stats)  - Calculate bitrate statistics using FFmpeg
+*   [slhck/ffmpeg-bitrate-stats (⭐133)](https://github.com/slhck/ffmpeg-bitrate-stats)  - Calculate bitrate statistics using FFmpeg
 *   [slhck/ffmpeg-debug-qp (⭐75)](https://github.com/slhck/ffmpeg-debug-qp)  - FFmpeg Debug Script for QP Values
-*   [slhck/ffmpeg-quality-metrics (⭐379)](https://github.com/slhck/ffmpeg-quality-metrics)  - Calculate quality metrics with FFmpeg (SSIM, PSNR, VMAF)
-*   [slhck/scenecut-extractor (⭐67)](https://github.com/slhck/scenecut-extractor)  - Extract scenecuts from video files using ffmpeg
+*   [slhck/ffmpeg-quality-metrics (⭐409)](https://github.com/slhck/ffmpeg-quality-metrics)  - Calculate quality metrics with FFmpeg (SSIM, PSNR, VMAF)
+*   [slhck/scenecut-extractor (⭐76)](https://github.com/slhck/scenecut-extractor)  - Extract scenecuts from video files using ffmpeg
 
 ## [17. Awesome Seed Rs](/content/seed-rs/awesome-seed-rs/README.md)
 
@@ -148,19 +147,19 @@
 
 ### Related
 
-*   [StumbleUponAwesome (⭐353)](https://github.com/basharovV/StumbleUponAwesome) - Discover random pages from the Awesome dataset using a browser extension.
+*   [StumbleUponAwesome (⭐380)](https://github.com/basharovV/StumbleUponAwesome) - Discover random pages from the Awesome dataset using a browser extension.
 
 ## [19. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Bluetooth
 
-*   [BerkananSDK (⭐206)](https://github.com/zssz/BerkananSDK) - Mesh messaging SDK with the goal to create a decentralized mesh network for the people, powered by their device's Bluetooth antenna.
+*   [BerkananSDK (⭐208)](https://github.com/zssz/BerkananSDK) - Mesh messaging SDK with the goal to create a decentralized mesh network for the people, powered by their device's Bluetooth antenna.
 
 ## [20. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Math
 
-*   [Klein (⭐745)](https://github.com/jeremyong/klein) - A fast, SIMD-optimized C++17 Geometric Algebra library for point, line, and plane projections, intersections, joins, rigid-body motion, and more. \[MIT] [website](https://jeremyong.com/klein)
+*   [Klein (⭐763)](https://github.com/jeremyong/klein) - A fast, SIMD-optimized C++17 Geometric Algebra library for point, line, and plane projections, intersections, joins, rigid-body motion, and more. \[MIT] [website](https://jeremyong.com/klein)
 
 ---
 

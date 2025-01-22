@@ -10,19 +10,19 @@
 
 ### Plugins
 
-*   [tmux-menus (⭐291)](https://github.com/jaclu/tmux-menus) - Popup menus to help with managing your environment.
+*   [tmux-menus (⭐329)](https://github.com/jaclu/tmux-menus) - Popup menus to help with managing your environment.
 
 ## [2. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Authentication and OAuth
 
-*   [API Guard (⭐278)](https://github.com/Gokul595/api_guard) - JWT authentication solution for Rails APIs.
+*   [API Guard (⭐276)](https://github.com/Gokul595/api_guard) - JWT authentication solution for Rails APIs.
 
 ## [3. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [exa (todie) (⭐1)](https://github.com/todie/exa.plugin.zsh) - Integration and completions for [exa](https://the.exa.website/), a modern replacement for `ls`.
+*   [exa (todie) (⭐1)](https://github.com/todie/exa.plugin.zsh) - Integration and completions for [exa (⭐24k)](https://github.com/ogham/exa), a modern replacement for `ls`.
 
 ## [4. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
@@ -32,13 +32,13 @@
 
 ### Libraries/Frameworks / Tools
 
-*   [Kotlin/kotlinx-kover (⭐1.3k)](https://github.com/Kotlin/kotlinx-kover) - Gradle plugin for Kotlin code coverage agents.
+*   [Kotlin/kotlinx-kover (⭐1.4k)](https://github.com/Kotlin/kotlinx-kover) - Gradle plugin for Kotlin code coverage agents.
 
 ## [5. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/README.md)
 
 ### Sequence Alignment / Pairwise
 
-*   **[DIAMOND (⭐758)](https://github.com/bbuchfink/diamond)** - An ultrafast protein aligner for `blastp` and `blastx` like searches. \[ [paper-2021](https://www.nature.com/articles/s41592-021-01101-x) ]
+*   **[DIAMOND (⭐1.1k)](https://github.com/bbuchfink/diamond)** - An ultrafast protein aligner for `blastp` and `blastx` like searches. \[ [paper-2021](https://www.nature.com/articles/s41592-021-01101-x) ]
 
 ## [6. Awesome Video](/content/krzemienski/awesome-video/README.md)
 
@@ -51,7 +51,7 @@
 
 ### Explainability / Strong Machine Learning
 
-*   [Deep Forest: Towards An Alternative to Deep Neural Networks](https://www.ijcai.org/Proceedings/2017/497) - ***IJCAI'17***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=7391596872731517007\&hl=en\&as_sdt=0,5)]. \[[Project (⭐904)](https://github.com/LAMDA-NJU/Deep-Forest)].
+*   [Deep Forest: Towards An Alternative to Deep Neural Networks](https://www.ijcai.org/Proceedings/2017/497) - ***IJCAI'17***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=7391596872731517007\&hl=en\&as_sdt=0,5)]. \[[Project (⭐933)](https://github.com/LAMDA-NJU/Deep-Forest)].
 
 ## [8. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
@@ -69,7 +69,7 @@
 
 ### Motion / Diagnostics
 
-*   [ggandor/leap.nvim (⭐4.2k)](https://github.com/ggandor/leap.nvim) - A refined successor of Lightspeed, aiming to establish a widely accepted standard interface extension for moving around in Vim-like editors.
+*   [ggandor/leap.nvim (⭐4.5k)](https://github.com/ggandor/leap.nvim) - A refined successor of Lightspeed, aiming to establish a widely accepted standard interface extension for moving around in Vim-like editors.
 
 ## [11. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 

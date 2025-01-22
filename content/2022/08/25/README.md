@@ -16,19 +16,19 @@
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [mcfly (⭐6.8k)](https://github.com/cantino/mcfly) - Replaces your default ctrl-r shell history search with an intelligent search engine that takes into account your working directory and the context of recently executed commands. McFly's suggestions are prioritized in real time with a small neural network.
+*   [mcfly (⭐7k)](https://github.com/cantino/mcfly) - Replaces your default ctrl-r shell history search with an intelligent search engine that takes into account your working directory and the context of recently executed commands. McFly's suggestions are prioritized in real time with a small neural network.
 
 ## [3. Awesome Fiber](/content/gofiber/awesome-fiber/README.md)
 
 ### ⚙️ Middlewares / 🌱 Third Party
 
-*   [joffref/opa-middleware (⭐18)](https://github.com/Joffref/opa-middleware) - Provides an OPA middleware integration for fiber.
+*   [joffref/opa-middleware (⭐19)](https://github.com/Joffref/opa-middleware) - Provides an OPA middleware integration for fiber.
 
 ## [4. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### Starters & Themes
 
-*   🚀 [AstroWind (⭐3k)](https://github.com/onwidget/astrowind) - Production ready and SEO-friendly template to start a website using Astro and Tailwind CSS.
+*   🚀 [AstroWind (⭐3.7k)](https://github.com/onwidget/astrowind) - Production ready and SEO-friendly template to start a website using Astro and Tailwind CSS.
 
 ## [5. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
@@ -59,8 +59,8 @@
 
 ### Programming
 
-*   [Structure and Interpretation of Computer Programs](https://web.mit.edu/6.001/6.037/sicp.pdf) - Harold Abelson, Gerald Jay Sussman, Julie Sussman (PDF)
-*   [Structure and Interpretation of Computer Programs](https://sarabander.github.io/sicp/html/index.xhtml) - Harold Abelson, Gerald Jay Sussman, Julie Sussman (HTML)
+*   [Structure and Interpretation of Computer Programs](https://web.mit.edu/6.001/6.037/sicp.pdf) - Harold Abelson, Gerald Jay Sussman, Julie Sussman (PDF) (CC BY-SA)
+*   [Structure and Interpretation of Computer Programs](https://sarabander.github.io/sicp/html/index.xhtml) - Harold Abelson, Gerald Jay Sussman, Julie Sussman (HTML) (CC BY-SA)
 
 ### Software Architecture
 
@@ -70,17 +70,13 @@
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [vite-plugin-zip-file (⭐15)](https://github.com/Ssis53/vite-plugin-zip) - Compress files or folders into zip.
+*   [vite-plugin-zip-file (⭐17)](https://github.com/Ssis53/vite-plugin-zip) - Compress files or folders into zip.
 
 ### Framework-agnostic Plugins / Helpers
 
 *   [vite-plugin-browserslist-useragent (⭐14)](https://github.com/kingyue737/vite-plugin-browserslist-useragent) - Compile browserslist query to a RegExp to test browser useragent.
 
 ## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
-
-### APIs, Data, and ML
-
-*   [Einblick](https://www.einblick.ai/) - a modern data science platform that brings Python notebooks to a collaborative canvas and includes tools that automate everyday tasks such as building predictive models (AutoML) or comparing populations. The free tier consists of 5 canvases and unlimited collaborators.
 
 ### Security and PKI
 

@@ -10,13 +10,13 @@
 
 ### Table of Contents / Static Analysis
 
-*   [PHP Architecture Tester (⭐1k)](https://github.com/carlosas/phpat) - Easy-to-use architecture testing tool for PHP.
+*   [PHP Architecture Tester (⭐1.1k)](https://github.com/carlosas/phpat) - Easy-to-use architecture testing tool for PHP.
 
 ## [2. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Productivity / Time Tracking
 
-*   [utt (⭐305)](https://github.com/larose/utt) - Simple time tracking tool.
+*   [utt (⭐330)](https://github.com/larose/utt) - Simple time tracking tool.
 
 ## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -28,7 +28,7 @@
 
 ### Static Analysis / Security
 
-*   [Run dlint security linter on your Python code (⭐2)](https://github.com/xen0l/dlint-check)
+*   [Run dlint security linter on your Python code (⭐3)](https://github.com/xen0l/dlint-check)
 
 ## [5. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/README.md)
 
@@ -40,7 +40,7 @@
 
 ### Component abstraction crates / Other
 
-*   [`radio`](https://github.com/ryankurte/rust-radio) - Generic radio transceiver traits, mocks, and helpers - ![crates.io](https://img.shields.io/crates/v/radio.svg)
+*   [`radio`](https://github.com/ryankurte/rust-radio) - Generic radio transceiver traits, mocks, and helpers - [![crates.io](https://img.shields.io/crates/v/radio.svg)](https://crates.io/crates/radio)
 
 ## [7. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 

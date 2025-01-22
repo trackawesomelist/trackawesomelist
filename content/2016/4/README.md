@@ -22,7 +22,7 @@
 
 ### Learning Guides / Outdated Tutorials and books (Elm 0.18 or earlier)
 
-*   [Writing native (⭐357)](https://github.com/NoRedInk/take-home/wiki/Writing-Native) - Learn how to create native JavaScript modules for Elm.
+*   [Writing native (⭐356)](https://github.com/NoRedInk/take-home/wiki/Writing-Native) - Learn how to create native JavaScript modules for Elm.
 
 ## [4. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
@@ -582,7 +582,7 @@ git config --global help.autocorrect 1
 
 ### Table of Contents / Asset Management
 
-*   [JShrink (⭐749)](https://github.com/tedious/JShrink) - A JavaScript minifier library.
+*   [JShrink (⭐752)](https://github.com/tedious/JShrink) - A JavaScript minifier library.
 
 ### Table of Contents / Geolocation
 
@@ -594,7 +594,7 @@ git config --global help.autocorrect 1
 
 ### Table of Contents / Caching and Locking
 
-*   [Stash (⭐960)](https://github.com/tedious/Stash) - Another library for caching.
+*   [Stash (⭐962)](https://github.com/tedious/Stash) - Another library for caching.
 
 ### Table of Contents / Data Structure and Storage
 
@@ -611,7 +611,7 @@ git config --global help.autocorrect 1
 ### Configuration / Web Applications
 
 *   [3V4L](https://3v4l.org/) - An online PHP & HHVM shell.
-*   [phpMyAdmin (⭐7.2k)](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL/MariaDB.
+*   [phpMyAdmin (⭐7.3k)](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL/MariaDB.
 
 ## [11. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
 
@@ -692,7 +692,7 @@ git config --global help.autocorrect 1
 
 ### Other Tools
 
-*   [git2r (⭐213)](https://github.com/ropensci/git2r) - Gives you programmatic access to Git repositories from R.
+*   [git2r (⭐215)](https://github.com/ropensci/git2r) - Gives you programmatic access to Git repositories from R.
 
 ## [21. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
 
@@ -709,9 +709,9 @@ git config --global help.autocorrect 1
 
 ### GUI Libs / XML
 
-*   [DLangUI (⭐778)](https://github.com/buggins/dlangui) - Cross Platform GUI for D programming language. My personal favorate, because it is written in D(not a binding), and is cross platform. DLangUI also has a good showcase in the IDE [DLangIDE (⭐430)](https://github.com/buggins/dlangide).
-*   [DWT (⭐140)](https://github.com/d-widget-toolkit/dwt) - A library for creating cross-platform GUI applications. GWT is a port of the Java SWT library to D. DWT was promoted as a semi-standard GUI library for D, but unfortunately didn't catch up popularity yet.
-*   [dqml (⭐41)](https://github.com/filcuc/dqml) -  Qt Qml bindings for the D programming language.
+*   [DLangUI (⭐804)](https://github.com/buggins/dlangui) - Cross Platform GUI for D programming language. My personal favorate, because it is written in D(not a binding), and is cross platform. DLangUI also has a good showcase in the IDE [DLangIDE (⭐447)](https://github.com/buggins/dlangide).
+*   [DWT (⭐141)](https://github.com/d-widget-toolkit/dwt) - A library for creating cross-platform GUI applications. GWT is a port of the Java SWT library to D. DWT was promoted as a semi-standard GUI library for D, but unfortunately didn't catch up popularity yet.
+*   [dqml (⭐42)](https://github.com/filcuc/dqml) -  Qt Qml bindings for the D programming language.
 
 ### Games / XML
 
@@ -839,13 +839,13 @@ git config --global help.autocorrect 1
 
 *   [styledocco](http://jacobrask.github.io/styledocco/) generates documentation and style guide documents from your stylesheets.
 *   [Ronn (⭐1.4k)](https://github.com/rtomayko/ronn) builds manuals. It converts simple, human readable textfiles to roff for terminal display, and also to HTML for the web.
-*   [jsdox (⭐210)](https://github.com/sutoiku/jsdox) is a JSDoc3 to Markdown documentation generator.
+*   [jsdox (⭐212)](https://github.com/sutoiku/jsdox) is a JSDoc3 to Markdown documentation generator.
 *   [documentation.js](http://documentation.js.org) - API documentation generator with support for ES2015+ and flow annotation.
 
 ### Benchmark / Runner
 
 *   [benchmark.js (⭐5.5k)](https://github.com/bestiejs/benchmark.js) - A benchmarking library. As used on jsPerf.com.
-*   [matcha (⭐561)](https://github.com/logicalparadox/matcha) - A caffeine driven, simplistic approach to benchmarking.
+*   [matcha (⭐562)](https://github.com/logicalparadox/matcha) - A caffeine driven, simplistic approach to benchmarking.
 
 ## [28. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
@@ -923,7 +923,7 @@ git config --global help.autocorrect 1
 
 ### Packages / Filesystem
 
-*   [pkg-dir (⭐235)](https://github.com/sindresorhus/pkg-dir) - Find the root directory of an npm package.
+*   [pkg-dir (⭐237)](https://github.com/sindresorhus/pkg-dir) - Find the root directory of an npm package.
 
 ### Packages / Date
 
@@ -988,8 +988,8 @@ git config --global help.autocorrect 1
 
 ### Framework Components
 
-*   [params (⭐357)](https://github.com/vic/params) - Use Ecto to enforce/validate parameters structure, akin to Rails' strong parameters.
-*   [revision\_plate\_ex (⭐3)](https://github.com/KazuCocoa/revision_plate_ex) - Plug application and middleware that serves endpoint returns application's REVISION.
+*   [params (⭐365)](https://github.com/vic/params) - Use Ecto to enforce/validate parameters structure, akin to Rails' strong parameters.
+*   [revision\_plate\_ex (⭐4)](https://github.com/KazuCocoa/revision_plate_ex) - Plug application and middleware that serves endpoint returns application's REVISION.
 
 ### Queue
 
@@ -1001,7 +1001,7 @@ git config --global help.autocorrect 1
 
 ### Text and Numbers
 
-*   [monetized (⭐47)](https://github.com/theocodes/monetized) - A lightweight solution for handling and storing money.
+*   [monetized (⭐46)](https://github.com/theocodes/monetized) - A lightweight solution for handling and storing money.
 
 ### Translations and Internationalizations
 
@@ -1015,15 +1015,15 @@ git config --global help.autocorrect 1
 
 ### Core Extensions
 
-*   [Hanami::Utils (⭐174)](https://github.com/hanami/utils) - Lightweight, non-monkey-patch class utilities for Hanami and Ruby app.
+*   [Hanami::Utils (⭐172)](https://github.com/hanami/utils) - Lightweight, non-monkey-patch class utilities for Hanami and Ruby app.
 
 ### ORM/ODM
 
-*   [Hanami::Model (⭐445)](https://github.com/hanami/model) - A lean Repository-pattern based ORM framework for Hanami and modern Ruby applications.
+*   [Hanami::Model (⭐441)](https://github.com/hanami/model) - A lean Repository-pattern based ORM framework for Hanami and modern Ruby applications.
 
 ### SEO
 
-*   [prerender\_rails (⭐360)](https://github.com/prerender/prerender_rails) - Rails middleware gem for prerendering javascript-rendered pages on the fly for SEO.
+*   [prerender\_rails (⭐358)](https://github.com/prerender/prerender_rails) - Rails middleware gem for prerendering javascript-rendered pages on the fly for SEO.
 
 ### Web Frameworks
 

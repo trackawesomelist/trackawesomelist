@@ -17,7 +17,7 @@
 ### Computer Vision / Text-Based User Interfaces
 
 *   [ImageJ](https://imagej.net/ImageJ) - Medical image processing application with an API.
-*   [JavaCV (⭐7.4k)](https://github.com/bytedeco/javacv) - Java interface to OpenCV, FFmpeg, and much more.
+*   [JavaCV (⭐7.6k)](https://github.com/bytedeco/javacv) - Java interface to OpenCV, FFmpeg, and much more.
 
 ## [3. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/README.md)
 
@@ -63,7 +63,7 @@
 
 ### Algorithms and Data structures
 
-*   [qr-code (⭐17)](https://github.com/spider-gazelle/qr-code) - QR Code generator
+*   [qr-code (⭐18)](https://github.com/spider-gazelle/qr-code) - QR Code generator
 
 ## [8. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 

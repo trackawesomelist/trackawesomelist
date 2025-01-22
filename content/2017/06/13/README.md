@@ -56,10 +56,6 @@
 
 *   [Vue.js in Action](https://www.manning.com/books/vue-js-in-action) by Erik Hanchett and Benjamin Listwon (Spring 2018)
 
-### Projects Using Vue.js / Open Source
-
-*   [promptie (⭐88)](https://github.com/alicin/promptie) - A framework written in Vue.js for creating command-line like interfaces in web browsers.
-
 ## [4. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
 ### Tools / Misc
@@ -91,7 +87,7 @@
 
 ### Ask these organizations anything!
 
-*   [IIIT Vadodara (⭐17)](https://github.com/iiitv/aua) - Open-source organization maintained by college students.
+*   [IIIT Vadodara (⭐18)](https://github.com/iiitv/aua) - Open-source organization maintained by college students.
 
 ---
 

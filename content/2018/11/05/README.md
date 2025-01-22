@@ -28,31 +28,31 @@
 
 ### CLI
 
-*   [linenoise (⭐3.7k)](https://github.com/antirez/linenoise) - A small self-contained alternative to readline and libedit. \[BSD-2-Clause]
-*   [linenoise-ng (⭐360)](https://github.com/arangodb/linenoise-ng) - A small, portable GNU readline replacement for Linux, Windows and MacOS which is capable of handling UTF-8 characters. \[BSD]
+*   [linenoise (⭐3.9k)](https://github.com/antirez/linenoise) - A small self-contained alternative to readline and libedit. \[BSD-2-Clause]
+*   [linenoise-ng (⭐361)](https://github.com/arangodb/linenoise-ng) - A small, portable GNU readline replacement for Linux, Windows and MacOS which is capable of handling UTF-8 characters. \[BSD]
 
 ## [5. Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md)
 
 ### Theming
 
-*   [antd-theme-webpack-plugin (⭐370)](https://github.com/mzohaibqc/antd-theme-webpack-plugin) - A webpack plugin to generate your custom theme file.
+*   [antd-theme-webpack-plugin (⭐368)](https://github.com/mzohaibqc/antd-theme-webpack-plugin) - A webpack plugin to generate your custom theme file.
 *   [antd-theme-generator (⭐358)](https://github.com/mzohaibqc/antd-theme-generator) - A simple script to generate theme specific less file which can be used in any environment.
 
 ### Components / Themes
 
-*   [antd-amplify-react (⭐57)](https://github.com/mzohaibqc/antd-amplify-react) - A collection of Ant Design component for Aws Amplify for Authentication
+*   [antd-amplify-react (⭐59)](https://github.com/mzohaibqc/antd-amplify-react) - A collection of Ant Design component for Aws Amplify for Authentication
 
 ## [6. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### UICollectionView / Barcode
 
-*   [UICollectionViewSplitLayout (⭐241)](https://github.com/yahoojapan/UICollectionViewSplitLayout) - UICollectionViewSplitLayout makes collection view more responsive.
+*   [UICollectionViewSplitLayout (⭐243)](https://github.com/yahoojapan/UICollectionViewSplitLayout) - UICollectionViewSplitLayout makes collection view more responsive.
 
 ## [7. Awesome Selenium](/content/christian-bromann/awesome-selenium/README.md)
 
 ### Tools / Java
 
-*   [WebDriverManager (⭐2.3k)](https://github.com/bonigarcia/webdrivermanager) - Automatic management of Selenium WebDriver binaries.
+*   [WebDriverManager (⭐2.6k)](https://github.com/bonigarcia/webdrivermanager) - Automatic management of Selenium WebDriver binaries.
 
 ## [8. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/README.md)
 
@@ -86,7 +86,7 @@
 
 ### IoC
 
-*   [DryIoc (⭐991)](https://github.com/dadhi/DryIoc) - Simple, fast all fully featured IoC container.
+*   [DryIoc (⭐1k)](https://github.com/dadhi/DryIoc) - Simple, fast all fully featured IoC container.
 
 ## [12. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 

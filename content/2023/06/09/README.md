@@ -22,7 +22,7 @@
 
 ### Resources / Blog posts
 
-*   [LazyFrame vs DataFrame in Polars – Performance Comparison](https://stuffbyyuki.com/lazyframe-vs-dataframe-in-polars-performance-comparison/) - A blog post that introduces what LazyFrame is in Polars and its performance gain compared to DataFrame by [@StuffbyYuki](https://github.com/StuffbyYuki). Code used is available on Github [here (⭐21)](https://github.com/StuffbyYuki/Python-Polars-Tips-and-Tricks/tree/main/lazyframe_vs_dataframe).
+*   [LazyFrame vs DataFrame in Polars – Performance Comparison](https://stuffbyyuki.com/lazyframe-vs-dataframe-in-polars-performance-comparison/) - A blog post that introduces what LazyFrame is in Polars and its performance gain compared to DataFrame by [@StuffbyYuki](https://github.com/StuffbyYuki). Code used is available on Github [here (⭐26)](https://github.com/StuffbyYuki/Python-Polars-Tips-and-Tricks/tree/main/lazyframe_vs_dataframe).
 
 ## [4. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
 
@@ -44,13 +44,13 @@
 
 ### Applications / Database
 
-*   [Neon (⭐14k)](https://github.com/neondatabase/neon) - Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.
+*   [Neon (⭐16k)](https://github.com/neondatabase/neon) - Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.
 
 ## [6. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
 ### Plugins / Style
 
-*   [perfectionist sorting (⭐1.7k)](https://github.com/azat-io/eslint-plugin-perfectionist) - Sort objects, imports, TypeScript types, enums, JSX props, etc.
+*   [perfectionist sorting (⭐1.9k)](https://github.com/azat-io/eslint-plugin-perfectionist) - Sort objects, imports, TypeScript types, enums, JSX props, etc.
 
 ## [7. Awesome Ansible](/content/ansible-community/awesome-ansible/README.md)
 

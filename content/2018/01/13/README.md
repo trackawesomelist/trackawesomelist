@@ -49,13 +49,13 @@
 
 ### Utilities / System Related Tools
 
-*   [Juice (⭐758)](https://github.com/brianmichel/Juice) - Make your battery information a bit more interesting. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/brianmichel/Juice) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Juice (⭐762)](https://github.com/brianmichel/Juice) - Make your battery information a bit more interesting. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/brianmichel/Juice) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [4. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
 
 ### Web Frameworks
 
-*   [REST.VertX (⭐151)](https://github.com/zandero/rest.vertx) - Lightweight JAX-RS (RestEasy) like annotation processor for Vert.x verticals.
+*   [REST.VertX (⭐160)](https://github.com/zandero/rest.vertx) - Lightweight JAX-RS (RestEasy) like annotation processor for Vert.x verticals.
 
 ## [5. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 

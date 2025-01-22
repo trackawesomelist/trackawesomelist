@@ -16,13 +16,13 @@
 
 ### Frameworks / Runtimes
 
-*   [Vert.X Toolbox (⭐113)](https://github.com/vert-x3/vertx-microservices-toolbox) - A set of Vert.x components to build reactive microservice applications.
+*   [Vert.X Toolbox (⭐115)](https://github.com/vert-x3/vertx-microservices-toolbox) - A set of Vert.x components to build reactive microservice applications.
 
 ## [3. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Debug
 
-*   [doctest (⭐5.8k)](https://github.com/onqtam/doctest) - The lightest feature rich C++ single header testing framework. \[MIT]
+*   [doctest (⭐6.1k)](https://github.com/onqtam/doctest) - The lightest feature rich C++ single header testing framework. \[MIT]
 
 ## [4. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/README.md)
 
@@ -38,7 +38,7 @@
 
 ### Hardware
 
-*   [nerves (⭐2.2k)](https://github.com/nerves-project/nerves) - Framework for building firmware for platforms like Raspberry Pi and BeagleBone Black.
+*   [nerves (⭐2.3k)](https://github.com/nerves-project/nerves) - Framework for building firmware for platforms like Raspberry Pi and BeagleBone Black.
 
 ### Native Implemented Functions
 

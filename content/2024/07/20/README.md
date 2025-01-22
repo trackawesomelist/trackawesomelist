@@ -22,15 +22,15 @@
 
 ### Third-Party Packages / General
 
-*   [Django-Classy-Doc (⭐19)](https://github.com/nanuxbe/django-classy-doc) - Document your own code in the style of CCBV and CDRF.[https://github.com/nanuxbe/django-classy-doc (⭐19)](https://github.com/nanuxbe/django-classy-doc)
+*   [Django-Classy-Doc (⭐27)](https://github.com/nanuxbe/django-classy-doc) - Document your own code in the style of CCBV and CDRF.
 
 ### Third-Party Packages / Templates
 
-*   [django-cotton](https://django-cotton.com/) - Goodbye `{% extends, block, include %}`, Hello `<c-component />`. Bringing modern UI composition to Django.
+*   [django-cotton](https://django-cotton.com/) - Goodbye `{% raw %}{%{% endraw %} extends, block, include {% raw %}%}{% endraw %}`, Hello `<c-component />`. Bringing modern UI composition to Django.
 
 ## [4. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
-### Inbox: Speech-to-text (STT) and spoken content analysis / Deforum
+### Speech-to-text (STT) and spoken content analysis / Deforum
 
 *   [Archie](https://archie.8base.com/): AI-Driven Product Architect that Designs and Plans Software Applications
 
@@ -44,7 +44,7 @@
 
 ### Animations / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [angular-shiki-magic-move (⭐1)](https://github.com/tutkli/angular-shiki-magic-move) - Smoothly animated code blocks with [Shiki (⭐9.6k)](https://github.com/shikijs/shiki).
+*   [angular-shiki-magic-move (⭐2)](https://github.com/tutkli/angular-shiki-magic-move) - Smoothly animated code blocks with [Shiki (⭐11k)](https://github.com/shikijs/shiki).
 
 ### DOM / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -52,7 +52,7 @@
 
 ### UX Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [bdc-walkthrough (⭐73)](https://github.com/Broadcom/bdc-walkthrough) - An Angular Material library for displaying walk-through pop-ups and dialogs using a declarative way.
+*   [bdc-walkthrough (⭐74)](https://github.com/Broadcom/bdc-walkthrough) - An Angular Material library for displaying walk-through pop-ups and dialogs using a declarative way.
 
 ---
 

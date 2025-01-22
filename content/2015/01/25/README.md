@@ -16,8 +16,8 @@
 
 ### Miscellaneous
 
-*   [ex2ms (⭐188)](https://github.com/ericmj/ex2ms) - Translates Elixir functions to match specifications for use with `ets`.
-*   [ex\_rated (⭐448)](https://github.com/grempe/ex_rated) - Simple and flexible rate-limiting for API's or anything.
+*   [ex2ms (⭐197)](https://github.com/ericmj/ex2ms) - Translates Elixir functions to match specifications for use with `ets`.
+*   [ex\_rated (⭐455)](https://github.com/grempe/ex_rated) - Simple and flexible rate-limiting for API's or anything.
 
 ### Editors
 
@@ -46,12 +46,12 @@
 
 ### Syntax
 
-*   [pipeR (⭐162)](https://github.com/renkun-ken/pipeR) - Multi-paradigm Pipeline Implementation.
-*   [lambda.r (⭐210)](https://github.com/zatonovo/lambda.r) - Functional programming and simple pattern matching in R.
+*   [pipeR (⭐169)](https://github.com/renkun-ken/pipeR) - Multi-paradigm Pipeline Implementation.
+*   [lambda.r (⭐216)](https://github.com/zatonovo/lambda.r) - Functional programming and simple pattern matching in R.
 
 ### Data Manipulation
 
-*   [rlist (⭐198)](https://github.com/renkun-ken/rlist) - A toolbox for non-tabular data manipulation with lists.
+*   [rlist (⭐204)](https://github.com/renkun-ken/rlist) - A toolbox for non-tabular data manipulation with lists.
 
 ---
 

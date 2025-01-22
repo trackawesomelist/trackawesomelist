@@ -16,7 +16,7 @@
 
 ### Entertainment / Video
 
-*   [yt-dlp (⭐70k)](https://github.com/yt-dlp/yt-dlp) - A `youtube-dl` fork with additional features and fixes.
+*   [yt-dlp (⭐90k)](https://github.com/yt-dlp/yt-dlp) - A `youtube-dl` fork with additional features and fixes.
 
 ## [3. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/README.md)
 
@@ -34,7 +34,7 @@
 
 ### Software / Note-taking & Editors
 
-*   [Memos](https://usememos.com/) - An open source, self-hosted knowledge base that works with a SQLite db file. ([Source Code (⭐30k)](https://github.com/usememos/memos)) `MIT` `Docker/Go`
+*   [Memos](https://usememos.com/) - An open source, self-hosted knowledge base that works with a SQLite db file. ([Source Code (⭐36k)](https://github.com/usememos/memos)) `MIT` `Docker/Go`
 
 ### Software / Software Development - IDE & Tools
 
@@ -44,13 +44,13 @@
 
 ### Status Bar
 
-*   [tmux-transient-status (⭐11)](https://github.com/TheSast/tmux-transient-status) Automatically make your tmux status bar vanish when unneded.
+*   [tmux-transient-status (⭐16)](https://github.com/TheSast/tmux-transient-status) Automatically make your tmux status bar vanish when unneded.
 
 ## [7. Awesome Directus](/content/directus-community/awesome-directus/README.md)
 
 ### Extensions / Community
 
-*   [Directus Mailer (⭐38)](https://github.com/ryntab/Directus-Mailer) - An endpoint for sending emails with the Directus Nodemailer service.
+*   [Directus Mailer (⭐44)](https://github.com/ryntab/Directus-Mailer) - An endpoint for sending emails with the Directus Nodemailer service.
 
 ### Articles / Personal
 

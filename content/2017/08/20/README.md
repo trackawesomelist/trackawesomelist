@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 20, 2017
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -34,15 +34,15 @@
 
 ### Models/Projects
 
-*   [Neural machine translation between the writings of Shakespeare and modern English using TensorFlow (⭐248)](https://github.com/tokestermw/tensorflow-shakespeare) - This performs a monolingual translation, going from modern English to Shakespeare and vice-versa.
+*   [Neural machine translation between the writings of Shakespeare and modern English using TensorFlow (⭐250)](https://github.com/tokestermw/tensorflow-shakespeare) - This performs a monolingual translation, going from modern English to Shakespeare and vice-versa.
 
 ## [5. Awesome D](/content/dlang-community/awesome-d/README.md)
 
 ### Scientific / XML
 
-*   [mir (⭐211)](https://github.com/libmir/mir) -  Sandbox for some mir packages: sparse tensors, Hoffman and others.
-*   [mir-algorithm (⭐211)](https://github.com/libmir/mir) - N-dimensional arrays (matrixes, tensors), algorithms, general purpose library.
-*   [mir-random (⭐31)](https://github.com/libmir/mir-random) -  Advanced Random Number Generators.
+*   [mir (⭐210)](https://github.com/libmir/mir) -  Sandbox for some mir packages: sparse tensors, Hoffman and others.
+*   [mir-algorithm (⭐210)](https://github.com/libmir/mir) - N-dimensional arrays (matrixes, tensors), algorithms, general purpose library.
+*   [mir-random (⭐32)](https://github.com/libmir/mir-random) -  Advanced Random Number Generators.
 
 ## [6. Awesome Open Source Supporters](/content/zachflower/awesome-open-source-supporters/README.md)
 
@@ -56,13 +56,7 @@
 
 *   [CNTK - Microsoft Cognitive Toolkit (⭐17k)](https://github.com/Microsoft/CNTK)
 
-## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Projects Using Vue.js / Open Source
-
-*   [JSON Editor (⭐234)](https://github.com/tangram-js/json-editor) - A schema-aware JSON editor. Develop with Vue2.
-
-## [9. Awesome Python](/content/vinta/awesome-python/README.md)
+## [8. Awesome Python](/content/vinta/awesome-python/README.md)
 
 ### Recommender Systems
 

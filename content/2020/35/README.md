@@ -17,7 +17,7 @@
 
 ### Official
 
-*   [Apphud (⭐197)](https://github.com/apphud/ApphudSDK) - A complete solution to integrate auto-renewable subscriptions and regular in-app purchases in 30 minutes with no server code required.
+*   [Apphud (⭐211)](https://github.com/apphud/ApphudSDK) - A complete solution to integrate auto-renewable subscriptions and regular in-app purchases in 30 minutes with no server code required.
 
 ## [3. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
 
@@ -63,7 +63,7 @@
 
 ### Terminal-based / programmable RSS readers / Outline Processor Markup Language
 
-*   [neix (⭐200)](https://github.com/tomschwarz/neix) <sup>[788](https://t.me/s/aboutrss/788)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/tomschwarz/neix)
+*   [neix (⭐202)](https://github.com/tomschwarz/neix) <sup>[788](https://t.me/s/aboutrss/788)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/tomschwarz/neix)
 
 ### Telegram / Telegram RSS bots
 
@@ -87,7 +87,7 @@
 
 ### RSS2WIDGET / For browser
 
-*   [Epiboard (⭐329)](https://github.com/Alexays/Epiboard) <sup>[782](https://t.me/s/aboutrss/782)</sup> [![Chrome](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Google_Chrome.png)](https://chrome.google.com/webstore/detail/epiboard/eblmkpheecdcbflbhbadgfciakhlhdnm)[![Firefox](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Mozilla.png)](https://addons.mozilla.org/fr/firefox/addon/epiboard/)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Alexays/Epiboard)
+*   [Epiboard (⭐332)](https://github.com/Alexays/Epiboard) <sup>[782](https://t.me/s/aboutrss/782)</sup> [![Chrome](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Google_Chrome.png)](https://chrome.google.com/webstore/detail/epiboard/eblmkpheecdcbflbhbadgfciakhlhdnm)[![Firefox](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Mozilla.png)](https://addons.mozilla.org/fr/firefox/addon/epiboard/)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Alexays/Epiboard)
 
 ### RSS2DISCORD / RSS2GitHubProfile
 
@@ -184,10 +184,10 @@
 
 ### Plugins / CSS in JS
 
-*   [CSS-modules (⭐153)](https://github.com/atfzl/eslint-plugin-css-modules) - Lint undefined or unused rules for css modules.
+*   [CSS-modules (⭐152)](https://github.com/atfzl/eslint-plugin-css-modules) - Lint undefined or unused rules for css modules.
 *   Styled Components
-    *   [Better Styled Components (⭐64)](https://github.com/tinloof/eslint-plugin-better-styled-components) - Auto fixable ESlint's rules for styled components.
-    *   [styled-components-a11y (⭐141)](https://github.com/brendanmorrell/eslint-plugin-styled-components-a11y) - A11y for Styled Components.
+    *   [Better Styled Components (⭐65)](https://github.com/tinloof/eslint-plugin-better-styled-components) - Auto fixable ESlint's rules for styled components.
+    *   [styled-components-a11y (⭐144)](https://github.com/brendanmorrell/eslint-plugin-styled-components-a11y) - A11y for Styled Components.
 
 ## [10. Public Apis](/content/public-apis/public-apis/week/README.md)
 
@@ -223,14 +223,14 @@
 
 ### Applications / Database
 
-*   [Materialize (⭐5.7k)](https://github.com/MaterializeInc/materialize) - Streaming SQL database powered by Timely Dataflow :heavy\_dollar\_sign: [![Build status](https://badge.buildkite.com/97d6604e015bf633d1c2a12d166bb46f3b43a927d3952c999a.svg?branch=main)](https://buildkite.com/materialize/test)
+*   [Materialize (⭐5.9k)](https://github.com/MaterializeInc/materialize) - Streaming SQL database powered by Timely Dataflow :heavy\_dollar\_sign: [![Build status](https://badge.buildkite.com/97d6604e015bf633d1c2a12d166bb46f3b43a927d3952c999a.svg?branch=main)](https://buildkite.com/materialize/test)
 
 ## [12. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### GDScript/C# editor support / Godot version unknown
 
-*   [Emacs (⭐303)](https://github.com/godotengine/emacs-gdscript-mode) - Syntax highlighting, code folding, indentation and autocompletion.
-*   [Vim (⭐471)](https://github.com/habamax/vim-godot) - Syntax highlighting, autocompletion and linting using the LSP server provided by the Godot editor. Also supports the Godot shader language.
+*   [Emacs (⭐323)](https://github.com/godotengine/emacs-gdscript-mode) - Syntax highlighting, code folding, indentation and autocompletion.
+*   [Vim (⭐513)](https://github.com/habamax/vim-godot) - Syntax highlighting, autocompletion and linting using the LSP server provided by the Godot editor. Also supports the Godot shader language.
 
 ## [13. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
@@ -290,58 +290,58 @@
 
 ### GitHub Tools and Management / Docker Container Actions
 
-*   [Create/Update/Delete a GitHub Wiki Page Based on Any File (⭐24)](https://github.com/Andrew-Chen-Wang/github-wiki-action)
-*   [Check GitHub Status in your Workflow (⭐25)](https://github.com/crazy-max/ghaction-github-status)
-*   [Manage Labels on GitHub (create/rename/update/delete) as Code (⭐104)](https://github.com/crazy-max/ghaction-github-labeler)
+*   [Create/Update/Delete a GitHub Wiki Page Based on Any File (⭐63)](https://github.com/Andrew-Chen-Wang/github-wiki-action)
+*   [Check GitHub Status in your Workflow (⭐33)](https://github.com/crazy-max/ghaction-github-status)
+*   [Manage Labels on GitHub (create/rename/update/delete) as Code (⭐138)](https://github.com/crazy-max/ghaction-github-labeler)
 
 ### Utility / Docker Container Actions
 
-*   [Upload and Scan Files with VirusTotal (⭐104)](https://github.com/crazy-max/ghaction-virustotal)
-*   [Import a GPG Key (⭐188)](https://github.com/crazy-max/ghaction-import-gpg)
-*   [Compress with UPX (⭐33)](https://github.com/crazy-max/ghaction-upx) - The Ultimate Packer for eXecutables.
-*   [Pull the New Go Module Version Into the Proxy Cache (⭐23)](https://github.com/andrewslotin/go-proxy-pull-action) - Ensures the latest version of your Go module is in the proxy cache. Also updates the pkg.go.dev documentation upon release.
+*   [Upload and Scan Files with VirusTotal (⭐155)](https://github.com/crazy-max/ghaction-virustotal)
+*   [Import a GPG Key (⭐311)](https://github.com/crazy-max/ghaction-import-gpg)
+*   [Compress with UPX (⭐55)](https://github.com/crazy-max/ghaction-upx) - The Ultimate Packer for eXecutables.
+*   [Pull the New Go Module Version Into the Proxy Cache (⭐26)](https://github.com/andrewslotin/go-proxy-pull-action) - Ensures the latest version of your Go module is in the proxy cache. Also updates the pkg.go.dev documentation upon release.
 *   [Delete Run Artifacts](https://github.com/marketplace/actions/delete-run-artifacts) - Deletes all artifacts at the end of a workflow run.
-*   [GitHub Environment Variables Action (⭐149)](https://github.com/FranzDiebold/github-env-vars-action) - Expose environment variables such as the branch/tag name, repository slug, and ref slug.
-*   [GitHub Action Locks (⭐15)](https://github.com/abatilo/github-action-locks/blob/master/README.md) - Guarantee atomic execution of your GitHub Action workflows.
+*   [GitHub Environment Variables Action (⭐182)](https://github.com/FranzDiebold/github-env-vars-action) - Expose environment variables such as the branch/tag name, repository slug, and ref slug.
+*   [GitHub Action Locks (⭐16)](https://github.com/abatilo/github-action-locks/blob/master/README.md) - Guarantee atomic execution of your GitHub Action workflows.
 
 ### Utility / Dependencies
 
-*   [Install NPM Dependencies with Caching (⭐576)](https://github.com/bahmutov/npm-install)
-*   [Highlight New NPM Dependencies (⭐22)](https://github.com/hiwelo/new-dependencies-action) - Comments on pull requests newly added NPM dependencies information.
+*   [Install NPM Dependencies with Caching (⭐649)](https://github.com/bahmutov/npm-install)
+*   [Highlight New NPM Dependencies (⭐26)](https://github.com/hiwelo/new-dependencies-action) - Comments on pull requests newly added NPM dependencies information.
 *   [Cache NPM Dependencies (⭐17)](https://github.com/c-hive/gha-npm-cache)
-*   [Cache Yarn Dependencies (⭐84)](https://github.com/c-hive/gha-yarn-cache)
+*   [Cache Yarn Dependencies (⭐91)](https://github.com/c-hive/gha-yarn-cache)
 
 ### Static Analysis / Linting
 
-*   [Validate Fastlane Supply Metadata Against the Play Store Guidelines (⭐18)](https://github.com/ashutoshgngwr/validate-fastlane-supply-metadata)
+*   [Validate Fastlane Supply Metadata Against the Play Store Guidelines (⭐22)](https://github.com/ashutoshgngwr/validate-fastlane-supply-metadata)
 
 ### Pull Requests / Code Coverage
 
-*   [Set PR Reviewers Based on Assignees (⭐116)](https://github.com/pullreminders/assignee-to-reviewer-action)
-*   [Open or Update PR on Branch Push (with Branch Selection) (⭐144)](https://github.com/vsoch/pull-request-action)
-*   [Automatically Rebase a PR (⭐607)](https://github.com/cirrus-actions/rebase)
-*   [Label PR once it has a Specified Number of Approvals (⭐166)](https://github.com/pullreminders/label-when-approved-action)
-*   [Add Labels to a PR based on Matched File Patterns (⭐62)](https://github.com/banyan/auto-label)
-*   [Auto-Approve PRs (⭐287)](https://github.com/hmarr/auto-approve-action)
-*   [Automatically add Reviewers to PR based on the Configuration File (⭐165)](https://github.com/kentaro-m/auto-assign-action)
-*   [Add Labels to a PR based on Branch Name Patterns (⭐182)](https://github.com/TimonVS/pr-labeler-action)
-*   [Add Labels to a PR based on Total Size of the Diff (⭐49)](https://github.com/pascalgn/size-label-action)
-*   [Automatically merge PRs That Are Ready (⭐653)](https://github.com/pascalgn/automerge-action)
-*   [Verify That PRs Contain a Ticket Reference (⭐61)](https://github.com/vijaykramesh/pr-lint-action)
-*   [Create a PR for Changes to your Repository in the Actions Workspace (⭐1.2k)](https://github.com/peter-evans/create-pull-request)
-*   [Lint a PR (⭐101)](https://github.com/seferov/pr-lint-action)
-*   [ChatOps for PRs (⭐69)](https://github.com/machine-learning-apps/actions-chatops)
-*   [Prefix Title and Body of a PR Based on Text Extracted from Branch Name (⭐45)](https://github.com/tzkhan/pr-update-action)
-*   [Merge Pal - Automatically Update and Merge PRs (⭐29)](https://github.com/maxkomarychev/merge-pal-action)
-*   [Pull Request Stuck Notifier (⭐5)](https://github.com/jrylan/github-action-stuck-pr-notifier)
-*   [Ticket Check Action (⭐30)](https://github.com/neofinancial/ticket-check-action) - Automatically add a ticket or issue number to the start of all Pull Request titles.
-*   [Pull Request Landmines (⭐24)](https://github.com/tylermurry/github-pr-landmine)
-*   [Annotate a GitHub Pull Request Based on a Checkstyle XML-Report (⭐150)](https://github.com/staabm/annotate-pull-request-from-checkstyle)
-*   [Pull Request Stats (⭐166)](https://github.com/flowwer-dev/pull-request-stats) -  Print relevant stats about reviewers.
+*   [Set PR Reviewers Based on Assignees (⭐122)](https://github.com/pullreminders/assignee-to-reviewer-action)
+*   [Open or Update PR on Branch Push (with Branch Selection) (⭐173)](https://github.com/vsoch/pull-request-action)
+*   [Automatically Rebase a PR (⭐679)](https://github.com/cirrus-actions/rebase)
+*   [Label PR once it has a Specified Number of Approvals (⭐191)](https://github.com/pullreminders/label-when-approved-action)
+*   [Add Labels to a PR based on Matched File Patterns (⭐63)](https://github.com/banyan/auto-label)
+*   [Auto-Approve PRs (⭐404)](https://github.com/hmarr/auto-approve-action)
+*   [Automatically add Reviewers to PR based on the Configuration File (⭐291)](https://github.com/kentaro-m/auto-assign-action)
+*   [Add Labels to a PR based on Branch Name Patterns (⭐244)](https://github.com/TimonVS/pr-labeler-action)
+*   [Add Labels to a PR based on Total Size of the Diff (⭐89)](https://github.com/pascalgn/size-label-action)
+*   [Automatically merge PRs That Are Ready (⭐834)](https://github.com/pascalgn/automerge-action)
+*   [Verify That PRs Contain a Ticket Reference (⭐73)](https://github.com/vijaykramesh/pr-lint-action)
+*   [Create a PR for Changes to your Repository in the Actions Workspace (⭐2.1k)](https://github.com/peter-evans/create-pull-request)
+*   [Lint a PR (⭐119)](https://github.com/seferov/pr-lint-action)
+*   [ChatOps for PRs (⭐74)](https://github.com/machine-learning-apps/actions-chatops)
+*   [Prefix Title and Body of a PR Based on Text Extracted from Branch Name (⭐79)](https://github.com/tzkhan/pr-update-action)
+*   [Merge Pal - Automatically Update and Merge PRs (⭐32)](https://github.com/maxkomarychev/merge-pal-action)
+*   [Pull Request Stuck Notifier](https://github.com/jrylan/github-action-stuck-pr-notifier)
+*   [Ticket Check Action (⭐41)](https://github.com/neofinancial/ticket-check-action) - Automatically add a ticket or issue number to the start of all Pull Request titles.
+*   [Pull Request Landmines (⭐33)](https://github.com/tylermurry/github-pr-landmine)
+*   [Annotate a GitHub Pull Request Based on a Checkstyle XML-Report (⭐189)](https://github.com/staabm/annotate-pull-request-from-checkstyle)
+*   [Pull Request Stats (⭐349)](https://github.com/flowwer-dev/pull-request-stats) -  Print relevant stats about reviewers.
 
 ### GitHub Pages / Code Coverage
 
-*   [Deploy to GitHub Pages with Advanced Settings (⭐345)](https://github.com/crazy-max/ghaction-github-pages)
+*   [Deploy to GitHub Pages with Advanced Settings (⭐455)](https://github.com/crazy-max/ghaction-github-pages)
 
 ### Notifications and Messages / Code Coverage
 
@@ -349,29 +349,29 @@
 
 ### Deployment / Docker
 
-*   [Convert Branch or Tag Name Into Docker-Compatible Image Tag (⭐3)](https://github.com/ankitvgupta/ref-to-tag-action/)
+*   [Convert Branch or Tag Name Into Docker-Compatible Image Tag (⭐5)](https://github.com/ankitvgupta/ref-to-tag-action/)
 *   [Update a Container Repository Description From README.md](https://github.com/marketplace/actions/update-container-description-action) - Supported Registries: Docker Hub, Quay, Harbor.
 
 ### Deployment / Kubernetes
 
-*   [Create a Kubernetes Cluster for Testing Using Krucible (⭐2)](https://github.com/Krucible/krucible-github-action)
+*   [Create a Kubernetes Cluster for Testing Using Krucible (⭐4)](https://github.com/Krucible/krucible-github-action)
 
 ### Machine Learning Ops / Terraform
 
-*   [Automatically Dockerize A Data-Science Repo As A Jupyter Server (⭐117)](https://github.com/jupyterhub/repo2docker-action)
-*   [Azure Machine Learning With GitHub Actions (⭐108)](https://github.com/machine-learning-apps/ml-template-azure)
+*   [Automatically Dockerize A Data-Science Repo As A Jupyter Server (⭐140)](https://github.com/jupyterhub/repo2docker-action)
+*   [Azure Machine Learning With GitHub Actions (⭐125)](https://github.com/machine-learning-apps/ml-template-azure)
 
 ## [18. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
 ### Libraries
 
-*   [omg-curry (⭐135)](https://github.com/Debdut/omg-curry) - Comprehensive Curry Library with Operator Curry, Curry from functions, Decurry and Infifnite Curries.
+*   [omg-curry (⭐137)](https://github.com/Debdut/omg-curry) - Comprehensive Curry Library with Operator Curry, Curry from functions, Decurry and Infifnite Curries.
 
 ## [19. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Image Processing
 
-*   [ImageProcessing (⭐859)](https://github.com/janko/image_processing) - High-level image processing wrapper for libvips and ImageMagick/GraphicsMagick
+*   [ImageProcessing (⭐872)](https://github.com/janko/image_processing) - High-level image processing wrapper for libvips and ImageMagick/GraphicsMagick
 
 ## [20. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
 
@@ -381,7 +381,7 @@
 
 ### Tutorials
 
-*   [Ansible Tutorial by leucos (⭐2.2k)](https://github.com/leucos/ansible-tuto) - 12 Step Tutorial for Ansible.
+*   [Ansible Tutorial by leucos (⭐2.3k)](https://github.com/leucos/ansible-tuto) - 12 Step Tutorial for Ansible.
 *   [Ansible TopTechSkills.com Tutorial Series on Ansible](https://www.toptechskills.com/ansible-tutorials-courses/) - Tutorials on how to Install and use Ansible.
 
 ### Videos
@@ -437,9 +437,9 @@
 
 ## [27. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
-### Code
+### Code / Commerical Tools
 
-*   [ExplainX (⭐380)](https://github.com/explainX/explainx)- ExplainX is a fast, lightweight, and scalable explainable AI framework for data scientists to explain any black-box model to business stakeholders.
+*   [ExplainX (⭐423)](https://github.com/explainX/explainx)- ExplainX is a fast, lightweight, and scalable explainable AI framework for data scientists to explain any black-box model to business stakeholders.
 
 ## [28. Awesome Firebase](/content/jthegedus/awesome-firebase/week/README.md)
 
@@ -462,17 +462,17 @@
 
 ### AppImage developer tools / Templates
 
-*   [mini-qml (⭐47)](https://github.com/patrickelectric/mini-qml) - Minimal Qml application template with deployment for Linux (AppImage), Windows, macOS and WebAssembly.
+*   [mini-qml (⭐46)](https://github.com/patrickelectric/mini-qml) - Minimal Qml application template with deployment for Linux (AppImage), Windows, macOS and WebAssembly.
 
 ## [31. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
 
 ### Automation / Conversion
 
-*   [swaggerjmx (⭐106)](https://github.com/Pactortester/swaggerjmx) - Tool to convert Swagger UI specification into JMeter test plans.
+*   [swaggerjmx (⭐113)](https://github.com/Pactortester/swaggerjmx) - Tool to convert Swagger UI specification into JMeter test plans.
 
 ## [32. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
-### Blog posts
+### Blog posts  (a-z↓)
 
 *   [theheadless.dev](https://theheadless.dev) - Blog with practical guides and runnable examples on Playwright and Puppeteer.
 
@@ -487,11 +487,11 @@
 
 ### Python / Indicators
 
-*   [finta (⭐2.1k)](https://github.com/peerchemist/finta) - Common financial technical analysis indicators implemented in Pandas.
+*   [finta (⭐2.2k)](https://github.com/peerchemist/finta) - Common financial technical analysis indicators implemented in Pandas.
 
 ### Python / Trading & Backtesting
 
-*   [Pandas TA (⭐5.1k)](https://github.com/twopirllc/pandas-ta) - Pandas TA is an easy to use Python 3 Pandas Extension with 115+ Indicators. Easily build Custom Strategies.
+*   [Pandas TA (⭐5.7k)](https://github.com/twopirllc/pandas-ta) - Pandas TA is an easy to use Python 3 Pandas Extension with 115+ Indicators. Easily build Custom Strategies.
 
 ## [35. Colorful](/content/Siddharth11/Colorful/week/README.md)
 
@@ -548,7 +548,7 @@
 
 ### Contents / Finance
 
-*   [Bank Git (⭐31)](https://github.com/yash1200/bank_management) - An app to manage bank account by breaking it into branches by [Yash Johri](https://github.com/yash1200).
+*   [Bank Git (⭐34)](https://github.com/yash1200/bank_management) - An app to manage bank account by breaking it into branches by [Yash Johri](https://github.com/yash1200).
 
 ## [41. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/week/README.md)
 
@@ -617,7 +617,7 @@
 ### UI / Barcode
 
 *   [Arale (⭐46)](https://github.com/supercomputra/Arale) - A custom stretchable header view for UIScrollView or any its subclasses with UIActivityIndicatorView support for content reloading.
-*   [BetterSafariView (⭐554)](https://github.com/stleamist/BetterSafariView) - A better way to present a SFSafariViewController or start a ASWebAuthenticationSession in SwiftUI.
+*   [BetterSafariView (⭐586)](https://github.com/stleamist/BetterSafariView) - A better way to present a SFSafariViewController or start a ASWebAuthenticationSession in SwiftUI.
 
 ## [48. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
@@ -628,12 +628,10 @@
 ### Resources / Examples
 
 *   [VueJS Example Projects](https://github.com/vue-project) on Github
-*   [Vue-Next-TicTacToe (⭐4)](https://github.com/canersevince/Vue-Next-TicTacToe-Game) - Simple Tic Tac Toe Game made with Vue Next
 
 ### Projects Using Vue.js / Apps/Websites
 
 *   [DevSnap.me](https://devsnap.me) - A website that helps web developers find tons of free and open source HTML, CSS, and JavaScript assets.
-*   [Pexies (⭐7)](https://github.com/canersevince/Pexies) - Pexies is a personal photo gallery built on pexels api. You can see curated/randomized pictures, and add them to your favourites.
 
 ### Components & Libraries / Frameworks
 
@@ -641,13 +639,11 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-quintable (⭐30)](https://github.com/Quintetio/vue-quintable) - A responsive and highly configurable table based on Vue 2.x and Bootstrap 4.x
-*   [vue-combo-blocks (⭐19)](https://github.com/sssmi/vue-combo-blocks) - Small, accessible, customizable and "renderless" autocomplete component for Vue.
+*   [vue-quintable (⭐29)](https://github.com/Quintetio/vue-quintable) - A responsive and highly configurable table based on Vue 2.x and Bootstrap 4.x
 
 ### Components & Libraries / UI Utilities
 
 *   [vue-lazy (⭐3)](https://github.com/bartdominiak/vue-lazy) - Lightweight Image/Picture lazyload based on Intersection API
-*   [vue-styled-shadows (⭐7)](https://github.com/juliandreas/vue-styled-shadows) - Component based styled shadow patterns for images.
 
 ## [49. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
@@ -694,7 +690,7 @@
 
 ### Python Libraries
 
-*   [bitcoin\_tools (⭐291)](https://github.com/sr-gi/bitcoin_tools) - Python library for building and analyzing transactions and scripts (both standard and custom). Comes along with a UTXO set analysis tool. Includes several examples and exhaustive documentation.
+*   [bitcoin\_tools (⭐298)](https://github.com/sr-gi/bitcoin_tools) - Python library for building and analyzing transactions and scripts (both standard and custom). Comes along with a UTXO set analysis tool. Includes several examples and exhaustive documentation.
 *   [oogway](https://github.com/merwane/oogway) - A secure Bitcoin utility library for Python.
 
 ## [51. Awesome Unity](/content/RyanNielson/awesome-unity/week/README.md)
@@ -739,16 +735,16 @@
 
 ### 2D/3D Rendering engines / Others
 
-*   [Stl.Fusion (⭐1.8k)](https://github.com/servicetitan/Stl.Fusion) - ![GitHub stars](https://img.shields.io/github/stars/servicetitan/Stl.Fusion?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/servicetitan/Stl.Fusion?style=flat-square\&cacheSeconds=86400) .NET Core and Blazor library that attempts to dramatically improve the way we implement real-time and high-load services by introducing a novel kind of "computed observables" - immutable, thread-safe, and most importantly, almost invisible for developers. [Samples (⭐160)](https://github.com/servicetitan/Stl.Fusion.Samples). [Overview (⭐1.8k)](https://github.com/servicetitan/Stl.Fusion/blob/master/docs/Overview.md).
-*   [Blazor-DragDrop (⭐398)](https://github.com/Postlagerkarte/blazor-dragdrop) - ![stars](https://img.shields.io/github/stars/Postlagerkarte/blazor-dragdrop?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Postlagerkarte/blazor-dragdrop?style=flat-square\&cacheSeconds=86400) Easy-to-use Drag and Drop library for Blazor.
-*   [BlazorTransitionableRoute (⭐166)](https://github.com/JByfordRew/BlazorTransitionableRoute) - ![stars](https://img.shields.io/github/stars/JByfordRew/BlazorTransitionableRoute?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/JByfordRew/BlazorTransitionableRoute?style=flat-square\&cacheSeconds=86400) Allows current and previous route to exist enabling transition animations of UI/UX design systems.
-*   [Blazor.Grids (⭐39)](https://github.com/excubo-ag/Blazor.Grids) - ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Blazor.Grids?style=flat-square\&cacheSeconds=86400) Component library for CSS grids with extra features, such as moving and resizing interactively. Create your own dashboard with ease. ([Demo](https://excubo-ag.github.io/Blazor.Grids/)).
-*   [Blazor.TreeViews (⭐68)](https://github.com/excubo-ag/Blazor.TreeViews) - ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Blazor.TreeViews?style=flat-square\&cacheSeconds=86400) Component library for tree views. ([Demo](https://excubo-ag.github.io/Blazor.TreeViews/)).
+*   [Stl.Fusion (⭐1.9k)](https://github.com/servicetitan/Stl.Fusion) - ![GitHub stars](https://img.shields.io/github/stars/servicetitan/Stl.Fusion?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/servicetitan/Stl.Fusion?style=flat-square\&cacheSeconds=86400) .NET Core and Blazor library that attempts to dramatically improve the way we implement real-time and high-load services by introducing a novel kind of "computed observables" - immutable, thread-safe, and most importantly, almost invisible for developers. [Samples (⭐163)](https://github.com/servicetitan/Stl.Fusion.Samples). [Overview (⭐1.9k)](https://github.com/servicetitan/Stl.Fusion/blob/master/docs/Overview.md).
+*   [Blazor-DragDrop (⭐409)](https://github.com/Postlagerkarte/blazor-dragdrop) - ![stars](https://img.shields.io/github/stars/Postlagerkarte/blazor-dragdrop?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Postlagerkarte/blazor-dragdrop?style=flat-square\&cacheSeconds=86400) Easy-to-use Drag and Drop library for Blazor.
+*   [BlazorTransitionableRoute (⭐173)](https://github.com/JByfordRew/BlazorTransitionableRoute) - ![stars](https://img.shields.io/github/stars/JByfordRew/BlazorTransitionableRoute?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/JByfordRew/BlazorTransitionableRoute?style=flat-square\&cacheSeconds=86400) Allows current and previous route to exist enabling transition animations of UI/UX design systems.
+*   [Blazor.Grids (⭐42)](https://github.com/excubo-ag/Blazor.Grids) - ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Blazor.Grids?style=flat-square\&cacheSeconds=86400) Component library for CSS grids with extra features, such as moving and resizing interactively. Create your own dashboard with ease. ([Demo](https://excubo-ag.github.io/Blazor.Grids/)).
+*   [Blazor.TreeViews (⭐72)](https://github.com/excubo-ag/Blazor.TreeViews) - ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Blazor.TreeViews?style=flat-square\&cacheSeconds=86400) Component library for tree views. ([Demo](https://excubo-ag.github.io/Blazor.TreeViews/)).
 
 ### Tools & Utilities / Others
 
-*   [Blazor I18n/Localization Text (⭐211)](https://github.com/jsakamoto/Toolbelt.Blazor.I18nText) - ![stars](https://img.shields.io/github/stars/jsakamoto/Toolbelt.Blazor.I18nText?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jsakamoto/Toolbelt.Blazor.I18nText?style=flat-square\&cacheSeconds=86400) Localizing contents text in Blazor ([Demo](https://jsakamoto.github.io/Toolbelt.Blazor.I18nText/)).
-*   [MvvmBlazor (⭐248)](https://github.com/klemmchr/MvvmBlazor) - ![stars](https://img.shields.io/github/stars/klemmchr/MvvmBlazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/klemmchr/MvvmBlazor?style=flat-square\&cacheSeconds=86400) BlazorMVVM is a small framework for building Blazor and BlazorServerside apps. With it's simple to use MVVM pattern you can boost up your development speed while minimizing the hazzle to just make it work.
+*   [Blazor I18n/Localization Text (⭐246)](https://github.com/jsakamoto/Toolbelt.Blazor.I18nText) - ![stars](https://img.shields.io/github/stars/jsakamoto/Toolbelt.Blazor.I18nText?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jsakamoto/Toolbelt.Blazor.I18nText?style=flat-square\&cacheSeconds=86400) Localizing contents text in Blazor ([Demo](https://jsakamoto.github.io/Toolbelt.Blazor.I18nText/)).
+*   [MvvmBlazor (⭐246)](https://github.com/klemmchr/MvvmBlazor) - ![stars](https://img.shields.io/github/stars/klemmchr/MvvmBlazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/klemmchr/MvvmBlazor?style=flat-square\&cacheSeconds=86400) BlazorMVVM is a small framework for building Blazor and BlazorServerside apps. With it's simple to use MVVM pattern you can boost up your development speed while minimizing the hazzle to just make it work.
 
 ## [55. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
 
@@ -768,11 +764,11 @@
 
 ### Resources / Algorithms and AI
 
-*   [Simple Graphs (⭐42)](https://github.com/earlygrey/simple-graphs) - A java library for graph data structures and algorithms (including fast pathfinding).
+*   [Simple Graphs (⭐44)](https://github.com/earlygrey/simple-graphs) - A java library for graph data structures and algorithms (including fast pathfinding).
 
 ### Resources / Physics
 
-*   [jbump (⭐28)](https://github.com/tommyettinger/jbump) - Easy to implement AABB collision detection useful for platformers and other simple 2D games.
+*   [jbump (⭐31)](https://github.com/tommyettinger/jbump) - Easy to implement AABB collision detection useful for platformers and other simple 2D games.
 
 ---
 

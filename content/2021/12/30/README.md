@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 30, 2021
 
-13 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,11 +10,11 @@
 
 ### Peripheral Access Crates / Microchip
 
-*   [`pic32-pac`](https://crates.io/crates/pic32mx2xx) Peripheral access API for PIC32MX1/2xx - ![crates.io](https://img.shields.io/crates/v/pic32mx2xx)
+*   [`pic32-pac`](https://crates.io/crates/pic32mx2xx) Peripheral access API for PIC32MX1/2xx - [![crates.io](https://img.shields.io/crates/v/pic32mx2xx)](https://crates.io/crates/pic32mx2xx)
 
 ### HAL implementation crates / Microchip
 
-*   [`pic32-hal`](https://crates.io/crates/pic32-hal) - HAL for PIC32MX - ![crates.io](https://img.shields.io/crates/v/pic32-hal.svg)
+*   [`pic32-hal`](https://crates.io/crates/pic32-hal) - HAL for PIC32MX - [![crates.io](https://img.shields.io/crates/v/pic32-hal.svg)](https://crates.io/crates/pic32-hal)
 
 ### no-std crates / WIP
 
@@ -24,8 +24,8 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [RexMex (⭐275)](https://github.com/AstraZeneca/rexmex) -> A general purpose recommender metrics library for fair evaluation.
-*   [ChemicalX (⭐705)](https://github.com/AstraZeneca/chemicalx) -> A PyTorch based deep learning library for drug pair scoring
+*   [RexMex (⭐278)](https://github.com/AstraZeneca/rexmex) -> A general purpose recommender metrics library for fair evaluation.
+*   [ChemicalX (⭐720)](https://github.com/AstraZeneca/chemicalx) -> A PyTorch based deep learning library for drug pair scoring
 
 ## [3. Awesome Ci](/content/ligurio/awesome-ci/README.md)
 
@@ -64,7 +64,7 @@
 
 ### Community plugins
 
-*   [App-icon (⭐75)](https://github.com/capacitor-community/app-icon) - Capacitor community plugin for changing an app's icon.
+*   [App-icon (⭐81)](https://github.com/capacitor-community/app-icon) - Capacitor community plugin for changing an app's icon.
 
 ### Other plugins
 
@@ -74,7 +74,7 @@
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [Remult (⭐2.8k)](https://github.com/remult/remult) - End-to-end type-safe CRUD and frontend-backend model code sharing in fullstack TypeScript applications.
+*   :octocat: [Remult (⭐2.9k)](https://github.com/remult/remult) - End-to-end type-safe CRUD and frontend-backend model code sharing in fullstack TypeScript applications.
 
 ## [6. Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md)
 
@@ -103,19 +103,13 @@
 
 
 
-## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Projects Using Vue.js / Open Source
-
-*   [NuxtBlog](https://github.com/muhammedmed/nuxt-js-blog) - Blog site made with firebase real-time database
-
-## [9. Awesome Spark](/content/awesome-spark/awesome-spark/README.md)
+## [8. Awesome Spark](/content/awesome-spark/awesome-spark/README.md)
 
 ### Packages / GIS
 
-*   [Apache Sedona (⭐1.4k)](https://github.com/apache/incubator-sedona) <img src="https://img.shields.io/github/last-commit/apache/incubator-sedona.svg"> - Cluster computing system for processing large-scale spatial data.
+*   [Apache Sedona (⭐2k)](https://github.com/apache/incubator-sedona) <img src="https://img.shields.io/github/last-commit/apache/incubator-sedona.svg"> - Cluster computing system for processing large-scale spatial data.
 
-## [10. Awesome Esports](/content/Strift/awesome-esports/README.md)
+## [9. Awesome Esports](/content/Strift/awesome-esports/README.md)
 
 ### Libraries / APIs & Web Services
 
@@ -138,13 +132,13 @@
 
 *   [LeagueDirector (⭐742)](https://github.com/RiotGames/leaguedirector) - A desktop application for staging and recording videos from League of Legends replays.
 
-## [11. Awesome Math](/content/rossant/awesome-math/README.md)
+## [10. Awesome Math](/content/rossant/awesome-math/README.md)
 
 ### Foundations of Mathematics / Logic
 
 *   📝 [Computability - An introduction to recursive function theory](http://poincare.matf.bg.ac.rs/~zarkom/Book_Math__Cutland_Computability.pdf) - Nigel Cutland (University of Hull)
 
-## [12. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### APIs, Data, and ML
 
@@ -162,7 +156,7 @@
 
 *   [HeyForm.net](https://heyform.net/) - Drag and drop online form builder. The free tier lets you create unlimited forms and collect unlimited submissions. Comes with pre-built templates, anti-spam, and 100MB file storage.
 
-## [13. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [12. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Knowledge Representation / Commonsense Knowledgebase
 

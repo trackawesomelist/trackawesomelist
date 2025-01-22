@@ -10,7 +10,7 @@
 
 ### Scientific computing
 
-*   [NeuralNetworks-V-Module (⭐19)](https://github.com/Eliyaan/NeuralNetworks-V-Module) - This is a V module to create neural networks.
+*   [NeuralNetworks-V-Module (⭐27)](https://github.com/Eliyaan/NeuralNetworks-V-Module) - This is a V module to create neural networks.
 
 ## [2. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
 
@@ -82,7 +82,7 @@
 
 ### Autonomous LLM Agents / Prompt Engineering for Text-to-image
 
-*   [Hexabot (⭐236)](https://github.com/hexastack/hexabot) Open-Source AI Chatbot / Agent builder with support for LLMs as well as social media channels integration.
+*   [Hexabot (⭐611)](https://github.com/hexastack/hexabot) Open-Source AI Chatbot / Agent builder with support for LLMs as well as social media channels integration.
 
 ### LLM Evaluation / Multi-agents
 
@@ -94,74 +94,69 @@
 
 ### Speech-to-text (STT) and spoken content analysis / Deforum
 
-*   [batchai (⭐18)](https://github.com/qiangyt/batchai): A supplement to Copilot and Cursor - utilizes AI for batch processing of project codes
+*   [batchai (⭐47)](https://github.com/qiangyt/batchai): A supplement to Copilot and Cursor - utilizes AI for batch processing of project codes
 
 ## [8. Awesome for Beginners](/content/MunGell/awesome-for-beginners/README.md)
 
-### Typescript
+### TypeScript
 
-*   [Oppia (⭐5.8k)](https://github.com/oppia/oppia) *(label: good first issue)* <br> Oppia is an open-source project whose aim is to empower learners across the globe by providing access to high-quality, engaging education. We envision a society in which access to high-quality education is a human right rather than a privilege.
+*   [Oppia (⭐5.9k)](https://github.com/oppia/oppia) *(label: good first issue)* <br> Oppia is an open-source project whose aim is to empower learners across the globe by providing access to high-quality, engaging education. We envision a society in which access to high-quality education is a human right rather than a privilege.
+*   [Storybook JS (⭐85k)](https://github.com/storybookjs/storybook) *(label: good first issue)* <br> Storybook is a frontend workshop for building UI components and pages in isolation.
+*   [Vite (⭐70k)](https://github.com/vitejs/vite) *(label: good first issue)* <br> Next generation frontend tooling. It's fast! Alternative to Create React App
+*   [activist (⭐289)](https://github.com/activist-org/activist) *(label: good first issue)* <br> activist.org is a network for political action that allows people to coordinate and collaborate on the issues that matter most to them.
+*   [Impler.io (⭐219)](https://github.com/implerhq/impler.io) *(label: good first issue)* <br> 100% open source data import experience with readymade CSV & Excel import widget 🚀
+*   [LinksHub (⭐841)](https://github.com/rupali-codes/LinksHub) *(label: good first issue)* <br> LinksHub aims to provide developers with access to a wide range of free resources and tools that they can use in their work.
+*   [Manifest (⭐1.1k)](https://github.com/mnfst/manifest) *(label: good first issue)* <br> Manifestis an open-source Backend-as-a-Service allowign developers to create a backend easily and quickly.
 
 ### C++
 
-*   [F3D (⭐2.8k)](https://github.com/f3d-app/f3d) *(label: good first issue)* <br> Fast and minimalist 3D viewer.
-*   [MiniOB (⭐3.4k)](https://github.com/oceanbase/miniob) *(label: good-first-issue)* <br> MiniOB is a compact database that assists developers in understanding the fundamental workings of a database(main language is Chinese).
+*   [F3D (⭐3.1k)](https://github.com/f3d-app/f3d) *(label: good first issue)* <br> Fast and minimalist 3D viewer.
+*   [MiniOB (⭐3.6k)](https://github.com/oceanbase/miniob) *(label: good first issue)* <br> MiniOB is a compact database that assists developers in understanding the fundamental workings of a database(main language is Chinese).
 
 ### Go
 
-*   [Dragonfly (⭐2.2k)](https://github.com/dragonflyoss/Dragonfly2) *(label: good-first-issue)* <br> Provide efficient, stable and secure file distribution and image acceleration based on p2p technology
-*   [Kanister](https://github.com/kanisteroio/kanister) *(label: good-first-issue)* <br> A Data Protection Workflow Management Engine
+*   [Dragonfly (⭐2.4k)](https://github.com/dragonflyoss/Dragonfly2) *(label: good first issue)* <br> Provide efficient, stable and secure file distribution and image acceleration based on p2p technology
 
 ### Java
 
-*   [DSA (⭐3)](https://github.com/abhishektripathi66/DSA) *(label: good-first-issue)* <br> DSA questions practising repo for Java developers
-*   [QuestDB (⭐14k)](https://github.com/questdb/questdb) *(label: Good first issue)* <br> Questdb is a fast open source SQL time series database.
+*   [DSA (⭐14)](https://github.com/abhishektripathi66/DSA) *(label: good first issue)* <br> DSA questions practising repo for Java developers
+*   [QuestDB (⭐15k)](https://github.com/questdb/questdb) *(label: Good first issue)* <br> Questdb is a fast open source SQL time series database.
 
 ### JavaScript
 
 *   [API-pull-with-JavaScript](https://github.com/AliBasboga/APIExampleWithExpress.git) *(label: API-pull-and-use)* <br> API data extraction and delivery to the user to present.
-*   [grommet (⭐8.3k)](https://github.com/grommet/grommet) *(label: good-first-issue)* <br> a react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package
-*   [HMPL (⭐56)](https://github.com/hmpl-lang/hmpl) *(label: good-first-issue)* <br> Template language for displaying UI from server to client.
-*   [HueHive (⭐60)](https://github.com/croma-app/croma) *(label: good first issue)* <br> A open source react native app iOS and android for color palette management
-*   [Jasmine (⭐16k)](https://github.com/jasmine/jasmine) *(label: good-first-issue)* <br> Simple JavaScript testing framework for browsers and node.js.
-
-### TypeScript
-
-*   [Storybook JS (⭐84k)](https://github.com/storybookjs/storybook) *(label: good first issue)* <br> Storybook is a frontend workshop for building UI components and pages in isolation.
-*   [Vite (⭐68k)](https://github.com/vitejs/vite) *(label: good first issue)* <br> Next generation frontend tooling. It's fast! Alternative to Create React App
-*   [activist (⭐229)](https://github.com/activist-org/activist) *(label: good first issue)* <br> activist.org is a network for political action that allows people to coordinate and collaborate on the issues that matter most to them.
-*   [Impler.io (⭐186)](https://github.com/implerhq/impler.io) *(label: good-first-issue)* <br> 100% open source data import experience with readymade CSV & Excel import widget 🚀
-*   [LinksHub (⭐759)](https://github.com/rupali-codes/LinksHub) *(label: good first issue)* <br> LinksHub aims to provide developers with access to a wide range of free resources and tools that they can use in their work.
-*   [Manifest (⭐666)](https://github.com/mnfst/manifest) *(label: good first issue)* <br> Manifestis an open-source Backend-as-a-Service allowign developers to create a backend easily and quickly.
+*   [grommet (⭐8.4k)](https://github.com/grommet/grommet) *(label: good first issue)* <br> a react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package
+*   [HueHive (⭐63)](https://github.com/croma-app/croma) *(label: good first issue)* <br> A open source react native app iOS and android for color palette management
+*   [Jasmine (⭐16k)](https://github.com/jasmine/jasmine) *(label: good first issue)* <br> Simple JavaScript testing framework for browsers and node.js.
 
 ### Julia
 
-*   [Julia (⭐46k)](https://github.com/JuliaLang/julia) *(label: good-first-issue)* <br> Julia Projects for Beginners — Easy Ideas to Get Started Coding in Julia
+*   [Julia (⭐46k)](https://github.com/JuliaLang/julia) *(label: good first issue)* <br> Julia Projects for Beginners — Easy Ideas to Get Started Coding in Julia
 
 ### Python
 
-*   [SuperDuperDB (⭐4.7k)](https://github.com/SuperDuperDB/superduperdb) *(label: good first issue)* <br> 🔮SuperDuperDB: Bring AI to your favourite database! Integrate, train and manage any AI models and APIs directly with your database and your data
+*   [SuperDuperDB (⭐4.9k)](https://github.com/SuperDuperDB/superduperdb) *(label: good first issue)* <br> 🔮SuperDuperDB: Bring AI to your favourite database! Integrate, train and manage any AI models and APIs directly with your database and your data
 *   [coala (⭐3.6k)](https://github.com/coala/coala) *(label: n/a)* <br> A unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.
-*   [Embedchain (⭐22k)](https://github.com/embedchain/embedchain/) *(label: good-first-issue)* <br> Embedchain is a framework to easily create LLM powered bots over any dataset.
-*   [H2O Wave Apps (⭐146)](https://github.com/h2oai/wave-apps) *(label: hacktoberfest)* <br> Sample AI Apps built with H2O Wave.
-*   [OMRChecker (⭐760)](https://github.com/Udayraj123/OMRChecker) *(label: good first issue)* <br> OMRChecker helps to grade exams fast and accurately using a scanner 🖨 or your phone 🤳. Learn image processing with Python and OpenCV while contributing to one of the most popular repositories related to OMR topic on github.
+*   [Embedchain (⭐24k)](https://github.com/embedchain/embedchain/) *(label: good first issue)* <br> Embedchain is a framework to easily create LLM powered bots over any dataset.
+*   [H2O Wave Apps (⭐151)](https://github.com/h2oai/wave-apps) *(label: hacktoberfest)* <br> Sample AI Apps built with H2O Wave.
+*   [OMRChecker (⭐805)](https://github.com/Udayraj123/OMRChecker) *(label: good first issue)* <br> OMRChecker helps to grade exams fast and accurately using a scanner 🖨 or your phone 🤳. Learn image processing with Python and OpenCV while contributing to one of the most popular repositories related to OMR topic on github.
 
 ### PHP
 
-*   [FreshRSS (⭐9.6k)](https://github.com/FreshRSS/FreshRSS) *(label: good first issue)* <br> FreshRSS is a self-hosted RSS and Atom feed aggregator. It is lightweight, easy to work with, powerful, and customizable. Since 2012.
+*   [FreshRSS (⭐11k)](https://github.com/FreshRSS/FreshRSS) *(label: good first issue)* <br> FreshRSS is a self-hosted RSS and Atom feed aggregator. It is lightweight, easy to work with, powerful, and customizable. Since 2012.
 
 ### Ruby
 
-*   [Avo Admin for Ruby on Rails (⭐1.5k)](https://github.com/avo-hq/avo) *(label: Good first issue)* <br> Build business apps 10x faster using Ruby on Rails.
-*   [multiwoven (⭐1.1k)](https://github.com/Multiwoven/multiwoven) *(label: good-first-issue)* <br> The open-source reverse ETL, data activation platform for modern data teams.
+*   [Avo Admin for Ruby on Rails (⭐1.6k)](https://github.com/avo-hq/avo) *(label: Good first issue)* <br> Build business apps 10x faster using Ruby on Rails.
+*   [multiwoven (⭐1.6k)](https://github.com/Multiwoven/multiwoven) *(label: good first issue)* <br> The open-source reverse ETL, data activation platform for modern data teams.
 
 ### Rust
 
-*   [Sniffnet (⭐18k)](https://github.com/GyulyVGC/sniffnet) *(label: good-first-issue)* <br> Application to comfortably monitor network traffic.
+*   [Sniffnet (⭐19k)](https://github.com/GyulyVGC/sniffnet) *(label: good first issue)* <br> Application to comfortably monitor network traffic.
 
 ### Swift
 
-*   [Basic-Car-Maintenance (⭐229)](https://github.com/mikaelacaron/Basic-Car-Maintenance) *(label: good first issue)* <br> A basic app to track your car's maintenance events, like fixes, oil changes, etc.
+*   [Basic-Car-Maintenance (⭐270)](https://github.com/mikaelacaron/Basic-Car-Maintenance) *(label: good first issue)* <br> A basic app to track your car's maintenance events, like fixes, oil changes, etc.
 
 ## [9. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
@@ -175,13 +170,13 @@
 
 ### Software / Software Development - IDE & Tools
 
-*   [Langfuse](https://langfuse.com) - LLM engineering platform for model tracing, prompt management, and application evaluation. Langfuse helps teams collaboratively debug, analyze, and iterate on their LLM applications such as chatbots or AI agents. ([Demo](https://langfuse.com/docs/demo), [Source Code (⭐6k)](https://github.com/langfuse/langfuse), [Clients](https://langfuse.com/docs/integrations/overview)) `MIT` `Docker`
+*   [Langfuse](https://langfuse.com) - LLM engineering platform for model tracing, prompt management, and application evaluation. Langfuse helps teams collaboratively debug, analyze, and iterate on their LLM applications such as chatbots or AI agents. ([Demo](https://langfuse.com/docs/demo), [Source Code (⭐7.9k)](https://github.com/langfuse/langfuse), [Clients](https://langfuse.com/docs/integrations/overview)) `MIT` `Docker`
 
 ## [10. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### Carousels / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [carousel-library (⭐10)](https://github.com/GreenFlag31/carousel-library) - A versatile Angular library providing a feature-rich, simple, and performant carousel component.
+*   [carousel-library (⭐13)](https://github.com/GreenFlag31/carousel-library) - A versatile Angular library providing a feature-rich, simple, and performant carousel component.
 
 ### DOM / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -195,4 +190,5 @@
 
 ---
 
+- Prev: [Oct 21, 2024](/content/2024/10/21/README.md)
 - Next: [Oct 19, 2024](/content/2024/10/19/README.md)

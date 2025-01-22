@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 19, 2018
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -22,7 +22,7 @@
 
 ### Tools / Graphics utilities
 
-*   [tpp1 (⭐20)](https://github.com/TwitchPlaysPokemon/tpp1) - Definition and specification of a custom GB/GBC memory/hardware mapper, as a functional superset of MBC.
+*   [tpp1 (⭐21)](https://github.com/TwitchPlaysPokemon/tpp1) - Definition and specification of a custom GB/GBC memory/hardware mapper, as a functional superset of MBC.
 
 ## [4. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 
@@ -50,25 +50,19 @@
 
 ### Free fonts / Fonts
 
-*   [Manrope (⭐1.4k)](https://github.com/sharanda/manrope) - Modern geometric sans-serif
+*   [Manrope](https://github.com/sharanda/manrope) - Modern geometric sans-serif
 
-## [8. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
-
-### Reading and Writing Tools / Note-taking
-
-*   [MarginNote](https://marginnote.com/) - In-depth PDF and EPUB reading, learning, managing and note taking app.
-
-## [9. Awesome Math](/content/rossant/awesome-math/README.md)
+## [8. Awesome Math](/content/rossant/awesome-math/README.md)
 
 ### Geometry and Topology / Algebraic Geometry
 
 *   📝 [The Stacks Project](https://stacks.math.columbia.edu/) - Maintained by Aise Johan de Jong (Columbia)
 
-## [10. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [9. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Database
 
-*   [sqlpp11 (⭐2.4k)](https://github.com/rbock/sqlpp11) - A type safe embedded domain specific language for SQL queries and results in C++. \[BSD-2-Clause]
+*   [sqlpp11 (⭐2.5k)](https://github.com/rbock/sqlpp11) - A type safe embedded domain specific language for SQL queries and results in C++. \[BSD-2-Clause]
 
 ---
 

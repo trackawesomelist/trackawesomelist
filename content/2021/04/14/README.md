@@ -10,7 +10,7 @@
 
 ### no-std crates / WIP
 
-*   [cam-geom](https://crates.io/crates/cam-geom): Geometric models of cameras for photogrammetry. ![crates.io](https://img.shields.io/crates/v/cam-geom.svg)
+*   [cam-geom](https://crates.io/crates/cam-geom): Geometric models of cameras for photogrammetry. [![crates.io](https://img.shields.io/crates/v/cam-geom.svg)](https://crates.io/crates/cam-geom)
 
 ## [2. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
@@ -26,8 +26,8 @@
 
 ### C / Syntax highlighting packages
 
-*   [8-Bit Wonderland (⭐26)](https://github.com/gb-archive/salvage/blob/master/misc/8bit_wonderland.pdf) - Well-written introductory document about how the Game Boy works and how to start developing working code for it.
-*   [Infinity (⭐14)](https://github.com/gb-archive/infinity-gbc) - RPG developed by Affinix Software primarily between the years 1999 and 2001. The game never found a publisher and was eventually canceled. Got recently released with the full source, development tools and workflows.
+*   [8-Bit Wonderland (⭐33)](https://github.com/gb-archive/salvage/blob/master/misc/8bit_wonderland.pdf) - Well-written introductory document about how the Game Boy works and how to start developing working code for it.
+*   [Infinity (⭐22)](https://github.com/gb-archive/infinity-gbc) - RPG developed by Affinix Software primarily between the years 1999 and 2001. The game never found a publisher and was eventually canceled. Got recently released with the full source, development tools and workflows.
 
 ## [4. Awesome Cassandra](/content/Anant/awesome-cassandra/README.md)
 
@@ -113,19 +113,19 @@
 
 ### Jobs
 
-*   [awesome-sustainability-jobs (⭐434)](https://github.com/pogopaule/awesome-sustainability-jobs) - A curated, open source list of developer jobs in the sustainability sector.
+*   [awesome-sustainability-jobs (⭐480)](https://github.com/pogopaule/awesome-sustainability-jobs) - A curated, open source list of developer jobs in the sustainability sector.
 
 ## [7. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
 ### Installation Media / Discovery
 
-*   [nixos-up (⭐223)](https://github.com/samuela/nixos-up) - Super easy NixOS installer that can be used from the installation ISO.
+*   [nixos-up (⭐239)](https://github.com/samuela/nixos-up) - Super easy NixOS installer that can be used from the installation ISO.
 
 ## [8. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
 
 ### Python / Visualization
 
-*   [finplot (⭐897)](https://github.com/highfestiva/finplot) - Performant and effortless finance plotting for Python.
+*   [finplot (⭐958)](https://github.com/highfestiva/finplot) - Performant and effortless finance plotting for Python.
 
 ## [9. Awesome Mobile Web Development](/content/myshov/awesome-mobile-web-development/README.md)
 
@@ -143,7 +143,7 @@
 
 ### C, C++
 
-*   [crypto-shortcuts (⭐20)](https://github.com/Shinmera/crypto-shortcuts) - Collection of common crypto shortcuts. [zlib](https://directory.fsf.org/wiki/License:Zlib).
+*   [crypto-shortcuts (⭐25)](https://github.com/Shinmera/crypto-shortcuts) - Collection of common crypto shortcuts. [zlib](https://directory.fsf.org/wiki/License:Zlib).
 
 ### Persistent object databases
 
@@ -151,14 +151,18 @@
 
 ### Miscellaneous
 
-*   👍 [Qtools (⭐208)](https://github.com/Shinmera/qtools/) - A Qt toolkit, based on CommonQt. [zlib](https://directory.fsf.org/wiki/License:Zlib) Also [Qtools-ui (⭐28)](https://github.com/Shinmera/qtools-ui) (premade UI components), with [videos](https://www.youtube.com/watch?v=KwASFOhYta4\&index=7\&list=PLkDl6Irujx9Mh3BWdBmt4JtIrwYgihTWp).
+*   👍 [Qtools (⭐211)](https://github.com/Shinmera/qtools/) - A Qt toolkit, based on CommonQt. [zlib](https://directory.fsf.org/wiki/License:Zlib) Also [Qtools-ui (⭐29)](https://github.com/Shinmera/qtools-ui) (premade UI components), with [videos](https://www.youtube.com/watch?v=KwASFOhYta4\&index=7\&list=PLkDl6Irujx9Mh3BWdBmt4JtIrwYgihTWp).
+
+### Mobile
+
+*   [cl-all (⭐20)](https://github.com/shinmera/cl-all) - A script to run Lisp snippets in multiple implementations. This allows you to quickly compare implementation behaviour and differences. [zlib](https://directory.fsf.org/wiki/License:Zlib).
 
 ### Portability layers
 
-*   [trivial-arguments (⭐22)](https://github.com/Shinmera/trivial-arguments) - A portable library to retrieve the arguments list of a function. [zlib](https://directory.fsf.org/wiki/License:Zlib).
-*   [definitions (⭐18)](https://github.com/Shinmera/definitions) - a general definitions introspection library. It gives you the ability to retrieve definitions or bindings associated with designators such as symbols, packages, and names in general. [zlib](https://directory.fsf.org/wiki/License:Zlib).
+*   [trivial-arguments (⭐23)](https://github.com/Shinmera/trivial-arguments) - A portable library to retrieve the arguments list of a function. [zlib](https://directory.fsf.org/wiki/License:Zlib).
+*   [definitions (⭐19)](https://github.com/Shinmera/definitions) - a general definitions introspection library. It gives you the ability to retrieve definitions or bindings associated with designators such as symbols, packages, and names in general. [zlib](https://directory.fsf.org/wiki/License:Zlib).
 *   [dissect](https://shinmera.github.io/dissect) - when a lot of projects use the “trivial-backtrace” system that just gives them a string with a backtrace, Dissect allows you to capture, step, and completely inspect the stack trace on a variety of Lisp implementations. Also very useful for logging and other situations where execution is automatically continued, but the information of the current stack is still useful to store somewhere. [zlib](https://directory.fsf.org/wiki/License:Zlib).
-    *   [ndebug (⭐9)](https://github.com/atlas-engineer/ndebug) - Framework for portable GUI (or any non-standard) debuggers, based on [dissect](https://shinmera.github.io/dissect) and [trivial-custom-debugger (⭐12)](https://github.com/phoe/trivial-custom-debugger). [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
+    *   [ndebug (⭐11)](https://github.com/atlas-engineer/ndebug) - Framework for portable GUI (or any non-standard) debuggers, based on [dissect](https://shinmera.github.io/dissect) and [trivial-custom-debugger (⭐13)](https://github.com/phoe/trivial-custom-debugger). [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
 ### Iteration
 
@@ -179,15 +183,12 @@
 ### Event processing / Third-party APIs
 
 *   [simple-tasks (⭐20)](https://github.com/Shinmera/simple-tasks) - A very simple task scheduling framework. [zlib](https://directory.fsf.org/wiki/License:Zlib).
-*   [deeds (⭐22)](https://github.com/Shinmera/deeds) - Deeds is an Extensible Event Delivery System. It allows for efficient event delivery to multiple handlers with a complex event filtering system. [zlib](https://directory.fsf.org/wiki/License:Zlib).
-
-### Writing, running scripts / Third-party APIs
-
-*   [cl-all (⭐19)](https://github.com/shinmera/cl-all) - A script to run Lisp snippets in multiple implementations. This allows you to quickly compare implementation behaviour and differences. [zlib](https://directory.fsf.org/wiki/License:Zlib).
+    *   saves the return values and the task environment in case of failure, so we can inspect it later.
+*   [deeds (⭐24)](https://github.com/Shinmera/deeds) - Deeds is an Extensible Event Delivery System. It allows for efficient event delivery to multiple handlers with a complex event filtering system. [zlib](https://directory.fsf.org/wiki/License:Zlib).
 
 ### Apps / Third-party APIs
 
-*   [Parachute (⭐96)](https://github.com/Shinmera/parachute) - An extensible and cross-compatible testing framework. With test dependencies, conditions, fixtures and restarts. [zlib](https://directory.fsf.org/wiki/License:Zlib).
+*   [Parachute (⭐105)](https://github.com/Shinmera/parachute) - An extensible and cross-compatible testing framework. With test dependencies, conditions, fixtures and restarts. [zlib](https://directory.fsf.org/wiki/License:Zlib).
 
 ### Data validation / Third-party APIs
 
@@ -195,20 +196,20 @@
 
 ### Developer utilities / Third-party APIs
 
-*   [trivial-benchmark (⭐37)](https://github.com/Shinmera/trivial-benchmark) - Tiny benchmarking library. [zlib](https://directory.fsf.org/wiki/License:Zlib).
+*   [trivial-benchmark (⭐39)](https://github.com/Shinmera/trivial-benchmark) - Tiny benchmarking library. [zlib](https://directory.fsf.org/wiki/License:Zlib).
     *   a similar macro (`benchmark`) is part of [trivial-time (⭐5)](https://github.com/aartaka/trivial-time), providing support for more implementations (ABCL, Allegro, CCL, CLISP, ECL).
     *   Indeed, most trivial-benchmark's metrics are only implemented on SBCL. On other implementations, it measures real and user-space time (and not bytes allocated (it does for ECL), system run-time or GC run-time).
 
 ### Documentation builders / Third-party APIs
 
-*   [Staple (⭐57)](https://github.com/Shinmera/staple) - a tool to generate documentation pages using an HTML template. Uses the existing README, adds docstrings, crossreferences and links to the CLHS. [zlib](https://directory.fsf.org/wiki/License:Zlib).
+*   [Staple (⭐61)](https://github.com/Shinmera/staple) - a tool to generate documentation pages using an HTML template. Uses the existing README, adds docstrings, crossreferences and links to the CLHS. [zlib](https://directory.fsf.org/wiki/License:Zlib).
 
 ### Files and directories / Third-party APIs
 
-*   [pathname-utils (⭐13)](https://github.com/Shinmera/pathname-utils) - A collection of utilities to help with pathname operations. [zlib](https://directory.fsf.org/wiki/License:Zlib).
-    *   [filesystem-utils (⭐12)](https://github.com/Shinmera/filesystem-utils) - deal with common problems with filesystems, such as listing files, probing file types, determining default directories, etc.
+*   [pathname-utils (⭐14)](https://github.com/Shinmera/pathname-utils) - A collection of utilities to help with pathname operations. [zlib](https://directory.fsf.org/wiki/License:Zlib).
+    *   [filesystem-utils (⭐14)](https://github.com/Shinmera/filesystem-utils) - deal with common problems with filesystems, such as listing files, probing file types, determining default directories, etc.
     *   no dependencies, doesn't access the filesystem.
-    *   [file-attributes (⭐13)](https://github.com/Shinmera/file-attributes) -  access to common file attributes (uid, gid, permissions, ctime, mtime, atime).
+    *   [file-attributes (⭐18)](https://github.com/Shinmera/file-attributes) -  access to common file attributes (uid, gid, permissions, ctime, mtime, atime).
 
 ### Git / Third-party APIs
 

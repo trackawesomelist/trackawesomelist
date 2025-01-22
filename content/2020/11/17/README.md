@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 17, 2020
 
-17 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -17,7 +17,7 @@
 
 ### Health
 
-- API: [Covid-19 (⭐397)](https://github.com/M-Media-Group/Covid-19-API)
+- API: [Covid-19 (⭐399)](https://github.com/M-Media-Group/Covid-19-API)
 
   Description: Covid 19 cases, deaths and recovery per country
 
@@ -72,7 +72,7 @@
 
 ### Charts / Image Picker
 
-*   [Graphic (⭐1.5k)](https://github.com/entronad/graphic) <!--stargazers:entronad/graphic--> - Data visualization library based on the Grammar of Graphics by [LIN Chen](https://github.com/entronad)
+*   [Graphic (⭐1.6k)](https://github.com/entronad/graphic) <!--stargazers:entronad/graphic--> - Data visualization library based on the Grammar of Graphics by [LIN Chen](https://github.com/entronad)
 
 ## [6. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
@@ -96,8 +96,8 @@
 
 ### CMS
 
-*   [JHipster.NET (⭐307)](https://github.com/jhipster/jhipster-dotnetcore) ![stars](https://img.shields.io/github/stars/jhipster/jhipster-dotnetcore?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jhipster/jhipster-dotnetcore?style=flat-square\&cacheSeconds=86400) [JHipster](https://www.jhipster.tech/) is a well-known platform for generating modern application in java world. [JHipster](https://www.jhipster.tech/) provides a blueprints system that allows to override the default behavior of the generator. JHipster.NET is a blueprint that overrides the back-end part, originally generated in spring boot, by back-end in asp.net core. For the front-end all the common language can be used (angular, react), including Blazor.
-*   [RapidCMS (⭐317)](https://github.com/ThomasBleijendaal/RapidCMS) - ![stars](https://img.shields.io/github/stars/ThomasBleijendaal/RapidCMS?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/ThomasBleijendaal/RapidCMS?style=flat-square\&cacheSeconds=86400) A code-first, extensible Blazor app that generates a CMS for your own database.
+*   [JHipster.NET (⭐315)](https://github.com/jhipster/jhipster-dotnetcore) ![stars](https://img.shields.io/github/stars/jhipster/jhipster-dotnetcore?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jhipster/jhipster-dotnetcore?style=flat-square\&cacheSeconds=86400) [JHipster](https://www.jhipster.tech/) is a well-known platform for generating modern application in java world. [JHipster](https://www.jhipster.tech/) provides a blueprints system that allows to override the default behavior of the generator. JHipster.NET is a blueprint that overrides the back-end part, originally generated in spring boot, by back-end in asp.net core. For the front-end all the common language can be used (angular, react), including Blazor.
+*   [RapidCMS (⭐336)](https://github.com/ThomasBleijendaal/RapidCMS) - ![stars](https://img.shields.io/github/stars/ThomasBleijendaal/RapidCMS?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/ThomasBleijendaal/RapidCMS?style=flat-square\&cacheSeconds=86400) A code-first, extensible Blazor app that generates a CMS for your own database.
 
 ## [10. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 
@@ -105,25 +105,19 @@
 
 *   [Blickfeld Cube 1 & Cube Range](https://docs.blickfeld.com/cube/latest/external/ros/driver-v2/README.html) - ROS2 drivers for Blickfeld Cube 1 & Cube Range.
 
-## [11. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / UI Components
-
-*   [vue-schedule-board (⭐20)](https://github.com/jinfang134/vue-schedule-board) - A easy-to-use component to show somebody's schedule list to help interview arrangement or visit arrangement.
-
-## [12. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
+## [11. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
 
 ### Web Development
 
 *   [Introduction to Node.js](https://www.youtube.com/watch?v=M-sc73Y-zQA) by **Ryan Dahl** \[58:19]
 
-## [13. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+## [12. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
-### Phone Number Research / Telegram
+### Phone Number Research / Steam
 
-*   [PhoneInfoga (⭐13k)](https://github.com/sundowndev/PhoneInfoga) - Advanced information gathering & OSINT framework for phone numbers.
+*   [PhoneInfoga (⭐14k)](https://github.com/sundowndev/PhoneInfoga) - Advanced information gathering & OSINT framework for phone numbers.
 
-## [14. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
+## [13. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
 
 ### Build tools
 
@@ -137,13 +131,13 @@
 
 *   [Glue (⭐1)](https://github.com/vinscom/glue) - Proven and opinionated programming, and configuration model for Java and Vert.x based applications. Inspired from ATG Nucleus, provides powerful layer base configuration management using simple properties file.
 
-## [15. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [14. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Articles
 
 *   [CppCon 2020 Presentation Materials (⭐1.6k)](https://github.com/CppCon/CppCon2020) - CppCon 2020 Presentation Materials.
 
-## [16. Awesome Lidar](/content/szenergy/awesome-lidar/README.md)
+## [15. Awesome Lidar](/content/szenergy/awesome-lidar/README.md)
 
 ### Manufacturers
 
@@ -151,7 +145,7 @@
     *   [YouTube channel ![](https://img.shields.io/badge/youtube-red?style=flat-square\&logo=youtube)](https://www.youtube.com/user/SICKSensors)
     *   [GitHub organization ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github)](https://github.com/SICKAG) ![](https://img.shields.io/badge/ROS-2-34aec5?style=flat-square\&logo=ros)
 
-## [17. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
+## [16. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
 ### Development Environment
 

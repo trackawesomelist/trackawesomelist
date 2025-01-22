@@ -218,15 +218,15 @@
 
 ### Authentication
 
-*   [aeacus (⭐37)](https://github.com/zmoshansky/aeacus) - A simple configurable identity/password authentication module (Compatible with Ecto/Phoenix).
+*   [aeacus (⭐38)](https://github.com/zmoshansky/aeacus) - A simple configurable identity/password authentication module (Compatible with Ecto/Phoenix).
 
 ### Email
 
-*   [echo (⭐29)](https://github.com/zmoshansky/echo) - A meta-notification system; Echo checks notification preferences & dispatches notifications.
+*   [echo (⭐30)](https://github.com/zmoshansky/echo) - A meta-notification system; Echo checks notification preferences & dispatches notifications.
 
 ### Third Party APIs
 
-*   [elixtagram (⭐84)](https://github.com/zensavona/elixtagram) - Instagram API client for Elixir.
+*   [elixtagram (⭐86)](https://github.com/zensavona/elixtagram) - Instagram API client for Elixir.
 
 ## [18. Awesome Tech Videos](/content/lucasviola/awesome-tech-videos/week/README.md)
 
@@ -296,11 +296,11 @@
 
 ### Git Tools
 
-*   [posh-git (⭐7.6k)](https://github.com/dahlbyk/posh-git) - A PowerShell environment for Git
+*   [posh-git (⭐7.8k)](https://github.com/dahlbyk/posh-git) - A PowerShell environment for Git
 
 ### Source Generator
 
-*   [awesome-LINQ (⭐399)](https://github.com/aloisdg/awesome-linq) - A curated collection of awesome LINQ libraries, tools, and more.
+*   [awesome-LINQ (⭐403)](https://github.com/aloisdg/awesome-linq) - A curated collection of awesome LINQ libraries, tools, and more.
 
 ## [21. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
@@ -319,7 +319,7 @@
 
 ### JavaScript Clients
 
-*   [traverson (⭐453)](https://github.com/basti1302/traverson) - A Hypermedia API/HATEOAS Client for Node.js and the Browser
+*   [traverson (⭐455)](https://github.com/basti1302/traverson) - A Hypermedia API/HATEOAS Client for Node.js and the Browser
 
 ## [24. Typography](/content/deanhume/typography/week/README.md)
 
@@ -350,7 +350,7 @@ git update-index --assume-unchanged Changelog; git commit -a; git update-index -
 
 ### Math / Barcode
 
-*   [DDMathParser (⭐854)](https://github.com/davedelong/DDMathParser) - DDMathParser makes it easy to parse a String and evaluate it as a mathematical expression.
+*   [DDMathParser (⭐856)](https://github.com/davedelong/DDMathParser) - DDMathParser makes it easy to parse a String and evaluate it as a mathematical expression.
 
 ### Testing / Barcode
 

@@ -34,7 +34,7 @@
 
 ### Reverse Engineering / Reverse Engineering Tools
 
-*   [Detect It Easy(DiE) (⭐6.9k)](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
+*   [Detect It Easy(DiE) (⭐7.7k)](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
 
 ## [5. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
@@ -123,13 +123,13 @@
 
 ### Design tokens
 
-*   [Design Tokens W3C Community Group](https://www.w3.org/community/design-tokens/) - View repository on GitHub [here (⭐1.3k)](https://github.com/design-tokens/community-group)!
+*   [Design Tokens W3C Community Group](https://www.w3.org/community/design-tokens/) - View repository on GitHub [here (⭐1.6k)](https://github.com/design-tokens/community-group)!
 *   [Diez](https://diez.org/) - Free & open-source developer toolkit for expressing visual styles that can be shared across codebases, native platforms, and teams.
 
 ### Tools
 
-*   [Figmagic (⭐716)](https://github.com/mikaelvesavuori/figmagic) - Generate design tokens, export graphics, and extract design token-driven React components from your Figma documents.
-*   [Style Dictionary (⭐3.3k)](https://github.com/amzn/style-dictionary) - A Style Dictionary uses design tokens to define styles once and use those styles on any platform or language.
+*   [Figmagic (⭐819)](https://github.com/mikaelvesavuori/figmagic) - Generate design tokens, export graphics, and extract design token-driven React components from your Figma documents.
+*   [Style Dictionary (⭐4k)](https://github.com/amzn/style-dictionary) - A Style Dictionary uses design tokens to define styles once and use those styles on any platform or language.
 *   [Superposition](https://superposition.design/) - Extract design tokens from websites and use them in code and in your design tool. Use the design system you already have.
 
 ### Articles
@@ -153,14 +153,14 @@
 
 ### Develop isolated components / Storybook addons
 
-*   [Accessibility (⭐79k)](https://github.com/storybookjs/storybook/tree/master/addons/a11y) - Test component compliance with web accessibility standards.
-*   [Actions (⭐79k)](https://github.com/storybookjs/storybook/tree/master/addons/actions) - Get UI feedback when an action is performed on an interactive element.
-*   [Backgrounds (⭐79k)](https://github.com/storybookjs/storybook/tree/master/addons/backgrounds) - Switch backgrounds to view components in different settings.
-*   [Console (⭐187)](https://github.com/storybookjs/storybook-addon-console) - Show console output like logs, errors, and warnings in the Storybook.
-*   [Docs (⭐79k)](https://github.com/storybookjs/storybook/tree/master/addons/docs) - Document component usage and properties in Markdown.
-*   [Knobs (⭐79k)](https://github.com/storybookjs/storybook/tree/master/addons/knobs) - Interact with component inputs dynamically in the Storybook UI.
-*   [Links (⭐79k)](https://github.com/storybookjs/storybook/tree/master/addons/links) - Link stories together to build demos and prototypes with your UI components.
-*   [Storyshots (⭐79k)](https://github.com/storybookjs/storybook/tree/master/addons/storyshots) - Take a code snapshot of every story automatically with Jest.
+*   [Accessibility (⭐85k)](https://github.com/storybookjs/storybook/tree/master/addons/a11y) - Test component compliance with web accessibility standards.
+*   [Actions (⭐85k)](https://github.com/storybookjs/storybook/tree/master/addons/actions) - Get UI feedback when an action is performed on an interactive element.
+*   [Backgrounds (⭐85k)](https://github.com/storybookjs/storybook/tree/master/addons/backgrounds) - Switch backgrounds to view components in different settings.
+*   [Console (⭐200)](https://github.com/storybookjs/storybook-addon-console) - Show console output like logs, errors, and warnings in the Storybook.
+*   [Docs (⭐85k)](https://github.com/storybookjs/storybook/tree/master/addons/docs) - Document component usage and properties in Markdown.
+*   [Knobs (⭐85k)](https://github.com/storybookjs/storybook/tree/master/addons/knobs) - Interact with component inputs dynamically in the Storybook UI.
+*   [Links (⭐85k)](https://github.com/storybookjs/storybook/tree/master/addons/links) - Link stories together to build demos and prototypes with your UI components.
+*   [Storyshots (⭐85k)](https://github.com/storybookjs/storybook/tree/master/addons/storyshots) - Take a code snapshot of every story automatically with Jest.
 
 ### Pattern libraries articles / Storybook addons
 
@@ -198,7 +198,7 @@
 
 ### Tools
 
-*   [terraform.py (⭐449)](https://github.com/mantl/terraform.py) - Ansible dynamic inventory script for parsing Terraform state files.
+*   [terraform.py (⭐451)](https://github.com/mantl/terraform.py) - Ansible dynamic inventory script for parsing Terraform state files.
 
 ## [11. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
@@ -208,31 +208,37 @@
 
 ### Third-Party Packages / Views
 
-*   [django-easy-audit (⭐704)](https://github.com/soynatan/django-easy-audit) - Keep track of user actions.
+*   [django-easy-audit (⭐766)](https://github.com/soynatan/django-easy-audit) - Keep track of user actions.
 
 ### Projects / Boilerplate
 
-*   [djangox (⭐2.1k)](https://github.com/wsvincent/djangox/) - Batteries included starter project for Pip, Pipenv, or Docker.
+*   [djangox (⭐2.2k)](https://github.com/wsvincent/djangox/) - Batteries included starter project for Pip, Pipenv, or Docker.
 
-## [12. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
+## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+
+### Components & Libraries / UI Components
+
+*   [vue-image-zoomer (⭐110)](https://github.com/samjonesigd/vue-image-zoomer) - image zoom component for Vue.js 2 & 3, that also works on touch devices.
+
+## [13. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### Tools
 
 *   🌍🔧 [tail-animista](https://tail-animista.vercel.app) - Configurable custom animation utilities generator for Tailwind CSS.
 
-## [13. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [14. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Other Free Resources
 
 *   [smsreceivefree.com](https://smsreceivefree.com/) — Provides free temporary and disposable phone numbers.
 
-## [14. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
+## [15. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
 ### Key-value Data Model
 
 *   [Graviton (⭐411)](https://github.com/deroproject/graviton) - a simple, fast, versioned, authenticated, embeddable key-value store database in pure Go(lang).
 
-## [15. Awesome React Native](/content/jondot/awesome-react-native/README.md)
+## [16. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
 ### Utils & Infra / Navigation Demos
 
@@ -251,33 +257,6 @@
 
 *   [react-native-colibri ★5 (⭐10)](https://github.com/nidorx/react-native-colibri) - React Native Generic UI Components.
 
-## [16. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Resources / Examples
-
-*   [COVID19 Live Data Component (⭐10)](https://github.com/snturk/covid19-vue-component) - Simple component that shows live covid19 data across the world.
-
-### Projects Using Vue.js / Interactive Experiences
-
-*   [Thing (⭐2)](https://github.com/snturk/thing) - Breath exercise & meditation web app made with Vue.
-
-### Components & Libraries / UI Components
-
-*   [vue-tooltipster (⭐6)](https://github.com/cpfarher/vue-tooltipster) - VueJS 2.x tooltip component. Support html content, hover and hover+click events.
-*   [vue-image-zoomer (⭐102)](https://github.com/samjonesigd/vue-image-zoomer) - image zoom component for Vue.js 2 & 3, that also works on touch devices.
-
-### Components & Libraries / Integrations
-
-*   [vue-cli-plugin-cordova (⭐416)](https://github.com/m0dch3n/vue-cli-plugin-cordova) - Vue CLI Plugin to add Cordova easily to your project
-*   [vue-cli-plugin-component (⭐88)](https://github.com/David-Desmaisons/vue-cli-plugin-component) - Vue CLI Plugin to create component
-*   [vue-cli-plugin-modular-vuex (⭐6)](https://github.com/PureConstructs/vue-cli-plugin-modular-vuex) - Vue CLI Plugin to create modular Vuex store files
-*   [vue-cli-plugin-element (⭐23)](https://github.com/codetrial/vue-cli-plugin-element) - Vue CLI Plugin to build an enterprise application with element-ui in seconds
-*   [vue-cli-plugin-electron-builder (⭐4.1k)](https://github.com/nklayman/vue-cli-plugin-electron-builder) - Vue CLI Plugin for Electron with no required configuration that uses Electron Builder.
-*   [vue-cli-plugin-kami (⭐2)](https://github.com/KamiMeow/vue-cli-plugin-kami) - Vue CLI Plugin with work-made architecture for quickly start your app
-*   [vue-cli-plugin-clean (⭐18)](https://github.com/DevTony101/vue-cli-plugin-clean) - Vue CLI Plugin to help you clean and quickly set up your Vue app by adding some common tools and patterns
-*   [vue-cli-plugin-mock (⭐30)](https://github.com/xuxihai123/vue-cli-plugin-mock) - Vue CLI Plugin to mock http request
-*   [vue-cli-plugin-ci (⭐10)](https://github.com/P0ppoff/vue-cli-plugin-ci) - Vue CLI Plugin to generate CI agent config file to start project with CI
-
 ## [17. Awesome Phalcon](/content/phalcon/awesome-phalcon/README.md)
 
 ### Magazines / Communities
@@ -295,7 +274,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [PyGrid (⭐615)](https://github.com/OpenMined/PyGrid/) - Peer-to-peer network of data owners and data scientists who can collectively train AI models using PySyft
+*   [PyGrid (⭐616)](https://github.com/OpenMined/PyGrid/) - Peer-to-peer network of data owners and data scientists who can collectively train AI models using PySyft
 
 ## [20. Awesome Security](/content/sbilly/awesome-security/README.md)
 

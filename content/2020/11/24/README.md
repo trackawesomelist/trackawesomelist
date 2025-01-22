@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 24, 2020
 
-8 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -24,23 +24,23 @@
 
 ### Packages / Data validation
 
-*   [Superstruct (⭐6.9k)](https://github.com/ianstormtaylor/superstruct) - Simple and composable way to validate data in JavaScript (and TypeScript).
+*   [Superstruct (⭐7k)](https://github.com/ianstormtaylor/superstruct) - Simple and composable way to validate data in JavaScript (and TypeScript).
 
 ## [4. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Others
 
-*   [LinqToTwitter Blazor sample (⭐513)](https://github.com/JoeMayo/LinqToTwitter/tree/main/Samples/LinqToTwitter5/net48/CSharp/AspNetSamples/BlazorDemo) - ![stars](https://img.shields.io/github/stars/JoeMayo/LinqToTwitter?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/JoeMayo/LinqToTwitter?style=flat-square\&cacheSeconds=86400) LINQ Provider for the Twitter API (Twitter Library).
+*   [LinqToTwitter Blazor sample (⭐514)](https://github.com/JoeMayo/LinqToTwitter/tree/main/Samples/LinqToTwitter5/net48/CSharp/AspNetSamples/BlazorDemo) - ![stars](https://img.shields.io/github/stars/JoeMayo/LinqToTwitter?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/JoeMayo/LinqToTwitter?style=flat-square\&cacheSeconds=86400) LINQ Provider for the Twitter API (Twitter Library).
 
 ### 2D/3D Rendering engines / Diagrams
 
-*   [Excubo.Blazor.Diagrams (⭐136)](https://github.com/excubo-ag/Blazor.Diagrams) - ![stars](https://img.shields.io/github/stars/excubo-ag/Blazor.Diagrams?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Blazor.Diagrams?style=flat-square\&cacheSeconds=86400) Interactive diagram component (flowcharts, UML, BPMN, ...), customizable and extensible according to user needs (node types, styles). [Demo](https://excubo-ag.github.io/Blazor.Diagrams/).
+*   [Excubo.Blazor.Diagrams (⭐138)](https://github.com/excubo-ag/Blazor.Diagrams) - ![stars](https://img.shields.io/github/stars/excubo-ag/Blazor.Diagrams?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Blazor.Diagrams?style=flat-square\&cacheSeconds=86400) Interactive diagram component (flowcharts, UML, BPMN, ...), customizable and extensible according to user needs (node types, styles). [Demo](https://excubo-ag.github.io/Blazor.Diagrams/).
 
 ## [5. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### UI
 
-*   [Timelines (⭐699)](https://github.com/chulwoo-park/timelines) <!--stargazers:chulwoo-park/timelines--> - Powerful & Easy to use timeline package by [Chulwoo Park](https://github.com/chulwoo-park).
+*   [Timelines (⭐723)](https://github.com/chulwoo-park/timelines) <!--stargazers:chulwoo-park/timelines--> - Powerful & Easy to use timeline package by [Chulwoo Park](https://github.com/chulwoo-park).
 
 ## [6. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
@@ -69,12 +69,6 @@
   Demo: <img src="https://github.com/wasabeef/awesome-android-ui/raw/master/art/iivisu-play.gif" width="62%">
 
 
-
-## [8. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
-
-### Tools / Communication
-
-*   [Gather](https://gather.town/) - Gather is a video-calling space that lets multiple people hold separate conversations in parallel, walking in and out of those conversations just as easily as they would in real life.
 
 ---
 

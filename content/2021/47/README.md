@@ -50,7 +50,7 @@
 
 ### Questions
 
-*   [bistro (⭐46)](https://github.com/pveber/bistro) – OCaml library for building bioinformatics pipelines.
+*   [bistro (⭐47)](https://github.com/pveber/bistro) – OCaml library for building bioinformatics pipelines.
 
 ## [5. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
@@ -66,14 +66,14 @@
     *   [fpm (⭐11k)](https://github.com/jordansissel/fpm) - Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.
     *   [Linuxbrew](https://github.com/Homebrew/linuxbrew-core) - A fork of Homebrew for Linux.
     *   [Homebrew-cask (⭐21k)](https://github.com/caskroom/homebrew-cask) - A CLI workflow for the administration of Mac applications distributed as binaries.
-    *   [Homebrew (⭐41k)](https://github.com/Homebrew/brew) - The missing package manager for OS X.
+    *   [Homebrew (⭐42k)](https://github.com/Homebrew/brew) - The missing package manager for OS X.
     *   [Traveling Ruby](https://foobarwidget.github.io/traveling-ruby/) - Traveling Ruby lets you create self-contained Ruby app packages for Linux and OS X.
 
 ## [6. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Plugins
 
-*   [tmux-super-fingers (⭐81)](https://github.com/artemave/tmux_super_fingers) like fingers, but also opens files in vim.
+*   [tmux-super-fingers (⭐87)](https://github.com/artemave/tmux_super_fingers) like fingers, but also opens files in vim.
 
 ## [7. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
@@ -111,13 +111,13 @@
 
 ### Compressing
 
-*   **[Genozip (⭐109)](https://github.com/divonlan/genozip)** - A compressor of common genomic file formats (BAM, CRAM, FASTQ, VCF etc). \[ [web](https://genozip.com/?utm_source=Awesome-Bioinformatics) | [paper-2021](https://www.researchgate.net/publication/349347156_Genozip_-_A_Universal_Extensible_Genomic_Data_Compressor) ]
+*   **[Genozip (⭐161)](https://github.com/divonlan/genozip)** - A compressor of common genomic file formats (BAM, CRAM, FASTQ, VCF etc). \[ [web](https://genozip.com/?utm_source=Awesome-Bioinformatics) | [paper-2021](https://www.researchgate.net/publication/349347156_Genozip_-_A_Universal_Extensible_Genomic_Data_Compressor) ]
 
 ## [10. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
 
 ### Extensions / Community
 
-*   [Image Scout (⭐126)](https://github.com/resauce-dev/directus-image-scout?ref=awesome-directus) - Search and select images found on a variety of royalty free image sites (Pexels, Pixabay, Unsplash & Giphy!).
+*   [Image Scout (⭐131)](https://github.com/resauce-dev/directus-image-scout?ref=awesome-directus) - Search and select images found on a variety of royalty free image sites (Pexels, Pixabay, Unsplash & Giphy!).
 *   [Date Picker Interface (⭐14)](https://github.com/u12206050/directus-9-date-picker-interface) - An alternative Date Picker Interface to the original Directus DateTime interface.
 
 ## [11. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
@@ -130,7 +130,7 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-ali-oss (⭐32)](https://github.com/xiaweiss/vite-plugin-ali-oss) - Upload the production files bundled in the project to Ali OSS, except for HTML.
+*   [vite-plugin-ali-oss (⭐34)](https://github.com/xiaweiss/vite-plugin-ali-oss) - Upload the production files bundled in the project to Ali OSS, except for HTML.
 
 ### Vue / Loaders
 
@@ -163,13 +163,13 @@
 
 ### Hybrid
 
-*   [BlazorInAngularDemo (⭐30)](https://github.com/Xenoage/BlazorInAngularDemo) - ![last commit](https://img.shields.io/github/last-commit/Xenoage/BlazorInAngularDemo?style=flat-square\&cacheSeconds=86400) Demonstrates how an existing Angular app can be migrated to Blazor gradually by integrating Blazor components, including calling Angular service methods. [Demo](https://xenoage.github.io/BlazorInAngularDemo/).
+*   [BlazorInAngularDemo (⭐31)](https://github.com/Xenoage/BlazorInAngularDemo) - ![last commit](https://img.shields.io/github/last-commit/Xenoage/BlazorInAngularDemo?style=flat-square\&cacheSeconds=86400) Demonstrates how an existing Angular app can be migrated to Blazor gradually by integrating Blazor components, including calling Angular service methods. [Demo](https://xenoage.github.io/BlazorInAngularDemo/).
 
 ## [15. Awesome Selenium](/content/christian-bromann/awesome-selenium/week/README.md)
 
 ### Tools / Java
 
-*   [Lightning (⭐29)](https://github.com/aerokube/lightning-java) - Lightweight and lightning fast WebDriver client.
+*   [Lightning (⭐30)](https://github.com/aerokube/lightning-java) - Lightweight and lightning fast WebDriver client.
 
 ### Cloud Services / Desktop GUI Automation (non-browser-centric)
 
@@ -191,13 +191,13 @@
 
 ### Examples
 
-*   [ajeetdsouza/zoxide (⭐20k)](https://github.com/ajeetdsouza/zoxide#readme) - Badges, project GIF, concise description, quick links, stepwise installation instructions.
+*   [ajeetdsouza/zoxide (⭐24k)](https://github.com/ajeetdsouza/zoxide#readme) - Badges, project GIF, concise description, quick links, stepwise installation instructions.
 
 ## [19. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Beginner
 
-*   📹 [Common Lisp Programming: from novice to effective developer](https://www.udemy.com/course/common-lisp-programming/?referralCode=2F3D698BBC4326F94358) - A learning video series on the Udemy platform (*full content under paid access*). By an active lisper and community contributor (@vindarel). [Github home (⭐38)](https://github.com/vindarel/common-lisp-course-in-videos/).
+*   📹 [Common Lisp Programming: from novice to effective developer](https://www.udemy.com/course/common-lisp-programming/?referralCode=2F3D698BBC4326F94358) - A learning video series on the Udemy platform (*full content under paid access*). By an active lisper and community contributor (@vindarel). [Github home (⭐43)](https://github.com/vindarel/common-lisp-course-in-videos/).
     > Thanks for supporting my work on Udemy. I can send a free link to students, just contact me.
 
 ## [20. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
@@ -244,7 +244,7 @@
 
 ### Tools / Vulnerable Applications for practice
 
-*   [Oversecured Vulnerable Android App (OVAA) (⭐615)](https://github.com/oversecured/ovaa)
+*   [Oversecured Vulnerable Android App (OVAA) (⭐668)](https://github.com/oversecured/ovaa)
 
 ## [23. Awesome Evm Security](/content/kareniel/awesome-evm-security/week/README.md)
 
@@ -270,25 +270,25 @@
 
 ### CLI
 
-*   [oof (⭐825)](https://github.com/s9w/oof) - Convenient, high-performance RGB color and position control for console output. \[MIT]
+*   [oof (⭐837)](https://github.com/s9w/oof) - Convenient, high-performance RGB color and position control for console output. \[MIT]
 
 ### Memory Allocation
 
-*   [rpmalloc (⭐2.1k)](https://github.com/mjansson/rpmalloc) - Cross platform lock free thread caching 16-byte aligned memory allocator implemented in C. \[PublicDomain]
-*   [snmalloc (⭐1.5k)](https://github.com/microsoft/snmalloc) - Message passing based high-performance allocator. \[MIT]
-*   [TCMalloc (⭐4.3k)](https://github.com/google/tcmalloc) - Google's fast, multi-threaded malloc implementation. \[Apache-2.0] [website](https://google.github.io/tcmalloc/)
+*   [rpmalloc (⭐2.2k)](https://github.com/mjansson/rpmalloc) - Cross platform lock free thread caching 16-byte aligned memory allocator implemented in C. \[PublicDomain]
+*   [snmalloc (⭐1.6k)](https://github.com/microsoft/snmalloc) - Message passing based high-performance allocator. \[MIT]
+*   [TCMalloc (⭐4.5k)](https://github.com/google/tcmalloc) - Google's fast, multi-threaded malloc implementation. \[Apache-2.0] [website](https://google.github.io/tcmalloc/)
 
 ### Books
 
-*   [Free C Books (⭐332k)](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#c) - vhf/free-programming-books/C.
-*   [Free C++ Books (⭐332k)](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#cpp) - vhf/free-programming-books/C++.
+*   [Free C Books (⭐348k)](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#c) - vhf/free-programming-books/C.
+*   [Free C++ Books (⭐348k)](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#cpp) - vhf/free-programming-books/C++.
 
 ## [26. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Misc
 
 *   [ssuukk/Qotlin (⭐16)](https://github.com/ssuukk/Qotlin) - IBM Q Experience Kotlin toolkit - Kotlin library to interact and write assembly code for IBM Quantum computers
-*   [vittee/kformula (⭐30)](https://github.com/vittee/kformula) - Mathematical expression engine written in Kotlin, running on JVM.
+*   [vittee/kformula (⭐29)](https://github.com/vittee/kformula) - Mathematical expression engine written in Kotlin, running on JVM.
 
 ## [27. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
 
@@ -306,7 +306,7 @@
 
 ### Tools / XML
 
-*   [pre-commit-deno (⭐6)](https://github.com/nozaq/pre-commit-deno) - pre-commit git hooks for Deno projects.
+*   [pre-commit-deno (⭐7)](https://github.com/nozaq/pre-commit-deno) - pre-commit git hooks for Deno projects.
 
 ### Articles / XML
 
@@ -322,7 +322,7 @@
 
 ### Books / Misc
 
-*   [Distributed Machine Learning Patterns (⭐366)](https://github.com/terrytangyuan/distributed-ml-patterns)  - This book teaches you how to take machine learning models from your personal laptop to large distributed clusters. You’ll explore key concepts and patterns behind successful distributed machine learning systems, and learn technologies like TensorFlow, Kubernetes, Kubeflow, and Argo Workflows directly from a key maintainer and contributor, with real-world scenarios and hands-on projects.
+*   [Distributed Machine Learning Patterns (⭐393)](https://github.com/terrytangyuan/distributed-ml-patterns)  - This book teaches you how to take machine learning models from your personal laptop to large distributed clusters. You’ll explore key concepts and patterns behind successful distributed machine learning systems, and learn technologies like TensorFlow, Kubernetes, Kubeflow, and Argo Workflows directly from a key maintainer and contributor, with real-world scenarios and hands-on projects.
 
 ## [31. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -343,11 +343,11 @@
 
 ### Applications
 
-*   [wasmer (⭐18k)](https://github.com/wasmerio/wasmer) - A safe and fast WebAssembly runtime supporting WASI and Emscripten [![Build Status](https://github.com/wasmerio/wasmer/workflows/build/badge.svg?style=flat-square)](https://github.com/wasmerio/wasmer/actions)
+*   [wasmer (⭐19k)](https://github.com/wasmerio/wasmer) - A safe and fast WebAssembly runtime supporting WASI and Emscripten [![Build Status](https://github.com/wasmerio/wasmer/workflows/build/badge.svg?style=flat-square)](https://github.com/wasmerio/wasmer/actions)
 
 ### Applications / System tools
 
-*   [sharkdp/fd (⭐33k)](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to find. [![CICD](https://github.com/sharkdp/fd/actions/workflows/CICD.yml/badge.svg)](https://github.com/sharkdp/fd/actions/workflows/CICD.yml)
+*   [sharkdp/fd (⭐35k)](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to find. [![CICD](https://github.com/sharkdp/fd/actions/workflows/CICD.yml/badge.svg)](https://github.com/sharkdp/fd/actions/workflows/CICD.yml)
 
 ## [33. Public Apis](/content/public-apis/public-apis/week/README.md)
 
@@ -405,8 +405,6 @@
 
   CORS: Unknown
 
-  Call this API: 
-
 
 - API: [Tomba email finder](https://tomba.io/api)
 
@@ -417,8 +415,6 @@
   HTTPS: Yes
 
   CORS: Yes
-
-  Call this API: 
 
 
 
@@ -462,7 +458,7 @@
 
   CORS: Unknown
 
-  Call this API: 
+  : 
 
 
 - API: [Finage](https://finage.co.uk)
@@ -475,7 +471,7 @@
 
   CORS: Unknown
 
-  Call this API: 
+  : 
 
 
 - API: [Styvio](https://www.Styvio.com)
@@ -488,7 +484,7 @@
 
   CORS: Unknown
 
-  Call this API: 
+  : 
 
 
 
@@ -650,17 +646,9 @@
 *   [Add a prebuilt video chat widget to any Vue app with daily-js](https://www.daily.co/blog/build-a-video-chat-app-with-vue-and-daily-prebuilt/) by Jess Mitchell, via Daily (August 2021)
 *   [Build a custom video chat app with daily-js and Vue](https://www.daily.co/blog/custom-video-chat-app-with-daily-and-vue/) by Jess Mitchell, via Daily (November 2021)
 
-### Resources / Examples
-
-*   [Customizable Vue video chat app (⭐4)](https://github.com/daily-demos/vue-call-object) - A Vue video call demo app featuring local device controls and screen sharing.
-
 ### Projects Using Vue.js / Apps/Websites
 
 *   [Scrumfast](https://www.scrumfast.com) - Extremely intuitive project management scrum tool.
-
-### Components & Libraries / Scaffold
-
-*   [vue3-compact-template (⭐16)](https://github.com/upupming/vue3-compact-template) - ⚡️ A simple and compact vue 3 template with current cutting edge front end technologies.
 
 ## [35. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 

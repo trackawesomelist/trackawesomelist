@@ -223,33 +223,6 @@
 
 ### Family
 
-### [Pandemic](https://wikipedia.org/wiki/Pandemic_\(board_game\))
-
-> Can you save humanity in this cooperative game where deadly viruses are spreading across the globe? Together, you will treat diseases, share knowledge, and fly all over the world to prevent outbreaks and slow down the epidemic.
-
-![Pandemic game image](https://cf.geekdo-images.com/cTrAWasNHyKMcNs8Zrv5O7sKS6M=/fit-in/246x300/pic1534148.jpg)
-
-| Players | Min. Age | Time |
-| ------: | -------: | ---: |
-|   2 - 4 |        8 |  45m |
-### [Forbidden Desert](https://wikipedia.org/wiki/Forbidden_Desert)
-
-> ...players take on the roles of brave adventurers who must throw caution to the wind and survive both blistering heat and blustering sand in order to recover a legendary flying machine buried under an ancient desert city.
-
-![Forbidden Desert game image](https://cf.geekdo-images.com/9cYnsP-GJPPrse1qZc3pTAqZTU4=/fit-in/246x300/pic1528722.jpg)
-
-| Players | Min. Age | Time |
-| ------: | -------: | ---: |
-|   2 - 5 |       10 |  45m |
-### [Elder Sign](https://wikipedia.org/wiki/Elder_Sign_\(card_game\))
-
-> Set in a world of Lovecraftian horror, cooperatively investigate a museum full of strange artefacts and stranger demons. Collect eldritch symbols, "elder signs", to close the portals and prevent the creatures from invading our world. Collect enough before the time is up or suffer the wrath of the Ancient Ones.
-
-![Elder Sign game image](https://cf.geekdo-images.com/V3ZBoSTdW7AjenPmOws7jfbkFsY=/fit-in/246x300/pic1236119.jpg)
-
-| Players | Min. Age | Time |
-| ------: | -------: | ---: |
-|   1 - 8 |       13 |  90m |
 ### [Betrayal at House on the Hill](https://en.wikipedia.org/wiki/Betrayal_at_House_on_the_Hill)
 
 > Players all begin as allies exploring a haunted house filled with dangers, traps, items, and omens.\
@@ -279,26 +252,6 @@
 | Players | Min. Age |   Time |
 | ------: | -------: | -----: |
 |   2 - 6 |        8 | 10-20m |
-### [Dungeons & Dragons: Castle Ravenloft](https://boardgamegeek.com/boardgame/59946/dungeons-dragons-castle-ravenloft-board-game)
-
-> The master of Ravenloft is having guests for dinner – and you are invited!\
-> Evil lurks in the towers and dungeons of Castle Ravenloft, and only heroes of exceptional bravery can survive the horrors within.\
-> Designed for 1-5 players, this boardgame features multiple scenarios, challenging quests, and cooperative gameplay.
-
-![Dungeons & Dragons: Castle Ravenloft](https://cf.geekdo-images.com/itemrep/img/XTw-eglE4VMj6fgZytjEAIqa98g=/fit-in/246x300/pic660244.jpg)
-
-| Players | Min. Age | Time |
-| ------: | -------: | ---: |
-|   1 - 5 |       13 |  60m |
-### [Exit The Game the Abandoned Cabin](https://boardgamegeek.com/boardgame/203420/exit-game-abandoned-cabin)
-
-> After seeking shelter in an abandoned cabin and spending the night, you and your friends realize that someone has secured the door with a combination lock. The only way to escape your predicament is to work as a team, crack codes and solve various puzzles in order to deduct the combination that leads to freedom.
-
-![Exit Abandoned Cabin game image](https://cf.geekdo-images.com/itemrep/img/YuNiISiSOUDAtk634f7dUq7MXu8=/fit-in/246x300/pic3332426.jpg)
-
-| Players | Min. Age |    Time |
-| ------: | -------: | ------: |
-|   1 - 6 |       12 | 60-120m |
 
 ### Strategy
 
@@ -320,15 +273,6 @@
 | Players | Min. Age | Time |
 | ------: | -------: | ---: |
 |       2 |        5 |  30m |
-### [7 Wonders](https://wikipedia.org/wiki/7_Wonders_\(board_game\))
-
-> You are the leader of one of the 7 great cities of the Ancient World. Gather resources, develop commercial routes, and affirm your military supremacy. Build your city and erect an architectural wonder which will transcend future times.
-
-![7 Wonders game image](https://cf.geekdo-images.com/RvFVTEpnbb4NM7k0IF8V7A__itemrep/img/F__zhk-OFDgFcMBysW2JlcYJADw=/fit-in/246x300/filters:strip_icc\(\)/pic860217.jpg)
-
-| Players | Min. Age | Time |
-| ------: | -------: | ---: |
-|   3 - 7 |       10 |  45m |
 ### [7 Wonders Duel](https://boardgamegeek.com/boardgame/173346/7-wonders-duel)
 
 > The great 7 Wonders concepts adapted especially for two players. The feel is very '7 Wonders' with a few refinements which many will with made it to the main game such as the reworked military and science victories as well as new commerce dynamics. Playing a game always leaves me wanting to play again.
@@ -347,17 +291,6 @@
 | Players | Min. Age | Time |
 | ------: | -------: | ---: |
 |       2 |       13 |  75m |
-### [Legendary: A Marvel Deck Building Game](https://boardgamegeek.com/boardgame/129437/legendary-marvel-deck-building-game)
-
-<!-- nothing on wikipedia currently -->
-
-> ...a deck-building game set in the Marvel Comics universe. To set up the game, players choose a number of hero decks from the likes of Spider-man, Hulk, Cyclops or Wolverine, and shuffle them together to get a variety of hero decks. Players then choose a mastermind villain (Magneto, Loki, Dr. Doom, etc.) and stack that particular villain's attack cards underneath it. Next, modify the villain deck as needed based on that villain's particular scheme.
-
-![Legendary A Marvel Deck Building Game image](https://cf.geekdo-images.com/oP3_ojBKQ6EXfUupdha3t9JF728=/fit-in/246x300/pic1430769.jpg)
-
-| Players | Min. Age | Time |
-| ------: | -------: | ---: |
-|   1 - 5 |       10 |  45m |
 ### [Complots](https://boardgamegeek.com/boardgame/188188/complots)
 
 > A corrupt city, subject to vice and avarice, is under the control of vile characters. The seat of power is vacant and waiting for you to take it — unless someone else takes it first. In Complots, as in the original game Coup, you control two characters and start with two coins, and through trickery, manipulation and bluffing, you want to eliminate all other players who stand in your way, possibly by having them eliminate one another along the way.
@@ -367,15 +300,6 @@
 | Players | Min. Age | Time |
 | ------: | -------: | ---: |
 |   2 - 8 |        8 |  15m |
-### [Exploding Kittens](https://explodingkittens.com/)
-
-> Exploding Kittens is a highly-strategic, kitty-powered version of Russian roulette. It was the most-funded game in the history of Kickstarter and has paved the way for peace and tranquility in the modern world. It also features cards illustrated by The Oatmeal.
-
-![Exploding Kittens image](https://cf.geekdo-images.com/N8bL53-pRU7zaXDTrEaYrw__itemrep/img/ON0bQporMQQ9KJlVC2UP8LAa_WI=/fit-in/246x300/filters:strip_icc\(\)/pic2691976.png)
-
-| Players | Min. Age | Time |
-| ------: | -------: | ---: |
-|   2 - 5 |        7 |  15m |
 ### [Chess](https://en.wikipedia.org/wiki/Chess)
 
 > Chess is a board game played between two opponents on opposite sides of a board containing 64 squares of alternating colors (white and black). Each player has 16 pieces: 1 king, 1 queen, 2 rooks, 2 bishops, 2 knights, and 8 pawns. The goal of the game is to checkmate your opponent's king. The game is played by millions of people worldwide.
@@ -394,15 +318,6 @@
 | Players | Min. Age |   Time |
 | ------: | -------: | -----: |
 |   3 - 6 |        8 | 10-60m |
-### [Sheriff of Nottingham](https://boardgamegeek.com/boardgame/157969/sheriff-nottingham)
-
-> In Sheriff of Nottingham, each player assumes the role of a merchant who is looking to make a tidy profit during the Prince's visit to Nottingham. While it is possible to make a decent profit off of legal goods, illicit goods will leave you swimming in riches. But be careful, lest the Sheriff of Nottingham catches you!
-
-![Sheriff of Nottingham game image](https://cf.geekdo-images.com/itemrep/img/ue8OIdjUCpDrnM9Y0ZXKuDdk8Y8=/fit-in/246x300/pic2075830.jpg)
-
-| Players | Min. Age | Time |
-| ------: | -------: | ---: |
-|   3 - 5 |       14 |  60m |
 
 ### Party
 
@@ -415,15 +330,6 @@
 | Players | Min. Age | Time |
 | ------: | -------: | ---: |
 |   2 - 8 |        7 |  10m |
-### [Mysterium](https://wikipedia.org/wiki/Mysterium_\(board_game\))
-
-> As a group, divine the messages from the recently murdered ghost to solve the murder in this collaborative whodunit. Equally easy for beginners and experienced gamers to play with something new every game.
-
-![Mysterium game image](https://cf.geekdo-images.com/cmPajGP0Q5NrBkZ7Ur4B7-V677w=/fit-in/246x300/pic2601683.jpg)
-
-| Players | Min. Age | Time |
-| ------: | -------: | ---: |
-|   2 - 7 |       10 |  42m |
 ### [Shabadabada](https://boardgamegeek.com/boardgameexpansion/119871/shabadabada-2)
 
 > This is a small and quite simple party game designed to make you sing beside the fireplace, or anywhere. Two teams compete using predetermined words. As soon as a player sings part of a song which contains the current word, the other team must find another song containing the word. As soon as a team fails, the other one wins the card.
@@ -460,15 +366,6 @@
 | Players | Min. Age |   Time |
 | ------: | -------: | -----: |
 |   2 - 4 |        3 | 30-60m |
-### [That's A Question﹗](https://boardgamegeek.com/boardgame/226322/s-question)
-
-> A great game to play with people you think you know. You take the role of squirrels asking each other questions as they climb up a mountain. Players assemble questions from tiles in their hands, asking each other things like "Would you rather live in a world without pizza or fruit?" or "Would you rather write the Great American Novel or never have to sleep again?" It's a good time for everyone, and the game has this nice, innocent charm to it. Even the manual is fun to read.
-
-![That's A Question game image](https://cf.geekdo-images.com/itemrep/img/HtERyYjSCmmOaczgGx_31xn_9EY=/fit-in/246x300/pic3643950.jpg)
-
-| Players | Min. Age | Time |
-| ------: | -------: | ---: |
-|   3 - 6 |       15 |  30m |
 ### [One Night Werewolf](https://beziergames.com/products/one-night-ultimate-werewolf)
 
 > One Night Ultimate Werewolf is a fast-paced game where everyone gets to be a different role. In the course of only one night and the following morning, the players will determine who among them is a werewolf...hopefully.
@@ -478,24 +375,6 @@
 | Players | Min. Age |   Time |
 | ------: | -------: | -----: |
 |  3 - 10 |        8 | 10-15m |
-### [Who Wants to Be a Millionare](http://www.boardgamecapital.com/who-wants-to-be-a-millionaire-rules.htm)
-
-> Ever wanted to play the popular Game Show game Who Wants To Be A Millionaire? Check out this board game version of Who Wants To Be A Millionaire. Other than the TV cameras, Regis Philbin, and the real money, this is the same game including easy laughable $100 questions, life lines, and a over 2,000 questions.
-
-![Who Wants to be a millionare game image](https://upload.wikimedia.org/wikipedia/en/7/75/Millionaire.png)
-
-| Players | Min. Age |   Time |
-| ------: | -------: | -----: |
-|   2 - 5 |       12 | 45-60m |
-### [Catan](https://www.catan.com/game/catan)
-
-> Picture yourself in the era of discoveries: after a long voyage of great deprivation, your ships have finally reached the coast of an uncharted island. Its name shall be Catan! But you are not the only discoverer. Other fearless seafarers have also landed on the shores of Catan: the race to settle the island has begun!
-
-![catan game image](https://cf.geekdo-images.com/W3Bsga_uLP9kO91gZ7H8yw__itemrep/img/IzYEUm_gWFuRFOL8gQYqGm5gU6A=/fit-in/246x300/filters:strip_icc\(\)/pic2419375.jpg)
-
-| Players | Min. Age |   Time |
-| ------: | -------: | -----: |
-|   3 - 4 |       10 | 45-90m |
 ### [Sushi Go](https://gamewright.com/product/Sushi-Go)
 
 > In the super-fast sushi card game Sushi Go!, you are eating at a sushi restaurant and trying to grab the best combination of sushi dishes as they whiz by. Score points for collecting the most sushi rolls or making a full set of sashimi. Dip your favorite nigiri in wasabi to triple its value! And once you've eaten it all, finish your meal with all the pudding you've got! But be careful which sushi you allow your friends to take; it might be just what they need to beat you!
@@ -569,15 +448,6 @@
 | Players | Min. Age | Time |
 | ------: | -------: | ---: |
 |  5 - 10 |       13 |  45m |
-### [Smash Up](https://boardgamegeek.com/boardgame/122522/smash)
-
-> The "shufflebuilding" game Smash Up begins with a simple premise: take the 20-card decks of two factions, shuffle them into a deck of forty cards, then compete to crush more Bases than your opponents! Each faction involves a different gaming mechanism - the pirates move the cards, the zombies bring back the cards from the discard pile, the dinosaurs have enormous power - and each combination of factions brings a different gaming experience.
-
-![Smash Up Image](https://cf.geekdo-images.com/itemrep/img/B477eHwGjDYBLMYSIlLGGeJcoMo=/fit-in/246x300/pic1269874.jpg)
-
-| Players | Min. Age | Time |
-| ------: | -------: | ---: |
-|   2 - 4 |       12 |  45m |
 ### [Gloomhaven](https://boardgamegeek.com/boardgame/174430/gloomhaven)
 
 > Gloomhaven is a game of Euro-inspired tactical combat in a persistent world of shifting motives. Players will take on the role of a wandering adventurer with their own special set of skills and their own reasons for traveling to this dark corner of the world. Players must work together out of necessity to clear out menacing dungeons and forgotten ruins. In the process, they will enhance their abilities with experience and loot, discover new locations to explore and plunder, and expand an ever-branching story fueled by the decisions they make.

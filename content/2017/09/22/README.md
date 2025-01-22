@@ -43,7 +43,7 @@
 
 ### Markdown/Text Processors
 
-*   [markd (⭐109)](https://github.com/icyleaf/markd) - Yet another markdown parser built for speed, Compliant to CommonMark specification
+*   [markd (⭐110)](https://github.com/icyleaf/markd) - Yet another markdown parser built for speed, Compliant to CommonMark specification
 
 ## [6. Awesome Coins](/content/Zheaoli/awesome-coins/README.md)
 
@@ -100,7 +100,7 @@
 
 ### Packages / Testing
 
-*   [abstruse (⭐932)](https://github.com/bleenco/abstruse) - Continuous Integration server.
+*   [abstruse (⭐941)](https://github.com/bleenco/abstruse) - Continuous Integration server.
 
 ## [8. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
@@ -116,7 +116,7 @@
 
 ### Protocols
 
-*   [FluentFTP (⭐3k)](https://github.com/robinrodricks/FluentFTP) - An FTP and FTPS library for .NET, optimized for speed. Provides extensive FTP commands, file uploads/downloads and FTP proxies.
+*   [FluentFTP (⭐3.2k)](https://github.com/robinrodricks/FluentFTP) - An FTP and FTPS library for .NET, optimized for speed. Provides extensive FTP commands, file uploads/downloads and FTP proxies.
 
 ## [10. Awesome Deep Learning Papers](/content/terryum/awesome-deep-learning-papers/README.md)
 

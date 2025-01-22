@@ -10,7 +10,7 @@
 
 ### Development
 
-*   [Test database (⭐4k)](https://github.com/datacharmer/test_db) - A sample MySQL database with an integrated test suite, used to test applications and servers
+*   [Test database (⭐4.1k)](https://github.com/datacharmer/test_db) - A sample MySQL database with an integrated test suite, used to test applications and servers
 
 ## [2. Awesome D3](/content/wbkd/awesome-d3/README.md)
 
@@ -89,11 +89,11 @@
 ### Containers
 
 *   [robin-hood-hashing (⭐1.5k)](https://github.com/martinus/robin-hood-hashing) - Fast & memory efficient hashtable based on robin hood hashing for C++14. \[MIT]
-*   [robin-map (⭐1.2k)](https://github.com/Tessil/robin-map) - Fast hash map and hash set using robin hood hashing. \[MIT]
+*   [robin-map (⭐1.3k)](https://github.com/Tessil/robin-map) - Fast hash map and hash set using robin hood hashing. \[MIT]
 
 ### Math
 
-*   [GLM (⭐9k)](https://github.com/g-truc/glm) - Header-only C++ math library that matches and inter-operates with OpenGL's GLSL math. \[MIT] [website](https://glm.g-truc.net/)
+*   [GLM (⭐9.5k)](https://github.com/g-truc/glm) - Header-only C++ math library that matches and inter-operates with OpenGL's GLSL math. \[MIT] [website](https://glm.g-truc.net/)
 
 ## [12. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
 
@@ -119,14 +119,14 @@
 ### Basic linear algebra
 
 *   [OpenBLAS](https://www.openblas.net) - Optimized BLAS library based on GotoBLAS2.
-    (C and Assembly, BSD, [GitHub (⭐5.8k)](https://github.com/OpenMathLib/OpenBLAS))
-*   [BLIS (⭐2k)](https://github.com/flame/blis) - High-performance BLAS-like dense linear algebra libraries.
+    (C and Assembly, BSD, [GitHub (⭐6.4k)](https://github.com/OpenMathLib/OpenBLAS))
+*   [BLIS (⭐2.3k)](https://github.com/flame/blis) - High-performance BLAS-like dense linear algebra libraries.
     (C, BSD, GitHub)
 
 ### Finite Elements
 
 *   [MOOSE](https://mooseframework.inl.gov/) - Multiphysics Object Oriented Simulation Environment.
-    (C++, LGPL 2.1, [GitHub (⭐1.5k)](https://github.com/idaholab/moose))
+    (C++, LGPL 2.1, [GitHub (⭐1.8k)](https://github.com/idaholab/moose))
 
 ## [16. Awesome Deno](/content/denolib/awesome-deno/README.md)
 

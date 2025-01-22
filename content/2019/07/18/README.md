@@ -44,14 +44,14 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 
 ### Theming / Themes
 
-*   [ant-design-dark-theme (⭐478)](https://github.com/ant-design/ant-design-dark-theme) - Dark theme variables of Ant Design.
-*   [ant-dark-theme (⭐13)](https://github.com/Kuechlin/ant-dark-theme) - Dark theme variables of Ant Design.
+*   [ant-design-dark-theme (⭐483)](https://github.com/ant-design/ant-design-dark-theme) - Dark theme variables of Ant Design.
+*   [ant-dark-theme (⭐14)](https://github.com/Kuechlin/ant-dark-theme) - Dark theme variables of Ant Design.
 
 ## [6. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
 ### SIRI / Ruby
 
-*   [Edwig (⭐16)](https://github.com/af83/edwig) - A golang server for real-time public transport data exchange, using the SIRI protocol.
+*   [Edwig (⭐17)](https://github.com/af83/edwig) - A golang server for real-time public transport data exchange, using the SIRI protocol.
 
 ## [7. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
@@ -61,7 +61,7 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 
 ### Database / Apache License
 
-*   [ada-base (⭐31)](https://github.com/jrmarino/AdaBase) - Thick database bindings to MySQL, PostgreSQL and SQLite for Ada.
+*   [ada-base (⭐33)](https://github.com/jrmarino/AdaBase) - Thick database bindings to MySQL, PostgreSQL and SQLite for Ada.
 
 ### Generation / Apache License
 
@@ -74,7 +74,7 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 
 ### Patterns / Apache License
 
-*   [rxada (⭐18)](https://github.com/mosteo/rxada) - An Ada 2012 implementation of the Rx methodology.
+*   [rxada (⭐21)](https://github.com/mosteo/rxada) - An Ada 2012 implementation of the Rx methodology.
 
 ### Parsers, Scanners, Linters, Analysers, Interpreters and Prettyprinters / Apache License
 
@@ -101,7 +101,7 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 
 ### Similar libraries / Other Tools
 
-*   [htm (⭐8.6k)](https://github.com/developit/htm) - Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with compiler support.
+*   [htm (⭐8.7k)](https://github.com/developit/htm) - Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with compiler support.
 
 ## [10. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 

@@ -10,7 +10,7 @@
 
 ### Contents / Monitoring
 
-*   [dexter (⭐1.8k)](https://github.com/ankane/dexter) - The automatic indexer for Postgres. Detects slow queries and creates indexes if configured to do so.
+*   [dexter (⭐1.9k)](https://github.com/ankane/dexter) - The automatic indexer for Postgres. Detects slow queries and creates indexes if configured to do so.
 
 ## [2. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
 
@@ -52,13 +52,13 @@
 
 ### Mapping
 
-*   [OnlineWardleyMaps (⭐220)](https://github.com/damonsk/onlinewardleymaps) - Online open source mapping tool. For updates follow [@MapsAsCode](https://twitter.com/MapsAsCode) on Twitter. Hosted version available [here](https://onlinewardleymaps.com/). Online documentation [Wardley Maps as Code](https://docs.onlinewardleymaps.com/).
+*   [OnlineWardleyMaps (⭐251)](https://github.com/damonsk/onlinewardleymaps) - Online open source mapping tool. For updates follow [@MapsAsCode](https://twitter.com/MapsAsCode) on Twitter. Hosted version available [here](https://onlinewardleymaps.com/). Online documentation [Wardley Maps as Code](https://docs.onlinewardleymaps.com/).
 
 ## [8. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Debugging
 
-*   [Atlantis (⭐1.2k)](https://github.com/ProxymanApp/atlantis) - A little and powerful iOS framework for intercepting HTTP/HTTPS Traffic from your iOS app. No more messing around with proxy and certificate config. Inspect Traffic Log with Proxyman app.
+*   [Atlantis (⭐1.3k)](https://github.com/ProxymanApp/atlantis) - A little and powerful iOS framework for intercepting HTTP/HTTPS Traffic from your iOS app. No more messing around with proxy and certificate config. Inspect Traffic Log with Proxyman app.
 
 ---
 

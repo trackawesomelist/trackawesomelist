@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 02, 2020
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,7 +16,7 @@
 
 ### Concurrency
 
-*   [cuda-api-wrappers (⭐766)](https://github.com/eyalroz/cuda-api-wrappers) - Lightweight, Modern-C++ wrappers for the CUDA GPU programming runtime API. \[BSD]
+*   [cuda-api-wrappers (⭐813)](https://github.com/eyalroz/cuda-api-wrappers) - Lightweight, Modern-C++ wrappers for the CUDA GPU programming runtime API. \[BSD]
 
 ## [3. Awesome Jquery](/content/petk/awesome-jquery/README.md)
 
@@ -26,27 +26,21 @@
 
 ### Animation / Paid Books
 
-*   [jQuery Particles (⭐4.3k)](https://github.com/matteobruni/tsparticles/tree/master/components/jquery) - A plugin to easily add Particles animations to your web application
+*   [jQuery Particles (⭐7.6k)](https://github.com/matteobruni/tsparticles/tree/master/components/jquery) - A plugin to easily add Particles animations to your web application
 
-## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / Utilities
-
-*   [VueFort (⭐3)](https://github.com/SeregPie/VueFort) - Data modeling for Vue. Works for Vue 2 & 3.
-
-## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### DNS
 
 *   [Glauca](https://docs.glauca.digital/hexdns/) – Free DNS hosting for up to 3 domains and DNSSEC support
 
-## [6. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/README.md)
+## [5. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/README.md)
 
 ### Periodic Global Connectivity Reports
 
 *   [A4AI Affordability Report](http://a4ai.org/affordability-report/report/) - ([2020](https://a4ai.org/affordability-report/report/2020/)) ([2019](https://a4ai.org/affordability-report/report/2019/)) ([2018](http://1e8q3q16vyc81g8l3h3md6q5f5e-wpengine.netdna-ssl.com/wp-content/uploads/2018/10/A4AI-2018-Affordability-Report.pdf)) ([2017](http://a4ai.org/affordability-report/report/2017)).
 
-## [7. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/README.md)
+## [6. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/README.md)
 
 ### Topic Areas / Viz
 
@@ -56,13 +50,13 @@
 
 *   [Introduction to Data Science - Data Analysis and Prediction Algorithms with R](https://rafalab.github.io/dsbook/) - This book started out as the class notes used in the HarvardX Data Science Series. It introduces concepts and skills that can help you tackle real-world data analysis challenges. It covers concepts from probability, statistical inference, linear regression, and machine learning. It also helps you develop skills such as R programming, data wrangling with dplyr, data visualization with ggplot2, algorithm building with caret, file organization with UNIX/Linux shell, version control with Git and GitHub, and reproducible document preparation with knitr and R markdown.  Author: Professor Rafael A. Irizarry.
 
-## [8. Awesome Home Assistant](/content/frenck/awesome-home-assistant/README.md)
+## [7. Awesome Home Assistant](/content/frenck/awesome-home-assistant/README.md)
 
 ### Dashboards / Themes
 
 *   📺 [Themes Tutorial](https://www.youtube.com/watch?v=3Xpd4zB2eRM) - Quick tutorial/example on how to configure themes.
 
-## [9. Awesome React Native](/content/jondot/awesome-react-native/README.md)
+## [8. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
 ### Navigation
 
@@ -72,7 +66,7 @@
 
 *   [eslint-config-kingstinct-react-native ★23 (⭐23)](https://github.com/robertherber/eslint-config-kingstinct-react-native) - Opinionated ESLint configurarition for React Native and TypeScript
 
-## [10. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)
+## [9. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)
 
 ### Jetpack Compose
 
@@ -84,13 +78,13 @@
 
 
 
-## [11. Awesome Analytics](/content/newTendermint/awesome-analytics/README.md)
+## [10. Awesome Analytics](/content/newTendermint/awesome-analytics/README.md)
 
 ### Analytics dashboards
 
 *   [Chartbrew](https://chartbrew.com) - Chartbrew allows you to query your databases and APIs to create live charts and visualize your data. You can share your charts with anyone or embed them on your own sites, blogs, Notion, etc. ([Demo](https://app.chartbrew.com/live-demo), [Source Code (⭐844)](https://github.com/chartbrew/chartbrew)) `MIT` `NodeJS`
 
-## [12. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [11. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / Redshift
 

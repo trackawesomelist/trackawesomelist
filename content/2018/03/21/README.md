@@ -12,17 +12,17 @@
 
 *   [node-irc (⭐43)](https://github.com/Throne3d/node-irc) `JavaScript`
 
-## [2. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
+## [2. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+
+### Media
+
+*   [Xabe.FFmpeg (⭐721)](https://github.com/tomaszzmuda/Xabe.FFmpeg) - .NET Standard wrapper for FFmpeg. It allows to process media without know how FFmpeg works, and can be used to pass customized arguments to FFmpeg from C# application. **\[$]**
+
+## [3. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 
 ### Apps / Security
 
-*   [wagtail-2fa (⭐84)](https://github.com/labd/wagtail-2fa) - Add two-factor authentication to Wagtail by integrating it with django-otp.
-
-## [3. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
-
-### Frameworks, Libraries and Tools / Misc
-
-*   [Xabe.FFmpeg (⭐706)](https://github.com/tomaszzmuda/Xabe.FFmpeg) - .NET Standard wrapper for FFmpeg. It allows to process media without know how FFmpeg works, and can be used to pass customized arguments to FFmpeg from C# application.
+*   [wagtail-2fa (⭐85)](https://github.com/labd/wagtail-2fa) - Add two-factor authentication to Wagtail by integrating it with django-otp.
 
 ## [4. Tips](/content/git-tips/tips/README.md)
 
@@ -47,8 +47,8 @@ git rebase --onto <new_base> <old_base>
 
 ### Plasma desktop / Themes
 
-*   [Adapta KDE (⭐464)](https://github.com/PapirusDevelopmentTeam/adapta-kde) - A port of the popular GTK theme Adapta for Plasma 5 desktop with a few additions and extras.
-*   [Arc KDE (⭐899)](https://github.com/PapirusDevelopmentTeam/arc-kde) - A port of the popular GTK theme Arc for Plasma 5 desktop with a few additions and extras.
+*   [Adapta KDE (⭐465)](https://github.com/PapirusDevelopmentTeam/adapta-kde) - A port of the popular GTK theme Adapta for Plasma 5 desktop with a few additions and extras.
+*   [Arc KDE (⭐914)](https://github.com/PapirusDevelopmentTeam/arc-kde) - A port of the popular GTK theme Arc for Plasma 5 desktop with a few additions and extras.
 
 ## [8. Awesome Katas](/content/gamontal/awesome-katas/README.md)
 

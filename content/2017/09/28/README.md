@@ -58,7 +58,7 @@
 
 ### Reset and Normalize / Editor's Draft :black_nib:
 
-*   [MiniReset.css (⭐2.6k)](https://github.com/jgthms/minireset.css) - A tiny modern CSS reset.
+*   [MiniReset.css (⭐2.8k)](https://github.com/jgthms/minireset.css) - A tiny modern CSS reset.
 
 ## [7. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 

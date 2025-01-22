@@ -29,7 +29,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [PyTorch Geometric Temporal (⭐2.6k)](https://github.com/benedekrozemberczki/pytorch_geometric_temporal) -> A temporal extension of PyTorch Geometric for dynamic graph representation learning.
+*   [PyTorch Geometric Temporal (⭐2.7k)](https://github.com/benedekrozemberczki/pytorch_geometric_temporal) -> A temporal extension of PyTorch Geometric for dynamic graph representation learning.
 
 ### Tools / Misc
 
@@ -92,7 +92,7 @@
 
 ### Games
 
-*   [ZXSpectrum (⭐83)](https://github.com/EngstromJimmy/ZXSpectrum) - ![last commit](https://img.shields.io/github/last-commit/EngstromJimmy/ZXSpectrum?style=flat-square\&cacheSeconds=86400) ZX Spectrum emulator running on Blazor WebAssembly. [Demo](https://zxspectrum.azurewebsites.net/).
+*   [ZXSpectrum (⭐90)](https://github.com/EngstromJimmy/ZXSpectrum) - ![last commit](https://img.shields.io/github/last-commit/EngstromJimmy/ZXSpectrum?style=flat-square\&cacheSeconds=86400) ZX Spectrum emulator running on Blazor WebAssembly. [Demo](https://zxspectrum.azurewebsites.net/).
 
 ## [13. Toolsforactivism](/content/drewrwilson/toolsforactivism/README.md)
 

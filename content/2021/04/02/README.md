@@ -10,13 +10,13 @@
 
 ### Serialization
 
-*   [v-toxml (⭐8)](https://github.com/radare/v-toxml) - XML Serialization library for V.
+*   [v-toxml (⭐9)](https://github.com/radare/v-toxml) - XML Serialization library for V.
 
 ## [2. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Platforms
 
-*   [Nix (⭐2.9k)](https://github.com/nix-community/awesome-nix#readme) - Package manager for Linux and other Unix systems that makes package management reliable and reproducible.
+*   [Nix (⭐3.5k)](https://github.com/nix-community/awesome-nix#readme) - Package manager for Linux and other Unix systems that makes package management reliable and reproducible.
 
 ## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -34,7 +34,7 @@
 
 ### Software / Python
 
-*   [graspologic (⭐640)](https://github.com/microsoft/graspologic) - Python package for statistical algorithms, models, and visualization for single and multiple networks.
+*   [graspologic (⭐815)](https://github.com/microsoft/graspologic) - Python package for statistical algorithms, models, and visualization for single and multiple networks.
     *   [Tutorials on algorithms and models](https://graspologic.readthedocs.io/en/latest/).
 
 ## [6. Awesome Seed Rs](/content/seed-rs/awesome-seed-rs/README.md)
@@ -53,7 +53,7 @@
 
 ### Full nodes
 
-*   [Fullnode (⭐197)](https://github.com/moneybutton/yours-bitcoin) - Javascript implementation of bitcoin.
+*   [Fullnode (⭐198)](https://github.com/moneybutton/yours-bitcoin) - Javascript implementation of bitcoin.
 
 ## [9. Awesome Storybook](/content/lauthieb/awesome-storybook/README.md)
 
@@ -77,11 +77,11 @@
 
 ### Colors
 
-*   [ColorKit (⭐712)](https://github.com/Boris-Em/ColorKit) - Advanced color manipulation for iOS.
+*   [ColorKit (⭐730)](https://github.com/Boris-Em/ColorKit) - Advanced color manipulation for iOS.
 
 ### Images / Barcode
 
-*   [Kanvas (⭐311)](https://github.com/tumblr/kanvas-ios) - A iOS library for adding effects, drawings, text, stickers, and making GIFs from existing media or the camera.
+*   [Kanvas (⭐315)](https://github.com/tumblr/kanvas-ios) - A iOS library for adding effects, drawings, text, stickers, and making GIFs from existing media or the camera.
 
 ## [12. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -109,8 +109,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-virtual-tree (⭐63)](https://github.com/lycHub/vue-virtual-tree) - Tree component for large amount of data, base on Vue3.
-*   [vue3-tabs-chrome (⭐99)](https://github.com/viewweiwu/vue3-tabs-chrome) - A Vue3 component for Chrome-like tabs.
+*   [vue3-tabs-chrome (⭐102)](https://github.com/viewweiwu/vue3-tabs-chrome) - A Vue3 component for Chrome-like tabs.
 
 ---
 

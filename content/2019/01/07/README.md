@@ -30,7 +30,7 @@
 
 ### Examples / Templates
 
-*   [how-to-export-cpp-library (⭐292)](https://github.com/robotology/how-to-export-cpp-library) - An OS-agnostic template project for exporting either shared, static or header-only C++ library, sporting ctest and CI support, written in plain CMake with line-by-line tutorial comments. [`[MIT]`](https://opensource.org/licenses/MIT)
+*   [how-to-export-cpp-library (⭐360)](https://github.com/robotology/how-to-export-cpp-library) - An OS-agnostic template project for exporting either shared, static or header-only C++ library, sporting ctest and CI support, written in plain CMake with line-by-line tutorial comments. [`[MIT]`](https://opensource.org/licenses/MIT)
 
 ## [4. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
@@ -42,7 +42,7 @@
 
 ### Memory Allocation
 
-*   [Boehm GC (⭐2.9k)](https://github.com/ivmai/bdwgc) - Conservative garbage collector for C and C++. \[similar to X11] [website](http://www.hboehm.info/gc/)
+*   [Boehm GC (⭐3.1k)](https://github.com/ivmai/bdwgc) - Conservative garbage collector for C and C++. \[similar to X11] [website](http://www.hboehm.info/gc/)
 
 ## [6. Awesome Ava](/content/avajs/awesome-ava/README.md)
 
@@ -60,7 +60,7 @@
 
 ### C++ / General-Purpose Machine Learning
 
-*   [Feast (⭐5.4k)](https://github.com/gojek/feast) - A feature store for the management, discovery, and access of machine learning features. Feast provides a consistent view of feature data for both model training and model serving.
+*   [Feast (⭐5.7k)](https://github.com/gojek/feast) - A feature store for the management, discovery, and access of machine learning features. Feast provides a consistent view of feature data for both model training and model serving.
 
 ---
 

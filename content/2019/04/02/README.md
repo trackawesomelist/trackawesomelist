@@ -59,7 +59,7 @@
 
 ### Platforms and toolkits
 
-*   [UralicNLP (⭐70)](https://github.com/mikahama/uralicNLP) - An open source Python library for processing morphologically rich and, for the most part, endangered Uralic languages. It can do morphological analysis, generation, lemmatization, disambiguation and lexical lookup for a great many Uralic languages.
+*   [UralicNLP (⭐72)](https://github.com/mikahama/uralicNLP) - An open source Python library for processing morphologically rich and, for the most part, endangered Uralic languages. It can do morphological analysis, generation, lemmatization, disambiguation and lexical lookup for a great many Uralic languages.
 
 ## [7. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
@@ -135,7 +135,7 @@
 
 ### Template Engine / Other
 
-*   [Rocker (⭐732)](https://github.com/fizzed/rocker) - Optimized, memory efficient and speedy template engine producing statically typed, plain objects.
+*   [Rocker (⭐742)](https://github.com/fizzed/rocker) - Optimized, memory efficient and speedy template engine producing statically typed, plain objects.
 
 ### Related Awesome Lists / Mocking
 

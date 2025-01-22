@@ -16,12 +16,12 @@
 
 ### Tools / Paid and commercially available materials
 
-*   [espflash (⭐465)](https://github.com/esp-rs/espflash) Serial flasher utility for Espressif SoCs and modules. - ![crates.io](https://img.shields.io/crates/v/espflash.svg)
-*   [espup (⭐218)](https://github.com/esp-rs/espup) Tool for installing and maintaining Espressif Rust ecosystem. - ![crates.io](https://img.shields.io/crates/v/espup.svg)
+*   [espflash (⭐516)](https://github.com/esp-rs/espflash) Serial flasher utility for Espressif SoCs and modules. - [![crates.io](https://img.shields.io/crates/v/espflash.svg)](https://crates.io/crates/espflash)
+*   [espup (⭐248)](https://github.com/esp-rs/espup) Tool for installing and maintaining Espressif Rust ecosystem. - [![crates.io](https://img.shields.io/crates/v/espup.svg)](https://crates.io/crates/espup)
 
 ### Peripheral Access Crates / Espressif
 
-*   [`esp32c2`](https://github.com/esp-rs/esp-pacs/tree/main/esp32c2) - ![crates.io](https://img.shields.io/crates/v/esp32c2.svg)
+*   [`esp32c2`](https://github.com/esp-rs/esp-pacs/tree/main/esp32c2) - [![crates.io](https://img.shields.io/crates/v/esp32c2.svg)](https://crates.io/crates/esp32c2)
 
 ## [3. Awesome V](/content/vlang/awesome-v/README.md)
 
@@ -33,7 +33,7 @@
 
 ### Machine Learning
 
-*   [ruby-openai (⭐2.7k)](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby!
+*   [ruby-openai (⭐2.8k)](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby!
 
 ## [5. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
@@ -69,15 +69,14 @@
 
 ### React Frameworks
 
-*   [next (⭐120k)](https://github.com/vercel/next.js) - The React Framework
-*   [blitz (⭐13k)](https://github.com/blitz-js/blitz) - The Missing Fullstack Toolkit for Next.js
+*   [next (⭐128k)](https://github.com/vercel/next.js) - The React Framework
 *   [gatsby (⭐55k)](https://github.com/gatsbyjs/gatsby) - Build modern websites with React
-*   [refine (⭐24k)](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints
+*   [refine (⭐29k)](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints
 
 ### React Awesome Components
 
-*   [kbar (⭐4.6k)](https://github.com/timc1/kbar) - Fast, portable, and extensible cmd+k interface for your site
-*   [tagify (⭐3.2k)](https://github.com/yairEO/tagify) - Lightweight, efficient Tags input component
+*   [kbar (⭐4.9k)](https://github.com/timc1/kbar) - Fast, portable, and extensible cmd+k interface for your site
+*   [tagify (⭐3.6k)](https://github.com/yairEO/tagify) - Lightweight, efficient Tags input component
 
 ### React Native General Resources
 

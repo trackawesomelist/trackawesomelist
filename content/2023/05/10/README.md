@@ -10,7 +10,7 @@
 
 ### Plugins
 
-*   💼 [Claymorphism (⭐19)](https://github.com/dulltackle/tailwindcss-claymorphism) - Adds `clay` utilities for creating claymorphism style.
+*   💼 [Claymorphism (⭐20)](https://github.com/dulltackle/tailwindcss-claymorphism) - Adds `clay` utilities for creating claymorphism style.
 
 ## [2. Web Development Resources](/content/markodenic/web-development-resources/README.md)
 
@@ -52,7 +52,7 @@
 
 ### Multimodal Embedding Space / Deforum
 
-*   [facebookresearch/ImageBind (⭐8.2k)](https://github.com/facebookresearch/ImageBind): ImageBind One Embedding Space to Bind Them All
+*   [facebookresearch/ImageBind (⭐8.5k)](https://github.com/facebookresearch/ImageBind): ImageBind One Embedding Space to Bind Them All
 
 ## [5. Colorful](/content/Siddharth11/Colorful/README.md)
 
@@ -69,9 +69,9 @@
 
 ## [7. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
-### Plugins and scripts / Various Godot versions
+### Plugins and scripts / Godot 4
 
-*   [Cyclops Level Builder (⭐994)](https://github.com/blackears/cyclopsLevelBuilder) - A level builder for quick prototypes and proof-of-concepts (Godot 4.x).
+*   [Cyclops Level Builder (⭐1.2k)](https://github.com/blackears/cyclopsLevelBuilder) - A level builder for quick prototypes and proof-of-concepts.
 
 ## [8. Awesome Social Enterprise](/content/RayBB/awesome-social-enterprise/README.md)
 
@@ -83,7 +83,7 @@
 
 ### Table of Contents / Streaming Library
 
-*   [Substation (⭐311)](https://github.com/brexhq/substation) \[Go] - Substation is a cloud native data pipeline and transformation toolkit written in Go.
+*   [Substation (⭐333)](https://github.com/brexhq/substation) \[Go] - Substation is a cloud native data pipeline and transformation toolkit written in Go.
 
 ---
 

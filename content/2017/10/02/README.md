@@ -10,13 +10,13 @@
 
 ### :sparkles: Tutorials
 
-*   [Using the Python scikit-learn machine learning library in Ruby using PyCall](https://www.practicalai.io/using-scikit-learn-machine-learning-library-in-ruby-using-pycall/) <sup>\[[code (⭐3)](https://github.com/daugaard/scikit-learn-from-ruby)]</sup>
+*   [Using the Python scikit-learn machine learning library in Ruby using PyCall](https://www.practicalai.io/using-scikit-learn-machine-learning-library-in-ruby-using-pycall/) <sup>\[[code (⭐4)](https://github.com/daugaard/scikit-learn-from-ruby)]</sup>
 
 ## [2. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Readline, ncurses and other graphical helpers / Third-party APIs
 
-*   [cl-readline (⭐38)](https://github.com/vindarel/cl-readline) - a set of
+*   [cl-readline (⭐40)](https://github.com/vindarel/cl-readline) - a set of
     functions to edit lines as they are typed in, to maintain a list of
     previously-entered command lines, to recall and reedit them and
     perform csh-like history expansion.  Emacs and vi editing
@@ -38,7 +38,7 @@
 
 ### Documentation
 
-*   [RDoc (⭐830)](https://github.com/ruby/rdoc) - RDoc produces HTML and command-line documentation for Ruby projects.
+*   [RDoc (⭐846)](https://github.com/ruby/rdoc) - RDoc produces HTML and command-line documentation for Ruby projects.
 
 ## [6. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
 
@@ -73,7 +73,7 @@
 
 ### Examples and funny stuff
 
-*   [crystal-patterns (⭐294)](https://github.com/crystal-community/crystal-patterns) - Examples of GOF patters
+*   [crystal-patterns (⭐296)](https://github.com/crystal-community/crystal-patterns) - Examples of GOF patters
 
 ## [11. Awesome Fonts](/content/brabadu/awesome-fonts/README.md)
 

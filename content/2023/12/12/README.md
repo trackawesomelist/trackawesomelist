@@ -10,13 +10,13 @@
 
 ### Migration
 
-*   🍰 [Upgrade/Migration Guide](https://book.cakephp.org/5/en/appendices.html) - Official migration guide.
+*   [Upgrade/Migration Guide](https://book.cakephp.org/5/en/appendices.html) - Official migration guide.
 
 ## [2. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
 ### Other Development Tools / Smart Contracts
 
-*   [puya (⭐81)](https://github.com/algorandfoundation/puya) - PuyaPy is an official Python to TEAL compiler that allows you to write code to execute on the Algorand Virtual Machine (AVM) with Python syntax.
+*   [puya (⭐93)](https://github.com/algorandfoundation/puya) - PuyaPy is an official Python to TEAL compiler that allows you to write code to execute on the Algorand Virtual Machine (AVM) with Python syntax.
 
 ## [3. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
 

@@ -41,7 +41,7 @@
 
 ### Programming fonts / Programming fonts with ligatures
 
-*   [Monoid (⭐7.6k)](https://github.com/larsenwork/monoid)
+*   [Monoid (⭐7.9k)](https://github.com/larsenwork/monoid)
 
 ## [5. Citizen Science](/content/dylanrees/citizen-science/README.md)
 

@@ -60,7 +60,7 @@
 
 ### Other Tools
 
-*   [git2r (⭐213)](https://github.com/ropensci/git2r) - Gives you programmatic access to Git repositories from R.
+*   [git2r (⭐215)](https://github.com/ropensci/git2r) - Gives you programmatic access to Git repositories from R.
 
 ## [7. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/README.md)
 

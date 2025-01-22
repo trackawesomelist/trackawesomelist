@@ -10,7 +10,7 @@
 
 ### Table of Contents / Date and Time
 
-*   [Carbon (⭐16k)](https://github.com/briannesbitt/Carbon) - A simple DateTime API extension.
+*   [Carbon (⭐17k)](https://github.com/briannesbitt/Carbon) - A simple DateTime API extension.
 
 ---
 

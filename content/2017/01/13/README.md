@@ -80,7 +80,7 @@
 
 ### Encryption
 
-*   [RbNaCl (⭐981)](https://github.com/cryptosphere/rbnacl) - Ruby binding to the Networking and Cryptography (NaCl) library.
+*   [RbNaCl (⭐983)](https://github.com/cryptosphere/rbnacl) - Ruby binding to the Networking and Cryptography (NaCl) library.
 
 ### Natural Language Processing
 
@@ -100,7 +100,7 @@
 
 ### Ruby / Data Visualization
 
-*   [Jiji (⭐237)](https://github.com/unageanu/jiji2) - Open Source Forex algorithmic trading framework using OANDA REST API.
+*   [Jiji (⭐242)](https://github.com/unageanu/jiji2) - Open Source Forex algorithmic trading framework using OANDA REST API.
 
 ## [9. Awesome Recursion Schemes](/content/passy/awesome-recursion-schemes/README.md)
 
@@ -120,7 +120,7 @@
 
 ### Boilerplates / Themes
 
-*   [Antd Admin (⭐9.4k)](https://github.com/zuiidea/antd-admin) - A admin dashboard application demo built upon Ant Design and Dva.js.
+*   [Antd Admin (⭐9.6k)](https://github.com/zuiidea/antd-admin) - A admin dashboard application demo built upon Ant Design and Dva.js.
 *   [Dva Antd Starter (⭐27)](https://github.com/xlsdg/dva-antd-starter) - Get started with Dva.js and Ant Design.
 *   [Dva Antd Mobile Starter (⭐116)](https://github.com/xlsdg/dva-antd-mobile-starter) - Get started with Dva.js and Ant Design mobile.
 

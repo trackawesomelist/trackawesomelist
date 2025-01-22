@@ -12,10 +12,6 @@
 
 *   [VueJS Hong Kong - Facebook group](https://www.facebook.com/groups/887185518120024)
 
-### Projects Using Vue.js / Open Source
-
-*   [V·oogle (⭐42)](https://github.com/VeryWow/v-oogle) - Google.com, reVued
-
 ## [2. Awesome Vapor](/content/vapor-community/awesome-vapor/README.md)
 
 ### Libraries

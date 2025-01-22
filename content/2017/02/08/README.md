@@ -22,7 +22,7 @@
 
 ### Mocking / Symfony2
 
-*   [Request Baskets (⭐336)](https://github.com/darklynx/request-baskets) - Service to collect HTTP requests and inspect them via RESTful API or web UI.
+*   [Request Baskets (⭐362)](https://github.com/darklynx/request-baskets) - Service to collect HTTP requests and inspect them via RESTful API or web UI.
 
 ## [4. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
@@ -52,7 +52,7 @@
 
 ### Game Frameworks / XML
 
-*   [Voxelman (⭐123)](https://github.com/MrSmith33/voxelman) -  Plugin-based client-server voxel game engine written in D language
+*   [Voxelman (⭐126)](https://github.com/MrSmith33/voxelman) -  Plugin-based client-server voxel game engine written in D language
 
 ## [9. Awesome Rails Gem](/content/hothero/awesome-rails-gem/README.md)
 

@@ -10,7 +10,7 @@
 
 ### Examples
 
-*   [gitroomhq/postiz-app (⭐14k)](https://github.com/gitroomhq/postiz-app#readme) - Clear description. Project Logo. Motion graphic video, explanatory gifs.
+*   [gitroomhq/postiz-app (⭐18k)](https://github.com/gitroomhq/postiz-app#readme) - Clear description. Project Logo. Motion graphic video, explanatory gifs.
 
 ## [2. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
@@ -24,13 +24,13 @@
 
 ### Images / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-smart-cropper (⭐1)](https://github.com/kurti-vdb/ngx-smart-cropper) - Angular standalone component that allows users to upload, crop, and resize images with ease. It provides intuitive drag-and-resize functionality, grid overlays, and supports various aspect ratios and output formats.
+*   [ngx-smart-cropper (⭐3)](https://github.com/kurti-vdb/ngx-smart-cropper) - Angular standalone component that allows users to upload, crop, and resize images with ease. It provides intuitive drag-and-resize functionality, grid overlays, and supports various aspect ratios and output formats.
 
 ## [3. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Programming Languages Support / Diagnostics
 
-*   [nvim-java/nvim-java (⭐945)](https://github.com/nvim-java/nvim-java) - Everything you need for a painless Java experience.
+*   [nvim-java/nvim-java (⭐1k)](https://github.com/nvim-java/nvim-java) - Everything you need for a painless Java experience.
 
 ## [4. Awesome Mysql](/content/shlomi-noach/awesome-mysql/README.md)
 
@@ -42,7 +42,7 @@
 
 ### Libraries/Packages/Scripts / Polars plugins
 
-*   [polars-h3 (⭐9)](https://github.com/Filimoa/polars-h3) - Efficient hexagonal indexing for large-scale geospatial analysis by [@Filimoa](https://github.com/Filimoa).
+*   [polars-h3 (⭐42)](https://github.com/Filimoa/polars-h3) - Efficient hexagonal indexing for large-scale geospatial analysis by [@Filimoa](https://github.com/Filimoa).
 
 ## [6. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
@@ -54,11 +54,11 @@
 
 ### Tools
 
-*   [rope (⭐5)](https://github.com/garlic0x1/rope) -  Immutable Ropes for Common Lisp. MIT.
+*   [rope (⭐6)](https://github.com/garlic0x1/rope) -  Immutable Ropes for Common Lisp. MIT.
 
 ### Iteration
 
-*   [cl-transducers](https://codeberg.org/fosskers/cl-transducers) - Ergonomic, efficient data processing. [LGPL3](https://www.gnu.org/licenses/lgpl-3.0.en.html). ([GitHub mirror (⭐110)](https://github.com/fosskers/cl-transducers))
+*   [cl-transducers](https://codeberg.org/fosskers/cl-transducers) - Ergonomic, efficient data processing. [LGPL3](https://www.gnu.org/licenses/lgpl-3.0.en.html). ([GitHub mirror (⭐117)](https://github.com/fosskers/cl-transducers))
     *   "Transducers are an ergonomic and extremely memory-efficient way to process a data source. Here “data source” means simple collections like Lists or Vectors, but also potentially large files or generators of infinite data."
     *   "It is, in general, the most complete implementation of the Transducer pattern."
     *   a "modern" API with `map`, `filter`, `take`, `repeat`, `cycle`, `fold`…
@@ -67,53 +67,17 @@
 
 ### Libraries / Date and time
 
-*   [burntSushi/jiff (⭐1.8k)](https://github.com/BurntSushi/jiff) - A date-time library for Rust that encourages you to jump into the pit of success. [![Build status](https://github.com/BurntSushi/jiff/workflows/ci/badge.svg)](https://github.com/BurntSushi/jiff/actions)
+*   [burntSushi/jiff (⭐1.9k)](https://github.com/BurntSushi/jiff) - A date-time library for Rust that encourages you to jump into the pit of success. [![Build status](https://github.com/BurntSushi/jiff/workflows/ci/badge.svg)](https://github.com/BurntSushi/jiff/actions)
 
 ## [9. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
-### Projects / API Management
-
-*   [Gravitee.io API Management (⭐205) (⭐199)](https://github.com/gravitee-io/gravitee-api-management) - A flexible, lightweight, and open-source API management solution that provides comprehensive API management capabilities and helps you manage your APIs with ease.
-*   [WSO2 API Manager (⭐859) (⭐857)](https://github.com/wso2/product-apim) - A fully open-source API management platform that provides comprehensive API management capabilities and allows you to manage APIs with ease.
-
-### Projects / API Design
-
-*   [OpenAPI Diff (⭐841) (⭐837)](https://github.com/OpenAPITools/openapi-diff) - Compare OpenAPI specs with version control and visualize the differences in HTML or Markdown format.
-*   [Zally (⭐914) (⭐908)](https://github.com/zalando/zally) - Ensure the quality of your OpenAPI specs with this linter tool that provides extensive analysis and feedback.
-
-### Projects / API Documentation
-
-*   [DapperDox (⭐410) (⭐409)](https://github.com/DapperDox/dapperdox) - An open-source API documentation generator and server for OpenAPI/Swagger specifications, with customizable documentation, automated updates, and easy sharing.
-*   [OpenAPI Explorer (⭐317) (⭐316)](https://github.com/Rhosys/openapi-explorer) - A tool for generating user interfaces from OpenAPI specifications, making it easier for software engineers to visualize and interact with APIs.
-
-### Projects / API Gateway
-
-*   [Gloo Edge (⭐15) (⭐10)](https://github.com/solo-io/gloo) - An Envoy Proxy-based API Gateway that provides advanced traffic management, security, and observability features for modern microservices architectures.
-
-### Projects / BRE
-
-*   [OpenL Tablets (⭐159) (⭐157)](https://github.com/openl-tablets/openl-tablets) - Open-source business rules engine (BRE, BRMS) and decision management system that allows users to define, manage, and execute business rules and decision tables.
-
-### Projects / Data Mapping Solution
-
-*   [JSLT (⭐639) (⭐638)](https://github.com/schibsted/jslt) - A complete query and transformation language for JSON that is inspired by jq, XPath, and XQuery. With JSLT, software engineers can quickly and easily transform JSON data to meet their needs.
-
 ### Projects / Integration Frameworks
 
-*   [Apache Camel (⭐5.6k) (⭐5.6k)](https://github.com/apache/camel) - A powerful integration framework that uses Enterprise Integration Patterns to connect and unify different transport APIs.
+*   [Apache Camel (⭐5.6k) (⭐5.7k)](https://github.com/apache/camel) - A powerful integration framework that uses Enterprise Integration Patterns to connect and unify different transport APIs.
 
 ### Projects / Messaging
 
 *   [Apache Kafka (⭐29k) (⭐29k)](https://github.com/apache/kafka) - A distributed messaging system designed for high-throughput and fault-tolerance. Enables real-time data processing and stream processing applications with its distributed architecture and efficient data storage.
-
-### Projects / Workflow engine
-
-*   [Elsa Core (⭐6.6k) (⭐6.6k)](https://github.com/elsa-workflows/elsa-core) - A library that enables workflow execution in any .NET Core application, making it easier to automate business processes in .NET environments.
-
-### Resources / Data Formats
-
-*   [NDJSON (⭐688) (⭐686)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
-*   [YAML (⭐352) (⭐349)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
 ## [10. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md)
 
@@ -126,7 +90,7 @@
 
 ### Plugins and scripts / Godot 4
 
-*   [NobodyWho (⭐29)](https://github.com/nobodywho-ooo/nobodywho) - Local large language models (LLMs) for "AI-powered" NPC dialogue.
+*   [NobodyWho (⭐118)](https://github.com/nobodywho-ooo/nobodywho) - Local large language models (LLMs) for "AI-powered" NPC dialogue.
 
 ## [12. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
 
@@ -136,4 +100,5 @@
 
 ---
 
+- Prev: [Dec 12, 2024](/content/2024/12/12/README.md)
 - Next: [Dec 10, 2024](/content/2024/12/10/README.md)

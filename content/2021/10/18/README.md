@@ -10,7 +10,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-mars3d (⭐53)](https://github.com/marsgis/mars3d-vue-template) - Vue 2.x 3D earth visualization JS development platform.
+*   [vue-mars3d (⭐57)](https://github.com/marsgis/mars3d-vue-template) - Vue 2.x 3D earth visualization JS development platform.
 
 ## [2. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
 
@@ -22,11 +22,11 @@
 
 ### Games
 
-*   [Board Games (⭐71)](https://github.com/alexyakunin/BoardGames) - ![stars](https://img.shields.io/github/stars/alexyakunin/BoardGames?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/alexyakunin/BoardGames?style=flat-square\&cacheSeconds=86400) [Fusion (⭐1.8k)](https://github.com/servicetitan/Stl.Fusion) + Blazor sample and a fully functional web app allowing you to play real-time multiplayer board games. [Demo (⭐71)](https://github.com/alexyakunin/BoardGames).
+*   [Board Games (⭐71)](https://github.com/alexyakunin/BoardGames) - ![stars](https://img.shields.io/github/stars/alexyakunin/BoardGames?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/alexyakunin/BoardGames?style=flat-square\&cacheSeconds=86400) [Fusion (⭐1.9k)](https://github.com/servicetitan/Stl.Fusion) + Blazor sample and a fully functional web app allowing you to play real-time multiplayer board games. [Demo (⭐71)](https://github.com/alexyakunin/BoardGames).
 
 ### Hybrid
 
-*   [Photino (⭐839)](https://github.com/tryphotino/photino.NET) - ![stars](https://img.shields.io/github/stars/tryphotino/photino.NET?style=flat-square\&cacheSeconds=604800\&logo=microsoft) ![last commit](https://img.shields.io/github/last-commit/tryphotino/photino.NET?style=flat-square\&cacheSeconds=86400) Build native, cross-platform desktop apps that are lighter than light. Photino is a lightweight open-source framework for building native, cross-platform desktop applications with Web UI technology.
+*   [Photino (⭐938)](https://github.com/tryphotino/photino.NET) - ![stars](https://img.shields.io/github/stars/tryphotino/photino.NET?style=flat-square\&cacheSeconds=604800\&logo=microsoft) ![last commit](https://img.shields.io/github/last-commit/tryphotino/photino.NET?style=flat-square\&cacheSeconds=86400) Build native, cross-platform desktop apps that are lighter than light. Photino is a lightweight open-source framework for building native, cross-platform desktop applications with Web UI technology.
 
 ## [4. Awesome Imba](/content/koolamusic/awesome-imba/README.md)
 
@@ -67,13 +67,13 @@
 
 ### Alert / Barcode
 
-*   [Toast-Swift (⭐465)](https://github.com/BastiaanJansen/Toast-Swift) - An easy to use library to create iOS 14 and newer style toasts.
+*   [Toast-Swift (⭐497)](https://github.com/BastiaanJansen/Toast-Swift) - An easy to use library to create iOS 14 and newer style toasts.
 
 ## [9. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / System tools
 
-*   [cantino/mcfly (⭐6.8k)](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
+*   [cantino/mcfly (⭐7k)](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
 
 ### Applications / Web
 

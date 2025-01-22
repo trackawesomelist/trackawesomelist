@@ -14,11 +14,11 @@
 
 ### C / Git
 
-*   [libVES.c (⭐35)](https://github.com/vesvault/libVES.c) - End-to-end encrypted sharing via cloud repository, secure recovery through a viral network of friends in case of key loss.
+*   [libVES.c (⭐37)](https://github.com/vesvault/libVES.c) - End-to-end encrypted sharing via cloud repository, secure recovery through a viral network of friends in case of key loss.
 
 ### JavaScript / Git
 
-*   [libVES.js (⭐7)](https://github.com/vesvault/libVES) - End-to-end encrypted sharing via cloud repository, secure recovery through a viral network of friends in case of key loss.
+*   [libVES.js (⭐8)](https://github.com/vesvault/libVES) - End-to-end encrypted sharing via cloud repository, secure recovery through a viral network of friends in case of key loss.
 
 ## [2. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
@@ -51,7 +51,7 @@
 
 ### C++ / General-Purpose Machine Learning
 
-*   [Polyaxon (⭐3.5k)](https://github.com/polyaxon/polyaxon) - A platform for reproducible and scalable machine learning and deep learning.
+*   [Polyaxon (⭐3.6k)](https://github.com/polyaxon/polyaxon) - A platform for reproducible and scalable machine learning and deep learning.
 
 ## [6. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
@@ -75,7 +75,7 @@
 
 ### Contents / Games
 
-*   [Solitaire (⭐244)](https://github.com/deven98/FlutterSolitaire) -A Solitaire clone made by [Deven Joshi](https://github.com/deven98/).
+*   [Solitaire (⭐242)](https://github.com/deven98/FlutterSolitaire) -A Solitaire clone made by [Deven Joshi](https://github.com/deven98/).
 
 ### Contents / Productivity
 
@@ -85,7 +85,7 @@
 
 ### Databases
 
-*   [MySQL (⭐2.3k)](https://github.com/shlomi-noach/awesome-mysql#readme)
+*   [MySQL (⭐2.4k)](https://github.com/shlomi-noach/awesome-mysql#readme)
 
 ## [10. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/README.md)
 
@@ -126,7 +126,7 @@
 
 ### Contents / Utilities
 
-*   [PGXN client (⭐134)](https://github.com/pgxn/pgxnclient) - Command line tool to interact with the PostgreSQL Extension Network
+*   [PGXN client (⭐138)](https://github.com/pgxn/pgxnclient) - Command line tool to interact with the PostgreSQL Extension Network
 
 ---
 

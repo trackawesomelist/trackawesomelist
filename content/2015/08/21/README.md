@@ -51,7 +51,7 @@ git rebase master feature && git checkout master && git merge -
 
 ### Table of Contents / Markup and CSS
 
-*   [HTML to Markdown (⭐1.7k)](https://github.com/thephpleague/html-to-markdown) - Converts HTML into Markdown.
+*   [HTML to Markdown (⭐1.8k)](https://github.com/thephpleague/html-to-markdown) - Converts HTML into Markdown.
 
 ## [6. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
@@ -62,7 +62,7 @@ git rebase master feature && git checkout master && git merge -
 ### Data Formats / Scala
 
 *   [RFC4627](https://tools.ietf.org/html/rfc4627) - JavaScript Object Notation (JSON).
-*   [MSGPACK (⭐6.9k)](https://github.com/msgpack/msgpack/blob/master/spec.md) - MessagePack Specification.
+*   [MSGPACK (⭐7.1k)](https://github.com/msgpack/msgpack/blob/master/spec.md) - MessagePack Specification.
 
 ### Sites & Organizations / Scala
 
@@ -72,7 +72,7 @@ git rebase master feature && git checkout master && git merge -
 
 ### Editors
 
-*   [Alchemist-Server (⭐193)](https://github.com/tonini/alchemist-server) - Editor/IDE independent background server to inform about Elixir mix projects.
+*   [Alchemist-Server (⭐192)](https://github.com/tonini/alchemist-server) - Editor/IDE independent background server to inform about Elixir mix projects.
 
 ## [8. Awesome Db](/content/numetriclabz/awesome-db/README.md)
 

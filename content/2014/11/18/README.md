@@ -10,8 +10,8 @@
 
 ### Algorithms and Data structures
 
-*   [bloomex (⭐113)](https://github.com/gmcabrita/bloomex) - A pure Elixir implementation of Scalable Bloom Filters.
-*   [murmur (⭐40)](https://github.com/gmcabrita/murmur) - A pure Elixir implementation of the non-cryptographic hash Murmur3.
+*   [bloomex (⭐112)](https://github.com/gmcabrita/bloomex) - A pure Elixir implementation of Scalable Bloom Filters.
+*   [murmur (⭐39)](https://github.com/gmcabrita/murmur) - A pure Elixir implementation of the non-cryptographic hash Murmur3.
 
 ### Authentication
 
@@ -19,7 +19,7 @@
 
 ### Documentation
 
-*   [ex\_doc (⭐1.4k)](https://github.com/elixir-lang/ex_doc) - ExDoc is a tool to generate documentation for your Elixir projects.
+*   [ex\_doc (⭐1.5k)](https://github.com/elixir-lang/ex_doc) - ExDoc is a tool to generate documentation for your Elixir projects.
 
 ### Markdown
 
@@ -31,12 +31,12 @@
 
 ### Testing
 
-*   [katt (⭐118)](https://github.com/for-GET/katt) - KATT (Klarna API Testing Tool) is an HTTP-based API testing tool for Erlang.
-*   [kovacs (⭐5)](https://github.com/antp/kovacs) - A simple ExUnit test runner.
+*   [katt (⭐119)](https://github.com/for-GET/katt) - KATT (Klarna API Testing Tool) is an HTTP-based API testing tool for Erlang.
+*   [kovacs (⭐4)](https://github.com/antp/kovacs) - A simple ExUnit test runner.
 
 ### Text and Numbers
 
-*   [hashids (⭐278)](https://github.com/alco/hashids-elixir) - Hashids lets you obfuscate numerical identifiers via reversible mapping.
+*   [hashids (⭐280)](https://github.com/alco/hashids-elixir) - Hashids lets you obfuscate numerical identifiers via reversible mapping.
 
 ### Third Party APIs
 

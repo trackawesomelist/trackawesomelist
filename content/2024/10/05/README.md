@@ -20,21 +20,21 @@
 
 ## [3. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
-### 2D / Godot 3.2+
+### 2D / Godot 3
 
-*   [ROTA (⭐210)](https://github.com/HarmonyHoney/ROTA) - Gravity-bending puzzle platformer game.
+*   [ROTA (⭐231)](https://github.com/HarmonyHoney/ROTA) - Gravity-bending puzzle platformer game.
 
 ## [4. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Reflection
 
-*   [go-deepcopy (⭐20)](https://github.com/tiendc/go-deepcopy) - Fast deep copy library.
+*   [go-deepcopy (⭐38)](https://github.com/tiendc/go-deepcopy) - Fast deep copy library.
 
 ## [5. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
 
 ### Development / Engines
 
-*   [iR Engine (⭐14)](https://github.com/ir-engine/ir-engine) - A full stack MMO engine built on three.js and bitECS with support for WebXR.
+*   [iR Engine (⭐35)](https://github.com/ir-engine/ir-engine) - A full stack MMO engine built on three.js and bitECS with support for WebXR.
 
 ## [6. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -59,11 +59,11 @@
 
 ### Carousels / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-stories (⭐15)](https://github.com/Gauravdarkslayer/ngx-stories) - An Angular component to render Instagram like stories.
+*   [ngx-stories (⭐18)](https://github.com/Gauravdarkslayer/ngx-stories) - An Angular component to render Instagram like stories.
 
 ### Markdown / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-md (⭐265)](https://github.com/dimpu/ngx-md) - Angular directive for parsing markdown content in your web application.
+*   [ngx-md (⭐266)](https://github.com/dimpu/ngx-md) - Angular directive for parsing markdown content in your web application.
 
 ### Mixed utilities / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -71,7 +71,7 @@
 
 ### Misc Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-copypaste (⭐26)](https://github.com/JsDaddy/ngx-copypaste) - A pure and awesome copy paste directive for Angular.
+*   [ngx-copypaste (⭐28)](https://github.com/JsDaddy/ngx-copypaste) - A pure and awesome copy paste directive for Angular.
 
 ## [10. Awesome Dash](/content/ucg8j/awesome-dash/README.md)
 
@@ -81,11 +81,11 @@
 
 ### Component Libraries
 
-*   [Dash PDF (⭐13)](https://github.com/ploomber/dash-pdf) - Display inline PDFs
-*   [Dash MUI (⭐8)](https://github.com/ploomber/dash-mui) - Material UI components
-*   [Dash React Simple Maps (⭐5)](https://github.com/ploomber/dash-react-simple-maps) - Create interactive maps
-*   [Dash Mosaic (⭐3)](https://github.com/ploomber/mosaic-python#dash-mosaic) - Display [Mosaic (⭐801)](https://github.com/uwdata/mosaic) plots
-*   [Dash Tabler Icons (⭐2)](https://github.com/ploomber/dash-tabler-icons) - Beautiful icons for your Dash apps
+*   [Dash PDF (⭐21)](https://github.com/ploomber/dash-pdf) - Display inline PDFs
+*   [Dash MUI (⭐14)](https://github.com/ploomber/dash-mui) - Material UI components
+*   [Dash React Simple Maps (⭐7)](https://github.com/ploomber/dash-react-simple-maps) - Create interactive maps
+*   [Dash Mosaic (⭐12)](https://github.com/ploomber/mosaic-python#dash-mosaic) - Display [Mosaic (⭐901)](https://github.com/uwdata/mosaic) plots
+*   [Dash Tabler Icons (⭐4)](https://github.com/ploomber/dash-tabler-icons) - Beautiful icons for your Dash apps
 *   [Dash React Syntax Highlighter (⭐1)](https://github.com/ploomber/dash-react-syntax-highlighter) - Display code snippets with a copy button
 
 ### Contributors
@@ -94,4 +94,5 @@
 
 ---
 
+- Prev: [Oct 06, 2024](/content/2024/10/06/README.md)
 - Next: [Oct 04, 2024](/content/2024/10/04/README.md)

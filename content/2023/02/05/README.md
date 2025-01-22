@@ -34,7 +34,7 @@
 ### Applications / Emulators
 
 *   iPod
-    *   [clicky (⭐158)](https://github.com/daniel5151/clicky) - A clickwheel iPod emulator (WIP)
+    *   [clicky (⭐172)](https://github.com/daniel5151/clicky) - A clickwheel iPod emulator (WIP)
 
 ## [5. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
 
@@ -46,7 +46,7 @@
 
 ### Software / Communication - SIP
 
-*   [Flexisip](https://www.linphone.org/technical-corner/flexisip/) - A complete, modular and scalable SIP server, includes a push gateway, to deliver SIP incoming calls or text messages on mobile device platforms where push notifications are required to receive information when the app is not active in the foreground. ([Source Code (⭐144)](https://github.com/BelledonneCommunications/flexisip)) `AGPL-3.0` `C/Docker`
+*   [Flexisip](https://www.linphone.org/technical-corner/flexisip/) - A complete, modular and scalable SIP server, includes a push gateway, to deliver SIP incoming calls or text messages on mobile device platforms where push notifications are required to receive information when the app is not active in the foreground. ([Source Code (⭐155)](https://github.com/BelledonneCommunications/flexisip)) `AGPL-3.0` `C/Docker`
 
 ## [7. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
 
@@ -197,11 +197,11 @@
 
 ## [9. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/README.md)
 
-### Transition To Pure Rigour Math / Monograph
+### Papers / Lecture Videos Playlist
 
 *   [Sommaruga & Strahm. Turing’s Revolution: The Impact of His Ideas about Computability](https://link.springer.com/book/10.1007/978-3-319-22156-4) - A collection of historical, technical and philosophical papers.
 
-### Popular Science Books / Monograph
+### Popular Science / Lecture Videos Playlist
 
 *   [Ausiello. The Making of a New Science: A Personal Journey Through the Early Years of Theoretical Computer Science](https://link.springer.com/book/10.1007/978-3-319-62680-2) - A story about people, pioneers with diverse backgrounds and characters who established a new field.
 

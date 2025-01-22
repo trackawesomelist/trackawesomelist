@@ -85,7 +85,7 @@
 
 ### Exercises and Short Examples
 
-*   [OCaml at Exercism](http://exercism.io/languages/ocaml) – Exercism is your place to engage in thoughtful conversations about code. Explore simplicity, idiomatic language features, and expressive, readable code. [Solutions (⭐91)](https://github.com/exercism/xocaml).
+*   [OCaml at Exercism](http://exercism.io/languages/ocaml) – Exercism is your place to engage in thoughtful conversations about code. Explore simplicity, idiomatic language features, and expressive, readable code. [Solutions (⭐94)](https://github.com/exercism/xocaml).
 
 ## [4. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
 
@@ -132,19 +132,19 @@
 
 ### Static Site Generation
 
-*   [Photish (⭐149)](https://github.com/henrylawson/photish) - Generate a highly configurable static website from a photo collection.
+*   [Photish (⭐150)](https://github.com/henrylawson/photish) - Generate a highly configurable static website from a photo collection.
 
 ## [8. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Image Processing
 
-*   [DotImaging (⭐314)](https://github.com/dajuric/dot-imaging) - Minimalistic .NET imaging portable platform
+*   [DotImaging (⭐313)](https://github.com/dajuric/dot-imaging) - Minimalistic .NET imaging portable platform
 
 ## [9. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
 
 ### Books
 
-*   [A gentle introduction to ROS](https://cse.sc.edu/\~jokane/agitr/agitr-letter.pdf)
+*   [A gentle introduction to ROS](https://cse.sc.edu/~jokane/agitr/agitr-letter.pdf)
 
 ## [10. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
@@ -197,7 +197,7 @@
 ### Graphic Displays
 
 *   [ggrepel (⭐1.2k)](https://github.com/slowkow/ggrepel) - Repel overlapping text labels away from each other.
-*   [ggalt (⭐648)](https://github.com/hrbrmstr/ggalt) - Extra Coordinate Systems, Geoms and Statistical Transformations for ggplot2.
+*   [ggalt (⭐666)](https://github.com/hrbrmstr/ggalt) - Extra Coordinate Systems, Geoms and Statistical Transformations for ggplot2.
 
 ## [17. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
@@ -213,7 +213,7 @@
 
 ### Images / Barcode
 
-*   [PassportScanner (⭐456)](https://github.com/evermeer/PassportScanner) - Scan the MRZ code of a passport and extract the first name, last name, passport number, nationality, date of birth, expiration date and personal number.
+*   [PassportScanner (⭐463)](https://github.com/evermeer/PassportScanner) - Scan the MRZ code of a passport and extract the first name, last name, passport number, nationality, date of birth, expiration date and personal number.
 
 ### Utility / Barcode
 
@@ -777,7 +777,7 @@
 ### C++
 
 *   [Cap’n Proto RPC](https://capnproto.org/cxxrpc.html) - The Cap’n Proto C++ RPC implementation.
-*   [Enduro/X (⭐125)](https://github.com/endurox-dev/endurox/) - XATMI based service framework for GNU/Linux.
+*   [Enduro/X (⭐129)](https://github.com/endurox-dev/endurox/) - XATMI based service framework for GNU/Linux.
 
 ### Messaging / Scala
 
@@ -867,7 +867,7 @@
 
 ### Serialization
 
-*   [cppcodec (⭐606)](https://github.com/tplgy/cppcodec) - Header-only C++11 library to encode/decode base64, base32 and hex with consistent, flexible API. \[MIT]
+*   [cppcodec (⭐632)](https://github.com/tplgy/cppcodec) - Header-only C++11 library to encode/decode base64, base32 and hex with consistent, flexible API. \[MIT]
 
 ### Miscellaneous
 
@@ -877,7 +877,7 @@
 
 ### Command Line Applications
 
-*   [table\_rex (⭐239)](https://github.com/djm/table_rex) - Generate configurable ASCII style tables for display.
+*   [table\_rex (⭐249)](https://github.com/djm/table_rex) - Generate configurable ASCII style tables for display.
 
 ### Files and Directories
 
@@ -889,7 +889,7 @@
 
 ### Utilities
 
-*   [quark (⭐323)](https://github.com/robot-overlord/quark) - A library for common functional programming idioms: combinators, currying, and partial application.
+*   [quark (⭐322)](https://github.com/robot-overlord/quark) - A library for common functional programming idioms: combinators, currying, and partial application.
 
 ## [32. Awesome Music](/content/ciconia/awesome-music/week/README.md)
 

@@ -10,11 +10,11 @@
 
 ### Libraries and Tools / C
 
-*   [dbcc (⭐334)](https://github.com/howerj/dbcc) - "dbcc is a program for converting a DBC file primarily into into C code that can serialize and deserialize CAN messages." With existing DBC files from a vehicle, this file allows you to convert them to C code that extracts the CAN messages and properties of the CAN environment.
+*   [dbcc (⭐383)](https://github.com/howerj/dbcc) - "dbcc is a program for converting a DBC file primarily into into C code that can serialize and deserialize CAN messages." With existing DBC files from a vehicle, this file allows you to convert them to C code that extracts the CAN messages and properties of the CAN environment.
 
 ### Libraries and Tools / Python
 
-*   [CanCat (⭐186)](https://github.com/atlas0fd00m/CanCat) - A "swiss-army knife" for interacting with live CAN data. Primary API interface in Python, but written in C++.
+*   [CanCat (⭐199)](https://github.com/atlas0fd00m/CanCat) - A "swiss-army knife" for interacting with live CAN data. Primary API interface in Python, but written in C++.
 
 ## [2. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 

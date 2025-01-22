@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 25 - Jul 31, 2016
 
-44 awesome lists updated this week.
+43 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -51,7 +51,7 @@
 
 ### Registry
 
-*   [npm-register (⭐481)](https://github.com/dickeyxxx/npm-register) - Easy to set up and maintain npm registry and proxy.
+*   [npm-register (⭐482)](https://github.com/dickeyxxx/npm-register) - Easy to set up and maintain npm registry and proxy.
 
 ## [8. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
@@ -116,7 +116,7 @@
 
 ### Spreadsheet / Runner
 
-*   [HANDSONTABLE (⭐19k)](https://github.com/handsontable/handsontable) - Handsontable is a JavaScript/HTML5 Spreadsheet Library for Developers
+*   [HANDSONTABLE (⭐20k)](https://github.com/handsontable/handsontable) - Handsontable is a JavaScript/HTML5 Spreadsheet Library for Developers
 
 ### Machine Learning / Runner
 
@@ -127,7 +127,7 @@
 
 ### Misc / Other
 
-*   [How to Write an Open Source JavaScript Library (⭐181)](https://github.com/sarbbottam/write-an-open-source-js-lib) - A comprehensive guide through a set of steps to publish a JavaScript open source library.
+*   [How to Write an Open Source JavaScript Library (⭐182)](https://github.com/sarbbottam/write-an-open-source-js-lib) - A comprehensive guide through a set of steps to publish a JavaScript open source library.
 
 ## [16. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
 
@@ -296,25 +296,25 @@
 ### Applications / Episodes
 
 *   [Kayak](http://kayak.2codeornot2code.org/) - Java application for CAN bus diagnosis and monitoring.
-*   [UDSim (⭐264)](https://github.com/zombieCraig/UDSim/) - GUI tool that can monitor a CAN bus and automatically learn the devices attached to it by watching communications.
+*   [UDSim (⭐296)](https://github.com/zombieCraig/UDSim/) - GUI tool that can monitor a CAN bus and automatically learn the devices attached to it by watching communications.
 *   [RomRaider](http://www.romraider.com/) - An open source tuning suite for the Subaru engine control unit that lets you view and log data and tune the ECU.
 
 ### Libraries and Tools / C
 
-*   [SocketCAN Utils (⭐2.1k)](https://github.com/linux-can/can-utils) - Userspace utilites for SocketCAN on Linux.
+*   [SocketCAN Utils (⭐2.5k)](https://github.com/linux-can/can-utils) - Userspace utilites for SocketCAN on Linux.
 
 ### Libraries and Tools / Python
 
-*   [Caring Caribou (⭐647)](https://github.com/CaringCaribou/caringcaribou/) - Intended to be the *nmap of vehicle security*.
-*   [c0f (⭐82)](https://github.com/zombieCraig/c0f/) - A fingerprinting tool for CAN communications that can be used to find a specific signal on a CAN network when testing interactions with a vehicle.
+*   [Caring Caribou (⭐769)](https://github.com/CaringCaribou/caringcaribou/) - Intended to be the *nmap of vehicle security*.
+*   [c0f (⭐87)](https://github.com/zombieCraig/c0f/) - A fingerprinting tool for CAN communications that can be used to find a specific signal on a CAN network when testing interactions with a vehicle.
 
 ### Libraries and Tools / Go
 
-*   [CANNiBUS (⭐105)](https://github.com/Hive13/CANiBUS/) - A Go server that allows a room full of researchers to simultaneously work on the same vehicle, whether for instructional purposes or team reversing sessions.
+*   [CANNiBUS (⭐112)](https://github.com/Hive13/CANiBUS/) - A Go server that allows a room full of researchers to simultaneously work on the same vehicle, whether for instructional purposes or team reversing sessions.
 
 ### Libraries and Tools / JavaScript
 
-*   [NodeJS extension to SocketCAN (⭐206)](https://github.com/sebi2k1/node-can) - Allows you to communicate over CAN networks with simple JavaScript functions.
+*   [NodeJS extension to SocketCAN (⭐226)](https://github.com/sebi2k1/node-can) - Allows you to communicate over CAN networks with simple JavaScript functions.
 *   [Tesla](https://www.tesla.com/careers/search#/filter/?keyword=security\&department=1) - Tesla hires security professionals for a variety of roles, particularly securing their vehicles.
 *   [Intrepid Control Systems](https://www.intrepidcs.com/jobs/) - Embedded security company building tools for reversing vehicles.
 *   [Rapid7](https://www.rapid7.com/company/careers.jsp) - Rapid7 does work in information, computer, and embedded security.
@@ -323,27 +323,27 @@
 ### Coordinated disclosure / JavaScript
 
 *   Security
-    *   [Application Security (⭐5.9k)](https://github.com/paragonie/awesome-appsec)
-    *   [Security (⭐11k)](https://github.com/sbilly/awesome-security)
-    *   [Capture the Flag (⭐8.9k)](https://github.com/apsdehal/awesome-ctf)
-    *   [Malware Analysis (⭐11k)](https://github.com/rshipp/awesome-malware-analysis)
-    *   [Android Security (⭐7.5k)](https://github.com/ashishb/android-security-awesome)
-    *   [Hacking (⭐12k)](https://github.com/carpedm20/awesome-hacking)
-    *   [Honeypots (⭐7.7k)](https://github.com/paralax/awesome-honeypots)
-    *   [Incident Response (⭐6.9k)](https://github.com/meirwah/awesome-incident-response)
+    *   [Application Security (⭐6.4k)](https://github.com/paragonie/awesome-appsec)
+    *   [Security (⭐13k)](https://github.com/sbilly/awesome-security)
+    *   [Capture the Flag (⭐10k)](https://github.com/apsdehal/awesome-ctf)
+    *   [Malware Analysis (⭐12k)](https://github.com/rshipp/awesome-malware-analysis)
+    *   [Android Security (⭐8.3k)](https://github.com/ashishb/android-security-awesome)
+    *   [Hacking (⭐14k)](https://github.com/carpedm20/awesome-hacking)
+    *   [Honeypots (⭐8.8k)](https://github.com/paralax/awesome-honeypots)
+    *   [Incident Response (⭐7.8k)](https://github.com/meirwah/awesome-incident-response)
 *   Meta
-    *   [awesome (⭐287k)](https://github.com/sindresorhus/awesome)
-    *   [lists (⭐9.4k)](https://github.com/jnv/lists)
+    *   [awesome (⭐342k)](https://github.com/sindresorhus/awesome)
+    *   [lists (⭐10k)](https://github.com/jnv/lists)
 
 ## [24. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/week/README.md)
 
 ### Development Projects / Apps
 
-*   [Pokemon-Showdown (⭐3.8k)](https://github.com/Zarel/Pokemon-Showdown) - Pokémon battle simulator.
+*   [Pokemon-Showdown (⭐4.8k)](https://github.com/Zarel/Pokemon-Showdown) - Pokémon battle simulator.
 
 ### Resources & Others / Wiki
 
-*   [Pokedex (⭐1.3k)](https://github.com/veekun/pokedex) - More than you ever wanted to know about Pokémon.
+*   [Pokedex (⭐1.4k)](https://github.com/veekun/pokedex) - More than you ever wanted to know about Pokémon.
 *   [Pokemon GO Wiki Guide by IGN](http://www.ign.com/wikis/pokemon-go)
 *   [Pokémon GO Wiki](https://pkmngowiki.com/)
 *   [Pokémon GO Wikipedia](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Go)
@@ -391,7 +391,7 @@
 
 ### Resources
 
-*   [jQuery guide for teams (⭐30)](https://github.com/voorhoede/jquery-style-guide) - Tips to write consistent jQuery code, easy to use and understand by your team.
+*   [jQuery guide for teams (⭐32)](https://github.com/voorhoede/jquery-style-guide) - Tips to write consistent jQuery code, easy to use and understand by your team.
 
 ## [31. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
 
@@ -421,13 +421,7 @@
 
 *   [RescueTime](https://www.rescuetime.com): Helps you understand your daily habits so you can focus and be more productive.
 
-## [34. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
-
-### Libraries / Python
-
-*   [minimongo (⭐333)](https://github.com/slacy/minimongo) - A lightweight, schemaless, Pythonic Object-Oriented interface
-
-## [35. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
+## [34. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
 
 ### Laravel
 
@@ -446,37 +440,37 @@
 
 
 
-## [36. Awesome Pyramid](/content/uralbash/awesome-pyramid/week/README.md)
+## [35. Awesome Pyramid](/content/uralbash/awesome-pyramid/week/README.md)
 
 ### Conferences
 
 *   [PloneConf 2016](https://2016.ploneconf.org/) - Boston Plone Digital Experience Conference (17\~23 Oct. 2016)
 
-## [37. Awesome Standard](/content/standard/awesome-standard/week/README.md)
+## [36. Awesome Standard](/content/standard/awesome-standard/week/README.md)
 
 ### usage stats
 
 *   **[download graphs of standard (npm-stat.com)](http://npm-stat.com/charts.html?package=standard\&author=\&from=\&to=)** - npm registry download count
 
-## [38. Awesome R](/content/qinwf/awesome-R/week/README.md)
+## [37. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### HTML Widgets
 
-*   [timevis (⭐636)](https://github.com/daattali/timevis) - Create fully interactive timeline visualizations.
+*   [timevis (⭐662)](https://github.com/daattali/timevis) - Create fully interactive timeline visualizations.
 
 ### Network Analysis
 
-*   [visNetwork (⭐524)](https://github.com/datastorm-open/visNetwork) - Using vis.js library for network visualization.
+*   [visNetwork (⭐545)](https://github.com/datastorm-open/visNetwork) - Using vis.js library for network visualization.
 
 ### Reproducible Research
 
-*   [ezknitr (⭐110)](https://github.com/daattali/ezknitr) - Avoid the typical working directory pain when using 'knitr'
+*   [ezknitr (⭐113)](https://github.com/daattali/ezknitr) - Avoid the typical working directory pain when using 'knitr'
 
-## [39. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [38. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Authentication and Authorization
 
-*   [OAuth (⭐77)](https://github.com/danielcrenna/vault/tree/master/oauth) - A very lightweight library for generating OAuth 1.0a signatures written in C#
+*   [OAuth (⭐78)](https://github.com/danielcrenna/vault/tree/master/oauth) - A very lightweight library for generating OAuth 1.0a signatures written in C#
 
 ### Distributed Computing
 
@@ -484,11 +478,11 @@
 
 ### Game
 
-*   [UrhoSharp (⭐463)](https://github.com/xamarin/urho) - UrhoSharp is a C# implementation of the Urho3D game engine that runs on iOS, Mac, Windows, Android and Linux systems
+*   [UrhoSharp (⭐465)](https://github.com/xamarin/urho) - UrhoSharp is a C# implementation of the Urho3D game engine that runs on iOS, Mac, Windows, Android and Linux systems
 
 ### Internationalization
 
-*   [MessageFormat.NET (⭐158)](https://github.com/jeffijoe/MessageFormat.NET) - ICU MessageFormat implementation in .NET lets you write contextual UI messages (PCL library)
+*   [MessageFormat.NET (⭐163)](https://github.com/jeffijoe/MessageFormat.NET) - ICU MessageFormat implementation in .NET lets you write contextual UI messages (PCL library)
 
 ### ORM
 
@@ -496,9 +490,9 @@
 
 ### Template Engine
 
-*   [Stubble (⭐397)](https://github.com/stubbleorg/stubble) - Trimmed down {{mustache}} templates in .NET. Successor of Nustache.
+*   [Stubble (⭐415)](https://github.com/stubbleorg/stubble) - Trimmed down {{mustache}} templates in .NET. Successor of Nustache.
 
-## [40. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
+## [39. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
 
 ### Learn / Tutorials
 
@@ -509,11 +503,11 @@
 *   [Reactive Programming with Cycle.js](https://vimeo.com/175121069) - by Luca Mezzalira at [JSDay 2016](http://2016.jsday.it/)
 *   [Learning how to ride: an introduction to Cycle.js](https://youtu.be/31URmaeNHSs) - by Fernando Macias Pereznieto at [JS Monthly London](http://www.meetup.com/js-monthly-london/)
 
-## [41. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [40. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Algorithms and Data structures
 
-*   [merkle\_tree (⭐97)](https://github.com/yosriady/merkle_tree) - A Merkle hash tree implementation in Elixir.
+*   [merkle\_tree (⭐96)](https://github.com/yosriady/merkle_tree) - A Merkle hash tree implementation in Elixir.
 *   [navigation\_tree (⭐2)](https://github.com/gutschilla/elixir-navigation-tree) - A navigation tree representation with helpers to generate HTML out of it.
 
 ### Build Tools
@@ -522,18 +516,18 @@
 
 ### Cryptography
 
-*   [crypto\_rsassa\_pss (⭐11)](https://github.com/potatosalad/erlang-crypto_rsassa_pss) - RSASSA-PSS Public Key Cryptographic Signature Algorithm for Erlang.
+*   [crypto\_rsassa\_pss (⭐12)](https://github.com/potatosalad/erlang-crypto_rsassa_pss) - RSASSA-PSS Public Key Cryptographic Signature Algorithm for Erlang.
 
 ### Examples and funny stuff
 
-*   [stranger (⭐66)](https://github.com/cazrin/stranger) - Elixir Phoenix app to chat anonymously with a randomly chosen stranger.
+*   [stranger (⭐67)](https://github.com/cazrin/stranger) - Elixir Phoenix app to chat anonymously with a randomly chosen stranger.
 
 ### Framework Components
 
 *   [graphql\_parser (⭐20)](https://github.com/graphql-elixir/graphql_parser) - An Elixir binding for [libgraphqlparser (⭐1.1k)](https://github.com/graphql/libgraphqlparser).
 *   [http\_router (⭐14)](https://github.com/sugar-framework/elixir-http-router) - HTTP Router with various macros to assist in developing your application and organizing your code.
 *   [plug\_fprof (⭐4)](https://github.com/obmarg/plug_fprof) - A Plug that adds fprof tracing to requests, to allow for easy profiling.
-*   [plug\_graphql (⭐126)](https://github.com/graphql-elixir/plug_graphql) - Phoenix Plug integration for [GraphQL Elixir](http://graphql-elixir.org/).
+*   [plug\_graphql (⭐125)](https://github.com/graphql-elixir/plug_graphql) - Phoenix Plug integration for [GraphQL Elixir](http://graphql-elixir.org/).
 
 ### Geolocation
 
@@ -549,10 +543,10 @@
 
 ### ORM and Datamapping
 
-*   [ecto (⭐6.1k)](https://github.com/elixir-ecto/ecto) - A database wrapper and language integrated query for Elixir.
-*   [ecto\_ordered (⭐40)](https://github.com/zovafit/ecto-ordered) - Ecto extension for ordered models.
+*   [ecto (⭐6.2k)](https://github.com/elixir-ecto/ecto) - A database wrapper and language integrated query for Elixir.
+*   [ecto\_ordered (⭐41)](https://github.com/zovafit/ecto-ordered) - Ecto extension for ordered models.
 *   [postgrex (⭐1.1k)](https://github.com/elixir-ecto/postgrex) - PostgreSQL driver for Elixir.
-*   [sql\_dust (⭐117)](https://github.com/bettyblocks/sql_dust) - Generate (complex) SQL queries using magical Elixir SQL dust.
+*   [sql\_dust (⭐118)](https://github.com/bettyblocks/sql_dust) - Generate (complex) SQL queries using magical Elixir SQL dust.
 
 ### Queue
 
@@ -582,21 +576,21 @@
 
 ### Styleguides
 
-*   [rrrene/elixir-style-guide (⭐400)](https://github.com/rrrene/elixir-style-guide) - Style guide checked by [Credo (⭐4.9k)](https://github.com/rrrene/credo).
+*   [rrrene/elixir-style-guide (⭐398)](https://github.com/rrrene/elixir-style-guide) - Style guide checked by [Credo (⭐5k)](https://github.com/rrrene/credo).
 
-## [42. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
+## [41. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### PHP / Symfony2
 
 *   [NelmioApiDocBundle (⭐2.2k)](https://github.com/nelmio/NelmioApiDocBundle) - Generate documentation for your REST API from annotations.
 
-## [43. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
+## [42. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
 
 ### Modules / Browser
 
 *   [document-ready (⭐59)](https://github.com/bendrucker/document-ready) - Document ready listener for modern browsers.
 
-## [44. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [43. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Project Generators
 

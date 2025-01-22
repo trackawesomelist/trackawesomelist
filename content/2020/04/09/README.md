@@ -22,7 +22,7 @@
 
 ### Personality
 
-- API: [Dictum (⭐159)](https://github.com/fisenkodv/dictum)
+- API: [Dictum (⭐166)](https://github.com/fisenkodv/dictum)
 
   Description: API to get access to the collection of the most inspiring expressions of mankind
 
@@ -73,7 +73,7 @@
 
 ### Packages / Miscellaneous
 
-*   [husky (⭐32k)](https://github.com/typicode/husky) - Create Git hook scripts.
+*   [husky (⭐33k)](https://github.com/typicode/husky) - Create Git hook scripts.
 
 ## [9. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 

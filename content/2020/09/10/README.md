@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 10, 2020
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -17,24 +17,24 @@
 
 ### Driver crates / Other
 
-*   [embedded-ccs811](https://crates.io/crates/embedded-ccs811) - I2C - Gas and VOC sensor driver for monitoring indoor air quality - [Intro blog post](https://blog.eldruin.com/ccs811-indoor-air-quality-sensor-driver-in-rust/) - ![crates.io](https://img.shields.io/crates/v/embedded-ccs811.svg)
+*   [embedded-ccs811](https://crates.io/crates/embedded-ccs811) - I2C - Gas and VOC sensor driver for monitoring indoor air quality - [Intro blog post](https://blog.eldruin.com/ccs811-indoor-air-quality-sensor-driver-in-rust/) - [![crates.io](https://img.shields.io/crates/v/embedded-ccs811.svg)](https://crates.io/crates/embedded-ccs811)
 
 ## [3. Awesome Coq](/content/coq-community/awesome-coq/README.md)
 
 ### Projects / Libraries
 
-*   [TLC (⭐37)](https://github.com/charguer/tlc) - Non-constructive alternative to Coq's standard library.
+*   [TLC (⭐39)](https://github.com/charguer/tlc) - Non-constructive alternative to Coq's standard library.
 
 ### Projects / Tools
 
-*   [coq2html (⭐28)](https://github.com/xavierleroy/coq2html) - Alternative HTML documentation generator for Coq.
+*   [coq2html (⭐30)](https://github.com/xavierleroy/coq2html) - Alternative HTML documentation generator for Coq.
 
 ### Projects / Type Theory and Mathematics
 
-*   [Completeness and Decidability of Modal Logic Calculi (⭐8)](https://github.com/coq-community/comp-dec-modal) - Soundness, completeness, and decidability for the logics K, K\*, CTL, and PDL.
-*   [CoqPrime (⭐38)](https://github.com/thery/coqprime) - Library for certifying primality using Pocklington and Elliptic Curve certificates.
-*   [Finmap (⭐46)](https://github.com/math-comp/finmap) - Extension of Mathematical Components with finite maps, sets, and multisets.
-*   [Gaia (⭐27)](https://github.com/coq-community/gaia) - Implementation of books from Bourbaki's Elements of Mathematics, including set theory and number theory.
+*   [Completeness and Decidability of Modal Logic Calculi (⭐9)](https://github.com/coq-community/comp-dec-modal) - Soundness, completeness, and decidability for the logics K, K\*, CTL, and PDL.
+*   [CoqPrime (⭐37)](https://github.com/thery/coqprime) - Library for certifying primality using Pocklington and Elliptic Curve certificates.
+*   [Finmap (⭐47)](https://github.com/math-comp/finmap) - Extension of Mathematical Components with finite maps, sets, and multisets.
+*   [Gaia (⭐30)](https://github.com/coq-community/gaia) - Implementation of books from Bourbaki's Elements of Mathematics, including set theory and number theory.
 
 ### Resources / Community
 
@@ -52,7 +52,7 @@
 
 ### Tools
 
-*   [Atlas toolkit (⭐251)](https://github.com/epeios-q37/atlas-python) - Very lightweight and easy to install toolkit to write in Python single-page web applications to pilot your RPi, without having to install a web server.
+*   [Atlas toolkit (⭐253)](https://github.com/epeios-q37/atlas-python) - Very lightweight and easy to install toolkit to write in Python single-page web applications to pilot your RPi, without having to install a web server.
 
 ## [5. Awesome Composer](/content/jakoch/awesome-composer/README.md)
 
@@ -64,13 +64,7 @@
 
 *   [Cloudsmith](https://cloudsmith.com/) - A fully managed package management SaaS with PHP/Composer support (and many others).
 
-## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / UI Components
-
-*   [vue-ultimate-skeleton-cards (⭐91)](https://github.com/neelansh15/vue-ultimate-skeleton-cards) - The Ultimate, fully-customizable Skeleton Card plugin for Vue 🚀
-
-## [7. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/README.md)
+## [6. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/README.md)
 
 ### Articles
 
@@ -85,7 +79,7 @@
 *   [Web Performance Warrior](https://www.oreilly.com/library/view/web-performance-warrior/9781492048114/)
 *   [Designing for Performance](http://designingforperformance.com/)
 
-## [8. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
+## [7. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 
 ### Apps
 
@@ -95,7 +89,7 @@
 
 *   [MangoHud (⭐6.1k)](https://github.com/flightlessmango/MangoHud) - Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load. \[MIT]
 
-## [9. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
+## [8. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / Health and Fitness
 
@@ -103,9 +97,9 @@
 
 ### Contents / Personalization
 
-*   [Wallbay (⭐111)](https://github.com/tsvillain/Wallbay) - Wallpaper App developed in Flutter using Pexels API by [Tekeshwar Singh](https://github.com/tsvillain).
+*   [Wallbay (⭐113)](https://github.com/tsvillain/Wallbay) - Wallpaper App developed in Flutter using Pexels API by [Tekeshwar Singh](https://github.com/tsvillain).
 
-## [10. Awesome Open Source Supporters](/content/zachflower/awesome-open-source-supporters/README.md)
+## [9. Awesome Open Source Supporters](/content/zachflower/awesome-open-source-supporters/README.md)
 
 ### Miscellaneous
 

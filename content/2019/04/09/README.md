@@ -168,19 +168,19 @@
 ### Applications
 
 *   [Pijul](https://pijul.org) - A patch-based distributed version control system
-*   [Servo (⭐27k)](https://github.com/servo/servo) - A prototype web browser engine
+*   [Servo (⭐29k)](https://github.com/servo/servo) - A prototype web browser engine
 
 ### Applications / Utilities
 
-*   [fcsonline/tmux-thumbs (⭐887)](https://github.com/fcsonline/tmux-thumbs) - A lightning fast version of tmux-fingers, copy/pasting tmux like vimium/vimperator.
+*   [fcsonline/tmux-thumbs (⭐936)](https://github.com/fcsonline/tmux-thumbs) - A lightning fast version of tmux-fingers, copy/pasting tmux like vimium/vimperator.
 
 ### Applications / Virtualization
 
-*   [firecracker-microvm/firecracker (⭐25k)](https://github.com/firecracker-microvm/firecracker) - A lightweight virtual machine for container workload [Firecracker Microvm](https://firecracker-microvm.github.io/)
+*   [firecracker-microvm/firecracker (⭐27k)](https://github.com/firecracker-microvm/firecracker) - A lightweight virtual machine for container workload [Firecracker Microvm](https://firecracker-microvm.github.io/)
 
 ### Applications / Web Servers
 
-*   [TheWaWaR/simple-http-server (⭐2.6k)](https://github.com/TheWaWaR/simple-http-server) - simple static http server
+*   [TheWaWaR/simple-http-server (⭐2.8k)](https://github.com/TheWaWaR/simple-http-server) - simple static http server
 
 ### Development tools / Debugging
 
@@ -190,7 +190,7 @@
 ### Development tools / Deployment
 
 *   Heroku
-    *   [emk/heroku-buildpack-rust (⭐519)](https://github.com/emk/heroku-buildpack-rust) - A buildpack for Rust applications on Heroku
+    *   [emk/heroku-buildpack-rust (⭐525)](https://github.com/emk/heroku-buildpack-rust) - A buildpack for Rust applications on Heroku
 
 ### Development tools / Services
 
@@ -202,7 +202,7 @@
 
 ### Libraries / Configuration
 
-*   [Kixunil/configure\_me (⭐59)](https://github.com/Kixunil/configure_me) \[[configure\_me](https://crates.io/crates/configure_me)] - library for processing application configuration easily
+*   [Kixunil/configure\_me (⭐65)](https://github.com/Kixunil/configure_me) \[[configure\_me](https://crates.io/crates/configure_me)] - library for processing application configuration easily
 
 ### Libraries / GUI
 
@@ -212,10 +212,10 @@
 ### Libraries / Network programming
 
 *   Low level
-    *   [actix/actix (⭐8.5k)](https://github.com/actix/actix) - Actor library
-    *   [dylanmckay/protocol (⭐182)](https://github.com/dylanmckay/protocol) - Custom TCP/UDP protocol definitions
-    *   [libpnet/libpnet (⭐2.2k)](https://github.com/libpnet/libpnet) - A cross-platform, low level networking
-    *   [smoltcp-rs/smoltcp (⭐3.7k)](https://github.com/smoltcp-rs/smoltcp) - A standalone, event-driven TCP/IP stack that is designed for bare-metal, real-time systems
+    *   [actix/actix (⭐8.7k)](https://github.com/actix/actix) - Actor library
+    *   [dylanmckay/protocol (⭐189)](https://github.com/dylanmckay/protocol) - Custom TCP/UDP protocol definitions
+    *   [libpnet/libpnet (⭐2.4k)](https://github.com/libpnet/libpnet) - A cross-platform, low level networking
+    *   [smoltcp-rs/smoltcp (⭐3.9k)](https://github.com/smoltcp-rs/smoltcp) - A standalone, event-driven TCP/IP stack that is designed for bare-metal, real-time systems
 
 ### Libraries / Parsing
 
@@ -225,10 +225,11 @@
 
 *   Client-side / WASM
     *   [cargo-web](https://crates.io/crates/cargo-web) - A Cargo subcommand for the client-side Web
-    *   [leptos (⭐16k)](https://github.com/leptos-rs/leptos) - Leptos is a full-stack, isomorphic web framework leveraging fine-grained reactivity to build declarative user interfaces.[![crate](https://img.shields.io/crates/v/create-rust-app.svg)](https://crates.io/crates/leptos)
+    *   [leptos (⭐17k)](https://github.com/leptos-rs/leptos) - Leptos is a full-stack, isomorphic web framework leveraging fine-grained reactivity to build declarative user interfaces.[![crate](https://img.shields.io/crates/v/create-rust-app.svg)](https://crates.io/crates/leptos)
     *   [sauron (⭐2k)](https://github.com/ivanceras/sauron) - Client side web framework which closely adheres to The Elm Architecture.
     *   [seed (⭐3.8k)](https://github.com/seed-rs/seed) - A framework for creating web apps
     *   [stdweb](https://crates.io/crates/stdweb) - A standard library for the client-side Web
+    *   [tinyweb (⭐58)](https://github.com/LiveDuo/tinyweb) - A minimal Rust web framework for wasm in 800 lines of code
     *   [yew](https://crates.io/crates/yew) - A framework for making client web apps
 
 ### Resources / Web programming
@@ -239,11 +240,11 @@
 
 ### Game Engine
 
-*   [Spring (⭐3.5k)](https://github.com/spring/spring) - A powerful free cross-platform RTS game engine. \[GPLv2/GPLv3] [website](https://springrts.com/)
+*   [Spring (⭐3.6k)](https://github.com/spring/spring) - A powerful free cross-platform RTS game engine. \[GPLv2/GPLv3] [website](https://springrts.com/)
 
 ### Reflection
 
-*   [Magic Enum (⭐4.7k)](https://github.com/Neargye/magic_enum) - Header-only C++17 library provides static reflection for enums (to string, from string, iteration), work with any enum type without any macro or boilerplate code. \[MIT]
+*   [Magic Enum (⭐5.1k)](https://github.com/Neargye/magic_enum) - Header-only C++17 library provides static reflection for enums (to string, from string, iteration), work with any enum type without any macro or boilerplate code. \[MIT]
 
 ## [7. Awesome Cross Platform Nodejs](/content/bcoe/awesome-cross-platform-nodejs/README.md)
 
@@ -268,7 +269,7 @@
 
 ## [9. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 
-### Online services
+### Online services (a-z↓)
 
 *   [Axcept](https://axcept.io) - Testing for the whole team. Up to 100 tests in parallel. Endpoint Mocking. Code Coverage.
 *   [Fluxguard](https://fluxguard.com) - Screenshot pixel and DOM change comparisons and regressions.

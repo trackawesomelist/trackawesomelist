@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 27 - Oct 03, 2021
 
-57 awesome lists updated this week.
+56 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Utils / Other Tools
 
-*   [Strawberry GraphQL (⭐3.9k)](https://github.com/strawberry-graphql/strawberry) - Python GraphQL library based on dataclasses.
+*   [Strawberry GraphQL (⭐4.1k)](https://github.com/strawberry-graphql/strawberry) - Python GraphQL library based on dataclasses.
 
 ## [2. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
 
@@ -22,13 +22,13 @@
 
 ### Open Source Rails Apps / Other external resources
 
-*   [FAE (⭐846)](https://github.com/wearefine/fae/) - A modern CMS developed by FINE (using Rails 5.2)
+*   [FAE (⭐849)](https://github.com/wearefine/fae/) - A modern CMS developed by FINE (using Rails 5.2)
 
 ## [4. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Planning Coding Resources / Learning to Code
 
-*   [Urban Informatics & Visualization-Berkeley (⭐223)](https://github.com/waddell/urban-informatics-and-visualization) - Urban Informatics and Visualization (UC Berkeley CP255) Class Jupyter Noteboom examples. Provides various resources to applied Python in planning contexts.
+*   [Urban Informatics & Visualization-Berkeley (⭐228)](https://github.com/waddell/urban-informatics-and-visualization) - Urban Informatics and Visualization (UC Berkeley CP255) Class Jupyter Noteboom examples. Provides various resources to applied Python in planning contexts.
 *   [Esri's Python For Everyone](https://www.esri.com/training/catalog/57630436851d31e02a43f13c/python-for-everyone/) - This course provides the building blocks you need to use Python. You will create and run scripts using these building blocks, and you can apply them directly inside ArcGIS and to your own workflows.
 
 ## [5. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
@@ -41,7 +41,7 @@
 
 ### Tools
 
-*   [Pimod (⭐120)](https://github.com/Nature40/pimod) - Reconfigure Raspberry Pi images with an easy, Docker-like configuration file.
+*   [Pimod (⭐127)](https://github.com/Nature40/pimod) - Reconfigure Raspberry Pi images with an easy, Docker-like configuration file.
 
 ## [7. Awesome Fantasy](/content/RichardLitt/awesome-fantasy/week/README.md)
 
@@ -73,106 +73,100 @@
 *   [PyTest MonkeyType Introduction](https://dev.to/ldrscke/type-annotate-an-existing-python-django-codebase-with-monkeytype-254i) - Type Annotate an existing Python Django Codebase with MonkeyType.
 *   [Type Check Your Django Application](https://kracekumar.com/post/type_check_your_django_app/) - An article based on two recent talks on adding type checks to Django.
 
-## [11. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
-
-### Table of Contents / Readings
-
-*   [Streaming Systems: The What, Where, When, and How of Large-Scale Data Processing](https://www.oreilly.com/library/view/streaming-systems/9781491983867/) by Reuven Lax, Slava Chernyak, and Tyler Akidau
-
-## [12. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
-
-### Books / Visualization Tools
-
-*   [Artificial Intelligence with Python - Tutorialspoint](https://www.tutorialspoint.com/artificial_intelligence_with_python/artificial_intelligence_with_python_tutorial.pdf)
-*   [Data Science at the Command Line: Facing the Future with Time-Tested Tools](https://www.oreilly.com/library/view/data-science-at/9781491947845/)
-*   [Machine Learning - CIn UFPE](https://www.cin.ufpe.br/~cavmj/Machine%20-%20Learning%20-%20Tom%20Mitchell.pdf)
-*   [Machine Learning with Python - Tutorialspoint](https://www.tutorialspoint.com/machine_learning_with_python/machine_learning_with_python_tutorial.pdf)
-
-### Bloggers / Book Deals (Affiliated) 🛍
-
-*   [Chip Huyen's Blog](https://huyenchip.com/blog/) - ML Engineering, MLOps, and the use of ML in startups
-
-## [13. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
+## [11. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
 
 ### Hacks and homebrew / Ironsworn
 
 *   [Justice Sworn](https://sandypuggames.itch.io/justice-sworn) -  Ironsworn in a side scrolling beat-em-up setting
 
-## [14. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [12. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Component bundles
 
-*   [Blazorise (⭐3.2k)](https://github.com/Megabit/Blazorise) - ![GitHub stars](https://img.shields.io/github/stars/Megabit/Blazorise?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Megabit/Blazorise?style=flat-square\&cacheSeconds=86400) Components for Blazor with support for Bootstrap, Bulma, AntDesign and Material CSS. ([Bootstrap Demo](https://bootstrapdemo.blazorise.com/)), ([Bulma Demo](https://bulmademo.blazorise.com/)), ([AntDesign Demo](https://antdesigndemo.blazorise.com/)), ([Material Demo](https://materialdemo.blazorise.com/)).
+*   [Blazorise (⭐3.3k)](https://github.com/Megabit/Blazorise) - ![GitHub stars](https://img.shields.io/github/stars/Megabit/Blazorise?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Megabit/Blazorise?style=flat-square\&cacheSeconds=86400) Components for Blazor with support for Bootstrap, Bulma, AntDesign and Material CSS. ([Bootstrap Demo](https://bootstrapdemo.blazorise.com/)), ([Bulma Demo](https://bulmademo.blazorise.com/)), ([AntDesign Demo](https://antdesigndemo.blazorise.com/)), ([Material Demo](https://materialdemo.blazorise.com/)).
 
-## [15. Machine Learning Tutorials](/content/ujjwalkarn/Machine-Learning-Tutorials/week/README.md)
+## [13. Machine Learning Tutorials](/content/ujjwalkarn/Machine-Learning-Tutorials/week/README.md)
 
 ### Introduction
 
 *   [AI/ML YouTube Courses (⭐8.6k)](https://github.com/dair-ai/ML-YouTube-Courses)
 
-## [16. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [14. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Web frameworks
 
 *   [Lad (⭐2.3k)](https://github.com/ladjs/lad) - Framework made by a former Express TC and Koa member that bundles web, API, job, and proxy servers.
 
-## [17. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
+## [15. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
 
 ### Tools
 
 *   [squest](https://hewlettpackard.github.io/squest/) - Self-service portal for Automation Controller job templates.
 
-## [18. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [16. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+
+### Books / Visualization Tools
+
+*   [Streaming Systems: The What, Where, When, and How of Large-Scale Data Processing](https://www.oreilly.com/library/view/streaming-systems/9781491983867/)
+*   [Artificial Intelligence with Python - Tutorialspoint](https://www.tutorialspoint.com/artificial_intelligence_with_python/artificial_intelligence_with_python_tutorial.pdf)
+*   [Data Science at the Command Line: Facing the Future with Time-Tested Tools](https://www.oreilly.com/library/view/data-science-at/9781491947845/)
+*   [Machine Learning with Python - Tutorialspoint](https://www.tutorialspoint.com/machine_learning_with_python/machine_learning_with_python_tutorial.pdf)
+
+### Bloggers / Book Deals (Affiliated)
+
+*   [Chip Huyen's Blog](https://huyenchip.com/blog/) - ML Engineering, MLOps, and the use of ML in startups
+
+## [17. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Time-Series Databases
 
 *   [InfluxDB](https://www.influxdata.com/) - a time series database with optimised IO and queries, supports pgsql and influx wire protocols.
 *   [QuestDB](https://questdb.io/) - high-performance, open-source SQL database for applications in financial services, IoT, machine learning, DevOps and observability.
 
-## [19. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [18. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Entertainment / Books
 
-*   [medium-cli (⭐699)](https://github.com/djadmin/medium-cli) - Read [medium.com](https://medium.com/) stories.
+*   [medium-cli (⭐713)](https://github.com/djadmin/medium-cli) - Read [medium.com](https://medium.com/) stories.
 
-### Development / Books
+### Development / Chat
 
 *   [gdb-dashboard (⭐11k)](https://github.com/cyrus-and/gdb-dashboard) - Modular visual interface for GDB.
-*   [iola (⭐148)](https://github.com/pvarentsov/iola) - Socket client with REST API.
+*   [iola (⭐153)](https://github.com/pvarentsov/iola) - Socket client with REST API.
 
 ### Productivity / Note Taking and Lists
 
-*   [nb (⭐6.3k)](https://github.com/xwmx/nb) - A note‑taking, bookmarking, archiving, and knowledge base application.
+*   [nb (⭐6.7k)](https://github.com/xwmx/nb) - A note‑taking, bookmarking, archiving, and knowledge base application.
 
 ### Utilities / Math
 
-*   [mdlt (⭐168)](https://github.com/metadelta/mdlt) - Do quick math right from the command line.
-*   [Qalculate (⭐1.6k)](https://github.com/Qalculate/libqalculate) - Calculate non-trival math expressions. Unit conversions, symbolic calculations and more.
+*   [mdlt (⭐178)](https://github.com/metadelta/mdlt) - Do quick math right from the command line.
+*   [Qalculate (⭐1.9k)](https://github.com/Qalculate/libqalculate) - Calculate non-trivial math expressions. Unit conversions, symbolic calculations and more.
 
 ### Version Control / Git
 
 *   [git commander (⭐1.1k)](https://github.com/golbin/git-commander) - Interactive git tool.
-*   [git-stats (⭐6.3k)](https://github.com/IonicaBizau/git-stats) - A local GitHub-like contributions calendar.
+*   [git-stats (⭐6.4k)](https://github.com/IonicaBizau/git-stats) - A local GitHub-like contributions calendar.
 *   [tig (⭐12k)](https://github.com/jonas/tig) - Text-mode interface for git.
 *   [grv (⭐4k)](https://github.com/rgburke/grv) - Text-mode interface for git with customisable vi bindings.
-*   [gitlab-cli (⭐262)](https://github.com/vishwanatharondekar/gitlab-cli) - Create GitLab merge requests.
+*   [gitlab-cli (⭐266)](https://github.com/vishwanatharondekar/gitlab-cli) - Create GitLab merge requests.
 *   [git-extras (⭐17k)](https://github.com/tj/git-extras) - Git utilities.
-*   [gita (⭐1.6k)](https://github.com/nosarthur/gita) - Manage multiple git repos side by side.
+*   [gita (⭐1.7k)](https://github.com/nosarthur/gita) - Manage multiple git repos side by side.
 *   [readme-md-generator (⭐11k)](https://github.com/kefranabg/readme-md-generator) - Interactively generate README.md files.
 
 ### Version Control / GitHub
 
-*   [CLI GitHub (⭐433)](https://github.com/IonicaBizau/cli-github) - Fancy GitHub client.
+*   [CLI GitHub (⭐440)](https://github.com/IonicaBizau/cli-github) - Fancy GitHub client.
 *   [hub (⭐23k)](https://github.com/github/hub) - Make git easier to use with GitHub.
-*   [git-labelmaker (⭐571)](https://github.com/himynameisdave/git-labelmaker) - Edit GitHub labels.
+*   [git-labelmaker (⭐575)](https://github.com/himynameisdave/git-labelmaker) - Edit GitHub labels.
 
 ### Images / Emoji
 
-*   [SVGO (⭐20k)](https://github.com/svg/svgo) - Optimize SVG files.
+*   [SVGO (⭐21k)](https://github.com/svg/svgo) - Optimize SVG files.
 
 ### Images / Gif Creation
 
-*   [asciinema (⭐13k)](https://github.com/asciinema/asciinema) - Terminal session recorder and companion app for asciinema.org.
+*   [asciinema (⭐14k)](https://github.com/asciinema/asciinema) - Terminal session recorder and companion app for asciinema.org.
 
 ### Images / Image Conversion
 
@@ -180,15 +174,21 @@
 
 ### Screensavers / Image Conversion
 
-*   [cmatrix (⭐3.7k)](https://github.com/Treri/cmatrix) - Scrolling 'Matrix'-like screen.
-*   [pipes.sh (⭐2.3k)](https://github.com/pipeseroni/pipes.sh) - Random pipes that grow across the screen.
-*   [YuleLog (⭐56)](https://github.com/Duroktar/YuleLog) - Christmas Yule Log fireplace.
-*   [cli-fireplace (⭐47)](https://github.com/dolsup/cli-fireplace) - Digital fireplace.
+*   [cmatrix (⭐4k)](https://github.com/Treri/cmatrix) - Scrolling 'Matrix'-like screen.
+*   [pipes.sh (⭐2.5k)](https://github.com/pipeseroni/pipes.sh) - Random pipes that grow across the screen.
+*   [YuleLog (⭐60)](https://github.com/Duroktar/YuleLog) - Christmas Yule Log fireplace.
+*   [cli-fireplace (⭐56)](https://github.com/dolsup/cli-fireplace) - Digital fireplace.
 
 ### Graphics / Image Conversion
 
-*   [cli-mandelbrot (⭐84)](https://github.com/danyshaanan/cli-mandelbrot) - Traverse the Mandelbrot fractal.
-*   [lowcharts (⭐176)](https://github.com/juan-leon/lowcharts) - Draw low-resolution graphs.
+*   [cli-mandelbrot (⭐89)](https://github.com/danyshaanan/cli-mandelbrot) - Traverse the Mandelbrot fractal.
+*   [lowcharts (⭐205)](https://github.com/juan-leon/lowcharts) - Draw low-resolution graphs.
+
+## [19. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+
+### Projects Using Vue.js / Commercial Products
+
+*   [Materio Vuetify VueJS Admin Template](https://themeselection.com/products/materio-vuetify-vuejs-admin-template/) - Most Powerful, Developer Friendly, Production ready & Comprehensive Vuetify VueJS Admin Template.
 
 ## [20. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
@@ -276,7 +276,7 @@
 
 ### Configuration
 
-*   [inifile-cpp (⭐344)](https://github.com/Rookfighter/inifile-cpp) - A header-only and easy to use Ini file parser for C++. \[MIT]
+*   [inifile-cpp (⭐378)](https://github.com/Rookfighter/inifile-cpp) - A header-only and easy to use Ini file parser for C++. \[MIT]
 
 ### Online Compiler
 
@@ -315,7 +315,7 @@
 *   [Microsoft Press: Free E-Books](https://mva.microsoft.com/ebooks)
 *   [Microsoft Technologies 1, including books on Windows Azure, SharePoint, Visual Studio Guide, Windows phone development, ASP.net, Office365, etc. collection by Eric Ligman](https://blogs.msdn.microsoft.com/mssmallbiz/2012/07/27/large-collection-of-free-microsoft-ebooks-for-you-including-sharepoint-visual-studio-windows-phone-windows-8-office-365-office-2010-sql-server-2012-azure-and-more/)
 *   [Microsoft Technologies 2, including books on Windows Azure, SharePoint, Visual Studio Guide, Windows phone development, ASP.net, etc. collection by Eric Ligman](https://blogs.msdn.microsoft.com/mssmallbiz/2012/07/30/another-large-collection-of-free-microsoft-ebooks-and-resource-kits-for-you-including-sharepoint-2013-office-2013-office-365-duet-2-0-azure-cloud-windows-phone-lync-dynamics-crm-and-more/)
-*   [Papers we love (⭐86k)](https://github.com/papers-we-love/papers-we-love)
+*   [Papers we love (⭐89k)](https://github.com/papers-we-love/papers-we-love)
 *   [Stef's Free Online Smalltalk Books](http://stephane.ducasse.free.fr/FreeBooks/)
 *   [Theassayer.org](http://theassayer.org)
 
@@ -329,12 +329,12 @@
 *   [Binary Trees](http://cslibrary.stanford.edu/110/BinaryTrees.pdf) - Nick Parlante (PDF)
 *   [Data Structures Succinctly Part 1, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/datastructurespart1) - Robert Horvick
 *   [Data Structures Succinctly Part 2, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/datastructurespart2) - Robert Horvick
-*   [Elementary Algorithms (⭐6k)](https://github.com/liuxinyu95/AlgoXY) - Larry Liu Xinyu (PDF)
+*   [Elementary Algorithms (⭐6.1k)](https://github.com/liuxinyu95/AlgoXY) - Larry Liu Xinyu (PDF)
 *   [The Kademlia Protocol Succinctly](https://www.syncfusion.com/ebooks/kademlia_protocol_succinctly) - Marc Clifton
 
 ### Artificial Intelligence
 
-*   [Introduction to Autonomous Robots (⭐1.7k)](https://github.com/correll/Introduction-to-Autonomous-Robots/releases) - Nikolaus Correll (PDF)
+*   [Introduction to Autonomous Robots (⭐1.7k)](https://github.com/correll/Introduction-to-Autonomous-Robots/releases) - Nikolaus Correll (PDF) (CC BY-NC-ND)
 
 ### Cellular Automata
 
@@ -364,8 +364,6 @@
 
 *   [An Introduction to GCC](https://web.archive.org/web/20170326232435/http://www.network-theory.co.uk/docs/gccintro/index.html) - Brian Gough *(:card\_file\_box: archived)*
 *   [Basics of Compiler Design (Anniversary Edition)](http://www.diku.dk/~torbenm/Basics/) - Torben Mogensen
-*   [Compiler Design: Theory, Tools, and Examples, C/C++ Edition](http://elvis.rowan.edu/~bergmann/books/Compiler_Design/c_cpp/Text/C_CppEd.pdf) - Seth D. Bergmann (PDF)
-*   [Compiler Design: Theory, Tools, and Examples, Java Edition](http://elvis.rowan.edu/~bergmann/books/Compiler_Design/java/CompilerDesignBook.pdf) - Seth D. Bergmann (PDF)
 *   [The ANTLR Mega Tutorial](https://tomassetti.me/antlr-mega-tutorial/)
 
 ### Computer Science
@@ -393,7 +391,7 @@
 
 ### Game Development
 
-*   [2D Game Development: From Zero To Hero (⭐217)](https://github.com/Penaz91/2DGD_F0TH) - Daniele Penazzo (HTML, [PDF, EBPUB, Kindle...](https://therealpenaz91.itch.io/2dgd-f0th#download)) *(:construction: in process)*
+*   [2D Game Development: From Zero To Hero (⭐226)](https://github.com/Penaz91/2DGD_F0TH) - Daniele Penazzo (HTML, [PDF, EBPUB, Kindle...](https://therealpenaz91.itch.io/2dgd-f0th#download)) *(:construction: in process)*
 *   [Coding With Minecraft](https://turtleappstore.com/book/) - Al Sweigart
 *   [Designing Virtual Worlds](https://mud.co.uk/richard/DesigningVirtualWorlds.pdf) - Richard A. Bartle (PDF)
 *   [Game Design with AGS](https://ensadi.github.io/AGSBook/) - Dave Ensminger, A. G. Madi
@@ -426,7 +424,7 @@
 *   [A Course in Machine Learning](http://ciml.info/dl/v0_9/ciml-v0_9-all.pdf) (PDF)
 *   [Algorithms for Reinforcement Learning](https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf) - Csaba Szepesvári (PDF)
 *   [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage)
-*   [Deep Learning for Coders with Fastai and PyTorch (⭐21k)](https://github.com/fastai/fastbook) - Jeremy Howard, Sylvain Gugger (Jupyter Notebooks)
+*   [Deep Learning for Coders with Fastai and PyTorch (⭐22k)](https://github.com/fastai/fastbook) - Jeremy Howard, Sylvain Gugger (Jupyter Notebooks)
 *   [Explorations in Parallel Distributed Processing: A Handbook of Models, Programs, and Exercises](https://web.stanford.edu/group/pdplab/pdphandbook) - James L. McClelland
 *   [IBM Machine Learning for Dummies](https://www.ibm.com/downloads/cas/GB8ZMQZ3) - Judith Hurwitz, Daniel Kirsch
 *   [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) - Christoph Molnar
@@ -436,7 +434,7 @@
 *   [Machine Learning for Data Streams](https://moa.cms.waikato.ac.nz/book-html/) - Albert Bifet, Ricard Gavaldà, Geoff Holmes, Bernhard Pfahringer
 *   [Mathematics for Machine Learning](https://gwthomas.github.io/docs/math4ml.pdf) - Garrett Thomas (PDF)
 *   [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com)
-*   [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/RLbook2020.pdf) - Richard S. Sutton, Andrew G. Barto (PDF)
+*   [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/RLbook2020.pdf) - Richard S. Sutton, Andrew G. Barto (PDF) (CC BY-NC-ND)
 *   [Speech and Language Processing (3rd Edition Draft)](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf) - Daniel Jurafsky, James H. Martin (PDF)
 *   [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/) - Trevor Hastie, Robert Tibshirani, and Jerome Friedman
 *   [The LION Way: Machine Learning plus Intelligent Optimization](https://intelligent-optimization.org/LIONbook/lionbook_3v0.pdf) - Roberto Battiti, Mauro Brunato (PDF)
@@ -479,7 +477,7 @@
 *   [Graph Theory](http://compalg.inf.elte.hu/~tony/Oktatas/TDK/FINAL/)
 *   [Introduction to Proofs](http://joshua.smcvt.edu/proofs/) - Jim Hefferon
 *   [Introduction to Real Analysis](https://digitalcommons.trinity.edu/mono/7/) - William F. Trench
-*   [Kalman and Bayesian Filters in Python (⭐16k)](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
+*   [Kalman and Bayesian Filters in Python (⭐17k)](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
 *   [Lies, Damned Lies, or Statistics: How to Tell the Truth with Statistics](https://www.poritz.net/jonathan/share/ldlos.pdf) - Jonathan A. Poritz (PDF)
 *   [Linear Algebra](http://joshua.smcvt.edu/linearalgebra/) - Jim Hefferon
 *   [Linear Algebra Done Wrong](https://www.math.brown.edu/streil/papers/LADW/LADW.html) - Sergei Treil
@@ -490,7 +488,7 @@
 *   [Mathematical Reasoning: Writing and Proof](https://www.tedsundstrom.com/mathematical-reasoning-3) - Ted Sundstrom
 *   [Non-Uniform Random Variate Generation](http://luc.devroye.org/rnbookindex.html) - Luc Devroye (PDF)
 *   [Notes on Diffy Qs](https://www.jirka.org/diffyqs/) - Jiří Lebl
-*   [Number Theory (⭐54)](https://github.com/holdenlee/number-theory) - Holden Lee MIT
+*   [Number Theory (⭐57)](https://github.com/holdenlee/number-theory) - Holden Lee MIT
 *   [Odds and Ends: Introducing Probability & Decision with a Visual Emphasis](https://jonathanweisberg.org/vip/) - Jonathan Weisberg
 *   [OpenIntro Statistics](https://www.openintro.org/stat/textbook.php) - David M. Diez, Christopher D. Barr, Mine Çetinkaya-Rundel
 *   [ORCCA: Open Resources for Community College Algebra](https://spaces.pcc.edu/pages/viewpage.action?pageId=52729944) - Portland Community College
@@ -572,10 +570,10 @@
 
 ### Operating Systems
 
-*   [How to Make a Computer Operating System (⭐21k)](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) - Samy Pesse  *(:construction: in process)*
+*   [How to Make a Computer Operating System (⭐22k)](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) - Samy Pesse  *(:construction: in process)*
 *   [Operating Systems and Middleware](https://gustavus.edu/mcs/max/os-book/) - Max Hailperin (PDF, LaTeX)
 *   [The Art of Unix Programming](http://catb.org/esr/writings/taoup/html/) - Eric S. Raymond (HTML)
-*   [UNIX Application and System Programming, lecture notes](http://www.compsci.hunter.cuny.edu/~sweiss/course_materials/unix_lecture_notes.php) - Stewart Weiss (PDF)
+*   [UNIX Application and System Programming, lecture notes](http://www.compsci.hunter.cuny.edu/~sweiss/course_materials/unix_lecture_notes.php) - Stewart Weiss (PDF) (CC BY-SA)
 
 ### Professional Development
 
@@ -598,8 +596,8 @@
 
 *   [Making Sense of Stream Processing](https://assets.confluent.io/m/2a60fabedb2dfbb1/original/20190307-EB-Making_Sense_of_Stream_Processing_Confluent.pdf) - Martin Kleppmann (PDF)
 *   [Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/content/) - Mostly Adequate Core Team
-*   [The Pure Function Pipeline Data Flow v3.0 ---- the Grand Unified Programming Theory (⭐445)](https://github.com/linpengcheng/PurefunctionPipelineDataflow) - Lin Pengcheng
-*   [Type Theory and Functional Programming](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/)
+*   [The Pure Function Pipeline Data Flow v3.0 ---- the Grand Unified Programming Theory (⭐446)](https://github.com/linpengcheng/PurefunctionPipelineDataflow) - Lin Pengcheng
+*   [Type Theory and Functional Programming](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/) - Simon Thompson
 
 ### Regular Expressions
 
@@ -611,19 +609,19 @@
 ### Reverse Engineering
 
 *   [Hacking the Xbox: An Introduction to Reverse Engineering](https://www.nostarch.com/xboxfree/) - Andrew "bunnie" Huang
-*   [iOS App Reverse Engineering (⭐4.2k)](https://github.com/iosre/iOSAppReverseEngineering) (PDF)
+*   [iOS App Reverse Engineering (⭐4.3k)](https://github.com/iosre/iOSAppReverseEngineering) - Zishe Sha (PDF)
 
 ### Search Engines
 
-*   [Elasticsearch: The Definitive Guide](https://www.elastic.co/guide/en/elasticsearch/guide/current/index.html) ([fork it on GH (⭐3.5k)](https://github.com/elastic/elasticsearch-definitive-guide))
-*   [Solr for newbies workshop (2019) (⭐78)](https://github.com/hectorcorrea/solr-for-newbies) - Hector Correa ([PDF (⭐78)](https://github.com/hectorcorrea/solr-for-newbies/blob/master/tutorial.pdf))
+*   [Elasticsearch: The Definitive Guide](https://www.elastic.co/guide/en/elasticsearch/guide/current/index.html) ([fork it on GH (⭐3.6k)](https://github.com/elastic/elasticsearch-definitive-guide))
+*   [Solr for newbies workshop (2019) (⭐80)](https://github.com/hectorcorrea/solr-for-newbies) - Hector Correa ([PDF (⭐80)](https://github.com/hectorcorrea/solr-for-newbies/blob/master/tutorial.pdf))
 
 ### Security & Privacy
 
 *   [Crypto 101 - Crypto for everyone](https://www.crypto101.io)
 *   [CryptoParty Handbook](https://unglue.it/work/141611/)
 *   [How HTTPS works](https://howhttps.works) - dnsimple
-*   [How to deal with Passwords (⭐49)](https://github.com/MHM5000/pass)
+*   [How to deal with Passwords (⭐50)](https://github.com/MHM5000/pass)
 *   [OpenSSL Cookbook](https://www.feistyduck.com/library/openssl-cookbook/)
 *   [OWASP Mobile Security Testing Guide](https://mobile-security.gitbook.io/mobile-security-testing-guide/) - Bernhard Mueller et al.
 
@@ -644,14 +642,14 @@
 *   [Shape Up - Stop Running in Circles and Ship Work that Matters](https://basecamp.com/shapeup) - Ryan Singer (PDF)
 *   [Site Reliability Engineering](https://landing.google.com/sre/book/index.html)
 *   [Source Making Design Patterns and UML](https://sourcemaking.com/design_patterns)
-*   [Test Driven Development, Extensive Tutorial (⭐359)](https://github.com/grzesiek-galezowski/tdd-ebook) - Grzegorz Gałęzowski
+*   [Test Driven Development, Extensive Tutorial (⭐362)](https://github.com/grzesiek-galezowski/tdd-ebook) - Grzegorz Gałęzowski
 *   [Web API Design](https://pages.apigee.com/rs/apigee/images/api-design-ebook-2012-03.pdf) - Brian Mulloy (PDF)
 *   [Working with Web APIs](https://launchschool.com/books/working_with_apis) - Launch School
 *   [Your API Is Bad](https://leanpub.com/yourapiisbad/read) - Paddy Foran
 
 ### Standards
 
-*   [UNIX - The POSIX Standard - IEEE Std 1003.1 (⭐191)](https://github.com/geoff-codes/posix-standard)
+*   [UNIX - The POSIX Standard - IEEE Std 1003.1 (⭐192)](https://github.com/geoff-codes/posix-standard)
 
 ### Theoretical Computer Science
 
@@ -677,7 +675,7 @@
 
 ### UI / Barcode
 
-*   [HPParallaxHeader (⭐53)](https://github.com/ngochiencse/HPParallaxHeader) - Simple parallax header for UIScrollView.
+*   [HPParallaxHeader (⭐55)](https://github.com/ngochiencse/HPParallaxHeader) - Simple parallax header for UIScrollView.
 
 ## [30. Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/week/README.md)
 
@@ -710,11 +708,11 @@
 
 ### Open source / MIT
 
-*   [hac (⭐110)](https://github.com/zertovitch/hac) - HAC Ada Compiler - a small, quick Ada compiler fully in Ada.
+*   [hac (⭐129)](https://github.com/zertovitch/hac) - HAC Ada Compiler - a small, quick Ada compiler fully in Ada.
 
 ### Editors / Apache License
 
-*   [lea (⭐22)](https://github.com/zertovitch/lea) - LEA, a Lightweight Editor for Ada, aims to provide an easy, script-world-like, "look & feel" for developing Ada projects of any size and level, while enabling access to full-scale development tools like GNAT. LEA includes HAC, the HAC Ada Compiler.
+*   [lea (⭐25)](https://github.com/zertovitch/lea) - LEA, a Lightweight Editor for Ada, aims to provide an easy, script-world-like, "look & feel" for developing Ada projects of any size and level, while enabling access to full-scale development tools like GNAT. LEA includes HAC, the HAC Ada Compiler.
 
 ### Cryptography / Apache License
 
@@ -730,7 +728,7 @@
 
 ### Admin Interface
 
-*   [MotorAdmin (⭐747)](https://github.com/motor-admin/motor-admin-rails) - A low-code Admin panel and Business Intelligence Rails engine. No DSL - configurable from the UI.
+*   [MotorAdmin (⭐771)](https://github.com/motor-admin/motor-admin-rails) - A low-code Admin panel and Business Intelligence Rails engine. No DSL - configurable from the UI.
 
 ## [36. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
 
@@ -754,11 +752,11 @@
 
 ### Application Frameworks
 
-*   [Plastic (⭐58)](https://github.com/sang-hyeon/Plastic) - Plastic provides encapsulation of things like Domain, Application Rules, Business Rules or Business Logic in Application. For this, Command pattern is used.
+*   [Plastic (⭐59)](https://github.com/sang-hyeon/Plastic) - Plastic provides encapsulation of things like Domain, Application Rules, Business Rules or Business Logic in Application. For this, Command pattern is used.
 
 ### Calendar
 
-*   [Stream (⭐59)](https://github.com/GetStream/stream-chat-net) Official .NET API client for Stream Chat, a service for building chat applications.
+*   [Stream (⭐66)](https://github.com/GetStream/stream-chat-net) Official .NET API client for Stream Chat, a service for building chat applications.
 
 ### Graphics
 
@@ -768,7 +766,7 @@
 
 ### Examples
 
-*   [xnbox/DeepfakeHTTP (⭐504)](https://github.com/xnbox/DeepfakeHTTP#readme) - Original hero section. Clear navigation. Minimalist design. Appendices.
+*   [xnbox/DeepfakeHTTP (⭐515)](https://github.com/xnbox/DeepfakeHTTP#readme) - Original hero section. Clear navigation. Minimalist design. Appendices.
 
 ## [41. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
@@ -781,14 +779,14 @@
 ### Tools
 
 *   🌍 [Flowrift](https://flowrift.com) - Beautifully designed Tailwind CSS UI blocks.
-*   💼 [clb (⭐158)](https://github.com/crswll/clb) - clb (class list builder) is a utility function that builds a class list based on a [Stitches](https://stitches.dev/) like API.
+*   💼 [clb (⭐170)](https://github.com/crswll/clb) - clb (class list builder) is a utility function that builds a class list based on a [Stitches](https://stitches.dev/) like API.
 
 ### UI Libraries, Components & Templates
 
 *   📚 [Flowbite](https://flowbite.com/docs/getting-started/introduction/) - Open-source component library built with Tailwind CSS.
-*   🧩 [Tailwind Datepicker (⭐136)](https://github.com/themesberg/tailwind-datepicker) - Adds a datepicker component built with Tailwind CSS and vanilla JavaScript.
-*   🧩 [Tailwind Typeahead (⭐20)](https://github.com/basarozcan/vue-tailwindcss-typeahead) - Typeahead/Autocomplete component built with Vue.js and Tailwind CSS.
-*   📁 [OhMySMTP Templates (⭐221)](https://github.com/ohmysmtp/templates) - Set of Transactional HTML Email Templates, built with Maizzle
+*   🧩 [Tailwind Datepicker (⭐141)](https://github.com/themesberg/tailwind-datepicker) - Adds a datepicker component built with Tailwind CSS and vanilla JavaScript.
+*   🧩 [Tailwind Typeahead (⭐21)](https://github.com/basarozcan/vue-tailwindcss-typeahead) - Typeahead/Autocomplete component built with Vue.js and Tailwind CSS.
+*   📁 [OhMySMTP Templates (⭐240)](https://github.com/ohmysmtp/templates) - Set of Transactional HTML Email Templates, built with Maizzle
 
 ## [43. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/week/README.md)
 
@@ -804,21 +802,7 @@
 
 *   [SecureFlag Knowledge Base](https://knowledge-base.secureflag.com/) - *OWASP* - A repository of information about software vulnerabilities and how to prevent them.
 
-## [44. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
-
-### Projects Using Vue.js / Open Source
-
-*   [Context Note (⭐702)](https://github.com/betterRunner/context-note) - A free open source note-taking 📝 chrome extension: take you notes on the web with their context.
-
-### Projects Using Vue.js / Commercial Products
-
-*   [Materio Vuetify VueJS Admin Template](https://themeselection.com/products/materio-vuetify-vuejs-admin-template/) - Most Powerful, Developer Friendly, Production ready & Comprehensive Vuetify VueJS Admin Template.
-
-### Components & Libraries / UI Components
-
-*   [vue-use-popperjs (⭐25)](https://github.com/iendeavor/vue-use-popperjs) - Vue 2 & 3 popper hook powered by @popperjs
-
-## [45. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [44. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Anime
 
@@ -1040,7 +1024,7 @@
 
   CORS: Yes
 
-  Call this API: [<sup>**Run in Postman**</sup>](https://god.gw.postman.com/run-collection/25426789-2b2bad08-88f4-443d-8d8c-250e3470bd25?action=collection%2Ffork\&source=rip_markdown\&collection-url=entityId%3D25426789-2b2bad08-88f4-443d-8d8c-250e3470bd25%26entityType%3Dcollection%26workspaceId%3De4d9a7d3-b961-474e-a054-51861ed481f6)
+  : 
 
 
 - API: [Econdb](https://www.econdb.com/api/)
@@ -1053,7 +1037,7 @@
 
   CORS: Yes
 
-  Call this API: 
+  : 
 
 
 - API: [FRED](https://fred.stlouisfed.org/docs/api/fred/)
@@ -1066,7 +1050,7 @@
 
   CORS: Yes
 
-  Call this API: 
+  : 
 
 
 - API: [OpenFIGI](https://www.openfigi.com/api)
@@ -1079,7 +1063,7 @@
 
   CORS: Yes
 
-  Call this API: 
+  : 
 
 
 
@@ -1099,7 +1083,7 @@
 
 ### Games & Comics
 
-- API: [Geek-Jokes (⭐102)](https://github.com/sameerkumar18/geek-joke-api)
+- API: [Geek-Jokes (⭐104)](https://github.com/sameerkumar18/geek-joke-api)
 
   Description: Fetch a random geeky/programming related joke for use in all sorts of applications
 
@@ -1507,7 +1491,7 @@
 
 ### Video
 
-- API: [Dune (⭐54)](https://github.com/ywalia01/dune-api)
+- API: [Dune (⭐60)](https://github.com/ywalia01/dune-api)
 
   Description: A simple API which provides you with book, character, movie and quotes JSON data
 
@@ -1518,7 +1502,7 @@
   CORS: Yes
 
 
-- API: [IMDbOT (⭐90)](https://github.com/SpEcHiDe/IMDbOT)
+- API: [IMDbOT (⭐98)](https://github.com/SpEcHiDe/IMDbOT)
 
   Description: Unofficial IMDb Movie / Series Information
 
@@ -1566,38 +1550,38 @@
 
 
 
-## [46. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [45. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Automation
 
-*   [Krayin](https://krayincrm.com/) - Free and Opensource Laravel CRM Application. ([Demo](https://demo.krayincrm.com/), [Source Code (⭐8.6k)](https://github.com/krayin/laravel-crm)) `MIT` `PHP`
+*   [Krayin](https://krayincrm.com/) - Free and Opensource Laravel CRM Application. ([Demo](https://demo.krayincrm.com/), [Source Code (⭐12k)](https://github.com/krayin/laravel-crm)) `MIT` `PHP`
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [QuickShare (⭐503)](https://github.com/ihexxa/quickshare) - Quick and simple file sharing between different devices. `LGPL-3.0` `Docker/Go`
+*   [QuickShare (⭐516)](https://github.com/ihexxa/quickshare) - Quick and simple file sharing between different devices. `LGPL-3.0` `Docker/Go`
 
 ### Software / Money, Budgeting & Management
 
-*   [REI3](https://rei3.de/home_en/) - Open source, expandable Business Management Software. Manage tasks, time, assets and much more. ([Demo](https://rei3.de/demo_en/), [Source Code (⭐308)](https://github.com/r3-team/r3)) `MIT` `Go`
+*   [REI3](https://rei3.de/home_en/) - Open source, expandable Business Management Software. Manage tasks, time, assets and much more. ([Demo](https://rei3.de/demo_en/), [Source Code (⭐377)](https://github.com/r3-team/r3)) `MIT` `Go`
 
-### Software / Photo and Video Galleries
+### Software / Photo Galleries
 
-*   [Mejiro (⭐162)](https://github.com/dmpop/mejiro) - An easy-to-use PHP web application for instant photo publishing. `GPL-3.0` `PHP`
+*   [Mejiro (⭐168)](https://github.com/dmpop/mejiro) - An easy-to-use PHP web application for instant photo publishing. `GPL-3.0` `PHP`
 
 ### Software / Ticketing
 
 *   [GlitchTip](https://glitchtip.com) - Open source error-tracking app. GlitchTip collects errors reported by your app. ([Source Code](https://gitlab.com/glitchtip/glitchtip)) `MIT` `Python/Docker/K8S`
 
-## [47. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [46. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / Computer Vision
 
-*   [Exadel CompreFace (⭐5k)](https://github.com/exadel-inc/CompreFace) - face recognition system that can be easily integrated into any system without prior machine learning skills. CompreFace provides REST API for face recognition, face verification, face detection, face mask detection, landmark detection, age, and gender recognition and is easily deployed with docker.
+*   [Exadel CompreFace (⭐5.8k)](https://github.com/exadel-inc/CompreFace) - face recognition system that can be easily integrated into any system without prior machine learning skills. CompreFace provides REST API for face recognition, face verification, face detection, face mask detection, landmark detection, age, and gender recognition and is easily deployed with docker.
 
 ### Python / General-Purpose Machine Learning
 
-*   [Streamlit (⭐34k)](https://github.com/streamlit/streamlit): Streamlit is an framework to create beautiful data apps in hours, not weeks.
-*   [Optuna (⭐10k)](https://github.com/optuna/optuna): Optuna is an automatic hyperparameter optimization software framework, particularly designed for machine learning.
+*   [Streamlit (⭐36k)](https://github.com/streamlit/streamlit): Streamlit is an framework to create beautiful data apps in hours, not weeks.
+*   [Optuna (⭐11k)](https://github.com/optuna/optuna): Optuna is an automatic hyperparameter optimization software framework, particularly designed for machine learning.
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
@@ -1610,56 +1594,57 @@
 *   [Teachable Machine](https://teachablemachine.withgoogle.com/) - Train Machine Learning models on the fly to recognize your own images, sounds, & poses.
 *   [Model Zoo](https://modelzoo.co/) - Discover open source deep learning code and pretrained models.
 
-## [48. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [47. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Internationalization
 
-*   [Rosetta (⭐39)](https://github.com/wout/rosetta) - A blazing fast internationalization (i18n) library with compile-time key lookup supporting YAML and JSON formats
+*   [Rosetta (⭐41)](https://github.com/wout/rosetta) - A blazing fast internationalization (i18n) library with compile-time key lookup supporting YAML and JSON formats
 
 ### Networking
 
 *   [mac-address (⭐2)](https://github.com/automatico/mac-address) - Library for working with MAC addresses
 
-## [49. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [48. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Snippet / Diagnostics
 
-*   [dcampos/nvim-snippy (⭐306)](https://github.com/dcampos/nvim-snippy) - Snippet plugin written in Lua with support for [vim-snippets (⭐4.8k)](https://github.com/honza/vim-snippets).
+*   [dcampos/nvim-snippy (⭐327)](https://github.com/dcampos/nvim-snippy) - Snippet plugin written in Lua with support for [vim-snippets (⭐4.8k)](https://github.com/honza/vim-snippets).
 
 ### Formatting / Diagnostics
 
 *   [sbdchd/neoformat (⭐2k)](https://github.com/sbdchd/neoformat) - A (Neo)vim plugin for formatting code.
 
-## [50. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [49. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Blockchain
 
-*   [rust-bitcoin (⭐2k)](https://github.com/rust-bitcoin/rust-bitcoin) - Library with support for de/serialization, parsing and executing on data structures and network messages related to Bitcoin.
+*   [rust-bitcoin (⭐2.2k)](https://github.com/rust-bitcoin/rust-bitcoin) - Library with support for de/serialization, parsing and executing on data structures and network messages related to Bitcoin.
 
 ### Applications / System tools
 
-*   [crabz (⭐323)](https://github.com/sstadick/crabz) - Multi-threaded compression and decompression CLI tool [![Build Status](https://github.com/sstadick/crabz/workflows/Check/badge.svg)](https://github.com/sstadick/crabz/actions?query=workflow%3ACheck)
+*   [crabz (⭐338)](https://github.com/sstadick/crabz) - Multi-threaded compression and decompression CLI tool [![Build Status](https://github.com/sstadick/crabz/workflows/Check/badge.svg)](https://github.com/sstadick/crabz/actions?query=workflow%3ACheck)
 
 ### Applications / Text editors
 
-*   [helix (⭐32k)](https://github.com/helix-editor/helix) - A post-modern modal text editor inspired by Neovim/Kakoune. [![build badge](https://github.com/helix-editor/helix/actions/workflows/build.yml/badge.svg)](https://github.com/helix-editor/helix/actions)
-*   [ilai-deutel/kibi (⭐1.4k)](https://github.com/ilai-deutel/kibi) - A tiny (≤1024 LOC) text editor with syntax highlighting, incremental search and more. [![build badge](https://github.com/ilai-deutel/kibi/workflows/CI/badge.svg?branch=master)](https://github.com/ilai-deutel/kibi/actions?query=branch%3Amaster)
+*   [helix (⭐35k)](https://github.com/helix-editor/helix) - A post-modern modal text editor inspired by Neovim/Kakoune. [![build badge](https://github.com/helix-editor/helix/actions/workflows/build.yml/badge.svg)](https://github.com/helix-editor/helix/actions)
+*   [ilai-deutel/kibi (⭐1.6k)](https://github.com/ilai-deutel/kibi) - A tiny (≤1024 LOC) text editor with syntax highlighting, incremental search and more. [![build badge](https://github.com/ilai-deutel/kibi/workflows/CI/badge.svg?branch=master)](https://github.com/ilai-deutel/kibi/actions?query=branch%3Amaster)
 
 ### Libraries / Compression
 
 *   gzp
-    *   [sstadick/gzp (⭐153)](https://github.com/sstadick/gzp/) - multi-threaded encoding and decoding of deflate formats and snappy
+    *   [sstadick/gzp (⭐154)](https://github.com/sstadick/gzp/) - multi-threaded encoding and decoding of deflate formats and snappy
 
 ### Libraries / Domain driven design
 
-*   [serverlesstechnology/cqrs (⭐354)](https://github.com/serverlesstechnology/cqrs) \[[cqrs-es](https://crates.io/crates/cqrs-es)] - A framework for CQRS and event sourcing with [user guide](https://doc.rust-cqrs.org/)
+*   [serverlesstechnology/cqrs (⭐392)](https://github.com/serverlesstechnology/cqrs) \[[cqrs-es](https://crates.io/crates/cqrs-es)] - A framework for CQRS and event sourcing with [user guide](https://doc.rust-cqrs.org/)
 
 ### Libraries / Game development
 
 *   [Godot](https://godotengine.org/)
-    *   [godot-rust/gdnative (⭐3.6k)](https://github.com/godot-rust/gdnative) \[[gdnative](https://crates.io/crates/gdnative)] - Bindings to the Godot game engine [![CI](https://github.com/godot-rust/gdnative/actions/workflows/full-ci.yml/badge.svg)](https://github.com/godot-rust/gdnative/actions/workflows/full-ci.yml)
+    *   [godot-rust/gdext (⭐3.3k)](https://github.com/godot-rust/gdext) \[[gdext](https://crates.io/crates/gdext)] - Bindings to the Godot 4+ game engine [![CI](https://github.com/godot-rust/gdext/actions/workflows/full-ci.yml/badge.svg)](https://github.com/godot-rust/gdext/actions/workflows/full-ci.yml)
+    *   [godot-rust/gdnative (⭐3.6k)](https://github.com/godot-rust/gdnative) \[[gdnative](https://crates.io/crates/gdnative)] - Bindings to the Godot 3+ game engine [![CI](https://github.com/godot-rust/gdnative/actions/workflows/full-ci.yml/badge.svg)](https://github.com/godot-rust/gdnative/actions/workflows/full-ci.yml)
 
-## [51. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [50. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Authentication & Identity
 
@@ -1673,7 +1658,7 @@
 
 *   [Carbone](https://carbone.io/) - JSON into PDF, DOCX, XLSX, PPTX, ODS... API.
 
-## [52. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/week/README.md)
+## [51. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/week/README.md)
 
 ### Engineering / Systems Complexity
 
@@ -1684,13 +1669,13 @@
 *   [Why it's difficult to build teams in high growth organisations](https://jchyip.medium.com/why-its-difficult-to-build-teams-in-high-growth-organisations-e1aee8446337) - Describes 3 different approach a manager can take to accommodate new people in the team: 1. Sink or Swim; 2. Split and Absorb; 3. Absorb and Split.
 *   [Building a data team at a mid-stage startup: a short story](https://erikbern.com/2021/07/07/the-data-team-a-short-story.html) - Story of a manager trying to distill the concepts of a data-driven company while growing a tiny team of 3 people. Each step covers the evolution of the technical pipeline and interactions with existing stakeholders.
 
-## [53. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
+## [52. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
 
 ### Authentication / Identifiers
 
 *   [A Child's Garden of Inter-Service Authentication Schemes](https://web.archive.org/web/20200507173734/https://latacora.micro.blog/a-childs-garden/) - In the same spirit as above, but this time at the service level.
 
-## [54. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [53. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / Database
 
@@ -1699,7 +1684,7 @@
 
 ### Modules / Editor framework
 
-*   [Denops (⭐659)](https://github.com/vim-denops/denops.vim) - 🐜 An ecosystem to write Vim/Neovim plugins with Deno.
+*   [Denops (⭐682)](https://github.com/vim-denops/denops.vim) - 🐜 An ecosystem to write Vim/Neovim plugins with Deno.
 
 ### Modules / Utils
 
@@ -1710,13 +1695,13 @@
 
 *   [graphql-tag (⭐9)](https://github.com/deno-libs/graphql-tag) - GraphQL schema AST from template literal.
 
-## [55. Awesome Libgdx](/content/rafaskb/awesome-libgdx/week/README.md)
+## [54. Awesome Libgdx](/content/rafaskb/awesome-libgdx/week/README.md)
 
 ### Resources / Setup and Deployment
 
-*   [gdx-liftoff (⭐478)](https://github.com/tommyettinger/gdx-liftoff) - A modern setup tool for libGDX that supports more backends and allows adding libraries with one click.
+*   [gdx-liftoff (⭐543)](https://github.com/tommyettinger/gdx-liftoff) - A modern setup tool for libGDX that supports more backends and allows adding libraries with one click.
 
-## [56. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [55. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Design and UI
 
@@ -1754,7 +1739,7 @@
 *   [Components.studio](https://webcomponents.dev/) - Code components in isolation, visualize them in stories, test them, and publish them on npm.
 *   [WebComponents.dev](https://webcomponents.dev/) — In-browser IDE to code web components in isolation with 58 templates available, supporting stories, and tests.
 
-## [57. Awesome Scala Native](/content/tindzk/awesome-scala-native/week/README.md)
+## [56. Awesome Scala Native](/content/tindzk/awesome-scala-native/week/README.md)
 
 ### Bindings
 

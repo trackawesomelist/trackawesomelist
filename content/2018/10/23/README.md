@@ -10,18 +10,18 @@
 
 ### Extensions
 
-*   [next-mdx-blog (⭐72)](https://github.com/hipstersmoothie/next-mdx-blog) - Easily add a blog to any next.js based project
+*   [next-mdx-blog (⭐74)](https://github.com/hipstersmoothie/next-mdx-blog) - Easily add a blog to any next.js based project
 
 ## [2. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Dashboards
 
-*   [Blazer (⭐4.5k)](https://github.com/ankane/blazer) - Simple data viewer using only SQL. Output to table, chart, and maps.
+*   [Blazer (⭐4.6k)](https://github.com/ankane/blazer) - Simple data viewer using only SQL. Output to table, chart, and maps.
 
 ### Measurements
 
-*   [Measured (⭐335)](https://github.com/Shopify/measured) - Wrapper objects which encapsulate measurements and their associated units in Ruby.
-*   [Ruby Units (⭐516)](https://github.com/olbrich/ruby-units) - Provides classes and methods to perform unit math and conversions.
+*   [Measured (⭐364)](https://github.com/Shopify/measured) - Wrapper objects which encapsulate measurements and their associated units in Ruby.
+*   [Ruby Units (⭐531)](https://github.com/olbrich/ruby-units) - Provides classes and methods to perform unit math and conversions.
 
 ## [3. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
@@ -80,11 +80,11 @@
 
 ### UI / Barcode
 
-*   [DockProgress (⭐1.2k)](https://github.com/sindresorhus/DockProgress) - Show progress in your macOS app's Dock icon.
+*   [DockProgress (⭐1.3k)](https://github.com/sindresorhus/DockProgress) - Show progress in your macOS app's Dock icon.
 
 ### Walkthrough / Barcode
 
-*   [OnboardKit (⭐529)](https://github.com/NikolaKirev/OnboardKit) - Customisable user onboarding for your iOS app.
+*   [OnboardKit (⭐539)](https://github.com/NikolaKirev/OnboardKit) - Customisable user onboarding for your iOS app.
 
 ## [9. Awesome Xamarin](/content/XamSome/awesome-xamarin/README.md)
 
@@ -187,11 +187,11 @@
 
 ### Standalone / Hash functions
 
-*   [sops (⭐16k)](https://github.com/mozilla/sops) - sops is an editor of encrypted files that supports YAML, JSON and BINARY formats and encrypts with AWS KMS, GCP KMS, Azure Key Vault and PGP.
+*   [sops (⭐17k)](https://github.com/mozilla/sops) - sops is an editor of encrypted files that supports YAML, JSON and BINARY formats and encrypts with AWS KMS, GCP KMS, Azure Key Vault and PGP.
 
 ### Java / Git
 
-*   [securitybuilder (⭐43)](https://github.com/tersesystems/securitybuilder) - Fluent Builder API for JCA/JSSE objects.
+*   [securitybuilder (⭐46)](https://github.com/tersesystems/securitybuilder) - Fluent Builder API for JCA/JSSE objects.
 
 ## [13. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
 
@@ -214,7 +214,7 @@
 
 ### Software / Video Surveillance
 
-*   [Zoneminder](https://www.zoneminder.com/) - Closed-circuit television (CCTV) software application which supports IP, USB and Analog cameras. ([Source Code (⭐5k)](https://github.com/ZoneMinder/ZoneMinder)) `GPL-2.0` `PHP/deb`
+*   [Zoneminder](https://www.zoneminder.com/) - Closed-circuit television (CCTV) software application which supports IP, USB and Analog cameras. ([Source Code (⭐5.3k)](https://github.com/ZoneMinder/ZoneMinder)) `GPL-2.0` `PHP/deb`
 
 ---
 

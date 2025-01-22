@@ -12,27 +12,27 @@
 
 *   [Builtwithelm](http://builtwithelm.co/) - Web site built with elm with list of projects and apps built with Elm.
 *   [Elm SPA Example](http://rtfeldman.github.io/elm-spa-example/) - Full stack Elm app w/ CRUD operations, Auth, routing, pagination and more. [Code (⭐3.3k)](https://github.com/rtfeldman/elm-spa-example) / [Article](https://dev.to/rtfeldman/tour-of-an-open-source-elm-spa) / [Video](https://youtu.be/RN2_NchjrJQ)
-*   [Elm Example App (⭐436)](https://github.com/sporto/elm-example-app) - A small SPA example in Elm to learn the basics
+*   [Elm Example App (⭐437)](https://github.com/sporto/elm-example-app) - A small SPA example in Elm to learn the basics
 *   [TodoMVC (⭐1.2k)](https://github.com/evancz/elm-todomvc) - Proper implementation of the TodoMVC app.
-*   [TodoMVC with JSON API (⭐105)](https://github.com/andrewsuzuki/elm-todo-rest-api) - Bare-bones, modular, heavily-documented todo app with JSON API persistence.
+*   [TodoMVC with JSON API (⭐104)](https://github.com/andrewsuzuki/elm-todo-rest-api) - Bare-bones, modular, heavily-documented todo app with JSON API persistence.
 *   [TodoMVC/Firebase (⭐60)](https://github.com/ThomasWeiser/todomvc-elmfire) - Fork of TodoMVC demonstrating start-app, [The Elm Architecture (⭐4.2k)](https://github.com/evancz/elm-architecture-tutorial) and Firebase as backend.
 *   [TodoMVC in Electron (⭐87)](https://github.com/nirgn975/Elmctron) -  Documented and tested implementation of the Elm TodoMVC app in Electron.
-*   [Gipher (⭐223)](https://github.com/matthieu-beteille/gipher) - A Tinder-like application for gifs built with elm and firebase!
-*   [Collection of examples (⭐210)](https://github.com/halfzebra/elm-examples) - A collection of examples with advanced techniques for real-world Elm apps.
-*   [\<elm-ement> (⭐50)](https://github.com/ohanhi/elm-ement) – Minimal example of a custom element.
+*   [Gipher (⭐222)](https://github.com/matthieu-beteille/gipher) - A Tinder-like application for gifs built with elm and firebase!
+*   [Collection of examples (⭐211)](https://github.com/halfzebra/elm-examples) - A collection of examples with advanced techniques for real-world Elm apps.
+*   [\<elm-ement> (⭐49)](https://github.com/ohanhi/elm-ement) – Minimal example of a custom element.
 *   [Elm Playground](http://elm-playground.maciejsmolinski.com/) - Tiny Elm projects implemented for the sake of learning by example.
 *   [Elm Architecture in Android (⭐59)](https://github.com/glung/elm-architecture-android) - An example Android application implemented with the Elm Architecture using the Kotlin programming language and Anko library.
-*   [Elm + Phoenix + Webpack (⭐55)](https://github.com/ronanyeah/elm-phoenix-example) - A minimal Elm + Phoenix setup, using webpack instead of Brunch.
-*   [Spotify Mapper (⭐64)](https://github.com/FidelisClayton/elm-spotify-mapper) - Elm app integrated with Spotify Api to search and explore new artists.
+*   [Elm + Phoenix + Webpack (⭐56)](https://github.com/ronanyeah/elm-phoenix-example) - A minimal Elm + Phoenix setup, using webpack instead of Brunch.
+*   [Spotify Mapper (⭐65)](https://github.com/FidelisClayton/elm-spotify-mapper) - Elm app integrated with Spotify Api to search and explore new artists.
 *   [Pokelmon (⭐15)](https://github.com/brenopanzolini/pokelmon) - Elm project consuming PokéAPI.
 *   [JWT auth with Django + Elm (⭐20)](https://github.com/apirobot/django-elm-auth-with-jwt) - JSON Web Token (JWT) authentication using Django (backend) and Elm (frontend).
 *   [Bitcoin BR Chrome Extension (⭐4)](https://github.com/jouderianjr/bitcoin-br-chrome-extension) - Chrome extension built in Elm that shows the bitcoin value in all Brazilian exchanges.
 *   [Elmstagram (⭐18)](https://github.com/bkbooth/Elmstagram) - Basic UI Clone of Instagram / Articles - [Part 1](https://benbooth.dev/building-a-basic-ui-clone-of-instagram-using-elm-part-1/) [Part 2](https://benbooth.dev/building-a-basic-ui-clone-of-instagram-using-elm-part-2/) [Part 3](https://benbooth.dev/building-a-basic-ui-clone-of-instagram-using-elm-part-3/)
-*   [Kanban Board in Elm (⭐300)](https://github.com/huytd/kanelm) - A kanban board (trello-alike) built with Elm and HTML5 Drag & Drop API
+*   [Kanban Board in Elm (⭐302)](https://github.com/huytd/kanelm) - A kanban board (trello-alike) built with Elm and HTML5 Drag & Drop API
 *   [Elm Playground](https://ccamel.github.io/playground-elm/index.html) - Pure SPA (with routing) exploring various aspects of Elm.
 *   [Elm Hacker News PWA (⭐1)](https://github.com/elmariofredo/elm-hn-pwa) - A progressive web app built with Elm version 0.18, using the official Hacker-News API
-*   [Elm Narrative Engine (⭐132)](https://github.com/jschomay/elm-narrative-engine) - A framework for building interactive fiction style stories in Elm. Detailed example [elmnarrativeengine.com](http://elmnarrativeengine.com) shows how to build a "chose your own adventure" game; perfect for beginners. **Elm v.0.19**
-*   [Ari's Garden (⭐55)](https://github.com/theiceshelf/arisgarden) - A recipe [site](https://arisgarden.theiceshelf.com/) built as an SPA that also makes use of the Elm parser.
+*   [Elm Narrative Engine (⭐135)](https://github.com/jschomay/elm-narrative-engine) - A framework for building interactive fiction style stories in Elm. Detailed example [elmnarrativeengine.com](http://elmnarrativeengine.com) shows how to build a "chose your own adventure" game; perfect for beginners. **Elm v.0.19**
+*   [Ari's Garden (⭐54)](https://github.com/theiceshelf/arisgarden) - A recipe [site](https://arisgarden.theiceshelf.com/) built as an SPA that also makes use of the Elm parser.
 
 ## [2. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
@@ -58,11 +58,11 @@
 
 ### Driver crates / WIP
 
-*   [MAX17048/9](https://crates.io/crates/max17048) - I2C - LiPo Fuel gauge, battery monitoring IC - ![crates.io](https://img.shields.io/crates/v/max17048.svg)
+*   [MAX17048/9](https://crates.io/crates/max17048) - I2C - LiPo Fuel gauge, battery monitoring IC - [![crates.io](https://img.shields.io/crates/v/max17048.svg)](https://crates.io/crates/max17048)
 
 ### no-std crates / WIP
 
-*   [debouncr](https://crates.io/crates/debouncr): A simple no-std input debouncer to detect rising/falling edges with minimal RAM requirements. ![crates.io](https://img.shields.io/crates/v/debouncr.svg)
+*   [debouncr](https://crates.io/crates/debouncr): A simple no-std input debouncer to detect rising/falling edges with minimal RAM requirements. [![crates.io](https://img.shields.io/crates/v/debouncr.svg)](https://crates.io/crates/debouncr)
 
 ## [6. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
@@ -75,19 +75,19 @@
 
 ### Parsers :mag: / Editor's Draft :black_nib:
 
-*   [CSSOM (⭐721)](https://github.com/NV/CSSOM) - CSS Object Model implemented in pure JavaScript.
-*   [CSSTree (⭐1.5k)](https://github.com/csstree/csstree) - Detailed CSS parser with syntax validator.
-*   [Gonzales PE (⭐320)](https://github.com/tonyganch/gonzales-pe) - CSS parser with support for preprocessors.
-*   [ParserLib (⭐283)](https://github.com/CSSLint/parser-lib) - CSSLint/parser-lib.
+*   [CSSOM (⭐752)](https://github.com/NV/CSSOM) - CSS Object Model implemented in pure JavaScript.
+*   [CSSTree (⭐1.9k)](https://github.com/csstree/csstree) - Detailed CSS parser with syntax validator.
+*   [Gonzales PE (⭐330)](https://github.com/tonyganch/gonzales-pe) - CSS parser with support for preprocessors.
+*   [ParserLib (⭐287)](https://github.com/CSSLint/parser-lib) - CSSLint/parser-lib.
 *   [Rework (⭐2.8k)](https://github.com/reworkcss/rework) - Plugin framework for CSS preprocessing in Node.js.
-*   [Stylecow (⭐154)](https://github.com/stylecow/stylecow) - Modern CSS for all browsers.
+*   [Stylecow (⭐163)](https://github.com/stylecow/stylecow) - Modern CSS for all browsers.
 
 ### Preprocessors :pill: / Editor's Draft :black_nib:
 
-*   [PostCSS (⭐27k)](https://github.com/postcss/postcss) - Transforming CSS with JS plugins.
+*   [PostCSS (⭐29k)](https://github.com/postcss/postcss) - Transforming CSS with JS plugins.
 *   [LESS (⭐17k)](https://github.com/less/less.js) - Backwards compatible with CSS, and the extra features it adds use existing CSS syntax.
-*   [Sass (⭐14k)](https://github.com/sass/sass) - Mature, stable, and powerful professional-grade CSS extension language.
-*   [STYLIS (⭐1.5k)](https://github.com/thysultan/stylis.js) - Light-weight CSS preprocessor.
+*   [Sass (⭐15k)](https://github.com/sass/sass) - Mature, stable, and powerful professional-grade CSS extension language.
+*   [STYLIS (⭐1.7k)](https://github.com/thysultan/stylis.js) - Light-weight CSS preprocessor.
 *   [Stylus](http://learnboost.github.io/stylus/) - Expressive, robust, feature-rich CSS language built for NodeJs.
 
 ### Frameworks :art: / Editor's Draft :black_nib:
@@ -104,9 +104,9 @@
 *   [Milligram](http://milligram.io) - A minimalist CSS framework.
 *   [Pure.css](http://purecss.io/) - A set of small, responsive CSS modules that you can use in every web project.
 *   [Semantic UI](http://semantic-ui.com/) - Powerful framework that uses human-friendly HTML.
-*   [Shorthand Framework (⭐251)](https://github.com/shorthandcss/shorthand) - Feature rich CSS framework for the new decade.
+*   [Shorthand Framework (⭐256)](https://github.com/shorthandcss/shorthand) - Feature rich CSS framework for the new decade.
 *   [Spectre.css](https://picturepan2.github.io/spectre/index.html) - A lightweight, responsive and modern CSS framework.
-*   [Strawberry (⭐74)](https://github.com/jfet97/strawberry) - A set of common flexbox utilities focused on making your life easier and faster with nested flexboxes.
+*   [Strawberry (⭐73)](https://github.com/jfet97/strawberry) - A set of common flexbox utilities focused on making your life easier and faster with nested flexboxes.
 *   [Tachyons](http://tachyons.io/) - Functional CSS for humans.
 *   [Tacit](https://yegor256.github.io/tacit/) - CSS framework for dummies with zero skills in graphic design.
 *   [UIkit](http://getuikit.com/) - A lightweight and modular front-end framework.
@@ -115,7 +115,6 @@
 ### Toolkits :wrench: / Editor's Draft :black_nib:
 
 *   [Bourbon](http://bourbon.io/) - A simple and lightweight mixin library for Sass.
-*   [Susy](https://www.oddbird.net/susy/) - Responsive layout toolkit for Sass.
 
 ### CSS Development at Large-Scale Websites / Editor's Draft :black_nib:
 
@@ -154,7 +153,7 @@
 
 ### CSS in JS / Editor's Draft :black_nib:
 
-*   [JSS (⭐6.8k)](https://github.com/cssinjs/jss)
+*   [JSS (⭐7.1k)](https://github.com/cssinjs/jss)
 
 ### CSS Polyfills / Editor's Draft :black_nib:
 
@@ -163,8 +162,8 @@
 ### Miscellaneous / Editor's Draft :black_nib:
 
 *   [Can I use](https://caniuse.com/) - Browser support for CSS, HTML5 and other front-end web technologies.
-*   [Live editor for CSS and LESS (⭐201)](https://github.com/webextensions/live-css-editor) - Magic CSS extension for Chrome, Firefox and Edge.
-*   [RevengeCSS (⭐721)](https://github.com/Heydon/REVENGE.CSS) - A CSS bookmarklet that uses selectors to find bad markup, displaying ugly pink error messages in comic sans serif wherever you write bad HTML
+*   [Live editor for CSS and LESS (⭐276)](https://github.com/webextensions/live-css-editor) - Magic CSS extension for Chrome, Firefox and Edge.
+*   [RevengeCSS (⭐834)](https://github.com/Heydon/REVENGE.CSS) - A CSS bookmarklet that uses selectors to find bad markup, displaying ugly pink error messages in comic sans serif wherever you write bad HTML
 
 ### Podcasts :radio: / Editor's Draft :black_nib:
 
@@ -201,7 +200,7 @@
 ### Building Teams
 
 *   [What Google Learned From Its Quest to Build the Perfect Team](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html) - “Google's data indicated that psychological safety, more than anything else, was critical to making a team work. (…) The behaviors that create psychological safety — conversational turn-taking and empathy — are part of the same unwritten rules we often turn to, as individuals, when we need to establish a bond.”
-*   [Paper we love: Software Engineering Organizations (⭐85k)](https://github.com/papers-we-love/papers-we-love/tree/master/software_engineering_orgs) - “The practice of software engineering, and its history is, itself, a complex study in humanity, coordination, and communication.”
+*   [Paper we love: Software Engineering Organizations (⭐88k)](https://github.com/papers-we-love/papers-we-love/tree/master/software_engineering_orgs) - “The practice of software engineering, and its history is, itself, a complex study in humanity, coordination, and communication.”
 *   [Developer Tropes: "Google does it"](https://tomaytotomato.com/developer-tropes-2/) - It's [cargo-cultish](https://en.wikipedia.org/wiki/Cargo_cult) to imitate the big names in our industry as a path to success. Instead, the take home from this article “would be that managers and other leaders should be like ecologists; who measure, observe and nurture their ecosystems. Doing so will help build a unique workplace that will yield great results.”
 
 ### Roles / Executives
@@ -233,7 +232,7 @@
 
 ### Recruitment / Hiring Process
 
-*   [Open Sourced Interview Process (⭐409)](https://github.com/cockroachlabs/open-sourced-interview-process) - Cockroach Labs published their process “to create familiarity for candidates and account for bias, resulting in a better candidate experience and hiring decisions.”
+*   [Open Sourced Interview Process (⭐417)](https://github.com/cockroachlabs/open-sourced-interview-process) - Cockroach Labs published their process “to create familiarity for candidates and account for bias, resulting in a better candidate experience and hiring decisions.”
 *   [Rethinking the Hiring Process](https://www.karllhughes.com/posts/rethinking-hiring) - “Testing programmers at something they aren't actually expected to be good at and expecting to learn something about how they would work at your company is delusional, and I think these kind of interviews only serve to make the hiring team feel smarter and ensure better outcomes for engineers with traditional CS backgrounds.”
 
 ### Recruitment / Coding Challenge
@@ -325,15 +324,15 @@
 
 *   [Requirements volatility is the core problem of software engineering](https://stackoverflow.blog/2020/02/20/requirements-volatility-is-the-core-problem-of-software-engineering/) - “Start by accepting that change is inevitable. (…) As a consequence of this, software is never finished, only abandoned. (…) This means that no software product is ever exactly, perfectly satisfactory.”
 
-### Agile / Tickets
+### Agile / Delivery
 
 *   “The fundamental problem that drives most agile failures isn't in the team's execution, it's in the business' expectations. One side is signed up for incremental delivery, and one side is set up for a fixed scope and deadline and the result is misery.” ([source](https://news.ycombinator.com/item?id=20326074))
 
-### Objectives and Key Results (OKR) / Tickets
+### Objectives and Key Results (OKR) / Delivery
 
 *   “One way in which I've seen OKRs used effectively is as a defense against the type of middle or upper manager who is constantly coming up with new ideas or tasks.” ([source](https://news.ycombinator.com/item?id=19550614)) - Or how OKRs can be weaponized to prevent top managers to mess with the (already established) schedule.
 
-### Training / Tickets
+### Training / Delivery
 
 *   [What Medieval People Got Right About Learning](https://www.scotthyoung.com/blog/2019/06/07/apprenticeships/) - “Why apprenticeships beat classrooms”.
 
@@ -412,7 +411,7 @@
 
 ### Development Projects / Miscellaneous
 
-*   [pokesprite (⭐719)](https://github.com/msikma/pokesprite) - Database of Pokémon sprites from the core series games, including custom shiny versions.
+*   [pokesprite (⭐993)](https://github.com/msikma/pokesprite) - Database of Pokémon sprites from the core series games, including custom shiny versions.
 
 ## [10. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
@@ -420,10 +419,10 @@
 
 *   [Feedbin](https://feedbin.com/) ![Online](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-web-design-16.png)[![](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://apps.apple.com/us/app/feedbin/id1444961766)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/feedbin/feedbin)
 *   [NewsBlur](https://newsblur.com/) <sup>[204](https://t.me/s/aboutrss/204)</sup> [![Online](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-web-design-16.png)](https://newsblur.com/)[![](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](http://itunes.apple.com/us/app/newsblur/id463981119)[![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=com.newsblur)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/samuelclay/NewsBlur)
-*   [RSSMonster (⭐434)](https://github.com/pietheinstrengholt/rssmonster) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/pietheinstrengholt/rssmonster)
-*   [Temboz (⭐80)](https://github.com/fazalmajid/temboz) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/fazalmajid/temboz)
+*   [RSSMonster (⭐447)](https://github.com/pietheinstrengholt/rssmonster) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/pietheinstrengholt/rssmonster)
+*   [Temboz (⭐83)](https://github.com/fazalmajid/temboz) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/fazalmajid/temboz)
 *   [KrISS feed](http://tontof.net/kriss/feed/) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/tontof/kriss_feed)
-*   [Leed (Light Feed) (⭐209)](https://github.com/LeedRSS/Leed) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/LeedRSS/Leed)
+*   [Leed (Light Feed) (⭐220)](https://github.com/LeedRSS/Leed) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/LeedRSS/Leed)
 
 ## [11. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
 
@@ -441,7 +440,7 @@
 
 ### Text
 
-*   [CodeMirror Swift (⭐102)](https://github.com/ProxymanApp/CodeMirror-Swift) - A lightweight wrapper of CodeMirror for macOS and iOS. Support Syntax Highlighting & Themes.
+*   [CodeMirror Swift (⭐108)](https://github.com/ProxymanApp/CodeMirror-Swift) - A lightweight wrapper of CodeMirror for macOS and iOS. Support Syntax Highlighting & Themes.
 
 ## [14. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
 

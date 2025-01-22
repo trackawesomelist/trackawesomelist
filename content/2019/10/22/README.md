@@ -10,7 +10,7 @@
 
 ### Suggested Awesome Lists / Useful References
 
-*   [Awesome JMeter (⭐687)](https://github.com/aliesbelik/awesome-jmeter) - A curated collection of resources around Apache JMeter.
+*   [Awesome JMeter (⭐732)](https://github.com/aliesbelik/awesome-jmeter) - A curated collection of resources around Apache JMeter.
 
 ## [2. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
@@ -47,14 +47,12 @@
 
 ### Software / Video Surveillance
 
-*   [Bluecherry](https://www.bluecherrydvr.com/) - Closed-circuit television (CCTV) software application which supports IP and Analog cameras. ([Source Code (⭐205)](https://github.com/bluecherrydvr/bluecherry-apps)) `GPL-2.0` `PHP`
+*   [Bluecherry](https://www.bluecherrydvr.com/) - Closed-circuit television (CCTV) software application which supports IP and Analog cameras. ([Source Code (⭐222)](https://github.com/bluecherrydvr/bluecherry-apps)) `GPL-2.0` `PHP`
 
 ## [8. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
 ### Resources / Conferences
 
-*   [PyCon Australia](https://2019.pycon-au.org/) ([YouTube Channel](https://www.youtube.com/user/PyConAU))
-*   [Euro Python](https://ep2019.europython.eu/) ([YouTube Channel](https://www.youtube.com/user/PythonItalia))
 *   [Complete listing of all PyCons globally](https://pycon.org)
 
 ## [9. Awesome Waves](/content/msmolyakov/awesome-waves/README.md)
@@ -142,7 +140,7 @@ Webpage: <https://www.peacecoffee.com/peace-coffee-shops/wonderland-park/>
 
 ### Table of Contents / Event
 
-*   [PHP Defer (⭐283)](https://github.com/php-defer/php-defer) - Golang's defer statement for PHP.
+*   [PHP Defer (⭐301)](https://github.com/php-defer/php-defer) - Golang's defer statement for PHP.
 
 ## [19. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/README.md)
 

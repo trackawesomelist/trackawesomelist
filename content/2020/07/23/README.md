@@ -45,7 +45,7 @@
 
 ### Back-end API / Playground
 
-*   :octocat: [LoopBack 4 (⭐4.9k)](https://github.com/strongloop/loopback-next) - A highly extensible Node.js and TypeScript framework for building APIs and microservices. :rocket: (see also: <https://loopback.io/>)
+*   :octocat: [LoopBack 4 (⭐5k)](https://github.com/strongloop/loopback-next) - A highly extensible Node.js and TypeScript framework for building APIs and microservices. :rocket: (see also: <https://loopback.io/>)
 
 ## [7. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
@@ -75,7 +75,7 @@
 
 ### Asset Management
 
-*   🍰 [AssetMix plugin (⭐31)](https://github.com/ishanvyas22/asset-mix) - Provides integration with [Laravel Mix](https://laravel-mix.com) asset compilation.
+*   [AssetMix plugin (⭐33)](https://github.com/ishanvyas22/asset-mix) - Provides integration with [Laravel Mix](https://laravel-mix.com) asset compilation.
 
 ## [11. Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md)
 
@@ -87,7 +87,7 @@
 
 ### 2D/3D Rendering engines / Datagrids / tables
 
-*   [Grid.Blazor (⭐687)](https://github.com/gustavnavar/Grid.Blazor) - ![stars](https://img.shields.io/github/stars/gustavnavar/Grid.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/gustavnavar/Grid.Blazor?style=flat-square\&cacheSeconds=86400) Grid component with CRUD forms for Blazor and ASP.NET MVC, supporting filtering, sorting, searching, paging, subgrids and others ([Demo](http://gridblazor.azurewebsites.net)).
+*   [Grid.Blazor (⭐706)](https://github.com/gustavnavar/Grid.Blazor) - ![stars](https://img.shields.io/github/stars/gustavnavar/Grid.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/gustavnavar/Grid.Blazor?style=flat-square\&cacheSeconds=86400) Grid component with CRUD forms for Blazor and ASP.NET MVC, supporting filtering, sorting, searching, paging, subgrids and others ([Demo](http://gridblazor.azurewebsites.net)).
 
 ## [13. Awesome Gpt3](/content/elyase/awesome-gpt3/README.md)
 
@@ -104,7 +104,7 @@
 ### Visualization / Map
 
 *   [folium](https://python-visualization.github.io/folium/quickstart.html#Getting-Started) - Makes it easy to visualize data on an interactive open street map
-*   [geemap (⭐3.2k)](https://github.com/giswqs/geemap) - Python package for interactive mapping with Google Earth Engine (GEE)
+*   [geemap (⭐3.4k)](https://github.com/giswqs/geemap) - Python package for interactive mapping with Google Earth Engine (GEE)
 
 ## [15. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
 

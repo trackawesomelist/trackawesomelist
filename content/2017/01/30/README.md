@@ -34,17 +34,17 @@
 
 ### Web Frameworks
 
-*   [Knot.x (⭐127)](https://github.com/Cognifide/knotx) - Efficient & high-performance integration platform for modern websites built on Vert.x 3.
+*   [Knot.x (⭐126)](https://github.com/Cognifide/knotx) - Efficient & high-performance integration platform for modern websites built on Vert.x 3.
 
 ## [6. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Geolocation
 
-*   [topo (⭐149)](https://github.com/pkinney/topo) - A Geometry library for Elixir that calculates spatial relationships between two geometries.
+*   [topo (⭐158)](https://github.com/pkinney/topo) - A Geometry library for Elixir that calculates spatial relationships between two geometries.
 
 ### Languages
 
-*   [Monkey (⭐136)](https://github.com/fabrik42/writing_an_interpreter_in_elixir) - Elixir implementation of an interpreter and REPL for the js-like Monkey programming language.
+*   [Monkey (⭐139)](https://github.com/fabrik42/writing_an_interpreter_in_elixir) - Elixir implementation of an interpreter and REPL for the js-like Monkey programming language.
 
 ### Miscellaneous
 

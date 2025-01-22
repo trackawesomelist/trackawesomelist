@@ -109,7 +109,7 @@
 
 ### Math / Barcode
 
-*   [SigmaSwiftStatistics (⭐691)](https://github.com/evgenyneu/SigmaSwiftStatistics) - A collection of functions for statistical calculation.
+*   [SigmaSwiftStatistics (⭐700)](https://github.com/evgenyneu/SigmaSwiftStatistics) - A collection of functions for statistical calculation.
 
 ## [11. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/week/README.md)
 
@@ -307,11 +307,11 @@ Webpage: [www.brewlabcoffee.co.uk](http://www.brewlabcoffee.co.uk)
 
 ### Python / Financial Instruments and Pricing
 
-*   [vollib (⭐657)](https://github.com/vollib/vollib) - vollib is a python library for calculating option prices, implied volatility and greeks.
+*   [vollib (⭐696)](https://github.com/vollib/vollib) - vollib is a python library for calculating option prices, implied volatility and greeks.
 
 ### Python / Trading & Backtesting
 
-*   [pybacktest (⭐798)](https://github.com/ematvey/pybacktest) - Vectorized backtesting framework in Python / pandas, designed to make your backtesting easier.
+*   [pybacktest (⭐807)](https://github.com/ematvey/pybacktest) - Vectorized backtesting framework in Python / pandas, designed to make your backtesting easier.
 
 ### Python / Time Series
 
@@ -323,12 +323,12 @@ Webpage: [www.brewlabcoffee.co.uk](http://www.brewlabcoffee.co.uk)
 
 ### Julia / FrameWorks
 
-*   [QuantLib.jl (⭐136)](https://github.com/pazzo83/QuantLib.jl) - Quantlib implementation in pure Julia.
+*   [QuantLib.jl (⭐139)](https://github.com/pazzo83/QuantLib.jl) - Quantlib implementation in pure Julia.
 
 ### Reproducing Works, Training & Books / Data Visualization
 
-*   [Derman Papers (⭐357)](https://github.com/MarcosCarreira/DermanPapers) - Notebooks that replicate original quantitative finance papers from Emanuel Derman.
-*   [volatility-trading (⭐1.5k)](https://github.com/jasonstrimpel/volatility-trading) - A complete set of volatility estimators based on Euan Sinclair's Volatility Trading.
+*   [Derman Papers (⭐429)](https://github.com/MarcosCarreira/DermanPapers) - Notebooks that replicate original quantitative finance papers from Emanuel Derman.
+*   [volatility-trading (⭐1.6k)](https://github.com/jasonstrimpel/volatility-trading) - A complete set of volatility estimators based on Euan Sinclair's Volatility Trading.
 
 ## [19. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
 
@@ -373,7 +373,7 @@ git remote add <remote-nickname> <remote-url>
 
 ### Network Analysis
 
-*   [netdiffuseR (⭐83)](https://github.com/USCCANA/netdiffuseR) - Tools for Analysis of Network Diffusion.
+*   [netdiffuseR (⭐86)](https://github.com/USCCANA/netdiffuseR) - Tools for Analysis of Network Diffusion.
 
 ## [23. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
@@ -388,21 +388,21 @@ git remote add <remote-nickname> <remote-url>
 
 ### Standalone / Hash functions
 
-*   [cryptomator (⭐11k)](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud.
+*   [cryptomator (⭐12k)](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud.
 
 ### Plugins / Git
 
-*   [git-crypt (⭐8.1k)](https://github.com/AGWA/git-crypt) - Transparent file encryption in git.
+*   [git-crypt (⭐8.3k)](https://github.com/AGWA/git-crypt) - Transparent file encryption in git.
 
 ### C / Git
 
 *   [crypto-algorithms (⭐1.8k)](https://github.com/B-Con/crypto-algorithms) - Basic implementations of standard cryptography algorithms, like AES and SHA-1.
-*   [OpenSSL (⭐25k)](https://github.com/openssl/openssl) - TLS/SSL and crypto library.
+*   [OpenSSL (⭐26k)](https://github.com/openssl/openssl) - TLS/SSL and crypto library.
 *   [PolarSSL](https://tls.mbed.org/) - PolarSSL makes it trivially easy for developers to include cryptographic and SSL/TLS capabilities in their (embedded) products, facilitating this functionality with a minimal coding footprint.
 
 ### C++ / Git
 
-*   [cryptopp (⭐4.6k)](https://github.com/weidai11/cryptopp) - Crypto++ Library is a free C++ class library of cryptographic schemes.
+*   [cryptopp (⭐4.8k)](https://github.com/weidai11/cryptopp) - Crypto++ Library is a free C++ class library of cryptographic schemes.
 
 ### C-sharp / Git
 
@@ -410,35 +410,35 @@ git remote add <remote-nickname> <remote-url>
 
 ### Go / Git
 
-*   [dkeyczar (⭐111)](https://github.com/dgryski/dkeyczar) - Port of Google's Keyczar cryptography library to Go.
+*   [dkeyczar (⭐112)](https://github.com/dgryski/dkeyczar) - Port of Google's Keyczar cryptography library to Go.
 
 ### Haskell / Git
 
-*   [HsOpenSSL (⭐19)](https://github.com/phonohawk/HsOpenSSL) - OpenSSL binding for Haskel.
+*   [HsOpenSSL (⭐20)](https://github.com/phonohawk/HsOpenSSL) - OpenSSL binding for Haskel.
 
 ### JavaScript / Git
 
-*   [asmCrypto (⭐657)](https://github.com/vibornoff/asmcrypto.js/) - JavaScript implementation of popular cryptographic utilities with performance in mind.
-*   [cifre (⭐121)](https://github.com/openpeer/cifre) - Fast crypto toolkit for modern client-side JavaScript.
-*   [closure-library (⭐4.8k)](https://github.com/google/closure-library/tree/master/closure/goog/crypt) - Google's common JavaScript library.
+*   [asmCrypto (⭐661)](https://github.com/vibornoff/asmcrypto.js/) - JavaScript implementation of popular cryptographic utilities with performance in mind.
+*   [cifre (⭐122)](https://github.com/openpeer/cifre) - Fast crypto toolkit for modern client-side JavaScript.
+*   [closure-library (⭐4.9k)](https://github.com/google/closure-library/tree/master/closure/goog/crypt) - Google's common JavaScript library.
 *   [crypto-js (⭐16k)](https://github.com/brix/crypto-js) - JavaScript library of crypto standards.
-*   [libsodium.js (⭐950)](https://github.com/jedisct1/libsodium.js) - libsodium compiled to pure JavaScript, with convenient wrappers.
-*   [OpenPGP.js (⭐5.6k)](https://github.com/openpgpjs/openpgpjs) - OpenPGP implementation for JavaScript.
-*   [rusha (⭐275)](https://github.com/srijs/rusha) - High-performance pure-javascript SHA1 implementation suitable for large binary data, reaching up to half the native speed.
-*   [URSA (⭐621)](https://github.com/quartzjer/ursa) - RSA public/private key OpenSSL bindings for Node.
+*   [libsodium.js (⭐977)](https://github.com/jedisct1/libsodium.js) - libsodium compiled to pure JavaScript, with convenient wrappers.
+*   [OpenPGP.js (⭐5.7k)](https://github.com/openpgpjs/openpgpjs) - OpenPGP implementation for JavaScript.
+*   [rusha (⭐277)](https://github.com/srijs/rusha) - High-performance pure-javascript SHA1 implementation suitable for large binary data, reaching up to half the native speed.
+*   [URSA (⭐620)](https://github.com/quartzjer/ursa) - RSA public/private key OpenSSL bindings for Node.
 
 ### Julia / Git
 
-*   [Nettle.jl (⭐50)](https://github.com/staticfloat/Nettle.jl) - Julia wrapper around nettle cryptographic hashing/
+*   [Nettle.jl (⭐51)](https://github.com/staticfloat/Nettle.jl) - Julia wrapper around nettle cryptographic hashing/
     encryption library providing MD5, SHA1, SHA2 hashing and HMAC functionality, as well as AES encryption/decryption.
 
 ### Python / Git
 
-*   [PyElliptic (⭐127)](https://github.com/yann2192/pyelliptic) - Python OpenSSL wrapper. For modern cryptography with ECC, AES, HMAC, Blowfish.
+*   [PyElliptic (⭐131)](https://github.com/yann2192/pyelliptic) - Python OpenSSL wrapper. For modern cryptography with ECC, AES, HMAC, Blowfish.
 
 ### Scala / Git
 
-*   [scrypto (⭐202)](https://github.com/input-output-hk/scrypto) - Cryptographic primitives for Scala.
+*   [scrypto (⭐201)](https://github.com/input-output-hk/scrypto) - Cryptographic primitives for Scala.
 
 ### Web-sites / Git
 
@@ -449,12 +449,12 @@ git remote add <remote-nickname> <remote-url>
 
 ### Python / Natural Language Processing
 
-*   [jellyfish (⭐2k)](https://github.com/jamesturk/jellyfish) - a python library for doing approximate and phonetic matching of strings.
+*   [jellyfish (⭐2.1k)](https://github.com/jamesturk/jellyfish) - a python library for doing approximate and phonetic matching of strings.
 
 ### Python / Data Analysis / Data Visualization
 
-*   [SOMPY (⭐532)](https://github.com/sevamoo/SOMPY) - Self Organizing Map written in Python (Uses neural networks for data analysis).
-*   [HDBScan (⭐92)](https://github.com/lmcinnes/hdbscan) - implementation of the hdbscan algorithm in Python - used for clustering
+*   [SOMPY (⭐538)](https://github.com/sevamoo/SOMPY) - Self Organizing Map written in Python (Uses neural networks for data analysis).
+*   [HDBScan (⭐94)](https://github.com/lmcinnes/hdbscan) - implementation of the hdbscan algorithm in Python - used for clustering
 
 ## [25. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
@@ -529,8 +529,8 @@ git remote add <remote-nickname> <remote-url>
 
 ### Resources / Docker Images
 
-*   [jupyter/docker-stacks/pyspark-notebook (⭐7.2k)](https://github.com/jupyter/docker-stacks/tree/master/pyspark-notebook) - PySpark with Jupyter Notebook and Mesos client.
-*   [sequenceiq/docker-spark (⭐764)](https://github.com/sequenceiq/docker-spark) - Yarn images from [SequenceIQ](http://www.sequenceiq.com/).
+*   [jupyter/docker-stacks/pyspark-notebook (⭐8k)](https://github.com/jupyter/docker-stacks/tree/master/pyspark-notebook) - PySpark with Jupyter Notebook and Mesos client.
+*   [sequenceiq/docker-spark (⭐765)](https://github.com/sequenceiq/docker-spark) - Yarn images from [SequenceIQ](http://www.sequenceiq.com/).
 
 ## [32. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 

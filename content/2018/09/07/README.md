@@ -10,7 +10,7 @@
 
 ### Tools and session management
 
-*   [tmuxpair (⭐44)](https://github.com/goerz/tmuxpair) Command line script for setting up a temporary tmux session for pair programming
+*   [tmuxpair (⭐45)](https://github.com/goerz/tmuxpair) Command line script for setting up a temporary tmux session for pair programming
 
 ## [2. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
@@ -59,7 +59,7 @@
     ![](https://img.shields.io/github/stars/pure-css/pure.svg?style=social\&label=Star)
     [Demo](https://purecss.io/layouts/),
     [Docs](https://purecss.io/start/),
-    [Repo (⭐23k)](https://github.com/pure-css/pure)
+    [Repo (⭐24k)](https://github.com/pure-css/pure)
     \| #CSS
 
 ### General Purpose
@@ -68,7 +68,7 @@
     ![](https://img.shields.io/github/stars/twbs/bootstrap.svg?style=social\&label=Star)
     [Demo](https://getbootstrap.com/docs/4.0/examples/),
     [Docs](https://getbootstrap.com/docs/4.0/),
-    [Repo (⭐168k)](https://github.com/twbs/bootstrap)
+    [Repo (⭐171k)](https://github.com/twbs/bootstrap)
     \| #SCSS
 
 ### Material Design
@@ -85,14 +85,14 @@
 *   [**Tailwind CSS**](https://tailwindcss.com) - Utility-first CSS framework for rapid UI development.\
     ![](https://img.shields.io/github/stars/tailwindlabs/tailwindcss.svg?style=social\&label=Star)
     [Docs](https://tailwindcss.com/docs),
-    [Repo (⭐79k)](https://github.com/tailwindlabs/tailwindcss)
+    [Repo (⭐84k)](https://github.com/tailwindlabs/tailwindcss)
     \| #CSS
 
 ### Specialized
 
 *   [**98.css**](https://jdan.github.io/98.css/) - CSS library for building interfaces that look like Windows 98.\
     ![](https://img.shields.io/github/stars/jdan/98.css.svg?style=social\&label=Star)
-    [Repo (⭐8.7k)](https://github.com/jdan/98.css)
+    [Repo (⭐9.7k)](https://github.com/jdan/98.css)
     \| #CSS
 
 ## [7. Awesome Ava](/content/avajs/awesome-ava/README.md)

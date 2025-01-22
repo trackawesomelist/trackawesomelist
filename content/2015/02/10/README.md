@@ -10,7 +10,7 @@
 
 ### Tools / App Repackaging Detectors
 
-*   [FSquaDRA (⭐71)](https://github.com/zyrikby/FSquaDRA) - a tool for the detection of repackaged Android applications based on app resources hash comparison.
+*   [FSquaDRA (⭐72)](https://github.com/zyrikby/FSquaDRA) - a tool for detecting repackaged Android applications based on app resources hash comparison.
 
 ## [2. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 
@@ -243,7 +243,7 @@ Sometimes you want to force the browser to display some content instead of downl
 
 ### Python / Natural Language Processing
 
-*   [PyStanfordDependencies (⭐68)](https://github.com/dmcc/PyStanfordDependencies) - Python interface for converting Penn Treebank trees to Stanford Dependencies.
+*   [PyStanfordDependencies (⭐69)](https://github.com/dmcc/PyStanfordDependencies) - Python interface for converting Penn Treebank trees to Stanford Dependencies.
 
 ---
 

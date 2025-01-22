@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 01, 2022
 
-13 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -30,94 +30,88 @@
 
 ### :wrench: Tools / Before 2000
 
-*   [Angr (⭐7.3k)](https://github.com/angr/angr) - Platform-agnostic binary analysis framework.
+*   [Angr (⭐7.6k)](https://github.com/angr/angr) - Platform-agnostic binary analysis framework.
 *   [Language 2000](https://farrokhi.net/language) - Ultimate compiler detection utility.
 *   [PEscan](https://tzworks.com/prototype_page.php?proto_id=15) - CLI tool to scan PE files to identify how they were constructed.
-*   [Triton (⭐3.4k)](https://github.com/jonathansalwan/Triton) - Dynamic binary analysis library.
+*   [Triton (⭐3.6k)](https://github.com/jonathansalwan/Triton) - Dynamic binary analysis library.
 
 ## [2. Awesome Ansible](/content/ansible-community/awesome-ansible/README.md)
 
 ### Playbooks, Roles and Collections / French
 
-*   [BlueBanquise (⭐95)](https://github.com/bluebanquise/bluebanquise) - An ansible coherent roles collection to deploy clusters.
+*   [BlueBanquise (⭐117)](https://github.com/bluebanquise/bluebanquise) - An ansible coherent roles collection to deploy clusters.
 
 ## [3. Awesome Cmake](/content/onqtam/awesome-cmake/README.md)
 
 ### Modules
 
-*   [Oranges (⭐1)](https://github.com/benthevining/Oranges) - [Ben Vining](https://github.com/benthevining)'s library of CMake modules and toolchains [`[GPL]`](https://www.gnu.org/licenses/gpl-3.0.html)
+*   [Oranges](https://github.com/benthevining/Oranges) - [Ben Vining](https://github.com/benthevining)'s library of CMake modules and toolchains [`[GPL]`](https://www.gnu.org/licenses/gpl-3.0.html)
 
 ## [4. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
 ### Data / Scripts
 
-*   [dbt (⭐9.2k)](https://github.com/dbt-labs/dbt-core) - Transform your data by simply writing select statements, while dbt handles turning these statements into tables and views in a data warehouse.
+*   [dbt (⭐10k)](https://github.com/dbt-labs/dbt-core) - Transform your data by simply writing select statements, while dbt handles turning these statements into tables and views in a data warehouse.
 
 ### Data / Replication
 
-*   [dtle (⭐545)](https://github.com/actiontech/dtle) - Distributed Data Transfer Service for MySQL.
-*   [Litestream (⭐10k)](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
-*   [pgsync (⭐3k)](https://github.com/ankane/pgsync) - Sync Postgres data between databases.
-*   [pg\_chameleon (⭐373)](https://github.com/the4thdoctor/pg_chameleon) - MySQL to PostgreSQL replica system written in Python 3. The system use the library mysql-replication to pull the row images from MySQL which are stored into PostgreSQL as JSONB.
-*   [PGDeltaStream (⭐252)](https://github.com/hasura/pgdeltastream) - A Golang webserver to stream Postgres changes atleast-once over websockets, using Postgres logical decoding feature.
-*   [repmgr (⭐1.5k)](https://github.com/2ndQuadrant/repmgr) - The Most Popular Replication Manager for PostgreSQL.
+*   [dtle (⭐553)](https://github.com/actiontech/dtle) - Distributed Data Transfer Service for MySQL.
+*   [Litestream (⭐11k)](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
+*   [pgsync (⭐3.2k)](https://github.com/ankane/pgsync) - Sync Postgres data between databases.
+*   [pg\_chameleon (⭐392)](https://github.com/the4thdoctor/pg_chameleon) - MySQL to PostgreSQL replica system written in Python 3. The system use the library mysql-replication to pull the row images from MySQL which are stored into PostgreSQL as JSONB.
+*   [PGDeltaStream (⭐254)](https://github.com/hasura/pgdeltastream) - A Golang webserver to stream Postgres changes atleast-once over websockets, using Postgres logical decoding feature.
+*   [repmgr (⭐1.6k)](https://github.com/2ndQuadrant/repmgr) - The Most Popular Replication Manager for PostgreSQL.
 
-## [5. Awesome Go](/content/avelino/awesome-go/README.md)
-
-### Web Frameworks
-
-*   [anoweb (⭐5)](https://github.com/go-the-way/anoweb) - The lightweight and powerful web framework using the new way for Go.Another go the way.
-
-## [6. Magictools](/content/ellisonleao/magictools/README.md)
+## [5. Magictools](/content/ellisonleao/magictools/README.md)
 
 ### Engines and Frameworks / Voxel Editors
 
 *   :moneybag: [Construct](https://www.scirra.com/) - an HTML5 game maker, meaning you are not actually writing JavaScript. Instead, you use actions, events and conditions to do the heavy lifting.
 *   :money\_with\_wings: [Unreal Engine 4](https://www.unrealengine.com/) - the new game engine technology developed by Epic Games.
 
-## [7. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [6. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Database
 
-*   [kotlin-orm/ktorm (⭐2.1k)](https://github.com/kotlin-orm/ktorm) - A lightweight ORM Framework for Kotlin. Provides strong-typed and flexible SQL DSL and convenient sequence APIs to reduce our duplicated effort on database operations.
+*   [kotlin-orm/ktorm (⭐2.2k)](https://github.com/kotlin-orm/ktorm) - A lightweight ORM Framework for Kotlin. Provides strong-typed and flexible SQL DSL and convenient sequence APIs to reduce our duplicated effort on database operations.
 
-## [8. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
+## [7. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
 ### Languages / JavaScript & TypeScript
 
-*   [algo-builder (⭐134)](https://github.com/scale-it/algo-builder) - Framework to automate development of Algorand Assets and Smart Contracts.
+*   [algo-builder (⭐132)](https://github.com/scale-it/algo-builder) - Framework to automate development of Algorand Assets and Smart Contracts.
 *   [algo-builder-templates (⭐20)](https://github.com/scale-it/algo-builder-templates) - Dapps templates for Algo Builder.
 
-## [9. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [8. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-qrcode (⭐143)](https://github.com/svitejs/vite-plugin-qrcode) - Show QR code on server start.
+*   [vite-plugin-qrcode (⭐153)](https://github.com/svitejs/vite-plugin-qrcode) - Show QR code on server start.
 
-## [10. Awesome List](/content/sindresorhus/awesome/README.md)
+## [9. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Miscellaneous
 
-*   [Ansible (⭐1.3k)](https://github.com/ansible-community/awesome-ansible#readme) - A Python-based, open source IT configuration management and automation platform.
+*   [Ansible (⭐1.4k)](https://github.com/ansible-community/awesome-ansible#readme) - A Python-based, open source IT configuration management and automation platform.
 
-## [11. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+## [10. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Component Collections / Material Design
 
 *   [lens-ui (⭐7)](https://github.com/luciancaetano/lens-ui) - [docs (⭐7)](https://github.com/luciancaetano/lens-ui/blob/main/docs/introduction.md) - A Suit of components focused on simplicity.
 
-## [12. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [11. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Problem Solving / Reinforcement Learning
 
 *   [Automatic curriculum learning for deep RL: a short survey](https://dl.acm.org/doi/abs/10.5555/3491440.3492111) - ***IJCAI'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=10660055557098312214\&hl=en\&as_sdt=0,5)].
-*   [TeachMyAgent: a Benchmark for Automatic Curriculum Learning in Deep RL](http://proceedings.mlr.press/v139/romac21a.html) - ***ICML'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=11016662361926634008\&hl=en\&as_sdt=0,5)]. \[[Project (⭐64)](https://github.com/flowersteam/TeachMyAgent)].
+*   [TeachMyAgent: a Benchmark for Automatic Curriculum Learning in Deep RL](http://proceedings.mlr.press/v139/romac21a.html) - ***ICML'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=11016662361926634008\&hl=en\&as_sdt=0,5)]. \[[Project (⭐67)](https://github.com/flowersteam/TeachMyAgent)].
 
-## [13. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/README.md)
+## [12. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/README.md)
 
 ### Libraries / JavaScript
 
-*   [MapLibre GL JS](https://maplibre.org/projects/#js) - A map renderer with GPU-accelerated vector tile rendering. ([Source Code (⭐5.5k)](https://github.com/maplibre/maplibre-gl-js) / [See Related List](#related-awesome-maplibre))
+*   [MapLibre GL JS](https://maplibre.org/projects/#js) - A map renderer with GPU-accelerated vector tile rendering. ([Source Code (⭐6.3k)](https://github.com/maplibre/maplibre-gl-js) / [See Related List](#related-awesome-maplibre))
 
 ### Communities / Global Communities
 
@@ -127,7 +121,7 @@
 
 ### Related lists / Global Communities
 
-*   [awesome-maplibre (⭐291)](https://github.com/maplibre/awesome-maplibre#readme) - A collection of awesome things that use or support MapLibre! <span id="related-awesome-maplibre"/>
+*   [awesome-maplibre (⭐397)](https://github.com/maplibre/awesome-maplibre#readme) - A collection of awesome things that use or support MapLibre! <span id="related-awesome-maplibre"/>
 
 ---
 

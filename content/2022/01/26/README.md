@@ -20,40 +20,40 @@
 
 ### Driver crates / Other
 
-*   [SSD1309](https://crates.io/crates/ssd1309) - I2C/SPI - OLED display controller - [Intro blog post](https://antonok.com/projects/ssd1309) - ![crates.io](https://img.shields.io/crates/v/ssd1309.svg)
+*   [SSD1309](https://crates.io/crates/ssd1309) - I2C/SPI - OLED display controller - [Intro blog post](https://antonok.com/projects/ssd1309) - [![crates.io](https://img.shields.io/crates/v/ssd1309.svg)](https://crates.io/crates/ssd1309)
 
 ## [3. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Command Line
 
-*   [Ashen (⭐101)](https://github.com/colinta/Ashen) - A framework for writing terminal applications in Swift. Based on The Elm Architecture.
+*   [Ashen (⭐102)](https://github.com/colinta/Ashen) - A framework for writing terminal applications in Swift. Based on The Elm Architecture.
 
 ### Game Engine
 
-*   [Raylib for Swift (⭐96)](https://github.com/STREGAsGate/Raylib) :penguin: - A Cross-Platform Swift package for Raylib. Builds Raylib from source so no need to fiddle with libraries. Just add as a dependency in you game package and go!
+*   [Raylib for Swift (⭐110)](https://github.com/STREGAsGate/Raylib) :penguin: - A Cross-Platform Swift package for Raylib. Builds Raylib from source so no need to fiddle with libraries. Just add as a dependency in you game package and go!
 
 ## [4. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
 ### Planning Data Specifications / Transportation
 
-*   [CDS (⭐41)](https://github.com/openmobilityfoundation/curb-data-specification) - The Curb Data Specification provides data specifications for curb regulations alongside a connected event and metrics API intended to help cities manage their curb zone programs and surrounding areas, and measure the utilization and impact.
+*   [CDS (⭐49)](https://github.com/openmobilityfoundation/curb-data-specification) - The Curb Data Specification provides data specifications for curb regulations alongside a connected event and metrics API intended to help cities manage their curb zone programs and surrounding areas, and measure the utilization and impact.
 
 ## [5. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Tools / XML
 
-*   [denoflow (⭐275)](https://github.com/denoflow/denoflow) - Configuration as code, use YAML to write automated workflows that run on Deno, with any Deno modules, Typescript/Javascript codes
+*   [denoflow (⭐280)](https://github.com/denoflow/denoflow) - Configuration as code, use YAML to write automated workflows that run on Deno, with any Deno modules, Typescript/Javascript codes
 
 ## [6. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Database
 
 *   [andrewoma/kwery (⭐203)](https://github.com/andrewoma/kwery) - Kwery is an SQL library for Kotlin.
-*   [jasync-sql/jasync-sql (⭐1.6k)](https://github.com/jasync-sql/jasync-sql) - Kotlin port of mauricio's async driver for postgres/mysql.
+*   [jasync-sql/jasync-sql (⭐1.7k)](https://github.com/jasync-sql/jasync-sql) - Kotlin port of mauricio's async driver for postgres/mysql.
 
 ### Libraries/Frameworks / Jetpack-Compose
 
-*   [CuriousNikhil/k5-compose (⭐213)](https://github.com/CuriousNikhil/k5-compose) - K5-compose is a sketchy port of p5.js for Jetpack Compose Desktop
+*   [CuriousNikhil/k5-compose (⭐215)](https://github.com/CuriousNikhil/k5-compose) - K5-compose is a sketchy port of p5.js for Jetpack Compose Desktop
 
 ## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -89,7 +89,7 @@
 
 ### Web Frameworks
 
-*   [SCX (⭐3)](https://github.com/scx567888/scx) - An open and easy-to-use web framework, most functions are based on annotations.
+*   [SCX (⭐2)](https://github.com/scx567888/scx) - An open and easy-to-use web framework, most functions are based on annotations.
 
 ## [10. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/README.md)
 

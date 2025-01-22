@@ -10,13 +10,13 @@
 
 ### Resources / Cheatsheets
 
-*   [Stream FAQs (⭐194)](https://github.com/stephenplusplus/stream-faqs) - Answering common questions about streams, covering pagination, events, and more.
+*   [Stream FAQs (⭐196)](https://github.com/stephenplusplus/stream-faqs) - Answering common questions about streams, covering pagination, events, and more.
 
 ## [2. Awesome Json Datasets](/content/jdorfman/awesome-json-datasets/README.md)
 
 ### More Awesome Lists
 
-*   [Public Datasets (⭐59k)](https://github.com/caesar0301/awesome-public-datasets) *(Datasets beyond just JSON)*
+*   [Public Datasets (⭐61k)](https://github.com/caesar0301/awesome-public-datasets) *(Datasets beyond just JSON)*
 
 ## [3. Tips](/content/git-tips/tips/README.md)
 
@@ -35,7 +35,7 @@ git clone repo.bundle <repo-dir> -b <branch-name>
 
 ### Graphics
 
-*   [NGraphics (⭐704)](https://github.com/praeclarum/NGraphics) - NGraphics is a cross-platform library for rendering vector graphics on .NET
+*   [NGraphics (⭐714)](https://github.com/praeclarum/NGraphics) - NGraphics is a cross-platform library for rendering vector graphics on .NET
 
 ---
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 02, 2020
 
-19 awesome lists updated today.
+18 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Boilerplates
 
-*   [Nextjs Starter Peacock (⭐124)](https://github.com/vickOnRails/next-starter-peacock) - 🦚 Beautiful Nextjs portfolio starter for software engineers and designers to show work they're so proud of.
+*   [Nextjs Starter Peacock (⭐129)](https://github.com/vickOnRails/next-starter-peacock) - 🦚 Beautiful Nextjs portfolio starter for software engineers and designers to show work they're so proud of.
 
 ## [2. Awesome Veganism](/content/sdassow/awesome-veganism/README.md)
 
@@ -29,17 +29,17 @@
 
 ### Error Handling
 
-*   [Rollbar (⭐443)](https://github.com/rollbar/rollbar-gem) - Easy and powerful exception and error tracking for your applications.
+*   [Rollbar (⭐448)](https://github.com/rollbar/rollbar-gem) - Easy and powerful exception and error tracking for your applications.
 
 ### Mobile Development
 
-*   [PubNub (⭐120)](https://github.com/pubnub/ruby) - Real-time Push Service in the Cloud.
+*   [PubNub (⭐121)](https://github.com/pubnub/ruby) - Real-time Push Service in the Cloud.
 
 ## [5. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
 ### Notifications and Messages / Code Coverage
 
-*   [Send Microsoft Teams Notification (⭐30)](https://github.com/opsless/ms-teams-github-actions)
+*   [Send Microsoft Teams Notification (⭐36)](https://github.com/opsless/ms-teams-github-actions)
 
 ## [6. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/README.md)
 
@@ -91,58 +91,51 @@
 
 ### Authentication
 
-*   [Quiz manager secured by Auth0 (⭐39)](https://github.com/auth0-blog/secure-blazor-wasm-quiz-manager) - ![last commit](https://img.shields.io/github/last-commit/auth0-blog/secure-blazor-wasm-quiz-manager?style=flat-square\&cacheSeconds=86400) This repository contains a Blazor WebAssembly application implementing a simple Quiz manager secured by [Auth0](https://auth0.com/). The implementation details are described in the following article: [Securing Blazor WebAssembly Apps](https://auth0.com/blog/securing-blazor-webassembly-apps/).
+*   [Quiz manager secured by Auth0 (⭐41)](https://github.com/auth0-blog/secure-blazor-wasm-quiz-manager) - ![last commit](https://img.shields.io/github/last-commit/auth0-blog/secure-blazor-wasm-quiz-manager?style=flat-square\&cacheSeconds=86400) This repository contains a Blazor WebAssembly application implementing a simple Quiz manager secured by [Auth0](https://auth0.com/). The implementation details are described in the following article: [Securing Blazor WebAssembly Apps](https://auth0.com/blog/securing-blazor-webassembly-apps/).
 
 ## [12. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Gaming
 
-*   [Discord Communities (⭐2.7k)](https://github.com/mhxion/awesome-discord-communities#readme) - Chat with friends and communities.
+*   [Discord Communities (⭐2.9k)](https://github.com/mhxion/awesome-discord-communities#readme) - Chat with friends and communities.
 
-## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / UI Components
-
-*   [vue-tabler-icons (⭐150)](https://github.com/alex-oleshkevich/vue-tabler-icons) - Vue components for [Tabler Icons (⭐18k)](https://github.com/tabler/tabler-icons) SVG icons.
-*   [vue-selectize (⭐77)](https://github.com/isneezy/vue-selectize) - A Vue.js component wrapper around Selectize.js, a vanilla js select component
-
-## [14. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
+## [13. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
 
 ### Software / Middlewares
 
 *   [Waterstream](https://waterstream.io/) - MQTT broker leveraging Apache Kafka as its own storage and distribution engine.
 
-## [15. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
+## [14. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
 ### Community Extensions
 
-*   [Have I Been Pwned? Keycloak Password Policy (⭐20)](https://github.com/alexashley/keycloak-password-policy-have-i-been-pwned)
+*   [Have I Been Pwned? Keycloak Password Policy (⭐22)](https://github.com/alexashley/keycloak-password-policy-have-i-been-pwned)
 
-## [16. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
+## [15. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
 
 ### Intentionally Vulnerable Applications / Ansible
 
 *   [Cfngoat (⭐92)](https://github.com/bridgecrewio/cfngoat) - *Bridgecrew* - Cloud Formation templates for creating stacks of intentionally insecure services in AWS. Ideal for testing the Cloud Formation Infrastructure as Code Analysis tools above.
 *   [Terragoat (⭐1.1k)](https://github.com/bridgecrewio/terragoat) - *Bridgecrew* - Terraform templates for creating stacks of intentionally insecure services in AWS, Azure and GCP. Ideal for testing the Terraform Infrastructure as Code Analysis tools above.
 
-## [17. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [16. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / General-Purpose Machine Learning
 
-*   [evostra (⭐268)](https://github.com/alirezamika/evostra) - A fast Evolution Strategy implementation in Python.
+*   [evostra (⭐271)](https://github.com/alirezamika/evostra) - A fast Evolution Strategy implementation in Python.
 
 ### Tools / Misc
 
 *   [Pythonizr](https://pythonizr.com) - An online tool to generate boilerplate machine learning code that uses scikit-learn.
 
-## [18. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
+## [17. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
 ### Projects
 
-*   [Internet Chronometer (⭐109)](https://github.com/rothman857/chronometer) - Turn your Raspberry Pi in to an Internet Chronometer.
-*   [Pi-KVM (⭐7.8k)](https://github.com/pikvm/pikvm) - DIY KVM over IP to manage remote computers via Web UI or VNC with FullHD video, mouse, virtual drive, IPMI, Wake-on-LAN and many other things.
+*   [Internet Chronometer (⭐111)](https://github.com/rothman857/chronometer) - Turn your Raspberry Pi in to an Internet Chronometer.
+*   [Pi-KVM (⭐8.2k)](https://github.com/pikvm/pikvm) - DIY KVM over IP to manage remote computers via Web UI or VNC with FullHD video, mouse, virtual drive, IPMI, Wake-on-LAN and many other things.
 
-## [19. Awesome Npm](/content/sindresorhus/awesome-npm/README.md)
+## [18. Awesome Npm](/content/sindresorhus/awesome-npm/README.md)
 
 ### Command aliases
 

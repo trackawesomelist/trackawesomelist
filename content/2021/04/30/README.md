@@ -30,7 +30,7 @@
 
 ### Projects
 
-*   [Fullstack-Rust (⭐88)](https://github.com/vascokk/fullstack-rust) - A Full Stack Rust application (Connect5 game) with Actix-web, Yew, Bulma CSS and Diesel.
+*   [Fullstack-Rust (⭐96)](https://github.com/vascokk/fullstack-rust) - A Full Stack Rust application (Connect5 game) with Actix-web, Yew, Bulma CSS and Diesel.
 
 ### Books / Frameworks
 
@@ -40,7 +40,7 @@
 
 ### Resources / Presets
 
-*   [Breeze React (⭐16)](https://github.com/lucky-media/breeze-react) - Laravel Breeze fork with Tailwind CSS, Inertia.js and React.
+*   [Breeze React (⭐18)](https://github.com/lucky-media/breeze-react) - Laravel Breeze fork with Tailwind CSS, Inertia.js and React.
 
 ## [6. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 

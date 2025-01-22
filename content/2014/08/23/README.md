@@ -28,7 +28,7 @@
 
 ### Network / Barcode
 
-*   [OAuth2 (⭐1.1k)](https://github.com/p2/OAuth2) - oauth2 auth lib.
+*   [OAuth2 (⭐1.2k)](https://github.com/p2/OAuth2) - oauth2 auth lib.
 
 ---
 

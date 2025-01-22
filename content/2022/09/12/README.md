@@ -10,8 +10,8 @@
 
 ### Software / Communication - Video Conferencing
 
-*   [MiroTalk P2P](https://p2p.mirotalk.com) - Simple, secure, fast real-time video conferences up to 4k and 60fps, compatible with all browsers and platforms. ([Demo](https://p2p.mirotalk.com/newcall), [Source Code (⭐2.9k)](https://github.com/miroslavpejic85/mirotalk)) `AGPL-3.0` `Nodejs/Docker`
-*   [MiroTalk SFU](https://sfu.mirotalk.com) - Simple, secure, scalable real-time video conferences up to 4k, compatible with all browsers and platforms. ([Demo](https://sfu.mirotalk.com/newroom), [Source Code (⭐2k)](https://github.com/miroslavpejic85/mirotalksfu)) `AGPL-3.0` `Nodejs/Docker`
+*   [MiroTalk P2P](https://p2p.mirotalk.com) - Simple, secure, fast real-time video conferences up to 4k and 60fps, compatible with all browsers and platforms. ([Demo](https://p2p.mirotalk.com/newcall), [Source Code (⭐3.2k)](https://github.com/miroslavpejic85/mirotalk)) `AGPL-3.0` `Nodejs/Docker`
+*   [MiroTalk SFU](https://sfu.mirotalk.com) - Simple, secure, scalable real-time video conferences up to 4k, compatible with all browsers and platforms. ([Demo](https://sfu.mirotalk.com/newroom), [Source Code (⭐2.2k)](https://github.com/miroslavpejic85/mirotalksfu)) `AGPL-3.0` `Nodejs/Docker`
 
 ## [2. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
@@ -21,14 +21,14 @@
 
 ## [3. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 
-### Online services
+### Online services (a-z↓)
 
 *   [BugBug.io](https://bugbug.io/) - Lightweight test automation tool for web applications. Easy to learn and doesn't require coding. It's free, with unlimited tests. For an additional monthly fee, you also get cloud monitoring and CI/CD integration.
 
-### Blog posts
+### Blog posts  (a-z↓)
 
-*   [UI Visual Regression Testing with Micoo](https://mikuu.medium.com/ui-visual-regression-testing-with-micoo-12c7a4a036b9) - Introduction about how to do visual regression testing with Micoo service
 *   [Poor man's visual regression testing](https://idkshite.com/posts/compare-visual-changes) - Improved manual visual regression testing with the PerfectPixel chrome plugin.
+*   [UI Visual Regression Testing with Micoo](https://mikuu.medium.com/ui-visual-regression-testing-with-micoo-12c7a4a036b9) - Introduction about how to do visual regression testing with Micoo service
 
 ## [4. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
@@ -38,13 +38,13 @@
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [openstack (⭐3)](https://github.com/florentinl/openstack-zsh-plugin) - Add functions and aliases for managing [OpenStack](https://www.openstack.org/).
+*   [openstack](https://github.com/florentinl/openstack-zsh-plugin) - Add functions and aliases for managing [OpenStack](https://www.openstack.org/).
 
 ## [5. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Misc
 
-*   [RationalityFrontline/kevent (⭐12)](https://github.com/RationalityFrontline/kevent) - A powerful in-process event dispatcher based on Kotlin and Coroutines.
+*   [RationalityFrontline/kevent (⭐13)](https://github.com/RationalityFrontline/kevent) - A powerful in-process event dispatcher based on Kotlin and Coroutines.
 
 ## [6. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
@@ -56,7 +56,7 @@
 
 ### Automation / Conversion
 
-*   [postman2jmx (⭐164)](https://github.com/Loadium/postman2jmx) - Postman collection to JMeter jmx file converter.
+*   [postman2jmx (⭐175)](https://github.com/Loadium/postman2jmx) - Postman collection to JMeter jmx file converter.
 *   [convert-postman-jmeter (⭐10)](https://github.com/sercheo87/convert-postman-jmeter) - Convert Postman projects to JMeter.
 
 ## [8. Awesome Opengl](/content/eug/awesome-opengl/README.md)
@@ -139,8 +139,8 @@
 *   Shazam - It's under [Apple's privacy policy](https://tosdr.org/en/service/158). The android app [has a few Google trackers](https://reports.exodus-privacy.eu.org/en/reports/com.shazam.android/latest/).
 *   SoundHound - Has way too many [trackers](https://reports.exodus-privacy.eu.org/en/reports/com.melodis.midomiMusicIdentifier.freemium/latest/) for a music recognition app.
 *   Musicxmatch - The app [has trackers](https://reports.exodus-privacy.eu.org/en/reports/com.musixmatch.android.lyrify/latest/) and requires a dangerous amount of permissions.
-*   [SongRec (⭐1.3k)](https://github.com/marin-m/SongRec) - An open-source Shazam client for Linux, written in Rust.
-*   [SongID Telegram Bot (⭐84)](https://github.com/smcclennon/SongID) - A Telegram bot that can identify music in audio/video files you send it.
+*   [SongRec (⭐1.4k)](https://github.com/marin-m/SongRec) - An open-source Shazam client for Linux, written in Rust.
+*   [SongID Telegram Bot (⭐90)](https://github.com/smcclennon/SongID) - A Telegram bot that can identify music in audio/video files you send it.
 
 ### Video and Audio Conferencing
 
@@ -151,7 +151,6 @@
 *   **Instagram** - [Very bad privacy policy](https://tosdr.org/en/service/219). Apps have [Facebook trackers](https://reports.exodus-privacy.eu.org/en/reports/com.instagram.android/latest/). Way too many permissions required.
 *   **Discord** - [Very bad privacy policy.](https://tosdr.org/en/service/536). Apps have [various trackers](https://reports.exodus-privacy.eu.org/en/reports/com.discord/latest/). Many permissions required.
 *   [Jami](https://jami.net/) - P2P audio and video conferences.
-*   [Jitsi Meet](https://meet.jit.si/) - More secure, more flexible, and completely free video conferencing. **No account needed, no installation needed**.
 *   [Mirotalk P2P](https://p2p.mirotalk.com/) - Free WebRTC - P2P - Simple, Secure, Fast Real-Time Video Conferences Up to 4k and 60fps, compatible with all browsers and platforms.
 *   [PeerCalls](https://peercalls.com/) - Group peer to peer video calls for everyone written in Go and TypeScript.
 
@@ -159,14 +158,14 @@
 
 ### Templates / React
 
-*   [viterjs-template (⭐39)](https://github.com/emre-cil/viterjs-template) - React + JavaScript + Redux + Material UI + Axios + ESLint + Prettier.
-*   [vite-react-universal-template (⭐53)](https://github.com/laoer536/vite3.0-react18-TypeScript-router-dom6-mobx6-Eslint-prettier-template) - React18 + TypeScript + `react-router-dom` + Zustand + ESlint + Prettier + Stylelint + Husky + Docker, and APIs auto importing.
+*   [viterjs-template (⭐47)](https://github.com/emre-cil/viterjs-template) - React + JavaScript + Redux + Material UI + Axios + ESLint + Prettier.
+*   [vite-react-universal-template (⭐59)](https://github.com/laoer536/vite3.0-react18-TypeScript-router-dom6-mobx6-Eslint-prettier-template) - React18 + TypeScript + `react-router-dom` + Zustand + ESlint + Prettier + Stylelint + Husky + Docker, and APIs auto importing.
 
 ## [17. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Debug
 
-*   [nanobench (⭐1.4k)](https://github.com/martinus/nanobench) - Simple, fast, accurate single-header microbenchmarking functionality for C++11/14/17/20. \[MIT] [website](https://nanobench.ankerl.com)
+*   [nanobench (⭐1.5k)](https://github.com/martinus/nanobench) - Simple, fast, accurate single-header microbenchmarking functionality for C++11/14/17/20. \[MIT] [website](https://nanobench.ankerl.com)
 
 ## [18. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 

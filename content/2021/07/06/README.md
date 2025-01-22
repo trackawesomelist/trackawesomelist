@@ -10,7 +10,7 @@
 
 ### Public Data Resources / Demographic
 
-*   [Census Reporter](https://censusreporter.org/) - Census Reporter is an open-source website that makes it easy to explore and report census data. Census Reporter automatically provides descriptive statistics, downloadable tabular data, and interactive visualizations of American Community Survey (ACS) data for the United States. Visualizations can be [embedded as HTML](https://censusreporter.org/examples/embed-charts/) iframes. Additional Information:License: MIT License Geographic Coverage: Contains geographies matching the coverage and scale of the [ACS 2019 1-year and 5-year estimates.](https://web.archive.org/web/20210519000200/https://www.census.gov/programs-surveys/acs/geography-acs/areas-published.html) Provider: [About Page.](https://censusreporter.org/about/) Additional Links: [GitHub Repository. (⭐722)](https://github.com/censusreporter/censusreporter)
+*   [Census Reporter](https://censusreporter.org/) - Census Reporter is an open-source website that makes it easy to explore and report census data. Census Reporter automatically provides descriptive statistics, downloadable tabular data, and interactive visualizations of American Community Survey (ACS) data for the United States. Visualizations can be [embedded as HTML](https://censusreporter.org/examples/embed-charts/) iframes. Additional Information:License: MIT License Geographic Coverage: Contains geographies matching the coverage and scale of the [ACS 2019 1-year and 5-year estimates.](https://web.archive.org/web/20210519000200/https://www.census.gov/programs-surveys/acs/geography-acs/areas-published.html) Provider: [About Page.](https://censusreporter.org/about/) Additional Links: [GitHub Repository. (⭐747)](https://github.com/censusreporter/censusreporter)
 *   [IPUMS National Historic GIS](https://www.nhgis.org/) - The National Historical Geographic Information System (NHGIS) provides easy access to summary tables and time series of population, housing, agriculture, and economic data, along with GIS-compatible boundary files, for years from 1790 through the present and for all levels of U.S. census geography, including states, counties, tracts, and blocks.
 
 ### Public Data Resources / Environment and Ecosystem Services
@@ -39,26 +39,32 @@
 
 *   [Circul'R](https://www.circul-r.com/) - Bridging startups and companies so they can co-create circular economy solutions
 
-## [3. Awesome Steam](/content/scholtzm/awesome-steam/README.md)
+## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+
+### Software / Office Suites
+
+*   [Collabora Online Development Edition](https://www.collaboraoffice.com/code) - Collabora Online Development Edition (CODE) is a powerful LibreOffice-based online office that supports all major document, spreadsheet and presentation file formats, which you can integrate in your own infrastructure. ([Source Code](https://cgit.freedesktop.org/libreoffice/online/)) `MPL-2.0` `C++`
+
+## [4. Awesome Steam](/content/scholtzm/awesome-steam/README.md)
 
 ### General / Misc
 
 *   [Steam WebAPI Documentation by xPaw](https://lab.xpaw.me/steam_api_documentation.html)
 *   [Steam Internal WebAPI Documentation by Revadike (⭐329)](https://github.com/Revadike/UnofficialSteamWebAPI)
 
-## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### APIs, Data, and ML
 
 *   [Lightly](https://www.lightly.ai/) — Improve your machine-learning models by using the correct data. Use datasets of up to 1000 samples for free.
 
-## [5. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
+## [6. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
 ### JavaScript / Git
 
-*   [TweetNaCl.js (⭐1.7k)](https://github.com/dchest/tweetnacl-js) - A port of TweetNaCl / NaCl for JavaScript for modern browsers and Node.js.
+*   [TweetNaCl.js (⭐1.8k)](https://github.com/dchest/tweetnacl-js) - A port of TweetNaCl / NaCl for JavaScript for modern browsers and Node.js.
 
-## [6. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
+## [7. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
 ### IO Games
 
@@ -69,23 +75,23 @@
 
 *   [Mercedes AMG GT C](https://playcanv.as/p/4e391c28/) - Car visualizer.
 
-## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [vue-next-progressbar (⭐8)](https://github.com/jambonn/vue-next-progressbar) - Slim progress bars(1KB gzipped) for Vue 3.
 
-## [8. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [9. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-checker (⭐955)](https://github.com/fi3ework/vite-plugin-checker) - Fast run checkers (TypeScript/VLS/vue-tsc, etc.) in worker threads with overlay and terminal hint.
+*   [vite-plugin-checker (⭐1k)](https://github.com/fi3ework/vite-plugin-checker) - Fast run checkers (TypeScript/VLS/vue-tsc, etc.) in worker threads with overlay and terminal hint.
 
-## [9. Public Apis](/content/public-apis/public-apis/README.md)
+## [10. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Development
 
-- API: [Cloudflare Trace (⭐96)](https://github.com/fawazahmed0/cloudflare-trace-api)
+- API: [Cloudflare Trace (⭐112)](https://github.com/fawazahmed0/cloudflare-trace-api)
 
   Description: Get IP Address, Timestamp, User Agent, Country Code, IATA, HTTP Version, TLS/SSL Version & More
 
@@ -133,7 +139,7 @@
 
 
 
-## [10. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
+## [11. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
 
 ### Featured (new releases)
 
@@ -175,16 +181,6 @@
 *   🐦 [@firebase](https://twitter.com/firebase)
 *   👤 [Firebase Facebook](https://www.facebook.com/Firebase)
 *   🔊 [The Firebase Podcast](https://podcasts.google.com/feed/aHR0cDovL2ZpcmViYXNlcG9kY2FzdC5nb29nbGVkZXZlbG9wZXJzLmxpYnN5bnByby5jb20vcnNz) - This is the place where we dive deep into Firebase products and learn new tips and tricks along the way.
-
-## [11. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
-
-### Software / File Transfer - Single-click & Drag-n-drop Upload
-
-*   [ass (⭐640)](https://github.com/tycrek/ass) - The superior self-hosted ShareX server. For use with clients such as ShareX (Windows), Flameshot (Linux), & MagicCap (Linux, macOS). `ISC` `Nodejs/Docker`
-
-### Software / Office Suites
-
-*   [Collabora Online Development Edition](https://www.collaboraoffice.com/code) - Collabora Online Development Edition (CODE) is a powerful LibreOffice-based online office that supports all major document, spreadsheet and presentation file formats, which you can integrate in your own infrastructure. ([Source Code](https://cgit.freedesktop.org/libreoffice/online/)) `MPL-2.0` `C++`
 
 ---
 

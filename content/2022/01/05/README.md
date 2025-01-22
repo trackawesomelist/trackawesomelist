@@ -26,10 +26,10 @@
 
 ### Chemistry
 
-*   [MADNESS (⭐175)](https://github.com/m-a-d-n-e-s-s/madness) - Multiresolution Adaptive Numerical Environment for Scientific Simulation. \[GPL] [website (⭐175)](https://github.com/m-a-d-n-e-s-s/madness)
-*   [MPQC (⭐65)](https://github.com/ValeevGroup/mpqc) - The Massively Parallel Quantum Chemistry program, MPQC, computes properties of atoms and molecules from first principles using the time independent Schrödinger equation. \[GPL] [website](https://mpqc.org/)
+*   [MADNESS (⭐186)](https://github.com/m-a-d-n-e-s-s/madness) - Multiresolution Adaptive Numerical Environment for Scientific Simulation. \[GPL] [website (⭐186)](https://github.com/m-a-d-n-e-s-s/madness)
+*   [MPQC (⭐68)](https://github.com/ValeevGroup/mpqc) - The Massively Parallel Quantum Chemistry program, MPQC, computes properties of atoms and molecules from first principles using the time independent Schrödinger equation. \[GPL] [website](https://mpqc.org/)
 *   [ORCA](https://en.wikipedia.org/wiki/ORCA_\(quantum_chemistry_program\)) - An ab initio quantum chemistry program package that contains modern electronic structure methods. \[Academic] [website](https://orcaforum.kofo.mpg.de/)
-*   [Psi (⭐952)](https://github.com/psi4/psi4) - An ab initio computational chemistry package. \[GPL] [website](https://psicode.org/)
+*   [Psi (⭐1k)](https://github.com/psi4/psi4) - An ab initio computational chemistry package. \[GPL] [website](https://psicode.org/)
 
 ## [4. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
@@ -47,7 +47,7 @@
 
 ### Tools & Software / WARC I/O Libraries
 
-*   [Unwarcit (⭐6)](https://github.com/emmadickson/unwarcit) - Command line interface to unzip WARC and WACZ files (Python).
+*   [Unwarcit (⭐10)](https://github.com/emmadickson/unwarcit) - Command line interface to unzip WARC and WACZ files (Python).
 
 ## [7. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
 

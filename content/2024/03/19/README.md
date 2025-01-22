@@ -28,19 +28,19 @@
 
 ### Web / Playground
 
-*   :octocat: [Langfuse (⭐4.9k)](https://github.com/langfuse/langfuse) - Open source LLM engineering platform 🪢 - Tracing, Prompt Mgmt, Evaluations, Analytics
+*   :octocat: [Langfuse (⭐7.6k)](https://github.com/langfuse/langfuse) - Open source LLM engineering platform 🪢 - Tracing, Prompt Mgmt, Evaluations, Analytics
 
 ## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Debugging / Diagnostics
 
-*   [Willem-J-an/visidata.nvim (⭐20)](https://github.com/Willem-J-an/visidata.nvim) - Render pandas dataframes in nvim-dap using the power of visidata.
+*   [Willem-J-an/visidata.nvim (⭐26)](https://github.com/Willem-J-an/visidata.nvim) - Render pandas dataframes in nvim-dap using the power of visidata.
 
 ## [6. Awesome Directus](/content/directus-community/awesome-directus/README.md)
 
 ### Extensions / Community
 
-*   [Umami Analytics (⭐0)](https://github.com/egidiusmengelberg/directus-extension-umami) - Add Umami analytics to Directus.
+*   [Umami Analytics (⭐2)](https://github.com/egidiusmengelberg/directus-extension-umami) - Add Umami analytics to Directus.
 
 ## [7. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
@@ -53,7 +53,7 @@
 ### Libraries / Peripherals
 
 *   Fingerprint reader
-    *   [alvaroparker/libfprint-rs (⭐11)](https://github.com/alvaroparker/libfprint-rs) \[[libfprint-rs](https://crates.io/crates/libfprint-rs)] - Libfprint-rs provides a wrapper around the Linux libfprint library.
+    *   [alvaroparker/libfprint-rs (⭐12)](https://github.com/alvaroparker/libfprint-rs) \[[libfprint-rs](https://crates.io/crates/libfprint-rs)] - Libfprint-rs provides a wrapper around the Linux libfprint library.
 
 ## [9. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
@@ -75,7 +75,7 @@
 
 ### Tools / Community providers
 
-*   [asdf (⭐232)](https://github.com/asdf-community/asdf-hashicorp) - HashiCorp plugin for the [asdf (⭐21k)](https://github.com/asdf-vm/asdf) version manager
+*   [asdf (⭐244)](https://github.com/asdf-community/asdf-hashicorp) - HashiCorp plugin for the [asdf (⭐22k)](https://github.com/asdf-vm/asdf) version manager
 
 ---
 

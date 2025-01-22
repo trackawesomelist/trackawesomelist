@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 08, 2019
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,11 +10,11 @@
 
 ### Third party Guides
 
-*   [Conferences.digital (⭐762)](https://github.com/zagahr/Conferences.digital) - Watch conference videos in a native macOS app.
+*   [Conferences.digital (⭐761)](https://github.com/zagahr/Conferences.digital) - Watch conference videos in a native macOS app.
 
 ### UI / Barcode
 
-*   [Doric Design System Foundation (⭐99)](https://github.com/jayeshk/Doric) - Protocol oriented, type safe, scalable design system foundation framework for iOS.
+*   [Doric Design System Foundation (⭐100)](https://github.com/jayeshk/Doric) - Protocol oriented, type safe, scalable design system foundation framework for iOS.
 
 ## [2. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/README.md)
 
@@ -24,13 +24,13 @@
 
 ### Build Tools to set up performance budget
 
-*   [Grunt-perfbudget (⭐861)](https://github.com/tkadlec/grunt-perfbudget) - Grunt task for performance budgeting.
+*   [Grunt-perfbudget (⭐856)](https://github.com/tkadlec/grunt-perfbudget) - Grunt task for performance budgeting.
 *   [ImportCost - VS Extension](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) - Extension to display inline in the VS code editor the size of the imported package.
 
 ### Bundle Analyzers
 
 *   [Bundlephobia](https://bundlephobia.com/) - Find the cost of adding a npm package to your bundle.
-*   [webpack-bundle-analyzer (⭐12k)](https://github.com/webpack-contrib/webpack-bundle-analyzer) - Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap.
+*   [webpack-bundle-analyzer (⭐13k)](https://github.com/webpack-contrib/webpack-bundle-analyzer) - Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap.
 *   [Disc](http://hughsk.io/disc/) - Visualise the module tree of browserify project bundles and track down bloat.
 
 ### Case Studies
@@ -47,7 +47,7 @@
 
 ### UI / Sliders
 
-*   [Flutter Xlider (⭐507)](https://github.com/Ali-Azmoud/flutter_xlider) <!--stargazers:Ali-Azmoud/flutter_xlider--> - A material design slider and range slider, horizontal and vertical, with RTL support by [Ali-Azmoud](https://github.com/Ali-Azmoud)
+*   [Flutter Xlider (⭐520)](https://github.com/Ali-Azmoud/flutter_xlider) <!--stargazers:Ali-Azmoud/flutter_xlider--> - A material design slider and range slider, horizontal and vertical, with RTL support by [Ali-Azmoud](https://github.com/Ali-Azmoud)
 
 ### Device / Bluetooth / NFC / Beacon
 
@@ -67,21 +67,21 @@
 
 ### Entertainment
 
-*   [newsboat (⭐2.8k)](https://github.com/newsboat/newsboat) - An extendable RSS feed reader for text terminals.
+*   [newsboat (⭐3k)](https://github.com/newsboat/newsboat) - An extendable RSS feed reader for text terminals.
 
 ### Development / Devops
 
-*   [htconvert (⭐186)](https://github.com/lukechilds/htconvert) - Convert .htaccess redirects to nginx.conf redirects.
+*   [htconvert (⭐188)](https://github.com/lukechilds/htconvert) - Convert .htaccess redirects to nginx.conf redirects.
 
 ### Just for Fun / Image Conversion
 
-*   [quote-cli (⭐84)](https://github.com/riyadhalnur/quote-cli) - Get a random quote or the quote of the day in your CLI.
+*   [quote-cli (⭐92)](https://github.com/riyadhalnur/quote-cli) - Get a random quote or the quote of the day in your CLI.
 
 ### Just for Fun / Emoji
 
 *   [emoj (⭐2.4k)](https://github.com/sindresorhus/emoj) - Find relevant emoji from text on the command-line.
-*   [emoji-finder (⭐25)](https://github.com/dematerializer/emoji-finder) - Quickly find and copy emoji to the clipboard via the command-line.
-*   [oji (⭐711)](https://github.com/xxczaki/oji) - Interactive text emoji maker.
+*   [emoji-finder](https://github.com/dematerializer/emoji-finder) - Quickly find and copy emoji to the clipboard via the command-line.
+*   [oji (⭐719)](https://github.com/xxczaki/oji) - Interactive text emoji maker.
 
 ## [7. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
 
@@ -101,13 +101,7 @@
 
 *   [GPG Sync (⭐344)](https://github.com/firstlookmedia/gpgsync) - Centralize and automate OpenPGP public key distribution, revocation, and updates amongst all members of an organization or team.
 
-## [10. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
-
-### Proxy and VPN Tools / Audio Record and Process
-
-*   [ClashX](https://github.com/yichengchen/clashX) - A rule-based proxy for Mac based on Clash. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/yichengchen/clashX)![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-
-## [11. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [10. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / CloudFormation
 

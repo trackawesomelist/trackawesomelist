@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 04, 2018
 
-5 awesome lists updated today.
+4 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -18,13 +18,7 @@
 
 *   [API](https://emberjs.com/api/)
 
-## [3. Awesome Osint](/content/jivoi/awesome-osint/README.md)
-
-### DNS / Telegram
-
-*   [Amass](https://github.com/caffix/amass) - The amass tool searches Internet data sources, performs brute force subdomain enumeration, searches web archives, and uses machine learning to generate additional subdomain name guesses. DNS name resolution is performed across many public servers so the authoritative server will see the traffic coming from different locations. Written in Go.
-
-## [4. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
+## [3. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 
 ### Presentations / Embedded World Conference 2018
 
@@ -34,7 +28,7 @@
 
 *   [Maruyama, Yuya et al. “Exploring the performance of ROS2.” 2016 International Conference on Embedded Software (EMSOFT) (2016): 1-10.](https://www.semanticscholar.org/paper/Exploring-the-performance-of-ROS2-Maruyama-Kato/07b895f3b584dea4f64e91844f243de382026b20)
 
-## [5. Awesome Ffmpeg](/content/transitive-bullshit/awesome-ffmpeg/README.md)
+## [4. Awesome Ffmpeg](/content/transitive-bullshit/awesome-ffmpeg/README.md)
 
 ### JavaScript
 

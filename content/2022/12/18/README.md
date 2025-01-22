@@ -31,13 +31,13 @@
 
 ### Misc libraries
 
-*   [kassane/libvlc-zig (⭐17)](https://github.com/kassane/libvlc-zig) - Bindings for libVLC media framework.
+*   [kassane/libvlc-zig (⭐20)](https://github.com/kassane/libvlc-zig) - Bindings for libVLC media framework.
 
 ## [4. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Algorithms and Data structures
 
-*   [Goban (⭐25)](https://github.com/soya-daizu/goban) - A fast and efficient QR Code implementation
+*   [Goban (⭐26)](https://github.com/soya-daizu/goban) - A fast and efficient QR Code implementation
 
 ## [5. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
@@ -49,24 +49,24 @@
 
 ### Databases
 
-*   [Supabase (⭐268)](https://github.com/lyqht/awesome-supabase#readme) - An open-source alternative to Firebase.
+*   [Supabase (⭐306)](https://github.com/lyqht/awesome-supabase#readme) - An open-source alternative to Firebase.
 
 ## [7. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
 ### Emulator Development / Misc
 
-*   [Game Boy Doctor (⭐151)](https://github.com/robert/gameboy-doctor) - A command line tool for comparing logs from your emulator to those from a known-correct one. Useful for line-by-line debugging of Blargg's test ROMs.
+*   [Game Boy Doctor (⭐197)](https://github.com/robert/gameboy-doctor) - A command line tool for comparing logs from your emulator to those from a known-correct one. Useful for line-by-line debugging of Blargg's test ROMs.
 
 ### Tools / Development tools
 
-*   [evscript (⭐8)](https://github.com/eievui5/evscript) - A scripting language for the Game Boy, useful for enemy AI, dialogue, animations, and coroutines.
-*   [evunit (⭐15)](https://github.com/eievui5/evunit) - A unit testing program for assembly code.
+*   [evscript (⭐11)](https://github.com/eievui5/evscript) - A scripting language for the Game Boy, useful for enemy AI, dialogue, animations, and coroutines.
+*   [evunit (⭐18)](https://github.com/eievui5/evunit) - A unit testing program for assembly code.
 
 ## [8. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Formatting / Diagnostics
 
-*   [emileferreira/nvim-strict (⭐33)](https://github.com/emileferreira/nvim-strict) - Strict, native code style formatting which exposes deep nesting, overlong lines, trailing whitespace, trailing empty lines, todos and inconsistent indentation.
+*   [emileferreira/nvim-strict (⭐35)](https://github.com/emileferreira/nvim-strict) - Strict, native code style formatting which exposes deep nesting, overlong lines, trailing whitespace, trailing empty lines, todos and inconsistent indentation.
 
 ---
 

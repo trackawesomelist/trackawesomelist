@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 21, 2023
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -8,38 +8,38 @@
 
 ## [1. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
-### Related Awesome Lists / Telegram
+### Related Awesome Lists / Steam
 
-*   [awesome-anti-forensic (⭐697)](https://github.com/remiflavien1/awesome-anti-forensic) by @remiflavien1
-*   [awesome-ctf (⭐9.4k)](https://github.com/apsdehal/awesome-ctf) by @apsdehal
-*   [awesome-forensics (⭐3.7k)](https://github.com/Cugu/awesome-forensics) by @cugu
-*   [awesome-hacking (⭐13k)](https://github.com/carpedm20/awesome-hacking) by @carpedm20
-*   [awesome-honeypots (⭐8.3k)](https://github.com/paralax/awesome-honeypots) by @paralax
-*   [awesome-incident-response (⭐7.4k)](https://github.com/meirwah/awesome-incident-response) by @meirwah
-*   [awesome-lockpicking (⭐1.4k)](https://github.com/fabacab/awesome-lockpicking) by @fabacab
-*   [awesome-malware-analysis (⭐11k)](https://github.com/rshipp/awesome-malware-analysis) by @rshipp
-*   [awesome-pentest (⭐21k)](https://github.com/enaqx/awesome-pentest) by @enaqx
-*   [awesome-privacy (⭐6.5k)](https://github.com/Lissy93/awesome-privacy/) by @Lissy93
-*   [awesome-sec-talks (⭐4k)](https://github.com/PaulSec/awesome-sec-talks) by @PaulSec
-*   [awesome-security (⭐12k)](https://github.com/sbilly/awesome-security) by @sbilly
-*   [awesome-threat-intelligence (⭐7.7k)](https://github.com/hslatman/awesome-threat-intelligence) by @hslatman
-*   [infosec reference (⭐5.5k)](https://github.com/rmusser01/Infosec_Reference) by @rmusser01
-*   [personal-security-checklist (⭐16k)](https://github.com/Lissy93/personal-security-checklist) by @Lissy93
-*   [SecLists (⭐56k)](https://github.com/danielmiessler/SecLists) by @danielmiessler
-*   [security-list (⭐1.7k)](https://github.com/zbetcheckin/Security_list) by @zbetcheckin
+*   [awesome-anti-forensic (⭐816)](https://github.com/remiflavien1/awesome-anti-forensic) by @remiflavien1
+*   [awesome-ctf (⭐10k)](https://github.com/apsdehal/awesome-ctf) by @apsdehal
+*   [awesome-forensics (⭐4.1k)](https://github.com/Cugu/awesome-forensics) by @cugu
+*   [awesome-hacking (⭐14k)](https://github.com/carpedm20/awesome-hacking) by @carpedm20
+*   [awesome-honeypots (⭐8.8k)](https://github.com/paralax/awesome-honeypots) by @paralax
+*   [awesome-incident-response (⭐7.8k)](https://github.com/meirwah/awesome-incident-response) by @meirwah
+*   [awesome-lockpicking (⭐1.5k)](https://github.com/fabacab/awesome-lockpicking) by @fabacab
+*   [awesome-malware-analysis (⭐12k)](https://github.com/rshipp/awesome-malware-analysis) by @rshipp
+*   [awesome-pentest (⭐22k)](https://github.com/enaqx/awesome-pentest) by @enaqx
+*   [awesome-privacy (⭐7.2k)](https://github.com/Lissy93/awesome-privacy/) by @Lissy93
+*   [awesome-sec-talks (⭐4.1k)](https://github.com/PaulSec/awesome-sec-talks) by @PaulSec
+*   [awesome-security (⭐13k)](https://github.com/sbilly/awesome-security) by @sbilly
+*   [awesome-threat-intelligence (⭐8.3k)](https://github.com/hslatman/awesome-threat-intelligence) by @hslatman
+*   [infosec reference (⭐5.6k)](https://github.com/rmusser01/Infosec_Reference) by @rmusser01
+*   [personal-security-checklist (⭐18k)](https://github.com/Lissy93/personal-security-checklist) by @Lissy93
+*   [SecLists (⭐60k)](https://github.com/danielmiessler/SecLists) by @danielmiessler
+*   [security-list (⭐1.8k)](https://github.com/zbetcheckin/Security_list) by @zbetcheckin
 
 ## [2. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [vue-use-fixed-header (⭐51)](https://github.com/smastrom/vue-use-fixed-header) - Turn your boring fixed header into a smart one.
+*   [vue-use-fixed-header (⭐60)](https://github.com/smastrom/vue-use-fixed-header) - Turn your boring fixed header into a smart one.
 *   [zoom-image](https://willnguyen1312.github.io/zoom-image/) - A little yet powerful framework agnostic library to zoom image on the web
 
-## [3. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/README.md)
+## [3. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
-### **Section 10: General AI Tools and Extensions** / **OSS Alternatives for OpenAI Code Interpreter (aka. Advanced Data Analytics)**
+### Editing Support / Diagnostics
 
-*   Oceans of AI - All AI Tools <https://play.google.com/store/apps/details?id=in.blueplanetapps.oceansofai&hl=en_US>
+*   [HiPhish/rainbow-delimiters.nvim (⭐614)](https://github.com/HiPhish/rainbow-delimiters.nvim) - Rainbow delimiters with Tree-sitter.
 
 ## [4. Awesome Math](/content/rossant/awesome-math/README.md)
 
@@ -67,7 +67,7 @@
 
 ### Goroutines
 
-*   [flowmatic (⭐354)](https://github.com/carlmjohnson/flowmatic) - Structured concurrency made easy.
+*   [flowmatic (⭐372)](https://github.com/carlmjohnson/flowmatic) - Structured concurrency made easy.
 
 ### Query Language
 
@@ -77,7 +77,7 @@
 
 ### Libraries / Geospatial
 
-*   [MapLibre/Martin (⭐2.1k)](https://github.com/maplibre/martin) - Map tile server with PostGIS, MBTiles, PMTiles, and sprites support. [![CI build](https://github.com/maplibre/martin/actions/workflows/ci.yml/badge.svg)](https://github.com/maplibre/martin/actions)[![crates.io version](https://img.shields.io/crates/v/martin.svg)](https://crates.io/crates/martin)[![Book](https://img.shields.io/badge/docs-Book-informational)](https://maplibre.org/martin/)
+*   [MapLibre/Martin (⭐2.4k)](https://github.com/maplibre/martin) - Map tile server with PostGIS, MBTiles, PMTiles, and sprites support. [![CI build](https://github.com/maplibre/martin/actions/workflows/ci.yml/badge.svg)](https://github.com/maplibre/martin/actions)[![crates.io version](https://img.shields.io/crates/v/martin.svg)](https://crates.io/crates/martin)[![Book](https://img.shields.io/badge/docs-Book-informational)](https://maplibre.org/martin/)
 
 ## [9. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -87,34 +87,27 @@
 
 ### Large Language Models (LLMs)
 
-*   [microsoft/semantic-kernel (⭐21k)](https://github.com/microsoft/semantic-kernel): integrate cutting-edge LLM technology quickly and easily into your apps
+*   [microsoft/semantic-kernel (⭐23k)](https://github.com/microsoft/semantic-kernel): integrate cutting-edge LLM technology quickly and easily into your apps
 
 ### Autonomous LLM Agents / Prompt Engineering for Text-to-image
 
 *   [Multi-agent Simulation by Jim Fan on Twitter](https://twitter.com/DrJimFan/status/1682086586593443841): "The next frontier of emergent intelligence will be multi-agent simulation: a crowd of AI characters carry out their daily lives through complex social interactions"
 *   [Introducing AACP | SuperAGI](https://superagi.com/introducing-aacp-agent-to-agent-communication-protocol/): agent to agent communication protocol
 
-### Inbox: Speech-to-text (STT) and spoken content analysis / Deforum
+### Speech-to-text (STT) and spoken content analysis / Deforum
 
 *   [Rapidpages](https://www.rapidpages.io/): create React & Tailwind landing pages using AI
 *   [Teaching Programming in the Age of ChatGPT – O’Reilly](https://www.oreilly.com/radar/teaching-programming-in-the-age-of-chatgpt/)
 
-## [10. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
-
-### Editing Support / Diagnostics
-
-*   [HiPhish/rainbow-delimiters.nvim (⭐499)](https://github.com/HiPhish/rainbow-delimiters.nvim) - Rainbow delimiters with Tree-sitter.
-*   [00sapo/visual.nvim (⭐177)](https://github.com/00sapo/visual.nvim) - Provides keybindings for creating a Kakoune/Helix-like experience: first select and then choose the editing command.
-
-## [11. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
+## [10. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ### Tools / Community providers
 
-*   [terragrunt-atlantis-config (⭐601)](https://github.com/transcend-io/terragrunt-atlantis-config) - Generate Atlantis config for Terragrunt projects.
+*   [terragrunt-atlantis-config (⭐637)](https://github.com/transcend-io/terragrunt-atlantis-config) - Generate Atlantis config for Terragrunt projects.
 
 ### Self-hosted Terraform Platforms / IDE
 
-*   [cloud-concierge (⭐208)](https://github.com/dragondrop-cloud/cloud-concierge) - Open Source, codify unmanaged resources as Terraform, detect drift, and cloud cost and security analysis, delivered as a Pull Request.
+*   [cloud-concierge (⭐226)](https://github.com/dragondrop-cloud/cloud-concierge) - Open Source, codify unmanaged resources as Terraform, detect drift, and cloud cost and security analysis, delivered as a Pull Request.
 
 ---
 

@@ -10,13 +10,13 @@
 
 ### GTFS Realtime Convertors / Ruby
 
-*   [gtfs-realtime-translators (⭐19)](https://github.com/Intersection/gtfs-realtime-translators) - A Python-based tool to translate custom arrival API formats to GTFS-realtime.  As of July 2019 it supports LA Metro and SEPTA.
+*   [gtfs-realtime-translators (⭐21)](https://github.com/Intersection/gtfs-realtime-translators) - A Python-based tool to translate custom arrival API formats to GTFS-realtime.  As of July 2019 it supports LA Metro and SEPTA.
 
 ## [2. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
 ### IDE
 
-*   [dbKoda (⭐871)](https://github.com/SouthbankSoftware/dbkoda) - Modern (JavaScript/Electron framework), open source IDE for MongoDB. It has features to support development, administration and performance tuning on MongoDB databases.
+*   [dbKoda (⭐869)](https://github.com/SouthbankSoftware/dbkoda) - Modern (JavaScript/Electron framework), open source IDE for MongoDB. It has features to support development, administration and performance tuning on MongoDB databases.
 
 ### GUI
 
@@ -24,11 +24,11 @@
 
 ### Monitoring/Statistics/Perfomance / Samples
 
-*   [Telegraf PostgreSQL plugin (⭐14k)](https://github.com/influxdata/telegraf/tree/master/plugins/inputs/postgresql) - Provides metrics for your postgres database.
+*   [Telegraf PostgreSQL plugin (⭐15k)](https://github.com/influxdata/telegraf/tree/master/plugins/inputs/postgresql) - Provides metrics for your postgres database.
 
 ### HA/Failover/Sharding / Zabbix
 
-*   [Vitess (⭐18k)](https://github.com/vitessio/vitess) - Database clustering system for horizontal scaling of MySQL through generalized sharding.
+*   [Vitess (⭐19k)](https://github.com/vitessio/vitess) - Database clustering system for horizontal scaling of MySQL through generalized sharding.
 
 ### Reporting / Zabbix
 
@@ -68,9 +68,9 @@
 
 ## [8. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
-### Software / Photo and Video Galleries
+### Software / Photo Galleries
 
-*   [Lychee](https://lycheeorg.github.io/) - Open source grid and album based photo-management-system. ([Source Code (⭐3.3k)](https://github.com/LycheeOrg/Lychee)) `MIT` `PHP/Docker`
+*   [Lychee](https://lycheeorg.github.io/) - Open source grid and album based photo-management-system. ([Source Code (⭐3.5k)](https://github.com/LycheeOrg/Lychee)) `MIT` `PHP/Docker`
 
 ---
 

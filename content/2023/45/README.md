@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 06 - Nov 12, 2023
 
-46 awesome lists updated this week.
+44 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,21 +10,21 @@
 
 ### Applications
 
-*   [UpVPN (⭐173)](https://github.com/upvpn/upvpn-app) - WireGuard VPN client for macOS, Linux, and Windows built on Tauri.
+*   [UpVPN (⭐237)](https://github.com/upvpn/upvpn-app) - WireGuard VPN client for macOS, Linux, and Windows built on Tauri.
 
 ### Applications / Package Managers
 
-*   [helsing-ai/buffrs (⭐172)](https://github.com/helsing-ai/buffrs) \[[buffrs](https://crates.io/crates/buffrs)] - A modern package manager for protocol buffers and gRPC architectures.
+*   [helsing-ai/buffrs (⭐230)](https://github.com/helsing-ai/buffrs) \[[buffrs](https://crates.io/crates/buffrs)] - A modern package manager for protocol buffers and gRPC architectures.
 
 ### Applications / Routing protocols
 
-*   [Holo (⭐248)](https://github.com/holo-routing/holo) - Holo is a suite of routing protocols designed to support high-scale and automation-driven networks
+*   [Holo (⭐295)](https://github.com/holo-routing/holo) - Holo is a suite of routing protocols designed to support high-scale and automation-driven networks
 
 ### Libraries / Template engine
 
 *   Handlebars
-    *   [sunng87/handlebars-rust (⭐1.2k)](https://github.com/sunng87/handlebars-rust) - Handlebars template engine with inheritance, custom helper support.
-    *   [zzau13/yarte (⭐278)](https://github.com/zzau13/yarte) - Yarte stands for **Y**et **A**nother **R**ust **T**emplate **E**ngine, is the fastest template engine.
+    *   [sunng87/handlebars-rust (⭐1.3k)](https://github.com/sunng87/handlebars-rust) - Handlebars template engine with inheritance, custom helper support.
+    *   [zzau13/yarte (⭐280)](https://github.com/zzau13/yarte) - Yarte stands for **Y**et **A**nother **R**ust **T**emplate **E**ngine, is the fastest template engine.
 
 ### Resources / Web programming
 
@@ -35,16 +35,16 @@
 ### Third-Party Packages / Templates
 
 *   [curlylint](https://www.curlylint.org/) - Experimental HTML templates linting for Jinja, Nunjucks, Django templates, Twig, Liquid.
-*   [django-components (⭐1.1k)](https://github.com/EmilStenstrom/django-components/) - A way to create simple reusable template components in Django.
-*   [django-template-partials (⭐404)](https://github.com/carltongibson/django-template-partials/) - Reusable named inline partials for the Django Template Language.
-*   [djhtml (⭐569)](https://github.com/rtts/djhtml) - Django/Jinja template indenter.
+*   [django-components (⭐1.2k)](https://github.com/EmilStenstrom/django-components/) - A way to create simple reusable template components in Django.
+*   [django-template-partials (⭐505)](https://github.com/carltongibson/django-template-partials/) - Reusable named inline partials for the Django Template Language.
+*   [djhtml (⭐586)](https://github.com/rtts/djhtml) - Django/Jinja template indenter.
 *   [djlint](https://www.djlint.com/) - Lint & Format HTML Templates.
 *   [slippers](https://mitchel.me/slippers/) - Build reusable components in Django without writing a single line of Python.
 *   [JinjaX](https://jinjax.scaletti.dev/) - Super components powers for your Jinja templates.
 
 ### Third-Party Packages / Testing
 
-*   [storybook-django (⭐101)](https://github.com/torchbox/storybook-django) - Develop Django UI components in isolation, with Storybook.
+*   [storybook-django (⭐109)](https://github.com/torchbox/storybook-django) - Develop Django UI components in isolation, with Storybook.
 
 ### Wagtail / Wagtail Resources
 
@@ -88,25 +88,13 @@
 
 ## [5. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
-### Components & Libraries / UI Components
-
-*   [vue-file-upload (⭐31)](https://github.com/canopas/vue-file-upload) - A file management system that allows for single and multiple file uploading with a preview feature
-
-### Resources / Community
-
-*   \[VueJS Bangladesh - Facebook Group] (<https://www.facebook.com/groups/764064325433370>)
-
-### Projects Using Vue.js / Open Source
-
-*   [Al Quran App-Vue 3](https://github.com/monayemislam/Al-Quran-Using-Vue) - Al Quran App that allows you to read surah with english meaning
-
 ### Projects Using Vue.js / Apps/Websites
 
 *   [Portfolio Site](https://monayemislam.me) - Monayem Islam, A full-stack web application developer's portfolio site. Made with Love and Vue 3.
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-exit-intent (⭐17)](https://github.com/nickap/vue-exit-intent) - ✨ Vue Composable to handle user's Exit Intent.
+*   [vue-exit-intent (⭐21)](https://github.com/nickap/vue-exit-intent) - ✨ Vue Composable to handle user's Exit Intent.
 
 ## [6. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
@@ -116,21 +104,21 @@
 
 ### Misc / Apache License
 
-*   [ada-chess (⭐7)](https://github.com/adachess/AdaChess) - Chess engine written in Ada.
+*   [ada-chess (⭐8)](https://github.com/adachess/AdaChess) - Chess engine written in Ada.
 
 ## [7. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Command-line utilities
 
-*   [terminal-size (⭐139)](https://github.com/sindresorhus/terminal-size) - Reliably get the terminal window size.
+*   [terminal-size (⭐140)](https://github.com/sindresorhus/terminal-size) - Reliably get the terminal window size.
 
 ### Packages / Image
 
-*   [image-dimensions (⭐423)](https://github.com/sindresorhus/image-dimensions) - Get the dimensions of an image.
+*   [image-dimensions (⭐435)](https://github.com/sindresorhus/image-dimensions) - Get the dimensions of an image.
 
 ### Packages / Miscellaneous
 
-*   [uint8array-extras (⭐209)](https://github.com/sindresorhus/uint8array-extras) - Useful utilities for working with Uint8Array and Buffer.
+*   [uint8array-extras (⭐214)](https://github.com/sindresorhus/uint8array-extras) - Useful utilities for working with Uint8Array and Buffer.
 
 ## [8. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
@@ -166,7 +154,7 @@
 
 ### Table of Contents / Streaming Engine
 
-*   [Pathway (⭐3.1k)](https://github.com/pathwaycom/pathway) \[Python] - The fastest data processing engine supporting unified workflows for batch, streaming data, and LLM applications.
+*   [Pathway (⭐10k)](https://github.com/pathwaycom/pathway) \[Python] - The fastest data processing engine supporting unified workflows for batch, streaming data, and LLM applications.
 
 ## [14. Awesome Cyber Security University](/content/brootware/awesome-cyber-security-university/week/README.md)
 
@@ -182,12 +170,12 @@
 
 ### Projects / User Interfaces
 
-*   [VsCoq (⭐328)](https://github.com/coq-community/vscoq) - Language server and extension for the Visual Studio Code and VSCodium editors.
-*   [VsCoq Legacy (⭐328)](https://github.com/coq-community/vscoq/tree/vscoq1) - Backwards-compatible extension for the Visual Studio Code and VSCodium editors using Coq's legacy XML protocol.
+*   [VsCoq (⭐355)](https://github.com/coq-community/vscoq) - Language server and extension for the Visual Studio Code and VSCodium editors.
+*   [VsCoq Legacy (⭐355)](https://github.com/coq-community/vscoq/tree/vscoq1) - Backwards-compatible extension for the Visual Studio Code and VSCodium editors using Coq's legacy XML protocol.
 
 ### Projects / Verified Software
 
-*   [WasmCert-Coq (⭐89)](https://github.com/WasmCert/WasmCert-Coq/) - Formalization in Coq of the WebAssembly (aka Wasm) 1.0 specification.
+*   [WasmCert-Coq (⭐101)](https://github.com/WasmCert/WasmCert-Coq/) - Formalization in Coq of the WebAssembly (aka Wasm) 1.0 specification.
 
 ### Resources / Blogs
 
@@ -203,24 +191,7 @@
 
 *   [UK Address Oddities](https://paulplowman.com/stuff/uk-address-oddities/) - Quirks extracted from a list of most residential property sales in England and Wales since 1995.
 
-## [17. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/week/README.md)
-
-### **RAG Pipeline & Advanced RAG**
-
-*   Advanced RAG Patterns: How to improve RAG peformance [ref](https://cloudatlas.me/why-do-rag-pipelines-fail-advanced-rag-patterns-part1-841faad8b3c2) / [ref](https://cloudatlas.me/how-to-improve-rag-peformance-advanced-rag-patterns-part2-0c84e2df66e6) \[17 Oct 2023]
-    1.  Data quality: Clean, standardize, deduplicate, segment, annotate, augment, and update data to make it clear, consistent, and context-rich.
-    2.  Embeddings fine-tuning: Fine-tune embeddings to domain specifics, adjust them according to context, and refresh them periodically to capture evolving semantics.
-    3.  Retrieval optimization: Refine chunking, embed metadata, use query routing, multi-vector retrieval, re-ranking, hybrid search, recursive retrieval, query engine, [HyDE](https://arxiv.org/abs/2212.10496) \[20 Dec 2022], and vector search algorithms to improve retrieval efficiency and relevance.
-    4.  Synthesis techniques: Query transformations, prompt templating, prompt conditioning, function calling, and fine-tuning the generator to refine the generation step.
-    *   HyDE: Implemented in [LangChain: HypotheticalDocumentEmbedder (⭐91k)](https://github.com/langchain-ai/langchain/blob/master/cookbook/hypothetical_document_embeddings.ipynb). A query generates hypothetical documents, which are then embedded and retrieved to provide the most relevant results. `query -> generate n hypothetical documents -> documents embedding - (avg of embeddings) -> retrieve -> final result.` [ref](https://www.jiang.jp/posts/20230510_hyde_detailed/index.html)
-
-### **Finetuning** / **Llama Finetuning**
-
-*   Llama 2 ONNX [git (⭐1k)](https://github.com/microsoft/Llama-2-Onnx) \[Jul 2023]
-
-    *   ONNX, or Open Neural Network Exchange, is an open standard for machine learning interoperability. It allows AI developers to use models across various frameworks, tools, runtimes, and compilers.
-
-## [18. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/week/README.md)
+## [17. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/week/README.md)
 
 ### Image / Services
 
@@ -230,14 +201,14 @@
 
 *   [Canva](https://www.canva.com/ai-image-generator/) - Generating AI Images.
 
-## [19. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [18. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Resources / Blog posts
 
-*   [Pandas2 and Polars for Feature Engineering](https://www.hopsworks.ai/post/pandas2-and-polars-for-feature-engineering) - A blog post that A blog post that compares Pandas2 and Polars for Feature Engineering tasks with Python by [@hopswork (⭐1.1k)](https://github.com/logicalclocks/hopsworks).
+*   [Pandas2 and Polars for Feature Engineering](https://www.hopsworks.ai/post/pandas2-and-polars-for-feature-engineering) - A blog post that A blog post that compares Pandas2 and Polars for Feature Engineering tasks with Python by [@hopswork (⭐1.2k)](https://github.com/logicalclocks/hopsworks).
 *   [Using Polars Plugins for a 14x Speed Boost with Rust](https://towardsdatascience.com/using-polars-plugins-for-a-14x-speed-boost-with-rust-ce80bcc13d94) - A blog post thats shows the use of Polars plugin system for Rust from some concrete examples by [@ngriffiths13](https://github.com/ngriffiths13).
 
-## [20. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/week/README.md)
+## [19. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/week/README.md)
 
 ### :bookmark_tabs: Datasets / Scientific Research
 
@@ -256,33 +227,27 @@
 *   [Fire-Pack](http://files.dhs.nu/files_source/axe.zip?fire-pack)
 *   [Pack-Ice](http://files.dhs.nu/files_source/axe.zip?pack-ice)
 
-## [21. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [20. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### Geospatial / Text-Based User Interfaces
 
-*   [ArcGIS Maps SDK for Java ![c](https://cdn.rawgit.com/akullpp/23246ca832bda82bb505230bf3538e2a/raw/d9bcdb769bf025292f9c6bc1290f01f1fcd1f864/commercial.svg) (⭐111)](https://github.com/Esri/arcgis-maps-sdk-java-samples/) - JavaFX library for adding mapping and GIS functionality to desktop apps.
+*   [ArcGIS Maps SDK for Java ![c](https://cdn.rawgit.com/akullpp/23246ca832bda82bb505230bf3538e2a/raw/d9bcdb769bf025292f9c6bc1290f01f1fcd1f864/commercial.svg) (⭐113)](https://github.com/Esri/arcgis-maps-sdk-java-samples/) - JavaFX library for adding mapping and GIS functionality to desktop apps.
 
 ### Machine Learning / Text-Based User Interfaces
 
-*   [Neureka (⭐68)](https://github.com/Gleethos/neureka) - A lightweight, platform independent, OpenCL accelerated nd-array/tensor library.
+*   [Neureka (⭐70)](https://github.com/Gleethos/neureka) - A lightweight, platform independent, OpenCL accelerated nd-array/tensor library.
 
-## [22. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
-
-### Projects / ESB
-
-*   [NServiceBus (⭐2k) (⭐2.1k)](https://github.com/Particular/NServiceBus) - A .NET-based service bus that offers an intuitive developer-friendly environment.
-
-## [23. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
+## [21. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
 ### Development / Discovery
 
-*   [Snowfall Lib (⭐365)](https://github.com/snowfallorg/lib) - A library that makes it easy to manage your Nix flake by imposing an opinionated file structure.
+*   [Snowfall Lib (⭐456)](https://github.com/snowfallorg/lib) - A library that makes it easy to manage your Nix flake by imposing an opinionated file structure.
 
-## [24. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/week/README.md)
+## [22. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/week/README.md)
 
 ### How-to guides
 
-*   [How to resize dom0](https://forum.qubes-os.org/t/resize-dom0/10886) - Just in case anyone needs help with this to resize dom0 from say 20G to 50G.
+*   [How to resize dom0](https://forum.qubes-os.org/t/resize-dom0/10886) - Just in case anyone needs help with this to resize dom0 from 20G to 50G.
 *   [How to open Urls in other qube](https://forum.qubes-os.org/t/opening-urls-files-in-other-qubes/19026) - This page is about opening URLs and files from one qube in a different qube.
 
 ### Templates
@@ -294,7 +259,7 @@
 *   [Multimedia template](https://forum.qubes-os.org/t/configuring-a-multimedia-templatevm/19055) - Configuring a “Multimedia” TemplateVM
 *   [Windows Qubes](https://www.qubes-os.org/doc/windows/) - Like any other unmodified OSes, Windows can be installed in Qubes as an HVM domain.
 *   [Tails OS](https://forum.qubes-os.org/docs?topic=19012) - Tails stands for The Amnesic Incognito Live System. It is a live operating system that aims to preserve your privacy and anonymit.
-*   [Shadow qube (⭐5)](https://github.com/kennethrrosen/qubes-shadow-dvm) - The below script will create a Qube, launch the Tor browser, wait for the browser to close, then remove the qube and its RAM pool.
+*   [Shadow qube (⭐7)](https://github.com/kennethrrosen/qubes-shadow-dvm) - The below script will create a Qube, launch the Tor browser, wait for the browser to close, then remove the qube and its RAM pool.
 
 ### VM-Hardening
 
@@ -306,15 +271,14 @@
 ### Customization
 
 *   [DPI scaling](https://forum.qubes-os.org/t/dpi-scaling/19064) - Qubes OS passes on dom0’s screen resolution to VMs (this can be seen in the output of xrandr) but doesn’t pass on dom0’s dpi value.
-*   [PLayback performance](https://forum.qubes-os.org/t/improve-video-playback-performance-including-youtube/21946) - This guide will show you how to install the mpv player and use it with maximum performance.
-*   [Wayland agent (⭐12)](https://github.com/DemiMarie/qubes-wayland) - This is a GUI agent for Qubes OS that supports the \[Wayland] display server protocol. Compared to X11, Wayland is vastly simpler and aims to ensure every frame is perfect.
+*   [Wayland agent (⭐16)](https://github.com/DemiMarie/qubes-wayland) - This is a GUI agent for Qubes OS that supports the \[Wayland] display server protocol. Compared to X11, Wayland is vastly simpler and aims to ensure every frame is perfect.
 
 ### Troubleshooting
 
 *   [Mounting a qube’s private storage in another qube](https://forum.qubes-os.org/t/mounting-a-qubes-private-storage-in-another-qube/19080) -  Useful for data recovery.
 *   [Traffic Analysis in Qubes OS](https://zrubi.hu/en/2017/traffic-analysis-qubes/) - You can place a ProxyVM between your AppVMs and Your NetVM. This way we can create an ideal topology for traffic analysis.
 *   [Analyze Qubes OS VM  (⭐1)](https://github.com/3hhh/qubes-performance) - Analyze Qubes OS VM startup performance.
-*   [Url redirector (⭐33)](https://github.com/raffaeleflorio/qubes-url-redirector/) - This is a browser extension, aimed to improve surfing security.
+*   [Url redirector (⭐35)](https://github.com/raffaeleflorio/qubes-url-redirector/) - This is a browser extension, aimed to improve surfing security.
 *   [Changing your Time Zone](https://forum.qubes-os.org/t/changing-your-time-zone/18983) - Change the system’s time zone in terminal you can issue the timedatectl command with the option set-timezone.
 
 ### Clearnet & Anonymous Networking / Wireguard
@@ -333,23 +297,23 @@
 
 ### Exploitation Tools / Unikernel-like
 
-*   [Hyperdbg (⭐2.7k)](https://github.com/HyperDbg/HyperDbg) - HyperDbg Debugger is an open-source, community-driven, hypervisor-assisted, user-mode, and kernel-mode Windows debugger with a focus on using modern hardware technologies. It is a debugger designed for analyzing, fuzzing, and reversing.
+*   [Hyperdbg (⭐2.9k)](https://github.com/HyperDbg/HyperDbg) - HyperDbg Debugger is an open-source, community-driven, hypervisor-assisted, user-mode, and kernel-mode Windows debugger with a focus on using modern hardware technologies. It is a debugger designed for analyzing, fuzzing, and reversing.
 
-### Optics and Extra Info / Unikernel-like
+### Optics and Extra Info / Extra Info
 
-*   [Hipervisor From Scratch (⭐2.1k)](https://github.com/SinaKarvandi/Hypervisor-From-Scratch)- Source code of a multiple series of tutorials about the hypervisor.
+*   [Hipervisor From Scratch (⭐2.2k)](https://github.com/SinaKarvandi/Hypervisor-From-Scratch)- Source code of a multiple series of tutorials about the hypervisor.
 
-## [25. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+## [23. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Vendor Data Resources / Travel Behavior
 
 *   [AirSage](https://airsage.com/) - AirSage is a well-known provider of location based services and GPS data from cell phones operating in the space since 2000.
 
-## [26. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [24. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Document Management
 
-*   [DocKing](https://docking.shipsaas.tech) - Document management service/microservice that handles templates and renders them in PDF format, all in one place. ([Demo](https://docking-demo.shipsaas.tech/console), [Source Code (⭐194)](https://github.com/shipsaas/docking)) `MIT` `PHP/Nodejs/Docker`
+*   [DocKing](https://docking.shipsaas.tech) - Document management service/microservice that handles templates and renders them in PDF format, all in one place. ([Demo](https://docking-demo.shipsaas.tech/console), [Source Code (⭐235)](https://github.com/shipsaas/docking)) `MIT` `PHP/Nodejs/Docker`
 
 ### Software / Groupware
 
@@ -361,13 +325,13 @@
 
 ### Software / Miscellaneous
 
-*   [Flyimg](https://flyimg.io) - Resize and crop images on the fly. Get optimised images with MozJPEG, WebP or PNG using ImageMagick, with an efficient caching system. ([Demo](https://demo.flyimg.io), [Source Code (⭐1k)](https://github.com/flyimg/flyimg)) `MIT` `Docker`
+*   [Flyimg](https://flyimg.io) - Resize and crop images on the fly. Get optimised images with MozJPEG, WebP or PNG using ImageMagick, with an efficient caching system. ([Demo](https://demo.flyimg.io), [Source Code (⭐1.1k)](https://github.com/flyimg/flyimg)) `MIT` `Docker`
 
 ### Software / Self-hosting Solutions
 
-*   [StartOS](https://start9.com) - Browser-based, graphical Operating System (OS) that makes running a personal server as easy as running a personal computer. ([Source Code (⭐934)](https://github.com/Start9Labs/start-os)) `MIT` `Rust`
+*   [StartOS](https://start9.com) - Browser-based, graphical Operating System (OS) that makes running a personal server as easy as running a personal computer. ([Source Code (⭐1.1k)](https://github.com/Start9Labs/start-os)) `MIT` `Rust`
 
-## [27. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [25. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
@@ -377,11 +341,15 @@
 
 *   [Iconoir](https://iconoir.com) – An open-source icons library with thousands of icons, supporting React, React Native, Flutter, Vue, Figma, and Framer.
 
-## [28. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [26. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+
+### Templates / Vue 3
+
+*   [vue-file-upload (⭐32)](https://github.com/canopas/vue-file-upload) - A file management system built with `Vue3` and `TypeScript` that allows for single and multiple file uploading with a preview feature.
 
 ### Templates / React
 
-*   [vite-express-ssr-ts (⭐28)](https://github.com/gihanrangana/vite-express-ssr-ts) - React + Typescript + ExpressJS + Vite SSR template with inbuild api feature.
+*   [vite-express-ssr-ts (⭐42)](https://github.com/gihanrangana/vite-express-ssr-ts) - React + Typescript + ExpressJS + Vite SSR template with inbuild api feature.
 
 ### Framework-agnostic Plugins / Helpers
 
@@ -393,23 +361,23 @@
 
 ### Svelte / Helpers
 
-*   [vite-plugin-kit-routes (⭐392)](https://github.com/jycouet/kitql/tree/main/packages/vite-plugin-kit-routes) - Generates a file with all the routes, params, actions of your SvelteKit App.
+*   [vite-plugin-kit-routes (⭐411)](https://github.com/jycouet/kitql/tree/main/packages/vite-plugin-kit-routes) - Generates a file with all the routes, params, actions of your SvelteKit App.
 
-## [29. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [27. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Project / Diagnostics
 
-*   [SalOrak/whaler.nvim (⭐57)](https://github.com/SalOrak/whaler.nvim) - Telescope extension to move between directories blazingly fast.
+*   [SalOrak/whaler.nvim (⭐58)](https://github.com/SalOrak/whaler.nvim) - Telescope extension to move between directories blazingly fast.
 
 ### Startup / Diagnostics
 
-*   [TobinPalmer/Tip.nvim (⭐70)](https://github.com/TobinPalmer/Tip.nvim) - Get a simple tip when you launch Neovim.
+*   [TobinPalmer/Tip.nvim (⭐76)](https://github.com/TobinPalmer/Tip.nvim) - Get a simple tip when you launch Neovim.
 
 ### Motion / Diagnostics
 
-*   [xiaoshihou514/squirrel.nvim (⭐13)](https://github.com/xiaoshihou514/squirrel.nvim) - Quickly jump between tree-sitter nodes.
+*   [xiaoshihou514/squirrel.nvim (⭐15)](https://github.com/xiaoshihou514/squirrel.nvim) - Quickly jump between Tree-sitter nodes.
 
-## [30. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [28. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -417,42 +385,42 @@
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [inshellisense (⭐8.3k)](https://github.com/microsoft/inshellisense) - Provides IDE style autocomplete for shells. It's a terminal native runtime for autocomplete which has support for 600+ command line tools. inshellisense supports `bash`, `fish`, `zsh` and `pwsh` on the Windows, Linux, & MacOS operating systems.
+*   [inshellisense (⭐9.1k)](https://github.com/microsoft/inshellisense) - Provides IDE style autocomplete for shells. It's a terminal native runtime for autocomplete which has support for 600+ command line tools. inshellisense supports `bash`, `fish`, `zsh` and `pwsh` on the Windows, Linux, & MacOS operating systems.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [ludvig (⭐0)](https://github.com/daviludvig/ludvig-theme-zsh) - Minimalist. Includes decorators for `git` status, current directory, current time and the last command's exit status.
 
-## [31. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
+## [29. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### IDE
 
 *   [WebDB](https://webdb.app) - Free Efficient Database IDE. Featuring Server Discovery, ERD, Data Generator, AI, NoSQL Structure Manager, Database Versioning and many more.
 
-## [32. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [30. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Open-source sites / Lists
 
-*   [Penticon Public Library (⭐3)](https://github.com/danlerche/public-library-wagtailCMS) - An example public library website, originally created for the Penticton Public Library in Penticton, British Columbia, Canada.
+*   [Penticon Public Library (⭐4)](https://github.com/danlerche/public-library-wagtailCMS) - An example public library website, originally created for the Penticton Public Library in Penticton, British Columbia, Canada.
 
-## [33. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [31. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Template Engines
 
-*   [templ (⭐7.8k)](https://github.com/a-h/templ) - A HTML templating language that has great developer tooling.
+*   [templ (⭐8.7k)](https://github.com/a-h/templ) - A HTML templating language that has great developer tooling.
 
 ### Code Analysis / Libraries for creating HTTP middlewares
 
-*   [golangci-lint (⭐15k)](https://github.com/golangci/golangci-lint) – A fast Go linters runner. It runs linters in parallel, uses caching, supports `yaml` config, has integrations with all major IDE and has dozens of linters included.
-*   [revive (⭐4.7k)](https://github.com/mgechev/revive) – \~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for `golint`.
-*   [testifylint (⭐96)](https://github.com/Antonboom/testifylint) – A linter that checks usage of [github.com/stretchr/testify (⭐23k)](https://github.com/stretchr/testify).
+*   [golangci-lint (⭐16k)](https://github.com/golangci/golangci-lint) – A fast Go linters runner. It runs linters in parallel, uses caching, supports `yaml` config, has integrations with all major IDE and has dozens of linters included.
+*   [revive (⭐4.9k)](https://github.com/mgechev/revive) – \~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for `golint`.
+*   [testifylint (⭐115)](https://github.com/Antonboom/testifylint) – A linter that checks usage of [github.com/stretchr/testify (⭐24k)](https://github.com/stretchr/testify).
 
 ### Meetups / Libraries for creating HTTP middlewares
 
 *   [Bärner Go Meetup - Berne, Switzerland](https://www.meetup.com/berner-go-meetup/)
 *   [Zürich Gophers - Zurich, Switzerland](https://www.meetup.com/zurich-gophers/)
 
-## [34. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [32. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / API Development and Analysis
 
@@ -464,9 +432,9 @@
 
 ### Communication / Email Clients
 
-*   [CanaryMail](https://canarymail.io/) - Secure email app for Mac and iPhone with built-in PGP Support and AI assitance. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/canary-mail-email-meet-ai/id1236045954?mt=12)
+*   [CanaryMail](https://canarymail.io/) - Secure email app for Mac and iPhone with built-in PGP Support and AI assistance. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/canary-mail-email-meet-ai/id1236045954?mt=12)
 
-## [35. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [33. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### AI Engineering / Multi-agents
 
@@ -495,8 +463,8 @@
 
 ### Retrieval-Augmented Generation (RAG) / Prompt Engineering for Text-to-image
 
-*   [imartinez/privateGPT (⭐53k)](https://github.com/imartinez/privateGPT): "Interact with your documents using the power of GPT, 100% privately, no data leaks"
-*   [pinecone-io/canopy (⭐935)](https://github.com/pinecone-io/canopy): Retrieval Augmented Generation (RAG) framework and context engine powered by Pinecone
+*   [imartinez/privateGPT (⭐55k)](https://github.com/imartinez/privateGPT): "Interact with your documents using the power of GPT, 100% privately, no data leaks"
+*   [pinecone-io/canopy (⭐994)](https://github.com/pinecone-io/canopy): Retrieval Augmented Generation (RAG) framework and context engine powered by Pinecone
 *   [Forget RAG, the Future is RAG-Fusion](https://towardsdatascience.com/forget-rag-the-future-is-rag-fusion-1147298d8ad1): post by Adrian H. Raudaschl in Towards Data Science
 
 ### LLM Evaluation / Multi-agents
@@ -505,99 +473,92 @@
 
 ### Image Segmentation / Deforum
 
-*   [AILab-CVC/VideoCrafter (⭐4.4k)](https://github.com/ailab-cvc/videocrafter): Open Diffusion Models for High-Quality Video Generation
+*   [AILab-CVC/VideoCrafter (⭐4.7k)](https://github.com/ailab-cvc/videocrafter): Open Diffusion Models for High-Quality Video Generation
 *   [What's Generative Music? - Generative Music AI - YouTube](https://www.youtube.com/watch?v=9QNG56fc_l8\&list=PL-wATfeyAMNqAPjwGT3ikEz3gMo23pl-D\&index=3)
 
-### Inbox: Speech-to-text (STT) and spoken content analysis / Deforum
+### Speech-to-text (STT) and spoken content analysis / Deforum
 
-*   [Vaibhavs10/insanely-fast-whisper (⭐7.1k)](https://github.com/Vaibhavs10/insanely-fast-whisper): accelerates transcription with the combination of OpenAI's Whisper Large v2, HF Transformers, Optimum, and flash attention
-*   [deepseek-ai/DeepSeek-Coder (⭐6.3k)](https://github.com/deepseek-ai/DeepSeek-Coder): a tool that experiments the motto "let the code write itself"
+*   [Vaibhavs10/insanely-fast-whisper (⭐8k)](https://github.com/Vaibhavs10/insanely-fast-whisper): accelerates transcription with the combination of OpenAI's Whisper Large v2, HF Transformers, Optimum, and flash attention
+*   [deepseek-ai/DeepSeek-Coder (⭐10k)](https://github.com/deepseek-ai/DeepSeek-Coder): a tool that experiments the motto "let the code write itself"
 *   [NExT-Chat: An LMM for Chat, Detection and Segmentation](https://huggingface.co/papers/2311.04498)
-*   [roboflow/awesome-openai-vision-api-experiments (⭐1.6k)](https://github.com/roboflow/awesome-openai-vision-api-experiments): Examples showing how to use the OpenAI vision API to run inference on images, video files and webcam streams
+*   [roboflow/awesome-openai-vision-api-experiments (⭐1.7k)](https://github.com/roboflow/awesome-openai-vision-api-experiments): Examples showing how to use the OpenAI vision API to run inference on images, video files and webcam streams
 
-## [36. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [34. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### Web Apps (open source)
 
-*   Dede - An independent and universal passenger information system (PIS) mapping realtime movement. A message feed with Vehicle Position entities in the GTFS-Realtime format or the [Dede app (⭐1)](https://github.com/dancesWithCycles/dede-android) can be used as data source.
+*   Dede - An independent and universal passenger information system (PIS) mapping realtime movement. A message feed with Vehicle Position entities in the GTFS-Realtime format or the [Dede app](https://github.com/dancesWithCycles/dede-android) can be used as data source.
 
 ### GTFS Libraries / Python
 
-*   [gtfs\_functions (⭐105)](https://github.com/Bondify/gtfs_functions) - Python package with useful functions to create geo-spatial visualizations from GTFS feeds.
+*   [gtfs\_functions (⭐117)](https://github.com/Bondify/gtfs_functions) - Python package with useful functions to create geo-spatial visualizations from GTFS feeds.
 
-## [37. Awesome Product Management](/content/dend/awesome-product-management/week/README.md)
+## [35. Awesome Product Management](/content/dend/awesome-product-management/week/README.md)
 
 ### Articles / Obsidian
 
 *   [Don't Give Your Users Shit Work ](https://zachholman.com/posts/shit-work/) - By [Zach Holman](https://zachholman.com/about).
 *   [Mud Rooms, Red Letters, and Real Priorities](https://www.43folders.com/2009/04/28/priorities) - By [Merlin Mann](https://www.43folders.com/about).
 
-## [38. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [36. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Concepts / AI Concept Representation
 
-*   [A principal odor map unifies diverse tasks in olfactory perception](https://www.science.org/doi/full/10.1126/science.ade4401) - ***Science***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=17847258457660438418\&hl=en\&as_sdt=0,5)]. \[[Code (⭐20)](https://github.com/osmoai/publications/tree/main/lee_et_al_2023)]. \[[Data (Reproduced)](https://www.kaggle.com/datasets/aryanamitbarsainyan/multi-labelled-smiles-odors-dataset)]. \[[Preprint](https://centaur.reading.ac.uk/113304/1/Mayhew%20et%20al%20for%20Centaur.pdf)]. \[[GoodScents Database](https://www.thegoodscentscompany.com/)]. \[[Leffingwell Database](http://www.leffingwell.com/bacispmp.htm)]. A Principal Odor Map (POM) that preserves perceptual relationships and enables odor quality prediction for novel odorants.
-*   [Connecting Touch and Vision via Cross-Modal Prediction](https://ieeexplore.ieee.org/document/8953737) - ***CVPR'19***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=17326564895972374001\&hl=en\&as_sdt=0,5)]. \[[Project (⭐67)](https://github.com/YunzhuLi/VisGel)].
+*   [A principal odor map unifies diverse tasks in olfactory perception](https://www.science.org/doi/full/10.1126/science.ade4401) - ***Science***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=17847258457660438418\&hl=en\&as_sdt=0,5)]. \[[Code (⭐24)](https://github.com/osmoai/publications/tree/main/lee_et_al_2023)]. \[[Data (Reproduced)](https://www.kaggle.com/datasets/aryanamitbarsainyan/multi-labelled-smiles-odors-dataset)]. \[[Preprint](https://centaur.reading.ac.uk/113304/1/Mayhew%20et%20al%20for%20Centaur.pdf)]. \[[GoodScents Database](https://www.thegoodscentscompany.com/)]. \[[Leffingwell Database](http://www.leffingwell.com/bacispmp.htm)]. A Principal Odor Map (POM) that preserves perceptual relationships and enables odor quality prediction for novel odorants.
+*   [Connecting Touch and Vision via Cross-Modal Prediction](https://ieeexplore.ieee.org/document/8953737) - ***CVPR'19***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=17326564895972374001\&hl=en\&as_sdt=0,5)]. \[[Project (⭐72)](https://github.com/YunzhuLi/VisGel)].
 
-## [39. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [37. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Audio
 
-*   [Amplitude Audio SDK (⭐28)](https://github.com/SparkyStudios/AmplitudeAudioSDK) - A cross-platform audio engine designed with the needs of games in mind. \[Apache-2.0] [website](https://amplitudeaudiosdk.com)
+*   [Amplitude Audio SDK (⭐41)](https://github.com/SparkyStudios/AmplitudeAudioSDK) - A cross-platform audio engine designed with the needs of games in mind. \[Apache-2.0] [website](https://amplitudeaudiosdk.com)
 
 ### Font
 
-*   [libschrift (⭐457)](https://github.com/tomolt/libschrift) - A lightweight TrueType font rendering library. \[ISC]
+*   [libschrift (⭐492)](https://github.com/tomolt/libschrift) - A lightweight TrueType font rendering library. \[ISC]
 
 ### Graphics
 
-*   [ThorVG (⭐647)](https://github.com/thorvg/thorvg) - a platform-independent portable library that allows for drawing vector-based scenes and animations, including SVG and Lottie. \[MIT] [website](https://www.thorvg.org/)
+*   [ThorVG (⭐830)](https://github.com/thorvg/thorvg) - a platform-independent portable library that allows for drawing vector-based scenes and animations, including SVG and Lottie. \[MIT] [website](https://www.thorvg.org/)
 
 ### Networking
 
-*   [nghttp3 (⭐844)](https://github.com/ngtcp2/nghttp3) - HTTP/3 library written in C. \[MIT] [website](https://nghttp2.org/nghttp3/)
+*   [nghttp3 (⭐889)](https://github.com/ngtcp2/nghttp3) - HTTP/3 library written in C. \[MIT] [website](https://nghttp2.org/nghttp3/)
 
-## [40. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/week/README.md)
+## [38. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/week/README.md)
 
 ### Tools / File
 
 *   [AFL++ (⭐4.1k)](https://github.com/AFLplusplus/AFLplusplus) - AFL++ is a superior fork to Google's AFL - more speed, more and better mutations, more and better instrumentation, custom module support, etc.
 *   [Angora (⭐882)](https://github.com/AngoraFuzzer/Angora) - Angora is a mutation-based coverage guided fuzzer. The main goal of Angora is to increase branch coverage by solving path constraints without symbolic execution.
 
-## [41. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [39. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Graph databases
 
 *   [neo4cl](https://codeberg.org/Equill/neo4cl) - a library for interacting with Neo4J. Sends Cypher queries to a Neo4J server, and decodes the responses into something useful for processing in CL. [Apache2](https://directory.fsf.org/wiki/License:Apache2.0).
     *   and maybe: [cl-neo4j (⭐26)](https://github.com/kraison/cl-neo4j) - a thin neo4j RESTFUL client interface.
 
-### Iteration
-
-*   [cl-transducers](https://git.sr.ht/~fosskers/cl-transducers) - Ergonomic, efficient data processing. [LGPL3](https://www.gnu.org/licenses/lgpl-3.0.en.html).
-    *   "Transducers are an ergonomic and extremely memory-efficient way to process a data source. Here “data source” means simple collections like Lists or Vectors, but also potentially large files or generators of infinite data."
-    *   "It is, in general, the most complete implementation of the Transducer pattern."
-    *   a "modern" API with `map`, `filter`, `take`, `repeat`, `cycle`, `fold`…
-
-## [42. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
+## [40. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
 
 ### Other
 
-*   [package-up (⭐148)](https://github.com/sindresorhus/package-up) - Find the closest package.json file.
-*   [read-package-up (⭐250)](https://github.com/sindresorhus/read-package-up) - Read the closest package.json file.
-*   [package-config (⭐113)](https://github.com/sindresorhus/package-config) - Get namespaced config from the closest package.json.
+*   [package-up (⭐159)](https://github.com/sindresorhus/package-up) - Find the closest package.json file.
+*   [read-package-up (⭐258)](https://github.com/sindresorhus/read-package-up) - Read the closest package.json file.
+*   [package-config (⭐120)](https://github.com/sindresorhus/package-config) - Get namespaced config from the closest package.json.
 
-## [43. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [41. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Back-end API / Playground
 
-*   :octocat: [Fastify (⭐32k)](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js
+*   :octocat: [Fastify (⭐33k)](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js
 *   :octocat: [Hono](https://hono.dev/) - Hono is a small, simple, and ultrafast web framework for the Edges. It works on any JavaScript runtime
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [SuperJSON (⭐3.9k)](https://github.com/blitz-js/superjson) - Safely serialize JavaScript expressions to a superset of JSON, which includes Dates, BigInts, and more
+*   :octocat: [SuperJSON (⭐4.3k)](https://github.com/blitz-js/superjson) - Safely serialize JavaScript expressions to a superset of JSON, which includes Dates, BigInts, and more
 
-## [44. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
+## [42. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
 
 ### Hosting:
 
@@ -613,17 +574,17 @@
 
 
 
-## [45. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
+## [43. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
 
 ### Mathematics
 
 *   [Guide to Discrete Mathematics](https://core.ac.uk/download/pdf/326762636.pdf) - David Gries, Fred B. Schneider (PDF)
 
-## [46. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [44. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Tools / Community providers
 
-*   [tfprovidercheck (⭐70)](https://github.com/suzuki-shunsuke/tfprovidercheck) - CLI to prevent malicious Terraform Providers from being executed
+*   [tfprovidercheck (⭐77)](https://github.com/suzuki-shunsuke/tfprovidercheck) - CLI to prevent malicious Terraform Providers from being executed
 
 ---
 

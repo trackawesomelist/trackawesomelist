@@ -47,13 +47,13 @@ Starting with time series analysis, you will also learn how to optimize portfoli
 
 ### Testing
 
-*   [wallaby (⭐1.6k)](https://github.com/keathley/wallaby) - Wallaby helps test your web applications by simulating user interactions concurrently and manages browsers.
+*   [wallaby (⭐1.7k)](https://github.com/keathley/wallaby) - Wallaby helps test your web applications by simulating user interactions concurrently and manages browsers.
 
 ## [6. Awesome R](/content/qinwf/awesome-R/README.md)
 
 ### Lists / Book/monograph Lists and Reviews
 
-*   [RStartHere (⭐655)](https://github.com/rstudio/RStartHere) - A guide to some of the most useful R packages, organized by workflow.
+*   [RStartHere (⭐664)](https://github.com/rstudio/RStartHere) - A guide to some of the most useful R packages, organized by workflow.
 
 ## [7. Learn to Program](/content/karlhorky/learn-to-program/README.md)
 

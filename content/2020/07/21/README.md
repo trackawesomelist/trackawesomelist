@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 21, 2020
 
-13 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -72,7 +72,7 @@
 
 ### Tools
 
-*   [WebStation SYSMON (⭐190)](https://github.com/t0xic0der/sysmon) - An intuitive remotely-accessible system performance monitoring and task management tool for servers  and headless Raspberry Pi setups.
+*   [WebStation SYSMON (⭐191)](https://github.com/t0xic0der/sysmon) - An intuitive remotely-accessible system performance monitoring and task management tool for servers  and headless Raspberry Pi setups.
 
 ## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -90,22 +90,13 @@
 
 *   [Airstream Basecamp](https://www.airstream.com/travel-trailers/airstream-basecamp-3d-experience/) - Travel trailer visualizer.
 
-## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / UI Components
-
-*   [vue-horizontal-timeline (⭐100)](https://github.com/guastallaigor/vue-horizontal-timeline) - Just a simple horizontal timeline component made with Vue.js.
-*   [vue-image-kit (⭐10)](https://github.com/guastallaigor/vue-image-kit) - Vue.js Image Kit Component with Lazy Load built in and Responsive Images.
-*   [vue-paycard (⭐106)](https://github.com/guastallaigor/vue-paycard) - Credit card component made with Vue.js.
-*   [vue-list-picker (⭐15)](https://github.com/guastallaigor/vue-list-picker) - Just a simple list picker component made with Vue.js.
-
-## [10. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md)
+## [9. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md)
 
 ### Articles / Plugins
 
-*   [The-Economist (⭐3.5k)](https://github.com/nailperry-zd/The-Economist) - The Economist.
+*   [The-Economist (⭐3.6k)](https://github.com/nailperry-zd/The-Economist) - The Economist.
 
-## [11. Awesome Lidar](/content/szenergy/awesome-lidar/README.md)
+## [10. Awesome Lidar](/content/szenergy/awesome-lidar/README.md)
 
 ### Manufacturers
 
@@ -126,7 +117,7 @@
 *   [OSRF Gazebo](http://gazebosim.org/) - OGRE-based general-purpose robotic simulator, ROS/ROS 2 compatible.
     *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐1.2k)](https://github.com/osrf/gazebo) ![](https://img.shields.io/badge/ROS-2-34aec5?style=flat-square\&logo=ros)
 
-## [12. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+## [11. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Canvas
 
@@ -134,11 +125,11 @@
 *   [react-sketch (⭐670)](https://github.com/tbolis/react-sketch) - A Sketch tool for React based applications, backed-up by FabricJS
 *   [react-sketch-canvas (⭐399)](https://github.com/vinothpandian/react-sketch-canvas) - [Demo](https://vinoth.info/react-sketch-canvas/?path=/story/*) Freehand vector drawing tool for React using SVG as canvas. Accepts input from Mouse, touch, and graphic tablets
 
-## [13. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md)
+## [12. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md)
 
 ### Image Optimizers / Meetups
 
-*   [Tapnesh-CLI (⭐19)](https://github.com/JafarAkhondali/Tapnesh) - Tapnesh is a CLI tool that will optimize all your images in parallel easily and efficiently!
+*   [Tapnesh-CLI (⭐21)](https://github.com/JafarAkhondali/Tapnesh) - Tapnesh is a CLI tool that will optimize all your images in parallel easily and efficiently!
 
 ---
 

@@ -226,7 +226,7 @@
 *   [Goofram](http://www.goofram.com)
 *   [iZito](http://www.izito.com)
 *   [Myallsearch](http://www.myallsearch.com)
-*   [Qwant](http://www.qwant.com)
+*   [Qwant](http://www.qwant.com) - French search engine that relies on Microsoft Bing.
 
 ### Specialty Search Engines
 
@@ -239,7 +239,7 @@
 *   [Million Short](https://millionshort.com)
 *   [WorldWideScience.org](http://worldwidescience.org)
 
-### Data and Statistics / Telegram
+### Data and Statistics / Steam
 
 *   [Zanran](http://zanran.com)
 *   [AGOA Data Center](http://agoa.info)
@@ -325,10 +325,8 @@
 *   [Find-pdf-doc](http://www.findpdfdoc.com)
 *   [Free Full PDF](http://www.freefullpdf.com)
 *   [Offshore Leak Database](https://offshoreleaks.icij.org)
-*   [PasteLert](http://andrewmohawk.com/pasteLert/index.php)
 *   [Scribd](http://www.scribd.com)
 *   [SlideShare](http://www.slideshare.net)
-*   [Slideworld](http://www.slideworld.com)
 
 ### Major Social Networks
 
@@ -348,7 +346,7 @@
 *   [VKontakte](https://vk.com)
 *   [Xing](https://www.xing.com)
 
-### Job Search Resources / Telegram
+### Job Search Resources / Steam
 
 *   [Linkedin](https://www.linkedin.com)
 *   [Glassdoor](https://www.glassdoor.com)
@@ -379,8 +377,6 @@
 *   [Brandwatch](https://www.brandwatch.com)
 *   [Buffer](https://buffer.com)
 *   [Geocreepy](http://www.geocreepy.com)
-*   [Geofeedia](https://geofeedia.com)
-*   [Hashtatit](http://www.hashatit.com)
 *   [Hootsuite](http://hootsuite.com)
 *   [Klear](http://klear.com)
 *   [MustBePresent](http://mustbepresent.com)
@@ -390,10 +386,9 @@
 *   [Social Searcher](http://www.social-searcher.com)
 *   [SocialBakers](http://www.socialbakers.com)
 *   [Tagboard](https://tagboard.com)
-*   [Trackur](http://www.trackur.com)
 *   [UVRX](http://www.uvrx.com/social.html)
 
-### Web Monitoring / Telegram
+### Web Monitoring / Steam
 
 *   [Netvibes](http://www.netvibes.com)
 *   [Silobreaker](http://www.silobreaker.com)
@@ -483,29 +478,27 @@
 
 *   [Tumblr Search](http://www.tumblr.com/search)
 
-### Blog Search / Telegram
+### Blog Search / Steam
 
 *   [BlogSearchEngine](http://www.blogsearchengine.org)
-*   [Sphere](https://www.sphere.com)
 *   [Twingly](http://www.twingly.com)
 
-### Forums and Discussion Boards Search / Telegram
+### Forums and Discussion Boards Search / Steam
 
 *   [Boardreader](http://boardreader.com)
 *   [Facebook Groups](https://www.facebook.com)
 *   [Google Groups](https://groups.google.com)
 *   [Linkedin Groups](http://www.linkedin.com)
 *   [Ning](http://www.ning.com)
-*   [Omgili](http://omgili.com)
 *   [Xing Groups](https://www.xing.com/communities)
 *   [Yahoo Groups](https://groups.yahoo.com)
 
-### Username Check / Telegram
+### Username Check / Steam
 
 *   [Name Chk](http://www.namechk.com) - Check over 30 domains and more than 90 social media account platforms.
 *   [User Search](http://www.usersearch.org) - Find someone by username, email, phone number or picture across Social Networks, Dating Sites, Forums, Crypto Forums, Chat Sites and Blogs, 3000+ sites Supported!
 
-### Email Search / Email Check / Telegram
+### Email Search / Email Check / Steam
 
 *   [Email Address Validator](http://www.email-validator.net)  - Improve deliverability, reduce bounce rates, prevent fraud and minimize funnel leaks.
 *   [Peepmail](http://www.samy.pl/peepmail) - is a tool that allows you to discover business email addresses for users, even if their email address may not be publicly available or shared.
@@ -514,7 +507,7 @@
 *   [Toofr](https://www.toofr.com) - Find Anyone’s Email Address in Seconds.
 *   [Verify Email](http://verify-email.org) - The fastest and most accurate email verification tool.
 
-### Expert Search / Telegram
+### Expert Search / Steam
 
 *   [Academia](http://academia.edu) - is a platform for sharing academic research.
 *   [CanLaw](http://www.canlaw.com)
@@ -538,7 +531,7 @@
 *   [TRExpertWitness](https://trexpertwitness.com)
 *   [Zintro](https://www.zintro.com)
 
-### Company Research / Telegram
+### Company Research / Steam
 
 *   [AllStocksLinks](http://www.allstocks.com/links)
 *   [Better Business Bureau](http://www.bbb.org)
@@ -572,7 +565,7 @@
 *   [Serpstat](https://serpstat.com)
 *   [SpyFu](http://www.spyfu.com)
 
-### Domain and IP Research / Telegram
+### Domain and IP Research / Steam
 
 *   [SEMrush](https://www.semrush.com)
 *   [Accuranker](https://www.accuranker.com)
@@ -618,7 +611,7 @@
 *   [WhoIsRequest](http://whoisrequest.com)
 *   [You Get Signal](http://www.yougetsignal.com)
 
-### Q&A Sites / Telegram
+### Q&A Sites / Steam
 
 *   [Answers.com](http://www.answers.com)
 *   [Ask](http://www.ask.com)
@@ -627,7 +620,7 @@
 *   [StackExchange](http://stackexchange.com)
 *   [Yahoo Answers](http://answers.yahoo.com)
 
-### Keywords Discovery and Research / Telegram
+### Keywords Discovery and Research / Steam
 
 *   [Keyword Discovery](http://www.keyworddiscovery.com)
 *   [Keyword Spy](http://www.keywordspy.com)
@@ -637,13 +630,13 @@
 *   [Ubersuggest](http://ubersuggest.org)
 *   [Word Tracker](https://www.wordtracker.com)
 
-### Web History and Website Capture / Telegram
+### Web History and Website Capture / Steam
 
 *   [CashedPages](http://www.cachedpages.com)
 *   [CachedView](http://cachedview.com)
-*   [Wayback Machine Archiver (⭐2.8k)](https://github.com/jsvine/waybackpack)
+*   [Wayback Machine Archiver (⭐2.9k)](https://github.com/jsvine/waybackpack)
 
-### Image Search / Telegram
+### Image Search / Steam
 
 *   [Google Image](https://images.google.com)
 *   [Image Identification Project](https://www.imageidentify.com)
@@ -652,21 +645,20 @@
 *   [Yahoo Image Search](https://images.search.yahoo.com)
 *   [Yandex Images](https://www.yandex.com/images)
 
-### Image Analysis / Telegram
+### Image Analysis / Steam
 
 *   [ExifTool](http://www.sno.phy.queensu.ca/~phil/exiftool)
 *   [FotoForensics](http://www.fotoforensics.com)
 *   [ImpulseAdventure](http://www.impulseadventure.com/photo/jpeg-snoop.html)
 *   [JPEGsnoop](https://sourceforge.net/projects/jpegsnoop)
 
-### Video Search and Other Video Tools / Telegram
+### Video Search and Other Video Tools / Steam
 
 *   [Bing Videos](http://www.bing.com/?scope=video)
 *   [Clarify](http://clarify.io)
 *   [Clip Blast](http://www.clipblast.com)
 *   [DailyMotion](http://www.dailymotion.com)
 *   [Deturl](http://deturl.com) - Download a YouTube video from any web page.
-*   [DownloadHealper](http://www.downloadhelper.net) - Download any video from any websites, it just works!
 *   [Earthcam](http://www.earthcam.com) - EarthCam is the leading network of live streaming webcams for tourism and entertainment.
 *   [Geosearch](http://www.geosearchtool.com)
 *   [Internet Archive: Open Source Videos](https://archive.org/details/opensource_movies)
@@ -678,7 +670,7 @@
 *   [YouTube Data Viewer](https://www.amnestyusa.org/citizenevidence)
 *   [YouTube](https://www.youtube.com)
 
-### Academic Resources and Grey Literature / Telegram
+### Academic Resources and Grey Literature / Steam
 
 *   [Academia](https://www.academia.edu)
 *   [Academic Journals](http://www.academicjournals.org)
@@ -717,7 +709,7 @@
 *   [World Science](http://worldwidescience.org)
 *   [Zetoc](http://zetoc.jisc.ac.uk)
 
-### Geospatial Research and Mapping Tools / Telegram
+### Geospatial Research and Mapping Tools / Steam
 
 *   [Atlasify](http://www.atlasify.com)
 *   [Batchgeo](http://batchgeo.com)
@@ -766,7 +758,7 @@
 *   [Yahoo Maps](https://maps.yahoo.com)
 *   [Zeemaps](https://www.zeemaps.com)
 
-### Infographics and Data Visualization / Telegram
+### Infographics and Data Visualization / Steam
 
 *   [Leaflet](http://leafletjs.com) - an open-source JavaScript library for mobile-friendly interactive maps.
 *   [Mapline](https://mapline.com)
@@ -783,7 +775,7 @@
 *   [Circos](http://circos.ca)
 *   [creately](http://creately.com)
 *   [Crossfilter](http://square.github.io/crossfilter)
-*   [csvkit (⭐5.9k)](https://github.com/wireservice/csvkit)
+*   [csvkit (⭐6.1k)](https://github.com/wireservice/csvkit)
 *   [Data Visualization Catalogue](http://datavizcatalogue.com)
 *   [Datawrapper](https://datawrapper.de)
 *   [Dropmark](http://www.dropmark.com)
@@ -822,7 +814,7 @@
 *   [Textures.js](https://riccardoscalco.github.io/textures)
 *   [Tik-tok](https://datanews.github.io/tik-tok)
 *   [Tiki-toki](http://www.tiki-toki.com)
-*   [Timeflow (⭐448)](https://github.com/FlowingMedia/TimeFlow/wiki)
+*   [Timeflow (⭐451)](https://github.com/FlowingMedia/TimeFlow/wiki)
 *   [Timeline](http://timeline.knightlab.com)
 *   [Timeline](http://www.simile-widgets.org/timeline)
 *   [Timetoast](http://www.timetoast.com)
@@ -834,7 +826,7 @@
 *   [Vortex](http://www.dotmatics.com/products/vortex)
 *   [ZingChart](http://www.zingchart.com)
 
-### News / Telegram
+### News / Steam
 
 *   [1st Headlines](http://www.1stheadlines.com)
 *   [ABYZNewsLinks](http://www.abyznewslinks.com)
@@ -874,7 +866,7 @@
 *   [World-Newspapers](http://www.world-newspapers.com)
 *   [Yahoo News](http://news.yahoo.com)
 
-### News Digest and Discovery Tools / Telegram
+### News Digest and Discovery Tools / Steam
 
 *   [Flipboard](https://flipboard.com)
 *   [Hubii](http://hubii.com)
@@ -888,16 +880,14 @@
 *   [Superdesk](https://www.superdesk.org)
 *   [Trooclick](http://trooclick.com)
 
-### Fact Checking / Telegram
+### Fact Checking / Steam
 
-*   [About Urban Legends](http://urbanlegends.about.com)
 *   [Emergent](http://www.emergent.info)
 *   [Fact Check](http://www.factcheck.org)
 *   [Full Fact](https://fullfact.org)
 *   [Verification Handbook](http://verificationhandbook.com)
-*   [Verification Junkie](http://verificationjunkie.com)
 
-### Browsers / Telegram
+### Browsers / Steam
 
 *   [CentBrowser](http://www.centbrowser.com)
 *   [Chrome](https://www.google.com/chrome)
@@ -916,10 +906,10 @@
 *   [Vivaldi](https://vivaldi.com)
 *   [Yandex Browser](https://browser.yandex.com/desktop/main)
 
-### Offline Browsing / Telegram
+### Offline Browsing / Steam
 
 *   [Cyotek WebCopy](http://www.cyotek.com/cyotek-webcopy) - is a free tool for automatically downloading the content of a website onto your local device.
-*   [gmapcatcher (⭐213)](https://github.com/heldersepu/gmapcatcher)
+*   [gmapcatcher (⭐219)](https://github.com/heldersepu/gmapcatcher)
 *   [Hooey webprint](http://www.hooeeywebprint.com.s3-website-us-east-1.amazonaws.com/download.html)
 *   [Offliberty](http://offliberty.com) -  is a website that lets you access any online content without a permanent Internet connection.
 *   [Resolver](https://metaproductsrevolver.com)
@@ -927,14 +917,14 @@
 *   [WebAssistant](http://www.proxy-offline-browser.com/download.html)
 *   [Website Ripper Copier](http://www.tensons.com/products/websiterippercopier)
 
-### Social Network Analysis / Telegram
+### Social Network Analysis / Steam
 
 *   [ORA](http://www.casos.cs.cmu.edu/projects/ora/software.php)
 *   [Sentinel Visualizer](http://www.fmsasg.com)
 *   [Visual Investigative Scenarios](https://vis.occrp.org)
 *   [Wynyard Group](https://wynyardgroup.com)
 
-### Privacy and Encryption Tools / Telegram
+### Privacy and Encryption Tools / Steam
 
 *   [Abine](https://www.abine.com)
 *   [Adium](https://adium.im)
@@ -992,7 +982,7 @@
 
 ### Awesome Repositories
 
-- Repository: [OSINT (⭐18k)](https://github.com/jivoi/awesome-osint)
+- Repository: [OSINT (⭐20k)](https://github.com/jivoi/awesome-osint)
 
   Description: List of amazingly awesome Open Source Intelligence (OSINT) tools and resources
 

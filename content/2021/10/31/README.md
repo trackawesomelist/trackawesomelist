@@ -27,13 +27,13 @@
 
 ### Software / Personal Dashboards
 
-*   [Dashy (⭐17k)](https://github.com/lissy93/dashy) - Feature-rich homepage for your homelab, with easy YAML configuration. ([Demo](https://demo.dashy.to/)) `MIT` `Nodejs/Docker`
+*   [Dashy (⭐19k)](https://github.com/lissy93/dashy) - Feature-rich homepage for your homelab, with easy YAML configuration. ([Demo](https://demo.dashy.to/)) `MIT` `Nodejs/Docker`
 
 ## [4. Awesome Neuroscience](/content/analyticalmonk/awesome-neuroscience/README.md)
 
 ### Programming / Python
 
-*   [SpikeInterface (⭐162)](https://github.com/SpikeInterface/spikeinterface) - Framework designed to unify spike-sorting technologies
+*   [SpikeInterface (⭐517)](https://github.com/SpikeInterface/spikeinterface) - Framework designed to unify spike-sorting technologies
 
 ### Resources / Miscellaneous
 
@@ -55,8 +55,8 @@
 
 ### Libraries
 
-*   [Ditox.js (⭐79)](https://github.com/mnasyrov/ditox) - Powerful dependency injection container for building modular apps. +TS
-*   [RxEffects (⭐34)](https://github.com/mnasyrov/rx-effects) - Reactive state and effect management with RxJS. +TS
+*   [Ditox.js (⭐93)](https://github.com/mnasyrov/ditox) - Powerful dependency injection container for building modular apps. +TS
+*   [RxEffects (⭐36)](https://github.com/mnasyrov/rx-effects) - Reactive state and effect management with RxJS. +TS
 
 ## [8. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
@@ -102,8 +102,6 @@
   HTTPS: Yes
 
   CORS: Yes
-
-  Call this API: 
 
 
 
@@ -219,7 +217,7 @@
 
   CORS: Unknown
 
-  Call this API: 
+  : 
 
 
 

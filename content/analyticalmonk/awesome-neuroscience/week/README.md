@@ -2,7 +2,7 @@
 
 A curated list of awesome neuroscience libraries, software and any content related to the domain.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/analyticalmonk/awesome-neuroscience/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 analyticalmonk/awesome-neuroscience](https://github.com/analyticalmonk/awesome-neuroscience) · ⭐ 974 · 🏷️ Health and Social Science
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/analyticalmonk/awesome-neuroscience/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 analyticalmonk/awesome-neuroscience](https://github.com/analyticalmonk/awesome-neuroscience) · ⭐ 1.3K · 🏷️ Health and Social Science
 
 [ [Daily](/content/analyticalmonk/awesome-neuroscience/README.md) / Weekly / [Overview](/content/analyticalmonk/awesome-neuroscience/readme/README.md) ]
 
@@ -28,13 +28,13 @@ A curated list of awesome neuroscience libraries, software and any content relat
 ### Resources / Miscellaneous
 
 *   [NeuroHackademy](https://neurohackademy.org/course_type/lectures/) - Summer school in neuroimaging and data science, held at the University of Washington eScience Institute. Lectures are available through the institute's [YouTube channel](https://www.youtube.com/@UWeScienceInstitute).
-*   [SORTED (⭐1)](https://github.com/PTDZ/SORTED) - SORTED: a list of interesting science ideas and links (cognitive/neuro & data science)
+*   [SORTED (⭐13)](https://github.com/PTDZ/SORTED) - SORTED: a list of interesting science ideas and links (cognitive/neuro & data science)
 
 ## [Oct 25 - Oct 31, 2021](/content/2021/43/README.md)
 
 ### Programming / Python
 
-*   [SpikeInterface (⭐162)](https://github.com/SpikeInterface/spikeinterface) - Framework designed to unify spike-sorting technologies
+*   [SpikeInterface (⭐517)](https://github.com/SpikeInterface/spikeinterface) - Framework designed to unify spike-sorting technologies
 
 ### Resources / Miscellaneous
 
@@ -53,7 +53,7 @@ A curated list of awesome neuroscience libraries, software and any content relat
 
 ### Resources / MOOCs
 
-*   [Neuromatch Academy (⭐2.3k)](https://github.com/NeuromatchAcademy/course-content) - Jupyter notebooks for the three-week intensive summer school in computational neuroscience.
+*   [Neuromatch Academy (⭐2.7k)](https://github.com/NeuromatchAcademy/course-content) - Jupyter notebooks for the three-week intensive summer school in computational neuroscience.
 
 ## [Jan 04 - Jan 10, 2021](/content/2021/1/README.md)
 
@@ -73,13 +73,13 @@ A curated list of awesome neuroscience libraries, software and any content relat
 
 ### Resources / Miscellaneous
 
-*   [neuroSummerSchools (⭐191)](https://github.com/PhABC/neuroSummerSchools) - List of summer (and seasonal) summer schools in neuroscience and related fields.
+*   [neuroSummerSchools (⭐215)](https://github.com/PhABC/neuroSummerSchools) - List of summer (and seasonal) summer schools in neuroscience and related fields.
 
 ## [Nov 04 - Nov 10, 2019](/content/2019/44/README.md)
 
 ### Programming / Python
 
-*   [BindsNET (⭐1.2k)](https://github.com/Hananel-Hazan/bindsnet) - Package for simulating spiking neural networks for reinforcement & machine learning.
+*   [BindsNET (⭐1.5k)](https://github.com/Hananel-Hazan/bindsnet) - Package for simulating spiking neural networks for reinforcement & machine learning.
 
 ## [Oct 07 - Oct 13, 2019](/content/2019/40/README.md)
 
@@ -97,8 +97,8 @@ A curated list of awesome neuroscience libraries, software and any content relat
 
 ### Programming / R
 
-*   [nat: NeuroAnatomy Toolbox (⭐57)](https://github.com/jefferis/nat) - Package for the (3D) visualisation and analysis of biological image data, especially tracings of single neurons.
-*   [brainGraph (⭐137)](https://github.com/cwatson/brainGraph) - Package for performing graph theory analyses of brain MRI data.
+*   [nat: NeuroAnatomy Toolbox (⭐64)](https://github.com/jefferis/nat) - Package for the (3D) visualisation and analysis of biological image data, especially tracings of single neurons.
+*   [brainGraph (⭐175)](https://github.com/cwatson/brainGraph) - Package for performing graph theory analyses of brain MRI data.
 
 ### Resources / Ebooks
 
@@ -114,7 +114,7 @@ A curated list of awesome neuroscience libraries, software and any content relat
 
 ### Resources / Miscellaneous
 
-*   [Awesome Public Datasets - Neuroscience (⭐52k)](https://github.com/awesomedata/awesome-public-datasets#neuroscience) - High-quality open neuroscience datasets.
+*   [Awesome Public Datasets - Neuroscience (⭐60k)](https://github.com/awesomedata/awesome-public-datasets#neuroscience) - High-quality open neuroscience datasets.
 
 ## [May 28 - Jun 03, 2018](/content/2018/22/README.md)
 
@@ -153,17 +153,17 @@ A curated list of awesome neuroscience libraries, software and any content relat
 
 ### Programming / C++
 
-*   [Brayns (⭐275)](https://github.com/BlueBrain/Brayns) - Minimalistic visualiser that can perform ray-traced rendering of neurons. Ray-tracing can help to highlight areas of neural circuits where cells touch each other and where synapses are being created leading to a better understanding of how individual cells and subsequently the brain functions.
+*   [Brayns (⭐289)](https://github.com/BlueBrain/Brayns) - Minimalistic visualiser that can perform ray-traced rendering of neurons. Ray-tracing can help to highlight areas of neural circuits where cells touch each other and where synapses are being created leading to a better understanding of how individual cells and subsequently the brain functions.
 
 ### Programming / JavaScript
 
-*   [Brainbrowser (⭐316)](https://github.com/aces/brainbrowser) - Library exposing set of web-based 3D visualization tools primarily targetting neuroimaging.
+*   [Brainbrowser (⭐352)](https://github.com/aces/brainbrowser) - Library exposing set of web-based 3D visualization tools primarily targetting neuroimaging.
 
 ## [Jun 05 - Jun 11, 2017](/content/2017/23/README.md)
 
 ### Programming / Python
 
-*   [Brian2 (⭐727)](https://github.com/brian-team/brian2) - Free, open source simulator for spiking neural networks.
+*   [Brian2 (⭐933)](https://github.com/brian-team/brian2) - Free, open source simulator for spiking neural networks.
 
 ## [May 15 - May 21, 2017](/content/2017/20/README.md)
 
@@ -182,9 +182,9 @@ A curated list of awesome neuroscience libraries, software and any content relat
 
 ### Programming / Python
 
-*   [Nilearn (⭐919)](https://github.com/nilearn/nilearn) - Module for performing statistical learning/machine learning on NeuroImaging data.
-*   [DIPY (⭐561)](https://github.com/nipy/dipy) - Toolbox for analysis of MR diffusion imaging.
-*   [expyriment (⭐104)](https://github.com/expyriment/expyriment) - Platform-independent lightweight Python library for designing and conducting timing-critical behavioural and neuroimaging experiments.
+*   [Nilearn (⭐1.2k)](https://github.com/nilearn/nilearn) - Module for performing statistical learning/machine learning on NeuroImaging data.
+*   [DIPY (⭐712)](https://github.com/nipy/dipy) - Toolbox for analysis of MR diffusion imaging.
+*   [expyriment (⭐113)](https://github.com/expyriment/expyriment) - Platform-independent lightweight Python library for designing and conducting timing-critical behavioural and neuroimaging experiments.
 
 ### Resources / Blogs
 
@@ -194,16 +194,16 @@ A curated list of awesome neuroscience libraries, software and any content relat
 
 ### Programming / Python
 
-*   [Nengo (⭐730)](https://github.com/nengo/nengo) - Library for creating and simulating large-scale brain models.
-*   [Nitime (⭐212)](https://github.com/nipy/nitime) - Timeseries analysis for neuroscience data.
-*   [MNE-Python (⭐2.1k)](https://github.com/mne-tools/mne-python) - Community-driven software for processing time-resolved neural signals including electroencephalography (EEG) and magnetoencephalography (MEG).
-*   [NiBabel (⭐511)](https://github.com/nipy/nibabel) - Provides read and write access to some common medical and neuroimaging file formats.
-*   [PsychoPy (⭐1.3k)](https://github.com/psychopy/psychopy) - Package for running psychology and neuroscience experiments. It allows for creating psychology stimuli in Python.
+*   [Nengo (⭐822)](https://github.com/nengo/nengo) - Library for creating and simulating large-scale brain models.
+*   [Nitime (⭐244)](https://github.com/nipy/nitime) - Timeseries analysis for neuroscience data.
+*   [MNE-Python (⭐2.7k)](https://github.com/mne-tools/mne-python) - Community-driven software for processing time-resolved neural signals including electroencephalography (EEG) and magnetoencephalography (MEG).
+*   [NiBabel (⭐652)](https://github.com/nipy/nibabel) - Provides read and write access to some common medical and neuroimaging file formats.
+*   [PsychoPy (⭐1.7k)](https://github.com/psychopy/psychopy) - Package for running psychology and neuroscience experiments. It allows for creating psychology stimuli in Python.
 *   [NuPic (⭐6.3k)](https://github.com/numenta/nupic) - Numenta Platform for Intelligent Computing is an implementation of Hierarchical Temporal Memory (HTM), a theory of intelligence based strictly on the neuroscience of the neocortex.
 
 ### Programming / Matlab
 
-*   [FieldTrip (⭐683)](https://github.com/fieldtrip/fieldtrip) - Toolbox for MEG and EEG analysis.
+*   [FieldTrip (⭐840)](https://github.com/fieldtrip/fieldtrip) - Toolbox for MEG and EEG analysis.
 *   [Psychtoolbox-3](http://psychtoolbox.org/) -  Free set of Matlab and GNU Octave functions for vision and neuroscience research.
 
 ### Resources / MOOCs

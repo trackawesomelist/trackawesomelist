@@ -31,7 +31,7 @@
 
 ### Other / [Other](#other-1)
 
-*   [htmlbeautifier (⭐328)](https://github.com/threedaymonk/htmlbeautifier) — A normaliser/beautifier for HTML that also understands embedded Ruby. Ideal for tidying up Rails templates.
+*   [htmlbeautifier (⭐340)](https://github.com/threedaymonk/htmlbeautifier) — A normaliser/beautifier for HTML that also understands embedded Ruby. Ideal for tidying up Rails templates.
 
 ## [4. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
@@ -43,11 +43,11 @@
 
 ### Software / Archiving and Digital Preservation (DP)
 
-*   [Wayback (⭐1.7k)](https://github.com/wabarc/wayback) - A self-hosted toolkit for archiving webpages to the Internet Archive, archive.today, IPFS, and local file systems. `GPL-3.0` `Go`
+*   [Wayback (⭐1.9k)](https://github.com/wabarc/wayback) - A self-hosted toolkit for archiving webpages to the Internet Archive, archive.today, IPFS, and local file systems. `GPL-3.0` `Go`
 
 ### Software / Media Streaming - Video Streaming
 
-*   [SRS](https://ossrs.io/) - A simple, high efficiency and real-time video server, supports RTMP, WebRTC, HLS, HTTP-FLV and SRT. ([Source Code (⭐25k)](https://github.com/ossrs/srs)) `MIT` `Docker/C++`
+*   [SRS](https://ossrs.io/) - A simple, high efficiency and real-time video server, supports RTMP, WebRTC, HLS, HTTP-FLV and SRT. ([Source Code (⭐26k)](https://github.com/ossrs/srs)) `MIT` `Docker/C++`
 
 ### Software / Software Development - Project Management
 
@@ -57,7 +57,7 @@
 
 ### Video and Audio Conferencing / Alternative clients/modifications of Discord:
 
-*   [Vencord (⭐8.4k)](https://github.com/Vendicated/Vencord) - A Discord client mod that does things differently.
+*   [Vencord (⭐9.7k)](https://github.com/Vendicated/Vencord) - A Discord client mod that does things differently.
 *   [Replugged](https://replugged.dev/) - A continuation of the deprecated client mod [Powercord](https://powercord.dev).
 
 ## [7. Awesome Pleb Projects](/content/quilloughbee/awesome-pleb-projects/README.md)
@@ -128,7 +128,7 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [znvm (⭐1)](https://github.com/Ajnasz/znvm) - A [Node.js](https://nodejs.org) version manager for ZSH similar to [nvm.sh (⭐78k)](https://github.com/nvm-sh/nvm) but faster.
+*   [znvm (⭐1)](https://github.com/Ajnasz/znvm) - A [Node.js](https://nodejs.org) version manager for ZSH similar to [nvm.sh (⭐82k)](https://github.com/nvm-sh/nvm) but faster.
 
 ## [9. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
@@ -146,7 +146,7 @@
 
 ### Tools for Teams and Collaboration
 
-*   [Hackmd.io](https://hackmd.io/) - Real time collaboration & writing tool for markdown format docs/files. Like Google but for markdown files. Free unlimited number of "notes", but the number of collaborators (invitee) for private notes & template [will be limited](https://hackmd.io/pricing).
+*   [Hackmd.io](https://hackmd.io/) - Real time collaboration & writing tool for markdown format docs/files. Like Google Docs but for markdown files. Free unlimited number of "notes", but the number of collaborators (invitee) for private notes & template [will be limited](https://hackmd.io/pricing).
 
 ### Security and PKI
 
@@ -159,7 +159,6 @@
 ### Email
 
 *   [Proton Mail](https://proton.me/mail) -  Free secure email account service provider with built-in end-to-end encryption. Free 1GB storage.
-*   [Tutanota](https://tutanota.com/) - Free secure email account service provider with built-in end-to-end encryption, no ads, no tracking. Free 1GB storage. Which is also partially [open source (⭐5.9k)](https://github.com/tutao/tutanota), so you can self-host.
 
 ### Storage and Media Processing
 
@@ -171,7 +170,7 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [ray-x/starry.nvim (⭐217)](https://github.com/ray-x/starry.nvim) - A collection of modern Neovim colorschemes: material, moonlight, dracula (blood), monokai, mariana, emerald, earlysummer, middlenight\_blue, darksolar.
+*   [ray-x/starry.nvim (⭐224)](https://github.com/ray-x/starry.nvim) - A collection of modern Neovim colorschemes: material, moonlight, dracula (blood), monokai, mariana, emerald, earlysummer, middlenight\_blue, darksolar.
 
 ## [13. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
 
@@ -183,13 +182,13 @@
 
 ### Courses / Frameworks
 
-*   [full-stack-todo-rust-course (⭐234)](https://github.com/brooks-builds/full-stack-todo-rust-course) - Full stack rust course including course for Yew.
+*   [full-stack-todo-rust-course (⭐249)](https://github.com/brooks-builds/full-stack-todo-rust-course) - Full stack rust course including course for Yew.
 
 ## [15. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Reading and Writing Tools / Note-taking
 
-*   [Joplin](https://joplinapp.org/) - Cross platform open-source notepad with markdown support and todo list manager with synchronisation capabilities. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/laurent22/joplin) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Joplin](https://joplinapp.org/) - Cross-platform open-source notepad with markdown support and to-do list management. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/laurent22/joplin) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ---
 

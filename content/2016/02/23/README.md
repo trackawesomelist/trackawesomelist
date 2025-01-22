@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 23, 2016
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -28,7 +28,7 @@
 
 ### Algorithms and Data structures
 
-*   [erlang-algorithms (⭐157)](https://github.com/aggelgian/erlang-algorithms) - Implementations of popular data structures and algorithms.
+*   [erlang-algorithms (⭐158)](https://github.com/aggelgian/erlang-algorithms) - Implementations of popular data structures and algorithms.
 *   [spacesaving (⭐2)](https://github.com/rozap/spacesaving) - stream count distinct element estimation using the "space saving" algorithm.
 
 ### Testing
@@ -47,19 +47,13 @@
 
 *   [SnappyData (⭐1k)](https://github.com/SnappyDataInc/snappydata) - a distributed in-memory data store for real-time operational analytics, delivering stream analytics, OLTP (online transaction processing) and OLAP (online analytical processing) built on Spark in a single integrated cluster.
 
-## [7. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
-
-### C / Syntax highlighting packages
-
-*   [Just another simple tutorial](http://pastebin.com/gzT47MPJ)
-
-## [8. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
+## [7. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
 
 ### Aggregated Content / Icons Packages and Collections
 
 *   [Avopix](https://avopix.com) - More than 15 000 absolutely free stock photos and vectors.
 
-## [9. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
+## [8. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
 
 ### DVB & WiFi
 
@@ -68,20 +62,20 @@
 
 ### Media Players
 
-*   [Kodi (⭐18k)](https://github.com/xbmc/xbmc) - A software media player and entertainment hub for digital media.
+*   [Kodi (⭐19k)](https://github.com/xbmc/xbmc) - A software media player and entertainment hub for digital media.
 
 ### Multimedia content processing
 
 *   [GStreamer](https://gstreamer.freedesktop.org/) - A library for constructing graphs of media-handling components.
-*   [MP4Box.js (⭐1.9k)](https://github.com/gpac/mp4box.js) - JavaScript library to process MP4 files in the browser (and in NodeJS).
+*   [MP4Box.js (⭐2k)](https://github.com/gpac/mp4box.js) - JavaScript library to process MP4 files in the browser (and in NodeJS).
 
-## [10. Awesome D](/content/dlang-community/awesome-d/README.md)
+## [9. Awesome D](/content/dlang-community/awesome-d/README.md)
 
 ### Game Frameworks / XML
 
-*   [DAllegro5 (⭐41)](https://github.com/SiegeLord/DAllegro5/tree/master/allegro5) - D binding/wrapper to Allegro 5, a modern game programming library.
+*   [DAllegro5 (⭐42)](https://github.com/SiegeLord/DAllegro5/tree/master/allegro5) - D binding/wrapper to Allegro 5, a modern game programming library.
 
-## [11. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
+## [10. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 
 ### Courses / Machine Learning
 
@@ -90,7 +84,7 @@
     *   [Course Page](http://cilvr.cs.nyu.edu/doku.php?id=deeplearning2015:schedule)
     *   [Recorded Lectures](http://techtalks.tv/deep-learning-nyu-spring-2015/)
 
-## [12. Awesome Hadoop](/content/youngwookim/awesome-hadoop/README.md)
+## [11. Awesome Hadoop](/content/youngwookim/awesome-hadoop/README.md)
 
 ### Hadoop
 

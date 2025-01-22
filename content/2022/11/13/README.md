@@ -10,7 +10,7 @@
 
 ### YouTube
 
-*   [Youtube-Local (⭐500)](https://github.com/user234683/youtube-local) - browser-based client for watching Youtube anonymously and with greater page performance.
+*   [Youtube-Local (⭐559)](https://github.com/user234683/youtube-local) - browser-based client for watching Youtube anonymously and with greater page performance.
 
 ## [2. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -41,7 +41,7 @@
 
 ### Pricing / Usage-based Pricing
 
-*   [Lago (⭐6.2k)](https://github.com/getlago/lago) - Open-source metering & usage-based billing.
+*   [Lago (⭐7k)](https://github.com/getlago/lago) - Open-source metering & usage-based billing.
 
 ### Pricing / Subscription Plans
 
@@ -57,7 +57,7 @@
 
 ### Accounting / Software design and implementation
 
-*   [TigerBeetle (⭐7.2k)](https://github.com/coilhq/tigerbeetle) - A distributed financial accounting database to ensure that the money either moves, or doesn't move, that it doesn't get lost somewhere in between.
+*   [TigerBeetle (⭐11k)](https://github.com/coilhq/tigerbeetle) - A distributed financial accounting database to ensure that the money either moves, or doesn't move, that it doesn't get lost somewhere in between.
 
 ### Invoice / Structure
 
@@ -89,7 +89,7 @@
 
 ### Third-Party Packages / Performance
 
-*   [pyinstrument (⭐6.4k)](https://github.com/joerick/pyinstrument) - Call stack profiler for Python, Django, Flask, FastAPI.
+*   [pyinstrument (⭐6.8k)](https://github.com/joerick/pyinstrument) - Call stack profiler for Python, Django, Flask, FastAPI.
 
 ## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -101,13 +101,13 @@
 
 ### Editing Support / Diagnostics
 
-*   [Wansmer/treesj (⭐981)](https://github.com/Wansmer/treesj) - Splitting/joining blocks of code like arrays, hashes, statements, objects, dictionaries, etc. Using Tree-Sitter. Inspired by greatest splitjoin.vim.
+*   [Wansmer/treesj (⭐1.1k)](https://github.com/Wansmer/treesj) - Splitting/joining blocks of code like arrays, hashes, statements, objects, dictionaries, etc. Using Tree-sitter. Inspired by greatest splitjoin.vim.
 
 ## [10. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [shell-fns (⭐2)](https://github.com/Hdoc1509/shell-fns) - Includes `git`, `neovim`, `npm`, `pip` extended functionality.
+*   [shell-fns (⭐3)](https://github.com/Hdoc1509/shell-fns) - Includes `git`, `neovim`, `npm`, `pip` extended functionality.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 

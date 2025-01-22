@@ -17,7 +17,7 @@
 ### Libraries / Compression
 
 *   zstd
-    *   [gyscos/zstd-rs (⭐490)](https://github.com/gyscos/zstd-rs) - rust binding for the zstd compression library
+    *   [gyscos/zstd-rs (⭐536)](https://github.com/gyscos/zstd-rs) - rust binding for the zstd compression library
 
 ## [3. Awesome Arcgis Developers](/content/Esri/awesome-arcgis-developers/README.md)
 
@@ -42,13 +42,13 @@
 
 ### Libraries / Ballerina
 
-*   [ballerina-mongodb (⭐123)](https://github.com/ballerina-platform/module-ballerinax-mongodb) - Official Ballerina driver
+*   [ballerina-mongodb (⭐122)](https://github.com/ballerina-platform/module-ballerinax-mongodb) - Official Ballerina driver
 
 ## [7. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
 ### Other / [Other](#other-1)
 
-*   [composer-dependency-analyser (⭐369)](https://github.com/shipmonk-rnd/composer-dependency-analyser) — Fast detection of composer dependency issues.
+*   [composer-dependency-analyser (⭐471)](https://github.com/shipmonk-rnd/composer-dependency-analyser) — Fast detection of composer dependency issues.
 *   💪 Powerful: Detects unused, shadow and misplaced composer dependencies
 *   ⚡ Performant: Scans 15 000 files in 2s!
 *   ⚙️ Configurable: Fine-grained ignores via PHP config

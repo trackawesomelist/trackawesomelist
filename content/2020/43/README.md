@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 26 - Nov 01, 2020
 
-76 awesome lists updated this week.
+75 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -72,7 +72,7 @@
 
 ### Security
 
-- API: [Intelligence X (⭐395)](https://github.com/IntelligenceX/SDK/blob/master/Intelligence%20X%20API.pdf)
+- API: [Intelligence X (⭐413)](https://github.com/IntelligenceX/SDK/blob/master/Intelligence%20X%20API.pdf)
 
   Description: Perform OSINT via Intelligence X
 
@@ -146,7 +146,7 @@
 *   [OpenIntro](https://www.openintro.org/)
 *   [Process Mining: Data science in Action](https://www.coursera.org/learn/process-mining)
 *   [Oxford Deep Learning - video](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu)
-*   [Data Science Specialization (⭐4k)](https://github.com/DataScienceSpecialization/courses)
+*   [Data Science Specialization (⭐4.1k)](https://github.com/DataScienceSpecialization/courses)
 *   [Coursera Big Data Specialization](https://www.coursera.org/specializations/big-data)
 *   [Statistical Thinking for Data Science and Analytics by Edx](https://www.edx.org/course/statistical-thinking-for-data-science-and-analytic)
 *   [Cognitive Class AI by IBM](https://cognitiveclass.ai/)
@@ -177,23 +177,19 @@
 
 *   [Classic Computer Science Problems in Python](https://www.manning.com/books/classic-computer-science-problems-in-python)
 *   [Evolutionary Algorithms](https://www.intechopen.com/books/evolutionary-algorithms) - Free Download
-*   [Advances in Genetic Programming, Vol. 3](https://www.cs.bham.ac.uk/~wbl/aigp3/) - Free Download
 
-### Bloggers / Book Deals (Affiliated) 🛍
+### Bloggers / Book Deals (Affiliated)
 
-*   [Data Science London](https://datasciencelondon.org/) Data Science London is a non-profit organization dedicated to the free, open, dissemination of data science.
-    We are the largest data science community in Europe.
-    We are more than 3,190 data scientists and data geeks in our community.
 *   [Analytics Vidhya](https://www.analyticsvidhya.com/) - A full-fledged website about data science and analytics study material.
 *   [Chris Albon's Website](https://chrisalbon.com/) - Data Science and AI notes
 
-### Data Science Competitions / Book Deals (Affiliated) 🛍
+### Data Science Competitions / Book Deals (Affiliated)
 
 *   [Kaggle](https://www.kaggle.com/)
 *   [DrivenData](https://www.drivendata.org/)
 *   [InnoCentive](https://www.innocentive.com/)
 
-### Datasets / Book Deals (Affiliated) 🛍
+### Datasets / Book Deals (Affiliated)
 
 *   [data.gov](https://catalog.data.gov/dataset) - The home of the U.S. Government's open data
 *   [datahub.io](https://datahub.io/)
@@ -207,37 +203,37 @@
 *   [r/datasets](https://www.reddit.com/r/datasets/)
 *   [St. Louis Federal Reserve Economic Data - FRED](https://fred.stlouisfed.org/)
 *   [New Zealand Institute of Economic Research – Data1850](https://data1850.nz/)
-*   [Open Data Sources (⭐504)](https://github.com/datasciencemasters/data)
+*   [Open Data Sources (⭐507)](https://github.com/datasciencemasters/data)
 *   [UNICEF Data](https://data.unicef.org/)
-*   [Public Git Archive (⭐320)](https://github.com/src-d/datasets/tree/master/PublicGitArchive)
+*   [Public Git Archive (⭐324)](https://github.com/src-d/datasets/tree/master/PublicGitArchive)
 *   [Microsoft Research Open Data](https://msropendata.com/)
 *   [Open Government Data Platform India](https://data.gov.in/)
 *   [NAYN.CO Turkish News with categories (⭐3)](https://github.com/naynco/nayn.data)
 *   [Covid-19 (⭐1.2k)](https://github.com/datasets/covid-19)
-*   [Covid-19 Google (⭐115)](https://github.com/google-research/open-covid-19-data)
+*   [Covid-19 Google (⭐117)](https://github.com/google-research/open-covid-19-data)
 *   [Enron Email Dataset](https://www.cs.cmu.edu/~./enron/)
 
-### Other Awesome Lists / Book Deals (Affiliated) 🛍
+### Other Awesome Lists / Book Deals (Affiliated)
 
 *   Other amazingly awesome lists can be found in the [awesome-awesomeness (⭐32k)](https://github.com/bayandin/awesome-awesomeness)
-*   [Awesome Machine Learning (⭐65k)](https://github.com/josephmisiti/awesome-machine-learning)
-*   [lists (⭐9.8k)](https://github.com/jnv/lists)
-*   [awesome-python (⭐215k)](https://github.com/vinta/awesome-python)
-*   [Data Science IPython Notebooks. (⭐27k)](https://github.com/donnemartin/data-science-ipython-notebooks)
-*   [awesome-r (⭐5.9k)](https://github.com/qinwf/awesome-R)
-*   [awesome-Machine Learning & Deep Learning Tutorials (⭐15k)](https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/README.md)
+*   [Awesome Machine Learning (⭐67k)](https://github.com/josephmisiti/awesome-machine-learning)
+*   [lists (⭐10k)](https://github.com/jnv/lists)
+*   [awesome-python (⭐230k)](https://github.com/vinta/awesome-python)
+*   [Data Science IPython Notebooks. (⭐28k)](https://github.com/donnemartin/data-science-ipython-notebooks)
+*   [awesome-r (⭐6.1k)](https://github.com/qinwf/awesome-R)
+*   [awesome-Machine Learning & Deep Learning Tutorials (⭐16k)](https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/README.md)
 *   [Machine Learning for Software Engineers (⭐28k)](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
 *   [Community Curated Data Science Resources](https://hackr.io/tutorials/learn-data-science)
-*   [Awesome Machine Learning On Source Code (⭐6.2k)](https://github.com/src-d/awesome-machine-learning-on-source-code)
+*   [Awesome Machine Learning On Source Code (⭐6.3k)](https://github.com/src-d/awesome-machine-learning-on-source-code)
 *   [Awesome Community Detection (⭐2.3k)](https://github.com/benedekrozemberczki/awesome-community-detection)
-*   [Awesome Graph Classification (⭐4.7k)](https://github.com/benedekrozemberczki/awesome-graph-classification)
+*   [Awesome Graph Classification (⭐4.8k)](https://github.com/benedekrozemberczki/awesome-graph-classification)
 *   [Awesome Decision Tree Papers (⭐2.4k)](https://github.com/benedekrozemberczki/awesome-decision-tree-papers)
 *   [Awesome Fraud Detection Papers (⭐1.6k)](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers)
-*   [Awesome Gradient Boosting Papers (⭐992)](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers)
-*   [Awesome Computer Vision Models (⭐505)](https://github.com/nerox8664/awesome-computer-vision-models)
-*   [Awesome Monte Carlo Tree Search (⭐617)](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers)
+*   [Awesome Gradient Boosting Papers (⭐1k)](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers)
+*   [Awesome Computer Vision Models (⭐519)](https://github.com/nerox8664/awesome-computer-vision-models)
+*   [Awesome Monte Carlo Tree Search (⭐653)](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers)
 *   [Glossary of common statistics and ML terms](https://www.analyticsvidhya.com/glossary-of-common-statistics-and-machine-learning-terms/)
-*   [100 NLP Papers (⭐3.7k)](https://github.com/mhagiwara/100-nlp-papers)
+*   [100 NLP Papers (⭐3.8k)](https://github.com/mhagiwara/100-nlp-papers)
 
 ## [9. Awesome Bitcoin Payment Processors](/content/alexk111/awesome-bitcoin-payment-processors/week/README.md)
 
@@ -265,14 +261,14 @@
 
 ### Project Starter Templates
 
-*   [spin (⭐297)](https://github.com/tmattio/spin) - Reason and Ocaml project generator
-*   [modern-ocaml (⭐66)](https://github.com/Khady/modern-ocaml) - Template for an ocaml project with modern tooling
+*   [spin (⭐296)](https://github.com/tmattio/spin) - Reason and Ocaml project generator
+*   [modern-ocaml (⭐75)](https://github.com/Khady/modern-ocaml) - Template for an ocaml project with modern tooling
 
 ## [11. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/week/README.md)
 
 ### Development Projects / APIs
 
-*   [pokemon-API (⭐20)](https://github.com/Purukitto/pokemon-api) - Beginner friendly API endpoint that returns Pokémon Data in JSON format (<https://app.pokemon-api.xyz>).
+*   [pokemon-API (⭐24)](https://github.com/Purukitto/pokemon-api) - Beginner friendly API endpoint that returns Pokémon Data in JSON format (<https://app.pokemon-api.xyz>).
 
 ## [12. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
@@ -320,7 +316,7 @@
 
 ### Third-Party Packages / Content Management Systems
 
-*   [feincms (⭐931)](https://github.com/feincms/feincms) - An extensible Django-based CMS.
+*   [feincms (⭐963)](https://github.com/feincms/feincms) - An extensible Django-based CMS.
 
 ## [18. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
 
@@ -352,7 +348,7 @@
 
 ### Table of Contents / Content Management Systems (CMS)
 
-*   [CraftCMS (⭐3.2k)](https://github.com/craftcms/cms) - A flexible, user-friendly CMS for creating custom digital experiences on the web and beyond.
+*   [CraftCMS (⭐3.3k)](https://github.com/craftcms/cms) - A flexible, user-friendly CMS for creating custom digital experiences on the web and beyond.
 *   [Moodle](https://moodle.org/) - An open-source learning platform.
 *   [Statamic](https://statamic.com/) - Build beautiful, easy-to-manage websites.
 
@@ -366,7 +362,7 @@
 
 ### Table of Contents / Build Tools
 
-*   [Box (⭐1.1k)](https://github.com/box-project/box) - A utility to build PHAR files.
+*   [Box (⭐1.2k)](https://github.com/box-project/box) - A utility to build PHAR files.
 
 ### Table of Contents / NoSQL
 
@@ -387,7 +383,7 @@
 ### Language Support
 
 *   [playwright](https://git.io/JT2bj) - Official Playwright in Node.js (JavaScript and TypeScript).
-*   [playwright-python (⭐11k)](https://github.com/microsoft/playwright-python) - Official Playwright port to Python.
+*   [playwright-python (⭐12k)](https://github.com/microsoft/playwright-python) - Official Playwright port to Python.
 *   [playwright-java (⭐1.1k)](https://github.com/microsoft/playwright-java) - Official Playwright port to Java.
 
 ## [24. Awesome Meteor](/content/Urigo/awesome-meteor/week/README.md)
@@ -400,13 +396,13 @@
 
 ### Tooling / Frameworks
 
-*   [wasm-bindgen-action (⭐9)](https://github.com/jetli/wasm-bindgen-action) - Github action to install `wasm-bindgen` by downloading the executable to speed up CI/CD.
+*   [wasm-bindgen-action (⭐10)](https://github.com/jetli/wasm-bindgen-action) - Github action to install `wasm-bindgen` by downloading the executable to speed up CI/CD.
 
 ## [26. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / Computer Vision
 
-*   [lightly (⭐2.9k)](https://github.com/lightly-ai/lightly) - Lightly is a computer vision framework for self-supervised learning.
+*   [lightly (⭐3.2k)](https://github.com/lightly-ai/lightly) - Lightly is a computer vision framework for self-supervised learning.
 
 ### Tools / Misc
 
@@ -502,7 +498,7 @@
 
 *   [There Are No Bugs, Just TODOs](https://almad.blog/essays/no-bugs-just-todos/) - Issue trackers needs to materialize ownership, queue position, state, task breakdown and aggressive closing. Priority, ticket type, software version, severity and long-life tickets are anti-patterns.
 
-### Objectives and Key Results (OKR) / Tickets
+### Objectives and Key Results (OKR) / Delivery
 
 *   [Team Objectives – Overview](https://svpg.com/team-objectives-overview/) - Why OKRs might not work at your company: 1. You're still using feature teams instead of product teams; 2. Mixed-up manager and individual objectives; 3. Leadership opting-out of active management.
 
@@ -579,7 +575,7 @@
 
 ### Related Resources / Vector search
 
-*   [iRuby (⭐801)](https://github.com/SciRuby/iruby) - IRuby kernel for Jupyter (formerly IPython).
+*   [iRuby (⭐902)](https://github.com/SciRuby/iruby) - IRuby kernel for Jupyter (formerly IPython).
 
 ## [34. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
@@ -592,21 +588,20 @@
 
 ### Miscellaneous
 
-*   [cl-cuda (⭐276)](https://github.com/takagi/cl-cuda) - A library to use NVIDIA CUDA in Common Lisp programs. [LLGPL](http://opensource.franz.com/preamble.html).
+*   [cl-cuda (⭐286)](https://github.com/takagi/cl-cuda) - A library to use NVIDIA CUDA in Common Lisp programs. [LLGPL](http://opensource.franz.com/preamble.html).
 *   [LispWork's CAPI](http://www.lispworks.com/products/capi.html) - A portable GUI toolkit, with mobile runtime. Proprietary, but comes with a free version.
 
 ### HTML generators and templates / Isomorphic web frameworks
 
-*   [flute (⭐63)](https://github.com/ailisp/flute) - An easily composable HTML5 generation library with the most simplistic syntax. [MIT](https://opensource.org/licenses/MIT).
-*   [lsx (⭐78)](https://github.com/fukamachi/lsx/) and [markup (⭐69)](https://github.com/moderninterpreters/markup) - Two JSX-like templating engines, where HTML tags are Common Lisp code. `markup` comes with an Emacs package.
+*   [lsx (⭐80)](https://github.com/fukamachi/lsx/) and [markup (⭐72)](https://github.com/moderninterpreters/markup) - Two JSX-like templating engines, where HTML tags are Common Lisp code. `markup` comes with an Emacs package.
 
 ### Utils / Third-party APIs
 
-*   [STMX (⭐244)](https://github.com/cosmos72/stmx) -  High performance Transactional Memory for Common Lisp. [LLGPL](http://opensource.franz.com/preamble.html).
+*   [STMX (⭐247)](https://github.com/cosmos72/stmx) -  High performance Transactional Memory for Common Lisp. [LLGPL](http://opensource.franz.com/preamble.html).
 
 ### REPLs / Third-party APIs
 
-*   [sbcli (⭐91)](https://github.com/hellerve/sbcli) - a readline REPL for SBCL. With completion, quick commands, optional syntax highlighting (with pygments), and no interactive debugger. [GPL3](http://www.gnu.org/copyleft/gpl.html).
+*   [sbcli (⭐98)](https://github.com/hellerve/sbcli) - a readline REPL for SBCL. With completion, quick commands, optional syntax highlighting (with pygments), and no interactive debugger. [GPL3](http://www.gnu.org/copyleft/gpl.html).
 
 ### Apps / Third-party APIs
 
@@ -614,7 +609,7 @@
 
 ### Compression / decompression / Third-party APIs
 
-*   [chipz (⭐16)](https://github.com/froydnj/chipz) - A decompression library. [3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
+*   [chipz (⭐17)](https://github.com/froydnj/chipz) - A decompression library. [3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
 *   [Salza2](http://www.xach.com/lisp/salza2/) - A library for creating compressed data. [FreeBSD](https://directory.fsf.org/wiki?title=License:FreeBSD).
 
 ### Developer utilities / Third-party APIs
@@ -662,14 +657,13 @@
 
 *   [S-99](http://aperiodic.net/phil/scala/s-99) - Ninety-Nine Scala Problems
 *   [Scala Exercises](http://scala-exercises.47deg.com/) - Brings the popular Scala Koans to the web. Offering hundreds of solvable exercises organized into 42 categories covering the basics of the Scala language.
-*   [Exercism - Scala Exercises](http://exercism.io/languages/scala/exercises) - Community-driven Scala exercises.
-*   [Learn-by-doing functional programming course on Scala (⭐587)](https://github.com/dehun/learn-fp/) - Covers type classes, functors, applicatives, monads, monad transformers, free monad
+*   [Learn-by-doing functional programming course on Scala (⭐611)](https://github.com/dehun/learn-fp/) - Covers type classes, functors, applicatives, monads, monad transformers, free monad
 
 ### Tutorials and courses / Devops
 
 *   [A Tour of Scala](http://docs.scala-lang.org/tour/tour-of-scala.html) - Bite-sized introductions to some of the core language concepts.
 *   [Functional Programming in Scala](https://www.coursera.org/specializations/scala) - Coursera Specialization (5 courses) created by  Martin Odersky et al. at the EPFL (Ecole polytechnique fédérale de Lausanne).
-*   Resources by [Dr. Mark Lewis](http://www.cs.trinity.edu/\~mlewis/) >> [Website](http://www.programmingusingscala.net/) | [Youtube Playlists](https://www.youtube.com/user/DrMarkCLewis/playlists)
+*   Resources by [Dr. Mark Lewis](http://www.cs.trinity.edu/~mlewis/) >> [Website](http://www.programmingusingscala.net/) | [Youtube Playlists](https://www.youtube.com/user/DrMarkCLewis/playlists)
 *   **[Demos and Examples in Scala (Chinese) ★ 923 ⧗ 2 (⭐1.1k)](https://github.com/jacksu/utils4s)** - repo of sample Scala library usage, written in Chinese
 *   [Introduction to programming with dependent types in Scala](https://stepik.org/course/2294/) - Video Course by Dmytro Mitin
 *   [Scala Collections Cookbook](http://colobu.com/ScalaCollectionsCookbook/) - Scala collections introduction. written in Chinese.
@@ -700,7 +694,7 @@
 ### Misc. / Devops
 
 *   [Scala @LibHunt](https://scala.libhunt.com) - A community driven list of useful Scala libraries, frameworks and software
-*   [CA Art (⭐12)](https://github.com/makingthematrix/ca_art) - A small project aimed at learning Scala on intermediate level by experimenting with Cellular Automata
+*   [CA Art (⭐16)](https://github.com/makingthematrix/ca_art) - A small project aimed at learning Scala on intermediate level by experimenting with Cellular Automata
 
 ## [40. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/week/README.md)
 
@@ -718,7 +712,7 @@
 
 ### Email / Other Tools
 
-*   [FastAPI Mail (⭐664)](https://github.com/sabuhish/fastapi-mail) - Lightweight mail system for sending emails and attachments (individual and bulk).
+*   [FastAPI Mail (⭐730)](https://github.com/sabuhish/fastapi-mail) - Lightweight mail system for sending emails and attachments (individual and bulk).
 
 ## [43. Awesome Competitive Programming](/content/lnishan/awesome-competitive-programming/week/README.md)
 
@@ -759,15 +753,15 @@
 *   [Audiense](https://www.audiense.com) - Tool to identify relevant audience, discover actionable insights and inform strategies to grow your business.
 *   [Buzz sumo](http://buzzsumo.com) - "Use our content insights to generate ideas, create high-performing content, monitor your performance and identify influencers."
 
-### Username Check / Telegram
+### Username Check / Steam
 
-*   [Sherlock (⭐53k)](https://github.com/sherlock-project/sherlock) - Search for a username in multiple platforms/websites.
+*   [Sherlock (⭐62k)](https://github.com/sherlock-project/sherlock) - Search for a username in multiple platforms/websites.
 
-### Browsers / Telegram
+### Browsers / Steam
 
 *   [Atom](https://browser.ru/)
 
-### DNS / Telegram
+### DNS / Steam
 
 *   [findsubdomains](https://findsubdomains.com/) - Automatically scans different sources to collect as many subdomains as can. Validate all the data through various tools and services to provide correct results without waiting.
 
@@ -796,7 +790,7 @@
 
 ### Transition
 
-*   [DropdownTransition (⭐71)](https://github.com/nugmanoff/DropdownTransition) - Simple and elegant Dropdown Transition for presenting controllers from top to bottom.
+*   [DropdownTransition (⭐72)](https://github.com/nugmanoff/DropdownTransition) - Simple and elegant Dropdown Transition for presenting controllers from top to bottom.
 
 ## [50. Awesome Roslyn](/content/ironcev/awesome-roslyn/week/README.md)
 
@@ -812,25 +806,17 @@
 
 ### Articles & Posts
 
-*   [5 Little-Known Hacks for Finding Remote Work](https://blog.hubstaff.com/hacks-find-remote-jobs/)
-*   [21 tools that will help your remote team work better together](https://thenextweb.com/apps/2014/12/06/tools-remote-teams/)
 *   [30 Tips for Successful Communication as a Remote Worker](https://www.hanselman.com/blog/30-tips-for-successful-communication-as-a-remote-worker)
 *   [Acceptance of Telecommuting Project Management Grows](https://www.amanet.org/articles/acceptance-of-telecommuting-project-management-grows/)
-*   [Bosses without borders: Essential tools for managing remote workers](https://www.pcworld.com/article/2045737/bosses-without-borders-essential-tools-for-managing-remote-workers.html)
 *   [Datadog Engineering: 9 ways to make working remote work for you](https://www.datadoghq.com/blog/pup-culture/9-ways-to-make-working-remote-work-for-you/)
 *   [Death of the office and rise of the telecommuter](https://www.zdnet.com/article/death-of-the-office-and-rise-of-the-telecommuter/)
 *   [Distributed Design: How Stack Overflow builds strong remote teams](https://www.tedgoas.com/blog/distributed-design/)
-*   [GitLab's Remote Manifesto](https://about.gitlab.com/2015/04/08/the-remote-manifesto/)
-*   [How a Week of Remote Work Boosts my Productivity Enormously](https://www.alexrodba.com/2016/07/24/how-a-week-of-remote-work-boosts-my-productivity-enormously/)
 *   [How many companies are 100% distributed? (Research Summary)](https://scottberkun.com/2013/how-many-companies-are-100-distributed/)
 *   [How many people really work from home? (research summary)](https://scottberkun.com/2013/how-many-people-really-work-from-home-research-summary/)
-*   [How to Keep Your Remote Workers Productive](https://www.alexrodba.com/2016/03/22/how-to-keep-your-remote-workers-productive/)
 *   [Latest Telecommuting Statistics | Global Workplace Analytics](https://globalworkplaceanalytics.com/telecommuting-statistics)
 *   [Remote Work: How to work the Precision Nutrition way](https://www.precisionnutrition.com/remote-how-to-work-the-pn-way)
-*   [Six Strategies for Managing Telecommuters](https://www.cio.com/article/2422138/six-strategies-for-managing-telecommuters.html)
 *   [Solo Workers Bond at Shared Workspaces](https://www.nytimes.com/2013/05/05/fashion/solo-workers-bond-at-shared-workspaces.html)
 *   [The future of telecommuting: Corralling the Yahoos](https://www.economist.com/business/2013/03/02/corralling-the-yahoos?fsrc=scn%2Ftw%2Fte%2Fpe%2Fcorallingtheyahoos)
-*   [Why Coworking Is a Hit for Telecommuters and Entrepreneurs](https://www.cio.com/article/2369058/why-coworking-is-a-hit-for-telecommuters-and-entrepreneurs.html)
 *   [Why Small Businesses Are Building Remote Workforces](https://www.businessinsider.com/why-small-businesses-are-building-remote-workforces-2013-10)
 *   [Your Commute Is Killing You](https://slate.com/business/2011/05/long-commutes-cause-obesity-neck-pain-loneliness-divorce-stress-and-insomnia.html)
 
@@ -840,23 +826,15 @@
 
 ### Job boards
 
-*   [freelancermap](https://www.freelancermap.com/remote-jobs) - Freelance & contract jobs for IT experts (mostly German projects)
 *   [Golangprojects](https://www.golangprojects.com/golang-remote-jobs.html) filter -> Remote only
 *   [Guru](https://www.guru.com/) - (has MANY different categories outside software)
-*   [Remotive Jobs](https://remotive.io/)
 *   [Skip the Drive](https://www.skipthedrive.com/)
 
 ### Housing
 
 *   [bedndesk](https://www.bedndesk.com/) - Coworking & coliving space in Mallorca island in Spain
-*   [Common](https://www.hicommon.com/) - Coliving House in New York
 *   [Coworking in the Sun](https://www.coworkinginthesun.com/) - Coliving & coworking space in Tenerife island in Spain
-*   [HubBOG](https://hubbog.com/) - Coworking Space + Startup Accelerator. Bogotá, Colombia
-*   [Mokrin House](https://www.mokrinhouse.com/) - Coliving & coworking space in a rural area of Serbia
-*   [Nest Copenhagen](https://nestcopenhagen.dk/) - Coliving space in Copenhagen, Denmark
 *   [NoHatDigital](https://www.nohatdigital.com/mansionpage/) - Coliving space in Mexico
-*   [Sende](https://sende.co/) - Coliving & coworking space in northern Spain
-*   [Sun Desk](https://www.sun-desk.com/) - Coliving & coworking space in Taghazout, Morocco
 
 ### Events
 
@@ -865,7 +843,6 @@
 ### Newsletters
 
 *   [Remote Internships](https://smash.vc/startup-newsletter/)
-*   [Remotive - productive remote workers](https://remotive.io/) - A weekly newsletter on Remote Tips & Jobs sent to 10,000+ Remote Workers
 
 ### Podcasts
 
@@ -875,19 +852,11 @@
 
 *   [Arkency](https://arkency.com/join-our-team/) - Rails and React.js experts, fully remote/async.
 *   [Authentic F & F](https://authenticff.com/) - Independent design and technology studio based in Denver and Minnesota
-*   [BaseCamp](https://basecamp.com/about/team) - Project management software.
-*   [BeBanjo](https://bebanjo.com/careers/) - Software as a service for managing video on-demand. Ruby / Rails, Elasticsearch, Sidekiq.
 *   [Bluespark Labs](https://www.bluespark.com/careers) - WebDev Consulting and makers of Roomify. Remote team with HQs in Raleigh, NC and Italy. Drupal.
-*   [ButterCloud](http://www.buttercloud.com/) - A small team of web & app developers. We help startups & small to medium-sized businesses build, maintain, and grow their products.
-*   [Cadasta](https://cadasta.org/about-us-3/careers-2/) - Secure platform for mapping global land & resource rights. 100% remote team; Python, Django, JavaScript, PostgreSQL.
 *   [Ciao Bambino](https://ciaobambino.com/) - Family destinations and hotel reviews.
-*   [Clevertech](https://clevertech.biz/careers) - We build incredible, game-changing technology.
-*   [Continu](https://www.continu.co/) - Continuous learning software for modern teams.
 *   [CRO Metrics](https://crometrics.com/careers/) - Data-driven expirementation and growth programs.
 *   [DataStax](https://www.datastax.com/company/careers) - Consulting based on Apache Cassandra.
 *   [DNSimple](https://dnsimple.com/) - Small 100% remote and globally distributed team working to make domain management an afterthought.
-*   [Eloquentix](http://eloquentix.com/) - All remote company across 3 continents and 9 timezones.
-*   [Envato](https://envato.com/careers) - Maker of ThemeForest and other online marketplaces. MySQL, Ruby, Rails, JavaScript. Distributed team with HQ in Melbourne, Australia.
 
 ### Q&A
 
@@ -898,34 +867,27 @@
 
 ### Communities
 
-*   [##remotes (⭐15)](https://github.com/remotesclub/remotes) - IRC channel ([web access](https://webchat.freenode.net/?channels=#remotes))
+*   [##remotes (⭐15)](https://github.com/remotesclub/remotes) - IRC channel
 *   [Hacker Paradise](https://www.hackerparadise.org/) - Traveling remote workers.
 *   [Remote Year](https://www.remoteyear.com/) - Traveling techies for 1 year.
 
 ### Conferences
 
-*   [Yonder](https://www.yonder.io/events) - A round table conference bringing together leaders of distributed companies.
-*   [9punto5](https://www.9punto5.cl/) - Remote work conference in Latin America.
 *   [Git Commit Show](https://gitcommit.show/) - Global Developer Conference to promote remote work an education, attend from anywhwere
 
 ### Tools / Communication
 
 *   [Tips for immersive video calls](https://www.benkuhn.net/vc/) —     Tips for immersive video calls
 
-### Law & Finance / Others
-
-*   [1099 contractors](https://www.wisegeek.com/what-is-a-1099-contractor.htm) – US based companies can hire remote workers as.
-
 ### Others / Others
 
-*   [Regus USA](https://www.regus.com/) - Executive suites, virtual offices & conference room space.
 *   [Remote Companies on Careers SO](https://stackoverflow.com/jobs/companies?q=\&l=\&r=true)
 
 ## [52. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### UI
 
-*   [Card Settings (⭐531)](https://github.com/codegrue/card_settings) <!--stargazers:codegrue/card_settings--> - package for building settings forms by [codegrue](https://github.com/codegrue).
+*   [Card Settings (⭐555)](https://github.com/codegrue/card_settings) <!--stargazers:codegrue/card_settings--> - package for building settings forms by [codegrue](https://github.com/codegrue).
 
 ## [53. Awesome Veganism](/content/sdassow/awesome-veganism/week/README.md)
 
@@ -961,7 +923,7 @@
 
 ### UI / Barcode
 
-*   [NeumorphismKit (⭐47)](https://github.com/y-okudera/NeumorphismKit) - Neumorphism framework for UIKit.
+*   [NeumorphismKit (⭐46)](https://github.com/y-okudera/NeumorphismKit) - Neumorphism framework for UIKit.
 
 ## [57. Awesome Haskell](/content/krispo/awesome-haskell/week/README.md)
 
@@ -979,11 +941,11 @@
 
 ### Projects / Frameworks
 
-*   [FCF (⭐48)](https://github.com/adampetcher/fcf) - Framework for proofs of cryptography.
+*   [FCF (⭐49)](https://github.com/adampetcher/fcf) - Framework for proofs of cryptography.
 
 ### Projects / Tools
 
-*   [Ott (⭐335)](https://github.com/ott-lang/ott) - Tool for writing definitions of programming languages and calculi that can be translated to Coq.
+*   [Ott (⭐356)](https://github.com/ott-lang/ott) - Tool for writing definitions of programming languages and calculi that can be translated to Coq.
 
 ### Projects / Type Theory and Mathematics
 
@@ -997,8 +959,8 @@
 
 ### Software / Note-taking & Editors
 
-*   [minimalist-web-notepad (⭐1k)](https://github.com/pereorga/minimalist-web-notepad) - Minimalist notepad.cc clone. ([Demo](https://notes.orga.cat/)) `Apache-2.0` `PHP`
-*   [Oddmuse](https://oddmuse.org/) - A simple wiki engine written in Perl. No database required. ([Source Code (⭐73)](https://github.com/kensanata/oddmuse)) `GPL-3.0` `Perl`
+*   [minimalist-web-notepad (⭐1.2k)](https://github.com/pereorga/minimalist-web-notepad) - Minimalist notepad.cc clone. ([Demo](https://notes.orga.cat/)) `Apache-2.0` `PHP`
+*   [Oddmuse](https://oddmuse.org/) - A simple wiki engine written in Perl. No database required. ([Source Code (⭐78)](https://github.com/kensanata/oddmuse)) `GPL-3.0` `Perl`
 
 ## [61. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
@@ -1008,15 +970,15 @@
 
 ### Caching
 
-*   [EasyCaching (⭐1.9k)](https://github.com/dotnetcore/EasyCaching) - A caching library that contains basic and some advanced usages of caching which can help handle caching more easier!
+*   [EasyCaching (⭐2k)](https://github.com/dotnetcore/EasyCaching) - A caching library that contains basic and some advanced usages of caching which can help handle caching more easier!
 
 ### CLI
 
-*   [spectre.console (⭐9.1k)](https://github.com/spectresystems/spectre.console) - A library that makes it easier to create beautiful console applications.
+*   [spectre.console (⭐9.7k)](https://github.com/spectresystems/spectre.console) - A library that makes it easier to create beautiful console applications.
 
 ### Distributed Computing
 
-*   [Orleankka (⭐493)](https://github.com/OrleansContrib/Orleankka) - Orleankka is a functional API for Microsoft Orleans framework. It is highly suitable for scenarios where having composable, uniform communication interface is preferable, such as: CQRS, event-sourcing, re-routing, FSM, etc. Additional API available for F# called Orleankka.FSharp.
+*   [Orleankka (⭐495)](https://github.com/OrleansContrib/Orleankka) - Orleankka is a functional API for Microsoft Orleans framework. It is highly suitable for scenarios where having composable, uniform communication interface is preferable, such as: CQRS, event-sourcing, re-routing, FSM, etc. Additional API available for F# called Orleankka.FSharp.
 
 ### ORM
 
@@ -1024,12 +986,12 @@
 
 ### Testing
 
-*   [ArchUnitNET (⭐841)](https://github.com/TNG/ArchUnitNET) - Simple library for checking the architecture of C# code with a fluent API.
-*   [Snapshooter (⭐297)](https://github.com/SwissLife-OSS/snapshooter) - A snapshot testing tool for .NET Core and .NET Framework
+*   [ArchUnitNET (⭐962)](https://github.com/TNG/ArchUnitNET) - Simple library for checking the architecture of C# code with a fluent API.
+*   [Snapshooter (⭐307)](https://github.com/SwissLife-OSS/snapshooter) - A snapshot testing tool for .NET Core and .NET Framework
 
 ### Tools
 
-*   [YARP (⭐8.4k)](https://github.com/microsoft/reverse-proxy) - YARP is a reverse proxy toolkit for building fast proxy servers in .NET using the infrastructure from ASP.NET and .NET.
+*   [YARP (⭐8.7k)](https://github.com/microsoft/reverse-proxy) - YARP is a reverse proxy toolkit for building fast proxy servers in .NET using the infrastructure from ASP.NET and .NET.
 
 ## [62. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
@@ -2084,10 +2046,6 @@
 *   [4ocean](https://www.4ocean.com/) - Oeko-tex certificated, cruelty free customizable linen clothing brand. All of the packaging are plastic free.
 *   [Mezzoroni](https://mezzoroni.com/) - Oeko-tex certificated, cruelty free customizable linen clothing brand. All of the packaging are plastic free.
 
-### Documentaries
-
-*   [Flower Island](https://pt.wikipedia.org/wiki/Ilha_das_Flores_\(curta-metragem\)) - "Ilha das Flores", from portuguese, it's a brazilizan documentarie made in 1989 which portrays the influence of the economy on the relationship of human beings with each other and with the environment. It also contains a strong criticism of social inequality and the handling of organic waste. The short film depicts the situation of poor families in a given region of Porto Alegre who, on a priority scale, find themselves after pigs. Women and children who, within a specified time of five minutes, ensure the pigs' leftover food daily.
-
 ### Reforestation
 
 *   [TreeCard](https://www.treecard.org/) - TreeCard - The wooden debit card that plants trees.
@@ -2096,10 +2054,6 @@
 ### Food
 
 *   [NotCo](https://notco.com) - The Not Company is a Foodtech, that reinvents animal-based foods using only plants. Unlike traditional food businesses, the company uses technology to recreate the same products we love to eat in a natural, sustainable and affordable way, keeping it functional, easy to use and mouthwateringly delicious. They use Artificial Intelligence to build a library of thousands of Plants and find how to use them, to recreate the same taste, smell, function, look and feel of the products we love. ALL PLANT-BASED.
-
-### Hygiene
-
-*   [RazorPit](https://www.razorpit.com/) - Cleans and sharpens your razor blades, making them last on average 6 times longer. They say their customers achieve 60-150, which can supposedly save you €120 on blades every year.
 
 ### Podcasts
 
@@ -2112,23 +2066,17 @@
 
 ### Zero Waste
 
-*   [Kent Zero Water Wastage Technology](https://www.kent.co.in/water-purifiers/zero-water-wastage-technology) - KENT RO Purifiers equipped with the ‘Zero Water Wastage’ Technology push back the rejected water to the overhead tank, thereby rendering wastage to zero. As a result, instead of wasting the rejected water, it gets diluted and reused as normal tap water for household purposes.<!-- links:end -->
+*   [Kent Zero Water Wastage Technology](https://www.kent.co.in/water-purifiers/zero-water-wastage-technology) - KENT RO Purifiers equipped with the ‘Zero Water Wastage’ Technology push back the rejected water to the overhead tank, thereby rendering wastage to zero. As a result, instead of wasting the rejected water, it gets diluted and reused as normal tap water for household purposes.
 
-## [65. Awesome Gatling](/content/aliesbelik/awesome-gatling/week/README.md)
-
-### Getting Started
-
-*   [Performance testing with Gatling](https://automationrhapsody.com/performance-testing-with-gatling/)
-
-## [66. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [65. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### UI Libraries, Components & Templates
 
-*   🧩📁 [Jakarta LTE (⭐152)](https://github.com/zeroblack-c/jakarta-lte) - Admin template using Tailwind CSS.
-*   📁 [Resume (⭐46)](https://github.com/mohusman360/mohusman360.github.io) - Simple resume with Tailwind CSS.
-*   📁 [Simple Light (⭐3.6k)](https://github.com/cruip/tailwind-landing-page-template) - Free landing page template built with React & Tailwind CSS.
+*   🧩📁 [Jakarta LTE (⭐155)](https://github.com/zeroblack-c/jakarta-lte) - Admin template using Tailwind CSS.
+*   📁 [Resume (⭐47)](https://github.com/mohusman360/mohusman360.github.io) - Simple resume with Tailwind CSS.
+*   📁 [Simple Light (⭐3.9k)](https://github.com/cruip/tailwind-landing-page-template) - Free landing page template built with React & Tailwind CSS.
 
-## [67. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [66. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Apps / Widgets
 
@@ -2140,9 +2088,9 @@
 
 ### Apps / Content Management
 
-*   [Wagtail Content Import (⭐32)](https://github.com/torchbox/wagtail-content-import) - Import content from Google Docs or Docx into StreamFields, using a customisable mapping system.
+*   [Wagtail Content Import (⭐33)](https://github.com/torchbox/wagtail-content-import) - Import content from Google Docs or Docx into StreamFields, using a customisable mapping system.
 
-## [68. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
+## [67. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
 
 ### Family
 
@@ -2186,13 +2134,13 @@
 | ------: | -------: | ---: |
 |   2 - 4 |       8+ |  15m |
 
-## [69. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
+## [68. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
 ### Software / Web Applications
 
 *   [Dnote](https://www.getdnote.com/) - A simple command line notebook with multi-device sync and web interface. ([GNU AGPLv3 (⭐2.5k)](https://github.com/dnote/dnote/blob/master/licenses/AGPLv3.txt))
 
-## [70. Awesome Steam](/content/scholtzm/awesome-steam/week/README.md)
+## [69. Awesome Steam](/content/scholtzm/awesome-steam/week/README.md)
 
 ### Node.js / Trading
 
@@ -2202,13 +2150,13 @@
 
 *   [steamapis (⭐7)](https://github.com/itsjfx/node-steamapis) - Module to use the API of [steamapis.com](https://steamapis.com).
 
-## [71. Awesome Corda](/content/chainstack/awesome-corda/week/README.md)
+## [70. Awesome Corda](/content/chainstack/awesome-corda/week/README.md)
 
 ### Tools
 
 *   [RPC PoolBoy](https://manosbatsis.github.io/corda-rpc-poolboy/) - RPC connection pool with support for multiple Corda nodes.
 
-## [72. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [71. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Algorithms and Data structures
 
@@ -2220,9 +2168,9 @@
 
 ### CSV
 
-*   [csv2sql (⭐53)](https://github.com/Arp-G/csv2sql) - A fast and fully automated CSV to database importer.
+*   [csv2sql (⭐54)](https://github.com/Arp-G/csv2sql) - A fast and fully automated CSV to database importer.
 
-## [73. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [72. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
@@ -2242,7 +2190,7 @@
 
 *   [CodeFactor](https://www.codefactor.io) — Automated Code Review for Git. The free version includes unlimited users, public repositories, and one private repo.
 
-## [74. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [73. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### Free eBooks
 
@@ -2256,13 +2204,13 @@
 
 *   [DDDplus framework (⭐1.1k)](https://github.com/funkygao/cp-ddd-framework) - A lightweight flexible development framework for complex business architecture based on DDD.
 
-## [75. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
+## [74. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
 
 ### Research Papers
 
 *   [H2O AutoML: Scalable Automatic Machine Learning](https://www.automl.org/wp-content/uploads/2020/07/AutoML_2020_paper_61.pdf). Erin LeDell, Sebastien Poirier.  (2020)
 
-## [76. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [75. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / External Resources
 
@@ -2270,10 +2218,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [bee-grid-table (⭐45)](https://github.com/jiahengaa/BeeGridTable) -BeeGridTable , is a Highly Customizable Table UI component library based on Vue.js. Rich functions、More efficient、Easy to use!
-*   [vue-toaster (⭐192)](https://github.com/MeForma/vue-toaster) - Vue.js toast notification plugin for Vue 3
-*   [vue3-router-tree (⭐34)](https://github.com/boussadjra/vue3-router-tree) - This component is based on Vue.js 3, it represents your routes or items as a tree view 🌲.
-*   [vnodes (⭐120)](https://github.com/txlabs/vnodes) - General purpose components to create svg interactive graphs, diagrams or node based visual tools.
+*   [vnodes (⭐122)](https://github.com/txlabs/vnodes) - General purpose components to create svg interactive graphs, diagrams or node based visual tools.
 
 ---
 

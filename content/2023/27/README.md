@@ -16,7 +16,7 @@
 
 ### Static type checkers
 
-*   [basedmypy (⭐120)](https://github.com/KotlinIsland/basedmypy) - Based static typing with baseline functionality.
+*   [basedmypy (⭐151)](https://github.com/KotlinIsland/basedmypy) - Based static typing with baseline functionality.
 
 ## [3. Awesome Haxe Gamedev](/content/Dvergar/awesome-haxe-gamedev/week/README.md)
 
@@ -212,22 +212,22 @@
 
 ### Tools / Community providers
 
-*   [tfgpt (⭐73)](https://github.com/flavius-dinu/tfgpt) - A CLI tool that integrates Terraform with OpenAI's GPT-3.5 Turbo to provide explanations for Terraform commands and concepts.
-*   [tfvar (⭐203)](https://github.com/shihanng/tfvar) - tfvar scans your Terraform configurations or modules and extracts the variables into formats of your choice (tfvar, environment variables, etc.) for editing.
+*   [tfgpt (⭐72)](https://github.com/flavius-dinu/tfgpt) - A CLI tool that integrates Terraform with OpenAI's GPT-3.5 Turbo to provide explanations for Terraform commands and concepts.
+*   [tfvar (⭐210)](https://github.com/shihanng/tfvar) - tfvar scans your Terraform configurations or modules and extracts the variables into formats of your choice (tfvar, environment variables, etc.) for editing.
 
 ## [5. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
 
 ### Algorithms and data structures
 
-*   [karlseguin/cache.zig (⭐32)](https://github.com/karlseguin/cache.zig) - Thread-safe, expiration-aware, LRU cache.
+*   [karlseguin/cache.zig (⭐50)](https://github.com/karlseguin/cache.zig) - Thread-safe, expiration-aware, LRU cache.
 
 ### Database
 
-*   [karlseguin/zuckdb.zig (⭐74)](https://github.com/karlseguin/zuckdb.zig) - DuckDB wrapper.
+*   [karlseguin/zuckdb.zig (⭐109)](https://github.com/karlseguin/zuckdb.zig) - DuckDB wrapper.
 
 ### Misc libraries
 
-*   [karlseguin/singleflight.zig (⭐2)](https://github.com/karlseguin/singleflight.zig) - Duplicate function call suppression.
+*   [karlseguin/singleflight.zig (⭐3)](https://github.com/karlseguin/singleflight.zig) - Duplicate function call suppression.
 
 ## [6. Awesome Bitcoin Payment Processors](/content/alexk111/awesome-bitcoin-payment-processors/week/README.md)
 
@@ -276,11 +276,11 @@
 
 ### Resources / Blog posts
 
-*   [EDA with Polars: Step-by-Step Guide for Pandas Users (Part 1)](https://towardsdatascience.com/eda-with-polars-step-by-step-guide-for-pandas-users-part-1-b2ec500a1008) - A blog post that describes the main data processing operations with Polars in Python by [@AntonsRuberts](https://github.com/AntonsRuberts). Code used is available in [this notebook (⭐50)](https://github.com/aruberts/tutorials/blob/main/polars/basics.ipynb).
+*   [EDA with Polars: Step-by-Step Guide for Pandas Users (Part 1)](https://towardsdatascience.com/eda-with-polars-step-by-step-guide-for-pandas-users-part-1-b2ec500a1008) - A blog post that describes the main data processing operations with Polars in Python by [@AntonsRuberts](https://github.com/AntonsRuberts). Code used is available in [this notebook (⭐60)](https://github.com/aruberts/tutorials/blob/main/polars/basics.ipynb).
 
 ### Resources / Talks and videos
 
-*   [How to update mass data using Polars DataFrame](https://www.youtube.com/watch?v=ivJSk6JLWBQ) ⏳ `9 min` - A video that presents the process of writing code to update mass columns across CSV or data files by [@AmitXShukla](https://github.com/AmitXShukla). Notebook used for the video [in this github repo (⭐61)](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Basic%20calculator.ipynb).
+*   [How to update mass data using Polars DataFrame](https://www.youtube.com/watch?v=ivJSk6JLWBQ) ⏳ `9 min` - A video that presents the process of writing code to update mass columns across CSV or data files by [@AmitXShukla](https://github.com/AmitXShukla). Notebook used for the video [in this github repo (⭐77)](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Basic%20calculator.ipynb).
 
 ## [10. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
@@ -331,7 +331,7 @@
 
 ### Web
 
-*   [vest (⭐3)](https://github.com/alexferl/vest) - A REST client in V.
+*   [vest (⭐4)](https://github.com/alexferl/vest) - A REST client in V.
 
 ## [15. Awesome Agriculture](/content/brycejohnston/awesome-agriculture/week/README.md)
 
@@ -378,7 +378,7 @@
 
 ### Multiple languages / [Other](#other-1)
 
-*   [Bearer (⭐1.9k)](https://github.com/bearer/bearer) — Open-Source static code analysis tool to discover,  filter and prioritize security risks and vulnerabilities  leading to sensitive data exposures (PII, PHI, PD).  Highly configurable and easily extensible,  built for security and engineering teams.
+*   [Bearer (⭐2.1k)](https://github.com/bearer/bearer) — Open-Source static code analysis tool to discover,  filter and prioritize security risks and vulnerabilities  leading to sensitive data exposures (PII, PHI, PD).  Highly configurable and easily extensible,  built for security and engineering teams.
 
 ## [19. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
@@ -388,7 +388,7 @@
 
 ### Audio and Video Tools / File Sharing
 
-*   [Pulp (⭐29)](https://github.com/bazalp/pulp/releases) - Audio sample manager. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/bazalp/pulp)
+*   [Pulp (⭐41)](https://github.com/bazalp/pulp/releases) - Audio sample manager. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/bazalp/pulp)
 
 ### Security Tools / Audio Record and Process
 
@@ -398,7 +398,7 @@
 
 ### RSS services powered by utilizing Obsidian / Outline Processor Markup Language
 
-*   [Obsidian-RSS (⭐356)](https://github.com/joethei/obsidian-rss) <sup>[1141](https://t.me/s/aboutrss/1141)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/joethei/obsidian-rss)
+*   [Obsidian-RSS (⭐410)](https://github.com/joethei/obsidian-rss) <sup>[1141](https://t.me/s/aboutrss/1141)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/joethei/obsidian-rss)
 
 ### RSSHub / Outline Processor Markup Language
 
@@ -452,7 +452,7 @@
 ### Videos / Others
 
 *   [Burke Learns Blazor](https://www.youtube.com/watch?v=qONPW7N_r8k) - ![duration](https://img.shields.io/badge/Duration:%20-117%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) July 7, 2023 - Finishing the API and starting the UI. [Community links](https://www.theurlist.com/burke-learns-blazor).
-*   [Adding Progress Indicators & Progress Telerik Maps in 'Next Tech Event' | Part 21](https://www.youtube.com/watch?v=cYDs7WyOxcE) - ![duration](https://img.shields.io/badge/Duration:%20-126%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) July 4, 2023 - In this episode, we discuss and implement progress indicators to enhance user experience. Plus, we integrate a Map component from Progress Telerik, adding a visually striking and functional element to the platform. [Source code (⭐6)](https://github.com/CodingAfterWork/NextTechEvent).
+*   [Adding Progress Indicators & Progress Telerik Maps in 'Next Tech Event' | Part 21](https://www.youtube.com/watch?v=cYDs7WyOxcE) - ![duration](https://img.shields.io/badge/Duration:%20-126%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) July 4, 2023 - In this episode, we discuss and implement progress indicators to enhance user experience. Plus, we integrate a Map component from Progress Telerik, adding a visually striking and functional element to the platform. [Source code (⭐5)](https://github.com/CodingAfterWork/NextTechEvent).
 *   [The Blazor Power Hour: Sections, SectionOutlet, and SectionContent in .NET 8 Preview](https://www.youtube.com/watch?v=6iUNRitiJTQ) - ![duration](https://img.shields.io/badge/Duration:%20-129%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) June 28, 2023 - Let's take a deep dive into a .NET 8 Preview feature, sections. What are SectionOutlet, and SectionContent? How do we use them to build an extensive layout system for Blazor applications?
 *   [Running ASP.NET Core Apps without a server? WHAT???](https://www.youtube.com/watch?v=IXCZAFwT5GY) - ![duration](https://img.shields.io/badge/Duration:%20-46%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) May 26, 2023 - By Isaac Levin at the NDC Oslo 2023. With the introduction of WebAssembly-based Blazor, .NET developers can now build solutions that can run on all sorts of new hosting platforms, even ones without servers. Building applications that can run nearly anywhere, all written in C# is an amazing experience for web developers, far and wide. Write code in the programming language you love, without having to learn the newest Javascript framework (though you can interop if you want to!) is the reason why Blazor is one of the most exciting things in the current .NET landscape. In this session, we will go over the technology of Blazor WebAssembly and showcase deploying a .NET app that can run in places we never thought we could.
 
@@ -460,50 +460,50 @@
 
 ### Templates / Vanilla
 
-*   [vite-tinybase (⭐5)](https://github.com/tinyplex/vite-tinybase) - Starter template for TinyBase.
-*   [vite-tinybase-ts (⭐8)](https://github.com/tinyplex/vite-tinybase-ts) - Starter template for TinyBase and TypeScript.
+*   [vite-tinybase (⭐7)](https://github.com/tinyplex/vite-tinybase) - Starter template for TinyBase.
+*   [vite-tinybase-ts (⭐10)](https://github.com/tinyplex/vite-tinybase-ts) - Starter template for TinyBase and TypeScript.
 
 ### Templates / Vue 3
 
-*   [antdv-pro (⭐653)](https://github.com/antdv-pro/antdv-pro) - AntdvPro is a complete set of enterprise-level mid-backend front-end/design solutions based on Vue3, Vite4, ant-design-vue4, Pinia, UnoCSS and Typescript.
+*   [antdv-pro (⭐719)](https://github.com/antdv-pro/antdv-pro) - AntdvPro is a complete set of enterprise-level mid-backend front-end/design solutions based on Vue3, Vite4, ant-design-vue4, Pinia, UnoCSS and Typescript.
 
 ### Templates / React
 
-*   [create-react-app-vite (⭐122)](https://github.com/laststance/create-react-app-vite) - React, TypeScript, TailwindCSS, MSW, Vitest, React Testing Library, ESLint, Prettier, GitHub Actions.
-*   [vite-tinybase-react (⭐5)](https://github.com/tinyplex/vite-tinybase-react) - Starter template for TinyBase and React.
-*   [vite-tinybase-ts-react (⭐8)](https://github.com/tinyplex/vite-tinybase-ts-react) - Starter template for TinyBase, TypeScript, and React.
+*   [create-react-app-vite (⭐134)](https://github.com/laststance/create-react-app-vite) - React, TypeScript, TailwindCSS, MSW, Vitest, React Testing Library, ESLint, Prettier, GitHub Actions.
+*   [vite-tinybase-react (⭐6)](https://github.com/tinyplex/vite-tinybase-react) - Starter template for TinyBase and React.
+*   [vite-tinybase-ts-react (⭐11)](https://github.com/tinyplex/vite-tinybase-ts-react) - Starter template for TinyBase, TypeScript, and React.
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [@spiriit/vite-plugin-svg-spritemap (⭐46)](https://github.com/SpiriitLabs/vite-plugin-svg-spritemap) - Pack your SVG files in one spritemap file and use them with `<svg>`/`<img>` and directly in your CSS.
-*   [vite-plugin-auto-mpa-html (⭐6)](https://github.com/iamspark1e/vite-plugin-auto-mpa-html) - A file directory-based automated multi-page build plugin that supports HTML templates using EJS.
+*   [@spiriit/vite-plugin-svg-spritemap (⭐61)](https://github.com/SpiriitLabs/vite-plugin-svg-spritemap) - Pack your SVG files in one spritemap file and use them with `<svg>`/`<img>` and directly in your CSS.
+*   [vite-plugin-auto-mpa-html (⭐9)](https://github.com/iamspark1e/vite-plugin-auto-mpa-html) - A file directory-based automated multi-page build plugin that supports HTML templates using EJS.
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [vite-plugin-css-injected-by-js (⭐390)](https://github.com/marco-prontera/vite-plugin-css-injected-by-js) - Takes the CSS and adds it to the page through the JS.
+*   [vite-plugin-css-injected-by-js (⭐434)](https://github.com/marco-prontera/vite-plugin-css-injected-by-js) - Takes the CSS and adds it to the page through the JS.
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-global-const (⭐8)](https://github.com/censujiang/vite-plugin-global-const) - Define constants for reuse of your code.
+*   [vite-plugin-global-const (⭐9)](https://github.com/censujiang/vite-plugin-global-const) - Define constants for reuse of your code.
 
 ### Vue / Routing
 
-*   ![v3](https://img.shields.io/badge/-v3-35495e) [unplugin-vue-router (⭐1.5k)](https://github.com/posva/unplugin-vue-router) - Official experimental file based routing.
+*   ![v3](https://img.shields.io/badge/-v3-35495e) [unplugin-vue-router (⭐1.8k)](https://github.com/posva/unplugin-vue-router) - Official experimental file based routing.
 
 ### Vue / Helpers
 
 *   ![v3](https://img.shields.io/badge/-v3-35495e) [vite-plugin-vue-devtools (⭐1.6k)](https://github.com/webfansplz/vite-plugin-vue-devtools) - Designed to enhance the Vue developer experience.
-*   ![v3](https://img.shields.io/badge/-v3-35495e) [vite-plugin-vue-nested-sfc (⭐97)](https://github.com/HunYan-io/vite-plugin-vue-nested-sfc) - Nest SFCs inside your SFC.
+*   ![v3](https://img.shields.io/badge/-v3-35495e) [vite-plugin-vue-nested-sfc (⭐96)](https://github.com/HunYan-io/vite-plugin-vue-nested-sfc) - Nest SFCs inside your SFC.
 
 ### Libraries / Community
 
-*   [vue-ssr (⭐11)](https://github.com/bistroo/vue-ssr) - Minimalistic wrapper to develop and run SSR powered Vue apps. ![vue3](https://img.shields.io/badge/-Vue%203-42b883)
+*   [vue-ssr (⭐12)](https://github.com/bistroo/vue-ssr) - Minimalistic wrapper to develop and run SSR powered Vue apps. ![vue3](https://img.shields.io/badge/-Vue%203-42b883)
 
 ## [24. Awesome Github Wiki](/content/MyHoneyBadger/awesome-github-wiki/week/README.md)
 
 ### Useful links with tips & tricks
 
-*   [Search wiki of the repository on GitHub (⭐194)](https://github.com/linyows/github-wiki-search)
+*   [Search wiki of the repository on GitHub (⭐198)](https://github.com/linyows/github-wiki-search)
 
 ## [25. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/week/README.md)
 
@@ -513,10 +513,8 @@
 
 ### :books: Literature / Scientific Research
 
-*   :mortar\_board: [Adversarial learning on static detection techniques for executable packing](https://dial.uclouvain.be/memoire/ucl/object/thesis:40178) (June 2023)
+*   :mortar\_board: [Adversarial learning on static detection techniques for executable packing](https://dial.uclouvain.be/memoire/ucl/object/thesis:40178) (June 2023)  :star:
 *   :notebook: [Malware makeover: Breaking ML-based static analysis by modifying executable bytes](http://arxiv.org/abs/1912.09064) (May 2021)
-*   :newspaper: [On deceiving malware classification with section injection](https://www.semanticscholar.org/paper/On-deceiving-malware-classification-with-section-Silva-Segundo/915faa4486a78a4f449c0f8028b773078bfdbd84) (August 2022)
-*   :mortar\_board: Static features exploration for executable packing with unsupervised learning (June 2023)
 
 ## [26. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
 
@@ -546,7 +544,7 @@
 
 ### Mobile
 
-*   [cl-jwk (⭐17)](https://github.com/dnaeon/cl-jwk) -  Common Lisp system for decoding public JSON Web Keys (JWK). BSD License.
+*   [cl-jwk (⭐18)](https://github.com/dnaeon/cl-jwk) -  Common Lisp system for decoding public JSON Web Keys (JWK). BSD License.
 
 ### Reference
 
@@ -559,57 +557,57 @@
 
 ### Software / R
 
-*   [edgebundle (⭐123)](https://github.com/schochastics/edgebundle) - Edge bundling algorithms, useful to e.g. draw networks of transport maps.
+*   [edgebundle (⭐125)](https://github.com/schochastics/edgebundle) - Edge bundling algorithms, useful to e.g. draw networks of transport maps.
 *   [netseg](https://mbojan.github.io/netseg/) - Various measures of network segregation and homophily.
 
 ## [30. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Analytics
 
-*   [Swetrix](https://swetrix.com/) - Ultimate, open-source web analytics to satisfy all your needs. ([Demo](https://swetrix.com/projects/STEzHcB1rALV), [Source Code (⭐32)](https://github.com/Swetrix/selfhosting)) `AGPL-3.0` `Docker`
+*   [Swetrix](https://swetrix.com/) - Ultimate, open-source web analytics to satisfy all your needs. ([Demo](https://swetrix.com/projects/STEzHcB1rALV), [Source Code (⭐40)](https://github.com/Swetrix/selfhosting)) `AGPL-3.0` `Docker`
 
 ### Software / Communication - Email - Mailing Lists and Newsletters
 
-*   [Sympa](https://www.sympa.community/) - Mailing list manager. ([Source Code (⭐241)](https://github.com/sympa-community/sympa)) `GPL-2.0` `Perl`
+*   [Sympa](https://www.sympa.community/) - Mailing list manager. ([Source Code (⭐248)](https://github.com/sympa-community/sympa)) `GPL-2.0` `Perl`
 
 ### Software / Miscellaneous
 
-*   [GO Feature Flag](https://gofeatureflag.org) - Simple, complete, and lightweight feature flag solution (alternative to LaunchDarkly). ([Source Code (⭐1.2k)](https://github.com/thomaspoignant/go-feature-flag)) `MIT` `Go`
+*   [GO Feature Flag](https://gofeatureflag.org) - Simple, complete, and lightweight feature flag solution (alternative to LaunchDarkly). ([Source Code (⭐1.5k)](https://github.com/thomaspoignant/go-feature-flag)) `MIT` `Go`
 
 ### Software / Pastebins
 
-*   [YABin (⭐149)](https://github.com/Yureien/YABin) - A pastebin that contains plentiful features while remaining simple. Supports optional E2E encryption, a client-side CLI app, syntax highlighting, minimalistic UI, APIs, keyboard shortcuts, and more. It can even be run in serverless environments. ([Demo](https://bin.sohamsen.me/)) `MIT` `Nodejs/Docker`
+*   [YABin (⭐179)](https://github.com/Yureien/YABin) - A pastebin that contains plentiful features while remaining simple. Supports optional E2E encryption, a client-side CLI app, syntax highlighting, minimalistic UI, APIs, keyboard shortcuts, and more. It can even be run in serverless environments. ([Demo](https://bin.sohamsen.me/)) `MIT` `Nodejs/Docker`
 
 ### Software / Proxy
 
-*   [Koblas (⭐79)](https://github.com/ynuwenhof/koblas) - Lightweight SOCKS5 proxy server. `MIT` `Rust/Docker`
+*   [Koblas (⭐112)](https://github.com/ynuwenhof/koblas) - Lightweight SOCKS5 proxy server. `MIT` `Rust/Docker`
 
 ## [31. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [zootedb0t/citruszest.nvim (⭐142)](https://github.com/zootedb0t/citruszest.nvim) - A colorscheme that features a combination of bright and juicy colors reminiscent of various citrus fruits, with LSP and Tree-sitter support.
-*   [2nthony/vitesse.nvim (⭐53)](https://github.com/2nthony/vitesse.nvim) - Vitesse theme Lua port.
+*   [zootedb0t/citruszest.nvim (⭐182)](https://github.com/zootedb0t/citruszest.nvim) - A colorscheme that features a combination of bright and juicy colors reminiscent of various citrus fruits, with LSP and Tree-sitter support.
+*   [2nthony/vitesse.nvim (⭐58)](https://github.com/2nthony/vitesse.nvim) - Vitesse theme Lua port.
 
 ## [32. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Go / Natural Language Processing
 
-*   [Cybertron (⭐274)](https://github.com/nlpodyssey/cybertron) - Cybertron: the home planet of the Transformers in Go.
+*   [Cybertron (⭐292)](https://github.com/nlpodyssey/cybertron) - Cybertron: the home planet of the Transformers in Go.
 
 ### Go / General-Purpose Machine Learning
 
-*   [Spago (⭐1.7k)](https://github.com/nlpodyssey/spago) - Self-contained Machine Learning and Natural Language Processing library in Go.
+*   [Spago (⭐1.8k)](https://github.com/nlpodyssey/spago) - Self-contained Machine Learning and Natural Language Processing library in Go.
 
 ### Python / Computer Vision
 
-*   [joliGEN (⭐232)](https://github.com/jolibrain/joliGEN) - Generative AI Image Toolset with GANs and Diffusion for Real-World Applications.
+*   [joliGEN (⭐246)](https://github.com/jolibrain/joliGEN) - Generative AI Image Toolset with GANs and Diffusion for Real-World Applications.
 
 ## [33. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Http Clients
 
-*   [corbella83/kotliny.network (⭐4)](https://github.com/corbella83/kotliny.network) - Simple, powerful and lightweight Kotlin Multiplatform Network Client
+*   [corbella83/kotliny.network (⭐6)](https://github.com/corbella83/kotliny.network) - Simple, powerful and lightweight Kotlin Multiplatform Network Client
 
 ## [34. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
 
@@ -621,7 +619,7 @@
 
 *   [Common Crawl Columnar Index](https://commoncrawl.org/tag/columnar-index/) - SQL-queryable index, with CDX info plus language classification. *(Stable)*
 *   [Common Crawl Web Graph](https://commoncrawl.org/category/web-graph/) - A host or domain-level graph of the web, with ranking information. *(Stable)*
-*   [Common Crawl Jupyter notebooks (⭐39)](https://github.com/commoncrawl/cc-notebooks) - A collection of notebooks using Common Crawl's various datasets. *(Stable)*
+*   [Common Crawl Jupyter notebooks (⭐49)](https://github.com/commoncrawl/cc-notebooks) - A collection of notebooks using Common Crawl's various datasets. *(Stable)*
 *   [Web Data Commons](http://webdatacommons.org/) - Structured data extracted from Common Crawl. *(Stable)*
 
 ### Community Resources / Mailing Lists
@@ -632,15 +630,15 @@
 
 ### AI
 
-*   [upython-chat-gpt (⭐24)](https://github.com/karlsoderby/upython-chat-gpt) - ChatGPT for MicroPython.
+*   [upython-chat-gpt (⭐30)](https://github.com/karlsoderby/upython-chat-gpt) - ChatGPT for MicroPython.
 
 ### Communications / APIs
 
-*   [micropython-linenotify (⭐9)](https://github.com/PerfecXX/micropython-linenotify) - MicroPython library for sending notifications to Line Notify with ESP8266 and ESP32.
+*   [micropython-linenotify (⭐10)](https://github.com/PerfecXX/micropython-linenotify) - MicroPython library for sending notifications to Line Notify with ESP8266 and ESP32.
 
 ### Communications / ESP-NOW
 
-*   [mesh-espnow-micropython (⭐7)](https://github.com/shariltumin/mesh-espnow-micropython) - Dynamic Secure Mesh for Collaborative Nodes of IoT devices.
+*   [mesh-espnow-micropython (⭐10)](https://github.com/shariltumin/mesh-espnow-micropython) - Dynamic Secure Mesh for Collaborative Nodes of IoT devices.
 
 ### Communications / IoT
 
@@ -648,11 +646,11 @@
 
 ### Communications / RPC
 
-*   [ujrpc (⭐4)](https://github.com/zcattacz/ujrpc) - JSON RPC for MicroPython.
+*   [ujrpc (⭐5)](https://github.com/zcattacz/ujrpc) - JSON RPC for MicroPython.
 
 ### Communications / WiFi
 
-*   [micropython-wifi\_manager (⭐51)](https://github.com/ferreira-igor/micropython-wifi_manager) - WiFi Manager for ESP8266 and ESP32 using MicroPython.
+*   [micropython-wifi\_manager (⭐61)](https://github.com/ferreira-igor/micropython-wifi_manager) - WiFi Manager for ESP8266 and ESP32 using MicroPython.
 
 ### Sensors / Accelerometer Digital
 
@@ -678,7 +676,7 @@
 
 ### Nodes & Consensus Participation / Wallets
 
-*   [AlgoRun (⭐28)](https://github.com/algorandfoundation/algorun) - Simple CLI utility for setting up and starting Algorand MainNet participation node.
+*   [AlgoRun (⭐31)](https://github.com/algorandfoundation/algorun) - Simple CLI utility for setting up and starting Algorand MainNet participation node.
 
 ## [38. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
 
@@ -712,7 +710,7 @@
 
 ### Modules / Database
 
-*   [dongoose (⭐21)](https://github.com/roonie007/dongoose) - A simple and easy to use ORM for Deno KV.
+*   [dongoose (⭐24)](https://github.com/roonie007/dongoose) - A simple and easy to use ORM for Deno KV.
 
 ### Modules / Web utils
 
@@ -728,33 +726,33 @@
 
 ### DSP
 
-*   [DSPFilters (⭐1.8k)](https://github.com/vinniefalco/DSPFilters) - A collection of useful C++ classes for digital signal processing. \[MIT]
-*   [iir1 (⭐620)](https://github.com/berndporr/iir1) - IIR Realtime C++ filter library. \[MIT]
-*   [kissfft (⭐1.4k)](https://github.com/mborgerding/kissfft) - A Fast Fourier Transform (FFT) library that tries to Keep it Simple, Stupid. \[BSD-3-Clause]
-*   [pocketfft (⭐69)](https://github.com/mreineck/pocketfft) - FFT implementation based on FFTPack, but with several improvements. \[BSD-3-Clause]
-*   [wavelib (⭐357)](https://github.com/rafat/wavelib) - C implementation of 1D and 2D wavelet transforms. \[BSD-3-Clause]
+*   [DSPFilters (⭐1.9k)](https://github.com/vinniefalco/DSPFilters) - A collection of useful C++ classes for digital signal processing. \[MIT]
+*   [iir1 (⭐662)](https://github.com/berndporr/iir1) - IIR Realtime C++ filter library. \[MIT]
+*   [kissfft (⭐1.5k)](https://github.com/mborgerding/kissfft) - A Fast Fourier Transform (FFT) library that tries to Keep it Simple, Stupid. \[BSD-3-Clause]
+*   [pocketfft (⭐79)](https://github.com/mreineck/pocketfft) - FFT implementation based on FFTPack, but with several improvements. \[BSD-3-Clause]
+*   [wavelib (⭐391)](https://github.com/rafat/wavelib) - C implementation of 1D and 2D wavelet transforms. \[BSD-3-Clause]
 
 ### Inter-process communication
 
-*   [SRPC (⭐1.9k)](https://github.com/sogou/srpc) - A lightweight RPC system that supports multiple protocols and OpenTelemetry. \[Apache2]
+*   [SRPC (⭐2k)](https://github.com/sogou/srpc) - A lightweight RPC system that supports multiple protocols and OpenTelemetry. \[Apache2]
 
 ## [42. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Graphics
 
-*   [rustq/vue-skia (⭐283)](https://github.com/rustq/vue-skia) - Skia based 2d graphics vue rendering library. It is based on Rust to implement software rasterization to perform rendering.
+*   [rustq/vue-skia (⭐306)](https://github.com/rustq/vue-skia) - Skia based 2d graphics vue rendering library. It is based on Rust to implement software rasterization to perform rendering.
 
 ### Libraries / Data visualization
 
-*   [blitzarx1/egui\_graphs (⭐367)](https://github.com/blitzarx1/egui_graphs) \[[egui\_graphs](https://crates.io/crates/egui_graphs)] - Interactive graph visualization widget powered by egui and petgraph. [![Crates.io](https://img.shields.io/crates/v/egui_graphs)](https://crates.io/crates/egui_graphs) [![docs.rs](https://img.shields.io/docsrs/egui_graphs)](https://docs.rs/egui_graphs)
+*   [blitzarx1/egui\_graphs (⭐452)](https://github.com/blitzarx1/egui_graphs) \[[egui\_graphs](https://crates.io/crates/egui_graphs)] - Interactive graph visualization widget powered by egui and petgraph. [![Crates.io](https://img.shields.io/crates/v/egui_graphs)](https://crates.io/crates/egui_graphs) [![docs.rs](https://img.shields.io/docsrs/egui_graphs)](https://docs.rs/egui_graphs)
 
 ### Libraries / Finance
 
-*   [d-e-s-o/apca (⭐134)](https://github.com/d-e-s-o/apca) \[[apca](https://crates.io/crates/apca)] - Opinionated and comprehensive bindings to the [Alpaca API](https://alpaca.markets/) for stock trading and more. ![GitHub Workflow Status](https://github.com/d-e-s-o/apca/actions/workflows/test.yml/badge.svg?branch=main)
+*   [d-e-s-o/apca (⭐151)](https://github.com/d-e-s-o/apca) \[[apca](https://crates.io/crates/apca)] - Opinionated and comprehensive bindings to the [Alpaca API](https://alpaca.markets/) for stock trading and more. ![GitHub Workflow Status](https://github.com/d-e-s-o/apca/actions/workflows/test.yml/badge.svg?branch=main)
 
 ### Libraries / Scripting
 
-*   [kcl (⭐1.5k)](https://github.com/kcl-lang/kcl) - A constraint-based record & functional language mainly used in configuration and policy scenarios.
+*   [kcl (⭐1.8k)](https://github.com/kcl-lang/kcl) - A constraint-based record & functional language mainly used in configuration and policy scenarios.
 
 ## [43. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
@@ -786,24 +784,24 @@
 *   [AI Image Upscaler - Upscale Photo, Cartoons in Batch Free](https://www.imgupscaler.com/): "free, browser-based, with five credits per day" reference by nejcsusec.beehiiv.com
 *   [Why you should upscale your images](https://nejcsusec.beehiiv.com/p/upscale-images): comparing different tools
 
-### Inbox: Speech-to-text (STT) and spoken content analysis / Deforum
+### Speech-to-text (STT) and spoken content analysis / Deforum
 
-*   [wolfia-app/gpt-code-search (⭐198)](https://github.com/wolfia-app/gpt-code-search/): search a codebase with natural language using AI
+*   [wolfia-app/gpt-code-search (⭐201)](https://github.com/wolfia-app/gpt-code-search/): search a codebase with natural language using AI
 
 ## [44. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [fzf (unixorn) (⭐294)](https://github.com/unixorn/fzf-zsh-plugin/) - Enables [fzf (⭐63k)](https://github.com/junegunn/fzf) history and file searches.
-*   [fzf-tools (⭐9)](https://github.com/happycod3r/fzf-tools) - Provides functions, aliases and key-bindings for commands such as `alias`, `find`, `ls`, `man`, `printenv` that are designed to enhance your command-line workflow by making them to default to filtering through [fzf (⭐63k)](https://github.com/junegunn/fzf), allowing you to quickly find files, search & run commands from history, run scripts of many supported types, browse `git` commits, and more.
+*   [fzf (unixorn) (⭐318)](https://github.com/unixorn/fzf-zsh-plugin/) - Enables [fzf (⭐67k)](https://github.com/junegunn/fzf) history and file searches.
+*   [fzf-tools](https://github.com/happycod3r/fzf-tools) - Provides functions, aliases and key-bindings for commands such as `alias`, `find`, `ls`, `man`, `printenv` that are designed to enhance your command-line workflow by making them to default to filtering through [fzf (⭐67k)](https://github.com/junegunn/fzf), allowing you to quickly find files, search & run commands from history, run scripts of many supported types, browse `git` commits, and more.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [agnoster-multiline (⭐0)](https://github.com/mxkrsv/agnoster-multiline) - Based on [Agnoster (⭐4k)](https://github.com/agnoster/agnoster-zsh-theme). Includes decorators for current directory and `git` status. Requires a font with powerline and `git` glyphs. Automatically disables non-ascii glyphs on linux ttys.
-*   [bira (⭐0)](https://github.com/zimfw/bira) - Fork of Oh-My-ZSH [bira (⭐172k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/bira.zsh-theme) theme. Includes decorators for working directory, username\@host, `git` status information, Python [venv](https://docs.python.org/3/library/venv.html) and a status code when the last command had an error.
+*   [bira (⭐1)](https://github.com/zimfw/bira) - Fork of Oh-My-ZSH [bira (⭐175k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/bira.zsh-theme) theme. Includes decorators for working directory, username\@host, `git` status information, Python [venv](https://docs.python.org/3/library/venv.html) and a status code when the last command had an error.
 *   [nostalgia (⭐0)](https://github.com/skippyr/nostalgia) - Minimalist theme inspired by Windows CMD prompt. Includes decorators for user\@hostname, `git` status, current directory and python virtualenv.
 *   [riverside (⭐0)](https://github.com/skippyr/riverside) - A more portable descendent of [River Dreams (⭐3)](https://github.com/skippyr/river_dreams) inspired by robbyrussell and kafeitu. Includes decorators for `git` status, user\@hostname, current directory and the current python virtual environment.
-*   [zunder (⭐4)](https://github.com/Warbacon/zunder-prompt) - Simple and fast ZSH prompt based on [gitstatus (⭐1.7k)](https://github.com/romkatv/gitstatus).
+*   [zunder (⭐6)](https://github.com/Warbacon/zunder-prompt) - Simple and fast ZSH prompt based on [gitstatus (⭐1.7k)](https://github.com/romkatv/gitstatus).
 
 ---
 

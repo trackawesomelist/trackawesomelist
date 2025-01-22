@@ -89,7 +89,7 @@
 
 ## [7. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
-### Username Check / Telegram
+### Username Check / Steam
 
 *   [Name Checkr](http://www.namecheckr.com) - checks a domain and username across many platforms.
 
@@ -101,27 +101,27 @@
 
 ### REST and API
 
-*   [accent (⭐41)](https://github.com/sticksnleaves/accent) - Plug for handling the conversion of JSON API keys to different cases.
+*   [accent (⭐42)](https://github.com/sticksnleaves/accent) - Plug for handling the conversion of JSON API keys to different cases.
 *   [versionary (⭐40)](https://github.com/sticksnleaves/versionary) - API versioning for Elixir Plug and Phoenix.
 
 ## [9. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/README.md)
 
 ### Machine Learning Libraries / Frameworks
 
-*   [weka (⭐64)](https://github.com/paulgoetze/weka-jruby) -
+*   [weka (⭐65)](https://github.com/paulgoetze/weka-jruby) -
     JRuby bindings for Weka, different ML algorithms implemented through Weka.
-*   [ai4r (⭐711)](https://github.com/SergioFierens/ai4r) -
+*   [ai4r (⭐713)](https://github.com/SergioFierens/ai4r) -
     Artificial Intelligence for Ruby.
-*   [classifier-reborn (⭐541)](https://github.com/jekyll/classifier-reborn) -
+*   [classifier-reborn (⭐554)](https://github.com/jekyll/classifier-reborn) -
     General classifier module to allow Bayesian and other types of classifications. <sup>\[[dep: GLS](#gls)]</sup>
 
 ### Machine Learning Libraries / Neural networks
 
 *   [neural-net-ruby (⭐127)](https://github.com/gbuesing/neural-net-ruby) -
     Neural network written in Ruby.
-*   [ruby-fann (⭐465)](https://github.com/tangledpath/ruby-fann) -
+*   [ruby-fann (⭐498)](https://github.com/tangledpath/ruby-fann) -
     Ruby bindings to the [Fast Artificial Neural Network Library (FANN)](http://leenissen.dk/fann/wp/).
-*   [cerebrum (⭐35)](https://github.com/irfansharif/cerebrum) -
+*   [cerebrum (⭐36)](https://github.com/irfansharif/cerebrum) -
     Experimental implementation for Artificial Neural Networks in Ruby.
 *   [tlearn-rb (⭐96)](https://github.com/josephwilk/tlearn-rb) -
     Recurrent Neural Network library for Ruby.
@@ -131,16 +131,16 @@
 
 ### Machine Learning Libraries / Bayesian methods
 
-*   [linnaeus (⭐37)](https://github.com/djcp/linnaeus) -
+*   [linnaeus (⭐38)](https://github.com/djcp/linnaeus) -
     Redis-backed Bayesian classifier.
-*   [naive\_bayes (⭐47)](https://github.com/reddavis/Naive-Bayes) -
+*   [naive\_bayes (⭐49)](https://github.com/reddavis/Naive-Bayes) -
     Simple Naive Bayes classifier.
-*   [nbayes (⭐152)](https://github.com/oasic/nbayes) -
+*   [nbayes (⭐153)](https://github.com/oasic/nbayes) -
     Full-featured, Ruby implementation of Naive Bayes.
 
 ### Machine Learning Libraries / Linear classifiers
 
-*   [liblinear-ruby-swig (⭐82)](https://github.com/tomz/liblinear-ruby-swig) -
+*   [liblinear-ruby-swig (⭐83)](https://github.com/tomz/liblinear-ruby-swig) -
     Ruby interface to LIBLINEAR (much more efficient than LIBSVM for text classification).
 *   [liblinear-ruby (⭐83)](https://github.com/kei500/liblinear-ruby) -
     Ruby interface to LIBLINEAR using SWIG.

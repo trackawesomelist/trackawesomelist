@@ -10,13 +10,13 @@
 
 ### Utility / Docker Container Actions
 
-*   [GitHub Actions for Python project with pyenv (⭐18)](https://github.com/gabrielfalcao/pyenv-action)
+*   [GitHub Actions for Python project with pyenv (⭐39)](https://github.com/gabrielfalcao/pyenv-action)
 
 ## [2. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### Distributions / Zabbix
 
-*   [dbatools (⭐2.4k)](https://github.com/sqlcollaborative/dbatools) - PowerShell module that you may think of like a command-line SQL Server Management Studio.
+*   [dbatools (⭐2.5k)](https://github.com/sqlcollaborative/dbatools) - PowerShell module that you may think of like a command-line SQL Server Management Studio.
 
 ## [3. Awesome Programming for Kids](/content/HollyAdele/awesome-programming-for-kids/week/README.md)
 
@@ -33,20 +33,20 @@
 
 ### Plugins / Practices and Specific ES Features
 
-*   [no-restricted-syntax (⭐4)](https://github.com/brettz9/eslint-plugin-query) - Show queried syntax's content in messages.
-*   [sort-keys-fix (⭐95)](https://github.com/leo-buneev/eslint-plugin-sort-keys-fix) - Adds fixer for ESLint `sort-keys` rule.
+*   [no-restricted-syntax (⭐5)](https://github.com/brettz9/eslint-plugin-query) - Show queried syntax's content in messages.
+*   [sort-keys-fix (⭐97)](https://github.com/leo-buneev/eslint-plugin-sort-keys-fix) - Adds fixer for ESLint `sort-keys` rule.
 
 ### Plugins / Testing Tools
 
 *   Chai
     *   [expect practices (⭐27)](https://github.com/turbo87/eslint-plugin-chai-expect)
-    *   [with unused expressions (⭐51)](https://github.com/ihordiachenko/eslint-plugin-chai-friendly)
+    *   [with unused expressions (⭐53)](https://github.com/ihordiachenko/eslint-plugin-chai-friendly)
     *   [permitted keywords (⭐1)](https://github.com/gavinaiken/eslint-plugin-chai-expect-keywords)
     *   [with chai-as-promised plugin (⭐4)](https://github.com/fintechstudios/eslint-plugin-chai-as-promised)
     <!-- lint disable double-link -->
     *   [globals (⭐2)](https://github.com/t-huth/eslint-plugin-chai-assert-bdd)
 *   Mocha
-    *   [Enforcing practices (⭐276)](https://github.com/lo1tuma/eslint-plugin-mocha) - Linting rules for Mocha.
+    *   [Enforcing practices (⭐280)](https://github.com/lo1tuma/eslint-plugin-mocha) - Linting rules for Mocha.
     *   [Enforcing manageability (⭐13)](https://github.com/onechiporenko/eslint-plugin-mocha-cleanup/)
 *   [QUnit (⭐30)](https://github.com/platinumazure/eslint-plugin-qunit) - Linting rules for QUnit.
 
@@ -84,7 +84,7 @@
 
 ### Front-End Development
 
-*   [Material-UI (⭐216)](https://github.com/nadunindunil/awesome-material-ui#readme) - Material Design React components for faster and easier web development.
+*   [Material-UI (⭐234)](https://github.com/nadunindunil/awesome-material-ui#readme) - Material Design React components for faster and easier web development.
 
 ## [10. Awesome Ssh](/content/moul/awesome-ssh/week/README.md)
 
@@ -158,7 +158,7 @@
 
 ### General
 
-*   [Bootstrap Icons (⭐7.3k)](https://github.com/twbs/icons#readme) - SVG icons custom designed and built for Bootstrap components. ([Website](https://icons.getbootstrap.com/))
+*   [Bootstrap Icons (⭐7.4k)](https://github.com/twbs/icons#readme) - SVG icons custom designed and built for Bootstrap components. ([Website](https://icons.getbootstrap.com/))
 *   [Tabler Icons (⭐18k)](https://github.com/tabler/tabler-icons) - A set of over 3200 free MIT-licensed high-quality SVG icons for you to use in your web projects. ([Website](https://tabler-icons.io))
 
 ## [20. Awesome Deep Learning Resources](/content/guillaume-chevalier/Awesome-Deep-Learning-Resources/week/README.md)
@@ -171,7 +171,7 @@
 
 ### Security
 
-*   🍰 [Muffin/Obfuscate plugin (⭐36)](https://github.com/usemuffin/obfuscate) - Primary key obfuscation/shortening using UUIDs, HashIds, Optimus, Tiny and/or custom obfuscation strategies.
+*   [Muffin/Obfuscate plugin (⭐36)](https://github.com/usemuffin/obfuscate) - Primary key obfuscation/shortening using UUIDs, HashIds, Optimus, Tiny and/or custom obfuscation strategies.
 
 ## [22. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
@@ -201,7 +201,7 @@
 
 ### Validation / Runner
 
-*   [Funval (⭐366)](https://github.com/neuledge/funval) - Data validation using functions interfaces (support TypeScript).
+*   [Funval (⭐365)](https://github.com/neuledge/funval) - Data validation using functions interfaces (support TypeScript).
 
 ### Misc / Other
 
@@ -224,7 +224,7 @@
 
 ### FPS
 
-*   [BStone (⭐297)](https://github.com/bibendovsky/bstone) - A source port of Blake Stone: Aliens Of Gold and Blake Stone: Planet Strike.
+*   [BStone (⭐302)](https://github.com/bibendovsky/bstone) - A source port of Blake Stone: Aliens Of Gold and Blake Stone: Planet Strike.
 
 ## [28. Awesome Rtc](/content/rtckit/awesome-rtc/week/README.md)
 
@@ -252,7 +252,7 @@
 
 ### Table of Contents / Streaming Engine
 
-*   [LightSaber (⭐69)](https://github.com/lsds/LightSaber) \[C++] - Multi-core Window-Based Stream Processing Engine. LightSaber uses code generation for efficient window aggregation.
+*   [LightSaber (⭐70)](https://github.com/lsds/LightSaber) \[C++] - Multi-core Window-Based Stream Processing Engine. LightSaber uses code generation for efficient window aggregation.
 
 ## [31. Amas](/content/sindresorhus/amas/week/README.md)
 
@@ -269,7 +269,7 @@
 ### Cartridges / Misc
 
 *   [Introduction to Game Boy Hacking](http://pepijndevos.nl/sha2017/workshop.pdf) - Workshop introducing basic assembly, debugging and reverse engineering.
-*   [GBSOUND.txt (⭐49)](https://github.com/bwhitman/pushpin/blob/master/src/gbsound.txt) - A document detailing the Game Boy sound engine.
+*   [GBSOUND.txt (⭐52)](https://github.com/bwhitman/pushpin/blob/master/src/gbsound.txt) - A document detailing the Game Boy sound engine.
 *   [gbdev FAQs](http://www.devrs.com/gb/files/faqs.html) - Must read by Jeff Frohwein.
 *   [Game Boy Bootrom](http://www.neviksti.com/DMG/DMG_ROM.asm) - Commented dump of the DMG bootrom.
 *   [Differences between the Z80 and the gameboy's processor](http://www.z80.info/z80gboy.txt)
@@ -287,7 +287,7 @@
 
 ### Erlang
 
-*   [CLERIC (⭐33)](https://github.com/flambard/CLERIC) - a Common Lisp Erlang Interface. An implementation of the Erlang distribution protocol, comparable with erl\_interface and jinterface. [MIT](https://opensource.org/licenses/MIT).
+*   [CLERIC (⭐34)](https://github.com/flambard/CLERIC) - a Common Lisp Erlang Interface. An implementation of the Erlang distribution protocol, comparable with erl\_interface and jinterface. [MIT](https://opensource.org/licenses/MIT).
 
 ### Apps / Third-party APIs
 
@@ -309,26 +309,13 @@
 *   [Building an Imgur Clone with Vue.js and Serverless](https://tutorialedge.net/projects/building-imgur-clone-vuejs-nodejs/)
 *   [Building a HackerNews clone in Vue.js on AWS](https://tutorialedge.net/projects/hacker-news-clone-vuejs/)
 
-### Resources / Examples
-
-*   [TO (⭐5)](https://github.com/snturk/to) - A social media app that allows you post just texts.
-
 ### Resources / Blog Posts
 
 *   [Realtime chat App with Vue and Hasura ](https://dev.to/hasurahq/realtime-chat-app-with-vue-and-hasura-202h)
 
-### Projects Using Vue.js / Open Source
-
-*   [Nucleus (⭐353)](https://github.com/alirizaadiyahsi/Nucleus) - Vue startup application template that uses ASP.NET Core API layered architecture at the back-end and JWT based authentication
-*   [Mockup-server (⭐124)](https://github.com/joon610/mockup-server) - Mockup-server is easily create server from local directory.
-*   [Rapido](https://framagit.org/InfoLibre/rapido) - Rapido is software to make a website. Rapido is fast, easy to use and respectful of your privacy.
-
 ### Components & Libraries / Utilities
 
 *   [vue-stripe-checkout (⭐1.1k)](https://github.com/jofftiquez/vue-stripe-checkout) - A simple vue plugin for Stripe checkout.
-*   [vue-stripe-payment (⭐16)](https://github.com/samturrell/vue-stripe-payment) - Vue wrapper for jquery.payment by Stripe.
-*   [vue-paypal-checkout (⭐153)](https://github.com/khoanguyen96/vue-paypal-checkout) - A simple Vue.js wrapper component for paypal-checkout.
-*   [vue-plaid-link (⭐31)](https://github.com/roundupapp/vue-plaid-link) - Easy to use Vue component for Plaid Link.
 
 ## [35. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
@@ -411,7 +398,7 @@ Food: Vending Machine + Cafés and Diners + Convenience stores
 
 ### Software / Vector Utilities
 
-*   [vpype (⭐676)](https://github.com/abey79/vpype) - Plotter-focused Python-based CLI utility for generating and manipulating SVGs, including scaling and optimizing paths.
+*   [vpype (⭐713)](https://github.com/abey79/vpype) - Plotter-focused Python-based CLI utility for generating and manipulating SVGs, including scaling and optimizing paths.
 
 ### Software / Fonts
 
@@ -425,21 +412,21 @@ Food: Vending Machine + Cafés and Diners + Convenience stores
 
 ### Online Resources / Other Lists Online
 
-*   [Red Teaming (⭐6.7k)](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming) - List of Awesome Red Teaming Resources.
+*   [Red Teaming (⭐6.9k)](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming) - List of Awesome Red Teaming Resources.
 
 ### Social Engineering / Social Engineering Tools
 
-*   [Evilginx2 (⭐10k)](https://github.com/kgretzky/evilginx2) - Standalone Machine-in-the-Middle (MitM) reverse proxy attack framework for setting up phishing pages capable of defeating most forms of 2FA security schemes.
+*   [Evilginx2 (⭐11k)](https://github.com/kgretzky/evilginx2) - Standalone Machine-in-the-Middle (MitM) reverse proxy attack framework for setting up phishing pages capable of defeating most forms of 2FA security schemes.
 
 ## [40. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
 
 ### Utils
 
-*   [playwright-fluent (⭐165)](https://github.com/hdorgeval/playwright-fluent) - Fluent API Wrapper around Playwright.
+*   [playwright-fluent (⭐170)](https://github.com/hdorgeval/playwright-fluent) - Fluent API Wrapper around Playwright.
 
 ## [41. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
-### Discussion Groups and Mailing Lists
+### Community, SIGs, Discussion Forums and Mailing Lists
 
 *   [Keycloak Subreddit](https://www.reddit.com/r/keycloak)
 
@@ -455,11 +442,11 @@ Food: Vending Machine + Cafés and Diners + Convenience stores
 
 ### Python / Computer Vision
 
-*   [neural-dream (⭐132)](https://github.com/ProGamerGov/neural-dream) - A PyTorch implementation of DeepDream.
+*   [neural-dream (⭐133)](https://github.com/ProGamerGov/neural-dream) - A PyTorch implementation of DeepDream.
 
 ### Python / General-Purpose Machine Learning
 
-*   [Lightwood (⭐436)](https://github.com/mindsdb/lightwood) - A Pytorch based framework that breaks down machine learning problems into smaller blocks that can be glued together seamlessly with objective to build predictive models with one line of code.
+*   [Lightwood (⭐453)](https://github.com/mindsdb/lightwood) - A Pytorch based framework that breaks down machine learning problems into smaller blocks that can be glued together seamlessly with objective to build predictive models with one line of code.
 
 ## [43. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
@@ -487,7 +474,7 @@ Food: Vending Machine + Cafés and Diners + Convenience stores
 
 ### Form / Barcode
 
-*   [ObjectForm (⭐177)](https://github.com/haojianzong/ObjectForm) - A simple yet powerful library to build form for your class models.
+*   [ObjectForm (⭐178)](https://github.com/haojianzong/ObjectForm) - A simple yet powerful library to build form for your class models.
 
 ## [47. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 

@@ -28,35 +28,35 @@
 
 *   [FTL](https://chrome.google.com/webstore/detail/ftl/lkpekgkhmldknbcgjicjkomphkhhdkjj?hl=en-GB) - Browser plugin that finds emails of people's profiles in LinkedIn.
 
-### Blog Search / Telegram
+### Blog Search / Steam
 
 *   [Notey](http://www.notey.com) - Blog post search engine.
 
-### Phone Number Research / Telegram
+### Phone Number Research / Steam
 
 *   [Spy Dialer](http://spydialer.com/) - Get the voicemail of a cell phone & owner name lookup.
 
-### Domain and IP Research / Telegram
+### Domain and IP Research / Steam
 
 *   [Domain Tools](http://whois.domaintools.com) - Whois lookup and domain/ip historical data.
 *   [Exonera Tor](https://exonerator.torproject.org) - A database of IP addresses that have been part of the Tor network. It answers the question whether there was a Tor relay running on a given IP address on a given date.
 *   [IPVoid](http://www.ipvoid.com) - IP address toolset.
 
-### Web History and Website Capture / Telegram
+### Web History and Website Capture / Steam
 
 *   [Wayback Machine](http://archive.org/web/web.php) - Explore the history of a website.
 
-### Academic Resources and Grey Literature / Telegram
+### Academic Resources and Grey Literature / Steam
 
 *   [JSTOR](http://www.jstor.org) - Search over 10 million academic journal articles, books, and primary sources.
 
-### Other Tools / Telegram
+### Other Tools / Steam
 
 *   [Barcode Reader](http://online-barcode-reader.inliteresearch.com) - Decode barcodes in C#, VB, Java, C\C++, Delphi, PHP and other languages.
-*   [Intrigue Core (⭐1.3k)](https://github.com/intrigueio/intrigue-core) - Framework for attack surface discovery.
+*   [Intrigue Core (⭐1.4k)](https://github.com/intrigueio/intrigue-core) - Framework for attack surface discovery.
 *   [OpenRefine](https://github.com/OpenRefine) - Free & open source power tool for working with messy data and improving it.
 *   [OSINT Framework](http://osintframework.com/) - Web based framework for OSINT.
-*   [OsintStalker (⭐627)](https://github.com/milo2012/osintstalker) - Python script for Facebook and geolocation OSINT.
+*   [OsintStalker (⭐646)](https://github.com/milo2012/osintstalker) - Python script for Facebook and geolocation OSINT.
 *   [QuickCode](https://quickcode.io/) - Python and R data analysis environment.
 
 ## [2. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)

@@ -10,13 +10,13 @@
 
 ### Configuration / Infrastructure
 
-*   [php-pm (⭐6.5k)](https://github.com/php-pm/php-pm) - A process manager, supercharger and load balancer for PHP applications.
+*   [php-pm (⭐6.6k)](https://github.com/php-pm/php-pm) - A process manager, supercharger and load balancer for PHP applications.
 
 ## [2. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
 
 ### Tools / Administration
 
-*   [mongodb-tools (⭐296)](https://github.com/jwilder/mongodb-tools) - Three neat Python scripts to work with collections and indexes
+*   [mongodb-tools (⭐295)](https://github.com/jwilder/mongodb-tools) - Three neat Python scripts to work with collections and indexes
 
 ## [3. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 

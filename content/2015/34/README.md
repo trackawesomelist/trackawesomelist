@@ -12,41 +12,41 @@
 
 *   [speed-test (⭐3.9k)](https://github.com/sindresorhus/speed-test) - Test your internet connection speed and ping.
 *   [David (⭐967)](https://github.com/alanshaw/david) - Tells you when your package npm dependencies are out of date.
-*   [normit (⭐240)](https://github.com/pawurb/normit) - Google Translate with speech synthesis in your terminal.
+*   [normit (⭐241)](https://github.com/pawurb/normit) - Google Translate with speech synthesis in your terminal.
 
 ### Packages / Command-line utilities
 
 *   [log-update (⭐1.1k)](https://github.com/sindresorhus/log-update) - Log by overwriting the previous output in the terminal. Useful for rendering progress bars, animations, etc.
-*   [ansi-escapes (⭐482)](https://github.com/sindresorhus/ansi-escapes) - ANSI escape codes for manipulating the terminal.
-*   [log-symbols (⭐737)](https://github.com/sindresorhus/log-symbols) - Colored symbols for various log levels.
-*   [figures (⭐590)](https://github.com/sindresorhus/figures) - Unicode symbols with Windows CMD fallbacks.
-*   [string-width (⭐468)](https://github.com/sindresorhus/string-width) - Get the visual width of a string - the number of columns required to display it.
-*   [yn (⭐262)](https://github.com/sindresorhus/yn) - Parse yes/no like values.
-*   [cli-cursor (⭐102)](https://github.com/sindresorhus/cli-cursor) - Toggle the CLI cursor.
+*   [ansi-escapes (⭐498)](https://github.com/sindresorhus/ansi-escapes) - ANSI escape codes for manipulating the terminal.
+*   [log-symbols (⭐745)](https://github.com/sindresorhus/log-symbols) - Colored symbols for various log levels.
+*   [figures (⭐596)](https://github.com/sindresorhus/figures) - Unicode symbols with Windows CMD fallbacks.
+*   [string-width (⭐482)](https://github.com/sindresorhus/string-width) - Get the visual width of a string - the number of columns required to display it.
+*   [yn (⭐268)](https://github.com/sindresorhus/yn) - Parse yes/no like values.
+*   [cli-cursor (⭐105)](https://github.com/sindresorhus/cli-cursor) - Toggle the CLI cursor.
 
 ### Packages / Filesystem
 
-*   [filenamify (⭐483)](https://github.com/sindresorhus/filenamify) - Convert a string to a valid filename.
-*   [fs-extra (⭐9.4k)](https://github.com/jprichardson/node-fs-extra) - Extra methods for the `fs` module.
+*   [filenamify (⭐489)](https://github.com/sindresorhus/filenamify) - Convert a string to a valid filename.
+*   [fs-extra (⭐9.5k)](https://github.com/jprichardson/node-fs-extra) - Extra methods for the `fs` module.
 
 ### Packages / Streams
 
-*   [into-stream (⭐206)](https://github.com/sindresorhus/into-stream) - Convert a buffer/string/array/object into a stream.
-*   [byline (⭐323)](https://github.com/jahewson/node-byline) - Super-simple line-by-line Stream reader.
+*   [into-stream (⭐207)](https://github.com/sindresorhus/into-stream) - Convert a buffer/string/array/object into a stream.
+*   [byline (⭐325)](https://github.com/jahewson/node-byline) - Super-simple line-by-line Stream reader.
 *   [first-chunk-stream (⭐27)](https://github.com/sindresorhus/first-chunk-stream) - Transform the first chunk in a stream.
 *   [pad-stream (⭐11)](https://github.com/sindresorhus/pad-stream) - Pad each line in a stream.
 
 ### Packages / Text
 
-*   [string-length (⭐160)](https://github.com/sindresorhus/string-length) - Get the real length of a string - by correctly counting astral symbols and ignoring ansi escape codes.
+*   [string-length (⭐163)](https://github.com/sindresorhus/string-length) - Get the real length of a string - by correctly counting astral symbols and ignoring ansi escape codes.
 *   [splice-string (⭐23)](https://github.com/sindresorhus/splice-string) - Remove or replace part of a string like `Array#splice`.
 
 ### Packages / Number
 
-*   [random-int (⭐86)](https://github.com/sindresorhus/random-int) - Generate a random integer.
+*   [random-int (⭐87)](https://github.com/sindresorhus/random-int) - Generate a random integer.
 *   [random-float (⭐36)](https://github.com/sindresorhus/random-float) - Generate a random float.
 *   [unique-random (⭐116)](https://github.com/sindresorhus/unique-random) - Generate random numbers that are consecutively unique.
-*   [round-to (⭐156)](https://github.com/sindresorhus/round-to) - Round a number to a specific number of decimal places: `1.234` → `1.2`.
+*   [round-to (⭐155)](https://github.com/sindresorhus/round-to) - Round a number to a specific number of decimal places: `1.234` → `1.2`.
 
 ### Packages / Math
 
@@ -58,16 +58,16 @@
 
 ### Packages / Parsing
 
-*   [parse5 (⭐3.6k)](https://github.com/inikulin/parse5) - Fast full-featured spec compliant HTML parser.
-*   [strip-json-comments (⭐594)](https://github.com/sindresorhus/strip-json-comments) - Strip comments from JSON.
+*   [parse5 (⭐3.7k)](https://github.com/inikulin/parse5) - Fast full-featured spec compliant HTML parser.
+*   [strip-json-comments (⭐600)](https://github.com/sindresorhus/strip-json-comments) - Strip comments from JSON.
 *   [strip-css-comments (⭐121)](https://github.com/sindresorhus/strip-css-comments) - Strip comments from CSS.
-*   [neat-csv (⭐315)](https://github.com/sindresorhus/neat-csv) - Fast CSV parser. Callback interface for the above.
-*   [binary-extract (⭐153)](https://github.com/juliangruber/binary-extract) - Extract a value from a buffer of JSON without parsing the whole thing.
-*   [js-yaml (⭐6.2k)](https://github.com/nodeca/js-yaml) - Very fast YAML parser.
+*   [neat-csv (⭐321)](https://github.com/sindresorhus/neat-csv) - Fast CSV parser. Callback interface for the above.
+*   [binary-extract (⭐154)](https://github.com/juliangruber/binary-extract) - Extract a value from a buffer of JSON without parsing the whole thing.
+*   [js-yaml (⭐6.3k)](https://github.com/nodeca/js-yaml) - Very fast YAML parser.
 
 ### Packages / Compression
 
-*   [pako (⭐5.5k)](https://github.com/nodeca/pako) - High speed zlib port to pure js (deflate, inflate, gzip).
+*   [pako (⭐5.6k)](https://github.com/nodeca/pako) - High speed zlib port to pure js (deflate, inflate, gzip).
 
 ### Packages / Testing
 
@@ -79,11 +79,11 @@
 
 ### Packages / Miscellaneous
 
-*   [hasha (⭐952)](https://github.com/sindresorhus/hasha) - Hashing made simple. Get the hash of a buffer/string/stream/file.
-*   [dot-prop (⭐808)](https://github.com/sindresorhus/dot-prop) - Get a property from a nested object using a dot path.
-*   [onetime (⭐161)](https://github.com/sindresorhus/onetime) - Only run a function once.
-*   [os-locale (⭐223)](https://github.com/sindresorhus/os-locale) - Get the system locale.
-*   [file-type (⭐3.6k)](https://github.com/sindresorhus/file-type) - Detect the file type of a Buffer.
+*   [hasha (⭐959)](https://github.com/sindresorhus/hasha) - Hashing made simple. Get the hash of a buffer/string/stream/file.
+*   [dot-prop (⭐820)](https://github.com/sindresorhus/dot-prop) - Get a property from a nested object using a dot path.
+*   [onetime (⭐162)](https://github.com/sindresorhus/onetime) - Only run a function once.
+*   [os-locale (⭐225)](https://github.com/sindresorhus/os-locale) - Get the system locale.
+*   [file-type (⭐3.7k)](https://github.com/sindresorhus/file-type) - Detect the file type of a Buffer.
 
 ## [2. Rbooks](/content/RomanTsegelskyi/rbooks/week/README.md)
 
@@ -161,7 +161,7 @@ This book teaches the fundamental concepts and tools behind reporting modern dat
 ### Data Formats / Scala
 
 *   [RFC4627](https://tools.ietf.org/html/rfc4627) - JavaScript Object Notation (JSON).
-*   [MSGPACK (⭐6.9k)](https://github.com/msgpack/msgpack/blob/master/spec.md) - MessagePack Specification.
+*   [MSGPACK (⭐7.1k)](https://github.com/msgpack/msgpack/blob/master/spec.md) - MessagePack Specification.
 
 ### Sites & Organizations / Scala
 
@@ -246,7 +246,7 @@ This is a less efficient version of the FallbackResource directive (because usin
 
 ### Native Apps (open source)
 
-*   [OpenTripPlanner Android (⭐130)](https://github.com/CUTR-at-USF/OpenTripPlanner-for-Android/wiki) - An Android app for [OpenTripPlanner](http://www.opentripplanner.org/)
+*   [OpenTripPlanner Android (⭐129)](https://github.com/CUTR-at-USF/OpenTripPlanner-for-Android/wiki) - An Android app for [OpenTripPlanner](http://www.opentripplanner.org/)
 *   [OpenTripPlanner iOS (⭐68)](https://github.com/opentripplanner/OpenTripPlanner-iOS) - An iOS app for [OpenTripPlanner](http://www.opentripplanner.org/)
 
 ### Native Apps (closed source)
@@ -337,7 +337,7 @@ git add --all && git commit --amend --no-edit
 
 ### Editors
 
-*   [Alchemist-Server (⭐193)](https://github.com/tonini/alchemist-server) - Editor/IDE independent background server to inform about Elixir mix projects.
+*   [Alchemist-Server (⭐192)](https://github.com/tonini/alchemist-server) - Editor/IDE independent background server to inform about Elixir mix projects.
 *   [elixir\_generator (⭐9)](https://github.com/jadercorrea/elixir_generator.vim) - Vim plugin to generate Elixir module and test files with one command.
 
 ## [15. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
@@ -348,12 +348,12 @@ git add --all && git commit --amend --no-edit
 
 ### Templates / Misc
 
-*   [Mailchimp Email Blueprints (⭐6.9k)](https://github.com/mailchimp/Email-Blueprints) - Email Blueprints is a collection of HTML email templates that can serve as a solid foundation and starting point for the design of emails.
+*   [Mailchimp Email Blueprints (⭐7k)](https://github.com/mailchimp/Email-Blueprints) - Email Blueprints is a collection of HTML email templates that can serve as a solid foundation and starting point for the design of emails.
 *   [Campaign Monitor Templates](https://www.campaignmonitor.com/email-templates/) - Easily create beautiful, branded email marketing campaigns.
-*   [Responsive Transactional HTML Email Templates (⭐6.8k)](https://github.com/mailgun/transactional-email-templates) - Each template is responsive and each has been tested in all the popular email clients.
-*   [Cerberus (⭐4.8k)](https://github.com/TedGoas/Cerberus) - Few responsive email patterns.
+*   [Responsive Transactional HTML Email Templates (⭐6.9k)](https://github.com/mailgun/transactional-email-templates) - Each template is responsive and each has been tested in all the popular email clients.
+*   [Cerberus (⭐5k)](https://github.com/TedGoas/Cerberus) - Few responsive email patterns.
 *   [Antwort (⭐3.6k)](https://github.com/internations/antwort) - Antwort offers responsive layouts for Email that both fits and adapts to client widths.
-*   [Responsive HTML Template (⭐687)](https://github.com/charlesmudy/responsive-html-email-template) - This template is designed to work on all major email platforms and it is built with media query, making it responsive for smartphones that supports media query.
+*   [Responsive HTML Template (⭐691)](https://github.com/charlesmudy/responsive-html-email-template) - This template is designed to work on all major email platforms and it is built with media query, making it responsive for smartphones that supports media query.
 *   [Free Responsive template : Slate](https://litmus.com/resources/free-responsive-email-templates/) - Five pre-tested templates that work with any mailing service.
 *   [Lee Munroe's Grunt Email Design (⭐3k)](https://github.com/leemunroe/grunt-email-workflow) - A Grunt workflow for designing and testing responsive HTML email templates with SCSS.
 
@@ -363,7 +363,7 @@ git add --all && git commit --amend --no-edit
 
 ### Articles / Misc
 
-*   [Darylldoyle Gulp workflow (⭐166)](https://github.com/darylldoyle/Gulp-Email-Creator) - Gulp Email Creator is a gulp workflow inspired by Lee Munroe's grunt-email-design workflow.
+*   [Darylldoyle Gulp workflow (⭐167)](https://github.com/darylldoyle/Gulp-Email-Creator) - Gulp Email Creator is a gulp workflow inspired by Lee Munroe's grunt-email-design workflow.
 
 ### Resources / Misc
 
@@ -374,7 +374,7 @@ git add --all && git commit --amend --no-edit
 
 *   [Really good emails](http://reallygoodemails.com/) - The Best Email Designs in the Universe.
 *   [Milled](http://milled.com/)
-*   [The Top Email Campaigns](https://www.campaignmonitor.com/best-email-marketing-campaigns/) -The most effective email marketing campaigns from Campaign Monitor.
+*   [The Top Email Campaigns](https://www.campaignmonitor.com/best-email-marketing-campaigns/) - The most effective email marketing campaigns from Campaign Monitor.
 *   [Htmlemaildesigns](http://htmlemaildesigns.com/) - Beautiful emails to help inspire your next email design.
 
 ### Testing / Misc
@@ -400,26 +400,26 @@ git add --all && git commit --amend --no-edit
 ### Compilers, Transpilers and Languages
 
 *   [ClojureCLR (⭐1.6k)](https://github.com/clojure/clojure-clr) - A port of Clojure to the CLR, part of the Clojure project
-*   [Mono-basic (⭐108)](https://github.com/mono/mono-basic) - Visual Basic Compiler and Runtime
-*   [Netjs (⭐961)](https://github.com/praeclarum/Netjs) - .NET to TypeScript and JavaScript compiler. Portable Class Libraries work great for this. You can even pass EXEs.
+*   [Mono-basic (⭐109)](https://github.com/mono/mono-basic) - Visual Basic Compiler and Runtime
+*   [Netjs (⭐966)](https://github.com/praeclarum/Netjs) - .NET to TypeScript and JavaScript compiler. Portable Class Libraries work great for this. You can even pass EXEs.
 
 ### Testing
 
-*   [Machine.Specifications (⭐884)](https://github.com/machine/machine.specifications) - Machine.Specifications (MSpec) is a context/specification framework that removes language noise and simplifies tests.
-*   [Moq (⭐5.9k)](https://github.com/Moq/moq4) - The most popular and friendly mocking framework for .NET
-*   [NBuilder (⭐52)](https://github.com/garethdown44/nbuilder) - Rapid generation of test objects
-*   [Rhino Mocks (⭐257)](https://github.com/ayende/rhino-mocks) - Dynamic Mocking Framework for .NET
+*   [Machine.Specifications (⭐890)](https://github.com/machine/machine.specifications) - Machine.Specifications (MSpec) is a context/specification framework that removes language noise and simplifies tests.
+*   [Moq (⭐6k)](https://github.com/Moq/moq4) - The most popular and friendly mocking framework for .NET
+*   [NBuilder (⭐479)](https://github.com/garethdown44/nbuilder) - Rapid generation of test objects
+*   [Rhino Mocks (⭐256)](https://github.com/ayende/rhino-mocks) - Dynamic Mocking Framework for .NET
 
 ## [18. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Caching
 
-*   [Garner (⭐344)](https://github.com/artsy/garner) - A set of Rack middleware and cache helpers that implement various caching strategies.
+*   [Garner (⭐343)](https://github.com/artsy/garner) - A set of Rack middleware and cache helpers that implement various caching strategies.
 *   [Record Cache (⭐145)](https://github.com/orslumen/record-cache) - Cache Active Model Records in Rails 3.
 
 ### Core Extensions
 
-*   [Addressable (⭐1.5k)](https://github.com/sporkmonger/addressable) - Addressable is a replacement for the URI implementation that is part of Ruby's standard library. It more closely conforms to RFC 3986, RFC 3987, and RFC 6570 (level 4), providing support for IRIs and URI templates.
+*   [Addressable (⭐1.6k)](https://github.com/sporkmonger/addressable) - Addressable is a replacement for the URI implementation that is part of Ruby's standard library. It more closely conforms to RFC 3986, RFC 3987, and RFC 6570 (level 4), providing support for IRIs and URI templates.
 *   [Hamster (⭐1.9k)](https://github.com/hamstergem/hamster) - Efficient, immutable, and thread-safe collection classes for Ruby.
 
 ### Documentation
@@ -435,17 +435,17 @@ git add --all && git commit --amend --no-edit
 *   Data analysis/structures
     *   [daru (⭐1k)](https://github.com/v0dro/daru) - A library for storage, analysis, manipulation and visualization of data in pure Ruby.
     *   [Daru::View (⭐95)](https://github.com/SciRuby/daru-view) - A library for easy and interactive plotting on Jupyter Notebooks and web applications.
-    *   [Rgl (⭐415)](https://github.com/monora/rgl) - A framework for graph data structures and algorithms.
+    *   [Rgl (⭐416)](https://github.com/monora/rgl) - A framework for graph data structures and algorithms.
 
 ## [19. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Markup and CSS
 
-*   [HTML to Markdown (⭐1.7k)](https://github.com/thephpleague/html-to-markdown) - Converts HTML into Markdown.
+*   [HTML to Markdown (⭐1.8k)](https://github.com/thephpleague/html-to-markdown) - Converts HTML into Markdown.
 
 ### Table of Contents / Notifications
 
-*   [JoliNotif (⭐1.3k)](https://github.com/jolicode/JoliNotif) - A cross-platform library for desktop notification (support for Growl, notify-send, toaster, etc)
+*   [JoliNotif (⭐1.4k)](https://github.com/jolicode/JoliNotif) - A cross-platform library for desktop notification (support for Growl, notify-send, toaster, etc)
 
 ## [20. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
@@ -547,7 +547,7 @@ git add --all && git commit --amend --no-edit
 
 ### Testing
 
-*   [iTeML (⭐67)](https://github.com/vincent-hugot/iTeML) (formerly known as [qtest](http://batteries.vhugot.com/qtest/))  — supports inline pragma's to generate tests.
+*   [iTeML (⭐66)](https://github.com/vincent-hugot/iTeML) (formerly known as [qtest](http://batteries.vhugot.com/qtest/))  — supports inline pragma's to generate tests.
 *   [Pa\_test](https://ocaml.janestreet.com/ocaml-core/111.28.00/doc/pa_test) —  General inline testing macro's.
 
 ## [22. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
@@ -640,19 +640,19 @@ git add --all && git commit --amend --no-edit
 
 ### Frameworks
 
-*   [OpenFrameworks (⭐9.9k)](https://github.com/openframeworks/openFrameworks) - A cross platform open source toolkit for creative coding in C++. \[MIT] [website](http://www.openframeworks.cc/)
+*   [OpenFrameworks (⭐10k)](https://github.com/openframeworks/openFrameworks) - A cross platform open source toolkit for creative coding in C++. \[MIT] [website](http://www.openframeworks.cc/)
 
 ### Database
 
-*   [redis3m (⭐189)](https://github.com/luca3m/redis3m) - Wrapper of hiredis with clean C++ interface, supporting sentinel and ready to use patterns. \[Apache2]
+*   [redis3m (⭐188)](https://github.com/luca3m/redis3m) - Wrapper of hiredis with clean C++ interface, supporting sentinel and ready to use patterns. \[Apache2]
 
 ### Miscellaneous
 
-*   [semver.c (⭐185)](https://github.com/h2non/semver.c) - A semver parser and render in ANSI C. \[MIT]
+*   [semver.c (⭐186)](https://github.com/h2non/semver.c) - A semver parser and render in ANSI C. \[MIT]
 
 ### Articles
 
-*   [C++Now 2015 Presentations (⭐201)](https://github.com/boostcon/cppnow_presentations_2015) - Presentation materials presented at C++Now 2015.
+*   [C++Now 2015 Presentations (⭐202)](https://github.com/boostcon/cppnow_presentations_2015) - Presentation materials presented at C++Now 2015.
 
 ## [24. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 

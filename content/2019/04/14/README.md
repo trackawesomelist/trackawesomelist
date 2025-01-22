@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 14, 2019
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -22,13 +22,7 @@
 
 *   [nvm (⭐62k)](https://github.com/creationix/nvm) / [n (⭐17k)](https://github.com/tj/n) - Node version manager for macOS/Linux.
 
-## [3. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
-
-### Miscellaneous
-
-*   [icecream-cpp (⭐553)](https://github.com/renatoGarcia/icecream-cpp) - A small printing library for debugging purposes. \[MIT]
-
-## [4. Awesome Stacks](/content/stackshareio/awesome-stacks/README.md)
+## [3. Awesome Stacks](/content/stackshareio/awesome-stacks/README.md)
 
 ### Nuxt, TypeScript + Docker [↗](https://awesomestacks.dev/nuxt-type-script-docker) / Resources
 
@@ -36,19 +30,19 @@
 *   [stylelint](https://stylelint.io/) - [🛠️](https://stackshare.io/stylelint) - [🐙 (⭐11k)](https://github.com/stylelint/stylelint) - A mighty, modern linter that helps you avoid errors and enforce conventions in your styles.
 *   [wemake-vue-template (⭐732)](https://github.com/wemake-services/wemake-vue-template)
 
-## [5. Awesome Storybook](/content/lauthieb/awesome-storybook/README.md)
+## [4. Awesome Storybook](/content/lauthieb/awesome-storybook/README.md)
 
 ### Presentations
 
 *   [Storybook, le playground qu'il vous faut pour vos composants UI! (FR)](https://www.youtube.com/watch?v=zMpSwo03aKo)
 
-## [6. Awesome Cmake](/content/onqtam/awesome-cmake/README.md)
+## [5. Awesome Cmake](/content/onqtam/awesome-cmake/README.md)
 
 ### Examples / Templates
 
-*   [cpp-project (⭐496)](https://github.com/bsamseth/cpp-project) - Boiler plate for C++ projects - tests, CI, coverage, docs. [`[UNLICENSE]`](https://unlicense.org/)
+*   [cpp-project (⭐594)](https://github.com/bsamseth/cpp-project) - Boiler plate for C++ projects - tests, CI, coverage, docs. [`[UNLICENSE]`](https://unlicense.org/)
 
-## [7. Public Apis](/content/public-apis/public-apis/README.md)
+## [6. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Animals
 
@@ -66,23 +60,23 @@
 
 
 
-## [8. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
+## [7. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
 
 ### Awesome Repositories
 
-- Repository: [Hacker Roadmap (⭐13k)](https://github.com/sundowndev/hacker-roadmap)
+- Repository: [Hacker Roadmap (⭐14k)](https://github.com/sundowndev/hacker-roadmap)
 
   Description: A guide for amateur pen testers and a collection of hacking tools, resources and references to practice ethical hacking.
 
 
 
-## [9. Awesome Webaudio](/content/notthetup/awesome-webaudio/README.md)
+## [8. Awesome Webaudio](/content/notthetup/awesome-webaudio/README.md)
 
 ### Packages / Apps
 
 *   [BassoonTracker (⭐996)](https://github.com/steffest/BassoonTracker) - MOD/XM Tracker in Javascript.
 
-## [10. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
+## [9. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
 ### JavaScript / EmberJS
 

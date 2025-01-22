@@ -22,15 +22,15 @@
 
 ### Geolocation
 
-*   [geoip (⭐117)](https://github.com/navinpeiris/geoip) - Find geolocation for a given IP, hostname or `Plug.Conn`.
+*   [geoip (⭐120)](https://github.com/navinpeiris/geoip) - Find geolocation for a given IP, hostname or `Plug.Conn`.
 
 ### Images
 
-*   [thumbnex (⭐70)](https://github.com/talklittle/thumbnex) - Create thumbnails from images and video screenshots.
+*   [thumbnex (⭐73)](https://github.com/talklittle/thumbnex) - Create thumbnails from images and video screenshots.
 
 ### Natural Language Processing (NLP)
 
-*   [Paasaa (⭐114)](https://github.com/minibikini/paasaa) - Natural language detection for Elixir.
+*   [Paasaa (⭐116)](https://github.com/minibikini/paasaa) - Natural language detection for Elixir.
 
 ### ORM and Datamapping
 
@@ -42,11 +42,11 @@
 
 ### Templating
 
-*   [expug (⭐80)](https://github.com/rstacruz/expug) - Pug templates for Elixir.
+*   [expug (⭐82)](https://github.com/rstacruz/expug) - Pug templates for Elixir.
 
 ### Validations
 
-*   [exop (⭐214)](https://github.com/madeinussr/exop) - A library that allows to encapsulate business logic and validate params with predefined contract.
+*   [exop (⭐217)](https://github.com/madeinussr/exop) - A library that allows to encapsulate business logic and validate params with predefined contract.
 
 ## [4. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
@@ -84,7 +84,7 @@
 
 ### Libraries / Data Structures
 
-*   [imlazy (⭐102)](https://github.com/benji6/imlazy) – Library for creating and manipulating lazy iterables using the ES2015 iteration protocols.
+*   [imlazy (⭐103)](https://github.com/benji6/imlazy) – Library for creating and manipulating lazy iterables using the ES2015 iteration protocols.
 
 ---
 

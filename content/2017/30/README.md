@@ -31,21 +31,16 @@
 
 ### Websites
 
-*   Appcrawlr - <http://appcrawlr.com/>
 *   appPicker - <http://www.apppicker.com/>
 *   Appvita - <http://www.appvita.com/>
 *   Arctic Startup - <http://arcticstartup.com/>
-*   BetaList - <https://betalist.com/submit>
 *   BuiltInChicago - <http://www.builtinchicago.org/send-us-tip>
 *   Crunch Base - <https://www.crunchbase.com/#/home/index>
 *   Haro - <https://www.helpareporter.com/sources/>
-*   Index.co - <https://index.co/startup>
 *   Land-book - <https://land-book.com/guidelines>
 *   MakeUseOf - <http://www.makeuseof.com/about/>
 *   Netted - <https://www.netted.net/contact-us/>
-*   Paggu - <http://www.paggu.com/submit-your-startup/>
 *   PreApps - <http://www.preapps.com/>
-*   Programmable Web - <https://www.programmableweb.com/news/how-to-pitch-programmableweb-covering-your-news/2016/11/18>
 *   Show HN - <https://news.ycombinator.com/showhn.html>
 *   SimilarSiteSearch - <http://www.similarsitesearch.com/tips.html>
 *   Slant - <https://www.slant.co/>
@@ -56,9 +51,6 @@
 *   Tabscape - <https://www.tapscape.com/>
 *   Tech Pluto - <http://www.techpluto.com/submit-a-startup/>
 *   The iPhone Mom - <https://www.theiphonemom.com/>
-*   Top Alternatives - <https://topalternatives.com/>
-*   VB Profiles - <http://vbprofiles.com/>
-*   YouNoodle - <https://ww2.younoodle.com/startups/>
 
 ## [4. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
@@ -70,7 +62,7 @@
 
 ### Web / Playground
 
-*   :octocat: [Angular (⭐95k)](https://github.com/angular/angular) - Angular is a development platform for building mobile and desktop web applications
+*   :octocat: [Angular (⭐97k)](https://github.com/angular/angular) - Angular is a development platform for building mobile and desktop web applications
 
 ## [6. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
@@ -84,31 +76,31 @@
 
 ## [7. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
-### Tools and frameworks
+### Tools and frameworks (a-z↓)
 
-*   [Wraith (⭐4.8k)](https://github.com/BBC-News/wraith) - Easy to use ruby tool with docker support.
-*   [BackstopJS (⭐6.7k)](https://github.com/garris/BackstopJS) - Config-driven automated screenshot test framework.
-*   [Galen (⭐1.4k)](https://github.com/galenframework/galen) - Java framework based on [Selenium (⭐30k)](https://github.com/SeleniumHQ/selenium).
-*   [CSSCritic (⭐484)](https://github.com/cburgmer/csscritic) - Lightweight CSS regression testing.
-*   [Spectre (⭐458)](https://github.com/wearefriday/spectre) - Provides image comparison capabilities and an admin interface for managing screenshots.
-*   [Shoov (⭐38)](https://github.com/shoov/shoov) - UI regression and functional testing focused on Drupal 7 sites.
-*   [Hardy (⭐322)](https://github.com/thingsinjars/Hardy) - Selenium-driven, cucumber-powered CSS testing.
+*   [BackstopJS (⭐6.9k)](https://github.com/garris/BackstopJS) - Config-driven automated screenshot test framework.
+*   [CSSCritic (⭐487)](https://github.com/cburgmer/csscritic) - Lightweight CSS regression testing.
+*   [Galen (⭐1.4k)](https://github.com/galenframework/galen) - Java framework based on [Selenium (⭐31k)](https://github.com/SeleniumHQ/selenium).
+*   [grunt-photobox (⭐278)](https://github.com/stefanjudis/grunt-photobox) - Plugin to prevent your project of broken layout via screenshot photo sessions of your site.
+*   [Hardy (⭐323)](https://github.com/thingsinjars/Hardy) - Selenium-driven, cucumber-powered CSS testing.
+*   [Needle (⭐592)](https://github.com/python-needle/needle) - Needle is a tool for testing visuals with Selenium and nose (Python).
+*   [Shoov (⭐39)](https://github.com/shoov/shoov) - UI regression and functional testing focused on Drupal 7 sites.
+*   [Spectre (⭐461)](https://github.com/wearefriday/spectre) - Provides image comparison capabilities and an admin interface for managing screenshots.
 *   [TestCafe (⭐9.8k)](https://github.com/DevExpress/testcafe) - Automated browser testing for the modern web development stack.
-*   [Needle (⭐590)](https://github.com/python-needle/needle) - Needle is a tool for testing visuals with Selenium and nose (Python).
-*   [grunt-photobox (⭐276)](https://github.com/stefanjudis/grunt-photobox) - Plugin to prevent your project of broken layout via screenshot photo sessions of your site.
+*   [Wraith (⭐4.8k)](https://github.com/BBC-News/wraith) - Easy to use ruby tool with docker support.
 
-### Blog posts
+### Blog posts  (a-z↓)
 
-*   [Kevin Lamping: The 5 best visual regression testing tools](http://www.creativebloq.com/features/the-5-best-visual-regression-testing-tools) - Compares: Wraith, PhantomCSS, Gemini, WebdriverCSS and Spectre.
-*   [Garris Shipon: Visual Regression Testing For Angular Applications](https://davidwalsh.name/visual-regression-testing-angular-applications) -  Tutorial using BackstopJS.
 *   [Angela Riggs: Visual Regression Testing with BackstopJS](https://www.metaltoad.com/blog/visual-regression-testing-backstopjs) - Tutorial using BackstopJS.
 *   [Garris Shipon: Automating CSS Regression Testing](https://css-tricks.com/automating-css-regression-testing/) - Tutorial using BackstopJS.
+*   [Garris Shipon: Visual Regression Testing For Angular Applications](https://davidwalsh.name/visual-regression-testing-angular-applications) -  Tutorial using BackstopJS.
+*   [Kevin Lamping: The 5 best visual regression testing tools](http://www.creativebloq.com/features/the-5-best-visual-regression-testing-tools) - Compares: Wraith, PhantomCSS, Gemini, WebdriverCSS and Spectre.
 
-### Deprecated
+### Deprecated  (a-z↓)
 
-*   [trifleJS (⭐826)](https://github.com/sdesalas/trifleJS) - Headless automation for Internet Explorer. (last update 2016)
 *   [CasperJS (⭐7.2k)](https://github.com/casperjs/casperjs) - Navigation scripting and testing utility for PhantomJS and SlimerJS. (archived 2018)
-*   [Navalia (⭐957)](https://github.com/joelgriffith/navalia) - Browser Automation based on headless Chrome and GraphQL. (archived 2018)
+*   [Navalia (⭐962)](https://github.com/joelgriffith/navalia) - Browser Automation based on headless Chrome and GraphQL. (archived 2018)
+*   [trifleJS (⭐825)](https://github.com/sdesalas/trifleJS) - Headless automation for Internet Explorer. (last update 2016)
 
 ## [8. Awesome Hbase](/content/rayokota/awesome-hbase/week/README.md)
 
@@ -204,7 +196,7 @@
 
 ### Libraries
 
-*   [zen-signals (⭐51)](https://github.com/joaomilho/zen-signals) – ☯ The simplest signal library possible
+*   [zen-signals (⭐53)](https://github.com/joaomilho/zen-signals) – ☯ The simplest signal library possible
 
 ### Functional Languages that Compile to JavaScript / Lenses
 
@@ -405,7 +397,7 @@
 
 ### Icons / Icons Packages and Collections
 
-*   [Simple Icons (⭐19k)](https://github.com/simple-icons/simple-icons) - [:copyright:](http://artlibre.org/licence/lal/en/) SVG icons for popular brands.
+*   [Simple Icons (⭐22k)](https://github.com/simple-icons/simple-icons) - [:copyright:](http://artlibre.org/licence/lal/en/) SVG icons for popular brands.
 
 ## [19. Amas](/content/sindresorhus/amas/week/README.md)
 
@@ -427,8 +419,8 @@
 
 ### Miscellaneous
 
-*   [stdman (⭐935)](https://github.com/jeaye/stdman) - A tool that parses archived HTML files from [cppreference](https://cppreference.com) and generates groff-formatted manual pages for Unix-based systems. \[MIT]
-*   [value-category-cheatsheet (⭐403)](https://github.com/jeaye/value-category-cheatsheet) A PDF cheatsheet for lvalues, rvalues, and the like. \[Jank copyleft]
+*   [stdman (⭐943)](https://github.com/jeaye/stdman) - A tool that parses archived HTML files from [cppreference](https://cppreference.com) and generates groff-formatted manual pages for Unix-based systems. \[MIT]
+*   [value-category-cheatsheet (⭐405)](https://github.com/jeaye/value-category-cheatsheet) A PDF cheatsheet for lvalues, rvalues, and the like. \[Jank copyleft]
 
 ## [22. Awesome ad Free](/content/johnjago/awesome-ad-free/week/README.md)
 
@@ -530,7 +522,7 @@
 
 *   [graphql-batch (⭐1.4k)](https://github.com/Shopify/graphql-batch) – A query batching executor.
 *   [graphql-client](https://github.com/github/graphql-client) - A library for declaring, composing and executing GraphQL queries.
-*   [graphql-guard (⭐471)](https://github.com/exAspArk/graphql-guard) - A simple field-level authorization.
+*   [graphql-guard (⭐472)](https://github.com/exAspArk/graphql-guard) - A simple field-level authorization.
 *   [graphql-ruby (⭐5.4k)](https://github.com/rmosolgo/graphql-ruby) - Ruby implementation of GraphQL.
 
 ## [31. Awesome Lua](/content/LewisJEllis/awesome-lua/week/README.md)
@@ -609,7 +601,7 @@
 
 ### CMS
 
-*   [mojoPortal  (⭐197)](https://github.com/i7media/mojoportal) - MojoPortal is an extensible, cross database, mobile friendly, web content management system (CMS) and web application framework written in C# ASP.NET
+*   [mojoPortal  (⭐203)](https://github.com/i7media/mojoportal) - MojoPortal is an extensible, cross database, mobile friendly, web content management system (CMS) and web application framework written in C# ASP.NET
 
 ### Code Analysis and Metrics
 
@@ -621,22 +613,22 @@
 
 ### Image Processing
 
-*   [Magick.NET (⭐3.4k)](https://github.com/dlemstra/Magick.NET) - .NET wrapper for the ImageMagick library.
+*   [Magick.NET (⭐3.5k)](https://github.com/dlemstra/Magick.NET) - .NET wrapper for the ImageMagick library.
 
 ### JavaScript Engines
 
-*   [ClearScript (⭐1.7k)](https://github.com/Microsoft/ClearScript) - A library that makes it easy to add scripting to your .NET applications. It currently supports JavaScript (via V8 and JScript) and VBScript.
+*   [ClearScript (⭐1.8k)](https://github.com/Microsoft/ClearScript) - A library that makes it easy to add scripting to your .NET applications. It currently supports JavaScript (via V8 and JScript) and VBScript.
 
 ### Logging
 
-*   [Essential Diagnostics (⭐67)](https://github.com/sgryphon/essential-diagnostics) - Extends the inbuilt features of System.Diagnostics namespace to provide flexible logging
-*   [Semantic Logging Application Block (SLAB) (⭐217)](https://github.com/MicrosoftArchive/semantic-logging) - Extends the inbuilt features of System.Diagnostics.Tracing namespace (EventSource class) to log to several sinks including Azure Tables, Databases, files (JSON, XML, text). Supports in-process and out-of-process logging through ETW, and Rx for real-time filtering/aggregating of events.
+*   [Essential Diagnostics (⭐69)](https://github.com/sgryphon/essential-diagnostics) - Extends the inbuilt features of System.Diagnostics namespace to provide flexible logging
+*   [Semantic Logging Application Block (SLAB) (⭐218)](https://github.com/MicrosoftArchive/semantic-logging) - Extends the inbuilt features of System.Diagnostics.Tracing namespace (EventSource class) to log to several sinks including Azure Tables, Databases, files (JSON, XML, text). Supports in-process and out-of-process logging through ETW, and Rx for real-time filtering/aggregating of events.
 
 ## [33. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
 
 ### Awesome Repositories
 
-- Repository: [Vulnerability Research (⭐1.1k)](https://github.com/re-pronin/awesome-vulnerability-research)
+- Repository: [Vulnerability Research (⭐1.2k)](https://github.com/re-pronin/awesome-vulnerability-research)
 
   Description: List of resources about Vulnerability Research
 
@@ -738,7 +730,7 @@
 
 ### Markdown / Third-party APIs
 
-*   [3bmd (⭐81)](https://github.com/3b/3bmd) - a markdown -> html converter. [MIT](https://opensource.org/licenses/MIT).
+*   [3bmd (⭐82)](https://github.com/3b/3bmd) - a markdown -> html converter. [MIT](https://opensource.org/licenses/MIT).
 
 ## [38. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
@@ -790,8 +782,8 @@
 
 ### Animation
 
-*   [ChainPageCollectionView (⭐786)](https://github.com/jindulys/ChainPageCollectionView) - Fancy two-level collection view layout and animation.
-*   [Gemini (⭐3.2k)](https://github.com/shoheiyokoyama/Gemini) - Gemini is rich scroll based animation framework.
+*   [ChainPageCollectionView (⭐788)](https://github.com/jindulys/ChainPageCollectionView) - Fancy two-level collection view layout and animation.
+*   [Gemini (⭐3.3k)](https://github.com/shoheiyokoyama/Gemini) - Gemini is rich scroll based animation framework.
 
 ### Network / Barcode
 
@@ -826,10 +818,6 @@
 ### Resources / Tutorials
 
 *   [Using Typescript in your VueJS app](https://medium.com/coding-blocks/using-typescript-in-your-vue-app-c4aba0bbc8bc)
-
-### Components & Libraries / UI Components
-
-*   [vue-jalaali-datepicker (⭐12)](https://github.com/pepour/vue-jalaali-datepicker) - Jalaali calendar and datepicker for vue.js 2.
 
 ## [46. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 

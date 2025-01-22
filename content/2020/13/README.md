@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 30 - Apr 05, 2020
 
-50 awesome lists updated this week.
+49 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -53,13 +53,7 @@
 
 *   [struct (⭐119)](https://github.com/funcool/struct)
 
-## [8. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
-
-### Software / Miscellaneous
-
-*   [MailyGo](https://codeberg.org/jlelse/MailyGo) - MailyGo is a small tool written in Go that allows to send HTML forms, for example from static websites without a dynamic backend, via email. `MIT` `Go`
-
-## [9. Awesome Saltstack](/content/hbokh/awesome-saltstack/week/README.md)
+## [8. Awesome Saltstack](/content/hbokh/awesome-saltstack/week/README.md)
 
 ### Videos
 
@@ -72,17 +66,17 @@
 *   [Automated Provisioning of DigitalOcean Cloud Servers with Salt Cloud on Ubuntu 12.04](https://www.digitalocean.com/community/tutorials/automated-provisioning-of-digitalocean-cloud-servers-with-salt-cloud-on-ubuntu-12-04) - Walkthrough on automated provisioning of DigitalOcean Cloud Servers with Salt Cloud on Ubuntu 12.04.
 *   [How To Install and Configure Salt Master and Minion Servers on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-salt-master-and-minion-servers-on-ubuntu-14-04) - SaltStack installation walkthrough for Ubuntu 14.04.
 
-## [10. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
+## [9. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
 
 ### Awesome Repositories
 
-- Repository: [Embedded and IoT Security (⭐1.7k)](https://github.com/fkie-cad/awesome-embedded-and-iot-security)
+- Repository: [Embedded and IoT Security (⭐1.9k)](https://github.com/fkie-cad/awesome-embedded-and-iot-security)
 
   Description: A curated list of awesome resources about embedded and IoT security
 
 
 
-## [11. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [10. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Natural Language Processing
 
@@ -97,17 +91,27 @@
     *   [spacy](https://spacy.io/) - A library for industrial-strength natural language processing in Python and Cython.
     *   [Stanza (⭐7.1k)](https://github.com/stanfordnlp/stanza) - The Stanford NLP Group's official Python library, supporting 60+ languages.
 
-## [12. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
+## [11. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
 
 ### Resources
 
-*   [Tutorial (⭐23)](https://github.com/schweitzer/modern-cmake-tutorial) - Tutorial and Example on How to Properly Use Modern CMake.
+*   [Tutorial (⭐33)](https://github.com/schweitzer/modern-cmake-tutorial) - Tutorial and Example on How to Properly Use Modern CMake.
 
-## [13. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
+## [12. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
 ### Tools
 
-*   [iprfc (⭐3)](https://github.com/RTradeLtd/iprfc) - IETF RFC downloader which stores RFCs on IPFS and indexes them with RTradeLtd/Lens.
+*   [iprfc (⭐4)](https://github.com/RTradeLtd/iprfc) - IETF RFC downloader which stores RFCs on IPFS and indexes them with RTradeLtd/Lens.
+
+## [13. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+
+### Resources / Books
+
+*   [Vue.js](https://www.amazon.com/Vue-js-Actionable-Chris-Minnick/dp/1951959019) by Chris Minnick and Nat Dunn, Webucator (February, 2020)
+
+### Projects Using Vue.js / Open Source
+
+*   [LeagueStats (⭐435)](https://github.com/vkaelin/LeagueStats) - Statistics website for players of the online game League of Legends.
 
 ## [14. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
@@ -129,34 +133,33 @@
 
 ### Miscellaneous
 
-*   [Web Archiving (⭐1.9k)](https://github.com/iipc/awesome-web-archiving#readme) - An effort to preserve the Web for future generations.
+*   [Web Archiving (⭐2.1k)](https://github.com/iipc/awesome-web-archiving#readme) - An effort to preserve the Web for future generations.
 
 ## [17. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
 
 ### Tools & Software / Acquisition
 
-*   [archivenow (⭐391)](https://github.com/oduwsdl/archivenow) - A [Python library](http://ws-dl.blogspot.com/2017/02/2017-02-22-archive-now-archivenow.html) to push web resources into on-demand web archives. *(Stable)*
-*   [Chronicler (⭐82)](https://github.com/CGamesPlay/chronicler) - Web browser with record and replay functionality. *(In Development)*
+*   [archivenow (⭐412)](https://github.com/oduwsdl/archivenow) - A [Python library](http://ws-dl.blogspot.com/2017/02/2017-02-22-archive-now-archivenow.html) to push web resources into on-demand web archives. *(Stable)*
+*   [Chronicler (⭐85)](https://github.com/CGamesPlay/chronicler) - Web browser with record and replay functionality. *(In Development)*
 *   [Crawl](https://git.autistici.org/ale/crawl) - A simple web crawler in Golang. *(Stable)*
-*   [crocoite (⭐42)](https://github.com/promyloph/crocoite) - Crawl websites using headless Google Chrome/Chromium and save resources, static DOM snapshot and page screenshots to WARC files. *(In Development)*
-*   [F(b)arc (⭐78)](https://github.com/justinlittman/fbarc) - A commandline tool and Python library for archiving data from [Facebook](https://www.facebook.com/) using the [Graph API](https://developers.facebook.com/docs/graph-api). *(Stable)*
-*   [freeze-dry (⭐265)](https://github.com/WebMemex/freeze-dry) - JavaScript library to turn page into static, self-contained HTML document; useful for browser extensions. *(In Development)*
-*   [grab-site (⭐1.3k)](https://github.com/ArchiveTeam/grab-site) - The archivist's web crawler: WARC output, dashboard for all crawls, dynamic ignore patterns. *(Stable)*
-*   [html2warc (⭐15)](https://github.com/steffenfritz/html2warc) - A simple script to convert offline data into a single WARC file. *(Stable)*
+*   [crocoite (⭐44)](https://github.com/promyloph/crocoite) - Crawl websites using headless Google Chrome/Chromium and save resources, static DOM snapshot and page screenshots to WARC files. *(In Development)*
+*   [F(b)arc (⭐77)](https://github.com/justinlittman/fbarc) - A commandline tool and Python library for archiving data from [Facebook](https://www.facebook.com/) using the [Graph API](https://developers.facebook.com/docs/graph-api). *(Stable)*
+*   [freeze-dry (⭐292)](https://github.com/WebMemex/freeze-dry) - JavaScript library to turn page into static, self-contained HTML document; useful for browser extensions. *(In Development)*
+*   [grab-site (⭐1.4k)](https://github.com/ArchiveTeam/grab-site) - The archivist's web crawler: WARC output, dashboard for all crawls, dynamic ignore patterns. *(Stable)*
+*   [html2warc (⭐19)](https://github.com/steffenfritz/html2warc) - A simple script to convert offline data into a single WARC file. *(Stable)*
 *   [HTTrack](http://www.httrack.com/) - An open source website copying utility. *(Stable)*
-*   [monolith (⭐9.9k)](https://github.com/Y2Z/monolith) - CLI tool to save a web page as a single HTML file. *(Stable)*
-*   [SingleFile (⭐14k)](https://github.com/gildas-lormeau/SingleFile) - Browser extension for Firefox/Chrome and CLI tool to save a faithful copy of a complete page as a single HTML file. *(Stable)*
-*   [SiteStory](http://mementoweb.github.com/SiteStory/) - A transactional archive that selectively captures and stores transactions that take place between a web client (browser) and a web server. *(Stable)*
+*   [monolith (⭐12k)](https://github.com/Y2Z/monolith) - CLI tool to save a web page as a single HTML file. *(Stable)*
+*   [SingleFile (⭐17k)](https://github.com/gildas-lormeau/SingleFile) - Browser extension for Firefox/Chrome and CLI tool to save a faithful copy of a complete page as a single HTML file. *(Stable)*
 *   [Social Feed Manager](https://gwu-libraries.github.io/sfm-ui/) - Open source software that enables users to create social media collections from Twitter, Tumblr, Flickr, and Sina Weibo public APIs. *(Stable)*
-*   [Squidwarc (⭐164)](https://github.com/N0taN3rd/Squidwarc) - An [open source, high-fidelity, page interacting](http://ws-dl.blogspot.com/2017/07/2017-07-24-replacing-heritrix-with.html) archival crawler that uses Chrome or Chrome Headless directly. *(In Development)*
+*   [Squidwarc (⭐171)](https://github.com/N0taN3rd/Squidwarc) - An [open source, high-fidelity, page interacting](http://ws-dl.blogspot.com/2017/07/2017-07-24-replacing-heritrix-with.html) archival crawler that uses Chrome or Chrome Headless directly. *(In Development)*
 *   [StormCrawler](http://stormcrawler.net/) - A collection of resources for building low-latency, scalable web crawlers on Apache Storm. *(Stable)*
 *   [twarc (⭐1.4k)](https://github.com/docnow/twarc) - A command line tool and Python library for archiving Twitter JSON data. *(Stable)*
 *   [WARCreate](http://matkelly.com/warcreate/) - A [Google Chrome](https://www.google.com/intl/en/chrome/browser/) extension for archiving an individual webpage or website to a WARC file. *(Stable)*
-*   [Warcworker (⭐53)](https://github.com/peterk/warcworker) - An open source, dockerized, queued, high fidelity web archiver based on Squidwarc with a simple web GUI. *(Stable)*
-*   [Web2Warc (⭐24)](https://github.com/helgeho/Web2Warc) - An easy-to-use and highly customizable crawler that enables anyone to create their own little Web archives (WARC/CDX). *(Stable)*
+*   [Warcworker (⭐56)](https://github.com/peterk/warcworker) - An open source, dockerized, queued, high fidelity web archiver based on Squidwarc with a simple web GUI. *(Stable)*
+*   [Web2Warc (⭐25)](https://github.com/helgeho/Web2Warc) - An easy-to-use and highly customizable crawler that enables anyone to create their own little Web archives (WARC/CDX). *(Stable)*
 *   [Wget](http://www.gnu.org/software/wget/) - An open source file retrieval utility that of [version 1.14 supports writing warcs](http://www.archiveteam.org/index.php?title=Wget_with_WARC_output). *(Stable)*
-*   [Wget-lua (⭐22)](https://github.com/alard/wget-lua) - Wget with Lua extension. *(Stable)*
-*   [Wpull (⭐532)](https://github.com/chfoo/wpull) - A Wget-compatible (or remake/clone/replacement/alternative) web downloader and crawler. *(Stable)*
+*   [Wget-lua (⭐23)](https://github.com/alard/wget-lua) - Wget with Lua extension. *(Stable)*
+*   [Wpull (⭐563)](https://github.com/chfoo/wpull) - A Wget-compatible (or remake/clone/replacement/alternative) web downloader and crawler. *(Stable)*
 
 ### Tools & Software / Search & Discovery
 
@@ -165,27 +168,27 @@
 
 ### Tools & Software / Utilities
 
-*   [MementoMap (⭐9)](https://github.com/oduwsdl/MementoMap) - A Tool to Summarize Web Archive Holdings (Python). *(In Development)*
-*   [MemGator (⭐51)](https://github.com/oduwsdl/MemGator) - A Memento Aggregator CLI and Server (Golang). *(Stable)*
+*   [MementoMap (⭐10)](https://github.com/oduwsdl/MementoMap) - A Tool to Summarize Web Archive Holdings (Python). *(In Development)*
+*   [MemGator (⭐61)](https://github.com/oduwsdl/MemGator) - A Memento Aggregator CLI and Server (Golang). *(Stable)*
 *   [node-cdxj (⭐0)](https://github.com/N0taN3rd/node-cdxj) - [CDXJ (⭐15)](https://github.com/oduwsdl/ORS/wiki/CDXJ) file parser (Node.js). *(Stable)*
-*   [OutbackCDX (⭐28)](https://github.com/nla/outbackcdx) - RocksDB-based capture index (CDX) server supporting incremental updates and compression. Can be used as backend for OpenWayback, PyWb and [Heritrix (⭐9)](https://github.com/ukwa/ukwa-heritrix/blob/master/src/main/java/uk/bl/wap/modules/uriuniqfilters/OutbackCDXRecentlySeenUriUniqFilter.java). *(Stable)*
-*   [py-wasapi-client (⭐12)](https://github.com/unt-libraries/py-wasapi-client) - Command line application to download crawls from WASAPI (Python). *(Stable)*
-*   [tikalinkextract (⭐8)](https://github.com/httpreserve/tikalinkextract) - Extract hyperlinks as a seed for web archiving from folders of document types that can be parsed by Apache Tika (Golang, Apache Tika Server). *(In Development)*
+*   [OutbackCDX (⭐34)](https://github.com/nla/outbackcdx) - RocksDB-based capture index (CDX) server supporting incremental updates and compression. Can be used as backend for OpenWayback, PyWb and [Heritrix (⭐11)](https://github.com/ukwa/ukwa-heritrix/blob/master/src/main/java/uk/bl/wap/modules/uriuniqfilters/OutbackCDXRecentlySeenUriUniqFilter.java). *(Stable)*
+*   [py-wasapi-client (⭐15)](https://github.com/unt-libraries/py-wasapi-client) - Command line application to download crawls from WASAPI (Python). *(Stable)*
+*   [tikalinkextract (⭐10)](https://github.com/httpreserve/tikalinkextract) - Extract hyperlinks as a seed for web archiving from folders of document types that can be parsed by Apache Tika (Golang, Apache Tika Server). *(In Development)*
 *   [wasapi-downloader (⭐6)](https://github.com/sul-dlss/wasapi-downloader) - Java command line application to download crawls from WASAPI. *(Stable)*
 *   [WarcPartitioner (⭐1)](https://github.com/helgeho/WarcPartitioner) - Partition (W)ARC Files by MIME Type and Year. *(Stable)*
-*   [wikiteam (⭐687)](https://github.com/WikiTeam/wikiteam) - Tools for downloading and preserving wikis. *(Stable)*
+*   [wikiteam (⭐741)](https://github.com/WikiTeam/wikiteam) - Tools for downloading and preserving wikis. *(Stable)*
 
 ### Tools & Software / WARC I/O Libraries
 
 *   [HadoopConcatGz (⭐9)](https://github.com/helgeho/HadoopConcatGz) - A Splitable Hadoop InputFormat for Concatenated GZIP Files (and `*.warc.gz`). *(Stable)*
-*   [node-warc (⭐91)](https://github.com/N0taN3rd/node-warc) - Parse WARC files or create WARC files using either [Electron](https://electron.atom.io/) or [chrome-remote-interface (⭐4.2k)](https://github.com/cyrus-and/chrome-remote-interface) (Node.js). *(Stable)*
-*   [Warcat (⭐135)](https://github.com/chfoo/warcat) - Tool and library for handling Web ARChive (WARC) files (Python). *(Stable)*
+*   [node-warc (⭐95)](https://github.com/N0taN3rd/node-warc) - Parse WARC files or create WARC files using either [Electron](https://electron.atom.io/) or [chrome-remote-interface (⭐4.3k)](https://github.com/cyrus-and/chrome-remote-interface) (Node.js). *(Stable)*
+*   [Warcat (⭐154)](https://github.com/chfoo/warcat) - Tool and library for handling Web ARChive (WARC) files (Python). *(Stable)*
 
 ### Tools & Software / Analysis
 
-*   [ArchiveSpark (⭐140)](https://github.com/helgeho/ArchiveSpark) - An Apache Spark framework (not only) for Web Archives that enables easy data processing, extraction as well as derivation. *(Stable)*
-*   [Archives Unleashed Notebooks (⭐21)](https://github.com/archivesunleashed/notebooks) - Notebooks for working with web archives with the Archives Unleashed Toolkit, and derivatives generated by the Archives Unleashed Toolkit. *(Stable)*
-*   [Archives Unleashed Toolkit (⭐131)](https://github.com/archivesunleashed/aut) - Archives Unleashed Toolkit (AUT) is an open-source platform for analyzing web archives with Apache Spark. *(Stable)*
+*   [ArchiveSpark (⭐148)](https://github.com/helgeho/ArchiveSpark) - An Apache Spark framework (not only) for Web Archives that enables easy data processing, extraction as well as derivation. *(Stable)*
+*   [Archives Unleashed Notebooks (⭐24)](https://github.com/archivesunleashed/notebooks) - Notebooks for working with web archives with the Archives Unleashed Toolkit, and derivatives generated by the Archives Unleashed Toolkit. *(Stable)*
+*   [Archives Unleashed Toolkit (⭐140)](https://github.com/archivesunleashed/aut) - Archives Unleashed Toolkit (AUT) is an open-source platform for analyzing web archives with Apache Spark. *(Stable)*
 *   [Tweet Archvies Unleashed Toolkit (⭐9)](https://github.com/archivesunleashed/twut) - An open-source toolkit for analyzing line-oriented JSON Twitter archives with Apache Spark. *(In Development)*
 
 ## [18. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
@@ -226,27 +229,27 @@
 
 ### Utility / Docker Container Actions
 
-*   [Has Changed Path (⭐180)](https://github.com/MarceloPrado/has-changed-path) - Conditionally run actions based on changed paths.
+*   [Has Changed Path (⭐220)](https://github.com/MarceloPrado/has-changed-path) - Conditionally run actions based on changed paths.
 
 ### Static Analysis / Linting
 
-*   [PHP Coding Standards Fixer Action (⭐153)](https://github.com/OskarStark/php-cs-fixer-ga)
+*   [PHP Coding Standards Fixer Action (⭐183)](https://github.com/OskarStark/php-cs-fixer-ga)
 
 ### Frontend Tools / Terraform
 
-*   [Setup Mint (⭐9)](https://github.com/fabasoad/setup-mint-action) - Setup Mint (programming language for writing single page applications).
+*   [Setup Mint (⭐11)](https://github.com/fabasoad/setup-mint-action) - Setup Mint (programming language for writing single page applications).
 
 ## [20. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
 
 ### Platformer
 
-*   [Omnispeak (⭐289)](https://github.com/sulix/omnispeak) - Reimplementation of Commander Keen in Goodbye Galaxy.
+*   [Omnispeak (⭐296)](https://github.com/sulix/omnispeak) - Reimplementation of Commander Keen in Goodbye Galaxy.
 
 ## [21. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Experimental / Redux / ELM / Dependency Injection
 
-*   [styled\_widget (⭐1.2k)](https://github.com/ReinBentdal/styled_widget) <!--stargazers:ReinBentdal/styled_widget--> - Simplifying your widget tree structure by defining widgets using methods by [Rein Gundersen Bentdal](https://github.com/ReinBentdal).
+*   [styled\_widget (⭐1.3k)](https://github.com/ReinBentdal/styled_widget) <!--stargazers:ReinBentdal/styled_widget--> - Simplifying your widget tree structure by defining widgets using methods by [Rein Gundersen Bentdal](https://github.com/ReinBentdal).
 
 ## [22. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
 
@@ -258,7 +261,7 @@
 
 ### Plugins
 
-*   [tmux-thumbs (⭐885)](https://github.com/fcsonline/tmux-thumbs) A lightning fast version of tmux-fingers written in Rust, copy/pasting tmux like vimium/vimperator
+*   [tmux-thumbs (⭐930)](https://github.com/fcsonline/tmux-thumbs) A lightning fast version of tmux-fingers written in Rust, copy/pasting tmux like vimium/vimperator
 
 ## [24. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
 
@@ -278,9 +281,9 @@
 
 ### Azure
 
-*   [ARM templates for Sitecore (⭐140)](https://github.com/Sitecore/Sitecore-Azure-Quickstart-Templates) - All currently available Azure Resource Manager templates for Sitecore.
+*   [ARM templates for Sitecore (⭐143)](https://github.com/Sitecore/Sitecore-Azure-Quickstart-Templates) - All currently available Azure Resource Manager templates for Sitecore.
 *   [Sitecore Azure Content (⭐18)](https://github.com/olegburov/Sitecore-Azure-Content) - Articles on how to automate deployment of Sitecore solution to the Microsoft Azure Cloud Platform utilizing Azure services.
-*   [Sitecore Advanced Azure Devops (⭐13)](https://github.com/JeffDarchuk/AdvancedSitecoreAzureDevops) - Expanding Sitecore on Azure with flexible and generic scripts (requires a valid PowerShell Azure session to be connected and available).
+*   [Sitecore Advanced Azure Devops (⭐14)](https://github.com/JeffDarchuk/AdvancedSitecoreAzureDevops) - Expanding Sitecore on Azure with flexible and generic scripts (requires a valid PowerShell Azure session to be connected and available).
 *   [Language Understanding (LUIS) Samples (⭐85)](https://github.com/Azure-Samples/cognitive-services-language-understanding) - Samples for the Language Understanding Intelligent Service (LUIS).
 *   [Sitecore Media Azure Blob Storage provider (⭐0)](https://github.com/ivansharamok/Sitecore.Media.AzureBlobStorage) - Allows to store Sitecore media library assets in the Azure Blob Storage account.
 *   [CloudMediaLibrary (⭐5)](https://github.com/jammykam/Sitecore-CloudMediaLibrary) - Allow Sitecore Media Library to store and serve from Cloud Storage.
@@ -297,7 +300,7 @@
 ### Commerce
 
 *   [Reference Storefront (⭐25)](https://github.com/Sitecore/Reference-Storefront) - Sitecore Reference Storefront.
-*   [Commerce Sample Plugins (⭐13)](https://github.com/Sitecore/SitecoreCommerce) - A sample code for Sitecore Commerce Plugins (targeted toward XC 9.0.3 and 9.1).
+*   [Commerce Sample Plugins (⭐14)](https://github.com/Sitecore/SitecoreCommerce) - A sample code for Sitecore Commerce Plugins (targeted toward XC 9.0.3 and 9.1).
 *   [HabitatHome Commerce (⭐26)](https://github.com/Sitecore/Sitecore.HabitatHome.Commerce) - An example built using SXA on XP and XC following the Helix architecture principles.
 *   [sitecore-commerce-configuration (⭐3)](https://github.com/richardszalay/sitecore-commerce-configuration) - Tools for configuring and boostrapping Sitecore Commerce Engine configuration.
 *   [Plumber for Sitecore Commerce (⭐1)](https://github.com/richardszalay/plumber-sc) - Tool to view Sitecore Commerce Engine Configuration.
@@ -309,8 +312,8 @@
 
 ### Containers
 
-*   [Repository of Sitecore Docker images (⭐178)](https://github.com/Sitecore/docker-images) - Build your own Docker images for the most recent versions of Sitecore.
-*   [Packer for Sitecore (⭐21)](https://github.com/asmagin/sitecore-packer) - Repository contains Packer templates for a local Sitecore hosting environment with IIS and SQL Server on Windows, SOLR and Sitecore 9.0 building virtual machine images and Vagrant boxes for VirtualBox, provisioned with Chef.
+*   [Repository of Sitecore Docker images (⭐180)](https://github.com/Sitecore/docker-images) - Build your own Docker images for the most recent versions of Sitecore.
+*   [Packer for Sitecore (⭐22)](https://github.com/asmagin/sitecore-packer) - Repository contains Packer templates for a local Sitecore hosting environment with IIS and SQL Server on Windows, SOLR and Sitecore 9.0 building virtual machine images and Vagrant boxes for VirtualBox, provisioned with Chef.
 *   [Docker SOLR with SSL (⭐11)](https://github.com/LaubPlusCo/docker-solr-ssl) - A simple setup that sets up a Linux container on a host running solr with SSL using a generated certificate.
 
 ### Content Hub
@@ -336,7 +339,7 @@
 
 ### Demo
 
-*   [Sitecore Habitat (⭐411)](https://github.com/Sitecore/Habitat) - Habitat is an example Sitecore solution built on the Helix architecture principles. No longer being updated or maintained, and is being replaced with Sitecore Helix Examples.
+*   [Sitecore Habitat (⭐415)](https://github.com/Sitecore/Habitat) - Habitat is an example Sitecore solution built on the Helix architecture principles. No longer being updated or maintained, and is being replaced with Sitecore Helix Examples.
 *   [Sitecore.HabitatHome.Utilities (⭐38)](https://github.com/Sitecore/Sitecore.HabitatHome.Utilities) - A collection of utilities and script examples to help with installing Sitecore Experience Platform, installing Sitecore Experience Commerce, installing Sitecore Modules, warming up a Sitecore Instance, security Hardening a Sitecore Instance, etc.
 *   [Sitecore.HabitatHome.Commerce (⭐26)](https://github.com/Sitecore/Sitecore.HabitatHome.Commerce) - Demo assets with external contributors and partners.
 *   [Sitecore.HabitatHome.Omni (⭐22)](https://github.com/Sitecore/Sitecore.HabitatHome.Omni) - Shares Sitecore JSS PWA demo assets and future "Sitecore Omni" related demo assets.
@@ -375,7 +378,7 @@
 
 ### JSS
 
-*   [JSS (⭐255)](https://github.com/Sitecore/jss) - An official repo of Sitecore JavaScript Services.
+*   [JSS (⭐264)](https://github.com/Sitecore/jss) - An official repo of Sitecore JavaScript Services.
 *   [sugcon-2019-jss-examples (⭐0)](https://github.com/chaturangar/sugcon-2019-jss-examples) - SugCon 2019 jss examples.
 *   [SitecoreQL (⭐15)](https://github.com/kmazzoni/SitecoreQL) - A GraphQL implementation for Sitecore, for example, you can query against Sitecore's Content Search API.
 *   [JSS React Starter Application (⭐3)](https://github.com/altola/sitecore-jss-react-basic) - Please follow the primary JSS documentation at <https://jss.sitecore.net> for the latest documentation on JSS.
@@ -386,8 +389,8 @@
 
 ### Helix
 
-*   [Sitecore Helix Documentation (⭐25)](https://github.com/Sitecore/Helix.Docs) - The official guidelines and recommended practices for developing in Sitecore for Sitecore Helix.
-*   [Helixbase (⭐105)](https://github.com/muso31/Helixbase) - Sitecore Helix-based solution for Greenfield projects.
+*   [Sitecore Helix Documentation (⭐26)](https://github.com/Sitecore/Helix.Docs) - The official guidelines and recommended practices for developing in Sitecore for Sitecore Helix.
+*   [Helixbase (⭐104)](https://github.com/muso31/Helixbase) - Sitecore Helix-based solution for Greenfield projects.
 *   [Helix example Module & Solution templates (⭐3)](https://github.com/LaubPlusCo/Helix-Templates) - Templates for the Sitecore Helix Visual Studio templates extension.
 *   [Helix frontend development example (⭐4)](https://github.com/LaubPlusCo/helix-frontend-example) - A simple frontend development setup for a Sitecore Helix solution.
 *   [CustomLinkProvider (⭐0)](https://github.com/TwentyGotoTen/CustomLinkProvider) - A demonstration of Converting a custom Sitecore link provider from non-Helix to Helix.
@@ -411,18 +414,18 @@
 
 ### Maintenance
 
-*   [Sitecore Instance Manager (⭐107)](https://github.com/Sitecore/Sitecore-Instance-Manager) - The legendary Sitecore Instant Manager, now with version 9.x support.
+*   [Sitecore Instance Manager (⭐108)](https://github.com/Sitecore/Sitecore-Instance-Manager) - The legendary Sitecore Instant Manager, now with version 9.x support.
 
 ### Media
 
 *   [Autocropper (⭐0)](https://github.com/zkniebel/Autocropper) - Automatically generates cropped versions of an image, based on pre-defined dimensions and a specified origin, for use on responsive sites.
 *   [Media-Framework-Brightcove-Edition (⭐3)](https://github.com/Sitecore/Media-Framework-Brightcove-Edition) - Brightcove connector for Sitecore Media Framework.
 *   [Shrink (⭐2)](https://github.com/robhabraken/shrink) - Gives an insight into the usage of your media library similar to a disk usage statistics viewer for your hard drives, also shows you which items are being used and published, so you can easily find media items that unnecessarily take up space in your database and offers you multiple ways of cleaning up your media library!
-*   [Dianoga (⭐102)](https://github.com/kamsar/Dianoga) - An automatic image optimizer for the Sitecore media library, reduced the size of your images served from Sitecore by 8-70%, completely automatically. When media images are requested, Dianoga automatically runs mozjpeg, PNGOptimizer, SVGO or WebP on the image data immediately after it is placed in the Sitecore media cache.
+*   [Dianoga (⭐104)](https://github.com/kamsar/Dianoga) - An automatic image optimizer for the Sitecore media library, reduced the size of your images served from Sitecore by 8-70%, completely automatically. When media images are requested, Dianoga automatically runs mozjpeg, PNGOptimizer, SVGO or WebP on the image data immediately after it is placed in the Sitecore media cache.
 
 ### ORM
 
-*   [Glass.Mapper (⭐125)](https://github.com/mikeedwards83/Glass.Mapper) - Glass.Mapper has been the redevelopment of the very popular Glass.Sitecore.Mapper project. This project aims to create a more robust and more flexible solution that not only works with many different CMS's.
+*   [Glass.Mapper (⭐124)](https://github.com/mikeedwards83/Glass.Mapper) - Glass.Mapper has been the redevelopment of the very popular Glass.Sitecore.Mapper project. This project aims to create a more robust and more flexible solution that not only works with many different CMS's.
 *   [TemplateModelHelper (⭐0)](https://github.com/lowedown/TemplateModelHelper) - Helper methods for working with generated Sitecore Template Models (Mapped through Glass.Mapper or other framework) with a main goal is to make it easy for developers to query the Sitecore database using generated Template models.
 *   [TDS-T4-Model-Generation (⭐8)](https://github.com/Sitecore/TDS-T4-Model-Generation) - T4 model generation for TDS.
 *   [Sitecore.CodeGenerator (⭐0)](https://github.com/ParTech/sitecore.codegenerator) - Generates Glass Mapper interfaces using T4 templates without TDS.
@@ -478,8 +481,8 @@
 ### Serialization
 
 *   [Rainbow (⭐34)](https://github.com/SitecoreUnicorn/Rainbow) - An advanced serialization library for Sitecore, designed to be a complete replacement for the Sitecore serialization format and filesystem organization, as well as enabling cross-source item comparison.
-*   [Unicorn (⭐267)](https://github.com/SitecoreUnicorn/Unicorn) - A utility for Sitecore that solves the issue of moving templates, renderings, and other database items between Sitecore instances by writing serialized copies of Sitecore items to disk along with the code - this way, a copy of the necessary database items for a given codebase accompanies it in source control.
-*   [Sidekick (⭐47)](https://github.com/JeffDarchuk/SitecoreSidekick) - A framework for angularjs-based microservice architecture operations.
+*   [Unicorn (⭐269)](https://github.com/SitecoreUnicorn/Unicorn) - A utility for Sitecore that solves the issue of moving templates, renderings, and other database items between Sitecore instances by writing serialized copies of Sitecore items to disk along with the code - this way, a copy of the necessary database items for a given codebase accompanies it in source control.
+*   [Sidekick (⭐48)](https://github.com/JeffDarchuk/SitecoreSidekick) - A framework for angularjs-based microservice architecture operations.
 *   [Rhino (⭐12)](https://github.com/kamsar/Rhino) - An experimental serialization data provider for Sitecore.
 
 ### Sitecore Host
@@ -518,7 +521,7 @@
 
 ### Universal Tracker
 
-*   [UniversalTracker SDK (⭐0)](https://github.com/Sitecore/Sitecore.UniversalTracker.MobileSDK) - .Net Standard library that provides the interactions and events writing API for client .NET applications that serves as an interface that connects the Universal Tracker service and an application to let users work with native objects rather than with HTTP requests and JSON responses.
+*   [UniversalTracker SDK (⭐1)](https://github.com/Sitecore/Sitecore.UniversalTracker.MobileSDK) - .Net Standard library that provides the interactions and events writing API for client .NET applications that serves as an interface that connects the Universal Tracker service and an application to let users work with native objects rather than with HTTP requests and JSON responses.
 
 ### WebApi
 
@@ -553,14 +556,14 @@
 
 ### Utility / Mocking
 
-*   [Arthas (⭐35k)](https://github.com/alibaba/arthas) - Allows to troubleshoot production issues for applications without modifying code or restarting servers.
+*   [Arthas (⭐36k)](https://github.com/alibaba/arthas) - Allows to troubleshoot production issues for applications without modifying code or restarting servers.
 
 ## [27. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### CSV
 
-*   [CodableCSV (⭐440)](https://github.com/dehesa/CodableCSV) :penguin: - Read and write CSV files row-by-row or through Swift's Codable interface.
-*   [CSVParser (⭐84)](https://github.com/Nero5023/CSVParser) :penguin: - Fast parser for CSV.
+*   [CodableCSV (⭐461)](https://github.com/dehesa/CodableCSV) :penguin: - Read and write CSV files row-by-row or through Swift's Codable interface.
+*   [CSVParser (⭐86)](https://github.com/Nero5023/CSVParser) :penguin: - Fast parser for CSV.
 
 ## [28. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
@@ -595,13 +598,10 @@
 ### Carbon Reduction
 
 *   [Beam](https://www.beamproject.co/) - Make small automatic donations while you shop online, to support the cleantech startups trying to change the world. Clean Tech investment money has dried up over the years, so crowdsourcing is becoming the only option for many, and with a Chrome extension you can chuck in a dollar when you're buying other stuff.
-*   [Better Future Faster](https://betterfuturefaster.org/) - Breaks the climate problem into 4 pillars, lays out explicit actions required for each and allows businesses and policy makers to commit to these actions.
-*   [Brighter Planet CM1](http://impact.brighterplanet.com/) - Brighter Planet offers a free, simple API allowing you to calculate the carbon generated by almost any activity - transport, energy, shopping and more.
 *   [Carbon Pricing Dashboard](https://carbonpricingdashboard.worldbank.org/) - Maps and statistics on regional, national, and subnational carbon pricing initiatives.
 *   [Climate Action Tracker](https://climateactiontracker.org/countries/) - See which countries are on track for the Paris Agreement or similar, and which countries are failing horribly. Hint: it's everyone but Morocco and The Gambia.
 *   [ClimateWorks](https://www.climateworks.org/) - An NGO partnering with philanthropists to tackle the climate crisis. They seek to ensure investments have the maximum impact.
 *   [Cool Earth](https://www.coolearth.org/) - This charity was created to tackle climate change by reducing carbon emissions from rainforest loss.
-*   [Ecosia](https://www.ecosia.org) - The search engine that plants trees. >50% of the ad revenue goes directly to planting trees.
 *   [Future Earth](https://futureearth.org/) - Future Earth is a global research programme designed to provide the knowledge needed to support transformations towards sustainability. They focus on systems-based approaches, seeking to deepen the understanding of complex Earth systems and human dynamics across different disciplines.
 *   [Gold Standard](https://www.goldstandard.org/take-action/offset-your-emissions) - Offset carbon emissions by purchasing verified carbon credits from a variety of certified, environmentally friendly projects.
 *   [Google Cloud Computing](https://cloud.google.com/sustainability/) - Google are a long way from perfect, but Google Cloud advertises 100% renewable energy. They don't *just* offset, they actually reduce the electricity usage too, and "strive to build the world’s most energy-efficient computing network by squeezing more out of every watt of power we consume." Their main rival, Amazon AWS, does not do that, and actively hosts oil and gas companies, who use the platform to find more places to dig. Switching to Google Cloud (or a host who in turn is on Google Cloud), is one of many ways to make your platform have less impact on the earth.
@@ -614,13 +614,9 @@
 *   [Flight Free (UK)](https://flightfree.co.uk/) - Aviation is the fastest growing contributor to greenhouse gas emissions at a time when we desperately need to reduce them. Pledge to go flight free in 2020.
 *   [Flight Free (USA)](https://flightfreeusa.org/) - A grassroots campaign which asks people to agree not to fly in the year of 2020 – on condition that 100,000 others will also pledge to do the same.
 *   [Restons Les Pieds Sur Terre](https://www.facebook.com/restonslespiedssurterre/) - Aviation is the fastest growing contributor to greenhouse gas emissions at a time when we desperately need to reduce them. Pledge to go flight free in 2020.
-*   [BlaBlaCar](https://www.blablacar.com/) - The world’s leading long-distance carpooling platform, which is available in most of Europe and Mexico.
 *   [Poparide](https://www.poparide.com/) - Get a ride or fill a seat for rideshares between cities in Canada. Having 3 people in the car can be more efficient than some of their big-ass trains and is 1/5th the impact of flying.
 *   [EcoBnB](https://ecobnb.com/) - Find accommodation for a trip with a focus on sustainability. Most locations get their electricity from renewable sources, you wont find loads of single-use plastics, they recycle more than 80% of their waste, etc.
 *   [Home Exchange](https://www.homeexchange.com/) - Swap homes with another family instead of spending money at a fancy hotel, as hotels have a much higher footprint due to the constant cleaning, overactive AC, etc.
-*   [Maris - Freighter Cruises](http://www.freightercruises.com/) - These giant freight ships are not running on renewable energy, but if you need to cross an ocean this is the way to do it. Europe to North America, England to Australia, Shanghai to Argentina. It's slower, but your carbon footprint will be saved.
-*   [Responsible Vacation](https://www.responsiblevacation.com/) - A travel company who run sustainable trips all over the world. Sail from Scotland to Iceland, cycle across Vietnam, hike in Peru. Admittedly some of these trips will require a flight to get there, but one trip a year (or alternative years) is probably reasonable. At least when you get there, these vacations will be helping and protecting local nature, wildlife and culture.
-*   [Rubicon 3](https://www.rubicon3.co.uk/) - Join the crew of one of our sailing expeditions for one of the greatest adventures you can have. Sail from country to country, exploring the world’s most awe-inspiring areas. Learn to sail as you go from inspiring instructors. Make landfall and explore ashore far from the beaten track.
 *   [Seat61](https://www.seat61.com/) - Train travel is a more rewarding, low-stress alternative to flying, which brings us closer to the countries we visit and reduces our contribution to climate change. It's time to rediscover the pleasure, romance & adventure of travel by train or ship. This site explains how to travel comfortably & affordably by train or ferry where you might think air was now the only option. For help with train travel, ask the Man in Seat 61!
 *   [Slow Travel (Langsamreisen)](https://www.langsamreisen.de/) - A travel company all about sustainable and conscious travel. Piggy back on a cargo ship to get to that new job on the other side of the world. Sailing trips to get around without a footprint. Maybe take the trans-siberian railway.
 *   [Snow Carbon](http://snowcarbon.co.uk/) - Wish you could avoid airport queues, tedious transfers and long drives? Want to travel sustainably and enjoyably by train instead - to fantastic accommodation in the best ski resorts in the Alps? Snowcarbon is an independent guide founded by ski journalist Daniel Elkan to help you do exactly that.
@@ -637,32 +633,21 @@
 *   [Forkful](https://www.forkful.app/) - Sustainable, nutritious eating that is as good for you as it is for the planet. With our powerful recipe search, you can view the nutritional benefit and environmental impact of thousands of recipes at a glance, empowering you to make awesome decisions.
 *   [Happy Cow](https://www.happycow.net) - Reduce or avoid meat entirely by finding great vegetarian or vegan food all over the world.
 *   [Kitche](https://kitche.co/) - Kitche works to reduce waste from inside users’ kitchens and makes it easier than ever before to manage food at home, saving money and reducing food waste all within one app. Scan receipts and stop wasting money!
-*   [Milk Run](https://localmilkrun.com) - Shop for and subscribe to deliveries from our hub of local farmers, butchers, bakers, and makers in Portland, Oregon.
 *   [Seafood Watch](https://www.seafoodwatch.org/) - Seafood Watch recommends seafood that is fished or farmed in ways that promote healthy oceans. They recommend best options, good alternatives, and things to avoid.
-*   [Tight5 farm](https://tight5.farm) - Delivered by cargo bicycle, our microgreens, sprouts, and culinary herbs are grown sustainably at production scale in an ultra-minimalist hydroponic vertical farming unit
 
 ### Clothing
 
-*   [Adidas Parley](https://adidas.com/parley) - Shoes, apparel and accessories made from upcycled marine plastic waste. Every piece in the collection is made of at least 75% intercepted plastic trash.
 *   [Alternative Apparel](https://www.alternativeapparel.com/) - Low impact dyes, and post-consumer recycled polyester are used with Fair Labor Association guidelines.
-*   [Arvin  Goods](https://www.arvingoods.com/) - Brand that makes fashionable socks through a sustainable supply chain process they have developed. They have removed excess water from their manufacturing process - leaving more water left for communities to drink!
 *   [Dabchy](https://www.dabchy.com/) - Tunisian second hand clothes marketplace.
-*   [REI Used](https://www.rei.com/used) - CO-OP owned company that sells reused hiking and outdoor gear and clothing with the goal of preventing waste and getting more people into outdoor activities. They offer gift cards in exchange for your used gear too.
 *   [Recover Brands](https://recoverbrands.com/) - Soft and strong T-shirts, each made from 8 plastic bottles. Closed Loop manufacturing from the start.
-*   [Siizu](https://siizu.com/) - A mininalistic-styled brand that creates clothing with organic and natural fabrics - one such using oyster shell waste. They use an ethical manufacturing process by having their factories close to each other and their shipping only uses recyclable packaging.
 *   [TenTree](https://www.tentree.ca/) - Ten tree is a brand that actively promotes environmental stewardship. They have a wide variety of comfortable clothes and accessories and with each purchase, they pledge to plant 10 trees.
 *   [Worn Wear](https://wornwear.patagonia.com/) - A set of tools to help our customers partner with Patagonia to take mutual responsibility to extend the life of the products Patagonia makes and customers purchase. You can buy second-hand repaired or re-crafted clothes, or trade in used Patagonia clothes for credit for new items.
-*   [thredUP](https://www.thredup.com/) - Second hand clothes, up-cycled to avoid the electricity, carbon, etc waste of making new clothes, and keeping them from a landfill. Women and kids but nothing for men.
 
 ### Hygiene
 
 *   [A Good Company - The Plastic-Free Store](https://agood.com/) - Everyday products including notebooks, toothbrushes, phone cases, art supplies, water bottles, etc. designed with by a company with complete transparency that has extremely ambitious environmental standards including plastic-free low-carbon materials including bio-plastics, bamboo, stone paper, and recycled aluminum.
-*   [Bidet Hose Toilet Attachment](https://www.homedecorous.com/Bidet-Diaper-Handheld-Sprayer-Set-Water-Shattaf-A132) - This sprayer will feel nice and sturdy in your hand as the whole thing is stainless steel. You will be able to adjust the water flow from zero to maximum by pushing the switch or by using the lever on the T-valve adapter.
-*   [Buy a F\*\*king Bidet](https://buyafuckingbidet.com/) - Buying a bidet attachment for your toilet is cheap and easy, helps the environment and solves problems during the coronavirus pandemic. No more toilet-paper panic-buying/brawling. Do you have a basic understanding of how screwdrivers and hoses work? Congratulations, you're a goddamn bidet installation expert.
 *   [CuloClean Water Bottle Bidet](https://culoclean.com/) - CuloClean is the portable bidet that you can plumb in your plastic bottle, fully discreet, efficient and portable. It is specially designed so that it fits in the two most common diameters of water bottle on the market.
-*   [Good Condom Company](https://www.thegoodc.company/) - Fuck each other, not the planet. Condoms made of natural latex from sustainably managed rubber plantations in Malaysia.
 *   [Improve how you do laundry](https://greenlivingideas.com/2014/09/23/3-easy-ways-to-green-your-laundry/) - Six tips for a more sustainable laundry routine.
-*   [Smartliners](https://smartlinerpads.com/) - Reduce the impact on the environment caused by sanitary waste using Organic Cotton Period Pads.
 *   [Who Gives a Crap](https://whogivesacrap.org/) - We make all of our products with environmentally friendly materials, and we donate 50% of our profits to help build toilets for those in need.
 
 ### Consumer Products
@@ -681,20 +666,7 @@
 ### Documentaries
 
 *   [Artifishial](https://www.patagonia.com/artifishal.html) - Artifishal is a film about people, rivers, and the fight for the future of wild fish and the environment that supports them. It explores wild salmon’s slide toward extinction, threats posed by fish hatcheries and fish farms, and our continued loss of faith in nature.
-*   [Before the Flood](https://www.imdb.com/title/tt5929776/) - A look at how climate change affects our environment and what society can do to prevent the demise of endangered species, ecosystems and native communities across the planet.
-*   [Blue Planet II](https://www.imdb.com/title/tt6769208/) - David Attenborough returns to the world's oceans in this sequel to the acclaimed documentary filming rare and unusual creatures of the deep, as well as documenting the problems our oceans face, including showing how plastic waste is destroying marine life.
-*   [Chasing Coral](https://www.imdb.com/title/tt6333054/) - Coral reefs around the world are vanishing at an unprecedented rate. A team of divers, photographers and scientists set out on a thrilling ocean adventure to discover why and to reveal the underwater mystery to the world.
 *   [Garbage Warrior](http://www.garbagewarrior.com/) - Garbage Warrior is a feature-length documentary film telling the epic story of maverick architect Michael Reynolds, his crew of renegade house builders from New Mexico, and their fight to introduce radically different ways of living. Imagine a home that heats itself, that provides its own water, hat grows its own food. Imagine that it needs no expensive technology, that it recycles its own waste, that it has its own power source. And now imagine that it can be built anywhere, by anyone, out of the things society throws away. Thirty years ago, architect Michael Reynolds imagined just such a home - then set out to build it. Reynolds believes that in an age of ecological instability and impending natural disaster, his buildings can - and will - change the way we live.
-*   [GasLand Part II](https://www.imdb.com/title/tt2795078/) - The gas industry's portrayal of natural gas as a clean and safe alternative to oil is a myth, and that fracked wells inevitably leak over time, contaminating water and air, hurting families, and endangering the earth's climate with the potent greenhouse gas methane.
-*   [GasLand](https://www.imdb.com/title/tt1558250/) - An exploration of the fracking petroleum extraction industry and the serious environmental consequences involved.
-*   [More than Honey](https://www.imdb.com/title/tt2263058/) - An in-depth look at why bees, worldwide, are facing extinction. With the tenacity of a man out to solve a world-class mystery, he investigates this global phenomenon.
-*   [No Impact Man](https://www.imdb.com/title/tt1280011/) - Follow the Manhattan-based Beavan family as they abandon their high consumption 5th Avenue lifestyle and try to live a year while making no net environmental impact.
-*   [Our Planet](https://www.imdb.com/title/tt9253866/) - Documentary series focusing on the breadth of the diversity of habitats around the world, from the remote Arctic wilderness and mysterious deep oceans to the vast landscapes of Africa and diverse jungles of South America.
-*   [Tapped](https://www.imdb.com/title/tt1344784/) - Examines the role of the bottled water industry and its effects on our health, climate change, pollution, and our reliance on oil.
-*   [The Coconut Revolution](https://www.imdb.com/title/tt0479000/) - This is the modern-day story of a native peoples' remarkable victory over Western Colonial power. A Pacific island rose up in arms against giant mining corporation Rio Tinto Zinc (RTZ) - and won despite a military occupation and blockade.
-*   [The Power of Community: How Cuba Survived Peak Oil](https://www.imdb.com/title/tt0814275/) - A great example of how a community can survive the oil apocalypse. Cubans were on the edge of starvation due to the oil crisis - the average Cuban lost 20 pounds. The Cuban people helped avert disaster from the bottom up by reclaiming land everywhere and began growing vegetables on them. Here we see the importance of recovering lost knowledge to ensure communal survival.
-*   [Virunga](https://www.imdb.com/title/tt3455224/) - A team of brave individuals risk their lives to protect the last mountain gorillas.
-*   [Where the Heck is Donlin?](https://vimeo.com/64608183) - Sited deep in the Bush of Southwestern Alaska, the Donlin Gold prospect is the largest proposed gold mine in Alaska's history. However, an overwhelming majority of Alaskan residents are unfamiliar with the details of it's development and implications. Noting the absence of available data, as well as the lack of awareness surrounding the proposal, Bjorn and Kim took on the ground-truth-trekking model of investigative research, and set out to explore some of the unanswered questions from the source. Completing a three-part, 1,000 mile human powered wilderness expedition through the proposed footprint of the mine, they engaged the people that they encountered on the subjects of perpetual waste storage, the significance of subsistence fisheries, the energy demands of a large-scale mine, and the challenges facing rural residents to name a few.
 
 ### Waste
 
@@ -704,7 +676,6 @@
 *   [Karma](https://new.karma.life/) - A Swedish company that lets restaurants sell surplus food at a lower price. It lets you pay less for food and prevent food waste.
 *   [Olio](https://olioex.com/) - We connect neighbors to share food, and other things, rather than chuck them away.
 *   [Pieter Pot](https://www.pieter-pot.nl/) - Your groceries, delivered without packaging. Pieter Pot delivers your groceries with a cargo bike in beautiful glass jars in The Netherlands. Empty pot? Then we fill it again. This is how we make it fun and easy to do shopping without all those unnecessary (plastic) packaging. That's nice, right?
-*   [Rethink Food NYC](https://www.rethinkfood.nyc/) - They pick up unused, excess food from restaurants, farms, and other food purveyors, and re-purpose it into delicious and nutritious meals for under-served New Yorkers.
 *   [Too Good To Go](https://toogoodtogo.co.uk/) - Sell your surplus food, easily and sustainably! Save delicious food and fight food waste. Find your favorite food and go rescue it.
 *   [Sonny](https://www.indiegogo.com/projects/sonny-a-portable-bidet-for-eco-conscious-humans/x/17318484#/) - Never worry about running out of toilet paper again with Sonny, a sustainable alternative to wipes and paper for better hygiene and a greener planet.
 *   [Precious Plastic](https://preciousplastic.com/) - Open-source community who share instructions for creating plastic shredders, injectors, and sheet presses, so you can create anything you want from used plastic. Collect plastic from neighbors, clean it, shred it, [3D print a mold](https://pinshape.com/blog/low-cost-injection-molding-using-3d-printing/), and create anything you can imagine! You can [buy the machines](https://preciousplastic.com/solutions/machines/overview.html) too if making them is out of your wheelhouse.
@@ -713,9 +684,7 @@
 *   [Blue Jeans Go Green](https://bluejeansgogreen.org/) - Send in your used jeans to get transformed into natural cotton fiber insulation, some of which is used to help with building efforts around the country.
 *   [Burying Food Scraps](https://www.youtube.com/watch?v=yQFB9M2UdK0) - Composting can be time consuming, expensive, and if done incorrectly it can actually produce a lot of methane. If you've got a bit of space in your garden, this video shows how simply burying food scraps can be a quick and simple solution to get rid of waste and improve soil quality too.
 *   [Circular Berlin](http://circular.berlin/) - A Berlin based non-profit developing the local circular economy agenda through research, community-building and practical programmes. Good overview of events and initiatives happening in Berlin.
-*   [Clean Cult](https://cleancult.pvzi.net/qq4kq) - Cleaning supplies with zero-waste packaging, and a powerful clean that's better for you and the planet.
 *   [Donate Toys](https://www.moneycrashers.com/where-donate-used-toys/) - Donate toys that your children have grown out of instead of throwing them away.
-*   [Kaiyo](https://kaiyo.com/) - Buy and sell used furniture to keep it out of landfill. They'll even come and pick it up! *I've used this to get rid of a giant sofa which nobody wanted to buy, it was about to go on the street and they got me a cheque.*
 *   [Open Circularity](https://opencircularity.info/) - Lars Zimmermann runs Mifactori Design & Activism Studio in Berlin. This website is where he shares content & thoughts on Open Source Circularity. General idea is - open source all products, allowing them to be repaired or repurposed if they break rather than ending up in landfill.
 
 ### Footprint Calculators
@@ -726,7 +695,7 @@
 *   [Emitwise](https://www.emitwise.com/) - The Emitwise Reportwise tool calculates company level GHG emissions in line with the GHG Protocol for scope 1 and 2 emissions. Primarily targeting the UK but would also be useful for other countries.
 *   [Impact Forecast](https://www.impactforecast.org/) - The Climate impact forecast is a quick-and-easy tool to see and improve the carbon footprint of business ideas in the startup phase, and a stepping stone towards more meticulous life cycle assessment for established companies.
 *   [Plan A](https://plana.earth/) - Software that helps your business calculate, monitor and reduce its carbon footprint. Our platform allows you to track your carbon footprint monthly and learn how to reduce it with the support of a custom sustainability action plan, automatically created based on your worst-performing indicators.
-*   [Protea OSS Carbon Footprint (⭐33)](https://github.com/protea-earth/carbon_footprint) - Open source carbon footprint calculator, the only emissions calculator to use a command line interface.
+*   [Protea OSS Carbon Footprint (⭐38)](https://github.com/protea-earth/carbon_footprint) - Open source carbon footprint calculator, the only emissions calculator to use a command line interface.
 *   [The US EPA's Carbon Footprint Calculator](https://www3.epa.gov/carbon-footprint-calculator/) - The calculator estimates your footprint in three areas- home energy, transportation and waste. Everyone's carbon footprint is different depending on their location, habits, and personal choices.
 *   [WWF UK Calculator](https://footprint.wwf.org.uk/) - The planet is in crisis - from climate change to the pollution in our oceans and devastation of our forests. It's up to all of us to fix it. Take your first step with our environmental footprint calculator.
 *   [atmosfair](https://www.atmosfair.de/) - Calculate the footprint for flights and buy compensation or donate to offset any number of carbon emissions. Tax-deductible in Germany.
@@ -754,7 +723,6 @@
 *   [Regency Wood Stove Fireplace Inserts](https://www.regency-fire.com/en/Products/Wood/Wood-Inserts) - If solar heating is not an option, wood stove inserts can update your drafty, open wood fireplace. They'll send less heat out the chimney, and more heat around your house, drastically improving your wood burning efficiency. They pump the smoke back into the fire to burn that off too, which sends less crap into the atmosphere. Try to use [coffee logs](https://www.bio-bean.com/elements/coffee-logs-and-retailers/) instead of wood.
 *   [Sense](https://sense.com/) - Sense is a home energy monitor that gives real-time insight into your home’s energy usage. Sense gives people the knowledge they need to reduce their energy costs and usage, with profound effects on the environment- the company estimates that its users are saving a total of 53 million pounds of CO2 annually.
 *   [Solar Thermal Energy](https://en.wikipedia.org/wiki/Solar_thermal_energy) - Solar thermal technology can be used for cooking, heating your home through radiant floors, radiators, or forced air. It can be used to heat water directly for hot showers too.
-*   [Solar Water Heaters](https://www.energy.gov/energysaver/water-heating/solar-water-heaters) - Solar hot water systems capture thermal energy from the sun and use it to heat water for your home. Systems can either be passive or active – while passive systems use gravity and natural circulation, active systems use pumps and controls to circulate water.
 
 ### Renewable Energy
 
@@ -770,8 +738,6 @@
 
 ### Jobs
 
-*   [Climate Careers](https://climate.careers/) - Site that helps people find high-impact, high-paying jobs at organizations advancing climate solutions, research, policy, education, and advocacy for climate action. Software engineers, photographers, sales, operations, researchers, all sorts of jobs here.
-*   [Climate Change Jobs (The Guardian)](https://jobs.theguardian.com/jobs/climate-change/) - The Guardian advertises the latest climate change jobs in the UK and some areas of Europe/Asia.
 *   [Data Science for Social Good](https://dssg-berlin.org/) - Berlin based group helping NGOs to make use of their data by connecting them with volunteer data scientists and analysts.
 *   [GoodWork](https://www.goodwork.ca/) - GoodWork is a Canadian community of environmental changemakers, sustainability professionals, job seekers and volunteers.
 *   [Green Jobs Network](https://greenjobs.greenjobsearch.org/) - Job board that connects employers with job seekers who are interested in jobs that focus on environmental or social responsibility. Not just tech jobs like some of these boards, they cover all sorts of jobs.
@@ -784,25 +750,10 @@
 *   [Farm Bot](https://farm.bot/) - Farm Bot is a fully automated, open-source, crowd-funded project, which helps you grow food for yourself, your family, and your community. Install FarmBot on a raised bed, urban rooftop, or in a small greenhouse at home. Hyper-local food production has never been easier.
 *   [Natural Resources Conservation Service (NRCS)](https://www.nrcs.usda.gov/) - NRCS will pay you to steward your land, in ways you define. It offers voluntary programs to eligible landowners and agricultural producers to provide financial and technical assistance to help manage natural resources in a sustainable manner. Programs include emergency watershed protection and flood prevention, watershed rehabilitation, surveys and planning, healthy forest reserve easements, agricultural conservation easements, conservation stewardship, and environmental quality incentives.
 
-### Volunteering
-
-*   [Woodland Trust](https://www.woodlandtrust.org.uk/) - The Woodland Trust is reforesting the United Kingdom, working with communities, local authorities, and land owners, to get trees in the ground.
-*   [Citizens Climate Lobby](https://citizensclimatelobby.org/) - If you’re an English, economics or poly sci major, you probably should consider volunteering for Citizens’ Climate Lobby, an organization focused on confronting climate change through policy.
-*   [ClimateAction.Tech](https://climateaction.tech/) - A global community of tech professionals using our skills, expertise and platforms to support solutions to the climate crisis. The mission is to empower technology professionals to play our part — to meet, discuss, learn and take climate action.
-*   [Economists for Future](https://econ4future.org/) - Economists for Future growing movement of people committed to galvanising the economics community behind addressing the greatest challenge of our day. If the discipline which dedicates itself to studying the economy cannot sufficiently engage in the economic transformation that the climate science requires, then who else can be expected to do this?
-*   [Eyes of the Reef Hawai'i](https://eorhawaii.org/2013/07/18/become-a-member/) - Network to inform, engage and train people to identify coral bleaching, disease and invasive species outbreaks. They have a broad outreach program that helps to provide critical training for rapid response monitoring and stewardship of precious marine resources.
-*   [Greenpeace](https://engage.us.greenpeace.org/onlineactions/Hx3BaZLxxkyUUo2Jfzsk7w2) - Greenpeace has many ways for people to get involved. Start small by launching and participating in campaigns and petitions, or go further and discover or create events. Play an active role in achieving a green and peaceful future!
-*   [Habitat for Humanity](http://www.habitat.org/getinv) - Habitat for Humanity is well known for building simple, affordable homes for people in need. But recently the organization has implemented new programs recognizing climate change as a major threat to the environment and which can destroy the homes they build.
-*   [Take Climate Action](https://takeclimateaction.uk/) - Climate Action groups are made up of people like you and together they’ll bring about big systemic change. Join the network and kick-start climate action in your community.
-*   [Tell Microsoft to End Big Oil Contracts](https://engage.us.greenpeace.org/onlineactions/Hx3BaZLxxkyUUo2Jfzsk7w2) - Right now, while our planet speeds toward the brink of the climate crisis, Microsoft is putting its foot on the accelerator. As oil and gas profits continue to fall, giant oil corporations have turned to cloud computing and artificial intelligence (AI) to answer their problems. Microsoft promises companies like ExxonMobil that its analytical tools and other AI technologies will help them discover and pump even more oil at a lower cost. This Greenpeace petition will let Microsoft know this is not acceptable.
-*   [Transition Network](https://transitionnetwork.org) - A global movement of communities coming together to reimagine and actively rebuild our world. The terms transition town, transition initiative and transition model refer to grassroot community projects that aim to increase self-sufficiency to reduce the potential effects of peak oil, climate destruction, and economic instability.
-*   [Tree Folks](https://www.treefolks.org/volunteer/) - Tree planting and tree care events around Austin, Texas, from October to April.
-
 ### News
 
 *   [Bloomberg Green](https://www.bloomberg.com/green) - Climate news and insights on the latest in science, environmental impacts, zero-emission tech and green finance.
 *   [Carbon Brief](https://www.carbonbrief.org/) - UK-based website covering the latest developments in climate science, climate policy and energy policy. Clear, data-driven articles and graphics to help improve the understanding of climate change, both in terms of the science and the policy response.
-*   [Good](https://www.good.is/planet) - Good and upworthy news covering big issues, 'making purpose contagious'.
 *   [Heated](https://heated.world/) - Original reporting and analysis on the climate crisis at the top of your inbox every morning, Monday through Thursday. News should arm you with the knowledge you need to effectively fight this crisis.
 *   [Metabolic](https://metabolic.nl/news) - Sustainability consultancy in The Netherlands, tracking and reporting on climate action, circular economy, reducing consumption, etc. all over the world.
 *   [The Cleanest Line](https://www.patagonia.com/blog/) - Patagonia's blog on their efforts into political engagement for environmental protection of green spaces, global strikes, their efforts subsidizing solar energy in various communities, and all sorts of other climate action.
@@ -816,7 +767,6 @@
 *   [Our Children's Trust](https://www.ourchildrenstrust.org/) - Leading the game-changing, youth-driven, global climate recovery campaign to secure the legal right to a stable climate and healthy atmosphere.
 *   [Save Wild Orcas and Wild Salmon](https://www.change.org/p/wild-salmon-and-southern-resident-killer-whales-are-on-the-brink-of-extinction?signed=true) - Wild salmon and southern resident killer whales are on the brink of extinction. Now a misguided plan to feed the starving whales with hatchery salmon will push both endangered species closer to the edge, while costing taxpayers millions of dollars per year.
     Tell NOAA Regional Administrator Barry Thom, WDFW Director Kelly Susewind, and our elected decision makers to stop wasting money on failed plans and invest in science-based solutions: reduce hatchery production, remove dams and change how we harvest salmon.
-*   [The Green Flying Duty](https://www.responsiblevacation.com/copy/write-to-politicians) - The UK is one of the few countries to tax aviation fuel, but it is too low, and not ringfenced for climate solutions. The Green Flying Duty proposal is a reformed version of the UK's APD, that will be ring-fenced for Research and Development (R\&D) in electric aviation and to improve railway connectivity. Suggest this to politicians worldwide.
 *   [U.K. Double Tree Cover](https://act.friendsoftheearth.uk/petition/tell-uk-government-double-tree-cover) - Over the centuries the United Kingdom has cleared its forests, leaving it with some of the lowest levels of woodland in Europe. If the government is serious about protecting the climate, it needs to bring back the lost trees.
 *   [U.S. Gas-powered car free by 2040](https://www.curbed.com/2019/5/21/18632816/zero-emission-vehicles-act-ban-cars) - Federal legislation was proposed in both the House of Representatives and the Senate that could radically shift the way the U.S. tackles its climate crisis. The Zero-Emission Vehicles Act would eliminate the sale of gas-powered passenger cars in the U.S. by 2040.
 *   [U.S. Save the "Clean Power Plan"](https://www.nrdc.org/save-clean-power-plan) - Fossil-fueled power plants are responsible for nearly 40 percent of America’s carbon footprint. The Clean Power Plan calls for setting limits on this climate-warming pollution from these power plants, specifically at least 32 percent by 2030, compared to 2005 levels. By 2030, the Clean Power Plan could save the United States $20 billion in climate-related costs and deliver up to $34 billion in health benefits.
@@ -826,25 +776,31 @@
 
 *   [Biking vs. Driving Calculator](https://bicycleuniverse.com/car-free-millionaire/) - Riding your bike can make you a millionaire! You're paying more for your car than you think. A typical American who goes car-free for 35 years can save nearly a million dollars, even adjusted for inflation, and even if they pay for taxi, bus, and car-share trips often. Use the calculator to find how much you can save in your particular situation.
 *   [Commute on Electric Bicycles](https://ebiketips.road.cc/content/advice/buyers-guide/9-of-the-best-e-bikes-under-1000-2020-electric-bikes-on-a-budget-2209) - Like the idea of cycling but feel like it's a bit far, bit hilly, or no access to a shower at the other end? E-bikes aren't just for the older riders, they've pushed into the mainstream culturally and financially, and are a hell of a lot of fun. Combine it with local "cycle to work schemes" listed here for extra savings, some places do [specific deals on e-bikes](https://urbanebikes.com/pages/cycle-to-work-scheme-electric).
-*   [Cycle to Work Scheme Ireland](https://www.revenue.ie/en/jobs-and-pensions/taxation-of-employer-benefits/cycle-to-work-scheme.aspx) - Under the scheme your employer can buy a bicycle and safety equipment for you, up to €1,000 per bicycle and safety equipment.
-*   [Cycle to Work Scheme UK](https://www.cyclingweekly.com/news/latest-news/cycle-to-work-scheme-10-things-to-know-5055/amp) - This scheme allows employees to spend on bikes and equipment, tax-free, making a claimed saving of up to 42 per cent on the overall value.
 *   [Pod Point](https://pod-point.com) - UK leaders in electric vehicle charging with innovative solutions for homes, workplaces and commercial organizations.
-*   [WageWorks Bicycle Reimbursement Program](https://www.wageworks.com/employees/lifestyle-benefits-programs/bicycle-reimbursement-program/) - Ride your bike to work and pay for eligible bike-related expenses, and then get reimbursed for those expenses.
 *   [Waze Carpool](https://www.waze.com/carpool) - Choose to drive or ride, and match with people based on route and time of day.
+
+### Volunteering
+
+*   [Citizens Climate Lobby](https://citizensclimatelobby.org/) - If you’re an English, economics or poly sci major, you probably should consider volunteering for Citizens’ Climate Lobby, an organization focused on confronting climate change through policy.
+*   [ClimateAction.Tech](https://climateaction.tech/) - A global community of tech professionals using our skills, expertise and platforms to support solutions to the climate crisis. The mission is to empower technology professionals to play our part — to meet, discuss, learn and take climate action.
+*   [Economists for Future](https://econ4future.org/) - Economists for Future growing movement of people committed to galvanising the economics community behind addressing the greatest challenge of our day. If the discipline which dedicates itself to studying the economy cannot sufficiently engage in the economic transformation that the climate science requires, then who else can be expected to do this?
+*   [Eyes of the Reef Hawai'i](https://eorhawaii.org/2013/07/18/become-a-member/) - Network to inform, engage and train people to identify coral bleaching, disease and invasive species outbreaks. They have a broad outreach program that helps to provide critical training for rapid response monitoring and stewardship of precious marine resources.
+*   [Greenpeace](https://engage.us.greenpeace.org/onlineactions/Hx3BaZLxxkyUUo2Jfzsk7w2) - Greenpeace has many ways for people to get involved. Start small by launching and participating in campaigns and petitions, or go further and discover or create events. Play an active role in achieving a green and peaceful future!
+*   [Habitat for Humanity](http://www.habitat.org/getinv) - Habitat for Humanity is well known for building simple, affordable homes for people in need. But recently the organization has implemented new programs recognizing climate change as a major threat to the environment and which can destroy the homes they build.
+*   [Take Climate Action](https://takeclimateaction.uk/) - Climate Action groups are made up of people like you and together they’ll bring about big systemic change. Join the network and kick-start climate action in your community.
+*   [Tell Microsoft to End Big Oil Contracts](https://engage.us.greenpeace.org/onlineactions/Hx3BaZLxxkyUUo2Jfzsk7w2) - Right now, while our planet speeds toward the brink of the climate crisis, Microsoft is putting its foot on the accelerator. As oil and gas profits continue to fall, giant oil corporations have turned to cloud computing and artificial intelligence (AI) to answer their problems. Microsoft promises companies like ExxonMobil that its analytical tools and other AI technologies will help them discover and pump even more oil at a lower cost. This Greenpeace petition will let Microsoft know this is not acceptable.
+*   [Transition Network](https://transitionnetwork.org) - A global movement of communities coming together to reimagine and actively rebuild our world. The terms transition town, transition initiative and transition model refer to grassroot community projects that aim to increase self-sufficiency to reduce the potential effects of peak oil, climate destruction, and economic instability.
+*   [Tree Folks](https://www.treefolks.org/volunteer/) - Tree planting and tree care events around Austin, Texas, from October to April.
 
 ## [32. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Architecture
 
-*   🍰 [Burzum/CakeServiceLayer plugin (⭐67)](https://github.com/burzum/cakephp-service-layer) - Service layer and domain/business model implementation.
+*   [Burzum/CakeServiceLayer plugin (⭐67)](https://github.com/burzum/cakephp-service-layer) - Service layer and domain/business model implementation.
 
 ### Geolocation
 
-*   🍰 [Geo plugin (⭐47)](https://github.com/dereuromark/cakephp-geo) - Containing [Geocoder behavior](https://www.dereuromark.de/2012/06/12/geocoding-with-cakephp/) and [GoogleMaps helper](https://www.dereuromark.de/2010/12/21/googlemapsv3-cakephp-helper/).
-
-### HTTP
-
-*   [Http/Adapter/Cake library (⭐5)](https://github.com/php-http/cakephp-adapter) - Adapter for [HTTPlug (⭐2.5k)](https://github.com/php-http/httplug) HTTP client abstraction.
+*   [Geo plugin (⭐47)](https://github.com/dereuromark/cakephp-geo) - Containing [Geocoder behavior](https://www.dereuromark.de/2012/06/12/geocoding-with-cakephp/) and [GoogleMaps helper](https://www.dereuromark.de/2010/12/21/googlemapsv3-cakephp-helper/).
 
 ## [33. Awesome Firebase](/content/jthegedus/awesome-firebase/week/README.md)
 
@@ -877,11 +833,11 @@
 
 ### Activity Indicator
 
-*   [ActivityIndicatorView (⭐1.4k)](https://github.com/exyte/ActivityIndicatorView) - A number of preset loading indicators created with SwiftUI.
+*   [ActivityIndicatorView (⭐1.5k)](https://github.com/exyte/ActivityIndicatorView) - A number of preset loading indicators created with SwiftUI.
 
 ### Menu
 
-*   [SwiftyMenu (⭐572)](https://github.com/KarimEbrahemAbdelaziz/SwiftyMenu) - A Simple and Elegant DropDown menu for iOS 🔥💥
+*   [SwiftyMenu (⭐578)](https://github.com/KarimEbrahemAbdelaziz/SwiftyMenu) - A Simple and Elegant DropDown menu for iOS 🔥💥
 
 ### Utility / Collection View Layout
 
@@ -889,7 +845,7 @@
 
 ### User Consent / Collection View Layout
 
-*   [PrivacyFlash Pro (⭐151)](https://github.com/privacy-tech-lab/privacyflash-pro) - Generate a privacy policy for your iOS app from its code
+*   [PrivacyFlash Pro (⭐154)](https://github.com/privacy-tech-lab/privacyflash-pro) - Generate a privacy policy for your iOS app from its code
 
 ## [37. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
 
@@ -907,7 +863,7 @@
 
 ### Performance Testing / Streaming Protocols
 
-*   [HLS JMeter Plugin (⭐44)](https://github.com/Blazemeter/HLSPlugin)
+*   [HLS JMeter Plugin (⭐49)](https://github.com/Blazemeter/HLSPlugin)
 
 ## [40. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
@@ -959,13 +915,13 @@
 
 ### AI
 
-*   [astar (⭐10)](https://github.com/xiejiangzhi/astar) - An other A\* library. Any map (grid, point, mesh or infinite map) and support path cost.
+*   [astar (⭐15)](https://github.com/xiejiangzhi/astar) - An other A\* library. Any map (grid, point, mesh or infinite map) and support path cost.
 
 ## [46. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
-### Privacy and Encryption Tools / Telegram
+### Privacy and Encryption Tools / Steam
 
-*   [uBlock Origin (⭐45k)](https://github.com/gorhill/uBlock)
+*   [uBlock Origin (⭐49k)](https://github.com/gorhill/uBlock)
 
 ## [47. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
 
@@ -981,35 +937,17 @@
 
 ### Tools / XML
 
-*   [denomander (⭐148)](https://github.com/siokas/denomander) - Deno command-line interfaces inspired from commander.js.
+*   [denomander (⭐149)](https://github.com/siokas/denomander) - Deno command-line interfaces inspired from commander.js.
 
-## [49. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
-
-### Resources / Examples
-
-*   [All-About-Me (⭐15)](https://github.com/ooxxro/all-about-me) - A Social Media Web App built with Vue, Firebase (Firestore/Auth/Storage), Element-UI, Disqus, Vuex, Vue-Router, and Sass. Supports image uploading, profile editing, add/remove friends, and comments.
-
-### Resources / Books
-
-*   [Vue.js](https://www.amazon.com/Vue-js-Actionable-Chris-Minnick/dp/1951959019) by Chris Minnick and Nat Dunn, Webucator (February, 2020)
-
-### Projects Using Vue.js / Open Source
-
-*   [LeagueStats (⭐415)](https://github.com/vkaelin/LeagueStats) - Statistics website for players of the online game League of Legends.
-
-### Components & Libraries / UI Components
-
-*   [vuetify-dialog (⭐196)](https://github.com/yariksav/vuetify-dialog) - Dialogs easy to use with Vuetify.
-
-## [50. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
+## [49. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
 
 ### Theming
 
-*   [dynamic-antd-theme (⭐253)](https://github.com/luffyZh/dynamic-antd-theme) - A simple plugin to dynamic change ant-design theme whether less or css.
+*   [dynamic-antd-theme (⭐250)](https://github.com/luffyZh/dynamic-antd-theme) - A simple plugin to dynamic change ant-design theme whether less or css.
 
 ### Icons / Themes
 
-*   [Material Design Icons (⭐23)](https://github.com/2fd/ant-design-icons) Material Design Icons for Ant Design
+*   [Material Design Icons (⭐27)](https://github.com/2fd/ant-design-icons) Material Design Icons for Ant Design
 
 ---
 

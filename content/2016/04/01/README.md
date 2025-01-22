@@ -16,7 +16,7 @@
 
 ### Editors
 
-*   [Alchemist.vim (⭐652)](https://github.com/slashmili/alchemist.vim) - Elixir Tooling Integration Into Vim.
+*   [Alchemist.vim (⭐650)](https://github.com/slashmili/alchemist.vim) - Elixir Tooling Integration Into Vim.
 
 ## [3. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
@@ -34,8 +34,8 @@
 
 ### Natural Language Processing
 
-*   [text2vec (⭐836)](https://github.com/dselivanov/text2vec) - Fast Text Mining Framework for Vectorization and Word Embeddings.
-*   [quanteda (⭐815)](https://github.com/kbenoit/quanteda) - R functions for Quantitative Analysis of Textual Data.
+*   [text2vec (⭐852)](https://github.com/dselivanov/text2vec) - Fast Text Mining Framework for Vectorization and Word Embeddings.
+*   [quanteda (⭐844)](https://github.com/kbenoit/quanteda) - R functions for Quantitative Analysis of Textual Data.
 
 ---
 

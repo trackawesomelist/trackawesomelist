@@ -20,7 +20,7 @@
 
 ### Loading Status / Runner
 
-*   [css-loaders (⭐7k)](https://github.com/lukehaas/css-loaders) - A collection of loading spinners animated with CSS
+*   [css-loaders (⭐7.1k)](https://github.com/lukehaas/css-loaders) - A collection of loading spinners animated with CSS
 
 ### Sliders / Runner
 
@@ -44,7 +44,7 @@
 *   [html5-boilerplate (⭐56k)](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
 *   [mobile-boilerplate (⭐3.9k)](https://github.com/h5bp/mobile-boilerplate) - A front-end template that helps you build fast, modern mobile web apps.
 *   [webplate (⭐558)](https://github.com/chrishumboldt/webplate) - An awesome front-end framework that lets you stay focused on building your site or app while remaining really easy to use.
-*   [Cerberus (⭐4.9k)](https://github.com/TedGoas/Cerberus) - A few simple, but solid patterns for responsive HTML emails. Even in Outlook.
+*   [Cerberus (⭐5k)](https://github.com/TedGoas/Cerberus) - A few simple, but solid patterns for responsive HTML emails. Even in Outlook.
 *   [Fluid-Squares (⭐32)](https://github.com/crozynski/Fluid-Squares) - A fluid grid of square units.
 
 ### Video/Audio / Other
@@ -54,21 +54,21 @@
 ### Typography / Other
 
 *   [FlowType.JS (⭐4.6k)](https://github.com/simplefocus/FlowType.JS) - Web typography at its finest: font-size and line-height based on element width.
-*   [BigText (⭐886)](https://github.com/zachleat/BigText) - jQuery plugin, calculates the font-size and word-spacing needed to match a line of text to a specific width.
+*   [BigText (⭐888)](https://github.com/zachleat/BigText) - jQuery plugin, calculates the font-size and word-spacing needed to match a line of text to a specific width.
 *   [novacancy.js (⭐187)](https://github.com/chuckyglitch/novacancy.js) - Text Neon Golden effect jQuery plug-in.
 *   [jquery-responsive-text (⭐124)](https://github.com/ghepting/jquery-responsive-text) - Make your text sizing responsive!
 
 ### Animations / Other
 
 *   [the-cube (⭐10)](https://github.com/pstadler/the-cube) - The Cube is an experiment with CSS3 transitions.
-*   [animate.css (⭐80k)](https://github.com/daneden/animate.css) - A cross-browser library of CSS animations. As easy to use as an easy thing.
+*   [animate.css (⭐81k)](https://github.com/daneden/animate.css) - A cross-browser library of CSS animations. As easy to use as an easy thing.
 
 ### Misc / Other
 
 *   [spoiler-alert (⭐473)](https://github.com/joshbuddy/spoiler-alert) - SPOILER ALERT! A happy little jquery plugin to hide spoilers on your site.
 *   [jquery.vibrate.js (⭐144)](https://github.com/illyism/jquery.vibrate.js) - Vibration API Wrappers
 *   [jquery-match-height (⭐3.1k)](https://github.com/liabru/jquery-match-height) - a responsive equal heights plugin for jQuery.
-*   [sotayamashita/awesome-css (⭐4.9k)](https://github.com/sotayamashita/awesome-css)
+*   [sotayamashita/awesome-css (⭐5k)](https://github.com/sotayamashita/awesome-css)
 
 ## [2. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
 
@@ -80,7 +80,7 @@
 
 ### Tables / Paid Books
 
-*   [Bootgrid (⭐978)](https://github.com/rstaib/jquery-bootgrid) - A grid control especially designed for bootstrap.
+*   [Bootgrid (⭐972)](https://github.com/rstaib/jquery-bootgrid) - A grid control especially designed for bootstrap.
 
 ### Looking for more lists like this? / Paid Books
 

@@ -10,7 +10,7 @@
 
 ### Framework Components
 
-*   [phoenix\_html\_sanitizer (⭐27)](https://github.com/elixirstatus/phoenix_html_sanitizer) - HTML Sanitizer integration for Phoenix.
+*   [phoenix\_html\_sanitizer (⭐28)](https://github.com/elixirstatus/phoenix_html_sanitizer) - HTML Sanitizer integration for Phoenix.
 
 ### Text and Numbers
 
@@ -76,24 +76,20 @@
 
 ### Web Apps (open source)
 
-*   [OpenTripPlanner Client GWT (⭐9)](https://github.com/mecatran/OpenTripPlanner-client-gwt) - A Google Web Toolkit-based web interface for OpenTripPlanner
+*   [OpenTripPlanner Client GWT (⭐11)](https://github.com/mecatran/OpenTripPlanner-client-gwt) - A Google Web Toolkit-based web interface for OpenTripPlanner
 *   [HRT BUS Web app (⭐17)](https://github.com/Code4HR/hrt-bus-api) - HRT Bus API publishes real time bus data from Hampton Roads Transit through an application programming interface for developers to make apps from it.
-*   [Transit-Map (⭐356)](https://github.com/vasile/transit-map) - Web app that animates vehicles (markers) on a map using the public transport timetables to interpolate their positions along the routes (polylines).
+*   [Transit-Map (⭐361)](https://github.com/vasile/transit-map) - Web app that animates vehicles (markers) on a map using the public transport timetables to interpolate their positions along the routes (polylines).
 
 ### GTFS Realtime Libraries & Demo Apps / Ruby
 
 *   [GTFS-realtime Alerts Producer Web Application (⭐1)](https://github.com/OneBusAway/onebusaway-service-alerts) - A Java-based web application for producing GTFS-realtime Service Alerts.
-*   [GTFS-realtime Exporter (⭐15)](https://github.com/OneBusAway/onebusaway-gtfs-realtime-exporter/wiki) - A Java-based tool that assists in producing and sharing a GTFS-relatime feed.
+*   [GTFS-realtime Exporter (⭐17)](https://github.com/OneBusAway/onebusaway-gtfs-realtime-exporter/wiki) - A Java-based tool that assists in producing and sharing a GTFS-relatime feed.
 *   [GTFS-realtime Alerts Producer Demo (⭐8)](https://github.com/OneBusAway/onebusaway-gtfs-realtime-alerts-producer-demo/wiki) - A Java-based demo project for producing GTFS-realtime Service Alerts.
-*   [GTFS-realtime TripUpdates & VehiclePositions Producer Demo (⭐10)](https://github.com/OneBusAway/onebusaway-gtfs-realtime-trip-updates-producer-demo/wiki) - A Java-based demo project for producing GTFS-realtime TripUpdates (estimated arrivals) and Vehicle Positions.
+*   [GTFS-realtime TripUpdates & VehiclePositions Producer Demo (⭐11)](https://github.com/OneBusAway/onebusaway-gtfs-realtime-trip-updates-producer-demo/wiki) - A Java-based demo project for producing GTFS-realtime TripUpdates (estimated arrivals) and Vehicle Positions.
 
 ### GTFS Libraries / Java
 
-*   [OneBusAway GTFS Modules (⭐122)](https://github.com/OneBusAway/onebusaway-gtfs-modules/wiki) - A Java-based library for reading, writing, and transforming public transit data in the GTFS format, including database support.
-
-### GTFS Converters / Ruby
-
-*   [Chouette](http://www.chouette.mobi/) - Converts French-Transmodel, SIRI, NETeX. See Chouette.mobi website for more info.
+*   [OneBusAway GTFS Modules (⭐131)](https://github.com/OneBusAway/onebusaway-gtfs-modules/wiki) - A Java-based library for reading, writing, and transforming public transit data in the GTFS format, including database support.
 
 ### GTFS Realtime Convertors / Ruby
 

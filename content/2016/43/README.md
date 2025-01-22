@@ -54,14 +54,14 @@
 
 ### C / General-Purpose Machine Learning
 
-*   [Recommender (⭐264)](https://github.com/GHamrouni/Recommender) - A C library for product recommendations/suggestions using collaborative filtering (CF).
+*   [Recommender (⭐266)](https://github.com/GHamrouni/Recommender) - A C library for product recommendations/suggestions using collaborative filtering (CF).
 
 ### C++ / General-Purpose Machine Learning
 
 *   [CUDA](https://code.google.com/p/cuda-convnet/) - This is a fast C++/CUDA implementation of convolutional \[DEEP LEARNING]
 *   [DyNet (⭐3.4k)](https://github.com/clab/dynet) - A dynamic neural network library working well with networks that have dynamic structures that change for every training instance. Written in C++ with bindings in Python.
-*   [Fido (⭐430)](https://github.com/FidoProject/Fido) - A highly-modular C++ machine learning library for embedded electronics and robotics.
-*   [LightGBM (⭐16k)](https://github.com/Microsoft/LightGBM) - Microsoft's fast, distributed, high performance gradient boosting (GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.
+*   [Fido (⭐442)](https://github.com/FidoProject/Fido) - A highly-modular C++ machine learning library for embedded electronics and robotics.
+*   [LightGBM (⭐17k)](https://github.com/Microsoft/LightGBM) - Microsoft's fast, distributed, high performance gradient boosting (GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.
 *   [ROOT](https://root.cern.ch) - A modular scientific software framework. It provides all the functionalities needed to deal with big data processing, statistical analysis, visualization and storage.
 *   [shark](http://image.diku.dk/shark/sphinx_pages/build/html/index.html) - A fast, modular, feature-rich open-source C++ machine learning library.
 
@@ -190,7 +190,7 @@
 
 ### Other
 
-*   [osg-3rdparty-cmake (⭐154)](https://github.com/bjornblissing/osg-3rdparty-cmake) - CMake scripts for building OpenSceneGraph third party libraries. `[MIXED LICENSE]`
+*   [osg-3rdparty-cmake (⭐178)](https://github.com/bjornblissing/osg-3rdparty-cmake) - CMake scripts for building OpenSceneGraph third party libraries. `[MIXED LICENSE]`
 
 ## [17. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
@@ -214,7 +214,7 @@
 
 ### PDF
 
-*   [HexaPDF (⭐1.2k)](https://github.com/gettalong/hexapdf) - A Versatile PDF Creation and Manipulation Library For Ruby.
+*   [HexaPDF (⭐1.3k)](https://github.com/gettalong/hexapdf) - A Versatile PDF Creation and Manipulation Library For Ruby.
 
 ## [21. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
@@ -224,11 +224,11 @@
 
 ### Sliders / Runner
 
-*   [Glide.js (⭐7.2k)](https://github.com/jedrzejchalubek/glidejs) - Responsive and touch-friendly jQuery slider. It's simple, lightweight and fast.
+*   [Glide.js (⭐7.3k)](https://github.com/jedrzejchalubek/glidejs) - Responsive and touch-friendly jQuery slider. It's simple, lightweight and fast.
 
 ### Video/Audio / Other
 
-*   [clappr (⭐7k)](https://github.com/clappr/clappr) - An extensible media player for the web <http://clappr.io>
+*   [clappr (⭐7.1k)](https://github.com/clappr/clappr) - An extensible media player for the web <http://clappr.io>
 
 ## [22. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
@@ -240,11 +240,11 @@
 
 ### Algorithms and Data structures
 
-*   [C# Algorithms (⭐5.9k)](https://github.com/aalhour/C-Sharp-Algorithms) - A C# plug-and-play class-library project of standard Data Structures and Algorithms. It contains 35+ Data Structures and 30+ Algorithms designed as Object-Oriented isolated components.
+*   [C# Algorithms (⭐6k)](https://github.com/aalhour/C-Sharp-Algorithms) - A C# plug-and-play class-library project of standard Data Structures and Algorithms. It contains 35+ Data Structures and 30+ Algorithms designed as Object-Oriented isolated components.
 
 ### Misc
 
-*   [ByteSize (⭐551)](https://github.com/omar/ByteSize) - ByteSize is a utility class that makes byte size representation in code easier by removing ambiguity of the value being represented. ByteSize is to bytes what System.TimeSpan is to time.
+*   [ByteSize (⭐568)](https://github.com/omar/ByteSize) - ByteSize is a utility class that makes byte size representation in code easier by removing ambiguity of the value being represented. ByteSize is to bytes what System.TimeSpan is to time.
 
 ### Template Engine
 
@@ -280,15 +280,13 @@
 
 ### Companies with "remote DNA"
 
-*   [Auth0](https://auth0.com/jobs) - Zero-friction authentication and authorization for developers.
-*   [Dotsub](https://dotsub.com/jobs) - Browser-based platform for subtitling & translating online videos. Java / Spring, JavaScript / React.js
 *   [Drupal Association](https://assoc.drupal.org/jobs) - Non-profit supporting the Drupal project.
 
 ## [28. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### Querying / Symfony2
 
-*   [rest-assured (⭐6.8k)](https://github.com/rest-assured/rest-assured) - Java DSL for easy testing of REST services.
+*   [rest-assured (⭐6.9k)](https://github.com/rest-assured/rest-assured) - Java DSL for easy testing of REST services.
 
 ## [29. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
@@ -317,14 +315,13 @@
 
 *   [Algorithms](http://algs4.cs.princeton.edu/home/) - Problems explained with Java, OO good practices, visualizations, and free online resources.
 *   [Data Structures Using C](http://www.amazon.com/Data-Structures-Using-Aaron-Tenenbaum/dp/0131997467) - The basic concepts and usages of data structures.
-*   [Elementary Algorithms (⭐6k)](https://github.com/liuxinyu95/AlgoXY) - An awesome book about algorithms and data structures.
+*   [Elementary Algorithms (⭐6.1k)](https://github.com/liuxinyu95/AlgoXY) - An awesome book about algorithms and data structures.
 *   [Grokking Algorithms](http://www.manning.com/bhargava) - An illustrated book on algorithms with practical examples.
 *   [Introduction to Algorithms](http://mitpress.mit.edu/books/introduction-algorithms) - Essential!
 *   [The Art of Computer Programming](http://www-cs-faculty.stanford.edu/~uno/taocp.html) - The Book.
 
 ### Online Judges / Randomized Algorithms
 
-*   [AIZU ONLINE JUDGE](http://judge.u-aizu.ac.jp/onlinejudge/) - Japanese Online Judge.
 *   [Codeforces ](http://codeforces.com/) - The only programming contests Web 2.0 platform
 *   [CoderByte](http://www.coderbyte.com/) - A decent website with algorithm challenges from beginner to advanced levels. Supports most of the popular languages like C++, python, javascript, ruby.
 *   [HackerRank](https://www.hackerrank.com/) - Featured algorithm and functional programming online judges
@@ -339,11 +336,11 @@
 
 ### Database
 
-*   [LevelDB (⭐36k)](https://github.com/google/leveldb) - A fast key-value storage library written at Google that provides an ordered mapping from string keys to string values. \[BSD]
+*   [LevelDB (⭐37k)](https://github.com/google/leveldb) - A fast key-value storage library written at Google that provides an ordered mapping from string keys to string values. \[BSD]
 
 ### Math
 
-*   [Vc (⭐1.4k)](https://github.com/VcDevel/Vc) - SIMD Vector Classes for C++. \[BSD]
+*   [Vc (⭐1.5k)](https://github.com/VcDevel/Vc) - SIMD Vector Classes for C++. \[BSD]
 
 ## [32. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
@@ -368,13 +365,13 @@
 ### Frameworks
 
 *   [exelli (⭐16)](https://github.com/pigmej/exelli) - An Elli Elixir wrapper with some sugar syntax goodies.
-*   [kitto (⭐952)](https://github.com/kittoframework/kitto) - A framework for interactive dashboards.
+*   [kitto (⭐957)](https://github.com/kittoframework/kitto) - A framework for interactive dashboards.
 
 ### Instrumenting / Monitoring
 
-*   [appsignal-elixir (⭐281)](https://github.com/appsignal/appsignal-elixir/) - Collects error and performance data from your Elixir applications and sends it to [AppSignal](https://appsignal.com/).
-*   [prometheus-ecto (⭐76)](https://github.com/deadtrickster/prometheus-ecto) - Ecto instrumenter for prometheus.ex.
-*   [prometheus-phoenix (⭐70)](https://github.com/deadtrickster/prometheus-phoenix) - Phoenix instrumenter for prometheus.ex.
+*   [appsignal-elixir (⭐287)](https://github.com/appsignal/appsignal-elixir/) - Collects error and performance data from your Elixir applications and sends it to [AppSignal](https://appsignal.com/).
+*   [prometheus-ecto (⭐77)](https://github.com/deadtrickster/prometheus-ecto) - Ecto instrumenter for prometheus.ex.
+*   [prometheus-phoenix (⭐71)](https://github.com/deadtrickster/prometheus-phoenix) - Phoenix instrumenter for prometheus.ex.
 *   [prometheus\_process\_collector (⭐52)](https://github.com/deadtrickster/prometheus_process_collector) - Prometheus collector which exports the current state of process metrics including cpu, memory, file descriptor usage and native threads count as well as the process start and up times.
 
 ### Macros
@@ -387,7 +384,7 @@
 
 ### Testing
 
-*   [tuco\_tuco (⭐59)](https://github.com/stuart/tuco_tuco) - TucoTuco helps you test your web application by running a web browser and simulating user interaction with your application.
+*   [tuco\_tuco (⭐58)](https://github.com/stuart/tuco_tuco) - TucoTuco helps you test your web application by running a web browser and simulating user interaction with your application.
 
 ### Third Party APIs
 
@@ -397,12 +394,12 @@
 
 ### Books
 
-*   [Getting Started - Elixir (⭐101)](https://github.com/potatogopher/elixir-getting-started) - PDF, MOBI, and EPUB documents for Elixir's Getting Started tutorial (2016).
+*   [Getting Started - Elixir (⭐100)](https://github.com/potatogopher/elixir-getting-started) - PDF, MOBI, and EPUB documents for Elixir's Getting Started tutorial (2016).
 
 ### Editors
 
-*   [atom-elixir (⭐408)](https://github.com/msaraiva/atom-elixir) - An Atom package for Elixir.
-*   [ElixirSublime (⭐365)](https://github.com/vishnevskiy/ElixirSublime) - Elixir plugin for SublimeText 3 that provides code completion and linting.
+*   [atom-elixir (⭐406)](https://github.com/msaraiva/atom-elixir) - An Atom package for Elixir.
+*   [ElixirSublime (⭐364)](https://github.com/vishnevskiy/ElixirSublime) - Elixir plugin for SublimeText 3 that provides code completion and linting.
 
 ## [34. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
 
@@ -554,12 +551,12 @@ Webpage: (duasdeletra.pt)\[<http://duasdeletra.pt/>]
 
 ### Models/Projects
 
-*   [DQN-tensorflow (⭐2.4k)](https://github.com/devsisters/DQN-tensorflow) - TensorFlow implementation of DeepMind's 'Human-Level Control through Deep Reinforcement Learning' with OpenAI Gym by Devsisters.com
+*   [DQN-tensorflow (⭐2.5k)](https://github.com/devsisters/DQN-tensorflow) - TensorFlow implementation of DeepMind's 'Human-Level Control through Deep Reinforcement Learning' with OpenAI Gym by Devsisters.com
 *   [Highway Network (⭐57)](https://github.com/fomorians/highway-cnn) - TensorFlow implementation of ["Training Very Deep Networks"](http://arxiv.org/abs/1507.06228) with a [blog post](https://medium.com/jim-fleming/highway-networks-with-tensorflow-1e6dfa667daa#.ndicn1i27)
 *   [Sentence Classification with CNN (⭐5.6k)](https://github.com/dennybritz/cnn-text-classification-tf) - TensorFlow implementation of ["Convolutional Neural Networks for Sentence Classification"](http://arxiv.org/abs/1408.5882) with a [blog post](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)
-*   [Character-Aware Neural Language Models (⭐754)](https://github.com/carpedm20/lstm-char-cnn-tensorflow) - TensorFlow implementation of [Character-Aware Neural Language Models](http://arxiv.org/abs/1508.06615)
+*   [Character-Aware Neural Language Models (⭐761)](https://github.com/carpedm20/lstm-char-cnn-tensorflow) - TensorFlow implementation of [Character-Aware Neural Language Models](http://arxiv.org/abs/1508.06615)
 *   [YOLO TensorFlow ++ (⭐6.1k)](https://github.com/thtrieu/yolotf) - TensorFlow implementation of 'YOLO: Real-Time Object Detection', with training and an actual support for real-time running on mobile devices.
-*   [Mnemonic Descent Method (⭐123)](https://github.com/trigeorgis/mdm) - Tensorflow implementation of ["Mnemonic Descent Method: A recurrent process applied for end-to-end face alignment"](http://ibug.doc.ic.ac.uk/media/uploads/documents/trigeorgis2016mnemonic.pdf)
+*   [Mnemonic Descent Method (⭐124)](https://github.com/trigeorgis/mdm) - Tensorflow implementation of ["Mnemonic Descent Method: A recurrent process applied for end-to-end face alignment"](http://ibug.doc.ic.ac.uk/media/uploads/documents/trigeorgis2016mnemonic.pdf)
 
 ### Blog posts
 

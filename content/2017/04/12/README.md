@@ -83,7 +83,7 @@
 
 ### Distributed Computing
 
-*   [protoactor-dotnet (⭐1.7k)](https://github.com/AsynkronIT/protoactor-dotnet) - Proto Actor - Ultra fast distributed actors for Golang and C#
+*   [protoactor-dotnet (⭐1.8k)](https://github.com/AsynkronIT/protoactor-dotnet) - Proto Actor - Ultra fast distributed actors for Golang and C#
 
 ---
 

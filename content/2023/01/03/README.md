@@ -60,7 +60,6 @@
 *   [How to back up, restore, and migrate](https://www.qubes-os.org/doc/how-to-back-up-restore-and-migrate/) - With Qubes, it’s easy and secure to back up and restore your whole system, as well as to migrate between two physical machines.
 *   [How to copy and move files](https://www.qubes-os.org/doc/how-to-copy-and-move-files/) - This page is about copying and moving files.
 *   [How to copy and paste text](https://www.qubes-os.org/doc/how-to-copy-and-paste-text/) - This page is about copying and pasting plain text.
-    *   [Inter-qube file copying (qfilecopy)](https://www.qubes-os.org/doc/qfilecopy/)
 *   [How to copy from dom0](https://www.qubes-os.org/doc/how-to-copy-from-dom0/) - This page covers copying files and clipboard text between dom0 and domUs.
 *   [How to enter fullscreen mode](https://www.qubes-os.org/doc/how-to-enter-fullscreen-mode/) - Normally, the Qubes GUI virtualization daemon restricts the VM from “owning” the full screen.
 *   [How to install software](https://www.qubes-os.org/doc/how-to-install-software/) - When you wish to install software in Qubes OS, you should generally install it in a template.
@@ -77,7 +76,6 @@
 *   [Debian templates](https://www.qubes-os.org/doc/templates/debian/) - The Debian template is an officially supported template in Qubes OS.
 *   [Fedora templates](https://www.qubes-os.org/doc/templates/fedora/) - The Fedora template is the default template in Qubes OS.
 *   [Minimal templates](https://www.qubes-os.org/doc/templates/minimal/) - The minimal templates are lightweight versions of their standard template counterparts.
-*   [Template: Windows (⭐254)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/windows/windows-vm.md) - Simple Windows install
 *   [Templates](https://www.qubes-os.org/doc/templates/) - In Getting Started, we covered the distinction in Qubes OS between where you install your software and where you run your software.
 *   [Template implementation](https://www.qubes-os.org/doc/template-implementation/) - Describes template implementation.
 *   [Template manager](https://www.qubes-os.org/doc/template-manager/) -  A template manager application.
@@ -85,16 +83,16 @@
 
 ### VM-Hardening
 
-*   [Anonymizing your MAC Address (⭐254)](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/anonymizing-your-mac-address.md) - Although the MAC address is not the only metadata broadcast by network hardware, changing your hardware's default MAC Address could be an important step in protecting privacy.
+*   [Anonymizing your MAC Address (⭐258)](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/anonymizing-your-mac-address.md) - Although the MAC address is not the only metadata broadcast by network hardware, changing your hardware's default MAC Address could be an important step in protecting privacy.
 *   [Data leaks](https://www.qubes-os.org/doc/data-leaks/) - Firewalling in Qubes is not intended to be a leak-prevention mechanism.
 *   [Device handling security](https://www.qubes-os.org/doc/device-handling-security/) - Any additional ability a VM gains is additional attack surface.
 *   [Firewall](https://www.qubes-os.org/doc/firewall/) - Every Qube in Qubes is connected to the network via a FirewallVM, which is used to enforce network-level policies.
-*   [Reducing the fingerprint of the text-based web browser w3m (⭐254)](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/w3m.md) - You can reduce the amount of information w3m gives about itself and the environment it is running in (and, by extension, you).
-*   [Running Tails in Qubes (⭐254)](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/tails.md) - Tails stands for The Amnesic Incognito Live System.
+*   [Reducing the fingerprint of the text-based web browser w3m (⭐258)](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/w3m.md) - You can reduce the amount of information w3m gives about itself and the environment it is running in (and, by extension, you).
+*   [Running Tails in Qubes (⭐258)](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/tails.md) - Tails stands for The Amnesic Incognito Live System.
 *   [Split GPG](https://www.qubes-os.org/doc/split-gpg/) - Split GPG implements a concept similar to having a smart card with your private GPG keys, except that the role of the “smart card” is played by another Qubes app Qube.
 *   [Split dm-crypt (⭐23)](https://github.com/rustybird/qubes-split-dm-crypt) - Instead of directly attaching an encrypted LUKS1 partition from a source VM such as sys-usb to a destination VM and decrypting it there.
 *   [U2F proxy](https://www.qubes-os.org/doc/u2f-proxy/) - The Qubes U2F Proxy is a secure proxy intended to make use of U2F two-factor authentication devices with web browsers without exposing the browser to the full USB stack, not unlike the USB keyboard and mouse proxies implemented in Qubes.
-*   [Using Multi-Factor Authentication with Qubes (⭐254)](https://github.com/Qubes-Community/Contents/blob/master/docs/security/multifactor-authentication.md) - This page concerns multi-factor authentication for logging into external services, not for logging into Qubes itself.
+*   [Using Multi-Factor Authentication with Qubes (⭐258)](https://github.com/Qubes-Community/Contents/blob/master/docs/security/multifactor-authentication.md) - This page concerns multi-factor authentication for logging into external services, not for logging into Qubes itself.
 *   [Using OnlyKey with Qubes OS](https://docs.crp.to/qubes.html) - The following setup instructions walk through the process of configuring dom0 and a USB qube so that OnlyKey will function as a keyboard and be able to communicate with the OnlyKey app (required for TOTP).
 *   [Qrexec: secure communication across domains](https://www.qubes-os.org/doc/qrexec/) - The qrexec framework is used by core Qubes components to implement communication between domains.
 *   [Qrexec: socket-based services](https://www.qubes-os.org/doc/qrexec-socket-services/) - The qrexec allows implementing services not only as executable files, but also as Unix sockets.
@@ -107,14 +105,18 @@
 *   [i3 (window manager)](https://www.qubes-os.org/doc/i3/) - i3 is part of the stable repository (as of Qubes R3.1) and can be installed by using the dom0 update mechanism.
 *   [KDE (desktop environment)](https://www.qubes-os.org/doc/kde/) -  KDE was the default desktop environment in Qubes
 
-### Qubes OS Server / Web articles
+### Qubes OS Server / Unikernel-like
 
 *   [Admin API](https://www.qubes-os.org/doc/admin-api/) - The goals of the Admin API system is to provide a way for the user to manage the domains without direct access to dom0.
 *   [Qubes core admin client](https://www.qubes-os.org/doc/qubes-core-admin-client/) - Qubes core admin client’s documentation!
 *   [Qubes core admin](https://www.qubes-os.org/doc/qubes-core-admin/) - Qubes core-admin’s documentation!
 *   [Qubes core stack](https://www.qubes-os.org/doc/qubes-core-stack/) - Introducing the Next Generation Qubes Core Stack.
 
-### Qubes OS Legends / Web articles
+### Social media / Extra Info
+
+*   [ClubHouse](https://www.clubhouse.com/house/qubes-os) - Qubes OS Clubhouse Room
+
+### Qubes OS Legends / Extra Info
 
 *   [Joanna Rutkowska](https://en.wikipedia.org/wiki/Joanna_Rutkowska) - Founder of Qubes OS.
     *   [Blog](https://blog.invisiblethings.org/) - Personal Blog.
@@ -124,14 +126,6 @@
         Part Two
     *   [Bluepilling the Xen Hypervisor \[PDF\]](https://invisiblethingslab.com/resources/bh08/part3.pdf) - Xen 0wning Trilogy Part Three
 *   [Marek Marczykowski-Górecki](https://github.com/marmarek) - Lead developer at Qubes OS.
-
-### Streamers / Web articles
-
-*   [xn0px90](https://twitch.tv/xn0px90) - First Full Time Info-Sec Qubes-OS Streamer!
-
-### Social media / Web articles
-
-*   [ClubHouse](https://www.clubhouse.com/house/qubes-os) - Qubes OS Clubhouse Room
 
 ## [5. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/README.md)
 
@@ -149,7 +143,7 @@
 
 ### Querying / Symfony2
 
-*   [RestQA (⭐82)](https://github.com/restqa/restqa) - A REST API testing Framework based on BDD / Gherkin to manage microservice local testing.
+*   [RestQA (⭐88)](https://github.com/restqa/restqa) - A REST API testing Framework based on BDD / Gherkin to manage microservice local testing.
 
 ## [8. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
@@ -160,15 +154,15 @@
 
 ## [9. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
-### 3D / Godot 3.2+
+### 3D / Godot 3
 
-*   [Boom (⭐31)](https://github.com/FelicePollano/Boom) - A very simple, old fashion FPS, work-in-progress but playable.
+*   [Boom (⭐36)](https://github.com/FelicePollano/Boom) - A very simple, old fashion FPS, work-in-progress but playable.
 
 ## [10. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### ToDos
 
-*   [ididit! (⭐216)](https://github.com/Jinjinov/Ididit) - ![stars](https://img.shields.io/github/stars/Jinjinov/Ididit?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Jinjinov/Ididit?style=flat-square\&cacheSeconds=86400) The procrastination friendly habit tracker. ake notes, manage tasks, track habits. [Demo](https://app.ididit.today/).
+*   [ididit! (⭐223)](https://github.com/Jinjinov/Ididit) - ![stars](https://img.shields.io/github/stars/Jinjinov/Ididit?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Jinjinov/Ididit?style=flat-square\&cacheSeconds=86400) The procrastination friendly habit tracker. ake notes, manage tasks, track habits. [Demo](https://app.ididit.today/).
 
 ### Articles / Others
 
@@ -185,26 +179,26 @@
 
 ### File Explorer / Diagnostics
 
-*   [stevearc/oil.nvim (⭐3.6k)](https://github.com/stevearc/oil.nvim) - Edit your filesystem like a buffer.
+*   [stevearc/oil.nvim (⭐4.5k)](https://github.com/stevearc/oil.nvim) - Edit your filesystem like a buffer.
 
 ## [13. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/README.md)
 
 ### External Services
 
 *   Code::Stats (<https://codestats.net/>)
-    *   [codestats-box (⭐5)](https://github.com/Ancientwood/codestats-box) - Update a pinned gist to contain your daily Code::Stats.
+    *   [codestats-box (⭐6)](https://github.com/Ancientwood/codestats-box) - Update a pinned gist to contain your daily Code::Stats.
     *   [codestats-box-python (⭐8)](https://github.com/aksh1618/codestats-box-python) - A Python implementation of codestats-box. Update a pinned gist to contain your Code::Stats stats.
 *   LeetCode (<https://leetcode.com/>)
-    *   [leetcode-box (⭐15)](https://github.com/puiiyuen/leetcode-box) - Update a pinned gist to show your LeetCode stats.
+    *   [leetcode-box (⭐16)](https://github.com/puiiyuen/leetcode-box) - Update a pinned gist to show your LeetCode stats.
     *   [leetcode-solved-box (⭐0)](https://github.com/Pudding124/leetcode-solved-box) - Update a pinned gist to show leetcode solved problem.
     *   [leetcode-skills-box (⭐1)](https://github.com/tbeachill/leetcode-skills-box) - Update a pinned gist to show your top leetcode skills.
 *   Spotify (<https://spotify.com/>)
-    *   [spotify-box (⭐123)](https://github.com/izayl/spotify-box) - Update a pinned gist to contain your weekly top tracks on Spotify.
-    *   [spotify-box (⭐11)](https://github.com/Aveek-Saha/spotify-box) - Update a pinned gist to show your weekly/monthly/all-time top Spotify tracks/artists.
-    *   [spotify-gist (⭐6)](https://github.com/mporracindie/spotify-gist) - Update a pinned gist to contain your monthly top artist on Spotify.
+    *   [spotify-box (⭐127)](https://github.com/izayl/spotify-box) - Update a pinned gist to contain your weekly top tracks on Spotify.
+    *   [spotify-box (⭐16)](https://github.com/Aveek-Saha/spotify-box) - Update a pinned gist to show your weekly/monthly/all-time top Spotify tracks/artists.
+    *   [spotify-gist (⭐7)](https://github.com/mporracindie/spotify-gist) - Update a pinned gist to contain your monthly top artist on Spotify.
 *   WakaTime (<https://wakatime.com/>)
-    *   [waka-box (⭐1.3k)](https://github.com/matchai/waka-box) - Update a pinned gist to contain your weekly WakaTime stats.
-    *   [waka-box-go (⭐164)](https://github.com/YouEclipse/waka-box-go) - A Golang implementation of waka-box. Update a pinned gist to contain your weekly WakaTime stats.
+    *   [waka-box (⭐1.4k)](https://github.com/matchai/waka-box) - Update a pinned gist to contain your weekly WakaTime stats.
+    *   [waka-box-go (⭐171)](https://github.com/YouEclipse/waka-box-go) - A Golang implementation of waka-box. Update a pinned gist to contain your weekly WakaTime stats.
 
 ---
 

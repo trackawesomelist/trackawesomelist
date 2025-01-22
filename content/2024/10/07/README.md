@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 07, 2024
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -29,11 +29,11 @@
 
 ### Third-Party Packages / Mailing
 
-*   [django-anymail (⭐1.7k)](https://github.com/anymail/django-anymail) - Django email backends and webhooks for Amazon SES, Brevo (Sendinblue), MailerSend, Mailgun, Mailjet, Postmark, Postal, Resend, SendGrid, SparkPost, Unisender Go and more
+*   [django-anymail (⭐1.7k)](https://github.com/anymail/django-anymail) - Django email backends and webhooks for Amazon SES, Brevo (Sendinblue), MailerSend, Mailgun, Mailjet, Postmark, Postal, Resend, SendGrid, SparkPost, Unisender Go and more.
 
 ### Python Packages / Views
 
-*   [Ruff (⭐32k)](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
+*   [Ruff (⭐35k)](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 
 ### Resources / Educational
 
@@ -47,23 +47,23 @@
 
 ### Software / Automation
 
-*   [Dittofeed](https://www.dittofeed.com) - Omni-channel customer engagement and messaging automation platform (alternative to Braze, Customer.io, Iterable). ([Demo](https://demo.dittofeed.com/dashboard/journeys), [Source Code (⭐1.3k)](https://github.com/dittofeed/dittofeed)) `MIT` `Docker`
+*   [Dittofeed](https://www.dittofeed.com) - Omni-channel customer engagement and messaging automation platform (alternative to Braze, Customer.io, Iterable). ([Demo](https://demo.dittofeed.com/dashboard/journeys), [Source Code (⭐2k)](https://github.com/dittofeed/dittofeed)) `MIT` `Docker`
 
 ### Software / Booking and Scheduling
 
-*   [Hi.Events](https://hi.events) - Event management and ticketing platform for conferences, concerts, and more. Offering customizable event pages and embeddable ticket widgets. ([Demo](https://demo.hi.events/event/1/dog-conf-2030), [Source Code (⭐1.9k)](https://github.com/HiEventsDev/hi.events)) `AGPL-3.0` `Docker`
+*   [Hi.Events](https://hi.events) - Event management and ticketing platform for conferences, concerts, and more. Offering customizable event pages and embeddable ticket widgets. ([Demo](https://demo.hi.events/event/1/dog-conf-2030), [Source Code (⭐2.4k)](https://github.com/HiEventsDev/hi.events)) `AGPL-3.0` `Docker`
 
 ### Software / Communication - Social Networks and Forums
 
-*   [Artalk](https://artalk.js.org/) - A self-hosted comment system built in Golang, providing a lightweight and highly customizable solution for adding comments to your website. ([Source Code (⭐1.6k)](https://github.com/ArtalkJS/Artalk)) `MIT` `Go/Docker`
+*   [Artalk](https://artalk.js.org/) - A self-hosted comment system built in Golang, providing a lightweight and highly customizable solution for adding comments to your website. ([Source Code (⭐1.8k)](https://github.com/ArtalkJS/Artalk)) `MIT` `Go/Docker`
 
 ### Software / Miscellaneous
 
-*   [Jelu](https://bayang.github.io/jelu-web) - Self hosted read and to-read list book tracker. ([Source Code (⭐332)](https://github.com/bayang/jelu)) `MIT` `Java/Docker`
+*   [Jelu](https://bayang.github.io/jelu-web) - Self hosted read and to-read list book tracker. ([Source Code (⭐412)](https://github.com/bayang/jelu)) `MIT` `Java/Docker`
 
 ### Software / Money, Budgeting & Management
 
-*   [InvoiceShelf](https://invoiceshelf.com/) - A software that helps you track expenses, payments & create professional invoices & estimates (fork of Crater). ([Source Code (⭐303)](https://github.com/InvoiceShelf/InvoiceShelf)) `AGPL-3.0` `PHP/Docker`
+*   [InvoiceShelf](https://invoiceshelf.com/) - A software that helps you track expenses, payments & create professional invoices & estimates (fork of Crater). ([Source Code (⭐633)](https://github.com/InvoiceShelf/InvoiceShelf)) `AGPL-3.0` `PHP/Docker`
 
 ## [5. Awesome Music](/content/ciconia/awesome-music/README.md)
 
@@ -75,8 +75,8 @@
 
 ### Integrations / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [adyen-angular-online-payments (⭐11)](https://github.com/adyen-examples/adyen-angular-online-payments) - Accept payments on your Angular/Express-based website with cards, wallets, and key local payment methods.
-*   [ngx-culqi (⭐8)](https://github.com/lperezp/ngx-culqi) - UNOFFICIAL [Culqi](https://culqi.com/) payment gateway library made to use with Angular. You can use the library like this [example (⭐10)](https://github.com/lperezp/culqi-angular).
+*   [adyen-angular-online-payments (⭐12)](https://github.com/adyen-examples/adyen-angular-online-payments) - Accept payments on your Angular/Express-based website with cards, wallets, and key local payment methods.
+*   [ngx-culqi (⭐12)](https://github.com/lperezp/ngx-culqi) - UNOFFICIAL [Culqi](https://culqi.com/) payment gateway library made to use with Angular. You can use the library like this [example (⭐11)](https://github.com/lperezp/culqi-angular).
 
 ### Drag and Drop / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -92,19 +92,13 @@
 
 *   [ZPA](https://zpa.felipebz.com) — An open source parser and code analyzer for PL/SQL and Oracle SQL code.
 
-## [8. Free Programming Books (Spanish)](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/README.md)
-
-### JavaScript / Sistemas Operativos
-
-*   [Eloquent JavaScript (3ra Edición)](https://eloquentjs-es.thedojo.mx) - Marijn Haverbeke, `trl.:` Various (HTML, PDF, EPUB, MOBI)
-*   [Eloquent JavaScript (4ta Edición)](https://www.eloquentjavascript.es) - Marijn Haverbeke (HTML, PDF, EPUB, MOBI)
-
-## [9. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
+## [8. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
 
 ### Deployment and Infrastructure
 
-*   [swarm-ansible (⭐28)](https://github.com/LombardiDaniel/swarm-ansible?tab=readme-ov-file) - Swarm-Ansible bootstraps a production-ready swarm cluster using ansible. Comes with tools to automate CI, help monitoring and traefik pre-configured for SSL certificates and simple-auth. Comes with a private registry and more!
+*   [swarm-ansible (⭐31)](https://github.com/LombardiDaniel/swarm-ansible?tab=readme-ov-file) - Swarm-Ansible bootstraps a production-ready swarm cluster using ansible. Comes with tools to automate CI, help monitoring and traefik pre-configured for SSL certificates and simple-auth. Comes with a private registry and more!
 
 ---
 
+- Prev: [Oct 08, 2024](/content/2024/10/08/README.md)
 - Next: [Oct 06, 2024](/content/2024/10/06/README.md)

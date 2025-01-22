@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 30, 2023
 
-6 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -33,7 +33,7 @@
 
 ### Generators / Other
 
-*   [Next.js (⭐123k)](https://github.com/vercel/next.js) - React powered static site generator, and they say "All the tools you need to make the Web. Faster.".
+*   [Next.js (⭐125k)](https://github.com/vercel/next.js) - React powered static site generator, and they say "All the tools you need to make the Web. Faster.".
 
 ## [5. Awesome Music](/content/ciconia/awesome-music/README.md)
 
@@ -43,15 +43,7 @@
 
 ### Music Programming
 
-*   [tuneflow-py (⭐946)](https://github.com/tuneflow/tuneflow-py/) - python plugin SDK for the next-gen DAW, that allows you to program your music algorithms & AI models into all stages of music production
-
-## [6. Web Development Resources](/content/markodenic/web-development-resources/README.md)
-
-### Coding Challenge Platforms:
-
-- Website: <https://lab.reaal.me/jsrobot/>
-
-
+*   [tuneflow-py (⭐811)](https://github.com/tuneflow/tuneflow-py/) - python plugin SDK for the next-gen DAW, that allows you to program your music algorithms & AI models into all stages of music production
 
 ---
 

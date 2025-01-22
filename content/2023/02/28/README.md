@@ -8,10 +8,6 @@
 
 ## [1. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
-### 2FA
-
-*   [Owky (⭐43)](https://github.com/charlietango/owky) - Free and Open Source Two-Factor Authenticator for IOS users.
-
 ### Password Managers
 
 *   [Passbolt](https://www.passbolt.com) - An open source password manager designed for team collaboration.
@@ -20,19 +16,19 @@
 
 ### Libraries / Caching
 
-*   [zkat/cacache-rs (⭐524)](https://github.com/zkat/cacache-rs) - A high-performance, concurrent, content-addressable disk cache, optimized for async APIs [![build badge](https://github.com/zkat/cacache-rs/workflows/CI/badge.svg)](https://github.com/zkat/cacache-rs/actions/workflows/ci.yml)
+*   [zkat/cacache-rs (⭐565)](https://github.com/zkat/cacache-rs) - A high-performance, concurrent, content-addressable disk cache, optimized for async APIs [![build badge](https://github.com/zkat/cacache-rs/workflows/CI/badge.svg)](https://github.com/zkat/cacache-rs/actions/workflows/ci.yml)
 
 ### Libraries / Network programming
 
 *   gRPC
-    *   [hyperium/tonic (⭐9.5k)](https://github.com/hyperium/tonic) - A native gRPC client & server implementation with async/await support [![Crates.io](https://img.shields.io/crates/v/tonic)](https://crates.io/crates/tonic)
+    *   [hyperium/tonic (⭐10k)](https://github.com/hyperium/tonic) - A native gRPC client & server implementation with async/await support [![Crates.io](https://img.shields.io/crates/v/tonic)](https://crates.io/crates/tonic)
     *   [tikv/grpc-rs (⭐1.8k)](https://github.com/tikv/grpc-rs) - The gRPC library built on C Core library and futures
 
 ## [3. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
 ### OS Images
 
-*   [Mainsail OS (⭐535)](https://github.com/mainsail-crew/MainsailOS) - A distribution for 3D Printers that includes everything to get started with Klipper Firmware and Mainsail.
+*   [Mainsail OS (⭐550)](https://github.com/mainsail-crew/MainsailOS) - A distribution for 3D Printers that includes everything to get started with Klipper Firmware and Mainsail.
 
 ## [4. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/README.md)
 
@@ -50,7 +46,7 @@
 
 ### Templates / Electron
 
-*   [vite-plugin-doubleshot (⭐119)](https://github.com/Doubleshotjs/doubleshot/tree/main/packages/plugin-vite) - For building Node.js backend or Electron main process.
+*   [vite-plugin-doubleshot (⭐139)](https://github.com/Doubleshotjs/doubleshot/tree/main/packages/plugin-vite) - For building Node.js backend or Electron main process.
 
 ### Vue / Transformers
 
@@ -60,7 +56,7 @@
 
 ### Markdown and LaTeX / Diagnostics
 
-*   [iamcco/markdown-preview.nvim (⭐6.6k)](https://github.com/iamcco/markdown-preview.nvim) - Preview markdown on your modern browser with synchronised scrolling and flexible configuration.
+*   [iamcco/markdown-preview.nvim (⭐7k)](https://github.com/iamcco/markdown-preview.nvim) - Preview markdown on your modern browser with synchronised scrolling and flexible configuration.
 
 ## [8. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
@@ -78,7 +74,7 @@
 
 ### Other Parsing
 
-*   [NetNewsWire (⭐8.1k)](https://github.com/Ranchero-Software/NetNewsWire) - It’s a free and open-source feed reader for macOS and iOS.
+*   [NetNewsWire (⭐8.6k)](https://github.com/Ranchero-Software/NetNewsWire) - It’s a free and open-source feed reader for macOS and iOS.
 
 ## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

@@ -17,16 +17,16 @@
 
 ### HTTP
 
-*   [Groovy-wslite (⭐397)](https://github.com/jwagenleitner/groovy-wslite) - Lightweight SOAP and REST webservice clients for Groovy
+*   [Groovy-wslite (⭐402)](https://github.com/jwagenleitner/groovy-wslite) - Lightweight SOAP and REST webservice clients for Groovy
 
 ### Transpilers
 
-*   [Grooscript (⭐220)](https://github.com/chiquitinxx/grooscript) - Converts your Groovy code to Javascript
+*   [Grooscript (⭐221)](https://github.com/chiquitinxx/grooscript) - Converts your Groovy code to Javascript
 
 ### Static Web
 
-*   [Grain (⭐154)](https://github.com/sysgears/grain) - Static Web Site Building Framework For Groovy
-*   [Gaiden (⭐166)](https://github.com/kobo/gaiden) - Gaiden is a tool that makes it easy to create documentation with Markdown.
+*   [Grain (⭐159)](https://github.com/sysgears/grain) - Static Web Site Building Framework For Groovy
+*   [Gaiden (⭐169)](https://github.com/kobo/gaiden) - Gaiden is a tool that makes it easy to create documentation with Markdown.
 
 ### Language Utilities
 

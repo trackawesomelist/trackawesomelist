@@ -94,7 +94,7 @@
 ### Other libraries and tools / Mesh tools
 
 *   [NFFT](https://www-user.tu-chemnitz.de/~potts/nfft/) - Nonequispaced fast Fourier transform.
-    (C/MATLAB, GPL 2, [GitHub (⭐164)](https://github.com/NFFT/nfft))
+    (C/MATLAB, GPL 2, [GitHub (⭐175)](https://github.com/NFFT/nfft))
 
 ### Community / Mesh tools
 

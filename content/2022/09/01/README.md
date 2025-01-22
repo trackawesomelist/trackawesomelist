@@ -10,11 +10,11 @@
 
 ### Editors / Native Editors
 
-*   [Merkaartor (⭐285)](https://github.com/openstreetmap/merkaartor) - An opensource OSM editor, written in C++ and Qt.
+*   [Merkaartor (⭐291)](https://github.com/openstreetmap/merkaartor) - An opensource OSM editor, written in C++ and Qt.
 
 ## [2. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
-### Books / Book Deals (Affiliated) 🛍
+### Books / Book Deals (Affiliated)
 
 *   [Data for All](https://www.manning.com/books/data-for-all?utm_source=mikrobusiness\&utm_medium=affiliate)
 
@@ -40,7 +40,7 @@
 
 ### Libraries/Frameworks / Misc
 
-*   [pearxteam/kasechange (⭐88)](https://github.com/pearxteam/kasechange) - Multiplatform Kotlin library to convert strings between various case formats including Camel Case, Snake Case, Pascal Case and Kebab Case
+*   [pearxteam/kasechange (⭐90)](https://github.com/pearxteam/kasechange) - Multiplatform Kotlin library to convert strings between various case formats including Camel Case, Snake Case, Pascal Case and Kebab Case
 
 ## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -52,14 +52,14 @@
 
 ### Messaging / Scala
 
-*   [Redpanda (⭐9.3k)](https://github.com/redpanda-data/redpanda/) - Streaming data platform for developers: Kafka API compatible, 10x faster, no ZooKeeper and no JVM.
+*   [Redpanda (⭐9.9k)](https://github.com/redpanda-data/redpanda/) - Streaming data platform for developers: Kafka API compatible, 10x faster, no ZooKeeper and no JVM.
 
 ## [9. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
 
 ### Tools / Working with types
 
-*   [mypy-baseline (⭐50)](https://github.com/orsinium-labs/mypy-baseline) - Integrate mypy with existing codebase. A CLI tool that filters out existing type errors and reports only new ones.
-*   [retype (⭐140)](https://github.com/ambv/retype) - Another tool to apply stubs to code.
+*   [mypy-baseline (⭐59)](https://github.com/orsinium-labs/mypy-baseline) - Integrate mypy with existing codebase. A CLI tool that filters out existing type errors and reports only new ones.
+*   [retype (⭐141)](https://github.com/ambv/retype) - Another tool to apply stubs to code.
 *   [typesplainer (⭐82)](https://github.com/wasi-master/typesplainer) - A Python type explainer.
 
 ## [10. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md)
@@ -72,7 +72,7 @@
 
 ### Tools / Community providers
 
-*   [aws2tf (⭐548)](https://github.com/aws-samples/aws2tf) - automates the importing of existing AWS resources into Terraform and outputs the Terraform HCL code.
+*   [aws2tf (⭐597)](https://github.com/aws-samples/aws2tf) - automates the importing of existing AWS resources into Terraform and outputs the Terraform HCL code.
 
 ## [12. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 

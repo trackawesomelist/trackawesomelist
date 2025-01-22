@@ -47,19 +47,19 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [pins (⭐3)](https://github.com/mehalter/zsh-pins) - ZSH plugin for pinning directories. Like a CLI folder bookmark manager with tab completions.
+*   [pins (⭐4)](https://github.com/mehalter/zsh-pins) - ZSH plugin for pinning directories. Like a CLI folder bookmark manager with tab completions.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [aofxta (⭐0)](https://github.com/aofxta/aofxta.zsh-theme/) - Includes decorators for last command's execution time, `git` information, current directory and current time.
 *   [avoleo (⭐0)](https://github.com/flameleo11/avoleo-zsh-theme) - Features a date and time prompt for each command, as well as a command number in history. In addition, it uses special symbols '⠾' and '⡶' to display `git` information if applicable in the current path. It also supports custom colors based on the Gnome-Terminal default color palette.
-*   [rkj-logik (⭐0)](https://github.com/logik93/rkj-logik.zsh-theme) - Based on omz's [rkj (⭐172k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/rkj.zsh-theme). Includes decorators for user\@host, current directory, time & date.
+*   [rkj-logik (⭐0)](https://github.com/logik93/rkj-logik.zsh-theme) - Based on omz's [rkj (⭐175k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/rkj.zsh-theme). Includes decorators for user\@host, current directory, time & date.
 
 ## [6. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Files and Directories / Search
 
-*   [skim (⭐4.8k)](https://github.com/lotabout/skim) - A general fuzzy finder written in rust, similar to fzf.
+*   [skim (⭐5.2k)](https://github.com/lotabout/skim) - A general fuzzy finder written in rust, similar to fzf.
 
 ## [7. Awesome Github Wiki](/content/MyHoneyBadger/awesome-github-wiki/README.md)
 
@@ -86,7 +86,7 @@
 
 ### Web
 
-*   [v-tiktok (⭐8)](https://github.com/walkingdevel/v-tiktok) - A V library for downloading TikTok videos.
+*   [v-tiktok](https://github.com/walkingdevel/v-tiktok) - A V library for downloading TikTok videos.
 
 ### Patterns / Vim
 
@@ -96,7 +96,7 @@
 
 ### Audio
 
-*   [micropython-dfplayer (⭐12)](https://github.com/redoxcode/micropython-dfplayer) - Library to control the DFPlayer mini MP3 player module.
+*   [micropython-dfplayer (⭐14)](https://github.com/redoxcode/micropython-dfplayer) - Library to control the DFPlayer mini MP3 player module.
 
 ### Communications / RC receiver
 
@@ -108,21 +108,21 @@
 
 ### Motion / Servo
 
-*   [micropython-servo (⭐12)](https://github.com/redoxcode/micropython-servo) - Library to control RC servos using direct PWM output in a tidy way.
+*   [micropython-servo (⭐15)](https://github.com/redoxcode/micropython-servo) - Library to control RC servos using direct PWM output in a tidy way.
 
 ### Motion / Stepper
 
-*   [micropython-stepper (⭐10)](https://github.com/redoxcode/micropython-stepper) - Library to control common stepper drivers in a tidy way.
+*   [micropython-stepper (⭐12)](https://github.com/redoxcode/micropython-stepper) - Library to control common stepper drivers in a tidy way.
 
 ## [11. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/README.md)
 
 ### Music / Text
 
-*   [Karaoke Forever (⭐312)](https://github.com/bhj/KaraokeEternal) - Host awesome karaoke parties where everyone can queue songs from their phone's browser. Plays MP3+G and MP4 with WebGL visualizations. ![javascript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/javascript-16.png "JavaScript language.")
+*   [Karaoke Forever (⭐444)](https://github.com/bhj/KaraokeEternal) - Host awesome karaoke parties where everyone can queue songs from their phone's browser. Plays MP3+G and MP4 with WebGL visualizations. ![javascript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/javascript-16.png "JavaScript language.")
 
 ### Utilities / Text
 
-*   [Middleclick (⭐1k)](https://github.com/artginzburg/MiddleClick-Ventura) - Emulate a scroll wheel click with three finger Click or Tap on MacBook trackpad and Magic Mouse ![c\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/c-16.png "C language.")
+*   [Middleclick (⭐1.6k)](https://github.com/artginzburg/MiddleClick-Ventura) - Emulate a scroll wheel click with three finger Click or Tap on MacBook trackpad and Magic Mouse ![c\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/c-16.png "C language.")
 *   [The Blockstack Browser (⭐1.1k)](https://github.com/stacks-network/blockstack-browser) - Blockstack is an internet for decentralized apps where users own their data. The Blockstack Browser allows you to explore the Blockstack internet.  ![javascript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/javascript-16.png "JavaScript language.")
 
 ### Graphics / Text
@@ -132,35 +132,35 @@
 
 ### Menubar / Text
 
-*   [BarTranslate (⭐116)](https://github.com/ThijmenDam/BarTranslate) - A handy menu bar translator app that supports DeepL and Google Translate. ![typescript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/typescript-16.png "TypeScript language.")
+*   [BarTranslate (⭐165)](https://github.com/ThijmenDam/BarTranslate) - A handy menu bar translator app that supports DeepL and Google Translate. ![typescript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/typescript-16.png "TypeScript language.")
 
 ### Other / Text
 
-*   [QorumLogs (⭐782)](https://github.com/Esqarrouth/QorumLogs) - Swift Logging Utility for Xcode & Google Docs.  ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
+*   [QorumLogs (⭐786)](https://github.com/Esqarrouth/QorumLogs) - Swift Logging Utility for Xcode & Google Docs.  ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
 
 ### Podcast / Text
 
-*   [Podlive for macOS (⭐46)](https://github.com/Podlive/podlive-macos) - macOS client to listen to live streaming podcasts (only). It currently supports all livestreams broadcasting via Ultraschall with [Studio Link On Air](https://studio-link.de).  ![objective\_c\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/objective-c-16.png "Objective-C language.")
+*   [Podlive for macOS (⭐48)](https://github.com/Podlive/podlive-macos) - macOS client to listen to live streaming podcasts (only). It currently supports all livestreams broadcasting via Ultraschall with [Studio Link On Air](https://studio-link.de).  ![objective\_c\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/objective-c-16.png "Objective-C language.")
 
 ### Productivity / Text
 
 *   [Ao (⭐2.1k)](https://github.com/klaudiosinani/ao) - Elegant Microsoft To-Do desktop app. ![javascript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/javascript-16.png "JavaScript language.") ![css\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/css-16.png "CSS language.")
-*   [Cerebro (⭐8.1k)](https://github.com/cerebroapp/cerebro) - Cross-platform launcher app.  ![javascript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/javascript-16.png "JavaScript language.")
-*   [Pomodoro Cycle (⭐71)](https://github.com/ziulev/pomodoro-cycle-app) - Pomodoro Cycle for macOS ![typescript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/typescript-16.png "TypeScript language.")
-*   [espanso (⭐8.2k)](https://github.com/espanso/espanso) - Cross-platform Text Expander, a powerful replacement for Alfred Snippets ![rust\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/rust-16.png "Rust language.")
+*   [Cerebro (⭐8.3k)](https://github.com/cerebroapp/cerebro) - Cross-platform launcher app.  ![javascript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/javascript-16.png "JavaScript language.")
+*   [Pomodoro Cycle (⭐81)](https://github.com/ziulev/pomodoro-cycle-app) - Pomodoro Cycle for macOS ![typescript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/typescript-16.png "TypeScript language.")
+*   [espanso (⭐9.9k)](https://github.com/espanso/espanso) - Cross-platform Text Expander, a powerful replacement for Alfred Snippets ![rust\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/rust-16.png "Rust language.")
 
 ### Screensaver / Text
 
-*   [MusaicFM (⭐278)](https://github.com/obrhoff/MusaicFM) - iTunes Screensaver Clone for Spotify and Last.fm  ![objective\_c\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/objective-c-16.png "Objective-C language.")
+*   [MusaicFM (⭐313)](https://github.com/obrhoff/MusaicFM) - iTunes Screensaver Clone for Spotify and Last.fm  ![objective\_c\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/objective-c-16.png "Objective-C language.")
 
 ### System / Text
 
-*   [VerticalBar (⭐207)](https://github.com/DeromirNeves/DockSeparator) - macOS application to add a vertical bar to Dock.  ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
+*   [VerticalBar (⭐213)](https://github.com/DeromirNeves/DockSeparator) - macOS application to add a vertical bar to Dock.  ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
 
 ### Touch Bar / Text
 
 *   [Pock (⭐10k)](https://github.com/pock/pock) - Display macOS Dock in Touch Bar. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
-*   [Touch Emoji (⭐48)](https://github.com/ilyalesik/touch-emoji) - Emoji picker for MacBook Pro Touch Bar.  ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
+*   [Touch Emoji (⭐52)](https://github.com/ilyalesik/touch-emoji) - Emoji picker for MacBook Pro Touch Bar.  ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
 
 ## [12. Game Datasets](/content/leomaurodesenv/game-datasets/README.md)
 

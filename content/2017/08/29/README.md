@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 29, 2017
 
-5 awesome lists updated today.
+4 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -37,13 +37,7 @@
 *   [chamber (⭐2.4k)](https://github.com/segmentio/chamber) - Store secrets using AWS KMS and SSM Parameter Store
 *   [passpie (⭐923)](https://github.com/marcwebbie/passpie) - Multiplatform command-line password manager
 
-## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Projects Using Vue.js / Open Source
-
-*   [Voten (⭐1.3k)](https://github.com/voten-co/voten) - A Reddit-like platform built with Vue2 and Laravel.
-
-## [5. Awesome Coins](/content/Zheaoli/awesome-coins/README.md)
+## [4. Awesome Coins](/content/Zheaoli/awesome-coins/README.md)
 
 ### ☤ Coin Market Tools & Utilities
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 04, 2023
 
-14 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -20,7 +20,7 @@
 
 ### Developer Tools / Developer Utilities
 
-*   [ImHex](https://imhex.werwolv.net/) - A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/WerWolv/ImHex/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [ImHex](https://imhex.werwolv.net/) - Hex Editor for reverse engineers and programmers. [![OSS](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/WerWolv/ImHex/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [3. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
@@ -41,7 +41,7 @@
 
 ### Other Development Tools / Smart Contracts
 
-*   [TEALScript (⭐49)](https://github.com/algorand-devrel/TEALScript) - Enables Algorand smart contract development with native TypeScript syntax, tooling, and IDE support.
+*   [TEALScript (⭐52)](https://github.com/algorand-devrel/TEALScript) - Enables Algorand smart contract development with native TypeScript syntax, tooling, and IDE support.
 
 ## [5. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
@@ -111,25 +111,25 @@
 
 ### :books: Literature / Scientific Research
 
-*   :newspaper: [Binary-code obfuscations in prevalent packer tools](https://dl.acm.org/doi/10.1145/2522968.2522972) (October 2013)
+*   :newspaper: [Binary-code obfuscations in prevalent packer tools](https://dl.acm.org/doi/10.1145/2522968.2522972) (October 2013)  :star:
 *   :newspaper: [A close look at a daily dataset of malware samples](https://dl.acm.org/doi/10.1145/3291061) (January 2019)
 *   :notebook: [Ether: Malware analysis via hardware virtualization extensions](https://dl.acm.org/doi/10.1145/1455770.1455779) (October 2008)
 *   :newspaper: [File packing from the malware perspective: Techniques, analysis approaches, and directions for enhancements](https://dl.acm.org/doi/10.1145/3530810) (December 2022)  :star:
 *   :notebook: [SATURN - Software deobfuscation framework based on LLVM](https://dl.acm.org/doi/10.1145/3338503.3357721) (November 2019)
-*   :notebook: [SE-PAC: A self-evolving packer classifier against rapid packers evolution](https://dl.acm.org/doi/10.1145/3422337.3447848) (April 2021)
+*   :notebook: [SE-PAC: A self-evolving packer classifier against rapid packers evolution](https://dl.acm.org/doi/10.1145/3422337.3447848) (April 2021)  :star:
 *   :newspaper: [WYSINWYX: What you see is not what you execute](https://dl.acm.org/doi/10.1145/1749608.1749612) (August 2010)
 
 ## [7. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### Large Language Models (LLMs)
 
-*   [Haystack (⭐15k)](https://github.com/deepset-ai/haystack): framework for building applications with LLMs and Transformers (e.g. agents, semantic search, question-answering)
+*   [Haystack (⭐19k)](https://github.com/deepset-ai/haystack): framework for building applications with LLMs and Transformers (e.g. agents, semantic search, question-answering)
 
 ### Text-related Generative Tools / Multi-agents
 
 *   [Taskade](https://taskade.com/): Taskade is an AI outliner and mind map generator for teams with built-in AI chat
 
-### Inbox: Speech-to-text (STT) and spoken content analysis / Deforum
+### Speech-to-text (STT) and spoken content analysis / Deforum
 
 *   [Reduce costs when prompting using GPT](https://www.codium.ai/blog/reduce-your-costs-by-30-when-using-gpt-3-for-python-code/)
 
@@ -145,34 +145,28 @@
 
 *   [pix2tex](https://lukas-blecher.github.io/LaTeX-OCR/) - LaTeX OCR ![windows](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/windows.svg) ![linux](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/linux.svg) ![mac](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/apple.svg) ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
 
-## [10. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
-
-### Blogs - Security / React
-
-*   [GraphQL for Pentesters](https://www.acceis.fr/graphql-for-pentesters/) - Introduction to Basic Concepts, Security Considerations & Reconnaissance, Vulnerabilities and Attacks, Offensive Tools.
-
-## [11. Awesome Yew](/content/jetli/awesome-yew/README.md)
+## [10. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Projects
 
-*   [Spaceman (⭐365)](https://github.com/eliaperantoni/spaceman) - Spaceman is a cross-platform gRPC client designed to be pleasant to use and pretty to look at.
+*   [Spaceman (⭐370)](https://github.com/eliaperantoni/spaceman) - Spaceman is a cross-platform gRPC client designed to be pleasant to use and pretty to look at.
 
-## [12. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
+## [11. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
 ### Software / Log Management
 
 *   [Fluentd](https://www.fluentd.org/) - Data collector for unified logging layer. ([Source Code (⭐13k)](https://github.com/fluent/fluentd)) `Apache-2.0` `Ruby`
 *   [GoAccess](https://goaccess.io/) - Real-time web log analyzer and interactive viewer that runs in a terminal or through the browser. ([Source Code (⭐18k)](https://github.com/allinurl/goaccess)) `MIT` `C`
 
-## [13. Awesome Directus](/content/directus-community/awesome-directus/README.md)
+## [12. Awesome Directus](/content/directus-community/awesome-directus/README.md)
 
 ### Extensions / Community
 
-*   [Field Actions (⭐92)](https://github.com/utomic-media/directus-extension-field-actions) - Adds copy to clipboard and open URL's action-buttons to fields (interface + display).
+*   [Field Actions (⭐101)](https://github.com/utomic-media/directus-extension-field-actions) - Adds copy to clipboard and open URL's action-buttons to fields (interface + display).
 
-## [14. Awesome Datascience](/content/academic/awesome-datascience/README.md)
+## [13. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
-### Other Awesome Lists / Book Deals (Affiliated) 🛍
+### Other Awesome Lists / Book Deals (Affiliated)
 
 *   [Top Future Trends in Data Science in 2023](https://medium.com/the-modern-scientist/top-future-trends-in-data-science-in-2023-3e616c8998b8)
 

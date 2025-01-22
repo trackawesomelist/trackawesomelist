@@ -10,7 +10,7 @@
 
 ### Display / LCD Character
 
-*   [LCM1602-14\_LCD\_Library (⭐11)](https://github.com/Bhavithiran97/LCM1602-14_LCD_Library) - driver for AIP31068L [3.3 V I2C and SPI 1602 Serial Character LCDs](https://www.cytron.io/p-3v3-i2c-and-spi-1602-serial-character-lcd).
+*   [LCM1602-14\_LCD\_Library (⭐13)](https://github.com/Bhavithiran97/LCM1602-14_LCD_Library) - driver for AIP31068L [3.3 V I2C and SPI 1602 Serial Character LCDs](https://www.cytron.io/p-3v3-i2c-and-spi-1602-serial-character-lcd).
 
 ## [2. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
@@ -30,7 +30,7 @@
 
 ### Miscellaneous / React
 
-*   [GraphVinci (⭐71)](https://github.com/Comcast/graphvinci) - An interactive schema visualizer for GraphQL APIs.
+*   [GraphVinci (⭐75)](https://github.com/Comcast/graphvinci) - An interactive schema visualizer for GraphQL APIs.
 
 ### Ruby Examples / React
 
@@ -39,7 +39,7 @@
 ### Julia / React
 
 *   [Diana.jl (⭐115)](https://github.com/codeneomatrix/Diana.jl) - A Julia GraphQL client/server implementation.
-*   [GraphQLClient.jl (⭐48)](https://github.com/DeloitteDigitalAPAC/GraphQLClient.jl) - A Julia GraphQL client for seamless integration with a server.
+*   [GraphQLClient.jl (⭐47)](https://github.com/DeloitteDigitalAPAC/GraphQLClient.jl) - A Julia GraphQL client for seamless integration with a server.
 
 ## [4. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/README.md)
 

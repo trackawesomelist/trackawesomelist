@@ -41,27 +41,27 @@
 
 ### Static type checkers
 
-*   [basedpyright (⭐609)](https://github.com/detachhead/basedpyright) - Pyright fork with improvements to VSCode support and various other fixes.
+*   [basedpyright (⭐1.3k)](https://github.com/detachhead/basedpyright) - Pyright fork with improvements to VSCode support and various other fixes.
 
 ## [4. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Tools / Playground
 
-*   [itertools-ts (⭐44)](https://github.com/Smoren/itertools-ts) - Extended itertools port for TypeScript and JavaScript. Provides a huge set of functions for working with iterable collections (including async ones).
+*   [itertools-ts (⭐54)](https://github.com/Smoren/itertools-ts) - Extended itertools port for TypeScript and JavaScript. Provides a huge set of functions for working with iterable collections (including async ones).
 
 ## [5. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Web Servers
 
-*   [cloudflare/pingora (⭐21k)](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
+*   [cloudflare/pingora (⭐23k)](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
 
 ### Libraries / Graphics
 
 *   PDF
-    *   [bastibense/libharu\_ng (⭐14)](https://github.com/bastibense/libharu_ng) \[[libharu\_ng](https://crates.io/crates/libharu_ng)] - Easily generate PDFs from your Rust app.
-    *   [fschutt/printpdf (⭐784)](https://github.com/fschutt/printpdf) - PDF writing library
-    *   [J-F-Liu/lopdf (⭐1.6k)](https://github.com/J-F-Liu/lopdf) - PDF document manipulation
-    *   [kaj/rust-pdf (⭐144)](https://github.com/kaj/rust-pdf) - Generating PDF files in pure Rust
+    *   [bastibense/libharu\_ng (⭐16)](https://github.com/bastibense/libharu_ng) \[[libharu\_ng](https://crates.io/crates/libharu_ng)] - Easily generate PDFs from your Rust app.
+    *   [fschutt/printpdf (⭐863)](https://github.com/fschutt/printpdf) - PDF writing library
+    *   [J-F-Liu/lopdf (⭐1.7k)](https://github.com/J-F-Liu/lopdf) - PDF document manipulation
+    *   [kaj/rust-pdf (⭐145)](https://github.com/kaj/rust-pdf) - Generating PDF files in pure Rust
 
 ## [6. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
@@ -75,7 +75,7 @@
 
 ### Overlays / Webinterface
 
-*   [System Manager (⭐639)](https://github.com/numtide/system-manager) - A non-NixOS Linux system configuration tool built on Nix.
+*   [System Manager (⭐862)](https://github.com/numtide/system-manager) - A non-NixOS Linux system configuration tool built on Nix.
 
 ## [7. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
@@ -99,9 +99,9 @@
 
 ## [9. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
-### Plugins and scripts / Godot 4.2+
+### Plugins and scripts / Godot 4
 
-*   [LimboAI (⭐992)](https://github.com/limbonaut/limboai) - Behavior trees and state machines. Comes with editor, visual debugger, comprehensive demo and tutorial.
+*   [LimboAI (⭐1.3k)](https://github.com/limbonaut/limboai) - Behavior trees and state machines. Comes with editor, visual debugger, comprehensive demo and tutorial.
 
 ## [10. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
 
@@ -142,7 +142,7 @@
 
 ### Gems / Other external resources
 
-*   [rabarber (⭐83)](https://github.com/enjaku4/rabarber) - A gem to handle role-based authorization. [:red\_circle:](https://rubygems.org/gems/rabarber)
+*   [rabarber (⭐101)](https://github.com/enjaku4/rabarber) - A gem to handle role-based authorization. [:red\_circle:](https://rubygems.org/gems/rabarber)
 
 ---
 

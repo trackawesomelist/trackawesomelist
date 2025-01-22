@@ -10,7 +10,7 @@
 
 ### Cryptography
 
-*   [mbedTLS (⭐5.2k)](https://github.com/ARMmbed/mbedtls) - An open source, portable, easy to use, readable and flexible SSL library, previously known as PolarSSL. \[Apache2] [website](https://tls.mbed.org/)
+*   [mbedTLS (⭐5.7k)](https://github.com/ARMmbed/mbedtls) - An open source, portable, easy to use, readable and flexible SSL library, previously known as PolarSSL. \[Apache2] [website](https://tls.mbed.org/)
 
 ## [2. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 

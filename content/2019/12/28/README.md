@@ -164,13 +164,11 @@
 *   [appveyor.com](https://www.appveyor.com/) — CD service for Windows, free for Open Source
 *   [bitrise.io](https://www.bitrise.io/) — A CI/CD for mobile apps, native or hybrid. With 200 free builds/month 10 min build time and two team members. OSS projects get 45 min build time, +1 concurrency and unlimited team size.
 *   [buddy.works](https://buddy.works/) — A CI/CD with five free projects and one concurrent run (120 executions/month)
-*   [buddybuild.com](https://www.buddybuild.com/) — Build, deploy, and gather feedback for your iOS and Android apps in one seamless, iterative system
 *   [deployhq.com](https://www.deployhq.com/) — 1 project with ten daily deployments (30 build minutes/month)
 
 ### Testing
 
 *   [browserstack.com](https://www.browserstack.com/) — Manual and automated browser testing, [free for Open Source](https://www.browserstack.com/open-source?ref=pricing)
-*   [crossbrowsertesting.com](https://crossbrowsertesting.com) - Manual, Visual, and Selenium Browser Testing in the cloud - [free for Open Source](https://crossbrowsertesting.com/open-source)
 *   [everystep-automation.com](https://www.everystep-automation.com/) — Records and replays all steps made in a web browser and creates scripts, free with fewer options
 *   [gridlastic.com](https://www.gridlastic.com/) — Selenium Grid testing with a free plan of up to 4 simultaneous selenium nodes/10 grid starts/4,000 test minutes/month
 *   [testingbot.com](https://testingbot.com/) — Selenium Browser and Device Testing, [free for Open Source](https://testingbot.com/open-source)
@@ -205,7 +203,6 @@
 
 *   [appdynamics.com](https://www.appdynamics.com/) — Free for 24-hour metrics, application performance management agents limited to one Java, one .NET, one PHP, and one Node.js
 *   [assertible.com](https://assertible.com) — Automated API testing and monitoring. Free plans for teams and individuals.
-*   [circonus.com](https://www.circonus.com/) — Free for 20 metrics
 *   [cloudsploit.com](https://cloudsploit.com) — AWS security and configuration monitoring. Free: unlimited on-demand scans, unlimited users, unlimited stored accounts. Subscription: automated scanning, API access, etc.
 *   [datadoghq.com](https://www.datadoghq.com/) — Free for up to 5 nodes
 *   [elastic.co](https://www.elastic.co/solutions/apm) — Instant performance insights for JS developers. Free with 24-hour data retention
@@ -321,7 +318,6 @@
 *   [pivotaltracker.com](https://www.pivotaltracker.com/) — Free for unlimited public projects and two private projects with three total active users (read-write) and unlimited passive users (read-only).
 *   [plan.io](https://plan.io/) — Project Management with Repository Hosting and more options. Free for two users with ten customers and 500MB Storage
 *   [planitpoker.com](https://www.planitpoker.com/) — Free online planning poker (estimation tool)
-*   [SpeedBoard](https://speedboard.app) - Board for Agile and Scrum retrospectives - Free.
 *   [Tadum](https://tadum.app) - Meeting agenda and minutes app designed for recurring meetings, free for teams of up to 10
 *   [taskade.com](https://www.taskade.com/) — Real-time collaborative task lists and team outlines. The free plan has one workspace with unlimited tasks and projects; 1GB file storage; 1-week project history; and five attendees per video meeting.
 *   [testlio.com](https://testlio.com/) — Issue tracking, test management and beta testing platform. Free for private use
@@ -335,7 +331,6 @@
 *   [kraken.io](https://kraken.io/) — Image optimization for website performance as a service, free plan up to 1 MB file size
 *   [otixo.com](https://www.otixo.com/) — Encrypt, share, copy, and move all your cloud storage files from one place. The basic plan provides unlimited file transfer with 250 MB max. file size and allows five encrypted files
 *   [packagecloud.io](https://packagecloud.io/) — Hosted Package Repositories for YUM, APT, RubyGem and PyPI.  Limited free plans and open-source plans are available via request
-*   [piio.co](https://piio.co/) — Responsive image optimization and delivery for every website. Free plan for developers and personal websites. Includes free CDN, WebP, and Lazy Loading out of the box.
 *   [placekitten.com](https://placekitten.com/) — A quick and simple service for getting pictures of kittens for use as placeholders
 *   [plot.ly](https://plot.ly/) — Graph and share your data. The free tier includes unlimited public files and ten private files
 *   [podio.com](https://podio.com/) — You can use Podio with a team of up to five people and try out the features of the Basic Plan, except user management
@@ -351,7 +346,7 @@
 *   [landen.co](https://www.landen.co) — Generate, edit, and publish beautiful websites and landing pages for your startup. All without code. The free tier allows you to have one website, fully customizable and published on the web.
 *   [lensdump.com](https://lensdump.com/) - Free cloud image hosting.
 *   [marvelapp.com](https://marvelapp.com/) — Design, prototyping, and collaboration, free plan limited to one user and project.
-*   [Pencil (⭐9k)](https://github.com/evolus/pencil) - Open source design tool using Electron.
+*   [Pencil (⭐9.1k)](https://github.com/evolus/pencil) - Open source design tool using Electron.
 *   [pexels.com](https://www.pexels.com/) - Free stock photos for commercial use. Has a free API that allows you to search photos by keywords.
 *   [photopea.com](https://www.photopea.com) — A Free, Advanced online design editor with Adobe Photoshop UI supporting PSD, XCF & Sketch formats (Adobe Photoshop, Gimp and Sketch App).
 *   [pixlr.com](https://pixlr.com/) — Free online browser editor on the level of commercial ones.
@@ -395,7 +390,6 @@
 ### Visitor Session Recording
 
 *   [hotjar.com](https://www.hotjar.com/) — Per site: 1,050 pages views/month, unlimited heatmaps, data stored for three months
-*   [usersurge.com](https://www.usersurge.com/) — 250K sessions per month for individuals.
 
 ### Payment and Billing Integration
 
@@ -408,7 +402,6 @@
 ### Miscellaneous
 
 *   [FOSSA](https://fossa.com/) - Scalable, end-to-end management for third-party code, license compliance and vulnerabilities.
-*   [ReqBin](https://www.reqbin.com/) — Post HTTP Requests Online. Popular Request Methods include GET, POST, PUT, DELETE, and HEAD. Supports Headers and Token Authentication. Includes a basic login system for saving your requests.
 *   [superfeedr.com](https://superfeedr.com/) — Real-time PubSubHubbub compliant feeds, export, analytics. Free with less customization
 *   [SurveyMonkey.com](https://www.surveymonkey.com) — Create online surveys. Analyze the results online. The free plan allows only 10 questions and 100 responses per survey.
 
@@ -432,7 +425,7 @@
 
 ### Talks
 
-*   [Meeting Cpp](https://www.youtube.com/user/MeetingCPP/videos) - Meeting C++ Youtube Channel
+*   [Meeting Cpp](https://www.youtube.com/user/MeetingCPP/videos) - Meeting C++ YouTube Channel
 
 ## [8. Awesome Linguistics](/content/theimpossibleastronaut/awesome-linguistics/README.md)
 
@@ -444,11 +437,7 @@
 
 ### Queue
 
-*   🍰 [Queue plugin (⭐302)](https://github.com/dereuromark/cakephp-queue) - A minimal and dependency-free queue solution.
-
-### File Manipulation
-
-*   [Josbeir/Filesystem plugin (⭐20)](https://github.com/josbeir/cakephp-filesystem) - Abstract [Flysystem](https://flysystem.thephpleague.com/) + file entity based upload plugin.
+*   [Queue plugin (⭐308)](https://github.com/dereuromark/cakephp-queue) - A minimal and dependency-free queue solution.
 
 ## [10. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/README.md)
 

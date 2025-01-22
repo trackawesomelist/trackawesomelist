@@ -14,7 +14,7 @@
 
 ### Tools
 
-*   [tool to autogenerate an OpenAPI Specification for Keycloak's Admin API (⭐167)](https://github.com/ccouzens/keycloak-openapi)
+*   [tool to autogenerate an OpenAPI Specification for Keycloak's Admin API (⭐172)](https://github.com/ccouzens/keycloak-openapi)
 
 ## [2. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
@@ -30,7 +30,7 @@
 
 ### Geocoding
 
-- API: [Graph Countries (⭐81)](https://github.com/lennertVanSever/graphcountries)
+- API: [Graph Countries (⭐82)](https://github.com/lennertVanSever/graphcountries)
 
   Description: Country-related data like currencies, languages, flags, regions+subregions and bordering countries
 
@@ -66,8 +66,8 @@
 
 ### Dynamic Analysis / Code Coverage
 
-*   [Run Gofmt to check Golang code formatting (⭐11)](https://github.com/Jerome1337/gofmt-action)
-*   [Run Goimports to check Golang imports order (⭐3)](https://github.com/Jerome1337/goimports-action)
+*   [Run Gofmt to check Golang code formatting (⭐13)](https://github.com/Jerome1337/gofmt-action)
+*   [Run Goimports to check Golang imports order (⭐5)](https://github.com/Jerome1337/goimports-action)
 
 ## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -79,7 +79,7 @@
 
 ### Blazor / Themes
 
-*   [Blazorise (⭐2.9k)](https://github.com/stsrki/Blazorise) - AntDesign support for Blazorise and Blazor [Demo](https://antdesigndemo.blazorise.com/)
+*   [Blazorise (⭐3.3k)](https://github.com/stsrki/Blazorise) - AntDesign support for Blazorise and Blazor [Demo](https://antdesigndemo.blazorise.com/)
 
 ## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -92,16 +92,6 @@
 *   [Build a movie search app using the Vue Composition API](https://dev.to/blacksonic/build-a-movie-search-app-using-the-vue-composition-api-5218)
 *   [Vue Testing Crash Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl)
 
-### Resources / Examples
-
-*   [TodoMVC Vue 3 Composition API (⭐127)](https://github.com/blacksonic/todomvc-vue-composition-api) - A complete TodoMVC implementation in Vue 3 Composition API with components, store, unit e2e tests and linting.
-*   [TodoMVC Vue (⭐30)](https://github.com/blacksonic/todomvc-vue) - A complete TodoMVC implementation in Vue 2 with components, store, unit e2e tests and linting.
-*   [Movie search app with Composition API (⭐43)](https://github.com/blacksonic/movie-search-vue) - A movie search app implemented in Vue 2 with the Composition API plugin
-
-### Components & Libraries / UI Components
-
-*   [xmodal-vue (⭐5)](https://github.com/XeniacDev/xmodal) - 🚀 A simplistic and easy to use wrapper around your components that will help you create custom and dynamic modals, from your components.
-
 ## [9. Awesome Geojson](/content/tmcw/awesome-geojson/README.md)
 
 ### data
@@ -113,7 +103,7 @@
 ### Apps / Outline Processor Markup Language
 
 *   [Sismics Reader](https://www.sismics.com/reader/#!/home) ![Windows](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-windows-10-16.png)![Mac](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-mac-client-16.png)![Linux](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Linux.png)[![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=com.sismics.reader)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/sismics/reader)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
-*   [RSSOwlnix (⭐239)](https://github.com/Xyrio/RSSOwlnix) ![Linux](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Linux.png)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Xyrio/RSSOwlnix)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+*   [RSSOwlnix (⭐242)](https://github.com/Xyrio/RSSOwlnix) ![Linux](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Linux.png)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Xyrio/RSSOwlnix)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
 ### Podcast apps that will work with your custom RSS link / Crypto or Blockchain relevant
 
@@ -123,7 +113,7 @@
 
 ### 💖 Acknowledgement / Crypto or Blockchain relevant
 
-*   [Feed Readers @ Awesome-Selfhosted (⭐190k)](https://github.com/awesome-selfhosted/awesome-selfhosted#feed-readers)
+*   [Feed Readers @ Awesome-Selfhosted (⭐213k)](https://github.com/awesome-selfhosted/awesome-selfhosted#feed-readers)
 
 ### Telegram / Bot of RSS屋 (a Full Article Extractor Service)
 
@@ -137,7 +127,7 @@
 
 ### Aggregators of Podcasts / Podcast Navigation / Crypto or Blockchain relevant
 
-*   [Chinese-Podcasts (⭐1.9k)](https://github.com/alaskasquirrel/Chinese-Podcasts)
+*   [Chinese-Podcasts (⭐2k)](https://github.com/alaskasquirrel/Chinese-Podcasts)
 
 ### Discussion Forums / Crypto or Blockchain relevant
 

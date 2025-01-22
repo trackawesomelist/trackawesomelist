@@ -1,12 +1,18 @@
 # Awesome List Updates on Aug 16, 2020
 
-13 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Diversity](/content/folkswhocode/awesome-diversity/README.md)
+## [1. Awesome Wicket](/content/PhantomYdn/awesome-wicket/README.md)
+
+### Web Frameworks / WicketStuff
+
+*   [Vuecket (⭐30)](https://github.com/OrienteerBAP/vuecket) - Web Framework which integrates VueJS and Wicket and most natural way for both of them
+
+## [2. Awesome Diversity](/content/folkswhocode/awesome-diversity/README.md)
 
 ### Organizations
 
@@ -28,26 +34,26 @@
 *   [Wheelmap](https://wheelmap.org/) - The world's biggest crowdsourced and open database for wheelchair-accessible places.
 *   [WikiProject Women in Red](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Women_in_Red) - Increasing the representation of women on Wikipedia through biographies and articles of women’s achievements.
 
-## [2. Awesome React Native](/content/jondot/awesome-react-native/README.md)
+## [3. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
 ### UI
 
 *   [react-native-responsive-linechart ★41 (⭐190)](https://github.com/N1ghtly/react-native-responsive-linechart) - Draw Line and Area charts easily. Works responsively.
 
-## [3. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/README.md)
+## [4. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/README.md)
 
 ### Libraries Visualization
 
 *   [Cava (⭐3.1k)](https://github.com/karlstav/cava#latency-notes) - A cross-platform terminal visualizer.
 
-## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Browser-based hardware emulation written in Javascript
 
 *   [JsLinux](https://bellard.org/jslinux) — a really fast x86 virtual machine capable of running Linux and Windows 2k.
 *   [v86](https://copy.sh/v86) — an x86 virtual machine capable of running Linux and other OS directly into the browser.
 
-## [5. Awesome Tall Stack](/content/livewire/awesome-tall-stack/README.md)
+## [6. Awesome Tall Stack](/content/livewire/awesome-tall-stack/README.md)
 
 ### Libraries
 
@@ -61,19 +67,19 @@
 *   [Tailwind UI](https://tailwindui.com) - Beautiful UI components built with Tailwind CSS. Offers Alpine.js integration.
 *   [TALL Forms (⭐610)](https://github.com/tanthammar/tall-forms) - A dynamic, responsive Laravel Livewire form component with realtime validation, file uploads, array fields, blade form input components and more.
 
-## [6. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/README.md)
+## [7. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/README.md)
 
 ### AppImage developer tools / Deployment tools for .NET Core (Mono) applications
 
-*   [.NET Core AppImage example (⭐39)](https://github.com/ppy/osu-deploy/blob/697a49e9602502a2b7a899c0dff5383f6512d5d2/Program.cs#L207-L243) - Example of how to deploy .NET Core (Mono) applications as an AppImage using `dotnet publish -f netcoreapp3.1 -r linux-x64` from within a `.cs` program.
+*   [.NET Core AppImage example (⭐46)](https://github.com/ppy/osu-deploy/blob/697a49e9602502a2b7a899c0dff5383f6512d5d2/Program.cs#L207-L243) - Example of how to deploy .NET Core (Mono) applications as an AppImage using `dotnet publish -f netcoreapp3.1 -r linux-x64` from within a `.cs` program.
 
-## [7. Js Must Watch](/content/bolshchikov/js-must-watch/README.md)
+## [8. Js Must Watch](/content/bolshchikov/js-must-watch/README.md)
 
 ### 2017
 
 *   [Franziska Hinkelmann: **JavaScript engines - how do they even?**](https://www.youtube.com/watch?v=p-iiEDtpy6I) \[25:13]
 
-## [8. Awesome Security](/content/sbilly/awesome-security/README.md)
+## [9. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Network / Scanning / Pentesting
 
@@ -87,19 +93,19 @@
 
 *   [Rekall (⭐1.9k)](https://github.com/google/rekall) - The Rekall Framework is a completely open collection of tools, implemented in Python under the Apache and GNU General Public License, for the extraction and analysis of digital artifacts computer systems.
 
-## [9. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [10. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Database
 
 *   [sled](https://crates.io/crates/sled) - A (beta) modern embedded database [![Build Status](https://github.com/spacejam/sled/workflows/Rust/badge.svg?branch=master)](https://github.com/spacejam/sled/actions?workflow=Rust)
 
-## [10. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
+## [11. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
 ### Security / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
 *   [awesome security (⭐9k)](https://github.com/sbilly/awesome-security) - Software, libraries, documents, books, resources and cool stuff about security.
 
-## [11. Awesome Social Enterprise](/content/RayBB/awesome-social-enterprise/README.md)
+## [12. Awesome Social Enterprise](/content/RayBB/awesome-social-enterprise/README.md)
 
 ### News 📰 / Finding Articles
 
@@ -118,25 +124,17 @@
     *   Introduction to Social Entrepreneurship by Teresa Chahine
     *   Educating at Scale for Sustainable Development and Social Enterprise Growth by Sara Calvo
 
-## [12. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [13. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Wikis
 
-*   [Zim](https://zim-wiki.org/) - Graphical text editor used to maintain a collection of wiki pages. Each page can contain links to other pages, simple formatting and images. ([Source Code (⭐1.9k)](https://github.com/zim-desktop-wiki/zim-desktop-wiki)) `GPL-2.0` `Python/deb`
+*   [Zim](https://zim-wiki.org/) - Graphical text editor used to maintain a collection of wiki pages. Each page can contain links to other pages, simple formatting and images. ([Source Code (⭐2k)](https://github.com/zim-desktop-wiki/zim-desktop-wiki)) `GPL-2.0` `Python/deb`
 
-## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / Integrations
-
-*   [Vuecket (⭐32)](https://github.com/OrienteerBAP/vuecket) - WebFramework where power of Vue.JS married with magic of [Apache Wicket](https://wicket.apache.org/)
+## [14. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Projects Using Vue.js / Apps/Websites
 
 *   [U Can Stock](https://www.ucanstock.com/) - U.S. stock market information platform for Korean. It's built with Vue, Vuex, Vuetify, Nuxt and Firebase.
-
-### Components & Libraries / UI Utilities
-
-*   [vue-routisan (⭐203)](https://github.com/mikerockett/vue-routisan) - Elegant, fluent route definitions for Vue Router, inspired by Laravel.
 
 ---
 

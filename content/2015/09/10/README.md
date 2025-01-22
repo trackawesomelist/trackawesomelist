@@ -107,28 +107,28 @@
 
 ## [4. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
 
-### Programming
+### Programming / Commerical Tools
 
 *   [Python Tools for Machine Learning](https://www.cbinsights.com/blog/python-tools-machine-learning/)
 *   [Python for Artificial Intelligence](https://wiki.python.org/moin/PythonForArtificialIntelligence)
 
-### Code
+### Code / Commerical Tools
 
 *   [FANN](http://leenissen.dk/fann/wp/) - Fast Artificial Neural Network Library, native for C
 
-### Learning
+### Learning / Commerical Tools
 
 *   [Getting Started with Deep Learning and Python](http://www.pyimagesearch.com/2014/09/22/getting-started-deep-learning-python/)
 *   [Machine Learning Mastery](http://machinelearningmastery.com/)
-*   [Awesome Machine Learning (⭐63k)](https://github.com/josephmisiti/awesome-machine-learning) - Like this Github, but ML-focused
+*   [Awesome Machine Learning (⭐67k)](https://github.com/josephmisiti/awesome-machine-learning) - Like this Github, but ML-focused
 *   [FastML](http://fastml.com/)
 
-### Organizations
+### Organizations / Commerical Tools
 
 *   [IEEE Computational Intelligence Society](http://cis.ieee.org/)
 *   [Machine Intelligence Research Institute](https://intelligence.org/research-guide/)
 
-### Journals
+### Journals / Commerical Tools
 
 *   [AI & Society](http://www.springer.com/journal/146)
 *   [Applicable Algebra in Engineering, Communication and Computing](http://www.springer.com/journal/200)

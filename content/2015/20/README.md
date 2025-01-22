@@ -11,7 +11,7 @@
 ### Algorithms and Data structures
 
 *   [cuid (⭐55)](https://github.com/duailibe/cuid) - Collision-resistant ids optimized for horizontal scaling and sequential lookup performance, written in Elixir.
-*   [elistrix (⭐17)](https://github.com/tobz/elistrix) - A latency / fault tolerance library to help isolate your applications from an uncertain world of slow or failed services.
+*   [elistrix (⭐18)](https://github.com/tobz/elistrix) - A latency / fault tolerance library to help isolate your applications from an uncertain world of slow or failed services.
 *   [natural\_sort (⭐14)](https://github.com/DanCouper/natural_sort) - Elixir natural sort implementation for lists of strings.
 
 ### Build Tools
@@ -29,14 +29,14 @@
 ### Framework Components
 
 *   [passport (⭐160)](https://github.com/opendrops/passport) - Passport provides authentication for Phoenix applications.
-*   [phoenix\_html (⭐394)](https://github.com/phoenixframework/phoenix_html) - Phoenix.HTML functions for working with HTML strings and templates.
+*   [phoenix\_html (⭐416)](https://github.com/phoenixframework/phoenix_html) - Phoenix.HTML functions for working with HTML strings and templates.
 *   [plug\_cloudflare (⭐23)](https://github.com/c-rack/plug_cloudflare) - Inspired by mod\_cloudflare, this Elixir plug parses Cloudflares CF-Connecting-IP HTTP request header into Plug.Conn's remote\_ip field.
 *   [resin (⭐4)](https://github.com/Frost/resin) - Resin is a plug that will add a configurable delay to every request that's passing through it, unless run in production.
 
 ### HTTP
 
-*   [elli (⭐663)](https://github.com/knutin/elli) - Elli is a webserver you can run inside your Erlang application to expose an HTTP API.
-*   [web\_socket (⭐61)](https://github.com/slogsdon/plug-web-socket) - An exploration into a stand-alone library for Plug applications to easily adopt WebSockets.
+*   [elli (⭐662)](https://github.com/knutin/elli) - Elli is a webserver you can run inside your Erlang application to expose an HTTP API.
+*   [web\_socket (⭐63)](https://github.com/slogsdon/plug-web-socket) - An exploration into a stand-alone library for Plug applications to easily adopt WebSockets.
 
 ### JSON
 
@@ -69,7 +69,7 @@
 
 *   [ecto\_validation\_case (⭐11)](https://github.com/danielberkompas/ecto_validation_case) - Simplify your Ecto model validation tests. Loosely inspired by shoulda matchers, but simpler.
 *   [exseed (⭐17)](https://github.com/seaneshbaugh/exseed) - An Elixir library that provides a simple DSL for seeding databases through Ecto.
-*   [rethinkdb (⭐498)](https://github.com/hamiltop/rethinkdb-elixir) - Rethinkdb client in pure Elixir using JSON protocol.
+*   [rethinkdb (⭐496)](https://github.com/hamiltop/rethinkdb-elixir) - Rethinkdb client in pure Elixir using JSON protocol.
 
 ### Queue
 
@@ -81,8 +81,8 @@
 
 ### Testing
 
-*   [espec\_phoenix (⭐137)](https://github.com/antonmi/espec_phoenix) - ESpec for Phoenix web framework.
-*   [mix\_test\_watch (⭐909)](https://github.com/lpil/mix-test.watch) - Automatically run your Elixir project's tests each time you save a file.
+*   [espec\_phoenix (⭐138)](https://github.com/antonmi/espec_phoenix) - ESpec for Phoenix web framework.
+*   [mix\_test\_watch (⭐929)](https://github.com/lpil/mix-test.watch) - Automatically run your Elixir project's tests each time you save a file.
 
 ### Text and Numbers
 
@@ -94,10 +94,10 @@
 
 *   [docker (⭐25)](https://github.com/hexedpackets/docker-elixir) - Elixir client for the Docker Remote API.
 *   [mailchimp (⭐48)](https://github.com/duartejc/mailchimp) - A basic Elixir wrapper for version 3 of the MailChimp API.
-*   [marvel (⭐8)](https://github.com/bryanjos/marvel) - CLI and Elixir API Client for the Marvel API.
+*   [marvel (⭐10)](https://github.com/bryanjos/marvel) - CLI and Elixir API Client for the Marvel API.
 *   [redtube (⭐8)](https://github.com/kkirsche/Redtube_Elixir) - Redtube API Wrapper written in Elixir.
 *   [riemann (⭐57)](https://github.com/koudelka/elixir-riemann) - A [Riemann](http://riemann.io/) client for Elixir.
-*   [statix (⭐275)](https://github.com/lexmag/statix) - Expose app metrics in the StatsD protocol.
+*   [statix (⭐277)](https://github.com/lexmag/statix) - Expose app metrics in the StatsD protocol.
 
 ### Validations
 
@@ -501,7 +501,7 @@
 ### Packages / Weird
 
 *   [superheroes (⭐233)](https://github.com/sindresorhus/superheroes) - Get superhero names.
-*   [supervillains (⭐117)](https://github.com/sindresorhus/supervillains) - Get supervillain names.
+*   [supervillains (⭐118)](https://github.com/sindresorhus/supervillains) - Get supervillain names.
 
 ## [20. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 

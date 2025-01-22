@@ -1,6 +1,6 @@
 # Awesome List Updates on May 07, 2017
 
-6 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -33,17 +33,7 @@
 
 *   [Rethinking Form Development](https://stovepipe.systems/post/rethinking-form-development) \[2016]
 
-## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Resources / Podcasts
-
-*   [MW S04E08 - Vue.js with Evan You and Sarah Drasner (04-27-2017)](https://modernweb.podbean.com/e/mw-s04e09-evan-yu-sarah-drasner/)
-
-### Components & Libraries / Utilities
-
-*   [vue-inject (⭐185)](https://github.com/jpex-js/vue-inject) - Dependency injection for Vue 2.x Components
-
-## [5. Awesome Linux](/content/inputsh/awesome-linux/README.md)
+## [4. Awesome Linux](/content/inputsh/awesome-linux/README.md)
 
 ### GUI-based Applications / GNOME-based
 
@@ -74,7 +64,7 @@
 *   [vim](http://vim.org) - Advanced text editor that seeks to provide the power of the de-facto Unix editor 'Vi', with a more complete feature set.
 *   [wavemon (⭐701)](https://github.com/uoaerg/wavemon) - Monitoring application for wireless network devices.
 
-## [6. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
+## [5. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
 
 ### Drawing / Others
 

@@ -10,7 +10,7 @@
 
 ### Dependency Injection
 
-*   [DIKit (⭐101)](https://github.com/Liftric/DIKit) - Dependency Injection Framework for Swift, inspired by KOIN.
+*   [DIKit (⭐102)](https://github.com/Liftric/DIKit) - Dependency Injection Framework for Swift, inspired by KOIN.
 
 ### Quality / Barcode
 
@@ -42,7 +42,7 @@
 
 ### Monetization / Preferences
 
-*   [Admob Flutter (⭐433)](https://github.com/kmcgill88/admob_flutter) - Admob plugin that shows banner ads using native platform views by [Youssef Kababe](https://github.com/YoussefKababe) & [Kevin McGill](https://github.com/kmcgill88).
+*   [Admob Flutter (⭐435)](https://github.com/kmcgill88/admob_flutter) - Admob plugin that shows banner ads using native platform views by [Youssef Kababe](https://github.com/YoussefKababe) & [Kevin McGill](https://github.com/kmcgill88).
 
 ## [6. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
 
@@ -93,7 +93,7 @@
 ### Other libraries and tools / Mesh tools
 
 *   [PyWavelets](https://pywavelets.readthedocs.io/en/latest/) - Wavelet transforms in Python.
-    (Python, MIT, [GitHub (⭐1.9k)](https://github.com/PyWavelets/pywt))
+    (Python, MIT, [GitHub (⭐2.1k)](https://github.com/PyWavelets/pywt))
 
 ## [12. Awesome Saltstack](/content/hbokh/awesome-saltstack/README.md)
 
@@ -127,17 +127,17 @@
 
 ### Official Links / PGF/TikZ
 
-*   [SourceForge (⭐822)](https://github.com/pgf-tikz/pgf) - Code, releases, support and bug reports.
+*   [SourceForge (⭐1.1k)](https://github.com/pgf-tikz/pgf) - Code, releases, support and bug reports.
 
 ### Gallery / PGFPlots
 
-*   [LatexDiagrams (⭐145)](https://github.com/FriendlyUser/LatexDiagrams) - This repo contains many diagrams generated for academic usage, including Algorithms-Data Structures, Artificial Intelligence, BlogDiagrams, DSP, Engineering Software Design, etc.
-*   [tikz-network (⭐285)](https://github.com/hackl/tikz-network) - A tool to visualize complex networks in LaTeX.
+*   [LatexDiagrams (⭐190)](https://github.com/FriendlyUser/LatexDiagrams) - This repo contains many diagrams generated for academic usage, including Algorithms-Data Structures, Artificial Intelligence, BlogDiagrams, DSP, Engineering Software Design, etc.
+*   [tikz-network (⭐326)](https://github.com/hackl/tikz-network) - A tool to visualize complex networks in LaTeX.
 
 ### Tools / PGFPlots
 
-*   [PlotNeuralNet (⭐18k)](https://github.com/HarisIqbal88/PlotNeuralNet) - Latex code for making neural networks diagrams
-*   [awesome-latex-drawing (⭐913)](https://github.com/xinychen/awesome-latex-drawing) - Drawing Bayesian networks, graphical models, and technical frameworks in LaTeX.
+*   [PlotNeuralNet (⭐22k)](https://github.com/HarisIqbal88/PlotNeuralNet) - Latex code for making neural networks diagrams
+*   [awesome-latex-drawing (⭐1.3k)](https://github.com/xinychen/awesome-latex-drawing) - Drawing Bayesian networks, graphical models, and technical frameworks in LaTeX.
 
 ## [15. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

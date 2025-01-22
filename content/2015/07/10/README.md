@@ -16,7 +16,7 @@
 
 ### GUI
 
-*   [Fluent.Ribbon (⭐2.5k)](https://github.com/fluentribbon/Fluent.Ribbon) - Fluent Ribbon Control Suite is a library that implements an Office- and Windows 8-like Ribbon for WPF.
+*   [Fluent.Ribbon (⭐2.6k)](https://github.com/fluentribbon/Fluent.Ribbon) - Fluent Ribbon Control Suite is a library that implements an Office- and Windows 8-like Ribbon for WPF.
 
 ## [3. Amas](/content/sindresorhus/amas/README.md)
 

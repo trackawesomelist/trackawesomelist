@@ -11,11 +11,11 @@
 ### Projects / Puzzles and Games
 
 *   [Coqoban (⭐21)](https://github.com/coq-community/coqoban) - Coq implementation of Sokoban, the Japanese warehouse keepers' game.
-*   [Hanoi (⭐23)](https://github.com/thery/hanoi) - The Tower of Hanoi puzzle in Coq, including generalizations and theorems about configurations.
+*   [Hanoi (⭐24)](https://github.com/thery/hanoi) - The Tower of Hanoi puzzle in Coq, including generalizations and theorems about configurations.
 *   [Mini-Rubik (⭐4)](https://github.com/thery/minirubik) - Coq formalization and solver of the 2x2x2 version of the Rubik's Cube puzzle.
-*   [Name the Biggest Number (⭐62)](https://github.com/codyroux/name-the-biggest-number) - Repository for submitting proven contenders for the title of biggest number in Coq.
+*   [Name the Biggest Number (⭐63)](https://github.com/codyroux/name-the-biggest-number) - Repository for submitting proven contenders for the title of biggest number in Coq.
 *   [Natural Number Game (⭐6)](https://github.com/uncomputable/natural-number-game) - Coq version of the natural number game developed for the Lean prover.
-*   [Sudoku (⭐21)](https://github.com/coq-community/sudoku) - Formalization and solver of the Sudoku number-placement puzzle in Coq.
+*   [Sudoku (⭐20)](https://github.com/coq-community/sudoku) - Formalization and solver of the Sudoku number-placement puzzle in Coq.
 *   [T2048 (⭐22)](https://github.com/thery/T2048) - Coq version of the 2048 sliding tile game.
 
 ## [2. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
@@ -40,7 +40,7 @@
 
 ### Editor plugins / VS Code
 
-*   [vscode-vlang (⭐386)](https://github.com/vlang/vscode-vlang) - V Language extension for Visual Studio Code.
+*   [vscode-vlang (⭐388)](https://github.com/vlang/vscode-vlang) - V Language extension for Visual Studio Code.
 
 ### Online IDEs with V / Vim
 
@@ -49,7 +49,7 @@
 
 ### Programming contests / Vim
 
-*   [Advent of Code 2022 (⭐33)](https://github.com/vlang/adventofcode) - Solution of Advent of Code 2022 in V.
+*   [Advent of Code 2022 (⭐43)](https://github.com/vlang/adventofcode) - Solution of Advent of Code 2022 in V.
 
 ## [6. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
@@ -69,13 +69,13 @@
 
 ### Shells / On Host
 
-*   [mpbridge (⭐43)](https://github.com/AmirHmZz/mpbridge) - A file system bridge to synchronize and manage files on a device running MicroPython.
+*   [mpbridge (⭐52)](https://github.com/AmirHmZz/mpbridge) - A file system bridge to synchronize and manage files on a device running MicroPython.
 
 ## [7. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### GraphQL
 
-*   [ZeroQL (⭐255)](https://github.com/byme8/ZeroQL) - high-performance C#-friendly GraphQL client. It supports Linq-like syntax. It doesn't require Reflection.Emit or expressions. As a result, the runtime provides performance very close to a raw HTTP call.
+*   [ZeroQL (⭐283)](https://github.com/byme8/ZeroQL) - high-performance C#-friendly GraphQL client. It supports Linq-like syntax. It doesn't require Reflection.Emit or expressions. As a result, the runtime provides performance very close to a raw HTTP call.
 
 ## [8. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
 
@@ -105,15 +105,15 @@
 
 ### Note Taking / Diagnostics
 
-*   [RutaTang/quicknote.nvim (⭐119)](https://github.com/RutaTang/quicknote.nvim) - Quickly take notes, in-place.
+*   [RutaTang/quicknote.nvim (⭐129)](https://github.com/RutaTang/quicknote.nvim) - Quickly take notes, in-place.
 
 ### Terminal Integration / Diagnostics
 
-*   [idanarye/nvim-channelot (⭐6)](https://github.com/idanarye/nvim-channelot) - Operate Neovim jobs from Lua coroutines.
+*   [idanarye/nvim-channelot (⭐7)](https://github.com/idanarye/nvim-channelot) - Operate Neovim jobs from Lua coroutines.
 
 ### Code Runner / Diagnostics
 
-*   [idanarye/nvim-moonicipal (⭐15)](https://github.com/idanarye/nvim-moonicipal) - Task runner with focus on rapidly changing personal tasks.
+*   [idanarye/nvim-moonicipal (⭐18)](https://github.com/idanarye/nvim-moonicipal) - Task runner with focus on rapidly changing personal tasks.
 
 ## [11. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
@@ -125,7 +125,7 @@
 
 ### CI/CD
 
-*   [Depot](https://depot.dev) - Drop-in replacement to build Docker images faster in CI.
+*   [Depot](https://depot.dev) - Drop-in replacement to build Docker images faster in CI. [![featured on launchweek.dev](https://img.shields.io/badge/featured-0D1117.svg?style=flat-square\&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMzYwIiBoZWlnaHQ9IjM2MCIgdmlld0JveD0iMCAwIDM2MCAzNjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+IDxyZWN0IHdpZHRoPSI2MCIgaGVpZ2h0PSIzMDAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjYwIiB5PSIzMDAiIHdpZHRoPSIxMjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjI0MCIgeT0iMzAwIiB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjMwMCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjMwMCIgZmlsbD0id2hpdGUiLz4gPHJlY3QgeD0iMTgwIiB3aWR0aD0iNjAiIGhlaWdodD0iMzAwIiBmaWxsPSJ3aGl0ZSIvPiA8L3N2Zz4=)](https://launchweek.dev)
 
 ---
 

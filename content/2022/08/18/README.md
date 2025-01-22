@@ -10,7 +10,7 @@
 
 ### Related Awesome Lists / Deforum
 
-*   \[🔥] [amrzv/awesome-colab-notebooks (⭐1.3k)](https://github.com/amrzv/awesome-colab-notebooks): Collection of google colaboratory notebooks for fast and easy experiments
+*   \[🔥] [amrzv/awesome-colab-notebooks (⭐1.4k)](https://github.com/amrzv/awesome-colab-notebooks): Collection of google colaboratory notebooks for fast and easy experiments
 
 ## [2. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
@@ -22,7 +22,7 @@
 
 ### Debugging / Diagnostics
 
-*   [ofirgall/goto-breakpoints.nvim (⭐29)](https://github.com/ofirgall/goto-breakpoints.nvim) - Cycle between breakpoints for nvim-dap.
+*   [ofirgall/goto-breakpoints.nvim (⭐30)](https://github.com/ofirgall/goto-breakpoints.nvim) - Cycle between breakpoints for nvim-dap.
 
 ## [4. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
 
@@ -38,7 +38,7 @@
 
 ## [6. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
-### Books / Book Deals (Affiliated) 🛍
+### Books / Book Deals (Affiliated)
 
 *   [eBook sale - Save up to 45% on eBooks!](https://www.manning.com/?utm_source=mikrobusiness\&utm_medium=affiliate\&utm_campaign=ebook_sale_8_8_22)
 *   [Causal Machine Learning](https://www.manning.com/books/causal-machine-learning?utm_source=mikrobusiness\&utm_medium=affiliate\&utm_campaign=book_ness_causal_7_26_22\&a_aid=mikrobusiness\&a_bid=43a2198b)
@@ -55,8 +55,8 @@
 
 ### Software / Software Development - Low Code
 
-*   [Appsmith](https://www.appsmith.com/) - Cloud or self-hosted open-source platform to build admin panels, CRUD apps and workflows. Build everything you need, 10x faster. ([Source Code (⭐33k)](https://github.com/appsmithorg/appsmith)) `Apache-2.0` `Java/Docker/K8S`
-*   [ToolJet](https://tooljet.io/) - Low-code framework to build & deploy internal tools with minimal engineering effort (alternative to Retool & Mendix). ([Source Code (⭐29k)](https://github.com/ToolJet/ToolJet)) `GPL-3.0` `Nodejs/Docker/K8S`
+*   [Appsmith](https://www.appsmith.com/) - Cloud or self-hosted open-source platform to build admin panels, CRUD apps and workflows. Build everything you need, 10x faster. ([Source Code (⭐35k)](https://github.com/appsmithorg/appsmith)) `Apache-2.0` `Java/Docker/K8S`
+*   [ToolJet](https://tooljet.io/) - Low-code framework to build & deploy internal tools with minimal engineering effort (alternative to Retool & Mendix). ([Source Code (⭐34k)](https://github.com/ToolJet/ToolJet)) `GPL-3.0` `Nodejs/Docker/K8S`
 
 ## [9. Awesome Cyber Security University](/content/brootware/awesome-cyber-security-university/README.md)
 
@@ -86,7 +86,7 @@
 
 ### PowerShell / Symfony2
 
-*   [Pode (⭐826)](https://github.com/Badgerati/Pode) - Pode is an cross-platform, open-source, community-supported web server and REST API framework for PowerShell developers
+*   [Pode (⭐893)](https://github.com/Badgerati/Pode) - Pode is an cross-platform, open-source, community-supported web server and REST API framework for PowerShell developers
 
 ## [13. Game Datasets](/content/leomaurodesenv/game-datasets/README.md)
 
@@ -110,7 +110,6 @@
 
 *   [Daily Game Companies Historical Stock Price](https://www.kaggle.com/datasets/psycon/game-companies-historical-stock-price-2022-04) - Game Companies Historical Stock Price 08.2022.
 *   [Steam Store Games](https://www.kaggle.com/datasets/nikdavis/steam-store-games) - Information about 27,000 games scraped from Steam and SteamSpy APIs.
-*   [Video Game Sales](https://www.kaggle.com/gregorut/videogamesales) - Sales data from games.
 
 ---
 

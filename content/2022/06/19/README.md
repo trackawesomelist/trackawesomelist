@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 19, 2022
 
-9 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,7 +16,7 @@
 
 ### Libraries / Python
 
-*   [Scapy (⭐9.9k)](https://github.com/secdev/scapy) - Packet manipulation program & library. Scapy has a [module (⭐9.9k)](https://github.com/secdev/scapy/blob/master/scapy/layers/snmp.py) to build/dissect SNMP packets. ![GitHub last commit](https://img.shields.io/github/last-commit/secdev/scapy)
+*   [Scapy (⭐11k)](https://github.com/secdev/scapy) - Packet manipulation program & library. Scapy has a [module (⭐11k)](https://github.com/secdev/scapy/blob/master/scapy/layers/snmp.py) to build/dissect SNMP packets. ![GitHub last commit](https://img.shields.io/github/last-commit/secdev/scapy)
 
 ## [3. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
 
@@ -30,36 +30,24 @@
 
 *   [Emoji picker (⭐16)](https://github.com/devnoname120/alfred-emoji-picker) - Fast emoji input.
 
-## [5. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
-
-### Development / Engines
-
-*   [Ethereal Engine (⭐703)](https://github.com/XRFoundation/XREngine) - A full stack MMO engine built on three.js and bitECS with support for WebXR.
-
-## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / UI Utilities
-
-*   [v-on-page-video (⭐3)](https://github.com/mahdikhashan/v-on-page-video) - Vue.js directive to change the state of a Video element on visibility change
-
-## [7. Awesome Playwright](/content/mxschmitt/awesome-playwright/README.md)
+## [5. Awesome Playwright](/content/mxschmitt/awesome-playwright/README.md)
 
 ### Utils
 
 *   [Playwright Test for VSCode](https://marketplace.visualstudio.com/items?itemName=ms-playwright.playwright) - Official Playwright test extension for VS Code.
 *   [Maestro for IntelliJ](https://plugins.jetbrains.com/plugin/18100-maestro) - Playwright plugin for IntelliJ.
 
-## [8. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
+## [6. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / Health and Fitness
 
-*   [WorkoutTracker (⭐81)](https://github.com/jerichoi224/WorkoutTracker) - A Flutter app to help you keep track of workout sessions by [Daniel Choi](https://github.com/jerichoi224).
+*   [WorkoutTracker (⭐90)](https://github.com/jerichoi224/WorkoutTracker) - A Flutter app to help you keep track of workout sessions by [Daniel Choi](https://github.com/jerichoi224).
 
 ### Contents / Media
 
-*   [MovieLab (⭐383)](https://github.com/ErfanRht/MovieLab) - A useful and modern movie database app by [Erfan Rahmati](https://github.com/ErfanRht).
+*   [MovieLab (⭐413)](https://github.com/ErfanRht/MovieLab) - A useful and modern movie database app by [Erfan Rahmati](https://github.com/ErfanRht).
 
-## [9. Awesome Esp](/content/agucova/awesome-esp/README.md)
+## [7. Awesome Esp](/content/agucova/awesome-esp/README.md)
 
 ### Firmware
 

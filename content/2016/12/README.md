@@ -10,7 +10,7 @@
 
 ### Misc
 
-*   [immutable (⭐203)](https://github.com/lucaong/immutable) - Implementation of thread-safe, persistent, immutable collections
+*   [immutable (⭐201)](https://github.com/lucaong/immutable) - Implementation of thread-safe, persistent, immutable collections
 
 ### Testing
 
@@ -101,7 +101,7 @@
 
 ### Tools / Reverse Engineering
 
-*   [Smali/Baksmali (⭐6.3k)](https://github.com/JesusFreke/smali) – apk decompilation
+*   [Smali/Baksmali (⭐6.4k)](https://github.com/JesusFreke/smali) – apk decompilation
 
 ## [6. Awesome Haskell](/content/krispo/awesome-haskell/week/README.md)
 
@@ -150,7 +150,7 @@
 
 ### Related lists
 
-*   [Awesome Music Production (⭐939)](https://github.com/adius/awesome-music-production) - A curated list of software and resources to create music.
+*   [Awesome Music Production (⭐1.1k)](https://github.com/adius/awesome-music-production) - A curated list of software and resources to create music.
 
 ## [8. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
 
@@ -176,14 +176,9 @@
 
 ## [11. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
-### Job boards
-
-*   [Landing.jobs](https://landing.jobs/offers) filter -> Remote only
-
 ### Companies with "remote DNA"
 
 *   [Automattic](https://automattic.com/work-with-us/) - Makers of WordPress.com and Gravatar.
-*   [Datadog](https://www.datadoghq.com/careers/) - Easy to use and scalable monitoring systems for modern and dynamic infrastructure.  Distributed team with offices in New York, Boston and Paris.  Engineers based all around the world.
 
 ## [12. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
@@ -571,13 +566,13 @@
 
 ### Configuration / Infrastructure
 
-*   [php-pm (⭐6.5k)](https://github.com/php-pm/php-pm) - A process manager, supercharger and load balancer for PHP applications.
+*   [php-pm (⭐6.6k)](https://github.com/php-pm/php-pm) - A process manager, supercharger and load balancer for PHP applications.
 
 ## [21. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
 ### Tools / Administration
 
-*   [mongodb-tools (⭐296)](https://github.com/jwilder/mongodb-tools) - Three neat Python scripts to work with collections and indexes
+*   [mongodb-tools (⭐295)](https://github.com/jwilder/mongodb-tools) - Three neat Python scripts to work with collections and indexes
 
 ## [22. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
@@ -641,7 +636,7 @@
 
 ### Testing
 
-*   [ex\_unit\_notifier (⭐127)](https://github.com/navinpeiris/ex_unit_notifier) - Desktop notifications for ExUnit.
+*   [ex\_unit\_notifier (⭐130)](https://github.com/navinpeiris/ex_unit_notifier) - Desktop notifications for ExUnit.
 
 ---
 

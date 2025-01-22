@@ -34,13 +34,13 @@
 
 ### Misc
 
-*   [Guard (⭐713)](https://github.com/safakgur/guard) - A high-performance, extensible argument validation library.
+*   [Guard (⭐711)](https://github.com/safakgur/guard) - A high-performance, extensible argument validation library.
 
 ## [6. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 
 ### Libraries / Lenses
 
-*   [shades (⭐411)](https://github.com/jamesmcnamara/shades) – A lodash-inspired lens-like library for Javascript.
+*   [shades (⭐414)](https://github.com/jamesmcnamara/shades) – A lodash-inspired lens-like library for Javascript.
 
 ### Functional Languages that Compile to JavaScript / Lenses
 
@@ -50,7 +50,7 @@
 
 ### CSV / Third-party APIs
 
-*   [cl-decimals (⭐20)](https://github.com/tlikonen/cl-decimals) - Decimal number parser and formatter. Public domain.
+*   [cl-decimals (⭐21)](https://github.com/tlikonen/cl-decimals) - Decimal number parser and formatter. Public domain.
 
 ## [8. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
@@ -129,28 +129,28 @@
 
 ### Packages / Command-line apps
 
-*   [cash-cli (⭐229)](https://github.com/xxczaki/cash-cli) - Convert between 170 currencies.
-*   [discharge (⭐633)](https://github.com/brandonweiss/discharge) - Easily deploy static websites to Amazon S3.
+*   [cash-cli (⭐236)](https://github.com/xxczaki/cash-cli) - Convert between 170 currencies.
+*   [discharge (⭐643)](https://github.com/brandonweiss/discharge) - Easily deploy static websites to Amazon S3.
 
 ### Packages / Debugging / Profiling
 
-*   [llnode (⭐1.1k)](https://github.com/nodejs/llnode) - Post-mortem analysis tool which allows you to inspect objects and get insights from a crashed Node.js process.
+*   [llnode (⭐1.2k)](https://github.com/nodejs/llnode) - Post-mortem analysis tool which allows you to inspect objects and get insights from a crashed Node.js process.
 
 ### Packages / Command-line utilities
 
-*   [Cliffy (⭐356)](https://github.com/drew-y/cliffy) - Framework for interactive CLIs.
+*   [Cliffy (⭐359)](https://github.com/drew-y/cliffy) - Framework for interactive CLIs.
 
 ### Packages / Real-time
 
-*   [rpc-websockets (⭐582)](https://github.com/elpheria/rpc-websockets) - JSON-RPC 2.0 implementation over WebSockets.
+*   [rpc-websockets (⭐594)](https://github.com/elpheria/rpc-websockets) - JSON-RPC 2.0 implementation over WebSockets.
 
 ### Packages / Security
 
-*   [themis (⭐1.8k)](https://github.com/cossacklabs/themis) - Multilanguage framework for making typical encryption schemes easy to use: data at rest, authenticated data exchange, transport protection, authentication, and so on.
+*   [themis (⭐1.9k)](https://github.com/cossacklabs/themis) - Multilanguage framework for making typical encryption schemes easy to use: data at rest, authenticated data exchange, transport protection, authentication, and so on.
 
 ### Packages / Authorization
 
-*   [node-casbin (⭐2.5k)](https://github.com/casbin/node-casbin) - Authorization library that supports access control models like ACL, RBAC and ABAC.
+*   [node-casbin (⭐2.6k)](https://github.com/casbin/node-casbin) - Authorization library that supports access control models like ACL, RBAC and ABAC.
 
 ## [11. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 

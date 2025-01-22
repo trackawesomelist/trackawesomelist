@@ -38,7 +38,7 @@
 
 ### Customization
 
-*   [aphrodite-terminal-theme (⭐132)](https://github.com/win0err/aphrodite-terminal-theme) - Minimalistic theme (prompt) for sexy terminals.
+*   [aphrodite-terminal-theme (⭐142)](https://github.com/win0err/aphrodite-terminal-theme) - Minimalistic theme (prompt) for sexy terminals.
 
 ---
 

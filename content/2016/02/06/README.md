@@ -10,13 +10,13 @@
 
 ### Free fonts / Fonts
 
-*   [SansBullshitSans (⭐282)](https://github.com/RoelN/SansBullshitSans)
+*   [SansBullshitSans (⭐304)](https://github.com/RoelN/SansBullshitSans)
 
 ## [2. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Misc
 
-*   [aasm.cr (⭐51)](https://github.com/veelenga/aasm.cr) - Easy to use finite state machine for Crystal classes
+*   [aasm.cr (⭐52)](https://github.com/veelenga/aasm.cr) - Easy to use finite state machine for Crystal classes
 
 ## [3. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
@@ -100,7 +100,7 @@
 
 ### Concurrency
 
-*   [libcds (⭐2.5k)](https://github.com/khizmax/libcds) - A C++ library of Concurrent Data Structures. \[BSD]
+*   [libcds (⭐2.6k)](https://github.com/khizmax/libcds) - A C++ library of Concurrent Data Structures. \[BSD]
 
 ## [11. Awesome Katas](/content/gamontal/awesome-katas/README.md)
 

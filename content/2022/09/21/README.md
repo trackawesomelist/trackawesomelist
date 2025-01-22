@@ -30,15 +30,15 @@
 
 ### Command-Line Tools / Discovery
 
-*   [manix (⭐344)](https://github.com/mlvzk/manix) - Find configuration options and function documentation for Nixpkgs, NixOS, and Home Manager.
+*   [manix (⭐366)](https://github.com/mlvzk/manix) - Find configuration options and function documentation for Nixpkgs, NixOS, and Home Manager.
 
 ### Development / Discovery
 
-*   [flake.parts (⭐709)](https://github.com/hercules-ci/flake-parts) - Minimal Nix modules framework for Flakes: split your flakes into modules and get things done with community modules.
+*   [flake.parts (⭐809)](https://github.com/hercules-ci/flake-parts) - Minimal Nix modules framework for Flakes: split your flakes into modules and get things done with community modules.
 
 ### Programming Languages / Haskell
 
-*   [haskell-flake (⭐134)](https://github.com/srid/haskell-flake) - A `flake-parts` Nix module for Haskell development.
+*   [haskell-flake (⭐166)](https://github.com/srid/haskell-flake) - A `flake-parts` Nix module for Haskell development.
 
 ## [4. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
@@ -58,7 +58,7 @@
 
 ### Software / Bookmarks and Link Sharing
 
-*   [Briefkasten (⭐856)](https://github.com/ndom91/briefkasten) - Modern app for saving and managing your own bookmarks. Includes a browser extension. ([Demo](https://briefkastenhq.com/auth/signin)) `MIT` `Nodejs/Docker`
+*   [Briefkasten (⭐966)](https://github.com/ndom91/briefkasten) - Modern app for saving and managing your own bookmarks. Includes a browser extension. ([Demo](https://briefkastenhq.com/auth/signin)) `MIT` `Nodejs/Docker`
 
 ### Software / File Transfer - Web-based File Managers
 
@@ -66,7 +66,7 @@
 
 ### Software / Games
 
-*   [Posio (⭐578)](https://github.com/abrenaut/posio) - Geography multiplayer game. `MIT` `Python`
+*   [Posio (⭐617)](https://github.com/abrenaut/posio) - Geography multiplayer game. `MIT` `Python`
 
 ## [7. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
@@ -78,13 +78,13 @@
 
 ### Open Source / Community
 
-*   [IslandJS (⭐440)](https://github.com/sanyuan0704/island.js) - Static site generator base on islands architecture.
+*   [IslandJS (⭐463)](https://github.com/sanyuan0704/island.js) - Static site generator base on islands architecture.
 
 ## [9. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Testing / Redux / ELM / Dependency Injection
 
-*   [flutter\_convenient\_test (⭐467)](https://github.com/fzyzcjy/flutter_convenient_test) <!--stargazers:fzyzcjy/flutter_convenient_test--> - Tests with action history, time travelling, screenshots, rapid re-execution, video recordings, interactive mode by [fzyzcjy](https://github.com/fzyzcjy)
+*   [flutter\_convenient\_test (⭐497)](https://github.com/fzyzcjy/flutter_convenient_test) <!--stargazers:fzyzcjy/flutter_convenient_test--> - Tests with action history, time travelling, screenshots, rapid re-execution, video recordings, interactive mode by [fzyzcjy](https://github.com/fzyzcjy)
 
 ## [10. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
@@ -102,8 +102,8 @@
 
 ### Pastebin and Secret Sharing
 
-*   [Yopass (⭐1.8k)](https://github.com/jhaals/yopass) - Secure sharing of secrets, passwords and files.
-*   [PrivateBin (⭐6.2k)](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
+*   [Yopass (⭐1.9k)](https://github.com/jhaals/yopass) - Secure sharing of secrets, passwords and files.
+*   [PrivateBin (⭐6.8k)](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 
 ### Sonic the Hedgehog
 
@@ -124,8 +124,8 @@
 ### Libraries / Network programming
 
 *   IPNetwork
-    *   [achanda/ipnetwork (⭐119)](https://github.com/achanda/ipnetwork) - A library to work with IP networks
-    *   [candrew/netsim (⭐138)](https://github.com/canndrew/netsim) - A library for network simulation and testing
+    *   [achanda/ipnetwork (⭐123)](https://github.com/achanda/ipnetwork) - A library to work with IP networks
+    *   [candrew/netsim (⭐196)](https://github.com/canndrew/netsim) - A library for network simulation and testing
 
 ## [13. Awesome Canvas](/content/raphamorim/awesome-canvas/README.md)
 
@@ -212,7 +212,7 @@
 
 ### Image Restoration / Deforum
 
-*   [TencentARC/GFPGAN (⭐35k)](https://github.com/TencentARC/GFPGAN): GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration
+*   [TencentARC/GFPGAN (⭐36k)](https://github.com/TencentARC/GFPGAN): GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration
 
 ### Image Segmentation / Deforum
 
@@ -226,7 +226,7 @@
 ### Interesting GitHub Repositories / Deforum
 
 *   [dvschultz](https://github.com/dvschultz): Derrick Schultz's GitHub
-*   [dvschultz/ml-art-colabs (⭐826)](https://github.com/dvschultz/ml-art-colabs): collection of Google Colab Notebooks for ML Arts
+*   [dvschultz/ml-art-colabs (⭐825)](https://github.com/dvschultz/ml-art-colabs): collection of Google Colab Notebooks for ML Arts
 
 ---
 

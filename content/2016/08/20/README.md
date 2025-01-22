@@ -38,17 +38,17 @@
 ### Libraries / Algebraic Data Types
 
 *   [Fantasy Land (⭐10k)](https://github.com/fantasyland/fantasy-land) – Not a library, but a specification of the Monad laws for libraries to follow.
-*   [Static Land (⭐764)](https://github.com/rpominov/static-land) – Specification similar to Fantasy Land but based on static methods rather than instance methods.
+*   [Static Land (⭐772)](https://github.com/rpominov/static-land) – Specification similar to Fantasy Land but based on static methods rather than instance methods.
 
 ## [5. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Build Automation
 
-*   [Nake (⭐231)](https://github.com/yevhen/Nake) - Magic script-based C# task runner
+*   [Nake (⭐239)](https://github.com/yevhen/Nake) - Magic script-based C# task runner
 
 ### Database
 
-*   [Streamstone (⭐390)](https://github.com/yevhen/Streamstone) - Event store for Azure Table Storage
+*   [Streamstone (⭐397)](https://github.com/yevhen/Streamstone) - Event store for Azure Table Storage
 
 ---
 

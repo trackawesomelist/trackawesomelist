@@ -37,22 +37,22 @@
 ### JavaScript Clients
 
 *   [restangular (⭐7.9k)](https://github.com/mgonto/restangular) - AngularJS service to handle REST API properly and easily.
-*   [restful.js (⭐967)](https://github.com/marmelab/restful.js) - JS client for interacting with server-side RESTful resources.
+*   [restful.js (⭐965)](https://github.com/marmelab/restful.js) - JS client for interacting with server-side RESTful resources.
 
 ### Node.js Clients
 
 *   [restler (⭐2k)](https://github.com/danwrong/restler) - REST client library for node.js.
-*   [unirest for Node.js (⭐949)](https://github.com/Mashape/unirest-nodejs) - Simplified, lightweight HTTP client library.
+*   [unirest for Node.js (⭐954)](https://github.com/Mashape/unirest-nodejs) - Simplified, lightweight HTTP client library.
 
 ### Directly On Top Of A RMDB
 
-*   [postgrest (⭐23k)](https://github.com/begriffs/postgrest) - Serve a fully RESTful API directly from an existing PostgreSQL database.
+*   [postgrest (⭐24k)](https://github.com/begriffs/postgrest) - Serve a fully RESTful API directly from an existing PostgreSQL database.
 *   [MySQL HTTP plugin](http://blog.ulf-wendel.de/2014/mysql-5-7-http-plugin-mysql/) - Simple REST-like / CRUD server for any MySQL database.
 
 ### Node.js
 
 *   [mers (⭐343)](https://github.com/jspears/mers) - Express service exposing Mongoose finders as RESTful API.
-*   [flatiron/resourceful (⭐354)](https://github.com/flatiron/resourceful) - Isomorphic Resource engine for JavaScript.
+*   [flatiron/resourceful (⭐355)](https://github.com/flatiron/resourceful) - Isomorphic Resource engine for JavaScript.
 
 ### PHP
 
@@ -61,19 +61,19 @@
 *   [Drest (⭐87)](https://github.com/leedavis81/drest) - Library for exposing Doctrine entities as REST resource endpoints.
 *   [Restler (⭐1.4k)](https://github.com/Luracast/Restler) - Lightweight framework to expose PHP methods as RESTful web API.
 *   [HAL (⭐203)](https://github.com/blongden/hal) - Hypertext Application Language (HAL) builder library.
-*   [Apigility (⭐445)](https://github.com/zfcampus/zf-apigility-skeleton) - API builder built with Zend Framework 2.
-*   [phprest (⭐309)](https://github.com/phprest/phprest) - Specialized REST microframework for PHP.
+*   [Apigility (⭐444)](https://github.com/zfcampus/zf-apigility-skeleton) - API builder built with Zend Framework 2.
+*   [phprest (⭐306)](https://github.com/phprest/phprest) - Specialized REST microframework for PHP.
 *   [Hateoas (⭐1k)](https://github.com/willdurand/Hateoas) - PHP library to support implementing representations for HATEOAS REST web services.
 
 ### PHP / Symfony2
 
 *   [FOSRestBundle (⭐2.8k)](https://github.com/FriendsOfSymfony/FOSRestBundle) - Bundle handling view, routing, error handling, etc. for your REST API.
-*   [stanlemon/rest-bundle (⭐123)](https://github.com/stanlemon/rest-bundle) - Build a REST API based on Doctrine entities using conventions over configuration.
+*   [stanlemon/rest-bundle (⭐122)](https://github.com/stanlemon/rest-bundle) - Build a REST API based on Doctrine entities using conventions over configuration.
 *   [lakion/Lionframe](http://lakion.com/lionframe) - Glu between several community libraries to ease API development.
-*   [BazingaHateoasBundle (⭐294)](https://github.com/willdurand/BazingaHateoasBundle) - Integrate the [Hateoas (⭐1k)](https://github.com/willdurand/Hateoas) library into a Symfony2 application.
-*   [Symfony REST Edition (⭐634)](https://github.com/gimler/symfony-rest-edition) - Start with a Symfony2 application with all REST-friendly bundles pre-configured.
+*   [BazingaHateoasBundle (⭐296)](https://github.com/willdurand/BazingaHateoasBundle) - Integrate the [Hateoas (⭐1k)](https://github.com/willdurand/Hateoas) library into a Symfony2 application.
+*   [Symfony REST Edition (⭐632)](https://github.com/gimler/symfony-rest-edition) - Start with a Symfony2 application with all REST-friendly bundles pre-configured.
 *   [NgAdminGeneratorBundle (⭐75)](https://github.com/marmelab/NgAdminGeneratorBundle) - Boostrap ng-admin configuration based on `stanlemon/rest-bundle`.
-*   [DunglasApiBundle (⭐2.4k)](https://github.com/dunglas/DunglasApiBundle) - Build a REST API which follow Hydra/JSON-LD specification.
+*   [DunglasApiBundle (⭐2.5k)](https://github.com/dunglas/DunglasApiBundle) - Build a REST API which follow Hydra/JSON-LD specification.
 
 ### Python / Symfony2
 
@@ -82,26 +82,26 @@
 ### Go / Symfony2
 
 *   [go-json-rest (⭐3.5k)](https://github.com/ant0ine/go-json-rest) - Thin layer on top of `net/http` that helps building RESTful APIs easily.
-*   [sleepy (⭐673)](https://github.com/dougblack/sleepy) - RESTful micro-framework written in Go.
+*   [sleepy (⭐675)](https://github.com/dougblack/sleepy) - RESTful micro-framework written in Go.
 *   [restit (⭐55)](https://github.com/yookoala/restit) - Go micro framework to help writing RESTful API integration test.
-*   [go-relax (⭐152)](https://github.com/codehack/go-relax) - Framework of pluggable components to build RESTful API's.
+*   [go-relax (⭐153)](https://github.com/codehack/go-relax) - Framework of pluggable components to build RESTful API's.
 *   [go-rest (⭐128)](https://github.com/ungerik/go-rest) - Small and evil REST framework for Go.
 *   [Goat (⭐155)](https://github.com/bahlo/goat) - Minimalistic REST API server in Go.
-*   [Resoursea (⭐34)](https://github.com/resoursea/api) - REST framework for quickly writing resource based services.
+*   [Resoursea (⭐35)](https://github.com/resoursea/api) - REST framework for quickly writing resource based services.
 
 ### Java / Symfony2
 
-*   [RestExpress (⭐938)](https://github.com/RestExpress/RestExpress) - Netty-based, highly performant, lightweight, container-less, plugin-extensible, framework that is ideal for microservice architectures.
+*   [RestExpress (⭐937)](https://github.com/RestExpress/RestExpress) - Netty-based, highly performant, lightweight, container-less, plugin-extensible, framework that is ideal for microservice architectures.
 
 ### Querying / Symfony2
 
-*   [resty (⭐2.6k)](https://github.com/micha/resty) - Little command line REST client that you can use in pipelines (bash or zsh).
-*   [jq (⭐30k)](https://github.com/stedolan/jq) - Command line JSON processor, to use in combination with a command-line HTTP client like cURL.
+*   [resty (⭐2.7k)](https://github.com/micha/resty) - Little command line REST client that you can use in pipelines (bash or zsh).
+*   [jq (⭐31k)](https://github.com/stedolan/jq) - Command line JSON processor, to use in combination with a command-line HTTP client like cURL.
 
 ### Mocking / Symfony2
 
-*   [FakeRest (⭐434)](https://github.com/marmelab/FakeRest) - Patch XMLHttpRequest to fake a REST API client-side.
-*   [json-server (⭐72k)](https://github.com/typicode/json-server) - Serve a REST API from fixture files using quick prototyping.
+*   [FakeRest (⭐443)](https://github.com/marmelab/FakeRest) - Redirect fetch() calls to a client-side fake REST API.
+*   [json-server (⭐73k)](https://github.com/typicode/json-server) - Serve a REST API from fixture files using quick prototyping.
 
 ### SaaS Tools / Symfony2
 
@@ -109,7 +109,7 @@
 
 ### Miscellaneous / Symfony2
 
-*   [ng-admin (⭐4k)](https://github.com/marmelab/ng-admin) - Add an AngularJS admin GUI to any RESTful API.
+*   [ng-admin (⭐3.9k)](https://github.com/marmelab/ng-admin) - Add an AngularJS admin GUI to any RESTful API.
 
 ## [4. Amas](/content/sindresorhus/amas/README.md)
 

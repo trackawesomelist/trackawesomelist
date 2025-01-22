@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 08, 2020
 
-17 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -30,25 +30,19 @@
 
 *   [Anceu](https://anceu.com) - Rural Coliving & coworking space in Galicia, Spain
 
-## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / UI Components
-
-*   [vue-router-tab (⭐468)](https://github.com/bhuh12/vue-router-tab) - Vue.js tab components, based on Vue Router.
-
-## [6. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [5. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Testing
 
-*   [definject (⭐57)](https://github.com/definject/definject) - Unobtrusive dependency injector for Elixir.
+*   [definject (⭐56)](https://github.com/definject/definject) - Unobtrusive dependency injector for Elixir.
 
-## [7. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
+## [6. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
 ### Component Libraries
 
 *   [Joomla UI custom elements (⭐32)](https://github.com/joomla-projects/custom-elements) - Compilation of Joomla 4 Custom Elements.
 
-## [8. Awesome Lidar](/content/szenergy/awesome-lidar/README.md)
+## [7. Awesome Lidar](/content/szenergy/awesome-lidar/README.md)
 
 ### Datasets
 
@@ -62,7 +56,7 @@
 ### Libraries
 
 *   [Open3D library](http://www.open3d.org/docs/release/) - Open3D library contanins 3D data processing and visualization algorithms. It is open-source and supports both C++ and Python.
-    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐11k)](https://github.com/intel-isl/Open3D)
+    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐12k)](https://github.com/intel-isl/Open3D)
     *   [YouTube channel ![](https://img.shields.io/badge/youtube-red?style=flat-square\&logo=youtube)](https://www.youtube.com/channel/UCRJBlASPfPBtPXJSPffJV-w)
 
 ### Frameworks
@@ -71,7 +65,7 @@
     *   [GitHub oragnization ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github)](https://github.com/autowarefoundation) ![](https://img.shields.io/badge/ROS-2-34aec5?style=flat-square\&logo=ros)
     *   [Paper ![](https://img.shields.io/badge/paper-blue?style=flat-square\&logo=semanticscholar)](https://www.researchgate.net/profile/Takuya_Azumi/publication/327198306_Autoware_on_Board_Enabling_Autonomous_Vehicles_with_Embedded_Systems/links/5c9085da45851564fae6dcd0/Autoware-on-Board-Enabling-Autonomous-Vehicles-with-Embedded-Systems.pdf)
 
-## [9. Awesome Ibmcloud](/content/victorshinya/awesome-ibmcloud/README.md)
+## [8. Awesome Ibmcloud](/content/victorshinya/awesome-ibmcloud/README.md)
 
 ### Carbon Design System
 
@@ -348,38 +342,37 @@
 *   [Wellington, New Zealand - IBM Cloud - Wellington](https://www.meetup.com/IBM-Cloud-Wellington/) - The Wellington 👁️🐝☁️meetup is the place for developers, engineers, architects, designers and everyone between to geek-out and talk all things tech. Covering topics such as Cloud, Application Modernisation, Internet of Things, Blockchain, Artificial Intelligence, Machine Learning, Data Analytics, Open Source and more.
 *   [Zürich, Switzerland - Quantum Computing Switzerland - Qool Stuff](https://www.meetup.com/Quantum-Computing-Switzerland-Qool-Stuff/) - In Switzerland there many things to discover: Mountains, Chocolate, Cheese Fondue, Quantum Computers, Trains, ... Wait Quantum? Yes! Join this MeetUp Group to hear and exchange about the latest and greatest news regarding Quantum Computers, Developer Platforms, Qiskit, Quantum Use Cases and many more Qool Stuff.
 
-## [10. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [9. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### GraphQL
 
-*   [SociableWeaver (⭐74)](https://github.com/NicholasBellucci/SociableWeaver) - Build declarative GraphQL queries and mutations.
+*   [SociableWeaver (⭐77)](https://github.com/NicholasBellucci/SociableWeaver) - Build declarative GraphQL queries and mutations.
 
 ### Events
 
-*   [Tokamak (⭐2.5k)](https://github.com/TokamakUI/Tokamak) - React-like declarative API for building native UI components with easy to use one-way data binding.
+*   [Tokamak (⭐2.6k)](https://github.com/TokamakUI/Tokamak) - React-like declarative API for building native UI components with easy to use one-way data binding.
 
 ### Fonts
 
-*   [SwiftUI-FontIcon (⭐120)](https://github.com/huybuidac/SwiftUIFontIcon) - Font icons for SwiftUI: font awesome, ionicons, material icons.
+*   [SwiftUI-FontIcon (⭐126)](https://github.com/huybuidac/SwiftUIFontIcon) - Font icons for SwiftUI: font awesome, ionicons, material icons.
 
-## [11. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
+## [10. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
 ### Development Environment / Template
 
 *   [VS Code ROS2 Workspace Template (⭐568)](https://github.com/athackst/vscode_ros2_workspace) -  Template for using VSCode as an IDE for ROS2 development.
 
-## [12. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [11. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### C, C++
 
 *   [ecrepl](https://gitlab.common-lisp.net/ecl/ecrepl) - an interactive REPL for the C language. [BSD\_2Clause](https://directory.fsf.org/wiki/License:BSD_2Clause).
 *   [cl-ssh-keys (⭐23)](https://github.com/dnaeon/cl-ssh-keys) - Common Lisp system for generating and parsing of OpenSSH keys. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
-*   [cl-bcrypt (⭐12)](https://github.com/dnaeon/cl-bcrypt) - Common Lisp system for parsing and generating bcrypt password hashes. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
-    *   see also [cl-pass (⭐30)](https://github.com/eudoxia0/cl-pass), using pbkdf2.
+*   [cl-bcrypt (⭐14)](https://github.com/dnaeon/cl-bcrypt) - Common Lisp system for parsing and generating bcrypt password hashes. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
 ### Python
 
-*   [burgled-batteries (⭐113)](https://github.com/pinterface/burgled-batteries) - A bridge between Python and Common Lisp. The goal is that Lisp programs can use Python libraries. Not available on Quicklisp. [MIT](https://opensource.org/licenses/MIT).
+*   [burgled-batteries (⭐114)](https://github.com/pinterface/burgled-batteries) - A bridge between Python and Common Lisp. The goal is that Lisp programs can use Python libraries. Not available on Quicklisp. [MIT](https://opensource.org/licenses/MIT).
 
 ### Deployment / Isomorphic web frameworks
 
@@ -389,47 +382,47 @@
 
 *   [Moira (⭐29)](https://github.com/TBRSS/moira) -  Monitor and restart background threads. In-lisp process supervisor. [MIT](https://opensource.org/licenses/MIT).
 
-## [13. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+## [12. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### UI Animation / Syntax Highlight
 
 *   [gooey-react (⭐644)](https://github.com/luukdv/gooey-react) - [demo/docs](https://gooey-react.netlify.app/) - The gooey effect for React, used for shape blobbing / metaballs.
 
-## [14. Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md)
+## [13. Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md)
 
 ### Github Libraries / Randomized Algorithms
 
 *   Python
     *   [by @nryoung (⭐2.9k)](https://github.com/nryoung/algorithms)
-    *   [by @prakhar1989 (⭐3k)](https://github.com/prakhar1989/Algorithms)
-    *   [by @laurentluce (⭐273)](https://github.com/laurentluce/python-algorithms)
-    *   [by @nbro (⭐55)](https://github.com/nbro/ands)
+    *   [by @prakhar1989 (⭐3.1k)](https://github.com/prakhar1989/Algorithms)
+    *   [by @laurentluce (⭐279)](https://github.com/laurentluce/python-algorithms)
+    *   [by @nbro (⭐60)](https://github.com/nbro/ands)
     *   [by @keon (⭐24k)](https://github.com/keon/algorithms)
-    *   [by @vinta (⭐678)](https://github.com/vinta/fuck-coding-interviews)
+    *   [by @vinta (⭐691)](https://github.com/vinta/fuck-coding-interviews)
 
-## [15. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
+## [14. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
 ### Analytics / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
 *   [Plausible Analytics](https://plausible.io) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/plausible/analytics) - Simple, lightweight (< 1 KB) and privacy-friendly web analytics. Hosted in the EU.
 
-## [16. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
+## [15. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
 
 ### CLI & Editor / iOS
 
 *   🔧 [Firecode (⭐34)](https://github.com/ChFlick/firecode) -  VS Code Firestore Rules Extension.
 *   🔧 [VSFire (⭐74)](https://github.com/toba/vsfire) - Deprecated ~~VSCode extension for syntax highlighting & code completions with Firestore security rules & indexes.~~
 
-## [17. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [16. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Game Development
 
-*   [crystal-chipmunk (⭐43)](https://github.com/oprypin/crystal-chipmunk) - Bindings to [Chipmunk](http://chipmunk-physics.net/), a fast and lightweight 2D game physics library
-*   [crystal-imgui-sfml (⭐17)](https://github.com/oprypin/crystal-imgui-sfml) - Bindings to integrate [Dear ImGui (⭐58k)](https://github.com/ocornut/imgui) into an [SFML](https://www.sfml-dev.org/) project
+*   [crystal-chipmunk (⭐42)](https://github.com/oprypin/crystal-chipmunk) - Bindings to [Chipmunk](http://chipmunk-physics.net/), a fast and lightweight 2D game physics library
+*   [crystal-imgui-sfml (⭐18)](https://github.com/oprypin/crystal-imgui-sfml) - Bindings to integrate [Dear ImGui (⭐63k)](https://github.com/ocornut/imgui) into an [SFML](https://www.sfml-dev.org/) project
 
 ### GUI Development
 
-*   [crystal-imgui (⭐67)](https://github.com/oprypin/crystal-imgui) - Bindings to [Dear ImGui (⭐58k)](https://github.com/ocornut/imgui), an immediate-mode graphical UI library
+*   [crystal-imgui (⭐71)](https://github.com/oprypin/crystal-imgui) - Bindings to [Dear ImGui (⭐63k)](https://github.com/ocornut/imgui), an immediate-mode graphical UI library
 
 ---
 

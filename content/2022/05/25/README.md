@@ -25,23 +25,23 @@
 
 ### Tools & Software / WARC I/O Libraries
 
-*   [Sparkling (⭐10)](https://github.com/internetarchive/Sparkling) - Internet Archive's Sparkling Data Processing Library. *(Stable)*
+*   [Sparkling (⭐11)](https://github.com/internetarchive/Sparkling) - Internet Archive's Sparkling Data Processing Library. *(Stable)*
 
 ### Tools & Software / Analysis
 
-*   [Archives Research Compute Hub (⭐13)](https://github.com/internetarchive/arch) - Web application for distributed compute analysis of Archive-It web archive collections. *(Stable)*
+*   [Archives Research Compute Hub (⭐15)](https://github.com/internetarchive/arch) - Web application for distributed compute analysis of Archive-It web archive collections. *(Stable)*
 
 ## [3. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Tools
 
-*   [SonarSource/sonarlint-intellij (⭐593)](https://github.com/SonarSource/sonarlint-intellij) - An IDE extension that helps you detect and fix quality issues as you write code.
+*   [SonarSource/sonarlint-intellij (⭐612)](https://github.com/SonarSource/sonarlint-intellij) - An IDE extension that helps you detect and fix quality issues as you write code.
 
 ## [4. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### PDF
 
-*   [Kevsoft.PDFtk (⭐34)](https://github.com/kevbite/Kevsoft.PDFtk) - A wrapper to drive the awesome pdftk binary, which can fill PDF forms, get field information, concatenate multiple documents or pages, split documents, add or replace stamps, and can attach files to or download files from pages.
+*   [Kevsoft.PDFtk (⭐37)](https://github.com/kevbite/Kevsoft.PDFtk) - A wrapper to drive the awesome pdftk binary, which can fill PDF forms, get field information, concatenate multiple documents or pages, split documents, add or replace stamps, and can attach files to or download files from pages.
 
 ## [5. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 
@@ -53,7 +53,7 @@
 
 ### Machine Learning
 
-*   [ONNX runtime (⭐14k)](https://github.com/microsoft/onnxruntime) - C and C++ library for training and inference ONNX models. ONNX is a standard that AI models can be converted into, regardless of the library they are trained with. \[MIT] [website](https://onnxruntime.ai/)
+*   [ONNX runtime (⭐15k)](https://github.com/microsoft/onnxruntime) - C and C++ library for training and inference ONNX models. ONNX is a standard that AI models can be converted into, regardless of the library they are trained with. \[MIT] [website](https://onnxruntime.ai/)
 
 ## [7. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 

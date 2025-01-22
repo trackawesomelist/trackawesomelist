@@ -1,18 +1,12 @@
 # Awesome List Updates on Oct 08, 2019
 
-16 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Resources / Examples
-
-*   [Add Push Notifications to Your Vue Chat App Using CometChat and Firebase](https://www.cometchat.com/tutorials/vue-chat-push-notifications/)
-
-## [2. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [1. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Culture
 
@@ -23,13 +17,13 @@
 
 *   [Applied Alerting Philosophy](https://www.youtube.com/watch?v=JhxfZ0VIPP0)
 
-## [3. Awesome Java](/content/akullpp/awesome-java/README.md)
+## [2. Awesome Java](/content/akullpp/awesome-java/README.md)
 
 ### Testing / Matchers
 
-*   [XMLUnit (⭐291)](https://github.com/xmlunit/xmlunit) - Simplifies testing for XML output.
+*   [XMLUnit (⭐299)](https://github.com/xmlunit/xmlunit) - Simplifies testing for XML output.
 
-## [4. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
+## [3. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 
 ### Family
 
@@ -43,21 +37,21 @@
 | ------: | -------: | ---: |
 |   2 - 8 |        8 |  20m |
 
-## [5. Awesome Actions](/content/sdras/awesome-actions/README.md)
+## [4. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
 ### Utility / Docker Container Actions
 
-*   [Run your job on another architecture: arm32, aarch64 and others (⭐435)](https://github.com/uraimo/run-on-arch-action)
+*   [Run your job on another architecture: arm32, aarch64 and others (⭐677)](https://github.com/uraimo/run-on-arch-action)
 
 ### Static Analysis / Linting
 
-*   [Lint Pull Request commits with commitlint (⭐233)](https://github.com/wagoid/commitlint-github-action)
+*   [Lint Pull Request commits with commitlint (⭐358)](https://github.com/wagoid/commitlint-github-action)
 
 ### External Services / Terraform
 
-*   [GitHub Action for sending Stack Overflow posts to Slack (⭐13)](https://github.com/logankilpatrick/StackOverflowBot)
+*   [GitHub Action for sending Stack Overflow posts to Slack (⭐17)](https://github.com/logankilpatrick/StackOverflowBot)
 
-## [6. Public Apis](/content/public-apis/public-apis/README.md)
+## [5. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Government
 
@@ -73,13 +67,13 @@
 
 
 
-## [7. Awesome Rest](/content/marmelab/awesome-rest/README.md)
+## [6. Awesome Rest](/content/marmelab/awesome-rest/README.md)
 
 ### API Gateway / Symfony2
 
-*   [KrakenD (⭐6.3k)](https://github.com/devopsfaith/krakend) - Ultra performant API Gateway with middleware. Written in Go.
+*   [KrakenD (⭐6.4k)](https://github.com/devopsfaith/krakend) - Ultra performant API Gateway with middleware. Written in Go.
 
-## [8. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [7. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### CLI Utils
 
@@ -89,37 +83,37 @@
 
 *   [zaru\_crystal (⭐10)](https://github.com/szTheory/zaru_crystal) - Filename sanitization
 
-## [9. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [8. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### E-Books / Others
 
-*   [Archives (⭐8.7k)](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2018 (⭐8.7k)](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#e-books).
+*   [Archives (⭐8.9k)](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2018 (⭐8.9k)](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#e-books).
 
-## [10. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md)
+## [9. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md)
 
 ### Multi-purpose toolkits
 
 *   [PETSc](https://www.mcs.anl.gov/petsc/) - Parallel solution of scientific applications modeled by PDEs.
     (C, 2-clause BSD, [GitLab](https://gitlab.com/petsc/petsc))
 
-## [11. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [10. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Games
 
-*   [Binbo (⭐120)](https://github.com/DOBRO/binbo) - A chess representation written in Erlang using [Bitboards](https://www.chessprogramming.org/Bitboards), ready for use on game servers.
+*   [Binbo (⭐126)](https://github.com/DOBRO/binbo) - A chess representation written in Erlang using [Bitboards](https://www.chessprogramming.org/Bitboards), ready for use on game servers.
 
 ### Miscellaneous
 
-*   [Apex (⭐276)](https://github.com/bjro/apex) - Awesome Print for Elixir.
+*   [Apex (⭐279)](https://github.com/bjro/apex) - Awesome Print for Elixir.
 
-## [12. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
+## [11. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
 
 ### Dynamic type checkers
 
-*   [pydantic (⭐20k)](https://github.com/samuelcolvin/pydantic) - Data parsing using Python type hinting. Supports dataclasses.
-*   [typeguard (⭐1.5k)](https://github.com/agronholm/typeguard) - Another one runtime type checker.
+*   [pydantic (⭐22k)](https://github.com/samuelcolvin/pydantic) - Data parsing using Python type hinting. Supports dataclasses.
+*   [typeguard (⭐1.6k)](https://github.com/agronholm/typeguard) - Another one runtime type checker.
 
-## [13. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/README.md)
+## [12. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/README.md)
 
 ### Companies / Materials
 
@@ -169,19 +163,19 @@
 
 *   [U.N Climate Change National Inventory Submissions](https://unfccc.int/process-and-meetings/transparency-and-reporting/reporting-and-review-under-the-convention/greenhouse-gas-inventories-annex-i-parties/national-inventory-submissions-2019) - This contains country specific climate reports from several U.N countries. It has data from 2003 onwards.
 
-## [14. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
+## [13. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Packages / Command-line apps
 
-*   [npkill (⭐8.1k)](https://github.com/voidcosmos/npkill) - Easily find and remove old and heavy node\_modules folders.
+*   [npkill (⭐8.4k)](https://github.com/voidcosmos/npkill) - Easily find and remove old and heavy node\_modules folders.
 
-## [15. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
+## [14. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
 ### NewSQL Databases
 
 *   [KarelDB (⭐383)](https://github.com/rayokota/kareldb) - a relational database backed by Apache Kafka.
 
-## [16. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
+## [15. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
 
 ### Tech / Aggregator
 

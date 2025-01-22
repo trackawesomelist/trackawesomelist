@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 02 - Mar 08, 2020
 
-65 awesome lists updated this week.
+64 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,11 +10,11 @@
 
 ### CLI
 
-*   [iredis (⭐2.5k)](https://github.com/laixintao/iredis) - A Cli for Redis with AutoCompletion and Syntax Highlighting.
+*   [iredis (⭐2.6k)](https://github.com/laixintao/iredis) - A Cli for Redis with AutoCompletion and Syntax Highlighting.
 
 ### GUI
 
-*   [SQLTools (⭐1.4k)](https://github.com/mtxr/vscode-sqltools) - Database management for VSCode.
+*   [SQLTools (⭐1.5k)](https://github.com/mtxr/vscode-sqltools) - Database management for VSCode.
 
 ## [2. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
 
@@ -71,7 +71,7 @@
 
 ### Tools
 
-*   [ipfs-action (⭐172)](https://github.com/aquiladev/ipfs-action) - GitHub Action for delivery of static websites.
+*   [ipfs-action (⭐178)](https://github.com/aquiladev/ipfs-action) - GitHub Action for delivery of static websites.
 
 ## [10. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
@@ -84,13 +84,13 @@
 
 ### ORM / Text-Based User Interfaces
 
-*   [Permazen (⭐399)](https://github.com/permazen/permazen) - Language-natural persistence layer.
+*   [Permazen (⭐403)](https://github.com/permazen/permazen) - Language-natural persistence layer.
 
 ## [12. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/week/README.md)
 
 ### External Services
 
-*   [douban-box (⭐15)](https://github.com/CodeDaraW/douban-box) - Update a pinned gist to contain the latest user status about books/movies/music from Douban.
+*   [douban-box (⭐14)](https://github.com/CodeDaraW/douban-box) - Update a pinned gist to contain the latest user status about books/movies/music from Douban.
 
 ## [13. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
 
@@ -98,28 +98,28 @@
 
 *   Testing in Cloud
     *   Kubernetes
-        *   [jmeter-kubernetes (⭐353)](https://github.com/kubernauts/jmeter-kubernetes) - JMeter cluster support for Kubernetes and OpenShift.
-        *   [jmeter-k8s-starterkit (⭐73)](https://github.com/Rbillon59/jmeter-k8s-starterkit) - JMeter k8s starter kit, with live test reporting, JMeter monitoring, k8s monitoring and mock as a service.
-        *   [kangal (⭐156)](https://github.com/hellofresh/kangal) - Kubernetes and Go Automatic Loader solution to run performance tests in Kubernetes cluster using multiple load generators.
-        *   [aks\_testing\_fwk (⭐36)](https://github.com/petegrimsdale/aks_testing_fwk) - AKS-based scalable JMeter test framework with Grafana reporting.
+        *   [jmeter-kubernetes (⭐365)](https://github.com/kubernauts/jmeter-kubernetes) - JMeter cluster support for Kubernetes and OpenShift.
+        *   [jmeter-k8s-starterkit (⭐88)](https://github.com/Rbillon59/jmeter-k8s-starterkit) - JMeter k8s starter kit, with live test reporting, JMeter monitoring, k8s monitoring and mock as a service.
+        *   [kangal (⭐164)](https://github.com/hellofresh/kangal) - Kubernetes and Go Automatic Loader solution to run performance tests in Kubernetes cluster using multiple load generators.
+        *   [aks\_testing\_fwk (⭐37)](https://github.com/petegrimsdale/aks_testing_fwk) - AKS-based scalable JMeter test framework with Grafana reporting.
     *   Amazon Web Services
-        *   [jmeter-ec2 (⭐464)](https://github.com/oliverlloyd/jmeter-ec2/) - Automates running Apache JMeter on Amazon EC2.
+        *   [jmeter-ec2 (⭐463)](https://github.com/oliverlloyd/jmeter-ec2/) - Automates running Apache JMeter on Amazon EC2.
         *   [gee (⭐16)](https://github.com/kowalcj0/gee) - A modified version of JMeter-EC2 project.
         *   [os-jmeter-aws (⭐1)](https://github.com/Aptimyze/os-jmeter-aws) - Run JMeter on multiple Amazon EC2 instances, view results in ELK.
         *   [Load Testing with JMeter and Amazon EC2](https://medium.com/@alttaf/load-testing-with-jmeter-and-amazon-ec2-e143a7350596)
         *   [Performance Testing in the Cloud with JMeter & AWS](http://web.archive.org/web/20190526033436/http://www.artofsoftwaredevelopment.com/performance/performance-testing-in-the-cloud-with-jmeter-aws)
         *   [JMeter distributed testing with Amazon EC2](https://vedovini.net/2009/08/17/jmeter-distributed-testing-with-amazon-ec2/)
-        *   [jmeter-ecs (⭐43)](https://github.com/smithmicro/jmeter-ecs) - JMeter docker image for distributed testing on EC2 Container Service (ECS).
+        *   [jmeter-ecs (⭐44)](https://github.com/smithmicro/jmeter-ecs) - JMeter docker image for distributed testing on EC2 Container Service (ECS).
     *   DigitalOcean
         *   [Lightweight JMeter Cloud](https://docs.google.com/presentation/d/1Yi5C27C3Q0AnT-uw9SRnMeEqXSKLQ8h9O9Jqo1gQiyI/) - Building your own JMeter Cloud using DigitalOcean, JMeter and Docker.
     *   Microsoft Azure
-        *   [Load Testing Pipeline with JMeter, ACI and Terraform (⭐119)](https://github.com/Azure-Samples/jmeter-aci-terraform) - Scalable cloud load/stress testing pipeline solution with Apache JMeter and Terraform to dynamically provision and destroy the required infrastructure on Azure.
+        *   [Load Testing Pipeline with JMeter, ACI and Terraform (⭐120)](https://github.com/Azure-Samples/jmeter-aci-terraform) - Scalable cloud load/stress testing pipeline solution with Apache JMeter and Terraform to dynamically provision and destroy the required infrastructure on Azure.
 
 ## [14. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
 
 ### Examples
 
-*   [sulu/sulu (⭐1.1k)](https://github.com/sulu/sulu#readme) - Project logo, useful badges, clear instructions on where to find more information and report bugs, GIF screenshots, nice use of emoticons.
+*   [sulu/sulu (⭐1.2k)](https://github.com/sulu/sulu#readme) - Project logo, useful badges, clear instructions on where to find more information and report bugs, GIF screenshots, nice use of emoticons.
 
 ## [15. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
@@ -137,7 +137,7 @@
 
 ### Blazor / Themes
 
-*   [ant-design-blazor (⭐15)](https://github.com/ElderJames/ant-design-blazor) - Ant Design of Blazor(both Server-side and WebAssembly).
+*   [ant-design-blazor (⭐31)](https://github.com/ElderJames/ant-design-blazor) - Ant Design of Blazor(both Server-side and WebAssembly).
 
 ## [18. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/week/README.md)
 
@@ -147,7 +147,7 @@
 
 ### Recruitment / Job Boards
 
-*   [Hiring Without Whiteboards (⭐43k)](https://github.com/poteto/hiring-without-whiteboards) - List of companies without the kind of CS trivia questions that are associated with bad interview practices.
+*   [Hiring Without Whiteboards (⭐46k)](https://github.com/poteto/hiring-without-whiteboards) - List of companies without the kind of CS trivia questions that are associated with bad interview practices.
 
 ### Recruitment / Interview
 
@@ -156,14 +156,14 @@
 
 ### Recruitment / Coding Challenge
 
-*   [FizzBuzz Enterprise Edition (⭐21k)](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - A satire of over-engineering for the sake of enterprise-grade software.
-*   [Awesome Interviews (⭐69k)](https://github.com/MaximAbramchuck/awesome-interview-questions) - A huge database of questions sorted by topic to get inspiration from.
+*   [FizzBuzz Enterprise Edition (⭐22k)](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - A satire of over-engineering for the sake of enterprise-grade software.
+*   [Awesome Interviews (⭐71k)](https://github.com/MaximAbramchuck/awesome-interview-questions) - A huge database of questions sorted by topic to get inspiration from.
 
 ### Meetings / 1 on 1
 
 *   [Questions for our first 1:1](https://larahogan.me/blog/first-one-on-one-questions/) - A personal list of high-level questions from a manager.
 
-### Objectives and Key Results (OKR) / Tickets
+### Objectives and Key Results (OKR) / Delivery
 
 *   [Awesome OKR (⭐1.6k)](https://github.com/domenicosolazzo/awesome-okr) - There is no shortage of content on how to measure and communicate objectives.
 
@@ -177,13 +177,7 @@
 
 *   [Design Decisions Through The Lens Of A Performance Budget](https://vimeo.com/108328247) - How we can make smarter design decisions, from the beginning of a project, to ensure that our sites perform well.
 
-## [20. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
-
-### REST and API
-
-*   [Alt3/Swagger plugin (⭐64)](https://github.com/alt3/cakephp-swagger) - Swagger 2.0 documentation for your CakePHP APIs using swagger-php and swagger-ui.
-
-## [21. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
+## [20. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
 
 ### Uncategorised
 
@@ -193,13 +187,13 @@
 
 *   [Fermat.org](http://fermat.org/) is an framework for developing Internet of People apps.
 
-## [22. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [21. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Extensions
 
-*   [Next PWA (⭐3.5k)](https://github.com/shadowwalker/next-pwa) - Zero config PWA plugin for Next.js with workbox
+*   [Next PWA (⭐3.9k)](https://github.com/shadowwalker/next-pwa) - Zero config PWA plugin for Next.js with workbox
 
-## [23. Awesome Cassandra](/content/Anant/awesome-cassandra/week/README.md)
+## [22. Awesome Cassandra](/content/Anant/awesome-cassandra/week/README.md)
 
 ### Tools / Custom Time Series
 
@@ -208,71 +202,71 @@
 *   [Scylla-Migrator (⭐33)](https://github.com/scylladb/scylla-migrator) - Migrate data extract using Spark to Scylla, normally from Cassandra.
 *   [Cassandra CA Manager (⭐11)](https://github.com/eevans/cassandra-ca-manager) - Create and sign Java keystores.
 
-## [24. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [23. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Database
 
 *   [Cycle ORM (⭐1.2k)](https://github.com/cycle/orm) - PHP DataMapper, ORM.
 
-## [25. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
+## [24. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Projects
 
-*   [I Love Hue! (rs) (⭐22)](https://github.com/noc7c9/i-love-hue-rs) - A clone of the mobile game I Love Hue in Yew (Rust).
+*   [I Love Hue! (rs) (⭐24)](https://github.com/noc7c9/i-love-hue-rs) - A clone of the mobile game I Love Hue in Yew (Rust).
 
-## [26. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [25. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### User Groups / Ruby
 
 *   [DDD Taiwan Community](https://www.facebook.com/groups/dddtaiwan/)
 
-## [27. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [26. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Other Xcode / Collection View Layout
 
-*   [Xcode Developer Disk Images (⭐307)](https://github.com/haikieu/xcode-developer-disk-image-all-platforms) - Xcode Developer Disk Images is needed when you want to put your build to the device, however sometimes your Xcode is not updated with the latest Disk Images, you could find them here for convenience.
+*   [Xcode Developer Disk Images (⭐313)](https://github.com/haikieu/xcode-developer-disk-image-all-platforms) - Xcode Developer Disk Images is needed when you want to put your build to the device, however sometimes your Xcode is not updated with the latest Disk Images, you could find them here for convenience.
 
-## [28. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [27. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Accessibility
 
-*   [Capable (⭐262)](https://github.com/chrs1885/Capable) - Keep track of accessibility settings, leverage high contrast colors, and use scalable fonts to enable users with disabilities to use your app.
+*   [Capable (⭐265)](https://github.com/chrs1885/Capable) - Keep track of accessibility settings, leverage high contrast colors, and use scalable fonts to enable users with disabilities to use your app.
 
 ### Colors
 
-*   [SheetyColors (⭐105)](https://github.com/chrs1885/SheetyColors) - An action sheet styled color picker for iOS.
+*   [SheetyColors (⭐106)](https://github.com/chrs1885/SheetyColors) - An action sheet styled color picker for iOS.
 
 ### UI / Barcode
 
-*   [Partition Kit (⭐238)](https://github.com/kieranb662/PartitionKit) - A SwiftUI Library for creating resizable partitions for View Content.
+*   [Partition Kit (⭐239)](https://github.com/kieranb662/PartitionKit) - A SwiftUI Library for creating resizable partitions for View Content.
 
-## [29. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
+## [28. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
 ### DevSecOps / Service meshes
 
 *   [Snyk](https://snyk.io/) - Finds and fixes vulnerabilities and license violations in open source dependencies and container images.
 
-## [30. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+## [29. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
 ### CTF Tools / Malware Analysis Books
 
-*   [RsaCtfTool (⭐5.4k)](https://github.com/Ganapati/RsaCtfTool) - Decrypt data enciphered using weak RSA keys, and recover private keys from public keys using a variety of automated attacks.
+*   [RsaCtfTool (⭐5.8k)](https://github.com/Ganapati/RsaCtfTool) - Decrypt data enciphered using weak RSA keys, and recover private keys from public keys using a variety of automated attacks.
 
 ### Vulnerability Databases / Social Engineering Tools
 
 *   [Snyk Vulnerability DB](https://snyk.io/vuln/) - Detailed information and remediation guidance for vulnerabilities known by Snyk.
 
-## [31. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [30. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Document Management - E-books
 
-*   [Komga](https://komga.org) - Media server for comics/mangas/BDs with API and OPDS support, a modern web interface for exploring your libraries, as well as a web reader. ([Source Code (⭐3.8k)](https://github.com/gotson/komga)) `MIT` `Java/Docker`
+*   [Komga](https://komga.org) - Media server for comics/mangas/BDs with API and OPDS support, a modern web interface for exploring your libraries, as well as a web reader. ([Source Code (⭐4.4k)](https://github.com/gotson/komga)) `MIT` `Java/Docker`
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [lufi](https://framagit.org/fiat-tux/hat-softwares/lufi) - Let's Upload that FIle, client-side encrypted. ([Demo](https://demo.lufi.io), [Source Code](https://framagit.org/fiat-tux/hat-softwares/lufi/tree/master)) `AGPL-3.0` `Perl`
+*   [lufi](https://framagit.org/fiat-tux/hat-softwares/lufi) - Let's Upload that FIle, client-side encrypted. ([Source Code](https://framagit.org/fiat-tux/hat-softwares/lufi/tree/master)) `AGPL-3.0` `Perl`
 
-## [32. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
+## [31. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
 ### Version Control
 
@@ -280,7 +274,7 @@
 *   [nbdime (⭐2.6k)](https://github.com/jupyter/nbdime) - Tools for diffing and merging of Jupyter notebooks.
 *   [ReviewNB](https://www.reviewnb.com/) - Code reviews for Jupyter Notebooks.
 
-## [33. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [32. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Apps / SEO and SMO
 
@@ -290,13 +284,13 @@
 
 *   [wagtail-contact-reply (⭐26)](https://github.com/KalobTaulien/wagtail-contact-reply) - Reply directly to form submissions from the Wagtail admin
 
-## [34. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [33. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Algorithms and Data structures
 
-*   [fzy (⭐45)](https://github.com/hugopl/fzy) - A Crystal port of awesome Fzy project fuzzy finder algorithm
+*   [fzy (⭐46)](https://github.com/hugopl/fzy) - A Crystal port of awesome Fzy project fuzzy finder algorithm
 
-## [35. Awesome Seml](/content/SE-ML/awesome-seml/week/README.md)
+## [34. Awesome Seml](/content/SE-ML/awesome-seml/week/README.md)
 
 ### Broad Overviews
 
@@ -312,44 +306,44 @@
 *   [Pitfalls and Best Practices in Algorithm Configuration](https://www.jair.org/index.php/jair/article/download/11420/26488/) 🎓
 *   [Pitfalls of supervised feature selection](https://academic.oup.com/bioinformatics/article/26/3/440/213774) 🎓
 
-## [36. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
+## [35. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
 
 ### Programming fonts / Fonts
 
-*   [Recursive Sans & Mono (⭐2.6k)](https://github.com/arrowtype/recursive/) - A variable font family for code & UI
+*   [Recursive Sans & Mono (⭐3.3k)](https://github.com/arrowtype/recursive/) - A variable font family for code & UI
 
-## [37. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [36. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Component bundles
 
-*   [BlazorStrap (⭐913)](https://github.com/chanan/BlazorStrap) - ![GitHub stars](https://img.shields.io/github/stars/chanan/BlazorStrap?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/chanan/BlazorStrap?style=flat-square\&cacheSeconds=86400) Material Design components for Blazor. Bootstrap 4 components for Blazor ([Demo](https://chanan.github.io/BlazorStrap/)).
+*   [BlazorStrap (⭐922)](https://github.com/chanan/BlazorStrap) - ![GitHub stars](https://img.shields.io/github/stars/chanan/BlazorStrap?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/chanan/BlazorStrap?style=flat-square\&cacheSeconds=86400) Material Design components for Blazor. Bootstrap 4 components for Blazor ([Demo](https://chanan.github.io/BlazorStrap/)).
 
 ### 2D/3D Rendering engines / Modal, Toast & Notifications
 
-*   [Blazored.Toast (⭐645)](https://github.com/Blazored/Toast) - ![GitHub stars](https://img.shields.io/github/stars/Blazored/Toast?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Blazored/Toast?style=flat-square\&cacheSeconds=86400) A JavaScript free toast library for Blazor and Razor Component applications.
+*   [Blazored.Toast (⭐671)](https://github.com/Blazored/Toast) - ![GitHub stars](https://img.shields.io/github/stars/Blazored/Toast?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Blazored/Toast?style=flat-square\&cacheSeconds=86400) A JavaScript free toast library for Blazor and Razor Component applications.
 
 ### 2D/3D Rendering engines / Others
 
-*   [Blazored.Typeahead (⭐424)](https://github.com/Blazored/Typeahead) - ![GitHub stars](https://img.shields.io/github/stars/Blazored/Typeahead?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Blazored/Typeahead?style=flat-square\&cacheSeconds=86400) Auto-complete textbox with local and remote data source, for both Client-side and Server-Side Blazor.
-*   [Razor.SweetAlert2 (⭐200)](https://github.com/Basaingeal/Razor.SweetAlert2) - ![last commit](https://img.shields.io/github/last-commit/Basaingeal/Razor.SweetAlert2?style=flat-square\&cacheSeconds=86400) Blazor component implementing the popular SweetAlert2 JavaScript Library.
+*   [Blazored.Typeahead (⭐448)](https://github.com/Blazored/Typeahead) - ![GitHub stars](https://img.shields.io/github/stars/Blazored/Typeahead?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Blazored/Typeahead?style=flat-square\&cacheSeconds=86400) Auto-complete textbox with local and remote data source, for both Client-side and Server-Side Blazor.
+*   [Razor.SweetAlert2 (⭐206)](https://github.com/Basaingeal/Razor.SweetAlert2) - ![last commit](https://img.shields.io/github/last-commit/Basaingeal/Razor.SweetAlert2?style=flat-square\&cacheSeconds=86400) Blazor component implementing the popular SweetAlert2 JavaScript Library.
 
 ### Tools & Utilities / Others
 
-*   [Blazor.Polyfill (⭐120)](https://github.com/Daddoon/Blazor.Polyfill) - ![GitHub stars](https://img.shields.io/github/stars/Daddoon/Blazor.Polyfill?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Daddoon/Blazor.Polyfill?style=flat-square\&cacheSeconds=86400) Polyfills for Blazor (for Internet Explorer 11 support and some other browsers).
+*   [Blazor.Polyfill (⭐122)](https://github.com/Daddoon/Blazor.Polyfill) - ![GitHub stars](https://img.shields.io/github/stars/Daddoon/Blazor.Polyfill?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Daddoon/Blazor.Polyfill?style=flat-square\&cacheSeconds=86400) Polyfills for Blazor (for Internet Explorer 11 support and some other browsers).
 
-## [38. Awesome Saltstack](/content/hbokh/awesome-saltstack/week/README.md)
+## [37. Awesome Saltstack](/content/hbokh/awesome-saltstack/week/README.md)
 
 ### Tutorials
 
 *   [Upgrading Salt to Python 3](https://salt.tips/upgrading-salt-to-python-3/) - How to switch SaltStack from Python2 to Python3.
 
-## [39. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [38. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Misc
 
 *   [NetCoreBeauty (⭐399)](https://github.com/nulastudio/NetCoreBeauty) - Simple library to move a .NET Core app runtime components and dependencies into a sub-directory and make it beauty.
 
-## [40. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
+## [39. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
 
 ### Unofficial Distributions / AlmaLinux OS
 
@@ -362,9 +356,9 @@
 *   [X410](https://token2shell.com/x410/) - X server for Windows 10 on the Microsoft Store. 💰
 *   [Xmanager](https://www.netsarang.com/en/xmanager/) - X server for Windows from NetSarang. 💰
 
-## [41. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [40. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
-### Discussion Groups and Mailing Lists
+### Community, SIGs, Discussion Forums and Mailing Lists
 
 *   [Keycloak Users Google Group](https://groups.google.com/forum/#!forum/keycloak-user)
 *   [Keycloak Developers Google Group](https://groups.google.com/forum/#!forum/keycloak-dev)
@@ -374,19 +368,19 @@
 
 ### Integrations
 
-*   [Keycloak Open-Shift integration (⭐18)](https://github.com/keycloak/openshift-integration)
+*   [Keycloak Open-Shift integration (⭐21)](https://github.com/keycloak/openshift-integration)
 
-## [42. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [41. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Development / Npm
 
-*   [wipe-modules (⭐343)](https://github.com/bntzio/wipe-modules) - Remove `node_modules` of inactive projects.
+*   [wipe-modules (⭐353)](https://github.com/bntzio/wipe-modules) - Remove `node_modules` of inactive projects.
 
 ### Just for Fun / Image Conversion
 
-*   [dankcli (⭐52)](https://github.com/sggts04/dankcli) - Add text to meme image templates.
+*   [dankcli (⭐55)](https://github.com/sggts04/dankcli) - Add text to meme image templates.
 
-## [43. Guitarspecs](/content/gitfrage/guitarspecs/week/README.md)
+## [42. Guitarspecs](/content/gitfrage/guitarspecs/week/README.md)
 
 ### Guitar Bodies / Body Shapes
 
@@ -438,7 +432,7 @@
 *   speed
 *   domed
 
-## [44. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
+## [43. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
 
 ### Training/Documentation
 
@@ -448,31 +442,29 @@
 
 ### Tools & Software / Replay
 
-*   [InterPlanetary Wayback (ipwb) (⭐589)](https://github.com/oduwsdl/ipwb) - Web Archive (WARC) indexing and replay using [IPFS](https://ipfs.io/).
+*   [InterPlanetary Wayback (ipwb) (⭐618)](https://github.com/oduwsdl/ipwb) - Web Archive (WARC) indexing and replay using [IPFS](https://ipfs.io/).
 *   [Reconstructive](https://oduwsdl.github.io/Reconstructive/) - Reconstructive is a ServiceWorker module for client-side reconstruction of composite mementos by rerouting resource requests to corresponding archived copies (JavaScript).
 
 ### Tools & Software / Search & Discovery
 
-*   [webarchive-discovery (⭐113)](https://github.com/ukwa/webarchive-discovery) - WARC and ARC full-text indexing and discovery tools, with a number of associated tools capable of using the index shown below. *(Stable)*
-    *   [Shine (⭐42)](https://github.com/ukwa/shine) - A prototype web archives exploration UI, developed with researchers as part of the [Big UK Domain Data for the Arts and Humanities project](https://buddah.projects.history.ac.uk/). *(Stable)*
-    *   [SolrWayback (⭐94)](https://github.com/netarchivesuite/solrwayback) - A backend Java and frontend VUE JS project with freetext search and a build in playback engine. Require Warc files has been index with the Warc-Indexer. The web application also has a wide range of data visualization tools and data export tools that can be used on the whole webarchive. [SolrWayback 4 Bundle release (⭐94)](https://github.com/netarchivesuite/solrwayback/releases) contains all the software and dependencies in an out-of-the box solution that is easy to install.
-    *   [Warclight (⭐48)](https://github.com/archivesunleashed/warclight) - A Project Blacklight based Rails engine that supports the discovery of web archives held in the WARC and ARC formats. *(In Development)*
-    *   [Wasp (⭐25)](https://github.com/webis-de/wasp) - A fully functional prototype of a personal [web archive and search system](http://ceur-ws.org/Vol-2167/paper6.pdf). *(In Development)*
-    *   Other possible options for builting a front-end are listed on in the `webarchive-discovery` wiki, [here (⭐113)](https://github.com/ukwa/webarchive-discovery/wiki/Front-ends).
+*   [webarchive-discovery (⭐119)](https://github.com/ukwa/webarchive-discovery) - WARC and ARC full-text indexing and discovery tools, with a number of associated tools capable of using the index shown below. *(Stable)*
+    *   [Shine (⭐43)](https://github.com/ukwa/shine) - A prototype web archives exploration UI, developed with researchers as part of the [Big UK Domain Data for the Arts and Humanities project](https://buddah.projects.history.ac.uk/). *(Stable)*
+    *   [SolrWayback (⭐107)](https://github.com/netarchivesuite/solrwayback) - A backend Java and frontend VUE JS project with freetext search and a build in playback engine. Require Warc files has been index with the Warc-Indexer. The web application also has a wide range of data visualization tools and data export tools that can be used on the whole webarchive. [SolrWayback 4 Bundle release (⭐107)](https://github.com/netarchivesuite/solrwayback/releases) contains all the software and dependencies in an out-of-the box solution that is easy to install.
+    *   [Warclight (⭐50)](https://github.com/archivesunleashed/warclight) - A Project Blacklight based Rails engine that supports the discovery of web archives held in the WARC and ARC formats. *(In Development)*
+    *   [Wasp (⭐27)](https://github.com/webis-de/wasp) - A fully functional prototype of a personal [web archive and search system](http://ceur-ws.org/Vol-2167/paper6.pdf). *(In Development)*
+    *   Other possible options for builting a front-end are listed on in the `webarchive-discovery` wiki, [here (⭐119)](https://github.com/ukwa/webarchive-discovery/wiki/Front-ends).
 
 ### Tools & Software / Utilities
 
-*   [ArchiveTools (⭐66)](https://github.com/recrm/ArchiveTools) - Collection of tools to extract and interact with WARC files (Python).
-*   [har2warc (⭐42)](https://github.com/webrecorder/har2warc) - Convert HTTP Archive (HAR) -> Web Archive (WARC) format (Python).
-*   [The Archive Browser](https://archivebrowser.c3.cx/) - The Archive Browser is a program that lets you browse the contents of archives, as well as extract them. It will let you open files from inside archives, and lets you preview them using Quick Look. WARC is supported (macOS only, Proprietary app).
-*   [The Unarchiver](http://unarchiver.c3.cx/unarchiver) - Program to extract the contents of many archive formats, inclusive of WARC, to a file system. Free variant of The Archive Browser (macOS only, Proprietary app).
+*   [ArchiveTools (⭐71)](https://github.com/recrm/ArchiveTools) - Collection of tools to extract and interact with WARC files (Python).
+*   [har2warc (⭐50)](https://github.com/webrecorder/har2warc) - Convert HTTP Archive (HAR) -> Web Archive (WARC) format (Python).
 
 ### Tools & Software / WARC I/O Libraries
 
-*   [jwarc (⭐42)](https://github.com/iipc/jwarc) - Read and write WARC files with a type safe API (Java).
-*   [warcio (⭐343)](https://github.com/webrecorder/warcio) - Streaming WARC/ARC library for fast web archive IO (Python). *(Stable)*
-*   [warctools (⭐141)](https://github.com/internetarchive/warctools) - Library to work with ARC and WARC files (Python).
-*   [webarchive (⭐17)](https://github.com/richardlehane/webarchive) - Golang readers for ARC and WARC webarchive formats (Golang).
+*   [jwarc (⭐49)](https://github.com/iipc/jwarc) - Read and write WARC files with a type safe API (Java).
+*   [warcio (⭐393)](https://github.com/webrecorder/warcio) - Streaming WARC/ARC library for fast web archive IO (Python). *(Stable)*
+*   [warctools (⭐153)](https://github.com/internetarchive/warctools) - Library to work with ARC and WARC files (Python).
+*   [webarchive (⭐21)](https://github.com/richardlehane/webarchive) - Golang readers for ARC and WARC webarchive formats (Golang).
 
 ### Tools & Software / Quality Assurance
 
@@ -481,12 +473,12 @@
 *   [Chrome link gopher](https://chrome.google.com/webstore/detail/bpjdkodgnbfalgghnbeggfbfjpcfamkf/publish-accepted?hl=en-US\&gl=US) - Browser extension: link harvester on a page.
 *   [Chrome Open Multiple URLs](https://chrome.google.com/webstore/detail/open-multiple-urls/oifijhaokejakekmnjmphonojcfkpbbh?hl=de) - Browser extension: opens multiple URLs and also extracts URLs from text.
 *   [Chrome Revolver](https://chrome.google.com/webstore/detail/revolver-tabs/dlknooajieciikpedpldejhhijacnbda) - Browser extension: switches between browser tabs.
-*   [FlameShot (⭐23k)](https://github.com/lupoDharkael/flameshot) - Screen capture and annotation on Ubuntu.
+*   [FlameShot (⭐25k)](https://github.com/lupoDharkael/flameshot) - Screen capture and annotation on Ubuntu.
 *   [PlayOnLinux](https://www.playonlinux.com/en/) - For running Xenu and Notepad++ on Ubuntu.
 *   [PlayOnMac](https://www.playonmac.com/en/) - For running Xenu and Notepad++ on macOS.
 *   [Windows Snipping Tool](https://support.microsoft.com/en-gb/help/13776/windows-use-snipping-tool-to-capture-screenshots) - Windows built-in for partial screen capture and annotation. On macOS you can use Command + Shift + 4 (keyboard shortcut for taking partial screen capture).
 *   [WineBottler](http://winebottler.kronenberg.org/) - For running Xenu and Notepad++ on macOS.
-*   [xDoTool (⭐3k)](https://github.com/jordansissel/xdotool) - Click automation on Ubuntu.
+*   [xDoTool (⭐3.4k)](https://github.com/jordansissel/xdotool) - Click automation on Ubuntu.
 *   [Xenu](http://home.snafu.de/tilman/xenulink.html) - Desktop link checker for Windows.
 
 ### Community Resources / Slack
@@ -499,7 +491,7 @@
 *   [@NetPreserve](https://twitter.com/NetPreserve) - Official IIPC handle.
 *   [#WebArchiving](https://twitter.com/search?q=%23webarchiving)
 
-## [45. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [44. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
@@ -508,13 +500,9 @@
 ### Projects Using Vue.js / Open Source
 
 *   [CoreUI Vue Admin Template (⭐3.3k)](https://github.com/coreui/coreui-free-vue-admin-template) - Open Source Admin Template powered by Vue.js
-*   [Akaunting (⭐7.9k)](https://github.com/akaunting/akaunting) - A free and online accounting software for small businesses and freelancers based on Laravel and VueJS.
+*   [Akaunting (⭐8.2k)](https://github.com/akaunting/akaunting) - A free and online accounting software for small businesses and freelancers based on Laravel and VueJS.
 
-### Components & Libraries / Utilities
-
-*   [vue-injector (⭐20)](https://github.com/Scandltd/vue-injector) - Dependency injection for Vue 2.x
-
-## [46. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
+## [45. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
 
 ### Graphic
 
@@ -524,7 +512,7 @@
 
 *   [TRegExpr (⭐151)](https://github.com/andgineer/TRegExpr). `[Delphi]` `[FPC]` Regular expressions engine in pure Object Pascal.
 
-## [47. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
+## [46. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
 
 ### Audio
 
@@ -780,13 +768,13 @@
 *   [/r/sysadmin](https://www.reddit.com/r/sysadmin)
 *   [/r/microsoftsoftwareswap](https://www.reddit.com/r/microsoftsoftwareswap)
 
-## [48. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
+## [47. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
 
 ### Swift
 
 *   [*Swift Protocol-Oriented Programming* by Jon Hoffman](https://www.amazon.com/Swift-Protocol-Oriented-Programming-productivity-applications-ebook/dp/B07TVB84G8)
 
-## [49. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/week/README.md)
+## [48. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/week/README.md)
 
 ### Basic linear algebra
 
@@ -796,16 +784,16 @@
 ### Meshing / Triangular and tetrahedral meshing
 
 *   [TetWild](https://yixin-hu.github.io/tetwild.pdf) - Generate tetrahedral meshes for triangular surface meshes.
-    (C++, GPL 3, [GitHub (⭐570)](https://github.com/Yixin-Hu/TetWild))
+    (C++, GPL 3, [GitHub (⭐619)](https://github.com/Yixin-Hu/TetWild))
 *   [fTetWild](https://arxiv.org/abs/1908.03581) - Same as TetWild, but faster.
-    (C++, MPL 2, [GitHub (⭐357)](https://github.com/wildmeshing/fTetWild))
+    (C++, MPL 2, [GitHub (⭐425)](https://github.com/wildmeshing/fTetWild))
 
 ### Other libraries and tools / Mesh tools
 
 *   [SLEPc](https://slepc.upv.es) - Scalable Library for Eigenvalue Problem Computations.
     (C, 2-clause BSD, [GitLab](https://gitlab.com/slepc/slepc))
 
-## [50. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [49. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Chart
 
@@ -820,21 +808,21 @@
 *   [crisp-bigquery (⭐43)](https://github.com/winwiz1/crisp-bigquery) - Full stack Google BigQuery with Express in TypeScript.
 *   [react-server-routing-example (⭐298)](https://github.com/mhart/react-server-routing-example) - Universal client/server routing and data with AWS DynamoDB.
 
-## [51. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [50. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Configuration
 
-*   [toml++ (⭐1.5k)](https://github.com/marzer/tomlplusplus) - Header-only TOML parser and serializer for C++17 and later. \[MIT] [website](https://marzer.github.io/tomlplusplus/)
+*   [toml++ (⭐1.6k)](https://github.com/marzer/tomlplusplus) - Header-only TOML parser and serializer for C++17 and later. \[MIT] [website](https://marzer.github.io/tomlplusplus/)
 
-## [52. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [51. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Authentication and Authorization
 
-*   [ASP.NET SAML (⭐357)](https://github.com/jitbit/AspNetSaml) - SAML authentication support for ASP.NET apps
+*   [ASP.NET SAML (⭐380)](https://github.com/jitbit/AspNetSaml) - SAML authentication support for ASP.NET apps
 
 ### Logging
 
-*   [Logary (⭐528)](https://github.com/logary/logary) - Logary is a high performance, multi-target logging, metric, tracing and health-check library for Mono and .NET. .NET's answer to DropWizard. Supports many targets, built for micro-services.
+*   [Logary (⭐527)](https://github.com/logary/logary) - Logary is a high performance, multi-target logging, metric, tracing and health-check library for Mono and .NET. .NET's answer to DropWizard. Supports many targets, built for micro-services.
 
 ### Mathematics
 
@@ -842,7 +830,7 @@
 
 ### Misc
 
-*   [FluentValidation (⭐9k)](https://github.com/FluentValidation/FluentValidation) - A small validation library for .NET that uses a fluent interface and lambda expressions for building validation rules.
+*   [FluentValidation (⭐9.2k)](https://github.com/FluentValidation/FluentValidation) - A small validation library for .NET that uses a fluent interface and lambda expressions for building validation rules.
 
 ### ORM
 
@@ -850,65 +838,65 @@
 *   [Entity Framework Core (⭐14k)](https://github.com/dotnet/efcore) - Object-relational mapper that enables .NET developers to work with relational data using domain-specific objects
 *   [MicroLite ORM (⭐85)](https://github.com/MicroLite-ORM/MicroLite) MicroLite ORM is a micro Object Relational Mapper for the .NET framework. It is designed to be easy to use, extensible and testable.
 
-## [53. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [52. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Audio and Music
 
-*   [enginesound (⭐296)](https://github.com/DasEtwas/enginesound) - A GUI and command line application used to procedurally generate semi-realistic engine sounds. Featuring in-depth configuration, variable sample rate and a frequency analysis window.
-*   [Spotifyd (⭐9.7k)](https://github.com/Spotifyd/spotifyd) - An open source Spotify client running as a UNIX daemon. ![Continuous Integration](https://github.com/Spotifyd/spotifyd/workflows/Continuous%20Integration/badge.svg?branch=master)
+*   [enginesound (⭐319)](https://github.com/DasEtwas/enginesound) - A GUI and command line application used to procedurally generate semi-realistic engine sounds. Featuring in-depth configuration, variable sample rate and a frequency analysis window.
+*   [Spotifyd (⭐10k)](https://github.com/Spotifyd/spotifyd) - An open source Spotify client running as a UNIX daemon. ![Continuous Integration](https://github.com/Spotifyd/spotifyd/workflows/Continuous%20Integration/badge.svg?branch=master)
 
 ### Applications / Utilities
 
-*   [guoxbin/dtool (⭐366)](https://github.com/guoxbin/dtool) - A useful command-line tool collection to assist development including conversion, codec, hashing, encryption, etc.
+*   [guoxbin/dtool (⭐371)](https://github.com/guoxbin/dtool) - A useful command-line tool collection to assist development including conversion, codec, hashing, encryption, etc.
 
 ### Development tools / Profiling
 
-*   [bheisler/criterion.rs (⭐4.4k)](https://github.com/bheisler/criterion.rs) - Statistics-driven benchmarking library
+*   [bheisler/criterion.rs (⭐4.8k)](https://github.com/bheisler/criterion.rs) - Statistics-driven benchmarking library
 
-## [54. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [53. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Templates / Preferences
 
-*   [FlutterFoodybite (⭐1.5k)](https://github.com/JideGuru/FlutterFoodybite) <!--stargazers:JideGuru/FlutterFoodybite--> - Beautiful food app UI template by [JideGuru](https://github.com/JideGuru)
+*   [FlutterFoodybite (⭐1.6k)](https://github.com/JideGuru/FlutterFoodybite) <!--stargazers:JideGuru/FlutterFoodybite--> - Beautiful food app UI template by [JideGuru](https://github.com/JideGuru)
 
-## [55. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
+## [54. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
 
 ### Plotter Art For Sale / Patents
 
 *   [Arjan van der Meij](https://dutchplottr.nl/en/)
 
-## [56. Awesome V](/content/vlang/awesome-v/week/README.md)
+## [55. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Command line interface (CLI) / Terminal / Shell
 
 *   [lol (⭐16)](https://github.com/0xLeif/lol) - V version of lolcat (text/character rainbowizer).
 
-## [57. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [56. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Visual Programming Languages
 
 *   [JOY.JS](https://ncase.me/joy/) - Realtime visual coding tool, easy to understand and aimed at beginners.
 
-## [58. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
+## [57. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
 ### Utility / Docker Container Actions
 
-*   [Mind Your Language Action (⭐12)](https://github.com/tailaiw/mind-your-language-action) - Detect offensive comments in issues and pull requests, and warn senders.
+*   [Mind Your Language Action (⭐17)](https://github.com/tailaiw/mind-your-language-action) - Detect offensive comments in issues and pull requests, and warn senders.
 
 ### Static Analysis / Semantic Versioning
 
-*   [Run tfsec, with reviewdog output on the PR (⭐52)](https://github.com/reviewdog/action-tfsec)
+*   [Run tfsec, with reviewdog output on the PR (⭐71)](https://github.com/reviewdog/action-tfsec)
 
 ### Static Analysis / Linting
 
-*   [Run sqlcheck on the PR to identifies anti-patterns in SQL queries (⭐21)](https://github.com/yokawasa/action-sqlcheck)
+*   [Run sqlcheck on the PR to identifies anti-patterns in SQL queries (⭐24)](https://github.com/yokawasa/action-sqlcheck)
 
-## [59. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
+## [58. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
 
 ### Projects / Libraries
 
-*   [Formalised Undecidable Problems (⭐102)](https://github.com/uds-psl/coq-library-undecidability) - Library of undecidable problems and reductions between them.
-*   [Regular Language Representations (⭐42)](https://github.com/coq-community/reglang) - Translations between different definitions of regular languages, including regular expressions and automata.
+*   [Formalised Undecidable Problems (⭐112)](https://github.com/uds-psl/coq-library-undecidability) - Library of undecidable problems and reductions between them.
+*   [Regular Language Representations (⭐41)](https://github.com/coq-community/reglang) - Translations between different definitions of regular languages, including regular expressions and automata.
 
 ### Projects / Package and Build Management
 
@@ -920,7 +908,7 @@
 
 ### Projects / Type Theory and Mathematics
 
-*   [Infotheo (⭐64)](https://github.com/affeldt-aist/infotheo) - Formalization of information theory and linear error-correcting codes.
+*   [Infotheo (⭐66)](https://github.com/affeldt-aist/infotheo) - Formalization of information theory and linear error-correcting codes.
 
 ### Resources / Books
 
@@ -928,9 +916,9 @@
 
 ### Resources / Tutorials and Hints
 
-*   [Coq'Art Exercises and Tutorials (⭐105)](https://github.com/coq-community/coq-art) - Coq code and exercises from the Coq'Art book, including additional tutorials.
+*   [Coq'Art Exercises and Tutorials (⭐115)](https://github.com/coq-community/coq-art) - Coq code and exercises from the Coq'Art book, including additional tutorials.
 
-## [60. Guides](/content/NARKOZ/guides/week/README.md)
+## [59. Guides](/content/NARKOZ/guides/week/README.md)
 
 ### Other / API
 
@@ -939,9 +927,9 @@
 
 ### Other / Node.js
 
-*   [Node.js Best Practices (⭐97k)](https://github.com/goldbergyoni/nodebestpractices#readme)
+*   [Node.js Best Practices (⭐99k)](https://github.com/goldbergyoni/nodebestpractices#readme)
 
-## [61. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [60. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Command-Line Productivity
 
@@ -960,7 +948,7 @@
 
 *   [bashhub-server (⭐294)](https://github.com/nicksherron/bashhub-server) - Private cloud shell history. Open source server for bashhub
 
-## [62. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
+## [61. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
 
 ### Philosophy And Psychology
 
@@ -983,13 +971,13 @@
 
 
 
-## [63. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
+## [62. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
 ### Applications / Web
 
 *   [FactorJS (⭐1.4k)](https://github.com/fiction-com/factor) - JavaScript CMS built with Mongoose
 
-## [64. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [63. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Monitoring
 
@@ -1003,7 +991,7 @@
 
 *   [Fenix Web Server](https://preview.fenixwebserver.com) - A developer desktop app for hosting sites locally and sharing them publically (in real-time). Work however you like, using its beautiful user interface, API, and/or CLI.
 
-## [65. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [64. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Tools / Playground
 
@@ -1011,7 +999,7 @@
 
 ### Web / Playground
 
-*   :octocat: [Tridactyl (⭐5.1k)](https://github.com/tridactyl/tridactyl) - A Firefox browser addon that replaces browser's control mechanism with one modelled on the one true editor, Vim.
+*   :octocat: [Tridactyl (⭐5.4k)](https://github.com/tridactyl/tridactyl) - A Firefox browser addon that replaces browser's control mechanism with one modelled on the one true editor, Vim.
 
 ---
 

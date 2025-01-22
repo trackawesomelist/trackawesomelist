@@ -24,13 +24,13 @@
 
 ### Command Line / XML
 
-*   [argsd (⭐15)](https://github.com/burner/argsd) - A command line and config file parser for DLang
+*   [argsd (⭐16)](https://github.com/burner/argsd) - A command line and config file parser for DLang
 
 ## [4. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### UI / Barcode
 
-*   [ShadowView (⭐410)](https://github.com/PierrePerrin/ShadowView) - Make shadows management easy on UIView.
+*   [ShadowView (⭐412)](https://github.com/PierrePerrin/ShadowView) - Make shadows management easy on UIView.
 
 ## [5. Awesome D3](/content/wbkd/awesome-d3/README.md)
 

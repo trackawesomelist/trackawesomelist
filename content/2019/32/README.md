@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 12 - Aug 18, 2019
 
-43 awesome lists updated this week.
+42 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -59,7 +59,7 @@
 
 ### Software / Communication - Custom Communication Systems
 
-*   [KChat (⭐146)](https://github.com/php-kchat/kchat) - PHP Based Live Chat Application. `Apache-2.0` `PHP`
+*   [KChat (⭐152)](https://github.com/php-kchat/kchat) - PHP Based Live Chat Application. `Apache-2.0` `PHP`
 
 ### Software / Communication - Email - Mail Transfer Agents
 
@@ -67,22 +67,22 @@
 
 ### Software / Internet of Things (IoT)
 
-*   [DeviceHive](https://www.devicehive.com/) - Open Source IoT Platform with a wide range of integration options. ([Demo](https://playground.devicehive.com/), [Source Code (⭐361)](https://github.com/devicehive/devicehive-java-server)) `Apache-2.0` `Java/Docker/K8S`
+*   [DeviceHive](https://www.devicehive.com/) - Open Source IoT Platform with a wide range of integration options. ([Demo](https://playground.devicehive.com/), [Source Code (⭐373)](https://github.com/devicehive/devicehive-java-server)) `Apache-2.0` `Java/Docker/K8S`
 
 ## [8. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Development / Text Editors
 
-*   [micro (⭐24k)](https://github.com/zyedidia/micro) - A simple and intuitive editor.
+*   [micro (⭐25k)](https://github.com/zyedidia/micro) - A simple and intuitive editor.
 
 ### Productivity / Time Tracking
 
-*   [Timewarrior (⭐1.1k)](https://github.com/GothenburgBitFactory/timewarrior) - Utility with simple stopwatch, calendar-based backfill and flexible reporting.
-*   [Watson (⭐2.4k)](https://github.com/TailorDev/Watson) - Generate reports for clients and manage your time.
+*   [Timewarrior (⭐1.3k)](https://github.com/GothenburgBitFactory/timewarrior) - Utility with simple stopwatch, calendar-based backfill and flexible reporting.
+*   [Watson (⭐2.5k)](https://github.com/TailorDev/Watson) - Generate reports for clients and manage your time.
 
 ### Files and Directories / Search
 
-*   [fd (⭐32k)](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to `find`.
+*   [fd (⭐34k)](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to `find`.
 
 ## [9. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/week/README.md)
 
@@ -103,11 +103,11 @@
 
 ### Multimedia content processing
 
-*   [libear (⭐27)](https://github.com/ebu/libear) - A C++11 library to render ADM content according to Recommendation ITU-R BS.2127.
+*   [libear (⭐29)](https://github.com/ebu/libear) - A C++11 library to render ADM content according to Recommendation ITU-R BS.2127.
 
 ### Radio Production
 
-*   [Rivendell (⭐197)](https://github.com/ElvishArtisan/rivendell) - Complete radio broadcast automation solution, translated to many languages and used worldwide.
+*   [Rivendell (⭐210)](https://github.com/ElvishArtisan/rivendell) - Complete radio broadcast automation solution, translated to many languages and used worldwide.
 
 ## [12. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
 
@@ -540,23 +540,17 @@
 
 ### Resources / Controllers
 
-*   [sdl2gdx (⭐71)](https://github.com/electronstudio/sdl2gdx) - Powerful gamepad implementation using SDL. Supports hundreds of controllers under the same mapping, rumble, and hotplugging.
+*   [sdl2gdx (⭐76)](https://github.com/electronstudio/sdl2gdx) - Powerful gamepad implementation using SDL. Supports hundreds of controllers under the same mapping, rumble, and hotplugging.
 
 ### Resources / Setup and Deployment
 
-*   [Packr (⭐2.5k)](https://github.com/libGDX/packr) - Packages your JAR, assets and a JVM for distribution on Windows, Linux and macOS.
+*   [Packr (⭐2.6k)](https://github.com/libGDX/packr) - Packages your JAR, assets and a JVM for distribution on Windows, Linux and macOS.
 
 ### Resources / Visual Effects
 
-*   [Shape Drawer (⭐180)](https://github.com/earlygrey/shapedrawer) - A performant alternative to ShapeRenderer that avoids Batch flushing.
+*   [Shape Drawer (⭐187)](https://github.com/earlygrey/shapedrawer) - A performant alternative to ShapeRenderer that avoids Batch flushing.
 
-## [16. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
-
-### Resources / Examples
-
-*   [Large scale Vue.js application boilerplate + Vuex (⭐271)](https://github.com/arunredhu/vuejs_boilerplate) - A boilerplate for starting large scale, flexible Vue.js application with using Vuex as state management - by [Arun Redhu](https://arunredhu.in)
-
-## [17. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [16. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Reading and Writing Tools / Note-taking
 
@@ -566,7 +560,7 @@
 
 *   [Bidbar](https://www.getbidbar.com) - Manage bash commands from the menu bar and run them with keyboard shortcuts.
 
-## [18. Awesome Embedded and Iot Security](/content/fkie-cad/awesome-embedded-and-iot-security/week/README.md)
+## [17. Awesome Embedded and Iot Security](/content/fkie-cad/awesome-embedded-and-iot-security/week/README.md)
 
 ### Software Tools / Extraction Tools
 
@@ -589,11 +583,11 @@
 *   [IoTGoat (⭐177)](https://github.com/scriptingxss/IoTGoat) - IoTGoat is a deliberately insecure firmware based on OpenWrt.
 *   [Rhme-2015 (⭐105)](https://github.com/Riscure/RHme-2015) - First riscure Hack me hardware CTF challenge.
 
-## [19. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [18. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### IntelliJ / Android Studio / Game Engine resources
 
-*   [Enhancement\_Suite (⭐286)](https://github.com/marius-h/flutter_enhancement_suite) <!--stargazers:marius-h/flutter_enhancement_suite--> - Search for pub.dev libraries, update version, Bloc, Snippet, etc you're covered by [Marius Höfler](https://github.com/marius-h)
+*   [Enhancement\_Suite (⭐287)](https://github.com/marius-h/flutter_enhancement_suite) <!--stargazers:marius-h/flutter_enhancement_suite--> - Search for pub.dev libraries, update version, Bloc, Snippet, etc you're covered by [Marius Höfler](https://github.com/marius-h)
 
 ### 🇷🇺 Russia / Misc
 
@@ -609,7 +603,7 @@
 *   Meetup [London](https://www.meetup.com/FlutterLDN/)
 *   [Twitter](https://twitter.com/FlutterLDN)
 
-## [20. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [19. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Icons
 
@@ -619,26 +613,26 @@
 
 *   [react-awesome-stars-rating (⭐28)](https://github.com/fedoryakubovich/react-awesome-stars-rating) - [demo](https://react-awesome-stars-rating.herokuapp.com/) - The star rating component with accessibility.
 
-## [21. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [20. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### Sample Projects / JVM languages
 
 *   [DDD Workshop - Project Manager (⭐60)](https://github.com/mkopylec/project-manager) - "Do It Yourself" DDD workshop and a sample DDD application at the same time. Based on a project managing domain.
 
-## [22. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
+## [21. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
 
 ### General Libraries
 
 *   [Alcinoe](http://sourceforge.net/projects/alcinoe) ([mirror at GH (⭐866)](https://github.com/Zeus64/alcinoe)). `[Delphi]` Library of visual and non-visual components for Delphi.
     // *Network: FTP/Http/NNTP/POP3/SMTP, ISAPI, WinInet Http/FTP clients; DB: Firebird/MySQL/SQLite3/Memcached/MongoDb/SphinxQL; XML/JSON Parser; ZLIB; Cryptography: AES, Blowfish, MD5, SHA, secure keyed MD5/SHA; opengl video player; FireMonkey controls; Other: Self-Balancing Binary Trees, expression evaluator*
 
-## [23. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
+## [22. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### Querying / Symfony2
 
 *   [TestMace](https://testmace.com) - Cross-platform simple but powerful IDE for API automation testing.
 
-## [24. Learn to Program](/content/karlhorky/learn-to-program/week/README.md)
+## [23. Learn to Program](/content/karlhorky/learn-to-program/week/README.md)
 
 ### Beginner
 
@@ -651,19 +645,19 @@
 **Free** foundational coding and data science skills for researchers\
 *(Python, R, OpenRefine, Unix Shell, Git)*
 
-## [25. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [24. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### GUI
 
 *   [SmoothOverscrollableScrollView (⭐27)](https://github.com/vovaksenov99/OverscrollableScrollView) - Small custom view with smooth overscroll. You can add header with scale background
 
-## [26. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [25. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### Tools
 
 *   [balenaEtcher](https://www.balena.io/etcher/) - SD card burner app that is simple for end users, extensible for developers, and works on any platform.
 
-## [27. Awesome Deep Learning Resources](/content/guillaume-chevalier/Awesome-Deep-Learning-Resources/week/README.md)
+## [26. Awesome Deep Learning Resources](/content/guillaume-chevalier/Awesome-Deep-Learning-Resources/week/README.md)
 
 ### Posts and Articles
 
@@ -673,7 +667,7 @@
 
 *   [Neuraxle, a framwework for machine learning pipelines (⭐543)](https://github.com/Neuraxio/Neuraxle) - The best framework for structuring and deploying your machine learning projects, and which is also compatible with most framework (e.g.: Scikit-Learn, TensorFlow, PyTorch, Keras, and so forth).
 
-## [28. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [27. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Mobile
 
@@ -685,7 +679,7 @@
 
 *   [Heliohost](https://www.heliohost.org/) for a free hosting solution.
 
-## [29. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [28. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Log Management
 
@@ -720,17 +714,13 @@
 
 *   [mousestats.com](https://www.mousestats.com/) — 100 sessions/month free for one website
 
-### Miscellaneous
+## [29. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
-*   [fullcontact.com](https://www.fullcontact.com/developer/pricing/) — Help your users know more about their contacts by adding social profile to your app. 500 free Person API matches/month
-
-## [30. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
-
-### Courses
+### Courses / Commerical Tools
 
 *   [Elements of AI (Part 1) - Reaktor/University of Helsinki](https://www.elementsofai.com/) - An Introduction to AI is a free online course for everyone interested in learning what AI is, what is possible (and not possible) with AI, and how it affects our lives – with no complicated math or programming required.
 
-## [31. Awesome Xamarin](/content/XamSome/awesome-xamarin/week/README.md)
+## [30. Awesome Xamarin](/content/XamSome/awesome-xamarin/week/README.md)
 
 ### Async
 
@@ -744,14 +734,14 @@
 
 *   [IconFont2Code ★52 (⭐261)](https://github.com/andreinitescu/IconFont2Code) - Generates a C# class with the glyph Unicode values in your font file (.ttf/.otf).
 
-## [32. Awesome Tikz](/content/xiaohanyu/awesome-tikz/week/README.md)
+## [31. Awesome Tikz](/content/xiaohanyu/awesome-tikz/week/README.md)
 
 ### Libraries / PGFPlots
 
 *   [graph35](https://ctan.org/tex-archive/graphics/graph35) – Draw keys and screen items of several Casio calculators.
 *   [pixelart](https://ctan.org/pkg/pixelart) - A package to draw pixel-art pictures.
 
-## [33. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
+## [32. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
 ### Automation and Convention
 
@@ -766,29 +756,29 @@
 
 *   [Locust](https://locust.io/) - Open source load testing tool in which you can define user behaviour with Python code and swarm your system with millions of simultaneous users.
 
-## [34. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
+## [33. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
 
 ### Package Management / Build Systems
 
-*   [pmm (⭐12)](https://github.com/AnotherFoxGuy/pmm) - PMM is a module for CMake that manages... package managers. [`[MIT]`](https://opensource.org/licenses/MIT)
+*   [pmm (⭐15)](https://github.com/AnotherFoxGuy/pmm) - PMM is a module for CMake that manages... package managers. [`[MIT]`](https://opensource.org/licenses/MIT)
 
 ### Modules
 
-*   [CMakeCM (⭐1)](https://github.com/AnotherFoxGuy/CMakeCM) - CMake Community Modules. `[NO LICENSE]`
+*   [CMakeCM (⭐2)](https://github.com/AnotherFoxGuy/CMakeCM) - CMake Community Modules. `[NO LICENSE]`
 
-## [35. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [34. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Files / Runner
 
-*   [PDF.js (⭐47k)](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript.
+*   [PDF.js (⭐48k)](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript.
 
-## [36. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [35. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Debugging
 
 *   [mate-clj (⭐57)](https://github.com/AppsFlyer/mate-clj)
 
-## [37. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/week/README.md)
+## [36. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/week/README.md)
 
 ### Books
 
@@ -800,7 +790,7 @@
 *   [CircuitPython 3 release poster](https://www.adafruit.com/product/3793) - CircuitPython release version 3 poster.
 *   [CircuitPlayground lanyard](https://www.adafruit.com/product/3987) - CircuitPlayground lanyard featuring Blinka.
 
-## [38. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [37. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
@@ -814,13 +804,13 @@
 
 *   [NuGet Trends (⭐148)](https://github.com/NuGetTrends/nuget-trends) - Website with statistics of NuGet packages download count.
 
-## [39. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [38. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Education
 
 *   [Duties of a Site Reliability Engineering Manager](https://victorops.com/blog/duties-of-a-site-reliability-engineering-manager)
 
-## [40. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [39. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### UI
 
@@ -830,7 +820,7 @@
 
 *   [fbt ★3202 (⭐3.8k)](https://github.com/facebookincubator/fbt) - A JavaScript Internationalization Framework
 
-## [41. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [40. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Frameworks • Libraries • Ecosystems
 
@@ -843,13 +833,13 @@
 
 *   [LiveCodeLab](http://livecodelab.net) - Run-as-you-type tool for VJs, musicians, teachers, students, kids.
 
-## [42. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
+## [41. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
 ### Tools / Misc
 
 *   [MySigMail Card](https://mysigmail.com/card/) - A free drag & drop builder helps you create email templates intuitively and very quickly.
 
-## [43. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+## [42. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
 ### Books / Tor Tools
 

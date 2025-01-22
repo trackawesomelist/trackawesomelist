@@ -8,7 +8,7 @@
 
 ## [1. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
-### Phone Number Research / Telegram
+### Phone Number Research / Steam
 
 *   [EmobileTracker.com](https://www.emobiletracker.com/) - a service specifically designed to Track Mobile Number, Location on Google Map including information such as the owner's Name,Location,Country,Telecom provider.
 
@@ -41,13 +41,13 @@
 
 ### Software / Groupware
 
-*   [Group Office](https://www.group-office.com) - Group-Office is an enterprise CRM and groupware tool. Share projects, calendars, files and e-mail online with co-workers and clients. ([Source Code (⭐185)](https://github.com/Intermesh/groupoffice/)) `AGPL-3.0` `PHP`
+*   [Group Office](https://www.group-office.com) - Group-Office is an enterprise CRM and groupware tool. Share projects, calendars, files and e-mail online with co-workers and clients. ([Source Code (⭐203)](https://github.com/Intermesh/groupoffice/)) `AGPL-3.0` `PHP`
 
 ## [4. Magictools](/content/ellisonleao/magictools/README.md)
 
 ### Graphics / Spritesheet Tools
 
-*   :tada: [EzSpriteSheet (⭐43)](https://github.com/z64me/EzSpriteSheet) - Creates sprite sheets from animated GIFs and more
+*   :tada: [EzSpriteSheet (⭐46)](https://github.com/z64me/EzSpriteSheet) - Creates sprite sheets from animated GIFs and more
 
 ### Engines and Frameworks / Voxel Editors
 
@@ -55,9 +55,9 @@
 *   :money\_with\_wings: [CopperCube](http://www.ambiera.com/coppercube/) - CopperCube is an all-in-one 3D game engine.Very easy to use.
 *   :tada: [Defold](http://www.defold.com/) - Free 2D Game Engine for Cross-Platform Publishing
 *   :free: [Lumberyard](https://aws.amazon.com/lumberyard/) - Amazon Lumberyard is a free AAA game engine deeply integrated
-*   :tada: [nuklear (⭐9k)](https://github.com/Immediate-Mode-UI/Nuklear) - A single-header ANSI C immediate mode cross-platform GUI library.
-*   :tada: [OpenXRay (⭐2.9k)](https://github.com/OpenXRay/xray-16) - a community-modified X-Ray engine used in S.T.A.L.K.E.R. game series.
-*   :tada: [Pixel Vision 8 (⭐1.6k)](https://github.com/PixelVision8/PixelVision8) - Pixel Vision 8's core philosophy is to teach retro game development with streamlined workflows. PV8 is also a platform that standardizes 8-bit fantasy console limitations built on top of the open-source C# game engine based on MonoGame.
+*   :tada: [nuklear (⭐9.4k)](https://github.com/Immediate-Mode-UI/Nuklear) - A single-header ANSI C immediate mode cross-platform GUI library.
+*   :tada: [OpenXRay (⭐3.1k)](https://github.com/OpenXRay/xray-16) - a community-modified X-Ray engine used in S.T.A.L.K.E.R. game series.
+*   :tada: [Pixel Vision 8 (⭐1.7k)](https://github.com/PixelVision8/PixelVision8) - Pixel Vision 8's core philosophy is to teach retro game development with streamlined workflows. PV8 is also a platform that standardizes 8-bit fantasy console limitations built on top of the open-source C# game engine based on MonoGame.
 
 ## [5. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
 
@@ -75,25 +75,25 @@
 
 ### Official plugins
 
-*   [App (⭐493)](https://github.com/ionic-team/capacitor-plugins/tree/main/app) - Handles high-level App state and events.
-*   [Screen Reader (⭐493)](https://github.com/ionic-team/capacitor-plugins/tree/main/screen-reader) - Provides access to TalkBack/VoiceOver/etc. and provides simple text-to-speech capabilities for visual accessibility.
+*   [App (⭐546)](https://github.com/ionic-team/capacitor-plugins/tree/main/app) - Handles high-level App state and events.
+*   [Screen Reader (⭐546)](https://github.com/ionic-team/capacitor-plugins/tree/main/screen-reader) - Provides access to TalkBack/VoiceOver/etc. and provides simple text-to-speech capabilities for visual accessibility.
 
 ### Community plugins
 
 *   Firebase
-    *   [Analytics (⭐159)](https://github.com/capacitor-community/firebase-analytics) - A native plugin for Firebase analytics.
-    *   [Crashlytics (⭐70)](https://github.com/capacitor-community/firebase-crashlytics) - Firebase Crashlytics.
-    *   [Fcm (⭐239)](https://github.com/capacitor-community/fcm) - Enable Firebase Cloud Messaging features for Capacitor apps.
+    *   [Analytics (⭐163)](https://github.com/capacitor-community/firebase-analytics) - A native plugin for Firebase analytics.
+    *   [Crashlytics (⭐74)](https://github.com/capacitor-community/firebase-crashlytics) - Firebase Crashlytics.
+    *   [Fcm (⭐245)](https://github.com/capacitor-community/fcm) - Enable Firebase Cloud Messaging features for Capacitor apps.
     *   [Remote config (⭐23)](https://github.com/capacitor-community/firebase-remote-config) - A native plugin for Firebase remote config.
-*   [Photoviewer (⭐49)](https://github.com/capacitor-community/photoviewer) - PhotoViewer table images with full-screen and sharing capabilities.
-*   [Privacy screen (⭐79)](https://github.com/capacitor-community/privacy-screen) - Protects your app from displaying a screenshot in recents screen/App Switcher.
-*   [Screen brightness (⭐23)](https://github.com/capacitor-community/screen-brightness) - Control screen brightness on iOS and android.
+*   [Photoviewer (⭐55)](https://github.com/capacitor-community/photoviewer) - PhotoViewer table images with full-screen and sharing capabilities.
+*   [Privacy screen (⭐89)](https://github.com/capacitor-community/privacy-screen) - Protects your app from displaying a screenshot in recents screen/App Switcher.
+*   [Screen brightness (⭐25)](https://github.com/capacitor-community/screen-brightness) - Control screen brightness on iOS and android.
 
 ### Other plugins
 
-*   [Intent (⭐11)](https://github.com/IT-MikeS/capacitor-intents) - Supports multiple broadcast receiving of intents, and sending out BroadcastIntents in Android.
-*   [Oauth2 (⭐224)](https://github.com/moberwasserlechner/capacitor-oauth2) - Generic OAuth 2 client plugin. It let you configure the OAuth parameters yourself instead of using SDKs.
-*   [Video player (⭐112)](https://github.com/jepiqueau/capacitor-video-player) - Play a video full-screen on IOS, Android, Web and Electron platforms.
+*   [Intent (⭐12)](https://github.com/IT-MikeS/capacitor-intents) - Supports multiple broadcast receiving of intents, and sending out BroadcastIntents in Android.
+*   [Oauth2 (⭐244)](https://github.com/moberwasserlechner/capacitor-oauth2) - Generic OAuth 2 client plugin. It let you configure the OAuth parameters yourself instead of using SDKs.
+*   [Video player (⭐116)](https://github.com/jepiqueau/capacitor-video-player) - Play a video full-screen on IOS, Android, Web and Electron platforms.
 
 ## [8. Awesome Slim](/content/nekofar/awesome-slim/README.md)
 
@@ -106,8 +106,8 @@
 
 ### Competitive Programming / Diagnostics
 
-*   [p00f/cphelper.nvim (⭐128)](https://github.com/p00f/cphelper.nvim) - Neovim helper for competitive programming written in Lua.
-*   [xeluxee/competitest.nvim (⭐392)](https://github.com/xeluxee/competitest.nvim) - A plugin to automate testcases management and checking for Competitive Programming contests.
+*   [p00f/cphelper.nvim (⭐138)](https://github.com/p00f/cphelper.nvim) - Neovim helper for competitive programming written in Lua.
+*   [xeluxee/competitest.nvim (⭐455)](https://github.com/xeluxee/competitest.nvim) - A plugin to automate testcases management and checking for Competitive Programming contests.
 
 ## [10. Awesome Low Code](/content/zenitysec/awesome-low-code/README.md)
 
@@ -131,44 +131,44 @@
 
 ### Gaming
 
-*   [Esports (⭐64)](https://github.com/strift/awesome-esports#readme) - Video games played as a sport.
+*   [Esports (⭐72)](https://github.com/strift/awesome-esports#readme) - Video games played as a sport.
 
 ### Testing
 
-*   [Gatling (⭐67)](https://github.com/aliesbelik/awesome-gatling#readme) - Open-source load and performance testing framework based on Scala, Akka, and Netty.
+*   [Gatling (⭐71)](https://github.com/aliesbelik/awesome-gatling#readme) - Open-source load and performance testing framework based on Scala, Akka, and Netty.
 
 ## [12. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Audio and Music
 
-*   [Glicol (⭐2.2k)](https://github.com/chaosprint/glicol) - Graph-oriented live coding language, for collaborative musicking in browsers.
+*   [Glicol (⭐2.5k)](https://github.com/chaosprint/glicol) - Graph-oriented live coding language, for collaborative musicking in browsers.
 
 ## [13. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Packages / HTTP
 
-*   [undici (⭐6k)](https://github.com/nodejs/undici) - High performance HTTP client written from scratch with zero dependencies.
-*   [ky-universal (⭐669)](https://github.com/sindresorhus/ky-universal) - Universal HTTP client based on Fetch.
-*   [purest (⭐550)](https://github.com/simov/purest) - REST client.
+*   [undici (⭐6.4k)](https://github.com/nodejs/undici) - High performance HTTP client written from scratch with zero dependencies.
+*   [ky-universal (⭐672)](https://github.com/sindresorhus/ky-universal) - Universal HTTP client based on Fetch.
+*   [purest (⭐555)](https://github.com/simov/purest) - REST client.
 
 ### Packages / Debugging / Profiling
 
-*   [dats (⭐100)](https://github.com/immobiliare/dats) - Minimalistic and zero-dependencies [StatsD (⭐18k)](https://github.com/statsd/statsd) client.
+*   [dats (⭐103)](https://github.com/immobiliare/dats) - Minimalistic and zero-dependencies [StatsD (⭐18k)](https://github.com/statsd/statsd) client.
 
 ### Packages / Web frameworks
 
-*   [Fastify (⭐32k)](https://github.com/fastify/fastify) - Fast and low overhead web framework.
-*   [Nuxt.js (⭐54k)](https://github.com/nuxt/nuxt.js) - Minimalistic framework for server-rendered Vue.js apps.
-*   [AdonisJs (⭐16k)](https://github.com/adonisjs/core) - A true MVC framework for Node.js built on solid foundations of Dependency Injection and IoC container.
-*   [Moleculer (⭐6.1k)](https://github.com/moleculerjs/moleculer) - Fast & powerful microservices framework.
+*   [Fastify (⭐33k)](https://github.com/fastify/fastify) - Fast and low overhead web framework.
+*   [Nuxt.js (⭐55k)](https://github.com/nuxt/nuxt.js) - Minimalistic framework for server-rendered Vue.js apps.
+*   [AdonisJs (⭐17k)](https://github.com/adonisjs/core) - A true MVC framework for Node.js built on solid foundations of Dependency Injection and IoC container.
+*   [Moleculer (⭐6.2k)](https://github.com/moleculerjs/moleculer) - Fast & powerful microservices framework.
 
 ### Packages / Streams
 
-*   [from2 (⭐131)](https://github.com/hughsk/from2) - Convenience wrapper for ReadableStream, inspired by `through2`.
+*   [from2 (⭐132)](https://github.com/hughsk/from2) - Convenience wrapper for ReadableStream, inspired by `through2`.
 
 ### Packages / Parsing
 
-*   [@parcel/css (⭐6.2k)](https://github.com/parcel-bundler/parcel-css) - A CSS parser, transformer, and minifier written in Rust.
+*   [@parcel/css (⭐6.6k)](https://github.com/parcel-bundler/parcel-css) - A CSS parser, transformer, and minifier written in Rust.
 
 ### Packages / Minifiers
 
@@ -178,13 +178,13 @@
 
 ### Tools & Software / Acquisition
 
-*   [Waybackpy (⭐429)](https://github.com/akamhy/waybackpy) -  Wayback Machine Save, CDX and availability API interface in Python and a command-line tool  *(Stable)*
+*   [Waybackpy (⭐498)](https://github.com/akamhy/waybackpy) -  Wayback Machine Save, CDX and availability API interface in Python and a command-line tool  *(Stable)*
 
 ## [15. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
 
 ### Python / Trading & Backtesting
 
-*   [Blankly (⭐2.1k)](https://github.com/Blankly-Finance/Blankly) - Fully integrated backtesting, paper trading, and live deployment.
+*   [Blankly (⭐2.2k)](https://github.com/Blankly-Finance/Blankly) - Fully integrated backtesting, paper trading, and live deployment.
 
 ---
 

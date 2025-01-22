@@ -24,7 +24,7 @@
 
 *   [tmux-mpv-info (⭐4)](https://github.com/Feqzz/tmux-mpv-info) Displays the current song playing with MPV in your tmux status bar.
 *   [tmux-spotify-info (⭐79)](https://github.com/jdxcode/tmux-spotify-info) Spotify track info on your status bar (OSX)
-*   [tmux-spotify-info (⭐9)](https://github.com/Feqzz/tmux-spotify-info) Spotify track info on your status bar (Linux)
+*   [tmux-spotify-info (⭐12)](https://github.com/Feqzz/tmux-spotify-info) Spotify track info on your status bar (Linux)
 *   [tmux-weather-info-yr (⭐1)](https://github.com/Feqzz/tmux-weather-info-yr) Displays the current temperature and weather based on your location via yr.no
 
 ## [4. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/README.md)
@@ -37,8 +37,8 @@
 
 ### Variant Calling / Clustering
 
-*   **[DeepVariant (⭐2.7k)](https://github.com/google/deepvariant)** - Deep learning-based variant caller \[ [paper-2018](https://rdcu.be/7Dhl) ]
-*   **[Octopus (⭐269)](https://github.com/luntergroup/octopus)** - A polymorphic bayesian genotyping model with wide applicability. \[ [paper-2021](https://www.nature.com/articles/s41587-021-00861-3) ]
+*   **[DeepVariant (⭐3.3k)](https://github.com/google/deepvariant)** - Deep learning-based variant caller \[ [paper-2018](https://rdcu.be/7Dhl) ]
+*   **[Octopus (⭐305)](https://github.com/luntergroup/octopus)** - A polymorphic bayesian genotyping model with wide applicability. \[ [paper-2021](https://www.nature.com/articles/s41587-021-00861-3) ]
 
 ## [6. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
@@ -50,23 +50,23 @@
 
 ### Deployment Tools / Discovery
 
-*   [Colmena (⭐1.1k)](https://github.com/zhaofengli/colmena) - A simple, stateless NixOS deployment tool modeled after NixOps and morph.
+*   [Colmena (⭐1.4k)](https://github.com/zhaofengli/colmena) - A simple, stateless NixOS deployment tool modeled after NixOps and morph.
 
 ### Programming Languages / Crystal
 
-*   [crystal2nix (⭐14)](https://github.com/nix-community/crystal2nix) - Convert `shard.lock` into Nix expressions.
+*   [crystal2nix (⭐15)](https://github.com/nix-community/crystal2nix) - Convert `shard.lock` into Nix expressions.
 
 ## [8. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md)
 
 ### Bundle Analyzer / Meetups
 
-*   [BundleStats (⭐475)](https://github.com/relative-ci/bundle-stats) - Generate bundle report(bundle size, assets, modules, packages) and compare the results between different builds
+*   [BundleStats (⭐593)](https://github.com/relative-ci/bundle-stats) - Generate bundle report(bundle size, assets, modules, packages) and compare the results between different builds
 
 ## [9. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Crates / Component Libraries
 
-*   [tailwind-yew-builder (⭐74)](https://github.com/matiu2/tailwind-yew-builder) - Builds Tailwind CSS for Yew using docker-compose. Also supports Trunk.
+*   [tailwind-yew-builder (⭐76)](https://github.com/matiu2/tailwind-yew-builder) - Builds Tailwind CSS for Yew using docker-compose. Also supports Trunk.
 
 ## [10. Awesome Digital History](/content/maehr/awesome-digital-history/README.md)
 
@@ -89,7 +89,7 @@
 
 ### Tools / Online Analyzers
 
-*   [Pithus](https://beta.pithus.org/) - Open-Source APK analyzer. Still in Beta for the moment and limited to static analysis for the moment. Possible to hunt malware with Yara rules. More [here](https://beta.pithus.org/about/).
+*   [Pithus](https://beta.pithus.org/) - Open-Source APK analyzer. Still in Beta for the moment and limited to static analysis for the moment. It is possible to hunt malware with Yara rules. More [here](https://beta.pithus.org/about/).
 
 ## [12. Public Apis](/content/public-apis/public-apis/README.md)
 

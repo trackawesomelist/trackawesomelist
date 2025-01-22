@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 28, 2021
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -32,19 +32,13 @@
 
 *   [gfx-rs (⭐5.3k)](https://github.com/gfx-rs/gfx) - A low-overhead Vulkan-like GPU API for Rust. \[Apache License 2.0]
 
-## [3. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / UI Components
-
-*   [vue-easter-egg-trigger (⭐8)](https://github.com/webdevnerdstuff/vue-easter-egg-trigger) - This packages makes it nice and easy to add Easter Egg triggers to your Vue 2 site. [Vue 3 (⭐2)](https://github.com/webdevnerdstuff/vue3-easter-egg-trigger) version also available.
-
-## [4. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
+## [3. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 
 ### Packages / Application layer
 
 *   [navigation (⭐1.6k)](https://github.com/ros-planning/navigation2/) - ROS2 Navigation stack. ![navigation](https://img.shields.io/github/stars/ros-planning/navigation2.svg)
 
-## [5. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [4. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Communication - SIP
 
@@ -56,47 +50,47 @@
 
 ### Software / Genealogy
 
-*   [webtrees](https://www.webtrees.net) - Webtrees is the web's leading online collaborative genealogy application. ([Demo](https://dev.webtrees.net/demo-stable/index.php?ctype=gedcom\&ged=demo), [Source Code (⭐446)](https://github.com/fisharebest/webtrees)) `GPL-3.0` `PHP`
+*   [webtrees](https://www.webtrees.net) - Webtrees is the web's leading online collaborative genealogy application. ([Demo](https://dev.webtrees.net/demo-stable/index.php?ctype=gedcom\&ged=demo), [Source Code (⭐524)](https://github.com/fisharebest/webtrees)) `GPL-3.0` `PHP`
 
-## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### APIs, Data, and ML
 
 *   [Mocki](https://mocki.io) - A tool that lets you create mock GraphQL and REST APIs synced to a GitHub repository. Simple REST APIs are free to develop and use without signup.
 
-## [7. Awesome Gatling](/content/aliesbelik/awesome-gatling/README.md)
+## [6. Awesome Gatling](/content/aliesbelik/awesome-gatling/README.md)
 
 ### Tools / Plugins
 
-*   [gatling-gradle-plugin (⭐27)](https://github.com/gatling/gatling-gradle-plugin) - Gatling plugin for Gradle.
+*   [gatling-gradle-plugin (⭐28)](https://github.com/gatling/gatling-gradle-plugin) - Gatling plugin for Gradle.
 
 ### Tools / Miscellaneous
 
 *   [gatling.g8 (⭐8)](https://github.com/gatling/gatling.g8) - Giter8 template for Gatling.
 
-## [8. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [7. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Tools
 
 *   [Typin (⭐243)](https://github.com/adambajguz/Typin) - Simple to use declarative framework for interactive CLI applications and command line tools (direct mode) that has its roots in CliFx.
 
-## [9. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/README.md)
+## [8. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/README.md)
 
 ### Finance
 
-*   [CryptoDepotWidget (⭐9)](https://github.com/Martlgap/CryptoDepotWidget) - A widget showing your crypto balances.
+*   [CryptoDepotWidget (⭐12)](https://github.com/Martlgap/CryptoDepotWidget) - A widget showing your crypto balances.
 
     <img src="https://raw.githubusercontent.com/Martlgap/CryptoDepotWidget/main/preview_small.png" height="100"/>
     <img src="https://raw.githubusercontent.com/Martlgap/CryptoDepotWidget/main/preview_medium.png" height="100"/>
     <img src="https://raw.githubusercontent.com/Martlgap/CryptoDepotWidget/main/preview_large.png" height="200"/>
 
-## [10. Awesome Seml](/content/SE-ML/awesome-seml/README.md)
+## [9. Awesome Seml](/content/SE-ML/awesome-seml/README.md)
 
 ### Governance
 
 *   [A Human-Centered Interpretability Framework Based on Weight of Evidence](https://arxiv.org/pdf/2104.13299.pdf) 🎓
 
-## [11. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
+## [10. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 
 ### Programming Languages/Frameworks/Platforms / Python
 

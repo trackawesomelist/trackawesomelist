@@ -16,11 +16,11 @@
 
 ### Databases Implemented in Go
 
-*   [redka (⭐3.5k)](https://github.com/nalgeon/redka) - Redis re-implemented with SQLite.
+*   [redka (⭐3.6k)](https://github.com/nalgeon/redka) - Redis re-implemented with SQLite.
 
 ### Utilities
 
-*   [go-events (⭐1)](https://github.com/deatil/go-events) - A go event and event'subscribe package, like wordpress hook functions.
+*   [go-events (⭐2)](https://github.com/deatil/go-events) - A go event and event'subscribe package, like wordpress hook functions.
 
 ## [3. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
@@ -65,12 +65,13 @@
 
 *   [Multi-Exit IP Address Checker](https://ip.alstra.ca/) —  A free and simple tool to check your exit IP address across multiple nodes and understand how your IP appears to different global regions and services. Useful for testing rule-based DNS splitting tools such as Control D.
 
-## [7. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/README.md)
+## [7. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
-### JavaScript / React
+### Blockchain
 
-*   [クイックスタート](https://ja.react.dev/learn) - Facebook Inc.
+*   [Build a Blockchain from Scratch in Go with gRPC (⭐293)](https://github.com/volodymyrprokopyuk/go-blockchain) - Volodymyr Prokopyuk
 
 ---
 
+- Prev: [Oct 25, 2024](/content/2024/10/25/README.md)
 - Next: [Oct 23, 2024](/content/2024/10/23/README.md)

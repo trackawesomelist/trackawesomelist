@@ -187,8 +187,8 @@
 
 ### Libraries / Artificial Intelligence
 
-*   [innoave/genevo (⭐173)](https://github.com/innoave/genevo) - Execute genetic algorithm (GA) simulations in a customizable and extensible way.
-*   [m-decoster/RsGenetic (⭐76)](https://github.com/m-decoster/RsGenetic) - Genetic Algorithm library. In maintenance mode.
+*   [innoave/genevo (⭐180)](https://github.com/innoave/genevo) - Execute genetic algorithm (GA) simulations in a customizable and extensible way.
+*   [m-decoster/RsGenetic (⭐75)](https://github.com/m-decoster/RsGenetic) - Genetic Algorithm library. In maintenance mode.
 *   [autumnai/leaf (⭐5.6k)](https://github.com/autumnai/leaf) - Open Machine Intelligence framework.. Abandoned project. The most updated fork is [juice (⭐1.1k)](https://github.com/fff-rs/juice).
 
 ## [7. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
@@ -325,7 +325,7 @@
 
 ### Applications / Episodes
 
-*   [talking-with-cars (⭐103)](https://github.com/P1kachu/talking-with-cars) - CAN related scripts, and scripts to use a car as a gamepad
+*   [talking-with-cars (⭐115)](https://github.com/P1kachu/talking-with-cars) - CAN related scripts, and scripts to use a car as a gamepad
 
 ## [13. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 
@@ -361,19 +361,19 @@
 
 ### Program analysis
 
-*   [BAP (⭐2k)](https://github.com/BinaryAnalysisPlatform/bap) - BAP is a reverse engineering and program analysis platform that targets binary programs.
-*   [BinCat (⭐1.6k)](https://github.com/airbus-seclab/bincat) - BinCat is a binary code static analysis toolkit.
+*   [BAP (⭐2.1k)](https://github.com/BinaryAnalysisPlatform/bap) - BAP is a reverse engineering and program analysis platform that targets binary programs.
+*   [BinCat (⭐1.7k)](https://github.com/airbus-seclab/bincat) - BinCat is a binary code static analysis toolkit.
 
 ### Developer Tools
 
-*   [Jupyter (⭐288)](https://github.com/akabe/ocaml-jupyter) – An OCaml kernel for the Jupyter notebook.
-*   [utop (⭐835)](https://github.com/ocaml-community/utop) – Universal toplevel for OCaml with support for multiline edition, history, real-time and context-sensitive completion, colors, and more.
-*   [ocamlformat (⭐612)](https://github.com/ocaml-ppx/ocamlformat) - A command-line tool to format OCaml code.
+*   [Jupyter (⭐291)](https://github.com/akabe/ocaml-jupyter) – An OCaml kernel for the Jupyter notebook.
+*   [utop (⭐846)](https://github.com/ocaml-community/utop) – Universal toplevel for OCaml with support for multiline edition, history, real-time and context-sensitive completion, colors, and more.
+*   [ocamlformat (⭐631)](https://github.com/ocaml-ppx/ocamlformat) - A command-line tool to format OCaml code.
 *   **Foreign Function Interface**:
-    *   [ctypes (⭐365)](https://github.com/ocamllabs/ocaml-ctypes) – Library for binding to C libraries using pure OCaml.
+    *   [ctypes (⭐371)](https://github.com/ocamllabs/ocaml-ctypes) – Library for binding to C libraries using pure OCaml.
     *   [ocaml-main-program-in-c (⭐16)](https://github.com/johnwhitington/ocaml-main-program-in-c) – Example build system for making mixed C/Ocaml binaries where the main program is in C.
     *   [Modular foreign function bindings](http://openmirage.org/blog/modular-foreign-function-bindings)
-    *   [Py.ml (⭐179)](https://github.com/thierry-martinez/pyml) - OCaml bindings for Python.
+    *   [Py.ml (⭐187)](https://github.com/thierry-martinez/pyml) - OCaml bindings for Python.
 
 ### Messaging
 
@@ -387,7 +387,7 @@
 
 ### API
 
-*   [Telegram.Bot (⭐3.1k)](https://github.com/TelegramBots/Telegram.Bot) - .NET Client for [Telegram Bot API](https://core.telegram.org/bots/api)
+*   [Telegram.Bot (⭐3.3k)](https://github.com/TelegramBots/Telegram.Bot) - .NET Client for [Telegram Bot API](https://core.telegram.org/bots/api)
 
 ### Business Intelligence
 
@@ -395,11 +395,11 @@
 
 ### Machine Learning and Data Science
 
-*   [ML.NET (⭐9k)](https://github.com/dotnet/machinelearning) - Cross-platform open-source machine learning framework which makes machine learning accessible to .NET developers.
+*   [ML.NET (⭐9.1k)](https://github.com/dotnet/machinelearning) - Cross-platform open-source machine learning framework which makes machine learning accessible to .NET developers.
 
 ### Protocols
 
-*   [SharpSnmpLib](https://docs.sharpsnmp.com/) - An open source SNMP implementation for .NET/Mono/Xamarin. Versioin 1, 2c, and 3 are supported.
+*   [SharpSnmpLib](https://docs.sharpsnmp.com/) - An open source SNMP implementation for .NET/Mono/Xamarin. Version 1, 2c, and 3 are supported.
 
 ## [19. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
 
@@ -480,15 +480,15 @@
 
 ### Processes and Threads
 
-*   [promise (⭐40)](https://github.com/spider-gazelle/promise) - A Promise implementation with type inference
+*   [promise (⭐42)](https://github.com/spider-gazelle/promise) - A Promise implementation with type inference
 
 ### Scheduling
 
-*   [tasker (⭐55)](https://github.com/spider-gazelle/tasker) - A high precision scheduler including timezone aware cron jobs
+*   [tasker (⭐56)](https://github.com/spider-gazelle/tasker) - A high precision scheduler including timezone aware cron jobs
 
 ### Shell plugins
 
-*   [crun (⭐43)](https://github.com/Val/crun) - Crystal Run : shebang wrapper for Crystal
+*   [crun (⭐45)](https://github.com/Val/crun) - Crystal Run : shebang wrapper for Crystal
 
 ## [29. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
@@ -526,7 +526,7 @@
 
 ### Images / Barcode
 
-*   [ATGMediaBrowser (⭐213)](https://github.com/altayer-digital/ATGMediaBrowser) - Image slide-show viewer with multiple predefined transition styles, and with ability to create new transitions with ease.
+*   [ATGMediaBrowser (⭐215)](https://github.com/altayer-digital/ATGMediaBrowser) - Image slide-show viewer with multiple predefined transition styles, and with ability to create new transitions with ease.
 
 ## [34. Awesome Github](/content/phillipadsmith/awesome-github/week/README.md)
 
@@ -538,11 +538,11 @@
 
 ### Reactive programming
 
-*   [Cells (⭐210)](https://github.com/kennytilton/cells) - an implementation of the dataflow programming paradigm, reactive spreadsheet-like expressiveness for CLOS. Used to build an [algebra learning system](http://tiltontec.com/). With [documentation (⭐19)](https://github.com/stefano/cells-doc/). Lisp LGPL.
+*   [Cells (⭐211)](https://github.com/kennytilton/cells) - an implementation of the dataflow programming paradigm, reactive spreadsheet-like expressiveness for CLOS. Used to build an [algebra learning system](http://tiltontec.com/). With [documentation (⭐19)](https://github.com/stefano/cells-doc/). Lisp LGPL.
 
 ### Contract programming
 
-*   [quid-pro-quo (⭐93)](https://github.com/sellout/quid-pro-quo) - a contract
+*   [quid-pro-quo (⭐95)](https://github.com/sellout/quid-pro-quo) - a contract
     programming library in the style of Eiffel’s Design by Contract ™. Public domain.
 
 ### Beginner
@@ -552,7 +552,7 @@
 
 ### Job processing / Third-party APIs
 
-*   [clerk (⭐19)](https://github.com/tsikov/clerk) - a cron-like scheduler with sane DSL. [MIT](https://opensource.org/licenses/MIT).
+*   [clerk (⭐18)](https://github.com/tsikov/clerk) - a cron-like scheduler with sane DSL. [MIT](https://opensource.org/licenses/MIT).
 
 ## [36. Awesome Groovy](/content/kdabir/awesome-groovy/week/README.md)
 
@@ -567,7 +567,7 @@
 
 ### Testing
 
-*   [Betamax (⭐462)](https://github.com/betamaxteam/betamax) - Betamax is a tool for mocking external HTTP resources such as web services and REST APIs in your tests.
+*   [Betamax (⭐472)](https://github.com/betamaxteam/betamax) - Betamax is a tool for mocking external HTTP resources such as web services and REST APIs in your tests.
 
 ### Concurrency
 
@@ -575,7 +575,7 @@
 
 ### Code Analysis
 
-*   [Sonar-Groovy (⭐53)](https://github.com/pmayweg/sonar-groovy) - SonarQube Groovy plugin
+*   [Sonar-Groovy (⭐52)](https://github.com/pmayweg/sonar-groovy) - SonarQube Groovy plugin
 
 ### Conferences
 
@@ -854,7 +854,7 @@
 
 ### Libraries
 
-*   [Rambda (⭐1.6k)](https://github.com/selfrefactor/rambda) - A faster alternative to Ramda in under 10kB.
+*   [Rambda (⭐1.7k)](https://github.com/selfrefactor/rambda) - A faster alternative to Ramda in under 10kB.
 
 ### Resources / Videos
 
@@ -890,22 +890,22 @@
 
 ### Apps
 
-*   [IPFS Desktop (⭐5.7k)](https://github.com/ipfs-shipyard/ipfs-desktop) - IPFS Desktop gives you all the power of IPFS in a convenient desktop app: a complete IPFS node, plus handy OS menubar/taskbar shortcuts and an all-in-one file manager, peer map, and content explorer.
+*   [IPFS Desktop (⭐6.1k)](https://github.com/ipfs-shipyard/ipfs-desktop) - IPFS Desktop gives you all the power of IPFS in a convenient desktop app: a complete IPFS node, plus handy OS menubar/taskbar shortcuts and an all-in-one file manager, peer map, and content explorer.
 
 ## [43. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Artificial Intelligence
 
-*   [Genann (⭐2k)](https://github.com/codeplea/genann) - Simple neural network library in C. \[zlib]
+*   [Genann (⭐2.1k)](https://github.com/codeplea/genann) - Simple neural network library in C. \[zlib]
 
 ### Database
 
-*   [nanodbc (⭐327)](https://github.com/nanodbc/nanodbc) - A small C++ wrapper for the native C ODBC API. \[MIT]
+*   [nanodbc (⭐344)](https://github.com/nanodbc/nanodbc) - A small C++ wrapper for the native C ODBC API. \[MIT]
 *   [ODB](https://www.codesynthesis.com/products/odb/) - An open-source, cross-platform, and cross-database object-relational mapping (ORM) system for C++. \[GPLv2]
 
 ### Game Engine
 
-*   [Acid (⭐1.7k)](https://github.com/Equilibrium-Games/Acid) - A high speed C++17 Vulkan game engine. \[MIT]
+*   [Acid (⭐1.8k)](https://github.com/Equilibrium-Games/Acid) - A high speed C++17 Vulkan game engine. \[MIT]
 
 ### Logging
 

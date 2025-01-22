@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 03, 2023
 
-10 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Image Reverse Search
 
-*   [imsearch (⭐616)](https://github.com/lolishinshi/imsearch) - Image search powering [soutubot.moe](https://soutubot.moe). \[中文]
+*   [imsearch (⭐670)](https://github.com/lolishinshi/imsearch) - Image search powering [soutubot.moe](https://soutubot.moe). \[中文]
 
 ## [2. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
 
@@ -26,7 +26,7 @@
 
 ### Software / Note-taking & Editors
 
-*   [Note Mark](https://notemark.docs.enchantedcode.co.uk/) - A minimal web-based Markdown notes app. ([Source Code (⭐293)](https://github.com/enchant97/note-mark)) `AGPL-3.0` `Docker`
+*   [Note Mark](https://notemark.docs.enchantedcode.co.uk/) - A minimal web-based Markdown notes app. ([Source Code (⭐382)](https://github.com/enchant97/note-mark)) `AGPL-3.0` `Docker`
 
 ## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -34,63 +34,38 @@
 
 *   [vue-animate (⭐1.4k)](https://github.com/asika32764/vue-animate) - A Vue.js port of Animate.css. For use with Vue's built-in transitions.
 
-## [5. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/README.md)
-
-### **Finetuning** / **Llama Finetuning**
-
-*   Official LLama Recipes incl. Finetuning: [git (⭐11k)](https://github.com/facebookresearch/llama-recipes)
-
-### **Section 10: General AI Tools and Extensions** / **OSS Alternatives for OpenAI Code Interpreter (aka. Advanced Data Analytics)**
-
-*   Future Tools: <https://www.futuretools.io/>
-
-## [6. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
-
-### Family
-
-### [The Witcher: Old World](https://boardgamegeek.com/boardgame/331106/witcher-old-world)
-
-> The Witcher: Old World immerses you in the legendary universe of The Witcher franchise. In the time when monsters roamed the Continent, the well-trained Witchers were in high demand. Competing schools prepared them for perilous adventures and helping those in trouble in exchange for coins.
-> In this competitive board game, 2-5 players embark on quests, make moral choices, fight monsters, and sometimes brawl with other witchers to defend their school's honor. Players construct unique decks with attacks, dodges, and witcher magic called "signs" to achieve powerful combos. Earn money, obtain items, and train skills through quests, battles or even dice poker.
-
-![The Witcher: Old World](https://cf.geekdo-images.com/tQVVSXcmYLvAoI28cp-2Tg__itemrep/img/rxCXKwIjRmHKwONcIo5Ja7iTiKc=/fit-in/246x300/filters:strip_icc\(\)/pic5974859.jpg)
-
-| Players | Min. Age |    Time |
-| ------: | -------: | ------: |
-|    1 -5 |       14 | 90-150m |
-
-## [7. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/README.md)
+## [5. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/README.md)
 
 ### Online editors
 
 *   [WebLaTeX (⭐884)](https://github.com/sanjib-sen/weblatex) - Web-based vscode with Git Integration + Copilot + Grammar & Spell Checker + Live Collaboration Support based on GitHub Codespace and Dev container.
 
-## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Payment and Billing Integration
 
 *   [FxRatesAPI](https://fxratesapi.com) — Provides real-time and historical exchange rates. The free tier requires attribution.
 
-## [9. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [7. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### (requires Neovim 0.5)
 
-*   [hinell/lsp-timeout.nvim (⭐204)](https://github.com/hinell/lsp-timeout.nvim) - Automatically start/stop idle/unused LSP servers; keeps RAM usage low.
+*   [hinell/lsp-timeout.nvim (⭐222)](https://github.com/hinell/lsp-timeout.nvim) - Automatically start/stop idle/unused LSP servers; keeps RAM usage low.
 
 ### AI / Diagnostics
 
-*   [dense-analysis/neural (⭐443)](https://github.com/dense-analysis/neural) - Integrate LLMs for generating code, interacting with chat bots, and more.
+*   [dense-analysis/neural (⭐479)](https://github.com/dense-analysis/neural) - Integrate LLMs for generating code, interacting with chat bots, and more.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [polirritmico/monokai-nightasty.nvim (⭐99)](https://github.com/polirritmico/monokai-nightasty.nvim) - A dark/light theme based on the Monokai color palette written in Lua, support for LSP, Tree-sitter and lots of plugins.
+*   [polirritmico/monokai-nightasty.nvim (⭐135)](https://github.com/polirritmico/monokai-nightasty.nvim) - A dark/light theme based on the Monokai color palette written in Lua, support for LSP, Tree-sitter and lots of plugins.
 
 ### Editing Support / Diagnostics
 
 *   [hinell/duplicate.nvim (⭐19)](https://github.com/hinell/duplicate.nvim) - Duplicate lines & blocks of lines easily; undo & unfolding support; full OOP.
-*   [hinell/move.nvim (⭐9)](https://github.com/hinell/move.nvim) - Move chunks of text around; fork of [fedepujol/move.nvim (⭐342)](https://github.com/fedepujol/move.nvim).
+*   [hinell/move.nvim (⭐10)](https://github.com/hinell/move.nvim) - Move chunks of text around; fork of [fedepujol/move.nvim (⭐353)](https://github.com/fedepujol/move.nvim).
 
-## [10. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+## [8. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
 ### Prompt Engineering
 

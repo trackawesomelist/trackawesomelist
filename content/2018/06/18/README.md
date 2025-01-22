@@ -69,7 +69,7 @@ Webpage: <http://ogniwo.org/>
 
 ### Caching
 
-*   [nebulex (⭐1.2k)](https://github.com/cabol/nebulex) - A fast, flexible and extensible distributed and local caching library for Elixir.
+*   [nebulex (⭐1.3k)](https://github.com/cabol/nebulex) - A fast, flexible and extensible distributed and local caching library for Elixir.
 
 ### Third Party APIs
 
@@ -89,17 +89,17 @@ Webpage: <http://ogniwo.org/>
 
 ### Framework Components
 
-*   [device\_detector (⭐22)](https://github.com/creadone/device_detector) - Shard for detect device by user agent string
+*   [device\_detector (⭐23)](https://github.com/creadone/device_detector) - Shard for detect device by user agent string
 
 ### Official Documentation Translations
 
-*   [mpngin (⭐32)](https://github.com/thewalkingtoast/mpngin) - A URL shortener with simple stats
+*   [mpngin (⭐33)](https://github.com/thewalkingtoast/mpngin) - A URL shortener with simple stats
 
 ## [11. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
 ### Monitoring/Statistics/Perfomance / Samples
 
-*   [pgstats (⭐114)](https://github.com/gleu/pgstats) - Collects PostgreSQL statistics, and either saves them in CSV files or print them on the stdout.
+*   [pgstats (⭐118)](https://github.com/gleu/pgstats) - Collects PostgreSQL statistics, and either saves them in CSV files or print them on the stdout.
 
 ## [12. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
 
@@ -115,28 +115,19 @@ Webpage: <http://ogniwo.org/>
 
 ### Text & Rich Content / Image Picker
 
-*   [Masked Text (⭐274)](https://github.com/benhurott/flutter-masked-text) <!--stargazers:benhurott/flutter-masked-text--> - Masked text with custom and monetary formatting by [Ben-hur Santos Ott](https://github.com/benhurott)
+*   [Masked Text (⭐276)](https://github.com/benhurott/flutter-masked-text) <!--stargazers:benhurott/flutter-masked-text--> - Masked text with custom and monetary formatting by [Ben-hur Santos Ott](https://github.com/benhurott)
 
 ## [14. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Resources / Examples
-
-*   [Hands-On Web Development with Vue.js](https://www.packtpub.com/web-development/hands-web-development-vuejs-video) by Roman Kuba, Packt. (May 2018)
 
 ### Resources / Books
 
 *   [Full-Stack Web Development with Vue.js and Node](https://www.amazon.com/Full-Stack-Web-Development-Vue-js-Node/dp/1788831144) by Aneeta Sharma, Packt. (May 2018)
 
-### Components & Libraries / UI Utilities
-
-*   [vue-page-visibility-awesome (⭐11)](https://github.com/stefanodotit/vue-page-visibility-awesome) - A Vue 2.x component of easy-to-config page visibility api.
-*   [vue-authplugin (⭐6)](https://github.com/vv13/vue-authplugin) - an elegant view auth control plugin, support directive and prototype methods.
-
 ## [15. Awesome Java](/content/akullpp/awesome-java/README.md)
 
 ### Security / Other
 
-*   [Jwks RSA (⭐193)](https://github.com/auth0/jwks-rsa-java) - JSON Web Key Set parser.
+*   [Jwks RSA (⭐195)](https://github.com/auth0/jwks-rsa-java) - JSON Web Key Set parser.
 
 ---
 

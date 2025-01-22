@@ -34,13 +34,13 @@
 
 ### Validation
 
-*   [validator (⭐29)](https://github.com/Nicolab/crystal-validator) - Data check and validation
+*   [validator (⭐30)](https://github.com/Nicolab/crystal-validator) - Data check and validation
 
 ## [6. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 
 ### Network Tools / Wireless Network Tools
 
-*   [PSKracker (⭐384)](https://github.com/soxrok2212/PSKracker) - Collection of WPA/WPA2/WPS default algorithms, password generators, and PIN generators written in C.
+*   [PSKracker (⭐404)](https://github.com/soxrok2212/PSKracker) - Collection of WPA/WPA2/WPS default algorithms, password generators, and PIN generators written in C.
 
 ---
 

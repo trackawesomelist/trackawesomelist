@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 17 - Sep 23, 2018
 
-44 awesome lists updated this week.
+43 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Services / Bluetooth / NFC / Beacon
 
-*   [OneSignal (⭐606)](https://github.com/OneSignal/OneSignal-Flutter-SDK) <!--stargazers:OneSignal/OneSignal-Flutter-SDK--> - Push notification service by [OneSignal](https://github.com/OneSignal)
+*   [OneSignal (⭐632)](https://github.com/OneSignal/OneSignal-Flutter-SDK) <!--stargazers:OneSignal/OneSignal-Flutter-SDK--> - Push notification service by [OneSignal](https://github.com/OneSignal)
 
 ## [2. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/week/README.md)
 
@@ -42,7 +42,7 @@
 
 ### Python / Data Analysis / Data Visualization
 
-*   [Dash (⭐21k)](https://github.com/plotly/dash) - A framework for creating analytical web applications built on top of Plotly.js, React, and Flask
+*   [Dash (⭐22k)](https://github.com/plotly/dash) - A framework for creating analytical web applications built on top of Plotly.js, React, and Flask
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
@@ -71,7 +71,7 @@
 
 ### Concurrency
 
-*   [Async++ (⭐1.3k)](https://github.com/Amanieu/asyncplusplus) - A lightweight concurrency framework for C++11, inspired by the Microsoft PPL library and the N3428 C++ standard proposal. \[MIT]
+*   [Async++ (⭐1.4k)](https://github.com/Amanieu/asyncplusplus) - A lightweight concurrency framework for C++11, inspired by the Microsoft PPL library and the N3428 C++ standard proposal. \[MIT]
 
 ## [10. Public Apis](/content/public-apis/public-apis/week/README.md)
 
@@ -99,13 +99,13 @@
 
 ### Audio Tools
 
-*   [fre:ac (⭐1.3k)](https://github.com/enzo1982/freac) - free audio converter. It supports audio CD ripping and tag editing.
-*   [Jack (⭐14)](https://github.com/jack-cli-cd-ripper/jack) - command-line CD ripper.
-*   [K3b (⭐134)](https://github.com/KDE/k3b) - is a full-featured CD/DVD/Blu-ray burning and ripping application.
-*   [lltag (⭐30)](https://github.com/bgoglin/lltag) - automatic command-line mp3/ogg/flac file tagger and renamer.
-*   [Rubyripper (⭐118)](https://github.com/bleskodev/rubyripper) - is a secure digital audio extraction application ("cd ripper") for Unix-like operating systems.
-*   [split2flac (⭐249)](https://github.com/ftrvxmtrx/split2flac) - split flac/ape/wv/wav + cue sheet into separate tracks
-*   [Whipper (⭐1.1k)](https://github.com/JoeLametta/whipper) - Python CD-DA ripper preferring accuracy over speed.
+*   [fre:ac (⭐1.5k)](https://github.com/enzo1982/freac) - free audio converter. It supports audio CD ripping and tag editing.
+*   [Jack (⭐15)](https://github.com/jack-cli-cd-ripper/jack) - command-line CD ripper.
+*   [K3b (⭐160)](https://github.com/KDE/k3b) - is a full-featured CD/DVD/Blu-ray burning and ripping application.
+*   [lltag (⭐31)](https://github.com/bgoglin/lltag) - automatic command-line mp3/ogg/flac file tagger and renamer.
+*   [Rubyripper (⭐129)](https://github.com/bleskodev/rubyripper) - is a secure digital audio extraction application ("cd ripper") for Unix-like operating systems.
+*   [split2flac (⭐256)](https://github.com/ftrvxmtrx/split2flac) - split flac/ape/wv/wav + cue sheet into separate tracks
+*   [Whipper (⭐1.2k)](https://github.com/JoeLametta/whipper) - Python CD-DA ripper preferring accuracy over speed.
 *   [X Audio Copy (⭐4)](https://github.com/giorgiofranceschi/xaudiocopy) - GTK and GNOME application for ripping CD-Audio and encoding in lossy and lossless audio formats.
 
 ### Music Programming
@@ -163,27 +163,17 @@
 
 ### Software / Money, Budgeting & Management
 
-*   [Kresus](https://kresus.org/) - Open source personal finance manager. ([Demo](https://kresus.org/en/demo.html), [Source Code (⭐293)](https://github.com/kresusapp/kresus)) `MIT` `Nodejs/Docker`
+*   [Kresus](https://kresus.org/) - Open source personal finance manager. ([Demo](https://kresus.org/en/demo.html), [Source Code (⭐306)](https://github.com/kresusapp/kresus)) `AGPL-3.0` `Nodejs/Docker`
 
 ### Software / Resource Planning
 
-*   [LedgerSMB](https://ledgersmb.org/) - Integrated accounting and ERP system for small and midsize businesses, with double entry accounting, budgeting, invoicing, quotations, projects, orders and inventory management, shipping and more. ([Demo](https://demo.cloud.efficito.com/erp/1.5/login.pl), [Source Code (⭐408)](https://github.com/ledgersmb/LedgerSMB)) `GPL-2.0` `Docker/Perl`
+*   [LedgerSMB](https://ledgersmb.org/) - Integrated accounting and ERP system for small and midsize businesses, with double entry accounting, budgeting, invoicing, quotations, projects, orders and inventory management, shipping and more. ([Demo](https://demo.cloud.efficito.com/erp/1.5/login.pl), [Source Code (⭐436)](https://github.com/ledgersmb/LedgerSMB)) `GPL-2.0` `Docker/Perl`
 
 ### Software / Ticketing
 
-*   [FreeScout (⭐2.8k)](https://github.com/freescout-helpdesk/freescout) - Open source clone of Help Scout: email-based customer support application, help desk and shared mailbox. `AGPL-3.0` `PHP/Docker`
+*   [FreeScout (⭐3.2k)](https://github.com/freescout-helpdesk/freescout) - Open source clone of Help Scout: email-based customer support application, help desk and shared mailbox. `AGPL-3.0` `PHP/Docker`
 
-## [19. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
-
-### Job boards aggregators
-
-*   [JS Remotely](https://jsremotely.com/) - All remote JavaScript jobs on one board
-
-### Housing
-
-*   [The Surf Office](https://www.thesurfoffice.com/home/) - Coworking & vacation space in Portugal, Canaries and California
-
-## [20. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/week/README.md)
+## [19. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/week/README.md)
 
 ### Source Code Repos
 
@@ -194,10 +184,6 @@
 
 *   [Bootstrap Studio](https://bootstrapstudio.io/pages/student-license) \[FREE] - IDE that creates responsive websites using the Bootstrap framework.
 
-### Email
-
-*   [Send Grid](https://sendgrid.com/partner/github-education) \[CREDIT] - Student plan 15K free emails/month (normally limited to 200 free emails/day) while you're a student available via [Github Student Developer Pack](https://education.github.com/pack).
-
 ### CI / CD
 
 *   [Travis CI](https://travis-ci.org) \[FREE] - Private builds (normally $69/month) while you're a student available via [Github Student Developer Pack](https://education.github.com/pack).
@@ -206,21 +192,13 @@
 
 *   [Stripe](https://stripe.com/) \[CREDIT] - Web and mobile payments, built for developers. Waived transaction fees on first $1,000 in revenue processed available via [Github Student Developer Pack](https://education.github.com/pack).
 
-### Management Systems
-
-*   [Bitnami](https://bitnami.com) \[FREE] - Install cloud applications in a single click. Business 3 plan (normally $49/month) for one year available via [Github Student Developer Pack](https://education.github.com/pack).
-
-### Localization
-
-*   [Transifex](https://www.transifex.com) \[FREE / CREDIT]- A localization platform for translating digital content. 1 Free Year worth $99/month available via [Github Student Developer Pack](https://education.github.com/pack).
-
-## [21. Awesome Web Design](/content/nicolesaidy/awesome-web-design/week/README.md)
+## [20. Awesome Web Design](/content/nicolesaidy/awesome-web-design/week/README.md)
 
 ### Design Tools
 
 *   [Framer X](https://framer.com/): Interaction Design and UX design software.
 
-## [22. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
+## [21. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
 ### Tracking / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
@@ -239,20 +217,20 @@
 *   [Hosts (⭐22k)](https://github.com/StevenBlack/hosts) - Consolidates several reputable hosts files, and merges them into a single unified one.
 *   [Blocklists (⭐4.5k)](https://github.com/jmdugan/blocklists) - Shared lists of problem domains people may want to block with hosts files.
 
-## [23. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [22. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Pagination
 
-*   [Pagy (⭐4.5k)](https://github.com/ddnexus/pagy) - Pagy is the ultimate pagination gem that outperforms the others in each and every benchmark and comparison. More details can be found on [Pagy Wiki](https://ddnexus.github.io/pagy/index).
+*   [Pagy (⭐4.6k)](https://github.com/ddnexus/pagy) - Pagy is the ultimate pagination gem that outperforms the others in each and every benchmark and comparison. More details can be found on [Pagy Wiki](https://ddnexus.github.io/pagy/index).
 
-## [24. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [23. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Libraries / Chrome Extensions
 
 *   :octocat: [io-ts (⭐6.7k)](https://github.com/gcanti/io-ts) - Type validation at runtime
-*   :octocat: [fast-check (⭐4.2k)](https://github.com/dubzzz/fast-check) - Property based testing framework for TypeScript.
+*   :octocat: [fast-check (⭐4.4k)](https://github.com/dubzzz/fast-check) - Property based testing framework for TypeScript.
 
-## [25. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [24. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / Service Workers
 
@@ -262,7 +240,7 @@
 
 *   [Community Groups App - Debugging relationships in Ember CLI Mirage (part 3)](https://www.youtube.com/watch?time_continue=1\&v=DRzPJ4RMT0w)
 
-## [26. Awesome Amazon Seller](/content/ScaleLeap/awesome-amazon-seller/week/README.md)
+## [25. Awesome Amazon Seller](/content/ScaleLeap/awesome-amazon-seller/week/README.md)
 
 ### Software and Tools
 
@@ -278,7 +256,7 @@
 *   [The Ecommerce Momentum](https://ecommercemomentum.com/) - Hosted by Stephen Peterson. Interviews with the top Amazon, eBay and e-commerce sellers in the world.
 *   [The My Wife Quit Her Job Podcast](https://mywifequitherjob.com/category/podcast/) - Hosted by Steve Chou. An interview based show where Steve brings in small business entrepreneurs who are killing it online. All of the entrepreneurs on the show bootstrapped their businesses and started their own ventures to improve their lifestyle in some way.
 
-## [27. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [26. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Configuration
 
@@ -297,7 +275,7 @@
 
 *   [quicktype](https://quicktype.io/) - Generate models and serializers from JSON, JSON Schema, GraphQL, and TypeScript
 
-## [28. Awesome Ethereum](/content/ttumiel/Awesome-Ethereum/week/README.md)
+## [27. Awesome Ethereum](/content/ttumiel/Awesome-Ethereum/week/README.md)
 
 ### Misc
 
@@ -307,13 +285,13 @@
 
 *   [Ethereum Website](https://www.ethereum.org/)
 
-## [29. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
+## [28. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
 
 ### Applications / Episodes
 
-*   [CANalyzat0r (⭐713)](https://github.com/schutzwerk/CANalyzat0r) - A security analysis toolkit for proprietary car protocols.
+*   [CANalyzat0r (⭐763)](https://github.com/schutzwerk/CANalyzat0r) - A security analysis toolkit for proprietary car protocols.
 
-## [30. Awesome Speakers](/content/karlhorky/awesome-speakers/week/README.md)
+## [29. Awesome Speakers](/content/karlhorky/awesome-speakers/week/README.md)
 
 ### South America / Brazil 🇧🇷
 
@@ -325,14 +303,14 @@
 Topics: Functional Programming, Compilers, Type Theory, Category Theory, Lambda Calculus\
 <https://twitter.com/nexwire>
 
-## [31. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [30. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### On-Call
 
 *   [Checklists: a stupidly simple but valuable operational gift](https://tech.buzzfeed.com/checklists-an-operational-gift-aaf42cf0be12)
 *   [How to write a status page update](https://blog.hostedgraphite.com/2018/09/13/how-to-write-a-status-page-update/)
 
-## [32. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [31. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Exceptions and Error Handling
 
@@ -342,13 +320,13 @@ Topics: Functional Programming, Compilers, Type Theory, Category Theory, Lambda 
 
 *   [kezban (⭐41)](https://github.com/ertugrulcetin/kezban)
 
-## [33. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [32. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### For Electron / Other
 
 *   [run-electron (⭐197)](https://github.com/sindresorhus/run-electron) - Run Electron without all the junk terminal output.
 
-## [34. Awesome Construct](/content/ConstructCommunity/awesome-construct/week/README.md)
+## [33. Awesome Construct](/content/ConstructCommunity/awesome-construct/week/README.md)
 
 ### Community
 
@@ -418,7 +396,7 @@ Topics: Functional Programming, Compilers, Type Theory, Category Theory, Lambda 
 *   [Game Assets by Andre Antonio Schmitzht](https://game-assets.zeef.com/andre.antonio.schmitz) - Resources and tools for creating assets used in games: graphics, modeling, animation, audio, music, video, maps and others.
 *   [Game Development by David Arcila](https://game-development.zeef.com/david.arcila) - "*The biggest list of game development resources on the web*".
 
-## [35. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
+## [34. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
 
 ### Cross-platform frameworks / Official resources
 
@@ -426,7 +404,7 @@ Topics: Functional Programming, Compilers, Type Theory, Category Theory, Lambda 
 *   [BBC TAL](https://bbc.github.io/tal/) - An open source library for building applications for Smart TV developed by BBC engineers.
 *   [PureQML TV (⭐26)](https://github.com/pureqml/qmlcore-tv) - A declarative front-end framework for web-based SmartTV/STB platforms. Has experimental support of Android TV.
 
-## [36. Awesome Homematic](/content/homematic-community/awesome-homematic/week/README.md)
+## [35. Awesome Homematic](/content/homematic-community/awesome-homematic/week/README.md)
 
 ### Documentation
 
@@ -438,26 +416,26 @@ Topics: Functional Programming, Compilers, Type Theory, Category Theory, Lambda 
 *   [jq (⭐0)](https://github.com/hobbyquaker/ccu-addon-jq) - jq packaged as Addon for the Homematic CCU3.
 *   [Redis (⭐2)](https://github.com/hobbyquaker/ccu-addon-redis) - Redis packaged as Addon for the Homematic CCU3 and RaspberryMatic
 
-## [37. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
+## [36. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
 ### Misc / Firmwares for ESP based Devices
 
 *   [gBridge (⭐162)](https://github.com/kservices/gBridge) - gBridge allows you to control (almost) any smart home device, any smart home software, with Google Assistant. Therefore, it transforms actions received from Google by voice commands to MQTT messages.
 
-## [38. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [37. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Misc
 
-*   [Tuist (⭐4.4k)](https://github.com/tuist/tuist) - An open source command line tool to create, maintain and interact with your Xcode projects at scale.
+*   [Tuist (⭐4.6k)](https://github.com/tuist/tuist) - An open source command line tool to create, maintain and interact with your Xcode projects at scale.
 *   [xcodeproj (⭐2k)](https://github.com/tuist/xcodeproj) - A library to read, update and write Xcode projects and workspaces.
 
 ### Video / Barcode
 
-*   [PryntTrimmerView (⭐816)](https://github.com/HHK1/PryntTrimmerView) - Trim and crop videos.
+*   [PryntTrimmerView (⭐861)](https://github.com/HHK1/PryntTrimmerView) - Trim and crop videos.
 
-## [39. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
+## [38. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
-### Courses
+### Courses / Commerical Tools
 
 *   [Deep Learning and the Game of Go](https://www.manning.com/books/deep-learning-and-the-game-of-go) - Deep Learning and the Game of Go teaches you how to apply the power of deep learning to complex human-flavored reasoning tasks by building a Go-playing AI. After exposing you to the foundations of machine and deep learning, you'll use Python to build a bot and then teach it the rules of the game.
 *   [Deep Learning for Search](https://www.manning.com/books/deep-learning-for-search) -  Deep Learning for Search teaches you how to leverage neural networks, NLP, and deep learning techniques to improve search performance.
@@ -465,25 +443,25 @@ Topics: Functional Programming, Compilers, Type Theory, Category Theory, Lambda 
 *   [Deep Reinforcement Learning in Action](https://www.manning.com/books/deep-reinforcement-learning-in-action) -  Deep Reinforcement Learning in Action teaches you the fundamental concepts and terminology of deep reinforcement learning, along with the practical skills and techniques you’ll need to implement it into your own projects.
 *   [Grokking Deep Reinforcement Learning](https://www.manning.com/books/grokking-deep-reinforcement-learning) -  Grokking Deep Reinforcement Learning introduces this powerful machine learning approach, using examples, illustrations, exercises, and crystal-clear teaching.
 
-### Philosophy
+### Philosophy / Commerical Tools
 
 *   [Life 3.0: Being Human in the Age of Artificial Intelligence](https://www.goodreads.com/book/show/34272565-life-3-0) - Max Tegmark, professor of Physics at MIT, discusses how Artificial Intelligence may affect crime, war, justice, jobs, society and our very sense of being human both in the near and far future.
 
-### Videos
+### Videos / Commerical Tools
 
 *   [AWS Machine Learning in Motion](https://www.manning.com/livevideo/aws-machine-learning-in-motion)—This interactive live video course gives you a crash course in using AWS for machine learning and teaches you how to build a fully working predictive algorithm.
 *   [Deep Learning with R in Motion](https://www.manning.com/livevideo/deep-learning-with-r-in-motion)-Deep Learning with R in Motion teaches you to apply deep learning to text and images using the powerful Keras library and its R language interface.
 *   [Grokking Deep Learning in Motion](https://www.manning.com/livevideo/grokking-deep-learning-in-motion)-Grokking Deep Learning in Motion will not just teach you how to use a single library or framework. You’ll discover how to build these algorithms from scratch!
 
-### Organizations
+### Organizations / Commerical Tools
 
 *   [Google DeepMind Research](https://deepmind.com/research/)
 
-### Misc
+### Misc / Commerical Tools
 
 *   [Artificial Intelligence Subreddit](https://www.reddit.com/r/artificial/)
 
-## [40. Awesome Educational Games](/content/yrgo/awesome-educational-games/week/README.md)
+## [39. Awesome Educational Games](/content/yrgo/awesome-educational-games/week/README.md)
 
 ### CSS
 
@@ -493,29 +471,29 @@ Topics: Functional Programming, Compilers, Type Theory, Category Theory, Lambda 
 *   [Flexbox Froggy](http://flexboxfroggy.com/) - A game for learning CSS flexbox.
 *   [Flexbox with Webflow](https://www.flexboxgame.com/) - Learn and master flexbox in 28 interactive levels—without writing code.
 
-## [41. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [40. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / CMS
 
 *   [ZKEACMS (⭐2.8k)](https://github.com/SeriaWei/ZKEACMS.Core) - Visual design, build site onlie by drag and drop.
 
-## [42. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
+## [41. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
 
 ### Utils / Third Party
 
 *   [d3-voronoi-treemap (⭐159)](https://github.com/Kcnarf/d3-voronoi-treemap) - Computes a treemap based on a Voronoi tesselation
 
-## [43. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [42. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Platforms
 
-*   [DigitalOcean (⭐341)](https://github.com/jonleibowitz/awesome-digitalocean#readme) - Cloud computing platform designed for developers.
+*   [DigitalOcean (⭐349)](https://github.com/jonleibowitz/awesome-digitalocean#readme) - Cloud computing platform designed for developers.
 
 ### Gaming
 
-*   [Game Boy Development (⭐3.9k)](https://github.com/gbdev/awesome-gbdev#readme)
+*   [Game Boy Development (⭐4k)](https://github.com/gbdev/awesome-gbdev#readme)
 
-## [44. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [43. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Device Farm
 

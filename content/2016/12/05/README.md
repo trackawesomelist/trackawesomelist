@@ -107,7 +107,7 @@
 
 ### Other Useful Repositories
 
-- Repository: [Linux Kernel Exploitation (⭐5.5k)](https://github.com/xairy/linux-kernel-exploitation)
+- Repository: [Linux Kernel Exploitation (⭐5.7k)](https://github.com/xairy/linux-kernel-exploitation)
 
   Description: A bunch of links related to Linux kernel fuzzing and exploitation
 

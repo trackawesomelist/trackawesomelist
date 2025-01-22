@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 20, 2019
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -18,7 +18,7 @@
 
 ### Deep Learning / PyTorch
 
-*   [Catalyst (⭐3.2k)](https://github.com/catalyst-team/catalyst) - High-level utils for PyTorch DL & RL research. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
+*   [Catalyst (⭐3.3k)](https://github.com/catalyst-team/catalyst) - High-level utils for PyTorch DL & RL research. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
 
 ## [3. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
@@ -73,15 +73,9 @@
 
 ### Software / Archiving and Digital Preservation (DP)
 
-*   [CKAN](https://ckan.org) - CKAN is a tool for making open data websites. ([Source Code (⭐4.4k)](https://github.com/ckan/ckan)) `AGPL-3.0` `Python`
+*   [CKAN](https://ckan.org) - CKAN is a tool for making open data websites. ([Source Code (⭐4.5k)](https://github.com/ckan/ckan)) `AGPL-3.0` `Python`
 
-## [9. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
-
-### Open Source Projects / Wealth
-
-*   [Heedy (⭐388)](https://github.com/heedy/heedy) - A repository for all of your quantified-self data.
-
-## [10. Awesome Ada](/content/ohenley/awesome-ada/README.md)
+## [9. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
 ### OS and Kernels / Apache License
 

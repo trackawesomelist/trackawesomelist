@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 26, 2020
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -46,35 +46,29 @@
 
 ### 2D/3D Rendering engines / Others
 
-*   [Stl.Fusion (⭐1.8k)](https://github.com/servicetitan/Stl.Fusion) - ![GitHub stars](https://img.shields.io/github/stars/servicetitan/Stl.Fusion?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/servicetitan/Stl.Fusion?style=flat-square\&cacheSeconds=86400) .NET Core and Blazor library that attempts to dramatically improve the way we implement real-time and high-load services by introducing a novel kind of "computed observables" - immutable, thread-safe, and most importantly, almost invisible for developers. [Samples (⭐160)](https://github.com/servicetitan/Stl.Fusion.Samples). [Overview (⭐1.8k)](https://github.com/servicetitan/Stl.Fusion/blob/master/docs/Overview.md).
-*   [Blazor-DragDrop (⭐398)](https://github.com/Postlagerkarte/blazor-dragdrop) - ![stars](https://img.shields.io/github/stars/Postlagerkarte/blazor-dragdrop?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Postlagerkarte/blazor-dragdrop?style=flat-square\&cacheSeconds=86400) Easy-to-use Drag and Drop library for Blazor.
-*   [BlazorTransitionableRoute (⭐166)](https://github.com/JByfordRew/BlazorTransitionableRoute) - ![stars](https://img.shields.io/github/stars/JByfordRew/BlazorTransitionableRoute?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/JByfordRew/BlazorTransitionableRoute?style=flat-square\&cacheSeconds=86400) Allows current and previous route to exist enabling transition animations of UI/UX design systems.
+*   [Stl.Fusion (⭐1.9k)](https://github.com/servicetitan/Stl.Fusion) - ![GitHub stars](https://img.shields.io/github/stars/servicetitan/Stl.Fusion?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/servicetitan/Stl.Fusion?style=flat-square\&cacheSeconds=86400) .NET Core and Blazor library that attempts to dramatically improve the way we implement real-time and high-load services by introducing a novel kind of "computed observables" - immutable, thread-safe, and most importantly, almost invisible for developers. [Samples (⭐163)](https://github.com/servicetitan/Stl.Fusion.Samples). [Overview (⭐1.9k)](https://github.com/servicetitan/Stl.Fusion/blob/master/docs/Overview.md).
+*   [Blazor-DragDrop (⭐409)](https://github.com/Postlagerkarte/blazor-dragdrop) - ![stars](https://img.shields.io/github/stars/Postlagerkarte/blazor-dragdrop?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Postlagerkarte/blazor-dragdrop?style=flat-square\&cacheSeconds=86400) Easy-to-use Drag and Drop library for Blazor.
+*   [BlazorTransitionableRoute (⭐173)](https://github.com/JByfordRew/BlazorTransitionableRoute) - ![stars](https://img.shields.io/github/stars/JByfordRew/BlazorTransitionableRoute?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/JByfordRew/BlazorTransitionableRoute?style=flat-square\&cacheSeconds=86400) Allows current and previous route to exist enabling transition animations of UI/UX design systems.
 
-## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [8. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
 
-### Components & Libraries / UI Components
+### Code / Commerical Tools
 
-*   [vue-combo-blocks (⭐19)](https://github.com/sssmi/vue-combo-blocks) - Small, accessible, customizable and "renderless" autocomplete component for Vue.
+*   [ExplainX (⭐423)](https://github.com/explainX/explainx)- ExplainX is a fast, lightweight, and scalable explainable AI framework for data scientists to explain any black-box model to business stakeholders.
 
-## [9. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
-
-### Code
-
-*   [ExplainX (⭐380)](https://github.com/explainX/explainx)- ExplainX is a fast, lightweight, and scalable explainable AI framework for data scientists to explain any black-box model to business stakeholders.
-
-## [10. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
+## [9. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
 
 ### Mobile
 
 *   🔌 [FlutterFire (⭐8k)](https://github.com/FirebaseExtended/flutterfire) - Collection of Firebase plugins for [Flutter](https://flutter.io/) apps.
 
-## [11. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [10. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Utilities / Productivity
 
 *   [iCMD](https://icmd.app) - Fuzzy menubar search and vim/easymotion emulation which works globally for every native MacOS app.
 
-## [12. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### APIs, Data, and ML
 

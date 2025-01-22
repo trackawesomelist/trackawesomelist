@@ -16,7 +16,7 @@
 
 ### Examples / Templates
 
-*   [cmake-examples (⭐977)](https://github.com/pr0g/cmake-examples) - A collection of as simple as possible, modern CMake projects. [`[MIT]`](https://opensource.org/licenses/MIT)
+*   [cmake-examples (⭐1.1k)](https://github.com/pr0g/cmake-examples) - A collection of as simple as possible, modern CMake projects. [`[MIT]`](https://opensource.org/licenses/MIT)
 
 ## [3. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/README.md)
 
@@ -47,7 +47,7 @@
 
 ### Utilities / Game Engine resources
 
-*   [FVM (⭐4.4k)](https://github.com/leoafarias/fvm) <!--stargazers:leoafarias/fvm--> - Flutter Version Management: A simple cli to manage Flutter SDK versions.
+*   [FVM (⭐4.7k)](https://github.com/leoafarias/fvm) <!--stargazers:leoafarias/fvm--> - Flutter Version Management: A simple cli to manage Flutter SDK versions.
 
 ## [8. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
 
@@ -65,11 +65,11 @@
 
 ### Animation, Graphics & Video Playout
 
-*   [Sofie - TV Automation (⭐310)](https://github.com/nrkno/Sofie-TV-automation) - MOS-driven automation system for news casts, with many libraries for e.g. device control.
+*   [Sofie - TV Automation (⭐331)](https://github.com/nrkno/Sofie-TV-automation) - MOS-driven automation system for news casts, with many libraries for e.g. device control.
 
 ### Monitoring & Quality Control
 
-*   [Pi Audio Monitor (⭐139)](https://github.com/martim01/pam) - Audio Monitoring for Raspberry Pi, supports S/PDIF, AES3, AES67, Livewire and Ravenna.
+*   [Pi Audio Monitor (⭐147)](https://github.com/martim01/pam) - Audio Monitoring for Raspberry Pi, supports S/PDIF, AES3, AES67, Livewire and Ravenna.
 
 ## [11. Awesome Npm](/content/sindresorhus/awesome-npm/README.md)
 

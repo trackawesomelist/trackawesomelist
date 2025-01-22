@@ -64,13 +64,8 @@
 
 ### Libraries / Elixir
 
-*   [mongodb (⭐568)](https://github.com/kobil-systems/mongodb) - Community Elixir driver
-*   [mongodb\_ecto (⭐366)](https://github.com/kobil-systems/mongodb_ecto) - Adapter for the Ecto database wrapper
-
-### Libraries / PHP
-
-*   [eloquent-mongodb-repository (⭐18)](https://github.com/nilportugues/eloquent-mongodb-repository) - Repository implementation built on top of laravel-mongodb
-*   [mongodb-repository (⭐9)](https://github.com/nilportugues/mongodb-repository) - Repository implementation
+*   [mongodb (⭐572)](https://github.com/kobil-systems/mongodb) - Community Elixir driver
+*   [mongodb\_ecto (⭐374)](https://github.com/kobil-systems/mongodb_ecto) - Adapter for the Ecto database wrapper
 
 ### Tools / Development
 
@@ -95,7 +90,7 @@
 ### Data Visualization / Runner
 
 *   [Frappe Charts (⭐15k)](https://github.com/frappe/charts) - GitHub-inspired simple and modern SVG charts for the web with zero dependencies.
-*   [Frappe Gantt (⭐4.5k)](https://github.com/frappe/gantt) - A simple, interactive, modern gantt chart library for the web.
+*   [Frappe Gantt (⭐4.6k)](https://github.com/frappe/gantt) - A simple, interactive, modern gantt chart library for the web.
 
 ## [6. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
@@ -108,7 +103,7 @@
 
 ### Integrations / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ckeditor5-angular (⭐201)](https://github.com/ckeditor/ckeditor5-angular) - An official CKEditor 5 rich text editor component for Angular 2+.
+*   [ckeditor5-angular (⭐207)](https://github.com/ckeditor/ckeditor5-angular) - An official CKEditor 5 rich text editor component for Angular 2+.
 *   [ckeditor4-angular (⭐55)](https://github.com/ckeditor/ckeditor4-angular) - An official CKEditor 4 rich text editor component for Angular 2+.
 
 ## [8. Awesome Corda](/content/chainstack/awesome-corda/README.md)
@@ -133,11 +128,11 @@
 
 ### Applications / System tools
 
-*   [gitui (⭐18k)](https://github.com/extrawurst/gitui) - Blazing fast terminal client for git. [![build](https://github.com/extrawurst/gitui/workflows/CI/badge.svg?branch=master)](https://github.com/extrawurst/gitui/actions)
+*   [gitui (⭐19k)](https://github.com/extrawurst/gitui) - Blazing fast terminal client for git. [![build](https://github.com/extrawurst/gitui/workflows/CI/badge.svg?branch=master)](https://github.com/extrawurst/gitui/actions)
 
 ### Libraries / Macro
 
-*   [Linq-in-Rust (⭐125)](https://github.com/StardustDL/Linq-in-Rust) - Macro and methods for C#-LINQ-like expressions. [![CI](https://github.com/StardustDL/Linq-in-Rust/workflows/CI/badge.svg?branch=master)](https://github.com/StardustDL/Linq-in-Rust/actions?query=workflow%3ACI)
+*   [Linq-in-Rust (⭐131)](https://github.com/StardustDL/Linq-in-Rust) - Macro and methods for C#-LINQ-like expressions. [![CI](https://github.com/StardustDL/Linq-in-Rust/workflows/CI/badge.svg?branch=master)](https://github.com/StardustDL/Linq-in-Rust/actions?query=workflow%3ACI)
 
 ## [12. Awesome Cdk](/content/kalaiser/awesome-cdk/README.md)
 
@@ -158,7 +153,7 @@
 
 ### Web Frameworks
 
-*   [Cloudopt Next (⭐330)](https://github.com/cloudoptlab/cloudopt-next) - Cloudopt Next is a very lightweight and modern, JVM-based, full stack kotlin framework designed for building modular, easily testable JVM applications with support for Java, Kotlin language, crafted from the best of breed Java libraries and standards.
+*   [Cloudopt Next (⭐343)](https://github.com/cloudoptlab/cloudopt-next) - Cloudopt Next is a very lightweight and modern, JVM-based, full stack kotlin framework designed for building modular, easily testable JVM applications with support for Java, Kotlin language, crafted from the best of breed Java libraries and standards.
 
 ## [14. Awesome Stacks](/content/stackshareio/awesome-stacks/README.md)
 
@@ -182,7 +177,7 @@
 
 ### Apps / Outline Processor Markup Language
 
-*   [Readrops (⭐251)](https://github.com/readrops/Readrops) <sup>[690](https://t.me/s/aboutrss/690)</sup> [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=com.readrops.app)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/readrops/Readrops)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+*   [Readrops (⭐356)](https://github.com/readrops/Readrops) <sup>[690](https://t.me/s/aboutrss/690)</sup> [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=com.readrops.app)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/readrops/Readrops)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
 ### Self Hosted Readers / Outline Processor Markup Language
 

@@ -10,17 +10,17 @@
 
 ### Marks / Diagnostics
 
-*   [LeonHeidelbach/trailblazer.nvim (⭐235)](https://github.com/LeonHeidelbach/trailblazer.nvim) - TrailBlazer introduces a stack based mark system that enables a completely new dynamic and super fast workflow using project wide marks.
+*   [LeonHeidelbach/trailblazer.nvim (⭐269)](https://github.com/LeonHeidelbach/trailblazer.nvim) - TrailBlazer introduces a stack based mark system that enables a completely new dynamic and super fast workflow using project wide marks.
 
 ## [2. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [zshrpg (⭐1)](https://github.com/aliervo/zshrpg) - A wrapper that fully integrates [rpg-cli (⭐1.4k)](https://github.com/facundoolano/rpg-cli/) with ZSH!
+*   [zshrpg (⭐1)](https://github.com/aliervo/zshrpg) - A wrapper that fully integrates [rpg-cli (⭐1.5k)](https://github.com/facundoolano/rpg-cli/) with ZSH!
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [unicorn (⭐1)](https://github.com/juliuscaesar/unicorn) - Includes decorators for root status, virtualenv, nvm, rvm, current directory, the time, current directory and emoji `git` information. Inspired by [wild cherry (⭐475)](https://github.com/mashaal/wild-cherry).
+*   [unicorn (⭐1)](https://github.com/juliuscaesar/unicorn) - Includes decorators for root status, virtualenv, nvm, rvm, current directory, the time, current directory and emoji `git` information. Inspired by [wild cherry (⭐478)](https://github.com/mashaal/wild-cherry).
 
 ## [3. Awesome Polars](/content/ddotta/awesome-polars/README.md)
 
@@ -51,7 +51,7 @@
 
 ### Multiple languages / [Other](#other-1)
 
-*   [OpenStaticAnalyzer (⭐42)](https://github.com/sed-inf-u-szeged/OpenStaticAnalyzer) — OpenStaticAnalyzer is a source code analyzer tool, which can perform deep static analysis of the source code of complex systems.
+*   [OpenStaticAnalyzer (⭐44)](https://github.com/sed-inf-u-szeged/OpenStaticAnalyzer) — OpenStaticAnalyzer is a source code analyzer tool, which can perform deep static analysis of the source code of complex systems.
 *   [SafeQL](https://safeql.dev) — Validate and auto-generate TypeScript types from raw SQL queries in PostgreSQL. SafeQL is an ESLint plugin for writing SQL queries in a type-safe way.
 
 ---

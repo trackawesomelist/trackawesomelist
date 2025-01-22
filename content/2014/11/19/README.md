@@ -35,7 +35,7 @@
 
 ### Serial Port
 
-*   [Serial Communication Library (⭐2.1k)](https://github.com/wjwwood/serial) - Cross-platform, Serial Port library written in C++. \[MIT] [website](http://wjwwood.io/serial/)
+*   [Serial Communication Library (⭐2.2k)](https://github.com/wjwwood/serial) - Cross-platform, Serial Port library written in C++. \[MIT] [website](http://wjwwood.io/serial/)
 
 ### Miscellaneous
 

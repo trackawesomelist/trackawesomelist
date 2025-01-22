@@ -16,53 +16,53 @@
 
 ### Hardware / Plotters
 
-*   [PlotterXY (⭐37)](https://github.com/jamescarruthers/PlotterXY) - A coreXY plotter made from extrusion, 3d-printed parts, and an inexpensive 3d-printer control board.
+*   [PlotterXY (⭐52)](https://github.com/jamescarruthers/PlotterXY) - A coreXY plotter made from extrusion, 3d-printed parts, and an inexpensive 3d-printer control board.
 
 ## [3. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Templates / Vue 3
 
-*   [vue3-vant-mobile (⭐1k)](https://github.com/easy-temps/vue3-vant-mobile) - Vite5 + Vue3 + Vant4 + Pinia + Vue-Router4 + TypeScript Mobile Template.
-*   [vite-plugin-vue-style-bundler (⭐6)](https://github.com/zhangfisher/vite-plugin-vue-style-bundler) - Auto bundle Vue/sfc styles into JavaScript.
+*   [vue3-vant-mobile (⭐1.3k)](https://github.com/easy-temps/vue3-vant-mobile) - Vite5 + Vue3 + Vant4 + Pinia + Vue-Router4 + TypeScript Mobile Template.
+*   [vite-plugin-vue-style-bundler (⭐7)](https://github.com/zhangfisher/vite-plugin-vue-style-bundler) - Auto bundle Vue/sfc styles into JavaScript.
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [@import-meta-env/unplugin (⭐204)](https://github.com/runtime-env/import-meta-env) - Inject environment variables into the `import.meta.env` object after building the application instead of statically replacing it during production.
+*   [@import-meta-env/unplugin (⭐249)](https://github.com/runtime-env/import-meta-env) - Inject environment variables into the `import.meta.env` object after building the application instead of statically replacing it during production.
 
 ## [4. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### GitHub / Diagnostics
 
-*   [rawnly/gist.nvim (⭐176)](https://github.com/rawnly/gist.nvim) - Create a GitHub Gist from the current file (powered by gh).
+*   [rawnly/gist.nvim (⭐189)](https://github.com/rawnly/gist.nvim) - Create a GitHub Gist from the current file (powered by gh).
 
 ## [5. Awesome Polars](/content/ddotta/awesome-polars/README.md)
 
 ### Libraries/Packages/Scripts / Python
 
-*   [QuickEcharts (⭐21)](https://github.com/AdrianAntico/QuickEcharts) - Python package for fast and easy echarts with Polars backend by [@AdrianAntico](https://github.com/AdrianAntico).
+*   [QuickEcharts (⭐23)](https://github.com/AdrianAntico/QuickEcharts) - Python package for fast and easy echarts with Polars backend by [@AdrianAntico](https://github.com/AdrianAntico).
 
 ## [6. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Science Logology / Laboratory Automation
 
-*   [A universal system for digitization and automatic execution of the chemical synthesis literature](https://www.science.org/doi/full/10.1126/science.abc2986) - ***Science***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=13909991218383718512\&hl=en\&as_sdt=0,5)]. \[[Preprint](https://www.chem.gla.ac.uk/cronin/images/pubs/Mehr-ScienceOct2020.pdf)]. \[[XDL Documentation](https://croningroup.gitlab.io/chemputer/xdl/index.html)]. \[[XDL Schema Database](https://zenodo.org/records/3955107)]. This paper reports a software platform that uses natural language processing to translate the organic chemistry literature directly into editable code, which in turn can be compiled to drive automated synthesis of the compound in the laboratory.
+*   [A universal system for digitization and automatic execution of the chemical synthesis literature](https://www.science.org/doi/full/10.1126/science.abc2986) - ***Science***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=13909991218383718512)]. \[[Preprint](https://www.chem.gla.ac.uk/cronin/images/pubs/Mehr-ScienceOct2020.pdf)]. \[[XDL Documentation](https://croningroup.gitlab.io/chemputer/xdl/index.html)]. \[[XDL Schema Database](https://zenodo.org/records/3955107)]. This paper reports a software platform that uses natural language processing to translate the organic chemistry literature directly into editable code, which in turn can be compiled to drive automated synthesis of the compound in the laboratory.
 
 ## [7. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Build Systems
 
-*   [Sccache (⭐5.6k)](https://github.com/mozilla/sccache) - A fast compiler cache for C/C++, with cross-platform support and cloud backed storage options.
+*   [Sccache (⭐6k)](https://github.com/mozilla/sccache) - A fast compiler cache for C/C++, with cross-platform support and cloud backed storage options.
 
 ## [8. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
 ### Third-Party Packages / Monitoring
 
-*   [django-prometheus (⭐1.4k)](https://github.com/korfuri/django-prometheus) - Export Django monitoring metrics to Prometheus.
-*   [django-mixin (⭐46)](https://github.com/adinhodovic/django-mixin) - Monitoring mixin for Django-prometheus. A set of Grafana dashboards and Prometheus rules for Django.
+*   [django-prometheus (⭐1.5k)](https://github.com/korfuri/django-prometheus) - Export Django monitoring metrics to Prometheus.
+*   [django-mixin (⭐55)](https://github.com/adinhodovic/django-mixin) - Monitoring mixin for Django-prometheus. A set of Grafana dashboards and Prometheus rules for Django.
 
 ### Third-Party Packages / Task Queues
 
-*   [django-q2 (⭐327)](https://github.com/django-q2/django-q2) - A multiprocessing distributed task queue for Django.
+*   [django-q2 (⭐434)](https://github.com/django-q2/django-q2) - A multiprocessing distributed task queue for Django.
 
 ## [9. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
@@ -74,7 +74,7 @@
 
 ### Tools - Editors & IDEs & Explorers / React
 
-*   [Bruno (⭐23k)](https://github.com/usebruno/bruno) - Fast, open source API client, which stores collections offline-only in a Git-friendly plain text markup language.
+*   [Bruno (⭐30k)](https://github.com/usebruno/bruno) - Fast, open source API client, which stores collections offline-only in a Git-friendly plain text markup language.
 
 ## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

@@ -20,11 +20,11 @@
 
 ### Misc
 
-*   [Streams (⭐381)](https://github.com/nessos/Streams) - A lightweight F#/C# library for efficient functional-style pipelines on streams of data.
+*   [Streams (⭐384)](https://github.com/nessos/Streams) - A lightweight F#/C# library for efficient functional-style pipelines on streams of data.
 
 ### Source Generator
 
-*   [Awesome .NET Performance (⭐3.1k)](https://github.com/adamsitnik/awesome-dot-net-performance) - A curated list of awesome .NET Performance books, courses, trainings, conference talks, blogs and most inspiring open source contributors.
+*   [Awesome .NET Performance (⭐3.2k)](https://github.com/adamsitnik/awesome-dot-net-performance) - A curated list of awesome .NET Performance books, courses, trainings, conference talks, blogs and most inspiring open source contributors.
 *   [awesome-ddd (⭐11k)](https://github.com/heynickc/awesome-ddd) - A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources
 
 ## [3. Awesome Erlang](/content/drobakowski/awesome-erlang/README.md)

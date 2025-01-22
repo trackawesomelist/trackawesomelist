@@ -10,17 +10,17 @@
 
 ### Communications / APIs
 
-*   [micropython-linenotify (⭐9)](https://github.com/PerfecXX/micropython-linenotify) - MicroPython library for sending notifications to Line Notify with ESP8266 and ESP32.
+*   [micropython-linenotify (⭐10)](https://github.com/PerfecXX/micropython-linenotify) - MicroPython library for sending notifications to Line Notify with ESP8266 and ESP32.
 
 ### Communications / ESP-NOW
 
-*   [mesh-espnow-micropython (⭐7)](https://github.com/shariltumin/mesh-espnow-micropython) - Dynamic Secure Mesh for Collaborative Nodes of IoT devices.
+*   [mesh-espnow-micropython (⭐10)](https://github.com/shariltumin/mesh-espnow-micropython) - Dynamic Secure Mesh for Collaborative Nodes of IoT devices.
 
 ## [2. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Audio and Video Tools / File Sharing
 
-*   [Pulp (⭐29)](https://github.com/bazalp/pulp/releases) - Audio sample manager. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/bazalp/pulp)
+*   [Pulp (⭐41)](https://github.com/bazalp/pulp/releases) - Audio sample manager. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/bazalp/pulp)
 
 ## [3. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
@@ -73,13 +73,13 @@
 
 ### Vue / Helpers
 
-*   ![v3](https://img.shields.io/badge/-v3-35495e) [vite-plugin-vue-nested-sfc (⭐97)](https://github.com/HunYan-io/vite-plugin-vue-nested-sfc) - Nest SFCs inside your SFC.
+*   ![v3](https://img.shields.io/badge/-v3-35495e) [vite-plugin-vue-nested-sfc (⭐96)](https://github.com/HunYan-io/vite-plugin-vue-nested-sfc) - Nest SFCs inside your SFC.
 
 ## [7. Awesome Github Wiki](/content/MyHoneyBadger/awesome-github-wiki/README.md)
 
 ### Useful links with tips & tricks
 
-*   [Search wiki of the repository on GitHub (⭐194)](https://github.com/linyows/github-wiki-search)
+*   [Search wiki of the repository on GitHub (⭐198)](https://github.com/linyows/github-wiki-search)
 
 ## [8. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/README.md)
 
@@ -89,10 +89,8 @@
 
 ### :books: Literature / Scientific Research
 
-*   :mortar\_board: [Adversarial learning on static detection techniques for executable packing](https://dial.uclouvain.be/memoire/ucl/object/thesis:40178) (June 2023)
+*   :mortar\_board: [Adversarial learning on static detection techniques for executable packing](https://dial.uclouvain.be/memoire/ucl/object/thesis:40178) (June 2023)  :star:
 *   :notebook: [Malware makeover: Breaking ML-based static analysis by modifying executable bytes](http://arxiv.org/abs/1912.09064) (May 2021)
-*   :newspaper: [On deceiving malware classification with section injection](https://www.semanticscholar.org/paper/On-deceiving-malware-classification-with-section-Silva-Segundo/915faa4486a78a4f449c0f8028b773078bfdbd84) (August 2022)
-*   :mortar\_board: Static features exploration for executable packing with unsupervised learning (June 2023)
 
 ## [9. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
 
@@ -118,7 +116,7 @@
 
 ### Mobile
 
-*   [cl-jwk (⭐17)](https://github.com/dnaeon/cl-jwk) -  Common Lisp system for decoding public JSON Web Keys (JWK). BSD License.
+*   [cl-jwk (⭐18)](https://github.com/dnaeon/cl-jwk) -  Common Lisp system for decoding public JSON Web Keys (JWK). BSD License.
 
 ## [12. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 
@@ -132,39 +130,39 @@
 
 *   [Common Crawl Columnar Index](https://commoncrawl.org/tag/columnar-index/) - SQL-queryable index, with CDX info plus language classification. *(Stable)*
 *   [Common Crawl Web Graph](https://commoncrawl.org/category/web-graph/) - A host or domain-level graph of the web, with ranking information. *(Stable)*
-*   [Common Crawl Jupyter notebooks (⭐39)](https://github.com/commoncrawl/cc-notebooks) - A collection of notebooks using Common Crawl's various datasets. *(Stable)*
+*   [Common Crawl Jupyter notebooks (⭐49)](https://github.com/commoncrawl/cc-notebooks) - A collection of notebooks using Common Crawl's various datasets. *(Stable)*
 
 ## [14. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Communication - Email - Mailing Lists and Newsletters
 
-*   [Sympa](https://www.sympa.community/) - Mailing list manager. ([Source Code (⭐241)](https://github.com/sympa-community/sympa)) `GPL-2.0` `Perl`
+*   [Sympa](https://www.sympa.community/) - Mailing list manager. ([Source Code (⭐248)](https://github.com/sympa-community/sympa)) `GPL-2.0` `Perl`
 
 ## [15. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [zootedb0t/citruszest.nvim (⭐142)](https://github.com/zootedb0t/citruszest.nvim) - A colorscheme that features a combination of bright and juicy colors reminiscent of various citrus fruits, with LSP and Tree-sitter support.
+*   [zootedb0t/citruszest.nvim (⭐182)](https://github.com/zootedb0t/citruszest.nvim) - A colorscheme that features a combination of bright and juicy colors reminiscent of various citrus fruits, with LSP and Tree-sitter support.
 
 ## [16. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [fzf (unixorn) (⭐294)](https://github.com/unixorn/fzf-zsh-plugin/) - Enables [fzf (⭐63k)](https://github.com/junegunn/fzf) history and file searches.
+*   [fzf (unixorn) (⭐318)](https://github.com/unixorn/fzf-zsh-plugin/) - Enables [fzf (⭐67k)](https://github.com/junegunn/fzf) history and file searches.
 
 ## [17. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Go / Natural Language Processing
 
-*   [Cybertron (⭐274)](https://github.com/nlpodyssey/cybertron) - Cybertron: the home planet of the Transformers in Go.
+*   [Cybertron (⭐292)](https://github.com/nlpodyssey/cybertron) - Cybertron: the home planet of the Transformers in Go.
 
 ### Go / General-Purpose Machine Learning
 
-*   [Spago (⭐1.7k)](https://github.com/nlpodyssey/spago) - Self-contained Machine Learning and Natural Language Processing library in Go.
+*   [Spago (⭐1.8k)](https://github.com/nlpodyssey/spago) - Self-contained Machine Learning and Natural Language Processing library in Go.
 
 ### Python / Computer Vision
 
-*   [joliGEN (⭐232)](https://github.com/jolibrain/joliGEN) - Generative AI Image Toolset with GANs and Diffusion for Real-World Applications.
+*   [joliGEN (⭐246)](https://github.com/jolibrain/joliGEN) - Generative AI Image Toolset with GANs and Diffusion for Real-World Applications.
 
 ---
 

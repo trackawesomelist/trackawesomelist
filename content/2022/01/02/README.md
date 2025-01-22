@@ -29,7 +29,6 @@
 *   [Jira](https://www.atlassian.com/software/jira) - Issue and project tracking tool.
 *   [Notion](https://www.notion.so/) - All in one workspace to write, plan, collaborate, and get organized.
 *   [Pinitto.me](https://pinitto.me) - Lightweight realtime infinite virtual corkboard application (open source).
-*   [Shortcut](https://shortcut.com/) (fka Clubhouse) - Project management for software development teams.
 
 ## [3. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
 
@@ -90,7 +89,7 @@
 
 ### Reproducing Works, Training & Books / Data Visualization
 
-*   [QuantFinanceBook (⭐432)](https://github.com/LechGrzelak/QuantFinanceBook) - Quantitative Finance book.
+*   [QuantFinanceBook (⭐540)](https://github.com/LechGrzelak/QuantFinanceBook) - Quantitative Finance book.
 
 ## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

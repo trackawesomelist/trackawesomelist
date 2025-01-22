@@ -34,7 +34,7 @@
 
 ### Quality / Barcode
 
-*   [AnyLint (⭐117)](https://github.com/Flinesoft/AnyLint) :penguin: - Lint anything by combining the power of Swift & regular expressions.
+*   [AnyLint (⭐115)](https://github.com/Flinesoft/AnyLint) :penguin: - Lint anything by combining the power of Swift & regular expressions.
 
 ## [4. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
@@ -70,7 +70,7 @@
 
 ### Static Analysis / Security
 
-*   [Manage Your GitHub Actions Secrets With A Simple CLI (⭐39)](https://github.com/unfor19/githubsecrets)
+*   [Manage Your GitHub Actions Secrets With A Simple CLI (⭐43)](https://github.com/unfor19/githubsecrets)
 
 ## [10. Awesome Leading and Managing](/content/LappleApple/awesome-leading-and-managing/README.md)
 

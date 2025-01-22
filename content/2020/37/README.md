@@ -10,9 +10,9 @@
 
 ### Clocks & Studio Screens
 
-*   [OnAirScreen (⭐91)](https://github.com/saschaludwig/OnAirScreen) - Cross-platform "OnAir Lamp" solution targeted for use in professional broadcast environments.
-*   [PiClock (⭐21)](https://github.com/simonhyde/PiClock) - Customisable network based displays of clocks, on-air, mic live and other studio indicators.
-*   [PiRSClock-Full (⭐19)](https://github.com/jdgwarren/pirsclockfull) - Radio Studio Clock with studio indicators for mics, telephones etc.
+*   [OnAirScreen (⭐97)](https://github.com/saschaludwig/OnAirScreen) - Cross-platform "OnAir Lamp" solution targeted for use in professional broadcast environments.
+*   [PiClock (⭐26)](https://github.com/simonhyde/PiClock) - Customisable network based displays of clocks, on-air, mic live and other studio indicators.
+*   [PiRSClock-Full (⭐20)](https://github.com/jdgwarren/pirsclockfull) - Radio Studio Clock with studio indicators for mics, telephones etc.
 
 ## [2. Awesome Tap](/content/sindresorhus/awesome-tap/week/README.md)
 
@@ -123,7 +123,7 @@
 
 ### Software / Calendar & Contacts
 
-*   [EteSync Web](https://www.etesync.com/faq/#web-client) - EteSync's official Web-based client (i.e., their Web app). ([Demo](https://client.etesync.com/), [Source Code (⭐244)](https://github.com/etesync/etesync-web)) `AGPL-3.0` `Javascript`
+*   [EteSync Web](https://www.etesync.com/faq/#web-client) - EteSync's official Web-based client (i.e., their Web app). ([Demo](https://client.etesync.com/), [Source Code (⭐250)](https://github.com/etesync/etesync-web)) `AGPL-3.0` `Javascript`
 
 ## [7. Awesome Saltstack](/content/hbokh/awesome-saltstack/week/README.md)
 
@@ -177,9 +177,9 @@
 ### Python / General-Purpose Machine Learning
 
 *   [ML/DL project template (⭐1.2k)](https://github.com/PyTorchLightning/deep-learning-project-template)
-*   [PyTorch Lightning (⭐28k)](https://github.com/PyTorchLightning/pytorch-lightning) - The lightweight PyTorch wrapper for high-performance AI research.
+*   [PyTorch Lightning (⭐29k)](https://github.com/PyTorchLightning/pytorch-lightning) - The lightweight PyTorch wrapper for high-performance AI research.
 *   [PyTorch Lightning Bolts (⭐1.7k)](https://github.com/PyTorchLightning/pytorch-lightning-bolts) - Toolbox of models, callbacks, and datasets for AI/ML researchers.
-*   [Determined (⭐3k)](https://github.com/determined-ai/determined) - Scalable deep learning training platform, including integrated support for distributed training, hyperparameter tuning, experiment tracking, and model management.
+*   [Determined (⭐3.1k)](https://github.com/determined-ai/determined) - Scalable deep learning training platform, including integrated support for distributed training, hyperparameter tuning, experiment tracking, and model management.
 
 ## [14. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
@@ -310,18 +310,18 @@
 
 ### Projects / Libraries
 
-*   [TLC (⭐37)](https://github.com/charguer/tlc) - Non-constructive alternative to Coq's standard library.
+*   [TLC (⭐39)](https://github.com/charguer/tlc) - Non-constructive alternative to Coq's standard library.
 
 ### Projects / Tools
 
-*   [coq2html (⭐28)](https://github.com/xavierleroy/coq2html) - Alternative HTML documentation generator for Coq.
+*   [coq2html (⭐30)](https://github.com/xavierleroy/coq2html) - Alternative HTML documentation generator for Coq.
 
 ### Projects / Type Theory and Mathematics
 
-*   [Completeness and Decidability of Modal Logic Calculi (⭐8)](https://github.com/coq-community/comp-dec-modal) - Soundness, completeness, and decidability for the logics K, K\*, CTL, and PDL.
-*   [CoqPrime (⭐38)](https://github.com/thery/coqprime) - Library for certifying primality using Pocklington and Elliptic Curve certificates.
-*   [Finmap (⭐46)](https://github.com/math-comp/finmap) - Extension of Mathematical Components with finite maps, sets, and multisets.
-*   [Gaia (⭐27)](https://github.com/coq-community/gaia) - Implementation of books from Bourbaki's Elements of Mathematics, including set theory and number theory.
+*   [Completeness and Decidability of Modal Logic Calculi (⭐9)](https://github.com/coq-community/comp-dec-modal) - Soundness, completeness, and decidability for the logics K, K\*, CTL, and PDL.
+*   [CoqPrime (⭐37)](https://github.com/thery/coqprime) - Library for certifying primality using Pocklington and Elliptic Curve certificates.
+*   [Finmap (⭐47)](https://github.com/math-comp/finmap) - Extension of Mathematical Components with finite maps, sets, and multisets.
+*   [Gaia (⭐30)](https://github.com/coq-community/gaia) - Implementation of books from Bourbaki's Elements of Mathematics, including set theory and number theory.
 
 ### Resources / Community
 
@@ -339,7 +339,7 @@
 
 ### Tools
 
-*   [Atlas toolkit (⭐251)](https://github.com/epeios-q37/atlas-python) - Very lightweight and easy to install toolkit to write in Python single-page web applications to pilot your RPi, without having to install a web server.
+*   [Atlas toolkit (⭐253)](https://github.com/epeios-q37/atlas-python) - Very lightweight and easy to install toolkit to write in Python single-page web applications to pilot your RPi, without having to install a web server.
 
 ## [23. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 
@@ -384,7 +384,7 @@
 
 ### Contents / Personalization
 
-*   [Wallbay (⭐111)](https://github.com/tsvillain/Wallbay) - Wallpaper App developed in Flutter using Pexels API by [Tekeshwar Singh](https://github.com/tsvillain).
+*   [Wallbay (⭐113)](https://github.com/tsvillain/Wallbay) - Wallpaper App developed in Flutter using Pexels API by [Tekeshwar Singh](https://github.com/tsvillain).
 
 ## [27. Awesome Open Source Supporters](/content/zachflower/awesome-open-source-supporters/week/README.md)
 
@@ -403,21 +403,20 @@
 
 ### Testing / Misc
 
-*   [MBC3 RTC test ROM (⭐23)](https://github.com/aaaaaa123456789/rtc3test)
+*   [MBC3 RTC test ROM (⭐31)](https://github.com/aaaaaa123456789/rtc3test)
 
 ### Tools / Music drivers and trackers
 
-*   [DevSound (⭐49)](https://github.com/DevEd2/DevSound) - Sound driver embeddable in homebrews which supports pulse width manipulation, arpeggios, and multiple waveforms.
 *   [Carillon Player](http://gbdev.gg8.se/files/musictools/Aleksi%20Eeben/Carillon%20Editor.zip) - Music Engine.
-*   [GBT PLAYER (⭐270)](https://github.com/AntonioND/gbt-player) - A music player library and converter kit.
-*   [mmlgb (⭐41)](https://github.com/SimonLarsen/mmlgb) - A MML parser and GBDK sound driver for the Nintendo Game Boy.
-*   [XPMCK (⭐25)](https://github.com/bazzinotti/XPMCK) - An MML based music compiler with support for Game Boy & Game Boy Color.
+*   [GBT PLAYER (⭐284)](https://github.com/AntonioND/gbt-player) - A music player library and converter kit.
+*   [mmlgb (⭐42)](https://github.com/SimonLarsen/mmlgb) - A MML parser and GBDK sound driver for the Nintendo Game Boy.
+*   [XPMCK (⭐27)](https://github.com/bazzinotti/XPMCK) - An MML based music compiler with support for Game Boy & Game Boy Color.
 
 ## [30. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
 ### Notifications and Messages / Code Coverage
 
-*   [Keep Your PRs in Sync With Teamwork Tasks (⭐55)](https://github.com/Teamwork/github-sync)
+*   [Keep Your PRs in Sync With Teamwork Tasks (⭐64)](https://github.com/Teamwork/github-sync)
 
 ### Tutorials / Terraform
 
@@ -475,25 +474,31 @@
 
 *   [Bulletproof Next](https://getstarted.sh/bulletproof-next)
 
-## [37. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [37. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+
+### Components & Libraries / Frameworks
+
+*   [Wave UI (⭐558)](https://github.com/antoniandre/wave-ui) - An emerging UI framework for Vue.js with only the bright side. ☀️
+
+## [38. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Tools
 
 *   🎨🌍🔧 [TailwindInk](https://tailwind.ink/) - AI palette generator, trained with the Tailwind CSS palette.
 
-## [38. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
+## [39. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
 
 ### C++
 
 *   [CQuery (⭐52)](https://github.com/cquery-project/vscode-cquery) - [C/C++ language server (⭐2.3k)](https://github.com/jacobdufault/cquery) supporting multi-million line code base, powered by libclang. Cross references, completion, diagnostics, semantic highlighting and more.
 
-## [39. Awesome Bioie](/content/caufieldjh/awesome-bioie/week/README.md)
+## [40. Awesome Bioie](/content/caufieldjh/awesome-bioie/week/README.md)
 
 ### Techniques and Models / BERT models
 
 *   [BlueBERT (⭐541)](https://github.com/ncbi-nlp/bluebert) - [paper](https://arxiv.org/abs/1906.05474) - A BERT model pre-trained on PubMed text and MIMIC-III notes.
 
-## [40. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [41. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Job boards
 
@@ -503,22 +508,11 @@
 
 *   [Anceu](https://anceu.com) - Rural Coliving & coworking space in Galicia, Spain
 
-## [41. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
-
-### Components & Libraries / Frameworks
-
-*   [Wave UI (⭐544)](https://github.com/antoniandre/wave-ui) - An emerging UI framework for Vue.js with only the bright side. ☀️
-
-### Components & Libraries / UI Components
-
-*   [vue-ultimate-skeleton-cards (⭐91)](https://github.com/neelansh15/vue-ultimate-skeleton-cards) - The Ultimate, fully-customizable Skeleton Card plugin for Vue 🚀
-*   [vue-router-tab (⭐468)](https://github.com/bhuh12/vue-router-tab) - Vue.js tab components, based on Vue Router.
-
 ## [42. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Testing
 
-*   [definject (⭐57)](https://github.com/definject/definject) - Unobtrusive dependency injector for Elixir.
+*   [definject (⭐56)](https://github.com/definject/definject) - Unobtrusive dependency injector for Elixir.
 
 ## [43. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
@@ -540,7 +534,7 @@
 ### Libraries
 
 *   [Open3D library](http://www.open3d.org/docs/release/) - Open3D library contanins 3D data processing and visualization algorithms. It is open-source and supports both C++ and Python.
-    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐11k)](https://github.com/intel-isl/Open3D)
+    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐12k)](https://github.com/intel-isl/Open3D)
     *   [YouTube channel ![](https://img.shields.io/badge/youtube-red?style=flat-square\&logo=youtube)](https://www.youtube.com/channel/UCRJBlASPfPBtPXJSPffJV-w)
 
 ### Frameworks
@@ -850,19 +844,19 @@
 
 ### GraphQL
 
-*   [SociableWeaver (⭐74)](https://github.com/NicholasBellucci/SociableWeaver) - Build declarative GraphQL queries and mutations.
+*   [SociableWeaver (⭐77)](https://github.com/NicholasBellucci/SociableWeaver) - Build declarative GraphQL queries and mutations.
 
 ### Events
 
-*   [Tokamak (⭐2.5k)](https://github.com/TokamakUI/Tokamak) - React-like declarative API for building native UI components with easy to use one-way data binding.
+*   [Tokamak (⭐2.6k)](https://github.com/TokamakUI/Tokamak) - React-like declarative API for building native UI components with easy to use one-way data binding.
 
 ### Fonts
 
-*   [SwiftUI-FontIcon (⭐120)](https://github.com/huybuidac/SwiftUIFontIcon) - Font icons for SwiftUI: font awesome, ionicons, material icons.
+*   [SwiftUI-FontIcon (⭐126)](https://github.com/huybuidac/SwiftUIFontIcon) - Font icons for SwiftUI: font awesome, ionicons, material icons.
 
 ### TextField / Barcode
 
-*   [FloatingLabelTextFieldSwiftUI (⭐478)](https://github.com/kishanraja/FloatingLabelTextFieldSwiftUI) - FloatingLabelTextFieldSwiftUI is a small and lightweight SwiftUI framework written in completely SwiftUI (not using UIViewRepresentable) that allows to create beautiful and customisable floating label textfield!
+*   [FloatingLabelTextFieldSwiftUI (⭐498)](https://github.com/kishanraja/FloatingLabelTextFieldSwiftUI) - FloatingLabelTextFieldSwiftUI is a small and lightweight SwiftUI framework written in completely SwiftUI (not using UIViewRepresentable) that allows to create beautiful and customisable floating label textfield!
 
 ## [47. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
@@ -876,12 +870,11 @@
 
 *   [ecrepl](https://gitlab.common-lisp.net/ecl/ecrepl) - an interactive REPL for the C language. [BSD\_2Clause](https://directory.fsf.org/wiki/License:BSD_2Clause).
 *   [cl-ssh-keys (⭐23)](https://github.com/dnaeon/cl-ssh-keys) - Common Lisp system for generating and parsing of OpenSSH keys. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
-*   [cl-bcrypt (⭐12)](https://github.com/dnaeon/cl-bcrypt) - Common Lisp system for parsing and generating bcrypt password hashes. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
-    *   see also [cl-pass (⭐30)](https://github.com/eudoxia0/cl-pass), using pbkdf2.
+*   [cl-bcrypt (⭐14)](https://github.com/dnaeon/cl-bcrypt) - Common Lisp system for parsing and generating bcrypt password hashes. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
 ### Python
 
-*   [burgled-batteries (⭐113)](https://github.com/pinterface/burgled-batteries) - A bridge between Python and Common Lisp. The goal is that Lisp programs can use Python libraries. Not available on Quicklisp. [MIT](https://opensource.org/licenses/MIT).
+*   [burgled-batteries (⭐114)](https://github.com/pinterface/burgled-batteries) - A bridge between Python and Common Lisp. The goal is that Lisp programs can use Python libraries. Not available on Quicklisp. [MIT](https://opensource.org/licenses/MIT).
 
 ### Deployment / Isomorphic web frameworks
 
@@ -905,11 +898,11 @@
 
 *   Python
     *   [by @nryoung (⭐2.9k)](https://github.com/nryoung/algorithms)
-    *   [by @prakhar1989 (⭐3k)](https://github.com/prakhar1989/Algorithms)
-    *   [by @laurentluce (⭐273)](https://github.com/laurentluce/python-algorithms)
-    *   [by @nbro (⭐55)](https://github.com/nbro/ands)
+    *   [by @prakhar1989 (⭐3.1k)](https://github.com/prakhar1989/Algorithms)
+    *   [by @laurentluce (⭐279)](https://github.com/laurentluce/python-algorithms)
+    *   [by @nbro (⭐60)](https://github.com/nbro/ands)
     *   [by @keon (⭐24k)](https://github.com/keon/algorithms)
-    *   [by @vinta (⭐678)](https://github.com/vinta/fuck-coding-interviews)
+    *   [by @vinta (⭐691)](https://github.com/vinta/fuck-coding-interviews)
 
 ## [50. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
@@ -940,18 +933,18 @@
 
 ### Game Development
 
-*   [crystal-chipmunk (⭐43)](https://github.com/oprypin/crystal-chipmunk) - Bindings to [Chipmunk](http://chipmunk-physics.net/), a fast and lightweight 2D game physics library
-*   [crystal-imgui-sfml (⭐17)](https://github.com/oprypin/crystal-imgui-sfml) - Bindings to integrate [Dear ImGui (⭐58k)](https://github.com/ocornut/imgui) into an [SFML](https://www.sfml-dev.org/) project
+*   [crystal-chipmunk (⭐42)](https://github.com/oprypin/crystal-chipmunk) - Bindings to [Chipmunk](http://chipmunk-physics.net/), a fast and lightweight 2D game physics library
+*   [crystal-imgui-sfml (⭐18)](https://github.com/oprypin/crystal-imgui-sfml) - Bindings to integrate [Dear ImGui (⭐63k)](https://github.com/ocornut/imgui) into an [SFML](https://www.sfml-dev.org/) project
 
 ### GUI Development
 
-*   [crystal-imgui (⭐67)](https://github.com/oprypin/crystal-imgui) - Bindings to [Dear ImGui (⭐58k)](https://github.com/ocornut/imgui), an immediate-mode graphical UI library
+*   [crystal-imgui (⭐71)](https://github.com/oprypin/crystal-imgui) - Bindings to [Dear ImGui (⭐63k)](https://github.com/ocornut/imgui), an immediate-mode graphical UI library
 
 ## [53. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Debugging Tools
 
-*   [tapping\_device (⭐449)](https://github.com/st0012/tapping_device) - A tool that allows you to inspect your program from an Object's perspective.
+*   [tapping\_device (⭐448)](https://github.com/st0012/tapping_device) - A tool that allows you to inspect your program from an Object's perspective.
 
 ## [54. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
 
@@ -971,8 +964,8 @@
 
 ### Driver crates / Other
 
-*   [AHT20](https://crates.io/crates/aht20) - I2C - Humidity and temperature sensor - [github (⭐3)](https://github.com/chocol4te/aht20) - ![crates.io](https://img.shields.io/crates/v/aht20.svg)
-*   [embedded-ccs811](https://crates.io/crates/embedded-ccs811) - I2C - Gas and VOC sensor driver for monitoring indoor air quality - [Intro blog post](https://blog.eldruin.com/ccs811-indoor-air-quality-sensor-driver-in-rust/) - ![crates.io](https://img.shields.io/crates/v/embedded-ccs811.svg)
+*   [AHT20](https://crates.io/crates/aht20) - I2C - Humidity and temperature sensor - [github (⭐3)](https://github.com/chocol4te/aht20) - [![crates.io](https://img.shields.io/crates/v/aht20.svg)](https://crates.io/crates/aht20)
+*   [embedded-ccs811](https://crates.io/crates/embedded-ccs811) - I2C - Gas and VOC sensor driver for monitoring indoor air quality - [Intro blog post](https://blog.eldruin.com/ccs811-indoor-air-quality-sensor-driver-in-rust/) - [![crates.io](https://img.shields.io/crates/v/embedded-ccs811.svg)](https://crates.io/crates/embedded-ccs811)
 
 ## [56. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/week/README.md)
 
@@ -984,7 +977,7 @@
 
 ### Artificial Intelligence / Mobile
 
-*   [Habitica (⭐1.3k)](https://github.com/HabitRPG/habitica-android) - Gamify your life.
+*   [Habitica (⭐1.5k)](https://github.com/HabitRPG/habitica-android) - Gamify your life.
 
 ## [58. Awesome Veganism](/content/sdassow/awesome-veganism/week/README.md)
 

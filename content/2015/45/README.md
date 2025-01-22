@@ -84,7 +84,7 @@
 
 ### CLI
 
-*   [docopt.cpp (⭐1k)](https://github.com/docopt/docopt.cpp) - A library to generate option parser from docstring. \[MIT/Boost]
+*   [docopt.cpp (⭐1.1k)](https://github.com/docopt/docopt.cpp) - A library to generate option parser from docstring. \[MIT/Boost]
 
 ## [8. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
 
@@ -118,7 +118,7 @@
 
 ### CLI Utilities
 
-*   [Pastel (⭐634)](https://github.com/peter-murach/pastel) - Terminal output styling with intuitive and clean API.
+*   [Pastel (⭐639)](https://github.com/peter-murach/pastel) - Terminal output styling with intuitive and clean API.
 
 ### Code Analysis and Metrics
 
@@ -131,12 +131,12 @@
 ### Natural Language Processing
 
 *   [Parslet](http://kschiess.github.io/parslet/) - A small Ruby library for constructing parsers in the PEG (Parsing Expression Grammar) fashion.
-*   [Treetop (⭐304)](https://github.com/cjheath/treetop) - PEG (Parsing Expression Grammar) parser.
+*   [Treetop (⭐306)](https://github.com/cjheath/treetop) - PEG (Parsing Expression Grammar) parser.
 
 ### Queues and Messaging
 
 *   [Bunny (⭐1.4k)](https://github.com/ruby-amqp/bunny) - Bunny is a popular, easy to use, well-maintained Ruby client for RabbitMQ (3.3+).
-*   [March Hare (⭐97)](https://github.com/ruby-amqp/march_hare) - Idiomatic, fast and well-maintained JRuby client for RabbitMQ.
+*   [March Hare (⭐96)](https://github.com/ruby-amqp/march_hare) - Idiomatic, fast and well-maintained JRuby client for RabbitMQ.
 
 ### Search
 
@@ -190,14 +190,14 @@
 
 ### UI / Paid Books
 
-*   [Dragula (⭐21k)](https://github.com/bevacqua/dragula) - Framework agnostic drag and drop library, supports jQuery integration.
+*   [Dragula (⭐22k)](https://github.com/bevacqua/dragula) - Framework agnostic drag and drop library, supports jQuery integration.
 *   [X-editable (⭐6.5k)](https://github.com/vitalets/x-editable) - In-place editing with Twitter Bootstrap, jQuery UI or pure jQuery.
 
 ## [18. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Command Line Applications
 
-*   [progress\_bar (⭐330)](https://github.com/henrik/progress_bar) - Command-line progress bars and spinners.
+*   [progress\_bar (⭐335)](https://github.com/henrik/progress_bar) - Command-line progress bars and spinners.
 
 ### Embedded Systems
 
@@ -205,7 +205,7 @@
 
 ### Queue
 
-*   [toniq (⭐340)](https://github.com/joakimk/toniq) - Simple and reliable background job library for Elixir.
+*   [toniq (⭐337)](https://github.com/joakimk/toniq) - Simple and reliable background job library for Elixir.
 
 ## [19. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
@@ -274,12 +274,12 @@ git describe --tags --abbrev=0
 
 ### Packages / Command-line apps
 
-*   [Jsome (⭐242)](https://github.com/Javascipt/Jsome) - Pretty prints JSON with configurable colors and indentation.
+*   [Jsome (⭐244)](https://github.com/Javascipt/Jsome) - Pretty prints JSON with configurable colors and indentation.
 
 ### Packages / Command-line utilities
 
 *   [chalk (⭐22k)](https://github.com/chalk/chalk) - Terminal string styling done right.
-*   [multispinner (⭐295)](https://github.com/codekirei/node-multispinner) - Multiple, simultaneous, individually controllable CLI spinners.
+*   [multispinner (⭐296)](https://github.com/codekirei/node-multispinner) - Multiple, simultaneous, individually controllable CLI spinners.
 
 ### Packages / Streams
 
@@ -303,12 +303,12 @@ git describe --tags --abbrev=0
 
 ### Packages / Testing
 
-*   [Sinon.JS (⭐9.6k)](https://github.com/sinonjs/sinon) - Test spies, stubs and mocks.
+*   [Sinon.JS (⭐9.7k)](https://github.com/sinonjs/sinon) - Test spies, stubs and mocks.
 
 ### Packages / Minifiers
 
 *   [minimize (⭐162)](https://github.com/Swaagie/minimize) - HTML minifier.
-*   [imagemin (⭐5.5k)](https://github.com/imagemin/imagemin) - Image minifier.
+*   [imagemin (⭐5.6k)](https://github.com/imagemin/imagemin) - Image minifier.
 
 ### Packages / Node.js management
 
@@ -320,7 +320,7 @@ git describe --tags --abbrev=0
 
 ### Packages / Miscellaneous
 
-*   [nodegit (⭐5.6k)](https://github.com/nodegit/nodegit) - Native bindings to Git.
+*   [nodegit (⭐5.7k)](https://github.com/nodegit/nodegit) - Native bindings to Git.
 
 ### Resources / Articles
 
@@ -334,7 +334,7 @@ git describe --tags --abbrev=0
 
 ### UI / Barcode
 
-*   [GMStepper (⭐923)](https://github.com/gmertk/GMStepper) - A stepper with a sliding label in the middle.
+*   [GMStepper (⭐925)](https://github.com/gmertk/GMStepper) - A stepper with a sliding label in the middle.
 *   [StarryStars (⭐174)](https://github.com/peterprokop/StarryStars) - Display & edit ratings, fully customizable from interface builder.
 
 ## [25. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)

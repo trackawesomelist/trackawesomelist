@@ -16,7 +16,7 @@
 
 ### Misc
 
-*   [Jot (⭐632)](https://github.com/anakic/jot) - a library for persisting and restoring application state (a better alternative to .settings files).
+*   [Jot (⭐636)](https://github.com/anakic/jot) - a library for persisting and restoring application state (a better alternative to .settings files).
 
 ## [3. Awesome Redux](/content/brillout/awesome-redux/week/README.md)
 
@@ -106,7 +106,7 @@
 *   [Neural Style (⭐3.1k)](https://github.com/cysmith/neural-style-tf) Implementation of Neural Style
 *   [Pretty Tensor (⭐1.2k)](https://github.com/google/prettytensor) - Pretty Tensor provides a high level builder API
 *   [Neural Style (⭐5.5k)](https://github.com/anishathalye/neural-style) - An implementation of neural style
-*   [NeuralArt (⭐493)](https://github.com/ckmarkoh/neuralart_tensorflow) - Implementation of A Neural Algorithm of Artistic Style
+*   [NeuralArt (⭐496)](https://github.com/ckmarkoh/neuralart_tensorflow) - Implementation of A Neural Algorithm of Artistic Style
 
 ### Libraries
 
@@ -164,7 +164,7 @@ Run `brew install quicklookase` or [download manually (⭐35)](https://github.co
 
 ### Other
 
-*   [redrun (⭐120)](https://github.com/coderaiser/redrun) - Expand scripts from package.json to improve execution speed.
+*   [redrun (⭐122)](https://github.com/coderaiser/redrun) - Expand scripts from package.json to improve execution speed.
 
 ### Clients
 
@@ -280,7 +280,7 @@ Run `brew install quicklookase` or [download manually (⭐35)](https://github.co
 
 ### Applications
 
-*   [Fractalide (⭐865)](https://github.com/fractalide/fractalide) - Simple microservices
+*   [Fractalide (⭐879)](https://github.com/fractalide/fractalide) - Simple microservices
 
 ## [28. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
 
@@ -292,7 +292,6 @@ Run `brew install quicklookase` or [download manually (⭐35)](https://github.co
 ### Research and Analysis / Wealth
 
 *   [23andMe](https://www.23andme.com/) - Genetic testing and analysis.
-*   [DNA land](http://dna.land/) - DNA imputation and scientific research.
 
 ## [29. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/week/README.md)
 
@@ -355,13 +354,13 @@ Run `brew install quicklookase` or [download manually (⭐35)](https://github.co
 ### Core Data
 
 *   [CoreStore (⭐4k)](https://github.com/JohnEstropia/CoreStore) - simple and elegant way to handle Core Data.
-*   [DataKernel (⭐17)](https://github.com/mrdekk/DataKernel) - DataKernel is a minimalistic wrapper around Core Data stack to ease persistence operations. No external dependencies.
-*   [Graph (⭐874)](https://github.com/CosmicMind/Graph) - An elegant data-driven framework for Core Data.
+*   [DataKernel (⭐18)](https://github.com/mrdekk/DataKernel) - DataKernel is a minimalistic wrapper around Core Data stack to ease persistence operations. No external dependencies.
+*   [Graph (⭐873)](https://github.com/CosmicMind/Graph) - An elegant data-driven framework for Core Data.
 *   [QueryKit (⭐1.5k)](https://github.com/QueryKit/QueryKit) - An easy way to play with Core Data filtering.
 
 ### Gesture
 
-*   [SwipyCell (⭐254)](https://github.com/moritzsternemann/SwipyCell) - UITableViewCell implementing swiping to trigger actions (known from the Mailbox App).
+*   [SwipyCell (⭐256)](https://github.com/moritzsternemann/SwipyCell) - UITableViewCell implementing swiping to trigger actions (known from the Mailbox App).
 
 ### UI / Barcode
 
@@ -522,7 +521,7 @@ git blame -L <start>,<end>
 
 ### Errors and Exception Handling
 
-*   [sentry-elixir (⭐615)](https://github.com/getsentry/sentry-elixir) - The Official Elixir client for [Sentry](https://sentry.io/).
+*   [sentry-elixir (⭐632)](https://github.com/getsentry/sentry-elixir) - The Official Elixir client for [Sentry](https://sentry.io/).
 
 ### Instrumenting / Monitoring
 
@@ -530,7 +529,7 @@ git blame -L <start>,<end>
 
 ### Miscellaneous
 
-*   [elixir-browser (⭐99)](https://github.com/tuvistavie/elixir-browser) - Browser detection for Elixir.
+*   [elixir-browser (⭐102)](https://github.com/tuvistavie/elixir-browser) - Browser detection for Elixir.
 
 ### Third Party APIs
 

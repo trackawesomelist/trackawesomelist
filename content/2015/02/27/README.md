@@ -98,11 +98,11 @@
 
 ### Application Frameworks
 
-*   [Mono-Addins (⭐165)](https://github.com/mono/mono-addins) - Mono.Addins is a generic framework for creating extensible applications, and for creating add-ins which extend those applications
+*   [Mono-Addins (⭐163)](https://github.com/mono/mono-addins) - Mono.Addins is a generic framework for creating extensible applications, and for creating add-ins which extend those applications
 
 ### Compression
 
-*   [SharpCompress (⭐2.2k)](https://github.com/adamhathcock/sharpcompress) - SharpCompress is a compression library for .NET/Mono/Silverlight/WP7 that can unrar, un7zip, unzip, untar unbzip2 and ungzip with forward-only reading and file random access APIs. Write support for zip/tar/bzip2/gzip are implemented
+*   [SharpCompress (⭐2.3k)](https://github.com/adamhathcock/sharpcompress) - SharpCompress is a compression library for .NET/Mono/Silverlight/WP7 that can unrar, un7zip, unzip, untar unbzip2 and ungzip with forward-only reading and file random access APIs. Write support for zip/tar/bzip2/gzip are implemented
 
 ### Game
 
@@ -110,17 +110,17 @@
 
 ### Git Tools
 
-*   [NGit (⭐261)](https://github.com/mono/ngit) - NGit is a port of JGit to C#
+*   [NGit (⭐262)](https://github.com/mono/ngit) - NGit is a port of JGit to C#
 
 ### GUI
 
 *   [XWT (⭐1.4k)](https://github.com/mono/xwt) - A cross-platform UI toolkit for creating desktop applications with .NET and Mono
-*   [Gtk# (⭐426)](https://github.com/mono/gtk-sharp) - Gtk# is a Mono/.NET binding to the cross platform Gtk+ GUI toolkit and the foundation of most GUI apps built with Mono
+*   [Gtk# (⭐430)](https://github.com/mono/gtk-sharp) - Gtk# is a Mono/.NET binding to the cross platform Gtk+ GUI toolkit and the foundation of most GUI apps built with Mono
 
 ### Interoperability
 
-*   [CppSharp (⭐3.1k)](https://github.com/mono/CppSharp) - Tools to surface C++ APIs to C#
-*   [Sharpen (⭐380)](https://github.com/mono/sharpen) - Sharpen is an Eclipse plugin created by db4o that allows you to convert your Java project into C#
+*   [CppSharp (⭐3.2k)](https://github.com/mono/CppSharp) - Tools to surface C++ APIs to C#
+*   [Sharpen (⭐382)](https://github.com/mono/sharpen) - Sharpen is an Eclipse plugin created by db4o that allows you to convert your Java project into C#
 *   [CXXI (⭐199)](https://github.com/mono/cxxi) - C++ interop framework
 
 ### Media
@@ -138,7 +138,7 @@
 
 ### Debugging
 
-*   [quaff (⭐82)](https://github.com/qhool/quaff) - The Debug module provides a simple helper interface for running Elixir code in the erlang graphical debugger.
+*   [quaff (⭐83)](https://github.com/qhool/quaff) - The Debug module provides a simple helper interface for running Elixir code in the erlang graphical debugger.
 
 ## [5. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md)
 

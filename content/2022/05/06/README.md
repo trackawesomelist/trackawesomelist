@@ -8,11 +8,11 @@
 
 ## [1. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
-### Company Research / Telegram
+### Company Research / Steam
 
 *   [OpenCorporates](https://opencorporates.com) - Global search of registered corporate entities and their associated individual officers or investors.
 
-### Domain and IP Research / Telegram
+### Domain and IP Research / Steam
 
 *   [WiGLE](https://wigle.net/) - Wi-fi "wardriving" database. Contains a global map containing crowdsourced information on the location, name, and other properties of wi-fi networks. Software available to download to contribute data to the public infoset.
 
@@ -155,7 +155,7 @@
 
 ### Markdown and LaTeX / Diagnostics
 
-*   [jbyuki/carrot.nvim (⭐24)](https://github.com/jbyuki/carrot.nvim) - Markdown evaluator Lua code blocks.
+*   [jbyuki/carrot.nvim (⭐25)](https://github.com/jbyuki/carrot.nvim) - Markdown evaluator Lua code blocks.
 
 ## [5. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md)
 
@@ -179,7 +179,7 @@
 
 ### Templates
 
-*   [Yew PWA Minimal (⭐54)](https://github.com/fkohlgrueber/yew-pwa-minimal) - A minimal Progressive Web App using Yew.
+*   [Yew PWA Minimal (⭐58)](https://github.com/fkohlgrueber/yew-pwa-minimal) - A minimal Progressive Web App using Yew.
 
 ---
 

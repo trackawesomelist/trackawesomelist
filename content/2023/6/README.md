@@ -27,14 +27,14 @@
 
 ### ⚙️ Middlewares / 🌱 Third Party
 
-*   [mikhail-bigun/fiberlogrus (⭐8)](https://github.com/mikhail-bigun/fiberlogrus) - A logger middleware that uses logrus and its structured logging features.
+*   [mikhail-bigun/fiberlogrus (⭐9)](https://github.com/mikhail-bigun/fiberlogrus) - A logger middleware that uses logrus and its structured logging features.
 
 ## [4. Awesome Arcgis Developers](/content/Esri/awesome-arcgis-developers/week/README.md)
 
 ### Data conversion tools
 
-*   [gpxstudio (⭐550)](https://github.com/gpxstudio/gpxstudio.github.io) - Online and open source GPX file editor.
-*   [img2geojson (⭐14)](https://github.com/caseymm/img2geojson/) - Drag an image onto a map, trace the paths you need, and export as GeoJSON.
+*   [gpxstudio (⭐615)](https://github.com/gpxstudio/gpxstudio.github.io) - Online and open source GPX file editor.
+*   [img2geojson (⭐18)](https://github.com/caseymm/img2geojson/) - Drag an image onto a map, trace the paths you need, and export as GeoJSON.
 
 ### Helpers
 
@@ -53,15 +53,15 @@
 
 ### Computer Science
 
-*   [Generative AI (⭐5.4k)](https://github.com/steven2358/awesome-generative-ai#readme) - Automatically generate a wide range of unique content in text, image and audio format.
+*   [Generative AI (⭐5.9k)](https://github.com/steven2358/awesome-generative-ai#readme) - Automatically generate a wide range of unique content in text, image and audio format.
 
 ### Decentralized Systems
 
-*   [ZeroNet (⭐65)](https://github.com/zolagonano/awesome-zeronet#readme) - A decentralized web-like network of peer-to-peer users.
+*   [ZeroNet (⭐77)](https://github.com/zolagonano/awesome-zeronet#readme) - A decentralized web-like network of peer-to-peer users.
 
 ### Health and Social Science
 
-*   [Digital Humanities (⭐208)](https://github.com/dh-tech/awesome-digital-humanities#readme) - Software for humanities scholars using quantitative or computational methods.
+*   [Digital Humanities (⭐252)](https://github.com/dh-tech/awesome-digital-humanities#readme) - Software for humanities scholars using quantitative or computational methods.
 
 ## [6. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
@@ -90,7 +90,7 @@
 
 ### Compilers and interpreters
 
-*   [fubark/cyber (⭐1.2k)](https://github.com/fubark/cyber) - Fast and concurrent scripting.
+*   [fubark/cyber (⭐1.3k)](https://github.com/fubark/cyber) - Fast and concurrent scripting.
 
 ## [10. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
@@ -102,7 +102,7 @@
 
 ### Application platforms / Samples
 
-*   [ILLA Cloud (⭐11k)](https://github.com/illacloud/illa-builder) - Low-code internal tool building platform.
+*   [ILLA Cloud (⭐12k)](https://github.com/illacloud/illa-builder) - Low-code internal tool building platform.
 
 ## [12. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
@@ -130,7 +130,7 @@
 
 ### Tools / Helper tools to add annotations to existing code
 
-*   [jsonschema-gentypes (⭐36)](https://github.com/camptocamp/jsonschema-gentypes) - Generate Python types based on TypedDict from a JSON Schema.
+*   [jsonschema-gentypes (⭐41)](https://github.com/camptocamp/jsonschema-gentypes) - Generate Python types based on TypedDict from a JSON Schema.
 
 ### Articles / Third-party articles
 
@@ -140,25 +140,15 @@
 
 ### Exploitation Tools / Unikernel-like
 
-*   [AFL++ (⭐4.8k)](https://github.com/AFLplusplus/AFLplusplus) - AFL++ is a superior fork to Google's AFL - more speed, more and better mutations, more and better instrumentation, custom module support, etc.
+*   [AFL++ (⭐5.2k)](https://github.com/AFLplusplus/AFLplusplus) - AFL++ is a superior fork to Google's AFL - more speed, more and better mutations, more and better instrumentation, custom module support, etc.
 *   [Capstone](https://www.capstone-engine.org/) - Capstone is a lightweight multi-platform, multi-architecture disassembly framework.
 *   [Coredump (⭐7)](https://github.com/memflow/memflow-coredump) - Access Microsoft Windows Coredump files.
-*   [Kvm (⭐36)](https://github.com/memflow/memflow-kvm) - KVM memflow connector.
-*   [Pcileech (⭐17)](https://github.com/memflow/memflow-pcileech) - Access pcileech interface.
-*   [Qemu\_procfs (⭐39)](https://github.com/memflow/memflow-qemu-procfs) - Access QEMU Physical memory.
+*   [Kvm (⭐40)](https://github.com/memflow/memflow-kvm) - KVM memflow connector.
+*   [Pcileech (⭐21)](https://github.com/memflow/memflow-pcileech) - Access pcileech interface.
+*   [Qemu\_procfs (⭐41)](https://github.com/memflow/memflow-qemu-procfs) - Access QEMU Physical memory.
 *   [Unicorn](https://www.unicorn-engine.org/) - Unicorn is a lightweight multi-platform, multi-architecture CPU emulator framework.
 
-### Optics and Extra Info / Unikernel-like
-
-*   [GPU Virtual Machine (GVM)](https://www.youtube.com/watch?v=YllX-ud70Nk)  - An OpenMdev Project (Qubes OS Summit 2022)
-*   [Qubes OS summit 2022](https://www.youtube.com/watch?v=hkWWz3xGqS8) - Day 1
-*   [Qubes OS summit 2022](https://www.youtube.com/watch?v=A9GrlQsQc7Q) - Day 2
-*   [Qubes OS-3mdeb mini-summit 2021](https://www.youtube.com/watch?v=y3V_V0Vllas) - Day 1
-*   [Qubes OS-3mdeb mini-summit 2021](https://www.youtube.com/watch?v=KdDr6TiqF0k) - Day 2
-*   [Micah Lee presents](https://livestream.com/accounts/9197973/events/8286152/videos/178431606) - “Qubes OS: The Operating System That Can Protect You Even If You Get Hacked”
-*   [Explaining Computers presents](https://www.youtube.com/watch?v=hWDvS_Mp6gc) - “Qubes OS: Security Oriented Operating System”
-
-### Optics and Extra Info / Xen Exploitation
+### Exploitation Tools / Xen Exploitation
 
 *   [Blackhat 2010 ](https://www.youtube.com/watch?v=sTC9x5hYYFo) - Hacking the Hypervisor
 *   [Blackhat 2014](https://www.youtube.com/watch?v=PJWJjb0uxXE) - [\[Website Slides\]](https://www.blackhat.com/docs/eu-14/materials/eu-14-Wojtczuk-Lessons-Learned-From-Eight-Years-Of-Breaking-Hypervisors.pdf) - Lessons Learned from Eight Years of Breaking Hypervisors
@@ -166,10 +156,23 @@
 *   [Ouroboros](https://www.youtube.com/watch?v=kt3kX94kWcM) - Tearing Xen Hypervisor With the Snake
 *   [XenPwn](https://www.youtube.com/watch?v=qxz8MzE3QME) - [\[PDF Slide\]](https://www.blackhat.com/docs/us-16/materials/us-16-Wilhelm-Xenpwn-Breaking-Paravirtualized-Devices-wp.pdf) - Breaking Paravirtualized Devices
 
-### Optics and Extra Info / Web articles
+### Exploitation Tools / Web articles
 
 *   [Xen exploitation part 1: XSA-105](https://blog.quarkslab.com/xen-exploitation-part-1-xsa-105-from-nobody-to-root.html) - From nobody to root
 *   [Xen exploitation part 2: XSA-148](https://blog.quarkslab.com/xen-exploitation-part-2-xsa-148-from-guest-to-host.html) - From guest to host
+
+### Optics and Extra Info / Qubes OS Summit - 3mdeb Summit videos
+
+*   [Qubes OS summit 2022](https://www.youtube.com/watch?v=hkWWz3xGqS8) - Day 1
+*   [Qubes OS summit 2022](https://www.youtube.com/watch?v=A9GrlQsQc7Q) - Day 2
+*   [Qubes OS-3mdeb mini-summit 2021](https://www.youtube.com/watch?v=y3V_V0Vllas) - Day 1
+*   [Qubes OS-3mdeb mini-summit 2021](https://www.youtube.com/watch?v=KdDr6TiqF0k) - Day 2
+
+### Optics and Extra Info / Extra Info
+
+*   [GPU Virtual Machine (GVM)](https://www.youtube.com/watch?v=YllX-ud70Nk)  - An OpenMdev Project (Qubes OS Summit 2022)
+*   [Micah Lee presents](https://livestream.com/accounts/9197973/events/8286152/videos/178431606) - “Qubes OS: The Operating System That Can Protect You Even If You Get Hacked”
+*   [Explaining Computers presents](https://www.youtube.com/watch?v=hWDvS_Mp6gc) - “Qubes OS: Security Oriented Operating System”
 
 ## [17. Awesome Electronics](/content/kitspace/awesome-electronics/week/README.md)
 
@@ -215,7 +218,7 @@
 
 ### Software / File Transfer - Web-based File Managers
 
-*   [copyparty (⭐537)](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, deduplication, WebDAV, FTP, zeroconf, media indexer, video thumbnails, audio transcoding, and write-only folders, in a single file with no mandatory dependencies. ([Demo](https://a.ocv.me/pub/demo/)) `MIT` `Python`
+*   [copyparty (⭐958)](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, deduplication, WebDAV, FTP, zeroconf, media indexer, video thumbnails, audio transcoding, and write-only folders, in a single file with no mandatory dependencies. ([Demo](https://a.ocv.me/pub/demo/)) `MIT` `Python`
 
 ## [23. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
@@ -227,31 +230,31 @@
 
 ### Component abstraction crates / Other
 
-*   [`switch-hal`](https://github.com/rubberduck203/switch-hal): An "on"/"off" abstraction for input and output switches - ![crates.io](https://img.shields.io/crates/v/switch-hal.svg)
+*   [`switch-hal`](https://github.com/rubberduck203/switch-hal): An "on"/"off" abstraction for input and output switches - [![crates.io](https://img.shields.io/crates/v/switch-hal.svg)](https://crates.io/crates/switch-hal)
 
 ## [25. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Logging
 
-*   [ecto\_dev\_logger (⭐148)](https://github.com/fuelen/ecto_dev_logger) - An alternative logger for Ecto queries that helps in debugging.
+*   [ecto\_dev\_logger (⭐152)](https://github.com/fuelen/ecto_dev_logger) - An alternative logger for Ecto queries that helps in debugging.
 
 ## [26. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Cloud Storage
 
-*   [FluentStorage (⭐231)](https://github.com/robinrodricks/FluentStorage) - A polycloud .NET cloud storage abstraction layer originally known as Storage.Net. Provides a generic interface for Blob storage (AWS S3, GCP, FTP, SFTP, Azure Blob/File/Event Hub/Data Lake) and Messaging (AWS SQS, Azure Queue/ServiceBus).
+*   [FluentStorage (⭐311)](https://github.com/robinrodricks/FluentStorage) - A polycloud .NET cloud storage abstraction layer originally known as Storage.Net. Provides a generic interface for Blob storage (AWS S3, GCP, FTP, SFTP, Azure Blob/File/Event Hub/Data Lake) and Messaging (AWS SQS, Azure Queue/ServiceBus).
 
 ### Database
 
-*   [SliccDB (⭐129)](https://github.com/pmikstacki/SliccDB) - Lightweight Embedded (In-Memory) Graph Database for .net
+*   [SliccDB (⭐135)](https://github.com/pmikstacki/SliccDB) - Lightweight Embedded (In-Memory) Graph Database for .net
 
 ## [27. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
 
 ### eBPF Workflow: Tools and Utilities / Go libraries
 
-*   [cilium/ebpf (⭐5.9k)](https://github.com/cilium/ebpf) - Pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.
-*   [libbpfgo (⭐693)](https://github.com/aquasecurity/libbpfgo) - eBPF library for Go, powered by libbpf.
-*   [gobpf (⭐2.1k)](https://github.com/iovisor/gobpf) - Go bindings for BCC for creating eBPF programs.
+*   [cilium/ebpf (⭐6.5k)](https://github.com/cilium/ebpf) - Pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.
+*   [libbpfgo (⭐758)](https://github.com/aquasecurity/libbpfgo) - eBPF library for Go, powered by libbpf.
+*   [gobpf (⭐2.2k)](https://github.com/iovisor/gobpf) - Go bindings for BCC for creating eBPF programs.
 
 ## [28. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
 
@@ -284,7 +287,7 @@
 
 ### Audio Libraries
 
-*   [chord-mark (⭐46)](https://github.com/no-chris/chord-mark) - reference implementation of ChordMark, a text notation format for lyrics, chords and rhythm.
+*   [chord-mark (⭐67)](https://github.com/no-chris/chord-mark) - reference implementation of ChordMark, a text notation format for lyrics, chords and rhythm.
 
 ### Music Notation
 
@@ -301,14 +304,14 @@
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-image-placeholder (⭐8)](https://github.com/pengzhanbo/vite-plugin-image-placeholder) - Generate placeholder images by path matches.
+*   [vite-plugin-image-placeholder (⭐11)](https://github.com/pengzhanbo/vite-plugin-image-placeholder) - Generate placeholder images by path matches.
 
 ## [34. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [adonisjs (⭐0)](https://github.com/baliestri/adonisjs.plugin.zsh) - Plugin for skipping the `node` part of the `ace` command.
-*   [aws-vault-profiles (⭐0)](https://github.com/jonscheiding/zsh-plugin-aws-vault-profiles) - Plugin that integrates usage of [aws-vault (⭐8.3k)](https://github.com/99designs/aws-vault) with the `$AWS_PROFILE` environment variable.
+*   [aws-vault-profiles (⭐0)](https://github.com/jonscheiding/zsh-plugin-aws-vault-profiles) - Plugin that integrates usage of [aws-vault (⭐8.6k)](https://github.com/99designs/aws-vault) with the `$AWS_PROFILE` environment variable.
 *   [dietpi (⭐3)](https://github.com/unixorn/dietpi.plugin.zsh) - Adds utilities for [dietpi](https://dietpi.com) to your `$PATH` (and includes aliases to automagically run them with `sudo`) when you log into a machine running  [dietpi](https://dietpi.com).
 *   [laravel (baliestri) (⭐0)](https://github.com/baliestri/laravel.plugin.zsh) - Plugin for skiping the `php` command when running `artisan` commands and `./sail` or `./vendor/bin/sail` when running `sail` commands.
 *   [laravel (crazybooot) (⭐17)](https://github.com/crazybooot/laravel-zsh-plugin) - Add shortcuts for [Laravel](https://laravel.com/) 5, 5.1, 5.2 & 5.3.
@@ -326,7 +329,7 @@
 
 ### Content Hub One
 
-*   [Sitecore.Demo.CHONE (⭐2)](https://github.com/Sitecore/Sitecore.Demo.CHONE) - Repository for all the Content Hub ONE demos built by the Sitecore Demo Solutions team, including PLAY Media Next.js Website and PLAY Media Mobile Phone Application.
+*   [Sitecore.Demo.CHONE (⭐3)](https://github.com/Sitecore/Sitecore.Demo.CHONE) - Repository for all the Content Hub ONE demos built by the Sitecore Demo Solutions team, including PLAY Media Next.js Website and PLAY Media Mobile Phone Application.
 
 ## [36. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
@@ -340,20 +343,20 @@
 *   [wemake-python-styleguide](https://wemake-python-styleguide.rtfd.io/) — The strictest and most opinionated python linter ever.
 *   [yapf (⭐14k)](https://github.com/google/yapf) — A formatter for Python files created by Google
     YAPF follows a distinctive methodology, originating from the 'clang-format' tool created by Daniel Jasper. Essentially, the program reframes the code to the most suitable formatting that abides by the style guide, even if the original code already follows the style guide. This concept is similar to the Go programming language's 'gofmt' tool, which aims to put an end to debates about formatting by having the entire codebase of a project pass through YAPF whenever changes are made, thereby maintaining a consistent style throughout the project and eliminating the need to argue about style in every code review.
-*   [stc](https://stc.dudy.dev) — Speedy TypeScript type checker written in Rust
+*   [stc](https://stc.dudy.dev) :warning: — Speedy TypeScript type checker written in Rust
 
 ### Multiple languages / [Other](#other-1)
 
-*   [ShiftLeft Scan (⭐786)](https://github.com/ShiftLeftSecurity/sast-scan) — Scan is a free open-source DevSecOps platform for detecting security issues in source code and dependencies. It supports a broad range of languages and CI/CD pipelines.
+*   [ShiftLeft Scan (⭐817)](https://github.com/ShiftLeftSecurity/sast-scan) — Scan is a free open-source DevSecOps platform for detecting security issues in source code and dependencies. It supports a broad range of languages and CI/CD pipelines.
 
 ## [37. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
 ### Authentication Authorisation
 
-*   [Vert.x Auth JWT (⭐154)](https://github.com/eclipse-vertx/vertx-auth/tree/master/vertx-auth-jwt)  <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Vert.x Authorisation based on JSON Web Tokens.
-*   [Vert.x Auth htdigest (⭐154)](https://github.com/eclipse-vertx/vertx-auth/tree/master/vertx-auth-htdigest)  <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Vert.x Authorisation/Authentication based on [Apache htdigest](https://httpd.apache.org/docs/2.4/programs/htdigest.html).
-*   [Vert.x Auth OAuth2 (⭐154)](https://github.com/eclipse-vertx/vertx-auth/tree/master/vertx-auth-oauth2) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Vert.x Authorisation/Authentication based on [OAuth 2](https://oauth.net/2/).
-*   [Vert.x Auth htpasswd (⭐154)](https://github.com/eclipse-vertx/vertx-auth/tree/master/vertx-auth-htpasswd) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Vert.x Authorisation/Authentication based on [htpasswd](https://httpd.apache.org/docs/2.4/programs/htpasswd.html).
+*   [Vert.x Auth JWT (⭐166)](https://github.com/eclipse-vertx/vertx-auth/tree/master/vertx-auth-jwt)  <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Vert.x Authorisation based on JSON Web Tokens.
+*   [Vert.x Auth htdigest (⭐166)](https://github.com/eclipse-vertx/vertx-auth/tree/master/vertx-auth-htdigest)  <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Vert.x Authorisation/Authentication based on [Apache htdigest](https://httpd.apache.org/docs/2.4/programs/htdigest.html).
+*   [Vert.x Auth OAuth2 (⭐166)](https://github.com/eclipse-vertx/vertx-auth/tree/master/vertx-auth-oauth2) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Vert.x Authorisation/Authentication based on [OAuth 2](https://oauth.net/2/).
+*   [Vert.x Auth htpasswd (⭐166)](https://github.com/eclipse-vertx/vertx-auth/tree/master/vertx-auth-htpasswd) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Vert.x Authorisation/Authentication based on [htpasswd](https://httpd.apache.org/docs/2.4/programs/htpasswd.html).
 
 ## [38. Awesome Chatgpt](/content/saharmor/awesome-chatgpt/week/README.md)
 
@@ -375,28 +378,28 @@
 
 ### System administration / Third-party APIs
 
-*   [cl-unix-cybernetics (⭐180)](https://github.com/cl-unix-cybernetics/cl-unix-cybernetics) (previously Adams) - UNIX system administration in Common Lisp. Not unlike Ansible, Chef or Puppet. [ISC](https://en.wikipedia.org/wiki/ISC_license).
+*   [cl-unix-cybernetics (⭐181)](https://github.com/cl-unix-cybernetics/cl-unix-cybernetics) (previously Adams) - UNIX system administration in Common Lisp. Not unlike Ansible, Chef or Puppet. [ISC](https://en.wikipedia.org/wiki/ISC_license).
     *   You describe your systems (hosts) using resources having properties. The properties are then probed and synchronized using only /bin/sh on the remote host, and /usr/bin/ssh on the control host.
 
 ## [40. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Image Processing
 
-*   [BitmapPlusPLus (⭐31)](https://github.com/baderouaich/BitmapPlusPlus) - Simple and Fast header only Bitmap C++ library. \[MIT]
+*   [BitmapPlusPLus (⭐37)](https://github.com/baderouaich/BitmapPlusPlus) - Simple and Fast header only Bitmap C++ library. \[MIT]
 
 ## [41. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Miscellaneous Data Structures and Algorithms
 
-*   [gogu (⭐97)](https://github.com/esimov/gogu) - A comprehensive, reusable and efficient concurrent-safe generics utility functions and data structures library.
+*   [gogu (⭐101)](https://github.com/esimov/gogu) - A comprehensive, reusable and efficient concurrent-safe generics utility functions and data structures library.
 
 ### Interfaces to Multiple Backends
 
-*   [go-transaction-manager (⭐218)](https://github.com/avito-tech/go-transaction-manager) - Transaction manager with multiple adapters (sql, sqlx, gorm, mongo, ...) controls transaction boundaries.
+*   [go-transaction-manager (⭐252)](https://github.com/avito-tech/go-transaction-manager) - Transaction manager with multiple adapters (sql, sqlx, gorm, mongo, ...) controls transaction boundaries.
 
 ### Distributed Systems
 
-*   [Dragonfly (⭐2.2k)](https://github.com/dragonflyoss/Dragonfly2) - Provide efficient, stable and secure file distribution and image acceleration based on p2p technology to be the best practice and standard solution in cloud native architectures.
+*   [Dragonfly (⭐2.4k)](https://github.com/dragonflyoss/Dragonfly2) - Provide efficient, stable and secure file distribution and image acceleration based on p2p technology to be the best practice and standard solution in cloud native architectures.
 
 ### E-books for purchase / Libraries for creating HTTP middlewares
 
@@ -410,12 +413,12 @@
 
 ### Libraries / Data visualization
 
-*   [mazznoer/colorgrad-rs (⭐277)](https://github.com/mazznoer/colorgrad-rs) \[[colorgrad](https://crates.io/crates/colorgrad)] - Color scales library for data visualization, charts, games, maps, generative art and others.
+*   [mazznoer/colorgrad-rs (⭐294)](https://github.com/mazznoer/colorgrad-rs) \[[colorgrad](https://crates.io/crates/colorgrad)] - Color scales library for data visualization, charts, games, maps, generative art and others.
 
 ### Libraries / Encoding
 
 *   NetCDF
-    *   [georust/netcdf (⭐82)](https://github.com/georust/netcdf) \[[netcdf](https://crates.io/crates/netcdf)] - Medium-level netCDF bindings, allowing easy reading and writing of array-like structures to a file.
+    *   [georust/netcdf (⭐86)](https://github.com/georust/netcdf) \[[netcdf](https://crates.io/crates/netcdf)] - Medium-level netCDF bindings, allowing easy reading and writing of array-like structures to a file.
 
 ### Libraries / Parsing
 
@@ -429,11 +432,11 @@
 
 ### AppImage developer tools / Tools to convert from other package formats
 
-*   [Elements (⭐1)](https://github.com/s-zeid/elements) - Tool to generate single-file, runc-based AppImages using a minimal (\~3 MB compressed) Alpine Linux rootfs.
+*   [Elements (⭐5)](https://github.com/s-zeid/elements) - Tool to generate single-file, runc-based AppImages using a minimal (\~3 MB compressed) Alpine Linux rootfs.
 
 ### Resources / Miscellaneous
 
-*   [appdwarf (⭐15)](https://github.com/Phantop/appdwarf) - A tool to convert an AppDir or an existing AppImage file, either as a local file or from a URL, into a highly compressed portable image using dwarfs.
+*   [appdwarf (⭐26)](https://github.com/Phantop/appdwarf) - A tool to convert an AppDir or an existing AppImage file, either as a local file or from a URL, into a highly compressed portable image using dwarfs.
 
 ## [44. Awesome Minecraft](/content/bs-community/awesome-minecraft/week/README.md)
 
@@ -445,24 +448,24 @@
 
 ### (requires Neovim 0.5)
 
-*   [jinzhongjia/LspUI.nvim (⭐164)](https://github.com/jinzhongjia/LspUI.nvim) - A modern and useful UI that wraps LSP operations.
+*   [jinzhongjia/LspUI.nvim (⭐187)](https://github.com/jinzhongjia/LspUI.nvim) - A modern and useful UI that wraps LSP operations.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [savq/melange-nvim (⭐685)](https://github.com/savq/melange-nvim) - Warm colorscheme written in Lua with support for various terminal emulators.
+*   [savq/melange-nvim (⭐766)](https://github.com/savq/melange-nvim) - Warm colorscheme written in Lua with support for various terminal emulators.
 *   [svrana/neosolarized.nvim (⭐157)](https://github.com/svrana/neosolarized.nvim) - Dark solarized colorscheme using colorbuddy for easy customization.
 
 ### Neovim Lua Development / Diagnostics
 
-*   [nvim-neorocks/luarocks-tag-release (⭐46)](https://github.com/nvim-neorocks/luarocks-tag-release) - A GitHub action that publishes your Neovim plugins to LuaRocks.
+*   [nvim-neorocks/luarocks-tag-release (⭐48)](https://github.com/nvim-neorocks/luarocks-tag-release) - A GitHub action that publishes your Neovim plugins to LuaRocks.
 
 ### Editing Support / Diagnostics
 
-*   [altermo/ultimate-autopair.nvim (⭐480)](https://github.com/altermo/ultimate-autopair.nvim) - Autopair with extensions.
+*   [altermo/ultimate-autopair.nvim (⭐510)](https://github.com/altermo/ultimate-autopair.nvim) - Autopair with extensions.
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [linrongbin16/lin.nvim (⭐70)](https://github.com/linrongbin16/lin.nvim) - A highly configured Neovim distribution integrated with tons of utilities for development, inspired by spf13-vim.
+*   [linrongbin16/lin.nvim (⭐78)](https://github.com/linrongbin16/lin.nvim) - A highly configured Neovim distribution integrated with tons of utilities for development, inspired by spf13-vim.
 
 ---
 

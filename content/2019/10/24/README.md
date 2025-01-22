@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 24, 2019
 
-17 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,8 +16,8 @@
 
 ### Internationalization / Image Picker
 
-*   [GenLang (⭐101)](https://github.com/KingWu/gen_lang) <!--stargazers:KingWu/gen_lang--> - Code generator for Internationalization by [King Wu](https://github.com/KingWu)
-*   [Flutter Translate (⭐392)](https://github.com/bratan/flutter_translate) <!--stargazers:bratan/flutter_translate--> - Internationalization (i18n) library by [Florin Bratan](http://bratan.me)
+*   [GenLang (⭐100)](https://github.com/KingWu/gen_lang) <!--stargazers:KingWu/gen_lang--> - Code generator for Internationalization by [King Wu](https://github.com/KingWu)
+*   [Flutter Translate (⭐407)](https://github.com/bratan/flutter_translate) <!--stargazers:bratan/flutter_translate--> - Internationalization (i18n) library by [Florin Bratan](http://bratan.me)
 
 ## [3. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 
@@ -55,7 +55,7 @@
 
 ### Software / Software Development - Project Management
 
-*   [UVDesk](https://www.uvdesk.com/) - UVDesk community is a service oriented, event driven extensible opensource helpdesk system that can be used by your organization to provide efficient support to your clients effortlessly whichever way you imagine. ([Demo](https://demo.uvdesk.com/), [Source Code (⭐8.2k)](https://github.com/uvdesk/community-skeleton)) `MIT` `PHP`
+*   [UVDesk](https://www.uvdesk.com/) - UVDesk community is a service oriented, event driven extensible opensource helpdesk system that can be used by your organization to provide efficient support to your clients effortlessly whichever way you imagine. ([Demo](https://demo.uvdesk.com/), [Source Code (⭐9.7k)](https://github.com/uvdesk/community-skeleton)) `MIT` `PHP`
 
 ## [8. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 
@@ -108,16 +108,10 @@
 
 ### Machine Learning Ops / Terraform
 
-*   [Submitting Argo Workflows (Cloud Agnostic) (⭐30)](https://github.com/machine-learning-apps/actions-argo)
-*   [Submitting Argo Workflows to GKE (⭐13)](https://github.com/machine-learning-apps/gke-argo)
+*   [Submitting Argo Workflows (Cloud Agnostic) (⭐38)](https://github.com/machine-learning-apps/actions-argo)
+*   [Submitting Argo Workflows to GKE (⭐16)](https://github.com/machine-learning-apps/gke-argo)
 
-## [14. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / Utilities
-
-*   [vue-uuid (⭐73)](https://github.com/VitorLuizC/vue-uuid) - Adds UUID to Vue instance.
-
-## [15. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
+## [14. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
 
 ### Rails
 
@@ -125,7 +119,7 @@
 *   [Rails SQL Injection](https://rails-sqli.org) - Written by [@presidentbeef](https://github.com/presidentbeef).
 *   [Official Rails Security Guide](http://guides.rubyonrails.org/security.html) - Written by [Rails team](https://rubyonrails.org/).
 
-## [16. Awesome Programming for Kids](/content/HollyAdele/awesome-programming-for-kids/README.md)
+## [15. Awesome Programming for Kids](/content/HollyAdele/awesome-programming-for-kids/README.md)
 
 ### Pre-Literate
 
@@ -142,7 +136,7 @@
 *   [Secret Coders](http://www.secret-coders.com/buy-the-books/) - A engaging book series that teaches programming concepts through Logo.
 *   [Khan Academy - Computer Programming](https://www.khanacademy.org/computing/computer-programming) - A series of web-based programming lessons with interactive challenges, by Khan Academy. Teaches topics like animation, game development, and web programming.  Users can post questions, which get answered quickly by the community.
 
-## [17. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
+## [16. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
 ### Projection Mapping • VJing
 

@@ -63,20 +63,20 @@
 
 ## [8. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 
-### Tools and frameworks
+### Tools and frameworks (a-z↓)
 
-*   [Wendigo (⭐150)](https://github.com/angrykoala/wendigo) - Test-oriented browser automation library based on Puppeteer.
-*   [Loki (⭐1.8k)](https://github.com/oblador/loki) - Visual regression testing for Storybook using Chrome in docker et al.
 *   [CodeceptJS (⭐4.1k)](https://github.com/codeception/codeceptjs/) - Modern Era Acceptance Testing Framework for NodeJS.
-*   [FuncUnit (⭐570)](https://github.com/bitovi/funcunit) - A functional test suite based on jQuery
+*   [FuncUnit (⭐572)](https://github.com/bitovi/funcunit) - A functional test suite based on jQuery
+*   [Loki (⭐1.8k)](https://github.com/oblador/loki) - Visual regression testing for Storybook using Chrome in docker et al.
 *   [Nightwatch (⭐12k)](https://github.com/nightwatchjs/nightwatch) - Automated testing and continuous integration framework based on Node.js and using the Webdriver protocol.
-*   [Protractor (⭐8.8k)](https://github.com/angular/protractor) - E2E test framework for Angular apps.
+*   [Protractor (⭐8.7k)](https://github.com/angular/protractor) - E2E test framework for Angular apps.
+*   [Wendigo (⭐150)](https://github.com/angrykoala/wendigo) - Test-oriented browser automation library based on Puppeteer.
 
-### Online services
+### Online services (a-z↓)
 
 *   [Happo](https://happo.io/) - Cloud-based screenshot testing service with support for multiple browsers.
 
-### Deprecated
+### Deprecated  (a-z↓)
 
 *   [PhantomJS (⭐29k)](https://github.com/ariya/phantomjs) - Scriptable Headless WebKit. No longer maintained since 2 June 2018.
 

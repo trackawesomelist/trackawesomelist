@@ -16,13 +16,13 @@
 
 ### Board support crates / STMicroelectronics
 
-*   [`stm32f3-discovery`](https://crates.io/crates/stm32f3-discovery) Board Support Crate for the [STM32F3DISCOVERY](http://www.st.com/en/evaluation-tools/stm32f3discovery.html) used in [Rust Embedded Discovery book](https://rust-embedded.github.io/discovery/index.html) - ![crates.io](https://img.shields.io/crates/v/stm32f3-discovery)
+*   [`stm32f3-discovery`](https://crates.io/crates/stm32f3-discovery) Board Support Crate for the [STM32F3DISCOVERY](http://www.st.com/en/evaluation-tools/stm32f3discovery.html) used in [Rust Embedded Discovery book](https://rust-embedded.github.io/discovery/index.html) - [![crates.io](https://img.shields.io/crates/v/stm32f3-discovery)](https://crates.io/crates/stm32f3-discovery)
 
 ## [3. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / CLI utils
 
-*   [cliffy (⭐903)](https://github.com/c4spar/deno-cliffy) - The complete solution for building interactive command-line tools.
+*   [cliffy (⭐951)](https://github.com/c4spar/deno-cliffy) - The complete solution for building interactive command-line tools.
 
 ## [4. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
@@ -45,7 +45,7 @@
 
 ## [5. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
-### Geospatial Research and Mapping Tools / Telegram
+### Geospatial Research and Mapping Tools / Steam
 
 *   [Map Maker](https://maps.co)
 
@@ -152,7 +152,7 @@
 
 ### React Development Tools
 
-*   [create-react-app (⭐102k)](https://github.com/facebook/create-react-app) - Set up a modern Web app by running one command
+*   [create-react-app (⭐103k)](https://github.com/facebook/create-react-app) - Set up a modern Web app by running one command
 
 ## [12. Awesome Cassandra](/content/Anant/awesome-cassandra/week/README.md)
 
@@ -224,11 +224,11 @@
 
 ### Applications / Blockchain
 
-*   [Forest (⭐620)](https://github.com/ChainSafe/forest) - Filecoin implementation [![Build Status](https://img.shields.io/circleci/build/gh/ChainSafe/forest/main?branch=master)](https://app.circleci.com/pipelines/github/ChainSafe/forest?branch=main)
+*   [Forest (⭐642)](https://github.com/ChainSafe/forest) - Filecoin implementation [![Build Status](https://img.shields.io/circleci/build/gh/ChainSafe/forest/main?branch=master)](https://app.circleci.com/pipelines/github/ChainSafe/forest?branch=main)
 
 ### Libraries / Parsing
 
-*   [softdevteam/grmtools (⭐500)](https://github.com/softdevteam/grmtools/) - A LR parser with better error correction
+*   [softdevteam/grmtools (⭐525)](https://github.com/softdevteam/grmtools/) - A LR parser with better error correction
 
 ## [16. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
 
@@ -253,21 +253,21 @@
 
 ### Templates / Vue 3
 
-*   [Vitesse (⭐8.7k)](https://github.com/antfu/vitesse) - Opinionated starter template.
-*   [vite-ts-tailwind-starter (⭐417)](https://github.com/Uninen/vite-ts-tailwind-starter) - TypeScript, Tailwind CSS, Cypress.io e2e tests + CI.
+*   [Vitesse (⭐9k)](https://github.com/antfu/vitesse) - Opinionated starter template.
+*   [vite-ts-tailwind-starter (⭐438)](https://github.com/Uninen/vite-ts-tailwind-starter) - TypeScript, Tailwind CSS, Cypress.io e2e tests + CI.
 
 ### Framework-agnostic Plugins / Loaders
 
-*   [vite-imagetools (⭐900)](https://github.com/JonasKruckenberg/vite-imagetools) - Load and transform images using url query parameters.
+*   [vite-imagetools (⭐966)](https://github.com/JonasKruckenberg/vite-imagetools) - Load and transform images using url query parameters.
 
 ### React / Framework
 
-*   [vite-plugin-react-pages (⭐449)](https://github.com/vitejs/vite-plugin-react-pages) - A Vite framework for building React app.
+*   [vite-plugin-react-pages (⭐463)](https://github.com/vitejs/vite-plugin-react-pages) - A Vite framework for building React app.
 
 ### Rollup Plugins / Compatible with Vite
 
-*   [@rollup/plugin-image (⭐3.6k)](https://github.com/rollup/plugins/blob/master/packages/image) - Import JPG, PNG, GIF, SVG, and WebP files (needs `enforce: 'pre'`).
-*   [@rollup/plugin-strip (⭐3.6k)](https://github.com/rollup/plugins/tree/master/packages/strip) - Remove debugger statements and functions from your code.
+*   [@rollup/plugin-image (⭐3.7k)](https://github.com/rollup/plugins/blob/master/packages/image) - Import JPG, PNG, GIF, SVG, and WebP files (needs `enforce: 'pre'`).
+*   [@rollup/plugin-strip (⭐3.7k)](https://github.com/rollup/plugins/tree/master/packages/strip) - Remove debugger statements and functions from your code.
 
 ### Apps/Websites / Community
 
@@ -277,21 +277,17 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [LogChimp (⭐680)](https://github.com/logchimp/logchimp) - Open-source software to track your customer's feedback to build better products.
-
-### Components & Libraries / UI Components
-
-*   [oh-vue-icons (⭐241)](https://github.com/Renovamen/oh-vue-icons) - A Vue component for including inline SVG icons from different popular iconpacks easily.
+*   [LogChimp (⭐750)](https://github.com/logchimp/logchimp) - Open-source software to track your customer's feedback to build better products.
 
 ## [21. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Dependency Management Extras
 
-*   [Composer Patches (⭐1.5k)](https://github.com/cweagans/composer-patches) - A plugin for Composer to apply patches.
+*   [Composer Patches (⭐1.6k)](https://github.com/cweagans/composer-patches) - A plugin for Composer to apply patches.
 
 ### Table of Contents / Testing
 
-*   [PHP MySQL Engine (⭐547)](https://github.com/vimeo/php-mysql-engine) -  A MySQL engine written in pure PHP.
+*   [PHP MySQL Engine (⭐550)](https://github.com/vimeo/php-mysql-engine) -  A MySQL engine written in pure PHP.
 
 ### Configuration / PHP Websites
 
@@ -355,9 +351,9 @@
 
 ## [25. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
-### Plugins and scripts / Various Godot versions
+### Plugins and scripts / Godot version unknown
 
-*   [Godot Shaders (⭐2.9k)](https://github.com/GDQuest/godot-shaders) - A large library of free and open-source shaders for 2D and 3D.
+*   [Godot Shaders (⭐3.2k)](https://github.com/GDQuest/godot-shaders) - A large library of free and open-source shaders for 2D and 3D.
 
 ## [26. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
 
@@ -388,7 +384,7 @@
 
 ### Messaging
 
-*   [cabal](http://cabal.chat) is a distributed chat platform built ontop of dat's foundational technologies. It's like IRC except you have backscroll when you join, and there are no servers. There is currently a [nodejs library (⭐302)](https://github.com/cabal-club/cabal-core), a [terminal client (⭐521)](https://github.com/cabal-club/cabal), a [desktop client (⭐836)](https://github.com/cabal-club/cabal-desktop), and an experimental [mobile client (⭐146)](https://github.com/cabal-club/cabal-mobile).
+*   [cabal](http://cabal.chat) is a distributed chat platform built ontop of dat's foundational technologies. It's like IRC except you have backscroll when you join, and there are no servers. There is currently a [nodejs library (⭐302)](https://github.com/cabal-club/cabal-core), a [terminal client (⭐521)](https://github.com/cabal-club/cabal), a [desktop client (⭐847)](https://github.com/cabal-club/cabal-desktop), and an experimental [mobile client (⭐146)](https://github.com/cabal-club/cabal-mobile).
 *   [Delta Chat](https://delta.chat) is a free software chat application and ecosystem based on IMAP and SMTP, which leverages end-to-end encryption via [autocrypt](https://autocrypt.org/). It piggybacks on top of the huge, already existing email infrastructure. All you need to get started is an email address. There's a client for Android and clients for iOS and desktop in the works. Follow the development on the [GitHub page](https://github.com/deltachat).
 *   [Meshtastic](https://www.meshtastic.org) as an open-source extendable mesh communication and location sharing device.  Based on off-the-shelf $30 modules from various vendors, 8 day battery life. Good for skiers, hikers, protestors, finding lost kids, etc...
 *   [PrivMX WebMail](https://privmx.com) is an alternative private mail system with independent, decentralized PKI and support for end-to-end encrypted web forms.
@@ -418,11 +414,11 @@
 *   [Movim](http://movim.eu/) is a decentralized open source social network based on XMPP.
 *   [Patchwork (⭐3.6k)](https://github.com/ssbc/patchwork) is a distributed social network. It uses crytographic keypairs to create feeds and publish unforgeable entries which can spread across the network. Relay servers optionally aggregate and redistribute the feeds.
 *   [Pleroma](https://pleroma.social) is a free, federated social networking server built on open protocols. It is compatible with [GNU Social](https://gnu.io/social/), [Mastodon](https://joinmastodon.org/), and many other ActivityPub implementations.
-*   [PPNet (⭐119)](https://github.com/pixelpark/ppnet) is a middleware that can be used to create a social network, either temporarily or permanently for a group of users. Includes mobile client for Android.
+*   [PPNet (⭐118)](https://github.com/pixelpark/ppnet) is a middleware that can be used to create a social network, either temporarily or permanently for a group of users. Includes mobile client for Android.
 *   [Scuttlebutt](https://www.scuttlebutt.nz) gossip based p2p community social media, chess, book reviews, gatherings, ... (code [here](https://www.github.com/ssbc))
 *   [Synereo](http://www.synereo.com/) is an open source, decentralized **social network**. It is an **attention economy** that rewards popular content and participation with crypto-currency. Content is promoted or advertised in a way that fairly rewards the content's creator and those who choose to engage with that content. An automatic and transparent **reputation economy** assures that you experience content relevant to you. The privacy of your communications and contacts is baked-in to the structure of the network. Synereo is modeled in [π-calculus](https://en.wikipedia.org/wiki/%CE%A0-calculus) and functionally programmed in Scala.
 *   [Tonika](http://pdos.csail.mit.edu/~petar/5ttt.org/) is a (digital) social network, which (by design) restricts direct communication to pairs of users who are friends, possesses many of the security properties (privacy, anonymity, deniability, resilience to denial-of-service attacks, etc.) that human sociaties implement organically in daily life.
-*   [trsst](http://www.trsst.com/) looks and feels like twitter but encrypted and anonymized and decentralized and only you hold the keys. Protocol implementation draft is available on [github (⭐173)](https://github.com/TrsstProject/trsst).
+*   [trsst](http://www.trsst.com/) looks and feels like twitter but encrypted and anonymized and decentralized and only you hold the keys. Protocol implementation draft is available on [github (⭐172)](https://github.com/TrsstProject/trsst).
 *   [Twister](http://twister.net.co) is a secure and fully-decentralized P2P microblogging platform based on concepts and code from Bitcoin and Libtorrent (as described in [this whitepaper](http://arxiv.org/abs/1312.7152)). Feel free to contribute to its [core service (⭐1.4k)](https://github.com/miguelfreitas/twister-core) or [HTML UI (⭐229)](https://github.com/miguelfreitas/twister-html)!
 *   [Vole](http://vole.cc/) is a web-based social network that you use in your browser, without a central server. It's built on the power of Bittorrent, Go and Ember.js. Uses bittorrent sync.
 
@@ -436,14 +432,14 @@
 
 ### Dead
 
-*   [Bitcloud](http://bitcloudproject.org) is an open source distributed cloud storage system and escrow agent based on Tahoe-LAFS that allows publishers to pay storage nodes for storing encrypted data and sharing that data with others. The decentralized nature of Bitcloud allows anyone to publish large amounts of data in a way that is free from censorship, high costs, and proprietary software. The first application for bitcloud will be [WeTube (⭐53)](https://github.com/wetube/wetube-web), a platform for viewing and publishing videos, podcasts, ebooks, music, and other forms of media.
+*   [Bitcloud](http://bitcloudproject.org) is an open source distributed cloud storage system and escrow agent based on Tahoe-LAFS that allows publishers to pay storage nodes for storing encrypted data and sharing that data with others. The decentralized nature of Bitcloud allows anyone to publish large amounts of data in a way that is free from censorship, high costs, and proprietary software. The first application for bitcloud will be [WeTube (⭐54)](https://github.com/wetube/wetube-web), a platform for viewing and publishing videos, podcasts, ebooks, music, and other forms of media.
 *   The [Drogulus](http://drogul.us/) (WIP) is a programmable peer-to-peer data store. It's an open, federated and decentralised system where the identity of users and provenance of data is ensured by cryptographically signing digital assets.[Redecentralise Video interview](http://redecentralize.org/#interviews)
 *   [Swarm](https://swarm.ethereum.org) is a distributed storage platform and content distribution service, a native base layer service of the ethereum web3 stack. It uses the ethereum economy to incentivize P2P storage.
 *   [VirtKick](https://www.virtkick.io/) is your self-hosted DigitalOcean. Take cloud back to your computer, home network or a dedicated server. Manage virtual machines, Docker containers and create 1-click apps.
-*   [Bitmarkets (⭐112)](https://github.com/voluntarynet/bitmarkets) a working decentralized marketplace based on bitcoinj and bitmessage.
-*   [P (⭐409)](https://github.com/unsetbit/p) is a small JavaScript library for creating peer-to-peer applications in browsers. It allows for transitive connections across peers which makes certain network topologies, such mesh networks,easy to establish.
+*   [Bitmarkets (⭐111)](https://github.com/voluntarynet/bitmarkets) a working decentralized marketplace based on bitcoinj and bitmessage.
+*   [P (⭐411)](https://github.com/unsetbit/p) is a small JavaScript library for creating peer-to-peer applications in browsers. It allows for transitive connections across peers which makes certain network topologies, such mesh networks,easy to establish.
 *   [Streisand (⭐23k)](https://github.com/jlund/streisand) sets up a new server running L2TP/IPsec, OpenSSH, OpenVPN, Shadowsocks, Stunnel, and a Tor bridge. It also generates custom configuration instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, or fellow activists.
-*   [OTRTalk (⭐50)](https://github.com/mnaamani/otrtalk) Is a command line based chat application, uses BitTorrent P2P DHT Network for peer discovery and OTR (Off the Record) for secure messaging.
+*   [OTRTalk (⭐51)](https://github.com/mnaamani/otrtalk) Is a command line based chat application, uses BitTorrent P2P DHT Network for peer discovery and OTR (Off the Record) for secure messaging.
 *   [Quietnet (⭐2.9k)](https://github.com/Katee/quietnet) is a simple chat program using near ultrasonic frequencies. It works without Wi-Fi or Bluetooth and cannot be eavesdropped using conventional network capturing methods.
 
 ## [27. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
@@ -472,14 +468,14 @@
 
 ### Web frameworks / Isomorphic web frameworks
 
-*   [CLOG (⭐1.5k)](https://github.com/rabbibotton/clog) - The Common Lisp Omnificent GUI. Uses web technology to produce graphical user interfaces for applications locally or remotely. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
+*   [CLOG (⭐1.6k)](https://github.com/rabbibotton/clog) - The Common Lisp Omnificent GUI. Uses web technology to produce graphical user interfaces for applications locally or remotely. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
     *   CLOG is based on the ideas of GNOGA, a framework the author wrote for Ada and used in commercial production code since 2013.
-*   [Interactive SSR (⭐35)](https://github.com/interactive-ssr/client/blob/master/main.org/) - ISSR allows you to make interactive web pages without writing client scripting. No knowledge about Javascript or DOM is necessary.
+*   [Interactive SSR (⭐38)](https://github.com/interactive-ssr/client/blob/master/main.org/) - ISSR allows you to make interactive web pages without writing client scripting. No knowledge about Javascript or DOM is necessary.
     *   it is not unlike Phoenix LiveView or Hotwire.
 
 ### Emacs / Third-party APIs
 
-*   [Emacs4CL (⭐369)](https://github.com/susam/emacs4cl) - A tiny Emacs initialization file to quickly set up vanilla Emacs for Common Lisp programming. Comes with a line-by-line explanation of every line of code in the initialization file.
+*   [Emacs4CL (⭐384)](https://github.com/susam/emacs4cl) - A tiny Emacs initialization file to quickly set up vanilla Emacs for Common Lisp programming. Comes with a line-by-line explanation of every line of code in the initialization file.
 
 ## [31. Awesome Italy Events](/content/ildoc/awesome-italy-events/week/README.md)
 
@@ -528,7 +524,7 @@
 
 ### Books
 
-- API: [Crossref Metadata Search (⭐725)](https://github.com/CrossRef/rest-api-doc)
+- API: [Crossref Metadata Search (⭐742)](https://github.com/CrossRef/rest-api-doc)
 
   Description: Books & Articles Metadata
 
@@ -596,19 +592,19 @@
 
 ### Utility / Barcode
 
-*   [SwiftPlantUML (⭐569)](https://github.com/MarcoEidinger/SwiftPlantUML) - A command-line tool and Swift Package to generate UML class from your Swift source code. Also available as Xcode Source Editor Extension.
+*   [SwiftPlantUML (⭐585)](https://github.com/MarcoEidinger/SwiftPlantUML) - A command-line tool and Swift Package to generate UML class from your Swift source code. Also available as Xcode Source Editor Extension.
 
 ## [39. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### GUI
 
-*   [Ruby-GNOME (⭐379)](https://github.com/ruby-gnome/ruby-gnome) - Ruby language bindings for the GNOME development environment.
+*   [Ruby-GNOME (⭐386)](https://github.com/ruby-gnome/ruby-gnome) - Ruby language bindings for the GNOME development environment.
 
 ## [40. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / General-Purpose Machine Learning
 
-*   [Hub (⭐8k)](https://github.com/activeloopai/Hub) - Fastest unstructured dataset management for TensorFlow/PyTorch. Stream & version-control data. Store even petabyte-scale data in a single numpy-like array on the cloud accessible on any machine. Visit [activeloop.ai](https://activeloop.ai) for more info.
+*   [Hub (⭐8.2k)](https://github.com/activeloopai/Hub) - Fastest unstructured dataset management for TensorFlow/PyTorch. Stream & version-control data. Store even petabyte-scale data in a single numpy-like array on the cloud accessible on any machine. Visit [activeloop.ai](https://activeloop.ai) for more info.
 
 ## [41. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -680,7 +676,7 @@
 
 ### CSharp
 
-*   [Awesome Microservices .NET Core (⭐2.7k)](https://github.com/mjebrahimi/Awesome-Microservices-NetCore) :star: - A collection of awesome training series, articles, videos, books, courses, sample projects, and tools for microservices in .NET Core.
+*   [Awesome Microservices .NET Core (⭐2.8k)](https://github.com/mjebrahimi/Awesome-Microservices-NetCore) :star: - A collection of awesome training series, articles, videos, books, courses, sample projects, and tools for microservices in .NET Core.
 
 ### Rust / Scala
 
@@ -688,15 +684,15 @@
 
 ### Frontend / UI / Scala
 
-*   [Awesome Micro Frontends (⭐559)](https://github.com/ChristianUlbrich/awesome-microfrontends) :star: - A curated list of resources about Micro Frontends.
+*   [Awesome Micro Frontends (⭐573)](https://github.com/ChristianUlbrich/awesome-microfrontends) :star: - A curated list of resources about Micro Frontends.
 
 ### Resilience / Scala
 
-*   [Awesome Chaos Engineering (⭐5.9k)](https://github.com/dastergon/awesome-chaos-engineering) :star: - A curated list of awesome chaos engineering resources.
+*   [Awesome Chaos Engineering (⭐6.1k)](https://github.com/dastergon/awesome-chaos-engineering) :star: - A curated list of awesome chaos engineering resources.
 
 ### Continuous Integration & Delivery / Scala
 
-*   [Awesome CI/CD DevOps (⭐1.8k)](https://github.com/ciandcd/awesome-ciandcd) :star: - A curated list of awesome tools for continuous integration, continuous delivery and DevOps.
+*   [Awesome CI/CD DevOps (⭐1.9k)](https://github.com/ciandcd/awesome-ciandcd) :star: - A curated list of awesome tools for continuous integration, continuous delivery and DevOps.
 
 ## [46. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
@@ -708,11 +704,11 @@
 
 ### Distribution / Text-Based User Interfaces
 
-*   [Artipie (⭐482)](https://github.com/artipie/artipie) - Binary artifact management toolkit which hosts them on the file system or S3.
+*   [Artipie (⭐514)](https://github.com/artipie/artipie) - Binary artifact management toolkit which hosts them on the file system or S3.
 
 ### Security / Other
 
-*   [Password4j (⭐336)](https://github.com/Password4j/password4j) - User-friendly cryptographic library that supports Argon2, Bcrypt, Scrypt, PBKDF2 and various other cryptographic hash functions.
+*   [Password4j (⭐355)](https://github.com/Password4j/password4j) - User-friendly cryptographic library that supports Argon2, Bcrypt, Scrypt, PBKDF2 and various other cryptographic hash functions.
 
 ## [48. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
@@ -768,12 +764,12 @@
 ### Business
 
 *   [Falsehoods about Prices](https://gist.github.com/rgs/6509585) - Covers currencies, amounts and localization.
-*   [Falsehoods about IBANs (⭐469)](https://github.com/globalcitizen/php-iban/blob/master/docs/FALSEHOODS.md) - International Bank Account Numbers are not international.
+*   [Falsehoods about IBANs (⭐474)](https://github.com/globalcitizen/php-iban/blob/master/docs/FALSEHOODS.md) - International Bank Account Numbers are not international.
 *   [Falsehoods about Economics](http://exple.tive.org/blarg/2016/09/22/falsehoods-programmers-believe-about-economics/) - Economics are not simple or rational.
 
 ### Cryptocurrency
 
-*   [Falsehoods about Bitcoin (⭐59)](https://github.com/theborakompanioni/spring-boot-bitcoin-starter/blob/master/docs/FALSEHOODS.md) - A list of mistaken perspectives on Bitcoin.
+*   [Falsehoods about Bitcoin (⭐67)](https://github.com/theborakompanioni/spring-boot-bitcoin-starter/blob/master/docs/FALSEHOODS.md) - A list of mistaken perspectives on Bitcoin.
 
 ### Dates and Time
 
@@ -813,7 +809,7 @@
 
 ### Phone Numbers
 
-*   [Falsehoods about Phone Numbers (⭐16k)](https://github.com/googlei18n/libphonenumber/blob/master/FALSEHOODS.md) - Covers phone numbers, their representation and meaning.
+*   [Falsehoods about Phone Numbers (⭐17k)](https://github.com/googlei18n/libphonenumber/blob/master/FALSEHOODS.md) - Covers phone numbers, their representation and meaning.
 
 ### Postal Addresses
 
@@ -831,7 +827,7 @@
 
 ### Software Engineering
 
-*   [Falsehoods about Versions (⭐67)](https://github.com/xenoterracide/falsehoods/blob/master/versions.md) - Attributing an identity to a software release might be harder than thought.
+*   [Falsehoods about Versions (⭐68)](https://github.com/xenoterracide/falsehoods/blob/master/versions.md) - Attributing an identity to a software release might be harder than thought.
 *   [Falsehoods about Build Systems](https://pozorvlak.livejournal.com/174763.html) - Building software is hard. Building software that builds software is harder.
 *   [Falsehoods about CSVs](https://donatstudios.com/Falsehoods-Programmers-Believe-About-CSVs) - While RFC4180 to exists, it is far from definitive and goes largely ignored.
 *   [Falsehoods about Testing](https://club.ministryoftesting.com/t/falsehoods-testers-believe/1371) - An attempt to establish a list of falsehoods about testing.
@@ -847,13 +843,13 @@
 
 ### Typography
 
-*   [Falsehoods about Fonts (⭐97)](https://github.com/RoelN/Font-Falsehoods) - Assumptions about typography on the web and in desktop applications.
+*   [Falsehoods about Fonts (⭐101)](https://github.com/RoelN/Font-Falsehoods) - Assumptions about typography on the web and in desktop applications.
 
 ## [53. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
 ### Boilerplates / Individual Podcast episodes
 
-*   [Elm Batteries (⭐116)](https://github.com/cedricss/elm-batteries) - A project template and generator for Elm, Parcel, Cypress and Netlify
+*   [Elm Batteries (⭐117)](https://github.com/cedricss/elm-batteries) - A project template and generator for Elm, Parcel, Cypress and Netlify
 *   [IHP + Elm](https://www.youtube.com/watch?v=b9ULHutH6ag) - The IHP Haskell Framework provides a built-in Elm boilerplate, useful when working with elm in the frontend and haskell in the backend
 
 ### Inspired by Elm / Games

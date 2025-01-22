@@ -10,7 +10,7 @@
 
 ### Other / Event listeners for fonts loading on a web page
 
-*   [TruFont (⭐437)](https://github.com/trufont/trufont) - a streamlined and hackable font editor
+*   [TruFont (⭐485)](https://github.com/trufont/trufont) - a streamlined and hackable font editor
 
 ## [2. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
@@ -28,19 +28,19 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [neonrvm (⭐38)](https://github.com/siavashserver/neonrvm) - neonrvm is an open source machine learning library based on RVM technique. It's written in C programming language and comes with Python programming language bindings.
+*   [neonrvm (⭐39)](https://github.com/siavashserver/neonrvm) - neonrvm is an open source machine learning library based on RVM technique. It's written in C programming language and comes with Python programming language bindings.
 
 ## [5. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Network / Barcode
 
-*   [SolarNetwork (⭐101)](https://github.com/ThreeGayHub/SolarNetwork) - Elegant network abstraction layer.
+*   [SolarNetwork (⭐102)](https://github.com/ThreeGayHub/SolarNetwork) - Elegant network abstraction layer.
 
 ## [6. Awesome Rest](/content/marmelab/awesome-rest/README.md)
 
 ### Directly On Top Of A RMDB
 
-*   [pREST (⭐4.2k)](https://github.com/prest/prest) - A fully RESTful API from any existing PostgreSQL database written in Go.
+*   [pREST (⭐4.3k)](https://github.com/prest/prest) - A fully RESTful API from any existing PostgreSQL database written in Go.
 
 ### Mocking / Symfony2
 

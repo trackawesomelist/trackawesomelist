@@ -16,7 +16,7 @@
 
 ### UI / Paid Books
 
-*   [Dragula (⭐21k)](https://github.com/bevacqua/dragula) - Framework agnostic drag and drop library, supports jQuery integration.
+*   [Dragula (⭐22k)](https://github.com/bevacqua/dragula) - Framework agnostic drag and drop library, supports jQuery integration.
 *   [X-editable (⭐6.5k)](https://github.com/vitalets/x-editable) - In-place editing with Twitter Bootstrap, jQuery UI or pure jQuery.
 
 ## [3. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/README.md)
@@ -48,11 +48,11 @@
 
 ### Command Line Applications
 
-*   [progress\_bar (⭐330)](https://github.com/henrik/progress_bar) - Command-line progress bars and spinners.
+*   [progress\_bar (⭐335)](https://github.com/henrik/progress_bar) - Command-line progress bars and spinners.
 
 ### Queue
 
-*   [toniq (⭐340)](https://github.com/joakimk/toniq) - Simple and reliable background job library for Elixir.
+*   [toniq (⭐337)](https://github.com/joakimk/toniq) - Simple and reliable background job library for Elixir.
 
 ## [6. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
 

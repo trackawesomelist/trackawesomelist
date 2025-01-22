@@ -10,7 +10,7 @@
 
 ### Tab / Barcode
 
-*   [HHTabBarView (⭐153)](https://github.com/hemangshah/HHTabBarView) - A lightweight customized tab bar view.
+*   [HHTabBarView (⭐154)](https://github.com/hemangshah/HHTabBarView) - A lightweight customized tab bar view.
 
 ## [2. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
 
@@ -47,8 +47,8 @@
 
 ### Web / Playground
 
-*   :octocat: [excaliburjs/Excalibur (⭐1.7k)](https://github.com/excaliburjs/Excalibur) - Free open source JavaScript game engine
-*   :octocat: [Bobril (⭐363)](https://github.com/Bobris/Bobril) - Component oriented framework inspired by Mithril and ReactJs. (see also: <http://bobril.com/>)
+*   :octocat: [excaliburjs/Excalibur (⭐1.9k)](https://github.com/excaliburjs/Excalibur) - Free open source JavaScript game engine
+*   :octocat: [Bobril (⭐367)](https://github.com/Bobris/Bobril) - Component oriented framework inspired by Mithril and ReactJs. (see also: <http://bobril.com/>)
 
 ### :dollar: Paid Courses / Chrome Extensions
 
@@ -63,9 +63,9 @@
 
 ## [7. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
-### Other Tools / Telegram
+### Other Tools / Steam
 
-*   [Datasploit (⭐3k)](https://github.com/DataSploit/datasploit) - Tool to perform various OSINT techniques on usernames, emails addresses, and domains.
+*   [Datasploit (⭐3.1k)](https://github.com/DataSploit/datasploit) - Tool to perform various OSINT techniques on usernames, emails addresses, and domains.
 
 ## [8. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
@@ -84,7 +84,7 @@
 
 ### UI Automation
 
-*   [Atata (⭐481)](https://github.com/atata-framework/atata) - Automated web testing full featured framework based on Selenium WebDriver.
+*   [Atata (⭐494)](https://github.com/atata-framework/atata) - Automated web testing full featured framework based on Selenium WebDriver.
 
 ## [11. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 

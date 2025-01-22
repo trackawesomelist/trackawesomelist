@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 30 - Nov 05, 2023
 
-50 awesome lists updated this week.
+49 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -14,7 +14,7 @@
 
 ## [2. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/week/README.md)
 
-### Optics and Extra Info / Unikernel-like
+### Optics and Extra Info / Qubes OS Summit - 3mdeb Summit videos
 
 *   [Qubes OS Summit 2023](https://www.youtube.com/watch?v=xo2BVTn7ohs) - Day 2
 
@@ -29,15 +29,15 @@
 
 ### Third-Party Packages / Users
 
-*   [django-allauth-ui (⭐231)](https://github.com/danihodovic/django-allauth-ui/) - Better looking templates for django-allauth.
+*   [django-allauth-ui (⭐308)](https://github.com/danihodovic/django-allauth-ui/) - Better looking templates for django-allauth.
 
 ### Python Packages / Views
 
-*   [python-socketio (⭐3.9k)](https://github.com/miguelgrinberg/python-socketio) - Python implementation of the Socket.IO\_ realtime client and server. [(create Socket.io Django server instance)](https://python-socketio.readthedocs.io/en/latest/server.html?highlight=django#creating-a-server-instance)
+*   [python-socketio (⭐4.1k)](https://github.com/miguelgrinberg/python-socketio) - Python implementation of the Socket.IO\_ realtime client and server. [(create Socket.io Django server instance)](https://python-socketio.readthedocs.io/en/latest/server.html?highlight=django#creating-a-server-instance)
 
 ### Projects / Boilerplate
 
-*   [sidewinder (⭐189)](https://github.com/stribny/sidewinder/) - A Django starter kit that focuses on good defaults, developer experience, and deployment.
+*   [sidewinder (⭐202)](https://github.com/stribny/sidewinder/) - A Django starter kit that focuses on good defaults, developer experience, and deployment.
 
 ## [5. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
 
@@ -75,7 +75,7 @@
 
 ### Database
 
-*   [karlseguin/pg.zig (⭐163)](https://github.com/karlseguin/pg.zig) - Native PostgreSQL client.
+*   [karlseguin/pg.zig (⭐292)](https://github.com/karlseguin/pg.zig) - Native PostgreSQL client.
 
 ## [10. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
@@ -91,23 +91,23 @@
 
 ### Editors / iOS / macOS
 
-*   [Chime (⭐180)](https://github.com/ChimeHQ/Chime) - An editor for macOS ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
+*   [Chime (⭐306)](https://github.com/ChimeHQ/Chime) - An editor for macOS ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
 
 ### IDE / Text
 
-*   [Geany (⭐2.9k)](https://github.com/geany/geany) - Geany is a powerful, stable and lightweight programmer's text editor that provides tons of useful features without bogging down your workflow. ![c\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/c-16.png "C language.") !\[c++\_icon]
+*   [Geany (⭐3.1k)](https://github.com/geany/geany) - Geany is a powerful, stable and lightweight programmer's text editor that provides tons of useful features without bogging down your workflow. ![c\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/c-16.png "C language.") !\[c++\_icon]
 
 ### Editors / Markdown
 
-*   [MarkEdit (⭐731)](https://github.com/MarkEdit-app/MarkEdit) - MarkEdit is a free and open-source Markdown editor, for macOS. It's just like TextEdit on Mac but dedicated to Markdown. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.") ![typescript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/typescript-16.png "TypeScript language.")
+*   [MarkEdit (⭐1.1k)](https://github.com/MarkEdit-app/MarkEdit) - MarkEdit is a free and open-source Markdown editor, for macOS. It's just like TextEdit on Mac but dedicated to Markdown. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.") ![typescript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/typescript-16.png "TypeScript language.")
 
 ### Menubar / Text
 
-*   [MiniSim (⭐911)](https://github.com/okwasniewski/MiniSim) - MacOS menu bar app for launching iOS  and Android 🤖 emulators. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
+*   [MiniSim (⭐1.8k)](https://github.com/okwasniewski/MiniSim) - MacOS menu bar app for launching iOS  and Android 🤖 emulators. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
 
 ### Podcast / Text
 
-*   [gPodder (⭐1.2k)](https://github.com/gpodder/gpodder) - gPodder is a simple, open source podcast client. ![python\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/python-16.png "Python language.")
+*   [gPodder (⭐1.3k)](https://github.com/gpodder/gpodder) - gPodder is a simple, open source podcast client. ![python\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/python-16.png "Python language.")
 
 ## [12. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
@@ -131,13 +131,13 @@
 
 ### XM Cloud
 
-*   [FEaaS BYOC Example (⭐3)](https://github.com/Sitecore/feaas-nextjs-example) - A repo that demonstrates an example of BYOC components using best practices.
+*   [FEaaS BYOC Example (⭐5)](https://github.com/Sitecore/feaas-nextjs-example) - A repo that demonstrates an example of BYOC components using best practices.
 
 ## [16. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### AI
 
-*   [Cledev.OpenAI (⭐107)](https://github.com/lucabriguglia/Cledev.OpenAI) - ![stars](https://img.shields.io/github/stars/lucabriguglia/Cledev.OpenAI?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/lucabriguglia/Cledev.OpenAI?style=flat-square\&cacheSeconds=86400) .NET 7 SDK for OpenAI with a Blazor Server playground.
+*   [Cledev.OpenAI (⭐116)](https://github.com/lucabriguglia/Cledev.OpenAI) - ![stars](https://img.shields.io/github/stars/lucabriguglia/Cledev.OpenAI?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/lucabriguglia/Cledev.OpenAI?style=flat-square\&cacheSeconds=86400) .NET 7 SDK for OpenAI with a Blazor Server playground.
 
 ### Videos / Others
 
@@ -153,7 +153,7 @@
 
 ### Chat
 
-*   [ExyteChat (⭐746)](https://github.com/exyte/chat) - SwiftUI Chat UI framework with fully customizable message cells, input view, and a built-in media picker
+*   [ExyteChat (⭐937)](https://github.com/exyte/chat) - SwiftUI Chat UI framework with fully customizable message cells, input view, and a built-in media picker
 
 ## [19. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
 
@@ -163,153 +163,48 @@
 
 ### Tools - Security / React
 
-*   [GraphQLer (⭐71)](https://github.com/omar2535/GraphQLer) - Dependency-aware dynamic GraphQL testing tool
+*   [GraphQLer (⭐130)](https://github.com/omar2535/GraphQLer) - Dependency-aware dynamic GraphQL testing tool
 
-## [20. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/week/README.md)
-
-### **Semantic Kernel** / **Semantic Kernel Planner**
-
-*   Is Semantic Kernel Planner the same as LangChain agents?
-
-    > Planner in SK is not the same as Agents in LangChain. [cite (⭐21k)](https://github.com/microsoft/semantic-kernel/discussions/1326) \[11 May 2023]
-
-    > Agents in LangChain use recursive calls to the LLM to decide the next step to take based on the current state.
-    > The two planner implementations in SK are not self-correcting.
-    > Sequential planner tries to produce all the steps at the very beginning, so it is unable to handle unexpected errors.
-    > Action planner only chooses one tool to satisfy the goal
-
-### **LangChain Agent & Memory** / LangChain Agent
-
-*   If you're using a text LLM, first try `zero-shot-react-description`.
-*   If you're using a Chat Model, try `chat-zero-shot-react-description`.
-*   If you're using a Chat Model and want to use memory, try `conversational-react-description`.
-
-### **Prompt Engineering** / **Prompt Template Language**
-
-*   [Recursively Criticizes and Improves (RCI)](https://arxiv.org/abs/2303.17491): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2303.17491)] \[30 Mar 2023]
-    *   Critique: Review your previous answer and find problems with your answer.
-    *   Improve: Based on the problems you found, improve your answer.
-*   [Tree of Thought](https://arxiv.org/abs/2305.10601): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2305.10601)]: Self-evaluate the progress intermediate thoughts make towards solving a problem \[17 May 2023] [git (⭐4.5k)](https://github.com/ysymyth/tree-of-thought-llm) / Agora: Tree of Thoughts (ToT) [git (⭐4.2k)](https://github.com/kyegomez/tree-of-thoughts)
-
-    *   `tree-of-thought\forest_of_thought.py`: Forest of thought Decorator sample
-    *   `tree-of-thought\tree_of_thought.py`: Tree of thought Decorator sample
-    *   `tree-of-thought\react-prompt.py`: ReAct sample without LangChain
-*   Zero-shot, one-shot and few-shot [cite](https://arxiv.org/abs/2005.14165) \[28 May 2020]
-
-    <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/zero-one-few-shot.png" width="200">
-*   Promptist
-
-    *   [Promptist](https://arxiv.org/abs/2212.09611): Microsoft's researchers trained an additional language model (LM) that optimizes text prompts for text-to-image generation.
-        *   For example, instead of simply passing "Cats dancing in a space club" as a prompt, an engineered prompt might be "Cats dancing in a space club, digital painting, artstation, concept art, soft light, hdri, smooth, sharp focus, illustration, fantasy."
-
-### **Finetuning** / PEFT: Parameter-Efficient Fine-Tuning ([Youtube](https://youtu.be/Us5ZFp16PaU)) [24 Apr 2023]
-
-*   Category: Represent approach - Description - Pseudo Code [ref](https://speakerdeck.com/schulta) \[22 Sep 2023]
-
-    1.  Adapters: Adapters - Additional Layers. Inference can be slower.
-
-        ```python
-        def transformer_with_adapter(x):
-          residual = x
-          x = SelfAttention(x)
-          x = FFN(x) # adapter
-          x = LN(x + residual)
-          residual = x
-          x = FFN(x) # transformer FFN
-          x = FFN(x) # adapter
-          x = LN(x + residual)
-          return x
-        ```
-
-    2.  Soft Prompts: Prompt-Tuning - Learnable text prompts. Not always desired results.
-
-        ```python
-        def soft_prompted_model(input_ids):
-          x = Embed(input_ids)
-          soft_prompt_embedding = SoftPromptEmbed(task_based_soft_prompt)
-          x = concat([soft_prompt_embedding, x], dim=seq)
-          return model(x)
-        ```
-
-    3.  Selective: BitFit - Update only the bias parameters. fast but limited.
-
-        ```python
-        params = (p for n,p in model.named_parameters() if "bias" in n)
-        optimizer = Optimizer(params)
-        ```
-
-    4.  Reparametrization: LoRa - Low-rank decomposition. Efficient, Complex to implement.
-
-        ```python
-        def lora_linear(x):
-          h = x @ W # regular linear
-          h += x @ W_A @ W_B # low_rank update
-          return scale * h
-        ```
-
-### **Quantization Techniques** / **Llama Finetuning**
-
-*   Post-training quantization (PTQ): The model is quantized after it has been trained without further optimization during the quantization process.
-
-    | Method                      | Pros                                                        | Cons                                                            |
-    | --------------------------- | ----------------------------------------------------------- | --------------------------------------------------------------- |
-    | Post-training quantization  | Easy to use, no need to retrain the model                   | May result in accuracy loss                                     |
-    | Quantization-aware training | Can achieve higher accuracy than post-training quantization | Requires retraining the model, can be more complex to implement |
-
-### **Numbers LLM** / **GPT series release date**
-
-*   [Numbers every LLM Developer should know (⭐4k)](https://github.com/ray-project/llm-numbers) \[18 May 2023] <br/> <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/llm-numbers.png" height="360">
-
-### **Large Language Models (in 2023)** / **GPT series release date**
-
-*   Change in perspective is necessary because some abilities only emerge at a certain scale. Some conclusions from the past are invalidated and we need to constantly unlearn intuitions built on top of such ideas.
-*   From first-principles, scaling up the Transformer amounts to efficiently doing matrix multiplications with many, many machines.
-*   Further scaling (think 10000x GPT-4 scale). It entails finding the inductive bias that is the bottleneck in further scaling.
-
-### **LLM Materials for East Asian Languages** / Japanese
-
-*   [法律:生成 AI の利用ガイドライン](https://storialaw.jp/blog/9414): Legal: Guidelines for the Use of Generative AI
-
-## [21. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
+## [20. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
 
 ### Databases
 
 *   [Things Every Developer Absolutely, Positively Needs To Know About Database Indexing](https://www.youtube.com/watch?v=HubezKbFL7E) by **Kai Sassnowski** \[41:49]
 
-## [22. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [21. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Compression
 
 *   [heatshrink (⭐1.3k)](https://github.com/atomicobject/heatshrink) - data compression library for embedded/real-time systems  \[ISC]
-*   [minizip-ng (⭐1.2k)](https://github.com/zlib-ng/minizip-ng) - Fork of the popular zip manipulation library found in the zlib distribution. \[zlib]
-*   [zlib-ng (⭐1.5k)](https://github.com/zlib-ng/zlib-ng) - zlib for the "next generation" systems. Drop-In replacement with some serious optimizations. \[zlib]
+*   [minizip-ng (⭐1.3k)](https://github.com/zlib-ng/minizip-ng) - Fork of the popular zip manipulation library found in the zlib distribution. \[zlib]
+*   [zlib-ng (⭐1.6k)](https://github.com/zlib-ng/zlib-ng) - zlib for the "next generation" systems. Drop-In replacement with some serious optimizations. \[zlib]
 
 ### Database
 
-*   [Velox (⭐3.4k)](https://github.com/facebookincubator/velox) - A C++ vectorized database acceleration library aimed to optimizing query engines and data processing systems. \[Apache-2.0] [website](https://velox-lib.io/)
+*   [Velox (⭐3.6k)](https://github.com/facebookincubator/velox) - A C++ vectorized database acceleration library aimed to optimizing query engines and data processing systems. \[Apache-2.0] [website](https://velox-lib.io/)
 
 ### Articles
 
-*   [CppCon 2023 Presentation Materials (⭐264)](https://github.com/CppCon/CppCon2023) - CppCon 2023 Presentation Materials.
-*   [CppCon 2022 Presentation Materials (⭐514)](https://github.com/CppCon/CppCon2022) - CppCon 2022 Presentation Materials.
-*   [CppCon 2021 Presentation Materials (⭐93)](https://github.com/CppCon/CppCon2021) - CppCon 2021 Presentation Materials.
-*   [C++Now 2023 Presentations (⭐81)](https://github.com/boostcon/cppnow_presentations_2023) - Presentation materials presented at C++Now 2023.
+*   [CppCon 2023 Presentation Materials (⭐296)](https://github.com/CppCon/CppCon2023) - CppCon 2023 Presentation Materials.
+*   [CppCon 2022 Presentation Materials (⭐531)](https://github.com/CppCon/CppCon2022) - CppCon 2022 Presentation Materials.
+*   [CppCon 2021 Presentation Materials (⭐100)](https://github.com/CppCon/CppCon2021) - CppCon 2021 Presentation Materials.
+*   [C++Now 2023 Presentations (⭐83)](https://github.com/boostcon/cppnow_presentations_2023) - Presentation materials presented at C++Now 2023.
 *   [C++Now 2022 Presentations (⭐1)](https://github.com/boostcon/cppnow_presentations_2022) - Presentation materials presented at C++Now 2022.
-*   [C++Now 2021 Presentations (⭐3)](https://github.com/boostcon/cppnow_presentations_2021) - Presentation materials presented at C++Now 2021.
+*   [C++Now 2021 Presentations (⭐4)](https://github.com/boostcon/cppnow_presentations_2021) - Presentation materials presented at C++Now 2021.
 
-## [23. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/week/README.md)
+## [22. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/week/README.md)
 
 ### Databases
 
 *   [Human Virus Database (HVD)](http://computationalbiology.cn/humanVirusBase/#/) - A database of human viruses, including information on infected tissues. See description and use in a predictive model in [Ye et al. 2022](https://academic.oup.com/bioinformatics/article-abstract/38/11/3087/6569817?redirectedFrom=fulltext)
 
-## [24. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [23. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
-### State Management / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+### Additional / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [exome (⭐228)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states, works with Angular Signals and RxJS.
+*   [exome (⭐243)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states, works with Angular Signals and RxJS.
 
-## [25. Ai Collective Tools](/content/Hyraze/ai-collective-tools/week/README.md)
+## [24. Ai Collective Tools](/content/Hyraze/ai-collective-tools/week/README.md)
 
 ### Customer Support
 
@@ -332,7 +227,7 @@
 *   [AI Passport Photo](https://aipassportphoto.com/) - Take A Photo with Your Mobile Phone and Get Your Passport Photo in Seconds. `freemium`
 *   [Picsart](https://picsart.com/ai-image-generator/) - Convert words into an image in mere seconds with the Picsart AI Image Generator. `#freemium`
 
-## [26. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [25. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Concepts / Human Concept Representation
 
@@ -346,48 +241,48 @@
 
 *   [Accurate medium-range global weather forecasting with 3D neural networks](https://www.nature.com/articles/s41586-023-06185-3) - ***Nature***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=7198604620204619820)]. This paer introduces an artificial-intelligence-based method for accurate, medium-range global weather forecasting. It shows that three-dimensional deep networks equipped with Earth-specific priors are effective at dealing with complex patterns in weather data, and that a hierarchical temporal aggregation strategy reduces accumulation errors in medium-range forecasting. Trained on 39 years of global data, the program, Pangu-Weather, obtains stronger deterministic forecast results on reanalysis data in all tested variables when compared with the world’s best NWP system, the operational integrated forecasting system of the European Centre for Medium-Range Weather Forecasts.
 *   [Skilful nowcasting of extreme precipitation with NowcastNet](https://www.nature.com/articles/s41586-023-06184-4) - ***Nature***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=17837864391812838009\&hl=en\&as_sdt=0,5)].
-*   [Single-atom alloy catalysts designed by first-principles calculations and artificial intelligence](https://www.nature.com/articles/s41467-021-22048-9) - ***Nature Communications***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=6593978922251447907\&hl=en\&as_sdt=0,5)].
+*   [Single-atom alloy catalysts designed by first-principles calculations and artificial intelligence](https://www.nature.com/articles/s41467-021-22048-9) - ***Nature Communications***, 2021. \[[All Versions](hhttps://scholar.google.com/scholar?cluster=6593978922251447907)]. This paper addresses the problem of new Single-atom-alloy catalysts (SAACs) discovery by applying a compressed-sensing data-analytics approach parameterized with density-functional inputs.
 
-## [27. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [26. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications
 
-*   [WinterJS (⭐3k)](https://github.com/wasmerio/winterjs) - A secure JavaScript runtime built with SpiderMonkey and Axum
+*   [WinterJS (⭐3.1k)](https://github.com/wasmerio/winterjs) - A secure JavaScript runtime built with SpiderMonkey and Axum
 
 ### Libraries / Scripting
 
-*   [3body-lang (⭐174)](https://github.com/rustq/3body-lang) - The Three Body Language
+*   [3body-lang (⭐181)](https://github.com/rustq/3body-lang) - The Three Body Language
 
-## [28. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [27. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Plugins
 
-*   🧬 [Htmx (⭐18)](https://github.com/aniftyco/tailwind-htmx) - Adds variants for styling on [htmx](https://htmx.org/reference/#classes) events.
+*   🧬 [Htmx (⭐19)](https://github.com/aniftyco/tailwind-htmx) - Adds variants for styling on [htmx](https://htmx.org/reference/#classes) events.
 
-## [29. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [28. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Typescript Project Starters
 
-*   [ts-vite-npm-template (⭐2)](https://github.com/kaandesu/ts-vite-npm-template) - An all-in-one solution for crafting TypeScript-based NPM packages with Vite, complete with built-in GitHub Pages live-demo deployment, automated test-and-build workflows, and Vite-powered unit test configuration, including coverage analysis and a README.md template for your package.
+*   [ts-vite-npm-template (⭐3)](https://github.com/kaandesu/ts-vite-npm-template) - An all-in-one solution for crafting TypeScript-based NPM packages with Vite, complete with built-in GitHub Pages live-demo deployment, automated test-and-build workflows, and Vite-powered unit test configuration, including coverage analysis and a README.md template for your package.
 
 ### Tools / Playground
 
-*   [OXC (⭐10k)](https://github.com/web-infra-dev/oxc) - A suite of high-performance tools for JavaScript and TypeScript written in Rust
-*   [biome (⭐13k)](https://github.com/biomejs/biome) - Biome formats and lints your code in a fraction of a second
+*   [OXC (⭐13k)](https://github.com/web-infra-dev/oxc) - A suite of high-performance tools for JavaScript and TypeScript written in Rust
+*   [biome (⭐16k)](https://github.com/biomejs/biome) - Biome formats and lints your code in a fraction of a second
 
-## [30. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
+## [29. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
 ### Rust / Git
 
-*   [botan-rs (⭐29)](https://github.com/randombit/botan-rs) - Botan bindings for Rust.
+*   [botan-rs (⭐32)](https://github.com/randombit/botan-rs) - Botan bindings for Rust.
 
-## [31. Awesome Opentofu](/content/virtualroot/awesome-opentofu/week/README.md)
+## [30. Awesome Opentofu](/content/virtualroot/awesome-opentofu/week/README.md)
 
 ### Tools / CI
 
-*   [setup-opentofu (⭐81)](https://github.com/opentofu/setup-opentofu) - Set up OpenTofu CLI in your GitHub Actions workflow.
+*   [setup-opentofu (⭐91)](https://github.com/opentofu/setup-opentofu) - Set up OpenTofu CLI in your GitHub Actions workflow.
 
-## [32. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
+## [31. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
 
 ### Other LLM Frameworks / Videos Playlists
 
@@ -398,7 +293,7 @@
 *   [Langroid (⭐2.2k)](https://github.com/langroid/langroid): an intuitive, lightweight, extensible and principled Python framework to easily build LLM-powered applications. ![GitHub Repo stars](https://img.shields.io/github/stars/langroid/langroid?style=social)
 *   [Langstream (⭐407)](https://github.com/rogeriochaves/langstream): Build robust LLM applications with true composability 🔗 ![GitHub Repo stars](https://img.shields.io/github/stars/rogeriochaves/langstream?style=social)
 
-## [33. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [32. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### IRB
 
@@ -408,13 +303,13 @@
 
 *   [ruby-spellchecker](https://github.com/omohokcoj/ruby-spellchecker) - English spelling and grammar checker that can be used for autocorrection.
 
-## [34. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [33. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Package Manager / Miscellaneous
 
 *   [bun](https://bun.sh) - All-in-one toolkit for JavaScript and TypeScript apps.
 
-## [35. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+## [34. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Public Data Resources / Housing
 
@@ -424,19 +319,19 @@
 
 *   [Dash](https://dash.plotly.com/) - Dash is an open source python library for building interactive data visualizations on the web. It enables you to build custom data dashboards using pure Python.
 
-## [36. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
+## [35. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
 
 ### Hacks and homebrew / Ironsworn
 
 *   [Shadowsworn: Haunts](https://nightsandweekends.itch.io/shadowsworn-haunts) - Frameworks for modern horror games
 
-## [37. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
+## [36. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
 
 ### Extensions / Extension Scripts
 
-*   [Directus Hook Library (⭐15)](https://github.com/formfcw/directus-hook-library) - A collection of customizable hooks for Directus.
+*   [Directus Hook Library (⭐19)](https://github.com/formfcw/directus-hook-library) - A collection of customizable hooks for Directus.
 
-## [38. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [37. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Programming Languages / [Other](#other-1)
 
@@ -445,29 +340,29 @@
 
 ### Other / [Other](#other-1)
 
-*   [kani (⭐2.1k)](https://github.com/model-checking/kani) — The Kani Rust Verifier is a bit-precise model checker for Rust.
+*   [kani (⭐2.3k)](https://github.com/model-checking/kani) — The Kani Rust Verifier is a bit-precise model checker for Rust.
     Kani is particularly useful for verifying unsafe code blocks in Rust,
     where the "unsafe superpowers" are unchecked by the compiler.
     Kani verifies:
 *   [vale](https://vale.sh) — A syntax-aware linter for prose built with speed and extensibility in mind.
 
-## [39. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [38. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### C++ / General-Purpose Machine Learning
 
-*   [XAD (⭐229)](https://github.com/auto-differentiation/XAD) - Comprehensive backpropagation tool for C++.
+*   [XAD (⭐339)](https://github.com/auto-differentiation/XAD) - Comprehensive backpropagation tool for C++.
 
 ### Python / Computer Vision
 
-*   [TF-GAN (⭐927)](https://github.com/tensorflow/gan) - TF-GAN is a lightweight library for training and evaluating Generative Adversarial Networks (GANs).
-*   [segmentation\_models.pytorch (⭐9.3k)](https://github.com/qubvel/segmentation_models.pytorch) - A PyTorch-based toolkit that offers pre-trained segmentation models for computer vision tasks. It simplifies the development of image segmentation applications by providing a collection of popular architecture implementations, such as UNet and PSPNet, along with pre-trained weights, making it easier for researchers and developers to achieve high-quality pixel-level object segmentation in images.
-*   [segmentation\_models (⭐4.7k)](https://github.com/qubvel/segmentation_models) - A TensorFlow Keras-based toolkit that offers pre-trained segmentation models for computer vision tasks. It simplifies the development of image segmentation applications by providing a collection of popular architecture implementations, such as UNet and PSPNet, along with pre-trained weights, making it easier for researchers and developers to achieve high-quality pixel-level object segmentation in images.
+*   [TF-GAN (⭐944)](https://github.com/tensorflow/gan) - TF-GAN is a lightweight library for training and evaluating Generative Adversarial Networks (GANs).
+*   [segmentation\_models.pytorch (⭐9.8k)](https://github.com/qubvel/segmentation_models.pytorch) - A PyTorch-based toolkit that offers pre-trained segmentation models for computer vision tasks. It simplifies the development of image segmentation applications by providing a collection of popular architecture implementations, such as UNet and PSPNet, along with pre-trained weights, making it easier for researchers and developers to achieve high-quality pixel-level object segmentation in images.
+*   [segmentation\_models (⭐4.8k)](https://github.com/qubvel/segmentation_models) - A TensorFlow Keras-based toolkit that offers pre-trained segmentation models for computer vision tasks. It simplifies the development of image segmentation applications by providing a collection of popular architecture implementations, such as UNet and PSPNet, along with pre-trained weights, making it easier for researchers and developers to achieve high-quality pixel-level object segmentation in images.
 
 ### Python / Reinforcement Learning
 
-*   [Gymnasium (⭐6.5k)](https://github.com/Farama-Foundation/Gymnasium) - A library for developing and comparing reinforcement learning algorithms (successor of \[gym])([https://github.com/openai/gym (⭐34k)](https://github.com/openai/gym)).
+*   [Gymnasium (⭐7.6k)](https://github.com/Farama-Foundation/Gymnasium) - A library for developing and comparing reinforcement learning algorithms (successor of \[gym])([https://github.com/openai/gym (⭐35k)](https://github.com/openai/gym)).
 
-## [40. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [39. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Comparison / Unsupervised Learning
 
@@ -493,14 +388,14 @@
 ### Deep Learning Packages / PyTorch Ecosystem
 
 *   [Yolov3 (⭐10k)](https://github.com/ultralytics/yolov3)
-*   [Yolov5 (⭐49k)](https://github.com/ultralytics/yolov5)
-*   [Yolov8 (⭐27k)](https://github.com/ultralytics/ultralytics)
+*   [Yolov5 (⭐52k)](https://github.com/ultralytics/yolov5)
+*   [Yolov8 (⭐35k)](https://github.com/ultralytics/ultralytics)
 
-### Datasets / Book Deals (Affiliated) 🛍
+### Datasets / Book Deals (Affiliated)
 
 *   [The Humanitarian Data Exchange](https://data.humdata.org/)
 
-## [41. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/week/README.md)
+## [40. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/week/README.md)
 
 ### Text / Models
 
@@ -517,73 +412,73 @@
 
 ### Other / Music
 
-*   [Petals (⭐9k)](https://github.com/bigscience-workshop/petals) - BitTorrent style platform for running AI models in a distributed way.
+*   [Petals (⭐9.4k)](https://github.com/bigscience-workshop/petals) - BitTorrent style platform for running AI models in a distributed way.
 
 ### Learning resources / Music
 
-*   [OpenAI Cookbook (⭐58k)](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API.
+*   [OpenAI Cookbook (⭐61k)](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API.
 *   [Robert Miles AI Safety](https://www.youtube.com/@RobertMilesAI) - Youtube channel about AI safety
 
-## [42. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [41. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Books, blogs, and training materials / Free and public materials
 
-*   [Tweede golf's workshop](https://workshop.tweede.golf) - A full workshop about Rust and embedded Rust. The embedded parts use the nRF52840-DK and a LIS3DH breakout board. ([github source (⭐11)](https://github.com/tweedegolf/rust-workshop))
+*   [Tweede golf's workshop](https://workshop.tweede.golf) - A full workshop about Rust and embedded Rust. The embedded parts use the nRF52840-DK and a LIS3DH breakout board. ([github source (⭐15)](https://github.com/tweedegolf/rust-workshop))
 
 ### Driver crates / WIP
 
-*   [AD9850](https://crates.io/crates/ad9850) - Embedded driver for the AD9850 DDS synthesizer chip - ![crates.io](https://img.shields.io/crates/v/ad9850.svg)
+*   [AD9850](https://crates.io/crates/ad9850) - Embedded driver for the AD9850 DDS synthesizer chip - [![crates.io](https://img.shields.io/crates/v/ad9850.svg)](https://crates.io/crates/ad9850)
 
-## [43. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [42. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Caches
 
-*   [coherence-go-client (⭐9)](https://github.com/oracle/coherence-go-client) - Full implementation of Oracle Coherence cache API for Go applications using gRPC as network transport.
+*   [coherence-go-client (⭐10)](https://github.com/oracle/coherence-go-client) - Full implementation of Oracle Coherence cache API for Go applications using gRPC as network transport.
 
 ### Forms
 
-*   [checker (⭐9)](https://github.com/cinar/checker) - Checker helps validating user input through rules defined in struct tags or directly through functions.
+*   [checker (⭐35)](https://github.com/cinar/checker) - Checker helps validating user input through rules defined in struct tags or directly through functions.
 
 ### Security
 
-*   [beelzebub (⭐640)](https://github.com/mariocandela/beelzebub) - A secure low code honeypot framework, leveraging AI for System Virtualization.
+*   [beelzebub (⭐730)](https://github.com/mariocandela/beelzebub) - A secure low code honeypot framework, leveraging AI for System Virtualization.
 
 ### Server Applications
 
-*   [etcd (⭐47k)](https://github.com/etcd-io/etcd) - Highly-available key value store for shared configuration and service discovery.
+*   [etcd (⭐48k)](https://github.com/etcd-io/etcd) - Highly-available key value store for shared configuration and service discovery.
 
-## [44. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [43. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### (requires Neovim 0.5)
 
-*   [mrcjkb/haskell-tools.nvim (⭐439)](https://github.com/mrcjkb/haskell-tools.nvim) - Seamless integration of Neovim with Haskell development tools like haskell-language-server and Hoogle.
+*   [mrcjkb/haskell-tools.nvim (⭐502)](https://github.com/mrcjkb/haskell-tools.nvim) - Seamless integration of Neovim with Haskell development tools like haskell-language-server and Hoogle.
 
 ### Snippet / Diagnostics
 
-*   [mrcjkb/haskell-snippets.nvim (⭐24)](https://github.com/mrcjkb/haskell-snippets.nvim) - Haskell snippets for LuaSnip, powered by Tree-sitter and LSP.
+*   [mrcjkb/haskell-snippets.nvim (⭐27)](https://github.com/mrcjkb/haskell-snippets.nvim) - Haskell snippets for LuaSnip, powered by Tree-sitter and LSP.
 
 ### Search / Diagnostics
 
-*   [mangelozzi/rgflow.nvim (⭐82)](https://github.com/mangelozzi/rgflow.nvim) - Quickly get RipGrep results into an editable Quickfix list, while learning RipGrep's CLI.
-*   [duane9/nvim-rg (⭐36)](https://github.com/duane9/nvim-rg) - Run RipGrep asynchronously and see results in a quickfix window.
+*   [mangelozzi/rgflow.nvim (⭐94)](https://github.com/mangelozzi/rgflow.nvim) - Quickly get RipGrep results into an editable Quickfix list, while learning RipGrep's CLI.
+*   [duane9/nvim-rg (⭐39)](https://github.com/duane9/nvim-rg) - Run RipGrep asynchronously and see results in a quickfix window.
 
 ### Fuzzy Finder / Diagnostics
 
-*   [echasnovski/mini.nvim#mini.extra (⭐4.7k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-extra.md) - Module of `mini.nvim` with extra functionality for its modules. Contains 20+ 'mini.pick' pickers, 'mini.ai' textobjects, and more.
+*   [echasnovski/mini.nvim#mini.extra (⭐6.2k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-extra.md) - Module of `mini.nvim` with extra functionality for its modules. Contains 20+ 'mini.pick' pickers, 'mini.ai' textobjects, and more.
 
 ### Color / Diagnostics
 
-*   [miversen33/sunglasses.nvim (⭐108)](https://github.com/miversen33/sunglasses.nvim) - Dynamic Colorscheme/highlight adjuster on window switching.
+*   [miversen33/sunglasses.nvim (⭐141)](https://github.com/miversen33/sunglasses.nvim) - Dynamic Colorscheme/highlight adjuster on window switching.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [miikanissi/modus-themes.nvim (⭐170)](https://github.com/miikanissi/modus-themes.nvim) - Accessible theme, conforming with the highest standard for color contrast (WCAG AAA).
+*   [miikanissi/modus-themes.nvim (⭐250)](https://github.com/miikanissi/modus-themes.nvim) - Accessible theme, conforming with the highest standard for color contrast (WCAG AAA).
 
 ### Code Runner / Diagnostics
 
-*   [benlubas/molten-nvim (⭐458)](https://github.com/benlubas/molten-nvim) - Enables running code chunks via the jupyter kernel. Output (including image output) is rendered in a floating window below the code.
+*   [benlubas/molten-nvim (⭐692)](https://github.com/benlubas/molten-nvim) - Enables running code chunks via the jupyter kernel. Output (including image output) is rendered in a floating window below the code.
 
-## [45. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
+## [44. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
 
 ### Family
 
@@ -623,15 +518,6 @@
 
 ### Party
 
-### [The Gilded Realms](https://boardgamegeek.com/boardgame/397099/gilded-realms)
-
-> The Gilded Realms is a euro-style kingdom builder board game set in a medieval fantasy world, where players will be tasked with ruling over their young but ambitious kingdoms. In this hybrid simultaneous turn-based game of economic management and risk assessment, you and up to three other players will command a unique Faction and compete for the title of ultimate regent.Through careful planning of two builds a turn and management of your resources you must develop your five provinces and construct a thriving income, all the while, fending off competing kingdoms and the invading Sarrukar forces with your armies and fortifications. Players can also earn Gold and Gems from successful caravan trading and management of their kingdom’s stance during economic events. Or they can send armies into other player’s Hinterlands to raid their Caravans and take Endeavour cards for themselves! At the end of the 12th round of play, players earn prestigious titles based on their Victory Points, the highest earning the Serpens Champion and declared winner of The Gilded Realms!
-
-![The Gilded Realms](https://cf.geekdo-images.com/gWNSCaB9gE-cPNHhH33uQQ__itemrep/img/ulauk-nriJFsto6y8EJA76FH1z4=/fit-in/246x300/filters:strip_icc\(\)/pic7666055.jpg)
-
-| Players | Min. Age |    Time |
-| ------: | -------: | ------: |
-|   2 - 4 |      14+ | 90-180m |
 ### [Saboteur](https://boardgamegeek.com/boardgame/9220/saboteur)
 
 > With the help of Dwarf Cards, the players are assigned their role: either miner or saboteur. The roles are kept secret until the end of the round. As miners, they are hunting for gold. The miners are trying to build an uninterrupted path from the Start Card to a Goal Card, while the saboteurs are trying to prevent this. They shouldn't try to be too obvious about it, however, lest they be immediately discovered.
@@ -647,19 +533,6 @@
 | Players | Min. Age | Time |
 | ------: | -------: | ---: |
 |  3 - 10 |       8+ |  30m |
-### [The Last Bottle of Rum](https://boardgamegeek.com/boardgame/275557/last-bottle-rum)
-
-> A pirate board game for 2 to 5 players, where you play as a pirate looking to trade its treasures for the very last bottle of rum of the archipelago... Prepare to explore uncharted waters, plunder your enemies and avoid the Kraken! To win the game, a player will have to score the most victory points by digging up hidden treasures.
-
-> On each turn, choose two cards from your hand. The cards you play determines the actions you may take. Cleverly combo actions and effects to overcome obstacles and keep pace with rival captains. Fire your cannons on your opponents to slow down their treasure-hunting. Push your luck at the risk of being cursed and chased by the deadly Kraken! Play one of the unique characters and use your game-changing abilities when it’s least expected!
-
-> The first Captain to collect 10 booty points gets the last bottle of the archipelago and wins the game.
-
-![The Last Bottle of Rum](https://cf.geekdo-images.com/W-28SI7dtFwOM6KYD9egrQ__itemrep/img/UIIbwvNMAHbyDJriFpltV-7nHd4=/fit-in/246x300/filters:strip_icc\(\)/pic5715210.jpg)
-
-| Players | Min. Age |   Time |
-| ------: | -------: | -----: |
-|   2 - 5 |      10+ | 45-60m |
 ### [Zoo Vadis](https://boardgamegeek.com/boardgame/368061/zoo-vadis)
 
 > What if the animals were the ones who ran the zoo? Presumably, this wild government would be built upon the support of fellow creatures and fueled by the fame, attention, and prestige of wide-eyed visitors. Naturally, the most aspirational beasts would lobby for a position in the star exhibit, and the lead star would be elected Zoo Mascot.In order to join the star exhibit, each species must campaign its way up the hierarchy of enclosures with the majority support of animal voters. And the lead star will be the species that has earned the most laurels from both raving fans and jealous rivals along the way. How does one gain support and earn laurels? Through crafty politicking, clever negotiations, and ruthless schemes. There can only be one Zoo Mascot, after all. Where are you going? That is the ultimate question of Zoo Vadis.
@@ -701,7 +574,7 @@
 
 Contributions are welcome and encouraged! Read the [contribution guidelines](https://github.com/edm00se/awesome-board-games/blob/main/readme.md/contributing.md) first.
 
-## [46. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [45. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Human-AI Interaction
 
@@ -731,7 +604,6 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 *   [Five takeaways from UK’s AI safety summit at Bletchley Park | Artificial intelligence (AI) | The Guardian](https://www.theguardian.com/technology/2023/nov/02/five-takeaways-uk-ai-safety-summit-bletchley-park-rishi-sunak)
 *   [Frontier AI: capabilities and risks – discussion paper - GOV.UK](https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper)
 *   [AI Safety Summit Policy Updates | AISS 2023](https://www.aisafetysummit.gov.uk/policy-updates/#company-policies)
-*   [Responsible enterprise decisions with knowledge-enriched generative AI | Deloitte Netherlands](https://www2.deloitte.com/nl/nl/pages/risk/articles/responsible-enterprise-decisions-with-knowledge-enriched-generative-AI.html)
 *   [\[2310.13149\] Understanding Generative AI in Art: An Interview Study with Artists on G-AI from an HCI Perspective](https://arxiv.org/abs/2310.13149)
 *   [\[2309.12338\] Artificial Intelligence and Aesthetic Judgment](https://arxiv.org/abs/2309.12338): "as generative AI influences contemporary aesthetic judgment we outline some of the pitfalls and traps in attempting to scrutinize what AI generated media means"
 
@@ -751,7 +623,7 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 
 ### Large Language Models (LLMs)
 
-*   [cpacker/MemGPT (⭐11k)](https://github.com/cpacker/MemGPT): teaching LLMs memory management for unbounded context [\[demo page\]](https://memgpt.ai/) [\[arxiv\]](https://arxiv.org/abs/2310.08560)
+*   [cpacker/MemGPT (⭐14k)](https://github.com/cpacker/MemGPT): teaching LLMs memory management for unbounded context [\[demo page\]](https://memgpt.ai/) [\[arxiv\]](https://arxiv.org/abs/2310.08560)
 *   [\[2307.10169\] Challenges and Applications of Large Language Models](https://arxiv.org/abs/2307.10169): a systematic set of open problems and application successes of LLM area
 *   [Related resources from around the web | OpenAI Cookbook](https://cookbook.openai.com/articles/related_resources): tools and papers for improving outputs from GPT
 *   \[🔥🔥🔥] [Patterns for Building LLM-based Systems & Products](https://eugeneyan.com/writing/llm-patterns/): "practical patterns for integrating large language models (LLMs) into systems & products" by Eugene Yan
@@ -759,8 +631,8 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 
 ### Related Awesome Lists / Deforum
 
-*   [Hannibal046/Awesome-LLM: Awesome-LLM (⭐17k)](https://github.com/Hannibal046/Awesome-LLM): a curated list of Large Language Model
-*   [AlexChalakov/awesome-generative-ai-companies (⭐95)](https://github.com/AlexChalakov/awesome-generative-ai-companies): a curated list of Gеnerative AI companies, sorted by focus area and total fundraised amount
+*   [Hannibal046/Awesome-LLM: Awesome-LLM (⭐21k)](https://github.com/Hannibal046/Awesome-LLM): a curated list of Large Language Model
+*   [AlexChalakov/awesome-generative-ai-companies (⭐102)](https://github.com/AlexChalakov/awesome-generative-ai-companies): a curated list of Gеnerative AI companies, sorted by focus area and total fundraised amount
 
 ### Prompt Engineering / Prompt Engineering for Text-to-text
 
@@ -777,7 +649,7 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 
 *   [Rerankers and Two-Stage Retrieval | Pinecone](https://www.pinecone.io/learn/series/rag/rerankers/)
 *   [Retrieval Augmented Generation | Pinecone](https://www.pinecone.io/learn/series/rag/)
-*   [dssjon/biblos: biblos.app (⭐191)](https://github.com/dssjon/biblos): example of RAG architecture using semantic search and summarization for retrieving Bible passages
+*   [dssjon/biblos: biblos.app (⭐206)](https://github.com/dssjon/biblos): example of RAG architecture using semantic search and summarization for retrieving Bible passages
 
 ### Autonomous LLM Agents / Prompt Engineering for Text-to-image
 
@@ -820,29 +692,29 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 
 *   [Hassan El Mghari (@nutlope) / X](https://twitter.com/nutlope): the creator of [roomgpt](https://roomgpt.io)
 
-## [47. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [46. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Bookmarks and Link Sharing
 
-*   [Servas (⭐526)](https://github.com/beromir/Servas) - A self-hosted bookmark management tool. It allows organization with tags, groups, and a list specifically for later access. It supports multiple users with 2FA. Companion browser extensions are available for Firefox and Chrome. ([Clients (⭐526)](https://github.com/beromir/Servas#browser-extensions)) `GPL-3.0` `Docker/Nodejs/PHP`
+*   [Servas (⭐604)](https://github.com/beromir/Servas) - A self-hosted bookmark management tool. It allows organization with tags, groups, and a list specifically for later access. It supports multiple users with 2FA. Companion browser extensions are available for Firefox and Chrome. ([Clients (⭐604)](https://github.com/beromir/Servas#browser-extensions)) `GPL-3.0` `Docker/Nodejs/PHP`
 
 ### Software / Software Development - API Management
 
-*   [Psychic (⭐1.7k)](https://github.com/psychic-api/psychic) - Universal API to connect large language models to dynamic data sources. `GPL-3.0` `Python`
+*   [Psychic (⭐2.3k)](https://github.com/psychic-api/psychic) - Universal API to connect large language models to dynamic data sources. `GPL-3.0` `Python`
 
-## [48. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
+## [47. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
 
 ### Examples
 
-*   [AntonioFalcaoJr/EventualShop (⭐343)](https://github.com/AntonioFalcaoJr/EventualShop#readme) - The project has a logo and well-defined sections such as: information about the project, the architectural solution, along with reference links such as articles, videos, and documentation. It explains how to run the project in different environments (development and production). It has documented load tests, it also describes which technologies are used, and it has diagrams for the archetype.
-*   [skydio/revup (⭐298)](https://github.com/Skydio/revup#readme) - Project logo. Animated GIF demo + GIFs for major stages of the step-by-step tutorial. Concise explanation, installation instructions, and contribution section.
+*   [AntonioFalcaoJr/EventualShop (⭐372)](https://github.com/AntonioFalcaoJr/EventualShop#readme) - The project has a logo and well-defined sections such as: information about the project, the architectural solution, along with reference links such as articles, videos, and documentation. It explains how to run the project in different environments (development and production). It has documented load tests, it also describes which technologies are used, and it has diagrams for the archetype.
+*   [skydio/revup (⭐325)](https://github.com/Skydio/revup#readme) - Project logo. Animated GIF demo + GIFs for major stages of the step-by-step tutorial. Concise explanation, installation instructions, and contribution section.
 
-## [49. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [48. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [asdf (kiurchv) (⭐15)](https://github.com/kiurchv/asdf.plugin.zsh) - Integration and completions for [asdf (⭐21k)](https://github.com/asdf-vm/asdf), the extendable version manager, with support for Ruby, Node.js, Elixir, Erlang and more.
-*   [asdf (zimfw) (⭐9)](https://github.com/zimfw/asdf) - Initializes [asdf (⭐21k)](https://github.com/asdf-vm/asdf), installing it using `git` if not installed yet. Also, bypasses the shims if you're using the [direnv (⭐538)](https://github.com/asdf-community/asdf-direnv) plugin, as suggested by the plugin [pro-tips (⭐538)](https://github.com/asdf-community/asdf-direnv/#pro-tips).
+*   [asdf (kiurchv) (⭐15)](https://github.com/kiurchv/asdf.plugin.zsh) - Integration and completions for [asdf (⭐22k)](https://github.com/asdf-vm/asdf), the extendable version manager, with support for Ruby, Node.js, Elixir, Erlang and more.
+*   [asdf (zimfw) (⭐10)](https://github.com/zimfw/asdf) - Initializes [asdf (⭐22k)](https://github.com/asdf-vm/asdf), installing it using `git` if not installed yet. Also, bypasses the shims if you're using the [direnv (⭐567)](https://github.com/asdf-community/asdf-direnv) plugin, as suggested by the plugin [pro-tips (⭐567)](https://github.com/asdf-community/asdf-direnv/#pro-tips).
 *   [telepresence (⭐0)](https://github.com/alexgervais/telepresence-ps1) - Add the current [Telepresence](https://www.telepresence.io/) connection status and context to your ZSH prompt.
 *   [zload (⭐14)](https://github.com/mollifier/zload) - Hot Reload for ZSH functions. Enables rapid development.
 
@@ -850,11 +722,11 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 
 *   [domixgit (⭐0)](https://github.com/tariqdomi/ohmyzsh-domixgit) - Prompt with `git` status and current directory decorators.
 *   [magpie (⭐0)](https://github.com/wdjcodes/magpie) - Minimalist theme with custom logic to display paths relative to the root of the current `git`. Includes decorators for time, current directory, username\@hostname and `git` status.
-*   [princess (⭐1)](https://github.com/mellypop/princess) - Modeled after [abhiyan.zsh (⭐7)](https://github.com/abhiyandhakal/abhiyan.zsh) with perhaps a bit too much pink and arguably too few emojis. Includes decorators for current directory and `git` status.
-*   [sdkman (matthieusb) (⭐55)](https://github.com/matthieusb/zsh-sdkman) - Add tab completions for [sdkman](https://sdkman.io/).
+*   [princess (⭐3)](https://github.com/mellypop/princess) - Modeled after [abhiyan.zsh (⭐7)](https://github.com/abhiyandhakal/abhiyan.zsh) with perhaps a bit too much pink and arguably too few emojis. Includes decorators for current directory and `git` status.
+*   [sdkman (matthieusb) (⭐58)](https://github.com/matthieusb/zsh-sdkman) - Add tab completions for [sdkman](https://sdkman.io/).
 *   [sdkman (yongxingzhao) (⭐0)](https://github.com/yongxingzhao/zsh-sdkman) - Add tab completions for [sdkman](https://sdkman.io/).
 
-## [50. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
+## [49. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
 
 ### Algorithms & Data Structures
 

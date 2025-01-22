@@ -72,7 +72,7 @@
 
 ### specifically from (*a certain platform*) / ProductHunt
 
-*   [ProductHunt daily RSS feed (⭐34)](https://github.com/headllines/producthunt-daily-rss) <sup>[918](https://t.me/s/aboutrss/918)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/headllines/producthunt-daily-rss)
+*   [ProductHunt daily RSS feed (⭐36)](https://github.com/headllines/producthunt-daily-rss) <sup>[918](https://t.me/s/aboutrss/918)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/headllines/producthunt-daily-rss)
 
 ### specifically from (*a certain platform*) / YouTube
 
@@ -93,7 +93,7 @@
 
 ### RSS Feed Finding/Detection / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
-*   [RSSAid (⭐980)](https://github.com/lt94/RSSAid/) <sup>[911](https://t.me/s/aboutrss/911), [1475](https://t.me/s/aboutrss/1475)</sup> : Android-version RSSHub Radar [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://github.com/lt94/RSSAid/releases)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/lt94/RSSAid/)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+*   [RSSAid (⭐1.1k)](https://github.com/lt94/RSSAid/) <sup>[911](https://t.me/s/aboutrss/911), [1475](https://t.me/s/aboutrss/1475)</sup> : Android-version RSSHub Radar [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://github.com/lt94/RSSAid/releases)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/lt94/RSSAid/)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
 ### Multi-subject / Crypto or Blockchain relevant
 
@@ -121,7 +121,7 @@
 
 ### Software / Personal Dashboards
 
-*   [Your Spotify (⭐2.8k)](https://github.com/Yooooomi/your_spotify) `⚠` - Allows you to record your Spotify listening activity and have statistics about them served through a Web application. `MIT` `Nodejs/Docker`
+*   [Your Spotify (⭐3.4k)](https://github.com/Yooooomi/your_spotify) `⚠` - Allows you to record your Spotify listening activity and have statistics about them served through a Web application. `MIT` `Nodejs/Docker`
 
 ## [7. Awesome Indie](/content/mezod/awesome-indie/README.md)
 
@@ -159,11 +159,11 @@
 
 ### Hardware
 
-*   [Robotic Tooling (⭐3.2k)](https://github.com/protontypes/awesome-robotic-tooling#readme) - Free and open tools for professional robotic development.
+*   [Robotic Tooling (⭐3.3k)](https://github.com/protontypes/awesome-robotic-tooling#readme) - Free and open tools for professional robotic development.
 
 ### Miscellaneous
 
-*   [Biological Visualizations (⭐160)](https://github.com/keller-mark/awesome-biological-visualizations#readme) - Interactive visualization of biological data on the web.
+*   [Biological Visualizations (⭐175)](https://github.com/keller-mark/awesome-biological-visualizations#readme) - Interactive visualization of biological data on the web.
 
 ## [12. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)
 

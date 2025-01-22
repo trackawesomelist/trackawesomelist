@@ -24,8 +24,8 @@
 
 *   [Velodyne](https://velodynelidar.com/) - Ouster and Velodyne announced the successful completion of their *merger* of equals, effective February 10, 2023. Velodyne was a mechanical and solid-state LIDAR manufacturer. The headquarter is in San Jose, California, USA.
     *   [YouTube channel ![](https://img.shields.io/badge/youtube-red?style=flat-square\&logo=youtube)](https://www.youtube.com/user/VelodyneLiDAR)
-    *   [ROS driver ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐636)](https://github.com/ros-drivers/velodyne)
-    *   [C++/Python library ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐39)](https://github.com/valgur/velodyne_decoder)
+    *   [ROS driver ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐659)](https://github.com/ros-drivers/velodyne)
+    *   [C++/Python library ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐41)](https://github.com/valgur/velodyne_decoder)
 *   [Ouster](https://ouster.com/) - LIDAR manufacturer, specializing in digital-spinning LiDARs. Ouster is headquartered in San Francisco, USA.
     *   [YouTube channel ![](https://img.shields.io/badge/youtube-red?style=flat-square\&logo=youtube)](https://www.youtube.com/c/Ouster-lidar)
     *   [GitHub organization ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github)](https://github.com/ouster-lidar) ![](https://img.shields.io/badge/ROS-2-34aec5?style=flat-square\&logo=ros)
@@ -38,29 +38,29 @@
 
 ### HTML generators and templates / Isomorphic web frameworks
 
-*   [TEN (⭐34)](https://github.com/mmontone/ten) - the completness of Djula meets the usability of Eco. [MIT](https://opensource.org/licenses/MIT).
-
-### Writing, running scripts / Third-party APIs
-
-*   [clawk (⭐48)](https://github.com/sharplispers/clawk) - an AWK implementation embedded into Common Lisp, to search files for lines and perform specified actions on its fields. BSD-style.
+*   [TEN (⭐34)](https://github.com/mmontone/ten) - the completness of Djula with the full usability of Common Lisp code in templates. [MIT](https://opensource.org/licenses/MIT).
 
 ### Readline, ncurses and other graphical helpers / Third-party APIs
 
-*   [replic (⭐33)](https://github.com/vindarel/replic/) - helpers to turn existing code into a readline application, with a focus on defining the completion of the commands' arguments. Also comes as a ready to use executable, that transforms a user's lispy init file into readline commands. [MIT](https://opensource.org/licenses/MIT).
-*   [cl-ansi-term (⭐26)](https://github.com/vindarel/cl-ansi-term) - print
+*   [replic (⭐36)](https://github.com/vindarel/replic/) - helpers to turn existing code into a readline application, with a focus on defining the completion of the commands' arguments. Also comes as a ready to use executable, that transforms a user's lispy init file into readline commands. [MIT](https://opensource.org/licenses/MIT).
+*   [cl-ansi-term (⭐29)](https://github.com/vindarel/cl-ansi-term) - print
     colorized text, horizontal lines, progress bars, (un)ordered lists
     and tables on ANSI-compliant terminals. [GPL3](http://www.gnu.org/copyleft/gpl.html).
 
 ### Shells, shells interfaces / Third-party APIs
 
-*   [Shelly (⭐63)](https://github.com/fukamachi/shelly) - execute Common Lisp
+*   [Shelly (⭐64)](https://github.com/fukamachi/shelly) - execute Common Lisp
     functions like a shell command, without the need to write a command
     line arguments parser. And it also can be used as a Make-like
     build-tool. [FreeBSD](https://directory.fsf.org/wiki?title=License:FreeBSD).
 
+### Other scripting utilities / Third-party APIs
+
+*   [clawk (⭐49)](https://github.com/sharplispers/clawk) - an AWK implementation embedded into Common Lisp, to search files for lines and perform specified actions on its fields. BSD-style.
+
 ### Date and time / Third-party APIs
 
-*   [periods (⭐29)](https://github.com/jwiegley/periods) - manipulating date/time objects at a higher level. With series-compatible data structure. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
+*   [periods (⭐30)](https://github.com/jwiegley/periods) - manipulating date/time objects at a higher level. With series-compatible data structure. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
     *   with [some documentation](https://lisp-maintainers.github.io/periods/)
 
 ## [5. Awesome Leading and Managing](/content/LappleApple/awesome-leading-and-managing/README.md)
@@ -74,21 +74,21 @@
 
 ### Packages / Miscellaneous
 
-*   [patch-package (⭐10k)](https://github.com/ds300/patch-package) - Make and preserve fixes to npm dependencies.
+*   [patch-package (⭐11k)](https://github.com/ds300/patch-package) - Make and preserve fixes to npm dependencies.
 
 ## [7. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
 ### Collection of Actions / Docker Container Actions
 
-*   [GitHub Actions for AWS (⭐95)](https://github.com/clowdhaus/aws-github-actions)
+*   [GitHub Actions for AWS (⭐116)](https://github.com/clowdhaus/aws-github-actions)
 
 ### Static Analysis / Security
 
-*   [Snyk Test Action (⭐331)](https://github.com/snyk/actions)
+*   [Snyk Test Action (⭐500)](https://github.com/snyk/actions)
 
 ### Deployment / Code Coverage
 
-*   [Publish a Python Distribution Package to Anaconda Cloud (⭐19)](https://github.com/fcakyon/conda-publish-action)
+*   [Publish a Python Distribution Package to Anaconda Cloud (⭐27)](https://github.com/fcakyon/conda-publish-action)
 
 ## [8. Awesome Waves](/content/msmolyakov/awesome-waves/README.md)
 

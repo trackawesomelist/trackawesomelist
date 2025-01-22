@@ -58,7 +58,7 @@
 
 ### Component abstraction crates / Other
 
-*   [`accelerometer`](https://github.com/NeoBirth/accelerometer.rs) - Generic accelerometer support, including traits and types for taking readings from 2 or 3-axis accelerometers and tracking device orientations - ![crates.io](https://img.shields.io/crates/v/accelerometer.svg)
+*   [`accelerometer`](https://github.com/NeoBirth/accelerometer.rs) - Generic accelerometer support, including traits and types for taking readings from 2 or 3-axis accelerometers and tracking device orientations - [![crates.io](https://img.shields.io/crates/v/accelerometer.svg)](https://crates.io/crates/accelerometer)
 
 ---
 

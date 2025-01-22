@@ -17,17 +17,13 @@
 
 ### Crates / Utils
 
-*   [turf (⭐43)](https://github.com/myFavShrimp/turf) - Macro based compile-time SCSS transpilation, CSS minification, and class name uniquification toolchain inspired by CSS modules.
+*   [turf (⭐74)](https://github.com/myFavShrimp/turf) - Macro based compile-time SCSS transpilation, CSS minification, and class name uniquification toolchain inspired by CSS modules.
 
 ## [3. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Blockchain
 
-*   [artemis (⭐2.2k)](https://github.com/paradigmxyz/artemis) - A simple, modular, and fast framework for writing MEV bots.
-
-### Development tools / Deployment
-
-*   [MarcoIeni/release-plz (⭐749)](https://github.com/MarcoIeni/release-plz) \[[release-plz](https://crates.io/crates/release-plz)] - Release crates from CI, with changelog generation and semver check. [![build badge](https://github.com/MarcoIeni/release-plz/workflows/CI/badge.svg)](https://github.com/MarcoIeni/release-plz/actions)
+*   [artemis (⭐2.4k)](https://github.com/paradigmxyz/artemis) - A simple, modular, and fast framework for writing MEV bots.
 
 ## [4. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/README.md)
 
@@ -39,7 +35,7 @@
 
 ### Awesome TypeScript Essential Resources
 
-*   :octocat: [Codebook (⭐7)](https://github.com/gvanastasov/codebook-typescript) read and run small code snippets to progressively learn TypeScript from the basic to advanced concepts.
+*   :octocat: [Codebook (⭐8)](https://github.com/gvanastasov/codebook-typescript) read and run small code snippets to progressively learn TypeScript from the basic to advanced concepts.
 
 ## [6. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
 
@@ -77,7 +73,7 @@
 ### Engineering / Systems Complexity
 
 *   [Living with Complexity, by Donald A. Norman](https://www.amazon.com/Living-Complexity-Donald-Norman-2010/dp/B00DEKM5GK?_encoding=UTF8\&qid=1686404524\&sr=1-1\&linkCode=ll1\&tag=kevideld-20\&linkId=497ae387bbd398624d897bdfbf90f7b6\&language=en_US\&ref_=as_li_ss_tl) - In which we learn that, based on [Tesler's law of the conservation of complexity](https://en.wikipedia.org/wiki/Law_of_conservation_of_complexity), “the total complexity of a system is a constant: as you make the person's interaction simpler, the hidden complexity behind the scenes increases. Make one part of the system simpler, said Tesler, and the rest of the system gets more complex.”
-*   [The Efficiency-Destroying Magic of Tidying Up](https://flocrivello.com/the-efficiency-destroying-magic-of-tidying-up/) - “Efficiency tends to look messy, and good looks tend to be inefficient.” A reminder that sometimes we should just accept [the messiness of the world (⭐23k)](https://github.com/kdeldycke/awesome-falsehood).
+*   [The Efficiency-Destroying Magic of Tidying Up](https://flocrivello.com/the-efficiency-destroying-magic-of-tidying-up/) - “Efficiency tends to look messy, and good looks tend to be inefficient.” A reminder that sometimes we should just accept [the messiness of the world (⭐24k)](https://github.com/kdeldycke/awesome-falsehood).
 
 ### Engineering / Engineering Practices
 
@@ -108,7 +104,7 @@
 
 *   [Who are you trying to impress with your deadlines?](https://web.archive.org/web/20200102054540/http://jatins.gitlab.io/me/why-deadline/) - “There are companies where those deadlines are set in stone, and a missed deadline is next to fire. That's when the problem starts.”
 
-### Key Performance Indicator (KPI) / Tickets
+### Key Performance Indicator (KPI) / Delivery
 
 *   “Numerical goals set for other people, without a road map to reach the goal, have effects opposite to the effects sought.” - [W. Edwards Deming](https://www.amazon.com/Out-Crisis-W-Edwards-Deming/dp/0911379010?_encoding=UTF8\&qid=\&sr=\&linkCode=ll1\&tag=kevideld-20\&linkId=ec7a442a2cd5bfcfb5b6c32ea1409f2f\&language=en_US\&ref_=as_li_ss_tl)
 
@@ -140,7 +136,7 @@
 
 ### Authorization / AWS policy tools
 
-*   [IAMbic (⭐279)](https://github.com/noqdev/iambic) - GitOps for IAM. The Terraform of Cloud IAM. IAMbic is a multi-cloud identity and access management (IAM) control plane that centralizes and simplifies cloud access and permissions. It maintains an eventually consistent, human-readable, bi-directional representation of IAM in version control.
+*   [IAMbic (⭐285)](https://github.com/noqdev/iambic) - GitOps for IAM. The Terraform of Cloud IAM. IAMbic is a multi-cloud identity and access management (IAM) control plane that centralizes and simplifies cloud access and permissions. It maintains an eventually consistent, human-readable, bi-directional representation of IAM in version control.
 
 ### Authorization / Macaroons
 

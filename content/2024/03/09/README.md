@@ -30,7 +30,7 @@
 
 ### DevOps Tools / Libraries for creating HTTP middlewares
 
-*   [tau (⭐3.1k)](https://github.com/taubyte/tau) - Easily build Cloud Computing Platforms with features like Serverless WebAssembly Functions, Frontend Hosting, CI/CD, Object Storage, K/V Database, and Pub-Sub Messaging.
+*   [tau (⭐3.7k)](https://github.com/taubyte/tau) - Easily build Cloud Computing Platforms with features like Serverless WebAssembly Functions, Frontend Hosting, CI/CD, Object Storage, K/V Database, and Pub-Sub Messaging.
 
 ## [5. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -42,7 +42,7 @@
 
 ### Software / E-commerce
 
-*   [Shopware Community Edition](https://www.shopware.com/en/community/community-edition/) - PHP based open source e-commerce software made in Germany. ([Demo](https://www.shopware.com/en/test-demo/), [Source Code (⭐2.7k)](https://github.com/shopware/platform)) `MIT` `PHP`
+*   [Shopware Community Edition](https://www.shopware.com/en/community/community-edition/) - PHP based open source e-commerce software made in Germany. ([Demo](https://www.shopware.com/en/test-demo/), [Source Code (⭐2.9k)](https://github.com/shopware/platform)) `MIT` `PHP`
 
 ---
 

@@ -28,7 +28,7 @@
 
 ### Applications / Web
 
-*   [CodeCombat (⭐7.9k)](https://github.com/codecombat/codecombat) - Multiplayer programming game for learning how to code
+*   [CodeCombat (⭐8k)](https://github.com/codecombat/codecombat) - Multiplayer programming game for learning how to code
 
 ## [5. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 

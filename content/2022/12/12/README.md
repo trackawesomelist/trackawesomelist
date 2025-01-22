@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 12, 2022
 
-8 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,39 +10,39 @@
 
 ### Components & Libraries / Scaffold
 
-*   [Vutron (⭐233)](https://github.com/jooy2/vutron) - Quick start templates for Vite + Electron + Vue 3 + Vuetify + TypeScript.
+*   [Vutron (⭐269)](https://github.com/jooy2/vutron) - Quick start templates for Vite + Electron + Vue 3 + Vuetify + TypeScript.
 
 ## [2. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Templates / Vue 3
 
-*   [vue-xs-admin (⭐99)](https://github.com/jsxiaosi/vue-xs-admin) - Based on Vue3, Vite3 ElementPlus, TypeScript, Pinia, VueRouter.
+*   [vue-xs-admin (⭐115)](https://github.com/jsxiaosi/vue-xs-admin) - Based on Vue3, Vite3 ElementPlus, TypeScript, Pinia, VueRouter.
 
 ### Templates / Electron
 
-*   [vite-electron-plugin (⭐53)](https://github.com/electron-vite/vite-electron-plugin) - High-performance, esbuild-based Vite Electron plugin.
+*   [vite-electron-plugin (⭐54)](https://github.com/electron-vite/vite-electron-plugin) - High-performance, esbuild-based Vite Electron plugin.
 
 ### Framework-agnostic Plugins / Loaders
 
-*   [vite-plugin-svgo (⭐27)](https://github.com/r3dDoX/vite-plugin-svgo) - Load SVGs as plain string and transform with SVGO library.
+*   [vite-plugin-svgo (⭐29)](https://github.com/r3dDoX/vite-plugin-svgo) - Load SVGs as plain string and transform with SVGO library.
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-css-export (⭐24)](https://github.com/shixuanhong/vite-plugin-css-export) - Export variables from CSS to JavaScript, and support nested rules.
+*   [vite-plugin-css-export (⭐27)](https://github.com/shixuanhong/vite-plugin-css-export) - Export variables from CSS to JavaScript, and support nested rules.
 
 ### Vue / Ecosystem
 
-*   ![v3](https://img.shields.io/badge/-v3-35495e) [unplugin-vue-i18n (⭐235)](https://github.com/intlify/bundle-tools/tree/main/packages/unplugin-vue-i18n) - Integration for Vue I18n.
+*   ![v3](https://img.shields.io/badge/-v3-35495e) [unplugin-vue-i18n (⭐248)](https://github.com/intlify/bundle-tools/tree/main/packages/unplugin-vue-i18n) - Integration for Vue I18n.
 
 ### Preact / Presets
 
-*   [@preact/preset-vite (⭐256)](https://github.com/preactjs/preset-vite) - Preact preset. HMR, automatic Preact inject, removal of DevTools in prod.
+*   [@preact/preset-vite (⭐263)](https://github.com/preactjs/preset-vite) - Preact preset. HMR, automatic Preact inject, removal of DevTools in prod.
 
 ## [3. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Marks / Diagnostics
 
-*   [cbochs/grapple.nvim (⭐516)](https://github.com/cbochs/grapple.nvim) - Provides tagging, cursor tracking, and immediate navigation to important project files.
+*   [cbochs/grapple.nvim (⭐595)](https://github.com/cbochs/grapple.nvim) - Provides tagging, cursor tracking, and immediate navigation to important project files.
 
 ## [4. Awesome Dart](/content/yissachar/awesome-dart/README.md)
 
@@ -91,12 +91,6 @@
 ### :dollar: Paid Courses / Chrome Extensions
 
 *   [Mastering TypeScript - 2022 Edition](https://www.udemy.com/course/learn-typescript/) (Udemy)
-
-## [8. Awesome Dash](/content/ucg8j/awesome-dash/README.md)
-
-### Tutorials
-
-*   [Finding Bigfoot with Dash, Part 1](https://timothyrenner.github.io/posts/bigfoot-with-dash-part-1/) - Walkthrough of building a dashboard of Bigfoot sightings. [Part 2](https://timothyrenner.github.io/posts/bigfoot-with-dash-part-2), [Part 3](https://timothyrenner.github.io/posts/bigfoot-with-dash-part-3/).
 
 ---
 

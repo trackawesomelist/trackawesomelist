@@ -26,7 +26,7 @@
 
 ### GitHub Pages / Code Coverage
 
-*   [Deploy Google Analytics stats to GitHub Pages (⭐10)](https://github.com/cristianpb/analytics-google)
+*   [Deploy Google Analytics stats to GitHub Pages (⭐14)](https://github.com/cristianpb/analytics-google)
 
 ## [4. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 
@@ -44,7 +44,7 @@
 
 ### Debug
 
-*   [μt (⭐1.2k)](https://github.com/boost-experimental/ut) - C++20 single header/single module, macro-free μ(micro)/Unit Testing Framework. \[Boost]
+*   [μt (⭐1.3k)](https://github.com/boost-experimental/ut) - C++20 single header/single module, macro-free μ(micro)/Unit Testing Framework. \[Boost]
 
 ## [7. Awesome Kde](/content/francoism90/awesome-kde/README.md)
 
@@ -62,11 +62,11 @@
 
 ### Big Data
 
-*   [Qlik (⭐59)](https://github.com/ambster-public/awesome-qlik#readme) - Business intelligence platform for data visualization, analytics, and reporting apps.
+*   [Qlik (⭐61)](https://github.com/ambster-public/awesome-qlik#readme) - Business intelligence platform for data visualization, analytics, and reporting apps.
 
 ### Health and Social Science
 
-*   [Digital History (⭐221)](https://github.com/maehr/awesome-digital-history#readme) - Computer-aided scientific investigation of history.
+*   [Digital History (⭐232)](https://github.com/maehr/awesome-digital-history#readme) - Computer-aided scientific investigation of history.
 
 ## [10. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 

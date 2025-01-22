@@ -61,29 +61,29 @@
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-bundle-analyzer (⭐126)](https://github.com/nonzzz/vite-bundle-analyzer) - Utility that represents bundles as an interactive treemap.
+*   [vite-bundle-analyzer (⭐196)](https://github.com/nonzzz/vite-bundle-analyzer) - Utility that represents bundles as an interactive treemap.
 
 ### React / Community
 
-*   [Viject (⭐119)](https://github.com/bhbs/viject) - One-shot migration tool from Create React App.
+*   [Viject (⭐145)](https://github.com/bhbs/viject) - One-shot migration tool from Create React App.
 
 ## [4. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### AI / Diagnostics
 
-*   [jpmcb/nvim-llama (⭐241)](https://github.com/jpmcb/nvim-llama) - LLM (Llama 2 and llama.cpp) wrappers.
+*   [jpmcb/nvim-llama (⭐264)](https://github.com/jpmcb/nvim-llama) - LLM (Llama 2 and llama.cpp) wrappers.
 
 ### Syntax / Diagnostics
 
-*   [IndianBoy42/tree-sitter-just (⭐138)](https://github.com/IndianBoy42/tree-sitter-just) - Treesitter grammar for [Justfiles (⭐19k)](https://github.com/casey/just).
+*   [IndianBoy42/tree-sitter-just (⭐153)](https://github.com/IndianBoy42/tree-sitter-just) - Tree-sitter grammar for [Justfiles (⭐23k)](https://github.com/casey/just).
 
 ### Snippet / Diagnostics
 
-*   [rafamadriz/friendly-snippets (⭐1.9k)](https://github.com/rafamadriz/friendly-snippets) - Set of preconfigured snippets for different languages.
+*   [rafamadriz/friendly-snippets (⭐2.2k)](https://github.com/rafamadriz/friendly-snippets) - Set of preconfigured snippets for different languages.
 
 ### Editing Support / Diagnostics
 
-*   [nat-418/boole.nvim (⭐159)](https://github.com/nat-418/boole.nvim) - Toggle booleans and common string values.
+*   [nat-418/boole.nvim (⭐164)](https://github.com/nat-418/boole.nvim) - Toggle booleans and common string values.
 
 ## [5. Awesome Dotfiles](/content/webpro/awesome-dotfiles/README.md)
 
@@ -118,7 +118,7 @@
 
 ### GUI / Text-Based User Interfaces
 
-*   [SnapKit (⭐205)](https://github.com/reportmill/SnapKit) - Modern Java UI library for both desktop and web.
+*   [SnapKit (⭐251)](https://github.com/reportmill/SnapKit) - Modern Java UI library for both desktop and web.
 
 ### IDE / Text-Based User Interfaces
 
@@ -126,7 +126,7 @@
 
 ### JVM and JDK / Text-Based User Interfaces
 
-*   [Microsoft JDK (⭐313)](https://github.com/microsoft/openjdk) - Microsoft Build of OpenJDK, Free, Open Source, Freshly Brewed!
+*   [Microsoft JDK (⭐323)](https://github.com/microsoft/openjdk) - Microsoft Build of OpenJDK, Free, Open Source, Freshly Brewed!
 
 ### Science / Other
 
@@ -134,7 +134,7 @@
 
 ### Testing / Mocking
 
-*   [EasyMock (⭐812)](https://github.com/easymock/easymock) - EasyMock is a Java library that provides an easy way to use Mock Objects in unit testing.
+*   [EasyMock (⭐820)](https://github.com/easymock/easymock) - EasyMock is a Java library that provides an easy way to use Mock Objects in unit testing.
 
 ## [10. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
 

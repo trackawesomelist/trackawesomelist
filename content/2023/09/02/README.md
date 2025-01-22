@@ -10,7 +10,7 @@
 
 ### Web
 
-*   [west (⭐9)](https://github.com/Dracks/West) - A wrapper of vweb to work in a similar way as nestjs works with modules and dependency injection.
+*   [west (⭐10)](https://github.com/Dracks/West) - A wrapper of vweb to work in a similar way as nestjs works with modules and dependency injection.
 
 ## [2. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
@@ -20,39 +20,27 @@
 
 ### Optimization
 
-*   [SmallStrings (⭐119)](https://github.com/EmergeTools/SmallStrings) - Reduce localized .strings file sizes by 80%.
+*   [SmallStrings (⭐131)](https://github.com/EmergeTools/SmallStrings) - Reduce localized .strings file sizes by 80%.
 
 ### Other Testing
 
-*   [ETTrace (⭐526)](https://github.com/EmergeTools/ETTrace) - Locally measure performance of your app, without Xcode or Instruments.
+*   [ETTrace (⭐581)](https://github.com/EmergeTools/ETTrace) - Locally measure performance of your app, without Xcode or Instruments.
 
 ### Alert & Action Sheet
 
-*   [LCActionSheet (⭐821)](https://github.com/iTofu/LCActionSheet) - A simple ActionSheet. WeChat, Weibo and QQ all use similar styles. Fully support Swift.
+*   [LCActionSheet (⭐822)](https://github.com/iTofu/LCActionSheet) - A simple ActionSheet. WeChat, Weibo and QQ all use similar styles. Fully support Swift.
 
 ## [3. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
-### Projects Using Vue.js / Open Source
-
-*   [starfish-vue3-lowcode (⭐1)](https://github.com/haixin-fang/starfish-vue3-lowcode) - Vue3 visual lowcode form designer, convenient and quick to complete all kinds of form design!
-
-### Components & Libraries / UI Components
-
-*   [vue-mrz-scanner (⭐1)](https://github.com/tony-xlh/vue-mrz-scanner) - A Vue component to scan MRZ on passports, visa cards, etc. It is based on Dynamsoft Label Recognizer.
-
-### Components & Libraries / Utilities
-
-*   [vuex-composition (⭐6)](https://github.com/echo008/vuex-composition) - A util package to use Vuex with Composition API and Reactivity API easily.
-
 ### Components & Libraries / Integrations
 
-*   [vue-tg (⭐143)](https://github.com/deptyped/vue-telegram) - Telegram Web Apps integration for Vue 3.
+*   [vue-tg (⭐212)](https://github.com/deptyped/vue-telegram) - Telegram Web Apps integration for Vue 3.
 
 ## [4. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
 
 ### Terminal / CLI tools
 
-*   [decompose (⭐80)](https://github.com/s0rg/decompose) - Reverse-engineering tool for docker environments. By [@s0rg](https://github.com/s0rg)
+*   [decompose (⭐86)](https://github.com/s0rg/decompose) - Reverse-engineering tool for docker environments. By [@s0rg](https://github.com/s0rg)
 
 ---
 

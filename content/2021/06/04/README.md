@@ -106,12 +106,12 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 
 ### Databases / ORMs
 
-*   [FastAPIwee (⭐18)](https://github.com/Ignisor/FastAPIwee) - A simple way to create REST API based on [PeeWee (⭐11k)](https://github.com/coleifer/peewee) models.
+*   [FastAPIwee (⭐19)](https://github.com/Ignisor/FastAPIwee) - A simple way to create REST API based on [PeeWee (⭐11k)](https://github.com/coleifer/peewee) models.
 
 ### Utils / Other Tools
 
-*   [FastAPI Chameleon (⭐138)](https://github.com/mikeckennedy/fastapi-chameleon) - Adds integration of the Chameleon template language to FastAPI.
-*   [FastAPI Jinja (⭐67)](https://github.com/AGeekInside/fastapi-jinja) - Adds integration of the Jinja template language to FastAPI.
+*   [FastAPI Chameleon (⭐141)](https://github.com/mikeckennedy/fastapi-chameleon) - Adds integration of the Chameleon template language to FastAPI.
+*   [FastAPI Jinja (⭐69)](https://github.com/AGeekInside/fastapi-jinja) - Adds integration of the Jinja template language to FastAPI.
 
 ### Tutorials / Other Tools
 
@@ -123,12 +123,12 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 
 ### Monitoring/Statistics/Perfomance / Prometheus
 
-*   [pgSCV (⭐163)](https://github.com/weaponry/pgscv) - Metrics exporter for PostgreSQL and Postgres-related services.
-*   [postgres\_exporter (⭐2.6k)](https://github.com/wrouesnel/postgres_exporter) - Prometheus exporter for PostgreSQL server metrics.
+*   [pgSCV (⭐167)](https://github.com/weaponry/pgscv) - Metrics exporter for PostgreSQL and Postgres-related services.
+*   [postgres\_exporter (⭐2.9k)](https://github.com/wrouesnel/postgres_exporter) - Prometheus exporter for PostgreSQL server metrics.
 
 ### Security / Zabbix
 
-*   [Databunker (⭐1.2k)](https://github.com/securitybunker/databunker) - Special GDPR compliant secure vault for customer records built on top of regular DB.
+*   [Databunker (⭐1.3k)](https://github.com/securitybunker/databunker) - Special GDPR compliant secure vault for customer records built on top of regular DB.
 
 ## [9. Awesome Design Patterns](/content/DovAmir/awesome-design-patterns/README.md)
 
@@ -137,16 +137,16 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 *   Java
     *   [sourcemaking](https://sourcemaking.com/design_patterns) - patterns and anti patterns.
     *   [oodesign](https://www.oodesign.com/)  - patterns catalog with UML diagrams.
-    *   [design-patterns (⭐85k)](https://github.com/iluwatar/java-design-patterns)
-    *   [effective-java patterns (⭐1.3k)](https://github.com/HugoMatilla/Effective-JAVA-Summary) - patterns from the Effective Java book.
+    *   [design-patterns (⭐90k)](https://github.com/iluwatar/java-design-patterns)
+    *   [effective-java patterns (⭐1.5k)](https://github.com/HugoMatilla/Effective-JAVA-Summary) - patterns from the Effective Java book.
     *   [Design patterns implemented in Java](https://java-design-patterns.com/patterns/)
     *   [Effective-Java-3rd-Joshua-Bloch](https://www.amazon.com/Effective-Java-3rd-Joshua-Bloch/dp/0134685997/ref=pd_sim_14_7)
 *   Node
-    *   [Real world design patterns with Node.js (⭐313)](https://github.com/nimit95/Real-world-Design-Patterns-Node-JS)
+    *   [Real world design patterns with Node.js (⭐380)](https://github.com/nimit95/Real-world-Design-Patterns-Node-JS)
     *   [Node.js Design Patterns](https://www.packtpub.com/web-development/nodejs-design-patterns-second-edition)
 *   Python
-    *   [design-patterns (⭐39k)](https://github.com/faif/python-patterns)
-    *   [PyPattyrn (⭐2.1k)](https://github.com/tylerlaberge/PyPattyrn) - A simple library for implementing common design patterns.
+    *   [design-patterns (⭐40k)](https://github.com/faif/python-patterns)
+    *   [PyPattyrn (⭐2.3k)](https://github.com/tylerlaberge/PyPattyrn) - A simple library for implementing common design patterns.
     *   [Python Design Patterns](https://python-patterns.guide/)
     *   [Design Patterns in Python](https://refactoring.guru/design-patterns/python)
     *   [Django Design Patterns and Best Practices](https://arunrocks.com/static/book/django-design-patterns-best-practices-2-ed)
@@ -188,7 +188,7 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 
 ### Contents / Health and Fitness
 
-*   [QuitSmoke (⭐69)](https://github.com/trizin/Quit-Smoke-App) - A Flutter app to help you quit smoking by [trizin](https://github.com/trizin).
+*   [QuitSmoke (⭐73)](https://github.com/trizin/Quit-Smoke-App) - A Flutter app to help you quit smoking by [trizin](https://github.com/trizin).
 
 ---
 

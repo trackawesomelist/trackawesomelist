@@ -20,7 +20,7 @@
 
 ### Modals and Popups / Other
 
-*   [lightGallery (⭐6.3k)](https://github.com/sachinchoolur/lightGallery) - A customizable, modular, responsive, lightbox gallery plugin for jQuery.
+*   [lightGallery (⭐6.4k)](https://github.com/sachinchoolur/lightGallery) - A customizable, modular, responsive, lightbox gallery plugin for jQuery.
 
 ### Menu / Other
 
@@ -30,13 +30,13 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [Couler (⭐897)](https://github.com/couler-proj/couler) - Unified interface for constructing and managing machine learning workflows on different workflow engines, such as Argo Workflows, Tekton Pipelines, and Apache Airflow.
+*   [Couler (⭐919)](https://github.com/couler-proj/couler) - Unified interface for constructing and managing machine learning workflows on different workflow engines, such as Argo Workflows, Tekton Pipelines, and Apache Airflow.
 
 ## [4. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
 ### Third-Party Packages / Performance
 
-*   [django-silk (⭐4.4k)](https://github.com/jazzband/django-silk) - Live profiling and inspection of HTTP requests and database queries.
+*   [django-silk (⭐4.6k)](https://github.com/jazzband/django-silk) - Live profiling and inspection of HTTP requests and database queries.
 
 ### Resources / Educational
 
@@ -44,7 +44,7 @@
 
 ### Projects / Open Source Projects
 
-*   [PostHog (⭐20k)](https://github.com/PostHog/posthog) - Open-source product analytics.
+*   [PostHog (⭐23k)](https://github.com/PostHog/posthog) - Open-source product analytics.
 
 ## [5. Awesome Storybook](/content/lauthieb/awesome-storybook/README.md)
 
@@ -78,7 +78,7 @@
 
 ### Projects
 
-*   [yew-octicons (⭐18)](https://github.com/io12/yew-octicons) - An easy interface for using Octicons in Yew projects.
+*   [yew-octicons (⭐19)](https://github.com/io12/yew-octicons) - An easy interface for using Octicons in Yew projects.
 
 ## [10. Public Apis](/content/public-apis/public-apis/README.md)
 

@@ -32,14 +32,14 @@
 
 ### Examples / Templates
 
-*   [modern-cmake-sample (⭐581)](https://github.com/pabloariasal/modern-cmake-sample) - Best practices and proper usage of CMake by using targets. `[NO LICENSE]`
+*   [modern-cmake-sample (⭐664)](https://github.com/pabloariasal/modern-cmake-sample) - Best practices and proper usage of CMake by using targets. `[NO LICENSE]`
 
 ## [5. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Types / Playground
 
-*   [utility-types (⭐5.5k)](https://github.com/piotrwitek/utility-types) - Utility Types for TypeScript (provide compatibility with Flow's Utility Types)
-*   [elm-ts (⭐301)](https://github.com/gcanti/elm-ts) - Port of Elm architecture to TypeScript featuring fp-ts, io-ts, rxjs5 and React
+*   [utility-types (⭐5.6k)](https://github.com/piotrwitek/utility-types) - Utility Types for TypeScript (provide compatibility with Flow's Utility Types)
+*   [elm-ts (⭐300)](https://github.com/gcanti/elm-ts) - Port of Elm architecture to TypeScript featuring fp-ts, io-ts, rxjs5 and React
 
 ## [6. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
 
@@ -66,9 +66,9 @@
 ### Libraries / Command-line
 
 *   Line editor
-    *   [kkawakam/rustyline (⭐1.5k)](https://github.com/kkawakam/rustyline) \[[rustyline](https://crates.io/crates/rustyline)] - readline implementation
+    *   [kkawakam/rustyline (⭐1.6k)](https://github.com/kkawakam/rustyline) \[[rustyline](https://crates.io/crates/rustyline)] - readline implementation
     *   [MovingtoMars/liner (⭐74)](https://github.com/MovingtoMars/liner) \[[liner](https://crates.io/crates/liner)] - A library offering readline-like functionality
-    *   [murarth/linefeed (⭐184)](https://github.com/murarth/linefeed) \[[linefeed](https://crates.io/crates/linefeed)] - Configurable, extensible, interactive line reader
+    *   [murarth/linefeed (⭐187)](https://github.com/murarth/linefeed) \[[linefeed](https://crates.io/crates/linefeed)] - Configurable, extensible, interactive line reader
     *   [srijs/rust-copperline (⭐27)](https://github.com/srijs/rust-copperline) \[[copperline](https://crates.io/crates/copperline)] - command line editing library
 
 ## [9. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)

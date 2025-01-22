@@ -10,7 +10,7 @@
 
 ### Software / Community-Supported Agriculture (CSA)
 
-*   [FoodCoopShop](https://www.foodcoopshop.com/) - User-friendly open source software for food-coops. ([Source Code (⭐90)](https://github.com/foodcoopshop/foodcoopshop)) `AGPL-3.0` `PHP/Docker`
+*   [FoodCoopShop](https://www.foodcoopshop.com/) - User-friendly open source software for food-coops. ([Source Code (⭐96)](https://github.com/foodcoopshop/foodcoopshop)) `AGPL-3.0` `PHP/Docker`
 
 ### Software / Search Engines
 
@@ -26,39 +26,38 @@
 
 ### Component bundles
 
-*   [BootstrapBlazor (⭐0)](https://github.com/ArgoZhang/BootstrapBlazor) - ![stars](https://img.shields.io/github/stars/ArgoZhang/BootstrapBlazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/ArgoZhang/BootstrapBlazor?style=flat-square\&cacheSeconds=86400) Reusable bootstrap components for Blazor. ([Docs as Demo](https://www.blazor.zone/)).
-*   [FAST Blazor (⭐3.5k)](https://github.com/microsoft/fast-blazor) - ![GitHub stars](https://img.shields.io/github/stars/microsoft/fast-blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/microsoft/fast-blazor?style=flat-square\&cacheSeconds=86400) A lightweight wrapper around Microsoft's official FluentUI Web Components for use with .NET 6.0 Razor views & Blazor. ([Samples & demo](https://www.fast.design/)).
+*   [FAST Blazor (⭐3.9k)](https://github.com/microsoft/fast-blazor) - ![GitHub stars](https://img.shields.io/github/stars/microsoft/fast-blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/microsoft/fast-blazor?style=flat-square\&cacheSeconds=86400) A lightweight wrapper around Microsoft's official FluentUI Web Components for use with .NET 6.0 Razor views & Blazor. ([Samples & demo](https://www.fast.design/)).
 
 ### Tools & Utilities / Others
 
-*   [BlazorTemplater (⭐145)](https://github.com/conficient/BlazorTemplater) - ![last-commit](https://img.shields.io/github/last-commit/conficient/BlazorTemplater?style=flat-square\&cacheSeconds=86400) Use `.razor` components to render HTML strings for email content.
+*   [BlazorTemplater (⭐150)](https://github.com/conficient/BlazorTemplater) - ![last-commit](https://img.shields.io/github/last-commit/conficient/BlazorTemplater?style=flat-square\&cacheSeconds=86400) Use `.razor` components to render HTML strings for email content.
 *   [MediaSession.Blazor (⭐6)](https://github.com/zuozishi/MediaSession.Blazor) - ![last-commit](https://img.shields.io/github/last-commit/zuozishi/MediaSession.Blazor?style=flat-square\&cacheSeconds=86400) A Blazor JSInterop wrapper for Media Session API. The Media Session API provides a way to customize media notifications. ([Demo](https://zuozishi.github.io/MediaSession.Blazor/)).
 
 ## [4. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Media
 
-*   [SeeShark (⭐141)](https://github.com/vignetteapp/SeeShark) - Cross-platform camera library for .NET using FFmpeg supporting over 190 pixel formats
+*   [SeeShark (⭐148)](https://github.com/vignetteapp/SeeShark) - Cross-platform camera library for .NET using FFmpeg supporting over 190 pixel formats
 
 ## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Projects Using Vue.js / Open Source
 
-*   [Dashy (⭐17k)](https://github.com/lissy93/dashy) - A self-hosted startpage, with an easy to use visual editor, status checking, themes, widgets and tons more
+*   [Dashy (⭐19k)](https://github.com/lissy93/dashy) - A self-hosted startpage, with an easy to use visual editor, status checking, themes, widgets and tons more
 
 ### Components & Libraries / Frameworks
 
-*   [Admin One Vue 3 Tailwind dashboard (⭐2.1k)](https://github.com/justboil/admin-one-vue-tailwind) - Vue.js 3 Tailwind CSS admin template with dark mode.
+*   [Admin One Vue 3 Tailwind dashboard (⭐2.2k)](https://github.com/justboil/admin-one-vue-tailwind) - Vue.js 3 Tailwind CSS admin template with dark mode.
 
 ## [6. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Editing Support / Diagnostics
 
-*   [sQVe/sort.nvim (⭐132)](https://github.com/sQVe/sort.nvim) - Sorting plugin that intelligently supports line-wise and delimiter sorting.
+*   [sQVe/sort.nvim (⭐138)](https://github.com/sQVe/sort.nvim) - Sorting plugin that intelligently supports line-wise and delimiter sorting.
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [CosmicNvim/CosmicNvim (⭐1.1k)](https://github.com/CosmicNvim/CosmicNvim) - CosmicNvim is a lightweight and opinionated Neovim config for web development, specifically designed to provide a 💫 COSMIC programming experience!
+*   [CosmicNvim/CosmicNvim (⭐1.1k)](https://github.com/CosmicNvim/CosmicNvim) - CosmicNvim is a lightweight and opinionated Neovim config for web development, specifically designed to provide a COSMIC programming experience!
 
 ## [7. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -68,7 +67,7 @@
 
 ### Image Synthesis / Multi-agents
 
-*   [mikaelalafriz/lucid-sonic-dreams (⭐770)](https://github.com/mikaelalafriz/lucid-sonic-dreams): syncs GAN-generated visuals to music
+*   [mikaelalafriz/lucid-sonic-dreams (⭐774)](https://github.com/mikaelalafriz/lucid-sonic-dreams): syncs GAN-generated visuals to music
 
 ### Improving Google Colab experience / Deforum
 

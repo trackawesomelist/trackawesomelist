@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 27, 2022
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,21 +10,15 @@
 
 ### Parser / Package managers
 
-*   [Arwalk/zig-protobuf (⭐194)](https://github.com/Arwalk/zig-protobuf) - Implementation of Protocol Buffers v3 leveraging Zig's comptime.
+*   [Arwalk/zig-protobuf (⭐253)](https://github.com/Arwalk/zig-protobuf) - Implementation of Protocol Buffers v3 leveraging Zig's comptime.
 
-## [2. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / UI Utilities
-
-*   [vue-router-webcache (⭐6)](https://github.com/Kolobok12309/vue-router-webcache) - Enable spa routing while in google/yandex/etc webcache.
-
-## [3. Awesome Love2d](/content/love2d-community/awesome-love2d/README.md)
+## [2. Awesome Love2d](/content/love2d-community/awesome-love2d/README.md)
 
 ### Distribution
 
 *   [love-fuser (⭐17)](https://github.com/MikuAuahDark/love-fuser) - Packages LÖVE Games using GitHub Actions. Supports Windows, Linux, and Android.
 
-## [4. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
+## [3. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
 
 ### Applications
 
@@ -32,7 +26,7 @@
 *   [Steemit](https://steemit.com/): Blockchain-based social media platform where anyone can earn rewards.
 *   [Ticktack ☠ (⭐56)](https://github.com/ticktackim/ticktack-workplan): Decentralized social platform for people to share knowledge and exchange value, with P2P messaging encrypted feature. Built on top of Secure Scuttlebutt (SSB).
 
-## [5. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
+## [4. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
 
 ### Meetings / Technical Debt
 
@@ -48,22 +42,22 @@
 
 *   [Developers spend most of their time figuring the system out](https://lepiter.io/feenk/developers-spend-most-of-their-time-figuri-9q25taswlbzjc5rsufndeu0py/) - “A hand drawn picture about the current system is a belief. Decisions should never be based on beliefs. Not in engineering. (…) As software is highly contextual we cannot predict specific problems. We can only predict classes of problems.” And that's why it is hard to estimate software projects: because developer's main activity is a long process of deducting the assumptions a system is built on.
 
-### Agile / Tickets
+### Agile / Delivery
 
 *   [Why do some developers at Google consider Agile development to be nonsense?](https://www.quora.com/Why-do-some-developers-at-strong-companies-like-Google-consider-Agile-development-to-be-nonsense/answer/David-Jeske) - Because the short-term focused Scrum processes “seem suited to particular types of development, most notably consulting or contract programming, where the customer is external to the organizations, runs the show because they are paying for development, and can change their mind at any time”. Still, google engineers already practice a culture close to what looks like the original 10-points Agile manifesto. But that's it.
 
-## [6. Awesome Shell](/content/alebcay/awesome-shell/README.md)
+## [5. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
 ### System Utilities / Directory Navigation
 
 *   [btop (⭐15k)](https://github.com/aristocratos/btop) - Linux/OSX/FreeBSD resource monitor
 *   [lsd (⭐12k)](https://github.com/Peltoche/lsd) - LSDeluxe, rewrite of GNU ls with lot of added features like colors, icons, tree-view and more formatting options.
 
-## [7. Awesome Go](/content/avelino/awesome-go/README.md)
+## [6. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Maps
 
-*   [goradd/maps (⭐38)](https://github.com/goradd/maps) - Go 1.18+ generic map interface for maps; safe maps; ordered maps; ordered, safe maps; etc.
+*   [goradd/maps (⭐47)](https://github.com/goradd/maps) - Go 1.18+ generic map interface for maps; safe maps; ordered maps; ordered, safe maps; etc.
 
 ### SQL Query Builders
 
@@ -75,32 +69,32 @@
 
 ### Microsoft Excel
 
-*   [exl (⭐29)](https://github.com/go-the-way/exl) - Excel binding to struct written in Go.(Only supports Go1.18+)
+*   [exl (⭐30)](https://github.com/go-the-way/exl) - Excel binding to struct written in Go.(Only supports Go1.18+)
 
 ### Parsers/Encoders/Decoders
 
 *   [encdec (⭐9)](https://github.com/mickep76/encdec) - Package provides a generic interface to encoders and decoders.
 *   [go-fasttld (⭐33)](https://github.com/elliotwutingfeng/go-fasttld) - High performance effective top level domains (eTLD) extraction module.
 
-## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Email
 
 *   [EmailLabs.io](https://emaillabs.io/en) — Send up to 9,000 Emails for free every month, up to 300 emails daily.
 
-## [9. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
+## [8. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
 ### SQL / Parsers
 
-*   [SQLGlot (⭐5.9k)](https://github.com/tobymao/sqlglot) - Pure Python SQL parser, transpiler, and builder.
+*   [SQLGlot (⭐7k)](https://github.com/tobymao/sqlglot) - Pure Python SQL parser, transpiler, and builder.
 
-## [10. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
+## [9. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
 
 ### OAuth2 & OpenID / Other tools
 
-*   [ZITADEL (⭐8.1k)](https://github.com/zitadel/zitadel) - An Open-Source solution built with Go and Angular to manage all your systems, users and service accounts together with their roles and external identities. ZITADEL provides you with OIDC, OAuth 2.0, login & register flows, passwordless and MFA authentication. All this is built on top of eventsourcing in combination with CQRS to provide a great audit trail.
+*   [ZITADEL (⭐8.8k)](https://github.com/zitadel/zitadel) - An Open-Source solution built with Go and Angular to manage all your systems, users and service accounts together with their roles and external identities. ZITADEL provides you with OIDC, OAuth 2.0, login & register flows, passwordless and MFA authentication. All this is built on top of eventsourcing in combination with CQRS to provide a great audit trail.
 
-## [11. Awesome Tdengine](/content/taosdata/awesome-tdengine/README.md)
+## [10. Awesome Tdengine](/content/taosdata/awesome-tdengine/README.md)
 
 ### ORM
 
@@ -110,7 +104,7 @@
 
 *   [YoMo x TDengine (⭐1)](https://github.com/fanweixiao/push-stream-logging) - Streaming high frequency logs to TDengine.<!--lint ignore awesome-list-item-->
 
-## [12. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [11. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Bayesian Modeling / Generative Model
 

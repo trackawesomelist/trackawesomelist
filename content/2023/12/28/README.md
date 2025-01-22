@@ -73,7 +73,7 @@
 
 ### Table of Contents / Streaming SQL
 
-*   [Proton (⭐1.5k)](https://github.com/timeplus-io/proton) \[C++] - A unified streaming and historical data analytics database in a single binary, powered by ClickHouse.
+*   [Proton (⭐1.6k)](https://github.com/timeplus-io/proton) \[C++] - A unified streaming and historical data analytics database in a single binary, powered by ClickHouse.
 
 ## [4. Awesome Security](/content/sbilly/awesome-security/README.md)
 
@@ -89,7 +89,7 @@
 
 ### GUI
 
-*   [TGUI (⭐796)](https://github.com/texus/TGUI) - Cross-platform modern c++ GUI. \[Zlib] [website](https://tgui.eu/)
+*   [TGUI (⭐857)](https://github.com/texus/TGUI) - Cross-platform modern c++ GUI. \[Zlib] [website](https://tgui.eu/)
 
 ## [6. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
@@ -109,7 +109,7 @@
 
 ### Software / Internet of Things (IoT)
 
-*   [Tasmota](https://tasmota.com) - Open source firmware for ESP devices. Total local control with quick setup and updates. Control using MQTT, Web UI, HTTP or serial. Automate using timers, rules or scripts. Integration with home automation solutions. ([Source Code (⭐22k)](https://github.com/arendst/Tasmota)) `GPL-3.0` `C/C++`
+*   [Tasmota](https://tasmota.com) - Open source firmware for ESP devices. Total local control with quick setup and updates. Control using MQTT, Web UI, HTTP or serial. Automate using timers, rules or scripts. Integration with home automation solutions. ([Source Code (⭐23k)](https://github.com/arendst/Tasmota)) `GPL-3.0` `C/C++`
 
 ## [8. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
@@ -121,11 +121,11 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [scottmckendry/cyberdream.nvim (⭐584)](https://github.com/scottmckendry/cyberdream.nvim) - A high-contrast, futuristic & vibrant coloursheme.
+*   [scottmckendry/cyberdream.nvim (⭐826)](https://github.com/scottmckendry/cyberdream.nvim) - A high-contrast, futuristic & vibrant coloursheme.
 
 ### Utility / Diagnostics
 
-*   [linrongbin16/gentags.nvim (⭐13)](https://github.com/linrongbin16/gentags.nvim) - The tags generator/management for old school vimers.
+*   [linrongbin16/gentags.nvim (⭐15)](https://github.com/linrongbin16/gentags.nvim) - The tags generator/management for old school vimers.
 
 ## [10. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
@@ -137,7 +137,7 @@
 
 ### Open Source Rails Apps / Other external resources
 
-*   [obl.ong (⭐20)](https://github.com/obl-ong/admin) - A multi-tenant subdomain control panel (using Rails 7.1) - [🌍](https://obl.ong)
+*   [obl.ong (⭐21)](https://github.com/obl-ong/admin) - A multi-tenant subdomain control panel (using Rails 7.1) - [🌍](https://obl.ong)
 
 ---
 

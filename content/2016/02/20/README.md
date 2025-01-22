@@ -84,7 +84,6 @@
 ### Resources / Tutorials
 
 *   [Create a GitHub File Explorer Using Vue.js](https://scotch.io/tutorials/create-a-github-file-explorer-using-vue-js) on Scotch.io
-*   [Vue.js Tutorial](http://vegibit.com/vue-js-tutorial/) on Vegibit
 
 ## [4. Awesome Music](/content/ciconia/awesome-music/README.md)
 

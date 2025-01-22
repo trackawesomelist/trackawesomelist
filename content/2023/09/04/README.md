@@ -32,11 +32,11 @@
 
 ### Components / Themes
 
-*   [antd-phone-input (⭐5)](https://github.com/ArtyomVancyan/antd-phone-input) - Advanced, highly customizable phone input component for Ant Design.
+*   [antd-phone-input (⭐60)](https://github.com/ArtyomVancyan/antd-phone-input) - Advanced, highly customizable phone input component for Ant Design.
 
 ### Applications / Themes
 
-*   [IDURAR ERP/CRM (⭐1.3k)](https://github.com/idurar/idurar-erp-crm) - IDURAR is Open Source ERP/CRM (Invoice / Inventory / Accounting / HR) Based on Mern Stack (Node.js / Express.js / MongoDb / React.js ) with Ant Design (AntD) and Redux
+*   [IDURAR ERP/CRM (⭐6.6k)](https://github.com/idurar/idurar-erp-crm) - IDURAR is Open Source ERP/CRM (Invoice / Inventory / Accounting / HR) Based on Mern Stack (Node.js / Express.js / MongoDb / React.js ) with Ant Design (AntD) and Redux
 
 ## [5. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
@@ -46,7 +46,7 @@
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-html-injection (⭐12)](https://github.com/altrusl/vite-plugin-html-injection) - Inject HTML, JavaScript and CSS code snippets into the `index.html`.
+*   [vite-plugin-html-injection (⭐24)](https://github.com/altrusl/vite-plugin-html-injection) - Inject HTML, JavaScript and CSS code snippets into the `index.html`.
 
 ### Framework-agnostic Plugins / Helpers
 
@@ -54,19 +54,19 @@
 
 ### Vue / Integrations
 
-*   ![v3](https://img.shields.io/badge/-v3-35495e) [@vitejs/plugin-vue (⭐460)](https://github.com/vitejs/vite-plugin-vue) - Official Vue 3 support.
+*   ![v3](https://img.shields.io/badge/-v3-35495e) [@vitejs/plugin-vue (⭐521)](https://github.com/vitejs/vite-plugin-vue) - Official Vue 3 support.
 
 ### React / Routing
 
-*   [generouted (⭐995)](https://github.com/oedotme/generouted) - Client-side type-safe file-based routing and global modals — supports layouts, loaders, code-splitting and more.
+*   [generouted (⭐1.1k)](https://github.com/oedotme/generouted) - Client-side type-safe file-based routing and global modals — supports layouts, loaders, code-splitting and more.
 
 ### React / SSG
 
-*   [vite-react-ssg (⭐87)](https://github.com/Daydreamer-riri/vite-react-ssg) - Static-site generation for React.
+*   [vite-react-ssg (⭐138)](https://github.com/Daydreamer-riri/vite-react-ssg) - Static-site generation for React.
 
 ### Solid / Routing
 
-*   [generouted (⭐995)](https://github.com/oedotme/generouted/tree/main/packages/solid-router) - Client-side type-safe file-based routing and global modals — supports layouts, loaders, code-splitting and more.
+*   [generouted (⭐1.1k)](https://github.com/oedotme/generouted/tree/main/packages/solid-router) - Client-side type-safe file-based routing and global modals — supports layouts, loaders, code-splitting and more.
 
 ## [6. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
@@ -120,13 +120,13 @@
 
 ### Libraries
 
-*   [hyogwa (⭐45)](https://github.com/ENvironmentSet/hyogwa) - Natural 🌿 effect system that fits TypeScript; Write codes as you write **plain typescript code**.
+*   [hyogwa (⭐57)](https://github.com/ENvironmentSet/hyogwa) - Natural 🌿 effect system that fits TypeScript; Write codes as you write **plain typescript code**.
 
 ## [8. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
 ### Programming Languages / Zig
 
-*   [zon2nix (⭐67)](https://github.com/nix-community/zon2nix) - Convert the dependencies in `build.zig.zon` to a Nix expression.
+*   [zon2nix (⭐78)](https://github.com/nix-community/zon2nix) - Convert the dependencies in `build.zig.zon` to a Nix expression.
 
 ## [9. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 

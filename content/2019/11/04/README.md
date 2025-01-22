@@ -16,19 +16,19 @@
 
 ### Desktop / Game Engine resources
 
-*   [Golang Desktop Embedder (⭐5.8k)](https://github.com/go-flutter-desktop/go-flutter) <!--stargazers:go-flutter-desktop/go-flutter--> - Golang embedder for desktop by [Pierre Champion](https://github.com/pchampio)
+*   [Golang Desktop Embedder (⭐5.9k)](https://github.com/go-flutter-desktop/go-flutter) <!--stargazers:go-flutter-desktop/go-flutter--> - Golang embedder for desktop by [Pierre Champion](https://github.com/pchampio)
 
 ## [3. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Web Crawling
 
-*   [Spidr (⭐799)](https://github.com/postmodern/spidr) - A versatile Ruby web spidering library that can spider a site, multiple domains, certain links or infinitely. Spidr is designed to be fast and easy to use.
+*   [Spidr (⭐809)](https://github.com/postmodern/spidr) - A versatile Ruby web spidering library that can spider a site, multiple domains, certain links or infinitely. Spidr is designed to be fast and easy to use.
 
 ## [4. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
 ### Boilerplates
 
-*   [Nitro 🚀 (⭐267)](https://github.com/williamluke4/nitro) - An Example of a PWA using Nextjs, Material-UI, Typescript and Auth0 💗
+*   [Nitro 🚀 (⭐280)](https://github.com/williamluke4/nitro) - An Example of a PWA using Nextjs, Material-UI, Typescript and Auth0 💗
 
 ## [5. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
 
@@ -76,7 +76,7 @@
 
 ### Static Analysis / Linting
 
-*   [Catch insensitive, inconsiderate writing in your markdown docs (⭐9)](https://github.com/theashraf/alex-action)
+*   [Catch insensitive, inconsiderate writing in your markdown docs (⭐11)](https://github.com/theashraf/alex-action)
 
 ## [7. Awesome Nlg](/content/accelerated-text/awesome-nlg/README.md)
 
@@ -129,7 +129,7 @@
 
 ### Command Line Learning / Internet Speedtest
 
-*   [navi (⭐14k)](https://github.com/denisidoro/navi) - Interactive cheatsheet tool.
+*   [navi (⭐15k)](https://github.com/denisidoro/navi) - Interactive cheatsheet tool.
 
 ## [10. Game Datasets](/content/leomaurodesenv/game-datasets/README.md)
 
@@ -234,10 +234,6 @@
 *   [CHCon](https://chcon.nz) - Christchurch Hacker Con, Only South Island of New Zealand hacker con.
 
 ## [16. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
-
-### Developer Tools / Developer Utilities
-
-*   [canSnippet](https://www.cansnippet.com/) - Powerful snippet management tool that works across the whole operating system, always accessible via simple keyboard shortcut.
 
 ### Audio and Video Tools / File Sharing
 

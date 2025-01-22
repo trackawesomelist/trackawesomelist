@@ -1,54 +1,42 @@
 # Awesome List Updates on Jul 30, 2020
 
-10 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / Utilities
-
-*   [vue-use-switch-map (⭐9)](https://github.com/jfet97/vue-use-switch-map) - 👽 The power of the RxJS switchMap operator injected into the Vue composition world.
-
-## [2. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+## [1. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### Driver crates / WIP
 
-*   [ltr-559](https://crates.io/crates/ltr-559) - I2C - Ambient Light Sensor and Proximity sensor ![crates.io](https://img.shields.io/crates/v/ltr-559.svg)
+*   [ltr-559](https://crates.io/crates/ltr-559) - I2C - Ambient Light Sensor and Proximity sensor [![crates.io](https://img.shields.io/crates/v/ltr-559.svg)](https://crates.io/crates/ltr-559)
 
-## [3. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/README.md)
+## [2. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/README.md)
 
 ### External Services
 
-*   [netease-music-box (⭐69)](https://github.com/Leecason/netease-music-box) - Update a pinned gist to contain your weekly listening report on Netease Cloud Music.
+*   [netease-music-box (⭐70)](https://github.com/Leecason/netease-music-box) - Update a pinned gist to contain your weekly listening report on Netease Cloud Music.
 
-## [4. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
-
-### Companies with "remote DNA"
-
-*   [Giant Swarm](https://www.giantswarm.io/careers) - Giant Swarm’s managed microservices infrastructure enables enterprises to run agile, resilient, distributed systems at scale, while removing the tasks related to managing the complex underlying infrastructure
-
-## [5. Awesome Credit Modeling](/content/mourarthur/awesome-credit-modeling/README.md)
+## [3. Awesome Credit Modeling](/content/mourarthur/awesome-credit-modeling/README.md)
 
 ### Credit Scoring
 
 *   [Recent developments in consumer credit risk assessment](https://www.sciencedirect.com/science/article/abs/pii/S0377221706011866) - The riskiness of lending to a credit applicant is usually estimated using a logistic regression model though researchers have considered many other types of classifier, but data quality issues may prevent these laboratory based results from being achieved in practice. The training of a classifier on a sample of accepted applicants rather than on a sample representative of the applicant population seems not to result in bias though it does result in difficulties in setting the cut off.
 
-## [6. Awesome Security](/content/sbilly/awesome-security/README.md)
+## [4. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Network / Scanning / Pentesting
 
 *   [RustScan (⭐12k)](https://github.com/RustScan/RustScan) - Faster Nmap scanning with Rust. Take a 17 minute Nmap scan down to 19 seconds.
 
-## [7. Awesome Mysql](/content/shlomi-noach/awesome-mysql/README.md)
+## [5. Awesome Mysql](/content/shlomi-noach/awesome-mysql/README.md)
 
 ### Benchmarking
 
-*   [go-tpc (⭐176)](https://github.com/pingcap/go-tpc) - A golang port of [TPCC](http://www.tpc.org/tpcc/) and [TPCH](http://www.tpc.org/tpch/) benchmark for MySQL.
+*   [go-tpc (⭐183)](https://github.com/pingcap/go-tpc) - A golang port of [TPCC](http://www.tpc.org/tpcc/) and [TPCH](http://www.tpc.org/tpch/) benchmark for MySQL.
 
-## [8. Awesome Seml](/content/SE-ML/awesome-seml/README.md)
+## [6. Awesome Seml](/content/SE-ML/awesome-seml/README.md)
 
 ### Broad Overviews
 
@@ -56,14 +44,14 @@
 *   [Hidden Technical Debt in Machine Learning Systems](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf) 🎓⭐
 *   [Software Engineering for Machine Learning: A Case Study](https://www.microsoft.com/en-us/research/publication/software-engineering-for-machine-learning-a-case-study/) 🎓⭐
 
-## [9. Awesome Mastodon](/content/tleb/awesome-mastodon/README.md)
+## [7. Awesome Mastodon](/content/tleb/awesome-mastodon/README.md)
 
 ### Clients
 
 *   [Brutaldon](https://git.carcosa.net/jmcbray/brutaldon) - Brutaldon is a brutalist, Web 1.0 web interface for Mastodon.
 *   [Planiverse](https://git.mulligrubs.me/planiverse/) - Minimalist, no-JS Web client for Mastodon.
 
-## [10. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md)
+## [8. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md)
 
 ### Papers
 

@@ -10,7 +10,7 @@
 
 ### Extensions
 
-*   [Serverless Framework plugin for Next.js (⭐4.4k)](https://github.com/danielcondemarin/serverless-nextjs-plugin) - Deploy serverless applications with ease.
+*   [Serverless Framework plugin for Next.js (⭐4.5k)](https://github.com/danielcondemarin/serverless-nextjs-plugin) - Deploy serverless applications with ease.
 
 ## [2. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
@@ -20,9 +20,9 @@
 
 ## [3. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
-### Entertainment / Social Media
+### Entertainment / Chat
 
-*   [irssi (⭐2.8k)](https://github.com/irssi/irssi) - IRC chat client.
+*   [irssi (⭐2.9k)](https://github.com/irssi/irssi) - IRC chat client.
 
 ## [4. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 

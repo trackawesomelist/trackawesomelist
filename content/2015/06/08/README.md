@@ -31,7 +31,7 @@
 
 ### Natural Language Processing
 
-*   [LDAvis (⭐546)](https://github.com/cpsievert/LDAvis) - Interactive visualization of topic models.
+*   [LDAvis (⭐557)](https://github.com/cpsievert/LDAvis) - Interactive visualization of topic models.
 
 ## [5. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 

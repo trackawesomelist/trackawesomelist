@@ -17,7 +17,7 @@
 
 ## [2. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
-### Sensors / Barometer
+### Sensors / Barometer - Air and Water Pressure
 
 *   [BMP390 (⭐3)](https://github.com/octaprog7/BMP390) - MicroPython module for BMP390 pressure & temperature sensor.
 *   [BMP180 (⭐3)](https://github.com/octaprog7/BMP180) - MicroPython module for BMP180 pressure & temperature sensor.
@@ -30,7 +30,7 @@
 
 ### Templates / React
 
-*   [Varsarr (⭐29)](https://github.com/altmshfkgudtjr/varsarr) - React, Typescript, Styled-Components, Recoil, React-Query, Axios, Absolute imports.
+*   [Varsarr (⭐30)](https://github.com/altmshfkgudtjr/varsarr) - React, Typescript, Styled-Components, Recoil, React-Query, Axios, Absolute imports.
 
 ## [4. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
@@ -42,55 +42,55 @@
 
 ### Development / Text Editors
 
-*   [neovim (⭐76k)](https://github.com/neovim/neovim) - Modern vim.
-*   [helix (⭐30k)](https://github.com/helix-editor/helix) -  Modal editor inspired by kakoune.
+*   [neovim (⭐83k)](https://github.com/neovim/neovim) - Modern vim.
+*   [helix (⭐34k)](https://github.com/helix-editor/helix) -  Modal editor inspired by kakoune.
 
 ## [6. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
 
 ### .NET / React
 
-*   [EntityGraphQL (⭐399)](https://github.com/EntityGraphQL/EntityGraphQL) - library to build a GraphQL API on top of data model with the extensibility to bring multiple data sources together in the single GraphQL schema.
-*   [ZeroQL (⭐255)](https://github.com/byme8/ZeroQL) - type-safe GraphQL client with Linq-like interface for C#
+*   [EntityGraphQL (⭐424)](https://github.com/EntityGraphQL/EntityGraphQL) - library to build a GraphQL API on top of data model with the extensibility to bring multiple data sources together in the single GraphQL schema.
+*   [ZeroQL (⭐283)](https://github.com/byme8/ZeroQL) - type-safe GraphQL client with Linq-like interface for C#
 
 ## [7. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [Mofiqul/adwaita.nvim (⭐221)](https://github.com/Mofiqul/adwaita.nvim) - Colorscheme based on GNOME Adwaita syntax with support for popular plugins.
+*   [Mofiqul/adwaita.nvim (⭐239)](https://github.com/Mofiqul/adwaita.nvim) - Colorscheme based on GNOME Adwaita syntax with support for popular plugins.
 
 ### Debugging / Diagnostics
 
-*   [andrewferrier/debugprint.nvim (⭐306)](https://github.com/andrewferrier/debugprint.nvim) - Debugging the print() way.
+*   [andrewferrier/debugprint.nvim (⭐404)](https://github.com/andrewferrier/debugprint.nvim) - Debugging the print() way.
 
 ### Dependency Management / Diagnostics
 
-*   [Saecki/crates.nvim (⭐826)](https://github.com/Saecki/crates.nvim) - Rust dependency management for `Cargo.toml`.
+*   [Saecki/crates.nvim (⭐904)](https://github.com/Saecki/crates.nvim) - Rust dependency management for `Cargo.toml`.
 
 ### Git / Diagnostics
 
-*   [akinsho/git-conflict.nvim (⭐894)](https://github.com/akinsho/git-conflict.nvim) - A plugin to visualise and resolve merge conflicts.
+*   [akinsho/git-conflict.nvim (⭐1k)](https://github.com/akinsho/git-conflict.nvim) - A plugin to visualise and resolve merge conflicts.
 
 ### Editing Support / Diagnostics
 
-*   [gbprod/stay-in-place.nvim (⭐87)](https://github.com/gbprod/stay-in-place.nvim) - Neovim plugin that prevent cursor from moving when using shift and filter actions.
+*   [gbprod/stay-in-place.nvim (⭐95)](https://github.com/gbprod/stay-in-place.nvim) - Neovim plugin that prevent cursor from moving when using shift and filter actions.
 
 ## [8. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
 ### Audio
 
-*   [ViMusic (⭐8.5k)](https://github.com/vfsfitvnm/ViMusic) - \[Unmantained] A Jetpack Compose Android application for streaming music from YouTube Music.
-    *   [RiMusic (⭐1.8k)](https://github.com/fast4x/RiMusic) - A ViMusic maintained fork.
+*   [ViMusic (⭐9.2k)](https://github.com/vfsfitvnm/ViMusic) - \[Unmantained] A Jetpack Compose Android application for streaming music from YouTube Music.
+    *   [RiMusic (⭐3.1k)](https://github.com/fast4x/RiMusic) - A ViMusic maintained fork.
 
 ## [9. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
 ### Development / Discovery
 
-*   [dream2nix (⭐957)](https://github.com/nix-community/dream2nix) - A framework for automatically converting packages from other build systems to Nix.
-*   [rnix-lsp (⭐699)](https://github.com/nix-community/rnix-lsp) - A syntax-checking language server for Nix.
+*   [dream2nix (⭐1.1k)](https://github.com/nix-community/dream2nix) - A framework for automatically converting packages from other build systems to Nix.
+*   [rnix-lsp (⭐709)](https://github.com/nix-community/rnix-lsp) - A syntax-checking language server for Nix.
 
 ### Programming Languages / Rust
 
-*   [crane (⭐860)](https://github.com/ipetkov/crane) - A Nix library for building Cargo projects with incremental artifact caching.
+*   [crane (⭐1k)](https://github.com/ipetkov/crane) - A Nix library for building Cargo projects with incremental artifact caching.
 
 ---
 

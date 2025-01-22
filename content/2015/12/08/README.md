@@ -34,7 +34,7 @@
 
 ### Geolocation
 
-*   [distance\_api\_matrix (⭐29)](https://github.com/C404/distance-matrix-api) - Provide distance and heading calculations via Google distance matrix api.
+*   [distance\_api\_matrix (⭐30)](https://github.com/C404/distance-matrix-api) - Provide distance and heading calculations via Google distance matrix api.
 
 ## [5. Awesome Security](/content/sbilly/awesome-security/README.md)
 
@@ -122,8 +122,8 @@
 
 ### ORM
 
-*   [AsyncPoco (⭐128)](https://github.com/tmenier/AsyncPoco) - A long-"awaited" fully asynchronous PetaPoco fork
-*   [NPoco (⭐846)](https://github.com/schotime/NPoco) - Simple microORM that maps the results of a query onto a POCO object. Based on Schotime's branch of PetaPoco
+*   [AsyncPoco (⭐127)](https://github.com/tmenier/AsyncPoco) - A long-"awaited" fully asynchronous PetaPoco fork
+*   [NPoco (⭐851)](https://github.com/schotime/NPoco) - Simple microORM that maps the results of a query onto a POCO object. Based on Schotime's branch of PetaPoco
 
 ## [11. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 

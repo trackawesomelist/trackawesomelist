@@ -10,7 +10,7 @@
 
 ### Community / Interfaces to other package managers
 
-*   [babel2 (⭐6)](https://github.com/lucas8/Babel2/) - A Fluid Construction Grammar implementation, computational framework, and unification-based grammar formalism [Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0).
+*   [babel2 (⭐7)](https://github.com/lucas8/Babel2/) - A Fluid Construction Grammar implementation, computational framework, and unification-based grammar formalism [Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0).
 
 ### Other scripting utilities / Third-party APIs
 
@@ -30,7 +30,7 @@
 
 ### Developer Tools / Databases
 
-*   [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/) - Cross-platform database tool for using on Microsoft family on-premises and cloud data platforms such as MSSQL Server ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/) - Cross-platform database tool for Microsoft data platforms. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [3. Awesome D3](/content/wbkd/awesome-d3/README.md)
 
@@ -48,7 +48,7 @@
 
 ### Dependency Injection
 
-*   [Locatable (⭐117)](https://github.com/vincent-pradeilles/locatable) - A micro-framework that leverages Property Wrappers to implement the Service Locator pattern.
+*   [Locatable (⭐118)](https://github.com/vincent-pradeilles/locatable) - A micro-framework that leverages Property Wrappers to implement the Service Locator pattern.
 
 ### Messaging Protocol / Barcode
 
@@ -56,11 +56,11 @@
 
 ### Text / Barcode
 
-*   [Tagging (⭐120)](https://github.com/k-lpmg/Tagging) - A TextView that provides easy to use tagging feature for Mention or Hashtag.
+*   [Tagging (⭐121)](https://github.com/k-lpmg/Tagging) - A TextView that provides easy to use tagging feature for Mention or Hashtag.
 
 ### Transition / Barcode
 
-*   [SamuraiTransition (⭐278)](https://github.com/hachinobu/SamuraiTransition) - Swift based library providing a collection of ViewController transitions featuring a number of neat cutting animations.
+*   [SamuraiTransition (⭐279)](https://github.com/hachinobu/SamuraiTransition) - Swift based library providing a collection of ViewController transitions featuring a number of neat cutting animations.
 
 ## [6. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 

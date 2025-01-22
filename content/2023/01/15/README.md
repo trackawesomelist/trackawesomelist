@@ -14,10 +14,6 @@
 
 ## [2. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
-### Bayesian Modeling / Bayesian Induction
-
-*   [Rules and Similarity in Concept Learning](http://web.mit.edu/cocosci/archive/Papers/nips99preprint.pdf) - ***NeurIPS'99***, 1999. \[[All Versions](https://scholar.google.com/scholar?cluster=10968021160883668417\&hl=en\&as_sdt=0,5)]. Unifying rule-based and similarity-based generalization via Bayesian generalization.
-
 ### Concepts / Human Concept Representation
 
 *   [Navigating cognition: Spatial codes for human thinking](https://pure.mpg.de/rest/items/item_3007836/component/file_3379059/content) - ***Science***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=1407237757770081862\&hl=en\&as_sdt=0,5)]. A framework that operates across information domains to support a wide spectrum of cognitive functions, where place and grid cell population codes provide a representational format to map variable dimensions of cognitive spaces.
@@ -37,7 +33,7 @@
 
 ### Video Editing / Alternative clients/modifications of Discord:
 
-*   [LosslessCut (⭐26k)](https://github.com/mifi/lossless-cut) - LosslessCut aims to be the ultimate cross platform FFmpeg GUI for extremely fast and lossless operations on video, audio, subtitle and other related media files.
+*   [LosslessCut (⭐29k)](https://github.com/mifi/lossless-cut) - LosslessCut aims to be the ultimate cross platform FFmpeg GUI for extremely fast and lossless operations on video, audio, subtitle and other related media files.
 
 ## [5. Awesome V](/content/vlang/awesome-v/README.md)
 
@@ -49,7 +45,7 @@
 
 ### Boilerplates
 
-*   [NextJS Chargebee Subscription (⭐13)](https://github.com/bharathvaj-ganesan/chargebee-saas-stack) - A Chargebee focused T3 Stack that integrates User Subscriptions, Authentication and Testing. Driven by Prisma ORM.
+*   [NextJS Chargebee Subscription (⭐17)](https://github.com/bharathvaj-ganesan/chargebee-saas-stack) - A Chargebee focused T3 Stack that integrates User Subscriptions, Authentication and Testing. Driven by Prisma ORM.
 
 ## [7. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
@@ -74,7 +70,7 @@
 
 *   [Muse: Text-To-Image Generation via Masked Generative Transformers](https://muse-model.github.io/)
 
-### Inbox: Text-to-speech (TTS) and avatars / Deforum
+### Text-to-speech (TTS) and avatars / Deforum
 
 *   [Play.ht](https://play.ht/): "AI voice generator and realistic text to speech online"
 *   [Murf AI | AI Voice Generator](https://murf.ai/): versatile text to tpeech software
@@ -84,7 +80,7 @@
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [xcode (⭐57)](https://github.com/keith/zsh-xcode-completions) - Completions for some Xcode command line tools - `genstrings`, `nm`, `plutil`, `xcode-select`, `xcodebuild`, `xcrun`, `simctl`, `strings`, `swift-demangle`, `swift` and `lipo`.
+*   [xcode (⭐60)](https://github.com/keith/zsh-xcode-completions) - Completions for some Xcode command line tools - `genstrings`, `nm`, `plutil`, `xcode-select`, `xcodebuild`, `xcrun`, `simctl`, `strings`, `swift-demangle`, `swift` and `lipo`.
 
 ## [10. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 

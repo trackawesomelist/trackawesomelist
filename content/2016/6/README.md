@@ -41,7 +41,7 @@
 
 ### Concurrency
 
-*   [GPars (⭐235)](https://github.com/GPars/GPars) - The GPars concurrency and parallelism framework for the JVM
+*   [GPars (⭐242)](https://github.com/GPars/GPars) - The GPars concurrency and parallelism framework for the JVM
 
 ## [5. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
@@ -207,7 +207,7 @@ git clean -fd --dry-run
 
 ### Packages / Job queues
 
-*   [bull (⭐15k)](https://github.com/OptimalBits/bull) - Persistent job and message queue.
+*   [bull (⭐16k)](https://github.com/OptimalBits/bull) - Persistent job and message queue.
 
 ## [19. Awesome Fuse](/content/fuse-compound/awesome-fuse/week/README.md)
 
@@ -283,21 +283,21 @@ git clean -fd --dry-run
 
 ### Algorithms and Data structures
 
-*   [exconstructor (⭐285)](https://github.com/appcues/exconstructor) - An Elixir library for generating struct constructors that handle external data with ease.
+*   [exconstructor (⭐287)](https://github.com/appcues/exconstructor) - An Elixir library for generating struct constructors that handle external data with ease.
 
 ### Email
 
-*   [mail (⭐385)](https://github.com/DockYard/elixir-mail) - An RFC2822 implementation in Elixir, built for composability.
+*   [mail (⭐437)](https://github.com/DockYard/elixir-mail) - An RFC2822 implementation in Elixir, built for composability.
 
 ## [29. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Queue
 
-*   [PHP AMQP (⭐4.4k)](https://github.com/php-amqplib/php-amqplib) - A pure PHP AMQP library.
+*   [PHP AMQP (⭐4.5k)](https://github.com/php-amqplib/php-amqplib) - A pure PHP AMQP library.
 
 ### Table of Contents / Data Structure and Storage
 
-*   [Ginq (⭐192)](https://github.com/akanehara/ginq) - Another PHP library based on .NET's LINQ.
+*   [Ginq (⭐193)](https://github.com/akanehara/ginq) - Another PHP library based on .NET's LINQ.
 
 ### Configuration / Development Environment
 
@@ -314,7 +314,7 @@ git clean -fd --dry-run
 
 ### Graphic Displays
 
-*   [gganimate (⭐1.9k)](https://github.com/dgrtwo/gganimate) - Create easy animations with ggplot2.
+*   [gganimate (⭐2k)](https://github.com/dgrtwo/gganimate) - Create easy animations with ggplot2.
 
 ## [32. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 

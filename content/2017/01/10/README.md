@@ -30,7 +30,7 @@
 
 ### Tools
 
-*   [Antd Init (⭐815)](https://github.com/ant-design/antd-init) - Ant Design boilerplate generator (for demo only, use dva-cli).
+*   [Antd Init (⭐816)](https://github.com/ant-design/antd-init) - Ant Design boilerplate generator (for demo only, use dva-cli).
 
 ## [5. Awesome Security](/content/sbilly/awesome-security/README.md)
 

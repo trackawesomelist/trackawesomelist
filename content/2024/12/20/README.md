@@ -17,7 +17,7 @@
 
 ### Motion / Diagnostics
 
-*   [sphamba/smear-cursor.nvim (⭐538)](https://github.com/sphamba/smear-cursor.nvim) - Animate the cursor with a smear effect in all terminals. Inspired by Neovide's animated cursor.
+*   [sphamba/smear-cursor.nvim (⭐663)](https://github.com/sphamba/smear-cursor.nvim) - Animate the cursor with a smear effect in all terminals. Inspired by Neovide's animated cursor.
 
 ## [3. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md)
 
@@ -35,7 +35,7 @@
 
 ### Tools / CI
 
-*   [TF-via-PR (⭐127)](https://github.com/OP5dev/TF-via-PR) - GitHub Action to init, plan and apply Terraform/OpenTofu via PR automation.
+*   [TF-via-PR (⭐160)](https://github.com/OP5dev/TF-via-PR) - GitHub Action to init, plan and apply Terraform/OpenTofu via PR automation.
 
 ## [6. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
 
@@ -53,13 +53,13 @@
 
 ### Scripting
 
-*   [JerryScript (⭐7k)](https://github.com/jerryscript-project/jerryscript) - Ultra-lightweight JavaScript engine for the Internet of Things. \[Apache-2.0] [website](https://jerryscript.net/)
+*   [JerryScript (⭐7.1k)](https://github.com/jerryscript-project/jerryscript) - Ultra-lightweight JavaScript engine for the Internet of Things. \[Apache-2.0] [website](https://jerryscript.net/)
 
 ## [9. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Macro
 
-*   [elastio/bon (⭐1.4k)](https://github.com/elastio/bon) \[[bon](https://crates.io/crates/bon)] - generate compile-time-checked builders for structs and functions, provides partial application, optional and named parameters for functions and methods. [![build status](https://github.com/elastio/bon/actions/workflows/ci.yml/badge.svg)](https://github.com/elastio/bon/actions)
+*   [elastio/bon (⭐1.5k)](https://github.com/elastio/bon) \[[bon](https://crates.io/crates/bon)] - generate compile-time-checked builders for structs and functions, provides partial application, optional and named parameters for functions and methods. [![build status](https://github.com/elastio/bon/actions/workflows/ci.yml/badge.svg)](https://github.com/elastio/bon/actions)
 
 ## [10. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -79,11 +79,11 @@
 ### IDE
 
 *   [dbForge Edge](https://www.devart.com/dbforge/edge/) - Multidatabase solution for DB development, design, management, and administration of MySQL, MariaDB, SQL Server, Oracle, PostgreSQL databases, and various cloud services.
-*   [Kangaroo (⭐380)](https://github.com/dbkangaroo/kangaroo) - A AI-powered SQL client and admin tool for popular databases(SQLite / MySQL / PostgreSQL / etc) on Windows / macOS / Linux, support table design, query, model, sync, export/import etc, focus on comfortable, fun and developer friendly.
+*   [Kangaroo (⭐385)](https://github.com/dbkangaroo/kangaroo) - A AI-powered SQL client and admin tool for popular databases(SQLite / MySQL / PostgreSQL / etc) on Windows / macOS / Linux, support table design, query, model, sync, export/import etc, focus on comfortable, fun and developer friendly.
 
 ### SQL / Formatters
 
-*   [JSQLFormatter (⭐28)](https://github.com/manticore-projects/jsqlformatter) - Open Source Java SQL Formatter for many RDBMS based on [JSqlParser (⭐5.4k)](https://github.com/JSQLParser/JSqlParser).
+*   [JSQLFormatter (⭐28)](https://github.com/manticore-projects/jsqlformatter) - Open Source Java SQL Formatter for many RDBMS based on JSqlParser.
 
 ### SQL / Games
 
@@ -91,4 +91,5 @@
 
 ---
 
+- Prev: [Dec 21, 2024](/content/2024/12/21/README.md)
 - Next: [Dec 19, 2024](/content/2024/12/19/README.md)

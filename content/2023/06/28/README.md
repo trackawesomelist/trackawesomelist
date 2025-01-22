@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 28, 2023
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -20,11 +20,11 @@
 
 ### Templating
 
-*   [sneeze (⭐58)](https://github.com/JuneKelly/sneeze) - Render elixir data structures to HTML. Inspired by [hiccup (⭐2.7k)](https://github.com/weavejester/hiccup).
+*   [sneeze (⭐59)](https://github.com/JuneKelly/sneeze) - Render elixir data structures to HTML. Inspired by [hiccup (⭐2.7k)](https://github.com/weavejester/hiccup).
 
 ### Third Party APIs
 
-*   [telegex (⭐126)](https://github.com/telegex/telegex) - Telegram bot framework and API client written in Elixir.
+*   [telegex (⭐144)](https://github.com/telegex/telegex) - Telegram bot framework and API client written in Elixir.
 
 ## [3. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
@@ -74,7 +74,7 @@ Topics: BigQuery, Databases, Voice Based Interfaces, Cloud, Architecture\
 
 ### Others
 
-*   [Blazor.MediaCaptureStreams (⭐67)](https://github.com/KristofferStrube/Blazor.MediaCaptureStreams) - ![stars](https://img.shields.io/github/stars/KristofferStrube/Blazor.MediaCaptureStreams?style=flat-square\&cacheSeconds=604800) ![last-commit](https://img.shields.io/github/last-commit/KristofferStrube/Blazor.MediaCaptureStreams?style=flat-square\&cacheSeconds=86400) A Blazor wrapper for the Media Capture and Streams browser API. The API standardizes ways to request access to local multimedia devices, such as microphones or video cameras. This also includes the MediaStream API, which provides the means to control where multimedia stream data is consumed, and provides some information and configuration options for the devices that produce the media. This project implements a wrapper around the API for Blazor so that we can easily and safely interact with the media streams of the browser. [Demo](https://kristofferstrube.github.io/Blazor.MediaCaptureStreams/).
+*   [Blazor.MediaCaptureStreams (⭐74)](https://github.com/KristofferStrube/Blazor.MediaCaptureStreams) - ![stars](https://img.shields.io/github/stars/KristofferStrube/Blazor.MediaCaptureStreams?style=flat-square\&cacheSeconds=604800) ![last-commit](https://img.shields.io/github/last-commit/KristofferStrube/Blazor.MediaCaptureStreams?style=flat-square\&cacheSeconds=86400) A Blazor wrapper for the Media Capture and Streams browser API. The API standardizes ways to request access to local multimedia devices, such as microphones or video cameras. This also includes the MediaStream API, which provides the means to control where multimedia stream data is consumed, and provides some information and configuration options for the devices that produce the media. This project implements a wrapper around the API for Blazor so that we can easily and safely interact with the media streams of the browser. [Demo](https://kristofferstrube.github.io/Blazor.MediaCaptureStreams/).
 
 ### Videos / Others
 
@@ -125,34 +125,28 @@ Topics: BigQuery, Databases, Voice Based Interfaces, Cloud, Architecture\
 
 *   [A Rake Too Far: Optimal Platform Pricing Strategy](https://abovethecrowd.com/2013/04/18/a-rake-too-far-optimal-platformpricing-strategy/) - A bit of vocabulary: “In a casino, the term *rake* refers to the commission that the house earns for operating a poker game. (…) While casinos use the term *rake*, a plethora of interesting word choices exist which all describe the same thing – keeping a little bit of the revenue for the company that is running the service.”
 
-## [9. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/README.md)
-
-### **Numbers LLM** / **GPT series release date**
-
-*   [Open AI Tokenizer](https://platform.openai.com/tokenizer): GPT-3, Codex Token counting
-
-## [10. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [9. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Courses / Commonsense Knowledgebase
 
 *   [Discrete Mathematics and Its Applications](https://faculty.ksu.edu.sa/sites/default/files/rosen_discrete_mathematics_and_its_applications_7th_edition.pdf). Classic course on basic discrete mathematics, including matheatical logic, set theory, graph theory, formal language (and automata), basic number theory (e.g., counting), and other related topics.
 
-## [11. Awesome Ruby](/content/markets/awesome-ruby/README.md)
+## [10. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Queues and Messaging
 
-*   [JobIteration (⭐1.1k)](https://github.com/Shopify/job-iteration) - An ActiveJob extension to make long-running jobs interruptible and resumable.
-*   [SidekiqIteration (⭐265)](https://github.com/fatkodima/sidekiq-iteration) - A Sidekiq extension to make long-running jobs interruptible and resumable.
+*   [JobIteration (⭐1.2k)](https://github.com/Shopify/job-iteration) - An ActiveJob extension to make long-running jobs interruptible and resumable.
+*   [SidekiqIteration (⭐274)](https://github.com/fatkodima/sidekiq-iteration) - A Sidekiq extension to make long-running jobs interruptible and resumable.
 
-## [12. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
+## [11. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
 ### Other / [Other](#other-1)
 
-*   [RefactorFirst (⭐355)](https://github.com/jimbethancourt/RefactorFirst) — Identifies and prioritizes God Classes and Highly Coupled classes in Java codebases you should refactor first.
+*   [RefactorFirst (⭐460)](https://github.com/jimbethancourt/RefactorFirst) — Identifies and prioritizes God Classes and Highly Coupled classes in Java codebases you should refactor first.
 
 ### Programming Languages / [Other](#other-1)
 
-*   [Regal (⭐245)](https://github.com/styrainc/regal) — Regal is a linter for the policy language Rego. Regal aims to catch bugs and mistakes in policy code, while at the same time helping people learn the language, best practices and idiomatic constructs.
+*   [Regal (⭐270)](https://github.com/styrainc/regal) — Regal is a linter for the policy language Rego. Regal aims to catch bugs and mistakes in policy code, while at the same time helping people learn the language, best practices and idiomatic constructs.
 
 ---
 

@@ -10,7 +10,7 @@
 
 ### Build Automation
 
-*   [air (⭐17k)](https://github.com/cosmtrek/air) - Air - Live reload for Go apps.
+*   [air (⭐19k)](https://github.com/cosmtrek/air) - Air - Live reload for Go apps.
 
 ## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -34,13 +34,13 @@
 
 ### AI / Diagnostics
 
-*   [CamdenClark/flyboy (⭐40)](https://github.com/CamdenClark/flyboy) - Simple interaction with ChatGPT in a markdown buffer. Supports GPT-4 and Azure OpenAI.
+*   [CamdenClark/flyboy (⭐43)](https://github.com/CamdenClark/flyboy) - Simple interaction with ChatGPT in a markdown buffer. Supports GPT-4 and Azure OpenAI.
 
 ## [6. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Development / HTTP Client
 
-*   [curlie (⭐2.7k)](https://github.com/rs/curlie) - A curl frontend with the ease of use of HTTPie.
+*   [curlie (⭐2.9k)](https://github.com/rs/curlie) - A curl frontend with the ease of use of HTTPie.
 
 ## [7. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
@@ -64,27 +64,27 @@
 
 ### Software / Games - Administrative Utilities & Control Panels
 
-*   [Sunshine](https://app.lizardbyte.dev/Sunshine/) - Remote game stream host for Moonlight with support up to 120 frames per second and 4K resolution. ([Source Code (⭐17k)](https://github.com/LizardByte/Sunshine)) `GPL-3.0` `C++/deb/Docker`
+*   [Sunshine](https://app.lizardbyte.dev/Sunshine/) - Remote game stream host for Moonlight with support up to 120 frames per second and 4K resolution. ([Source Code (⭐22k)](https://github.com/LizardByte/Sunshine)) `GPL-3.0` `C++/deb/Docker`
 
 ### Software / Miscellaneous
 
-*   [Fasten Health (⭐1.5k)](https://github.com/fastenhealth/fasten-onprem/) `⚠` - Fasten is an open-source, self-hosted, personal/family electronic medical record aggregator, designed to integrate with 100,000's of insurances/hospitals/clinics in the United States. `GPL-3.0` `Go/Docker`
+*   [Fasten Health (⭐1.7k)](https://github.com/fastenhealth/fasten-onprem/) `⚠` - Fasten is an open-source, self-hosted, personal/family electronic medical record aggregator, designed to integrate with 100,000's of insurances/hospitals/clinics in the United States. `GPL-3.0` `Go/Docker`
 
 ### Software / Pastebins
 
-*   [Hemmelig](https://hemmelig.app) - Share encrypted secrets cross organizations, or as private persons. ([Source Code (⭐681)](https://github.com/HemmeligOrg/Hemmelig.app)) `MIT` `Docker/Nodejs`
+*   [Hemmelig](https://hemmelig.app) - Share encrypted secrets cross organizations, or as private persons. ([Source Code (⭐807)](https://github.com/HemmeligOrg/Hemmelig.app)) `MIT` `Docker/Nodejs`
 
 ### Software / Software Development - API Management
 
-*   [Graphweaver](https://graphweaver.com/) - Turn multiple data sources into a single GraphQL API. ([Source Code (⭐471)](https://github.com/exogee-technology/graphweaver)) `MIT` `Nodejs`
+*   [Graphweaver](https://graphweaver.com/) - Turn multiple data sources into a single GraphQL API. ([Source Code (⭐501)](https://github.com/exogee-technology/graphweaver)) `MIT` `Nodejs`
 
 ### Software / Software Development - Project Management
 
-*   [rgit (⭐78)](https://github.com/w4/rgit) - An ultra-fast & lightweight cgit clone. `WTFPL` `Rust/Docker`
+*   [rgit (⭐138)](https://github.com/w4/rgit) - An ultra-fast & lightweight cgit clone. `WTFPL` `Rust/Docker`
 
 ### Software / Task Management & To-do Lists
 
-*   [AppFlowy](https://appflowy.io/) - With AppFlowy, you can build detailed lists of to-do’s for different projects while tracking the status of each one. Open Source Notion Alternative. ([Source Code (⭐51k)](https://github.com/AppFlowy-IO/appflowy)) `AGPL-3.0` `Rust/Dart/Docker`
+*   [AppFlowy](https://appflowy.io/) - With AppFlowy, you can build detailed lists of to-do’s for different projects while tracking the status of each one. Open Source Notion Alternative. ([Source Code (⭐60k)](https://github.com/AppFlowy-IO/appflowy)) `AGPL-3.0` `Rust/Dart/Docker`
 
 ---
 

@@ -32,10 +32,6 @@
 
 ## [4. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
-### CakePHP Websites
-
-*   [jedistirfry.co.uk](http://jedistirfry.co.uk) - A CakePHP related dev blog.
-
 ### CakePHP Videos
 
 *   [CakePHP](https://www.youtube.com/user/CakePHP) - Channel about CakePHP videos.

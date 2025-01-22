@@ -341,7 +341,7 @@
 
 ### SEO
 
-*   [prerender\_rails (⭐360)](https://github.com/prerender/prerender_rails) - Rails middleware gem for prerendering javascript-rendered pages on the fly for SEO.
+*   [prerender\_rails (⭐358)](https://github.com/prerender/prerender_rails) - Rails middleware gem for prerendering javascript-rendered pages on the fly for SEO.
 
 ## [4. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
@@ -383,9 +383,9 @@ git config --list
 
 ### GUI Libs / XML
 
-*   [DLangUI (⭐778)](https://github.com/buggins/dlangui) - Cross Platform GUI for D programming language. My personal favorate, because it is written in D(not a binding), and is cross platform. DLangUI also has a good showcase in the IDE [DLangIDE (⭐430)](https://github.com/buggins/dlangide).
-*   [DWT (⭐140)](https://github.com/d-widget-toolkit/dwt) - A library for creating cross-platform GUI applications. GWT is a port of the Java SWT library to D. DWT was promoted as a semi-standard GUI library for D, but unfortunately didn't catch up popularity yet.
-*   [dqml (⭐41)](https://github.com/filcuc/dqml) -  Qt Qml bindings for the D programming language.
+*   [DLangUI (⭐804)](https://github.com/buggins/dlangui) - Cross Platform GUI for D programming language. My personal favorate, because it is written in D(not a binding), and is cross platform. DLangUI also has a good showcase in the IDE [DLangIDE (⭐447)](https://github.com/buggins/dlangide).
+*   [DWT (⭐141)](https://github.com/d-widget-toolkit/dwt) - A library for creating cross-platform GUI applications. GWT is a port of the Java SWT library to D. DWT was promoted as a semi-standard GUI library for D, but unfortunately didn't catch up popularity yet.
+*   [dqml (⭐42)](https://github.com/filcuc/dqml) -  Qt Qml bindings for the D programming language.
 
 ### Games / XML
 

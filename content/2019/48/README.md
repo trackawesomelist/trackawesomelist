@@ -14,10 +14,6 @@
 
 ## [2. Awesome Linguistics](/content/theimpossibleastronaut/awesome-linguistics/week/README.md)
 
-### Resources
-
-*   [How To Label Data](https://www.lighttag.io/how-to-label-data/) - Guide on managing large scale linguistic annotation projects.
-
 ### Communities
 
 *   [Untranslatable.co, Multilingual urban dictionary](https://untranslatable.co/)
@@ -66,7 +62,7 @@
 
 ### Device / Augmented Reality
 
-*   [InAppWebView (⭐3.1k)](https://github.com/pichillilorenzo/flutter_inappwebview) <!--stargazers:pichillilorenzo/flutter_inappwebview--> - Add inline WebView widgets or open an in-app browser window by [Lorenzo Pichilli](https://github.com/pichillilorenzo)
+*   [InAppWebView (⭐3.3k)](https://github.com/pichillilorenzo/flutter_inappwebview) <!--stargazers:pichillilorenzo/flutter_inappwebview--> - Add inline WebView widgets or open an in-app browser window by [Lorenzo Pichilli](https://github.com/pichillilorenzo)
 
 ### 🇹🇷 Turkey / Misc
 
@@ -76,10 +72,10 @@
 
 ### Contents / Entertainment
 
-*   [CineReel (⭐183)](https://github.com/kserko/CineReel) - You can see lists for Now playing, Top Rated, Popular and Upcoming movies by [serko](https://github.com/kserko).
+*   [CineReel (⭐181)](https://github.com/kserko/CineReel) - You can see lists for Now playing, Top Rated, Popular and Upcoming movies by [serko](https://github.com/kserko).
 *   [Fluttery Filmy (⭐196)](https://github.com/ibhavikmakwana/Fluttery-Filmy) - Movie app which is developed using flutter and powered by tmdb. by [Bhavik Makwana](https://github.com/ibhavikmakwana).
-*   [Toughest (⭐268)](https://github.com/MDSADABWASIM/Toughest) - Tricky questions and answer- Offline Interview Q/A by [MD SADAB WASIM](https://github.com/MDSADABWASIM).
-*   [Sandwhich (⭐154)](https://github.com/MotionMobs/Sandwhich) - An app to solve the age-old sandwich debate built using machine learning, Flutter, and TensorFlow Lite by [MotionMobs](https://github.com/MotionMobs)
+*   [Toughest (⭐272)](https://github.com/MDSADABWASIM/Toughest) - Tricky questions and answer- Offline Interview Q/A by [MD SADAB WASIM](https://github.com/MDSADABWASIM).
+*   [Sandwhich (⭐153)](https://github.com/MotionMobs/Sandwhich) - An app to solve the age-old sandwich debate built using machine learning, Flutter, and TensorFlow Lite by [MotionMobs](https://github.com/MotionMobs)
 
 ### Contents / Games
 
@@ -95,21 +91,17 @@
 
 ### Official Resources
 
-*   [GitHub repo (⭐3.5k)](https://github.com/seed-rs/seed)
+*   [GitHub repo (⭐3.8k)](https://github.com/seed-rs/seed)
 
 ### Quickstarts
 
-*   [Default quickstart (⭐94)](https://github.com/seed-rs/seed-quickstart) - Contains only Rust libraries.
+*   [Default quickstart (⭐101)](https://github.com/seed-rs/seed-quickstart) - Contains only Rust libraries.
 
 ### Examples
 
-*   [RealWorld example (⭐116)](https://github.com/seed-rs/seed-rs-realworld) - "The mother of all demo apps" — Exemplary fullstack [Medium.com](https://medium.com/) clone.
-*   [Official examples (⭐3.5k)](https://github.com/seed-rs/seed/tree/master/examples) - Smaller examples included in official repo.
-*   [ERWA mytodo (⭐9)](https://github.com/seed-rs/erwa_mytodo) - Rust full-stack example. Diesel, Rocket, Seed.
-
-### Projects Using Seed
-
-*   [seed-rs.org (⭐14)](https://github.com/seed-rs/seed-rs.org) - Seed's official website.
+*   [RealWorld example (⭐124)](https://github.com/seed-rs/seed-rs-realworld) - "The mother of all demo apps" — Exemplary fullstack [Medium.com](https://medium.com/) clone.
+*   [Official examples (⭐3.8k)](https://github.com/seed-rs/seed/tree/master/examples) - Smaller examples included in official repo.
+*   [ERWA mytodo (⭐10)](https://github.com/seed-rs/erwa_mytodo) - Rust full-stack example. Diesel, Rocket, Seed.
 
 ## [11. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
@@ -136,13 +128,13 @@
 
 ### Utilities
 
-*   [Vert.x CronUtils (⭐18)](https://github.com/NoEnv/vertx-cronutils) - An abstraction of cron-utils for the vertx scheduler. Unix, Cron4j and Quartz style expressions are supported.
+*   [Vert.x CronUtils (⭐21)](https://github.com/NoEnv/vertx-cronutils) - An abstraction of cron-utils for the vertx scheduler. Unix, Cron4j and Quartz style expressions are supported.
 
 ## [15. Game Datasets](/content/leomaurodesenv/game-datasets/week/README.md)
 
 ### Artificial Intelligence
 
-*   [Wargus (⭐324)](https://github.com/Wargus/wargus) - Real-time strategy game. [Website](https://wargus.github.io/).
+*   [Wargus (⭐360)](https://github.com/Wargus/wargus) - Real-time strategy game. [Website](https://wargus.github.io/).
 
 ## [16. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/week/README.md)
 
@@ -184,11 +176,11 @@
 
 ### Collection of Actions / Docker Container Actions
 
-*   [GitHub Actions for Deno (⭐182)](https://github.com/denolib/setup-deno)
+*   [GitHub Actions for Deno (⭐181)](https://github.com/denolib/setup-deno)
 
 ### Frontend Tools / Terraform
 
-*   [GitHub Actions for mdBook (⭐220)](https://github.com/peaceiris/actions-mdbook)
+*   [GitHub Actions for mdBook (⭐289)](https://github.com/peaceiris/actions-mdbook)
 
 ## [20. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
@@ -199,7 +191,7 @@
 ### Inspired by Elm / Games
 
 *   [Bolero](https://fsbolero.io/) - F# in WebAssembly using Elmish
-*   [Iced (⭐23k)](https://github.com/hecrj/iced) - A cross-platform GUI library for Rust, inspired by Elm
+*   [Iced (⭐25k)](https://github.com/hecrj/iced) - A cross-platform GUI library for Rust, inspired by Elm
 *   [SwiftUI](https://developer.apple.com/xcode/swiftui/)
 
 ## [21. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
@@ -222,7 +214,7 @@
 
 ### Software / Resource Planning
 
-*   [grocy](https://grocy.info/) - ERP beyond your fridge - grocy is a web-based self-hosted groceries & household management solution for your home. ([Demo](https://en.demo.grocy.info/), [Source Code (⭐6.6k)](https://github.com/grocy/grocy)) `MIT` `PHP/Docker`
+*   [grocy](https://grocy.info/) - ERP beyond your fridge - grocy is a web-based self-hosted groceries & household management solution for your home. ([Demo](https://en.demo.grocy.info/), [Source Code (⭐7.1k)](https://github.com/grocy/grocy)) `MIT` `PHP/Docker`
 
 ## [24. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
@@ -325,13 +317,13 @@
 
 ### C, C++
 
-*   [cl-yesql (⭐66)](https://github.com/ruricolist/cl-yesql) - SQL statements live in their own files, in SQL syntax, and are imported into Lisp as functions. You are not limited to the features a DSL supports. Based on Clojure's Yesql. [MIT](https://opensource.org/licenses/MIT).
+*   [cl-yesql (⭐68)](https://github.com/ruricolist/cl-yesql) - SQL statements live in their own files, in SQL syntax, and are imported into Lisp as functions. You are not limited to the features a DSL supports. Based on Clojure's Yesql. [MIT](https://opensource.org/licenses/MIT).
 
 ## [35. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
 
 ### Playbooks, Roles and Collections / French
 
-*   [T.A.D.S. boilerplate (⭐721)](https://github.com/Thomvaill/tads-boilerplate) - Provision and deploy a Docker Swarm cluster to development environment and to production. Infrastructure as Code and DevOps best practices.
+*   [T.A.D.S. boilerplate (⭐760)](https://github.com/Thomvaill/tads-boilerplate) - Provision and deploy a Docker Swarm cluster to development environment and to production. Infrastructure as Code and DevOps best practices.
 
 ## [36. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
@@ -360,7 +352,7 @@
 
 ### Open Source / RPG
 
-*   [Darkness Dungeon (⭐372)](https://github.com/RafaelBarbosatec/darkness_dungeon) - Simple RPG. By [rafaelbarbosatec](http://rafaelbarbosatec.github.io/)
+*   [Darkness Dungeon (⭐395)](https://github.com/RafaelBarbosatec/darkness_dungeon) - Simple RPG. By [rafaelbarbosatec](http://rafaelbarbosatec.github.io/)
 
 ## [39. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -461,7 +453,7 @@
 
 ### Entertainment / Music
 
-*   [spotify-tui (⭐17k)](https://github.com/Rigellute/spotify-tui) - Spotify client.
+*   [spotify-tui (⭐18k)](https://github.com/Rigellute/spotify-tui) - Spotify client.
 
 ## [46. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
 
@@ -485,7 +477,7 @@
 
 ### UI Testing
 
-*   [ViewInspector (⭐2.1k)](https://github.com/nalexn/ViewInspector) - Runtime inspection and unit testing of SwiftUI views
+*   [ViewInspector (⭐2.2k)](https://github.com/nalexn/ViewInspector) - Runtime inspection and unit testing of SwiftUI views
 
 ## [48. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
 
@@ -503,7 +495,7 @@
 
 ### Editors / Runner
 
-*   [Summernote (⭐11k)](https://github.com/summernote/summernote) - Super simple WYSIWYG editor.
+*   [Summernote (⭐12k)](https://github.com/summernote/summernote) - Super simple WYSIWYG editor.
 
 ### Misc / Other
 

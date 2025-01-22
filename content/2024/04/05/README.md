@@ -10,7 +10,7 @@
 
 ### Libraries/Packages/Scripts / Polars plugins
 
-*   [polars-finance (⭐21)](https://github.com/ngriffiths13/polars-finance) - A collection of Python Polars plugins and functions for market data processing by [@ngriffiths13](https://github.com/ngriffiths13).
+*   [polars-finance (⭐37)](https://github.com/ngriffiths13/polars-finance) - A collection of Python Polars plugins and functions for market data processing by [@ngriffiths13](https://github.com/ngriffiths13).
 
 ## [2. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
@@ -32,11 +32,11 @@
 *   [Forgejo](https://forgejo.org/) - Forgejo is a self-hosted lightweight software forge.
 *   [GitLab](https://about.gitlab.com/) - GitLab a DevOps software package that can develop, secure, and operate software.
 
-## [4. Awesome Go](/content/avelino/awesome-go/README.md)
+## [4. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
-### Continuous Integration
+### Debug
 
-*   [Bencher](https://bencher.dev/) - A suite of continuous benchmarking tools designed to catch performance regressions in CI.
+*   [Bencher](https://bencher.dev/) - A suite of continuous benchmarking tools designed to catch performance regressions in CI. \[MIT]/\[Apache2]
 
 ## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -52,7 +52,7 @@
 
 ### Helpers
 
-*   [GameStateManager (⭐7)](https://github.com/GwyrddGlas/GameStateManager) - A lightweight, optimized, and easy-to-implement solution for efficient game state management.
+*   [GameStateManager (⭐11)](https://github.com/GwyrddGlas/GameStateManager) - A lightweight, optimized, and easy-to-implement solution for efficient game state management.
 
 ## [7. Awesome Preact](/content/preactjs/awesome-preact/README.md)
 
@@ -68,13 +68,13 @@
 
 ### Editing Support / Diagnostics
 
-*   [ptdewey/yankbank-nvim (⭐52)](https://github.com/ptdewey/yankbank-nvim) - Enable streamlined access to recent yanks and deletions in a quick-access popup menu.
+*   [ptdewey/yankbank-nvim (⭐118)](https://github.com/ptdewey/yankbank-nvim) - Enable streamlined access to recent yanks and deletions in a quick-access popup menu.
 
 ## [9. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [zellij (tranzystorek-io)](https://codeberg.org/tranzystorekk/zellij.zsh) - Provides an environment that autostarts [zellij (⭐20k)](https://github.com/zellij-org/zellij) as your terminal's multiplexer.
+*   [zellij (tranzystorek-io)](https://codeberg.org/tranzystorekk/zellij.zsh) - Provides an environment that autostarts [zellij (⭐23k)](https://github.com/zellij-org/zellij) as your terminal's multiplexer.
 
 ---
 

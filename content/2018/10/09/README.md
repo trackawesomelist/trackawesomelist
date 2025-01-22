@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 09, 2018
 
-18 awesome lists updated today.
+17 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -43,13 +43,7 @@
 
 *   [Standard Ebooks](https://standardebooks.org/) - Hundreds of classics, beautifully formatted and typeset.
 
-## [6. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
-
-### Companies with "remote DNA"
-
-*   [Circonus](https://www.circonus.com/careers) - SaaS and on-prem monitoring, analytics, alerting, and more.  C, Go, Java, Perl.  HQ in Fulton MD, most employees are remote.
-
-## [7. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
+## [6. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
 ### Community / iOS
 
@@ -57,7 +51,7 @@
 *   [MAKE on Youtube](https://www.youtube.com/channel/UChtY6O8Ahw2cz05PS2GhUbg)
 *   [Novaspirittech on YouTube](https://www.youtube.com/channel/UCrjKdwxaQMSV_NDywgKXVmw)
 
-## [8. Awesome Vscode](/content/viatsko/awesome-vscode/README.md)
+## [7. Awesome Vscode](/content/viatsko/awesome-vscode/README.md)
 
 ### [Niketa Theme by Dejan Toteff](https://vscodethemes.com/e/selfrefactor.niketa-theme) / [Gradle Tasks](https://marketplace.visualstudio.com/items?itemName=richardwillis.vscode-gradle)
 
@@ -76,71 +70,71 @@
 *   [@ramyanexus](https://twitter.com/ramyanexus) - VS Code Dev. Maintainer of Go extension
 *   [@Tyriar](https://twitter.com/Tyriar) - VS Code Dev. Creator of xterm.js
 
-## [9. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
+## [8. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 
 ### Presentations / ROSCon JP 2018 (english slide presentations only)
 
 *   What's next for ROS? (from slide 24 onwards) [Slides](https://roscon.jp/2018/presentations/ROSCon_JP_2018_presentation_2.pdf) [Video](https://vimeo.com/292064161)
 
-## [10. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
+## [9. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 
 ### Related projects
 
 *   [CloudCompose](https://cloudcompose.io) - An open community marketplace for serverless functions and workflows.
 
-## [11. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [10. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Cryptography / Barcode
 
-*   [JOSESwift (⭐192)](https://github.com/airsidemobile/JOSESwift) - A framework for the JOSE standards JWS, JWE, and JWK.
+*   [JOSESwift (⭐202)](https://github.com/airsidemobile/JOSESwift) - A framework for the JOSE standards JWS, JWE, and JWK.
 
 ### Menu / Barcode
 
 *   [Panels (⭐1.5k)](https://github.com/antoniocasero/Panels) - Panels is a framework to easily add sliding panels to your application.
 
-## [12. Awesome Magento2](/content/run-as-root/awesome-magento2/README.md)
+## [11. Awesome Magento2](/content/run-as-root/awesome-magento2/README.md)
 
 ### Learning / Progressive Web Application
 
 *   [Mage2.tv](https://www.mage2.tv) - Magento 2 Developer Screencasts by Vinai Kopp
 
-## [13. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
+## [12. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### UI / List
 
-*   [Typeahead (⭐802)](https://github.com/AbdulRahmanAlHamali/flutter_typeahead) <!--stargazers:AbdulRahmanAlHamali/flutter_typeahead--> - Display overlay suggestions to users as they type by [Abdul Rahman Al Hamali](https://github.com/AbdulRahmanAlHamali)
+*   [Typeahead (⭐832)](https://github.com/AbdulRahmanAlHamali/flutter_typeahead) <!--stargazers:AbdulRahmanAlHamali/flutter_typeahead--> - Display overlay suggestions to users as they type by [Abdul Rahman Al Hamali](https://github.com/AbdulRahmanAlHamali)
 
-## [14. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [13. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Compilers, Transpilers and Languages
 
 *   [Iron python (⭐1.1k)](https://github.com/IronLanguages/ironpython2) - A python 2 implementation that is integrated with the dot net framework.
 
-## [15. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [14. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Developer Tools / Command Line Tools
 
-*   [bat (⭐48k)](https://github.com/sharkdp/bat) - A `cat(1)` clone with syntax highlighting and Git integration. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/sharkdp/bat) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [bat (⭐51k)](https://github.com/sharkdp/bat) - A `cat(1)` clone with syntax highlighting and Git integration. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/sharkdp/bat) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [silver searcher (ag) (⭐26k)](https://github.com/ggreer/the_silver_searcher) - A code searching tool similar to ack, with a focus on speed. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ggreer/the_silver_searcher) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [16. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
+## [15. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
 
 ### tools / Other
 
 *   [empire (⭐7.2k)](https://github.com/EmpireProject/Empire) - A post exploitation framework for powershell and python.
 *   [silenttrinity (⭐2.1k)](https://github.com/byt3bl33d3r/SILENTTRINITY) - A post exploitation tool that uses iron python to get past powershell restrictions.
 
-## [17. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [16. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / Kinesis
 
 *   [amazon-kinesis-producer :fire::fire: (⭐376)](https://github.com/awslabs/amazon-kinesis-producer) - Producer Library.
 
-## [18. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
+## [17. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
 
 ### R / Numerical Libraries & Data Structures
 
-*   [sparseEigen (⭐11)](https://github.com/dppalomar/sparseEigen) - Sparse principal component analysis.
+*   [sparseEigen (⭐12)](https://github.com/dppalomar/sparseEigen) - Sparse principal component analysis.
 
 ---
 

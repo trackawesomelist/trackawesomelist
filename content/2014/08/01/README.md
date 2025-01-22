@@ -67,7 +67,7 @@ Run `brew install provisionql` or [download manually (⭐2.1k)](https://github.c
 
 ## [4. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
-### Facebook Accounts / Book Deals (Affiliated) 🛍
+### Facebook Accounts / Book Deals (Affiliated)
 
 *   [Big data hadoop NOSQL Hive Hbase](https://www.facebook.com/groups/bigdatahadoop/)
 *   [Analytics, Data Mining, Predictive Modeling, Artificial Intelligence](https://www.facebook.com/groups/data.analytics/)

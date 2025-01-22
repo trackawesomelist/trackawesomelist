@@ -61,28 +61,28 @@ git update-index --no-assume-unchanged <file_name>
 
 ### Development / Frontend Development
 
-*   [strip-css-comments-cli (⭐37)](https://github.com/sindresorhus/strip-css-comments-cli) - Strip comments from CSS.
-*   [viewport-list-cli (⭐59)](https://github.com/kevva/viewport-list-cli) - Return a list of devices and their viewports.
+*   [strip-css-comments-cli (⭐38)](https://github.com/sindresorhus/strip-css-comments-cli) - Strip comments from CSS.
+*   [viewport-list-cli (⭐61)](https://github.com/kevva/viewport-list-cli) - Return a list of devices and their viewports.
 
 ### Files and Directories / Deleting, Copying, and Renaming
 
 *   [trash-cli (⭐1.3k)](https://github.com/sindresorhus/trash-cli) - Move files and directories to the trash.
-*   [empty-trash-cli (⭐128)](https://github.com/sindresorhus/empty-trash-cli) - Empty the trash.
+*   [empty-trash-cli (⭐134)](https://github.com/sindresorhus/empty-trash-cli) - Empty the trash.
 
 ### Files and Directories / Directory Navigation
 
-*   [pm (⭐189)](https://github.com/Angelmmiguel/pm) - The easy way to switch to your projects on the shell.
+*   [pm (⭐194)](https://github.com/Angelmmiguel/pm) - The easy way to switch to your projects on the shell.
 *   [z (⭐16k)](https://github.com/rupa/z) - z is the new j, yo.
 
 ### Images / Gif Creation
 
-*   [gifsicle (⭐3.6k)](https://github.com/kohler/gifsicle) - Create, manipulate, and optimize GIF images and animations.
-*   [ttygif (⭐3.9k)](https://github.com/icholy/ttygif) - Convert terminal recordings to animated gifs.
-*   [ttygif (⭐265)](https://github.com/sugyan/ttygif) - ttyrec to gif.
+*   [gifsicle (⭐3.8k)](https://github.com/kohler/gifsicle) - Create, manipulate, and optimize GIF images and animations.
+*   [ttygif (⭐4k)](https://github.com/icholy/ttygif) - Convert terminal recordings to animated gifs.
+*   [ttygif (⭐269)](https://github.com/sugyan/ttygif) - ttyrec to gif.
 
 ### Graphics / Image Conversion
 
-*   [sparkly-cli (⭐131)](https://github.com/sindresorhus/sparkly-cli) - Generate sparklines ▁▂▃▅▂▇..
+*   [sparkly-cli (⭐140)](https://github.com/sindresorhus/sparkly-cli) - Generate sparklines ▁▂▃▅▂▇..
 
 ---
 

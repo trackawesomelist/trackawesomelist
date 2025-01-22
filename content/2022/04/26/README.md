@@ -22,7 +22,7 @@
 
 ### End-user applications / XML
 
-*   [Inochi Creator (⭐645)](https://github.com/Inochi2D/inochi-creator) - Tool to create and edit Inochi2D puppets
+*   [Inochi Creator (⭐796)](https://github.com/Inochi2D/inochi-creator) - Tool to create and edit Inochi2D puppets
 
 ## [3. Awesome Eosio](/content/DanailMinchev/awesome-eosio/README.md)
 
@@ -58,11 +58,11 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [zshange\_directory\_recent (⭐0)](https://github.com/Kjeldgaard/zshange_directory_recent) - Change to a recent directory. Requires [fzf (⭐63k)](https://github.com/junegunn/fzf).
+*   [zshange\_directory\_recent (⭐0)](https://github.com/Kjeldgaard/zshange_directory_recent) - Change to a recent directory. Requires [fzf (⭐67k)](https://github.com/junegunn/fzf).
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [npm-scripts-autocomplete (⭐85)](https://github.com/grigorii-zander/zsh-npm-scripts-autocomplete) - Shows autocomplete suggestions from scripts found in the current directory's `package.json`. Works with `npm` and `yarn`.
+*   [npm-scripts-autocomplete (⭐101)](https://github.com/grigorii-zander/zsh-npm-scripts-autocomplete) - Shows autocomplete suggestions from scripts found in the current directory's `package.json`. Works with `npm` and `yarn`.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -72,28 +72,28 @@
 
 ### Configuration
 
-*   [GoLobby/Config (⭐363)](https://github.com/golobby/config) - GoLobby Config is a lightweight yet powerful configuration manager for the Go programming language.
-*   [nfigure (⭐7)](https://github.com/muir/nfigure) - Per-library struct-tag based configuration from command lines (Posix & Go-style); environment, JSON, YAML
+*   [GoLobby/Config (⭐364)](https://github.com/golobby/config) - GoLobby Config is a lightweight yet powerful configuration manager for the Go programming language.
+*   [nfigure (⭐8)](https://github.com/muir/nfigure) - Per-library struct-tag based configuration from command lines (Posix & Go-style); environment, JSON, YAML
 
 ### Miscellaneous Data Structures and Algorithms
 
-*   [slices (⭐19)](https://github.com/twharmon/slices) - Pure, generic functions for slices.
+*   [slices (⭐20)](https://github.com/twharmon/slices) - Pure, generic functions for slices.
 
 ### Functional
 
-*   [fp-go (⭐297)](https://github.com/repeale/fp-go) - Collection of Functional Programming helpers powered by Golang 1.18+ generics.
+*   [fp-go (⭐308)](https://github.com/repeale/fp-go) - Collection of Functional Programming helpers powered by Golang 1.18+ generics.
 
 ### Dependency Injection
 
-*   [GoLobby/Container (⭐554)](https://github.com/golobby/container) - GoLobby Container is a lightweight yet powerful IoC dependency injection container for the Go programming language.
+*   [GoLobby/Container (⭐568)](https://github.com/golobby/container) - GoLobby Container is a lightweight yet powerful IoC dependency injection container for the Go programming language.
 
 ### Morphological Analyzers
 
-*   [govader-backend (⭐6)](https://github.com/PIMPfiction/govader_backend) - Microservice implementation of [GoVader (⭐39)](https://github.com/jonreiter/govader).
+*   [govader-backend (⭐6)](https://github.com/PIMPfiction/govader_backend) - Microservice implementation of [GoVader (⭐44)](https://github.com/jonreiter/govader).
 
 ### ORM
 
-*   [golobby/orm (⭐158)](https://github.com/golobby/orm) - Simple, fast, type-safe, generic orm for developer happiness.
+*   [golobby/orm (⭐160)](https://github.com/golobby/orm) - Simple, fast, type-safe, generic orm for developer happiness.
 
 ### Query Language
 
@@ -113,24 +113,24 @@
 
 ### DevOps Tools / Libraries for creating HTTP middlewares
 
-*   [go-rocket-update (⭐100)](https://github.com/mouuff/go-rocket-update) - A simple way to make self updating Go applications - Supports Github and Gitlab.
+*   [go-rocket-update (⭐105)](https://github.com/mouuff/go-rocket-update) - A simple way to make self updating Go applications - Supports Github and Gitlab.
 
 ## [9. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Fennel / Diagnostics
 
-*   [udayvir-singh/tangerine.nvim (⭐197)](https://github.com/udayvir-singh/tangerine.nvim) - Sweet :tangerine: Fennel integration, aims to be as fast as possible.
-*   [udayvir-singh/hibiscus.nvim (⭐104)](https://github.com/udayvir-singh/hibiscus.nvim) - Flavored :hibiscus: Fennel macro library.
+*   [udayvir-singh/tangerine.nvim (⭐215)](https://github.com/udayvir-singh/tangerine.nvim) - Tangerine provides a painless way to add fennel to your config.
+*   [udayvir-singh/hibiscus.nvim (⭐108)](https://github.com/udayvir-singh/hibiscus.nvim) - Highly opinionated macros to elegantly write your config.
 
 ### Scrolling / Diagnostics
 
-*   [declancm/cinnamon.nvim (⭐337)](https://github.com/declancm/cinnamon.nvim) - Smooth scrolling for any movement command.
+*   [declancm/cinnamon.nvim (⭐371)](https://github.com/declancm/cinnamon.nvim) - Smooth scrolling for any movement command.
 
 ## [10. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Offline / Other (Plugins || Cross-platform || OSS || Free)
 
-*   [Coc (⭐24k)](https://github.com/neoclide/coc.nvim) Make your Vim/Neovim as smart as VSCode.
+*   [Coc (⭐25k)](https://github.com/neoclide/coc.nvim) Make your Vim/Neovim as smart as VSCode.
 
 ### Libraries / Chrome Extensions
 
@@ -140,7 +140,7 @@
 
 ### Auditing / Logging
 
-*   🍰 [Version plugin (⭐52)](https://github.com/josegonzalez/cakephp-version) - A plugin that facilitates versioned database entities.
+*   [Version plugin (⭐51)](https://github.com/josegonzalez/cakephp-version) - A plugin that facilitates versioned database entities.
 
 ## [12. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 
@@ -171,7 +171,7 @@
 
 ### Chart
 
-*   [FLCharts (⭐262)](https://github.com/francescoleoni98/FLCharts) - Easy to use and highly customizable charts library for iOS.
+*   [FLCharts (⭐265)](https://github.com/francescoleoni98/FLCharts) - Easy to use and highly customizable charts library for iOS.
 
 ---
 

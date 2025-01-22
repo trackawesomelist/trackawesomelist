@@ -17,7 +17,7 @@
 
 ### Modules / CLI utils
 
-*   [charmd (⭐57)](https://github.com/littletof/charmd) - A simple, extendable markdown renderer for your terminal.
+*   [charmd (⭐59)](https://github.com/littletof/charmd) - A simple, extendable markdown renderer for your terminal.
 
 ### Tools / XML
 
@@ -27,7 +27,7 @@
 
 ### Programming Languages / Arduino
 
-*   [nixduino (⭐41)](https://github.com/boredom101/nixduino) - Nix-based tool to help build Arduino sketches.
+*   [nixduino (⭐46)](https://github.com/boredom101/nixduino) - Nix-based tool to help build Arduino sketches.
 
 ## [4. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
@@ -39,11 +39,9 @@
 *   [Bongo](http://ebongo.org) - Real-time Transit Tracking for Iowa City, Coralville and the University of Iowa. Combines three disparate transit systems into one UI.
 *   [CityMapper Webapp](https://citymapper.com/nyc) - Really polished webapp with trip planner and route status for over 30 of cities.
 *   [YourStop](http://yourstop.info) - Mobile friendly web app which consumes GTFS feeds and displays both live and scheduled trips for stops. Launched with MBTA, YRT/Viva and Maryland MTA.
-*   [DC MetroHero](https://dcmetrohero.com) - Realtime vehicle position and arrivals and departure information for the Washington, D.C. region's WMATA Metrorail and Metrobus systems. WebApp, Android, and iOS apps avaliable.
 
 ### Web Apps (open source)
 
-*   [1-Click](http://camsys.software/products/1-click) - A virtual “trip aggregator” that assembles information on a wide variety of available modes: public transit, private, rail, rideshare, carpool, volunteer, paratransit, and walking and biking. Open-source [on GitHub (⭐14)](https://github.com/camsys/oneclick).
 *   [MBTA tile-server (⭐8)](https://github.com/mbta/tile-server) - Scripts to create a Docker container that encapsulates all the elements necessary to develop map tiles for use on MBTA.com
 
 ## [5. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
@@ -62,8 +60,8 @@
 
 ### Machine Learning
 
-*   [DL4S (⭐102)](https://github.com/palle-k/DL4S) - Deep Learning for Swift: Accelerated tensor operations and dynamic neural networks based on reverse mode automatic differentiation for every device that can run Swift.
-*   [SwiftCoreMLTools (⭐161)](https://github.com/JacopoMangiavacchi/SwiftCoreMLTools) - A Swift library for creating and exporting CoreML Models in Swift.
+*   [DL4S (⭐105)](https://github.com/palle-k/DL4S) - Deep Learning for Swift: Accelerated tensor operations and dynamic neural networks based on reverse mode automatic differentiation for every device that can run Swift.
+*   [SwiftCoreMLTools (⭐162)](https://github.com/JacopoMangiavacchi/SwiftCoreMLTools) - A Swift library for creating and exporting CoreML Models in Swift.
 
 ## [8. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
 
@@ -75,7 +73,7 @@
 
 ### Contents / Finance
 
-*   [BudgetBudy (⭐22)](https://github.com/Mufaddal5253110/BudgetBudy) - Budget Budy is the easiest and most user friendly expense manager app by [Mufaddal Shakir](https://github.com/Mufaddal5253110)
+*   [BudgetBudy (⭐25)](https://github.com/Mufaddal5253110/BudgetBudy) - Budget Budy is the easiest and most user friendly expense manager app by [Mufaddal Shakir](https://github.com/Mufaddal5253110)
 
 ## [10. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -108,7 +106,7 @@
 
 ### Sequence Alignment / Clustering
 
-*   **[MMseqs2 (⭐841)](https://github.com/soedinglab/MMseqs2)** - Ultra-fast, sensitive search and clustering suite for protein and nucleotide sequence sets. \[ [paper-2017](https://www.nature.com/articles/nbt.3988) | [paper-2018](https://www.nature.com/articles/s41467-018-04964-5) ]
+*   **[MMseqs2 (⭐1.5k)](https://github.com/soedinglab/MMseqs2)** - Ultra-fast, sensitive search and clustering suite for protein and nucleotide sequence sets. \[ [paper-2017](https://www.nature.com/articles/nbt.3988) | [paper-2018](https://www.nature.com/articles/s41467-018-04964-5) ]
 
 ## [12. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -136,11 +134,11 @@
 
 ### Developer Tools / Developer Utilities
 
-*   [Xcodes (⭐6.7k)](https://github.com/RobotsAndPencils/XcodesApp) - Install and switch between multiple versions of Xcode. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/RobotsAndPencils/XcodesApp)
+*   [Xcodes (⭐7.2k)](https://github.com/RobotsAndPencils/XcodesApp) - Install and switch between multiple versions of Xcode. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/RobotsAndPencils/XcodesApp)
 
 ### Developer Tools / Command Line Tools
 
-*   [xcodes (⭐3.7k)](https://github.com/RobotsAndPencils/xcodes) - A command-line tool to install and switch between multiple versions of Xcode. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/RobotsAndPencils/xcodes)
+*   [xcodes (⭐3.9k)](https://github.com/RobotsAndPencils/xcodes) - A command-line tool to install and switch between multiple versions of Xcode. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/RobotsAndPencils/xcodes)
 
 ### Utilities / Menu Bar Tools
 

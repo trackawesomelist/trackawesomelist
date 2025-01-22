@@ -51,7 +51,7 @@ Webpage: N/A
 ### Style Guide Generators :slot_machine: / Editor's Draft :black_nib:
 
 *   [Hologram (⭐2.2k)](https://github.com/trulia/hologram)
-*   [mdcss (⭐679)](https://github.com/jonathantneal/mdcss)
+*   [mdcss (⭐686)](https://github.com/jonathantneal/mdcss)
 
 ### Videos :tv: / 2015
 

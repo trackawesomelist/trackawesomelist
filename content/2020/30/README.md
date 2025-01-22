@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 27 - Aug 02, 2020
 
-67 awesome lists updated this week.
+66 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -42,12 +42,12 @@
 
 ## [6. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
-### Deprecated
+### Deprecated  (a-z↓)
 
-*   [PhantomFlow (⭐682)](https://github.com/Huddle/PhantomFlow) - Experimental approach to UI testing, based on Decision Trees.
-*   [Visual Review (⭐276)](https://github.com/xebia/VisualReview) - A human-friendly tool for testing and reviewing visual regressions.
-*   [Huxley (⭐4.1k)](https://github.com/facebookarchive/huxley) - Python framework based on [Selenium Webdriver (⭐30k)](https://github.com/SeleniumHQ/selenium/tree/master/javascript/node/selenium-webdriver).
-*   [WebdriverCSS (⭐616)](https://github.com/webdriverio/webdrivercss) - WebdriverCSS sits on top of [Webdriver.io (⭐8.9k)](https://github.com/webdriverio/webdriverio/) and hooks into [Selenium (⭐30k)](https://github.com/SeleniumHQ/selenium).
+*   [Huxley (⭐4.1k)](https://github.com/facebookarchive/huxley) - Python framework based on [Selenium Webdriver (⭐31k)](https://github.com/SeleniumHQ/selenium/tree/master/javascript/node/selenium-webdriver).
+*   [PhantomFlow](https://github.com/Huddle/PhantomFlow) - Experimental approach to UI testing, based on Decision Trees.
+*   [Visual Review (⭐275)](https://github.com/xebia/VisualReview) - A human-friendly tool for testing and reviewing visual regressions.
+*   [WebdriverCSS (⭐613)](https://github.com/webdriverio/webdrivercss) - WebdriverCSS sits on top of [Webdriver.io (⭐9.1k)](https://github.com/webdriverio/webdriverio/) and hooks into [Selenium (⭐31k)](https://github.com/SeleniumHQ/selenium).
 
 ## [7. Awesome Powershell](/content/janikvonrotz/awesome-powershell/week/README.md)
 
@@ -75,7 +75,7 @@
 
 ### Files and Directories / File Sync/Sharing
 
-*   [google-drive-upload (⭐679)](https://github.com/labbots/google-drive-upload) - Upload/sync with Google Drive.
+*   [google-drive-upload (⭐700)](https://github.com/labbots/google-drive-upload) - Upload/sync with Google Drive.
 
 ## [11. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
 
@@ -98,13 +98,8 @@
 
 ### Libraries / Elixir
 
-*   [mongodb (⭐568)](https://github.com/kobil-systems/mongodb) - Community Elixir driver
-*   [mongodb\_ecto (⭐366)](https://github.com/kobil-systems/mongodb_ecto) - Adapter for the Ecto database wrapper
-
-### Libraries / PHP
-
-*   [eloquent-mongodb-repository (⭐18)](https://github.com/nilportugues/eloquent-mongodb-repository) - Repository implementation built on top of laravel-mongodb
-*   [mongodb-repository (⭐9)](https://github.com/nilportugues/mongodb-repository) - Repository implementation
+*   [mongodb (⭐572)](https://github.com/kobil-systems/mongodb) - Community Elixir driver
+*   [mongodb\_ecto (⭐374)](https://github.com/kobil-systems/mongodb_ecto) - Adapter for the Ecto database wrapper
 
 ### Tools / Development
 
@@ -135,7 +130,7 @@
 ### Data Visualization / Runner
 
 *   [Frappe Charts (⭐15k)](https://github.com/frappe/charts) - GitHub-inspired simple and modern SVG charts for the web with zero dependencies.
-*   [Frappe Gantt (⭐4.5k)](https://github.com/frappe/gantt) - A simple, interactive, modern gantt chart library for the web.
+*   [Frappe Gantt (⭐4.6k)](https://github.com/frappe/gantt) - A simple, interactive, modern gantt chart library for the web.
 
 ## [16. Awesome Corda](/content/chainstack/awesome-corda/week/README.md)
 
@@ -147,50 +142,50 @@
 
 ### Applications / System tools
 
-*   [gitui (⭐18k)](https://github.com/extrawurst/gitui) - Blazing fast terminal client for git. [![build](https://github.com/extrawurst/gitui/workflows/CI/badge.svg?branch=master)](https://github.com/extrawurst/gitui/actions)
+*   [gitui (⭐19k)](https://github.com/extrawurst/gitui) - Blazing fast terminal client for git. [![build](https://github.com/extrawurst/gitui/workflows/CI/badge.svg?branch=master)](https://github.com/extrawurst/gitui/actions)
 
 ### Libraries / Macro
 
-*   [Linq-in-Rust (⭐125)](https://github.com/StardustDL/Linq-in-Rust) - Macro and methods for C#-LINQ-like expressions. [![CI](https://github.com/StardustDL/Linq-in-Rust/workflows/CI/badge.svg?branch=master)](https://github.com/StardustDL/Linq-in-Rust/actions?query=workflow%3ACI)
+*   [Linq-in-Rust (⭐131)](https://github.com/StardustDL/Linq-in-Rust) - Macro and methods for C#-LINQ-like expressions. [![CI](https://github.com/StardustDL/Linq-in-Rust/workflows/CI/badge.svg?branch=master)](https://github.com/StardustDL/Linq-in-Rust/actions?query=workflow%3ACI)
 
 ## [18. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
 ### Web Frameworks
 
 *   [Vert.x Web (⭐1.1k)](https://github.com/vert-x3/vertx-web)  <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Full featured web toolkit for Vert.x.
-*   [Cloudopt Next (⭐330)](https://github.com/cloudoptlab/cloudopt-next) - Cloudopt Next is a very lightweight and modern, JVM-based, full stack kotlin framework designed for building modular, easily testable JVM applications with support for Java, Kotlin language, crafted from the best of breed Java libraries and standards.
+*   [Cloudopt Next (⭐343)](https://github.com/cloudoptlab/cloudopt-next) - Cloudopt Next is a very lightweight and modern, JVM-based, full stack kotlin framework designed for building modular, easily testable JVM applications with support for Java, Kotlin language, crafted from the best of breed Java libraries and standards.
 
 ### Authentication Authorisation
 
-*   [Vert.x Auth Mongo (⭐8)](https://github.com/vert-x3/vertx-auth/tree/master/vertx-auth-mongo)  <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Vert.x Authorisation/Authentication based on [MongoDB](https://www.mongodb.com/).
+*   [Vert.x Auth Mongo (⭐13)](https://github.com/vert-x3/vertx-auth/tree/master/vertx-auth-mongo)  <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Vert.x Authorisation/Authentication based on [MongoDB](https://www.mongodb.com/).
 
 ### Language Support
 
 *   [Ceylon (⭐12)](https://github.com/vert-x3/vertx-lang-ceylon) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Ceylon support.
 *   [Groovy (⭐13)](https://github.com/vert-x3/vertx-lang-groovy) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Groovy support.
 *   [Java (⭐14k)](https://github.com/eclipse/vert.x) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Vert.x main repository (including the Java API).
-*   [JavaScript (⭐35)](https://github.com/vert-x3/vertx-lang-js) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - JavaScript support.
+*   [JavaScript (⭐36)](https://github.com/vert-x3/vertx-lang-js) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - JavaScript support.
 *   [Ruby (⭐14)](https://github.com/vert-x3/vertx-lang-ruby) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Ruby support.
-*   [Scala (⭐116)](https://github.com/vert-x3/vertx-lang-scala) - <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Scala support.
-*   [Kotlin (⭐282)](https://github.com/vert-x3/vertx-lang-kotlin) - <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Kotlin support.
+*   [Scala (⭐122)](https://github.com/vert-x3/vertx-lang-scala) - <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Scala support.
+*   [Kotlin (⭐296)](https://github.com/vert-x3/vertx-lang-kotlin) - <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Kotlin support.
 
 ### Reactive
 
-*   [Reactive Streams (⭐48)](https://github.com/vert-x3/vertx-reactive-streams) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Vert.x Reactive Streams.
-*   [Vert.x Rx (⭐145)](https://github.com/vert-x3/vertx-rx) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Vert.x Reactive Extensions.
-*   [Vert.x Sync (⭐98)](https://github.com/vert-x3/vertx-sync) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Vert.x fiber support.
-*   [Kotlin coroutines (⭐282)](https://github.com/vert-x3/vertx-lang-kotlin/tree/master/vertx-lang-kotlin-coroutines) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Vert.x support for Kotlin coroutines.
+*   [Reactive Streams (⭐49)](https://github.com/vert-x3/vertx-reactive-streams) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Vert.x Reactive Streams.
+*   [Vert.x Rx (⭐147)](https://github.com/vert-x3/vertx-rx) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Vert.x Reactive Extensions.
+*   [Vert.x Sync (⭐97)](https://github.com/vert-x3/vertx-sync) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Vert.x fiber support.
+*   [Kotlin coroutines (⭐296)](https://github.com/vert-x3/vertx-lang-kotlin/tree/master/vertx-lang-kotlin-coroutines) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Vert.x support for Kotlin coroutines.
 
 ### Vert.x Event Bus Clients
 
 *   [JavaScript](https://www.npmjs.com/package/vertx3-eventbus-client) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - JavaScript event bus client.
-*   [Rust (⭐11)](https://github.com/aesteve/vertx-eventbus-client-rs) - Event bus client for Rust applications through TCP.
+*   [Rust (⭐10)](https://github.com/aesteve/vertx-eventbus-client-rs) - Event bus client for Rust applications through TCP.
 
 ### Cluster Managers
 
-*   [Hazelcast Cluster Manager (⭐73)](https://github.com/vert-x3/vertx-hazelcast) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Hazelcast cluster manager.
-*   [Ignite Cluster Manager (⭐34)](https://github.com/vert-x3/vertx-ignite) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Ignite cluster manager.
-*   [Zookeeper Cluster Manager (⭐71)](https://github.com/vert-x3/vertx-zookeeper) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Zookeeper cluster manager.
+*   [Hazelcast Cluster Manager (⭐78)](https://github.com/vert-x3/vertx-hazelcast) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Hazelcast cluster manager.
+*   [Ignite Cluster Manager (⭐35)](https://github.com/vert-x3/vertx-ignite) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Ignite cluster manager.
+*   [Zookeeper Cluster Manager (⭐73)](https://github.com/vert-x3/vertx-zookeeper) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Zookeeper cluster manager.
 *   [Infinispan Cluster Manager (⭐14)](https://github.com/vert-x3/vertx-infinispan) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Infinispan cluster manager.
 
 ### Cloud Support
@@ -200,39 +195,39 @@
 
 ### Microservices
 
-*   [Service Discovery (⭐113)](https://github.com/vert-x3/vertx-service-discovery) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Service Discovery" height="16px"> - Vert.x Service Discovery.
-*   [Circuit Breaker (⭐59)](https://github.com/vert-x3/vertx-circuit-breaker) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Circuit Breaker" height="16px"> - Vert.x Circuit Breaker.
-*   [Service Discovery - Consul (⭐113)](https://github.com/vert-x3/vertx-service-discovery) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Service Discovery - Consul" height="16px"> - [Consul](https://www.consul.io/) extension to Vert.x Service Discovery.
-*   [Service Discovery - Docker links (⭐113)](https://github.com/vert-x3/vertx-service-discovery) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Service Discovery - Docker Links" height="16px"> - [Docker](https://www.docker.com/) extension to Vert.x Service Discovery.
-*   [Service Discovery - Kubernetes (⭐113)](https://github.com/vert-x3/vertx-service-discovery) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Service Discovery - Kubernetes" height="16px"> - [Kubernetes](http://kubernetes.io/) extension to Vert.x Service Discovery.
-*   [Service Discovery - Redis backend (⭐113)](https://github.com/vert-x3/vertx-service-discovery) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Service Discovery - Redis backend" height="16px"> - [Redis](http://redis.io/) storage backend for Vert.x Service Discovery.
+*   [Service Discovery (⭐115)](https://github.com/vert-x3/vertx-service-discovery) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Service Discovery" height="16px"> - Vert.x Service Discovery.
+*   [Circuit Breaker (⭐63)](https://github.com/vert-x3/vertx-circuit-breaker) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Circuit Breaker" height="16px"> - Vert.x Circuit Breaker.
+*   [Service Discovery - Consul (⭐115)](https://github.com/vert-x3/vertx-service-discovery) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Service Discovery - Consul" height="16px"> - [Consul](https://www.consul.io/) extension to Vert.x Service Discovery.
+*   [Service Discovery - Docker links (⭐115)](https://github.com/vert-x3/vertx-service-discovery) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Service Discovery - Docker Links" height="16px"> - [Docker](https://www.docker.com/) extension to Vert.x Service Discovery.
+*   [Service Discovery - Kubernetes (⭐115)](https://github.com/vert-x3/vertx-service-discovery) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Service Discovery - Kubernetes" height="16px"> - [Kubernetes](http://kubernetes.io/) extension to Vert.x Service Discovery.
+*   [Service Discovery - Redis backend (⭐115)](https://github.com/vert-x3/vertx-service-discovery) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Service Discovery - Redis backend" height="16px"> - [Redis](http://redis.io/) storage backend for Vert.x Service Discovery.
 
 ### Service Factory
 
-*   [Service Factory (⭐20)](https://github.com/vert-x3/vertx-service-factory) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Vert.x Service Factory.
+*   [Service Factory (⭐21)](https://github.com/vert-x3/vertx-service-factory) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Vert.x Service Factory.
 *   [Maven Service Factory (⭐12)](https://github.com/vert-x3/vertx-maven-service-factory) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Maven Vert.x Service Factory.
 *   [HTTP Service Factory (⭐9)](https://github.com/vert-x3/vertx-http-service-factory) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Vert.x HTTP Service Factory.
 
 ### Testing
 
-*   [Vert.x Unit (⭐33)](https://github.com/vert-x3/vertx-unit) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Async polyglot unit testing for Vert.x.
-*   [Vert.x JUnit5 (⭐41)](https://github.com/vert-x3/vertx-junit5) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Async unit testing for Vert.x with junit5.
-*   [Vert.x WireMongo (⭐11)](https://github.com/noenv/vertx-wiremongo) - Lightweight MongoDB mocking for Vert.x
+*   [Vert.x Unit (⭐32)](https://github.com/vert-x3/vertx-unit) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Async polyglot unit testing for Vert.x.
+*   [Vert.x JUnit5 (⭐44)](https://github.com/vert-x3/vertx-junit5) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Async unit testing for Vert.x with junit5.
+*   [Vert.x WireMongo (⭐10)](https://github.com/noenv/vertx-wiremongo) - Lightweight MongoDB mocking for Vert.x
 
 ### Development Tools
 
-*   [Vert.x shell (⭐33)](https://github.com/vert-x3/vertx-shell)  <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Allows for interaction with Vert.x from the command line.
+*   [Vert.x shell (⭐38)](https://github.com/vert-x3/vertx-shell)  <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Allows for interaction with Vert.x from the command line.
 
 ### Distribution
 
-*   [Vert.x Stack (⭐121)](https://github.com/vert-x3/vertx-stack) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Vert.x + the endorsed modules.
+*   [Vert.x Stack (⭐120)](https://github.com/vert-x3/vertx-stack) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Vert.x + the endorsed modules.
 
 ### Examples
 
-*   [Vert.x blueprint - Microservice application (⭐759)](https://github.com/sczyh30/vertx-blueprint-microservice) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - The official Vert.x blueprint showing how to build a complex microservice application.
-*   [Vert.x blueprint - Job Queue (⭐139)](https://github.com/sczyh30/vertx-blueprint-job-queue) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - The official Vert.x blueprint showing how to build a distributed job processing application.
+*   [Vert.x blueprint - Microservice application (⭐776)](https://github.com/sczyh30/vertx-blueprint-microservice) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - The official Vert.x blueprint showing how to build a complex microservice application.
+*   [Vert.x blueprint - Job Queue (⭐140)](https://github.com/sczyh30/vertx-blueprint-job-queue) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - The official Vert.x blueprint showing how to build a distributed job processing application.
 *   [Vert.x blueprint - TODO backend (⭐180)](https://github.com/sczyh30/vertx-blueprint-todo-backend) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - The official Vert.x blueprint showing how to build a backend for a TODO application.
-*   [Vert.x examples (⭐3.5k)](https://github.com/vert-x3/vertx-examples) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - The official Vert.x examples including web examples, how to use the official database clients, etc.
+*   [Vert.x examples (⭐3.6k)](https://github.com/vert-x3/vertx-examples) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - The official Vert.x examples including web examples, how to use the official database clients, etc.
 
 ## [19. Awesome Stacks](/content/stackshareio/awesome-stacks/week/README.md)
 
@@ -256,7 +251,7 @@
 
 ### Apps / Outline Processor Markup Language
 
-*   [Readrops (⭐251)](https://github.com/readrops/Readrops) <sup>[690](https://t.me/s/aboutrss/690)</sup> [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=com.readrops.app)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/readrops/Readrops)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+*   [Readrops (⭐356)](https://github.com/readrops/Readrops) <sup>[690](https://t.me/s/aboutrss/690)</sup> [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=com.readrops.app)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/readrops/Readrops)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
 ### Self Hosted Readers / Outline Processor Markup Language
 
@@ -295,19 +290,29 @@
 
 *   For PHP coders <sup>[454](https://t.me/s/aboutrss/454), [714](https://t.me/s/aboutrss/714)</sup>
 
-## [21. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
+## [21. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+
+### Projects Using Vue.js / Apps/Websites
+
+*   [Travel\_Smart](https://travelsmart.netlify.app/) - A tour-based web app that uses Vue + Vue Router + Vuex.
+
+### Components & Libraries / UI Components
+
+*   [vue-ins-progress-bar (⭐332)](https://github.com/meloalright/vue-ins-progress-bar) - A Vue component of ins-style progress bar 一款 ins 风格的 vue 进度条组件
+
+## [22. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
 
 ### Other
 
 *   [Bottleneck](https://en.wikipedia.org/wiki/Bottleneck#Computing) - A central part of a network/application that significantly limits throughput/performance and should ideally be eliminated.
 
-## [22. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
+## [23. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
 
 ### Golang
 
 *   [codeometer (⭐7)](https://github.com/rafael-santiago/codeometer) - It measures your code in real world units of measurement also comparing the evaluated distance to famous places and monuments. Codeometer supports plain code files, zipped files and remote git repos. Doing all stuff as a straightforward command line tool or as a web tool through its embedded httpd (tls supported).
 
-## [23. Awesome Arch](/content/PandaFoss/Awesome-Arch/week/README.md)
+## [24. Awesome Arch](/content/PandaFoss/Awesome-Arch/week/README.md)
 
 ### Arch-based distros / Desktop
 
@@ -317,13 +322,13 @@
 
 *   [KaOS](https://kaosx.us/) - KaOS is an independent distribution focused on Qt and KDE.
 
-## [24. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [25. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Back-end API / Playground
 
-*   :octocat: [LoopBack 4 (⭐4.9k)](https://github.com/strongloop/loopback-next) - A highly extensible Node.js and TypeScript framework for building APIs and microservices. :rocket: (see also: <https://loopback.io/>)
+*   :octocat: [LoopBack 4 (⭐5k)](https://github.com/strongloop/loopback-next) - A highly extensible Node.js and TypeScript framework for building APIs and microservices. :rocket: (see also: <https://loopback.io/>)
 
-## [25. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [26. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Application Templates
 
@@ -334,13 +339,13 @@
 
 *   [EPPlus (⭐1.8k)](https://github.com/EPPlusSoftware/EPPlus) - Create advanced Excel spreadsheets using .NET.
 
-## [26. Awesome Waves](/content/msmolyakov/awesome-waves/week/README.md)
+## [27. Awesome Waves](/content/msmolyakov/awesome-waves/week/README.md)
 
 ### Articles
 
 *   [How to add crypto payments to your online store?](https://medium.com/wavesprotocol/how-to-add-crypto-payments-to-your-online-store-b528b739cdfb) - How to add crypto payment options to your online store with the help of Pay Crypto Widget developed in the Waves ecosystem.
 
-## [27. awsm.fish](/content/jorgebucaran/awsm.fish/week/README.md)
+## [28. awsm.fish](/content/jorgebucaran/awsm.fish/week/README.md)
 
 ### Official Resources
 
@@ -358,25 +363,25 @@
 *   [Virtualfish (⭐1k)](https://github.com/adambrenecki/virtualfish) - Virtualenv wrapper
 *   [Apple Touchbar (⭐90)](https://github.com/rodrigobdz/fish-apple-touchbar) - Customize your [Touch Bar](https://developer.apple.com/design/human-interface-guidelines/macos/touch-bar/touch-bar-overview) in iTerm2
 
-## [28. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [29. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Asset Management
 
-*   🍰 [AssetMix plugin (⭐31)](https://github.com/ishanvyas22/asset-mix) - Provides integration with [Laravel Mix](https://laravel-mix.com) asset compilation.
+*   [AssetMix plugin (⭐33)](https://github.com/ishanvyas22/asset-mix) - Provides integration with [Laravel Mix](https://laravel-mix.com) asset compilation.
 
-## [29. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
+## [30. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
 
 ### IR Tools Collection / Memory Analysis Tools
 
 *   [AVML (⭐799)](https://github.com/microsoft/avml) - A portable volatile memory acquisition tool for Linux.
 
-## [30. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
+## [31. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
 
 ### Python / Data Sources
 
 *   [bbgbridge (⭐1)](https://github.com/ran404/bbgbridge) - Easy to use Bloomberg Desktop API wrapper for Python.
 
-## [31. Awesome Minecraft](/content/bs-community/awesome-minecraft/week/README.md)
+## [32. Awesome Minecraft](/content/bs-community/awesome-minecraft/week/README.md)
 
 ### Softwares / Libraries
 
@@ -384,13 +389,13 @@
 *   [MCProtocolLib (⭐718)](https://github.com/Steveice10/MCProtocolLib) - A simple library for communicating with a Minecraft client/server, written in Java.
 *   [node-minecraft-protocol (⭐1.2k)](https://github.com/PrismarineJS/node-minecraft-protocol) - A NodeJS library to parse and serialize minecraft packets, plus authentication and encryption.
 
-## [32. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [33. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### UI
 
 *   [react-native-rating-element ★8 (⭐20)](https://github.com/ui-ninja/react-native-rating-element) - A react native rating system supporting: decimal point's rating, direction aware icons like bottom to top or right to left etc, custom icons from Ionicons, custom images and record rating given by users.
 
-## [33. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/week/README.md)
+## [34. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/week/README.md)
 
 ### External Services
 
@@ -399,42 +404,36 @@
 
 ### GitHub
 
-*   [productive-box (⭐494)](https://github.com/maxam2017/productive-box) - Update a pinned gist to contain your most productive hours during the day.
+*   [productive-box (⭐511)](https://github.com/maxam2017/productive-box) - Update a pinned gist to contain your most productive hours during the day.
 
-## [34. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+## [35. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
 ### Resources / Educational
 
 *   [Django Girls Tutorial](https://tutorial.djangogirls.org/en/) - Use function-based views to build a blog app.
 *   [LearnDjango](https://learndjango.com/) - Tutorials and premium courses on Django and Django REST Framework.
 *   [TestDriven](https://testdriven.io/blog/) - Multiple Django-specific tutorials on topics like Docker, payments, and more.
-*   [Django Styleguide (⭐5k)](https://github.com/HackSoftware/Django-Styleguide) - Styleguide for Django with best practices and examples.
+*   [Django Styleguide (⭐5.2k)](https://github.com/HackSoftware/Django-Styleguide) - Styleguide for Django with best practices and examples.
 
 ### Resources / Podcasts
 
 *   [Running in Production](https://runninginproduction.com/tags/django) - Focused on tech stacks with many episodes specifically on Django.
 
-## [35. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [36. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Chart
 
 *   [ChartView (⭐5.3k)](https://github.com/AppPear/ChartView) - Swift package for displaying beautiful charts effortlessly
 
-## [36. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
+## [37. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
 ### Deployment / Code Coverage
 
-*   [Deploy VS Code Extension to Visual Studio Marketplace or the Open VSX Registry (⭐134)](https://github.com/HaaLeo/publish-vscode-extension)
+*   [Deploy VS Code Extension to Visual Studio Marketplace or the Open VSX Registry (⭐203)](https://github.com/HaaLeo/publish-vscode-extension)
 
 ### Deployment / Kubernetes
 
-*   [Kustomize Kubernetes Config YAMLs (⭐36)](https://github.com/karancode/kustomize-github-action)
-
-## [37. Game Datasets](/content/leomaurodesenv/game-datasets/week/README.md)
-
-### Dataset / Web
-
-*   [Animal Crossing New Horizons NookPlaza Catalog](https://www.kaggle.com/jessicali9530/animal-crossing-new-horizons-nookplaza-dataset) - Comprehensive inventory of items, villagers, clothing, fish/bugs etc.
+*   [Kustomize Kubernetes Config YAMLs (⭐45)](https://github.com/karancode/kustomize-github-action)
 
 ## [38. Awesome Gpt3](/content/elyase/awesome-gpt3/week/README.md)
 
@@ -538,7 +537,7 @@
 
 ### Integrations / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ckeditor5-angular (⭐201)](https://github.com/ckeditor/ckeditor5-angular) - An official CKEditor 5 rich text editor component for Angular 2+.
+*   [ckeditor5-angular (⭐207)](https://github.com/ckeditor/ckeditor5-angular) - An official CKEditor 5 rich text editor component for Angular 2+.
 *   [ckeditor4-angular (⭐55)](https://github.com/ckeditor/ckeditor4-angular) - An official CKEditor 4 rich text editor component for Angular 2+.
 
 ## [40. Public Apis](/content/public-apis/public-apis/week/README.md)
@@ -575,11 +574,11 @@
 
 ### 2D/3D Rendering engines / Datagrids / tables
 
-*   [Grid.Blazor (⭐687)](https://github.com/gustavnavar/Grid.Blazor) - ![stars](https://img.shields.io/github/stars/gustavnavar/Grid.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/gustavnavar/Grid.Blazor?style=flat-square\&cacheSeconds=86400) Grid component with CRUD forms for Blazor and ASP.NET MVC, supporting filtering, sorting, searching, paging, subgrids and others ([Demo](http://gridblazor.azurewebsites.net)).
+*   [Grid.Blazor (⭐706)](https://github.com/gustavnavar/Grid.Blazor) - ![stars](https://img.shields.io/github/stars/gustavnavar/Grid.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/gustavnavar/Grid.Blazor?style=flat-square\&cacheSeconds=86400) Grid component with CRUD forms for Blazor and ASP.NET MVC, supporting filtering, sorting, searching, paging, subgrids and others ([Demo](http://gridblazor.azurewebsites.net)).
 
 ### Tools & Utilities / Others
 
-*   [Blazm.Bluetooth (⭐80)](https://github.com/EngstromJimmy/Blazm.Bluetooth) - ![last commit](https://img.shields.io/github/last-commit/EngstromJimmy/Blazm.Bluetooth?style=flat-square\&cacheSeconds=86400) A Blazor library for connecting to devices using Bluetooth.
+*   [Blazm.Bluetooth (⭐85)](https://github.com/EngstromJimmy/Blazm.Bluetooth) - ![last commit](https://img.shields.io/github/last-commit/EngstromJimmy/Blazm.Bluetooth?style=flat-square\&cacheSeconds=86400) A Blazor library for connecting to devices using Bluetooth.
 
 ## [42. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
@@ -610,7 +609,7 @@
 
 ### Extensions
 
-*   [next-deploy (⭐46)](https://github.com/lone-cloud/next-deploy) - 🚀 Effortless deployment to AWS and GitHub Pages.
+*   [next-deploy (⭐48)](https://github.com/lone-cloud/next-deploy) - 🚀 Effortless deployment to AWS and GitHub Pages.
 
 ## [45. Awesome Material Ui](/content/nadunindunil/awesome-material-ui/week/README.md)
 
@@ -628,12 +627,12 @@
 
 ### Graph Machine Learning / Others
 
-*   [pytorch\_geometric\_temporal (⭐2.5k)](https://github.com/benedekrozemberczki/pytorch_geometric_temporal) - Temporal Extension Library for PyTorch Geometric. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
+*   [pytorch\_geometric\_temporal (⭐2.6k)](https://github.com/benedekrozemberczki/pytorch_geometric_temporal) - Temporal Extension Library for PyTorch Geometric. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
 
 ### Visualization / Map
 
 *   [folium](https://python-visualization.github.io/folium/quickstart.html#Getting-Started) - Makes it easy to visualize data on an interactive open street map
-*   [geemap (⭐3.2k)](https://github.com/giswqs/geemap) - Python package for interactive mapping with Google Earth Engine (GEE)
+*   [geemap (⭐3.4k)](https://github.com/giswqs/geemap) - Python package for interactive mapping with Google Earth Engine (GEE)
 
 ### Deployment / NLP
 
@@ -654,7 +653,7 @@
 
 ### Tools
 
-*   [WebStation SYSMON (⭐190)](https://github.com/t0xic0der/sysmon) - An intuitive remotely-accessible system performance monitoring and task management tool for servers  and headless Raspberry Pi setups.
+*   [WebStation SYSMON (⭐191)](https://github.com/t0xic0der/sysmon) - An intuitive remotely-accessible system performance monitoring and task management tool for servers  and headless Raspberry Pi setups.
 
 ## [50. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -676,21 +675,7 @@
 
 *   [Airstream Basecamp](https://www.airstream.com/travel-trailers/airstream-basecamp-3d-experience/) - Travel trailer visualizer.
 
-## [52. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
-
-### Projects Using Vue.js / Apps/Websites
-
-*   [Travel\_Smart](https://travelsmart.netlify.app/) - A tour-based web app that uses Vue + Vue Router + Vuex.
-
-### Components & Libraries / UI Components
-
-*   [vue-ins-progress-bar (⭐332)](https://github.com/meloalright/vue-ins-progress-bar) - A Vue component of ins-style progress bar 一款 ins 风格的 vue 进度条组件
-*   [vue-horizontal-timeline (⭐100)](https://github.com/guastallaigor/vue-horizontal-timeline) - Just a simple horizontal timeline component made with Vue.js.
-*   [vue-image-kit (⭐10)](https://github.com/guastallaigor/vue-image-kit) - Vue.js Image Kit Component with Lazy Load built in and Responsive Images.
-*   [vue-paycard (⭐106)](https://github.com/guastallaigor/vue-paycard) - Credit card component made with Vue.js.
-*   [vue-list-picker (⭐15)](https://github.com/guastallaigor/vue-list-picker) - Just a simple list picker component made with Vue.js.
-
-## [53. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
+## [52. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
 
 ### Papers
 
@@ -706,13 +691,13 @@
 
 ### Time Series Data
 
-*   🌟 [Personae (⭐1.3k)](https://github.com/Ceruleanacg/Personae) - Implements and environment of Deep Reinforcement Learning & Supervised Learning for Quantitative Trading.
+*   🌟 [Personae (⭐1.4k)](https://github.com/Ceruleanacg/Personae) - Implements and environment of Deep Reinforcement Learning & Supervised Learning for Quantitative Trading.
 
 ### Articles / Plugins
 
-*   [The-Economist (⭐3.5k)](https://github.com/nailperry-zd/The-Economist) - The Economist.
+*   [The-Economist (⭐3.6k)](https://github.com/nailperry-zd/The-Economist) - The Economist.
 
-## [54. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
+## [53. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
 
 ### Manufacturers
 
@@ -733,7 +718,7 @@
 *   [OSRF Gazebo](http://gazebosim.org/) - OGRE-based general-purpose robotic simulator, ROS/ROS 2 compatible.
     *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐1.2k)](https://github.com/osrf/gazebo) ![](https://img.shields.io/badge/ROS-2-34aec5?style=flat-square\&logo=ros)
 
-## [55. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [54. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Canvas
 
@@ -746,19 +731,19 @@
 *   [ckeditor4-react (⭐94)](https://github.com/ckeditor/ckeditor4-react) - An official CKEditor 4 rich text editor wrapper.
 *   [ckeditor5-react (⭐415)](https://github.com/ckeditor/ckeditor5-react) - An official CKEditor 5 rich text editor wrapper.
 
-## [56. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/week/README.md)
+## [55. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/week/README.md)
 
 ### Image Optimizers / Meetups
 
-*   [Tapnesh-CLI (⭐19)](https://github.com/JafarAkhondali/Tapnesh) - Tapnesh is a CLI tool that will optimize all your images in parallel easily and efficiently!
+*   [Tapnesh-CLI (⭐21)](https://github.com/JafarAkhondali/Tapnesh) - Tapnesh is a CLI tool that will optimize all your images in parallel easily and efficiently!
 
-## [57. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [56. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Version Control
 
 *   [Gitfox](https://www.gitfox.app) - Commit faster, improve your code quality with superior diffs - and look good doing it. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/gitfox/id1475511261)
 
-## [58. Awesome Chip 8](/content/tobiasvl/awesome-chip-8/week/README.md)
+## [57. Awesome Chip 8](/content/tobiasvl/awesome-chip-8/week/README.md)
 
 ### Community
 
@@ -768,22 +753,22 @@
 
 *   [chip8-test-rom (⭐189)](https://github.com/corax89/chip8-test-rom) - corax89's CHIP-8 test program, which tests most instructions for correct (Super-CHIP compliant) behavior.
 
-## [59. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [58. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Other Testing
 
-*   [SnapshotTesting (⭐3.7k)](https://github.com/pointfreeco/swift-snapshot-testing) - Delightful Swift snapshot testing.
+*   [SnapshotTesting (⭐3.8k)](https://github.com/pointfreeco/swift-snapshot-testing) - Delightful Swift snapshot testing.
 
 ### TextField & TextView / Collection View Layout
 
 *   [Streamoji (⭐253)](https://github.com/getstream/Streamoji) - Custom emoji rendering library with support for GIFs and images, UITextView extension.
 
-## [60. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
+## [59. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
 ### Reading
 
 *   [Wardley maps - Topographical intelligence in business](https://medium.com/wardleymaps) - Creative Commons book by [Simon Wardley](https://twitter.com/swardley).
-    *   E-book - PDF and Kindle [downloads (⭐284)](https://github.com/andrewharmellaw/wardley-maps-book/releases).
+    *   E-book - PDF and Kindle [downloads (⭐291)](https://github.com/andrewharmellaw/wardley-maps-book/releases).
     *   Audiobook - MP3 [downloads](https://feststelltaste.github.io/wardley-maps-audiobook/).
     *   [Spanish Translation](https://mapasdewardley.com/estrategia/el-libro-de-simon-wardley/) - Mapas de Wardley. El uso de la inteligencia topográfica en la estrategia empresarial.
 *   [The Art of Strategy](https://medium.com/@erik_schon/the-art-of-strategy-ac4165c0c085) - Sun Tzu, Boyd & Wardley on situational awareness, OODA "Loops" and Wardley mapping by [Erik Schön](https://twitter.com/erik_schon). [PDF](https://leanpub.com/TheArtOfStrategy)/[Paperback](https://www.amazon.com/ART-STRATEGY-Towards-Business-Agility/dp/B086PTDZT1).
@@ -793,20 +778,20 @@
 *   [How to Introduce Wardley Mapping to Different Strata of the Organization](https://learnwardleymapping.com/2020/07/22/how-to-introduce-wardley-mapping-to-different-strata-of-the-organization/) - What is the best way to introduce Wardley Mapping to different groups? Jul 22, 2020.
 *   [Thoughts on 'value' in the Value Chain](https://www.abusedbits.com/2020/07/thoughts-on-value-in-value-chain.html) - It is important to understand the need and outcome. It is vital to understand the value desired. Jul 17, 2020.
 
-## [61. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
+## [60. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
 
 ### Additional Resources
 
 *   [bitcoin-resources.com](https://bitcoin-resources.com/) Meta-list of Bitcoin resources, from books, articles, to podcasts.
 *   [Jameson Lopp Bitcoin Resource List](https://www.lopp.net/bitcoin-information.html) Very detailed curated Bitcoin resource list and meta-list by J. Lopp
 
-## [62. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+## [61. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### Software / Continuous Integration & Continuous Deployment
 
 *   [werf](https://werf.io/) - Open Source CI/CD tool for building Docker images and deploying to Kubernetes via GitOps. ([Source Code (⭐4.1k)](https://github.com/werf/werf)) `Apache-2.0` `Go`
 
-## [63. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
+## [62. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
 ### Communication and Coordination
 
@@ -829,7 +814,7 @@
 
 *   [ansible-role-nfs (⭐201)](https://github.com/geerlingguy/ansible-role-nfs) - Installs NFS utilities on RedHat/CentOS or Debian/Ubuntu.
 
-## [64. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+## [63. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
 ### Frontend
 
@@ -847,21 +832,21 @@
 
 *   [tl;dr sec](https://tldrsec.com/). A weekly distillation of the best security tools, blog posts, and conference talks, covering AppSec, cloud and container security, DevSecOps, and more.
 
-## [65. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
+## [64. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
 
 ### Applications
 
 *   [Element (formerly Riot)](https://element.io): Collaboration client for the web. Chat, VOIP video, file transfer, end-to-end crypto.
 *   [reep.io ☠️](https://reep.io): Transfer files directly to another browser, your peer will be able to download the file directly from you.
 
-## [66. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [65. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### XML
 
 *   [elixir-map-to-xml (⭐5)](https://github.com/gunnar2k/elixir-map-to-xml) - Converts an Elixir map to an XML document.
-*   [elixir-xml-to-map (⭐54)](https://github.com/homanchou/elixir-xml-to-map) - Creates an Elixir Map data structure from an XML string.
+*   [elixir-xml-to-map (⭐52)](https://github.com/homanchou/elixir-xml-to-map) - Creates an Elixir Map data structure from an XML string.
 
-## [67. Awesome Cdk](/content/kalaiser/awesome-cdk/week/README.md)
+## [66. Awesome Cdk](/content/kalaiser/awesome-cdk/week/README.md)
 
 ### Construct Libraries / APIs
 

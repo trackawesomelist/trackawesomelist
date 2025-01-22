@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 15, 2021
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -37,35 +37,29 @@
 
 *   [DavidMellul/Kotlin-Publish-Subscribe (⭐21)](https://github.com/DavidMellul/Kotlin-Publish-Subscribe) - Intuitive and powerful human-readable Kotlin DSL for IPCs & turning anything into a message receiver / broadcaster
 
-## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Projects Using Vue.js / Open Source
-
-*   [NuxTube (⭐16)](https://github.com/joek85/NuxTube) - YouTube app for privacy, made with NuxtJs.
-
-## [5. Awesome Icons](/content/notlmn/awesome-icons/README.md)
+## [4. Awesome Icons](/content/notlmn/awesome-icons/README.md)
 
 ### General
 
-*   [Radix Icons (⭐2.1k)](https://github.com/radix-ui/icons) - A crisp set of 15×15 icons designed by the Modulz team. ([Website](https://icons.modulz.app/))
+*   [Radix Icons (⭐2.2k)](https://github.com/radix-ui/icons) - A crisp set of 15×15 icons designed by the WorkOS team. ([Website](https://www.radix-ui.com/icons/))
 
-## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Data Visualization on Maps
 
 *   [maps.stamen.com](http://maps.stamen.com/) - Free map tiles and tile hosting.
 
-## [7. Awesome React](/content/enaqx/awesome-react/README.md)
+## [6. Awesome React](/content/enaqx/awesome-react/README.md)
 
 ### React Styling
 
-*   [vanilla-extract (⭐9.2k)](https://github.com/seek-oss/vanilla-extract) - Zero-runtime Stylesheets-in-TypeScript
+*   [vanilla-extract (⭐9.6k)](https://github.com/seek-oss/vanilla-extract) - Zero-runtime Stylesheets-in-TypeScript
 
-## [8. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [7. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### CLI Builders
 
-*   [Athena Console (⭐16)](https://github.com/athena-framework/console) - Allows for the creation of CLI based commands
+*   [Athena Console (⭐18)](https://github.com/athena-framework/console) - Allows for the creation of CLI based commands
 
 ### HTML/XML Parsing
 
@@ -73,22 +67,22 @@
 
 ### Third-party APIs
 
-*   [mollie.cr (⭐18)](https://github.com/wout/mollie.cr) - [Mollie](https://www.mollie.com/en/) Payments API wrapper (Creditcard, PayPal, Apple Pay, Sofort, Klarna, ...)
+*   [mollie.cr (⭐19)](https://github.com/wout/mollie.cr) - [Mollie](https://www.mollie.com/en/) Payments API wrapper (Creditcard, PayPal, Apple Pay, Sofort, Klarna, ...)
 
-## [9. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
+## [8. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
 ### Software / Backups
 
 *   [Backupninja](https://0xacab.org/liberate/backupninja) - Lightweight, extensible meta-backup system, provides a centralized way to configure and coordinate many different backup utilities. `GPL-2.0` `Shell`
 
-## [10. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
+## [9. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
 ### Platforms and Software Resources / Environmental and Climate Planning Tools and Platforms
 
 *   [Temperate](https://icleiusa.org/temperate-adaptation-planner/) - This user-friendly tool was developed by Azavea in partnership with ICLEI USA, with the primary purpose of facilitating a data-informed adaptation planning process in small-to-midsize communities with little to no devoted resources to plan for climate change impacts.
-*   [City Energy Analyst](https://cityenergyanalyst.com/) - A series of [open-source (⭐185)](https://github.com/architecture-building-systems/CityEnergyAnalyst) tools for the analysis and optimization of urban energy systems.
+*   [City Energy Analyst](https://cityenergyanalyst.com/) - A series of [open-source (⭐198)](https://github.com/architecture-building-systems/CityEnergyAnalyst) tools for the analysis and optimization of urban energy systems.
 
-## [11. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+## [10. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ### Social Media Tools / Twitter
 

@@ -27,16 +27,16 @@
 ### Packages / Mad science
 
 *   [peerflix (⭐6.2k)](https://github.com/mafintosh/peerflix) - Streaming torrent client.
-*   [peerwiki (⭐313)](https://github.com/mafintosh/peerwiki) - All of Wikipedia on BitTorrent.
+*   [peerwiki (⭐317)](https://github.com/mafintosh/peerwiki) - All of Wikipedia on BitTorrent.
 
 ### Packages / Command-line apps
 
-*   [is-up (⭐387)](https://github.com/sindresorhus/is-up) - Check whether a website is up or down.
-*   [bcat (⭐338)](https://github.com/kessler/node-bcat) - Pipe command output to web browsers.
+*   [is-up (⭐388)](https://github.com/sindresorhus/is-up) - Check whether a website is up or down.
+*   [bcat (⭐341)](https://github.com/kessler/node-bcat) - Pipe command output to web browsers.
 
 ### Packages / Debugging / Profiling
 
-*   [stackman (⭐250)](https://github.com/watson/stackman) - Enhance an error stacktrace with code excerpts and other goodies.
+*   [stackman (⭐251)](https://github.com/watson/stackman) - Enhance an error stacktrace with code excerpts and other goodies.
 
 ### Packages / Build tools
 

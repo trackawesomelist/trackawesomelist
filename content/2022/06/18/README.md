@@ -49,64 +49,22 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Protovue (⭐191)](https://github.com/v1Labs/protovue) - A prototyping component library that helps designers and developers quickly scaffold an abstracted app layout.
-*   [Vue E-Store Templet (⭐179)](https://github.com/rash0/Vue-Ecom) - An e-commerce template build with vue/vuex/vue-router and bootstrap4.
-*   [VueSolitaire (⭐135)](https://github.com/silent-lad/VueSolitaire) - Solitaire (spider,klondike) implemented in Vue.js.
+*   [Vue E-Store Templet (⭐188)](https://github.com/rash0/Vue-Ecom) - An e-commerce template build with vue/vuex/vue-router and bootstrap4.
 *   [Afterman (⭐49)](https://github.com/itsalb3rt/afterman) - 🌕 Create beautiful docs in markdown and HTML from postman collection. Using Quasar Framework
-*   [Pexelry (⭐8)](https://github.com/Junior-Developer/Pexelry) - Application that leverages the pexels api to enable you find beautiful photos and pictures.
 
 ### Projects Using Vue.js / Apps/Websites
 
-*   [CodeDependencyScanner (⭐37)](https://github.com/NeutroniumCore/CodeDependencyScanner/) - A C# desktop application that display .Net assembly code dependencies build with Vue, Neutronium and D3.js.
 *   [Fanmio](https://fanmio.com) - Meet your favorite celebrities through personal video experiences on Fanmio
-
-### Components & Libraries / Frameworks
-
-*   [superBVue (⭐14)](https://github.com/superbvue/SuperBVue) - A Vue 3 UI Components for Web is based on bootstrap v5
-
-### Components & Libraries / UI Layout
-
-*   [vue-splitter-pane (⭐29)](https://github.com/venkatperi/vue-splitter-pane) - A Vuejs component which renders two slots in a adjustable split arrangement (vertical or horizontal).
 
 ### Components & Libraries / UI Components
 
-*   [@myena/vue-table (⭐28)](https://github.com/myENA/vue-table) - Table Components for Client/Server data handling. Filter, sort, paginate, group, expanding details row. Highly customizable via slots for filter, headers, column, pagination, details row.
-*   [vue-topmodal (⭐5)](https://github.com/adileo/vue-topmodal) - A fully customizable, easy to use, Vue.js modal component. (Responsive, Stackable, Scrollable, Animated)
-*   [vue-modal 🖼 (⭐29)](https://github.com/MelMacaluso/vue-modal) - Feed your objects array for multiple switchable modal content or quickly inline your content. A fully customizable vue modal component .
-*   [vue-simple-menu (⭐35)](https://github.com/RGRU/vue-simple-menu) - Simple menu component with a set of basic functionality, which is enough in 80% of cases
-*   [@innologica/vue-dropdown-menu (⭐84)](https://github.com/Innologica/vue-dropdown-menu) - Dropdown menu component for Vue. Any element can be dropdown trigger and anything can be dropped down content.
-*   [vue-split-carousel](https://github.com/Aaron00101010/vue-split-carousel) - A carousel component meanwhile display several carousel item, support vue 2 and vue 3.
-*   [vue-simple-calendar (⭐875)](https://github.com/richardtallent/vue-simple-calendar) - Flexbox-based Vue month calendar component; supports multi-day events, localization, holiday emoji, drag/drop. No dependencies.
-*   [vue2-calendar (⭐55)](https://github.com/Trekels/vue2-calendar) - A simple full calendar component aimed at being flexible and lightweight.
-*   [vue-star-rating (⭐658)](https://github.com/craigh411/vue-star-rating) - A simple, highly customizable star rating component ⭐️ ⭐️ ⭐️
-*   [vue-turnjs (⭐23)](https://github.com/Reidond/vue-turnjs) - A component library to add book experience to your app.
-*   [vue-advanced-chat (⭐1.6k)](https://github.com/antoine92190/vue-advanced-chat) - Feature-rich and fully customizable chat rooms component. Support files, images, videos, audio, emojis, customised actions, etc.
-*   [vue-wheel-picker (⭐15)](https://github.com/vanishmax/vue-wheel-picker) - Customizable Picker with 3D wheel and all gestures supported for Vue 2.
-*   [vue-input-facade (⭐182)](https://github.com/RonaldJerez/vue-input-facade) - A lightweight and dependency free input masking library created specific for Vue, originally a fork of the famous *vue-text-mask* but actively maintained and with lots of improvements after there.
-*   [vue-playlist (⭐28)](https://github.com/MishaPetrov/vue-playlist) - A lightweight vue (2.0) component with no dependencies that offers truly seamless html5 video playback. The one and only working solution for seamless video play done with vanilla JS. It takes an array of videos and stitches them together into a single video.
-*   [vue-context-menu-popup (⭐1)](https://github.com/Johnathan/vue-context-menu-popup) - Context Menu popup for Vue 2. Works on right click or can be triggered programmatically.
-
-### Components & Libraries / UI Utilities
-
-*   [v-pagy (⭐14)](https://github.com/trandaison/v-pagy) - A lightweight and customizable Bootstrap Pagination for Vue.
-*   [vue-typed-js (⭐464)](https://github.com/Orlandster1998/vue-typed-js) Typed.js integration to easily create typing animations.
-*   [vue-currency-filter (⭐247)](https://github.com/mazipan/vue-currency-filter) - Lightweight and Customizable Vue 2 Currency Filter.
-
-### Components & Libraries / Utilities
-
-*   [vue-local-storage-decorator (⭐19)](https://github.com/vip30/vue-local-storage-decorator) - Persist data by using local storage in decorator format
-*   [vue-ya-stash (⭐17)](https://github.com/qgp9/vue-ya-stash) - Yet Another stash storage with update/patch event emitters similar with v-bind.sync
-*   [vue-aimg-loader (⭐8)](https://github.com/chenxinan/vue-aimg-loader) - A easy way to use image in Vue template without write css.
-*   [vue-phoenix (⭐12)](https://github.com/vip30/vue-phoenix) - Elixir Phoenix Web Socket implementation for vuejs. Also provides typescript decorator for better use.
+*   [vue-simple-calendar (⭐892)](https://github.com/richardtallent/vue-simple-calendar) - Flexbox-based Vue month calendar component; supports multi-day events, localization, holiday emoji, drag/drop. No dependencies.
+*   [vue-advanced-chat (⭐1.8k)](https://github.com/antoine92190/vue-advanced-chat) - Feature-rich and fully customizable chat rooms component. Support files, images, videos, audio, emojis, customised actions, etc.
+*   [vue-input-facade (⭐184)](https://github.com/RonaldJerez/vue-input-facade) - A lightweight and dependency free input masking library created specific for Vue, originally a fork of the famous *vue-text-mask* but actively maintained and with lots of improvements after there.
 
 ### Components & Libraries / Integrations
 
-*   [vue-cli-plugin-auto-alias (⭐3)](https://github.com/BryanAdamss/vue-cli-plugin-auto-alias) - Vue CLI Plugin to automatically sets alias
-*   [vue-cli-plugin-chrome-extension-cli (⭐292)](https://github.com/sanyu1225/vue-cli-plugin-chrome-extension-cli) - Vue CLI Plugin generate chrome extension template
-
-### Components & Libraries / Dev Tools
-
-*   [bruit-io (⭐65)](https://github.com/Moventes/bruit.io) - Collect feedback with screenshot and technical data and post them to an API like [bruit.io](https://bruit.io).
+*   [vue-cli-plugin-chrome-extension-cli (⭐303)](https://github.com/sanyu1225/vue-cli-plugin-chrome-extension-cli) - Vue CLI Plugin generate chrome extension template
 
 ## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -124,14 +82,14 @@
 
 ### HTTP Servers / Clack plugins
 
-*   [tiny-routes (⭐15)](https://github.com/jeko2000/tiny-routes) -  A tiny routing library for Common Lisp targeting Clack. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
+*   [tiny-routes (⭐16)](https://github.com/jeko2000/tiny-routes) -  A tiny routing library for Common Lisp targeting Clack. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
 ## [8. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### RPC
 
-*   [gRPC (⭐4.1k)](https://github.com/grpc/grpc-dotnet)  An RPC library and framework for .NET Core. Read more about it on [Docs Microsoft](https://docs.microsoft.com/en-us/aspnet/core/grpc)
-*   [CoreRPC (⭐80)](https://github.com/kekekeks/CoreRPC) - Extensible library for WCF-like RPC targeting netstandard1.3. Compatible with .NET, Mono and .NET Core.
+*   [gRPC (⭐4.3k)](https://github.com/grpc/grpc-dotnet)  An RPC library and framework for .NET Core. Read more about it on [Docs Microsoft](https://docs.microsoft.com/en-us/aspnet/core/grpc)
+*   [CoreRPC (⭐83)](https://github.com/kekekeks/CoreRPC) - Extensible library for WCF-like RPC targeting netstandard1.3. Compatible with .NET, Mono and .NET Core.
 
 ## [9. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -143,7 +101,7 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-optimizer (⭐33)](https://github.com/vite-plugin/vite-plugin-optimizer) - Manually Pre-Bundling.
+*   [vite-plugin-optimizer (⭐36)](https://github.com/vite-plugin/vite-plugin-optimizer) - Manually Pre-Bundling.
 
 ---
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 08, 2020
 
-13 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -35,11 +35,11 @@
 
 ### Miscellaneous
 
-*   🍰 [Ajax plugin (⭐58)](https://github.com/dereuromark/cakephp-ajax) - A plugin to ease handling AJAX requests.
+*   [Ajax plugin (⭐56)](https://github.com/dereuromark/cakephp-ajax) - A plugin to ease handling AJAX requests.
 
 ### Templating
 
-*   🍰 [Meta plugin (⭐7)](https://github.com/dereuromark/cakephp-meta) - Makes handling meta tags and SEO-relevant HTML markup DRY and easy.
+*   [Meta plugin (⭐7)](https://github.com/dereuromark/cakephp-meta) - Makes handling meta tags and SEO-relevant HTML markup DRY and easy.
 
 ## [4. Learn to Program](/content/karlhorky/learn-to-program/README.md)
 
@@ -67,13 +67,7 @@
 *   [DeepChem (⭐5k)](https://github.com/deepchem/deepchem) - Deep learning library for Chemistry based on Tensorflow
 *   [pytorch-geometric](https://pytorch-geometric.readthedocs.io/en/latest/) - A PyTorch library provides implementation of many graph convolution algorithms.
 
-## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / UI Utilities
-
-*   [vue-fake3d-image-effect (⭐20)](https://github.com/LuXDAmore/vue-fake3d-image-effect) - An interactive 3D fake-effect for images with depth maps in WebGL.
-
-## [8. Awesome Speakers](/content/karlhorky/awesome-speakers/README.md)
+## [7. Awesome Speakers](/content/karlhorky/awesome-speakers/README.md)
 
 ### Asia / Singapore 🇸🇬
 
@@ -121,41 +115,41 @@ Topics: Web Design, Blockchain, Python, IoT, Continous Integration, Developer Ec
 Topics: Android, Open Source, Java, Kotlin\
 <https://twitter.com/WajahatKarim>
 
-## [9. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
+## [8. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
 ### Plugins / Practices and Specific ES Features
 
-*   [functional (⭐754)](https://github.com/jonaskello/eslint-plugin-functional) - ESLint rules to disable mutation and promote fp in JavaScript and TypeScript.
+*   [functional (⭐795)](https://github.com/jonaskello/eslint-plugin-functional) - ESLint rules to disable mutation and promote fp in JavaScript and TypeScript.
 
-## [10. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [9. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Cryptography
 
-*   [kornelski/rust-security-framework (⭐230)](https://github.com/kornelski/rust-security-framework) - Bindings for Security Framework (OSX native)
+*   [kornelski/rust-security-framework (⭐251)](https://github.com/kornelski/rust-security-framework) - Bindings for Security Framework (OSX native)
 
 ### Libraries / Encoding
 
 *   BSON
-    *   [mongodb/bson-rust (⭐392)](https://github.com/mongodb/bson-rust) - Encoding and decoding support for BSON
+    *   [mongodb/bson-rust (⭐423)](https://github.com/mongodb/bson-rust) - Encoding and decoding support for BSON
 
 ### Libraries / Image processing
 
-*   [abonander/img\_hash (⭐305)](https://github.com/abonander/img_hash) - Perceptual image hashing and comparison for equality and similarity.
+*   [abonander/img\_hash (⭐315)](https://github.com/abonander/img_hash) - Perceptual image hashing and comparison for equality and similarity.
 
 ### Libraries / Platform specific
 
 *   Unix-like
-    *   [nix-rust/nix (⭐2.6k)](https://github.com/nix-rust/nix) - Unix-like API bindings [![Cirrus Build Status](https://api.cirrus-ci.com/github/nix-rust/nix.svg)](https://cirrus-ci.com/github/nix-rust/nix)
-    *   [rustix (⭐1.4k)](https://github.com/bytecodealliance/rustix) - Safe bindings to POSIX/Unix/Linux/Winsock2 syscalls [![Actions Status](https://github.com/bytecodealliance/rustix/workflows/CI/badge.svg)](https://github.com/bytecodealliance/rustix/actions?query=workflow%3ACI)
-    *   [zargony/fuse-rs (⭐1.1k)](https://github.com/zargony/fuse-rs) - [FUSE (⭐5.2k)](https://github.com/libfuse/libfuse) bindings
+    *   [nix-rust/nix (⭐2.7k)](https://github.com/nix-rust/nix) - Unix-like API bindings [![Cirrus Build Status](https://api.cirrus-ci.com/github/nix-rust/nix.svg)](https://cirrus-ci.com/github/nix-rust/nix)
+    *   [rustix (⭐1.5k)](https://github.com/bytecodealliance/rustix) - Safe bindings to POSIX/Unix/Linux/Winsock2 syscalls [![Actions Status](https://github.com/bytecodealliance/rustix/workflows/CI/badge.svg)](https://github.com/bytecodealliance/rustix/actions?query=workflow%3ACI)
+    *   [zargony/fuse-rs (⭐1.1k)](https://github.com/zargony/fuse-rs) - [FUSE (⭐5.5k)](https://github.com/libfuse/libfuse) bindings
 
-## [11. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
+## [10. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
 ### Articles
 
 *   [Setup Keycloak Server on Ubuntu 18.04](https://medium.com/@hasnat.saeed/setup-keycloak-server-on-ubuntu-18-04-ed8c7c79a2d9)
 
-## [12. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+## [11. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
 
 ### Download Managers / Free Indexers
 
@@ -169,7 +163,7 @@ Topics: Android, Open Source, Java, Kotlin\
 
 *   [Madsonic](https://www.madsonic.org/) Madsonic is a web-based media library and media streamer with jukebox functionality.
 
-## [13. Awesome Nosql Guides](/content/erictleung/awesome-nosql-guides/README.md)
+## [12. Awesome Nosql Guides](/content/erictleung/awesome-nosql-guides/README.md)
 
 ### Overview of NoSQL
 

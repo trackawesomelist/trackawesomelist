@@ -28,15 +28,15 @@
 
 ### Models/Projects
 
-*   [Neural machine translation between the writings of Shakespeare and modern English using TensorFlow (⭐248)](https://github.com/tokestermw/tensorflow-shakespeare) - This performs a monolingual translation, going from modern English to Shakespeare and vice-versa.
+*   [Neural machine translation between the writings of Shakespeare and modern English using TensorFlow (⭐250)](https://github.com/tokestermw/tensorflow-shakespeare) - This performs a monolingual translation, going from modern English to Shakespeare and vice-versa.
 
 ## [4. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 
 ### Scientific / XML
 
-*   [mir (⭐211)](https://github.com/libmir/mir) -  Sandbox for some mir packages: sparse tensors, Hoffman and others.
-*   [mir-algorithm (⭐211)](https://github.com/libmir/mir) - N-dimensional arrays (matrixes, tensors), algorithms, general purpose library.
-*   [mir-random (⭐31)](https://github.com/libmir/mir-random) -  Advanced Random Number Generators.
+*   [mir (⭐210)](https://github.com/libmir/mir) -  Sandbox for some mir packages: sparse tensors, Hoffman and others.
+*   [mir-algorithm (⭐210)](https://github.com/libmir/mir) - N-dimensional arrays (matrixes, tensors), algorithms, general purpose library.
+*   [mir-random (⭐32)](https://github.com/libmir/mir-random) -  Advanced Random Number Generators.
 
 ## [5. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
@@ -104,10 +104,6 @@
 *   [ZenHub](https://www.zenhub.com/) - Agile GitHub project management.
 *   [Zube](https://zube.io/) - Project management for GitHub issues.
 
-### Monitoring
-
-*   [Check my Website](https://checkmy.ws/) `requires-approval` - Automated website monitoring.
-
 ### Localization
 
 *   [Crowdin](https://crowdin.com/) `requires-approval` - Localization management platform.
@@ -172,7 +168,7 @@
 
 ### Tools / C#
 
-*   [Atata (⭐469)](https://github.com/atata-framework/atata) - Automated web testing full featured framework based on Selenium WebDriver.
+*   [Atata (⭐494)](https://github.com/atata-framework/atata) - Automated web testing full featured framework based on Selenium WebDriver.
 
 ## [14. Awesome Hbase](/content/rayokota/awesome-hbase/week/README.md)
 
@@ -268,7 +264,7 @@
 
 ### Reverse Engineering / Reverse Engineering Tools
 
-*   [Voltron (⭐6.1k)](https://github.com/snare/voltron) - Extensible debugger UI toolkit written in Python.
+*   [Voltron (⭐6.2k)](https://github.com/snare/voltron) - Extensible debugger UI toolkit written in Python.
 
 ## [19. Amas](/content/sindresorhus/amas/week/README.md)
 
@@ -315,13 +311,13 @@
 
 ### Libraries / Parsing
 
-*   [pest-parser/pest (⭐4.5k)](https://github.com/pest-parser/pest) - The Elegant Parser
+*   [pest-parser/pest (⭐4.7k)](https://github.com/pest-parser/pest) - The Elegant Parser
 
 ## [25. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/week/README.md)
 
 ### Websites
 
-*   The Changelog - [https://github.com/thechangelog/ping (⭐268)](https://github.com/thechangelog/ping)
+*   The Changelog - [https://github.com/thechangelog/ping (⭐267)](https://github.com/thechangelog/ping)
 
 ## [26. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
 
@@ -351,7 +347,7 @@
 ### Icons / Material Icons
 
 *   [Paper](https://snwh.org/paper) - Material icon theme.
-*   [Papirus (⭐6.6k)](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Material icon theme, initially based on Paper.
+*   [Papirus (⭐6.7k)](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Material icon theme, initially based on Paper.
 
 ### Icons / Flat Icons
 
@@ -359,7 +355,7 @@
 
 ### Icons / Skeumorphic Icons
 
-*   [Elementary XFCE (⭐270)](https://github.com/shimmerproject/elementary-xfce) - Desktop-agnostic version of the icons of elementary OS.
+*   [Elementary XFCE (⭐274)](https://github.com/shimmerproject/elementary-xfce) - Desktop-agnostic version of the icons of elementary OS.
 
 ## [29. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
@@ -447,19 +443,6 @@
 
 *   [Vue.js 预览](https://ninghao.net/course/4256) on ninghao.net
 
-### Projects Using Vue.js / Open Source
-
-*   [LeafPlayer (⭐155)](https://github.com/paulschwoerer/leafplayer) - A simple and fast, privately hosted music streaming server.
-*   [JSON Editor (⭐234)](https://github.com/tangram-js/json-editor) - A schema-aware JSON editor. Develop with Vue2.
-
-### Components & Libraries / UI Utilities
-
-*   [vue-intersect (⭐322)](https://github.com/heavyy/vue-intersect) - A Vue component to add intersection-observer to a Vue component or HTML element.
-
-### Components & Libraries / Utilities
-
-*   [vue-gaspard (⭐7)](https://github.com/lucaperret/vue-gaspard) - DOM helpers plugin for Vue.js
-
 ## [35. Awesome Uncopyright](/content/johnjago/awesome-uncopyright/week/README.md)
 
 ### Art
@@ -545,24 +528,24 @@
 
 ### Algorithms and Data structures
 
-*   [ecto\_materialized\_path (⭐62)](https://github.com/asiniy/ecto_materialized_path) - Tree structure, hierarchy and ancestry for the ecto models.
+*   [ecto\_materialized\_path (⭐63)](https://github.com/asiniy/ecto_materialized_path) - Tree structure, hierarchy and ancestry for the ecto models.
 
 ### Debugging
 
-*   [ex\_debug\_toolbar (⭐405)](https://github.com/kagux/ex_debug_toolbar) - A toolbar for Phoenix projects to interactively debug code and display useful information about requests: logs, timelines, database queries etc.
+*   [ex\_debug\_toolbar (⭐408)](https://github.com/kagux/ex_debug_toolbar) - A toolbar for Phoenix projects to interactively debug code and display useful information about requests: logs, timelines, database queries etc.
 
 ### Deployment
 
-*   [bootleg (⭐396)](https://github.com/labzero/bootleg) - Simple deployment and server automation for Elixir.
+*   [bootleg (⭐397)](https://github.com/labzero/bootleg) - Simple deployment and server automation for Elixir.
 *   [Gigalixir](https://www.gigalixir.com) - A fully-featured PaaS designed for Elixir. Supports clustering, hot upgrades, and remote console/observer. Free to try without a credit card.
 
 ### Eventhandling
 
-*   [event\_bus (⭐698)](https://github.com/mustafaturan/event_bus) - Simple event bus implementation with topic filtering and built-in event store and event watcher.
+*   [event\_bus (⭐701)](https://github.com/mustafaturan/event_bus) - Simple event bus implementation with topic filtering and built-in event store and event watcher.
 
 ### Macros
 
-*   [shorter\_maps (⭐231)](https://github.com/meyercm/shorter_maps) - \~M sigil for map shorthand. `~M{id name} ~> %{id: id, name: name}`.
+*   [shorter\_maps (⭐234)](https://github.com/meyercm/shorter_maps) - \~M sigil for map shorthand. `~M{id name} ~> %{id: id, name: name}`.
 
 ### Networking
 
@@ -624,7 +607,7 @@
 
 ### Colors
 
-*   [ChromaColorPicker (⭐565)](https://github.com/joncardasis/ChromaColorPicker) - An intuitive and fun iOS color picker.
+*   [ChromaColorPicker (⭐569)](https://github.com/joncardasis/ChromaColorPicker) - An intuitive and fun iOS color picker.
 
 ### Date
 
@@ -640,7 +623,7 @@
 
 ### Utility / Barcode
 
-*   [Highlighter (⭐932)](https://github.com/younatics/Highlighter) - Highlight whatever you want! Highlighter will magically find UI objects such as UILabel, UITextView, UITexTfield, UIButton in your UITableViewCell or other Class.
+*   [Highlighter (⭐933)](https://github.com/younatics/Highlighter) - Highlight whatever you want! Highlighter will magically find UI objects such as UILabel, UITextView, UITexTfield, UIButton in your UITableViewCell or other Class.
 
 ## [43. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 

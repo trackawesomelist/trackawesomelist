@@ -10,7 +10,7 @@
 
 ### Processes and Threads
 
-*   [await\_async (⭐82)](https://github.com/anykeyh/await_async) - Add keywords await & async in Crystal Lang
+*   [await\_async (⭐85)](https://github.com/anykeyh/await_async) - Add keywords await & async in Crystal Lang
 
 ## [2. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/README.md)
 
@@ -102,7 +102,7 @@
 
 ### UI / Material Design
 
-*   [Slidable (⭐2.6k)](https://github.com/letsar/flutter_slidable) <!--stargazers:letsar/flutter_slidable--> - Slidable list item with left and right slide actions by [Romain Rastel](https://github.com/letsar)
+*   [Slidable (⭐2.7k)](https://github.com/letsar/flutter_slidable) <!--stargazers:letsar/flutter_slidable--> - Slidable list item with left and right slide actions by [Romain Rastel](https://github.com/letsar)
 
 ---
 

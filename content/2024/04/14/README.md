@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 14, 2024
 
-14 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,21 +16,21 @@
 
 ### Concurrency
 
-*   [Neco (⭐1.1k)](https://github.com/tidwall/neco) - Concurrency library for C (coroutines). \[MIT]
+*   [Neco (⭐1.2k)](https://github.com/tidwall/neco) - Concurrency library for C (coroutines). \[MIT]
 
 ## [3. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
 ### Audio
 
-*   [yx5300 (⭐3)](https://github.com/QuirkyCort/IoTy/blob/main/public/extensions/yx5300.py) - MP3 player that can be controlled via a serial interface.
+*   [yx5300 (⭐4)](https://github.com/QuirkyCort/IoTy/blob/main/public/extensions/yx5300.py) - MP3 player that can be controlled via a serial interface.
 
 ### Display / E-Paper
 
-*   [uc8151\_micropython (⭐126)](https://github.com/antirez/uc8151_micropython) - UC8151 / IL0373 MicroPython e-paper display driver with support for greyscales and fast updates.
+*   [uc8151\_micropython (⭐144)](https://github.com/antirez/uc8151_micropython) - UC8151 / IL0373 MicroPython e-paper display driver with support for greyscales and fast updates.
 
 ### Display / GUI
 
-*   [micropython-touch (⭐18)](https://github.com/peterhinch/micropython-touch) - Derived from nano-gui and supporting the same displays and hosts, this offers touch input. Supports various touch controllers.
+*   [micropython-touch (⭐38)](https://github.com/peterhinch/micropython-touch) - Derived from nano-gui and supporting the same displays and hosts, this offers touch input. Supports various touch controllers.
 
 ### Display / LCD Character
 
@@ -42,39 +42,39 @@
 
 ### IO / Multiplexer
 
-*   [tca9548a (⭐3)](https://github.com/QuirkyCort/IoTy/blob/main/public/extensions/tca9548a.py) - MicroPython driver for the TCA9548A I2C multiplexer.
+*   [tca9548a (⭐4)](https://github.com/QuirkyCort/IoTy/blob/main/public/extensions/tca9548a.py) - MicroPython driver for the TCA9548A I2C multiplexer.
 
 ### Sensors / Biometric
 
-*   [max30102 (⭐3)](https://github.com/QuirkyCort/IoTy/blob/main/public/extensions/max30102.py) - MicroPython driver for the MAX30102, with heartbeat detection and BPM measurement.
+*   [max30102 (⭐4)](https://github.com/QuirkyCort/IoTy/blob/main/public/extensions/max30102.py) - MicroPython driver for the MAX30102, with heartbeat detection and BPM measurement.
 
 ### Sensors / Camera
 
-*   [huskylib (⭐3)](https://github.com/QuirkyCort/IoTy/blob/main/public/extensions/huskylib.py) - MicroPython driver for the DFRobot Husky Lens. An easy-to-use AI Camera / Vision Sensor, featuring face recognition, object tracking, object recognition, line tracking, color recognition, and QR code recognition.
+*   [huskylib (⭐4)](https://github.com/QuirkyCort/IoTy/blob/main/public/extensions/huskylib.py) - MicroPython driver for the DFRobot Husky Lens. An easy-to-use AI Camera / Vision Sensor, featuring face recognition, object tracking, object recognition, line tracking, color recognition, and QR code recognition.
 
 ### Sensors / Distance Laser
 
-*   [vl53l1x (⭐3)](https://github.com/QuirkyCort/IoTy/blob/main/public/extensions/vl53l1x.py) - MicroPython driver for the VL53L1X ToF sensor.
+*   [vl53l1x (⭐4)](https://github.com/QuirkyCort/IoTy/blob/main/public/extensions/vl53l1x.py) - MicroPython driver for the VL53L1X ToF sensor.
 
 ### Sensors / Human Presence
 
-*   [ld2410 (⭐3)](https://github.com/QuirkyCort/IoTy/blob/main/public/extensions/ld2410.py) - 24GHz human presence sensing module, capable of detecting moving and stationary targets, and providing an approximate range.
+*   [ld2410 (⭐4)](https://github.com/QuirkyCort/IoTy/blob/main/public/extensions/ld2410.py) - 24GHz human presence sensing module, capable of detecting moving and stationary targets, and providing an approximate range.
 
 ### Sensors / Load Cell
 
-*   [hx710 (⭐3)](https://github.com/QuirkyCort/IoTy/blob/main/public/extensions/hx710.py) - MicroPython driver for the HX710.
+*   [hx710 (⭐4)](https://github.com/QuirkyCort/IoTy/blob/main/public/extensions/hx710.py) - MicroPython driver for the HX710.
 
 ### Sensors / Proximity
 
-*   [apds9960 (⭐3)](https://github.com/QuirkyCort/IoTy/blob/main/public/extensions/apds9960.py) - MicroPython Driver for the APDS9960, with simple gesture detection.
+*   [apds9960 (⭐4)](https://github.com/QuirkyCort/IoTy/blob/main/public/extensions/apds9960.py) - MicroPython Driver for the APDS9960, with simple gesture detection.
 
 ### Tutorials / SRAM
 
-*   [asyncio (⭐718)](https://github.com/peterhinch/micropython-async/blob/master/v3/docs/TUTORIAL.md) - Write asynchronous code which interfaces to hardware devices.
+*   [asyncio (⭐761)](https://github.com/peterhinch/micropython-async/blob/master/v3/docs/TUTORIAL.md) - Write asynchronous code which interfaces to hardware devices.
 
 ### Firmware / SRAM
 
-*   [micropython-builder (⭐1)](https://github.com/jonahbron/micropython-builder) - Tool for building and flashing a custom MicroPython firmware.
+*   [micropython-builder (⭐0)](https://github.com/jonahbron/micropython-builder) - Tool for building and flashing a custom MicroPython firmware.
 
 ## [4. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -99,23 +99,23 @@
 
 ### Adapters / Server-side
 
-*   [ASP.NET Core (⭐45)](https://github.com/kapi2289/InertiaCore)
+*   [ASP.NET Core (⭐71)](https://github.com/kapi2289/InertiaCore)
 
 ### Resources / Presets
 
-*   [Laravel Jetstream React (⭐271)](https://github.com/ozziexsh/laravel-jetstream-react) - Converts the official Laravel Jetstream Inertia.js starter kit to React.
+*   [Laravel Jetstream React (⭐311)](https://github.com/ozziexsh/laravel-jetstream-react) - Converts the official Laravel Jetstream Inertia.js starter kit to React.
 
 ## [8. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
-### Treesitter Based / Diagnostics
+### Tree-sitter Based / Diagnostics
 
-*   [mfussenegger/nvim-treehopper (⭐420)](https://github.com/mfussenegger/nvim-treehopper) - Region selection with hints on the AST nodes of a document powered by Treesitter.
+*   [mfussenegger/nvim-treehopper (⭐441)](https://github.com/mfussenegger/nvim-treehopper) - Region selection with hints on the AST nodes of a document powered by Tree-sitter.
 
 ## [9. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
 ### Computer Organization and Architecture
 
-*   [Digital Circuit Projects: An Overview of Digital Circuits Through Implementing Integrated Circuits - Second Edition](https://cupola.gettysburg.edu/cgi/viewcontent.cgi?article=1000\&context=oer) - Charles W. Kann (PDF)
+*   [Digital Circuit Projects: An Overview of Digital Circuits Through Implementing Integrated Circuits - Second Edition](https://cupola.gettysburg.edu/cgi/viewcontent.cgi?article=1000\&context=oer) - Charles W. Kann (PDF) (CC BY)
 
 ## [10. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
 
@@ -127,33 +127,27 @@
 
 *   [Webscale Jobs](https://www.webscale.work/) - Find a career working with MongoDB
 
-## [11. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
-
-### Job boards
-
-*   [JavaProHire](https://javaprohire.com/) - Java developer jobs
-
-## [12. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
+## [11. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
 
 ### Awesome Repositories
 
-- Repository: [Web3 Security (⭐1.2k)](https://github.com/Anugrahsr/Awesome-web3-Security)
+- Repository: [Web3 Security (⭐1.3k)](https://github.com/Anugrahsr/Awesome-web3-Security)
 
   Description: A curated list of web3 Security materials and resources For Pentesters and Bug Hunters.
 
 
 
-## [13. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [12. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [portal (⭐4)](https://github.com/anasouardini/portal/) - A very basic script for jumping to/from paths without having to do write the whole path, open multiple terminal sessions or do a file system search using [fzf (⭐63k)](https://github.com/junegunn/fzf). Heavily inspired by [Z (⭐16k)](https://github.com/rupa/z).
+*   [portal (⭐4)](https://github.com/anasouardini/portal/) - A very basic script for jumping to/from paths without having to do write the whole path, open multiple terminal sessions or do a file system search using [fzf (⭐67k)](https://github.com/junegunn/fzf). Heavily inspired by [Z (⭐16k)](https://github.com/rupa/z).
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [tcr (⭐0)](https://github.com/tulioribeiro/zsh-tcr-theme) - Minimalist theme, shows decorators for current directory, `git` status information & `nvm` version.
 
-## [14. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
+## [13. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
 ### Programming Languages / [Other](#other-1)
 

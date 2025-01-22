@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 14, 2020
 
-16 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,7 +16,7 @@
 
 ### Python / Computer Vision
 
-*   [Learnergy (⭐64)](https://github.com/gugarosa/learnergy) - Energy-based machine learning models built upon PyTorch.
+*   [Learnergy (⭐65)](https://github.com/gugarosa/learnergy) - Energy-based machine learning models built upon PyTorch.
 
 ### Python / Natural Language Processing
 
@@ -90,13 +90,13 @@
 
 ### Plugins / Languages and Environments
 
-*   [YAML (⭐108)](https://github.com/ota-meshi/eslint-plugin-yml) - ESLint plugin for YAML.
+*   [YAML (⭐121)](https://github.com/ota-meshi/eslint-plugin-yml) - ESLint plugin for YAML.
 
 ## [8. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Tools
 
-*   [bst (⭐8)](https://github.com/glv2/bst) - Binary Search Tree. [GPL3](http://www.gnu.org/copyleft/gpl.html).
+*   [bst (⭐9)](https://github.com/glv2/bst) - Binary Search Tree. [GPL3](http://www.gnu.org/copyleft/gpl.html).
 
 ## [9. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 
@@ -104,13 +104,7 @@
 
 *   [The Jamstack Book](https://www.manning.com/books/the-jamstack-book) - by Raymond Camden and Brian Rinaldi
 
-## [10. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
-
-### Web Hosting
-
-*   [Bip](https://bip.sh/students) \[DISCOUNT] - Static web hosting. Bip provides a 30% recurring discount per domain on your student account [on all plans](https://bip.sh/pricing).
-
-## [11. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
+## [10. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
 ### Tutorials
 
@@ -120,31 +114,31 @@
 
 *   [Cyber City](https://vz777.com/cybercity/index.html) - Promotional site for Visionaries777.
 
-## [12. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
+## [11. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
 ### Architecture and Design
 
 *   [Architecture\_Decision\_Record (⭐9.1k)](https://github.com/joelparkerhenderson/architecture_decision_record) - A document that captures an important architectural decision made along with its context and consequences.
 
-## [13. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
+## [12. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
 ### Threat intelligence / Threat signature packages and collections
 
 *   [FireEye's Sunburst Countermeasures (⭐560)](https://github.com/fireeye/sunburst_countermeasures) - Collection of IoC in various languages for detecting backdoored SolarWinds Orion NMS activities and related vulnerabilities.
 
-## [14. Awesome Software Architecture](/content/simskij/awesome-software-architecture/README.md)
+## [13. Awesome Software Architecture](/content/simskij/awesome-software-architecture/README.md)
 
 ### Documentation / Scalability and Resilience
 
 *   [arc42](https://arc42.org/) - Template for documentation and communication of software and system architectures.
 
-## [15. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
+## [14. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
 
 ### Remote / TypeScript
 
 *   [Just Remote](https://justremote.co/remote-jobs)
 
-## [16. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [15. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / Frameworks
 
@@ -152,13 +146,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-my-toasts (⭐137)](https://github.com/Tahul/vue-my-toasts) - Provide your component and let us toast the rest.
-*   [vue-use-sound (⭐473)](https://github.com/Tahul/vue-use-sound) - A Vue Hook for playing sound effects.
-*   [@vueform/multiselect (⭐790)](https://github.com/vueform/multiselect) - Vue 3 multiselect component with single select, multiselect and tagging options.
-
-### Components & Libraries / Utilities
-
-*   [vue-catch-hrefs (⭐5)](https://github.com/Tahul/vue-catch-hrefs) - Catch clicks on hrefs links (in v-html) and route them to vue-router.
+*   [@vueform/multiselect (⭐811)](https://github.com/vueform/multiselect) - Vue 3 multiselect component with single select, multiselect and tagging options.
 
 ---
 

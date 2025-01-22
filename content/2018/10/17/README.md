@@ -10,7 +10,7 @@
 
 ### Serverless Computing
 
-*   [crystal\_openfaas (⭐22)](https://github.com/TPei/crystal_openfaas/) - Template to enable crystal as first class citizens in OpenFaaS
+*   [crystal\_openfaas (⭐23)](https://github.com/TPei/crystal_openfaas/) - Template to enable crystal as first class citizens in OpenFaaS
 
 ### Official Documentation Translations
 
@@ -20,11 +20,11 @@
 
 ### Cryptography
 
-*   [libhydrogen (⭐603)](https://github.com/jedisct1/libhydrogen) - A lightweight, secure, easy-to-use crypto library suitable for constrained environments. \[ISC]
+*   [libhydrogen (⭐647)](https://github.com/jedisct1/libhydrogen) - A lightweight, secure, easy-to-use crypto library suitable for constrained environments. \[ISC]
 
 ### Serialization
 
-*   [YAS (⭐729)](https://github.com/niXman/yas) - Very fast **Y**et **A**nother **S**erialization library supports the binary/text/json formats. \[Boost]
+*   [YAS (⭐738)](https://github.com/niXman/yas) - Very fast **Y**et **A**nother **S**erialization library supports the binary/text/json formats. \[Boost]
 
 ## [3. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
@@ -61,9 +61,9 @@
 
 ## [5. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
-### Other Tools / Telegram
+### Other Tools / Steam
 
-*   [Zen (⭐551)](https://github.com/s0md3v/Zen) - Find email addresses of Github users urls and other data effortlessly
+*   [Zen (⭐558)](https://github.com/s0md3v/Zen) - Find email addresses of Github users urls and other data effortlessly
 
 ## [6. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -91,7 +91,7 @@
 
 ### Key Value Store
 
-*   [Defaults (⭐1.9k)](https://github.com/sindresorhus/Defaults) - Strongly-typed UserDefaults with support for Codable and key observation.
+*   [Defaults (⭐2k)](https://github.com/sindresorhus/Defaults) - Strongly-typed UserDefaults with support for Codable and key observation.
 
 ## [9. Awesome Android](/content/JStumpp/awesome-android/README.md)
 

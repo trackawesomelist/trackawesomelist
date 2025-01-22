@@ -14,7 +14,7 @@
 
 ## [2. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
 
-### Courses
+### Courses / Commerical Tools
 
 *   [Deep Learning](http://www.deeplearningbook.org/) - Goodfellow, Bengio and Courville's introduction to a broad range of topics in deep learning, covering mathematical and conceptual background, deep learning techniques used in industry, and research perspectives.
 *   [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](https://web.stanford.edu/~hastie/ElemStatLearn/) - Hastie and Tibshirani cover a broad range of topics, from supervised learning (prediction) to unsupervised learning including neural networks, support vector machines, classification trees and boosting---the first comprehensive treatment of this topic in any book.
@@ -28,12 +28,12 @@
   Description: Curated list of awesome adversarial machine learning resources
 
 
-- Repository: [AI Security (⭐1.3k)](https://github.com/RandomAdversary/Awesome-AI-Security)
+- Repository: [AI Security (⭐1.4k)](https://github.com/RandomAdversary/Awesome-AI-Security)
 
   Description: Curated list of AI security resources
 
 
-- Repository: [Web Security (⭐11k)](https://github.com/qazbnm456/awesome-web-security)
+- Repository: [Web Security (⭐12k)](https://github.com/qazbnm456/awesome-web-security)
 
   Description: Curated list of Web Security materials and resources
 

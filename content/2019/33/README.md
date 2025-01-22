@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 19 - Aug 25, 2019
 
-47 awesome lists updated this week.
+45 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,15 +10,15 @@
 
 ### Gaming
 
-*   [libGDX (⭐981)](https://github.com/rafaskb/awesome-libgdx#readme) - Java game framework.
+*   [libGDX (⭐1k)](https://github.com/rafaskb/awesome-libgdx#readme) - Java game framework.
 
 ### Health and Social Science
 
-*   [Computational Neuroscience (⭐702)](https://github.com/eselkin/awesome-computational-neuroscience#readme) - A multidisciplinary science which uses computational approaches to study the nervous system.
+*   [Computational Neuroscience (⭐754)](https://github.com/eselkin/awesome-computational-neuroscience#readme) - A multidisciplinary science which uses computational approaches to study the nervous system.
 
 ### Miscellaneous
 
-*   [IRC (⭐877)](https://github.com/davisonio/awesome-irc#readme) - Open source messaging protocol.
+*   [IRC (⭐945)](https://github.com/davisonio/awesome-irc#readme) - Open source messaging protocol.
 
 ## [2. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
@@ -71,13 +71,13 @@
 
 ### Games / Apache License
 
-*   [mine-detector (⭐2)](https://github.com/jrcarter/Mine_Detector) - Mine Detector: a mine-finding game that never requires guessing.
+*   [mine-detector (⭐3)](https://github.com/jrcarter/Mine_Detector) - Mine Detector: a mine-finding game that never requires guessing.
 
 ## [9. Awesome Icons](/content/notlmn/awesome-icons/week/README.md)
 
 ### General
 
-*   [VSCode Icons (⭐853)](https://github.com/microsoft/vscode-icons#readme) - Dark and light versions of the icons used in Visual Studio Code.
+*   [VSCode Icons (⭐861)](https://github.com/microsoft/vscode-icons#readme) - Dark and light versions of the icons used in Visual Studio Code.
 
 ## [10. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
@@ -113,7 +113,7 @@
 
 ### Idiomatic examples
 
-*   [Dash recipes (⭐951)](https://github.com/plotly/dash-recipes) - A collection of scripts and examples created of the plotly team while answering questions from the greater Dash community.
+*   [Dash recipes (⭐1.1k)](https://github.com/plotly/dash-recipes) - A collection of scripts and examples created of the plotly team while answering questions from the greater Dash community.
 
 ### Cheat sheets
 
@@ -123,7 +123,7 @@
 
 ### Python / Natural Language Processing
 
-*   [BigARTM (⭐662)](https://github.com/bigartm/bigartm) - topic modelling platform.
+*   [BigARTM (⭐661)](https://github.com/bigartm/bigartm) - topic modelling platform.
 
 ## [14. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
@@ -143,33 +143,33 @@
 
 ### Resources / Services
 
-*   [gdx-gameanalytics (⭐31)](https://github.com/MrStahlfelge/gdx-gameanalytics) - Game Analytics REST API client implementation for libGDX. Works on all backends.
+*   [gdx-gameanalytics (⭐32)](https://github.com/MrStahlfelge/gdx-gameanalytics) - Game Analytics REST API client implementation for libGDX. Works on all backends.
 
 ### Resources / User Interface
 
-*   [Skin Composer (⭐414)](https://github.com/raeleus/skin-composer) - Create skins for libGDX scene2d.ui with a graphical interface.
-*   [TenPatch (⭐47)](https://github.com/raeleus/TenPatch) - An alternative to libGDX's 9patch implementation that implements multiple stretch regions.
-*   [TypingLabel (⭐148)](https://github.com/rafaskb/typing-label) - A libGDX Label that appears as if it was being typed in real time.
-*   [VisUI (⭐694)](https://github.com/kotcrab/vis-ui) - Allows to create nice looking UI in libGDX using scene2d.ui. Note this is not a UI editor.
+*   [Skin Composer (⭐435)](https://github.com/raeleus/skin-composer) - Create skins for libGDX scene2d.ui with a graphical interface.
+*   [TenPatch (⭐48)](https://github.com/raeleus/TenPatch) - An alternative to libGDX's 9patch implementation that implements multiple stretch regions.
+*   [TypingLabel (⭐152)](https://github.com/rafaskb/typing-label) - A libGDX Label that appears as if it was being typed in real time.
+*   [VisUI (⭐733)](https://github.com/kotcrab/vis-ui) - Allows to create nice looking UI in libGDX using scene2d.ui. Note this is not a UI editor.
 
 ### Resources / Others
 
-*   [Texture Packer GUI (⭐569)](https://github.com/crashinvaders/gdx-texture-packer-gui) - A simple way to pack and manage texture atlases for libGDX game framework.
+*   [Texture Packer GUI (⭐618)](https://github.com/crashinvaders/gdx-texture-packer-gui) - A simple way to pack and manage texture atlases for libGDX game framework.
 
 ### Tutorials / Getting Started
 
 *   [Creating a Launcher](https://youtu.be/3l5F7f7vfTU) - Video tutorial on using libGDX to make a game launcher.
-*   [Deploying with JPackage (⭐414)](https://github.com/raeleus/skin-composer/wiki/libGDX-and-JPackage) - A tutorial on deploying libGDX games with JPackage via Gradle commands.
+*   [Deploying with JPackage (⭐435)](https://github.com/raeleus/skin-composer/wiki/libGDX-and-JPackage) - A tutorial on deploying libGDX games with JPackage via Gradle commands.
 
 ### Tutorials / Advanced
 
 *   [Code Hotswapping](https://youtu.be/zKfh6WuaikQ) - Video tutorial on enabling code hotswapping for libGDX projects to increase productivity.
 
-### Community / Advanced
+### Community / General Learning Material
 
 *   [Reddit](https://www.reddit.com/r/libgdx/) - Unofficial subreddit for libGDX. Not a lot of activity.
 
-### Other Lists / Advanced
+### Other Lists / General Learning Material
 
 *   [Game Accessibility Guidelines](http://gameaccessibilityguidelines.com/) - A straightforward reference for inclusive game design, to ensure that games are just as fun for as wide a range of people as possible. **Recommended**
 
@@ -235,11 +235,11 @@
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [Sharry (⭐832)](https://github.com/eikek/sharry) - Share files easily over the internet between authenticated and anonymous users (both ways) with resumable up- and downloads. `GPL-3.0` `Scala/Java/deb/Docker`
+*   [Sharry (⭐954)](https://github.com/eikek/sharry) - Share files easily over the internet between authenticated and anonymous users (both ways) with resumable up- and downloads. `GPL-3.0` `Scala/Java/deb/Docker`
 
 ### Software / Proxy
 
-*   [Tinyproxy](https://tinyproxy.github.io/) - Light-weight HTTP/HTTPS proxy daemon. ([Source Code (⭐4.7k)](https://github.com/tinyproxy/tinyproxy)) `GPL-2.0` `C/deb`
+*   [Tinyproxy](https://tinyproxy.github.io/) - Light-weight HTTP/HTTPS proxy daemon. ([Source Code (⭐5k)](https://github.com/tinyproxy/tinyproxy)) `GPL-2.0` `C/deb`
 
 ## [23. Awesome Eta](/content/sfischer13/awesome-eta/week/README.md)
 
@@ -282,7 +282,7 @@
 
 ### Modules
 
-*   [FindIDL (⭐16)](https://github.com/apriorit/FindIDL) - CMake module for building [IDL](https://docs.microsoft.com/en-us/windows/win32/midl/interface-definition-idl-file) files with MIDL and generating CLR DLL using [Tlbimp](https://docs.microsoft.com/en-us/dotnet/framework/tools/tlbimp-exe-type-library-importer). [`[MIT]`](https://opensource.org/licenses/MIT)
+*   [FindIDL (⭐27)](https://github.com/apriorit/FindIDL) - CMake module for building [IDL](https://docs.microsoft.com/en-us/windows/win32/midl/interface-definition-idl-file) files with MIDL and generating CLR DLL using [Tlbimp](https://docs.microsoft.com/en-us/dotnet/framework/tools/tlbimp-exe-type-library-importer). [`[MIT]`](https://opensource.org/licenses/MIT)
 
 ## [27. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
@@ -371,56 +371,54 @@
 
 ### Examples
 
-*   [ai/size-limit (⭐6.5k)](https://github.com/ai/size-limit#readme) - Project logo, clear description, screenshot, step-by-step installing instructions.
-*   [aimeos/aimeos-typo3 (⭐228)](https://github.com/aimeos/aimeos-typo3#readme) - Project logo. Clear description of what the project does. Demo screenshot. TOC for easy navigation. Easy installation and setup sections with screenshots. Links for further reading.
+*   [ai/size-limit (⭐6.6k)](https://github.com/ai/size-limit#readme) - Project logo, clear description, screenshot, step-by-step installing instructions.
+*   [aimeos/aimeos-typo3 (⭐538)](https://github.com/aimeos/aimeos-typo3#readme) - Project logo. Clear description of what the project does. Demo screenshot. TOC for easy navigation. Easy installation and setup sections with screenshots. Links for further reading.
 *   [alichtman/stronghold (⭐1.1k)](https://github.com/alichtman/stronghold#readme) - Project logo. Clear description of what the project does. GIF Demo. TOC for easy navigation. Badges. Links for further reading. Simple install instructions.
-*   [amitmerchant1990/electron-markdownify (⭐957)](https://github.com/amitmerchant1990/electron-markdownify#readme) - Project logo. Minimalist description of what it is. GIF demo of the project. Key features. How to install guide. Credits.
+*   [amitmerchant1990/electron-markdownify (⭐994)](https://github.com/amitmerchant1990/electron-markdownify#readme) - Project logo. Minimalist description of what it is. GIF demo of the project. Key features. How to install guide. Credits.
 *   [anfederico/Clairvoyant (⭐2.4k)](https://github.com/anfederico/Clairvoyant#readme) - Multiple badges. Clean logo. Simple install instructions. Clear overview of the project accompanied by a schematic. GIF demo. Extensive code examples.
-*   [Armync/Arminc-AutoExec (⭐253)](https://github.com/ArmynC/ArminC-AutoExec/#readme) - Rich Markdown functions, modern layout, clear description, and compliance with the recommended community standards.
-*   [athityakumar/colorls (⭐4.8k)](https://github.com/athityakumar/colorls#readme) - Multiple badges. Clean screenshots. Simple install instructions. TOC for easy navigation. Good contributor guidelines.
-*   [ccostan/Home-AssistantConfig (⭐4.7k)](https://github.com/CCOSTAN/Home-AssistantConfig#readme) - Project Banner. Badges. Easy navigation.
+*   [Armync/Arminc-AutoExec (⭐287)](https://github.com/ArmynC/ArminC-AutoExec/#readme) - Rich Markdown functions, modern layout, clear description, and compliance with the recommended community standards.
+*   [athityakumar/colorls (⭐5k)](https://github.com/athityakumar/colorls#readme) - Multiple badges. Clean screenshots. Simple install instructions. TOC for easy navigation. Good contributor guidelines.
+*   [ccostan/Home-AssistantConfig (⭐4.9k)](https://github.com/CCOSTAN/Home-AssistantConfig#readme) - Project Banner. Badges. Easy navigation.
 *   [choojs/choo (⭐6.8k)](https://github.com/choojs/choo#readme) - Badges, clean, clear. Beautiful little menu above the fold with useful links. An FAQ inside of it for the main questions. Backers. Good language.
 *   [Day8/re-frame (⭐5.4k)](https://github.com/Day8/re-frame#readme) - Badges, logo, TOC, etc. Stands out by being a giant, well-written essay about the tech, how to use it, the philosophy behind it, and how it fits into the greater ecosystem.
-*   [github-changelog-generator/github-changelog-generator (⭐7.3k)](https://github.com/github-changelog-generator/github-changelog-generator#readme) - TOC for easy navigation. Concise project description. Installation and usage sections. Output example. Great feature overview. List of alternatives. FAQ.
+*   [github-changelog-generator/github-changelog-generator (⭐7.4k)](https://github.com/github-changelog-generator/github-changelog-generator#readme) - TOC for easy navigation. Concise project description. Installation and usage sections. Output example. Great feature overview. List of alternatives. FAQ.
 *   [gitpoint/git-point (⭐4.7k)](https://github.com/gitpoint/git-point#readme) - Clear description. Project Logo. App Store logos. TOC. Clean screenshots. List of features. Detailed installation process. Landing Page.
-*   [Hexworks/Zircon (⭐745)](https://github.com/Hexworks/zircon#readme) - Dogfood in readme. Clear description of what the project does. Demo screenshot. TOC for easy navigation. Easy installation and setup sections with screenshots. Links for further reading.
-*   [iharsh234/WebApp (⭐92)](https://github.com/iharsh234/WebApp#readme) - Project landing page. Clear description of what the project does. Demo screenshot. Simple install and usage sections. Includes an examples section with common uses and a mobile demo section.
+*   [Hexworks/Zircon (⭐758)](https://github.com/Hexworks/zircon#readme) - Dogfood in readme. Clear description of what the project does. Demo screenshot. TOC for easy navigation. Easy installation and setup sections with screenshots. Links for further reading.
+*   [iharsh234/WebApp (⭐95)](https://github.com/iharsh234/WebApp#readme) - Project landing page. Clear description of what the project does. Demo screenshot. Simple install and usage sections. Includes an examples section with common uses and a mobile demo section.
 *   [karan/joe (⭐2.9k)](https://github.com/karan/joe#readme) - Project logo. Clear description of what the project does. GIF demo. Easy install and usage sections.
-*   [Martinsos/edlib (⭐493)](https://github.com/Martinsos/edlib#readme) - Informative badges (build, version, publication). Concise description. Feature list. TOC. Screenshots. Concise instructions with examples for building and including in your project. Common code examples to get you started quickly.
+*   [Martinsos/edlib (⭐526)](https://github.com/Martinsos/edlib#readme) - Informative badges (build, version, publication). Concise description. Feature list. TOC. Screenshots. Concise instructions with examples for building and including in your project. Common code examples to get you started quickly.
 *   [nhn/tui.editor (⭐17k)](https://github.com/nhn/tui.editor#readme) - Project logo. Clear overview of project features with a demo GIF. Badges. TOC for easy navigation. Colorful icons in front of titles.
-*   [NSRare/NSGIF (⭐922)](https://github.com/NSRare/NSGIF#readme) - Project logo. GIF Demo. Usage artwork. Usage code samples.
-*   [php-censor/php-censor (⭐672)](https://github.com/php-censor/php-censor#readme) - Multiple badges, project logo, screenshots, step-by-step installation and upgrading instructions, TOC for easy navigation.
-*   [React on lambda (⭐263)](https://github.com/sultan99/react-on-lambda#readme) - Project logo, comics to present the main idea, badges, examples with code snippets, demo projects, api documentations, editor configurations.
+*   [NSRare/NSGIF (⭐928)](https://github.com/NSRare/NSGIF#readme) - Project logo. GIF Demo. Usage artwork. Usage code samples.
+*   [php-censor/php-censor (⭐679)](https://github.com/php-censor/php-censor#readme) - Multiple badges, project logo, feature list, video demo, step-by-step installation and upgrading instructions, TOC for easy navigation.
 *   [rstacruz/hicat (⭐407)](https://github.com/rstacruz/hicat#readme) - GIF demo. Easy installation and setup sections with screenshots. Build badges. Great examples of use cases.
-*   [ryanoasis/nerd-fonts (⭐53k)](https://github.com/ryanoasis/nerd-fonts#readme) - Clean project logo. Brief description at top. Sankey diagram, quick links, badges, OS specific icons, TOC, detailed release changelog.
+*   [ryanoasis/nerd-fonts (⭐56k)](https://github.com/ryanoasis/nerd-fonts#readme) - Clean project logo. Brief description at top. Sankey diagram, quick links, badges, OS specific icons, TOC, detailed release changelog.
 *   [sebyddd/SDVersion (⭐1.3k)](https://github.com/sebyddd/SDVersion#readme) - Project logo. Build badges. Documentation structuring for multiple programming languages. Usage examples.
 *   [shama/gaze (⭐1.2k)](https://github.com/shama/gaze#readme) - Project logo. Concise description. Feature list. Usage section. FAQ. Great API documentation. Release history.
-*   [sindresorhus/pageres (⭐9.6k)](https://github.com/sindresorhus/pageres#readme) - Project logo. Clear description of what the project does. Build badges. Demo screenshot. Simple install and usage sections. Includes an examples section with common uses.
+*   [sindresorhus/pageres (⭐9.7k)](https://github.com/sindresorhus/pageres#readme) - Project logo. Clear description of what the project does. Build badges. Demo screenshot. Simple install and usage sections. Includes an examples section with common uses.
 *   [sourcerer-io/sourcerer-app (⭐6.7k)](https://github.com/sourcerer-io/sourcerer-app#readme) - Clean animated screenshot. Customized call to action badge. Usage showcase.
-*   [sr6033/lterm (⭐56)](https://github.com/sr6033/lterm#readme) - Clean logo using characters. Brief updates on development. Detailed contribution guidelines. Contribution suggestions.
-*   [supunlakmal/thismypc (⭐172)](https://github.com/supunlakmal/thismypc#readme) - Project logo. Useful badges. Website URL. Screenshot. GIF step-by-step instructions for installation. Project folder structure.
-*   [teles/array-mixer (⭐38)](https://github.com/teles/array-mixer#readme) - Clean project logo, badges. Table of contents. Contribution section. Many illustrated examples.
-*   [thelounge/thelounge (⭐5.5k)](https://github.com/thelounge/thelounge#readme) - Project logo. Useful badges and links (website, docs, demo). Screenshot. Feature list. Step-by-step instructions for installation, development, and testing. Link to the contribution guide. Good mobile summary.
+*   [sr6033/lterm (⭐57)](https://github.com/sr6033/lterm#readme) - Clean logo using characters. Brief updates on development. Detailed contribution guidelines. Contribution suggestions.
+*   [supunlakmal/thismypc (⭐175)](https://github.com/supunlakmal/thismypc#readme) - Project logo. Useful badges. Website URL. Screenshot. GIF step-by-step instructions for installation. Project folder structure.
+*   [teles/array-mixer (⭐39)](https://github.com/teles/array-mixer#readme) - Clean project logo, badges. Table of contents. Contribution section. Many illustrated examples.
+*   [thelounge/thelounge (⭐5.8k)](https://github.com/thelounge/thelounge#readme) - Project logo. Useful badges and links (website, docs, demo). Screenshot. Feature list. Step-by-step instructions for installation, development, and testing. Link to the contribution guide. Good mobile summary.
 *   [vhesener/Closures (⭐1.7k)](https://github.com/vhesener/Closures#readme) - Project logo, cognitive funnel, animated examples. Color-coordinated. Clean documentation.
 
 ### Tools
 
-*   [Feedmereadmes (⭐1.1k)](https://github.com/lappleapple/feedmereadmes#readme) - README editing and project analysis/feedback.
-*   [Hall-of-fame (⭐945)](https://github.com/sourcerer-io/hall-of-fame#readme) - Helps show recognition to repo contributors on README. Features new/trending/top contributors. Updates every hour.
-*   [README best practices (⭐863)](https://github.com/jehna/readme-best-practices#readme) - A place to copy-paste your README.md from
+*   [Hall-of-fame (⭐949)](https://github.com/sourcerer-io/hall-of-fame#readme) - Helps show recognition to repo contributors on README. Features new/trending/top contributors. Updates every hour.
+*   [README best practices (⭐887)](https://github.com/jehna/readme-best-practices#readme) - A place to copy-paste your README.md from
 *   [readme-md-generator (⭐11k)](https://github.com/kefranabg/readme-md-generator#readme) - A CLI that generates beautiful README.md files
-*   [Standard Readme (⭐6k)](https://github.com/RichardLitt/standard-readme#readme) - A standard README style specification. Has a generator to help create spec-compliant READMEs, too.
+*   [Standard Readme (⭐6.1k)](https://github.com/RichardLitt/standard-readme#readme) - A standard README style specification. Has a generator to help create spec-compliant READMEs, too.
 *   [Zalando's README Template (⭐801)](https://github.com/zalando/zalando-howto-open-source/blob/master/READMEtemplate.md#readme) - Simple template to help you cover all the basics.
 
 ### Creating GIFs
 
 *   [Peek (⭐10k)](https://github.com/phw/peek#readme) - **FREE** - Simple and easy to use for Linux users.
-*   [ScreenToGif (⭐23k)](https://github.com/NickeManarin/ScreenToGif/) - **FREE** - Open source, with a customizable UI and easily editable GIFs, easy to get started.
+*   [ScreenToGif (⭐24k)](https://github.com/NickeManarin/ScreenToGif/) - **FREE** - Open source, with a customizable UI and easily editable GIFs, easy to get started.
 *   [ttystudio (⭐3.2k)](https://github.com/chjj/ttystudio#readme) - **FREE** - For command-line tools, a terminal-to-GIF recorder minus the headaches.
 
 ### Get Feedback
 
-*   [feedmereadmes (⭐1.1k)](https://github.com/LappleApple/feedmereadmes#readme) - Free README editing+feedback to make your open-source projects grow. See the README maturity model to help you keep going.
+*   [feedmereadmes](https://github.com/LappleApple/feedmereadmes#readme) - Free README editing+feedback to make your open-source projects grow. See the README maturity model to help you keep going.
 
 ## [33. Awesome Actions on Google](/content/ravirupareliya/awesome-actions-on-google/week/README.md)
 
@@ -466,7 +464,7 @@
 
 ### Machine Learning
 
-*   [libsvm (⭐4.5k)](https://github.com/cjlin1/libsvm) - A simple, easy-to-use, efficient library for Support Vector Machines. \[BSD-3-Clause] [website](https://www.csie.ntu.edu.tw/~cjlin/libsvm/)
+*   [libsvm (⭐4.6k)](https://github.com/cjlin1/libsvm) - A simple, easy-to-use, efficient library for Support Vector Machines. \[BSD-3-Clause] [website](https://www.csie.ntu.edu.tw/~cjlin/libsvm/)
 
 ## [35. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
@@ -493,11 +491,11 @@
 
 ### Contents / Games
 
-*   [Pokedex (⭐2.2k)](https://github.com/scitbiz/flutter_pokedex) - Pokedex app built by [Pham Sy Hung](https://github.com/scitbiz).
+*   [Pokedex (⭐2.3k)](https://github.com/scitbiz/flutter_pokedex) - Pokedex app built by [Pham Sy Hung](https://github.com/scitbiz).
 
 ### Contents / Travel
 
-*   [Flight search (⭐862)](https://github.com/MarcinusX/flutter_ui_challenge_flight_search) - Flight search app by [Marcin Szałek](https://github.com/MarcinusX).
+*   [Flight search (⭐949)](https://github.com/MarcinusX/flutter_ui_challenge_flight_search) - Flight search app by [Marcin Szałek](https://github.com/MarcinusX).
 
 ## [37. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
@@ -523,13 +521,7 @@
 
 *   [serverlessDotNetStarter (⭐52)](https://github.com/pharindoko/serverlessDotNetStarter) starter kit for development and deployment of lambda functions in the AWS cloud based on serverless framework.
 
-## [39. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
-
-### Analytics, Events and Statistics
-
-*   [quantcast.com](https://www.quantcast.com/products/measure-audience-insights/) — Unlimited free analytics
-
-## [40. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
+## [39. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
 
 ### Objective-C
 
@@ -539,7 +531,7 @@
 
 *   [*SwiftUI by Example* by Paul Hudson](https://www.hackingwithswift.com/quick-start/swiftui)
 
-## [41. Awesome Git Hooks](/content/CompSciLauren/awesome-git-hooks/week/README.md)
+## [40. Awesome Git Hooks](/content/CompSciLauren/awesome-git-hooks/week/README.md)
 
 ### Quick Start / update
 
@@ -549,7 +541,7 @@
 *   Open your new file and paste the code from the hook you chose out of this repo (eg: [verify-name-and-email.hook (⭐919)](https://github.com/CompSciLauren/git-hooks/blob/master/pre-commit-hooks/verify-name-and-email.hook)).
 *   Save file. Done! Now the git hook will be triggered automatically.
 
-## [42. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
+## [41. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
 
 ### Photography / CC0-license
 
@@ -557,7 +549,7 @@
 
 ### Vector Graphics / Unspecified License
 
-*   [Mega Doodles Pack (⭐469)](https://github.com/MariaLetta/mega-doodles-pack) - [:copyright:](https://creativecommons.org/licenses/by-sa/4.0/) Free and big CC Attribution-ShareAlike 4.0 vector pack with hand-drawn doodles for presentations, social media, blog posts and so on.
+*   [Mega Doodles Pack (⭐496)](https://github.com/MariaLetta/mega-doodles-pack) - [:copyright:](https://creativecommons.org/licenses/by-sa/4.0/) Free and big CC Attribution-ShareAlike 4.0 vector pack with hand-drawn doodles for presentations, social media, blog posts and so on.
 
 ### Fonts / Unspecified License
 
@@ -568,13 +560,13 @@
 *   [Devicons](http://vorillaz.github.io/devicons/#/main) - [:copyright:](https://choosealicense.com/licenses/mit/) Meet Devicons, an iconic font made for developers, code jedis, ninjas, HTTPsters, evangelists and nerds(sic). 100+ icons ready to use in your next project.
 *   [Pathlove Icons](https://pathlove.com/icons/) - [:copyright:](https://creativecommons.org/licenses/by-nc-nd/4.0/) 100+ cute and vibrant icons. Free for personal and commercial use; attribution required.
 
-## [43. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [42. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Extensions
 
-*   [next-session (⭐334)](https://github.com/hoangvvo/next-session) - Session middleware for Next.js
+*   [next-session (⭐354)](https://github.com/hoangvvo/next-session) - Session middleware for Next.js
 
-## [44. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [43. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / Adapters
 
@@ -644,7 +636,7 @@
 
 *   [glimmer-hn-pwa (⭐28)](https://github.com/mhadaily/glimmer-hn-pwa) - A Demonstration Of Hacker News Progressive Web App Powered By Glimmer.js.
 
-## [45. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [44. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### OS Images
 
@@ -652,15 +644,9 @@
 
 ### Tools
 
-*   [HealthyPi (⭐192)](https://github.com/Protocentral/protocentral-healthypi-v3) - HAT which includes vital health monitoring like ECG, respiration, pulse oximetry and optional blood pressure & body temperature sensing. ![Supports Raspberry Pi 2+](https://github.com/thibmaek/awesome-raspberry-pi/raw/main/media/badges/rpi-2+.png)
+*   [HealthyPi (⭐196)](https://github.com/Protocentral/protocentral-healthypi-v3) - HAT which includes vital health monitoring like ECG, respiration, pulse oximetry and optional blood pressure & body temperature sensing. ![Supports Raspberry Pi 2+](https://github.com/thibmaek/awesome-raspberry-pi/raw/main/media/badges/rpi-2+.png)
 
-## [46. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
-
-### Files and Directories / File Managers
-
-*   [fff (⭐4k)](https://github.com/dylanaraps/fff) - Fast, simple file manager.
-
-## [47. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [45. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### REST / ORM
 

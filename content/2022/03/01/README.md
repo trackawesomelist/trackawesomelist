@@ -32,17 +32,17 @@
 
 ### Utility
 
-*   [vaker (⭐18)](https://github.com/ChAoSUnItY/vaker) - A light-weight compile-time-generated data faker written in V.
+*   [vaker (⭐17)](https://github.com/ChAoSUnItY/vaker) - A light-weight compile-time-generated data faker written in V.
 
 ## [5. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Email
 
-*   [truemail-go (⭐98)](https://github.com/truemail-rb/truemail-go) - Configurable Golang email validator/verifier. Verify email via Regex, DNS, SMTP and even more.
+*   [truemail-go (⭐108)](https://github.com/truemail-rb/truemail-go) - Configurable Golang email validator/verifier. Verify email via Regex, DNS, SMTP and even more.
 
 ### Web Frameworks
 
-*   [Beego (⭐31k)](https://github.com/beego/beego) - beego is an open-source, high-performance web framework for the Go programming language.
+*   [Beego (⭐32k)](https://github.com/beego/beego) - beego is an open-source, high-performance web framework for the Go programming language.
 
 ## [6. Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md)
 
@@ -93,7 +93,7 @@
 
 ### Related Awesome Lists / Randomized Algorithms
 
-*   [Theoretical Computer Science (⭐625)](https://github.com/mostafatouny/awesome-theoretical-computer-science/blob/main/README.md) - The interdisciplinary of Mathematics and Computer Science, Distinguished by its emphasis on mathematical technique and rigour.
+*   [Theoretical Computer Science (⭐701)](https://github.com/mostafatouny/awesome-theoretical-computer-science/blob/main/README.md) - The interdisciplinary of Mathematics and Computer Science, Distinguished by its emphasis on mathematical technique and rigour.
 
 ## [7. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
 
@@ -109,7 +109,7 @@
 
 ### Crates / Component Libraries
 
-*   [yew-chart (⭐56)](https://github.com/titanclass/yew-chart) - A Yew-based charting library that provides SVG based components for rendering charts.
+*   [yew-chart (⭐63)](https://github.com/titanclass/yew-chart) - A Yew-based charting library that provides SVG based components for rendering charts.
 
 ### Articles / Frameworks
 
@@ -119,8 +119,8 @@
 
 ### Admin
 
-*   [FastAPI Admin (⭐2.8k)](https://github.com/fastapi-admin/fastapi-admin) - Functional admin panel that provides a user interface for performing CRUD operations on your data. Currently only works with the Tortoise ORM.
-*   [Piccolo Admin (⭐308)](https://github.com/piccolo-orm/piccolo_admin) - A powerful and modern admin GUI, using the Piccolo ORM.
+*   [FastAPI Admin (⭐3k)](https://github.com/fastapi-admin/fastapi-admin) - Functional admin panel that provides a user interface for performing CRUD operations on your data. Currently only works with the Tortoise ORM.
+*   [Piccolo Admin (⭐327)](https://github.com/piccolo-orm/piccolo_admin) - A powerful and modern admin GUI, using the Piccolo ORM.
 
 ---
 

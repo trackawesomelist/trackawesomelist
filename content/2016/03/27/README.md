@@ -1,28 +1,22 @@
 # Awesome List Updates on Mar 27, 2016
 
-6 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
-
-### Companies with "remote DNA"
-
-*   [Datadog](https://www.datadoghq.com/careers/) - Easy to use and scalable monitoring systems for modern and dynamic infrastructure.  Distributed team with offices in New York, Boston and Paris.  Engineers based all around the world.
-
-## [2. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [1. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Misc
 
-*   [immutable (⭐203)](https://github.com/lucaong/immutable) - Implementation of thread-safe, persistent, immutable collections
+*   [immutable (⭐201)](https://github.com/lucaong/immutable) - Implementation of thread-safe, persistent, immutable collections
 
 ### Testing
 
 *   [crotest (⭐28)](https://github.com/emancu/crotest) - A tiny and simple test framework
 
-## [3. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/README.md)
+## [2. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/README.md)
 
 ### Downloads
 
@@ -78,13 +72,13 @@
 *   [HTML5DevConf: Jordan Santell, "Browser Dance Party: Visualizing Audio with the Web Audio API"](https://www.youtube.com/watch?v=TdgBAhGmoH4)
 *   [Praveen Kumar - MIDI.js](https://www.youtube.com/watch?v=xw86fXq2cKM)
 
-## [4. Awesome Groovy](/content/kdabir/awesome-groovy/README.md)
+## [3. Awesome Groovy](/content/kdabir/awesome-groovy/README.md)
 
 ### Database
 
 *   [elasticsearch-groovy (⭐37)](https://github.com/elastic/elasticsearch-groovy) - Elasticsearch Groovy client
 
-## [5. Awesome Backbone](/content/sadcitizen/awesome-backbone/README.md)
+## [4. Awesome Backbone](/content/sadcitizen/awesome-backbone/README.md)
 
 ### Libraries
 
@@ -103,7 +97,7 @@
 *   [Backbone.Radio (⭐494)](https://github.com/marionettejs/backbone.radio)
 *   [Backbone.BabySitter (⭐380)](https://github.com/marionettejs/backbone.babysitter)
 
-## [6. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
+## [5. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
 
 ### Laravel
 

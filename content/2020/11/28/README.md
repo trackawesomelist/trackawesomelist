@@ -10,19 +10,19 @@
 
 ### Contents / Extensions
 
-*   [pg\_cron (⭐2.7k)](https://github.com/citusdata/pg_cron) - Run periodic jobs in PostgreSQL.
+*   [pg\_cron (⭐2.8k)](https://github.com/citusdata/pg_cron) - Run periodic jobs in PostgreSQL.
 
 ## [2. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Desktop / Game Engine resources
 
-*   [bitsdojo\_window (⭐784)](https://github.com/bitsdojo/bitsdojo_window) <!--bitsdojo/bitsdojo_window--> - Customize windows owner-drawn chrome by [BitsDojo](https://github.com/bitsdojo)
+*   [bitsdojo\_window (⭐817)](https://github.com/bitsdojo/bitsdojo_window) <!--bitsdojo/bitsdojo_window--> - Customize windows owner-drawn chrome by [BitsDojo](https://github.com/bitsdojo)
 
 ## [3. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Misc
 
-*   [Kotlin/kotlinx-datetime (⭐2.4k)](https://github.com/Kotlin/kotlinx-datetime) - A multiplatform Kotlin library for working with date and time.
+*   [Kotlin/kotlinx-datetime (⭐2.5k)](https://github.com/Kotlin/kotlinx-datetime) - A multiplatform Kotlin library for working with date and time.
 
 ## [4. Awesome Credit Modeling](/content/mourarthur/awesome-credit-modeling/README.md)
 
@@ -52,7 +52,7 @@
 ### Community
 
 *   [Complete Terraform documentation as PDF files (Updated nightly) (⭐201)](https://github.com/antonbabenko/terraform-docs-as-pdf)
-*   [Terraform AWS Modules](https://github.com/terraform-aws-modules) + [meta-configurations repository (⭐76)](https://github.com/terraform-aws-modules/meta)
+*   [Terraform AWS Modules](https://github.com/terraform-aws-modules) + [meta-configurations repository (⭐77)](https://github.com/terraform-aws-modules/meta)
 
 ### Tutorials and Blog Posts / How-To
 
@@ -60,14 +60,14 @@
 
 ### Tools / Community providers
 
-*   [Checkov (⭐6.8k)](https://github.com/bridgecrewio/checkov/) - Terraform static analysis tool for terraform>=0.12
-*   [TerraDepot (⭐65)](https://github.com/derBroBro/TerraDepot) Terraform state repository, based on the default http remote backend. Allows the central administration of tfstates on AWS S3.
-*   [Terraform-Visual (⭐604)](https://github.com/hieven/terraform-visual) - A simple but powerful tool to visualize Terraform plan.
-*   [terratag (⭐926)](https://github.com/env0/terratag) - Terratag is a CLI tool that enables users of Terraform to automatically create and maintain tags across their entire set of AWS, Azure, and GCP resources.
+*   [Checkov (⭐7.3k)](https://github.com/bridgecrewio/checkov/) - Terraform static analysis tool for terraform>=0.12
+*   [TerraDepot (⭐66)](https://github.com/derBroBro/TerraDepot) Terraform state repository, based on the default http remote backend. Allows the central administration of tfstates on AWS S3.
+*   [Terraform-Visual (⭐624)](https://github.com/hieven/terraform-visual) - A simple but powerful tool to visualize Terraform plan.
+*   [terratag (⭐956)](https://github.com/env0/terratag) - Terratag is a CLI tool that enables users of Terraform to automatically create and maintain tags across their entire set of AWS, Azure, and GCP resources.
 
 ### Libraries / IDE
 
-*   [python-hcl2 (⭐244)](https://github.com/amplify-education/python-hcl2/) - HCL2 parser in Python
+*   [python-hcl2 (⭐257)](https://github.com/amplify-education/python-hcl2/) - HCL2 parser in Python
 
 ## [7. Awesome Saltstack](/content/hbokh/awesome-saltstack/README.md)
 
@@ -89,7 +89,7 @@
 
 ### Software / Communication - Custom Communication Systems
 
-*   [Tinode](https://github.com/tinode) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots. ([Demo](https://sandbox.tinode.co/), [Source Code (⭐12k)](https://github.com/tinode/chat), [Clients (⭐316)](https://github.com/tinode/webapp)) `GPL-3.0` `Go`
+*   [Tinode](https://github.com/tinode) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots. ([Demo](https://sandbox.tinode.co/), [Source Code (⭐12k)](https://github.com/tinode/chat), [Clients (⭐328)](https://github.com/tinode/webapp)) `GPL-3.0` `Go`
 
 ### Software / Polls and Events
 
@@ -111,8 +111,8 @@
 
 ### Translations
 
-*   [English (⭐133)](https://github.com/mbiesiad/awesome-translations)
-*   [Polish (⭐133)](https://github.com/mbiesiad/awesome-translations/tree/pl_PL)
+*   [English (⭐136)](https://github.com/mbiesiad/awesome-translations)
+*   [Polish (⭐136)](https://github.com/mbiesiad/awesome-translations/tree/pl_PL)
 
 ### Platforms / Localization and translation platforms
 
@@ -132,7 +132,7 @@
 
 ### Apps / Automated translation
 
-*   [RTranslator (⭐6.1k)](https://github.com/niedev/RTranslator) - A simultaneous translator app for Android based on NLLB and Whisper that runs locally.
+*   [RTranslator (⭐6.3k)](https://github.com/niedev/RTranslator) - A simultaneous translator app for Android based on NLLB and Whisper that runs locally.
 *   [Crow Translate (⭐1.8k)](https://github.com/crow-translate/crow-translate) - A simple and lightweight translator for Linux and Windows that allows to translate and speak text using Google, Yandex and Bing translate API.
 *   [Copy Translator (⭐17k)](https://github.com/CopyTranslator/CopyTranslator) - An app for Windows, Mac and Linux that automatically translate and adapt a text when copied in the clipboard.
 
@@ -178,8 +178,8 @@
 
 ### Security
 
-*   [Lockpicking (⭐1.4k)](https://github.com/fabacab/awesome-lockpicking#readme) - The art of unlocking a lock by manipulating its components without the key.
-*   [Cybersecurity Blue Team (⭐4.2k)](https://github.com/fabacab/awesome-cybersecurity-blueteam#readme) - Groups of individuals who identify security flaws in information technology systems.
+*   [Lockpicking (⭐1.5k)](https://github.com/fabacab/awesome-lockpicking#readme) - The art of unlocking a lock by manipulating its components without the key.
+*   [Cybersecurity Blue Team (⭐4.4k)](https://github.com/fabacab/awesome-cybersecurity-blueteam#readme) - Groups of individuals who identify security flaws in information technology systems.
 
 ## [15. Awesome Tensorflow Js](/content/aaronhma/awesome-tensorflow-js/README.md)
 

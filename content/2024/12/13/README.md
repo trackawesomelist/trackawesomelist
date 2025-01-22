@@ -10,7 +10,7 @@
 
 ### Miscellaneous
 
-*   [tiny::optional (⭐107)](https://github.com/Sedeniono/tiny-optional/) - Replacement for std::optional that does not waste memory unnecessarily. \[BSL-1.0]
+*   [tiny::optional (⭐113)](https://github.com/Sedeniono/tiny-optional/) - Replacement for std::optional that does not waste memory unnecessarily. \[BSL-1.0]
 
 ## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -36,17 +36,17 @@
 
 ### Utilities
 
-*   [jet (⭐6)](https://github.com/NicoNex/jet) - Just Edit Text: a fast and powerful tool for finding and replacing file content and names using regular expressions.
+*   [jet (⭐11)](https://github.com/NicoNex/jet) - Just Edit Text: a fast and powerful tool for finding and replacing file content and names using regular expressions.
 
 ## [5. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Reading and Writing Tools / Ebooks
 
-*   [Readest (⭐298)](https://github.com/chrox/readest) - Readest is an ebook reader with cross-platform access, powerful tools, and an intuitive interface. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/chrox/readest) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Readest (⭐2.2k)](https://github.com/chrox/readest) - Readest is an ebook reader with cross-platform access, powerful tools, and an intuitive interface. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/chrox/readest) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / Menu Bar Tools
 
-*   [Peninsula (⭐221)](https://github.com/Celve/Peninsula) - Dynamic Peninsula for macOS, focusing on window switching, notifications, and file storage. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Celve/Peninsula) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Peninsula (⭐296)](https://github.com/Celve/Peninsula) - Dynamic Peninsula for macOS, focusing on window switching, notifications, and file storage. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Celve/Peninsula) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [6. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
@@ -64,8 +64,9 @@
 
 ### Modals / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-dialog (⭐2)](https://github.com/soc221b/ngx-dialog) - Type-safe Angular Dialogs Directive for Angular 16+.
+*   [ngx-dialog (⭐1)](https://github.com/soc221b/ngx-dialog) - Type-safe Angular Dialogs Directive for Angular 16+.
 
 ---
 
+- Prev: [Dec 14, 2024](/content/2024/12/14/README.md)
 - Next: [Dec 12, 2024](/content/2024/12/12/README.md)

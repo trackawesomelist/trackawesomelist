@@ -10,13 +10,13 @@
 
 ### Tools / Community providers
 
-*   [fuzzy-terraform-rm (⭐38)](https://github.com/paololazzari/fuzzy-terraform-rm) - A fuzzy-finder command-line tool for removing resources from terraform state.
+*   [fuzzy-terraform-rm (⭐37)](https://github.com/paololazzari/fuzzy-terraform-rm) - A fuzzy-finder command-line tool for removing resources from terraform state.
 
 ## [2. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Utilities / Markdown
 
-*   [gtree (⭐189)](https://github.com/ddddddO/gtree) - Use markdown to generate directory trees and the directories itself.
+*   [gtree (⭐246)](https://github.com/ddddddO/gtree) - Use markdown to generate directory trees and the directories itself.
 
 ## [3. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
 
@@ -27,14 +27,13 @@
 ### Registry / Other
 
 *   [Cloudsmith :heavy\_dollar\_sign:](https://cloudsmith.com/product/formats/docker-registry) - A fully managed package management SaaS, with first-class support for public and private Docker registries (and many others, incl. Helm charts for the Kubernetes ecosystem). Has a generous free-tier and is also completely free for open-source.
-*   [GCE Container Registry :heavy\_dollar\_sign:](https://cloud.google.com/artifact-registry) Fast, private Docker image storage on Google Cloud Platform
 *   [Sonatype Nexus Repository](https://www.sonatype.com/products/sonatype-nexus-repository) - Manage binaries and build artifacts across your software supply chain.
 
 ## [4. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Front-End Development
 
-*   [Tiny JS (⭐669)](https://github.com/thoughtspile/awesome-tiny-js#readme) - Frontend libraries that fit into 2 kB with dependencies.
+*   [Tiny JS (⭐705)](https://github.com/thoughtspile/awesome-tiny-js#readme) - Frontend libraries that fit into 2 kB with dependencies.
 
 ## [5. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
@@ -51,7 +50,7 @@
 
 ### Global Connectivity Indexes
 
-*   [Internet Poverty Index](https://internetpoverty.io/) 2023 - The Internet Poverty Index from [World Data Lab.](https://worddatalab.com/)
+*   [Internet Poverty Index](https://internetpoverty.io/) 2024 - The Internet Poverty Index from [World Data Lab.](https://worddatalab.com/)
 
 ## [7. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -119,22 +118,22 @@
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [archlinux (fourdim) (⭐1)](https://github.com/fourdim/zsh-archlinux) - Defines helper functions for `pacman` on Arch Linux.
-*   [archlinux (junker) (⭐10)](https://github.com/Junker/zsh-archlinux) - Based on the oh-my-zsh [archlinux (⭐172k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/archlinux) plugin. Defines helper functions and aliases.
-*   [bob (⭐3)](https://github.com/wintermi/zsh-bob) - Plugin for [bob (⭐1.4k)](https://github.com/MordechaiHadad/bob) a cross-platform and easy-to-use Neovim version manager.
-*   [fnm (dominik-schwabe) (⭐15)](https://github.com/dominik-schwabe/zsh-fnm) - Installs and loads the [Fast Node Manager (fnm) (⭐17k)](https://github.com/Schniz/fnm) if it is missing.
-*   [fnm (wintermi) (⭐3)](https://github.com/wintermi/zsh-fnm) - Helper plugin for the fast and simple Node.js version manager [fnm (⭐17k)](https://github.com/Schniz/fnm).
-*   [git-check (⭐1)](https://github.com/git-girl/git-check) - Adds a ZSH hook to check if the origin of the current branch has changes to local in the background and sends a notification.
+*   [archlinux (junker) (⭐9)](https://github.com/Junker/zsh-archlinux) - Based on the oh-my-zsh [archlinux (⭐175k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/archlinux) plugin. Defines helper functions and aliases.
+*   [bob (⭐3)](https://github.com/wintermi/zsh-bob) - Plugin for [bob (⭐1.5k)](https://github.com/MordechaiHadad/bob) a cross-platform and easy-to-use Neovim version manager.
+*   [fnm (dominik-schwabe) (⭐16)](https://github.com/dominik-schwabe/zsh-fnm) - Installs and loads the [Fast Node Manager (fnm) (⭐19k)](https://github.com/Schniz/fnm) if it is missing.
+*   [fnm (wintermi) (⭐3)](https://github.com/wintermi/zsh-fnm) - Helper plugin for the fast and simple Node.js version manager [fnm (⭐19k)](https://github.com/Schniz/fnm).
+*   [git-check](https://github.com/git-girl/git-check) - Adds a ZSH hook to check if the origin of the current branch has changes to local in the background and sends a notification.
 *   [iwd (⭐3)](https://github.com/zshzoo/iwd) - Similar in concept to `$PWD`, this ZSH plugin saves your initial working directory in `$IWD` for easy returns to the starting point of your session.
-*   [vivid (⭐8)](https://github.com/ryanccn/vivid-zsh) - Make it easier to use `LSCOLORS` with [vivid (⭐1.7k)](https://github.com/sharkdp/vivid).
+*   [vivid (⭐10)](https://github.com/ryanccn/vivid-zsh) - Make it easier to use `LSCOLORS` with [vivid (⭐1.8k)](https://github.com/sharkdp/vivid).
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [poetry (⭐1)](https://github.com/fourdim/zsh-poetry) - Tab completions for [poetry](https://python-poetry.org/).
+*   [poetry (⭐3)](https://github.com/fourdim/zsh-poetry) - Tab completions for [poetry](https://python-poetry.org/).
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [buddha (⭐0)](https://github.com/BuddhaDom/zsh-buddha) - Includes decorators for `git` status, current directory, exit status of last command run and username\@hostname.
-*   [firefoxic (⭐0)](https://github.com/firefoxic/firefoxic-zsh-theme/) - Fork of [Bureau (⭐33)](https://github.com/isqua/bureau) with tweaks to the node and `git` decorators.
+*   [firefoxic (⭐0)](https://github.com/firefoxic/firefoxic-zsh-theme/) - Fork of [Bureau (⭐37)](https://github.com/isqua/bureau) with tweaks to the node and `git` decorators.
 *   [renanborgez (⭐2)](https://github.com/renanborgez/ohmyzsh-theme-renanborgez) - Works well on dark backgrounds. Includes decorators for `nvm` and `git` information.
 
 ## [10. Awesome Stacks Chain](/content/friedger/awesome-stacks-chain/week/README.md)
@@ -227,7 +226,7 @@
 
 ### 🚧 Boilerplates / 🌱 Third Party
 
-*   [mikhail-bigun/go-app-template (⭐14)](https://github.com/mikhail-bigun/go-app-template) - Clean architecture Go application boilerplate with enriched Fiber implementation.
+*   [mikhail-bigun/go-app-template (⭐17)](https://github.com/mikhail-bigun/go-app-template) - Clean architecture Go application boilerplate with enriched Fiber implementation.
 
 ## [13. Awesome Speakers](/content/karlhorky/awesome-speakers/week/README.md)
 
@@ -289,7 +288,7 @@ Topics: React, React Native, GraphQL, Universal Components\
 
 ### Boilerplates
 
-*   [Next.js Enterprise (⭐5.2k)](https://github.com/Blazity/next-enterprise) - enterprise-grade boilerplate for high-performance, maintainable apps. Built with Tailwind CSS, RadixUI, TypeScript and more.
+*   [Next.js Enterprise](https://github.com/Blazity/next-enterprise) - enterprise-grade boilerplate for high-performance, maintainable apps. Built with Tailwind CSS, RadixUI, TypeScript and more.
 
 ### Videos
 
@@ -299,7 +298,7 @@ Topics: React, React Native, GraphQL, Universal Components\
 
 ### Authentication Authorisation
 
-*   [Vert.x Auth SQL (⭐154)](https://github.com/eclipse-vertx/vertx-auth)  <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Vert.x authentication/authorisation based on the Vert.x SQL client and a relational database.
+*   [Vert.x Auth SQL (⭐166)](https://github.com/eclipse-vertx/vertx-auth)  <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Vert.x authentication/authorisation based on the Vert.x SQL client and a relational database.
 
 ## [16. Awesome Product Management](/content/dend/awesome-product-management/week/README.md)
 
@@ -323,7 +322,7 @@ Topics: React, React Native, GraphQL, Universal Components\
 
 ### Browser-Based / Others
 
-*   [Double Damnation (⭐17)](https://github.com/TheYellowArchitect/doubledamnation) - Exclusively Co-Op Metroidvania with Smash Bros Melee Movement.
+*   [Double Damnation (⭐20)](https://github.com/TheYellowArchitect/doubledamnation) - Exclusively Co-Op Metroidvania with Smash Bros Melee Movement.
 
 ## [18. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
@@ -403,19 +402,15 @@ Topics: React, React Native, GraphQL, Universal Components\
 
 ### Software / Database Management
 
-*   [Evidence](https://evidence.dev) - Evidence is a code-based BI tool. Write reports using SQL and markdown and they render as a website. ([Source Code (⭐4.1k)](https://github.com/evidence-dev/evidence)) `MIT` `Nodejs`
-
-### Software / Miscellaneous
-
-*   [OTS-Share (⭐57)](https://github.com/rpgeeganage/ots-share-app) - A self-hosting app to share secrets with file support up to 1MB. `MIT` `Docker`
+*   [Evidence](https://evidence.dev) - Evidence is a code-based BI tool. Write reports using SQL and markdown and they render as a website. ([Source Code (⭐4.8k)](https://github.com/evidence-dev/evidence)) `MIT` `Nodejs`
 
 ### Software / Pastebins
 
-*   [Opengist (⭐1.6k)](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git. ([Demo](https://demo.opengist.io)) `AGPL-3.0` `Docker/Go/Nodejs`
+*   [Opengist (⭐2k)](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git. ([Demo](https://demo.opengist.io)) `AGPL-3.0` `Docker/Go/Nodejs`
 
 ### Software / Software Development - Project Management
 
-*   [Plane](https://plane.so) - Helps you track your issues, epics, and product roadmaps in the simplest way possible (alternative to JIRA, Linear and Height). ([Demo](https://app.plane.so), [Source Code (⭐27k)](https://github.com/makeplane/plane)) `Apache-2.0` `Docker`
+*   [Plane](https://plane.so) - Helps you track your issues, epics, and product roadmaps in the simplest way possible (alternative to JIRA, Linear and Height). ([Demo](https://app.plane.so), [Source Code (⭐32k)](https://github.com/makeplane/plane)) `Apache-2.0` `Docker`
 
 ## [23. Awesome Building Blocks for Web Apps](/content/componently-com/awesome-building-blocks-for-web-apps/week/README.md)
 
@@ -447,13 +442,13 @@ Topics: React, React Native, GraphQL, Universal Components\
 
 *   [timqian/openprompt.co (⭐1.2k)](https://github.com/timqian/openprompt.co): Create. Use. Share. ChatGPT prompts
 *   [60 ChatGPT Prompts for Data Science (Tried, Tested, and Rated)](https://medium.datadriveninvestor.com/60-chatgpt-prompts-for-data-science-tried-tested-and-rated-4994c7e6adb2): post by Travis Tang from DataDrivenInvestor
-*   [f/awesome-chatgpt-prompts (⭐108k)](https://github.com/f/awesome-chatgpt-prompts): this repo includes ChatGPT prompt curation to use ChatGPT better
-*   [brexhq/prompt-engineering (⭐8.2k)](https://github.com/brexhq/prompt-engineering): "Tips and tricks for working with Large Language Models like OpenAI's GPT-4"
+*   [f/awesome-chatgpt-prompts (⭐118k)](https://github.com/f/awesome-chatgpt-prompts): this repo includes ChatGPT prompt curation to use ChatGPT better
+*   [brexhq/prompt-engineering (⭐8.6k)](https://github.com/brexhq/prompt-engineering): "Tips and tricks for working with Large Language Models like OpenAI's GPT-4"
 
 ### Autonomous LLM Agents / Prompt Engineering for Text-to-image
 
-*   [Vercel for AI agents (⭐6.5k)](https://github.com/e2b-dev/e2b): "help developers to build, deploy, and monitor AI agents, focusing on specialized AI agents that build software for you - your personal software developers"
-*   [101dotxyz/GPTeam (⭐1.6k)](https://github.com/101dotxyz/GPTeam): "GPTeam uses GPT-4 to create multiple agents who collaborate to achieve predefined goals"
+*   [Vercel for AI agents (⭐7.4k)](https://github.com/e2b-dev/e2b): "help developers to build, deploy, and monitor AI agents, focusing on specialized AI agents that build software for you - your personal software developers"
+*   [101dotxyz/GPTeam (⭐1.7k)](https://github.com/101dotxyz/GPTeam): "GPTeam uses GPT-4 to create multiple agents who collaborate to achieve predefined goals"
 
 ### Text-related Generative Tools / Multi-agents
 
@@ -467,15 +462,15 @@ Topics: React, React Native, GraphQL, Universal Components\
 
 *   [Nathan Lands on Twitter: "AI video has started to produce mindblowing results and could eventually disrupt Hollywood / Twitter](https://twitter.com/NathanLands/status/1659195191591596033): Twitter thread with examples of Generative AI tools for video
 
-### Inbox: Speech-to-text (STT) and spoken content analysis / Deforum
+### Speech-to-text (STT) and spoken content analysis / Deforum
 
-*   [e2b-dev/e2b (⭐6.5k)](https://github.com/e2b-dev/e2b): "Open-source platform for building AI-powered virtual software developers"
+*   [e2b-dev/e2b (⭐7.4k)](https://github.com/e2b-dev/e2b): "Open-source platform for building AI-powered virtual software developers"
 
 ## [26. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Utility / Diagnostics
 
-*   [RutaTang/compter.nvim (⭐24)](https://github.com/RutaTang/compter.nvim) - Power and extend the ability of `<C-a>` and `<C-x>` with customized patterns.
+*   [RutaTang/compter.nvim (⭐27)](https://github.com/RutaTang/compter.nvim) - Power and extend the ability of `<C-a>` and `<C-x>` with customized patterns.
 
 ### Session / Diagnostics
 
@@ -485,9 +480,9 @@ Topics: React, React Native, GraphQL, Universal Components\
 
 ### Themes
 
-*   [catppuccin (⭐1.6k)](https://github.com/catppuccin/tmux) Catppuccin `Latte`, `Frappe`, `Macchiato`, and `Mocha` themes for tmux.
-*   [tmux-dark-notify (⭐42)](https://github.com/erikw/tmux-dark-notify) - Make tmux's theme follow macOS dark/light mode.
-*   [tmux-tokyo-night (⭐127)](https://github.com/fabioluciano/tmux-tokyo-night) A vim inspired tokyo night theme
+*   [catppuccin (⭐2k)](https://github.com/catppuccin/tmux) Catppuccin `Latte`, `Frappe`, `Macchiato`, and `Mocha` themes for tmux.
+*   [tmux-dark-notify (⭐50)](https://github.com/erikw/tmux-dark-notify) - Make tmux's theme follow macOS dark/light mode.
+*   [tmux-tokyo-night (⭐184)](https://github.com/fabioluciano/tmux-tokyo-night) A vim inspired tokyo night theme
 
 ### Plugins
 

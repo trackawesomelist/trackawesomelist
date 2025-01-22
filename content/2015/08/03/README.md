@@ -10,7 +10,7 @@
 
 ### Image Processing
 
-*   [MetadataExtractor (⭐921)](https://github.com/drewnoakes/metadata-extractor-dotnet) - Extracts Exif, IPTC, XMP, ICC and other metadata from image files.
+*   [MetadataExtractor (⭐965)](https://github.com/drewnoakes/metadata-extractor-dotnet) - Extracts Exif, IPTC, XMP, ICC and other metadata from image files.
 
 ## [2. Awesome D](/content/dlang-community/awesome-d/README.md)
 
@@ -57,7 +57,7 @@
 
 ### Table of Contents / Architectural
 
-*   [Pipeline (⭐945)](https://github.com/thephpleague/pipeline) - A pipeline pattern implementation.
+*   [Pipeline (⭐971)](https://github.com/thephpleague/pipeline) - A pipeline pattern implementation.
 
 ## [6. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
@@ -69,7 +69,7 @@
 
 ### Libraries / Parsing
 
-*   [kevinmehall/rust-peg (⭐1.4k)](https://github.com/kevinmehall/rust-peg) - Parsing Expression Grammar (PEG) parser generator
+*   [kevinmehall/rust-peg (⭐1.5k)](https://github.com/kevinmehall/rust-peg) - Parsing Expression Grammar (PEG) parser generator
 
 ## [8. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/README.md)
 

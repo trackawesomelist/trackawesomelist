@@ -14,8 +14,8 @@
 
 ### Apps / Design Tools
 
-*   [Akira (⭐5.2k)](https://github.com/akiraux/Akira) -  Native Linux App for UI and UX Design built in Vala and GTK.
-*   [Birdfont (⭐400)](https://github.com/johanmattssonm/birdfont) - A font editor for creating fonts in TTF, EOT, SVG and BIRDFONT format.
+*   [Akira (⭐5.3k)](https://github.com/akiraux/Akira) -  Native Linux App for UI and UX Design built in Vala and GTK.
+*   [Birdfont (⭐465)](https://github.com/johanmattssonm/birdfont) - A font editor for creating fonts in TTF, EOT, SVG and BIRDFONT format.
 
 ### Apps / Development Tools
 
@@ -26,11 +26,11 @@
 
 *   [High Score (GNOME Games)](https://gitlab.gnome.org/World/highscore) - Retro gaming application for the GNOME desktop.
 *   [Sage (⭐10)](https://github.com/antolius/sage) - A code breaking game made for elementary OS.
-*   [Warble (⭐84)](https://github.com/avojak/warble) - Native Linux word-guessing game built in Vala and Gtk for elementary OS.
+*   [Warble (⭐88)](https://github.com/avojak/warble) - Native Linux word-guessing game built in Vala and Gtk for elementary OS.
 
 ### Apps / Internet Browsers
 
-*   [Starfish (⭐21)](https://github.com/starfish-app/Starfish) - A Gemini browser for elementary OS.
+*   [Starfish (⭐25)](https://github.com/starfish-app/Starfish) - A Gemini browser for elementary OS.
 
 ### Apps / Music
 
@@ -38,29 +38,29 @@
 
 ### Apps / Personalization
 
-*   [Korembi (⭐3.2k)](https://github.com/cheesecakeufo/komorebi) - A beautiful and customizable wallpapers manager for Linux.
+*   [Korembi (⭐3.5k)](https://github.com/cheesecakeufo/komorebi) - A beautiful and customizable wallpapers manager for Linux.
 
 ### Apps / Productivity
 
-*   [Badger (⭐52)](https://github.com/elfenware/badger) - Remind yourself to not sit and stare at the screen for too long.
+*   [Badger (⭐53)](https://github.com/elfenware/badger) - Remind yourself to not sit and stare at the screen for too long.
 *   [Blackbox](https://gitlab.gnome.org/raggesilver/blackbox) - A beautiful GTK 4 terminal.
-*   [Flowtime (⭐96)](https://github.com/Diego-Ivan/Flowtime) - GTK4 Libadwaita Pomodoro Timer.
+*   [Flowtime (⭐118)](https://github.com/Diego-Ivan/Flowtime) - GTK4 Libadwaita Pomodoro Timer.
 *   [geary](https://gitlab.gnome.org/GNOME/geary) - Geary is an email application built around conversations, for the GNOME 3 desktop.
-*   [graphui (⭐19)](https://github.com/artemanufrij/graphui) - Graph Visualization based on graphviz.
-*   [Ideogram (⭐94)](https://github.com/cassidyjames/ideogram) -  Emoji Picker app.
-*   [Notejot (⭐369)](https://github.com/lainsce/notejot) - Stupidly-simple notes app.
-*   [Notes-up (⭐613)](https://github.com/Philip-Scott/Notes-up) - Markdown notes editor & manager.
+*   [graphui (⭐21)](https://github.com/artemanufrij/graphui) - Graph Visualization based on graphviz.
+*   [Ideogram (⭐91)](https://github.com/cassidyjames/ideogram) -  Emoji Picker app.
+*   [Notejot (⭐393)](https://github.com/lainsce/notejot) - Stupidly-simple notes app.
+*   [Notes-up (⭐627)](https://github.com/Philip-Scott/Notes-up) - Markdown notes editor & manager.
 *   [Paper](https://gitlab.com/posidon_software/paper/) - Take notes in Markdown.
-*   [Spice-up (⭐598)](https://github.com/Philip-Scott/Spice-up) - Presentations App for the modern Linux Desktop.
+*   [Spice-up (⭐602)](https://github.com/Philip-Scott/Spice-up) - Presentations App for the modern Linux Desktop.
 
 ### Apps / System Tools
 
 *   [Connections](https://gitlab.gnome.org/GNOME/connections) - A remote desktop client for the GNOME desktop environment.
-*   [elementary OS App Center (⭐531)](https://github.com/elementary/appcenter) - Pay-what-you-can app store for elementary OS.
+*   [elementary OS App Center (⭐543)](https://github.com/elementary/appcenter) - Pay-what-you-can app store for elementary OS.
 *   [Man Helper (⭐11)](https://github.com/akarin123/manhelper) -  A lightweight GTK front-end for man pages.
-*   [Monitor (⭐298)](https://github.com/stsdc/monitor) - Manage processes and monitor system resources.
-*   [Peek (⭐9.9k)](https://github.com/phw/peek) - Simple animated GIF screen recorder with an easy to use interface.
-*   [SwayNotifiationCenter (⭐849)](https://github.com/ErikReider/SwayNotificationCenter) - A simple GTK based notification daemon for SwayWM.
+*   [Monitor (⭐330)](https://github.com/stsdc/monitor) - Manage processes and monitor system resources.
+*   [Peek (⭐10k)](https://github.com/phw/peek) - Simple animated GIF screen recorder with an easy to use interface.
+*   [SwayNotifiationCenter (⭐1.5k)](https://github.com/ErikReider/SwayNotificationCenter) - A simple GTK based notification daemon for SwayWM.
 
 ### Apps / Virtualization
 
@@ -72,20 +72,20 @@
 
 ### CLI Tools / Weather
 
-*   [EasyDocs (⭐6)](https://github.com/watsonprojects/EasyDocs) -  Quickly read developer documentation.
+*   [EasyDocs (⭐7)](https://github.com/watsonprojects/EasyDocs) -  Quickly read developer documentation.
 *   [Spider (⭐2)](https://github.com/colinkiama/spider) - Quickly generate a HTML5 site structure.
-*   [Valdo (⭐45)](https://github.com/vala-lang/valdo) - Create new Vala projects from templates.
+*   [Valdo (⭐52)](https://github.com/vala-lang/valdo) - Create new Vala projects from templates.
 
 ### Editor Plugins / Weather
 
-*   [Vala VSCode (⭐38)](https://github.com/vala-lang/vala-vscode) - A plugin for Visual Studio Code that enables basic autocompletion and syntax highlighting for Vala.
+*   [Vala VSCode (⭐41)](https://github.com/vala-lang/vala-vscode) - A plugin for Visual Studio Code that enables basic autocompletion and syntax highlighting for Vala.
 *   [Vala-TMBundle (⭐21)](https://github.com/technosophos/Vala-TMBundle) - A TextMate bundle that provides Vala syntax highlighting, code completion, etc. Sublime Text 3 can also use this plugin.
 *   [language-vala-modern](https://atom.io/packages/language-vala-modern) - Provides Vala language support in Atom. It's a fork of the unmaintained "language-vala package".
 *   [Vala Syntax 4 Sublime Text](https://launchpad.net/valasyntax4sublimetext) - A basic plugin for Sublime Text 3 that provides syntax highlighting.
 
 ### Language Servers / Weather
 
-*   [vala-language-server (⭐267)](https://github.com/vala-lang/vala-language-server) - A language server that aims to provide code completion, formatting, syntax highlighting, and everything else according to the Language Server spec.
+*   [vala-language-server (⭐301)](https://github.com/vala-lang/vala-language-server) - A language server that aims to provide code completion, formatting, syntax highlighting, and everything else according to the Language Server spec.
 
 ### Libraries / Concurrency
 
@@ -106,18 +106,18 @@
 ### Libraries / Graphics Libraries
 
 *   [Babl](http://gegl.org/babl/) - A dynamic, any to any, pixel format translation library.
-*   [GRX (⭐16)](https://github.com/ev3dev/grx) - A graphics library for simple graphics displays (think 1-bit displays or Adafruit's PiTFT displays). It also includes keyboard, mouse, joystick and touchscreen input support.
+*   [GRX (⭐18)](https://github.com/ev3dev/grx) - A graphics library for simple graphics displays (think 1-bit displays or Adafruit's PiTFT displays). It also includes keyboard, mouse, joystick and touchscreen input support.
 *   [GSVG (GObject SVG Library)](https://gitlab.com/gsvg/gsvg) - GSVG is an effort to provide a GLib GObject implementation of W3C standard API.
-*   [live-chart (⭐60)](https://github.com/lcallarec/live-chart) - A real-time charting library for Vala and GTK3 based on Cairo.
+*   [live-chart (⭐75)](https://github.com/lcallarec/live-chart) - A real-time charting library for Vala and GTK3 based on Cairo.
 *   [SDL2](https://www.libsdl.org/) - A cross-platform development library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL, Direct3D, and Vulkan. Bindings are included in Vala and will be available starting with Vala 0.52.
 
 ### Libraries / IoC and Dependency Injection
 
-*   [Vadi (⭐18)](https://github.com/nahuelwexd/Vadi) - An IoC Container developed in order to facilitate the usage of dependency injection for Vala developers.
+*   [Vadi (⭐19)](https://github.com/nahuelwexd/Vadi) - An IoC Container developed in order to facilitate the usage of dependency injection for Vala developers.
 
 ### Libraries / Numerical Computation
 
-*   [balistica (⭐8)](https://github.com/fusilero/libbalistica) - An open source ballistic simulation library. There's a complete calculator [here (⭐53)](https://github.com/fusilero/balistica).
+*   [balistica (⭐11)](https://github.com/fusilero/libbalistica) - An open source ballistic simulation library. There's a complete calculator [here (⭐59)](https://github.com/fusilero/balistica).
 *   [vast (⭐11)](https://github.com/rainwoodman/vast) - A project for generative modeling in Vala. Think of TensorFlow rewritten in Vala.
 
 ### Libraries / Text Processing
@@ -126,8 +126,8 @@
 
 ### Libraries / Web Development
 
-*   [Ambition (⭐32)](https://github.com/AmbitionFramework/ambition) - A web framework written in Vala, with the MVC pattern in mind. Kinda unmaintained (someone could refactor it to use Valum under the hood, and maybe move it to Meson 😉).
-*   [Valum (⭐223)](https://github.com/valum-framework/valum) - A Web micro-framework entirely written in Vala.
+*   [Ambition (⭐33)](https://github.com/AmbitionFramework/ambition) - A web framework written in Vala, with the MVC pattern in mind. Kinda unmaintained (someone could refactor it to use Valum under the hood, and maybe move it to Meson 😉).
+*   [Valum (⭐229)](https://github.com/valum-framework/valum) - A Web micro-framework entirely written in Vala.
 
 ### Libraries / XML & Data Serialization
 
@@ -165,14 +165,14 @@
 
 ### Others / Other Resource
 
-*   [FinancePy (⭐2k)](https://github.com/domokane/FinancePy) - A Python Finance Library that focuses on the pricing and risk-management of Financial Derivatives, including fixed-income, equity, FX and credit derivatives.
+*   [FinancePy (⭐2.2k)](https://github.com/domokane/FinancePy) - A Python Finance Library that focuses on the pricing and risk-management of Financial Derivatives, including fixed-income, equity, FX and credit derivatives.
 
 ## [6. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Network programming
 
 *   Raknet
-    *   [b23r0/rust-raknet (⭐217)](https://github.com/b23r0/rust-raknet) - RakNet Protocol implementation [![Build Status](https://img.shields.io/github/workflow/status/b23r0/rust-raknet/Rust)](https://github.com/b23r0/rust-raknet/actions/workflows/rust.yml)
+    *   [b23r0/rust-raknet (⭐220)](https://github.com/b23r0/rust-raknet) - RakNet Protocol implementation [![Build Status](https://img.shields.io/github/workflow/status/b23r0/rust-raknet/Rust)](https://github.com/b23r0/rust-raknet/actions/workflows/rust.yml)
 
 ## [7. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 
@@ -190,17 +190,16 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [rebelot/kanagawa.nvim (⭐4k)](https://github.com/rebelot/kanagawa.nvim) - Neovim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.
+*   [rebelot/kanagawa.nvim (⭐4.6k)](https://github.com/rebelot/kanagawa.nvim) - Neovim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.
 
 ### Utility / Diagnostics
 
-*   [rcarriga/nvim-notify (⭐2.9k)](https://github.com/rcarriga/nvim-notify) - A fancy, configurable, notification manager.
+*   [rcarriga/nvim-notify (⭐3.2k)](https://github.com/rcarriga/nvim-notify) - A fancy, configurable, notification manager.
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [Abstract-IDE/Abstract (⭐186)](https://github.com/Abstract-IDE/Abstract) - Abstract, The Neovim configuration to achieve the power of Modern IDE.
-*   [vi-tality/neovitality (⭐55)](https://github.com/vi-tality/neovitality) - A full-featured Neovim distribution, packaged with Nix Flake for easy installation and reproducibility.
-*   [cstsunfu/.sea.nvim (⭐145)](https://github.com/cstsunfu/.sea.nvim) - A modular Neovim configuration with beautiful UI and some useful features(Pomodoro Clock, Window Number).
+*   [Abstract-IDE/Abstract (⭐194)](https://github.com/Abstract-IDE/Abstract) - Abstract, The Neovim configuration to achieve the power of Modern IDE.
+*   [cstsunfu/.sea.nvim (⭐146)](https://github.com/cstsunfu/.sea.nvim) - A modular Neovim configuration with beautiful UI and some useful features(Pomodoro Clock, Window Number).
 
 ## [10. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 

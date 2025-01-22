@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 27 - Jan 02, 2021
 
-50 awesome lists updated this week.
+48 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -13,7 +13,6 @@
 *   [Jira](https://www.atlassian.com/software/jira) - Issue and project tracking tool.
 *   [Notion](https://www.notion.so/) - All in one workspace to write, plan, collaborate, and get organized.
 *   [Pinitto.me](https://pinitto.me) - Lightweight realtime infinite virtual corkboard application (open source).
-*   [Shortcut](https://shortcut.com/) (fka Clubhouse) - Project management for software development teams.
 
 ## [2. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
 
@@ -41,7 +40,7 @@
 
 ### Deep Learning Packages / Visualization Tools
 
-*   [Netron (⭐27k)](https://github.com/lutzroeder/netron)
+*   [Netron (⭐29k)](https://github.com/lutzroeder/netron)
 
 ## [5. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
 
@@ -59,7 +58,7 @@
 
 ### Productivity / HTTP Client
 
-*   [papis (⭐1.3k)](https://github.com/papis/papis) - Extensible document and bibliography manager.
+*   [papis (⭐1.4k)](https://github.com/papis/papis) - Extensible document and bibliography manager.
 
 ## [8. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
 
@@ -77,27 +76,27 @@
 
 ### Concurrency
 
-*   [rotor (⭐339)](https://github.com/basiliscos/cpp-rotor) - Event loop friendly C++ actor micro framework. \[MIT]
+*   [rotor (⭐349)](https://github.com/basiliscos/cpp-rotor) - Event loop friendly C++ actor micro framework. \[MIT]
 
 ## [11. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Libraries / Artificial Intelligence
 
-*   [smartcorelib/smartcore (⭐681)](https://github.com/smartcorelib/smartcore) - Machine Learning Library [![Build Status](https://img.shields.io/circleci/build/github/smartcorelib/smartcore)](https://smartcorelib.org/)
+*   [smartcorelib/smartcore (⭐740)](https://github.com/smartcorelib/smartcore) - Machine Learning Library [![Build Status](https://img.shields.io/circleci/build/github/smartcorelib/smartcore)](https://smartcorelib.org/)
 
 ## [12. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Peripheral Access Crates / Microchip
 
-*   [`pic32-pac`](https://crates.io/crates/pic32mx2xx) Peripheral access API for PIC32MX1/2xx - ![crates.io](https://img.shields.io/crates/v/pic32mx2xx)
+*   [`pic32-pac`](https://crates.io/crates/pic32mx2xx) Peripheral access API for PIC32MX1/2xx - [![crates.io](https://img.shields.io/crates/v/pic32mx2xx)](https://crates.io/crates/pic32mx2xx)
 
 ### HAL implementation crates / OS
 
-*   [`freebsd-embedded-hal`](https://crates.io/crates/freebsd-embedded-hal) for embedded (or [not](https://www.freebsd.org/cgi/man.cgi?query=cp2112\&sektion=4)) FreeBSD systems. - ![crates.io](https://img.shields.io/crates/v/freebsd-embedded-hal.svg)
+*   [`freebsd-embedded-hal`](https://crates.io/crates/freebsd-embedded-hal) for embedded (or [not](https://www.freebsd.org/cgi/man.cgi?query=cp2112\&sektion=4)) FreeBSD systems. - [![crates.io](https://img.shields.io/crates/v/freebsd-embedded-hal.svg)](https://crates.io/crates/freebsd-embedded-hal)
 
 ### HAL implementation crates / Microchip
 
-*   [`pic32-hal`](https://crates.io/crates/pic32-hal) - HAL for PIC32MX - ![crates.io](https://img.shields.io/crates/v/pic32-hal.svg)
+*   [`pic32-hal`](https://crates.io/crates/pic32-hal) - HAL for PIC32MX - [![crates.io](https://img.shields.io/crates/v/pic32-hal.svg)](https://crates.io/crates/pic32-hal)
 
 ### no-std crates / WIP
 
@@ -170,7 +169,7 @@
 
 ### Community plugins
 
-*   [App-icon (⭐75)](https://github.com/capacitor-community/app-icon) - Capacitor community plugin for changing an app's icon.
+*   [App-icon (⭐81)](https://github.com/capacitor-community/app-icon) - Capacitor community plugin for changing an app's icon.
 
 ### Other plugins
 
@@ -180,37 +179,27 @@
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [Remult (⭐2.8k)](https://github.com/remult/remult) - End-to-end type-safe CRUD and frontend-backend model code sharing in fullstack TypeScript applications.
+*   :octocat: [Remult (⭐2.9k)](https://github.com/remult/remult) - End-to-end type-safe CRUD and frontend-backend model code sharing in fullstack TypeScript applications.
 
-## [16. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
-
-### Projects Using Vue.js / Open Source
-
-*   [NuxtBlog](https://github.com/muhammedmed/nuxt-js-blog) - Blog site made with firebase real-time database
-
-### Components & Libraries / UI Components
-
-*   [Tippy.vue (⭐27)](https://github.com/thecodewarrior/Tippy.vue) - Nesting-free [Tippy.js](https://atomiks.github.io/tippyjs/) directive/component for Vue 3. A drop-in addition with no structural or style changes required. Supports both individual and singleton tooltips.
-
-## [17. Awesome Spark](/content/awesome-spark/awesome-spark/week/README.md)
+## [16. Awesome Spark](/content/awesome-spark/awesome-spark/week/README.md)
 
 ### Packages / GIS
 
-*   [Apache Sedona (⭐1.4k)](https://github.com/apache/incubator-sedona) <img src="https://img.shields.io/github/last-commit/apache/incubator-sedona.svg"> - Cluster computing system for processing large-scale spatial data.
+*   [Apache Sedona (⭐2k)](https://github.com/apache/incubator-sedona) <img src="https://img.shields.io/github/last-commit/apache/incubator-sedona.svg"> - Cluster computing system for processing large-scale spatial data.
 
-## [18. Awesome Math](/content/rossant/awesome-math/week/README.md)
+## [17. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
 ### Foundations of Mathematics / Logic
 
 *   📝 [Computability - An introduction to recursive function theory](http://poincare.matf.bg.ac.rs/~zarkom/Book_Math__Cutland_Computability.pdf) - Nigel Cutland (University of Hull)
 
-## [19. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
+## [18. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
-### Tools and frameworks
+### Tools and frameworks (a-z↓)
 
-*   [jest-image-snapshot (⭐3.8k)](https://github.com/americanexpress/jest-image-snapshot) - Jest matcher that performs image comparisons using [pixelmatch](https://www.npmjs.com/package/pixelmatch)
+*   [jest-image-snapshot (⭐3.9k)](https://github.com/americanexpress/jest-image-snapshot) - Jest matcher that performs image comparisons using [pixelmatch](https://www.npmjs.com/package/pixelmatch)
 
-## [20. Awesome Esports](/content/Strift/awesome-esports/week/README.md)
+## [19. Awesome Esports](/content/Strift/awesome-esports/week/README.md)
 
 ### Libraries / APIs & Web Services
 
@@ -237,41 +226,41 @@
 
 *   [LeagueDirector (⭐742)](https://github.com/RiotGames/leaguedirector) - A desktop application for staging and recording videos from League of Legends replays.
 
-## [21. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [20. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Plugins
 
-*   🎨🧬 [Themer (⭐280)](https://github.com/RyanClementsHax/tailwindcss-themer) - Adds theming support for Tailwind CSS with CSS variables and variants.
+*   🎨🧬 [Themer (⭐306)](https://github.com/RyanClementsHax/tailwindcss-themer) - Adds theming support for Tailwind CSS with CSS variables and variants.
 
-## [22. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [21. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / General-Purpose Machine Learning
 
-*   [RexMex (⭐275)](https://github.com/AstraZeneca/rexmex) -> A general purpose recommender metrics library for fair evaluation.
-*   [ChemicalX (⭐705)](https://github.com/AstraZeneca/chemicalx) -> A PyTorch based deep learning library for drug pair scoring
-*   [Deepchecks (⭐3.5k)](https://github.com/deepchecks/deepchecks): Validation & testing of machine learning models and data during model development, deployment, and production. This includes checks and suites related to various types of issues, such as model performance, data integrity, distribution mismatches, and more.
+*   [RexMex (⭐278)](https://github.com/AstraZeneca/rexmex) -> A general purpose recommender metrics library for fair evaluation.
+*   [ChemicalX (⭐720)](https://github.com/AstraZeneca/chemicalx) -> A PyTorch based deep learning library for drug pair scoring
+*   [Deepchecks (⭐3.6k)](https://github.com/deepchecks/deepchecks): Validation & testing of machine learning models and data during model development, deployment, and production. This includes checks and suites related to various types of issues, such as model performance, data integrity, distribution mismatches, and more.
 
-## [23. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [22. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Misc
 
 *   [d-max/dsl-logger (⭐3)](https://github.com/d-max/dsl-logger) - Simple DSL for logging with logger abstraction layer
 
-## [24. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [23. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### UI / Barcode
 
-*   [ProgressIndicatorView (⭐235)](https://github.com/exyte/ProgressIndicatorView) - A progress indicator view library written in SwiftUI.
+*   [ProgressIndicatorView (⭐264)](https://github.com/exyte/ProgressIndicatorView) - A progress indicator view library written in SwiftUI.
 
-## [25. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/week/README.md)
+## [24. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/week/README.md)
 
 ### Finance
 
-*   [Tradegate Stock Widget (⭐5)](https://github.com/Chrischi-/tradegate-stock-widget-for-scriptable) - Stocks Widget to show share prices from Tradegate Exchange.
+*   [Tradegate Stock Widget (⭐12)](https://github.com/Chrischi-/tradegate-stock-widget-for-scriptable) - Stocks Widget to show share prices from Tradegate Exchange.
 
     <img src="https://user-images.githubusercontent.com/6323217/147655180-c4d3041c-58c1-4108-b001-29e01767025d.png" height="200"/>
 
-## [26. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
+## [25. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
 ### Resources / Discovery
 
@@ -279,13 +268,13 @@
 
 ### Deployment Tools / Discovery
 
-*   [deploy-rs (⭐1.3k)](https://github.com/serokell/deploy-rs) - A simple multi-profile Nix-flake deploy tool.
+*   [deploy-rs (⭐1.5k)](https://github.com/serokell/deploy-rs) - A simple multi-profile Nix-flake deploy tool.
 
 ### Command-Line Tools / Discovery
 
-*   [nix-alien (⭐490)](https://github.com/thiagokokada/nix-alien) - Run unpatched binaries on Nix/NixOS easily.
+*   [nix-alien (⭐566)](https://github.com/thiagokokada/nix-alien) - Run unpatched binaries on Nix/NixOS easily.
 
-## [27. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
+## [26. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
 
 ### Data Structures and Algorithms
 
@@ -296,7 +285,7 @@
 *   [tldr](https://tldr.sh/) - Simplified man pages with practical examples.
 *   [yarn](https://yarnpkg.com/) - NodeJS dependency manager.
 
-## [28. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
+## [27. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
 
 ### Charts:
 
@@ -304,7 +293,7 @@
 
 
 
-## [29. Awesome Coldfusion](/content/seancoyne/awesome-coldfusion/week/README.md)
+## [28. Awesome Coldfusion](/content/seancoyne/awesome-coldfusion/week/README.md)
 
 ### Testing
 
@@ -339,37 +328,37 @@
 *   ACF Docker Images on [Amazon ECR](https://gallery.ecr.aws/adobe/coldfusion) and [Docker Hub](https://hub.docker.com/u/adobecoldfusion) - Official Docker images from Adobe
 *   Lucee Docker Images [Docker Hub](https://hub.docker.com/u/lucee) - Official Docker images from Lucee
 
-## [30. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [29. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Misc
 
 *   [Nylas](https://www.nylas.com/) - APIs for productivity workflows (email, calendar, contacts...) - like plaid for productivity.
 
-## [31. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [30. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### C bindings
 
 *   [fftw.cr (⭐12)](https://github.com/firejox/fftw.cr) - Bindings for [FFTW](https://fftw.org/) library
-*   [wasmer-crystal (⭐89)](https://github.com/naqvis/wasmer-crystal) - Bindings for the `wasmer` WebAssembly runtime
+*   [wasmer-crystal (⭐95)](https://github.com/naqvis/wasmer-crystal) - Bindings for the `wasmer` WebAssembly runtime
 
-## [32. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
+## [31. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
 
 ### Databases / ORMs
 
-*   [Prisma Client Python (⭐1.8k)](https://github.com/RobertCraigie/prisma-client-py) - An auto-generated, fully type safe ORM powered by Pydantic and tailored specifically for your schema - supports SQLite, PostgreSQL, MySQL, MongoDB, MariaDB and more.
-    *   [FastAPI Example (⭐1.8k)](https://github.com/RobertCraigie/prisma-client-py/tree/main/examples/fastapi-basic)
+*   [Prisma Client Python (⭐1.9k)](https://github.com/RobertCraigie/prisma-client-py) - An auto-generated, fully type safe ORM powered by Pydantic and tailored specifically for your schema - supports SQLite, PostgreSQL, MySQL, MongoDB, MariaDB and more.
+    *   [FastAPI Example (⭐1.9k)](https://github.com/RobertCraigie/prisma-client-py/tree/main/examples/fastapi-basic)
 
 ### Serverless / Other Tools
 
-*   [Google Cloud Run](https://cloud.google.com/run) ([example (⭐192)](https://github.com/anthonycorletti/cloudrun-fastapi))
+*   [Google Cloud Run](https://cloud.google.com/run) ([example (⭐196)](https://github.com/anthonycorletti/cloudrun-fastapi))
 
-## [33. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
+## [32. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
 
 ### Functions as a Service
 
 *   [Autocode](https://autocode.com) - Autocode turns functions into scalable web services in an instant, no configuration required; serverless hosting available with an in-browser IDE, an API library that’s easy to use, and seamlessly managed authentication.
 
-## [34. Awesome Low Code](/content/zenitysec/awesome-low-code/week/README.md)
+## [33. Awesome Low Code](/content/zenitysec/awesome-low-code/week/README.md)
 
 ### Platforms / Low Code Application Platform
 
@@ -396,54 +385,54 @@
 
 *   [Zenity](https://zenity.io/blog) - Low Code security and governance.
 
-## [35. Awesome Productivity](/content/jyguyomarch/awesome-productivity/week/README.md)
+## [34. Awesome Productivity](/content/jyguyomarch/awesome-productivity/week/README.md)
 
 ### Tools and Apps / Password Manager
 
 *   [Bitwarden](https://bitwarden.com) - A free, trusted password manager that can store, sync, and generate passwords online or through native apps.
 *   [LastPass](https://lastpass.com) - A freemium password manager that stores encrypted passwords online.
 
-## [36. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [35. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Community Modules / Miscellaneous
 
-*   [terraform-aws-alb (⭐430)](https://github.com/terraform-aws-modules/terraform-aws-alb) - Creates Application load-balancer on AWS (verified module).
+*   [terraform-aws-alb (⭐441)](https://github.com/terraform-aws-modules/terraform-aws-alb) - Creates Application load-balancer on AWS (verified module).
 *   [terraform-aws-customer-gateway (⭐17)](https://github.com/terraform-aws-modules/terraform-aws-customer-gateway) - Creates Customer Gateway on AWS.
-*   [terraform-aws-dynamodb-table (⭐99)](https://github.com/terraform-aws-modules/terraform-aws-dynamodb-table) - Creates DynamoDB table on AWS.
-*   [terraform-aws-ec2-instance (⭐749)](https://github.com/terraform-aws-modules/terraform-aws-ec2-instance) - Creates EC2 instances on AWS.
-*   [terraform-aws-ecs (⭐544)](https://github.com/terraform-aws-modules/terraform-aws-ecs) - Creates AWS ECS resources on AWS.
-*   [terraform-aws-elb (⭐147)](https://github.com/terraform-aws-modules/terraform-aws-elb) - Creates Elastic load-balancer on AWS (verified module).
-*   [terraform-aws-eventbridge (⭐139)](https://github.com/terraform-aws-modules/terraform-aws-eventbridge) - Creates EventBridge resources on AWS.
-*   [terraform-aws-lambda (⭐895)](https://github.com/terraform-aws-modules/terraform-aws-lambda) - Terraform module, which builds dependencies and packages, and also creates AWS Lambda resources in countless combinations.
-*   [terraform-aws-notify-slack (⭐463)](https://github.com/terraform-aws-modules/terraform-aws-notify-slack) - Creates SNS topic and Lambda function, which sends notifications to Slack.
-*   [terraform-aws-rds-aurora (⭐384)](https://github.com/terraform-aws-modules/terraform-aws-rds-aurora) - Creates RDS Aurora cluster resources on AWS (verified module).
-*   [terraform-aws-redshift (⭐81)](https://github.com/terraform-aws-modules/terraform-aws-redshift) - Creates Redshift resources on AWS.
-*   [terraform-aws-route53 (⭐125)](https://github.com/terraform-aws-modules/terraform-aws-route53) - Creates Route53 resources on AWS.
-*   [terraform-aws-s3-bucket (⭐508)](https://github.com/terraform-aws-modules/terraform-aws-s3-bucket) - Creates S3 bucket resources on AWS.
-*   [terraform-aws-transit-gateway (⭐140)](https://github.com/terraform-aws-modules/terraform-aws-transit-gateway) - Creates Transit Gateway resources on AWS.
+*   [terraform-aws-dynamodb-table (⭐106)](https://github.com/terraform-aws-modules/terraform-aws-dynamodb-table) - Creates DynamoDB table on AWS.
+*   [terraform-aws-ec2-instance (⭐764)](https://github.com/terraform-aws-modules/terraform-aws-ec2-instance) - Creates EC2 instances on AWS.
+*   [terraform-aws-ecs (⭐581)](https://github.com/terraform-aws-modules/terraform-aws-ecs) - Creates AWS ECS resources on AWS.
+*   [terraform-aws-elb (⭐145)](https://github.com/terraform-aws-modules/terraform-aws-elb) - Creates Elastic load-balancer on AWS (verified module).
+*   [terraform-aws-eventbridge (⭐146)](https://github.com/terraform-aws-modules/terraform-aws-eventbridge) - Creates EventBridge resources on AWS.
+*   [terraform-aws-lambda (⭐944)](https://github.com/terraform-aws-modules/terraform-aws-lambda) - Terraform module, which builds dependencies and packages, and also creates AWS Lambda resources in countless combinations.
+*   [terraform-aws-notify-slack (⭐473)](https://github.com/terraform-aws-modules/terraform-aws-notify-slack) - Creates SNS topic and Lambda function, which sends notifications to Slack.
+*   [terraform-aws-rds-aurora (⭐388)](https://github.com/terraform-aws-modules/terraform-aws-rds-aurora) - Creates RDS Aurora cluster resources on AWS (verified module).
+*   [terraform-aws-redshift (⭐82)](https://github.com/terraform-aws-modules/terraform-aws-redshift) - Creates Redshift resources on AWS.
+*   [terraform-aws-route53 (⭐129)](https://github.com/terraform-aws-modules/terraform-aws-route53) - Creates Route53 resources on AWS.
+*   [terraform-aws-s3-bucket (⭐533)](https://github.com/terraform-aws-modules/terraform-aws-s3-bucket) - Creates S3 bucket resources on AWS.
+*   [terraform-aws-transit-gateway (⭐144)](https://github.com/terraform-aws-modules/terraform-aws-transit-gateway) - Creates Transit Gateway resources on AWS.
 *   [terraform-aws-vpn-gateway (⭐111)](https://github.com/terraform-aws-modules/terraform-aws-vpn-gateway) - Creates VPN gateway resources on AWS.
 
 ### Tools / Community providers
 
-*   [modules.tf-lambda (⭐349)](https://github.com/antonbabenko/modules.tf-lambda) - Infrastructure as code generator from visual diagrams created with [Cloudcraft.co](https://cloudcraft.co/app) to Terraform.
-*   [prettyplan (⭐170)](https://github.com/chrislewisdev/prettyplan) - Prettyplan ([available online here](https://chrislewisdev.github.io/prettyplan/)) is a small tool to help you view large Terraform plans with ease. :ghost:
+*   [modules.tf-lambda (⭐352)](https://github.com/antonbabenko/modules.tf-lambda) - Infrastructure as code generator from visual diagrams created with [Cloudcraft.co](https://cloudcraft.co/app) to Terraform.
+*   [prettyplan (⭐173)](https://github.com/chrislewisdev/prettyplan) - Prettyplan ([available online here](https://chrislewisdev.github.io/prettyplan/)) is a small tool to help you view large Terraform plans with ease. :ghost:
 
 ### Videos / IDE
 
 *   [Your Weekly Dose of Terraform](https://bit.ly/terraform-youtube) - YouTube channel with weekly live streams covering Terraform news, reviews, interviews, Q\&A, live coding, and some hacking with Terraform.
 *   [Test and verify a Google Compute Instance with Kitchen-Terraform](https://www.youtube.com/watch?v=kiH3-LEveek) - Example of using Kitchen-Terraform to test our Terraform code that creates a Google Compute.
 
-## [37. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [36. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Utilities / Menu Bar Tools
 
-*   [Work Hours (⭐65)](https://github.com/niteoweb/work-hours-mac) - Simple app that tracks your work hours from the menu bar. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/niteoweb/work-hours-mac)
+*   [Work Hours (⭐68)](https://github.com/niteoweb/work-hours-mac) - Simple app that tracks your work hours from the menu bar. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/niteoweb/work-hours-mac)
 
 ### Utilities / General Tools
 
 *   [Speediness](https://sindresorhus.com/speediness) - Check your internet speed. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/id1596706466)
 
-## [38. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [37. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Email
 
@@ -647,32 +636,32 @@
 
 
 
-## [39. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
+## [38. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
 
 ### Python / Financial Instruments and Pricing
 
-*   [finoptions (⭐205)](https://github.com/bbcho/finoptions-dev) - Complete python implementation of R package fOptions with partial implementation of fExoticOptions for pricing various options.
+*   [finoptions (⭐209)](https://github.com/bbcho/finoptions-dev) - Complete python implementation of R package fOptions with partial implementation of fExoticOptions for pricing various options.
 
 ### Python / Trading & Backtesting
 
 *   [tda-api (⭐1.3k)](https://github.com/alexgolec/tda-api) - Gather data and trade equities, options, and ETFs via TDAmeritrade.
-*   [vectorbt (⭐4.1k)](https://github.com/polakowo/vectorbt) - Find your trading edge, using a powerful toolkit for backtesting, algorithmic trading, and research.
+*   [vectorbt (⭐4.7k)](https://github.com/polakowo/vectorbt) - Find your trading edge, using a powerful toolkit for backtesting, algorithmic trading, and research.
 
 ### Reproducing Works, Training & Books / Data Visualization
 
-*   [QuantFinanceBook (⭐432)](https://github.com/LechGrzelak/QuantFinanceBook) - Quantitative Finance book.
+*   [QuantFinanceBook (⭐540)](https://github.com/LechGrzelak/QuantFinanceBook) - Quantitative Finance book.
 
-## [40. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [39. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Git Tools
 
-*   [Husky.Net (⭐652)](https://github.com/alirezanet/Husky.Net) - Git hooks made easy with Husky.Net internal task runner, You can use it to lint your commit messages, run tests, lint code, etc... when you commit or push. supports C# scripts, gitflow hooks, Multiple file states (staged, lastCommit, glob)
+*   [Husky.Net (⭐725)](https://github.com/alirezanet/Husky.Net) - Git hooks made easy with Husky.Net internal task runner, You can use it to lint your commit messages, run tests, lint code, etc... when you commit or push. supports C# scripts, gitflow hooks, Multiple file states (staged, lastCommit, glob)
 
 ### Tools
 
-*   [CSharpier (⭐1.3k)](https://github.com/belav/csharpier) - An opinionated code formatter for c# that is based on the [Prettier (⭐49k)](https://github.com/prettier/prettier) printing process.
+*   [CSharpier (⭐1.5k)](https://github.com/belav/csharpier) - An opinionated code formatter for c# that is based on the [Prettier (⭐50k)](https://github.com/prettier/prettier) printing process.
 
-## [41. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
+## [40. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
 ### Flow-based programming
 
@@ -688,7 +677,7 @@
 *   [Algolia](https://www.algolia.com/) - Flexible Search & Discovery Hosted APIs.
 *   [NoCodeAPI](https://nocodeapi.com/) - The easiest way to connect with APIs.
 
-## [42. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [41. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
@@ -719,7 +708,7 @@
 *   [inspectlet.com](https://www.inspectlet.com/) — 2,500 sessions/month free for one website
 *   [mouseflow.com](https://mouseflow.com/) — 500 sessions/month free for one website
 
-## [43. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
+## [42. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
 ### Books / Hash functions
 
@@ -727,21 +716,21 @@
 
 ### C / Git
 
-*   [libkcapi (⭐161)](https://github.com/smuellerDD/libkcapi) - Linux Kernel Crypto API User Space Interface Library.
-*   [nettle (⭐56)](https://github.com/gnutls/nettle) - is a cryptographic library that is designed to fit easily in more or less any context: In crypto toolkits for object-oriented languages (C++, Python, Pike, ...), in applications like LSH or GNUPG, or even in kernel space.
+*   [libkcapi (⭐171)](https://github.com/smuellerDD/libkcapi) - Linux Kernel Crypto API User Space Interface Library.
+*   [nettle (⭐61)](https://github.com/gnutls/nettle) - is a cryptographic library that is designed to fit easily in more or less any context: In crypto toolkits for object-oriented languages (C++, Python, Pike, ...), in applications like LSH or GNUPG, or even in kernel space.
 
 ### Rust / Git
 
-*   [BLAKE3 (⭐4.7k)](https://github.com/BLAKE3-team/BLAKE3) - is official Rust and C implementations of the BLAKE3 cryptographic hash function.
-*   [rage (⭐2.4k)](https://github.com/str4d/rage) - is a simple, modern, and secure file encryption tool, using the age format.
+*   [BLAKE3 (⭐5.1k)](https://github.com/BLAKE3-team/BLAKE3) - is official Rust and C implementations of the BLAKE3 cryptographic hash function.
+*   [rage (⭐2.6k)](https://github.com/str4d/rage) - is a simple, modern, and secure file encryption tool, using the age format.
 
-## [44. Awesome Golem](/content/golemfactory/awesome-golem/week/README.md)
+## [43. Awesome Golem](/content/golemfactory/awesome-golem/week/README.md)
 
 ### Provider Resources
 
 *   [Automatically update provider node prices](https://gist.github.com/sv3t0sl4v/28f896752edc9e20347ffc6d8cefe74c) - Script that checks the median of the prices on stats.golem.network and updates all 3 values on the provider node related to price.
 
-## [45. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
+## [44. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
 
 ### IR Tools Collection / Books
 
@@ -760,20 +749,14 @@
 
 *   [Orochi (⭐186)](https://github.com/LDO-CERT/orochi) - Orochi is an open source framework for collaborative forensic memory dump analysis.
 
-## [46. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/week/README.md)
-
-### Learning Resources
-
-*   [Drovio](https://www.drovio.com/github-students/) \[FREE] - Remote pair programming and team collaboration tool. Free Standard subscription while you're a student, to be renewed every 6 months.
-
-## [47. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [45. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [luisiacc/gruvbox-baby (⭐385)](https://github.com/luisiacc/gruvbox-baby) - A modern gruvbox theme with full treesitter support.
-*   [titanzero/zephyrium (⭐21)](https://github.com/titanzero/zephyrium) - A zephyr-esque theme, written in Lua, with TreeSitter support.
+*   [luisiacc/gruvbox-baby (⭐407)](https://github.com/luisiacc/gruvbox-baby) - A modern gruvbox theme with full Tree-sitter support.
+*   [titanzero/zephyrium (⭐24)](https://github.com/titanzero/zephyrium) - A zephyr-esque theme, written in Lua, with Tree-sitter support.
 
-## [48. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/week/README.md)
+## [46. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/week/README.md)
 
 ### [Prof. Andrew Ng's *Machine Learning* on Coursera](https://www.coursera.org/learn/machine-learning) / Tips for this course
 
@@ -804,13 +787,13 @@
 *   **[Prof. Andrew Ng's](https://scholar.google.com/citations?user=mG4imMEAAAAJ\&hl=en) [courses on Deep Learning](https://www.coursera.org/specializations/deep-learning)!** There five courses, as part of the [Deep Learning Specialization on Coursera](https://www.coursera.org/specializations/deep-learning). These courses are part of his new venture, [deeplearning.ai](https://www.deeplearning.ai)
     *   Some course notes about it: [ashishpatel26/Andrew-NG-Notes (⭐1.4k)](https://github.com/ashishpatel26/Andrew-NG-Notes)
 
-## [49. Awesome Conversational Ai](/content/jyguyomarch/awesome-conversational-ai/week/README.md)
+## [47. Awesome Conversational Ai](/content/jyguyomarch/awesome-conversational-ai/week/README.md)
 
 ### Platforms
 
 *   [SAP Conversational AI](https://cai.tools.sap/) - An end-to-end chatbot building platform from SAP. Comes with a free Community edition and an Enterprise edition.
 
-## [50. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [48. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Bayesian Modeling / Nonparametric Model
 

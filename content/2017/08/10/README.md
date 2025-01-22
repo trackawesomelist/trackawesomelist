@@ -28,15 +28,15 @@
 
 ## [4. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 
-### Tools and frameworks
+### Tools and frameworks (a-z↓)
 
 *   [Nightmare (⭐20k)](https://github.com/segmentio/nightmare) - High-level browser automation library based on Electron.
 
-### Blog posts
+### Blog posts  (a-z↓)
 
 *   [Chromeless, Chrominator, Chromy, Navalia, Lambdium, GhostJS, AutoGCD](https://medium.com/@kensoh/chromeless-chrominator-chromy-navalia-lambdium-ghostjs-autogcd-ef34bcd26907) - Headless Chrome is shaking up traditional approaches to test automation.
 
-### Deprecated
+### Deprecated  (a-z↓)
 
 *   [Chromeless (⭐13k)](https://github.com/graphcool/chromeless) - Chrome automation made simple. Runs locally or headless on AWS Lambda. (archived 2018)
 

@@ -198,7 +198,7 @@
 
 ### Third Party APIs
 
-*   [nadia (⭐364)](https://github.com/zhyu/nadia) - Telegram Bot API Wrapper written in Elixir.
+*   [nadia (⭐365)](https://github.com/zhyu/nadia) - Telegram Bot API Wrapper written in Elixir.
 
 ---
 

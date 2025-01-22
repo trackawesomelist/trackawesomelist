@@ -10,7 +10,7 @@
 
 ### Python / Python Survival Analysis
 
-*   [lifelines (⭐2.3k)](https://github.com/CamDavidsonPilon/lifelines) - lifelines is a complete survival analysis library, written in pure Python
+*   [lifelines (⭐2.4k)](https://github.com/CamDavidsonPilon/lifelines) - lifelines is a complete survival analysis library, written in pure Python
 *   [Scikit-Survival (⭐1.1k)](https://github.com/sebp/scikit-survival) - scikit-survival is a Python module for survival analysis built on top of scikit-learn. It allows doing survival analysis while utilizing the power of scikit-learn, e.g., for pre-processing or doing cross-validation.
 
 ### R / General-Purpose Machine Learning
@@ -22,7 +22,7 @@
 
 ### Video and Audio Conferencing / Alternative clients/modifications of Discord:
 
-*   [OpenAsar](https://openasar.dev/) - An open-source alternative of Discord desktop's app.asar that comes with a [No Track (⭐2.4k)](https://github.com/GooseMod/OpenAsar/blob/main/src/noTrack.js) function.
+*   [OpenAsar](https://openasar.dev/) - An open-source alternative of Discord desktop's app.asar that comes with a [No Track (⭐2.6k)](https://github.com/GooseMod/OpenAsar/blob/main/src/noTrack.js) function.
 
 ## [3. Awesome Storybook](/content/lauthieb/awesome-storybook/README.md)
 
@@ -40,7 +40,7 @@
 
 ### Applications / Text processing
 
-*   [Melody (⭐4.6k)](https://github.com/yoav-lavi/melody) - A language that compiles to regular expressions and aims to be more easily readable and maintainable [![build badge](https://github.com/yoav-lavi/melody/actions/workflows/rust.yml/badge.svg)](https://github.com/yoav-lavi/melody/actions/workflows/rust.yml) [![crates.io](https://img.shields.io/crates/v/melody_compiler?label=compiler)](https://crates.io/crates/melody_compiler)
+*   [Melody (⭐4.7k)](https://github.com/yoav-lavi/melody) - A language that compiles to regular expressions and aims to be more easily readable and maintainable [![build badge](https://github.com/yoav-lavi/melody/actions/workflows/rust.yml/badge.svg)](https://github.com/yoav-lavi/melody/actions/workflows/rust.yml) [![crates.io](https://img.shields.io/crates/v/melody_compiler?label=compiler)](https://crates.io/crates/melody_compiler)
 
 ## [6. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
@@ -50,7 +50,7 @@
 
 ### Projects
 
-*   [CocktailMaker (⭐118)](https://github.com/alex9849/pi-cocktail-maker) - An advanced cocktail making machine that can be controlled via browser and touchscreen.
+*   [CocktailMaker (⭐125)](https://github.com/alex9849/pi-cocktail-maker) - An advanced cocktail making machine that can be controlled via browser and touchscreen.
 
 ### Books / iOS
 
@@ -70,10 +70,10 @@
 
 ## [9. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 
-### Online services
+### Online services (a-z↓)
 
-*   [Preflight](https://preflight.com) - Easiest Visual regression testing and Automated Web Testing tool. (Limited) free use.
 *   [Preflight: Cypress Recorder](https://cypress.preflight.com) - Create AI-powered Cypress Tests/POM models in your browser and automate Email & Visual testing for Cypress.
+*   [Preflight](https://preflight.com) - Easiest Visual regression testing and Automated Web Testing tool. (Limited) free use.
 
 ## [10. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
@@ -91,17 +91,17 @@
 
 ### JSON
 
-*   [json-build (⭐36)](https://github.com/lcsmuller/json-build) - C89 tiny zero-allocation JSON serializer. \[MIT]
+*   [json-build (⭐39)](https://github.com/lcsmuller/json-build) - C89 tiny zero-allocation JSON serializer. \[MIT]
 
 ### Miscellaneous
 
-*   [Concord (⭐515)](https://github.com/Cogmasters/concord) - A Discord API wrapper library written in C. \[MIT] [website](https://cogmasters.github.io/concord)
+*   [Concord (⭐536)](https://github.com/Cogmasters/concord) - A Discord API wrapper library written in C. \[MIT] [website](https://cogmasters.github.io/concord)
 
 ## [12. Awesome Directus](/content/directus-community/awesome-directus/README.md)
 
 ### Extensions / Community
 
-*   [Data Grid Interface (⭐28)](https://github.com/seymoe/directus-extension-vgrid-interface) - A data grid interface width `@revolist/vue3-datagrid` for Directus 9.
+*   [Data Grid Interface (⭐30)](https://github.com/seymoe/directus-extension-vgrid-interface) - A data grid interface width `@revolist/vue3-datagrid` for Directus 9.
 *   [SparkLine Display (⭐9)](https://github.com/seymoe/directus-extension-sparkline-display) - A sparkline display with `apexcharts` for Directus 9.
 
 ---

@@ -10,19 +10,19 @@
 
 ### Applications / Database
 
-*   [Lucid (⭐373)](https://github.com/lucid-kv/lucid) - High performance and distributed KV store accessible through a HTTP API. [![Build Status](https://github.com/lucid-kv/lucid/workflows/Lucid/badge.svg?branch=master)](https://github.com/lucid-kv/lucid/actions?workflow=Lucid)
+*   [Lucid (⭐381)](https://github.com/lucid-kv/lucid) - High performance and distributed KV store accessible through a HTTP API. [![Build Status](https://github.com/lucid-kv/lucid/workflows/Lucid/badge.svg?branch=master)](https://github.com/lucid-kv/lucid/actions?workflow=Lucid)
 
 ### Applications / Web Servers
 
-*   [wyhaya/see (⭐205)](https://github.com/wyhaya/see) - Static HTTP file server
+*   [wyhaya/see (⭐212)](https://github.com/wyhaya/see) - Static HTTP file server
 
 ### Libraries / Logging
 
-*   [tokio-rs/tracing (⭐5.3k)](https://github.com/tokio-rs/tracing) - An application level tracing framework for async-aware structured logging, error handling, metrics, and more [![Build Status](https://github.com/tokio-rs/tracing/workflows/CI/badge.svg?branch=master)](https://github.com/tokio-rs/tracing/actions?query=workflow%3ACI)
+*   [tokio-rs/tracing (⭐5.6k)](https://github.com/tokio-rs/tracing) - An application level tracing framework for async-aware structured logging, error handling, metrics, and more [![Build Status](https://github.com/tokio-rs/tracing/workflows/CI/badge.svg?branch=master)](https://github.com/tokio-rs/tracing/actions?query=workflow%3ACI)
 
 ### Libraries / Text search
 
-*   [meilisearch/MeiliSearch (⭐46k)](https://github.com/meilisearch/MeiliSearch) - Ultra relevant, instant and typo-tolerant full-text search API. [![Build Status](https://github.com/meilisearch/MeiliSearch/workflows/Cargo%20test/badge.svg?branch=master)](https://github.com/meilisearch/MeiliSearch/actions)
+*   [meilisearch/MeiliSearch (⭐49k)](https://github.com/meilisearch/MeiliSearch) - Ultra relevant, instant and typo-tolerant full-text search API. [![Build Status](https://github.com/meilisearch/MeiliSearch/workflows/Cargo%20test/badge.svg?branch=master)](https://github.com/meilisearch/MeiliSearch/actions)
 
 ## [2. Awesome Rtc](/content/rtckit/awesome-rtc/README.md)
 
@@ -54,11 +54,11 @@
 
 ### Gesture
 
-*   [Sensitive (⭐551)](https://github.com/hellowizman/Sensitive) - Special way to work with gestures in iOS.
+*   [Sensitive (⭐550)](https://github.com/hellowizman/Sensitive) - Special way to work with gestures in iOS.
 
 ### Logging
 
-*   [Diagnostics (⭐937)](https://github.com/WeTransfer/Diagnostics) - Allow users to easily share Diagnostics with your support team to improve the flow of fixing bugs.
+*   [Diagnostics (⭐968)](https://github.com/WeTransfer/Diagnostics) - Allow users to easily share Diagnostics with your support team to improve the flow of fixing bugs.
 
 ### JSON
 
@@ -66,54 +66,54 @@
 
 ### Alert & Action Sheet
 
-*   [CFNotify (⭐500)](https://github.com/JT501/CFNotify) - A customizable framework to create draggable views.
+*   [CFNotify (⭐501)](https://github.com/JT501/CFNotify) - A customizable framework to create draggable views.
 
 ## [6. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Programming Languages
 
-*   [Coq (⭐301)](https://github.com/coq-community/awesome-coq#readme) - Formal language and environment for programming and specification which facilitates interactive development of machine-checked proofs.
+*   [Coq (⭐323)](https://github.com/coq-community/awesome-coq#readme) - Formal language and environment for programming and specification which facilitates interactive development of machine-checked proofs.
 
 ## [7. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 
 ### Distributions
 
-*   [JMeter Bootstrap (⭐37)](https://github.com/cfpb/jmeter-bootstrap) - Solution to setup JMeter and JMeter plugins, suitable to be used as a submodule.
+*   [JMeter Bootstrap (⭐38)](https://github.com/cfpb/jmeter-bootstrap) - Solution to setup JMeter and JMeter plugins, suitable to be used as a submodule.
 
 ## [8. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Productivity / Calendars
 
-*   [gcalcli (⭐3.2k)](https://github.com/insanum/gcalcli) - Google calendar client.
-*   [khal (⭐2.5k)](https://github.com/pimutils/khal) - CalDAV ready CLI and TUI calendar.
+*   [gcalcli (⭐3.3k)](https://github.com/insanum/gcalcli) - Google calendar client.
+*   [khal (⭐2.6k)](https://github.com/pimutils/khal) - CalDAV ready CLI and TUI calendar.
 
 ### Files and Directories / Search
 
-*   [broot (⭐10k)](https://github.com/Canop/broot) - Fuzzy finder similar to fzf, but with space usage visualization.
+*   [broot (⭐11k)](https://github.com/Canop/broot) - Fuzzy finder similar to fzf, but with space usage visualization.
 
 ### Images / Image Conversion
 
-*   [korkut (⭐365)](https://github.com/oguzhaninan/korkut) - Quick and simple image processing.
+*   [korkut (⭐370)](https://github.com/oguzhaninan/korkut) - Quick and simple image processing.
 
 ## [9. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
 ### GitHub Tools and Management / Docker Container Actions
 
-*   [Rollback a GitHub Release (⭐38)](https://github.com/author/action-rollback)
+*   [Rollback a GitHub Release (⭐57)](https://github.com/author/action-rollback)
 
 ### Utility / Docker Container Actions
 
-*   [Autotag (⭐51)](https://github.com/butlerlogic/action-autotag) - Automatically generate a new tag when the manifest file (i.e. `package.json`) version changes.
+*   [Autotag (⭐74)](https://github.com/butlerlogic/action-autotag) - Automatically generate a new tag when the manifest file (i.e. `package.json`) version changes.
 
 ### Deployment / Code Coverage
 
-*   [Publish one or more JS modules to a registry (⭐5)](https://github.com/author/action-publish)
+*   [Publish one or more JS modules to a registry (⭐9)](https://github.com/author/action-publish)
 
 ## [10. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 
-### Tools and frameworks
+### Tools and frameworks (a-z↓)
 
-*   [Playwright (⭐64k)](https://github.com/microsoft/playwright) - Node library to automate Chromium, Firefox and WebKit with a single API.
+*   [Playwright (⭐68k)](https://github.com/microsoft/playwright) - Node library to automate Chromium, Firefox and WebKit with a single API.
 
 ## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -155,7 +155,7 @@
 
 ### Database
 
-*   [DBreeze (⭐516)](https://github.com/hhblaze/DBreeze) - DBreeze Database is an open-source embedded Key-Value store
+*   [DBreeze (⭐535)](https://github.com/hhblaze/DBreeze) - DBreeze Database is an open-source embedded Key-Value store
 
 ---
 

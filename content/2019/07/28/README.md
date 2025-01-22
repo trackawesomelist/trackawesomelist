@@ -10,7 +10,7 @@
 
 ### Tools / Python
 
-*   [behave-webdriver (⭐52)](https://github.com/spyoungtech/behave-webdriver) behavior driven testing with Selenium and Python.
+*   [behave-webdriver (⭐62)](https://github.com/spyoungtech/behave-webdriver) behavior driven testing with Selenium and Python.
 
 ## [2. Awesome Indie](/content/mezod/awesome-indie/README.md)
 
@@ -27,7 +27,7 @@
 
 ### Tools / Static Analysis Tools
 
-*   [Androwarn (⭐473)](https://github.com/maaaaz/androwarn/) - detect and warn the user about potential malicious behaviors developed by an Android application.
+*   [Androwarn (⭐488)](https://github.com/maaaaz/androwarn/) - detect and warn the user about potential malicious behaviors developed by an Android application.
 
 ### Tools / Dynamic Analysis Tools
 
@@ -40,13 +40,13 @@
 
 ### Academic/Research/Publications/Books / Others
 
-*   [OWASP Mobile Security Testing Guide Manual (⭐11k)](https://github.com/OWASP/owasp-mstg)
+*   [OWASP Mobile Security Testing Guide Manual (⭐12k)](https://github.com/OWASP/owasp-mstg)
 
 ## [4. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Files and Directories / File Managers
 
-*   [lf (⭐7.2k)](https://github.com/gokcehan/lf) - Fast, extensively customizable file manager.
+*   [lf (⭐7.8k)](https://github.com/gokcehan/lf) - Fast, extensively customizable file manager.
 
 ## [5. Awesome Gif](/content/davisonio/awesome-gif/README.md)
 
@@ -68,7 +68,7 @@
 
 ### Data Visualization
 
-*   [ApexCharts.rb (⭐480)](https://github.com/styd/apexcharts.rb) - Awesome charts for your ruby app. Works on any ruby app, including Rails app. It even works on plain HTML+ERB files.
+*   [ApexCharts.rb (⭐483)](https://github.com/styd/apexcharts.rb) - Awesome charts for your ruby app. Works on any ruby app, including Rails app. It even works on plain HTML+ERB files.
 
 ## [8. Awesome D3](/content/wbkd/awesome-d3/README.md)
 

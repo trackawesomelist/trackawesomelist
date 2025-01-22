@@ -275,7 +275,7 @@
 
 ### Libraries
 
-*   [Rambda (⭐1.6k)](https://github.com/selfrefactor/rambda) - A faster alternative to Ramda in under 10kB.
+*   [Rambda (⭐1.7k)](https://github.com/selfrefactor/rambda) - A faster alternative to Ramda in under 10kB.
 
 ## [5. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
@@ -295,7 +295,7 @@
 
 ### Apps
 
-*   [IPFS Desktop (⭐5.7k)](https://github.com/ipfs-shipyard/ipfs-desktop) - IPFS Desktop gives you all the power of IPFS in a convenient desktop app: a complete IPFS node, plus handy OS menubar/taskbar shortcuts and an all-in-one file manager, peer map, and content explorer.
+*   [IPFS Desktop (⭐6.1k)](https://github.com/ipfs-shipyard/ipfs-desktop) - IPFS Desktop gives you all the power of IPFS in a convenient desktop app: a complete IPFS node, plus handy OS menubar/taskbar shortcuts and an all-in-one file manager, peer map, and content explorer.
 
 ## [7. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 

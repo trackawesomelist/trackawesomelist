@@ -10,27 +10,27 @@
 
 ### Bookmarking
 
-*   [Grimorie (⭐1.9k)](https://github.com/goniszewski/grimoire) - Modern, open source, self-hosted bookmark manager.
+*   [Grimorie (⭐2.2k)](https://github.com/goniszewski/grimoire) - Modern, open source, self-hosted bookmark manager.
 
 ## [2. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### C, C++
 
-*   [vacietis (⭐303)](https://github.com/vsedach/Vacietis) -  C to Common Lisp compiler. [LGPL3](https://www.gnu.org/licenses/lgpl-3.0.en.html).
+*   [vacietis (⭐309)](https://github.com/vsedach/Vacietis) -  C to Common Lisp compiler. [LGPL3](https://www.gnu.org/licenses/lgpl-3.0.en.html).
 
 ## [3. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Game Engine
 
-*   [JNGL (⭐247)](https://github.com/jhasse/jngl/) - 2D library for Linux, Windows, macOS, Android, iOS, Xbox, the Nintendo Switch and the Web. \[zlib] [website](https://bixense.com/jngl/)
+*   [JNGL (⭐274)](https://github.com/jhasse/jngl/) - 2D library for Linux, Windows, macOS, Android, iOS, Xbox, the Nintendo Switch and the Web. \[zlib] [website](https://bixense.com/jngl/)
 
 ### JSON
 
-*   [Sonic-Cpp (⭐815)](https://github.com/bytedance/sonic-cpp) - A fast JSON serializing & deserializing library, accelerated by SIMD. \[Apache-2.0]
+*   [Sonic-Cpp (⭐879)](https://github.com/bytedance/sonic-cpp) - A fast JSON serializing & deserializing library, accelerated by SIMD. \[Apache-2.0]
 
 ### PDF
 
-*   [pdfio (⭐179)](https://github.com/michaelrsweet/pdfio) - A simple C library for reading and writing PDF files. \[Apache-2] [website](https://www.msweet.org/pdfio/)
+*   [pdfio (⭐215)](https://github.com/michaelrsweet/pdfio) - A simple C library for reading and writing PDF files. \[Apache-2] [website](https://www.msweet.org/pdfio/)
 
 ## [4. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
@@ -46,15 +46,15 @@
 
 ### Build Automation
 
-*   [ModularPipelines (⭐253)](https://github.com/thomhurst/ModularPipelines) - Write your pipelines in C#
+*   [ModularPipelines (⭐335)](https://github.com/thomhurst/ModularPipelines) - Write your pipelines in C#
 
 ### Misc
 
-*   [dotnet-exec (⭐44)](https://github.com/WeihanLi/dotnet-exec) - A command-line tool for executing C# program without a project file, and you can have your custom entry point other than Main method.
+*   [dotnet-exec (⭐54)](https://github.com/WeihanLi/dotnet-exec) - A command-line tool for executing C# program without a project file, and you can have your custom entry point other than Main method.
 
 ### Regular Expression
 
-*   [Gigantor (⭐20)](https://github.com/imagibee/Gigantor) - Fast regular expressions supporting gigantic files combining System.Text.RegularExpressions.Regex with multi-threading.
+*   [Gigantor (⭐22)](https://github.com/imagibee/Gigantor) - Fast regular expressions supporting gigantic files combining System.Text.RegularExpressions.Regex with multi-threading.
 
 ## [6. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
 
@@ -81,7 +81,7 @@
 
 ### Build Systems / Playground
 
-*   [Nx (⭐23k)](https://github.com/nrwl/nx) - Smart, Fast and Extensible Build System
+*   [Nx (⭐24k)](https://github.com/nrwl/nx) - Smart, Fast and Extensible Build System
 
 ## [10. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/README.md)
 
@@ -94,19 +94,19 @@
 
 ### Queue
 
-*   🍰 [QueueScheduler plugin (⭐4)](https://github.com/dereuromark/cakephp-queue-scheduler) - A dependency-free crontab-like scheduler as DB driven solution and addon to Queue plugin.
+*   [QueueScheduler plugin (⭐6)](https://github.com/dereuromark/cakephp-queue-scheduler) - A dependency-free crontab-like scheduler as DB driven solution and addon to Queue (dereuromark) plugin.
 
 ## [12. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
 ### Development / Discovery
 
-*   [templates (⭐55)](https://github.com/nix-community/templates) - Project templates for many languages using Nix flakes.
+*   [templates (⭐73)](https://github.com/nix-community/templates) - Project templates for many languages using Nix flakes.
 
 ## [13. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### Retrieval-Augmented Generation (RAG) / Prompt Engineering for Text-to-image
 
-*   [weaviate/Verba (⭐5.6k)](https://github.com/weaviate/Verba): Retrieval Augmented Generation (RAG) chatbot powered by Weaviate
+*   [weaviate/Verba (⭐6.7k)](https://github.com/weaviate/Verba): Retrieval Augmented Generation (RAG) chatbot powered by Weaviate
 
 ### LLM Evaluation / Multi-agents
 
@@ -124,17 +124,17 @@
 
 ### C++
 
-*   [C++ Micro Services (⭐805)](https://github.com/CppMicroServices/CppMicroServices) - An OSGi-like C++ dynamic module system and service registry.
+*   [C++ Micro Services (⭐823)](https://github.com/CppMicroServices/CppMicroServices) - An OSGi-like C++ dynamic module system and service registry.
 
 ### Go / Erlang
 
-*   [Chi (⭐18k)](https://github.com/go-chi/chi) - Lightweight, idiomatic and composable router for building Go HTTP services.
-*   [Lura (⭐6.3k)](https://github.com/luraproject/lura) - Framework to build ultra performance API Gateways with middlewares.
-*   [Negroni (⭐7.4k)](https://github.com/urfave/negroni) - Idiomatic HTTP middleware for Golang.
+*   [Chi (⭐19k)](https://github.com/go-chi/chi) - Lightweight, idiomatic and composable router for building Go HTTP services.
+*   [Lura (⭐6.4k)](https://github.com/luraproject/lura) - Framework to build ultra performance API Gateways with middlewares.
+*   [Negroni (⭐7.5k)](https://github.com/urfave/negroni) - Idiomatic HTTP middleware for Golang.
 
 ### Java VM / Java
 
-*   [Jersey (⭐684)](https://github.com/eclipse-ee4j/jersey) - RESTful services in Java. JAX-RS reference implementation.
+*   [Jersey (⭐693)](https://github.com/eclipse-ee4j/jersey) - RESTful services in Java. JAX-RS reference implementation.
 
 ### Python / Scala
 
@@ -145,8 +145,8 @@
 ### API Gateways / Edge Services / Scala
 
 *   [Ambassador (c)](https://www.getambassador.io) - Kubernetes-native API gateway for microservices built on Envoy.
-*   [Bunker Web (⭐5.4k)](https://github.com/bunkerity/bunkerweb) - Web app hosting and reverse proxy secure by default.
-*   [Kong (⭐39k)](https://github.com/kong/kong) - Open source management layer for APIs.
+*   [Bunker Web (⭐7.3k)](https://github.com/bunkerity/bunkerweb) - Web app hosting and reverse proxy secure by default.
+*   [Kong (⭐40k)](https://github.com/kong/kong) - Open source management layer for APIs.
 
 ### Elasticity / Scala
 
@@ -154,14 +154,14 @@
 
 ### Job Schedulers / Workload Automation / Scala
 
-*   [Faktory (⭐5.7k)](https://github.com/contribsys/faktory) - Language-agnostic persistent background job server.
+*   [Faktory (⭐5.8k)](https://github.com/contribsys/faktory) - Language-agnostic persistent background job server.
 *   [Rundeck (c)](http://rundeck.org/) - Job scheduler and runbook automation. Enable self-service access to existing scripts and tools.
-*   [Schedulix (⭐120)](https://github.com/schedulix/schedulix) - Open source enterprise job scheduling system lays down ground-breaking standards for the professional automation of IT processes in advanced system environments.
+*   [Schedulix (⭐121)](https://github.com/schedulix/schedulix) - Open source enterprise job scheduling system lays down ground-breaking standards for the professional automation of IT processes in advanced system environments.
 
 ### Logging / Scala
 
 *   [Logstash](https://www.elastic.co/logstash) - Tool for managing events and logs.
-*   [Loki (⭐23k)](https://github.com/grafana/loki) - Like Prometheus, but for logs.
+*   [Loki (⭐24k)](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 
 ### Monitoring & Debugging / Scala
 
@@ -180,21 +180,21 @@
 
 ### Storage / Scala
 
-*   [Alluxio (⭐6.8k)](https://github.com/Alluxio/alluxio) - Virtual distributed storage system.
+*   [Alluxio (⭐6.9k)](https://github.com/Alluxio/alluxio) - Virtual distributed storage system.
 *   [Elasticsearch](https://www.elastic.co/elasticsearch) - Open source distributed, scalable, and highly available search server.
 *   [Trino](https://trino.io/) - Fast distributed SQL query engine for big data analytics that helps you explore your data universe.
 
 ### REST / Scala
 
 *   [OpenAPI](https://www.openapis.org/) - The OpenAPI Specification (OAS) provides a consistent means to carry information through each stage of the API lifecycle.
-*   [ReDoc (⭐23k)](https://github.com/Redocly/redoc) - OpenAPI/Swagger-generated API Documentation.
+*   [ReDoc (⭐24k)](https://github.com/Redocly/redoc) - OpenAPI/Swagger-generated API Documentation.
 *   [Slate (⭐36k)](https://github.com/slatedocs/slate) - Beautiful static documentation for your API.
 
 ## [15. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Utility / Diagnostics
 
-*   [GCBallesteros/jupytext.nvim (⭐69)](https://github.com/GCBallesteros/jupytext.nvim) - Edit jupyter notebooks without leaving Neovim.
+*   [GCBallesteros/jupytext.nvim (⭐94)](https://github.com/GCBallesteros/jupytext.nvim) - Edit jupyter notebooks without leaving Neovim.
 
 ## [16. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 

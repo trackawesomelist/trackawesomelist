@@ -21,7 +21,6 @@
 ### Resources / Tutorials
 
 *   [Create a GitHub File Explorer Using Vue.js](https://scotch.io/tutorials/create-a-github-file-explorer-using-vue-js) on Scotch.io
-*   [Vue.js Tutorial](http://vegibit.com/vue-js-tutorial/) on Vegibit
 
 ## [3. Awesome Music](/content/ciconia/awesome-music/week/README.md)
 
@@ -122,7 +121,7 @@
 ### Scheduling
 
 *   [FluentScheduler (⭐2.7k)](https://github.com/fluentscheduler/FluentScheduler) - Task scheduler with fluent interface that runs automated jobs from your application
-*   [NCrontab (⭐887)](https://github.com/atifaziz/NCrontab) - Class library for parsing & formatting [crontab](http://crontab.org/) expressions as well as calculating occurrences of time based on a crontab schedule
+*   [NCrontab (⭐922)](https://github.com/atifaziz/NCrontab) - Class library for parsing & formatting [crontab](http://crontab.org/) expressions as well as calculating occurrences of time based on a crontab schedule
 
 ## [11. Learn to Program](/content/karlhorky/learn-to-program/week/README.md)
 
@@ -141,16 +140,16 @@
 
 ### Programming fonts / Fonts
 
-*   [Fantasque Sans Mono (⭐6.4k)](https://github.com/belluzj/fantasque-sans)
+*   [Fantasque Sans Mono (⭐7k)](https://github.com/belluzj/fantasque-sans)
 
 ### Programming fonts / Programming fonts with ligatures
 
-*   [Hasklig (⭐5.4k)](https://github.com/i-tu/Hasklig)
+*   [Hasklig (⭐5.6k)](https://github.com/i-tu/Hasklig)
 
 ### JavaScript libs / Event listeners for fonts loading on a web page
 
-*   [Font Face Observer (⭐4.1k)](https://github.com/bramstein/fontfaceobserver)
-*   [Web Font Loader (⭐9.1k)](https://github.com/typekit/webfontloader)
+*   [Font Face Observer (⭐4.3k)](https://github.com/bramstein/fontfaceobserver)
+*   [Web Font Loader (⭐9.2k)](https://github.com/typekit/webfontloader)
 
 ## [13. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
@@ -162,11 +161,11 @@
 
 ### Messaging / Scala
 
-*   [Aeron (⭐7.2k)](https://github.com/real-logic/Aeron) - Efficient reliable UDP unicast, UDP multicast, and IPC message transport.
+*   [Aeron (⭐7.5k)](https://github.com/real-logic/Aeron) - Efficient reliable UDP unicast, UDP multicast, and IPC message transport.
 
 ### Data Formats / Scala
 
-*   [SBE (⭐251)](https://github.com/FIXTradingCommunity/fix-simple-binary-encoding) - Simple Binary Encoding (SBE).
+*   [SBE (⭐263)](https://github.com/FIXTradingCommunity/fix-simple-binary-encoding) - Simple Binary Encoding (SBE).
 
 ## [15. Awesome Html5](/content/diegocard/awesome-html5/week/README.md)
 
@@ -296,7 +295,7 @@
 
 ### JavaScript Libraries
 
-*   [Awesome CryptoCoinJS (⭐58)](https://github.com/cryptocoinjs/awesome-cryptocoinjs)
+*   [Awesome CryptoCoinJS (⭐59)](https://github.com/cryptocoinjs/awesome-cryptocoinjs)
 
 ## [25. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
@@ -355,15 +354,15 @@
 
 ### Authentication
 
-*   [goth (⭐283)](https://github.com/peburrows/goth) - OAuth 2.0 library for server to server applications via Google Cloud APIs.
+*   [goth (⭐295)](https://github.com/peburrows/goth) - OAuth 2.0 library for server to server applications via Google Cloud APIs.
 
 ### Examples and funny stuff
 
-*   [kaisuu (⭐67)](https://github.com/SebastianSzturo/kaisuu) - Watch Japan's Kanji Usage on Twitter in Realtime.
+*   [kaisuu (⭐66)](https://github.com/SebastianSzturo/kaisuu) - Watch Japan's Kanji Usage on Twitter in Realtime.
 
 ### Third Party APIs
 
-*   [stripity\_stripe (⭐954)](https://github.com/robconery/stripity-stripe) - An Elixir Library for [Stripe](https://stripe.com/).
+*   [stripity\_stripe (⭐996)](https://github.com/robconery/stripity-stripe) - An Elixir Library for [Stripe](https://stripe.com/).
 
 ### Editors
 

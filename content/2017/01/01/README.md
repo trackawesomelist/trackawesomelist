@@ -15,9 +15,9 @@
 ### Software / Julia
 
 *   [EcologicalNetwork.jl (⭐68)](https://github.com/PoisotLab/EcologicalNetwork.jl) - Package to compute measures of ecological network structures.
-*   [MatrixNetworks.jl (⭐110)](https://github.com/nassarhuda/MatrixNetworks.jl) - A method to handle graph/matrix/network structures.
+*   [MatrixNetworks.jl (⭐109)](https://github.com/nassarhuda/MatrixNetworks.jl) - A method to handle graph/matrix/network structures.
 *   [NetworkFlows.jl (⭐3)](https://github.com/Azzaare/NetworkFlows.jl) - Package of network flows algorithms.
-*   [PhyloNetworks.jl (⭐150)](https://github.com/crsl4/PhyloNetworks.jl) - Package to manipulate, analyze and visualize phylogenetic networks.
+*   [PhyloNetworks.jl (⭐158)](https://github.com/crsl4/PhyloNetworks.jl) - Package to manipulate, analyze and visualize phylogenetic networks.
 
 ## [2. Awesome Recursion Schemes](/content/passy/awesome-recursion-schemes/README.md)
 

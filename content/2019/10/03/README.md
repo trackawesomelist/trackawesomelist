@@ -10,7 +10,7 @@
 
 ### Boilerplates
 
-*   [Next & Now 2.0 Typescript template (⭐42)](https://github.com/alepacheco/landing-template) - Serverless, Typescript, Jest, Github CI, SCSS, prettier boilerplate
+*   [Next & Now 2.0 Typescript template (⭐43)](https://github.com/alepacheco/landing-template) - Serverless, Typescript, Jest, Github CI, SCSS, prettier boilerplate
 
 ## [2. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
@@ -81,15 +81,15 @@
 
 ### C++ / General-Purpose Machine Learning
 
-*   [Featuretools (⭐7.1k)](https://github.com/featuretools/featuretools) - A library for automated feature engineering. It excels at transforming transactional and relational datasets into feature matrices for machine learning using reusable feature engineering "primitives".
+*   [Featuretools (⭐7.3k)](https://github.com/featuretools/featuretools) - A library for automated feature engineering. It excels at transforming transactional and relational datasets into feature matrices for machine learning using reusable feature engineering "primitives".
 
 ### Elixir / General-Purpose Machine Learning
 
-*   [Tensorflex (⭐307)](https://github.com/anshuman23/tensorflex) - Tensorflow bindings for the Elixir programming language.
+*   [Tensorflex (⭐308)](https://github.com/anshuman23/tensorflex) - Tensorflow bindings for the Elixir programming language.
 
 ### Go / Computer vision
 
-*   [GoCV (⭐6.5k)](https://github.com/hybridgroup/gocv) - Package for computer vision using OpenCV 4 and beyond.
+*   [GoCV (⭐6.8k)](https://github.com/hybridgroup/gocv) - Package for computer vision using OpenCV 4 and beyond.
 
 ### Data Analysis / Data Visualization / Data Analysis / Data Visualization
 
@@ -100,21 +100,21 @@
 
 ### Python / Natural Language Processing
 
-*   [pkuseg-python (⭐6.5k)](https://github.com/lancopku/pkuseg-python) - A better version of Jieba, developed by Peking University.
+*   [pkuseg-python (⭐6.6k)](https://github.com/lancopku/pkuseg-python) - A better version of Jieba, developed by Peking University.
 
 ### Python / General-Purpose Machine Learning
 
 *   [auto\_ml (⭐1.6k)](https://github.com/ClimbsRocks/auto_ml) - Automated machine learning for production and analytics. Lets you focus on the fun parts of ML, while outputting production-ready code, and detailed analytics of your dataset and results. Includes support for NLP, XGBoost, CatBoost, LightGBM, and soon, deep learning.
-*   [Cogitare (⭐76)](https://github.com/cogitare-ai/cogitare): A Modern, Fast, and Modular Deep Learning and Machine Learning framework for Python.
-*   [JAX (⭐29k)](https://github.com/google/jax) - JAX is Autograd and XLA, brought together for high-performance machine learning research.
+*   [Cogitare (⭐77)](https://github.com/cogitare-ai/cogitare): A Modern, Fast, and Modular Deep Learning and Machine Learning framework for Python.
+*   [JAX (⭐31k)](https://github.com/google/jax) - JAX is Autograd and XLA, brought together for high-performance machine learning research.
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
-*   [Map/Reduce implementations of common ML algorithms (⭐60)](https://github.com/Yannael/BigDataAnalytics_INFOH515): Jupyter notebooks that cover how to implement from scratch different ML algorithms (ordinary least squares, gradient descent, k-means, alternating least squares), using Python NumPy, and how to then make these implementations scalable using Map/Reduce and Spark.
+*   [Map/Reduce implementations of common ML algorithms (⭐59)](https://github.com/Yannael/BigDataAnalytics_INFOH515): Jupyter notebooks that cover how to implement from scratch different ML algorithms (ordinary least squares, gradient descent, k-means, alternating least squares), using Python NumPy, and how to then make these implementations scalable using Map/Reduce and Spark.
 
 ### Python / Reinforcement Learning
 
-*   [Serpent.AI (⭐6.7k)](https://github.com/SerpentAI/SerpentAI) - Serpent.AI is a game agent framework that allows you to turn any video game you own into a sandbox to develop AI and machine learning experiments. For both researchers and hobbyists.
+*   [Serpent.AI (⭐6.8k)](https://github.com/SerpentAI/SerpentAI) - Serpent.AI is a game agent framework that allows you to turn any video game you own into a sandbox to develop AI and machine learning experiments. For both researchers and hobbyists.
 
 ### Swift / General-Purpose Machine Learning
 
@@ -176,20 +176,6 @@
   HTTPS: Yes
 
   CORS: Unknown
-
-
-
-### Geocoding
-
-- API: [FreeGeoIP](https://freegeoip.app/)
-
-  Description: Free geo ip information, no registration required. 15k/hour rate limit
-
-  Auth: No
-
-  HTTPS: Yes
-
-  CORS: Yes
 
 
 
@@ -283,41 +269,41 @@
 
 ### Bytecode Manipulation
 
-*   [bytecode-viewer (⭐14k)](https://github.com/Konloch/bytecode-viewer) - Java 8 Jar & Android APK reverse engineering suite. (GPL-3.0-only)
+*   [bytecode-viewer (⭐15k)](https://github.com/Konloch/bytecode-viewer) - Java 8 Jar & Android APK reverse engineering suite. (GPL-3.0-only)
 *   [Byteman](https://byteman.jboss.org) - Manipulate bytecode at runtime via DSL (rules); mainly for testing/troubleshooting. (LGPL-2.1-or-later)
 
 ### CLI / Text-Based User Interfaces
 
-*   [Lanterna (⭐2.2k)](https://github.com/mabe02/lanterna) - Easy console text-GUI library, similar to curses. (LGPL-3.0-only)
+*   [Lanterna (⭐2.3k)](https://github.com/mabe02/lanterna) - Easy console text-GUI library, similar to curses. (LGPL-3.0-only)
 
 ### Code Analysis / Text-Based User Interfaces
 
-*   [Checkstyle (⭐8.2k)](https://github.com/checkstyle/checkstyle) - Static analysis of coding conventions and standards. (LGPL-2.1-or-later)
+*   [Checkstyle (⭐8.3k)](https://github.com/checkstyle/checkstyle) - Static analysis of coding conventions and standards. (LGPL-2.1-or-later)
 *   [jQAssistant](https://jqassistant.org) - Static code analysis with Neo4J-based query language. (GPL-3.0-only)
 *   [SonarJava (⭐1.1k)](https://github.com/SonarSource/sonar-java) - Static analyzer for SonarQube & SonarLint. (LGPL-3.0-only)
-*   [Spotbugs (⭐3.4k)](https://github.com/spotbugs/spotbugs) - Static analysis of bytecode to find potential bugs. (LGPL-2.1-only)
+*   [Spotbugs (⭐3.5k)](https://github.com/spotbugs/spotbugs) - Static analysis of bytecode to find potential bugs. (LGPL-2.1-only)
 
 ### Constraint Satisfaction Problem Solver / Text-Based User Interfaces
 
-*   [JaCoP (⭐219)](https://github.com/radsz/jacop) - Includes an interface for the FlatZinc language, enabling it to execute MiniZinc models. (AGPL-3.0)
+*   [JaCoP (⭐220)](https://github.com/radsz/jacop) - Includes an interface for the FlatZinc language, enabling it to execute MiniZinc models. (AGPL-3.0)
 
 ### Date and Time / Text-Based User Interfaces
 
-*   [Time4J (⭐426)](https://github.com/MenoData/Time4J) - Advanced date and time library. (LGPL-2.1-only)
+*   [Time4J (⭐439)](https://github.com/MenoData/Time4J) - Advanced date and time library. (LGPL-2.1-only)
 
 ### Dependency Injection / Text-Based User Interfaces
 
-*   [JayWire (⭐55)](https://github.com/vanillasource/jaywire) - Lightweight dependency injection framework. (LGPL-3.0-only)
+*   [JayWire (⭐56)](https://github.com/vanillasource/jaywire) - Lightweight dependency injection framework. (LGPL-3.0-only)
 
 ### Development / Text-Based User Interfaces
 
 *   [DCEVM](https://dcevm.github.io) - JVM modification that allows unlimited redefinition of loaded classes at runtime. (GPL-2.0-only)
-*   [HotswapAgent (⭐2.2k)](https://github.com/HotswapProjects/HotswapAgent) - Unlimited runtime class and resource redefinition. (GPL-2.0-only)
+*   [HotswapAgent (⭐2.3k)](https://github.com/HotswapProjects/HotswapAgent) - Unlimited runtime class and resource redefinition. (GPL-2.0-only)
 
 ### Distributed Applications / Text-Based User Interfaces
 
 *   [Atomix](https://atomix.io) - Fault-tolerant distributed coordination framework.
-*   [Dropwizard Circuit Breaker (⭐41)](https://github.com/mtakaki/dropwizard-circuitbreaker) - Circuit breaker design pattern for Dropwizard. (GPL-2.0-only)
+*   [Dropwizard Circuit Breaker (⭐43)](https://github.com/mtakaki/dropwizard-circuitbreaker) - Circuit breaker design pattern for Dropwizard. (GPL-2.0-only)
 
 ### Distribution / Text-Based User Interfaces
 
@@ -330,11 +316,11 @@
 ### Formal Verification / Text-Based User Interfaces
 
 *   [Checker Framework](https://checkerframework.org) - Pluggable type systems. Includes nullness types, physical units, immutability types and more. (GPL-2.0-only WITH Classpath-exception-2.0)
-*   [Java Path Finder (JPF) (⭐518)](https://github.com/javapathfinder/jpf-core) - JVM formal verification tool containing a model checker and more. Created by NASA.
+*   [Java Path Finder (JPF) (⭐534)](https://github.com/javapathfinder/jpf-core) - JVM formal verification tool containing a model checker and more. Created by NASA.
 
 ### Functional Programming / Text-Based User Interfaces
 
-*   [derive4j (⭐560)](https://github.com/derive4j/derive4j) - Java 8 annotation processor and framework for deriving algebraic data types constructors, pattern-matching and morphisms. (GPL-3.0-only)
+*   [derive4j (⭐566)](https://github.com/derive4j/derive4j) - Java 8 annotation processor and framework for deriving algebraic data types constructors, pattern-matching and morphisms. (GPL-3.0-only)
 
 ### Geospatial / Text-Based User Interfaces
 
@@ -357,7 +343,7 @@
 
 ### Machine Learning / Text-Based User Interfaces
 
-*   [JSAT (⭐786)](https://github.com/EdwardRaff/JSAT) - Algorithms for pre-processing, classification, regression, and clustering with support for multi-threaded execution. (GPL-3.0-only)
+*   [JSAT (⭐788)](https://github.com/EdwardRaff/JSAT) - Algorithms for pre-processing, classification, regression, and clustering with support for multi-threaded execution. (GPL-3.0-only)
 
 ### Miscellaneous / Text-Based User Interfaces
 
@@ -371,11 +357,11 @@
 ### Networking / Text-Based User Interfaces
 
 *   [Undertow](http://undertow.io) - Web server providing both blocking and non-blocking APIs based on NIO. Used as a network layer in WildFly. (LGPL-2.1-only)
-*   [urnlib (⭐30)](https://github.com/slub/urnlib) - Represent, parse and encode URNs, as in RFC 2141. (GPL-3.0-only)
+*   [urnlib (⭐31)](https://github.com/slub/urnlib) - Represent, parse and encode URNs, as in RFC 2141. (GPL-3.0-only)
 
 ### PDF / Text-Based User Interfaces
 
-*   [DynamicReports (⭐198)](https://github.com/dynamicreports/dynamicreports) - Simplifies JasperReports. (LGPL-3.0-only)
+*   [DynamicReports (⭐215)](https://github.com/dynamicreports/dynamicreports) - Simplifies JasperReports. (LGPL-3.0-only)
 *   [flyingsaucer (⭐2k)](https://github.com/flyingsaucerproject/flyingsaucer) - XML/XHTML and CSS 2.1 renderer. (LGPL-2.1-or-later)
 *   [JasperReports](https://community.jaspersoft.com/project/jasperreports-library) - Complex reporting engine. (LGPL-3.0-only)
 
@@ -395,7 +381,7 @@
 ### Utility / Mocking
 
 *   [CRaSH](http://www.crashub.org) - Provides a shell into a JVM that's running CRaSH. Used by Spring Boot and others. (LGPL-2.1-or-later)
-*   [Gephi (⭐5.7k)](https://github.com/gephi/gephi) - Cross-platform for visualizing and manipulating large graph networks. (GPL-3.0-only)
+*   [Gephi (⭐5.9k)](https://github.com/gephi/gephi) - Cross-platform for visualizing and manipulating large graph networks. (GPL-3.0-only)
 
 ### Web Frameworks / Mocking
 

@@ -16,7 +16,7 @@
 
 ### Database Schema Migration
 
-*   [bytebase (⭐11k)](https://github.com/bytebase/bytebase) - Safe database schema change and version control for DevOps teams.
+*   [bytebase (⭐12k)](https://github.com/bytebase/bytebase) - Safe database schema change and version control for DevOps teams.
 
 ## [3. Awesome Ci](/content/ligurio/awesome-ci/README.md)
 
@@ -62,11 +62,11 @@
 
 ### Other
 
-*   🔧 [Mirthix (⭐13)](https://github.com/cboyer/mirth-zabbix) - Zabbix protocol implementation for Mirth Connect integration engine.
+*   🔧 [Mirthix (⭐14)](https://github.com/cboyer/mirth-zabbix) - Zabbix protocol implementation for Mirth Connect integration engine.
 
 ### Follow / Community
 
-*   📖 [Discussion Forum (⭐847)](https://github.com/nextgenhealthcare/connect/discussions) - Official Forum for Mirth Connect.
+*   📖 [Discussion Forum (⭐955)](https://github.com/nextgenhealthcare/connect/discussions) - Official Forum for Mirth Connect.
 
 ## [8. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
@@ -84,15 +84,15 @@
 
 ### Third-Party Packages / Admin
 
-*   [django-admin-sortable2 (⭐730)](https://github.com/jrief/django-admin-sortable2) - Generic drag-and-drop ordering for objects in the Django admin interface.
+*   [django-admin-sortable2 (⭐793)](https://github.com/jrief/django-admin-sortable2) - Generic drag-and-drop ordering for objects in the Django admin interface.
 
 ### Third-Party Packages / Forms
 
-*   [django-bleach (⭐146)](https://github.com/marksweb/django-bleach/) - Integrate bleach into forms and models. See `django-nh3` as an alternative.
+*   [django-bleach (⭐149)](https://github.com/marksweb/django-bleach/) - Integrate bleach into forms and models. See `django-nh3` as an alternative.
 
 ### Third-Party Packages / Model Fields
 
-*   [django-streamfield (⭐124)](https://github.com/raagin/django-streamfield) - Simple StreamField for plain Django admin (based on Wagtail CMS StreamField idea).
+*   [django-streamfield (⭐126)](https://github.com/raagin/django-streamfield) - Simple StreamField for plain Django admin (based on Wagtail CMS StreamField idea).
 
 ---
 

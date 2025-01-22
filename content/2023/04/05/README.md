@@ -22,13 +22,13 @@
 
 ### Utilities
 
-*   [just (⭐31)](https://github.com/kazhuravlev/just) - Just a collection of useful functions for working with generic data structures.
+*   [just (⭐32)](https://github.com/kazhuravlev/just) - Just a collection of useful functions for working with generic data structures.
 
 ## [4. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Scrollbar / Diagnostics
 
-*   [lewis6991/satellite.nvim (⭐529)](https://github.com/lewis6991/satellite.nvim) - Decorate scrollbar.
+*   [lewis6991/satellite.nvim (⭐601)](https://github.com/lewis6991/satellite.nvim) - Decorate scrollbar.
 
 ## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
@@ -40,7 +40,7 @@
 
 ### Tools / XML
 
-*   [pup (⭐144)](https://github.com/hexagon/pup) - Advanced process manager for Deno. With autorestart, fs watch, cron start, process telemetry, ipc, clustering, load balancer and more.
+*   [pup (⭐148)](https://github.com/hexagon/pup) - Advanced process manager for Deno. With autorestart, fs watch, cron start, process telemetry, ipc, clustering, load balancer and more.
 
 ## [7. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -53,21 +53,21 @@
 
 ### Planning Coding Resources / Python
 
-*   [Gleam (⭐252)](https://github.com/dgrtwo/gleam) - A plotting library inspired by R-Shiny to create interactive plots.
+*   [Gleam (⭐255)](https://github.com/dgrtwo/gleam) - A plotting library inspired by R-Shiny to create interactive plots.
 
 ### Other Resources / Other GitHub Resource Lists
 
-*   [ai-collection (⭐6.7k)](https://github.com/ai-collection/ai-collection) - Review of the generative AI landscape including tools/utilities.
+*   [ai-collection (⭐7.8k)](https://github.com/ai-collection/ai-collection) - Review of the generative AI landscape including tools/utilities.
 
 ## [9. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Booking and Scheduling
 
-*   [Seatsurfing](https://seatsurfing.app/) - Webbased app to book seats, desks and rooms for offices. ([Source Code (⭐113)](https://github.com/seatsurfing/backend)) `GPL-3.0` `Docker`
+*   [Seatsurfing](https://seatsurfing.app/) - Webbased app to book seats, desks and rooms for offices. ([Source Code (⭐163)](https://github.com/seatsurfing/backend)) `GPL-3.0` `Docker`
 
 ### Software / Money, Budgeting & Management
 
-*   [Actual](https://actualbudget.github.io/docs/) - Actual is a local-first personal finance tool based on zero-sum budgeting. It supports synchronization across devices, custom rules, manual transaction importing (from QIF, OFX, and QFX files), and optional automatic synchronization with many banks. ([Source Code (⭐3.1k)](https://github.com/actualbudget/actual-server)) `MIT` `Nodejs/Docker`
+*   [Actual](https://actualbudget.github.io/docs/) - Actual is a local-first personal finance tool based on zero-sum budgeting. It supports synchronization across devices, custom rules, manual transaction importing (from QIF, OFX, and QFX files), and optional automatic synchronization with many banks. ([Source Code (⭐3.4k)](https://github.com/actualbudget/actual-server)) `MIT` `Nodejs/Docker`
 
 ## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

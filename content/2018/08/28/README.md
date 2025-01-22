@@ -91,7 +91,7 @@
 
 ### Boilerplates
 
-*   [tomimick/tm-nextjs-starter (⭐49)](https://github.com/tomimick/tm-nextjs-starter) - A minimal starter/demo with basic CRUD, axios/localstorage, MobX, SASS, static site export, live demo
+*   [tomimick/tm-nextjs-starter (⭐50)](https://github.com/tomimick/tm-nextjs-starter) - A minimal starter/demo with basic CRUD, axios/localstorage, MobX, SASS, static site export, live demo
 
 ## [5. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 

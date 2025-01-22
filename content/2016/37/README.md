@@ -68,7 +68,7 @@
 
 ### Plugins
 
-*   [tmux-fingers (⭐966)](https://github.com/Morantron/tmux-fingers) copy pasting in terminal with vimium/vimperator like hints.
+*   [tmux-fingers (⭐1k)](https://github.com/Morantron/tmux-fingers) copy pasting in terminal with vimium/vimperator like hints.
 
 ## [9. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/week/README.md)
 
@@ -106,15 +106,15 @@
 
 ### Build Tools / Bare metal / kernel development
 
-*   [dub (⭐645)](https://github.com/dlang/dub) - De facto official package and build management system for D. Will be included officially soon.
+*   [dub (⭐672)](https://github.com/dlang/dub) - De facto official package and build management system for D. Will be included officially soon.
 
 ### Compilers / Bare metal / kernel development
 
-*   [dmd (⭐2.8k)](https://github.com/dlang/dmd) - The reference compiler for the D programming language. Stable, builds insanely fast, very good for learning and rapid prototyping/development. Currently the frontend is implemented in D, and shared between dmd, ldc and gdc, the backend is implemented in C++.
+*   [dmd (⭐3k)](https://github.com/dlang/dmd) - The reference compiler for the D programming language. Stable, builds insanely fast, very good for learning and rapid prototyping/development. Currently the frontend is implemented in D, and shared between dmd, ldc and gdc, the backend is implemented in C++.
 
 ### IDEs & Editors / Bare metal / kernel development
 
-*   [Visual D (⭐285)](https://github.com/dlang/visuald) - Visual Studio extension for the D programming language.
+*   [Visual D (⭐288)](https://github.com/dlang/visuald) - Visual Studio extension for the D programming language.
 
 ## [13. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
@@ -234,7 +234,7 @@ Webpage: [kekdelft.nl](http://www.kekdelft.nl/)
 
 ### Algebra / Linear Algebra
 
-*   📝 [MIT OpenCourseWare Lectures on Linear Algebra (18.06) as Jupyter Notebooks (⭐527)](https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06) - Juan Klopper
+*   📝 [MIT OpenCourseWare Lectures on Linear Algebra (18.06) as Jupyter Notebooks (⭐549)](https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06) - Juan Klopper
 
 ## [19. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
@@ -261,7 +261,7 @@ Webpage: [kekdelft.nl](http://www.kekdelft.nl/)
 
 ### Table of Contents / Testing
 
-*   [PHP-Mock (⭐357)](https://github.com/php-mock/php-mock) - A mock library for built-in PHP functions (e.g. time()).
+*   [PHP-Mock (⭐360)](https://github.com/php-mock/php-mock) - A mock library for built-in PHP functions (e.g. time()).
 
 ### Table of Contents / Build Tools
 
@@ -275,7 +275,7 @@ Webpage: [kekdelft.nl](http://www.kekdelft.nl/)
 
 ### Artificial Intelligence
 
-*   [simple\_bayes (⭐392)](https://github.com/fredwu/simple_bayes) - A Simple Bayes / Naive Bayes implementation in Elixir.
+*   [simple\_bayes (⭐390)](https://github.com/fredwu/simple_bayes) - A Simple Bayes / Naive Bayes implementation in Elixir.
 
 ### Authentication
 
@@ -283,7 +283,7 @@ Webpage: [kekdelft.nl](http://www.kekdelft.nl/)
 
 ### Macros
 
-*   [pipe\_to (⭐85)](https://github.com/taiansu/pipe_to) - The enhanced pipe operator which can specify the target position.
+*   [pipe\_to (⭐84)](https://github.com/taiansu/pipe_to) - The enhanced pipe operator which can specify the target position.
 
 ### Queue
 
@@ -295,11 +295,11 @@ Webpage: [kekdelft.nl](http://www.kekdelft.nl/)
 
 ### Third Party APIs
 
-*   [dnsimple (⭐49)](https://github.com/dnsimple/dnsimple-elixir) - Elixir client for the DNSimple API v2.
+*   [dnsimple (⭐50)](https://github.com/dnsimple/dnsimple-elixir) - Elixir client for the DNSimple API v2.
 
 ### Editors
 
-*   [elixir-tmbundle (⭐262)](https://github.com/elixir-lang/elixir-tmbundle) - A TextMate and SublimeText bundle for Elixir.
+*   [elixir-tmbundle (⭐261)](https://github.com/elixir-lang/elixir-tmbundle) - A TextMate and SublimeText bundle for Elixir.
 
 ## [24. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
@@ -721,7 +721,7 @@ Webpage: [kekdelft.nl](http://www.kekdelft.nl/)
 
 ### Graphics
 
-*   [OpenTK (⭐3.2k)](https://github.com/opentk/opentk) - The Open Toolkit is an advanced, low-level C# library that wraps OpenGL, OpenCL and OpenAL
+*   [OpenTK (⭐3.3k)](https://github.com/opentk/opentk) - The Open Toolkit is an advanced, low-level C# library that wraps OpenGL, OpenCL and OpenAL
 
 ### Image Processing
 
@@ -729,8 +729,8 @@ Webpage: [kekdelft.nl](http://www.kekdelft.nl/)
 
 ### JavaScript Engines
 
-*   [Jint (⭐4k)](https://github.com/sebastienros/jint) - JavaScript interpreter for .NET which provides full ECMA 5.1 compliance and can run on any .NET platform.
-*   [Jurassic (⭐872)](https://github.com/paulbartrum/jurassic) - A implementation of the ECMAScript language and runtime. It aims to provide the best performing and most standards-compliant implementation of JavaScript for .NET.
+*   [Jint (⭐4.2k)](https://github.com/sebastienros/jint) - JavaScript interpreter for .NET which provides full ECMA 5.1 compliance and can run on any .NET platform.
+*   [Jurassic (⭐892)](https://github.com/paulbartrum/jurassic) - A implementation of the ECMAScript language and runtime. It aims to provide the best performing and most standards-compliant implementation of JavaScript for .NET.
 
 ## [38. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
 

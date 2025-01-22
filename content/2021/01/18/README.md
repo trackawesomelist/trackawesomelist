@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 18, 2021
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -45,13 +45,7 @@
 *   [Breach](https://www.carbonite.com/podcasts/breach/) - A podcast exploring data breaches and cybersecurity by Carbonite.
 *   [Land of Giants](https://www.vox.com/land-of-the-giants-podcast) - Facebook. Apple. Amazon. Netflix. Google. This podcast examine how it got its power, what it's doing with it, and what might happen to in the future.
 
-## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / UI Components
-
-*   [vue-gauge (⭐13)](https://github.com/chrisheanan/vue-gauge) - Vue.js component to create animated svg gauge charts
-
-## [8. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
+## [7. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
 ### Frameworks and Stacks
 
@@ -61,7 +55,7 @@
 
 *   [Cloe (⭐28)](https://github.com/eclipse/cloe) - Empowers developers of automated-driving software components by providing a unified interface to closed-loop simulation.
 
-## [9. Awesome List](/content/sindresorhus/awesome/README.md)
+## [8. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Gaming
 

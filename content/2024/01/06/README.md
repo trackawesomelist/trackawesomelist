@@ -10,13 +10,13 @@
 
 ### Domain Specific Language / Design Theory
 
-*   [Design Guidelines for Domain Specific Languages](https://arxiv.org/abs/1409.2378) - ***OOPSLA Workshop on Domain-Specific Modeling (DSM' 09)***, 2009. \[[All Versions](https://scholar.google.com/scholar?cluster=1962567819031018744)]. Guidelines to support a DSL developer to achieve better quality of the language design and a better acceptance among its users.
+*   [Design Guidelines for Domain Specific Languages](https://arxiv.org/abs/1409.2378) - ***OOPSLA Workshop on Domain-Specific Modeling (DSM' 09)***, 2009. \[[All Versions](https://scholar.google.com/scholar?cluster=1962567819031018744)]. Designing a new domain specific language is as any other complex task sometimes error-prone and usually time consuming, especially if the language shall be of high-quality and comfortably usable. Existing tool support focuses on the simplification of technical aspects but lacks support for an enforcement of principles for a good language design. In this paper we investigate guidelines that are useful for designing domain specific languages, largely based on our experience in developing languages as well as relying on existing guidelines on general purpose (GPLs) and modeling languages. This work defined Guidelines to support a DSL developer to achieve better quality of the language design and a better acceptance among its users.
 
 ## [2. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Security
 
-*   [go-peer (⭐248)](https://github.com/number571/go-peer) - A software library for creating secure and anonymous decentralized systems.
+*   [go-peer (⭐279)](https://github.com/number571/go-peer) - A software library for creating secure and anonymous decentralized systems.
 
 ## [3. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
 
@@ -35,7 +35,7 @@
 *   [Scilab with Xcos](https://www.scilab.org/) - Free, open source numerical computing alternative to MATLAB. Xcos provides Electrical System modeling capability similar to Simulink.
 *   [iCircuit](http://icircuitapp.com/) - Easy to use electronic circuit simulator, its advanced simulation engine can handle both analog and digital circuits and features realtime always-on analysis.
 *   [Micro-Cap](http://www.spectrum-soft.com/download/download.shtm) - Professional-grade mixed signal simulator with wide variety of interactive simulation types.
-*   [GeckoCIRCUITS](https://de.wikipedia.org/wiki/GeckoCircuits) - Open Source Power Electronic Circuit Simulator. [GitHub Project (⭐45)](https://github.com/geckocircuits/GeckoCIRCUITS). Direct [download link](http://gecko-simulations.com/GeckoCIRCUITS/GeckoCIRCUITS.zip) due to broken website.
+*   [GeckoCIRCUITS](https://de.wikipedia.org/wiki/GeckoCircuits) - Open Source Power Electronic Circuit Simulator. [GitHub Project (⭐64)](https://github.com/geckocircuits/GeckoCIRCUITS). Direct [download link](http://gecko-simulations.com/GeckoCIRCUITS/GeckoCIRCUITS.zip) due to broken website.
 
 ### Paid EDA Packages / Installable
 
@@ -81,7 +81,7 @@
 
 ### Table of Contents / NoSQL
 
-*   [MongoDB (⭐880)](https://github.com/mongodb/mongo-php-driver) - MongoDB PHP Driver.
+*   [MongoDB (⭐892)](https://github.com/mongodb/mongo-php-driver) - MongoDB PHP Driver.
 
 ## [6. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
@@ -97,19 +97,19 @@
 
 ## [7. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
-### Modules / Various Godot versions
+### Modules / Godot 4
 
-*   [godot-box2d (⭐323)](https://github.com/appsinacup/godot-box2d) - A [Box2D (⭐7.9k)](https://github.com/erincatto/box2d) physics server for Godot (Godot 4.2).
-*   [godot-jolt (⭐2k)](https://github.com/godot-jolt/godot-jolt) - Allows you to use the [Jolt Physics Engine (⭐6.3k)](https://github.com/jrouwe/JoltPhysics) (Godot 4.2).
-*   [godot-rapier-2d (⭐283)](https://github.com/appsinacup/godot-rapier-2d) - A 2D [Rapier (⭐3.9k)](https://github.com/dimforge/rapier) physics server for Godot (Godot 4.2).
+*   [godot-box2d (⭐329)](https://github.com/appsinacup/godot-box2d) - A [Box2D (⭐8.5k)](https://github.com/erincatto/box2d) physics server for Godot.
+*   [godot-jolt (⭐2.3k)](https://github.com/godot-jolt/godot-jolt) - Allows you to use the [Jolt Physics Engine (⭐7.1k)](https://github.com/jrouwe/JoltPhysics).
+*   [godot-rapier-2d (⭐472)](https://github.com/appsinacup/godot-rapier-2d) - A 2D [Rapier (⭐4.2k)](https://github.com/dimforge/rapier) physics server for Godot.
 
 ## [8. Awesome Bash](/content/awesome-lists/awesome-bash/README.md)
 
 ### Downloading and Serving
 
-*   [httpd.sh (⭐114)](https://github.com/cemeyer/httpd.sh) - A trivial web server in bash, using ctypes.sh.
-*   [Bash-web-server (⭐934)](https://github.com/dzove855/Bash-web-server) - A purely bash web server, no socat, netcat, etc.
-*   [bash-stack (⭐458)](https://github.com/cgsdev0/bash-stack) - Modern web framework in bash.
+*   [httpd.sh (⭐115)](https://github.com/cemeyer/httpd.sh) - A trivial web server in bash, using ctypes.sh.
+*   [Bash-web-server (⭐940)](https://github.com/dzove855/Bash-web-server) - A purely bash web server, no socat, netcat, etc.
+*   [bash-stack (⭐475)](https://github.com/cgsdev0/bash-stack) - Modern web framework in bash.
 
 ---
 

@@ -124,21 +124,21 @@ Webpage: <http://www-bsg.univ-paris1.fr>
 ### Build Tools / Bare metal / kernel development
 
 *   [premake (⭐2)](https://github.com/premake/premake-dlang) - Premake has built-in support for D projects
-*   [reggae (⭐174)](https://github.com/atilaneves/reggae) - meta build system in D
+*   [reggae (⭐183)](https://github.com/atilaneves/reggae) - meta build system in D
 *   [Makefile (⭐20)](https://github.com/bioinfornatics/MakefileForD) - Makefile template for D projects
-*   [cmake-d (⭐64)](https://github.com/dcarp/cmake-d) - CMake D Projects
+*   [cmake-d (⭐65)](https://github.com/dcarp/cmake-d) - CMake D Projects
 *   [cook2 (⭐25)](https://github.com/gecko0307/Cook2) - Fast incremental build tool intended for projects in D
 
 ### Containers / Bare metal / kernel development
 
-*   [memutils (⭐40)](https://github.com/etcimon/memutils) - Overhead allocators, allocator-aware containers and lifetime management for D objects
-*   [dlib.container (⭐210)](https://github.com/gecko0307/dlib) - generic data structures (GC-free dynamic and associative arrays and more)
+*   [memutils (⭐42)](https://github.com/etcimon/memutils) - Overhead allocators, allocator-aware containers and lifetime management for D objects
+*   [dlib.container (⭐217)](https://github.com/gecko0307/dlib) - generic data structures (GC-free dynamic and associative arrays and more)
 *   [std.rcstring (⭐9)](https://github.com/burner/std.rcstring) - A reference counted string implementation for D's build in string construct
 
 ### Data serialization / XML
 
-*   [orange (⭐71)](https://github.com/jacob-carlborg/orange) - General purpose serializer (currently only supports XML)
-*   [std.experimental.xml (⭐21)](https://github.com/lodo1995/experimental.xml) - Phobos candidate for a XML serialization
+*   [orange (⭐72)](https://github.com/jacob-carlborg/orange) - General purpose serializer (currently only supports XML)
+*   [std.experimental.xml (⭐20)](https://github.com/lodo1995/experimental.xml) - Phobos candidate for a XML serialization
 
 ### GUI Libs / XML
 
@@ -146,8 +146,8 @@ Webpage: <http://www-bsg.univ-paris1.fr>
 
 ### Image Processing / XML
 
-*   [dlib.image (⭐210)](https://github.com/gecko0307/dlib) - image processing (8 and 16 bits per channel, floating point operations, filtering, FFT, HDRI, graphics formats support including JPEG and PNG)
-*   [color.d (⭐517)](https://github.com/adamdruppe/arsd/blob/master/color.d) + [bmp.d (⭐517)](https://github.com/adamdruppe/arsd/blob/master/bmp.d), [jpg.d (⭐517)](https://github.com/adamdruppe/arsd/blob/master/jpg.d), [png.d (⭐517)](https://github.com/adamdruppe/arsd/blob/master/png.d) - basic color struct, HSL functions and reading and writing image files
+*   [dlib.image (⭐217)](https://github.com/gecko0307/dlib) - image processing (8 and 16 bits per channel, floating point operations, filtering, FFT, HDRI, graphics formats support including JPEG and PNG)
+*   [color.d (⭐531)](https://github.com/adamdruppe/arsd/blob/master/color.d) + [bmp.d (⭐531)](https://github.com/adamdruppe/arsd/blob/master/bmp.d), [jpg.d (⭐531)](https://github.com/adamdruppe/arsd/blob/master/jpg.d), [png.d (⭐531)](https://github.com/adamdruppe/arsd/blob/master/png.d) - basic color struct, HSL functions and reading and writing image files
 
 ### Logging / Language Processing
 
@@ -155,7 +155,7 @@ Webpage: <http://www-bsg.univ-paris1.fr>
 
 ### Configuration / Language Processing
 
-*   [inifile-D (⭐23)](https://github.com/burner/inifiled) - A compile time ini file parser and writter generator for D
+*   [inifile-D (⭐22)](https://github.com/burner/inifiled) - A compile time ini file parser and writter generator for D
 
 ## [13. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
@@ -167,7 +167,7 @@ Webpage: <http://www-bsg.univ-paris1.fr>
 
 ### CLI Builders
 
-*   [commander (⭐126)](https://github.com/mrrooijen/commander) - Command-line interface builder
+*   [commander (⭐128)](https://github.com/mrrooijen/commander) - Command-line interface builder
 
 ### Misc
 
@@ -175,7 +175,7 @@ Webpage: <http://www-bsg.univ-paris1.fr>
 
 ### Queues and Messaging
 
-*   [sidekiq.cr (⭐767)](https://github.com/mperham/sidekiq.cr) - Simple, efficient job processing
+*   [sidekiq.cr (⭐762)](https://github.com/mperham/sidekiq.cr) - Simple, efficient job processing
 
 ## [15. Awesome Erlang](/content/drobakowski/awesome-erlang/week/README.md)
 
@@ -304,46 +304,46 @@ Webpage: <http://www-bsg.univ-paris1.fr>
 
 ### C / Git
 
-*   [RHash (⭐556)](https://github.com/rhash/RHash) - Great utility for computing hash sums.
-*   [tiny-AES128-C (⭐4.1k)](https://github.com/kokke/tiny-AES128-C) - Small portable AES128 in C.
-*   [xxHash (⭐8.7k)](https://github.com/Cyan4973/xxHash) - Extremely fast hash algorithm.
+*   [RHash (⭐578)](https://github.com/rhash/RHash) - Great utility for computing hash sums.
+*   [tiny-AES128-C (⭐4.2k)](https://github.com/kokke/tiny-AES128-C) - Small portable AES128 in C.
+*   [xxHash (⭐9.1k)](https://github.com/Cyan4973/xxHash) - Extremely fast hash algorithm.
 
 ### C-sharp / Git
 
 *   [Bouncy Castle](https://bouncycastle.org/csharp/index.html) - All-purpose cryptographic library.
-*   [StreamCryptor (⭐130)](https://github.com/bitbeans/StreamCryptor) - Stream encryption & decryption with libsodium and protobuf.
+*   [StreamCryptor (⭐131)](https://github.com/bitbeans/StreamCryptor) - Stream encryption & decryption with libsodium and protobuf.
 
 ### Clojure / Git
 
 *   [buddy-core](https://funcool.github.io/buddy-core/latest/) - Cryptographic Api.
-*   [pandect (⭐219)](https://github.com/xsc/pandect) - Fast and easy-to-use Message Digest, Checksum and HMAC library for Clojure.
+*   [pandect (⭐222)](https://github.com/xsc/pandect) - Fast and easy-to-use Message Digest, Checksum and HMAC library for Clojure.
 
 ### Common Lisp / Git
 
-*   [crypto-shortcuts (⭐20)](https://github.com/Shinmera/crypto-shortcuts) - Collection of common cryptography functions.
+*   [crypto-shortcuts (⭐21)](https://github.com/Shinmera/crypto-shortcuts) - Collection of common cryptography functions.
 *   [ironclad](http://method-combination.net/lisp/ironclad/) - Collection of common crypto shortcuts.
 
 ### Delphi / Git
 
-*   [DelphiEncryptionCompendium (⭐248)](https://github.com/winkelsdorf/DelphiEncryptionCompendium/releases) - Cryptographic library for Delphi.
+*   [DelphiEncryptionCompendium (⭐255)](https://github.com/winkelsdorf/DelphiEncryptionCompendium/releases) - Cryptographic library for Delphi.
 *   [LockBox](https://sourceforge.net/projects/tplockbox/) - LockBox 3 is a Delphi library for cryptography.
-*   [SynCrypto (⭐780)](https://github.com/synopse/mORMot/blob/master/SynCrypto.pas) - Fast cryptographic routines (hashing and cypher), implementing AES, XOR, RC4, ADLER32, MD5, SHA1, SHA256 algorithms, optimized for speed.
+*   [SynCrypto (⭐787)](https://github.com/synopse/mORMot/blob/master/SynCrypto.pas) - Fast cryptographic routines (hashing and cypher), implementing AES, XOR, RC4, ADLER32, MD5, SHA1, SHA256 algorithms, optimized for speed.
 *   [TForge](https://bitbucket.org/sergworks/tforge) - TForge is open-source crypto library written in Delphi, compatible with FPC.
 
 ### Elixir / Git
 
-*   [cipher (⭐60)](https://github.com/rubencaro/cipher) - Elixir crypto library to encrypt/decrypt arbitrary binaries.
-*   [cloak (⭐546)](https://github.com/danielberkompas/cloak) - Cloak makes it easy to use encryption with Ecto.
+*   [cipher (⭐61)](https://github.com/rubencaro/cipher) - Elixir crypto library to encrypt/decrypt arbitrary binaries.
+*   [cloak (⭐575)](https://github.com/danielberkompas/cloak) - Cloak makes it easy to use encryption with Ecto.
 *   [comeonin (⭐1.3k)](https://github.com/elixircnx/comeonin) - Password authorization (bcrypt) library for Elixir.
-*   [elixir\_tea (⭐2)](https://github.com/keichan34/elixir_tea) - TEA implementation in Elixir.
-*   [exgpg (⭐18)](https://github.com/rozap/exgpg) - Use gpg from Elixir.
-*   [pot (⭐235)](https://github.com/yuce/pot) - Erlang library for generating one time passwords compatible with Google Authenticator.
-*   [siphash-elixir (⭐18)](https://github.com/zackehh/siphash-elixir) - Elixir implementation of the SipHash hash family.
+*   [elixir\_tea (⭐3)](https://github.com/keichan34/elixir_tea) - TEA implementation in Elixir.
+*   [exgpg (⭐19)](https://github.com/rozap/exgpg) - Use gpg from Elixir.
+*   [pot (⭐237)](https://github.com/yuce/pot) - Erlang library for generating one time passwords compatible with Google Authenticator.
+*   [siphash-elixir (⭐19)](https://github.com/zackehh/siphash-elixir) - Elixir implementation of the SipHash hash family.
 
 ### Go / Git
 
 *   [crypto](https://golang.org/pkg/crypto/) - Official Website Resources.
-*   [gocrypto (⭐151)](https://github.com/kisom/gocrypto) - Example source code for the Practical Crypto with Go book.
+*   [gocrypto (⭐153)](https://github.com/kisom/gocrypto) - Example source code for the Practical Crypto with Go book.
 
 ### Haskell / Git
 
@@ -361,7 +361,7 @@ Webpage: <http://www-bsg.univ-paris1.fr>
 
 ### Lua / Git
 
-*   [LuaCrypto (⭐95)](https://github.com/mkottman/luacrypto) - Lua bindings to OpenSSL.
+*   [LuaCrypto (⭐98)](https://github.com/mkottman/luacrypto) - Lua bindings to OpenSSL.
 
 ### Objective-C / Git
 
@@ -370,26 +370,26 @@ Webpage: <http://www-bsg.univ-paris1.fr>
 
 ### PHP / Git
 
-*   [TCrypto (⭐60)](https://github.com/timoh6/TCrypto) - TCrypto is a simple and flexible PHP 5.3+ in-memory key-value storage library.
+*   [TCrypto (⭐61)](https://github.com/timoh6/TCrypto) - TCrypto is a simple and flexible PHP 5.3+ in-memory key-value storage library.
 
 ### Python / Git
 
 *   [hashids (⭐1.4k)](https://github.com/davidaurelio/hashids-python) - Implementation of [hashids](http://hashids.org) in Python.
-*   [pynacl (⭐1k)](https://github.com/pyca/pynacl) - Python binding to the Networking and Cryptography (NaCl) library.
+*   [pynacl (⭐1.1k)](https://github.com/pyca/pynacl) - Python binding to the Networking and Cryptography (NaCl) library.
 
 ### Ruby / Git
 
-*   [RbNaCl (⭐981)](https://github.com/cryptosphere/rbnacl) - Ruby binding to the Networking and Cryptography (NaCl) library.
+*   [RbNaCl (⭐984)](https://github.com/cryptosphere/rbnacl) - Ruby binding to the Networking and Cryptography (NaCl) library.
 
 ### Rust / Git
 
-*   [cryptoballot (⭐219)](https://github.com/cryptoballot/cryptoballot) - Cryptographically secure online voting.
-*   [octavo (⭐140)](https://github.com/libOctavo/octavo) - Highly modular & configurable hash & crypto library.
-*   [ring (⭐3.6k)](https://github.com/briansmith/ring) - Safe, fast, small crypto using Rust & BoringSSL's cryptography primitives.
-*   [rust-openssl (⭐1.3k)](https://github.com/sfackler/rust-openssl) - OpenSSL bindings for Rust.
-*   [sodiumoxide (⭐639)](https://github.com/dnaq/sodiumoxide) - Sodium Oxide: Fast cryptographic library for Rust (bindings to libsodium).
-*   [suruga (⭐124)](https://github.com/klutzy/suruga) - TLS 1.2 implementation in Rust.
-*   [webpki (⭐456)](https://github.com/briansmith/webpki) - Web PKI TLS X.509 certificate validation in Rust.
+*   [cryptoballot (⭐221)](https://github.com/cryptoballot/cryptoballot) - Cryptographically secure online voting.
+*   [octavo (⭐141)](https://github.com/libOctavo/octavo) - Highly modular & configurable hash & crypto library.
+*   [ring (⭐3.7k)](https://github.com/briansmith/ring) - Safe, fast, small crypto using Rust & BoringSSL's cryptography primitives.
+*   [rust-openssl (⭐1.4k)](https://github.com/sfackler/rust-openssl) - OpenSSL bindings for Rust.
+*   [sodiumoxide (⭐641)](https://github.com/dnaq/sodiumoxide) - Sodium Oxide: Fast cryptographic library for Rust (bindings to libsodium).
+*   [suruga (⭐125)](https://github.com/klutzy/suruga) - TLS 1.2 implementation in Rust.
+*   [webpki (⭐462)](https://github.com/briansmith/webpki) - Web PKI TLS X.509 certificate validation in Rust.
 
 ### Swift / Git
 
@@ -427,38 +427,38 @@ Webpage: <http://www-bsg.univ-paris1.fr>
 
 - Name: Algorithms
 
-  Link: [tayllan/awesome-algorithms (⭐19k)](https://github.com/tayllan/awesome-algorithms)
+  Link: [tayllan/awesome-algorithms (⭐21k)](https://github.com/tayllan/awesome-algorithms)
 
 
 - Name: Algorithm Visualization
 
-  Link: [enjalot/algovis (⭐1.6k)](https://github.com/enjalot/algovis)
+  Link: [enjalot/algovis (⭐1.7k)](https://github.com/enjalot/algovis)
 
 
 - Name: Math
 
-  Link: [rossant/awesome-math (⭐8.4k)](https://github.com/rossant/awesome-math)
+  Link: [rossant/awesome-math (⭐8.9k)](https://github.com/rossant/awesome-math)
 
 
 - Name: C++
 
-  Link: [fffaraz/awesome-cpp (⭐57k)](https://github.com/fffaraz/awesome-cpp)
+  Link: [fffaraz/awesome-cpp (⭐60k)](https://github.com/fffaraz/awesome-cpp)
 
 
 - Name: Java
 
-  Link: [akullpp/awesome-java (⭐41k)](https://github.com/akullpp/awesome-java)
+  Link: [akullpp/awesome-java (⭐42k)](https://github.com/akullpp/awesome-java)
 
 
 - Name: Courses
 
-  Link: [prakhar1989/awesome-courses (⭐55k)](https://github.com/prakhar1989/awesome-courses)
+  Link: [prakhar1989/awesome-courses (⭐58k)](https://github.com/prakhar1989/awesome-courses)
 
 
 
 ### Other Awesome Resources / Interview Questions
 
-- Name: [Awesome Interviews (⭐69k)](https://github.com/MaximAbramchuck/awesome-interview-questions)
+- Name: [Awesome Interviews (⭐72k)](https://github.com/MaximAbramchuck/awesome-interview-questions)
 
   Description: A curated list of awesome interview questions
 
@@ -578,7 +578,7 @@ Webpage: <http://www-bsg.univ-paris1.fr>
 
 ### Framework Components
 
-*   [dayron (⭐158)](https://github.com/inaka/Dayron) - A repository *similar* to `Ecto.Repo` that works with REST API requests instead of a database.
+*   [dayron (⭐159)](https://github.com/inaka/Dayron) - A repository *similar* to `Ecto.Repo` that works with REST API requests instead of a database.
 
 ## [35. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
@@ -624,13 +624,13 @@ Webpage: <http://www-bsg.univ-paris1.fr>
 
 ### Documentation
 
-*   [Hanna (⭐38)](https://github.com/rdoc/hanna-nouveau) - An RDoc formatter built with simplicity, beauty and ease of browsing in mind.
+*   [Hanna (⭐39)](https://github.com/rdoc/hanna-nouveau) - An RDoc formatter built with simplicity, beauty and ease of browsing in mind.
 
 ## [39. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
 ### Multimedia content processing
 
-*   [Bento4 (⭐1.9k)](https://github.com/axiomatic-systems/Bento4) - Full-featured MP4 format and MPEG DASH C++ class library and tools.
+*   [Bento4 (⭐2k)](https://github.com/axiomatic-systems/Bento4) - Full-featured MP4 format and MPEG DASH C++ class library and tools.
 
 ## [40. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
@@ -642,11 +642,11 @@ Webpage: <http://www-bsg.univ-paris1.fr>
 
 ### Graphic Displays
 
-*   [ggtree (⭐781)](https://github.com/GuangchuangYu/ggtree) - Visualization and annotation of phylogenetic tree.
+*   [ggtree (⭐848)](https://github.com/GuangchuangYu/ggtree) - Visualization and annotation of phylogenetic tree.
 
 ### R Development
 
-*   [staticdocs (⭐692)](https://github.com/hadley/staticdocs) - Generate static html documentation for an R package.
+*   [staticdocs (⭐722)](https://github.com/hadley/staticdocs) - Generate static html documentation for an R package.
 
 ---
 

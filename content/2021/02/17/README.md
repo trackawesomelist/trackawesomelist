@@ -51,13 +51,13 @@
 
 ### Reflection
 
-*   [Refureku (⭐210)](https://github.com/jsoysouvanh/Refureku) - A C++17 runtime reflection and code generation library. \[MIT]
+*   [Refureku (⭐229)](https://github.com/jsoysouvanh/Refureku) - A C++17 runtime reflection and code generation library. \[MIT]
 
 ## [6. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Navigation / Image Picker
 
-*   [Beamer (⭐582)](https://github.com/slovnicki/beamer) <!--stargazers:slovnicki/beamer--> - Route through guarded page stacks and URLs using the Navigator 2.0 API effortlessly by [Sandro Lovnički](https://github.com/slovnicki)
+*   [Beamer (⭐593)](https://github.com/slovnicki/beamer) <!--stargazers:slovnicki/beamer--> - Route through guarded page stacks and URLs using the Navigator 2.0 API effortlessly by [Sandro Lovnički](https://github.com/slovnicki)
 
 ## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -65,31 +65,27 @@
 
 *   [Building an E-Commerce app with Vue.js, Vuex & Axios](https://codesource.io/building-an-e-commerce-app-with-vue-js-vuex-axios/) by Deven Rathore ( November 2020)
 
-### Projects Using Vue.js / Open Source
-
-*   [Trooveo (⭐9)](https://github.com/joek85/trooveo) - Search, listen to YouTube videos (Audio Only), No YouTube Api.
-
 ## [8. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Projects
 
-*   [KeyPress (⭐6)](https://github.com/rayylee/keypress) - A Rust WebAssembly Website example for practising english for chinese.
+*   [KeyPress (⭐8)](https://github.com/rayylee/keypress) - A Rust WebAssembly Website example for practising english for chinese.
 
 ## [9. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-windicss (⭐853)](https://github.com/windicss/vite-plugin-windicss) - Windi CSS integration.
+*   [vite-plugin-windicss (⭐857)](https://github.com/windicss/vite-plugin-windicss) - Windi CSS integration.
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-html (⭐570)](https://github.com/anncwb/vite-plugin-html) - Plugin to minimize and use ejs template syntax in `index.html`.
+*   [vite-plugin-html (⭐617)](https://github.com/anncwb/vite-plugin-html) - Plugin to minimize and use ejs template syntax in `index.html`.
 
 ## [10. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Database
 
-*   [WooriDB (⭐131)](https://github.com/naomijub/wooridb) - General purpose time serial database inspired by Crux and Datomic.
+*   [WooriDB (⭐132)](https://github.com/naomijub/wooridb) - General purpose time serial database inspired by Crux and Datomic.
 
 ## [11. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
@@ -99,18 +95,18 @@
 *   [ReadKit](https://readkitapp.com/) <sup>[466](https://t.me/s/aboutrss/466), [939](https://t.me/s/aboutrss/939)</sup> [![Mac](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-mac-client-16.png)](https://itunes.apple.com/app/readkit/id588726889?ls=1\&mt=12)[![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://readkit.app/#ios)
 *   [gReader](http://noinnion.com/greader/) <sup>[627](https://t.me/s/aboutrss/627), [958](https://t.me/s/aboutrss/958)</sup> [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://github.com/noinnion/greader/tree/master/apk)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/noinnion/greader/)
 *   [Fluent Reader](https://hyliu.me/fluent-reader/) <sup>[676](https://t.me/s/aboutrss/676), [746](https://t.me/s/aboutrss/746)</sup> [![Mac](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-mac-client-16.png)](https://github.com/yang991178/fluent-reader/releases)[![Windows](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-windows-10-16.png)](https://www.microsoft.com/store/apps/9P71FC94LRH8)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/yang991178/fluent-reader/)
-    *   [Fluent Reader Lite (⭐1.3k)](https://github.com/yang991178/fluent-reader-lite) <sup>[949](https://t.me/s/aboutrss/949)</sup> [![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://apps.apple.com/app/id1549611796)[![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=me.hyliu.fluent_reader_lite)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/yang991178/fluent-reader-lite)
-*   [baRSS (⭐92)](https://github.com/relikd/baRSS) <sup>[799](https://t.me/s/aboutrss/799)</sup> [![Mac](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-mac-client-16.png)](https://github.com/relikd/baRSS/releases)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
-*   [Yarr (⭐2.8k)](https://github.com/nkanaev/yarr) <sup>[822](https://t.me/s/aboutrss/822)</sup> ![Mac](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-mac-client-16.png)![Windows](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-windows-10-16.png)![Linux](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Linux.png)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/nkanaev/yarr)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+    *   [Fluent Reader Lite (⭐1.5k)](https://github.com/yang991178/fluent-reader-lite) <sup>[949](https://t.me/s/aboutrss/949)</sup> [![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://apps.apple.com/app/id1549611796)[![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=me.hyliu.fluent_reader_lite)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/yang991178/fluent-reader-lite)
+*   [baRSS (⭐132)](https://github.com/relikd/baRSS) <sup>[799](https://t.me/s/aboutrss/799)</sup> [![Mac](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-mac-client-16.png)](https://github.com/relikd/baRSS/releases)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+*   [Yarr (⭐3.1k)](https://github.com/nkanaev/yarr) <sup>[822](https://t.me/s/aboutrss/822)</sup> ![Mac](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-mac-client-16.png)![Windows](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-windows-10-16.png)![Linux](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Linux.png)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/nkanaev/yarr)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 *   [Elytra](https://elytra.app/) <sup>[824](https://t.me/s/aboutrss/824), [873](https://t.me/s/aboutrss/873), [888](https://t.me/s/aboutrss/888)</sup> [![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://itunes.apple.com/us/app/elytra/id1433266971?ls=1\&mt=8)[![Mac](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-mac-client-16.png)](https://elytra.app/mac)
 *   [An Otter RSS](https://twitter.com/AnOtterRSS) <sup>[817](https://t.me/s/aboutrss/817), [930](https://t.me/s/aboutrss/930)</sup> [![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://apps.apple.com/cn/app/an-otter-rss-reader/id1529696614)
 *   [Pindoo](https://steveluoxin.github.io/) <sup>[942](https://t.me/s/aboutrss/942)</sup> [![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://apps.apple.com/app/apple-store/id1500275364)
-*   [知微 (⭐120)](https://github.com/wizos/loread) <sup>[943](https://t.me/s/aboutrss/943)</sup> [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](http://www.coolapk.com/apk/168423)
+*   [知微 (⭐127)](https://github.com/wizos/loread) <sup>[943](https://t.me/s/aboutrss/943)</sup> [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](http://www.coolapk.com/apk/168423)
 
 ### Hosted Readers / Outline Processor Markup Language
 
 *   [Miniflux](https://miniflux.app/hosting.html) <sup>[369](https://t.me/s/aboutrss/369), [428](https://t.me/s/aboutrss/428), [740](https://t.me/s/aboutrss/740)</sup> [![Online](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-web-design-16.png)](https://miniflux.app/hosting.html)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/miniflux/miniflux)
-    *   [Heroku-Miniflux (⭐26)](https://github.com/sayomelu/heroku-miniflux) <sup>[945](https://t.me/s/aboutrss/945)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/sayomelu/heroku-miniflux)
+    *   [Heroku-Miniflux (⭐25)](https://github.com/sayomelu/heroku-miniflux) <sup>[945](https://t.me/s/aboutrss/945)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/sayomelu/heroku-miniflux)
 *   [1feed](https://1feed.app/) <sup>[825](https://t.me/s/aboutrss/825), [937](https://t.me/s/aboutrss/937)</sup> ![Online](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-web-design-16.png)
 *   [ReadDig](https://www.readdig.com/) <sup>[940](https://t.me/s/aboutrss/940)</sup> ![Online](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-web-design-16.png)
 

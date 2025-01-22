@@ -29,7 +29,7 @@
 ### Libraries
 
 *   [fn-curry (⭐5)](https://github.com/thunklife/fn-curry) – A simple function to curry a function.
-*   [date-fp (⭐122)](https://github.com/cullophid/date-fp) – A functional utility library for working with JavaScript dates. All functions in date-fp are pure, autocurried and will not mutate the date objects they are applied to.
+*   [date-fp (⭐121)](https://github.com/cullophid/date-fp) – A functional utility library for working with JavaScript dates. All functions in date-fp are pure, autocurried and will not mutate the date objects they are applied to.
 
 ## [5. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 

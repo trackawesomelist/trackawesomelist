@@ -10,7 +10,7 @@
 
 ### HAL implementation crates / XMC
 
-*   [`xmc1100-hal`](https://github.com/david-sawatzke/xmc1100-hal) - ![crates.io](https://img.shields.io/crates/v/xmc1100-hal.svg)
+*   [`xmc1100-hal`](https://github.com/david-sawatzke/xmc1100-hal) - [![crates.io](https://img.shields.io/crates/v/xmc1100-hal.svg)](https://crates.io/crates/xmc1100-hal)
 
 ## [2. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
@@ -22,14 +22,14 @@
 
 ### Proprietary Extensions / Progressive Web Application
 
-*   [ScandiPWA Theme (⭐542)](https://github.com/scandipwa/base-theme) - Magento 2.3+ PWA theme based on React and Redux
+*   [ScandiPWA Theme (⭐551)](https://github.com/scandipwa/base-theme) - Magento 2.3+ PWA theme based on React and Redux
 
 ## [4. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Development tools / IDEs
 
 *   [Eclipse](https://www.eclipse.org/)
-    *   [Eclipse Corrosion (⭐219)](https://github.com/eclipse-corrosion/corrosion) - a Rust development plugin for the Eclipse IDE, providing a rich edition experience through integration with the Rust Analyzer language server, Cargo runner and gdb debugger
+    *   [Eclipse Corrosion (⭐229)](https://github.com/eclipse-corrosion/corrosion) - a Rust development plugin for the Eclipse IDE, providing a rich edition experience through integration with the Rust Analyzer language server, Cargo runner and gdb debugger
 
 ## [5. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
@@ -80,7 +80,7 @@
 
 ### Python / Trading & Backtesting
 
-*   [PyPortfolioOpt (⭐4.3k)](https://github.com/robertmartin8/PyPortfolioOpt) - Financial portfolio optimization in python, including classical efficient frontier and advanced methods.
+*   [PyPortfolioOpt (⭐4.7k)](https://github.com/robertmartin8/PyPortfolioOpt) - Financial portfolio optimization in python, including classical efficient frontier and advanced methods.
 
 ## [10. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
 
@@ -132,17 +132,17 @@
 
 ### Compression
 
-*   [LZ4 (⭐10k)](https://github.com/lz4/lz4) - Extremely Fast Compression algorithm. \[BSD] [website](http://www.lz4.org/)
+*   [LZ4 (⭐11k)](https://github.com/lz4/lz4) - Extremely Fast Compression algorithm. \[BSD] [website](http://www.lz4.org/)
 
 ### Game Engine
 
-*   [raylib (⭐21k)](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming. \[zlib/libpng] [website](http://www.raylib.com/)
+*   [raylib (⭐24k)](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming. \[zlib/libpng] [website](http://www.raylib.com/)
 
 ## [14. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Apps / StreamField
 
-*   [Wagtail Blocks (⭐73)](https://github.com/ibrahimawadhamid/wagtail_blocks) - A Collection of awesome Wagtail CMS stream-field blocks and Charts.
+*   [Wagtail Blocks (⭐76)](https://github.com/ibrahimawadhamid/wagtail_blocks) - A Collection of awesome Wagtail CMS stream-field blocks and Charts.
 
 ### Open-source sites / Lists
 
@@ -158,17 +158,17 @@
 
 ### CLI Utils
 
-*   [tallboy (⭐56)](https://github.com/epoch/tallboy) - Generate ASCII character tables with support for spanning cells over multiple columns
+*   [tallboy (⭐58)](https://github.com/epoch/tallboy) - Generate ASCII character tables with support for spanning cells over multiple columns
 
 ### HTML Builders
 
-*   [form\_builder.cr (⭐31)](https://github.com/westonganger/form_builder.cr) - Dead simple HTML form builder for Crystal with built-in support for many popular UI libraries such as Bootstrap
+*   [form\_builder.cr (⭐32)](https://github.com/westonganger/form_builder.cr) - Dead simple HTML form builder for Crystal with built-in support for many popular UI libraries such as Bootstrap
 
 ## [17. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
 
 ### Resources
 
-*   [Lecture](https://www.youtube.com/watch?v=y7ndUhdQuU8) - More Modern CMake ([slides & examples (⭐155)](https://github.com/Bagira80/More-Modern-CMake))- by Deniz Bahadir, Meeting C++ 2018.
+*   [Lecture](https://www.youtube.com/watch?v=y7ndUhdQuU8) - More Modern CMake ([slides & examples (⭐168)](https://github.com/Bagira80/More-Modern-CMake))- by Deniz Bahadir, Meeting C++ 2018.
 
 ## [18. Awesome Digitalocean](/content/jonleibowitz/awesome-digitalocean/week/README.md)
 
@@ -180,16 +180,16 @@
 
 ### Network Vulnerability Scanners / Web Vulnerability Scanners
 
-*   [SQLmate (⭐414)](https://github.com/UltimateHackers/sqlmate) - Friend of `sqlmap` that identifies SQLi vulnerabilities based on a given dork and (optional) website.
+*   [SQLmate (⭐430)](https://github.com/UltimateHackers/sqlmate) - Friend of `sqlmap` that identifies SQLi vulnerabilities based on a given dork and (optional) website.
 
 ### Online Resources / Other Lists Online
 
-*   [Serverless Security (⭐580)](https://github.com/puresec/awesome-serverless-security/) - Curated list of awesome serverless security resources such as (e)books, articles, whitepapers, blogs and research papers.
+*   [Serverless Security (⭐599)](https://github.com/puresec/awesome-serverless-security/) - Curated list of awesome serverless security resources such as (e)books, articles, whitepapers, blogs and research papers.
 
 ### Windows Utilities / Web Exploitation Books
 
-*   [Commando VM (⭐6.8k)](https://github.com/fireeye/commando-vm) - Automated installation of over 140 Windows software packages for penetration testing and red teaming.
-*   [Covenant (⭐4k)](https://github.com/cobbr/Covenant) - ASP.NET Core application that serves as a collaborative command and control platform for red teamers.
+*   [Commando VM (⭐7k)](https://github.com/fireeye/commando-vm) - Automated installation of over 140 Windows software packages for penetration testing and red teaming.
+*   [Covenant (⭐4.2k)](https://github.com/cobbr/Covenant) - ASP.NET Core application that serves as a collaborative command and control platform for red teamers.
 
 ## [20. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
@@ -246,7 +246,7 @@
 
 ### Platforms and toolkits
 
-*   [UralicNLP (⭐70)](https://github.com/mikahama/uralicNLP) - An open source Python library for processing morphologically rich and, for the most part, endangered Uralic languages. It can do morphological analysis, generation, lemmatization, disambiguation and lexical lookup for a great many Uralic languages.
+*   [UralicNLP (⭐72)](https://github.com/mikahama/uralicNLP) - An open source Python library for processing morphologically rich and, for the most part, endangered Uralic languages. It can do morphological analysis, generation, lemmatization, disambiguation and lexical lookup for a great many Uralic languages.
 
 ## [25. Awesome Cross Platform Nodejs](/content/bcoe/awesome-cross-platform-nodejs/week/README.md)
 
@@ -337,7 +337,7 @@
 
 ### Template Engine / Other
 
-*   [Rocker (⭐732)](https://github.com/fizzed/rocker) - Optimized, memory efficient and speedy template engine producing statically typed, plain objects.
+*   [Rocker (⭐742)](https://github.com/fizzed/rocker) - Optimized, memory efficient and speedy template engine producing statically typed, plain objects.
 
 ### Related Awesome Lists / Mocking
 
@@ -440,7 +440,7 @@
 
 ### UI / Bottom bars
 
-*   [Bottom Navy Bar (⭐999)](https://github.com/pedromassango/bottom_navy_bar) <!--stargazers:pedromassango/bottom_navy_bar--> - Beautiful and colorful animated bottom navigation bar by [Pedro Massango](https://github.com/pedromassango).
+*   [Bottom Navy Bar (⭐1k)](https://github.com/pedromassango/bottom_navy_bar) <!--stargazers:pedromassango/bottom_navy_bar--> - Beautiful and colorful animated bottom navigation bar by [Pedro Massango](https://github.com/pedromassango).
 
 ### UI / Sliders
 

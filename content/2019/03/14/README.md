@@ -21,39 +21,30 @@
 
 ### HAL implementation crates / STMicroelectronics
 
-*   [`stm32f4xx-hal`](https://crates.io/crates/stm32f4xx-hal) - ![crates.io](https://img.shields.io/crates/v/stm32f4xx-hal.svg)
+*   [`stm32f4xx-hal`](https://crates.io/crates/stm32f4xx-hal) - [![crates.io](https://img.shields.io/crates/v/stm32f4xx-hal.svg)](https://crates.io/crates/stm32f4xx-hal)
     *   Generic HAL implementation for all MCUs of the stm32f4 series
 
-## [3. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
-
-### Development / Release
-
-*   [clog (⭐834)](https://github.com/clog-tool/clog-cli) - A conventional changelog for the rest of us.
-
-## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [3. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Podcasts
 
 *   [Cynical Developer #99 (10-15-2018)](https://cynicaldeveloper.com/podcast/99/)
 
-### Projects Using Vue.js / Open Source
-
-*   [FireX Proxy (⭐94)](https://github.com/Orogenesis/FireX-Proxy) - FireX Proxy is the user's trusted Chrome and Firefox browser extension that allows you to unblock any website and browse the web privately and securely. 🛡
-
 ### Components & Libraries / UI Components
 
-*   [vue-currency-input (⭐638)](https://github.com/dm4t2/vue-currency-input) - Easy input of currency formatted numbers for Vue.js.
+*   [vue-currency-input (⭐658)](https://github.com/dm4t2/vue-currency-input) - Easy input of currency formatted numbers for Vue.js.
 
-### Components & Libraries / Utilities
+## [4. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
-*   [vue-direction (⭐36)](https://github.com/shwilliam/vue-direction) - 👋 Direction aware hover in Vuejs
-*   [vue-unique-id (⭐47)](https://github.com/berniegp/vue-unique-id) - Generates unique component ids and component-scoped HTML ids.
+### Development / Release
+
+*   [clog (⭐859)](https://github.com/clog-tool/clog-cli) - A conventional changelog for the rest of us.
 
 ## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Networking
 
-*   [Restinio (⭐1.1k)](https://github.com/Stiffstream/restinio) - A header-only C++14 library that gives you an embedded HTTP/Websocket server. \[BSD]
+*   [Restinio (⭐1.2k)](https://github.com/Stiffstream/restinio) - A header-only C++14 library that gives you an embedded HTTP/Websocket server. \[BSD]
 
 ### Podcasts
 
@@ -61,7 +52,7 @@
 
 ### Other Awesome Projects
 
-*   [30 Seconds of C++ (⭐1.4k)](https://github.com/Bhupesh-V/30-seconds-of-cpp)
+*   [30 Seconds of C++ (⭐1.5k)](https://github.com/Bhupesh-V/30-seconds-of-cpp)
 
 ---
 

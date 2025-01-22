@@ -88,7 +88,7 @@ $ git config --global merge.tool meld
 
 ### Command Line Applications
 
-*   [tabula (⭐92)](https://github.com/aerosol/tabula) - Pretty print list of Ecto query results / maps in ascii tables (GitHub Markdown/OrgMode).
+*   [tabula (⭐93)](https://github.com/aerosol/tabula) - Pretty print list of Ecto query results / maps in ascii tables (GitHub Markdown/OrgMode).
 
 ### Testing
 
@@ -108,9 +108,9 @@ $ git config --global merge.tool meld
 
 ### Programming / Python
 
-*   [Nitime (⭐212)](https://github.com/nipy/nitime) - Timeseries analysis for neuroscience data.
-*   [MNE-Python (⭐2.1k)](https://github.com/mne-tools/mne-python) - Community-driven software for processing time-resolved neural signals including electroencephalography (EEG) and magnetoencephalography (MEG).
-*   [NiBabel (⭐511)](https://github.com/nipy/nibabel) - Provides read and write access to some common medical and neuroimaging file formats.
+*   [Nitime (⭐244)](https://github.com/nipy/nitime) - Timeseries analysis for neuroscience data.
+*   [MNE-Python (⭐2.7k)](https://github.com/mne-tools/mne-python) - Community-driven software for processing time-resolved neural signals including electroencephalography (EEG) and magnetoencephalography (MEG).
+*   [NiBabel (⭐652)](https://github.com/nipy/nibabel) - Provides read and write access to some common medical and neuroimaging file formats.
 
 ### Resources / MOOCs
 
@@ -124,7 +124,7 @@ $ git config --global merge.tool meld
 
 ### Models/Projects
 
-*   [CNN visualization using Tensorflow (⭐777)](https://github.com/InFoCusp/tf_cnnvis) - Tensorflow implementation of ["Visualizing and Understanding Convolutional Networks"](https://www.cs.nyu.edu/~fergus/papers/zeilerECCV2014.pdf)
+*   [CNN visualization using Tensorflow (⭐781)](https://github.com/InFoCusp/tf_cnnvis) - Tensorflow implementation of ["Visualizing and Understanding Convolutional Networks"](https://www.cs.nyu.edu/~fergus/papers/zeilerECCV2014.pdf)
 
 ## [7. Awesome Sdn](/content/sdnds-tw/awesome-sdn/README.md)
 

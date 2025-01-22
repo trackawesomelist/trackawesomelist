@@ -12,35 +12,41 @@
 
 *   [TeX Hour](https://texhour.github.io/) - A weekly video meeting
 
-## [2. Awesome Music](/content/ciconia/awesome-music/README.md)
+## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+
+### PaaS
+
+*   [deco.cx](https://www.deco.cx/en/dev) - Edge-native frontend platform with a visual CMS auto-generated from TypeScript code. Built-in A/B testing, content segmentation, and real-time analytics. Perfect for content-heavy and Enterprise e-commerce websites. Free up to 5k pageviews/month or open-source/personal projects.
+
+## [3. Awesome Music](/content/ciconia/awesome-music/README.md)
 
 ### Related lists
 
-*   [Awesome Audio DSP (⭐766)](https://github.com/BillyDM/awesome-audio-dsp) - A curated list of audio DSP and plugin development resources.
+*   [Awesome Audio DSP (⭐942)](https://github.com/BillyDM/awesome-audio-dsp) - A curated list of audio DSP and plugin development resources.
 
-## [3. Awesome Love2d](/content/love2d-community/awesome-love2d/README.md)
+## [4. Awesome Love2d](/content/love2d-community/awesome-love2d/README.md)
 
 ### AI
 
-*   [Luafinding (⭐29)](https://github.com/GlorifiedPig/Luafinding) - Class-based A\* implementation written purely in Lua.
+*   [Luafinding (⭐36)](https://github.com/GlorifiedPig/Luafinding) - Class-based A\* implementation written purely in Lua.
 
 ### Camera
 
-*   [parallax (⭐12)](https://github.com/idbrii/love-parallax) - Parallax scrolling with any camera system; seamlessly tile background images.
+*   [parallax (⭐15)](https://github.com/idbrii/love-parallax) - Parallax scrolling with any camera system; seamlessly tile background images.
 
 ### Input
 
-*   [GamepadGuesser (⭐6)](https://github.com/idbrii/love-gamepadguesser) - Get the right button icons for gamepads; load updated gamepad db.
+*   [GamepadGuesser (⭐9)](https://github.com/idbrii/love-gamepadguesser) - Get the right button icons for gamepads; load updated gamepad db.
 
 ### Shaders
 
-*   [ShaderScan (⭐6)](https://github.com/idbrii/love-shaderscan) - Adds hot reload, includes, and better error messages for faster shader iteration.
+*   [ShaderScan (⭐8)](https://github.com/idbrii/love-shaderscan) - Adds hot reload, includes, and better error messages for faster shader iteration.
 
 ### UI
 
-*   [Layouter (⭐8)](https://github.com/nekromoff/layouter) - A simple UI **grid layout** library for LÖVE 2D game engine.
+*   [Layouter (⭐15)](https://github.com/nekromoff/layouter) - A simple UI **grid layout** library for LÖVE 2D game engine.
 
-## [4. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
+## [5. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
 
 ### Tutorials
 
@@ -60,46 +66,39 @@
 *   [Roppers Security Fundamentals](https://www.roppers.org/courses/security) - Free course that teaches a beginner how security works in the real world. Learn security theory and execute defensive measures so that you are better prepared against threats online and in the physical world. Full text available as a [gitbook](https://www.hoppersroppers.org/security/).
 *   [Roppers Practical Networking](https://www.roppers.org/courses/networking) - A hands-on, wildly practical introduction to networking and making packets dance. No wasted time, no memorizing, just learning the fundamentals.
 
-## [5. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
+## [6. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 
 ### Automated Machine Learning / Others
 
-*   [Auto-PyTorch (⭐2.3k)](https://github.com/automl/Auto-PyTorch) - Automatic architecture search and hyperparameter optimization for PyTorch. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
+*   [Auto-PyTorch (⭐2.4k)](https://github.com/automl/Auto-PyTorch) - Automatic architecture search and hyperparameter optimization for PyTorch. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
 
 ### Reinforcement Learning / Others
 
-*   [PettingZoo (⭐2.4k)](https://github.com/Farama-Foundation/PettingZoo) - An API standard for multi-agent reinforcement learning environments, with popular reference environments and related utilities.
+*   [PettingZoo (⭐2.6k)](https://github.com/Farama-Foundation/PettingZoo) - An API standard for multi-agent reinforcement learning environments, with popular reference environments and related utilities.
 
-## [6. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [7. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Developer Tools / Virtualization
 
-*   [Lima (⭐15k)](https://github.com/lima-vm/lima) - Lima launches Linux virtual machines with automatic file sharing and port forwarding. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/lima-vm/lima)
+*   [Lima (⭐16k)](https://github.com/lima-vm/lima) - Lima launches Linux virtual machines with automatic file sharing and port forwarding. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/lima-vm/lima)
 
-## [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [8. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Self-hosting Solutions
 
 *   [FreedomBox](https://freedombox.org/) - Community project to develop, design and promote personal servers running free software for private, personal, communications. ([Source Code](https://salsa.debian.org/freedombox-team/freedombox)) `AGPL-3.0` `Python/deb`
 
-## [8. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
+## [9. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
 
 ### Examples
 
-*   [antoinezanardi/werewolves-assistant-api-next (⭐28)](https://github.com/antoinezanardi/werewolves-assistant-api-next#readme) - Project logo. Badges. Concise description. TOC for easy navigation. Simple install instructions and various sections. Clean project with code coverage, CI, and many other features.
-
-## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
-
-### PaaS
-
-*   [deco.cx](https://www.deco.cx/en/dev) - Edge-native frontend platform with a visual CMS auto-generated from TypeScript code. Built-in A/B testing, content segmentation, and real-time analytics. Perfect for content-heavy and Enterprise e-commerce websites. Free up to 5k pageviews/month or open-source/personal projects.
-*   [Platformatic Cloud](https://platformatic.dev/) - Platformatic offers many open-source packages to wrap and deploy your Fastify application in the Platformatic Cloud. Built-in CD with a GitHub Action. [Free plan](https://platformatic.dev/pricing/) for hobbyists with a simple [GitHub login](https://platformatic.cloud/).
+*   [antoinezanardi/werewolves-assistant-api-next](https://github.com/antoinezanardi/werewolves-assistant-api-next#readme) - Project logo. Badges. Concise description. TOC for easy navigation. Simple install instructions and various sections. Clean project with code coverage, CI, and many other features.
 
 ## [10. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Miscellaneous
 
-*   [Steam Deck (⭐290)](https://github.com/airscripts/awesome-steam-deck#readme) - A handheld gaming computer developed by Valve.
+*   [Steam Deck (⭐392)](https://github.com/airscripts/awesome-steam-deck#readme) - A handheld gaming computer developed by Valve.
 
 ## [11. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
@@ -112,7 +111,7 @@
 
 ### Cursorline / Diagnostics
 
-*   [sontungexpt/stcursorword (⭐73)](https://github.com/sontungexpt/stcursorword) - Highlight the word under the cursor (Improved and compact version of nvim-cursorline).
+*   [sontungexpt/stcursorword (⭐75)](https://github.com/sontungexpt/stcursorword) - Highlight the word under the cursor (Improved and compact version of nvim-cursorline).
 
 ## [13. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 

@@ -10,7 +10,7 @@
 
 ### Self-hosted Terraform Platforms / IDE
 
-*   [Stack-Lifecycle-Deployment (⭐226)](https://github.com/D10S0VSkY-OSS/Stack-Lifecycle-Deployment) - OpenSource solution that defines and manages the complete lifecycle of resources used and provisioned into a cloud.
+*   [Stack-Lifecycle-Deployment (⭐240)](https://github.com/D10S0VSkY-OSS/Stack-Lifecycle-Deployment) - OpenSource solution that defines and manages the complete lifecycle of resources used and provisioned into a cloud.
 
 ---
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 20, 2021
 
-7 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -68,27 +68,21 @@
     *   [Firefox Add-On: uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin)
     *   [Chrome Extension: uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
 
-## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / UI Components
-
-*   [vue-dd-form (⭐80)](https://github.com/marekmensa/vue-dd-form) - 📋 Build forms only by describing data nodes - without programming! [Online Demo](https://marekmensa.github.io/vue-dd-form/)
-
-## [6. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
+## [5. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
 
 ### Examples / Skeumorphic Icons
 
 *   [Hello](https://gitlab.gnome.org/chergert/hello) - Set of Hello World examples for GNOME/GTK in different languages.
 
-## [7. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
+## [6. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
 ### Plugins / Languages and Environments
 
 *   JSON
-    *   [JSON (⭐196)](https://github.com/azeemba/eslint-plugin-json) - Lint your JSON files.
+    *   [JSON (⭐209)](https://github.com/azeemba/eslint-plugin-json) - Lint your JSON files.
     *   [JSON, package.json (⭐41)](https://github.com/Bkucera/eslint-plugin-json-format) - Lint, format, and auto-fix your JSON files. Sort your `package.json`.
-    *   [JSON with Comments (⭐180)](https://github.com/ota-meshi/eslint-plugin-jsonc) - ESLint plugin for JSON, JSONC and JSON5.
-    *   [JSON Schema (⭐67)](https://github.com/ota-meshi/eslint-plugin-json-schema-validator) - Validates data defined in JavaScript, JSON, YAML and TOML using JSON Schema Validator.
+    *   [JSON with Comments (⭐197)](https://github.com/ota-meshi/eslint-plugin-jsonc) - ESLint plugin for JSON, JSONC and JSON5.
+    *   [JSON Schema (⭐71)](https://github.com/ota-meshi/eslint-plugin-json-schema-validator) - Validates data defined in JavaScript, JSON, YAML and TOML using JSON Schema Validator.
 
 ---
 

@@ -10,11 +10,11 @@
 
 ### Applications / Security tools
 
-*   [Inspektor (⭐282)](https://github.com/inspektor-dev/inspektor) - A database protocol-aware proxy that is used to enforce access policies 👮
+*   [Inspektor (⭐281)](https://github.com/inspektor-dev/inspektor) - A database protocol-aware proxy that is used to enforce access policies 👮
 
 ### Applications / Text processing
 
-*   [ruplacer (⭐423)](https://github.com/your-tools/ruplacer) - Find and replace text in source files [![Run tests](https://github.com/your-tools/ruplacer/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/your-tools/ruplacer/actions/workflows/test.yml)
+*   [ruplacer (⭐454)](https://github.com/your-tools/ruplacer) - Find and replace text in source files [![Run tests](https://github.com/your-tools/ruplacer/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/your-tools/ruplacer/actions/workflows/test.yml)
 
 ## [2. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 
@@ -41,7 +41,7 @@
 
 ### Developer Tools / Developer Utilities
 
-*   [XCSnippetsApp (⭐160)](https://github.com/MarcoEidinger/XCSnippetsApp) - Explore code snippets from the Swift and iOS community, view and edit the snippets before adding them conveniently to Xcode. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/MarcoEidinger/XCSnippetsApp)
+*   [XCSnippetsApp (⭐163)](https://github.com/MarcoEidinger/XCSnippetsApp) - Explore, view, and edit Swift and iOS code snippets for Xcode. [![OSS](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/MarcoEidinger/XCSnippetsApp) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [5. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 

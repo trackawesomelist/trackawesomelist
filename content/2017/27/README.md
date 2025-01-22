@@ -26,7 +26,7 @@
 
 ### Learning / Check Also
 
-*   [Awesome JS Books (⭐58)](https://github.com/jonathandion/awesome-js-books) - This is a curated list of all the best JavaScript books.
+*   [Awesome JS Books (⭐63)](https://github.com/jonathandion/awesome-js-books) - This is a curated list of all the best JavaScript books.
 
 ## [3. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
@@ -43,7 +43,7 @@
 
 ### Other Useful Repositories
 
-- Repository: [API Security Checklist (⭐22k)](https://github.com/shieldfy/API-Security-Checklist)
+- Repository: [API Security Checklist (⭐23k)](https://github.com/shieldfy/API-Security-Checklist)
 
   Description: Checklist of the most important security countermeasures when designing, testing, and releasing your API
 
@@ -53,7 +53,7 @@
 
 ### Table of Contents / Command Line
 
-*   [GetOpt (⭐336)](https://github.com/getopt-php/getopt-php) - A command line opt parser.
+*   [GetOpt (⭐337)](https://github.com/getopt-php/getopt-php) - A command line opt parser.
 
 ## [6. Awesome Theravada](/content/johnjago/awesome-theravada/week/README.md)
 
@@ -99,7 +99,7 @@
 
 ### Examples
 
-*   [Crabzilla (⭐68)](https://github.com/crabzilla/crabzilla) - Yet another Event Sourcing experiment. A project exploring Vert.x to develop Event Sourcing / CQRS applications.
+*   [Crabzilla (⭐73)](https://github.com/crabzilla/crabzilla) - Yet another Event Sourcing experiment. A project exploring Vert.x to develop Event Sourcing / CQRS applications.
 
 ## [12. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
@@ -130,7 +130,7 @@
 
 ### Monitoring & Quality Control
 
-*   [Jack Meter (⭐43)](https://github.com/njh/jackmeter) - Text console based DPM (Digital Peak Meter) for JACK.
+*   [Jack Meter (⭐44)](https://github.com/njh/jackmeter) - Text console based DPM (Digital Peak Meter) for JACK.
 
 ## [17. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
 
@@ -336,7 +336,7 @@
 
 ### Libraries for driving the protocol (or a layer above)
 
-*   C#/dotnet: [chrome-dev-tools (⭐76)](https://github.com/BaristaLabs/chrome-dev-tools) - Protocol wrapper generator that can be customized by editing handlebars templates. Includes .Net Core template.
+*   C#/dotnet: [chrome-dev-tools (⭐79)](https://github.com/BaristaLabs/chrome-dev-tools) - Protocol wrapper generator that can be customized by editing handlebars templates. Includes .Net Core template.
 
 ## [21. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
 
@@ -371,11 +371,11 @@
 
 ### CLI
 
-*   [ReadLine (⭐804)](https://github.com/tonerdo/readline) - A GNU-Readline like library for .NET/.NET Core.
+*   [ReadLine (⭐812)](https://github.com/tonerdo/readline) - A GNU-Readline like library for .NET/.NET Core.
 
 ### Cloud Storage
 
-*   [Foundatio (⭐1.9k)](https://github.com/FoundatioFx/Foundatio#jobs) - Cloud Storage library with AWS, Azure and many other providers supported.
+*   [Foundatio (⭐2k)](https://github.com/FoundatioFx/Foundatio#jobs) - Cloud Storage library with AWS, Azure and many other providers supported.
 
 ### Decompilation
 
@@ -401,13 +401,13 @@
 
 ### Network Tools / Network Reconnaissance Tools
 
-*   [dnsenum (⭐575)](https://github.com/fwaeytens/dnsenum/) - Perl script that enumerates DNS information from a domain, attempts zone transfers, performs a brute force dictionary style attack, and then performs reverse look-ups on the results.
-*   [dnsmap (⭐110)](https://github.com/makefu/dnsmap/) - Passive DNS network mapper.
-*   [dnsrecon (⭐2.5k)](https://github.com/darkoperator/dnsrecon/) - DNS enumeration script.
+*   [dnsenum (⭐614)](https://github.com/fwaeytens/dnsenum/) - Perl script that enumerates DNS information from a domain, attempts zone transfers, performs a brute force dictionary style attack, and then performs reverse look-ups on the results.
+*   [dnsmap (⭐112)](https://github.com/makefu/dnsmap/) - Passive DNS network mapper.
+*   [dnsrecon (⭐2.7k)](https://github.com/darkoperator/dnsrecon/) - DNS enumeration script.
 *   [dnstracer](http://www.mavetju.org/unix/dnstracer.php) - Determines where a given DNS server gets its information from, and follows the chain of DNS servers.
-*   [passivedns-client (⭐197)](https://github.com/chrislee35/passivedns-client) - Library and query tool for querying several passive DNS providers.
+*   [passivedns-client (⭐199)](https://github.com/chrislee35/passivedns-client) - Library and query tool for querying several passive DNS providers.
 *   [passivedns (⭐1.7k)](https://github.com/gamelinux/passivedns) - Network sniffer that logs all DNS server replies for use in a passive DNS setup.
-*   [smbmap (⭐1.7k)](https://github.com/ShawnDEvans/smbmap) - Handy SMB enumeration tool.
+*   [smbmap (⭐1.8k)](https://github.com/ShawnDEvans/smbmap) - Handy SMB enumeration tool.
 
 ### Vulnerability Databases / Social Engineering Tools
 
@@ -458,7 +458,7 @@
 
 *   [emojify.js (⭐1.8k)](https://github.com/emojione/emojify.js) - A Javascript module to convert Emoji keywords to images
 *   [emojione (⭐4.5k)](https://github.com/emojione/emojione) - EmojiOne™ is the open emoji standard
-*   [node-emoji (⭐1.1k)](https://github.com/omnidan/node-emoji) - Simple emoji support for Node.js
+*   [node-emoji (⭐1.3k)](https://github.com/omnidan/node-emoji) - Simple emoji support for Node.js
 
 ### Iconic fonts / Fonts
 
@@ -492,7 +492,7 @@
 
 ### Images / Barcode
 
-*   [MapleBacon (⭐343)](https://github.com/JanGorman/MapleBacon) - Image download and caching library.
+*   [MapleBacon (⭐340)](https://github.com/JanGorman/MapleBacon) - Image download and caching library.
 
 ### Maps / Barcode
 
@@ -500,7 +500,7 @@
 
 ### Text / Barcode
 
-*   [MarkyMark (⭐297)](https://github.com/M2Mobi/Marky-Mark) - Converts Markdown into native views or attributed strings.
+*   [MarkyMark (⭐301)](https://github.com/M2Mobi/Marky-Mark) - Converts Markdown into native views or attributed strings.
 
 ### UICollectionView / Barcode
 
@@ -528,15 +528,15 @@ Wifi pw: `fermento`
 
 ### Chatting
 
-*   [alice (⭐111)](https://github.com/alice-bot/alice) - A Slack bot framework for Elixir.
+*   [alice (⭐113)](https://github.com/alice-bot/alice) - A Slack bot framework for Elixir.
 
 ### Encoding and Compression
 
-*   [ex\_rlp (⭐29)](https://github.com/exthereum/ex_rlp) - Elixir implementation of Ethereum's RLP (Recursive Length Prefix) encoding.
+*   [ex\_rlp (⭐31)](https://github.com/exthereum/ex_rlp) - Elixir implementation of Ethereum's RLP (Recursive Length Prefix) encoding.
 
 ### HTTP
 
-*   [neuron (⭐327)](https://github.com/uesteibar/neuron) - A GraphQL client for Elixir.
+*   [neuron (⭐331)](https://github.com/uesteibar/neuron) - A GraphQL client for Elixir.
 
 ### Macros
 
@@ -548,22 +548,18 @@ Wifi pw: `fermento`
 
 ### Queue
 
-*   [que (⭐665)](https://github.com/sheharyarn/que) - Simple Background Job Processing with Mnesia.
+*   [que (⭐675)](https://github.com/sheharyarn/que) - Simple Background Job Processing with Mnesia.
 
 ### Static Page Generation
 
-*   [blogit (⭐42)](https://github.com/meddle0x53/blogit) - An OTP application for generating blogs from git repositories containing markdown files.
+*   [blogit (⭐41)](https://github.com/meddle0x53/blogit) - An OTP application for generating blogs from git repositories containing markdown files.
 
 ## [32. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Companies with "remote DNA"
 
-*   [AgentFire](https://agentfire.com/meet-our-team/) - Hyper local real estate websites powered by Wordpress.
-*   [AirTreks](https://www.airtreks.com/about/) - Multi-stop international flight planner with a distributed team.
-*   [Ameego](http://ameego.ca/) - Restaurant scheduling software.
 *   [Axelerant](https://www.axelerant.com/careers)
 *   [Crossover](https://app.crossover.com/x/marketplace/available-jobs) - Project-based Java, .Net and DevOps positions.
-*   [Doist](https://doist.com/jobs/) - Redefining productivity since 2007.
 
 ## [33. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
 
@@ -574,9 +570,9 @@ Wifi pw: `fermento`
 
 ## [34. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
-### Learning
+### Learning / Commerical Tools
 
-*   [Awesome Deep Learning Resources (⭐1.6k)](https://github.com/guillaume-chevalier/awesome-deep-learning-resources) - Rough list of learning resources for Deep Learning
+*   [Awesome Deep Learning Resources (⭐1.7k)](https://github.com/guillaume-chevalier/awesome-deep-learning-resources) - Rough list of learning resources for Deep Learning
 
 ## [35. Awesome Indie](/content/mezod/awesome-indie/week/README.md)
 
@@ -650,15 +646,14 @@ Wifi pw: `fermento`
 
 ## [38. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
-### Writing, running scripts / Third-party APIs
+### Running scripts / Third-party APIs
 
-*   👍 [Roswell (⭐1.8k)](https://github.com/roswell/roswell#scripting-with-roswell) -
-    a lisp installer and scripting environment (helper, launcher,
-    installer) and more. [MIT](https://opensource.org/licenses/MIT).
+*   👍 [Roswell (⭐1.8k)](https://github.com/roswell/roswell#scripting-with-roswell) - a script installer and launcher, that makes it easy to distribute Lisp scripts and programs. [MIT](https://opensource.org/licenses/MIT).
+    *   *compiles a binary under the hood*
 
 ### Plotting / Third-party APIs
 
-*   [vgplot (⭐49)](https://github.com/volkers/vgplot) - an interface to the
+*   [vgplot (⭐51)](https://github.com/volkers/vgplot) - an interface to the
     gnuplot plotting utility with the intention to resemble some of
     the plot commands of octave or matlab. [GPL3](http://www.gnu.org/copyleft/gpl.html).
 
@@ -694,7 +689,7 @@ Wifi pw: `fermento`
 ### Example Projects
 
 *   [Red Hat Single Sign-On Labs (⭐13)](https://github.com/RedHatWorkshops/red-hat-sso)
-*   [Spring Boot Keycloak Tutorial (⭐201)](https://github.com/sebastienblanc/spring-boot-keycloak-tutorial)
+*   [Spring Boot Keycloak Tutorial (⭐202)](https://github.com/sebastienblanc/spring-boot-keycloak-tutorial)
 
 ## [42. Inspire](/content/noahbuscher/inspire/week/README.md)
 

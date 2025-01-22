@@ -11,24 +11,24 @@
 ### Tools
 
 *   [Tablerates Generator](https://elgentos.nl/tablerates/) - Generate Tablerates with an online Tool.
-*   [Pestle (⭐529)](https://github.com/astorm/pestle) - Code Generation Tool by Alan Storm.
+*   [Pestle (⭐533)](https://github.com/astorm/pestle) - Code Generation Tool by Alan Storm.
 *   [Mage2Gen](https://mage2gen.com/) - Online Module Creator.
 
 ### Development Utilities
 
-*   [Config ImportExport (⭐156)](https://github.com/semaio/Magento2-ConfigImportExport) - CLI Based Config Management.
-*   [Whoops Exceptions (⭐94)](https://github.com/yireo/Yireo_Whoops) - PHP Exceptions for Cool Kids in Magento 2.
-*   [Developer Toolbar (⭐306)](https://github.com/mgtcommerce/Mgt_Developertoolbar) - Magento 2 Developer Toolbar.
-*   [Advanced Template Hints (⭐268)](https://github.com/ho-nl/magento2-Ho_Templatehints) - Magento 2 Template Hints Helper.
+*   [Config ImportExport (⭐158)](https://github.com/semaio/Magento2-ConfigImportExport) - CLI Based Config Management.
+*   [Whoops Exceptions (⭐98)](https://github.com/yireo/Yireo_Whoops) - PHP Exceptions for Cool Kids in Magento 2.
+*   [Developer Toolbar (⭐309)](https://github.com/mgtcommerce/Mgt_Developertoolbar) - Magento 2 Developer Toolbar.
+*   [Advanced Template Hints (⭐270)](https://github.com/ho-nl/magento2-Ho_Templatehints) - Magento 2 Template Hints Helper.
 
 ### Localization
 
 *   [de\_CH (⭐7)](https://github.com/staempfli/magento2-language-de-ch) 🇨🇭 - Swiss Language Package.
-*   [fr\_FR (⭐40)](https://github.com/Imaginaerum/magento2-language-fr-fr) :fr: - French Language Package.
+*   [fr\_FR (⭐42)](https://github.com/Imaginaerum/magento2-language-fr-fr) :fr: - French Language Package.
 *   [da\_DK](https://magentodanmark.dk/) 🇩🇰 - Danish Language Package.
 *   [es\_ES (⭐14)](https://github.com/eusonlito/magento2-language-es_es) :es: - Spanish Language Package.
 *   [pl\_PL (⭐17)](https://github.com/SnowdogApps/magento2-pl_pl) 🇵🇱 - Polish Language Package.
-*   [tr\_TR (⭐30)](https://github.com/hidonet/magento2-language-tr_tr) :tr: - Turkish Language Package.
+*   [tr\_TR (⭐32)](https://github.com/hidonet/magento2-language-tr_tr) :tr: - Turkish Language Package.
 *   [ro\_RO (⭐8)](https://github.com/EaDesgin/magento2-romanian-language-pack) 🇷🇴 - Romanian Language Package.
 *   [fi\_FL (⭐0)](https://github.com/mageplaza/magento-2-finnish-language-pack) 🇫🇮 - Finnish Language Package.
 *   [ko\_KR (⭐4)](https://github.com/mageplaza/magento-2-korean-language-pack) 🇰🇷 - Korean Language Package.
@@ -36,16 +36,16 @@
 
 ### Search
 
-*   [Algolia Search Integration (⭐168)](https://github.com/algolia/algoliasearch-magento-2) - Algolia Search(SaaS) Integration.
-*   [Elastic Suite Integration (⭐760)](https://github.com/Smile-SA/elasticsuite/) - Elastic Suite Integration.
+*   [Algolia Search Integration (⭐177)](https://github.com/algolia/algoliasearch-magento-2) - Algolia Search(SaaS) Integration.
+*   [Elastic Suite Integration (⭐766)](https://github.com/Smile-SA/elasticsuite/) - Elastic Suite Integration.
 
 ### Marketing
 
-*   [MagePlaza Seo (⭐134)](https://github.com/mageplaza/magento-2-seo-extension) - Well documented multi purpose SEO Extension.
+*   [MagePlaza Seo (⭐135)](https://github.com/mageplaza/magento-2-seo-extension) - Well documented multi purpose SEO Extension.
 
 ### Adminhtml / Backend
 
-*   [Checkout Tester (⭐81)](https://github.com/yireo/Yireo_CheckoutTester2) - Extension to quickly test Checkout changes.
+*   [Checkout Tester (⭐82)](https://github.com/yireo/Yireo_CheckoutTester2) - Extension to quickly test Checkout changes.
 
 ### Proprietary Extensions
 
@@ -81,7 +81,7 @@
 *   [Magento Official Website](https://www.magento.com) - Magento's official Website.
 *   [Magento Developer Documentation](http://devdocs.magento.com/) - Official Developer Documentation.
 *   [Magento Forum](https://community.magento.com/) - Community Forum by Magento.
-*   [Magento Github Repository (⭐11k)](https://github.com/magento/magento2) - Github Repository.
+*   [Magento Github Repository (⭐12k)](https://github.com/magento/magento2) - Github Repository.
 
 ### List of trustworthy Extension Developers / Progressive Web Application
 
@@ -104,14 +104,14 @@
 
 ### Other Magento 2 related Awesome Lists / Progressive Web Application
 
-*   [Mageres (⭐965)](https://github.com/aleron75/mageres) - Alessandro Ronchi's List of resources for Magento 1 and Magento 2.
+*   [Mageres (⭐985)](https://github.com/aleron75/mageres) - Alessandro Ronchi's List of resources for Magento 1 and Magento 2.
 *   [Awesome PHP (⭐31k)](https://github.com/ziadoz/awesome-php) - A curated List of Awesome PHP Resources.
 
 ## [2. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 
 ### Resources / Examples and Exercises
 
-*   [Escape from Callback Mountain (⭐259)](https://github.com/justsml/escape-from-callback-mountain) - Design & refactoring tips for Promise-based Functional JavaScript. Key benefits include better readability, testability, and reusability. MIT.
+*   [Escape from Callback Mountain (⭐258)](https://github.com/justsml/escape-from-callback-mountain) - Design & refactoring tips for Promise-based Functional JavaScript. Key benefits include better readability, testability, and reusability. MIT.
 
 ## [3. Awesome Indie](/content/mezod/awesome-indie/README.md)
 
@@ -129,7 +129,7 @@
 
 ### Table of Contents / Dependency Injection
 
-*   [Acclimate (⭐220)](https://github.com/AcclimateContainer/acclimate-container) - A common interface to dependency injection containers and service locators.
+*   [Acclimate (⭐221)](https://github.com/AcclimateContainer/acclimate-container) - A common interface to dependency injection containers and service locators.
 
 ### Table of Contents / Security
 

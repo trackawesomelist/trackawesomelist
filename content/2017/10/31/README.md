@@ -16,7 +16,7 @@
 
 ### Apps / E-commerce
 
-*   [django-oscar-wagtail (⭐102)](https://github.com/LabD/django-oscar-wagtail) - Wagtail integration for Oscar Commerce (or Oscar Commerce integration for Wagtail?).
+*   [django-oscar-wagtail (⭐103)](https://github.com/LabD/django-oscar-wagtail) - Wagtail integration for Oscar Commerce (or Oscar Commerce integration for Wagtail?).
 
 ### Apps / Forms
 
@@ -50,7 +50,7 @@ Webpage: <http://frenesicafe.com>
 
 ### Table of Contents / Architectural
 
-*   [Porter (⭐613)](https://github.com/ScriptFUSION/Porter) - Data import abstraction library for consuming Web APIs and other data sources.
+*   [Porter (⭐611)](https://github.com/ScriptFUSION/Porter) - Data import abstraction library for consuming Web APIs and other data sources.
 
 ## [6. Bots](/content/hackerkid/bots/README.md)
 
@@ -72,7 +72,7 @@ Webpage: <http://frenesicafe.com>
 
 ### Related projects / Syntax highlighting packages
 
-*   [gb-save-states (⭐129)](https://github.com/mattcurrie/gb-save-states) - Patches to add save state support to Game Boy games when playing on the original hardware.
+*   [gb-save-states (⭐155)](https://github.com/mattcurrie/gb-save-states) - Patches to add save state support to Game Boy games when playing on the original hardware.
 
 ## [9. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 

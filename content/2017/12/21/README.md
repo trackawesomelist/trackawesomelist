@@ -62,7 +62,7 @@
 
 ### CSharp / Data Visualization
 
-*   [QuantConnect (⭐9.3k)](https://github.com/QuantConnect/Lean) - Lean Engine is an open-source fully managed C# algorithmic trading engine built for desktop and cloud usage.
+*   [QuantConnect (⭐10k)](https://github.com/QuantConnect/Lean) - Lean Engine is an open-source fully managed C# algorithmic trading engine built for desktop and cloud usage.
 
 ---
 

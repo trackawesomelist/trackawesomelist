@@ -16,7 +16,7 @@
 
 ### UI Testing
 
-*   [ViewInspector (⭐2.1k)](https://github.com/nalexn/ViewInspector) - Runtime inspection and unit testing of SwiftUI views
+*   [ViewInspector (⭐2.2k)](https://github.com/nalexn/ViewInspector) - Runtime inspection and unit testing of SwiftUI views
 
 ## [3. Awesome Github](/content/phillipadsmith/awesome-github/README.md)
 
@@ -44,7 +44,7 @@
 
 ### Frontend Tools / Terraform
 
-*   [GitHub Actions for mdBook (⭐220)](https://github.com/peaceiris/actions-mdbook)
+*   [GitHub Actions for mdBook (⭐289)](https://github.com/peaceiris/actions-mdbook)
 
 ## [6. Awesome Elm](/content/sporto/awesome-elm/README.md)
 
@@ -55,7 +55,7 @@
 ### Inspired by Elm / Games
 
 *   [Bolero](https://fsbolero.io/) - F# in WebAssembly using Elmish
-*   [Iced (⭐23k)](https://github.com/hecrj/iced) - A cross-platform GUI library for Rust, inspired by Elm
+*   [Iced (⭐25k)](https://github.com/hecrj/iced) - A cross-platform GUI library for Rust, inspired by Elm
 *   [SwiftUI](https://developer.apple.com/xcode/swiftui/)
 
 ## [7. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
@@ -74,7 +74,7 @@
 
 ### Software / Resource Planning
 
-*   [grocy](https://grocy.info/) - ERP beyond your fridge - grocy is a web-based self-hosted groceries & household management solution for your home. ([Demo](https://en.demo.grocy.info/), [Source Code (⭐6.6k)](https://github.com/grocy/grocy)) `MIT` `PHP/Docker`
+*   [grocy](https://grocy.info/) - ERP beyond your fridge - grocy is a web-based self-hosted groceries & household management solution for your home. ([Demo](https://en.demo.grocy.info/), [Source Code (⭐7.1k)](https://github.com/grocy/grocy)) `MIT` `PHP/Docker`
 
 ## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

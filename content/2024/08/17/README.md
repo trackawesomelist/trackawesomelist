@@ -83,30 +83,30 @@
 
 ## [3. Awesome Go](/content/avelino/awesome-go/README.md)
 
-### Networking
-
-*   [webhooked (⭐34)](https://github.com/42Atomys/webhooked) - A webhook receiver on steroids: handle, secure, format and store a Webhook payload has never been easier.
-
 ### Security
 
-*   [luks.go (⭐80)](https://github.com/anatol/luks.go) - Pure Golang library to manage LUKS partitions.
+*   [luks.go (⭐89)](https://github.com/anatol/luks.go) - Pure Golang library to manage LUKS partitions.
+
+### Webhooks Server / Libraries for creating HTTP middlewares
+
+*   [webhooked (⭐37)](https://github.com/42Atomys/webhooked) - A webhook receiver on steroids: handle, secure, format and store a Webhook payload has never been easier.
 
 ## [4. Awesome Chrome Devtools](/content/ChromeDevTools/awesome-chrome-devtools/README.md)
 
 ### Automation / Ruby
 
-*   [k6 browser (⭐334)](https://github.com/grafana/xk6-browser) - Browser automation and end-to-end web testing tool that interacts with browsers and collects frontend performance metrics.
+*   [k6 browser (⭐354)](https://github.com/grafana/xk6-browser) - Browser automation and end-to-end web testing tool that interacts with browsers and collects frontend performance metrics.
 
 ## [5. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### DOM / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ng-condition (⭐6)](https://github.com/nigrosimone/ng-condition) - An alternative directive to `*ngIf; else` that simplifies conditions in HTML templates.
+*   [ng-condition (⭐7)](https://github.com/nigrosimone/ng-condition) - An alternative directive to `*ngIf; else` that simplifies conditions in HTML templates.
 
 ### Editor Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [BlockNoteAngular (⭐1)](https://github.com/dytab/BlockNoteAngular) - Unofficial [BlockNote (⭐6.2k)](https://github.com/TypeCellOS/BlockNote) Angular wrapper.
-*   [ngx-jodit (⭐17)](https://github.com/julianpoemp/ngx-jodit/) - Angular wrapper for [Jodit (⭐1.6k)](https://github.com/xdan/jodit) WYSIWYG editor.
+*   [BlockNoteAngular (⭐5)](https://github.com/dytab/BlockNoteAngular) - Unofficial [BlockNote (⭐7k)](https://github.com/TypeCellOS/BlockNote) Angular wrapper.
+*   [ngx-jodit (⭐18)](https://github.com/julianpoemp/ngx-jodit/) - Angular wrapper for [Jodit (⭐1.7k)](https://github.com/xdan/jodit) WYSIWYG editor.
 
 ### Mixed utilities / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -116,11 +116,11 @@
 
 ### Tools and session management
 
-*   [harpoon (⭐10)](https://github.com/Chaitanyabsprip/tmux-harpoon) A tool to bookmark sessions and jump between them in a flash. Like ThePrimeagen/harpoon, but for tmux.
+*   [harpoon (⭐17)](https://github.com/Chaitanyabsprip/tmux-harpoon) A tool to bookmark sessions and jump between them in a flash. Like ThePrimeagen/harpoon, but for tmux.
 
 ### Status Bar
 
-*   [muxbar (⭐2)](https://github.com/dlurak/muxbar) configure the status bar in Rust.
+*   [muxbar (⭐12)](https://github.com/dlurak/muxbar) configure the status bar in Rust.
 
 ---
 

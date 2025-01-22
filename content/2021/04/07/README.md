@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 07, 2021
 
-14 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -14,19 +14,15 @@
 
 ## [2. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
-### Other multimodal data formats / Ruby
+### Widely adopted / Ruby
 
-*   [Alliance for Parking Data Standards (APDS)](https://www.allianceforparkingdatastandards.org/) - Formed by the [International Parking Institute (IPI)](https://www.parking.org/), the [British Parking Association (BPA)](http://www.britishparking.co.uk/), and the [European Parking Association (EPA)](http://www.europeanparking.eu/), APDS is a not-for-profit organization with the mission to develop, promote, manage, and maintain a uniform global standard that will allow organizations to share parking data across platforms worldwide.  APDS Version 1.0 documents are [here](https://www.allianceforparkingdatastandards.org/resources).
+*   [NeTex](http://netex-cen.eu/) - A general purpose XML format designed for the exchange of complex static transport data among distributed systems managed by the [CEN standards process](https://www.cencenelec.eu/european-standardization/european-standards/).
+
+### Pilot or development stage / Ruby
+
 *   [CurbLR (⭐72)](https://github.com/curblr/curblr-spec) - A specification for curb regulations.
-*   [Dyno-Path (⭐2)](https://github.com/osplanning-data-standards/dyno-path) - (Under development - see [this post (⭐21)](https://github.com/osplanning-data-standards/GTFS-PLUS/pull/52#issuecomment-331231000)) Data for individual passenger *trajectories*.
-*   [GTFS-flex (⭐117)](https://github.com/MobilityData/gtfs-flex) - A data format that models flexible public transportation services as an extension to GTFS.
+*   [Dyno-Path (⭐2)](https://github.com/osplanning-data-standards/dyno-path) - (Under development - see [this post (⭐22)](https://github.com/osplanning-data-standards/GTFS-PLUS/pull/52#issuecomment-331231000)) Data for individual passenger *trajectories*.
 *   [GTFS-ride (⭐49)](https://github.com/ODOT-PTS/GTFS-ride) - An open, fixed-route transit ridership data standard developed through a partnership between the Oregon Department of Transportation and Oregon State University.
-*   [General Modeling Network Specification (GMNS) (⭐101)](https://github.com/zephyr-data-specs/GMNS) - A format for sharing routable road network files designed to be used in multi-modal static and dynamic transportation planning and operations models. Volpe/FHWA partnership with Zephyr Foundation.
-*   [General Travel Network Specification](https://zephyrtransport.org/trb17projects/7-general-travel-network-specification/) - A planned data specification for sharing travel demand model networks.
-*   [Managed and Tolled Lanes Feed Specification (MTLFS) (⭐9)](https://github.com/vta/Managed-and-Tolled-Lanes-Feed-Specification) - Proposal for a schema that comprise the Managed and Tolled Lanes Tolling Feed Specification (MTLFS) and defines the fields used in all of those files developed by [Santa Clara Valley Transportation Authority](http://www.vta.org/).
-*   [Mobility Data Specification (MDS) (⭐676)](https://github.com/openmobilityfoundation/mobility-data-specification) - A format to implement realtime data sharing, measurement and regulation for municipalities and mobility as a service providers. It is meant to ensure that governments have the ability to enforce, evaluate and manage providers. Maintained by the [Open Mobility Foundation](https://www.openmobilityfoundation.org/).
-*   [NeTex](http://netex-cen.eu/) - A general purpose XML format designed for the exchange of complex static transport data among distributed systems managed by the [CEN standards process](https://www.cen.eu/work/ENdev/how/Pages/default.aspx).
-*   [Open Sales and Distribution Model (OSDM) (⭐48)](https://github.com/UnionInternationalCheminsdeFer/OSDM) - Aims to substantially simplify the booking process for customers of rail trips and to lower complexity and distribution costs for distributors and railway carriers. Contains a specification of an offline model and on-line API. Maintained by the [International Union of Railways (UIC)](https://github.com/UnionInternationalCheminsdeFer).
 *   [SAE Shared and Digital Mobility Committee](http://articles.sae.org/15799/) - Appears to be working on a data standard for car share and transportation network companies (TNCs) / rideshare.
 
 ## [3. Awesome Cross Platform Nodejs](/content/bcoe/awesome-cross-platform-nodejs/README.md)
@@ -69,53 +65,41 @@
 
 *   [Databox](https://databox.com) — Business Insights & Analytics by combining other analytics & BI platforms. Free Plan offers 3 users, dashboards & data sources. 11M historical data records.
 
-## [7. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
-
-### Job boards
-
-*   [Diversify Tech](https://www.diversifytech.co/job-board) - Companies are transparent about their Diversity & Inclusion efforts
-
-## [8. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
+## [7. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
 
 ### Blogs / Other
 
 *   [Automation Panda](https://automationpanda.com/)
 
-## [9. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
+## [8. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
 
 ### Resources / Books
 
 *   [SaaS Boilerplate Book](https://builderbook.org/book) - Learn how to build a production-ready SaaS web app from scratch
 
-## [10. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+## [9. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### no-std crates / WIP
 
-*   [adskalman](https://crates.io/crates/adskalman): Kalman filter and Rauch-Tung-Striebel smoothing implementation. ![crates.io](https://img.shields.io/crates/v/adskalman.svg)
+*   [adskalman](https://crates.io/crates/adskalman): Kalman filter and Rauch-Tung-Striebel smoothing implementation. [![crates.io](https://img.shields.io/crates/v/adskalman.svg)](https://crates.io/crates/adskalman)
 
-## [11. Awesome Nix](/content/nix-community/awesome-nix/README.md)
+## [10. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
 ### Command-Line Tools / Discovery
 
-*   [nix-tree (⭐690)](https://github.com/utdemir/nix-tree) - Interactively browse the dependency graph of Nix derivations.
+*   [nix-tree (⭐797)](https://github.com/utdemir/nix-tree) - Interactively browse the dependency graph of Nix derivations.
 
-## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / Scaffold
-
-*   [vue-sh-cli (⭐8)](https://github.com/ddosdor/vue-sh-cli) - A CLI for generating Vue components, views, store modules & unit tests. Supports Vue 3 components template and Typescript.
-
-## [13. Awesome Material Ui](/content/nadunindunil/awesome-material-ui/README.md)
+## [11. Awesome Material Ui](/content/nadunindunil/awesome-material-ui/README.md)
 
 ### Applications
 
 *   [Builder Book](https://builderbook.org/) - Books that teach you how to build full stack, production-ready web apps.
 
-## [14. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
+## [12. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### Plugins
 
-*   🎨🧩 [CSS Variables (⭐220)](https://github.com/mertasan/tailwindcss-variables) - Exports custom CSS variables.
+*   🎨🧩 [CSS Variables (⭐232)](https://github.com/mertasan/tailwindcss-variables) - Exports custom CSS variables.
 
 ### Learning
 

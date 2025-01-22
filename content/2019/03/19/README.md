@@ -22,7 +22,7 @@
 
 ### Process Management and Monitoring
 
-*   [Health Monitor Rails (⭐212)](https://github.com/lbeder/health-monitor-rails) - A mountable Rails plug-in to check health of services (Database, Cache, Sidekiq, Redis, e.t.c.) used by the Rails app.
+*   [Health Monitor Rails (⭐214)](https://github.com/lbeder/health-monitor-rails) - A mountable Rails plug-in to check health of services (Database, Cache, Sidekiq, Redis, e.t.c.) used by the Rails app.
 
 ## [4. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
@@ -46,7 +46,7 @@
 
 ### Audio
 
-*   [libsndfile (⭐1.4k)](https://github.com/erikd/libsndfile/) - C library with C++ wrapper for reading and writing files containing sampled sound through one standard library interface. \[LGPL-2.1] [website](http://www.mega-nerd.com/libsndfile/)
+*   [libsndfile (⭐1.5k)](https://github.com/erikd/libsndfile/) - C library with C++ wrapper for reading and writing files containing sampled sound through one standard library interface. \[LGPL-2.1] [website](http://www.mega-nerd.com/libsndfile/)
 
 ---
 

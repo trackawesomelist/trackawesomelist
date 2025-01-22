@@ -10,20 +10,20 @@
 
 ### Frontend Tools / Terraform
 
-*   [Runs a WebPageTest audit and prints the results as commit comment (⭐53)](https://github.com/JCofman/webPagetestAction)
+*   [Runs a WebPageTest audit and prints the results as commit comment (⭐57)](https://github.com/JCofman/webPagetestAction)
 
 ## [2. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Interoperability
 
-*   [Pyrolite (⭐177)](https://github.com/irmen/Pyrolite) - This library allows your Java or .NET program to interface very easily with
+*   [Pyrolite (⭐179)](https://github.com/irmen/Pyrolite) - This library allows your Java or .NET program to interface very easily with
     the Python world. It uses the Pyro protocol to call methods on remote objects.
 
 ## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Communication - SIP
 
-*   [FusionPBX](https://www.fusionpbx.com/) - Open source project that provides a customizable and flexible web interface to the very powerful and highly scalable multi-platform voice switch called FreeSWITCH. ([Source Code (⭐757)](https://github.com/fusionpbx/fusionpbx)) `MPL-1.1` `PHP`
+*   [FusionPBX](https://www.fusionpbx.com/) - Open source project that provides a customizable and flexible web interface to the very powerful and highly scalable multi-platform voice switch called FreeSWITCH. ([Source Code (⭐817)](https://github.com/fusionpbx/fusionpbx)) `MPL-1.1` `PHP`
 
 ## [4. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 
@@ -46,14 +46,14 @@
 ### Plugins / Practices and Specific ES Features
 
 *   [array-func (⭐94)](https://github.com/freaktechnik/eslint-plugin-array-func) - Avoid redundancy when using es2015 array methods and functions.
-*   [arrow functions (⭐305)](https://github.com/getify/eslint-plugin-proper-arrows) - ESLint rules to ensure proper arrow function definitions.
-*   [no-loops (⭐123)](https://github.com/buildo/eslint-plugin-no-loops) - It's 2019 and you still use loops?
+*   [arrow functions (⭐306)](https://github.com/getify/eslint-plugin-proper-arrows) - ESLint rules to ensure proper arrow function definitions.
+*   [no-loops (⭐126)](https://github.com/buildo/eslint-plugin-no-loops) - It's 2019 and you still use loops?
 
 ## [7. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
 ### Extensions
 
-*   [next-i18next (⭐5.2k)](https://github.com/isaachinman/next-i18next) - The easiest way to translate your NextJs apps.
+*   [next-i18next (⭐5.7k)](https://github.com/isaachinman/next-i18next) - The easiest way to translate your NextJs apps.
 
 ## [8. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
@@ -65,11 +65,11 @@
 
 ### Networking
 
-*   [restclient-cpp (⭐1.5k)](https://github.com/mrtazz/restclient-cpp) - Simple REST client for C++. It wraps libcurl for HTTP requests. \[MIT]
+*   [restclient-cpp (⭐1.6k)](https://github.com/mrtazz/restclient-cpp) - Simple REST client for C++. It wraps libcurl for HTTP requests. \[MIT]
 
 ### Build Systems
 
-*   [Vcpkg (⭐23k)](https://github.com/microsoft/vcpkg) - C++ library manager for Windows, Linux, and MacOS. \[MIT]
+*   [Vcpkg (⭐24k)](https://github.com/microsoft/vcpkg) - C++ library manager for Windows, Linux, and MacOS. \[MIT]
 
 ---
 

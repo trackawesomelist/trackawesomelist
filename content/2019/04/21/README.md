@@ -15,14 +15,14 @@
 
 ### Cartridges / Custom cartridges
 
-*   [Nekocart (⭐101)](https://github.com/zephray/NekoCart-GB) - Open-source flash cartridge using an Xilinx CPLD as MBC5 ([Post](https://hackaday.io/project/41160-nekocart-cpld-gameboy-cartridge)).
+*   [Nekocart (⭐117)](https://github.com/zephray/NekoCart-GB) - Open-source flash cartridge using an Xilinx CPLD as MBC5 ([Post](https://hackaday.io/project/41160-nekocart-cpld-gameboy-cartridge)).
 *   [Reiner Ziegler's Game Boy page](http://reinerziegler.de.mirrors.gg8.se/) - Commercial and homemade programmable cartridges and programming systems. Tutorials, wiring and schematics provided.
 
 ## [3. Awesome Rest](/content/marmelab/awesome-rest/README.md)
 
 ### Python / Symfony2
 
-*   [FastAPI (⭐75k)](https://github.com/tiangolo/fastapi) - FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints. With automatic API documentation using Swagger UI and ReDoc, based on OpenAPI and JSON Schema.
+*   [FastAPI (⭐80k)](https://github.com/tiangolo/fastapi) - FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints. With automatic API documentation using Swagger UI and ReDoc, based on OpenAPI and JSON Schema.
 
 ## [4. Awesome Mastodon](/content/tleb/awesome-mastodon/README.md)
 
@@ -67,7 +67,6 @@
 ### Applications and Platforms / Diet
 
 *   [Zero](https://www.zerofasting.com/) - A simple fasting tracker used for intermittent, circadian rhythm, and custom fasting (iOS & Android).
-*   [Vora](https://getvora.com/) - Fasting tracker (iOS & Android).
 
 ## [7. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 

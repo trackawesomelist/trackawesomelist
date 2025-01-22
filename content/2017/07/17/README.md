@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 17, 2017
 
-8 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,16 +10,10 @@
 
 ### Concurrency
 
-*   [libdill (⭐1.7k)](https://github.com/sustrik/libdill/) - Introduces structured concurrency in C. \[MIT]
-*   [libmill (⭐2.7k)](https://github.com/sustrik/libmill/) - Introduces Go-style concurrency in C. \[MIT]
+*   [libdill (⭐1.8k)](https://github.com/sustrik/libdill/) - Introduces structured concurrency in C. \[MIT]
+*   [libmill (⭐3k)](https://github.com/sustrik/libmill/) - Introduces Go-style concurrency in C. \[MIT]
 
-## [2. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / Utilities
-
-*   [vue-deepset (⭐92)](https://github.com/bhoriuchi/vue-deepset) - Interact with deeply nested fields in Vue/Vuex objects/state with v-model in Vue 1.x and 2.x
-
-## [3. Awesome Ruby](/content/markets/awesome-ruby/README.md)
+## [2. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### CLI Utilities
 
@@ -27,19 +21,19 @@
 
 ### Configuration
 
-*   [Chamber (⭐201)](https://github.com/thekompanee/chamber) - Surprisingly customizable convention-based approach to managing your app's configuration.
+*   [Chamber (⭐200)](https://github.com/thekompanee/chamber) - Surprisingly customizable convention-based approach to managing your app's configuration.
 
 ### Third-party APIs
 
-*   [Restforce (⭐802)](https://github.com/ejholmes/restforce) - A Ruby client for the Salesforce REST api.
+*   [Restforce (⭐816)](https://github.com/ejholmes/restforce) - A Ruby client for the Salesforce REST api.
 
-## [4. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
+## [3. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### Videos / Other
 
 *   [Build a desktop application with Electron - Egghead](https://egghead.io/courses/build-a-desktop-application-with-electron) 💲
 
-## [5. Awesome Actionscript3](/content/robinrodricks/awesome-actionscript3/README.md)
+## [4. Awesome Actionscript3](/content/robinrodricks/awesome-actionscript3/README.md)
 
 ### User Interface / Starling Components
 
@@ -92,19 +86,19 @@
 
 *   [FlashSocket.IO (⭐210)](https://github.com/simb/FlashSocket.IO) - Clients connect to Socket.IO servers from AS3/AIR clients.
 
-## [6. Awesome Composer](/content/jakoch/awesome-composer/README.md)
+## [5. Awesome Composer](/content/jakoch/awesome-composer/README.md)
 
 ### Tutorials / IRC
 
 *   [PHP Dependency Management with Composer](https://www.sitepoint.com/re-introducing-composer/)
 
-## [7. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [6. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Application Templates
 
 *   [QuickApp (⭐1.3k)](https://github.com/emonney/QuickApp) - ASP.NET Core / Angular4 startup project template with complete login, user and role management.
 
-## [8. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
+## [7. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
 
 ### Models/Projects
 

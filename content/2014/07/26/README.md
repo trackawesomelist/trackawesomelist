@@ -10,11 +10,11 @@
 
 ### IoC
 
-*   [Spring.Net (⭐844)](https://github.com/spring-projects/spring-net) - Spring.NET is an open source application framework that makes building  enterprise .NET applications easier
+*   [Spring.Net (⭐858)](https://github.com/spring-projects/spring-net) - Spring.NET is an open source application framework that makes building  enterprise .NET applications easier
 
 ## [2. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
-### Facebook Accounts / Book Deals (Affiliated) 🛍
+### Facebook Accounts / Book Deals (Affiliated)
 
 *   [Data](https://www.facebook.com/data)
 *   [Big Data Scientist](https://www.facebook.com/Bigdatascientist)

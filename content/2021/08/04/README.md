@@ -22,18 +22,18 @@
 
 ### Software / Automation
 
-*   [StackStorm](https://stackstorm.com) - StackStorm (aka *IFTTT for Ops*) is event-driven automation for auto-remediation, security responses, troubleshooting, deployments, and more. Includes rules engine, workflow, 160 integration packs with 6000+ actions and ChatOps. ([Source Code (⭐6k)](https://github.com/StackStorm/st2)) `Apache-2.0` `Python`
+*   [StackStorm](https://stackstorm.com) - StackStorm (aka *IFTTT for Ops*) is event-driven automation for auto-remediation, security responses, troubleshooting, deployments, and more. Includes rules engine, workflow, 160 integration packs with 6000+ actions and ChatOps. ([Source Code (⭐6.1k)](https://github.com/StackStorm/st2)) `Apache-2.0` `Python`
 
 ### Software / Communication - Email - Complete Solutions
 
 *   [Inboxen](https://inboxen.org) - Inboxen is a service that provides you with an infinite number of unique inboxes. ([Source Code](https://codeberg.org/Inboxen/Inboxen)) `GPL-3.0` `Python`
 *   [Mail-in-a-Box](https://mailinabox.email/) - Turns any Ubuntu server into a fully functional mail server with one command. ([Source Code (⭐14k)](https://github.com/mail-in-a-box/mailinabox)) `CC0-1.0` `Shell`
-*   [SimpleLogin](https://simplelogin.io) - Open source email alias solution to protect your email address. Comes with browser extensions and mobile apps. ([Source Code (⭐5k)](https://github.com/simple-login/app)) `MIT` `Docker/Python`
+*   [SimpleLogin](https://simplelogin.io) - Open source email alias solution to protect your email address. Comes with browser extensions and mobile apps. ([Source Code (⭐5.3k)](https://github.com/simple-login/app)) `MIT` `Docker/Python`
 
 ### Software / Communication - IRC
 
-*   [Ergo](https://ergo.chat/) - Modern IRCv3 server written in Go, combining the features of an ircd, a services framework, and a bouncer. ([Source Code (⭐2.2k)](https://github.com/ergochat/ergo)) `MIT` `Go/Docker`
-*   [The Lounge](https://thelounge.chat/) - Self-hosted web IRC client. ([Demo](https://demo.thelounge.chat/), [Source Code (⭐5.5k)](https://github.com/thelounge/thelounge)) `MIT` `Nodejs/Docker`
+*   [Ergo](https://ergo.chat/) - Modern IRCv3 server written in Go, combining the features of an ircd, a services framework, and a bouncer. ([Source Code (⭐2.7k)](https://github.com/ergochat/ergo)) `MIT` `Go/Docker`
+*   [The Lounge](https://thelounge.chat/) - Self-hosted web IRC client. ([Demo](https://demo.thelounge.chat/), [Source Code (⭐5.8k)](https://github.com/thelounge/thelounge)) `MIT` `Nodejs/Docker`
 
 ### Software / Communication - Social Networks and Forums
 
@@ -41,21 +41,20 @@
 
 ### Software / Database Management
 
-*   [Databunker](https://databunker.org/) - Network-based, self-hosted, GDPR compliant, secure database for personal data or PII. ([Source Code (⭐1.2k)](https://github.com/securitybunker/databunker)) `MIT` `Docker`
+*   [Databunker](https://databunker.org/) - Network-based, self-hosted, GDPR compliant, secure database for personal data or PII. ([Source Code (⭐1.3k)](https://github.com/securitybunker/databunker)) `MIT` `Docker`
 
 ### Software / Document Management - E-books
 
-*   [Calibre Web (⭐12k)](https://github.com/janeczku/calibre-web) - Web app providing a clean interface for browsing, reading and downloading eBooks using an existing Calibre database. `GPL-3.0` `Python`
-*   [The Epube](https://tt-rss.org/the-epube) - Self-hosted web EPUB reader using EPUB.js, Bootstrap, and Calibre. ([Source Code](https://git.tt-rss.org/fox/the-epube)) `GPL-3.0` `PHP`
+*   [Calibre Web (⭐14k)](https://github.com/janeczku/calibre-web) - Web app providing a clean interface for browsing, reading and downloading eBooks using an existing Calibre database. `GPL-3.0` `Python`
 
 ### Software / Maps and Global Positioning System (GPS)
 
-*   [Open Source Routing Machine (OSRM)](http://project-osrm.org/) - High performance routing engine designed to run on OpenStreetMap data and offering an HTTP API, C++ library interface, and Nodejs wrapper. ([Demo](https://map.project-osrm.org/), [Source Code (⭐6.3k)](https://github.com/Project-OSRM/osrm-backend)) `BSD-2-Clause` `C++`
-*   [μlogger (⭐532)](https://github.com/bfabiszewski/ulogger-server) - Collect geolocation from users in real-time and display their GPS tracks on a website. ([Demo](http://ulogger.fabiszewski.net/)) `GPL-3.0` `PHP`
+*   [Open Source Routing Machine (OSRM)](http://project-osrm.org/) - High performance routing engine designed to run on OpenStreetMap data and offering an HTTP API, C++ library interface, and Nodejs wrapper. ([Demo](https://map.project-osrm.org/), [Source Code (⭐6.5k)](https://github.com/Project-OSRM/osrm-backend)) `BSD-2-Clause` `C++`
+*   [μlogger (⭐558)](https://github.com/bfabiszewski/ulogger-server) - Collect geolocation from users in real-time and display their GPS tracks on a website. ([Demo](http://ulogger.fabiszewski.net/)) `GPL-3.0` `PHP`
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [AzuraCast](https://www.azuracast.com/) - A modern and accessible self-hosted web radio management suite. ([Source Code (⭐3k)](https://github.com/AzuraCast/AzuraCast)) `Apache-2.0` `Docker`
+*   [AzuraCast](https://www.azuracast.com/) - A modern and accessible self-hosted web radio management suite. ([Source Code (⭐3.2k)](https://github.com/AzuraCast/AzuraCast)) `Apache-2.0` `Docker`
 
 ### Software / Media Streaming - Video Streaming
 
@@ -63,16 +62,16 @@
 
 ### Software / Miscellaneous
 
-*   [graph-vl (⭐55)](https://github.com/verifid/graph-vl) - Identity document verification using Machine Learning and GraphQL. `MIT` `Python/Docker/K8S`
+*   [graph-vl (⭐59)](https://github.com/verifid/graph-vl) - Identity document verification using Machine Learning and GraphQL. `MIT` `Python/Docker/K8S`
 
 ### Software / Money, Budgeting & Management
 
-*   [BTCPay Server](https://btcpayserver.org/) - A self-hosted Bitcoin and other cryptocurrencies payment processor. ([Demo](https://mainnet.demo.btcpayserver.org/), [Source Code (⭐6.3k)](https://github.com/btcpayserver/btcpayserver)) `MIT` `C#`
-*   [Firefly III](https://firefly-iii.org/) - Firefly III is a modern financial manager. It helps you to keep track of your money and make budget forecasts. It supports credit cards, has an advanced rule engine and can import data from many banks. ([Demo](https://demo.firefly-iii.org/), [Source Code (⭐15k)](https://github.com/firefly-iii/firefly-iii)) `AGPL-3.0` `PHP/Docker`
+*   [BTCPay Server](https://btcpayserver.org/) - A self-hosted Bitcoin and other cryptocurrencies payment processor. ([Demo](https://mainnet.demo.btcpayserver.org/), [Source Code (⭐6.5k)](https://github.com/btcpayserver/btcpayserver)) `MIT` `C#`
+*   [Firefly III](https://firefly-iii.org/) - Firefly III is a modern financial manager. It helps you to keep track of your money and make budget forecasts. It supports credit cards, has an advanced rule engine and can import data from many banks. ([Demo](https://demo.firefly-iii.org/), [Source Code (⭐17k)](https://github.com/firefly-iii/firefly-iii)) `AGPL-3.0` `PHP/Docker`
 
 ### Software / Note-taking & Editors
 
-*   [turndown](https://mixmark-io.github.io/turndown/) - HTML to Markdown converter written in Javascript. ([Source Code (⭐8.6k)](https://github.com/mixmark-io/turndown)) `MIT` `Javascript`
+*   [turndown](https://mixmark-io.github.io/turndown/) - HTML to Markdown converter written in Javascript. ([Source Code (⭐9.1k)](https://github.com/mixmark-io/turndown)) `MIT` `Javascript`
 
 ## [4. Awesome Haskell](/content/krispo/awesome-haskell/README.md)
 
@@ -91,7 +90,7 @@
 
 ## [6. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 
-### Blog posts
+### Blog posts  (a-z↓)
 
 *   [Visual regression testing using Jest, Chromeless and AWS Lambda (⭐17)](https://github.com/novemberfiveco/visual-regression-testing-jest-chromeless) - Tutorial using Chromeless and jest-image-snapshot.
 
@@ -100,10 +99,6 @@
 ### Resources / Community
 
 *   [VueJS Turkey - Telegram Group](https://t.me/vuejsTR)
-
-### Components & Libraries / UI Components
-
-*   [vue3-circle-progress (⭐36)](https://github.com/delowardev/vue3-circle-progress) - Highly customizable Vue.js 3 circular progressbar component.
 
 ## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -119,7 +114,7 @@
 
 ### Laravel / Community
 
-*   [Laravel Vite (⭐598)](https://github.com/innocenzi/laravel-vite) - Integration for the Laravel framework.
+*   [Laravel Vite (⭐601)](https://github.com/innocenzi/laravel-vite) - Integration for the Laravel framework.
 
 ## [10. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 
@@ -147,7 +142,6 @@
 ### Audio
 
 *   [beats](https://beats.gatunes.com/) - A semi-collaborative app with various rooms where anyone can create or modify an existing musical loop.
-*   [Fathom VR](https://www.letsfathom.com/vr/play) - A WebXR version of the music discovery app Fathom, which lets you search for and explore clouds of related artists with spatialized audio.
 *   [TRACK](https://demos.littleworkshop.fr/track) - A linear ride through an immersive audiovisual experience developed by [Little Workshop](https://www.littleworkshop.fr/).
 
 ### Avatars
@@ -173,8 +167,8 @@
 *   [PlayCanvas](https://playcanvas.com/) - A browser-based WebGL engine with support for WebXR content, mobile browsers, collaborative editing, and more.
     *   [Official Documentation](https://developer.playcanvas.com/en/)
 *   [Unity](https://unity.com/) - A highly popular game engine with community packages that enable content to be exported for WebXR.
-    *   [WebXR Export (⭐1k)](https://github.com/De-Panther/unity-webxr-export) - Exporter by [De-Panther](https://github.com/De-Panther/)
-    *   [SimpleWebXR (⭐560)](https://github.com/Rufus31415/Simple-WebXR-Unity) - Exporter by [Rufus31415](https://github.com/Rufus31415)
+    *   [WebXR Export (⭐1.1k)](https://github.com/De-Panther/unity-webxr-export) - Exporter by [De-Panther](https://github.com/De-Panther/)
+    *   [SimpleWebXR (⭐578)](https://github.com/Rufus31415/Simple-WebXR-Unity) - Exporter by [Rufus31415](https://github.com/Rufus31415)
 *   [Wonderland Engine](https://wonderlandengine.com/) - A development platform designed specifically for building WebXR applications.
     *   [Official Documentation](https://wonderlandengine.com/documentation/)
 
@@ -184,9 +178,9 @@
     *   [Official Documentation](https://aframe.io/docs/)
 *   [Babylon.js](https://www.babylonjs.com/) - A powerful and feature-rich rendering engine packaged into a JavaScript framework.
     *   [Official Documentation](https://doc.babylonjs.com/)
-*   [JanusWeb (⭐176)](https://github.com/jbaicoianu/janusweb) - An in-browser implementation of JanusVR that lets you build social VR experiences.
+*   [JanusWeb (⭐183)](https://github.com/jbaicoianu/janusweb) - An in-browser implementation of JanusVR that lets you build social VR experiences.
 *   [p5.xr](https://p5xr.org/) - An add-on for the library p5.js that allows you to create immersive p5 sketches.
-*   [react-three-fiber (⭐27k)](https://github.com/pmndrs/react-three-fiber) - A React renderer for three.js. Additional WebXR-specific hooks and components are available in [React XR (⭐2k)](https://github.com/pmndrs/react-xr) as well.
+*   [react-three-fiber (⭐28k)](https://github.com/pmndrs/react-three-fiber) - A React renderer for three.js. Additional WebXR-specific hooks and components are available in [React XR (⭐2.3k)](https://github.com/pmndrs/react-xr) as well.
 *   [three.js](https://threejs.org/) - A JavaScript library for rendering 3D content with WebGL that powers many existing WebXR experiences and tools.
     *   [Official Documentation](https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene)
 

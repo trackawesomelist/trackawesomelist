@@ -16,7 +16,7 @@
 
 ### Concurrency
 
-*   [ArrayFire (⭐4.5k)](https://github.com/arrayfire/arrayfire) - A general purpose GPU library. \[BSD]
+*   [ArrayFire (⭐4.6k)](https://github.com/arrayfire/arrayfire) - A general purpose GPU library. \[BSD]
 
 ## [3. Awesome Coldfusion](/content/seancoyne/awesome-coldfusion/README.md)
 

@@ -16,7 +16,7 @@
 
 ### Python / Data Sources
 
-*   [yliveticker (⭐139)](https://github.com/yahoofinancelive/yliveticker) - Live stream of market data from Yahoo Finance websocket.
+*   [yliveticker (⭐149)](https://github.com/yahoofinancelive/yliveticker) - Live stream of market data from Yahoo Finance websocket.
 
 ## [3. Awesome Seed Rs](/content/seed-rs/awesome-seed-rs/README.md)
 
@@ -28,29 +28,29 @@
 
 ### Third-Party Packages / Admin
 
-*   [impostor (⭐157)](https://github.com/avallbona/Impostor) - Impostor is a Django application which allows staff members to login as a different user by using their own username and password.
+*   [impostor (⭐159)](https://github.com/avallbona/Impostor) - Impostor is a Django application which allows staff members to login as a different user by using their own username and password.
 
 ## [5. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
 ### Themes
 
-*   [tmux-power (⭐521)](https://github.com/wfxr/tmux-power) 8 powerline style themes for tmux, easily to expand.
+*   [tmux-power (⭐571)](https://github.com/wfxr/tmux-power) 8 powerline style themes for tmux, easily to expand.
 
 ### Plugins
 
-*   [tmux-fzf-url (⭐503)](https://github.com/wfxr/tmux-fzf-url) For opening urls from browser quickly without mouse.
+*   [tmux-fzf-url (⭐546)](https://github.com/wfxr/tmux-fzf-url) For opening urls from browser quickly without mouse.
 
 ## [6. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
 ### Boilerplate / Other Tools
 
-*   [FastAPI Nano (⭐832)](https://github.com/rednafi/fastapi-nano) - Simple FastAPI template with factory pattern architecture.
+*   [FastAPI Nano (⭐910)](https://github.com/rednafi/fastapi-nano) - Simple FastAPI template with factory pattern architecture.
 
 ## [7. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Network Protocols
 
-*   [crystal-mqtt (⭐19)](https://github.com/spider-gazelle/crystal-mqtt) - A MQTT client
+*   [crystal-mqtt (⭐20)](https://github.com/spider-gazelle/crystal-mqtt) - A MQTT client
 
 ## [8. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
@@ -60,7 +60,7 @@
 
 ## [9. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
-### Email Search / Email Check / Telegram
+### Email Search / Email Check / Steam
 
 *   [Reacher](https://reacher.email) - Real-time email verification API, written in Rust, 100% open-source.
 

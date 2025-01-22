@@ -43,35 +43,35 @@
 
 ### Authentication Authorisation
 
-*   [Vert.x Auth Mongo (⭐8)](https://github.com/vert-x3/vertx-auth/tree/master/vertx-auth-mongo)  <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Vert.x Authorisation/Authentication based on [MongoDB](https://www.mongodb.com/).
+*   [Vert.x Auth Mongo (⭐13)](https://github.com/vert-x3/vertx-auth/tree/master/vertx-auth-mongo)  <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Vert.x Authorisation/Authentication based on [MongoDB](https://www.mongodb.com/).
 
 ### Language Support
 
 *   [Ceylon (⭐12)](https://github.com/vert-x3/vertx-lang-ceylon) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Ceylon support.
 *   [Groovy (⭐13)](https://github.com/vert-x3/vertx-lang-groovy) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Groovy support.
 *   [Java (⭐14k)](https://github.com/eclipse/vert.x) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Vert.x main repository (including the Java API).
-*   [JavaScript (⭐35)](https://github.com/vert-x3/vertx-lang-js) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - JavaScript support.
+*   [JavaScript (⭐36)](https://github.com/vert-x3/vertx-lang-js) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - JavaScript support.
 *   [Ruby (⭐14)](https://github.com/vert-x3/vertx-lang-ruby) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Ruby support.
-*   [Scala (⭐116)](https://github.com/vert-x3/vertx-lang-scala) - <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Scala support.
-*   [Kotlin (⭐282)](https://github.com/vert-x3/vertx-lang-kotlin) - <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Kotlin support.
+*   [Scala (⭐122)](https://github.com/vert-x3/vertx-lang-scala) - <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Scala support.
+*   [Kotlin (⭐296)](https://github.com/vert-x3/vertx-lang-kotlin) - <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Kotlin support.
 
 ### Reactive
 
-*   [Reactive Streams (⭐48)](https://github.com/vert-x3/vertx-reactive-streams) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Vert.x Reactive Streams.
-*   [Vert.x Rx (⭐145)](https://github.com/vert-x3/vertx-rx) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Vert.x Reactive Extensions.
-*   [Vert.x Sync (⭐98)](https://github.com/vert-x3/vertx-sync) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Vert.x fiber support.
-*   [Kotlin coroutines (⭐282)](https://github.com/vert-x3/vertx-lang-kotlin/tree/master/vertx-lang-kotlin-coroutines) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Vert.x support for Kotlin coroutines.
+*   [Reactive Streams (⭐49)](https://github.com/vert-x3/vertx-reactive-streams) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Vert.x Reactive Streams.
+*   [Vert.x Rx (⭐147)](https://github.com/vert-x3/vertx-rx) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Vert.x Reactive Extensions.
+*   [Vert.x Sync (⭐97)](https://github.com/vert-x3/vertx-sync) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Vert.x fiber support.
+*   [Kotlin coroutines (⭐296)](https://github.com/vert-x3/vertx-lang-kotlin/tree/master/vertx-lang-kotlin-coroutines) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Vert.x support for Kotlin coroutines.
 
 ### Vert.x Event Bus Clients
 
 *   [JavaScript](https://www.npmjs.com/package/vertx3-eventbus-client) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - JavaScript event bus client.
-*   [Rust (⭐11)](https://github.com/aesteve/vertx-eventbus-client-rs) - Event bus client for Rust applications through TCP.
+*   [Rust (⭐10)](https://github.com/aesteve/vertx-eventbus-client-rs) - Event bus client for Rust applications through TCP.
 
 ### Cluster Managers
 
-*   [Hazelcast Cluster Manager (⭐73)](https://github.com/vert-x3/vertx-hazelcast) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Hazelcast cluster manager.
-*   [Ignite Cluster Manager (⭐34)](https://github.com/vert-x3/vertx-ignite) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Ignite cluster manager.
-*   [Zookeeper Cluster Manager (⭐71)](https://github.com/vert-x3/vertx-zookeeper) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Zookeeper cluster manager.
+*   [Hazelcast Cluster Manager (⭐78)](https://github.com/vert-x3/vertx-hazelcast) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Hazelcast cluster manager.
+*   [Ignite Cluster Manager (⭐35)](https://github.com/vert-x3/vertx-ignite) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Ignite cluster manager.
+*   [Zookeeper Cluster Manager (⭐73)](https://github.com/vert-x3/vertx-zookeeper) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Zookeeper cluster manager.
 *   [Infinispan Cluster Manager (⭐14)](https://github.com/vert-x3/vertx-infinispan) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Infinispan cluster manager.
 
 ### Cloud Support
@@ -81,39 +81,39 @@
 
 ### Microservices
 
-*   [Service Discovery (⭐113)](https://github.com/vert-x3/vertx-service-discovery) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Service Discovery" height="16px"> - Vert.x Service Discovery.
-*   [Circuit Breaker (⭐59)](https://github.com/vert-x3/vertx-circuit-breaker) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Circuit Breaker" height="16px"> - Vert.x Circuit Breaker.
-*   [Service Discovery - Consul (⭐113)](https://github.com/vert-x3/vertx-service-discovery) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Service Discovery - Consul" height="16px"> - [Consul](https://www.consul.io/) extension to Vert.x Service Discovery.
-*   [Service Discovery - Docker links (⭐113)](https://github.com/vert-x3/vertx-service-discovery) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Service Discovery - Docker Links" height="16px"> - [Docker](https://www.docker.com/) extension to Vert.x Service Discovery.
-*   [Service Discovery - Kubernetes (⭐113)](https://github.com/vert-x3/vertx-service-discovery) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Service Discovery - Kubernetes" height="16px"> - [Kubernetes](http://kubernetes.io/) extension to Vert.x Service Discovery.
-*   [Service Discovery - Redis backend (⭐113)](https://github.com/vert-x3/vertx-service-discovery) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Service Discovery - Redis backend" height="16px"> - [Redis](http://redis.io/) storage backend for Vert.x Service Discovery.
+*   [Service Discovery (⭐115)](https://github.com/vert-x3/vertx-service-discovery) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Service Discovery" height="16px"> - Vert.x Service Discovery.
+*   [Circuit Breaker (⭐63)](https://github.com/vert-x3/vertx-circuit-breaker) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Circuit Breaker" height="16px"> - Vert.x Circuit Breaker.
+*   [Service Discovery - Consul (⭐115)](https://github.com/vert-x3/vertx-service-discovery) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Service Discovery - Consul" height="16px"> - [Consul](https://www.consul.io/) extension to Vert.x Service Discovery.
+*   [Service Discovery - Docker links (⭐115)](https://github.com/vert-x3/vertx-service-discovery) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Service Discovery - Docker Links" height="16px"> - [Docker](https://www.docker.com/) extension to Vert.x Service Discovery.
+*   [Service Discovery - Kubernetes (⭐115)](https://github.com/vert-x3/vertx-service-discovery) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Service Discovery - Kubernetes" height="16px"> - [Kubernetes](http://kubernetes.io/) extension to Vert.x Service Discovery.
+*   [Service Discovery - Redis backend (⭐115)](https://github.com/vert-x3/vertx-service-discovery) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Service Discovery - Redis backend" height="16px"> - [Redis](http://redis.io/) storage backend for Vert.x Service Discovery.
 
 ### Service Factory
 
-*   [Service Factory (⭐20)](https://github.com/vert-x3/vertx-service-factory) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Vert.x Service Factory.
+*   [Service Factory (⭐21)](https://github.com/vert-x3/vertx-service-factory) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Vert.x Service Factory.
 *   [Maven Service Factory (⭐12)](https://github.com/vert-x3/vertx-maven-service-factory) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Maven Vert.x Service Factory.
 *   [HTTP Service Factory (⭐9)](https://github.com/vert-x3/vertx-http-service-factory) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Vert.x HTTP Service Factory.
 
 ### Testing
 
-*   [Vert.x Unit (⭐33)](https://github.com/vert-x3/vertx-unit) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Async polyglot unit testing for Vert.x.
-*   [Vert.x JUnit5 (⭐41)](https://github.com/vert-x3/vertx-junit5) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Async unit testing for Vert.x with junit5.
-*   [Vert.x WireMongo (⭐11)](https://github.com/noenv/vertx-wiremongo) - Lightweight MongoDB mocking for Vert.x
+*   [Vert.x Unit (⭐32)](https://github.com/vert-x3/vertx-unit) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Async polyglot unit testing for Vert.x.
+*   [Vert.x JUnit5 (⭐44)](https://github.com/vert-x3/vertx-junit5) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Async unit testing for Vert.x with junit5.
+*   [Vert.x WireMongo (⭐10)](https://github.com/noenv/vertx-wiremongo) - Lightweight MongoDB mocking for Vert.x
 
 ### Development Tools
 
-*   [Vert.x shell (⭐33)](https://github.com/vert-x3/vertx-shell)  <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Allows for interaction with Vert.x from the command line.
+*   [Vert.x shell (⭐38)](https://github.com/vert-x3/vertx-shell)  <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Allows for interaction with Vert.x from the command line.
 
 ### Distribution
 
-*   [Vert.x Stack (⭐121)](https://github.com/vert-x3/vertx-stack) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Vert.x + the endorsed modules.
+*   [Vert.x Stack (⭐120)](https://github.com/vert-x3/vertx-stack) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Vert.x + the endorsed modules.
 
 ### Examples
 
-*   [Vert.x blueprint - Microservice application (⭐759)](https://github.com/sczyh30/vertx-blueprint-microservice) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - The official Vert.x blueprint showing how to build a complex microservice application.
-*   [Vert.x blueprint - Job Queue (⭐139)](https://github.com/sczyh30/vertx-blueprint-job-queue) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - The official Vert.x blueprint showing how to build a distributed job processing application.
+*   [Vert.x blueprint - Microservice application (⭐776)](https://github.com/sczyh30/vertx-blueprint-microservice) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - The official Vert.x blueprint showing how to build a complex microservice application.
+*   [Vert.x blueprint - Job Queue (⭐140)](https://github.com/sczyh30/vertx-blueprint-job-queue) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - The official Vert.x blueprint showing how to build a distributed job processing application.
 *   [Vert.x blueprint - TODO backend (⭐180)](https://github.com/sczyh30/vertx-blueprint-todo-backend) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - The official Vert.x blueprint showing how to build a backend for a TODO application.
-*   [Vert.x examples (⭐3.5k)](https://github.com/vert-x3/vertx-examples) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - The official Vert.x examples including web examples, how to use the official database clients, etc.
+*   [Vert.x examples (⭐3.6k)](https://github.com/vert-x3/vertx-examples) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - The official Vert.x examples including web examples, how to use the official database clients, etc.
 
 ## [5. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/README.md)
 
@@ -147,7 +147,7 @@
 
 ### Time Series Data
 
-*   🌟 [Personae (⭐1.3k)](https://github.com/Ceruleanacg/Personae) - Implements and environment of Deep Reinforcement Learning & Supervised Learning for Quantitative Trading.
+*   🌟 [Personae (⭐1.4k)](https://github.com/Ceruleanacg/Personae) - Implements and environment of Deep Reinforcement Learning & Supervised Learning for Quantitative Trading.
 
 ## [8. Awesome Devenv](/content/jondot/awesome-devenv/README.md)
 
@@ -163,12 +163,12 @@
 
 ## [10. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 
-### Deprecated
+### Deprecated  (a-z↓)
 
-*   [PhantomFlow (⭐682)](https://github.com/Huddle/PhantomFlow) - Experimental approach to UI testing, based on Decision Trees.
-*   [Visual Review (⭐276)](https://github.com/xebia/VisualReview) - A human-friendly tool for testing and reviewing visual regressions.
-*   [Huxley (⭐4.1k)](https://github.com/facebookarchive/huxley) - Python framework based on [Selenium Webdriver (⭐30k)](https://github.com/SeleniumHQ/selenium/tree/master/javascript/node/selenium-webdriver).
-*   [WebdriverCSS (⭐616)](https://github.com/webdriverio/webdrivercss) - WebdriverCSS sits on top of [Webdriver.io (⭐8.9k)](https://github.com/webdriverio/webdriverio/) and hooks into [Selenium (⭐30k)](https://github.com/SeleniumHQ/selenium).
+*   [Huxley (⭐4.1k)](https://github.com/facebookarchive/huxley) - Python framework based on [Selenium Webdriver (⭐31k)](https://github.com/SeleniumHQ/selenium/tree/master/javascript/node/selenium-webdriver).
+*   [PhantomFlow](https://github.com/Huddle/PhantomFlow) - Experimental approach to UI testing, based on Decision Trees.
+*   [Visual Review (⭐275)](https://github.com/xebia/VisualReview) - A human-friendly tool for testing and reviewing visual regressions.
+*   [WebdriverCSS (⭐613)](https://github.com/webdriverio/webdrivercss) - WebdriverCSS sits on top of [Webdriver.io (⭐9.1k)](https://github.com/webdriverio/webdriverio/) and hooks into [Selenium (⭐31k)](https://github.com/SeleniumHQ/selenium).
 
 ## [11. Awesome Powershell](/content/janikvonrotz/awesome-powershell/README.md)
 

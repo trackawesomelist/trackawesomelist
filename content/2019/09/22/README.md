@@ -42,17 +42,17 @@
 
 ### Development Environment
 
-*   [Git Hooks (⭐960)](https://github.com/compscilauren/awesome-git-hooks#readme) - Scripts for automating tasks during `git` workflows.
+*   [Git Hooks (⭐990)](https://github.com/compscilauren/awesome-git-hooks#readme) - Scripts for automating tasks during `git` workflows.
 
 ### Security
 
-*   [Embedded and IoT Security (⭐1.7k)](https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme)
+*   [Embedded and IoT Security (⭐1.8k)](https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme)
 
 ## [6. Awesome Fonts](/content/brabadu/awesome-fonts/README.md)
 
 ### Emojis / Fonts
 
-*   [emojize (⭐108)](https://github.com/ded/emojize) - High resolution, unicode (emoji) to html conversion utility
+*   [emojize (⭐109)](https://github.com/ded/emojize) - High resolution, unicode (emoji) to html conversion utility
 
 ### Programming fonts / Fonts
 
@@ -60,7 +60,7 @@
 
 ### Programming fonts / Programming fonts with ligatures
 
-*   [Cascadia Code (⭐22k)](https://github.com/microsoft/cascadia-code) - Monospaced font by Miscrosoft designed to enhance the modern look and feel of the Windows Terminal
+*   [Cascadia Code (⭐26k)](https://github.com/microsoft/cascadia-code) - Monospaced font by Miscrosoft designed to enhance the modern look and feel of the Windows Terminal
 *   [Dank Mono](https://dank.sh/) — A premium programming font with Delightful ligatures and an italic variant
 
 ### Other / Event listeners for fonts loading on a web page
@@ -96,12 +96,12 @@
 
 ### Deployment / Code Coverage
 
-*   [Deploy iOS Pod Library to Cocoapods (⭐30)](https://github.com/michaelhenry/deploy-to-cocoapods-github-action)
+*   [Deploy iOS Pod Library to Cocoapods (⭐38)](https://github.com/michaelhenry/deploy-to-cocoapods-github-action)
 *   [GitHub Action for TencentCloud Serverless (⭐3)](https://github.com/Juliiii/action-scf)
 
 ### Frontend Tools / Terraform
 
-*   [Generate OG Image (⭐32)](https://github.com/BoyWithSilverWings/generate-og-image) - Generate customisable open graph images from Markdown files.
+*   [Generate OG Image (⭐39)](https://github.com/BoyWithSilverWings/generate-og-image) - Generate customisable open graph images from Markdown files.
 
 ---
 

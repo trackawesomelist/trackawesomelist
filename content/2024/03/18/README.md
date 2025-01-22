@@ -10,29 +10,29 @@
 
 ### Reproducing Works, Training & Books / Data Visualization
 
-*   [Finance (⭐1.8k)](https://github.com/shashankvemuri/Finance) - 150+ quantitative finance Python programs to help you gather, manipulate, and analyze stock market data.
-*   [101\_formulaic\_alphas (⭐12)](https://github.com/ram-ki/101_formulaic_alphas) - Implementation of [101 formulaic alphas](https://arxiv.org/ftp/arxiv/papers/1601/1601.00991.pdf) using qstrader.
+*   [Finance (⭐2.4k)](https://github.com/shashankvemuri/Finance) - 150+ quantitative finance Python programs to help you gather, manipulate, and analyze stock market data.
+*   [101\_formulaic\_alphas (⭐18)](https://github.com/ram-ki/101_formulaic_alphas) - Implementation of [101 formulaic alphas](https://arxiv.org/ftp/arxiv/papers/1601/1601.00991.pdf) using qstrader.
 
 ## [2. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Templates / React
 
-*   [ReTail (⭐1)](https://github.com/nikolailehbrink/retail) - Starter template for building Full Stack WEB applications with `Remix` using `TypeScript`, `Tailwind CSS`, `Prettier` and `ESLint`.
+*   [ReTail (⭐16)](https://github.com/nikolailehbrink/retail) - Starter template for building Full Stack WEB applications with `Remix` using `TypeScript`, `Tailwind CSS`, `Prettier` and `ESLint`.
 
-### Templates / GitHub
+### Tauri / GitHub
 
-*   [github-action-template (⭐8)](https://github.com/hywax/github-action-template) - Starter template for GitHub Actions, Typescript, ESLint, Vitest, Husky, Conventional Commits.
+*   [github-action-template (⭐15)](https://github.com/hywax/github-action-template) - Starter template for GitHub Actions, Typescript, ESLint, Vitest, Husky, Conventional Commits.
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [@tomjs/vite-plugin-html (⭐3)](https://github.com/tomjs/vite-plugin-html) - Support compression, loading, CDN and others for `index.html`.
-*   [@tomjs/vite-plugin-iconify (⭐2)](https://github.com/tomjs/vite-plugin-iconify) - Inject the global variable `IconifyProviders` into `index.html` for `iconify`, and support local area network and custom url.
+*   [@tomjs/vite-plugin-html (⭐4)](https://github.com/tomjs/vite-plugin-html) - Support compression, loading, CDN and others for `index.html`.
+*   [@tomjs/vite-plugin-iconify (⭐3)](https://github.com/tomjs/vite-plugin-iconify) - Inject the global variable `IconifyProviders` into `index.html` for `iconify`, and support local area network and custom url.
 
 ## [3. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/README.md)
 
 ### Data Lake Management
 
-*   [Project Nessie (⭐937)](https://github.com/projectnessie/nessie) - Project Nessie is a Transactional Catalog for Data Lakes with Git-like semantics. Works with Apache Iceberg tables.
+*   [Project Nessie (⭐1k)](https://github.com/projectnessie/nessie) - Project Nessie is a Transactional Catalog for Data Lakes with Git-like semantics. Works with Apache Iceberg tables.
 
 ### Community / Podcasts
 
@@ -42,14 +42,14 @@
 
 ### Domain Specific Language / Design Practises
 
-*   [No Grammar to Rule Them All: A Survey of JSON-style DSLs for Visualization](https://ieeexplore.ieee.org/abstract/document/9904438) - ***IEEE Transactions on Visualization and Computer Graphics***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=17206818917381447796)]. A survey on the design and implementation of 57 JSON-style DSLs for a variety of visualization and visual interaction tasks, suggesting that no one DSL will be able to capture all of them without compromising essential parts of its domain design.
+*   [No Grammar to Rule Them All: A Survey of JSON-style DSLs for Visualization](https://ieeexplore.ieee.org/abstract/document/9904438) - ***IEEE Transactions on Visualization and Computer Graphics***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=17206818917381447796)]. There has been substantial growth in the use of JSON-based grammars, as well as other standard data serialization languages, to create visualizations. Each of these grammars serves a purpose: some focus on particular computational tasks (such as animation), some are concerned with certain chart types (such as maps), and some target specific data domains (such as ML). Despite the prominence of this interface form, there has been little detailed analysis of the characteristics of these languages. This study surveys and analyzes the design and implementation of 57 JSON-style DSLs for visualization. The authors analyze these languages supported by a collected corpus of examples for each DSL (consisting of 4395 instances) across a variety of axes organized into concerns related to domain, conceptual model, language relationships, affordances, and general practicalities. The authors identify tensions throughout these areas, such as between formal and colloquial specifications, among types of users, and within the composition of languages. Through this work, the authors seek to support language implementers by elucidating the choices, opportunities, and tradeoffs in visualization DSL design.
 
 ## [5. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Network programming
 
 *   VPN
-    *   [defguard/wireguard-rs (⭐135)](https://github.com/DefGuard/wireguard-rs) - A multi-platform library providing a unified high-level API for managing WireGuard interfaces using native OS kernel and userspace WireGuard protocol implementations
+    *   [defguard/wireguard-rs (⭐172)](https://github.com/DefGuard/wireguard-rs) - A multi-platform library providing a unified high-level API for managing WireGuard interfaces using native OS kernel and userspace WireGuard protocol implementations
 
 ## [6. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 

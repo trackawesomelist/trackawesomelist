@@ -62,7 +62,7 @@
 
 ### Entertainment / Music
 
-*   [spotify-tui (⭐17k)](https://github.com/Rigellute/spotify-tui) - Spotify client.
+*   [spotify-tui (⭐18k)](https://github.com/Rigellute/spotify-tui) - Spotify client.
 
 ## [8. Awesome Naming](/content/gruhn/awesome-naming/README.md)
 
@@ -95,7 +95,7 @@
 
 ### Editors / Runner
 
-*   [Summernote (⭐11k)](https://github.com/summernote/summernote) - Super simple WYSIWYG editor.
+*   [Summernote (⭐12k)](https://github.com/summernote/summernote) - Super simple WYSIWYG editor.
 
 ---
 

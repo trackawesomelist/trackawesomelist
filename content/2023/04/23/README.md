@@ -39,13 +39,13 @@
 
 ### Learn
 
-*   [Hackathon (⭐97)](https://github.com/dribdat/awesome-hackathon#readme) - Running fun and productive hackathons.
+*   [Hackathon (⭐128)](https://github.com/dribdat/awesome-hackathon#readme) - Running fun and productive hackathons.
 
 ## [6. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Utility / Diagnostics
 
-*   [ecthelionvi/NeoComposer.nvim (⭐390)](https://github.com/ecthelionvi/NeoComposer.nvim) - Simplify macro management, enhance productivity, and create harmonious workflows.
+*   [ecthelionvi/NeoComposer.nvim (⭐408)](https://github.com/ecthelionvi/NeoComposer.nvim) - Simplify macro management, enhance productivity, and create harmonious workflows.
 
 ## [7. Awesome Social Enterprise](/content/RayBB/awesome-social-enterprise/README.md)
 
@@ -62,21 +62,21 @@
 
 ### Database Tools
 
-*   [Online Migrations (⭐601)](https://github.com/fatkodima/online_migrations) - Catch unsafe PostgreSQL migrations in development and run them easier in production.
+*   [Online Migrations (⭐634)](https://github.com/fatkodima/online_migrations) - Catch unsafe PostgreSQL migrations in development and run them easier in production.
 
 ### Feature Flippers and A/B Testing
 
-*   [Unleash (⭐58)](https://github.com/Unleash/unleash-client-ruby) - Ruby client for Unleash, a powerful feature toggle system that gives you a great overview over all feature toggles across all your applications and services.
+*   [Unleash (⭐57)](https://github.com/Unleash/unleash-client-ruby) - Ruby client for Unleash, a powerful feature toggle system that gives you a great overview over all feature toggles across all your applications and services.
 
 ### PDF
 
-*   [Grim (⭐215)](https://github.com/jonmagic/grim) - Extract PDF pages as images and text. A simple Ruby API to ghostscript, imagemagick, and pdftotext.
+*   [Grim (⭐216)](https://github.com/jonmagic/grim) - Extract PDF pages as images and text. A simple Ruby API to ghostscript, imagemagick, and pdftotext.
 
 ## [9. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/README.md)
 
 ### Machine Learning Libraries / Vector search
 
-*   [milvus (⭐14)](https://github.com/andreibondarev/milvus) —
+*   [milvus (⭐25)](https://github.com/andreibondarev/milvus) —
     Ruby client for Milvus Vector DB.
 
 ## [10. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)

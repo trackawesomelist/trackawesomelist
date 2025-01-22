@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 20, 2022
 
-6 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -24,7 +24,7 @@ Installs: 10000 | Stars: 3486 | Last update: n/a
 
 ### Scrollbar / Diagnostics
 
-*   [gorbit99/codewindow.nvim (⭐426)](https://github.com/gorbit99/codewindow.nvim) - Minimap plugin, that is closely integrated with treesitter and the builtin LSP to display more information to the user.
+*   [gorbit99/codewindow.nvim (⭐444)](https://github.com/gorbit99/codewindow.nvim) - Minimap plugin, that is closely integrated with Tree-sitter and the builtin LSP to display more information to the user.
 
 ## [4. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/README.md)
 
@@ -32,13 +32,7 @@ Installs: 10000 | Stars: 3486 | Last update: n/a
 
 *   📚 [Fuzzy Meshes](https://medium.com/@Zadvorsky/fuzzy-meshes-4c7fd3910d6f) - Simulating fur with cones and gravity. \[[Source (⭐37)](https://github.com/zadvorsky/three-fuzzy-mesh)]
 
-## [5. Awesome Fiber](/content/gofiber/awesome-fiber/README.md)
-
-### 🚧 Boilerplates / 🌱 Third Party
-
-*   [sujit-baniya/goravel (⭐15)](https://github.com/sujit-baniya/goravel) - Laravel similar boilerplate go Go with support for Gofiber or Gin.
-
-## [6. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+## [5. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### Driver crates / WIP
 

@@ -10,7 +10,7 @@
 
 ### Device / Bluetooth / NFC / Beacon
 
-*   [NFC Manager (⭐190)](https://github.com/okadan/flutter-nfc-manager) <!--stargazers:okadan/flutter-nfc-manager--> - Generic NFC plugin for iOS and Android by [Naoki Okada](https://github.com/okadan)
+*   [NFC Manager (⭐212)](https://github.com/okadan/flutter-nfc-manager) <!--stargazers:okadan/flutter-nfc-manager--> - Generic NFC plugin for iOS and Android by [Naoki Okada](https://github.com/okadan)
 
 ## [2. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/README.md)
 
@@ -41,7 +41,7 @@
 
 ### Validation / Playground
 
-*   [computed-types (⭐365)](https://github.com/neuledge/computed-types) - 🦩 Joi like validations for TypeScript
+*   [computed-types (⭐363)](https://github.com/neuledge/computed-types) - 🦩 Joi like validations for TypeScript
 
 ## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -53,7 +53,7 @@
 
 ### Notifications and Messages / Code Coverage
 
-*   [Reply to Stale Bots (⭐15)](https://github.com/c-hive/fresh-bot)
+*   [Reply to Stale Bots (⭐32)](https://github.com/c-hive/fresh-bot)
 
 ## [6. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
 
@@ -65,7 +65,7 @@
 
 ### Tools / Reverse Engineering
 
-*   [Noia (⭐110)](https://github.com/0x742/noia) - Simple Android application sandbox file browser tool
+*   [Noia (⭐114)](https://github.com/0x742/noia) - Simple Android application sandbox file browser tool
 
 ## [8. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 

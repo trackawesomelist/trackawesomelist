@@ -14,7 +14,7 @@
 
 ### Layout / Barcode
 
-*   [LayoutLess (⭐433)](https://github.com/DeclarativeHub/Layoutless) - Write less UI Code.
+*   [LayoutLess (⭐432)](https://github.com/DeclarativeHub/Layoutless) - Write less UI Code.
 
 ### Maps / Barcode
 
@@ -22,11 +22,11 @@
 
 ### Math / Barcode
 
-*   [Upsurge (⭐182)](https://github.com/alejandro-isaza/Upsurge) - Simple and fast matrix and vector math.
+*   [Upsurge (⭐183)](https://github.com/alejandro-isaza/Upsurge) - Simple and fast matrix and vector math.
 
 ### UICollectionView / Barcode
 
-*   [Blueprints (⭐990)](https://github.com/zenangst/Blueprints) - A framework that is meant to make your life easier when working with collection view flow layouts.
+*   [Blueprints (⭐991)](https://github.com/zenangst/Blueprints) - A framework that is meant to make your life easier when working with collection view flow layouts.
 
 ### Utility / Barcode
 
@@ -71,7 +71,7 @@
 
 ### Software / Document Management - Institutional Repository and Digital Library Software
 
-*   [Samvera Hyrax](https://samvera.org/) - Front-end for the Samvera framework, which itself is a Ruby on Rails application for browsing and managing Fedora-based digital repositories. ([Source Code (⭐183)](https://github.com/samvera/hyrax)) `Apache-2.0` `Ruby`
+*   [Samvera Hyrax](https://samvera.org/) - Front-end for the Samvera framework, which itself is a Ruby on Rails application for browsing and managing Fedora-based digital repositories. ([Source Code (⭐184)](https://github.com/samvera/hyrax)) `Apache-2.0` `Ruby`
 
 ## [4. Awesome Saltstack](/content/hbokh/awesome-saltstack/week/README.md)
 
@@ -129,7 +129,7 @@
 
 ### Others / Email
 
-*   [Postmaster (⭐9)](https://github.com/eudoxia0/postmaster) - A simple, easy-to-use SMTP/IMAP library. [Expat](https://directory.fsf.org/wiki/License:Expat).
+*   [Postmaster (⭐11)](https://github.com/eudoxia0/postmaster) - A simple, easy-to-use SMTP/IMAP library. [Expat](https://directory.fsf.org/wiki/License:Expat).
 
 ## [12. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
 
@@ -142,7 +142,7 @@
 
 ### Free fonts / Fonts
 
-*   [Barlow (⭐640)](https://github.com/jpt/barlow) - A grotesk variable font superfamily
+*   [Barlow (⭐733)](https://github.com/jpt/barlow) - A grotesk variable font superfamily
 
 ### JavaScript libs / Programming fonts with ligatures
 
@@ -162,7 +162,7 @@
 
 ## [16. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
-### Blog posts
+### Blog posts  (a-z↓)
 
 *   [Visual Regression Testing with Puppeteer & Jest](https://www.viswiz.io/help/tutorials/puppeteer) - Tutorial to setup visual testing with Puppeteer, Jest and VisWiz.io.
 
@@ -170,11 +170,11 @@
 
 ### Audio
 
-*   [SoLoud (⭐1.7k)](https://github.com/jarikomppa/soloud) - Easy, portable audio engine for games. \[zlib]
+*   [SoLoud (⭐1.8k)](https://github.com/jarikomppa/soloud) - Easy, portable audio engine for games. \[zlib]
 
 ### Graphics
 
-*   [Diligent Engine (⭐3.5k)](https://github.com/DiligentGraphics/DiligentEngine) - A modern cross-platform low-level 3D graphics library. \[Apache2]
+*   [Diligent Engine (⭐3.7k)](https://github.com/DiligentGraphics/DiligentEngine) - A modern cross-platform low-level 3D graphics library. \[Apache2]
 
 ### Online Compiler
 
@@ -202,7 +202,7 @@
 
 ### Tours And Guides / Runner
 
-*   [driver.js (⭐21k)](https://github.com/kamranahmedse/driver.js) - Powerful yet light-weight, vanilla JavaScript engine to drive the user's focus across the page
+*   [driver.js (⭐22k)](https://github.com/kamranahmedse/driver.js) - Powerful yet light-weight, vanilla JavaScript engine to drive the user's focus across the page
 
 ## [22. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
 
@@ -233,27 +233,33 @@
 
 ### HTTP
 
-*   [halite (⭐173)](https://github.com/icyleaf/halite) - Crystal HTTP Requests with a chainable REST API, built-in sessions and loggers
+*   [halite (⭐171)](https://github.com/icyleaf/halite) - Crystal HTTP Requests with a chainable REST API, built-in sessions and loggers
 
-## [26. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
+## [26. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+
+### Resources / External Resources
+
+*   [Vue News](https://vuenews.io) - Social website focusing on the latest Vue.js news and information.
+
+## [27. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
 
 ### Bug Reporting
 
 *   [Mozilla BugZilla](https://bugzilla.mozilla.org) - Firefox related bugs
 
-## [27. Awesome Draft Js](/content/nikgraf/awesome-draft-js/week/README.md)
+## [28. Awesome Draft Js](/content/nikgraf/awesome-draft-js/week/README.md)
 
 ### Blog Posts & Articles
 
 *   [Why Wagtail’s new editor is built with Draft.js](https://wagtail.io/blog/why-wagtail-new-editor-is-built-with-draft-js/)
 
-## [28. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
+## [29. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
 ### Software / Communication
 
 *   [Tutanota](https://tutanota.com/) - Encrypted email at no cost with support for business accounts. ([GNU GPLv3 (⭐5.4k)](https://github.com/tutao/tutanota/blob/master/LICENSE.txt))
 
-## [29. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
+## [30. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
 ### Related projects / Syntax highlighting packages
 
@@ -269,7 +275,7 @@
 
 *   [Handheld Underground](http://hhug.me) - Unlicensed games, blog posts about Game Boy, home of the hhugboy emulator.
 
-## [30. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
+## [31. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
 
 ### Serverless Framework Plugins
 
@@ -277,19 +283,19 @@
 *   [Flow-based programming (⭐5)](https://github.com/p0wl/serverless-fbp) - Flow-based programming plugin for Serverless.
 *   [Go serverless (⭐20)](https://github.com/thepauleh/goserverless) - GoFormation for the Serverless Framework. Create Serverless configs with Go structs.
 
-## [31. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [32. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### UI
 
 *   [react-native-easy-checkbox ★2 (⭐2)](https://github.com/BhavanPatel/react-native-easy-checkbox) - Simple CheckBox for react-native
 
-## [32. Awesome Rails Gem](/content/hothero/awesome-rails-gem/week/README.md)
+## [33. Awesome Rails Gem](/content/hothero/awesome-rails-gem/week/README.md)
 
 ### Admin Panel / Omniauth
 
 *   [Trestle (⭐1.8k)](https://github.com/TrestleAdmin/trestle) - A modern, responsive admin framework for Ruby on Rails
 
-## [33. Awesome ad Free](/content/johnjago/awesome-ad-free/week/README.md)
+## [34. Awesome ad Free](/content/johnjago/awesome-ad-free/week/README.md)
 
 ### Alternatives / Communication
 
@@ -299,26 +305,26 @@
 
 *   [Popular Resistance](https://popularresistance.org/) -  Independent, nonviolent, and diverse movements to end the power of concentrated wealth and put human needs before corporate greed.
 
-## [34. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [35. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Typescript Project Starters
 
 *   [typescript-starter (⭐3.5k)](https://github.com/bitjson/typescript-starter) – A CLI to quickly generate and configure new libraries and Node.js projects
 
-## [35. Awesome Ripple](/content/vhpoet/awesome-ripple/week/README.md)
+## [36. Awesome Ripple](/content/vhpoet/awesome-ripple/week/README.md)
 
 ### Code
 
 *   [ripple-libpp (⭐20)](https://github.com/ripple/ripple-libpp): C++ Standalone RCL-compatible transaction signing and serialization library
 *   [ripple-rest (⭐83)](https://github.com/ripple/ripple-rest): A RESTful API for submitting payments and monitoring accounts on the Ripple Network
 
-## [36. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/week/README.md)
+## [37. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/week/README.md)
 
 ### Blogs / TikZ
 
 *   [texblog.org](https://texblog.org) - Blog on LaTeX and related topics (tutorials, packages, code snippets, etc.).
 
-## [37. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/week/README.md)
+## [38. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/week/README.md)
 
 ### Clocks
 
@@ -348,12 +354,12 @@ Donationware
 
 [![](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/screensson.png)](http://www.siggieggertsson.com/Saver-Screensson)
 
-## [38. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [39. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Micro Framework Extras
 
-*   [Slim Twig View (⭐306)](https://github.com/slimphp/Slim-Views) - Integrate Twig into Slim.
-*   [Slim PHP View (⭐263)](https://github.com/slimphp/PHP-View) - A simple PHP renderer for Slim.
+*   [Slim Twig View (⭐305)](https://github.com/slimphp/Slim-Views) - Integrate Twig into Slim.
+*   [Slim PHP View (⭐266)](https://github.com/slimphp/PHP-View) - A simple PHP renderer for Slim.
 
 ### Table of Contents / Testing
 
@@ -369,33 +375,17 @@ Donationware
 
 ### Configuration / Third Party APIs
 
-*   [Github (⭐2.1k)](https://github.com/KnpLabs/php-github-api) - A library to interface with the Github API.
+*   [Github (⭐2.2k)](https://github.com/KnpLabs/php-github-api) - A library to interface with the Github API.
 
-## [39. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [40. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / HTTP
 
-*   [gotql (⭐405)](https://github.com/khaosdoctor/gotql) - GraphQL request library built on [got (⭐14k)](https://github.com/sindresorhus/got).
+*   [gotql (⭐407)](https://github.com/khaosdoctor/gotql) - GraphQL request library built on [got (⭐14k)](https://github.com/sindresorhus/got).
 
 ### Packages / Job queues
 
-*   [rsmq (⭐1.7k)](https://github.com/smrchy/rsmq) - Redis-backed message queue.
-
-## [40. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
-
-### Resources / External Resources
-
-*   [Vue News](https://vuenews.io) - Social website focusing on the latest Vue.js news and information.
-
-### Components & Libraries / UI Components
-
-*   [vue-cute-modal (⭐7)](https://github.com/dillonchanis/vue-cute-modal) - A simple and easy to use Modal component for Vue applications.
-*   [vue-input-code (⭐67)](https://github.com/zhouyuexie/vue-input-code) - Base on Vue.js 2.0+ verification code input component.
-*   [vue-comment-grid (⭐158)](https://github.com/TugayYaldiz/vue-comment-grid) - 💬 Responsive Vue.js comment system plugin that built with CSS Grid and Firebase REST API + Authentication.
-
-### Components & Libraries / UI Utilities
-
-*   [vue-check-view (⭐115)](https://github.com/vtimofeev/vue-check-view) - A plugin that checks if element is in viewport. Fast, small, has no dependencies, live demo.
+*   [rsmq (⭐1.8k)](https://github.com/smrchy/rsmq) - Redis-backed message queue.
 
 ## [41. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 

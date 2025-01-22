@@ -8,19 +8,19 @@
 
 ## [1. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
-### Plugins and scripts / Godot 4.2+
+### Plugins and scripts / Godot 4
 
-*   [Godot Google Play Game Services (⭐95)](https://github.com/Iakobs/godot-play-game-services) - Integrate Google Play Games Services in your Godot game.
+*   [Godot Google Play Game Services (⭐163)](https://github.com/Iakobs/godot-play-game-services) - Integrate Google Play Games Services in your Godot game.
 
-### Plugins and scripts / Godot 3.2+
+### Plugins and scripts / Godot 3
 
-*   [Godot Google Play Games Services (⭐21)](https://github.com/Iakobs/godot-google-play-game-services-android-plugin) - Integrate Google Play Games Services in your Godot game.
+*   [Godot Google Play Games Services (⭐25)](https://github.com/Iakobs/godot-google-play-game-services-android-plugin) - Integrate Google Play Games Services in your Godot game.
 
 ## [2. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [catpuccin (⭐1)](https://github.com/JannoTjarks/catppuccin-zsh) - Minimalist theme. Includes decorators for current directory, exit status of last command and `git` status.
+*   [catpuccin (⭐2)](https://github.com/JannoTjarks/catppuccin-zsh) - Minimalist theme. Includes decorators for current directory, exit status of last command and `git` status.
 *   [mint (⭐0)](https://github.com/FalconLee1011/mint-zsh-theme) - Includes decorators for current directory, whether running on a laptop or a desktop, and `git` status.
 *   [refined-flower (⭐0)](https://github.com/idaMakelaWork/refined-flower) - Requires a terminal program that can handle emoji. Includes `git` status decorator.
 

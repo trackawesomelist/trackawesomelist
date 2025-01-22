@@ -10,7 +10,7 @@
 
 ### Databases / ORMs
 
-*   [Piccolo (⭐1.4k)](https://github.com/piccolo-orm/piccolo) - An async ORM and query builder, supporting Postgres and SQLite, with batteries (migrations, security, etc).
+*   [Piccolo (⭐1.5k)](https://github.com/piccolo-orm/piccolo) - An async ORM and query builder, supporting Postgres and SQLite, with batteries (migrations, security, etc).
     *   [FastAPI Examples (⭐20)](https://github.com/piccolo-orm/piccolo_examples) - Using FastAPI with Piccolo.
 
 ## [2. Awesome Analytics](/content/newTendermint/awesome-analytics/README.md)
@@ -132,16 +132,16 @@
 
 ### Applications / Blockchain
 
-*   [near/nearcore (⭐2.3k)](https://github.com/near/nearcore) - decentralized smart-contract platform for low-end mobile devices.
+*   [near/nearcore (⭐2.4k)](https://github.com/near/nearcore) - decentralized smart-contract platform for low-end mobile devices.
 
 ### Applications / System tools
 
-*   [cristianoliveira/funzzy (⭐230)](https://github.com/cristianoliveira/funzzy) - A configurable filesystem watcher inspired by [entr](http://eradman.com/entrproject/)
+*   [cristianoliveira/funzzy (⭐262)](https://github.com/cristianoliveira/funzzy) - A configurable filesystem watcher inspired by [entr](http://eradman.com/entrproject/)
 
 ### Libraries / GUI
 
-*   [ImGui (⭐59k)](https://github.com/ocornut/imgui)
-    *   [imgui-rs (⭐2.6k)](https://github.com/imgui-rs/imgui-rs) - Bindings for ImGui [![Build Status](https://github.com/imgui-rs/imgui-rs/workflows/ci/badge.svg?branch=master)](https://github.com/imgui-rs/imgui-rs/actions)
+*   [ImGui (⭐63k)](https://github.com/ocornut/imgui)
+    *   [imgui-rs (⭐2.7k)](https://github.com/imgui-rs/imgui-rs) - Bindings for ImGui [![Build Status](https://github.com/imgui-rs/imgui-rs/workflows/ci/badge.svg?branch=master)](https://github.com/imgui-rs/imgui-rs/actions)
 
 ## [4. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 
@@ -183,7 +183,7 @@
 
   CORS: Unknown
 
-  Postman: 
+  : 
 
 
 

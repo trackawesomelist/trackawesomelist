@@ -10,13 +10,13 @@
 
 ### Image Processing
 
-*   [SAIL (⭐306)](https://github.com/happy-sea-fox/sail) - Easy-to-use cross-platform image decoding library with pluggable image codecs. \[MIT]
+*   [SAIL (⭐316)](https://github.com/happy-sea-fox/sail) - Easy-to-use cross-platform image decoding library with pluggable image codecs. \[MIT]
 
 ## [2. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
 ### Commerce
 
-*   [Sitecore Commerce Engine Fedex plugin (⭐1)](https://github.com/XCentium/SC-Plugin-FedEx) - Allows the user to integrate Fedex as a Fulfillment Method for shipping.
+*   [Sitecore Commerce Engine Fedex plugin](https://github.com/XCentium/SC-Plugin-FedEx) - Allows the user to integrate Fedex as a Fulfillment Method for shipping.
 
 ### Other
 
@@ -41,7 +41,7 @@
 
 ### Resources / Packages
 
-*   [Tables for Laravel (⭐433)](https://github.com/protonemedia/inertiajs-tables-laravel-query-builder) - Provides a DataTable component with integration for [Laravel Query Builder (⭐3.9k)](https://github.com/spatie/laravel-query-builder).
+*   [Tables for Laravel (⭐437)](https://github.com/protonemedia/inertiajs-tables-laravel-query-builder) - Provides a DataTable component with integration for [Laravel Query Builder (⭐4.1k)](https://github.com/spatie/laravel-query-builder).
 
 ## [5. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
@@ -53,7 +53,7 @@
 
 ### Libraries / Python
 
-*   [Beanie (⭐2k)](https://github.com/roman-right/beanie) - Asynchronous ODM based on [Motor](https://motor.readthedocs.io/en/stable/) and [Pydantic](https://pydantic-docs.helpmanual.io/), which supports migrations out of the box
+*   [Beanie (⭐2.1k)](https://github.com/roman-right/beanie) - Asynchronous ODM based on [Motor](https://motor.readthedocs.io/en/stable/) and [Pydantic](https://pydantic-docs.helpmanual.io/), which supports migrations out of the box
 
 ## [7. Awesome Fantasy](/content/RichardLitt/awesome-fantasy/README.md)
 
@@ -333,14 +333,14 @@
 
 ### eBPF Workflow: Tools and Utilities / libbpf
 
-*   [libbpf-bootstrap (⭐987)](https://github.com/libbpf/libbpf-bootstrap) - Scaffolding for BPF application development with libbpf and BPF CO-RE.
+*   [libbpf-bootstrap (⭐1.1k)](https://github.com/libbpf/libbpf-bootstrap) - Scaffolding for BPF application development with libbpf and BPF CO-RE.
 
 ## [14. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md)
 
 ### Other libraries and tools / Mesh tools
 
 *   [cvxpy](https://www.cvxpy.org/) - Modeling language for convex optimization problems.
-    (Python, Apache 2.0, [GitHub (⭐5k)](https://github.com/cvxpy/cvxpy))
+    (Python, Apache 2.0, [GitHub (⭐5.5k)](https://github.com/cvxpy/cvxpy))
 
 ---
 

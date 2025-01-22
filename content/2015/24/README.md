@@ -172,7 +172,7 @@
 
 ### Distributed Media Processing
 
-*   [StormCV (⭐168)](https://github.com/sensorstorm/StormCV) - Apache Storm + OpenCV = large scale distributed image and video analysis.
+*   [StormCV (⭐167)](https://github.com/sensorstorm/StormCV) - Apache Storm + OpenCV = large scale distributed image and video analysis.
 
 ## [7. Awesome Haskell](/content/krispo/awesome-haskell/week/README.md)
 
@@ -364,7 +364,7 @@ Developed from the materials of NYU Poly's old Penetration Testing and Vulnerabi
 
 ### Natural Language Processing
 
-*   [LDAvis (⭐546)](https://github.com/cpsievert/LDAvis) - Interactive visualization of topic models.
+*   [LDAvis (⭐557)](https://github.com/cpsievert/LDAvis) - Interactive visualization of topic models.
 
 ## [19. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
@@ -374,7 +374,7 @@ Developed from the materials of NYU Poly's old Penetration Testing and Vulnerabi
 
 ### Templating Engines / Runner
 
-*   [EJS (⭐7.6k)](https://github.com/mde/ejs) - Effective JavaScript templating.
+*   [EJS (⭐7.7k)](https://github.com/mde/ejs) - Effective JavaScript templating.
 
 ### Validation / Runner
 
@@ -382,7 +382,7 @@ Developed from the materials of NYU Poly's old Penetration Testing and Vulnerabi
 
 ### Misc / Other
 
-*   [obetomuniz/awesome-webcomponents (⭐628)](https://github.com/obetomuniz/awesome-webcomponents)
+*   [obetomuniz/awesome-webcomponents (⭐631)](https://github.com/obetomuniz/awesome-webcomponents)
 
 ## [20. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
 

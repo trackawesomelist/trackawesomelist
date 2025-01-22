@@ -10,7 +10,7 @@
 
 ### Network Protocols
 
-*   [connect-proxy (⭐6)](https://github.com/spider-gazelle/connect-proxy) - Connect method style of HTTP tunnelling / HTTP proxy
+*   [connect-proxy (⭐7)](https://github.com/spider-gazelle/connect-proxy) - Connect method style of HTTP tunnelling / HTTP proxy
 
 ## [2. Awesome Uncopyright](/content/johnjago/awesome-uncopyright/README.md)
 

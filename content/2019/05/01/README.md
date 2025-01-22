@@ -8,7 +8,7 @@
 
 ## [1. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 
-### Blog posts
+### Blog posts  (a-z↓)
 
 *   [Visual Regression Test with WebdriverIO & WebdriverCSS](https://medium.com/@dalenguyen/visual-regression-test-with-webdriverio-webdrivercss-d7675a1812b2) - Tutorial using WebdriverIO and WebdriverCSS with Spec Reporter
 
@@ -22,7 +22,7 @@
 
 ### Vision / Augmented Reality
 
-*   [ARCore Plugin (⭐426)](https://github.com/giandifra/arcore_flutter_plugin) <!--stargazers:giandifra/arcore_flutter_plugin--> - Augmented reality with ARCore platform by [Gian Marco Di Francesco](https://github.com/giandifra).
+*   [ARCore Plugin (⭐435)](https://github.com/giandifra/arcore_flutter_plugin) <!--stargazers:giandifra/arcore_flutter_plugin--> - Augmented reality with ARCore platform by [Gian Marco Di Francesco](https://github.com/giandifra).
 
 ## [4. Awesome Composer](/content/jakoch/awesome-composer/README.md)
 

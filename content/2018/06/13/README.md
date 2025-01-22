@@ -10,7 +10,7 @@
 
 ### Apps / StreamField
 
-*   [UWKM Streamfields (⭐32)](https://github.com/UWKM/uwkm_streamfields) – A basic set of Wagtail StreamField blocks for fun and profit.
+*   [UWKM Streamfields (⭐33)](https://github.com/UWKM/uwkm_streamfields) – A basic set of Wagtail StreamField blocks for fun and profit.
 
 ## [2. Awesome Vapor](/content/vapor-community/awesome-vapor/README.md)
 
@@ -26,7 +26,7 @@
 
 ### Software / Miscellaneous
 
-*   [CUPS](https://www.cups.org/) - The Common Unix Print System uses Internet Printing Protocol (IPP) to support printing to local and network printers. ([Source Code (⭐996)](https://github.com/OpenPrinting/cups)) `GPL-2.0` `C`
+*   [CUPS](https://www.cups.org/) - The Common Unix Print System uses Internet Printing Protocol (IPP) to support printing to local and network printers. ([Source Code (⭐1.2k)](https://github.com/OpenPrinting/cups)) `GPL-2.0` `C`
 
 ## [4. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
@@ -48,8 +48,8 @@
 
 ### Top / Game Engine resources
 
-*   [Cinematic (⭐892)](https://github.com/aaronoe/FlutterCinematic) <!--stargazers:aaronoe/FlutterCinematic--> - UI for Movie DB Public API by [Aaron Oertel](https://github.com/aaronoe)
-*   [Beer-Me-Up (⭐489)](https://github.com/benoitletondor/Beer-Me-Up) <!--stargazers:benoitletondor/Beer-Me-Up--> - Beer tracking nicely designed by [Benoit Letondor](https://github.com/benoitletondor)
+*   [Cinematic (⭐894)](https://github.com/aaronoe/FlutterCinematic) <!--stargazers:aaronoe/FlutterCinematic--> - UI for Movie DB Public API by [Aaron Oertel](https://github.com/aaronoe)
+*   [Beer-Me-Up (⭐494)](https://github.com/benoitletondor/Beer-Me-Up) <!--stargazers:benoitletondor/Beer-Me-Up--> - Beer tracking nicely designed by [Benoit Letondor](https://github.com/benoitletondor)
 
 ## [7. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/README.md)
 
@@ -107,7 +107,7 @@
 
 ### Application Frameworks
 
-*   [.NET Boxed Framework (⭐717)](https://github.com/Dotnet-Boxed/Framework) - .NET Core Extensions and Helper NuGet packages
+*   [.NET Boxed Framework (⭐721)](https://github.com/Dotnet-Boxed/Framework) - .NET Core Extensions and Helper NuGet packages
 
 ### Application Templates
 

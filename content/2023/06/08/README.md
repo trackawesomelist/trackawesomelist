@@ -10,48 +10,48 @@
 
 ### Interpreters/Compilers
 
-*   [vfuck (⭐0)](https://github.com/ShayokhShorfuddin/VFuck) - A brainfuck interpreter written in V.
+*   [vfuck](https://github.com/ShayokhShorfuddin/VFuck) - A brainfuck interpreter written in V.
 
 ## [2. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Blockchain
 
-*   [svm-rs (⭐246)](https://github.com/alloy-rs/svm-rs) - Solidity-Compiler Version Manager.
+*   [svm-rs (⭐262)](https://github.com/alloy-rs/svm-rs) - Solidity-Compiler Version Manager.
 
 ### Applications / Utilities
 
-*   [nix-community/nix-melt (⭐213)](https://github.com/nix-community/nix-melt) - A ranger-like flake.lock viewer [![build-badge](https://github.com/nix-community/nix-melt/actions/workflows/ci.yml/badge.svg)](https://github.com/nix-community/nix-melt/actions/workflows/ci.yml)
+*   [nix-community/nix-melt (⭐247)](https://github.com/nix-community/nix-melt) - A ranger-like flake.lock viewer [![build-badge](https://github.com/nix-community/nix-melt/actions/workflows/ci.yml/badge.svg)](https://github.com/nix-community/nix-melt/actions/workflows/ci.yml)
 
 ## [3. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
 ### Command-Line Tools / Discovery
 
-*   [nix-melt (⭐213)](https://github.com/nix-community/nix-melt) - A ranger-like flake.lock viewer.
+*   [nix-melt (⭐247)](https://github.com/nix-community/nix-melt) - A ranger-like flake.lock viewer.
 
 ## [4. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### Hypertechniques / Deforum
 
 *   \[🔥🔥🔥] [Parseq](https://sd-parseq.web.app): parameter sequencer for Stable Diffusion [\[Youtube Tutorials\]](https://www.youtube.com/playlist?list=PLXbx1PHKHwIHsYFfb5lq2wS8g1FKz6aP8)
-*   [deforum-art/sd-webui-deforum (⭐2.6k)](https://github.com/deforum-art/sd-webui-deforum): Deforum extension for AUTOMATIC1111's Stable Diffusion webui [\[wiki docs\] (⭐2.6k)](https://github.com/deforum-art/sd-webui-deforum/wiki)
+*   [deforum-art/sd-webui-deforum (⭐2.8k)](https://github.com/deforum-art/sd-webui-deforum): Deforum extension for AUTOMATIC1111's Stable Diffusion webui [\[wiki docs\] (⭐2.8k)](https://github.com/deforum-art/sd-webui-deforum/wiki)
 
 ## [5. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Money, Budgeting & Management
 
-*   [Bitcart](https://bitcart.ai) - A self-hosted cryptocurrencies payment processor and development platform. ([Demo](https://admin.bitcart.ai), [Source Code (⭐518)](https://github.com/bitcart/bitcart)) `MIT` `Docker/Python/Nodejs`
+*   [Bitcart](https://bitcart.ai) - A self-hosted cryptocurrencies payment processor and development platform. ([Demo](https://admin.bitcart.ai), [Source Code (⭐580)](https://github.com/bitcart/bitcart)) `MIT` `Docker/Python/Nodejs`
 
 ## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Scripting
 
-*   [pocketpy (⭐1.5k)](https://github.com/blueloveTH/pocketpy) - C++17 header-only Python interpreter for game scripting. \[MIT] [website](https://pocketpy.dev/)
+*   [pocketpy (⭐1.7k)](https://github.com/blueloveTH/pocketpy) - C++17 header-only Python interpreter for game scripting. \[MIT] [website](https://pocketpy.dev/)
 
 ## [7. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Web Frameworks
 
-*   [Don (⭐50)](https://github.com/abemedia/go-don) - A highly performant and simple to use API framework.
+*   [Don (⭐56)](https://github.com/abemedia/go-don) - A highly performant and simple to use API framework.
 
 ## [8. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
 
@@ -68,7 +68,7 @@
 
 ### Action
 
-*   [re3 (⭐2.1k)](https://github.com/halpz/re3) - Reversed source code for GTA III and GTA: Vice City.
+*   [re3 (⭐2.4k)](https://github.com/halpz/re3) - Reversed source code for GTA III and GTA: Vice City.
 
 ## [10. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 

@@ -10,7 +10,7 @@
 
 ### Back-end API / Playground
 
-*   :octocat: [tinyhttp (⭐2.6k)](https://github.com/talentlessguy/tinyhttp) - A modern Express-like web framework for Node.js, written in TypeScript and compiled to Native ESM.
+*   :octocat: [tinyhttp (⭐2.8k)](https://github.com/talentlessguy/tinyhttp) - A modern Express-like web framework for Node.js, written in TypeScript and compiled to Native ESM.
 
 ## [2. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
@@ -84,27 +84,27 @@ Language: English
 
 ### Tools / Community providers
 
-*   [terraformer (⭐12k)](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure. Infrastructure to Code. Supported many providers.
+*   [terraformer (⭐13k)](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure. Infrastructure to Code. Supported many providers.
 
 ## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Audio
 
-*   [AudioFile (⭐937)](https://github.com/adamstark/AudioFile) - A simple C++ library for reading and writing audio files. \[MIT]
+*   [AudioFile (⭐991)](https://github.com/adamstark/AudioFile) - A simple C++ library for reading and writing audio files. \[MIT]
 
 ### CSV
 
-*   [csv2 (⭐541)](https://github.com/p-ranav/csv2) - Fast CSV parser for modern C++. \[MIT]
+*   [csv2 (⭐576)](https://github.com/p-ranav/csv2) - Fast CSV parser for modern C++. \[MIT]
 
 ### GUI
 
-*   [Elements (⭐3k)](https://github.com/cycfi/elements) - Lightweight, fine-grained, resolution independent, modular GUI library. \[MIT]
+*   [Elements (⭐3.3k)](https://github.com/cycfi/elements) - Lightweight, fine-grained, resolution independent, modular GUI library. \[MIT]
 
 ## [7. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### Peripheral Access Crates / NXP
 
-*   [`lpc845-pac`](https://crates.io/crates/lpc845-pac) - ![crates.io](https://img.shields.io/crates/v/lpc845-pac.svg)
+*   [`lpc845-pac`](https://crates.io/crates/lpc845-pac) - [![crates.io](https://img.shields.io/crates/v/lpc845-pac.svg)](https://crates.io/crates/lpc845-pac)
 
 ## [8. Awesome Cytodata](/content/cytodata/awesome-cytodata/README.md)
 
@@ -137,9 +137,9 @@ Language: English
 
 ### Examples and funny stuff
 
-*   [phoenix-chat-example (⭐757)](https://github.com/dwyl/phoenix-chat-example) - A step-by-step example/tutorial for building a Chat app in Phoenix for complete beginners. Covers testing, docs and deployment. Phoenix `1.5.3`.
-*   [phoenix-liveview-counter-tutorial (⭐362)](https://github.com/dwyl/phoenix-liveview-counter-tutorial) - complete beginners step-by-step tutorial building a real time counter in Phoenix `1.5.3` and LiveView `0.14.1`.
-*   [phoenix-todo-list-tutorial (⭐189)](https://github.com/dwyl/phoenix-todo-list-tutorial) - A complete beginners step-by-step tutorial for building a Todo List from scratch in Phoenix `1.5.3`.
+*   [phoenix-chat-example (⭐789)](https://github.com/dwyl/phoenix-chat-example) - A step-by-step example/tutorial for building a Chat app in Phoenix for complete beginners. Covers testing, docs and deployment. Phoenix `1.5.3`.
+*   [phoenix-liveview-counter-tutorial (⭐390)](https://github.com/dwyl/phoenix-liveview-counter-tutorial) - complete beginners step-by-step tutorial building a real time counter in Phoenix `1.5.3` and LiveView `0.14.1`.
+*   [phoenix-todo-list-tutorial (⭐201)](https://github.com/dwyl/phoenix-todo-list-tutorial) - A complete beginners step-by-step tutorial for building a Todo List from scratch in Phoenix `1.5.3`.
 
 ## [11. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
@@ -157,7 +157,7 @@ Language: English
 
 ### Machine Learning
 
-*   [fable (⭐539)](https://github.com/tidyverts/fable/) - a collection of commonly used univariate and multivariate time series forecasting models
+*   [fable (⭐564)](https://github.com/tidyverts/fable/) - a collection of commonly used univariate and multivariate time series forecasting models
 
 ---
 

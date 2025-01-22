@@ -16,11 +16,11 @@
 
 ### Math
 
-*   [XAD (⭐259)](https://github.com/auto-differentiation/xad) - Powerful Automatic Differentiation for C++. \[AGPL] [website](https://auto-differentiation.github.io/)
+*   [XAD (⭐351)](https://github.com/auto-differentiation/xad) - Powerful Automatic Differentiation for C++. \[AGPL] [website](https://auto-differentiation.github.io/)
 
 ### Miscellaneous
 
-*   [fast\_float (⭐1.6k)](https://github.com/fastfloat/fast_float) - Fast, Exact C++ from\_chars, 4x to 10x faster than strtod, part of GCC 12, Chromium, Redis, Webkit/Safari. \[Apache2/BSL-1.0/MIT]
+*   [fast\_float (⭐1.7k)](https://github.com/fastfloat/fast_float) - Fast, Exact C++ from\_chars, 4x to 10x faster than strtod, part of GCC 12, Chromium, Redis, Webkit/Safari. \[Apache2/BSL-1.0/MIT]
 
 ## [3. Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md)
 
@@ -55,7 +55,7 @@
 
 ### Reading and Writing Tools / Text Editors
 
-*   [Haystack Editor (⭐871)](https://github.com/haystackeditor/haystack-editor) - Code editor with a canvas UI for better code understanding. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/haystackeditor/haystack-editor) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Haystack Editor (⭐970)](https://github.com/haystackeditor/haystack-editor) - Code editor with a canvas UI for better code understanding. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/haystackeditor/haystack-editor) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [8. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
@@ -73,13 +73,13 @@
 
 ### QR Codes / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-scanner-qrcode (⭐56)](https://github.com/id1945/ngx-scanner-qrcode) - This library is built to provide a solution scanner QR code. This library takes in raw images and will locate, extract, and parse any QR code found within.
+*   [ngx-scanner-qrcode (⭐57)](https://github.com/id1945/ngx-scanner-qrcode) - This library is built to provide a solution scanner QR code. This library takes in raw images and will locate, extract, and parse any QR code found within.
 
 ## [9. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Marks / Diagnostics
 
-*   [you-n-g/navigate-note.nvim (⭐2)](https://github.com/you-n-g/navigate-note.nvim) -  Integrating note-taking capabilities with navigation/marking.
+*   [you-n-g/navigate-note.nvim (⭐18)](https://github.com/you-n-g/navigate-note.nvim) -  Integrating note-taking capabilities with navigation/marking.
 
 ## [10. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
@@ -90,4 +90,5 @@
 
 ---
 
+- Prev: [Nov 26, 2024](/content/2024/11/26/README.md)
 - Next: [Nov 24, 2024](/content/2024/11/24/README.md)

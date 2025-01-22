@@ -16,12 +16,12 @@
 
 *   **Parser and Lexer Generators**:
     *   [Opal (⭐146)](https://github.com/pyrocat101/opal) – Self-contained monadic parser combinators for OCaml.
-    *   [Sedlex (⭐233)](https://github.com/ocaml-community/sedlex) is a modern, encoding-agnostic (read: Unicode-supporting) lexer generator (the ppx-based successor to [ulex](http://www.cduce.org/download.html#side).)
+    *   [Sedlex (⭐239)](https://github.com/ocaml-community/sedlex) is a modern, encoding-agnostic (read: Unicode-supporting) lexer generator (the ppx-based successor to [ulex](http://www.cduce.org/download.html#side).)
     *   [Menhir](http://gallium.inria.fr/~fpottier/menhir/) – Menhir is a LR(1) parser generator for OCaml.
-        *   See [ocaml-parsing (⭐124)](https://github.com/smolkaj/ocaml-parsing) for a clearer example of using Menhir and Sedlex to produce a useful parser,
-        *   ... and [Obelisk (⭐53)](https://github.com/Lelio-Brun/Obelisk), a neat project to produce readable LaTeX, HTML, or plain-text EBNF-style documentation for your grammar.
+        *   See [ocaml-parsing (⭐125)](https://github.com/smolkaj/ocaml-parsing) for a clearer example of using Menhir and Sedlex to produce a useful parser,
+        *   ... and [Obelisk (⭐55)](https://github.com/Lelio-Brun/Obelisk), a neat project to produce readable LaTeX, HTML, or plain-text EBNF-style documentation for your grammar.
     *   [ocamllex/ocamlyacc](http://caml.inria.fr/pub/docs/manual-ocaml-4.01/lexyacc.html) – lex and yacc implementation for OCaml.
-    *   [Angstrom (⭐628)](https://github.com/inhabitedtype/angstrom) - Parser combinators built for speed and memory efficiency
+    *   [Angstrom (⭐648)](https://github.com/inhabitedtype/angstrom) - Parser combinators built for speed and memory efficiency
 
 ### Logging
 
@@ -33,7 +33,7 @@
 
 ### Regular Expressions
 
-*   [Tyre (⭐167)](https://github.com/Drup/tyre) - Tyre is a set of combinators to build type-safe regular expressions, allowing automatic extraction and modification of matched groups.
+*   [Tyre (⭐171)](https://github.com/Drup/tyre) - Tyre is a set of combinators to build type-safe regular expressions, allowing automatic extraction and modification of matched groups.
 
 ## [2. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
 
@@ -91,7 +91,7 @@
 ### Libraries / Algebraic Data Types
 
 *   [Fantasy Land (⭐10k)](https://github.com/fantasyland/fantasy-land) – Not a library, but a specification of the Monad laws for libraries to follow.
-*   [Static Land (⭐764)](https://github.com/rpominov/static-land) – Specification similar to Fantasy Land but based on static methods rather than instance methods.
+*   [Static Land (⭐772)](https://github.com/rpominov/static-land) – Specification similar to Fantasy Land but based on static methods rather than instance methods.
 
 ## [9. Toolsforactivism](/content/drewrwilson/toolsforactivism/week/README.md)
 
@@ -107,8 +107,8 @@
 
 ### UI / Barcode
 
-*   [CustomSegue (⭐123)](https://github.com/phimage/CustomSegue) - Custom segue for OSX Storyboards with slide and cross fade effects.
-*   [URLEmbeddedView (⭐651)](https://github.com/marty-suzuki/URLEmbeddedView) - Automatically caches the object that is confirmed the Open Graph Protocol, and displays it as URL embedded card.
+*   [CustomSegue (⭐122)](https://github.com/phimage/CustomSegue) - Custom segue for OSX Storyboards with slide and cross fade effects.
+*   [URLEmbeddedView (⭐650)](https://github.com/marty-suzuki/URLEmbeddedView) - Automatically caches the object that is confirmed the Open Graph Protocol, and displays it as URL embedded card.
 
 ## [11. Colorful](/content/Siddharth11/Colorful/week/README.md)
 
@@ -183,7 +183,7 @@
 
 ### PHP
 
-*   [Fusio (⭐1.8k)](https://github.com/apioo/fusio) - Open source API management platform.
+*   [Fusio (⭐1.9k)](https://github.com/apioo/fusio) - Open source API management platform.
 
 ## [20. Awesome Programming for Kids](/content/HollyAdele/awesome-programming-for-kids/week/README.md)
 
@@ -230,11 +230,11 @@
 
 ### Authorization
 
-*   [canada (⭐444)](https://github.com/jarednorman/canada) - A simple authorization library that provides a friendly interface using declarative permission rules.
+*   [canada (⭐452)](https://github.com/jarednorman/canada) - A simple authorization library that provides a friendly interface using declarative permission rules.
 
 ### Files and Directories
 
-*   [sizeable (⭐39)](https://github.com/arvidkahl/sizeable) - An Elixir library to make file sizes human-readable.
+*   [sizeable (⭐41)](https://github.com/arvidkahl/sizeable) - An Elixir library to make file sizes human-readable.
 
 ### HTTP
 
@@ -242,9 +242,9 @@
 
 ### Miscellaneous
 
-*   [bupe (⭐80)](https://github.com/milmazz/bupe) - EPUB Generator and Parser.
+*   [bupe (⭐82)](https://github.com/milmazz/bupe) - EPUB Generator and Parser.
 *   [charm (⭐4)](https://github.com/tomgco/elixir-charm) - Use ANSI terminal characters to write colors and cursor positions.
-*   [ecto\_autoslug\_field (⭐152)](https://github.com/sobolevn/ecto_autoslug_field) - Automatically creates slugs for your Ecto models.
+*   [ecto\_autoslug\_field (⭐151)](https://github.com/sobolevn/ecto_autoslug_field) - Automatically creates slugs for your Ecto models.
 
 ### Release Management
 
@@ -268,11 +268,11 @@
 
 ### Build Automation
 
-*   [Nake (⭐231)](https://github.com/yevhen/Nake) - Magic script-based C# task runner
+*   [Nake (⭐239)](https://github.com/yevhen/Nake) - Magic script-based C# task runner
 
 ### Compilers, Transpilers and Languages
 
-*   [LinqOptimizer (⭐476)](https://github.com/nessos/LinqOptimizer) - An automatic query optimizer-compiler for Sequential and Parallel LINQ
+*   [LinqOptimizer (⭐477)](https://github.com/nessos/LinqOptimizer) - An automatic query optimizer-compiler for Sequential and Parallel LINQ
 
 ### Continuous Integration
 
@@ -280,7 +280,7 @@
 
 ### Database
 
-*   [Streamstone (⭐390)](https://github.com/yevhen/Streamstone) - Event store for Azure Table Storage
+*   [Streamstone (⭐397)](https://github.com/yevhen/Streamstone) - Event store for Azure Table Storage
 
 ### Queue
 
@@ -289,7 +289,7 @@
 ### Serialization
 
 *   [FileHelpers (⭐1.1k)](https://github.com/MarcosMeli/FileHelpers) - free and easy to use .NET library to import or export data from fixed length or delimited records in files, strings or streams.
-*   [FsPickler (⭐325)](https://github.com/mbraceproject/FsPickler) - A fast multi-format message serializer for .NET
+*   [FsPickler (⭐327)](https://github.com/mbraceproject/FsPickler) - A fast multi-format message serializer for .NET
 
 ## [25. Awesome Computer History](/content/watson/awesome-computer-history/week/README.md)
 
@@ -407,11 +407,11 @@
 
 ### Development Projects / APIs
 
-*   [PokemonGO-Pokedex (⭐119)](https://github.com/Biuni/PokemonGO-Pokedex) - Pokédex of Pokémon GO in JSON.
+*   [PokemonGO-Pokedex (⭐126)](https://github.com/Biuni/PokemonGO-Pokedex) - Pokédex of Pokémon GO in JSON.
 
 ### Development Projects / Bots
 
-*   [PokeBuddy (⭐451)](https://github.com/finndev/PokeBuddy) - A Pokémon GO bot.
+*   [PokeBuddy (⭐447)](https://github.com/finndev/PokeBuddy) - A Pokémon GO bot.
 
 ### Development Projects / Miscellaneous
 
@@ -419,7 +419,7 @@
 
 ### Resources & Others / Maps
 
-*   [iPokeGo (⭐640)](https://github.com/istornz/iPokeGo) - A native iOS client to map the Pokémon around you.
+*   [iPokeGo (⭐642)](https://github.com/istornz/iPokeGo) - A native iOS client to map the Pokémon around you.
 
 ### Resources & Others / Wiki
 

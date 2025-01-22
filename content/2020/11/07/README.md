@@ -16,7 +16,7 @@
 
 ### Internationalization / Image Picker
 
-*   [attranslate (⭐322)](https://github.com/fkirc/attranslate) - Semi-automated translation of ARB or JSON files by [fkirc](https://github.com/fkirc)
+*   [attranslate (⭐336)](https://github.com/fkirc/attranslate) - Semi-automated translation of ARB or JSON files by [fkirc](https://github.com/fkirc)
 
 ## [3. Awesome Music](/content/ciconia/awesome-music/README.md)
 
@@ -34,8 +34,8 @@
 
 ### Go / Erlang
 
-*   [Fiber (⭐33k)](https://github.com/gofiber/fiber) - Express inspired web framework built on top of Fasthttp, the fastest HTTP engine for Go. Designed to ease things up for fast development with zero memory allocation and performance in mind.
-*   [Gin (⭐77k)](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance, up to 40 times faster.
+*   [Fiber (⭐35k)](https://github.com/gofiber/fiber) - Express inspired web framework built on top of Fasthttp, the fastest HTTP engine for Go. Designed to ease things up for fast development with zero memory allocation and performance in mind.
+*   [Gin (⭐80k)](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance, up to 40 times faster.
 *   [Go Chassis (⭐2.7k)](https://github.com/go-chassis/go-chassis) - A framework for rapid development of microservices in Go that is easy to integrate with some cloud ecosystems.
 
 ### Perl / Scala

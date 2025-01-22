@@ -61,7 +61,7 @@
 
 *   [styledocco](http://jacobrask.github.io/styledocco/) generates documentation and style guide documents from your stylesheets.
 *   [Ronn (⭐1.4k)](https://github.com/rtomayko/ronn) builds manuals. It converts simple, human readable textfiles to roff for terminal display, and also to HTML for the web.
-*   [jsdox (⭐210)](https://github.com/sutoiku/jsdox) is a JSDoc3 to Markdown documentation generator.
+*   [jsdox (⭐212)](https://github.com/sutoiku/jsdox) is a JSDoc3 to Markdown documentation generator.
 *   [documentation.js](http://documentation.js.org) - API documentation generator with support for ES2015+ and flow annotation.
 
 ## [7. Awesome Shell](/content/alebcay/awesome-shell/README.md)

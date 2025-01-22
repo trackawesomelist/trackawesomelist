@@ -61,10 +61,10 @@
 
 ## [8. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
-### Discussion Groups and Mailing Lists
+### Community, SIGs, Discussion Forums and Mailing Lists
 
 *   [Inactive - Keycloak Developer Chat](https://keycloak.zulipchat.com)
-*   [GitHub Discussions (⭐21k)](https://github.com/keycloak/keycloak/discussions)
+*   [GitHub Discussions (⭐25k)](https://github.com/keycloak/keycloak/discussions)
 *   [CNCF Slack](https://slack.cncf.io/), [#keycloak](https://cloud-native.slack.com/archives/C056HC17KK9), [#keycloak-dev](https://cloud-native.slack.com/archives/C056XU905S6)
 
 ### Articles
@@ -81,21 +81,14 @@
 
 ### Community Extensions
 
-*   [Admin Portal for User and Organization management by p2-inc (⭐18)](https://github.com/p2-inc/phasetwo-admin-portal)
-*   [Email Notifications when login from a new IP and Login History (⭐5)](https://github.com/eliskachylikova/keycloak-extensions)
-*   [Keycloak Authenticator for Duo's Universal Prompt (⭐49)](https://github.com/instipod/DuoUniversalKeycloakAuthenticator)
-*   [Keycloak extension for creating multi-tenant IAM for B2B SaaS applications (⭐104)](https://github.com/anarsultanov/keycloak-multi-tenancy)
+*   [Email Notifications when login from a new IP and Login History (⭐7)](https://github.com/eliskachylikova/keycloak-extensions)
+*   [Keycloak Authenticator for Duo's Universal Prompt (⭐50)](https://github.com/instipod/DuoUniversalKeycloakAuthenticator)
+*   [Keycloak extension for creating multi-tenant IAM for B2B SaaS applications (⭐132)](https://github.com/anarsultanov/keycloak-multi-tenancy)
 
 ### Integrations
 
 *   [Keycloak Provider for Laravel's Socialite Plugin](https://socialiteproviders.com/Keycloak/)
-*   [mantelo (Python Admin Client) (⭐14)](https://github.com/derlin/mantelo)
-
-### Themes
-
-*   [Keycloak login theme template (⭐36)](https://github.com/p2-inc/keycloak-theme-template)
-*   [Extension for runtime loading of CSS themes (⭐28)](https://github.com/p2-inc/keycloak-themes)
-*   [3 CSS-only Keycloak theme examples (⭐28)](https://github.com/p2-inc/keycloak-themes/tree/main/examples)
+*   [mantelo (Python Admin Client) (⭐22)](https://github.com/derlin/mantelo)
 
 ### Docker
 
@@ -108,12 +101,11 @@
 ### Example Projects
 
 *   [FIDO2 with Keycloak for 1FA and 2FA christian-2/oidc-passkey (⭐3)](https://github.com/christian-2/oidc-passkey)
-*   [A simple Django app to use Keycloak over OIDC by Amsterdam/keycloak\_oidc (⭐21)](https://github.com/Amsterdam/keycloak_oidc)
+*   [A simple Django app to use Keycloak over OIDC by Amsterdam/keycloak\_oidc (⭐23)](https://github.com/Amsterdam/keycloak_oidc)
 
 ### Commercial Offerings
 
 *   [Red Hat build of Keycloak](https://access.redhat.com/products/red-hat-build-of-keycloak)
-*   Phase Two [Keycloak hosting](https://phasetwo.io/) and on-prem [Keycloak support](https://phasetwo.io/product/onprem)
 *   [Skycloak](https://skycloak.io/)
 
 ## [9. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
@@ -138,19 +130,15 @@
 
 *   [*Swift Gems* by Natalia Panferova](https://books.nilcoalescing.com/swift-gems)
 
-### Contributors
-
-*   [Matthaus Woolard](https://github.com/hishnash)
-
 ## [12. Awesome Mirth](/content/mga-mirth/awesome-mirth/README.md)
 
 ### Mirth Extensions
 
-*   🔧 [Mirth Connect Privacy Plugin (⭐15)](https://github.com/tonygermano/mirth-user-privacy-plugin) - This plugin for Mirth Connect performs two functions to prevent exposing details of your server and Personal Data to NextGen Healthcare.
+*   🔧 [Mirth Connect Privacy Plugin (⭐17)](https://github.com/tonygermano/mirth-user-privacy-plugin) - This plugin for Mirth Connect performs two functions to prevent exposing details of your server and Personal Data to NextGen Healthcare.
 
 ### Tutorials
 
-*   📝 [Code template for TLS (⭐11)](https://github.com/pacmano1/mirthstunnel) - For users without the TLS plugin, this code template library uses stunnel to enable in and outbound TLS connections. It is an attempt to ease the configuration of stunnel and do it on the fly.
+*   📝 [Code template for TLS (⭐12)](https://github.com/pacmano1/mirthstunnel) - For users without the TLS plugin, this code template library uses stunnel to enable in and outbound TLS connections. It is an attempt to ease the configuration of stunnel and do it on the fly.
 *   📝 [Create SOAP WebService](https://cboyer.github.io/developpement/mirth-webservice-soap/) - French article to create a custom SOAP Webservice with java
 
 ## [13. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
@@ -198,7 +186,7 @@
 
 ### Miscellaneous
 
-*   [ex\_azure\_speech (⭐3)](https://github.com/ex-azure/ex_azure_speech) - An Elixir SDK implementation for the Microsoft Azure Speech Service.
+*   [ex\_azure\_speech (⭐5)](https://github.com/ex-azure/ex_azure_speech) - An Elixir SDK implementation for the Microsoft Azure Speech Service.
 
 ## [15. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -214,20 +202,20 @@
 
 ### CLI / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [angular-cli-diff (⭐328)](https://github.com/cexbrayat/angular-cli-diff) - Easily upgrade your Angular CLI applications from one version to another 🚀.
-*   [mantis-cli (⭐63)](https://github.com/mantis-apps/mantis-cli) - M.A.N.T.I.S (MongoDB, Angular with Analog, Nx, Tailwind CSS, Ionic, Storybook) is not just a CLI tool; it's your passport to a seamless full-stack project launch.
+*   [angular-cli-diff (⭐334)](https://github.com/cexbrayat/angular-cli-diff) - Easily upgrade your Angular CLI applications from one version to another 🚀.
+*   [mantis-cli (⭐67)](https://github.com/mantis-apps/mantis-cli) - M.A.N.T.I.S (MongoDB, Angular with Analog, Nx, Tailwind CSS, Ionic, Storybook) is not just a CLI tool; it's your passport to a seamless full-stack project launch.
 
 ## [17. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
 
 ### API Client / Other
 
-*   [docker-controller-bot (⭐114)](https://github.com/dgongut/docker-controller-bot) - Telegram bot to control docker containers. By [@dgongut](https://github.com/dgongut/)
+*   [docker-controller-bot (⭐150)](https://github.com/dgongut/docker-controller-bot) - Telegram bot to control docker containers. By [@dgongut](https://github.com/dgongut/)
 
 ## [18. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ### Resources / Articles
 
-*   [API-Security-Checklist (⭐22k) (⭐22k)](https://github.com/shieldfy/API-Security-Checklist) - Best practices about REST API security.
+*   [API-Security-Checklist (⭐22k) (⭐23k)](https://github.com/shieldfy/API-Security-Checklist) - Best practices about REST API security.
 
 ## [19. Awesome Translations](/content/mbiesiad/awesome-translations/README.md)
 
@@ -245,7 +233,7 @@
 
 ### Software / Vector Creation
 
-*   [ThreadPlotter (⭐32)](https://github.com/LiciaHe/threadPlotter) - "A toolkit for the design and fabrication of delicate punch needle embroidery using X-Y plotters".
+*   [ThreadPlotter (⭐130)](https://github.com/LiciaHe/threadPlotter) - "A toolkit for the design and fabrication of delicate punch needle embroidery using X-Y plotters".
 
 ### Inspiration, Instruction, and Research / Fonts
 

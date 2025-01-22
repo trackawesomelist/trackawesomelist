@@ -28,7 +28,7 @@
 
 *   [SRT Alliance](https://www.srtalliance.org/)  - Home page for the SRT protocol
 *   [SRT Cookbook](https://srtlab.github.io/srt-cookbook/)  - More in-depth technical documentaion on the SRT protocol and library.
-*   [SRT Open Source project (⭐3k)](https://github.com/Haivision/srt)  -
+*   [SRT Open Source project (⭐3.1k)](https://github.com/Haivision/srt)  -
 *   [Streaming With SRT Protocol in OBS](https://obsproject.com/wiki/Streaming-With-SRT-Protocol)  -
 
 ## [3. Awesome Sre](/content/dastergon/awesome-sre/README.md)
@@ -49,18 +49,18 @@
 
 ### Serialization
 
-*   [vproto (⭐52)](https://github.com/emily33901/vproto) - Protobuf compiler and runtime in V.
+*   [vproto (⭐53)](https://github.com/emily33901/vproto) - Protobuf compiler and runtime in V.
 
 ## [5. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md)
 
 ### Utilities
 
-*   [Nigiri (⭐260)](https://github.com/vulpemventures/nigiri/) - CLI to quickly fire up a a Bitcoin regtest box along with Electrs and Esplora. Includes faucet and push commands.
-*   [hal (⭐161)](https://github.com/stevenroose/hal) - Bitcoin CLI swiss-army-knife (based on rust-bitcoin).
+*   [Nigiri (⭐280)](https://github.com/vulpemventures/nigiri/) - CLI to quickly fire up a a Bitcoin regtest box along with Electrs and Esplora. Includes faucet and push commands.
+*   [hal (⭐167)](https://github.com/stevenroose/hal) - Bitcoin CLI swiss-army-knife (based on rust-bitcoin).
 
 ### Blockchain API and Web services
 
-*   [Esplora (⭐962)](https://github.com/Blockstream/esplora) - Self-hosted blockchain explorer.
+*   [Esplora (⭐1k)](https://github.com/Blockstream/esplora) - Self-hosted blockchain explorer.
 
 ### Blockchain Explorers
 
@@ -68,23 +68,19 @@
 
 ### Full nodes
 
-*   [btcd (⭐6.1k)](https://github.com/btcsuite/btcd/) - Go-based full node since 2013.
+*   [btcd (⭐6.3k)](https://github.com/btcsuite/btcd/) - Go-based full node since 2013.
 
-## [6. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
+## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+
+### Components & Libraries / Utilities
+
+*   [v-bucket (⭐43)](https://github.com/mediv0/v-bucket) - 📦 Fast, Simple, and Lightweight State Management for Vue 3.0 built with composition API, inspired by Vuex.
+
+## [7. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
 ### Libraries and Frameworks / JVM
 
 *   [Spine Event Engine](https://spine.io/) - a CQRS/ES framework for building cloud applications. Defines Bounded Contexts with their Commands, Events, and Entity states in Protobuf. The backend logic is written in Java, on top of the Proto-generated code. Client code in Java, JS or Dart communicates with the backend via gRPC.
-
-## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / UI Components
-
-*   [echarts-for-vue (⭐80)](https://github.com/ambit-tsai/echarts-for-vue) - ECharts Wrapper Component For Vue 3 and 2
-
-### Components & Libraries / Utilities
-
-*   [v-bucket (⭐42)](https://github.com/mediv0/v-bucket) - 📦 Fast, Simple, and Lightweight State Management for Vue 3.0 built with composition API, inspired by Vuex.
 
 ## [8. Awesome Python](/content/vinta/awesome-python/README.md)
 
@@ -97,7 +93,7 @@
 ### Developer Tools / Command Line Tools
 
 *   [xonsh](https://xon.sh/contents.html) - Python-powered, cross-platform, Unix-gazing shell language and command prompt. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/xonsh/xonsh) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [xxh (⭐5.2k)](https://github.com/xxh/xxh) - Bring your favorite shell wherever you go through the SSH. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/xxh/xxh) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [xxh (⭐5.5k)](https://github.com/xxh/xxh) - Bring your favorite shell wherever you go through the SSH. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/xxh/xxh) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Communication / Email Clients
 

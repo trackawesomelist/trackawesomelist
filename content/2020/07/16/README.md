@@ -6,21 +6,17 @@
 
 
 
-## [1. Awesome Spark](/content/awesome-spark/awesome-spark/README.md)
-
-### Packages / Middleware
-
-*   [Livy (⭐763)](https://github.com/apache/incubator-livy) <img src="https://img.shields.io/github/last-commit/apache/incubator-livy.svg"> - REST server with extensive language support (Python, R, Scala), ability to maintain interactive sessions and object sharing.
-
-## [2. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [1. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Projects Using Vue.js / Apps/Websites
 
 *   [FontGet](https://www.fontget.com/) - Download Free Fonts.
 
-### Components & Libraries / UI Components
+## [2. Awesome Spark](/content/awesome-spark/awesome-spark/README.md)
 
-*   [vue-notice](https://github.com/marcius-studio/vue-notice) - Vue.js 2 wrapper around Noty.js with native API
+### Packages / Middleware
+
+*   [Livy (⭐883)](https://github.com/apache/incubator-livy) <img src="https://img.shields.io/github/last-commit/apache/incubator-livy.svg"> - REST server with extensive language support (Python, R, Scala), ability to maintain interactive sessions and object sharing.
 
 ## [3. Tips](/content/git-tips/tips/README.md)
 
@@ -44,8 +40,8 @@ git switch -c <branch-name>
 
 ### Third-Party Packages / Security
 
-*   [django-csp (⭐549)](https://github.com/mozilla/django-csp) - Adds [Content-Security-Policy](http://www.w3.org/TR/CSP/) headers to Django.
-*   [django-feature-policy (⭐95)](https://github.com/adamchainz/django-feature-policy) - Set the draft security HTTP header `Feature-Policy` on a Django app.
+*   [django-csp (⭐571)](https://github.com/mozilla/django-csp) - Adds [Content-Security-Policy](http://www.w3.org/TR/CSP/) headers to Django.
+*   [django-feature-policy (⭐101)](https://github.com/adamchainz/django-feature-policy) - Set the draft security HTTP header `Feature-Policy` on a Django app.
 
 ## [5. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
@@ -55,7 +51,7 @@ git switch -c <branch-name>
 
 ### Table of Contents / Debugging and Profiling
 
-*   [PCOV (⭐695)](https://github.com/krakjoe/pcov) - A self-contained code coverage compatible driver.
+*   [PCOV (⭐713)](https://github.com/krakjoe/pcov) - A self-contained code coverage compatible driver.
 *   [Symfony VarDumper (⭐7.4k)](https://github.com/symfony/var-dumper) - A variable dumper component.
 *   [Whoops (⭐13k)](https://github.com/filp/whoops) - A pretty error-handling library.
 

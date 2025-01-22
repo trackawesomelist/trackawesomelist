@@ -101,7 +101,7 @@
 
 ### Music Notation
 
-*   [MusicKit (⭐109)](https://github.com/venturemedia/musickit) - Music sheet rendering for iOS and OSX.
+*   [MusicKit (⭐111)](https://github.com/venturemedia/musickit) - Music sheet rendering for iOS and OSX.
 
 ## [9. Awesome Ctf](/content/apsdehal/awesome-ctf/week/README.md)
 
@@ -183,7 +183,7 @@
 *   [Neural Caption Generator with Attention (⭐507)](https://github.com/jazzsaxmafia/show_attend_and_tell.tensorflow) - Implementation of ["Show, Attend and Tell"](http://arxiv.org/abs/1502.03044)
 *   [Weakly\_detector (⭐361)](https://github.com/jazzsaxmafia/Weakly_detector) - Implementation of ["Learning Deep Features for Discriminative Localization"](http://cnnlocalization.csail.mit.edu/)
 *   [Dynamic Capacity Networks (⭐9)](https://github.com/jazzsaxmafia/dcn.tf) - Implementation of ["Dynamic Capacity Networks"](http://arxiv.org/abs/1511.07838)
-*   [HMM in TensorFlow (⭐285)](https://github.com/dwiel/tensorflow_hmm) - Implementation of viterbi and forward/backward algorithms for HMM
+*   [HMM in TensorFlow (⭐287)](https://github.com/dwiel/tensorflow_hmm) - Implementation of viterbi and forward/backward algorithms for HMM
 *   [DeepOSM (⭐1.3k)](https://github.com/trailbehind/DeepOSM) - Train TensorFlow neural nets with OpenStreetMap features and satellite imagery.
 
 ### Powered by TensorFlow
@@ -292,7 +292,7 @@ git log --first-parent
 
 ### Reproducible Research
 
-*   [checkpoint (⭐163)](https://github.com/RevolutionAnalytics/checkpoint) - Install packages from snapshots on the checkpoint server.
+*   [checkpoint (⭐164)](https://github.com/RevolutionAnalytics/checkpoint) - Install packages from snapshots on the checkpoint server.
 
 ### Web Technologies and Services
 
@@ -328,11 +328,11 @@ git log --first-parent
 
 ### Examples and funny stuff
 
-*   [oop (⭐306)](https://github.com/wojtekmach/oop) - OOP in Elixir.
+*   [oop (⭐315)](https://github.com/wojtekmach/oop) - OOP in Elixir.
 
 ### Office
 
-*   [xlsxir (⭐213)](https://github.com/kennellroxco/xlsxir) - Xlsx file parser with support for ISO 8601 date formats. Data is extracted to an Erlang Term Storage (ETS) table and is accessed through various functions.
+*   [xlsxir (⭐215)](https://github.com/kennellroxco/xlsxir) - Xlsx file parser with support for ISO 8601 date formats. Data is extracted to an Erlang Term Storage (ETS) table and is accessed through various functions.
 
 ## [27. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
@@ -424,7 +424,7 @@ Webpage: <http://www.pushcartcoffee.com/>
 
 ### Libraries / Algebraic Data Types
 
-*   [immutable-ext (⭐492)](https://github.com/DrBoolean/immutable-ext) – FantasyLand extensions for [Immutable.js (⭐33k)](https://github.com/facebook/immutable-js).
+*   [immutable-ext (⭐489)](https://github.com/DrBoolean/immutable-ext) – FantasyLand extensions for [Immutable.js (⭐33k)](https://github.com/facebook/immutable-js).
 
 ### Resources / Books
 
@@ -454,8 +454,8 @@ Webpage: <http://www.pushcartcoffee.com/>
 
 ### Resources / Examples and Exercises
 
-*   [FPJS-Class (⭐94)](https://github.com/loop-recur/FPJS-Class) – Functional Programming learned through JavaScript.
-*   [functional-javascript-workshop (⭐2k)](https://github.com/timoxley/functional-javascript-workshop) – The goal of this workshop is to create realistic problems that can be solved using terse, vanilla, idiomatic JavaScript to teach fundamental functional programming features of JavaScript.
+*   [FPJS-Class (⭐93)](https://github.com/loop-recur/FPJS-Class) – Functional Programming learned through JavaScript.
+*   [functional-javascript-workshop (⭐2.1k)](https://github.com/timoxley/functional-javascript-workshop) – The goal of this workshop is to create realistic problems that can be solved using terse, vanilla, idiomatic JavaScript to teach fundamental functional programming features of JavaScript.
 
 ## [32. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
 

@@ -10,22 +10,22 @@
 
 ### Formatting / Diagnostics
 
-*   [niuiic/format.nvim (⭐35)](https://github.com/niuiic/format.nvim) - An asynchronous, multitasking, and highly configurable formatting plugin.
+*   [niuiic/format.nvim (⭐34)](https://github.com/niuiic/format.nvim) - An asynchronous, multitasking, and highly configurable formatting plugin.
 
 ## [2. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Files and Directories / Search
 
-*   [ast-grep (⭐5.8k)](https://github.com/ast-grep/ast-grep) - A tool for code structrual search, linting and rewriting.
+*   [ast-grep (⭐7.5k)](https://github.com/ast-grep/ast-grep) - A tool for code structural search, linting and rewriting.
 
 ## [3. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
 ### JavaScript / Git
 
 *   noble - high-security, easily auditable set of contained cryptographic libraries and tools. Zero dependencies each.
-    *   [noble-ciphers (⭐160)](https://github.com/paulmillr/noble-ciphers) — cryptographic ciphers, including AES-SIV, Salsa20, ChaCha, Poly1305 and FF1
-    *   [noble-curves (⭐610)](https://github.com/paulmillr/noble-curves) — elliptic curve cryptography, including Weierstrass, Edwards, Montgomery curves, pairings, hash-to-curve, poseidon hash, schnorr, secp256k1, ed25519, ed448, p521, bn254, bls12-381 and others. Also 4kb [noble-secp256k1 (⭐713)](https://github.com/paulmillr/noble-secp256k1), [noble-ed25519 (⭐400)](https://github.com/paulmillr/noble-ed25519)
-    *   [noble-hashes (⭐507)](https://github.com/paulmillr/noble-hashes) — SHA2, SHA3, RIPEMD, BLAKE2/3, HMAC, HKDF, PBKDF2 & Scrypt
+    *   [noble-ciphers (⭐187)](https://github.com/paulmillr/noble-ciphers) — cryptographic ciphers, including AES-SIV, Salsa20, ChaCha, Poly1305 and FF1
+    *   [noble-curves (⭐674)](https://github.com/paulmillr/noble-curves) — elliptic curve cryptography, including Weierstrass, Edwards, Montgomery curves, pairings, hash-to-curve, poseidon hash, schnorr, secp256k1, ed25519, ed448, p521, bn254, bls12-381 and others. Also 4kb [noble-secp256k1 (⭐757)](https://github.com/paulmillr/noble-secp256k1), [noble-ed25519 (⭐418)](https://github.com/paulmillr/noble-ed25519)
+    *   [noble-hashes (⭐571)](https://github.com/paulmillr/noble-hashes) — SHA2, SHA3, RIPEMD, BLAKE2/3, HMAC, HKDF, PBKDF2 & Scrypt
 
 ### Web-sites / Git
 
@@ -35,7 +35,7 @@
 
 ### Containers
 
-*   [Windows Docker Machine (⭐1k)](https://github.com/StefanScherer/windows-docker-machine) - Vagrant environment that creates a "Docker Machine" to work on your MacBook with Windows containers so that you can easily switch between Docker Desktop Linux containers and the Windows containers.
+*   [Windows Docker Machine (⭐1.1k)](https://github.com/StefanScherer/windows-docker-machine) - Vagrant environment that creates a "Docker Machine" to work on your MacBook with Windows containers so that you can easily switch between Docker Desktop Linux containers and the Windows containers.
 
 ## [5. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
@@ -55,7 +55,7 @@
 
 ### Algorithms & Data Structures
 
-*   [Algorithmic Graph Theory](https://code.google.com/p/graphbook/) - David Joyner, Minh Van Nguyen, David Phillips (PDF)
+*   [Algorithmic Graph Theory](https://code.google.com/p/graphbook/) - David Joyner, Minh Van Nguyen, David Phillips (PDF) (GFDL)
 *   [Algorithms Course Materials](https://jeffe.cs.illinois.edu/teaching/algorithms/) - Jeff Erickson
 *   [Lectures Notes on Algorithm Analysis and Computational Complexity (Fourth Edition)](https://ianparberry.com/books/free/license.html) - Ian Parberry (use form at bottom of license)
 *   [Matters Computational: Ideas, Algorithms, Source Code](https://www.jjj.de/fxt/fxtbook.pdf) - Jörg Arndt (PDF)

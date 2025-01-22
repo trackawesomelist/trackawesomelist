@@ -71,15 +71,15 @@
 
 ### Programming Languages
 
-*   [Vala (⭐158)](https://github.com/desiderantes/awesome-vala#readme) - Programming language designed to take full advantage of the GLib and GNOME ecosystems, while preserving the speed of C code.
+*   [Vala (⭐174)](https://github.com/desiderantes/awesome-vala#readme) - Programming language designed to take full advantage of the GLib and GNOME ecosystems, while preserving the speed of C code.
 
 ### Business
 
-*   [Wardley Maps (⭐645)](https://github.com/wardley-maps-community/awesome-wardley-maps#readme) - Provides high situational awareness to help improve strategic planning and decision making.
+*   [Wardley Maps (⭐680)](https://github.com/wardley-maps-community/awesome-wardley-maps#readme) - Provides high situational awareness to help improve strategic planning and decision making.
 
 ### Miscellaneous
 
-*   [Earth (⭐1.3k)](https://github.com/philsturgeon/awesome-earth#readme) - Find ways to resolve the climate crisis.
+*   [Earth (⭐1.4k)](https://github.com/philsturgeon/awesome-earth#readme) - Find ways to resolve the climate crisis.
 
 ## [7. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
 

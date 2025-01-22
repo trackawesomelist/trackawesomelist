@@ -1,24 +1,18 @@
 # Awesome List Updates on Dec 28 - Jan 03, 2015
 
-28 awesome lists updated this week.
+26 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
-
-### Demo
-
-*   [CakeFest](http://cakefest.dereuromark.de/) - Demo application around the annual CakePHP Conference "CakeFest".
-
-## [2. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [1. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Command-line apps
 
-*   [mobicon (⭐111)](https://github.com/samverschueren/mobicon-cli) - Mobile app icon generator.
+*   [mobicon (⭐112)](https://github.com/samverschueren/mobicon-cli) - Mobile app icon generator.
 
-## [3. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
+## [2. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
 ### Virtual Machines
 
@@ -26,21 +20,21 @@
 *   [J2ObjC (⭐5.9k)](https://github.com/google/j2objc) - Translator from Java source to Objective-C code. Keeps shared code between iOS native apps and Android native apps.
 *   [ParparVM (⭐1.3k)](https://github.com/codenameone/CodenameOne/tree/master/vm) - An Open Source Java bytecode to C translator for iOS native development. Designed as a part of the [Codename One](https://www.codenameone.com/) WORA for mobile project.
 
-## [4. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [3. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Database Drivers/Clients
 
-*   [crystal-redis (⭐380)](https://github.com/stefanwille/crystal-redis) - Full featured Redis client
+*   [crystal-redis (⭐377)](https://github.com/stefanwille/crystal-redis) - Full featured Redis client
 
 ### Misc
 
-*   [emoji.cr (⭐47)](https://github.com/veelenga/emoji.cr) - Emoji library
+*   [emoji.cr (⭐48)](https://github.com/veelenga/emoji.cr) - Emoji library
 
 ### Testing
 
-*   [minitest.cr (⭐146)](https://github.com/ysbaddaden/minitest.cr) - Library for unit tests and assertions
+*   [minitest.cr (⭐145)](https://github.com/ysbaddaden/minitest.cr) - Library for unit tests and assertions
 
-## [5. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
+## [4. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
 
 ### Surveys / Provided by the Host
 
@@ -70,7 +64,7 @@
 *   [lunr.js](http://lunrjs.com/) - Simple full-text search in your browser.
 *   [Google Custom Search Engine](https://cse.google.com/cse/) - Search your site with a custom Google Search.
 
-## [6. Creative Commons Media](/content/shime/creative-commons-media/week/README.md)
+## [5. Creative Commons Media](/content/shime/creative-commons-media/week/README.md)
 
 ### Audio
 
@@ -115,25 +109,19 @@
 *   [Jurispedia](http://jurispedia.org) - The shared law
 *   [Wikipedia](https://wikipedia.org) - All under CC BY-SA license
 
-## [7. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
-
-### Colors / Icons Packages and Collections
-
-*   [0xrgb](http://0xrgb.com/) - A minimalistic color picker for well-known palettes (Material, iOS, FlatUI, Metro, Tango, Solarized).
-
-## [8. Awesome Projects Boilerplates](/content/melvin0008/awesome-projects-boilerplates/week/README.md)
+## [6. Awesome Projects Boilerplates](/content/melvin0008/awesome-projects-boilerplates/week/README.md)
 
 ### Python
 
 *   [gae-init](http://gae-init.appspot.com) Google App Engine based on Flask, RESTful, Bootstrap and tons of other cool features.
 
-## [9. Awesome Speaking](/content/matteofigus/awesome-speaking/week/README.md)
+## [7. Awesome Speaking](/content/matteofigus/awesome-speaking/week/README.md)
 
 ### CFP
 
 *   [Callback Women](http://www.callbackwomen.com/) - Sharing CFPs via [Twitter](https://twitter.com/callbackwomen).
 
-## [10. Tips](/content/git-tips/tips/week/README.md)
+## [8. Tips](/content/git-tips/tips/week/README.md)
 
 ## Clean the files from `.gitignore`.
 
@@ -146,19 +134,19 @@ git clean -X -f
 git checkout <deleting_commit> -- <file_path>
 ```
 
-## [11. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [9. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Companies / T companies
 
 *   Target <https://target.github.io/>
 
-## [12. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [10. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Development / Mobile Development
 
-*   [mobicon-cli (⭐110)](https://github.com/SamVerschueren/mobicon-cli) - Mobile app icon generator.
+*   [mobicon-cli (⭐112)](https://github.com/SamVerschueren/mobicon-cli) - Mobile app icon generator.
 
-## [13. Awesome Relay](/content/expede/awesome-relay/week/README.md)
+## [11. Awesome Relay](/content/expede/awesome-relay/week/README.md)
 
 ### FAQs
 
@@ -221,14 +209,14 @@ git checkout <deleting_commit> -- <file_path>
 
 *   [`sangria-relay`](https://github.com/sangria-graphql/sangria-relay) - Relay support for [Sangria](http://sangria-graphql.org).
 
-## [14. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [12. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Podcasts / Videos
 
 *   [The Laravel Podcast](http://www.laravelpodcast.com/)
 *   [The Laracasts Snippet](https://laracasts.simplecast.fm/)
 
-## [15. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/week/README.md)
+## [13. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/week/README.md)
 
 ### Awesome ClojureScript / Document Object Model
 
@@ -237,17 +225,17 @@ git checkout <deleting_commit> -- <file_path>
 *   [Freactive (⭐394)](https://github.com/aaronc/freactive) – A high-performance, pure Clojurescript, declarative DOM library inspired by reagent, om, reflex and hiccup.
 *   [json-html (⭐158)](https://github.com/yogthos/json-html) – Provide JSON and get a DOM node with a human representation of that JSON.
 
-## [16. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [14. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Testing
 
-*   [power\_assert (⭐214)](https://github.com/ma2gedev/power_assert_ex) - Power Assert in Elixir. Shows evaluation results each expression.
+*   [power\_assert (⭐215)](https://github.com/ma2gedev/power_assert_ex) - Power Assert in Elixir. Shows evaluation results each expression.
 
 ### Websites
 
 *   [Learning Elixir](http://learningelixir.joekain.com/) - A blog about a Professional Software Engineer learning Elixir.
 
-## [17. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
+## [15. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
 
 ### Guides
 
@@ -266,7 +254,7 @@ git checkout <deleting_commit> -- <file_path>
 
 *   [Flexbox Patterns](http://www.flexboxpatterns.com/) - Examples and source code that will teach you how to build UI components with CSS flexbox! What’s flexbox?
 
-## [18. Typography](/content/deanhume/typography/week/README.md)
+## [16. Typography](/content/deanhume/typography/week/README.md)
 
 ### Articles
 
@@ -289,7 +277,7 @@ git checkout <deleting_commit> -- <file_path>
 
 *   [On Web Typography](https://abookapart.com/products/on-web-typography)
 
-## [19. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [17. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Closed Source / Other
 
@@ -306,31 +294,31 @@ git checkout <deleting_commit> -- <file_path>
 
 *   [The State of Electron](https://www.youtube.com/watch?v=RaPmi-33rfc)
 
-## [20. Awesome Rxjava](/content/eleventigers/awesome-rxjava/week/README.md)
+## [18. Awesome Rxjava](/content/eleventigers/awesome-rxjava/week/README.md)
 
 ### Articles
 
 *   [Rx glitches aren't actually a problem](http://staltz.com/rx-glitches-arent-actually-a-problem.html) - Glitches are temporary inconsistencies emitted by Observables. André Staltz looks at why it's not really a problem.
 
-## [21. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
+## [19. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
 
 ### Software Development
 
 *   [Simplify Challenging Software Problems with Rocket Science](https://www.youtube.com/watch?v=h1g1YyVO6j8) by **Bradley Grzesiak** \[23:07]
 
-## [22. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [20. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Debug
 
-*   [benchmark (⭐8.8k)](https://github.com/google/benchmark) - Google provided small microbenchmark support library. \[Apache2]
-*   [Google Mock (⭐34k)](https://github.com/google/googletest/blob/master/googlemock/README.md) - A library for writing and using C++ mock classes. \[BSD]
-*   [Google Test (⭐34k)](https://github.com/google/googletest) - Google C++ Testing Framework. \[BSD]
+*   [benchmark (⭐9.2k)](https://github.com/google/benchmark) - Google provided small microbenchmark support library. \[Apache2]
+*   [Google Mock (⭐35k)](https://github.com/google/googletest/blob/master/googlemock/README.md) - A library for writing and using C++ mock classes. \[BSD]
+*   [Google Test (⭐35k)](https://github.com/google/googletest) - Google C++ Testing Framework. \[BSD]
 
 ### Build Systems
 
 *   [MesonBuild](http://mesonbuild.com) - An open source build system meant to be both extremely fast, and, even more importantly, as user friendly as possible.
 
-## [23. Awesome Slack](/content/filipelinhares/awesome-slack/week/README.md)
+## [21. Awesome Slack](/content/filipelinhares/awesome-slack/week/README.md)
 
 ### Development
 
@@ -345,13 +333,13 @@ git checkout <deleting_commit> -- <file_path>
 
 *   [Designer Hangout](https://www.designerhangout.co/)
 
-## [24. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [22. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Command-Line Productivity
 
 *   [boilr (⭐1.7k)](https://github.com/tmrts/boilr) - A blazingly fast CLI tool for creating projects from boilerplate templates.
 
-## [25. Awesome Purescript](/content/passy/awesome-purescript/week/README.md)
+## [23. Awesome Purescript](/content/passy/awesome-purescript/week/README.md)
 
 ### Preludes
 
@@ -361,7 +349,7 @@ git checkout <deleting_commit> -- <file_path>
 
 *   [purescript-test-unit (⭐86)](https://github.com/bodil/purescript-test-unit) - An asynchronous unit test runner for PureScript.
 
-## [26. Awesome Laravel Education](/content/fukuball/Awesome-Laravel-Education/week/README.md)
+## [24. Awesome Laravel Education](/content/fukuball/Awesome-Laravel-Education/week/README.md)
 
 ### Make a difference
 
@@ -369,7 +357,7 @@ git checkout <deleting_commit> -- <file_path>
 *   [@fukeball](https://github.com/fukuball)
 *   [@joaosvieira](https://github.com/joaosvieira)
 
-## [27. Codeface](/content/chrissimpkins/codeface/week/README.md)
+## [25. Codeface](/content/chrissimpkins/codeface/week/README.md)
 
 ### The Gallery
 
@@ -384,7 +372,7 @@ git checkout <deleting_commit> -- <file_path>
 
 § The End
 
-## [28. Awesome Cross Platform Nodejs](/content/bcoe/awesome-cross-platform-nodejs/week/README.md)
+## [26. Awesome Cross Platform Nodejs](/content/bcoe/awesome-cross-platform-nodejs/week/README.md)
 
 ### Resources
 

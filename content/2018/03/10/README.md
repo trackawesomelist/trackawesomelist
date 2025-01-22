@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 10, 2018
 
-7 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -63,13 +63,7 @@ Hands-on and abundant with source code for a practical guide to Securing Node.js
 
 We run many types of info-sec security training, covering Physical, People, VPS, Networs, Cloud, Web Applications. Most of the content is sourced from the [book series](https://leanpub.com/b/holisticinfosecforwebdevelopers) Kim has been working on for several years. More info can be found [here](https://binarymist.io/#services)
 
-## [2. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / UI Components
-
-*   [v-modal-backdrop (⭐2)](https://github.com/nash403/v-modal-backdrop) - A simple generic backdrop component for vue
-
-## [3. Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md)
+## [2. Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md)
 
 ### Become an Appium Pro
 
@@ -86,13 +80,13 @@ We run many types of info-sec security training, covering Physical, People, VPS,
 
 *   [Uncover invisible changes in automated tests](https://sourcediving.com/how-to-uncover-invisible-changes-in-automated-tests-b6a5dbff564e) - By KazuCocoa
 
-## [4. Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md)
+## [3. Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md)
 
 ### Online Judges / Randomized Algorithms
 
 *   [Baekjoon Online Judge](https://www.acmicpc.net/) - Korean Online Judge. 10000+ problems. Supports 60+ languages.
 
-## [5. Julia.jl](/content/svaksha/Julia.jl/README.md)
+## [4. Julia.jl](/content/svaksha/Julia.jl/README.md)
 
 ### BugReport-PullRequest
 
@@ -100,13 +94,13 @@ We run many types of info-sec security training, covering Physical, People, VPS,
 *   For Documentation and cookbooks, check if it matches the categories listed, else, list it on the [Resources.md (⭐1.3k)](https://github.com/svaksha/Julia.jl/blob/master/Resources.md) page.
 *   For those unable to use git, create a github account, then fork the `Julia.jl` repo on the user interface. Then edit the page by [clicking on the "pencil" icon on the markdown page](https://help.github.com/articles/editing-files-in-your-repository), then click on save and submit a PR. Github does this [automatically in 8 steps](https://help.github.com/articles/editing-files-in-another-user-s-repository).
 
-## [6. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [5. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Monitoring & Observability & Alerting
 
 *   [The Many Ways Your Monitoring Is Lying to You](https://www.usenix.org/node/197446)
 
-## [7. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [6. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Compilers, Transpilers and Languages
 

@@ -79,23 +79,23 @@
 
 ### Libraries / Configuration
 
-*   [andoriyu/uclicious (⭐17)](https://github.com/andoriyu/uclicious) \[[uclicious](https://crates.io/crates/uclicious)] - [libUCL (⭐1.6k)](https://github.com/vstakhov/libucl) based feature-rich configuration library. [![CircleCI](https://circleci.com/gh/vstakhov/libucl.svg?style=svg)](https://app.circleci.com/pipelines/github/vstakhov/libucl)
+*   [andoriyu/uclicious (⭐19)](https://github.com/andoriyu/uclicious) \[[uclicious](https://crates.io/crates/uclicious)] - [libUCL (⭐1.6k)](https://github.com/vstakhov/libucl) based feature-rich configuration library. [![CircleCI](https://circleci.com/gh/vstakhov/libucl.svg?style=svg)](https://app.circleci.com/pipelines/github/vstakhov/libucl)
 
 ### Libraries / Cryptography
 
-*   [cossacklabs/themis (⭐1.8k)](https://github.com/cossacklabs/themis) \[[themis](https://crates.io/crates/themis)] - a high-level cryptographic library for solving typical data security tasks, best fit for multi-platform apps. [![build badge](https://circleci.com/gh/cossacklabs/themis/tree/master.svg?style=shield)](https://app.circleci.com/pipelines/github/cossacklabs/themis)
+*   [cossacklabs/themis (⭐1.9k)](https://github.com/cossacklabs/themis) \[[themis](https://crates.io/crates/themis)] - a high-level cryptographic library for solving typical data security tasks, best fit for multi-platform apps. [![build badge](https://circleci.com/gh/cossacklabs/themis/tree/master.svg?style=shield)](https://app.circleci.com/pipelines/github/cossacklabs/themis)
 
 ## [7. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Logging / Barcode
 
-*   [Puppy (⭐157)](https://github.com/sushichop/Puppy) :penguin: - A flexible logging library that supports multiple transports and platforms.
+*   [Puppy (⭐160)](https://github.com/sushichop/Puppy) :penguin: - A flexible logging library that supports multiple transports and platforms.
 
 ## [8. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Communication - Custom Communication Systems
 
-*   [Chatwoot](https://www.chatwoot.com) - Self-hosted customer communication platform (alternative to Intercom & Zendesk). ([Source Code (⭐20k)](https://github.com/chatwoot/chatwoot)) `MIT` `Ruby/Docker/K8S`
+*   [Chatwoot](https://www.chatwoot.com) - Self-hosted customer communication platform (alternative to Intercom & Zendesk). ([Source Code (⭐22k)](https://github.com/chatwoot/chatwoot)) `MIT` `Ruby/Docker/K8S`
 
 ## [9. Awesome Analytics](/content/newTendermint/awesome-analytics/README.md)
 
@@ -130,15 +130,15 @@
 
 ## [14. Awesome Acg](/content/soruly/awesome-acg/README.md)
 
-### Databases / Data Sources
+### Data Sources
 
-*   [anime-offline-database (⭐900)](https://github.com/manami-project/anime-offline-database/) - A JSON based offline anime database containing the most important meta data as well as cross references to various anime sites such as MAL, ANIDB, ANILIST, KITSU and more. \[English]
+*   [anime-offline-database (⭐976)](https://github.com/manami-project/anime-offline-database/) - A JSON based offline anime database containing the most important meta data as well as cross references to various anime sites such as MAL, ANIDB, ANILIST, KITSU and more. \[English]
 
 ## [15. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/README.md)
 
 ### External Services
 
-*   [blog-box (⭐5)](https://github.com/Aveek-Saha/blog-box) - Update a pinned gist to show your latest dev.to blog post.
+*   [blog-box (⭐6)](https://github.com/Aveek-Saha/blog-box) - Update a pinned gist to show your latest dev.to blog post.
 *   [medium-stat-box (⭐38)](https://github.com/kylemocode/medium-stat-box) - Update a pinned gist to show your medium stats and latest articles.
 
 ## [16. Awesome Python](/content/vinta/awesome-python/README.md)

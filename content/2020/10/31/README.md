@@ -16,7 +16,6 @@
 
 ### MOOC's
 
-*   [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/) - Linear Algebra course by Gilbert Strang
 *   [A 2020 Vision of Linear Algebra (G. Strang)](https://ocw.mit.edu/resources/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/)
 
 ### Deep Learning Packages / Visualization Tools
@@ -54,17 +53,17 @@
 *   Telegram [Flutter Italia Developers](https://t.me/flutteritdevs)
 *   Website [flutteritalia.dev](https://flutteritalia.dev)
 
-## [6. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
-
-### Blog posts
-
-*   [Visual regression testing for Hugo with Github-CI and BackstopJS](https://jameskiefer.com/posts/visual-regression-testing-for-hugo-with-github-ci-and-backstopjs/) - How to automate regression testing for Hugo with BackstopJS
-
-## [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [6. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Document Management
 
-*   [Docspell](https://docspell.org) - Auto-tagging document organizer and archive. ([Source Code (⭐1.6k)](https://github.com/eikek/docspell)) `GPL-3.0` `Scala/Java/Docker`
+*   [Docspell](https://docspell.org) - Auto-tagging document organizer and archive. ([Source Code (⭐1.7k)](https://github.com/eikek/docspell)) `GPL-3.0` `Scala/Java/Docker`
+
+## [7. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
+
+### Blog posts  (a-z↓)
+
+*   [Visual regression testing for Hugo with Github-CI and BackstopJS](https://jameskiefer.com/posts/visual-regression-testing-for-hugo-with-github-ci-and-backstopjs/) - How to automate regression testing for Hugo with BackstopJS
 
 ## [8. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
@@ -76,13 +75,13 @@
 
 ### Assemblers / Misc
 
-*   [ASMotor (⭐55)](https://github.com/csoren/asmotor) - Assembler engine and development system targeting Game Boy, among other CPUs. Written by the original RGBDS author. [Documentation (⭐55)](https://github.com/asmotor/asmotor/tree/develop#further-reading).
+*   [ASMotor (⭐78)](https://github.com/csoren/asmotor) - Assembler engine and development system targeting Game Boy, among other CPUs. Written by the original RGBDS author. [Documentation (⭐78)](https://github.com/asmotor/asmotor/tree/develop#further-reading).
 
 ## [10. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Gaming
 
-*   [CHIP-8 (⭐149)](https://github.com/tobiasvl/awesome-chip-8#readme) - Virtual computer game machine from the 70s.
+*   [CHIP-8 (⭐169)](https://github.com/tobiasvl/awesome-chip-8#readme) - Virtual computer game machine from the 70s.
 
 ## [11. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
 

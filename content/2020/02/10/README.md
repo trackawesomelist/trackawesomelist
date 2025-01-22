@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 10, 2020
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -67,26 +67,20 @@
 
 *   [Web Annoyances Ultralist (⭐1.1k)](https://github.com/yourduskquibbles/webannoyances) - Fix and remove annoying and distracting web elements from many websites.
 
-## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / Utilities
-
-*   [vue-subslot (⭐12)](https://github.com/privatenumber/vue-subslot) - 💍 Vue component to pick 'n choose what you want from a slot
-
-## [10. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
+## [9. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
 ### ORM / Database / Datamapping
 
-*   🍰 [Lampager/Cake plugin (⭐5)](https://github.com/lampager/lampager-cakephp) - Rapid pagination without using OFFSET.
+*   [Lampager/Cake plugin (⭐5)](https://github.com/lampager/lampager-cakephp) - Rapid pagination without using OFFSET.
 
-## [11. Game Datasets](/content/leomaurodesenv/game-datasets/README.md)
+## [10. Game Datasets](/content/leomaurodesenv/game-datasets/README.md)
 
 ### API
 
 *   [OpenCritic](https://www.opencritic.com) - Game reviews aggregator.
 *   [WhatoPlay](https://whatoplay.com) - Game reviews and ratings aggregator, and a recommender for discovering games.
 
-## [12. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+## [11. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Photo / Image
 

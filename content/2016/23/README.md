@@ -23,13 +23,13 @@
 
 ### Web Apps (open source)
 
-*   [Transitive.js (⭐676)](https://github.com/conveyal/transitive.js) - Creates a customizable web map layer of transit routes using Leaflet or D3.
+*   [Transitive.js (⭐684)](https://github.com/conveyal/transitive.js) - Creates a customizable web map layer of transit routes using Leaflet or D3.
 
 ## [4. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### UI / Barcode
 
-*   [LeeGo (⭐967)](https://github.com/wangshengjia/LeeGo) - Declarative, configurable & highly reusable UI development as making Lego bricks.
+*   [LeeGo (⭐966)](https://github.com/wangshengjia/LeeGo) - Declarative, configurable & highly reusable UI development as making Lego bricks.
 
 ### Walkthrough / Barcode
 
@@ -59,7 +59,7 @@
 
 ### Cryptography
 
-*   [Pkcs11Interop (⭐254)](https://github.com/Pkcs11Interop/Pkcs11Interop) - Managed .NET wrapper for unmanaged PKCS#11 libraries that provide access to the cryptographic hardware
+*   [Pkcs11Interop (⭐271)](https://github.com/Pkcs11Interop/Pkcs11Interop) - Managed .NET wrapper for unmanaged PKCS#11 libraries that provide access to the cryptographic hardware
 
 ## [8. Awesome Spark](/content/awesome-spark/awesome-spark/week/README.md)
 
@@ -123,7 +123,7 @@
 
 ### E-Commerce and Payments
 
-*   [Braintree (⭐443)](https://github.com/braintree/braintree_ruby) - Braintree Ruby bindings.
+*   [Braintree (⭐446)](https://github.com/braintree/braintree_ruby) - Braintree Ruby bindings.
 
 ## [15. Css Protips](/content/AllThingsSmitty/css-protips/week/README.md)
 
@@ -141,17 +141,17 @@
 
 ### Artificial Intelligence
 
-*   [ANNetGPGPU (⭐104)](https://github.com/ANNetGPGPU/ANNetGPGPU) - A GPU (CUDA) based Artificial Neural Network library. \[LGPL]
-*   [Recast/Detour (⭐6.4k)](https://github.com/recastnavigation/recastnavigation) - (3D) Navigation mesh generator and pathfinder, mostly for games. \[zlib]
-*   [Veles (⭐904)](https://github.com/Samsung/veles) - Distributed platform for rapid Deep learning application development. \[Apache]
+*   [ANNetGPGPU (⭐108)](https://github.com/ANNetGPGPU/ANNetGPGPU) - A GPU (CUDA) based Artificial Neural Network library. \[LGPL]
+*   [Recast/Detour (⭐6.7k)](https://github.com/recastnavigation/recastnavigation) - (3D) Navigation mesh generator and pathfinder, mostly for games. \[zlib]
+*   [Veles (⭐908)](https://github.com/Samsung/veles) - Distributed platform for rapid Deep learning application development. \[Apache]
 
 ### Multimedia
 
-*   [SFML (⭐9.9k)](https://github.com/SFML/SFML) :zap: - Simple and Fast Multimedia Library. \[zlib] [website](http://www.sfml-dev.org/)
+*   [SFML (⭐11k)](https://github.com/SFML/SFML) :zap: - Simple and Fast Multimedia Library. \[zlib] [website](http://www.sfml-dev.org/)
 
 ### Scripting
 
-*   [Duktape (⭐5.9k)](https://github.com/svaarala/duktape) - An embeddable Javascript engine with compact footprint. \[MIT] [website](http://duktape.org)
+*   [Duktape (⭐6k)](https://github.com/svaarala/duktape) - An embeddable JavaScript engine with compact footprint. \[MIT] [website](http://duktape.org)
 
 ### Web Application Framework
 
@@ -160,7 +160,7 @@
 ### Other Awesome Projects
 
 *   [Awesome C](https://notabug.org/koz.ross/awesome-c) 1
-*   [Awesome C (⭐3.4k)](https://github.com/aleksandar-todorovic/awesome-c) 2
+*   [Awesome C (⭐3.5k)](https://github.com/aleksandar-todorovic/awesome-c) 2
 
 ## [18. Awesome Neo4j](/content/neueda/awesome-neo4j/week/README.md)
 
@@ -176,7 +176,7 @@
 
 ### Images
 
-*   [cloudex (⭐103)](https://github.com/smeevil/cloudex) - Cloudex is an Elixir library that can upload image files or urls to Cloudinary.
+*   [cloudex (⭐104)](https://github.com/smeevil/cloudex) - Cloudex is an Elixir library that can upload image files or urls to Cloudinary.
 
 ## [20. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
 
@@ -188,7 +188,7 @@
 
 ### Natural Language Processing
 
-*   [MonkeyLearn (⭐94)](https://github.com/masalmon/monkeylearn) - 🐒 R package for text analysis with Monkeylearn 🐒.
+*   [MonkeyLearn (⭐93)](https://github.com/masalmon/monkeylearn) - 🐒 R package for text analysis with Monkeylearn 🐒.
 
 ## [22. Awesome Unity](/content/RyanNielson/awesome-unity/week/README.md)
 
@@ -540,7 +540,7 @@ git config core.fileMode false
 
 ## [33. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
-### Facebook Accounts / Book Deals (Affiliated) 🛍
+### Facebook Accounts / Book Deals (Affiliated)
 
 *   [The Data Science Blog](https://www.facebook.com/theDataScienceBlog/)
 
@@ -587,8 +587,8 @@ git config core.fileMode false
 
 ### Related awesome lists
 
-*   [Awesome Deep Vision (⭐10k)](https://github.com/kjw0612/awesome-deep-vision)
-*   [Awesome Reinforcement Learning (⭐7.9k)](https://github.com/aikorea/awesome-rl/)
+*   [Awesome Deep Vision (⭐11k)](https://github.com/kjw0612/awesome-deep-vision)
+*   [Awesome Reinforcement Learning (⭐8.8k)](https://github.com/aikorea/awesome-rl/)
 
 ## [38. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
 

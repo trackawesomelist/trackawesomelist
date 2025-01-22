@@ -16,7 +16,7 @@
 
 ### Boilerplates / Themes
 
-*   [CRA-TS-Antd (⭐112)](https://github.com/comerc/cra-ts-antd) - Create-React-App + TypeScript + Ant-Design (without Eject).
+*   [CRA-TS-Antd (⭐114)](https://github.com/comerc/cra-ts-antd) - Create-React-App + TypeScript + Ant-Design (without Eject).
 
 ## [3. Awesome Linux](/content/inputsh/awesome-linux/README.md)
 

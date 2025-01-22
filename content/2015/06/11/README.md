@@ -10,7 +10,7 @@
 
 ### Templating Engines / Runner
 
-*   [EJS (⭐7.6k)](https://github.com/mde/ejs) - Effective JavaScript templating.
+*   [EJS (⭐7.7k)](https://github.com/mde/ejs) - Effective JavaScript templating.
 
 ### Validation / Runner
 
@@ -18,7 +18,7 @@
 
 ### Misc / Other
 
-*   [obetomuniz/awesome-webcomponents (⭐628)](https://github.com/obetomuniz/awesome-webcomponents)
+*   [obetomuniz/awesome-webcomponents (⭐631)](https://github.com/obetomuniz/awesome-webcomponents)
 
 ## [2. Awesome Appsec](/content/paragonie/awesome-appsec/README.md)
 
@@ -32,7 +32,7 @@ Developed from the materials of NYU Poly's old Penetration Testing and Vulnerabi
 
 ### Distributed Media Processing
 
-*   [StormCV (⭐168)](https://github.com/sensorstorm/StormCV) - Apache Storm + OpenCV = large scale distributed image and video analysis.
+*   [StormCV (⭐167)](https://github.com/sensorstorm/StormCV) - Apache Storm + OpenCV = large scale distributed image and video analysis.
 
 ## [4. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 

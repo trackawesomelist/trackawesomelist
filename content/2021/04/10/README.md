@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 10, 2021
 
-18 awesome lists updated today.
+17 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,38 +10,38 @@
 
 ### Python / Trading & Backtesting
 
-*   [AlphaPy (⭐1.1k)](https://github.com/ScottfreeLLC/AlphaPy) - Automated Machine Learning \[AutoML] with Python, scikit-learn, Keras, XGBoost, LightGBM, and CatBoost
-*   [jesse (⭐5.5k)](https://github.com/jesse-ai/jesse) - An advanced crypto trading bot written in Python
+*   [AlphaPy (⭐1.4k)](https://github.com/ScottfreeLLC/AlphaPy) - Automated Machine Learning \[AutoML] with Python, scikit-learn, Keras, XGBoost, LightGBM, and CatBoost
+*   [jesse (⭐5.9k)](https://github.com/jesse-ai/jesse) - An advanced crypto trading bot written in Python
 
 ### Python / Time Series
 
-*   [Facebook Prophet (⭐18k)](https://github.com/facebook/prophet) - Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.
+*   [Facebook Prophet (⭐19k)](https://github.com/facebook/prophet) - Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.
 
 ### Rust / Data Visualization
 
-*   [QuantMath (⭐360)](https://github.com/MarcusRainbow/QuantMath) - Financial maths library for risk-neutral pricing and risk
+*   [QuantMath (⭐375)](https://github.com/MarcusRainbow/QuantMath) - Financial maths library for risk-neutral pricing and risk
 
 ## [2. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Task Management & To-do Lists
 
-*   [Focalboard](https://www.focalboard.com/) - Define, organize, track and manage work across individuals and teams (alternative to Trello, Notion, and Asana). ([Source Code (⭐21k)](https://github.com/mattermost/focalboard), [Clients](https://www.focalboard.com/download/personal-edition/desktop/)) `MIT/AGPL-3.0/Apache-2.0` `Nodejs/Go/Docker`
+*   [Focalboard](https://www.focalboard.com/) - Define, organize, track and manage work across individuals and teams (alternative to Trello, Notion, and Asana). ([Source Code (⭐23k)](https://github.com/mattermost/focalboard), [Clients](https://www.focalboard.com/download/personal-edition/desktop/)) `MIT/AGPL-3.0/Apache-2.0` `Nodejs/Go/Docker`
 
 ## [3. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Development / Devops
 
-*   [k9s (⭐25k)](https://github.com/derailed/k9s) - Manage Kubernetes Clusters.
+*   [k9s (⭐27k)](https://github.com/derailed/k9s) - Manage Kubernetes Clusters.
 
 ## [4. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Templates / Vue 3
 
-*   [vue-pure-admin (⭐15k)](https://github.com/xiaoxian521/vue-pure-admin) - Background management template based on Vue3, TypeScript, Tailwind CSS, element-plus.
+*   [vue-pure-admin (⭐17k)](https://github.com/xiaoxian521/vue-pure-admin) - Background management template based on Vue3, TypeScript, Tailwind CSS, element-plus.
 
 ### Vue / Helpers
 
-*   ![v3](https://img.shields.io/badge/-v3-35495e) [vite-plugin-vue-gql (⭐212)](https://github.com/wheatjs/vite-plugin-vue-gql) - GraphQL Tags for your Vue SFC.
+*   ![v3](https://img.shields.io/badge/-v3-35495e) [vite-plugin-vue-gql (⭐213)](https://github.com/wheatjs/vite-plugin-vue-gql) - GraphQL Tags for your Vue SFC.
 
 ## [5. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
@@ -53,25 +53,25 @@
 
 ### React Component Libraries
 
-*   [ant-design (⭐90k)](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
+*   [ant-design (⭐93k)](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 
 ### React Charts
 
-*   [recharts (⭐22k)](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
+*   [recharts (⭐24k)](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 *   [victory (⭐11k)](https://github.com/FormidableLabs/victory) - A collection of composable React components for building interactive data visualizations
 *   [react-vis (⭐8.7k)](https://github.com/uber/react-vis) - Data Visualization Components
 *   [nivo (⭐13k)](https://github.com/plouc/nivo) - Provides a rich set of data visualization components built on top of the D3 and React libraries
 
 ### React Renderers
 
-*   [react-three-fiber (⭐26k)](https://github.com/pmndrs/react-three-fiber) - A React renderer for Three.js
-*   [react-pdf (⭐14k)](https://github.com/diegomura/react-pdf) - Create PDF files using React
-*   [react-figma (⭐2.4k)](https://github.com/react-figma/react-figma) - A React renderer for Figma
+*   [react-three-fiber (⭐28k)](https://github.com/pmndrs/react-three-fiber) - A React renderer for Three.js
+*   [react-pdf (⭐15k)](https://github.com/diegomura/react-pdf) - Create PDF files using React
+*   [react-figma (⭐2.6k)](https://github.com/react-figma/react-figma) - A React renderer for Figma
 
 ### React Graphics and Animations
 
-*   [react-spring (⭐27k)](https://github.com/pmndrs/react-spring) - A spring physics based React animation library
-*   [framer-motion (⭐22k)](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React
+*   [react-spring (⭐28k)](https://github.com/pmndrs/react-spring) - A spring physics based React animation library
+*   [framer-motion (⭐26k)](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React
 
 ## [7. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
@@ -103,54 +103,44 @@
 *   [DotNet & More](https://more.dotnet.ru) - Podcast about .NET development and more. Hosted by [Aleksandr Kugushev](https://github.com/kugushev) and [Artem Akulyakov](https://github.com/oxffaa).
 *   [Solo on .NET](https://youtube.com/playlist?list=PLAFX7TSEV7SOqEQKnrrFiV7bUY8kN5Qof) - Podcast about software development (programming). Discussed topics are C#, F#, C++, .NET, Visual Studio, Java, CUDA, Xeon Phi, FPGA and much more. Hosted by [Dmitri Nesteruk](https://github.com/nesteruk).
 
-## [11. Awesome Arch](/content/PandaFoss/Awesome-Arch/README.md)
-
-### Arch Linux Installers / Specific purpose
-
-*   [Anarchy](https://anarchyinstaller.gitlab.io) - A simple and intuitive Arch Linux installer.
-
-## [12. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [11. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Audio
 
-*   [ni-media (⭐244)](https://github.com/NativeInstruments/ni-media) - C++ library for reading and writing audio files. \[MIT]
+*   [ni-media (⭐248)](https://github.com/NativeInstruments/ni-media) - C++ library for reading and writing audio files. \[MIT]
 
 ### JSON
 
-*   [yyjson (⭐3k)](https://github.com/ibireme/yyjson) - A high performance JSON library written in ANSI C. \[MIT]
+*   [yyjson (⭐3.2k)](https://github.com/ibireme/yyjson) - A high performance JSON library written in ANSI C. \[MIT]
 
 ### Networking
 
-*   [cpp-httplib (⭐13k)](https://github.com/yhirose/cpp-httplib) - A single file C++11 header-only HTTP/HTTPS server library. \[MIT]
+*   [cpp-httplib (⭐14k)](https://github.com/yhirose/cpp-httplib) - A single file C++11 header-only HTTP/HTTPS server library. \[MIT]
 
-## [13. Awesome Nix](/content/nix-community/awesome-nix/README.md)
+## [12. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
 ### Deployment Tools / Discovery
 
-*   [pushnix (⭐31)](https://github.com/arnarg/pushnix) - Simple cli utility that pushes NixOS configuration and triggers a rebuild using ssh.
+*   [pushnix (⭐34)](https://github.com/arnarg/pushnix) - Simple cli utility that pushes NixOS configuration and triggers a rebuild using ssh.
 
-### Command-Line Tools / Discovery
-
-*   [nixpkgs-fmt (⭐580)](https://github.com/nix-community/nixpkgs-fmt) - Nix code formatter for nixpkgs.
-
-## [14. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [13. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### C
 
-*   [cl-cxx-jit (⭐61)](https://github.com/Islam0mar/CL-CXX-JIT) -  Common Lisp and C++ interoperation with JIT. [MIT](https://opensource.org/licenses/MIT).
+*   [cl-cxx-jit (⭐67)](https://github.com/Islam0mar/CL-CXX-JIT) -  Common Lisp and C++ interoperation with JIT. [MIT](https://opensource.org/licenses/MIT).
 
 ### Shells, shells interfaces / Third-party APIs
 
-*   [Lish (⭐102)](https://github.com/nibbula/lish) - `lish` may someday be a lisp shell. [GPL3](http://www.gnu.org/copyleft/gpl.html).
+*   [Lish (⭐110)](https://github.com/nibbula/lish) - `lish` may someday be a lisp shell. [GPL3](http://www.gnu.org/copyleft/gpl.html).
     *   supports tab-completion of executables in the path and Lisp symbols, allows to write and to mix shell commands and Lisp code, has a tiny REPL and an interactive debugger, and more.
 
-## [15. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [14. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### IDE and Code Editing
 
 *   [Lazarus](https://www.lazarus-ide.org/) — Lazarus is a Delphi-compatible cross-platform IDE for Rapid Application Development.
 
-## [16. Awesome Powershell](/content/janikvonrotz/awesome-powershell/README.md)
+## [15. Awesome Powershell](/content/janikvonrotz/awesome-powershell/README.md)
 
 ### Podcasts
 
@@ -160,7 +150,7 @@
 
 *   [Oh-My-Posh (⭐8.2k)](https://github.com/jandedobbeleer/oh-my-posh) - Tons of beautiful theme that can be enabled by one single command (includes many awesome powerline theme).
 
-## [17. Public Apis](/content/public-apis/public-apis/README.md)
+## [16. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Currency Exchange
 
@@ -204,7 +194,7 @@
 
 
 
-## [18. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [17. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Audio and Video Tools / File Sharing
 

@@ -74,13 +74,13 @@
 
 ### Projects Using Seed
 
-*   [Music composer (⭐5)](https://github.com/ethanboxx/planters-rdconf-hackathon-project) - A basic music composition app.
+*   [Music composer (⭐6)](https://github.com/ethanboxx/planters-rdconf-hackathon-project) - A basic music composition app.
 
 ## [8. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
 ### Extensions
 
-*   [next-joi (⭐113)](https://github.com/codecoolture/next-joi) - Validate Next.js API Routes, with *joi*.
+*   [next-joi (⭐112)](https://github.com/codecoolture/next-joi) - Validate Next.js API Routes, with *joi*.
 
 ## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

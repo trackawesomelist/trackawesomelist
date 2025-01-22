@@ -68,7 +68,7 @@
 
 ### Image Processing
 
-*   [TinyEXIF (⭐108)](https://github.com/cdcseacave/TinyEXIF) - Tiny ISO-compliant C++ EXIF and XMP parsing library for JPEG. \[MIT]
+*   [TinyEXIF (⭐115)](https://github.com/cdcseacave/TinyEXIF) - Tiny ISO-compliant C++ EXIF and XMP parsing library for JPEG. \[MIT]
 
 ---
 

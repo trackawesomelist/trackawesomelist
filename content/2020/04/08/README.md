@@ -80,7 +80,7 @@
 
 ### Converters
 
-*   [Zolang (⭐145)](https://github.com/Zolang/Zolang) :penguin: - A DSL for generating code in multiple programming languages.
+*   [Zolang (⭐148)](https://github.com/Zolang/Zolang) :penguin: - A DSL for generating code in multiple programming languages.
 
 ### Patterns
 
@@ -88,11 +88,11 @@
 
 ### Animation
 
-*   [Elephant (⭐138)](https://github.com/s2mr/Elephant) - Elegant SVG animation kit.
+*   [Elephant (⭐140)](https://github.com/s2mr/Elephant) - Elegant SVG animation kit.
 
 ### API
 
-*   [GitHubAPI (⭐85)](https://github.com/serhii-londar/GithubAPI) - Implementation of GitHub REST API v3.
+*   [GitHubAPI (⭐86)](https://github.com/serhii-londar/GithubAPI) - Implementation of GitHub REST API v3.
 
 ### Multi Database
 
@@ -100,11 +100,11 @@
 
 ### XML
 
-*   [XMLCoder (⭐786)](https://github.com/MaxDesiatov/XMLCoder) - XMLEncoder & XMLDecoder based on Codable protocols from the standard library.
+*   [XMLCoder (⭐801)](https://github.com/MaxDesiatov/XMLCoder) - XMLEncoder & XMLDecoder based on Codable protocols from the standard library.
 
 ### Images / Barcode
 
-*   [FMPhotoPicker (⭐759)](https://github.com/congnd/FMPhotoPicker) - A modern, simple and zero-dependency photo picker with an elegant and customizable image editor.
+*   [FMPhotoPicker (⭐771)](https://github.com/congnd/FMPhotoPicker) - A modern, simple and zero-dependency photo picker with an elegant and customizable image editor.
 
 ### Layout / Barcode
 
@@ -117,7 +117,7 @@
 ### UI / Barcode
 
 *   [Material Components for iOS (⭐4.7k)](https://github.com/material-components/material-components-ios) - Modular and customizable Material Design UI components.
-*   [YMTreeMap (⭐131)](https://github.com/yahoo/YMTreeMap) - Treemap / Heatmap layout engine, based on Squarified.
+*   [YMTreeMap (⭐137)](https://github.com/yahoo/YMTreeMap) - Treemap / Heatmap layout engine, based on Squarified.
 
 ### UITableView / Barcode
 
@@ -125,7 +125,7 @@
 
 ### Serverless / Barcode
 
-*   [Azure Functions for Swift (⭐88)](https://github.com/SalehAlbuga/azure-functions-swift) :penguin: - Swift Worker for Azure Functions.
+*   [Azure Functions for Swift (⭐89)](https://github.com/SalehAlbuga/azure-functions-swift) :penguin: - Swift Worker for Azure Functions.
 
 ## [7. Awesome Elm](/content/sporto/awesome-elm/README.md)
 
@@ -241,7 +241,7 @@
 
 ### CSV
 
-*   [CodableCSV (⭐446)](https://github.com/dehesa/CodableCSV) - Read and write CSV files row-by-row & field-by-field or through Swift's Codable interface.
+*   [CodableCSV (⭐467)](https://github.com/dehesa/CodableCSV) - Read and write CSV files row-by-row & field-by-field or through Swift's Codable interface.
 
 ---
 

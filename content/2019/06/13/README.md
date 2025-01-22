@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 13, 2019
 
-7 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -34,31 +34,21 @@
 
 *   [Animated Icon Button (⭐11)](https://github.com/HankiDesign/DOFavoriteButton.Xamarin) - An animated icon button for Xamarin.iOS.
 
-## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / UI Components
-
-*   [simple-vue2-datetimepicker (⭐3)](https://github.com/jamespjarvis/simple-vue2-datetimepicker) - A simple, easy to use vue.js component for date and time picking. :new:
-
-### Components & Libraries / UI Utilities
-
-*   [vue-backtotop (⭐184)](https://github.com/caiofsouza/vue-backtotop) - A Back-to-top component for Vue.js, which scroll page to the top when clicked.
-
-## [6. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
+## [5. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Monetization / Preferences
 
-*   [Square In-App Payments SDK (⭐331)](https://github.com/square/in-app-payments-flutter-plugin) <!--stargazers:square/in-app-payments-flutter-plugin--> - Take payments by embedding a card entry form in your app that produces nonces from customer-provided card information or digital wallets by [Square](https://github.com/orgs/square)
+*   [Square In-App Payments SDK (⭐340)](https://github.com/square/in-app-payments-flutter-plugin) <!--stargazers:square/in-app-payments-flutter-plugin--> - Take payments by embedding a card entry form in your app that produces nonces from customer-provided card information or digital wallets by [Square](https://github.com/orgs/square)
 
-## [7. Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md)
+## [6. Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md)
 
 ### Github Libraries / Randomized Algorithms
 
 *   C++
-    *   [by @xtaci (⭐5.2k)](https://github.com/xtaci/algorithms)
-    *   [by @PetarV- (⭐634)](https://github.com/PetarV-/Algorithms)
-    *   [by @faheel (⭐507)](https://github.com/faheel/Algos)
-    *   [by @sslotin (⭐180)](http://github.com/sslotin/algo)
+    *   [by @xtaci (⭐5.3k)](https://github.com/xtaci/algorithms)
+    *   [by @PetarV- (⭐645)](https://github.com/PetarV-/Algorithms)
+    *   [by @faheel (⭐510)](https://github.com/faheel/Algos)
+    *   [by @sslotin (⭐193)](http://github.com/sslotin/algo)
 
 ---
 

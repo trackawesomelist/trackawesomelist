@@ -32,46 +32,21 @@
 
 ### Miscellaneous
 
-*   [rain (⭐121)](https://github.com/DOSAYGO-Research/rain) - The fastest 128-bit and 256-bit non-crypto hash, passes all tests, and under 140 source lines of code. \[Apache-2.0]
+*   [rain (⭐123)](https://github.com/DOSAYGO-Research/rain) - The fastest 128-bit and 256-bit non-crypto hash, passes all tests, and under 140 source lines of code. \[Apache-2.0]
 
 ## [5. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
-### Projects / API Management
-
-*   [Gravitee.io API Management (⭐209) (⭐207)](https://github.com/gravitee-io/gravitee-api-management) - A flexible, lightweight, and open-source API management solution that provides comprehensive API management capabilities and helps you manage your APIs with ease.
-*   [WSO2 API Manager (⭐864) (⭐863)](https://github.com/wso2/product-apim) - A fully open-source API management platform that provides comprehensive API management capabilities and allows you to manage APIs with ease.
-
 ### Projects / API Design
 
-*   [OpenAPI Diff (⭐848) (⭐844)](https://github.com/OpenAPITools/openapi-diff) - Compare OpenAPI specs with version control and visualize the differences in HTML or Markdown format.
 *   [OpenAPI Style Validator (⭐213) (⭐214)](https://github.com/OpenAPITools/openapi-style-validator) - Ensure that your OpenAPI specs meet your organization's standards with this flexible and customizable style validator.
-
-### Projects / API Documentation
-
-*   [DapperDox (⭐411) (⭐410)](https://github.com/DapperDox/dapperdox) - An open-source API documentation generator and server for OpenAPI/Swagger specifications, with customizable documentation, automated updates, and easy sharing.
-*   [Zudoku (⭐116) (⭐116)](https://github.com/zuplo/zudoku) - An open-source, OpenAPI powered, highly customizable API documentation framework for building quality developer experiences.
-
-### Projects / Data Mapping Solution
-
-*   [JSLT (⭐643) (⭐641)](https://github.com/schibsted/jslt) - A complete query and transformation language for JSON that is inspired by jq, XPath, and XQuery. With JSLT, software engineers can quickly and easily transform JSON data to meet their needs.
-
-### Projects / ESB
-
-*   [WSO2 Enterprise Integrator (⭐378) (⭐376)](https://github.com/wso2/product-ei) - An API-centric, cloud-native, and distributed integration platform designed to provide a robust solution for software engineers.
 
 ### Projects / Workflow engine
 
 *   [Apache Airflow (⭐38k) (⭐38k)](https://github.com/apache/airflow) - A platform that allows you to create, schedule, and monitor workflows programmatically, making it easier to manage and automate complex data pipelines.
-*   [Bonita (⭐156) (⭐155)](https://github.com/bonitasoft/bonita-engine) - An open-source BPMN engine that comes with a designer and optional development environment, making it easier to build and automate complex business processes.
-
-### Resources / Data Formats
-
-*   [NDJSON (⭐695) (⭐690)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
-*   [YAML (⭐355) (⭐353)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
 ### Resources / Structure and Validation
 
-*   [JSON Schema (⭐3.9k) (⭐3.9k)](https://github.com/json-schema-org/json-schema-spec) - A powerful tool for validating the structure of JSON data. JSON Schema enables developers to ensure that JSON data conforms to a specific structure, making it easier to process and manipulate.
+*   [JSON Schema (⭐3.9k) (⭐4k)](https://github.com/json-schema-org/json-schema-spec) - A powerful tool for validating the structure of JSON data. JSON Schema enables developers to ensure that JSON data conforms to a specific structure, making it easier to process and manipulate.
 
 ## [6. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -83,11 +58,11 @@
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [Enclosed](https://enclosed.cc/) - A minimalistic web application designed for sending private and secure notes. ([Demo](https://enclosed.cc/), [Source Code (⭐1.1k)](https://github.com/CorentinTh/enclosed)) `Apache-2.0` `Docker/Nodejs`
+*   [Enclosed](https://enclosed.cc/) - A minimalistic web application designed for sending private and secure notes. ([Demo](https://enclosed.cc/), [Source Code (⭐1.2k)](https://github.com/CorentinTh/enclosed)) `Apache-2.0` `Docker/Nodejs`
 
 ### Software / Money, Budgeting & Management
 
-*   [YAFFA](https://www.yaffa.cc) - Personal finance web application, that can be used to keep track of your money, expenses, budgets, and investments. It also helps with long-term financial planning. ([Demo](https://sandbox.yaffa.cc), [Source Code (⭐3)](https://github.com/kantorge/yaffa)) `MIT` `PHP`
+*   [YAFFA](https://www.yaffa.cc) - Personal finance web application, that can be used to keep track of your money, expenses, budgets, and investments. It also helps with long-term financial planning. ([Demo](https://sandbox.yaffa.cc), [Source Code (⭐7)](https://github.com/kantorge/yaffa)) `MIT` `PHP`
 
 ## [8. Magictools](/content/ellisonleao/magictools/README.md)
 
@@ -107,7 +82,7 @@
 
 ### Drag and Drop / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ng-keyboard-sort (⭐2)](https://github.com/johnhwhite/ng-keyboard-sort) - Library to add keyboard commands for elements that also use CDK drag and drop sorting.
+*   [ng-keyboard-sort (⭐3)](https://github.com/johnhwhite/ng-keyboard-sort) - Library to add keyboard commands for elements that also use CDK drag and drop sorting.
 
 ### Form Controls / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -121,4 +96,5 @@
 
 ---
 
+- Prev: [Dec 26, 2024](/content/2024/12/26/README.md)
 - Next: [Dec 24, 2024](/content/2024/12/24/README.md)

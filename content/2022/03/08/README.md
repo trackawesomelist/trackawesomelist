@@ -31,7 +31,7 @@
 
 ### Concurrency
 
-*   [async+ (⭐188)](https://github.com/async-plus/async-plus) :penguin: - A chainable interface for Swift 5.5's async/await.
+*   [async+ (⭐196)](https://github.com/async-plus/async-plus) :penguin: - A chainable interface for Swift 5.5's async/await.
 
 ## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -49,28 +49,28 @@
 
 ### Libraries/Frameworks / Misc
 
-*   [evoasm/kasm (⭐42)](https://github.com/evoasm/kasm) - x64/x86-64 assembler and execution library
+*   [evoasm/kasm (⭐43)](https://github.com/evoasm/kasm) - x64/x86-64 assembler and execution library
 
 ## [7. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md)
 
 ### Time Series Data
 
-*   [Chaos Genius (⭐708)](https://github.com/chaos-genius/chaos_genius) - ML powered analytics engine for outlier/anomaly detection and root cause analysis..
+*   [Chaos Genius (⭐744)](https://github.com/chaos-genius/chaos_genius) - ML powered analytics engine for outlier/anomaly detection and root cause analysis..
 
 ## [8. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Media / Image Picker
 
-*   [photo\_manager (⭐653)](https://github.com/fluttercandies/flutter_photo_manager) <!--stargazers:fluttercandies/flutter_photo_manager--> - Provides assets (image/video/audio) abstraction management APIs that can be easily integrated with custom UI widgets by [CaiJingLong](https://github.com/CaiJingLong) and [Alex Li](https://github.com/AlexV525).
+*   [photo\_manager (⭐704)](https://github.com/fluttercandies/flutter_photo_manager) <!--stargazers:fluttercandies/flutter_photo_manager--> - Provides assets (image/video/audio) abstraction management APIs that can be easily integrated with custom UI widgets by [CaiJingLong](https://github.com/CaiJingLong) and [Alex Li](https://github.com/AlexV525).
 
 ## [9. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### DOM / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ng-let (⭐48)](https://github.com/nigrosimone/ng-let) - Structural directive for sharing data as local variable into html component template.
-*   [ng-for-track-by-property (⭐29)](https://github.com/nigrosimone/ng-for-track-by-property) - Angular global trackBy property directive with strict type checking.
+*   [ng-let (⭐51)](https://github.com/nigrosimone/ng-let) - Structural directive for sharing data as local variable into html component template.
+*   [ng-for-track-by-property (⭐30)](https://github.com/nigrosimone/ng-for-track-by-property) - Angular global trackBy property directive with strict type checking.
 
-### State Management / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+### Additional / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ng-simple-state (⭐40)](https://github.com/nigrosimone/ng-simple-state) - Simple state management in Angular with only Services and RxJS.
 

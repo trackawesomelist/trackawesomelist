@@ -15,7 +15,7 @@
 
 ## [2. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
 
-### Animations / Checkbox
+### Animations
 
 *   [svelte-typewriter](https://github.com/henriquehbr/svelte-typewriter) - A simple and reusable typewriter effect for your Svelte applications.
 
@@ -29,7 +29,7 @@
 
 ### Utilities / Game Engine resources
 
-*   [Dart Code Metrics (⭐856)](https://github.com/dart-code-checker/dart-code-metrics) <!--stargazers:dart-code-checker/dart-code-metrics--> - Additional linter which reports code metrics, checks for anti-patterns and provides additional rules for the Dart analyzer by [Dart Code Checker team](https://github.com/dart-code-checker).
+*   [Dart Code Metrics (⭐862)](https://github.com/dart-code-checker/dart-code-metrics) <!--stargazers:dart-code-checker/dart-code-metrics--> - Additional linter which reports code metrics, checks for anti-patterns and provides additional rules for the Dart analyzer by [Dart Code Checker team](https://github.com/dart-code-checker).
 
 ## [5. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -99,7 +99,7 @@
   CORS: Yes
 
 
-- API: [CORS Proxy (⭐35)](https://github.com/burhanuday/cors-proxy)
+- API: [CORS Proxy (⭐37)](https://github.com/burhanuday/cors-proxy)
 
   Description: Get around the dreaded CORS error by using this proxy as a middle man
 
@@ -143,7 +143,7 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-tauri (⭐152)](https://github.com/amrbashir/vite-plugin-tauri) - Integrate Tauri in a Vite project to build cross-platform apps.
+*   [vite-plugin-tauri (⭐168)](https://github.com/amrbashir/vite-plugin-tauri) - Integrate Tauri in a Vite project to build cross-platform apps.
 
 ## [12. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 
@@ -161,7 +161,7 @@
 
 ### Files and Directories / Files
 
-*   [RecoverPy (⭐1.2k)](https://github.com/PabloLec/RecoverPy) - Recover overwritten or deleted files.
+*   [RecoverPy (⭐1.3k)](https://github.com/PabloLec/RecoverPy) - Recover overwritten or deleted files.
 
 ## [15. Awesome Stacks Chain](/content/friedger/awesome-stacks-chain/README.md)
 
@@ -173,7 +173,7 @@
 
 ### Modules / Template engine
 
-*   [handlebars (⭐29)](https://github.com/alosaur/handlebars) - Handlebars template engine for deno
+*   [handlebars (⭐30)](https://github.com/alosaur/handlebars) - Handlebars template engine for deno
 *   [mustache (⭐7)](https://github.com/alosaur/mustache) - Mustache template engine for deno
 
 ## [17. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)

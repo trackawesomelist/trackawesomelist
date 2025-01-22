@@ -26,15 +26,15 @@
 
 ### AppImage consumption tools / Desktop integration
 
-*   [AppImage Desktop Maker (⭐5)](https://github.com/Alexsussa/AIDM) - Creates menu entries for AppImages without the need for a daemon.
+*   [AppImage Desktop Maker (⭐14)](https://github.com/Alexsussa/AIDM) - Creates menu entries for AppImages without the need for a daemon.
 
 ### AppImage consumption tools / Sandboxes
 
-*   [Firejail (⭐4.9k)](https://github.com/netblue30/firejail) - Optional sandbox with support for AppImage built in.
+*   [Firejail (⭐5.8k)](https://github.com/netblue30/firejail) - Optional sandbox with support for AppImage built in.
 
 ### AppImage consumption tools / Package managers
 
-*   [Zap (⭐409)](https://github.com/srevinsaju/zap) - AppImage package manager. Downloads the AppImage if it does not exist. If it already exists, updates it with AppImageUpdate. Integrates AppImage into the system.
+*   [Zap (⭐510)](https://github.com/srevinsaju/zap) - AppImage package manager. Downloads the AppImage if it does not exist. If it already exists, updates it with AppImageUpdate. Integrates AppImage into the system.
 
 ### AppImage developer tools / Metadata tools
 

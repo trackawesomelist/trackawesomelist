@@ -62,7 +62,7 @@
 
 ### Third-Party Packages / Admin
 
-*   [django-related-admin (⭐69)](https://github.com/PetrDlouhy/django-related-admin) - A helper library that allows you to write list\_displays accross foreign key relationships.
+*   [django-related-admin (⭐70)](https://github.com/PetrDlouhy/django-related-admin) - A helper library that allows you to write list\_displays across foreign key relationships.
 
 ## [7. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/README.md)
 
@@ -82,7 +82,7 @@
 
 ### Apps
 
-*   [njt.now.sh](https://njt.now.sh) - npm jump to 🐸 (package navigation shortcuts you dreamed about). Partially statically-rendered, partially deployed as lambda. Automatically updated on each commit to the [github repo (⭐311)](https://github.com/kachkaev/njt), thanks to Now integration.
+*   [njt.now.sh](https://njt.now.sh) - npm jump to 🐸 (package navigation shortcuts you dreamed about). Partially statically-rendered, partially deployed as lambda. Automatically updated on each commit to the [github repo (⭐314)](https://github.com/kachkaev/njt), thanks to Now integration.
 
 ## [9. Awesome Gatling](/content/aliesbelik/awesome-gatling/README.md)
 
@@ -90,11 +90,11 @@
 
 *   [gatling-bolt (⭐2)](https://github.com/sarmbruster/gatling-bolt) - Support Neo4j Bolt protocol for Gatling.
 *   [gatling-zeromq (⭐5)](https://github.com/softwaremill/gatling-zeromq) - A Gatling stress test plugin for ZeroMQ protocol.
-*   [gatling-dubbo (⭐149)](https://github.com/youzan/gatling-dubbo) - A Gatling plugin for running load tests on Apache Dubbo.
+*   [gatling-dubbo (⭐151)](https://github.com/youzan/gatling-dubbo) - A Gatling plugin for running load tests on Apache Dubbo.
 
 ### Tools / Miscellaneous
 
-*   [dakiya (⭐36)](https://github.com/rupeshmore/dakiya) - Convert Postman collections to Gatling scripts.
+*   [dakiya (⭐37)](https://github.com/rupeshmore/dakiya) - Convert Postman collections to Gatling scripts.
 
 ### CI / Miscellaneous
 
@@ -119,7 +119,7 @@
 
 ### Configuration & Discovery / Scala
 
-*   [Nacos (⭐30k)](https://github.com/alibaba/nacos) - Easy-to-use dynamic service discovery, configuration and service management platform.
+*   [Nacos (⭐31k)](https://github.com/alibaba/nacos) - Easy-to-use dynamic service discovery, configuration and service management platform.
 
 ### Serialization / Scala
 
@@ -134,7 +134,7 @@
 
 ## [13. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
-### Datasets / Book Deals (Affiliated) 🛍
+### Datasets / Book Deals (Affiliated)
 
 *   [IBM Asset Dataset](https://developer.ibm.com/exchanges/data/)
 
@@ -149,18 +149,18 @@
 
 ### Plugins / Languages and Environments
 
-*   [HTML (⭐147)](https://github.com/yeonjuan/html-eslint) - ESLint plugin for HTML.
+*   [HTML (⭐157)](https://github.com/yeonjuan/html-eslint) - ESLint plugin for HTML.
 
 ## [16. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
-### Plugins and scripts / Various Godot versions
+### Plugins and scripts / Godot 3
 
-*   [2D Destructible Objects (⭐391)](https://github.com/hiulit/Godot-3-2D-Destructible-Objects) - A script that takes a sprite, divides it into blocks and makes them explode💥 (Godot 3.x).
-*   [CRT Shader (⭐297)](https://github.com/hiulit/Godot-3-2D-CRT-Shader) - A Godot shader that simulates CRT Displays with many shader parameters (Godot 3.x).
+*   [2D Destructible Objects (⭐397)](https://github.com/hiulit/Godot-3-2D-Destructible-Objects) - A script that takes a sprite, divides it into blocks and makes them explode💥.
+*   [CRT Shader (⭐305)](https://github.com/hiulit/Godot-3-2D-CRT-Shader) - A Godot shader that simulates CRT Displays with many shader parameters.
 
 ### Other / Godot version unknown
 
-*   [RetroPie Godot Game Engine "Emulator" (⭐91)](https://github.com/hiulit/RetroPie-Godot-Game-Engine-Emulator) - A scriptmodule to install a Godot "emulator" for RetroPie.
+*   [RetroPie Godot Game Engine "Emulator" (⭐96)](https://github.com/hiulit/RetroPie-Godot-Game-Engine-Emulator) - A scriptmodule to install a Godot "emulator" for RetroPie.
 
 ## [17. Awesome PICO 8](/content/pico-8/awesome-PICO-8/README.md)
 
@@ -172,7 +172,7 @@
 
 ### Utilities
 
-*   [Contextual logging (⭐21)](https://github.com/reactiverse/reactiverse-contextual-logging) - Mapped Diagnostic Context (MDC) that works with the Vert.x event-loop model.
+*   [Contextual logging (⭐34)](https://github.com/reactiverse/reactiverse-contextual-logging) - Mapped Diagnostic Context (MDC) that works with the Vert.x event-loop model.
 
 ## [19. Search Engine Optimization](/content/marcobiedermann/search-engine-optimization/README.md)
 
@@ -182,9 +182,9 @@
 
 ## [20. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
-### Software / Photo and Video Galleries
+### Software / Photo Galleries
 
-*   [LibrePhotos (⭐6.8k)](https://github.com/LibrePhotos/librephotos) - Self hosted wannabe Google Photos clone, with a slight focus on cool graphs. ([Clients](https://docs.librephotos.com/docs/user-guide/mobile/)) `MIT` `Python/Docker`
+*   [LibrePhotos (⭐7.1k)](https://github.com/LibrePhotos/librephotos) - Self hosted wannabe Google Photos clone, with a slight focus on cool graphs. ([Clients](https://docs.librephotos.com/docs/user-guide/mobile/)) `MIT` `Python/Docker`
 
 ## [21. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
 

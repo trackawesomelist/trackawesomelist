@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 17, 2020
 
-15 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -69,7 +69,7 @@
 
 ### GUI
 
-*   [Glimmer (⭐541)](https://github.com/AndyObtiva/glimmer) - Ruby DSL for SWT
+*   [Glimmer (⭐573)](https://github.com/AndyObtiva/glimmer) - Ruby DSL for SWT
 
 ### Web Crawling
 
@@ -85,7 +85,7 @@
 
 ### Graph databases
 
-*   [cl-agraph (⭐25)](https://github.com/vseloved/cl-agraph), a minimal client for AllegroGraph.
+*   [cl-agraph (⭐26)](https://github.com/vseloved/cl-agraph), a minimal client for AllegroGraph.
 
 ## [10. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
@@ -116,13 +116,7 @@
 
 *   [hotspot (⭐3.2k)](https://github.com/KDAB/hotspot) - The Linux perf GUI for performance analysis.
 
-## [14. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / UI Utilities
-
-*   [vue-component-media-queries (⭐74)](https://github.com/CyberAP/vue-component-media-queries) - MatchMedia component library for Vue.
-
-## [15. Awesome Yew](/content/jetli/awesome-yew/README.md)
+## [14. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Projects
 

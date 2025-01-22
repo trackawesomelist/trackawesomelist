@@ -43,13 +43,13 @@
 
 ### JavaScript Libraries
 
-*   [scure-btc-signer (⭐139)](https://github.com/paulmillr/scure-btc-signer) — audited & minimal library for creating, signing & decoding Bitcoin transactions. With Schnorr, Taproot, UTXO & PSBT.
+*   [scure-btc-signer (⭐169)](https://github.com/paulmillr/scure-btc-signer) — audited & minimal library for creating, signing & decoding Bitcoin transactions. With Schnorr, Taproot, UTXO & PSBT.
 
 ## [5. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
 
 ### CI/CD / Other
 
-*   [Jaypore CI (⭐36)](https://github.com/theSage21/jaypore_ci) - Simple, very flexible, powerful CI / CD / automation system configured in Python. Offline and local first.
+*   [Jaypore CI (⭐37)](https://github.com/theSage21/jaypore_ci) - Simple, very flexible, powerful CI / CD / automation system configured in Python. Offline and local first.
 
 ---
 

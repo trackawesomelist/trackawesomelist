@@ -12,20 +12,20 @@
 
 *   [DuckDuckGo](https://duckduckgo.com) - an Internet search engine that emphasizes protecting searchers' privacy.
 
-### Phone Number Research / Telegram
+### Phone Number Research / Steam
 
 *   [Reverse Phone Lookup](http://www.reversephonelookup.com/) - Detailed information about phone carrier, region, service provider, and switch information.
 
-### Domain and IP Research / Telegram
+### Domain and IP Research / Steam
 
 *   [Who.is](https://who.is/) - Domain whois information.
 
-### Keywords Discovery and Research / Telegram
+### Keywords Discovery and Research / Steam
 
 *   [Google Adwords](http://adwords.google.com) - Get monthly keyword volume data and stats.
 *   [Google Trends](https://www.google.com/trends) - See how many users are searching for specific keywords.
 
-### Browsers / Telegram
+### Browsers / Steam
 
 *   [Tor Browser](https://www.torproject.org/projects/torbrowser.html.en) - Tor is a free software that prevents people from learning your location or browsing habits by letting you communicate anonymously on the Internet.
 
@@ -79,7 +79,7 @@
 
 ### Command Line / XML
 
-*   [tilix (⭐5.2k)](https://github.com/gnunn1/tilix) -  A tiling terminal emulator for Linux using GTK+ 3.
+*   [tilix (⭐5.4k)](https://github.com/gnunn1/tilix) -  A tiling terminal emulator for Linux using GTK+ 3.
 
 ---
 

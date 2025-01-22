@@ -16,7 +16,7 @@
 
 ### Templates / Preferences
 
-*   [The Gorgeous Login (⭐1.7k)](https://github.com/huextrat/TheGorgeousLogin) <!--stargazers:huextrat/TheGorgeousLogin--> - Design and smooth login template by [Hugo Extrat](https://github.com/huextrat)
+*   [The Gorgeous Login (⭐1.8k)](https://github.com/huextrat/TheGorgeousLogin) <!--stargazers:huextrat/TheGorgeousLogin--> - Design and smooth login template by [Hugo Extrat](https://github.com/huextrat)
 
 ## [3. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

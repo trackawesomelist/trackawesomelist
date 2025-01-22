@@ -16,14 +16,14 @@
 
 ### Others / Third-party APIs
 
-*   [numcl (⭐634)](https://github.com/numcl/numcl) - Numpy clone in Common Lisp. [LGPL3](https://www.gnu.org/licenses/lgpl-3.0.en.html).
+*   [numcl (⭐643)](https://github.com/numcl/numcl) - Numpy clone in Common Lisp. [LGPL3](https://www.gnu.org/licenses/lgpl-3.0.en.html).
 
 ## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Communication - Social Networks and Forums
 
-*   [BuddyPress](https://buddypress.org/about/) - Powerful plugin that takes your WordPress.org powered site beyond the blog with social-network features like user profiles, activity streams, user groups, and more. ([Source Code (⭐227)](https://github.com/buddypress/BuddyPress)) `GPL-2.0` `PHP`
-*   [Socialhome](https://socialhome.network) - Federated and decentralized profile builder and social network engine. ([Demo](https://socialhome.network/), [Source Code (⭐353)](https://github.com/jaywink/socialhome)) `AGPL-3.0` `Docker/Python`
+*   [BuddyPress](https://buddypress.org/about/) - Powerful plugin that takes your WordPress.org powered site beyond the blog with social-network features like user profiles, activity streams, user groups, and more. ([Source Code (⭐229)](https://github.com/buddypress/BuddyPress)) `GPL-2.0` `PHP`
+*   [Socialhome](https://socialhome.network) - Federated and decentralized profile builder and social network engine. ([Demo](https://socialhome.network/), [Source Code (⭐364)](https://github.com/jaywink/socialhome)) `AGPL-3.0` `Docker/Python`
 
 ## [4. Toolsforactivism](/content/drewrwilson/toolsforactivism/README.md)
 
@@ -224,7 +224,7 @@
 
 ### Themes
 
-*   [GOV.UK Theme (⭐120)](https://github.com/UKHomeOffice/keycloak-theme-govuk)
+*   [GOV.UK Theme (⭐126)](https://github.com/UKHomeOffice/keycloak-theme-govuk)
 
 ---
 

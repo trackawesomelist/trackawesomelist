@@ -22,7 +22,7 @@ Topics: Microservices, PHP, JavaScript, Docker\
 
 ### Misc
 
-*   [XcodeGen (⭐6.9k)](https://github.com/yonaskolb/XcodeGen) - Tool for generating Xcode projects from a YAML file and your project directory.
+*   [XcodeGen (⭐7.1k)](https://github.com/yonaskolb/XcodeGen) - Tool for generating Xcode projects from a YAML file and your project directory.
 
 ### Events
 
@@ -32,7 +32,7 @@ Topics: Microservices, PHP, JavaScript, Docker\
 
 ### Configuration
 
-*   [habitat (⭐83)](https://github.com/luckyframework/habitat) - Type safe configuration for your classes and modules
+*   [habitat (⭐84)](https://github.com/luckyframework/habitat) - Type safe configuration for your classes and modules
 
 ### Web Frameworks
 
@@ -42,17 +42,13 @@ Topics: Microservices, PHP, JavaScript, Docker\
 
 ### Mathematics
 
-*   [AutoDiff (⭐89)](https://github.com/alexshtf/autodiff) - AutoDiff is a library for quickly computing gradients of functions defined by expressions. Mainly useful in numerical optimization
+*   [AutoDiff (⭐94)](https://github.com/alexshtf/autodiff) - AutoDiff is a library for quickly computing gradients of functions defined by expressions. Mainly useful in numerical optimization
 
 ## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Tutorials
 
 *   [Vue2 ACL using CASL](https://medium.com/@sergiy.stotskiy/vue-acl-with-casl-781a374b987a) by Sergii Stotskyi
-
-### Projects Using Vue.js / Open Source
-
-*   [Coypu (⭐103)](https://github.com/bkzl/coypu) - Text-editor-like weekly planner
 
 ## [6. Awesome Preact](/content/preactjs/awesome-preact/README.md)
 

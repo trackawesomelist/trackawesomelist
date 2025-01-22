@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 21, 2018
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,13 +16,13 @@
 
 ### Audio Tools
 
-*   [fre:ac (⭐1.3k)](https://github.com/enzo1982/freac) - free audio converter. It supports audio CD ripping and tag editing.
-*   [Jack (⭐14)](https://github.com/jack-cli-cd-ripper/jack) - command-line CD ripper.
-*   [K3b (⭐134)](https://github.com/KDE/k3b) - is a full-featured CD/DVD/Blu-ray burning and ripping application.
-*   [lltag (⭐30)](https://github.com/bgoglin/lltag) - automatic command-line mp3/ogg/flac file tagger and renamer.
-*   [Rubyripper (⭐118)](https://github.com/bleskodev/rubyripper) - is a secure digital audio extraction application ("cd ripper") for Unix-like operating systems.
-*   [split2flac (⭐249)](https://github.com/ftrvxmtrx/split2flac) - split flac/ape/wv/wav + cue sheet into separate tracks
-*   [Whipper (⭐1.1k)](https://github.com/JoeLametta/whipper) - Python CD-DA ripper preferring accuracy over speed.
+*   [fre:ac (⭐1.5k)](https://github.com/enzo1982/freac) - free audio converter. It supports audio CD ripping and tag editing.
+*   [Jack (⭐15)](https://github.com/jack-cli-cd-ripper/jack) - command-line CD ripper.
+*   [K3b (⭐160)](https://github.com/KDE/k3b) - is a full-featured CD/DVD/Blu-ray burning and ripping application.
+*   [lltag (⭐31)](https://github.com/bgoglin/lltag) - automatic command-line mp3/ogg/flac file tagger and renamer.
+*   [Rubyripper (⭐129)](https://github.com/bleskodev/rubyripper) - is a secure digital audio extraction application ("cd ripper") for Unix-like operating systems.
+*   [split2flac (⭐256)](https://github.com/ftrvxmtrx/split2flac) - split flac/ape/wv/wav + cue sheet into separate tracks
+*   [Whipper (⭐1.2k)](https://github.com/JoeLametta/whipper) - Python CD-DA ripper preferring accuracy over speed.
 *   [X Audio Copy (⭐4)](https://github.com/giorgiofranceschi/xaudiocopy) - GTK and GNOME application for ripping CD-Audio and encoding in lossy and lossless audio formats.
 
 ### Music Programming
@@ -56,25 +56,19 @@
 *   [Deep learning and association rule mining for predicting drug response in cancer](https://doi.org/10.1101/070490) Konstantinos N. Vougas, Thomas Jackson, Alexander Polyzos, Michael Liontos, Elizabeth O. Johnson, Vassilis Georgoulias, Paul Townsend, Jiri Bartek, Vassilis G. Gorgoulis. (2016)
 *   [Superchords: decoding EEG signals in the millisecond range](https://doi.org/10.7287/peerj.preprints.1265v1) Rogerio Normand, Hugo Alexandre Ferreira. (2015)
 
-## [6. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
-
-### Housing
-
-*   [The Surf Office](https://www.thesurfoffice.com/home/) - Coworking & vacation space in Portugal, Canaries and California
-
-## [7. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/README.md)
+## [6. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/README.md)
 
 ### Awesome ClojureScript / Testing
 
 *   [cljs.test (⭐9k)](https://github.com/clojure/clojurescript/wiki/Testing) – Integrated test framework for ClojureScript (merged from [clojurescript.test (⭐166)](https://github.com/cemerick/clojurescript.test))
 
-## [8. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
+## [7. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 
 ### Serverless Framework Plugins
 
 *   [Cloudflare Workers (⭐156)](https://github.com/cloudflare/serverless-cloudflare-workers) - Provider plugin for Cloudflare Workers.
 
-## [9. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
+## [8. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
 ### Miscellaneous
 

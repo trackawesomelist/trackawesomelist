@@ -58,7 +58,7 @@
 
 ### Third-Party Packages / Caching
 
-*   [django-cachalot (⭐1.2k)](https://github.com/noripyt/django-cachalot) - Caches your Django ORM queries and automatically invalidates them.
+*   [django-cachalot (⭐1.3k)](https://github.com/noripyt/django-cachalot) - Caches your Django ORM queries and automatically invalidates them.
 *   [django-cacheops (⭐2.1k)](https://github.com/Suor/django-cacheops) - A slick ORM cache with automatic granular event-driven invalidation.
 
 ## [10. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
@@ -119,7 +119,7 @@
 
 ### GitHub Tools and Management / Docker Container Actions
 
-*   [Copybara Action (⭐69)](https://github.com/olivr/copybara-action) - Move and transform code between repositories (ideal to maintain several repos from one monorepo).
+*   [Copybara Action (⭐97)](https://github.com/olivr/copybara-action) - Move and transform code between repositories (ideal to maintain several repos from one monorepo).
 
 ## [18. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/README.md)
 
@@ -156,7 +156,7 @@
 
 ### Runtimes / Apache License
 
-*   [adawebpack (⭐48)](https://github.com/godunko/adawebpack) - GNAT RTL for WASM and bindings for Web API.
+*   [adawebpack (⭐56)](https://github.com/godunko/adawebpack) - GNAT RTL for WASM and bindings for Web API.
 
 ### Terminal User Interface / Apache License
 
@@ -166,13 +166,9 @@
 
 *   [engine-3d (⭐2)](https://github.com/zertovitch/engine-3d) - A 3D engine for DOS-talgics.
 
-### Database / Apache License
-
-*   [apq-base](http://www.ravenports.com/catalog/bucket_F2/apq-base/standard/) - APQ is a database interface library written in Ada95.
-
 ### Generation / Apache License
 
-*   [record-flux (⭐103)](https://github.com/Componolit/RecordFlux) - RecordFlux: Toolset for the formal specification of messages and the generation of verifiable binary parsers and message generators in SPARK.
+*   [record-flux (⭐111)](https://github.com/Componolit/RecordFlux) - RecordFlux: Toolset for the formal specification of messages and the generation of verifiable binary parsers and message generators in SPARK.
 
 ### Math / Apache License
 
@@ -181,8 +177,8 @@
 ### Cryptography / Apache License
 
 *   [threefish (⭐5)](https://github.com/jrcarter/Threefish) - Ada Implementation of the Threefish-256 Encryption Algorithm.
-*   [ada-crypto-library (⭐85)](https://github.com/cforler/Ada-Crypto-Library) - This is a crypto library for Ada with a nice API and is written for the i386 and x86\_64 hardware architecture.
-*   [spark-nacl (⭐112)](https://github.com/rod-chapman/SPARKNaCl) - SPARK 2014 re-implementation of the TweetNaCl crypto library.
+*   [ada-crypto-library (⭐84)](https://github.com/cforler/Ada-Crypto-Library) - This is a crypto library for Ada with a nice API and is written for the i386 and x86\_64 hardware architecture.
+*   [spark-nacl (⭐116)](https://github.com/rod-chapman/SPARKNaCl) - SPARK 2014 re-implementation of the TweetNaCl crypto library.
 *   [libsodium-ada (⭐8)](https://github.com/jrmarino/libsodium-ada) - A secure cryptographic library (libsodium for Ada).
 *   [ada-libsecret (⭐2)](https://github.com/stcarrez/ada-libsecret) - Ada Binding for the libsecret library.
 
@@ -192,11 +188,11 @@
 
 ### Parsers, Scanners, Linters, Analysers, Interpreters and Prettyprinters / Apache License
 
-*   [libadalang (⭐145)](https://github.com/AdaCore/libadalang/) - Libadalang is a library for parsing and semantic analysis of Ada code. It is meant as a building block for integration into other tools (IDE, static analyzers, etc).
+*   [libadalang (⭐148)](https://github.com/AdaCore/libadalang/) - Libadalang is a library for parsing and semantic analysis of Ada code. It is meant as a building block for integration into other tools (IDE, static analyzers, etc).
 
 ### Networking and Communication Middleware / Apache License
 
-*   [adasockets (⭐13)](https://github.com/samueltardieu/adasockets) - IPv4 socket library (TCP, UDP, and multicast).
+*   [adasockets (⭐14)](https://github.com/samueltardieu/adasockets) - IPv4 socket library (TCP, UDP, and multicast).
 *   [dbus-ada](https://codelabs.ch/dbus-ada/index.html) - The D\_Bus/Ada library provides an Ada binding to the D-Bus message bus system.
 *   [zeromq-ada](https://github.com/persan/zeromq-Ada.git) - Binding to the ZeroMQ comunications-library.
 
@@ -209,9 +205,9 @@
 
 ### Graphics and Multimedia / Apache License
 
-*   [orka (⭐60)](https://github.com/onox/orka) - The OpenGL 4.6 Rendering Kernel in Ada 2012.
-*   [adagl (⭐9)](https://github.com/godunko/adagl) - Multiplatform Ada/OpenGL bindings (ported to native/OpenGL, A2JS/WebGL and WASM/WebGL).
-*   [sdlada (⭐1)](https://github.com/Lucretia/sdlada) - Ada 2012 bindings to SDL 2.
+*   [orka](https://github.com/onox/orka) - The OpenGL 4.6 Rendering Kernel in Ada 2012.
+*   [adagl (⭐10)](https://github.com/godunko/adagl) - Multiplatform Ada/OpenGL bindings (ported to native/OpenGL, A2JS/WebGL and WASM/WebGL).
+*   [sdlada (⭐118)](https://github.com/Lucretia/sdlada) - Ada 2012 bindings to SDL 2.
 *   [ada-nanovg (⭐1)](https://github.com/raph-amiard/ada-nanovg) - Ada bindings to NanoVG.
 *   [free-type-ada (⭐1)](https://github.com/flyx/FreeTypeAda) - FreeType binding for Ada 2005.
 
@@ -237,7 +233,7 @@
 
 ### Robotics / Apache License
 
-*   [rclada (⭐7)](https://github.com/ada-ros/rclada) - Ada client library for ROS2/RCL.
+*   [rclada (⭐11)](https://github.com/ada-ros/rclada) - Ada client library for ROS2/RCL.
 *   [player-ada (⭐4)](https://github.com/mosteo/player-ada) - Ada bindings for the player robotic platform.
 
 ### Linux and POSIX / Apache License

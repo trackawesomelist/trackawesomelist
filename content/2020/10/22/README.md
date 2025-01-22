@@ -96,7 +96,7 @@
 *   [Best project management practices in 2018?](https://news.ycombinator.com/item?id=16377523) - There is no silver bullet.
 *   [Strategies for long Projects](http://benbrostoff.github.io/2019/09/28/long-projects.html) - Relentless, irrational optimism; Daily progress documentation; Compounding investments; Time budgeting.
 
-### Objectives and Key Results (OKR) / Tickets
+### Objectives and Key Results (OKR) / Delivery
 
 *   [Team Objectives – Overview](https://svpg.com/team-objectives-overview/) - Why OKRs might not work at your company: 1. You're still using feature teams instead of product teams; 2. Mixed-up manager and individual objectives; 3. Leadership opting-out of active management.
 
@@ -176,13 +176,9 @@
 
 ### Related Resources / Vector search
 
-*   [iRuby (⭐801)](https://github.com/SciRuby/iruby) - IRuby kernel for Jupyter (formerly IPython).
+*   [iRuby (⭐902)](https://github.com/SciRuby/iruby) - IRuby kernel for Jupyter (formerly IPython).
 
 ## [9. Awesome Earth](/content/philsturgeon/awesome-earth/README.md)
-
-### Documentaries
-
-*   [Flower Island](https://pt.wikipedia.org/wiki/Ilha_das_Flores_\(curta-metragem\)) - "Ilha das Flores", from portuguese, it's a brazilizan documentarie made in 1989 which portrays the influence of the economy on the relationship of human beings with each other and with the environment. It also contains a strong criticism of social inequality and the handling of organic waste. The short film depicts the situation of poor families in a given region of Porto Alegre who, on a priority scale, find themselves after pigs. Women and children who, within a specified time of five minutes, ensure the pigs' leftover food daily.
 
 ### Volunteering
 
@@ -198,21 +194,20 @@
 
 ### Miscellaneous
 
-*   [cl-cuda (⭐276)](https://github.com/takagi/cl-cuda) - A library to use NVIDIA CUDA in Common Lisp programs. [LLGPL](http://opensource.franz.com/preamble.html).
+*   [cl-cuda (⭐286)](https://github.com/takagi/cl-cuda) - A library to use NVIDIA CUDA in Common Lisp programs. [LLGPL](http://opensource.franz.com/preamble.html).
 *   [LispWork's CAPI](http://www.lispworks.com/products/capi.html) - A portable GUI toolkit, with mobile runtime. Proprietary, but comes with a free version.
 
 ### HTML generators and templates / Isomorphic web frameworks
 
-*   [flute (⭐63)](https://github.com/ailisp/flute) - An easily composable HTML5 generation library with the most simplistic syntax. [MIT](https://opensource.org/licenses/MIT).
-*   [lsx (⭐78)](https://github.com/fukamachi/lsx/) and [markup (⭐69)](https://github.com/moderninterpreters/markup) - Two JSX-like templating engines, where HTML tags are Common Lisp code. `markup` comes with an Emacs package.
+*   [lsx (⭐80)](https://github.com/fukamachi/lsx/) and [markup (⭐72)](https://github.com/moderninterpreters/markup) - Two JSX-like templating engines, where HTML tags are Common Lisp code. `markup` comes with an Emacs package.
 
 ### Utils / Third-party APIs
 
-*   [STMX (⭐244)](https://github.com/cosmos72/stmx) -  High performance Transactional Memory for Common Lisp. [LLGPL](http://opensource.franz.com/preamble.html).
+*   [STMX (⭐247)](https://github.com/cosmos72/stmx) -  High performance Transactional Memory for Common Lisp. [LLGPL](http://opensource.franz.com/preamble.html).
 
 ### REPLs / Third-party APIs
 
-*   [sbcli (⭐91)](https://github.com/hellerve/sbcli) - a readline REPL for SBCL. With completion, quick commands, optional syntax highlighting (with pygments), and no interactive debugger. [GPL3](http://www.gnu.org/copyleft/gpl.html).
+*   [sbcli (⭐98)](https://github.com/hellerve/sbcli) - a readline REPL for SBCL. With completion, quick commands, optional syntax highlighting (with pygments), and no interactive debugger. [GPL3](http://www.gnu.org/copyleft/gpl.html).
 
 ### Apps / Third-party APIs
 
@@ -220,7 +215,7 @@
 
 ### Compression / decompression / Third-party APIs
 
-*   [chipz (⭐16)](https://github.com/froydnj/chipz) - A decompression library. [3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
+*   [chipz (⭐17)](https://github.com/froydnj/chipz) - A decompression library. [3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
 *   [Salza2](http://www.xach.com/lisp/salza2/) - A library for creating compressed data. [FreeBSD](https://directory.fsf.org/wiki?title=License:FreeBSD).
 
 ### Developer utilities / Third-party APIs

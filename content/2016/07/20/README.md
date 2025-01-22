@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 20, 2016
 
-14 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -67,10 +67,10 @@
 
 ### Development Projects / Miscellaneous
 
-*   [pokecrystal (⭐1.7k)](https://github.com/pret/pokecrystal) - Disassembly of Pokémon Crystal.
+*   [pokecrystal (⭐2.1k)](https://github.com/pret/pokecrystal) - Disassembly of Pokémon Crystal.
 *   [x-pokemon (⭐89)](https://github.com/passy/x-pokemon) - A web component to display Pokémon.
-*   [pokered (⭐3.2k)](https://github.com/pret/pokered) - Disassembly of Pokémon Red/Blue.
-*   [pokemon-reverse-engineering-tools (⭐293)](https://github.com/pret/pokemon-reverse-engineering-tools) - Tools for compiling and disassembling Pokémon Red and Pokémon Crystal.
+*   [pokered (⭐4k)](https://github.com/pret/pokered) - Disassembly of Pokémon Red/Blue.
+*   [pokemon-reverse-engineering-tools (⭐327)](https://github.com/pret/pokemon-reverse-engineering-tools) - Tools for compiling and disassembling Pokémon Red and Pokémon Crystal.
 
 ## [5. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/README.md)
 
@@ -82,7 +82,7 @@
 
 ### Network / Barcode
 
-*   [Heimdallr.swift (⭐638)](https://github.com/trivago/Heimdallr.swift) - Easy to use OAuth 2 library for iOS.
+*   [Heimdallr.swift (⭐639)](https://github.com/trivago/Heimdallr.swift) - Easy to use OAuth 2 library for iOS.
 
 ### UI / Barcode
 
@@ -123,11 +123,11 @@
 
 ### Date / Runner
 
-*   [timeago.js (⭐5.2k)](https://github.com/hustcc/timeago.js) - Simple library (less then 2kb) used to format date with `*** time ago` statement.
+*   [timeago.js (⭐5.3k)](https://github.com/hustcc/timeago.js) - Simple library (less then 2kb) used to format date with `*** time ago` statement.
 
 ### String / Runner
 
-*   [jsurl (⭐531)](https://github.com/Mikhus/domurl) - Lightweight URL manipulation with JavaScript.
+*   [jsurl (⭐541)](https://github.com/Mikhus/domurl) - Lightweight URL manipulation with JavaScript.
 
 ### Sliders / Runner
 
@@ -141,7 +141,7 @@
 ### Misc / Other
 
 *   [grid (⭐3.6k)](https://github.com/hootsuite/grid) - Drag and drop library for two-dimensional, resizable and responsive lists.
-*   [MaximAbramchuck/awesome-interviews (⭐69k)](https://github.com/MaximAbramchuck/awesome-interview-questions)
+*   [MaximAbramchuck/awesome-interviews (⭐70k)](https://github.com/MaximAbramchuck/awesome-interview-questions)
 
 ## [9. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/README.md)
 
@@ -154,19 +154,13 @@
 *   [image-promise (⭐144)](https://github.com/bfred-it/image-promise) - Load one or more `<img>`s in a Promise.
 *   [get-media-size (⭐12)](https://github.com/bfred-it/get-media-size) - Get the original size of any `img`/`video`/`svg`/`canvas` tags or canvas context.
 
-## [10. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
-
-### Libraries / Python
-
-*   [μMongo (⭐446)](https://github.com/Scille/umongo) - Driver-independent (async/sync) ODM based on marshmallow
-
-## [11. Awesome Rails Gem](/content/hothero/awesome-rails-gem/README.md)
+## [10. Awesome Rails Gem](/content/hothero/awesome-rails-gem/README.md)
 
 ### Production / Security
 
 *   [Mina (⭐4.3k)](https://github.com/mina-deploy/mina) - fast deployer and server automation tool.
 
-## [12. Awesome Progressive Web Apps](/content/TalAter/awesome-progressive-web-apps/README.md)
+## [11. Awesome Progressive Web Apps](/content/TalAter/awesome-progressive-web-apps/README.md)
 
 ### Browser Support
 
@@ -176,21 +170,21 @@
 
 *   [Can I Use - Push API](http://caniuse.com/#feat=push-api) - Up-to-date browser support table of Push API.
 
-## [13. Awesome Sketch](/content/diessica/awesome-sketch/README.md)
+## [12. Awesome Sketch](/content/diessica/awesome-sketch/README.md)
 
 ### Guides / General screencasts
 
 *   [A Guide to Sketch](https://readymag.com/u91593485/guidetosketch/)
 
-## [14. Awesome Ios](/content/vsouza/awesome-ios/README.md)
+## [13. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Keyboard
 
 *   [RSKKeyboardAnimationObserver (⭐45)](https://github.com/ruslanskorb/RSKKeyboardAnimationObserver) - Showing / dismissing keyboard animation in simple UIViewController category.
-*   [RFKeyboardToolbar (⭐420)](https://github.com/ruddfawcett/RFKeyboardToolbar) - This is a flexible UIView and UIButton subclass to add customized buttons and toolbars to your UITextFields/UITextViews.
-*   [IQKeyboardManager (⭐16k)](https://github.com/hackiftekhar/IQKeyboardManager) - Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView.
-*   [NgKeyboardTracker (⭐798)](https://github.com/meiwin/NgKeyboardTracker) - Objective-C library for tracking keyboard in iOS apps.
-*   [MMNumberKeyboard (⭐958)](https://github.com/matmartinez/MMNumberKeyboard) - A simple keyboard to use with numbers and, optionally, a decimal point.
+*   [RFKeyboardToolbar (⭐419)](https://github.com/ruddfawcett/RFKeyboardToolbar) - This is a flexible UIView and UIButton subclass to add customized buttons and toolbars to your UITextFields/UITextViews.
+*   [IQKeyboardManager (⭐17k)](https://github.com/hackiftekhar/IQKeyboardManager) - Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView.
+*   [NgKeyboardTracker (⭐797)](https://github.com/meiwin/NgKeyboardTracker) - Objective-C library for tracking keyboard in iOS apps.
+*   [MMNumberKeyboard (⭐955)](https://github.com/matmartinez/MMNumberKeyboard) - A simple keyboard to use with numbers and, optionally, a decimal point.
 *   [TPKeyboardAvoiding (⭐5.8k)](https://github.com/michaeltyson/TPKeyboardAvoiding) - A drop-in universal solution for moving text fields out of the way of the keyboard in iOS
 *   [YYKeyboardManager (⭐482)](https://github.com/ibireme/YYKeyboardManager) - iOS utility class allows you to access keyboard view and track keyboard animation.
 
@@ -201,9 +195,9 @@
 *   [ReflectableEnum (⭐331)](https://github.com/fastred/ReflectableEnum) - Reflection for enumerations in Objective-C.
 *   [ObjectiveSugar (⭐2.2k)](https://github.com/supermarin/ObjectiveSugar) - ObjectiveC additions for humans. Ruby style.
 *   [OpinionatedC (⭐52)](https://github.com/leoschweizer/OpinionatedC) - Because Objective-C should have inherited more from Smalltalk.
-*   [YOLOKit (⭐663)](https://github.com/mxcl/YOLOKit) - Getting square objects down round holes.
-*   [BFKit (⭐797)](https://github.com/FabrizioBrancati/BFKit) - An Objective-C collection of useful classes to develop Apps faster.
-*   [AppVersionMonitor (⭐259)](https://github.com/eure/AppVersionMonitor) - Monitor iOS app version easily.
+*   [YOLOKit (⭐662)](https://github.com/mxcl/YOLOKit) - Getting square objects down round holes.
+*   [BFKit (⭐796)](https://github.com/FabrizioBrancati/BFKit) - An Objective-C collection of useful classes to develop Apps faster.
+*   [AppVersionMonitor (⭐261)](https://github.com/eure/AppVersionMonitor) - Monitor iOS app version easily.
 *   [libextobjc (⭐4.5k)](https://github.com/jspahrsummers/libextobjc) - A Cocoa library to extend the Objective-C programming language.
 *   [YAML.framework (⭐244)](https://github.com/mirek/YAML.framework) - Proper YAML support for Objective-C based on `LibYAML`.
 

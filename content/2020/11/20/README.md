@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 20, 2020
 
-13 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -23,7 +23,7 @@
 
 ### Geocoding
 
-- API: [Cartes.io (⭐122)](https://github.com/M-Media-Group/Cartes.io/wiki/API)
+- API: [Cartes.io (⭐123)](https://github.com/M-Media-Group/Cartes.io/wiki/API)
 
   Description: Create maps and markers for anything
 
@@ -35,19 +35,13 @@
 
 
 
-## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / UI Components
-
-*   [x5-gmaps (⭐105)](https://github.com/xon52/x5-gmaps) - lightweight Google Maps plugin for Vue 2.x
-
-## [5. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
+## [4. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### Open Source / Other
 
 *   [Graviton Editor (⭐1.2k)](https://github.com/Graviton-Code-Editor/Graviton-App) - Cross-platform code editor.
 
-## [6. Awesome Digital History](/content/maehr/awesome-digital-history/README.md)
+## [5. Awesome Digital History](/content/maehr/awesome-digital-history/README.md)
 
 ### Archives and primary sources / Europe
 
@@ -103,43 +97,43 @@
 *   [Research Tools (⭐1.9k)](https://github.com/emptymalei/awesome-research#readme) - A list of tools for research.
 *   [Scientific Writing (⭐668)](https://github.com/writing-resources/awesome-scientific-writing#readme) - Scientific writing can extend beyond LaTeX, made possible by formats, such as Markdown (and its many flavours), reStructuredText and Jupyter notebooks.
 
-## [7. Awesome Credit Modeling](/content/mourarthur/awesome-credit-modeling/README.md)
+## [6. Awesome Credit Modeling](/content/mourarthur/awesome-credit-modeling/README.md)
 
 ### Introduction
 
 *   [Fintech and big tech credit: a new database](https://www.bis.org/publ/work887.pdf) - This Working Paper by the Bank of International Settlements, while not as focused on credit risk, maps the conditions for and niches occupied by alternative credit, be it provided by fintechs or big tech companies.
 
-## [8. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
+## [7. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
 
 ### Presentations
 
 *   [TR19: Automotive Penetration Testing with Scapy](https://www.youtube.com/watch?v=7D7uNqPWrXw) - Overview on how Scapy can be used for automotive penetration testing at Troopers Conference 2019.
 
-## [9. Awesome R](/content/qinwf/awesome-R/README.md)
+## [8. Awesome R](/content/qinwf/awesome-R/README.md)
 
 ### High Performance
 
-*   [cpp11 (⭐188)](https://github.com/r-lib/cpp11) - cpp11 is a header-only R package that helps R package developers handle R objects with C++ code. It's similar to Rcpp but with different design trade-offs and features.
+*   [cpp11 (⭐205)](https://github.com/r-lib/cpp11) - cpp11 is a header-only R package that helps R package developers handle R objects with C++ code. It's similar to Rcpp but with different design trade-offs and features.
 
-## [10. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/README.md)
+## [9. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/README.md)
 
 ### Audio Related Packages / Realtime applications
 
 *   [Jupylet (⭐197)](https://github.com/nir/jupylet) [:octocat: (⭐197)](https://github.com/nir/jupylet) - Subtractive, additive, FM, and sample-based sound synthesis.
 
-## [11. Awesome List](/content/sindresorhus/awesome/README.md)
+## [10. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Decentralized Systems
 
-*   [Substrate (⭐737)](https://github.com/substrate-developer-hub/awesome-substrate#readme) - Framework for writing scalable, upgradeable blockchains in Rust.
+*   [Substrate (⭐758)](https://github.com/substrate-developer-hub/awesome-substrate#readme) - Framework for writing scalable, upgradeable blockchains in Rust.
 
-## [12. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
+## [11. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### UI / Effect
 
-*   [Clay Containers (⭐432)](https://github.com/mcaubrey/clay_containers) <!--stargazers:mcaubrey/clay_containers--> - Neumorphic widget primitives to serve as the foundation of your own designs by [Michael Charles](https://github.com/mcaubrey).
+*   [Clay Containers (⭐443)](https://github.com/mcaubrey/clay_containers) <!--stargazers:mcaubrey/clay_containers--> - Neumorphic widget primitives to serve as the foundation of your own designs by [Michael Charles](https://github.com/mcaubrey).
 
-## [13. Awesome React Native](/content/jondot/awesome-react-native/README.md)
+## [12. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
 ### Frameworks / Navigation Demos
 

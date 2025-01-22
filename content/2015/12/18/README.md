@@ -50,21 +50,15 @@
 
 ### Libs
 
-*   [Capcake (⭐114)](https://github.com/jadb/capcake) - Deploy CakePHP applications using Capistrano.
-*   [Chronos (⭐1.3k)](https://github.com/cakephp/chronos) - A simple standalone DateTime API extension (successor of Carbon).
+*   [Chronos (⭐1.4k)](https://github.com/cakephp/chronos) - A simple standalone DateTime API extension (successor of Carbon).
 *   [Composer Installers (⭐1.4k)](https://github.com/composer/installers) - A multi framework Composer library installer.
 *   [Composer](https://getcomposer.org/)/[Packagist](https://packagist.org/) - A package and dependency manager.
-*   [Graphviz (⭐72)](https://github.com/alexandresalome/graphviz) - A Graphviz library.
+*   [Graphviz (⭐73)](https://github.com/alexandresalome/graphviz) - A Graphviz library.
 *   [Rocketeer (⭐2.7k)](https://github.com/rocketeers/rocketeer) - PHP task runner and deployment package.
 
 ### Testing
 
 *   [CakePHP CodeSniffer rules (⭐238)](https://github.com/cakephp/cakephp-codesniffer) - The official CakePHP CS rules.
-*   [Faker plugin (⭐18)](https://github.com/gourmet/faker) - [Faker (⭐27k)](https://github.com/fzaninotto/Faker) support for CakePHP fixtures.
-
-### Help
-
-*   [CakePHP-FR.org](http://cakephp-fr.org) - The french community website.
 
 ## [8. Tips](/content/git-tips/tips/README.md)
 
@@ -79,7 +73,7 @@ git diff --word-diff
 ### Books / Free Books
 
 *   [JavaScript plus a dash of JQuery](http://nicholasjohnson.com/javascript-book/) - A Sensible Introduction to Coding with JavaScript and jQuery, *by Nicholas Johnson*.
-*   [jQuery fundamentals (⭐186)](https://github.com/bocoup/jqfundamentals.com) - Comfortable working through common problems you'll be called upon to solve using jQuery.
+*   [jQuery fundamentals (⭐184)](https://github.com/bocoup/jqfundamentals.com) - Comfortable working through common problems you'll be called upon to solve using jQuery.
 
 ### Community / Paid Books
 

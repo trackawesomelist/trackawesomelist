@@ -45,7 +45,7 @@
 
 ### Playgrounds
 
-*   [Script Debugger (⭐37)](https://github.com/kallewoof/btcdeb)
+*   [Script Debugger (⭐40)](https://github.com/kallewoof/btcdeb)
 
 ## [5. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 

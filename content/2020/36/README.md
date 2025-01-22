@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 07 - Sep 13, 2020
 
-57 awesome lists updated this week.
+55 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -90,7 +90,7 @@
 
 ### Utilities / Game Engine resources
 
-*   [Fontify (⭐102)](https://github.com/westracer/fontify) <!--stargazers:westracer/fontify--> - CLI tool to convert SVG icons to OTF font and generate Flutter-compatible class by [Igor Kharakhordin](https://github.com/westracer)
+*   [Fontify (⭐105)](https://github.com/westracer/fontify) <!--stargazers:westracer/fontify--> - CLI tool to convert SVG icons to OTF font and generate Flutter-compatible class by [Igor Kharakhordin](https://github.com/westracer)
 
 ## [6. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
@@ -102,11 +102,11 @@
 
 ### Software / Software Development - Project Management
 
-*   [SCM Manager](https://www.scm-manager.org/) - The easiest way to share and manage your Git, Mercurial and Subversion repositories over http. ([Source Code (⭐134)](https://github.com/scm-manager/scm-manager)) `BSD-3-Clause` `Java/deb/Docker/K8S`
+*   [SCM Manager](https://www.scm-manager.org/) - The easiest way to share and manage your Git, Mercurial and Subversion repositories over http. ([Source Code (⭐137)](https://github.com/scm-manager/scm-manager)) `BSD-3-Clause` `Java/deb/Docker/K8S`
 
 ### Software / Task Management & To-do Lists
 
-*   [Wekan](https://wekan.github.io/) - Open-source Trello-like kanban. ([Source Code (⭐19k)](https://github.com/wekan/wekan)) `MIT` `Nodejs`
+*   [Wekan](https://wekan.github.io/) - Open-source Trello-like kanban. ([Source Code (⭐20k)](https://github.com/wekan/wekan)) `MIT` `Nodejs`
 
 ## [8. Awesome Internships](/content/lodthe/awesome-internships/week/README.md)
 
@@ -160,14 +160,14 @@
 ### Introduction
 
 *   [A short history of video coding](https://www.slideshare.net/vcodex/a-short-history-of-video-coding?from_m_app=ios)  - Video coding is an essential component of video streaming, digital TV, video chat and many other technologies. This presentation, an invited lecture to the US …
-*   [Eyevinn/streaming-onboarding (⭐512)](https://github.com/Eyevinn/streaming-onboarding)  - New to streaming and don't know where to start? This is the place for you! - Eyevinn/streaming-onboarding
-*   [leandromoreira/digital\_video\_introduction (⭐15k)](https://github.com/leandromoreira/digital_video_introduction)  - A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding). - leandromoreira/digital\_video\_introduction
+*   [Eyevinn/streaming-onboarding (⭐533)](https://github.com/Eyevinn/streaming-onboarding)  - New to streaming and don't know where to start? This is the place for you! - Eyevinn/streaming-onboarding
+*   [leandromoreira/digital\_video\_introduction (⭐16k)](https://github.com/leandromoreira/digital_video_introduction)  - A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding). - leandromoreira/digital\_video\_introduction
 
 ## [10. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
 
 ### Plugins / Languages and Environments
 
-*   [MDX (⭐258)](https://github.com/mdx-js/eslint-mdx/tree/master/packages/eslint-plugin-mdx) - ESLint Parser/Plugin for MDX.
+*   [MDX (⭐264)](https://github.com/mdx-js/eslint-mdx/tree/master/packages/eslint-plugin-mdx) - ESLint Parser/Plugin for MDX.
 
 ## [11. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
@@ -185,7 +185,7 @@
 
 ### Examples
 
-*   [MananTank/radioactive-state (⭐312)](https://github.com/MananTank/radioactive-state#readme) - Badges (version, downloads, coverage, size), Twitter Intent, Project Logo, Feature list, Motivation, Installation, Example with GIFs, Emojis, Collapsible Sections, Live Demos, API detailed usage, FAQs, Chat link.
+*   [MananTank/radioactive-state (⭐313)](https://github.com/MananTank/radioactive-state#readme) - Badges (version, downloads, coverage, size), Twitter Intent, Project Logo, Feature list, Motivation, Installation, Example with GIFs, Emojis, Collapsible Sections, Live Demos, API detailed usage, FAQs, Chat link.
 
 ## [14. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
@@ -213,13 +213,13 @@
 
 ### Projects
 
-*   [yew-octicons (⭐18)](https://github.com/io12/yew-octicons) - An easy interface for using Octicons in Yew projects.
+*   [yew-octicons (⭐19)](https://github.com/io12/yew-octicons) - An easy interface for using Octicons in Yew projects.
 
 ## [18. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Boilerplates
 
-*   [Nextjs Starter Peacock (⭐124)](https://github.com/vickOnRails/next-starter-peacock) - 🦚 Beautiful Nextjs portfolio starter for software engineers and designers to show work they're so proud of.
+*   [Nextjs Starter Peacock (⭐129)](https://github.com/vickOnRails/next-starter-peacock) - 🦚 Beautiful Nextjs portfolio starter for software engineers and designers to show work they're so proud of.
 
 ## [19. Awesome Veganism](/content/sdassow/awesome-veganism/week/README.md)
 
@@ -238,33 +238,33 @@
 
 ### API Builder and Discovery
 
-*   [Acts\_As\_Api (⭐506)](https://github.com/fabrik42/acts_as_api) - Easy And Fun, in creating XML/JSON responses in Rails 3,4,5 and 6.
+*   [Acts\_As\_Api (⭐503)](https://github.com/fabrik42/acts_as_api) - Easy And Fun, in creating XML/JSON responses in Rails 3,4,5 and 6.
 
 ### Authorization
 
-*   [Consul (⭐317)](https://github.com/makandra/consul) - A scope-based authorization solution for Ruby on Rails.
+*   [Consul (⭐319)](https://github.com/makandra/consul) - A scope-based authorization solution for Ruby on Rails.
 
 ### Error Handling
 
-*   [Rollbar (⭐443)](https://github.com/rollbar/rollbar-gem) - Easy and powerful exception and error tracking for your applications.
+*   [Rollbar (⭐448)](https://github.com/rollbar/rollbar-gem) - Easy and powerful exception and error tracking for your applications.
 
 ### Mobile Development
 
-*   [PubNub (⭐120)](https://github.com/pubnub/ruby) - Real-time Push Service in the Cloud.
+*   [PubNub (⭐121)](https://github.com/pubnub/ruby) - Real-time Push Service in the Cloud.
 
 ## [22. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
 ### GitHub Tools and Management / Docker Container Actions
 
-*   [Herald Rules for GitHub: Add Subscribers, Assignees, Labels, and More to Your PR (⭐45)](https://github.com/gagoar/use-herald-action)
+*   [Herald Rules for GitHub: Add Subscribers, Assignees, Labels, and More to Your PR (⭐53)](https://github.com/gagoar/use-herald-action)
 
 ### Notifications and Messages / Code Coverage
 
-*   [Send Microsoft Teams Notification (⭐30)](https://github.com/opsless/ms-teams-github-actions)
+*   [Send Microsoft Teams Notification (⭐36)](https://github.com/opsless/ms-teams-github-actions)
 
 ### Deployment / Code Coverage
 
-*   [Deploy a YouTube Video to Anchor.fm Podcast (⭐77)](https://github.com/Schrodinger-Hat/youtube-to-anchorfm)
+*   [Deploy a YouTube Video to Anchor.fm Podcast (⭐126)](https://github.com/Schrodinger-Hat/youtube-to-anchorfm)
 
 ## [23. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
 
@@ -310,7 +310,7 @@
 
 ### Authentication
 
-*   [Quiz manager secured by Auth0 (⭐39)](https://github.com/auth0-blog/secure-blazor-wasm-quiz-manager) - ![last commit](https://img.shields.io/github/last-commit/auth0-blog/secure-blazor-wasm-quiz-manager?style=flat-square\&cacheSeconds=86400) This repository contains a Blazor WebAssembly application implementing a simple Quiz manager secured by [Auth0](https://auth0.com/). The implementation details are described in the following article: [Securing Blazor WebAssembly Apps](https://auth0.com/blog/securing-blazor-webassembly-apps/).
+*   [Quiz manager secured by Auth0 (⭐41)](https://github.com/auth0-blog/secure-blazor-wasm-quiz-manager) - ![last commit](https://img.shields.io/github/last-commit/auth0-blog/secure-blazor-wasm-quiz-manager?style=flat-square\&cacheSeconds=86400) This repository contains a Blazor WebAssembly application implementing a simple Quiz manager secured by [Auth0](https://auth0.com/). The implementation details are described in the following article: [Securing Blazor WebAssembly Apps](https://auth0.com/blog/securing-blazor-webassembly-apps/).
 
 ### E-Books / Others
 
@@ -320,7 +320,7 @@
 
 ### Gaming
 
-*   [Discord Communities (⭐2.7k)](https://github.com/mhxion/awesome-discord-communities#readme) - Chat with friends and communities.
+*   [Discord Communities (⭐2.9k)](https://github.com/mhxion/awesome-discord-communities#readme) - Chat with friends and communities.
 
 ## [29. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
@@ -339,8 +339,8 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [Couler (⭐897)](https://github.com/couler-proj/couler) - Unified interface for constructing and managing machine learning workflows on different workflow engines, such as Argo Workflows, Tekton Pipelines, and Apache Airflow.
-*   [evostra (⭐268)](https://github.com/alirezamika/evostra) - A fast Evolution Strategy implementation in Python.
+*   [Couler (⭐919)](https://github.com/couler-proj/couler) - Unified interface for constructing and managing machine learning workflows on different workflow engines, such as Argo Workflows, Tekton Pipelines, and Apache Airflow.
+*   [evostra (⭐271)](https://github.com/alirezamika/evostra) - A fast Evolution Strategy implementation in Python.
 
 ### Tools / Misc
 
@@ -350,8 +350,8 @@
 
 ### Projects
 
-*   [Internet Chronometer (⭐109)](https://github.com/rothman857/chronometer) - Turn your Raspberry Pi in to an Internet Chronometer.
-*   [Pi-KVM (⭐7.8k)](https://github.com/pikvm/pikvm) - DIY KVM over IP to manage remote computers via Web UI or VNC with FullHD video, mouse, virtual drive, IPMI, Wake-on-LAN and many other things.
+*   [Internet Chronometer (⭐111)](https://github.com/rothman857/chronometer) - Turn your Raspberry Pi in to an Internet Chronometer.
+*   [Pi-KVM (⭐8.2k)](https://github.com/pikvm/pikvm) - DIY KVM over IP to manage remote computers via Web UI or VNC with FullHD video, mouse, virtual drive, IPMI, Wake-on-LAN and many other things.
 
 ## [33. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
 
@@ -377,7 +377,7 @@
 
 ### Testing Frameworks / Runner
 
-*   [taiko (⭐3.5k)](https://github.com/getgauge/taiko) - A Node.js library with a simple API to automate Chromium based browsers.
+*   [taiko (⭐3.6k)](https://github.com/getgauge/taiko) - A Node.js library with a simple API to automate Chromium based browsers.
 
 ### Form Widgets / File Uploader
 
@@ -385,25 +385,19 @@
 
 ### Modals and Popups / Other
 
-*   [lightGallery (⭐6.3k)](https://github.com/sachinchoolur/lightGallery) - A customizable, modular, responsive, lightbox gallery plugin for jQuery.
+*   [lightGallery (⭐6.4k)](https://github.com/sachinchoolur/lightGallery) - A customizable, modular, responsive, lightbox gallery plugin for jQuery.
 
 ### Menu / Other
 
 *   [mmenu (⭐2.6k)](https://github.com/FrDH/jQuery.mmenu) - The best jQuery plugin for app look-alike on- and off-canvas menus with sliding submenus for your website and webapp.
 
-## [37. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
-
-### Communities
-
-*   [Hypelance](https://hypelance.com/) - Digital Community Forum for Freelancers and Entrepreneurs.
-
-## [38. Guides](/content/NARKOZ/guides/week/README.md)
+## [37. Guides](/content/NARKOZ/guides/week/README.md)
 
 ### Programming Languages / JavaScript
 
 *   [Project Guidelines (⭐29k)](https://github.com/elsewhencode/project-guidelines#readme)
 
-## [39. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [38. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Articles
 
@@ -412,77 +406,60 @@
 ### Community Extensions
 
 *   [SPI Authenticator in Nodejs](https://www.npmjs.com/package/keycloak-rest-authenticator)
-*   [Have I Been Pwned? Keycloak Password Policy (⭐20)](https://github.com/alexashley/keycloak-password-policy-have-i-been-pwned)
+*   [Have I Been Pwned? Keycloak Password Policy (⭐22)](https://github.com/alexashley/keycloak-password-policy-have-i-been-pwned)
 
-## [40. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
+## [39. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
 
 ### Accounting / Bookkeeping
 
 *   [Plain text accounting tools](https://plaintextaccounting.org/#software) - Extensive list of open-source personal finance projects that might be great to look into for inspiration on double-entry accounting and bookkeeping.
 *   And a list of graphical accounting tools: [GNUCash](https://gnucash.org) (GTK+), [Grisbi](https://grisbi.org) (C), [Firefly III](https://firefly-iii.org) (PHP).
 *   [GnuCash Tutorial and Concepts Guide](https://www.gnucash.org/docs/v2.4/C/gnucash-guide/) - A complete tutorial on personal finance tracking with GnuCash.
-*   [Frappe Books (⭐2.6k)](https://github.com/frappe/books) - Free Desktop book-keeping software for small-businesses and freelancers.
-*   [Luca (⭐67)](https://github.com/brandon-rhodes/luca) - YAML accounting and JSON tax forms.
+*   [Frappe Books (⭐3k)](https://github.com/frappe/books) - Free Desktop book-keeping software for small-businesses and freelancers.
+*   [Luca (⭐68)](https://github.com/brandon-rhodes/luca) - YAML accounting and JSON tax forms.
 
 ### Accounting / Software design and implementation
 
 *   [Moonpig: a billing system that doesn't suck](https://blog.plover.com/prog/Moonpig.html) - Design decisions behind a billing and accounting system. Key takeaway: some companies still pays by checks; do not use floats; complex customer workflows; date and time issues; mutable data.
 *   [Books, an immutable double-entry accounting database service](https://developer.squareup.com/blog/books-an-immutable-double-entry-accounting-database-service/) - Explain the basic data model of a double-entry accounting system relying on Google Spanner for internal use at Square.
 *   [Django Hordak](https://django-hordak.readthedocs.io) - Core functionality of a double entry accounting system for Django.
-*   [Managed accounts for Django (⭐210)](https://github.com/django-oscar/django-oscar-accounts) - A 'managed account' is an allocation of money that can be debited and credited.
+*   [Managed accounts for Django (⭐213)](https://github.com/django-oscar/django-oscar-accounts) - A 'managed account' is an allocation of money that can be debited and credited.
 
 ### Invoice / Generators
 
-*   [InvoiceGenerator (⭐160)](https://github.com/by-cx/InvoiceGenerator) - Library to generate a simple invoices.
-*   [Ruby Invoicing Framework (⭐263)](https://github.com/code-mancers/invoicing) - For generating and displaying invoices (ideal for commercial Rails apps). It allows for flexible business logic; provides tools for tax handling, commission calculation etc.
+*   [InvoiceGenerator (⭐168)](https://github.com/by-cx/InvoiceGenerator) - Library to generate a simple invoices.
+*   [Ruby Invoicing Framework (⭐264)](https://github.com/code-mancers/invoicing) - For generating and displaying invoices (ideal for commercial Rails apps). It allows for flexible business logic; provides tools for tax handling, commission calculation etc.
 
 ### Invoice / Extractors
 
-*   [InvoiceNet (⭐2.4k)](https://github.com/naiveHobo/InvoiceNet) - Deep neural network to extract intelligent information from invoice documents.
+*   [InvoiceNet (⭐2.5k)](https://github.com/naiveHobo/InvoiceNet) - Deep neural network to extract intelligent information from invoice documents.
 
-## [41. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
-
-### Projects Using Vue.js / Apps/Websites
-
-*   [Wammes Gifts](https://www.wammes-gifts.nl) - Wammes Gifts helps you find the perfect gift.
-
-### Components & Libraries / UI Components
-
-*   [vue-tabler-icons (⭐150)](https://github.com/alex-oleshkevich/vue-tabler-icons) - Vue components for [Tabler Icons (⭐18k)](https://github.com/tabler/tabler-icons) SVG icons.
-*   [vue-dynamic-inputs (⭐6)](https://github.com/taverasady/vue-dynamic-inputs) - Create dynamic forms with buefy from json [Online Demo](https://codepen.io/taverasady/pen/LYVzevo)
-*   [vue-selectize (⭐77)](https://github.com/isneezy/vue-selectize) - A Vue.js component wrapper around Selectize.js, a vanilla js select component
-
-### Components & Libraries / Utilities
-
-*   [vue-with-wrapper (⭐2)](https://github.com/zWingz/vue-with-wrapper) - A object deconstruction used in `template`
-*   [vuex-ts-enhance (⭐11)](https://github.com/zWingz/vuex-ts-enhance) - A tool to enhance `mapXXX` and `dispatch` methods hint
-
-## [42. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [40. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Red Team Infrastructure Deployment / Development
 
 *   [Redcloud (⭐1.2k)](https://github.com/khast3x/Redcloud) - A automated Red Team Infrastructure deployement using Docker.
 
-## [43. Awesome Scala](/content/lauris/awesome-scala/week/README.md)
+## [41. Awesome Scala](/content/lauris/awesome-scala/week/README.md)
 
 ### Misc. / Devops
 
 *   [List of Scala Online Courses](https://classpert.com/scala-programming) - A list of free and paid Scala online courses by Classpert, An online course search and comparison website
 *   [Scala Days Conferences](https://www.youtube.com/channel/UCOHg8YCiyMVRRxb3mJT_0Mg) -  A youtube channel that provides full fledged videos, recorded at Scala Days Conferences
 
-## [44. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [42. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Useful Links
 
 *   💙 [Website](https://tailwindcss.com) - Official Tailwind CSS website.
-*   💙 [Repository (⭐81k)](https://github.com/tailwindcss/tailwindcss) - Official Tailwind CSS repository.
+*   💙 [Repository (⭐84k)](https://github.com/tailwindcss/tailwindcss) - Official Tailwind CSS repository.
 *   💙 [Heroicons](https://heroicons.com/) - Beautiful, hand-crafted SVG icons.
 *   [Tailwind Weekly](https://tailwindweekly.com/) - Weekly newsletter about all things Tailwind CSS.
 
 ### UI Libraries, Components & Templates
 
 *   💙🧩 [Tailwind UI](https://tailwindui.com) - Component library made with Tailwind CSS.
-*   📚 [VueTailwind (⭐2.1k)](https://github.com/alfonsobries/vue-tailwind) - Vue.js UI library using Tailwind CSS.
+*   📚 [VueTailwind (⭐2.2k)](https://github.com/alfonsobries/vue-tailwind) - Vue.js UI library using Tailwind CSS.
 *   🧩 [TailBlocks](https://mertjf.github.io/tailblocks) - 60+ different ready to use Tailwind CSS blocks.
 *   🧩 [Tailwind Components](https://tailwindcomponents.com) - Community-driven Tailwind CSS component repository.
 *   🧩 [Tailwind Toolbox](https://www.tailwindtoolbox.com) - Templates, components and resources.
@@ -493,7 +470,7 @@
 *   🧩 [jQuery Toggler](https://craigerskine.github.io/jquery-tailwind-checkbox-toggle) - Switches using jQuery and Tailwind CSS.
 *   🧩 [Tailwind Kit](https://creative-tim.com/learning-lab/tailwind-starter-kit) - Framework-agnostic, Vue.js, React and Angular components.
 *   📁 [Windmill Dashboard](https://windmill-dashboard.vercel.app/) - Multi theme, completely accessible dashboard template.
-*   📁 [Tailwind Admin (⭐468)](https://github.com/tailwindadmin/admin) - Administration panel template with Tailwind CSS.
+*   📁 [Tailwind Admin (⭐477)](https://github.com/tailwindadmin/admin) - Administration panel template with Tailwind CSS.
 
 ### IDE Extensions
 
@@ -501,15 +478,15 @@
 
 ### Plugins
 
-*   💙🧩 [Typography (⭐4.2k)](https://github.com/tailwindlabs/tailwindcss-typography) - Adds a `prose` class for beautiful typographic defaults.
-*   🎨🧬 [Theme Swapper (⭐310)](https://github.com/crswll/tailwindcss-theme-swapper) - Theming using CSS variables, with media queries support.
-*   💼 [Image Rendering (⭐81)](https://github.com/hacknug/tailwindcss-image-rendering) - Adds `image-rendering` utilities.
-*   💼 [Elevation (⭐166)](https://github.com/jonaskay/tailwindcss-elevation) - Adds [Material UI `elevation`](https://material.io/design/environment/elevation.html) utilities.
-*   💼 [RFS (⭐59)](https://github.com/aerni/tailwindcss-rfs) - Adds [`RFS`](https://github.com/twbs/rfs) utilities.
-*   💼 [Bidirectional (⭐347)](https://github.com/20lives/tailwindcss-rtl) - Adds utilities for creating multilingual bidirectional layouts.
-*   💼 [Background SVG (⭐21)](https://github.com/AndersNielsen85/tailwindcss-bg-svg) - Inject SVGs as background images with color variants.
-*   💼 [Brand Colors (⭐85)](https://github.com/praveenjuge/tailwindcss-brand-colors) - Adds various brand colors for background, border and text.
-*   💼 [Bootstrap Grid (⭐175)](https://github.com/karolis-sh/tailwind-bootstrap-grid) - Generates Bootstrap's style flexbox grid system.
+*   💙🧩 [Typography (⭐4.9k)](https://github.com/tailwindlabs/tailwindcss-typography) - Adds a `prose` class for beautiful typographic defaults.
+*   🎨🧬 [Theme Swapper (⭐321)](https://github.com/crswll/tailwindcss-theme-swapper) - Theming using CSS variables, with media queries support.
+*   💼 [Image Rendering (⭐82)](https://github.com/hacknug/tailwindcss-image-rendering) - Adds `image-rendering` utilities.
+*   💼 [Elevation (⭐168)](https://github.com/jonaskay/tailwindcss-elevation) - Adds [Material UI `elevation`](https://material.io/design/environment/elevation.html) utilities.
+*   💼 [RFS (⭐61)](https://github.com/aerni/tailwindcss-rfs) - Adds [`RFS`](https://github.com/twbs/rfs) utilities.
+*   💼 [Bidirectional (⭐355)](https://github.com/20lives/tailwindcss-rtl) - Adds utilities for creating multilingual bidirectional layouts.
+*   💼 [Background SVG (⭐22)](https://github.com/AndersNielsen85/tailwindcss-bg-svg) - Inject SVGs as background images with color variants.
+*   💼 [Brand Colors (⭐86)](https://github.com/praveenjuge/tailwindcss-brand-colors) - Adds various brand colors for background, border and text.
+*   💼 [Bootstrap Grid (⭐181)](https://github.com/karolis-sh/tailwind-bootstrap-grid) - Generates Bootstrap's style flexbox grid system.
 
 ### Tools
 
@@ -518,40 +495,40 @@
 *   🎨🌍🔧 [Tailwind Colors](https://tailwind-colors.meidev.co) - Color configuration generator for Tailwind CSS.
 *   🎨🌍🔧 [Tailwind Color Explorer](https://stefanbuck.com/tailwind-color-theme-explorer) - Color explorer for Tailwind CSS.
 *   🔼 [Tailwindo (⭐1.1k)](https://github.com/awssat/tailwindo) - Bootstrap to Tailwind CSS converter.
-*   🔼 [RustyWind (⭐461)](https://github.com/avencera/rustywind) - CLI tool for sorting Tailwind CSS classes.
+*   🔼 [RustyWind (⭐491)](https://github.com/avencera/rustywind) - CLI tool for sorting Tailwind CSS classes.
 *   🚀 [Maizzle](https://maizzle.com/) - Framework for rapid email prototyping with Tailwind CSS.
-*   🅰 [react-native-tailwindcss (⭐565)](https://github.com/TVke/react-native-tailwindcss) - React Native typing system.
-*   💼 [Alfred Workflow (⭐121)](https://github.com/clnt/alfred-tailwindcss-docs) - Fast Tailwind CSS documentation search application.
-*   💼 [vue-cli-plugin-tailwind (⭐212)](https://github.com/forsartis/vue-cli-plugin-tailwind) - Vue CLI plugin that adds Tailwind CSS to a project.
-*   💼 [@nuxtjs/tailwindcss (⭐1.6k)](https://github.com/nuxt-community/tailwindcss-module) - Tailwind CSS module for NuxtJS with PurgeCSS and modern CSS (preset env 1).
+*   🅰 [react-native-tailwindcss (⭐566)](https://github.com/TVke/react-native-tailwindcss) - React Native typing system.
+*   💼 [Alfred Workflow (⭐123)](https://github.com/clnt/alfred-tailwindcss-docs) - Fast Tailwind CSS documentation search application.
+*   💼 [vue-cli-plugin-tailwind (⭐211)](https://github.com/forsartis/vue-cli-plugin-tailwind) - Vue CLI plugin that adds Tailwind CSS to a project.
+*   💼 [@nuxtjs/tailwindcss (⭐1.7k)](https://github.com/nuxt-community/tailwindcss-module) - Tailwind CSS module for NuxtJS with PurgeCSS and modern CSS (preset env 1).
 *   💼 [preact-cli-tailwind (⭐32)](https://github.com/agneym/preact-cli-tailwind) - Tailwind CSS integration for Preact.
-*   💼🔧 [twin.macro (⭐7.9k)](https://github.com/ben-rogerson/twin.macro) - Use Tailwind classes within any CSS-in-JS library.
-*   💼🔧 [Tailwind Config Viewer (⭐2k)](https://github.com/rogden/tailwind-config-viewer) - Local UI tool for visualizing your Tailwind CSS configuration file.
+*   💼🔧 [twin.macro (⭐8k)](https://github.com/ben-rogerson/twin.macro) - Use Tailwind classes within any CSS-in-JS library.
+*   💼🔧 [Tailwind Config Viewer (⭐2.1k)](https://github.com/rogden/tailwind-config-viewer) - Local UI tool for visualizing your Tailwind CSS configuration file.
 
 ### Starters & Themes
 
 *   📟 [Create React App with PurgeCSS (⭐29)](https://github.com/DemianD/create-react-app-tailwindcss) - CRA script that adds Tailwind CSS and PurgeCSS.
 *   📟 [Laravel Preset (⭐14)](https://github.com/use-preset/laravel-tailwindcss) - Adds Tailwind CSS to the Laravel framework.
-*   📟💼 [Laravel Front-end Preset (⭐1.1k)](https://github.com/laravel-frontend-presets/tailwindcss) - Front-end preset using Tailwind CSS for Laravel.
+*   📟💼 [Laravel Front-end Preset (⭐1.2k)](https://github.com/laravel-frontend-presets/tailwindcss) - Front-end preset using Tailwind CSS for Laravel.
 *   📟💼 [Laravel Dark Front-end Preset (⭐41)](https://github.com/Naoray/dark-tailwind-preset) - Dark-themed front-end preset using Tailwind CSS for Laravel.
 *   🚀 [Create React App with EmotionJS (⭐27)](https://github.com/muhajirframe/react-tailwind-emotion-starter) - CRA boilerplate using Tailwind CSS and Emotion JS.
 *   📟 [Create React App with TypeScript (⭐110)](https://github.com/dance2die/cra-template-tailwindcss-typescript) - CRA template with support for Tailwind CSS and TypeScript.
-*   🚀 [Tailwind CSS Boilerplate (⭐117)](https://github.com/michelegera/create-tailwindcss-boilerplate) - Tailwind CSS boilerplate using Parcel.
-*   🚀 [Jekyll Starter (⭐243)](https://github.com/taylorbryant/tailwind-jekyll) - Jekyll starter using Tailwind CSS.
-*   🚀 [Jekyll Starter (⭐114)](https://github.com/mhanberg/jekyll-tailwind-starter) - Jekyll starter using Tailwind CSS.
-*   🚀 [Gulp Starter (⭐97)](https://github.com/simonswiss/tailwind-starter) - Gulp starter using Tailwind CSS.
-*   🚀 [Gatsby Starter (⭐496)](https://github.com/taylorbryant/gatsby-starter-tailwind) - Gatsby starter using Tailwind CSS.
-*   🚀 [Gatsby Starter Simplicity (⭐32)](https://github.com/PlanFlowDev/Simplicity-Itself-Gatsby-Tailwind-Starter-Theme) - Gatsby starter using Tailwind CSS.
+*   🚀 [Tailwind CSS Boilerplate (⭐121)](https://github.com/michelegera/create-tailwindcss-boilerplate) - Tailwind CSS boilerplate using Parcel.
+*   🚀 [Jekyll Starter (⭐245)](https://github.com/taylorbryant/tailwind-jekyll) - Jekyll starter using Tailwind CSS.
+*   🚀 [Jekyll Starter (⭐117)](https://github.com/mhanberg/jekyll-tailwind-starter) - Jekyll starter using Tailwind CSS.
+*   🚀 [Gulp Starter (⭐96)](https://github.com/simonswiss/tailwind-starter) - Gulp starter using Tailwind CSS.
+*   🚀 [Gatsby Starter (⭐495)](https://github.com/taylorbryant/gatsby-starter-tailwind) - Gatsby starter using Tailwind CSS.
+*   🚀 [Gatsby Starter Simplicity (⭐34)](https://github.com/PlanFlowDev/Simplicity-Itself-Gatsby-Tailwind-Starter-Theme) - Gatsby starter using Tailwind CSS.
 *   🚀 [Gatsby Starter + Emotion JS (⭐39)](https://github.com/muhajirframe/gatsby-tailwind-emotion-starter) - Gatsby starter using Tailwind CSS and Emotion JS.
 *   🚀 [Gatsby Starter Opinionated (⭐0)](https://github.com/mjsarfatti/gatsby-starter-tailwind-opinionated) - Gatsby starter using Tailwind CSS and opinionated goodies.
-*   🚀 [Create React App Boilerplate (⭐110)](https://github.com/kriswep/cra-tailwindcss) - CRA boilerplate using Tailwind CSS.
+*   🚀 [Create React App Boilerplate (⭐111)](https://github.com/kriswep/cra-tailwindcss) - CRA boilerplate using Tailwind CSS.
 *   🚀 [Create React App with PurgeCSS + Autoprefixer + CSSNano (⭐11)](https://github.com/saadeghi/create-react-app-tailwindcss) - CRA boilerplate using CSS Nano.
-*   🚀 [Dogpatch (⭐49)](https://github.com/jack-pallot/dogpatch) - WordPress starter using webpack, Vue, Babel and Tailwind CSS.
-*   🚀 [Next.js Starter (⭐357)](https://github.com/oddstronaut/tailwind-next) - Next.js boilerplate using Tailwind CSS.
+*   🚀 [Dogpatch (⭐51)](https://github.com/jack-pallot/dogpatch) - WordPress starter using webpack, Vue, Babel and Tailwind CSS.
+*   🚀 [Next.js Starter (⭐360)](https://github.com/oddstronaut/tailwind-next) - Next.js boilerplate using Tailwind CSS.
 *   🚀 [Sapper & Svelte Starter (⭐76)](https://github.com/EricPKerr/sapper-tailwindcss-starter) - Svelte boilerplate using Sapper, Tailwind CSS, Purge CSS, Prettier and ESLint.
 *   🚀 [Netlify Lambda Starter (⭐8)](https://github.com/HugoDF/netlify-lambda-tailwind-static-starter) - Netlify Lambda boilerplate using Tailwind CSS.
-*   🚀 [Hugo Theme Starter with Tailwind CSS (⭐398)](https://github.com/dirkolbrich/hugo-theme-tailwindcss-starter) - Hugo theme starter using Tailwind CSS.
-*   🚀 [Eleventy Web Starter (⭐315)](https://github.com/scottishstoater/jamstack-web-starter) - Starter kit using Eleventy, Tailwind CSS, webpack and PostCSS.
+*   🚀 [Hugo Theme Starter with Tailwind CSS (⭐402)](https://github.com/dirkolbrich/hugo-theme-tailwindcss-starter) - Hugo theme starter using Tailwind CSS.
+*   🚀 [Eleventy Web Starter (⭐317)](https://github.com/scottishstoater/jamstack-web-starter) - Starter kit using Eleventy, Tailwind CSS, webpack and PostCSS.
 *   🚀 [Nanoc Starter (⭐9)](https://github.com/arkency/nanoc-parcel-tailwind-starter) - Nanoc starter using Tailwind CSS.
 *   🚀 [PostCSS and Browsersync Boilerplate (⭐31)](https://github.com/saadeghi/tailwindcss-postcss-browsersync-boilerplate) - Boilerplate using CSS Nano.
 *   🚀 [ParcelJS + TypeScript Boilerplate (⭐8)](https://github.com/saadeghi/tailwindcss-parceljs-typescript-boilerplate) - Boilerplate using Tailwind CSS, ParcelJS bundler and TypeScript.
@@ -560,11 +537,11 @@
 
 ### Learning
 
-*   💙🧪 [Plugin Examples (⭐210)](https://github.com/tailwindlabs/tailwindcss-plugin-examples) - Official plugin examples.
+*   💙🧪 [Plugin Examples (⭐211)](https://github.com/tailwindlabs/tailwindcss-plugin-examples) - Official plugin examples.
 *   🧪 [Tailwind Dark Mode Theme Switcher (⭐188)](https://github.com/huphtur/tailwind-theme-switcher) - Switching themes with CSS Custom Properties and Tailwind CSS.
 *   🧪 [Acquia (⭐20)](https://github.com/opdavies/rebuilding-acquia) - Acquia's hosting dashboard rebuilt with Vue.js and Tailwind CSS.
 *   🧪 [Navbar](https://codepen.io/joshmanders/pen/PQQBoR) - Navbar made with Vue.js and Tailwind CSS.
-*   🧪 [“Open” landing page (⭐143)](https://github.com/michelegera/tailwindcss-open-template/) - “Open” landing page template by Cruip built with Tailwind CSS Boilerplate.
+*   🧪 [“Open” landing page (⭐147)](https://github.com/michelegera/tailwindcss-open-template/) - “Open” landing page template by Cruip built with Tailwind CSS Boilerplate.
 *   🔧 [Testing Tailwind CSS plugins with Jest](https://www.oliverdavies.uk/articles/testing-tailwindcss-plugins-with-jest) - How to test Tailwind CSS plugins with Jest.
 *   🔧 [Tailwind CSS with CSS-in-JS](https://medium.com/@AndrewDelPrete/using-tailwindcss-with-css-in-js-32ae6796f95c) - How to use Tailwind CSS with CSS-in-JS.
 *   🔧 [Tailwind CSS in a Laravel Project](https://nick-basile.com/blog/post/setting-up-tailwind-in-a-laravel-project) - How to setup Tailwind CSS in a Laravel project.
@@ -583,7 +560,7 @@
 *   🎬 [Let's Build: Dribbble Shot](https://web-crunch.com/lets-build-tailwind-css-dribbble-shot) - Dribbble shot with Tailwind CSS.
 *   🎬 [Let's Build: Tweet component](https://web-crunch.com/lets-build-tailwind-css-tweet) - Building a Tweet component with Tailwind CSS.
 *   🎓 [Modal Dialog](https://codeburst.io/creating-a-modal-dialog-with-tailwind-css-42722c9aea4f) - Creating a modal dialog with Tailwind CSS.
-*   🎓 [Building real-world UIs using Tailwind CSS (⭐100)](https://github.com/asvny/building-realworld-user-interfaces-using-tailwind) - Building UIs of Shopify, Spotify, Netlify and Atlassian.
+*   🎓 [Building real-world UIs using Tailwind CSS (⭐102)](https://github.com/asvny/building-realworld-user-interfaces-using-tailwind) - Building UIs of Shopify, Spotify, Netlify and Atlassian.
 *   🎓 [Login Page (PingPing)](https://stefanbauer.me/building-pingping/we-build-a-login-using-tailwindcss) - Creating a login page with Tailwind CSS.
 *   🎓 [Navigation](https://nick-basile.com/blog/post/building-a-nav-with-tailwind-css) - Building a navigation with Tailwind CSS.
 *   🎓 [Forms with Tailwind CSS](https://css-tricks.com/style-form-tailwind-css) - How to style a form with Tailwind CSS.
@@ -596,7 +573,7 @@
 *   🎥 [Rebuilding Discord](https://youtu.be/t54tuaoHVLo)
 *   🎥 [Rebuilding Meetup](https://youtu.be/ULe6yKJrFuI)
 
-## [45. Awesome Firebase](/content/jthegedus/awesome-firebase/week/README.md)
+## [43. Awesome Firebase](/content/jthegedus/awesome-firebase/week/README.md)
 
 ### Mobile
 
@@ -606,19 +583,19 @@
 
 *   🔧 [Flank (⭐653)](https://github.com/flank/flank/) - Massively parallel Android and iOS test runner for Firebase Test Lab.
 
-## [46. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [44. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### no-std crates / WIP
 
 *   [static-bytes (⭐6)](https://github.com/xoac/static-bytes): Help work with buffers without dynamic allocation. Implement traits from bytes crate. [![crate.io](https://img.shields.io/crates/v/static-bytes.svg)](https://crates.io/crates/static-bytes)
 
-## [47. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/week/README.md)
+## [45. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/week/README.md)
 
 ### Websites
 
 *   Loop - <https://app.loopinput.com/>
 
-## [48. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/week/README.md)
+## [46. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/week/README.md)
 
 ### Useful Links
 
@@ -629,12 +606,12 @@
 
 ### Resources / Presets
 
-*   [Laravel Moonlight (⭐144)](https://github.com/TitasGailius/laravel-moonlight) - Laravel front-end preset with Tailwind CSS, Inertia.js and Vue.js.
+*   [Laravel Moonlight (⭐145)](https://github.com/TitasGailius/laravel-moonlight) - Laravel front-end preset with Tailwind CSS, Inertia.js and Vue.js.
 *   [Titanium (⭐11)](https://github.com/usetitanium/inertia) - Laravel front-end preset with Tailwind CSS, Inertia.js and Vue.js.
 
 ### Resources / Packages
 
-*   [Kakunin (⭐41)](https://github.com/Juhlinus/kakunin) - Laravel package for real-time form validation.
+*   [Kakunin (⭐40)](https://github.com/Juhlinus/kakunin) - Laravel package for real-time form validation.
 
 ### Resources / Articles
 
@@ -646,9 +623,9 @@
 
 ### Resources / Examples
 
-*   [Ping CRM / Rails (⭐255)](https://github.com/ledermann/pingcrm) - Demonstration application made with Ruby on Rails and Vue.js.
+*   [Ping CRM / Rails (⭐296)](https://github.com/ledermann/pingcrm) - Demonstration application made with Ruby on Rails and Vue.js.
 
-## [49. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [47. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Image Processing
 
@@ -662,14 +639,14 @@
 
 *   [magenta (⭐19k)](https://github.com/magenta/magenta) - A tool to generate music and art using artificial intelligence.
 
-## [50. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
+## [48. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
 ### Rendering/Publishing/Conversion
 
 *   [nbflow (⭐159)](https://github.com/jhamrick/nbflow) - One-button reproducible workflows with Jupyter and Scons.
 *   [nbinteract](https://www.nbinteract.com) - Create interactive webpages from Jupyter notebooks.
 
-## [51. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
+## [49. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
 ### Shadow DOM
 
@@ -691,32 +668,32 @@
 
 *   [How searching for a bundle-free React led me to web components](https://www.bryanbraun.com/2020/08/31/how-searching-for-a-bundle-free-react-led-me-to-web-components/)
 
-## [52. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/week/README.md)
+## [50. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/week/README.md)
 
 ### Website Analyzers
 
 *   [Lighthouse Metrics](https://lighthouse-metrics.com/) - Lighthouse Metrics provides easy insights for your site's performance. Save your time by running tests from multiple locations to get the valuable insight you need.
 *   [UITest.com Site Check](https://uitest.com/check/) - Test your website in more than 80 tools (web-based and free).
 
-## [53. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [51. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Miscellaneous
 
 *   [expyplot (⭐33)](https://github.com/MaxStrange/expyplot) - Elixir interface for Plotting/Graphing library using matplotlib.pyplot.
 
-## [54. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [52. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In Portuguese
 
 *   [Enciclopédia do Teatro Impossível](https://open.spotify.com/show/36EnYAg6C1szSmbryeavXb?si=Htx1pbzGSp61pqyVvxbrRw) - A Enciclopédia do Teatro Impossível é uma história paralela do teatro brasileiro, vista pelos seus fracassos. São relatos parte ficção parte realidade sobre produções teatrais impossíveis.
 
-## [55. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [53. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### Open Source Apps / Navigation Demos
 
 *   [Nyxo ★12 (⭐232)](https://github.com/hello-nyxo/nyxo-app) - Sleep tracker and sleep coaching app. Available for Android and iOS.
 
-## [56. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+## [54. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
 ### Third-Party Packages / APIs
 
@@ -728,7 +705,7 @@
 
 ### Third-Party Packages / Performance
 
-*   [django-silk (⭐4.4k)](https://github.com/jazzband/django-silk) - Live profiling and inspection of HTTP requests and database queries.
+*   [django-silk (⭐4.6k)](https://github.com/jazzband/django-silk) - Live profiling and inspection of HTTP requests and database queries.
 
 ### Resources / Educational
 
@@ -736,9 +713,9 @@
 
 ### Projects / Open Source Projects
 
-*   [PostHog (⭐20k)](https://github.com/PostHog/posthog) - Open-source product analytics.
+*   [PostHog (⭐23k)](https://github.com/PostHog/posthog) - Open-source product analytics.
 
-## [57. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [55. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Games & Comics
 

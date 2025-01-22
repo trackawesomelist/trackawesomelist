@@ -10,7 +10,7 @@
 
 ### Front-End Development
 
-*   [Inertia.js (⭐228)](https://github.com/innocenzi/awesome-inertiajs#readme) - Make single-page apps without building an API.
+*   [Inertia.js (⭐238)](https://github.com/innocenzi/awesome-inertiajs#readme) - Make single-page apps without building an API.
 
 ## [2. Awesome Slack](/content/filipelinhares/awesome-slack/README.md)
 
@@ -22,10 +22,10 @@
 
 ### Resources / Examples
 
-*   💜 [Ping CRM / Laravel (⭐2k)](https://github.com/inertiajs/pingcrm/) - Demonstration application made with Laravel and Vue.js.
-*   💜 [Ping CRM / Svelte (⭐199)](https://github.com/inertiajs/pingcrm-svelte) - Demonstration application made with Laravel and Svelte.
-*   [Ping CRM / Django (⭐38)](https://github.com/zodman/django-inertia-demo) - Demonstration application made with Django and Vue.js.
-*   [Ping CRM / React (⭐549)](https://github.com/Landish/pingcrm-react) - Demonstration application made with Laravel React.
+*   💜 [Ping CRM / Laravel (⭐2.2k)](https://github.com/inertiajs/pingcrm/) - Demonstration application made with Laravel and Vue.js.
+*   💜 [Ping CRM / Svelte (⭐228)](https://github.com/inertiajs/pingcrm-svelte) - Demonstration application made with Laravel and Svelte.
+*   [Ping CRM / Django (⭐40)](https://github.com/zodman/django-inertia-demo) - Demonstration application made with Django and Vue.js.
+*   [Ping CRM / React (⭐645)](https://github.com/Landish/pingcrm-react) - Demonstration application made with Laravel React.
 
 ### Resources / Other
 
@@ -45,7 +45,7 @@
 
 ### Editing Support / Diagnostics
 
-*   [folke/zen-mode.nvim (⭐1.6k)](https://github.com/folke/zen-mode.nvim) - Distraction-free coding.
+*   [folke/zen-mode.nvim (⭐1.8k)](https://github.com/folke/zen-mode.nvim) - Distraction-free coding.
 
 ## [6. Awesome Rails](/content/gramantin/awesome-rails/README.md)
 

@@ -10,7 +10,7 @@
 
 ### Applications
 
-*   [wasmer (⭐18k)](https://github.com/wasmerio/wasmer) - A safe and fast WebAssembly runtime supporting WASI and Emscripten [![Build Status](https://github.com/wasmerio/wasmer/workflows/build/badge.svg?style=flat-square)](https://github.com/wasmerio/wasmer/actions)
+*   [wasmer (⭐19k)](https://github.com/wasmerio/wasmer) - A safe and fast WebAssembly runtime supporting WASI and Emscripten [![Build Status](https://github.com/wasmerio/wasmer/workflows/build/badge.svg?style=flat-square)](https://github.com/wasmerio/wasmer/actions)
 
 ## [2. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -40,7 +40,7 @@
 
   CORS: Unknown
 
-  Call this API: 
+  : 
 
 
 
@@ -78,10 +78,6 @@
 
 *   [Add a prebuilt video chat widget to any Vue app with daily-js](https://www.daily.co/blog/build-a-video-chat-app-with-vue-and-daily-prebuilt/) by Jess Mitchell, via Daily (August 2021)
 *   [Build a custom video chat app with daily-js and Vue](https://www.daily.co/blog/custom-video-chat-app-with-daily-and-vue/) by Jess Mitchell, via Daily (November 2021)
-
-### Resources / Examples
-
-*   [Customizable Vue video chat app (⭐4)](https://github.com/daily-demos/vue-call-object) - A Vue video call demo app featuring local device controls and screen sharing.
 
 ## [4. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 

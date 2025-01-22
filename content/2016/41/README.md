@@ -14,7 +14,7 @@
 
 ### Queue
 
-*   [RawRabbit (⭐744)](https://github.com/pardahlman/RawRabbit) - A modern .NET Core library for RabbitMQ.
+*   [RawRabbit (⭐746)](https://github.com/pardahlman/RawRabbit) - A modern .NET Core library for RabbitMQ.
 
 ## [2. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
 
@@ -202,7 +202,7 @@
 
 ### Contents / Utilities
 
-*   [pgmigrate (⭐619)](https://github.com/yandex/pgmigrate) - CLI tool to evolve schema migrations, developed by Yandex.
+*   [pgmigrate (⭐624)](https://github.com/yandex/pgmigrate) - CLI tool to evolve schema migrations, developed by Yandex.
 
 ## [16. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
 
@@ -210,7 +210,6 @@
 
 *   [Quantified Self](http://quantifiedself.com/) - Official website.
 *   [Flowing Data](http://flowingdata.com/category/self-surveillance/) - Self surveillance and quantification news.
-*   [Wearables Database](http://vandrico.com/wearables/) - Awesome list of wearables available per body part.
 *   [Wolfram Connected Devices Project](http://devices.wolfram.com/) - IoT and Quantified Self device list.
 
 ### Articles & Blogs
@@ -220,7 +219,6 @@
 ### Applications and Platforms / Fitness
 
 *   [Runkeeper](http://runkeeper.com/) - Outdoor fitness activity tracker (iOS & Android).
-*   [Endomondo](https://www.endomondo.com/) - Sport and health statistics tracker (iOS & Android).
 *   [Runtastic](https://www.runtastic.com/) - Running, cycling, and fitness GPS tracker (iOS & Android).
 *   [Strava](https://www.strava.com/) - Athletic activity tracking and social network.
 
@@ -247,18 +245,12 @@
 
 *   [Fitbit](http://www.fitbit.com/) - Awesome activity tracking wearables to track steps, heart rate, quality of sleep, and other personal metrics.
 *   [Garmin](https://buy.garmin.com/en-US/US/wearables/c10002-p1.html) - World-class range of wearables.
-*   [TomTom](https://www.tomtom.com/en_us/sports/fitness-trackers/) - Fitness trackers and watches.
-*   [Jawbone UP](https://jawbone.com/up) - Fitness trackers for a healthier you.
 *   [Withings](http://www.withings.com/) - Activity tracking and connected devices.
-*   [Nike Fuel](https://secure-nikeplus.nike.com/plus/what_is_fuel/) - Universal activity tracking devices.
-*   [Misfit](https://misfit.com/) - Wearable tracking devices.
-*   [Pebble](https://www.pebble.com/) - Smart watches that works with your mobile device.
 *   [Wahoo](http://wahoofitness.com/) - Connected cycling, running, and fitness devices.
 *   [Hexo Skin](http://www.hexoskin.com/) - Awesome biometric shirts.
 *   [Whoop](http://whoop.com/) - Athletic performance monitoring.
 *   [Zephyr BioHarness](https://www.zephyranywhere.com/products/bioharness-3) - Performance monitoring wearables.
 *   [Apple Watch](http://www.apple.com/watch/) - Fitness and other health oriented tracking.
-*   [Amiigo](https://amiigo.com/) - Activity and gym workout trackers.
 
 ### Research and Analysis / Wealth
 
@@ -273,8 +265,6 @@
 ### Open Source Projects / Wealth
 
 *   [Open mHealth](http://www.openmhealth.org/) - Open source health data integration tools.
-*   [Quantifier (⭐40)](https://github.com/tsubery/quantifier) - A Quantified Self app that tracks various fitness and productivity metrics.
-*   [Fluxtream (⭐150)](https://github.com/fluxtream/fluxtream-app) - An open-source non-profit personal data visualization framework.
 
 ## [17. Awesome Pyramid](/content/uralbash/awesome-pyramid/week/README.md)
 
@@ -343,12 +333,12 @@ Free
 
 ### Game Disassemblies / Syntax highlighting packages
 
-*   [Pokémon Red/Blue (⭐3.7k)](https://github.com/pret/pokered)
-*   [Pokémon Crystal (⭐2k)](https://github.com/pret/pokecrystal)
+*   [Pokémon Red/Blue (⭐4.1k)](https://github.com/pret/pokered)
+*   [Pokémon Crystal (⭐2.1k)](https://github.com/pret/pokecrystal)
 
 ### Related projects / Syntax highlighting packages
 
-*   [Piglet (⭐42)](https://github.com/danShumway/Piglet) - A LUA-driven AI that plays classic Game Boy color games using experimentation. In active development.
+*   [Piglet (⭐43)](https://github.com/danShumway/Piglet) - A LUA-driven AI that plays classic Game Boy color games using experimentation. In active development.
 
 ## [24. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
@@ -415,7 +405,7 @@ Webpage: <http://www.moustache.pt/>
 
 ### Functional Languages that Compile to JavaScript / Lenses
 
-*   [Quack (⭐322)](https://github.com/quack/quack) - A multi-paradigm programming language with gradual and duck typing that targets PHP and JS.
+*   [Quack (⭐323)](https://github.com/quack/quack) - A multi-paradigm programming language with gradual and duck typing that targets PHP and JS.
 
 ## [28. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
 
@@ -555,7 +545,7 @@ git cherry -v
 
 *   [Latest Documentation](https://cmake.org/cmake/help/latest/)
 *   [Webinars](https://cmake.org/webinars/)
-*   [Modern CMake (⭐210)](https://github.com/toeb/moderncmake) - Modern CMake **PDF** and samples by the creator of [cmakepp (⭐399)](https://github.com/toeb/cmakepp). [`[MIT]`](https://opensource.org/licenses/MIT)
+*   [Modern CMake (⭐229)](https://github.com/toeb/moderncmake) - Modern CMake **PDF** and samples by the creator of [cmakepp (⭐434)](https://github.com/toeb/cmakepp). [`[MIT]`](https://opensource.org/licenses/MIT)
 
 ## [39. Typography](/content/deanhume/typography/week/README.md)
 

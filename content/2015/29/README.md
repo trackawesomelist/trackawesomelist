@@ -48,7 +48,7 @@
 
 ### Images
 
-*   [png (⭐56)](https://github.com/yuce/png) - A pure Erlang library for creating PNG images. It can currently create 8 and 16 bit RGB, RGB with alpha, indexed, grayscale and grayscale with alpha images.
+*   [png (⭐57)](https://github.com/yuce/png) - A pure Erlang library for creating PNG images. It can currently create 8 and 16 bit RGB, RGB with alpha, indexed, grayscale and grayscale with alpha images.
 
 ### ORM and Datamapping
 
@@ -60,7 +60,7 @@
 
 ### HTTP Clients and tools
 
-*   [Http-2 (⭐892)](https://github.com/igrigorik/http-2) - Pure Ruby implementation of HTTP/2 protocol
+*   [Http-2 (⭐899)](https://github.com/igrigorik/http-2) - Pure Ruby implementation of HTTP/2 protocol
 
 ## [7. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
 
@@ -175,8 +175,8 @@
 
 ### Monitoring / Prometheus
 
-*   [Prometheus.io (⭐54k)](https://github.com/prometheus/prometheus) - An open-source service monitoring system and time series database.
-*   [HAProxy Exporter (⭐614)](https://github.com/prometheus/haproxy_exporter) - Simple server that scrapes HAProxy stats and exports them via HTTP for Prometheus consumption.
+*   [Prometheus.io (⭐55k)](https://github.com/prometheus/prometheus) - An open-source service monitoring system and time series database.
+*   [HAProxy Exporter (⭐617)](https://github.com/prometheus/haproxy_exporter) - Simple server that scrapes HAProxy stats and exports them via HTTP for Prometheus consumption.
 
 ## [16. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
@@ -351,11 +351,11 @@ git config --global core.autocrlf false
 
 ### Game Engine
 
-*   [Panda3D (⭐4.4k)](https://github.com/panda3d/panda3d) - A game engine, a framework for 3D rendering and game development for Python and C++ programs. \[Modified BSD] [website](https://www.panda3d.org/)
+*   [Panda3D (⭐4.6k)](https://github.com/panda3d/panda3d) - A game engine, a framework for 3D rendering and game development for Python and C++ programs. \[Modified BSD] [website](https://www.panda3d.org/)
 
 ### Networking
 
-*   [cpr (⭐6.4k)](https://github.com/whoshuu/cpr) - A modern C++ HTTP requests library with a simple but powerful interface. Modeled after the Python Requests module. \[MIT] [website](https://docs.libcpr.org)
+*   [cpr (⭐6.7k)](https://github.com/whoshuu/cpr) - A modern C++ HTTP requests library with a simple but powerful interface. Modeled after the Python Requests module. \[MIT] [website](https://docs.libcpr.org)
 
 ## [20. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
@@ -387,8 +387,8 @@ git config --global core.autocrlf false
 
 ### File System Utilities
 
-*   [Groovy-Vfs (⭐62)](https://github.com/ysb33r/groovy-vfs) - A DSL for Groovy on top of Apache VFS2
-*   [Directree (⭐12)](https://github.com/kdabir/directree) - A Simple DSL to create Directory Tree with Text Files
+*   [Groovy-Vfs (⭐63)](https://github.com/ysb33r/groovy-vfs) - A DSL for Groovy on top of Apache VFS2
+*   [Directree (⭐14)](https://github.com/kdabir/directree) - A Simple DSL to create Directory Tree with Text Files
 
 ## [23. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
@@ -413,11 +413,11 @@ git config --global core.autocrlf false
 
 ### Misc
 
-*   [AzureCrawler (⭐42)](https://github.com/yagopv/AzureCrawler) - Take HTML Snapshots for your Angular, Ember, Durandal or any JavaScript applications
+*   [AzureCrawler (⭐43)](https://github.com/yagopv/AzureCrawler) - Take HTML Snapshots for your Angular, Ember, Durandal or any JavaScript applications
 
 ### Testing
 
-*   [Shouldly (⭐2k)](https://github.com/shouldly/shouldly) - Shouldly is an assertion framework which focuses on giving great error messages when the assertion fails while being simple and terse.
+*   [Shouldly (⭐2.8k)](https://github.com/shouldly/shouldly) - Shouldly is an assertion framework which focuses on giving great error messages when the assertion fails while being simple and terse.
 
 ## [27. Awesome Devenv](/content/jondot/awesome-devenv/week/README.md)
 

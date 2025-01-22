@@ -74,8 +74,8 @@
 
 ### Algorithms and Data structures
 
-*   [lz4 (⭐64)](https://github.com/szktty/erlang-lz4) - LZ4 bindings for Erlang for fast data compressing.
-*   [monadex (⭐306)](https://github.com/rob-brown/MonadEx) - Upgrade your Elixir pipelines with monads.
+*   [lz4 (⭐65)](https://github.com/szktty/erlang-lz4) - LZ4 bindings for Erlang for fast data compressing.
+*   [monadex (⭐309)](https://github.com/rob-brown/MonadEx) - Upgrade your Elixir pipelines with monads.
 *   [parex (⭐63)](https://github.com/StevenJL/parex) - Parallel Execute (Parex) is an Elixir module for executing multiple (slow) processes in parallel.
 
 ### Caching
@@ -84,21 +84,21 @@
 
 ### Command Line Applications
 
-*   [getopt (⭐247)](https://github.com/jcomellas/getopt) - Command-line options parser for Erlang.
+*   [getopt (⭐252)](https://github.com/jcomellas/getopt) - Command-line options parser for Erlang.
 
 ### Framework Components
 
-*   [phoenix\_pubsub\_redis (⭐175)](https://github.com/phoenixframework/phoenix_pubsub_redis) - The Redis PubSub adapter for the Phoenix framework.
+*   [phoenix\_pubsub\_redis (⭐176)](https://github.com/phoenixframework/phoenix_pubsub_redis) - The Redis PubSub adapter for the Phoenix framework.
 *   [scaffold (⭐7)](https://github.com/gausby/scaffold) - A mix task for creating new projects based on templates fetched from a Git-repo.
 
 ### Frameworks
 
-*   [trot (⭐415)](https://github.com/hexedpackets/trot) - An Elixir web micro-framework.
+*   [trot (⭐420)](https://github.com/hexedpackets/trot) - An Elixir web micro-framework.
 
 ### ORM and Datamapping
 
 *   [database\_url (⭐9)](https://github.com/s-m-i-t-a/database_url) - Parse database URL and return keyword list for use with Ecto.
-*   [isn (⭐9)](https://github.com/Frost/isn) - Ecto types for the postgreSQL isn extension.
+*   [isn (⭐10)](https://github.com/Frost/isn) - Ecto types for the postgreSQL isn extension.
 *   [level (⭐5)](https://github.com/gausby/level) - Level for Elixir implements various helper functions and data types for working with Googles Level data store.
 *   [mongo (⭐101)](https://github.com/checkiz/elixir-mongo) - MongoDB driver for Elixir.
 *   [sqlite\_ecto (⭐77)](https://github.com/jazzyb/sqlite_ecto) - SQLite3 adapter for Ecto.
@@ -109,7 +109,7 @@
 
 ### Testing
 
-*   [proper (⭐878)](https://github.com/manopapad/proper) - PropEr (PROPerty-based testing tool for ERlang) is a QuickCheck-inspired open-source property-based testing tool for Erlang.
+*   [proper (⭐886)](https://github.com/manopapad/proper) - PropEr (PROPerty-based testing tool for ERlang) is a QuickCheck-inspired open-source property-based testing tool for Erlang.
 
 ### Text and Numbers
 
@@ -119,12 +119,12 @@
 
 *   [reddhl (⭐4)](https://github.com/MonkeyIsNull/reddhl) - An headline and link puller for Reddit and its various subreddits.
 *   [telephonist (⭐41)](https://github.com/danielberkompas/telephonist) - Elixir state machines for Twilio calls.
-*   [tentacat (⭐443)](https://github.com/edgurgel/tentacat) - Simple Elixir wrapper for the GitHub API.
+*   [tentacat (⭐448)](https://github.com/edgurgel/tentacat) - Simple Elixir wrapper for the GitHub API.
 
 ### Utilities
 
 *   [ar2ecto (⭐13)](https://github.com/aforward/ar2ecto) - Ar2ecto is a set of mix tasks to help you migrate from ActiveRecord to Ecto.
-*   [erlware\_commons (⭐220)](https://github.com/erlware/erlware_commons) - Additional standard library for Erlang.
+*   [erlware\_commons (⭐221)](https://github.com/erlware/erlware_commons) - Additional standard library for Erlang.
 
 ### YAML
 
@@ -138,8 +138,8 @@
 
 ### Template Engine
 
-*   [Nustache (⭐593)](https://github.com/jdiamond/Nustache) - Open source library for logic-less templates
-*   [DotLiquid (⭐1k)](https://github.com/dotliquid/dotliquid) - C# port of the Ruby Liquid templating language
+*   [Nustache (⭐599)](https://github.com/jdiamond/Nustache) - Open source library for logic-less templates
+*   [DotLiquid (⭐1.1k)](https://github.com/dotliquid/dotliquid) - C# port of the Ruby Liquid templating language
 
 ## [9. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
 
@@ -199,7 +199,7 @@
 
 ### High Performance
 
-*   [Rcpp11 (⭐80)](https://github.com/Rcpp11/Rcpp11) - Rcpp11 is a complete redesign of Rcpp, targetting C++11.
+*   [Rcpp11 (⭐78)](https://github.com/Rcpp11/Rcpp11) - Rcpp11 is a complete redesign of Rcpp, targetting C++11.
 
 ## [12. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/week/README.md)
 
@@ -247,7 +247,7 @@ PentesterLab provides [free Hands-On exercises](https://pentesterlab.com/exercis
 
 ### Tools / Javascript
 
-*   [selenium-webdriver (⭐27k)](https://github.com/SeleniumHQ/selenium/wiki/WebDriverJs) - The official WebDriver JavaScript bindings from the Selenium project.
+*   [selenium-webdriver (⭐31k)](https://github.com/SeleniumHQ/selenium/wiki/WebDriverJs) - The official WebDriver JavaScript bindings from the Selenium project.
 *   [WD (⭐1.5k)](https://github.com/admc/wd) - WebDriver/Selenium 2 node.js client.
 *   [WebdriverIO](http://webdriver.io) - better implementation of WebDriver bindings with predefined 50+ actions.
 *   [SlimerJS](http://slimerjs.org/) - A scriptable browser for Web developers.
@@ -257,7 +257,7 @@ PentesterLab provides [free Hands-On exercises](https://pentesterlab.com/exercis
 
 *   [Anemone (⭐1.6k)](https://github.com/chriskite/anemone) - Anemone web-spider framework.
 *   [Mechanize](http://docs.seattlerb.org/mechanize/) - automating interaction with websites.
-*   [Spidr (⭐760)](https://github.com/postmodern/spidr) - web spidering library that can spider a site, multiple domains, certain links or infinitely.
+*   [Spidr (⭐812)](https://github.com/postmodern/spidr) - web spidering library that can spider a site, multiple domains, certain links or infinitely.
 *   [cobweb](https://rubygems.org/gems/cobweb) - web crawler that can use resque to cluster crawls to quickly crawl extremely large sites.
 
 ### Tools / Python
@@ -270,12 +270,12 @@ PentesterLab provides [free Hands-On exercises](https://pentesterlab.com/exercis
 
 ### Driver / Desktop (browsers)
 
-*   [Internet Explorer (⭐27k)](https://github.com/SeleniumHQ/selenium/wiki/InternetExplorerDriver) - The InternetExplorerDriver is a standalone server which implements WebDriver's wire protocol.
-*   [Opera (⭐240)](https://github.com/operasoftware/operachromiumdriver/blob/master/README.md) - OperaDriver is a vendor-supported WebDriver implementation developed by Opera Software and volunteers that implements WebDriver API for Opera.
+*   [Internet Explorer (⭐31k)](https://github.com/SeleniumHQ/selenium/wiki/InternetExplorerDriver) - The InternetExplorerDriver is a standalone server which implements WebDriver's wire protocol.
+*   [Opera (⭐263)](https://github.com/operasoftware/operachromiumdriver/blob/master/README.md) - OperaDriver is a vendor-supported WebDriver implementation developed by Opera Software and volunteers that implements WebDriver API for Opera.
 
 ### Web Scraping / Mining / Desktop GUI Automation (non-browser-centric)
 
-*   [Node-Crawler (⭐6.5k)](https://github.com/sylvinus/node-crawler) - **Node.js** Web Crawler/Spider for NodeJS + server-side jQuery.
+*   [Node-Crawler (⭐6.7k)](https://github.com/sylvinus/node-crawler) - **Node.js** Web Crawler/Spider for NodeJS + server-side jQuery.
 
 ### Blogs / Desktop GUI Automation (non-browser-centric)
 
@@ -300,11 +300,11 @@ PentesterLab provides [free Hands-On exercises](https://pentesterlab.com/exercis
 
 ### Configuration
 
-*   [ENVied (⭐331)](https://github.com/eval/envied) - ensure presence and type of your app's ENV-variables
+*   [ENVied (⭐330)](https://github.com/eval/envied) - ensure presence and type of your app's ENV-variables
 
 ### DevOps Tools
 
-*   [SSHKey (⭐276)](https://github.com/bensie/sshkey) - SSH private and public key generator in pure Ruby (RSA & DSA).
+*   [SSHKey (⭐275)](https://github.com/bensie/sshkey) - SSH private and public key generator in pure Ruby (RSA & DSA).
 
 ### Error Handling
 
@@ -314,7 +314,7 @@ PentesterLab provides [free Hands-On exercises](https://pentesterlab.com/exercis
 
 ### Table of Contents / Filtering, Sanitizing and Validation
 
-*   [Volan (⭐43)](https://github.com/serkin/Volan) - Another simplified validation library.
+*   [Volan (⭐44)](https://github.com/serkin/Volan) - Another simplified validation library.
 
 ## [20. Typography](/content/deanhume/typography/week/README.md)
 
@@ -352,7 +352,7 @@ PentesterLab provides [free Hands-On exercises](https://pentesterlab.com/exercis
 
 ### JavaScript Libraries
 
-*   [Bitcoinjs-lib (⭐5.6k)](https://github.com/bitcoinjs/bitcoinjs-lib)
+*   [Bitcoinjs-lib (⭐5.8k)](https://github.com/bitcoinjs/bitcoinjs-lib)
 
 ## [23. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/week/README.md)
 

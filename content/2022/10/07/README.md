@@ -24,21 +24,21 @@ Installs: 4000 | Stars: 961 | Last update: n/a
 
 ### Schema / Diagrams
 
-*   [Azimutt (⭐1.1k)](https://github.com/azimuttapp/azimutt) - An Entity Relationship diagram (ERD) visualization tool, with various filters and inputs to help understand your database schema.
+*   [Azimutt (⭐1.7k)](https://github.com/azimuttapp/azimutt) - An Entity Relationship diagram (ERD) visualization tool, with various filters and inputs to help understand your database schema.
 
 ### SQL / Analyzers
 
-*   [SQLLineage (⭐1.2k)](https://github.com/reata/sqllineage) - SQL Lineage Analysis Tool powered by Python.
+*   [SQLLineage (⭐1.4k)](https://github.com/reata/sqllineage) - SQL Lineage Analysis Tool powered by Python.
 
 ## [4. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [conda (⭐360)](https://github.com/conda-incubator/conda-zsh-completion) - ZSH tab completion for [conda](http://conda.pydata.org/).
+*   [conda (⭐380)](https://github.com/conda-incubator/conda-zsh-completion) - ZSH tab completion for [conda](http://conda.pydata.org/).
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [purpleblood (⭐0)](https://github.com/HFMorais/oh-my-zsh-purpleblood-theme/) - Based on [darkblood (⭐172k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/darkblood.zsh-theme). Includes decorators for `username@host`, `git` status, and current directory.
+*   [purpleblood (⭐0)](https://github.com/HFMorais/oh-my-zsh-purpleblood-theme/) - Based on [darkblood (⭐175k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/darkblood.zsh-theme). Includes decorators for `username@host`, `git` status, and current directory.
 
 ## [5. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
 
@@ -70,7 +70,7 @@ Installs: 4000 | Stars: 961 | Last update: n/a
 
 ### Components / Apache License
 
-*   [asap (⭐6)](https://github.com/annexi-strayline/ASAP) - A set of general libraries and thick bindings for use with the AURA package management/build tool. Includes TCP, TLS, HTTP, a high-performance JSON parser/generator, and a formally verified (SPARK) UTF-8 stream decoder.
+*   [asap (⭐7)](https://github.com/annexi-strayline/ASAP) - A set of general libraries and thick bindings for use with the AURA package management/build tool. Includes TCP, TLS, HTTP, a high-performance JSON parser/generator, and a formally verified (SPARK) UTF-8 stream decoder.
 
 ## [8. Awesome Crypto Papers](/content/pFarb/awesome-crypto-papers/README.md)
 
@@ -104,7 +104,7 @@ Installs: 4000 | Stars: 961 | Last update: n/a
 
 ### Web Application Framework
 
-*   [userver (⭐2.4k)](https://github.com/userver-framework/userver) - Asynchronous C++17 framework with a rich set of abstractions and database drivers for fast and comfortable creation of efficient microservices, services and utilities. \[Apache-2.0] [website](https://userver.tech/)
+*   [userver (⭐2.5k)](https://github.com/userver-framework/userver) - Asynchronous C++17 framework with a rich set of abstractions and database drivers for fast and comfortable creation of efficient microservices, services and utilities. \[Apache-2.0] [website](https://userver.tech/)
 
 ## [11. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
 
@@ -128,7 +128,7 @@ Installs: 4000 | Stars: 961 | Last update: n/a
 
 ### Templates / Electron
 
-*   [electron-vue-template (⭐550)](https://github.com/Deluze/electron-vue-template) - Electron template with TypeScript, including Electron Builder.
+*   [electron-vue-template (⭐620)](https://github.com/Deluze/electron-vue-template) - Electron template with TypeScript, including Electron Builder.
 
 ## [15. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 

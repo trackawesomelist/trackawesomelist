@@ -10,13 +10,13 @@
 
 ### Command-Line Tools / Discovery
 
-*   [nh (⭐809)](https://github.com/viperML/nh) - Better output for `nix` `nixos-rebuild` and home-manger CLI using `nvd` and `nix-output-monitor`.
+*   [nh (⭐1.2k)](https://github.com/viperML/nh) - Better output for `nix` `nixos-rebuild` and home-manger CLI using `nvd` and `nix-output-monitor`.
 
 ## [2. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Game / Diagnostics
 
-*   [rktjmp/playtime.nvim (⭐63)](https://github.com/rktjmp/playtime.nvim) - A collection of games such as Freecell, Shenzhen Solitaire and The Emissary.
+*   [rktjmp/playtime.nvim (⭐70)](https://github.com/rktjmp/playtime.nvim) - A collection of games such as Freecell, Shenzhen Solitaire and The Emissary.
 
 ## [3. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
@@ -51,14 +51,14 @@
 ### Front-ends
 
 *   **Alokai** (*ex: Vue Storefront*) ([github.com/vuestorefront/vue-storefront (⭐11k)](https://github.com/vuestorefront/vue-storefront))
-*   **ScandiPWA** ([github.com/scandipwa/scandipwa (⭐542)](https://github.com/scandipwa/scandipwa))
+*   **ScandiPWA** ([github.com/scandipwa/scandipwa (⭐551)](https://github.com/scandipwa/scandipwa))
 *   **Front-Commerce** ([front-commerce.com](https://www.front-commerce.com/))- Front-Commerce is an innovative, advanced, ready-to-use PWA (Progressive Web App) front-end solution developed in France for Magento stores.
 
 ## [6. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### LLM Evaluation / Multi-agents
 
-*   [MLGroupJLU/LLM-eval-survey: The official GitHub page for the survey paper "A Survey on Evaluation of Large Language Models". (⭐1.3k)](https://github.com/MLGroupJLU/LLM-eval-survey)
+*   [MLGroupJLU/LLM-eval-survey: The official GitHub page for the survey paper "A Survey on Evaluation of Large Language Models". (⭐1.5k)](https://github.com/MLGroupJLU/LLM-eval-survey)
 *   [A Survey on Evaluation of Large Language Models | ACM Transactions on Intelligent Systems and Technology](https://dl.acm.org/doi/10.1145/3641289)
 *   [\[2307.03109\] A Survey on Evaluation of Large Language Models](https://arxiv.org/abs/2307.03109)
 
@@ -66,7 +66,7 @@
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [Pinepods](https://www.pinepods.online/) - A rust based podcast management system with multi-user support. Pinepods utilizes a central database so aspects like listen time and themes follow from device to device. ([Demo](https://try.pinepods.online), [Source Code (⭐184)](https://github.com/madeofpendletonwool/PinePods)) `GPL-3.0` `Docker`
+*   [Pinepods](https://www.pinepods.online/) - A rust based podcast management system with multi-user support. Pinepods utilizes a central database so aspects like listen time and themes follow from device to device. ([Demo](https://try.pinepods.online), [Source Code (⭐312)](https://github.com/madeofpendletonwool/PinePods)) `GPL-3.0` `Docker`
 
 ### Software / Office Suites
 
@@ -74,7 +74,7 @@
 
 ### Software / Polls and Events
 
-*   [Formbricks](https://formbricks.com) - Experience Management Suite built on the largest open source survey stack worldwide. Gracefully gather feedback at every step of the customer journey to know what your customers need. ([Demo](https://app.formbricks.com), [Source Code (⭐6.3k)](https://github.com/formbricks/formbricks)) `AGPL-3.0` `Nodejs/Docker`
+*   [Formbricks](https://formbricks.com) - Experience Management Suite built on the largest open source survey stack worldwide. Gracefully gather feedback at every step of the customer journey to know what your customers need. ([Demo](https://app.formbricks.com), [Source Code (⭐9.7k)](https://github.com/formbricks/formbricks)) `AGPL-3.0` `Nodejs/Docker`
 
 ## [8. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
@@ -84,81 +84,81 @@
 
 ### HTTP / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [angular-http-cache-interceptor (⭐4)](https://github.com/patrikx3/angular-http-cache-interceptor) - Angular HTTP cache interceptor.
+*   [angular-http-cache-interceptor (⭐5)](https://github.com/patrikx3/angular-http-cache-interceptor) - Angular HTTP cache interceptor.
 
 ### File Upload / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-uploadx (⭐43)](https://github.com/kukhariev/ngx-uploadx) - Angular Resumable Upload Module.
+*   [ngx-uploadx (⭐44)](https://github.com/kukhariev/ngx-uploadx) - Angular Resumable Upload Module.
 
 ### Loaders / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [dotglitch-ngx (⭐15)](https://github.com/knackstedt/dotglitch-ngx/tree/main/packages/common/src/components/lazy-loader) - Highly customizable lazy loader for Angular components.
-*   [ngx-loading (⭐267)](https://github.com/zak-c/ngx-loading) - A loading spinner for Angular applications.
-*   [ng-block-ui (⭐145)](https://github.com/kuuurt13/ng-block-ui) - Block UI Loader/Spinner for Angular.
-*   [ngx-spinner (⭐818)](https://github.com/napster2210/ngx-spinner) - A library for loading spinner for Angular.
-*   [angular-busy (⭐23)](https://github.com/tiberiuzuld/angular-busy) - Show busy/loading indicators on any element during a promise/Observable.
+*   [dotglitch-ngx (⭐18)](https://github.com/knackstedt/dotglitch-ngx/tree/main/packages/common/src/components/lazy-loader) - Highly customizable lazy loader for Angular components.
+*   [ngx-loading (⭐265)](https://github.com/zak-c/ngx-loading) - A loading spinner for Angular applications.
+*   [ng-block-ui (⭐144)](https://github.com/kuuurt13/ng-block-ui) - Block UI Loader/Spinner for Angular.
+*   [ngx-spinner (⭐828)](https://github.com/napster2210/ngx-spinner) - A library for loading spinner for Angular.
+*   [angular-busy (⭐24)](https://github.com/tiberiuzuld/angular-busy) - Show busy/loading indicators on any element during a promise/Observable.
 *   [angular-loaders (⭐2)](https://github.com/pjlamb12/angular-loaders) - Angular loader components.
-*   [ngx-loader-indicator (⭐51)](https://github.com/jsdaddy/ngx-loader-indicator) - Awesome loader for Angular applications. No wrappers only your elements.
-*   [ngx-skeleton-loader (⭐564)](https://github.com/willmendesneto/ngx-skeleton-loader) - Make beautiful, animated loading skeletons that automatically adapt to your Angular apps.
+*   [ngx-loader-indicator (⭐52)](https://github.com/jsdaddy/ngx-loader-indicator) - Awesome loader for Angular applications. No wrappers only your elements.
+*   [ngx-skeleton-loader (⭐587)](https://github.com/willmendesneto/ngx-skeleton-loader) - Make beautiful, animated loading skeletons that automatically adapt to your Angular apps.
+
+### NgRx / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngrx-store-storagesync (⭐41)](https://github.com/larscom/ngrx-store-storagesync) - Highly configurable state sync library between localStorage/sessionStorage and `@ngrx/store`.
+*   [ngrx-wieder (⭐128)](https://github.com/nilsmehlhorn/ngrx-wieder) - Lightweight undo-redo for Angular with NgRx & Immer.js.
+*   [ngrx-immer (⭐120)](https://github.com/timdeschryver/ngrx-immer) - Immer wrappers around NgRx methods createReducer, on, and ComponentStore.
+*   [ngrx-rtk-query (⭐62)](https://github.com/SaulMoro/ngrx-rtk-query) - Make RTK Query with Hooks works in Angular Applications.
+*   [ngrx-action-bundles (⭐14)](https://github.com/IliaIdakiev/ngrx-action-bundles) - This library allows you to reduce ngrx boilerplate by generating action bundles for common ngrx redux store scenarios and allows you to easily connect state, dispatch actions and listen for actions everywhere across your applications.
 
 ### Unspecified / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ej2-angular-ui-components (⭐274)](https://github.com/syncfusion/ej2-angular-ui-components) - Syncfusion Angular UI Components library has been built from the ground up to be lightweight, responsive, modular and touch friendly. It offers 70+ UI components that every applications will ever need.
-*   [ng-devui (⭐1.7k)](https://github.com/DevCloudFE/ng-devui) - Angular UI Component Library based on DevUI Design.
-*   [ng-aquila (⭐207)](https://github.com/allianz/ng-aquila) - Aquila is an open-source component library provided by the Allianz Global Digital Factory (GDF). We use this library internally with Allianz branding. Here we provide a white label variant of these components.
-*   [enterprise-ng (⭐56)](https://github.com/infor-design/enterprise-ng) - Angular wrappers for IDS Enterprise components.
-*   [oblique (⭐53)](https://github.com/oblique-bit/oblique) - An Angular front-end framework Tailored for your swiss branded business web application, Oblique provides a standardized corporate design look and feel as well as a collection of ready-to-use Angular components.
-*   [fundamental-ngx (⭐263)](https://github.com/SAP/fundamental-ngx) - Fundamental Library for Angular is SAP Design System Angular component library.
-*   [designsystem (⭐83)](https://github.com/kirbydesign/designsystem) - Kirby Design System is a UX Component library implementing the Kirby Design Philosophy.
-*   [sbb-angular (⭐106)](https://github.com/sbb-design-systems/sbb-angular) - Angular Library for SBB.
-*   [ui (⭐30)](https://github.com/alauda/ui) - Enterprise level Angular UI framework from Alauda Frontend Team.
-*   [ngx-tethys (⭐113)](https://github.com/atinc/ngx-tethys) - Fast and reliable Tethys Design components for Angular.
+*   [ej2-angular-ui-components (⭐277)](https://github.com/syncfusion/ej2-angular-ui-components) - Syncfusion Angular UI Components library has been built from the ground up to be lightweight, responsive, modular and touch friendly. It offers 70+ UI components that every applications will ever need.
+*   [ng-devui (⭐1.8k)](https://github.com/DevCloudFE/ng-devui) - Angular UI Component Library based on DevUI Design.
+*   [ng-aquila (⭐214)](https://github.com/allianz/ng-aquila) - Aquila is an open-source component library provided by the Allianz Global Digital Factory (GDF). We use this library internally with Allianz branding. Here we provide a white label variant of these components.
+*   [enterprise-ng](https://github.com/infor-design/enterprise-ng) - Angular wrappers for IDS Enterprise components.
+*   [oblique (⭐56)](https://github.com/oblique-bit/oblique) - An Angular front-end framework Tailored for your swiss branded business web application, Oblique provides a standardized corporate design look and feel as well as a collection of ready-to-use Angular components.
+*   [fundamental-ngx (⭐275)](https://github.com/SAP/fundamental-ngx) - Fundamental Library for Angular is SAP Design System Angular component library.
+*   [designsystem (⭐85)](https://github.com/kirbydesign/designsystem) - Kirby Design System is a UX Component library implementing the Kirby Design Philosophy.
+*   [sbb-angular (⭐109)](https://github.com/sbb-design-systems/sbb-angular) - Angular Library for SBB.
+*   [ui (⭐32)](https://github.com/alauda/ui) - Enterprise level Angular UI framework from Alauda Frontend Team.
+*   [ngx-tethys (⭐114)](https://github.com/atinc/ngx-tethys) - Fast and reliable Tethys Design components for Angular.
 *   [antwerp-ui\_angular (⭐13)](https://github.com/digipolisantwerp/antwerp-ui_angular) - Antwerp UI is a component interface library for building user interfaces and responsive web apps.
 
 ### Bootstrap Based / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ngx-bootstrap (⭐5.5k)](https://github.com/valor-software/ngx-bootstrap) - Fast and reliable Bootstrap widgets in Angular (supports Ivy engine).
 
-### NgRx / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [ngrx-store-storagesync (⭐41)](https://github.com/larscom/ngrx-store-storagesync) - Highly configurable state sync library between localStorage/sessionStorage and `@ngrx/store`.
-*   [ngrx-wieder (⭐125)](https://github.com/nilsmehlhorn/ngrx-wieder) - Lightweight undo-redo for Angular with NgRx & Immer.js.
-*   [ngrx-immer (⭐117)](https://github.com/timdeschryver/ngrx-immer) - Immer wrappers around NgRx methods createReducer, on, and ComponentStore.
-*   [ngrx-rtk-query (⭐57)](https://github.com/SaulMoro/ngrx-rtk-query) - Make RTK Query with Hooks works in Angular Applications.
-*   [ngrx-action-bundles (⭐14)](https://github.com/IliaIdakiev/ngrx-action-bundles) - This library allows you to reduce ngrx boilerplate by generating action bundles for common ngrx redux store scenarios and allows you to easily connect state, dispatch actions and listen for actions everywhere across your applications.
-
 ## [9. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Templates / Vue 3
 
-*   [celeris-web (⭐380)](https://github.com/kirklin/celeris-web) - Template based on `Vite` + `Vue3` + `TypeScript` + `Vue-Router` + `Pinia` + `Unocss` + `Naive UI` + `pnpm Monorepo`.
+*   [celeris-web (⭐428)](https://github.com/kirklin/celeris-web) - Template based on `Vite` + `Vue3` + `TypeScript` + `Vue-Router` + `Pinia` + `Unocss` + `Naive UI` + `pnpm Monorepo`.
 
 ### Templates / React
 
-*   [vite-jsx-remove-attributes (⭐2)](https://github.com/jacobbogers/rollup-plugin-jsx-remove-attributes) - Remove the `data-testid` (configurable) from production builds.
+*   [vite-jsx-remove-attributes (⭐4)](https://github.com/jacobbogers/rollup-plugin-jsx-remove-attributes) - Remove the `data-testid` (configurable) from production builds.
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-pretty-module-classnames (⭐17)](https://github.com/teplostanski/vite-plugin-pretty-module-classnames) - Adds the filename without the `-module` suffix to the class names of CSS modules.
+*   [vite-plugin-pretty-module-classnames (⭐20)](https://github.com/teplostanski/vite-plugin-pretty-module-classnames) - Adds the filename without the `-module` suffix to the class names of CSS modules.
 
 ## [10. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
 ### Databases / ORMs
 
-*   [Saffier ORM (⭐54)](https://github.com/tarsil/saffier) - The only Python ORM you will ever need.
+*   [Saffier ORM (⭐62)](https://github.com/tarsil/saffier) - The only Python ORM you will ever need.
 
 ### Databases / ODMs
 
-*   [Beanie (⭐2k)](https://github.com/BeanieODM/beanie) - Asynchronous Python ODM for MongoDB, based on [Motor](https://motor.readthedocs.io/en/stable/) and [Pydantic](https://docs.pydantic.dev/latest/), which supports data and schema migrations out of the box.
+*   [Beanie (⭐2.1k)](https://github.com/BeanieODM/beanie) - Asynchronous Python ODM for MongoDB, based on [Motor](https://motor.readthedocs.io/en/stable/) and [Pydantic](https://docs.pydantic.dev/latest/), which supports data and schema migrations out of the box.
 
 ### Developer Tools / Other Tools
 
-*   [FastAPI Cruddy Framework (⭐15)](https://github.com/mdconaway/fastapi-cruddy-framework) - A companion library to FastAPI designed to bring the development productivity of Ruby on Rails, Ember.js or Sails.js to the FastAPI ecosystem.
+*   [FastAPI Cruddy Framework (⭐26)](https://github.com/mdconaway/fastapi-cruddy-framework) - A companion library to FastAPI designed to bring the development productivity of Ruby on Rails, Ember.js or Sails.js to the FastAPI ecosystem.
 
 ### Utils / Other Tools
 
-*   [FastAPI CloudEvents (⭐30)](https://github.com/sasha-tkachev/fastapi-cloudevents) - [CloudEvents](https://cloudevents.io/) integration for FastAPI.
-*   [FastAPI Lazy (⭐114)](https://github.com/yezz123/fastango) - Lazy package to start your project using FastAPI.
+*   [FastAPI CloudEvents (⭐33)](https://github.com/sasha-tkachev/fastapi-cloudevents) - [CloudEvents](https://cloudevents.io/) integration for FastAPI.
+*   [FastAPI Lazy (⭐116)](https://github.com/yezz123/fastango) - Lazy package to start your project using FastAPI.
 
 ### Tutorials / Other Tools
 
@@ -166,15 +166,15 @@
 
 ### Boilerplate / Other Tools
 
-*   [Full Stack FastAPI and MongoDB - Base Project Generator (⭐417)](https://github.com/mongodb-labs/full-stack-fastapi-mongodb) - Full stack, modern web application generator, which includes FastAPI, MongoDB, Docker, Celery, React frontend, automatic HTTPS and more.
+*   [Full Stack FastAPI and MongoDB - Base Project Generator (⭐554)](https://github.com/mongodb-labs/full-stack-fastapi-mongodb) - Full stack, modern web application generator, which includes FastAPI, MongoDB, Docker, Celery, React frontend, automatic HTTPS and more.
 
 ## [11. Awesome Flask](/content/mjhea0/awesome-flask/README.md)
 
 ### APIs / RESTful API + Swagger/OpenAPI Documentation Support
 
-*   [APIFlask (⭐956)](https://github.com/apiflask/apiflask) - Integrates marshmallow for validation and serialization, and for OpenAPI generation with Swagger UI.
-*   [Flasgger (⭐3.5k)](https://github.com/flasgger/flasgger) - OpenAPI and Swagger UI. Builds the API from Flasgger models, marshmallow models, dicts, or YAML files.
-*   [flask-smorest (⭐619)](https://github.com/marshmallow-code/flask-smorest/) - Marshmallow's official Flask REST integration. Uses marshmallow models for request/response validation and serialization, and generates OpenAPI with Swagger UI.
+*   [APIFlask (⭐1.1k)](https://github.com/apiflask/apiflask) - Integrates marshmallow for validation and serialization, and for OpenAPI generation with Swagger UI.
+*   [Flasgger (⭐3.6k)](https://github.com/flasgger/flasgger) - OpenAPI and Swagger UI. Builds the API from Flasgger models, marshmallow models, dicts, or YAML files.
+*   [flask-smorest (⭐673)](https://github.com/marshmallow-code/flask-smorest/) - Marshmallow's official Flask REST integration. Uses marshmallow models for request/response validation and serialization, and generates OpenAPI with Swagger UI.
 
 ### Databases / ODMs
 
@@ -182,11 +182,11 @@
 
 ### Security / Testing
 
-*   [Flask-Talisman (⭐66)](https://github.com/wntrblm/flask-talisman) - HTTPS and security headers.
+*   [Flask-Talisman (⭐71)](https://github.com/wntrblm/flask-talisman) - HTTPS and security headers.
 
 ### Task Queues / Testing
 
-*   [Flask-RQ (⭐208)](https://github.com/pallets-eco/flask-rq) - [RQ](https://python-rq.org/) (Redis Queue) integration.
+*   [Flask-RQ (⭐218)](https://github.com/pallets-eco/flask-rq) - [RQ](https://python-rq.org/) (Redis Queue) integration.
 
 ---
 

@@ -39,7 +39,7 @@
 
 ### Driver crates / Other
 
-*   [DW1000](https://crates.io/crates/dw1000) - SPI - Radio transceiver (IEEE 802.15.4 and position tracking) - [Article](https://braun-embedded.com/dw1000/) - ![crates.io](https://img.shields.io/crates/v/dw1000.svg)
+*   [DW1000](https://crates.io/crates/dw1000) - SPI - Radio transceiver (IEEE 802.15.4 and position tracking) - [Article](https://braun-embedded.com/dw1000/) - [![crates.io](https://img.shields.io/crates/v/dw1000.svg)](https://crates.io/crates/dw1000)
 
 ## [3. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/README.md)
 

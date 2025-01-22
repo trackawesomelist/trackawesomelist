@@ -22,15 +22,15 @@
 
 ### Node.js
 
-*   [Nestjsx/crud (⭐4k)](https://github.com/nestjsx/crud) - Generate CRUD controllers and services for RESTful API with NestJS and TypeORM.
+*   [Nestjsx/crud (⭐4.1k)](https://github.com/nestjsx/crud) - Generate CRUD controllers and services for RESTful API with NestJS and TypeORM.
 
 ## [4. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
 ### Related projects / Syntax highlighting packages
 
-*   [Game Boy Link Cable Breakout Board (⭐77)](https://github.com/Palmr/gb-link-cable)
+*   [Game Boy Link Cable Breakout Board (⭐87)](https://github.com/Palmr/gb-link-cable)
 *   [GBCartFlasher firmware (⭐24)](https://github.com/Tauwasser/GBCartFlasher)
-*   [VerilogBoy (⭐433)](https://github.com/zephray/VerilogBoy/) - Game Boy compatible console Verilog RTL implementation.
+*   [VerilogBoy (⭐467)](https://github.com/zephray/VerilogBoy/) - Game Boy compatible console Verilog RTL implementation.
 
 ## [5. Amas](/content/sindresorhus/amas/README.md)
 

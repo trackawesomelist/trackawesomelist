@@ -47,7 +47,7 @@
 
 ### Third-Party Packages / Testing
 
-*   [django-pattern-library (⭐359)](https://github.com/torchbox/django-pattern-library) - Pattern library generator for Django templates, to help testing of UI components.
+*   [django-pattern-library (⭐376)](https://github.com/torchbox/django-pattern-library) - Pattern library generator for Django templates, to help testing of UI components.
 
 ## [7. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
@@ -68,7 +68,7 @@
 
 ### Resources / Packages
 
-*   [Navigation (⭐464)](https://github.com/spatie/laravel-navigation) - Laravel package for generating menus, breadcrumbs and other navigational elements.
+*   [Navigation (⭐499)](https://github.com/spatie/laravel-navigation) - Laravel package for generating menus, breadcrumbs and other navigational elements.
 
 ## [9. Awesome Umbraco](/content/umbraco-community/awesome-umbraco/README.md)
 
@@ -91,11 +91,11 @@
 
 ### Official plugins
 
-*   [Toast (⭐493)](https://github.com/ionic-team/capacitor-plugins/tree/main/toast) - Provides a native notification pop up for displaying important information to a user.
+*   [Toast (⭐546)](https://github.com/ionic-team/capacitor-plugins/tree/main/toast) - Provides a native notification pop up for displaying important information to a user.
 
 ### Community plugins
 
-*   [Keep awake (⭐123)](https://github.com/capacitor-community/keep-awake) - Prevent your screen from getting some sleep.
+*   [Keep awake (⭐134)](https://github.com/capacitor-community/keep-awake) - Prevent your screen from getting some sleep.
 *   Microsoft
     *   [Appcenter (⭐35)](https://github.com/capacitor-community/appcenter-sdk-capacitor/tree/master/appcenter) - AppCenter SDK.
     *   [Analytics (⭐35)](https://github.com/capacitor-community/appcenter-sdk-capacitor/tree/master/appcenter-analytics) - AppCenter Analytics.
@@ -103,20 +103,20 @@
 
 ### Other plugins
 
-*   [Healthkit (⭐54)](https://github.com/Ad-Scientiam/capacitor-healthkit) - Retrieve data from HealthKit.
+*   [Healthkit (⭐65)](https://github.com/Ad-Scientiam/capacitor-healthkit) - Retrieve data from HealthKit.
 *   [UDP (⭐4)](https://github.com/brugsel/capacitor-udp) - Support both IPv6 and IPv4, multicast and broadcast.
 
 ## [12. Awesome Acg](/content/soruly/awesome-acg/README.md)
 
 ### Image Generation
 
-*   [AnimeFaceDrawer](https://medium.com/@steinsfu/drawing-anime-face-with-simple-segmentation-mask-ca955c62ce09) - Drawing Anime Face with Simple Segmentation Mask \[English]
+*   [AnimeFaceDrawer](https://medium.com/@steinsfu/drawing-anime-face-with-simple-segmentation-mask-ca955c62ce09) - Drawing Anime Face with Simple Segmentation Mask. \[English]
 
 ## [13. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Platforms
 
-*   [Low Code (⭐316)](https://github.com/zenitysec/awesome-low-code#readme) - Allowing business professionals to address their needs on their own with little to no coding skills.
+*   [Low Code (⭐355)](https://github.com/zenitysec/awesome-low-code#readme) - Allowing business professionals to address their needs on their own with little to no coding skills.
 
 ## [14. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 

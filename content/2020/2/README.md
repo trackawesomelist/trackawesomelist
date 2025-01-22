@@ -25,7 +25,7 @@
 
 ### Doctrine Assessement
 
-*   [Doctrine (⭐51)](https://github.com/cdaniel/doctrine/) - A simple tool for visualising how competitive a company is in light of Wardley's doctrine. Hosted version available [here](https://doctrine.wardleymaps.com/).
+*   [Doctrine (⭐54)](https://github.com/cdaniel/doctrine/) - A simple tool for visualising how competitive a company is in light of Wardley's doctrine. Hosted version available [here](https://doctrine.wardleymaps.com/).
 
 ## [3. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
@@ -41,48 +41,48 @@
 
 ### Peripheral Access Crates / NXP
 
-*   [`k64`](https://crates.io/crates/k64) - ![crates.io](https://img.shields.io/crates/v/k64.svg)
-*   [`lpc11uxx`](https://crates.io/crates/lpc11uxx) - ![crates.io](https://img.shields.io/crates/v/lpc11uxx.svg)
-*   [`lpc55s6x-pac`](https://crates.io/crates/lpc55s6x-pac) - ![crates.io](https://img.shields.io/crates/v/lpc55s6x-pac.svg)
+*   [`k64`](https://crates.io/crates/k64) - [![crates.io](https://img.shields.io/crates/v/k64.svg)](https://crates.io/crates/k64)
+*   [`lpc11uxx`](https://crates.io/crates/lpc11uxx) - [![crates.io](https://img.shields.io/crates/v/lpc11uxx.svg)](https://crates.io/crates/lpc11uxx)
+*   [`lpc55s6x-pac`](https://crates.io/crates/lpc55s6x-pac) - [![crates.io](https://img.shields.io/crates/v/lpc55s6x-pac.svg)](https://crates.io/crates/lpc55s6x-pac)
 
 ### Peripheral Access Crates / STMicroelectronics
 
-*   [`stm32g0`](https://crates.io/crates/stm32g0) - ![crates.io](https://img.shields.io/crates/v/stm32g0.svg)
-*   [`stm32g4`](https://crates.io/crates/stm32g4) - ![crates.io](https://img.shields.io/crates/v/stm32g4.svg)
-*   [`stm32h7`](https://crates.io/crates/stm32h7) - ![crates.io](https://img.shields.io/crates/v/stm32h7.svg)
+*   [`stm32g0`](https://crates.io/crates/stm32g0) - [![crates.io](https://img.shields.io/crates/v/stm32g0.svg)](https://crates.io/crates/stm32g0)
+*   [`stm32g4`](https://crates.io/crates/stm32g4) - [![crates.io](https://img.shields.io/crates/v/stm32g4.svg)](https://crates.io/crates/stm32g4)
+*   [`stm32h7`](https://crates.io/crates/stm32h7) - [![crates.io](https://img.shields.io/crates/v/stm32h7.svg)](https://crates.io/crates/stm32h7)
 
 ### HAL implementation crates / OS
 
 *   [`ftdi-embedded-hal`](https://crates.io/crates/ftdi-embedded-hal) for FTDI FTx232H chips connected to Linux systems via USB
-*   [`linux-embedded-hal`](https://crates.io/crates/linux-embedded-hal) for embedded Linux systems like the Raspberry Pi. - ![crates.io](https://img.shields.io/crates/v/linux-embedded-hal.svg)
+*   [`linux-embedded-hal`](https://crates.io/crates/linux-embedded-hal) for embedded Linux systems like the Raspberry Pi. - [![crates.io](https://img.shields.io/crates/v/linux-embedded-hal.svg)](https://crates.io/crates/linux-embedded-hal)
 
 ### HAL implementation crates / Microchip
 
-*   [`atsamd-hal`](https://crates.io/crates/atsamd-hal) - HAL for SAMD11, SAMD21, SAMD51 and SAME54 - ![crates.io](https://img.shields.io/crates/v/atsamd-hal.svg)
+*   [`atsamd-hal`](https://crates.io/crates/atsamd-hal) - HAL for SAMD11, SAMD21, SAMD51 and SAME54 - [![crates.io](https://img.shields.io/crates/v/atsamd-hal.svg)](https://crates.io/crates/atsamd-hal)
 
 ### HAL implementation crates / NXP
 
 *   [`lpc8xx-hal`](https://crates.io/crates/lpc8xx-hal) - HAL for lpc82x and lpc845 - [![crates.io](https://img.shields.io/crates/v/lpc8xx-hal.svg)](https://crates.io/crates/lpc8xx-hal)
-*   [`mkw41z-hal`](https://crates.io/crates/mkw41z-hal) - ![crates.io](https://img.shields.io/crates/v/mkw41z-hal.svg)
+*   [`mkw41z-hal`](https://crates.io/crates/mkw41z-hal) - [![crates.io](https://img.shields.io/crates/v/mkw41z-hal.svg)](https://crates.io/crates/mkw41z-hal)
 
 ### HAL implementation crates / STMicroelectronics
 
-*   [`stm32g0xx-hal`](https://crates.io/crates/stm32g0xx-hal) - ![crates.io](https://img.shields.io/crates/v/stm32g0xx-hal.svg)
-*   [`stm32h7xx-hal`](https://crates.io/crates/stm32h7xx-hal) - ![crates.io](https://img.shields.io/crates/v/stm32h7xx-hal.svg)
+*   [`stm32g0xx-hal`](https://crates.io/crates/stm32g0xx-hal) - [![crates.io](https://img.shields.io/crates/v/stm32g0xx-hal.svg)](https://crates.io/crates/stm32g0xx-hal)
+*   [`stm32h7xx-hal`](https://crates.io/crates/stm32h7xx-hal) - [![crates.io](https://img.shields.io/crates/v/stm32h7xx-hal.svg)](https://crates.io/crates/stm32h7xx-hal)
     *   HAL implementation for the STMicro STM32H7xx family of microcontrollers
 
 ### Architecture support crates / ARM
 
-*   [`cortex-m`](https://github.com/japaric/cortex-m) Low-level access to Cortex-M processors - ![crates.io](https://img.shields.io/crates/v/cortex-m.svg)
+*   [`cortex-m`](https://github.com/japaric/cortex-m) Low-level access to Cortex-M processors - [![crates.io](https://img.shields.io/crates/v/cortex-m.svg)](https://crates.io/crates/cortex-m)
 
 ### Board support crates / STMicroelectronics
 
-*   [`f3`](https://crates.io/crates/f3) Board Support Crate for the [STM32F3DISCOVERY](http://www.st.com/en/evaluation-tools/stm32f3discovery.html) - ![crates.io](https://img.shields.io/crates/v/f3.svg)
-*   [`solo-bsp`](https://crates.io/crates/solo-bsp) Board Support Crate for [Solo](https://solokeys.com/), an open source security token (WIP) - ![crates.io](https://img.shields.io/crates/v/solo-bsp.svg)
+*   [`f3`](https://crates.io/crates/f3) Board Support Crate for the [STM32F3DISCOVERY](http://www.st.com/en/evaluation-tools/stm32f3discovery.html) - [![crates.io](https://img.shields.io/crates/v/f3.svg)](https://crates.io/crates/f3)
+*   [`solo-bsp`](https://crates.io/crates/solo-bsp) Board Support Crate for [Solo](https://solokeys.com/), an open source security token (WIP) - [![crates.io](https://img.shields.io/crates/v/solo-bsp.svg)](https://crates.io/crates/solo-bsp)
 
 ### Board support crates / Texas Instruments
 
-*   [`stellaris-launchpad`](https://crates.io/crates/stellaris-launchpad) - For the Texas Instruments Stellaris Launchpad and Tiva-C Launchpad ![crates.io](https://img.shields.io/crates/v/stellaris-launchpad.svg)
+*   [`stellaris-launchpad`](https://crates.io/crates/stellaris-launchpad) - For the Texas Instruments Stellaris Launchpad and Tiva-C Launchpad [![crates.io](https://img.shields.io/crates/v/stellaris-launchpad.svg)](https://crates.io/crates/stellaris-launchpad)
 
 ### Component abstraction crates / Other
 
@@ -90,145 +90,148 @@
 
 ### Driver crates / Other
 
-*   [AD983x](https://crates.io/crates/ad983x) - SPI - AD9833/AD9837 waveform generators / DDS - [Intro blog post](https://blog.eldruin.com/ad983x-waveform-generator-dds-driver-in-rust/) - ![crates.io](https://img.shields.io/crates/v/ad983x.svg)
-*   [adafruit-alphanum4](https://crates.io/crates/adafruit-alphanum4) - I2C - Driver for [Adafruit 14-segment LED Alphanumeric Backpack](https://learn.adafruit.com/adafruit-led-backpack/0-54-alphanumeric) based on the ht16k33 chip - ![crates.io](https://img.shields.io/crates/v/adafruit-alphanum4.svg)
-*   [ADS1x1x](https://crates.io/crates/ads1x1x) - I2C - 12/16-bit ADCs like ADS1013, ADS1015, ADS1115, etc. - [Intro blog post](https://blog.eldruin.com/ads1x1x-analog-to-digital-converter-driver-in-rust/) - ![crates.io](https://img.shields.io/crates/v/ads1x1x.svg)
-*   [ADXL343](https://crates.io/crates/adxl343) - I2C - 3-axis accelerometer - ![crates.io](https://img.shields.io/crates/v/adxl343.svg)
-*   [AT86RF212](https://crates.io/crates/radio-at86rf212) - SPI - Low power IEEE 802.15.4-2011 ISM RF Transceiver - [Intro blog post](https://ryan.kurte.nz/notes/2020-01-05-rust-radio) - ![crates.io](https://img.shields.io/crates/v/radio-at86rf212.svg)
-*   [BlueNRG](https://crates.io/crates/bluenrg) - SPI - driver for BlueNRG-MS Bluetooth module - [Intro post](https://www.219design.com/bluetooth-low-energy-with-rust/) ![crates.io](https://img.shields.io/crates/v/bluenrg.svg)
-*   [BNO055](https://crates.io/crates/bno055) - I2C - Bosch Sensortec BNO055 9-axis IMU driver - [Intro post](https://www.reddit.com/r/rust/comments/ao4sqq/embeddedhal_bno055_9axis_imu_driver/) ![crates.io](https://img.shields.io/crates/v/bno055.svg)
-*   [DS1307](https://crates.io/crates/ds1307) - I2C - Real-time clock driver - [Intro blog post](https://blog.eldruin.com/ds1307-real-time-clock-rtc-driver-in-rust/) - ![crates.io](https://img.shields.io/crates/v/ds1307.svg)
-*   [EEPROM24x](https://crates.io/crates/eeprom24x) - I2C - 24x series serial EEPROM driver - [Intro blog post](https://blog.eldruin.com/24x-serial-eeprom-driver-in-rust/) - ![crates.io](https://img.shields.io/crates/v/eeprom24x.svg)
-*   [embedded-sdmmc](https://crates.io/crates/embedded-sdmmc) - SPI - SD/MMC Card Driver with MS-DOS Partition and FAT16/FAT32 support - [Intro post](https://www.reddit.com/r/rust/comments/ascvls/introducing_embeddedsdmmc_a_purerust_no_std_sd/) ![crates.io](https://img.shields.io/crates/v/embedded-sdmmc.svg)
-*   [ENC28J60](https://crates.io/crates/enc28j60) - SPI - Ethernet controller - [Intro blog post](http://blog.japaric.io/wd-4-enc28j60/) - ![crates.io](https://img.shields.io/crates/v/enc28j60.svg)
-*   [HTS221](https://crates.io/crates/hts221) - I2C - Humidity and temperature sensor - [Intro blog post](https://medium.com/@pdanielgallagher/hts221-humidity-and-temperature-sensor-88056ea9e5fa) - ![crates.io](https://img.shields.io/crates/v/hts221.svg)
-*   [keypad](https://crates.io/crates/keypad) - GPIO - Keypad matrix circuits - [Intro post](https://www.reddit.com/r/rust/comments/9j42o9/weekly_driver_keypad_matrix_circuits/) - ![crates.io](https://img.shields.io/crates/v/keypad.svg)
-*   [KXCJ9](https://crates.io/crates/kxcj9) - I2C - KXCJ9/KXCJB 3-axis accelerometers - [Intro blog post](https://blog.eldruin.com/kxcj9-kxcjb-tri-axis-mems-accelerator-driver-in-rust/) - ![crates.io](https://img.shields.io/crates/v/kxcj9.svg)
-*   [LSM303DLHC](https://crates.io/crates/lsm303dlhc) - I2C - Accelerometer + compass (magnetometer) - [Intro blog post](http://blog.japaric.io/wd-1-2-l3gd20-lsm303dlhc-madgwick/) - ![crates.io](https://img.shields.io/crates/v/lsm303dlhc.svg)
-*   [MCP3008](https://crates.io/crates/adc-mcp3008) - SPI - 8 channel 10-bit ADC - [Intro blog post](http://pramode.in/2018/02/24/an-introduction-to-writing-embedded-hal-based-drivers-in-rust/) - ![crates.io](https://img.shields.io/crates/v/adc-mcp3008.svg)
-*   [MCP3425](https://crates.io/crates/mcp3425) - I2C - 16-bit ADC - [Intro blog post](https://blog.dbrgn.ch/2018/3/13/rust-mcp3425-driver/) - ![crates.io](https://img.shields.io/crates/v/mcp3425.svg)
-*   [MCP794xx](https://crates.io/crates/mcp794xx) - I2C - Real-time clock / calendar driver - [Intro blog post](https://blog.eldruin.com/mcp794xx-real-time-clock-rtc-driver-in-rust/) - ![crates.io](https://img.shields.io/crates/v/mcp794xx.svg)
+*   [AD983x](https://crates.io/crates/ad983x) - SPI - AD9833/AD9837 waveform generators / DDS - [Intro blog post](https://blog.eldruin.com/ad983x-waveform-generator-dds-driver-in-rust/) - [![crates.io](https://img.shields.io/crates/v/ad983x.svg)](https://crates.io/crates/ad983x)
+*   [adafruit-alphanum4](https://crates.io/crates/adafruit-alphanum4) - I2C - Driver for [Adafruit 14-segment LED Alphanumeric Backpack](https://learn.adafruit.com/adafruit-led-backpack/0-54-alphanumeric) based on the ht16k33 chip - [![crates.io](https://img.shields.io/crates/v/adafruit-alphanum4.svg)](https://crates.io/crates/adafruit-alphanum4)
+*   [ADS1x1x](https://crates.io/crates/ads1x1x) - I2C - 12/16-bit ADCs like ADS1013, ADS1015, ADS1115, etc. - [Intro blog post](https://blog.eldruin.com/ads1x1x-analog-to-digital-converter-driver-in-rust/) - [![crates.io](https://img.shields.io/crates/v/ads1x1x.svg)](https://crates.io/crates/ads1x1x)
+*   [ADXL343](https://crates.io/crates/adxl343) - I2C - 3-axis accelerometer - [![crates.io](https://img.shields.io/crates/v/adxl343.svg)](https://crates.io/crates/adxl343)
+*   [AT86RF212](https://crates.io/crates/radio-at86rf212) - SPI - Low power IEEE 802.15.4-2011 ISM RF Transceiver - [Intro blog post](https://ryan.kurte.nz/notes/2020-01-05-rust-radio) - [![crates.io](https://img.shields.io/crates/v/radio-at86rf212.svg)](https://crates.io/crates/radio-at86rf212)
+*   [BlueNRG](https://crates.io/crates/bluenrg) - SPI - driver for BlueNRG-MS Bluetooth module - [Intro post](https://www.219design.com/bluetooth-low-energy-with-rust/) [![crates.io](https://img.shields.io/crates/v/bluenrg.svg)](https://crates.io/crates/bluenrg)
+*   [BNO055](https://crates.io/crates/bno055) - I2C - Bosch Sensortec BNO055 9-axis IMU driver - [Intro post](https://www.reddit.com/r/rust/comments/ao4sqq/embeddedhal_bno055_9axis_imu_driver/) [![crates.io](https://img.shields.io/crates/v/bno055.svg)](https://crates.io/crates/bno055)
+*   [DS1307](https://crates.io/crates/ds1307) - I2C - Real-time clock driver - [Intro blog post](https://blog.eldruin.com/ds1307-real-time-clock-rtc-driver-in-rust/) - [![crates.io](https://img.shields.io/crates/v/ds1307.svg)](https://crates.io/crates/ds1307)
+*   [EEPROM24x](https://crates.io/crates/eeprom24x) - I2C - 24x series serial EEPROM driver - [Intro blog post](https://blog.eldruin.com/24x-serial-eeprom-driver-in-rust/) - [![crates.io](https://img.shields.io/crates/v/eeprom24x.svg)](https://crates.io/crates/eeprom24x)
+*   [embedded-sdmmc](https://crates.io/crates/embedded-sdmmc) - SPI - SD/MMC Card Driver with MS-DOS Partition and FAT16/FAT32 support - [Intro post](https://www.reddit.com/r/rust/comments/ascvls/introducing_embeddedsdmmc_a_purerust_no_std_sd/) [![crates.io](https://img.shields.io/crates/v/embedded-sdmmc.svg)](https://crates.io/crates/embedded-sdmmc)
+*   [ENC28J60](https://crates.io/crates/enc28j60) - SPI - Ethernet controller - [Intro blog post](http://blog.japaric.io/wd-4-enc28j60/) - [![crates.io](https://img.shields.io/crates/v/enc28j60.svg)](https://crates.io/crates/enc28j60)
+*   [HTS221](https://crates.io/crates/hts221) - I2C - Humidity and temperature sensor - [Intro blog post](https://medium.com/@pdanielgallagher/hts221-humidity-and-temperature-sensor-88056ea9e5fa) - [![crates.io](https://img.shields.io/crates/v/hts221.svg)](https://crates.io/crates/hts221)
+*   [keypad](https://crates.io/crates/keypad) - GPIO - Keypad matrix circuits - [Intro post](https://www.reddit.com/r/rust/comments/9j42o9/weekly_driver_keypad_matrix_circuits/) - [![crates.io](https://img.shields.io/crates/v/keypad.svg)](https://crates.io/crates/keypad)
+*   [KXCJ9](https://crates.io/crates/kxcj9) - I2C - KXCJ9/KXCJB 3-axis accelerometers - [Intro blog post](https://blog.eldruin.com/kxcj9-kxcjb-tri-axis-mems-accelerator-driver-in-rust/) - [![crates.io](https://img.shields.io/crates/v/kxcj9.svg)](https://crates.io/crates/kxcj9)
+*   [LSM303DLHC](https://crates.io/crates/lsm303dlhc) - I2C - Accelerometer + compass (magnetometer) - [Intro blog post](http://blog.japaric.io/wd-1-2-l3gd20-lsm303dlhc-madgwick/) - [![crates.io](https://img.shields.io/crates/v/lsm303dlhc.svg)](https://crates.io/crates/lsm303dlhc)
+*   [MCP3008](https://crates.io/crates/adc-mcp3008) - SPI - 8 channel 10-bit ADC - [Intro blog post](http://pramode.in/2018/02/24/an-introduction-to-writing-embedded-hal-based-drivers-in-rust/) - [![crates.io](https://img.shields.io/crates/v/adc-mcp3008.svg)](https://crates.io/crates/adc-mcp3008)
+*   [MCP3425](https://crates.io/crates/mcp3425) - I2C - 16-bit ADC - [Intro blog post](https://blog.dbrgn.ch/2018/3/13/rust-mcp3425-driver/) - [![crates.io](https://img.shields.io/crates/v/mcp3425.svg)](https://crates.io/crates/mcp3425)
+*   [MCP794xx](https://crates.io/crates/mcp794xx) - I2C - Real-time clock / calendar driver - [Intro blog post](https://blog.eldruin.com/mcp794xx-real-time-clock-rtc-driver-in-rust/) - [![crates.io](https://img.shields.io/crates/v/mcp794xx.svg)](https://crates.io/crates/mcp794xx)
 *   [MMA7660FC](https://crates.io/crates/mma7660fc) - I2C - 3-axis accelerometer - [Intro blog post](https://rahul-thakoor.github.io/an-i2c-rust-driver-for-mma7660fc-based-3-axis-digital-accelerometer/)
-*   [OPT300x (⭐6)](https://github.com/eldruin/opt300x-rs) - I2C - Ambient light sensor family driver  - [Intro blog post](https://blog.eldruin.com/opt300x-ambient-light-sensor-driver-in-rust/) - ![crates.io](https://img.shields.io/crates/v/opt300x.svg)
-*   [pwm-pca9685](https://crates.io/crates/pwm-pca9685) - I2C - 16-channel, 12-bit PWM/Servo/LED controller - [Intro blog post](https://blog.eldruin.com/pca9685-pwm-led-servo-controller-driver-in-rust/) - ![crates.io](https://img.shields.io/crates/v/pwm-pca9685.svg)
-*   [rotary-encoder-hal](https://crates.io/crates/rotary-encoder-hal) - GPIO - A rotary encoder driver using `embedded-hal` - [Intro blog post](https://leshow.github.io/post/rotary_encoder_hal/) - ![crates.io](https://img.shields.io/crates/v/rotary-encoder-hal.svg)
-*   [SGP30](https://crates.io/crates/sgp30) - I2C - Gas sensor - [Intro blog post](https://blog.dbrgn.ch/2018/4/1/rust-sgp30-driver/) - ![crates.io](https://img.shields.io/crates/v/sgp30.svg)
-*   [SH1106](https://crates.io/crates/sh1106) - I2C - Monochrome OLED display controller - [Intro post](https://wapl.es/electronics/rust/2019/02/13/sh1106-driver.html) ![crates.io](https://img.shields.io/crates/v/sh1106.svg)
-*   [shared-bus (⭐129)](https://github.com/Rahix/shared-bus) - I2C - utility driver for sharing a bus between multiple devices - [Intro post](https://blog.rahix.de/001-shared-bus/) ![crates.io](https://img.shields.io/crates/v/shared-bus.svg)
-*   [shift-register-driver](https://crates.io/crates/shift-register-driver) - GPIO - Shift register - [Intro blog post](https://www.joshmcguigan.com/blog/shift-register-driver/) - ![crates.io](https://img.shields.io/crates/v/shift-register-driver.svg)
-*   [Si4703](https://crates.io/crates/si4703) - I2C - FM radio turner (receiver) driver  - [Intro blog post](https://blog.eldruin.com/si4703-fm-radio-receiver-driver-in-rust/) - ![crates.io](https://img.shields.io/crates/v/si4703.svg)
-*   [SSD1306](https://crates.io/crates/ssd1306) - I2C/SPI - OLED display controller - [Intro blog post](https://wapl.es/electronics/rust/2018/04/30/ssd1306-driver.html) - ![crates.io](https://img.shields.io/crates/v/ssd1306.svg)
-*   [Sx127x](https://crates.io/crates/radio-sx127x) - SPI - Long Range Low Power Sub GHz (Gfsk, LoRa) RF Transceiver - [Intro blog post](https://ryan.kurte.nz/notes/2020-01-05-rust-radio) - ![crates.io](https://img.shields.io/crates/v/radio-sx127x.svg)
-*   [Sx128x](https://crates.io/crates/radio-sx128x) - SPI - Long range, low power 2.4 GHz (Gfsk, Flrc, LoRa) RF Transceiver - [Intro blog post](https://ryan.kurte.nz/notes/2020-01-05-rust-radio) - ![crates.io](https://img.shields.io/crates/v/radio-sx128x.svg)
-*   [TMP006](https://crates.io/crates/tmp006) - I2C - Contact-less infrared (IR) thermopile temperature sensor driver - [Intro post](https://blog.eldruin.com/tmp006-contact-less-infrared-ir-thermopile-driver-in-rust/) ![crates.io](https://img.shields.io/crates/v/tmp006.svg)
-*   [TMP1x2](https://crates.io/crates/tmp1x2) - I2C - TMP102 and TMP112x temperature sensor driver - [Intro blog post](https://blog.eldruin.com/tmp1x2-temperature-sensor-driver-in-rust/) ![crates.io](https://img.shields.io/crates/v/tmp1x2.svg)
-*   [TSL256X](https://crates.io/crates/tsl256x) - I2C - Light Intensity Sensor - [Intro blog post](https://www.joshmcguigan.com/blog/tsl256x-light-intensity-sensor-driver/) - ![crates.io](https://img.shields.io/crates/v/tsl256x.svg)
-*   [VEML6030/VEML7700](https://crates.io/crates/veml6030) - I2C - Ambient light sensors - [Intro blog post](https://blog.eldruin.com/veml6030-ambient-light-sensor-driver-in-rust/) - ![crates.io](https://img.shields.io/crates/v/veml6030.svg)
-*   [VEML6075](https://crates.io/crates/veml6075) - I2C - UVA and UVB light sensor - [Intro blog post](https://blog.eldruin.com/veml6075-uva-uvb-uv-index-light-sensor-driver-in-rust/) - ![crates.io](https://img.shields.io/crates/v/veml6075.svg)
+*   [OPT300x (⭐6)](https://github.com/eldruin/opt300x-rs) - I2C - Ambient light sensor family driver  - [Intro blog post](https://blog.eldruin.com/opt300x-ambient-light-sensor-driver-in-rust/) - [![crates.io](https://img.shields.io/crates/v/opt300x.svg)](https://crates.io/crates/opt300x)
+*   [pwm-pca9685](https://crates.io/crates/pwm-pca9685) - I2C - 16-channel, 12-bit PWM/Servo/LED controller - [Intro blog post](https://blog.eldruin.com/pca9685-pwm-led-servo-controller-driver-in-rust/) - [![crates.io](https://img.shields.io/crates/v/pwm-pca9685.svg)](https://crates.io/crates/pwm-pca9685)
+*   [rotary-encoder-hal](https://crates.io/crates/rotary-encoder-hal) - GPIO - A rotary encoder driver using `embedded-hal` - [Intro blog post](https://leshow.github.io/post/rotary_encoder_hal/) - [![crates.io](https://img.shields.io/crates/v/rotary-encoder-hal.svg)](https://crates.io/crates/rotary-encoder-hal)
+*   [SGP30](https://crates.io/crates/sgp30) - I2C - Gas sensor - [Intro blog post](https://blog.dbrgn.ch/2018/4/1/rust-sgp30-driver/) - [![crates.io](https://img.shields.io/crates/v/sgp30.svg)](https://crates.io/crates/sgp30)
+*   [SH1106](https://crates.io/crates/sh1106) - I2C - Monochrome OLED display controller - [Intro post](https://wapl.es/electronics/rust/2019/02/13/sh1106-driver.html) [![crates.io](https://img.shields.io/crates/v/sh1106.svg)](https://crates.io/crates/sh1106)
+*   [shared-bus (⭐129)](https://github.com/Rahix/shared-bus) - I2C - utility driver for sharing a bus between multiple devices - [Intro post](https://blog.rahix.de/001-shared-bus/) [![crates.io](https://img.shields.io/crates/v/shared-bus.svg)](https://crates.io/crates/shared-bus)
+*   [shift-register-driver](https://crates.io/crates/shift-register-driver) - GPIO - Shift register - [Intro blog post](https://www.joshmcguigan.com/blog/shift-register-driver/) - [![crates.io](https://img.shields.io/crates/v/shift-register-driver.svg)](https://crates.io/crates/shift-register-driver)
+*   [Si4703](https://crates.io/crates/si4703) - I2C - FM radio turner (receiver) driver  - [Intro blog post](https://blog.eldruin.com/si4703-fm-radio-receiver-driver-in-rust/) - [![crates.io](https://img.shields.io/crates/v/si4703.svg)](https://crates.io/crates/si4703)
+*   [SSD1306](https://crates.io/crates/ssd1306) - I2C/SPI - OLED display controller - [Intro blog post](https://wapl.es/electronics/rust/2018/04/30/ssd1306-driver.html) - [![crates.io](https://img.shields.io/crates/v/ssd1306.svg)](https://crates.io/crates/ssd1306)
+*   [Sx127x](https://crates.io/crates/radio-sx127x) - SPI - Long Range Low Power Sub GHz (Gfsk, LoRa) RF Transceiver - [Intro blog post](https://ryan.kurte.nz/notes/2020-01-05-rust-radio) - [![crates.io](https://img.shields.io/crates/v/radio-sx127x.svg)](https://crates.io/crates/radio-sx127x)
+*   [Sx128x](https://crates.io/crates/radio-sx128x) - SPI - Long range, low power 2.4 GHz (Gfsk, Flrc, LoRa) RF Transceiver - [Intro blog post](https://ryan.kurte.nz/notes/2020-01-05-rust-radio) - [![crates.io](https://img.shields.io/crates/v/radio-sx128x.svg)](https://crates.io/crates/radio-sx128x)
+*   [TMP006](https://crates.io/crates/tmp006) - I2C - Contact-less infrared (IR) thermopile temperature sensor driver - [Intro post](https://blog.eldruin.com/tmp006-contact-less-infrared-ir-thermopile-driver-in-rust/) [![crates.io](https://img.shields.io/crates/v/tmp006.svg)](https://crates.io/crates/tmp006)
+*   [TMP1x2](https://crates.io/crates/tmp1x2) - I2C - TMP102 and TMP112x temperature sensor driver - [Intro blog post](https://blog.eldruin.com/tmp1x2-temperature-sensor-driver-in-rust/) [![crates.io](https://img.shields.io/crates/v/tmp1x2.svg)](https://crates.io/crates/tmp1x2)
+*   [TSL256X](https://crates.io/crates/tsl256x) - I2C - Light Intensity Sensor - [Intro blog post](https://www.joshmcguigan.com/blog/tsl256x-light-intensity-sensor-driver/) - [![crates.io](https://img.shields.io/crates/v/tsl256x.svg)](https://crates.io/crates/tsl256x)
+*   [VEML6030/VEML7700](https://crates.io/crates/veml6030) - I2C - Ambient light sensors - [Intro blog post](https://blog.eldruin.com/veml6030-ambient-light-sensor-driver-in-rust/) - [![crates.io](https://img.shields.io/crates/v/veml6030.svg)](https://crates.io/crates/veml6030)
+*   [VEML6075](https://crates.io/crates/veml6075) - I2C - UVA and UVB light sensor - [Intro blog post](https://blog.eldruin.com/veml6075-uva-uvb-uv-index-light-sensor-driver-in-rust/) - [![crates.io](https://img.shields.io/crates/v/veml6075.svg)](https://crates.io/crates/veml6075)
 
 ### Driver crates / WIP
 
 *   [AFE4400 (⭐6)](https://github.com/ReeceStevens/afe4400) - SPI - Pulse oximeter
-*   [APDS9960](https://crates.io/crates/apds9960) - I2C - Proximity, ambient light, RGB, and gesture sensor - ![crates.io](https://img.shields.io/crates/v/apds9960.svg)
+*   [APDS9960](https://crates.io/crates/apds9960) - I2C - Proximity, ambient light, RGB, and gesture sensor - [![crates.io](https://img.shields.io/crates/v/apds9960.svg)](https://crates.io/crates/apds9960)
 *   [AS5048A (⭐1)](https://github.com/uwearzt/as5048a) - SPI - AMS AS5048A Magnetic Rotary Encoder
 *   [AXP209 (⭐5)](https://github.com/RandomInsano/axp209-rs) - I2C - Power management unit
 *   [BH1750 (⭐2)](https://github.com/wose/bh1750) - I2C - ambient light sensor (lux meter)
-*   [BME280](https://crates.io/crates/bme280) - A rust device driver for the Bosch BME280 temperature, humidity, and atmospheric pressure sensor and the Bosch BMP280 temperature and atmospheric pressure sensor. ![crates.io](https://img.shields.io/crates/v/bme280.svg)
-*   [bme680 (⭐28)](https://github.com/marcelbuesing/bme680) - I2C - Temperature / humidity / gas / pressure sensor - ![crates.io](https://img.shields.io/crates/v/bme680.svg)
-*   [BMP280](https://crates.io/crates/bmp280-ehal) - A platform agnostic driver to interface with the BMP280 pressure sensor ![crates.io](https://img.shields.io/crates/v/bmp280-ehal.svg)
-*   [CC1101](https://crates.io/crates/cc1101) - SPI - Sub-1GHz RF Transceiver - ![crates.io](https://img.shields.io/crates/v/cc1101.svg)
+*   [BME280](https://crates.io/crates/bme280) - A rust device driver for the Bosch BME280 temperature, humidity, and atmospheric pressure sensor and the Bosch BMP280 temperature and atmospheric pressure sensor. [![crates.io](https://img.shields.io/crates/v/bme280.svg)](https://crates.io/crates/bme280)
+*   [bme680 (⭐29)](https://github.com/marcelbuesing/bme680) - I2C - Temperature / humidity / gas / pressure sensor - [![crates.io](https://img.shields.io/crates/v/bme680.svg)](https://crates.io/crates/bme680)
+*   [BMP280](https://crates.io/crates/bmp280-ehal) - A platform agnostic driver to interface with the BMP280 pressure sensor [![crates.io](https://img.shields.io/crates/v/bmp280-ehal.svg)](https://crates.io/crates/bmp280-ehal)
+*   [CC1101](https://crates.io/crates/cc1101) - SPI - Sub-1GHz RF Transceiver - [![crates.io](https://img.shields.io/crates/v/cc1101.svg)](https://crates.io/crates/cc1101)
 *   [DS3231 (⭐7)](https://github.com/wose/ds3231) - I2C - real-time clock
 *   [DS3234 (⭐1.9k)](https://github.com/rust-embedded/wg/issues/39#issuecomment-375262785) - SPI - Real-time clock
-*   [DS323x](https://crates.io/crates/ds323x) - I2C/SPI - Real-time clocks (RTC): DS3231, DS3232 and DS3234 - ![crates.io](https://img.shields.io/crates/v/ds323x.svg)
+*   [DS323x](https://crates.io/crates/ds323x) - I2C/SPI - Real-time clocks (RTC): DS3231, DS3232 and DS3234 - [![crates.io](https://img.shields.io/crates/v/ds323x.svg)](https://crates.io/crates/ds323x)
 *   [embedded-nrf24l01](https://crates.io/crates/embedded-nrf24l01) - SPI+GPIO - 2.4 GHz radio
-*   [GridEYE](https://crates.io/crates/grideye) - I2C - Rust driver for Grid-EYE / Panasonic AMG88(33) - ![crates.io](https://img.shields.io/crates/v/GridEYE.svg)
-*   [HC-SR04 (⭐15)](https://github.com/nordmoen/hc-sr04) - DIO - Ultrasound sensor
-*   [HD44780-driver](https://crates.io/crates/hd44780-driver) - GPIO - LCD controller - ![crates.io](https://img.shields.io/crates/v/hd44780-driver.svg)
+*   [GridEYE](https://crates.io/crates/grideye) - I2C - Rust driver for Grid-EYE / Panasonic AMG88(33) - [![crates.io](https://img.shields.io/crates/v/GridEYE.svg)](https://crates.io/crates/GridEYE)
+*   [HC-SR04 (⭐17)](https://github.com/nordmoen/hc-sr04) - DIO - Ultrasound sensor
+*   [HD44780-driver](https://crates.io/crates/hd44780-driver) - GPIO - LCD controller - [![crates.io](https://img.shields.io/crates/v/hd44780-driver.svg)](https://crates.io/crates/hd44780-driver)
 *   [HD44780 (⭐13)](http://github.com/kunerd/clerk) - Parallel port - LCD controller
-*   [HM11](https://crates.io/crates/hm11) - USART - HM-11 bluetooth module AT configuration crate - ![crates.io](https://img.shields.io/crates/v/hm11.svg)
-*   [hub75 (⭐19)](https://github.com/david-sawatzke/hub75-rs) - A driver for rgb led matrices with the hub75 interface  - ![crates.io](https://img.shields.io/crates/v/hub75.svg)
-*   [hzgrow-r502](https://crates.io/crates/hzgrow-r502) - UART capacitive fingerprint reader - ![crates.io](https://img.shields.io/crates/v/hzgrow-r502.svg)
+*   [HM11](https://crates.io/crates/hm11) - USART - HM-11 bluetooth module AT configuration crate - [![crates.io](https://img.shields.io/crates/v/hm11.svg)](https://crates.io/crates/hm11)
+*   [hub75 (⭐23)](https://github.com/david-sawatzke/hub75-rs) - A driver for rgb led matrices with the hub75 interface  - [![crates.io](https://img.shields.io/crates/v/hub75.svg)](https://crates.io/crates/hub75)
+*   [hzgrow-r502](https://crates.io/crates/hzgrow-r502) - UART capacitive fingerprint reader - [![crates.io](https://img.shields.io/crates/v/hzgrow-r502.svg)](https://crates.io/crates/hzgrow-r502)
 *   [iAQ-Core (⭐2)](https://github.com/eldruin/iaq-core-rs) - I2C - iAQ-Core-C/iAQ-Core-P Gas and VOC sensor driver for monitoring indoor air quality.
-*   [ILI9341 (⭐58)](https://github.com/yuri91/ili9341-rs) - SPI - TFT LCD display
-*   [INA260](https://crates.io/crates/ina260) - I2C - power monitor - ![crates.io](https://img.shields.io/crates/v/ina260.svg)
-*   [LM75](https://crates.io/crates/lm75) - I2C - Temperature sensor and thermal watchdog (also compatible with LM75A, LM75B, LM75C, AT30TS75A, DS1775, DS75, DS7505, G751, MAX7500/1/2/3/4, MAX6625, MCP9800/1/2/3, STDS75, TCN75, PCT2075) - ![crates.io](https://img.shields.io/crates/v/lm75.svg)
+*   [ILI9341 (⭐60)](https://github.com/yuri91/ili9341-rs) - SPI - TFT LCD display
+*   [INA260](https://crates.io/crates/ina260) - I2C - power monitor - [![crates.io](https://img.shields.io/crates/v/ina260.svg)](https://crates.io/crates/ina260)
+*   [LM75](https://crates.io/crates/lm75) - I2C - Temperature sensor and thermal watchdog (also compatible with LM75A, LM75B, LM75C, AT30TS75A, DS1775, DS75, DS7505, G751, MAX7500/1/2/3/4, MAX6625, MCP9800/1/2/3, STDS75, TCN75, PCT2075) - [![crates.io](https://img.shields.io/crates/v/lm75.svg)](https://crates.io/crates/lm75)
 *   [LS010B7DH01 (⭐6)](https://github.com/byronwasti/ls010b7dh01) - SPI - Memory LCD
-*   [LSM303C](https://crates.io/crates/lsm303c) - A platform agnostic driver to interface with the LSM303C (accelerometer + compass) ![crates.io](https://img.shields.io/crates/v/lsm303c.svg)
+*   [LSM303C](https://crates.io/crates/lsm303c) - A platform agnostic driver to interface with the LSM303C (accelerometer + compass) [![crates.io](https://img.shields.io/crates/v/lsm303c.svg)](https://crates.io/crates/lsm303c)
 *   [MAG3110 (⭐1)](https://github.com/therealprof/mag3110) - I2C - Magnetometer
-*   [MAX31865](https://crates.io/crates/max31865) - SPI - RTD to Digital converter - ![crates.io](https://img.shields.io/crates/v/max31865.svg)
-*   [MAX44009](https://crates.io/crates/max44009) - I2C - Ambient light sensor - ![crates.io](https://img.shields.io/crates/v/max44009.svg)
-*   [MAX7219 (⭐16)](https://github.com/almindor/max7219) - SPI - LED display driver - ![crates.io](https://img.shields.io/crates/v/max7219.svg)
-*   [MCP49xx](https://crates.io/crates/mcp49xx) - SPI - 8/10/12-bit DACs like MCP4921, MCP4922, MCP4801, etc. - ![crates.io](https://img.shields.io/crates/v/mcp49xx.svg)
-*   [MCP9808](https://crates.io/crates/mcp9808) - I2C - Temperature sensor - ![crates.io](https://img.shields.io/crates/v/mcp9808.svg)
+*   [MAX31865](https://crates.io/crates/max31865) - SPI - RTD to Digital converter - [![crates.io](https://img.shields.io/crates/v/max31865.svg)](https://crates.io/crates/max31865)
+*   [MAX44009](https://crates.io/crates/max44009) - I2C - Ambient light sensor - [![crates.io](https://img.shields.io/crates/v/max44009.svg)](https://crates.io/crates/max44009)
+*   [MAX7219 (⭐16)](https://github.com/almindor/max7219) - SPI - LED display driver - [![crates.io](https://img.shields.io/crates/v/max7219.svg)](https://crates.io/crates/max7219)
+*   [MCP49xx](https://crates.io/crates/mcp49xx) - SPI - 8/10/12-bit DACs like MCP4921, MCP4922, MCP4801, etc. - [![crates.io](https://img.shields.io/crates/v/mcp49xx.svg)](https://crates.io/crates/mcp49xx)
+*   [MCP9808](https://crates.io/crates/mcp9808) - I2C - Temperature sensor - [![crates.io](https://img.shields.io/crates/v/mcp9808.svg)](https://crates.io/crates/mcp9808)
 *   [MFRC522 (⭐30)](https://github.com/japaric/mfrc522) - SPI - RFID tag reader/writer
 *   [motor-driver (⭐10)](https://github.com/japaric/motor-driver) - Motor drivers: L298N, TB6612FNG, etc.
-*   [MPU6050](https://crates.io/crates/mpu6050) - I2C - no\_std driver for the MPU6050 ![crates.io](https://img.shields.io/crates/v/mpu6050.svg)
-*   [MPU9250](https://crates.io/crates/mpu9250) - no\_std driver for the MPU9250 (and other MPU\* devices) & onboard AK8963 (accelerometer + gyroscope +  magnetometer IMU) ![crates.io](https://img.shields.io/crates/v/mpu9250.svg)
-*   [NRF24L01 (⭐27)](https://github.com/maikelwever/nrf24l01) - SPI - 2.4 GHz wireless communication
-*   [OneWire](https://crates.io/crates/onewire) - 1wire - OneWire protocol implementation with drivers for devices such as [DS18B20](https://datasheets.maximintegrated.com/en/ds/DS18B20.pdf) - ![crates.io](https://img.shields.io/crates/v/onewire.svg)
+*   [MPU6050](https://crates.io/crates/mpu6050) - I2C - no\_std driver for the MPU6050 [![crates.io](https://img.shields.io/crates/v/mpu6050.svg)](https://crates.io/crates/mpu6050)
+*   [MPU9250](https://crates.io/crates/mpu9250) - no\_std driver for the MPU9250 (and other MPU\* devices) & onboard AK8963 (accelerometer + gyroscope +  magnetometer IMU) [![crates.io](https://img.shields.io/crates/v/mpu9250.svg)](https://crates.io/crates/mpu9250)
+*   [NRF24L01 (⭐28)](https://github.com/maikelwever/nrf24l01) - SPI - 2.4 GHz wireless communication
+*   [OneWire](https://crates.io/crates/onewire) - 1wire - OneWire protocol implementation with drivers for devices such as [DS18B20](https://datasheets.maximintegrated.com/en/ds/DS18B20.pdf) - [![crates.io](https://img.shields.io/crates/v/onewire.svg)](https://crates.io/crates/onewire)
 *   [PCD8544 (⭐0)](https://github.com/pcein/pcd8544) - SPI - 48x84 pixels matrix LCD controller
-*   [PCD8544\_rich](https://crates.io/crates/pcd8544) - SPI - Rich driver for 48x84 pixels matrix LCD controller  - ![crates.io](https://img.shields.io/crates/v/pcd8544.svg)
-*   [PCF857x](https://crates.io/crates/pcf857x) - I2C - I/O expanders: PCF8574, PCF8574A, PCF8575 ![crates.io](https://img.shields.io/crates/v/pcf857x.svg)
-*   [radio-at86rf212](https://crates.io/crates/radio-at86rf212) - SPI - Sub GHz 802.15.4 radio transceiver ![crates.io](https://img.shields.io/crates/v/radio-at86rf212.svg)
+*   [PCD8544\_rich](https://crates.io/crates/pcd8544) - SPI - Rich driver for 48x84 pixels matrix LCD controller  - [![crates.io](https://img.shields.io/crates/v/pcd8544.svg)](https://crates.io/crates/pcd8544)
+*   [PCF857x](https://crates.io/crates/pcf857x) - I2C - I/O expanders: PCF8574, PCF8574A, PCF8575 [![crates.io](https://img.shields.io/crates/v/pcf857x.svg)](https://crates.io/crates/pcf857x)
+*   [radio-at86rf212](https://crates.io/crates/radio-at86rf212) - SPI - Sub GHz 802.15.4 radio transceiver [![crates.io](https://img.shields.io/crates/v/radio-at86rf212.svg)](https://crates.io/crates/radio-at86rf212)
 *   [RFM69 (⭐11)](https://github.com/lolzballs/rfm69) - SPI - ISM radio transceiver
 *   [RN2xx3 (⭐5)](https://github.com/dbrgn/rn2xx3-rs/) - Serial - A driver for the RN2483 / RN2903 LoRaWAN modems by Microchip
-*   [SCD30](https://crates.io/crates/scd30) - I2C - CO₂ sensor - ![crates.io](https://img.shields.io/crates/v/scd30.svg)
+*   [SCD30](https://crates.io/crates/scd30) - I2C - CO₂ sensor - [![crates.io](https://img.shields.io/crates/v/scd30.svg)](https://crates.io/crates/scd30)
 *   [SHT2x (⭐2)](https://github.com/dbrgn/sht2x-rs) - I2C - temperature / humidity sensors
-*   [SHT3x (⭐7)](https://github.com/miek/sht3x-rs) - I2C - Temperature / humidity sensors
+*   [SHT3x (⭐8)](https://github.com/miek/sht3x-rs) - I2C - Temperature / humidity sensors
 *   [SI5351 (⭐3)](https://github.com/ilya-epifanov/si5351) - I2C - clock generator
 *   [SI7021 (⭐5)](https://github.com/wose/si7021) - I2C - Humidity and temperature sensor
-*   [spi-memory (⭐23)](https://github.com/jonas-schievink/spi-memory/) - SPI - A generic driver for various SPI Flash and EEPROM chips - ![crates.io](https://img.shields.io/crates/v/spi-memory.svg)
-*   [SSD1322](https://crates.io/crates/ssd1322) - SPI - Graphical OLED display controller - ![crates.io](https://img.shields.io/crates/v/ssd1322.svg)
-*   [SSD1351](https://crates.io/crates/ssd1351) - SPI - 16bit colour OLED display driver - ![crates.io](https://img.shields.io/crates/v/ssd1351.svg)
-*   [SSD1675](https://crates.io/crates/ssd1675) - SPI - Tri-color ePaper display controller - ![crates.io](https://img.shields.io/crates/v/ssd1675.svg)
-*   [st7032i (⭐2)](https://github.com/dotcypress/st7032i) - I2C - Dot Matrix LCD Controller driver (Sitronix ST7032i or similar). - ![crates.io](https://img.shields.io/crates/v/st7032i.svg)
-*   [ST7735-lcd](https://crates.io/crates/st7735-lcd) - SPI - An embedded-graphics compatible driver for the popular lcd family from Sitronix ![crates.io](https://img.shields.io/crates/v/st7735-lcd.svg)
-*   [stm32-eth (⭐146)](https://github.com/stm32-rs/stm32-eth) - MCU - Ethernet
+*   [spi-memory (⭐25)](https://github.com/jonas-schievink/spi-memory/) - SPI - A generic driver for various SPI Flash and EEPROM chips - [![crates.io](https://img.shields.io/crates/v/spi-memory.svg)](https://crates.io/crates/spi-memory)
+*   [SSD1322](https://crates.io/crates/ssd1322) - SPI - Graphical OLED display controller - [![crates.io](https://img.shields.io/crates/v/ssd1322.svg)](https://crates.io/crates/ssd1322)
+*   [SSD1351](https://crates.io/crates/ssd1351) - SPI - 16bit colour OLED display driver - [![crates.io](https://img.shields.io/crates/v/ssd1351.svg)](https://crates.io/crates/ssd1351)
+*   [SSD1675](https://crates.io/crates/ssd1675) - SPI - Tri-color ePaper display controller - [![crates.io](https://img.shields.io/crates/v/ssd1675.svg)](https://crates.io/crates/ssd1675)
+*   [st7032i (⭐2)](https://github.com/dotcypress/st7032i) - I2C - Dot Matrix LCD Controller driver (Sitronix ST7032i or similar). - [![crates.io](https://img.shields.io/crates/v/st7032i.svg)](https://crates.io/crates/st7032i)
+*   [ST7735-lcd](https://crates.io/crates/st7735-lcd) - SPI - An embedded-graphics compatible driver for the popular lcd family from Sitronix [![crates.io](https://img.shields.io/crates/v/st7735-lcd.svg)](https://crates.io/crates/st7735-lcd)
+*   [stm32-eth (⭐152)](https://github.com/stm32-rs/stm32-eth) - MCU - Ethernet
 *   [SX1278 (⭐11)](https://github.com/susu/sx1278) - SPI - Long range (LoRa) transceiver
 *   [SX1509 (⭐1)](https://github.com/wez/sx1509) - I2C - IO Expander / Keypad driver
-*   [TCS3472](https://crates.io/crates/tcs3472) - I2C - RGB color light sensor - ![crates.io](https://img.shields.io/crates/v/tcs3472.svg)
-*   [TPA2016D2](https://crates.io/crates/tpa2016d2) - I2C - A driver for interfacing with the Texas Instruments TPA2016D2 Class-D amplifier - ![crates.io](https://img.shields.io/crates/v/tpa2016d2.svg)
-*   [VEML6040](https://crates.io/crates/veml6040) - I2C - RGBW color light sensor - ![crates.io](https://img.shields.io/crates/v/veml6040.svg)
-*   [VEML6070](https://crates.io/crates/veml6070) - I2C - UVA light sensor - ![crates.io](https://img.shields.io/crates/v/veml6070.svg)
-*   [vesc-comm (⭐1)](https://github.com/chocol4te/vesc-comm) - A driver for communicating with [VESC-compatible electronic speed controllers](http://vedder.se/2015/01/vesc-open-source-esc/) ![crates.io](https://img.shields.io/crates/v/vesc-comm.svg)
-*   [VL53L0X](https://crates.io/crates/vl53l0x) - A platform agnostic driver to interface with the vl53l0x (time-of-flight sensor) ![crates.io](https://img.shields.io/crates/v/vl53l0x.svg)
-*   [w5500](https://crates.io/crates/w5500) - SPI - Ethernet Module with hardwired protocols : TCP, UDP, ICMP, IPv4, ARP, IGMP, PPPoE - ![crates.io](https://img.shields.io/crates/v/w5500.svg)
-*   [xCA9548A](https://crates.io/crates/xca9548a) - I2C - I2C switches/multiplexers: TCA9548A, PCA9548A - ![crates.io](https://img.shields.io/crates/v/xca9548a.svg)
+*   [TCS3472](https://crates.io/crates/tcs3472) - I2C - RGB color light sensor - [![crates.io](https://img.shields.io/crates/v/tcs3472.svg)](https://crates.io/crates/tcs3472)
+*   [TPA2016D2](https://crates.io/crates/tpa2016d2) - I2C - A driver for interfacing with the Texas Instruments TPA2016D2 Class-D amplifier - [![crates.io](https://img.shields.io/crates/v/tpa2016d2.svg)](https://crates.io/crates/tpa2016d2)
+*   [VEML6040](https://crates.io/crates/veml6040) - I2C - RGBW color light sensor - [![crates.io](https://img.shields.io/crates/v/veml6040.svg)](https://crates.io/crates/veml6040)
+*   [VEML6070](https://crates.io/crates/veml6070) - I2C - UVA light sensor - [![crates.io](https://img.shields.io/crates/v/veml6070.svg)](https://crates.io/crates/veml6070)
+*   [vesc-comm (⭐1)](https://github.com/chocol4te/vesc-comm) - A driver for communicating with [VESC-compatible electronic speed controllers](http://vedder.se/2015/01/vesc-open-source-esc/) [![crates.io](https://img.shields.io/crates/v/vesc-comm.svg)](https://crates.io/crates/vesc-comm)
+*   [VL53L0X](https://crates.io/crates/vl53l0x) - A platform agnostic driver to interface with the vl53l0x (time-of-flight sensor) [![crates.io](https://img.shields.io/crates/v/vl53l0x.svg)](https://crates.io/crates/vl53l0x)
+*   [w5500](https://crates.io/crates/w5500) - SPI - Ethernet Module with hardwired protocols : TCP, UDP, ICMP, IPv4, ARP, IGMP, PPPoE - [![crates.io](https://img.shields.io/crates/v/w5500.svg)](https://crates.io/crates/w5500)
+*   [xCA9548A](https://crates.io/crates/xca9548a) - I2C - I2C switches/multiplexers: TCA9548A, PCA9548A - [![crates.io](https://img.shields.io/crates/v/xca9548a.svg)](https://crates.io/crates/xca9548a)
 
 ### no-std crates / WIP
 
-*   [atomic](https://crates.io/crates/atomic): Generic Atomic<T> wrapper type. ![crates.io](https://img.shields.io/crates/v/atomic.svg)
-*   [bbqueue](https://crates.io/crates/bbqueue): A SPSC, statically allocatable queue based on BipBuffers suitable for DMA transfers - ![crates.io](https://img.shields.io/crates/v/bbqueue.svg)
-*   [biquad](https://crates.io/crates/biquad): A library for creating second-order IIR filters for signal processing based on Biquads, where both a Direct Form 1 (DF1) and Direct Form 2 Transposed (DF2T) implementation is available. ![crates.io](https://img.shields.io/crates/v/biquad.svg)
-*   [bit\_field](https://crates.io/crates/bit_field): manipulating bitfields and bitarrays - ![crates.io](https://img.shields.io/crates/v/bit_field.svg)
-*   [bluetooth-hci](https://crates.io/crates/bluetooth-hci): device-independent Bluetooth Host-Controller Interface implementation. ![crates.io](https://img.shields.io/crates/v/bluetooth-hci.svg)
-*   [bounded-registers](https://crates.io/crates/bounded-registers) A high-assurance memory-mapped register code generation and interaction library. `bounded-registers` provides a Tock-like API for MMIO registers with the addition of type-based bounds checking. - ![crates.io](https://img.shields.io/crates/v/bounded-registers.svg)
-*   [combine](https://crates.io/crates/combine): parser combinator library - ![crates.io](https://img.shields.io/crates/v/combine.svg)
-*   [console-traits (⭐3)](https://github.com/thejpster/console-traits): Describes a basic text console. Used by [menu (⭐48)](https://github.com/thejpster/menu) and implemented by [vga-framebuffer (⭐31)](https://github.com/thejpster/vga-framebuffer-rs). ![crates.io](https://img.shields.io/crates/v/console-tratis.svg)
-*   [`cmim`](https://crates.io/crates/cmim), or Cortex-M Interrupt Move: A crate for Cortex-M devices to move data to interrupt context, without needing a critical section to access the data within an interrupt, and to remove the need for the "mutex dance" - ![crates.io](https://img.shields.io/crates/v/cmim.svg)
-*   [dcmimu](https://crates.io/crates/dcmimu): An algorithm for fusing low-cost triaxial MEMS gyroscope and accelerometer measurements ![crates.io](https://img.shields.io/crates/v/dcmimu.svg)
-*   [gcode (⭐87)](https://github.com/Michael-F-Bryan/gcode-rs): A gcode parser for no-std applications - [![crates.io](https://img.shields.io/crates/v/gcode.svg)](https://crates.io/crates/gcode)
-*   [heapless](https://crates.io/crates/heapless): provides `Vec`, `String`, `LinearMap`, `RingBuffer` backed by fixed-size buffers  - ![crates.io](https://img.shields.io/crates/v/heapless.svg)
-*   [ieee802154](https://crates.io/crates/ieee802154): Partial implementation of the IEEE 802.15.4 standard - ![crates.io](https://img.shields.io/crates/v/ieee802154.svg)
-*   [infrared](https://crates.io/crates/infrared): infrared remote control library for embedded rust - ![crates.io](https://img.shields.io/crates/v/infrared.svg)
-*   [intrusive-collections](https://crates.io/crates/intrusive-collections): intrusive (non-allocating) singly/doubly linked lists and red-black trees - ![crates.io](https://img.shields.io/crates/v/intrusive-collections.svg)
-*   [managed](https://crates.io/crates/managed): provides `ManagedSlice`, `ManagedMap` backed by either their std counterparts or fixed-size buffers for `#![no_std]`. - ![crates.io](https://img.shields.io/crates/v/managed.svg)
-*   [menu (⭐48)](https://github.com/thejpster/menu): A basic command-line interface library. Has nested menus and basic help functionality. ![crates.io](https://img.shields.io/crates/v/menu.svg)
-*   [micromath (⭐395)](https://github.com/NeoBirth/micromath): Embedded Rust math library featuring fast, safe floating point approximations for common arithmetic operations, 2D and 3D vector types, and statistical analysis - ![crates.io](https://img.shields.io/crates/v/micromath.svg)
-*   [nalgebra](https://crates.io/crates/nalgebra): general-purpose and low-dimensional linear algebra library - ![crates.io](https://img.shields.io/crates/v/nalgebra.svg)
-*   [nom](https://crates.io/crates/nom): parser combinator framework - ![crates.io](https://img.shields.io/crates/v/nom.svg)
-*   [null-terminated](https://crates.io/crates/null-terminated): generic null-terminated arrays - ![crates.io](https://img.shields.io/crates/v/null-terminated.svg)
-*   [num-format](https://crates.io/crates/num-format): Crate for producing string representations of numbers, formatted according to international standards, e.g. "1,000,000" for US English - ![crates.io](https://img.shields.io/crates/v/num-format.svg)
-*   [`panic-persist`](https://crates.io/crates/panic-persist): A panic handler crate inspired by `panic-ramdump` that logs panic messages to a region of RAM defined by the user, allowing for discovery of panic messages post-mortem using normal program control flow. - ![crates.io](https://img.shields.io/crates/v/panic-persist.svg)
-*   [pc-keyboard (⭐98)](https://github.com/thejpster/pc-keyboard): A PS/2 keyboard protocol driver. Transport (bit-banging or SPI) agnostic, but can convert Set 2 Scancodes into Unicode. ![crates.io](https://img.shields.io/crates/v/pc-keyboard.svg)
-*   [qei](https://crates.io/crates/qei) : A qei wrapper that allows you to extend your qei timers from a 16-bit integer to a 64-bit integer. - ![crates.io](https://img.shields.io/crates/v/qei.svg)
-*   [qemu-exit](https://crates.io/crates/qemu-exit): Quit a running QEMU session with user-defined exit code. Useful for unit or integration tests using QEMU. - ![crates.io](https://img.shields.io/crates/v/qemu-exit.svg)
-*   [register-rs (⭐47)](https://github.com/rust-embedded/register-rs): Unified interface for MMIO and CPU registers. Provides type-safe bitfield manipulation. `register-rs` is Tock registers with added support for CPU register definitions using the same API as for the MMIO registers. This enables homogeneous interfaces to registers of all kinds. - ![crates.io](https://img.shields.io/crates/v/register.svg)
-*   [scroll](https://crates.io/crates/scroll): extensible and endian-aware Read/Write traits for generic containers - ![crates.io](https://img.shields.io/crates/v/scroll.svg)
-*   [smoltcp (⭐3.7k)](https://github.com/m-labs/smoltcp): a small TCP/IP stack that runs without `alloc`. ![crates.io](https://img.shields.io/crates/v/smoltcp.svg)
-*   [tinybmp](https://crates.io/crates/tinybmp): No-std, no-alloc BMP parser for embedded systems. [Introductory blog post](https://wapl.es/rust/2019/03/04/embedded-graphics-0.4.7-bmp-support.html) - ![crates.io](https://img.shields.io/crates/v/tinybmp.svg)
-*   [vga-framebuffer (⭐31)](https://github.com/thejpster/vga-framebuffer-rs): A VGA signal generator and font renderer for VGA-less microcontrollers. Used by [Monotron (⭐191)](https://github.com/thejpster/monotron) to generate 48 by 36 character display using 3 SPI peripherals and a timer. ![crates.io](https://img.shields.io/crates/v/vga-framebuffer.svg)
-*   [wyhash](https://crates.io/crates/wyhash): A fast, simple and portable hashing algorithm and random number generator. - ![crates.io](https://img.shields.io/crates/v/wyhash.svg)
+*   [atomic](https://crates.io/crates/atomic): Generic Atomic<T> wrapper type. [![crates.io](https://img.shields.io/crates/v/atomic.svg)](https://crates.io/crates/atomic)
+*   [bbqueue](https://crates.io/crates/bbqueue): A SPSC, statically allocatable queue based on BipBuffers suitable for DMA transfers - [![crates.io](https://img.shields.io/crates/v/bbqueue.svg)](https://crates.io/crates/bbqueue)
+*   [biquad](https://crates.io/crates/biquad): A library for creating second-order IIR filters for signal processing based on Biquads, where both a Direct Form 1 (DF1) and Direct Form 2 Transposed (DF2T) implementation is available. [![crates.io](https://img.shields.io/crates/v/biquad.svg)](https://crates.io/crates/biquad)
+*   [bit\_field](https://crates.io/crates/bit_field): manipulating bitfields and bitarrays - [![crates.io](https://img.shields.io/crates/v/bit_field.svg)](https://crates.io/crates/bit_field)
+*   [bluetooth-hci](https://crates.io/crates/bluetooth-hci): device-independent Bluetooth Host-Controller Interface implementation. [![crates.io](https://img.shields.io/crates/v/bluetooth-hci.svg)](https://crates.io/crates/bluetooth-hci)
+*   [bounded-registers](https://crates.io/crates/bounded-registers) A high-assurance memory-mapped register code generation and interaction library. `bounded-registers` provides a Tock-like API for MMIO registers with the addition of type-based bounds checking. - [![crates.io](https://img.shields.io/crates/v/bounded-registers.svg)](https://crates.io/crates/bounded-registers)
+*   [combine](https://crates.io/crates/combine): parser combinator library - [![crates.io](https://img.shields.io/crates/v/combine.svg)](https://crates.io/crates/combine)
+*   [console-traits (⭐3)](https://github.com/thejpster/console-traits): Describes a basic text console. Used by [menu (⭐53)](https://github.com/thejpster/menu) and implemented by [vga-framebuffer (⭐31)](https://github.com/thejpster/vga-framebuffer-rs). [![crates.io](https://img.shields.io/crates/v/console-tratis.svg)](https://crates.io/crates/console-tratis)
+*   [`cmim`](https://crates.io/crates/cmim), or Cortex-M Interrupt Move: A crate for Cortex-M devices to move data to interrupt context, without needing a critical section to access the data within an interrupt, and to remove the need for the "mutex dance" - [![crates.io](https://img.shields.io/crates/v/cmim.svg)](https://crates.io/crates/cmim)
+*   [dcmimu](https://crates.io/crates/dcmimu): An algorithm for fusing low-cost triaxial MEMS gyroscope and accelerometer measurements [![crates.io](https://img.shields.io/crates/v/dcmimu.svg)](https://crates.io/crates/dcmimu)
+*   [gcode (⭐92)](https://github.com/Michael-F-Bryan/gcode-rs): A gcode parser for no-std applications - [![crates.io](https://img.shields.io/crates/v/gcode.svg)](https://crates.io/crates/gcode)
+*   [heapless](https://crates.io/crates/heapless): provides `Vec`, `String`, `LinearMap`, `RingBuffer` backed by fixed-size buffers  - [![crates.io](https://img.shields.io/crates/v/heapless.svg)](https://crates.io/crates/heapless)
+*   [ieee802154](https://crates.io/crates/ieee802154): Partial implementation of the IEEE 802.15.4 standard - [![crates.io](https://img.shields.io/crates/v/ieee802154.svg)](https://crates.io/crates/ieee802154)
+*   [infrared](https://crates.io/crates/infrared): infrared remote control library for embedded rust - [![crates.io](https://img.shields.io/crates/v/infrared.svg)](https://crates.io/crates/infrared)
+*   [intrusive-collections](https://crates.io/crates/intrusive-collections): intrusive (non-allocating) singly/doubly linked lists and red-black trees - [![crates.io](https://img.shields.io/crates/v/intrusive-collections.svg)](https://crates.io/crates/intrusive-collections)
+*   [managed](https://crates.io/crates/managed): provides `ManagedSlice`, `ManagedMap` backed by either their std counterparts or fixed-size buffers for `#![no_std]`. - [![crates.io](https://img.shields.io/crates/v/managed.svg)](https://crates.io/crates/managed)
+*   [menu (⭐53)](https://github.com/thejpster/menu): A basic command-line interface library. Has nested menus and basic help functionality. [![crates.io](https://img.shields.io/crates/v/menu.svg)](https://crates.io/crates/menu)
+*   [micromath (⭐404)](https://github.com/NeoBirth/micromath): Embedded Rust math library featuring fast, safe floating point approximations for common arithmetic operations, 2D and 3D vector types, and statistical analysis - [![crates.io](https://img.shields.io/crates/v/micromath.svg)](https://crates.io/crates/micromath)
+*   [nalgebra](https://crates.io/crates/nalgebra): general-purpose and low-dimensional linear algebra library - [![crates.io](https://img.shields.io/crates/v/nalgebra.svg)](https://crates.io/crates/nalgebra)
+*   [nom](https://crates.io/crates/nom): parser combinator framework - [![crates.io](https://img.shields.io/crates/v/nom.svg)](https://crates.io/crates/nom)
+*   [null-terminated](https://crates.io/crates/null-terminated): generic null-terminated arrays - [![crates.io](https://img.shields.io/crates/v/null-terminated.svg)](https://crates.io/crates/null-terminated)
+*   [num-format](https://crates.io/crates/num-format): Crate for producing string representations of numbers, formatted according to international standards, e.g. "1,000,000" for US English - [![crates.io](https://img.shields.io/crates/v/num-format.svg)](https://crates.io/crates/num-format)
+*   [pc-keyboard (⭐100)](https://github.com/thejpster/pc-keyboard): A PS/2 keyboard protocol driver. Transport (bit-banging or SPI) agnostic, but can convert Set 2 Scancodes into Unicode. [![crates.io](https://img.shields.io/crates/v/pc-keyboard.svg)](https://crates.io/crates/pc-keyboard)
+*   [qei](https://crates.io/crates/qei) : A qei wrapper that allows you to extend your qei timers from a 16-bit integer to a 64-bit integer. - [![crates.io](https://img.shields.io/crates/v/qei.svg)](https://crates.io/crates/qei)
+*   [qemu-exit](https://crates.io/crates/qemu-exit): Quit a running QEMU session with user-defined exit code. Useful for unit or integration tests using QEMU. - [![crates.io](https://img.shields.io/crates/v/qemu-exit.svg)](https://crates.io/crates/qemu-exit)
+*   [register-rs (⭐48)](https://github.com/rust-embedded/register-rs): Unified interface for MMIO and CPU registers. Provides type-safe bitfield manipulation. `register-rs` is Tock registers with added support for CPU register definitions using the same API as for the MMIO registers. This enables homogeneous interfaces to registers of all kinds. - [![crates.io](https://img.shields.io/crates/v/register.svg)](https://crates.io/crates/register)
+*   [scroll](https://crates.io/crates/scroll): extensible and endian-aware Read/Write traits for generic containers - [![crates.io](https://img.shields.io/crates/v/scroll.svg)](https://crates.io/crates/scroll)
+*   [smoltcp (⭐3.9k)](https://github.com/m-labs/smoltcp): a small TCP/IP stack that runs without `alloc`. [![crates.io](https://img.shields.io/crates/v/smoltcp.svg)](https://crates.io/crates/smoltcp)
+*   [tinybmp](https://crates.io/crates/tinybmp): No-std, no-alloc BMP parser for embedded systems. [Introductory blog post](https://wapl.es/rust/2019/03/04/embedded-graphics-0.4.7-bmp-support.html) - [![crates.io](https://img.shields.io/crates/v/tinybmp.svg)](https://crates.io/crates/tinybmp)
+*   [vga-framebuffer (⭐31)](https://github.com/thejpster/vga-framebuffer-rs): A VGA signal generator and font renderer for VGA-less microcontrollers. Used by [Monotron (⭐192)](https://github.com/thejpster/monotron) to generate 48 by 36 character display using 3 SPI peripherals and a timer. [![crates.io](https://img.shields.io/crates/v/vga-framebuffer.svg)](https://crates.io/crates/vga-framebuffer)
+*   [wyhash](https://crates.io/crates/wyhash): A fast, simple and portable hashing algorithm and random number generator. - [![crates.io](https://img.shields.io/crates/v/wyhash.svg)](https://crates.io/crates/wyhash)
+
+### Panic handling / WIP
+
+*   [`panic-persist`](https://crates.io/crates/panic-persist): A panic handler crate inspired by `panic-ramdump` that logs panic messages to a region of RAM defined by the user, allowing for discovery of panic messages post-mortem using normal program control flow. - [![crates.io](https://img.shields.io/crates/v/panic-persist.svg)](https://crates.io/crates/panic-persist)
 
 ## [5. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
@@ -258,7 +261,7 @@
 ### Authentication
 
 *   [BlazorBoilerplate (⭐1.9k)](https://github.com/enkodellc/blazorboilerplate) - ![stars](https://img.shields.io/github/stars/enkodellc/blazorboilerplate?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/enkodellc/blazorboilerplate?style=flat-square\&cacheSeconds=86400) Real World Admin Dashboard / Starter kit with IdentityServer4 Material Design. [Demo](https://blazorboilerplate.com).
-*   [BlazorWithIdentity (⭐453)](https://github.com/stavroskasidis/BlazorWithIdentity) - ![stars](https://img.shields.io/github/stars/stavroskasidis/BlazorWithIdentity?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/stavroskasidis/BlazorWithIdentity?style=flat-square\&cacheSeconds=86400) A sample project showcasing a Blazor app using EF Core with Identity authentication.
+*   [BlazorWithIdentity (⭐457)](https://github.com/stavroskasidis/BlazorWithIdentity) - ![stars](https://img.shields.io/github/stars/stavroskasidis/BlazorWithIdentity?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/stavroskasidis/BlazorWithIdentity?style=flat-square\&cacheSeconds=86400) A sample project showcasing a Blazor app using EF Core with Identity authentication.
 
 ## [9. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
 
@@ -350,52 +353,52 @@
 
 ### Projects / Frameworks
 
-*   [Fiat (⭐145)](https://github.com/mit-plv/fiat) - Mostly automated synthesis of correct-by-construction programs.
+*   [Fiat (⭐151)](https://github.com/mit-plv/fiat) - Mostly automated synthesis of correct-by-construction programs.
 *   [Iris](https://iris-project.org) - Higher-order concurrent separation logic framework.
-*   [Verdi (⭐580)](https://github.com/uwplse/verdi) - Framework for formally verifying distributed systems implementations.
+*   [Verdi (⭐596)](https://github.com/uwplse/verdi) - Framework for formally verifying distributed systems implementations.
 *   [VST](https://vst.cs.princeton.edu) - Toolchain for verifying C code inside Coq in a higher-order concurrent, impredicative separation logic that is sound w\.r.t. the Clight language of the CompCert compiler.
 
 ### Projects / User Interfaces
 
 *   [CoqIDE](https://coq.inria.fr/refman/practical-tools/coqide.html) - Standalone graphical tool for interacting with Coq.
-*   [Coqtail (⭐265)](https://github.com/whonore/Coqtail) - Interface for Coq based on the Vim text editor.
-*   [Company-Coq (⭐349)](https://github.com/cpitclaudel/company-coq) - IDE extensions for Proof General's Coq mode.
+*   [Coqtail (⭐278)](https://github.com/whonore/Coqtail) - Interface for Coq based on the Vim text editor.
+*   [Company-Coq (⭐351)](https://github.com/cpitclaudel/company-coq) - IDE extensions for Proof General's Coq mode.
 
 ### Projects / Libraries
 
 *   [Coq-std++](https://gitlab.mpi-sws.org/iris/stdpp) - Extended alternative standard library for Coq.
-*   [ExtLib (⭐124)](https://github.com/coq-community/coq-ext-lib) - Collection of theories and plugins that may be useful in other Coq developments.
-*   [FCSL-PCM (⭐25)](https://github.com/imdea-software/fcsl-pcm) - Formalization of partial commutative monoids as used in verification of pointer-manipulating programs.
+*   [ExtLib (⭐130)](https://github.com/coq-community/coq-ext-lib) - Collection of theories and plugins that may be useful in other Coq developments.
+*   [FCSL-PCM (⭐28)](https://github.com/imdea-software/fcsl-pcm) - Formalization of partial commutative monoids as used in verification of pointer-manipulating programs.
 *   [Paco](http://plv.mpi-sws.org/paco/) - Library for parameterized coinduction.
-*   [Relation Algebra (⭐43)](https://github.com/damien-pous/relation-algebra) - Modular formalization of algebras with heterogeneous binary relations as models.
+*   [Relation Algebra (⭐48)](https://github.com/damien-pous/relation-algebra) - Modular formalization of algebras with heterogeneous binary relations as models.
 
 ### Projects / Plugins
 
-*   [CoqHammer (⭐210)](https://github.com/lukaszcz/coqhammer) - General-purpose automated reasoning hammer tool that combines learning from previous proofs with the translation of problems to automated provers and the reconstruction of found proofs.
-*   [Equations (⭐219)](https://github.com/mattam82/Coq-Equations) - Function definition package for Coq.
-*   [MetaCoq (⭐367)](https://github.com/MetaCoq/metacoq) - Project formalizing Coq in Coq and providing tools for manipulating Coq terms and developing certified plugins.
-*   [Paramcoq (⭐44)](https://github.com/coq-community/paramcoq) - Plugin to generate parametricity translations of Coq terms.
-*   [QuickChick (⭐246)](https://github.com/QuickChick/QuickChick) - Plugin for randomized property-based testing.
-*   [Unicoq (⭐49)](https://github.com/unicoq/unicoq) - Plugin that replaces the existing unification algorithm with an enhanced one.
+*   [CoqHammer (⭐222)](https://github.com/lukaszcz/coqhammer) - General-purpose automated reasoning hammer tool that combines learning from previous proofs with the translation of problems to automated provers and the reconstruction of found proofs.
+*   [Equations (⭐226)](https://github.com/mattam82/Coq-Equations) - Function definition package for Coq.
+*   [MetaCoq (⭐412)](https://github.com/MetaCoq/metacoq) - Project formalizing Coq in Coq and providing tools for manipulating Coq terms and developing certified plugins.
+*   [Paramcoq (⭐45)](https://github.com/coq-community/paramcoq) - Plugin to generate parametricity translations of Coq terms.
+*   [QuickChick (⭐261)](https://github.com/QuickChick/QuickChick) - Plugin for randomized property-based testing.
+*   [Unicoq (⭐53)](https://github.com/unicoq/unicoq) - Plugin that replaces the existing unification algorithm with an enhanced one.
 
 ### Projects / Tools
 
-*   [CoqOfOCaml (⭐250)](https://github.com/clarus/coq-of-ocaml) - Tool for generating idiomatic Coq from OCaml code.
+*   [CoqOfOCaml (⭐255)](https://github.com/clarus/coq-of-ocaml) - Tool for generating idiomatic Coq from OCaml code.
 
 ### Projects / Type Theory and Mathematics
 
-*   [CoRN (⭐108)](https://github.com/coq-community/corn) - Library of constructive real analysis and algebra.
-*   [GeoCoq (⭐179)](https://github.com/GeoCoq/GeoCoq) - Formalization of geometry based on Tarski's axiom system.
-*   [Math Classes (⭐160)](https://github.com/coq-community/math-classes) - Abstract interfaces for mathematical structures based on type classes.
-*   [Odd Order Theorem (⭐24)](https://github.com/math-comp/odd-order) - Formal proof of the Odd Order Theorem, a landmark result of finite group theory.
-*   [UniMath (⭐940)](https://github.com/UniMath/UniMath) - Library which aims to formalize a substantial body of mathematics using the univalent point of view.
+*   [CoRN (⭐112)](https://github.com/coq-community/corn) - Library of constructive real analysis and algebra.
+*   [GeoCoq (⭐190)](https://github.com/GeoCoq/GeoCoq) - Formalization of geometry based on Tarski's axiom system.
+*   [Math Classes (⭐163)](https://github.com/coq-community/math-classes) - Abstract interfaces for mathematical structures based on type classes.
+*   [Odd Order Theorem (⭐29)](https://github.com/math-comp/odd-order) - Formal proof of the Odd Order Theorem, a landmark result of finite group theory.
+*   [UniMath (⭐970)](https://github.com/UniMath/UniMath) - Library which aims to formalize a substantial body of mathematics using the univalent point of view.
 
 ### Projects / Verified Software
 
 *   [CompCert](http://compcert.inria.fr) - High-assurance compiler for almost all of the C language (ISO C99), generating efficient code for the PowerPC, ARM, RISC-V and x86 processors.
-*   [Fiat-Crypto (⭐706)](https://github.com/mit-plv/fiat-crypto) - Cryptographic primitive code generation.
+*   [Fiat-Crypto (⭐735)](https://github.com/mit-plv/fiat-crypto) - Cryptographic primitive code generation.
 *   [lambda-rust](https://gitlab.mpi-sws.org/iris/lambda-rust) - Formal model of a Rust core language and type system, a logical relation for the type system, and safety proofs for some Rust libraries.
-*   [Verdi Raft (⭐180)](https://github.com/uwplse/verdi-raft) - Implementation of the Raft distributed consensus protocol, verified in Coq using the Verdi framework.
+*   [Verdi Raft (⭐187)](https://github.com/uwplse/verdi-raft) - Implementation of the Raft distributed consensus protocol, verified in Coq using the Verdi framework.
 
 ### Resources / Community
 
@@ -564,7 +567,7 @@ Topics: React, Forms, CSS Grid\
 
 ### Plugins / Practices and Specific ES Features
 
-*   [functional (⭐754)](https://github.com/jonaskello/eslint-plugin-functional) - ESLint rules to disable mutation and promote fp in JavaScript and TypeScript.
+*   [functional (⭐795)](https://github.com/jonaskello/eslint-plugin-functional) - ESLint rules to disable mutation and promote fp in JavaScript and TypeScript.
 
 ## [24. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
 
@@ -638,9 +641,9 @@ Topics: React, Forms, CSS Grid\
 ### Code Formatting
 
 *   [RuboCop (⭐13k)](https://github.com/rubocop-hq/rubocop) - A static code analyzer, based on the community Ruby style guide.
-    *   [Rubocop Rails (⭐799)](https://github.com/rubocop-hq/rubocop-rails) - A RuboCop extension focused on enforcing Rails best practices and coding conventions.
-    *   [Rubocop Rspec (⭐799)](https://github.com/rubocop-hq/rubocop-rspec) - Code style checking for RSpec files
-    *   [Rubocop Performance (⭐665)](https://github.com/rubocop-hq/rubocop-performance) - A RuboCop extension focused on code performance checks.
+    *   [Rubocop Rails (⭐823)](https://github.com/rubocop-hq/rubocop-rails) - A RuboCop extension focused on enforcing Rails best practices and coding conventions.
+    *   [Rubocop Rspec (⭐810)](https://github.com/rubocop-hq/rubocop-rspec) - Code style checking for RSpec files
+    *   [Rubocop Performance (⭐687)](https://github.com/rubocop-hq/rubocop-performance) - A RuboCop extension focused on code performance checks.
 
 ### Core Extensions
 
@@ -651,11 +654,11 @@ Topics: React, Forms, CSS Grid\
 
 ### Date and Time Processing
 
-*   [working\_hours (⭐534)](https://github.com/intrepidd/working_hours) - A modern ruby gem allowing to do time calculation with working hours.
+*   [working\_hours (⭐531)](https://github.com/intrepidd/working_hours) - A modern ruby gem allowing to do time calculation with working hours.
 
 ### Form Builder
 
-*   [Rapidfire (⭐319)](https://github.com/code-mancers/rapidfire) - Making dynamic surveys should be easy!
+*   [Rapidfire (⭐321)](https://github.com/code-mancers/rapidfire) - Making dynamic surveys should be easy!
 
 ### Scientific
 
@@ -701,7 +704,7 @@ Topics: React, Forms, CSS Grid\
 
 *   [backbone](https://CRAN.R-project.org/package=backbone) - Provides methods for binarizing a weighted network retaining only significant edges.
     *   [Introduction to the backbone package](https://arxiv.org/abs/1912.12779)
-*   [networkdata (⭐141)](https://github.com/schochastics/networkdata) - Includes 979 network datasets containing 2135 networks.
+*   [networkdata (⭐142)](https://github.com/schochastics/networkdata) - Includes 979 network datasets containing 2135 networks.
 *   [snahelper](https://CRAN.R-project.org/package=snahelper) - RStudio addin which provides a GUI to visualize and analyse networks
     *   [Introduction to snahelper (Part 1)](http://blog.schochastics.net/post/an-rstudio-addin-for-network-analysis-and-visualization/)
     *   [Introduction to snahelper (Part 2)](http://blog.schochastics.net/post/new-rstudio-addins-for-network-analysis/)
@@ -710,42 +713,37 @@ Topics: React, Forms, CSS Grid\
 
 ### Python / General-Purpose Machine Learning
 
-*   [Auto\_ViML (⭐517)](https://github.com/AutoViML/Auto_ViML) -> Automatically Build Variant Interpretable ML models fast! Auto\_ViML is pronounced "auto vimal", is a comprehensive and scalable Python AutoML toolkit with imbalanced handling, ensembling, stacking and built-in feature selection. Featured in <a href="https://towardsdatascience.com/why-automl-is-an-essential-new-tool-for-data-scientists-2d9ab4e25e46?source=friends_link&sk=d03a0cc55c23deb497d546d6b9be0653">Medium article</a>.
+*   [Auto\_ViML (⭐526)](https://github.com/AutoViML/Auto_ViML) -> Automatically Build Variant Interpretable ML models fast! Auto\_ViML is pronounced "auto vimal", is a comprehensive and scalable Python AutoML toolkit with imbalanced handling, ensembling, stacking and built-in feature selection. Featured in <a href="https://towardsdatascience.com/why-automl-is-an-essential-new-tool-for-data-scientists-2d9ab4e25e46?source=friends_link&sk=d03a0cc55c23deb497d546d6b9be0653">Medium article</a>.
 
 ### Python / Data Analysis / Data Visualization
 
-*   [AutoViz (⭐1.7k)](https://github.com/AutoViML/AutoViz) AutoViz performs automatic visualization of any dataset with a single line of Python code. Give it any input file (CSV, txt or JSON) of any size and AutoViz will visualize it. See <a href="https://towardsdatascience.com/autoviz-a-new-tool-for-automated-visualization-ec9c1744a6ad?source=friends_link&sk=c9e9503ec424b191c6096d7e3f515d10">Medium article</a>.
+*   [AutoViz (⭐1.8k)](https://github.com/AutoViML/AutoViz) AutoViz performs automatic visualization of any dataset with a single line of Python code. Give it any input file (CSV, txt or JSON) of any size and AutoViz will visualize it. See <a href="https://towardsdatascience.com/autoviz-a-new-tool-for-automated-visualization-ec9c1744a6ad?source=friends_link&sk=c9e9503ec424b191c6096d7e3f515d10">Medium article</a>.
 
 ## [38. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Debugging
 
-*   🍰 [DebugKit plugin (⭐853)](https://github.com/cakephp/debug_kit) - The de-facto standard for debugging.
-
-### Email
-
-*   [Mailgun plugin (⭐23)](https://github.com/narendravaghela/cakephp-mailgun) - Email transport plugin for sending email via Mailgun.
+*   [DebugKit plugin (⭐849)](https://github.com/cakephp/debug_kit) - The de-facto standard for debugging.
 
 ### Miscellaneous
 
-*   🍰 [Ajax plugin (⭐58)](https://github.com/dereuromark/cakephp-ajax) - A plugin to ease handling AJAX requests.
-*   [CakeImpersonate plugin (⭐7)](https://github.com/jomweb/CakeImpersonate) - A component that stores the current authentication session and creates new session for impersonating Users. User can revert back to original authentication sessions without the need to re-login.
+*   [Ajax plugin (⭐56)](https://github.com/dereuromark/cakephp-ajax) - A plugin to ease handling AJAX requests.
 
 ### Navigation
 
-*   🍰 [Icings/Menu plugin (⭐11)](https://github.com/icings/menu) - A [KnpMenu (⭐1.4k)](https://github.com/KnpLabs/KnpMenu) seasoned menu plugin for CakePHP.
+*   [Icings/Menu plugin (⭐11)](https://github.com/icings/menu) - A [KnpMenu (⭐1.4k)](https://github.com/KnpLabs/KnpMenu) seasoned menu plugin for CakePHP.
 
 ### Search
 
-*   🍰 [Search plugin (⭐170)](https://github.com/FriendsOfCake/search) - Provides easy searching/filtering for paginated views using PRG pattern.
+*   [Search plugin (⭐170)](https://github.com/FriendsOfCake/search) - Provides easy searching/filtering for paginated views using PRG pattern.
 
 ### Security
 
-*   🍰 [Captcha plugin](https://github.com/dereuromark/cakephp-captcha) - Simple, unobtrusive and extendable captcha solution providing by default an image based math captcha.
+*   [Captcha plugin (⭐10)](https://github.com/dereuromark/cakephp-captcha) - Simple, unobtrusive and extendable captcha solution providing by default an image based math captcha.
 
 ### Templating
 
-*   🍰 [Meta plugin (⭐7)](https://github.com/dereuromark/cakephp-meta) - Makes handling meta tags and SEO-relevant HTML markup DRY and easy.
+*   [Meta plugin (⭐7)](https://github.com/dereuromark/cakephp-meta) - Makes handling meta tags and SEO-relevant HTML markup DRY and easy.
 
 ## [39. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
@@ -757,10 +755,6 @@ Topics: React, Forms, CSS Grid\
 
 *   [Learn Vue by Building and Deploying a CRUD App](https://testdriven.io/courses/learn-vue/) - This course is focused on teaching the fundamentals of Vue by building and testing a web application using Test-Driven Development (TDD).
 *   [Advanced Vue.js Features from the Ground Up](https://frontendmasters.com/courses/advanced-vue/) - Learn how to build more accessible routing, state management, form validation and internationalization libraries from the ground up!
-
-### Components & Libraries / UI Utilities
-
-*   [vue-fake3d-image-effect (⭐20)](https://github.com/LuXDAmore/vue-fake3d-image-effect) - An interactive 3D fake-effect for images with depth maps in WebGL.
 
 ## [40. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
@@ -788,23 +782,23 @@ Topics: React, Forms, CSS Grid\
 
 ### Libraries / Cryptography
 
-*   [kornelski/rust-security-framework (⭐230)](https://github.com/kornelski/rust-security-framework) - Bindings for Security Framework (OSX native)
+*   [kornelski/rust-security-framework (⭐251)](https://github.com/kornelski/rust-security-framework) - Bindings for Security Framework (OSX native)
 
 ### Libraries / Encoding
 
 *   BSON
-    *   [mongodb/bson-rust (⭐392)](https://github.com/mongodb/bson-rust) - Encoding and decoding support for BSON
+    *   [mongodb/bson-rust (⭐423)](https://github.com/mongodb/bson-rust) - Encoding and decoding support for BSON
 
 ### Libraries / Image processing
 
-*   [abonander/img\_hash (⭐305)](https://github.com/abonander/img_hash) - Perceptual image hashing and comparison for equality and similarity.
+*   [abonander/img\_hash (⭐315)](https://github.com/abonander/img_hash) - Perceptual image hashing and comparison for equality and similarity.
 
 ### Libraries / Platform specific
 
 *   Unix-like
-    *   [nix-rust/nix (⭐2.6k)](https://github.com/nix-rust/nix) - Unix-like API bindings [![Cirrus Build Status](https://api.cirrus-ci.com/github/nix-rust/nix.svg)](https://cirrus-ci.com/github/nix-rust/nix)
-    *   [rustix (⭐1.4k)](https://github.com/bytecodealliance/rustix) - Safe bindings to POSIX/Unix/Linux/Winsock2 syscalls [![Actions Status](https://github.com/bytecodealliance/rustix/workflows/CI/badge.svg)](https://github.com/bytecodealliance/rustix/actions?query=workflow%3ACI)
-    *   [zargony/fuse-rs (⭐1.1k)](https://github.com/zargony/fuse-rs) - [FUSE (⭐5.2k)](https://github.com/libfuse/libfuse) bindings
+    *   [nix-rust/nix (⭐2.7k)](https://github.com/nix-rust/nix) - Unix-like API bindings [![Cirrus Build Status](https://api.cirrus-ci.com/github/nix-rust/nix.svg)](https://cirrus-ci.com/github/nix-rust/nix)
+    *   [rustix (⭐1.5k)](https://github.com/bytecodealliance/rustix) - Safe bindings to POSIX/Unix/Linux/Winsock2 syscalls [![Actions Status](https://github.com/bytecodealliance/rustix/workflows/CI/badge.svg)](https://github.com/bytecodealliance/rustix/actions?query=workflow%3ACI)
+    *   [zargony/fuse-rs (⭐1.1k)](https://github.com/zargony/fuse-rs) - [FUSE (⭐5.5k)](https://github.com/libfuse/libfuse) bindings
 
 ## [43. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
 
@@ -949,7 +943,7 @@ Topics: React, Forms, CSS Grid\
 
 ### Shell plugins
 
-*   [crystal-zsh (⭐28)](https://github.com/veelenga/crystal-zsh) - .oh-my-zsh plugin
+*   [crystal-zsh (⭐26)](https://github.com/veelenga/crystal-zsh) - .oh-my-zsh plugin
 
 ## [47. Awesome Nlg](/content/accelerated-text/awesome-nlg/week/README.md)
 
@@ -969,7 +963,7 @@ Topics: React, Forms, CSS Grid\
 
 ### Tools
 
-*   [ipfsecret (⭐22)](https://github.com/shlemph/ipfsecret) - Encrypt and decrypt IPFS files with a secret passphrase.
+*   [ipfsecret (⭐26)](https://github.com/shlemph/ipfsecret) - Encrypt and decrypt IPFS files with a secret passphrase.
 
 ## [49. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
@@ -988,20 +982,20 @@ Topics: React, Forms, CSS Grid\
 ### Official Resources
 
 *   [Official Actions organization](https://github.com/actions)
-    *   [actions/virtual-environments (⭐6.8k)](https://github.com/actions/virtual-environments) - GitHub Actions virtual environments.
-    *   [actions/runner (⭐3.2k)](https://github.com/actions/runner) - The Runner for GitHub Actions.
+    *   [actions/virtual-environments (⭐9.8k)](https://github.com/actions/virtual-environments) - GitHub Actions virtual environments.
+    *   [actions/runner (⭐4.7k)](https://github.com/actions/runner) - The Runner for GitHub Actions.
 
 ### Create your Actions / JavaScript and TypeScript Actions
 
-*   [actions/http-client (⭐72)](https://github.com/actions/http-client) - A lightweight HTTP client optimized for use with actions, TypeScript with generics and async await.
+*   [actions/http-client (⭐71)](https://github.com/actions/http-client) - A lightweight HTTP client optimized for use with actions, TypeScript with generics and async await.
 
 ### GitHub Tools and Management / Docker Container Actions
 
-*   [Get a list of file changes with PR/Push (⭐132)](https://github.com/trilom/file-changes-action)
+*   [Get a list of file changes with PR/Push (⭐166)](https://github.com/trilom/file-changes-action)
 
 ### Deployment / Code Coverage
 
-*   [Deploy an Ansible role to Ansible Galaxy (⭐24)](https://github.com/robertdebock/galaxy-action)
+*   [Deploy an Ansible role to Ansible Galaxy (⭐32)](https://github.com/robertdebock/galaxy-action)
 
 ### Tutorials / Terraform
 
@@ -1011,11 +1005,11 @@ Topics: React, Forms, CSS Grid\
 
 ### Status Bar
 
-*   [gitmux (⭐598)](https://github.com/arl/gitmux) Show Git status in tmux status bar
+*   [gitmux (⭐639)](https://github.com/arl/gitmux) Show Git status in tmux status bar
 
 ### Plugins
 
-*   [tmux-spotify (⭐106)](https://github.com/xamut/tmux-spotify) Show a nice menu to manage Spotify application
+*   [tmux-spotify (⭐113)](https://github.com/xamut/tmux-spotify) Show a nice menu to manage Spotify application
 
 ## [52. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/week/README.md)
 

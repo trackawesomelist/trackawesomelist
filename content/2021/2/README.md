@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 11 - Jan 17, 2021
 
-49 awesome lists updated this week.
+48 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -12,40 +12,34 @@
 
 *   [paginated (⭐21)](https://github.com/makotot/paginated) - React render props & custom hook to build pagination.
 
-## [2. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/week/README.md)
-
-### SaaS
-
-*   [Twilio](https://www.twilio.com/blog/twilio-perks-students-and-educators-now-available-github-education)\[CREDIT] - Free $50 USD in Twilio API credits & Exclusive in-game items in TwilioQuest for student via [Github Student Developer Pack](https://education.github.com/pack).
-
-## [3. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
+## [2. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
 ### Learning Guides
 
 *   [Elm patterns](https://sporto.github.io/elm-patterns/) - A collection of coding patterns.
-*   [Codings hints (⭐7.5k)](https://github.com/elm/compiler/tree/master/hints) - A list of README files by Evan.
+*   [Codings hints (⭐7.6k)](https://github.com/elm/compiler/tree/master/hints) - A list of README files by Evan.
 *   [Ellies catalog](https://janiczek-ellies.builtwithdark.com/) - A Collection of small example in Ellie.
 *   [Elm Cookbook](https://orasund.gitbook.io/elm-cookbook/) - A digital book about Elm.
 
-## [4. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [3. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Tools / Others
 
 *   [EasyRetro](https://easyretro.io) - EasyRetro is a retrospective online board for distributed teams.
 
-## [5. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [4. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Issue Tracking and Project Management
 
 *   [easyretro.io](https://www.easyretro.io/) — Simple and intuitive sprint retrospective tool. The free plan has three public boards and one survey per board per month.
 
-## [6. Awesome Homematic](/content/homematic-community/awesome-homematic/week/README.md)
+## [5. Awesome Homematic](/content/homematic-community/awesome-homematic/week/README.md)
 
 ### Interfacing Software
 
 *   [homebridge-homematicip (⭐54)](https://github.com/marcsowen/homebridge-homematicip) - [Homebridge (⭐21k)](https://github.com/nfarina/homebridge) Plugin zur Einbindung von Homematic IP mit HmIP-HAP via Cloud.
 
-## [7. Awesome Translations](/content/mbiesiad/awesome-translations/week/README.md)
+## [6. Awesome Translations](/content/mbiesiad/awesome-translations/week/README.md)
 
 ### Translations
 
@@ -53,22 +47,22 @@
 
 ### Apps / Automated translation
 
-*   [LibreTranslate (⭐8.1k)](https://github.com/uav4geo/LibreTranslate) - 100% Self-Hosted web app to translate text, based on Argos Translate.
+*   [LibreTranslate (⭐8.4k)](https://github.com/uav4geo/LibreTranslate) - 100% Self-Hosted web app to translate text, based on Argos Translate.
 
 ### Apps / Translation software
 
-*   [Argos Translate (⭐3.6k)](https://github.com/argosopentech/argos-translate) - Completely open source offline translation app written in Python and based on OpenNMT. It can also be used as a Python library.
+*   [Argos Translate (⭐3.7k)](https://github.com/argosopentech/argos-translate) - Completely open source offline translation app written in Python and based on OpenNMT. It can also be used as a Python library.
 
-## [8. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
+## [7. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
 
 ### Developer Tools / Other Tools
 
-*   [FastAPI Profiler (⭐223)](https://github.com/sunhailin-Leo/fastapi_profiler) - A FastAPI Middleware of joerick/pyinstrument to check your service performance.
+*   [FastAPI Profiler (⭐245)](https://github.com/sunhailin-Leo/fastapi_profiler) - A FastAPI Middleware of joerick/pyinstrument to check your service performance.
 
 ### Utils / Other Tools
 
-*   [FastAPI Limiter (⭐461)](https://github.com/long2ice/fastapi-limiter) - A request rate limiter for FastAPI.
-*   [FastAPI Pagination (⭐1.1k)](https://github.com/uriyyo/fastapi-pagination) - Pagination for FastAPI.
+*   [FastAPI Limiter (⭐522)](https://github.com/long2ice/fastapi-limiter) - A request rate limiter for FastAPI.
+*   [FastAPI Pagination (⭐1.2k)](https://github.com/uriyyo/fastapi-pagination) - Pagination for FastAPI.
 
 ### External Resources / Other Tools
 
@@ -78,49 +72,49 @@
 
 *   [Coronavirus-tg-api (⭐14)](https://github.com/egbakou/coronavirus-tg-api) - API for tracking the global coronavirus (COVID-19, SARS-CoV-2) outbreak.
 
-## [9. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/week/README.md)
+## [8. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/week/README.md)
 
 ### Scientific Journals
 
 *   [Helminthologia](https://content.sciendo.com/configurable/contentpage/journals$002fhelm$002fhelm-overview.xml) - Open-access scientific journal of the Slovak Academy of Sciences that publishes quarterly since 1959. Open access from volume 43 (2006) - present. Articles relate to human, veterinary and plant helminthology.
 
-## [10. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [9. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### Open Source Apps / Navigation Demos
 
 *   [ZudVPN ★32 (⭐115)](https://github.com/zudvpn/ZudVPN) - Deploy private VPN on major Cloud Providers with [ZudVPN](https://www.zudvpn.com)
 
-## [11. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [10. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Caching
 
-*   [Cache Tower (⭐609)](https://github.com/TurnerSoftware/CacheTower) - An efficient multi-layered caching system for .NET (In-Memory, Redis, Database, File etc)
+*   [Cache Tower (⭐616)](https://github.com/TurnerSoftware/CacheTower) - An efficient multi-layered caching system for .NET (In-Memory, Redis, Database, File etc)
 
 ### CLI
 
-*   [CommandDotNet (⭐567)](https://github.com/bilal-fazlani/commanddotnet) - Model your console app using C# in a composable manner. Define commands with methods. Define subcommands with properties or nested classes. Extensible parsing and command execution.
+*   [CommandDotNet (⭐588)](https://github.com/bilal-fazlani/commanddotnet) - Model your console app using C# in a composable manner. Define commands with methods. Define subcommands with properties or nested classes. Extensible parsing and command execution.
 *   [CommandLineUtils (⭐2.2k)](https://github.com/natemcmaster/CommandLineUtils) - This is a fork of Microsoft.Extensions.CommandLineUtils, which is no longer under active development.
 
 ### CLR
 
-*   [Runtime (⭐15k)](https://github.com/dotnet/runtime) - Mono and CoreCLR .NET runtimes, as well as the standard library and some higher level components like `System.Linq` and `System.Text.Json`.
+*   [Runtime (⭐16k)](https://github.com/dotnet/runtime) - Mono and CoreCLR .NET runtimes, as well as the standard library and some higher level components like `System.Linq` and `System.Text.Json`.
 
 ### Compilers, Transpilers and Languages
 
-*   [Amplifier.NET (⭐171)](https://github.com/tech-quantum/Amplifier.NET) - Write and compile your own kernel function using C# and Amplifier will take care of running it on your favorite hardware. Amplifier allows .NET developers to easily run complex applications with intensive mathematical computation on Intel CPU/GPU, NVIDIA, AMD without writing any additional C kernel code.
+*   [Amplifier.NET (⭐178)](https://github.com/tech-quantum/Amplifier.NET) - Write and compile your own kernel function using C# and Amplifier will take care of running it on your favorite hardware. Amplifier allows .NET developers to easily run complex applications with intensive mathematical computation on Intel CPU/GPU, NVIDIA, AMD without writing any additional C kernel code.
 
 ### DirectX
 
-*   [Vortice.Windows (⭐985)](https://github.com/amerkoleci/Vortice.Windows) - Cross platform .NET standard libraries for DirectX, WIC, Direct2D1, XInput, XAudio and X3DAudio
+*   [Vortice.Windows (⭐1k)](https://github.com/amerkoleci/Vortice.Windows) - Cross platform .NET standard libraries for DirectX, WIC, Direct2D1, XInput, XAudio and X3DAudio
 
 ### Game
 
-*   [UnrealCLR (⭐3.1k)](https://github.com/nxrighthere/UnrealCLR) - Unreal Engine .NET Core integration
+*   [UnrealCLR (⭐3.2k)](https://github.com/nxrighthere/UnrealCLR) - Unreal Engine .NET Core integration
 
 ### Logging
 
 *   [Rollbar.NET (⭐65)](https://github.com/rollbar/Rollbar.NET) - Simplifies real-time remote error monitoring while using Rollbar.com. Open-source Rollbar Notifier SDK for any .NET-based technology stack. The SDK that can be used in any application built on the following .NET versions: .NET Core 2.0+, .NET Standard 2.0+, .NET Full Framework 4.5.1+, Mono, Xamarin, and, in general, any implementation of the .NET Standard 2.0+. It simplifies building data payloads based on exception data, tracing data, informational messages, and telemetry data and sends the payloads to the Rollbar API for remote monitoring and analysis of the hosting application's behavior.
-*   [ZeroLog (⭐397)](https://github.com/Abc-Arbitrage/ZeroLog) - ZeroLog is a zero-allocation .NET logging library. It provides basic logging capabilities to be used in latency-sensitive applications, where garbage collections are undesirable.
+*   [ZeroLog (⭐413)](https://github.com/Abc-Arbitrage/ZeroLog) - ZeroLog is a zero-allocation .NET logging library. It provides basic logging capabilities to be used in latency-sensitive applications, where garbage collections are undesirable.
 
 ### Machine Learning and Data Science
 
@@ -129,55 +123,61 @@
 
 ### Misc
 
-*   [Infinity Crawler (⭐243)](https://github.com/TurnerSoftware/InfinityCrawler) - A simple but powerful web crawler library for .NET
+*   [Infinity Crawler (⭐247)](https://github.com/TurnerSoftware/InfinityCrawler) - A simple but powerful web crawler library for .NET
 
 ### Networking
 
-*   [NetCoreServer (⭐2.6k)](https://github.com/chronoxor/NetCoreServer) - Ultra fast and low latency asynchronous socket server & client C# .NET Core library with support TCP, SSL, UDP, HTTP, HTTPS, WebSocket protocols and 10K connections problem solution (NETStandard).
+*   [NetCoreServer (⭐2.9k)](https://github.com/chronoxor/NetCoreServer) - Ultra fast and low latency asynchronous socket server & client C# .NET Core library with support TCP, SSL, UDP, HTTP, HTTPS, WebSocket protocols and 10K connections problem solution (NETStandard).
 
 ### Object to object mapping
 
-*   [Mapster (⭐4.3k)](https://github.com/MapsterMapper/Mapster) - A high performance object mapper in .net
+*   [Mapster (⭐4.4k)](https://github.com/MapsterMapper/Mapster) - A high performance object mapper in .net
 
 ### ORM
 
-*   [MongoFramework (⭐389)](https://github.com/TurnerSoftware/MongoFramework) - An "Entity Framework"-like interface for MongoDB
+*   [MongoFramework (⭐392)](https://github.com/TurnerSoftware/MongoFramework) - An "Entity Framework"-like interface for MongoDB
 
 ### Serialization
 
-*   [CsvExport (⭐150)](https://github.com/jitbit/CsvExport) - Very simple & lightweight CSV exporter, Excel friendly, escapes text & quotes etc.
+*   [CsvExport (⭐171)](https://github.com/jitbit/CsvExport) - Very simple & lightweight CSV exporter, Excel friendly, escapes text & quotes etc.
 
 ### Strong Naming
 
-*   [.NET Assembly Strong-Name Signer (⭐315)](https://github.com/brutaldev/StrongNameSigner) - Utility software to strong-name sign .NET assemblies, including assemblies you do not have the source code for.
+*   [.NET Assembly Strong-Name Signer (⭐332)](https://github.com/brutaldev/StrongNameSigner) - Utility software to strong-name sign .NET assemblies, including assemblies you do not have the source code for.
 
 ### Testing
 
 *   [Compare-Net-Objects (⭐1.1k)](https://github.com/GregFinzer/Compare-Net-Objects) - Perform a deep compare of any two .NET objects using reflection. Shows the differences between the two objects.
 
-## [12. Awesome Prisma](/content/catalinmiron/awesome-prisma/week/README.md)
+## [11. Awesome Prisma](/content/catalinmiron/awesome-prisma/week/README.md)
 
 ### :safety_vest: Community Prisma Tools
 
 *   [Documentation Generator (⭐537)](https://github.com/pantharshit00/prisma-docs-generator)
 
-## [13. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [12. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Reliability
 
 *   [Generic mitigations](https://www.oreilly.com/content/generic-mitigations/)
 
-## [14. Awesome Seed Rs](/content/seed-rs/awesome-seed-rs/week/README.md)
+## [13. Awesome Seed Rs](/content/seed-rs/awesome-seed-rs/week/README.md)
 
 ### Bundlers
 
-*   [Trunk (⭐2k)](https://github.com/thedodd/trunk) - WASM web application bundler for Rust.
+*   [Trunk (⭐3.6k)](https://github.com/thedodd/trunk) - WASM web application bundler for Rust.
 *   [Web Bundler (⭐11)](https://github.com/panoptix-za/web-bundler) - Bundles a Seed SPA for publishing.
-*   [Seeder (⭐44)](https://github.com/MartinKavik/seeder) - Set up Seed app and start dev server by running one command.
+*   [Seeder (⭐43)](https://github.com/MartinKavik/seeder) - Set up Seed app and start dev server by running one command.
 
 ### Libraries
 
 *   [Seed Bootstrap (⭐2)](https://github.com/panoptix-za/seed-bootstrap) - A collection of the [Bootstrap](https://getbootstrap.com/) CSS components.
+
+## [14. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+
+### Components & Libraries / Utilities
+
+*   [vue-safe-html (⭐29)](https://github.com/ecosia/vue-safe-html) - Vue.js directive which renders sanitised HTML dynamically.
 
 ## [15. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
@@ -195,7 +195,7 @@
 
 ### Python
 
-*   [Robocode (⭐139)](https://github.com/turkishviking/Python-Robocode) - The goal is to develop a robot battle tank to battle against other tanks. The robot battles are running in real-time and on-screen.
+*   [Robocode (⭐144)](https://github.com/turkishviking/Python-Robocode) - The goal is to develop a robot battle tank to battle against other tanks. The robot battles are running in real-time and on-screen.
 
 ### Java
 
@@ -240,151 +240,129 @@
 
 ### REST and API
 
-*   🍰 [FractalTransformerView plugin (⭐17)](https://github.com/andrej-griniuk/cakephp-fractal-transformer-view) - A plugin which allows using [Fractal transformers](https://fractal.thephpleague.com/transformers/) for your API output.
+*   [FractalTransformerView plugin (⭐19)](https://github.com/andrej-griniuk/cakephp-fractal-transformer-view) - A plugin which allows using [Fractal transformers](https://fractal.thephpleague.com/transformers/) for your API output.
 
 ## [18. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
-### 2D / Godot 3.2+
+### 2D / Godot 4
 
 *   [Librerama](https://codeberg.org/Yeldham/librerama) - A free/libre fast-paced arcade collection of mini-games.
-*   [TuxBuilder (⭐209)](https://github.com/Alzter/TuxBuilder) - Work-in-progress reimplementation of SuperTux.
+*   [Unknown Horizons (⭐699)](https://github.com/unknown-horizons/godot-port) - Official work-in-progress reimplementation of Unknown Horizons.
 
-### 2D / Godot 3.1
+### 2D / Godot 3
 
-*   [Blipshift (⭐13)](https://github.com/GaidamakUA/blipshift) - Simple top-down moving platforms game.
-*   [Circle Jump (⭐136)](https://github.com/kidscancode/circle_jump) - Mobile arcade game, addicting and enjoyable. How-to-made tutorial is available, so you can recreate it yourself and learn Godot.
-*   [Haldric (⭐369)](https://github.com/wesnoth/haldric) - Official work-in-progress reimplementation of Battle for Wesnoth.
-*   [SealedBite](https://github.com/securas/SealedBite) - 2D platformer game, winner of the GitHub Game Off 2019 jam.
-*   [Unknown Horizons (⭐661)](https://github.com/unknown-horizons/godot-port) - Official work-in-progress reimplementation of Unknown Horizons.
-
-### 2D / Godot 3.0
-
+*   [Blipshift (⭐14)](https://github.com/GaidamakUA/blipshift) - Simple top-down moving platforms game.
 *   [Breakable (⭐63)](https://github.com/didier-v/breakable) - A breakout-like game.
+*   [Circle Jump (⭐139)](https://github.com/kidscancode/circle_jump) - Mobile arcade game, addicting and enjoyable. How-to-made tutorial is available, so you can recreate it yourself and learn Godot.
+*   [Haldric (⭐367)](https://github.com/wesnoth/haldric) - Official work-in-progress reimplementation of Battle for Wesnoth.
 *   [Memory Game (⭐29)](https://github.com/Tzoop/MemoryGame) - Simple Memory game.
+*   [TuxBuilder (⭐214)](https://github.com/Alzter/TuxBuilder) - Work-in-progress reimplementation of SuperTux.
 
-### 2D / Godot 2.1
+### 2D / Godot 2
 
 *   [BlockPop (⭐28)](https://github.com/vnen/blockpop) - A simple Breakout clone.
 *   [Bombs (⭐18)](https://github.com/randyyaj/Bombs) - Simple mobile game. You need to touch bombs to defuse them.
-*   [Captain Holetooth (⭐68)](https://github.com/Hirnbix/captain-holetooth) - Explorative platformer in a detailed world. Geared towards younger players.
-*   [Dolphin Island 2 (⭐177)](https://github.com/janmarcano/Dolphin-Island-2) - Platformer game made for the A Game By It's Cover 2015 Game Jam.
-*   [DynaDungeons (⭐212)](https://github.com/akien-mga/dynadungeons) - Bomberman clone in a fantasy universe.
+*   [Captain Holetooth (⭐69)](https://github.com/Hirnbix/captain-holetooth) - Explorative platformer in a detailed world. Geared towards younger players.
+*   [Dolphin Island 2 (⭐178)](https://github.com/janmarcano/Dolphin-Island-2) - Platformer game made for the A Game By It's Cover 2015 Game Jam.
+*   [DynaDungeons (⭐219)](https://github.com/akien-mga/dynadungeons) - Bomberman clone in a fantasy universe.
 *   [Kraken-Rampage (⭐6)](https://github.com/randyyaj/Kraken-Rampage) - Ludum Dare 33 entry made in 48 hours.
-*   [Minehunter (⭐18)](https://github.com/genete/Minehunter) - A Minesweeper clone.
+*   [Minehunter (⭐19)](https://github.com/genete/Minehunter) - A Minesweeper clone.
 *   [Minilens](http://kobuge-games.github.io/minilens/) - Free puzzle platform game.
 *   [Mountain of Hope (⭐12)](https://github.com/w84death/mountain-of-hope) - Game made on Theater Game Jam (PGA 2015).
 *   [Ninja-Training (⭐38)](https://github.com/KOBUGE-Games/Ninja-Training) - Small running game done as 1 hour challenge.
 *   [No hope (⭐9)](https://github.com/sergicollado/no_hope_LD33) - Ludum Dare 33 entry made in 48 hours.
 *   [Planet Rider (⭐35)](https://github.com/FEDE0D/Planet-Rider) - 2D physics parkour game in an alien environment.
-*   [Platshoot (⭐45)](https://github.com/Calinou/platshoot) - A 2D shooter game.
-*   [Ringed (⭐87)](https://github.com/KOBUGE-Incubator/ringed) - Top-down shooter with extensive usage of light effects.
+*   [Platshoot (⭐47)](https://github.com/Calinou/platshoot) - A 2D shooter game.
+*   [Ringed (⭐92)](https://github.com/KOBUGE-Incubator/ringed) - Top-down shooter with extensive usage of light effects.
 *   [Tanks of Freedom (⭐1.1k)](https://github.com/w84death/Tanks-of-Freedom) - Free turn-based isometric strategy game.
 *   [Three Hungry Mice (⭐7)](https://github.com/delstuff/threeHungryMice) - Breakout game with mice made for the Godot Engine Jam of March 2016.
 
-### 3D / Godot 3.2+
+### 3D / Godot 4
 
-*   [Broken Seals (⭐388)](https://github.com/Relintai/broken_seals) - A work-in-progress third person action RPG with multiplayer support (needs custom engine modules).
 *   [Super Tux Party](https://gitlab.com/SuperTuxParty/SuperTuxParty) - A free/libre and open-source party game that is meant to replicate the feel of games such as Mario Party.
-*   [Thrive (⭐2.7k)](https://github.com/Revolutionary-Games/Thrive/) - A free, open-source game about the evolution of life (Mono).
+*   [Thrive (⭐2.9k)](https://github.com/Revolutionary-Games/Thrive/) - A free, open-source game about the evolution of life (Mono).
 
-### 3D / Godot 3.1
+### 3D / Godot 3
 
-*   [Rapid Rescue (⭐71)](https://github.com/Azza292/RapidRescue) - Rapid Rescue is a local multiplayer strategy game inspired by Labyrinth.
+*   [Broken Seals (⭐395)](https://github.com/Relintai/broken_seals) - A work-in-progress third person action RPG with multiplayer support (needs custom engine modules).
+*   [Meteorite (⭐321)](https://github.com/Bauxitedev/meteorite) - A lowres metroidvania FPS, inspired by Metroid Prime, made for LOWREZJAM 2018.
+*   [Rapid Rescue (⭐73)](https://github.com/Azza292/RapidRescue) - Rapid Rescue is a local multiplayer strategy game inspired by Labyrinth.
 
-### 3D / Godot 3.0
-
-*   [Meteorite (⭐315)](https://github.com/Bauxitedev/meteorite) - A lowres metroidvania FPS, inspired by Metroid Prime, made for LOWREZJAM 2018.
-
-### 3D / Godot 2.1
+### 3D / Godot 2
 
 *   [Cheese Hunter (⭐16)](https://github.com/khairul169/cheese-hunter) - A game for Godot Engine Jam of March 2016.
 
-### Projects / Godot 3.2+
+### Projects / Godot 4
 
-*   [Godello (⭐779)](https://github.com/alfredbaudisch/Godello) - A Trello-like kanban board application made with Godot. A proof of concept for complex non-game applications with Godot, as well real-time online interactions between multiple users. Includes backend code.
-*   [Material Maker (⭐3.4k)](https://github.com/RodZill4/material-maker) - Create PBR materials procedurally (similar to Substance Designer).
-*   [Pixelorama (⭐6.8k)](https://github.com/Orama-Interactive/Pixelorama) - 2D pixel art editor.
+*   [Material Maker (⭐3.6k)](https://github.com/RodZill4/material-maker) - Create PBR materials procedurally (similar to Substance Designer).
+*   [Pixelorama (⭐7.4k)](https://github.com/Orama-Interactive/Pixelorama) - 2D pixel art editor.
 
-### Templates / Godot 3.2+
+### Projects / Godot 3
 
-*   [First Person Starter (⭐602)](https://github.com/Whimfoome/godot-FirstPersonStarter) - Template with First Person Controller, easily adjustable from the Inspector.
-*   [Minimum Game (⭐65)](https://github.com/benmarz/minimum_game) - Template top-down 2D pixel art game, with multiple rooms, a HUD, menus, and autosaving.
-*   [Multiplayer First Person Shooter (⭐61)](https://github.com/blockspacer/Godot-3.2-Multiplayer-FPS) - Multiplayer first person shooter example project.
-*   [Multiplayer Third Person Shooter (⭐64)](https://github.com/jasonswearingen/TPS-MP) - Multiplayer third person shooter example project.
+*   [Godello (⭐813)](https://github.com/alfredbaudisch/Godello) - A Trello-like kanban board application made with Godot. A proof of concept for complex non-game applications with Godot, as well real-time online interactions between multiple users. Includes backend code.
 
-### Templates / Godot 3.1
+### Templates / Godot 3
 
-*   [Godot-GameTemplate (⭐1.1k)](https://github.com/nezvers/Godot-GameTemplate) - Template with all necessary stuff taken care of. Designed for pixel art games.
+*   [First Person Starter (⭐693)](https://github.com/Whimfoome/godot-FirstPersonStarter) - Template with First Person Controller, easily adjustable from the Inspector.
+*   [Godot-GameTemplate (⭐1.2k)](https://github.com/nezvers/Godot-GameTemplate) - Template with all necessary stuff taken care of. Designed for pixel art games.
+*   [Minimum Game (⭐72)](https://github.com/benmarz/minimum_game) - Template top-down 2D pixel art game, with multiple rooms, a HUD, menus, and autosaving.
+*   [Multiplayer First Person Shooter (⭐65)](https://github.com/blockspacer/Godot-3.2-Multiplayer-FPS) - Multiplayer first person shooter example project.
+*   [Multiplayer Third Person Shooter (⭐65)](https://github.com/jasonswearingen/TPS-MP) - Multiplayer third person shooter example project.
 
-### Demos / Godot 3.2+
+### Demos / Godot 3
 
-*   [The Tower (⭐24)](https://github.com/Relintai/the_tower) - A voxel-based parkour game to show the capabilities of the Voxelman module.
+*   [OpenRPG (⭐2.1k)](https://github.com/GDquest/godot-open-rpg) - JRPG-style game demo and template.
+*   [Open Source A-RPG Demo (⭐1k)](https://github.com/GDQuest/godot-make-pro-2d-games) - RPG demo.
+*   [Realistic Water Shader (⭐753)](https://github.com/godot-extended-libraries/godot-realistic-water) - Realistic 3D water shader with foam and caustics.
+*   [The Tower (⭐25)](https://github.com/Relintai/the_tower) - A voxel-based parkour game to show the capabilities of the Voxelman module.
+*   [voxelgame (⭐600)](https://github.com/Zylann/voxelgame) - Minecraft-like voxel terrain demo, utilising the godot\_voxel module.
 
-### Demos / Godot 3.1
-
-*   [Realistic Water Shader (⭐692)](https://github.com/godot-extended-libraries/godot-realistic-water) - Realistic 3D water shader with foam and caustics.
-*   [OpenRPG (⭐1.9k)](https://github.com/GDquest/godot-open-rpg) - JRPG-style game demo and template.
-*   [voxelgame (⭐537)](https://github.com/Zylann/voxelgame) - Minecraft-like voxel terrain demo, utilising the godot\_voxel module.
-
-### Demos / Godot 3.0
-
-*   [Open Source A-RPG Demo (⭐977)](https://github.com/GDQuest/godot-make-pro-2d-games) - RPG demo.
-
-### Demos / Godot 2.1
+### Demos / Godot 2
 
 *   [FPS Test (⭐60)](https://github.com/Calinou/fps-test) - A singleplayer FPS test. Physics work, but there are no enemies and no proper shooting.
 *   [Pathfinding 2d (⭐68)](https://github.com/FEDE0D/godot-pathfinding2d-demo) - A demo project demonstrating pathfinding using a tilemap.
 *   [UDP Snapshot interpolation (⭐65)](https://github.com/empyreanx/godot-snapshot-interpolation-demo) - Lets you connect to a server and view networked physics.
-*   [UDP State synchronization (⭐161)](https://github.com/empyreanx/godot-state-sync-demo) - A more efficient networking demo than the snapshot interpolation one.
+*   [UDP State synchronization (⭐163)](https://github.com/empyreanx/godot-state-sync-demo) - A more efficient networking demo than the snapshot interpolation one.
 *   [Voxel Game (⭐73)](https://github.com/toger5/Godot-Voxel-Game-MineCraftClone) - Minecraft-like voxel terrain demo.
 
-### Plugins and scripts / Various Godot versions
+### Plugins and scripts / Godot 3
 
-*   [GodotPhoenixChannels (⭐271)](https://github.com/alfredbaudisch/GodotPhoenixChannels) - A GDScript and Godot Engine implementation for the Channels API of the Phoenix Framework (Godot 3.\*).
-*   [GodotTIE (⭐289)](https://github.com/henriquelalves/GodotTIE) - Text Interface Engine to control text output (like in a RPG dialogue) (Godot 2.x, 3.x).
-*   [gterm (⭐98)](https://github.com/TeddyDD/gterm) - GUI control that draws something similar to \*nix terminal emulators (Godot >= 2.1).
-*   [GUT (⭐1.8k)](https://github.com/bitwes/Gut) - Utility for writing unit tests in GDScript (Godot 3.x).
-*   [InGrid (⭐105)](https://github.com/Larpon/ingrid) - Infinite scrolling grid (Godot 3.x).
-*   [Tiled importer (⭐826)](https://github.com/vnen/godot-tiled-importer) - Import maps from [Tiled](https://www.mapeditor.org/) (Godot 3.x).
-*   [TileSet Builder (⭐18)](https://github.com/HeavenMercy/TileSet-Builder-Godot-Plugin) - Quickly build tilesets with style (Godot 3.x).
-
-### Plugins and scripts / Godot 3.2+
-
-*   [Cartographer (⭐383)](https://github.com/awkwardpolygons/cartographer) - Heightmap-based 3D terrain editor.
-*   [Code Snapshot (⭐54)](https://github.com/fenix-hub/godot-engine.code-snapshot) - A plugin which lets you take beautified screenshots of your code within the editor.
-*   [Delaunator GDScript (⭐80)](https://github.com/hiulit/Delaunator-GDScript) - A GDScript library for Delaunay triangulation of 2D points.
-*   [Dialogic (⭐3.7k)](https://github.com/coppolaemilio/dialogic) - Create dialogs, characters and scenes to display conversations.
-*   [GDGIFExporter (⭐115)](https://github.com/jegor377/godot-gdgifexporter) - GIF exporter made entirely in GDScript.
-*   [GitHub integration (⭐228)](https://github.com/fenix-hub/godot-engine.github-integration) - Interact with GitHub without opening your browser.
+*   [Cartographer (⭐389)](https://github.com/awkwardpolygons/cartographer) - Heightmap-based 3D terrain editor.
+*   [Code Snapshot (⭐56)](https://github.com/fenix-hub/godot-engine.code-snapshot) - A plugin which lets you take beautified screenshots of your code within the editor.
+*   [Delaunator GDScript (⭐82)](https://github.com/hiulit/Delaunator-GDScript) - A GDScript library for Delaunay triangulation of 2D points.
+*   [Dialogic (⭐3)](https://github.com/coppolaemilio/dialogic) - Create dialogs, characters and scenes to display conversations.
+*   [FMOD GDNative (⭐505)](https://github.com/utopia-rise/fmod-gdnative) - Plugin to use the FMOD audio engine in GDScript.
+*   [GDGIFExporter (⭐126)](https://github.com/jegor377/godot-gdgifexporter) - GIF exporter made entirely in GDScript.
+*   [gdstats (⭐36)](https://github.com/droxpopuli/gdstats) - A library of pseudorandom number generators for common statistical distributions.
+*   [GitHub integration (⭐232)](https://github.com/fenix-hub/godot-engine.github-integration) - Interact with GitHub without opening your browser.
 *   [godotccd (⭐64)](https://github.com/TheSHEEEP/godotccd) - Fast 3D collision checks in Godot using libccd.
-*   [godotdetour (⭐120)](https://github.com/TheSHEEEP/godotdetour) - A GDNative implementation of the detour/detourcrowd library.
-*   [Godot NExt (⭐954)](https://github.com/godot-extended-libraries/godot-next) - A set of basic node extensions.
-*   [Godot Mixing Desk (⭐636)](https://github.com/kyzfrintin/Godot-Mixing-Desk) - Make procedural sound and adaptive/procedural music with a few nodes and a couple lines of code.
-*   [GodotRx (⭐93)](https://github.com/semickolon/GodotRx) - Reactive extensions for Godot C# (Mono).
-*   [Godot-Trail-System (⭐349)](https://github.com/OBKF/Godot-Trail-System) - Advanced 2D/3D trail system.
-*   [Level of Detail (LOD) (⭐231)](https://github.com/Calinou/godot-lod) - Level of detail add-on for meshes, lights and particles. Can improve performance in large scenes.
-*   [MDFramework (⭐77)](https://github.com/DoubleDeez/MDFramework) - A C# multiplayer framework with additional tools (Mono).
+*   [godotdetour (⭐122)](https://github.com/TheSHEEEP/godotdetour) - A GDNative implementation of the detour/detourcrowd library.
+*   [Godot Mixing Desk (⭐647)](https://github.com/kyzfrintin/Godot-Mixing-Desk) - Make procedural sound and adaptive/procedural music with a few nodes and a couple lines of code.
+*   [Godot NExt (⭐968)](https://github.com/godot-extended-libraries/godot-next) - A set of basic node extensions.
+*   [GodotPhoenixChannels (⭐283)](https://github.com/alfredbaudisch/GodotPhoenixChannels) - A GDScript and Godot Engine implementation for the Channels API of the Phoenix Framework.
+*   [GodotRx (⭐94)](https://github.com/semickolon/GodotRx) - Reactive extensions for Godot C# (Mono).
+*   [GodotTIE (⭐287)](https://github.com/henriquelalves/GodotTIE) - Text Interface Engine to control text output (like in a RPG dialogue). *(Godot 2 and 3)*
+*   [Godot-Trail-System (⭐347)](https://github.com/OBKF/Godot-Trail-System) - Advanced 2D/3D trail system.
+*   [GUT (⭐1.9k)](https://github.com/bitwes/Gut) - Utility for writing unit tests in GDScript.
+*   [InGrid (⭐108)](https://github.com/Larpon/ingrid) - Infinite scrolling grid.
+*   [Level of Detail (LOD) (⭐233)](https://github.com/Calinou/godot-lod) - Level of detail add-on for meshes, lights and particles. Can improve performance in large scenes.
+*   [MDFramework (⭐76)](https://github.com/DoubleDeez/MDFramework) - A C# multiplayer framework with additional tools (Mono).
 *   [NI mate Motion Capture (⭐30)](https://github.com/hoontee/godot-ni-mate-motion-capture) - Animate Skeletons with a Microsoft Kinect sensor.
-*   [Qodot (⭐972)](https://github.com/Shfty/qodot-plugin) - Quake `.map` file support for Godot. Lets you use [TrenchBroom](https://kristianduske.com/trenchbroom/) for level design.
-*   [Scatter (⭐2k)](https://github.com/HungryProton/scatter) - Randomly fill an area with props or other scenes.
-*   [UI Design Tool (⭐354)](https://github.com/imjp94/UIDesignTool) - Intuitive design workflow for UIs in the editor.
-*   [Volumetrics (⭐325)](https://github.com/SIsilicon/Godot-Volumetrics-Plugin) - Voxel-based volumetric lighting and fog plugin.
-*   [VPainter (⭐466)](https://github.com/tomankirilov/VPainter) - 3D vertex painting plugin.
-*   [Waterways (⭐1k)](https://github.com/Arnklit/WaterGenGodot) - Tool to generate river meshes with flow and foam maps based on Bézier curves.
+*   [Qodot (⭐981)](https://github.com/Shfty/qodot-plugin) - Quake `.map` file support for Godot. Lets you use [TrenchBroom](https://kristianduske.com/trenchbroom/) for level design.
+*   [Scatter (⭐2.3k)](https://github.com/HungryProton/scatter) - Randomly fill an area with props or other scenes.
+*   [Tiled importer (⭐853)](https://github.com/vnen/godot-tiled-importer) - Import maps from [Tiled](https://www.mapeditor.org/).
+*   [TileSet Builder (⭐18)](https://github.com/HeavenMercy/TileSet-Builder-Godot-Plugin) - Quickly build tilesets with style.
+*   [UI Design Tool (⭐368)](https://github.com/imjp94/UIDesignTool) - Intuitive design workflow for UIs in the editor.
+*   [Volumetrics (⭐332)](https://github.com/SIsilicon/Godot-Volumetrics-Plugin) - Voxel-based volumetric lighting and fog plugin.
+*   [VPainter (⭐479)](https://github.com/tomankirilov/VPainter) - 3D vertex painting plugin.
+*   [Waterways (⭐1.1k)](https://github.com/Arnklit/WaterGenGodot) - Tool to generate river meshes with flow and foam maps based on Bézier curves.
 *   [Yume Visual Novel Editor (⭐92)](https://github.com/yumedev40/Yume-Visual-Novel-Editor) - An integrated editor for creating visual novel games.
 
-### Plugins and scripts / Godot 3.1
-
-*   [FMOD GDNative (⭐404)](https://github.com/utopia-rise/fmod-gdnative) - Plugin to use the FMOD audio engine in GDScript.
-
-### Plugins and scripts / Godot 3.0
-
-*   [gdstats (⭐36)](https://github.com/droxpopuli/gdstats) - A library of pseudorandom number generators for common statistical distributions.
-
-### Plugins and scripts / Godot 2.1
+### Plugins and scripts / Godot 2
 
 *   [Auto Tile Layer (⭐29)](https://github.com/leezh/autotile) - Allows automatic 2D tiling using RPG Maker's Autotile format.
-*   [Grass Plugin (⭐71)](https://github.com/marcosbitetti/grass_plugin_4_godot) - A plugin to handle huge amounts of grass, foliages and other vegetations.
+*   [Grass Plugin (⭐72)](https://github.com/marcosbitetti/grass_plugin_4_godot) - A plugin to handle huge amounts of grass, foliages and other vegetations.
+*   [gterm (⭐100)](https://github.com/TeddyDD/gterm) - GUI control that draws something similar to \*nix terminal emulators.
 *   [SUTjoystick](https://gitlab.com/shine-upon-thee/joystick) - Easy gamepad support for GNU/Linux and Windows.
 
 ## [19. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
@@ -412,13 +390,13 @@
 
 ### Tools & Utilities / Others
 
-*   [TextCopy (⭐494)](https://github.com/CopyText/TextCopy) - ![GitHub stars](https://img.shields.io/github/stars/CopyText/TextCopy?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/CopyText/TextCopy?style=flat-square\&cacheSeconds=86400) A cross platform package to copy text to and from the clipboard. [Supports Blazor (⭐494)](https://github.com/CopyText/TextCopy#blazor-webassembly) via the [Clipboard Browser API](https://developer.mozilla.org/docs/Web/API/Clipboard).
+*   [TextCopy (⭐522)](https://github.com/CopyText/TextCopy) - ![GitHub stars](https://img.shields.io/github/stars/CopyText/TextCopy?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/CopyText/TextCopy?style=flat-square\&cacheSeconds=86400) A cross platform package to copy text to and from the clipboard. [Supports Blazor (⭐522)](https://github.com/CopyText/TextCopy#blazor-webassembly) via the [Clipboard Browser API](https://developer.mozilla.org/docs/Web/API/Clipboard).
 
 ## [22. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Shells, shells interfaces / Third-party APIs
 
-*   [cmd (⭐64)](https://github.com/ruricolist/cmd) - utility for running external programs. Protects against shell interpolation, built with multi-threaded programs in mind, Windows support. [MIT](https://opensource.org/licenses/MIT).
+*   [cmd (⭐65)](https://github.com/ruricolist/cmd) - utility for running external programs. Protects against shell interpolation, built with multi-threaded programs in mind, Windows support. [MIT](https://opensource.org/licenses/MIT).
     *   `uiop:run-program` (synchronous) and `uiop:launch-program` (async) are shipped with ASDF and available on all modern implementations. See the [CL Cookbook: running external programs](https://lispcookbook.github.io/cl-cookbook/os.html#running-external-programs).
 
 ## [23. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
@@ -439,19 +417,19 @@
 
 ### Rollup Plugins / Compatible with Vite
 
-*   [@rollup/plugin-beep (⭐3.6k)](https://github.com/rollup/plugins/tree/master/packages/beep) - System beeps on errors and warnings.
-*   [@rollup/plugin-inject (⭐3.6k)](https://github.com/rollup/plugins/blob/master/packages/inject) - Scan modules for global variables and injects import statements where necessary.
+*   [@rollup/plugin-beep (⭐3.7k)](https://github.com/rollup/plugins/tree/master/packages/beep) - System beeps on errors and warnings.
+*   [@rollup/plugin-inject (⭐3.7k)](https://github.com/rollup/plugins/blob/master/packages/inject) - Scan modules for global variables and injects import statements where necessary.
 
 ## [25. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Component abstraction crates / Other
 
-*   [`embedded-nal`](https://github.com/rust-embedded-community/embedded-nal): An Embedded Network Abstraction Layer - ![crates.io](https://img.shields.io/crates/v/embedded-nal.svg)
+*   [`embedded-nal`](https://github.com/rust-embedded-community/embedded-nal): An Embedded Network Abstraction Layer - [![crates.io](https://img.shields.io/crates/v/embedded-nal.svg)](https://crates.io/crates/embedded-nal)
 *   [`embedded-storage`](https://github.com/rust-embedded-community/embedded-storage): An Embedded Storage Abstraction Layer
 
 ### Driver crates / Other
 
-*   [SRAM23x](https://crates.io/crates/sram23x) - SPI - Microchip 23x series serial SRAM/NVSRAM driver - [Intro blog post](https://blog.a1w.ca/p/rust-embedded-driver-microchip-23x-sram) - ![crates.io](https://img.shields.io/crates/v/sram23x.svg)
+*   [SRAM23x](https://crates.io/crates/sram23x) - SPI - Microchip 23x series serial SRAM/NVSRAM driver - [Intro blog post](https://blog.a1w.ca/p/rust-embedded-driver-microchip-23x-sram) - [![crates.io](https://img.shields.io/crates/v/sram23x.svg)](https://crates.io/crates/sram23x)
 
 ## [26. Awesome Esp](/content/agucova/awesome-esp/week/README.md)
 
@@ -491,17 +469,17 @@
 
 ### Arcade
 
-*   [OpenTyrian (⭐406)](https://github.com/opentyrian/opentyrian) - An open-source port of Tyrian from Turbo Pascal to C. :flower\_playing\_cards:
+*   [OpenTyrian (⭐441)](https://github.com/opentyrian/opentyrian) - An open-source port of Tyrian from Turbo Pascal to C. :flower\_playing\_cards:
 
 ### Online
 
-*   [Ryzom Core (⭐327)](https://github.com/ryzom/ryzomcore) - Ryzom Core contains the whole code (client, server, tools) used to make the commercial MMORPG Ryzom. :flower\_playing\_cards:
+*   [Ryzom Core (⭐338)](https://github.com/ryzom/ryzomcore) - Ryzom Core contains the whole code (client, server, tools) used to make the commercial MMORPG Ryzom. :flower\_playing\_cards:
 
 ## [32. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / General-Purpose Machine Learning
 
-*   [Gradio (⭐31k)](https://github.com/gradio-app/gradio) - A Python library for quickly creating and sharing demos of models. Debug models interactively in your browser, get feedback from collaborators, and generate public links without deploying anything.
+*   [Gradio (⭐35k)](https://github.com/gradio-app/gradio) - A Python library for quickly creating and sharing demos of models. Debug models interactively in your browser, get feedback from collaborators, and generate public links without deploying anything.
 
 ## [33. Awesome Analytics](/content/newTendermint/awesome-analytics/week/README.md)
 
@@ -520,26 +498,9 @@
 ### WebAssembly
 
 *   [lumen (⭐3.6k)](https://github.com/lumen/lumen) - An alternative BEAM implementation, designed for WebAssembly.
-*   [wasmex (⭐531)](https://github.com/tessi/wasmex/) - Execute WebAssembly / WASM binaries from Elixir.
+*   [wasmex (⭐584)](https://github.com/tessi/wasmex/) - Execute WebAssembly / WASM binaries from Elixir.
 
-## [36. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
-
-### Components & Libraries / UI Components
-
-*   [vue-wait-for (⭐13)](https://github.com/MeForma/vue-wait-for) - A loader manager for Vue.js 3 with reactive method
-*   [vue3-chart-v2 (⭐38)](https://github.com/vutran6853/vue3-chart-v2) - Vue wrapper component base on Chart.JS for Vue 3
-*   [vue-cloudinary-uploader (⭐4)](https://github.com/xinnks/vue-cloudinary-uploader) - A cloudinary image cropper and uploader component for VueJs
-
-### Components & Libraries / Utilities
-
-*   [vuex-light (⭐7)](https://github.com/js-cosmos/vuex-light) - State management system with robust typing for Vue 3
-*   [vue-safe-html (⭐27)](https://github.com/ecosia/vue-safe-html) - Vue.js directive which renders sanitised HTML dynamically.
-
-### Components & Libraries / Scaffold
-
-*   [vue-iview-electron-boilerplate (⭐0)](https://github.com/buyouzzj/vue-iview-electron) - An Electron & Vue.js boilerplate with iview4.x, Vue2.x, electron8.x and webpack4.x
-
-## [37. Awesome React](/content/enaqx/awesome-react/week/README.md)
+## [36. Awesome React](/content/enaqx/awesome-react/week/README.md)
 
 ### React Forms
 
@@ -549,23 +510,23 @@
 
 *   [react-native-vector-icons (⭐17k)](https://github.com/oblador/react-native-vector-icons) - Customizable Icons for React Native
 
-## [38. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [37. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Front-End Development
 
-*   [Design systems (⭐699)](https://github.com/klaufel/awesome-design-systems#readme) - Collection of reusable components, guided by rules that ensure consistency and speed.
+*   [Design systems (⭐727)](https://github.com/klaufel/awesome-design-systems#readme) - Collection of reusable components, guided by rules that ensure consistency and speed.
 
 ### Miscellaneous
 
-*   [Veganism (⭐67)](https://github.com/sdassow/awesome-veganism#readme) - Making the plant-based lifestyle easy and accessible.
+*   [Veganism (⭐68)](https://github.com/sdassow/awesome-veganism#readme) - Making the plant-based lifestyle easy and accessible.
 
-## [39. Awesome Json](/content/burningtree/awesome-json/week/README.md)
+## [38. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
 ### Transformations
 
 *   [stylops (⭐0)](https://github.com/cruel-intentions/stylops) - CSS subset to JSON conversion. (node.js)
 
-## [40. Awesome Katas](/content/gamontal/awesome-katas/week/README.md)
+## [39. Awesome Katas](/content/gamontal/awesome-katas/week/README.md)
 
 ### Others
 
@@ -573,13 +534,13 @@
 *   [Promotion Text Kata (⭐0)](https://github.com/nealhu/promotion-text-kata)
 *   [Args Kata (⭐1)](https://github.com/nealhu/args-kata)
 
-## [41. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [40. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### User Groups / Ruby
 
 *   [Worldwide](https://www.meetup.com/worldwide-eventstorming-meetup/) - Specific about EventStorming
 
-## [42. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
+## [41. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
 
 ### Courses
 
@@ -587,21 +548,21 @@
 *   [Introduction to The Robot Operating System (ROS2)](https://www.coursera.org/projects/ros2-intro) **Coursera**
 *   [Modern Robotics: Mechanics, Planning, and Control Specialization](https://www.coursera.org/specializations/modernrobotics) **Coursera**
 *   [Become a Robotics Software Enginee](https://www.udacity.com/course/robotics-software-engineer--nd209) **Udacity**
-*   [Advanced Robotics](http://www.cs.berkeley.edu/\~pabbeel/cs287-fa13/) **UC Berkeley**
+*   [Advanced Robotics](http://www.cs.berkeley.edu/~pabbeel/cs287-fa13/) **UC Berkeley**
 
 ### Misc
 
-*   [Hexapod Robot Simulator (⭐466)](https://github.com/mithi/hexapod) - Solve and visualize hexapod robot inverse kinematics and gaits in the web
-*   [PythonRobotics (⭐17k)](https://github.com/AtsushiSakai/PythonRobotics) - Implementations of various robotics algorithms in python
+*   [Hexapod Robot Simulator (⭐582)](https://github.com/mithi/hexapod) - Solve and visualize hexapod robot inverse kinematics and gaits in the web
+*   [PythonRobotics (⭐23k)](https://github.com/AtsushiSakai/PythonRobotics) - Implementations of various robotics algorithms in python
 
-## [43. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
+## [42. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
 
 ### Organizations
 
 *   [Black Compute HER](https://blackcomputeher.org/) - Dedicated to supporting computing+tech education and workforce development for black women and girls.
 *   [She Can Code](https://shecancode.io/) - An organization with the mission of empower women to enter and remain in the tech industry.
 
-## [44. Awesome Gpt3](/content/elyase/awesome-gpt3/week/README.md)
+## [43. Awesome Gpt3](/content/elyase/awesome-gpt3/week/README.md)
 
 ### Articles / Other
 
@@ -611,13 +572,13 @@
 
 *   [AirPaper](https://airpaper.ai/): Automated document extraction powered by GPT-3
 
-## [45. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
+## [44. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
 
 ### .Net Libraries
 
 *   [NBitcoin (⭐1.9k)](https://github.com/MetacoSA/NBitcoin) - Comprehensive Bitcoin library for the .NET framework.
 
-## [46. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
+## [45. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
 ### Documentation and Presentation
 
@@ -628,27 +589,23 @@
 
 *   [TauLidarCamera (⭐34)](https://github.com/OnionIoT/tau-LiDAR-camera) - The host-side API for building applications with the Tau LiDAR Camera.
 
-## [47. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [46. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### Tutorials / iOS
 
 *   [Using openSUSE's YaST on the Raspberry Pi](https://www.raspberry-pi-geek.com/Archive/2017/22/Using-openSUSE-s-YaST-on-the-Raspberry-Pi).
 
-## [48. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
+## [47. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
 
 ### YouTube Channels
 
 *   [Svelte Mastery](https://www.youtube.com/channel/UCg6SQd5jnWo5Y70rZD9SQFA)
 
-### Studies
-
-*   [JavaScript Frameworks Performance Comparison](https://medium.com/javascript-in-plain-english/javascript-frameworks-performance-comparison-2020-cd881ac21fce) - Performance of Svelte and other top javascript frameworks.
-
 ### Preprocessing
 
-*   [svelte-preprocess (⭐1.7k)](https://github.com/sveltejs/svelte-preprocess) - A preprocessor for PostCSS, SCSS, Less, Stylus, Coffeescript, TypeScript, Pug and much more.
+*   [svelte-preprocess (⭐1.8k)](https://github.com/sveltejs/svelte-preprocess) - A preprocessor for PostCSS, SCSS, Less, Stylus, Coffeescript, TypeScript, Pug and much more.
 
-## [49. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
+## [48. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
 
 ### Awesome Lists
 

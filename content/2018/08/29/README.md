@@ -48,10 +48,6 @@
 
 ## [7. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
-### Other multimodal data formats / Ruby
-
-*   [Mobility as a Service API](http://maas-api.org/) - A set of open documents and test suite that defines a MaaS-compatible API (e.g., a [MaaS Transport Service Provider Booking API (⭐15)](https://github.com/maasglobal/maas-tsp-api/blob/master/specs/Booking.md)).
-
 ### Government reports / Ruby
 
 *   [TCRP G-16 Development of Transactional Data Specifications for Demand-Responsive Transportation (In progress)](http://apps.trb.org/cmsfeed/TRBNetProjectDisplay.asp?ProjectID=4120) - The objective of this research is to develop technical specifications for transactional data for entities involved in the provision of demand-responsive transportation.  Expected completion date is late 2018.

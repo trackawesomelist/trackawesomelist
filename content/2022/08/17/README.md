@@ -10,7 +10,7 @@
 
 ### Libraries / Data structures
 
-*   [becheran/grid (⭐80)](https://github.com/becheran/grid) \[[grid](https://crates.io/crates/grid)] - Provide a two dimensional data structure that is easy to use and fast. [![build status](https://github.com/becheran/grid/actions/workflows/rust.yml/badge.svg)](https://github.com/becheran/grid/actions)
+*   [becheran/grid (⭐83)](https://github.com/becheran/grid) \[[grid](https://crates.io/crates/grid)] - Provide a two dimensional data structure that is easy to use and fast. [![build status](https://github.com/becheran/grid/actions/workflows/rust.yml/badge.svg)](https://github.com/becheran/grid/actions)
 
 ## [2. Awesome Rails](/content/gramantin/awesome-rails/README.md)
 
@@ -20,7 +20,7 @@
 
 ## [3. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
-### Coordination & Governance / Scala
+### Workflow Orchestration / Scala
 
 *   [Zeebe](https://camunda.com/platform/zeebe/) - Define, orchestrate, and monitor business processes across microservices.
 
@@ -28,7 +28,7 @@
 
 ### UI / Barcode
 
-*   [Popovers (⭐1.8k)](https://github.com/aheze/Popovers) - A library to present popovers. Simple, modern, and highly customizable. Not boring!
+*   [Popovers (⭐2k)](https://github.com/aheze/Popovers) - A library to present popovers. Simple, modern, and highly customizable. Not boring!
 
 ## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
@@ -45,7 +45,7 @@
 
 ## [7. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
-### Other Resources / Telegram
+### Other Resources / Steam
 
 *   [Bellingcat's Online Investigation Toolkit](http://bit.ly/bcattools)
 *   [Bellingcat Online Researcher Survey: Tool Wishes](https://docs.google.com/spreadsheets/d/1vNJRMrlwI7i06diBJtRJWrvt4YuPOqlbUV5o00P_YmE/edit#gid=1378107220) — Wishlist of OSINT tools from a February Bellingcat survey.
@@ -67,19 +67,19 @@
 
 ### Software / Communication - Email - Mail Transfer Agents
 
-*   [Haraka](https://haraka.github.io/) - High-performance, pluginable SMTP server written in Javascript. ([Source Code (⭐5k)](https://github.com/haraka/Haraka)) `MIT` `Nodejs`
+*   [Haraka](https://haraka.github.io/) - High-performance, pluginable SMTP server written in Javascript. ([Source Code (⭐5.2k)](https://github.com/haraka/Haraka)) `MIT` `Nodejs`
 
 ### Software / Communication - IRC
 
-*   [Glowing Bear (⭐948)](https://github.com/glowing-bear/glowing-bear) - A web frontend for WeeChat. ([Demo](https://www.glowing-bear.org)) `GPL-3.0` `Nodejs`
+*   [Glowing Bear (⭐953)](https://github.com/glowing-bear/glowing-bear) - A web frontend for WeeChat. ([Demo](https://www.glowing-bear.org)) `GPL-3.0` `Nodejs`
 
 ### Software / Communication - SIP
 
-*   [Routr](https://routr.io) - A lightweight sip proxy, location server, and registrar for a reliable and scalable SIP infrastructure. ([Source Code (⭐1.4k)](https://github.com/fonoster/routr)) `MIT` `Docker/K8S`
+*   [Routr](https://routr.io) - A lightweight sip proxy, location server, and registrar for a reliable and scalable SIP infrastructure. ([Source Code (⭐1.5k)](https://github.com/fonoster/routr)) `MIT` `Docker/K8S`
 
 ### Software / Communication - Social Networks and Forums
 
-*   [Enigma 1/2 BBS](https://nuskooler.github.io/enigma-bbs/) - Enigma 1/2 is a modern, multi-platform BBS engine with unlimited "callers" and legacy DOS door game support. ([Demo](https://l33t.codes/xibalba-bbs/), [Source Code (⭐531)](https://github.com/NuSkooler/enigma-bbs)) `BSD-2-Clause` `Shell/Docker/Nodejs`
+*   [Enigma 1/2 BBS](https://nuskooler.github.io/enigma-bbs/) - Enigma 1/2 is a modern, multi-platform BBS engine with unlimited "callers" and legacy DOS door game support. ([Demo](https://l33t.codes/xibalba-bbs/), [Source Code (⭐554)](https://github.com/NuSkooler/enigma-bbs)) `BSD-2-Clause` `Shell/Docker/Nodejs`
 
 ## [10. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 

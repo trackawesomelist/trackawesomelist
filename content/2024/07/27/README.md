@@ -17,7 +17,7 @@
 
 ### Command-Line Productivity
 
-*   [forkrun (⭐141)](https://github.com/jkool702/forkrun) - A pure-bash tool for running code in parallel. Similar in syntax and speed to `xargs -P`, but with more features and native Bash function support.
+*   [forkrun (⭐144)](https://github.com/jkool702/forkrun) - A pure-bash tool for running code in parallel. Similar in syntax and speed to `xargs -P`, but with more features and native Bash function support.
 
 ---
 

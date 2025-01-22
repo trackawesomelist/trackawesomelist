@@ -10,7 +10,7 @@
 
 ### Image Processing
 
-*   [ruby-vips (⭐827)](https://github.com/jcupitt/ruby-vips) - A binding for the libvips image processing library.
+*   [ruby-vips (⭐839)](https://github.com/jcupitt/ruby-vips) - A binding for the libvips image processing library.
 
 ## [2. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
 
@@ -20,7 +20,7 @@
 
 ### Libraries / JavaScript
 
-*   [mongration (⭐84)](https://github.com/awapps/mongration) - Node.js migration framework
+*   [mongration (⭐85)](https://github.com/awapps/mongration) - Node.js migration framework
 
 ### Tools / Deployment
 

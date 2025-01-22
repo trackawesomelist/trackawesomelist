@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 25, 2021
 
-14 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,19 +10,19 @@
 
 ### Serialization
 
-*   [ObjectDumper.NET (⭐389)](https://github.com/thomasgalliker/ObjectDumper) - Serializes in-memory object to C# code.
+*   [ObjectDumper.NET (⭐404)](https://github.com/thomasgalliker/ObjectDumper) - Serializes in-memory object to C# code.
 
 ## [2. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### (requires Neovim 0.5)
 
-*   [b0o/SchemaStore.nvim (⭐707)](https://github.com/b0o/SchemaStore.nvim) - Provide access to the [SchemaStore (⭐3k)](https://github.com/SchemaStore/schemastore) catalog.
+*   [b0o/SchemaStore.nvim (⭐777)](https://github.com/b0o/SchemaStore.nvim) - Provide access to the [SchemaStore (⭐3.2k)](https://github.com/SchemaStore/schemastore) catalog.
 
 ## [3. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Other References / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [Mastering ZSH (⭐1.3k)](https://github.com/rothgar/mastering-zsh) is a great tutorial that builds on the basics to show you advanced ZSH usage, customizations, and practical examples.
+*   [Mastering ZSH (⭐1.4k)](https://github.com/rothgar/mastering-zsh) is a great tutorial that builds on the basics to show you advanced ZSH usage, customizations, and practical examples.
 
 ## [4. Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/README.md)
 
@@ -46,14 +46,14 @@
 
 ### Bindings to Other Languages / Apache License
 
-*   [ada-lua (⭐41)](https://github.com/AdaCore/ada-lua) - Ada binding for Lua.
+*   [ada-lua (⭐42)](https://github.com/AdaCore/ada-lua) - Ada binding for Lua.
 *   [coreland-lua-ada (⭐6)](https://github.com/io7m/coreland-lua-ada) - Ada bindings to the Lua language.
 
 ## [8. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Functional Programming
 
-*   [arrow-kt/arrow-meta (⭐393)](https://github.com/arrow-kt/arrow-meta) - Functional companion to Kotlin's Compiler.
+*   [arrow-kt/arrow-meta (⭐396)](https://github.com/arrow-kt/arrow-meta) - Functional companion to Kotlin's Compiler.
 
 ## [9. Awesome Icons](/content/vkarampinis/awesome-icons/README.md)
 
@@ -95,15 +95,9 @@
 
 ### Third-Party Packages / Full-stack frameworks
 
-*   [iommi (⭐683)](https://github.com/TriOptima/iommi) - Toolkit for development of CRUD applications without writing HTML or JavaScript.
+*   [iommi (⭐823)](https://github.com/TriOptima/iommi) - Toolkit for development of CRUD applications without writing HTML or JavaScript.
 
-## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / Utilities
-
-*   [vue-sfc-split (⭐0)](https://github.com/gVguy/vue-sfc-split) - Convert SFCs for native browser use without build
-
-## [14. Public Apis](/content/public-apis/public-apis/README.md)
+## [13. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Animals
 
@@ -179,7 +173,7 @@
   CORS: Yes
 
 
-- API: [Codex (⭐263)](https://github.com/Jaagrav/CodeX)
+- API: [Codex (⭐271)](https://github.com/Jaagrav/CodeX)
 
   Description: Online Compiler for Various Languages
 
@@ -223,7 +217,7 @@
   CORS: Unknown
 
 
-- API: [Sonar (⭐639)](https://github.com/Cgboal/SonarSearch)
+- API: [Sonar (⭐642)](https://github.com/Cgboal/SonarSearch)
 
   Description: Project Sonar DNS Enumeration API
 
@@ -286,7 +280,7 @@
 
   CORS: Unknown
 
-  Call this API: 
+  : 
 
 
 - API: [Front Accounting APIs](https://frontaccounting.com/fawiki/index.php?n=Devel.SimpleAPIModule)
@@ -299,7 +293,7 @@
 
   CORS: Yes
 
-  Call this API: 
+  : 
 
 
 - API: [Razorpay IFSC](https://razorpay.com/docs/)
@@ -312,7 +306,7 @@
 
   CORS: Unknown
 
-  Call this API: 
+  : 
 
 
 - API: [SmartAPI](https://smartapi.angelbroking.com/)
@@ -325,7 +319,7 @@
 
   CORS: Unknown
 
-  Call this API: 
+  : 
 
 
 

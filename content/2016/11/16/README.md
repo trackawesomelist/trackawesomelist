@@ -20,7 +20,7 @@
 
 ### Button / Barcode
 
-*   [LTHRadioButton (⭐371)](https://github.com/rolandleth/LTHRadioButton) - A radio button with a pretty animation.
+*   [LTHRadioButton (⭐370)](https://github.com/rolandleth/LTHRadioButton) - A radio button with a pretty animation.
 
 ## [3. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/README.md)
 
@@ -43,7 +43,6 @@
 
 ### Interactive learning / Single Topics
 
-*   [Udacity JavaScript Basics](https://www.udacity.com/course/javascript-basics--ud804) - They also offer more advanced courses.
 *   [Code School](https://www.codeschool.com/learn/javascript) - From Basics to Best Practices. Different courses related to JavaScript.
 
 ## [4. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/README.md)
@@ -56,8 +55,8 @@
 
 ### Compilers, Transpilers and Languages
 
-*   [P (⭐3k)](https://github.com/p-org/P) - P is a language for asynchronous event-driven programming.
-*   [Roslyn-linq-rewrite (⭐717)](https://github.com/antiufo/roslyn-linq-rewrite) - Compiles C# code by first rewriting the syntax trees of LINQ expressions using plain procedural code, minimizing allocations and dynamic dispatch.
+*   [P (⭐3.1k)](https://github.com/p-org/P) - P is a language for asynchronous event-driven programming.
+*   [Roslyn-linq-rewrite (⭐715)](https://github.com/antiufo/roslyn-linq-rewrite) - Compiles C# code by first rewriting the syntax trees of LINQ expressions using plain procedural code, minimizing allocations and dynamic dispatch.
 
 ## [6. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/README.md)
 
@@ -97,13 +96,13 @@
 
 ### Web Programming • Libraries
 
-*   [regl (⭐5.2k)](https://github.com/regl-project/regl) - Functional WebGL.
+*   [regl (⭐5.3k)](https://github.com/regl-project/regl) - Functional WebGL.
 
 ### Articles • Tutorials / Shaders • OpenGL • WebGL
 
 *   [Shaders: A primer](https://notes.underscorediscovery.com/shaders-a-primer/) - A primer on shaders.
 *   [Shaders: Second stage](https://notes.underscorediscovery.com/shaders-second-stage/) - The second part to the previous.
-*   [WebGL Lessons — Fragment Shaders (⭐310)](https://github.com/Jam3/jam3-lesson-webgl-shader-intro) - A brief introduction to fragment shaders.
+*   [WebGL Lessons — Fragment Shaders (⭐312)](https://github.com/Jam3/jam3-lesson-webgl-shader-intro) - A brief introduction to fragment shaders.
 *   [Introduction to Ray Tracing](http://jamie-wong.com/2016/07/15/ray-marching-signed-distance-functions/) - A simple method for creating 3D images.
 
 ### Interactive / Other

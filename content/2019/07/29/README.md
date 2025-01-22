@@ -169,13 +169,13 @@
 
 ### Build Tools to set up performance budget
 
-*   [Performance Budget Builder (⭐178)](https://github.com/GoogleChromeLabs/pr-bot) - Lay out your template types, set a size budget for each template type, then plug in the sizes for each asset category that will load in the template.
+*   [Performance Budget Builder (⭐181)](https://github.com/GoogleChromeLabs/pr-bot) - Lay out your template types, set a size budget for each template type, then plug in the sizes for each asset category that will load in the template.
 *   [Progressive Web Metrics (⭐1.2k)](https://github.com/paulirish/pwmetrics) - Lay out your template types, set a size budget for each template type, then plug in the sizes for each asset category that will load in the template.
-*   [rollup-plugin-size-snapshot (⭐159)](https://github.com/TrySound/rollup-plugin-size-snapshot) - CLI tool and lib to gather performance metrics via Lighthouse.
+*   [rollup-plugin-size-snapshot (⭐164)](https://github.com/TrySound/rollup-plugin-size-snapshot) - CLI tool and lib to gather performance metrics via Lighthouse.
 
 ### Bundle Analyzers
 
-*   [lasso-analyzer (⭐3)](https://github.com/ajay2507/lasso-analyzer) - Analyze and Visualise project bundles created by Lasso.
+*   [lasso-analyzer (⭐4)](https://github.com/ajay2507/lasso-analyzer) - Analyze and Visualise project bundles created by Lasso.
 
 ### Videos
 

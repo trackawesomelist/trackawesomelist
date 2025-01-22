@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 13 - Feb 19, 2017
 
-50 awesome lists updated this week.
+48 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -31,13 +31,13 @@
 
 ### Suggested Awesome Lists / Useful References
 
-*   [Learn to Code (⭐3.9k)](https://github.com/karlhorky/learn-to-program) - Learning to code, for those looking to make the move to automation
+*   [Learn to Code (⭐4.2k)](https://github.com/karlhorky/learn-to-program) - Learning to code, for those looking to make the move to automation
 
 ## [4. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Testing
 
-*   [Expecto (⭐665)](https://github.com/haf/expecto) - A smooth testing framework for F# with tests as values. Unit testing, property based testing, performance testing and stress testing.
+*   [Expecto (⭐686)](https://github.com/haf/expecto) - A smooth testing framework for F# with tests as values. Unit testing, property based testing, performance testing and stress testing.
 
 ## [5. Awesome Devenv](/content/jondot/awesome-devenv/week/README.md)
 
@@ -57,7 +57,7 @@
 
 ### Other Useful Repositories
 
-- Repository: [Pentest Cheatsheets (⭐3.8k)](https://github.com/coreb1t/awesome-pentest-cheat-sheets)
+- Repository: [Pentest Cheatsheets (⭐3.9k)](https://github.com/coreb1t/awesome-pentest-cheat-sheets)
 
   Description: Collection of the cheat sheets useful for pentesting
 
@@ -133,10 +133,6 @@
     for C++, C#, Java, JavaScript, Perl, PHP, Python, Ruby.
 
 ## [18. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
-
-### Academic/Research/Publications/Books / Books
-
-*   [SEI CERT Android Secure Coding Standard](https://www.securecoding.cert.org/confluence/display/android/Android+Secure+Coding+Standard)
 
 ### Exploits/Vulnerabilities/Bugs / List
 
@@ -216,7 +212,7 @@ git checkout @{-1}
 
 ### Presentation Programs
 
-*   [Slide Show (S9) (⭐186)](https://github.com/slideshow-s9/slideshow) - Write your slides / talks / presentations in plain text with markdown formatting conventions and generate (static) web pages; template packs incl. deck.js, impress.js, reveal.js, shower, s6, s5 and more.
+*   [Slide Show (S9) (⭐187)](https://github.com/slideshow-s9/slideshow) - Write your slides / talks / presentations in plain text with markdown formatting conventions and generate (static) web pages; template packs incl. deck.js, impress.js, reveal.js, shower, s6, s5 and more.
 
 ## [27. Nlp with Ruby](/content/arbox/nlp-with-ruby/week/README.md)
 
@@ -252,20 +248,14 @@ git checkout @{-1}
 
 *   [Laravel Slovenia](https://www.facebook.com/groups/laravelslovenija/)
 
-## [31. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
-
-### Applications
-
-*   [notty (⭐2.3k)](https://github.com/withoutboats/notty) - A new kind of terminal
-
-## [32. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
+## [31. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
 
 ### Articles
 
 *   [Styling React Applications with Ant.Design](https://medium.com/@yoniweisbrod/styling-react-applications-with-ant-design-92b742aab0b0)
 *   [Finding a User Interface library](http://waywardmonkeys.org/2016/03/14/finding-a-user-interface-library/)
 
-## [33. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [32. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Reading and Writing Tools / Text Editors
 
@@ -273,7 +263,7 @@ git checkout @{-1}
 
 ### Developer Tools / Developer Utilities
 
-*   [Beyond Compare](http://www.scootersoftware.com/) - Compare files and folders using simple, powerful commands that focus on the differences you are interested in and ignore those you are not. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Beyond Compare](http://www.scootersoftware.com/) - Compare files and folders with powerful commands. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Developer Tools / Version Control
 
@@ -316,7 +306,7 @@ git checkout @{-1}
 
 *   Also, [Quora](https://www.quora.com/), [Reddit](https://www.reddit.com), you know the drill.
 
-## [34. Awesome Ctf](/content/apsdehal/awesome-ctf/week/README.md)
+## [33. Awesome Ctf](/content/apsdehal/awesome-ctf/week/README.md)
 
 ### Bruteforcers
 
@@ -330,7 +320,7 @@ git checkout @{-1}
 
 *   [OWASP ZAP](https://www.owasp.org/index.php/Projects/OWASP_Zed_Attack_Proxy_Project) - Intercepting proxy to replay, debug, and fuzz HTTP requests and responses
 
-## [35. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [34. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Companies / C companies
 
@@ -340,13 +330,7 @@ git checkout @{-1}
 
 *   jOOQ <https://blog.jooq.org/>
 
-## [36. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
-
-### Companies with "remote DNA"
-
-*   [Deeson](https://www.deeson.co.uk/careers) - UK-based with European team. Digital agency specialising in Drupal, Symfony and Laravel
-
-## [37. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [35. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### Portugal 🇵🇹 / Guimarães
 
@@ -372,7 +356,7 @@ Webpage: <http://www.denizlihs.org/>
 | ---- | ----- | ------------------------------------------------------------------------------------------------------------------------ | ---------- |
 | ✔    | ✔     | [Çamlaraltı Mah. Hüseyin Yılmaz Cad. No:67 Pamukkale/Denizli](https://www.google.com.tr/maps/@37.7382126,29.0916182,18z) | 24/7       |
 
-## [38. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [36. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### REST and API
 
@@ -382,7 +366,7 @@ Webpage: <http://www.denizlihs.org/>
 
 *   [jeaux (⭐13)](https://github.com/zbarnes757/jeaux) - A light and easy schema validator.
 
-## [39. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [37. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### Cloud Services
 
@@ -392,7 +376,7 @@ Webpage: <http://www.denizlihs.org/>
 
 *   [ActivityStarter (⭐428)](https://github.com/MarcinMoskala/ActivityStarter) - Android Library that provide simpler way to start the Activities with multiple arguments.
 
-## [40. Awesome Deep Learning Papers](/content/terryum/awesome-deep-learning-papers/week/README.md)
+## [38. Awesome Deep Learning Papers](/content/terryum/awesome-deep-learning-papers/week/README.md)
 
 ### Awesome list criteria
 
@@ -597,7 +581,7 @@ Webpage: <http://www.denizlihs.org/>
 *   WildML [\[Web\]](http://www.wildml.com/)
 *   FastML [\[web\]](http://www.fastml.com/)
 
-## [41. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [39. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Books
 
@@ -619,13 +603,13 @@ Webpage: <http://www.denizlihs.org/>
 ### Math / Other
 
 *   [Image Kernels](http://setosa.io/ev/image-kernels/) - Interactive and visual introduction to image kernels.
-*   [Sine and Cosine](http://setosa.io/ev/sine-and-cosine/) - Interactive explination of sine and cosine.
+*   [Sine and Cosine](http://setosa.io/ev/sine-and-cosine/) - Interactive explanation of sine and cosine.
 
 ### Related / Other
 
-*   [Awesome livecoding (⭐2.5k)](https://github.com/lvm/awesome-livecoding/) - Curated list of livecoding languages and tools.
+*   [Awesome livecoding (⭐2.6k)](https://github.com/lvm/awesome-livecoding/) - Curated list of livecoding languages and tools.
 
-## [42. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
+## [40. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
 
 ### Android
 
@@ -665,13 +649,13 @@ Webpage: <http://www.denizlihs.org/>
 *   [cmprss (⭐4)](https://github.com/kurehajime/cmprss) - IrrvrsbleCmprssionForTxt.
 *   [lolcat (⭐5.2k)](https://github.com/busyloop/lolcat) - Rainbows and unicorns!
 
-## [43. Awesome Web Design](/content/nicolesaidy/awesome-web-design/week/README.md)
+## [41. Awesome Web Design](/content/nicolesaidy/awesome-web-design/week/README.md)
 
 ### Typography
 
 *   [Typewolf](https://www.typewolf.com/): Comprehensive web typography info, suggestions for font alternatives, and links to usage in the wild.
 
-## [44. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [42. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### Books
 
@@ -681,13 +665,13 @@ Webpage: <http://www.denizlihs.org/>
 
 *   [Norway](https://www.meetup.com/dddnorway/)
 
-## [45. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
+## [43. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
 
 ### Related Lists / Provided by the Host
 
 *   [Awesome Static Hosting (⭐284)](https://github.com/b-long/awesome-static-hosting)
 
-## [46. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [44. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### C++ / General-Purpose Machine Learning
 
@@ -697,7 +681,7 @@ Webpage: <http://www.denizlihs.org/>
 
 ### C++ / Natural Language Processing
 
-*   [frog (⭐73)](https://github.com/LanguageMachines/frog) - Memory-based NLP suite developed for Dutch: PoS tagger, lemmatiser, dependency parser, NER, shallow parser, morphological analyzer.
+*   [frog (⭐75)](https://github.com/LanguageMachines/frog) - Memory-based NLP suite developed for Dutch: PoS tagger, lemmatiser, dependency parser, NER, shallow parser, morphological analyzer.
 *   [ucto (⭐65)](https://github.com/LanguageMachines/ucto) - Unicode-aware regular-expression based tokenizer for various languages. Tool and C++ library. Supports FoLiA format.
 
 ### C++ / Speech Recognition
@@ -731,7 +715,7 @@ Webpage: <http://www.denizlihs.org/>
 ### Python / General-Purpose Machine Learning
 
 *   [graphlab-create](https://turi.com/products/create/docs/) - A library with various machine learning models (regression, clustering, recommender systems, graph analytics, etc.) implemented on top of a disk-backed DataFrame.
-*   [gensim (⭐15k)](https://github.com/RaRe-Technologies/gensim) - Topic Modelling for Humans.
+*   [gensim (⭐16k)](https://github.com/RaRe-Technologies/gensim) - Topic Modelling for Humans.
 
 ### Python / Data Analysis / Data Visualization
 
@@ -744,7 +728,7 @@ Webpage: <http://www.denizlihs.org/>
 
 ### Ruby / Misc
 
-*   [Listof (⭐27)](https://github.com/kevincobain2000/listof) - Community based data collection, packed in gem. Get list of pretty much anything (stop words, countries, non words) in txt, JSON or hash. [Demo/Search for a list](http://kevincobain2000.github.io/listof/)
+*   [Listof (⭐29)](https://github.com/kevincobain2000/listof) - Community based data collection, packed in gem. Get list of pretty much anything (stop words, countries, non words) in txt, JSON or hash. [Demo/Search for a list](http://kevincobain2000.github.io/listof/)
 
 ### SAS / General-Purpose Machine Learning
 
@@ -757,19 +741,19 @@ Webpage: <http://www.denizlihs.org/>
 
 ### SAS / Demos and Scripts
 
-*   [ML\_Tables (⭐125)](https://github.com/sassoftware/enlighten-apply/tree/master/ML_tables) - Concise cheat sheets containing machine learning best practices.
-*   [enlighten-apply (⭐125)](https://github.com/sassoftware/enlighten-apply) - Example code and materials that illustrate applications of SAS machine learning techniques.
+*   [ML\_Tables (⭐127)](https://github.com/sassoftware/enlighten-apply/tree/master/ML_tables) - Concise cheat sheets containing machine learning best practices.
+*   [enlighten-apply (⭐127)](https://github.com/sassoftware/enlighten-apply) - Example code and materials that illustrate applications of SAS machine learning techniques.
 *   [enlighten-integration (⭐60)](https://github.com/sassoftware/enlighten-integration) - Example code and materials that illustrate techniques for integrating SAS with other analytics technologies in Java, PMML, Python and R.
 *   [enlighten-deep (⭐19)](https://github.com/sassoftware/enlighten-deep) - Example code and materials that illustrate using neural networks with several hidden layers in SAS.
 *   [dm-flow (⭐58)](https://github.com/sassoftware/dm-flow) - Library of SAS Enterprise Miner process flow diagrams to help you learn by example about specific data mining topics.
 
-## [47. Awesome Selenium](/content/christian-bromann/awesome-selenium/week/README.md)
+## [45. Awesome Selenium](/content/christian-bromann/awesome-selenium/week/README.md)
 
 ### Containers / Docker
 
 *   [zalando/zalenium (⭐2.4k)](https://github.com/zalando/zalenium) - Allows anyone to have a disposable and flexible Selenium Grid infrastructure
 
-## [48. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [46. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Customization / Directory Navigation
 
@@ -785,7 +769,7 @@ Webpage: <http://www.denizlihs.org/>
 *   [awesome-fish (⭐3.8k)](https://github.com/jorgebucaran/awsm.fish)
 *   [awesome-zsh (⭐14k)](https://github.com/unixorn/awesome-zsh-plugins)
 
-## [49. Awesome Draft Js](/content/nikgraf/awesome-draft-js/week/README.md)
+## [47. Awesome Draft Js](/content/nikgraf/awesome-draft-js/week/README.md)
 
 ### Standalone Editors Built on Draft.js
 
@@ -801,7 +785,7 @@ Webpage: <http://www.denizlihs.org/>
 *   [Draft Convert (⭐472)](https://github.com/HubSpot/draft-convert) - Extensibly serialize & deserialize Draft.js ContentState with HTML.
 *   [HTML to DraftJS (⭐150)](https://github.com/jpuri/html-to-draftjs) - Convert plain HTML to DraftJS Editor content.
 
-## [50. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
+## [48. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
 
 ### Research Papers
 

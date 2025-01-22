@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 06, 2024
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -33,9 +33,38 @@
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [adoyle-h/one.nvim (⭐139)](https://github.com/adoyle-h/one.nvim) - All-in-one config framework in Lua.
+*   [adoyle-h/one.nvim (⭐158)](https://github.com/adoyle-h/one.nvim) - All-in-one config framework in Lua.
 
-## [3. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [3. Awesome Windows](/content/0pandadev/awesome-windows/README.md)
+
+### API Development
+
+*   [Hoppscotch](https://hoppscotch.com/) - Tests APIs with real-time collaboration features. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/hoppscotch/hoppscotch) ![star](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/star.svg)
+*   [HTTP Toolkit](https://httptoolkit.tech) - Intercepts and modifies HTTP traffic. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/httptoolkit)
+*   [Postman](https://www.getpostman.com/postman) - Tests APIs with automated test scripts and monitoring.
+
+### Cloud Storage
+
+*   [Streamshare](https://streamshare.wireway.ch) - Provides 1.5 TB storage with focus on media streaming.
+
+### Command Line Tools
+
+*   [Chocolatey](https://chocolatey.org/) - Package manager for Windows.
+*   [winget](https://learn.microsoft.com/en-us/windows/package-manager/winget/) - Official Windows package manager from Microsoft. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/microsoft/winget-cli)
+
+### Databases Clients
+
+*   [DataFlare](https://dataflare.app/) - Modern, lightweight database GUI for SQLite, MySQL and PostgreSQL. ![star](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/star.svg)
+
+### IDEs
+
+*   [Android Studio](https://developer.android.com/studio/index.html) - Develops and tests Android applications. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://sites.google.com/a/android.com/tools/)
+*   [Eclipse](https://eclipse.org/downloads/) - Supports plugin-based development workflows. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://git.eclipse.org/c/)
+*   [NetBeans IDE](https://netbeans.org/) - Emphasizes modular Java development. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://netbeans.org/community/sources/)
+*   [Visual Studio](https://www.visualstudio.com/vs/) - Builds Windows and cloud applications.
+*   [Visual Studio Code](https://code.visualstudio.com/) - Customizes development with extensions. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/Microsoft/vscode)
+
+## [4. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### Critical Views about Generative AI
 
@@ -47,13 +76,13 @@
 
 ### Courses and Educational Materials
 
-*   [Niraj-Lunavat/Artificial-Intelligence (⭐1.6k)](https://github.com/Niraj-Lunavat/Artificial-Intelligence?tab=readme-ov-file#researchers): Awesome AI Learning with +100 AI Cheat-Sheets, Free online Books, Top Courses, Best Videos and Lectures, Papers, Tutorials, +99 Researchers, Premium Websites, +121 Datasets, Conferences, Frameworks, Tools
+*   [Niraj-Lunavat/Artificial-Intelligence (⭐1.7k)](https://github.com/Niraj-Lunavat/Artificial-Intelligence?tab=readme-ov-file#researchers): Awesome AI Learning with +100 AI Cheat-Sheets, Free online Books, Top Courses, Best Videos and Lectures, Papers, Tutorials, +99 Researchers, Premium Websites, +121 Datasets, Conferences, Frameworks, Tools
 
 ### Inbox: Stable Diffusion / Stable Diffusion Deployed Web Tools
 
 *   [DecorAI](https://decorai.io): Generate Interior and Exterior Ideas in Seconds
 
-## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### APIs, Data, and ML
 
@@ -63,17 +92,17 @@
 
 *   [Revolt.chat](https://revolt.chat/) — An OpenSource alternative for[Discord](https://discord.com/), that respects your privacy. It also have most proprietary features from discord for free. Revolt is a all in one application that is secure and fast, while being 100% free. every features are free. They also have (official & unofficial) plugins support unlike most main-stream chatting applications.
 
-## [5. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
+## [6. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### IDE Extensions
 
-*   [Editor support for VS2022 (⭐85)](https://github.com/theron-wang/VS2022-Editor-Support-for-Tailwind-CSS) - IntelliSense, linting, sorting, and more in Visual Studio 2022.
+*   [Editor support for VS2022 (⭐98)](https://github.com/theron-wang/VS2022-Editor-Support-for-Tailwind-CSS) - IntelliSense, linting, sorting, and more in Visual Studio 2022.
 
-## [6. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+## [7. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### Builders / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [angular-env-builder (⭐1)](https://github.com/igorissen/angular-env-builder) - Builder to generate `src/environments/environment.ts` file based on your environment variables.
+*   [angular-env-builder (⭐2)](https://github.com/igorissen/angular-env-builder) - Builder to generate `src/environments/environment.ts` file based on your environment variables.
 
 ### Charts / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -81,11 +110,11 @@
 
 ### Data Grids / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ZingGrid](https://www.zinggrid.com/docs/integrations/js-frameworks-&-libs/angular) - [ZingGrid (⭐87)](https://github.com/ZingGrid/zinggrid) is a JavaScript Web Component Library that allows developers to include interactive data tables in their web applications. The library can also be used in popular frameworks such as React, Angular, Vue, jQuery, and many more!
+*   [ZingGrid](https://www.zinggrid.com/docs/integrations/js-frameworks-&-libs/angular) - [ZingGrid (⭐90)](https://github.com/ZingGrid/zinggrid) is a JavaScript Web Component Library that allows developers to include interactive data tables in their web applications. The library can also be used in popular frameworks such as React, Angular, Vue, jQuery, and many more!
 
 ### NgRx / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-signal-store-query (⭐2)](https://github.com/k3nsei/ngx-signal-store-query) - Signal Store feature that bridges with [Angular Query](https://tanstack.com/query/latest/docs/framework/angular/overview).
+*   [ngx-signal-store-query (⭐8)](https://github.com/k3nsei/ngx-signal-store-query) - Signal Store feature that bridges with [Angular Query](https://tanstack.com/query/latest/docs/framework/angular/overview).
 
 ---
 

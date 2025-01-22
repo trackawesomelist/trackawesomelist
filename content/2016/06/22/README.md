@@ -22,7 +22,7 @@
 
 ### Python / Natural Language Processing
 
-*   [jellyfish (⭐2k)](https://github.com/jamesturk/jellyfish) - a python library for doing approximate and phonetic matching of strings.
+*   [jellyfish (⭐2.1k)](https://github.com/jamesturk/jellyfish) - a python library for doing approximate and phonetic matching of strings.
 
 ## [4. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 
@@ -34,7 +34,7 @@
 
 ### Scala / Git
 
-*   [scrypto (⭐202)](https://github.com/input-output-hk/scrypto) - Cryptographic primitives for Scala.
+*   [scrypto (⭐201)](https://github.com/input-output-hk/scrypto) - Cryptographic primitives for Scala.
 
 ## [6. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
@@ -50,7 +50,7 @@
 
 ### Python / Financial Instruments and Pricing
 
-*   [vollib (⭐657)](https://github.com/vollib/vollib) - vollib is a python library for calculating option prices, implied volatility and greeks.
+*   [vollib (⭐696)](https://github.com/vollib/vollib) - vollib is a python library for calculating option prices, implied volatility and greeks.
 
 ### Python / Time Series
 
@@ -62,12 +62,12 @@
 
 ### Julia / FrameWorks
 
-*   [QuantLib.jl (⭐136)](https://github.com/pazzo83/QuantLib.jl) - Quantlib implementation in pure Julia.
+*   [QuantLib.jl (⭐139)](https://github.com/pazzo83/QuantLib.jl) - Quantlib implementation in pure Julia.
 
 ### Reproducing Works, Training & Books / Data Visualization
 
-*   [Derman Papers (⭐357)](https://github.com/MarcosCarreira/DermanPapers) - Notebooks that replicate original quantitative finance papers from Emanuel Derman.
-*   [volatility-trading (⭐1.5k)](https://github.com/jasonstrimpel/volatility-trading) - A complete set of volatility estimators based on Euan Sinclair's Volatility Trading.
+*   [Derman Papers (⭐429)](https://github.com/MarcosCarreira/DermanPapers) - Notebooks that replicate original quantitative finance papers from Emanuel Derman.
+*   [volatility-trading (⭐1.6k)](https://github.com/jasonstrimpel/volatility-trading) - A complete set of volatility estimators based on Euan Sinclair's Volatility Trading.
 
 ## [8. Awesome Robotics](/content/kiloreux/awesome-robotics/README.md)
 
@@ -95,7 +95,7 @@ git add -i
 
 ### Resources / Docker Images
 
-*   [sequenceiq/docker-spark (⭐764)](https://github.com/sequenceiq/docker-spark) - Yarn images from [SequenceIQ](http://www.sequenceiq.com/).
+*   [sequenceiq/docker-spark (⭐765)](https://github.com/sequenceiq/docker-spark) - Yarn images from [SequenceIQ](http://www.sequenceiq.com/).
 
 ## [11. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/README.md)
 

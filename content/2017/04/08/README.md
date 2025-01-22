@@ -30,7 +30,7 @@
 
 ### Awesome Repositories
 
-- Repository: [Hacking (⭐13k)](https://github.com/carpedm20/awesome-hacking)
+- Repository: [Hacking (⭐14k)](https://github.com/carpedm20/awesome-hacking)
 
   Description: List of awesome Hacking tutorials, tools and resources
 

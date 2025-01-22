@@ -331,7 +331,7 @@ Free
 
 ### How do I contribute to this list? / Other Types of Support
 
-*   **Familiar with GitHub?** Send a pull request with your suggestions. Please also see the [contribution guidelines (⭐202)](https://github.com/dylanrees/toolsforcitizenscience/blob/master/contributing.md).
+*   **Familiar with GitHub?** Send a pull request with your suggestions. Please also see the [contribution guidelines (⭐248)](https://github.com/dylanrees/toolsforcitizenscience/blob/master/contributing.md).
 *   **Not familiar with GitHub?** You can leave a comment on this page by clicking on the `Issues` tab on the right and adding a New Issue (that's just like a comment). You'll need to create a GitHub account first.
 
 ## [20. Awesome Json Datasets](/content/jdorfman/awesome-json-datasets/week/README.md)
@@ -552,7 +552,7 @@ Free
 
 ### Translations and Internationalizations
 
-*   [trans (⭐229)](https://github.com/belaustegui/trans) - A Elixir library to manage embedded translations into models leveraging PostgreSQL JSONB datatype.
+*   [trans (⭐231)](https://github.com/belaustegui/trans) - A Elixir library to manage embedded translations into models leveraging PostgreSQL JSONB datatype.
 
 ## [36. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
@@ -664,8 +664,8 @@ Free
 
 ### Misc
 
-*   [Aeron.NET (⭐481)](https://github.com/AdaptiveConsulting/Aeron.NET) - Efficient reliable UDP unicast, UDP multicast, and IPC message transport - .NET port of Aeron
-*   [TypeShape (⭐291)](https://github.com/eiriktsarpalis/TypeShape) - TypeShape is a small, extensible F# library for practical generic programming
+*   [Aeron.NET (⭐492)](https://github.com/AdaptiveConsulting/Aeron.NET) - Efficient reliable UDP unicast, UDP multicast, and IPC message transport - .NET port of Aeron
+*   [TypeShape (⭐304)](https://github.com/eiriktsarpalis/TypeShape) - TypeShape is a small, extensible F# library for practical generic programming
 
 ### Serialization
 
@@ -721,14 +721,14 @@ Free
 
 ### Resources / Books
 
-*   [Functional-Light JavaScript (⭐16k)](https://github.com/getify/functional-light-js) – This book explores the core principles of functional programming (FP) that can be applied to JavaScript. But what makes this book different is that it approaches these principles without all the heavy terminology.
+*   [Functional-Light JavaScript (⭐17k)](https://github.com/getify/functional-light-js) – This book explores the core principles of functional programming (FP) that can be applied to JavaScript. But what makes this book different is that it approaches these principles without all the heavy terminology.
 
 ## [46. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/week/README.md)
 
 ### Development Projects / Bots
 
-*   [PokemonGo-Bot (⭐3.8k)](https://github.com/PokemonGoF/PokemonGo-Bot) - The Pokémon GO bot script, baking with community.
-*   [Bot Builder for PokemonGoBot (⭐17)](https://github.com/shilch/pogobot-builder) - Simply build your Pokémon GO bot.
+*   [PokemonGo-Bot (⭐3.9k)](https://github.com/PokemonGoF/PokemonGo-Bot) - The Pokémon GO bot script, baking with community.
+*   [Bot Builder for PokemonGoBot (⭐18)](https://github.com/shilch/pogobot-builder) - Simply build your Pokémon GO bot.
 
 ## [47. Awesome Symfony Education](/content/pehapkari/awesome-symfony-education/week/README.md)
 
@@ -746,7 +746,7 @@ Free
 
 ### Python / Data Sources
 
-*   [findatapy (⭐1.6k)](https://github.com/cuemacro/findatapy) - Python library to download market data via Bloomberg, Quandl, Yahoo etc.
+*   [findatapy (⭐1.7k)](https://github.com/cuemacro/findatapy) - Python library to download market data via Bloomberg, Quandl, Yahoo etc.
 
 ## [50. Awesome Fuse](/content/fuse-compound/awesome-fuse/week/README.md)
 

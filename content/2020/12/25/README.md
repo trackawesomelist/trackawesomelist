@@ -10,8 +10,8 @@
 
 ### ASM / Boilerplates and libraries
 
-*   [gb-boilerplate (⭐65)](https://github.com/ISSOtm/gb-boilerplate) - A template for starting Game Boy projects, providing a Makefile for infrastructure.
-*   [gb-starter-kit (⭐48)](https://github.com/ISSOtm/gb-starter-kit) - An expansion on the above, including base library code as well to get started faster.
+*   [gb-boilerplate (⭐72)](https://github.com/ISSOtm/gb-boilerplate) - A template for starting Game Boy projects, providing a Makefile for infrastructure.
+*   [gb-starter-kit (⭐57)](https://github.com/ISSOtm/gb-starter-kit) - An expansion on the above, including base library code as well to get started faster.
 
 ## [2. Awesome Diversity](/content/folkswhocode/awesome-diversity/README.md)
 
@@ -19,33 +19,29 @@
 
 *   [Brown Girl, Tech World](https://www.browngirltech.world/) - Digital safe space and non profit organization for brown women & girls navigating the tech industry.
 
-## [3. Awesome Json](/content/burningtree/awesome-json/README.md)
-
-### Online tools
-
-*   [JSONPerf](https://jsonperf.com) - A Visual, Unbiased and Up-to-Date JSON Performance Benchmark.
-
-## [4. Awesome React Components](/content/brillout/awesome-react-components/README.md)
-
-### Notification
-
-*   [react-hot-toast (⭐9.3k)](https://github.com/timolins/react-hot-toast) - [demo](https://react-hot-toast.com/) - Smoking hot Notifications for React. Lightweight, customizable and beautiful by default.
-
-## [5. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
-
-### Simultaneous Localization and Mapping / Lidar
-
-*   [LIO\_SAM (⭐2.4k)](https://github.com/TixiaoShan/LIO-SAM) - Tightly-coupled Lidar Inertial Odometry via Smoothing and Mapping.
-
-## [6. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
+## [3. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
 
 ### Community
 
 *   [Reddit](https://www.reddit.com/r/sveltejs/)
 
-### Tutorials
+## [4. Awesome Json](/content/burningtree/awesome-json/README.md)
 
-*   [SvelteJS Series - tutorials and talks](https://www.youtube.com/playlist?list=PLKUl5gVuvLjh7l0SDn-BoZtMgN3TDMNPd) - SpinSpire (YouTube).
+### Online tools
+
+*   [JSONPerf](https://jsonperf.com) - A Visual, Unbiased and Up-to-Date JSON Performance Benchmark.
+
+## [5. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### Notification
+
+*   [react-hot-toast (⭐9.3k)](https://github.com/timolins/react-hot-toast) - [demo](https://react-hot-toast.com/) - Smoking hot Notifications for React. Lightweight, customizable and beautiful by default.
+
+## [6. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
+
+### Simultaneous Localization and Mapping / Lidar
+
+*   [LIO\_SAM (⭐2.4k)](https://github.com/TixiaoShan/LIO-SAM) - Tightly-coupled Lidar Inertial Odometry via Smoothing and Mapping.
 
 ---
 

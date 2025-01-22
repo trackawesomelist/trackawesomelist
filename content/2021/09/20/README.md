@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 20, 2021
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Environment & Secret Management
 
-*   [Ubiq](https://www.ubiqsecurity.com/) - Encryption APIs wiht secret management.
+*   [Ubiq](https://www.ubiqsecurity.com/) - Encryption APIs with secret management.
 
 ## [2. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
 
@@ -29,12 +29,12 @@
 
 ### Starter Templates
 
-*   [LitElement JavaScript starter (⭐183)](https://github.com/lit/lit-element-starter-js) - Sample component using LitElement with JavaScript.
-*   [LitElement TypeScript starter (⭐486)](https://github.com/lit/lit-element-starter-ts) - Sample component using LitElement with TypeScript.
+*   [LitElement JavaScript starter (⭐187)](https://github.com/lit/lit-element-starter-js) - Sample component using LitElement with JavaScript.
+*   [LitElement TypeScript starter (⭐498)](https://github.com/lit/lit-element-starter-ts) - Sample component using LitElement with TypeScript.
 *   [hello-web-components (⭐25)](https://github.com/fernandopasik/hello-web-components) - Simple starter web component written in TypeScript using Lit.
 *   [Open Web Components Generator](https://open-wc.org/docs/development/generator/) - Starter app based on Open Web Components Recommendations.
 *   [pwa-starter (⭐1.1k)](https://github.com/pwa-builder/pwa-starter) - LitElement edition of the PWABuilder pwa-starter.
-*   [pwa-lit-template (⭐177)](https://github.com/IBM/pwa-lit-template) - Build Progressive Web Applications following the modern web standards.
+*   [pwa-lit-template (⭐178)](https://github.com/IBM/pwa-lit-template) - Build Progressive Web Applications following the modern web standards.
 
 ### Codelabs
 
@@ -111,7 +111,7 @@
 
 ### Playbooks, Roles and Collections / French
 
-*   [ansible-ssm (⭐5)](https://github.com/HQarroum/ansible-ssm) - An ansible role to provision physical and virtual hosts with the AWS SSM agent.
+*   [ansible-ssm (⭐6)](https://github.com/HQarroum/ansible-ssm) - An ansible role to provision physical and virtual hosts with the AWS SSM agent.
 
 ## [7. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -119,31 +119,21 @@
 
 *   [BetterTouchTool](https://folivora.ai/) - Great, feature-packed app that allows you to configure many gestures for your Magic Mouse, Macbook Trackpad, Magic Trackpad and also Mouse Gestures for normal mice.
 
-## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / UI Components
-
-*   [vue3-progress (⭐24)](https://github.com/marcoschulte/vue3-progress) - Fully customizable vue3 plugin to display a progress bar while waiting for something, e.g. http requests
-
-## [9. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [8. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Communication - IRC
 
-*   [UnrealIRCd](https://www.unrealircd.org/) - Modular, advanced and highly configurable IRC server written in C for Linux, BSD, Windows, and macOS. ([Source Code (⭐421)](https://github.com/unrealircd/unrealircd)) `GPL-2.0` `C`
+*   [UnrealIRCd](https://www.unrealircd.org/) - Modular, advanced and highly configurable IRC server written in C for Linux, BSD, Windows, and macOS. ([Source Code (⭐439)](https://github.com/unrealircd/unrealircd)) `GPL-2.0` `C`
 
 ### List of Licenses / Wikis
 
 *   `BSD-4-Clause` - [BSD 4-clause "Original"](https://spdx.org/licenses/BSD-4-Clause.html)
 
-## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Tools for Teams and Collaboration
 
 *   [MarkUp](https://www.markup.io/) — MarkUp lets you collect feedback directly on top of your websites, PDFs and images.
-
-### Monitoring
-
-*   [meercode.io](https://meercode.io/) — Meercode is the ultimate monitoring dashboard for your CI/CD builds. Free for open-source and one private repository.
 
 ### Other Free Resources
 

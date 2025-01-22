@@ -28,19 +28,19 @@
 
 ### Software / Resource Planning
 
-*   [ERPNext](https://erpnext.com) - Free open source ERP system. ([Source Code (⭐18k)](https://github.com/frappe/erpnext)) `GPL-3.0` `Python/Docker`
+*   [ERPNext](https://erpnext.com) - Free open source ERP system. ([Source Code (⭐23k)](https://github.com/frappe/erpnext)) `GPL-3.0` `Python/Docker`
 
 ## [5. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
 ### ORM / Database / Datamapping
 
-*   🍰 [Icings/Partitionable plugin (⭐16)](https://github.com/icings/partitionable) - Partitionable associations allowing for basic limiting per group.
+*   [Icings/Partitionable plugin (⭐16)](https://github.com/icings/partitionable) - Partitionable associations allowing for basic limiting per group.
 
 ## [6. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
 
 ### JavaScript / FrameWorks
 
-*   [portfolio-allocation (⭐173)](https://github.com/lequant40/portfolio_allocation_js) - PortfolioAllocation is a JavaScript library designed to help constructing financial portfolios made of several assets: bonds, commodities, cryptocurrencies, currencies, exchange traded funds (ETFs), mutual funds, stocks...
+*   [portfolio-allocation (⭐175)](https://github.com/lequant40/portfolio_allocation_js) - PortfolioAllocation is a JavaScript library designed to help constructing financial portfolios made of several assets: bonds, commodities, cryptocurrencies, currencies, exchange traded funds (ETFs), mutual funds, stocks...
 
 ## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -55,19 +55,19 @@
 
 ### Components & Libraries / Frameworks
 
-*   [vuestic-ui (⭐3.4k)](https://github.com/epicmaxco/vuestic-ui) - A Vue.js 3.0 UI customizable UI Framework.
+*   [vuestic-ui (⭐3.6k)](https://github.com/epicmaxco/vuestic-ui) - A Vue.js 3.0 UI customizable UI Framework.
 
 ## [8. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Layout
 
-*   [MondrianLayout (⭐164)](https://github.com/muukii/MondrianLayout) - A DSL based layout builder for AutoLayout.
+*   [MondrianLayout (⭐169)](https://github.com/muukii/MondrianLayout) - A DSL based layout builder for AutoLayout.
 
 ## [9. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Web
 
-*   [jwstegemann/fritz2 (⭐643)](https://github.com/jwstegemann/fritz2) - small lib to build reactive web-apps in pure Kotlin based on Flows
+*   [jwstegemann/fritz2 (⭐670)](https://github.com/jwstegemann/fritz2) - small lib to build reactive web-apps in pure Kotlin based on Flows
 
 ## [10. Awesome Security](/content/sbilly/awesome-security/README.md)
 
@@ -93,7 +93,7 @@
 
 ### Development
 
-- API: [Ciprand (⭐10)](https://github.com/polarspetroll/ciprand)
+- API: [Ciprand (⭐11)](https://github.com/polarspetroll/ciprand)
 
   Description: Secure random string generator
 

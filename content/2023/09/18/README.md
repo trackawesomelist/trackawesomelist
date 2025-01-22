@@ -16,7 +16,7 @@
 
 ### Discord
 
-*   [discordwebhook (⭐0)](https://github.com/ysdragon/discordwebhook) - Super simple interface to send discord messages through webhooks.
+*   [discordwebhook (⭐1)](https://github.com/ysdragon/discordwebhook) - Super simple interface to send discord messages through webhooks.
 
 ## [3. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
@@ -29,12 +29,12 @@
 
 ### Reinforcement Learning / Others
 
-*   [Gymnasium (⭐5.8k)](https://github.com/Farama-Foundation/Gymnasium) - An API standard for single-agent reinforcement learning environments, with popular reference environments and related utilities (formerly [Gym (⭐34k)](https://github.com/openai/gym)).
-*   [Stable Baselines3 (⭐8k)](https://github.com/DLR-RM/stable-baselines3) - A set of improved implementations of reinforcement learning algorithms based on OpenAI Baselines.
-*   [Tianshou (⭐7.4k)](https://github.com/thu-ml/tianshou/#comprehensive-functionality) - An elegant PyTorch deep reinforcement learning library. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
-*   [Acme (⭐3.4k)](https://github.com/google-deepmind/acme) - A library of reinforcement learning components and agents.
+*   [Gymnasium (⭐6.9k)](https://github.com/Farama-Foundation/Gymnasium) - An API standard for single-agent reinforcement learning environments, with popular reference environments and related utilities (formerly [Gym (⭐35k)](https://github.com/openai/gym)).
+*   [Stable Baselines3 (⭐8.8k)](https://github.com/DLR-RM/stable-baselines3) - A set of improved implementations of reinforcement learning algorithms based on OpenAI Baselines.
+*   [Tianshou (⭐7.8k)](https://github.com/thu-ml/tianshou/#comprehensive-functionality) - An elegant PyTorch deep reinforcement learning library. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
+*   [Acme (⭐3.5k)](https://github.com/google-deepmind/acme) - A library of reinforcement learning components and agents.
 *   [Catalyst-RL (⭐46)](https://github.com/catalyst-team/catalyst-rl) - PyTorch framework for RL research. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
-*   [d3rlpy (⭐1.2k)](https://github.com/takuseno/d3rlpy) - An offline deep reinforcement learning library.
+*   [d3rlpy (⭐1.3k)](https://github.com/takuseno/d3rlpy) - An offline deep reinforcement learning library.
 
 ### Probabilistic Graphical Models / Others
 
@@ -133,15 +133,15 @@
 
 ### Quickfix / Diagnostics
 
-*   [yorickpeterse/nvim-pqf (⭐129)](https://github.com/yorickpeterse/nvim-pqf) - Prettier quickfix/location list windows.
+*   [yorickpeterse/nvim-pqf (⭐147)](https://github.com/yorickpeterse/nvim-pqf) - Prettier quickfix/location list windows.
 
 ### Session / Diagnostics
 
-*   [coffebar/neovim-project (⭐176)](https://github.com/coffebar/neovim-project) - Declarative project management, automatic saving of sessions, uses Telescope.
+*   [coffebar/neovim-project (⭐215)](https://github.com/coffebar/neovim-project) - Declarative project management, automatic saving of sessions, uses Telescope.
 
 ### Split and Window / Diagnostics
 
-*   [yorickpeterse/nvim-window (⭐96)](https://github.com/yorickpeterse/nvim-window) - Easily jump between Neovim windows.
+*   [yorickpeterse/nvim-window (⭐135)](https://github.com/yorickpeterse/nvim-window) - Easily jump between Neovim windows.
 
 ## [8. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
@@ -171,7 +171,7 @@
 ### Authentication, Authorization, and User Management
 
 *   [Kinde](https://kinde.com/) - Simple, robust authentication you can integrate with your product in minutes.  Everything you need to get started with 7,500 free MAU.
-*   [Stytch](https://www.stytch.com/) - Flexible authentication APIs and SDKs with reach-resistant passwords, passwordless login flows, MFA, SSO, and more. Email/SMS sending + failover and fraud protections built-in. Offers 5,000 Monthly Active Users free (B2C) or 1,000 Monthly Active Users and 25 Organizations free (B2B).
+*   [Stytch](https://www.stytch.com/) - An all-in-one platform that provides APIs and SDKs for authentication and fraud prevention. The free plan includes 10,000 monthly active users, unlimited organizations, 5 SSO or SCIM connections, and 1,000 M2M tokens.
 
 ### Monitoring
 
@@ -197,15 +197,15 @@
 
 ## [11. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
-### Plugins and scripts / Various Godot versions
+### Plugins and scripts / Godot 4
 
-*   [Simplified Flight Simulation library (⭐174)](https://github.com/fbcosentino/godot-simplified-flightsim) - A library that helps you create a simple airplane/helicopter/spaceship flight simulator (Godot 3.x, 4.x).
+*   [Simplified Flight Simulation library (⭐200)](https://github.com/fbcosentino/godot-simplified-flightsim) - A library that helps you create a simple airplane/helicopter/spaceship flight simulator. *(Godot 3 and 4)*
 
 ## [12. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [sweet-monads (⭐323)](https://github.com/JSMonk/sweet-monads) - Typescript library for popular monads (such as `Maybe` or `Either`) and performant iterators.
+*   :octocat: [sweet-monads (⭐346)](https://github.com/JSMonk/sweet-monads) - Typescript library for popular monads (such as `Maybe` or `Either`) and performant iterators.
 
 ### :free: Free Courses / Chrome Extensions
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 19, 2024
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -11,16 +11,10 @@
 ### Articles / Golang - Community
 
 *   [Build Firebase Genkit Node.js apps with Dash Agents](https://medium.com/firebase-developers/build-firebase-genkit-nodejs-apps-with-dash-agents-skip-the-docs-258e067b3fdc) - A step-by-step guide to building Genkit Node.js apps by leveraging Dash Agents.
-*   [Master Gemma2 and Genkit](https://medium.com/firebase-developers/how-to-develop-using-the-gemma2-model-in-genkit-085f22ce68f3) - Learng how to integrate Gemma2 with Genkit.
+*   [Master Gemma2 and Genkit](https://medium.com/firebase-developers/how-to-develop-using-the-gemma2-model-in-genkit-085f22ce68f3) - Learn how to integrate Gemma2 with Genkit.
 *   [Unleash the Power of Function Calling with Genkit](https://medium.com/firebase-developers/implementing-function-calling-using-genkit-0c03f6cb9179) - Learn how to implement function calling using Genkit.
 
-## [2. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/README.md)
-
-### **Trustworthy, Safe and Secure LLM** / **GPT series release date**
-
-*   [LLMs Will Always Hallucinate, and We Need to Live With This](https://arxiv.org/abs/2409.05746): LLMs cannot completely eliminate hallucinations through architectural improvements, dataset enhancements, or fact-checking mechanisms due to fundamental mathematical and logical limitations. \[9 Sep 2024]
-
-## [3. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md)
+## [2. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md)
 
 ### Related Events / 2024
 
@@ -31,45 +25,24 @@
 
 *   [Supporting User Engagement in Testing, Auditing, and Contesting AI (CSCW User AI Auditing)](https://cscw-user-ai-auditing.github.io/)
 
-## [4. Awesome Math](/content/rossant/awesome-math/README.md)
+## [3. Awesome Math](/content/rossant/awesome-math/README.md)
 
 ### Learning Platforms
 
 *   [Math Academy](https://mathacademy.com/)
 
-## [5. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
+## [4. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
 ### Community, SIGs, Discussion Forums and Mailing Lists
 
-*   [Keycloak OAuth SIG (⭐70)](https://github.com/keycloak/kc-sig-fapi)
-*   [Keycloak SRE SIG (⭐17)](https://github.com/keycloak/keycloak-sre-sig)
+*   [Keycloak OAuth SIG (⭐80)](https://github.com/keycloak/kc-sig-fapi)
+*   [Keycloak SRE SIG (⭐26)](https://github.com/keycloak/keycloak-sre-sig)
 
 ### Community Extensions
 
-*   [Keycloak Adaptive Authentication Extension by @mabartos (⭐8)](https://github.com/mabartos/keycloak-adaptive-authn)
+*   [Keycloak Adaptive Authentication Extension by @mabartos (⭐22)](https://github.com/mabartos/keycloak-adaptive-authn)
 
-## [6. Awesome Scala](/content/lauris/awesome-scala/README.md)
-
-### Table of Contents / Misc
-
-*   [Agora](https://gitlab.com/aossie/Agora/) | Library of vote-counting algorithms for elections. |
-    [**Ammonite**](https://github.com/com-lihaoyi/Ammonite) | Scala Scripting | ![GitHub stars](https://img.shields.io/github/stars/com-lihaoyi/Ammonite) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/com-lihaoyi/Ammonite)
-    [**bootzooka**](https://github.com/softwaremill/bootzooka) | Simple project to quickly start developing a Scala-based microservice or web application, without the need to write login, user registration etc. | ![GitHub stars](https://img.shields.io/github/stars/softwaremill/bootzooka) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/softwaremill/bootzooka)
-    [**eclair**](https://github.com/ACINQ/eclair) | A scala implementation of the Lightning Network. | ![GitHub stars](https://img.shields.io/github/stars/ACINQ/eclair) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/ACINQ/eclair)
-    [fansi (⭐226)](https://github.com/com-lihaoyi/fansi) | Scala/Scala.js library for manipulating Fancy Ansi colored strings | ![GitHub stars](https://img.shields.io/github/stars/com-lihaoyi/fansi) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/com-lihaoyi/fansi)
-    [fs2-aws (⭐189)](https://github.com/laserdisc-io/fs2-aws) | fs2 utilities to interact with AWS | ![GitHub stars](https://img.shields.io/github/stars/laserdisc-io/fs2-aws) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/laserdisc-io/fs2-aws)
-    [mailgun4s (⭐17)](https://github.com/outr/mailgun4s) | Mailgun API implementation in Scala | ![GitHub stars](https://img.shields.io/github/stars/outr/mailgun4s) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/outr/mailgun4s)
-    [managerial (⭐13)](https://github.com/dvgica/managerial) | A zero-dependency Scala library for managing resources monadically | ![GitHub stars](https://img.shields.io/github/stars/dvgica/managerial) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/dvgica/managerial)
-    [media4s (⭐34)](https://github.com/outr/media4s) | Scala command-line wrapper around ffmpeg, ffprobe, ImageMagick, and other tools relating to media. | ![GitHub stars](https://img.shields.io/github/stars/outr/media4s) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/outr/media4s)
-    [play-swagger (⭐403)](https://github.com/iheartradio/play-swagger) | Swagger spec generator for play framework | ![GitHub stars](https://img.shields.io/github/stars/iheartradio/play-swagger) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/iheartradio/play-swagger)
-    [PPrint (⭐224)](https://github.com/com-lihaoyi/PPrint) | Pretty-printing value, types and type-signatures in Scala | ![GitHub stars](https://img.shields.io/github/stars/com-lihaoyi/PPrint) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/com-lihaoyi/PPrint)
-    [**pureconfig**](https://github.com/pureconfig/pureconfig) | A boilerplate-free library for loading configuration files | ![GitHub stars](https://img.shields.io/github/stars/pureconfig/pureconfig) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/pureconfig/pureconfig)
-*   [Scavenger](https://gitlab.com/aossie/Scavenger) | An experimental automated theorem prover. |
-    [service-chassis (⭐7)](https://github.com/allawala/service-chassis) | A scala chassis to get your applications and services bootstrapped quickly | ![GitHub stars](https://img.shields.io/github/stars/allawala/service-chassis) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/allawala/service-chassis)
-    [spliff (⭐58)](https://github.com/sirthias/spliff) | Efficient diffing in Scala | ![GitHub stars](https://img.shields.io/github/stars/sirthias/spliff) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/sirthias/spliff)
-    [scountries (⭐20)](https://github.com/lambdaworks/scountries) | Scala library that provides an enumeration of ISO 3166 codes for countries, along with their subdivisions. | ![GitHub stars](https://img.shields.io/github/stars/lambdaworks/scountries) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/lambdaworks/scountries)
-    [scurl-detector (⭐16)](https://github.com/lambdaworks/scurl-detector) | Scala library that detects and extracts URLs from text. | ![GitHub stars](https://img.shields.io/github/stars/lambdaworks/scurl-detector) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/lambdaworks/scurl-detector)
-    [aptus-core (⭐7)](https://github.com/aptusproject/aptus-core) | A utility library aiming to simplify the Scala coding experience. | ![GitHub stars](https://img.shields.io/github/stars/aptusproject/aptus-core) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/aptusproject/aptus-core)
+## [5. Awesome Scala](/content/lauris/awesome-scala/README.md)
 
 ### Exercises / Devops
 
@@ -83,19 +56,19 @@
 
 *   [Scala for Fun & Profit](https://podcasters.spotify.com/pod/show/julien-truffaut) - Interviewing Scala users and companies.
 
-## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Miscellaneous
 
 *   [Webacus](https://webacus.dev) — Access a wide range of free developer tools for encoding, decoding, and data manipulation.
 
-## [8. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
+## [7. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Utilities / System Interaction Utilities
 
-*   [fastfetch (⭐9.7k)](https://github.com/fastfetch-cli/fastfetch) - System information tool.
+*   [fastfetch (⭐11k)](https://github.com/fastfetch-cli/fastfetch) - System information tool.
 
-## [9. Topics](/content/selvaklnc/topics/README.md)
+## [8. Topics](/content/selvaklnc/topics/README.md)
 
 ### List of articles and posts
 
@@ -145,24 +118,25 @@
 *   [wmWebStacl localhost server](https://alternativeto.net/software/wmwebstack/about/)
 *   [wmWebStack alternatives](https://alternativeto.net/software/wmwebstack/) Web Servers and other similar apps like wmWebStack.
 
-## [10. Awesome Translations](/content/mbiesiad/awesome-translations/README.md)
+## [9. Awesome Translations](/content/mbiesiad/awesome-translations/README.md)
 
 ### Articles / Machine translation
 
 *   [Awesome New Languages in Machine Translation (⭐13)](https://github.com/slone-nlp/awesome-new-languages-in-machine-translation) - A list of initiatives for supporting MT (mostly with opensource models) for new languages (mostly lower-resourced ones).
 
-## [11. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
+## [10. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
 
 ### Part Search Engines / Altium
 
 *   [Yoo Need One - SMD Marking Database](https://smd.yooneed.one/) - Surface Mount Device (SMD) component marking database.
 
-## [12. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
+## [11. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ### Managed Terraform Platforms :heavy_dollar_sign: / IDE
 
-*   [ControlMonkey](https://www.controlmonkey.io/) - Alternative to Terraform Cloud with Terraform/OpenTofu code generation, cloud inventory and IaC coverage. Includes out-of-the-box policies, drift remediation, and a ClickOps activity scanne. :heavy\_dollar\_sign:
+*   [ControlMonkey](https://www.controlmonkey.io/) - Alternative to Terraform Cloud with Terraform/OpenTofu code generation, cloud inventory and IaC coverage. Includes out-of-the-box policies, drift remediation, and a ClickOps activity scanner. :heavy\_dollar\_sign:
 
 ---
 
+- Prev: [Sep 20, 2024](/content/2024/09/20/README.md)
 - Next: [Sep 18, 2024](/content/2024/09/18/README.md)

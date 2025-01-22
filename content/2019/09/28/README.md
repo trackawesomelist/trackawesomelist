@@ -28,7 +28,7 @@
 
 ### Front-End Development
 
-*   [Ember (⭐192)](https://github.com/ember-community-russia/awesome-ember#readme) - App framework.
+*   [Ember (⭐194)](https://github.com/ember-community-russia/awesome-ember#readme) - App framework.
 
 ## [5. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 
@@ -46,7 +46,7 @@
 
 ### CAD Specific / KiCad
 
-*   [InteractiveHtmlBom (⭐3.6k)](https://github.com/openscopeproject/InteractiveHtmlBom) - A html BOM generation tool for manual pick and place.
+*   [InteractiveHtmlBom (⭐3.8k)](https://github.com/openscopeproject/InteractiveHtmlBom) - A html BOM generation tool for manual pick and place.
 
 ### PCB Batching Services / Altium
 
@@ -60,7 +60,7 @@
 
 ### Cloud Support
 
-*   [AWS SDK (⭐46)](https://github.com/reactiverse/aws-sdk) - Use AWS Java SDK v2 (async) with Vert.x
+*   [AWS SDK (⭐49)](https://github.com/reactiverse/aws-sdk) - Use AWS Java SDK v2 (async) with Vert.x
 
 ## [9. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
 
@@ -83,7 +83,7 @@
 
 ### Board support crates / STMicroelectronics
 
-*   [`nucleo-f401re`](https://github.com/jkristell/nucleo-f401re.git) - [Nucleo-F401RE](https://www.st.com/en/evaluation-tools/nucleo-f401re.html) ![crates.io](https://img.shields.io/crates/v/nucleo-f401re.svg)
+*   [`nucleo-f401re`](https://github.com/jkristell/nucleo-f401re.git) - [Nucleo-F401RE](https://www.st.com/en/evaluation-tools/nucleo-f401re.html) [![crates.io](https://img.shields.io/crates/v/nucleo-f401re.svg)](https://crates.io/crates/nucleo-f401re)
 
 ---
 

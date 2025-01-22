@@ -18,11 +18,11 @@
 
 ### Community
 
-*   [MobilityData Slack chat](https://share.mobilitydata.org/slack)
+*   [MobilityData Slack chat](https://share.mobilitydata.org/slack) - Chatroom that includes channels #gtfs, #gtfs-validators #mobility-database  #gtfs-realtime #gtfs\_best-practices #gtfs-pathways #gtfs-fares #gtfs-flex #trb-transit-data.
 
 ### GTFS Converters / Ruby
 
-*   [NeTEx-to-GTFS Converter Java (⭐5)](https://github.com/entur/netex-gtfs-converter-java) - Converts NeTEX datasets into GTFS datasets. The input NeTEx datasets are required to follow the Nordic NeTEx Profile.
+*   [NeTEx-to-GTFS Converter Java (⭐7)](https://github.com/entur/netex-gtfs-converter-java) - Converts NeTEX datasets into GTFS datasets. The input NeTEx datasets are required to follow the Nordic NeTEx Profile.
 
 ## [3. Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md)
 
@@ -35,11 +35,11 @@
 
 ### Monitoring/Statistics/Perfomance / Prometheus
 
-*   [pg\_exporter (⭐159)](https://github.com/Vonng/pg_exporter) - Fully customizable Prometheus exporter for PostgreSQL & Pgbouncer with fine-grained execution control.
+*   [pg\_exporter (⭐184)](https://github.com/Vonng/pg_exporter) - Fully customizable Prometheus exporter for PostgreSQL & Pgbouncer with fine-grained execution control.
 
 ### Distributions / Zabbix
 
-*   [Pigsty (⭐2.9k)](https://github.com/Vonng/pigsty) - Battery-Included Open-Source Distribution for PostgreSQL with ultimate observability & Database-as-Code toolbox for developers.
+*   [Pigsty (⭐3.7k)](https://github.com/Vonng/pigsty) - Battery-Included Open-Source Distribution for PostgreSQL with ultimate observability & Database-as-Code toolbox for developers.
 
 ## [5. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
@@ -62,12 +62,12 @@
 
 ### Table of Contents / Email
 
-*   [Stampie (⭐293)](https://github.com/Stampie/Stampie) - A library for email services such as [SendGrid](https://sendgrid.com/en-us), [PostMark](https://postmarkapp.com), [MailGun](https://www.mailgun.com/) and [MailChimp](https://mailchimp.com/features/transactional-email/).
+*   [Stampie (⭐294)](https://github.com/Stampie/Stampie) - A library for email services such as [SendGrid](https://sendgrid.com/en-us), [PostMark](https://postmarkapp.com), [MailGun](https://www.mailgun.com/) and [MailChimp](https://mailchimp.com/features/transactional-email/).
 
 ### Table of Contents / Testing
 
 *   [Mink](https://mink.behat.org/en/latest/) - Web acceptance testing.
-*   [Phake (⭐480)](https://github.com/phake/phake) - Another mock object library for testing.
+*   [Phake (⭐478)](https://github.com/phake/phake) - Another mock object library for testing.
 
 ### Table of Contents / Continuous Integration
 
@@ -79,7 +79,7 @@
 
 ### Table of Contents / Static Analysis
 
-*   [Deptrac (⭐2.6k)](https://github.com/qossmic/deptrac) - A static code analysis tool that helps to enforce rules for dependencies between software layers.
+*   [Deptrac (⭐2.7k)](https://github.com/qossmic/deptrac) - A static code analysis tool that helps to enforce rules for dependencies between software layers.
 
 ### Table of Contents / Architectural
 
@@ -91,7 +91,7 @@
 
 ### Table of Contents / Database
 
-*   [Doctrine Extensions (⭐4k)](https://github.com/doctrine-extensions/DoctrineExtensions) - A collection of Doctrine behavioural extensions.
+*   [Doctrine Extensions (⭐4.1k)](https://github.com/doctrine-extensions/DoctrineExtensions) - A collection of Doctrine behavioural extensions.
 
 ### Table of Contents / Search
 
@@ -108,7 +108,7 @@
 
 ### Configuration / Infrastructure
 
-*   [RoadRunner (⭐7.8k)](https://github.com/roadrunner-server/roadrunner) - High-performance PHP application server, load-balancer and process manager.
+*   [RoadRunner (⭐8k)](https://github.com/roadrunner-server/roadrunner) - High-performance PHP application server, load-balancer and process manager.
 
 ### Configuration / PHP Websites
 
@@ -126,29 +126,29 @@
 
 ### Examples / Showcases / Personal
 
-*   [Official Examples (⭐244)](https://github.com/directus/examples) - Integration examples with Directus.
+*   [Official Examples (⭐257)](https://github.com/directus/examples) - Integration examples with Directus.
 
 ## [7. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Platforms
 
-*   [Capacitor (⭐442)](https://github.com/riderx/awesome-capacitor#readme) - Cross-platform open source runtime for building Web Native apps.
+*   [Capacitor (⭐484)](https://github.com/riderx/awesome-capacitor#readme) - Cross-platform open source runtime for building Web Native apps.
 
 ### Programming Languages
 
-*   [Zig (⭐358)](https://github.com/catdevnull/awesome-zig#readme) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
+*   [Zig (⭐393)](https://github.com/catdevnull/awesome-zig#readme) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 
 ### Computer Science
 
-*   [Conversational AI (⭐168)](https://github.com/jyguyomarch/awesome-conversational-ai#readme) - Build awesome chatbots and digital assistants.
+*   [Conversational AI (⭐194)](https://github.com/jyguyomarch/awesome-conversational-ai#readme) - Build awesome chatbots and digital assistants.
 
 ### Theory
 
-*   [Audit Algorithms (⭐88)](https://github.com/erwanlemerrer/awesome-audit-algorithms#readme) - Algorithmic audits of algorithms.
+*   [Audit Algorithms (⭐94)](https://github.com/erwanlemerrer/awesome-audit-algorithms#readme) - Algorithmic audits of algorithms.
 
 ### Content Management Systems
 
-*   [Directus (⭐498)](https://github.com/directus-community/awesome-directus#readme) - A real-time API and app dashboard for managing SQL database content.
+*   [Directus (⭐559)](https://github.com/directus-community/awesome-directus#readme) - A real-time API and app dashboard for managing SQL database content.
 
 ## [8. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
@@ -157,7 +157,7 @@
 *   ⭐ [ltk](http://www.peter-herth.de/ltk/) - A binding for the Tk toolkit. [LLGPL](http://opensource.franz.com/preamble.html) or [GNU LGPL2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html).
     *   [LTk Examples](https://peterlane.netlify.app/ltk-examples/) - Provides LTk examples for the tkdocs tutorial.
     *   [LTk Plotchart](https://peterlane.netlify.app/ltk-plotchart/) - A wrapper around the tklib/plotchart library to work with LTk. This includes over 20 different chart types (xy-plots, gantt charts, 3d-bar charts etc...).
-*   [vk (⭐46)](https://github.com/JolifantoBambla/vk) -  Common Lisp/CFFI bindings for the Vulkan API. [MIT](https://opensource.org/licenses/MIT).
+*   [vk (⭐49)](https://github.com/JolifantoBambla/vk) -  Common Lisp/CFFI bindings for the Vulkan API. [MIT](https://opensource.org/licenses/MIT).
 
 ## [9. Awesome Go](/content/avelino/awesome-go/README.md)
 
@@ -169,11 +169,11 @@
 
 ### Libraries/Frameworks / Validation
 
-*   [konform-kt/konform (⭐651)](https://github.com/konform-kt/konform) - Multiplatform validations for Kotlin data classes
+*   [konform-kt/konform (⭐683)](https://github.com/konform-kt/konform) - Multiplatform validations for Kotlin data classes
 
 ### Libraries/Frameworks / Misc
 
-*   [vjames19/kotlin-futures (⭐82)](https://github.com/vjames19/kotlin-futures) - A collections of extension functions to make the JVM Future, CompletableFuture, ListenableFuture API more functional and Kotlin like.
+*   [vjames19/kotlin-futures (⭐83)](https://github.com/vjames19/kotlin-futures) - A collections of extension functions to make the JVM Future, CompletableFuture, ListenableFuture API more functional and Kotlin like.
 
 ## [11. Awesome Css Learning](/content/micromata/awesome-css-learning/README.md)
 
@@ -185,13 +185,13 @@
 
 ### Plugins / Frameworks
 
-*   [Astro (⭐287)](https://github.com/ota-meshi/eslint-plugin-astro) - Plugin for [Astro components](https://docs.astro.build/en/core-concepts/astro-components/).
+*   [Astro (⭐307)](https://github.com/ota-meshi/eslint-plugin-astro) - Plugin for [Astro components](https://docs.astro.build/en/core-concepts/astro-components/).
 
 ## [13. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
 
 ### Software / Vector Creation
 
-*   [linedraw (⭐751)](https://github.com/LingDong-/linedraw) - Python tool to convert images to sketchy vector line drawings.
+*   [linedraw (⭐772)](https://github.com/LingDong-/linedraw) - Python tool to convert images to sketchy vector line drawings.
 
 ### Manuals, Ephemera, Papers, and Patents / Manuals
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 25 - May 01, 2016
 
-42 awesome lists updated this week.
+41 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -94,10 +94,6 @@ git show <branch_name>:<file_name>
 
 ## [7. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
-### Resources / Discovery
-
-*   [npmcompare.com](https://npmcompare.com) - Compare and discover npm packages.
-
 ### Resources / Articles
 
 *   [Semver: A Primer](https://nodesource.com/blog/semver-a-primer/)
@@ -167,7 +163,7 @@ git show <branch_name>:<file_name>
 ### Tools / Libraries
 
 *   [Chroma.js](http://gka.github.io/chroma.js/) - JavaScript library for dealing with colors.
-*   [GradStop.js (⭐153)](https://github.com/Siddharth11/gradStop.js) - Generate gradient color stops.
+*   [GradStop.js (⭐154)](https://github.com/Siddharth11/gradStop.js) - Generate gradient color stops.
 
 ### Tools / Web App
 
@@ -305,11 +301,11 @@ git show <branch_name>:<file_name>
 
 ### Frameworks
 
-*   [EASTL (⭐7.9k)](https://github.com/electronicarts/EASTL) - Electronic Arts Standard Template Library. \[BSD]
+*   [EASTL (⭐8.4k)](https://github.com/electronicarts/EASTL) - Electronic Arts Standard Template Library. \[BSD]
 
 ### Machine Learning
 
-*   [Fido (⭐431)](https://github.com/FidoProject/Fido) - A highly-modular C++ machine learning library for embedded electronics and robotics. \[MIT] [website](http://fidoproject.github.io/)
+*   [Fido (⭐446)](https://github.com/FidoProject/Fido) - A highly-modular C++ machine learning library for embedded electronics and robotics. \[MIT] [website](http://fidoproject.github.io/)
 
 ## [20. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
@@ -341,7 +337,7 @@ git show <branch_name>:<file_name>
 
 ### Ask these people anything!
 
-*   [Jon Kuperman (⭐21)](https://github.com/jkup/ama) - I love JavaScript! I blog at Codeplanet, make videos at Nodecasts and podcast at The Web Behind.
+*   [Jon Kuperman (⭐23)](https://github.com/jkup/ama) - I love JavaScript! I blog at Codeplanet, make videos at Nodecasts and podcast at The Web Behind.
 *   [Max Stoiber (⭐28)](https://github.com/mxstbr/ama) - Open source developer advocate at Thinkmill, developing KeystoneJS and ElementalUI. Creator of react-boilerplate, part of React Vienna.
 
 ## [24. Awesome Dropwizard](/content/stve/awesome-dropwizard/week/README.md)
@@ -350,13 +346,7 @@ git show <branch_name>:<file_name>
 
 *   [dropwizard-maxmind-bundle (⭐6)](https://github.com/phaneesh/dropwizard-maxmind-bundle) - MaxMind GeoIP2 support for dropwizard
 
-## [25. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
-
-### Images / Barcode
-
-*   [SwiftyGif (⭐2k)](https://github.com/kirualex/SwiftyGif) - High performance GIF engine.
-
-## [26. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [25. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Culture
 
@@ -379,7 +369,7 @@ git show <branch_name>:<file_name>
 
 *   [What is SRE (Site Reliability Engineering)?](https://www.oreilly.com/ideas/what-is-sre-site-reliability-engineering)
 
-## [27. Awesome Economics](/content/antontarasenko/awesome-economics/week/README.md)
+## [26. Awesome Economics](/content/antontarasenko/awesome-economics/week/README.md)
 
 ### Economics on GitHub / Economists
 
@@ -396,34 +386,34 @@ git show <branch_name>:<file_name>
 *   [QuantEcon](https://github.com/QuantEcon/) - A library for quantitative economics.
 *   [VFI Toolkit](https://github.com/vfitoolkit) - Matlab toolkit for Value Function Iteration on GPU.
 
-## [28. Awesome Math](/content/rossant/awesome-math/week/README.md)
+## [27. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
 ### Books
 
 *   [Online Mathematics Textbooks](https://people.math.gatech.edu/~cain/textbooks/onlinebooks.html)
 
-## [29. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [28. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Community
 
 *   [Mailing List](https://groups.google.com/a/tensorflow.org/forum/#!forum/discuss)
 
-## [30. Awesome Jquery](/content/petk/awesome-jquery/week/README.md)
+## [29. Awesome Jquery](/content/petk/awesome-jquery/week/README.md)
 
 ### Forms / Paid Books
 
-*   [jquery-minicolors (⭐953)](https://github.com/claviska/jquery-minicolors) - A tiny color picker plugin.
+*   [jquery-minicolors (⭐959)](https://github.com/claviska/jquery-minicolors) - A tiny color picker plugin.
 
-## [31. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [30. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Algorithms and Data structures
 
-*   [ratio (⭐40)](https://github.com/Qqwy/elixir-rational) - Adds Rational Numbers and allows them to be used in common arithmetic operations. Also supports conversion between Floats and Rational Numbers.
+*   [ratio (⭐41)](https://github.com/Qqwy/elixir-rational) - Adds Rational Numbers and allows them to be used in common arithmetic operations. Also supports conversion between Floats and Rational Numbers.
 
 ### Applications
 
 *   [Consolex (⭐120)](https://github.com/sivsushruth/consolex) - Consolex is a tool that allows you to attach a web based console to any mix project.
-*   [Phoenix Battleship (⭐525)](https://github.com/bigardone/phoenix-battleship) - The Good Old game built with Elixir, Phoenix Framework, React and Redux.
+*   [Phoenix Battleship (⭐527)](https://github.com/bigardone/phoenix-battleship) - The Good Old game built with Elixir, Phoenix Framework, React and Redux.
 
 ### Behaviours and Interfaces
 
@@ -439,12 +429,12 @@ git show <branch_name>:<file_name>
 
 ### Examples and funny stuff
 
-*   [elixir\_koans (⭐2.2k)](https://github.com/elixirkoans/elixir-koans) - [Elixir koans](http://elixirkoans.io/) is a fun, easy way to get started with the elixir programming language.
+*   [elixir\_koans (⭐2.3k)](https://github.com/elixirkoans/elixir-koans) - [Elixir koans](http://elixirkoans.io/) is a fun, easy way to get started with the elixir programming language.
 *   [ex\_iss (⭐4)](https://github.com/cryptobird/ex_iss) - This package is for interfacing with the Open Notify API to information such as the ISS's current location, crew, and when it will pass over a location.
 
 ### Miscellaneous
 
-*   [mixgraph (⭐14)](https://github.com/sivsushruth/mixgraph) - An interactive dependency plotter for your Hex Package.
+*   [mixgraph (⭐15)](https://github.com/sivsushruth/mixgraph) - An interactive dependency plotter for your Hex Package.
 
 ### ORM and Datamapping
 
@@ -453,18 +443,18 @@ git show <branch_name>:<file_name>
 
 ### Testing
 
-*   [wallaby (⭐1.6k)](https://github.com/keathley/wallaby) - Wallaby helps test your web applications by simulating user interactions concurrently and manages browsers.
+*   [wallaby (⭐1.7k)](https://github.com/keathley/wallaby) - Wallaby helps test your web applications by simulating user interactions concurrently and manages browsers.
 
 ### Validations
 
-*   [bankster (⭐30)](https://github.com/railsmechanic/bankster) - A IBAN account number and BIC validation library for Elixir.
+*   [bankster (⭐32)](https://github.com/railsmechanic/bankster) - A IBAN account number and BIC validation library for Elixir.
 *   [shape (⭐6)](https://github.com/prio/shape) - A data validation library for Elixir based on Prismatic Scheme.
 
 ### Reading
 
 *   [Elixir Functional Programming (⭐363)](https://github.com/kblake/functional-programming) - Material to introduce functional programming using the Elixir language.
 
-## [32. Rbooks](/content/RomanTsegelskyi/rbooks/week/README.md)
+## [31. Rbooks](/content/RomanTsegelskyi/rbooks/week/README.md)
 
 ### Finance
 
@@ -494,13 +484,13 @@ Packages are the fundamental units of reproducible R code. They include reusable
 
 This book is packed with practical recipes, designed to provide you with all the guidance needed to get to grips with data visualization with R. It starts off with the basics of R plots and an introduction to heat maps and customizing them, before gradually taking you through creating interactive maps using the googleVis package, generating choropleth maps and contouring maps, bubble plots, and pie charts. You will then learn how to animate 2D and 3D plots in R. By the end of the book, you will be equipped with the key techniques to create impressive data visualizations with professional efficiency and precision.
 
-## [33. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
+## [32. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
 
 ### Miscellaneous / Third Party
 
 *   [d3plus-text (⭐97)](https://github.com/d3plus/d3plus-text) - Smart SVG text box with line wrapping and automatic font scaling
 
-## [34. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [33. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### GUI
 
@@ -508,7 +498,7 @@ This book is packed with practical recipes, designed to provide you with all the
 
 ### Mathematics
 
-*   [Microsoft Automatic Graph Layout (⭐1.3k)](https://github.com/Microsoft/automatic-graph-layout) - A set of tools for graph layout and viewing.
+*   [Microsoft Automatic Graph Layout (⭐1.4k)](https://github.com/Microsoft/automatic-graph-layout) - A set of tools for graph layout and viewing.
 
 ### Tools
 
@@ -516,68 +506,68 @@ This book is packed with practical recipes, designed to provide you with all the
 
 ### Source Generator
 
-*   [awesome-analyzers (⭐511)](https://github.com/Cybermaxs/awesome-analyzers) - A curated list of .NET Compiler Platform ("Roslyn") diagnostic analyzers and code fixes.
+*   [awesome-analyzers (⭐548)](https://github.com/Cybermaxs/awesome-analyzers) - A curated list of .NET Compiler Platform ("Roslyn") diagnostic analyzers and code fixes.
 
-## [35. Awesome Vorpal](/content/vorpaljs/awesome-vorpal/week/README.md)
+## [34. Awesome Vorpal](/content/vorpaljs/awesome-vorpal/week/README.md)
 
 ### Extensions / Toolbox
 
 *   [as-default (⭐5)](https://github.com/ialpert/vorpal-as-default) - Triggers Vorpal task in case it runs without any specificly defined task.
 
-## [36. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [35. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Scala / Data Analysis / Data Visualization
 
 *   [Spark Notebook](http://spark-notebook.io) - Interactive and Reactive Data Science using Scala and Spark.
 
-## [37. Awesome R](/content/qinwf/awesome-R/week/README.md)
+## [36. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### Web Technologies and Services
 
-*   [Web Technologies List (⭐170)](https://github.com/ropensci/webservices) - Information about how to use R and the world wide web together.
+*   [Web Technologies List (⭐175)](https://github.com/ropensci/webservices) - Information about how to use R and the world wide web together.
 
 ### Natural Language Processing
 
-*   [Topic Models Resources (⭐227)](https://github.com/trinker/topicmodels_learning) - Topic Models learning and R related resources.
+*   [Topic Models Resources (⭐228)](https://github.com/trinker/topicmodels_learning) - Topic Models learning and R related resources.
 *   [NLP for <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e8-1f1f3.png" width="20" heigth="20" align="absmiddle" class="emoji" alt=":cn:">](https://github.com/BZRLC/R-notes/blob/master/NLP/readme.md) - NLP related resources in R. @Chinese
 
 ### Network Analysis
 
-*   [Network Analysis List (⭐3.3k)](https://github.com/briatte/awesome-network-analysis) - Network Analysis related resources.
+*   [Network Analysis List (⭐3.6k)](https://github.com/briatte/awesome-network-analysis) - Network Analysis related resources.
 
 ### R Development
 
-*   [Package Development List (⭐43)](https://github.com/ropensci/PackageDevelopment) - R packages to improve package development.
+*   [Package Development List (⭐42)](https://github.com/ropensci/PackageDevelopment) - R packages to improve package development.
 
 ### Lists / Book/monograph Lists and Reviews
 
 *   [Natural Language Processing <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e8-1f1f3.png" width="20" heigth="20" align="absmiddle" class="emoji" alt=":cn:">](https://github.com/BZRLC/R-notes/blob/master/NLP/readme.md) - NLP related resources in R. @Chinese
-*   [Open Data (⭐194)](https://github.com/ropensci/opendata) - Using R to obtain, parse, manipulate, create, and share open data.
-*   [Package Development (⭐43)](https://github.com/ropensci/PackageDevelopment) - R packages to improve package development.
-*   [RStartHere (⭐655)](https://github.com/rstudio/RStartHere) - A guide to some of the most useful R packages, organized by workflow.
-*   [Web Technologies (⭐170)](https://github.com/ropensci/webservices) - Information about how to use R and the world wide web together.
+*   [Open Data (⭐199)](https://github.com/ropensci/opendata) - Using R to obtain, parse, manipulate, create, and share open data.
+*   [Package Development (⭐42)](https://github.com/ropensci/PackageDevelopment) - R packages to improve package development.
+*   [RStartHere (⭐664)](https://github.com/rstudio/RStartHere) - A guide to some of the most useful R packages, organized by workflow.
+*   [Web Technologies (⭐175)](https://github.com/ropensci/webservices) - Information about how to use R and the world wide web together.
 
-## [38. Awesome Groovy](/content/kdabir/awesome-groovy/week/README.md)
+## [37. Awesome Groovy](/content/kdabir/awesome-groovy/week/README.md)
 
 ### Language Utilities
 
 *   [GPerfUtils](https://github.com/gperfutils) - Groovy-based tools verifying performance of your code
-    *   [gprof (⭐32)](https://github.com/gperfutils/gprof) - The profiling module for Groovy
+    *   [gprof (⭐33)](https://github.com/gperfutils/gprof) - The profiling module for Groovy
     *   [gbench (⭐28)](https://github.com/gperfutils/gbench) - The benchmarking module for Groovy
 
-## [39. Awesome Rxjava](/content/eleventigers/awesome-rxjava/week/README.md)
+## [38. Awesome Rxjava](/content/eleventigers/awesome-rxjava/week/README.md)
 
 ### Articles
 
 *   [RxJava - The Problem with Subjects](http://tomstechnicalblog.blogspot.co.uk/2016/03/rxjava-problem-with-subjects.html) - Thomas Nield explains why `Subject` is not a panacea.
 
-## [40. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [39. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Researchers / Frameworks
 
 *   [Apache SINGA - A General Distributed Deep Learning Platform](http://singa.incubator.apache.org/)
 
-## [41. Awesome Wicket](/content/PhantomYdn/awesome-wicket/week/README.md)
+## [40. Awesome Wicket](/content/PhantomYdn/awesome-wicket/week/README.md)
 
 ### Libraries
 
@@ -666,7 +656,7 @@ This book is packed with practical recipes, designed to provide you with all the
 *   [ProjectForge](https://www.projectforge.org/) - Open source software for your project management.
 *   [Yes Cart (⭐98)](https://github.com/inspire-software/yes-cart) - Pure e-Commerse platform.
 
-## [42. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [41. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Companies / T companies
 

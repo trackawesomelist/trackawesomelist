@@ -31,17 +31,17 @@
 
 ### Applications / Games
 
-*   [zipxing/rust\_pixel (⭐104)](https://github.com/zipxing/rust_pixel) \[[rust\_pixel](https://crates.io/crates/rust_pixel)] - A 2D pixel art game engine & rapid prototyping tools, supporting both text and graphical rendering modes.
+*   [zipxing/rust\_pixel (⭐155)](https://github.com/zipxing/rust_pixel) \[[rust\_pixel](https://crates.io/crates/rust_pixel)] - A 2D pixel art game engine & rapid prototyping tools, supporting both text and graphical rendering modes.
 
 ### Applications / System tools
 
-*   [ynqa/logu (⭐76)](https://github.com/ynqa/logu) - Extract patterns from (streaming) unstructured log messages [![ci](https://github.com/ynqa/logu/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/ynqa/logu/actions/workflows/ci.yml)
+*   [ynqa/logu (⭐87)](https://github.com/ynqa/logu) - Extract patterns from (streaming) unstructured log messages [![ci](https://github.com/ynqa/logu/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/ynqa/logu/actions/workflows/ci.yml)
 
 ## [4. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
-### Plugins and scripts / Godot 4.2+
+### Plugins and scripts / Godot 4
 
-*   [Shaker (⭐241)](https://github.com/Eneskp3441/Shaker) - Plugin that adds shaking and emitters for cameras, nodes or any property in 2D and 3D.
+*   [Shaker (⭐284)](https://github.com/Eneskp3441/Shaker) - Plugin that adds shaking and emitters for cameras, nodes or any property in 2D and 3D.
 
 ## [5. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
@@ -51,7 +51,7 @@
 
 ### Integrations / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [gong (⭐12)](https://github.com/fullstack-lang/gong) - Gong (go + ng) is a framework for full stack development based on Go and Angular. The Go back-end uses gin, gorm, and sqlite (a pure go sqlite, no cgo needed). The Angular front-end uses Angular Material.
+*   [gong (⭐14)](https://github.com/fullstack-lang/gong) - Gong (go + ng) is a framework for full stack development based on Go and Angular. The Go back-end uses gin, gorm, and sqlite (a pure go sqlite, no cgo needed). The Angular front-end uses Angular Material.
 
 ### Server-Side Rendering / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -75,4 +75,5 @@
 
 ---
 
+- Prev: [Oct 07, 2024](/content/2024/10/07/README.md)
 - Next: [Oct 05, 2024](/content/2024/10/05/README.md)

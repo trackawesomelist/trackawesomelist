@@ -44,7 +44,7 @@
 
 ### CSV / Third-party APIs
 
-*   [auto-text (⭐10)](https://github.com/defunkydrummer/auto-text) - automatic (encoding, end of line, column width, csv delimiter etc) detection for text files. [MIT](https://opensource.org/licenses/MIT). See also [inquisitor (⭐33)](https://github.com/t-sin/inquisitor) for detection of asian and far eastern languages.
+*   [auto-text (⭐10)](https://github.com/defunkydrummer/auto-text) - automatic (encoding, end of line, column width, csv delimiter etc) detection for text files. [MIT](https://opensource.org/licenses/MIT). See also [inquisitor (⭐34)](https://github.com/t-sin/inquisitor) for detection of asian and far eastern languages.
 
 ## [7. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
@@ -56,7 +56,7 @@
 
 ### Dataset / Web
 
-*   [StarData (⭐560)](https://github.com/TorchCraft/StarData) - Matches, videos, etc. [Website](http://nova.wolfwork.com/dataMining.html), [paper](https://arxiv.org/abs/1708.02139).
+*   [StarData (⭐569)](https://github.com/TorchCraft/StarData) - Matches, videos, etc. [Website](http://nova.wolfwork.com/dataMining.html), [paper](https://arxiv.org/abs/1708.02139).
 
 ## [9. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
@@ -72,7 +72,7 @@
 
 ### Networking
 
-*   [ZeroMQ (⭐9.5k)](https://github.com/zeromq/libzmq) - High-speed, modular asynchronous communication library. \[LGPL3/MPL2] [website](http://zeromq.org/)
+*   [ZeroMQ (⭐9.9k)](https://github.com/zeromq/libzmq) - High-speed, modular asynchronous communication library. \[LGPL3/MPL2] [website](http://zeromq.org/)
 
 ## [11. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 

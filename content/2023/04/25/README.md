@@ -10,7 +10,7 @@
 
 ### Planning Data Specifications / Transportation
 
-*   [GTFS-flex (⭐116)](https://github.com/MobilityData/gtfs-flex) - A data format that models flexible public transportation services (microtransit/paratransit) as an extension to GTFS.
+*   [GTFS-flex (⭐118)](https://github.com/MobilityData/gtfs-flex) - A data format that models flexible public transportation services (microtransit/paratransit) as an extension to GTFS.
 
 ## [2. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
@@ -28,7 +28,7 @@
 
 ### Project Layout
 
-*   [go-module (⭐30)](https://github.com/octomation/go-module) - Template for a typical module written on Go.
+*   [go-module (⭐31)](https://github.com/octomation/go-module) - Template for a typical module written on Go.
 
 ## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -40,7 +40,7 @@
 
 ### Miscellaneous
 
-*   [Quarto (⭐1.7k)](https://github.com/mcanouil/awesome-quarto#readme) - Scientific and technical open-source publishing system built on Pandoc.
+*   [Quarto (⭐1.8k)](https://github.com/mcanouil/awesome-quarto#readme) - Scientific and technical open-source publishing system built on Pandoc.
 
 ## [7. Awesome Webaudio](/content/notthetup/awesome-webaudio/README.md)
 
@@ -52,12 +52,11 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [autovenv (⭐1)](https://github.com/linnnus/autovenv) - Automatically activates Python virtual environments when entering their parent directory.
-*   [todotxt (⭐0)](https://github.com/Neluji/omz-todotxt) - Adds aliases for [todo.sh (⭐24)](https://github.com/benignoc/alfred-todotxt/).
+*   [todotxt (⭐0)](https://github.com/Neluji/omz-todotxt) - Adds aliases for [todo.sh (⭐23)](https://github.com/benignoc/alfred-todotxt/).
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [git-profiles (⭐1)](https://github.com/baliestri/git-profiles.plugin.zsh) - Manages multiple git users in a single `.gitconfig` file.
+*   [git-profiles (⭐2)](https://github.com/baliestri/git-profiles.plugin.zsh) - Manages multiple git users in a single `.gitconfig` file.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -67,7 +66,7 @@
 
 ### Projects / Wallets
 
-*   [staketaxcsv (⭐245)](https://github.com/hodgerpodger/staketaxcsv) - Python backend for [stake.tax](https://stake.tax) that generates taxable transactions CSVs for Algorand and other blockchains.
+*   [staketaxcsv (⭐257)](https://github.com/hodgerpodger/staketaxcsv) - Python backend for [stake.tax](https://stake.tax) that generates taxable transactions CSVs for Algorand and other blockchains.
 
 ---
 

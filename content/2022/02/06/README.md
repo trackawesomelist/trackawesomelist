@@ -22,14 +22,13 @@
 
 ### Libraries / C#
 
-*   [sharpSNMP (⭐341)](https://github.com/lextudio/sharpsnmplib) - MIT licensed SNMP library for .NET/Xamarin/Mono.
-*   [SnmpSharpNet (⭐78)](https://github.com/rqx110/SnmpSharpNet) - Simple Network Management Protocol (SNMP) .Net library written in C# (csharp). Implements protocol version 1, 2 and 3.
+*   [SnmpSharpNet (⭐80)](https://github.com/rqx110/SnmpSharpNet) - Simple Network Management Protocol (SNMP) .Net library written in C# (csharp). Implements protocol version 1, 2 and 3.
 
 ### Libraries / Java
 
 *   [joeSNMP](https://sourceforge.net/projects/joesnmp/) - joeSNMP is an open-source Java SNMP class library published under the LGPL.
 *   [Westhawk's SNMP](https://snmp.westhawk.co.uk/) - An open-sourced Java library that can be used for SNMP v1/v2c/v3. Supports traps, authentication and privacy. As authentication protocols it offers MD5 and SHA1.
-*   [mibble (⭐110)](https://github.com/cederberg/mibble) - Mibble is an open-source SNMP MIB (or SMI) parser library for Java.
+*   [mibble (⭐113)](https://github.com/cederberg/mibble) - Mibble is an open-source SNMP MIB (or SMI) parser library for Java.
 
 ### Tools / GUIs
 
@@ -41,7 +40,7 @@
 
 ### Driver crates / Other
 
-*   [AHT20-driver](https://crates.io/crates/aht20-driver) - I2C - Humidity and temperature sensor - [Intro blog post](http://www.rawmeat.org/code/20220130-aht20_driver/) - [github (⭐7)](https://github.com/anglerud/aht20-driver) - ![crates.io](https://img.shields.io/crates/v/aht20-driver.svg)
+*   [AHT20-driver](https://crates.io/crates/aht20-driver) - I2C - Humidity and temperature sensor - [Intro blog post](http://www.rawmeat.org/code/20220130-aht20_driver/) - [github (⭐9)](https://github.com/anglerud/aht20-driver) - [![crates.io](https://img.shields.io/crates/v/aht20-driver.svg)](https://crates.io/crates/aht20-driver)
 
 ## [5. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
@@ -88,7 +87,7 @@
 
 ### Development tools / Web Servers
 
-*   [dan-t/rusty-tags (⭐404)](https://github.com/dan-t/rusty-tags) - create ctags/etags for a cargo project and all of its dependencies
+*   [dan-t/rusty-tags (⭐412)](https://github.com/dan-t/rusty-tags) - create ctags/etags for a cargo project and all of its dependencies
 
 ---
 

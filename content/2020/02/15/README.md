@@ -10,7 +10,7 @@
 
 ### Resources / Visual Effects
 
-*   [gdx-vfx (⭐181)](https://github.com/crashinvaders/gdx-vfx) - Flexible post-processing shader visual effects based on libgdx-contribs-postprocessing.
+*   [gdx-vfx (⭐191)](https://github.com/crashinvaders/gdx-vfx) - Flexible post-processing shader visual effects based on libgdx-contribs-postprocessing.
 
 ### Resources / Others
 
@@ -20,15 +20,15 @@
 
 ### GitHub Pages / Code Coverage
 
-*   [A Jupyter Notebook Blogging Platform Powered by GitHub Actions, Pages and Jekyll (⭐3.4k)](https://github.com/fastai/fastpages)
+*   [A Jupyter Notebook Blogging Platform Powered by GitHub Actions, Pages and Jekyll (⭐3.5k)](https://github.com/fastai/fastpages)
 
 ### Machine Learning Ops / Terraform
 
-*   [Compile, Deploy and Run Kubeflow Pipeline (⭐30)](https://github.com/NikeNano/kubeflow-github-action)
+*   [Compile, Deploy and Run Kubeflow Pipeline (⭐35)](https://github.com/NikeNano/kubeflow-github-action)
 
 ### Build / Terraform
 
-*   [Generate \~/.m2/settings.xml for Maven builds (⭐46)](https://github.com/whelk-io/maven-settings-xml-action)
+*   [Generate \~/.m2/settings.xml for Maven builds (⭐71)](https://github.com/whelk-io/maven-settings-xml-action)
 
 ## [3. Learn to Program](/content/karlhorky/learn-to-program/README.md)
 
@@ -70,7 +70,7 @@
 ### Recruitment / Interview
 
 *   [Back-End Developer Interview Questions (⭐15k)](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions) - A great source of inspiration.
-*   [Reverse interview (⭐27k)](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview. Be prepared to answer them as a manager.
+*   [Reverse interview (⭐28k)](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview. Be prepared to answer them as a manager.
 
 ### Motivation / Negotiation
 
@@ -99,7 +99,7 @@
 
 ### Product Management / Standups
 
-*   [Awesome Product Management (⭐1.3k)](https://github.com/dend/awesome-product-management) - A reference. All the missing pieces are found below.
+*   [Awesome Product Management (⭐1.4k)](https://github.com/dend/awesome-product-management) - A reference. All the missing pieces are found below.
 
 ### Product Management / Hiring PMs
 
@@ -118,18 +118,18 @@
 
 *   [Escalation of commitment](https://en.wikipedia.org/wiki/Escalation_of_commitment) - A.k.a. sunk-cost fallacy, or the rational explanation of why the hell do we still irrationally keep investing in a bad project.
 
-### Key Performance Indicator (KPI) / Tickets
+### Key Performance Indicator (KPI) / Delivery
 
 *   [SRE fundamentals: SLIs, SLAs and SLOs](https://cloudplatform.googleblog.com/2018/07/sre-fundamentals-slis-slas-and-slos.html) - If you are in the business of cloud services, these metrics are certainly great KPIs.
 *   [The 4 Worst Software Metrics Agitating Developers in 2019](https://www.gitclear.com/blog/the_4_worst_software_metrics_agitating_developers_in_2019) - The worst KPIs to track a software team output: Lines of Code, Commit Count, Issues Resolved (aka “Shipping Velocity”) and Code Churn (aka "Efficiency").
 
-### Objectives and Key Results (OKR) / Tickets
+### Objectives and Key Results (OKR) / Delivery
 
 *   [OKRs from a development team's perspective](https://zafulabs.com/2019/05/24/okrs-from-a-development-teams-perspective/) - On how OKRs articulates with a backlog.
 *   [Why individual OKRs don't work for us](https://hrblog.spotify.com/2016/08/15/our-beliefs/) - Spotify decision to stop using OKRs for individuals.
 *   [Google's usage of OKRs](https://news.ycombinator.com/item?id=17492038) - OKR grades are public, but not used for promotion. It was never taken very seriously there.
 
-### Training / Tickets
+### Training / Delivery
 
 *   [Developers mentoring other developers: practices I've seen work well](https://blog.pragmaticengineer.com/developers-mentoring-other-developers/) - Discusses mentorship practices that work well engineer-to-engineer.
 *   [Developer Roadmaps](https://roadmap.sh/roadmaps) - Very high-level guides and paths to learn different practice and tools.
@@ -197,7 +197,7 @@
 
 ### Transportation
 
-- API: [Transport for Berlin, Germany (⭐125)](https://github.com/derhuerst/vbb-rest/blob/3/docs/index.md)
+- API: [Transport for Berlin, Germany (⭐133)](https://github.com/derhuerst/vbb-rest/blob/3/docs/index.md)
 
   Description: Third-party VBB API
 
@@ -224,17 +224,17 @@
 
 ### Audio Tools
 
-*   [matchering (⭐1.2k)](https://github.com/sergree/matchering) - сontainerized web application and library for automated reference audio mastering.
+*   [matchering (⭐1.9k)](https://github.com/sergree/matchering) - сontainerized web application and library for automated reference audio mastering.
 
 ## [7. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
 ### ASM / Music drivers and trackers
 
-*   [Game Boy Assembly Programming for the Modern Game Developer (⭐135)](https://github.com/ahrnbom/gbapfomgd) - An e-book about making Game Boy games in Assembly.
+*   [Game Boy Assembly Programming for the Modern Game Developer (⭐153)](https://github.com/ahrnbom/gbapfomgd) - An e-book about making Game Boy games in Assembly.
 
 ### ASM / Boilerplates and libraries
 
-*   [GingerBread (⭐118)](https://github.com/ahrnbom/gingerbread) - A software library for making your own Game Boy games. It is made to be used alongside the book [Game Boy Assembly Programming for the Modern Game Developer (⭐135)](https://github.com/ahrnbom/gbapfomgd) which also doubles as documentation.
+*   [GingerBread (⭐129)](https://github.com/ahrnbom/gingerbread) - A software library for making your own Game Boy games. It is made to be used alongside the book [Game Boy Assembly Programming for the Modern Game Developer (⭐153)](https://github.com/ahrnbom/gbapfomgd) which also doubles as documentation.
 
 ## [8. Awesome Preact](/content/preactjs/awesome-preact/README.md)
 
@@ -251,7 +251,7 @@
 ### Developer utilities / Third-party APIs
 
 *   [flight-recorder (⭐13)](https://github.com/vseloved/flight-recorder) - a robust REPL history facility.
-*   [cl-flamegraph (⭐71)](https://github.com/40ants/cl-flamegraph) - A wrapper around SBCL's statistical profiler, to generate FlameGraph charts for Common Lisp programs. [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
+*   [cl-flamegraph (⭐74)](https://github.com/40ants/cl-flamegraph) - A wrapper around SBCL's statistical profiler, to generate FlameGraph charts for Common Lisp programs. [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
 ---
 

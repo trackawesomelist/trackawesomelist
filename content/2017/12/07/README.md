@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 07, 2017
 
-6 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -25,13 +25,7 @@
 *   [Firefox Photon Design System Principles](http://design.firefox.com/photon/introduction/principles.html)
 *   [Nachos - Trello's Design System Principles](https://design.trello.com/principles)
 
-## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Projects Using Vue.js / Open Source
-
-*   [node-vue-template (⭐73)](https://github.com/mubaidr/node-vue-template) - A starter template for building complete application using Node.js (API) and Vue.js (SPA) with some included packages and configurations to help start the development quickly.
-
-## [5. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
+## [4. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
 
 ### Documentation
 
@@ -47,7 +41,7 @@
 *   [Heinz Kabutz](https://twitter.com/heinzkabutz) - Author of 250+ Java Specialists' Newsletters.
 *   [Jake Wharton](https://twitter.com/JakeWharton) - Square, Google, open source hacker.
 
-## [6. Awesome Ruby](/content/markets/awesome-ruby/README.md)
+## [5. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Email
 

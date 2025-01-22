@@ -8,15 +8,15 @@
 
 ## [1. Awesome Windows](/content/0pandadev/awesome-windows/README.md)
 
-### Utilities / Email
+### System Utilities
 
-*   [neohtop (⭐3.9k)](https://github.com/Abdenasser/neohtop) - A modern, cross-platform system monitor built on top of Svelte, Rust, and Tauri. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/opensource.svg)
+*   [neohtop (⭐4.7k)](https://github.com/Abdenasser/neohtop) - Modern system monitor built with Svelte and Rust. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg) ![star](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/star.svg)
 
 ## [2. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
 ### Templating
 
-*   🍰 [XlsView plugin (⭐0)](https://github.com/impronta48/cakephp-xlsview) - A view class to easily generate XLS using PHPSpreadsheet.
+*   [XlsView plugin (⭐0)](https://github.com/impronta48/cakephp-xlsview) - A view class to easily generate XLS using PHPSpreadsheet.
 
 ## [3. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 

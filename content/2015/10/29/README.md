@@ -66,7 +66,7 @@
 
 ### Testing
 
-*   [FluentAutomation (⭐233)](https://github.com/stirno/FluentAutomation) - Simple Fluent API for UI Automation
+*   [FluentAutomation (⭐235)](https://github.com/stirno/FluentAutomation) - Simple Fluent API for UI Automation
 
 ## [5. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
@@ -89,7 +89,7 @@
 ### DevOps Tools
 
 *   [Backup (⭐4.8k)](https://github.com/backup/backup) - Provides an elegant DSL in Ruby for performing backups on UNIX-like systems.
-*   [Chef (⭐7.5k)](https://github.com/chef/chef) - A systems integration framework, built to bring the benefits of configuration management to your entire infrastructure.
+*   [Chef (⭐7.6k)](https://github.com/chef/chef) - A systems integration framework, built to bring the benefits of configuration management to your entire infrastructure.
 *   [Logstash (⭐14k)](https://github.com/elastic/logstash) - Logs/event transport, processing, management, search.
 
 ### Documentation
@@ -98,7 +98,7 @@
 
 ### E-Commerce and Payments
 
-*   [Active Merchant (⭐4.5k)](https://github.com/activemerchant/active_merchant) - A simple payment abstraction library extracted from Shopify.
+*   [Active Merchant (⭐4.6k)](https://github.com/activemerchant/active_merchant) - A simple payment abstraction library extracted from Shopify.
 
 ### Ebook
 
@@ -106,7 +106,7 @@
 
 ### File Upload
 
-*   [Refile (⭐2.5k)](https://github.com/refile/refile) - A modern file upload library for Ruby applications, Refile is an attempt by CarrierWave's original author to fix the design mistakes and overengineering in CarrierWave.
+*   [Refile (⭐2.4k)](https://github.com/refile/refile) - A modern file upload library for Ruby applications, Refile is an attempt by CarrierWave's original author to fix the design mistakes and overengineering in CarrierWave.
 
 ### HTTP Clients and tools
 
@@ -114,7 +114,7 @@
 
 ### Mobile Development
 
-*   [fastlane (⭐39k)](https://github.com/fastlane/fastlane) - Connect all iOS deployment tools into one streamlined workflow.
+*   [fastlane (⭐40k)](https://github.com/fastlane/fastlane) - Connect all iOS deployment tools into one streamlined workflow.
 
 ### Search
 
@@ -122,7 +122,7 @@
 
 ### Third-party APIs
 
-*   [Pusher (⭐664)](https://github.com/pusher/pusher-http-ruby) - Ruby server library for the Pusher API.
+*   [Pusher (⭐665)](https://github.com/pusher/pusher-http-ruby) - Ruby server library for the Pusher API.
 
 ## [6. Awesome Refinerycms](/content/refinerycms-contrib/awesome-refinerycms/README.md)
 

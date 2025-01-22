@@ -10,8 +10,7 @@
 
 ### Components & Libraries / Frameworks
 
-*   [Vue-Low-Code (⭐359)](https://github.com/KlausSchaefers/vue-low-code) - Low Code toolkit that can generate VUE apps from Quant-UX prototypes
-*   [Figma-Low-Code (⭐677)](https://github.com/KlausSchaefers/figma-low-code) - Turns your Figma design into VUE applications.
+*   [Vue-Low-Code (⭐367)](https://github.com/KlausSchaefers/vue-low-code) - Low Code toolkit that can generate VUE apps from Quant-UX prototypes
 
 ## [2. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 
@@ -85,7 +84,7 @@ Webpage: <http://www5.kb.dk/en/dia/>
 ### Visualization / Mesh tools
 
 *   [yt](https://yt-project.org/) - Toolkit for analysis and visualization of volumetric data.
-    (Python, BSD, [GitHub (⭐431)](https://github.com/yt-project/yt))
+    (Python, BSD, [GitHub (⭐469)](https://github.com/yt-project/yt))
 
 ## [8. Awesome Lockpicking](/content/fabacab/awesome-lockpicking/README.md)
 
@@ -103,15 +102,15 @@ Webpage: <http://www5.kb.dk/en/dia/>
 
 ### Courses & Books & Blogs
 
-*   [Mastering Python for Finance (⭐380)](https://github.com/jamesmawm/mastering-python-for-finance-second-edition) - Sources codes for: Mastering Python for Finance, Second Edition.
+*   [Mastering Python for Finance (⭐405)](https://github.com/jamesmawm/mastering-python-for-finance-second-edition) - Sources codes for: Mastering Python for Finance, Second Edition.
 
 ### High Frequency Trading
 
-*   [High-Frequency-Trading-Model-with-IB (⭐2.4k)](https://github.com/jamesmawm/High-Frequency-Trading-Model-with-IB) - A high-frequency trading model using Interactive Brokers API with pairs and mean-reversion.
+*   [High-Frequency-Trading-Model-with-IB (⭐2.6k)](https://github.com/jamesmawm/High-Frequency-Trading-Model-with-IB) - A high-frequency trading model using Interactive Brokers API with pairs and mean-reversion.
 
 ## [11. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
-### People Investigations / Telegram
+### People Investigations / Steam
 
 *   [192 (UK)](http://www.192.com) - Search by person, business, address. Limited free info, premium data upsell.
 *   [411 (US)](http://www.411.com) - Search by person, phone number, address, and business. Limited free info, premium data upsell.
@@ -120,7 +119,7 @@ Webpage: <http://www5.kb.dk/en/dia/>
 *   [Canada411](http://www.canada411.ca) - Search by person, phone number, and business. Free.
 *   [Classmates](http://www.classmates.com) - High-school focused people search. Free acounts allow creating a profile and viewing other members. Premium account required to contact other members.
 *   [CrunchBase](http://www.crunchbase.com) - Business information database, with a focus on investment, acquisition, and executive data. Ancillary focus on market research and connecting founders and investors.
-*   [Family Search](https://familysearch.org) - Popular genealogy site. Free, but registration requried. Funded by The Church Of Jesus Christ of Latter-day Saints.
+*   [Family Search](https://familysearch.org) - Popular genealogy site. Free, but registration required. Funded by The Church Of Jesus Christ of Latter-day Saints.
 *   [Federal Bureau of Prisons - Inmate Locator (US)](http://www.bop.gov/inmateloc) - Search federal inmates incarcerated from 1982 to the present.
 *   [Fold3 (US Military Records)](http://www.fold3.com) - Search military records. Search filters limited with free access. Premium access requires subscription.
 *   [Genealogy Bank](http://www.genealogybank.com) - Premium data, free trial with credit card.
@@ -133,7 +132,7 @@ Webpage: <http://www5.kb.dk/en/dia/>
 *   [The National Archives (UK)](http://www.nationalarchives.gov.uk) - Search UK national archives.
 *   [White Pages (US)](http://www.whitepages.com) - People search. Limited free info, premium data upsell.
 
-### Company Research / Telegram
+### Company Research / Steam
 
 *   [Judyrecords](https://www.judyrecords.com/) - Free. Nationwide search of 400 million+ United States court cases.
 *   [UniCourt](https://unicourt.com/) - Limited free searches, premium data upsell. Nationwide search of 100 million+ United States court cases.

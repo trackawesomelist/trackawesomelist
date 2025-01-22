@@ -109,7 +109,7 @@
 
 ### Example Projects
 
-*   [Securing Spring Boot Admin & Actuator Endpoints with Keycloak (⭐58)](https://github.com/thomasdarimont/spring-boot-admin-keycloak-example)
+*   [Securing Spring Boot Admin & Actuator Endpoints with Keycloak (⭐59)](https://github.com/thomasdarimont/spring-boot-admin-keycloak-example)
 
 ## [7. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
@@ -122,9 +122,9 @@
 ### Web Programming • Libraries
 
 *   [lightgl.js (⭐1.5k)](https://github.com/evanw/lightgl.js) - A lightweight WebGL library.
-*   [picogl.js (⭐786)](https://github.com/tsherif/picogl.js) - A minimal WebGL 2 rendering library.
+*   [picogl.js (⭐790)](https://github.com/tsherif/picogl.js) - A minimal WebGL 2 rendering library.
 *   [Alfrid (⭐233)](https://github.com/yiwenl/Alfrid) - A WebGL tool set.
-*   [twigl (⭐2.6k)](https://github.com/greggman/twgl.js) - A Tiny WebGL helper Library.
+*   [twigl (⭐2.7k)](https://github.com/greggman/twgl.js) - A Tiny WebGL helper Library.
 *   [luma.gl (⭐2.3k)](https://github.com/uber/luma.gl) - WebGL2 Components for Data Visualization.
 
 ### Machine learning • Computer Vision • Ai / Other
@@ -134,7 +134,7 @@
 
 ### Related / Other
 
-*   [3D Machine Learning (⭐9.6k)](https://github.com/timzhang642/3D-Machine-Learning) - A resource repository for 3D machine learning.
+*   [3D Machine Learning (⭐9.8k)](https://github.com/timzhang642/3D-Machine-Learning) - A resource repository for 3D machine learning.
 
 ## [9. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
@@ -308,7 +308,7 @@
 
 ### Game
 
-*   [BEPUphysics (⭐2.3k)](https://github.com/bepu/bepuphysics2) - BEPUphysics is a pure C# 3D physics library
+*   [BEPUphysics (⭐2.5k)](https://github.com/bepu/bepuphysics2) - BEPUphysics is a pure C# 3D physics library
 
 ## [24. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
@@ -318,8 +318,8 @@
 
 ### Animation
 
-*   [Poi (⭐66)](https://github.com/HideakiTouhara/Poi) - Poi makes you use card UI like tinder UI .You can use it like tableview method.
-*   [TheAnimation (⭐224)](https://github.com/marty-suzuki/TheAnimation) - Type-safe CAAnimation wrapper. It makes preventing to set wrong type values.
+*   [Poi (⭐67)](https://github.com/HideakiTouhara/Poi) - Poi makes you use card UI like tinder UI .You can use it like tableview method.
+*   [TheAnimation (⭐223)](https://github.com/marty-suzuki/TheAnimation) - Type-safe CAAnimation wrapper. It makes preventing to set wrong type values.
 
 ### Date
 
@@ -331,7 +331,7 @@
 
 ### Alert / Barcode
 
-*   [SwiftEntryKit (⭐6.5k)](https://github.com/huri000/SwiftEntryKit) - A simple and versatile pop-up presenter.
+*   [SwiftEntryKit (⭐6.6k)](https://github.com/huri000/SwiftEntryKit) - A simple and versatile pop-up presenter.
 
 ## [25. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
@@ -347,18 +347,11 @@
 
 ## [27. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
-### Projects Using Vue.js / Open Source
-
-*   [Chattier](https://github.com/raniesantos/chattier) - SPA social network built with Laravel 5.6, Vue.js 2, and Bulma (Buefy components + Bulmaswatch themes). Also uses JWT authentication.
-
 ### Projects Using Vue.js / A11y
 
 *   [Vue A11y project](https://github.com/vue-a11y) - Vue.js community project to improve web accessibility.
-*   [vue-skip-to (⭐76)](https://github.com/vue-a11y/vue-skip-to) - It helps people who only use the keyboard to jump to what matters most.
-*   [vue-axe (⭐186)](https://github.com/vue-a11y/vue-axe) - Accessibility auditing for Vue.js applications.
-*   [eslint-plugin-vue-a11y (⭐160)](https://github.com/maranran/eslint-plugin-vue-a11y) - Static AST checker for accessibility rules on elements in .vue
-*   [vue-focus-lock (⭐136)](https://github.com/theKashey/vue-focus-lock) - It is a trap! A lock for a Focus. A11y util for scoping a focus.
-*   [vue-a11y-calendar (⭐253)](https://github.com/IBM/vue-a11y-calendar) - Accessible, internationalized Vue calendar.
+*   [vue-axe (⭐188)](https://github.com/vue-a11y/vue-axe) - Accessibility auditing for Vue.js applications.
+*   [vue-focus-lock (⭐140)](https://github.com/theKashey/vue-focus-lock) - It is a trap! A lock for a Focus. A11y util for scoping a focus.
 
 ## [28. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
 
@@ -371,7 +364,7 @@
 ### Ask these people anything!
 
 *   [Rishi Pithadiya (⭐1)](https://github.com/rishiip/ama) - Full-stack Ruby on Rails developer in India, open source enthusiast.
-*   [Byungjin Park (⭐14)](https://github.com/posquit0/ama) - Software Architect, DevOps Engineer, Hacker, Open Sourcer.
+*   [Byungjin Park (⭐15)](https://github.com/posquit0/ama) - Software Architect, DevOps Engineer, Hacker, Open Sourcer.
 
 ## [30. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
 
@@ -459,7 +452,7 @@
 
 ### Related projects / Syntax highlighting packages
 
-*   [Game Boy video effects (⭐5)](https://github.com/ChaosCabbage/crazy-gameboy-video-experiments) - Some little experiments using the STAT interrupt to do funny video manipulations.
+*   [Game Boy video effects (⭐6)](https://github.com/ChaosCabbage/crazy-gameboy-video-experiments) - Some little experiments using the STAT interrupt to do funny video manipulations.
 
 ## [36. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
 

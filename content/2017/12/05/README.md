@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 05, 2017
 
-8 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -12,20 +12,14 @@
 
 *   [Exploring the Physical Web (Without Buying Beacons)](https://medium.com/@urish/exploring-the-physical-web-without-buying-beacons-efae51e36c2e)
 
-## [2. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / UI Components
-
-*   [v-unicode](https://github.com/ndelvalle/v-unicode) - Vue directive to restrict an input by unicode values.
-
-## [3. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Concurrency
 
 *   [alpaka (⭐4)](https://github.com/ComputationalRadiationPhysics/alpaka) - Abstraction library for parallel kernel acceleration. \[LGPLv3+]
 *   [cupla (⭐4)](https://github.com/ComputationalRadiationPhysics/cupla) - C++ API to run CUDA/C++ on OpenMP, Threads, TBB, ... through Alpaka. \[LGPLv3+]
 
-## [4. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [3. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Authentication
 
@@ -33,15 +27,15 @@
 
 ### Examples and funny stuff
 
-*   [real world example app (⭐889)](https://github.com/gothinkster/elixir-phoenix-realworld-example-app) - Elixir / Phoenix implementation of [RealWorld.io](https://realworld.io/) backend specs - a Medium clone.
+*   [real world example app (⭐896)](https://github.com/gothinkster/elixir-phoenix-realworld-example-app) - Elixir / Phoenix implementation of [RealWorld.io](https://realworld.io/) backend specs - a Medium clone.
 
-## [5. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
+## [4. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
 ### Articles / iOS
 
-*   [Raspberry Pi A to Z List (⭐941)](https://github.com/wtsxDev/Raspberry-Pi) - Comprehensive list with links to common questions & pitfalls.
+*   [Raspberry Pi A to Z List (⭐944)](https://github.com/wtsxDev/Raspberry-Pi) - Comprehensive list with links to common questions & pitfalls.
 
-## [6. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
+## [5. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 
 ### Researchers / Conferences
 
@@ -57,13 +51,13 @@
 *   [ICCV - International Conference on Computer Vision](http://iccv2017.thecvf.com)
 *   [AAAI - Association for the Advancement of Artificial Intelligence](https://www.aaai.org)
 
-## [7. Awesome Healthcare](/content/kakoni/awesome-healthcare/README.md)
+## [6. Awesome Healthcare](/content/kakoni/awesome-healthcare/README.md)
 
 ### Contents / Imaging
 
 *   [Papaya (⭐534)](https://github.com/rii-mango/Papaya) - Pure JavaScript medical research image viewer.
 
-## [8. Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/README.md)
+## [7. Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/README.md)
 
 ### Extensions / JavaScript Profile
 

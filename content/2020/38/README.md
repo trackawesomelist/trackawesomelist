@@ -10,14 +10,13 @@
 
 ### Third-Party Packages / Editors
 
-*   [django-ckeditor (⭐2.4k)](https://github.com/shaunsephton/django-ckeditor) - Django admin CKEditor integration.
-*   [django-markdownx (⭐844)](https://github.com/adi-/django-markdownx) - Comprehensive Markdown plugin built for Django.
-*   [django-markdown-editor (⭐806)](https://github.com/agusmakmun/django-markdown-editor) - Awesome Django Markdown Editor, supported for Bootstrap & Semantic-UI.
+*   [django-markdownx (⭐864)](https://github.com/adi-/django-markdownx) - Comprehensive Markdown plugin built for Django.
+*   [django-markdown-editor (⭐840)](https://github.com/agusmakmun/django-markdown-editor) - Awesome Django Markdown Editor, supported for Bootstrap & Semantic-UI.
 
 ### Python Packages / Views
 
 *   [faker (⭐18k)](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you.
-*   [python-decouple (⭐2.8k)](https://github.com/henriquebastos/python-decouple) - Strict separation of settings from code.
+*   [python-decouple (⭐2.9k)](https://github.com/henriquebastos/python-decouple) - Strict separation of settings from code.
 
 ## [2. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
@@ -29,7 +28,7 @@
 
 ### Accounting / Bookkeeping
 
-*   [Sequence (⭐487)](https://github.com/decimals/sequence) - API that store, validate and reports asset movements. Also known as a Ledger. Sequence is immutable, scalable, and easy to use.
+*   [Sequence (⭐493)](https://github.com/decimals/sequence) - API that store, validate and reports asset movements. Also known as a Ledger. Sequence is immutable, scalable, and easy to use.
 
 ## [4. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
@@ -45,7 +44,7 @@
 
 ### AppImage developer tools / Deployment tools for Python applications
 
-*   [PyAppImage (⭐16)](https://github.com/srevinsaju/pyappimage) - Ultimately simple python-to-appimage bundler.
+*   [PyAppImage (⭐19)](https://github.com/srevinsaju/pyappimage) - Ultimately simple python-to-appimage bundler.
 
 ## [6. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
@@ -80,20 +79,20 @@
 
 ### Tools / Linters
 
-*   [flake8-annotations (⭐155)](https://github.com/sco1/flake8-annotations) - Plugin for flake8 to check for presence of type annotations in function definitions.
+*   [flake8-annotations (⭐156)](https://github.com/sco1/flake8-annotations) - Plugin for flake8 to check for presence of type annotations in function definitions.
 
 ## [11. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
 
 ### Python / Data Sources
 
-*   [iexfinance (⭐649)](https://github.com/addisonlynch/iexfinance) - Python Interface for retrieving real-time and historical prices and equities data from The Investor's Exchange.
-*   [pyEX (⭐407)](https://github.com/timkpaine/pyEX) - Python interface to IEX with emphasis on pandas, support for streaming data, premium data, points data (economic, rates, commodities), and technical indicators.
+*   [iexfinance (⭐648)](https://github.com/addisonlynch/iexfinance) - Python Interface for retrieving real-time and historical prices and equities data from The Investor's Exchange.
+*   [pyEX (⭐408)](https://github.com/timkpaine/pyEX) - Python interface to IEX with emphasis on pandas, support for streaming data, premium data, points data (economic, rates, commodities), and technical indicators.
 
 ## [12. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### GDScript/C# editor support / Godot version unknown
 
-*   [JetBrains Rider (C#) (⭐369)](https://github.com/JetBrains/godot-support) - Syntax highlighting, autocompletion and run configurations.
+*   [JetBrains Rider (C#) (⭐409)](https://github.com/JetBrains/godot-support) - Syntax highlighting, autocompletion and run configurations.
 
 ## [13. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
 
@@ -109,7 +108,7 @@
 
 ### Starters & Themes
 
-*   🚀 [Eleventy Starter (⭐263)](https://github.com/ixartz/Eleventy-Starter-Boilerplate/) - Production-ready, SEO-friendly blog starter using Tailwind CSS.
+*   🚀 [Eleventy Starter (⭐270)](https://github.com/ixartz/Eleventy-Starter-Boilerplate/) - Production-ready, SEO-friendly blog starter using Tailwind CSS.
 
 ## [15. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
@@ -165,7 +164,7 @@
 
 ### Tools & Software / Replay
 
-*   [OpenWayback (⭐469)](https://github.com/iipc/openwayback/) - The open source project aimed to develop Wayback Machine, the key software used by web archives worldwide to play back archived websites in the user's browser. *(Stable)*
+*   [OpenWayback (⭐490)](https://github.com/iipc/openwayback/) - The open source project aimed to develop Wayback Machine, the key software used by web archives worldwide to play back archived websites in the user's browser. *(Stable)*
 
 ### Community Resources / Blogs and Scholarship
 
@@ -181,7 +180,13 @@
 
 *   [Laravel Views (⭐493)](https://github.com/Gustavinho/laravel-views) - Laravel package to create beautiful common views like data tables using the TALL stack.
 
-## [24. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
+## [24. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/week/README.md)
+
+### Websites
+
+*   Web App Rater - <https://webapprater.com/submit-your-web-application-for-review-html>
+
+## [25. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
 ### Maps in the Wild
 
@@ -189,14 +194,6 @@
 *   [The What, The Why and Some How of Wardley Mapping](https://www.infoq.com/presentations/interview-wardley-maps/) - A conversation with Simon Wardley. Aug 4, 2020.
 *   [Doctrine or Dogma?](https://medium.com/swlh/doctrine-or-dogma-2abeaef0cbc7) - Challenge your Wardley mapping assumptions in a friendly way. Aug 2, 2020.
 *   [Estratégia com Wardley Maps](https://targetteal.com/pt/blog/estrategia-wardley-maps/) - Jun 7, 2020.
-
-## [25. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/week/README.md)
-
-### Websites
-
-*   Emoji Launch - <https://emojilaunch.com/>
-*   Springwise - <https://www.springwise.com/spotted/>
-*   Web App Rater - <https://webapprater.com/submit-your-web-application-for-review-html>
 
 ## [26. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
@@ -274,7 +271,7 @@
 ### Communications / Cryptography
 
 *   [mpyaes (⭐27)](https://github.com/iyassou/mpyaes) - MicroPython module for AES encryption.
-*   [micropython-aes (⭐17)](https://github.com/piaca/micropython-aes) - AES algorithm with pure python implementation.
+*   [micropython-aes (⭐19)](https://github.com/piaca/micropython-aes) - AES algorithm with pure python implementation.
 
 ### Communications / RTC
 
@@ -286,13 +283,13 @@
 
 ### Display / GUI
 
-*   [lvgl (⭐241)](https://github.com/lvgl/lv_binding_micropython) - An object-oriented, component-based high-level GUI library with MicroPython binding.
-*   [micropython-lcd160cr-gui (⭐28)](https://github.com/peterhinch/micropython-lcd160cr-gui) - Simple touch-driven event based GUI for the Pyboard and LCD160CR colour display.
-*   [micropython\_ra8875 (⭐9)](https://github.com/peterhinch/micropython_ra8875) - MicroPython device driver and nano-GUI for RA8875 based displays.
+*   [lvgl (⭐274)](https://github.com/lvgl/lv_binding_micropython) - An object-oriented, component-based high-level GUI library with MicroPython binding.
+*   [micropython-lcd160cr-gui (⭐31)](https://github.com/peterhinch/micropython-lcd160cr-gui) - Simple touch-driven event based GUI for the Pyboard and LCD160CR colour display.
+*   [micropython\_ra8875 (⭐11)](https://github.com/peterhinch/micropython_ra8875) - MicroPython device driver and nano-GUI for RA8875 based displays.
 
 ### Sensors / Camera
 
-*   [micropython-camera-driver (⭐434)](https://github.com/lemariva/micropython-camera-driver) - OV2640 camera driver for MicroPython on ESP32.
+*   [micropython-camera-driver (⭐481)](https://github.com/lemariva/micropython-camera-driver) - OV2640 camera driver for MicroPython on ESP32.
 
 ### Sensors / Temperature Digital
 
@@ -302,12 +299,12 @@
 
 ### Frameworks / SRAM
 
-*   [micrOS (⭐95)](https://github.com/BxNxM/micrOS) - MicroPython-based IoT Framework.
-*   [terkin-datalogger (⭐58)](https://github.com/hiveeyes/terkin-datalogger) - Flexible data logger application for MicroPython and CPython.
+*   [micrOS (⭐112)](https://github.com/BxNxM/micrOS) - MicroPython-based IoT Framework.
+*   [terkin-datalogger (⭐60)](https://github.com/hiveeyes/terkin-datalogger) - Flexible data logger application for MicroPython and CPython.
 
 ### Code Generation / SRAM
 
-*   [micropy-stubs (⭐29)](https://github.com/BradenM/micropy-stubs) - Automatically Generated Stub Packages for Micropy-Cli and whomever else.
+*   [micropy-stubs (⭐30)](https://github.com/BradenM/micropy-stubs) - Automatically Generated Stub Packages for Micropy-Cli and whomever else.
 
 ## [31. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
 
@@ -326,20 +323,20 @@
 
 ### Python / Data Analysis / Data Visualization
 
-*   [ParaMonte (⭐254)](https://github.com/cdslaborg/paramonte) - A general-purpose Python library for Bayesian data analysis and visualization via serial/parallel Monte Carlo and MCMC simulations. Documentation can be found [here](https://www.cdslab.org/paramonte/).
+*   [ParaMonte (⭐275)](https://github.com/cdslaborg/paramonte) - A general-purpose Python library for Bayesian data analysis and visualization via serial/parallel Monte Carlo and MCMC simulations. Documentation can be found [here](https://www.cdslab.org/paramonte/).
 
 ### Fortran / General-Purpose Machine Learning
 
-*   [neural-fortran (⭐390)](https://github.com/modern-fortran/neural-fortran) - A parallel neural net microframework.
+*   [neural-fortran (⭐411)](https://github.com/modern-fortran/neural-fortran) - A parallel neural net microframework.
     Read the paper [here](https://arxiv.org/abs/1902.06714).
 
 ### Python / Natural Language Processing
 
-*   [Pattern (⭐8.7k)](https://github.com/clips/pattern) - A web mining module for the Python programming language. It has tools for natural language processing, machine learning, among others.
+*   [Pattern (⭐8.8k)](https://github.com/clips/pattern) - A web mining module for the Python programming language. It has tools for natural language processing, machine learning, among others.
 
 ### Python / General-Purpose Machine Learning
 
-*   [skorch (⭐5.7k)](https://github.com/skorch-dev/skorch) - A scikit-learn compatible neural network library that wraps PyTorch.
+*   [skorch (⭐5.9k)](https://github.com/skorch-dev/skorch) - A scikit-learn compatible neural network library that wraps PyTorch.
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
@@ -403,7 +400,7 @@
 
 ### Cloud Infrastructure and Management
 
-*   [k8s (⭐315)](https://github.com/coryodaniel/k8s) - Kubernetes Elixir client with CRD support, multi-cluster support, pluggable auth, and configurable middleware.
+*   [k8s (⭐321)](https://github.com/coryodaniel/k8s) - Kubernetes Elixir client with CRD support, multi-cluster support, pluggable auth, and configurable middleware.
 
 ## [41. Awesome Mysql](/content/shlomi-noach/awesome-mysql/week/README.md)
 
@@ -448,7 +445,7 @@
 
 ### Application Frameworks
 
-*   [Newbe.Claptrap (⭐215)](https://github.com/newbe36524/Newbe.Claptrap) - This is a set of server-side development frameworks with reactive, event sourcing and Actor pattern as basic theories. On top of this, developers can develop "distributed", "scale out", and "easy to test" application more simply.
+*   [Newbe.Claptrap (⭐216)](https://github.com/newbe36524/Newbe.Claptrap) - This is a set of server-side development frameworks with reactive, event sourcing and Actor pattern as basic theories. On top of this, developers can develop "distributed", "scale out", and "easy to test" application more simply.
 
 ### Authentication and Authorization
 
@@ -456,7 +453,7 @@
 
 ### Build Automation
 
-*   [MSBuild (⭐5.2k)](https://github.com/dotnet/msbuild) - The Microsoft Build Engine (MSBuild) is the build platform for .NET and Visual Studio
+*   [MSBuild (⭐5.3k)](https://github.com/dotnet/msbuild) - The Microsoft Build Engine (MSBuild) is the build platform for .NET and Visual Studio
 
 ### Code Snippets
 
@@ -468,17 +465,17 @@
 
 ### Graphics
 
-*   [Silk.NET (⭐4k)](https://github.com/Ultz/Silk.NET) - A cross-platform, high-performance, low-level .NET Standard wrapper for many advanced APIs such as OpenGL, OpenCL, OpenAL, OpenXR, Assimp, GLFW, as well as many others. In addition to wrapping over Native APIs, it also comes with its own Windowing and Input abstraction. This makes game and application development with Silk.NET a breeze, and has pretty much everything a 3D application developer would need.
-*   [RealTimeGraphX (⭐213)](https://github.com/royben/RealTimeGraphX) - RealTimeGraphX is a data type agnostic, high performance plotting library for WPF, UWP and soon, Xamarin Forms.
+*   [Silk.NET (⭐4.3k)](https://github.com/Ultz/Silk.NET) - A cross-platform, high-performance, low-level .NET Standard wrapper for many advanced APIs such as OpenGL, OpenCL, OpenAL, OpenXR, Assimp, GLFW, as well as many others. In addition to wrapping over Native APIs, it also comes with its own Windowing and Input abstraction. This makes game and application development with Silk.NET a breeze, and has pretty much everything a 3D application developer would need.
+*   [RealTimeGraphX (⭐219)](https://github.com/royben/RealTimeGraphX) - RealTimeGraphX is a data type agnostic, high performance plotting library for WPF, UWP and soon, Xamarin Forms.
 
 ### GUI
 
-*   [Lara (⭐149)](https://github.com/integrativesoft/lara) - Lara Web Engine is a library for developing Web user interfaces in C#
+*   [Lara (⭐155)](https://github.com/integrativesoft/lara) - Lara Web Engine is a library for developing Web user interfaces in C#
 *   [Empty Keys UI](https://www.emptykeys.com/ui_library/) - Multi-platform and multi-engine XAML based user interface library **\[Free]\[Proprietary]**
 
 ### Internationalization
 
-*   [ResX Resource Manager (⭐1.3k)](https://github.com/dotnet/ResXResourceManager) - The most popular free tool to localize all kind of applications with resx-based resources.
+*   [ResX Resource Manager (⭐1.4k)](https://github.com/dotnet/ResXResourceManager) - The most popular free tool to localize all kind of applications with resx-based resources.
 
 ### Interoperability
 
@@ -486,7 +483,7 @@
 
 ### Mathematics
 
-*   [MKL.NET (⭐160)](https://github.com/AnthonyLloyd/MKL.NET) - A simple cross platform .NET API for Intel MKL.
+*   [MKL.NET (⭐169)](https://github.com/AnthonyLloyd/MKL.NET) - A simple cross platform .NET API for Intel MKL.
 
 ### Misc
 
@@ -507,39 +504,39 @@
 
 ### Reactive Programming
 
-*   [Dynamic Data (⭐1.7k)](https://github.com/reactivemarbles/DynamicData) - Reactive Extensions (Rx) for collections
+*   [Dynamic Data (⭐1.8k)](https://github.com/reactivemarbles/DynamicData) - Reactive Extensions (Rx) for collections
 
 ### Serialization
 
-*   [ProtoBuf (⭐303)](https://github.com/SilentOrbit/protobuf) - Generate C# code for protocol buffer serialization from a .proto specification.
+*   [ProtoBuf (⭐309)](https://github.com/SilentOrbit/protobuf) - Generate C# code for protocol buffer serialization from a .proto specification.
 
 ### Template Engine
 
-*   [Scriban (⭐3.1k)](https://github.com/lunet-io/scriban) - A fast, powerful, safe and lightweight text templating language and engine for .NET
+*   [Scriban (⭐3.3k)](https://github.com/lunet-io/scriban) - A fast, powerful, safe and lightweight text templating language and engine for .NET
 
 ### Testing
 
-*   [Verify (⭐2.4k)](https://github.com/VerifyTests/Verify) - Verification tool to enable simple approval of complex models and documents.
+*   [Verify (⭐3k)](https://github.com/VerifyTests/Verify) - Verification tool to enable simple approval of complex models and documents.
 
 ### Tools
 
 *   [Open Live Writer (⭐2.5k)](https://github.com/OpenLiveWriter/OpenLiveWriter) - Blog writer which integrated with WordPress, Blogger, et. al. Open Live Writer makes it easy to write, preview, and post to your blog.
-*   [Papercut (⭐2.9k)](https://github.com/ChangemakerStudios/Papercut-SMTP) - Papercut is an open source (.NET based) test email viewer that runs locally with a built-in SMTP server designed to receive and notify of test email messages.
+*   [Papercut (⭐3k)](https://github.com/ChangemakerStudios/Papercut-SMTP) - Papercut is an open source (.NET based) test email viewer that runs locally with a built-in SMTP server designed to receive and notify of test email messages.
 *   [SmartCode (⭐573)](https://github.com/dotnetcore/SmartCode) - SmartCode = IDataSource -> IBuildTask -> IOutput => Build Everything!!! (Including \[**Code generator**])
 
 ### UI Automation
 
-*   [FlaUI (⭐2.2k)](https://github.com/FlaUI/FlaUI) - FlaUI is a .NET library which helps with automated UI testing of Windows applications (Win32, WinForms, WPF, Store Apps, ...).
-*   [PuppeteerSharp (⭐3.3k)](https://github.com/hardkoded/puppeteer-sharp) - Puppeteer Sharp is a .NET port of the official Node.JS Puppeteer API.
-*   [PuppeteerSharp.Contrib (⭐82)](https://github.com/hlaueriksson/puppeteer-sharp-contrib) - Contributions to Puppeteer Sharp that provides a convenient way to write readable and robust browser tests.
+*   [FlaUI (⭐2.3k)](https://github.com/FlaUI/FlaUI) - FlaUI is a .NET library which helps with automated UI testing of Windows applications (Win32, WinForms, WPF, Store Apps, ...).
+*   [PuppeteerSharp (⭐3.5k)](https://github.com/hardkoded/puppeteer-sharp) - Puppeteer Sharp is a .NET port of the official Node.JS Puppeteer API.
+*   [PuppeteerSharp.Contrib (⭐83)](https://github.com/hlaueriksson/puppeteer-sharp-contrib) - Contributions to Puppeteer Sharp that provides a convenient way to write readable and robust browser tests.
 
 ### Visual Studio Plugins
 
-*   [VsVIM (⭐3.6k)](https://github.com/VsVim/VsVim) - VIM in Visual Studio
+*   [VsVIM (⭐3.7k)](https://github.com/VsVim/VsVim) - VIM in Visual Studio
 
 ### Parser Library
 
-*   [CSLY (⭐357)](https://github.com/b3b00/CSLY) - A light embedded C# lexer/parser generator.
+*   [CSLY (⭐381)](https://github.com/b3b00/CSLY) - A light embedded C# lexer/parser generator.
 
 ## [47. Public Apis](/content/public-apis/public-apis/week/README.md)
 
@@ -561,7 +558,7 @@
 
 ### Utilities / Game Engine resources
 
-*   [FlutterGen (⭐1.4k)](https://github.com/FlutterGen/flutter_gen) <!--stargazers:FlutterGen/flutter_gen--> - Assets code generator for your images, fonts, colors, etc — Get rid of String-based APIs.
+*   [FlutterGen (⭐1.5k)](https://github.com/FlutterGen/flutter_gen) <!--stargazers:FlutterGen/flutter_gen--> - Assets code generator for your images, fonts, colors, etc — Get rid of String-based APIs.
 
 ### Bangladesh / Misc
 
@@ -586,17 +583,17 @@
 
 ### GitHub Tools and Management / Docker Container Actions
 
-*   [GitHub Codeowners Validator (⭐141)](https://github.com/mszostok/codeowners-validator) - Ensures the correctness of your GitHub CODEOWNERS file. It supports public and private GitHub repositories and also GitHub Enterprise installations.
+*   [GitHub Codeowners Validator (⭐217)](https://github.com/mszostok/codeowners-validator) - Ensures the correctness of your GitHub CODEOWNERS file. It supports public and private GitHub repositories and also GitHub Enterprise installations.
 
 ### Utility / Docker Container Actions
 
-*   [Paths Filter (⭐798)](https://github.com/dorny/paths-filter) - Conditionally run actions based on files modified by PR, feature branch or pushed commits.
+*   [Paths Filter (⭐2.1k)](https://github.com/dorny/paths-filter) - Conditionally run actions based on files modified by PR, feature branch or pushed commits.
 
 ## [51. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### APL
 
-*   [April (⭐593)](https://github.com/phantomics/april) - The APL programming language (a subset thereof) compiling to Common Lisp. Replace hundreds of lines of number-crunching code with a single line of APL. [Apache2](https://directory.fsf.org/wiki/License:Apache2.0).
+*   [April (⭐615)](https://github.com/phantomics/april) - The APL programming language (a subset thereof) compiling to Common Lisp. Replace hundreds of lines of number-crunching code with a single line of APL. [Apache2](https://directory.fsf.org/wiki/License:Apache2.0).
 
 ### Iteration
 
@@ -604,39 +601,39 @@
 
 ### Non-deterministic, logic programming
 
-*   [Temperance (⭐56)](https://github.com/sjl/temperance) - logic programming. [MIT](https://opensource.org/licenses/MIT). A focus on performance, with General Game Playing in mind.
+*   [Temperance (⭐59)](https://github.com/sjl/temperance) - logic programming. [MIT](https://opensource.org/licenses/MIT). A focus on performance, with General Game Playing in mind.
 
 ### Community / Interfaces to other package managers
 
-*   🚀 [sparser (⭐53)](https://github.com/ddmcdonald/sparser) - A natural language understanding system for English. [Eclipse](http://www.eclipse.org/legal/epl-v10.html).
+*   🚀 [sparser (⭐58)](https://github.com/ddmcdonald/sparser) - A natural language understanding system for English. [Eclipse](http://www.eclipse.org/legal/epl-v10.html).
     *   > a model-driven, rule-based language text analysis system for large volume, high-precision information extraction. At its heart, Sparser is a bottom-up, phrase-structure-based chart parser, optimized for semantic grammars and partial parsing.
 
 ### HTTP Servers / Hunchentoot plugins
 
-*   👍 [easy-routes (⭐55)](https://github.com/mmontone/easy-routes) - a routes handling system on top of Hunchentoot. It supports dispatch based on HTTP method, arguments extraction from the url path, decorators, url generation from route name, etc. [MIT](https://opensource.org/licenses/MIT).
+*   👍 [easy-routes (⭐59)](https://github.com/mmontone/easy-routes) - a routes handling system on top of Hunchentoot. It supports dispatch based on HTTP method, arguments extraction from the url path, decorators, url generation from route name, etc. [MIT](https://opensource.org/licenses/MIT).
 
 ### Job processing / Third-party APIs
 
-*   [one-more-re-nightmare (⭐137)](https://github.com/no-defun-allowed/one-more-re-nightmare) - a fast-ish regular expression compiler in Common Lisp. [BSD\_2Clause](https://directory.fsf.org/wiki/License:BSD_2Clause).
+*   [one-more-re-nightmare (⭐142)](https://github.com/no-defun-allowed/one-more-re-nightmare) - a fast-ish regular expression compiler in Common Lisp. [BSD\_2Clause](https://directory.fsf.org/wiki/License:BSD_2Clause).
 
 ### Shells, shells interfaces / Third-party APIs
 
-*   [Clesh (⭐68)](https://github.com/Neronus/Clesh) - extends Common Lisp to embed shell code in a manner similar to perl's backtick. [FreeBSD](https://directory.fsf.org/wiki?title=License:FreeBSD).
+*   [Clesh (⭐70)](https://github.com/Neronus/Clesh) - extends Common Lisp to embed shell code in a manner similar to perl's backtick. [FreeBSD](https://directory.fsf.org/wiki?title=License:FreeBSD).
 
 ### Apps / Third-party APIs
 
-*   [cl-yacc (⭐58)](https://github.com/jech/cl-yacc) - a LALR(1) parser generator. [MIT](https://opensource.org/licenses/MIT).
+*   [cl-yacc (⭐57)](https://github.com/jech/cl-yacc) - a LALR(1) parser generator. [MIT](https://opensource.org/licenses/MIT).
 *   [cl-shlex (⭐8)](https://github.com/ruricolist/cl-shlex/) - simple lexical analyzer for shell-like syntaxes. [MIT](https://opensource.org/licenses/MIT).
-*   [smug (⭐107)](https://github.com/drewc/smug) - parser combinators for Common Lisp. SMUG makes it simple to create quick extensible recursive descent parsers without funky syntax or impenetrable macrology. [MIT](https://opensource.org/licenses/MIT).
+*   [smug (⭐108)](https://github.com/drewc/smug) - parser combinators for Common Lisp. SMUG makes it simple to create quick extensible recursive descent parsers without funky syntax or impenetrable macrology. [MIT](https://opensource.org/licenses/MIT).
 
 ### i18n / Third-party APIs
 
-*   [gettext (⭐11)](https://github.com/rotatef/gettext) -  a port of the gettext runtime to Common Lisp. [GPL3](http://www.gnu.org/copyleft/gpl.html).
+*   [gettext (⭐12)](https://github.com/rotatef/gettext) -  a port of the gettext runtime to Common Lisp. [GPL3](http://www.gnu.org/copyleft/gpl.html).
 
 ### Linting, code formatting / Third-party APIs
 
-*   [sblint (⭐119)](https://github.com/fukamachi/sblint) - a linter for Common Lisp source code using SBCL, suited for Reviewdog ([slides](http://www.slideshare.net/fukamachi/sblint)). [BSD\_2Clause](https://directory.fsf.org/wiki/License:BSD_2Clause).
-*   [trivial-formatter (⭐38)](https://github.com/hyotang666/trivial-formatter) - code formatter for Common Lisp. [MIT](https://opensource.org/licenses/MIT).
+*   [sblint (⭐122)](https://github.com/fukamachi/sblint) - a linter for Common Lisp source code using SBCL, suited for Reviewdog ([slides](http://www.slideshare.net/fukamachi/sblint)). [BSD\_2Clause](https://directory.fsf.org/wiki/License:BSD_2Clause).
+*   [trivial-formatter (⭐40)](https://github.com/hyotang666/trivial-formatter) - code formatter for Common Lisp. [MIT](https://opensource.org/licenses/MIT).
 
 ## [52. Awesome Earth](/content/philsturgeon/awesome-earth/week/README.md)
 
@@ -644,20 +641,17 @@
 
 *   [1% for the Planet](https://www.onepercentfortheplanet.org/) - A membership program for businesses and individuals, allowing them to donate 1% of their gross yearly profits or salary back to environmental nonprofits to create a healthier planet.
 *   [Climworks](http://climeworkspioneers.refr.cc/philsturgeon) - Climeworks Direct Air Capture technology captures CO₂ from air, mixes the CO₂ with water used by a geothermal energy plant, then pumps it deep underground. Through natural processes, the CO₂ reacts with the basaltic rock – and turns into stone within a few years, permanently and safely. Iceland is one of several locations around the world that provide ideal conditions for our pioneering process. Subscribe monthly to offset a little bit of your footprint, and support the growth of this early stage technology.
-*   [GreenMovi](https://www.greenmovi.com.br) - Earn discount coupons anytime, just download the app available for Android and iOS platforms, register, and use it every time you use a non-polluting means of transport and be rewarded with Carb Points.
-*   [Mijn Impact](https://www.mijnimpact.app/) - Discover the effect of your choices. The app that provides easy insight into the CO2 impact of your purchases - and challenges you to reduce your impact with personal goals.
 *   [Possible](https://www.wearepossible.org/) - Combining individual and local actions with larger systemic change, we face our climate dread with a can-do attitude and sense of fun. Possible are tackling the climate crisis by inspiring people to act in 5 key areas - eat & buy, travel, energy, nature and talking.
 *   [The National Grid ESO](https://www.nationalgrideso.com/news/introducing-our-carbon-intensity-app) - Monitor the generation types that make up your electricity supply and see when the cleanest time to use electricity will be. See the carbon impact level of electricity generation, how your region compares to others in the UK and be notified when a record towards decarbonisation breaks.
 
 ### Reforestation
 
 *   [Ecologi](https://ecologi.com/?r=5d01f2ed12ae7a358b75fdd7) - Help the planet from your sofa, for less than a cheap bottle of wine per month. Watch your own forest come to life and offset your entire footprint for $6.50/€6 per-month. Then get your friends, family, business, and even your dog signed up!
-*   [Droneseed](https://www.droneseed.co/) - They plant native trees & vegetation using drone swarms and spray to protect them. Provide valuable insights to customers by collecting data in the field. Work with governments, nonprofits, and private land owners as a service provider.
 *   [EcoTree](https://ecotree.green/) - Support the European forests and reap the benefits. Plant trees as an original and meaningful gift. Building complex, resistant, and multifunctional forests to promote resilience. For every tree harvested, three new ones are planted.
 *   [Land Life Company](https://landlifecompany.com/) - Using drones and automated planting, they plant at scale in urban environments using a fraction of the water. Their mission is to reforest the world’s 2 billion hectares of degraded land.
 *   [Tree-Nation](https://tree-nation.com/) - With Tree-Nation you can plant trees everywhere, even in the most remote locations. You will know who is planting your trees, where they are located and how they are being planted.
 *   [Treeware](https://treeware.earth) - Loads of open-source developers have a "Buy me a coffee" button on their software. Now you can have "Buy me a tree!" on your GitHub repository. Get the same "Yay somebody cares about my work" AND lessen the existential dread all in one. Powered by [Offset Earth](https://offset.earth/).
-*   [WeForest](https://www.weforest.org/) - WeForest empowers communities to advance and implement innovative, high standard, scalable and lasting solutions to restore forest landscapes
+*   [WeForest](https://www.weforest.org/) - WeForest empowers communities to advance and implement innovative, high standard, scalable and lasting solutions to restore forest landscapes.
 
 ### Finance
 
@@ -688,27 +682,27 @@
 *   [Allbirds](https://www.allbirds.com/) - Our shoes are made with merino wool, tencel made from rainfall-fed FSC-certified eucalyptus forests, recycled plastic bottles (for laces), 'Sweetfoam' soles made from castor bean oil and [ProForest](https://proforest.net/en)-protected sugarcane. At 7.6 kg per pair for our wool runners, our process uses 60% less energy than materials used in typical synthetic shoes. We offset the rest, making Allbirds a carbon-neutral business.
 *   [Bam - Bamboo Clothing](https://bambooclothing.co.uk/) - Bamboo clothing company that are entirely dedicated to sustainability beyond purely carbon emissions, they're aiming for zero chemical pollution, zero waste to landfill, zero deforestation in their suppliers (and their suppliers, and *their* suppliers...) and zero water wasted. They've got active wear, casual wear, underwear, gift cards for birthdays, the whole thing.
 *   [Boody Eco Wear Essentials](https://boody.co.uk) - Everyday essentials made from hypoallergenic and breathable FSC-certified bamboo viscose yarn, OEKO-TEX 100 certified organic by Ecocert.
-*   [Cariuma](https://cariuma.com/) - Old-School sneakers, new school ethics. Cariuma's sneakers are handcrafted with premium natural materials, an obsessive eye for detail, and a conscious mind. They care deeply about our craftsmen, and ensure that they earn fair wages and experience safe working conditions.  Some of their shoes are carbon *negative*, and they are committed to carbon-neutral shipping processes, which they do by purchasing carbon offsets for each shipment.
+*   [Cariuma](https://cariuma.com/) - Old-School sneakers, new school ethics. Cariuma's sneakers are handcrafted with premium natural materials, an obsessive eye for detail, and a conscious mind. They care deeply about our craftsmen, and ensure that they earn fair wages and experience safe working conditions. Some of their shoes are carbon *negative*, and they are committed to carbon-neutral shipping processes, which they do by purchasing carbon offsets for each shipment.
 *   [Knowledge Cotton Apparel](https://knowledgecottonapparel.com) - Clothing made from certified organic cotton, recycled PET, linen, wool, tencel, and recycled nylon sent via certified carbon neutral shipping in recyclable packaging.
 *   [Kushel](https://www.kushel.de) - Our bathrobes and towels are made from reforested beech wood and organic cotton, made in Portugal. Sourced from FSC-certified reforested forestry operations in Europe without irrigation. This mix needs 90% less water and emits 44% less CO2. By planting 2 trees for each towel and by compensating the carbon emissions and blue-water usage, we are a climate & resource positive textile brand, and the first certified B corporation in Germany.
-*   [Loop A Life - 100% Circular Fashion](https://loopalife.com/) - This circular textile award winning brand sets the new standard by clothing from local raw salvaged materials, recycling them without any chemicals, generating no wastewater, recycling their own products at end-of-life, researching and developing new ways to develop circular products.  They organize local sorting campaigns, workshops, collection campaigns, and facilitate other fashion companies in their circular transition.  Each sweater saves 500 liters of water, 60mJ of energy, uses zero chemicals, and saves at least 6kg of C02 emissions (when compared to traditional manufacturing).
-*   [Lost in Samsara - Bags, Jewelry, and Accessories](https://www.lostinsamsara.co.uk) - Stylish products produced ethically from upcycled materials.  Bags made from cement bags, tires, and jewelry made from upcycled bullet casings.
-*   [Norm Shoes](https://norm.shoes/) - Our shoes are made from 90% recycled materials: recycled polyester (6 plastic bottles per pair), recycled rubber, and fairtrade rubber.  The impact for one pair of Norm shoes is only 6,5 kg of CO2 equivalent (80% lower than the industry average). We partner with a Belgian NGO, Graine de Vie, to plant two trees in Madagascar for each pair we sell and we offset our emissions as well.
-*   [Runamics Running & Sports Gear](https://www.runamics.com) - Crowd-funded for-purpose eco-friendly alternatives to traditional sports gear. We combine merino wool with wood-based cellulosic fibres like Lyocell. We make experiments with highly innovative fibres like biodegradable elastic fibres or “polyester-like” substitutes.  WE're climate neutral always working to reduce our footprint, use plastic-free packaging and ship globally with DHL GoGreen.
+*   [Loop A Life - 100% Circular Fashion](https://loopalife.com/) - This circular textile award winning brand sets the new standard by clothing from local raw salvaged materials, recycling them without any chemicals, generating no wastewater, recycling their own products at end-of-life, researching and developing new ways to develop circular products. They organize local sorting campaigns, workshops, collection campaigns, and facilitate other fashion companies in their circular transition. Each sweater saves 500 liters of water, 60mJ of energy, uses zero chemicals, and saves at least 6kg of C02 emissions (when compared to traditional manufacturing).
+*   [Lost in Samsara - Bags, Jewelry, and Accessories](https://www.lostinsamsara.co.uk) - Stylish products produced ethically from upcycled materials. Bags made from cement bags, tires, and jewelry made from upcycled bullet casings.
+*   [Norm Shoes](https://norm.shoes/) - Our shoes are made from 90% recycled materials: recycled polyester (6 plastic bottles per pair), recycled rubber, and fairtrade rubber. The impact for one pair of Norm shoes is only 6,5 kg of CO2 equivalent (80% lower than the industry average). We partner with a Belgian NGO, Graine de Vie, to plant two trees in Madagascar for each pair we sell and we offset our emissions as well.
+*   [Runamics Running & Sports Gear](https://www.runamics.com) - Crowd-funded for-purpose eco-friendly alternatives to traditional sports gear. We combine merino wool with wood-based cellulosic fibres like Lyocell. We make experiments with highly innovative fibres like biodegradable elastic fibres or “polyester-like” substitutes. WE're climate neutral always working to reduce our footprint, use plastic-free packaging and ship globally with DHL GoGreen.
 *   [Vesica Piscis Shoes](https://vesicapiscisfootwear.com/) - Hand made stylish shoes made from recycled materials. Recycled cotton, recycled polyester fabric picking from plastic bottles, X-ray plates, fishing nets, etc. They use virgin natural rubber, bamboo, and a small amount of organic cotton.
 *   [Vinted Used Clothes Marketplace](https://www.vinted.com) - Your community for pre-loved fashion. Buy and sell quality used apparel.
 
 ### Consumer Products
 
 *   [Katadyn Water Filters](https://www.katadyn.com/en/de/products/water-filters#/1/filter?categories=32) - Katadyn develops and manufactures durable and portable water filters, desalinators and chemical disinfectants for daily use, camping, trekking, or global journeys. The vast product line ranges from water filters and Micropur tablets to the smallest manual desalinator for marine applications. Aid organizations as well as the military rely on them.
-*   [Lehman's](https://www.lehmans.com/) - One-stop shop for non-electric, homesteading, survival, handmade, Amish made, plastic free, durable, quality goods.  If you envision switching to live a simpler life, this place has all the tools you need to do so.
+*   [Lehman's](https://www.lehmans.com/) - One-stop shop for non-electric, homesteading, survival, handmade, Amish made, plastic free, durable, quality goods. If you envision switching to live a simpler life, this place has all the tools you need to do so.
 *   [TomatoInk](https://www.tomatoink.com/) - TomatoInk is an eco-friendly, low-cost provider of ink and toner. By packaging ink in remanufactured cartridges, we pass along substantial savings both financial and environmental to you. “Our factory collects high-quality used cartridges. There, they are professionally cleaned and inspected and any defective parts get replaced. The cartridges then get filled with high-quality ink comparable to that used in name-brand cartridges. And finally, every single cartridge is inspected and test printed.”
 
 ### Cooking
 
-*   [Ecocina Rocket Stoves](http://www.stoveteam.org/) - Wood fired cook stove that uses \~40-50% less fuel than traditional fires and emits \~1/3 the CO2. Learn how to build one!  Check out their research center at [Aprovecho](http://aprovecho.org/).
-*   [Insulated Cooking](https://www.milkwood.net/2015/07/06/thermal-cooking/) - Discover a great way not only to use less energy in food preparation, but to serve tastier and more nutritious meals at the same time.  Any recipe that calls for boiling, simmering, steaming, or roasting will often taste better— [hot from the haybox](https://www.motherearthnews.com/diy/haybox-cooking-zmaz80jfzraw) — than it would with regular stove preparation ... and you'll save heat energy at the same time.  You can pick up a pot-sized [thermal cooker](http://www.cookingworld.biz/thermal-cooker-guide/), or simply put a blanket in a cooler.
-*   [Preserve Extra Food With A Solar Dehydrator](https://www.motherearthnews.com/diy/tools/solar-food-dehydrator-plans-zm0z14jjzmar) - A solar food dehydrator is a device that removes moisture from food to aid in its preservation. You can [buy a simple one](https://www.kickstarter.com/projects/mixedmediaeng/dryceratop-solar-food-dehydrator-for-mason-jars/description) or make your own.  Food drying is a method of preserving fruit, vegetables, and animal proteins that has been practiced since antiquity.
+*   [Ecocina Rocket Stoves](http://www.stoveteam.org/) - Wood fired cook stove that uses \~40-50% less fuel than traditional fires and emits \~1/3 the CO2. Learn how to build one! Check out their research center at [Aprovecho](http://aprovecho.org/).
+*   [Insulated Cooking](https://www.milkwood.net/2015/07/06/thermal-cooking/) - Discover a great way not only to use less energy in food preparation, but to serve tastier and more nutritious meals at the same time. Any recipe that calls for boiling, simmering, steaming, or roasting will often taste better— [hot from the haybox](https://www.motherearthnews.com/diy/haybox-cooking-zmaz80jfzraw) — than it would with regular stove preparation ... and you'll save heat energy at the same time. You can pick up a pot-sized [thermal cooker](http://www.cookingworld.biz/thermal-cooker-guide/), or simply put a blanket in a cooler.
+*   [Preserve Extra Food With A Solar Dehydrator](https://www.motherearthnews.com/diy/tools/solar-food-dehydrator-plans-zm0z14jjzmar) - A solar food dehydrator is a device that removes moisture from food to aid in its preservation. You can [buy a simple one](https://www.kickstarter.com/projects/mixedmediaeng/dryceratop-solar-food-dehydrator-for-mason-jars/description) or make your own. Food drying is a method of preserving fruit, vegetables, and animal proteins that has been practiced since antiquity.
 
 ### Documentaries
 
@@ -717,39 +711,33 @@
 ### Food
 
 *   [Farm Drop](https://www.farmdrop.com/) - Next day delivery in London for groceries and household products from local and independent producers.
-*   [Grocy](https://grocy.info/) - Grocy is a web-based self-hosted groceries and household management solution for your home.  Scan barcodes, track your purchases, automate and optimize your shopping list, waste less by keeping track of what's expiring next, plan meals, and more.
-*   [Impossible Foods](https://impossiblefoods.com/) - We’re making meat from plants so that we never have to use animals again.  Just one Impossible Burger (instead of a burger made from cows) will use 96% less land, 87% less water, and 89% fewer GHG emissions.
-*   [Makkelijke Moestuin (Easy Vegetable Garden)](https://www.makkelijkemoestuin.nl/) - We make the vegetable garden easy. Thanks to our stuff and app, you can immediately garden like a pro.  Setting up your vegetable garden perfectly is 80% of the work. Our stuff is specially made for that. With the other 20% - maintenance - our app helps you completely.  You harvest 5 times as much per m² as from an ordinary vegetable garden. Ka-ching!
-*   [We Are Phenix](https://wearephenix.com/en/) - Buy unsold goods from local businesses at a reduced price.  Sell expired products to clients, donate to charities, reuse organic waste for animal food, and more.  With over 100k meals saved per day, we are well on our way to reach the objective of zero food waste.
+*   [Grocy](https://grocy.info/) - Grocy is a web-based self-hosted groceries and household management solution for your home. Scan barcodes, track your purchases, automate and optimize your shopping list, waste less by keeping track of what's expiring next, plan meals, and more.
+*   [Makkelijke Moestuin (Easy Vegetable Garden)](https://www.makkelijkemoestuin.nl/) - We make the vegetable garden easy. Thanks to our stuff and app, you can immediately garden like a pro. Setting up your vegetable garden perfectly is 80% of the work. Our stuff is specially made for that. With the other 20% - maintenance - our app helps you completely. You harvest 5 times as much per m² as from an ordinary vegetable garden. Ka-ching!
+*   [We Are Phenix](https://wearephenix.com/en/) - Buy unsold goods from local businesses at a reduced price. Sell expired products to clients, donate to charities, reuse organic waste for animal food, and more. With over 100k meals saved per day, we are well on our way to reach the objective of zero food waste.
 
 ### Waste
 
-*   [Geev](https://corporate.geev.com/) - An online application to exchange stuffs and food between people. Easily discuss, meet and give a second life to objects and food.  The more you give the more people trust you when you want to get something.
+*   [Geev](https://corporate.geev.com/) - An online application to exchange stuffs and food between people. Easily discuss, meet and give a second life to objects and food. The more you give the more people trust you when you want to get something.
 *   [The Rotten Fruit Box](https://therottenfruitbox.com/) - 100% Natural Freeze-Dried Fruit Snacks from Spain and Portugal shipped to you. The fruit you’re enjoying would have otherwise gone unused and rotted away on the ground. We also think that the name "Rotten" helps bring attention to the serious issue of food waste. Delicious, healthy, 100% natural, with a long shelf life, our freeze dried fruit snack pouches are ideal for home, work, office, to take to school, camping or just about anywhere. Help reduce food waste. Help small local farmers. 100% compostable packaging, ships with your local postal service because it is the lowest carbon footprint option.
 *   [EU: Right to Repair](https://repair.eu/) - Cracked screens, weak batteries, broken charging ports... We’d like to fix them, but instead we end up buying a new smartphone because repairs are too expensive, difficult or impossible. Reducing the lifespan of a product may drive sales, but this comes at the expense of consumers, workers and the planet. Ask the European Union to give people the Right to Repair by requiring manufacturers to design repairable smartphones and provide spare parts and repair information to all repairers and consumers.
-*   [Algramo](https://www.algramoalmacenes.com/) - Vending machines and mobile refill units for refilling reusable plastic bottles with staple goods from shampoo to salad dressing in packaging that is designed to be returned, cleaned, and reused.  With over 2,000 bodegas in Santiago and plans to expand in the US soon, Algramo, translates to "by the gram", also solves the issue of "poverty tax" where small packages can cost as much as 50% more than the same product in a larger size.
-*   [Litterati](https://www.litterati.org/) - Empowering people to clean the planet. Photograph a piece of litter, tag it, and discard properly.  Participate in a challenge and hold wasteful brands accountable.
+*   [Algramo](https://www.algramoalmacenes.com/) - Vending machines and mobile refill units for refilling reusable plastic bottles with staple goods from shampoo to salad dressing in packaging that is designed to be returned, cleaned, and reused. With over 2,000 bodegas in Santiago and plans to expand in the US soon, Algramo, translates to "by the gram", also solves the issue of "poverty tax" where small packages can cost as much as 50% more than the same product in a larger size.
+*   [Litterati](https://www.litterati.org/) - Empowering people to clean the planet. Photograph a piece of litter, tag it, and discard properly. Participate in a challenge and hold wasteful brands accountable.
 *   [OpenStreetMap: Zero Waste (Overpass)](http://overpass-turbo.eu/?template=key\&key=zero_waste) - OpenStreetMap has the tag zero\_waste=\* for shops who sell items without packaging.
 *   [Original Unverpackt](https://original-unverpackt.de/) - Zero packaging supermarket in Berlin. Original Unverpackt hat sich als erster Supermarkt weltweit dem Zero-Waste-Lifestyle gewidmet.
-*   [What is my lamp worth?](https://www.watismijnlampwaard.nl/) - Find the nearest collection points for discarded electrical appliances and energy-efficient light bulbs. This site helps you responsibly recycle, donate, repair, or sell electrical appliances and lights.
 
 ### Footprint Calculators
 
 *   [Eco Passenger](http://ecopassenger.hafas.de/) - More than a quarter of worldwide greenhouse gases emissions come from the transportation sector, and more important, it is the sector where we have seen the highest growth in these emissions the last decades and it is not stopping. To help, EcoPassenger is a calculator to compare the energy consumption, CO2 and exhaust atmospheric emissions for planes, cars, and trains, for passenger transport.
-*   [How Good](https://howgood.com/) - Future-Proof your products.  HowGood data offers data to businesses and consumers about product sustainability from 350+ independent sources on over 1 million products.  Extensive data library on product sustainability designed to help brands and retailers use that data to source better and consumers to buy better, to build a better world.
+*   [How Good](https://howgood.com/) - Future-Proof your products. HowGood data offers data to businesses and consumers about product sustainability from 350+ independent sources on over 1 million products. Extensive data library on product sustainability designed to help brands and retailers use that data to source better and consumers to buy better, to build a better world.
 *   [Joro](https://www.joro.tech/) - Effortlessly track your personal carbon footprint by securely connecting your credit and debit cards. Joro combines financial data and academic datasets to develop real-time carbon footprint estimates. The bank integration uses Plaid, and is US only for now, but has plans to roll out to Europe. Sign up to the newsletter to find out.
 *   [Zellar](https://zellar.com/) - Get an energy profile for your company to understand your energy consumption, and how much CO2 is being generated to power your business. We’ll then let you compare your profile to other local businesses or similar businesses across the UK, then track performance over time. Get advice and even unlock funds to finance any investments you may need to make on your journey to zero carbon.
-
-### Zero Waste
-
-*   [Berkley Water Filters](https://www.berkeyfilters.com/) - 21,000,000 Americans drink water that violates U.S. health standards. Berkey water filter systems are actually water purifiers because they remove bacteria and viruses that conventional filters cannot.<!-- links:end -->
 
 ### Home Improvements
 
 *   [Ecobee](https://www.ecobee.com/) - Improve how people consume energy to create a more sustainable future. Live in harmony with a thermostat and sensor that learn and adapt to your schedule. *Lower the manufacturing footprint by buying one of their refurbished products.*
 *   [Lancey](https://www.lancey.fr/) - An efficient radiator to control your electricity consumption while improving comfort, with a connected thermostat to adapt to your needs and the characteristics of your home. A built-in battery stores electricity during off-peak hours, allowing you to automatically use cheaper and cleaner energy.
 *   [Mist Showers](https://www.lowtechmagazine.com/2019/10/mist-showers-sustainable-decadence.html) - The emissions of a typical shower equal 3.5 – 7 km of driving. The mist shower, a satisfying but forgotten technology which uses very little water and energy, could be a solution. You can DIY convert almost any shower into a mist shower. The five-nozzle mist shower offers significant water and energy savings compared to a “normal” shower and does so without sacrificing comfort.
-*   [PlanetCare Microfibre Laundry Filters](https://www.planetcare.org) - 35% of microplastics are fibers that are released when we wash our clothes. With consumer and industrial laundry filters, tackle the problem close to the source – with a filter in your washing machine.  PlanteCare makes efficient, practical and affordable laundry filters that allow every household to stop sending microfibres into the environment.
+*   [PlanetCare Microfibre Laundry Filters](https://www.planetcare.org) - 35% of microplastics are fibers that are released when we wash our clothes. With consumer and industrial laundry filters, tackle the problem close to the source – with a filter in your washing machine. PlanteCare makes efficient, practical and affordable laundry filters that allow every household to stop sending microfibres into the environment.
 *   [PowerX](https://www.powerx.co/) - A plug-and-play smart-controller for water and gas headers. It learns what water temperatures you like and heats only as much water as you need. It will also detect the ideal time to heat your water, as prices change every 15 minutes, so you can save money with no impact on hot water levels. Save hundreds of dollars, reduce carbon emissions equivalent to 10 fully grown trees – every year!
 *   [Rigo Paint - Made From Flax](https://www.rigoverffabriek.nl/) - Decorating your house? Check out RigoStep water-based paints, and oil paints depend on locally grown flax, which is heated and pressed by traditional windmills to extract the oil. Once mixed with other solvents, this forms the liquid base for the paint.
 
@@ -760,17 +748,16 @@
 
 ### Hygiene
 
-*   [By Olive](https://byolive.org/) - By Olive is an online store with an extensive range of natural, organic and vegan health and beauty products from a newly launched own brand collection. All packaged responsibly; plastic-free and without waste packaging.
 *   [Ocean Savers Cleaning Supplies](https://www.ocean-saver.com/) - "Pre-mixed" cleaning sprays that you will find in the supermarket are over 90% water, with the active ingredient (the part that actually does the cleaning) making up a fraction of the total liquid. Oceansaver provide just the active ingredients, so people can reuse plastic bottles, reducing the consumption of single-use plastic.
 *   [Smol](https://smolproducts.com/) - Zero plastic dishwasher and laundry tablet subscription. Contains child lock, they're FSC certified, half the price of traditional brands, and animal cruelty free.
-*   [The Crappy Planet - Bamboo Toilet Paper](https://www.thecrappyplanet.com/) - According to the EPA, one hardwood tree produces approximately 45 kg of toilet paper and about 83 million toilet rolls are produced every day. Bamboo toilet paper production requires less energy, one-fifth of the water, produces considerably more fiber on less land area, generates 30-35% more oxygen than other plants and trees, and it reduces the amount of carbon dioxide by about the same amount.  In addition, the production process requires that water and other materials are collected, reused and recycled. Finally, we invest 25% of our profits to stop deforestation and global warming.
-*   [The Good Roll](https://www.thegoodroll.nl) - Mail order 100% tree-friendly toilet paper made from post-consumer recycled paper.  50% of net profit from sales of The Good Roll is invested in the installation of safe toilets in East Africa.
+*   [The Crappy Planet - Bamboo Toilet Paper](https://www.thecrappyplanet.com/) - According to the EPA, one hardwood tree produces approximately 45 kg of toilet paper and about 83 million toilet rolls are produced every day. Bamboo toilet paper production requires less energy, one-fifth of the water, produces considerably more fiber on less land area, generates 30-35% more oxygen than other plants and trees, and it reduces the amount of carbon dioxide by about the same amount. In addition, the production process requires that water and other materials are collected, reused and recycled. Finally, we invest 25% of our profits to stop deforestation and global warming.
+*   [The Good Roll](https://www.thegoodroll.nl) - Mail order 100% tree-friendly toilet paper made from post-consumer recycled paper. 50% of net profit from sales of The Good Roll is invested in the installation of safe toilets in East Africa.
 
 ### Volunteering
 
-*   [MakeSense Jobs](https://jobs.makesense.org) - Makesense inspires and empowers citizens, entrepreneurs and organizations to build an inclusive and sustainable society together.  MakeSense's Job and assignment announcements platform for associations and social entrepreneurs who recruit profiles passionate about the impact. Job types include internship, freelance, civic service, partner, program, volunteer mission, mentoring.
-*   [Clean Trails](https://www.cleantrails.org/join) - Step by step, and little by little, our aim is to eliminate waste on all the trails that grace our public lands.  We believe we can do that in a positive and proactive manner by educating, encouraging, and reconnecting outdoor users to our pristine places.
-*   [ClimatePrediction.net](https://www.climateprediction.net/) - The world’s largest climate modelling experiment. Evidence of how our climate is changing is vital to reducing greenhouse gas emissions.  Help discover how the climate could look by running software on your computer.
+*   [MakeSense Jobs](https://jobs.makesense.org) - Makesense inspires and empowers citizens, entrepreneurs and organizations to build an inclusive and sustainable society together. MakeSense's Job and assignment announcements platform for associations and social entrepreneurs who recruit profiles passionate about the impact. Job types include internship, freelance, civic service, partner, program, volunteer mission, mentoring.
+*   [Clean Trails](https://www.cleantrails.org/join) - Step by step, and little by little, our aim is to eliminate waste on all the trails that grace our public lands. We believe we can do that in a positive and proactive manner by educating, encouraging, and reconnecting outdoor users to our pristine places.
+*   [ClimatePrediction.net](https://www.climateprediction.net/) - The world’s largest climate modelling experiment. Evidence of how our climate is changing is vital to reducing greenhouse gas emissions. Help discover how the climate could look by running software on your computer.
 
 ### Jobs
 
@@ -778,34 +765,25 @@
 
 ### Podcasts
 
-*   [Democracy Now!](https://www.democracynow.org/topics/climate_change) - Independent global news produced daily, hosted by award-winning journalists Amy Goodman and Juan González. Our reporting includes breaking daily news headlines and in-depth interviews with people on the front lines of the world’s most pressing issues by a diversity of voices.  Free from government funding, corporate sponsorship, underwriting or advertising revenue.
+*   [Democracy Now!](https://www.democracynow.org/topics/climate_change) - Independent global news produced daily, hosted by award-winning journalists Amy Goodman and Juan González. Our reporting includes breaking daily news headlines and in-depth interviews with people on the front lines of the world’s most pressing issues by a diversity of voices. Free from government funding, corporate sponsorship, underwriting or advertising revenue.
 *   [People Fixing the World - BBC World Service](https://www.bbc.co.uk/programmes/p04grdbc) - Brilliant solutions to the world’s problems. We meet people with ideas to make the world a better place and investigate whether they work.
-*   [Sustainababble](http://www.sustainababble.fish/) - A weekly podcast about the environment, for and by the confused. Your hosts Ol and Dave are supposed to be experts in how to save the planet. But why’s everything got to be so confusing? Each week they try to get a little bit closer to enlightenment. They may fail. They sift through the most egregious eco-guff out there, exposing the real eco-villians vs the hapless incompetents.
 *   [TIL Climate Podcast](https://climate.mit.edu/users/tilclimate-podcast) - This MIT podcast breaks down the science, technologies, and policies behind climate change, how it’s impacting us, and what we can do about it. Each quick episode gives you the what, why, and how on climate change -- from real scientists -- to help us make informed decisions for our future.
 *   [Talking Headways: A Book Club for the Future of Transportation](https://streetsblog.libsyn.com/) - We explore the intersection of sustainable transportation, urban planning, city living, economic development, and anything else that piques our interest. A staple and almost an obligatory source of information on the latest trends in urban mobility and urban planning.
 *   [The Climate Fix](https://theclimatefix.com/) - We shine a spotlight on people and organisations working on sustainable solutions, help connect them to talent & investment as well as give people hope that there are climate solutions as well as climate problems.
 *   [The Energy Transition Show](https://xenetwork.org/ets/) - Straight talk about the world’s transition from fossil fuels to renewables with energy expert Chris Nelder.
-*   [The Yikes Podcast](https://radiopublic.com/the-yikes-podcast-6nKDQq) - Climate Change, Human Rights and the messiness of everything going on at the moment can be really overwhelming BUT we want to provide a space to chat about these things and find hope in the midst of it all.
-*   [You've Been Warmed](https://www.youvebeenwarmed.com/) - By interviewing the top scientists, entrepreneurs, activists & politicians, we seek to find answers to all of the above while uncovering the leaders behind our fight for the preservation of our planet.
 
 ### News
 
-*   [State of the Planet](https://blogs.ei.columbia.edu/category/climate/) - News from the Earth Institute at Columbia University.  Columbia’s Earth Institute blends research in the physical and social sciences, education and practical solutions to help guide the world onto a path toward sustainability.
+*   [State of the Planet](https://blogs.ei.columbia.edu/category/climate/) - News from the Earth Institute at Columbia University. Columbia’s Earth Institute blends research in the physical and social sciences, education and practical solutions to help guide the world onto a path toward sustainability.
 
 ### Transportation
 
-*   [British Heart Foundation - Toxic Air Campaign](https://www.bhf.org.uk/toxicair) - Air pollution is toxic. Join us in demanding change now. Simply living in the worst hit areas of the UK could be as deadly as smoking over 150 cigarettes each year. British Heart Foundation is calling for the UK Government to update current air quality limits to match World Health Organization recommendations.
 *   [Commute on Electric Motorbikes](https://urbanebikes.com/collections/electric-motorbikes) - Electric cars are still priced beyond the reach of many, but swapping a car for an electric motorbike will leave plenty of cash in your pocket. The average used car sells for $20,840 in the USA, and you can get a lot of electric motorbike for $3,000. Finding a used electric motorbike will get that manufacturing footprint off your conscience too.
 *   [DHL GoGreen](https://www.dpdhl.com/en/responsibility/environment-and-solutions.html) - GoGreen Solutions include both standardized products and customized solutions to help customers develop their own eco-friendly business models and green supply chains. With our carbon reports, climate neutral products, and green optimization, we give customers transparency, offset unavoidable emissions, and identify ways in which our customers can reduce emissions and waste. These optimization measures achieve savings potential that most companies would not be able to achieve on their own.
 *   [Share Now](https://www.share-now.com/) - With car-sharing, you don't have to buy or lease a car. Share Now cars are available around every street corner in loads of cities around the world. Find us in 16 major cities in 8 countries in Europe and all over the US – for all your plans, big and small. Includes free parking, no need to pay for maintenance, insurance, or petrol, and loads of them are electric too! Package deals available for businesses to help employees ditch their car when active/public transportation is not an option.
 *   [TomTom's EV Station Finder](https://www.tomtom.com/products/ev-charging-availability-routing-services/) - With TomTom's EV charging infrastructure, 'eco-routing' to calculate energy efficient routes (!), in-range EV station finder, real-time availability monitoring, on-demand information, TomTom is continuing to invest in the largest electric vehicle map coverage with 330,000+ charging points in 50 countries throughout Europe, The Americas, the Middle East, and Asia.
 *   [VanMoof](https://www.vanmoof.com/) - "City-proof" bikes, with electric assist, which ship fully assembled. They're baked full of anti-theft tech, and they'll hunt your bike down if it does get stolen. In some countries there is a subscription service where they'll fix things up for you if you have any trouble, but just the base bike alone is a stunning beautiful electric bike with dynamo hubs, built in lights, and sturdy mudguards, so you can ride it all day and night.
 *   [Workhorse - Electric Delivery Vehicles](https://workhorse.com/) - All-electric by design, with composite technology, and a 100-mile range, it's expected to be more economical than traditional delivery vans. Our current delivery vans, E-100 and E-GEN, have more than 4 million miles on them and are used by some of the premier package delivery companies in the world.
-
-### Travel
-
-*   [Rome2rio](https://rome2rio.com/) - Search any city, town, landmark, or address across the globe and find a whole bunch of different ways to get there. Rome2rio is pretty insistent on showing you flights, but it can help you find bus and train combinations to get from Lisbon to Azerbaijan if that's a trip you need to do.
-*   [Tentrr](https://www.tentrr.com/) - AirBnB for camping, with fully setup glamping sites to natural land where you bring your own gear. Land conservation is expensive. With Tentrr Landtrust, your qualifying trust can receive a professionally installed, fully equipped signature campsite. It's an instant revenue generator for your conservation efforts.
 
 ## [53. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -854,33 +832,13 @@
 
 *   [Changelog #184 (11-27-2015)](https://changelog.com/podcast/184)
 
-### Resources / Examples
-
-*   [**Vue 3 example without Webpack**](https://github.com/arijs/vue-next-example) - An example of how to build a Vue app with Vue-Router without the need for Webpack or any other build tool. Includes the ability to prerender components and pages with Vue Server Renderer.
-
 ### Projects Using Vue.js / Apps/Websites
 
 *   [Back Home/回家](https://flights.vincentc.us/) - A flight searching engine for the flights from oversea to China Mainland (and China to oversea) that still fly during COVID-19.
 
-### Components & Libraries / Frameworks
-
-*   [Saber (⭐2.1k)](https://github.com/saberland/saber) - A static website generator for building blazing fast websites with Vue.js.
-
-### Components & Libraries / UI Components
-
-*   [vue-js-datatable (⭐9)](https://github.com/Parthfaladu/vue-js-datatable) - VueJS light weight wrapper datatable component for [datatables.net](https://datatables.net)
-*   [vue-splide (⭐322)](https://github.com/Splidejs/vue-splide) - Splide is a free lightweight but powerful slider and carousel, written in pure JavaScript without any dependencies. It supports a thumbnail slider, nested slide.
-*   [vue-jquery-calendar (⭐1)](https://github.com/Parthfaladu/vue-jquery-calendar) - VueJS light weight wrapper component for [jquery ui datepicker](https://jqueryui.com/datepicker)
-*   [@grafikri/vue-infinite-scroll (⭐2)](https://github.com/grafikri/vue-infinite-scroll) - Basic infinite scroll for Vue
-*   [Vue Flow Form (⭐772)](https://github.com/ditdot-dev/vue-flow-form) - Create conversational conditional-logic forms with Vue.js. [Online Demo](https://www.ditdot.hr/demo/vff/questionnaire/)
-
 ### Components & Libraries / UI Utilities
 
 *   [portal-vue](https://portal-vue.linusb.org/) - A Vue Plugin to render your component's template anywhere in the DOM (Works on the virtualDOM level, doesn't move nodes within the DOM)
-
-### Components & Libraries / Utilities
-
-*   [excel-vue-i18n (⭐8)](https://github.com/grafikri/excel-vue-i18n) - A plugin transforms excel file to i18n json format for translations.
 
 ## [56. Awesome Seml](/content/SE-ML/awesome-seml/week/README.md)
 

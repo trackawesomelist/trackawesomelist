@@ -1,6 +1,6 @@
 # Awesome List Updates on May 20, 2024
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,39 +16,33 @@
 
 ### Frameworks
 
-*   [Ash Framework (⭐1.5k)](https://github.com/ash-project/ash) - A declarative, resource-oriented application framework for Elixir.
+*   [Ash Framework (⭐1.7k)](https://github.com/ash-project/ash) - A declarative, resource-oriented application framework for Elixir.
 
 ## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Manufacturing
 
-*   [Manyfold](https://manyfold.app) - Digital asset manager for 3d print files; STL, OBJ, 3MF and more. ([Source Code (⭐658)](https://github.com/manyfold3d/manyfold)) `MIT` `Docker`
+*   [Manyfold](https://manyfold.app) - Digital asset manager for 3d print files; STL, OBJ, 3MF and more. ([Source Code (⭐954)](https://github.com/manyfold3d/manyfold)) `MIT` `Docker`
 
-### Software / Photo and Video Galleries
+### Software / Photo Galleries
 
-*   [Ente](https://ente.io/) - An end-to-end encrypted photo-sharing platform (alternative to Google Photos, Apple Photos). ([Source Code (⭐13k)](https://github.com/ente-io/ente)) `AGPL-3.0` `Docker/Nodejs/Go`
+*   [Ente](https://ente.io/) - An end-to-end encrypted photo-sharing platform (alternative to Google Photos, Apple Photos). ([Source Code (⭐17k)](https://github.com/ente-io/ente)) `AGPL-3.0` `Docker/Nodejs/Go`
 
-## [4. Awesome Rest](/content/marmelab/awesome-rest/README.md)
-
-### Node.js
-
-*   [Baucis](https://git.kun.io/wprl/baucis) - Build scalable REST API based on your Mongoose entities.
-
-## [5. Awesome Music](/content/ciconia/awesome-music/README.md)
+## [4. Awesome Music](/content/ciconia/awesome-music/README.md)
 
 ### Audio Editing
 
-*   [OpenUtau (⭐1.8k)](https://github.com/stakira/openutau/) - A free, cross-platform singing voice synthesis framework.
+*   [OpenUtau (⭐2.2k)](https://github.com/stakira/openutau/) - A free, cross-platform singing voice synthesis framework.
 
-## [6. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### AI / Diagnostics
 
-*   [Aaronik/GPTModels.nvim (⭐47)](https://github.com/Aaronik/GPTModels.nvim) - GPTModels - a stable, clean, multi model, window based LLM AI tool.
+*   [Aaronik/GPTModels.nvim (⭐64)](https://github.com/Aaronik/GPTModels.nvim) - GPTModels - a stable, clean, multi model, window based LLM AI tool.
 
 ### Markdown and LaTeX / Diagnostics
 
-*   [arminveres/md-pdf.nvim (⭐64)](https://github.com/arminveres/md-pdf.nvim) - Preview markdown files and convert to PDF.
+*   [arminveres/md-pdf.nvim (⭐71)](https://github.com/arminveres/md-pdf.nvim) - Preview markdown files and convert to PDF.
 
 ### Marks / Diagnostics
 
@@ -56,30 +50,30 @@
 
 ### Note Taking / Diagnostics
 
-*   [nvim-telekasten/telekasten.nvim (⭐1.3k)](https://github.com/nvim-telekasten/telekasten.nvim) - Work with a text-based, markdown zettelkasten / wiki and mix it with a journal, based on telescope.nvim.
-*   [slugbyte/whip.nvim (⭐4)](http://github.com/slugbyte/whip.nvim) - A super fast minimal scratchpad management plugin, biew biew biew.
+*   [nvim-telekasten/telekasten.nvim (⭐1.5k)](https://github.com/nvim-telekasten/telekasten.nvim) - Work with a text-based, markdown zettelkasten / wiki and mix it with a journal, based on telescope.nvim.
+*   [slugbyte/whip.nvim (⭐9)](http://github.com/slugbyte/whip.nvim) - A super fast minimal scratchpad management plugin, biew biew biew.
 
 ### Utility / Diagnostics
 
-*   [AlejandroSuero/freeze-code.nvim (⭐18)](https://github.com/AlejandroSuero/freeze-code.nvim) - Code screenshot plugin that makes use of [freeze (⭐3.1k)](https://github.com/charmbracelet/freeze) inside the editor, it lets you **copy** the generated image to **paste it anywhere**.
+*   [AlejandroSuero/freeze-code.nvim (⭐20)](https://github.com/AlejandroSuero/freeze-code.nvim) - Code screenshot plugin that makes use of [freeze (⭐3.6k)](https://github.com/charmbracelet/freeze) inside the editor, it lets you **copy** the generated image to **paste it anywhere**.
 
 ### Terminal Integration / Diagnostics
 
-*   [NeViRAIDE/nekifoch.nvim (⭐16)](https://github.com/NeViRAIDE/nekifoch.nvim) - Managing Kitty terminal font settings.
+*   [NeViRAIDE/nekifoch.nvim (⭐17)](https://github.com/NeViRAIDE/nekifoch.nvim) - Managing Kitty terminal font settings.
 
-## [7. Awesome Ruby](/content/markets/awesome-ruby/README.md)
+## [6. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Analytics
 
-*   [ActiveAnalytics (⭐398)](https://github.com/BaseSecrete/active_analytics) - First-party, privacy-focused traffic analytics for Ruby on Rails applications.
+*   [ActiveAnalytics (⭐410)](https://github.com/BaseSecrete/active_analytics) - First-party, privacy-focused traffic analytics for Ruby on Rails applications.
 
-## [8. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [7. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Finance / Audio Record and Process
 
 *   [SubManager](https://submanager.app) - Track your subscriptions in one place and get notified when a subscription is due for renewal. Available for macOS, iOS and visionOS and syncs across all your devices. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/submanager-subscription-list/id1632853914)
 
-## [9. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
+## [8. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
 ### Software / Monitoring
 

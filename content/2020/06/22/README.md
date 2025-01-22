@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 22, 2020
 
-13 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -12,19 +12,13 @@
 
 *   [CSS fix for 100vh in mobile WebKit](https://allthingssmitty.com/2020/05/11/css-fix-for-100vh-in-mobile-webkit/) - How to fix issue with 100vh in mobile WebKit.
 
-## [2. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
-
-### Articles & Posts
-
-*   [Written communication is remote work super power](https://snir.dev/blog/remote-async-communication/)
-
-## [3. Awesome React Native](/content/jondot/awesome-react-native/README.md)
+## [2. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
 ### Utils & Infra / Navigation Demos
 
 *   [react-native-network-logger ★20 (⭐310)](https://github.com/alexbrazier/react-native-network-logger) - An HTTP network request monitor for React Native including an in-app interface.
 
-## [4. Awesome Seml](/content/SE-ML/awesome-seml/README.md)
+## [3. Awesome Seml](/content/SE-ML/awesome-seml/README.md)
 
 ### Model Training
 
@@ -45,13 +39,13 @@
 *   [Tensorflow Extended (TFX)](https://www.tensorflow.org/tfx/) - An end-to-end platform for deploying production ML pipelines.
 *   [Weights & Biases](https://www.wandb.com/) - Experiment tracking, model optimization, and dataset versioning.
 
-## [5. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [4. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Files and Directories
 
-*   [waffle (⭐716)](https://github.com/elixir-waffle/waffle) - Flexible file upload and attachment library for Elixir.
+*   [waffle (⭐756)](https://github.com/elixir-waffle/waffle) - Flexible file upload and attachment library for Elixir.
 
-## [6. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/README.md)
+## [5. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/README.md)
 
 ### Organizations
 
@@ -59,26 +53,26 @@
 *   [Black Therapists Rock](https://www.blacktherapistsrock.com/) - Black Therapists Rock (BTR) is an organization committed to increasing awareness of social and psychological challenges impacting vulnerable communities.
 *   [The Black, African, and Asian Therapy Network](https://www.baatn.org.uk/) - The UK’s largest independent organisation to specialise in working psychologically, informed by an understanding of intersectionality, with people who identify as Black, African, South Asian and Caribbean.
 
-## [7. Awesome Pagespeed Metrics](/content/csabapalfi/awesome-pagespeed-metrics/README.md)
+## [6. Awesome Pagespeed Metrics](/content/csabapalfi/awesome-pagespeed-metrics/README.md)
 
 ### Concepts / Field Data (Real User Monitoring - RUM)
 
 *   [Perfume.js](https://zizzamia.github.io/perfume/) - Open Source Library to collect Field Data.
 *   [Web Vitals (⭐6.7k)](https://github.com/GoogleChrome/web-vitals) - Open Source Library to collect Field Data.
 
-## [8. Awesome Eosio](/content/DanailMinchev/awesome-eosio/README.md)
+## [7. Awesome Eosio](/content/DanailMinchev/awesome-eosio/README.md)
 
 ### Developer Tools / Services
 
 *   [EOSIO Ethereum Virtual Machine (EVM) (⭐87)](https://github.com/jafri/eosio.evm) - Ethereum Virtual Machine on EOSIO.
 
-## [9. Awesome Building Blocks for Web Apps](/content/componently-com/awesome-building-blocks-for-web-apps/README.md)
+## [8. Awesome Building Blocks for Web Apps](/content/componently-com/awesome-building-blocks-for-web-apps/README.md)
 
 ### UI Elements
 
 *   [CoreUI](https://coreui.io/pro/vue) - Vue admin template.
 
-## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### APIs, Data, and ML
 
@@ -88,7 +82,7 @@
 
 *   [qase.io](https://qase.io) - Test management system for Dev and QA teams. Manage test cases, compose test runs, perform tests, track defects, and measure impact. The free tier includes all core features, with 500MB available for attachments and up to 3 users.
 
-## [11. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
+## [10. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
 ### Articles / Hash functions
 
@@ -96,19 +90,19 @@
 
 ### Python / Git
 
-*   [django-cryptography (⭐367)](https://github.com/georgemarshall/django-cryptography) - Easily encrypt data in Django.
+*   [django-cryptography (⭐382)](https://github.com/georgemarshall/django-cryptography) - Easily encrypt data in Django.
 
 ### Web-sites / Git
 
 *   [Applied Crypto Hardening](https://bettercrypto.org/) - A lot ready to use best practice examples for securing web servers and more.
 
-## [12. Awesome Webaudio](/content/notthetup/awesome-webaudio/README.md)
+## [11. Awesome Webaudio](/content/notthetup/awesome-webaudio/README.md)
 
 ### Packages / Libraries
 
 *   [@magenta/music (⭐2k)](https://github.com/magenta/magenta-js/tree/master/music) - A JavaScript library to use machine learning models and generate music in the browser, by having some neat abstractions over the Webaudio API.
 
-## [13. Awesome Arch](/content/PandaFoss/Awesome-Arch/README.md)
+## [12. Awesome Arch](/content/PandaFoss/Awesome-Arch/README.md)
 
 ### Arch-based distros / Desktop
 

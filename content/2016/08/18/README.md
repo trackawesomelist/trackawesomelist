@@ -57,7 +57,7 @@
 
 ### Files and Directories
 
-*   [sizeable (⭐39)](https://github.com/arvidkahl/sizeable) - An Elixir library to make file sizes human-readable.
+*   [sizeable (⭐41)](https://github.com/arvidkahl/sizeable) - An Elixir library to make file sizes human-readable.
 
 ### HTTP
 

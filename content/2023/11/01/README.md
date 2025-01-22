@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 01, 2023
 
-16 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -22,13 +22,13 @@
 
 ### Books, blogs, and training materials / Free and public materials
 
-*   [Tweede golf's workshop](https://workshop.tweede.golf) - A full workshop about Rust and embedded Rust. The embedded parts use the nRF52840-DK and a LIS3DH breakout board. ([github source (⭐11)](https://github.com/tweedegolf/rust-workshop))
+*   [Tweede golf's workshop](https://workshop.tweede.golf) - A full workshop about Rust and embedded Rust. The embedded parts use the nRF52840-DK and a LIS3DH breakout board. ([github source (⭐15)](https://github.com/tweedegolf/rust-workshop))
 
 ## [4. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Chat
 
-*   [ExyteChat (⭐746)](https://github.com/exyte/chat) - SwiftUI Chat UI framework with fully customizable message cells, input view, and a built-in media picker
+*   [ExyteChat (⭐937)](https://github.com/exyte/chat) - SwiftUI Chat UI framework with fully customizable message cells, input view, and a built-in media picker
 
 ## [5. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
@@ -44,132 +44,27 @@
 
 ### Tools - Security / React
 
-*   [GraphQLer (⭐71)](https://github.com/omar2535/GraphQLer) - Dependency-aware dynamic GraphQL testing tool
+*   [GraphQLer (⭐130)](https://github.com/omar2535/GraphQLer) - Dependency-aware dynamic GraphQL testing tool
 
-## [7. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/README.md)
-
-### **Semantic Kernel** / **Semantic Kernel Planner**
-
-*   Is Semantic Kernel Planner the same as LangChain agents?
-
-    > Planner in SK is not the same as Agents in LangChain. [cite (⭐21k)](https://github.com/microsoft/semantic-kernel/discussions/1326) \[11 May 2023]
-
-    > Agents in LangChain use recursive calls to the LLM to decide the next step to take based on the current state.
-    > The two planner implementations in SK are not self-correcting.
-    > Sequential planner tries to produce all the steps at the very beginning, so it is unable to handle unexpected errors.
-    > Action planner only chooses one tool to satisfy the goal
-
-### **LangChain Agent & Memory** / LangChain Agent
-
-*   If you're using a text LLM, first try `zero-shot-react-description`.
-*   If you're using a Chat Model, try `chat-zero-shot-react-description`.
-*   If you're using a Chat Model and want to use memory, try `conversational-react-description`.
-
-### **Prompt Engineering** / **Prompt Template Language**
-
-*   [Recursively Criticizes and Improves (RCI)](https://arxiv.org/abs/2303.17491): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2303.17491)] \[30 Mar 2023]
-    *   Critique: Review your previous answer and find problems with your answer.
-    *   Improve: Based on the problems you found, improve your answer.
-*   [Tree of Thought](https://arxiv.org/abs/2305.10601): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2305.10601)]: Self-evaluate the progress intermediate thoughts make towards solving a problem \[17 May 2023] [git (⭐4.5k)](https://github.com/ysymyth/tree-of-thought-llm) / Agora: Tree of Thoughts (ToT) [git (⭐4.2k)](https://github.com/kyegomez/tree-of-thoughts)
-
-    *   `tree-of-thought\forest_of_thought.py`: Forest of thought Decorator sample
-    *   `tree-of-thought\tree_of_thought.py`: Tree of thought Decorator sample
-    *   `tree-of-thought\react-prompt.py`: ReAct sample without LangChain
-*   Zero-shot, one-shot and few-shot [cite](https://arxiv.org/abs/2005.14165) \[28 May 2020]
-
-    <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/zero-one-few-shot.png" width="200">
-*   Promptist
-
-    *   [Promptist](https://arxiv.org/abs/2212.09611): Microsoft's researchers trained an additional language model (LM) that optimizes text prompts for text-to-image generation.
-        *   For example, instead of simply passing "Cats dancing in a space club" as a prompt, an engineered prompt might be "Cats dancing in a space club, digital painting, artstation, concept art, soft light, hdri, smooth, sharp focus, illustration, fantasy."
-
-### **Finetuning** / PEFT: Parameter-Efficient Fine-Tuning ([Youtube](https://youtu.be/Us5ZFp16PaU)) [24 Apr 2023]
-
-*   Category: Represent approach - Description - Pseudo Code [ref](https://speakerdeck.com/schulta) \[22 Sep 2023]
-
-    1.  Adapters: Adapters - Additional Layers. Inference can be slower.
-
-        ```python
-        def transformer_with_adapter(x):
-          residual = x
-          x = SelfAttention(x)
-          x = FFN(x) # adapter
-          x = LN(x + residual)
-          residual = x
-          x = FFN(x) # transformer FFN
-          x = FFN(x) # adapter
-          x = LN(x + residual)
-          return x
-        ```
-
-    2.  Soft Prompts: Prompt-Tuning - Learnable text prompts. Not always desired results.
-
-        ```python
-        def soft_prompted_model(input_ids):
-          x = Embed(input_ids)
-          soft_prompt_embedding = SoftPromptEmbed(task_based_soft_prompt)
-          x = concat([soft_prompt_embedding, x], dim=seq)
-          return model(x)
-        ```
-
-    3.  Selective: BitFit - Update only the bias parameters. fast but limited.
-
-        ```python
-        params = (p for n,p in model.named_parameters() if "bias" in n)
-        optimizer = Optimizer(params)
-        ```
-
-    4.  Reparametrization: LoRa - Low-rank decomposition. Efficient, Complex to implement.
-
-        ```python
-        def lora_linear(x):
-          h = x @ W # regular linear
-          h += x @ W_A @ W_B # low_rank update
-          return scale * h
-        ```
-
-### **Quantization Techniques** / **Llama Finetuning**
-
-*   Post-training quantization (PTQ): The model is quantized after it has been trained without further optimization during the quantization process.
-
-    | Method                      | Pros                                                        | Cons                                                            |
-    | --------------------------- | ----------------------------------------------------------- | --------------------------------------------------------------- |
-    | Post-training quantization  | Easy to use, no need to retrain the model                   | May result in accuracy loss                                     |
-    | Quantization-aware training | Can achieve higher accuracy than post-training quantization | Requires retraining the model, can be more complex to implement |
-
-### **Numbers LLM** / **GPT series release date**
-
-*   [Numbers every LLM Developer should know (⭐4k)](https://github.com/ray-project/llm-numbers) \[18 May 2023] <br/> <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/llm-numbers.png" height="360">
-
-### **Large Language Models (in 2023)** / **GPT series release date**
-
-*   Change in perspective is necessary because some abilities only emerge at a certain scale. Some conclusions from the past are invalidated and we need to constantly unlearn intuitions built on top of such ideas.
-*   From first-principles, scaling up the Transformer amounts to efficiently doing matrix multiplications with many, many machines.
-*   Further scaling (think 10000x GPT-4 scale). It entails finding the inductive bias that is the bottleneck in further scaling.
-
-### **LLM Materials for East Asian Languages** / Japanese
-
-*   [法律:生成 AI の利用ガイドライン](https://storialaw.jp/blog/9414): Legal: Guidelines for the Use of Generative AI
-
-## [8. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
+## [7. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
 
 ### Databases
 
 *   [Things Every Developer Absolutely, Positively Needs To Know About Database Indexing](https://www.youtube.com/watch?v=HubezKbFL7E) by **Kai Sassnowski** \[41:49]
 
-## [9. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [8. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Compression
 
-*   [minizip-ng (⭐1.2k)](https://github.com/zlib-ng/minizip-ng) - Fork of the popular zip manipulation library found in the zlib distribution. \[zlib]
+*   [minizip-ng (⭐1.3k)](https://github.com/zlib-ng/minizip-ng) - Fork of the popular zip manipulation library found in the zlib distribution. \[zlib]
 
-## [10. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/README.md)
+## [9. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/README.md)
 
 ### Databases
 
 *   [Human Virus Database (HVD)](http://computationalbiology.cn/humanVirusBase/#/) - A database of human viruses, including information on infected tissues. See description and use in a predictive model in [Ye et al. 2022](https://academic.oup.com/bioinformatics/article-abstract/38/11/3087/6569817?redirectedFrom=fulltext)
 
-## [11. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
+## [10. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 
 ### Family
 
@@ -188,19 +83,6 @@
 
 ### Party
 
-### [The Last Bottle of Rum](https://boardgamegeek.com/boardgame/275557/last-bottle-rum)
-
-> A pirate board game for 2 to 5 players, where you play as a pirate looking to trade its treasures for the very last bottle of rum of the archipelago... Prepare to explore uncharted waters, plunder your enemies and avoid the Kraken! To win the game, a player will have to score the most victory points by digging up hidden treasures.
-
-> On each turn, choose two cards from your hand. The cards you play determines the actions you may take. Cleverly combo actions and effects to overcome obstacles and keep pace with rival captains. Fire your cannons on your opponents to slow down their treasure-hunting. Push your luck at the risk of being cursed and chased by the deadly Kraken! Play one of the unique characters and use your game-changing abilities when it’s least expected!
-
-> The first Captain to collect 10 booty points gets the last bottle of the archipelago and wins the game.
-
-![The Last Bottle of Rum](https://cf.geekdo-images.com/W-28SI7dtFwOM6KYD9egrQ__itemrep/img/UIIbwvNMAHbyDJriFpltV-7nHd4=/fit-in/246x300/filters:strip_icc\(\)/pic5715210.jpg)
-
-| Players | Min. Age |   Time |
-| ------: | -------: | -----: |
-|   2 - 5 |      10+ | 45-60m |
 ### [Zoo Vadis](https://boardgamegeek.com/boardgame/368061/zoo-vadis)
 
 > What if the animals were the ones who ran the zoo? Presumably, this wild government would be built upon the support of fellow creatures and fueled by the fame, attention, and prestige of wide-eyed visitors. Naturally, the most aspirational beasts would lobby for a position in the star exhibit, and the lead star would be elected Zoo Mascot.In order to join the star exhibit, each species must campaign its way up the hierarchy of enclosures with the majority support of animal voters. And the lead star will be the species that has earned the most laurels from both raving fans and jealous rivals along the way. How does one gain support and earn laurels? Through crafty politicking, clever negotiations, and ruthless schemes. There can only be one Zoo Mascot, after all. Where are you going? That is the ultimate question of Zoo Vadis.
@@ -242,7 +124,7 @@
 
 Contributions are welcome and encouraged! Read the [contribution guidelines](https://github.com/edm00se/awesome-board-games/blob/main/readme.md/contributing.md) first.
 
-## [12. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [11. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### Human-AI Interaction
 
@@ -250,18 +132,17 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 
 ### Critical Views about Generative AI
 
-*   [Responsible enterprise decisions with knowledge-enriched generative AI | Deloitte Netherlands](https://www2.deloitte.com/nl/nl/pages/risk/articles/responsible-enterprise-decisions-with-knowledge-enriched-generative-AI.html)
 *   [\[2310.13149\] Understanding Generative AI in Art: An Interview Study with Artists on G-AI from an HCI Perspective](https://arxiv.org/abs/2310.13149)
 *   [\[2309.12338\] Artificial Intelligence and Aesthetic Judgment](https://arxiv.org/abs/2309.12338): "as generative AI influences contemporary aesthetic judgment we outline some of the pitfalls and traps in attempting to scrutinize what AI generated media means"
 
 ### Related Awesome Lists / Deforum
 
-*   [Hannibal046/Awesome-LLM: Awesome-LLM (⭐17k)](https://github.com/Hannibal046/Awesome-LLM): a curated list of Large Language Model
-*   [AlexChalakov/awesome-generative-ai-companies (⭐95)](https://github.com/AlexChalakov/awesome-generative-ai-companies): a curated list of Gеnerative AI companies, sorted by focus area and total fundraised amount
+*   [Hannibal046/Awesome-LLM: Awesome-LLM (⭐21k)](https://github.com/Hannibal046/Awesome-LLM): a curated list of Large Language Model
+*   [AlexChalakov/awesome-generative-ai-companies (⭐102)](https://github.com/AlexChalakov/awesome-generative-ai-companies): a curated list of Gеnerative AI companies, sorted by focus area and total fundraised amount
 
 ### Retrieval-Augmented Generation (RAG) / Prompt Engineering for Text-to-image
 
-*   [dssjon/biblos: biblos.app (⭐191)](https://github.com/dssjon/biblos): example of RAG architecture using semantic search and summarization for retrieving Bible passages
+*   [dssjon/biblos: biblos.app (⭐206)](https://github.com/dssjon/biblos): example of RAG architecture using semantic search and summarization for retrieving Bible passages
 
 ### Autonomous LLM Agents / Prompt Engineering for Text-to-image
 
@@ -271,13 +152,13 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 
 *   [\[2310.17143\] Supercharging academic writing with generative AI: framework, techniques, and caveats](https://arxiv.org/abs/2310.17143)
 
-## [13. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+## [12. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
-### State Management / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+### Additional / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [exome (⭐228)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states, works with Angular Signals and RxJS.
+*   [exome (⭐243)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states, works with Angular Signals and RxJS.
 
-## [14. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
+## [13. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
 ### Programming Languages / [Other](#other-1)
 
@@ -285,21 +166,21 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 
 ### Other / [Other](#other-1)
 
-*   [kani (⭐2.1k)](https://github.com/model-checking/kani) — The Kani Rust Verifier is a bit-precise model checker for Rust.
+*   [kani (⭐2.3k)](https://github.com/model-checking/kani) — The Kani Rust Verifier is a bit-precise model checker for Rust.
     Kani is particularly useful for verifying unsafe code blocks in Rust,
     where the "unsafe superpowers" are unchecked by the compiler.
     Kani verifies:
 *   [vale](https://vale.sh) — A syntax-aware linter for prose built with speed and extensibility in mind.
 
-## [15. Awesome Datascience](/content/academic/awesome-datascience/README.md)
+## [14. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
 ### Deep Learning Packages / PyTorch Ecosystem
 
 *   [Yolov3 (⭐10k)](https://github.com/ultralytics/yolov3)
-*   [Yolov5 (⭐49k)](https://github.com/ultralytics/yolov5)
-*   [Yolov8 (⭐27k)](https://github.com/ultralytics/ultralytics)
+*   [Yolov5 (⭐52k)](https://github.com/ultralytics/yolov5)
+*   [Yolov8 (⭐35k)](https://github.com/ultralytics/ultralytics)
 
-## [16. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+## [15. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
 ### Data Science
 

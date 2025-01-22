@@ -10,30 +10,29 @@
 
 ### Genetic Programming / Others
 
-*   [PyGAD (⭐1.7k)](https://github.com/ahmedfgad/GeneticAlgorithmPython) - Genetic Algorithm in Python. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible"> <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/keras_big.png" alt="keras">
+*   [PyGAD (⭐1.8k)](https://github.com/ahmedfgad/GeneticAlgorithmPython) - Genetic Algorithm in Python. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible"> <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/keras_big.png" alt="keras">
 
 ## [2. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### Storage / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-reactive-storage (⭐34)](https://github.com/e-oz/ngx-reactive-storage) - Wrapper around IndexedDB and localStorage that allows you to create databases and tables using a simple, promise-based API. Changes to the data can be seen with Angular Signals or RxJS Observables.
+*   [ngx-reactive-storage (⭐40)](https://github.com/e-oz/ngx-reactive-storage) - Wrapper around IndexedDB and localStorage that allows you to create databases and tables using a simple, promise-based API. Changes to the data can be seen with Angular Signals or RxJS Observables.
 *   [ng2-webstorage (⭐427)](https://github.com/PillowPillow/ng2-webstorage) - LocalStorage and SessionStorage manager.
-*   [ngx-indexed-db (⭐171)](https://github.com/assuncaocharles/ngx-indexed-db) - Wraps IndexedDB in an Angular service.
-*   [angular-async-local-storage (⭐676)](https://github.com/cyrilletuzi/angular-async-local-storage) - Efficient client-side storage for Angular: simple API + performance + Observables + validation.
-*   [ng-web-apis/storage (⭐725)](https://github.com/taiga-family/ng-web-apis/blob/main/libs/storage/README.md) - This is a library to use Web Storage API with Angular.
-*   [ngx-odm (⭐41)](https://github.com/voznik/ngx-odm) - Angular 14+ wrapper for RxDB.
+*   [ngx-indexed-db (⭐182)](https://github.com/assuncaocharles/ngx-indexed-db) - Wraps IndexedDB in an Angular service.
+*   [angular-async-local-storage (⭐677)](https://github.com/cyrilletuzi/angular-async-local-storage) - Efficient client-side storage for Angular: simple API + performance + Observables + validation.
+*   [ng-web-apis/storage (⭐758)](https://github.com/taiga-family/ng-web-apis/blob/main/libs/storage/README.md) - This is a library to use Web Storage API with Angular.
+*   [ngx-odm (⭐45)](https://github.com/voznik/ngx-odm) - Angular 14+ wrapper for RxDB.
 
 ## [3. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
 ### Software for Creating APIs
 
-*   [Simple Transit Api (⭐6)](https://github.com/ioTransit/simple-transit-api) - A simple way to get started with a GTFS api in Golang.
+*   [Simple Transit Api (⭐7)](https://github.com/ioTransit/simple-transit-api) - A simple way to get started with a GTFS api in Golang.
 
 ### GTFS Based Visualizations
 
 *   [gtfs-to-geojson](https://www.transit.chat/gtfs-to-geojson) - A simple online converter for gtfs to geojson with a list of feeds.
-*   [Simple Transit Map](https://transit.chat/simple-transit-map) - An online exmple of how to host and update a webmap with your gtfs [on Github (⭐3)](https://github.com/ioTransit/simple-transit-map)
-*   [Simple Transit Site](https://transit.chat/simple-transit-site) - An online exmple of how to create a transit website all from your gtfs [on Github (⭐3)](https://github.com/ioTransit/simple-transit-site)
+*   [Simple Transit Site](https://transit.chat/simple-transit-site) - An online example of how to create a transit website all from your gtfs [on Github (⭐4)](https://github.com/ioTransit/simple-transit-site)
 
 ### GTFS Converters / Ruby
 
@@ -75,14 +74,14 @@
 *   [**Stacks**](https://stackoverflow.design/) - UI components used by Stack Overflow.\
     ![](https://img.shields.io/github/stars/StackExchange/Stacks.svg?style=social\&label=Star)
     [Docs](https://stackoverflow.design/product/develop/using-stacks/),
-    [Repo (⭐600)](https://github.com/StackExchange/Stacks)
+    [Repo (⭐616)](https://github.com/StackExchange/Stacks)
     \| #LESS
 
 ## [7. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Utility / Diagnostics
 
-*   [doctorfree/cheatsheet.nvim (⭐37)](https://github.com/doctorfree/cheatsheet.nvim) - Searchable cheatsheet.
+*   [doctorfree/cheatsheet.nvim (⭐53)](https://github.com/doctorfree/cheatsheet.nvim) - Searchable cheatsheet.
 
 ---
 

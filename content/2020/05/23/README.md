@@ -10,13 +10,13 @@
 
 ### Status Bar
 
-*   [tmux-colortag (⭐96)](https://github.com/Determinant/tmux-colortag) a plugin/theme that colors the tmux window tags.
+*   [tmux-colortag (⭐97)](https://github.com/Determinant/tmux-colortag) a plugin/theme that colors the tmux window tags.
 
 ## [2. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### no-std crates / WIP
 
-*   [embedded-websocket](https://crates.io/crates/embedded-websocket): A lightweight server and client websocket library for embedded systems. ![crates.io](https://img.shields.io/crates/v/embedded-websocket.svg)
+*   [embedded-websocket](https://crates.io/crates/embedded-websocket): A lightweight server and client websocket library for embedded systems. [![crates.io](https://img.shields.io/crates/v/embedded-websocket.svg)](https://crates.io/crates/embedded-websocket)
 
 ## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -60,7 +60,7 @@
 
 ### Contents / Games
 
-*   [Impossiblocks (⭐105)](https://github.com/javipacheco/impossiblocks) -Brain training game made by [Javi Pacheco](https://github.com/javipacheco).
+*   [Impossiblocks (⭐108)](https://github.com/javipacheco/impossiblocks) -Brain training game made by [Javi Pacheco](https://github.com/javipacheco).
 
 ## [7. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
@@ -79,7 +79,7 @@
 
 ### Software / Task Management & To-do Lists
 
-*   [Task Keeper (⭐54)](https://github.com/nymanjens/piga) - List editor for power users, backed by a self-hosted server. `Apache-2.0` `Scala`
+*   [Task Keeper (⭐62)](https://github.com/nymanjens/piga) - List editor for power users, backed by a self-hosted server. `Apache-2.0` `Scala`
 
 ## [10. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
@@ -100,7 +100,7 @@
 
 ### Configuration / Text-Based User Interfaces
 
-*   [config (⭐6.1k)](https://github.com/lightbend/config) - Configuration library supporting Java properties, JSON or its human optimized superset HOCON.
+*   [config (⭐6.2k)](https://github.com/lightbend/config) - Configuration library supporting Java properties, JSON or its human optimized superset HOCON.
 
 ### Database / Text-Based User Interfaces
 
@@ -112,7 +112,7 @@
 
 ### Job Scheduling / Text-Based User Interfaces
 
-*   [JobRunr (⭐2.3k)](https://github.com/jobrunr/jobrunr) - Job scheduling library which utilizes lambdas for fire-and-forget, delayed and recurring jobs. Guarantees execution by single scheduler instance using optimistic locking. Has features for persistence, minimal dependencies and is embeddable.
+*   [JobRunr (⭐2.4k)](https://github.com/jobrunr/jobrunr) - Job scheduling library which utilizes lambdas for fire-and-forget, delayed and recurring jobs. Guarantees execution by single scheduler instance using optimistic locking. Has features for persistence, minimal dependencies and is embeddable.
 
 ## [12. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
@@ -122,7 +122,7 @@
 
 ### Communications / DNS
 
-*   [MicroDNSSrv (⭐72)](https://github.com/jczic/MicroDNSSrv) - A micro DNS server for MicroPython to simply respond to A queries on multi-domains with or without wildcards (used on Pycom modules & ESP32).
+*   [MicroDNSSrv (⭐75)](https://github.com/jczic/MicroDNSSrv) - A micro DNS server for MicroPython to simply respond to A queries on multi-domains with or without wildcards (used on Pycom modules & ESP32).
 
 ### Communications / IoT
 
@@ -130,7 +130,7 @@
 
 ### Communications / NTP
 
-*   [micropython-ntpclient (⭐5)](https://github.com/wieck/micropython-ntpclient) - NTP client for MicroPython using uasyncio.
+*   [micropython-ntpclient (⭐6)](https://github.com/wieck/micropython-ntpclient) - NTP client for MicroPython using uasyncio.
 
 ### Communications / Radio
 
@@ -144,12 +144,12 @@
 
 ### Communications / Web
 
-*   [uwebsockets (⭐182)](https://github.com/danni/uwebsockets) - MicroPython WebSocket implementation for ESP8266.
-*   [microdot (⭐1.5k)](https://github.com/miguelgrinberg/microdot) - The impossibly small web framework for MicroPython.
+*   [uwebsockets (⭐197)](https://github.com/danni/uwebsockets) - MicroPython WebSocket implementation for ESP8266.
+*   [microdot (⭐1.6k)](https://github.com/miguelgrinberg/microdot) - The impossibly small web framework for MicroPython.
 
 ### Display / LCD TFT
 
-*   [st7789py\_mpy (⭐77)](https://github.com/devbis/st7789py_mpy) - Slow MicroPython driver for 240x240 ST7789 display without CS pin from AliExpress, written in MicroPython.
+*   [st7789py\_mpy (⭐87)](https://github.com/devbis/st7789py_mpy) - Slow MicroPython driver for 240x240 ST7789 display without CS pin from AliExpress, written in MicroPython.
 
 ### Display / LED Segment
 
@@ -174,44 +174,44 @@
 
 ### Mathematics / Waveform Generator
 
-*   [micropython-ulab (⭐395)](https://github.com/v923z/micropython-ulab) - A NumPy-like fast vector module for MicroPython.
+*   [micropython-ulab (⭐445)](https://github.com/v923z/micropython-ulab) - A NumPy-like fast vector module for MicroPython.
 *   [micropython-mtx](https://gitlab.com/nickoala/micropython-mtx) - Fast Matrix Multiplication and Linear Solver on MicroPython.
 *   [micropython-vec](https://gitlab.com/nickoala/micropython-vec) - Vector Operations on MicroPython.
 
 ### Sensors / Air Quality
 
-*   [micropython-pms7003 (⭐31)](https://github.com/pkucmus/micropython-pms7003) - MicroPython driver for the PMS7003 Air Quality Sensor.
+*   [micropython-pms7003 (⭐33)](https://github.com/pkucmus/micropython-pms7003) - MicroPython driver for the PMS7003 Air Quality Sensor.
 
 ### Sensors / Gaseous
 
-*   [micropython-scd30 (⭐24)](https://github.com/agners/micropython-scd30) - MicroPython I2C driver for Sensirion SCD30 CO2 sensor module.
+*   [micropython-scd30 (⭐25)](https://github.com/agners/micropython-scd30) - MicroPython I2C driver for Sensirion SCD30 CO2 sensor module.
 
 ### Sensors / Load Cell
 
-*   [micropython-hx711 (⭐77)](https://github.com/SergeyPiskunov/micropython-hx711) - MicroPython driver for HX711 24-Bit Analog-to-Digital Converter.
+*   [micropython-hx711 (⭐79)](https://github.com/SergeyPiskunov/micropython-hx711) - MicroPython driver for HX711 24-Bit Analog-to-Digital Converter.
 
 ### Scheduling / Touch Resistive
 
-*   [micropython-mcron (⭐35)](https://github.com/fizista/micropython-mcron) - MicroCRON is a time-based task scheduling program for MicroPython.
+*   [micropython-mcron (⭐36)](https://github.com/fizista/micropython-mcron) - MicroCRON is a time-based task scheduling program for MicroPython.
 
-### Storage / Database
+### Storage / Databases
 
 *   [nmongo (⭐20)](https://github.com/nakagami/nmongo) - MongoDB client for CPython and MicroPython, with MongoDB shell-like APIs.
 
 ### Code Generation / SRAM
 
-*   [micropy-cli (⭐310)](https://github.com/BradenM/micropy-cli) - Micropy CLI is a project management/generation tool for writing MicroPython code in modern IDEs such as Visual Studio Code.
-*   [micropython-stubber (⭐168)](https://github.com/Josverl/micropython-stubber) - Generate and use stubs for different MicroPython firmwares to use with Visual Studio Code or any IDE and linter.
+*   [micropy-cli (⭐320)](https://github.com/BradenM/micropy-cli) - Micropy CLI is a project management/generation tool for writing MicroPython code in modern IDEs such as Visual Studio Code.
+*   [micropython-stubber (⭐195)](https://github.com/Josverl/micropython-stubber) - Generate and use stubs for different MicroPython firmwares to use with Visual Studio Code or any IDE and linter.
 
 ### Shells / On Device
 
-*   [upy-shell (⭐37)](https://github.com/dhylands/upy-shell) - A simple command line-based shell for MicroPython.
-*   [Micropython-Editor (⭐218)](https://github.com/robert-hh/Micropython-Editor) - Small on-board editor for Pyboard, WiPy, ESP8266, ESP32, PyCom and Adafruit devices written in Python.
+*   [upy-shell (⭐40)](https://github.com/dhylands/upy-shell) - A simple command line-based shell for MicroPython.
+*   [Micropython-Editor (⭐229)](https://github.com/robert-hh/Micropython-Editor) - Small on-board editor for Pyboard, WiPy, ESP8266, ESP32, PyCom and Adafruit devices written in Python.
 
 ### Shells / On Host
 
-*   [rshell (⭐930)](https://github.com/dhylands/rshell) - Copy or sync files to boards, enter REPL from your terminal.
-*   [mpfshell (⭐394)](https://github.com/wendlers/mpfshell) - A simple shell-based file explorer for ESP8266 and WiPy.
+*   [rshell (⭐968)](https://github.com/dhylands/rshell) - Copy or sync files to boards, enter REPL from your terminal.
+*   [mpfshell (⭐405)](https://github.com/wendlers/mpfshell) - A simple shell-based file explorer for ESP8266 and WiPy.
 
 ## [13. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
@@ -244,7 +244,7 @@
 
 ### TestFlight / Early Access / Outline Processor Markup Language
 
-*   [Feeds by Felfele (⭐17)](https://github.com/felfele/feeds) <sup>[624](https://t.me/s/aboutrss/624)</sup> [![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://testflight.apple.com/join/icUTHYbo)[![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/apps/testing/org.felfele.feeds)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/felfele/feeds)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+*   [Feeds by Felfele (⭐18)](https://github.com/felfele/feeds) <sup>[624](https://t.me/s/aboutrss/624)</sup> [![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://testflight.apple.com/join/icUTHYbo)[![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/apps/testing/org.felfele.feeds)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/felfele/feeds)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
 ### Hosted Readers / Outline Processor Markup Language
 
@@ -253,7 +253,7 @@
 
 ### Other Apps / Outline Processor Markup Language
 
-*   [VSCode-RSS (⭐163)](https://github.com/luyuhuang/vscode-rss) <sup>[572](https://t.me/s/aboutrss/572), [618](https://t.me/s/aboutrss/618)</sup> : An RSS reader embedded in Visual Studio Code [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/luyuhuang/vscode-rss)
+*   [VSCode-RSS (⭐168)](https://github.com/luyuhuang/vscode-rss) <sup>[572](https://t.me/s/aboutrss/572), [618](https://t.me/s/aboutrss/618)</sup> : An RSS reader embedded in Visual Studio Code [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/luyuhuang/vscode-rss)
 
 ### Tech or IT / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 

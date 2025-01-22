@@ -16,51 +16,51 @@
 
 ### GitHub Tools and Management / Docker Container Actions
 
-*   [Create/Update/Delete a GitHub Wiki Page Based on Any File (⭐24)](https://github.com/Andrew-Chen-Wang/github-wiki-action)
-*   [Check GitHub Status in your Workflow (⭐25)](https://github.com/crazy-max/ghaction-github-status)
-*   [Manage Labels on GitHub (create/rename/update/delete) as Code (⭐104)](https://github.com/crazy-max/ghaction-github-labeler)
+*   [Create/Update/Delete a GitHub Wiki Page Based on Any File (⭐63)](https://github.com/Andrew-Chen-Wang/github-wiki-action)
+*   [Check GitHub Status in your Workflow (⭐33)](https://github.com/crazy-max/ghaction-github-status)
+*   [Manage Labels on GitHub (create/rename/update/delete) as Code (⭐138)](https://github.com/crazy-max/ghaction-github-labeler)
 
 ### Utility / Docker Container Actions
 
-*   [Upload and Scan Files with VirusTotal (⭐104)](https://github.com/crazy-max/ghaction-virustotal)
-*   [Import a GPG Key (⭐188)](https://github.com/crazy-max/ghaction-import-gpg)
-*   [Compress with UPX (⭐33)](https://github.com/crazy-max/ghaction-upx) - The Ultimate Packer for eXecutables.
+*   [Upload and Scan Files with VirusTotal (⭐155)](https://github.com/crazy-max/ghaction-virustotal)
+*   [Import a GPG Key (⭐311)](https://github.com/crazy-max/ghaction-import-gpg)
+*   [Compress with UPX (⭐55)](https://github.com/crazy-max/ghaction-upx) - The Ultimate Packer for eXecutables.
 
 ### Utility / Dependencies
 
-*   [Install NPM Dependencies with Caching (⭐576)](https://github.com/bahmutov/npm-install)
-*   [Highlight New NPM Dependencies (⭐22)](https://github.com/hiwelo/new-dependencies-action) - Comments on pull requests newly added NPM dependencies information.
+*   [Install NPM Dependencies with Caching (⭐649)](https://github.com/bahmutov/npm-install)
+*   [Highlight New NPM Dependencies (⭐26)](https://github.com/hiwelo/new-dependencies-action) - Comments on pull requests newly added NPM dependencies information.
 *   [Cache NPM Dependencies (⭐17)](https://github.com/c-hive/gha-npm-cache)
-*   [Cache Yarn Dependencies (⭐84)](https://github.com/c-hive/gha-yarn-cache)
+*   [Cache Yarn Dependencies (⭐91)](https://github.com/c-hive/gha-yarn-cache)
 
 ### Static Analysis / Linting
 
-*   [Validate Fastlane Supply Metadata Against the Play Store Guidelines (⭐18)](https://github.com/ashutoshgngwr/validate-fastlane-supply-metadata)
+*   [Validate Fastlane Supply Metadata Against the Play Store Guidelines (⭐22)](https://github.com/ashutoshgngwr/validate-fastlane-supply-metadata)
 
 ### Pull Requests / Code Coverage
 
-*   [Ticket Check Action (⭐30)](https://github.com/neofinancial/ticket-check-action) - Automatically add a ticket or issue number to the start of all Pull Request titles.
-*   [Pull Request Landmines (⭐24)](https://github.com/tylermurry/github-pr-landmine)
+*   [Ticket Check Action (⭐41)](https://github.com/neofinancial/ticket-check-action) - Automatically add a ticket or issue number to the start of all Pull Request titles.
+*   [Pull Request Landmines (⭐33)](https://github.com/tylermurry/github-pr-landmine)
 
 ### GitHub Pages / Code Coverage
 
-*   [Deploy to GitHub Pages with Advanced Settings (⭐345)](https://github.com/crazy-max/ghaction-github-pages)
+*   [Deploy to GitHub Pages with Advanced Settings (⭐455)](https://github.com/crazy-max/ghaction-github-pages)
 
 ### Deployment / Kubernetes
 
-*   [Create a Kubernetes Cluster for Testing Using Krucible (⭐2)](https://github.com/Krucible/krucible-github-action)
+*   [Create a Kubernetes Cluster for Testing Using Krucible (⭐4)](https://github.com/Krucible/krucible-github-action)
 
 ## [3. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 
 ### Libraries
 
-*   [omg-curry (⭐135)](https://github.com/Debdut/omg-curry) - Comprehensive Curry Library with Operator Curry, Curry from functions, Decurry and Infifnite Curries.
+*   [omg-curry (⭐137)](https://github.com/Debdut/omg-curry) - Comprehensive Curry Library with Operator Curry, Curry from functions, Decurry and Infifnite Curries.
 
 ## [4. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Image Processing
 
-*   [ImageProcessing (⭐859)](https://github.com/janko/image_processing) - High-level image processing wrapper for libvips and ImageMagick/GraphicsMagick
+*   [ImageProcessing (⭐872)](https://github.com/janko/image_processing) - High-level image processing wrapper for libvips and ImageMagick/GraphicsMagick
 
 ## [5. Awesome Ansible](/content/ansible-community/awesome-ansible/README.md)
 
@@ -70,7 +70,7 @@
 
 ### Tutorials
 
-*   [Ansible Tutorial by leucos (⭐2.2k)](https://github.com/leucos/ansible-tuto) - 12 Step Tutorial for Ansible.
+*   [Ansible Tutorial by leucos (⭐2.3k)](https://github.com/leucos/ansible-tuto) - 12 Step Tutorial for Ansible.
 
 ### Videos
 

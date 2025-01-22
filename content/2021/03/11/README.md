@@ -10,17 +10,17 @@
 
 ### Demo
 
-*   [Sitecore Developer Portal (⭐30)](https://github.com/Sitecore/developer-portal) - The Sitecore developer portal is built with Next.js, Typescript, and Tailwind CSS, and is hosted on Vercel. It uses static site generation (SSG) to create all the pages at build time. It also utilizes Incremental Static Regeneration (ISR) to automatically update the app when changes to page content are made. Many pages are written in Markdown and converted to HTML at build time. Images that are used are managed in Sitecore DAM and are published to a CDN.
+*   [Sitecore Developer Portal (⭐31)](https://github.com/Sitecore/developer-portal) - The Sitecore developer portal is built with Next.js, Typescript, and Tailwind CSS, and is hosted on Vercel. It uses static site generation (SSG) to create all the pages at build time. It also utilizes Incremental Static Regeneration (ISR) to automatically update the app when changes to page content are made. Many pages are written in Markdown and converted to HTML at build time. Images that are used are managed in Sitecore DAM and are published to a CDN.
 
 ## [2. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-cesium (⭐220)](https://github.com/nshen/vite-plugin-cesium) - Integration with Cesium library.
+*   [vite-plugin-cesium (⭐236)](https://github.com/nshen/vite-plugin-cesium) - Integration with Cesium library.
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-aliases (⭐207)](https://github.com/subwaytime/vite-aliases) - Alias auto-generation based on project structure.
+*   [vite-aliases (⭐214)](https://github.com/subwaytime/vite-aliases) - Alias auto-generation based on project structure.
 
 ## [3. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
@@ -32,37 +32,37 @@
 
 ### Video / Text
 
-*   [MPV (⭐24k)](https://github.com/mpv-player/mpv) - Lightweight, highly configurable media player. ![c\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/c-16.png "C language.")
+*   [MPV (⭐28k)](https://github.com/mpv-player/mpv) - Lightweight, highly configurable media player. ![c\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/c-16.png "C language.")
 
 ### Development / Web Development
 
-*   [SimpleLocalize CLI (⭐41)](https://github.com/simplelocalize/simplelocalize-cli) - Open source tool for managing i18n keys in software projects. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
+*   [SimpleLocalize CLI (⭐59)](https://github.com/simplelocalize/simplelocalize-cli) - Open source tool for managing i18n keys in software projects. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
 
 ### Development / iOS / macOS
 
-*   [Localizable.strings (⭐28)](https://github.com/cristibaluta/Localizable.strings) - Mac app to localize your iOS and macOS projects.  ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
-*   [Xcodes.app (⭐5.8k)](https://github.com/RobotsAndPencils/XcodesApp) - The easiest way to install and switch between multiple versions of Xcode. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
+*   [Localizable.strings (⭐31)](https://github.com/cristibaluta/Localizable.strings) - Mac app to localize your iOS and macOS projects.  ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
+*   [Xcodes.app (⭐6.9k)](https://github.com/RobotsAndPencils/XcodesApp) - The easiest way to install and switch between multiple versions of Xcode. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
 
 ### Notes / Text
 
-*   [Notenik (⭐73)](https://github.com/hbowie/notenik-swift) - Note-taking app with many organizational options. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
+*   [Notenik (⭐96)](https://github.com/hbowie/notenik-swift) - Note-taking app with many organizational options. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
 
 ### Utilities / Text
 
-*   [ThenGenerator (⭐19)](https://github.com/87kangsw/ThenGenerator) - Xcode Source Editor Extension for 'Then' ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
-*   [Stats (⭐18k)](https://github.com/exelban/stats) - macOS system monitor in your menu bar ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
-*   [baRSS – Menu Bar RSS Reader (⭐79)](https://github.com/relikd/barss) - RSS & Atom feed reader that lives in the system status bar. ![objective\_c\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/objective-c-16.png "Objective-C language.")
-*   [PercentCalculator (⭐26)](https://github.com/cemolcay/PercentCalculator) - A menu bar application that calculates percents.  ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
+*   [ThenGenerator (⭐20)](https://github.com/87kangsw/ThenGenerator) - Xcode Source Editor Extension for 'Then' ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
+*   [Stats (⭐25k)](https://github.com/exelban/stats) - macOS system monitor in your menu bar ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
+*   [baRSS – Menu Bar RSS Reader (⭐114)](https://github.com/relikd/barss) - RSS & Atom feed reader that lives in the system status bar. ![objective\_c\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/objective-c-16.png "Objective-C language.")
+*   [PercentCalculator (⭐28)](https://github.com/cemolcay/PercentCalculator) - A menu bar application that calculates percents.  ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
 
 ### Menubar / Text
 
-*   [SwiftBar (⭐2.3k)](https://github.com/swiftbar/SwiftBar) - Powerful macOS menu bar customization tool. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
+*   [SwiftBar (⭐2.9k)](https://github.com/swiftbar/SwiftBar) - Powerful macOS menu bar customization tool. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
 
 ## [5. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Note-taking & Editors
 
-*   [Joplin](https://joplinapp.org/) - Joplin is a note taking application with Markdown editor and encryption support for mobile and desktop platforms. Runs client-side and syncs through self hosted Nextcloud or similar (alternative to Evernote). ([Source Code (⭐45k)](https://github.com/laurent22/joplin)) `MIT` `Nodejs`
+*   [Joplin](https://joplinapp.org/) - Joplin is a note taking application with Markdown editor and encryption support for mobile and desktop platforms. Runs client-side and syncs through self hosted Nextcloud or similar (alternative to Evernote). ([Source Code (⭐47k)](https://github.com/laurent22/joplin)) `MIT` `Nodejs`
 
 ## [6. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -84,13 +84,13 @@
 
 ### Driver crates / Other
 
-*   [DRV8825](https://crates.io/crates/drv8825) - DRV8825 Stepper Motor Driver (based on [Stepper](https://crates.io/crates/stepper)) - [Intro blog post](https://flott-motion.org/news/announcing-step-dir/) - ![crates.io](https://img.shields.io/crates/v/drv8825.svg)
-*   [STSPIN220](https://crates.io/crates/stspin220) - STSPIN220 Stepper Motor Driver (based on [Stepper](https://crates.io/crates/stepper)) - [Intro blog post](https://flott-motion.org/news/announcing-step-dir/) - ![crates.io](https://img.shields.io/crates/v/stspin220.svg)
+*   [DRV8825](https://crates.io/crates/drv8825) - DRV8825 Stepper Motor Driver (based on [Stepper](https://crates.io/crates/stepper)) - [Intro blog post](https://flott-motion.org/news/announcing-step-dir/) - [![crates.io](https://img.shields.io/crates/v/drv8825.svg)](https://crates.io/crates/drv8825)
+*   [STSPIN220](https://crates.io/crates/stspin220) - STSPIN220 Stepper Motor Driver (based on [Stepper](https://crates.io/crates/stepper)) - [Intro blog post](https://flott-motion.org/news/announcing-step-dir/) - [![crates.io](https://img.shields.io/crates/v/stspin220.svg)](https://crates.io/crates/stspin220)
 
 ### no-std crates / WIP
 
-*   [RampMaker](https://crates.io/crates/ramp-maker): Stepper Motor Acceleration Ramp Generator - ![crates.io](https://img.shields.io/crates/v/ramp-maker.svg)
-*   [Stepper](https://crates.io/crates/stepper): Universal Stepper Motor Interface - ![crates.io](https://img.shields.io/crates/v/stepper.svg)
+*   [RampMaker](https://crates.io/crates/ramp-maker): Stepper Motor Acceleration Ramp Generator - [![crates.io](https://img.shields.io/crates/v/ramp-maker.svg)](https://crates.io/crates/ramp-maker)
+*   [Stepper](https://crates.io/crates/stepper): Universal Stepper Motor Interface - [![crates.io](https://img.shields.io/crates/v/stepper.svg)](https://crates.io/crates/stepper)
 
 ## [8. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 
@@ -118,16 +118,16 @@
 
 ### Programming Languages
 
-*   [C (⭐3.4k)](https://github.com/inputsh/awesome-c#readme)
-*   [D (⭐652)](https://github.com/dlang-community/awesome-d#readme)
+*   [C (⭐3.5k)](https://github.com/inputsh/awesome-c#readme)
+*   [D (⭐665)](https://github.com/dlang-community/awesome-d#readme)
 
 ### Front-End Development
 
-*   [PageSpeed Metrics (⭐671)](https://github.com/csabapalfi/awesome-pagespeed-metrics#readme) - Metrics to help understand page speed and user experience.
+*   [PageSpeed Metrics (⭐677)](https://github.com/csabapalfi/awesome-pagespeed-metrics#readme) - Metrics to help understand page speed and user experience.
 
 ### Development Environment
 
-*   [Fish (⭐4.1k)](https://github.com/jorgebucaran/awsm.fish#readme) - User-friendly shell.
+*   [Fish (⭐4.2k)](https://github.com/jorgebucaran/awsm.fish#readme) - User-friendly shell.
 *   [Alfred Workflows (⭐3.1k)](https://github.com/alfred-workflows/awesome-alfred-workflows#readme) - Productivity app for macOS.
 
 ### Media
@@ -136,15 +136,15 @@
 
 ### Business
 
-*   [Developer-First Products (⭐837)](https://github.com/agamm/awesome-developer-first#readme) - Products that target developers as the user.
+*   [Developer-First Products (⭐1.1k)](https://github.com/agamm/awesome-developer-first#readme) - Products that target developers as the user.
 
 ### Work
 
-*   [Programming Interviews (⭐70k)](https://github.com/DopplerHQ/awesome-interview-questions#readme)
+*   [Programming Interviews (⭐72k)](https://github.com/DopplerHQ/awesome-interview-questions#readme)
 
 ### Miscellaneous
 
-*   [Userscripts (⭐1.7k)](https://github.com/bvolpato/awesome-userscripts#readme) - Enhance your browsing experience.
+*   [Userscripts (⭐2k)](https://github.com/bvolpato/awesome-userscripts#readme) - Enhance your browsing experience.
 *   [Agriculture (⭐1.3k)](https://github.com/brycejohnston/awesome-agriculture#readme) - Open source technology for farming and gardening.
 
 ## [10. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)

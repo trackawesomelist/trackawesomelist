@@ -54,9 +54,9 @@
 
 ### Related lists
 
-*   [Awesome Audio Visualization (⭐4.5k)](https://github.com/willianjusten/awesome-audio-visualization) - A curated list about Audio Visualization.
-*   [Awesome Python for Scientific Audio (⭐1.5k)](https://github.com/faroit/awesome-python-scientific-audio) - A curated list of python software and packages related to scientific research in audio.
-*   [Awesome WebAudio (⭐1.1k)](https://github.com/notthetup/awesome-webaudio) - A curated list of awesome WebAudio packages and resources.
+*   [Awesome Audio Visualization (⭐4.7k)](https://github.com/willianjusten/awesome-audio-visualization) - A curated list about Audio Visualization.
+*   [Awesome Python for Scientific Audio (⭐1.6k)](https://github.com/faroit/awesome-python-scientific-audio) - A curated list of python software and packages related to scientific research in audio.
+*   [Awesome WebAudio (⭐1.2k)](https://github.com/notthetup/awesome-webaudio) - A curated list of awesome WebAudio packages and resources.
 
 ---
 

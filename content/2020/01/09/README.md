@@ -29,11 +29,11 @@ Topics: React, Forms, CSS Grid\
 
 ### Debugging
 
-*   🍰 [DebugKit plugin (⭐853)](https://github.com/cakephp/debug_kit) - The de-facto standard for debugging.
+*   [DebugKit plugin (⭐849)](https://github.com/cakephp/debug_kit) - The de-facto standard for debugging.
 
 ### Security
 
-*   🍰 [Captcha plugin](https://github.com/dereuromark/cakephp-captcha) - Simple, unobtrusive and extendable captcha solution providing by default an image based math captcha.
+*   [Captcha plugin (⭐10)](https://github.com/dereuromark/cakephp-captcha) - Simple, unobtrusive and extendable captcha solution providing by default an image based math captcha.
 
 ## [4. Awesome Ponyfills](/content/Richienb/awesome-ponyfills/README.md)
 
@@ -87,7 +87,7 @@ Topics: React, Forms, CSS Grid\
 
 ### GitHub Tools and Management / Docker Container Actions
 
-*   [Get a list of file changes with PR/Push (⭐132)](https://github.com/trilom/file-changes-action)
+*   [Get a list of file changes with PR/Push (⭐166)](https://github.com/trilom/file-changes-action)
 
 ---
 

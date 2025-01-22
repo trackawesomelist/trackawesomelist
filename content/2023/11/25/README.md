@@ -10,7 +10,7 @@
 
 ### Miscellaneous
 
-*   [Jinja2С++ (⭐490)](https://github.com/jinja2cpp/Jinja2Cpp) - almost full-conformance template engine implementation. [website](https://jinja2cpp.github.io/)
+*   [Jinja2С++ (⭐516)](https://github.com/jinja2cpp/Jinja2Cpp) - almost full-conformance template engine implementation. [website](https://jinja2cpp.github.io/)
 
 ## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -39,7 +39,7 @@
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [achab (⭐2)](https://github.com/niotna/antoinechab-theme) - Includes decorators for the current folder path, the current user and the current `git` branch. Decorator colors are easily customizable.
+*   [achab (⭐3)](https://github.com/niotna/antoinechab-theme) - Includes decorators for the current folder path, the current user and the current `git` branch. Decorator colors are easily customizable.
 *   [htb (⭐1)](https://github.com/ibyf0r3ns1cs/zsh-htb-theme) - Inspired by the pwnbox on a HackTheBox machine. Includes decorators for user\@host, IP address and the current directory.
 *   [ruweird (⭐0)](https://github.com/ruweird/ruweird.zsh-theme) - Minimalist. Has decorators for `git` status and current directory. Shows an umbrella with raindrops and exit code of the last command if non-zero.
 *   [velvet (⭐0)](https://github.com/dor133/velvet-zsh-theme) - Includes decorators for `git` status, username, current directory, exit status of last command, and the time.

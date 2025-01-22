@@ -140,7 +140,7 @@ Webpage: <http://hanahaus.com/>
 
 ### Documentation
 
-*   [bureaucrat (⭐366)](https://github.com/api-hogs/bureaucrat) - Generate Phoenix API documentation from tests.
+*   [bureaucrat (⭐368)](https://github.com/api-hogs/bureaucrat) - Generate Phoenix API documentation from tests.
 
 ### Examples and funny stuff
 
@@ -148,15 +148,15 @@ Webpage: <http://hanahaus.com/>
 
 ### Framework Components
 
-*   [phoenix\_haml (⭐158)](https://github.com/chrismccord/phoenix_haml) - Phoenix Template Engine for Haml.
+*   [phoenix\_haml (⭐157)](https://github.com/chrismccord/phoenix_haml) - Phoenix Template Engine for Haml.
 
 ### ORM and Datamapping
 
-*   [mongodb (⭐566)](https://github.com/ericmj/mongodb) - MongoDB driver for Elixir.
+*   [mongodb (⭐572)](https://github.com/ericmj/mongodb) - MongoDB driver for Elixir.
 
 ### Protocols
 
-*   [riffed (⭐308)](https://github.com/pinterest/riffed) - Provides idiomatic Elixir bindings for Apache Thrift.
+*   [riffed (⭐306)](https://github.com/pinterest/riffed) - Provides idiomatic Elixir bindings for Apache Thrift.
 
 ## [8. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
@@ -172,8 +172,8 @@ Webpage: <http://hanahaus.com/>
 
 ### Rust / General-Purpose Machine Learning
 
-*   [deeplearn-rs (⭐211)](https://github.com/tedsta/deeplearn-rs) - deeplearn-rs provides simple networks that use matrix multiplication, addition, and ReLU under the MIT license.
-*   [rustlearn (⭐614)](https://github.com/maciejkula/rustlearn) - a machine learning framework featuring logistic regression, support vector machines, decision trees and random forests.
+*   [deeplearn-rs (⭐212)](https://github.com/tedsta/deeplearn-rs) - deeplearn-rs provides simple networks that use matrix multiplication, addition, and ReLU under the MIT license.
+*   [rustlearn (⭐623)](https://github.com/maciejkula/rustlearn) - a machine learning framework featuring logistic regression, support vector machines, decision trees and random forests.
 
 ---
 

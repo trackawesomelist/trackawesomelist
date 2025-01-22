@@ -15,9 +15,9 @@
 *   :notebook: [A generic approach to automatic deobfuscation of executable code](https://ieeexplore.ieee.org/document/7163054) (May 2015)  :star:
 *   :newspaper: [Malware analysis using multiple API sequence mining control flow graph](https://arxiv.org/abs/1707.02691) (July 2017)
 *   :notebook: [Obfuscation-resilient executable payload extraction from packed malware](https://www.usenix.org/conference/usenixsecurity21/presentation/cheng-binlin) (August 2021)  :star:
-*   :notebook: [PolyUnpack: Automating the hidden-code extraction of unpack-executing malware](https://ieeexplore.ieee.org/document/4041175) (December 2006)  :star: :star: :star:
-*   :notebook: [SoK: Deep packer inspection: A longitudinal study of the complexity of run-time packers](https://ieeexplore.ieee.org/document/7163053) (May 2015)  :star2: :star2: :star2:
-*   :notebook: [When malware is packin' heat; limits of machine learning classifiers based on static analysis features](https://www.ndss-symposium.org/wp-content/uploads/2020/02/24310.pdf) (January 2020)  :star:
+*   :notebook: [PolyUnpack: Automating the hidden-code extraction of unpack-executing malware](https://ieeexplore.ieee.org/document/4041175) (December 2006)  :star2: :star2: :star2:
+*   :notebook: [SoK: Deep packer inspection: A longitudinal study of the complexity of run-time packers](https://ieeexplore.ieee.org/document/7163053) (May 2015)  :star: :star:
+*   :notebook: [When malware is packin' heat; limits of machine learning classifiers based on static analysis features](https://www.ndss-symposium.org/wp-content/uploads/2020/02/24310.pdf) (January 2020)  :star: :star:
 
 ## [2. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
@@ -25,9 +25,9 @@
 
 *   [BeVigil](https://bevigil.com/search) - Search for assets like Subdomains, URLs, Parameters in mobile applications
 
-### Other Tools / Telegram
+### Other Tools / Steam
 
-*   [BeVigil-CLI (⭐105)](https://github.com/Bevigil/BeVigil-OSINT-CLI) - A unified command line interface and python library for using BeVigil OSINT API to search for assets such as subdomains, URLs, applications indexed from mobile applications.
+*   [BeVigil-CLI (⭐120)](https://github.com/Bevigil/BeVigil-OSINT-CLI) - A unified command line interface and python library for using BeVigil OSINT API to search for assets such as subdomains, URLs, applications indexed from mobile applications.
 
 ## [3. Nlp with Ruby](/content/arbox/nlp-with-ruby/README.md)
 
@@ -40,7 +40,7 @@
 
 ### Projects / Frameworks
 
-*   [VCFloat (⭐21)](https://github.com/VeriNum/vcfloat) - Framework for verifying C programs with floating-point computations.
+*   [VCFloat (⭐26)](https://github.com/VeriNum/vcfloat) - Framework for verifying C programs with floating-point computations.
 
 ### Resources / Community
 
@@ -50,7 +50,7 @@
 
 ### Network Protocols
 
-*   [mqtt-client.cr (⭐3)](https://github.com/84codes/mqtt-client.cr) - A fast and lightweight MQTT client
+*   [mqtt-client.cr (⭐4)](https://github.com/84codes/mqtt-client.cr) - A fast and lightweight MQTT client
 
 ## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -62,25 +62,25 @@
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [nanika (⭐1)](https://github.com/justforuse/nanika-zsh-theme/) - Optimized variant of [robbyrussell (⭐172k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#robbyrussell). Includes `git` status decorations.
+*   [nanika (⭐1)](https://github.com/justforuse/nanika-zsh-theme/) - Optimized variant of [robbyrussell (⭐175k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#robbyrussell). Includes `git` status decorations.
 
 ## [8. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Web
 
-*   [darkredz/zeko-restapi-framework (⭐18)](https://github.com/darkredz/zeko-restapi-framework) - Asynchronous web framework for Kotlin. Create REST APIs in Kotlin easily with automatic Swagger/OpenAPI doc generation
+*   [darkredz/zeko-restapi-framework (⭐19)](https://github.com/darkredz/zeko-restapi-framework) - Asynchronous web framework for Kotlin. Create REST APIs in Kotlin easily with automatic Swagger/OpenAPI doc generation
 
 ### Projects / Idea Plugins
 
-*   [dkandalov/limited-wip (⭐108)](https://github.com/dkandalov/limited-wip) - Plugin to limit your work-in-progress.
-*   [dkandalov/pomodoro-tm (⭐134)](https://github.com/dkandalov/pomodoro-tm) - Pomodoro timer.
-*   [emedinaa/kotlin-mvvm (⭐531)](https://github.com/emedinaa/kotlin-mvvm) - MVVM(Model View ViewModel) sample in Kotlin using the components ViewModel, LiveData and Retrofit library
+*   [dkandalov/limited-wip (⭐111)](https://github.com/dkandalov/limited-wip) - Plugin to limit your work-in-progress.
+*   [dkandalov/pomodoro-tm (⭐140)](https://github.com/dkandalov/pomodoro-tm) - Pomodoro timer.
+*   [emedinaa/kotlin-mvvm (⭐537)](https://github.com/emedinaa/kotlin-mvvm) - MVVM(Model View ViewModel) sample in Kotlin using the components ViewModel, LiveData and Retrofit library
 
 ## [9. Awesome Mirth](/content/mga-mirth/awesome-mirth/README.md)
 
 ### Official Docs & Quickstarts
 
-*   💡 [Mirth Connect examples (⭐92)](https://github.com/nextgenhealthcare/connect-examples) - Official Mirth Examples.
+*   💡 [Mirth Connect examples (⭐100)](https://github.com/nextgenhealthcare/connect-examples) - Official Mirth Examples.
 
 ### Tutorials
 
@@ -126,17 +126,17 @@
 
 ### Awesome Repositories
 
-- Repository: [Capsulecorp Pentest (⭐798)](https://github.com/r3dy/capsulecorp-pentest)
+- Repository: [Capsulecorp Pentest (⭐856)](https://github.com/r3dy/capsulecorp-pentest)
 
   Description: Vagrant+Ansible virtual network penetration testing lab. Companion to "The Art of Network Penetration Testing" by Royce Davis
 
 
-- Repository: [Real-time Communications hacking & pentesting resources (⭐391)](https://github.com/EnableSecurity/awesome-rtc-hacking)
+- Repository: [Real-time Communications hacking & pentesting resources (⭐428)](https://github.com/EnableSecurity/awesome-rtc-hacking)
 
   Description: Covers VoIP, WebRTC and VoLTE security related topics
 
 
-- Repository: [Reinforcement Learning for Cyber Security (⭐712)](https://github.com/Limmen/awesome-rl-for-cybersecurity)
+- Repository: [Reinforcement Learning for Cyber Security (⭐798)](https://github.com/Limmen/awesome-rl-for-cybersecurity)
 
   Description: List of awesome reinforcement learning for security resources
 
@@ -146,11 +146,11 @@
 
 ### Applications
 
-*   [fend (⭐609)](https://github.com/printfn/fend) - Arbitrary-precision unit-aware calculator [![build](https://github.com/printfn/fend/workflows/build/badge.svg)](https://github.com/printfn/fend)
+*   [fend (⭐736)](https://github.com/printfn/fend) - Arbitrary-precision unit-aware calculator [![build](https://github.com/printfn/fend/workflows/build/badge.svg)](https://github.com/printfn/fend)
 
 ### Development tools / Formatters
 
-*   [rustfmt (⭐5.9k)](https://github.com/rust-lang/rustfmt) - Rust code formatter maintained by the Rust team and included in cargo
+*   [rustfmt (⭐6.1k)](https://github.com/rust-lang/rustfmt) - Rust code formatter maintained by the Rust team and included in cargo
 
 ## [14. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -162,7 +162,7 @@
 
 ### ⚙️ Middlewares / 🧬 Core
 
-*   [EnvVar (⭐31k)](https://github.com/gofiber/fiber/tree/master/middleware/envvar) - Expose environment variables with providing an optional config.
+*   [EnvVar (⭐35k)](https://github.com/gofiber/fiber/tree/master/middleware/envvar) - Expose environment variables with providing an optional config.
 
 ## [16. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 

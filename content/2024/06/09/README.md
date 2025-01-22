@@ -10,13 +10,13 @@
 
 ### Tools / Playground
 
-*   [pg (⭐327)](https://github.com/datawan-labs/pg) - Browser PostgreSQL Playground, no server, just client and pglite (postgresql wasm)
+*   [pg (⭐355)](https://github.com/datawan-labs/pg) - Browser PostgreSQL Playground, no server, just client and pglite (postgresql wasm)
 
 ## [2. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/README.md)
 
 ### Platformer
 
-*   [sm64js (⭐0)](https://github.com/sm64jsarchive/sm64jsarchive) - Super Mario 64 reimplementation in JavaScript.
+*   [sm64js (⭐3)](https://github.com/sm64jsarchive/sm64jsarchive) - Super Mario 64 reimplementation in JavaScript.
 
 ## [3. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
@@ -28,7 +28,7 @@
 
 ### Configuration
 
-*   [tmux-keybtest (⭐1)](https://github.com/jaclu/tmux-keybtest) Check what keys tmux can detect from the terminal being used.
+*   [tmux-keybtest (⭐2)](https://github.com/jaclu/tmux-keybtest) Check what keys tmux can detect from the terminal being used.
 
 ---
 

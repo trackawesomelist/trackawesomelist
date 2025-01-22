@@ -16,7 +16,7 @@
 
 ### Tools
 
-*   [dump-ipfs (⭐1)](https://github.com/quasarch/dump-ipfs) - A decentralized encrypted backup agent for popular databases supported by IPFS and Filecoin.
+*   [dump-ipfs (⭐3)](https://github.com/quasarch/dump-ipfs) - A decentralized encrypted backup agent for popular databases supported by IPFS and Filecoin.
 
 ## [3. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/README.md)
 
@@ -34,28 +34,28 @@
 
 ## [5. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
-### Templates / Others
+### Tauri / Others
 
-*   [vite-vue3-chrome-extension-v3 (⭐409)](https://github.com/mubaidr/vite-vue3-chrome-extension-v3) - Web extension starter template for Chrome, Firefox and Edge.
+*   [vite-vue3-chrome-extension-v3 (⭐533)](https://github.com/mubaidr/vite-vue3-chrome-extension-v3) - Web extension starter template for Chrome, Firefox and Edge.
 
 ## [6. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### (requires Neovim 0.5)
 
-*   [mrcjkb/rustaceanvim (⭐1.4k)](https://github.com/mrcjkb/rustaceanvim) - A heavily modified fork of rust-tools.nvim that does not require a `setup` call and does not depend on nvim-lspconfig.
+*   [mrcjkb/rustaceanvim (⭐2k)](https://github.com/mrcjkb/rustaceanvim) - A heavily modified fork of rust-tools.nvim that does not require a `setup` call and does not depend on nvim-lspconfig.
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [mrcjkb/kickstart-nix.nvim (⭐178)](https://github.com/mrcjkb/kickstart-nix.nvim) - A simple [Nix flake](https://wiki.nixos.org/wiki/Flakes) template repo for Neovim derivations, with the goal of simplifying the migration from existing Neovim configurations.
+*   [mrcjkb/kickstart-nix.nvim (⭐258)](https://github.com/mrcjkb/kickstart-nix.nvim) - A simple [Nix flake](https://wiki.nixos.org/wiki/Flakes) template repo for Neovim derivations, with the goal of simplifying the migration from existing Neovim configurations.
 
 ## [7. Awesome Directus](/content/directus-community/awesome-directus/README.md)
 
 ### Extensions / Community
 
-*   [Tab Group (⭐10)](https://github.com/formfcw/directus-extension-tab-group) - A group interface with a tab menu for toggling the visibility of fields within the group.
-*   [Drawer Notice (⭐7)](https://github.com/formfcw/directus-extension-drawer-notice) - A notice field that is only visible in the drawer.
-*   [Classified Group (⭐5)](https://github.com/formfcw/directus-extension-classified-group) - A group to which a class can be assigned for custom styling.
-*   [Tokenized Preview (⭐7)](https://github.com/formfcw/directus-extension-tokenized-preview) - An endpoint that adds an active auth token to your preview URL.
+*   [Tab Group (⭐11)](https://github.com/formfcw/directus-extension-tab-group) - A group interface with a tab menu for toggling the visibility of fields within the group.
+*   [Drawer Notice (⭐8)](https://github.com/formfcw/directus-extension-drawer-notice) - A notice field that is only visible in the drawer.
+*   [Classified Group (⭐10)](https://github.com/formfcw/directus-extension-classified-group) - A group to which a class can be assigned for custom styling.
+*   [Tokenized Preview (⭐8)](https://github.com/formfcw/directus-extension-tokenized-preview) - An endpoint that adds an active auth token to your preview URL.
 
 ## [8. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 
@@ -72,7 +72,7 @@
 
 ### Tutorials
 
-*   [Tutorials to get started on signal processing for machine learning (⭐57)](https://github.com/jinglescode/python-signal-processing)
+*   [Tutorials to get started on signal processing for machine learning (⭐64)](https://github.com/jinglescode/python-signal-processing)
 
 ## [10. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
@@ -140,13 +140,13 @@
 
 ### Containers
 
-*   [svector (⭐94)](https://github.com/martinus/svector) - Compact SVO optimized vector for C++17 or higher. \[MIT]
+*   [svector (⭐97)](https://github.com/martinus/svector) - Compact SVO optimized vector for C++17 or higher. \[MIT]
 
 ## [15. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### ORM
 
-*   [EntityFrameworkCore.SqlServer.SimpleBulks (⭐151)](https://github.com/phongnguyend/EntityFrameworkCore.SqlServer.SimpleBulks) - Simple library that can help to sync a large number of records in-memory into the database. Lambda Expression is supported.
+*   [EntityFrameworkCore.SqlServer.SimpleBulks (⭐166)](https://github.com/phongnguyend/EntityFrameworkCore.SqlServer.SimpleBulks) - Simple library that can help to sync a large number of records in-memory into the database. Lambda Expression is supported.
 
 ### PDF
 
@@ -170,17 +170,6 @@
 
 ### Party
 
-### [The Lord of the Rings: Journeys in Middle-Earth](https://boardgamegeek.com/boardgame/269385/lord-rings-journeys-middle-earth)
-
-> Embark on your own adventures in J.R.R. Tolkien's iconic world with The Lord of the Rings: Journeys in Middle-Earth, a fully co-operative, app-supported board game for one to five players! You'll battle villainous foes, make courageous choices, and strike a blow against the evil that threatens the land — all as part of a thrilling campaign that leads you across the storied hills and dales of Middle-Earth.
->
-> Each individual game of Journeys in Middle-Earth is a single adventure in a larger campaign. You'll explore the vast and dynamic landscapes of Middle-earth, using your skills to survive the challenges that you encounter on these perilous quests. As you and your fellow heroes explore the wilderness and battle the dark forces arrayed against you, the game's companion app guides you to reveal the looming forests, quiet clearings, and ancient halls of Middle-Earth, while also controlling the enemies you encounter. Whether you're venturing into the wild on your own or with close companions by your side, you can write your own legend in the history of Middle-Earth.
-
-![The Lord of the Rings: Journeys in Middle-Earth game image](https://cf.geekdo-images.com/1XA2-niwTBa0HEB7hOz3Dw__itemrep/img/_ITP3pPZx-TQoUYwXoBOLvUboSw=/fit-in/246x300/filters:strip_icc\(\)/pic4530974.jpg)
-
-| Players | Min. Age |    Time |
-| ------: | -------: | ------: |
-|   1 - 5 |       14 | 60-120m |
 ### [Arkham Horror](https://boardgamegeek.com/boardgame/15987/arkham-horror)
 
 > The year is 1926, and it is the height of the Roaring Twenties. Flappers dance till dawn in smoke-filled speakeasies drinking alcohol supplied by rum runners and the mob. It's a celebration to end all celebrations in the aftermath of the war to end all wars.Yet a dark shadow grows in the city of Arkham. Alien entities known as Ancient Ones lurk in the emptiness beyond space and time, writhing at the gates between worlds. These gates have begun to open and must be closed before the Ancient Ones make our world their ruined domination.
@@ -199,15 +188,6 @@
 | Players | Min. Age |  Time |
 | ------: | -------: | ----: |
 |   2 - 4 |        7 | 5-15m |
-### [Lords of Vegas](https://boardgamegeek.com/boardgame/20437/lords-vegas)
-
-> You and your opponents represent powerful developers in a burgeoning Nevada city. You will earn money and prestige by building the biggest and most profitable casinos on "The Strip," the town's backbone of dust and sin. You start with nothing but parking lots and dreams, but from there you build, sprawl, reorganize and gamble your way to victory. Score the most points investing in the most profitable development companies and putting the best bosses in control of the richest casinos. Put your dollars on the line . . . it's time to roll!.The game board is broken into 6 different areas, each consisting of a number of empty 'lots'. Players build lots by paying money and placing a die of the value matching the one shown on the lot's space onto the lot, along with a casino tile of one of 7 colors. Adjoining lots of the same color are considered a single casino. The casino's boss is the player whose die value is higher than any other in the casino. On each players turn, players turn over a new card representing a new lot they get. The card also is one of the casino colors. Any built casinos of the matching color will score both money and points. Money is earned for each lot in the casino, where each lot may be owned by a different player. Points go only to the casino's owner. Players can expand their casinos; try to take over casinos owned by other players; make deals to trade lots, casinos and money; or gamble in opponents' casinos to make more money. Ultimately, though, only points matter, and that means making yourself boss of the biggest casinos.
-
-![Lords Of Vegas](https://cf.geekdo-images.com/-uYn413Wy8Vzm9wkuOajWg__itemrep/img/cxNjgjWpiQ3ATxJ6rShTlMYYzpk=/fit-in/246x300/filters:strip_icc\(\)/pic774410.jpg)
-
-| Players | Min. Age |   Time |
-| ------: | -------: | -----: |
-|   2 - 4 |       12 | 60-90m |
 ### [Diplomacy](https://boardgamegeek.com/boardgame/483/diplomacy)
 
 > This classic game of pure negotiation has taken many forms over the years. The first The Avalon Hill Game Co version has perhaps the widest release, but Avalon Hill re-released the game in 1999, complete with a colorful new map and metal pieces. In 2008, Avalon Hill released a 50th anniversary edition with a new map and cardboard pieces representing the armies and navies.In the game, players represent one of the seven "Great Powers of Europe" (Great Britain, France, Austria-Hungary, Germany, Italy, Russia or Turkey) in the years prior to World War I. Play begins in the Spring of 1901, and players make both Spring and Autumn moves each year. There are only two kinds of military units: armies and fleets. On any given turn, each of your military units has limited options: they can move into an adjoining territory, support an allied unit in an attack on an adjoining territory, support an allied unit in defending an adjoining territory, or hold their position. Players instruct each of their units by writing a set of "orders." The outcome of each turn is determined by the rules of the game. There are no dice rolls or other elements of chance. With its incredibly simplistic movement mechanics fused to a significant negotiation element, this system is highly respected by many gamers.
@@ -267,7 +247,7 @@
 
 ### Software / Software Development - Low Code
 
-*   [Dashpress (⭐1.7k)](https://github.com/dashpresshq/dashpress) - Generate fully functional admin apps in seconds from your database information, with a single command. ([Demo](https://demo.dashpress.io/auth)) `AGPL-3.0` `Nodejs/Docker`
+*   [Dashpress (⭐1.8k)](https://github.com/dashpresshq/dashpress) - Generate fully functional admin apps in seconds from your database information, with a single command. ([Demo](https://demo.dashpress.io/auth)) `AGPL-3.0` `Nodejs/Docker`
 
 ## [19. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -290,12 +270,11 @@
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [colorize-functions (⭐3)](https://github.com/Freed-Wu/zsh-colorize-functions) - Colorizes functions for ZSH.
-*   [help (⭐7)](https://github.com/Freed-Wu/zsh-help) - Colorizes the output of commands run with `--help`.
+*   [help (⭐12)](https://github.com/Freed-Wu/zsh-help) - Colorizes the output of commands run with `--help`.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [backbone (⭐2)](https://github.com/lmllrjr/backbone-zsh-prompt) - A bare minimum single file prompt, fast as a roadrunner MEEP! MEEP. Includes `git` status and current directory decorations.
-*   [ultima (⭐81)](https://github.com/egorlem/ultima.zsh-theme) - Minimalist, includes `git` status and current directory decorators.
+*   [ultima (⭐96)](https://github.com/egorlem/ultima.zsh-theme) - Minimalist, includes `git` status and current directory decorators.
 
 ---
 

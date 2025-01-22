@@ -87,7 +87,7 @@
 
 ### Related projects / Syntax highlighting packages
 
-*   [Game Boy video effects (⭐5)](https://github.com/ChaosCabbage/crazy-gameboy-video-experiments) - Some little experiments using the STAT interrupt to do funny video manipulations.
+*   [Game Boy video effects (⭐6)](https://github.com/ChaosCabbage/crazy-gameboy-video-experiments) - Some little experiments using the STAT interrupt to do funny video manipulations.
 
 ## [9. Awesome Diversity](/content/folkswhocode/awesome-diversity/README.md)
 

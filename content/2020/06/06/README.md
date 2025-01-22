@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 06, 2020
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -47,7 +47,7 @@
 
 ### Apps
 
-*   [Feednext (⭐297)](https://github.com/feednext/feednext) - An open source social media application.
+*   [Feednext (⭐322)](https://github.com/feednext/feednext) - An open source social media application.
 
 ## [6. Awesome Saltstack](/content/hbokh/awesome-saltstack/README.md)
 
@@ -70,21 +70,15 @@
 
 ### Projects
 
-*   [Yew-WebRTC-Chat (⭐122)](https://github.com/codec-abc/Yew-WebRTC-Chat) - A simple WebRTC chat made with Yew.
+*   [Yew-WebRTC-Chat (⭐127)](https://github.com/codec-abc/Yew-WebRTC-Chat) - A simple WebRTC chat made with Yew.
 
-## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / UI Components
-
-*   [vuesence-cloud-sync-button (⭐11)](https://github.com/altrusl/vuesence-cloud-sync-button) - Animated button which also serves as a cloud synchronization progress bar
-
-## [10. Awesome Webaudio](/content/notthetup/awesome-webaudio/README.md)
+## [9. Awesome Webaudio](/content/notthetup/awesome-webaudio/README.md)
 
 ### Packages / Apps
 
 *   [jamhub (⭐33)](https://github.com/fletcherist/jamhub) - low-latency remote music collaboration & jam.
 
-## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### PaaS
 

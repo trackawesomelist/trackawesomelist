@@ -10,13 +10,13 @@
 
 ### Themes for non-GTK apps / Skeumorphic Icons
 
-*   [Discord GNOME Theme (⭐10)](https://github.com/ricewind012/discord-gnome-theme) - A GNOME theme for Discord, following the Adwaita style & GNOME Human Interface Guidelines.
+*   [Discord GNOME Theme (⭐18)](https://github.com/ricewind012/discord-gnome-theme) - A GNOME theme for Discord, following the Adwaita style & GNOME Human Interface Guidelines.
 
 ## [2. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
 ### Rust / Scala
 
-*   [Wtx (⭐63)](https://github.com/c410-f3r/wtx) - HTTP/2 client/server framework.
+*   [Wtx (⭐247)](https://github.com/c410-f3r/wtx) - HTTP/2 client/server framework.
 
 ## [3. Awesome Flame](/content/flame-engine/awesome-flame/README.md)
 
@@ -39,37 +39,37 @@
 ### Development tools
 
 *   [Turbo C++ 3.0](https://archive.org/details/tcc_20210425) - C++ IDE and compiler from Borland released in 1992.
-    *   [Online version.](https://sounddrill31.github.io/TurboCPP-Web/)
+    *   [Online version.](https://turboc.pages.dev/)
 
 ## [6. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/README.md)
 
 ### Drug Response Prediction / LLM for biology
 
-*   [scPRINT (⭐5)](https://github.com/cantinilab/scPRINT) - scPRINT is pretrained on 50M cells to denoise and perform zero imputation of any single cell RNAseq profile.
+*   [scPRINT (⭐22)](https://github.com/cantinilab/scPRINT) - scPRINT is pretrained on 50M cells to denoise and perform zero imputation of any single cell RNAseq profile.
 
 ## [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / File Transfer & Synchronization
 
-*   [Puter](https://puter.com/) - Web-based operating system designed to be feature-rich, exceptionally fast, and highly extensible. ([Demo](https://puter.com/), [Source Code (⭐24k)](https://github.com/heyputer/puter)) `AGPL-3.0` `Nodejs/Docker`
+*   [Puter](https://puter.com/) - Web-based operating system designed to be feature-rich, exceptionally fast, and highly extensible. ([Demo](https://puter.com/), [Source Code (⭐28k)](https://github.com/heyputer/puter)) `AGPL-3.0` `Nodejs/Docker`
 
 ### Software / Pastebins
 
-*   [Spacebin](https://spaceb.in) - Modern Pastebin server written in Go with a JS-free web UI and tons of features. ([Demo](https://spaceb.in), [Source Code (⭐79)](https://github.com/lukewhrit/spacebin)) `Apache-2.0` `Go/Docker`
+*   [Spacebin](https://spaceb.in) - Modern Pastebin server written in Go with a JS-free web UI and tons of features. ([Demo](https://spaceb.in), [Source Code (⭐99)](https://github.com/lukewhrit/spacebin)) `Apache-2.0` `Go/Docker`
 
 ### Software / Personal Dashboards
 
-*   [portkey](https://portkey.page) - A simple web portal that can act as startup page and shows a collection of links/urls. Also supports adding custom pages. Everything with one config file. ([Demo](https://demo.portkey.page), [Source Code (⭐7)](https://github.com/kodehat/portkey)) `AGPL-3.0` `Go/Docker`
+*   [portkey](https://portkey.page) - A simple web portal that can act as startup page and shows a collection of links/urls. Also supports adding custom pages. Everything with one config file. ([Demo](https://demo.portkey.page), [Source Code (⭐32)](https://github.com/kodehat/portkey)) `AGPL-3.0` `Go/Docker`
 
 ### Software / Video Surveillance
 
-*   [Viseron](https://viseron.netlify.app/) - Self-hosted, local-only NVR and AI Computer Vision software. With features such as object detection, motion detection, face recognition and more, it gives you the power to keep an eye on your home, office or any other place you want to monitor. ([Source Code (⭐1.6k)](https://github.com/roflcoopter/viseron)) `MIT` `Docker`
+*   [Viseron](https://viseron.netlify.app/) - Self-hosted, local-only NVR and AI Computer Vision software. With features such as object detection, motion detection, face recognition and more, it gives you the power to keep an eye on your home, office or any other place you want to monitor. ([Source Code (⭐1.8k)](https://github.com/roflcoopter/viseron)) `MIT` `Docker`
 
 ## [8. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
-### 2D / Godot 3.2+
+### 2D / Godot 3
 
-*   [Starship Olympics (⭐500)](https://github.com/notapixelstudio/starship-olympics) - Fast-paced local party game with starships that battle in a top-down arena.
+*   [Starship Olympics (⭐514)](https://github.com/notapixelstudio/starship-olympics) - Fast-paced local party game with starships that battle in a top-down arena.
 
 ## [9. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
@@ -85,14 +85,13 @@
 
 ### Plugins
 
-*   [tmux-gh (⭐0)](https://github.com/tardunge/tmux-gh) - Tmux plugin to fetch the github helper profile. Displays, the currently actively authenticated git username.
+*   [tmux-gh (⭐1)](https://github.com/tardunge/tmux-gh) - Tmux plugin to fetch the github helper profile. Displays, the currently actively authenticated git username.
 
 ## [11. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [auto-cenv (⭐0)](https://github.com/mobiuscog/zsh-auto-cenv) - Automatically activate a conda environment when entering the project folder.
-*   [popman (⭐0)](https://github.com/jdsee/popman) - Ever found yourself in the middle of composing a long command and needing to check a man page? Popman lets you instantly pop open a man page for any command you're typing and jump right back to where you left off, making your command-line experience smoother and more efficient.
+*   [popman (⭐3)](https://github.com/jdsee/popman) - Ever found yourself in the middle of composing a long command and needing to check a man page? Popman lets you instantly pop open a man page for any command you're typing and jump right back to where you left off, making your command-line experience smoother and more efficient.
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -100,7 +99,7 @@
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [dalailahner (⭐0)](https://github.com/dalailahner/dalailahner.zsh-theme) - Minimalist theme with decorators for `git` status, username and current directory. Based on Steve Losh's [Prose (⭐351)](https://github.com/sjl/oh-my-zsh/blob/master/themes/prose.zsh-theme) theme.
+*   [dalailahner (⭐0)](https://github.com/dalailahner/dalailahner.zsh-theme) - Minimalist theme with decorators for `git` status, username and current directory. Based on Steve Losh's [Prose (⭐350)](https://github.com/sjl/oh-my-zsh/blob/master/themes/prose.zsh-theme) theme.
 
 ---
 

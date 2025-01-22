@@ -14,11 +14,6 @@
 *   [The importance of mixed selectivity in complex cognitive tasks](https://oar.princeton.edu/rt4ds/file/11875/2161) - ***Nature***, 2013. \[[All Versions](https://scholar.google.com/scholar?cluster=2707751672275136220\&hl=en\&as_sdt=0,5)]. The original paper introducing mixed selectivity with high-dimensional neural representations.
 *   [Abstract strategy learning underlies flexible transfer in physical problem solving](https://cognitivesciencesociety.org/cogsci20/papers/0765/0765.pdf) - ***CogSci'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=Abstract+strategy+learning+underlies+flexible+transfer+in+physical+problem+solving.\&btnG=)].
 
-### Theory of Mind / AI Assisted Research
-
-*   [The naïve utility calculus: Computational principles underlying commonsense psychology](http://sll.stanford.edu/docs/2016_JaraEttinger_Gweon_Schulz_Tenenbaum_TiCS.pdf) - ***Trends in Cognitive Sciences***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=6894095575934067763\&hl=en\&as_sdt=0,5)]. A perspective on understanding social interactions through the naïve utility calculus framework.
-*   [Planning with theory of mind](https://saxelab.mit.edu/sites/default/files/publications/HoSaxeCushman2022.pdf) - ***Trends in Cognitive Sciences***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=8461125353366208047\&hl=en\&as_sdt=0,5)]. A perspective on understanding Theory of Mind through planning that consists of abstract structured causal representations and supports efficient search and selection from innumerable possible actions.
-
 ## [2. Awesome Gatling](/content/aliesbelik/awesome-gatling/README.md)
 
 ### Tools / Sandbox
@@ -37,11 +32,11 @@
 ### Applications / Text editors
 
 *   [emacs-ng (⭐1.7k)](https://github.com/emacs-ng/emacs-ng) - Complementing the C codebase with rust code to introduce new features.
-*   [Lapce (⭐34k)](https://github.com/lapce/lapce) - A modern editor with a backend. Taking inspiration from the discontinued [xi-editor (⭐20k)](https://github.com/xi-editor/xi-editor).
+*   [Lapce (⭐35k)](https://github.com/lapce/lapce) - A modern editor with a backend. Taking inspiration from the discontinued [xi-editor (⭐20k)](https://github.com/xi-editor/xi-editor).
 
 ### Libraries / GUI
 
-*   [xilem (⭐3.4k)](https://github.com/linebender/xilem) - Successor of the data-first UI design toolkit [druid (⭐9.5k)](https://github.com/linebender/druid).
+*   [xilem (⭐4k)](https://github.com/linebender/xilem) - Successor of the data-first UI design toolkit [druid (⭐9.6k)](https://github.com/linebender/druid).
 
 ## [5. Awesome Cytodata](/content/cytodata/awesome-cytodata/README.md)
 
@@ -94,7 +89,7 @@
 
 ### Software / Wikis
 
-*   [Wiki.js](https://js.wiki/) - Modern, lightweight and powerful wiki app using Git and Markdown. ([Demo](https://docs.requarks.io), [Source Code (⭐24k)](https://github.com/Requarks/wiki)) `AGPL-3.0` `Nodejs/Docker/K8S`
+*   [Wiki.js](https://js.wiki/) - Modern, lightweight and powerful wiki app using Git and Markdown. ([Demo](https://docs.requarks.io), [Source Code (⭐25k)](https://github.com/Requarks/wiki)) `AGPL-3.0` `Nodejs/Docker/K8S`
 
 ## [9. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
 
@@ -106,10 +101,9 @@
 
 ### State Libraries
 
-*   [Svelte-Domain (⭐5)](https://github.com/thegenius/svelte-domain) - The state management for svelte.
-*   [svelte-asyncable (⭐168)](https://github.com/sveltetools/svelte-asyncable) - The Svelte store contract with support for asynchronous values.
+*   [svelte-asyncable (⭐169)](https://github.com/sveltetools/svelte-asyncable) - The Svelte store contract with support for asynchronous values.
 
-### Miscellaneous / Checkbox
+### Miscellaneous
 
 *   [mathjax-svelte (⭐0)](https://github.com/WoolDoughnut310/mathjax-svelte) - A Svelte component for MathJax.
 
@@ -123,7 +117,7 @@
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [gianu-alternative (⭐1)](https://github.com/zbentzinger/gianu-alternative-theme) - An alternative to [OMZ Gianu (⭐172k)](https://github.com/ohmyzsh/ohmyzsh/blob/61dd3682e69aa990a8a3589c5c61ea2e1edf8312/themes/gianu.zsh-theme) that changes prompt based on privilege. Includes `git` status and current directory decorators.
+*   [gianu-alternative (⭐1)](https://github.com/zbentzinger/gianu-alternative-theme) - An alternative to [OMZ Gianu (⭐175k)](https://github.com/ohmyzsh/ohmyzsh/blob/61dd3682e69aa990a8a3589c5c61ea2e1edf8312/themes/gianu.zsh-theme) that changes prompt based on privilege. Includes `git` status and current directory decorators.
 
 ## [13. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 

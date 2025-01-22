@@ -16,12 +16,12 @@
 
 ### Libraries/Frameworks / Misc
 
-*   [cretz/asmble (⭐633)](https://github.com/cretz/asmble) - Compile WebAssembly to JVM and other WASM tools.
+*   [cretz/asmble (⭐637)](https://github.com/cretz/asmble) - Compile WebAssembly to JVM and other WASM tools.
 
 ### Projects / Android
 
 *   [deva666/NewsReader (⭐23)](https://github.com/deva666/NewsReader) - Android app for reading news
-*   [zt64/Hyperion (⭐623)](https://github.com/zt64/Hyperion) - An alternative YouTube front-end using modern Android architecture and Material 3
+*   [zt64/Hyperion (⭐686)](https://github.com/zt64/Hyperion) - An alternative YouTube front-end using modern Android architecture and Material 3
 
 ## [3. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
@@ -39,7 +39,7 @@
 
 ### Community plugins
 
-*   [File opener (⭐65)](https://github.com/capacitor-community/file-opener) - The plugin is able to open a file given the mimeType and the file uri.
+*   [File opener (⭐70)](https://github.com/capacitor-community/file-opener) - The plugin is able to open a file given the mimeType and the file uri.
 
 ## [6. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
@@ -57,19 +57,19 @@
 
 ### Tools
 
-*   💼🔧 [tailwindcss-vite-plugin (⭐36)](https://github.com/await-ovo/tailwindcss-webpack-plugin/tree/main/packages/vite-plugin) - Vite plugin for Tailwind CSS, supports "Design in DevTools" mode and visualizes Tailwind CSS configuration.
+*   💼🔧 [tailwindcss-vite-plugin (⭐38)](https://github.com/await-ovo/tailwindcss-webpack-plugin/tree/main/packages/vite-plugin) - Vite plugin for Tailwind CSS, supports "Design in DevTools" mode and visualizes Tailwind CSS configuration.
 
 ## [9. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Scrollbar / Diagnostics
 
-*   [echasnovski/mini.nvim#mini.map (⭐4.7k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-map.md) - Module of `mini.nvim` to show floating window with buffer text overview, scrollbar, and highlights.
+*   [echasnovski/mini.nvim#mini.map (⭐6.2k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-map.md) - Module of `mini.nvim` to show floating window with buffer text overview, scrollbar, and highlights.
 
 ## [10. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Continuous Integration
 
-*   [gotestfmt (⭐499)](https://github.com/GoTestTools/gotestfmt) - go test output for humans.
+*   [gotestfmt (⭐526)](https://github.com/GoTestTools/gotestfmt) - go test output for humans.
 
 ## [11. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
@@ -82,7 +82,7 @@
 ### Inbox: Stable Diffusion / Multi-agents
 
 *   [NovelAI Improvements on Stable Diffusion | by NovelAI | Oct, 2022 | Medium](https://blog.novelai.net/novelai-improvements-on-stable-diffusion-e10d38db82ac)
-*   [ashawkey/stable-dreamfusion (⭐8.1k)](https://github.com/ashawkey/stable-dreamfusion): A pytorch implementation of text-to-3D dreamfusion, powered by stable diffusion.
+*   [ashawkey/stable-dreamfusion (⭐8.4k)](https://github.com/ashawkey/stable-dreamfusion): A pytorch implementation of text-to-3D dreamfusion, powered by stable diffusion.
 
 ## [13. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 

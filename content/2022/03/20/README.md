@@ -10,7 +10,7 @@
 
 ### Applications / Web
 
-*   [cfal/tobaru (⭐178)](https://github.com/cfal/tobaru) - Port forwarder with allowlists, IP and TLS SNI/ALPN rule-based routing, iptables support, round-robin forwarding (load balancing), and hot reloading.
+*   [cfal/tobaru (⭐200)](https://github.com/cfal/tobaru) - Port forwarder with allowlists, IP and TLS SNI/ALPN rule-based routing, iptables support, round-robin forwarding (load balancing), and hot reloading.
 
 ## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -26,7 +26,7 @@
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [tinygo (⭐13)](https://github.com/sago35/tinygo-autocmpl) - Add tab completions for [tinygo](https://tinygo.org/).
+*   [tinygo (⭐14)](https://github.com/sago35/tinygo-autocmpl) - Add tab completions for [tinygo](https://tinygo.org/).
 
 ## [4. Awesome OpenSourcePhotography](/content/ibaaj/awesome-OpenSourcePhotography/README.md)
 
@@ -175,13 +175,13 @@
 
 ### Files and Directories / Files
 
-*   [chokidar-cli (⭐807)](https://github.com/open-cli-tools/chokidar-cli) - CLI to watch file system changes.
+*   [chokidar-cli (⭐823)](https://github.com/open-cli-tools/chokidar-cli) - CLI to watch file system changes.
 
 ## [6. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Networking
 
-*   [gldap (⭐107)](https://github.com/jimlambrt/gldap) - gldap provides an ldap server implementation and you provide handlers for its ldap operations.
+*   [gldap (⭐113)](https://github.com/jimlambrt/gldap) - gldap provides an ldap server implementation and you provide handlers for its ldap operations.
 
 ### E-books for purchase / Libraries for creating HTTP middlewares
 
@@ -199,14 +199,12 @@
 *   :clipboard: [Executable and linking format (ELF) specification](https://refspecs.linuxfoundation.org/elf/elf.pdf)
 *   :earth\_americas: [Executable file formats](https://docs.fileformat.com/executable)
 *   :scroll: [Implementing your own generic unpacker](https://gsec.hitb.org/materials/sg2015/whitepapers/Julien%20Lenoir%20-%20Implementing%20Your%20Own%20Generic%20Unpacker.pdf)
-*   :clipboard: [Microsoft portable executable and common object file format specification](http://www.skyfree.org/linux/references/coff.pdf)
 *   :earth\_americas: [MZ disk operating system (DOS)](https://wiki.osdev.org/MZ)
 *   :scroll: [One packer to rule them all: Empirical identification, comparison and circumvention of current antivirus detection techniques](https://www.blackhat.com/docs/us-14/materials/us-14-Mesbahi-One-Packer-To-Rule-Them-All.pdf)
-*   :earth\_americas: [PE format (Microsoft docs)](https://docs.microsoft.com/en-us/windows/win32/debug/pe-format)
 *   :scroll: [PinDemonium: A DBI-based generic unpacker for Windows executables](https://www.blackhat.com/docs/us-16/materials/us-16-Mariani-Pindemonium-A-Dbi-Based-Generic-Unpacker-For-Windows-Executables-wp.pdf)
 *   :earth\_americas: [Portable executable (PE)](https://wiki.osdev.org/PE)
 *   :clipboard: [Win32 portable executable packing uncovered](https://securitylabs.websense.com/content/Assets/HistoryofPackingTechnology.pdf)
-*   :pushpin: [Writing a simple PE packer in detail (⭐13)](https://github.com/levanvn/Packer_Simple-1)
+*   :pushpin: [Writing a simple PE packer in detail (⭐15)](https://github.com/levanvn/Packer_Simple-1)
 
 ### :books: Literature / Scientific Research
 
@@ -217,22 +215,20 @@
 *   :newspaper: [BareUnpack: Generic unpacking on the bare-metal operating system](https://www.jstage.jst.go.jp/article/transinf/E101.D/12/E101.D_2017EDP7424/_article) (December 2018)
 *   :newspaper: [BinStat tool for recognition of packed executables](http://www.ijofcs.org/abstract-v06n1-pp03.html) (September 2010)
 *   :newspaper: [Classification of packed executables for accurate computer virus detection](http://www.sciencedirect.com/science/article/pii/S0167865508002110) (October 2008)
-*   :notebook: [Classifying packed programs as malicious software detected](https://www.semanticscholar.org/paper/Classifying-Packed-Programs-as-Malicious-Software-Osaghae/676f38819a0ed3028acce36f4f11b0c77e4cc0ae) (December 2016)  :star: :star:
+*   :notebook: [Classifying packed programs as malicious software detected](https://www.semanticscholar.org/paper/Classifying-Packed-Programs-as-Malicious-Software-Osaghae/676f38819a0ed3028acce36f4f11b0c77e4cc0ae) (December 2016)
 *   :notebook: [A comparative analysis of classifiers in the recognition of packed executables](https://ieeexplore.ieee.org/abstract/document/8995252) (November 2019)
 *   :notebook: [Detecting packed executable file: Supervised or anomaly detection method?](https://ieeexplore.ieee.org/abstract/document/7784628) (August 2016)
-*   :newspaper: [Detecting packed executables based on raw binary data](https://www.semanticscholar.org/paper/DETECTING-PACKED-EXECUTABLES-BASED-ON-RAW-BINARY-Nataraja-Jacobb/53371424fb79de29a096e563b07fcae432f4d201) (June 2010)
 *   :newspaper: [An efficient block-discriminant identification of packed malware](https://link.springer.com/article/10.1007%2Fs12046-015-0399-x) (August 2015)
 *   :newspaper: [ELF-Miner: Using structural knowledge and data mining methods to detect new (Linux) malicious executables](https://dl.acm.org/doi/10.5555/2150963.2150968) (March 2012)
-*   :newspaper: [EMBER: An open dataset for training static PE malware machine learning models](https://arxiv.org/abs/1804.04637) (April 2018)
-*   :newspaper: [Generic packing detection using several complexity analysis for accurate malware detection](https://www.researchgate.net/publication/332594129_Generic_Packing_Detection_using_Several_Complexity_Analysis_for_Accurate_Malware_Detection?channel=doi\&linkId=5cbf828b299bf120977ac78a\&showFulltext=true) (January 2014)  :star:
-*   :newspaper: [Generic unpacking of self-modifying, aggressive, packed binary programs](https://arxiv.org/abs/0905.4581) (May 2009)
-*   :newspaper: [A heuristics-based static analysis approach for detecting packed PE binaries](http://dx.doi.org/10.14257/ijsia.2013.7.5.24) (October 2013)
+*   :bookmark: [EMBER: An open dataset for training static PE malware machine learning models](https://arxiv.org/abs/1804.04637) (April 2018)  :star:
+*   :newspaper: [Generic packing detection using several complexity analysis for accurate malware detection](https://www.researchgate.net/publication/332594129_Generic_Packing_Detection_using_Several_Complexity_Analysis_for_Accurate_Malware_Detection?channel=doi\&linkId=5cbf828b299bf120977ac78a\&showFulltext=true) (January 2014)
+*   :bookmark: [Generic unpacking of self-modifying, aggressive, packed binary programs](https://arxiv.org/abs/0905.4581) (May 2009)
 *   :newspaper: [A learning model to detect maliciousness of portable executable using integrated feature set](https://www.sciencedirect.com/science/article/pii/S1319157817300149) (January 2017)
 *   :newspaper: [Mal-flux: Rendering hidden code of packed binary executable](http://www.sciencedirect.com/science/article/pii/S1742287618303736) (March 2019)
 *   :newspaper: [Mal-XT: Higher accuracy hidden-code extraction of packed binary executable](https://iopscience.iop.org/article/10.1088/1757-899X/453/1/012001) (November 2018)
 *   :newspaper: [Mal-xtract: Hidden code extraction using memory analysis](https://doi.org/10.1088%2F1742-6596%2F801%2F1%2F012058) (January 2017)
 *   :newspaper: [Malware analysis using visualized images and entropy graphs](https://link.springer.com/article/10.1007%2Fs10207-014-0242-0) (February 2015)
-*   :newspaper: [Malwise - An effective and efficient classification system for packed and polymorphic malware](https://ieeexplore.ieee.org/document/6171162) (June 2013)  :star:
+*   :newspaper: [Malwise - An effective and efficient classification system for packed and polymorphic malware](https://ieeexplore.ieee.org/document/6171162) (June 2013)
 *   :newspaper: [Obfuscation: The hidden malware](https://ieeexplore.ieee.org/document/5975134) (August 2011)
 *   :notebook: [Obfuscation: Where are we in anti-DSE protections? (a first attempt)](https://doi.org/10.1145/3371307.3371309) (December 2019)
 *   :newspaper: [On the adoption of anomaly detection for packed executable filtering](https://www.sciencedirect.com/science/article/pii/S0167404814000522?via%3Dihub) (June 2014)
@@ -245,13 +241,13 @@
 *   :mortar\_board: [Packer-complexity analysis in PANDA](https://webthesis.biblio.polito.it/7519/) (January 2018)
 *   :newspaper: [PE file features in detection of packed executables](http://www.ijcte.org/show-42-485-1.html) (January 2012)
 *   :notebook: [RePEconstruct: Reconstructing binaries with self-modifying code and import address table destruction](https://ieeexplore.ieee.org/document/7888727) (October 2016)
-*   :newspaper: [Revealing packed malware](https://ieeexplore.ieee.org/document/4639028) (September 2008)  :star:
+*   :newspaper: [Revealing packed malware](https://ieeexplore.ieee.org/document/4639028) (September 2008)
 *   :newspaper: [Secure and advanced unpacking using computer emulation](https://link.springer.com/article/10.1007%2Fs11416-007-0046-0) (August 2007)
 *   :notebook: [Things you may not know about Android (Un) packers: A systematic study based on whole-system emulation.](https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_04A-4_Duan_paper.pdf) (February 2018)
 *   :newspaper: [Two techniques for detecting packed portable executable files](https://ieeexplore.ieee.org/document/6636333) (June 2013)
-*   :notebook: [Understanding linux malware](https://ieeexplore.ieee.org/document/8418602) (May 2018)
+*   :notebook: [Understanding linux malware](https://ieeexplore.ieee.org/document/8418602) (May 2018)  :star:
 *   :newspaper: [Unpacking techniques and tools in malware analysis](https://www.scientific.net/AMM.198-199.343) (September 2012)
-*   :newspaper: [Using entropy analysis to find encrypted and packed malware](https://ieeexplore.ieee.org/document/4140989) (March 2007)  :star:
+*   :newspaper: [Using entropy analysis to find encrypted and packed malware](https://ieeexplore.ieee.org/document/4140989) (March 2007)
 *   :notebook: [VMAttack: Deobfuscating virtualization-based packed binaries](https://dl.acm.org/doi/10.1145/3098954.3098995) (August 2017)
 
 ## [8. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
@@ -290,10 +286,6 @@
 ### LBRY and Odysee
 
 *   [Librarian](https://codeberg.org/librarian/librarian) - An alternative frontend for LBRY/Odysee. Inspired by Invidious and Libreddit.
-
-### YouTube
-
-*   [Yattee (⭐2.5k)](https://github.com/yattee/yattee) - Alternative YouTube frontend for iOS, tvOS and macOS built with Invidious and Piped.
 
 ### Teamworking Tools
 

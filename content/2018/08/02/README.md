@@ -29,7 +29,7 @@
 
 ### Packages / Command-line apps
 
-*   [carbon-now-cli (⭐5.7k)](https://github.com/mixn/carbon-now-cli) - Beautiful images of your code — from right inside your terminal.
+*   [carbon-now-cli (⭐5.8k)](https://github.com/mixn/carbon-now-cli) - Beautiful images of your code — from right inside your terminal.
 
 ## [3. Awesome Coins](/content/Zheaoli/awesome-coins/README.md)
 
@@ -45,7 +45,7 @@
 
 ## [5. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
 
-### Free Content
+### Free Content / Commerical Tools
 
 *   [Golden Artificial Intelligence](https://golden.com/wiki/Cluster%3A_Artificial_intelligence) - a cluster of pages on artificial intelligence and machine learning.
 
@@ -124,8 +124,8 @@
 
 ### Plotter Art For Sale / Patents
 
-*   [Michael Fogleman](https://www.michaelfogleman.com/plotter)
 *   [inconvergent](http://buy.inconvergent.net)
+*   [Michael Fogleman](https://www.michaelfogleman.com/plotter)
 
 ## [14. Awesome Vapor](/content/vapor-community/awesome-vapor/README.md)
 

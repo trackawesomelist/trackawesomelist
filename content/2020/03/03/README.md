@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 03, 2020
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -31,40 +31,33 @@
 
 ### Auth / Image Picker
 
-*   [Firebase Auth (⭐8.5k)](https://github.com/FirebaseExtended/flutterfire/tree/master/packages/firebase_auth) - Firebase OAuth
+*   [Firebase Auth (⭐8.8k)](https://github.com/FirebaseExtended/flutterfire/tree/master/packages/firebase_auth) - Firebase OAuth
 
 ### Analytics / Image Picker
 
-*   [Firebase Analytics (⭐8.5k)](https://github.com/FirebaseExtended/flutterfire/tree/master/packages/firebase_analytics) - Connect to Firebase Analytics API
+*   [Firebase Analytics (⭐8.8k)](https://github.com/FirebaseExtended/flutterfire/tree/master/packages/firebase_analytics) - Connect to Firebase Analytics API
 
 ### Storage / Voice
 
-*   [Firebase Storage (⭐8.5k)](https://github.com/FirebaseExtended/flutterfire/tree/master/packages/firebase_storage) - Firebase as data storage
+*   [Firebase Storage (⭐8.8k)](https://github.com/FirebaseExtended/flutterfire/tree/master/packages/firebase_storage) - Firebase as data storage
 
 ### Monetization / Preferences
 
-*   [Firebase AdMob (⭐8.5k)](https://github.com/FirebaseExtended/flutterfire/tree/master/packages/firebase_admob) - Ad integration using Firebase
+*   [Firebase AdMob (⭐8.8k)](https://github.com/FirebaseExtended/flutterfire/tree/master/packages/firebase_admob) - Ad integration using Firebase
 
 ## [5. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
 ### Extensions
 
-*   [Next universal language detector (⭐85)](https://github.com/UnlyEd/universal-language-detector) - Language detector that works universally (browser + server) - Meant to be used with a universal framework, such as Next.js [DEMO](https://universal-language-detector.now.sh/)
+*   [Next universal language detector (⭐95)](https://github.com/UnlyEd/universal-language-detector) - Language detector that works universally (browser + server) - Meant to be used with a universal framework, such as Next.js [DEMO](https://universal-language-detector.now.sh/)
 
-## [6. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
-
-### Community / Forums
-
-*   [JMeter Google Group](https://groups.google.com/forum/#!forum/ptgram24)
-*   [JMeterPlugins Google Group](https://groups.google.com/forum/#!forum/jmeter-plugins)
-
-## [7. Awesome Preact](/content/preactjs/awesome-preact/README.md)
+## [6. Awesome Preact](/content/preactjs/awesome-preact/README.md)
 
 ### Contents / Components
 
 *   [MU Forms (⭐58)](https://github.com/mobiushorizons/mu-forms) - Dead simple form library for (P)React.
 
-## [8. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
+## [7. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
 ### Articles
 
@@ -72,9 +65,9 @@
 
 ### Community Extensions
 
-*   [Keycloak Discord Support (⭐119)](https://github.com/wadahiro/keycloak-discord)
+*   [Keycloak Discord Support (⭐133)](https://github.com/wadahiro/keycloak-discord)
 
-## [9. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
+## [8. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### Open Source / Other
 
@@ -84,7 +77,7 @@
 
 *   [electronegativity (⭐945)](https://github.com/doyensec/electronegativity) - Identify misconfigurations and security anti-patterns.
 
-## [10. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
+## [9. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 
 ### Table of Contents / Tutorials
 
@@ -99,13 +92,13 @@
 
 *   [toolbox: Curated list of ML libraries](https://github.com/amitness/toolbox)
 
-## [11. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/README.md)
+## [10. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/README.md)
 
 ### Audio Related Packages / Web Audio
 
 *   [TimeSide (Beta) (⭐351)](https://github.com/Parisson/TimeSide/tree/dev) [:octocat: (⭐351)](https://github.com/Parisson/TimeSide/tree/dev) - high level audio analysis, imaging, transcoding, streaming and labelling.
 
-## [12. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [11. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Frameworks / Other
 

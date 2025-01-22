@@ -35,12 +35,12 @@
 
 ### Utility / Docker Container Actions
 
-*   [Setup Xamarin (⭐30)](https://github.com/maxim-lobanov/setup-xamarin) - Switch between pre-installed versions of Xamarin and Mono for macOS images.
-*   [Setup Cocoapods (⭐22)](https://github.com/maxim-lobanov/setup-cocoapods) - Setup specific version of Cocoapods.
+*   [Setup Xamarin (⭐33)](https://github.com/maxim-lobanov/setup-xamarin) - Switch between pre-installed versions of Xamarin and Mono for macOS images.
+*   [Setup Cocoapods (⭐31)](https://github.com/maxim-lobanov/setup-cocoapods) - Setup specific version of Cocoapods.
 
 ### Static Analysis / Security
 
-*   [Secrets Sync Action (⭐269)](https://github.com/google/secrets-sync-action) - Action syncs secrets across multiple repositories.
+*   [Secrets Sync Action (⭐312)](https://github.com/google/secrets-sync-action) - Action syncs secrets across multiple repositories.
 
 ## [4. Awesome Scientific Writing](/content/writing-resources/awesome-scientific-writing/README.md)
 
@@ -144,16 +144,16 @@
 
 ### Java VM / Java
 
-*   [Dubbo (⭐40k)](https://github.com/apache/dubbo) - A high-performance, java based RPC framework open-sourced by Alibaba.
+*   [Dubbo (⭐41k)](https://github.com/apache/dubbo) - A high-performance, java based RPC framework open-sourced by Alibaba.
 
 ### Rust / Scala
 
-*   [Tarpc (⭐3.1k)](https://github.com/google/tarpc) - RPC framework for Rust with a focus on ease of use.
+*   [Tarpc (⭐3.3k)](https://github.com/google/tarpc) - RPC framework for Rust with a focus on ease of use.
 
 ### Messaging / Scala
 
 *   [Beanstalk](https://beanstalkd.github.io/) - Simple, fast work queue.
-*   [Bull (⭐15k)](https://github.com/OptimalBits/bull) - Fast and reliable Redis-based queue for Node.
+*   [Bull (⭐16k)](https://github.com/OptimalBits/bull) - Fast and reliable Redis-based queue for Node.
 
 ### Security / Scala
 
@@ -163,7 +163,7 @@
 
 ### Community Extensions
 
-*   [Keycloak Login with User Attribute (⭐35)](https://github.com/cnieg/keycloak-login-attribute)
+*   [Keycloak Login with User Attribute (⭐37)](https://github.com/cnieg/keycloak-login-attribute)
 
 ## [11. Awesome Java](/content/akullpp/awesome-java/README.md)
 

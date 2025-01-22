@@ -8,9 +8,9 @@
 
 ## [1. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 
-### Tools and frameworks
+### Tools and frameworks (a-z↓)
 
-*   [jest-image-snapshot (⭐3.8k)](https://github.com/americanexpress/jest-image-snapshot) - Jest matcher that performs image comparisons using [pixelmatch](https://www.npmjs.com/package/pixelmatch)
+*   [jest-image-snapshot (⭐3.9k)](https://github.com/americanexpress/jest-image-snapshot) - Jest matcher that performs image comparisons using [pixelmatch](https://www.npmjs.com/package/pixelmatch)
 
 ## [2. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/README.md)
 
@@ -29,13 +29,13 @@
 
 ### Plugins
 
-*   🎨🧬 [Themer (⭐280)](https://github.com/RyanClementsHax/tailwindcss-themer) - Adds theming support for Tailwind CSS with CSS variables and variants.
+*   🎨🧬 [Themer (⭐306)](https://github.com/RyanClementsHax/tailwindcss-themer) - Adds theming support for Tailwind CSS with CSS variables and variants.
 
 ## [5. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / General-Purpose Machine Learning
 
-*   [Deepchecks (⭐3.5k)](https://github.com/deepchecks/deepchecks): Validation & testing of machine learning models and data during model development, deployment, and production. This includes checks and suites related to various types of issues, such as model performance, data integrity, distribution mismatches, and more.
+*   [Deepchecks (⭐3.6k)](https://github.com/deepchecks/deepchecks): Validation & testing of machine learning models and data during model development, deployment, and production. This includes checks and suites related to various types of issues, such as model performance, data integrity, distribution mismatches, and more.
 
 ## [6. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
@@ -47,13 +47,13 @@
 
 ### UI / Barcode
 
-*   [ProgressIndicatorView (⭐235)](https://github.com/exyte/ProgressIndicatorView) - A progress indicator view library written in SwiftUI.
+*   [ProgressIndicatorView (⭐264)](https://github.com/exyte/ProgressIndicatorView) - A progress indicator view library written in SwiftUI.
 
 ## [8. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/README.md)
 
 ### Finance
 
-*   [Tradegate Stock Widget (⭐5)](https://github.com/Chrischi-/tradegate-stock-widget-for-scriptable) - Stocks Widget to show share prices from Tradegate Exchange.
+*   [Tradegate Stock Widget (⭐12)](https://github.com/Chrischi-/tradegate-stock-widget-for-scriptable) - Stocks Widget to show share prices from Tradegate Exchange.
 
     <img src="https://user-images.githubusercontent.com/6323217/147655180-c4d3041c-58c1-4108-b001-29e01767025d.png" height="200"/>
 
@@ -61,7 +61,7 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [titanzero/zephyrium (⭐21)](https://github.com/titanzero/zephyrium) - A zephyr-esque theme, written in Lua, with TreeSitter support.
+*   [titanzero/zephyrium (⭐24)](https://github.com/titanzero/zephyrium) - A zephyr-esque theme, written in Lua, with Tree-sitter support.
 
 ## [10. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -87,7 +87,7 @@
 
 ### Command-Line Tools / Discovery
 
-*   [nix-alien (⭐490)](https://github.com/thiagokokada/nix-alien) - Run unpatched binaries on Nix/NixOS easily.
+*   [nix-alien (⭐566)](https://github.com/thiagokokada/nix-alien) - Run unpatched binaries on Nix/NixOS easily.
 
 ## [12. Awesome Naming](/content/gruhn/awesome-naming/README.md)
 
@@ -107,7 +107,7 @@
 
 ### Git Tools
 
-*   [Husky.Net (⭐652)](https://github.com/alirezanet/Husky.Net) - Git hooks made easy with Husky.Net internal task runner, You can use it to lint your commit messages, run tests, lint code, etc... when you commit or push. supports C# scripts, gitflow hooks, Multiple file states (staged, lastCommit, glob)
+*   [Husky.Net (⭐725)](https://github.com/alirezanet/Husky.Net) - Git hooks made easy with Husky.Net internal task runner, You can use it to lint your commit messages, run tests, lint code, etc... when you commit or push. supports C# scripts, gitflow hooks, Multiple file states (staged, lastCommit, glob)
 
 ## [15. Awesome Coldfusion](/content/seancoyne/awesome-coldfusion/README.md)
 

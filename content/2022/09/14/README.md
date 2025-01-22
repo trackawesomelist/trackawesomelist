@@ -10,7 +10,7 @@
 
 ### Software / Bookmarks and Link Sharing
 
-*   [NeonLink (⭐285)](https://github.com/AlexSciFier/neonlink) - Self-hosted bookmark service with unique design and simple installation with Docker. `MIT` `Docker`
+*   [NeonLink (⭐324)](https://github.com/AlexSciFier/neonlink) - Self-hosted bookmark service with unique design and simple installation with Docker. `MIT` `Docker`
 
 ### Software / Internet of Things (IoT)
 
@@ -22,11 +22,11 @@
 
 ### Software / Self-hosting Solutions
 
-*   [CasaOS](https://www.casaos.io/) - A simple, easy-to-use, elegant open-source Home Cloud system. ([Source Code (⭐25k)](https://github.com/IceWhaleTech/CasaOS)) `Apache-2.0` `Go/Docker`
+*   [CasaOS](https://www.casaos.io/) - A simple, easy-to-use, elegant open-source Home Cloud system. ([Source Code (⭐28k)](https://github.com/IceWhaleTech/CasaOS)) `Apache-2.0` `Go/Docker`
 
 ### Software / Task Management & To-do Lists
 
-*   [Our Shopping List (⭐84)](https://github.com/nanawel/our-shopping-list) - Simple shared list application. Typical uses include shopping lists of course, and any other small todo-list that needs to be used collaboratively. ([Demo](https://osl.lanterne-rouge.info/)) `AGPL-3.0` `Docker`
+*   [Our Shopping List (⭐108)](https://github.com/nanawel/our-shopping-list) - Simple shared list application. Typical uses include shopping lists of course, and any other small todo-list that needs to be used collaboratively. ([Demo](https://osl.lanterne-rouge.info/)) `AGPL-3.0` `Docker`
 
 ## [2. Awesome Bioie](/content/caufieldjh/awesome-bioie/README.md)
 
@@ -38,36 +38,32 @@
 
 ### Register / Diagnostics
 
-*   [gennaro-tedesco/nvim-peekup (⭐291)](https://github.com/gennaro-tedesco/nvim-peekup) - Dynamically interact with Vim registers.
-*   [tversteeg/registers.nvim (⭐597)](https://github.com/tversteeg/registers.nvim) - Non-obtrusive minimal preview of Vim registers.
+*   [gennaro-tedesco/nvim-peekup (⭐307)](https://github.com/gennaro-tedesco/nvim-peekup) - Dynamically interact with Vim registers.
+*   [tversteeg/registers.nvim (⭐612)](https://github.com/tversteeg/registers.nvim) - Non-obtrusive minimal preview of Vim registers.
 
 ### Marks / Diagnostics
 
-*   [chentoast/marks.nvim (⭐809)](https://github.com/chentoast/marks.nvim) - A better user experience for viewing and interacting with Vim marks.
-
-### Tree-sitter Supported Colorscheme / Diagnostics
-
-*   [mcchrish/zenbones.nvim (⭐678)](https://github.com/mcchrish/zenbones.nvim) - A collection of Vim/Neovim colorschemes designed to highlight code using contrasts and font variations.
+*   [chentoast/marks.nvim (⭐936)](https://github.com/chentoast/marks.nvim) - A better user experience for viewing and interacting with Vim marks.
 
 ### Utility / Diagnostics
 
-*   [kazhala/close-buffers.nvim (⭐159)](https://github.com/kazhala/close-buffers.nvim) - Delete multiple Vim buffers based on different conditions.
-*   [CosmicNvim/cosmic-ui (⭐162)](https://github.com/CosmicNvim/cosmic-ui) - Cosmic-UI is a simple wrapper around specific Vim functionality. Built in order to provide a quick and easy way to create a Cosmic UI experience with Neovim!
+*   [kazhala/close-buffers.nvim (⭐167)](https://github.com/kazhala/close-buffers.nvim) - Delete multiple Vim buffers based on different conditions.
+*   [CosmicNvim/cosmic-ui (⭐164)](https://github.com/CosmicNvim/cosmic-ui) - Cosmic-UI is a simple wrapper around specific Vim functionality. Built in order to provide a quick and easy way to create a Cosmic UI experience with Neovim!
 
 ### Neovim Lua Development / Diagnostics
 
-*   [nvim-lua/popup.nvim (⭐357)](https://github.com/nvim-lua/popup.nvim) - An implementation of the Popup API from Vim.
+*   [nvim-lua/popup.nvim (⭐374)](https://github.com/nvim-lua/popup.nvim) - An implementation of the Popup API from Vim.
 
 ### Preconfigured Configuration / Diagnostics
 
 *   [SpaceVim/SpaceVim](https://spacevim.org) - A community-driven modular Vim/Neovim distribution, like spacemacs but for Vim/Neovim.
-*   [hackorum/VapourNvim (⭐527)](https://github.com/hackorum/VapourNvim) - A Neovim config for THE ULTIMATE Vim IDE-like experience.
+*   [hackorum/VapourNvim (⭐541)](https://github.com/hackorum/VapourNvim) - A Neovim config for THE ULTIMATE Vim IDE-like experience.
 
 ### Vim / Diagnostics
 
-*   [Vimawesome](https://vimawesome.com/) - Showcases various plugins for Vim and has a [neovim tag](https://vimawesome.com/?q=tag:neovim) for other plugins targeting Neovim.
+*   [Vimawesome](https://vimawesome.com/) - Showcases various plugins for Vim and has a [Neovim tag](https://vimawesome.com/?q=tag:neovim) for other plugins targeting Neovim.
 *   [awesome-vim (⭐2k)](https://github.com/akrawchyk/awesome-vim#tools) - Short list of Vim plugins and helpful guides.
-*   [vim-plugin-list (⭐115)](https://github.com/altermo/vim-plugin-list) - List of Vim and Neovim plugins.
+*   [vim-plugin-list (⭐132)](https://github.com/altermo/vim-plugin-list) - List of Vim and Neovim plugins.
 
 ## [4. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
@@ -79,8 +75,8 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [notenote (⭐3)](https://github.com/DrgnFireYellow/notenote/) - Makes it easy to take notes.
-*   [zman (⭐20)](https://github.com/mattmc3/zman) - Use [fzf (⭐63k)](https://github.com/junegunn/fzf) to quickly browse ZSH manuals.
+*   [notenote (⭐4)](https://github.com/DrgnFireYellow/notenote/) - Makes it easy to take notes.
+*   [zman (⭐25)](https://github.com/mattmc3/zman) - Use [fzf (⭐67k)](https://github.com/junegunn/fzf) to quickly browse ZSH manuals.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -94,11 +90,11 @@
 
 ## [7. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
-### Web History and Website Capture / Telegram
+### Web History and Website Capture / Steam
 
 *   [Archive.is](http://archive.is) - is a website that allows you to archive a snapshot of you websites that will always remains online evenif the original page disappears.
 
-### Privacy and Encryption Tools / Telegram
+### Privacy and Encryption Tools / Steam
 
 *   [KeePass Password Safe](http://keepass.info) - is a free and open-source password manager that uses the most secure encryption algorithms to safegard your passwords.
 

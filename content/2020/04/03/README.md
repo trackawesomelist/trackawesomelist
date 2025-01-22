@@ -21,25 +21,25 @@
 
 ### Data Generators
 
-*   [prime (⭐1)](https://github.com/wontruefree/prime) - A prime number generator
+*   [prime (⭐2)](https://github.com/wontruefree/prime) - A prime number generator
 
 ## [3. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
 ### Plugins and scripts / Godot version unknown
 
-*   [Godot Game Tools (⭐370)](https://github.com/vini-guerrero/Godot_Game_Tools) - Blender plugin to ease importing assets into Godot.
+*   [Godot Game Tools (⭐375)](https://github.com/vini-guerrero/Godot_Game_Tools) - Blender plugin to ease importing assets into Godot.
 
 ## [4. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
 
 ### Tools / Monitoring
 
-*   [mongotail (⭐190)](https://github.com/mrsarm/mongotail) - Log all MongoDB queries in a "tail"able way
+*   [mongotail (⭐192)](https://github.com/mrsarm/mongotail) - Log all MongoDB queries in a "tail"able way
 
 ## [5. Awesome Java](/content/akullpp/awesome-java/README.md)
 
 ### JVM and JDK / Text-Based User Interfaces
 
-*   [Dragonwell8 (⭐4.1k)](https://github.com/alibaba/dragonwell8) - Downstream version of OpenJDK optimized for online e-commerce, financial, logistics applications.
+*   [Dragonwell8 (⭐4.2k)](https://github.com/alibaba/dragonwell8) - Downstream version of OpenJDK optimized for online e-commerce, financial, logistics applications.
 
 ## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
@@ -77,7 +77,7 @@
 
 ### Python / Trading & Backtesting
 
-*   [freqtrade (⭐27k)](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
+*   [freqtrade (⭐35k)](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
 
 ## [11. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 

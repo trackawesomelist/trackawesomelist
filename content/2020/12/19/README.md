@@ -26,8 +26,8 @@
 
 ### Community
 
-*   [GitHub (⭐119k)](https://github.com/vercel/next.js)
-*   [GitHub discussions for Next.js (⭐119k)](https://github.com/vercel/next.js/discussions)
+*   [GitHub](https://github.com/vercel/next.js)
+*   [GitHub discussions for Next.js (⭐128k)](https://github.com/vercel/next.js/discussions)
 
 ### Articles
 
@@ -35,7 +35,7 @@
 
 ### Extensions
 
-*   [Next-Pkg (⭐66)](https://github.com/onready/next-pkg) - Extended Next.js server with [pkg (⭐24k)](https://github.com/vercel/pkg) support.
+*   [Next-Pkg (⭐67)](https://github.com/onready/next-pkg) - Extended Next.js server with [pkg (⭐24k)](https://github.com/vercel/pkg) support.
 
 ## [3. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
 
@@ -47,20 +47,19 @@
 
 ### Applications / Utilities
 
-*   [vamolessa/verco (⭐229)](https://github.com/vamolessa/verco) \[[verco](https://crates.io/crates/verco)] - A simple Git/Hg tui client focused on keyboard shortcuts
+*   [vamolessa/verco (⭐226)](https://github.com/vamolessa/verco) \[[verco](https://crates.io/crates/verco)] - A simple Git/Hg tui client focused on keyboard shortcuts
 
 ## [5. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
 
 ### Icons
 
-*   [svelte-simple-icons (⭐13)](https://github.com/beyonk-adventures/svelte-simple-icons) - Simple Icons component.
-*   [svelte-awesome (⭐492)](https://github.com/RobBrazier/svelte-awesome) - Awesome SVG icon component, built with Font Awesome icons.
+*   [svelte-awesome (⭐493)](https://github.com/RobBrazier/svelte-awesome) - Awesome SVG icon component, built with Font Awesome icons.
 
 ## [6. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Front-End Development
 
-*   [Svelte (⭐1.4k)](https://github.com/TheComputerM/awesome-svelte#readme) - App framework.
+*   [Svelte (⭐1.6k)](https://github.com/TheComputerM/awesome-svelte#readme) - App framework.
 
 ## [7. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
@@ -85,11 +84,11 @@
 
 ### Miscellaneous / Text-Based User Interfaces
 
-*   [jsweet (⭐1.4k)](https://github.com/cincheo/jsweet) - Source transpiler to TypeScript/JavaScript.
+*   [jsweet (⭐1.5k)](https://github.com/cincheo/jsweet) - Source transpiler to TypeScript/JavaScript.
 
 ## [9. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
-### Email Search / Email Check / Telegram
+### Email Search / Email Check / Steam
 
 *   [LeakCheck](https://leakcheck.io/) - Data Breach Search Engine with 7.5B+ entries collected from more than 3000 databases. Search by e-mail, username, keyword, password or corporate domain name.
 
@@ -109,7 +108,7 @@
 
 ### LSP Language Server Protocol Implementations
 
-*   [scry (⭐333)](https://github.com/crystal-lang-tools/scry) - Code analysis server for Crystal implementing the [Language Server Protocol](https://microsoft.github.io/language-server-protocol/)
+*   [scry (⭐332)](https://github.com/crystal-lang-tools/scry) - Code analysis server for Crystal implementing the [Language Server Protocol](https://microsoft.github.io/language-server-protocol/)
 
 ## [13. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/README.md)
 

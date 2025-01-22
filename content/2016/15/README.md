@@ -137,17 +137,17 @@
 
 ### Packages / Text
 
-*   [babelfish (⭐254)](https://github.com/nodeca/babelfish) - i18n with very easy syntax for plurals.
+*   [babelfish (⭐255)](https://github.com/nodeca/babelfish) - i18n with very easy syntax for plurals.
 
 ### Packages / Math
 
-*   [algebra (⭐106)](https://github.com/fibo/algebra) - Algebraic structures.
+*   [algebra (⭐107)](https://github.com/fibo/algebra) - Algebraic structures.
 
 ## [15. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Authorization
 
-*   [AccessGranted (⭐774)](https://github.com/chaps-io/access-granted) - Multi-role and whitelist based authorization gem for Rails.
+*   [AccessGranted (⭐776)](https://github.com/chaps-io/access-granted) - Multi-role and whitelist based authorization gem for Rails.
 
 ### Caching
 
@@ -173,7 +173,7 @@
 
 ### C++
 
-*   [Pistache (⭐3.1k)](https://github.com/oktal/pistache) - A high-performance REST toolkit written in C++.
+*   [Pistache (⭐3.3k)](https://github.com/oktal/pistache) - A high-performance REST toolkit written in C++.
 *   [Poco](http://pocoproject.org/) - C++ class libraries for building network-based applications and servers.
 
 ## [17. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
@@ -277,7 +277,7 @@
 
 ### Images / Gif Creation
 
-*   [givegif (⭐219)](https://github.com/passy/givegif) - GIFs on the command line.
+*   [givegif (⭐223)](https://github.com/passy/givegif) - GIFs on the command line.
 
 ## [22. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
@@ -314,10 +314,10 @@ A collaborative book about R on the wikibooks website. Anyone can improve it.
 ### Lists / Book/monograph Lists and Reviews
 
 *   [ggplot2 Extensions](https://ggplot2-exts.github.io/ggiraph.html) - Showcases of ggplot2 extensions.
-*   [Books (⭐226)](https://github.com/RomanTsegelskyi/rbooks) - List of R Books.
-*   [Network Analysis (⭐3.3k)](https://github.com/briatte/awesome-network-analysis) - Network Analysis related resources.
+*   [Books (⭐243)](https://github.com/RomanTsegelskyi/rbooks) - List of R Books.
+*   [Network Analysis (⭐3.6k)](https://github.com/briatte/awesome-network-analysis) - Network Analysis related resources.
 *   [R Project Conferences](https://www.r-project.org/conferences.html) -  Information about useR! Conferences and DSC Conferences.
-*   [Topic Models (⭐227)](https://github.com/trinker/topicmodels_learning) - Topic Models learning and R related resources.
+*   [Topic Models (⭐228)](https://github.com/trinker/topicmodels_learning) - Topic Models learning and R related resources.
 
 ## [26. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
@@ -375,8 +375,8 @@ A collaborative book about R on the wikibooks website. Anyone can improve it.
 *   *[Introduction to Social Network Methods](http://faculty.ucr.edu/~hanneman/nettext/)* (using mostly UCINET), by Robert A. Hanneman and Mark Riddle - Full book online (2001).
 *   *Network Analysis with R/igraph*, by Gabor Csárdi, Thomas Nepusz and Eduardo M. Airoldi (in preparation).
 *   *Network Analysis with Python/igraph*, by Thomas Nepusz, Gabor Csárdi and Eduardo M. Airoldi (in preparation).
-*   *[Social Network Analysis for Startups. Finding Connections on the Social Web](http://shop.oreilly.com/product/0636920020424.do)* (using Python), by Maksim Tsvetovat and Alexander Kouznetsov ([code (⭐241)](https://github.com/maksim2042/SNABook); 2011).
-*   *[Statistical Analysis of Network Data with R](http://www.springer.com/us/book/9781493909827)*, by Eric D. Kolaczyk and Gabor Csárdi ([R package (⭐290)](https://github.com/kolaczyk/sand); 2014).
+*   *[Social Network Analysis for Startups. Finding Connections on the Social Web](http://shop.oreilly.com/product/0636920020424.do)* (using Python), by Maksim Tsvetovat and Alexander Kouznetsov ([code (⭐242)](https://github.com/maksim2042/SNABook); 2011).
+*   *[Statistical Analysis of Network Data with R](http://www.springer.com/us/book/9781493909827)*, by Eric D. Kolaczyk and Gabor Csárdi ([R package (⭐294)](https://github.com/kolaczyk/sand); 2014).
 
 ### Books / Topic-specific
 
@@ -406,7 +406,7 @@ A collaborative book about R on the wikibooks website. Anyone can improve it.
 
 *   [Bayesian Network Repository](http://www.bnlearn.com/bnrepository/).
 *   [Enron Email Dataset](https://www.cs.cmu.edu/~enron/).
-*   [Gephi Datasets (⭐5.7k)](https://github.com/gephi/gephi/wiki/Datasets).
+*   [Gephi Datasets (⭐5.9k)](https://github.com/gephi/gephi/wiki/Datasets).
 *   [International Currencies 1890-1910](http://eh.net/database/international-currencies-1890-1910/) - Historical data on the international connections between 45 currencies.
 *   [Pajek Datasets](http://vlado.fmf.uni-lj.si/pub/networks/data/).
 *   [Siena Datasets](http://www.stats.ox.ac.uk/~snijders/siena/siena_datasets.htm).
@@ -477,8 +477,8 @@ A collaborative book about R on the wikibooks website. Anyone can improve it.
 
 ### Software / JavaScript
 
-*   [jLouvain (⭐146)](https://github.com/upphiminn/jLouvain) - Louvain community detection for Javascript ([example](http://bl.ocks.org/emeeks/125db75c9b55ddcbdeb5)).
-*   [VivaGraphJS (⭐3.7k)](https://github.com/anvaka/VivaGraphJS) - Graph drawing library ([ForceAtlas2 plugin (⭐3)](https://github.com/graphcommons/viva.forceatlas2)).
+*   [jLouvain (⭐151)](https://github.com/upphiminn/jLouvain) - Louvain community detection for Javascript ([example](http://bl.ocks.org/emeeks/125db75c9b55ddcbdeb5)).
+*   [VivaGraphJS (⭐3.8k)](https://github.com/anvaka/VivaGraphJS) - Graph drawing library ([ForceAtlas2 plugin (⭐3)](https://github.com/graphcommons/viva.forceatlas2)).
 *   [viz.js](https://mdaines.github.io/viz.js/) - Use Graphviz in Web pages.
 
 ### Software / MATLAB
@@ -488,7 +488,7 @@ A collaborative book about R on the wikibooks website. Anyone can improve it.
 ### Software / Python
 
 *   [graphviz](https://pypi.python.org/pypi/graphviz) - Python renderer for the DOT graph drawing language.
-*   [linkpred (⭐140)](https://github.com/rafguns/linkpred) - Assess the likelihood of potential links in a future snapshot of a network.
+*   [linkpred (⭐141)](https://github.com/rafguns/linkpred) - Assess the likelihood of potential links in a future snapshot of a network.
 *   [python-igraph](http://igraph.org/python/) - Python version of the igraph network analysis package.
 
 ### Software / R
@@ -497,7 +497,7 @@ A collaborative book about R on the wikibooks website. Anyone can improve it.
 *   [networkdiffusion (⭐7)](https://github.com/chengjun/networkdiffusion) - Simulate and visualize basic epidemic diffusion in networks.
 *   [Rgraphviz](https://bioconductor.org/packages/release/bioc/html/Rgraphviz.html) - Support for using the Graphviz library and its DOT graph drawing language from within R.
 *   [RSiena](http://r-forge.r-project.org/R/?group_id=461) - Simulation Investigation for Empirical Network Analysis; fits models to longitudinal network data.
-*   [visNetwork (⭐536)](https://github.com/DataKnowledge/visNetwork) - Using vis.js library for network visualization.
+*   [visNetwork (⭐545)](https://github.com/DataKnowledge/visNetwork) - Using vis.js library for network visualization.
 
 ### Software / Stata
 

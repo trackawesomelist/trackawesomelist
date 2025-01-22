@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 10 - Sep 16, 2018
 
-41 awesome lists updated this week.
+40 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -17,7 +17,7 @@
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [ee-ts (⭐125)](https://github.com/aleclarson/ee-ts) - Typed event emitters
+*   :octocat: [ee-ts (⭐127)](https://github.com/aleclarson/ee-ts) - Typed event emitters
 
 ## [3. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
 
@@ -35,17 +35,17 @@
 
 ### Miscellaneous
 
-*   [SimpleSignal (⭐163)](https://github.com/larspensjo/SimpleSignal) - High performance C++11 signals. \[PublicDomain]
+*   [SimpleSignal (⭐166)](https://github.com/larspensjo/SimpleSignal) - High performance C++11 signals. \[PublicDomain]
 
 ## [6. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Templates / Preferences
 
-*   [The Gorgeous Login (⭐1.7k)](https://github.com/huextrat/TheGorgeousLogin) <!--stargazers:huextrat/TheGorgeousLogin--> - Design and smooth login template by [Hugo Extrat](https://github.com/huextrat)
+*   [The Gorgeous Login (⭐1.8k)](https://github.com/huextrat/TheGorgeousLogin) <!--stargazers:huextrat/TheGorgeousLogin--> - Design and smooth login template by [Hugo Extrat](https://github.com/huextrat)
 
 ### Top / Game Engine resources
 
-*   [Tourism (⭐303)](https://github.com/bluemix/tourism-demo) <!--stargazers:bluemix/tourism-demo--> - Tourism app based on redux w/ animations & i18n by [blueMix (⭐303)](https://github.com/bluemix/tourism-demo)
+*   [Tourism (⭐304)](https://github.com/bluemix/tourism-demo) <!--stargazers:bluemix/tourism-demo--> - Tourism app based on redux w/ animations & i18n by [blueMix (⭐304)](https://github.com/bluemix/tourism-demo)
 
 ## [7. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
@@ -169,20 +169,20 @@
 
 ## [19. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
-### Tools and frameworks
+### Tools and frameworks (a-z↓)
 
-*   [Wendigo (⭐150)](https://github.com/angrykoala/wendigo) - Test-oriented browser automation library based on Puppeteer.
-*   [Loki (⭐1.8k)](https://github.com/oblador/loki) - Visual regression testing for Storybook using Chrome in docker et al.
 *   [CodeceptJS (⭐4.1k)](https://github.com/codeception/codeceptjs/) - Modern Era Acceptance Testing Framework for NodeJS.
-*   [FuncUnit (⭐570)](https://github.com/bitovi/funcunit) - A functional test suite based on jQuery
+*   [FuncUnit (⭐572)](https://github.com/bitovi/funcunit) - A functional test suite based on jQuery
+*   [Loki (⭐1.8k)](https://github.com/oblador/loki) - Visual regression testing for Storybook using Chrome in docker et al.
 *   [Nightwatch (⭐12k)](https://github.com/nightwatchjs/nightwatch) - Automated testing and continuous integration framework based on Node.js and using the Webdriver protocol.
-*   [Protractor (⭐8.8k)](https://github.com/angular/protractor) - E2E test framework for Angular apps.
+*   [Protractor (⭐8.7k)](https://github.com/angular/protractor) - E2E test framework for Angular apps.
+*   [Wendigo (⭐150)](https://github.com/angrykoala/wendigo) - Test-oriented browser automation library based on Puppeteer.
 
-### Online services
+### Online services (a-z↓)
 
 *   [Happo](https://happo.io/) - Cloud-based screenshot testing service with support for multiple browsers.
 
-### Deprecated
+### Deprecated  (a-z↓)
 
 *   [PhantomJS (⭐29k)](https://github.com/ariya/phantomjs) - Scriptable Headless WebKit. No longer maintained since 2 June 2018.
 
@@ -251,7 +251,7 @@
 
     *   [Neko Programming Language](https://nekovm.org/) - Originally the compiler was written in OCaml.
 
-    *   [Mazeppa (⭐345)](https://github.com/mazeppa-dev/mazeppa) - A modern supercompiler for call-by-value functional languages.
+    *   [Mazeppa (⭐377)](https://github.com/mazeppa-dev/mazeppa) - A modern supercompiler for call-by-value functional languages.
 
     *   [Mezzo Programming Language](https://protz.github.io/mezzo/) - Mezzo is a programming language in the ML tradition, which places strong emphasis on the control of aliasing and access to mutable memory.
 
@@ -263,19 +263,19 @@
 
     *   [Rust Programming Language](https://www.rust-lang.org/) - Originally written in OCaml before bootstrapping.
 
-    *   [Quick C-- Target Language](http://www.cminusminus.org/) - It is now a dead project. [Github Repo (⭐145)](https://github.com/nrnrnr/qc--). [Alternative website](http://www.cs.tufts.edu/~nr/c--/qc--.html).
+    *   [Quick C-- Target Language](http://www.cminusminus.org/) - It is now a dead project. [Github Repo (⭐150)](https://github.com/nrnrnr/qc--). [Alternative website](http://www.cs.tufts.edu/~nr/c--/qc--.html).
 
-    *   [tis-interpreter (⭐565)](https://github.com/TrustInSoft/tis-interpreter) - An interpreter for finding subtle bugs in programs written in standard C
+    *   [tis-interpreter](https://github.com/TrustInSoft/tis-interpreter) - An interpreter for finding subtle bugs in programs written in standard C
 
     *   [Reason](http://facebook.github.io/reason/) - Friendly syntax & toolchain for OCaml by Facebook.
 
     *   [RaML](http://raml.co/index.html) - Resource Aware ML (RaML) is a tool that automatically and statically computes resource-use bounds for OCaml programs.
 
-    *   [Liquid ML (⭐37)](https://github.com/benfaerber/liquid-ml) - Shopify's Liquid Templating language for OCaml.
+    *   [Liquid ML (⭐42)](https://github.com/benfaerber/liquid-ml) - Shopify's Liquid Templating language for OCaml.
 
 ### Datetime
 
-*   [ISO8601 (⭐30)](https://github.com/sagotch/ISO8601.ml)
+*   [ISO8601 (⭐29)](https://github.com/sagotch/ISO8601.ml)
 
 ### Developer Tools
 
@@ -283,7 +283,7 @@
 
 ### Exercises and Short Examples
 
-*   [99 problems](https://ocaml.org/learn/tutorials/99problems.html). 99% of the solutions are [here (⭐44)](https://github.com/MassD/99).
+*   [99 problems](https://ocaml.org/learn/tutorials/99problems.html). 99% of the solutions are [here (⭐49)](https://github.com/MassD/99).
 
 ### Formal Software Verification
 
@@ -295,7 +295,7 @@
 
 ### User Interface
 
-*   [Lambda-Term (⭐208)](https://github.com/ocaml-community/lambda-term) – Lambda-Term is a cross-platform library for manipulating the terminal. It provides an abstraction for keys, mouse events, and colors, as well as a set of widgets to write curses-like applications.
+*   [Lambda-Term (⭐209)](https://github.com/ocaml-community/lambda-term) – Lambda-Term is a cross-platform library for manipulating the terminal. It provides an abstraction for keys, mouse events, and colors, as well as a set of widgets to write curses-like applications.
 
 ### Language-related
 
@@ -304,7 +304,7 @@
 
 ### Messaging
 
-*   [capnp-ocaml (⭐97)](https://github.com/capnproto/capnp-ocaml) – OCaml code generator plugin for the Cap'n Proto serialization framework.
+*   [capnp-ocaml (⭐98)](https://github.com/capnproto/capnp-ocaml) – OCaml code generator plugin for the Cap'n Proto serialization framework.
 
 ### Metaprogramming
 
@@ -324,18 +324,18 @@
     *   [dune (⭐1.6k)](https://github.com/ocaml/dune) – A composable and opinionated build system for OCaml (former jbuilder)
     *   [Oasis](http://oasis.forge.ocamlcore.org/) - A tool to integrate a configure, build and install system in your OCaml project. It helps to create standard entry points in your build system and allows external tools to analyse your project easily.
         *   [oasis2opam (⭐27)](https://github.com/ocaml/oasis2opam) — Tool to convert OASIS metadata to OPAM package descriptions.
-    *   [obuild (⭐54)](https://github.com/ocaml-obuild/obuild) – Simple package build system for ocaml.
+    *   [obuild (⭐55)](https://github.com/ocaml-obuild/obuild) – Simple package build system for ocaml.
     *   [ocaml-makefile (⭐74)](https://github.com/mmottl/ocaml-makefile) — Easy to use Makefile for small to medium-sized OCaml-projects.
-    *   [topkg (⭐69)](https://github.com/dbuenzli/topkg) — OPAM-aware packaging system using ocamlbuild.
+    *   [topkg (⭐68)](https://github.com/dbuenzli/topkg) — OPAM-aware packaging system using ocamlbuild.
     *   [Bazel (⭐37)](https://github.com/jin/rules_ocaml) - OCaml rules for [Bazel](https://bazel.build/), Google's multi-language and platform build tool.
 
 ### Parallelism
 
 *   **Articles**:
     *   [What is the state of OCaml's parallelization abilities?](https://stackoverflow.com/questions/6588500/what-is-the-state-of-ocamls-parallelization-abilities)
-    *   [Parallel programming in multicore OCaml (⭐278)](https://github.com/ocaml-multicore/parallel-programming-in-multicore-ocaml)
+    *   [Parallel programming in multicore OCaml (⭐283)](https://github.com/ocaml-multicore/parallel-programming-in-multicore-ocaml)
     *   [Parallelism programming](https://v2.ocaml.org/releases/5.0/htmlman/parallelism.html) from the officiel OCaml manual
-    *   [Awesome multicore OCaml (⭐144)](https://github.com/ocaml-multicore/awesome-multicore-ocaml). A compilation of resources
+    *   [Awesome multicore OCaml (⭐147)](https://github.com/ocaml-multicore/awesome-multicore-ocaml). A compilation of resources
 
 ### Questions
 
@@ -378,7 +378,7 @@
 
 ### CLI Builder
 
-*   [Terrapin (⭐247)](https://github.com/thoughtbot/terrapin) - A small command line library (Formerly Cocaine).
+*   [Terrapin (⭐251)](https://github.com/thoughtbot/terrapin) - A small command line library (Formerly Cocaine).
 
 ### Debugging Tools
 
@@ -404,35 +404,25 @@
 
 *   [Physical Computing With Rust](https://rahul-thakoor.github.io/physical-computing-rust/) A (WIP) guide to physical computing with Rust on the Raspberry Pi.
 
-## [31. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
-
-### Resources / Examples
-
-*   [**vue-soundcloud**](https://github.com/soroushchehresa/vue-soundcloud) A Soundcloud client built with Vue.js 2, by [Soroush Chehresa](https://github.com/soroushchehresa)
-
-### Components & Libraries / Utilities
-
-*   [vue-log-worker](https://gitlab.com/schoolmouv-open-source/vue-log-worker) - A Vue.js plugin to log error and vuex mutations to your backend through a web worker
-
-## [32. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [31. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / Data Analysis / Data Visualization
 
-*   [PyCM (⭐1.4k)](https://github.com/sepandhaghighi/pycm) - PyCM is a multi-class confusion matrix library written in Python that supports both input data vectors and direct matrix, and a proper tool for post-classification model evaluation that supports most classes and overall statistics parameters
+*   [PyCM (⭐1.5k)](https://github.com/sepandhaghighi/pycm) - PyCM is a multi-class confusion matrix library written in Python that supports both input data vectors and direct matrix, and a proper tool for post-classification model evaluation that supports most classes and overall statistics parameters
 
-## [33. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
+## [32. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
 
 ### Contents / Routing
 
 *   [Preact Route Async (⭐35)](https://github.com/mjanssen/preact-route-async) - A (440b gzip) route component that enables async loading of page-components.
 
-## [34. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
+## [33. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
 
 ### Clients
 
-*   [npm (⭐7.6k)](https://github.com/npm/cli) - The official client.
+*   [npm (⭐8.4k)](https://github.com/npm/cli) - The official client.
 
-## [35. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [34. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### Models
 
@@ -460,30 +450,30 @@
 
 *   [Raspberry Pi Beginners](https://medium.com/@anshul.ahu/how-to-setup-raspberry-pi-for-beginners-aeedc2cb994a) - Guide to setup the Raspberry Pi for beginners.
 
-## [36. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
+## [35. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
 
 ### Samsung Tizen / Third-party remote control libraries
 
 *   [samsung-remote-models-2014-and-newer (⭐48)](https://github.com/tdudek/samsung-remote-models-2014-and-newer) - Encrypted communication with the internal web service of Samsung TV models 2014+.
 *   [SmartCrypto (⭐8)](https://github.com/sectroyer/SmartCrypto) - SmartView2 encrypted handshake API implementation in C/Python.
 
-## [37. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [36. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / CMS
 
 *   [CoreWiki (⭐415)](https://github.com/csharpfritz/CoreWiki) - Simple ASP.NET Core wiki that we are working on during live coding streams.
 
-## [38. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
+## [37. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
 
 ### Components / Themes
 
-*   [antd-table-infinity (⭐283)](https://github.com/Leonard-Li777/antd-table-infinity) - An infinite scroll component based on antd table that supports virtual scrolling & high-performance
+*   [antd-table-infinity (⭐285)](https://github.com/Leonard-Li777/antd-table-infinity) - An infinite scroll component based on antd table that supports virtual scrolling & high-performance
 
-## [39. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+## [38. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Tools and session management
 
-*   [tmux-up (⭐112)](https://github.com/jamesottaway/tmux-up) Bootstrap new `tmux` sessions without complex tools, DSLs, or dependencies
+*   [tmux-up (⭐113)](https://github.com/jamesottaway/tmux-up) Bootstrap new `tmux` sessions without complex tools, DSLs, or dependencies
 
 ### Plugins
 
@@ -493,13 +483,13 @@
 
 *   [sublime-tmux (⭐9)](https://github.com/huntie/sublime-tmux) Sublime Text plugin to interact with tmux sessions
 
-## [40. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
+## [39. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### SaaS Tools / Symfony2
 
 *   [Beeceptor](https://beeceptor.com/) - An HTTP inspecting, mocking and proxing service. Gives named endpoints for creating mock API endpoints and simulate responses.
 
-## [41. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [40. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Animals
 
@@ -622,7 +612,7 @@
   CORS: Unknown
 
 
-- API: [Harvard Art Museums (⭐342)](https://github.com/harvardartmuseums/api-docs)
+- API: [Harvard Art Museums (⭐349)](https://github.com/harvardartmuseums/api-docs)
 
   Description: Art
 
@@ -704,8 +694,6 @@
 
   CORS: Unknown
 
-  Call this API: 
-
 
 - API: [Gmail](https://developers.google.com/gmail/api/)
 
@@ -716,8 +704,6 @@
   HTTPS: Yes
 
   CORS: Unknown
-
-  Call this API: 
 
 
 
@@ -767,7 +753,7 @@
   CORS: Unknown
 
 
-- API: [Non-Working Days (⭐21)](https://github.com/gadael/icsdb)
+- API: [Non-Working Days (⭐22)](https://github.com/gadael/icsdb)
 
   Description: Database of ICS files for non working days
 
@@ -778,7 +764,7 @@
   CORS: Unknown
 
 
-- API: [Russian Calendar (⭐28)](https://github.com/egno/work-calendar)
+- API: [Russian Calendar (⭐29)](https://github.com/egno/work-calendar)
 
   Description: Check if a date is a Russian holiday or not
 
@@ -802,7 +788,7 @@
 
   CORS: Unknown
 
-  Postman: 
+  : 
 
 
 - API: [Dropbox](https://www.dropbox.com/developers)
@@ -815,7 +801,7 @@
 
   CORS: Unknown
 
-  Postman: [<sup>**Run in Postman**</sup>](https://god.gw.postman.com/run-collection/25426789-718e2a11-20eb-4555-b520-c8b1b935ef0a?action=collection%2Ffork\&source=rip_markdown\&collection-url=entityId%3D25426789-718e2a11-20eb-4555-b520-c8b1b935ef0a%26entityType%3Dcollection%26workspaceId%3De4d9a7d3-b961-474e-a054-51861ed481f6)
+  : 
 
 
 - API: [Google Drive](https://developers.google.com/drive/)
@@ -828,7 +814,7 @@
 
   CORS: Unknown
 
-  Postman: 
+  : 
 
 
 
@@ -1018,7 +1004,7 @@
 
   CORS: Unknown
 
-  Call this API: 
+  : 
 
 
 - API: [PurgoMalum](http://www.purgomalum.com)
@@ -1031,7 +1017,7 @@
 
   CORS: Unknown
 
-  Call this API: 
+  : 
 
 
 
@@ -1334,7 +1320,7 @@
 
   CORS: Unknown
 
-  Call this API: 
+  : 
 
 
 - API: [IG](https://labs.ig.com/gettingstarted)
@@ -1347,7 +1333,7 @@
 
   CORS: Unknown
 
-  Call this API: 
+  : 
 
 
 
@@ -1386,7 +1372,7 @@
   CORS: Unknown
 
 
-- API: [TacoFancy (⭐123)](https://github.com/evz/tacofancy-api)
+- API: [TacoFancy (⭐126)](https://github.com/evz/tacofancy-api)
 
   Description: Community-driven taco database
 
@@ -1744,7 +1730,7 @@
   CORS: Yes
 
 
-- API: [Mexico (⭐69)](https://github.com/IcaliaLabs/sepomex)
+- API: [Mexico (⭐74)](https://github.com/IcaliaLabs/sepomex)
 
   Description: Mexico RESTful zip codes API
 
@@ -2334,7 +2320,7 @@
   CORS: Yes
 
 
-- API: [Feedbin (⭐342)](https://github.com/feedbin/feedbin-api)
+- API: [Feedbin (⭐349)](https://github.com/feedbin/feedbin-api)
 
   Description: RSS reader
 
@@ -2378,7 +2364,7 @@
   CORS: Unknown
 
 
-- API: [The Old Reader (⭐190)](https://github.com/theoldreader/api)
+- API: [The Old Reader (⭐191)](https://github.com/theoldreader/api)
 
   Description: RSS reader
 
@@ -3198,7 +3184,7 @@
   CORS: Unknown
 
 
-- API: [Community Transit (⭐104)](https://github.com/transitland/transitland-datastore/blob/master/README.md#api-endpoints)
+- API: [Community Transit (⭐105)](https://github.com/transitland/transitland-datastore/blob/master/README.md#api-endpoints)
 
   Description: Transitland API
 
@@ -3504,7 +3490,7 @@
   CORS: Unknown
 
 
-- API: [Breaking Bad Quotes (⭐387)](https://github.com/shevabam/breaking-bad-quotes)
+- API: [Breaking Bad Quotes (⭐405)](https://github.com/shevabam/breaking-bad-quotes)
 
   Description: Some Breaking Bad quotes
 
@@ -3548,7 +3534,7 @@
   CORS: Unknown
 
 
-- API: [Ron Swanson Quotes (⭐296)](https://github.com/jamesseanwright/ron-swanson-quotes#ron-swanson-quotes-api)
+- API: [Ron Swanson Quotes (⭐297)](https://github.com/jamesseanwright/ron-swanson-quotes#ron-swanson-quotes-api)
 
   Description: Television
 

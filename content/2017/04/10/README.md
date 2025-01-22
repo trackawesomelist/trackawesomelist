@@ -24,7 +24,7 @@
 
 ## [3. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
-### Fact Checking / Telegram
+### Fact Checking / Steam
 
 *   [Check](https://meedan.com/check)
 
@@ -49,7 +49,7 @@
 
 ### Programming / Python
 
-*   [expyriment (⭐104)](https://github.com/expyriment/expyriment) - Platform-independent lightweight Python library for designing and conducting timing-critical behavioural and neuroimaging experiments.
+*   [expyriment (⭐113)](https://github.com/expyriment/expyriment) - Platform-independent lightweight Python library for designing and conducting timing-critical behavioural and neuroimaging experiments.
 
 ## [6. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/README.md)
 
@@ -158,7 +158,7 @@
 
 ### Machine learning • Computer Vision • Ai / Other
 
-*   [Machine Learning (⭐953)](https://github.com/CodingTrain/Machine-Learning) - Coding Train repo with links to machine learning resources.
+*   [Machine Learning (⭐955)](https://github.com/CodingTrain/Machine-Learning) - Coding Train repo with links to machine learning resources.
 
 ## [11. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 
@@ -170,11 +170,11 @@
 
 ### Code Analysis and Metrics
 
-*   [NsDepCop (⭐185)](https://github.com/realvizu/NsDepCop) - Static code analysis tool to enforce namespace dependency rules in C# projects.
+*   [NsDepCop (⭐204)](https://github.com/realvizu/NsDepCop) - Static code analysis tool to enforce namespace dependency rules in C# projects.
 
 ### Decompilation
 
-*   [dnSpy (⭐26k)](https://github.com/0xd4d/dnSpy) - open-source .NET assembly browser, editor, decompiler and debugger
+*   [dnSpy (⭐27k)](https://github.com/0xd4d/dnSpy) - open-source .NET assembly browser, editor, decompiler and debugger
 
 ---
 

@@ -14,7 +14,7 @@
 
 ### Scheduling
 
-*   [Sidekiq-Cron (⭐1.8k)](https://github.com/ondrejbartas/sidekiq-cron) - A scheduling add-on for Sidekiq.
+*   [Sidekiq-Cron (⭐1.9k)](https://github.com/ondrejbartas/sidekiq-cron) - A scheduling add-on for Sidekiq.
 
 ## [2. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
@@ -63,18 +63,18 @@
 
 ### Database Management
 
-*   [RPostgres (⭐320)](https://github.com/r-dbi/RPostgres) - an DBI-compliant interface to the postgres database.
+*   [RPostgres (⭐334)](https://github.com/r-dbi/RPostgres) - an DBI-compliant interface to the postgres database.
 *   [RCassandra](http://cran.r-project.org/web/packages/RCassandra/index.html) - Direct interface (not Java) to the most basic functionality of Apache Cassandra.
 
 ### Data Packages
 
-*   [gapminder (⭐279)](http://github.com/jennybc/gapminder) - Excerpt from the Gapminder dataset (data about countries through the past 50 years).
+*   [gapminder (⭐289)](http://github.com/jennybc/gapminder) - Excerpt from the Gapminder dataset (data about countries through the past 50 years).
 
 ## [6. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
 
 ### Cluster Managers
 
-*   [Consul Cluster Manager (⭐19)](https://github.com/reactiverse/consul-cluster-manager) - Consul cluster manager.
+*   [Consul Cluster Manager (⭐20)](https://github.com/reactiverse/consul-cluster-manager) - Consul cluster manager.
 
 ## [7. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 

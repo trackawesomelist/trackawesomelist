@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 03 - Nov 09, 2014
 
-11 awesome lists updated this week.
+10 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -20,18 +20,10 @@
 
 ### Web server Benchmarks / Meetups
 
-*   [wrk (⭐37k)](https://github.com/wg/wrk) - A HTTP benchmarking tool (with optional Lua scripting for request generation, response
+*   [wrk (⭐38k)](https://github.com/wg/wrk) - A HTTP benchmarking tool (with optional Lua scripting for request generation, response
     processing, and custom reporting)
 
-## [3. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
-
-### CakePHP Websites
-
-*   [CakeDC](http://www.cakedc.com/articles) - Articles around CakePHP.
-*   [josediazgonzalez.com](http://josediazgonzalez.com/) - A mainly CakePHP related core dev blog.
-*   [mark-story.com](http://mark-story.com) - CakePHP lead dev blog.
-
-## [4. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [3. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Database
 
@@ -41,13 +33,13 @@
 
 *   [Eclipse for PHP Developers](https://www.eclipse.org/downloads/) - A PHP IDE based on the Eclipse platform.
 
-## [5. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
+## [4. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
 
 ### Game Development
 
 *   [Ranger (⭐25)](https://github.com/wdevore/Ranger-Dart) - A game engine centered around HTML5 Canvas and a scene graph.
 
-## [6. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [5. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### QA Tools / Runner
 
@@ -59,9 +51,9 @@
 
 ### Misc / Other
 
-*   [peterkokot/awesome-dojo (⭐83)](https://github.com/peterkokot/awesome-dojo)
+*   [peterkokot/awesome-dojo (⭐84)](https://github.com/peterkokot/awesome-dojo)
 
-## [7. Awesome Hadoop](/content/youngwookim/awesome-hadoop/week/README.md)
+## [6. Awesome Hadoop](/content/youngwookim/awesome-hadoop/week/README.md)
 
 ### YARN
 
@@ -77,13 +69,13 @@
 
 *   [Docker based Hadoop provisioning](http://www.slideshare.net/JanosMatyas/docker-based-hadoop-provisioning)
 
-## [8. Awesome Unity](/content/RyanNielson/awesome-unity/week/README.md)
+## [7. Awesome Unity](/content/RyanNielson/awesome-unity/week/README.md)
 
 ### Tutorials
 
 *   [Modern GUI Development in Unity 4.6](https://www.youtube.com/playlist?list=PLt_Y3Hw1v3QTEbh8fQV1DUOUIh9nF0k6c) - A video tutorial providing an in-depth explanation of Unity's new UI system.
 
-## [9. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [8. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Admin Interface
 
@@ -91,11 +83,11 @@
 
 ### Data Visualization
 
-*   [Ruby/GraphViz (⭐608)](https://github.com/glejeune/Ruby-Graphviz) - Ruby interface to the GraphViz graphing tool.
+*   [Ruby/GraphViz (⭐610)](https://github.com/glejeune/Ruby-Graphviz) - Ruby interface to the GraphViz graphing tool.
 
 ### Database Drivers
 
-*   [SQLite3 (⭐750)](https://github.com/sparklemotion/sqlite3-ruby) - Ruby bindings for the SQLite3 embedded database.
+*   [SQLite3 (⭐781)](https://github.com/sparklemotion/sqlite3-ruby) - Ruby bindings for the SQLite3 embedded database.
 
 ### Date and Time Processing
 
@@ -107,31 +99,31 @@
 
 ### ORM/ODM
 
-*   [ActiveRecord (⭐55k)](https://github.com/rails/rails/tree/master/activerecord) - Object-relational mapping in Rails.
+*   [ActiveRecord (⭐56k)](https://github.com/rails/rails/tree/master/activerecord) - Object-relational mapping in Rails.
 
 ### Scientific
 
 *   Numerical arrays
-    *   [NMatrix (⭐469)](https://github.com/sciruby/nmatrix) - Fast numerical linear algebra library for Ruby.
-    *   [Numo::NArray (⭐413)](https://github.com/ruby-numo/numo-narray) - N-dimensional Numerical Array for Ruby.
+    *   [NMatrix (⭐470)](https://github.com/sciruby/nmatrix) - Fast numerical linear algebra library for Ruby.
+    *   [Numo::NArray (⭐418)](https://github.com/ruby-numo/numo-narray) - N-dimensional Numerical Array for Ruby.
     *   [mdarray (⭐36)](https://github.com/rbotafogo/mdarray) - Multi dimensional array implemented for JRuby inspired by NumPy.
-*   [SciRuby (⭐993)](https://github.com/sciruby/sciruby) - Tools for scientific computation in Ruby/Rails.
-    *   [IRuby (⭐852)](https://github.com/SciRuby/iruby) - A Ruby kernel for Jupyter.
+*   [SciRuby (⭐996)](https://github.com/sciruby/sciruby) - Tools for scientific computation in Ruby/Rails.
+    *   [IRuby (⭐902)](https://github.com/SciRuby/iruby) - A Ruby kernel for Jupyter.
     *   [statsample (⭐95)](https://github.com/sciruby/statsample) - A suite for basic and advanced statistics on Ruby.
     *   [statsample-timeseries (⭐13)](https://github.com/sciruby/statsample-timeseries) - Bioruby Statsample TimeSeries.
     *   [statsample-glm (⭐23)](https://github.com/sciruby/statsample-glm) - Generalized Linear Models extension for Statsample.
     *   [distribution (⭐50)](https://github.com/sciruby/distribution) - Statistical Distributions multi library wrapper.
     *   [minimization (⭐16)](https://github.com/sciruby/minimization) - Minimization algorithms on pure Ruby.
 *   Specific
-    *   [BioRuby (⭐377)](https://github.com/bioruby/bioruby) - Library for developing bioinformatics software.
-    *   [bloomfilter-rb (⭐472)](https://github.com/igrigorik/bloomfilter-rb) - BloomFilter(s) in Ruby: Native counting filter + Redis counting/non-counting filters.
+    *   [BioRuby (⭐378)](https://github.com/bioruby/bioruby) - Library for developing bioinformatics software.
+    *   [bloomfilter-rb (⭐473)](https://github.com/igrigorik/bloomfilter-rb) - BloomFilter(s) in Ruby: Native counting filter + Redis counting/non-counting filters.
     *   [decisiontree (⭐1.4k)](https://github.com/igrigorik/decisiontree) - A ruby library which implements ID3 (information gain) algorithm for decision tree learning.
 
 ### Video
 
 *   [Streamio FFMPEG (⭐1.6k)](https://github.com/streamio/streamio-ffmpeg) - Simple yet powerful wrapper around the ffmpeg command for reading metadata and transcoding movies.
 
-## [10. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
+## [9. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
 
 ### Software Development
 
@@ -142,7 +134,7 @@
 
 *   [Spotify Engineering Culture - Part 2](http://vimeo.com/94950270) by **Spotify Training & Development** \[13:27]
 
-## [11. Awesome Dojo](/content/petk/awesome-dojo/week/README.md)
+## [10. Awesome Dojo](/content/petk/awesome-dojo/week/README.md)
 
 ### Serverside integrations / Dojo 2
 

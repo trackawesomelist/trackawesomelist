@@ -33,36 +33,36 @@
 
 ### Resources / More
 
-*   [MongoDB source code (⭐26k)](https://github.com/mongodb/mongo)
+*   [MongoDB source code (⭐27k)](https://github.com/mongodb/mongo)
 
 ### Libraries / C
 
-*   [mongo-c-driver (⭐806)](https://github.com/mongodb/mongo-c-driver) - Official C driver
+*   [mongo-c-driver (⭐823)](https://github.com/mongodb/mongo-c-driver) - Official C driver
 
 ### Libraries / C++
 
-*   [mongo-cxx-driver (⭐1k)](https://github.com/mongodb/mongo-cxx-driver) - Official C++ driver
+*   [mongo-cxx-driver (⭐1.1k)](https://github.com/mongodb/mongo-cxx-driver) - Official C++ driver
 
 ### Libraries / C#/.NET
 
-*   [mongo-csharp-driver (⭐3.1k)](https://github.com/mongodb/mongo-csharp-driver) - Official C# driver
-*   [MongoDB Messaging (⭐60)](https://github.com/loresoft/MongoDB.Messaging) - Lightweight queue pub/sub processing library
-*   [MongoRepository (⭐308)](https://github.com/RobThree/MongoRepository) - Repository abstraction layer on top of the C# driver
+*   [mongo-csharp-driver (⭐3.2k)](https://github.com/mongodb/mongo-csharp-driver) - Official C# driver
+*   [MongoDB Messaging (⭐58)](https://github.com/loresoft/MongoDB.Messaging) - Lightweight queue pub/sub processing library
+*   [MongoRepository (⭐307)](https://github.com/RobThree/MongoRepository) - Repository abstraction layer on top of the C# driver
 
 ### Libraries / Erlang
 
-*   [mongodb-erlang (⭐342)](https://github.com/comtihon/mongodb-erlang) - Community Erlang driver
+*   [mongodb-erlang (⭐344)](https://github.com/comtihon/mongodb-erlang) - Community Erlang driver
 
 ### Libraries / Haskell
 
-*   [mongodb (⭐170)](https://github.com/mongodb-haskell/mongodb/) - Community Haskell driver
+*   [mongodb (⭐172)](https://github.com/mongodb-haskell/mongodb/) - Community Haskell driver
 
 ### Libraries / Java
 
-*   [Jongo (⭐583)](https://github.com/bguerout/jongo) - Query in Java as in Mongo shell
-*   [Hibernate OGM (⭐320)](https://github.com/hibernate/hibernate-ogm) - The power and simplicity of JPA for NoSQL datastores
+*   [Jongo (⭐585)](https://github.com/bguerout/jongo) - Query in Java as in Mongo shell
+*   [Hibernate OGM (⭐321)](https://github.com/hibernate/hibernate-ogm) - The power and simplicity of JPA for NoSQL datastores
 *   [mongo-java-driver (⭐2.6k)](https://github.com/mongodb/mongo-java-driver) - Official Java driver
-*   [Mongojack (⭐266)](https://github.com/mongojack/mongojack) - Based on Jackson, allows you to easily handle your mongo objects as POJOs
+*   [Mongojack (⭐267)](https://github.com/mongojack/mongojack) - Based on Jackson, allows you to easily handle your mongo objects as POJOs
 *   [Morphium (⭐55)](https://github.com/sboesebeck/morphium) - Java ODM and caching layer
 *   [Mungbean (⭐18)](https://github.com/jannehietamaki/mungbean) - Community driver for languages running on the JVM
 
@@ -74,18 +74,12 @@
 
 ### Libraries / Lisp
 
-*   [cl-mongo (⭐141)](https://github.com/fons/cl-mongo) - Community Common Lisp interface
+*   [cl-mongo (⭐143)](https://github.com/fons/cl-mongo) - Community Common Lisp interface
 *   [mongo-cl-driver (⭐35)](https://github.com/archimag/mongo-cl-driver) Community Common Lisp driver
-
-### Libraries / PHP
-
-*   [laravel-mongodb (⭐7k)](https://github.com/jenssegers/laravel-mongodb) - Eloquent model and query builder for Laravel
 
 ### Libraries / Python
 
-*   [MongoLog (⭐135)](https://github.com/puentesarrin/mongodb-log) - MongoDB logging handler
-*   [PyMongo (⭐4.1k)](https://github.com/mongodb/mongo-python-driver) - Official Python driver
-*   [scrapy-mongodb (⭐356)](https://github.com/sebdah/scrapy-mongodb) - MongoDB pipeline for Scrapy
+*   [PyMongo (⭐4.2k)](https://github.com/mongodb/mongo-python-driver) - Official Python driver
 
 ### Libraries / Ruby
 
@@ -101,8 +95,8 @@
 
 ### Tools / Deployment
 
-*   [ansible-role-mongodb (⭐341)](https://github.com/UnderGreen/ansible-role-mongodb) - Ansible role
-*   [chef-mongodb (⭐362)](https://github.com/edelight/chef-mongodb) - Chef cookbook
+*   [ansible-role-mongodb (⭐344)](https://github.com/UnderGreen/ansible-role-mongodb) - Ansible role
+*   [chef-mongodb (⭐363)](https://github.com/edelight/chef-mongodb) - Chef cookbook
 
 ### Tools / Monitoring
 
@@ -121,7 +115,7 @@
 
 ### State machines
 
-*   [Stateless (⭐5.5k)](https://github.com/dotnet-state-machine/stateless) - Create state machines and lightweight state machine-based workflows directly in .NET code
+*   [Stateless (⭐5.7k)](https://github.com/dotnet-state-machine/stateless) - Create state machines and lightweight state machine-based workflows directly in .NET code
 
 ## [5. Tips](/content/git-tips/tips/README.md)
 
@@ -168,7 +162,7 @@ git rebase -i --autosquash
 
 ### Applications
 
-*   [Hydra (⭐67)](https://github.com/doomspork/hydra) - A multi-headed beast: API gateway, request cache, and data transformations.
+*   [Hydra (⭐66)](https://github.com/doomspork/hydra) - A multi-headed beast: API gateway, request cache, and data transformations.
 
 ### Files and Directories
 

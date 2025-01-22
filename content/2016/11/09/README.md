@@ -10,7 +10,7 @@
 
 ### Device
 
-*   [Luminous (⭐340)](https://github.com/andrealufino/Luminous) - Get everything you need to know about the device.
+*   [Luminous (⭐344)](https://github.com/andrealufino/Luminous) - Get everything you need to know about the device.
 
 ## [2. Awesome Fuse](/content/fuse-compound/awesome-fuse/README.md)
 

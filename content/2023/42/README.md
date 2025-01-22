@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 16 - Oct 22, 2023
 
-72 awesome lists updated this week.
+70 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,13 +10,13 @@
 
 ### Network Tools / Proxies and Machine-in-the-Middle (MITM) Tools
 
-*   [PETEP (⭐166)](https://github.com/Warxim/petep) - Extensible TCP/UDP proxy with GUI for traffic analysis & modification with SSL/TLS support.
+*   [PETEP (⭐186)](https://github.com/Warxim/petep) - Extensible TCP/UDP proxy with GUI for traffic analysis & modification with SSL/TLS support.
 
 ## [2. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/week/README.md)
 
 ### Machine Learning Libraries / Frameworks
 
-*   [ruby-openai (⭐2k)](https://github.com/alexrudall/ruby-openai) - OpenAI API wrapper
+*   [ruby-openai (⭐2.8k)](https://github.com/alexrudall/ruby-openai) - OpenAI API wrapper
 
 ### Community / Vector search
 
@@ -42,7 +42,7 @@
 
 ### Validation / Playground
 
-*   [valibot (⭐5.7k)](https://github.com/fabian-hiller/valibot) - Valibot is a Typescript schema library with static type inference, and it's exceptionally lightweight compared to Zod, with no dependencies.
+*   [valibot (⭐6.8k)](https://github.com/fabian-hiller/valibot) - Valibot is a Typescript schema library with static type inference, and it's exceptionally lightweight compared to Zod, with no dependencies.
 
 ## [6. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
@@ -89,7 +89,7 @@
 
 ### Scroll / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [@robingenz/ngx-infinite-scroll (⭐4)](https://github.com/robingenz/ngx-infinite-scroll) - Simple Angular directive for infinite scrolling.
+*   [@robingenz/ngx-infinite-scroll (⭐5)](https://github.com/robingenz/ngx-infinite-scroll) - Simple Angular directive for infinite scrolling.
 
 ### Unspecified / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -178,32 +178,32 @@
 
 ### Contents / Tools
 
-*   [Ejimo (⭐36)](https://github.com/albemala/emoji-picker) - Cross-platform emoji and symbol picker by [albemala](https://github.com/albemala)
+*   [Ejimo (⭐43)](https://github.com/albemala/emoji-picker) - Cross-platform emoji and symbol picker by [albemala](https://github.com/albemala)
 
 ## [13. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / Utilities
 
-*   [exome (⭐228)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states.
+*   [exome (⭐242)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states.
 
 ### Components & Libraries / Frameworks
 
-*   [Stellar UI (⭐33)](https://github.com/ManukMinasyan/stellar-ui) - Fully styled and customizable components for Vue 3.
+*   [Stellar UI (⭐38)](https://github.com/ManukMinasyan/stellar-ui) - Fully styled and customizable components for Vue 3.
 *   [TW Elemetns for Vue](https://tw-elements.com/docs/standard/integrations/vue-integration/) - Vue integration with Tailwind CSS - a free, open-source UI Kit
 
 ### Components & Libraries / UI Components
 
-*   [vue-tailwind-datepicker (⭐224)](https://github.com/elreco/vue-tailwind-datepicker) - A Vue 3 Datepicker using Tailwind CSS 3
+*   [vue-tailwind-datepicker (⭐243)](https://github.com/elreco/vue-tailwind-datepicker) - A Vue 3 Datepicker using Tailwind CSS 3
 
 ## [14. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
 
 ### Reverse Proxy
 
-*   [caddy-docker-proxy (⭐2.7k)](https://github.com/lucaslorentz/caddy-docker-proxy) - Caddy-based reverse proxy, configured with service or container labels. By [@lucaslorentz](https://github.com/lucaslorentz)
+*   [caddy-docker-proxy (⭐3.1k)](https://github.com/lucaslorentz/caddy-docker-proxy) - Caddy-based reverse proxy, configured with service or container labels. By [@lucaslorentz](https://github.com/lucaslorentz)
 
 ### Development Environment / Other
 
-*   [uniget (⭐9)](https://github.com/uniget-org/cli) - uni(versal)get, the installer and updater for container tools and beyond (formerly docker-setup). By [@nicholasdille](https://github.com/nicholasdille)
+*   [uniget (⭐14)](https://github.com/uniget-org/cli) - uni(versal)get, the installer and updater for container tools and beyond (formerly docker-setup). By [@nicholasdille](https://github.com/nicholasdille)
 
 ## [15. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
@@ -227,11 +227,11 @@
 
 ### Deployment Hosting
 
-*   [Kinsta](https://kinsta.com/) - Deploy static sites, apps, and databases from GitHub, GitLab or Bitbucket and host headless WordPress.
+*   [Kinsta](https://kinsta.com/) - Deploy static sites, apps, and databases from GitHub, GitLab, or Bitbucket and host headless WordPress.
 
 ### Integrations
 
-*   [Sequin](https://sequin.io/) - Interface with third-party services using SQL.
+*   [Sequin](https://sequin.io/) - Interface with third-party services using SQL. [![featured on launchweek.dev](https://img.shields.io/badge/featured-0D1117.svg?style=flat-square\&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMzYwIiBoZWlnaHQ9IjM2MCIgdmlld0JveD0iMCAwIDM2MCAzNjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+IDxyZWN0IHdpZHRoPSI2MCIgaGVpZ2h0PSIzMDAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjYwIiB5PSIzMDAiIHdpZHRoPSIxMjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjI0MCIgeT0iMzAwIiB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjMwMCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjMwMCIgZmlsbD0id2hpdGUiLz4gPHJlY3QgeD0iMTgwIiB3aWR0aD0iNjAiIGhlaWdodD0iMzAwIiBmaWxsPSJ3aGl0ZSIvPiA8L3N2Zz4=)](https://launchweek.dev)
 
 ## [18. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
@@ -330,7 +330,7 @@
 
 ### Packages / Command-line utilities
 
-*   [listr2 (⭐490)](https://github.com/listr2/listr2) - Terminal task list.
+*   [listr2 (⭐531)](https://github.com/listr2/listr2) - Terminal task list.
 
 ## [23. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
@@ -342,13 +342,13 @@
 
 ### Related / Awesome Lists
 
-*   [Awesome Software Quality (⭐2.2k)](https://github.com/ligurio/sqa-wiki) - A list of free software testing and verification resources.
+*   [Awesome Software Quality (⭐2.3k)](https://github.com/ligurio/sqa-wiki) - A list of free software testing and verification resources.
 
 ## [25. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Apps
 
-*   [StorageBox (⭐19)](https://github.com/AlandSleman/StorageBox) - A Simple File Storage Service Built with Go and Next.js.
+*   [StorageBox (⭐23)](https://github.com/AlandSleman/StorageBox) - A Simple File Storage Service Built with Go and Next.js.
 
 ## [26. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
 
@@ -364,7 +364,7 @@
 
 ### Tools / Environment managers
 
-*   [asdf-opentofu (⭐22)](https://github.com/virtualroot/asdf-opentofu) - OpenTofu plugin for asdf version manager.
+*   [asdf-opentofu (⭐25)](https://github.com/virtualroot/asdf-opentofu) - OpenTofu plugin for asdf version manager.
 
 ## [28. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
@@ -387,11 +387,11 @@
 
 ### Python / Trading & Backtesting
 
-*   [OctoBot Script (⭐17)](https://github.com/Drakkar-Software/OctoBot-Script) - A quant framework to create cryptocurrencies strategies - from backtesting to optimization to livetrading.
+*   [OctoBot Script (⭐21)](https://github.com/Drakkar-Software/OctoBot-Script) - A quant framework to create cryptocurrencies strategies - from backtesting to optimization to livetrading.
 
 ### Reproducing Works, Training & Books / Data Visualization
 
-*   [MesoSim Options Trading Strategy Library (⭐6)](https://github.com/deltaray-io/strategy-library) - Free and public Options Trading strategy library for MesoSim.
+*   [MesoSim Options Trading Strategy Library (⭐9)](https://github.com/deltaray-io/strategy-library) - Free and public Options Trading strategy library for MesoSim.
 
 ## [31. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
@@ -446,15 +446,15 @@
 
 ### Concepts / AI Concept Representation
 
-*   [ImageBind: One Embedding Space To Bind Them All](https://openaccess.thecvf.com/content/CVPR2023/html/Girdhar_ImageBind_One_Embedding_Space_To_Bind_Them_All_CVPR_2023_paper.html) - ***CVPR'23***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=1657173986906232916\&hl=en\&as_sdt=0,5)]. \[[Project (⭐8.2k)](https://github.com/facebookresearch/ImageBind)]. Cross-modality representation fusion by aligning all other modalities to the visual modality.
+*   [ImageBind: One Embedding Space To Bind Them All](https://openaccess.thecvf.com/content/CVPR2023/html/Girdhar_ImageBind_One_Embedding_Space_To_Bind_Them_All_CVPR_2023_paper.html) - ***CVPR'23***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=1657173986906232916\&hl=en\&as_sdt=0,5)]. \[[Project (⭐8.5k)](https://github.com/facebookresearch/ImageBind)]. Cross-modality representation fusion by aligning all other modalities to the visual modality.
 
 ### Complexity & Information Theory / Theory
 
-*   [On the Complexity of Bayesian Generalization](https://proceedings.mlr.press/v202/shi23i.html) - ***ICML'23***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=5817813824878811147)]. \[[Code (⭐8)](https://github.com/SHI-Yu-Zhe/bayesian-generalization-complexity)]. \[[Models](https://drive.google.com/file/d/1eCuFqBYN8kuiAmoVtXWedXW0r0TdY55W/view)]. This work studies the two computation modes of concept generalization in the natural visual spectrum, *i.e.*, rule-based and similarity-based generalization, when the problem space scales up and when the complexity of concepts becomes diverse.
+*   [On the Complexity of Bayesian Generalization](https://proceedings.mlr.press/v202/shi23i.html) - ***ICML'23***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=5817813824878811147)]. \[[Project (⭐8)](https://github.com/SHI-Yu-Zhe/bayesian-generalization-complexity)]. \[[Models](https://drive.google.com/file/d/1eCuFqBYN8kuiAmoVtXWedXW0r0TdY55W/view)]. This work examine concept generalization at a large scale in the natural visual spectrum. Established computational modes (i.e., rule-based or similarity-based) are primarily studied isolated, focusing on confined and abstract problem spaces. This work studies these two modes when the problem space scales up and when the complexity of concepts becomes diverse. At the representational level, the authors investigate how the complexity varies when a visual concept is mapped to the representation space. Prior literature has shown that two types of complexities build an inverted-U relation. Leveraging Representativeness of Attribute (RoA), the authors computationally confirm: Models use attributes with high RoA to describe visual concepts, and the description length falls in an inverted-U relation with the increment in visual complexity. At the computational level, the authors examine how the complexity of representation affects the shift between the rule- and similarity-based generalization. The authors hypothesize that category-conditioned visual modeling estimates the co-occurrence frequency between visual and categorical attributes, thus potentially serving as the prior for the natural visual world. Experimental results show that representations with relatively high subjective complexity outperform those with relatively low subjective complexity in rule-based generalization, while the trend is the opposite in similarity-based generalization.
 
 ### Science Logology / Science Education
 
-*   [PersLEARN: Research Training through the Lens of Perspective Cultivation](https://aclanthology.org/2023.acl-demo.2/) - ***ACL'23***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=6242389165210232890)]. Scientific research is inherently shaped by its authors’ perspectives, influenced by various factorssuch as their personality, community, or society. Junior researchers often face challenges in identifying the perspectives reflected in the existing literature and struggle to develop their own viewpoints. To address the problem, this paper introduces PersLEARN, a tool designed to facilitate the cultivation of scientific perspectives, starting from a basic seed idea and progressing to a well-articulated framework.
+*   [PersLEARN: Research Training through the Lens of Perspective Cultivation](https://aclanthology.org/2023.acl-demo.2/) - ***ACL'23***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=6242389165210232890)]. Scientific research is inherently shaped by its authors’ perspectives, influenced by various factors such as their personality, community, or society. Junior researchers often face challenges in identifying the perspectives reflected in the existing literature and struggle to develop their own viewpoints. To address the problem, this paper introduces PersLEARN, a tool designed to facilitate the cultivation of scientific perspectives, starting from a basic seed idea and progressing to a well-articulated framework.
 
 ### Science Logology / AI Assisted Research
 
@@ -472,11 +472,11 @@
 
 ### Clients
 
-*   [.NET / C# Keycloak.RestApiClient (⭐41)](https://github.com/fschick/Keycloak.RestApiClient)
+*   [.NET / C# Keycloak.RestApiClient (⭐60)](https://github.com/fschick/Keycloak.RestApiClient)
 
 ### Example Projects
 
-*   [How to: Keycloak - ASP.NET Core - Angular (⭐36)](https://github.com/fschick/Keycloak.ASPNet.Angular)
+*   [How to: Keycloak - ASP.NET Core - Angular (⭐45)](https://github.com/fschick/Keycloak.ASPNet.Angular)
 
 ## [35. Awesome Embedded and Iot Security](/content/fkie-cad/awesome-embedded-and-iot-security/week/README.md)
 
@@ -490,15 +490,10 @@
 
 *   [GoatCounter](https://www.goatcounter.com/) - Privacy aware, lightweight and open-source analytics platform.
 
-### Commenting Engines
-
-*   [Cusdis (⭐2.6k)](https://github.com/djyde/cusdis) - Lightweight, privacy-friendly alternative to Disqus.
-*   [Disgus (⭐46)](https://github.com/carlitoplatanito/disgus) - Embeddable comments for your website, backed by Nostr. Like Disqus but Nostr.
-
 ### Creator Tools
 
 *   [vdo.ninja](https://vdo.ninja/) - Powerful tool that lets you bring remote video feeds into OBS or other studio software via WebRTC.
-    *   [socialstream.ninja (⭐563)](https://github.com/steveseguin/social_stream#readme) - Consolidate your live social messaging streams and much more.
+    *   [socialstream.ninja (⭐686)](https://github.com/steveseguin/social_stream#readme) - Consolidate your live social messaging streams and much more.
 *   [OBS Studio](https://obsproject.com/) - Free and open source software for video recording and live streaming.
 
 ### Link in Bio Tools
@@ -523,23 +518,23 @@
 
 ### no-std crates / WIP
 
-*   [ethercrab (⭐238)](https://github.com/ethercrab-rs/ethercrab): A Rust implementation of the [EtherCAT](https://ethercat.org) industrial automation protocol - ![crates.io](https://img.shields.io/crates/v/ethercrab.svg)
+*   [ethercrab (⭐273)](https://github.com/ethercrab-rs/ethercrab): A Rust implementation of the [EtherCAT](https://ethercat.org) industrial automation protocol - [![crates.io](https://img.shields.io/crates/v/ethercrab.svg)](https://crates.io/crates/ethercrab)
 
 ### Firmware projects / WIP
 
-*   [rmk (⭐310)](https://github.com/HaoboGu/rmk): Mechanical keyboard firmware for stm32/rp2040, supports vial/dynamic keymap/eeprom, written in Rust
+*   [rmk (⭐716)](https://github.com/HaoboGu/rmk): Mechanical keyboard firmware for stm32/rp2040, supports vial/dynamic keymap/eeprom, written in Rust
 
 ## [39. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Utility
 
-*   [dialog (⭐21)](https://github.com/ttytm/dialog) - A cross-platform utility library to open system dialogs - open files, message boxes, color-pickers etc.
+*   [dialog (⭐27)](https://github.com/ttytm/dialog) - A cross-platform utility library to open system dialogs - open files, message boxes, color-pickers etc.
 
 ## [40. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
 
 ### Projects / User Interfaces
 
-*   [Waterproof editor (⭐35)](https://github.com/impermeable/waterproof) - Educational environment for writing mathematical proofs in interactive notebooks.
+*   [Waterproof editor (⭐41)](https://github.com/impermeable/waterproof) - Educational environment for writing mathematical proofs in interactive notebooks.
 
 ### Projects / Package and Build Management
 
@@ -547,7 +542,7 @@
 
 ### Projects / Plugins
 
-*   [Waterproof proof language (⭐29)](https://github.com/impermeable/coq-waterproof) - Plugin providing a language for writing proof scripts in a style that resembles non-mechanized mathematical proof.
+*   [Waterproof proof language (⭐33)](https://github.com/impermeable/coq-waterproof) - Plugin providing a language for writing proof scripts in a style that resembles non-mechanized mathematical proof.
 
 ## [41. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
@@ -565,61 +560,61 @@
 
 ### Utils / Third-party APIs
 
-*   ⭐ [lparallel (⭐15)](https://github.com/sharplispers/lparallel) - A library for parallel programming. [3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause). Originally on [lmj/lparallel (⭐243)](https://github.com/lmj/lparallel).
+*   ⭐ [lparallel (⭐20)](https://github.com/sharplispers/lparallel) - A library for parallel programming. [3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause). Originally on [lmj/lparallel (⭐250)](https://github.com/lmj/lparallel).
 
 ## [44. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 
 ### End-user applications / XML
 
-*   [tshare (⭐90)](https://github.com/trikko/tshare) - fast file sharing from cli, using transfer.sh
+*   [tshare (⭐121)](https://github.com/trikko/tshare) - fast file sharing from cli, using transfer.sh
 
 ## [45. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Concurrency
 
-*   [Channel (⭐341)](https://github.com/andreiavrammsd/cpp-channel) - Thread-safe container for sharing data between threads. \[MIT]
+*   [Channel (⭐445)](https://github.com/andreiavrammsd/cpp-channel) - Thread-safe container for sharing data between threads. \[MIT]
 *   [Taskflow (⭐10k)](https://github.com/taskflow/taskflow) - A General-purpose Parallel and Heterogeneous Task Programming System. (renamed from Cpp-Taskflow) \[MIT]
 
 ### Configuration
 
-*   [toml11 (⭐1k)](https://github.com/ToruNiina/toml11) -  a C++11 (or later) header-only toml parser/encoder depending only on C++ standard library. \[MIT]
+*   [toml11 (⭐1.1k)](https://github.com/ToruNiina/toml11) -  a C++11 (or later) header-only toml parser/encoder depending only on C++ standard library. \[MIT]
 
 ### Containers
 
-*   [unordered\_dense (⭐865)](https://github.com/martinus/unordered_dense) - A fast & densely stored hashmap and hashset based on robin-hood backward shift deletion. \[MIT]
+*   [unordered\_dense (⭐991)](https://github.com/martinus/unordered_dense) - A fast & densely stored hashmap and hashset based on robin-hood backward shift deletion. \[MIT]
 
 ### Database
 
-*   [DuckDB](https://duckdb.org/) - in-process SQL OLAP Database Management System. \[MIT]
+*   [DuckDB](https://duckdb.org/) - in-process SQL OLAP Database Management System. \[MIT] [website](https://duckdb.org/)
 *   [TigerBeetleDB C++ client (Community) (⭐10)](https://github.com/kassane/tigerbeetle-cpp) - TigerBeetle is a financial accounting database designed for mission critical safety and performance to power the future of financial services. \[BSL-1.0]
 
 ### Debug
 
-*   [CppBenchmark (⭐268)](https://github.com/chronoxor/CppBenchmark) - Performance benchmark framework for C++ with nanoseconds measure precision. \[MIT]
+*   [CppBenchmark (⭐290)](https://github.com/chronoxor/CppBenchmark) - Performance benchmark framework for C++ with nanoseconds measure precision. \[MIT]
 
 ### JSON
 
-*   [DAW JSON Link (⭐457)](https://github.com/beached/daw_json_link) - Fast, convenient JSON serialization and parsing in C++. \[BSL-1.0]
-*   [Jsonifier (⭐41)](https://github.com/RealTimeChris/Jsonifier) - A few classes for parsing and serializing objects from/into JSON - very rapidly. \[MIT]
+*   [DAW JSON Link (⭐480)](https://github.com/beached/daw_json_link) - Fast, convenient JSON serialization and parsing in C++. \[BSL-1.0]
+*   [Jsonifier (⭐68)](https://github.com/RealTimeChris/Jsonifier) - A few classes for parsing and serializing objects from/into JSON - very rapidly. \[MIT]
 
 ### Networking
 
-*   [ada (⭐1.3k)](https://github.com/ada-url/ada) - WHATWG-compliant and fast URL parser written in modern C++. \[Apache-2.0/MIT]
+*   [ada (⭐1.4k)](https://github.com/ada-url/ada) - WHATWG-compliant and fast URL parser written in modern C++. \[Apache-2.0/MIT]
 
 ### Physics
 
-*   [PlayRho (⭐129)](https://github.com/louis-langholtz/PlayRho) - An interactive physics engine & library.  \[Zlib]
+*   [PlayRho (⭐137)](https://github.com/louis-langholtz/PlayRho) - An interactive physics engine & library.  \[Zlib]
 
 ### Miscellaneous
 
-*   [libenvpp (⭐124)](https://github.com/ph3at/libenvpp) - A modern C++ library for type-safe environment variable parsing. \[Apache-2.0]
-*   [StringZilla (⭐2k)](https://github.com/ashvardanian/StringZilla) - the Godzilla of string libraries, splitting, sorting, and shuffling large textual datasets faster than you can say "Tokyo Tower". \[Apache-2.0]
+*   [libenvpp (⭐133)](https://github.com/ph3at/libenvpp) - A modern C++ library for type-safe environment variable parsing. \[Apache-2.0]
+*   [StringZilla (⭐2.4k)](https://github.com/ashvardanian/StringZilla) - the Godzilla of string libraries, splitting, sorting, and shuffling large textual datasets faster than you can say "Tokyo Tower". \[Apache-2.0]
 
 ## [46. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Actors
 
-*   [spawn (⭐269)](https://github.com/eigr/spawn) - Elixir poliglot actors service mesh.
+*   [spawn (⭐304)](https://github.com/eigr/spawn) - Elixir poliglot actors service mesh.
 
 ### HTML
 
@@ -627,31 +622,27 @@
 
 ### Books
 
-*   [Async Elixir (⭐141)](https://github.com/Arp-G/async-elixir) - Dive into Elixir's world of concurrency and processes with this interactive Livebook.
+*   [Async Elixir (⭐166)](https://github.com/Arp-G/async-elixir) - Dive into Elixir's world of concurrency and processes with this interactive Livebook.
 
 ## [47. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### HTML/XML Parsing
 
-*   [Nokolexbor (⭐181)](https://github.com/serpapi/nokolexbor) - High-performance HTML5 parser based on Lexbor, with support for both CSS selectors and XPath.
+*   [Nokolexbor (⭐327)](https://github.com/serpapi/nokolexbor) - High-performance HTML5 parser based on Lexbor, with support for both CSS selectors and XPath.
 
 ### Scheduling
 
-*   [ruby-clock (⭐78)](https://github.com/jjb/ruby-clock) - A job scheduler which runs jobs each in their own thread in a persistent process.
+*   [ruby-clock (⭐79)](https://github.com/jjb/ruby-clock) - A job scheduler which runs jobs each in their own thread in a persistent process.
 
 ## [48. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
-### Miscellaneous Data Structures and Algorithms
-
-*   [plinko](https://github.com/shipt/plinko) - A finite state machine and workflow orchestrator that compiles for fast execution, easy debugging, auto-generated documentation. Includes advanced features such as side-effect hooks.
-
 ### Search and Analytic Databases
 
-*   [clickhouse-go (⭐2.8k)](https://github.com/ClickHouse/clickhouse-go/) - ClickHouse SQL client for Go with a `database/sql` compatibility.
+*   [clickhouse-go (⭐3k)](https://github.com/ClickHouse/clickhouse-go/) - ClickHouse SQL client for Go with a `database/sql` compatibility.
 
 ### File Handling
 
-*   [iso9660 (⭐256)](https://github.com/kdomanski/iso9660) - A package for reading and creating ISO9660 disk images
+*   [iso9660 (⭐272)](https://github.com/kdomanski/iso9660) - A package for reading and creating ISO9660 disk images
 
 ### Financial
 
@@ -659,7 +650,7 @@
 
 ### Generators
 
-*   [oapi-codegen (⭐5.8k)](https://github.com/deepmap/oapi-codegen) - This package contains a set of utilities for generating Go boilerplate code for services based on OpenAPI 3.0 API definitions.
+*   [oapi-codegen (⭐6.5k)](https://github.com/deepmap/oapi-codegen) - This package contains a set of utilities for generating Go boilerplate code for services based on OpenAPI 3.0 API definitions.
 
 ### Goroutines
 
@@ -667,55 +658,55 @@
 
 ### GUI
 
-*   [energy (⭐357)](https://github.com/energye/energy) - Cross-platform based on LCL(Native System UI Control Library) and CEF(Chromium Embedded Framework) (Windows/ macOS / Linux)
-*   [unison (⭐183)](https://github.com/richardwilkes/unison) - A unified graphical user experience toolkit for Go desktop applications. macOS, Windows, and Linux are supported.
+*   [energy (⭐411)](https://github.com/energye/energy) - Cross-platform based on LCL(Native System UI Control Library) and CEF(Chromium Embedded Framework) (Windows/ macOS / Linux)
+*   [unison (⭐220)](https://github.com/richardwilkes/unison) - A unified graphical user experience toolkit for Go desktop applications. macOS, Windows, and Linux are supported.
 
 ### Logging
 
-*   [zl (⭐5)](https://github.com/nkmr-jp/zl) - High Developer Experience, zap based logger. It offers rich functionality but is easy to configure.
+*   [zl (⭐6)](https://github.com/nkmr-jp/zl) - High Developer Experience, zap based logger. It offers rich functionality but is easy to configure.
 
 ### Messaging
 
-*   [go-eventbus (⭐4)](https://github.com/stanipetrosyan/go-eventbus) - Simple Event Bus package for Go.
+*   [go-eventbus (⭐6)](https://github.com/stanipetrosyan/go-eventbus) - Simple Event Bus package for Go.
 
 ### Dependency Injection
 
-*   [boot-go (⭐32)](http://github.com/boot-go/boot) - Component-based development with dependency injection using reflections for Go developers.
+*   [boot-go (⭐34)](http://github.com/boot-go/boot) - Component-based development with dependency injection using reflections for Go developers.
 *   [gontainer/gontainer (⭐15)](https://github.com/gontainer/gontainer) - A YAML-based Dependency Injection container for GO. It supports dependencies' scopes, and auto-detection of circular dependencies. Gontainer is concurrent-safe.
 
 ### Networking
 
-*   [tcpack (⭐174)](https://github.com/lim-yoona/tcpack) - tcpack is an application protocol based on TCP to Pack and Unpack bytes stream in go program.
+*   [tcpack (⭐171)](https://github.com/lim-yoona/tcpack) - tcpack is an application protocol based on TCP to Pack and Unpack bytes stream in go program.
 
 ### HTTP Clients
 
-*   [fast-shot (⭐51)](https://github.com/opus-domini/fast-shot) - Hit your API targets with rapid-fire precision using Go's fastest and simple HTTP Client.
+*   [fast-shot (⭐78)](https://github.com/opus-domini/fast-shot) - Hit your API targets with rapid-fire precision using Go's fastest and simple HTTP Client.
 
 ### Third-party APIs
 
-*   [aws-sdk-go (⭐2.5k)](https://github.com/aws/aws-sdk-go-v2) - The official AWS SDK for the Go programming language.
-*   [go-redoc (⭐67)](https://github.com/mvrilo/go-redoc) - Embedded OpenAPI/Swagger documentation ui for Go using [ReDoc](https://redocly.com/).
+*   [aws-sdk-go (⭐2.8k)](https://github.com/aws/aws-sdk-go-v2) - The official AWS SDK for the Go programming language.
+*   [go-redoc (⭐80)](https://github.com/mvrilo/go-redoc) - Embedded OpenAPI/Swagger documentation ui for Go using [ReDoc](https://redocly.com/).
 
 ### Utilities
 
-*   [upterm (⭐825)](https://github.com/owenthereal/upterm) - A tool for developers to share terminal/tmux sessions securely over the web. It’s perfect for remote pair programming, accessing computers behind NATs/firewalls, remote debugging, and more.
+*   [upterm (⭐886)](https://github.com/owenthereal/upterm) - A tool for developers to share terminal/tmux sessions securely over the web. It’s perfect for remote pair programming, accessing computers behind NATs/firewalls, remote debugging, and more.
 
 ### Code Analysis / Libraries for creating HTTP middlewares
 
-*   [vacuum (⭐541)](https://github.com/daveshanley/vacuum) - An ultra-super-fast, lightweight OpenAPI linter and quality checking tool.
+*   [vacuum (⭐671)](https://github.com/daveshanley/vacuum) - An ultra-super-fast, lightweight OpenAPI linter and quality checking tool.
 
 ### DevOps Tools / Libraries for creating HTTP middlewares
 
-*   [Flannel (⭐8.7k)](https://github.com/flannel-io/flannel) - Flannel is a network fabric for containers, designed for Kubernetes.
-*   [k3d (⭐5.3k)](https://github.com/k3d-io/k3d) - Little helper to run CNCF's k3s in Docker.
-*   [k3s (⭐27k)](https://github.com/k3s-io/k3s) - Lightweight Kubernetes.
-*   [k6 (⭐25k)](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript.
-*   [kind (⭐13k)](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes.
-*   [minikube (⭐29k)](https://github.com/kubernetes/minikube) - Run Kubernetes locally.
+*   [Flannel (⭐8.9k)](https://github.com/flannel-io/flannel) - Flannel is a network fabric for containers, designed for Kubernetes.
+*   [k3d (⭐5.6k)](https://github.com/k3d-io/k3d) - Little helper to run CNCF's k3s in Docker.
+*   [k3s (⭐29k)](https://github.com/k3s-io/k3s) - Lightweight Kubernetes.
+*   [k6 (⭐27k)](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript.
+*   [kind (⭐14k)](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes.
+*   [minikube (⭐30k)](https://github.com/kubernetes/minikube) - Run Kubernetes locally.
 
 ### Other Software / Libraries for creating HTTP middlewares
 
-*   [fjira (⭐119)](https://github.com/mk-5/fjira) - A fuzzy-search based terminal UI application for Attlasian Jira
+*   [fjira (⭐158)](https://github.com/mk-5/fjira) - A fuzzy-search based terminal UI application for Attlasian Jira
 
 ### Conferences / Libraries for creating HTTP middlewares
 
@@ -733,30 +724,30 @@
 
 ### Applications / Blockchain
 
-*   [Sui (⭐5.9k)](https://github.com/MystenLabs/sui) - A next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language.
+*   [Sui (⭐6.4k)](https://github.com/MystenLabs/sui) - A next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language.
 
 ### Applications / Database
 
-*   [erikgrinaker/toydb (⭐6k)](https://github.com/erikgrinaker/toydb) - Distributed SQL database, written as a learning project.
+*   [erikgrinaker/toydb (⭐6.3k)](https://github.com/erikgrinaker/toydb) - Distributed SQL database, written as a learning project.
 
 ### Applications / Graphics
 
-*   [dps/rust-raytracer (⭐234)](https://github.com/dps/rust-raytracer) - An implementation of a very simple raytracer based on Ray Tracing in One Weekend by Peter Shirley.
-*   [KaminariOS/rustracer (⭐66)](https://github.com/KaminariOS/rustracer) - A PBR glTF 2.0 renderer based on Vulkan ray-tracing.
-*   [rodrigorc/papercraft (⭐117)](https://github.com/rodrigorc/papercraft) - A tool to unwrap 3D models and create them in paper with scissors and glue.
+*   [dps/rust-raytracer (⭐241)](https://github.com/dps/rust-raytracer) - An implementation of a very simple raytracer based on Ray Tracing in One Weekend by Peter Shirley.
+*   [KaminariOS/rustracer (⭐72)](https://github.com/KaminariOS/rustracer) - A PBR glTF 2.0 renderer based on Vulkan ray-tracing.
+*   [rodrigorc/papercraft (⭐152)](https://github.com/rodrigorc/papercraft) - A tool to unwrap 3D models and create them in paper with scissors and glue.
 
 ### Applications / System tools
 
-*   [mdgaziur/findex (⭐562)](https://github.com/mdgaziur/findex) - Findex is a highly customizable application finder using GTK3
-*   [pkolaczk/fclones (⭐1.9k)](https://github.com/pkolaczk/fclones) - Efficient duplicate file finder and remover
+*   [mdgaziur/findex (⭐601)](https://github.com/mdgaziur/findex) - Findex is a highly customizable application finder using GTK3
+*   [pkolaczk/fclones (⭐2.1k)](https://github.com/pkolaczk/fclones) - Efficient duplicate file finder and remover
 
 ### Applications / Utilities
 
-*   [wrestic (⭐77)](https://github.com/alvaro17f/wrestic) - A wrapper around restic.
+*   [wrestic (⭐88)](https://github.com/alvaro17f/wrestic) - A wrapper around restic.
 
 ### Applications / Video
 
-*   [gyroflow/gyroflow (⭐6.4k)](https://github.com/gyroflow/gyroflow) - Video stabilization application using gyroscope data
+*   [gyroflow/gyroflow (⭐7k)](https://github.com/gyroflow/gyroflow) - Video stabilization application using gyroscope data
 
 ### Libraries / Automotive
 
@@ -766,45 +757,45 @@
 
 ### Machine Learning / General Purpose Machine Learning
 
-*   [PyCaret (⭐8.4k)](https://github.com/pycaret/pycaret) - An open-source, low-code machine learning library in Python.  <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/R_big.png" alt="R inspired lib">
+*   [PyCaret (⭐8.9k)](https://github.com/pycaret/pycaret) - An open-source, low-code machine learning library in Python.  <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/R_big.png" alt="R inspired lib">
 
 ### Computer Vision / Others
 
-*   [PyTorch3D (⭐8.3k)](https://github.com/facebookresearch/pytorch3d) - PyTorch3D is FAIR's library of reusable components for deep learning with 3D data. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
-*   [Decord (⭐1.6k)](https://github.com/dmlc/decord) - An efficient video loader for deep learning with smart shuffling that's super easy to digest.
-*   [MMEngine (⭐1k)](https://github.com/open-mmlab/mmengine) - OpenMMLab Foundational Library for Training Deep Learning Models. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
-*   [LAVIS (⭐8.8k)](https://github.com/salesforce/LAVIS) - A One-stop Library for Language-Vision Intelligence.
+*   [PyTorch3D (⭐8.7k)](https://github.com/facebookresearch/pytorch3d) - PyTorch3D is FAIR's library of reusable components for deep learning with 3D data. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
+*   [Decord (⭐1.8k)](https://github.com/dmlc/decord) - An efficient video loader for deep learning with smart shuffling that's super easy to digest.
+*   [MMEngine (⭐1.2k)](https://github.com/open-mmlab/mmengine) - OpenMMLab Foundational Library for Training Deep Learning Models. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
+*   [LAVIS (⭐9.7k)](https://github.com/salesforce/LAVIS) - A One-stop Library for Language-Vision Intelligence.
 
 ### Reinforcement Learning / Others
 
-*   [MAgent2 (⭐183)](https://github.com/Farama-Foundation/MAgent2) - An engine for high performance multi-agent environments with very large numbers of agents, along with a set of reference environments.
-*   [DI-engine (⭐2.6k)](https://github.com/opendilab/DI-engine) - OpenDILab Decision AI Engine. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
-*   [Imitation (⭐1.1k)](https://github.com/HumanCompatibleAI/imitation) - Clean PyTorch implementations of imitation and reward learning algorithms. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
+*   [MAgent2 (⭐219)](https://github.com/Farama-Foundation/MAgent2) - An engine for high performance multi-agent environments with very large numbers of agents, along with a set of reference environments.
+*   [DI-engine (⭐3k)](https://github.com/opendilab/DI-engine) - OpenDILab Decision AI Engine. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
+*   [Imitation (⭐1.3k)](https://github.com/HumanCompatibleAI/imitation) - Clean PyTorch implementations of imitation and reward learning algorithms. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
 
 ### Learning-to-Rank & Recommender Systems / Others
 
-*   [LightFM (⭐4.6k)](https://github.com/lyst/lightfm) - A Python implementation of LightFM, a hybrid recommendation algorithm.
+*   [LightFM (⭐4.7k)](https://github.com/lyst/lightfm) - A Python implementation of LightFM, a hybrid recommendation algorithm.
 *   [Spotlight](https://maciejkula.github.io/spotlight/) - Deep recommender models using PyTorch.
-*   [Surprise (⭐6.2k)](https://github.com/NicolasHug/Surprise) - A Python scikit for building and analyzing recommender systems.
-*   [RecBole (⭐3.2k)](https://github.com/RUCAIBox/RecBole) - A unified, comprehensive and efficient recommendation library. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
-*   [allRank (⭐804)](https://github.com/allegro/allRank) - allRank is a framework for training learning-to-rank neural models based on PyTorch. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
+*   [Surprise (⭐6.4k)](https://github.com/NicolasHug/Surprise) - A Python scikit for building and analyzing recommender systems.
+*   [RecBole (⭐3.4k)](https://github.com/RUCAIBox/RecBole) - A unified, comprehensive and efficient recommendation library. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
+*   [allRank (⭐857)](https://github.com/allegro/allRank) - allRank is a framework for training learning-to-rank neural models based on PyTorch. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
 *   [TensorFlow Recommenders (⭐1.8k)](https://github.com/tensorflow/recommenders) - A library for building recommender system models using TensorFlow. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="TensorFlow"> <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/keras_big.png" alt="Keras compatible">
 *   [TensorFlow Ranking (⭐2.7k)](https://github.com/tensorflow/ranking) - Learning to Rank in TensorFlow. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="TensorFlow">
 
 ### Deployment / NLP
 
-*   [streamsync (⭐1.1k)](https://github.com/streamsync-cloud/streamsync) - No-code in the front, Python in the back. An open-source framework for creating data apps.
-*   [Vizro (⭐2.4k)](https://github.com/mckinsey/vizro) - A toolkit for creating modular data visualization applications.
+*   [streamsync (⭐1.3k)](https://github.com/streamsync-cloud/streamsync) - No-code in the front, Python in the back. An open-source framework for creating data apps.
+*   [Vizro (⭐2.6k)](https://github.com/mckinsey/vizro) - A toolkit for creating modular data visualization applications.
 
 ### Conversion / Synthetic Data
 
-*   [treelite (⭐712)](https://github.com/dmlc/treelite) - Universal model exchange and serialization format for decision tree forests.
+*   [treelite (⭐730)](https://github.com/dmlc/treelite) - Universal model exchange and serialization format for decision tree forests.
 
 ## [51. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
 ### Libraries
 
-*   [Verticalize (⭐299)](https://github.com/laurentpayot/verticalize) - Super lightweight function that looks and behaves like a pipe operator.
+*   [Verticalize (⭐301)](https://github.com/laurentpayot/verticalize) - Super lightweight function that looks and behaves like a pipe operator.
 
 ## [52. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
@@ -814,12 +805,18 @@
 
 ## [53. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
+### Pinning services
+
+*   [4EVERLAND](https://www.4everland.org/) - 4EVERLAND is a pinning service that provides IPFS infrastructure and tooling making it easier and faster to host frontends, store data/NFT/file and fetch data with IPFS.
+*   [Kriptonio](https://kriptonio.com/) - Pinning service & Web3 Platform for building Web3 apps.
+*   [Spheron](https://spheron.network) - Spheron offers IPFS pinning service and dedicated gateways.
+
 ### Apps
 
 *   [Anytype](https://github.com/anyproto) - Anytype is a no-code, modular web builder designed to give ownership back to creators. It's built on our private, local-first, p2p-synced and open Anysync protocol.
 *   [Durin](https://durin.site/) - Mobile app for accessing and uploading content on the IPFS network.
-*   [Mintter (⭐114)](https://github.com/MintterHypermedia/mintter) - Mintter Hypermedia is an open system, built on IPFS, that allows communities to collaborate on content that is structured and deeply linked. All content in the system is cryptographically signed, versioned, and made permanent with IPFS.
-*   [orbitchat.dev (⭐18)](https://github.com/cppshane/orbit-chat) - Ultra simple chatrooms on the web.
+*   [Mintter (⭐165)](https://github.com/MintterHypermedia/mintter) - Mintter Hypermedia is an open system, built on IPFS, that allows communities to collaborate on content that is structured and deeply linked. All content in the system is cryptographically signed, versioned, and made permanent with IPFS.
+*   [orbitchat.dev (⭐27)](https://github.com/cppshane/orbit-chat) - Ultra simple chatrooms on the web.
 
 ### Browsers
 
@@ -828,95 +825,38 @@
 
 ### Tools
 
-*   [bifrost-gateway (⭐29)](https://github.com/ipfs/bifrost-gateway) - \[EXPERIMENTAL] A lightweight IPFS Gateway daemon backed by a remote data store.
-*   [dScan (⭐31)](https://github.com/p2plabsxyz/dscan) - A browser extension that uploads the content to Web3.Storage and generates QR codes for CIDs.
-*   [Pin Tweet to IPFS (⭐22)](https://github.com/meandavejustice/pin-tweet-to-ipfs) - Web Extension which creates a WebArchiveZip of a tweet and adds to IPFS network.
+*   [bifrost-gateway (⭐41)](https://github.com/ipfs/bifrost-gateway) - \[EXPERIMENTAL] A lightweight IPFS Gateway daemon backed by a remote data store.
+*   [dScan (⭐40)](https://github.com/p2plabsxyz/dscan) - A browser extension that uploads the content to Web3.Storage and generates QR codes for CIDs.
+*   [Pin Tweet to IPFS (⭐29)](https://github.com/meandavejustice/pin-tweet-to-ipfs) - Web Extension which creates a WebArchiveZip of a tweet and adds to IPFS network.
 
 ### Services & Platforms
 
 *   [dAppling](https://www.dappling.network/) - Hosting platform with automated deployments from GitHub to IPFS
 *   [Fileverse](https://fileverse.io/) - Encrypted file sharing based on IPFS. Share any files with or without a wallet
-*   [Valist](https://www.valist.io/) - A trustless universal package repository enabling you to digitally sign and distribute software in just a few steps.
-
-### Pinning services
-
-*   [Kriptonio](https://kriptonio.com/) - Pinning service & Web3 Platform for building Web3 apps.
-*   [Spheron](https://spheron.network) - Spheron offers IPFS pinning service and dedicated gateways.
 
 ## [54. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Theory
 
-*   [Complex Systems (⭐165)](https://github.com/sellisd/awesome-complexity#readme) - The scientific field studying systems with multiple interacting parts and emergent properties.
+*   [Complex Systems (⭐180)](https://github.com/sellisd/awesome-complexity#readme) - The scientific field studying systems with multiple interacting parts and emergent properties.
 
 ## [55. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
-### Templates / Vanilla
-
-*   [create-domco (⭐16)](https://github.com/rossrobino/domco) - Starter template for domco SSG.
-
 ### Templates / React
 
-*   [monorepo-template-react (⭐59)](https://github.com/stormkit-io/monorepo-template-react) - React + Typescript template for SSR, SPG, SPA and API provision.
-*   [vite-react-dapp-template (⭐7)](https://github.com/huseyindeniz/vite-react-dapp-template) - Starter template for decentralized app frontend development with preconfigured Wallet Authentication, i18n and UI features.
+*   [monorepo-template-react (⭐72)](https://github.com/stormkit-io/monorepo-template-react) - React + Typescript template for SSR, SPG, SPA and API provision.
+*   [vite-react-dapp-template (⭐10)](https://github.com/huseyindeniz/vite-react-dapp-template) - Starter template for decentralized app frontend development with preconfigured Wallet Authentication, i18n and UI features.
 
 ## [56. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
 
 ### Tools & Software / Utilities
 
-*   [warcdb (⭐383)](https://github.com/florents-Tselai/warcdb) - A command line utility (Python) for importing WARC files into a SQLite database. *(Stable)*
+*   [warcdb (⭐398)](https://github.com/florents-Tselai/warcdb) - A command line utility (Python) for importing WARC files into a SQLite database. *(Stable)*
 
 ## [57. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
 
-### Family
-
-### [Tide of Fortune](https://boardgamegeek.com/boardgame/3354/tide-fortune)
-
-> This is an evolution of the Westwar series first introduced by Vanguard Games with Pas de Calais. Other games using a similar system are To the Far Shore and the Italian Campaign series (Sicily, Salerno, Anzio and Med War).
->
-> Tide of Fortune features the September-October Allied campaign in northern Belgium and in the Low countries, culminating with the Arnhem operation.
->
-> Scale is 1-2 days/turn (variable because of the Impulse system), 3 km/hex. Units are regiments/brigades.
->
-> The game has 2 22"x34" maps, 300 counters.
->
-> The heart of the system is the Operations phase where players alternate activating formations (divisions) which execute Orders (Assault, Advance, Maneuver etc.).
->
-> Players bid for Initiative and there are possibilities for the Reaction player to foil the initiative player's moves by having units react and do spoiling attacks.
->
-> Losses can be applied to the HQ of a formation, not only directly to units.
->
-> Low counter density, high maneuver. Medium-high complexity.
-
-<img src="https://cf.geekdo-images.com/vkDLqn-CMvTelKH0BvBBRA__imagepage/img/k2e0JHeSt5AwvNJco2rzFAXXaKM=/fit-in/900x600/filters:no_upscale():strip_icc()/pic3446255.jpg" width="270" height="285">
-
-| Players | Min. Age | Time |
-| ------: | -------: | ---: |
-|    1 -2 |       12 | 360m |
-
 ### Strategy
 
-### [The Book of Pop-Up Board Games](https://boardgamegeek.com/boardgame/22626/book-pop-board-games)
-
-> There are four pop-up board games in this book. The games are, Space Escape, Pirate Treasure, Mummy Chase, & Save the Princess. Each game has a storage pocket to store the stand-up people. There is also a fold out spinner, that you use to move.
-
-![The Book of Pop-Up Board Games (1996)](https://github.com/kishanrajput23/awesome-board-games/assets/70385488/27a63c2f-e87d-4457-b944-f0f1b2ef8f53)
-
-| Players | Min. Age | Time |
-| ------: | -------: | ---: |
-|   2 - 4 |       10 |  30m |
-### [The Gallerist](https://boardgamegeek.com/boardgame/125153/gallerist)
-
-> This age of art and capitalism has created a need for a new occupation - The Gallerist.
-> Combining the elements of an Art dealer, museum curator, and Artists’ manager, you are about to take on that job! You will promote and nurture Artists; buy, display, and sell their Art; and build and exert your international reputation. As a result, you will achieve the respect needed to draw visitors to your Gallery from all over the world.
-> There's a lot of work to be done, but don't worry, you can hire assistants to help you achieve your goals. Build your fortune by running the most lucrative Gallery and secure your reputation as a world-class Gallerist!
-> Maximize your money and thus win the game by:
-
-![The Gallerist game image](https://cf.geekdo-images.com/ie1GSt1XV04sXQXt-3O1UQ__itemrep/img/HBQJFsyK0mDMgd_DKxD4Xmhi4UA=/fit-in/246x300/filters:strip_icc\(\)/pic2503200.png)
-
-| Players | Min. Age |       Time |
-| ------: | -------: | ---------: |
-|     1–4 |       13 | 60–150 Min |
 ### [Lotería](https://boardgamegeek.com/boardgame/5878/loteria)
 
 > Lotería (Spanish word meaning "lottery") is a traditional game of chance, similar to bingo, but using images on a deck of cards instead of numbered ping pong balls. Every image has a name and an assigned number, but the number is usually ignored. Each player has at least one tabla, a board with a randomly created 4 x 4 grid of pictures with their corresponding name and number. Players choose a tabla (Spanish word for "board") to play with, from a variety of previously created tablas, each with a different selection of images.
@@ -926,26 +866,6 @@
 | Players | Min. Age | Time |
 | ------: | -------: | ---: |
 |       2 |        8 |  20m |
-### [Tzolk'in: The Mayan Calendar](https://boardgamegeek.com/boardgame/126163/tzolk-mayan-calendar)
-
-> Tzolkin: The Mayan Calendar presents a new game mechanism: dynamic worker placement. Players representing different Mayan tribes place their workers on giant connected gears, and as the gears rotate they take the workers to different action spots.
-> During a turn, players can either (a) place one or more workers on the lowest visible spot of the gears or (b) pick up one or more workers. When placing workers, they must pay corn, which is used as a currency in the game. When they pick up a worker, they perform certain actions depending on the position of the worker. Actions located "later" on the gears are more valuable, so it's wise to let the time work for you – but players cannot skip their turn; if they have all their workers on the gears, they have to pick some up.
-
-![Tzolk'in: The Mayan Calendar game image](https://cf.geekdo-images.com/kXf7mDyDYuHg6oe8yTUIEA__itemrep/img/8M-vck69HAdoJdStBZ8q91-7hRs=/fit-in/246x300/filters:strip_icc\(\)/pic4604439.jpg)
-
-| Players | Min. Age |   Time |
-| ------: | -------: | -----: |
-|     2–4 |       13 | 90 Min |
-### [Paladins of the West Kingdom](https://boardgamegeek.com/boardgame/266810/paladins-west-kingdom)
-
-> Paladins of the West Kingdom is set at a turbulent time of West Francia's story, circa 900 AD. Despite recent efforts to develop the city, outlying townships are still under threat from outsiders. Saracens scout the borders, while Vikings plunder wealth and livestock. Even the Byzantines from the east have shown their darker side. As noble men and women, players must gather workers from the city to defend against enemies, build fortifications and spread faith throughout the land. Fortunately you are not alone. In his great wisdom, the King has sent his finest knights to help aid in our efforts. So ready the horses and sharpen the swords. The Paladins are approaching.
-> The aim of Paladins of the West Kingdom is to be the player with the most victory points (VP) at game's end. Points are gained by building outposts and fortifications, commissioning monks and confronting outsiders. Each round, players will enlist the help of a specific Paladin and gather workers to carry out tasks. As the game progresses, players will slowly increase their faith, strength and influence. Not only will these affect their final score, but they will also determine the significance of their actions. The game is concluded at the end of the seventh round.
-
-![Paladins of the West Kingdom game image](https://cf.geekdo-images.com/4nhokcLdYoo6ulbZ1rmGgA__itemrep/img/2YT-EqfAb6vwxDSrFQMSm-luQAs=/fit-in/246x300/filters:strip_icc\(\)/pic4462987.png)
-
-| Players | Min. Age |       Time |
-| ------: | -------: | ---------: |
-|     1–4 |       12 | 90–120 Min |
 ### [Concordia Venus](https://boardgamegeek.com/boardgame/256916/concordia-venus)
 
 > Concordia Venus is a standalone reimplementation of Concordia with some added features.
@@ -968,39 +888,6 @@
 | Players | Min. Age |      Time |
 | ------: | -------: | --------: |
 |     1–4 |      14+ | 30–90 Min |
-### [Beyond the Sun](https://boardgamegeek.com/boardgame/317985/beyond-sun)
-
-> Beyond the Sun is a space civilization game in which players collectively decide the technological progress of humankind at the dawn of the Spacefaring Era, while competing against each other to be the leading faction in economic development, science, and galactic influence.
-> The game is played over a variable number of rounds until a number of game-end achievements are collectively claimed by the players. The winner is the faction with the most victory points, which are obtained by researching technologies, improving their economy, controlling and colonizing systems, and completing various achievements and events throughout the game.
-> On a turn, a player moves their action pawn to an empty action space, then takes that action. They then conduct their production phase, either producing ore, growing their population, or trading one of those resources for another. Finally, they can claim up to one achievement, if possible.
-
-![Beyond the Sun game image](https://cf.geekdo-images.com/BfEHqHQAvZLbRX7y7e9TWg__itemrep/img/kSw_dxGnXuq6trYpz7ob53-u2uU=/fit-in/246x300/filters:strip_icc\(\)/pic5617866.jpg)
-
-| Players | Min. Age |       Time |
-| ------: | -------: | ---------: |
-|     2–4 |      14+ | 60–120 Min |
-### [The Crew: The Quest for Planet Nine](https://boardgamegeek.com/boardgame/284083/crew-quest-planet-nine)
-
-> In the co-operative trick-taking game The Crew: The Quest for Planet Nine, the players set out as astronauts on an uncertain space adventure. What are the rumors regarding the unknown planet about? The eventful journey through space extends over 50 exciting missions. But this game can only be defeated by meeting common individual tasks of each player. In order to meet the varied challenges communication is essential in the team. But this is more difficult than expected in space.
-> With each mission the game becomes more difficult. After each mission the game can be paused and continued later. During each mission it is not the number of tricks but the right tricks at the right time that count.
-> The team completes a mission only if every single player is successful in fulfilling their tasks.
-
-![The Crew: The Quest for Planet Nine game image](https://cf.geekdo-images.com/98LnQShydr11OBKS46xY-Q__itemrep/img/etVRTXdF6IDsnGKQe77FRFP4H7M=/fit-in/246x300/filters:strip_icc\(\)/pic5687013.jpg)
-
-| Players | Min. Age |   Time |
-| ------: | -------: | -----: |
-|     2–5 |      10+ | 20 Min |
-### [Clans of Caledonia](https://boardgamegeek.com/boardgame/216132/clans-caledonia)
-
-> Clans of Caledonia is a mid-to-heavy economic game set in 19th-century Scotland. At this time, Scotland made the transition from an agricultural to an industrialized country that heavily relied on trade and export. In the following years, food production increased significantly to feed the population growth. Linen was increasingly substituted by the cheaper cotton and raising sheep was given high importance. More and more distilleries were founded and whisky became the premium alcoholic beverage in Europe.
-> Players represent historic clans with unique abilities and compete to produce, trade and export agricultural goods and of course whisky!
-> The game ends after five rounds. Each round consists of the three phases:
-
-![Clans of Caledonia game image](https://cf.geekdo-images.com/SPuwc6RJ6y4PnTH36Pegsg__itemrep/img/xxhvhwGExrMMiLD9lcsUvQoKxU8=/fit-in/246x300/filters:strip_icc\(\)/pic3511783.png)
-
-| Players | Min. Age |       Time |
-| ------: | -------: | ---------: |
-|     1–4 |       12 | 30–120 Min |
 ### [Mechs vs. Minions](https://boardgamegeek.com/boardgame/209010/mechs-vs-minions)
 
 > Mechs vs. Minions is a cooperative tabletop campaign for 2-4 players. Set in the world of Runeterra, players take on the roles of four intrepid Yordles: Corki, Tristana, Heimerdinger, and Ziggs, who must join forces and pilot their newly-crafted mechs against an army of marauding minions. With modular boards, programmatic command lines, and a story-driven campaign, each mission will be unique, putting your teamwork, programming, and piloting skills to the test.
@@ -1011,18 +898,6 @@
 | Players | Min. Age |       Time |
 | ------: | -------: | ---------: |
 |     2–4 |      14+ | 60–120 Min |
-### [Fields of Arle](https://boardgamegeek.com/boardgame/159675/fields-arle)
-
-> Welcome to Arle
-> In Fields of Arle, created by Uwe Rosenberg, one to two players live as farmers in the small and peaceful town of Arle in East Frisia. The flax grown in the land surrounding the village makes it a profitable place to work and live. Fields of Arle takes players through four and a half years of this era of prosperity, with different opportunities available as the seasons change. Farm the land to capitalize on the demand for flax, or find other ways to make the most of the small town’s prosperity.
-> Work the Land
-> Whether you delve into flax farming or leverage other areas of expertise, always make sure that you have the land to build up your village. Construct dikes to keep the waters at bay and expand your fields. Dry out bogs to harvest peat and then clear the land for cultivation. Create more fields for your livestock, buildings, or future crops; after that, you can decide whether to house animals or cultivate a forest for timber. Perhaps you’d like to take up some flax farming for yourself, or diversify and try out a little bit of everything.
-
-![Fields of Arle game image](https://cf.geekdo-images.com/0w8go6cfvlpgJKydHUkDtA__itemrep/img/d8By7I7jEh7VAduRxBrISS2qfnA=/fit-in/246x300/filters:strip_icc\(\)/pic2225968.png)
-
-| Players | Min. Age |       Time |
-| ------: | -------: | ---------: |
-|     1–2 |      13+ | 60–120 Min |
 ### [Le Havre](https://boardgamegeek.com/boardgame/35677/le-havre)
 
 > In Le Havre, a player's turn consists of two parts: First, distribute newly supplied goods onto the offer spaces; then take an action. As an action, players may choose either to take all goods of one type from an offer space or to use one of the available buildings. Building actions allow players to upgrade goods, sell them or use them to build their own buildings and ships. Buildings are both an investment opportunity and a revenue stream, as players must pay an entry fee to use buildings that they do not own. Ships, on the other hand, are primarily used to provide the food that is needed to feed the workers.
@@ -1043,15 +918,6 @@
 | Players | Min. Age |       Time |
 | ------: | -------: | ---------: |
 |     2–4 |      12+ | 60–120 Min |
-### [The Forever War](https://boardgamegeek.com/boardgame/5043/forever-war)
-
-> The Forever War is a science fiction board game, based on the novel "Forever War" by Joe Haldeman. It features squad-level combat in the third millennium. Combat occurs on airless portal planets, where small infantry ground units vie with each other for victory among the frozen wastes. A player can never be sure of whom or what he will find when his troops near the battlefield. Units are equipped with weapons of the latest technology, and embark on their starships. Only weeks or months pass for them, traveling at near-light speeds, but decades pass in the universe surrounding them. The enemy these units meet on the battlefield could be technologically decades ahead or behind them when the battle is joined.
-
-![The Forever War](https://cf.geekdo-images.com/Dy8ocrTp51HxcARd6Rha1A__itemrep/img/zpLHyvIy06wU44yNwx5LM6UVwDA=/fit-in/246x300/filters:strip_icc\(\)/pic5722429.png)
-
-| Players | Min. Age | Time |
-| ------: | -------: | ---: |
-|   2 - 4 |       12 |  60m |
 ### [Contigo](https://boardgamegeek.com/boardgame/2545/contigo)
 
 > This game in the 3M Bookshelf Series is a cross between Mancala (a.k.a. Warri, Oh-Wah-Ree, Kalah) and more traditional Checkers-like games. It is played by four players according to the original rules, but can be adapted to be played by just two (the three-player game would be unbalanced).The 6x6 board is surrounded by Mancala-like pits, where pebbles are moved. The number of pebbles in a row/column/diagonal's pits controls how the pawns on the board move.Two sets of rules are supplied: the Alignment game, where you are trying to be the first to align four of your pawns in any six-space row --either horizontally, vertically or diagonally-- without opposing pawns between them, and the more advanced Capture game, where you're trying to capture your opponents' key pawns (kings, really).
@@ -1100,15 +966,6 @@
 | Players | Min. Age |     Time |
 | ------: | -------: | -------: |
 |   2 - 6 |       12 | 180-360m |
-### [Space Marine: The Board Game](https://boardgamegeek.com/boardgame/395847/space-marine-board-game)
-
-> In the grim darkness of the 41st Millennium, Humanity is spread thin, fighting a losing battle against enemies all across the galaxy.Space Marine: The Board Game is a thrilling survival game, pitting the noble Lieutenant Titus of the Ultramarines against endless swarms of all-consuming alien horrors!The box is packed with 23 push-fit miniatures, dice, a ruler, a game board, and a 40-page rulebook packed with backstory and missions.You and a friend will take control of either the lone Space Marine, or more than 20 ravenous Tyranids that want to eat him alive.It’s fast-paced action, as Titus fights valiantly to defeat his enemies with superhuman strength and brutal weapons.Can he hold them back, or will the Tyranids overwhelm him in the end?Space Marine: The Board Game represents the perfect foot in the door for anyone who’s completely new to the Warhammer hobby.It’s easy to set up – every model is push-fit – and can be played in around 30 minutes. So if you have friends or family who want to give the worlds of Warhammer a go, this is a brilliant place to start.
-
-![Space Marine: The Board Game](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1kxMoBJRFMOhti-sS_IXqVau-oWahn1XkwQ\&usqp=CAU)
-
-| Players | Min. Age |   Time |
-| ------: | -------: | -----: |
-|       2 |       12 | 30-60m |
 ### [Moon](https://boardgamegeek.com/boardgame/358386/moon)
 
 > Moon depicts an almost plausible rush to construct lunar bases that are attractive places to live and work for the people of Earth. The most prestigious base will become the new lunar capital!
@@ -1147,33 +1004,6 @@
 | Players | Min. Age |   Time |
 | ------: | -------: | -----: |
 |   1 - 4 |        8 | 20-40m |
-### [King of Tokyo](https://boardgamegeek.com/boardgame/70323/king-tokyo)
-
-> In King of Tokyo, you play mutant monsters, gigantic robots, and strange aliens—all of whom are destroying Tokyo and whacking each other in order to become the one and only King of Tokyo.At the start of each turn, you roll six dice, which show the following six symbols: 1, 2, or 3 Victory Points, Energy, Heal, and Attack. Over three successive throws, choose whether to keep or discard each die in order to win victory points, gain energy, restore health, or attack other players into understanding that Tokyo is YOUR territory.The fiercest player will occupy Tokyo, and earn extra victory points, but that player can't heal and must face all the other monsters alone! Top this off with special cards purchased with energy that have a permanent or temporary effect, such as the growing of a second head which grants you an additional die, body armor, nova death ray, and more.... and it's one of the most explosive games of the year!In order to win the game, one must either destroy Tokyo by accumulating 20 victory points, or be the only surviving monster once the fighting has ended.
-
-![King of Tokyo](https://www.boardgamesindia.com/image/cache/catalog/product/bgg_1589-320x320w.jpg)
-
-| Players | Min. Age | Time |
-| ------: | -------: | ---: |
-|   2 - 6 |        8 |  30m |
-### [Kutná Hora: The City of Silver](https://boardgamegeek.com/boardgame/385610/kutna-hora-city-silver)
-
-> Kutná Hora: The City of Silver is a historical city-building Eurogame for 2-4 players that features a real-life supply and demand experience in which every action you take has an impact on the game's dynamic economic systems.In each round, players take turns selecting actions from a hand of double-sided cards to engage strategic plans like mining, purchasing plots of land on which to build, gaining permits, raising buildings for their affiliated guilds, gaining profit from their production, and of course working towards the construction of Saint Barbara's Cathedral.The asymmetrical nature of each player's available guilds makes for highly interactive rounds in which each decision impacts the economy and other players in interesting ways as they expand their mines and build infrastructure across a shared board.Mine ore and smelt it into a fortune of silver for expanding this beautiful historic city, but take care to balance your personal goal advancement with the need to further the city's growth. Everything is connected, and sometimes the path to personal victory relies on the prosperity of the many.
-
-![Kutná Hora: The City of Silver](https://cf.geekdo-images.com/ar_YhktX6VcXBLcEfnu_dw__itemrep/img/wZoUA-HbhYKYxbu_8GfXScu7WME=/fit-in/246x300/filters:strip_icc\(\)/pic7464921.png)
-
-| Players | Min. Age |    Time |
-| ------: | -------: | ------: |
-|   2 - 4 |       13 | 60-120m |
-### [The White Castle](https://boardgamegeek.com/boardgame/371942/white-castle)
-
-> The White Castle is a Euro type game with mechanics of resource management, worker placement and dice placement to carry out actions. During the game, over three rounds, players will send members of their clan to tend the gardens, defend the castle or progress up the social ladder of the nobility. At the end of the match, these will award players victory points in a variety of ways.The central panel shows Himeji Castle in all its splendor, divided into several zones. The largest is inside the castle, with the Room of the Thousand Carpets, where the courtiers must ascend socially until they reach the circle closest to the Daimio to enjoy his favor. There is also the pond and the gardens, patiently tended by the gardeners where everyone can relax and contemplate its beauty without restriction. Another important area is the wall and the outside of the castle, where the warriors patrol and stand guard. Finally, we find the area of the three bridges, where the three types of dice that can be used to carry out actions are accumulated, and the personal domain of each player, where they will keep track of their resources and where they will have the reserve of workers.With accessible rules and a very careful setting, The White Castle is a very versatile title that will fit in with different gaming groups. As is tradition with Llama Dice titles, its sleek and simple design belies a great deal of strategic depth within the grasp of players.
-
-![The White Castle](https://cf.geekdo-images.com/qXT1U-nFh9PE8ujfdmI7dA__itemrep/img/4VpX36FMypCo-iRbA_dkP9lhi-8=/fit-in/246x300/filters:strip_icc\(\)/pic7754663.jpg)
-
-| Players | Min. Age | Time |
-| ------: | -------: | ---: |
-|   1 - 4 |       12 |  80m |
 ### [Nucleum](https://boardgamegeek.com/boardgame/396790/nucleum)
 
 > Nucleum is a heavy euro board game in which players take role of industrialists trying to succeed during the economic and technological boom of 19th-century Saxony, fueled by the invention and spread of the Nucleum (a nuclear reactor).Players earn victory points by developing their networks, building and powering urban buildings, securing contracts, and meeting milestones (randomized endgame goals). Each player also gets unique asymmetric technologies, giving them special powers when unlocked. Gameplay is continuous; players take turns one after another with no rounds or phases.
@@ -1350,7 +1180,7 @@
 
 ### Plugins
 
-*   [tmux-spotify-playlists (⭐23)](https://github.com/danjeltahko/spotify-tmux) Another Spotify plugin, but for saving and playing your favorite playlists
+*   [tmux-spotify-playlists (⭐25)](https://github.com/danjeltahko/spotify-tmux) Another Spotify plugin, but for saving and playing your favorite playlists
 
 ## [59. Awesome Bash](/content/awesome-lists/awesome-bash/week/README.md)
 
@@ -1364,13 +1194,13 @@
 
 ### Shell Script Development
 
-*   [bashunit (⭐280)](https://github.com/TypedDevs/bashunit) - A simple testing library for bash scripts.
+*   [bashunit (⭐295)](https://github.com/TypedDevs/bashunit) - A simple testing library for bash scripts.
 
 ## [60. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### IDE
 
-*   [Querybook (⭐1.8k)](https://github.com/pinterest/querybook) - Querybook is a Pinterest open-source Big Data Querying UI, combining collocated table metadata and a simple notebook IDE interface.
+*   [Querybook (⭐2k)](https://github.com/pinterest/querybook) - Querybook is a Pinterest open-source Big Data Querying UI, combining collocated table metadata and a simple notebook IDE interface.
 
 ## [61. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
@@ -1515,7 +1345,7 @@
 *   [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/) - Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau (PDF)
 *   [Practical File System Design: The Be File System](https://www.nobius.org/~dbg/practical-file-system-design.pdf) - Dominic Giampaolo (PDF)
 *   [Project Oberon: The Design of an Operating System, a Compiler, and a Computer](https://people.inf.ethz.ch/wirth/ProjectOberon/index.html) - Niklaus Wirth, Jürg Gutknecht (PDF)
-*   [The Little Book of Semaphores](https://greenteapress.com/semaphores/) - Allen B. Downey (PDF)
+*   [The Little Book of Semaphores](https://greenteapress.com/semaphores/) - Allen B. Downey (PDF) (CC BY-NC-SA)
 *   [Think OS: A Brief Introduction to Operating Systems](https://www.greenteapress.com/thinkos/index.html) - Allen B. Downey (PDF)
 *   [Writing a Simple Operating System from Scratch](https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf) - Nick Blundell (PDF)
 
@@ -1795,7 +1625,6 @@
 
 ### HealthCare
 
-*   [Enlitic ](https://enlitic.com/) - an AI-driven application that lets you transform big data into relevant insights that can help you make more accurate, strategic, and timely decisions. `#paid`
 *   [Viz.AI](https://www.viz.ai/) - Offers a wide range of features to help healthcare professionals run their operations more efficiently and accurately. `#paid`
 
 ### Human Resources
@@ -1897,7 +1726,7 @@
 *   [AstroGPT](https://vedicastrogpt.com/) - AstroGPT is a personalized astrology service that provides expert guidance for love, career, and more. `#free`
 *   [Gita GPT](https://www.gitagpt.in/) - Unlock the Power of AI with the Bhagavad Gita `#free`
 *   [Tarteel](https://www.tarteel.ai/) - Tarteel is an AI-powered Quran companion that helps users improve their recitation and memorization skills by providing real-time feedback, highlighting words, offering translations, and customizable challenges. `#paid`
-*   [Text With Jesus](https://textwith.me/jesus) - Enlightening conversations and a deeper connection to revered biblical figures. `#paid`
+*   [Text With Jesus](https://textwith.me/jesus) - Enlightening conversations and a deeper connection to revered biblical figures. `#freemium`
 
 ### Research
 
@@ -1998,10 +1827,6 @@
 
 ## [64. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
-### IaaS
-
-*   [4EVERLAND](https://www.4everland.org/) — Compatible with AWS S3 - APIs, interface operations, CLI, and other upload methods, upload and store files from the IPFS and Arweave networks in a safe, convenient, and efficient manner. Registered users can get 6 GB of IPFS storage and 300MB of Arweave storage for free. Any Arweave file uploads smaller than 150 KB are free.
-
 ### Security and PKI
 
 *   [HasMySecretLeaked](https://gitguardian.com/hasmysecretleaked) - Search across 20 million exposed secrets in public GitHub repositories, gists, issues,and comments for Free
@@ -2043,20 +1868,20 @@
 
 ### (requires Neovim 0.5)
 
-*   [vxpm/ferris.nvim (⭐87)](https://github.com/vxpm/ferris.nvim) - Interact with Rust-Analyzer's LSP extensions.
+*   [vxpm/ferris.nvim (⭐97)](https://github.com/vxpm/ferris.nvim) - Interact with Rust-Analyzer's LSP extensions.
 
 ### Fuzzy Finder / Diagnostics
 
-*   [echasnovski/mini.nvim#mini.pick (⭐4.7k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-pick.md) - Module of `mini.nvim` with general purpose interactive non-blocking picker that has one window design, toggleable preview, flexible and fast default match, and much more.
+*   [echasnovski/mini.nvim#mini.pick (⭐6.2k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-pick.md) - Module of `mini.nvim` with general purpose interactive non-blocking picker that has one window design, toggleable preview, flexible and fast default match, and much more.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [oxfist/night-owl.nvim (⭐233)](https://github.com/oxfist/night-owl.nvim) - A [Night Owl colorscheme port from VSCode (⭐2.8k)](https://github.com/sdras/night-owl-vscode-theme) with support for Tree-sitter and semantic tokens.
-*   [text-to-colorscheme (⭐285)](https://github.com/svermeulen/text-to-colorscheme) - Dynamically generated colorschemes generated on the fly with a text prompt using ChatGPT.
+*   [oxfist/night-owl.nvim (⭐260)](https://github.com/oxfist/night-owl.nvim) - A [Night Owl colorscheme port from VSCode (⭐2.8k)](https://github.com/sdras/night-owl-vscode-theme) with support for Tree-sitter and semantic tokens.
+*   [text-to-colorscheme (⭐302)](https://github.com/svermeulen/text-to-colorscheme) - Dynamically generated colorschemes generated on the fly with a text prompt using ChatGPT.
 
 ### Statusline / Diagnostics
 
-*   [sontungexpt/sttusline (⭐109)](https://github.com/sontungexpt/sttusline) - Very lightweight, super fast and lazyloading statusline.
+*   [sontungexpt/sttusline (⭐116)](https://github.com/sontungexpt/sttusline) - Very lightweight, super fast and lazyloading statusline.
 
 ### Media / Diagnostics
 
@@ -2064,11 +1889,11 @@
 
 ### Terminal Integration / Diagnostics
 
-*   [niuiic/terminal.nvim (⭐20)](https://github.com/niuiic/terminal.nvim) - Manage terminal as buffer, multiple terminals support.
+*   [niuiic/terminal.nvim (⭐21)](https://github.com/niuiic/terminal.nvim) - Manage terminal as buffer, multiple terminals support.
 
 ### Code Runner / Diagnostics
 
-*   [dasupradyumna/launch.nvim (⭐48)](https://github.com/dasupradyumna/launch.nvim) - A simple and quick task launcher which allows dynamically configuring tasks on the fly, with optional support for debugging.
+*   [dasupradyumna/launch.nvim (⭐51)](https://github.com/dasupradyumna/launch.nvim) - A simple and quick task launcher which allows dynamically configuring tasks on the fly, with optional support for debugging.
 
 ### Neovim Lua Development / Diagnostics
 
@@ -2076,106 +1901,28 @@
 
 ### Motion / Diagnostics
 
-*   [gsuuon/tshjkl.nvim (⭐105)](https://github.com/gsuuon/tshjkl.nvim) - Toggle to navigate and select tree-sitter nodes with hjkl.
+*   [gsuuon/tshjkl.nvim (⭐111)](https://github.com/gsuuon/tshjkl.nvim) - Toggle to navigate and select Tree-sitter nodes with hjkl.
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [sontungexpt/stinvim (⭐37)](https://github.com/sontungexpt/stinvim) - Ready Neovim's configuration for fullstack developers.
+*   [sontungexpt/stinvim (⭐46)](https://github.com/sontungexpt/stinvim) - Ready Neovim's configuration for fullstack developers.
 
-## [68. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/week/README.md)
-
-### **Azure Reference Architectures** / **Azure AI Search**
-
-*   Hybrid search using Reciprocal Rank Fusion (RRF): Reciprocal Rank Fusion (RRF) is an algorithm that evaluates the search scores from multiple, previously ranked results to produce a unified result set. In Azure Cognitive Search, RRF is used whenever there are two or more queries that execute in parallel. [ref](https://learn.microsoft.com/en-us/azure/search/hybrid-search-ranking)
-
-### **LangChain vs Competitors** / **LangChain vs Semantic Kernel vs Azure Machine Learning Prompt flow**
-
-*   Promptflow is not intended to replace chat conversation flow. Instead, it’s an optimized solution for integrating Search and Open Source Language Models. By default, it supports Python, LLM, and the Prompt tool as its fundamental building blocks.
-
-### **Prompt Guide & Leaked prompts** / **Prompt Template Language**
-
-*   [DeepLearning.ai ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
-
-### **RLHF (Reinforcement Learning from Human Feedback) & SFT (Supervised Fine-Tuning)** / **Llama Finetuning**
-
-*   Machine learning technique that trains a "reward model" directly from human feedback and uses the model as a reward function to optimize an agent's policy using reinforcement learning.
-
-### **Survey on Large Language Models** / **GPT series release date**
-
-*   Microsoft Research Recap
-
-    *   [Research at Microsoft 2023](https://www.microsoft.com/en-us/research/blog/research-at-microsoft-2023-a-year-of-groundbreaking-ai-advances-and-discoveries/): A year of groundbreaking AI advances and discoveries
-
-    <details>
-
-    <summary>Expand</summary>
-
-    *   [Data Management For Large Language Models: A Survey](https://arxiv.org/abs/2312.01700) \[4 Dec 2023]
-    *   [Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond](https://arxiv.org/abs/2304.13712):\[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2304.13712)] \[26 Apr 2023]
-    *   [A Cookbook of Self-Supervised Learning](https://arxiv.org/abs/2304.12210):\[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2304.12210)] \[24 Apr 2023]
-    *   [A Survey on In-context Learning](https://arxiv.org/abs/2301.00234):\[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2301.00234)] \[31 Dec 2022]
-    *   [A Survey on Evaluation of Large Language Models](https://arxiv.org/abs/2307.03109):\[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2307.03109)] \[6 Jul 2023]
-    *   [Mitigating Hallucination in LLMs](https://arxiv.org/abs/2401.01313): Summarizes 32 techniques to mitigate hallucination in LLMs \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2401.01313)] \[2 Jan 2024]
-    *   [Retrieval-Augmented Generation for Large Language Models: A Survey](https://arxiv.org/abs/2312.10997) \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2312.10997)] \[18 Dec 2023]
-    *   [A Survey on Multimodal Large Language Models](https://arxiv.org/abs/2306.13549):\[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2306.13549)] \[23 Jun 2023]
-    *   [SEED-Bench: Benchmarking Multimodal LLMs with Generative Comprehension](https://arxiv.org/abs/2307.16125): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2307.16125)] \[30 Jul 2023]
-    *   [Survey of Hallucination in Natural Language Generation](https://arxiv.org/abs/2202.03629):\[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2202.03629)] \[8 Feb 2022]
-    *   [Hallucination in LLMs](https://arxiv.org/abs/2311.05232):\[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2311.05232)] \[9 Nov 2023]
-    *   [Evaluating Large Language Models: A Comprehensive Survey](https://arxiv.org/abs/2310.19736):\[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2310.19736)] \[30 Oct 2023]
-    *   [A Survey of Techniques for Optimizing Transformer Inference](https://arxiv.org/abs/2307.07982):\[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2307.07982)] \[16 Jul 2023]
-    *   [An Overview on Language Models: Recent Developments and Outlook](https://arxiv.org/abs/2303.05759):\[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2303.05759)] \[10 Mar 2023]
-    *   [Efficient Guided Generation for Large Language Models](https://arxiv.org/abs/2307.09702):\[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2307.09702)] \[19 Jul 2023]
-    *   [Challenges & Application of LLMs](https://arxiv.org/abs/2306.07303):\[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2306.07303)] \[11 Jun 2023]
-    *   [A Survey on LLM-based Autonomous Agents](https://arxiv.org/abs/2308.11432v1):\[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2308.11432v1)] \[22 Aug 2023]
-    *   [A Survey on Efficient Training of Transformers](https://arxiv.org/abs/2302.01107):\[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2302.01107)] \[2 Feb 2023]
-    *   [Open Problems and Fundamental Limitations of Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2307.15217):\[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2307.15217)] \[27 Jul 2023]
-    *   [Scaling Down to Scale Up: A Guide to Parameter-Efficient Fine-Tuning](https://arxiv.org/abs/2303.15647):\[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2303.15647)] \[28 Mar 2023]
-    *   [Survey of Aligned LLMs](https://arxiv.org/abs/2307.12966):\[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2307.12966)] \[24 Jul 2023]
-    *   [Survey on Instruction Tuning for LLMs](https://arxiv.org/abs/2308.10792):\[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2308.10792)] \[21 Aug 2023]
-    *   [A Survey on Transformers in Reinforcement Learning](https://arxiv.org/abs/2301.03044):\[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2301.03044)] \[8 Jan 2023]
-    *   [Model Compression for LLMs](https://arxiv.org/abs/2308.07633):\[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2308.07633)] \[15 Aug 2023]
-    *   [Foundation Models in Vision](https://arxiv.org/abs/2307.13721):\[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2307.13721)] \[25 Jul 2023]
-    *   [Multimodal Deep Learning](https://arxiv.org/abs/2301.04856):\[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2301.04856)] \[12 Jan 2023]
-    *   [Trustworthy LLMs](https://arxiv.org/abs/2308.05374):\[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2308.05374)] \[10 Aug 2023]
-    *   [Universal and Transferable Adversarial Attacks on Aligned Language Models](https://arxiv.org/abs/2307.15043):\[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2307.15043)] \[27 Jul 2023]
-    *   [A Survey of LLMs for Healthcare](https://arxiv.org/abs/2310.05694):\[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2310.05694)] \[9 Oct 2023]
-    *   [Overview of Factuality in LLMs](https://arxiv.org/abs/2310.07521):\[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2310.07521)] \[11 Oct 2023]
-    *   [A Comprehensive Survey of Compression Algorithms for Language Models](https://arxiv.org/abs/2401.15347) \[27 Jan 2024]
-
-    </details>
-
-    <!-- <details>
-
-    <summary>Papers on Large Language Models</summary>
-
-    </details> -->
-
-### **Build an LLMs from scratch: picoGPT and lit-gpt** / **GPT series release date**
-
-*   `youtube`: [Andrej Karpathy](https://www.youtube.com/watch?v=l8pRSuU81PU): Reproduce the GPT-2 (124M) from scratch. \[June 2024] / [SebastianRaschka](https://www.youtube.com/watch?v=kPGTx4wcm_w): Developing an LLM: Building, Training, Finetuning  \[June 2024]
-
-## [69. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
-
-### Utilities / General Tools
-
-*   [CleanMyMac X](https://macpaw.com/cleanmymac) - Delete megatons of junk, malware, and make your Mac faster & more organized [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/cleanmymac-x/id1339170533?mt=12)
-
-## [70. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [68. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Ethics, Philosophical questions and Discussions about Generative AI
 
 *   [Redefining Bias: The Human Prejudice Against AI | Medium](https://johnnosta.medium.com/redefining-bias-the-human-prejudice-against-ai-a1f225b0b2c2)
 
-## [71. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [69. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [hebzsh (⭐1)](https://github.com/admons/hebzsh) - If a command is not found as typed in Hebrew, translates the command as if it was typed on a keyboard with a US English layout and tries again.
-*   [history-sync (vitobotta) (⭐22)](https://github.com/vitobotta/zsh-history-sync/) - Syncs your ZSH history across computers using a `git` private repository. Uses `openssl` to encrypt the history.
-*   [history-sync (wulfgarpro) (⭐241)](https://github.com/wulfgarpro/history-sync) - An [oh-my-zsh](https://ohmyz.sh/) plugin for [GPG](https://www.gnupg.org/) encrypted, Internet synchronized ZSH history using `git`.
-*   [select-with-lf (⭐5)](https://github.com/chmouel/zsh-select-with-lf) - Lets user select files or a directory using [lf (⭐7.5k)](https://github.com/gokcehan/lf).
+*   [history-sync (vitobotta) (⭐25)](https://github.com/vitobotta/zsh-history-sync/) - Syncs your ZSH history across computers using a `git` private repository. Uses `openssl` to encrypt the history.
+*   [history-sync (wulfgarpro) (⭐250)](https://github.com/wulfgarpro/history-sync) - An [oh-my-zsh](https://ohmyz.sh/) plugin for [GPG](https://www.gnupg.org/) encrypted, Internet synchronized ZSH history using `git`.
+*   [select-with-lf (⭐8)](https://github.com/chmouel/zsh-select-with-lf) - Lets user select files or a directory using [lf (⭐7.9k)](https://github.com/gokcehan/lf).
 
-## [72. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
+## [70. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
 
 ### LLMs
 

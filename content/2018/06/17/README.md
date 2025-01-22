@@ -17,11 +17,11 @@
 *   [Boostnote](https://boostnote.io/) - Note-taking app made for programmers. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/BoostIO/Boostnote)
 *   [Evernote](https://evernote.com/) - Infamous note-taking app, available on many platforms. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [OneNote](https://www.onenote.com/) - Note-taking app by Microsoft. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [Quiver](http://happenapps.com/#quiver) - The Programmer's Notebook, lets you easily mix text, code, Markdown and LaTeX within one note, edit code with an awesome code editor and live preview Markdown and LaTeX.
+*   [Quiver](http://happenapps.com/#quiver) - Mix text, code, Markdown, and LaTeX in one note with live preview.
 
 ### Reading and Writing Tools / RSS
 
-*   [Leaf](http://www.rockysandstudio.com/) - Amazing news reader dedicated to help you enjoy your daily news and easily manage your subscriptions.
+*   [Leaf](http://www.rockysandstudio.com/) - A news reader for managing subscriptions and enjoying daily news.
 
 ### Reading and Writing Tools / Others
 
@@ -29,7 +29,7 @@
 
 ### Developer Tools / IDEs
 
-*   [Eclipse](https://www.eclipse.org) - Popular open-source IDE, mainly for Java but with plugin support for a wide array of languages and platforms. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Eclipse](https://www.eclipse.org) - Popular open-source IDE for Java with plugin support for many languages. ![OSS](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Xcode](https://developer.apple.com/xcode/) - Essential IDE for iOS/macOS development. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://itunes.apple.com/app/id497799835)
 
 ### Developer Tools / Developer Utilities
@@ -44,20 +44,20 @@
 
 ### Developer Tools / API Development and Analysis
 
-*   [Postman](https://www.getpostman.com) - Powerful GUI platform to make your API development faster & easier, from building API requests through testing, documentation and sharing.![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Postman](https://www.getpostman.com) - GUI platform for API development. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Developer Tools / Command Line Tools
 
 *   [hyper](https://hyper.is) - A terminal built on web technologies. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/zeit/hyper) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [iTerm2](http://www.iterm2.com) - iTerm2 is an amazing terminal emulator for OS X. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/gnachman/iTerm2) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [mycli (⭐11k)](https://github.com/dbcli/mycli) - CLI for MySQL that can do auto-completion and syntax highlighting. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/dbcli/mycli) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [mycli (⭐12k)](https://github.com/dbcli/mycli) - CLI for MySQL that can do auto-completion and syntax highlighting. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/dbcli/mycli) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Rebound (⭐4.1k)](https://github.com/shobrook/rebound/) - Instantly browse Stack Overflow results in your terminal when you get a compiler error. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Developer Tools / Frameworks For Hybrid Applications
 
 *   [Electron](http://electron.atom.io) - Build cross platform desktop application with JavaScript, HTML and CSS. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/electron/electron)
-*   [nw.js](http://nwjs.io) - Build desktop application with HTML and JavaScript. It lets you call all `Node.js` modules directly from DOM and enables a new way of writing applications with all Web technologies. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/nwjs/nw.js)
-*   [React Native for Ubuntu (⭐955)](https://github.com/CanonicalLtd/react-native) - Build Ubuntu desktop apps using React Native. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/CanonicalLtd/react-native) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [nw.js](http://nwjs.io) - Build desktop apps with HTML and JavaScript. [![OSS](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/nwjs/nw.js) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [React Native for Ubuntu (⭐953)](https://github.com/CanonicalLtd/react-native) - Build Ubuntu desktop apps using React Native. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/CanonicalLtd/react-native) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [React Native macOS (⭐11k)](https://github.com/ptmt/react-native-desktop) - Build OS X desktop apps using React Native and Cocoa. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/ptmt/react-native-desktop)
 
 ### Developer Tools / Version Control
@@ -141,7 +141,6 @@
 ### Utilities / System Related Tools
 
 *   [AppCleaner](http://freemacsoft.net/appcleaner/) - Small application which allows you to thoroughly uninstall unwanted apps. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [Cleaner for Xcode (⭐1.6k)](https://github.com/waylybaye/XcodeCleaner) - Helps make your Xcode faster by removing unwanted and deprecated files. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/waylybaye/XcodeCleaner) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [gfxCardStatus](https://gfx.io/) - Unobtrusive menu bar app for OS X that allows MacBook Pro users to see which apps are affecting their battery life by using the more power-hungry graphics. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [iStat Menus](https://bjango.com/mac/istatmenus/) - Advanced Mac system monitor on the menubar.
 *   [Monity](http://www.monityapp.com/) - System monitoring widget for OS X.
@@ -154,7 +153,7 @@
 
 ### Remote Login Software / System Related Tools
 
-*   [TeamViewer](https://www.teamviewer.com/en) - Proprietary computer software package for remote control, desktop sharing, online meetings, web conferencing and file transfer between computers. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [TeamViewer](https://www.teamviewer.com/en) - Proprietary computer software package for remote control, desktop sharing, online meetings, web conferencing, and file transfer between computers. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Third Party App Markets / Package Managers
 
@@ -177,14 +176,14 @@
 ### IDE
 
 *   [Aqua Data Studio](https://www.aquafold.com/aquadatastudio) - Aqua Data Studio is productivity software for Database Developers, DBAs, and Analysts.
-*   [HeidiSQL (⭐4.6k)](https://github.com/HeidiSQL/HeidiSQL) - A lightweight client for managing MySQL, MSSQL and PostgreSQL, written in Delphi.
+*   [HeidiSQL (⭐4.9k)](https://github.com/HeidiSQL/HeidiSQL) - A lightweight client for managing MySQL, MSSQL and PostgreSQL, written in Delphi.
 *   [Navicat](https://www.navicat.com/en/products#navicat) - A database development tool that allows you to simultaneously connect to MySQL, MariaDB, SQL Server, Oracle, PostgreSQL, and SQLite databases from a single application.
 *   [pgAdmin](https://www.pgadmin.org) - The most popular and feature rich Open Source administration and development platform for PostgreSQL, the most advanced Open Source database in the world.
 
 ### GUI
 
-*   [Adminer (⭐6.1k)](https://github.com/vrana/adminer) - Database management in a single PHP file.
-*   [phpMyAdmin (⭐7.1k)](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB.
+*   [Adminer (⭐6.3k)](https://github.com/vrana/adminer) - Database management in a single PHP file.
+*   [phpMyAdmin (⭐7.3k)](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB.
 *   [Postico](https://eggerapps.at/postico) - A Modern PostgreSQL Client for the Mac.
 
 ### Monitoring/Statistics/Perfomance / Samples

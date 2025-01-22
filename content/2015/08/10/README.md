@@ -29,9 +29,9 @@
 
 ### More Awesome Lists
 
-*   [Awesome (⭐312k)](https://github.com/sindresorhus/awesome) *(The OG List)*
-*   [WPO (⭐8.3k)](https://github.com/davidsonfellipe/awesome-wpo) *(Web Performance Optimization)*
-*   [Shell (⭐32k)](https://github.com/alebcay/awesome-shell) *(CLI Frameworks, Toolkits and Guides)*
+*   [Awesome (⭐337k)](https://github.com/sindresorhus/awesome) *(The OG List)*
+*   [WPO (⭐8.4k)](https://github.com/davidsonfellipe/awesome-wpo) *(Web Performance Optimization)*
+*   [Shell (⭐33k)](https://github.com/alebcay/awesome-shell) *(CLI Frameworks, Toolkits and Guides)*
 
 ## [2. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 

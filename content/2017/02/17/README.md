@@ -54,11 +54,11 @@
 ### Math / Other
 
 *   [Image Kernels](http://setosa.io/ev/image-kernels/) - Interactive and visual introduction to image kernels.
-*   [Sine and Cosine](http://setosa.io/ev/sine-and-cosine/) - Interactive explination of sine and cosine.
+*   [Sine and Cosine](http://setosa.io/ev/sine-and-cosine/) - Interactive explanation of sine and cosine.
 
 ### Related / Other
 
-*   [Awesome livecoding (⭐2.5k)](https://github.com/lvm/awesome-livecoding/) - Curated list of livecoding languages and tools.
+*   [Awesome livecoding (⭐2.6k)](https://github.com/lvm/awesome-livecoding/) - Curated list of livecoding languages and tools.
 
 ## [9. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 

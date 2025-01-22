@@ -10,10 +10,10 @@
 
 ### Apps / Productivity
 
-*   [Annotator (⭐176)](https://github.com/phase1geo/Annotator) - Annotate images for better communication.
-*   [Minder (⭐885)](https://github.com/phase1geo/Minder) - Mind-mapping application.
-*   [Outliner (⭐56)](https://github.com/phase1geo/Outliner) - Write outlines easily.
-*   [TextShine (⭐16)](https://github.com/phase1geo/TextShine) - Convert and manipulate text.
+*   [Annotator (⭐233)](https://github.com/phase1geo/Annotator) - Annotate images for better communication.
+*   [Minder (⭐1k)](https://github.com/phase1geo/Minder) - Mind-mapping application.
+*   [Outliner (⭐57)](https://github.com/phase1geo/Outliner) - Write outlines easily.
+*   [TextShine (⭐18)](https://github.com/phase1geo/TextShine) - Convert and manipulate text.
 
 ## [2. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -29,20 +29,20 @@
 
 ### Vue / Integrations
 
-*   ![v3](https://img.shields.io/badge/-v3-35495e) [@vitejs/plugin-vue-jsx (⭐460)](https://github.com/vitejs/vite-plugin-vue/tree/main/packages/plugin-vue-jsx) - Official Vue 3 JSX support.
-*   ![v2](https://img.shields.io/badge/-v2-42b883) [@vitejs/plugin-vue2 (⭐543)](https://github.com/vitejs/vite-plugin-vue2) - Official Vue 2 support.
-*   ![v2](https://img.shields.io/badge/-v2-42b883) [@vitejs/plugin-vue2-jsx (⭐58)](https://github.com/vitejs/vite-plugin-vue2-jsx) - Official Vue 2 JSX support.
+*   ![v3](https://img.shields.io/badge/-v3-35495e) [@vitejs/plugin-vue-jsx (⭐521)](https://github.com/vitejs/vite-plugin-vue/tree/main/packages/plugin-vue-jsx) - Official Vue 3 JSX support.
+*   ![v2](https://img.shields.io/badge/-v2-42b883) [@vitejs/plugin-vue2 (⭐557)](https://github.com/vitejs/vite-plugin-vue2) - Official Vue 2 support.
+*   ![v2](https://img.shields.io/badge/-v2-42b883) [@vitejs/plugin-vue2-jsx (⭐57)](https://github.com/vitejs/vite-plugin-vue2-jsx) - Official Vue 2 JSX support.
 
 ### React / Official
 
-*   [@vitejs/plugin-react (⭐565)](https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react) - Official React support that uses Babel.
-*   [@vitejs/plugin-react-swc (⭐811)](https://github.com/vitejs/vite-plugin-react-swc) - Official React support that uses SWC.
+*   [@vitejs/plugin-react (⭐639)](https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react) - Official React support that uses Babel.
+*   [@vitejs/plugin-react-swc (⭐897)](https://github.com/vitejs/vite-plugin-react-swc) - Official React support that uses SWC.
 
 ## [4. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [show-git-user (⭐3)](https://github.com/luisprgr/zsh-show-git-user) - When you need to work with multiple `git` users on the same machine this plugin will show which `git` user name is active in your prompt.
+*   [show-git-user (⭐5)](https://github.com/luisprgr/zsh-show-git-user) - When you need to work with multiple `git` users on the same machine this plugin will show which `git` user name is active in your prompt.
 *   [wsl (⭐2)](https://github.com/florentinl/omz-wsl) - Adds helper functions to make it easier to work in ZSH when running inside WSL.
 *   [zsh-watch (⭐5)](https://github.com/Thearas/zsh-watch) - Simple `watch` that supports alias and completion.
 
@@ -64,7 +64,6 @@
 *   [Instya](https://www.instya.com) -  You can searching shopping sites, dictionaries, answer sites, news, images, videos and much more.
 *   [Lycos](https://www.lycos.com) - A search engine for pictures, videos, news and products.
 *   [Search.com](https://www.search.com) - Search the Web by searching the best engines from one place.
-*   [SurfCanyon](https://www.surfcanyon.com) - a real-time contextual search technology that observes user behavior in order to disambiguate intent "on the fly," and then automatically bring forward to page one relevant results that might otherwise have remain buried.
 *   [Wolfram Alpha](https://www.wolframalpha.com) - Wolfram Alpha is a computational knowledge engine (answer engine) developed by Wolfram Alpha. It will compute expert-level answers using Wolfram’s breakthrough
     algorithms, knowledgebase and AI technology.
 *   [Yahoo! Search](https://www.yahoo.com) -  The search engine that helps you find exactly what you're looking for.
@@ -74,11 +73,11 @@
 
 *   [Carrot2](https://search.carrot2.org) - Organizes your search results into topics.
 
-### Language Tools / Telegram
+### Language Tools / Steam
 
-*   see the [Awesome Translations list (⭐126)](https://github.com/mbiesiad/awesome-translations#tools)
+*   see the [Awesome Translations list (⭐152)](https://github.com/mbiesiad/awesome-translations#tools)
 
-### Image Search / Telegram
+### Image Search / Steam
 
 *   [Baidu Images](https://image.baidu.com)
 *   [Bing Images](https://www.bing.com/images)
@@ -98,11 +97,11 @@
 
 ### GTFS Libraries / Python
 
-*   [gtfs-segments (⭐29)](https://github.com/UTEL-UIUC/gtfs_segments) - Python package that represents GTFS data for buses in a concise tabular manner using segments.
+*   [gtfs-segments (⭐37)](https://github.com/UTEL-UIUC/gtfs_segments) - Python package that represents GTFS data for buses in a concise tabular manner using segments.
 
 ### GTFS Timetable Publishing Tools / Ruby
 
-*   [Timetable Kit (⭐36)](https://github.com/neroden/timetable_kit) - An open source Python 3.10 module and scripts depending on [GTFS Kit (⭐36)](https://github.com/mrcagney/gtfs_kit), designed to create complex printed/PDF timetables with flexible layouts. Currently only working out of the box for Amtrak's GTFS, but under active development.
+*   [Timetable Kit (⭐43)](https://github.com/neroden/timetable_kit) - An open source Python 3.10 module and scripts depending on [GTFS Kit (⭐58)](https://github.com/mrcagney/gtfs_kit), designed to create complex printed/PDF timetables with flexible layouts. Currently only working out of the box for Amtrak's GTFS, but under active development.
 
 ## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -113,10 +112,6 @@
 ### Projects Using Vue.js / Commercial Products
 
 *   [Sneat Vuetify VueJS Admin Template](https://themeselection.com/item/sneat-vuetify-vuejs-admin-template/) - The Ultimate VueJS Admin Template for responsive web apps.
-
-### Components & Libraries / Integrations
-
-*   [hugoVueSFC (⭐6)](https://github.com/indus/hugoVueSFC) - Vue Single-File Components (SFC) in [Hugo](https://gohugo.io/).
 
 ## [10. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
 

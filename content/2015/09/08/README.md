@@ -78,7 +78,7 @@
 
 ### Misc / Other
 
-*   [peterkokot/awesome-jquery (⭐917)](https://github.com/peterkokot/awesome-jquery)
+*   [peterkokot/awesome-jquery (⭐923)](https://github.com/peterkokot/awesome-jquery)
 
 ## [10. Amas](/content/sindresorhus/amas/README.md)
 

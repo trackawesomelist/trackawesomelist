@@ -1,18 +1,12 @@
 # Awesome List Updates on Apr 18 - Apr 24, 2016
 
-36 awesome lists updated this week.
+35 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
-
-### Interviewing
-
-*   [andreis/interview (⭐18k)](https://github.com/andreis/interview) - Everything you need to kick ass on your coding interview
-
-## [2. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [1. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### Crash monitoring / Field Validation
 
@@ -22,7 +16,7 @@
 
 *   [RESTMock (⭐751)](https://github.com/andrzejchm/RESTMock) - HTTP Web server for mocking API responses in Android Instrumentation tests.
 
-## [3. Awesome Wicket](/content/PhantomYdn/awesome-wicket/week/README.md)
+## [2. Awesome Wicket](/content/PhantomYdn/awesome-wicket/week/README.md)
 
 ### Libraries
 
@@ -44,7 +38,7 @@
 *   [Nocket (⭐9)](https://github.com/Nocket/nocket) - Naked Object based framework for wicket.
 *   [Wicketopia (⭐18)](https://github.com/jwcarman/Wicketopia) - Rapid Application Development (RAD) library for the Wicket.
 
-## [4. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [3. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### PHP / Scala
 
@@ -53,7 +47,7 @@
 
 ### API Gateways / Edge Services / Scala
 
-*   [Neutrino (⭐311)](https://github.com/eBay/Neutrino) - Extensible software load balancer.
+*   [Neutrino (⭐312)](https://github.com/eBay/Neutrino) - Extensible software load balancer.
 
 ### Data Formats / Scala
 
@@ -63,7 +57,7 @@
 
 *   [Schema.org](http://schema.org/) - Collaborative, community activity with a mission to create, maintain, and promote schemas for structured data on the Internet, on web pages, in email messages, and beyond.
 
-## [5. Awesome Book Authoring](/content/TalAter/awesome-book-authoring/week/README.md)
+## [4. Awesome Book Authoring](/content/TalAter/awesome-book-authoring/week/README.md)
 
 ### Royalties, Advances, and Other Money Stuff
 
@@ -71,7 +65,7 @@
 *   [How Book Advances Work – A Simple Explanation for Writers](http://www.writersdigest.com/online-editor/how-book-advances-work-a-simple-explanation-for-writers)
 *   [Typical O'Reilly Advance Structure](http://web.archive.org/web/20130704110948/http://oreilly.com/oreilly/author/ch03.html#advance)
 
-## [6. Rbooks](/content/RomanTsegelskyi/rbooks/week/README.md)
+## [5. Rbooks](/content/RomanTsegelskyi/rbooks/week/README.md)
 
 ### Data Science
 
@@ -85,7 +79,7 @@ The primary focus on group-wise data manipulation with the split-apply-combine s
 
 By the end of this book, you will have learned about text manipulation using stringr, how to extract data from twitter using twitteR library, how to clean raw data, and how to structure your raw data for data mining.
 
-## [7. Nlp with Ruby](/content/arbox/nlp-with-ruby/week/README.md)
+## [6. Nlp with Ruby](/content/arbox/nlp-with-ruby/week/README.md)
 
 ### Segmentation / On-line APIs
 
@@ -97,25 +91,25 @@ By the end of this book, you will have learned about text manipulation using str
 *   [weka (⭐67)](https://github.com/paulgoetze/weka-jruby) -
     JRuby bindings for Weka, different ML algorithms implemented through Weka.
 
-## [8. Awesome Vorpal](/content/vorpaljs/awesome-vorpal/week/README.md)
+## [7. Awesome Vorpal](/content/vorpaljs/awesome-vorpal/week/README.md)
 
 ### Extensions / Toolbox
 
 *   [comment (⭐5)](https://github.com/subk/vorpal-comment) - Bash-like comment support.
 
-## [9. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
+## [8. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
 ### Resources / Misc
 
 *   [Email toolbox](http://email-toolbox.com/) - Hand-picked resources for email marketers and designers.
 
-## [10. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [9. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Templating
 
 *   [Pug (⭐22k)](https://github.com/pugjs/pug) - High-performance template engine heavily influenced by Haml.
 
-## [11. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
+## [10. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
 
 ### Articles
 
@@ -123,15 +117,15 @@ By the end of this book, you will have learned about text manipulation using str
 
 ### Other
 
-*   [npm-upgrade (⭐340)](https://github.com/th0r/npm-upgrade) - Update outdated npm dependencies interactively.
+*   [npm-upgrade (⭐341)](https://github.com/th0r/npm-upgrade) - Update outdated npm dependencies interactively.
 
-## [12. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [11. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### WebSocket
 
-*   [Firehose (⭐727)](https://github.com/firehoseio/firehose) - Build realtime Ruby web applications.
+*   [Firehose (⭐726)](https://github.com/firehoseio/firehose) - Build realtime Ruby web applications.
 
-## [13. Awesome Sketch](/content/diessica/awesome-sketch/week/README.md)
+## [12. Awesome Sketch](/content/diessica/awesome-sketch/week/README.md)
 
 ### Videos / Tutorial-only
 
@@ -141,19 +135,19 @@ By the end of this book, you will have learned about text manipulation using str
 
 *   [SketchApp Rocks](http://sketchapp.rocks/)
 
-## [14. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
+## [13. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
 ### Subtitling
 
 *   [CCExtractor](http://ccextractor.sourceforge.net/about-ccextractor.html) - A tool that analyzes video files and produces stand-alone subtitle files.
 
-## [15. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [14. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### API
 
-*   [Mobius: C# API for Spark (⭐942)](https://github.com/Microsoft/Mobius) - Mobius adds C# language binding to Apache Spark, enabling the implementation of Spark driver code and data processing operations in C#.
+*   [Mobius: C# API for Spark (⭐938)](https://github.com/Microsoft/Mobius) - Mobius adds C# language binding to Apache Spark, enabling the implementation of Spark driver code and data processing operations in C#.
 
-## [16. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
+## [15. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
 
 ### Laravel
 
@@ -182,20 +176,20 @@ By the end of this book, you will have learned about text manipulation using str
 
 
 
-## [17. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
+## [16. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
 
 ### Articles
 
 *   [Encapsulated Routing with Elements](https://www.polymer-project.org/1.0/articles/routing.html)
 *   [NET-A-PORTER case study](https://developers.google.com/web/showcase/case-study/net-a-porter)
 
-## [18. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [17. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Tools
 
 *   [CodeXL (⭐998)](https://github.com/GPUOpen-Tools/CodeXL) - CodeXL goes open source. \[MIT]
 
-## [19. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [18. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Caching
 
@@ -205,7 +199,7 @@ By the end of this book, you will have learned about text manipulation using str
 
 *   [ReactJS.NET (⭐2.3k)](https://github.com/reactjs/React.NET) - .NET library for JSX compilation and server-side rendering of React components.
 
-## [20. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [19. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Miscellaneous
 
@@ -220,25 +214,25 @@ By the end of this book, you will have learned about text manipulation using str
 
 *   [pay (⭐27)](https://github.com/era/pay) - An Elixir Lib to deal with Paypal and other payment solutions.
 
-## [21. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [20. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Data Visualization
 
 *   [chartd](http://chartd.co/) - responsive, retina-compatible charts with just an img tag.
 
-## [22. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [21. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Data Structure and Storage
 
 *   [JsonMapper (⭐1.6k)](https://github.com/cweiske/jsonmapper) - A library that maps nested JSON structures onto PHP classes.
 
-## [23. Awesome Devenv](/content/jondot/awesome-devenv/week/README.md)
+## [22. Awesome Devenv](/content/jondot/awesome-devenv/week/README.md)
 
 ### Orchestration / Extensions
 
 *   [azk (⭐906)](https://github.com/azukiapp/azk) - a lightweight open source engine to orchestrate development environments
 
-## [24. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [23. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Auto Layout / Barcode
 
@@ -246,23 +240,23 @@ By the end of this book, you will have learned about text manipulation using str
 
 ### Video / Barcode
 
-*   [PlayerView (⭐132)](https://github.com/davidlondono/PlayerView) - Easy to use video player using a UIView, manage rate of reproduction, screenshots and callbacks-delegate for player state.
+*   [PlayerView (⭐133)](https://github.com/davidlondono/PlayerView) - Easy to use video player using a UIView, manage rate of reproduction, screenshots and callbacks-delegate for player state.
 
-## [25. Awesome R](/content/qinwf/awesome-R/week/README.md)
+## [24. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### Data Manipulation
 
-*   [fuzzyjoin (⭐653)](https://github.com/dgrtwo/fuzzyjoin) - Join tables together on inexact matching.
+*   [fuzzyjoin (⭐671)](https://github.com/dgrtwo/fuzzyjoin) - Join tables together on inexact matching.
 
 ### Other Interpreters
 
 *   [CXXR](https://www.cs.kent.ac.uk/projects/cxxr/) - Refactorising R into C++.
 *   [pqR](http://www.pqr-project.org/) - a "pretty quick" implementation of R
 *   [renjin](http://www.renjin.org/) - a JVM-based interpreter for R.
-*   [rho (⭐134)](https://github.com/rho-devel/rho) - Refactor the interpreter of the R language into a fully-compatible, efficient, VM for R.
+*   [rho (⭐133)](https://github.com/rho-devel/rho) - Refactor the interpreter of the R language into a fully-compatible, efficient, VM for R.
 *   [TERR](http://spotfire.tibco.com/discover-spotfire/what-does-spotfire-do/predictive-analytics/tibco-enterprise-runtime-for-r-terr) - TIBCO Enterprise Runtime for R.
 
-## [26. Awesome Neo4j](/content/neueda/awesome-neo4j/week/README.md)
+## [25. Awesome Neo4j](/content/neueda/awesome-neo4j/week/README.md)
 
 ### REST API / Other
 
@@ -273,7 +267,7 @@ By the end of this book, you will have learned about text manipulation using str
 *   [Apoc : Awesome Procedures on Cypher (⭐1.5k)](https://github.com/neo4j-contrib/neo4j-apoc-procedures) - Collection of useful procedures for Neo4j 3.x
 *   [Graphgen (⭐8)](https://github.com/graphaware/neo4j-graphgen-procedure) - Neo4j procedure for generating test data easily with Cypher
 
-## [27. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
+## [26. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
 
 ### Learn / Slides
 
@@ -294,13 +288,13 @@ By the end of this book, you will have learned about text manipulation using str
 
 *   [mciparelli/cyclejs-gravatar ★0 (⭐0)](https://github.com/mciparelli/cyclejs-gravatar) - Cycle.js component for rendering a gravatar profile image.
 
-## [28. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
+## [27. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
 
 ### Javascript Libraries for Salesforce / Open Source Projects Repositories from Salesforce
 
 *   [Formulon (⭐55)](https://github.com/leifg/formulon) - Formula parser completely implemented in ES6. [See Demo](http://formulon.io)
 
-## [29. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [28. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Models/Projects
 
@@ -316,13 +310,13 @@ By the end of this book, you will have learned about text manipulation using str
 
 *   [Stack Overflow](http://stackoverflow.com/questions/tagged/tensorflow)
 
-## [30. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
+## [29. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
 ### Articles / Outdated articles (Not relevant for current Elm architecture)
 
 *   [Elm & Components](https://medium.com/p/elm-components-3d9c00c6c612) - A blog post describing a possible approach to reducing TEA boilerplate. Useful for component libraries and anyone interested in seeing the amazing things you can do with function types.
 
-## [31. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
+## [30. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
 
 ### Experiments
 
@@ -387,7 +381,7 @@ By the end of this book, you will have learned about text manipulation using str
 *   [Matt DesLauriers](https://github.com/mattdesl) - Creative coder at Jam 3.
 *   [Patrick Heng](http://hengpatrick.fr/) - Creative front-end developer. Studied at Hetic and Gobelins and works at Grouek.
 
-## [32. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [31. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Open Source / Featured
 
@@ -433,14 +427,14 @@ By the end of this book, you will have learned about text manipulation using str
 
 *   [Building Native Desktop apps using Electron](https://www.youtube.com/watch?v=nXIrFq5-FC8)
 
-## [33. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
+## [32. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
 ### Libraries
 
 *   [fn-curry (⭐5)](https://github.com/thunklife/fn-curry) – A simple function to curry a function.
-*   [date-fp (⭐122)](https://github.com/cullophid/date-fp) – A functional utility library for working with JavaScript dates. All functions in date-fp are pure, autocurried and will not mutate the date objects they are applied to.
+*   [date-fp (⭐121)](https://github.com/cullophid/date-fp) – A functional utility library for working with JavaScript dates. All functions in date-fp are pure, autocurried and will not mutate the date objects they are applied to.
 
-## [34. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [33. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Culture
 
@@ -458,13 +452,13 @@ By the end of this book, you will have learned about text manipulation using str
 
 *   [Service Level Agreements in the Cloud: Who cares?](http://www.wired.com/insights/2011/12/service-level-agreements-in-the-cloud-who-cares/)
 
-## [35. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [34. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Individuals/Group Contributors / R individuals
 
 *   Rachel Kroll <https://rachelbythebay.com/w/>
 
-## [36. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
+## [35. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
 ### Books / Dissemination
 
@@ -526,7 +520,7 @@ By the end of this book, you will have learned about text manipulation using str
 *   [KONECT - The Koblenz Network Collection](http://konect.uni-koblenz.de/) - Includes, among other things, networks of collaboration in DBpedia and Wikipedia, GitHub ([companion handbook](https://arxiv.org/abs/1402.5500)).
     <!-- -   [James H. Fowler’s Cosponsorship Network Data Page](http://jhfowler.ucsd.edu/cosponsorship.htm). -->
 *   [Linton Freeman’s Network Data](http://moreno.ss.uci.edu/data.html) - Over 300 datasets of all sorts, in UCINET format.
-*   [Mangal](http://mangal.io/) - Online platform to analyze, archive and share ecological network data ([preprint](https://doi.org/10.1101/002634), [Python package (⭐2)](https://github.com/mangal-wg/pymangal), [R package (⭐13)](https://github.com/mangal-wg/rmangal)).
+*   [Mangal](http://mangal.io/) - Online platform to analyze, archive and share ecological network data ([preprint](https://doi.org/10.1101/002634), [Python package (⭐2)](https://github.com/mangal-wg/pymangal), [R package (⭐14)](https://github.com/mangal-wg/rmangal)).
 *   [Mark E.J. Newman’s Network Data](http://www-personal.umich.edu/~mejn/netdata/) ([example visualizations](http://www-personal.umich.edu/~mejn/networks/)).
 *   [Norwegian Interlocking Directorate, 2002-2011](http://www.boardsandgender.com/data.php) - Two-mode and one-mode data on gender representation in Norwegian firms.
 *   [tnet Datasets](https://toreopsahl.com/datasets/) - Weighted network data.

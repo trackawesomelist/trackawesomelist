@@ -10,7 +10,7 @@
 
 ### GTFS Data Collection and Maintenance Tools / Ruby
 
-*   [pfaedle (⭐184)](https://github.com/ad-freiburg/pfaedle) - Precise map-matching for GTFS using OpenStreetMap data
+*   [pfaedle (⭐214)](https://github.com/ad-freiburg/pfaedle) - Precise map-matching for GTFS using OpenStreetMap data
 
 ## [2. Awesome Homematic](/content/homematic-community/awesome-homematic/README.md)
 
@@ -41,7 +41,7 @@
 
 ### Music Programming
 
-*   [Orca (⭐4.4k)](https://github.com/hundredrabbits/Orca) - live programming environment for music.
+*   [Orca (⭐4.6k)](https://github.com/hundredrabbits/Orca) - live programming environment for music.
 
 ## [7. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
 
@@ -57,7 +57,7 @@
 
 ### Reading and Writing Tools / Markdown Tools
 
-*   [MarkText (⭐46k)](https://github.com/marktext/marktext) - Next generation markdown editor, running on platforms of MacOS Windows and Linux. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/marktext/marktext) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [MarkText (⭐48k)](https://github.com/marktext/marktext) - Next generation markdown editor, running on platforms of MacOS Windows and Linux. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/marktext/marktext) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Reading and Writing Tools / Others
 
@@ -79,10 +79,10 @@
 
 ### Developer Tools / Command Line Tools
 
-*   [cool-retro-term (⭐22k)](https://github.com/Swordfish90/cool-retro-term) - Good looking terminal emulator which mimics the old cathode display. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/Swordfish90/cool-retro-term)
-*   [fselect (⭐4k)](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/jhspetersson/fselect)
+*   [cool-retro-term (⭐23k)](https://github.com/Swordfish90/cool-retro-term) - Good looking terminal emulator which mimics the old cathode display. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/Swordfish90/cool-retro-term)
+*   [fselect (⭐4.1k)](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/jhspetersson/fselect)
 *   [m-cli (⭐9.7k)](https://github.com/rgcr/m-cli) - Swiss Army Knife for macOS. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/rgcr/m-cli) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [pgcli](https://www.pgcli.com) - Pgcli is a command line interface for Postgres with auto-completion and syntax highlighting. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/dbcli/pgcli) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [pgcli](https://www.pgcli.com) - Pgcli is a command line interface for Postgres with auto-completion and syntax
 
 ### Developer Tools / Frameworks For Hybrid Applications
 
@@ -94,7 +94,7 @@
 
 ### Developer Tools / Databases
 
-*   [MongoDB](https://www.mongodb.com) - MongoDB is a document database with the scalability and flexibility that you want with the querying and indexing that you need. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/gcollazo/mongodbapp) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![Awesome List](https://jaywcjlove.github.io/sb/ico/min-awesome.svg "Awesome List")](https://github.com/ramnes/awesome-mongodb#desktop)
+*   [MongoDB](https://www.mongodb.com) - Scalable, flexible document database with querying and indexing. [![OSS](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/gcollazo/mongodbapp) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![Awesome List](https://jaywcjlove.github.io/sb/ico/min-awesome.svg "Awesome List")](https://github.com/ramnes/awesome-mongodb#desktop)
 *   [PSequel](http://www.psequel.com/) - PostgreSQL GUI tool for Mac OS X. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [SQLight](https://aurvan.com/sqlight/) - SQLite database manager tool. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [SQLPro Studio](http://www.sqlprostudio.com/) - Simple, powerful database manager for macOS.
@@ -103,7 +103,7 @@
 ### Design and Product / Design Tools
 
 *   [Alchemy](http://al.chemy.org/) - Experimental, open-source drawing application with an emphasis on creating conceptual art. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](http://svn.al.chemy.org/)
-*   [Art Text 3](https://www.belightsoft.com/art-text/) - This is graphic design software specifically tuned for lettering, typography, text mockups and various artistic text effects.
+*   [Art Text 3](https://www.belightsoft.com/art-text/) - Graphic design software for lettering, typography, and text effects.
 *   [Figma](https://www.figma.com/) - The collaborative interface design tool, for vector graphics and UI prototyping. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [FontForge](http://fontforge.github.io/) - Free, open-source font editor. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/fontforge) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [GIMP](https://www.gimp.org) - The GNU Image Manipulation Program. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://www.gimp.org/source/#gimp-source-code)
@@ -112,7 +112,7 @@
 *   [MagicaVoxel](https://ephtracy.github.io/) - Free, lightweight 8-bit voxel editor and interactive path tracing renderer.
 *   [Pixelmator](http://www.pixelmator.com/mac/) - Full-featured image editor for Mac.
 *   [Sketch](http://www.sketchapp.com/) - Professional digital design for mac.
-    *   [Sketch Cache Cleaner](https://yo-op.github.io/sketchcachecleaner/) - Deletes hidden Sketch history files that can take a lot of space on your hard drive and that you would probably never use. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/yo-op/sketchcachecleaner) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+    *   [Sketch Cache Cleaner](https://yo-op.github.io/sketchcachecleaner/) - Deletes hidden Sketch history files. [![OSS](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/yo-op/sketchcachecleaner) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
     *   [Measure Plugin](http://utom.design/measure/) - Make it a fun to create spec for developers and teammates. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/utom/sketch-measure) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
     *   [Sketch Toolbox Plugin Manager](http://sketchtoolbox.com/) - Simple plugin manager for Sketch. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/buzzfeed/Sketch-Toolbox)
     *   [User Flows Plugin](https://abynim.github.io/UserFlows/) -  Generating flow diagrams from Artboards. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/abynim/UserFlows) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
@@ -146,7 +146,7 @@
 
 ### Proxy and VPN Tools / Audio Record and Process
 
-*   [ShadowsocksX-NG (⭐32k)](https://github.com/qiuyuzhou/ShadowsocksX-NG) - Next generation of ShadowsocksX. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/qiuyuzhou/ShadowsocksX-NG)
+*   [ShadowsocksX-NG (⭐33k)](https://github.com/qiuyuzhou/ShadowsocksX-NG) - Next generation of ShadowsocksX. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/qiuyuzhou/ShadowsocksX-NG)
 *   [ShadowsocksX](http://shadowsocks.org/) - Secure socks5 proxy, designed to protect your internet traffic. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/shadowsocks/shadowsocks)
 *   [Shimo](https://www.shimovpn.com/) - VPN Client for Mac.
 *   [SpechtLite (⭐2.9k)](https://github.com/zhuhaow/SpechtLite) - Rule-based proxy app for macOS.  [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/shadowsocks) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
@@ -157,7 +157,7 @@
 
 *   [Qbserve](https://qotoqot.com/qbserve/) - Time tracking automation: freelance project tracking, timesheets, invoicing & real-time productivity feedback.
 *   [RescueTime](https://www.rescuetime.com/) - Personal analytics service that shows you how you spend your time and provides tools to help you be more productive.
-*   [skhd (⭐6k)](https://github.com/koekeishiya/skhd) - Simple hotkey daemon for macOS. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/koekeishiya/skhd)
+*   [skhd (⭐6.7k)](https://github.com/koekeishiya/skhd) - Simple hotkey daemon for macOS. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/koekeishiya/skhd)
 *   [Timing](https://timingapp.com/) - Automatic time and productivity tracking for Mac. Helps you stay on track with your work and ensures no billable hours get lost if you are billing hourly.
 
 ### Utilities / Window Management
@@ -167,11 +167,11 @@
 *   [Magnet](http://magnet.crowdcafe.com/) - Window manager that keeps your workspace organized. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://itunes.apple.com/us/app/id441258766)
 *   [Moom](http://manytricks.com/moom/) - Allows you to easily move and zoom windows, or to another display—using either the mouse or the keyboard.
 *   [ShiftIt (⭐5.5k)](https://github.com/fikovnik/ShiftIt) - Managing window size and position in OSX. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/fikovnik/ShiftIt) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [Slate (⭐7.9k)](https://github.com/jigish/slate) - Window management application similar to Divvy and SizeUp (except better and free!). (**Needs config file**) [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/jigish/slate)
+*   [Slate (⭐7.8k)](https://github.com/jigish/slate) - Window management application similar to Divvy and SizeUp (except better and free!). (**Needs config file**) [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/jigish/slate)
 
 ### Utilities / System Related Tools
 
-*   [Gray (⭐1.3k)](https://github.com/zenangst/Gray) - Pick between the light appearance and the dark appearance on a per-app basis with the click of a button. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/zenangst/Gray)
+*   [Gray (⭐1.4k)](https://github.com/zenangst/Gray) - Pick between the light appearance and the dark appearance on a per-app basis with the click of a button. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/zenangst/Gray)
 *   [OnyX](https://www.titanium-software.fr/en/onyx.html) - Multifunction utility to verify disks and files, run cleaning and system maintenance tasks, configure hidden options and more. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Third Party App Markets / Package Managers
@@ -194,21 +194,21 @@
 
 ### Contents / Personalization
 
-*   [Dashboard (⭐906)](https://github.com/Ivaskuu/dashboard) - Dashboard concept made by [Ivascu Adrian](https://github.com/Ivaskuu/).
-*   [Tailor made (⭐323)](https://github.com/jogboms/tailor_made) - Managing a Fashion designer's daily routine by [Jeremiah Ogbomo](https://github.com/jogboms).
+*   [Dashboard (⭐918)](https://github.com/Ivaskuu/dashboard) - Dashboard concept made by [Ivascu Adrian](https://github.com/Ivaskuu/).
+*   [Tailor made (⭐327)](https://github.com/jogboms/tailor_made) - Managing a Fashion designer's daily routine by [Jeremiah Ogbomo](https://github.com/jogboms).
 
 ### Contents / Social Network
 
-*   [FlutterWhatsAppClone (⭐1.6k)](https://github.com/iampawan/FlutterWhatsAppClone) - Building a WhatsApp Clone in Flutter by [Pawan Kumar](https://github.com/iampawan).
-*   [Tinder Card (⭐824)](https://github.com/Ivaskuu/tinder_cards) - Tinder like cards swipe effect by [Ivascu Adrian](https://github.com/Ivaskuu/).
+*   [FlutterWhatsAppClone (⭐1.7k)](https://github.com/iampawan/FlutterWhatsAppClone) - Building a WhatsApp Clone in Flutter by [Pawan Kumar](https://github.com/iampawan).
+*   [Tinder Card (⭐835)](https://github.com/Ivaskuu/tinder_cards) - Tinder like cards swipe effect by [Ivascu Adrian](https://github.com/Ivaskuu/).
 
 ### Contents / Shopping
 
-*   [Plantly (⭐167)](https://github.com/Ivaskuu/plantly) - App concept where you can purchase and get info of plants by [Ivascu Adrian](https://github.com/Ivaskuu/).
+*   [Plantly (⭐168)](https://github.com/Ivaskuu/plantly) - App concept where you can purchase and get info of plants by [Ivascu Adrian](https://github.com/Ivaskuu/).
 
 ### Contents / Travel
 
-*   [Travel Guide (⭐27)](https://github.com/Ivaskuu/travel-guide_app) - Travel guide app by [Ivascu Adrian](https://github.com/Ivaskuu/).
+*   [Travel Guide (⭐30)](https://github.com/Ivaskuu/travel-guide_app) - Travel guide app by [Ivascu Adrian](https://github.com/Ivaskuu/).
 
 ---
 

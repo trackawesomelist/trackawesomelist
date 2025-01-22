@@ -65,7 +65,7 @@
 
 ### C++ / Natural Language Processing
 
-*   [MeTA (⭐689)](https://github.com/meta-toolkit/meta) - [MeTA : ModErn Text Analysis](https://meta-toolkit.org/) is a C++ Data Sciences Toolkit that facilitates mining big text data.
+*   [MeTA (⭐698)](https://github.com/meta-toolkit/meta) - [MeTA : ModErn Text Analysis](https://meta-toolkit.org/) is a C++ Data Sciences Toolkit that facilitates mining big text data.
 
 ### JavaScript / Data Analysis / Data Visualization
 
@@ -73,7 +73,7 @@
 
 ### Python / Computer Vision
 
-*   [Vigranumpy (⭐407)](https://github.com/ukoethe/vigra) - Python bindings for the VIGRA C++ computer vision library.
+*   [Vigranumpy (⭐412)](https://github.com/ukoethe/vigra) - Python bindings for the VIGRA C++ computer vision library.
 
 ## [8. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
 
@@ -85,12 +85,12 @@
 
 ### Application Templates
 
-*   [ProjectScaffold (⭐516)](https://github.com/fsprojects/ProjectScaffold) - A prototypical .NET solution recommended by the F# Foundation---includes file system setup, Paket for dependencies and FAKE for build/test automation. By default, build process also compiles documentation and generates NuGet packages.
+*   [ProjectScaffold (⭐517)](https://github.com/fsprojects/ProjectScaffold) - A prototypical .NET solution recommended by the F# Foundation---includes file system setup, Paket for dependencies and FAKE for build/test automation. By default, build process also compiles documentation and generates NuGet packages.
 
 ### MVVM
 
 *   [MVVMCross (⭐3.9k)](https://github.com/MvvmCross/MvvmCross) - Cross-platform mvvm mobile development framework for WPF, Silverlight for WP7 and WP8, Mono for Android, MonoTouch for iOS, Windows Universal projects (WPA8.1 and Windows 8.1 Store apps). Makes extensive use of Portable Class Libraries (PCL) to provide maintainable cross platform C# native applications.
-*   [Stylet (⭐982)](https://github.com/canton7/stylet/) - Minimal MVVM framework inspired by Caliburn Micro, with good documentation, high test coverage, and its own IoC container
+*   [Stylet (⭐999)](https://github.com/canton7/stylet/) - Minimal MVVM framework inspired by Caliburn Micro, with good documentation, high test coverage, and its own IoC container
 
 ## [10. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
@@ -282,7 +282,7 @@
 
 ### Logging
 
-*   [metrix (⭐51)](https://github.com/rwdaigle/metrix) - Log custom app metrics to stdout for use by Librato and other downstream processors.
+*   [metrix (⭐52)](https://github.com/rwdaigle/metrix) - Log custom app metrics to stdout for use by Librato and other downstream processors.
 
 ### Third Party APIs
 
@@ -292,7 +292,7 @@
 
 ### Blockchain Explorers
 
-*   [Bitcoin Transaction Explorer (⭐181)](https://github.com/JornC/bitcoin-transaction-explorer)
+*   [Bitcoin Transaction Explorer (⭐180)](https://github.com/JornC/bitcoin-transaction-explorer)
 
 ## [24. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 

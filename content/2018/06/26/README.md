@@ -22,14 +22,14 @@
 
 ### Software / Automation
 
-*   [Lidarr](https://lidarr.audio/) - Lidarr is a music collection manager for Usenet and BitTorrent users. ([Source Code (⭐3.6k)](https://github.com/Lidarr/Lidarr)) `GPL-3.0` `C#/Docker`
+*   [Lidarr](https://lidarr.audio/) - Lidarr is a music collection manager for Usenet and BitTorrent users. ([Source Code (⭐3.8k)](https://github.com/Lidarr/Lidarr)) `GPL-3.0` `C#/Docker`
 
 ## [4. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### JavaScript / Demos and Scripts
 
 *   [The Bot (⭐6)](https://github.com/sta-ger/TheBot) - Example of how the neural network learns to predict the angle between two points created with [Synaptic (⭐6.9k)](https://github.com/cazala/synaptic).
-*   [Half Beer (⭐7)](https://github.com/sta-ger/HalfBeer) - Beer glass classifier created with [Synaptic (⭐6.9k)](https://github.com/cazala/synaptic).
+*   [Half Beer (⭐6)](https://github.com/sta-ger/HalfBeer) - Beer glass classifier created with [Synaptic (⭐6.9k)](https://github.com/cazala/synaptic).
 
 ## [5. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 

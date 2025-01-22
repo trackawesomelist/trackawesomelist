@@ -10,15 +10,15 @@
 
 ### Peripheral Access Crates / STMicroelectronics
 
-*   [`stm32f0`](https://crates.io/crates/stm32f0) - ![crates.io](https://img.shields.io/crates/v/stm32f0.svg)
-*   [`stm32f1`](https://crates.io/crates/stm32f1) - ![crates.io](https://img.shields.io/crates/v/stm32f1.svg)
-*   [`stm32f2`](https://crates.io/crates/stm32f2) - ![crates.io](https://img.shields.io/crates/v/stm32f2.svg)
-*   [`stm32f3`](https://crates.io/crates/stm32f3) - ![crates.io](https://img.shields.io/crates/v/stm32f3.svg)
-*   [`stm32f4`](https://crates.io/crates/stm32f4) - ![crates.io](https://img.shields.io/crates/v/stm32f4.svg)
-*   [`stm32f7`](https://crates.io/crates/stm32f7) - ![crates.io](https://img.shields.io/crates/v/stm32f7.svg)
-*   [`stm32l0`](https://crates.io/crates/stm32l0) - ![crates.io](https://img.shields.io/crates/v/stm32l0.svg)
-*   [`stm32l1`](https://crates.io/crates/stm32l1) - ![crates.io](https://img.shields.io/crates/v/stm32l1.svg)
-*   [`stm32l4`](https://crates.io/crates/stm32l4) - ![crates.io](https://img.shields.io/crates/v/stm32l4.svg)
+*   [`stm32f0`](https://crates.io/crates/stm32f0) - [![crates.io](https://img.shields.io/crates/v/stm32f0.svg)](https://crates.io/crates/stm32f0)
+*   [`stm32f1`](https://crates.io/crates/stm32f1) - [![crates.io](https://img.shields.io/crates/v/stm32f1.svg)](https://crates.io/crates/stm32f1)
+*   [`stm32f2`](https://crates.io/crates/stm32f2) - [![crates.io](https://img.shields.io/crates/v/stm32f2.svg)](https://crates.io/crates/stm32f2)
+*   [`stm32f3`](https://crates.io/crates/stm32f3) - [![crates.io](https://img.shields.io/crates/v/stm32f3.svg)](https://crates.io/crates/stm32f3)
+*   [`stm32f4`](https://crates.io/crates/stm32f4) - [![crates.io](https://img.shields.io/crates/v/stm32f4.svg)](https://crates.io/crates/stm32f4)
+*   [`stm32f7`](https://crates.io/crates/stm32f7) - [![crates.io](https://img.shields.io/crates/v/stm32f7.svg)](https://crates.io/crates/stm32f7)
+*   [`stm32l0`](https://crates.io/crates/stm32l0) - [![crates.io](https://img.shields.io/crates/v/stm32l0.svg)](https://crates.io/crates/stm32l0)
+*   [`stm32l1`](https://crates.io/crates/stm32l1) - [![crates.io](https://img.shields.io/crates/v/stm32l1.svg)](https://crates.io/crates/stm32l1)
+*   [`stm32l4`](https://crates.io/crates/stm32l4) - [![crates.io](https://img.shields.io/crates/v/stm32l4.svg)](https://crates.io/crates/stm32l4)
 
 ## [2. Awesome Bioie](/content/caufieldjh/awesome-bioie/README.md)
 
@@ -56,7 +56,7 @@
 
 ## [7. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
-### Infographics and Data Visualization / Telegram
+### Infographics and Data Visualization / Steam
 
 *   [LocalFocus](https://www.localfocus.nl)
 *   [Visualize Free](http://visualizefree.com)
@@ -65,7 +65,7 @@
 
 ### Libraries / Python
 
-*   [Mongo-Thingy (⭐68)](https://github.com/numberly/mongo-thingy) - Powerful schema-less ODM for MongoDB and Python (sync + async)
+*   [Mongo-Thingy (⭐69)](https://github.com/numberly/mongo-thingy) - Powerful schema-less ODM for MongoDB and Python (sync + async)
 
 ### Tools / Monitoring
 
@@ -81,7 +81,7 @@
 
 ### JSON
 
-*   [SwiftyJSONAccelerator (⭐944)](https://github.com/insanoid/SwiftyJSONAccelerator) - macOS app to generate Swift 5 models for JSON (with Codeable).
+*   [SwiftyJSONAccelerator (⭐945)](https://github.com/insanoid/SwiftyJSONAccelerator) - macOS app to generate Swift 5 models for JSON (with Codeable).
 
 ## [10. Awesome Actions on Google](/content/ravirupareliya/awesome-actions-on-google/README.md)
 

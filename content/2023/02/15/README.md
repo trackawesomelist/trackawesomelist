@@ -32,11 +32,7 @@
 
 ### Queue
 
-*   🍰 [Queue plugin (⭐37)](https://github.com/cakephp/queue) - CakePHP core queue system for the [php-queue](https://php-enqueue.github.io) queue library.
-
-### CakePHP Tutorials
-
-*   [Official Blog tutorial](https://book.cakephp.org/4.0/en/tutorials-and-examples/blog/blog.html)
+*   [Queue plugin (⭐36)](https://github.com/cakephp/queue) - CakePHP core queue system for the [php-queue](https://php-enqueue.github.io) queue library.
 
 ## [5. Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md)
 
@@ -58,13 +54,17 @@
 
 ### AI
 
-*   [OpenAI (⭐1.9k)](https://github.com/MacPaw/OpenAI) - Swift package for OpenAI public API.
+*   [OpenAI (⭐2.1k)](https://github.com/MacPaw/OpenAI) - Swift package for OpenAI public API.
 
 ## [8. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
+### Code Analysis and Metrics
+
+*   [Bencher](https://bencher.dev/) - Suite of continuous benchmarking tools designed to catch performance regressions in CI.
+
 ### Blazor
 
-*   [blazork8s (⭐142)](https://github.com/weibaohui/blazork8s) - k8s management ui in blazor and .NET Core.
+*   [blazork8s (⭐182)](https://github.com/weibaohui/blazork8s) - k8s management ui in blazor and .NET Core.
 
 ### Source Generator
 
@@ -83,10 +83,6 @@
 *   [Jobs and talents in AI/ML, Data Science and Big Data | ai-jobs.net](https://ai-jobs.net/)
 
 ## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
-
-### Testing
-
-*   [Bencher](https://bencher.dev/) - A continuous benchmarking tool suite to catch CI performance regressions. Free for all public projects.
 
 ### Forms
 

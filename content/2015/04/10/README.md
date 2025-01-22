@@ -10,7 +10,7 @@
 
 ### Data serialization / JSON
 
-*   [painlessjson (⭐22)](https://github.com/BlackEdder/painlessjson) - Convert between D types and std.json.
+*   [painlessjson (⭐23)](https://github.com/BlackEdder/painlessjson) - Convert between D types and std.json.
 
 ## [2. Awesome Coldfusion](/content/seancoyne/awesome-coldfusion/README.md)
 
@@ -62,7 +62,7 @@
 
 ### Error Handling
 
-*   [Exception Handler (⭐507)](https://github.com/richpeck/exception_handler) - Custom error pages.
+*   [Exception Handler (⭐508)](https://github.com/richpeck/exception_handler) - Custom error pages.
 
 ### Web Frameworks
 

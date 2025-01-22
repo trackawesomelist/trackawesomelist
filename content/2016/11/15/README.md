@@ -17,7 +17,6 @@
 *   /r/IndieBiz - <https://www.reddit.com/r/indiebiz/>
 *   /r/LadyBusiness - <https://www.reddit.com/r/ladybusiness/>
 *   /r/RoastMyStartup - <https://www.reddit.com/r/roastmystartup>
-*   /r/ShamelessPlug - <https://www.reddit.com/r/shamelessplug/>
 *   /r/SideProject - <http://reddit.com/r/sideproject>
 *   /r/SmallBusiness - <https://www.reddit.com/r/smallbusiness/>
 *   /r/Startups - <http://reddit.com/r/startups>
@@ -33,25 +32,20 @@
 *   Apps Mamma - <http://appsmamma.com/submit-your-app/>
 *   AppsThunder - <http://appsthunder.com/submit-your-app/>
 *   Beta Bound - <http://www.betabound.com/announce/>
-*   Betafy - <https://www.betafy.co/easysignup/startup>
 *   CrozDesk - <https://vendor.crozdesk.com/user/signup>
 *   Discova - <http://www.discova.co/>
 *   Discover Cloud - <https://www.discovercloud.com/become-a-vendor>
 *   F6S - <http://www.f6s.com/>
-*   Feed My App - <https://feedmyapp.com/submit/>
 *   Get App - <http://getapp.com/>
 *   Getworm - <https://getworm.com/submit-startup>
 *   Gust - <https://www.gust.com>
-*   Launch List - <https://launchlister.com/submit-startup>
 *   Next Big What - <http://nextbigwhat.com/>
 *   Product Hunt - <http://www.producthunt.com/>
 *   Software Advice - <https://softwareadvice-markets.questionpro.com/>
 *   Startup Lift - <http://www.startuplift.com/>
-*   Startup Resources - <https://startupresources.io>
 *   Startup Stash - <http://startupstash.com/>
 *   Startup Tabs - <http://startuptabs.com/>
 *   State of Tech - <http://stateoftech.net/advertise?submit-an-app-for-review>
-*   Tech Map - <http://thetechmap.com/>
 *   Vator - <http://www.vator.tv/>
 
 ## [2. Awesome Sass](/content/Famolus/awesome-sass/README.md)

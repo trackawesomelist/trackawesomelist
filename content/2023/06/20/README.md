@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 20, 2023
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -8,9 +8,9 @@
 
 ## [1. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
-### Domain and IP Research / Telegram
+### Domain and IP Research / Steam
 
-*   [WebsiteTechMiner.py (⭐5)](https://github.com/cybersader/WebsiteTechMiner-py) - automates gathering website profiling data into a CSV from the "BuiltWith" or "Wappalyzer" API for tech stack information, technographic data, website reports, website tech lookups, website architecture lookups, etc.
+*   [WebsiteTechMiner.py (⭐7)](https://github.com/cybersader/WebsiteTechMiner-py) - automates gathering website profiling data into a CSV from the "BuiltWith" or "Wappalyzer" API for tech stack information, technographic data, website reports, website tech lookups, website architecture lookups, etc.
 
 ## [2. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
@@ -26,11 +26,11 @@
 
 ### Packages / Build tools
 
-*   [Vite (⭐67k)](https://github.com/vitejs/vite) - Front-end build tool with hot module replacement and static asset bundling.
+*   [Vite (⭐69k)](https://github.com/vitejs/vite) - Front-end build tool with hot module replacement and static asset bundling.
 
 ### Packages / Hardware
 
-*   [modbus-serial (⭐612)](https://github.com/yaacov/node-modbus-serial) - A pure JavaScript implementation of MODBUS-RTU (serial and TCP).
+*   [modbus-serial (⭐646)](https://github.com/yaacov/node-modbus-serial) - A pure JavaScript implementation of MODBUS-RTU (serial and TCP).
 
 ### Resources / Courses
 
@@ -45,11 +45,11 @@
 
 ### Software / Automation
 
-*   [Apache Airflow](https://airflow.apache.org/) - Airflow is a platform to programmatically author, schedule, and monitor workflows. ([Source Code (⭐36k)](https://github.com/apache/airflow/)) `Apache-2.0` `Python/Docker`
+*   [Apache Airflow](https://airflow.apache.org/) - Airflow is a platform to programmatically author, schedule, and monitor workflows. ([Source Code (⭐38k)](https://github.com/apache/airflow/)) `Apache-2.0` `Python/Docker`
 
 ### Software / Miscellaneous
 
-*   [Flagsmith](https://flagsmith.com) - Flagsmith provides a dashboard, API and SDKs for adding Feature Flags to your applications (alternative to LaunchDarkly). ([Source Code (⭐4.7k)](https://github.com/flagsmith/flagsmith)) `BSD-3-Clause` `Docker/K8S`
+*   [Flagsmith](https://flagsmith.com) - Flagsmith provides a dashboard, API and SDKs for adding Feature Flags to your applications (alternative to LaunchDarkly). ([Source Code (⭐5.3k)](https://github.com/flagsmith/flagsmith)) `BSD-3-Clause` `Docker/K8S`
 
 ## [5. Awesome Minecraft](/content/bs-community/awesome-minecraft/README.md)
 
@@ -64,19 +64,13 @@
 
 *   [bennypowers/svgo.nvim (⭐2)](https://github.com/bennypowers/svgo.nvim) - Optimize SVG files.
 
-## [7. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
-
-### Applications / Text processing
-
-*   [jqnatividad/qsv (⭐2.4k)](https://github.com/jqnatividad/qsv) \[[qsv](https://crates.io/crates/qsv)] - A high performance CSV data-wrangling toolkit. Forked from xsv, with 34+ additional commands & more. [![Linux build status](https://github.com/jqnatividad/qsv/actions/workflows/rust.yml/badge.svg)](https://github.com/jqnatividad/qsv/actions/workflows/rust.yml) [![Windows build status](https://github.com/jqnatividad/qsv/actions/workflows/rust-windows.yml/badge.svg)](https://github.com/jqnatividad/qsv/actions/workflows/rust-windows.yml) [![macOS build status](https://github.com/jqnatividad/qsv/actions/workflows/rust-macos.yml/badge.svg)](https://github.com/jqnatividad/qsv/actions/workflows/rust-macos.yml)
-
-## [8. Awesome Arcgis Developers](/content/Esri/awesome-arcgis-developers/README.md)
+## [7. Awesome Arcgis Developers](/content/Esri/awesome-arcgis-developers/README.md)
 
 ### Helpers
 
 *   [ArcGIS JS API Module Butler](https://marketplace.visualstudio.com/items?itemName=ScottDavis.vscode-arcgis-js-api-module-butler\&ssr=false#overview) - VSCode extension for quickly adding ES import statements for the @arcgis/core package without leaving your current code context.
 
-## [9. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [8. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### Ethics, Philosophical questions and Discussions about Generative AI
 
@@ -86,13 +80,13 @@
 
 *   [Vondy - Next Generation AI Apps](https://www.vondy.com/): collection of AI tools organized by tasks
 
-## [10. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
+## [9. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
 
 ### Resources / Ironsworn
 
 *   [Minimalist Starforged Character Sheet](https://mendercap.itch.io/minimalist-starforged-character-sheet) - Simple character sheet for Starforged and Sundered Isles
 
-## [11. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md)
+## [10. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md)
 
 ### Analyzers / Meetups
 
@@ -102,7 +96,7 @@
 
 *   [Shortpixel](https://shortpixel.com/online-image-compression) - Compress Your Image by removing unnecessary bytes of the image and Convert it into WebP/AVIF
 
-## [12. Awesome Bash](/content/awesome-lists/awesome-bash/README.md)
+## [11. Awesome Bash](/content/awesome-lists/awesome-bash/README.md)
 
 ### Books and Resources
 

@@ -89,13 +89,13 @@
 
 ### Libraries
 
-*   [Sonnet (⭐9.7k)](https://github.com/deepmind/sonnet) - Sonnet is DeepMind's library built on top of TensorFlow for building complex neural networks.
+*   [Sonnet (⭐9.8k)](https://github.com/deepmind/sonnet) - Sonnet is DeepMind's library built on top of TensorFlow for building complex neural networks.
 
 ## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Tutorials
 
-*   [Build vue-hackernews-2.0 from Scratch (⭐88)](https://github.com/Detachment/Build-vue-hackernews-2.0-from-scratch) by [@ Detachment](https://github.com/Detachment)
+*   [Build vue-hackernews-2.0 from Scratch (⭐89)](https://github.com/Detachment/Build-vue-hackernews-2.0-from-scratch) by [@ Detachment](https://github.com/Detachment)
 
 ## [10. Awesome Healthcare](/content/kakoni/awesome-healthcare/README.md)
 

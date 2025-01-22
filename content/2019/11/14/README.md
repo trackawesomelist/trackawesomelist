@@ -10,8 +10,8 @@
 
 ### Dev Tools / Bare metal / kernel development
 
-*   [D-Scanner (⭐235)](https://github.com/dlang-community/D-Scanner) - Swiss-army knife for D source code (linting, static analysis, D code parsing, etc.)
-*   [dfmt (⭐197)](https://github.com/dlang-community/dfmt) - formatter for D source code
+*   [D-Scanner (⭐241)](https://github.com/dlang-community/D-Scanner) - Swiss-army knife for D source code (linting, static analysis, D code parsing, etc.)
+*   [dfmt (⭐204)](https://github.com/dlang-community/dfmt) - formatter for D source code
 
 ### IDEs & Editors / Bare metal / kernel development
 
@@ -19,7 +19,7 @@
 
 ### Web Frameworks / Bare metal / kernel development
 
-*   [dlang-requests (⭐151)](https://github.com/ikod/dlang-requests) - HTTP client library inspired by python-requests
+*   [dlang-requests (⭐154)](https://github.com/ikod/dlang-requests) - HTTP client library inspired by python-requests
 
 ## [2. Awesome Arch](/content/PandaFoss/Awesome-Arch/README.md)
 
@@ -37,20 +37,20 @@
 
 ### Projects / Boilerplate
 
-*   [django-project-template (⭐711)](https://github.com/jpadilla/django-project-template) - A deliberately basic project that has multiple staging environments and Heroku deployment config.
+*   [django-project-template (⭐720)](https://github.com/jpadilla/django-project-template) - A deliberately basic project that has multiple staging environments and Heroku deployment config.
 
 ## [5. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Design and Product / Other Tools
 
-*   [PicGo (⭐24k)](https://github.com/Molunerfinn/PicGo) - Support for common cdn image hosting tool.  [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Molunerfinn/PicGo)
-*   [uPic (⭐3.4k)](https://github.com/gee1k/uPic) - macOS native app, powerful terse image hosting client. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/gee1k/uPic)
+*   [PicGo (⭐25k)](https://github.com/Molunerfinn/PicGo) - Support for common cdn image hosting tool.  [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Molunerfinn/PicGo)
+*   [uPic (⭐3.5k)](https://github.com/gee1k/uPic) - macOS native app, powerful terse image hosting client. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/gee1k/uPic)
 
 ## [6. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### Peripheral Access Crates / Silicon Labs
 
-*   [`efm32pg12-pac`](https://crates.io/crates/efm32pg12-pac) - Peripheral access API for Silicon Labs EFM32PG12 microcontrollers - ![crates.io](https://img.shields.io/crates/v/efm32pg12-pac)
+*   [`efm32pg12-pac`](https://crates.io/crates/efm32pg12-pac) - Peripheral access API for Silicon Labs EFM32PG12 microcontrollers - [![crates.io](https://img.shields.io/crates/v/efm32pg12-pac)](https://crates.io/crates/efm32pg12-pac)
 
 ## [7. Awesome Security](/content/sbilly/awesome-security/README.md)
 
@@ -69,7 +69,7 @@
 
 ### Front-End Development
 
-*   [WordPress-Gatsby (⭐263)](https://github.com/henrikwirth/awesome-wordpress-gatsby#readme) - Web development technology stack with WordPress as a back end and Gatsby as a front end.
+*   [WordPress-Gatsby (⭐265)](https://github.com/henrikwirth/awesome-wordpress-gatsby#readme) - Web development technology stack with WordPress as a back end and Gatsby as a front end.
 
 ## [10. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
@@ -81,10 +81,6 @@
 
 ## [11. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
-### Testing
-
-*   [CakePHP Codeception module (⭐46)](https://github.com/cakephp/codeception) - The official CakePHP integration with [Codeception](https://codeception.com).
-
 ### Demo
 
 *   [Sandbox](https://sandbox.dereuromark.de) - A sandbox CakePHP application with lots of demos and plugin showcasings.
@@ -92,7 +88,6 @@
 ### Help
 
 *   [Official CakePHP Forum](https://discourse.cakephp.org/) - This is for generic questions and alike.
-*   [IRC Channel](https://www.dereuromark.de/2013/01/27/irc-cakephp-channel/) - Live chat/discussion with other devs and core devs.
 *   [stackoverflow.com/questions/tagged/cakephp](https://stackoverflow.com/questions/tagged/cakephp) - This is for specific questions, ideally along with some example code.
 
 ### CakePHP Websites

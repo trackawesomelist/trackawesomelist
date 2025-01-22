@@ -10,7 +10,7 @@
 
 ### Tools
 
-*   [gomobile-ipfs (⭐300)](https://github.com/ipfs-shipyard/gomobile-ipfs) - IPFS and libp2p on Mobile, with Gomobile.
+*   [gomobile-ipfs (⭐329)](https://github.com/ipfs-shipyard/gomobile-ipfs) - IPFS and libp2p on Mobile, with Gomobile.
 
 ## [2. Awesome Couchdb](/content/quangv/awesome-couchdb/week/README.md)
 
@@ -56,7 +56,7 @@
 *   [Learn the Kubernetes Key Concepts in 10 Minutes](http://omerio.com/2015/12/18/learn-the-kubernetes-key-concepts-in-10-minutes/) by [Omer Dawelbeit](https://twitter.com/omerio)
 *   [The Children's Illustrated Guide to Kubernetes](https://kubernetes.io/blog/2016/06/illustrated-childrens-guide-to-kubernetes/) by [Deis](https://github.com/deis)
 *   [The ‘kubectl run’ command](http://medium.com/@mhausenblas/the-kubectl-run-command-27c68de5cb76#.mlwi5an7o) by [Michael Hausenblas](https://twitter.com/mhausenblas)
-*   [Docker Kubernetes Lab Handbook (⭐206)](https://github.com/xiaopeng163/docker-k8s-lab) by [Peng Xiao](https://twitter.com/xiaopeng163)
+*   [Docker Kubernetes Lab Handbook (⭐207)](https://github.com/xiaopeng163/docker-k8s-lab) by [Peng Xiao](https://twitter.com/xiaopeng163)
 *   [Curated Resources for Kubernetes](https://hackr.io/tutorials/learn-kubernetes)
 *   [Kubernetes Comic](https://cloud.google.com/kubernetes-engine/kubernetes-comic/) by [Google Cloud Platform](https://cloud.google.com/)
 *   [Kubernetes 101: Pods, Nodes, Containers, and Clusters](https://medium.com/google-cloud/kubernetes-101-pods-nodes-containers-and-clusters-c1509e409e16) by [Dan Sanche](https://medium.com/@sanche)
@@ -70,24 +70,24 @@
 
 ### Libraries / Artificial Intelligence
 
-*   [huggingface/tokenizers (⭐8.8k)](https://github.com/huggingface/tokenizers) - Hugging Face's tokenizers for modern NLP pipelines (original implementation) with bindings for Python. [![Build Status](https://github.com/huggingface/tokenizers/workflows/Rust/badge.svg?branch=master)](https://github.com/huggingface/tokenizers/actions)
+*   [huggingface/tokenizers (⭐9.3k)](https://github.com/huggingface/tokenizers) - Hugging Face's tokenizers for modern NLP pipelines (original implementation) with bindings for Python. [![Build Status](https://github.com/huggingface/tokenizers/workflows/Rust/badge.svg?branch=master)](https://github.com/huggingface/tokenizers/actions)
 
 ## [8. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
 
 ### Python / Trading & Backtesting
 
-*   [DeepDow (⭐888)](https://github.com/jankrepl/deepdow) - Portfolio optimization with deep learning
+*   [DeepDow (⭐957)](https://github.com/jankrepl/deepdow) - Portfolio optimization with deep learning
 
 ### Python / Data Sources
 
-*   [investpy (⭐1.6k)](https://github.com/alvarobartt/investpy) - Financial Data Extraction from Investing.com with Python! <https://investpy.readthedocs.io/>
+*   [investpy (⭐1.7k)](https://github.com/alvarobartt/investpy) - Financial Data Extraction from Investing.com with Python! <https://investpy.readthedocs.io/>
 
 ## [9. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Tools / Paid and commercially available materials
 
-*   [cargo-hf2 (⭐49)](https://github.com/jacobrosenthal/hf2-rs)  A small cargo subcommand to download cargo builds to Microsoft UF2 bootloaders via HID USB . - ![crates.io](https://img.shields.io/crates/v/cargo-hf2.svg)
-*   [uf2 (⭐27)](https://github.com/sajattack/uf2conv-rs) Converts binary files to Microsoft's UF2 format for copying over to mass storage device uf2 bootloaders - ![crates.io](https://img.shields.io/crates/v/uf2.svg)
+*   [cargo-hf2 (⭐51)](https://github.com/jacobrosenthal/hf2-rs)  A small cargo subcommand to download cargo builds to Microsoft UF2 bootloaders via HID USB . - [![crates.io](https://img.shields.io/crates/v/cargo-hf2.svg)](https://crates.io/crates/cargo-hf2)
+*   [uf2 (⭐28)](https://github.com/sajattack/uf2conv-rs) Converts binary files to Microsoft's UF2 format for copying over to mass storage device uf2 bootloaders - [![crates.io](https://img.shields.io/crates/v/uf2.svg)](https://crates.io/crates/uf2)
 
 ## [10. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
@@ -137,7 +137,7 @@
 
 ### Projects
 
-*   [Yew-WebRTC-Chat (⭐122)](https://github.com/codec-abc/Yew-WebRTC-Chat) - A simple WebRTC chat made with Yew.
+*   [Yew-WebRTC-Chat (⭐127)](https://github.com/codec-abc/Yew-WebRTC-Chat) - A simple WebRTC chat made with Yew.
 
 ## [16. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -290,7 +290,7 @@
 
 ### Testing
 
-*   🍰 [CakephpFixtureFactories plugin (⭐82)](https://github.com/pakacuda/cakephp-fixture-factories) - Create your fixtures dynamically on a test basis, accelerate the writing and maintenance of your tests.
+*   [CakephpFixtureFactories plugin (⭐85)](https://github.com/pakacuda/cakephp-fixture-factories) - Create your fixtures dynamically on a test basis, accelerate the writing and maintenance of your tests.
 
 ## [22. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
@@ -302,15 +302,15 @@
 
 ### Tools & Software / Acquisition
 
-*   [Heritrix (⭐2.7k)](https://github.com/internetarchive/heritrix3/wiki) - An open source, extensible, web-scale, archival quality web crawler. *(Stable)*
-    *   [Heritrix Q\&A (⭐2.7k)](https://github.com/internetarchive/heritrix3/discussions/categories/q-a) - A discussion forum for asking questions and getting answers about using Heritrix.
+*   [Heritrix (⭐2.9k)](https://github.com/internetarchive/heritrix3/wiki) - An open source, extensible, web-scale, archival quality web crawler. *(Stable)*
+    *   [Heritrix Q\&A (⭐2.9k)](https://github.com/internetarchive/heritrix3/discussions/categories/q-a) - A discussion forum for asking questions and getting answers about using Heritrix.
     *   [Heritrix Walkthrough (⭐9)](https://github.com/web-archive-group/heritrix-walkthrough) *(In Development)*
 *   [WebMemex](https://github.com/WebMemex) - Browser extension for Firefox and Chrome which lets you archive web pages you visit. *(In Development)*
 
 ### Community Resources / Other Awesome Lists
 
-*   [Web Archiving Community (⭐20k)](https://github.com/pirate/ArchiveBox/wiki/Web-Archiving-Community)
-*   [Awesome Memento (⭐76)](https://github.com/machawk1/awesome-memento)
+*   [Web Archiving Community (⭐23k)](https://github.com/pirate/ArchiveBox/wiki/Web-Archiving-Community)
+*   [Awesome Memento (⭐94)](https://github.com/machawk1/awesome-memento)
 *   [The WARC Ecosystem](http://www.archiveteam.org/index.php?title=The_WARC_Ecosystem)
 *   [The Web Crawl section of COPTR](http://coptr.digipres.org/Category:Web_Crawl)
 
@@ -340,7 +340,7 @@
 
 ### National government datasets
 
-*   [European long-distance transport operators (EU) *(Unofficial)* (⭐49)](https://github.com/public-transport/european-transport-operators) - Unofficial list of available API endpoints, GTFS feeds and client libraries
+*   [European long-distance transport operators (EU) *(Unofficial)* (⭐50)](https://github.com/public-transport/european-transport-operators) - Unofficial list of available API endpoints, GTFS feeds and client libraries
 
 ### Proprietary (non-standard) vendor APIs
 
@@ -348,11 +348,11 @@
 
 ### GTFS Libraries / JavaScript
 
-*   [gtfs-utils (⭐35)](https://github.com/public-transport/gtfs-utils) – Utilities to process GTFS data sets (e.g., "flattening" `calendar.txt` & `calendar_dates.txt`, computing arrival/departure times of trips).
+*   [gtfs-utils (⭐40)](https://github.com/public-transport/gtfs-utils) – Utilities to process GTFS data sets (e.g., "flattening" `calendar.txt` & `calendar_dates.txt`, computing arrival/departure times of trips).
 
 ### GTFS Realtime Convertors / Ruby
 
-*   [hafas-gtfs-rt-feed (⭐16)](https://github.com/derhuerst/hafas-gtfs-rt-feed) – A Javascript tool to generate a GTFS Realtime feed from a HAFAS endpoint.
+*   [hafas-gtfs-rt-feed (⭐19)](https://github.com/derhuerst/hafas-gtfs-rt-feed) – A Javascript tool to generate a GTFS Realtime feed from a HAFAS endpoint.
 
 ## [28. Awesome Slack](/content/filipelinhares/awesome-slack/week/README.md)
 
@@ -368,13 +368,13 @@
 
 ### Web Servers
 
-*   [Falcon (⭐2.6k)](https://github.com/socketry/falcon) - A high-performance web server for Ruby, supporting HTTP/1, HTTP/2 and TLS.
+*   [Falcon (⭐2.7k)](https://github.com/socketry/falcon) - A high-performance web server for Ruby, supporting HTTP/1, HTTP/2 and TLS.
 
 ## [30. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
-*   [MiniGrad (⭐89)](https://github.com/kennysong/minigrad) – A minimal, educational, Pythonic implementation of autograd (\~100 loc).
+*   [MiniGrad (⭐94)](https://github.com/kennysong/minigrad) – A minimal, educational, Pythonic implementation of autograd (\~100 loc).
 
 ## [31. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
@@ -525,7 +525,7 @@
 
 ### Media / Audio
 
-*   [AssetsAudioPlayer (⭐742)](https://github.com/florent37/Flutter-AssetsAudioPlayer) <!--stargazers:florent37/Flutter-AssetsAudioPlayer-->  Simultaneous playback of audio from assets/network/file and displaying notifications \[android / ios / web / macos]
+*   [AssetsAudioPlayer (⭐757)](https://github.com/florent37/Flutter-AssetsAudioPlayer) <!--stargazers:florent37/Flutter-AssetsAudioPlayer-->  Simultaneous playback of audio from assets/network/file and displaying notifications \[android / ios / web / macos]
 
 ## [35. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
 
@@ -553,27 +553,27 @@
 
 ### Patterns
 
-*   [StateViewController (⭐308)](https://github.com/davidask/StateViewController) - Stateful UIVIewController composition — the MVC cure for Massive View Controllers.
+*   [StateViewController (⭐310)](https://github.com/davidask/StateViewController) - Stateful UIVIewController composition — the MVC cure for Massive View Controllers.
 
 ### Concurrency
 
-*   [Futures (⭐57)](https://github.com/davidask/Futures) :penguin: - Lightweight promises for iOS, macOS, tvOS, watchOS, and server-side.
+*   [Futures (⭐58)](https://github.com/davidask/Futures) :penguin: - Lightweight promises for iOS, macOS, tvOS, watchOS, and server-side.
 
 ### Other Data
 
-*   [CoreXLSX (⭐807)](https://github.com/CoreOffice/CoreXLSX) - Excel spreadsheet (XLSX) format support.
+*   [CoreXLSX (⭐829)](https://github.com/CoreOffice/CoreXLSX) - Excel spreadsheet (XLSX) format support.
 
 ### Auto Layout / Barcode
 
-*   [EasySwiftLayout (⭐350)](https://github.com/Pimine/EasySwiftLayout) - Lightweight Swift framework for Apple's Auto-Layout.
+*   [EasySwiftLayout (⭐349)](https://github.com/Pimine/EasySwiftLayout) - Lightweight Swift framework for Apple's Auto-Layout.
 
 ### UI / Barcode
 
-*   [UltraDrawerView (⭐226)](https://github.com/super-ultra/UltraDrawerView) - Lightweight, fast and customizable Drawer View implementation identical to Apple Maps, Stocks and etc.
+*   [UltraDrawerView (⭐234)](https://github.com/super-ultra/UltraDrawerView) - Lightweight, fast and customizable Drawer View implementation identical to Apple Maps, Stocks and etc.
 
 ### Payment / Barcode
 
-*   [AnimatedCardInput (⭐37)](https://github.com/netguru/AnimatedCardInput) - Customisable and easy to use Credit Card UI.
+*   [AnimatedCardInput (⭐38)](https://github.com/netguru/AnimatedCardInput) - Customisable and easy to use Credit Card UI.
 
 ## [39. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
 
@@ -591,21 +591,21 @@
 
 ### Plugins / Security
 
-*   [no-secrets (⭐127)](https://github.com/nickdeis/eslint-plugin-no-secrets) - An eslint plugin that detects potential secrets/credentials.
-*   [no-unsanitized (⭐223)](https://github.com/mozilla/eslint-plugin-no-unsanitized) - Checks for `innerHTML`, `outerHTML`, etc.
+*   [no-secrets (⭐135)](https://github.com/nickdeis/eslint-plugin-no-secrets) - An eslint plugin that detects potential secrets/credentials.
+*   [no-unsanitized (⭐230)](https://github.com/mozilla/eslint-plugin-no-unsanitized) - Checks for `innerHTML`, `outerHTML`, etc.
 *   ScanJS [config (⭐88)](https://github.com/mozfreddyb/eslint-config-scanjs) and [plugin (⭐28)](https://github.com/mozfreddyb/eslint-plugin-scanjs-rules) - Security-related rules.
 *   [Security (⭐2.2k)](https://github.com/nodesecurity/eslint-plugin-security) - ESLint rules for Node Security.
-*   [xss (⭐67)](https://github.com/Rantanen/eslint-plugin-xss) - Tries to detect XSS issues in codebase before they end up in production.
+*   [xss (⭐66)](https://github.com/Rantanen/eslint-plugin-xss) - Tries to detect XSS issues in codebase before they end up in production.
 
 ## [41. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Communication - Custom Communication Systems
 
-*   [MiAOU](https://miaou.dystroy.org/login) - Multi-room persistent chat server. ([Source Code (⭐539)](https://github.com/Canop/miaou)) `MIT` `Nodejs`
+*   [MiAOU](https://miaou.dystroy.org/login) - Multi-room persistent chat server. ([Source Code (⭐544)](https://github.com/Canop/miaou)) `MIT` `Nodejs`
 
 ### Software / Note-taking & Editors
 
-*   [Plainpad](https://alextselegidis.com/get/plainpad/) - A modern note taking application for the cloud, utilizing the best features of progressive web apps technology. ([Demo](https://alextselegidis.com/try/plainpad/), [Source Code (⭐267)](https://github.com/alextselegidis/plainpad)) `GPL-3.0` `PHP`
+*   [Plainpad](https://alextselegidis.com/get/plainpad/) - A modern note taking application for the cloud, utilizing the best features of progressive web apps technology. ([Demo](https://alextselegidis.com/try/plainpad/), [Source Code (⭐308)](https://github.com/alextselegidis/plainpad)) `GPL-3.0` `PHP`
 
 ## [42. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
@@ -629,7 +629,7 @@
 
 ### GitHub Tools and Management / Docker Container Actions
 
-*   [Sync Defined Files/Binaries to Wiki or External Repositories (⭐5)](https://github.com/kai-tub/external-repo-sync-action)
+*   [Sync Defined Files/Binaries to Wiki or External Repositories (⭐8)](https://github.com/kai-tub/external-repo-sync-action)
 
 ## [46. Awesome Powershell](/content/janikvonrotz/awesome-powershell/week/README.md)
 
@@ -671,7 +671,7 @@
 
 ### Contents / Entertainment
 
-*   [TV Randshow (⭐180)](https://github.com/deandreamatias/tv-randshow) - App to choose a random TV show episode by [deandreamatias](https://deandreamatias.com)
+*   [TV Randshow (⭐200)](https://github.com/deandreamatias/tv-randshow) - App to choose a random TV show episode by [deandreamatias](https://deandreamatias.com)
 
 ## [51. Awesome Tensorflow Js](/content/aaronhma/awesome-tensorflow-js/week/README.md)
 
@@ -704,14 +704,14 @@
 
 ### Apps
 
-*   [Feednext (⭐297)](https://github.com/feednext/feednext) - An open source social media application.
-*   [CourseLit (⭐512)](https://github.com/codelit/courselit) - An open source alternative to Thinkific, Teachable etc.
+*   [Feednext (⭐322)](https://github.com/feednext/feednext) - An open source social media application.
+*   [CourseLit (⭐705)](https://github.com/codelit/courselit) - An open source alternative to Thinkific, Teachable etc.
 
 ## [53. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Programming Languages
 
-*   [JavaScript (⭐33k)](https://github.com/sorrycc/awesome-javascript#readme)
+*   [JavaScript (⭐34k)](https://github.com/sorrycc/awesome-javascript#readme)
     *   [Promises (⭐1.6k)](https://github.com/wbinnssmith/awesome-promises#readme)
     *   [Standard Style (⭐392)](https://github.com/standard/awesome-standard#readme) - Style guide and linter.
     *   [Must Watch Talks (⭐13k)](https://github.com/bolshchikov/js-must-watch#readme)
@@ -719,29 +719,29 @@
     *   [Network Layer (⭐552)](https://github.com/Kikobeats/awesome-network-js#readme)
     *   [Micro npm Packages (⭐4.6k)](https://github.com/parro-it/awesome-micro-npm-packages#readme)
     *   [Mad Science npm Packages (⭐1.1k)](https://github.com/feross/awesome-mad-science#readme) - Impossible sounding projects that exist.
-    *   [Maintenance Modules (⭐351)](https://github.com/maxogden/maintenance-modules#readme) - For npm packages.
+    *   [Maintenance Modules (⭐352)](https://github.com/maxogden/maintenance-modules#readme) - For npm packages.
     *   [npm (⭐4.5k)](https://github.com/sindresorhus/awesome-npm#readme) - Package manager.
     *   [AVA (⭐347)](https://github.com/avajs/awesome-ava#readme) - Test runner.
-    *   [ESLint (⭐4.3k)](https://github.com/dustinspecker/awesome-eslint#readme) - Linter.
+    *   [ESLint (⭐4.4k)](https://github.com/dustinspecker/awesome-eslint#readme) - Linter.
     *   [Functional Programming (⭐6k)](https://github.com/stoeffel/awesome-fp-js#readme)
-    *   [Observables (⭐335)](https://github.com/sindresorhus/awesome-observables#readme)
-    *   [npm scripts (⭐721)](https://github.com/RyanZim/awesome-npm-scripts#readme) - Task runner.
-    *   [30 Seconds of Code (⭐121k)](https://github.com/30-seconds/30-seconds-of-code#readme) - Code snippets you can understand in 30 seconds.
-    *   [Ponyfills (⭐55)](https://github.com/Richienb/awesome-ponyfills#readme) - Like polyfills but without overriding native APIs.
+    *   [Observables (⭐339)](https://github.com/sindresorhus/awesome-observables#readme)
+    *   [npm scripts (⭐727)](https://github.com/RyanZim/awesome-npm-scripts#readme) - Task runner.
+    *   [30 Seconds of Code (⭐122k)](https://github.com/30-seconds/30-seconds-of-code#readme) - Code snippets you can understand in 30 seconds.
+    *   [Ponyfills (⭐56)](https://github.com/Richienb/awesome-ponyfills#readme) - Like polyfills but without overriding native APIs.
 
 ### Content Management Systems
 
-*   [Sitecore (⭐72)](https://github.com/MartinMiles/Awesome-Sitecore#readme) - .NET digital marketing platform that combines CMS with tools for managing multiple websites.
+*   [Sitecore (⭐73)](https://github.com/MartinMiles/Awesome-Sitecore#readme) - .NET digital marketing platform that combines CMS with tools for managing multiple websites.
 
 ## [54. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### 2D/3D Rendering engines / Others
 
-*   [GEmojiSharp.Blazor (⭐106)](https://github.com/hlaueriksson/GEmojiSharp) - ![last commit](https://img.shields.io/github/last-commit/hlaueriksson/GEmojiSharp?style=flat-square\&cacheSeconds=86400) GitHub Emoji for Blazor ([Demo](https://hlaueriksson.github.io/GEmojiSharp/)).
+*   [GEmojiSharp.Blazor (⭐124)](https://github.com/hlaueriksson/GEmojiSharp) - ![last commit](https://img.shields.io/github/last-commit/hlaueriksson/GEmojiSharp?style=flat-square\&cacheSeconds=86400) GitHub Emoji for Blazor ([Demo](https://hlaueriksson.github.io/GEmojiSharp/)).
 
 ### Others / Others
 
-*   [BlazorLazyLoading (⭐98)](https://github.com/isc30/blazor-lazy-loading) - ![GitHub stars](https://img.shields.io/github/stars/isc30/blazor-lazy-loading?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/isc30/blazor-lazy-loading?style=flat-square\&cacheSeconds=86400) Production ready lazy loading implementation. Full lazy loading support for WASM and Server (pages, components, dlls) with abstractions to implement modularization if you wish (custom endpoints, custom manifests, etc).
+*   [BlazorLazyLoading (⭐97)](https://github.com/isc30/blazor-lazy-loading) - ![GitHub stars](https://img.shields.io/github/stars/isc30/blazor-lazy-loading?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/isc30/blazor-lazy-loading?style=flat-square\&cacheSeconds=86400) Production ready lazy loading implementation. Full lazy loading support for WASM and Server (pages, components, dlls) with abstractions to implement modularization if you wish (custom endpoints, custom manifests, etc).
 
 ## [55. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
@@ -755,16 +755,6 @@
 ### Resources / Tutorials
 
 *   [MDN - Vue tutorials](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks#Vue_tutorials)
-
-### Components & Libraries / UI Components
-
-*   [vuesence-cloud-sync-button (⭐11)](https://github.com/altrusl/vuesence-cloud-sync-button) - Animated button which also serves as a cloud synchronization progress bar
-*   [vue-form-builder (⭐387)](https://github.com/openfext/vue-form-builder) - Build powerful vue form with JSON schema and composition api, popular ui frameworks such as Element UI, View UI, Ant Design Vue are supported. [Online Demo](https://openfext.github.io/vue-form-builder)
-*   [vue-card-stack (⭐77)](https://github.com/rodleviton/vue-card-stack) - Stackable, swipeable, tweakable Vue card component.
-
-### Components & Libraries / Utilities
-
-*   [vue-use (⭐26)](https://github.com/openfext/vue-use) - Use magic Vue Composition APIs to provide a lot of reusable logic, such as form, table and loading, etc.
 
 ## [57. Public Apis](/content/public-apis/public-apis/week/README.md)
 
@@ -847,7 +837,7 @@
 
 ### Tools / Testing
 
-*   [pytest-mypy-testing (⭐28)](https://github.com/davidfritzsche/pytest-mypy-testing) - Pytest plugin to test mypy static type analysis.
+*   [pytest-mypy-testing (⭐31)](https://github.com/davidfritzsche/pytest-mypy-testing) - Pytest plugin to test mypy static type analysis.
 
 ## [61. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
@@ -904,7 +894,7 @@
 
 ### Code Analysis and Metrics
 
-*   [linguist.cr (⭐8)](https://github.com/microgit-com/linguist.cr) - Using multiple ways to find programming language used in files, based on Github's Linguist
+*   [linguist.cr (⭐9)](https://github.com/microgit-com/linguist.cr) - Using multiple ways to find programming language used in files, based on Github's Linguist
 
 ### Misc
 
@@ -912,7 +902,7 @@
 
 ### Third-party APIs
 
-*   [stripe.cr (⭐48)](https://github.com/confact/stripe.cr) - Stripe api wrapper
+*   [stripe.cr (⭐49)](https://github.com/confact/stripe.cr) - Stripe api wrapper
 
 ## [64. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/week/README.md)
 
@@ -1247,11 +1237,11 @@ To attribute this awesome list (as restricted by the license) see [how to attrib
 
 ### Concurrency
 
-*   [stdgpu (⭐1.1k)](https://github.com/stotko/stdgpu) - Efficient STL-like Data Structures on the GPU. \[Apache2]
+*   [stdgpu (⭐1.2k)](https://github.com/stotko/stdgpu) - Efficient STL-like Data Structures on the GPU. \[Apache2]
 
 ### GUI
 
-*   [implot (⭐4.6k)](https://github.com/epezent/implot) - Immediate Mode Plotting widgets for imgui. \[MIT]
+*   [implot (⭐5k)](https://github.com/epezent/implot) - Immediate Mode Plotting widgets for imgui. \[MIT]
 
 ## [67. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/week/README.md)
 
@@ -1294,17 +1284,17 @@ To attribute this awesome list (as restricted by the license) see [how to attrib
 ### Analyzers / Meetups
 
 *   [Web.dev](https://web.dev/) - Get the web's modern capabilities on your own sites and apps with useful guidance and analysis from web.dev.
-*   [Confess (⭐875)](https://github.com/jamesgpearce/confess) - Uses PhantomJS to headlessly analyze web pages and generate manifests.
+*   [Confess (⭐872)](https://github.com/jamesgpearce/confess) - Uses PhantomJS to headlessly analyze web pages and generate manifests.
 *   [DebugBear](https://www.debugbear.com/) - DebugBear is a site monitoring tool based on Lighthouse. See how your scores and metrics changed over time, with a focus on understanding what caused each change. DebugBear is a paid product with a free 30-day trial.
 *   [Page Speed](https://developers.google.com/speed/pagespeed/) - The PageSpeed family of tools is designed to help you optimize the performance of your site. PageSpeed Insights products will help you identify performance best practices that can be applied to your site, and PageSpeed optimization tools can help you automate the process.
-*   [Lighthouse (⭐28k)](https://github.com/GoogleChrome/lighthouse) - Auditing and performance metrics tool for Progressive Web Applications.
+*   [Lighthouse (⭐29k)](https://github.com/GoogleChrome/lighthouse) - Auditing and performance metrics tool for Progressive Web Applications.
 *   [YSlow (⭐2.2k)](https://github.com/marcelduran/yslow) - YSlow analyzes web pages and suggests ways to improve their performance based on a set of rules for high-performance web pages.
 *   [YSlow for PhantomJS](http://yslow.org/phantomjs/) - YSlow for PhantomJS also introduces new output formats for automated test frameworks: TAP (Test Anything Protocol) and JUnit.
 *   [Grunt-WebPageTest (⭐35)](https://github.com/sideroad/grunt-wpt) - Grunt plugin for continuous measurement of WebPageTest. ([Demo](http://sideroad.github.io/sample-wpt-page/))
 *   [Grunt-yslow (⭐91)](https://github.com/andyshora/grunt-yslow) - Grunt task for testing page performance using PhantomJS, a headless WebKit browser.
-*   [Grunt-perfbudget (⭐858)](https://github.com/tkadlec/grunt-perfbudget) - A Grunt.js task for enforcing a performance budget ([more on performance budgets](https://timkadlec.com/2013/01/setting-a-performance-budget/)).
+*   [Grunt-perfbudget (⭐856)](https://github.com/tkadlec/grunt-perfbudget) - A Grunt.js task for enforcing a performance budget ([more on performance budgets](https://timkadlec.com/2013/01/setting-a-performance-budget/)).
 *   [Web Tracing Framework (⭐2.6k)](https://github.com/google/tracing-framework) - Web Tracing Framework is a set of libraries, tools, and visualizers for the tracing and investigation of complex web applications
-*   [Yandex.Tank (⭐2.4k)](https://github.com/yandex/yandex-tank) - An extensible open-source load testing tool for advanced Linux users which is especially good as a part of an automated load testing suite.
+*   [Yandex.Tank (⭐2.5k)](https://github.com/yandex/yandex-tank) - An extensible open-source load testing tool for advanced Linux users which is especially good as a part of an automated load testing suite.
 *   [Yellow Lab Tools](http://yellowlab.tools) - Online quick and easy tool that audits frontend bad practices, reveals performance issues, and profiles JavaScript.
 *   [Pagelocity](http://pagelocity.com/) - A web performance optimization and analysis tool.
 *   [Varvy](https://varvy.com/pagespeed/) - Test your site to see if it follows the Google guidelines for speed.
@@ -1319,10 +1309,10 @@ To attribute this awesome list (as restricted by the license) see [how to attrib
 
 ### Bundle Analyzer / Meetups
 
-*   [Bundlesize (⭐4.4k)](https://github.com/siddharthkp/bundlesize) - Keep your bundle size in check.
+*   [Bundlesize (⭐4.5k)](https://github.com/siddharthkp/bundlesize) - Keep your bundle size in check.
 *   [source-map-explorer (⭐3.8k)](https://github.com/danvk/source-map-explorer) - Analyze and debug bundle space usage through source maps.
 *   [Bundlephobia](https://bundlephobia.com/) - Helps you find the performance impact of adding an npm package to your frontend bundle.
-*   [Webpack bundle analyzer (⭐12k)](https://github.com/webpack-contrib/webpack-bundle-analyzer) - webpack plugin and CLI utility that represents bundle content as a convenient interactive zoomable treemap.
+*   [Webpack bundle analyzer (⭐13k)](https://github.com/webpack-contrib/webpack-bundle-analyzer) - webpack plugin and CLI utility that represents bundle content as a convenient interactive zoomable treemap.
 *   [Disc](http://hughsk.io/disc/) - Visualise the module tree of browserify project bundles and track down bloat.
 *   [Lasso-analyzer (⭐4)](https://github.com/ajay2507/lasso-analyzer) - analyze and Visualise project bundles created by Lasso.
 *   [Packtracker.io](https://packtracker.io) - Check your webpack bundle stats on every pull request, and track them over time.
@@ -1330,15 +1320,15 @@ To attribute this awesome list (as restricted by the license) see [how to attrib
 
 ### Benchmark - CSS / Meetups
 
-*   [CSS-perf (⭐572)](https://github.com/mdo/css-perf) - Completely unscientific way of testing CSS performance. Most of these tests will revolve around methodologies and techniques for determining effective CSS architecture. Put another way, I want to know what works best given a particular comparison of CSS strategies.
+*   [CSS-perf (⭐573)](https://github.com/mdo/css-perf) - Completely unscientific way of testing CSS performance. Most of these tests will revolve around methodologies and techniques for determining effective CSS architecture. Put another way, I want to know what works best given a particular comparison of CSS strategies.
 
 ### Benchmark - JavaScript / Meetups
 
 *   [Benchmark.js](http://benchmarkjs.com/) - A robust benchmarking library that works on nearly all JavaScript platforms, supports high-resolution timers, and returns statistically significant results.
-*   [JSlitmus (⭐168)](https://github.com/broofa/jslitmus) - JSLitmus is a lightweight tool for creating ad-hoc JavaScript benchmark tests.
-*   [Matcha (⭐560)](https://github.com/logicalparadox/matcha) - Matcha allows you to design experiments that will measure the performance of your code. It is recommended that each bench focus on a specific point of impact in your application.
+*   [JSlitmus (⭐166)](https://github.com/broofa/jslitmus) - JSLitmus is a lightweight tool for creating ad-hoc JavaScript benchmark tests.
+*   [Matcha (⭐563)](https://github.com/logicalparadox/matcha) - Matcha allows you to design experiments that will measure the performance of your code. It is recommended that each bench focus on a specific point of impact in your application.
 *   [Timing.js (⭐1.5k)](https://github.com/addyosmani/timing.js) - Timing.js is a small set of helpers for working with the Navigation Timing API to identify where your application is spending its time. Useful as a standalone script, DevTools Snippet, or bookmarklet.
-*   [Stats.js (⭐8.6k)](https://github.com/mrdoob/stats.js) - This class provides a simple info box that will help you monitor your code performance.
+*   [Stats.js (⭐8.8k)](https://github.com/mrdoob/stats.js) - This class provides a simple info box that will help you monitor your code performance.
 *   [PerfTests (⭐1)](https://github.com/kogarashisan/PerfTests) - Performance tests of JavaScript inheritance models.
 *   [Memory-stats.js (⭐2.1k)](https://github.com/paulirish/memory-stats.js) - minimal monitor for JS Heap Size via performance memory.
 
@@ -1351,14 +1341,14 @@ To attribute this awesome list (as restricted by the license) see [how to attrib
 
 *   [Yahoo YSlow for Mobile/Bookmarklet](https://developer.yahoo.com/yslow/) - YSlow analyzes web pages and suggests ways to improve their performance based on a set of rules for high-performance web pages.
 *   [PerfMap (⭐3.8k)](https://github.com/zeman/perfmap) - A bookmarklet to create a frontend performance heatmap of resources loaded in the browser using the Resource Timing API.
-*   [DOM Monster (⭐563)](https://github.com/madrobby/dom-monster) - A cross-platform, cross-browser bookmarklet that will analyze the DOM & other features of the page you're on, and give you its bill of health.
+*   [DOM Monster (⭐559)](https://github.com/madrobby/dom-monster) - A cross-platform, cross-browser bookmarklet that will analyze the DOM & other features of the page you're on, and give you its bill of health.
 *   [CSS Stress](http://andy.edinborough.org/CSS-Stress-Testing-and-Performance-Profiling) - CSS Stress is a Testing and Performance Profiling.
 *   [Performance-Bookmarklet (⭐1.1k)](https://github.com/micmro/performance-bookmarklet) - Analyze the current page through the Resource Timing API, Navigation Timing API and User-Timing - Sort of a light live WebPageTest. As [Chrome Extension](https://chrome.google.com/webstore/detail/performance-analyser/djgfmlohefpomchfabngccpbaflcahjf?hl=en) and [Firefox Add-on](https://addons.mozilla.org/en-us/firefox/addon/performance-analyser/?src=cb-dl-created) under the name Performance-Analyser.
 
 ### CDN / Meetups
 
 *   [PageCDN](https://pagecdn.com/lib) - A state-of-the-art opensource CDN with aggressive content optimization using brotli-11 compression, HTTP/2 server push, better HTTP/2 multiplexing, and more. Supports 100s of libraries and 2000+ WordPress themes already. Easy to use, easy to link, and very fast.
-*   [jsDelivr (⭐5.4k)](https://github.com/jsdelivr/jsdelivr) - Similar to Google Hosted Libraries, jsDelivr is an open-source CDN that allows developers to host their own projects and anyone to link to our hosted files on their sites.
+*   [jsDelivr (⭐5.7k)](https://github.com/jsdelivr/jsdelivr) - Similar to Google Hosted Libraries, jsDelivr is an open-source CDN that allows developers to host their own projects and anyone to link to our hosted files on their sites.
 *   [Google Hosted Libraries](https://developers.google.com/speed/libraries/) - Google Hosted Libraries is a content distribution network for the most popular, open-source JavaScript libraries.
 *   [CDNjs](https://cdnjs.com/) - An open-source CDN for JavaScript and CSS sponsored by CloudFlare that hosts everything from jQuery and Modernizr to Bootstrap.
 *   [jQuery](http://code.jquery.com/) - jQuery CDN – Latest Stable Versions, powered by MaxCDN.
@@ -1372,7 +1362,7 @@ To attribute this awesome list (as restricted by the license) see [how to attrib
 
 ### CDN - Utilities / Meetups
 
-*   [Gulp-google-cdn (⭐81)](https://github.com/sindresorhus/gulp-google-cdn) - Replaces script references with Google CDN ones.
+*   [Gulp-google-cdn (⭐82)](https://github.com/sindresorhus/gulp-google-cdn) - Replaces script references with Google CDN ones.
 
 ### Extensions / Meetups
 
@@ -1380,55 +1370,55 @@ To attribute this awesome list (as restricted by the license) see [how to attrib
 
 ### Generators / Meetups
 
-*   [Glue (⭐2.6k)](https://github.com/jorgebastida/glue) - Glue is a simple command-line tool to generate sprites:
+*   [Glue (⭐2.5k)](https://github.com/jorgebastida/glue) - Glue is a simple command-line tool to generate sprites:
 *   [Pitomba-spriter (⭐19)](https://github.com/pitomba/spriter) - Spriter is a simple and flexible dynamic sprite generator for CSS, using Python. It can process CSS both synchronous and asynchronous as it provides classes to be used in your Python code and also a watcher that listens to your filesystem and changes CSS and sprite as soon as a static is changed.
 *   [Grunt-spritesmith (⭐1.1k)](https://github.com/Ensighten/grunt-spritesmith) - Grunt task for converting a set of images into a sprite sheet and corresponding CSS variables.
 *   [Grunt-sprite-css-replace](https://www.npmjs.com/package/grunt-sprite-css-replace) - Grunt task that generates a sprite from images referenced in a style sheet and then updates the references with the new sprite image and positions.
 *   [Grunt-svg-sprite](https://www.npmjs.com/package/grunt-svg-sprite) - SVG sprites & stacks galore — Grunt plugin wrapping around svg-sprite that reads in a bunch of SVG files, optimizes them and creates SVG sprites and CSS resources in various flavors.
 *   [Gulp-sprite (⭐15)](https://github.com/aslansky/gulp-sprite) - gulp task for creating an image sprite and the corresponding style sheets for Gulp.
-*   [Gulp-svg-sprites (⭐333)](https://github.com/shakyShane/gulp-svg-sprites) - gulp task for creating SVG sprites.
+*   [Gulp-svg-sprites (⭐334)](https://github.com/shakyShane/gulp-svg-sprites) - gulp task for creating SVG sprites.
 *   [SvgToCSS (⭐2)](https://github.com/kajyr/SvgToCSS) - Optimizes and renders SVG files in CSS / Sass sprites.
 *   [Assetgraph-sprite (⭐36)](https://github.com/assetgraph/assetgraph-sprite) - Assetgraph transform for auto-generating sprites based on the CSS dependency graph.
 *   [Sprite Cow](http://www.spritecow.com/) - Sprite Cow helps you get the background-position, width, and height of sprites within a spritesheet as a nice bit of copyable CSS.
 *   [ZeroSprites](http://zerosprites.com/) - ZeroSprites is a CSS sprites generator aimed at area minimization using algorithms used in the field of VLSI floorplanning.
 *   [CSS Sprite Generator](http://css.spritegen.com/) - CSS sprites allow you to combine multiple images into a single file.
 *   [Sprity (⭐481)](https://github.com/sprity/sprity) - A modular image sprite generator with a lot of features: supports retina sprites, supports different output formats, generates sprites and proper style files out of a directory of images, etc...
-*   [Sprite Factory (⭐623)](https://github.com/jakesgordon/sprite-factory) - The sprite factory is a ruby library that can be used to generate CSS sprites. It combines individual image files from a directory into a single unified sprite image and creates an appropriate CSS style sheet for use in your web application.
+*   [Sprite Factory (⭐621)](https://github.com/jakesgordon/sprite-factory) - The sprite factory is a ruby library that can be used to generate CSS sprites. It combines individual image files from a directory into a single unified sprite image and creates an appropriate CSS style sheet for use in your web application.
 
 ### Image Optimizers / Meetups
 
-*   [Grunt-smushit (⭐84)](https://github.com/heldr/grunt-smushit) - Grunt plugin to remove unnecessary bytes of PNG and JPG using Yahoo Smushit.
+*   [Grunt-smushit (⭐83)](https://github.com/heldr/grunt-smushit) - Grunt plugin to remove unnecessary bytes of PNG and JPG using Yahoo Smushit.
 *   [Gulp-smushit (⭐33)](https://github.com/heldr/gulp-smushit) - Gulp plugin to optimize PNG and JPG using Yahoo Smushit. Made on top of smosh.
 *   [Smush it](http://www.imgopt.com/) - Smush it uses optimization techniques specific to image format to remove unnecessary bytes from image files. It is a "lossless" tool, which means it optimizes the images without changing their look or visual quality.
-*   [Imagemin (⭐5.5k)](https://github.com/imagemin/imagemin) - Minify images seamlessly with Node.js.
-*   [Sharp (⭐28k)](https://github.com/lovell/sharp) - The typical use case for this high-speed Node.js module is to convert large images of many formats to smaller, web-friendly JPEG, PNG, and WebP images of varying dimensions.
-*   [Gm (⭐6.9k)](https://github.com/aheckmann/gm) - GraphicsMagick and ImageMagick for Node.js.
-*   [Exexif (⭐12k)](https://github.com/h4cc/awesome-elixir) - Pure elixir library to extract tiff and exif metadata from JPEG files.
+*   [Imagemin (⭐5.6k)](https://github.com/imagemin/imagemin) - Minify images seamlessly with Node.js.
+*   [Sharp (⭐30k)](https://github.com/lovell/sharp) - The typical use case for this high-speed Node.js module is to convert large images of many formats to smaller, web-friendly JPEG, PNG, and WebP images of varying dimensions.
+*   [Gm (⭐7k)](https://github.com/aheckmann/gm) - GraphicsMagick and ImageMagick for Node.js.
+*   [Exexif (⭐13k)](https://github.com/h4cc/awesome-elixir) - Pure elixir library to extract tiff and exif metadata from JPEG files.
 *   [ExifCleaner](https://exifcleaner.com) - GUI app to remove EXIF metadata from images and video files with drag and drop. Free and open source.
 *   [OptiPNG](http://optipng.sourceforge.net/) - OptiPNG is a PNG optimizer that recompresses image files to a smaller size, without losing any information.
 *   [Grunt-contrib-imagemin (⭐1.2k)](https://github.com/gruntjs/grunt-contrib-imagemin) - Minify PNG and JPEG images for Grunt.
 *   [Gulp-imagemin (⭐1.9k)](https://github.com/sindresorhus/gulp-imagemin) - Minify PNG, JPEG, GIF and SVG images with imagemin for Gulp.
 *   [Grunt-WebP (⭐118)](https://github.com/somerandomdude/grunt-webp) - Convert your images to WebP format.
-*   [Gulp-WebP (⭐215)](https://github.com/sindresorhus/gulp-webp) - Convert images to WebP for Gulp.
+*   [Gulp-WebP (⭐221)](https://github.com/sindresorhus/gulp-webp) - Convert images to WebP for Gulp.
 *   [Imageoptim](https://imageoptim.com/) - Free app that makes images take up less disk space and load faster, without sacrificing quality. It optimizes compression parameters, and removes junk metadata and unnecessary color profiles.
-*   [Grunt-imageoptim (⭐478)](https://github.com/JamieMason/grunt-imageoptim) - Make ImageOptim, ImageAlpha, and JPEGmini part of your automated build process.
-*   [ImageOptim-CLI (⭐3.4k)](https://github.com/JamieMason/ImageOptim-CLI) - Automates ImageOptim, ImageAlpha, and JPEGmini for Mac to make batch optimization of images part of your automated build process.
+*   [Grunt-imageoptim (⭐479)](https://github.com/JamieMason/grunt-imageoptim) - Make ImageOptim, ImageAlpha, and JPEGmini part of your automated build process.
+*   [ImageOptim-CLI (⭐3.5k)](https://github.com/JamieMason/ImageOptim-CLI) - Automates ImageOptim, ImageAlpha, and JPEGmini for Mac to make batch optimization of images part of your automated build process.
 *   [Tinypng](https://tinypng.com/) - Advanced lossy compression for PNG images that preserves full alpha transparency.
 *   [Kraken Web-interface](https://kraken.io/web-interface) - Optimize your images and will be available for download for 12 hours.
 *   [Compressor](https://compressor.io/) - Online image compressor for JPG, PNG, SVG and GIF.
 *   [Shrinkray](https://shrinkray.io) - One-click optimization for images in your GitHub repos
-*   [mozjpeg (⭐5.4k)](https://github.com/mozilla/mozjpeg) - Improved JPEG encoder.
-*   [Jpegoptim (⭐1.5k)](https://github.com/tjko/jpegoptim) - Utility to optimize/compress JPEG files.
-*   [ZopfliPNG (⭐3.4k)](https://github.com/google/zopfli) - A command-line program to optimize PNG images.
+*   [mozjpeg (⭐5.5k)](https://github.com/mozilla/mozjpeg) - Improved JPEG encoder.
+*   [Jpegoptim (⭐1.6k)](https://github.com/tjko/jpegoptim) - Utility to optimize/compress JPEG files.
+*   [ZopfliPNG (⭐3.5k)](https://github.com/google/zopfli) - A command-line program to optimize PNG images.
 *   [AdvPNG](http://www.advancemame.it/doc-advpng.html) - Recompress PNG files to get the smallest possible size.
-*   [Leanify (⭐813)](https://github.com/JayXon/Leanify) - Lightweight lossless file minifier/optimizer.
+*   [Leanify (⭐838)](https://github.com/JayXon/Leanify) - Lightweight lossless file minifier/optimizer.
 *   [Trimage](http://trimage.org/) - A cross-platform tool for losslessly optimizing PNG and JPG files.
 *   [ImageEngine](https://imageengine.io) - Cloud service for optimizing, resizing and caching images on the fly with great mobile support.
 
 ### Lazyloaders / Meetups
 
-*   [lazyload (⭐938)](https://github.com/vvo/lazyload) - Lazyload images, iframes, widgets with a standalone JavaScript lazyloader \~1kb
-*   [lozad.js (⭐7.4k)](https://github.com/ApoorvSaxena/lozad.js) - Highly performant, light \~0.9kb, and configurable lazy loader in pure JS with no dependencies for responsive images, iframes, and more
+*   [lazyload (⭐937)](https://github.com/vvo/lazyload) - Lazyload images, iframes, widgets with a standalone JavaScript lazyloader \~1kb
+*   [lozad.js (⭐7.5k)](https://github.com/ApoorvSaxena/lozad.js) - Highly performant, light \~0.9kb, and configurable lazy loader in pure JS with no dependencies for responsive images, iframes, and more
 
 ### Loaders / Meetups
 
@@ -1437,21 +1427,21 @@ To attribute this awesome list (as restricted by the license) see [how to attrib
 *   [Labjs](http://labjs.com/) - is an open-source (MIT license) project supported by Getify Solutions. The core purpose of LABjs is to be an all-purpose, on-demand JavaScript loader, capable of loading any JavaScript resource, from any location, into any page, at any time.
 *   [Defer.js (⭐69)](https://github.com/wessman/defer.js) - Async Everything: Make the meat of your pages load faster with this JS morsel.
 *   [InstantClick (⭐5.5k)](https://github.com/dieulot/instantclick) - InstantClick makes the following links in your site instant.
-*   [JIT (⭐508)](https://github.com/shootaroo/jit-grunt) - A JIT (Just In Time) plugin loader for Grunt. The load time of Grunt does not slow down even if there are many plugins.
+*   [JIT (⭐509)](https://github.com/shootaroo/jit-grunt) - A JIT (Just In Time) plugin loader for Grunt. The load time of Grunt does not slow down even if there are many plugins.
 
 ### Metrics Monitor / Meetups
 
 *   [Phantomas (⭐2.3k)](https://github.com/macbre/phantomas) - PhantomJS-based web performance metrics collector and monitoring tool.
 *   [Showslow](http://www.showslow.com/) - open source tool that helps monitor various site performance metrics over time. It captures the results of YSlow, Page Speed Insights, WebPageTest and dynaTrace Ajax Edition.
 *   [Bench (⭐25)](https://github.com/jmervine/bench) - Using Phantomas (a PhantomJS-backed client performance metrics scrapper). Benchmark a page, store results in MongoDB, and display results via the built-in server.
-*   [Keepfast (⭐103)](https://github.com/keepfast/keepfast) - Tool to monitor indicators related to the performance of a web page.
+*   [Keepfast (⭐104)](https://github.com/keepfast/keepfast) - Tool to monitor indicators related to the performance of a web page.
 *   [GTmetrix](https://gtmetrix.com/) - GTmetrix uses Google Page Speed and Yahoo! YSlow to grade your site's performance and provides actionable recommendations to fix these issues.
 *   [Pingbreak.com](https://pingbreak.com/) - Free site and SSL Monitoring with response time alerting (on Slack, Twitter, Mattermost, Discord or custom Webhook).
 *   [Pingdom site Speed Test](http://tools.pingdom.com/fpt/) - Test the load time of that page, analyze it, and find bottlenecks.
 *   [Dotcom-tools](https://www.dotcom-tools.com/website-speed-test.aspx) - analyze your website's speed in real browsers from 20 locations worldwide.
 *   [WebPageTest](http://www.webpagetest.org/) - Run a free site speed test from multiple locations around the globe using real browsers (IE and Chrome) and at real consumer connection speeds. You can run simple tests or perform advanced testing including multi-step transactions, video capture, content blocking and much more. Your results will provide rich diagnostic information including resource-loading waterfall charts, Page Speed optimization checks and suggestions for improvements.
 *   [Sitespeed.io](https://www.sitespeed.io/documentation/) - Sitespeed.io is an open-source tool that will check your site against web performance best practice rules and use the Navigation Timing API to collect metrics. It will create XML & HTML output of the result.
-*   [Grunt-phantomas (⭐285)](https://github.com/stefanjudis/grunt-phantomas) - Grunt plugin wrapping phantomas to measure frontend performance.
+*   [Grunt-phantomas (⭐284)](https://github.com/stefanjudis/grunt-phantomas) - Grunt plugin wrapping phantomas to measure frontend performance.
 *   [Perfjankie](https://www.npmjs.com/package/perfjankie) - Runtime Browser Performance regression suite ([Demo (⭐0)](https://github.com/asciidisco/perfjankie-test)).
 *   [BrowserView Monitoring](https://www.dotcom-monitor.com/website-monitor/website-speed-monitoring/) - Continually checks web page load times in Internet Explorer, Chrome and Firefox from multiple points around the world.
 *   [New Relic Browser Monitoring](http://newrelic.com/browser-monitoring) - Monitor your browser-side applications in real time, with a focus on real end users’ experiences.
@@ -1463,29 +1453,29 @@ To attribute this awesome list (as restricted by the license) see [how to attrib
 
 ### Minifiers - HTML / Meetups
 
-*   [Django-htmlmin (⭐541)](https://github.com/cobrateam/django-htmlmin) - django-html in an HTML minifier for Python with full support for HTML 5. It supports Django, Flask and any other Python web framework. It also provides a command-line tool that can be used for static sites or deployment scripts.
-*   [HTMLMinifier (⭐4.9k)](https://github.com/kangax/html-minifier) - HTMLMinifier is a highly configurable, well-tested, Javascript-based HTML minifier, with lint-like capabilities.
-*   [Grunt-contrib-htmlmin (⭐427)](https://github.com/gruntjs/grunt-contrib-htmlmin) - A grunt plugin to minify HTML that uses HTMLMinifier.
-*   [Gulp-htmlmin (⭐727)](https://github.com/jonschlinkert/gulp-htmlmin) - A gulp plugin to minify HTML that uses HTMLMinifier.
+*   [Django-htmlmin (⭐542)](https://github.com/cobrateam/django-htmlmin) - django-html in an HTML minifier for Python with full support for HTML 5. It supports Django, Flask and any other Python web framework. It also provides a command-line tool that can be used for static sites or deployment scripts.
+*   [HTMLMinifier (⭐5k)](https://github.com/kangax/html-minifier) - HTMLMinifier is a highly configurable, well-tested, Javascript-based HTML minifier, with lint-like capabilities.
+*   [Grunt-contrib-htmlmin (⭐424)](https://github.com/gruntjs/grunt-contrib-htmlmin) - A grunt plugin to minify HTML that uses HTMLMinifier.
+*   [Gulp-htmlmin (⭐725)](https://github.com/jonschlinkert/gulp-htmlmin) - A gulp plugin to minify HTML that uses HTMLMinifier.
 *   [Grunt-htmlcompressor (⭐35)](https://github.com/jney/grunt-htmlcompressor) - Grunt plugin for HTML compression, using htmlcompressor.
-*   [HTML\_minifier (⭐11)](https://github.com/stereobooster/html_minifier) - Ruby wrapper for kangax html-minifier.
+*   [HTML\_minifier (⭐12)](https://github.com/stereobooster/html_minifier) - Ruby wrapper for kangax html-minifier.
 *   [HTML\_press (⭐35)](https://github.com/stereobooster/html_press) - Ruby gem for compressing html, that removes all whitespace junk, and leaves only HTML.
-*   [Koa HTML Minifier (⭐30)](https://github.com/koajs/html-minifier) - Middleware that minifies your HTML responses using html-minifier. It uses html-minifier's default options which are all turned off by default, so you have to set the options otherwise it's not going to do anything.
+*   [Koa HTML Minifier (⭐32)](https://github.com/koajs/html-minifier) - Middleware that minifies your HTML responses using html-minifier. It uses html-minifier's default options which are all turned off by default, so you have to set the options otherwise it's not going to do anything.
 *   [HTML Minifier Online](http://kangax.github.io/html-minifier/) - A HTML min tool by kangax (HTMLMinifier Creator).
-*   [Html-minifier (⭐133)](https://github.com/deanhume/html-minifier) - A simple Windows command-line tool to minify your HTML, Razor views & Web Forms views
+*   [Html-minifier (⭐132)](https://github.com/deanhume/html-minifier) - A simple Windows command-line tool to minify your HTML, Razor views & Web Forms views
 
 ### Minifiers - JS & CSS / Meetups
 
 *   [YUI Compressor (⭐3k)](https://github.com/yui/yuicompressor) - JavaScript compressor which, in addition to removing comments and white-spaces, obfuscates local variables using the smallest possible variable name. This obfuscation is safe, even when using constructs such as 'eval' or 'with' (although the compression is not optimal is those cases) Compared to jsmin, the average savings is around 20%.
 *   [UglifyJS2 (⭐13k)](https://github.com/mishoo/UglifyJS2) - UglifyJS is a JavaScript parser, minifier, compressor or beautifier toolkit, written in JavaScript.
-*   [CSSO (⭐3.7k)](https://github.com/css/csso) - CSS minimizer unlike others. In addition to usual minification techniques, it can perform structural optimization of CSS files, resulting in smaller file size compared to other minifiers.
+*   [CSSO (⭐3.8k)](https://github.com/css/csso) - CSS minimizer unlike others. In addition to usual minification techniques, it can perform structural optimization of CSS files, resulting in smaller file size compared to other minifiers.
 *   [CSSmin.js (⭐76)](https://github.com/stoyan/yuicompressor/blob/master/ports/js/cssmin.js) - cssmin.js is a JavaScript port of YUICompressor's CSS minifier.
-*   [Grunt-contrib-concat (⭐809)](https://github.com/gruntjs/grunt-contrib-concat) - A Grunt plugin to concatenate files.
+*   [Grunt-contrib-concat (⭐812)](https://github.com/gruntjs/grunt-contrib-concat) - A Grunt plugin to concatenate files.
 *   [Grunt-contrib-uglify (⭐1.5k)](https://github.com/gruntjs/grunt-contrib-uglify) - A Grunt plugin to concatenate and minify JavaScript files.
-*   [Clean-css (⭐4.1k)](https://github.com/jakubpawlowicz/clean-css) - A fast, efficient, and well-tested CSS minifier for node.js.
+*   [Clean-css (⭐4.2k)](https://github.com/jakubpawlowicz/clean-css) - A fast, efficient, and well-tested CSS minifier for node.js.
 *   [Django-compressor (⭐2.8k)](https://github.com/django-compressor/django-compressor) - Compresses linked and inline JavaScript or CSS into a single cached file.
 *   [Django-pipeline (⭐1.5k)](https://github.com/cyberdelia/django-pipeline) - Pipeline is an asset packaging library for Django, providing both CSS and JavaScript concatenation and compression, built-in JavaScript template support, and optional data-URI image and font embedding.
-*   [JShrink (⭐748)](https://github.com/tedious/JShrink) - JShrink is a PHP class that minifies JavaScript so that it can be delivered to the client quicker.
+*   [JShrink (⭐752)](https://github.com/tedious/JShrink) - JShrink is a PHP class that minifies JavaScript so that it can be delivered to the client quicker.
 *   [JSCompress](http://jscompress.com/) - The most minimalistic online JS Compress tool.
 *   [CSSshrink (⭐1.1k)](https://github.com/stoyan/cssshrink) - Because CSS is ospon the critical path to rendering pages. It must be small! Or else!
 *   [Grunt-cssshrink (⭐28)](https://github.com/JohnCashmore/grunt-cssshrink) - This is just a grunt wrapper for CSS Shrink.
@@ -1493,7 +1483,7 @@ To attribute this awesome list (as restricted by the license) see [how to attrib
 *   [Prettyugly (⭐6)](https://github.com/stoyan/prettyugly) - Uglify (strip spaces) or prettify (add consistent spaces) CSS code.
 *   [Grunt-contrib-cssmin (⭐795)](https://github.com/gruntjs/grunt-contrib-cssmin) - CSS Minifier for Grunt.
 *   [Grunt-uncss (⭐3.8k)](https://github.com/addyosmani/grunt-uncss) - A grunt task for removing unused CSS from your projects.
-*   [Gulp-uncss (⭐942)](https://github.com/ben-eb/gulp-uncss) - A gulp task for removing unused CSS from your projects.
+*   [Gulp-uncss (⭐938)](https://github.com/ben-eb/gulp-uncss) - A gulp task for removing unused CSS from your projects.
 
 ### Miscellaneous / Meetups
 
@@ -1502,42 +1492,42 @@ To attribute this awesome list (as restricted by the license) see [how to attrib
 *   [HTTPinvoke (⭐343)](https://github.com/jakutis/httpinvoke)- A no-dependencies HTTP client library for browsers and Node.js with a promise-based or Node.js-style callback-based API to progress events, text, and binary file upload and download, partial response body, request and response headers, status code.
 *   [Critical (⭐10k)](https://github.com/addyosmani/critical) - Extract & Inline Critical-path CSS in HTML pages (alpha).
 *   [Csscolormin (⭐12)](https://github.com/stoyan/csscolormin) - Utility that minifies CSS colors, example: min("white"); // minifies to "#fff".
-*   [Lazysizes (⭐17k)](https://github.com/aFarkas/lazysizes) - High-performance lazy loader for images (responsive and normal), iframes, and scripts, that detects any visibility changes triggered through user interaction, CSS or JavaScript without configuration.
+*   [Lazysizes (⭐18k)](https://github.com/aFarkas/lazysizes) - High-performance lazy loader for images (responsive and normal), iframes, and scripts, that detects any visibility changes triggered through user interaction, CSS or JavaScript without configuration.
 *   [Perf-Tooling](http://perf-tooling.today/) - Perf Tooling is a shared resource to keep track of new and existing performance tools.
 *   [TMI (⭐1.6k)](https://github.com/addyosmani/tmi) - TMI (Too Many Images) - discover your image weight on the web.
 
 ### SVG / Meetups
 
-*   [SVGO (⭐20k)](https://github.com/svg/svgo) - SVGO is a Nodejs-based tool for optimizing SVG vector graphics files.
+*   [SVGO (⭐21k)](https://github.com/svg/svgo) - SVGO is a Nodejs-based tool for optimizing SVG vector graphics files.
 *   [SVG OMG](https://jakearchibald.github.io/svgomg/) - SVGOMG is SVGO's Missing GUI, aiming to expose the majority, if not all the configuration options of SVGO.
-*   [Grunt-svgmin (⭐432)](https://github.com/sindresorhus/grunt-svgmin) - Minify SVG using SVGO for Grunt.
+*   [Grunt-svgmin (⭐433)](https://github.com/sindresorhus/grunt-svgmin) - Minify SVG using SVGO for Grunt.
 *   [Gulp-svgmin](https://www.npmjs.com/package/gulp-svgmin) - Minify SVG with SVGO for Gulp.
 *   [Scour](http://www.codedread.com/scour/) - Scour is an open-source Python script that aggressively cleans SVG files, removing a lot of 'cruft' that certain tools or authors embed into their documents.
 *   [SVG Cleaner (⭐1.6k)](https://github.com/RazrFalcon/SVGCleaner) - SVG Cleaner could help you to clean up your SVG files from unnecessary data. It has a lot of options for cleanup and optimization, works in batch mode, and provides threaded processing on multicore processors.
 
 ### Web Components / Meetups
 
-*   [Polymer Bundler (⭐427)](https://github.com/Polymer/tools/tree/master/packages/bundler) - Polymer-bundler is a library for packaging project assets for production to minimize network round-trips.
+*   [Polymer Bundler (⭐431)](https://github.com/Polymer/tools/tree/master/packages/bundler) - Polymer-bundler is a library for packaging project assets for production to minimize network round-trips.
 *   [Gulp-vulcanize (⭐100)](https://github.com/sindresorhus/gulp-vulcanize) - Concatenate a set of Web Components into one file that use Vulcanize.
 
 ### Web server Benchmarks / Meetups
 
-*   [HTTPerf (⭐971)](https://github.com/httperf/httperf) - httperf is a tool for measuring web server performance. It provides a flexible facility for generating various HTTP workloads and for measuring server performance.
+*   [HTTPerf (⭐993)](https://github.com/httperf/httperf) - httperf is a tool for measuring web server performance. It provides a flexible facility for generating various HTTP workloads and for measuring server performance.
 *   [Apache JMeter](http://jmeter.apache.org/download_jmeter.cgi) - Open source load testing tool: It is a Java platform application.
 *   [Locust](http://locust.io) - An open-source load testing tool. Define user behaviour with Python code, and swarm your system with millions of simultaneous users.
-*   [Autoperf (⭐179)](https://github.com/igrigorik/autoperf) - Autoperf is a ruby driver for httperf, designed to help you automate load and performance testing of any web application - for a single endpoint, or through log replay.
+*   [Autoperf (⭐178)](https://github.com/igrigorik/autoperf) - Autoperf is a ruby driver for httperf, designed to help you automate load and performance testing of any web application - for a single endpoint, or through log replay.
 *   [HTTPerf.rb (⭐13)](https://github.com/jmervine/httperfrb) - Simple Ruby interface for httperf, written in Ruby.
 *   [PHP-httperf (⭐5)](https://github.com/jmervine/php-httperf) - PHP Port of HTTPerf.rb.
 *   [HTTPerf.js (⭐25)](https://github.com/jmervine/httperfjs) - JS Port of HTTPerf.rb.
 *   [HTTPerf.py (⭐11)](https://github.com/jmervine/httperfpy) - Python Port of HTTPerf.rb.
-*   [Gohttperf (⭐5)](https://github.com/jmervine/gohttperf) - Go Port of HTTPerf.rb.
-*   [beeswithmachineguns (⭐6.4k)](https://github.com/newsapps/beeswithmachineguns) - A utility for arming (creating) many bees (micro EC2 instances) to attack (load test) targets (web applications).
+*   [Gohttperf (⭐4)](https://github.com/jmervine/gohttperf) - Go Port of HTTPerf.rb.
+*   [beeswithmachineguns (⭐6.5k)](https://github.com/newsapps/beeswithmachineguns) - A utility for arming (creating) many bees (micro EC2 instances) to attack (load test) targets (web applications).
 *   [k6](https://k6.io/) - An open-source load testing tool built for developers. Easy to integrate into CI pipelines. Tests are written in ES6 JS and you can test APIs, microservices and sites using HTTP/1.1, HTTP/2 and WebSocket.
 
 ### Web server Modules / Meetups
 
 *   [PageSpeed Module](https://developers.google.com/speed/pagespeed/module/download) - PageSpeed speeds up your site and reduces page load time. This open-source web server module automatically applies web performance best practices to pages and associated assets (CSS, JavaScript, images) without requiring that you modify your existing content or workflow. PageSpeed is available as a module for Apache 2.x and Nginx 1.x.
-*   [WebP-detect (⭐242)](https://github.com/igrigorik/webp-detect) - WebP with Accept negotiation.
+*   [WebP-detect (⭐244)](https://github.com/igrigorik/webp-detect) - WebP with Accept negotiation.
 *   [Web Performance Working Group](http://www.w3.org/2010/webperf/) - The mission of the Web Performance Working Group, part of the Rich Web Client Activity, is to provide methods to measure aspects of application performance of user agent features and APIs.
 *   [Page Visibility](http://www.w3.org/TR/page-visibility/) - This specification defines a means for site developers to programmatically determine the current visibility state of the page in order to develop power and CPU-efficient web applications.
 *   [Navigation Timing](https://w3c.github.io/navigation-timing/) - This specification defines a unified interface to store and retrieve high resolution performance metric data related to the navigation of a document.
@@ -1547,9 +1537,9 @@ To attribute this awesome list (as restricted by the license) see [how to attrib
 *   [CSS will-change](https://drafts.csswg.org/css-will-change/) - This specification defines the `will-change` CSS property which allows an author to declare ahead-of-time what properties are likely to change in the future, so the UA can set up the appropriate optimizations some time before they’re needed. This way, when the actual change happens, the page updates in a snappy manner.
 *   [Resource Hints](http://www.w3.org/TR/resource-hints/) - This specification defines the dns-prefetch, preconnect, prefetch, and prerender relationships of the HTML Link Element (\<link>). These primitives enable the developer, and the server generating or delivering the resources, to assist the user agent in the decision process of which origins it should connect to, and which resources it should fetch and preprocess to improve page performance.
 *   [HTTP Archive](http://httparchive.org/index.php) - It's a permanent repository of web performance information such as size of pages, failed requests, and technologies utilized. This performance information allows us to see trends in how the Web is built and provides a common data set from which to conduct web performance research.
-*   [iamakulov/awesome-webpack-perf (⭐956)](https://github.com/iamakulov/awesome-webpack-perf) - A curated list of webpack tools for web performance
-*   [bayandin/awesome-awesomeness (⭐31k)](https://github.com/bayandin/awesome-awesomeness).
-*   [sindresorhus/awesome (⭐298k)](https://github.com/sindresorhus/awesome).
+*   [iamakulov/awesome-webpack-perf (⭐959)](https://github.com/iamakulov/awesome-webpack-perf) - A curated list of webpack tools for web performance
+*   [bayandin/awesome-awesomeness (⭐32k)](https://github.com/bayandin/awesome-awesomeness).
+*   [sindresorhus/awesome (⭐342k)](https://github.com/sindresorhus/awesome).
 
 ---
 

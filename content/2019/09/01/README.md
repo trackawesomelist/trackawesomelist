@@ -62,13 +62,13 @@
 *   JavaScript
     *   [by @jiayihu (⭐2.2k)](https://github.com/jiayihu/pretty-algorithms)
     *   [by @felipernb (⭐3.7k)](https://github.com/felipernb/algorithms.js)
-    *   [by @nzakas (⭐9k)](https://github.com/nzakas/computer-science-in-javascript)
+    *   [by @nzakas (⭐9.1k)](https://github.com/nzakas/computer-science-in-javascript)
     *   [by @duereg (⭐927)](https://github.com/duereg/js-algorithms)
     *   [by @mgechev (⭐7.8k)](https://github.com/mgechev/javascript-algorithms)
-    *   [by @trekhleb (⭐185k)](https://github.com/trekhleb/javascript-algorithms)
-    *   [by @ManrajGrover (⭐198)](https://github.com/ManrajGrover/algorithms-js)
-    *   [by @amejiarosario (⭐7.5k)](https://github.com/amejiarosario/dsa.js)
-    *   [by @zonayedpca (⭐108)](https://github.com/zonayedpca/AlgoDS.js)
+    *   [by @trekhleb (⭐188k)](https://github.com/trekhleb/javascript-algorithms)
+    *   [by @ManrajGrover (⭐199)](https://github.com/ManrajGrover/algorithms-js)
+    *   [by @amejiarosario (⭐7.6k)](https://github.com/amejiarosario/dsa.js)
+    *   [by @zonayedpca (⭐111)](https://github.com/zonayedpca/AlgoDS.js)
 
 ---
 

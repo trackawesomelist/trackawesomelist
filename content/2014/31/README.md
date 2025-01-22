@@ -10,16 +10,16 @@
 
 ### HTTP
 
-*   [Groovy-wslite (⭐397)](https://github.com/jwagenleitner/groovy-wslite) - Lightweight SOAP and REST webservice clients for Groovy
+*   [Groovy-wslite (⭐402)](https://github.com/jwagenleitner/groovy-wslite) - Lightweight SOAP and REST webservice clients for Groovy
 
 ### Transpilers
 
-*   [Grooscript (⭐220)](https://github.com/chiquitinxx/grooscript) - Converts your Groovy code to Javascript
+*   [Grooscript (⭐221)](https://github.com/chiquitinxx/grooscript) - Converts your Groovy code to Javascript
 
 ### Static Web
 
-*   [Grain (⭐154)](https://github.com/sysgears/grain) - Static Web Site Building Framework For Groovy
-*   [Gaiden (⭐166)](https://github.com/kobo/gaiden) - Gaiden is a tool that makes it easy to create documentation with Markdown.
+*   [Grain (⭐159)](https://github.com/sysgears/grain) - Static Web Site Building Framework For Groovy
+*   [Gaiden (⭐169)](https://github.com/kobo/gaiden) - Gaiden is a tool that makes it easy to create documentation with Markdown.
 
 ### Language Utilities
 
@@ -31,7 +31,7 @@
 
 ### Clojure / Data Analysis
 
-*   [PigPen (⭐565)](https://github.com/Netflix/PigPen) - Map-Reduce for Clojure.
+*   [PigPen (⭐567)](https://github.com/Netflix/PigPen) - Map-Reduce for Clojure.
 
 ### Python / Data Analysis / Data Visualization
 
@@ -40,10 +40,10 @@
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
-*   [Allen Downey’s Data Science Course (⭐42)](https://github.com/AllenDowney/DataScience) - Code for Data Science at Olin College, Spring 2014.
-*   [Allen Downey’s Think Bayes Code (⭐1.6k)](https://github.com/AllenDowney/ThinkBayes) - Code repository for Think Bayes.
-*   [Allen Downey’s Think Complexity Code (⭐96)](https://github.com/AllenDowney/ThinkComplexity) - Code for Allen Downey's book Think Complexity.
-*   [Allen Downey’s Think OS Code (⭐548)](https://github.com/AllenDowney/ThinkOS) - Text and supporting code for Think OS: A Brief Introduction to Operating Systems.
+*   [Allen Downey’s Data Science Course (⭐44)](https://github.com/AllenDowney/DataScience) - Code for Data Science at Olin College, Spring 2014.
+*   [Allen Downey’s Think Bayes Code (⭐1.7k)](https://github.com/AllenDowney/ThinkBayes) - Code repository for Think Bayes.
+*   [Allen Downey’s Think Complexity Code (⭐101)](https://github.com/AllenDowney/ThinkComplexity) - Code for Allen Downey's book Think Complexity.
+*   [Allen Downey’s Think OS Code (⭐555)](https://github.com/AllenDowney/ThinkOS) - Text and supporting code for Think OS: A Brief Introduction to Operating Systems.
 
 ## [3. Quick Look Plugins](/content/sindresorhus/quick-look-plugins/week/README.md)
 
@@ -95,7 +95,7 @@ Run `brew install provisionql` or [download manually (⭐2.1k)](https://github.c
 
 ## [5. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
-### Facebook Accounts / Book Deals (Affiliated) 🛍
+### Facebook Accounts / Book Deals (Affiliated)
 
 *   [Big data hadoop NOSQL Hive Hbase](https://www.facebook.com/groups/bigdatahadoop/)
 *   [Analytics, Data Mining, Predictive Modeling, Artificial Intelligence](https://www.facebook.com/groups/data.analytics/)
@@ -197,10 +197,6 @@ Run `brew install provisionql` or [download manually (⭐2.1k)](https://github.c
 
 ## [11. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
-### CakePHP Websites
-
-*   [jedistirfry.co.uk](http://jedistirfry.co.uk) - A CakePHP related dev blog.
-
 ### CakePHP Videos
 
 *   [CakePHP](https://www.youtube.com/user/CakePHP) - Channel about CakePHP videos.
@@ -249,8 +245,8 @@ Run `brew install provisionql` or [download manually (⭐2.1k)](https://github.c
 *   [rJava](http://cran.r-project.org/web/packages/rJava/) - Low-level R to Java interface.
 *   [rJython](http://cran.r-project.org/web/packages/rJython/index.html) - R interface to Python via Jython.
 *   [rPython](http://cran.r-project.org/web/packages/rPython/index.html) - Package allowing R to call Python.
-*   [runr (⭐85)](https://github.com/yihui/runr) - Run Julia and Bash from R.
-*   [RJulia (⭐142)](https://github.com/armgong/RJulia) - R package Call Julia.
+*   [runr (⭐87)](https://github.com/yihui/runr) - Run Julia and Bash from R.
+*   [RJulia (⭐145)](https://github.com/armgong/RJulia) - R package Call Julia.
 *   [R.matlab](http://cran.r-project.org/web/packages/R.matlab/index.html) - Read and write of MAT files together with R-to-MATLAB connectivity.
 *   [RSPerl](http://www.omegahat.org/RSPerl/) - A bidirectional interface for calling R from Perl and Perl from R.
 
@@ -308,7 +304,7 @@ Run `brew install provisionql` or [download manually (⭐2.1k)](https://github.c
 
 ### Static Code Analysis
 
-*   [Cppcheck](http://cppcheck.sourceforge.net/) - A tool for static C/C++ code analysis. - [source (⭐5.7k)](https://github.com/danmar/cppcheck)
+*   [Cppcheck](http://cppcheck.sourceforge.net/) - A tool for static C/C++ code analysis. - [source (⭐6k)](https://github.com/danmar/cppcheck)
 *   [OCLint](http://oclint.org/) - A static source code analysis tool to improve quality and reduce defects for C, C++ and Objective-C. - [source (⭐3.8k)](https://github.com/oclint/oclint)
 
 ### Websites
@@ -354,7 +350,7 @@ Run `brew install provisionql` or [download manually (⭐2.1k)](https://github.c
 ### Voice Command / Runner
 
 *   [annyang (⭐6.6k)](https://github.com/TalAter/annyang) - A JavaScript library for adding voice commands to your site, using speech recognition.
-*   [voix.js (⭐566)](https://github.com/pazguille/voix) - A JavaScript library to add voice commands to your sites, apps or games.
+*   [voix.js (⭐567)](https://github.com/pazguille/voix) - A JavaScript library to add voice commands to your sites, apps or games.
 
 ### API / Runner
 
@@ -477,7 +473,7 @@ Run `brew install provisionql` or [download manually (⭐2.1k)](https://github.c
 
 ### Packages / Compression
 
-*   [tar-stream (⭐403)](https://github.com/mafintosh/tar-stream) - Streaming tar parser and generator. Also see [tar-fs (⭐348)](https://github.com/mafintosh/tar-fs).
+*   [tar-stream (⭐416)](https://github.com/mafintosh/tar-stream) - Streaming tar parser and generator. Also see [tar-fs (⭐351)](https://github.com/mafintosh/tar-fs).
 
 ## [23. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
@@ -499,7 +495,7 @@ Run `brew install provisionql` or [download manually (⭐2.1k)](https://github.c
 
 ### Tutorials
 
-*   [D Template Tutorial (⭐223)](https://github.com/PhilippeSigaud/D-templates-tutorial) - A tutorial dedicated to D Templates. Very good explanation about templates. Has pdf version. by Philippe Sigaud.
+*   [D Template Tutorial (⭐229)](https://github.com/PhilippeSigaud/D-templates-tutorial) - A tutorial dedicated to D Templates. Very good explanation about templates. Has pdf version. by Philippe Sigaud.
 
 ### Blogs / Bare metal / kernel development
 

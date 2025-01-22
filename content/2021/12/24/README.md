@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 24, 2021
 
-7 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### C / Git
 
-*   [XKCP (⭐568)](https://github.com/XKCP/XKCP) — is a repository that gathers different free and open-source implementations of the cryptographic schemes defined by the Keccak team.
+*   [XKCP (⭐584)](https://github.com/XKCP/XKCP) — is a repository that gathers different free and open-source implementations of the cryptographic schemes defined by the Keccak team.
 
 ## [2. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
 
@@ -22,7 +22,7 @@
 
 ### Crates / Hooks
 
-*   [yew-hooks (⭐157)](https://github.com/jetli/yew-hooks) - Custom Hooks library for Yew, inspired by [streamich/react-use (⭐40k)](https://github.com/streamich/react-use) and [alibaba/hooks (⭐13k)](https://github.com/alibaba/hooks).
+*   [yew-hooks (⭐171)](https://github.com/jetli/yew-hooks) - Custom Hooks library for Yew, inspired by [streamich/react-use (⭐42k)](https://github.com/streamich/react-use) and [alibaba/hooks (⭐14k)](https://github.com/alibaba/hooks).
 
 ## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -33,13 +33,7 @@
 *   [WebAsk](https://webask.io) - Survey and Form Builder. The free plan has three surveys per account, 100 monthly responses, and ten elements per survey.
 *   [Wufoo](https://www.wufoo.com/) - Quick forms to use on websites. The free plan has a limit of 100 submissions each month.
 
-## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / UI Components
-
-*   [IFstruct-parser-vue (⭐92)](https://github.com/iofod/IFstruct-parser/tree/main/temps/web) - Converts [iofod](https://www.iofod.com) edited projects into production-ready Vue projects
-
-## [6. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
+## [5. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
 
 ### Call to Action
 
@@ -107,7 +101,7 @@
 
 *   [Matrix.org's Synapse (⭐11k)](https://github.com/matrix-org/synapse): End-to-end-encrypted messaging. Matrix reference homeserver. See also [matrix.org](https://matrix.org).
 
-## [7. Awesome Productivity](/content/jyguyomarch/awesome-productivity/README.md)
+## [6. Awesome Productivity](/content/jyguyomarch/awesome-productivity/README.md)
 
 ### Websites
 

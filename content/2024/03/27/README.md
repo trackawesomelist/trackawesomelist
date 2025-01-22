@@ -10,7 +10,7 @@
 
 ### Libraries/Packages/Scripts / Python
 
-*   [polars\_ta (⭐75)](https://github.com/wukan1986/polars_ta) - Python package that provides technical indicator operators rewritten in Polars by [@wukan1986](https://github.com/wukan1986).
+*   [polars\_ta (⭐130)](https://github.com/wukan1986/polars_ta) - Python package that provides technical indicator operators rewritten in Polars by [@wukan1986](https://github.com/wukan1986).
 
 ### Resources / Blog posts
 
@@ -20,13 +20,13 @@
 
 ### Templates / React
 
-*   [vite-complete-react-app (⭐5)](https://github.com/ChrisUser/vite-complete-react-app) - Starter template for building web applications using `React`, `TypeScript`, `Redux Toolkit`, `React Router`, `Axios`, `Sass`, `Moment`, `ESLint`, `Prettier` and `React Testing Library`.
+*   [vite-complete-react-app (⭐12)](https://github.com/ChrisUser/vite-complete-react-app) - Starter template for building web applications using `React`, `TypeScript`, `Redux Toolkit`, `React Router`, `Axios`, `Sass`, `Moment`, `ESLint`, `Prettier` and `React Testing Library`.
 
 ## [3. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Networking
 
-*   [natiu-mqtt (⭐83)](https://github.com/soypat/natiu-mqtt) - A dead-simple, non-allocating, low level implementation of MQTT well suited for embedded systems.
+*   [natiu-mqtt (⭐90)](https://github.com/soypat/natiu-mqtt) - A dead-simple, non-allocating, low level implementation of MQTT well suited for embedded systems.
 
 ## [4. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
@@ -61,7 +61,7 @@
 
 ### Testing / Data Profiler
 
-*   [DQOps (⭐83)](https://github.com/dqops/dqo) - An open-source data quality platform for the whole data platform lifecycle from profiling new data sources to applying full automation of data quality monitoring.
+*   [DQOps (⭐108)](https://github.com/dqops/dqo) - An open-source data quality platform for the whole data platform lifecycle from profiling new data sources to applying full automation of data quality monitoring.
 
 ---
 

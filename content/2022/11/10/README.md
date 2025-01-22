@@ -10,7 +10,7 @@
 
 ### Text processing
 
-*   [text-processing (⭐5)](https://github.com/ArtemkaKun/text-processing) - V text processing library, that contains common tools to manipulate text data.
+*   [text-processing (⭐6)](https://github.com/ArtemkaKun/text-processing) - V text processing library, that contains common tools to manipulate text data.
 
 ## [2. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -38,11 +38,11 @@
 
 ### Tools / Community providers
 
-*   [terraform-diff (⭐65)](https://github.com/contentful-labs/terraform-diff) - Always know where you need to run Terraform plan & apply!
+*   [terraform-diff (⭐66)](https://github.com/contentful-labs/terraform-diff) - Always know where you need to run Terraform plan & apply!
 
 ## [6. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 
-### Online services
+### Online services (a-z↓)
 
 *   [testRigor](https://testrigor.com) - E2E functional test automation tool for web, mobile, and desktop tests.
 
@@ -50,7 +50,7 @@
 
 ### DevOps / Discovery
 
-*   [Standard (⭐384)](https://github.com/divnix/std) - An opinionated Nix Flakes framework to keep Nix code in large projects organized, accompanied by a friendly CLI/TUI optized for DevOps scenarios.
+*   [Standard (⭐413)](https://github.com/divnix/std) - An opinionated Nix Flakes framework to keep Nix code in large projects organized, accompanied by a friendly CLI/TUI optized for DevOps scenarios.
 
 ## [8. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 
@@ -80,25 +80,25 @@
 
 ### Programming Languages Support / Diagnostics
 
-*   [Julian/lean.nvim (⭐246)](https://github.com/Julian/lean.nvim) - Neovim support for the [Lean Theorem Prover](https://leanprover.github.io/).
+*   [Julian/lean.nvim (⭐307)](https://github.com/Julian/lean.nvim) - Neovim support for the [Lean Theorem Prover](https://leanprover.github.io/).
 
 ### Golang / Diagnostics
 
-*   [ray-x/go.nvim (⭐2k)](https://github.com/ray-x/go.nvim) - Golang plugin based on lsp and Treesitter.
+*   [ray-x/go.nvim (⭐2.2k)](https://github.com/ray-x/go.nvim) - Golang plugin based on LSP and Tree-sitter.
 
 ### Bars and Lines / Diagnostics
 
-*   [utilyre/barbecue.nvim (⭐756)](https://github.com/utilyre/barbecue.nvim) - A VS Code like winbar.
+*   [utilyre/barbecue.nvim (⭐863)](https://github.com/utilyre/barbecue.nvim) - A VS Code like winbar.
 
 ## [13. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [bat (⭐10)](https://github.com/fdellwing/zsh-bat) - Adds some helper aliases for [bat (⭐48k)](https://github.com/sharkdp/bat) users.
+*   [bat (⭐26)](https://github.com/fdellwing/zsh-bat) - Adds some helper aliases for [bat (⭐51k)](https://github.com/sharkdp/bat) users.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [funkydrac (⭐2)](https://github.com/warshanks/funkydrac) - Multiple Dracula-themed omz themes based on [funky (⭐172k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/funky.zsh-theme) and an [oh-my-posh (⭐16k)](https://github.com/JanDeDobbeleer/oh-my-posh) theme based on [alien (⭐16k)](https://github.com/JanDeDobbeleer/oh-my-posh/blob/main/themes/aliens.omp.json)
+*   [funkydrac (⭐2)](https://github.com/warshanks/funkydrac) - Multiple Dracula-themed omz themes based on [funky (⭐175k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/funky.zsh-theme) and an [oh-my-posh (⭐18k)](https://github.com/JanDeDobbeleer/oh-my-posh) theme based on [alien (⭐18k)](https://github.com/JanDeDobbeleer/oh-my-posh/blob/main/themes/aliens.omp.json)
 
 ## [14. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 

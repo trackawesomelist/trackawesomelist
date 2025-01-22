@@ -10,11 +10,11 @@
 
 ### Articles
 
-*   [k6 OSS workshop (⭐14)](https://github.com/grafana/k6-oss-workshop) - A 2-3 hour k6 workshop with practical k6 examples using the QuickPizza demo app.
+*   [k6 OSS workshop (⭐18)](https://github.com/grafana/k6-oss-workshop) - A 2-3 hour k6 workshop with practical k6 examples using the QuickPizza demo app.
 
 ### Examples/Templates
 
-*   [k6 QuickPizza examples (⭐55)](https://github.com/grafana/quickpizza) - Web application used for demos and workshops with multiple k6 examples.
+*   [k6 QuickPizza examples (⭐59)](https://github.com/grafana/quickpizza) - Web application used for demos and workshops with multiple k6 examples.
 
 ## [2. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
@@ -42,13 +42,13 @@
 
 ### Artificial Intelligence
 
-*   [ExLLama (⭐7)](https://github.com/noizu-labs-ml/ex_llama) - LlamaCpp Nif Extensions for Elixir/Erlang. ([Docs](https://hexdocs.pm/ex_llama/ExLLama.html)).
+*   [ExLLama (⭐12)](https://github.com/noizu-labs-ml/ex_llama) - LlamaCpp Nif Extensions for Elixir/Erlang. ([Docs](https://hexdocs.pm/ex_llama/ExLLama.html)).
 
 ## [6. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Parsing
 
-*   [igumnoff/shiva (⭐155)](https://github.com/igumnoff/shiva) - Shiva library: Implementation in Rust of a parser and generator for documents of any type (Plain text, Markdown, HTML, PDF and etc)
+*   [igumnoff/shiva (⭐325)](https://github.com/igumnoff/shiva) - Shiva library: Implementation in Rust of a parser and generator for documents of any type (Plain text, Markdown, HTML, PDF and etc)
 
 ## [7. Awesome Python](/content/vinta/awesome-python/README.md)
 
@@ -64,9 +64,9 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-default-page (⭐26)](https://github.com/zero-one-code/vue-default-page) - A Vue 3.0 plugin with built-in v-loading, v-skeleton, v-error and v-empty custom directives.
+*   [vue-default-page (⭐30)](https://github.com/zero-one-code/vue-default-page) - A Vue 3.0 plugin with built-in v-loading, v-skeleton, v-error and v-empty custom directives.
 *   [css-3d-progress (⭐2)](https://github.com/rofixro/css-3d-progress) - A 3D progress bar component written using web Components, supports Vue, React and Svelte.
-*   [schedule-x (⭐986)](https://github.com/schedule-x/schedule-x) - A material design event calendar. Customizable, light- and dark modes & multilingual.
+*   [schedule-x (⭐1.4k)](https://github.com/schedule-x/schedule-x) - A material design event calendar. Customizable, light- and dark modes & multilingual.
 
 ### Components & Libraries / UI Utilities
 
@@ -80,7 +80,7 @@
 
 ### React / Transformers
 
-*   [@stylin/vite-plugin (⭐179)](https://github.com/sultan99/stylin/tree/main/packages/vite-plugin) - Transform CSS and SCSS modules into React components.
+*   [@stylin/vite-plugin (⭐181)](https://github.com/sultan99/stylin/tree/main/packages/vite-plugin) - Transform CSS and SCSS modules into React components.
 
 ## [10. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
@@ -92,43 +92,43 @@
 
 ### Miscellaneous
 
-*   [RapidFuzz (⭐226)](https://github.com/rapidfuzz/rapidfuzz-cpp) - Rapid fuzzy string matching in C++ using the Levenshtein Distance. \[MIT] [website](https://rapidfuzz.github.io/rapidfuzz-cpp/)
+*   [RapidFuzz (⭐265)](https://github.com/rapidfuzz/rapidfuzz-cpp) - Rapid fuzzy string matching in C++ using the Levenshtein Distance. \[MIT] [website](https://rapidfuzz.github.io/rapidfuzz-cpp/)
 
 ## [12. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Image / Image Picker
 
-*   [Image Picker (⭐4.1k)](https://github.com/flutter/packages/tree/main/packages/image_picker) - Images Selection by [Collin Jackson](http://www.collinjackson.com)
+*   [Image Picker (⭐4.5k)](https://github.com/flutter/packages/tree/main/packages/image_picker) - Images Selection by [Collin Jackson](http://www.collinjackson.com)
 
 ### Navigation / Image Picker
 
-*   [auto\_route (⭐1.5k)](https://github.com/Milad-Akarie/auto_route_library) <!--stargazers:Milad-Akarie/auto_route_library--> - AutoRoute is a declarative routing solution, where everything needed for navigation is automatically generated for you. [Milad\_Akarie](https://github.com/Milad-Akarie).
+*   [auto\_route (⭐1.6k)](https://github.com/Milad-Akarie/auto_route_library) <!--stargazers:Milad-Akarie/auto_route_library--> - AutoRoute is a declarative routing solution, where everything needed for navigation is automatically generated for you. [Milad\_Akarie](https://github.com/Milad-Akarie).
 
 ### Auth / Image Picker
 
-*   [Local Auth (⭐4.1k)](https://github.com/flutter/packages/tree/main/packages/local_auth) - Touch ID, lock code, fingerprint auth on iOS and Android
-*   [Google Sign-In (⭐4.1k)](https://github.com/flutter/packages/tree/main/packages/google_sign_in) - Google OAuth
+*   [Local Auth (⭐4.5k)](https://github.com/flutter/packages/tree/main/packages/local_auth) - Touch ID, lock code, fingerprint auth on iOS and Android
+*   [Google Sign-In (⭐4.5k)](https://github.com/flutter/packages/tree/main/packages/google_sign_in) - Google OAuth
 
 ### Text & Rich Content / Image Picker
 
-*   [Fleather (⭐179)](https://github.com/fleather-editor/fleather) <!--stargazersfleather-editor/fleather--> - Soft & gentle rich text editor
+*   [Fleather (⭐208)](https://github.com/fleather-editor/fleather) <!--stargazersfleather-editor/fleather--> - Soft & gentle rich text editor
 
 ### Media / Video
 
-*   [Video Editor (⭐362)](https://github.com/LeGoffMael/video_editor) <!--stargazers:LeGoffMael/video_editor--> - Edit (crop, trim, rotate) a video and a its cover by [Maël Le Goff](https://github.com/LeGoffMael)
+*   [Video Editor (⭐406)](https://github.com/LeGoffMael/video_editor) <!--stargazers:LeGoffMael/video_editor--> - Edit (crop, trim, rotate) a video and its cover by [Maël Le Goff](https://github.com/LeGoffMael)
 
 ### Plugins / Augmented Reality
 
-*   [Plugins (⭐4.1k)](https://github.com/flutter/packages/tree/main/packages) - Official Flutter Team Plugins
+*   [Plugins (⭐4.5k)](https://github.com/flutter/packages/tree/main/packages) - Official Flutter Team Plugins
 
 ### Device / Augmented Reality
 
-*   [Live Activities (⭐149)](https://github.com/istornz/live_activities) <!--stargazers:istornz/live_activities--> - A plugin to use iOS live activities & Dynamic Island features by [Dimitri Dessus](https://github.com/istornz)
+*   [Live Activities (⭐188)](https://github.com/istornz/live_activities) <!--stargazers:istornz/live_activities--> - A plugin to use iOS live activities & Dynamic Island features by [Dimitri Dessus](https://github.com/istornz)
 
 ### Services / Bluetooth / NFC / Beacon
 
-*   [App Review (⭐39)](https://github.com/AppleEducate/app_review) <!--stargazers:AppleEducate/app_review--> - Requesting and Writing Reviews for Android and iOS by [Rody Davis](https://rodydavis.com)
-*   [In App Review (⭐289)](https://github.com/britannio/in_app_review) <!--stargazers:britannio/in_app_review--> - Requesting and Writing Reviews for Android, iOS and MacOS by [Britannio Jarrett](https://github.com/britannio)
+*   [App Review (⭐40)](https://github.com/AppleEducate/app_review) <!--stargazers:AppleEducate/app_review--> - Requesting and Writing Reviews for Android and iOS by [Rody Davis](https://rodydavis.com)
+*   [In App Review (⭐333)](https://github.com/britannio/in_app_review) <!--stargazers:britannio/in_app_review--> - Requesting and Writing Reviews for Android, iOS and MacOS by [Britannio Jarrett](https://github.com/britannio)
 
 ### Animation / Redux / ELM / Dependency Injection
 
@@ -136,8 +136,8 @@
 
 ### Top / Game Engine resources
 
-*   [Let's Draw (⭐261)](https://github.com/JideGuru/flutter_drawing_board) <!--stargazers:JideGuru/flutter_drawing_board--> - A simple drawing app made by [JideGuru](https://github.com/JideGuru)
-*   [Openreads (⭐803)](https://github.com/mateusz-bak/openreads-android) <!--stargazers:mateusz-bak/openreads-android--> - A simple privacy oriented mobile books tracker using Open Library API by [mateusz-bak](https://github.com/mateusz-bak)
+*   [Let's Draw (⭐297)](https://github.com/JideGuru/flutter_drawing_board) <!--stargazers:JideGuru/flutter_drawing_board--> - A simple drawing app made by [JideGuru](https://github.com/JideGuru)
+*   [Openreads (⭐960)](https://github.com/mateusz-bak/openreads-android) <!--stargazers:mateusz-bak/openreads-android--> - A simple privacy oriented mobile books tracker using Open Library API by [mateusz-bak](https://github.com/mateusz-bak)
 
 ### 🇷🇺 Russia / Misc
 
@@ -152,15 +152,15 @@
 
 ### Color / Diagnostics
 
-*   [moyiz/command-and-cursor.nvim (⭐16)](https://github.com/moyiz/command-and-cursor.nvim) - Highlight cursor and visual selections when entering command mode.
+*   [moyiz/command-and-cursor.nvim (⭐18)](https://github.com/moyiz/command-and-cursor.nvim) - Highlight cursor and visual selections when entering command mode.
 
 ### Terminal Integration / Diagnostics
 
-*   [akinsho/toggleterm.nvim (⭐4.1k)](https://github.com/akinsho/toggleterm.nvim) - Easily manage multiple terminal windows.
+*   [akinsho/toggleterm.nvim (⭐4.6k)](https://github.com/akinsho/toggleterm.nvim) - Easily manage multiple terminal windows.
 
 ### Git / Diagnostics
 
-*   [moyiz/git-dev.nvim (⭐83)](https://github.com/moyiz/git-dev.nvim) - Open remote git repositories in the comfort of Neovim.
+*   [moyiz/git-dev.nvim (⭐91)](https://github.com/moyiz/git-dev.nvim) - Open remote Git repositories in the comfort of Neovim.
 
 ## [14. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
@@ -178,7 +178,7 @@
 
 ### Artificial Intelligence
 
-*   [Clever Algorithms Nature-Inspired Programming Recipes](https://bjpcjp.github.io/pdfs/ruby/Clever-Algorithms.pdf) - Jason Brownlee (PDF)
+*   [Clever Algorithms Nature-Inspired Programming Recipes](https://bjpcjp.github.io/pdfs/ruby/Clever-Algorithms.pdf) - Jason Brownlee (PDF) (CC BY-NC-SA)
 
 ---
 

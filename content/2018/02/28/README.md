@@ -10,7 +10,7 @@
 
 ### Programming fonts / Fonts
 
-*   [Lab Mono (⭐121)](https://github.com/hatsumatsu/Lab-Mono) - Geometric monospaced typeface
+*   [Lab Mono (⭐143)](https://github.com/hatsumatsu/Lab-Mono) - Geometric monospaced typeface
 
 ## [2. Awesome D3](/content/wbkd/awesome-d3/README.md)
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 15, 2021
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,18 +10,18 @@
 
 ### Types / Playground
 
-*   [type-o-rama (⭐245)](https://github.com/stereobooster/type-o-rama) - JS type systems interoperability
+*   [type-o-rama (⭐244)](https://github.com/stereobooster/type-o-rama) - JS type systems interoperability
 
 ### Runtime / Playground
 
-*   [Agent Framework (⭐113)](https://github.com/agentframework/agentframework) Create interceptor for your class and method using decorators
+*   [Agent Framework (⭐118)](https://github.com/agentframework/agentframework) Create interceptor for your class and method using decorators
 
 ### Web/ReactJS / Playground
 
 *   :octocat: [facebook/create-react-app](https://facebook.github.io/create-react-app/docs/adding-typescript) Create React apps using typescript with no build configuration
 *   :octocat: [Microsoft/TypeScript-React-Starter (⭐11k)](https://github.com/Microsoft/TypeScript-React-Starter) A starter template for TypeScript and React with a detailed README describing how to use the two together; based on `create-react-app`
-*   :scroll: [typescript-cheatsheets/react-typescript-cheatsheet (⭐45k)](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet) Cheatsheets for experienced React developers getting started with TypeScript
-*   :octocat: [jsxtyper (⭐37)](https://github.com/fuselabs/jsxtyper) Generates TypeScript interfaces from .jsx files
+*   :scroll: [typescript-cheatsheets/react-typescript-cheatsheet (⭐46k)](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet) Cheatsheets for experienced React developers getting started with TypeScript
+*   :octocat: [jsxtyper (⭐38)](https://github.com/fuselabs/jsxtyper) Generates TypeScript interfaces from .jsx files
 *   :octocat: [TodoMVC • TypeScript + React Example (⭐29k)](https://github.com/tastejs/todomvc/tree/gh-pages/examples/typescript-react)
 *   :scroll: [Working with React and TypeScript](http://blog.wolksoftware.com/working-with-react-and-typescript)
 *   :guardsman: [**vortigern** - A universal boilerplate for building web applications w/ TypeScript, React, Redux and more.](https://github.com/barbar/vortigern)
@@ -29,8 +29,8 @@
 *   :octocat: [React Server Example TSX (⭐277)](https://github.com/styfle/react-server-example-tsx) Boilerplate for isomorphic web app with React server-side rendering in TypeScript
 *   :octocat: [React & Redux in TypeScript - Static Typing Guide (⭐13k)](https://github.com/piotrwitek/react-redux-typescript-guide) The complete guide to static typing in "React & Redux" using TypeScript
 *   :octocat: [Typescript Monorepo CRA Example (⭐27)](https://github.com/deptno/typescript-monorepo-cra-example) - A minimalistic CRA + typescript monorepo.
-*   :octocat: [Typescript Monorepo Next Example (⭐44)](https://github.com/deptno/typescript-monorepo-next-example) - A minimalistic next.js + typescript monorepo.
-*   :stars: [Crisp React (⭐185)](https://github.com/winwiz1/crisp-react) Boilerplate with React client and Express backend. Offers performance and extended functionality. Helps to avoid frequent React-Express pitfalls.
+*   :octocat: [Typescript Monorepo Next Example (⭐43)](https://github.com/deptno/typescript-monorepo-next-example) - A minimalistic next.js + typescript monorepo.
+*   :stars: [Crisp React (⭐186)](https://github.com/winwiz1/crisp-react) Boilerplate with React client and Express backend. Offers performance and extended functionality. Helps to avoid frequent React-Express pitfalls.
 *   :book: [React by Example](https://reactbyexample.github.io/) Code-oriented React tutorial for programmers
 
 ### Back-end API / Playground
@@ -59,25 +59,19 @@
 
 ### Assemblers / Misc
 
-*   [RGBDS (⭐1.2k)](https://github.com/gbdev/rgbds) - Assembler and linker package. [Documentation](https://rgbds.gbdev.io/docs/).
+*   [RGBDS (⭐1.4k)](https://github.com/gbdev/rgbds) - Assembler and linker package. [Documentation](https://rgbds.gbdev.io).
 
 ### Tools / Graphics utilities
 
-*   [Superfamiconv (⭐131)](https://github.com/Optiroc/SuperFamiconv) - Flexible and composable tile graphics converter supporting Super Nintendo, Game Boy, Game Boy Color, Game Boy Advance, Mega Drive and PC Engine formats.
+*   [Superfamiconv (⭐157)](https://github.com/Optiroc/SuperFamiconv) - Flexible and composable tile graphics converter supporting Super Nintendo, Game Boy, Game Boy Color, Game Boy Advance, Mega Drive and PC Engine formats.
 
-## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / Utilities
-
-*   [vue-props-validation (⭐21)](https://github.com/rubnvp/vue-props-validation) - Vue props validation logic extracted for nested validations in objects and arrays using the Vue native syntax.
-
-## [5. Android Security Awesome](/content/ashishb/android-security-awesome/README.md)
+## [4. Android Security Awesome](/content/ashishb/android-security-awesome/README.md)
 
 ### Tools / Static Analysis Tools
 
-*   [APKLeaks (⭐4.8k)](https://github.com/dwisiswant0/apkleaks) - Scanning APK file for URIs, endpoints & secrets.
+*   [APKLeaks (⭐5.1k)](https://github.com/dwisiswant0/apkleaks) - Scanning APK file for URIs, endpoints & secrets.
 
-## [6. Awesome D](/content/dlang-community/awesome-d/README.md)
+## [5. Awesome D](/content/dlang-community/awesome-d/README.md)
 
 ### Official Website
 
@@ -97,7 +91,7 @@
 
 ### Organizations
 
-*   [Symmetry Investments](https://symmetryinvestments.com/) - Symmetry Investments LP is an investment management company with approximately US$4.7 billion in assets under management as of 31 December 2018. Main sponsor of the [Symmetry Autumn of Code](https://dlang.org/blog/symmetry-autumn-of-code/). Have sponsored the development of [excel-d](https://dlang.org/blog/2017/05/31/project-highlight-excel-d/), [dpp (⭐225)](https://github.com/atilaneves/dpp), [autowrap (⭐79)](https://github.com/symmetryinvestments/autowrap), [mir-algorithm (⭐170)](https://github.com/libmir/mir-algorithm), and various other projects.
+*   [Symmetry Investments](https://symmetryinvestments.com/) - Symmetry Investments LP is an investment management company with approximately US$4.7 billion in assets under management as of 31 December 2018. Main sponsor of the [Symmetry Autumn of Code](https://dlang.org/blog/symmetry-autumn-of-code/). Have sponsored the development of [excel-d](https://dlang.org/blog/2017/05/31/project-highlight-excel-d/), [dpp (⭐230)](https://github.com/atilaneves/dpp), [autowrap (⭐80)](https://github.com/symmetryinvestments/autowrap), [mir-algorithm (⭐173)](https://github.com/libmir/mir-algorithm), and various other projects.
 
 ### Books
 
@@ -118,7 +112,7 @@
 
 *   [D Bare bones](https://wiki.osdev.org/D_Bare_Bones) - kernel hello world in D (using GDC compiler)
 *   [D barebone with ldc2](https://wiki.osdev.org/D_barebone_with_ldc2) - another kernel hello world in D (using LDC compiler)
-*   [XOmB bare bones](https://web.archive.org/web/20161214232759/http://wiki.xomb.org/index.php?title=XOmB_Bare_Bones) - an exokernel operating system written in D. [Main page](https://web.archive.org/web/20161201061242/http://wiki.xomb.org/index.php?title=Main_Page), [github (⭐338)](https://github.com/xomboverlord/xomb/tree/unborn).
+*   [XOmB bare bones](https://web.archive.org/web/20161214232759/http://wiki.xomb.org/index.php?title=XOmB_Bare_Bones) - an exokernel operating system written in D. [Main page](https://web.archive.org/web/20161201061242/http://wiki.xomb.org/index.php?title=Main_Page), [github (⭐340)](https://github.com/xomboverlord/xomb/tree/unborn).
 *   [Bare Metal ARM Cortex-M GDC Cross Compiler](https://wiki.dlang.org/Bare_Metal_ARM_Cortex-M_GDC_Cross_Compiler) - building a bare metal ARM Cortex-M (arm-none-eabi) GDC cross compiler for a Linux host.
 
 ### Blogs / Bare metal / kernel development
@@ -141,7 +135,7 @@
 
 *   [scons-d](https://scons.org/) - Scons has built-in support for building D projects, thanks to Russel Winder.
 *   [button](https://jasonwhite.io/button/) - A universal build system to build your software at the push of a button.
-*   [wild (⭐6)](https://github.com/Vild/Wild) - Wild build system, used to build the [PowerNex (⭐482)](https://github.com/PowerNex/PowerNex) kernel
+*   [wild (⭐6)](https://github.com/Vild/Wild) - Wild build system, used to build the [PowerNex (⭐491)](https://github.com/PowerNex/PowerNex) kernel
 
 ### IDEs & Editors / Bare metal / kernel development
 
@@ -149,12 +143,12 @@
 *   [Dexed](https://gitlab.com/basile.b/dexed) - IDE for the D programming language, its compilers, tools and libraries.
 *   [code-d](https://marketplace.visualstudio.com/items?itemName=webfreak.code-d) <sup>\[[open-vsx](https://open-vsx.org/extension/webfreak/code-d)]</sup> - Visual Studio Code extension using serve-d
 *   [ide-d](https://atom.io/packages/ide-d) - Atom extension for D using serve-d
-*   [DCD (⭐343)](https://github.com/dlang-community/DCD) - Independent auto-complete program for the D programming language. Could be used with editors like vim, emacs, sublime text, textadept, and zeus. See [editors support (⭐343)](https://github.com/dlang-community/DCD/wiki/IDEs-and-Editors-with-DCD-support).
-*   [serve-d (⭐182)](https://github.com/Pure-D/serve-d) - Language Server Protocol (LSP) implementation for D.  Adds modern IDE features to any editor with LSP support (VSCode, Atom, Vim/Neovim and others)
+*   [DCD (⭐349)](https://github.com/dlang-community/DCD) - Independent auto-complete program for the D programming language. Could be used with editors like vim, emacs, sublime text, textadept, and zeus. See [editors support (⭐349)](https://github.com/dlang-community/DCD/wiki/IDEs-and-Editors-with-DCD-support).
+*   [serve-d (⭐200)](https://github.com/Pure-D/serve-d) - Language Server Protocol (LSP) implementation for D.  Adds modern IDE features to any editor with LSP support (VSCode, Atom, Vim/Neovim and others)
 
 ### Lexers, Parsers, Parser Generators / Bare metal / kernel development
 
-*   [libdparse (⭐113)](https://github.com/dlang-community/libdparse) - A D language lexer and parser, (possibly) future standard D parser/lexer.
+*   [libdparse (⭐115)](https://github.com/dlang-community/libdparse) - A D language lexer and parser, (possibly) future standard D parser/lexer.
 
 ### Containers / Bare metal / kernel development
 
@@ -170,7 +164,7 @@
 *   [vibe.data.json](https://vibed.org/api/vibe.data.json/) - JSON functions in Vibe.d. Currently the best implementation I used.
 *   [std.json](https://dlang.org/phobos/std_json.html) - D's standard library JSON module. Needs refinement.
 *   [std.data.json (⭐25)](https://github.com/dlang-community/std_data_json) - Phobos candidate for JSON serialization (based on Vibed)
-*   [asdf (⭐19)](https://github.com/libmir/asdf) - Cache oriented string based JSON representation for fast read & writes and serialisation.
+*   [asdf (⭐20)](https://github.com/libmir/asdf) - Cache oriented string based JSON representation for fast read & writes and serialisation.
 
 ### Database clients / XML
 
@@ -179,28 +173,28 @@
 ### Command Line / XML
 
 *   [d-colorize](https://code.dlang.org/packages/colorize) - A port of the ruby library [colorize (⭐1.2k)](https://github.com/fazibear/colorize). It add some methods to set color, background color and text effect on console easier using ANSI escape sequences.
-*   [commandr (⭐37)](https://github.com/robik/commandr) - A modern, powerful commmand line argument parser.
+*   [commandr (⭐41)](https://github.com/robik/commandr) - A modern, powerful commmand line argument parser.
 
 ### GUI Libs / XML
 
-*   [Sciter-Dport (⭐32)](https://github.com/sciter-sdk/Sciter-Dport) - D bindings for the [Sciter](https://sciter.com) - crossplatform HTML/CSS/script desktop UI toolkit.
+*   [Sciter-Dport (⭐33)](https://github.com/sciter-sdk/Sciter-Dport) - D bindings for the [Sciter](https://sciter.com) - crossplatform HTML/CSS/script desktop UI toolkit.
 
 ### OS / XML
 
-*   [PowerNex (⭐482)](https://github.com/PowerNex/PowerNex) -  A kernel written in D
-*   [Trinix (⭐100)](https://github.com/Rikarin/Trinix) -  Hybrid operating system for x64 PC written in D
+*   [PowerNex (⭐491)](https://github.com/PowerNex/PowerNex) -  A kernel written in D
+*   [Trinix (⭐107)](https://github.com/Rikarin/Trinix) -  Hybrid operating system for x64 PC written in D
 
 ### Game Frameworks / XML
 
-*   [Dash (⭐419)](https://github.com/Circular-Studios/Dash) - A free and open 3D game engine written in D. see <https://circularstudios.com/dash/>.
+*   [Dash (⭐422)](https://github.com/Circular-Studios/Dash) - A free and open 3D game engine written in D. see <https://circularstudios.com/dash/>.
 
 ### Games / XML
 
-*   [Backgammony (⭐42)](https://github.com/jonathanballs/backgammony) - A Backgammon GUI for Linux built with Gtk.
+*   [Backgammony (⭐41)](https://github.com/jonathanballs/backgammony) - A Backgammon GUI for Linux built with Gtk.
 
 ### Image Processing / XML
 
-*   [opencvd (⭐22)](https://github.com/aferust/opencvd) - Unofficial OpenCV binding for D
+*   [opencvd (⭐23)](https://github.com/aferust/opencvd) - Unofficial OpenCV binding for D
 
 ### Logging / Language Processing
 
@@ -208,44 +202,44 @@
 
 ### Configuration / Language Processing
 
-*   [D:YAML (⭐114)](https://github.com/dlang-community/D-YAML) - YAML parser and emitter for the D programming language.
+*   [D:YAML (⭐118)](https://github.com/dlang-community/D-YAML) - YAML parser and emitter for the D programming language.
 
 ### Blog Engine / Language Processing
 
-*   [mood (⭐42)](https://github.com/mihails-strasuns/mood) - simple vibe.d based blog engine
+*   [mood (⭐43)](https://github.com/mihails-strasuns/mood) - simple vibe.d based blog engine
 
-## [7. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
+## [6. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
 ### Extending Content Editor
 
 *   [Sitecore-TinyMCERTE (⭐2)](https://github.com/EmanueleCiriachi/Sitecore-TinyMCERTE) - A Sitecore Control that uses the Tiny MCE Editor in place of the default one.
 
-## [8. Awesome Analytics](/content/newTendermint/awesome-analytics/README.md)
+## [7. Awesome Analytics](/content/newTendermint/awesome-analytics/README.md)
 
 ### Privacy focused analytics
 
 *   [Piwik PRO](https://piwik.pro/) - A privacy-friendly alternative to Google Analytics with built-in consent management. Hosted in EU, in your private cloud or on-premises. `©` `SaaS` `self-hosted`
 
-## [9. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [8. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Developer utilities / Third-party APIs
 
-*   [printv (⭐67)](https://github.com/danlentz/printv) -  A batteries-included tracing and debug-logging macro. [Apache2](https://directory.fsf.org/wiki/License:Apache2.0).
+*   [printv (⭐68)](https://github.com/danlentz/printv) -  A batteries-included tracing and debug-logging macro. [Apache2](https://directory.fsf.org/wiki/License:Apache2.0).
 
-## [10. Awesome PICO 8](/content/pico-8/awesome-PICO-8/README.md)
+## [9. Awesome PICO 8](/content/pico-8/awesome-PICO-8/README.md)
 
 ### Contents / Tools
 
 *   [Depict](https://bikibird.itch.io/depict) - Converts image into a dithered image using PICO-8 colors and reduces it to a maximum size of 128 x 128.
 *   [picoCAD](https://johanpeitz.itch.io/picocad) - A PICO-8 program to build and texture lowpoly 3D models.
 
-## [11. Awesome Gdpr](/content/bakke92/awesome-gdpr/README.md)
+## [10. Awesome Gdpr](/content/bakke92/awesome-gdpr/README.md)
 
 ### Related
 
 *   [Developers Guide to HIPAA Compliance (⭐1.6k)](https://github.com/truevault/hipaa-compliance-developers-guide)
 
-## [12. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### APIs, Data, and ML
 

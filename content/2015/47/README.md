@@ -22,9 +22,9 @@
     *   [PG'OCaml](http://pgocaml.forge.ocamlcore.org/) — A type-safe interface to PostgreSQL in pure OCaml.
         *   [ppx\_pgsql (⭐52)](https://github.com/tizoc/ppx_pgsql) – A syntax extension for embedded SQL queries using PG'OCaml.
     *   [PostgreSQL-OCaml](https://mmottl.github.io/postgresql-ocaml/) — An interface to PostgreSQL through the C API (`libpq`).
-    *   [SQLite3 (⭐110)](https://github.com/mmottl/sqlite3-ocaml) — OCaml bindings to the SQLite3 database.
+    *   [SQLite3 (⭐114)](https://github.com/mmottl/sqlite3-ocaml) — OCaml bindings to the SQLite3 database.
     *   [Sqlite3EZ](https://mlin.github.io/ocaml-sqlite3EZ/) — Thin wrapper for SQLite3 with a simplified interface.
-    *   [ocaml-redis (⭐75)](https://github.com/0xffea/ocaml-redis) – Redis bindings for OCaml.
+    *   [ocaml-redis (⭐74)](https://github.com/0xffea/ocaml-redis) – Redis bindings for OCaml.
     *   [mysql](http://ygrek.org.ua/p/ocaml-mysql/) – Bindings to libmysqlclient for interacting with MySQL databases.
     *   [pgx (⭐122)](https://github.com/arenadotio/pgx) – A pure OCaml PostgreSQL client library.
     *   [mysql\_protocol (⭐14)](https://github.com/slegrand45/mysql_protocol) – Implementation of MySQL Protocol with the Bitstring library.
@@ -40,7 +40,7 @@
 
 ### Key Value Store
 
-*   [Prephirences (⭐569)](https://github.com/phimage/Prephirences) - Manage application preferences, NSUserDefaults, iCloud, Keychain and more.
+*   [Prephirences (⭐573)](https://github.com/phimage/Prephirences) - Manage application preferences, NSUserDefaults, iCloud, Keychain and more.
 
 ### Logging / Barcode
 
@@ -50,7 +50,7 @@
 
 ### Programming Languages / JavaScript
 
-*   [Principles of Writing Consistent, Idiomatic JavaScript (⭐24k)](https://github.com/rwaldron/idiomatic.js#readme)
+*   [Principles of Writing Consistent, Idiomatic JavaScript (⭐25k)](https://github.com/rwaldron/idiomatic.js#readme)
 
 ### Frameworks / AngularJS
 
@@ -140,7 +140,7 @@
 
 ### Testing
 
-*   [ExpressionToCode (⭐158)](https://github.com/EamonNerbonne/ExpressionToCode) - Use plain C# syntax in assertions that include both the expression expression and subexpression values in the failure message.
+*   [ExpressionToCode (⭐164)](https://github.com/EamonNerbonne/ExpressionToCode) - Use plain C# syntax in assertions that include both the expression expression and subexpression values in the failure message.
 
 ## [10. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
 
@@ -158,7 +158,7 @@
 
 ### Parallel Computing
 
-*   [ddR (⭐117)](https://github.com/vertica/ddR) - Provides distributed data structures and simplifies distributed computing in R.
+*   [ddR (⭐118)](https://github.com/vertica/ddR) - Provides distributed data structures and simplifies distributed computing in R.
 
 ## [13. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
@@ -257,14 +257,9 @@ Where hackers and security experts come to train.
 *   [Hiring Secrets Of A Distributed Company](https://www.lullabot.com/articles/hiring-secrets-of-a-distributed-company)
 *   [How Working at Home Works (For Us)](https://www.lullabot.com/articles/how-working-at-home-works-for-us)
 *   [Learning From Distributed Companies](https://www.lullabot.com/articles/learning-from-distributed-companies)
-*   [Managing a Geographically Dispersed Team: Achieving Your Goals Together, While Apart](https://www.mindtools.com/pages/article/newTMM_40.htm)
 *   [Remote Working – 3 Year Retrospective](http://blog.jonliv.es/blog/2015/01/14/remote-working-3-year-retrospective/)
 *   [What is a Distributed Company?](https://www.lullabot.com/articles/what-is-a-distributed-company)
 *   [Yahoo, Best Buy, and Telecommuting: Advice From A Distributed Company](https://www.lullabot.com/articles/yahoo-best-buy-and-telecommuting-advice-from-a-distributed-company)
-
-### Companies with "remote DNA"
-
-*   [Buffer](https://buffer.com/journey/) - Tools to help manage social media. PHP, CodeIgniter, MongoDB, Memcache, Backbone.js, React.js, Grunt.js, LESS, and Python.
 
 ## [20. Awesome Answers](/content/cyberglot/awesome-answers/week/README.md)
 
@@ -297,10 +292,10 @@ Where hackers and security experts come to train.
 ### Authentication
 
 *   [ueberauth (⭐1.6k)](https://github.com/ueberauth/ueberauth) - An Elixir Authentication System for Plug-based Web Applications.
-*   [ueberauth\_facebook (⭐76)](https://github.com/ueberauth/ueberauth_Facebook) - Facebook OAuth2 Strategy for Überauth.
-*   [ueberauth\_github (⭐103)](https://github.com/ueberauth/ueberauth_github) - A GitHub strategy for Überauth.
-*   [ueberauth\_google (⭐161)](https://github.com/ueberauth/ueberauth_google) - A Google strategy for Überauth.
-*   [ueberauth\_identity (⭐79)](https://github.com/ueberauth/ueberauth_identity) - A simple username/password strategy for Überauth.
+*   [ueberauth\_facebook (⭐78)](https://github.com/ueberauth/ueberauth_Facebook) - Facebook OAuth2 Strategy for Überauth.
+*   [ueberauth\_github (⭐102)](https://github.com/ueberauth/ueberauth_github) - A GitHub strategy for Überauth.
+*   [ueberauth\_google (⭐169)](https://github.com/ueberauth/ueberauth_google) - A Google strategy for Überauth.
+*   [ueberauth\_identity (⭐80)](https://github.com/ueberauth/ueberauth_identity) - A simple username/password strategy for Überauth.
 *   [ueberauth\_slack (⭐23)](https://github.com/ueberauth/ueberauth_slack) - A Slack strategy for Überauth.
 
 ### Build Tools
@@ -309,7 +304,7 @@ Where hackers and security experts come to train.
 
 ### HTTP
 
-*   [scrape (⭐326)](https://github.com/Anonyfox/elixir-scrape) - Scrape any website, article or RSS/Atom Feed with ease.
+*   [scrape (⭐329)](https://github.com/Anonyfox/elixir-scrape) - Scrape any website, article or RSS/Atom Feed with ease.
 
 ### Third Party APIs
 
@@ -392,7 +387,6 @@ git help -g
 
 ### Colors / Icons Packages and Collections
 
-*   [0to255](http://www.0to255.com/) - A simple tool that helps web designers find variations of any color.
 *   [Bootflat](http://bootflat.github.io/color-picker.html) - Bootflat Flat UI color picker is a project digging the Flat Color Picker which gives you the perfect colors for flat designs.
 
 ### How to Share / Icons Packages and Collections
@@ -504,7 +498,7 @@ git help -g
 
 ### CLI Utilities
 
-*   [Paint (⭐369)](https://github.com/janlelis/paint) - Simple and fast way to set ANSI terminal colors.
+*   [Paint (⭐375)](https://github.com/janlelis/paint) - Simple and fast way to set ANSI terminal colors.
 
 ### Third-party APIs
 

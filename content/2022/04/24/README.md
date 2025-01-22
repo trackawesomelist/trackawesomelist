@@ -28,12 +28,12 @@
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [bosh (thomasmitchell) (⭐9)](https://github.com/thomasmitchell/bosh-complete) - Tab completion for [BOSH (⭐2k)](https://github.com/cloudfoundry/bosh)].
+*   [bosh (thomasmitchell) (⭐9)](https://github.com/thomasmitchell/bosh-complete) - Tab completion for [BOSH (⭐2k)](https://github.com/cloudfoundry/bosh).
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [skill (asafaeirad) (⭐13)](https://github.com/ASafaeirad/oh-my-zsh-skill-theme) - Includes decorations for working directory, `git` working branch, working directory status and tracking branch status.
-*   [skill (frontendmonster) (⭐13)](https://github.com/frontendmonster/oh-my-zsh-skill-theme) - Optimized for a dark terminal, displays `git` status decorations.
+*   [skill (asafaeirad) (⭐15)](https://github.com/ASafaeirad/oh-my-zsh-skill-theme) - Includes decorations for working directory, `git` working branch, working directory status and tracking branch status.
+*   [skill (frontendmonster) (⭐15)](https://github.com/frontendmonster/oh-my-zsh-skill-theme) - Optimized for a dark terminal, displays `git` status decorations.
 
 ## [4. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
 
@@ -73,7 +73,7 @@
 
 ### Libraries
 
-*   [fp-multik (⭐6)](https://github.com/lulldev/fp-multik) - JS/TS lightweight value-multimethod util
+*   [fp-multik](https://github.com/lulldev/fp-multik) - JS/TS lightweight value-multimethod util
 
 ## [6. Awesome Capacitor](/content/riderx/awesome-capacitor/README.md)
 
@@ -82,14 +82,14 @@
 *   Firebase
     *   [AppCheck (⭐7)](https://github.com/mattmilan-dev/capacitor-firebase-appcheck) - Allows usage of native AppCheck tokens.
     *   [Dynamic Links (⭐22)](https://github.com/Pantrist-dev/capacitor-firebase-dynamic-links) - Firebase Dynamic Links.
-    *   [Push (⭐30)](https://github.com/EinfachHans/capacitor-firebase-push) - This Plugin it used for Firebase Push Messages. It support Data.
-*   [Photo library (⭐2)](https://github.com/diiiary/capacitor-plugin-photo-library) - Get all the images from system album.
+    *   [Push (⭐29)](https://github.com/EinfachHans/capacitor-firebase-push) - This Plugin it used for Firebase Push Messages. It support Data.
+*   [Photo library (⭐3)](https://github.com/diiiary/capacitor-plugin-photo-library) - Get all the images from system album.
 
 ### Tools / Incompatible
 
 *   [Docgen (⭐12)](https://github.com/ionic-team/capacitor-docgen) - Docs Readme Markdown and JSON Generator for Capacitor Plugins.
-*   [Plugin generator (⭐74)](https://github.com/ionic-team/create-capacitor-plugin) - Create a new Capacitor plugin.
-*   [Assets (⭐500)](https://github.com/ionic-team/capacitor-assets) - Local Capacitor icon/splash screen resource generation tool.
+*   [Plugin generator (⭐86)](https://github.com/ionic-team/create-capacitor-plugin) - Create a new Capacitor plugin.
+*   [Assets (⭐527)](https://github.com/ionic-team/capacitor-assets) - Local Capacitor icon/splash screen resource generation tool.
 
 ### Learning / Offical guides
 
@@ -116,9 +116,9 @@
 
 ### Demo apps / Case study
 
-*   [capacitor-testapp (⭐34)](https://github.com/ionic-team/capacitor-testapp) - The Capacitor TestApp is used to develop new features and verify bug fixes in Capacitor and the official plugins.
-*   [capacitor-plugin-demo (⭐96)](https://github.com/robingenz/capacitor-plugin-demo) - Simple Ionic Angular app to demonstrate the use of certain Capacitor plugins.
-*   [capacitor-firebase-plugin-demo (⭐13)](https://github.com/robingenz/capacitor-firebase-plugin-demo) - Simple Ionic Angular app to demonstrate the use of certain Capacitor Firebase plugins.
+*   [capacitor-testapp (⭐36)](https://github.com/ionic-team/capacitor-testapp) - The Capacitor TestApp is used to develop new features and verify bug fixes in Capacitor and the official plugins.
+*   [capacitor-plugin-demo (⭐102)](https://github.com/robingenz/capacitor-plugin-demo) - Simple Ionic Angular app to demonstrate the use of certain Capacitor plugins.
+*   [capacitor-firebase-plugin-demo (⭐15)](https://github.com/robingenz/capacitor-firebase-plugin-demo) - Simple Ionic Angular app to demonstrate the use of certain Capacitor Firebase plugins.
 
 ## [7. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
@@ -130,7 +130,7 @@
 
 ### Type / React
 
-*   [pothos (⭐2.3k)](https://github.com/hayes/pothos) - Pothos is a plugin based GraphQL schema builder for typescript. It makes building graphql schemas in typescript easy, fast and enjoyable.
+*   [pothos (⭐2.4k)](https://github.com/hayes/pothos) - Pothos is a plugin based GraphQL schema builder for typescript. It makes building graphql schemas in typescript easy, fast and enjoyable.
 
 ## [9. Awesome ad Free](/content/johnjago/awesome-ad-free/README.md)
 
@@ -142,7 +142,7 @@
 
 ### Components & Libraries / Utilities
 
-*   [apollo-vue-devtools (⭐19)](https://github.com/storipress/apollo-vue-devtools) - Apollo integration for Vue-Devtools to inspect GraphQL queries in the vue-devtools timeline
+*   [apollo-vue-devtools (⭐20)](https://github.com/storipress/apollo-vue-devtools) - Apollo integration for Vue-Devtools to inspect GraphQL queries in the vue-devtools timeline
 
 ## [11. Awesome Tdengine](/content/taosdata/awesome-tdengine/README.md)
 

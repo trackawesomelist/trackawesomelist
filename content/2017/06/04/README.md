@@ -10,7 +10,7 @@
 
 ### Models/Projects
 
-*   [VGAN Tensorflow (⭐14)](https://github.com/Singularity42/VGAN-Tensorflow) - Tensorflow implementation for MIT ["Generating Videos with Scene Dynamics"](http://carlvondrick.com/tinyvideo/) by Vondrick et al.
+*   [VGAN Tensorflow (⭐15)](https://github.com/Singularity42/VGAN-Tensorflow) - Tensorflow implementation for MIT ["Generating Videos with Scene Dynamics"](http://carlvondrick.com/tinyvideo/) by Vondrick et al.
 
 ## [2. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
 
@@ -22,16 +22,16 @@
 
 ### Object formatting
 
-*   [immutable-devtools (⭐661)](https://github.com/andrewdavey/immutable-devtools) - Custom formatter for Immutable-js values.
+*   [immutable-devtools (⭐662)](https://github.com/andrewdavey/immutable-devtools) - Custom formatter for Immutable-js values.
 
 ### CPU profile
 
-*   [call-trace (⭐35)](https://github.com/brendankenny/call-trace) - Can instrument your JS with hooks, and then generate a `.cpuprofile`  of the of the complete (non-sampled) execution. View either time or call counts.
+*   [call-trace (⭐36)](https://github.com/brendankenny/call-trace) - Can instrument your JS with hooks, and then generate a `.cpuprofile`  of the of the complete (non-sampled) execution. View either time or call counts.
 *   [cpuprofilify (⭐167)](https://github.com/thlorenz/cpuprofilify) - Converts output of various profiling/sampling tools to the `.cpuprofile` format.
 
 ### Multimedia
 
-*   [snapline (⭐393)](https://github.com/pmdartus/snapline) - Converts timeline screenshots to gif.
+*   [snapline (⭐394)](https://github.com/pmdartus/snapline) - Converts timeline screenshots to gif.
 
 ### Timeline, Tracing & Profiling
 

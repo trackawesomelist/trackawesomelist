@@ -31,7 +31,7 @@
 
 ### Tools / Misc
 
-*   [Arize AI](https://www.arize.com) - Model validaiton and performance monitoring, drift detection, explainability, visualization across structured and unstructured data
+*   [Arize AI](https://www.arize.com) - Model validation and performance monitoring, drift detection, explainability, visualization across structured and unstructured data
 
 ---
 

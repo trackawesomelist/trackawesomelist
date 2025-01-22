@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 12, 2021
 
-13 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -38,17 +38,17 @@
 
 ### Arcade
 
-*   [OpenTyrian (⭐406)](https://github.com/opentyrian/opentyrian) - An open-source port of Tyrian from Turbo Pascal to C. :flower\_playing\_cards:
+*   [OpenTyrian (⭐441)](https://github.com/opentyrian/opentyrian) - An open-source port of Tyrian from Turbo Pascal to C. :flower\_playing\_cards:
 
 ### Online
 
-*   [Ryzom Core (⭐327)](https://github.com/ryzom/ryzomcore) - Ryzom Core contains the whole code (client, server, tools) used to make the commercial MMORPG Ryzom. :flower\_playing\_cards:
+*   [Ryzom Core (⭐338)](https://github.com/ryzom/ryzomcore) - Ryzom Core contains the whole code (client, server, tools) used to make the commercial MMORPG Ryzom. :flower\_playing\_cards:
 
 ## [6. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / General-Purpose Machine Learning
 
-*   [Gradio (⭐31k)](https://github.com/gradio-app/gradio) - A Python library for quickly creating and sharing demos of models. Debug models interactively in your browser, get feedback from collaborators, and generate public links without deploying anything.
+*   [Gradio (⭐35k)](https://github.com/gradio-app/gradio) - A Python library for quickly creating and sharing demos of models. Debug models interactively in your browser, get feedback from collaborators, and generate public links without deploying anything.
 
 ## [7. Awesome Analytics](/content/newTendermint/awesome-analytics/README.md)
 
@@ -73,19 +73,9 @@
 ### WebAssembly
 
 *   [lumen (⭐3.6k)](https://github.com/lumen/lumen) - An alternative BEAM implementation, designed for WebAssembly.
-*   [wasmex (⭐531)](https://github.com/tessi/wasmex/) - Execute WebAssembly / WASM binaries from Elixir.
+*   [wasmex (⭐584)](https://github.com/tessi/wasmex/) - Execute WebAssembly / WASM binaries from Elixir.
 
-## [11. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / Utilities
-
-*   [vuex-light (⭐7)](https://github.com/js-cosmos/vuex-light) - State management system with robust typing for Vue 3
-
-### Components & Libraries / Scaffold
-
-*   [vue-iview-electron-boilerplate (⭐0)](https://github.com/buyouzzj/vue-iview-electron) - An Electron & Vue.js boilerplate with iview4.x, Vue2.x, electron8.x and webpack4.x
-
-## [12. Awesome React](/content/enaqx/awesome-react/README.md)
+## [11. Awesome React](/content/enaqx/awesome-react/README.md)
 
 ### React Forms
 
@@ -95,11 +85,11 @@
 
 *   [react-native-vector-icons (⭐17k)](https://github.com/oblador/react-native-vector-icons) - Customizable Icons for React Native
 
-## [13. Awesome List](/content/sindresorhus/awesome/README.md)
+## [12. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Miscellaneous
 
-*   [Veganism (⭐67)](https://github.com/sdassow/awesome-veganism#readme) - Making the plant-based lifestyle easy and accessible.
+*   [Veganism (⭐68)](https://github.com/sdassow/awesome-veganism#readme) - Making the plant-based lifestyle easy and accessible.
 
 ---
 

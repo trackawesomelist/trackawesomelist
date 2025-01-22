@@ -34,7 +34,7 @@
 
 ### Keyboard
 
-*   [Ribbon (⭐294)](https://github.com/chriszielinski/Ribbon) - A simple cross-platform toolbar/custom input accessory view library for iOS & macOS.
+*   [Ribbon (⭐298)](https://github.com/chriszielinski/Ribbon) - A simple cross-platform toolbar/custom input accessory view library for iOS & macOS.
 
 ## [6. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
 
@@ -46,7 +46,7 @@
 
 ### Routing / Runner
 
-*   [navaid (⭐762)](https://github.com/lukeed/navaid) - A navigation aid (aka, router) for the browser in 850 bytes\~!
+*   [navaid (⭐773)](https://github.com/lukeed/navaid) - A navigation aid (aka, router) for the browser in 850 bytes\~!
 
 ---
 

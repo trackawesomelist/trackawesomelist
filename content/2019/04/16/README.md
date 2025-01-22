@@ -14,7 +14,7 @@
 
 ### Resources / Tutorials
 
-*   [pg-utils (⭐990)](https://github.com/dataegret/pg-utils) - Useful DBA tools by Data Egret
+*   [pg-utils (⭐1k)](https://github.com/dataegret/pg-utils) - Useful DBA tools by Data Egret
 
 ## [2. Awesome Storybook](/content/lauthieb/awesome-storybook/README.md)
 
@@ -26,13 +26,11 @@
 
 ### Resources / Job Portal
 
-*   [Vue.js Interview Questions (⭐2.5k)](https://github.com/sudheerj/vuejs-interview-questions) - A List of 300 VueJS Interview Questions and Answers
+*   [Vue.js Interview Questions (⭐2.6k)](https://github.com/sudheerj/vuejs-interview-questions) - A List of 300 VueJS Interview Questions and Answers
 
 ### Resources / Community
 
 *   [VueJS Vix - Telegram Group \[Portuguese\]](https://t.me/vuejsvix)
-*   [VueJS Vix - Meetup Page \[Portuguese\]](https://www.meetup.com/pt-BR/Vue-js-in-Vix/)
-*   [VueJS Norway - Meetup](https://www.meetup.com/VueJS-Oslo/)
 *   [VueJS Israel 🇮🇱 - Facebook Page](https://www.facebook.com/officalVuejsIsrael/)
 
 ### Resources / Podcasts
@@ -55,11 +53,11 @@
 
 ### Networking
 
-*   [librdkafka (⭐101)](https://github.com/edenhill/librdkafka) - Apache Kafka client library for C and C++. \[BSD-2-Clause]
+*   [librdkafka (⭐368)](https://github.com/edenhill/librdkafka) - Apache Kafka client library for C and C++. \[BSD-2-Clause]
 
 ### Reflection
 
-*   [meta (⭐572)](https://github.com/skypjack/meta) - Header-only, non-intrusive and macro-free runtime reflection system in C++. \[MIT]
+*   [meta (⭐608)](https://github.com/skypjack/meta) - Header-only, non-intrusive and macro-free runtime reflection system in C++. \[MIT]
 
 ### Scripting
 
@@ -67,7 +65,7 @@
 
 ### Miscellaneous
 
-*   [CPPItertools (⭐1.3k)](https://github.com/ryanhaining/cppitertools) - Range-based for loop add-ons inspired by the Python builtins and itertools library. \[BSD-2-Clause]
+*   [CPPItertools (⭐1.4k)](https://github.com/ryanhaining/cppitertools) - Range-based for loop add-ons inspired by the Python builtins and itertools library. \[BSD-2-Clause]
 *   [mio (⭐1.7k)](https://github.com/mandreyel/mio) - Cross-platform C++11 header-only library for memory mapped file IO. \[MIT]
 
 ## [7. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
@@ -87,22 +85,22 @@
 
 ### Media Players
 
-*   [rx-player (⭐844)](https://github.com/canalplus/rx-player) - HTML5/Javascript video player that supports MPEG-DASH and SmoothStreaming.
+*   [rx-player (⭐870)](https://github.com/canalplus/rx-player) - HTML5/Javascript video player that supports MPEG-DASH and SmoothStreaming.
 
 ### Monitoring & Quality Control
 
-*   [LTC-tools (⭐67)](https://github.com/x42/ltc-tools) - A collection of tools to handle Linear Timecode (LTC) and convert to MIDI Timecode (MTC).
+*   [LTC-tools (⭐71)](https://github.com/x42/ltc-tools) - A collection of tools to handle Linear Timecode (LTC) and convert to MIDI Timecode (MTC).
 
 ### Multimedia content processing
 
-*   [AvTranscoder (⭐161)](https://github.com/avTranscoder/avTranscoder) - FFmpeg/LibAV-based high-level API to re-wrap or transcode media, with bindings for Java and Python.
+*   [AvTranscoder (⭐164)](https://github.com/avTranscoder/avTranscoder) - FFmpeg/LibAV-based high-level API to re-wrap or transcode media, with bindings for Java and Python.
 *   [FFmpeg](http://ffmpeg.org) - A cross-platform solution to record, convert and stream audio and video. Supports SMPTE ST 2110.
 *   [VideoContext (⭐1.3k)](https://github.com/bbc/videocontext) - Experimental HTML5/WebGL library for creating interactive and responsive web videos.
-*   [Voctomix (⭐573)](https://github.com/voc/voctomix) - Customizable conference recording/mixing/streaming software based on Python and GStreamer.
+*   [Voctomix (⭐583)](https://github.com/voc/voctomix) - Customizable conference recording/mixing/streaming software based on Python and GStreamer.
 
 ### Network & Storage Testing
 
-*   [SMPTE 2110-20 Analyzer (⭐67)](https://github.com/ebu/smpte2110-analyzer) - Analyzer to inspect network packets generated in accordance with SMPTE ST 2110.
+*   [SMPTE 2110-20 Analyzer (⭐71)](https://github.com/ebu/smpte2110-analyzer) - Analyzer to inspect network packets generated in accordance with SMPTE ST 2110.
 
 ### Software-defined radio
 
@@ -114,7 +112,7 @@
 *   [EBU-TT Live Interoperability Toolkit (⭐25)](https://github.com/ebu/ebu-tt-live-toolkit) - Components for generating, testing and distributing [EBU-TT Live](https://tech.ebu.ch/publications/tech3370) subtitles.
 *   [GStreamer TTML subtitling package (⭐19)](https://github.com/bbc/gst-ttml-subtitles) - A means for GStreamer pipelines to parse and render EBU-TT-D (TTML) subtitles.
 *   [IRT EBU-TT-D Application Samples (⭐13)](https://github.com/IRT-Open-Source/irt-ebu-tt-d-application-samples) - EBU-TT-D sample files, PNG images and mp4 videos as rendering references.
-*   [Subtitling Conversion Framework (SCF) (⭐52)](https://github.com/Irt-Open-Source/scf) - Modules for converting subtitle formats, incl. EBU STL and EBU-TT files.
+*   [Subtitling Conversion Framework (SCF) (⭐54)](https://github.com/Irt-Open-Source/scf) - Modules for converting subtitle formats, incl. EBU STL and EBU-TT files.
 *   [Timed Text Toolkit (ttt) (⭐74)](https://github.com/skynav/ttt) - Tools that support/use the W3C Timed Text Markup Language (TTML).
 
 ### Video Production

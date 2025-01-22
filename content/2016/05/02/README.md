@@ -1,6 +1,6 @@
 # Awesome List Updates on May 02, 2016
 
-8 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -120,29 +120,23 @@ Both chaining and [caching](#cache-jquery-selectors) methods in jQuery are best 
 
 ### StackView / Barcode
 
-*   [StackViewController (⭐867)](https://github.com/seedco/StackViewController) - Simplify the use of UIStackView.
+*   [StackViewController (⭐868)](https://github.com/seedco/StackViewController) - Simplify the use of UIStackView.
 *   [TZStackView (⭐1.2k)](https://github.com/tomvanzummeren/TZStackView) - An iOS9 UIStackView layout component re-implemented for iOS 7 and 8.
 
-## [5. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
-
-### Job boards aggregators
-
-*   [Work Remotely](https://workremotely.io/) - Crawls and curates many job board feeds for remote positions
-
-## [6. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/README.md)
+## [5. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/README.md)
 
 ### Modules / Stream
 
 *   [through2-map-promise (⭐3)](https://github.com/RangerMauve/through2-map-promise) - A small promise-based wrapper for through2.
 
-## [7. Awesome Knockout](/content/dnbard/awesome-knockout/README.md)
+## [6. Awesome Knockout](/content/dnbard/awesome-knockout/README.md)
 
 ### Plugins and libraries
 
 *   [Projections (⭐4)](https://github.com/profiscience/ko-projections) - Adds lodash FP chainability to observable arrays
 *   [Router (⭐67)](https://github.com/profiscience/ko-component-router) - Router for single-page apps
 
-## [8. Colorful](/content/Siddharth11/Colorful/README.md)
+## [7. Colorful](/content/Siddharth11/Colorful/README.md)
 
 ### Articles / Web App
 

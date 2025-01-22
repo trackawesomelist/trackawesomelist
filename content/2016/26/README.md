@@ -22,7 +22,7 @@
 
 ### Utilities
 
-*   [Vert.x Cron (⭐61)](https://github.com/diabolicallabs/vertx-cron) - Schedule events with cron specifications. Has event bus and Observable versions.
+*   [Vert.x Cron (⭐64)](https://github.com/diabolicallabs/vertx-cron) - Schedule events with cron specifications. Has event bus and Observable versions.
 
 ## [4. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
 
@@ -323,15 +323,15 @@ git blame <file-name>
 
 ### Code Analysis and Metrics
 
-*   [Metrics-Net (⭐641)](https://github.com/Recognos/Metrics.NET) - Capturing CLR and application-level metrics. So you know what's going on.
+*   [Metrics-Net (⭐640)](https://github.com/Recognos/Metrics.NET) - Capturing CLR and application-level metrics. So you know what's going on.
 
 ### Minification
 
-*   [Web Markup Minifier (⭐444)](https://github.com/Taritsyn/WebMarkupMin) - .NET library that contains a set of markup minifiers. The objective of this project is to improve the performance of web applications by reducing the size of HTML, XHTML and XML code.
+*   [Web Markup Minifier (⭐460)](https://github.com/Taritsyn/WebMarkupMin) - .NET library that contains a set of markup minifiers. The objective of this project is to improve the performance of web applications by reducing the size of HTML, XHTML and XML code.
 
 ### Queue
 
-*   [Warewolf ESB (⭐270)](https://github.com/Warewolf-ESB/Warewolf) - An easy to use service bus and microservices platform. Easily build applications and services in a visual IDE.
+*   [Warewolf ESB (⭐273)](https://github.com/Warewolf-ESB/Warewolf) - An easy to use service bus and microservices platform. Easily build applications and services in a visual IDE.
 
 ### Testing
 
@@ -347,8 +347,8 @@ git blame <file-name>
 
 ### Packages / Command-line apps
 
-*   [jscpd (⭐4.6k)](https://github.com/kucherenko/jscpd) - Copy/paste detector for source code.
-*   [atmo (⭐816)](https://github.com/Raathigesh/Atmo) - Server-side API mocking.
+*   [jscpd (⭐4.7k)](https://github.com/kucherenko/jscpd) - Copy/paste detector for source code.
+*   [atmo (⭐815)](https://github.com/Raathigesh/Atmo) - Server-side API mocking.
 
 ## [34. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
@@ -482,7 +482,7 @@ git blame <file-name>
 
 ### Images / Barcode
 
-*   [Moa (⭐332)](https://github.com/evgenyneu/moa) - An image download extension of the image view for iOS, tvOS and macOS.
+*   [Moa (⭐333)](https://github.com/evgenyneu/moa) - An image download extension of the image view for iOS, tvOS and macOS.
 
 ### Utility / Barcode
 

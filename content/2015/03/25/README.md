@@ -10,7 +10,7 @@
 
 ### Security
 
-*   [Rack::Attack (⭐5.5k)](https://github.com/kickstarter/rack-attack) - Rack middleware for blocking & throttling abusive requests.
+*   [Rack::Attack (⭐5.6k)](https://github.com/kickstarter/rack-attack) - Rack middleware for blocking & throttling abusive requests.
 
 ## [2. Awesome Answers](/content/cyberglot/awesome-answers/README.md)
 
@@ -26,7 +26,7 @@
 
 ### Core Data
 
-*   [JSQCoreDataKit (⭐614)](https://github.com/jessesquires/JSQCoreDataKit) - A swifter Core Data stack.
+*   [JSQCoreDataKit (⭐616)](https://github.com/jessesquires/JSQCoreDataKit) - A swifter Core Data stack.
 
 ---
 

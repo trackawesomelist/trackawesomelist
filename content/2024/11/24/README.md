@@ -16,23 +16,23 @@
 
 ### (requires Neovim 0.5)
 
-*   [Dan7h3x/signup.nvim (⭐20)](https://github.com/Dan7h3x/signup.nvim) - a little smart `lsp_signature` helper with awesome features.
+*   [Dan7h3x/signup.nvim (⭐39)](https://github.com/Dan7h3x/signup.nvim) - a little smart `lsp_signature` helper with awesome features.
 
 ### Terminal Integration / Diagnostics
 
-*   [Dan7h3x/neaterm.nvim (⭐26)](https://github.com/Dan7h3x/neaterm.nvim) - A little smart terminal/REPL manager with awesome features.
+*   [Dan7h3x/neaterm.nvim (⭐38)](https://github.com/Dan7h3x/neaterm.nvim) - A little smart terminal/REPL manager with awesome features.
 
 ### Neovim Lua Development / Diagnostics
 
-*   [2KAbhishek/utils.nvim (⭐9)](https://github.com/2KAbhishek/utils.nvim) - Powerful utilities to speed up plugin development.
+*   [2KAbhishek/utils.nvim (⭐10)](https://github.com/2KAbhishek/utils.nvim) - Powerful utilities to speed up plugin development.
 
 ### GitHub / Diagnostics
 
-*   [2KAbhishek/octohub.nvim (⭐64)](https://github.com/2KAbhishek/octohub.nvim) - Access all your gihub repos, stats and more in simple keystrokes.
+*   [2KAbhishek/octohub.nvim (⭐68)](https://github.com/2KAbhishek/octohub.nvim) - Access all your gihub repos, stats and more in simple keystrokes.
 
 ### Competitive Programming / Diagnostics
 
-*   [2KAbhishek/exercism.nvim (⭐5)](https://github.com/2KAbhishek/exercism.nvim) - Browse and solve Exercism problems.
+*   [2KAbhishek/exercism.nvim (⭐19)](https://github.com/2KAbhishek/exercism.nvim) - Browse and solve Exercism problems.
 
 ### Boilerplate / Diagnostics
 
@@ -48,25 +48,26 @@
 
 ### Platforms
 
-*   [Windows (⭐352)](https://github.com/0pandadev/awesome-windows#readme) - Consumer desktop operating system.
-    *   [PowerToys Run Plugins (⭐259)](https://github.com/hlaueriksson/awesome-powertoys-run-plugins#readme) - Community plugins for the Windows quick launcher.
+*   [Windows (⭐390)](https://github.com/0pandadev/awesome-windows#readme) - Consumer desktop operating system.
+    *   [PowerToys Run Plugins (⭐268)](https://github.com/hlaueriksson/awesome-powertoys-run-plugins#readme) - Community plugins for the Windows quick launcher.
 
 ### Back-End Development
 
-*   [Reflex (⭐32)](https://github.com/reflex-dev/awesome-reflex#readme) - Python web framework for building both your frontend and backend with no JavaScript.
+*   [Reflex (⭐38)](https://github.com/reflex-dev/awesome-reflex#readme) - Python web framework for building both your frontend and backend with no JavaScript.
 
 ## [5. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### UX Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-onboarding (⭐53)](https://github.com/rosen-group/ngx-onboarding) - This onboarding library enables you to integrate a tutorial seamlessly into your Angular application. This helps users to quickly and easily learn how to navigate and use your app, reducing the learning curve.
+*   [ngx-onboarding (⭐52)](https://github.com/rosen-group/ngx-onboarding) - This onboarding library enables you to integrate a tutorial seamlessly into your Angular application. This helps users to quickly and easily learn how to navigate and use your app, reducing the learning curve.
 
 ## [6. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [adguard-helper (⭐0)](https://github.com/MohamedElashri/adguard-helper) - Simplies interaction with the [AdGuard VPN CLI (⭐68)](https://github.com/AdguardTeam/AdGuardVPNCLI). It provides user-friendly commands that reduce the need to remember complex flags and commands by offering a more intuitive interface.
+*   [adguard-helper (⭐0)](https://github.com/MohamedElashri/adguard-helper) - Simplies interaction with the [AdGuard VPN CLI (⭐80)](https://github.com/AdguardTeam/AdGuardVPNCLI). It provides user-friendly commands that reduce the need to remember complex flags and commands by offering a more intuitive interface.
 
 ---
 
+- Prev: [Nov 25, 2024](/content/2024/11/25/README.md)
 - Next: [Nov 23, 2024](/content/2024/11/23/README.md)

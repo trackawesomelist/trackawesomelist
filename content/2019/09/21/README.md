@@ -38,14 +38,14 @@
 
 ### Icons / Upstream Style
 
-*   [GNOME++ (⭐163)](https://github.com/Bonandry/gnome-plus) - Third-party application icons compatible with GNOME's current guidelines.
-*   [Pop! (⭐200)](https://github.com/pop-os/icon-theme) - Official icon theme of Pop!\_OS by System76.
+*   [GNOME++ (⭐164)](https://github.com/Bonandry/gnome-plus) - Third-party application icons compatible with GNOME's current guidelines.
+*   [Pop! (⭐203)](https://github.com/pop-os/icon-theme) - Official icon theme of Pop!\_OS by System76.
 
 ## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Audio
 
-*   [libsoundio (⭐1.9k)](https://github.com/andrewrk/libsoundio) - C library for cross-platform real-time audio input and output. \[MIT] [website](http://libsound.io/)
+*   [libsoundio (⭐2k)](https://github.com/andrewrk/libsoundio) - C library for cross-platform real-time audio input and output. \[MIT] [website](http://libsound.io/)
 
 ### Coding Style Tools
 
@@ -55,7 +55,7 @@
 
 ### GitHub Tools and Management / Docker Container Actions
 
-*   [Build and Publish Android debug APK (⭐61)](https://github.com/ShaunLWM/action-release-debugapk)
+*   [Build and Publish Android debug APK (⭐66)](https://github.com/ShaunLWM/action-release-debugapk)
 
 ## [8. Awesome Icons](/content/vkarampinis/awesome-icons/README.md)
 

@@ -10,7 +10,7 @@
 
 ### Generators / Other
 
-*   [Docusaurus (⭐54k)](https://github.com/facebook/docusaurus) - React-based static site generator by Facebook, ideal for content-centric websites.
+*   [Docusaurus (⭐55k)](https://github.com/facebook/docusaurus) - React-based static site generator by Facebook, ideal for content-centric websites.
 
 ## [2. Awesome Bioie](/content/caufieldjh/awesome-bioie/README.md)
 
@@ -22,7 +22,7 @@
 
 ### Other / Godot version unknown
 
-*   [godot-gdscript-toolkit (⭐925)](https://github.com/Scony/godot-gdscript-toolkit) - Independent set of command line tools for working with GDScript - parser, linter and formatter (Godot 3.x).
+*   [godot-gdscript-toolkit (⭐1.1k)](https://github.com/Scony/godot-gdscript-toolkit) - Independent set of command line tools for working with GDScript - parser, linter and formatter.
 
 ## [4. Awesome Playwright](/content/mxschmitt/awesome-playwright/README.md)
 
@@ -66,7 +66,7 @@ Webpage: [natalisboa.com](https://natalisboa.com)
 
 ### GTFS Based Visualizations
 
-*   [All Transit](https://all-transit.com) - Interactive GTFS route and schedule animation (for U.S. cities) using Mapbox GL JS, Deck.gl and Transitland. Github repository [here (⭐24)](https://github.com/kylebarron/all-transit).
+*   [All Transit](https://all-transit.com) - Interactive GTFS route and schedule animation (for U.S. cities) using Mapbox GL JS, Deck.gl and Transitland. Github repository [here (⭐27)](https://github.com/kylebarron/all-transit).
 
 ## [7. Awesome K6](/content/grafana/awesome-k6/README.md)
 
@@ -105,37 +105,37 @@ Webpage: [natalisboa.com](https://natalisboa.com)
 
 ### Official Actions / Actions for GitHub Automation
 
-*   [actions/delete-package-versions (⭐194)](https://github.com/actions/delete-package-versions) - Delete versions of a package from GitHub Packages.
+*   [actions/delete-package-versions (⭐340)](https://github.com/actions/delete-package-versions) - Delete versions of a package from GitHub Packages.
 
 ### Deployment / Code Coverage
 
-*   [Netlify Deploy GitHub Action for each commit (⭐250)](https://github.com/nwtgck/actions-netlify)
+*   [Netlify Deploy GitHub Action for each commit (⭐325)](https://github.com/nwtgck/actions-netlify)
 
 ### Deployment / Docker
 
-*   [Build and publish docker images to any registry using Kaniko (⭐75)](https://github.com/outillage/kaniko-action)
+*   [Build and publish docker images to any registry using Kaniko (⭐119)](https://github.com/outillage/kaniko-action)
 
 ## [11. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Concurrency
 
-*   [SObjectizer (⭐474)](https://github.com/Stiffstream/sobjectizer) - An implementation of Actor, Publish-Subscribe, and CSP models in one rather small C++ framework. \[BSD-3-Clause]
+*   [SObjectizer (⭐505)](https://github.com/Stiffstream/sobjectizer) - An implementation of Actor, Publish-Subscribe, and CSP models in one rather small C++ framework. \[BSD-3-Clause]
 
 ### Miscellaneous
 
-*   [VarTypes (⭐15)](https://github.com/szi/vartypes) - A feature-rich, object-oriented framework for managing variables in C++ / Qt4. \[LGPL]
+*   [VarTypes (⭐16)](https://github.com/szi/vartypes) - A feature-rich, object-oriented framework for managing variables in C++ / Qt4. \[LGPL]
 
 ## [12. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### no-std crates / WIP
 
-*   [microfft](https://crates.io/crates/microfft): Embedded-friendly (`no_std`, no-`alloc`) fast fourier transforms - ![crates.io](https://img.shields.io/crates/v/microfft.svg)
+*   [microfft](https://crates.io/crates/microfft): Embedded-friendly (`no_std`, no-`alloc`) fast fourier transforms - [![crates.io](https://img.shields.io/crates/v/microfft.svg)](https://crates.io/crates/microfft)
 
 ## [13. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Related
 
-*   [Awesome CLI (⭐496)](https://github.com/umutphp/awesome-cli) - A simple command-line tool to dive into Awesome lists.
+*   [Awesome CLI (⭐525)](https://github.com/umutphp/awesome-cli) - A simple command-line tool to dive into Awesome lists.
 
 ## [14. Awesome Sdn](/content/sdnds-tw/awesome-sdn/README.md)
 
@@ -157,13 +157,13 @@ Webpage: [natalisboa.com](https://natalisboa.com)
 
 ### Map / Image Picker
 
-*   [AMap (⭐538)](https://github.com/fluttify-project/amap_map_fluttify) <!--stargazers:fluttify-project/amap_map_fluttify--> - Access to AMap services(高德地图) by [fluttify-project](https://github.com/fluttify-project)
+*   [AMap (⭐541)](https://github.com/fluttify-project/amap_map_fluttify) <!--stargazers:fluttify-project/amap_map_fluttify--> - Access to AMap services(高德地图) by [fluttify-project](https://github.com/fluttify-project)
 
 ## [16. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Projects
 
-*   [caniuse.rs (⭐168)](https://github.com/jplatte/caniuse.rs) - Rust feature search.
+*   [caniuse.rs (⭐175)](https://github.com/jplatte/caniuse.rs) - Rust feature search.
 
 ## [17. Awesome Code Review](/content/joho/awesome-code-review/README.md)
 
@@ -175,7 +175,7 @@ Webpage: [natalisboa.com](https://natalisboa.com)
 
 ### Maps
 
-*   [WhirlyGlobe-Maply (⭐826)](https://github.com/mousebird/WhirlyGlobe) - 3D globe and flat-map SDK for iOS. This toolkit has a large API for fine-grained control over the map or globe. It reads a wide variety of GIS data formats.
+*   [WhirlyGlobe-Maply (⭐832)](https://github.com/mousebird/WhirlyGlobe) - 3D globe and flat-map SDK for iOS. This toolkit has a large API for fine-grained control over the map or globe. It reads a wide variety of GIS data formats.
 
 ---
 

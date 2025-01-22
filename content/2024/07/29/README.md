@@ -22,15 +22,15 @@
 
 ### Messaging
 
-*   [Go-MediatR (⭐198)](https://github.com/mehdihadeli/Go-MediatR) - A library for handling mediator patterns and simplified CQRS patterns within an event-driven architecture, inspired by csharp MediatR library.
+*   [Go-MediatR (⭐218)](https://github.com/mehdihadeli/Go-MediatR) - A library for handling mediator patterns and simplified CQRS patterns within an event-driven architecture, inspired by csharp MediatR library.
 
 ### Utilities
 
-*   [cookie (⭐110)](https://github.com/syntaqx/cookie) - Cookie struct parsing and helper package.
+*   [cookie (⭐111)](https://github.com/syntaqx/cookie) - Cookie struct parsing and helper package.
 
 ### DevOps Tools / Libraries for creating HTTP middlewares
 
-*   [KubeVPN (⭐529)](https://github.com/kubenetworks/kubevpn) - KubeVPN offers a Cloud-Native Dev Environment that seamlessly connects to your Kubernetes cluster network.
+*   [KubeVPN (⭐593)](https://github.com/kubenetworks/kubevpn) - KubeVPN offers a Cloud-Native Dev Environment that seamlessly connects to your Kubernetes cluster network.
 
 ## [4. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
@@ -42,37 +42,37 @@
 
 ### Caching
 
-*   [BitFaster.Caching (⭐422)](https://github.com/bitfaster/BitFaster.Caching) - Thread-safe in-memory caches optimized for very high concurrent throughput, near optimal hit rate and low latency.
+*   [BitFaster.Caching (⭐498)](https://github.com/bitfaster/BitFaster.Caching) - Thread-safe in-memory caches optimized for very high concurrent throughput, near optimal hit rate and low latency.
 
 ### Decompilation
 
-*   [dnSpyEx (⭐6.4k)](https://github.com/dnSpyEx/dnSpy) - Unofficial revival of dnSpy
+*   [dnSpyEx (⭐7.6k)](https://github.com/dnSpyEx/dnSpy) - Unofficial revival of dnSpy
 
 ### Feature management
 
-*   [Microsoft.FeatureManagement (⭐1k)](https://github.com/microsoft/FeatureManagement-Dotnet) - This library provides a way to develop and expose applicaiton functionality based on feature flags. It enables scenarios like new feature rollouts and A/B testing for experimentation purposes. It also provides integration with common .NET coding patterns and ASP.NET Core.
+*   [Microsoft.FeatureManagement (⭐1.1k)](https://github.com/microsoft/FeatureManagement-Dotnet) - This library provides a way to develop and expose application functionality based on feature flags. It enables scenarios like new feature rollouts and A/B testing for experimentation purposes. It also provides integration with common .NET coding patterns and ASP.NET Core.
 
 ### Game
 
-*   [Friflo.Engine.ECS (⭐160)](https://github.com/friflo/Friflo.Json.Fliox/blob/main/Engine/README.md) -  High-performance C# ECS with simple API. Supports .NET, WASM/WebAssembly, Native AOT, Unity, Godot, MonoGame, ...
+*   [Friflo.Engine.ECS (⭐169)](https://github.com/friflo/Friflo.Json.Fliox/blob/main/Engine/README.md) -  High-performance C# ECS with simple API. Supports .NET, WASM/WebAssembly, Native AOT, Unity, Godot, MonoGame, ...
 
 ### ORM
 
-*   [Friflo.Json.Fliox (⭐160)](https://github.com/friflo/Friflo.Json.Fliox) - High performane ORM for Sqlite, MySql, SqlServer, PostgreSQL & NoSQL. Provides server with REST, GraphQL & WebSocket / PubSub API.
+*   [Friflo.Json.Fliox (⭐169)](https://github.com/friflo/Friflo.Json.Fliox) - High performane ORM for Sqlite, MySql, SqlServer, PostgreSQL & NoSQL. Provides server with REST, GraphQL & WebSocket / PubSub API.
 
 ### Queue
 
-*   [AsyncMonolith (⭐41)](https://github.com/Timmoth/AsyncMonolith) - Facilitates simple asynchronous messaging in dotnet apps.
+*   [AsyncMonolith (⭐55)](https://github.com/Timmoth/AsyncMonolith) - Facilitates simple asynchronous messaging in dotnet apps.
 
 ### Web Browsers
 
-*   [SharpBrowser (⭐826)](https://github.com/sharpbrowser/SharpBrowser) - A full featured .NET web-browser built using C# and CefSharp
+*   [SharpBrowser (⭐914)](https://github.com/sharpbrowser/SharpBrowser) - A full featured .NET web-browser built using C# and CefSharp
 
 ## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Golang / Diagnostics
 
-*   [maxandron/goplements.nvim (⭐50)](https://github.com/maxandron/goplements.nvim) - Visualize Go struct and interface implementations.
+*   [maxandron/goplements.nvim (⭐60)](https://github.com/maxandron/goplements.nvim) - Visualize Go struct and interface implementations.
 
 ## [6. Awesome Capacitorjs](/content/capawesome-team/awesome-capacitorjs/README.md)
 
@@ -91,16 +91,16 @@
 
 ### Applications / Blockchain
 
-*   [Subspace (⭐374)](https://github.com/autonomys/subspace) - The first layer-one blockchain that can fully resolve the blockchain trilemma by simultaneously achieving scalability, security, and decentralization.
+*   [Subspace (⭐392)](https://github.com/autonomys/subspace) - The first layer-one blockchain that can fully resolve the blockchain trilemma by simultaneously achieving scalability, security, and decentralization.
 
 ### Libraries / Encoding
 
 *   JSON
-    *   [cloudwego/sonic-rs (⭐390)](https://github.com/cloudwego/sonic-rs) \[[sonic-rs](https://crates.io/crates/sonic-rs)] - A fast Rust JSON library based on SIMD.
-    *   [importcjj/rust-ajson (⭐104)](https://github.com/importcjj/rust-ajson) \[[ajson](https://crates.io/crates/ajson)] - Get JSON values quickly
-    *   [rustadopt/jzon-rs (⭐8)](https://github.com/rustadopt/jzon-rs/) \[[jzon](https://crates.io/crates/jzon)] - JSON implementation
-    *   [serde-rs/json (⭐4.8k)](https://github.com/serde-rs/json) \[[serde\_json](https://crates.io/crates/serde_json)] - JSON support for [Serde (⭐8.9k)](https://github.com/serde-rs/serde) framework
-    *   [simd-lite/simd-json (⭐1.1k)](https://github.com/simd-lite/simd-json) \[[simd-json](https://crates.io/crates/simd-json)] - High performance JSON parser based on a port of simdjson
+    *   [cloudwego/sonic-rs (⭐527)](https://github.com/cloudwego/sonic-rs) \[[sonic-rs](https://crates.io/crates/sonic-rs)] - A fast Rust JSON library based on SIMD.
+    *   [importcjj/rust-ajson (⭐105)](https://github.com/importcjj/rust-ajson) \[[ajson](https://crates.io/crates/ajson)] - Get JSON values quickly
+    *   [rustadopt/jzon-rs (⭐9)](https://github.com/rustadopt/jzon-rs/) \[[jzon](https://crates.io/crates/jzon)] - JSON implementation
+    *   [serde-rs/json (⭐5k)](https://github.com/serde-rs/json) \[[serde\_json](https://crates.io/crates/serde_json)] - JSON support for [Serde (⭐9.4k)](https://github.com/serde-rs/serde) framework
+    *   [simd-lite/simd-json (⭐1.2k)](https://github.com/simd-lite/simd-json) \[[simd-json](https://crates.io/crates/simd-json)] - High performance JSON parser based on a port of simdjson
 
 ## [9. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
@@ -110,17 +110,17 @@
 
 ### Unspecified / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [Windmillcode-Angular-CDK (⭐0)](https://github.com/WindMillCode/Windmillcode-Angular-CDK) - Provides a collection of reusable UI components, each crafted with attention to detail and performance.
+*   [Windmillcode-Angular-CDK (⭐36)](https://github.com/WindMillCode/Windmillcode-Angular-CDK) - Provides a collection of reusable UI components, each crafted with attention to detail and performance.
 
 ## [10. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
 ### Protocols
 
-*   [Liquid Auth (⭐18)](https://github.com/algorandfoundation/liquid-auth) -  Liquid Auth is a self-hosted authentication service that provides a simple way to associate Passkeys to KeyPair(s) commonly found in cryptocurrencies. In addition to authentication, Liquid Auth provides a Peer to Peer signaling service. Not only can you authenticate users, but you can also establish secure connections between them.
+*   [Liquid Auth (⭐22)](https://github.com/algorandfoundation/liquid-auth) - Liquid Auth is a self-hosted authentication service that provides a simple way to associate Passkeys to KeyPair(s) commonly found in cryptocurrencies. In addition to authentication, Liquid Auth provides a Peer to Peer signaling service. Not only can you authenticate users, but you can also establish secure connections between them.
 
 ### AlgoKit Templates / Official
 
-*   [algokit-python-template (⭐5)](https://github.com/algorandfoundation/algokit-python-template) - Official AlgoKit's Algorand Python template provides a production-ready baseline for developing and deploying smart contracts in Python.
+*   [algokit-python-template (⭐6)](https://github.com/algorandfoundation/algokit-python-template) - Official AlgoKit's Algorand Python template provides a production-ready baseline for developing and deploying smart contracts in Python.
 
 ### Other Development Tools / Wallets
 

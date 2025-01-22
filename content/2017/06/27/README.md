@@ -8,7 +8,7 @@
 
 ## [1. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
 
-### Competitions
+### Competitions / Commerical Tools
 
 *   [MIT Battlecode](https://www.battlecode.org/)
 
@@ -16,7 +16,7 @@
 
 ### Swift / General-Purpose Machine Learning
 
-*   [Perfect TensorFlow (⭐167)](https://github.com/PerfectlySoft/Perfect-TensorFlow) - Swift Language Bindings of TensorFlow. Using native TensorFlow models on both macOS / Linux.
+*   [Perfect TensorFlow (⭐168)](https://github.com/PerfectlySoft/Perfect-TensorFlow) - Swift Language Bindings of TensorFlow. Using native TensorFlow models on both macOS / Linux.
 
 ## [3. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 

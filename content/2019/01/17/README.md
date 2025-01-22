@@ -26,7 +26,7 @@
 
 ### Templates / Preferences
 
-*   [Starter Kit (⭐786)](https://github.com/KingWu/flutter_starter_kit) <!--stargazers:KingWu/flutter_starter_kit--> - App Store implementation to learn Bloc, RxDart, Sqflite, Fluro and Dio. by [King Wu](https://github.com/KingWu)
+*   [Starter Kit (⭐795)](https://github.com/KingWu/flutter_starter_kit) <!--stargazers:KingWu/flutter_starter_kit--> - App Store implementation to learn Bloc, RxDart, Sqflite, Fluro and Dio. by [King Wu](https://github.com/KingWu)
 
 ### Presentation material / Game Engine resources
 
@@ -61,7 +61,7 @@
 
 ### Payment / Barcode
 
-*   [MFCard (⭐363)](https://github.com/MobileFirstInc/MFCard) - Easily integrate Credit Card payments in iOS App.
+*   [MFCard (⭐365)](https://github.com/MobileFirstInc/MFCard) - Easily integrate Credit Card payments in iOS App.
 
 ## [8. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
@@ -102,7 +102,7 @@
 
 ### Developer Tools / Developer Utilities
 
-*   [Visual Paradigm](https://www.visual-paradigm.com/) - All-in-one UML, SysML, BPMN Modeling Platform for Agile, EA TOGAF ADM Process Management.
+*   [Visual Paradigm](https://www.visual-paradigm.com/) - All-in-one UML, SysML, BPMN modeling platform.
 
 ## [11. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
 

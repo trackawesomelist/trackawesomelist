@@ -10,7 +10,7 @@
 
 ### API
 
-*   [Telegram.Bot (⭐3.1k)](https://github.com/TelegramBots/Telegram.Bot) - .NET Client for [Telegram Bot API](https://core.telegram.org/bots/api)
+*   [Telegram.Bot (⭐3.3k)](https://github.com/TelegramBots/Telegram.Bot) - .NET Client for [Telegram Bot API](https://core.telegram.org/bots/api)
 
 ### Business Intelligence
 
@@ -18,11 +18,11 @@
 
 ### Machine Learning and Data Science
 
-*   [ML.NET (⭐9k)](https://github.com/dotnet/machinelearning) - Cross-platform open-source machine learning framework which makes machine learning accessible to .NET developers.
+*   [ML.NET (⭐9.1k)](https://github.com/dotnet/machinelearning) - Cross-platform open-source machine learning framework which makes machine learning accessible to .NET developers.
 
 ### Protocols
 
-*   [SharpSnmpLib](https://docs.sharpsnmp.com/) - An open source SNMP implementation for .NET/Mono/Xamarin. Versioin 1, 2c, and 3 are supported.
+*   [SharpSnmpLib](https://docs.sharpsnmp.com/) - An open source SNMP implementation for .NET/Mono/Xamarin. Version 1, 2c, and 3 are supported.
 
 ## [2. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/README.md)
 

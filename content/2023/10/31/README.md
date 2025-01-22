@@ -24,13 +24,13 @@
 
 ### Science Logology / AI Assisted Research
 
-*   [Single-atom alloy catalysts designed by first-principles calculations and artificial intelligence](https://www.nature.com/articles/s41467-021-22048-9) - ***Nature Communications***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=6593978922251447907\&hl=en\&as_sdt=0,5)].
+*   [Single-atom alloy catalysts designed by first-principles calculations and artificial intelligence](https://www.nature.com/articles/s41467-021-22048-9) - ***Nature Communications***, 2021. \[[All Versions](hhttps://scholar.google.com/scholar?cluster=6593978922251447907)]. This paper addresses the problem of new Single-atom-alloy catalysts (SAACs) discovery by applying a compressed-sensing data-analytics approach parameterized with density-functional inputs.
 
 ## [3. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications
 
-*   [WinterJS (⭐3k)](https://github.com/wasmerio/winterjs) - A secure JavaScript runtime built with SpiderMonkey and Axum
+*   [WinterJS (⭐3.1k)](https://github.com/wasmerio/winterjs) - A secure JavaScript runtime built with SpiderMonkey and Axum
 
 ## [4. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -46,25 +46,25 @@
 
 ### Plugins
 
-*   🧬 [Htmx (⭐18)](https://github.com/aniftyco/tailwind-htmx) - Adds variants for styling on [htmx](https://htmx.org/reference/#classes) events.
+*   🧬 [Htmx (⭐19)](https://github.com/aniftyco/tailwind-htmx) - Adds variants for styling on [htmx](https://htmx.org/reference/#classes) events.
 
 ## [6. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Tools / Playground
 
-*   [OXC (⭐10k)](https://github.com/web-infra-dev/oxc) - A suite of high-performance tools for JavaScript and TypeScript written in Rust
+*   [OXC (⭐13k)](https://github.com/web-infra-dev/oxc) - A suite of high-performance tools for JavaScript and TypeScript written in Rust
 
 ## [7. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
 ### Rust / Git
 
-*   [botan-rs (⭐29)](https://github.com/randombit/botan-rs) - Botan bindings for Rust.
+*   [botan-rs (⭐32)](https://github.com/randombit/botan-rs) - Botan bindings for Rust.
 
 ## [8. Awesome Opentofu](/content/virtualroot/awesome-opentofu/README.md)
 
 ### Tools / CI
 
-*   [setup-opentofu (⭐81)](https://github.com/opentofu/setup-opentofu) - Set up OpenTofu CLI in your GitHub Actions workflow.
+*   [setup-opentofu (⭐91)](https://github.com/opentofu/setup-opentofu) - Set up OpenTofu CLI in your GitHub Actions workflow.
 
 ## [9. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
 
@@ -91,7 +91,7 @@
 
 ### Security
 
-*   [beelzebub (⭐640)](https://github.com/mariocandela/beelzebub) - A secure low code honeypot framework, leveraging AI for System Virtualization.
+*   [beelzebub (⭐730)](https://github.com/mariocandela/beelzebub) - A secure low code honeypot framework, leveraging AI for System Virtualization.
 
 ## [12. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
@@ -103,15 +103,6 @@
 
 ### Party
 
-### [The Gilded Realms](https://boardgamegeek.com/boardgame/397099/gilded-realms)
-
-> The Gilded Realms is a euro-style kingdom builder board game set in a medieval fantasy world, where players will be tasked with ruling over their young but ambitious kingdoms. In this hybrid simultaneous turn-based game of economic management and risk assessment, you and up to three other players will command a unique Faction and compete for the title of ultimate regent.Through careful planning of two builds a turn and management of your resources you must develop your five provinces and construct a thriving income, all the while, fending off competing kingdoms and the invading Sarrukar forces with your armies and fortifications. Players can also earn Gold and Gems from successful caravan trading and management of their kingdom’s stance during economic events. Or they can send armies into other player’s Hinterlands to raid their Caravans and take Endeavour cards for themselves! At the end of the 12th round of play, players earn prestigious titles based on their Victory Points, the highest earning the Serpens Champion and declared winner of The Gilded Realms!
-
-![The Gilded Realms](https://cf.geekdo-images.com/gWNSCaB9gE-cPNHhH33uQQ__itemrep/img/ulauk-nriJFsto6y8EJA76FH1z4=/fit-in/246x300/filters:strip_icc\(\)/pic7666055.jpg)
-
-| Players | Min. Age |    Time |
-| ------: | -------: | ------: |
-|   2 - 4 |      14+ | 90-180m |
 ### [Saboteur](https://boardgamegeek.com/boardgame/9220/saboteur)
 
 > With the help of Dwarf Cards, the players are assigned their role: either miner or saboteur. The roles are kept secret until the end of the round. As miners, they are hunting for gold. The miners are trying to build an uninterrupted path from the Start Card to a Goal Card, while the saboteurs are trying to prevent this. They shouldn't try to be too obvious about it, however, lest they be immediately discovered.
@@ -144,7 +135,7 @@
 
 ### Extensions / Extension Scripts
 
-*   [Directus Hook Library (⭐15)](https://github.com/formfcw/directus-hook-library) - A collection of customizable hooks for Directus.
+*   [Directus Hook Library (⭐19)](https://github.com/formfcw/directus-hook-library) - A collection of customizable hooks for Directus.
 
 ## [17. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
@@ -156,17 +147,17 @@
 
 ### C++ / General-Purpose Machine Learning
 
-*   [XAD (⭐229)](https://github.com/auto-differentiation/XAD) - Comprehensive backpropagation tool for C++.
+*   [XAD (⭐339)](https://github.com/auto-differentiation/XAD) - Comprehensive backpropagation tool for C++.
 
 ### Python / Computer Vision
 
-*   [TF-GAN (⭐927)](https://github.com/tensorflow/gan) - TF-GAN is a lightweight library for training and evaluating Generative Adversarial Networks (GANs).
-*   [segmentation\_models.pytorch (⭐9.3k)](https://github.com/qubvel/segmentation_models.pytorch) - A PyTorch-based toolkit that offers pre-trained segmentation models for computer vision tasks. It simplifies the development of image segmentation applications by providing a collection of popular architecture implementations, such as UNet and PSPNet, along with pre-trained weights, making it easier for researchers and developers to achieve high-quality pixel-level object segmentation in images.
-*   [segmentation\_models (⭐4.7k)](https://github.com/qubvel/segmentation_models) - A TensorFlow Keras-based toolkit that offers pre-trained segmentation models for computer vision tasks. It simplifies the development of image segmentation applications by providing a collection of popular architecture implementations, such as UNet and PSPNet, along with pre-trained weights, making it easier for researchers and developers to achieve high-quality pixel-level object segmentation in images.
+*   [TF-GAN (⭐944)](https://github.com/tensorflow/gan) - TF-GAN is a lightweight library for training and evaluating Generative Adversarial Networks (GANs).
+*   [segmentation\_models.pytorch (⭐9.8k)](https://github.com/qubvel/segmentation_models.pytorch) - A PyTorch-based toolkit that offers pre-trained segmentation models for computer vision tasks. It simplifies the development of image segmentation applications by providing a collection of popular architecture implementations, such as UNet and PSPNet, along with pre-trained weights, making it easier for researchers and developers to achieve high-quality pixel-level object segmentation in images.
+*   [segmentation\_models (⭐4.8k)](https://github.com/qubvel/segmentation_models) - A TensorFlow Keras-based toolkit that offers pre-trained segmentation models for computer vision tasks. It simplifies the development of image segmentation applications by providing a collection of popular architecture implementations, such as UNet and PSPNet, along with pre-trained weights, making it easier for researchers and developers to achieve high-quality pixel-level object segmentation in images.
 
 ### Python / Reinforcement Learning
 
-*   [Gymnasium (⭐6.5k)](https://github.com/Farama-Foundation/Gymnasium) - A library for developing and comparing reinforcement learning algorithms (successor of \[gym])([https://github.com/openai/gym (⭐34k)](https://github.com/openai/gym)).
+*   [Gymnasium (⭐7.6k)](https://github.com/Farama-Foundation/Gymnasium) - A library for developing and comparing reinforcement learning algorithms (successor of \[gym])([https://github.com/openai/gym (⭐35k)](https://github.com/openai/gym)).
 
 ## [19. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 

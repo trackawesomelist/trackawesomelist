@@ -32,7 +32,7 @@
 
 ### Learning / Check Also
 
-*   [Awesome JS Books (⭐58)](https://github.com/jonathandion/awesome-js-books) - This is a curated list of all the best JavaScript books.
+*   [Awesome JS Books (⭐63)](https://github.com/jonathandion/awesome-js-books) - This is a curated list of all the best JavaScript books.
 
 ## [4. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
 
@@ -55,7 +55,7 @@
 
 ### Other Useful Repositories
 
-- Repository: [API Security Checklist (⭐22k)](https://github.com/shieldfy/API-Security-Checklist)
+- Repository: [API Security Checklist (⭐23k)](https://github.com/shieldfy/API-Security-Checklist)
 
   Description: Checklist of the most important security countermeasures when designing, testing, and releasing your API
 
@@ -65,13 +65,13 @@
 
 ### Emojis / Fonts
 
-*   [node-emoji (⭐1.1k)](https://github.com/omnidan/node-emoji) - Simple emoji support for Node.js
+*   [node-emoji (⭐1.3k)](https://github.com/omnidan/node-emoji) - Simple emoji support for Node.js
 
 ## [8. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Table of Contents / Command Line
 
-*   [GetOpt (⭐336)](https://github.com/getopt-php/getopt-php) - A command line opt parser.
+*   [GetOpt (⭐337)](https://github.com/getopt-php/getopt-php) - A command line opt parser.
 
 ---
 

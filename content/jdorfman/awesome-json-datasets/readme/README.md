@@ -14,9 +14,9 @@ A curated list of awesome JSON datasets that don't require authentication.
 
 A curated list of awesome JSON datasets that don't require authentication.
 
-> *Link of the month:* [Awesome Stacks by StackShare (⭐3.4k)](https://github.com/stackshareio/awesome-stacks)
+> *Link of the month:* [Awesome Stacks by StackShare (⭐3.5k)](https://github.com/stackshareio/awesome-stacks)
 
-*Sponsored link:* [Front End Developer Jobs](https://www.bootstrapcdn.com/jobs/?utm_source=awesome-json-datasets\&utm_campaign=awesome-json-datasets-sponsorship\&utm_medium=referral)
+*Sponsored links:*  [Hunt.io Threat Hunting Platform](https://hunt.io) & [Front End Developer Jobs](https://www.bootstrapcdn.com/jobs/?utm_source=awesome-json-datasets\&utm_campaign=awesome-json-datasets-sponsorship\&utm_medium=referral)
 
 ## Contents
 
@@ -291,13 +291,13 @@ A curated list of awesome JSON datasets that don't require authentication.
 
 ## More Awesome Lists
 
-*   [Awesome (⭐312k)](https://github.com/sindresorhus/awesome) *(The OG List)*
-*   [Help Wanted (⭐71)](https://github.com/fullstackla/awesome-help-wanted) *(Open Source projects looking for Help)*
+*   [Awesome (⭐337k)](https://github.com/sindresorhus/awesome) *(The OG List)*
+*   [Help Wanted (⭐75)](https://github.com/fullstackla/awesome-help-wanted) *(Open Source projects looking for Help)*
 *   [JSON (⭐1.4k)](https://github.com/burningtree/awesome-json) *(Libraries and Resources)*
-*   [WPO (⭐8.3k)](https://github.com/davidsonfellipe/awesome-wpo) *(Web Performance Optimization)*
-*   [Shell (⭐32k)](https://github.com/alebcay/awesome-shell) *(CLI Frameworks, Toolkits and Guides)*
-*   [Public APIs (⭐2k)](https://github.com/toddmotto/public-apis) *(JSON APIs for use in web dev, some of which require authentication)*
-*   [Public Datasets (⭐59k)](https://github.com/caesar0301/awesome-public-datasets) *(Datasets beyond just JSON)*
+*   [WPO (⭐8.4k)](https://github.com/davidsonfellipe/awesome-wpo) *(Web Performance Optimization)*
+*   [Shell (⭐33k)](https://github.com/alebcay/awesome-shell) *(CLI Frameworks, Toolkits and Guides)*
+*   [Public APIs (⭐2.2k)](https://github.com/toddmotto/public-apis) *(JSON APIs for use in web dev, some of which require authentication)*
+*   [Public Datasets (⭐61k)](https://github.com/caesar0301/awesome-public-datasets) *(Datasets beyond just JSON)*
 *   [Style Guides (⭐1.1k)](https://github.com/kciter/awesome-style-guide) *(Programming Languages, Platforms, Frameworks)*
 
 ## Contributing

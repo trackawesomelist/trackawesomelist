@@ -66,19 +66,19 @@
 ### Official
 
 *   [Live demo](https://yew-todomvc.netlify.com) - A todomvc demo.
-*   [Examples (⭐30k)](https://github.com/yewstack/yew/tree/master/examples) - Smaller examples included in official repo.
+*   [Examples (⭐31k)](https://github.com/yewstack/yew/tree/master/examples) - Smaller examples included in official repo.
 *   [Website](https://yew.rs/) - Official website.
 
 ### Projects
 
 *   [webapp.rs (⭐2.2k)](https://github.com/saschagrunert/webapp.rs) - A web application completely written in Rust, frontend is built with Yew.
-*   [Bucket Questions (⭐6)](https://github.com/hgzimmerman/BucketQuestions) - A webapp written entirely in Rust for a dumb party game.
+*   [Bucket Questions (⭐5)](https://github.com/hgzimmerman/BucketQuestions) - A webapp written entirely in Rust for a dumb party game.
 
 ### Templates
 
 *   [yew-wasm-pack-template (⭐118)](https://github.com/yewstack/yew-wasm-pack-template) - A template for starting a Yew project to be used with wasm-pack.
-*   [yew-wasm-pack-minimal (⭐111)](https://github.com/yewstack/yew-wasm-pack-minimal) - A minimal template for starting a Yew project using wasm-bindgen and wasm-pack.
-*   [yew-parcel-template (⭐113)](https://github.com/spielrs/yew-parcel-template) - Awesome Yew with Yew-Router and Parcel application.
+*   [yew-wasm-pack-minimal (⭐113)](https://github.com/yewstack/yew-wasm-pack-minimal) - A minimal template for starting a Yew project using wasm-bindgen and wasm-pack.
+*   [yew-parcel-template (⭐112)](https://github.com/spielrs/yew-parcel-template) - Awesome Yew with Yew-Router and Parcel application.
 
 ### Articles / Frameworks
 

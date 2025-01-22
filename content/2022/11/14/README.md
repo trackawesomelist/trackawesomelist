@@ -10,7 +10,7 @@
 
 ### Auto Layout / Barcode
 
-*   [HypeUI (⭐126)](https://github.com/hyperconnect/HypeUI) - 🌺 HypeUI is a implementation of Apple's SwiftUI DSL style based on UIKit
+*   [HypeUI (⭐131)](https://github.com/hyperconnect/HypeUI) - 🌺 HypeUI is a implementation of Apple's SwiftUI DSL style based on UIKit
 
 ## [2. Awesome Rest](/content/marmelab/awesome-rest/README.md)
 
@@ -22,12 +22,12 @@
 
 ### Markdown and LaTeX / Diagnostics
 
-*   [toppair/peek.nvim (⭐603)](https://github.com/toppair/peek.nvim) - Preview markdown in a webview window.
+*   [toppair/peek.nvim (⭐706)](https://github.com/toppair/peek.nvim) - Preview markdown in a webview window.
 
 ### Editing Support / Diagnostics
 
-*   [Wansmer/sibling-swap.nvim (⭐154)](https://github.com/Wansmer/sibling-swap.nvim) - Different way to swapping arguments and other siblings with Tree-Sitter.
-*   [Wansmer/binary-swap.nvim (⭐17)](https://github.com/Wansmer/binary-swap.nvim) - Swapping operands and operators in binary expressions: comparison and mathematical operations.
+*   [Wansmer/sibling-swap.nvim (⭐167)](https://github.com/Wansmer/sibling-swap.nvim) - Different way to swapping arguments and other siblings with Tree-sitter.
+*   [Wansmer/binary-swap.nvim (⭐18)](https://github.com/Wansmer/binary-swap.nvim) - Swapping operands and operators in binary expressions: comparison and mathematical operations.
 
 ## [4. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
@@ -39,7 +39,7 @@
 
 ### Projects / Verified Software
 
-*   [Functional Algorithms Verified in SSReflect (⭐37)](https://github.com/clayrat/fav-ssr) - Purely functional verified implementations of algorithms for searching, sorting, and other fundamental problems.
+*   [Functional Algorithms Verified in SSReflect (⭐45)](https://github.com/clayrat/fav-ssr) - Purely functional verified implementations of algorithms for searching, sorting, and other fundamental problems.
 
 ### Resources / Community
 

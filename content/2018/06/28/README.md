@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 28, 2018
 
-13 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -52,37 +52,31 @@
 
 *   [ejsv](https://github.com/patternmatched/ejsv) - Erlang JSON schema validator.
 
-## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / UI Components
-
-*   [vue-jquery-mask (⭐20)](https://github.com/ankurk91/vue-jquery-mask) - Vue.js v2.x component for [jQuery Mask Plugin (⭐4.8k)](https://github.com/igorescobar/jQuery-Mask-Plugin)
-
-## [9. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [8. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### C++ / General-Purpose Machine Learning
 
 *   [PyCUDA](https://mathema.tician.de/software/pycuda/) - Python interface to CUDA
 
-## [10. Awesome Standard](/content/standard/awesome-standard/README.md)
+## [9. Awesome Standard](/content/standard/awesome-standard/README.md)
 
 ### forks
 
 *   **[standa](https://www.npmjs.com/package/standa)** standard without JSX rules.
 
-## [11. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [10. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Mathematics
 
 *   [UnitsNet (⭐2.2k)](https://github.com/angularsen/UnitsNet) - Units.NET gives you all the common units of measurement and the conversions between them.
 
-## [12. Awesome Research](/content/emptymalei/awesome-research/README.md)
+## [11. Awesome Research](/content/emptymalei/awesome-research/README.md)
 
 ### GTD-Task Manager / Enterprise Git Service
 
 *   [Taskade](https://taskade.com/) (`Cloud`,`Mac`,`Win`,`Chrome OS`,`Firefox`,`Android`,`iOS`): Taskade is a collaborative task list and outliner for team projects.
 
-## [13. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [12. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Utilities / Password Management
 

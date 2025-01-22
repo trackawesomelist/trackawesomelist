@@ -8,25 +8,13 @@
 
 ## [1. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
-### Resources / Community
-
-*   \[VueJS Bangladesh - Facebook Group] (<https://www.facebook.com/groups/764064325433370>)
-
-### Projects Using Vue.js / Open Source
-
-*   [Al Quran App-Vue 3](https://github.com/monayemislam/Al-Quran-Using-Vue) - Al Quran App that allows you to read surah with english meaning
-
 ### Projects Using Vue.js / Apps/Websites
 
 *   [Portfolio Site](https://monayemislam.me) - Monayem Islam, A full-stack web application developer's portfolio site. Made with Love and Vue 3.
 
-### Components & Libraries / UI Components
-
-*   [vue-file-upload (⭐31)](https://github.com/canopas/vue-file-upload) - A file management system that allows for single and multiple file uploading with a preview feature
-
 ### Components & Libraries / UI Utilities
 
-*   [vue-exit-intent (⭐17)](https://github.com/nickap/vue-exit-intent) - ✨ Vue Composable to handle user's Exit Intent.
+*   [vue-exit-intent (⭐21)](https://github.com/nickap/vue-exit-intent) - ✨ Vue Composable to handle user's Exit Intent.
 
 ## [2. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
@@ -36,21 +24,21 @@
 
 ### Misc / Apache License
 
-*   [ada-chess (⭐7)](https://github.com/adachess/AdaChess) - Chess engine written in Ada.
+*   [ada-chess (⭐8)](https://github.com/adachess/AdaChess) - Chess engine written in Ada.
 
 ## [3. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Packages / Command-line utilities
 
-*   [terminal-size (⭐139)](https://github.com/sindresorhus/terminal-size) - Reliably get the terminal window size.
+*   [terminal-size (⭐140)](https://github.com/sindresorhus/terminal-size) - Reliably get the terminal window size.
 
 ### Packages / Image
 
-*   [image-dimensions (⭐423)](https://github.com/sindresorhus/image-dimensions) - Get the dimensions of an image.
+*   [image-dimensions (⭐435)](https://github.com/sindresorhus/image-dimensions) - Get the dimensions of an image.
 
 ### Packages / Miscellaneous
 
-*   [uint8array-extras (⭐209)](https://github.com/sindresorhus/uint8array-extras) - Useful utilities for working with Uint8Array and Buffer.
+*   [uint8array-extras (⭐214)](https://github.com/sindresorhus/uint8array-extras) - Useful utilities for working with Uint8Array and Buffer.
 
 ## [4. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -82,7 +70,7 @@
 *   [Mounting a qube’s private storage in another qube](https://forum.qubes-os.org/t/mounting-a-qubes-private-storage-in-another-qube/19080) -  Useful for data recovery.
 *   [Traffic Analysis in Qubes OS](https://zrubi.hu/en/2017/traffic-analysis-qubes/) - You can place a ProxyVM between your AppVMs and Your NetVM. This way we can create an ideal topology for traffic analysis.
 *   [Analyze Qubes OS VM  (⭐1)](https://github.com/3hhh/qubes-performance) - Analyze Qubes OS VM startup performance.
-*   [Url redirector (⭐33)](https://github.com/raffaeleflorio/qubes-url-redirector/) - This is a browser extension, aimed to improve surfing security.
+*   [Url redirector (⭐35)](https://github.com/raffaeleflorio/qubes-url-redirector/) - This is a browser extension, aimed to improve surfing security.
 *   [Changing your Time Zone](https://forum.qubes-os.org/t/changing-your-time-zone/18983) - Change the system’s time zone in terminal you can issue the timedatectl command with the option set-timezone.
 
 ### Clearnet & Anonymous Networking / Wireguard

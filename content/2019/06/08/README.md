@@ -23,7 +23,7 @@
 
 ### Collection of Actions / Docker Container Actions
 
-*   [GitHub Actions for Composer (⭐32)](https://github.com/MilesChou/composer-action)
+*   [GitHub Actions for Composer (⭐33)](https://github.com/MilesChou/composer-action)
 
 ## [4. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 

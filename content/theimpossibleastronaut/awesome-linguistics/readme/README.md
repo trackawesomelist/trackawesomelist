@@ -2,7 +2,7 @@
 
 A curated list of anything remotely related to linguistics
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/theimpossibleastronaut/awesome-linguistics/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 theimpossibleastronaut/awesome-linguistics](https://github.com/theimpossibleastronaut/awesome-linguistics) · ⭐ 357 · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/theimpossibleastronaut/awesome-linguistics/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 theimpossibleastronaut/awesome-linguistics](https://github.com/theimpossibleastronaut/awesome-linguistics) · ⭐ 380 · 🏷️ Computer Science
 
 [ [Daily](/content/theimpossibleastronaut/awesome-linguistics/README.md) / [Weekly](/content/theimpossibleastronaut/awesome-linguistics/week/README.md) / Overview ]
 
@@ -43,10 +43,10 @@ A curated list of anything remotely related to linguistics, sorted in alphabetic
 *   [Natural Language ToolKit (NLTK)](http://www.nltk.org/) - The most complete platform for building Python programs to work with human language data.
 *   [Snowball](https://snowballstem.org/) - Snowball is a language in which stemming algorithms can be easily represented.
 *   [Spacy](https://spacy.io/) - Industrial-strength  National Language Processing in Python.
-*   [Mate Tools](http://hdl.handle.net/11022/1007-0000-0000-8E4E-A), webservice via [WebLicht](https://weblicht.sfs.uni-tuebingen.de/)
+*   [Mate Tools](http://hdl.handle.net/11022/1007-0000-0000-8E4E-A), webservice via WebLicht
 *   [UBIAI](https://ubiai.tools/) - Easy-to-use text annotation tool for teams with most comprehensive auto-annotation features. Supports NER, relations and document classification as well as OCR annotation for invoice labeling.
-*   [textblob-de (⭐102)](https://github.com/markuskiller/textblob-de) - Nice alternative for spacy (see above).
-*   [UralicNLP (⭐70)](https://github.com/mikahama/uralicNLP) - An open source Python library for processing morphologically rich and, for the most part, endangered Uralic languages. It can do morphological analysis, generation, lemmatization, disambiguation and lexical lookup for a great many Uralic languages.
+*   [textblob-de (⭐105)](https://github.com/markuskiller/textblob-de) - Nice alternative for spacy (see above).
+*   [UralicNLP (⭐72)](https://github.com/mikahama/uralicNLP) - An open source Python library for processing morphologically rich and, for the most part, endangered Uralic languages. It can do morphological analysis, generation, lemmatization, disambiguation and lexical lookup for a great many Uralic languages.
 
 ### Algorithms
 
@@ -71,20 +71,19 @@ A curated list of anything remotely related to linguistics, sorted in alphabetic
 
 ### Resources
 
-*   [How To Label Data](https://www.lighttag.io/how-to-label-data/) - Guide on managing large scale linguistic annotation projects.
-*   [Low Resource Languages (⭐380)](https://github.com/RIchardLitt/low-resource-languages) - A list of resources for conservation, development, and documentation of low resource (human) languages.
+*   [Low Resource Languages (⭐395)](https://github.com/RIchardLitt/low-resource-languages) - A list of resources for conservation, development, and documentation of low resource (human) languages.
 *   [Language Science Press](https://langsci-press.org/) - Language Science Press is a born-digital scholar-led open access publisher in linguistics.
 
 ### Deep learning models and transformers
 
-*   [dbmdz BERT models (⭐154)](https://github.com/dbmdz/berts)
+*   [dbmdz BERT models (⭐155)](https://github.com/dbmdz/berts)
 *   [Deepset German BERT model](https://deepset.ai/german-bert)
 *   [Evaluating German Transformer Language Models with Syntactic Agreement Tests (⭐7)](https://github.com/DFKI-NLP/gevalm)
 *   [German ELMo Model (⭐28)](https://github.com/t-systems-on-site-services-gmbh/german-elmo-model)
-*   [german-transformer-training (⭐22)](https://github.com/PhilipMay/german-transformer-training)
+*   [german-transformer-training (⭐23)](https://github.com/PhilipMay/german-transformer-training)
 *   [GermLM (⭐14)](https://github.com/tonianelope/Multilingual-BERT) (NER exploration)
-*   [GerPT2 (⭐18)](https://github.com/bminixhofer/gerpt2)
-*   [Sentence Transformers (⭐14k)](https://github.com/UKPLab/sentence-transformers)
+*   [GerPT2 (⭐20)](https://github.com/bminixhofer/gerpt2)
+*   [Sentence Transformers (⭐16k)](https://github.com/UKPLab/sentence-transformers)
 
 ### On Wikipedia
 
@@ -133,20 +132,20 @@ A curated list of anything remotely related to linguistics, sorted in alphabetic
 
 *   [15 most popular books on good reads](https://www.goodreads.com/shelf/show/natural-language-processing)
 *   GitHub topics [corpus-linguistics](https://github.com/topics/corpus-linguistics) & [nlp](https://github.com/topics/nlp)
-*   [nlp-datasets (⭐5.7k)](https://github.com/niderhoff/nlp-datasets)
-*   [NLP-progress (⭐22k)](https://github.com/sebastianruder/NLP-progress)
+*   [nlp-datasets (⭐5.8k)](https://github.com/niderhoff/nlp-datasets)
+*   [NLP-progress (⭐23k)](https://github.com/sebastianruder/NLP-progress)
 *   [/r/LanguageTechnology/](https://www.reddit.com/r/LanguageTechnology/)
-*   [awesome-nlp (⭐16k)](https://github.com/keon/awesome-nlp)
-*   [Awesome Community-Curated NLP List (⭐196)](https://github.com/alvations/awesome-community-curated-nlp)
-*   [awesome-chinese-nlp (⭐7.7k)](https://github.com/crownpku/Awesome-Chinese-NLP)
-*   [awesome-danish (⭐156)](https://github.com/fnielsen/awesome-danish)
-*   [awesome-hungarian-nlp (⭐216)](https://github.com/oroszgy/awesome-hungarian-nlp)
-*   [awesome Information Retrieval (⭐1k)](https://github.com/harpribot/awesome-information-retrieval)
-*   [Indonesian NLP (⭐273)](https://github.com/kmkurn/id-nlp-resource)
-*   [Norwegian NLP resources (⭐172)](https://github.com/web64/norwegian-nlp-resources)
-*   [German NLP resources (⭐423)](https://github.com/adbar/German-NLP/)
-*   [awesome-nlp-polish (⭐283)](https://github.com/ksopyla/awesome-nlp-polish)
-*   [awesome-spanish-nlp (⭐326)](https://github.com/dav009/awesome-spanish-nlp)
+*   [awesome-nlp (⭐17k)](https://github.com/keon/awesome-nlp)
+*   [Awesome Community-Curated NLP List (⭐197)](https://github.com/alvations/awesome-community-curated-nlp)
+*   [awesome-chinese-nlp (⭐7.8k)](https://github.com/crownpku/Awesome-Chinese-NLP)
+*   [awesome-danish (⭐169)](https://github.com/fnielsen/awesome-danish)
+*   [awesome-hungarian-nlp (⭐229)](https://github.com/oroszgy/awesome-hungarian-nlp)
+*   [awesome Information Retrieval (⭐1.1k)](https://github.com/harpribot/awesome-information-retrieval)
+*   [Indonesian NLP (⭐279)](https://github.com/kmkurn/id-nlp-resource)
+*   [Norwegian NLP resources (⭐178)](https://github.com/web64/norwegian-nlp-resources)
+*   [German NLP resources (⭐454)](https://github.com/adbar/German-NLP/)
+*   [awesome-nlp-polish (⭐294)](https://github.com/ksopyla/awesome-nlp-polish)
+*   [awesome-spanish-nlp (⭐333)](https://github.com/dav009/awesome-spanish-nlp)
 *   [M. Weisser's list of NLP/Computational Linguistics Resources](https://martinweisser.org/corpora_site/comp_ling_resources.html)
 
 ### Communities

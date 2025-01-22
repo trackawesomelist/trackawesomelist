@@ -20,7 +20,7 @@
 
 *   [Json.NET (⭐11k)](https://github.com/JamesNK/Newtonsoft.Json) - Popular high-performance JSON framework for .NET
 *   [ServiceStack.Text (⭐1.2k)](https://github.com/ServiceStack/ServiceStack.Text) - JSON, JSV and CSV Text Serializers used in servicestack.net
-*   [Msgpack-Cli (⭐828)](https://github.com/msgpack/msgpack-cli) - MessagePack implementation for Common Language Infrastructure
+*   [Msgpack-Cli (⭐836)](https://github.com/msgpack/msgpack-cli) - MessagePack implementation for Common Language Infrastructure
 
 ## [2. Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/README.md)
 
@@ -46,13 +46,13 @@
 
 ### Graphic Displays
 
-*   [extrafont (⭐306)](https://github.com/wch/extrafont) - Tools for using fonts in R graphics.
-*   [showtext (⭐466)](https://github.com/yixuan/showtext) - Enable R graphics device to show text using system fonts.
+*   [extrafont (⭐317)](https://github.com/wch/extrafont) - Tools for using fonts in R graphics.
+*   [showtext (⭐481)](https://github.com/yixuan/showtext) - Enable R graphics device to show text using system fonts.
 
 ### Database Management
 
 *   [RODBC](http://cran.r-project.org/web/packages/RODBC/) - ODBC database access for R.
-*   [DBI (⭐280)](https://github.com/rstats-db/DBI) - Defines a common interface between the R and database management systems.
+*   [DBI (⭐300)](https://github.com/rstats-db/DBI) - Defines a common interface between the R and database management systems.
 *   [RMySQL](http://cran.r-project.org/web/packages/RMySQL/) - R interface to the MySQL database.
 *   [ROracle](http://cran.r-project.org/web/packages/ROracle/index.html) - OCI based Oracle database interface for R.
 *   [RPostgreSQL](https://code.google.com/p/rpostgresql/) - R interface to the PostgreSQL database system.
@@ -61,7 +61,7 @@
 
 ### R Development
 
-*   [lineprof (⭐103)](https://github.com/hadley/lineprof) - Visualise line profiling results in R.
+*   [lineprof (⭐105)](https://github.com/hadley/lineprof) - Visualise line profiling results in R.
 
 ## [5. Awesome Coldfusion](/content/seancoyne/awesome-coldfusion/README.md)
 

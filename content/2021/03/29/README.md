@@ -44,7 +44,7 @@
 
 ### Security
 
-*   [Security Rights Reporting (⭐7)](https://github.com/jbluemink/Sitecore-Security-Rights-Reporting) - A module showing a grid with all users and all their rights in a friendly way with exporting options.
+*   [Security Rights Reporting (⭐8)](https://github.com/jbluemink/Sitecore-Security-Rights-Reporting) - A module showing a grid with all users and all their rights in a friendly way with exporting options.
 
 ## [6. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
 
@@ -60,7 +60,7 @@
 
 ### Queue
 
-*   [kaffe (⭐150)](https://github.com/spreedly/kaffe) - Kafka client library for Elixir.
+*   [kaffe (⭐156)](https://github.com/spreedly/kaffe) - Kafka client library for Elixir.
 
 ## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -126,7 +126,7 @@
 
 ### Miscellaneous / Text-Based User Interfaces
 
-*   [Smooks (⭐392)](https://github.com/smooks/smooks) - Framework for fragment-based message processing. (Apache-2.0 OR LGPL-3.0-or-later)
+*   [Smooks (⭐395)](https://github.com/smooks/smooks) - Framework for fragment-based message processing. (Apache-2.0 OR LGPL-3.0-or-later)
 
 ## [14. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
 
@@ -138,11 +138,11 @@
 
 ### HTTP / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ng-http-caching (⭐43)](https://github.com/nigrosimone/ng-http-caching) - Cache for HTTP requests in Angular application.
+*   [ng-http-caching (⭐47)](https://github.com/nigrosimone/ng-http-caching) - Cache for HTTP requests in Angular application.
 
 ### DOM / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ng-generic-pipe (⭐18)](https://github.com/nigrosimone/ng-generic-pipe) - Generic pipe for Angular application.
+*   [ng-generic-pipe (⭐20)](https://github.com/nigrosimone/ng-generic-pipe) - Generic pipe for Angular application.
 
 ### Misc Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 

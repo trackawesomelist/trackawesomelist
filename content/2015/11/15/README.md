@@ -10,7 +10,7 @@
 
 ### JavaScript / Data Analysis / Data Visualization
 
-*   [datakit (⭐292)](https://github.com/nathanepstein/datakit) - A lightweight framework for data analysis in JavaScript
+*   [datakit (⭐290)](https://github.com/nathanepstein/datakit) - A lightweight framework for data analysis in JavaScript
 
 ## [2. Awesome Rails Gem](/content/hothero/awesome-rails-gem/README.md)
 

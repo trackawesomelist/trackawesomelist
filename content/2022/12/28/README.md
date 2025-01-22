@@ -14,7 +14,7 @@
 
 ## [2. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
 
-### Social media / Web articles
+### Social media / Extra Info
 
 *   [Matrix Discord Bridge](https://matrix.to/#/#qubes-os-discord-bridge-v2:matrix.org) - Qubes OS Discord General Room Bridge
 
@@ -32,11 +32,11 @@
 
 ### Memory managers
 
-*   [386MAX (⭐115)](https://github.com/sudleyplace/386MAX) - Memory manager for DOS PCs with 386 or higher CPUs, [released by Qualitas company in 1992](https://winworldpc.com/product/386max/6x). Source code was released in June 2022 on GitHub with GPL-3.0 license.
+*   [386MAX (⭐118)](https://github.com/sudleyplace/386MAX) - Memory manager for DOS PCs with 386 or higher CPUs, [released by Qualitas company in 1992](https://winworldpc.com/product/386max/6x). Source code was released in June 2022 on GitHub with GPL-3.0 license.
 
 ### Open source DOS libraries / Sound Blaster/OPL3
 
-*   [DIGPAK sound drivers source code (⭐32)](https://github.com/jratcliff63367/digpak) - Original source code for the DIGPAK sound drivers uploaded to GitHub by John W. Ratcliff.
+*   [DIGPAK sound drivers source code (⭐34)](https://github.com/jratcliff63367/digpak) - Original source code for the DIGPAK sound drivers uploaded to GitHub by John W. Ratcliff.
 
 ## [5. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
 
@@ -48,7 +48,7 @@
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [minimal-terminal (⭐47)](https://github.com/Lissy93/minimal-terminal-prompt) - Includes decorators for username\@host, current directory, `git` information and the last command's exit code.
+*   [minimal-terminal (⭐55)](https://github.com/Lissy93/minimal-terminal-prompt) - Includes decorators for username\@host, current directory, `git` information and the last command's exit code.
 
 ---
 

@@ -52,13 +52,13 @@
 
 ### Algorithms and Data structures
 
-*   [crystalline (⭐129)](https://github.com/jtomschroeder/crystalline) - A collection of containers and algorithms
+*   [crystalline (⭐127)](https://github.com/jtomschroeder/crystalline) - A collection of containers and algorithms
 *   [multiset.cr (⭐4)](https://github.com/tcrouch/multiset.cr) - Implementation of a multiset
 *   [radix (⭐102)](https://github.com/luislavena/radix) - Radix Tree implementation
 
 ### HTTP
 
-*   [http2 (⭐94)](https://github.com/ysbaddaden/http2) - HTTP/2 Protocol Implementation
+*   [http2 (⭐95)](https://github.com/ysbaddaden/http2) - HTTP/2 Protocol Implementation
 
 ### Template Engine
 

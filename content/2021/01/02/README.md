@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 02, 2021
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -18,7 +18,7 @@
 
 *   Language agnostic
     *   [by @kennyledet (⭐2.2k)](https://github.com/kennyledet/Algorithm-Implementations)
-    *   [by @indy256 (⭐1.8k)](https://github.com/indy256/codelibrary)
+    *   [by @indy256 (⭐1.9k)](https://github.com/indy256/codelibrary)
     *   [by @sagivo (⭐3.3k)](https://github.com/sagivo/algorithms)
     *   [by @patmorin (⭐1.2k)](https://github.com/patmorin/ods)
     *   [by @btjanaka (⭐3)](https://github.com/btjanaka/algorithm-problems)
@@ -27,11 +27,11 @@
 
 ### Actors
 
-*   [bpe (⭐263)](https://github.com/spawnproc/bpe) - Business Process Engine in Erlang. ([Doc](https://bpe.n2o.dev)).
+*   [bpe (⭐265)](https://github.com/spawnproc/bpe) - Business Process Engine in Erlang. ([Doc](https://bpe.n2o.dev)).
 
 ### Applications
 
-*   [chat (⭐6)](https://github.com/synrc/chat) - A tiny text chat sample based on N2O.
+*   [chat (⭐7)](https://github.com/synrc/chat) - A tiny text chat sample based on N2O.
 *   [exchat (⭐257)](https://github.com/tony612/exchat) - A Slack-like app by Elixir, Phoenix & React (redux).
 
 ### CSV
@@ -41,11 +41,11 @@
 ### Frameworks
 
 *   [n2o (⭐1.3k)](https://github.com/synrc/n2o) - Distributed Application Server.
-*   [nitro (⭐52)](https://github.com/synrc/nitro) - Nitrogen-compatible Web Framework.
+*   [nitro (⭐54)](https://github.com/synrc/nitro) - Nitrogen-compatible Web Framework.
 
 ### ORM and Datamapping
 
-*   [kvs (⭐175)](https://github.com/synrc/kvs) - Erlang Abstract Term Database.
+*   [kvs (⭐177)](https://github.com/synrc/kvs) - Erlang Abstract Term Database.
 
 ### Security
 
@@ -55,25 +55,19 @@
 
 *   [form (⭐39)](https://github.com/synrc/form) - Document forms and validation library.
 
-## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / Utilities
-
-*   [vuex-overlay-tools (⭐11)](https://github.com/Mirazex/vuex-overlay) - 🛠 A Vue 3 plugin for monitoring Vuex store (time-travel is also supported)
-
-## [5. Awesome Translations](/content/mbiesiad/awesome-translations/README.md)
+## [4. Awesome Translations](/content/mbiesiad/awesome-translations/README.md)
 
 ### Tools / Machine translation for developers
 
-*   [attranslate (⭐325)](https://github.com/fkirc/attranslate) - A tool for semi-automated translations of cross-platform apps or websites.
+*   [attranslate (⭐334)](https://github.com/fkirc/attranslate) - A tool for semi-automated translations of cross-platform apps or websites.
 
-## [6. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
+## [5. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
 
 ### Educational
 
 *   [Markerpad](https://www.makerpad.co/) - Join thousands learning to build software. No coding required.
 
-## [7. Awesome Phalcon](/content/phalcon/awesome-phalcon/README.md)
+## [6. Awesome Phalcon](/content/phalcon/awesome-phalcon/README.md)
 
 ### Routing
 
@@ -83,13 +77,13 @@
 
 *   [Phalcon Documentation](https://docs.phalcon.io/4.0/en/introduction) - Phalcon Documentation
 
-## [8. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
+## [7. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
 
 ### Community
 
 *   [Japan Discord](https://discord.com/invite/YTXq3ZtBbx) - Svelte 日本.
 
-## [9. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
+## [8. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 
 ### Document
 

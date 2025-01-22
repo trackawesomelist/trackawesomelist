@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 30, 2018
 
-15 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Libraries / Data Structures & Data Types
 
-*   [Graphene (⭐345)](https://github.com/ebassi/graphene) - A thin layer of types for graphic libraries. It provides common types needed to handle 3D transformations: points, triangles, rectangles, quads, quaternions, vectors, matrices, spheres, etc.
+*   [Graphene (⭐382)](https://github.com/ebassi/graphene) - A thin layer of types for graphic libraries. It provides common types needed to handle 3D transformations: points, triangles, rectangles, quads, quaternions, vectors, matrices, spheres, etc.
 *   [Numeric-GLib (⭐9)](https://github.com/arteymix/numeric-glib) - A collection of numeric data types for GLib (and Vala) via GCC extensions. It includes 128 bit integers & floats, complex types, vectorized operations, and decimal types.
 
 ### Libraries / Graphics Libraries
@@ -63,7 +63,7 @@
 *   Push Notifications
     *   [Onesignal (⭐15)](https://github.com/jklingsporn/vertx-push-onesignal) - Send push notifications to (mobile/web) apps from your Vert.x application with [OneSignal](https://onesignal.com/).
 *   CNCF CloudEvents
-    *   [CloudEvents.io Java SDK (⭐355)](https://github.com/cloudevents/sdk-java) - Send and receive [CloudEvents](https://cloudevents.io/) using the [Vert.x HTTP Transport (⭐355)](https://github.com/cloudevents/sdk-java/blob/master/http/vertx/README.md) for CloudEvents.
+    *   [CloudEvents.io Java SDK (⭐402)](https://github.com/cloudevents/sdk-java) - Send and receive [CloudEvents](https://cloudevents.io/) using the [Vert.x HTTP Transport (⭐402)](https://github.com/cloudevents/sdk-java/blob/master/http/vertx/README.md) for CloudEvents.
 
 ### Config
 
@@ -83,7 +83,7 @@
 
 ## [9. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
 
-### Courses
+### Courses / Commerical Tools
 
 *   [Deep Learning Crash Course](https://www.manning.com/livevideo/deep-learning-crash-course) In this liveVideo course, machine learning expert Oliver Zeigermann teaches you the basics of deep learning.
 *   [Fusion in Action](https://www.manning.com/books/fusion-in-action) -  Fusion in Action teaches you to build a full-featured data analytics pipeline, including document and data search and distributed data clustering.
@@ -100,25 +100,13 @@
 
 *   [Terminology (⭐536)](https://github.com/billiob/terminology) - The best terminal emulator based on the Enlightenment Foundation Libraries.
 
-## [12. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
-
-### Tools
-
-*   [genhash (⭐16)](https://github.com/pnathan/genhash) – hash table implementation with API from generic methods. Public domain.
-
-## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Resources / Examples
-
-*   [**CION** - Design system boilerplate for Vue.js](https://github.com/visualjerk/vue-cion-design-system) - A design system build primarily for Vue.js applications. It utilizes design tokens, a living styleguide with integrated code playgrounds and reusable components for common UI tasks.
-
-## [14. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
+## [12. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
 
 ### Software / Operating systems
 
 *   [UBOS](https://ubos.net/) - UBOS is a Linux distro that focuses on making systems administration of home servers and Indie IoT devices running web applications much simpler. A derivative of Arch Linux, it runs on PCs, Raspberry Pis, ESPRESSObin, and cloud.
 
-## [15. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [13. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Education
 

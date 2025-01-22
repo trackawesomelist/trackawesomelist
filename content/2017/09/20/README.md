@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 20, 2017
 
-6 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,12 +16,12 @@
 
 ### Contents / Extensions
 
-*   [pgMemento (⭐379)](https://github.com/pgMemento/pgMemento) - Provides an audit trail for your data inside a PostgreSQL database using triggers and server-side functions written in PL/pgSQL.
+*   [pgMemento (⭐380)](https://github.com/pgMemento/pgMemento) - Provides an audit trail for your data inside a PostgreSQL database using triggers and server-side functions written in PL/pgSQL.
 
 ### Contents / Optimization
 
 *   [pgtune (⭐2.1k)](https://github.com/le0pard/pgtune) - Online version of PostgreSQL configuration wizard.
-*   [pgconfig.org (⭐89)](https://github.com/sebastianwebber/pgconfig) - PostgreSQL Online Configuration Tool (also based on pgtune).
+*   [pgconfig.org (⭐90)](https://github.com/sebastianwebber/pgconfig) - PostgreSQL Online Configuration Tool (also based on pgtune).
 
 ## [3. Awesome D3](/content/wbkd/awesome-d3/README.md)
 
@@ -47,19 +47,13 @@
 *   [Noah Veltman - veltman](https://bl.ocks.org/veltman)
 *   [Zan Armstrong - zanarmstrong](https://bl.ocks.org/zanarmstrong)
 
-## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / UI Utilities
-
-*   [vue-threejs (⭐784)](https://github.com/fritx/vue-threejs) - Vue bindings for Three.js.
-
-## [5. BEM Resources](/content/sturobson/BEM-resources/README.md)
+## [4. BEM Resources](/content/sturobson/BEM-resources/README.md)
 
 ### Repos, CodePens and Things / Repos
 
 *   [BEM.js (⭐9)](https://github.com/maykinmedia/bem.js)
 
-## [6. Awesome Python](/content/vinta/awesome-python/README.md)
+## [5. Awesome Python](/content/vinta/awesome-python/README.md)
 
 ### Hardware
 

@@ -21,11 +21,11 @@
 
 ### Cloud Infrastructure and Management
 
-*   [nomad (⭐83)](https://github.com/sashaafm/nomad) - Create cloud portable Elixir and Phoenix apps. Write once, use everywhere.
+*   [nomad (⭐84)](https://github.com/sashaafm/nomad) - Create cloud portable Elixir and Phoenix apps. Write once, use everywhere.
 
 ### HTTP
 
-*   [http\_proxy (⭐59)](https://github.com/KazuCocoa/http_proxy) - Multi port HTTP Proxy.
+*   [http\_proxy (⭐60)](https://github.com/KazuCocoa/http_proxy) - Multi port HTTP Proxy.
 
 ### JSON
 
@@ -33,7 +33,7 @@
 
 ### Utilities
 
-*   [erlang-history (⭐495)](https://github.com/ferd/erlang-history) - Hacks to add shell history to Erlang's shell.
+*   [erlang-history (⭐493)](https://github.com/ferd/erlang-history) - Hacks to add shell history to Erlang's shell.
 
 ## [3. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
 
@@ -67,7 +67,7 @@
 
 ### Table of Contents / Date and Time
 
-*   [Chronos (⭐1.3k)](https://github.com/cakephp/chronos) - A DateTime API extension supporting both mutable and immutable date/time.
+*   [Chronos (⭐1.4k)](https://github.com/cakephp/chronos) - A DateTime API extension supporting both mutable and immutable date/time.
 
 ## [8. Awesome Elm](/content/sporto/awesome-elm/README.md)
 

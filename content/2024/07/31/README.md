@@ -10,7 +10,7 @@
 
 ### Reflection
 
-*   [simple\_enum (⭐19)](https://github.com/arturbac/simple_enum) - An Fast, Intuitive and Type-Safe C++ Enumeration Support Library. \[BSL-1.0] [website](https://arturbac.github.io/simple_enum/)
+*   [simple\_enum (⭐30)](https://github.com/arturbac/simple_enum) - An Fast, Intuitive and Type-Safe C++ Enumeration Support Library. \[BSL-1.0] [website](https://arturbac.github.io/simple_enum/)
 
 ## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -22,25 +22,17 @@
 
 ### Integrations
 
-*   [Keyloak Integration for the German E-Health ID (GesundheitsID) (⭐15)](https://github.com/oviva-ag/ehealthid-relying-party)
+*   [Keyloak Integration for the German E-Health ID (GesundheitsID) (⭐17)](https://github.com/oviva-ag/ehealthid-relying-party)
 
 ## [4. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
-### Projects / API Design
-
-*   [Swagger Editor (⭐8.8k) (⭐8.8k)](https://github.com/swagger-api/swagger-editor) - Create, describe, and document your API with ease using this open source editor built specifically for OpenAPI-based APIs.
-
 ### Projects / API Documentation
 
-*   [Redoc (⭐23k) (⭐23k)](https://github.com/Redocly/redoc) - An open-source tool for generating documentation from OpenAPI (fka Swagger) definitions, with customizable themes, language support, and branding.
+*   [Redoc (⭐23k) (⭐24k)](https://github.com/Redocly/redoc) - An open-source tool for generating documentation from OpenAPI (fka Swagger) definitions, with customizable themes, language support, and branding.
 
 ### Projects / Messaging
 
 *   [Apache Pulsar (⭐14k) (⭐14k)](https://github.com/apache/pulsar) - A distributed pub/sub-messaging system that supports both traditional messaging and streaming use cases. Offers a scalable and flexible architecture and supports multiple messaging protocols.
-
-### Projects / Workflow engine
-
-*   [Elsa Core (⭐6.1k) (⭐6.1k)](https://github.com/elsa-workflows/elsa-core) - A library that enables workflow execution in any .NET Core application, making it easier to automate business processes in .NET environments.
 
 ## [5. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
@@ -66,8 +58,8 @@
 
 ### Self Hosted Readers / Outline Processor Markup Language
 
-*   [Fusion (⭐712)](https://github.com/0x2E/fusion) <sup>[1462](https://t.me/s/aboutrss/1462)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/0x2E/fusion)
-*   [srcrs/rss-reader (⭐345)](https://github.com/srcrs/rss-reader) <sup>[1464](https://t.me/s/aboutrss/1464)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/srcrs/rss-reader)
+*   [Fusion (⭐1.2k)](https://github.com/0x2E/fusion) <sup>[1462](https://t.me/s/aboutrss/1462)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/0x2E/fusion)
+*   [srcrs/rss-reader (⭐392)](https://github.com/srcrs/rss-reader) <sup>[1464](https://t.me/s/aboutrss/1464)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/srcrs/rss-reader)
 
 ### Other Apps / Outline Processor Markup Language
 
@@ -76,7 +68,7 @@
 
 ### Miniflux / Outline Processor Markup Language
 
-*   [Reeder like theme (⭐99)](https://github.com/rootknight/Miniflux-Theme-Reeder) <sup>[1433](https://t.me/s/aboutrss/1433)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/rootknight/Miniflux-Theme-Reeder)
+*   [Reeder like theme (⭐112)](https://github.com/rootknight/Miniflux-Theme-Reeder) <sup>[1433](https://t.me/s/aboutrss/1433)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/rootknight/Miniflux-Theme-Reeder)
 
 ### 🔍 Feed Search Engines / 酷Q Plugin
 
@@ -117,7 +109,7 @@
 
 ### RSS2WIDGET / For website
 
-*   [Glance (⭐6.7k)](https://github.com/glanceapp/glance) <sup>[1454](https://t.me/s/aboutrss/1454)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/glanceapp/glance)
+*   [Glance (⭐10k)](https://github.com/glanceapp/glance) <sup>[1454](https://t.me/s/aboutrss/1454)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/glanceapp/glance)
 
 ### RSS2eBook / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
@@ -125,7 +117,7 @@
 
 ### Toolbox / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
-*   [RSSBrew (⭐118)](https://github.com/yinan-c/RSSBrew) <sup>[1465](https://t.me/s/aboutrss/1465)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/yinan-c/RSSBrew)
+*   [RSSBrew (⭐184)](https://github.com/yinan-c/RSSBrew) <sup>[1465](https://t.me/s/aboutrss/1465)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/yinan-c/RSSBrew)
 
 ### Retrieve old items from a RSS feed / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
@@ -145,7 +137,7 @@
 
 ### Blogroll generator / Crypto or Blockchain relevant
 
-*   [Blog friend circle (⭐31)](https://github.com/prinsss/blog-friend-circle/) <sup>[1431](https://t.me/s/aboutrss/1431)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/prinsss/blog-friend-circle/)
+*   [Blog friend circle (⭐38)](https://github.com/prinsss/blog-friend-circle/) <sup>[1431](https://t.me/s/aboutrss/1431)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/prinsss/blog-friend-circle/)
 
 ### Podcast apps that will work with your custom RSS link / Crypto or Blockchain relevant
 
@@ -173,9 +165,9 @@
 
 ### Free / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [berry-free-angular-admin-template (⭐10)](https://github.com/codedthemes/berry-free-angular-admin-template) - Berry is a free angular admin dashboard template built with Angular and latest Bootstrap 5. It is meant to provide the best possible User Experience with highly customizable feature-rich pages.
-*   [mantis-free-angular-admin-template (⭐12)](https://github.com/codedthemes/mantis-free-angular-admin-template)
-*   [datta-able-free-angular-admin-template (⭐16)](https://github.com/codedthemes/datta-able-free-angular-admin-template)
+*   [berry-free-angular-admin-template (⭐12)](https://github.com/codedthemes/berry-free-angular-admin-template) - Berry is a free angular admin dashboard template built with Angular and latest Bootstrap 5. It is meant to provide the best possible User Experience with highly customizable feature-rich pages.
+*   [mantis-free-angular-admin-template (⭐13)](https://github.com/codedthemes/mantis-free-angular-admin-template)
+*   [datta-able-free-angular-admin-template (⭐22)](https://github.com/codedthemes/datta-able-free-angular-admin-template)
 
 ### Loggers / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -183,13 +175,13 @@
 
 ### Viewers / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-treeview2 (⭐0)](https://github.com/TapBeep/ngx-treeview2) - An Angular treeview component with checkbox.
+*   [ngx-treeview2 (⭐2)](https://github.com/TapBeep/ngx-treeview2) - An Angular treeview component with checkbox.
 
 ## [8. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Utility / Diagnostics
 
-*   [QuentinGruber/timespent.nvim (⭐12)](https://github.com/QuentinGruber/timespent.nvim) - Display time spent on projects / files.
+*   [QuentinGruber/timespent.nvim (⭐19)](https://github.com/QuentinGruber/timespent.nvim) - Display time spent on projects / files.
 
 ---
 

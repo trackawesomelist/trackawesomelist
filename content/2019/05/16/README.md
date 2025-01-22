@@ -1,6 +1,6 @@
 # Awesome List Updates on May 16, 2019
 
-14 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -22,17 +22,17 @@
 
 ### Testing
 
-*   🍰 [FriendsOfCake/Fixturize plugin (⭐23)](https://github.com/FriendsOfCake/fixturize) - More efficient inserting fixtures when running test suites by decreasing amount of inserts (mysql only).
+*   [FriendsOfCake/Fixturize plugin (⭐24)](https://github.com/FriendsOfCake/fixturize) - More efficient inserting fixtures when running test suites by decreasing amount of inserts (mysql only).
 
 ## [4. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Miscellaneous
 
-*   [bodge-nuklear (⭐61)](https://github.com/borodust/bodge-nuklear) - Wrapper over the [Nuklear (⭐9k)](https://github.com/Immediate-Mode-UI/Nuklear) immediate mode GUI library. [MIT](https://opensource.org/licenses/MIT).
+*   [bodge-nuklear (⭐63)](https://github.com/borodust/bodge-nuklear) - Wrapper over the [Nuklear (⭐9.6k)](https://github.com/Immediate-Mode-UI/Nuklear) immediate mode GUI library. [MIT](https://opensource.org/licenses/MIT).
 
 ### Others / Third-party APIs
 
-*   [cl-ana (⭐196)](https://github.com/ghollisjr/cl-ana) - Common Lisp data analysis library with emphasis on modularity and conceptual clarity. It aims to be a general purpose framework for analyzing small and large scale datasets, including binned data analysis and visualization. [GNU GPL3](http://www.gnu.org/copyleft/gpl.html).
+*   [cl-ana (⭐198)](https://github.com/ghollisjr/cl-ana) - Common Lisp data analysis library with emphasis on modularity and conceptual clarity. It aims to be a general purpose framework for analyzing small and large scale datasets, including binned data analysis and visualization. [GNU GPL3](http://www.gnu.org/copyleft/gpl.html).
 
 ## [5. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/README.md)
 
@@ -92,7 +92,7 @@ Free
 
 ### NixOS Modules / Zig
 
-*   [nix-darwin (⭐2.7k)](https://github.com/LnL7/nix-darwin) - Manage macOS configuration just like on NixOS.
+*   [nix-darwin (⭐3.5k)](https://github.com/LnL7/nix-darwin) - Manage macOS configuration just like on NixOS.
 
 ## [10. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
@@ -106,17 +106,7 @@ Free
 
 *   [Earning Our Wings: Stories and Findings From Operating a Large-scale Concourse Deployment](https://medium.com/concourse-ci/earning-our-wings-a0c307fa73e6)
 
-## [12. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
-
-### Artificial Intelligence (AI)
-
-*   [ai-jobs.net](https://ai-jobs.net/) - Jobs in AI and Big Data
-
-### InfoSec
-
-*   [infosec-jobs.com](https://infosec-jobs.com/) - A fresh and lean InfoSec jobs board
-
-## [13. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
+## [12. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
 
 ### Graphic
 
@@ -127,7 +117,7 @@ Free
 *   [VCL Styles Utils (⭐291)](https://github.com/rruz/vcl-styles-utils). `[Delphi]` Collection of classes and style hooks, which extend, fix QC reports and add new features to the VCL Styles.
     // *Collection of patches/enhancements that promote stock VCL style engine to a new level. Styling for Inno Setup and NSIS also available.*
 
-## [14. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
+## [13. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 
 ### Static Site Generators
 

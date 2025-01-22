@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 09, 2020
 
-15 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,7 +16,7 @@
 
 ### Starters & Themes
 
-*   🚀 [Shopify Theme Lab (⭐736)](https://github.com/uicrooks/shopify-theme-lab) - Shopify theme development starter using Vue and Tailwind CSS.
+*   🚀 [Shopify Theme Lab (⭐758)](https://github.com/uicrooks/shopify-theme-lab) - Shopify theme development starter using Vue and Tailwind CSS.
 
 ## [3. Awesome Dos](/content/balintkissdev/awesome-dos/README.md)
 
@@ -27,7 +27,7 @@
 
 ### Open source DOS games / Commercial games with published source code
 
-*   [Hexen: Beyond Heretic (⭐33)](https://github.com/OpenSourcedGames/Hexen) - Indirect sequel to Heretic.
+*   [Hexen: Beyond Heretic (⭐35)](https://github.com/OpenSourcedGames/Hexen) - Indirect sequel to Heretic.
     *   Original [SourceForge link](https://sourceforge.net/projects/heretic/files/) for Heretic/Hexen.
 
 ## [4. Awesome Sre](/content/dastergon/awesome-sre/README.md)
@@ -42,36 +42,30 @@
 
 *   [Instaclustr Minotaur (⭐5)](https://github.com/instaclustr/instaclustr-minotaur) - Command line tool for consistent rebuilding of a Cassandra cluster.
 
-## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / Utilities
-
-*   [vue-context-composition (⭐19)](https://github.com/AlbertBrand/vue-context-composition) - share state created with the composition API between components, similar to `useContext` from React Hooks
-
-## [7. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
+## [6. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
 ### Sensor Processing / Lidar and Point Cloud Processing
 
 *   [CamVox (⭐462)](https://github.com/ISEE-Technology/CamVox) - A low-cost SLAM system based on camera and Livox lidar.
 
-## [8. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
+## [7. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 
 ### Best Practices
 
 *   [Concurrent, High Throughput Performance Testing with JMeter](https://howtojboss.wordpress.com/2012/07/31/concurrent-high-throughput-performance-testing-with-jmeter/)
 
-## [9. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
+## [8. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
 
 ### Databases
 
 *   **New Implementations**
-    *   [Irmin (⭐1.8k)](https://github.com/mirage/irmin) — A distributed database that follows the same design principles as Git.
+    *   [Irmin (⭐1.9k)](https://github.com/mirage/irmin) — A distributed database that follows the same design principles as Git.
     *   [Obigstore](http://obigstore.forge.ocamlcore.org/) — A database with BigTable-like data model atop LevelDB.
-    *   [RunOrg (⭐11)](https://github.com/RunOrg/RunOrg) - It is a WIP database server written in OCaml.
-    *   [dokeysto (⭐11)](https://github.com/UnixJunkie/dokeysto) - dumb OCaml key-value store, string keys and string
+    *   [RunOrg (⭐12)](https://github.com/RunOrg/RunOrg) - It is a WIP database server written in OCaml.
+    *   [dokeysto (⭐10)](https://github.com/UnixJunkie/dokeysto) - dumb OCaml key-value store, string keys and string
         values. Optional on-the-fly LZ4 compression of values or tokyocabinet backend.
 
-## [10. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
+## [9. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 
 ### Apps / SEO and SMO
 
@@ -81,19 +75,19 @@
 
 *   [Wagtail SVG (⭐35)](https://github.com/Aleksi44/wagtailsvg) - A Wagtail module for managing SVG files within the admin.
 
-## [11. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [10. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Misc / Other
 
-*   [javascript-algorithms (⭐185k)](https://github.com/trekhleb/javascript-algorithms) - Algorithms and data structures implemented in JavaScript with explanations and links to further readings.
+*   [javascript-algorithms (⭐187k)](https://github.com/trekhleb/javascript-algorithms) - Algorithms and data structures implemented in JavaScript with explanations and links to further readings.
 
-## [12. Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/README.md)
+## [11. Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/README.md)
 
 ### Featured On
 
 *   [Kubernetes Native Microservices with Quarkus, and MicroProfile](https://www.manning.com/books/kubernetes-native-microservices-with-quarkus-and-microprofile) by [John Clingan](https://twitter.com/jclingan) and [Ken Finnigan](https://twitter.com/kenfinnigan)
 
-## [13. Awesome Arch](/content/PandaFoss/Awesome-Arch/README.md)
+## [12. Awesome Arch](/content/PandaFoss/Awesome-Arch/README.md)
 
 ### Arch-based projects / Not Linux
 
@@ -103,13 +97,13 @@
 
 *   [MagpieOS](https://github.com/magpie-linux) - Get a fresh experience of Arch.
 
-## [14. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
+## [13. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 
 ### Open Sources Intelligence (OSINT) / Penetration Testing Report Templates
 
-*   [Depix (⭐25k)](https://github.com/beurtschipper/Depix) - Tool for recovering passwords from pixelized screenshots (by de-pixelating text).
+*   [Depix (⭐26k)](https://github.com/beurtschipper/Depix) - Tool for recovering passwords from pixelized screenshots (by de-pixelating text).
 
-## [15. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
+## [14. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
 ### Threat intelligence / Threat signature packages and collections
 

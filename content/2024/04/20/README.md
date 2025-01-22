@@ -48,24 +48,24 @@
 
 ### Software / Calendar & Contacts
 
-*   [Manage My Damn Life (⭐173)](https://github.com/intri-in/manage-my-damn-life-nextjs) - Manage my Damn Life (MMDL) is a self-hosted front end for managing your CalDAV tasks and calendars. `GPL-3.0` `Nodejs/Docker`
+*   [Manage My Damn Life (⭐214)](https://github.com/intri-in/manage-my-damn-life-nextjs) - Manage my Damn Life (MMDL) is a self-hosted front end for managing your CalDAV tasks and calendars. `GPL-3.0` `Nodejs/Docker`
 
 ### Software / Communication - Email - Mail Transfer Agents
 
-*   [Slimta](https://slimta.github.io/) - Mail Transfer Library built on Python. ([Source Code (⭐171)](https://github.com/slimta/python-slimta)) `MIT` `Python`
+*   [Slimta](https://slimta.github.io/) - Mail Transfer Library built on Python. ([Source Code (⭐173)](https://github.com/slimta/python-slimta)) `MIT` `Python`
 
 ### Software / Learning and Courses
 
-*   [Schoco (⭐15)](https://github.com/PhiTux/schoco) - Online IDE for learning Java programming at school, including automatic JUnit tests. Designed to give coding homework/assignments. `MIT` `Docker`
+*   [Schoco (⭐24)](https://github.com/PhiTux/schoco) - Online IDE for learning Java programming at school, including automatic JUnit tests. Designed to give coding homework/assignments. `MIT` `Docker`
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [multi-scrobbler](https://foxxmd.github.io/multi-scrobbler) - Scrobble plays from multiple sources to multiple scrobbling services. ([Source Code (⭐328)](https://github.com/FoxxMD/multi-scrobbler)) `MIT` `Nodejs/Docker`
+*   [multi-scrobbler](https://foxxmd.github.io/multi-scrobbler) - Scrobble plays from multiple sources to multiple scrobbling services. ([Source Code (⭐476)](https://github.com/FoxxMD/multi-scrobbler)) `MIT` `Nodejs/Docker`
 
 ### Software / Miscellaneous
 
 *   [Digitranscode](https://ladigitale.dev/digitranscode) - Convert audio files and videos directly in the browser (documentation in French). ([Demo](https://ladigitale.dev/digitranscode), [Source Code](https://codeberg.org/ladigitale/digitranscode)) `AGPL-3.0` `Nodejs`
-*   [HortusFox](https://hortusfox.github.io) - A collaborative plant management system. ([Source Code (⭐581)](https://github.com/danielbrendel/hortusfox-web)) `MIT` `PHP/Docker`
+*   [HortusFox](https://hortusfox.github.io) - A collaborative plant management system. ([Source Code (⭐724)](https://github.com/danielbrendel/hortusfox-web)) `MIT` `PHP/Docker`
 
 ---
 

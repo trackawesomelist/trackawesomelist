@@ -10,7 +10,7 @@
 
 ### Table of Contents / Testing
 
-*   [PHPUnit Polyfills (⭐170)](https://github.com/Yoast/PHPUnit-Polyfills/) - Simplifies running PHPUnit tests on multiple PHPUnit versions.
+*   [PHPUnit Polyfills (⭐176)](https://github.com/Yoast/PHPUnit-Polyfills/) - Simplifies running PHPUnit tests on multiple PHPUnit versions.
 
 ### Table of Contents / Documentation
 
@@ -18,7 +18,7 @@
 
 ### Table of Contents / Code Quality
 
-*   [PHP CodeSniffer (⭐857)](https://github.com/PHPCSStandards/PHP_CodeSniffer) - A library that detects and can auto-fix PHP, CSS and JS coding standard violations.
+*   [PHP CodeSniffer (⭐1.1k)](https://github.com/PHPCSStandards/PHP_CodeSniffer) - A library that detects and can auto-fix PHP, CSS and JS coding standard violations.
 
 ## [2. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 
@@ -30,7 +30,7 @@
 
 ### (requires Neovim 0.5)
 
-*   [mawkler/refjump.nvim (⭐6)](https://github.com/mawkler/refjump.nvim) - Jump to next/previous LSP reference for item under cursor with `]r`/`[r`.
+*   [mawkler/refjump.nvim (⭐49)](https://github.com/mawkler/refjump.nvim) - Jump to next/previous LSP reference for item under cursor with `]r`/`[r`.
 
 ## [4. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
@@ -40,4 +40,5 @@
 
 ---
 
+- Prev: [Aug 30, 2024](/content/2024/08/30/README.md)
 - Next: [Aug 28, 2024](/content/2024/08/28/README.md)

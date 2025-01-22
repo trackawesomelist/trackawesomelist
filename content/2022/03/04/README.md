@@ -10,7 +10,7 @@
 
 ### Other projects / Other
 
-*   [JuNest (⭐1.8k)](https://github.com/fsquillace/junest) - A lightweight Arch Linux-based distro that runs, without root privileges, upon any Linux distro.
+*   [JuNest (⭐2.1k)](https://github.com/fsquillace/junest) - A lightweight Arch Linux-based distro that runs, without root privileges, upon any Linux distro.
 
 ## [2. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -44,7 +44,7 @@
 
 ### Games & Comics
 
-- API: [When is next MCU film (⭐196)](https://github.com/DiljotSG/MCU-Countdown/blob/develop/docs/API.md)
+- API: [When is next MCU film (⭐201)](https://github.com/DiljotSG/MCU-Countdown/blob/develop/docs/API.md)
 
   Description: Upcoming MCU film information
 
@@ -68,9 +68,9 @@
 
 *   `ConEmu`/`zsh` out-of-the-box configured to restore previously opened tabs and shell working directories after `ConEmu` restart
 *   `MSYS2` included, `zsh` and necessary software preinstalled, uses zsh-grml-config
-*   Uses [Antigen (⭐8k)](https://github.com/zsh-users/antigen) for ZSH theme and config management
+*   Uses [Antigen (⭐8.1k)](https://github.com/zsh-users/antigen) for ZSH theme and config management
 *   Git-for-Windows repo with proper `git` and `git lfs` support for `MSYS2` environment is configured, `git` client already installed.
-*   Non-blocking ZSH prompt status updates thanks to [agkozak-zsh-prompt (⭐281)](https://github.com/agkozak/agkozak-zsh-prompt)
+*   Non-blocking ZSH prompt status updates thanks to [agkozak-zsh-prompt (⭐299)](https://github.com/agkozak/agkozak-zsh-prompt)
 *   Command-not-found handler customized for `MSYS2` suggests what package to install
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
@@ -99,7 +99,7 @@
 ### :books: Literature / Scientific Research
 
 *   :notebook: [Eureka: A framework for enabling static malware analysis](https://link.springer.com/chapter/10.1007%2F978-3-540-88313-5_31) (October 2008)
-*   :notebook: [Generic unpacking using entropy analysis](https://ieeexplore.ieee.org/document/5665789) (October 2010)  :star:
+*   :notebook: [Generic unpacking using entropy analysis](https://ieeexplore.ieee.org/document/5665789) (October 2010)
 *   :notebook: [PE-Probe: Leveraging packer detection and structural information to detect malicious portable executables](https://www.semanticscholar.org/paper/PE-Probe%3A-Leveraging-Packer-Detection-and-to-Detect-Shafiq-Tabish/9811ec751f2b5bb41ee46c0ee2a3b6eccc39bb9a) (June 2009)
 *   :notebook: [Reverse engineering self-modifying code: Unpacker extraction](https://ieeexplore.ieee.org/document/5645447) (October 2010)
 *   :notebook: [Unpacking virtualization obfuscators](https://dl.acm.org/doi/10.5555/1855876.1855877) (August 2009)
@@ -121,7 +121,7 @@
 
 ### :wrench: Tools / Before 2000
 
-*   [FUU (⭐44)](https://github.com/crackinglandia/fuu) - Fast Universal Unpacker.
+*   [FUU (⭐46)](https://github.com/crackinglandia/fuu) - Fast Universal Unpacker.
 
 ## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -177,7 +177,7 @@
 
 ### Reset and Normalize / Editor's Draft :black_nib:
 
-*   [CSS Checker (⭐536)](https://github.com/ruilisi/css-checker) - Find and Reduce Similar & Duplicated CSS Scripts.
+*   [CSS Checker (⭐578)](https://github.com/ruilisi/css-checker) - Find and Reduce Similar & Duplicated CSS Scripts.
 
 ## [14. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
 

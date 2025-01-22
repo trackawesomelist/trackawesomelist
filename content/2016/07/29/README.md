@@ -40,11 +40,11 @@
 
 ### Spreadsheet / Runner
 
-*   [HANDSONTABLE (⭐19k)](https://github.com/handsontable/handsontable) - Handsontable is a JavaScript/HTML5 Spreadsheet Library for Developers
+*   [HANDSONTABLE (⭐20k)](https://github.com/handsontable/handsontable) - Handsontable is a JavaScript/HTML5 Spreadsheet Library for Developers
 
 ### Misc / Other
 
-*   [How to Write an Open Source JavaScript Library (⭐181)](https://github.com/sarbbottam/write-an-open-source-js-lib) - A comprehensive guide through a set of steps to publish a JavaScript open source library.
+*   [How to Write an Open Source JavaScript Library (⭐182)](https://github.com/sarbbottam/write-an-open-source-js-lib) - A comprehensive guide through a set of steps to publish a JavaScript open source library.
 
 ## [5. Citizen Science](/content/dylanrees/citizen-science/README.md)
 
@@ -84,15 +84,15 @@
 
 ### Libraries and Tools / C
 
-*   [SocketCAN Utils (⭐2.1k)](https://github.com/linux-can/can-utils) - Userspace utilites for SocketCAN on Linux.
+*   [SocketCAN Utils (⭐2.5k)](https://github.com/linux-can/can-utils) - Userspace utilites for SocketCAN on Linux.
 
 ### Libraries and Tools / Python
 
-*   [Caring Caribou (⭐647)](https://github.com/CaringCaribou/caringcaribou/) - Intended to be the *nmap of vehicle security*.
+*   [Caring Caribou (⭐769)](https://github.com/CaringCaribou/caringcaribou/) - Intended to be the *nmap of vehicle security*.
 
 ### Libraries and Tools / JavaScript
 
-*   [NodeJS extension to SocketCAN (⭐206)](https://github.com/sebi2k1/node-can) - Allows you to communicate over CAN networks with simple JavaScript functions.
+*   [NodeJS extension to SocketCAN (⭐226)](https://github.com/sebi2k1/node-can) - Allows you to communicate over CAN networks with simple JavaScript functions.
 
 ## [7. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 

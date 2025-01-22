@@ -57,13 +57,13 @@
 
 ### Games / Apache License
 
-*   [mine-detector (⭐2)](https://github.com/jrcarter/Mine_Detector) - Mine Detector: a mine-finding game that never requires guessing.
+*   [mine-detector (⭐3)](https://github.com/jrcarter/Mine_Detector) - Mine Detector: a mine-finding game that never requires guessing.
 
 ## [8. Awesome Icons](/content/notlmn/awesome-icons/README.md)
 
 ### General
 
-*   [VSCode Icons (⭐853)](https://github.com/microsoft/vscode-icons#readme) - Dark and light versions of the icons used in Visual Studio Code.
+*   [VSCode Icons (⭐861)](https://github.com/microsoft/vscode-icons#readme) - Dark and light versions of the icons used in Visual Studio Code.
 
 ## [9. Awesome Dash](/content/ucg8j/awesome-dash/README.md)
 

@@ -29,12 +29,12 @@
 
 ### Resources / Presets
 
-*   [Laravel Moonlight (⭐144)](https://github.com/TitasGailius/laravel-moonlight) - Laravel front-end preset with Tailwind CSS, Inertia.js and Vue.js.
+*   [Laravel Moonlight (⭐145)](https://github.com/TitasGailius/laravel-moonlight) - Laravel front-end preset with Tailwind CSS, Inertia.js and Vue.js.
 *   [Titanium (⭐11)](https://github.com/usetitanium/inertia) - Laravel front-end preset with Tailwind CSS, Inertia.js and Vue.js.
 
 ### Resources / Packages
 
-*   [Kakunin (⭐41)](https://github.com/Juhlinus/kakunin) - Laravel package for real-time form validation.
+*   [Kakunin (⭐40)](https://github.com/Juhlinus/kakunin) - Laravel package for real-time form validation.
 
 ### Resources / Articles
 

@@ -11,7 +11,7 @@
 ### Libraries
 
 *   [ts-multimethod (⭐4)](https://github.com/darky/ts-multimethod) - TypeScript multimethods inspired by Clojure multimethods. +TS
-*   [ts-fp-di (⭐2)](https://github.com/darky/ts-fp-di) - Tiny TypeScript functional dependency injection, based on Node.js AsyncLocalStorage. +TS
+*   [ts-fp-di (⭐4)](https://github.com/darky/ts-fp-di) - Tiny TypeScript functional dependency injection, based on Node.js AsyncLocalStorage. +TS
 
 ## [2. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
@@ -34,7 +34,7 @@
 
 ### Tools / Dynamic Analysis Tools
 
-*   [Android\_application\_analyzer (⭐150)](https://github.com/NotSoSecure/android_application_analyzer) - The tool is used to analyze the content of the Android application in local storage.
+*   [Android\_application\_analyzer (⭐154)](https://github.com/NotSoSecure/android_application_analyzer) - The tool is used to analyze the content of the Android application in local storage.
 *   ~~[Android Malware Analysis Toolkit](http://www.mobilemalware.com.br/amat/download.html) - (Linux distro) Earlier it use to be an [online analyzer](http://dunkelheit.com.br/amat/analysis/index_en.php)~~
 *   ~~[Android Reverse Engineering](https://redmine.honeynet.org/projects/are/wiki) – ARE (android reverse engineering) not under active development anymore~~
 *   ~~[ViaLab Community Edition](https://www.nowsecure.com/blog/2014/09/09/introducing-vialab-community-edition/)~~
@@ -47,7 +47,7 @@
 
 ### Tools / Vulnerable Applications for practice
 
-*   [Insecureshop (⭐227)](https://github.com/optiv/insecureshop)
+*   [Insecureshop (⭐233)](https://github.com/optiv/insecureshop)
 
 ## [5. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
@@ -59,7 +59,7 @@
 
 ### Serialization
 
-*   [cista (⭐1.8k)](https://github.com/felixguendling/cista) - A C++17 library for zero-copy high-performance (de-)serialization. \[MIT]
+*   [cista (⭐1.9k)](https://github.com/felixguendling/cista) - A C++17 library for zero-copy high-performance (de-)serialization. \[MIT]
 
 ## [7. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 
@@ -150,7 +150,7 @@
 
   CORS: Yes
 
-  Call this API: 
+  : 
 
 
 

@@ -31,10 +31,6 @@
 
 *   [codefresh.io](https://codefresh.io) — Free-for-Life plan: 1 build, one environment, shared servers, unlimited public repos
 
-### Monitoring
-
-*   [freeboard.io](https://freeboard.io/) — Free for public projects. Dashboards for your Internet of Things (IoT) projects
-
 ### Web Hosting
 
 *   [surge.sh](https://surge.sh/) — Static web publishing for Front-End developers. Unlimited sites with custom domain support
@@ -49,7 +45,7 @@
 
 ### Programming Tools / Lenses
 
-*   [eslint-plugin-fp (⭐969)](https://github.com/jfmengels/eslint-plugin-fp) - ESLint rules for functional programming
+*   [eslint-plugin-fp (⭐967)](https://github.com/jfmengels/eslint-plugin-fp) - ESLint rules for functional programming
 
 ## [5. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
@@ -70,11 +66,11 @@
 
 ### Go / Erlang
 
-*   [RPCX (⭐8k)](https://github.com/smallnest/rpcx) - A distributed RPC service framework based on NET/RPC like Alibaba Dubbo and Weibo Motan.
+*   [RPCX (⭐8.2k)](https://github.com/smallnest/rpcx) - A distributed RPC service framework based on NET/RPC like Alibaba Dubbo and Weibo Motan.
 
 ### Java VM / Java
 
-*   [Disruptor (⭐17k)](https://github.com/LMAX-Exchange/disruptor) - High-performance inter-thread messaging library.
+*   [Disruptor (⭐18k)](https://github.com/LMAX-Exchange/disruptor) - High-performance inter-thread messaging library.
 
 ### Python / Scala
 

@@ -25,15 +25,15 @@
 
 ### Contents / Education
 
-*   [TubeCards (⭐299)](https://github.com/friebetill/tubecards/) - Cross-platform Spaced Repetition App for flashcards by [friebetill](https://github.com/friebetill).
+*   [TubeCards (⭐324)](https://github.com/friebetill/tubecards/) - Cross-platform Spaced Repetition App for flashcards by [friebetill](https://github.com/friebetill).
 
 ### Contents / Entertainment
 
-*   [Aniflix (⭐16)](https://github.com/sumittiware/Aniflix-Flutter) - Netflix clone to browse Anime, created using Flutter and Jikan API & Aniapi API(older version of app). by [Sumit Tiware](https://github.com/sumittiware).
+*   [Aniflix (⭐22)](https://github.com/sumittiware/Aniflix-Flutter) - Netflix clone to browse Anime, created using Flutter and Jikan API & Aniapi API(older version of app). by [Sumit Tiware](https://github.com/sumittiware).
 
 ### Contents / Productivity
 
-*   [Virlow Flutter Recorder (⭐24)](https://github.com/virlow-voice/virlow-flutter-recorder) - Voice recording and transcription plus it includes TL;DR, Short Hand Notes, and a rich text editor by \[Virlow Voice]\(<https://github.com/proninyaroslav](https://github.com/virlow-voice)>
+*   [Virlow Flutter Recorder (⭐31)](https://github.com/virlow-voice/virlow-flutter-recorder) - Voice recording and transcription plus it includes TL;DR, Short Hand Notes, and a rich text editor by \[Virlow Voice]\(<https://github.com/proninyaroslav](https://github.com/virlow-voice)>
 
 ## [3. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/README.md)
 
@@ -51,7 +51,7 @@
 
 ### Projects
 
-*   [Sumi (⭐9)](https://github.com/vgwidt/sumi) - Multi-user issue tracking and knowledge base app built with Yew & Actix.
+*   [Sumi (⭐10)](https://github.com/vgwidt/sumi) - Multi-user issue tracking and knowledge base app built with Yew & Actix.
 
 ## [6. Awesome Chatgpt](/content/saharmor/awesome-chatgpt/README.md)
 
@@ -63,14 +63,14 @@
 
 ### Social Networking
 
-*   [Retrospring (⭐237)](https://github.com/Retrospring/retrospring) - A social network following the Q/A (question and answer) principle.
+*   [Retrospring (⭐266)](https://github.com/Retrospring/retrospring) - A social network following the Q/A (question and answer) principle.
 
 ### Testing
 
 *   WebDrivers
-    *   [Ferrum (⭐1.7k)](https://github.com/rubycdp/ferrum) - High-level API to control Chrome in Ruby.
+    *   [Ferrum (⭐1.8k)](https://github.com/rubycdp/ferrum) - High-level API to control Chrome in Ruby.
     *   [Poltergeist (⭐2.5k)](https://github.com/teampoltergeist/poltergeist) - A PhantomJS driver for Capybara.
-    *   [Selenium WebDriver (⭐30k)](https://github.com/SeleniumHQ/selenium/tree/master/rb) - Ruby bindings for WebDriver.
+    *   [Selenium WebDriver (⭐31k)](https://github.com/SeleniumHQ/selenium/tree/master/rb) - Ruby bindings for WebDriver.
     *   [Watir (⭐1.5k)](https://github.com/watir/watir/) - Web application testing in Ruby.
 
 ## [8. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
@@ -83,7 +83,7 @@
 
 ### Software / Communication - Video Conferencing
 
-*   [MiroTalk C2C](https://c2c.mirotalk.com) - Real-time cam-2-cam video calls & screen sharing, end-to-end encrypted, to embed in any website with a simple iframe. ([Source Code (⭐220)](https://github.com/miroslavpejic85/mirotalkc2c)) `MIT` `Nodejs/Docker`
+*   [MiroTalk C2C](https://c2c.mirotalk.com) - Real-time cam-2-cam video calls & screen sharing, end-to-end encrypted, to embed in any website with a simple iframe. ([Source Code (⭐251)](https://github.com/miroslavpejic85/mirotalkc2c)) `MIT` `Nodejs/Docker`
 
 ## [10. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 

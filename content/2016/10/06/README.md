@@ -83,13 +83,10 @@
 *   App Rater - <https://apprater.net/add/>
 *   Boing Boing - <http://boingboing.net/sub/>
 *   Capterra - <http://www.capterra.com/vendors/sign-up>
-*   Crazy About Startups - <http://www.crazyaboutstartups.com/index.php/share-your-startup-form>
 *   Geek Wire - <http://geekwire.com/startup-list/>
 *   Inc 42 - <https://inc42.com/startup-submission/>
 *   Killer Startups - <http://killerstartups.com/submit-startup/>
 *   Launched - <https://launched.io/SubmitStartup>
-*   Next Big Product - <http://nextbigproduct.net/product-submission/>
-*   Robingood - <http://tools.robingood.com/>
 *   Side Projectors - <https://www.sideprojectors.com>
 *   SnapMunk - <https://www.snapmunk.com/submit-your-startup/>
 *   Stack Share - <http://stackshare.io/>

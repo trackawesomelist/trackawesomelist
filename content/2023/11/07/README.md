@@ -10,15 +10,15 @@
 
 ### Concepts / AI Concept Representation
 
-*   [A principal odor map unifies diverse tasks in olfactory perception](https://www.science.org/doi/full/10.1126/science.ade4401) - ***Science***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=17847258457660438418\&hl=en\&as_sdt=0,5)]. \[[Code (⭐20)](https://github.com/osmoai/publications/tree/main/lee_et_al_2023)]. \[[Data (Reproduced)](https://www.kaggle.com/datasets/aryanamitbarsainyan/multi-labelled-smiles-odors-dataset)]. \[[Preprint](https://centaur.reading.ac.uk/113304/1/Mayhew%20et%20al%20for%20Centaur.pdf)]. \[[GoodScents Database](https://www.thegoodscentscompany.com/)]. \[[Leffingwell Database](http://www.leffingwell.com/bacispmp.htm)]. A Principal Odor Map (POM) that preserves perceptual relationships and enables odor quality prediction for novel odorants.
+*   [A principal odor map unifies diverse tasks in olfactory perception](https://www.science.org/doi/full/10.1126/science.ade4401) - ***Science***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=17847258457660438418\&hl=en\&as_sdt=0,5)]. \[[Code (⭐24)](https://github.com/osmoai/publications/tree/main/lee_et_al_2023)]. \[[Data (Reproduced)](https://www.kaggle.com/datasets/aryanamitbarsainyan/multi-labelled-smiles-odors-dataset)]. \[[Preprint](https://centaur.reading.ac.uk/113304/1/Mayhew%20et%20al%20for%20Centaur.pdf)]. \[[GoodScents Database](https://www.thegoodscentscompany.com/)]. \[[Leffingwell Database](http://www.leffingwell.com/bacispmp.htm)]. A Principal Odor Map (POM) that preserves perceptual relationships and enables odor quality prediction for novel odorants.
 
 ## [2. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Code Analysis / Libraries for creating HTTP middlewares
 
-*   [golangci-lint (⭐15k)](https://github.com/golangci/golangci-lint) – A fast Go linters runner. It runs linters in parallel, uses caching, supports `yaml` config, has integrations with all major IDE and has dozens of linters included.
-*   [revive (⭐4.7k)](https://github.com/mgechev/revive) – \~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for `golint`.
-*   [testifylint (⭐96)](https://github.com/Antonboom/testifylint) – A linter that checks usage of [github.com/stretchr/testify (⭐23k)](https://github.com/stretchr/testify).
+*   [golangci-lint (⭐16k)](https://github.com/golangci/golangci-lint) – A fast Go linters runner. It runs linters in parallel, uses caching, supports `yaml` config, has integrations with all major IDE and has dozens of linters included.
+*   [revive (⭐4.9k)](https://github.com/mgechev/revive) – \~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for `golint`.
+*   [testifylint (⭐115)](https://github.com/Antonboom/testifylint) – A linter that checks usage of [github.com/stretchr/testify (⭐24k)](https://github.com/stretchr/testify).
 
 ## [3. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -28,7 +28,7 @@
 
 ### Communication / Email Clients
 
-*   [CanaryMail](https://canarymail.io/) - Secure email app for Mac and iPhone with built-in PGP Support and AI assitance. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/canary-mail-email-meet-ai/id1236045954?mt=12)
+*   [CanaryMail](https://canarymail.io/) - Secure email app for Mac and iPhone with built-in PGP Support and AI assistance. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/canary-mail-email-meet-ai/id1236045954?mt=12)
 
 ## [4. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -48,7 +48,7 @@
 
 ### Web Apps (open source)
 
-*   Dede - An independent and universal passenger information system (PIS) mapping realtime movement. A message feed with Vehicle Position entities in the GTFS-Realtime format or the [Dede app (⭐1)](https://github.com/dancesWithCycles/dede-android) can be used as data source.
+*   Dede - An independent and universal passenger information system (PIS) mapping realtime movement. A message feed with Vehicle Position entities in the GTFS-Realtime format or the [Dede app](https://github.com/dancesWithCycles/dede-android) can be used as data source.
 
 ## [6. Awesome Product Management](/content/dend/awesome-product-management/README.md)
 

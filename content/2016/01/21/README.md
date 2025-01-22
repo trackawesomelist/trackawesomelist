@@ -34,7 +34,7 @@
 
 ### Date and Time
 
-*   [filtrex (⭐193)](https://github.com/rcdilorenzo/filtrex) - A library for performing and validating complex SQL-like filters from a client (e.g. smart filters).
+*   [filtrex (⭐196)](https://github.com/rcdilorenzo/filtrex) - A library for performing and validating complex SQL-like filters from a client (e.g. smart filters).
 
 ### Macros
 

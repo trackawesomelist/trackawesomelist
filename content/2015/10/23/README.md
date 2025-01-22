@@ -10,13 +10,13 @@
 
 ### Concurrency
 
-*   [RxGroovy (⭐156)](https://github.com/ReactiveX/RxGroovy) - RxJava bindings for Groovy
+*   [RxGroovy (⭐158)](https://github.com/ReactiveX/RxGroovy) - RxJava bindings for Groovy
 
 ## [2. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Micro Framework
 
-*   [.NET Micro Framework Interpreter (⭐487)](https://github.com/NETMF/netmf-interpreter) - Microsoft® .NET Micro Framework (NETMF) for developing embedded applications on small devices using Visual Studio
+*   [.NET Micro Framework Interpreter (⭐484)](https://github.com/NETMF/netmf-interpreter) - Microsoft® .NET Micro Framework (NETMF) for developing embedded applications on small devices using Visual Studio
 
 ## [3. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
 

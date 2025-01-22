@@ -54,13 +54,9 @@
 
 ### Pull Requests / Code Coverage
 
-*   [Pull Request Stats (⭐166)](https://github.com/flowwer-dev/pull-request-stats) -  Print relevant stats about reviewers.
+*   [Pull Request Stats (⭐349)](https://github.com/flowwer-dev/pull-request-stats) -  Print relevant stats about reviewers.
 
 ## [3. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Projects Using Vue.js / Apps/Websites
-
-*   [Pexies (⭐7)](https://github.com/canersevince/Pexies) - Pexies is a personal photo gallery built on pexels api. You can see curated/randomized pictures, and add them to your favourites.
 
 ### Components & Libraries / UI Utilities
 
@@ -99,10 +95,10 @@
 
 ### Plugins / CSS in JS
 
-*   [CSS-modules (⭐153)](https://github.com/atfzl/eslint-plugin-css-modules) - Lint undefined or unused rules for css modules.
+*   [CSS-modules (⭐152)](https://github.com/atfzl/eslint-plugin-css-modules) - Lint undefined or unused rules for css modules.
 *   Styled Components
-    *   [Better Styled Components (⭐64)](https://github.com/tinloof/eslint-plugin-better-styled-components) - Auto fixable ESlint's rules for styled components.
-    *   [styled-components-a11y (⭐141)](https://github.com/brendanmorrell/eslint-plugin-styled-components-a11y) - A11y for Styled Components.
+    *   [Better Styled Components (⭐65)](https://github.com/tinloof/eslint-plugin-better-styled-components) - Auto fixable ESlint's rules for styled components.
+    *   [styled-components-a11y (⭐144)](https://github.com/brendanmorrell/eslint-plugin-styled-components-a11y) - A11y for Styled Components.
 
 ---
 

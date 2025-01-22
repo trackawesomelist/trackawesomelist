@@ -23,7 +23,7 @@
 
 ### Applications / Themes
 
-*   [Productivity Application (⭐245)](https://github.com/dhruv-kumar-jha/productivity-frontend) - Kanban style, Trello inspired Productivity application built using React, Ant Design and other fantastic modules.
+*   [Productivity Application (⭐249)](https://github.com/dhruv-kumar-jha/productivity-frontend) - Kanban style, Trello inspired Productivity application built using React, Ant Design and other fantastic modules.
 
 ---
 

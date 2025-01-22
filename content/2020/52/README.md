@@ -71,26 +71,26 @@
 
 ### Go / General-Purpose Machine Learning
 
-*   [go-featureprocessing (⭐116)](https://github.com/nikolaydubina/go-featureprocessing) - Fast and convenient feature processing for low latency machine learning in Go.
+*   [go-featureprocessing (⭐121)](https://github.com/nikolaydubina/go-featureprocessing) - Fast and convenient feature processing for low latency machine learning in Go.
 
 ## [6. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### Data Formats
 
-*   [vroom (⭐603)](https://github.com/r-lib/vroom) - Fast reading of delimited files.
+*   [vroom (⭐621)](https://github.com/r-lib/vroom) - Fast reading of delimited files.
 *   [arrow <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](https://arrow.apache.org/docs/r/) - An interface to the Arrow C++ library.
 *   [feather <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐2.7k)](https://github.com/wesm/feather) - Fast, interoperable binary data frame storage for Python, R, and more powered by Apache Arrow.
 *   [fst <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](https://github.com/qinwf/awesome-R/blob/master/README.md/www.fstpackage.org/fst/) - Lightning Fast Serialization of Data Frames for R.
-*   [haven (⭐415)](https://github.com/hadley/haven) - Improved methods to import SPSS, Stata and SAS files in R.
-*   [jsonlite (⭐364)](https://github.com/jeroenooms/jsonlite) - A robust and quick way to parse JSON files in R.
-*   [qs (⭐363)](https://github.com/traversc/qs) - Quick serialization of R objects.
+*   [haven (⭐424)](https://github.com/hadley/haven) - Improved methods to import SPSS, Stata and SAS files in R.
+*   [jsonlite (⭐380)](https://github.com/jeroenooms/jsonlite) - A robust and quick way to parse JSON files in R.
+*   [qs (⭐406)](https://github.com/traversc/qs) - Quick serialization of R objects.
 *   [readxl <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](https://readxl.tidyverse.org/) - Read excel files (.xls and .xlsx) into R.
-*   [readr <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐984)](https://github.com/hadley/readr) - A fast and friendly way to read tabular data into R.
-*   [rio (⭐580)](https://github.com/leeper/rio) - A Swiss-Army Knife for Data I/O.
-*   [readODS (⭐53)](https://github.com/chainsawriot/readODS/) - Read OpenDocument Spreadsheets into R as data.frames.
-*   [RcppTOML (⭐32)](https://github.com/eddelbuettel/rcpptoml) - Rcpp Bindings to C++ parser for TOML files.
+*   [readr <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐1k)](https://github.com/hadley/readr) - A fast and friendly way to read tabular data into R.
+*   [rio (⭐604)](https://github.com/leeper/rio) - A Swiss-Army Knife for Data I/O.
+*   [readODS (⭐0)](https://github.com/chainsawriot/readODS/) - Read OpenDocument Spreadsheets into R as data.frames.
+*   [RcppTOML (⭐36)](https://github.com/eddelbuettel/rcpptoml) - Rcpp Bindings to C++ parser for TOML files.
 *   [writexl](https://docs.ropensci.org/writexl/) - Portable, light-weight data frame to xlsx exporter for R.
-*   [yaml (⭐152)](https://github.com/viking/r-yaml) - R package for converting objects to and from YAML.
+*   [yaml (⭐166)](https://github.com/viking/r-yaml) - R package for converting objects to and from YAML.
 
 ## [7. Awesome Canvas](/content/raphamorim/awesome-canvas/week/README.md)
 
@@ -134,7 +134,7 @@
 
 ### Natural Language Processing (NLP)
 
-*   [Tongue (⭐18)](https://github.com/dannote/tongue) - Elixir port of Nakatani Shuyo's natural language detector.
+*   [Tongue (⭐19)](https://github.com/dannote/tongue) - Elixir port of Nakatani Shuyo's natural language detector.
 
 ## [13. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/week/README.md)
 
@@ -190,54 +190,54 @@
 *   [Build a Career in Data Science](https://www.manning.com/books/build-a-career-in-data-science)
 *   [Machine Learning Bookcamp](https://mlbookcamp.com/) - Early access
 
-### Slack Communities / Book Deals (Affiliated) 🛍
+### Slack Communities / Book Deals (Affiliated)
 
 *   [DataTalks.Club](https://datatalks.club)
 
-### Datasets / Book Deals (Affiliated) 🛍
+### Datasets / Book Deals (Affiliated)
 
-*   [5000 Images of Clothes (⭐99)](https://github.com/alexeygrigorev/clothing-dataset)
+*   [5000 Images of Clothes (⭐104)](https://github.com/alexeygrigorev/clothing-dataset)
 
-### Other Awesome Lists / Book Deals (Affiliated) 🛍
+### Other Awesome Lists / Book Deals (Affiliated)
 
-*   [Data Science Interviews Questions (⭐8.6k)](https://github.com/alexeygrigorev/data-science-interviews)
+*   [Data Science Interviews Questions (⭐9.1k)](https://github.com/alexeygrigorev/data-science-interviews)
 
 ## [19. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### CLI
 
-*   [cpp-terminal (⭐484)](https://github.com/jupyter-xeus/cpp-terminal) - Small header only C++ library for writing multiplatform terminal applications. \[MIT]
-*   [FTXUI (⭐6.6k)](https://github.com/ArthurSonzogni/FTXUI) - C++ Functional Terminal User Interface. \[MIT]
-*   [imtui (⭐3k)](https://github.com/ggerganov/imtui) - Immediate Mode Text-based User Interface. \[MIT]
+*   [cpp-terminal (⭐547)](https://github.com/jupyter-xeus/cpp-terminal) - Small header only C++ library for writing multiplatform terminal applications. \[MIT]
+*   [FTXUI (⭐7.7k)](https://github.com/ArthurSonzogni/FTXUI) - C++ Functional Terminal User Interface. \[MIT]
+*   [imtui (⭐3.2k)](https://github.com/ggerganov/imtui) - Immediate Mode Text-based User Interface. \[MIT]
 
 ### Graphics
 
-*   [C-Turtle (⭐61)](https://github.com/walkerje/C-Turtle) - A C++11 header-only turtle graphics library acting as a CImg wrapper. \[MIT]
+*   [C-Turtle (⭐64)](https://github.com/walkerje/C-Turtle) - A C++11 header-only turtle graphics library acting as a CImg wrapper. \[MIT]
 
 ### Multimedia
 
-*   [libass (⭐924)](https://github.com/libass/libass) - Portable subtitle renderer for the ASS/SSA subtitle format. \[ISC]
+*   [libass (⭐967)](https://github.com/libass/libass) - Portable subtitle renderer for the ASS/SSA subtitle format. \[ISC]
 
 ### Networking
 
-*   [CppServer (⭐1.4k)](https://github.com/chronoxor/CppServer) - Ultra fast and low latency asynchronous socket server & client C++ library with support TCP, SSL, UDP, HTTP, HTTPS, WebSocket protocols and 10K connections problem solution. \[MIT]
+*   [CppServer (⭐1.5k)](https://github.com/chronoxor/CppServer) - Ultra fast and low latency asynchronous socket server & client C++ library with support TCP, SSL, UDP, HTTP, HTTPS, WebSocket protocols and 10K connections problem solution. \[MIT]
 
 ### Physics
 
-*   [PhysX (⭐2.3k)](https://github.com/NVIDIAGameWorks/PhysX-3.4) - An open-source realtime physics engine middleware SDK developed by Nvidia as a part of Nvidia GameWorks software suite. \[BSD-3-Clause]
+*   [PhysX (⭐2.4k)](https://github.com/NVIDIAGameWorks/PhysX-3.4) - An open-source realtime physics engine middleware SDK developed by Nvidia as a part of Nvidia GameWorks software suite. \[BSD-3-Clause]
 
 ### Serialization
 
 *   [Bitsery (⭐1.1k)](https://github.com/fraillt/bitsery) - Header only C++ binary serialization library. \[MIT]
-*   [FastBinaryEncoding (⭐817)](https://github.com/chronoxor/FastBinaryEncoding) - Fast Binary Encoding is ultra fast and universal serialization solution for C++, C#, Go, Java, JavaScript, Kotlin, Python, Ruby, Swift. \[MIT]
+*   [FastBinaryEncoding (⭐897)](https://github.com/chronoxor/FastBinaryEncoding) - Fast Binary Encoding is ultra fast and universal serialization solution for C++, C#, Go, Java, JavaScript, Kotlin, Python, Ruby, Swift. \[MIT]
 
 ### Web Application Framework
 
-*   [oat++ (⭐7.7k)](https://github.com/oatpp/oatpp) - Light, zero-dependency framework to create high-performance web-services. \[Apache-2.0] [website](https://oatpp.io/)
+*   [oat++ (⭐8k)](https://github.com/oatpp/oatpp) - Light, zero-dependency framework to create high-performance web-services. \[Apache-2.0] [website](https://oatpp.io/)
 
 ### Online Compiler
 
-*   [paiza.io](https://paiza.io/en) - An online C/C++ compiler with multiple files supporting feature, Github(gist) integration and collaborative editing.
+*   [paiza.io](https://paiza.io/en) - An online C/C++ compiler with multiple files supporting feature, GitHub(gist) integration and collaborative editing.
 
 ### Weblogs
 
@@ -259,17 +259,17 @@
 
 *   Messaging
     *   [AMQP 1.0 (⭐8)](https://github.com/vert-x3/vertx-amqp-bridge) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Interact with AMQP 1.0 servers using the Vert.x Producer and Consumer APIs.
-    *   [MQTT (⭐175)](https://github.com/vert-x3/vertx-mqtt) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Provides two different components: an MQTT server for handling all the MQTT communication and messages exchanges with clients and an MQTT client for sending and receiving messages against an MQTT broker.
-    *   [RabbitMQ (⭐72)](https://github.com/vert-x3/vertx-rabbitmq-client) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - A RabbitMQ client (AMQP 0.9.1).
-    *   [Kafka Client (⭐79)](https://github.com/vert-x3/vertx-kafka-client) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - A Kafka client.
+    *   [MQTT (⭐189)](https://github.com/vert-x3/vertx-mqtt) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Provides two different components: an MQTT server for handling all the MQTT communication and messages exchanges with clients and an MQTT client for sending and receiving messages against an MQTT broker.
+    *   [RabbitMQ (⭐73)](https://github.com/vert-x3/vertx-rabbitmq-client) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - A RabbitMQ client (AMQP 0.9.1).
+    *   [Kafka Client (⭐84)](https://github.com/vert-x3/vertx-kafka-client) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - A Kafka client.
     *   [kafka (⭐30)](https://github.com/cyngn/vertx-kafka) - Kafka client for consuming and producing messages.
-    *   [SaltStack (⭐1)](https://github.com/cinterloper/vertx-salt) - A bi-directional bridge between the SaltStack event system and the Vert.x event bus.
-    *   [STOMP (⭐29)](https://github.com/vert-x3/vertx-stomp) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - A Kafka client and server.
+    *   [SaltStack (⭐2)](https://github.com/cinterloper/vertx-salt) - A bi-directional bridge between the SaltStack event system and the Vert.x event bus.
+    *   [STOMP (⭐31)](https://github.com/vert-x3/vertx-stomp) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - A Kafka client and server.
     *   [ZeroMQ (⭐12)](https://github.com/dano/vertx-zeromq) - ZeroMQ Event Bus bridge.
-    *   [Azure ServiceBus (⭐0)](https://github.com/TextBack/vertx-azure-servicebus) - Azure [ServiceBus](https://azure.microsoft.com/en-us/services/service-bus/) producer and consumer (fully async, doesn't use Microsoft Azure SDK).
-    *   [AMQP 1.0 - Kafka bridge (⭐248)](https://github.com/rhiot/amqp-kafka-bridge) - Bridge for sending/receiving messages to/from Apache Kafka using the AMQP 1.0 protocol.
-    *   [Vert.x Kafka Client (⭐79)](https://github.com/vert-x3/vertx-kafka-client) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Apache Kafka client for reading and sending messages from/to an Apache Kafka cluster.
-    *   [The White Rabbit (⭐93)](https://github.com/viartemev/the-white-rabbit) - An asynchronous RabbitMQ (AMQP) client based on Kotlin coroutines.
+    *   [Azure ServiceBus (⭐0)](https://github.com/TextBack/vertx-azure-servicebus) - Azure [ServiceBus](https://azure.microsoft.com/en-us/products/service-bus/) producer and consumer (fully async, doesn't use Microsoft Azure SDK).
+    *   [AMQP 1.0 - Kafka bridge (⭐291)](https://github.com/rhiot/amqp-kafka-bridge) - Bridge for sending/receiving messages to/from Apache Kafka using the AMQP 1.0 protocol.
+    *   [Vert.x Kafka Client (⭐84)](https://github.com/vert-x3/vertx-kafka-client) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Apache Kafka client for reading and sending messages from/to an Apache Kafka cluster.
+    *   [The White Rabbit (⭐116)](https://github.com/viartemev/the-white-rabbit) - An asynchronous RabbitMQ (AMQP) client based on Kotlin coroutines.
     *   [WAMP Broker (⭐2)](https://github.com/i22-digitalagentur/vertx-wamp) - A WAMP broker you can embed into your Vert.x application.
 
 ## [22. Awesome Charting](/content/zingchart/awesome-charting/week/README.md)
@@ -341,35 +341,34 @@
 
 ### Tools / Development tools
 
-*   [gbdk-lib-extension (⭐11)](https://github.com/ProGM/gbdk-lib-extension) - A small set of sources and tools for the Game Boy Development Kit by Michael Hope.
-*   [Dot Matrix Game Editor](http://www.dotmatrixgame.com/) - An IDE for Game Boy programming in a C-like language called GBL, with many other features like tile and map extraction, WLA-DX assembly, and more.
-*   [mgbdis (⭐221)](https://github.com/mattcurrie/mgbdis) - Game Boy ROM disassembler with RGBDS compatible output.
+*   [gbdk-lib-extension (⭐12)](https://github.com/ProGM/gbdk-lib-extension) - A small set of sources and tools for the Game Boy Development Kit by Michael Hope.
+*   [mgbdis (⭐258)](https://github.com/mattcurrie/mgbdis) - Game Boy ROM disassembler with RGBDS compatible output.
 *   [ROM Header Utility](http://catskull.net/GB-Logo-Generator/) - An online tool to inspect and modify a ROM's header data, including the logo.
-*   [romusage (⭐41)](https://github.com/bbbbbr/romusage) - Command line tool for estimating usage (free space) of Game Boy ROMs from a .map, .noi or ihx file. Works with GBDK-2020 and RGBDS.
-*   [awake (⭐60)](https://github.com/devdri/awake) - Game Boy decompiler.
-*   [Game Boy Text Tools (⭐9)](https://github.com/raphaklaus/gameboy-text-tools) - Set of tools for text manipulation and translation of Game Boy ROMs written in Node.js.
+*   [romusage (⭐47)](https://github.com/bbbbbr/romusage) - Command line tool for estimating usage (free space) of Game Boy ROMs from a .map, .noi or ihx file. Works with GBDK-2020 and RGBDS.
+*   [awake (⭐68)](https://github.com/devdri/awake) - Game Boy decompiler.
+*   [Game Boy Text Tools (⭐10)](https://github.com/raphaklaus/gameboy-text-tools) - Set of tools for text manipulation and translation of Game Boy ROMs written in Node.js.
 
 ### Tools / Graphics utilities
 
 *   [Harry Mulder's GB Development](http://www.devrs.com/gb/hmgd/intro.html) - Some sources and home of Game Boy Tile Designer (GBTD) and Game Boy Map Builder (GBMB) tools.
-*   [Tilemap Studio (⭐336)](https://github.com/Rangi42/tilemap-studio) - A tilemap editor for Game Boy, Color, Advance, and SNES projects. Written in C++ with FLTK.
+*   [Tilemap Studio (⭐399)](https://github.com/Rangi42/tilemap-studio) - A tilemap editor for Game Boy, Color, Advance, and SNES projects. Written in C++ with FLTK.
 
 ### Tools / Hardware and ROM utilities
 
-*   [cart-dumper (⭐37)](https://github.com/Palmr/cart-dumper) - Game Boy Cartridge Dumper ROM.
+*   [cart-dumper (⭐41)](https://github.com/Palmr/cart-dumper) - Game Boy Cartridge Dumper ROM.
 *   [gbcamextract (⭐47)](https://github.com/jkbenaim/gbcamextract) - Extracts photos from Game Boy Camera saves.
-*   [Game Boy LCD sniffing (⭐162)](https://github.com/svendahlstrand/game-boy-lcd-sniffing) - Sniff your Game Boy's LCD using a logic analyzer.
+*   [Game Boy LCD sniffing (⭐170)](https://github.com/svendahlstrand/game-boy-lcd-sniffing) - Sniff your Game Boy's LCD using a logic analyzer.
 *   [swapdump (⭐2)](https://github.com/sanqui/swapdump) - Diagnostic utility for Game Boy flashcarts.
-*   [Gameboy-LinkUp (⭐9)](https://github.com/JustinLloyd/Gameboy-LinkUp) - Game Boy LinkUp serial cable networking project.
+*   [Gameboy-LinkUp (⭐0)](https://github.com/JustinLloyd/Gameboy-LinkUp) - Game Boy LinkUp serial cable networking project.
 
 ### ASM / Boilerplates and libraries
 
-*   [gb-boilerplate (⭐65)](https://github.com/ISSOtm/gb-boilerplate) - A template for starting Game Boy projects, providing a Makefile for infrastructure.
-*   [gb-starter-kit (⭐48)](https://github.com/ISSOtm/gb-starter-kit) - An expansion on the above, including base library code as well to get started faster.
+*   [gb-boilerplate (⭐72)](https://github.com/ISSOtm/gb-boilerplate) - A template for starting Game Boy projects, providing a Makefile for infrastructure.
+*   [gb-starter-kit (⭐57)](https://github.com/ISSOtm/gb-starter-kit) - An expansion on the above, including base library code as well to get started faster.
 
 ### C / Syntax highlighting packages
 
-*   [Petris (⭐28)](https://github.com/bbbbbr/Petris) - A puzzle game of shapely pets for the Game Boy Color ([itch.io](https://bbbbbr.itch.io/petris)).
+*   [Petris (⭐33)](https://github.com/bbbbbr/Petris) - A puzzle game of shapely pets for the Game Boy Color ([itch.io](https://bbbbbr.itch.io/petris)).
 
 ## [25. Awesome Msr](/content/dspinellis/awesome-msr/week/README.md)
 
@@ -383,8 +382,8 @@
 
 ### Contents / Games
 
-*   [Sudoku (⭐83)](https://github.com/VarunS2002/Flutter-Sudoku) - Sudoku Game built by [VarunS2002](https://github.com/VarunS2002/).
-*   [Truth or Dare (⭐46)](https://github.com/ITCraftship/truth-or-dare) - a Truth or Dare party game build with [Codemagic](https://codemagic.io/) and [Fastlane](https://fastlane.tools/) by [ITCraftship](https://github.com/ITCraftship).
+*   [Sudoku (⭐88)](https://github.com/VarunS2002/Flutter-Sudoku) - Sudoku Game built by [VarunS2002](https://github.com/VarunS2002/).
+*   [Truth or Dare (⭐49)](https://github.com/ITCraftship/truth-or-dare) - a Truth or Dare party game build with [Codemagic](https://codemagic.io/) and [Fastlane](https://fastlane.tools/) by [ITCraftship](https://github.com/ITCraftship).
 
 ## [27. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
@@ -398,23 +397,18 @@
 
 *   [Reddit](https://www.reddit.com/r/sveltejs/)
 
-### Tutorials
-
-*   [SvelteJS Series - tutorials and talks](https://www.youtube.com/playlist?list=PLKUl5gVuvLjh7l0SDn-BoZtMgN3TDMNPd) - SpinSpire (YouTube).
-
 ### Studies
 
-*   [SvelteScaling](https://svelte-scaling.acmion.com/) - Does Svelte Scale?
-*   [Will it Scale? (⭐172)](https://github.com/halfnelson/svelte-it-will-scale) - Finding Svelte's inflection point.
+*   [SvelteScaling](https://svelte-scaling.acmion.com/) - Does Svelte Scale? *(pre-v5)*
+*   [Will it Scale? (⭐174)](https://github.com/halfnelson/svelte-it-will-scale) - Finding Svelte's inflection point. *(pre-v5)*
 
 ### UI Libraries
 
-*   [attractions (⭐1k)](https://github.com/illright/attractions) - A pretty cool and modern UI kit
+*   [attractions (⭐1k)](https://github.com/illright/attractions) - A pretty cool and modern UI kit. *(pre-v5)*
 
-### Scaffold / Checkbox
+### Scaffold
 
-*   [component-template (⭐554)](https://github.com/sveltejs/component-template) - A base for building shareable components.
-*   [svelte-pwa-template (⭐220)](https://github.com/tretapey/svelte-pwa) - A starter template for PWAs based in the official Template.
+*   [svelte-pwa-template (⭐221)](https://github.com/tretapey/svelte-pwa) - A starter template for PWAs based in the official Template. *(pre-v5)*
 
 ## [29. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
@@ -434,11 +428,7 @@
 
 ### Components & Libraries / Frameworks
 
-*   [vue-notion (⭐873)](https://github.com/janniks/vue-notion) - An unofficial Notion renderer – Use Notion as a CMS for Vue (e.g. Nuxt)
-
-### Components & Libraries / Utilities
-
-*   [@korijn/vue-store (⭐24)](https://github.com/Korijn/vue-store) - Lightweight Vue 3 composition API-compatible store pattern library with undo/redo.
+*   [vue-notion (⭐903)](https://github.com/janniks/vue-notion) - An unofficial Notion renderer – Use Notion as a CMS for Vue (e.g. Nuxt)
 
 ## [31. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
@@ -450,11 +440,11 @@
 
 ### Back-end API / Playground
 
-*   :octocat: [Booster Framework (⭐409)](https://github.com/boostercloud/booster) - Event-driven cloud native GraphQL open-source framework, part of the Booster Cloud ecosystem. It makes use of high-level abstractions and conventions. (see also: <https://booster.cloud>)
+*   :octocat: [Booster Framework (⭐423)](https://github.com/boostercloud/booster) - Event-driven cloud native GraphQL open-source framework, part of the Booster Cloud ecosystem. It makes use of high-level abstractions and conventions. (see also: <https://booster.cloud>)
 
 ## [33. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
-### Courses
+### Courses / Commerical Tools
 
 *   [Transfer Learning for Natural Language Processing](https://www.manning.com/books/transfer-learning-for-natural-language-processing?utm_source=github\&utm_medium=organic\&utm_campaign=book_azunre_transfer_3_10_20) - A book that gets you up to speed with the relevant ML concepts and then dives into transfer learning for NLP.
 
@@ -462,7 +452,7 @@
 
 ### Projects
 
-*   [wasm-2048 (⭐150)](https://github.com/dev-family/wasm-2048) - 2048 game implemented with Rust and Yew and compiled to Wasm.
+*   [wasm-2048 (⭐152)](https://github.com/dev-family/wasm-2048) - 2048 game implemented with Rust and Yew and compiled to Wasm.
 
 ### Crates / Components
 
@@ -473,7 +463,7 @@
 
 ### Hardware
 
-*   [LIDAR (⭐869)](https://github.com/szenergy/awesome-lidar#readme) - Sensor for measuring distances by illuminating the target with laser light.
+*   [LIDAR (⭐977)](https://github.com/szenergy/awesome-lidar#readme) - Sensor for measuring distances by illuminating the target with laser light.
 
 ## [36. Awesome Material Ui](/content/nadunindunil/awesome-material-ui/week/README.md)
 
@@ -502,13 +492,13 @@
 
 ### Tools and session management
 
-*   [smug (⭐676)](https://github.com/ivaaaan/smug) A session manager for tmux written in Go
+*   [smug (⭐719)](https://github.com/ivaaaan/smug) A session manager for tmux written in Go
 
 ## [39. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
 
 ### Utils / Other Tools
 
-*   [Prometheus FastAPI Instrumentator (⭐899)](https://github.com/trallnag/prometheus-fastapi-instrumentator) - A configurable and modular Prometheus Instrumentator for your FastAPI application.
+*   [Prometheus FastAPI Instrumentator (⭐1k)](https://github.com/trallnag/prometheus-fastapi-instrumentator) - A configurable and modular Prometheus Instrumentator for your FastAPI application.
 
 ## [40. Awesome Cdk](/content/kalaiser/awesome-cdk/week/README.md)
 
@@ -530,7 +520,7 @@
 
 ### Desktop / Game Engine resources
 
-*   [Raspberry Pi Embedder (⭐1.5k)](https://github.com/ardera/flutter-pi) <!--stargazers:ardera/flutter-pi--> - Light-weight Embedder for Raspberry Pi by [Hannes Winkler](https://github.com/ardera)
+*   [Raspberry Pi Embedder (⭐1.6k)](https://github.com/ardera/flutter-pi) <!--stargazers:ardera/flutter-pi--> - Light-weight Embedder for Raspberry Pi by [Hannes Winkler](https://github.com/ardera)
 
 ## [43. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
 
@@ -550,7 +540,7 @@
 
 *   [Ford Dataset](https://avdata.ford.com/) - The dataset is time-stamped and contains raw data from all the sensors, calibration values, pose trajectory, ground truth pose, and 3D maps. The data is Robot Operating System (ROS) compatible.
     *   [Paper ![](https://img.shields.io/badge/paper-blue?style=flat-square\&logo=semanticscholar)](https://arxiv.org/pdf/2003.07969.pdf)
-    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐290)](https://github.com/Ford/AVData)
+    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐296)](https://github.com/Ford/AVData)
 *   [Oxford RobotCar](https://robotcar-dataset.robots.ox.ac.uk/) - The Oxford RobotCar Dataset contains over 100 repetitions of a consistent route through Oxford, UK, captured over a period of over a year.
     *   [YouTube channel ![](https://img.shields.io/badge/youtube-red?style=flat-square\&logo=youtube)](https://www.youtube.com/c/ORIOxfordRoboticsInstitute)
     *   [Paper ![](https://img.shields.io/badge/paper-blue?style=flat-square\&logo=semanticscholar)](https://robotcar-dataset.robots.ox.ac.uk/images/RCD_RTK.pdf)
@@ -560,9 +550,9 @@
 ### Libraries
 
 *   [Point Cloud Library (PCL)](http://www.pointclouds.org/) - Popular highly parallel programming library, with numerous industrial and research use-cases.
-    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐9.7k)](https://github.com/PointCloudLibrary/pcl) ![](https://img.shields.io/badge/ROS-2-34aec5?style=flat-square\&logo=ros)
+    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐10k)](https://github.com/PointCloudLibrary/pcl) ![](https://img.shields.io/badge/ROS-2-34aec5?style=flat-square\&logo=ros)
 *   [PyTorch3d](https://pytorch3d.org/) - PyTorch3d is a library for deep learning with 3D data written and maintained by the Facebook AI Research Computer Vision Team.
-    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐8.5k)](https://github.com/facebookresearch/pytorch3d)
+    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐9k)](https://github.com/facebookresearch/pytorch3d)
 *   [pyntcloud](https://pyntcloud.readthedocs.io/en/latest/) - Pyntcloud is a Python 3 library for working with 3D point clouds leveraging the power of the Python scientific stack.
     *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐1.4k)](https://github.com/daavoo/pyntcloud)
 
@@ -583,7 +573,7 @@
 *   [CoppeliaSim](https://www.coppeliarobotics.com/coppeliaSim) - Cross-platform general-purpose robotic simulator (formerly known as V-REP).
     *   [YouTube channel ![](https://img.shields.io/badge/youtube-red?style=flat-square\&logo=youtube)](https://www.youtube.com/user/VirtualRobotPlatform)
 *   [CARLA](https://carla.org/) - Unreal Engine based simulator for automotive applications. Compatible with Autoware, Baidu Apollo and ROS/ROS 2.
-    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐11k)](https://github.com/carla-simulator/carla) ![](https://img.shields.io/badge/ROS-2-34aec5?style=flat-square\&logo=ros)
+    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐12k)](https://github.com/carla-simulator/carla) ![](https://img.shields.io/badge/ROS-2-34aec5?style=flat-square\&logo=ros)
     *   [YouTube channel ![](https://img.shields.io/badge/youtube-red?style=flat-square\&logo=youtube)](https://www.youtube.com/channel/UC1llP9ekCwt8nEJzMJBQekg)
 
 ## [46. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
@@ -625,7 +615,7 @@
 ### Dependency Injection
 
 *   [Typhoon (⭐2.7k)](https://github.com/appsquickly/Typhoon) - Powerful dependency injection for Objective-C.
-*   [Pilgrim (⭐63)](https://github.com/appsquickly/pilgrim) - Powerful dependency injection Swift (successor to Typhoon).
+*   [Pilgrim (⭐64)](https://github.com/appsquickly/pilgrim) - Powerful dependency injection Swift (successor to Typhoon).
 
 ---
 

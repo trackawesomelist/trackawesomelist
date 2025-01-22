@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 27, 2015
 
-6 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -14,19 +14,13 @@
 git checkout <deleting_commit> -- <file_path>
 ```
 
-## [2. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
-
-### Demo
-
-*   [CakeFest](http://cakefest.dereuromark.de/) - Demo application around the annual CakePHP Conference "CakeFest".
-
-## [3. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
+## [2. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Packages / Command-line apps
 
-*   [mobicon (⭐111)](https://github.com/samverschueren/mobicon-cli) - Mobile app icon generator.
+*   [mobicon (⭐112)](https://github.com/samverschueren/mobicon-cli) - Mobile app icon generator.
 
-## [4. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
+## [3. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
 
 ### Virtual Machines
 
@@ -34,21 +28,21 @@ git checkout <deleting_commit> -- <file_path>
 *   [J2ObjC (⭐5.9k)](https://github.com/google/j2objc) - Translator from Java source to Objective-C code. Keeps shared code between iOS native apps and Android native apps.
 *   [ParparVM (⭐1.3k)](https://github.com/codenameone/CodenameOne/tree/master/vm) - An Open Source Java bytecode to C translator for iOS native development. Designed as a part of the [Codename One](https://www.codenameone.com/) WORA for mobile project.
 
-## [5. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [4. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Database Drivers/Clients
 
-*   [crystal-redis (⭐380)](https://github.com/stefanwille/crystal-redis) - Full featured Redis client
+*   [crystal-redis (⭐377)](https://github.com/stefanwille/crystal-redis) - Full featured Redis client
 
 ### Misc
 
-*   [emoji.cr (⭐47)](https://github.com/veelenga/emoji.cr) - Emoji library
+*   [emoji.cr (⭐48)](https://github.com/veelenga/emoji.cr) - Emoji library
 
 ### Testing
 
-*   [minitest.cr (⭐146)](https://github.com/ysbaddaden/minitest.cr) - Library for unit tests and assertions
+*   [minitest.cr (⭐145)](https://github.com/ysbaddaden/minitest.cr) - Library for unit tests and assertions
 
-## [6. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/README.md)
+## [5. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/README.md)
 
 ### Surveys / Provided by the Host
 

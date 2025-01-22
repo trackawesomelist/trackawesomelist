@@ -34,7 +34,7 @@
 
 ### Packages / Text
 
-*   [unhomoglyph (⭐39)](https://github.com/nodeca/unhomoglyph) - Normalize visually similar unicode characters.
+*   [unhomoglyph (⭐40)](https://github.com/nodeca/unhomoglyph) - Normalize visually similar unicode characters.
 
 ---
 

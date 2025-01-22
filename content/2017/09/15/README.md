@@ -58,19 +58,19 @@
 
 ### Debug
 
-*   [utest.h (⭐814)](https://github.com/sheredom/utest.h) - Single header unit testing framework for C and C++. \[Unlicense]
+*   [utest.h (⭐866)](https://github.com/sheredom/utest.h) - Single header unit testing framework for C and C++. \[Unlicense]
 
 ### Internationalization
 
-*   [utf8.h (⭐1.7k)](https://github.com/sheredom/utf8.h) - Single header utf8 string functions for C and C++. \[Unlicense]
+*   [utf8.h (⭐1.8k)](https://github.com/sheredom/utf8.h) - Single header utf8 string functions for C and C++. \[Unlicense]
 
 ### JSON
 
-*   [json.h (⭐693)](https://github.com/sheredom/json.h) - A simple one header/one source solution to parsing JSON in C and C++. \[Unlicense]
+*   [json.h (⭐729)](https://github.com/sheredom/json.h) - A simple one header/one source solution to parsing JSON in C and C++. \[Unlicense]
 
 ### Networking
 
-*   [curlcpp (⭐624)](https://github.com/JosephP91/curlcpp) - An object oriented C++ wrapper for CURL(libcurl). \[MIT]
+*   [curlcpp (⭐635)](https://github.com/JosephP91/curlcpp) - An object oriented C++ wrapper for CURL(libcurl). \[MIT]
 *   [wdt (⭐2.9k)](https://github.com/facebook/wdt) - An embeddedable library (and command line tool) aiming to transfer data between 2 systems as fast as possible over multiple TCP paths. \[BSD-3-Clause]
 
 ## [10. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)

@@ -80,7 +80,7 @@
 
 **Mixed** platform for courses from universities and organizations worldwide\
 *(varied computer science subjects including theory and programming, data science, algorithms, ...)*
-#### [Awesome CS Courses (⭐54k)](https://github.com/prakhar1989/awesome-courses/blob/master/README.md)
+#### [Awesome CS Courses (⭐57k)](https://github.com/prakhar1989/awesome-courses/blob/master/README.md)
 
 **Free** university-level courses scoured from around the internet\
 *(varied and extensive computer science topics, ...)*
@@ -93,7 +93,7 @@
 
 ### Database Tools
 
-*   [Upsert (⭐652)](https://github.com/seamusabshere/upsert) - Upsert on MySQL, PostgreSQL, and SQLite3. Transparently creates functions (UDF) for MySQL and PostgreSQL; on SQLite3, uses INSERT OR IGNORE.
+*   [Upsert (⭐651)](https://github.com/seamusabshere/upsert) - Upsert on MySQL, PostgreSQL, and SQLite3. Transparently creates functions (UDF) for MySQL and PostgreSQL; on SQLite3, uses INSERT OR IGNORE.
 
 ### Profiler and Optimization
 
@@ -117,7 +117,7 @@
 
 ## [5. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
 
-### Free Content
+### Free Content / Commerical Tools
 
 *   [Computers and Thought: A practical Introduction to Artificial Intelligence](http://www.cs.bham.ac.uk/research/projects/poplog/computers-and-thought/) - The book covers computer simulation of human activities, such as problem-solving and natural language understanding; computer vision; AI tools and techniques; an introduction to AI programming; symbolic and neural network models of cognition; the nature of mind and intelligence; and the social implications of AI and cognitive science.
 

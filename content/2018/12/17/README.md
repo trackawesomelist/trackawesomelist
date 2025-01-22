@@ -10,7 +10,7 @@
 
 ### Analytics / Image Picker
 
-*   [Pure Mixpanel (⭐24)](https://github.com/seenickcode/pure_mixpanel) <!--stargazers:seenickcode/pure_mixpanel--> - Analytics for the popular [Mixpanel.com](https://mixpanel.com) [Nick Manning](https://twitter.com/seenickcode)
+*   [Pure Mixpanel (⭐25)](https://github.com/seenickcode/pure_mixpanel) <!--stargazers:seenickcode/pure_mixpanel--> - Analytics for the popular [Mixpanel.com](https://mixpanel.com) [Nick Manning](https://twitter.com/seenickcode)
 
 ## [2. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
@@ -40,7 +40,7 @@
 
 ### Country Data
 
-*   [validates\_zipcode (⭐135)](https://github.com/dgilperez/validates_zipcode) - Postal code / zipcode validation for Rails, supporting 233 country codes.
+*   [validates\_zipcode (⭐137)](https://github.com/dgilperez/validates_zipcode) - Postal code / zipcode validation for Rails, supporting 233 country codes.
 
 ## [5. Awesome Composer](/content/jakoch/awesome-composer/README.md)
 
@@ -106,12 +106,12 @@
 
 *   Docker
     *   [emk/rust-musl-builder (⭐1.5k)](https://github.com/emk/rust-musl-builder) - Docker images for compiling static Rust binaries using musl-libc and musl-gcc, with static versions of useful C libraries
-    *   [kpcyrd/mini-docker-rust (⭐209)](https://github.com/kpcyrd/mini-docker-rust) - An example project for very small rust docker images
+    *   [kpcyrd/mini-docker-rust (⭐225)](https://github.com/kpcyrd/mini-docker-rust) - An example project for very small rust docker images
     *   [liuchong/docker-rustup (⭐93)](https://github.com/liuchong/docker-rustup) - A multiple version (with musl tools) Rust Docker image
-    *   [LukeMathWalker/cargo-chef (⭐1.7k)](https://github.com/LukeMathWalker/cargo-chef) - A tool and pre-built images for caching compiling remote dependencies between Docker builds.
-    *   [rust-cross/rust-musl-cross (⭐614)](https://github.com/rust-cross/rust-musl-cross) - Docker images for compiling static Rust binaries using musl-cross [![Build](https://github.com/rust-cross/rust-musl-cross/workflows/Build/badge.svg)](https://github.com/rust-cross/rust-musl-cross/actions?query=workflow%3ABuild)
-    *   [rust-lang-nursery/docker-rust (⭐431)](https://github.com/rust-lang/docker-rust) - the official Rust Docker image
-    *   [Stavrospanakakis/is\_ready (⭐124)](https://github.com/Stavrospanakakis/is_ready) - Wait for multiple services to become available ![Build](https://github.com/Stavrospanakakis/is_ready/actions/workflows/release.yml/badge.svg)
+    *   [LukeMathWalker/cargo-chef (⭐1.9k)](https://github.com/LukeMathWalker/cargo-chef) - A tool and pre-built images for caching compiling remote dependencies between Docker builds.
+    *   [rust-cross/rust-musl-cross (⭐657)](https://github.com/rust-cross/rust-musl-cross) - Docker images for compiling static Rust binaries using musl-cross [![Build](https://github.com/rust-cross/rust-musl-cross/workflows/Build/badge.svg)](https://github.com/rust-cross/rust-musl-cross/actions?query=workflow%3ABuild)
+    *   [rust-lang-nursery/docker-rust (⭐459)](https://github.com/rust-lang/docker-rust) - the official Rust Docker image
+    *   [Stavrospanakakis/is\_ready (⭐136)](https://github.com/Stavrospanakakis/is_ready) - Wait for multiple services to become available ![Build](https://github.com/Stavrospanakakis/is_ready/actions/workflows/release.yml/badge.svg)
 
 ## [9. Awesome PICO 8](/content/pico-8/awesome-PICO-8/README.md)
 

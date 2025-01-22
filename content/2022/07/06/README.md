@@ -38,7 +38,7 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [zpy (⭐76)](https://github.com/AndydeCleyre/zpy) - Manage Python Environments, dependencies, and isolated app installations, with a ZSH frontend to [pip-tools (⭐7.7k)](https://github.com/jazzband/pip-tools).
+*   [zpy (⭐87)](https://github.com/AndydeCleyre/zpy) - Manage Python environments, dependencies, and isolated app installations, with a ZSH frontend for [uv (⭐36k)](https://github.com/astral-sh/uv) or [pip-tools (⭐7.8k)](https://github.com/jazzband/pip-tools).
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -48,7 +48,7 @@
 
 ### Global Connectivity Indexes
 
-*   [GSMA Mobile Connectivity Index](https://www.mobileconnectivityindex.com/) - (2022) Measures countries against four enablers of mobile internet adoption: Infrastructure, Affordability, Consumer Readiness and Content.
+*   [GSMA Mobile Connectivity Index](https://www.mobileconnectivityindex.com/) - (2023) Measures countries against four enablers of mobile internet adoption: Infrastructure, Affordability, Consumer Readiness and Content.
 *   [Inclusive Internet Index](https://theinclusiveinternet.eiu.com/) - (2022) Index sponsored by Meta measuring internet connectivity against Availability, Affordability, Relevance and Readiness.
 
 ### Connectivity Maps
@@ -58,9 +58,7 @@
 ### Periodic Global Connectivity Reports
 
 *   [GSMA Mobile Economy](https://www.gsma.com/mobileeconomy/) - ([2024](https://www.gsma.com/mobileeconomy/wp-content/uploads/2024/02/260224-The-Mobile-Economy-2024.pdf)) ([2023](https://www.gsma.com/mobileeconomy/wp-content/uploads/2023/03/270223-The-Mobile-Economy-2023.pdf)) ([2022](https://www.gsma.com/mobileeconomy/wp-content/uploads/2022/02/280222-The-Mobile-Economy-2022.pdf)) ([2019](https://manypossibilities.net/report-archives/GSMA_The_Mobile_Economy_2019.pdf)) ([2018](https://manypossibilities.net/report-archives/GSMA_The_Mobile_Economy_2018.pdf))
-*   Broadband Commission: The State of Broadband - ([2021](https://broadbandcommission.org/publication/state-of-broadband-2021/)) ([2020](https://www.itu.int/dms_pub/itu-s/opb/pol/S-POL-BROADBAND.21-2020-PDF-E.pdf)) ([2019](https://www.broadbandcommission.org/Documents/StateofBroadband19.pdf))([2018](https://www.broadbandcommission.org/publications/Pages/SOB-2018.aspx))  ([2017](http://www.broadbandcommission.org/publications/Pages/SOB-2017.aspx))
-*   [Ericsson Mobility Report](https://www.ericsson.com/en/mobility-report) - ([2024](https://www.ericsson.com/4912e3/assets/local/reports-papers/mobility-report/documents/2024br/emr-business-review-2024.pdf)) ([Jun 2023](https://www.ericsson.com/en/reports-and-papers/mobility-report/reports/june-2023)) ([Nov 2022](https://www.ericsson.com/4ae28d/assets/local/reports-papers/mobility-report/documents/2022/ericsson-mobility-report-november-2022.pdf)) ([Jun 2022](https://www.ericsson.com/49d3a0/assets/local/reports-papers/mobility-report/documents/2022/ericsson-mobility-report-june-2022.pdf)) ([Nov 2021](https://www.ericsson.com/assets/local/reports-papers/mobility-report/documents/2021/ericsson-mobility-report-november-2021.pdf)) ([Q2 2020 Update](https://www.ericsson.com/4a4e5d/assets/local/mobility-report/documents/2020/emr-q2-update-03092020.pdf)) ([Jun 2020](https://www.ericsson.com/49c840/assets/local/mobility-report/documents/2020/june2020-ericsson-mobility-report.pdf)) ([Nov 2019](https://www.ericsson.com/en/mobility-report/reports/november-2019)) ([Nov 2018](https://www.ericsson.com/assets/local/mobility-report/documents/2018/ericsson-mobility-report-november-2018.pdf)) ([June 2018](https://www.ericsson.com/assets/local/mobility-report/documents/2018/ericsson-mobility-report-june-2018.pdf)).
-*   [OECD Broadband Portal](https://www.oecd.org/internet/broadband/broadband-statistics/) - Latest data update: June 2023.
+*   [Ericsson Mobility Report](https://www.ericsson.com/en/mobility-report) - ([Q2 2024](https://www.ericsson.com/4a4b71/assets/local/reports-papers/mobility-report/documents/2024/ericsson-mobility-report-q2-2024-update.pdf)) ([2024](https://www.ericsson.com/4912e3/assets/local/reports-papers/mobility-report/documents/2024br/emr-business-review-2024.pdf)) ([Jun 2023](https://www.ericsson.com/en/reports-and-papers/mobility-report/reports/june-2023)) ([Nov 2022](https://www.ericsson.com/4ae28d/assets/local/reports-papers/mobility-report/documents/2022/ericsson-mobility-report-november-2022.pdf)) ([Jun 2022](https://www.ericsson.com/49d3a0/assets/local/reports-papers/mobility-report/documents/2022/ericsson-mobility-report-june-2022.pdf)) ([Nov 2021](https://www.ericsson.com/assets/local/reports-papers/mobility-report/documents/2021/ericsson-mobility-report-november-2021.pdf)) ([Q2 2020 Update](https://www.ericsson.com/4a4e5d/assets/local/mobility-report/documents/2020/emr-q2-update-03092020.pdf)) ([Jun 2020](https://www.ericsson.com/49c840/assets/local/mobility-report/documents/2020/june2020-ericsson-mobility-report.pdf)) ([Nov 2019](https://www.ericsson.com/en/mobility-report/reports/november-2019)) ([Nov 2018](https://www.ericsson.com/assets/local/mobility-report/documents/2018/ericsson-mobility-report-november-2018.pdf)) ([June 2018](https://www.ericsson.com/assets/local/mobility-report/documents/2018/ericsson-mobility-report-june-2018.pdf)).
 
 ## [6. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
@@ -72,28 +70,28 @@
 
 ### Reading and Writing Tools / Office
 
-*   [Pages](https://apps.apple.com/app/pages/id409201541?mt=12) - Documents that stand apart. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/pages/id409201541?mt=12)
 *   [Keynote](https://apps.apple.com/app/keynote/id409183694?mt=12) - Build stunning presentations. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/keynote/id409183694?mt=12)
-*   [Numbers](https://apps.apple.com/app/numbers/id409203825?mt=12) - Create impressive spreadsheets. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/numbers/id409203825?mt=12)
 *   [Microsoft Office](https://products.office.com/en-us/mac/microsoft-office-for-mac) - Unmistakably Office, designed for Mac. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://www.apple.com/search/office?page=1\&sel=accessories\&f=software#!\&f=software\&fh=4649)
+*   [Numbers](https://apps.apple.com/app/numbers/id409203825?mt=12) - Create impressive spreadsheets. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/numbers/id409203825?mt=12)
+*   [Pages](https://apps.apple.com/app/pages/id409201541?mt=12) - Documents that stand apart. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/pages/id409201541?mt=12)
 *   [SoftMaker Office](https://www.softmaker.com/en/softmaker-office) - A complete office suite that aims for full compatibility with Microsoft Office documents
 
 ### Reading and Writing Tools / Note-taking
 
 *   [Notebook](https://www.zoho.com/notebook/notebook-for-mac.html) - Note-taking app. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [Notion](https://www.notion.so/) - Notion is the all-in-one workspace. From notes, tasks, wikis, to database, Notion is all you need. Works great for teams and individuals.
+*   [Notion](https://www.notion.so/) - All-in-one workspace for notes, tasks, wikis, and databases.
 
 ### Developer Tools / Developer Utilities
 
-*   [PushMate](https://pushmate.app) - PushMate is a MacOS app that solves common push notification problems by ensuring your push payloads are correct.
+*   [PushMate](https://pushmate.app) - Solves common push notification problems on macOS.
 
 ### Developer Tools / Command Line Tools
 
-*   [GitHub CLI (⭐37k)](https://github.com/cli/cli) - gh is GitHub on the command line. It brings pull requests, issues, and other GitHub concepts to the terminal next to where you are already working with git and your code. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [GitHub CLI (⭐38k)](https://github.com/cli/cli) - gh is GitHub on the command line. It brings pull requests, issues, and other GitHub concepts to the terminal next to where you are already working with git and your code. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Developer Tools / Version Control
 
-*   [Gitbar (⭐359)](https://github.com/Shikkic/gitbar) - Open-source，display GitHub contribution statistics on your menu bar. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/Shikkic/gitbar)
+*   [Gitbar (⭐360)](https://github.com/Shikkic/gitbar) - Open-source，display GitHub contribution statistics on your menu bar. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/Shikkic/gitbar)
 
 ### Developer Tools / Virtualization
 
@@ -105,7 +103,7 @@
 
 ### Design and Product / Design Tools
 
-*   [ScreenToLayers (⭐150)](https://github.com/duyquoc/ScreenToLayers) - Easily export your screen into a layered PSD file. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/duyquoc/ScreenToLayers) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://itunes.apple.com/app/screentolayers/id1077317077)
+*   [ScreenToLayers (⭐155)](https://github.com/duyquoc/ScreenToLayers) - Easily export your screen into a layered PSD file. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/duyquoc/ScreenToLayers) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://itunes.apple.com/app/screentolayers/id1077317077)
 
 ### Audio and Video Tools / File Sharing
 
@@ -140,8 +138,8 @@
 ### Utilities / Productivity
 
 *   [HazeOver](https://hazeover.com) - App that dims your background app windows so you can focus more on your main task! [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/ph/app/hazeover-distraction-dimmer/id430798174?mt=12)
-*   [SensibleSideButtons](http://sensible-side-buttons.archagon.net) - Use the side buttons on your mouse to move forward and backward in many apps, like in Windows. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/archagon/sensible-side-buttons)
 *   [nnScreenshots](https://www.nearnorthsoftware.com/software/screenshots.php) - A super easy way to keep a visual record of your productivity to make it easier to fill out timesheets or just to help you review the day. Built in timesheet editor.
+*   [SensibleSideButtons](http://sensible-side-buttons.archagon.net) - Use the side buttons on your mouse to move forward and backward in many apps, like in Windows. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/archagon/sensible-side-buttons)
 *   [Strategr](https://khrykin.github.io/strategr/) - No-fuss time management app. Stategr helps you maximize your productivity, giving you the quickest and most effective way to time-box your day. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/khrykin/StrategrDesktop)
 
 ---

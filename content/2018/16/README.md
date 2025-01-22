@@ -8,7 +8,7 @@
 
 ## [1. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
-### Privacy and Encryption Tools / Telegram
+### Privacy and Encryption Tools / Steam
 
 *   [HTTPs Everywhere](https://www.eff.org/https-everywhere/)
 
@@ -387,7 +387,7 @@
 
 ## [14. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
-### Slideshows, talks and videos
+### Slideshows, talks and videos  (a-z↓)
 
 *   [Visual Regression Testing - from a tool to a process](https://speakerdeck.com/nikhilverma/visual-regression-testing-from-a-tool-to-a-process) by Nikhil Verma - How the Mobile Web team in Badoo converted and integrated PhantomCSS into their workflow and connected it to their CI process.
 
@@ -399,7 +399,7 @@
 
 ### Multi Database
 
-*   [Shallows (⭐621)](https://github.com/dreymonde/Shallows) - Your lightweight persistence toolbox.
+*   [Shallows (⭐623)](https://github.com/dreymonde/Shallows) - Your lightweight persistence toolbox.
 
 ### Other Data
 
@@ -407,15 +407,15 @@
 
 ### Images / Barcode
 
-*   [ImageScout (⭐976)](https://github.com/kaishin/ImageScout) - Implementation of [fastimage](https://pypi.org/project/fastimage/0.2.1/) - supports PNG, GIF, and JPEG.
+*   [ImageScout (⭐974)](https://github.com/kaishin/ImageScout) - Implementation of [fastimage](https://pypi.org/project/fastimage/0.2.1/) - supports PNG, GIF, and JPEG.
 
 ### Localization / Barcode
 
-*   [Localize (⭐288)](https://github.com/andresilvagomez/Localize) - Localize apps using e.g. regular expressions in Localizable.strings.
+*   [Localize (⭐291)](https://github.com/andresilvagomez/Localize) - Localize apps using e.g. regular expressions in Localizable.strings.
 
 ### Text / Barcode
 
-*   [PredicateFlow (⭐103)](https://github.com/andreadelfante/PredicateFlow) - PredicateFlow is a builder that allows you to write amazing, strong-typed and easy-to-read NSPredicate.
+*   [PredicateFlow (⭐102)](https://github.com/andreadelfante/PredicateFlow) - PredicateFlow is a builder that allows you to write amazing, strong-typed and easy-to-read NSPredicate.
 
 ### UI / Barcode
 
@@ -444,7 +444,7 @@
 ### Related lists / Miscellaneous
 
 *   [awesome-npm (⭐4.5k)](https://github.com/sindresorhus/awesome-npm) - Resources and tips for using npm.
-*   [awesome-cross-platform-nodejs (⭐1.1k)](https://github.com/bcoe/awesome-cross-platform-nodejs) - Resources for writing and testing cross-platform code.
+*   [awesome-cross-platform-nodejs (⭐1.2k)](https://github.com/bcoe/awesome-cross-platform-nodejs) - Resources for writing and testing cross-platform code.
 
 ## [18. Amas](/content/sindresorhus/amas/week/README.md)
 
@@ -548,7 +548,7 @@
 
 ### Software / Conference Management
 
-*   [pretalx](https://pretalx.org) - Web-based event management, including running a Call for Papers, reviewing submissions, and scheduling talks. Exports and imports for various related tools. ([Source Code (⭐698)](https://github.com/pretalx/pretalx)) `Apache-2.0` `Python`
+*   [pretalx](https://pretalx.org) - Web-based event management, including running a Call for Papers, reviewing submissions, and scheduling talks. Exports and imports for various related tools. ([Source Code (⭐764)](https://github.com/pretalx/pretalx)) `Apache-2.0` `Python`
 
 ## [26. Awesome Git Addons](/content/stevemao/awesome-git-addons/week/README.md)
 
@@ -702,7 +702,6 @@
 *   [AC Transit RestroomFinder (⭐1)](https://github.com/actransitorg/ACTransit.RestroomFinder) - Pinpoints the nearest authorized restroom for bus operator and field staff, using GPS and on-screen map.
 *   [AC Transit Training and Education Department (TED) application (⭐8)](https://github.com/actransitorg/ACTransit.Training) - This application supports the District's training operations for transportation and maintenance employees, primarily in the positions of Bus Operators and Heavy Duty Coach Mechanics (Apprentice and Journey), although the system supports new courses and apprenticeship programs.
 *   [AC Transit Customer Relations application (CusRel) (⭐8)](https://github.com/actransitorg/ACTransit.CusRel) - Public transit ticketing system for customer issues and feedback with: inter-departmental routing with notifications, department/person assigments, simple workflow, ticket searching, pre-canned reports, daily reminders and more.
-*   [TransAM](http://camsys.software/products/transam) - An open-source asset management platform for public transportation agencies.  Open-source [on Github (⭐15)](https://github.com/camsys/transam_core).
 
 ## [29. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
@@ -739,7 +738,7 @@
 
 ### Tools / Java
 
-*   [seleniumQuery (⭐69)](https://github.com/seleniumQuery/seleniumQuery) - jQuery-like cross-driver interface in Java for WebDriver. Designed as a thin layer, it can be used alone or on top of your favorite framework just to make some cases (e.g. asserting/waiting) simpler when needed.
+*   [seleniumQuery (⭐71)](https://github.com/seleniumQuery/seleniumQuery) - jQuery-like cross-driver interface in Java for WebDriver. Designed as a thin layer, it can be used alone or on top of your favorite framework just to make some cases (e.g. asserting/waiting) simpler when needed.
 
 ## [33. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
@@ -765,7 +764,6 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Pomidorus (⭐179)](https://github.com/tatyshev/pomidorus) - Pomodoro time tracker build using Vue and D3 🍅
 *   [Hubble](https://hubble.js.org) - :telescope: Travel through GitHub Stars' history.
 
 ## [37. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
@@ -1090,7 +1088,7 @@ Webpage: <http://www.borealcoffee.ch/>
 
 ### Examples / Templates
 
-*   [cpp14-project-template (⭐62)](https://github.com/arnavb/cpp14-project-template) - A C++14 template with CI, tests, code coverage, docs and static analysis integration. [`[CC0-1.0]`](https://creativecommons.org/publicdomain/zero/1.0/)
+*   [cpp14-project-template (⭐64)](https://github.com/arnavb/cpp14-project-template) - A C++14 template with CI, tests, code coverage, docs and static analysis integration. [`[CC0-1.0]`](https://creativecommons.org/publicdomain/zero/1.0/)
 
 ## [45. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
@@ -1110,8 +1108,8 @@ Webpage: <http://www.borealcoffee.ch/>
 
 ### Build tools, setup and CI
 
-*   [GMavenPlus (⭐258)](https://github.com/groovy/GMavenPlus) - A rewrite of GMaven, a Maven plugin for Groovy
-*   [Jenkins job-dsl-plugin (⭐1.8k)](https://github.com/jenkinsci/job-dsl-plugin) - A Groovy DSL for Jenkins Jobs
+*   [GMavenPlus (⭐283)](https://github.com/groovy/GMavenPlus) - A rewrite of GMaven, a Maven plugin for Groovy
+*   [Jenkins job-dsl-plugin (⭐1.9k)](https://github.com/jenkinsci/job-dsl-plugin) - A Groovy DSL for Jenkins Jobs
 *   [travis-groovy (⭐3)](https://github.com/kdabir/travis-groovy) - execute groovy scripts on travis-ci
 
 ### IDE and Editor Support
@@ -1128,12 +1126,12 @@ Webpage: <http://www.borealcoffee.ch/>
 
 ### HTTP
 
-*   [HTTP Builder NG (⭐177)](https://github.com/http-builder-ng/http-builder-ng) - HTTP Builder NG is a modern Groovy DSL for making http requests.
+*   [HTTP Builder NG (⭐176)](https://github.com/http-builder-ng/http-builder-ng) - HTTP Builder NG is a modern Groovy DSL for making http requests.
 *   [HTTP Builder NG Gradle Plugin (⭐31)](https://github.com/http-builder-ng/gradle-http-plugin) - Gradle plugin providing HTTP Builder NG support in a Gradle build configuration.
 
 ### Testing
 
-*   [Ersatz Mock Server (⭐44)](https://github.com/cjstehno/ersatz) - A simple and expressive simulated HTTP server for testing client code with configurable responses.
+*   [Ersatz Mock Server (⭐47)](https://github.com/cjstehno/ersatz) - A simple and expressive simulated HTTP server for testing client code with configurable responses.
 *   [Dru](https://agorapulse.github.io/dru/) - Data Reconstruction Utility loads data from external sources JSON, YML for easy testing GORM, DynamoDB or just plain POJOs.
 *   [Gru](https://agorapulse.github.io/gru/) - Groovy HTTP Testing Framework for running integration and semi-ingetration tests for any HTTP backend with native unit test support for Grails and Spring MVC.
 
@@ -1144,7 +1142,7 @@ Webpage: <http://www.borealcoffee.ch/>
 
 ### Official Resources
 
-*   [Groovy's source (⭐4.9k)](https://github.com/apache/groovy) - Groovy's source code mirrored on Github
+*   [Groovy's source (⭐5.2k)](https://github.com/apache/groovy) - Groovy's source code mirrored on Github
 
 ### Blogs of core committer
 

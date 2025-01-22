@@ -16,7 +16,7 @@
 
 ### Utilities / Markdown
 
-*   [gtree (⭐189)](https://github.com/ddddddO/gtree) - Use markdown to generate directory trees and the directories itself.
+*   [gtree (⭐246)](https://github.com/ddddddO/gtree) - Use markdown to generate directory trees and the directories itself.
 
 ## [3. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
 
@@ -27,7 +27,6 @@
 ### Registry / Other
 
 *   [Cloudsmith :heavy\_dollar\_sign:](https://cloudsmith.com/product/formats/docker-registry) - A fully managed package management SaaS, with first-class support for public and private Docker registries (and many others, incl. Helm charts for the Kubernetes ecosystem). Has a generous free-tier and is also completely free for open-source.
-*   [GCE Container Registry :heavy\_dollar\_sign:](https://cloud.google.com/artifact-registry) Fast, private Docker image storage on Google Cloud Platform
 *   [Sonatype Nexus Repository](https://www.sonatype.com/products/sonatype-nexus-repository) - Manage binaries and build artifacts across your software supply chain.
 
 ## [4. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
@@ -60,7 +59,7 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [git-check (⭐1)](https://github.com/git-girl/git-check) - Adds a ZSH hook to check if the origin of the current branch has changes to local in the background and sends a notification.
+*   [git-check](https://github.com/git-girl/git-check) - Adds a ZSH hook to check if the origin of the current branch has changes to local in the background and sends a notification.
 *   [iwd (⭐3)](https://github.com/zshzoo/iwd) - Similar in concept to `$PWD`, this ZSH plugin saves your initial working directory in `$IWD` for easy returns to the starting point of your session.
 
 ---

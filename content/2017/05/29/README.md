@@ -34,7 +34,7 @@
 
 ### Awesome Repositories
 
-- Repository: [Social Engineering (⭐2.6k)](https://github.com/v2-dev/awesome-social-engineering)
+- Repository: [Social Engineering (⭐2.8k)](https://github.com/v2-dev/awesome-social-engineering)
 
   Description: List of awesome social engineering resources
 

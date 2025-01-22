@@ -8,7 +8,7 @@
 
 ## [1. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
-### Company Research / Telegram
+### Company Research / Steam
 
 *   [Caselaw Access Project](https://case.law/) - Collection of full text of historical (not up-to-date) cases from United States state appellate courts.
 *   [Corporate Information](http://www.corporateinformation.com) - Aggregated information from publicly available sources on publicly traded companies worldwide.
@@ -67,23 +67,23 @@
 
 *   [KEGG DRUG](https://www.genome.jp/kegg/drug/) - Comprehensive drug information resource for approved drugs.
 
-### Preprocess / Interaction
+### Preprocess / Clinical Trial
 
-*   [Chemistry Development Kit (⭐484)](https://github.com/cdk/cdk) - A software of cheminformatics and Machine Learning.
-*   [RDKit (⭐2.6k)](https://github.com/rdkit/rdkit) - A software of cheminformatics and Machine Learning.
+*   [Chemistry Development Kit (⭐496)](https://github.com/cdk/cdk) - A software of cheminformatics and Machine Learning.
+*   [RDKit (⭐2.7k)](https://github.com/rdkit/rdkit) - A software of cheminformatics and Machine Learning.
 
 ### Drug Response Prediction / Drug Repurposing
 
-*   [DeepPurpose (⭐944)](https://github.com/kexinhuang12345/DeepPurpose) - A DL Library for Drug Repurposing.
+*   [DeepPurpose (⭐974)](https://github.com/kexinhuang12345/DeepPurpose) - A DL Library for Drug Repurposing.
 
 ### Drug Response Prediction / Drug Target Interaction
 
-*   [NeoDTI (⭐73)](https://github.com/FangpingWan/NeoDTI) - A library for Drug Target Interaction.
+*   [NeoDTI (⭐74)](https://github.com/FangpingWan/NeoDTI) - A library for Drug Target Interaction.
 
 ### Drug Response Prediction / Compound Protein Interaction
 
 *   [MCPINN (⭐3)](https://github.com/mhlee0903/multi_channels_PINN) - A library for drug discovery using Compound Protein Interaction and Machine Learning.
-*   [TransformerCPI (⭐132)](https://github.com/lifanchen-simm/transformerCPI) - A library for Compound Protein Interaction prediction using Transformer.
+*   [TransformerCPI (⭐134)](https://github.com/lifanchen-simm/transformerCPI) - A library for Compound Protein Interaction prediction using Transformer.
 
 ## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -101,11 +101,11 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-commonjs (⭐98)](https://github.com/vite-plugin/vite-plugin-commonjs) - A pure JavaScript implementation for CommonJs.
+*   [vite-plugin-commonjs (⭐118)](https://github.com/vite-plugin/vite-plugin-commonjs) - A pure JavaScript implementation for CommonJs.
 
 ### Rust / Community
 
-*   [create-rust-app (⭐1.5k)](https://github.com/Wulf/create-rust-app) - Integration for Rust web apps.
+*   [create-rust-app (⭐1.6k)](https://github.com/Wulf/create-rust-app) - Integration for Rust web apps.
 
 ---
 

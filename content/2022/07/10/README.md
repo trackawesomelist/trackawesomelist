@@ -16,7 +16,7 @@
 
 ### Applications / Productivity
 
-*   [espanso (⭐9.6k)](https://github.com/espanso/espanso) - A cross-platform Text Expander. [![CI](https://github.com/espanso/espanso/actions/workflows/ci.yml/badge.svg?branch=dev\&event=push)](https://github.com/espanso/espanso/actions/workflows/ci.yml)
+*   [espanso (⭐10k)](https://github.com/espanso/espanso) - A cross-platform Text Expander. [![CI](https://github.com/espanso/espanso/actions/workflows/ci.yml/badge.svg?branch=dev\&event=push)](https://github.com/espanso/espanso/actions/workflows/ci.yml)
 
 ## [3. Guides](/content/NARKOZ/guides/README.md)
 
@@ -36,50 +36,46 @@
 
 ### Command-Line Tools / Discovery
 
-*   [comma (⭐1k)](https://github.com/nix-community/comma) - Quickly run any binary; wraps together `nix run` and `nix-index`.
-*   [nix-diff (⭐335)](https://github.com/Gabriella439/nix-diff) - A tool to explain why two Nix derivations differ.
+*   [comma (⭐1.2k)](https://github.com/nix-community/comma) - Quickly run any binary; wraps together `nix run` and `nix-index`.
+*   [nix-diff (⭐374)](https://github.com/Gabriella439/nix-diff) - A tool to explain why two Nix derivations differ.
 
 ### Development / Discovery
 
-*   [lorri (⭐663)](https://github.com/nix-community/lorri/) - A much better `nix-shell` for development that augments direnv.
+*   [lorri (⭐728)](https://github.com/nix-community/lorri/) - A much better `nix-shell` for development that augments direnv.
 
 ### Programming Languages / Elm
 
-*   [elm2nix (⭐108)](https://github.com/cachix/elm2nix) - Convert `elm.json` into Nix expressions.
+*   [elm2nix (⭐112)](https://github.com/cachix/elm2nix) - Convert `elm.json` into Nix expressions.
 
 ### Programming Languages / Node.js
 
-*   [Napalm (⭐104)](https://github.com/nix-community/napalm) - Support for building npm packages in Nix with a lightweight npm registry.
-*   [npmlock2nix (⭐129)](https://github.com/nix-community/npmlock2nix) - Generate Nix expressions from a `package-lock.json` (in-memory), primarily for web projects.
+*   [Napalm (⭐106)](https://github.com/nix-community/napalm) - Support for building npm packages in Nix with a lightweight npm registry.
+*   [npmlock2nix (⭐135)](https://github.com/nix-community/npmlock2nix) - Generate Nix expressions from a `package-lock.json` (in-memory), primarily for web projects.
 
 ### Programming Languages / Rust
 
-*   [cargo2nix (⭐352)](https://github.com/cargo2nix/cargo2nix) - Granular caching, development shell, Nix & Rust integration.
+*   [cargo2nix (⭐397)](https://github.com/cargo2nix/cargo2nix) - Granular caching, development shell, Nix & Rust integration.
 
 ## [5. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Configuration
 
-*   [harvester (⭐130)](https://github.com/beatlabs/harvester) - Harvester, an easy to use static and dynamic configuration package supporting seeding, env vars and Consul integration.
-*   [kong (⭐2k)](https://github.com/alecthomas/kong) - Command-line parser with support for arbitrarily complex command-line structures and additional sources of configuration such as YAML, JSON, TOML, etc (successor to `kingpin`).
+*   [harvester (⭐132)](https://github.com/beatlabs/harvester) - Harvester, a easy to use static and dynamic configuration package supporting seeding, env vars and Consul integration.
+*   [kong (⭐2.3k)](https://github.com/alecthomas/kong) - Command-line parser with support for arbitrarily complex command-line structures and additional sources of configuration such as YAML, JSON, TOML, etc (successor to `kingpin`).
 
 ### Caches
 
-*   [go-cache (⭐138)](https://github.com/viney-shih/go-cache) - A flexible multi-layer Go caching library to deal with in-memory and shared cache by adopting Cache-Aside pattern.
-*   [gocache (⭐2.4k)](https://github.com/eko/gocache) - A complete Go cache library with multiple stores (memory, memcache, redis, ...), chainable, loadable, metrics cache and more.
+*   [go-cache (⭐143)](https://github.com/viney-shih/go-cache) - A flexible multi-layer Go caching library to deal with in-memory and shared cache by adopting Cache-Aside pattern.
+*   [gocache (⭐2.5k)](https://github.com/eko/gocache) - A complete Go cache library with multiple stores (memory, memcache, redis, ...), chainable, loadable, metrics cache and more.
 
 ### Database Schema Migration
 
 *   [gorm-seeder (⭐13)](https://github.com/Kachit/gorm-seeder) - Simple database seeder for Gorm ORM.
-*   [libschema (⭐14)](https://github.com/muir/libschema) - Define your migrations separately in each library. Migrations for open source libraries. MySQL & PostgreSQL.
-
-### Error Handling
-
-*   [errors (⭐62)](https://github.com/bnkamalesh/errors) - Drop-in replacement for builtin Go errors. This is a minimal error handling package with custom error types, user friendly messages, Unwrap & Is. With very easy to use and straightforward helper functions.
+*   [libschema (⭐15)](https://github.com/muir/libschema) - Define your migrations separately in each library. Migrations for open source libraries. MySQL & PostgreSQL.
 
 ### Financial
 
-*   [ach (⭐450)](https://github.com/moov-io/ach) - A reader, writer, and validator for Automated Clearing House (ACH) files.
+*   [ach (⭐467)](https://github.com/moov-io/ach) - A reader, writer, and validator for Automated Clearing House (ACH) files.
 
 ### Logging
 
@@ -87,15 +83,15 @@
 
 ### Networking
 
-*   [fullproxy (⭐77)](https://github.com/shoriwe/fullproxy) - A fully featured scriptable and daemon configurable proxy and pivoting toolkit with SOCKS5, HTTP, raw ports and reverse proxy protocols.
+*   [fullproxy (⭐81)](https://github.com/shoriwe/fullproxy) - A fully featured scriptable and daemon configurable proxy and pivoting toolkit with SOCKS5, HTTP, raw ports and reverse proxy protocols.
 
 ### HTTP Clients
 
-*   [go-zoox/fetch (⭐71)](https://github.com/go-zoox/fetch) - A Powerful, Lightweight, Easy Http Client, inspired by Web Fetch API.
+*   [go-zoox/fetch (⭐74)](https://github.com/go-zoox/fetch) - A Powerful, Lightweight, Easy Http Client, inspired by Web Fetch API.
 
 ### Regular Expressions
 
-*   [rex (⭐193)](https://github.com/hedhyw/rex) - Regular expressions builder.
+*   [rex (⭐199)](https://github.com/hedhyw/rex) - Regular expressions builder.
 
 ### Third-party APIs
 
@@ -103,14 +99,14 @@
 
 ### Utilities
 
-*   [countries (⭐389)](https://github.com/biter777/countries) - Full implementation of ISO-3166-1, ISO-4217, ITU-T E.164, Unicode CLDR and IANA ccTLD standards.
-*   [evaluator (⭐39)](https://github.com/nullne/evaluator) - Evaluate an expression dynamically based on s-expression. It's simple and easy to extend.
+*   [countries (⭐418)](https://github.com/biter777/countries) - Full implementation of ISO-3166-1, ISO-4217, ITU-T E.164, Unicode CLDR and IANA ccTLD standards.
+*   [evaluator (⭐41)](https://github.com/nullne/evaluator) - Evaluate an expression dynamically based on s-expression. It's simple and easy to extend.
 *   [jsend (⭐22)](https://github.com/clevergo/jsend) - JSend's implementation written in Go.
-*   [lancet (⭐4k)](https://github.com/duke-git/lancet) - A comprehensive, efficient, and reusable util function library of go.
+*   [lancet (⭐4.9k)](https://github.com/duke-git/lancet) - A comprehensive, efficient, and reusable util function library of go.
 
 ### DevOps Tools / Libraries for creating HTTP middlewares
 
-*   [abbreviate (⭐216)](https://github.com/dnnrly/abbreviate) - abbreviate is a tool turning long strings in to shorter ones with configurable separators, for example to embed branch names in to deployment stack IDs.
+*   [abbreviate (⭐221)](https://github.com/dnnrly/abbreviate) - abbreviate is a tool turning long strings in to shorter ones with configurable separators, for example to embed branch names in to deployment stack IDs.
 
 ### Websites / Libraries for creating HTTP middlewares
 
@@ -120,14 +116,14 @@
 
 ### Backend / Redux / ELM / Dependency Injection
 
-*   [Parse for Flutter (⭐568)](https://github.com/parse-community/Parse-SDK-Flutter/tree/master/packages/flutter) <!--stargazers:parse-community/Parse-SDK-Flutter--> Open source backend framework by [ParsePlatform](https://parseplatform.org/).
-*   [Serverpod (⭐2.4k)](https://github.com/serverpod/serverpod) - Write your server-side code and API in Dart.
+*   [Serverpod (⭐2.6k)](https://github.com/serverpod/serverpod) - Write your server-side code and API in Dart.
+*   [Parse for Flutter (⭐577)](https://github.com/parse-community/Parse-SDK-Flutter/tree/master/packages/flutter) <!--stargazers:parse-community/Parse-SDK-Flutter--> Open source backend framework by [ParsePlatform](https://parseplatform.org/).
 
 ## [7. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
 ### Open Source Projects / Other Tools
 
-*   [Astrobase (⭐63)](https://github.com/anthonycorletti/astrobase) - Simple, fast, and secure deployments anywhere.
+*   [Astrobase (⭐64)](https://github.com/anthonycorletti/astrobase) - Simple, fast, and secure deployments anywhere.
 
 ## [8. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/README.md)
 
@@ -139,7 +135,7 @@
 
 ### Software / Communication - Custom Communication Systems
 
-*   [Shhh (⭐370)](https://github.com/smallwat3r/shhh) - Keep secrets out of emails or chat logs, share them using secure links with passphrase and expiration dates. `MIT` `Python`
+*   [Shhh (⭐389)](https://github.com/smallwat3r/shhh) - Keep secrets out of emails or chat logs, share them using secure links with passphrase and expiration dates. `MIT` `Python`
 
 ## [10. Awesome Productivity](/content/jyguyomarch/awesome-productivity/README.md)
 

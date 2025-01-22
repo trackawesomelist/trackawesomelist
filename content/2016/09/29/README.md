@@ -59,7 +59,7 @@
 
 ### Audio
 
-*   [AudioPlayerSwift (⭐275)](https://github.com/tbaranes/AudioPlayerSwift) - AudioPlayer is a simple class for playing audio (basic and advanced usage) in iOS, OS X and tvOS apps.
+*   [AudioPlayerSwift (⭐278)](https://github.com/tbaranes/AudioPlayerSwift) - AudioPlayer is a simple class for playing audio (basic and advanced usage) in iOS, OS X and tvOS apps.
 
 ## [8. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
@@ -71,8 +71,8 @@
 
 ### Database Drivers/Clients
 
-*   [crystal-mysql (⭐108)](https://github.com/crystal-lang/crystal-mysql) - MySQL connector for Crystal
-*   [crystal-sqlite3 (⭐136)](https://github.com/crystal-lang/crystal-sqlite3) - SQLite3 bindings
+*   [crystal-mysql (⭐106)](https://github.com/crystal-lang/crystal-mysql) - MySQL connector for Crystal
+*   [crystal-sqlite3 (⭐141)](https://github.com/crystal-lang/crystal-sqlite3) - SQLite3 bindings
 
 ## [10. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 

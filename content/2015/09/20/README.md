@@ -97,7 +97,7 @@
 
 ### Forms / Paid Books
 
-*   [Justified Gallery (⭐1.6k)](https://github.com/miromannino/Justified-Gallery) - Allows you to create a gallery with a justified grid.
+*   [Justified Gallery (⭐1.7k)](https://github.com/miromannino/Justified-Gallery) - Allows you to create a gallery with a justified grid.
 
 ### Images, Maps and Charts / Paid Books
 
@@ -108,17 +108,17 @@
 *   [Filter Table (⭐174)](https://github.com/sunnywalker/jQuery.FilterTable) - Live searching/filtering for HTML tables.
 *   [FooTable (⭐2.1k)](https://github.com/fooplugins/FooTable/) - Make HTML tables responsive.
 *   [Isotope (⭐11k)](https://github.com/metafizzy/isotope) - Filter & sort magical layouts.
-*   [HighchartTable (⭐272)](https://github.com/highchartTable/jquery-highchartTable-plugin) - Simple way to convert HTML data tables to Highcharts graphs.
-*   [jQuery treetable (⭐735)](https://github.com/ludo/jquery-treetable) - Show a tree structure in a table.
+*   [HighchartTable (⭐270)](https://github.com/highchartTable/jquery-highchartTable-plugin) - Simple way to convert HTML data tables to Highcharts graphs.
+*   [jQuery treetable (⭐739)](https://github.com/ludo/jquery-treetable) - Show a tree structure in a table.
 *   [jsGrid (⭐1.5k)](https://github.com/tabalinas/jsgrid) - Lightweight grid plugin.
 *   [Stackable.js (⭐1k)](https://github.com/johnpolacek/stacktable.js/) - Stacking tables on small screens.
-*   [Stupid Table Sort (⭐710)](https://github.com/joequery/Stupid-Table-Plugin) - A stupidly small and simple jQuery table sorter plugin.
+*   [Stupid Table Sort (⭐709)](https://github.com/joequery/Stupid-Table-Plugin) - A stupidly small and simple jQuery table sorter plugin.
 
 ### Validation / Paid Books
 
 *   [FormValidation](https://github.com/formvalidation/formvalidation) - Form fields validator, designed for Bootstrap, Foundation, Pure, Semantic UI, UIKit and other frameworks.
-*   [h5Validate (⭐587)](https://github.com/ericelliott/h5Validate) - An HTML5 form validation plugin for jQuery.
-*   [jQuery Form Validator (⭐978)](https://github.com/victorjonsson/jQuery-Form-Validator/) - Validate user input while keeping your HTML markup clean from JavaScript code.
+*   [h5Validate (⭐576)](https://github.com/ericelliott/h5Validate) - An HTML5 form validation plugin for jQuery.
+*   [jQuery Form Validator (⭐972)](https://github.com/victorjonsson/jQuery-Form-Validator/) - Validate user input while keeping your HTML markup clean from JavaScript code.
 *   [jQuery.validationEngine (⭐2.6k)](https://github.com/posabsolute/jQuery-Validation-Engine) - Validation of form fields in the browser.
 
 ---

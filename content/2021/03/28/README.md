@@ -1,47 +1,37 @@
 # Awesome List Updates on Mar 28, 2021
 
-7 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / Utilities
-
-*   [vue-stripe-elements (⭐530)](https://github.com/ectoflow/vue-stripe-elements) - Vue component collection for Stripe.js
-
-## [2. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
+## [1. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
 ### Privacy / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
 *   [Databunker](https://databunker.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/securitybunker/databunker) - Databunker is a network-based, self-hosted, GDPR compliant, secure storage for personal data.
 
-## [3. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
+## [2. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
 ### Cache
 
 *   [Dictionary Flush Partial Cache (⭐1)](https://github.com/jbluemink/DictionaryFlushPartialCache) - Flashes Partial HTML Cache on changes to Sitecore Dictionary items.
 
-## [4. Awesome Esolangs](/content/angrykoala/awesome-esolangs/README.md)
+## [3. Awesome Esolangs](/content/angrykoala/awesome-esolangs/README.md)
 
 ### Languages
 
 *   [FreakC (⭐129)](https://github.com/FreakC-Foundation/FreakC) - Full-blown programming language with NSFW contents and memes.
 *   [JellyScript](https://github.com/nguyenphuminh/Jellyscript) - Brainfuck-based with delicious jelly.
 
-## [5. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
-
-### Infrastructure Monitoring
-
-*   [LogDNA](https://www.logdna.com/blog/get-a-free-logdna-account-in-the-github-student-developer-pack)\[FREE] - Log management platform that offers aggregation, monitoring, and analysis of server and application logs at any volume, from any source.Up to 50 GB/month of log storage with 14 day retention for one year via [Github Student Developer Pack](https://education.github.com/pack).
+## [4. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
 
 ### Software Packs
 
 *   [Azure for Students](https://azureforeducation.microsoft.com/en-us/Institutions) \[FREE / DISCOUNT] - Subscriptions provide access to Azure services. Azure for Students gives you $100 credit for 12 months. It includes access to more than 25 free services, including compute, network, storage, and databases. Any charges incurred during this period are deducted from the credit.
 
-## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### CI and CD
 
@@ -55,7 +45,7 @@
 
 *   [Blynk](https://blynk.io) — A SaaS with API to control, build & evaluate IoT devices. Free Developer Plan with 5 devices, Free Cloud & data storage. Mobile Apps are also available.
 
-## [7. Awesome Programming for Kids](/content/HollyAdele/awesome-programming-for-kids/README.md)
+## [6. Awesome Programming for Kids](/content/HollyAdele/awesome-programming-for-kids/README.md)
 
 ### Lower Elementary
 

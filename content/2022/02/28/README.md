@@ -48,11 +48,11 @@
 
 ### Lua Colorscheme / Diagnostics
 
-*   [lalitmee/cobalt2.nvim (⭐103)](https://github.com/lalitmee/cobalt2.nvim) - A port of cobalt2 colorscheme using colorbuddy.
+*   [lalitmee/cobalt2.nvim (⭐109)](https://github.com/lalitmee/cobalt2.nvim) - A port of cobalt2 colorscheme using colorbuddy.
 
 ### Git / Diagnostics
 
-*   [AckslD/nvim-gfold.lua (⭐32)](https://github.com/AckslD/nvim-gfold.lua) - Plugin using [gfold (⭐283)](https://github.com/nickgerace/gfold) to switch repo and have statusline component.
+*   [AckslD/nvim-gfold.lua (⭐33)](https://github.com/AckslD/nvim-gfold.lua) - Plugin using [gfold (⭐317)](https://github.com/nickgerace/gfold) to switch repo and have statusline component.
 
 ## [8. Awesome Icons](/content/vkarampinis/awesome-icons/README.md)
 
@@ -64,47 +64,47 @@
 
 ### ⚙️ Middlewares / 🧬 Core
 
-*   [BasicAuth (⭐31k)](https://github.com/gofiber/fiber/tree/master/middleware/basicauth) - Basic auth middleware provides an HTTP basic authentication. It calls the next handler for valid credentials and 401 Unauthorized for missing or invalid credentials.
-*   [Cache (⭐31k)](https://github.com/gofiber/fiber/tree/master/middleware/cache) - Intercept and cache responses.
-*   [Compress (⭐31k)](https://github.com/gofiber/fiber/tree/master/middleware/compress) - 	Compression middleware for Fiber, it supports `deflate`, `gzip` and `brotli` by default.
-*   [CORS (⭐31k)](https://github.com/gofiber/fiber/tree/master/middleware/cors) - Enable cross-origin resource sharing (CORS) with various options.
-*   [CSRF (⭐31k)](https://github.com/gofiber/fiber/tree/master/middleware/csrf) - Protect from CSRF exploits.
-*   [Encrypt Cookie (⭐31k)](https://github.com/gofiber/fiber/tree/master/middleware/encryptcookie) - Encrypt middleware which encrypts cookie values.
-*   [ETag (⭐31k)](https://github.com/gofiber/fiber/tree/master/middleware/etag) - ETag middleware that lets caches be more efficient and save bandwidth, as a web server does not need to resend a full response if the content has not changed.
-*   [Expvar (⭐31k)](https://github.com/gofiber/fiber/tree/master/middleware/expvar) - Expvar middleware that serves via its HTTP server runtime exposed variants in the JSON format.
-*   [Favicon (⭐31k)](https://github.com/gofiber/fiber/tree/master/middleware/favicon) - Ignore favicon from logs or serve from memory if a file path is provided.
-*   [FileSystem (⭐31k)](https://github.com/gofiber/fiber/tree/master/middleware/filesystem) - FileSystem middleware for Fiber, special thanks and credits to Alireza Salary.
-*   [Limiter (⭐31k)](https://github.com/gofiber/fiber/tree/master/middleware/limiter) - Rate-limiting middleware. Use to limit repeated requests to public APIs and/or endpoints such as password reset.
-*   [Logger (⭐31k)](https://github.com/gofiber/fiber/tree/master/middleware/logger) - HTTP request/response logger.
-*   [Monitor (⭐31k)](https://github.com/gofiber/fiber/tree/master/middleware/monitor) - Monitor middleware that reports server metrics, inspired by express-status-monitor.
-*   [Pprof (⭐31k)](https://github.com/gofiber/fiber/tree/master/middleware/pprof) - Pprof middleware that serves via its HTTP server runtime profiling data in the format expected by the pprof visualization tool.
-*   [Proxy (⭐31k)](https://github.com/gofiber/fiber/tree/master/middleware/proxy) - Allows you to proxy requests to a multiple servers.
-*   [Recover (⭐31k)](https://github.com/gofiber/fiber/tree/master/middleware/recover) - Recover middleware recovers from panics anywhere in the stack chain and handles the control to the centralized ErrorHandler.
-*   [RequestID (⭐31k)](https://github.com/gofiber/fiber/tree/master/middleware/requestid) - Adds a requestid to every request.
-*   [Session (⭐31k)](https://github.com/gofiber/fiber/tree/master/middleware/session) - Session middleware. NOTE: This middleware uses our Storage package.
-*   [Skip (⭐31k)](https://github.com/gofiber/fiber/tree/master/middleware/skip) - Skip middleware that skips a wrapped handler is a predicate is true.
-*   [Timeout (⭐31k)](https://github.com/gofiber/fiber/tree/master/middleware/timeout) - Adds a max time for a request and forwards to ErrorHandler if it is exceeded.
+*   [BasicAuth (⭐35k)](https://github.com/gofiber/fiber/tree/master/middleware/basicauth) - Basic auth middleware provides an HTTP basic authentication. It calls the next handler for valid credentials and 401 Unauthorized for missing or invalid credentials.
+*   [Cache (⭐35k)](https://github.com/gofiber/fiber/tree/master/middleware/cache) - Intercept and cache responses.
+*   [Compress (⭐35k)](https://github.com/gofiber/fiber/tree/master/middleware/compress) - 	Compression middleware for Fiber, it supports `deflate`, `gzip` and `brotli` by default.
+*   [CORS (⭐35k)](https://github.com/gofiber/fiber/tree/master/middleware/cors) - Enable cross-origin resource sharing (CORS) with various options.
+*   [CSRF (⭐35k)](https://github.com/gofiber/fiber/tree/master/middleware/csrf) - Protect from CSRF exploits.
+*   [Encrypt Cookie (⭐35k)](https://github.com/gofiber/fiber/tree/master/middleware/encryptcookie) - Encrypt middleware which encrypts cookie values.
+*   [ETag (⭐35k)](https://github.com/gofiber/fiber/tree/master/middleware/etag) - ETag middleware that lets caches be more efficient and save bandwidth, as a web server does not need to resend a full response if the content has not changed.
+*   [Expvar (⭐35k)](https://github.com/gofiber/fiber/tree/master/middleware/expvar) - Expvar middleware that serves via its HTTP server runtime exposed variants in the JSON format.
+*   [Favicon (⭐35k)](https://github.com/gofiber/fiber/tree/master/middleware/favicon) - Ignore favicon from logs or serve from memory if a file path is provided.
+*   [FileSystem (⭐35k)](https://github.com/gofiber/fiber/tree/master/middleware/filesystem) - FileSystem middleware for Fiber, special thanks and credits to Alireza Salary.
+*   [Limiter (⭐35k)](https://github.com/gofiber/fiber/tree/master/middleware/limiter) - Rate-limiting middleware. Use to limit repeated requests to public APIs and/or endpoints such as password reset.
+*   [Logger (⭐35k)](https://github.com/gofiber/fiber/tree/master/middleware/logger) - HTTP request/response logger.
+*   [Monitor (⭐35k)](https://github.com/gofiber/fiber/tree/master/middleware/monitor) - Monitor middleware that reports server metrics, inspired by express-status-monitor.
+*   [Pprof (⭐35k)](https://github.com/gofiber/fiber/tree/master/middleware/pprof) - Pprof middleware that serves via its HTTP server runtime profiling data in the format expected by the pprof visualization tool.
+*   [Proxy (⭐35k)](https://github.com/gofiber/fiber/tree/master/middleware/proxy) - Allows you to proxy requests to a multiple servers.
+*   [Recover (⭐35k)](https://github.com/gofiber/fiber/tree/master/middleware/recover) - Recover middleware recovers from panics anywhere in the stack chain and handles the control to the centralized ErrorHandler.
+*   [RequestID (⭐35k)](https://github.com/gofiber/fiber/tree/master/middleware/requestid) - Adds a requestid to every request.
+*   [Session (⭐35k)](https://github.com/gofiber/fiber/tree/master/middleware/session) - Session middleware. NOTE: This middleware uses our Storage package.
+*   [Skip (⭐35k)](https://github.com/gofiber/fiber/tree/master/middleware/skip) - Skip middleware that skips a wrapped handler is a predicate is true.
+*   [Timeout (⭐35k)](https://github.com/gofiber/fiber/tree/master/middleware/timeout) - Adds a max time for a request and forwards to ErrorHandler if it is exceeded.
 
 ### ⚙️ Middlewares / 🔗 External
 
-*   [storage (⭐241)](https://github.com/gofiber/storage) - Premade storage drivers that implement the Storage interface, designed to be used with various Fiber middlewares.
-*   [template (⭐242)](https://github.com/gofiber/template) - This package contains 8 template engines that can be used with Fiber v1.10.x Go version 1.13 or higher is required.
+*   [storage (⭐279)](https://github.com/gofiber/storage) - Premade storage drivers that implement the Storage interface, designed to be used with various Fiber middlewares.
+*   [template (⭐275)](https://github.com/gofiber/template) - This package contains 8 template engines that can be used with Fiber v1.10.x Go version 1.13 or higher is required.
 
 ### ⚙️ Middlewares / ‍💻 Contrib
 
-*   [fibersentry (⭐180)](https://github.com/gofiber/contrib/tree/main/fibersentry) - Sentry support for Fiber.
-*   [fiberzap (⭐180)](https://github.com/gofiber/contrib/tree/main/fiberzap) - Zap logging support for Fiber.
-*   [otelfiber (⭐180)](https://github.com/gofiber/contrib/tree/main/otelfiber) - OpenTelemetry support for Fiber.
-*   [paseto (⭐180)](https://github.com/gofiber/contrib/tree/main/paseto) - PASETO returns a Web Token (PASETO) auth middleware.
-*   [swagger (⭐180)](https://github.com/gofiber/contrib/tree/main/swagger) - Swagger middleware for Fiber. The middleware handles Swagger UI.
+*   [fibersentry (⭐239)](https://github.com/gofiber/contrib/tree/main/fibersentry) - Sentry support for Fiber.
+*   [fiberzap (⭐239)](https://github.com/gofiber/contrib/tree/main/fiberzap) - Zap logging support for Fiber.
+*   [otelfiber (⭐239)](https://github.com/gofiber/contrib/tree/main/otelfiber) - OpenTelemetry support for Fiber.
+*   [paseto (⭐239)](https://github.com/gofiber/contrib/tree/main/paseto) - PASETO returns a Web Token (PASETO) auth middleware.
+*   [swagger (⭐239)](https://github.com/gofiber/contrib/tree/main/swagger) - Swagger middleware for Fiber. The middleware handles Swagger UI.
 
 ### 📁 Recipes / 🌱 Third Party
 
-*   [gofiber/recipes (⭐2.8k)](https://github.com/gofiber/recipes) - Official Fiber cookbook.
+*   [gofiber/recipes (⭐3.2k)](https://github.com/gofiber/recipes) - Official Fiber cookbook.
 
 ### 🛠️ Tools / 🌱 Third Party
 
-*   [go-dawn/dawn (⭐16)](https://github.com/go-dawn/dawn) - Dawn is an opinionated web framework that provides rapid development capabilities which on top of Fiber.
+*   [go-dawn/dawn (⭐17)](https://github.com/go-dawn/dawn) - Dawn is an opinionated web framework that provides rapid development capabilities which on top of Fiber.
 *   [tompston/gomakeme (⭐11)](https://github.com/tompston/gomakeme) - Generate boilerplate + endpoints for Fiber or Gin REST APIs.
 
 ### 📖 Articles / 🌱 Third Party

@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 10, 2019
 
-13 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -49,24 +49,18 @@
 
 *   [PPLM (⭐1.1k)](https://github.com/uber-research/PPLM) - Plug and Play Language Model implementation. Allows to steer topic and attributes of GPT-2 models.
 
-## [7. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
-
-### Entertainment / Social Media
-
-*   [tuir](https://gitlab.com/ajak/tuir) - Reddit TUI.
-
-## [8. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
+## [7. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / Shopping
 
-*   [Rapidinho (⭐195)](https://github.com/gdgluanda/rapidinho) - Unofficial delivery app for Rapidinho made by [GDG Luanda
+*   [Rapidinho (⭐199)](https://github.com/gdgluanda/rapidinho) - Unofficial delivery app for Rapidinho made by [GDG Luanda
     ](https://github.com/gdgluanda).
 
-## [9. Awesome Ios](/content/vsouza/awesome-ios/README.md)
+## [8. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Apple TV
 
-*   [Swift-GA-Tracker-for-Apple-tvOS (⭐81)](https://github.com/adswerve/Swift-GA-Tracker-for-Apple-tvOS) - Google Analytics tracker for Apple tvOS provides an easy integration of Google Analytics’ measurement protocol for Apple TV.
+*   [Swift-GA-Tracker-for-Apple-tvOS (⭐82)](https://github.com/adswerve/Swift-GA-Tracker-for-Apple-tvOS) - Google Analytics tracker for Apple tvOS provides an easy integration of Google Analytics’ measurement protocol for Apple TV.
 
 ### Layout
 
@@ -78,11 +72,11 @@
 
 ### Permissions
 
-*   [SPPermissions (⭐5.6k)](https://github.com/ivanvorobei/SPPermissions) - Ask permissions on Swift. Available List, Dialog & Native interface. Can check state permission.
+*   [SPPermissions (⭐5.7k)](https://github.com/ivanvorobei/SPPermissions) - Ask permissions on Swift. Available List, Dialog & Native interface. Can check state permission.
 
 ### UI
 
-*   [DrawerKit (⭐781)](https://github.com/babylonhealth/DrawerKit) - DrawerKit lets an UIViewController modally present another UIViewController in a manner similar to the way Apple's Maps app works.
+*   [DrawerKit (⭐783)](https://github.com/babylonhealth/DrawerKit) - DrawerKit lets an UIViewController modally present another UIViewController in a manner similar to the way Apple's Maps app works.
 
 ### Pull to Refresh
 
@@ -92,7 +86,7 @@
 
 *   [Swift Tutorials by Jameson Quave](https://jamesonquave.com/blog/tutorials/)
 
-## [10. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md)
+## [9. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md)
 
 ### Read
 
@@ -107,7 +101,7 @@
 *   [@lopp / Bitcoin Developers](https://twitter.com/lopp/lists/bitcoin-developers) - Software developers who have experience working on Bitcoin implementations or applications.
 *   [A brief history of Bitcoin development...](https://www.youtube.com/watch?v=ZfFNce6CVsE)
 
-## [11. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [10. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Data Formats
 
@@ -115,15 +109,15 @@
 
 ### Science and Data analysis
 
-*   [num.cr (⭐148)](https://github.com/crystal-data/num.cr) - Numerical computing library supporting N-Dimensional data
+*   [num.cr (⭐152)](https://github.com/crystal-data/num.cr) - Numerical computing library supporting N-Dimensional data
 
-## [12. Awesome Actions](/content/sdras/awesome-actions/README.md)
+## [11. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
 ### Notifications and Messages / Code Coverage
 
 *   [Create an Outlook Calendar Event using Microsoft Graph (⭐10)](https://github.com/anoopt/ms-graph-create-event)
 
-## [13. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/README.md)
+## [12. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/README.md)
 
 ### Blog posts and opinions
 

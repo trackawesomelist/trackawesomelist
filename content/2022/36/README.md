@@ -16,24 +16,24 @@
 
 ### Premium / Game Engine resources
 
-*   [RustDesk (⭐68k)](https://github.com/rustdesk/rustdesk) <!--stargazers:rustdesk/rustdesk--> - Open source virtual/remote desktop and TeamViewer alternative. Built with Flutter and Rust by [RustDesk team](https://www.rustdesk.com/).
-*   [AppFlowy (⭐50k)](https://github.com/AppFlowy-IO/appflowy) <!--stargazers:AppFlowy-IO/appflowy--> - Open Source Notion Alternative. You are in charge of your data and customizations. Built with Flutter and Rust by [AppFlowy team](https://www.appflowy.io/)
+*   [RustDesk (⭐77k)](https://github.com/rustdesk/rustdesk) <!--stargazers:rustdesk/rustdesk--> - Open source virtual/remote desktop and TeamViewer alternative. Built with Flutter and Rust by [RustDesk team](https://www.rustdesk.com/).
+*   [AppFlowy (⭐58k)](https://github.com/AppFlowy-IO/appflowy) <!--stargazers:AppFlowy-IO/appflowy--> - Open Source Notion Alternative. You are in charge of your data and customizations. Built with Flutter and Rust by [AppFlowy team](https://www.appflowy.io/)
 
 ### Utilities / Game Engine resources
 
-*   [Melos (⭐1.1k)](https://github.com/invertase/melos) <!--stargazers:invertase/melos--> - Manage projects with multiple packages, automated versioning, changelogs & publishing via Conventional Commits by [Invertase](https://github.com/invertase)
+*   [Melos (⭐1.2k)](https://github.com/invertase/melos) <!--stargazers:invertase/melos--> - Manage projects with multiple packages, automated versioning, changelogs & publishing via Conventional Commits by [Invertase](https://github.com/invertase)
 
 ## [3. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
 
 ### Terminal / CLI tools
 
-*   [dcp (⭐105)](https://github.com/exdx/dcp) - A simple tool for copying files from container filesystems. By [@exdx](https://github.com/exdx)
+*   [dcp (⭐109)](https://github.com/exdx/dcp) - A simple tool for copying files from container filesystems. By [@exdx](https://github.com/exdx)
 
 ## [4. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Projects
 
-*   [surfer (⭐55)](https://github.com/zzy/surfer) - A blog built on yew + graphql, with [live demo site](https://niqin.com). Backend for graphql services, and frontend for web application.
+*   [surfer (⭐53)](https://github.com/zzy/surfer) - A blog built on yew + graphql, with [live demo site](https://niqin.com). Backend for graphql services, and frontend for web application.
 
 ## [5. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/week/README.md)
 
@@ -46,7 +46,7 @@
 *   [Madhu Sudan. Essential Coding Theory](http://people.seas.harvard.edu/~madhusudan/courses/Spring2020/) - Some elements of Algorithmic tasks of encoding and decoding and its connections with error-correction; These codes are now tools in the design and analysis of algorithms, and also in many aspects of computational complexity. The focus is on constructions of algorithmic and asymptotic importance. Requires only basic mathematical maturity.
 *   Scott Aaronson. Quantum Information Science. [Part I](https://www.scottaaronson.com/qclec.pdf) & [Part II](https://www.scottaaronson.com/qisii.pdf) - Part I: Presuppose only linear algebra and a bit of classical algorithms. Topics include quantum circuits, density matrices, entanglement entropy, Wiesner’s quantum money, QKD, quantum teleportation, the Bell inequality, interpretations of QM, the Shor 9-qubit code, and the algorithms of Deutsch-Jozsa, Bernstein-Vazirani, Simon, Shor, and Grover. Part II: Perspectives on quantum computing that go beyond the bare quantum circuit model, like Hamiltonians, Stabilizer formalism, Bosons and Fermions, Cluster states, and Matrix product states.
 
-### Blogs Aggregators / Monograph
+### Aggregators / Lecture Videos Playlist
 
 *   [Theory of Computing Blog Aggregator](https://theory.report/) - A blog Aggregator for all blogs related to TCS.
 
@@ -54,7 +54,7 @@
 
 ### AppImage developer tools / Tools to convert from other package formats
 
-*   [appimage-bash (⭐0)](https://github.com/valicm/appimage-bash) - GitHub Action for creating AppImage releases from binaries inside `.tar.gz` archives.
+*   [appimage-bash (⭐1)](https://github.com/valicm/appimage-bash) - GitHub Action for creating AppImage releases from binaries inside `.tar.gz` archives.
 
 ## [7. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
 
@@ -66,7 +66,7 @@
 
 ### Zig development tools / Messaging
 
-*   [korandoru/setup-zig (⭐18)](https://github.com/korandoru/setup-zig) - Set up a specific version of Zig environment on GitHub Actions.
+*   [korandoru/setup-zig (⭐20)](https://github.com/korandoru/setup-zig) - Set up a specific version of Zig environment on GitHub Actions.
 
 ## [9. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
@@ -74,26 +74,26 @@
 
 *   [grep.app](https://grep.app/) - Searches code from the entire github public repositories for a given specific string or using regular expression.
 
-### Username Check / Telegram
+### Username Check / Steam
 
 *   [Name Checkup](https://namecheckup.com) - is a search tool that allows you to check the avilability of a givrn username from all over the social media. Inaddition it also sllows you to check the avilability of a given domain name.
 
-### Domain and IP Research / Telegram
+### Domain and IP Research / Steam
 
 *   [BuiltWith](http://builtwith.com) - is a website that will help you find out all the technologies used to build a particular websites.
 *   [DNS History](https://completedns.com/dns-history/)
 *   [DNSDumpster](https://dnsdumpster.com) - is a website that will help you discover hosts related to a specific domain.
 
-### Browsers / Telegram
+### Browsers / Steam
 
 *   [Brave](https://brave.com) - is an open-source web browser that allows you to completely block ads and website trackers.
 
-### Infographics and Data Visualization / Telegram
+### Infographics and Data Visualization / Steam
 
 *   [Chart.js](http://www.chartjs.org) - a javascript library that allows you to create charts easly
 *   [D3js](https://d3js.org) - is a powerful data visualization javascript library.
 
-### Social Network Analysis / Telegram
+### Social Network Analysis / Steam
 
 *   [Gephi](https://gephi.org) - is an open-source graph and network visualization software.
 
@@ -111,7 +111,7 @@
 
 ### Compression
 
-*   [bzip3 (⭐671)](https://github.com/kspalaiologos/bzip3) - A better and stronger spiritual successor to BZip2. \[LGPL]
+*   [bzip3 (⭐713)](https://github.com/kspalaiologos/bzip3) - A better and stronger spiritual successor to BZip2. \[LGPL]
 
 ## [12. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
@@ -124,20 +124,20 @@
 
 ### Software / Communication - Social Networks and Forums
 
-*   [Zusam (⭐181)](https://github.com/zusam/zusam) - Free and open-source way to self-host private forums for groups of friends or family. ([Demo](https://demo.zusam.org)) `AGPL-3.0` `PHP`
+*   [Zusam (⭐192)](https://github.com/zusam/zusam) - Free and open-source way to self-host private forums for groups of friends or family. ([Demo](https://demo.zusam.org)) `AGPL-3.0` `PHP`
 
 ### Software / Document Management - Institutional Repository and Digital Library Software
 
-*   [Fedora Commons Repository](https://wiki.lyrasis.org/display/FF/Fedora+Repository+Home) - Robust and modular repository system for the management and dissemination of digital content especially suited for digital libraries and archives, both for access and preservation. ([Source Code (⭐206)](https://github.com/fcrepo/fcrepo)) `Apache-2.0` `Java`
-*   [Islandora](https://www.islandora.ca/) - Drupal module for browsing and managing Fedora-based digital repositories. ([Demo](https://sandbox.islandora.ca/), [Source Code (⭐154)](https://github.com/Islandora/islandora)) `GPL-3.0` `PHP`
+*   [Fedora Commons Repository](https://wiki.lyrasis.org/display/FF/Fedora+Repository+Home) - Robust and modular repository system for the management and dissemination of digital content especially suited for digital libraries and archives, both for access and preservation. ([Source Code (⭐211)](https://github.com/fcrepo/fcrepo)) `Apache-2.0` `Java`
+*   [Islandora](https://www.islandora.ca/) - Drupal module for browsing and managing Fedora-based digital repositories. ([Demo](https://sandbox.islandora.ca/), [Source Code (⭐152)](https://github.com/Islandora/islandora)) `GPL-3.0` `PHP`
 
 ### Software / File Transfer & Synchronization
 
-*   [Nextcloud](https://nextcloud.com/) - Access and share your files, calendars, contacts, mail and [more](https://apps.nextcloud.com/) from any device, on your terms. ([Demo](https://try.nextcloud.com/), [Source Code (⭐26k)](https://github.com/nextcloud/server)) `AGPL-3.0` `PHP/deb`
+*   [Nextcloud](https://nextcloud.com/) - Access and share your files, calendars, contacts, mail and [more](https://apps.nextcloud.com/) from any device, on your terms. ([Demo](https://try.nextcloud.com/), [Source Code (⭐28k)](https://github.com/nextcloud/server)) `AGPL-3.0` `PHP/deb`
 
 ### Software / File Transfer - Object Storage & File Servers
 
-*   [Minio](https://min.io/) - Minio is an open source object storage server compatible with Amazon S3 APIs. ([Source Code (⭐46k)](https://github.com/minio/minio)) `AGPL-3.0` `Go/Docker/K8S`
+*   [Minio](https://min.io/) - Minio is an open source object storage server compatible with Amazon S3 APIs. ([Source Code (⭐50k)](https://github.com/minio/minio)) `AGPL-3.0` `Go/Docker/K8S`
 
 ### Software / Groupware
 
@@ -145,7 +145,7 @@
 
 ### Software / Learning and Courses
 
-*   [Canvas LMS](https://www.instructure.com/canvas/) - Canvas is the trusted, open-source learning management system (LMS) that is revolutionizing the way we educate. ([Demo](https://canvas.instructure.com/register), [Source Code (⭐5.5k)](https://github.com/instructure/canvas-lms)) `AGPL-3.0` `Ruby`
+*   [Canvas LMS](https://www.instructure.com/canvas/) - Canvas is the trusted, open-source learning management system (LMS) that is revolutionizing the way we educate. ([Demo](https://canvas.instructure.com/register), [Source Code (⭐5.8k)](https://github.com/instructure/canvas-lms)) `AGPL-3.0` `Ruby`
 
 ### Software / URL Shorteners
 
@@ -161,35 +161,35 @@
 
 *   [Boreas Dataset](https://www.boreas.utias.utoronto.ca/) - The Boreas dataset was collected by driving a repeated route over the course of 1 year resulting in stark seasonal variations. In total, Boreas contains over 350km of driving data including several sequences with adverse weather conditions such as rain and heavy snow. The Boreas data-taking platform features a unique high-quality sensor suite with a 128-channel Velodyne Alpha Prime lidar, a 360-degree Navtech radar, and accurate ground truth poses obtained from an Applanix POSLV GPS/IMU.
     *   [Paper 📰](https://arxiv.org/abs/2203.10168)
-    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐88)](https://github.com/utiasASRL/pyboreas)
+    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐95)](https://github.com/utiasASRL/pyboreas)
 
 ## [15. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
 ### Command-Line Tools / Discovery
 
-*   [nixpkgs-hammering (⭐244)](https://github.com/jtojnar/nixpkgs-hammering) - An opinionated linter for Nixpkgs package expressions.
+*   [nixpkgs-hammering (⭐255)](https://github.com/jtojnar/nixpkgs-hammering) - An opinionated linter for Nixpkgs package expressions.
 
 ## [16. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
 
 ### Table of Contents / Streaming Library
 
-*   [Streamiz (⭐458)](https://github.com/LGouellec/kafka-streams-dotnet) \[C#] - a .Net Stream Processing Library for Apache Kafka
+*   [Streamiz (⭐477)](https://github.com/LGouellec/kafka-streams-dotnet) \[C#] - a .Net Stream Processing Library for Apache Kafka
 
 ## [17. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Command Line Applications
 
-*   [owl (⭐417)](https://github.com/fuelen/owl) - Owl is a toolkit for writing command-line user interfaces in Elixir.
+*   [owl (⭐446)](https://github.com/fuelen/owl) - Owl is a toolkit for writing command-line user interfaces in Elixir.
 
 ### Macros
 
-*   [matcha (⭐88)](https://github.com/christhekeele/matcha) - First-class match specifications for Elixir `:ets` querying and function call tracing.
+*   [matcha (⭐90)](https://github.com/christhekeele/matcha) - First-class match specifications for Elixir `:ets` querying and function call tracing.
 
 ## [18. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
 
-### Routers / Checkbox
+### Routers / Form Components
 
-*   [@danielsharkov/svelte-router (⭐12)](https://github.com/DanielSharkov/svelte-router) - A simple & easy to use SPA router, developed with page transitions in mind.
+*   [@danielsharkov/svelte-router (⭐13)](https://github.com/DanielSharkov/svelte-router) - A simple & easy to use SPA router, developed with page transitions in mind.
 
 ## [19. Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/week/README.md)
 
@@ -201,28 +201,28 @@
 
 ### Articles / Other external resources
 
-*   [Implement SSR with React + Rails (⭐88)](https://github.com/shakacode/react_on_rails_demo_ssr_hmr)
+*   [Implement SSR with React + Rails (⭐89)](https://github.com/shakacode/react_on_rails_demo_ssr_hmr)
 
 ### Open Source Rails Apps / Other external resources
 
-*   [alonetone (⭐348)](https://github.com/sudara/alonetone) - A music hosting, management & distribution app (using Rails 7.0). - [:earth\_africa:](https://alonetone.com)
+*   [alonetone (⭐353)](https://github.com/sudara/alonetone) - A music hosting, management & distribution app (using Rails 7.0). - [:earth\_africa:](https://alonetone.com)
 
 ### Gems / Other external resources
 
 *   [react\_on\_rails (⭐5.1k)](https://github.com/shakacode/react_on_rails) - A gem to integrate React.js with Rails app with SSR. [:red\_circle:](https://rubygems.org/gems/react_on_rails)
-*   [shakapacker (⭐410)](https://github.com/shakacode/shakapacker) - A gem to use webpack to manage app-like JavaScript modules in Rails. [:red\_circle:](https://rubygems.org/gems/shakapacker)
+*   [shakapacker (⭐429)](https://github.com/shakacode/shakapacker) - A gem to use webpack to manage app-like JavaScript modules in Rails. [:red\_circle:](https://rubygems.org/gems/shakapacker)
 
 ## [21. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
 ### Animation, Graphics & Video Playout
 
-*   [ffplayout (⭐442)](https://github.com/ffplayout/ffplayout) - Rust and FFmpeg based playout from folder or playlists.
+*   [ffplayout (⭐490)](https://github.com/ffplayout/ffplayout) - Rust and FFmpeg based playout from folder or playlists.
 
 ## [22. Magictools](/content/ellisonleao/magictools/week/README.md)
 
 ### Engines and Frameworks / Voxel Editors
 
-*   :tada: [JNGL (⭐238)](https://github.com/jhasse/jngl) - a 2D open-source game engine. Develop on Linux, Windows, OS X. Deploy to Nintendo Switch, Xbox, Linux, Windows, OS X, Web, Android, iOS and more.
+*   :tada: [JNGL (⭐273)](https://github.com/jhasse/jngl) - a 2D open-source game engine. Develop on Linux, Windows, OS X. Deploy to Nintendo Switch, Xbox, Linux, Windows, OS X, Web, Android, iOS and more.
 *   :free: [SceneKit](https://developer.apple.com/documentation/scenekit) - Apple proprietary 3D game engine (available on macOS, iOS, iPadOS, tvOS and watchOS).
 *   :free: [SpriteKit](https://developer.apple.com/documentation/spritekit) - Apple proprietary 2D game engine (available on macOS, iOS, iPadOS, tvOS and watchOS).
 
@@ -236,23 +236,23 @@
 
 ### Image Processing
 
-*   [Real-ESRGAN (⭐27k)](https://github.com/xinntao/Real-ESRGAN) - Practical Algorithms for General Image/Video Restoration. \[English/中文]
+*   [Real-ESRGAN (⭐29k)](https://github.com/xinntao/Real-ESRGAN) - Practical Algorithms for General Image/Video Restoration. \[English/中文]
 
 ### Uncategorized
 
-*   [Hime Display (⭐184)](https://github.com/TSKI433/hime-display) - Universal desktop model displayer for Live2D, Spine, MMD and VRoid. \[English/中文/日本語]
+*   [Hime Display (⭐190)](https://github.com/TSKI433/hime-display) - Universal desktop model displayer for Live2D, Spine, MMD and VRoid. \[English/中文/日本語]
 
 ## [25. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Files and directories / Third-party APIs
 
-*   [file-notify (⭐25)](https://github.com/shinmera/file-notify) - a cross-platform library for file change detection. [zlib](https://directory.fsf.org/wiki/License:Zlib).
+*   [file-notify (⭐28)](https://github.com/shinmera/file-notify) - a cross-platform library for file change detection. [zlib](https://directory.fsf.org/wiki/License:Zlib).
 
 ## [26. Awesome Flask](/content/mjhea0/awesome-flask/week/README.md)
 
 ### Data Validation and Serialization / OAuth
 
-*   [Flask-Pydantic (⭐337)](https://github.com/bauerji/flask-pydantic) - [Pydantic (⭐19k)](https://github.com/pydantic/pydantic) support.
+*   [Flask-Pydantic (⭐372)](https://github.com/bauerji/flask-pydantic) - [Pydantic (⭐22k)](https://github.com/pydantic/pydantic) support.
 
 ### Developer Tools / Monitoring
 
@@ -266,7 +266,7 @@
 
 ### Best Practices / Other Tools
 
-*   [FastAPI Best Practices (⭐8.2k)](https://github.com/zhanymkanov/fastapi-best-practices) - Collection of best practices in a GitHub repo.
+*   [FastAPI Best Practices (⭐9.9k)](https://github.com/zhanymkanov/fastapi-best-practices) - Collection of best practices in a GitHub repo.
 
 ### PaaS / Other Tools
 
@@ -315,18 +315,18 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [command-not-found (freed-wu) (⭐5)](https://github.com/Freed-Wu/zsh-command-not-found) - Uses the command-not-found package for ZSH to provide suggested packages to be installed if a command cannot be found.
-*   [command-not-found (tarrasch) (⭐22)](https://github.com/Tarrasch/zsh-command-not-found) - A mirror of the [oh-my-zsh](https://ohmyz.sh) [command-not-found (⭐172k)](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/command-not-found) plugin so you don't have to include all of oh-my-zsh.
+*   [command-not-found (freed-wu) (⭐6)](https://github.com/Freed-Wu/zsh-command-not-found) - Uses the `command-not-found` package for ZSH to provide suggested packages to be installed if a command cannot be found.
+*   [command-not-found (tarrasch) (⭐22)](https://github.com/Tarrasch/zsh-command-not-found) - A mirror of the [oh-my-zsh](https://ohmyz.sh) [command-not-found (⭐175k)](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/command-not-found) plugin so you don't have to include all of oh-my-zsh.
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [complete-mac (⭐5)](https://github.com/vitkabele/complete-mac) - Add completions for macOS `ioreg`, `lsmp`, `scselect`, `system_profiler` and `tmutil` commands.
-*   [pagerduty (⭐0)](https://github.com/jedelson-pagerduty/pagerduty-omz-plugin) - Adds completions for the pagerduty [cli (⭐90)](https://github.com/martindstone/pagerduty-cli)
+*   [complete-mac (⭐6)](https://github.com/vitkabele/complete-mac) - Add completions for macOS `ioreg`, `lsmp`, `scselect`, `system_profiler` and `tmutil` commands.
+*   [pagerduty (⭐0)](https://github.com/jedelson-pagerduty/pagerduty-omz-plugin) - Adds completions for the pagerduty [cli (⭐92)](https://github.com/martindstone/pagerduty-cli)
 *   [prettier (⭐0)](https://github.com/sambergo/zsh-prettier-completion/) - Tab completion for [prettier](https://prettier.io/.)
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [thyme (chenhao-ye) (⭐22)](https://github.com/chenhao-ye/thyme) - Seasoning for shells. Based on [bira (⭐172k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/bira.zsh-theme), [gnzh (⭐172k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/gnzh.zsh-theme), and [bullet-train (⭐2.8k)](https://github.com/caiogondim/bullet-train.zsh/blob/master/bullet-train.zsh-theme).
+*   [thyme (chenhao-ye) (⭐22)](https://github.com/chenhao-ye/thyme) - Seasoning for shells. Based on [bira (⭐175k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/bira.zsh-theme), [gnzh (⭐175k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/gnzh.zsh-theme), and [bullet-train (⭐2.8k)](https://github.com/caiogondim/bullet-train.zsh/blob/master/bullet-train.zsh-theme).
 
 ## [34. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -342,27 +342,23 @@
 
 *   [okso.app](https://okso.app) - Minimalistic online drawing app. Allows to create fast sketches and visual notes. Exports sketches to PNG, JPG, SVG, and WEBP. Also installable as PWA. Free to use for everyone (no registration is needed).
 
-## [35. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [35. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
-### Bloggers / Book Deals (Affiliated) 🛍
+### Components & Libraries / UI Components
+
+*   [vue-share-modal (⭐11)](https://github.com/sttatusx/vue-share-modal) - A pure, lightweight, and beautiful share modal for Vue 3.
+
+## [36. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+
+### Bloggers / Book Deals (Affiliated)
 
 *   [Aditi Rastogi](https://medium.com/@aditi2507rastogi) - ML,DL,Data Science blog
 
-## [36. Awesome Steam](/content/scholtzm/awesome-steam/week/README.md)
+## [37. Awesome Steam](/content/scholtzm/awesome-steam/week/README.md)
 
 ### Standalone Tools / Misc
 
 *   [steam-desktop-authenticator-multiplatform (⭐10)](https://github.com/tre3p/steam-desktop-authenticator-multiplatform) - Steam desktop authenticator.
-
-## [37. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
-
-### Components & Libraries / UI Components
-
-*   [vue-share-modal (⭐10)](https://github.com/sttatusx/vue-share-modal) - A pure, lightweight, and beautiful share modal for Vue 3.
-
-### Components & Libraries / Runtime
-
-*   [temir (⭐1k)](https://github.com/webfansplz/temir) - Vue for interactive command-line apps
 
 ## [38. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
@@ -379,7 +375,7 @@
 
 ### Formatting / Diagnostics
 
-*   [MunifTanjim/prettier.nvim (⭐281)](https://github.com/MunifTanjim/prettier.nvim) - Prettier integration.
+*   [MunifTanjim/prettier.nvim (⭐293)](https://github.com/MunifTanjim/prettier.nvim) - Prettier integration.
 
 ## [40. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
 
@@ -395,7 +391,7 @@
 
 ### Database Schema Migration
 
-*   [bytebase (⭐11k)](https://github.com/bytebase/bytebase) - Safe database schema change and version control for DevOps teams.
+*   [bytebase (⭐12k)](https://github.com/bytebase/bytebase) - Safe database schema change and version control for DevOps teams.
 
 ## [42. Awesome Ci](/content/ligurio/awesome-ci/week/README.md)
 
@@ -425,7 +421,7 @@
 
 ### TensorFlow / General-Purpose Machine Learning
 
-*   [Awesome Keras (⭐21)](https://github.com/markusschanta/awesome-keras) - A curated list of awesome Keras projects, libraries and resources.
+*   [Awesome Keras (⭐22)](https://github.com/markusschanta/awesome-keras) - A curated list of awesome Keras projects, libraries and resources.
 
 ### Tools / Misc
 
@@ -450,11 +446,11 @@
 
 ### Other
 
-*   🔧 [Mirthix (⭐13)](https://github.com/cboyer/mirth-zabbix) - Zabbix protocol implementation for Mirth Connect integration engine.
+*   🔧 [Mirthix (⭐14)](https://github.com/cboyer/mirth-zabbix) - Zabbix protocol implementation for Mirth Connect integration engine.
 
 ### Follow / Community
 
-*   📖 [Discussion Forum (⭐847)](https://github.com/nextgenhealthcare/connect/discussions) - Official Forum for Mirth Connect.
+*   📖 [Discussion Forum (⭐955)](https://github.com/nextgenhealthcare/connect/discussions) - Official Forum for Mirth Connect.
 
 ## [47. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
@@ -478,19 +474,19 @@
 
 ### Third-Party Packages / Admin
 
-*   [django-admin-sortable2 (⭐730)](https://github.com/jrief/django-admin-sortable2) - Generic drag-and-drop ordering for objects in the Django admin interface.
+*   [django-admin-sortable2 (⭐793)](https://github.com/jrief/django-admin-sortable2) - Generic drag-and-drop ordering for objects in the Django admin interface.
 
 ### Third-Party Packages / Forms
 
-*   [django-bleach (⭐146)](https://github.com/marksweb/django-bleach/) - Integrate bleach into forms and models. See `django-nh3` as an alternative.
+*   [django-bleach (⭐149)](https://github.com/marksweb/django-bleach/) - Integrate bleach into forms and models. See `django-nh3` as an alternative.
 
 ### Third-Party Packages / Model Fields
 
-*   [django-streamfield (⭐124)](https://github.com/raagin/django-streamfield) - Simple StreamField for plain Django admin (based on Wagtail CMS StreamField idea).
+*   [django-streamfield (⭐126)](https://github.com/raagin/django-streamfield) - Simple StreamField for plain Django admin (based on Wagtail CMS StreamField idea).
 
 ### Third-Party Packages / Task Queues
 
-*   [flower (⭐6.4k)](https://github.com/mher/flower) - Flower is a web-based tool for monitoring and administrating Celery clusters.
+*   [flower (⭐6.6k)](https://github.com/mher/flower) - Flower is a web-based tool for monitoring and administrating Celery clusters.
 
 ---
 

@@ -10,7 +10,7 @@
 
 ### Examples and funny stuff
 
-*   [lolcat (⭐6)](https://github.com/restartr/ex-lolcat) - This is the clone of busyloop/lolcat. But it does not support animation and some features of the original.
+*   [lolcat (⭐7)](https://github.com/restartr/ex-lolcat) - This is the clone of busyloop/lolcat. But it does not support animation and some features of the original.
 
 ### Natural Language Processing (NLP)
 
@@ -88,7 +88,7 @@
 
 ### Forms / Paid Books
 
-*   [Payform (⭐418)](https://github.com/jondavidjohn/payform) - A library (with jQuery plugin) for building credit card forms, validating inputs, and formatting numbers.
+*   [Payform (⭐427)](https://github.com/jondavidjohn/payform) - A library (with jQuery plugin) for building credit card forms, validating inputs, and formatting numbers.
 *   [Pickadate (⭐7.7k)](https://github.com/amsul/pickadate.js) - The mobile-friendly, responsive, and lightweight date & time input picker.
 
 ### Images, Maps and Charts / Paid Books

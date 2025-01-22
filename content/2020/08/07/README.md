@@ -44,11 +44,11 @@
 
 ### Driver crates / Other
 
-*   [Adafruit-7segment](https://crates.io/crates/adafruit-7segment) - I2C - Driver for Adafruit 7-segment LED Numeric Backpack based on the ht16k33 chip - [github (⭐2)](https://github.com/kallemooo/adafruit-7segment) - ![crates.io](https://img.shields.io/crates/v/adafruit-7segment.svg)
+*   [Adafruit-7segment](https://crates.io/crates/adafruit-7segment) - I2C - Driver for Adafruit 7-segment LED Numeric Backpack based on the ht16k33 chip - [github (⭐2)](https://github.com/kallemooo/adafruit-7segment) - [![crates.io](https://img.shields.io/crates/v/adafruit-7segment.svg)](https://crates.io/crates/adafruit-7segment)
 
 ### Driver crates / WIP
 
-*   [epd-waveshare](https://crates.io/crates/epd-waveshare) - SPI - driver for E-Paper Modules from Waveshare ![crates.io](https://img.shields.io/crates/v/epd-waveshare.svg)
+*   [epd-waveshare](https://crates.io/crates/epd-waveshare) - SPI - driver for E-Paper Modules from Waveshare [![crates.io](https://img.shields.io/crates/v/epd-waveshare.svg)](https://crates.io/crates/epd-waveshare)
 
 ## [6. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
@@ -60,14 +60,14 @@
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [Prisma (⭐38k)](https://github.com/prisma/prisma) - Modern database access (ORM alternative) for Node.js & TypeScript | PostgreSQL, MySQL & SQLite
-    *   :octocat: [prisma-markdown (⭐336)](https://github.com/samchon/prisma-markdown): Generates markdown document composed with ERD diagrams and their descriptions.
+*   :octocat: [Prisma (⭐40k)](https://github.com/prisma/prisma) - Modern database access (ORM alternative) for Node.js & TypeScript | PostgreSQL, MySQL & SQLite
+    *   :octocat: [prisma-markdown (⭐467)](https://github.com/samchon/prisma-markdown): Generates markdown document composed with ERD diagrams and their descriptions.
 
 ## [8. Awesome Icons](/content/notlmn/awesome-icons/README.md)
 
 ### Logos
 
-*   [Devicon (⭐9.6k)](https://github.com/devicons/devicon#readme) - Aims to gather all logos representing development languages and tools. ([Website](https://devicons.github.io/devicon))
+*   [Devicon (⭐9.9k)](https://github.com/devicons/devicon#readme) - Aims to gather all logos representing development languages and tools. ([Website](https://devicons.github.io/devicon))
 
 ## [9. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 

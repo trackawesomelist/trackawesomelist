@@ -10,7 +10,7 @@
 
 ### Marks / Diagnostics
 
-*   [otavioschwanck/arrow.nvim (⭐442)](https://github.com/otavioschwanck/arrow.nvim) - Like harpoon, but with a different UX, single keybinding needed and statusline support.
+*   [otavioschwanck/arrow.nvim (⭐580)](https://github.com/otavioschwanck/arrow.nvim) - Like harpoon, but with a different UX, single keybinding needed and statusline support.
 
 ## [2. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
@@ -20,7 +20,7 @@
 
 ### Backend-as-a-Service
 
-*   [Appwrite](https://appwrite.io/) - End-to-end backend server for frontend and mobile developers. [![Appwrite](https://img.shields.io/github/stars/appwrite/appwrite?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/appwrite/appwrite)
+*   [Appwrite](https://appwrite.io/) - End-to-end backend server for frontend and mobile developers. [![Appwrite](https://img.shields.io/github/stars/appwrite/appwrite?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/appwrite/appwrite) [![featured on launchweek.dev](https://img.shields.io/badge/featured-0D1117.svg?style=flat-square\&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMzYwIiBoZWlnaHQ9IjM2MCIgdmlld0JveD0iMCAwIDM2MCAzNjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+IDxyZWN0IHdpZHRoPSI2MCIgaGVpZ2h0PSIzMDAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjYwIiB5PSIzMDAiIHdpZHRoPSIxMjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjI0MCIgeT0iMzAwIiB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjMwMCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjMwMCIgZmlsbD0id2hpdGUiLz4gPHJlY3QgeD0iMTgwIiB3aWR0aD0iNjAiIGhlaWdodD0iMzAwIiBmaWxsPSJ3aGl0ZSIvPiA8L3N2Zz4=)](https://launchweek.dev)
 
 ## [3. Awesome Capacitorjs](/content/capawesome-team/awesome-capacitorjs/README.md)
 
@@ -55,17 +55,17 @@
 
 ### Third-Party Packages / APIs
 
-*   [django-webhook (⭐177)](https://github.com/danihodovic/django-webhook) - A plug-and-play Django app for sending outgoing webhooks on model changes.
+*   [django-webhook (⭐201)](https://github.com/danihodovic/django-webhook) - A plug-and-play Django app for sending outgoing webhooks on model changes.
 
 ### Hosting / PaaS (Platforms-as-a-Service)
 
-*   [Piku (⭐5.7k)](https://github.com/piku/piku)
+*   [Piku (⭐5.9k)](https://github.com/piku/piku)
 
 ## [6. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
 ### Tools
 
-*   [PiKISS (⭐872)](https://github.com/jmcerrejon/PiKISS) - A bunch of scripts with menu to make your life easier.
+*   [PiKISS (⭐887)](https://github.com/jmcerrejon/PiKISS) - A bunch of scripts with menu to make your life easier.
 
 ## [7. Awesome Video](/content/krzemienski/awesome-video/README.md)
 
@@ -75,11 +75,11 @@
 
 ### Encoding / Talks Presentations Podcasts
 
-*   [realeyes-media/demo-encoder (⭐56)](https://github.com/realeyes-media/demo-encoder)  - A nodejs encoding system based on ffmpeg and configured to write HLS streaming files to S3 - realeyes-media/demo-encoder
+*   [realeyes-media/demo-encoder (⭐57)](https://github.com/realeyes-media/demo-encoder)  - A nodejs encoding system based on ffmpeg and configured to write HLS streaming files to S3 - realeyes-media/demo-encoder
 
 ### Streaming Server and Storage / SRT
 
-*   [prologic/tube (⭐22)](https://github.com/prologic/tube)  - 📺 a Youtube-like (without censorship and features you don't need!) Video Sharing App written in Go which also supports automatic transcoding to MP4 H.265 AAC, multiple collections and R...
+*   [prologic/tube (⭐23)](https://github.com/prologic/tube)  - 📺 a Youtube-like (without censorship and features you don't need!) Video Sharing App written in Go which also supports automatic transcoding to MP4 H.265 AAC, multiple collections and R...
 
 ### Players / Android
 

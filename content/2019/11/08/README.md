@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 08, 2019
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -37,39 +37,33 @@
 
 *   [The Embedded Rust Book](https://rust-embedded.github.io/book/) - An introductory book about using the Rust Programming Language on "Bare Metal" embedded systems, such as Microcontrollers.
 
-## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Projects Using Vue.js / Open Source
-
-*   [Zeithub (⭐65)](https://github.com/m0g/zeithub) - Open source time tracking, invoicing & expenses management for freelancers
-
-## [7. Awesome Phalcon](/content/phalcon/awesome-phalcon/README.md)
+## [6. Awesome Phalcon](/content/phalcon/awesome-phalcon/README.md)
 
 ### Shop & Ecommerce
 
 *   [Shopping Cart (⭐4)](https://github.com/sinbadxiii/phalcon-cart) - Simple cart for online store
 
-## [8. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [7. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Math
 
-*   [CNL (⭐634)](https://github.com/johnmcfarlane/cnl/) - A Compositional Numeric Library for C++. \[Boost]
+*   [CNL (⭐647)](https://github.com/johnmcfarlane/cnl/) - A Compositional Numeric Library for C++. \[Boost]
 
-## [9. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
+## [8. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
 ### Monitoring/Statistics/Perfomance / Zabbix
 
-*   [pg\_monz (⭐163)](https://github.com/pg-monz/pg_monz) - This is the Zabbix monitoring template for PostgreSQL Database.
+*   [pg\_monz (⭐164)](https://github.com/pg-monz/pg_monz) - This is the Zabbix monitoring template for PostgreSQL Database.
 
-## [10. Awesome Java](/content/akullpp/awesome-java/README.md)
+## [9. Awesome Java](/content/akullpp/awesome-java/README.md)
 
 ### Bean Mapping
 
-*   [reMap (⭐117)](https://github.com/remondis-it/remap) - Lambda and method handle-based mapping which requires code and not annotations if objects have different names.
+*   [reMap (⭐122)](https://github.com/remondis-it/remap) - Lambda and method handle-based mapping which requires code and not annotations if objects have different names.
 
 ### Bytecode Manipulation
 
-*   [Perses (⭐65)](https://github.com/nicolasmanic/perses) - Dynamically injects failure/latency at the bytecode level according to principles of chaos engineering.
+*   [Perses (⭐66)](https://github.com/nicolasmanic/perses) - Dynamically injects failure/latency at the bytecode level according to principles of chaos engineering.
 
 ### Database / Text-Based User Interfaces
 
@@ -88,11 +82,11 @@
 *   [Spencer Gibb](https://twitter.com/spencerbgibb) - Software Engineer, Dad, Geek, Co-founder and Lead of Spring Cloud Core @pivotal.
 *   [Vlad Mihalcea](https://twitter.com/vlad_mihalcea) - Java Champion working on Hypersistence Optimizer, database aficionado, author of High-Performance Java Persistence book.
 
-## [11. Awesome Actions](/content/sdras/awesome-actions/README.md)
+## [10. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
 ### Notifications and Messages / Code Coverage
 
-*   [Send a Push Notification via Pushbullet (⭐6)](https://github.com/ShaunLWM/action-pushbullet)
+*   [Send a Push Notification via Pushbullet (⭐8)](https://github.com/ShaunLWM/action-pushbullet)
 
 ---
 

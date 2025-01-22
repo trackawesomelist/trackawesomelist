@@ -22,7 +22,7 @@
 
 ### Commerce
 
-*   [Sitecore Commerce Engine UPS Address Validation plugin (⭐0)](https://github.com/XCentium/SC-Plugin-UPS-Address-Validation) - Allows validating shipping address or billing address to make product delivery a good experience.
+*   [Sitecore Commerce Engine UPS Address Validation plugin](https://github.com/XCentium/SC-Plugin-UPS-Address-Validation) - Allows validating shipping address or billing address to make product delivery a good experience.
 
 ## [4. Awesome Cassandra](/content/Anant/awesome-cassandra/README.md)
 
@@ -46,11 +46,11 @@
 
 ### Algorithms and Data structures
 
-*   [splay\_tree\_map (⭐14)](https://github.com/wyhaines/splay_tree_map.cr) - Splay Tree implementation that conforms to the Hash ducktype
+*   [splay\_tree\_map (⭐15)](https://github.com/wyhaines/splay_tree_map.cr) - Splay Tree implementation that conforms to the Hash ducktype
 
 ### Debugging
 
-*   [backtracer.cr (⭐15)](https://github.com/Sija/backtracer.cr) - Shard aiming to assist with parsing backtraces into a structured form
+*   [backtracer.cr (⭐16)](https://github.com/Sija/backtracer.cr) - Shard aiming to assist with parsing backtraces into a structured form
 *   [debug.cr (⭐95)](https://github.com/Sija/debug.cr) - `debug!(…)` macro for `pp`-style debugging
 
 ### Misc
@@ -73,11 +73,10 @@
 
 ### React State Management and Data Fetching
 
-*   [mobx (⭐27k)](https://github.com/mobxjs/mobx) - Simple, scalable state management
-*   [zustand (⭐42k)](https://github.com/pmndrs/zustand) - Bear necessities for state management in React
-*   [recoil (⭐19k)](https://github.com/facebookexperimental/Recoil) - Experimental state management library for React apps
-*   [effector (⭐4.5k)](https://github.com/zerobias/effector) - Business logic with ease
-*   [immer (⭐27k)](https://github.com/immerjs/immer) - Create the next immutable state by mutating the current one
+*   [mobx (⭐28k)](https://github.com/mobxjs/mobx) - Simple, scalable state management
+*   [zustand (⭐48k)](https://github.com/pmndrs/zustand) - Bear necessities for state management in React
+*   [effector (⭐4.6k)](https://github.com/zerobias/effector) - Business logic with ease
+*   [immer (⭐28k)](https://github.com/immerjs/immer) - Create the next immutable state by mutating the current one
 *   [immutable-js (⭐33k)](https://github.com/immutable-js/immutable-js) - Immutable persistent data collections for Javascript
 
 ## [9. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
@@ -147,11 +146,11 @@
 
 ### Applications / Observability
 
-*   [Scaphandre (⭐1.5k)](https://github.com/hubblo-org/scaphandre) - A power consumption monitoring agent, to track host and each service power consumption and enable designing systems and applications for more sustainability. Designed to fit any monitoring toolchain (already supports prometheus, warp10, riemann...).
+*   [Scaphandre (⭐1.7k)](https://github.com/hubblo-org/scaphandre) - A power consumption monitoring agent, to track host and each service power consumption and enable designing systems and applications for more sustainability. Designed to fit any monitoring toolchain (already supports prometheus, warp10, riemann...).
 
 ### Libraries / GUI
 
-*   [tauri-apps/wry (⭐3.5k)](https://github.com/tauri-apps/wry) - Webview Rendering librarY.
+*   [tauri-apps/wry (⭐3.9k)](https://github.com/tauri-apps/wry) - Webview Rendering librarY.
 
 ---
 

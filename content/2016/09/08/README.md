@@ -10,23 +10,23 @@
 
 ### Configuration
 
-*   [confex (⭐302)](https://github.com/Nebo15/confex) - Helper module that provides a nice way to read environment configuration at runtime.
+*   [confex (⭐304)](https://github.com/Nebo15/confex) - Helper module that provides a nice way to read environment configuration at runtime.
 
 ### Cryptography
 
-*   [rsa\_ex (⭐37)](https://github.com/anoskov/rsa-ex) - Library for working with RSA keys.
+*   [rsa\_ex (⭐38)](https://github.com/anoskov/rsa-ex) - Library for working with RSA keys.
 
 ### Deployment
 
-*   [ansible-elixir-stack (⭐295)](https://github.com/HashNuke/ansible-elixir-stack) - 1-command setup & deploys to servers, with first-class support for Phoenix apps.
+*   [ansible-elixir-stack (⭐297)](https://github.com/HashNuke/ansible-elixir-stack) - 1-command setup & deploys to servers, with first-class support for Phoenix apps.
 *   [bottler (⭐39)](https://github.com/rubencaro/bottler) - Bottler is a collection of tools that aims to help you generate releases, ship them to your servers, install them there, and get them live on production.
 *   [edeliver (⭐2k)](https://github.com/boldpoker/edeliver) - Deployment for Elixir and Erlang.
 *   [exdm (⭐12)](https://github.com/joeyates/exdm) - Deploy Elixir applications via mix tasks.
-*   [heroku-buildpack-elixir (⭐809)](https://github.com/HashNuke/heroku-buildpack-elixir) - Heroku buildpack to deploy Elixir apps to Heroku.
+*   [heroku-buildpack-elixir (⭐815)](https://github.com/HashNuke/heroku-buildpack-elixir) - Heroku buildpack to deploy Elixir apps to Heroku.
 
 ### Video
 
-*   [silent\_video (⭐19)](https://github.com/talklittle/silent_video) - Convert GIFs and videos to silent videos, optimized for mobile playback.
+*   [silent\_video (⭐21)](https://github.com/talklittle/silent_video) - Convert GIFs and videos to silent videos, optimized for mobile playback.
 
 ## [2. Github Cheat Sheet](/content/tiimgreen/github-cheat-sheet/README.md)
 

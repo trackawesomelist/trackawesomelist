@@ -30,7 +30,7 @@
 
 ### I18n And L10n / Runner
 
-*   [babelfish (⭐255)](https://github.com/nodeca/babelfish/) - i18n with human friendly API and built in plurals support.
+*   [babelfish (⭐254)](https://github.com/nodeca/babelfish/) - i18n with human friendly API and built in plurals support.
 
 ### Image Processing / Other
 
@@ -157,7 +157,7 @@
 
 ### Miscellaneous
 
-*   [ub-canaries (⭐172)](https://github.com/regehr/ub-canaries) - A collection of C/C++ programs that try to get compilers to exploit undefined behavior.
+*   [ub-canaries (⭐176)](https://github.com/regehr/ub-canaries) - A collection of C/C++ programs that try to get compilers to exploit undefined behavior.
 
 ### Debugger
 
@@ -190,7 +190,7 @@
 
 ### Visual Studio Plugins
 
-*   [Git Diff Margin (⭐290)](https://github.com/laurentkempe/GitDiffMargin) - Displays live Git changes of the currently edited file on Visual Studio margin and scroll bar
+*   [Git Diff Margin (⭐289)](https://github.com/laurentkempe/GitDiffMargin) - Displays live Git changes of the currently edited file on Visual Studio margin and scroll bar
 
 ## [16. Awesome Devenv](/content/jondot/awesome-devenv/week/README.md)
 
@@ -231,7 +231,7 @@
 
 ### PHP Libraries
 
-*   [PHP-OP\_RETURN (⭐80)](https://github.com/coinspark/php-OP_RETURN)
+*   [PHP-OP\_RETURN (⭐81)](https://github.com/coinspark/php-OP_RETURN)
 
 ### Ruby Libraries
 
@@ -293,13 +293,13 @@
 
 ### Algorithms and Data structures
 
-*   [exmatrix (⭐57)](https://github.com/a115/exmatrix) - ExMatrix is a small library for working with matrices, originally developed for testing matrix multiplication in parallel.
-*   [red\_black\_tree (⭐38)](https://github.com/SenecaSystems/red_black_tree) - Red-Black tree implementation in Elixir.
+*   [exmatrix (⭐58)](https://github.com/a115/exmatrix) - ExMatrix is a small library for working with matrices, originally developed for testing matrix multiplication in parallel.
+*   [red\_black\_tree (⭐37)](https://github.com/SenecaSystems/red_black_tree) - Red-Black tree implementation in Elixir.
 *   [sorted\_set (⭐21)](https://github.com/SenecaSystems/sorted_set) - Sorted Sets for Elixir.
 
 ### Debugging
 
-*   [beaker (⭐280)](https://github.com/hahuang65/beaker) - Statistics and Metrics library for Elixir.
+*   [beaker (⭐279)](https://github.com/hahuang65/beaker) - Statistics and Metrics library for Elixir.
 
 ### Documentation
 
@@ -323,8 +323,8 @@
 
 ### ORM and Datamapping
 
-*   [caylir (⭐21)](https://github.com/mneudert/caylir) - Cayley driver for Elixir.
-*   [mysql (⭐360)](https://github.com/mysql-otp/mysql-otp) - MySQL/OTP – MySQL driver for Erlang/OTP.
+*   [caylir (⭐22)](https://github.com/mneudert/caylir) - Cayley driver for Elixir.
+*   [mysql (⭐366)](https://github.com/mysql-otp/mysql-otp) - MySQL/OTP – MySQL driver for Erlang/OTP.
 *   [mysqlex (⭐8)](https://github.com/tjheeta/mysqlex) - An Ecto-compatible wrapper around the mysql-otp library.
 
 ### Third Party APIs
@@ -333,7 +333,7 @@
 
 ### Reading
 
-*   [xElixir (⭐611)](https://github.com/exercism/xelixir) - Exercism Exercises in Elixir.
+*   [xElixir (⭐628)](https://github.com/exercism/xelixir) - Exercism Exercises in Elixir.
 
 ---
 

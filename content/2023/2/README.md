@@ -22,24 +22,20 @@
 
 ### Software / Communication - Custom Communication Systems
 
-*   [Apprise (⭐11k)](https://github.com/caronc/apprise) - Apprise allows you to send a notification to almost all of the most popular notification services available to us today such as: Telegram, Discord, Slack, Amazon SNS, Gotify, etc. `MIT` `Python/Docker/deb`
+*   [Apprise (⭐12k)](https://github.com/caronc/apprise) - Apprise allows you to send a notification to almost all of the most popular notification services available to us today such as: Telegram, Discord, Slack, Amazon SNS, Gotify, etc. `MIT` `Python/Docker/deb`
 
 ### Software / Communication - Social Networks and Forums
 
-*   [Retrospring (⭐239)](https://github.com/retrospring/retrospring) - A free, open-source social network following the Q/A (question and answer) principle of sites like Formspring, ask.fm or CuriousCat. ([Demo](https://retrospring.net)) `AGPL-3.0` `Ruby/Nodejs`
+*   [Retrospring (⭐271)](https://github.com/retrospring/retrospring) - A free, open-source social network following the Q/A (question and answer) principle of sites like Formspring, ask.fm or CuriousCat. ([Demo](https://retrospring.net)) `AGPL-3.0` `Ruby/Nodejs`
 
 ### Software / Games
 
-*   [0 A.D.](https://play0ad.com/) - A free, open-source game of ancient warfare. ([Source Code (⭐2.7k)](https://github.com/0ad/0ad)) `MIT/GPL-2.0/Zlib` `C++/C/deb`
+*   [0 A.D.](https://play0ad.com/) - A free, open-source game of ancient warfare. ([Source Code](https://gitea.wildfiregames.com/0ad/0ad)) `MIT/GPL-2.0/Zlib` `C++/C/deb`
 *   [Veloren](https://veloren.net/) - Multiplayer RPG. Open-source game inspired by Cube World, Legend of Zelda, Dwarf Fortress and Minecraft. ([Source Code](https://gitlab.com/veloren/veloren)) `GPL-3.0` `Rust`
 
 ### Software / Miscellaneous
 
-*   [Cloudlog](https://magicbug.co.uk/cloudlog/) - Cloudlog is a self-hosted PHP application that allows you to log your amateur radio contacts anywhere. ([Source Code (⭐447)](https://github.com/magicbug/cloudlog)) `MIT` `PHP/Docker`
-
-### Software / Note-taking & Editors
-
-*   [Benotes](https://benotes.org/) - An open source self hosted notes and bookmarks taking web app. ([Source Code (⭐712)](https://github.com/fr0tt/benotes)) `MIT` `PHP/Docker`
+*   [Cloudlog](https://magicbug.co.uk/cloudlog/) - Cloudlog is a self-hosted PHP application that allows you to log your amateur radio contacts anywhere. ([Source Code (⭐475)](https://github.com/magicbug/cloudlog)) `MIT` `PHP/Docker`
 
 ## [4. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
@@ -62,7 +58,7 @@
 
 ### Alert / Barcode
 
-*   [Kamagari (⭐78)](https://github.com/tasanobu-zz/Kamagari) - Simple UIAlertController builder class.
+*   [Kamagari (⭐77)](https://github.com/tasanobu-zz/Kamagari) - Simple UIAlertController builder class.
 
 ## [7. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
 
@@ -75,11 +71,11 @@
 
 ### Templates / Vue 3
 
-*   [vulcan (⭐17)](https://github.com/pengzhanbo/vulcan) - The template for mobile application. Vite, Vue 3, TypeScript, Sass, i18n, Vitest\&Cypress, Pinia, APIs\&Mock, ESLint, Prettier, auto-importing.
+*   [vulcan (⭐19)](https://github.com/pengzhanbo/vulcan) - The template for mobile application. Vite, Vue 3, TypeScript, Sass, i18n, Vitest\&Cypress, Pinia, APIs\&Mock, ESLint, Prettier, auto-importing.
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-stylelint (⭐22)](https://github.com/ModyQyW/vite-plugin-stylelint) - Runs Stylelint synchronously/asynchronously.
+*   [vite-plugin-stylelint (⭐23)](https://github.com/ModyQyW/vite-plugin-stylelint) - Runs Stylelint synchronously/asynchronously.
 
 ### Framework-agnostic Plugins / Loaders
 
@@ -87,11 +83,11 @@
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [unplugin-imagemin (⭐183)](https://github.com/ErKeLost/unplugin-imagemin) - High performance compressed Picture based on squoosh and sharp.
+*   [unplugin-imagemin (⭐210)](https://github.com/ErKeLost/unplugin-imagemin) - High performance compressed Picture based on squoosh and sharp.
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-entry-shaking (⭐110)](https://github.com/Dschungelabenteuer/vite-plugin-entry-shaking) - Mimic tree-shaking behaviour when importing code from an entry file in development mode.
+*   [vite-plugin-entry-shaking (⭐130)](https://github.com/Dschungelabenteuer/vite-plugin-entry-shaking) - Mimic tree-shaking behaviour when importing code from an entry file in development mode.
 
 ## [9. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
 
@@ -103,8 +99,8 @@
 
 ### [Transistor Software plugins](https://www.transistorsoft.com//)
 
-*   [Background Geolocation (⭐91)](https://github.com/transistorsoft/capacitor-background-geolocation) - The most sophisticated background location-tracking & geofencing module with battery-conscious motion-detection intelligence for iOS and Android.
-*   [Background Fetch (⭐78)](https://github.com/transistorsoft/capacitor-background-fetch) - Periodic callbacks in the background for both IOS and Android.
+*   [Background Geolocation (⭐98)](https://github.com/transistorsoft/capacitor-background-geolocation) - The most sophisticated background location-tracking & geofencing module with battery-conscious motion-detection intelligence for iOS and Android.
+*   [Background Fetch (⭐80)](https://github.com/transistorsoft/capacitor-background-fetch) - Periodic callbacks in the background for both IOS and Android.
 *   [Background Geolocation Firebase (⭐6)](https://github.com/transistorsoft/capacitor-background-geolocation-firebase) - Firebase adapter for Capacitor Background Geolocation.
 
 ## [11. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
@@ -116,9 +112,9 @@
 
 ## [12. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
-### Projects / Godot 3.5+
+### Projects / Godot 3
 
-*   [GATT - Godot Autotile Texture Templater (⭐29)](https://github.com/sesopenko/gatt) - A tool for generating 2x2 and 3x3 autotile tilesets in whichever size and colour needed.
+*   [GATT - Godot Autotile Texture Templater (⭐33)](https://github.com/sesopenko/gatt) - A tool for generating 2x2 and 3x3 autotile tilesets in whichever size and colour needed.
 
 ## [13. Awesome Scifi](/content/sindresorhus/awesome-scifi/week/README.md)
 
@@ -169,7 +165,7 @@
 
 ### Libraries/Frameworks / Misc
 
-*   [KotUniL (⭐116)](https://github.com/vsirotin/si-units) - KotUniL: Kotlin function and objects for working with SI units like meter, second, as well as currencies and general units like percent.
+*   [KotUniL (⭐118)](https://github.com/vsirotin/si-units) - KotUniL: Kotlin function and objects for working with SI units like meter, second, as well as currencies and general units like percent.
 
 ## [19. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
@@ -187,7 +183,7 @@
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [xcode (⭐57)](https://github.com/keith/zsh-xcode-completions) - Completions for some Xcode command line tools - `genstrings`, `nm`, `plutil`, `xcode-select`, `xcodebuild`, `xcrun`, `simctl`, `strings`, `swift-demangle`, `swift` and `lipo`.
+*   [xcode (⭐60)](https://github.com/keith/zsh-xcode-completions) - Completions for some Xcode command line tools - `genstrings`, `nm`, `plutil`, `xcode-select`, `xcodebuild`, `xcrun`, `simctl`, `strings`, `swift-demangle`, `swift` and `lipo`.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -226,37 +222,37 @@
 
 *   [SourceGraph](https://sourcegraph.com/search) - Search code from millions of open source repositories.
 
-### Username Check / Telegram
+### Email Search / Email Check / Steam
 
-*   [Blackbird (⭐2.6k)](https://github.com/p1ngul1n0/blackbird) - Search a username across over 500+ websites.
-*   [NameKetchup](https://nameketchup.com) - checks domain name and username in popular social media sites and platforms.
-
-### Image Search / Telegram
-
-*   [FaceCheck.ID](https://facecheck.id) - Facial recognition search engine.
-
-### Email Search / Email Check / Telegram
-
+*   [Blackbird (⭐3k)](https://github.com/p1ngul1n0/blackbird) - Search for accounts associated with a given email across various platforms.
 *   [mxtoolbox](https://mxtoolbox.com/) - Free online tools to investigate/troubleshoot email server issues.
 *   [Snov.io](https://snov.io/email-finder) - Find email addresses on any website.
 
-### Phone Number Research / Telegram
+### Username Check / Steam
+
+*   [NameKetchup](https://nameketchup.com) - checks domain name and username in popular social media sites and platforms.
+
+### Image Search / Steam
+
+*   [FaceCheck.ID](https://facecheck.id) - Facial recognition search engine.
+
+### Phone Number Research / Steam
 
 *   [Reverse Phone Check](https://www.reversephonecheck.com) - Look up names, addresses, phone numbers, or emails and anonymously discover information about yourself, family, friends, or old schoolmates. Powered by infotracer.com
 
-### Academic Resources and Grey Literature / Telegram
+### Academic Resources and Grey Literature / Steam
 
 *   [OA.mg](http://oa.mg) A database of over 240 million scientific works, with PDFs for all Open Access papers in their catalogue (\~ 40 million)
 
-### Infographics and Data Visualization / Telegram
+### Infographics and Data Visualization / Steam
 
-*   [Perspective (⭐8.1k)](https://github.com/finos/perspective) - interactive data visualization and analytics component, well-suited for large, streaming and static datasets.
+*   [Perspective (⭐8.8k)](https://github.com/finos/perspective) - interactive data visualization and analytics component, well-suited for large, streaming and static datasets.
 
-### Other Tools / Telegram
+### Other Tools / Steam
 
-*   [Glit (⭐43)](https://github.com/shadawck/glit) -  Retrieve all mails of users related to a git repository, a git user or a git organization.
-*   [SerpApi](https://serpapi.com/) - Scrapes Google search and 25+ search engines with ease and retruns a raw JSON. Supports [10 API wrappers](https://serpapi.com/integrations).
-*   [SerpScan (⭐61)](https://github.com/Alaa-abdulridha/SerpScan) - Powerful PHP script designed to allow you to leverage the power of dorking straight from the comfort of your command line. Analyzes data from Google, Bing, Yahoo, Yandex, and Badiu.
+*   [Glit (⭐48)](https://github.com/shadawck/glit) -  Retrieve all mails of users related to a git repository, a git user or a git organization.
+*   [SerpApi](https://serpapi.com/) - Scrapes Google search and 25+ search engines with ease and retruns a raw JSON. Supports 10 API wrappers.
+*   [SerpScan (⭐65)](https://github.com/Alaa-abdulridha/SerpScan) - Powerful PHP script designed to allow you to leverage the power of dorking straight from the comfort of your command line. Analyzes data from Google, Bing, Yahoo, Yandex, and Badiu.
 
 ## [26. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
@@ -278,7 +274,7 @@
 
 ### Text processing
 
-*   [pcre2 (⭐4)](https://github.com/srackham/pcre2) - Library for processing PCRE regular expressions.
+*   [pcre2 (⭐6)](https://github.com/srackham/pcre2) - Library for processing PCRE regular expressions.
 
 ## [29. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
@@ -321,7 +317,7 @@
 
 *   [Muse: Text-To-Image Generation via Masked Generative Transformers](https://muse-model.github.io/)
 
-### Inbox: Text-to-speech (TTS) and avatars / Deforum
+### Text-to-speech (TTS) and avatars / Deforum
 
 *   [Play.ht](https://play.ht/): "AI voice generator and realistic text to speech online"
 *   [Murf AI | AI Voice Generator](https://murf.ai/): versatile text to tpeech software
@@ -331,44 +327,44 @@
 
 ### Search / Diagnostics
 
-*   [s1n7ax/nvim-search-and-replace (⭐71)](https://github.com/s1n7ax/nvim-search-and-replace) - Search and replace in multiple files at the same time from the current working directory.
-*   [roobert/search-replace.nvim (⭐213)](https://github.com/roobert/search-replace.nvim) - Builds on the native search and replace experience.
+*   [s1n7ax/nvim-search-and-replace (⭐73)](https://github.com/s1n7ax/nvim-search-and-replace) - Search and replace in multiple files at the same time from the current working directory.
+*   [roobert/search-replace.nvim (⭐220)](https://github.com/roobert/search-replace.nvim) - Builds on the native search and replace experience.
 
 ### Fuzzy Finder / Diagnostics
 
-*   [axkirillov/easypick.nvim (⭐364)](https://github.com/axkirillov/easypick.nvim) - Easypick lets you easily create Telescope pickers from arbitrary console commands.
+*   [axkirillov/easypick.nvim (⭐394)](https://github.com/axkirillov/easypick.nvim) - Easypick lets you easily create Telescope pickers from arbitrary console commands.
 
 ### File Explorer / Diagnostics
 
-*   [dinhhuy258/sfm.nvim (⭐57)](https://github.com/dinhhuy258/sfm.nvim) - An alternative to Nvim-tree designed to be extensible and minimalist.
+*   [dinhhuy258/sfm.nvim (⭐60)](https://github.com/dinhhuy258/sfm.nvim) - An alternative to Nvim-tree designed to be extensible and minimalist.
 
 ### Utility / Diagnostics
 
-*   [j-morano/buffer\_manager.nvim (⭐221)](https://github.com/j-morano/buffer_manager.nvim) - Add one or more buffers, reorder them, save them inside a file or just delete them very easily from a small floating window.
+*   [j-morano/buffer\_manager.nvim (⭐273)](https://github.com/j-morano/buffer_manager.nvim) - Add one or more buffers, reorder them, save them inside a file or just delete them very easily from a small floating window.
 
 ### Editing Support / Diagnostics
 
-*   [tmillr/sos.nvim (⭐18)](https://github.com/tmillr/sos.nvim) - Automatically save all your modified buffers according to a predefined timeout value.
+*   [tmillr/sos.nvim (⭐20)](https://github.com/tmillr/sos.nvim) - Automatically save all your modified buffers according to a predefined timeout value.
 
 ### Indent / Diagnostics
 
-*   [LucasTavaresA/simpleIndentGuides.nvim (⭐9)](https://github.com/LucasTavaresA/simpleIndentGuides.nvim) - Indentation guides using the builtin variables.
+*   [LucasTavaresA/simpleIndentGuides.nvim (⭐10)](https://github.com/LucasTavaresA/simpleIndentGuides.nvim) - Indentation guides using the builtin variables.
 
 ### Session / Diagnostics
 
-*   [gennaro-tedesco/nvim-possession (⭐211)](https://github.com/gennaro-tedesco/nvim-possession) - The no-nonsense session manager.
+*   [gennaro-tedesco/nvim-possession (⭐250)](https://github.com/gennaro-tedesco/nvim-possession) - The no-nonsense session manager.
 
 ## [31. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
 
 ### Game tools and libraries
 
-*   [hexops/mach (⭐3.1k)](https://github.com/hexops/mach) - Game engine and graphics toolkit.
+*   [hexops/mach (⭐3.6k)](https://github.com/hexops/mach) - Game engine and graphics toolkit.
 
 ### GUI
 
-*   [david-vanderson/gui (⭐256)](https://github.com/david-vanderson/gui) - Immediate mode GUI for Zig.
-*   [Aransentin/ZWL (⭐95)](https://github.com/Aransentin/ZWL) - Zig Windowing Library.
-*   [prime31/zig-upaya (⭐130)](https://github.com/prime31/zig-upaya) - GUI toolkit.
+*   [david-vanderson/gui (⭐494)](https://github.com/david-vanderson/gui) - Immediate mode GUI for Zig.
+*   [Aransentin/ZWL (⭐100)](https://github.com/Aransentin/ZWL) - Zig Windowing Library.
+*   [prime31/zig-upaya (⭐133)](https://github.com/prime31/zig-upaya) - GUI toolkit.
 
 ### Parser / Package managers
 
@@ -380,7 +376,7 @@
 
 ## [32. Awesome Acg](/content/soruly/awesome-acg/week/README.md)
 
-### Databases / Data Sources
+### Database APIs
 
 *   [MyAnimeList APIv2](https://myanimelist.net/apiconfig/references/api/v2) - Official API for [MyAnimeList](https://myanimelist.net/). \[English]
 
@@ -396,13 +392,13 @@
 
 ### Applications and Platforms / Wealth
 
-*   [Firefly III (⭐13k)](https://github.com/firefly-iii/firefly-iii) - A free and open source personal finance manager
+*   [Firefly III (⭐15k)](https://github.com/firefly-iii/firefly-iii) - A free and open source personal finance manager
 
 ## [34. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Projects Using Vue.js / Open Source
 
-*   [ZuiOJ (⭐143)](https://github.com/DaZuiZui/ZuiOJ) - ZuiOJ system developed using Vue2's UI and Java.
+*   [ZuiOJ (⭐153)](https://github.com/DaZuiZui/ZuiOJ) - ZuiOJ system developed using Vue2's UI and Java.
 
 ### Projects Using Vue.js / Apps/Websites
 
@@ -414,21 +410,17 @@
 
 ### Components & Libraries / UI Layout
 
-*   [vue-typed-virtual-list (⭐33)](https://github.com/bsssshhhhhhh/vue-typed-virtual-list) - \[Vue 3.x] small, efficient, TypeScript-friendly virtual scroller for rendering massive data
-
-### Components & Libraries / UI Utilities
-
-*   [vue-web-otp (⭐4)](https://github.com/mrbilit/vue-web-otp) - Vue.js component to work with browser's WebOTP API to receive OTPs over SMS
+*   [vue-typed-virtual-list (⭐39)](https://github.com/bsssshhhhhhh/vue-typed-virtual-list) - \[Vue 3.x] small, efficient, TypeScript-friendly virtual scroller for rendering massive data
 
 ## [35. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### GUI
 
-*   [MyGUI (⭐709)](https://github.com/MyGUI/mygui) - Fast, flexible and simple GUI. \[MIT]
+*   [MyGUI (⭐737)](https://github.com/MyGUI/mygui) - Fast, flexible and simple GUI. \[MIT]
 
 ### Serialization
 
-*   [zpp\_bits (⭐711)](https://github.com/eyalz800/zpp_bits) - Actually, the fastest modern **S**erialization library. Just check [this video](https://www.youtube.com/watch?v=G7-GQhCw8eE\&ab_channel=CppCon).
+*   [zpp\_bits (⭐772)](https://github.com/eyalz800/zpp_bits) - Actually, the fastest modern **S**erialization library. Just check [this video](https://www.youtube.com/watch?v=G7-GQhCw8eE\&ab_channel=CppCon).
 
 ### Other Awesome Projects
 
@@ -446,7 +438,7 @@
 ### Libraries / Peripherals
 
 *   Serial Port
-    *   [serialport/serialport-rs (⭐456)](https://github.com/serialport/serialport-rs) \[[serialport](https://crates.io/crates/serialport)] - A cross-platform library that provides access to a serial port
+    *   [serialport/serialport-rs (⭐543)](https://github.com/serialport/serialport-rs) \[[serialport](https://crates.io/crates/serialport)] - A cross-platform library that provides access to a serial port
 
 ## [37. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
@@ -456,13 +448,13 @@
 
 ### Testing
 
-*   [SecTester (⭐1)](https://github.com/NeuraLegion/sectester-net) - SecTester is a new tool that integrates [Bright](https://brightsec.com/) enterprise-grade scan engine directly into your integration or e2e tests. **\[Proprietary]** **\[Free]**
+*   [SecTester (⭐2)](https://github.com/NeuraLegion/sectester-net) - SecTester is a new tool that integrates [Bright](https://brightsec.com/) enterprise-grade scan engine directly into your integration or e2e tests. **\[Proprietary]** **\[Free]**
 
 ## [38. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
 
 ### eBPF Workflow: Tools and Utilities / eunomia-bpf
 
-*   [eunomia-bpf (⭐592)](https://github.com/eunomia-bpf/eunomia-bpf) - A compilation framework and runtime library to build, distribute, dynamically load, and run CO-RE eBPF applications in multiple languages and WebAssembly. It supports writing eBPF kernel code only (to build simple CO-RE libbpf eBPF applications), writing the kernel part in both BCC and libbpf styles, and writing userspace in multiple languages in a WASM module and distributing it with simple JSON data or WASM OCI images. The runtime is based on libbpf only and provides CO-RE to BCC-style eBPF programs without depending on the LLVM library.
+*   [eunomia-bpf (⭐713)](https://github.com/eunomia-bpf/eunomia-bpf) - A compilation framework and runtime library to build, distribute, dynamically load, and run CO-RE eBPF applications in multiple languages and WebAssembly. It supports writing eBPF kernel code only (to build simple CO-RE libbpf eBPF applications), writing the kernel part in both BCC and libbpf styles, and writing userspace in multiple languages in a WASM module and distributing it with simple JSON data or WASM OCI images. The runtime is based on libbpf only and provides CO-RE to BCC-style eBPF programs without depending on the LLVM library.
 
 ## [39. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/week/README.md)
 
@@ -1202,7 +1194,7 @@
 
 ### Validation / Playground
 
-*   [typia (⭐4.3k)](https://github.com/samchon/typia) - 20,000x times faster runtime validator using pure TypeScript type. Only one line required like `typia.assert<T>(input)`. Also, supports 200x faster JSON serialization, and Protocol Buffer features. 🚀 (see also <https://typia.io/docs>)
+*   [typia (⭐4.7k)](https://github.com/samchon/typia) - 20,000x times faster runtime validator using pure TypeScript type. Only one line required like `typia.assert<T>(input)`. Also, supports 200x faster JSON serialization, and Protocol Buffer features. 🚀 (see also <https://typia.io/docs>)
 
 ## [41. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
@@ -1216,7 +1208,7 @@
 
 ### CLI
 
-*   [AlgoKit CLI (⭐160)](https://github.com/algorandfoundation/algokit-cli) - The Algorand AlgoKit CLI is the one-stop shop tool for developers building on the Algorand network. Official tooling maintained by the Algorand Foundation.
+*   [AlgoKit CLI (⭐173)](https://github.com/algorandfoundation/algokit-cli) - The Algorand AlgoKit CLI is the one-stop shop tool for developers building on the Algorand network. Official tooling maintained by the Algorand Foundation.
 *   [tealinspector (⭐15)](https://github.com/Hipo/tealinspector) - Quick and easy TEAL code debugging by Hipo labs.
 
 ### Projects / Wallets
@@ -1242,8 +1234,7 @@
 
 *   [Qubes OS Development Documentation](https://dev.qubes-os.org/en/latest/) - Qubes OS development documentation.
 *   [Qubes OS Documentation](https://www.qubes-os.org/doc/) - Qubes OS main documentation.
-*   [Qubes OS GitHub Documentation (⭐331)](https://github.com/QubesOS/qubes-doc) - Qubes OS GitHub latest documentation.
-*   [Qubes OS Onion](http://www.qubesosfasa4zl44o4tws22di6kepyzfeqv3tg4e3ztknltfxqrymdad.onion) - Qubes OS onion address on the Tor network.
+*   [Qubes OS GitHub Documentation (⭐346)](https://github.com/QubesOS/qubes-doc) - Qubes OS GitHub latest documentation.
 
 ### VM-Hardening
 
@@ -1254,7 +1245,7 @@
 
 *   [Brightness-Ajustment](https://forum.qubes-os.org/t/easy-brightness-adjustment/15902/2) - Easy brightness adjustment
 *   [Custom icons](https://forum.qubes-os.org/t/where-is-the-most-optimal-place-to-put-custom-folder-icons/15740/3) - Place the custom folder icons \~/.local/share/icons is a persistent place to place the custom folder icons and so is /usr/share/icons.
-*   [Suckless dwm (⭐11)](https://github.com/3o14r473/GUIDE_how-to-install-dwm-in-qubesos) - How to install dwm in Qubes OS.
+*   [Suckless dwm (⭐12)](https://github.com/3o14r473/GUIDE_how-to-install-dwm-in-qubesos) - How to install dwm in Qubes OS.
 
 ### GPU
 
@@ -1263,63 +1254,60 @@
 *   [GUI-troubleshooting](https://www.qubes-os.org/doc/gui-troubleshooting/) - Learn to troubleshoot your GUI configuration.
 *   [GUI-virtualization](https://www.qubes-os.org/doc/gui/) - All AppVM X applications connect to local (running in AppVM) Xorg servers.
 *   [How-to-use-pci-devices](https://www.qubes-os.org/doc/how-to-use-pci-devices/) - This page is part of device handling in qubes.
-*   [Install-nvidia-driver (⭐254)](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/install-nvidia-driver.md) - Nvidia proprietary driver installation.
-*   [Nvidia-troubleshooting (⭐254)](https://github.com/Qubes-Community/Contents/blob/master/docs/troubleshooting/nvidia-troubleshooting.md) - Nvidia Troubleshooting Guide
+*   [Install-nvidia-driver (⭐258)](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/install-nvidia-driver.md) - Nvidia proprietary driver installation.
+*   [Nvidia-troubleshooting (⭐258)](https://github.com/Qubes-Community/Contents/blob/master/docs/troubleshooting/nvidia-troubleshooting.md) - Nvidia Troubleshooting Guide
 
 ### Clearnet & Anonymous Networking / OpenVPN
 
-*   [Qubes-Tunnel (⭐20)](https://github.com/QubesOS-contrib/qubes-tunnel) - Manage, run, protect VPN connections in Proxy VMs.
+*   [Qubes-Tunnel (⭐22)](https://github.com/QubesOS-contrib/qubes-tunnel) - Manage, run, protect VPN connections in Proxy VMs.
+
+### Clearnet & Anonymous Networking / Tor
+
+*   [Qubes OS Onion](http://www.qubesosfasa4zl44o4tws22di6kepyzfeqv3tg4e3ztknltfxqrymdad.onion) - Qubes OS onion address on the Tor network.
 
 ### Clearnet & Anonymous Networking / Crypto
 
-*   [Awesome-DeSci (⭐73)](https://github.com/DeSciWorldDAO/awesome-desci) - A curated list of awesome Decentralized Science (DeSci) resources, projects, articles and more.
+*   [Awesome-DeSci (⭐75)](https://github.com/DeSciWorldDAO/awesome-desci) - A curated list of awesome Decentralized Science (DeSci) resources, projects, articles and more.
 
 ### Kernels / Microkernels
 
-*   [Qubes-linux-kernel (⭐83)](https://github.com/QubesOS/qubes-linux-kernel) - Qubes package for Linux kernel.
+*   [Qubes-linux-kernel (⭐87)](https://github.com/QubesOS/qubes-linux-kernel) - Qubes package for Linux kernel.
 *   [seL4](https://sel4.systems/) - seL4 is a high-assurance, high-performance operating system microkernel.
+    *   [makatea](https://trustworthy.systems/projects/TS/makatea) - Qubes OS like operating system but with seL4.
 
 ### Kernels / Unikernels
 
-*   [Awesome-Unikernels (⭐37)](https://github.com/uniqernel/awesome-unikernels) - Secure, lightweight and high performance approach to application delivery.
-*   [Qubes-Mirage-Firewall (⭐206)](https://github.com/mirage/qubes-mirage-firewall) - A unikernel that can run as a Qubes OS ProxyVM, replacing sys-firewall.
+*   [Awesome-Unikernels (⭐43)](https://github.com/uniqernel/awesome-unikernels) - Secure, lightweight and high performance approach to application delivery.
+*   [Qubes-Mirage-Firewall (⭐210)](https://github.com/mirage/qubes-mirage-firewall) - A unikernel that can run as a Qubes OS ProxyVM, replacing sys-firewall.
+
+### Qubes OS Server / Unikernel-like
+
+*   [Qubes-network-server (⭐107)](https://github.com/Rudd-O/qubes-network-server) - Turn your Qubes OS into a networking server.
+*   [Qubes-remote-desktop (⭐8)](https://github.com/QubesOS-contrib/qubes-remote-desktop) - SystemD services for creating VNC server session in dom0 or any Qube.
 
 ### Exploitation Tools / Unikernel-like
 
-*   [Awesome-Fuzzing (⭐798)](https://github.com/cpuu/awesome-fuzzing) - A curated list of references to awesome Fuzzing for security testing. Additionally there is a collection of freely available academic papers, tools and so on.
+*   [Awesome-Fuzzing (⭐843)](https://github.com/cpuu/awesome-fuzzing) - A curated list of references to awesome Fuzzing for security testing. Additionally there is a collection of freely available academic papers, tools and so on.
 *   [CodeQL](https://codeql.github.com/) - Discover vulnerabilities across a codebase with CodeQL.
-*   [Joern (⭐1.9k)](https://github.com/joernio/joern) - Joern is a platform for analyzing source code, bytecode, and binary executables. It generates code property graphs (CPGs), a graph representation of code for cross-language code analysis.
+*   [Joern (⭐2.1k)](https://github.com/joernio/joern) - Joern is a platform for analyzing source code, bytecode, and binary executables. It generates code property graphs (CPGs), a graph representation of code for cross-language code analysis.
 *   [Libvmi](https://libvmi.com/) - LibVMI is a C library with Python bindings that makes it easy to monitor the low-level details of a running virtual machine.
-*   [Memflow (⭐714)](https://github.com/memflow/memflow) - memflow is a library that enables introspection of various machines (hardware, virtual machines, memory dumps) in a generic fashion.
-*   [Microlibvmi (⭐163)](https://github.com/Wenzel/libmicrovmi) - A cross-platform unified Virtual Machine Introspection API library.
-*   [Radare2 (⭐20k)](https://github.com/radareorg/radare2) - Libre Reversing Framework for Unix Geeks.
+*   [Memflow (⭐773)](https://github.com/memflow/memflow) - memflow is a library that enables introspection of various machines (hardware, virtual machines, memory dumps) in a generic fashion.
+*   [Microlibvmi (⭐167)](https://github.com/Wenzel/libmicrovmi) - A cross-platform unified Virtual Machine Introspection API library.
+*   [Radare2 (⭐21k)](https://github.com/radareorg/radare2) - Libre Reversing Framework for Unix Geeks.
 
-### Optics and Extra Info / Unikernel-like
+### Optics and Extra Info / UX - User Experience
 
-*   \[UX] - User Experience
-    *   [UX Bessie](https://vimeo.com/542041258) - Qubes OS AppMenu Design Direction. Part of 2020/21 MOSS funded UX work.
-    *   [UX Jackie](https://vimeo.com/541946756) - Qubes OS AppMenu Design Direction. Part of 2020/21 MOSS funded UX work.
+*   [UX Bessie](https://vimeo.com/542041258) - Qubes OS AppMenu Design Direction. Part of 2020/21 MOSS funded UX work.
 
-### Qubes OS Server / Web articles
-
-*   [Qubes-network-server (⭐98)](https://github.com/Rudd-O/qubes-network-server) - Turn your Qubes OS into a networking server.
-*   [Qubes-remote-desktop (⭐7)](https://github.com/QubesOS-contrib/qubes-remote-desktop) - SystemD services for creating VNC server session in dom0 or any Qube.
-
-### Qubes OS Legends / Web articles
-
-*   [Ninavizz](https://vimeo.com/user1589693) - Qubes OS UX Designer.
-*   [Unman](https://github.com/unman?tab=repositories) - Qubes OS contributor.
-    *   [Templates](https://qubes.3isec.org/Templates_4.1/) - Unman custom templates.
-    *   [Unman Install Scripts (⭐18)](https://github.com/unman/shaker) -  Unman install scripts
-
-### Training and Materials / Web articles
+### Training and Materials / Extra Info
 
 *   [Training-materials (⭐4)](https://github.com/QubesOS/training-materials/) - A Collection of training materials for Qubes OS.
+    -[Qubes for Journalists (⭐18)](https://github.com/kennethrrosen/qubes-for-journalists/) - Existing guides and infrastructure for journalists insufficiently prepares them for digitally interacting with sources, working on sensitive stories while protecting sensitive materials offline and online, and traveling cross borders with personal and professional data.
 *   [Qubes-diagrams (⭐15)](https://github.com/rootkovska/qubes-diagrams) - Qubes OS architecture diagrams.
-*   [Qubes-artwork (⭐11)](https://github.com/QubesOS/qubes-artwork) - This repository contains various artworks for Qubes OS.
+*   [Qubes-artwork (⭐12)](https://github.com/QubesOS/qubes-artwork) - This repository contains various artworks for Qubes OS.
 *   [pwn.college](https://pwn.college/) - pwn.college is an education platform for students (and other interested parties) to learn about, and practice, core cybersecurity concepts in a hands-on fashion.
 
-### Social media / Web articles
+### Social media / Extra Info
 
 *   [Mastodon](https://mastodon.social/@QubesOS) - Qubes OS Mastodon channel
 *   [Reddit Qubes OS](https://www.reddit.com/r/Qubes/) - General Qubes OS Reddit room.
@@ -1328,6 +1316,15 @@
 *   `#xen`      channel on irc.oftc.net via traditional IRC clients.
 *   `#qubes`    channel on irc.libera.chat via traditional IRC clients.
 *   `#qubes-os` channel on irc.anonops.com via traditional IRC clients.
+
+### Qubes OS Legends / Extra Info
+
+*   [Ninavizz](https://vimeo.com/user1589693) - Qubes OS UX Designer.
+*   [Unman](https://github.com/unman?tab=repositories) - Qubes OS contributor.
+    *   [Templates](https://qubes.3isec.org/Templates_4.2/) - Unman custom templates.
+    *   [Install Scripts (⭐18)](https://github.com/unman/shaker) -  Unman install scripts
+    *   [Notes (⭐37)](https://github.com/unman/notes) - a good reference
+    *   [Shaker (⭐18)](https://github.com/unman/shaker) - Shaker!
 
 ## [45. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -1356,14 +1353,14 @@
 ### Boilerplates
 
 *   [Hydrogen](https://statichunt.com/themes/nextjs-hydrogen) - Hydrogen is a Nextjs blog starter template build with tailwindCss and MDX supports. It has all necessary MDX shortcodes out of the box.
-*   [Next-Fire-Auth (⭐5)](https://github.com/hrushikedar33/next-fire-auth) - A awesome boilerplate for startup application with authentication using Next.js + Typescript + Tailwind CSS + Firebase-auth + React-Firebase-Hooks
-*   [NextJS Chargebee Subscription (⭐13)](https://github.com/bharathvaj-ganesan/chargebee-saas-stack) - A Chargebee focused T3 Stack that integrates User Subscriptions, Authentication and Testing. Driven by Prisma ORM.
+*   [Next-Fire-Auth (⭐6)](https://github.com/hrushikedar33/next-fire-auth) - A awesome boilerplate for startup application with authentication using Next.js + Typescript + Tailwind CSS + Firebase-auth + React-Firebase-Hooks
+*   [NextJS Chargebee Subscription (⭐17)](https://github.com/bharathvaj-ganesan/chargebee-saas-stack) - A Chargebee focused T3 Stack that integrates User Subscriptions, Authentication and Testing. Driven by Prisma ORM.
 
 ## [47. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
 
 ### Boilerplates / Themes
 
-*   [react-vite-admin (⭐190)](https://github.com/ychengcloud/react-vite-admin) - React, Recoil, React Query, React Hooks, Typescript, Axios.
+*   [react-vite-admin (⭐241)](https://github.com/ychengcloud/react-vite-admin) - React, Recoil, React Query, React Hooks, Typescript, Axios.
 
 ## [48. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
@@ -1372,10 +1369,6 @@
 *   [Perl::Analyzer](https://technix.github.io/Perl-Analyzer/) — Perl-Analyzer is a set of programs and modules that allow users to analyze and visualize Perl  codebases by providing information about namespaces and their relations, dependencies,  inheritance, and methods implemented, inherited, and redefined in packages,  as well as calls to methods from parent packages via SUPER.
 
 ## [49. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
-
-### Bayesian Modeling / Bayesian Induction
-
-*   [Rules and Similarity in Concept Learning](http://web.mit.edu/cocosci/archive/Papers/nips99preprint.pdf) - ***NeurIPS'99***, 1999. \[[All Versions](https://scholar.google.com/scholar?cluster=10968021160883668417\&hl=en\&as_sdt=0,5)]. Unifying rule-based and similarity-based generalization via Bayesian generalization.
 
 ### Concepts / Human Concept Representation
 
@@ -1400,13 +1393,10 @@
 ### Commenting Engines
 
 *   **Disqus** - Many trackers are in their sites. Disqus collects (as per their Privacy Policy):  IP address, unique Cookie ID, Device ID, your login data, browser type and version, time zone setting and location, browser plug-in types and versions, operating system and platform and other technology on the devices you use to access the Service.
-*   [Commento](https://commento.io/) - Commento is a fast, privacy-focused commenting platform. Can be selfhosted or use their SaaS.
-*   [Isso (⭐5k)](https://github.com/posativ/isso) - A lightweight, self hosted, commenting server written in Python and JavaScript. It aims to be a drop-in replacement for Disqus.
-*   [Remark42](https://remark42.com) - Self-hosted, lightweight, and simple (yet functional) comment engine, which doesn't spy on users.
 
 ### Notes and Tasks
 
-*   [Trilium Notes (⭐27k)](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
+*   [Trilium Notes (⭐28k)](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
 
 ### Desktop
 
@@ -1414,13 +1404,13 @@
 
 ### Video Editing / Alternative clients/modifications of Discord:
 
-*   [LosslessCut (⭐26k)](https://github.com/mifi/lossless-cut) - LosslessCut aims to be the ultimate cross platform FFmpeg GUI for extremely fast and lossless operations on video, audio, subtitle and other related media files.
+*   [LosslessCut (⭐29k)](https://github.com/mifi/lossless-cut) - LosslessCut aims to be the ultimate cross platform FFmpeg GUI for extremely fast and lossless operations on video, audio, subtitle and other related media files.
 
 ## [51. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Security
 
-*   [Ronin (⭐677)](https://github.com/ronin-rb/ronin) - A Ruby platform for vulnerability research and exploit development.
+*   [Ronin (⭐700)](https://github.com/ronin-rb/ronin) - A Ruby platform for vulnerability research and exploit development.
 
 ## [52. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/week/README.md)
 
@@ -1428,7 +1418,7 @@
 
 *   [Aspnes. Notes on Randomized Algorithms](https://www.cs.yale.edu/homes/aspnes/classes/469/notes.pdf) - Supplemental notes to the standard books by Mitzenmacher & Upfals, and Motwani & Raghavan.
 
-### Books / Monograph
+### Probabilistic Method / Books
 
 *   [Alon & Spencer. The Probabilistic Method](https://www.wiley.com/en-us/The+Probabilistic+Method%2C+4th+Edition-p-9781119061953) -  A standard reference for researchers in probabilistic methods in combinatorics. Shows also connections to theoretical computer science.
 

@@ -43,7 +43,7 @@
 
 ### Querying / Symfony2
 
-*   [rest-assured (⭐6.8k)](https://github.com/rest-assured/rest-assured) - Java DSL for easy testing of REST services.
+*   [rest-assured (⭐6.9k)](https://github.com/rest-assured/rest-assured) - Java DSL for easy testing of REST services.
 
 ## [6. Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md)
 
@@ -78,14 +78,13 @@
 
 *   [Algorithms](http://algs4.cs.princeton.edu/home/) - Problems explained with Java, OO good practices, visualizations, and free online resources.
 *   [Data Structures Using C](http://www.amazon.com/Data-Structures-Using-Aaron-Tenenbaum/dp/0131997467) - The basic concepts and usages of data structures.
-*   [Elementary Algorithms (⭐6k)](https://github.com/liuxinyu95/AlgoXY) - An awesome book about algorithms and data structures.
+*   [Elementary Algorithms (⭐6.1k)](https://github.com/liuxinyu95/AlgoXY) - An awesome book about algorithms and data structures.
 *   [Grokking Algorithms](http://www.manning.com/bhargava) - An illustrated book on algorithms with practical examples.
 *   [Introduction to Algorithms](http://mitpress.mit.edu/books/introduction-algorithms) - Essential!
 *   [The Art of Computer Programming](http://www-cs-faculty.stanford.edu/~uno/taocp.html) - The Book.
 
 ### Online Judges / Randomized Algorithms
 
-*   [AIZU ONLINE JUDGE](http://judge.u-aizu.ac.jp/onlinejudge/) - Japanese Online Judge.
 *   [Codeforces ](http://codeforces.com/) - The only programming contests Web 2.0 platform
 *   [CoderByte](http://www.coderbyte.com/) - A decent website with algorithm challenges from beginner to advanced levels. Supports most of the popular languages like C++, python, javascript, ruby.
 *   [HackerRank](https://www.hackerrank.com/) - Featured algorithm and functional programming online judges
@@ -100,7 +99,7 @@
 
 ### Database
 
-*   [LevelDB (⭐36k)](https://github.com/google/leveldb) - A fast key-value storage library written at Google that provides an ordered mapping from string keys to string values. \[BSD]
+*   [LevelDB (⭐37k)](https://github.com/google/leveldb) - A fast key-value storage library written at Google that provides an ordered mapping from string keys to string values. \[BSD]
 
 ## [10. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
@@ -120,12 +119,12 @@
 
 ### Frameworks
 
-*   [kitto (⭐952)](https://github.com/kittoframework/kitto) - A framework for interactive dashboards.
+*   [kitto (⭐957)](https://github.com/kittoframework/kitto) - A framework for interactive dashboards.
 
 ### Instrumenting / Monitoring
 
-*   [appsignal-elixir (⭐281)](https://github.com/appsignal/appsignal-elixir/) - Collects error and performance data from your Elixir applications and sends it to [AppSignal](https://appsignal.com/).
-*   [prometheus-phoenix (⭐70)](https://github.com/deadtrickster/prometheus-phoenix) - Phoenix instrumenter for prometheus.ex.
+*   [appsignal-elixir (⭐287)](https://github.com/appsignal/appsignal-elixir/) - Collects error and performance data from your Elixir applications and sends it to [AppSignal](https://appsignal.com/).
+*   [prometheus-phoenix (⭐71)](https://github.com/deadtrickster/prometheus-phoenix) - Phoenix instrumenter for prometheus.ex.
 *   [prometheus\_process\_collector (⭐52)](https://github.com/deadtrickster/prometheus_process_collector) - Prometheus collector which exports the current state of process metrics including cpu, memory, file descriptor usage and native threads count as well as the process start and up times.
 
 ### Macros
@@ -140,11 +139,11 @@
 
 ### Books
 
-*   [Getting Started - Elixir (⭐101)](https://github.com/potatogopher/elixir-getting-started) - PDF, MOBI, and EPUB documents for Elixir's Getting Started tutorial (2016).
+*   [Getting Started - Elixir (⭐100)](https://github.com/potatogopher/elixir-getting-started) - PDF, MOBI, and EPUB documents for Elixir's Getting Started tutorial (2016).
 
 ### Editors
 
-*   [ElixirSublime (⭐365)](https://github.com/vishnevskiy/ElixirSublime) - Elixir plugin for SublimeText 3 that provides code completion and linting.
+*   [ElixirSublime (⭐364)](https://github.com/vishnevskiy/ElixirSublime) - Elixir plugin for SublimeText 3 that provides code completion and linting.
 
 ## [12. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
 

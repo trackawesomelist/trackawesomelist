@@ -16,7 +16,7 @@
 
 ### ASM / Syntax highlighting packages
 
-*   [waveform-gb (⭐18)](https://github.com/dannye/waveform-gb) - Program visualizing the wave form used by the wave channel. The wave form can be edited freely and playback of the wave is updated immediately.
+*   [waveform-gb (⭐19)](https://github.com/dannye/waveform-gb) - Program visualizing the wave form used by the wave channel. The wave form can be edited freely and playback of the wave is updated immediately.
 
 ## [3. Awesome](/content/craftcms/awesome/README.md)
 
@@ -40,7 +40,7 @@
 
 ### Algorithms and Data structures
 
-*   [Algorithmia (⭐529)](https://github.com/SolutionsDesign/Algorithmia) - Algorithm and data-structure library for .NET 3.5 and up. Algorithmia contains sophisticated algorithms and data-structures like graphs, priority queues, command, undo-redo and more.
+*   [Algorithmia (⭐538)](https://github.com/SolutionsDesign/Algorithmia) - Algorithm and data-structure library for .NET 3.5 and up. Algorithmia contains sophisticated algorithms and data-structures like graphs, priority queues, command, undo-redo and more.
 
 ### Application Frameworks
 
@@ -48,11 +48,11 @@
 
 ### Compilers, Transpilers and Languages
 
-*   [Nemerle (⭐617)](https://github.com/rsdn/nemerle) - Nemerle is a high-level statically-typed programming language for the .NET platform. It offers functional, object-oriented and imperative features. It has a simple C#-like syntax and a powerful meta-programming system.
+*   [Nemerle (⭐622)](https://github.com/rsdn/nemerle) - Nemerle is a high-level statically-typed programming language for the .NET platform. It offers functional, object-oriented and imperative features. It has a simple C#-like syntax and a powerful meta-programming system.
 
 ### Documentation
 
-*   [DocNet (⭐248)](https://github.com/FransBouma/DocNet) - Your friendly static documentation generator, using markdown files to build the content.
+*   [DocNet (⭐250)](https://github.com/FransBouma/DocNet) - Your friendly static documentation generator, using markdown files to build the content.
 
 ### Event aggregator and messenger
 
@@ -60,22 +60,22 @@
 
 ### Logging
 
-*   [Foundatio (⭐1.9k)](https://github.com/FoundatioFx/Foundatio#logging) - A fluent logging API that can be used to log messages throughout your application.
+*   [Foundatio (⭐2k)](https://github.com/FoundatioFx/Foundatio#logging) - A fluent logging API that can be used to log messages throughout your application.
 
 ### Misc
 
-*   [Polly (⭐13k)](https://github.com/App-vNext/Polly) - Express transient-exception-handling and resilience policies such as Retry, Wait-and-Retry, Circuit Breaker, and Bulkhead Isolation in a fluent manner. Fully thread-safe and full async support.  (4.0 / 4.5 / .NET Core / .NET Standard / Xamarin).
+*   [Polly (⭐14k)](https://github.com/App-vNext/Polly) - Express transient-exception-handling and resilience policies such as Retry, Wait-and-Retry, Circuit Breaker, and Bulkhead Isolation in a fluent manner. Fully thread-safe and full async support.  (4.0 / 4.5 / .NET Core / .NET Standard / Xamarin).
 *   [Warden (⭐614)](https://github.com/warden-stack/Warden) - Define "health checks" for your applications, resources and infrastructure. Keep your Warden on the watch
 
 ### Queue
 
-*   [RestBus (⭐365)](https://github.com/tenor/RestBus) - A service-oriented .NET messaging library for RabbitMQ.
-*   [Confluent's .NET Client (⭐27)](https://github.com/confluentinc/confluent-kafka-dotnet) - Confluent's .NET Client for Apache Kafka.
-*   [Brighter (⭐2k)](https://github.com/BrighterCommand/Brighter) - Command Dispatcher, Processor, and Distributed Task Queue <https://www.goparamore.io/>
+*   [RestBus (⭐367)](https://github.com/tenor/RestBus) - A service-oriented .NET messaging library for RabbitMQ.
+*   [Confluent's .NET Client (⭐108)](https://github.com/confluentinc/confluent-kafka-dotnet) - Confluent's .NET Client for Apache Kafka.
+*   [Brighter (⭐2.1k)](https://github.com/BrighterCommand/Brighter) - Command Dispatcher, Processor, and Distributed Task Queue <https://www.goparamore.io/>
 
 ### Testing
 
-*   [Canopy (⭐505)](https://github.com/lefthandedgoat/canopy) - Canopy is a free, open source F# web automation and testing framework
+*   [Canopy (⭐508)](https://github.com/lefthandedgoat/canopy) - Canopy is a free, open source F# web automation and testing framework
 
 ## [7. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 

@@ -16,7 +16,7 @@
 
 ### Communications / MQTT
 
-*   [MQBoard (⭐118)](https://github.com/tve/mqboard) - A micro-framework for using MQTT with asyncio on MicroPython boards, primarily on the ESP32.
+*   [MQBoard (⭐121)](https://github.com/tve/mqboard) - A micro-framework for using MQTT with asyncio on MicroPython boards, primarily on the ESP32.
 *   [sonoff-mqtt by davea (⭐59)](https://github.com/davea/sonoff-mqtt) - MicroPython scripts to control Sonoff/ESP8266 using MQTT.
 *   [micropython-thingspeak-mqtt-esp8266 (⭐26)](https://github.com/miketeachman/micropython-thingspeak-mqtt-esp8266) - Publish and Subscribe to ThingSpeak using MQTT with MicroPython running on ESP8266/ESP32 platforms.
 
@@ -44,7 +44,7 @@
 
 ### Resources / Books
 
-*   [scriptum (⭐380)](https://github.com/kongware/scriptum/blob/master/README.md) - a no-frills functional programming library and a online course based on it
+*   [scriptum (⭐384)](https://github.com/kongware/scriptum/blob/master/README.md) - a no-frills functional programming library and a online course based on it
 
 ## [7. Awesome Nlg](/content/accelerated-text/awesome-nlg/README.md)
 
@@ -94,8 +94,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-text-middle-ellipsis (⭐9)](https://github.com/Tardigrada777/vue-text-middle-ellipsis) - A simple vue-directive(2+) that clamps the content in the middle of the element if the content inside is too long.
-*   [vue-toggles (⭐47)](https://github.com/juliandreas/vue-toggles) - A highly customizable and accessible toggle component
+*   [vue-toggles (⭐48)](https://github.com/juliandreas/vue-toggles) - A highly customizable and accessible toggle component
 
 ---
 

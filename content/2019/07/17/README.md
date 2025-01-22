@@ -18,8 +18,8 @@
 
 *   [yo (⭐3.8k)](https://github.com/yeoman/yo) - Scaffolding tool for running Yeoman generators.
 *   [boilr (⭐1.7k)](https://github.com/tmrts/boilr) - Create projects from boilerplate templates.
-*   [cookiecutter (⭐22k)](https://github.com/audreyr/cookiecutter) - Create projects from templates.
-*   [scaffold-static (⭐126)](https://github.com/jamesgeorge007/scaffold-static) - Scaffolding utility for vanilla JS.
+*   [cookiecutter (⭐23k)](https://github.com/audreyr/cookiecutter) - Create projects from templates.
+*   [scaffold-static (⭐127)](https://github.com/jamesgeorge007/scaffold-static) - Scaffolding utility for vanilla JS.
 
 ## [3. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
@@ -110,7 +110,7 @@
 
 ### Component Libraries
 
-*   [Microsoft Graph Toolkit (⭐916)](https://github.com/microsoftgraph/microsoft-graph-toolkit) - Collection of web components for the Microsoft Graph.
+*   [Microsoft Graph Toolkit (⭐936)](https://github.com/microsoftgraph/microsoft-graph-toolkit) - Collection of web components for the Microsoft Graph.
 
 ## [10. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 
@@ -122,7 +122,7 @@
 
 ### Developer Tools / Developer Utilities
 
-*   [SYM (⭐585)](https://github.com/zqqf16/SYM) - GUI Application to symbolicate iOS crash log. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/zqqf16/SYM)
+*   [SYM (⭐598)](https://github.com/zqqf16/SYM) - GUI Application to symbolicate iOS crash log. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/zqqf16/SYM)
 
 ## [12. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
@@ -140,11 +140,11 @@
 
 ## [14. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
-### Email Search / Email Check / Telegram
+### Email Search / Email Check / Steam
 
 *   [Hunter](https://hunter.io) - Hunter lets you find email addresses in seconds and connect with the people that matter for your business.
 
-### Threat Intelligence / Telegram
+### Threat Intelligence / Steam
 
 *   [OTX AlienVault](https://otx.alienvault.com/) - Open Threat Exchange is the neighborhood watch of the global intelligence community. It enables private companies, independent security researchers, and government agencies to openly collaborate and share the latest information about emerging threats, attack methods, and malicious actors, promoting greater security across the entire community.
 *   [REScure Threat Intel Feed](https://rescure.fruxlabs.com/) - REScure is an independent threat intelligence project which we undertook to enhance our understanding of distributed systems, their integration, the nature of threat intelligence and how to efficiently collect, store, consume, distribute it.

@@ -86,7 +86,7 @@
 
 ### Large Language Models (LLMs)
 
-*   [google/BIG-bench (⭐2.8k)](https://github.com/google/BIG-bench): "a collaborative benchmark intended to probe large language models and extrapolate their future capabilities"
+*   [google/BIG-bench (⭐2.9k)](https://github.com/google/BIG-bench): "a collaborative benchmark intended to probe large language models and extrapolate their future capabilities"
 
 ### LLMOps / Multi-agents
 
@@ -96,7 +96,7 @@
 
 ### Software / Office Suites
 
-*   [CryptPad](https://cryptpad.org) - CryptPad is a collaboration suite that is end-to-end-encrypted and open-source. It is built to enable collaboration, synchronizing changes to documents in real time. ([Source Code (⭐5.5k)](https://github.com/cryptpad/cryptpad)) `AGPL-3.0` `Nodejs/Docker`
+*   [CryptPad](https://cryptpad.org) - CryptPad is a collaboration suite that is end-to-end-encrypted and open-source. It is built to enable collaboration, synchronizing changes to documents in real time. ([Source Code (⭐5.8k)](https://github.com/cryptpad/cryptpad)) `AGPL-3.0` `Nodejs/Docker`
 
 ## [6. Awesome Preact](/content/preactjs/awesome-preact/README.md)
 
@@ -112,12 +112,12 @@
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [argc-completions (⭐211)](https://github.com/sigoden/argc-completions) - Uses [argc (⭐750)](https://github.com/sigoden/argc) and [jq (⭐30k)](https://github.com/stedolan/jq) to add ZSH tab completions.
+*   [argc-completions (⭐272)](https://github.com/sigoden/argc-completions) - Uses [argc (⭐853)](https://github.com/sigoden/argc) and [jq (⭐31k)](https://github.com/stedolan/jq) to add ZSH tab completions.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [astro (⭐102)](https://github.com/iplaces/astro-zsh-theme) - Based on the `ys` and [robbyrussell (⭐172k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#robbyrussell) themes.
-*   [bashlover (⭐2)](https://github.com/Vu0811/bashlover) - Designed for those who appreciate the powerful features of ZSH shell but still prefer a simple, classic interface similar to the `bash` shell. Includes decorators for `git` information, user\@host and the current working directory
+*   [astro (⭐103)](https://github.com/iplaces/astro-zsh-theme) - Based on the `ys` and [robbyrussell (⭐175k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#robbyrussell) themes.
+*   [bashlover (⭐3)](https://github.com/Vu0811/bashlover) - Designed for those who appreciate the powerful features of ZSH shell but still prefer a simple, classic interface similar to the `bash` shell. Includes decorators for `git` information, user\@host and the current working directory
 *   [msys2 (⭐0)](https://github.com/water-logger/MSYS2-Theme/) - Inspired by MSYS2. Includes decorators for user\@host, `git` status and the current directory.
 *   [pedantic (⭐0)](https://github.com/nemeshnorbert/pedantic-zsh-theme) - Customizable colors and output. Includes decorators for detailed `git` information, root status, last command's exit status, user\@host, current directory and the time.
 *   [stigmata (⭐0)](https://github.com/VLtim43/stigmata.zsh-theme) - Includes decorators for user\@host and current directory.

@@ -20,7 +20,7 @@
 
 ### Static Analysis / Security
 
-*   [Automatically approve and merge Dependabot updates (⭐223)](https://github.com/ridedott/dependabot-auto-merge-action)
+*   [Automatically approve and merge Dependabot updates (⭐310)](https://github.com/ridedott/dependabot-auto-merge-action)
 
 ## [3. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
@@ -60,12 +60,12 @@
 
 ### Utilities / Theming and Customization
 
-*   [QuickWall (⭐185)](https://github.com/deepjyoti30/QuickWall) - Directly set wallpapers from Unsplash.
+*   [QuickWall (⭐191)](https://github.com/deepjyoti30/QuickWall) - Directly set wallpapers from Unsplash.
 
 ### Data Manipulation / JSON
 
-*   [strip-json-comments-cli (⭐65)](https://github.com/sindresorhus/strip-json-comments-cli) - Strip comments from JSON.
-*   [GROQ (⭐191)](https://github.com/sanity-io/groq-cli) – JSON processor with queries and projections.
+*   [strip-json-comments-cli (⭐67)](https://github.com/sindresorhus/strip-json-comments-cli) - Strip comments from JSON.
+*   [GROQ (⭐203)](https://github.com/sanity-io/groq-cli) – JSON processor with queries and projections.
 
 ## [8. Awesome Waves](/content/msmolyakov/awesome-waves/README.md)
 
@@ -147,8 +147,8 @@
 
 ### Python / Reinforcement Learning
 
-*   [garage (⭐1.8k)](https://github.com/rlworkgroup/garage) - A toolkit for reproducible reinforcement learning research
-*   [metaworld (⭐1.2k)](https://github.com/rlworkgroup/metaworld) - An open source robotics benchmark for meta- and multi-task reinforcement learning
+*   [garage (⭐1.9k)](https://github.com/rlworkgroup/garage) - A toolkit for reproducible reinforcement learning research
+*   [metaworld (⭐1.3k)](https://github.com/rlworkgroup/metaworld) - An open source robotics benchmark for meta- and multi-task reinforcement learning
 
 ## [13. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
 

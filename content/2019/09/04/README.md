@@ -26,13 +26,13 @@
 
 ### UI / Barcode
 
-*   [ShowSomeProgress (⭐106)](https://github.com/stoneburner/ShowSomeProgress) - Animated Progress and Activity Indicators for iOS apps.
+*   [ShowSomeProgress (⭐107)](https://github.com/stoneburner/ShowSomeProgress) - Animated Progress and Activity Indicators for iOS apps.
 
 ## [4. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### Peripheral Access Crates / NXP
 
-*   [`lpc82x-pac`](https://crates.io/crates/lpc82x-pac) - ![crates.io](https://img.shields.io/crates/v/lpc82x-pac.svg)
+*   [`lpc82x-pac`](https://crates.io/crates/lpc82x-pac) - [![crates.io](https://img.shields.io/crates/v/lpc82x-pac.svg)](https://crates.io/crates/lpc82x-pac)
 
 ### HAL implementation crates / OS
 
@@ -73,7 +73,7 @@
 *   [keras-contrib (⭐1.6k)](https://github.com/keras-team/keras-contrib) - Keras community contributions. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/keras_big.png" alt="Keras compatible">
 *   [Hyperas (⭐2.2k)](https://github.com/maxpumperla/hyperas) - Keras + Hyperopt: A straightforward wrapper for a convenient hyperparameter. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/keras_big.png" alt="Keras compatible">
 *   [Elephas (⭐1.6k)](https://github.com/maxpumperla/elephas) - Distributed Deep learning with Keras & Spark. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/keras_big.png" alt="Keras compatible">
-*   [qkeras (⭐522)](https://github.com/google/qkeras) - A quantization deep learning library. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/keras_big.png" alt="Keras compatible">
+*   [qkeras (⭐532)](https://github.com/google/qkeras) - A quantization deep learning library. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/keras_big.png" alt="Keras compatible">
 
 ### Reinforcement Learning / Others
 
@@ -81,12 +81,12 @@
 *   [TensorForce (⭐3.3k)](https://github.com/reinforceio/tensorforce) - A TensorFlow library for applied reinforcement learning. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="TensorFlow">
 *   [TRFL (⭐3.1k)](https://github.com/deepmind/trfl) - TensorFlow Reinforcement Learning. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="sklearn">
 *   [keras-rl (⭐5.5k)](https://github.com/keras-rl/keras-rl) - Deep Reinforcement Learning for Keras. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/keras_big.png" alt="Keras compatible">
-*   [garage (⭐1.8k)](https://github.com/rlworkgroup/garage) - A toolkit for reproducible reinforcement learning research.
-*   [Horizon (⭐3.5k)](https://github.com/facebookresearch/Horizon) - A platform for Applied Reinforcement Learning.
+*   [garage (⭐1.9k)](https://github.com/rlworkgroup/garage) - A toolkit for reproducible reinforcement learning research.
+*   [Horizon (⭐3.6k)](https://github.com/facebookresearch/Horizon) - A platform for Applied Reinforcement Learning.
 
 ### Graph Machine Learning / Others
 
-*   [Spektral (⭐2.3k)](https://github.com/danielegrattarola/spektral) - Deep learning on graphs. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/keras_big.png" alt="Keras compatible">
+*   [Spektral (⭐2.4k)](https://github.com/danielegrattarola/spektral) - Deep learning on graphs. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/keras_big.png" alt="Keras compatible">
 
 ## [9. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 

@@ -16,34 +16,34 @@
 
 ### Utility / Docker Container Actions
 
-*   [Mind Your Language Action (⭐12)](https://github.com/tailaiw/mind-your-language-action) - Detect offensive comments in issues and pull requests, and warn senders.
+*   [Mind Your Language Action (⭐17)](https://github.com/tailaiw/mind-your-language-action) - Detect offensive comments in issues and pull requests, and warn senders.
 
 ### Static Analysis / Semantic Versioning
 
-*   [Run tfsec, with reviewdog output on the PR (⭐52)](https://github.com/reviewdog/action-tfsec)
+*   [Run tfsec, with reviewdog output on the PR (⭐71)](https://github.com/reviewdog/action-tfsec)
 
 ## [3. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
 ### GUI
 
-*   [SQLTools (⭐1.4k)](https://github.com/mtxr/vscode-sqltools) - Database management for VSCode.
+*   [SQLTools (⭐1.5k)](https://github.com/mtxr/vscode-sqltools) - Database management for VSCode.
 
 ### CLI
 
-*   [iredis (⭐2.5k)](https://github.com/laixintao/iredis) - A Cli for Redis with AutoCompletion and Syntax Highlighting.
+*   [iredis (⭐2.6k)](https://github.com/laixintao/iredis) - A Cli for Redis with AutoCompletion and Syntax Highlighting.
 
 ## [4. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Audio and Music
 
-*   [enginesound (⭐296)](https://github.com/DasEtwas/enginesound) - A GUI and command line application used to procedurally generate semi-realistic engine sounds. Featuring in-depth configuration, variable sample rate and a frequency analysis window.
+*   [enginesound (⭐319)](https://github.com/DasEtwas/enginesound) - A GUI and command line application used to procedurally generate semi-realistic engine sounds. Featuring in-depth configuration, variable sample rate and a frequency analysis window.
 
 ## [5. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
 
 ### Python / Data Sources
 
 *   [metatrader5](https://pypi.org/project/MetaTrader5/) - API Connector to MetaTrader 5 Terminal
-*   [akshare (⭐8.9k)](https://github.com/jindaxiang/akshare) - AkShare is an elegant and simple financial data interface library for Python, built for human beings! <https://akshare.readthedocs.io>
+*   [akshare (⭐10k)](https://github.com/jindaxiang/akshare) - AkShare is an elegant and simple financial data interface library for Python, built for human beings! <https://akshare.readthedocs.io>
 
 ## [6. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
 

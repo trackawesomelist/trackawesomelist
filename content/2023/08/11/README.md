@@ -26,7 +26,7 @@
 
 ### Applications / Web Servers
 
-*   [mu-arch/skyfolder (⭐120)](https://github.com/mu-arch/skyfolder) - 🪂 Beautiful HTTP/Bittorrent server without the hassle. Secure - GUI - Pretty - Fast
+*   [mu-arch/skyfolder (⭐137)](https://github.com/mu-arch/skyfolder) - 🪂 Beautiful HTTP/Bittorrent server without the hassle. Secure - GUI - Pretty - Fast
 
 ## [4. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
 

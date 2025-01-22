@@ -25,39 +25,39 @@
 
 ### Tools / C#
 
-*   [Strontium (⭐9)](https://github.com/jimevans/strontium) - A .NET implementation (but outdated) for Selenium/WebDriver (Remote) Server
+*   [Strontium (⭐10)](https://github.com/jimevans/strontium) - A .NET implementation (but outdated) for Selenium/WebDriver (Remote) Server
 
 ### Containers / Docker
 
-*   [bravostudiodev/bravo-grid (⭐6)](https://github.com/bravostudiodev/bravo-grid) - Docker image/setup for Selenium Grid Extras (see under Selenium Grid section), for providing remote Sikuli test/automation execution and grid node file upload/download support.
+*   [bravostudiodev/bravo-grid (⭐5)](https://github.com/bravostudiodev/bravo-grid) - Docker image/setup for Selenium Grid Extras (see under Selenium Grid section), for providing remote Sikuli test/automation execution and grid node file upload/download support.
 
 ### Driver / Mobile (browsers and apps)
 
 *   [Appium](http://appium.io/) - Appium is an open source test automation framework for use with native and hybrid mobile apps. It drives iOS, Android Apps using the WebDriver protocol.
 *   [ios-driver](http://ios-driver.github.io/ios-driver/) - Test any IOS native, hybrid, or mobile web application using Selenium / WebDriver.
-*   [WebDriverAgent (⭐53)](https://github.com/manishPatwari/WebDriverAgent) - a WebDriver server for iOS to remote control devices via WebDriver API.
+*   [WebDriverAgent (⭐52)](https://github.com/manishPatwari/WebDriverAgent) - a WebDriver server for iOS to remote control devices via WebDriver API.
 
 ### Driver / Desktop GUI Automation (non-browser-centric)
 
-*   [WinAppDriver (⭐3.2k)](https://github.com/Microsoft/WinAppDriver) - Microsoft's WebDriver implementation for Windows application automation.
-*   [Winium (⭐366)](https://github.com/2gis/Winium) - Automation framework for Windows platforms. It is free. It is opensource. It is Selenium-based. Supports: Windows Desktop (WPF, WinForms); Windows Store or Universal Apps for Windows Phone; Windows Phone Silverlight Apps.
-*   [QtWebDriver (⭐185)](https://github.com/cisco-open-source/qtwebdriver) - For using WebDriver to automate Qt-based GUI applications.
-*   [AutoItDriverServer (⭐32)](https://github.com/daluu/AutoItDriverServer) - Selenium server to control/drive AutoIt via (Remote)WebDriver API.
-*   [AutoPyDriverServer (⭐14)](https://github.com/daluu/AutoPyDriverServer) - Selenium server to control/drive AutoPy via (Remote)WebDriver API.
+*   [WinAppDriver (⭐3.7k)](https://github.com/Microsoft/WinAppDriver) - Microsoft's WebDriver implementation for Windows application automation.
+*   [Winium (⭐387)](https://github.com/2gis/Winium) - Automation framework for Windows platforms. It is free. It is opensource. It is Selenium-based. Supports: Windows Desktop (WPF, WinForms); Windows Store or Universal Apps for Windows Phone; Windows Phone Silverlight Apps.
+*   [QtWebDriver (⭐199)](https://github.com/cisco-open-source/qtwebdriver) - For using WebDriver to automate Qt-based GUI applications.
+*   [AutoItDriverServer (⭐31)](https://github.com/daluu/AutoItDriverServer) - Selenium server to control/drive AutoIt via (Remote)WebDriver API.
+*   [AutoPyDriverServer (⭐16)](https://github.com/daluu/AutoPyDriverServer) - Selenium server to control/drive AutoPy via (Remote)WebDriver API.
 *   [SilkAppDriver (⭐8)](https://github.com/MicroFocus/SilkAppDriver) - Selenium server to control/drive the commercial SilkTest platform via (Remote)WebDriver API.
 
 ### Desktop Tools / Desktop GUI Automation (non-browser-centric)
 
-*   [SWET (⭐34)](https://github.com/sergueik/SWET) - A successor to SWD Page Recorder, for the same functionality.
+*   [SWET (⭐39)](https://github.com/sergueik/SWET) - A successor to SWD Page Recorder, for the same functionality.
 *   [Looking Glass (⭐52)](https://github.com/dmolchanenko/LookingGlass) - Java application that offers a cross-browser element inspector and Selenium code generator.
 *   [Silk WebDriver](https://www.microfocus.com/products/silk-portfolio/silk-webdriver/) - A Selenium IDE alternative for record, playback, and script export, from the creators of SilkTest.
 *   [Fire IE Selenium](https://code.google.com/archive/p/fire-ie-selenium/) - Microsoft Excel-based tool providing element inspection for Internet Explorer browser.
 
 ### Selenium Grid / Desktop GUI Automation (non-browser-centric)
 
-*   [Selenium Grid Extras (⭐537)](https://github.com/groupon/Selenium-Grid-Extras) - A framework that provides additional features beyond the basic Selenium Grid like video recording.
-*   [SeLion (⭐271)](https://github.com/paypal/SeLion) - A (Java) framework for running Selenium tests with additional features beyond the basic Selenium Grid functionality, particularly like stability improvements, etc.
-*   [Selenium Grid Extensions (⭐46)](https://github.com/sterodium/selenium-grid-extensions) - A set of extensions for Selenium Grid that provide additional features like running Sikuli tests/automation remotely, upload/download files on a grid node.
+*   [Selenium Grid Extras (⭐536)](https://github.com/groupon/Selenium-Grid-Extras) - A framework that provides additional features beyond the basic Selenium Grid like video recording.
+*   [SeLion (⭐282)](https://github.com/paypal/SeLion) - A (Java) framework for running Selenium tests with additional features beyond the basic Selenium Grid functionality, particularly like stability improvements, etc.
+*   [Selenium Grid Extensions (⭐47)](https://github.com/sterodium/selenium-grid-extensions) - A set of extensions for Selenium Grid that provide additional features like running Sikuli tests/automation remotely, upload/download files on a grid node.
 
 ### Blogs / Desktop GUI Automation (non-browser-centric)
 
@@ -96,7 +96,7 @@
 
 ### Animation, Graphics & Video Playout
 
-*   [Open Playout Automation (⭐174)](https://github.com/jaskie/PlayoutAutomation) - A CasparCG-based MCR play-out system.
+*   [Open Playout Automation (⭐178)](https://github.com/jaskie/PlayoutAutomation) - A CasparCG-based MCR play-out system.
 
 ## [6. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 

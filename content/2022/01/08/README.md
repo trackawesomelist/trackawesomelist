@@ -14,12 +14,12 @@
 
 ### Board support crates / Adafruit
 
-*   [`feather-f405`](https://crates.io/crates/feather-f405) - Board support for the [Feather STM32F405 Express](https://www.adafruit.com/product/4382). ![crates.io](https://img.shields.io/crates/v/feather-f405.svg)
-*   [`adafruit-feather-rp2040`](https://github.com/rp-rs/rp-hal) - Board Support Crate for the [Adafruit Feather RP2040](https://www.adafruit.com/product/4884) ![crates.io](https://img.shields.io/crates/v/adafruit-feather-rp2040.svg)
-*   [`adafruit-itsy-bitsy-rp2040`](https://github.com/rp-rs/rp-hal) - Board Support Crate for the [Adafruit ItsyBitsy RP2040](https://www.adafruit.com/product/4888) ![crates.io](https://img.shields.io/crates/v/adafruit-itsy-bitsy-rp2040.svg)
-*   [`adafruit-kb2040`](https://github.com/rp-rs/rp-hal) - Board Support Crate for the [Adafruit KB2040](https://www.adafruit.com/product/5302) ![crates.io](https://img.shields.io/crates/v/adafruit-kb2040.svg)
-*   [`adafruit-macropad`](https://github.com/rp-rs/rp-hal) - Board Support Crate for the [Adafruit Macropad](https://www.adafruit.com/product/5128) ![crates.io](https://img.shields.io/crates/v/adafruit-macropad.svg)
-*   [`adafruit-qt-py-rp2040`](https://github.com/rp-rs/rp-hal) - Board Support Crate for the [Adafruit QT Py RP2040](https://www.adafruit.com/product/4900) ![crates.io](https://img.shields.io/crates/v/adafruit-qt-py-rp2040.svg)
+*   [`feather-f405`](https://crates.io/crates/feather-f405) - Board support for the [Feather STM32F405 Express](https://www.adafruit.com/product/4382). [![crates.io](https://img.shields.io/crates/v/feather-f405.svg)](https://crates.io/crates/feather-f405)
+*   [`adafruit-feather-rp2040`](https://github.com/rp-rs/rp-hal) - Board Support Crate for the [Adafruit Feather RP2040](https://www.adafruit.com/product/4884) [![crates.io](https://img.shields.io/crates/v/adafruit-feather-rp2040.svg)](https://crates.io/crates/adafruit-feather-rp2040)
+*   [`adafruit-itsy-bitsy-rp2040`](https://github.com/rp-rs/rp-hal) - Board Support Crate for the [Adafruit ItsyBitsy RP2040](https://www.adafruit.com/product/4888) [![crates.io](https://img.shields.io/crates/v/adafruit-itsy-bitsy-rp2040.svg)](https://crates.io/crates/adafruit-itsy-bitsy-rp2040)
+*   [`adafruit-kb2040`](https://github.com/rp-rs/rp-hal) - Board Support Crate for the [Adafruit KB2040](https://www.adafruit.com/product/5302) [![crates.io](https://img.shields.io/crates/v/adafruit-kb2040.svg)](https://crates.io/crates/adafruit-kb2040)
+*   [`adafruit-macropad`](https://github.com/rp-rs/rp-hal) - Board Support Crate for the [Adafruit Macropad](https://www.adafruit.com/product/5128) [![crates.io](https://img.shields.io/crates/v/adafruit-macropad.svg)](https://crates.io/crates/adafruit-macropad)
+*   [`adafruit-qt-py-rp2040`](https://github.com/rp-rs/rp-hal) - Board Support Crate for the [Adafruit QT Py RP2040](https://www.adafruit.com/product/4900) [![crates.io](https://img.shields.io/crates/v/adafruit-qt-py-rp2040.svg)](https://crates.io/crates/adafruit-qt-py-rp2040)
 
 ## [2. Awesome Geojson](/content/tmcw/awesome-geojson/README.md)
 
@@ -48,23 +48,23 @@
 ### Tools / Community providers
 
 *   [hcldump (⭐8)](https://github.com/magodo/hcldump) - Dump the HCL (v2) abstract syntax tree.
-*   [hclgrep (⭐88)](https://github.com/magodo/hclgrep) - Syntax based grep for HCL(v2).
+*   [hclgrep (⭐92)](https://github.com/magodo/hclgrep) - Syntax based grep for HCL(v2).
 
 ## [6. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
 ### CLI
 
-*   [SQLLine (⭐607)](https://github.com/julianhyde/sqlline) - Command-line shell for issuing SQL to relational databases via JDBC.
+*   [SQLLine (⭐630)](https://github.com/julianhyde/sqlline) - Command-line shell for issuing SQL to relational databases via JDBC.
 
 ### Backup / Samples
 
-*   [BaRMan (⭐1.9k)](https://github.com/2ndquadrant-it/barman) - Backup and Recovery Manager for PostgreSQL.
-*   [pgbackrest (⭐2.3k)](https://github.com/pgbackrest/pgbackrest) - Reliable PostgreSQL Backup & Restore.
+*   [BaRMan (⭐2.2k)](https://github.com/2ndquadrant-it/barman) - Backup and Recovery Manager for PostgreSQL.
+*   [pgbackrest (⭐2.7k)](https://github.com/pgbackrest/pgbackrest) - Reliable PostgreSQL Backup & Restore.
 
 ### SQL / Language Server Protocol
 
-*   [SQLLanguageServer (⭐655)](https://github.com/joe-re/sql-language-server) - SQL Language Server.
-*   [sqls (⭐919)](https://github.com/lighttiger2505/sqls) - SQL Language Server written in Go.
+*   [SQLLanguageServer (⭐707)](https://github.com/joe-re/sql-language-server) - SQL Language Server.
+*   [sqls (⭐1k)](https://github.com/lighttiger2505/sqls) - SQL Language Server written in Go.
 
 ## [7. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
@@ -76,25 +76,25 @@
 
 ### Other plugins
 
-*   [Data Storage SQlite (⭐76)](https://github.com/jepiqueau/capacitor-data-storage-sqlite) - Providing a key-value permanent store for simple data of type string only to SQLite on IOS, Android and Electron platforms and to IndexedDB for the Web platform.
+*   [Data Storage SQlite (⭐82)](https://github.com/jepiqueau/capacitor-data-storage-sqlite) - Providing a key-value permanent store for simple data of type string only to SQLite on IOS, Android and Electron platforms and to IndexedDB for the Web platform.
 
 ## [9. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / Data Analysis / Data Visualization
 
-*   [Vaex (⭐8.2k)](https://github.com/vaexio/vaex) - A high performance Python library for lazy Out-of-Core DataFrames (similar to Pandas), to visualize and explore big tabular datasets. Documentation can be found [here](https://vaex.io/docs/index.html).
+*   [Vaex (⭐8.3k)](https://github.com/vaexio/vaex) - A high performance Python library for lazy Out-of-Core DataFrames (similar to Pandas), to visualize and explore big tabular datasets. Documentation can be found [here](https://vaex.io/docs/index.html).
 
 ## [10. Awesome Bash](/content/awesome-lists/awesome-bash/README.md)
 
 ### Command-Line Productivity
 
-*   [bashhub-server (⭐303)](https://github.com/nicksherron/bashhub-server) - Privately hosted open source bashhub server.
+*   [bashhub-server (⭐305)](https://github.com/nicksherron/bashhub-server) - Privately hosted open source bashhub server.
 
 ## [11. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
 ### Languages / Python
 
-*   [tinyman-py-sdk (⭐117)](https://github.com/tinymanorg/tinyman-py-sdk) - Tinyman Python SDK.
+*   [tinyman-py-sdk (⭐118)](https://github.com/tinymanorg/tinyman-py-sdk) - Tinyman Python SDK.
 
 ### Name Services / Wallets
 
@@ -111,7 +111,7 @@
 ### Feature Flags
 
 *   [Flagsmith](https://flagsmith.com/) - Feature flags-as-a-service platform simplified.
-*   [LaunchDarkly](https://launchdarkly.com/) - Feature flags-as-a-service platform.
+*   [LaunchDarkly](https://launchdarkly.com/) - Feature flags-as-a-service platform. [![featured on launchweek.dev](https://img.shields.io/badge/featured-0D1117.svg?style=flat-square\&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMzYwIiBoZWlnaHQ9IjM2MCIgdmlld0JveD0iMCAwIDM2MCAzNjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+IDxyZWN0IHdpZHRoPSI2MCIgaGVpZ2h0PSIzMDAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjYwIiB5PSIzMDAiIHdpZHRoPSIxMjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjI0MCIgeT0iMzAwIiB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjMwMCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjMwMCIgZmlsbD0id2hpdGUiLz4gPHJlY3QgeD0iMTgwIiB3aWR0aD0iNjAiIGhlaWdodD0iMzAwIiBmaWxsPSJ3aGl0ZSIvPiA8L3N2Zz4=)](https://launchweek.dev)
 
 ---
 

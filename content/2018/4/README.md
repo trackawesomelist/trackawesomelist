@@ -10,11 +10,11 @@
 
 ### HTML Widgets
 
-*   [highcharter (⭐705)](https://github.com/jbkunst/highcharter) - R wrapper for highcharts based on htmlwidgets
+*   [highcharter (⭐723)](https://github.com/jbkunst/highcharter) - R wrapper for highcharts based on htmlwidgets
 
 ### Spatial
 
-*   [tigris (⭐314)](https://github.com/walkerke/tigris) - Download and use Census TIGER/Line shapefiles in R
+*   [tigris (⭐325)](https://github.com/walkerke/tigris) - Download and use Census TIGER/Line shapefiles in R
 
 ## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
@@ -63,15 +63,15 @@
 
 *   [NODESK](https://nodesk.co/remote-jobs/)
 
-### Others / Others
+### Newsletters
 
-*   [NODESK](https://nodesk.co/) - 3000+ articles, remote jobs, resources and tools for digital nomads and remote workers.
+*   [NODESK](https://nodesk.co/) - A newsletter about digital nomads and remote work that is sent out every two weeks.
 
 ## [9. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Routing
 
-*   [orion (⭐124)](https://github.com/obsidian/orion) - A minimal, rails-esque routing library
+*   [orion (⭐123)](https://github.com/obsidian/orion) - A minimal, rails-esque routing library
 
 ## [10. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
@@ -87,7 +87,7 @@
 
 ### Libraries
 
-*   [Ramda Adjunct (⭐679)](https://github.com/char0n/ramda-adjunct) is a community-maintained extension of Ramda.
+*   [Ramda Adjunct (⭐682)](https://github.com/char0n/ramda-adjunct) is a community-maintained extension of Ramda.
 
 ### Resources / Articles
 
@@ -113,7 +113,7 @@
 
 ### Job processing / Third-party APIs
 
-*   [psychiq (⭐51)](https://github.com/fukamachi/psychiq) - redis-based background job processing for Common Lisp applications. Inspired by Ruby's Sidekiq and compatible with its web UI. [LLGPL](http://opensource.franz.com/preamble.html).
+*   [psychiq (⭐54)](https://github.com/fukamachi/psychiq) - redis-based background job processing for Common Lisp applications. Inspired by Ruby's Sidekiq and compatible with its web UI. [LLGPL](http://opensource.franz.com/preamble.html).
 
 ### Logging / Third-party APIs
 
@@ -172,17 +172,13 @@
 
 *   [vue-r-mask (⭐22)](https://github.com/raidan00/vue-r-mask) - Directive with template similar to javascript regular expression.
 
-### Components & Libraries / UI Utilities
-
-*   [vue-scroll-stop (⭐41)](https://github.com/voxtobox/vue-scroll-stop) - Stops propagation scroll when edge reached.
-
 ## [21. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
-### Academic Resources and Grey Literature / Telegram
+### Academic Resources and Grey Literature / Steam
 
 *   [The Collection of Computer Science Bibliographies](https://liinwww.ira.uka.de/bibliography/index.html) - The CCSB is a collection of bibliographies of scientific literature in computer science from various sources, covering most aspects of computer science.
 
-### Offline Browsing / Telegram
+### Offline Browsing / Steam
 
 *   [A1 Website Download](http://www.microsystools.com/products/website-download) - Download entire websites to disk.
 *   [HTTrack](http://www.httrack.com) - Allows you to download a World Wide Web site from the Internet to a local directory, building recursively all directories, getting HTML, images, and other files from the server to your computer.
@@ -227,7 +223,7 @@
 
 ### Email
 
-*   [burnex (⭐71)](https://github.com/Betree/burnex) - Burner email (temporary address) detector.
+*   [burnex (⭐73)](https://github.com/Betree/burnex) - Burner email (temporary address) detector.
 
 ## [28. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
@@ -237,7 +233,7 @@
 
 ### Misc
 
-*   [DeviceDetector.NET (⭐339)](https://github.com/totpero/DeviceDetector.NET) - The Universal Device Detection library will parse any User Agent and detect the browser, operating system, device used (desktop, tablet, mobile, tv, cars, console, etc.), brand and model.
+*   [DeviceDetector.NET (⭐360)](https://github.com/totpero/DeviceDetector.NET) - The Universal Device Detection library will parse any User Agent and detect the browser, operating system, device used (desktop, tablet, mobile, tv, cars, console, etc.), brand and model.
 
 ### Web Frameworks
 
@@ -263,7 +259,7 @@
 
 ### Cursors / Skeumorphic Icons
 
-*   [Bibata (⭐1.9k)](https://github.com/KaizIqbal/Bibata_Cursor) - Silm material-based cursor theme.
+*   [Bibata (⭐2.2k)](https://github.com/KaizIqbal/Bibata_Cursor) - Silm material-based cursor theme.
 *   [Capitaine Cursors (⭐1.1k)](https://github.com/keeferrourke/capitaine-cursors) - An x-cursor theme inspired by macOS and based on KDE Breeze. Designed to be paired with La Capitaine icons.
 
 ## [31. Awesome Devenv](/content/jondot/awesome-devenv/week/README.md)
@@ -318,7 +314,7 @@
 
 ### App Store
 
-*   [InAppPurchase (⭐286)](https://github.com/jinSasaki/InAppPurchase) - A Simple, Lightweight and Safe framework for In App Purchase.
+*   [InAppPurchase (⭐289)](https://github.com/jinSasaki/InAppPurchase) - A Simple, Lightweight and Safe framework for In App Purchase.
 
 ### JSON
 
@@ -326,7 +322,7 @@
 
 ### Device
 
-*   [Thingy (⭐59)](https://github.com/bojan/Thingy) - A modern device detection and querying library.
+*   [Thingy (⭐60)](https://github.com/bojan/Thingy) - A modern device detection and querying library.
 
 ### Cryptography / Barcode
 
@@ -334,7 +330,7 @@
 
 ### HUD / Barcode
 
-*   [GradientLoadingBar (⭐887)](https://github.com/fxm90/GradientLoadingBar) - An animated gradient loading bar.
+*   [GradientLoadingBar (⭐889)](https://github.com/fxm90/GradientLoadingBar) - An animated gradient loading bar.
 
 ## [36. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
 
@@ -394,8 +390,8 @@
 
 ### Boilerplates
 
-*   [Next Redux Starter (⭐373)](https://github.com/CodementorIO/nextjs-redux-starter) - Next.js starter with Express, Redux, and PostCSS.
-*   [Staart (⭐314)](https://github.com/nmaro/staart) - 😎 Actively maintained Next.js components library *and* minimal boilerplate to rapidly get staarted with app with working user accounts based on Ooth.
+*   [Next Redux Starter](https://github.com/CodementorIO/nextjs-redux-starter) - Next.js starter with Express, Redux, and PostCSS.
+*   [Staart (⭐313)](https://github.com/nmaro/staart) - 😎 Actively maintained Next.js components library *and* minimal boilerplate to rapidly get staarted with app with working user accounts based on Ooth.
 
 ---
 

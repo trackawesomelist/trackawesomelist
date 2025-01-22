@@ -16,7 +16,7 @@
 
 ### Queue
 
-*   [amqp (⭐676)](https://github.com/pma/amqp) - Simple Elixir wrapper for the Erlang RabbitMQ client, based on Langohr.
+*   [amqp (⭐685)](https://github.com/pma/amqp) - Simple Elixir wrapper for the Erlang RabbitMQ client, based on Langohr.
 
 ## [3. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
@@ -42,7 +42,7 @@
 
 ### R Development
 
-*   [installr (⭐266)](https://github.com/talgalili/installr/) - Functions for installing softwares from within R (for Windows).
+*   [installr (⭐272)](https://github.com/talgalili/installr/) - Functions for installing softwares from within R (for Windows).
 
 ## [6. Awesome Answers](/content/cyberglot/awesome-answers/README.md)
 

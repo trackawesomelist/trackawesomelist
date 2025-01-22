@@ -40,7 +40,7 @@
 
 ### Authorization
 
-*   [AccessGranted (⭐774)](https://github.com/chaps-io/access-granted) - Multi-role and whitelist based authorization gem for Rails.
+*   [AccessGranted (⭐776)](https://github.com/chaps-io/access-granted) - Multi-role and whitelist based authorization gem for Rails.
 
 ### Caching
 
@@ -84,11 +84,11 @@
 
 ### Packages / Text
 
-*   [babelfish (⭐254)](https://github.com/nodeca/babelfish) - i18n with very easy syntax for plurals.
+*   [babelfish (⭐255)](https://github.com/nodeca/babelfish) - i18n with very easy syntax for plurals.
 
 ### Packages / Math
 
-*   [algebra (⭐106)](https://github.com/fibo/algebra) - Algebraic structures.
+*   [algebra (⭐107)](https://github.com/fibo/algebra) - Algebraic structures.
 
 ## [11. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/README.md)
 

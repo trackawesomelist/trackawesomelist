@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 05, 2021
 
-13 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -17,12 +17,12 @@
 ### Projects / Libraries
 
 *   [Bedrock Bit Vectors (⭐27)](https://github.com/mit-plv/bbv) - Library for reasoning on fixed precision machine words.
-*   [CoLoR (⭐33)](https://github.com/fblanqui/color) - Library on rewriting theory, lambda-calculus and termination, with sub-libraries on common data structures extending the Coq standard library.
+*   [CoLoR (⭐35)](https://github.com/fblanqui/color) - Library on rewriting theory, lambda-calculus and termination, with sub-libraries on common data structures extending the Coq standard library.
 *   [Flocq](https://gitlab.inria.fr/flocq/flocq) - Formalization of floating-point numbers and computations.
 
 ### Projects / Tools
 
-*   [coq-dpdgraph (⭐85)](https://github.com/coq-community/coq-dpdgraph) - Tool for building dependency graphs between Coq objects.
+*   [coq-dpdgraph (⭐88)](https://github.com/coq-community/coq-dpdgraph) - Tool for building dependency graphs between Coq objects.
 
 ## [3. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
@@ -31,18 +31,6 @@
 *   [pearxteam/kpastebin (⭐10)](https://github.com/pearxteam/kpastebin) - Multiplatform Kotlin library to interact with the pastebin.com API
 
 ## [4. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
-
-### Strategy
-
-### [The Estates](https://boardgamegeek.com/boardgame/249381/estates)
-
-> Players take on the role of investors seeking to make the most money by developing buildings in The Estates. The Estates is a new urban development featuring high-end infrastructure and a modern atmosphere for its citizens. The City Council recently approved the zoning map for The Estates. It calls for two rows of four buildings each, located between the River and Main Street. The meadows on the other side of the River are to remain a recreational area for the City. Players will bid for the various building pieces and place them in The Estates to their benefit. All buildings in completed rows score positive points, while all buildings in incomplete rows score negative points. It is possible to have zero completed rows of buildings. At the end, the player with the highest score wins The Estates!
-
-![The Estates image](https://cf.geekdo-images.com/AvC3AzHo8JlcvgKtQ3PDWA__itemrep/img/fKXzvy-mkwqrTORbPC-aNLB_ei8=/fit-in/246x300/filters:strip_icc\(\)/pic4071903.jpg)
-
-| Players | Min. Age |   Time |
-| ------: | -------: | -----: |
-|   2 - 5 |       10 | 40-60m |
 
 ### Party
 
@@ -62,19 +50,13 @@
 
 *   [Tuning MongoDB performance for production systems (Marek Trunkat, Apify)](https://blog.apify.com/tuning-mongodb-performance/) - The techniques and MongoDB Cloud features to debug performance issues and expose sub-optimal queries
 
-## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / Frameworks
-
-*   [Vue-Admin-Template (⭐9)](https://github.com/Mani1124/vue-admin-template) - A beautiful free vuejs admin template, designed using vuetify and apexcharts. [Live Demo](https://mani1124.github.io)
-
-## [7. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
+## [6. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / Tools
 
-*   [One Second Diary (⭐258)](https://github.com/KyleKun/one_second_diary) - Minimalist Video Diary app by [KyleKun](https://github.com/KyleKun).
+*   [One Second Diary (⭐287)](https://github.com/KyleKun/one_second_diary) - Minimalist Video Diary app by [KyleKun](https://github.com/KyleKun).
 
-## [8. Awesome Low Code](/content/zenitysec/awesome-low-code/README.md)
+## [7. Awesome Low Code](/content/zenitysec/awesome-low-code/README.md)
 
 ### Tools, Extensions and Frameworks / Power Platform (Microsoft)
 
@@ -121,71 +103,71 @@
 
 *   [Awesome Microsoft Power Platform (⭐79)](https://github.com/Power-Maverick/awesome-power-platform) - A collection of awesome things regarding the Power Platform ecosystem.
 
-## [9. Awesome Icons](/content/vkarampinis/awesome-icons/README.md)
+## [8. Awesome Icons](/content/vkarampinis/awesome-icons/README.md)
 
 ### Generic
 
 *   [Simple icons](https://simpleicons.org/) - Over 1000 Free SVG icons for popular brands.
 *   [Mono Icons](https://icons.mono.company) - A simple, consistent open-source icon set designed to be used in a wide variety of digital products
 
-## [10. Awesome Seml](/content/SE-ML/awesome-seml/README.md)
+## [9. Awesome Seml](/content/SE-ML/awesome-seml/README.md)
 
 ### Governance
 
 *   [Beyond Debiasing](https://complexdiscovery.com/wp-content/uploads/2021/09/EDRi-Beyond-Debiasing-Report.pdf)
 
-## [11. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [10. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Templates / React
 
-*   [Vitamin (⭐533)](https://github.com/wtchnm/Vitamin) - React TypeScript, TailwindCSS, SPA + PWA, Cypress and CI.
-*   [vitejs-template-react-rescript (⭐125)](https://github.com/jihchi/vitejs-template-react-rescript) - React + ReScript.
-*   [vite-react-ts-tailwind-firebase-starter (⭐275)](https://github.com/TeXmeijin/vite-react-ts-tailwind-firebase-starter) - Starter using Vite + React + TypeScript + Tailwind CSS (daisyUI) + Firebase (v9) + Prettier + ESLint.
+*   [Vitamin (⭐565)](https://github.com/wtchnm/Vitamin) - React TypeScript, TailwindCSS, SPA + PWA, Cypress and CI.
+*   [vitejs-template-react-rescript (⭐127)](https://github.com/jihchi/vitejs-template-react-rescript) - React + ReScript.
+*   [vite-react-ts-tailwind-firebase-starter (⭐287)](https://github.com/TeXmeijin/vite-react-ts-tailwind-firebase-starter) - Starter using Vite + React + TypeScript + Tailwind CSS (daisyUI) + Firebase (v9) + Prettier + ESLint.
 
-### Templates / Elm
+### Tauri / Elm
 
-*   [vite-elm-template (⭐123)](https://github.com/lindsaykwardell/vite-elm-template) - A default template for building Elm applications.
+*   [vite-elm-template (⭐132)](https://github.com/lindsaykwardell/vite-elm-template) - A default template for building Elm applications.
 
 ### Framework-agnostic Plugins / Loaders
 
-*   [unplugin-icons (⭐3.9k)](https://github.com/antfu/unplugin-icons) - Access thousands of icons as components.
+*   [unplugin-icons (⭐4.2k)](https://github.com/antfu/unplugin-icons) - Access thousands of icons as components.
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [rollup-plugin-critical (⭐90)](https://github.com/nystudio107/rollup-plugin-critical) - Generate critical CSS.
+*   [rollup-plugin-critical (⭐103)](https://github.com/nystudio107/rollup-plugin-critical) - Generate critical CSS.
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-virtual-html (⭐71)](https://github.com/Windson1806/vite-plugin-virtual-html) - Make Vite MPA consistent with `@vue/cli`.
-*   [vite-plugin-global-style (⭐127)](https://github.com/originjs/origin.js/tree/main/packages/vite-plugin-global-style) - Deal with global styles for CSS, SASS, LESS and Stylus.
+*   [vite-plugin-virtual-html (⭐74)](https://github.com/Windson1806/vite-plugin-virtual-html) - Make Vite MPA consistent with `@vue/cli`.
+*   [vite-plugin-global-style (⭐132)](https://github.com/originjs/origin.js/tree/main/packages/vite-plugin-global-style) - Deal with global styles for CSS, SASS, LESS and Stylus.
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-mkcert (⭐568)](https://github.com/liuweiGL/vite-plugin-mkcert) - Provide certificates https dev server.
-*   [vitawind (⭐155)](https://github.com/huibizhang/vitawind) - Install and Setting Tailwind CSS automatically.
-*   [unplugin-auto-import (⭐3.2k)](https://github.com/antfu/unplugin-auto-import) - On-demand API auto-importing.
-*   [vite-plugin-inspect (⭐1.2k)](https://github.com/antfu/vite-plugin-inspect) - Inspect the intermediate state of Vite plugins.
+*   [vite-plugin-mkcert (⭐621)](https://github.com/liuweiGL/vite-plugin-mkcert) - Provide certificates https dev server.
+*   [vitawind (⭐160)](https://github.com/huibizhang/vitawind) - Install and Setting Tailwind CSS automatically.
+*   [unplugin-auto-import (⭐3.4k)](https://github.com/antfu/unplugin-auto-import) - On-demand API auto-importing.
+*   [vite-plugin-inspect (⭐1.3k)](https://github.com/antfu/vite-plugin-inspect) - Inspect the intermediate state of Vite plugins.
 
 ### Vue / Integrations
 
-*   ![v2](https://img.shields.io/badge/-v2-42b883) [unplugin-vue2-script-setup (⭐598)](https://github.com/antfu/unplugin-vue2-script-setup) - Enabling `<script setup>` syntax for Vue 2.
+*   ![v2](https://img.shields.io/badge/-v2-42b883) [unplugin-vue2-script-setup (⭐604)](https://github.com/antfu/unplugin-vue2-script-setup) - Enabling `<script setup>` syntax for Vue 2.
 
 ### Vue / Helpers
 
-*   ![v23](https://img.shields.io/badge/-2%2F3-3C8171) [unplugin-vue-components (⭐3.7k)](https://github.com/antfu/unplugin-vue-components) - On-demand components auto-importing.
+*   ![v23](https://img.shields.io/badge/-2%2F3-3C8171) [unplugin-vue-components (⭐3.9k)](https://github.com/antfu/unplugin-vue-components) - On-demand components auto-importing.
 *   ![v2](https://img.shields.io/badge/-v2-42b883) [vite-plugin-vue2-suffix (⭐9)](https://github.com/williamyorkl/vite-plugin-vue2-suffix) - Compatible without '.vue' suffix.
 
 ### Rollup Plugins / Covered by default in Vite
 
-*   [@rollup/plugin-typescript (⭐3.6k)](https://github.com/rollup/plugins/tree/master/packages/typescript) - Integration between Rollup and TypeScript.
+*   [@rollup/plugin-typescript (⭐3.7k)](https://github.com/rollup/plugins/tree/master/packages/typescript) - Integration between Rollup and TypeScript.
 
-## [12. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+## [11. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
 ### Compiler Design
 
 *   [Introduction to Compilers and Language Design](https://www3.nd.edu/~dthain/compilerbook/compilerbook.pdf) - Douglas Thain (PDF)
 
-## [13. Public Apis](/content/public-apis/public-apis/README.md)
+## [12. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Blockchain
 
@@ -198,8 +180,6 @@
   HTTPS: Yes
 
   CORS: Unknown
-
-  Call this API: 
 
 
 
@@ -319,7 +299,7 @@
   CORS: Yes
 
 
-- API: [Botd (⭐988)](https://github.com/fingerprintjs/botd)
+- API: [Botd (⭐1.1k)](https://github.com/fingerprintjs/botd)
 
   Description: Botd is a browser library for JavaScript bot detection
 

@@ -29,7 +29,7 @@
 
 ### Projection Mapping • VJing
 
-*   [VirtualMapper (⭐228)](https://github.com/baku89/VirtualMapper) - Realtime preview tool for projection mapping.
+*   [VirtualMapper (⭐225)](https://github.com/baku89/VirtualMapper) - Realtime preview tool for projection mapping.
 
 ## [3. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -43,10 +43,6 @@
 
 *   [Vue.js Introduction For People Who Know Just Enough jQuery To Get By](https://medium.com/@mattrothenberg/vue-js-introduction-for-people-who-know-just-enough-jquery-to-get-by-eab5aa193d77)
 *   [Fetching Data from a Third-Party API with Vue.js and Axios](https://www.sitepoint.com/fetching-data-third-party-api-vue-axios/)
-
-### Components & Libraries / UI Components
-
-*   [vue-js-modal (⭐4.4k)](https://github.com/euvl/vue-js-modal) - Simple to use, highly customizable, mobile friendly Vue.js 2.0+ modal with 0 dependencies.
 
 ## [5. Awesome Neuroscience](/content/analyticalmonk/awesome-neuroscience/README.md)
 

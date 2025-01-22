@@ -10,13 +10,13 @@
 
 ### Documentation
 
-*   [AnnotateRb (⭐195)](https://github.com/drwl/annotaterb) - Adds database schema annotations for your ActiveRecord models as text comments as well as routes. An active and maintained hard fork of Annotate.
+*   [AnnotateRb (⭐217)](https://github.com/drwl/annotaterb) - Adds database schema annotations for your ActiveRecord models as text comments as well as routes. An active and maintained hard fork of Annotate.
 
 ## [2. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Strings
 
-*   [strcase (⭐5)](https://github.com/charlievieth/strcase) - Case-insensitive implementation of the standard library's strings/bytes packages.
+*   [strcase (⭐6)](https://github.com/charlievieth/strcase) - Case-insensitive implementation of the standard library's strings/bytes packages.
 
 ## [3. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
 
@@ -52,7 +52,7 @@
 
 ### Drag and Drop / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-drag-resize (⭐7)](https://github.com/dmytro-parfenov/ngx-drag-resize) - This Angular library provides directives that add drag and resize functionality to HTML elements.
+*   [ngx-drag-resize (⭐9)](https://github.com/dmytro-parfenov/ngx-drag-resize) - This Angular library provides directives that add drag and resize functionality to HTML elements.
 
 ### Mixed utilities / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -66,7 +66,7 @@
 
 ### GitHub / Diagnostics
 
-*   [claydugo/browsher.nvim (⭐2)](https://github.com/claydugo/browsher.nvim) - Create commit pinned links to GitHub hosted files/lines. Avoid stale links.
+*   [claydugo/browsher.nvim (⭐6)](https://github.com/claydugo/browsher.nvim) - Create commit pinned links to GitHub hosted files/lines. Avoid stale links.
 
 ## [7. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
@@ -76,10 +76,6 @@
 *   [Top 100+ Data Science Interview Questions and Answers](https://www.appliedaicourse.com/blog/data-science-interview-questions/)
 
 ## [8. Awesome Osint](/content/jivoi/awesome-osint/README.md)
-
-### Username Check / Steam
-
-*   [Cupidcr4wl (⭐18)](https://github.com/OSINTI4L/cupidcr4wl) - A username search tool that crawls adult content platforms to see if a targeted account or person is present.
 
 ### Domain and IP Research / Steam
 
@@ -93,7 +89,7 @@
 
 ### Framework Components
 
-*   [live\_vue (⭐246)](https://github.com/Valian/live_vue) - End-to-end reactivity for Phoenix LiveView and Vue.
+*   [live\_vue (⭐279)](https://github.com/Valian/live_vue) - End-to-end reactivity for Phoenix LiveView and Vue.
 
 ## [10. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
@@ -103,7 +99,7 @@
 
 ### Web Servers
 
-*   [GenHTTP (⭐196)](https://github.com/Kaliumhexacyanoferrat/GenHTTP) - A lightweight, embeddable web server for quickly creating REST APIs
+*   [GenHTTP (⭐207)](https://github.com/Kaliumhexacyanoferrat/GenHTTP) - A lightweight, embeddable web server for quickly creating REST APIs
 
 ## [11. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
 
@@ -127,27 +123,28 @@
 
 ### Templates / React
 
-*   [react-admin-dashboard (⭐2)](https://github.com/larry-xue/react-admin-dashboard) - Dashboard template with `TypeScript`, `Vite`, `Ant Design`, `React Router`, `Zustand`, `Ant Design Charts`.
+*   [react-admin-dashboard (⭐6)](https://github.com/larry-xue/react-admin-dashboard) - Dashboard template with `TypeScript`, `Vite`, `Ant Design`, `React Router`, `Zustand`, `Ant Design Charts`.
 
 ### Tauri / Electron
 
-*   [HuLa (⭐579)](https://github.com/HuLaSpark/HuLa) - is a desktop instant messaging app built on `Vite 5` + `Vue 3` + `TypeScript` + `Tauri` (not just instant messaging).
+*   [HuLa (⭐806)](https://github.com/HuLaSpark/HuLa) - is a desktop instant messaging app built on `Vite 5` + `Vue 3` + `TypeScript` + `Tauri` (not just instant messaging).
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-vanilla (⭐6)](https://github.com/Marinerer/vite-plugins/tree/main/packages/vanilla) - Vanilla multi-page web development model.
-*   [vite-plugin-year (⭐1)](https://github.com/8hobbies/vite-plugin-year) -  Inserts the current year to the html file during build. Useful for adding a copyright year to the HTML file.
+*   [vite-plugin-vanilla (⭐6)](https://github.com/Marinerer/vite-plugins/tree/main/packages/vanilla) - Vanilla multi-page web development mode.
+*   [vite-plugin-year (⭐1)](https://github.com/8hobbies/vite-plugin-year) - Inserts the current year to the HTML file during build. Useful for adding a copyright year to the HTML file.
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-replace-lodash (⭐1)](https://github.com/mingtianyihou33/vite-plugin-replace-lodash) - Replacing the import of `lodash` with `lodash-es` is more beneficial to tree-shaking.
+*   [vite-plugin-replace-lodash (⭐2)](https://github.com/mingtianyihou33/vite-plugin-replace-lodash) - Replacing the import of `lodash` with `lodash-es` is more beneficial to tree-shaking.
 
 ## [14. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [uv (⭐0)](https://github.com/lipov3cz3k/zsh-uv) - Tab completion for [uv (⭐26k)](https://github.com/astral-sh/uv).
+*   [uv (⭐1)](https://github.com/lipov3cz3k/zsh-uv) - Tab completion for [uv (⭐36k)](https://github.com/astral-sh/uv).
 
 ---
 
+- Prev: [Nov 27, 2024](/content/2024/11/27/README.md)
 - Next: [Nov 25, 2024](/content/2024/11/25/README.md)

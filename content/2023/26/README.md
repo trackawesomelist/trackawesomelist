@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 26 - Jul 02, 2023
 
-48 awesome lists updated this week.
+47 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,8 +10,8 @@
 
 ### Scripts / ChatGPT
 
-*   [ChatGPT Infinity](https://chatgptinfinity.com) - Generate endless answers from all-knowing ChatGPT (in any language!)
-*   [ChatGPT Widescreen Mode](https://chatgptwidescreen.com) - Adds Widescreen + Fullscreen modes to ChatGPT + Poe.
+*   [ChatGPT Infinity](https://chatgptinfinity.com) - Generate endless answers from all-knowing ChatGPT (on any topic!)
+*   [ChatGPT Widescreen Mode](https://chatgptwidescreen.com) - Enhances ChatGPT with wide/full/tall-screen + spamblock modes. Also works on perplexity.ai + poe.com!
 
 ## [2. awsm.fish](/content/jorgebucaran/awsm.fish/week/README.md)
 
@@ -23,11 +23,11 @@
 
 ### ⚙️ Middlewares / 🌱 Third Party
 
-*   [Idan-Fishman/fiber-bind (⭐8)](https://github.com/Idan-Fishman/fiber-bind) - Request schema validator middleware that validates sources such as the request body, query string parameters, route parameters and even form files.
+*   [Idan-Fishman/fiber-bind (⭐12)](https://github.com/Idan-Fishman/fiber-bind) - Request schema validator middleware that validates sources such as the request body, query string parameters, route parameters and even form files.
 
 ### 🛠️ Tools / 🌱 Third Party
 
-*   [deepmap/oapi-codegen (⭐5k)](https://github.com/deepmap/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications.
+*   [deepmap/oapi-codegen (⭐6.5k)](https://github.com/deepmap/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications.
 
 ## [4. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
 
@@ -46,20 +46,20 @@
 
 ### Data Manipulation / Processors
 
-*   [xq (⭐752)](https://github.com/sibprogrammer/xq) - XML and HTML beautifier and content extractor.
+*   [xq (⭐855)](https://github.com/sibprogrammer/xq) - XML and HTML beautifier and content extractor.
 
 ## [7. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### TYPO3 CMS / Community
 
-*   [vite-asset-collector for TYPO3 (⭐40)](https://github.com/s2b/vite-asset-collector) - Backend integration for TYPO3 CMS.
+*   [vite-asset-collector for TYPO3 (⭐41)](https://github.com/s2b/vite-asset-collector) - Backend integration for TYPO3 CMS.
 
 ## [8. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
 ### Resources / Learning
 
 *   [Nix - A One Pager](https://code.tvl.fyi/about/nix/nix-1p) - A one page introduction to the Nix language.
-*   [NixOS & Flakes Book (⭐1.8k)](https://github.com/ryan4yin/nixos-and-flakes-book) - An unofficial and opinionated NixOS & Flakes book for beginners.
+*   [NixOS & Flakes Book (⭐2.2k)](https://github.com/ryan4yin/nixos-and-flakes-book) - An unofficial and opinionated NixOS & Flakes book for beginners.
 *   [Wombat's Book of Nix](https://mhwombat.codeberg.page/nix-book/) - A book-length introduction to Nix and flakes.
 
 ## [9. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
@@ -76,14 +76,14 @@
 
 ### Miscellaneous
 
-*   [ChatGPT (⭐4.9k)](https://github.com/sindresorhus/awesome-chatgpt#readme) - Artificial intelligence chatbot developed by OpenAI.
-*   [Whisper (⭐1.1k)](https://github.com/sindresorhus/awesome-whisper#readme) - Open-source AI-powered speech recognition system developed by OpenAI.
+*   [ChatGPT (⭐5.2k)](https://github.com/sindresorhus/awesome-chatgpt#readme) - Artificial intelligence chatbot developed by OpenAI.
+*   [Whisper (⭐1.3k)](https://github.com/sindresorhus/awesome-whisper#readme) - Open-source AI-powered speech recognition system developed by OpenAI.
 
 ## [11. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Projects
 
-*   [zoom-rs (⭐1.3k)](https://github.com/security-union/zoom-rs) - Zoom clone written in rust for research purposes.
+*   [zoom-rs (⭐1.4k)](https://github.com/security-union/zoom-rs) - Zoom clone written in rust for research purposes.
 
 ## [12. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
 
@@ -95,7 +95,7 @@
 
 ### Resources / Tutorials & workshops
 
-*   [Polars cookbook in Python (⭐242)](https://github.com/escobar-west/polars-cookbook) - This cookbook is a fork of the popular pandas-cookbook and has been modified to use the polars library. By [@escobar-west](https://github.com/escobar-west), it uses real-world examples with "all the bugs and weirdness that entails."
+*   [Polars cookbook in Python (⭐255)](https://github.com/escobar-west/polars-cookbook) - This cookbook is a fork of the popular pandas-cookbook and has been modified to use the polars library. By [@escobar-west](https://github.com/escobar-west), it uses real-world examples with "all the bugs and weirdness that entails."
 
 ## [14. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
@@ -109,11 +109,11 @@
 
 ### Software / Java
 
-*   [GraphStore (⭐67)](https://github.com/gephi/graphstore) - In-memory graph structure implementation, powering Gephi.
+*   [GraphStore (⭐71)](https://github.com/gephi/graphstore) - In-memory graph structure implementation, powering Gephi.
 
 ### Software / JavaScript
 
-*   [Gephi Lite (⭐171)](https://github.com/gephi/gephi-lite) - Web-based, lighter version of Gephi.
+*   [Gephi Lite (⭐203)](https://github.com/gephi/gephi-lite) - Web-based, lighter version of Gephi.
 
 ### Software / Python
 
@@ -121,7 +121,7 @@
 
 ### Software / R
 
-*   [netUtils (⭐14)](https://github.com/schochastics/netUtils) - Various network functions and methods, e.g. computing the Cartesian product of two graphs or fitting a discrete core periphery model.
+*   [netUtils (⭐15)](https://github.com/schochastics/netUtils) - Various network functions and methods, e.g. computing the Cartesian product of two graphs or fitting a discrete core periphery model.
 
 ### Software / Syntaxes
 
@@ -153,11 +153,11 @@ Free (Open Source)
 
 ### Templating
 
-*   [sneeze (⭐58)](https://github.com/JuneKelly/sneeze) - Render elixir data structures to HTML. Inspired by [hiccup (⭐2.7k)](https://github.com/weavejester/hiccup).
+*   [sneeze (⭐59)](https://github.com/JuneKelly/sneeze) - Render elixir data structures to HTML. Inspired by [hiccup (⭐2.7k)](https://github.com/weavejester/hiccup).
 
 ### Third Party APIs
 
-*   [telegex (⭐126)](https://github.com/telegex/telegex) - Telegram bot framework and API client written in Elixir.
+*   [telegex (⭐144)](https://github.com/telegex/telegex) - Telegram bot framework and API client written in Elixir.
 
 ## [18. Awesome Speakers](/content/karlhorky/awesome-speakers/week/README.md)
 
@@ -187,7 +187,7 @@ Topics: BigQuery, Databases, Voice Based Interfaces, Cloud, Architecture\
 
 ### Others
 
-*   [Blazor.MediaCaptureStreams (⭐67)](https://github.com/KristofferStrube/Blazor.MediaCaptureStreams) - ![stars](https://img.shields.io/github/stars/KristofferStrube/Blazor.MediaCaptureStreams?style=flat-square\&cacheSeconds=604800) ![last-commit](https://img.shields.io/github/last-commit/KristofferStrube/Blazor.MediaCaptureStreams?style=flat-square\&cacheSeconds=86400) A Blazor wrapper for the Media Capture and Streams browser API. The API standardizes ways to request access to local multimedia devices, such as microphones or video cameras. This also includes the MediaStream API, which provides the means to control where multimedia stream data is consumed, and provides some information and configuration options for the devices that produce the media. This project implements a wrapper around the API for Blazor so that we can easily and safely interact with the media streams of the browser. [Demo](https://kristofferstrube.github.io/Blazor.MediaCaptureStreams/).
+*   [Blazor.MediaCaptureStreams (⭐74)](https://github.com/KristofferStrube/Blazor.MediaCaptureStreams) - ![stars](https://img.shields.io/github/stars/KristofferStrube/Blazor.MediaCaptureStreams?style=flat-square\&cacheSeconds=604800) ![last-commit](https://img.shields.io/github/last-commit/KristofferStrube/Blazor.MediaCaptureStreams?style=flat-square\&cacheSeconds=86400) A Blazor wrapper for the Media Capture and Streams browser API. The API standardizes ways to request access to local multimedia devices, such as microphones or video cameras. This also includes the MediaStream API, which provides the means to control where multimedia stream data is consumed, and provides some information and configuration options for the devices that produce the media. This project implements a wrapper around the API for Blazor so that we can easily and safely interact with the media streams of the browser. [Demo](https://kristofferstrube.github.io/Blazor.MediaCaptureStreams/).
 
 ### Videos / Others
 
@@ -243,34 +243,28 @@ Topics: BigQuery, Databases, Voice Based Interfaces, Cloud, Architecture\
 
 *   [A Rake Too Far: Optimal Platform Pricing Strategy](https://abovethecrowd.com/2013/04/18/a-rake-too-far-optimal-platformpricing-strategy/) - A bit of vocabulary: “In a casino, the term *rake* refers to the commission that the house earns for operating a poker game. (…) While casinos use the term *rake*, a plethora of interesting word choices exist which all describe the same thing – keeping a little bit of the revenue for the company that is running the service.”
 
-## [22. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/week/README.md)
-
-### **Numbers LLM** / **GPT series release date**
-
-*   [Open AI Tokenizer](https://platform.openai.com/tokenizer): GPT-3, Codex Token counting
-
-## [23. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [22. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Queues and Messaging
 
-*   [JobIteration (⭐1.1k)](https://github.com/Shopify/job-iteration) - An ActiveJob extension to make long-running jobs interruptible and resumable.
-*   [SidekiqIteration (⭐265)](https://github.com/fatkodima/sidekiq-iteration) - A Sidekiq extension to make long-running jobs interruptible and resumable.
+*   [JobIteration (⭐1.2k)](https://github.com/Shopify/job-iteration) - An ActiveJob extension to make long-running jobs interruptible and resumable.
+*   [SidekiqIteration (⭐274)](https://github.com/fatkodima/sidekiq-iteration) - A Sidekiq extension to make long-running jobs interruptible and resumable.
 
-## [24. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [23. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Other / [Other](#other-1)
 
-*   [RefactorFirst (⭐355)](https://github.com/jimbethancourt/RefactorFirst) — Identifies and prioritizes God Classes and Highly Coupled classes in Java codebases you should refactor first.
+*   [RefactorFirst (⭐460)](https://github.com/jimbethancourt/RefactorFirst) — Identifies and prioritizes God Classes and Highly Coupled classes in Java codebases you should refactor first.
 
 ### Programming Languages / [Other](#other-1)
 
-*   [Regal (⭐245)](https://github.com/styrainc/regal) — Regal is a linter for the policy language Rego. Regal aims to catch bugs and mistakes in policy code, while at the same time helping people learn the language, best practices and idiomatic constructs.
+*   [Regal (⭐270)](https://github.com/styrainc/regal) — Regal is a linter for the policy language Rego. Regal aims to catch bugs and mistakes in policy code, while at the same time helping people learn the language, best practices and idiomatic constructs.
 
-## [25. Awesome Groovy](/content/kdabir/awesome-groovy/week/README.md)
+## [24. Awesome Groovy](/content/kdabir/awesome-groovy/week/README.md)
 
 ### Build tools, setup and CI
 
-*   [skeletal (⭐11)](https://github.com/cbmarcum/skeletal) - A simple project creation tool that uses packaged templates (successor of Lazybones)
+*   [skeletal (⭐17)](https://github.com/cbmarcum/skeletal) - A simple project creation tool that uses packaged templates (successor of Lazybones)
 
 ### Database
 
@@ -280,24 +274,24 @@ Topics: BigQuery, Databases, Voice Based Interfaces, Cloud, Architecture\
 
 *   [Community Over Code](https://communityovercode.org/) - have a Groovy Track
 
-## [26. Awesome Steam](/content/scholtzm/awesome-steam/week/README.md)
+## [25. Awesome Steam](/content/scholtzm/awesome-steam/week/README.md)
 
 ### Go / Misc
 
 *   [steam (⭐16)](https://github.com/0xAozora/steam) - Simple steam library for trading in Go.
 *   [go-steam (⭐377)](https://github.com/Philipp15b/go-steam) - Steam's protocol in Go.
 
-## [27. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [26. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### IDE Extensions
 
-*   [LSP support for Emacs (⭐181)](https://github.com/merrickluo/lsp-tailwindcss) - LSP support for Emacs.
+*   [LSP support for Emacs (⭐197)](https://github.com/merrickluo/lsp-tailwindcss) - LSP support for Emacs.
 
 ### Tools
 
 *   💼 [DivMagic](https://divmagic.com) - Copy any web element and style as Tailwind CSS component.
 
-## [28. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+## [27. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
 ### General Section / Svelte
 
@@ -315,72 +309,66 @@ Topics: BigQuery, Databases, Voice Based Interfaces, Cloud, Architecture\
 *   [Hungry Minds](https://hungryminds.dev). A free weekly newsletter that get one mind-shaping idea, high-signal AI/Tech/Business news, and under-the-radar trends and tools to keep you hungry.
 *   [Product Hunt](https://www.producthunt.com/newsletter). Daily curated tech products and startups.
 
-## [29. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
+## [28. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
 
 ### OAuth2 & OpenID / Other tools
 
 *   [The problem with OAuth for Authentication](http://www.thread-safe.com/2012/01/problem-with-oauth-for-authentication.html) - “The problem is that OAuth 2.0 is a Delegated Authorization protocol, and not a Authentication protocol.” 10 years after, this article is still the best explanation on [why use OpenID Connect instead of plain OAuth2](https://security.stackexchange.com/a/260519)?
 
-## [30. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [29. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### Unit Test, Testing / Apache License
 
-*   [aunit (⭐7)](https://github.com/AdaCore/aunit) - Ada unit testing framework.
+*   [aunit (⭐8)](https://github.com/AdaCore/aunit) - Ada unit testing framework.
 
 ### Misc / Apache License
 
 *   [adage (⭐6)](https://github.com/atalii/adage) - An Ada/SPARK alternative to sudo and doas.
 
-## [31. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [30. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Blockchain
 
-*   [cairo-vm (⭐490)](https://github.com/lambdaclass/cairo-vm) - Implementation of the Cairo VM [![rust](https://github.com/lambdaclass/cairo-vm/actions/workflows/rust.yml/badge.svg)](https://github.com/lambdaclass/cairo-vm/actions/workflows/rust.yml)
+*   [cairo-vm (⭐531)](https://github.com/lambdaclass/cairo-vm) - Implementation of the Cairo VM [![rust](https://github.com/lambdaclass/cairo-vm/actions/workflows/rust.yml/badge.svg)](https://github.com/lambdaclass/cairo-vm/actions/workflows/rust.yml)
 
 ### Libraries / Artificial Intelligence
 
-*   [coreylowman/dfdx (⭐1.7k)](https://github.com/coreylowman/dfdx) - CUDA accelerated machine learning framework that leverages many of Rust's unique features. ![Crates.io](https://img.shields.io/crates/v/dfdx)
+*   [coreylowman/dfdx (⭐1.8k)](https://github.com/coreylowman/dfdx) - CUDA accelerated machine learning framework that leverages many of Rust's unique features. ![Crates.io](https://img.shields.io/crates/v/dfdx)
 
 ### Libraries / Command-line
 
 *   Style
-    *   [colored (⭐1.7k)](https://github.com/colored-rs/colored) \[[colored](https://crates.io/crates/colored)] - Coloring terminal so simple, you already know how to do it!
-    *   [console-rs/dialoguer (⭐1.3k)](https://github.com/console-rs/dialoguer) \[[dialoguer](https://crates.io/crates/dialoguer)] - Library for command line prompts and similar things.
-    *   [LukasKalbertodt/bunt (⭐220)](https://github.com/LukasKalbertodt/bunt) \[[bunt](https://crates.io/crates/bunt)] - cross-platform terminal colors and styling with macros [![Build status](https://github.com/LukasKalbertodt/bunt/actions/workflows/ci.yml/badge.svg)](https://github.com/LukasKalbertodt/bunt/actions?query=workflow%3ACI+branch%3Amaster)
-    *   [LukasKalbertodt/term-painter (⭐78)](https://github.com/LukasKalbertodt/term-painter) \[[term-painter](https://crates.io/crates/term-painter)] - cross-platform styled terminal output
-    *   [ogham/rust-ansi-term (⭐447)](https://github.com/ogham/rust-ansi-term) \[[ansi\_term](https://crates.io/crates/ansi_term)] - control colours and formatting on ANSI terminals
-    *   [SergioBenitez/yansi (⭐238)](https://github.com/SergioBenitez/yansi) \[[yansi](https://crates.io/crates/yansi)] - A dead simple ANSI terminal color painting library
+    *   [colored (⭐1.8k)](https://github.com/colored-rs/colored) \[[colored](https://crates.io/crates/colored)] - Coloring terminal so simple, you already know how to do it!
+    *   [console-rs/dialoguer (⭐1.4k)](https://github.com/console-rs/dialoguer) \[[dialoguer](https://crates.io/crates/dialoguer)] - Library for command line prompts and similar things.
+    *   [LukasKalbertodt/bunt (⭐225)](https://github.com/LukasKalbertodt/bunt) \[[bunt](https://crates.io/crates/bunt)] - cross-platform terminal colors and styling with macros [![Build status](https://github.com/LukasKalbertodt/bunt/actions/workflows/ci.yml/badge.svg)](https://github.com/LukasKalbertodt/bunt/actions?query=workflow%3ACI+branch%3Amaster)
+    *   [LukasKalbertodt/term-painter (⭐79)](https://github.com/LukasKalbertodt/term-painter) \[[term-painter](https://crates.io/crates/term-painter)] - cross-platform styled terminal output
+    *   [ogham/rust-ansi-term (⭐463)](https://github.com/ogham/rust-ansi-term) \[[ansi\_term](https://crates.io/crates/ansi_term)] - control colours and formatting on ANSI terminals
+    *   [SergioBenitez/yansi (⭐255)](https://github.com/SergioBenitez/yansi) \[[yansi](https://crates.io/crates/yansi)] - A dead simple ANSI terminal color painting library
 
 ### Libraries / Finance
 
-*   [avhz/RustQuant (⭐1k)](https://github.com/avhz/RustQuant) \[[RustQuant](https://crates.io/crates/RustQuant)] - A quantitative finance library. ![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/avhz/RustQuant/build.yml)
+*   [avhz/RustQuant (⭐1.2k)](https://github.com/avhz/RustQuant) \[[RustQuant](https://crates.io/crates/RustQuant)] - A quantitative finance library. ![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/avhz/RustQuant/build.yml)
 
-## [32. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
-
-### Software / Communication - Custom Communication Systems
-
-*   [Dendrite](https://matrix-org.github.io/dendrite/) - Second-generation Matrix homeserver written in Go. It intends to provide an efficient, reliable and scalable alternative to Synapse. ([Source Code (⭐5.6k)](https://github.com/matrix-org/dendrite)) `Apache-2.0` `Go`
-*   [Synapse](https://matrix-org.github.io/synapse/latest/) - Server for [Matrix](https://matrix.org/), an open standard for decentralized persistent communication. ([Source Code (⭐1.2k)](https://github.com/element-hq/synapse)) `Apache-2.0` `Python/deb`
+## [31. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / DNS
 
-*   [Pi-hole](https://pi-hole.net/) - A blackhole for Internet advertisements with a GUI for management and monitoring. ([Source Code (⭐48k)](https://github.com/pi-hole/pi-hole)) `EUPL-1.2` `Shell/PHP/Docker`
+*   [Pi-hole](https://pi-hole.net/) - A blackhole for Internet advertisements with a GUI for management and monitoring. ([Source Code (⭐50k)](https://github.com/pi-hole/pi-hole)) `EUPL-1.2` `Shell/PHP/Docker`
 
 ### Software / Games - Administrative Utilities & Control Panels
 
-*   [Lodestone (⭐767)](https://github.com/Lodestone-Team/lodestone) - A free, open source server hosting tool for Minecraft and other multiplayers. `AGPL-3.0` `Docker/Rust`
-*   [SourceBans++](https://sbpp.github.io/) - Admin, ban, and communication management system for games running on the Source engine. ([Source Code (⭐332)](https://github.com/sbpp/sourcebans-pp)) `CC-BY-SA-4.0` `PHP`
+*   [Lodestone (⭐887)](https://github.com/Lodestone-Team/lodestone) - A free, open source server hosting tool for Minecraft and other multiplayers. `AGPL-3.0` `Docker/Rust`
+*   [SourceBans++](https://sbpp.github.io/) - Admin, ban, and communication management system for games running on the Source engine. ([Source Code (⭐340)](https://github.com/sbpp/sourcebans-pp)) `CC-BY-SA-4.0` `PHP`
 
 ### Software / Miscellaneous
 
-*   [Mere Medical](https://meremedical.co/) `⚠` - With Mere Medical, you can finally manage all of your medical records from Epic MyChart, Cerner, and OnPatient patient portals in one place. Privacy-focused, self-hosted, and offline-first. ([Demo](https://demo.meremedical.co), [Source Code (⭐64)](https://github.com/cfu288/mere-medical)) `GPL-3.0` `Docker/Nodejs`
+*   [Mere Medical](https://meremedical.co/) `⚠` - With Mere Medical, you can finally manage all of your medical records from Epic MyChart, Cerner, and OnPatient patient portals in one place. Privacy-focused, self-hosted, and offline-first. ([Demo](https://demo.meremedical.co), [Source Code (⭐81)](https://github.com/cfu288/mere-medical)) `GPL-3.0` `Docker/Nodejs`
 
-## [33. Magictools](/content/ellisonleao/magictools/week/README.md)
+## [32. Magictools](/content/ellisonleao/magictools/week/README.md)
 
 ### Graphics / Vector/Image Editor
 
 *   :tada: [SVGcode](https://svgco.de/) - SVGcode is a Progressive Web App that lets you convert raster images like JPG, PNG, GIF, WebP, AVIF, etc. to vector graphics in SVG format.
-*   :money\_with\_wings: [Vector mMgic](https://vectormagic.com/) - Free Raster to Vector Graphics Converter
 *   :tada: [VTracer](https://www.visioncortex.org/vtracer/) - Raster to Vector Graphics Converter built on top of visioncortex
 
 ### Graphics / Modeling
@@ -388,15 +376,11 @@ Topics: BigQuery, Databases, Voice Based Interfaces, Cloud, Architecture\
 *   :money\_with\_wings: [Besel](https://www.bezel.it/hq) - Make a 3d real-time collaboration design and prototype in your VR headset or mobile AR.
 *   :money\_with\_wings: [Daz 3D](https://www.daz3d.com/) - A 3D software allows you to easily create custom scenes and characters in seconds.
 *   :free: [sculptris](https://sculptris.br.uptodown.com/windows) - A version by Pixologic and the original [1.01](https://www.moddb.com/downloads/sculptris)
-*   :money\_with\_wings: [Spline](https://spline.design/) - A 3d colalaborative real-time
+*   :money\_with\_wings: [Spline](https://spline.design/) - A 3d collaborative real-time
 *   :free: [Womp](https://womp.com/) - A 3D intuitive and easy to use for create right in your browser
-*   :free: [ZBRUSHCOREMINI](https://www.maxon.net/en/zbrushcoremini) - The new version of sculpris by MAXON
+*   :free: [ZBRUSHCOREMINI](https://www.maxon.net/en/zbrushcoremini) - The new version of sculptris by MAXON
 
-### Graphics / Voxel Editors
-
-*   :free: [Vengi](https://mgerhardy.github.io/vengi/)
-
-## [34. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [33. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -408,7 +392,7 @@ Topics: BigQuery, Databases, Voice Based Interfaces, Cloud, Architecture\
 *   [hijack (⭐1)](https://github.com/thegodheehee/hijack-zsh) - Includes decorators for user\@hostname, current directory, and `git` information.
 *   [monsi (⭐0)](https://github.com/rafa-wine/monsi_oh-my-zsh_theme) - Includes `git` status, last command exit status and current directory decorators.
 
-## [35. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
+## [34. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
 
 ### Ports to other languages
 
@@ -448,7 +432,7 @@ Topics: BigQuery, Databases, Voice Based Interfaces, Cloud, Architecture\
 *   [FlagAI (⭐3.8k)](https://github.com/FlagAI-Open/FlagAI): FlagAI (Fast LArge-scale General AI models) is a fast, easy-to-use and extensible toolkit for large-scale model. ![GitHub Repo stars](https://img.shields.io/github/stars/FlagAI-Open/FlagAI?style=social)
 *   [AI.JSX (⭐1k)](https://github.com/fixie-ai/ai-jsx): The AI Application Framework for Javascript ![GitHub Repo stars](https://img.shields.io/github/stars/fixie-ai/ai-jsx?style=social)
 
-## [36. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [35. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Concepts / Human Concept Representation
 
@@ -458,7 +442,7 @@ Topics: BigQuery, Databases, Voice Based Interfaces, Cloud, Architecture\
 
 *   [Discrete Mathematics and Its Applications](https://faculty.ksu.edu.sa/sites/default/files/rosen_discrete_mathematics_and_its_applications_7th_edition.pdf). Classic course on basic discrete mathematics, including matheatical logic, set theory, graph theory, formal language (and automata), basic number theory (e.g., counting), and other related topics.
 
-## [37. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [36. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### Germany 🇩🇪 / Berlin
 
@@ -493,23 +477,23 @@ Webpage: <https://www.instagram.com/osskaffe.es/>
 | ---- | ----- | ------------------------------------------------------------------------------------------ | ---------- |
 | ✔    | ✔     | [C/ de Joaquín Costa, 26, 08001 Barcelona, Espanha](https://goo.gl/maps/PhKVDsLp1WbHLA2z7) |            |
 
-## [38. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [37. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### no-std crates / WIP
 
-*   [idsp](https://crates.io/crates/idsp): integer DSP algorithms (trigonometry, filtering, PLL...) tuned for precision and speed - ![crates.io](https://img.shields.io/crates/v/idsp.svg)
+*   [idsp](https://crates.io/crates/idsp): integer DSP algorithms (trigonometry, filtering, PLL...) tuned for precision and speed - [![crates.io](https://img.shields.io/crates/v/idsp.svg)](https://crates.io/crates/idsp)
 
-## [39. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [38. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Database
 
-*   [Speedb (⭐882)](https://github.com/speedb-io/speedb) - Community-led project: A RocksDB compliant high performance scalable embedded key-value store. \[Apache2]
+*   [Speedb (⭐956)](https://github.com/speedb-io/speedb) - Community-led project: A RocksDB compliant high performance scalable embedded key-value store. \[Apache2]
 
 ### Talks
 
 *   [C++ Conferences (⭐9)](https://github.com/eoan-ermine/cpp-conferences) - Catalog of C++ conferences
 
-## [40. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
+## [39. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
 
 ### Audio
 
@@ -518,38 +502,38 @@ Webpage: <https://www.instagram.com/osskaffe.es/>
 ### Communications / APIs
 
 *   [micropython\_demo\_bot (⭐13)](https://github.com/gsampallo/micropython_demo_bot) - Little example of how to create a bot for Telegram.
-*   [micropython-basicdweet (⭐3)](https://github.com/jacklinquan/micropython-basicdweet) - A python module for very basic APIs of the free dweet service.
+*   [micropython-basicdweet (⭐4)](https://github.com/jacklinquan/micropython-basicdweet) - A python module for very basic APIs of the free dweet service.
 *   [micropython-dweeter (⭐3)](https://github.com/jacklinquan/micropython-dweeter) - A python module for messaging through the free dweet service.
 *   [micropython-cryptodweet (⭐2)](https://github.com/jacklinquan/micropython-cryptodweet) - A python module for very basic APIs of the free dweet service with encryption.
 
 ### Communications / CAN
 
-*   [microPython\_MCP2515 (⭐2)](https://github.com/capella-ben/microPython_MCP2515) - A MicroPython library for the MCP2515 CAN bus controller.
+*   [microPython\_MCP2515 (⭐5)](https://github.com/capella-ben/microPython_MCP2515) - A MicroPython library for the MCP2515 CAN bus controller.
 
 ### Communications / Cryptography
 
 *   [mpy-mbedtls (⭐3)](https://github.com/Carglglz/mpy-mbedtls) - MicroPython bindings for some MbedTLS EC and x509 cert/csr functions.
-*   [micropython-cryptocfb (⭐4)](https://github.com/jacklinquan/micropython-cryptocfb) - A Python module to encrypt and decrypt data with AES-128 CFB mode.
+*   [micropython-cryptocfb (⭐5)](https://github.com/jacklinquan/micropython-cryptocfb) - A Python module to encrypt and decrypt data with AES-128 CFB mode.
 *   [tscp (⭐2)](https://github.com/shariltumin/tscp) - An endpoint-to-endpoint encryption based on Diffie-Hellman-Merkle with TLS1.3 styled handshake using MicroPython.
 
 ### Communications / Ethernet
 
-*   [micropython-ch9121 (⭐9)](https://github.com/wybiral/micropython-ch9121) - MicroPython library for controlling CH9121 Ethernet modules.
+*   [micropython-ch9121 (⭐10)](https://github.com/wybiral/micropython-ch9121) - MicroPython library for controlling CH9121 Ethernet modules.
 
 ### Communications / FTP
 
-*   [FtpTiny-Micropython (⭐8)](https://github.com/MZachmann/FtpTiny-Micropython) - Really small FTP server that runs in a thread.
+*   [FtpTiny-Micropython (⭐9)](https://github.com/MZachmann/FtpTiny-Micropython) - Really small FTP server that runs in a thread.
 
 ### Communications / HTTP
 
-*   [mrequests (⭐47)](https://github.com/SpotlightKid/mrequests) - A HTTP client module (not only) for MicroPython with an API similar to requests.
+*   [mrequests (⭐53)](https://github.com/SpotlightKid/mrequests) - A HTTP client module (not only) for MicroPython with an API similar to requests.
 
 ### Communications / IoT
 
-*   [micropython-ha-mqtt-device (⭐11)](https://github.com/agners/micropython-ha-mqtt-device) - MicroPython module which allows creating Entites for HomeAssistant using MQTT Discovery.
+*   [micropython-ha-mqtt-device (⭐15)](https://github.com/agners/micropython-ha-mqtt-device) - MicroPython module which allows creating Entites for HomeAssistant using MQTT Discovery.
 *   [ESP8266-Home-Assistant-Smart-Socket (⭐2)](https://github.com/AnthonyKNorman/ESP8266-Home-Assistant-Smart-Socket) - This MicroPython project is to hack a Hyleton313 cheap WiFi smart socket.
 *   [ESP8266-Home-Assistant-RGB-Bulb (⭐3)](https://github.com/AnthonyKNorman/ESP8266-Home-Assistant-RGB-Bulb) - This MicroPython project is to hack a TYWE3S board in a cheap WiFi RGB Bulb.
-*   [uPyIoT (⭐5)](https://github.com/lemariva/uPyIoT) - Connect an M5Stack ATOM running MicroPython to the Google Cloud Platform (GCP) to collect air-quality variables obtained from reading sensors.
+*   [uPyIoT (⭐6)](https://github.com/lemariva/uPyIoT) - Connect an M5Stack ATOM running MicroPython to the Google Cloud Platform (GCP) to collect air-quality variables obtained from reading sensors.
 
 ### Communications / IR
 
@@ -557,8 +541,8 @@ Webpage: <https://www.instagram.com/osskaffe.es/>
 
 ### Communications / LoRa
 
-*   [loraE22 (⭐11)](https://github.com/matthias-bs/loraE22) - A MicroPython class for the Ebyte E22 Series LoRa modules.
-*   [micropython-lora (⭐33)](https://github.com/wybiral/micropython-lora) - MicroPython library for controlling a Semtech SX127x LoRa module over SPI.
+*   [loraE22 (⭐10)](https://github.com/matthias-bs/loraE22) - A MicroPython class for the Ebyte E22 Series LoRa modules.
+*   [micropython-lora (⭐39)](https://github.com/wybiral/micropython-lora) - MicroPython library for controlling a Semtech SX127x LoRa module over SPI.
 *   [micropython-aiolora (⭐3)](https://github.com/wybiral/micropython-aiolora) - MicroPython library for controlling a Semtech SX127x LoRa module with asyncio API.
 *   [micropython-rylr (⭐4)](https://github.com/wybiral/micropython-rylr) - MicroPython library for controlling Reyax LoRa modules (RYLR896, RYLR406).
 *   [silvergeko\_rfm9x (⭐1)](https://github.com/scopelemanuele/silvergeko_rfm9x) - Porting to MicroPython of adafruit\_rfm9x.py library.
@@ -578,28 +562,28 @@ Webpage: <https://www.instagram.com/osskaffe.es/>
 
 ### Communications / Radio
 
-*   [ESP32-433Mhz-Transmitter (⭐9)](https://github.com/Aschhoff/ESP32-433Mhz-Transmitter) - A pure MicroPython RF transmitter. You can create and add your own encoder.
+*   [ESP32-433Mhz-Transmitter (⭐11)](https://github.com/Aschhoff/ESP32-433Mhz-Transmitter) - A pure MicroPython RF transmitter. You can create and add your own encoder.
 
 ### Communications / RTC
 
 *   [esp-ds3231-micropython (⭐7)](https://github.com/HAIZAKURA/esp-ds3231-micropython) - A DS3231 library for ESP8266/ESP32 with MicroPython.
-*   [PCF8563\_PythonLibrary (⭐7)](https://github.com/lewisxhe/PCF8563_PythonLibrary) - MicroPython library for NXP PCF8563 Real-time clock/calendar.
+*   [PCF8563\_PythonLibrary (⭐9)](https://github.com/lewisxhe/PCF8563_PythonLibrary) - MicroPython library for NXP PCF8563 Real-time clock/calendar.
 *   [DS3231 (⭐0)](https://github.com/octaprog7/DS3231) - MicroPython module for the DS3231 clock from Maxim Integrated.
 *   [DS1307 (⭐1)](https://github.com/peter-l5/DS1307) - MicroPython driver for the DS1307 real time clock.
-*   [micropython-DS3231-AT24C32 (⭐26)](https://github.com/pangopi/micropython-DS3231-AT24C32) - MicroPython driver for DS3231 RTC.
+*   [micropython-DS3231-AT24C32 (⭐29)](https://github.com/pangopi/micropython-DS3231-AT24C32) - MicroPython driver for DS3231 RTC.
 
 ### Communications / Serial
 
-*   [microSDI12 (⭐9)](https://github.com/insighio/microSDI12) - A mini SDI-12 implementation for getting sensor info over RS-485.
+*   [microSDI12 (⭐11)](https://github.com/insighio/microSDI12) - A mini SDI-12 implementation for getting sensor info over RS-485.
 
 ### Communications / Serialization
 
-*   [ucbor (⭐1)](https://github.com/dmazzella/ucbor) - Lightweight implementation of cbor for MicroPython.
+*   [ucbor (⭐2)](https://github.com/dmazzella/ucbor) - Lightweight implementation of cbor for MicroPython.
 *   [upy-msgpack (⭐0)](https://github.com/SpotlightKid/upy-msgpack) - A lightweight MessagePack (de)serialization library (not only) for MicroPython.
 
 ### Communications / Sockets
 
-*   [XAsyncSockets (⭐38)](https://github.com/jczic/XAsyncSockets) - XAsyncSockets is an efficient Python/MicroPython library of managed asynchronous sockets.
+*   [XAsyncSockets (⭐40)](https://github.com/jczic/XAsyncSockets) - XAsyncSockets is an efficient Python/MicroPython library of managed asynchronous sockets.
 
 ### Communications / Text-to-Speech
 
@@ -608,7 +592,6 @@ Webpage: <https://www.instagram.com/osskaffe.es/>
 ### Communications / Web
 
 *   [CaptiveWebServer (⭐1)](https://github.com/joewez/CaptiveWebServer) - Simple MicroPython web server for serving a website from a captive portal.
-*   [micropython-urouter (⭐50)](https://github.com/whales-chen/micropython-urouter) - A lightweight HTTP request routing processing support library based on MicroPython. The previous name was micro-route.
 
 ### Communications / WiFi
 
@@ -616,33 +599,33 @@ Webpage: <https://www.instagram.com/osskaffe.es/>
 
 ### Display / E-Paper
 
-*   [uPyEINK (⭐26)](https://github.com/lemariva/uPyEINK) - Control a Waveshare 7.5" E-INK display using an ESP32 running MicroPython.
-*   [MicroPython-2.9-inch-ePaper-Library (⭐8)](https://github.com/rdagger/MicroPython-2.9-inch-ePaper-Library) - MicroPython Display Driver for WaveShare 2.9inch e-Paper Display (B).
+*   [uPyEINK (⭐29)](https://github.com/lemariva/uPyEINK) - Control a Waveshare 7.5" E-INK display using an ESP32 running MicroPython.
+*   [MicroPython-2.9-inch-ePaper-Library (⭐11)](https://github.com/rdagger/MicroPython-2.9-inch-ePaper-Library) - MicroPython Display Driver for WaveShare 2.9inch e-Paper Display (B).
 
 ### Display / Fonts
 
-*   [micropython\_GT30L24T3Y\_big5\_font (⭐1)](https://github.com/alankrantas/micropython_GT30L24T3Y_big5_font) - MicroPython driver for reading BIG-5 Chinese characters from GT30L24T3Y / ER3303-1 SPI module.
+*   [micropython\_GT30L24T3Y\_big5\_font (⭐2)](https://github.com/alankrantas/micropython_GT30L24T3Y_big5_font) - MicroPython driver for reading BIG-5 Chinese characters from GT30L24T3Y / ER3303-1 SPI module.
 *   [ttgo-hershey-fonts (⭐27)](https://github.com/russhughes/ttgo-hershey-fonts) - MicroPython Hershey font demo for the TTGO-LCD board.
 
 ### Display / Graphics
 
-*   [micropython-microbmp (⭐8)](https://github.com/jacklinquan/micropython-microbmp) - A small Python module for BMP image processing.
+*   [micropython-microbmp (⭐10)](https://github.com/jacklinquan/micropython-microbmp) - A small Python module for BMP image processing.
 
 ### Display / GUI
 
 *   [mp\_lvgl\_widgets (⭐2)](https://github.com/kdschlosser/mp_lvgl_widgets) - Widgets for the MicroPython Port of LVGL.
-*   [micropython-core2 (⭐51)](https://github.com/lemariva/micropython-core2) - Extends LV-MicroPython for the M5Stack CORE2 with MPU6886, ILI9342C, BM8563 and AXP192 drivers.
+*   [micropython-core2 (⭐54)](https://github.com/lemariva/micropython-core2) - Extends LV-MicroPython for the M5Stack CORE2 with MPU6886, ILI9342C, BM8563 and AXP192 drivers.
 
 ### Display / LCD TFT
 
-*   [st7789s3\_esp\_lcd (⭐16)](https://github.com/russhughes/st7789s3_esp_lcd) - Fast ESP\_LCD based MicroPython driver for the TTGO T-Display-S3 st7789 display written in C.
-*   [s3lcd (⭐64)](https://github.com/russhughes/s3lcd) - ESP\_LCD based MicroPython driver for ESP32-S3 Devices with ST7789 or compatible displays.
+*   [st7789s3\_esp\_lcd (⭐17)](https://github.com/russhughes/st7789s3_esp_lcd) - Fast ESP\_LCD based MicroPython driver for the TTGO T-Display-S3 st7789 display written in C.
+*   [s3lcd (⭐79)](https://github.com/russhughes/s3lcd) - ESP\_LCD based MicroPython driver for ESP32-S3 Devices with ST7789 or compatible displays.
 *   [thmi\_py (⭐5)](https://github.com/russhughes/thmi_py) - MicroPython display driver for the LILYGO T-HMI written in Python.
-*   [wt32sc01py (⭐11)](https://github.com/russhughes/wt32sc01py) - WT32SC01 Plus MicroPython Display Driver.
-*   [st7789s3\_mpy (⭐55)](https://github.com/russhughes/st7789s3_mpy) - MicroPython display driver for the TTGO T-Display-S3 ST7789 written in C.
-*   [t-display-s3 (⭐10)](https://github.com/russhughes/t-display-s3) - MicroPython display driver for the TTGO T-Display-S3 ST7789 written in Python.
+*   [wt32sc01py (⭐13)](https://github.com/russhughes/wt32sc01py) - WT32SC01 Plus MicroPython Display Driver.
+*   [st7789s3\_mpy (⭐63)](https://github.com/russhughes/st7789s3_mpy) - MicroPython display driver for the TTGO T-Display-S3 ST7789 written in C.
+*   [t-display-s3 (⭐13)](https://github.com/russhughes/t-display-s3) - MicroPython display driver for the TTGO T-Display-S3 ST7789 written in Python.
 *   [mp-ili9341 (⭐1)](https://github.com/tkurbad/mp-ili9341) - MicroPython Driver for ILI9341 TFT Display.
-*   [lvgl\_esp32\_gc9a01 (⭐9)](https://github.com/minyiky/lvgl_esp32_gc9a01) - Driver for displays using the GC901 driver for use with LVGL MicroPython.
+*   [lvgl\_esp32\_gc9a01 (⭐10)](https://github.com/minyiky/lvgl_esp32_gc9a01) - Driver for displays using the GC901 driver for use with LVGL MicroPython.
 
 ### Display / LED Matrix
 
@@ -650,12 +633,12 @@ Webpage: <https://www.instagram.com/osskaffe.es/>
 
 ### Display / OLED
 
-*   [micropython-ssd1322 (⭐11)](https://github.com/rdagger/micropython-ssd1322) - MicroPython display driver for SSD1322 grayscale OLED.
+*   [micropython-ssd1322 (⭐12)](https://github.com/rdagger/micropython-ssd1322) - MicroPython display driver for SSD1322 grayscale OLED.
 
 ### IO / ADC
 
 *   [MCP342x\_LoPy (⭐3)](https://github.com/jajberni/MCP342x_LoPy) - MicroPython driver for the MCP342x ADC.
-*   [micropython-ads1220 (⭐3)](https://github.com/rdagger/micropython-ads1220) - MicroPython library for ADS1220 24-bit analog-to-digital converter.
+*   [micropython-ads1220 (⭐6)](https://github.com/rdagger/micropython-ads1220) - MicroPython library for ADS1220 24-bit analog-to-digital converter.
 
 ### IO / IO-Expander
 
@@ -674,19 +657,19 @@ Webpage: <https://www.instagram.com/osskaffe.es/>
 ### IO / Rotary Encoder
 
 *   [micropython-quiic-twist (⭐3)](https://github.com/rdagger/micropython-quiic-twist) - MicroPython Driver for Quiic Twist RGB Rotary Encoder.
-*   [AS5600 (⭐28)](https://github.com/sgall17a/AS5600) - AS5600 MicroPython library for reading this magnetic sensor.
+*   [AS5600 (⭐32)](https://github.com/sgall17a/AS5600) - AS5600 MicroPython library for reading this magnetic sensor.
 
 ### IO / Waveform Generator
 
 *   [pico-wave-vibration-generator (⭐2)](https://github.com/gurgleapps/pico-wave-vibration-generator) - A MicroPython-based frequency generator for Raspberry Pi Pico designed to create vibrations on solenoids or speakers, enabling wave experimentation and exploration at home.
-*   [micropython-m5stack-dds (⭐0)](https://github.com/mattytrentini/micropython-m5stack-dds) - MicroPython driver for the M5Stack DDS frequency generator.
+*   [micropython-m5stack-dds (⭐1)](https://github.com/mattytrentini/micropython-m5stack-dds) - MicroPython driver for the M5Stack DDS frequency generator.
 
 ### Mathematics / Waveform Generator
 
-*   [uumpy (⭐1)](https://github.com/nickovs/uumpy) - A subset of NumPy for MicroPython.
+*   [uumpy (⭐2)](https://github.com/nickovs/uumpy) - A subset of NumPy for MicroPython.
 *   [upyuncertainties (⭐0)](https://github.com/rcolistete/upyuncertainties) - Uncertainty calculations for MicroPython.
 *   [umatrix (⭐15)](https://github.com/iyassou/umatrix) - A matrix library for the MicroPython language.
-*   [micropython-fractions (⭐0)](https://github.com/mattytrentini/micropython-fractions) - A MicroPython port of the CPython standard Fractions library.
+*   [micropython-fractions (⭐1)](https://github.com/mattytrentini/micropython-fractions) - A MicroPython port of the CPython standard Fractions library.
 
 ### Motion / DC Motor
 
@@ -703,17 +686,20 @@ Webpage: <https://www.instagram.com/osskaffe.es/>
 *   [MicroPython\_BMA220 (⭐0)](https://github.com/jposada202020/MicroPython_BMA220) - MicroPython Driver for the Bosch BMA220 Accelerometer.
 *   [MicroPython\_BMA400 (⭐0)](https://github.com/jposada202020/MicroPython_BMA400) - MicroPython Driver for the Bosch BMA400 Accelerometer.
 *   [MicroPython\_LIS3DH (⭐1)](https://github.com/jposada202020/MicroPython_LIS3DH) - MicroPython Driver for the LIS3DH 3-axis accelerometer.
-*   [MicroPython\_KX132 (⭐0)](https://github.com/jposada202020/MicroPython_KX132) - MicroPython Driver for the Kionix KX132 Accelerometer.
+*   [MicroPython\_KX132 (⭐1)](https://github.com/jposada202020/MicroPython_KX132) - MicroPython Driver for the Kionix KX132 Accelerometer.
 *   [MicroPython\_H3LIS200DL (⭐0)](https://github.com/jposada202020/MicroPython_H3LIS200DL) - MicroPython Driver for the ST H3LIS200DL Accelerometer.
-*   [MicroPython\_QMC5883L (⭐0)](https://github.com/jposada202020/MicroPython_QMC5883L) - MicroPython Driver for the QMC5883L Accelerometer.
+*   [MicroPython\_QMC5883L (⭐1)](https://github.com/jposada202020/MicroPython_QMC5883L) - MicroPython Driver for the QMC5883L Accelerometer.
 *   [Micropython\_MC3479 (⭐0)](https://github.com/jposada202020/Micropython_MC3479) - MicroPython Driver for the MC3479 Accelerometer.
-*   [MicroPython\_MMA8451 (⭐0)](https://github.com/jposada202020/MicroPython_MMA8451) - MicroPython module for the MMA8451 3-axis accelerometer.
+*   [MicroPython\_MMA8451 (⭐1)](https://github.com/jposada202020/MicroPython_MMA8451) - MicroPython module for the MMA8451 3-axis accelerometer.
 
-### Sensors / Barometer
+### Sensors / Barometer - Air and Water Pressure
 
-*   [MicroPython\_BMP581 (⭐0)](https://github.com/jposada202020/MicroPython_BMP581) - MicroPython driver for the Bosch BMP581 pressure & temperature sensor.
-*   [MicroPython\_DPS310 (⭐0)](https://github.com/jposada202020/MicroPython_DPS310) - MicroPython Driver for the DPS310 Sensor.
-*   [MicroPython\_ICP10111 (⭐0)](https://github.com/jposada202020/MicroPython_ICP10111) - MicroPython Driver for the TDK ICP-10111 Barometric Pressure and Temperature sensor.
+*   [MicroPython\_DPS310 (⭐0)](https://github.com/jposada202020/MicroPython_DPS310) - MicroPython Driver for the DPS310 Sensor. (Archived)
+*   [MicroPython\_ICP10111 (⭐0)](https://github.com/jposada202020/MicroPython_ICP10111) - MicroPython Driver for the TDK ICP-10111 Barometric Pressure and Temperature sensor. (Archived)
+*   [MicroPython\_BMP581 (⭐0)](https://github.com/jposada202020/MicroPython_BMP581) - MicroPython driver for the Bosch BMP581 pressure & temperature sensor. (Archived)
+*   [MicroPython\_MMR902 (⭐0)](https://github.com/jposada202020/MicroPython_MMR902) - MicroPython Driver for the Mitsumi MMR902 Micro Pressure Sensor. (Archived)
+*   [MicroPython\_MPL3115A2 (⭐0)](https://github.com/jposada202020/MicroPython_MPL3115A2) - MicroPython driver for the NXP MPL3115A2 Pressure and Temperature sensor. (Archived)
+*   [MicroPython\_MS5611 (⭐0)](https://github.com/jposada202020/MicroPython_MS5611) - MicroPython Driver for the TE MS5611 Pressure and Temperature Sensor. (Archived)
 
 ### Sensors / Colour
 
@@ -736,7 +722,7 @@ Webpage: <https://www.instagram.com/osskaffe.es/>
 ### Sensors / Gaseous
 
 *   [MicroPython\_AGS02MA (⭐0)](https://github.com/jposada202020/MicroPython_AGS02MA) - MicroPython Driver for the AGS02MA TVOC sensor.
-*   [SCD4x (⭐6)](https://github.com/octaprog7/SCD4x) - MicroPython module for work with SCD4x (SCD40, SCD41) low power CO2, temperature & humidity electroacoustic sensor from Sensirion.
+*   [SCD4x (⭐10)](https://github.com/octaprog7/SCD4x) - MicroPython module for work with SCD4x (SCD40, SCD41) low power CO2, temperature & humidity electroacoustic sensor from Sensirion.
 *   [ens160 (⭐1)](https://github.com/octaprog7/ens160) - MicroPython module for work with ENS160 Digital Metal-Oxide Multi-Gas Sensor.
 
 ### Sensors / Humidity
@@ -751,7 +737,7 @@ Webpage: <https://www.instagram.com/osskaffe.es/>
 
 ### Sensors / Load Cell
 
-*   [hx711\_mpy-driver (⭐8)](https://github.com/HowManyOliversAreThere/hx711_mpy-driver) - Micropython Driver for the HX711 weighing sensor.
+*   [hx711\_mpy-driver (⭐8)](https://github.com/HowManyOliversAreThere/hx711_mpy-driver) - MicroPython Driver for the HX711 weighing sensor.
 
 ### Sensors / Magnetometer
 
@@ -763,15 +749,9 @@ Webpage: <https://www.instagram.com/osskaffe.es/>
 
 ### Sensors / Motion Inertial
 
-*   [MicroPython\_ICM20948 (⭐10)](https://github.com/jposada202020/MicroPython_ICM20948) - MicroPython Driver for the TDK ICM20948 Accelerometer/Gyro Sensor.
-*   [MicroPython\_BMI160 (⭐0)](https://github.com/jposada202020/MicroPython_BMI160) - MicroPython Driver for the Bosch BMI160 Accelerometer/Gyro Sensor.
+*   [MicroPython\_ICM20948 (⭐11)](https://github.com/jposada202020/MicroPython_ICM20948) - MicroPython Driver for the TDK ICM20948 Accelerometer/Gyro Sensor.
+*   [MicroPython\_BMI160 (⭐1)](https://github.com/jposada202020/MicroPython_BMI160) - MicroPython Driver for the Bosch BMI160 Accelerometer/Gyro Sensor.
 *   [micropython-mpu6050 (⭐1)](https://github.com/wybiral/micropython-mpu6050) - MicroPython library for reading from MPU-6050 accelerometer and gyroscope modules.
-
-### Sensors / Pressure
-
-*   [MicroPython\_MMR902 (⭐0)](https://github.com/jposada202020/MicroPython_MMR902) - MicroPython Driver for the Mitsumi MMR902 Micro Pressure Sensor.
-*   [MicroPython\_MPL3115A2 (⭐0)](https://github.com/jposada202020/MicroPython_MPL3115A2) - MicroPython driver for the NXP MPL3115A2 Pressure and Temperature sensor.
-*   [MicroPython\_MS5611 (⭐0)](https://github.com/jposada202020/MicroPython_MS5611) - MicroPython Driver for the TE MS5611 Pressure and Temperature Sensor.
 
 ### Sensors / Proximity
 
@@ -796,9 +776,9 @@ Webpage: <https://www.instagram.com/osskaffe.es/>
 *   [MicroPython\_HS3003 (⭐0)](https://github.com/jposada202020/MicroPython_HS3003) - MicroPython Driver for the Renesas HS3003 Temperature and Humidity Sensor.
 *   [MicroPython\_STTS22H (⭐0)](https://github.com/jposada202020/MicroPython_STTS22H) - MicroPython Driver for the STTS22H Temperature Sensor.
 *   [MicroPython\_HTU21DF (⭐0)](https://github.com/jposada202020/MicroPython_HTU21DF) - MicroPython HTU21D-F Temperature & Humidity driver.
-*   [MicroPython\_SHT4X (⭐8)](https://github.com/jposada202020/MicroPython_SHT4X) - MicroPython Driver fot the Sensirion Temperature and Humidity SHT40 and SHT45 Sensor.
+*   [MicroPython\_SHT4X (⭐8)](https://github.com/jposada202020/MicroPython_SHT4X) - MicroPython Driver for the Sensirion Temperature and Humidity SHT40 and SHT45 Sensor.
 *   [MicroPython\_SHT20 (⭐0)](https://github.com/jposada202020/MicroPython_SHT20) - MicroPython Driver for the Sensirion SHT20 Temperature Sensor.
-*   [MicroPython\_MCP9808 (⭐0)](https://github.com/jposada202020/MicroPython_MCP9808) - MicroPython Driver for the Microchip MCP9808 Temperature Sensor.
+*   [MicroPython\_MCP9808 (⭐1)](https://github.com/jposada202020/MicroPython_MCP9808) - MicroPython Driver for the Microchip MCP9808 Temperature Sensor.
 *   [MicroPython\_HDC1080 (⭐1)](https://github.com/jposada202020/MicroPython_HDC1080) - MicroPython driver for the TI HDC1080 Temperature and Humidity sensor.
 *   [TMP117 (⭐2)](https://github.com/octaprog7/TMP117) - MicroPython module for the TMP117 temperature sensor from Texas Instruments.
 *   [BME680 (⭐1)](https://github.com/octaprog7/BME680) - MicroPython module for the BME680, Bosch low power gas, pressure, temperature & humidity sensor.
@@ -832,25 +812,25 @@ Webpage: <https://www.instagram.com/osskaffe.es/>
 *   [MPRemoteEditor (⭐3)](https://github.com/joewez/MPRemoteEditor) - A simple Windows IDE for developing with MicroPython MPRemote devices.
 *   [uPyExplorer (⭐6)](https://github.com/RetepRelleum/uPyExplorer) - Explorer for MicroPython Device.
 
-## [41. Awesome Swift Playgrounds](/content/uraimo/Awesome-Swift-Playgrounds/week/README.md)
+## [40. Awesome Swift Playgrounds](/content/uraimo/Awesome-Swift-Playgrounds/week/README.md)
 
 ### Audio / SpriteKit
 
 *   [Rhythm Snap (⭐1)](https://github.com/carlosmbe/Rhythm-Snap) - A Swift Playground using Vision and AVFoundation to help you practice rhythm in a fun way.🍁
 
-## [42. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [41. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Reading and Writing Tools / Others
 
-*   [PDFgear](https://www.pdfgear.com/) - AI-integrated PDF editor providing view, edit, annotate, protect, convert, Copilot assistant, and more possibilities. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/pdfgear-pdf-editor-for-adobe/id1615523079)
+*   [PDFgear](https://www.pdfgear.com/) - AI-integrated PDF editor. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/pdfgear-pdf-editor-for-adobe/id1615523079)
 
-## [43. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [42. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Transition
 
 *   [TBIconTransitionKit (⭐1.2k)](https://github.com/AlexeyBelezeko/TBIconTransitionKit) - Easy to use icon transition kit that allows to smoothly change from one shape to another.
 
-## [44. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [43. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Generative AI history, timelines, maps, and definitions
 
@@ -866,13 +846,13 @@ Webpage: <https://www.instagram.com/osskaffe.es/>
 
 *   \[🔥🔥🔥] [LLM Powered Autonomous Agents | Lil'Log](https://lilianweng.github.io/posts/2023-06-23-agent/): the LLM agents learning notes by Lilian Weng
 
-## [45. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+## [44. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Platforms and Software Resources / Public Engagement Tools and Platforms
 
 *   [GeoComment](https://www.viewprogis.com/geocomment) - Allows the City staff, citizens and stakeholders of governance to interact digitally and offer meaningful inputs into the decision-making processes at all stages of project development through a map enabled platform.
 
-## [46. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [45. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Authentication, Authorization, and User Management
 
@@ -884,7 +864,6 @@ Webpage: <https://www.instagram.com/osskaffe.es/>
 
 ### PaaS
 
-*   [Cosmonic](https://cosmonic.com) - Feature-rich WebAssembly PaaS and SDKs for low boilerplate, flexible, and secure by default microservices. Always free tier includes a managed host, 25 microservices, and capabilities like a robust key-value store, load-balanced public HTTP endpoints, and more.
 *   [Zeabur](https://zeabur.com) - Deploy your services with one click. Free for three services, with US$ 5 free credits per month.
 
 ### Web Hosting
@@ -907,29 +886,29 @@ Webpage: <https://www.instagram.com/osskaffe.es/>
 
 *   [3Dassets.one](https://3dassets.one/) - Over 8,000 free/paid 3D models, and PBR materials for making textures.
 
-## [47. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
+## [46. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
 
 ### Hacks and homebrew / Ironsworn
 
 *   [Elegy](https://miraclem.itch.io/elegy) - Solo role playing game about being a vampire and surviving the big city nights
 
-## [48. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [47. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Colorscheme Switchers / Diagnostics
 
-*   [zaldih/themery.nvim (⭐153)](https://github.com/zaldih/themery.nvim) - A new way to change the colorscheme on the fly like in vscode.
+*   [zaldih/themery.nvim (⭐237)](https://github.com/zaldih/themery.nvim) - A new way to change the colorscheme on the fly like in vscode.
 
 ### Utility / Diagnostics
 
-*   [aPeoplesCalendar/apc.nvim (⭐23)](https://github.com/aPeoplesCalendar/apc.nvim) - "On this day" style calendar, which provides information about worldwide history of working class movements and liberation struggles.
+*   [aPeoplesCalendar/apc.nvim (⭐22)](https://github.com/aPeoplesCalendar/apc.nvim) - "On this day" style calendar, which provides information about worldwide history of working class movements and liberation struggles.
 
 ### Motion / Diagnostics
 
-*   [folke/flash.nvim (⭐2.4k)](https://github.com/folke/flash.nvim) - Navigate your code with search labels, enhanced character motions and Treesitter integration.
+*   [folke/flash.nvim (⭐2.7k)](https://github.com/folke/flash.nvim) - Navigate your code with search labels, enhanced character motions and Tree-sitter integration.
 
 ### Editing Support / Diagnostics
 
-*   [tomiis4/hypersonic.nvim (⭐210)](https://github.com/tomiis4/hypersonic.nvim) - Provides explanation for RegExp.
+*   [tomiis4/hypersonic.nvim (⭐224)](https://github.com/tomiis4/hypersonic.nvim) - Provides explanation for RegExp.
 
 ---
 

@@ -47,11 +47,11 @@
 
 ### Images / Barcode
 
-*   [MapleBacon (⭐343)](https://github.com/JanGorman/MapleBacon) - Image download and caching library.
+*   [MapleBacon (⭐340)](https://github.com/JanGorman/MapleBacon) - Image download and caching library.
 
 ### Text / Barcode
 
-*   [MarkyMark (⭐297)](https://github.com/M2Mobi/Marky-Mark) - Converts Markdown into native views or attributed strings.
+*   [MarkyMark (⭐301)](https://github.com/M2Mobi/Marky-Mark) - Converts Markdown into native views or attributed strings.
 
 ### UICollectionView / Barcode
 
@@ -79,15 +79,15 @@ Wifi pw: `fermento`
 
 ### Chatting
 
-*   [alice (⭐111)](https://github.com/alice-bot/alice) - A Slack bot framework for Elixir.
+*   [alice (⭐113)](https://github.com/alice-bot/alice) - A Slack bot framework for Elixir.
 
 ### Encoding and Compression
 
-*   [ex\_rlp (⭐29)](https://github.com/exthereum/ex_rlp) - Elixir implementation of Ethereum's RLP (Recursive Length Prefix) encoding.
+*   [ex\_rlp (⭐31)](https://github.com/exthereum/ex_rlp) - Elixir implementation of Ethereum's RLP (Recursive Length Prefix) encoding.
 
 ### HTTP
 
-*   [neuron (⭐327)](https://github.com/uesteibar/neuron) - A GraphQL client for Elixir.
+*   [neuron (⭐331)](https://github.com/uesteibar/neuron) - A GraphQL client for Elixir.
 
 ### Macros
 
@@ -99,22 +99,18 @@ Wifi pw: `fermento`
 
 ### Queue
 
-*   [que (⭐665)](https://github.com/sheharyarn/que) - Simple Background Job Processing with Mnesia.
+*   [que (⭐675)](https://github.com/sheharyarn/que) - Simple Background Job Processing with Mnesia.
 
 ### Static Page Generation
 
-*   [blogit (⭐42)](https://github.com/meddle0x53/blogit) - An OTP application for generating blogs from git repositories containing markdown files.
+*   [blogit (⭐41)](https://github.com/meddle0x53/blogit) - An OTP application for generating blogs from git repositories containing markdown files.
 
 ## [7. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
 ### Companies with "remote DNA"
 
-*   [AgentFire](https://agentfire.com/meet-our-team/) - Hyper local real estate websites powered by Wordpress.
-*   [AirTreks](https://www.airtreks.com/about/) - Multi-stop international flight planner with a distributed team.
-*   [Ameego](http://ameego.ca/) - Restaurant scheduling software.
 *   [Axelerant](https://www.axelerant.com/careers)
 *   [Crossover](https://app.crossover.com/x/marketplace/available-jobs) - Project-based Java, .Net and DevOps positions.
-*   [Doist](https://doist.com/jobs/) - Redefining productivity since 2007.
 
 ## [8. Awesome Webgl](/content/sjfricke/awesome-webgl/README.md)
 
@@ -131,9 +127,9 @@ Wifi pw: `fermento`
 
 ## [10. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
 
-### Learning
+### Learning / Commerical Tools
 
-*   [Awesome Deep Learning Resources (⭐1.6k)](https://github.com/guillaume-chevalier/awesome-deep-learning-resources) - Rough list of learning resources for Deep Learning
+*   [Awesome Deep Learning Resources (⭐1.7k)](https://github.com/guillaume-chevalier/awesome-deep-learning-resources) - Rough list of learning resources for Deep Learning
 
 ## [11. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/README.md)
 

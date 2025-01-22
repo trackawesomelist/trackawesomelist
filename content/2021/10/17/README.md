@@ -10,7 +10,7 @@
 
 ### Projects Using Seed
 
-*   [Pslink](https://pslink.teilgedanken.de) - An URL-shortener page focused on use in publications ([demo](https://demo.pslink.teilgedanken.de/app/) (user, password: demo)).  Uses [`Seed`](https://seed-rs.org/), [`actix-web`](https://actix.rs/), and [`sqlx`](https://github.com/launchbadge/sqlx).
+*   [Pslink](https://pslink.teilgedanken.de) - An URL-shortener page focused on use in publications ([demo](https://demo.pslink.teilgedanken.de/app/) (user, password: demo)).  Uses `Seed`, [`actix-web`](https://actix.rs/), and [`sqlx`](https://github.com/launchbadge/sqlx).
 
 ## [2. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
 
@@ -38,8 +38,6 @@
 
   CORS: Unknown
 
-  Call this API: 
-
 
 
 ### Cloud Storage & File Sharing
@@ -54,7 +52,7 @@
 
   CORS: Unknown
 
-  Postman: 
+  : 
 
 
 
@@ -135,7 +133,6 @@
 ### Writing / United Kingdom
 
 *   [WorkingInContent.com](https://workingincontent.com/) - Jobs in Content Strategy, Content Design, UX Writing and more
-*   [Write the Docs Job Board](https://jobs.writethedocs.org/) - Jobs for people who care about documentation
 
 ## [6. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md)
 

@@ -82,11 +82,11 @@
 
 ### Development Projects / APIs
 
-*   [PokemonGO-Pokedex (⭐119)](https://github.com/Biuni/PokemonGO-Pokedex) - Pokédex of Pokémon GO in JSON.
+*   [PokemonGO-Pokedex (⭐126)](https://github.com/Biuni/PokemonGO-Pokedex) - Pokédex of Pokémon GO in JSON.
 
 ### Development Projects / Bots
 
-*   [PokeBuddy (⭐451)](https://github.com/finndev/PokeBuddy) - A Pokémon GO bot.
+*   [PokeBuddy (⭐447)](https://github.com/finndev/PokeBuddy) - A Pokémon GO bot.
 
 ### Development Projects / Miscellaneous
 
@@ -94,7 +94,7 @@
 
 ### Resources & Others / Maps
 
-*   [iPokeGo (⭐640)](https://github.com/istornz/iPokeGo) - A native iOS client to map the Pokémon around you.
+*   [iPokeGo (⭐642)](https://github.com/istornz/iPokeGo) - A native iOS client to map the Pokémon around you.
 
 ### Resources & Others / Wiki
 

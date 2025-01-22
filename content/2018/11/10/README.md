@@ -26,11 +26,11 @@
 
 ### Software / Content Management Systems (CMS)
 
-*   [Expressa (⭐436)](https://github.com/thomas4019/expressa) - Content Management System for powering database driven websites using JSON schemas. Provides permission management and automatic REST APIs. `MIT` `Nodejs`
+*   [Expressa (⭐440)](https://github.com/thomas4019/expressa) - Content Management System for powering database driven websites using JSON schemas. Provides permission management and automatic REST APIs. `MIT` `Nodejs`
 
 ### Software / Personal Dashboards
 
-*   [Organizr (⭐5.1k)](https://github.com/causefx/Organizr) - Organizr aims to be your one stop shop for your Servers Frontend. `GPL-3.0` `PHP/Docker`
+*   [Organizr (⭐5.3k)](https://github.com/causefx/Organizr) - Organizr aims to be your one stop shop for your Servers Frontend. `GPL-3.0` `PHP/Docker`
 
 ## [4. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
 
@@ -115,23 +115,23 @@
 
 ### Angular / Themes
 
-*   [NG-ZORRO-Mobile (⭐786)](https://github.com/NG-ZORRO/ng-zorro-antd-mobile) - Ant Design Mobile of Angular
+*   [NG-ZORRO-Mobile (⭐798)](https://github.com/NG-ZORRO/ng-zorro-antd-mobile) - Ant Design Mobile of Angular
 *   [ng-alain](https://ng-alain.com/) - ng-zorro-antd admin panel front-end framework.
 
 ### Vue.js / Themes
 
-*   [ant-design-vue (⭐19k)](https://github.com/vueComponent/ant-design-vue) - Ant Design of Vue.js 2.5.0+.
-*   [antue (⭐256)](https://github.com/zzuu666/antue) - A set of enterprise-class Vue UI components, following the Ant Design specification completely.
-*   [vue-antd-admin (⭐3.5k)](https://github.com/iczer/vue-antd-admin) - Ant Design Pro's implementation with Vue
+*   [ant-design-vue (⭐20k)](https://github.com/vueComponent/ant-design-vue) - Ant Design of Vue.js 2.5.0+.
+*   [antue (⭐258)](https://github.com/zzuu666/antue) - A set of enterprise-class Vue UI components, following the Ant Design specification completely.
+*   [vue-antd-admin (⭐3.7k)](https://github.com/iczer/vue-antd-admin) - Ant Design Pro's implementation with Vue
 
 ### Icons / Themes
 
-*   [Official Ant Design Icons (⭐841)](http://github.com/ant-design/ant-design-icons)
+*   [Official Ant Design Icons (⭐965)](http://github.com/ant-design/ant-design-icons)
 
 ### Other / Themes
 
 *   [Ant Design of Ember](http://idcos.github.io/antd-ember/#/home) - Enterprise-class UI framework based on Ant Design and Emberjs.
-*   [Fable Ant Design (⭐23)](https://github.com/evilz/fable-ant-design) - Ant Design bindings for Fable Elmish.
+*   [Fable Ant Design (⭐24)](https://github.com/evilz/fable-ant-design) - Ant Design bindings for Fable Elmish.
 
 ## [7. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 
@@ -143,7 +143,7 @@
 
 ### IoC
 
-*   [Stashbox (⭐138)](https://github.com/z4kn4fein/stashbox) - A lightweight, portable dependency injection framework for .NET based solutions.
+*   [Stashbox (⭐143)](https://github.com/z4kn4fein/stashbox) - A lightweight, portable dependency injection framework for .NET based solutions.
 
 ---
 

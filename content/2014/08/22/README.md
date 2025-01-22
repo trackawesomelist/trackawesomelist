@@ -35,7 +35,7 @@
 
 ### Serialization
 
-*   [protobuf-c (⭐2.6k)](https://github.com/protobuf-c/protobuf-c) - Protocol Buffers implementation in C. \[BSD]
+*   [protobuf-c (⭐2.7k)](https://github.com/protobuf-c/protobuf-c) - Protocol Buffers implementation in C. \[BSD]
 
 ---
 

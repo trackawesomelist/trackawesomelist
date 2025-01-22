@@ -1,22 +1,16 @@
 # Awesome List Updates on Sep 15, 2022
 
-11 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
-
-### Tools
-
-*   [ipfs-encrypted-share (⭐22)](https://github.com/whs/ipfs-encrypted-share) - Easy to use encrypted file uploader.
-
-## [2. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [1. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Algorithms and Data structures
 
-*   [aja (⭐189)](https://github.com/sabiwara/aja) - High performance persistent vectors and ordered maps.
+*   [aja (⭐216)](https://github.com/sabiwara/aja) - High performance persistent vectors and ordered maps.
 
 ### Artificial Intelligence
 
@@ -29,7 +23,7 @@
 
 ### Cryptography
 
-*   [nimble\_totp (⭐385)](https://github.com/dashbitco/nimble_totp) - Allows implementation of Time-based One-Time Passwords (TOTP) for 2FA.
+*   [nimble\_totp (⭐417)](https://github.com/dashbitco/nimble_totp) - Allows implementation of Time-based One-Time Passwords (TOTP) for 2FA.
 
 ### Files and Directories
 
@@ -41,27 +35,27 @@
 
 ### Networking
 
-*   [Firezone (⭐6.5k)](https://github.com/firezone/firezone) - Open-source VPN server and egress firewall for Linux built on WireGuard. Firezone is easy to set up (all dependencies are bundled thanks to Chef Omnibus), secure, performant, and self hostable.
+*   [Firezone (⭐7k)](https://github.com/firezone/firezone) - Open-source VPN server and egress firewall for Linux built on WireGuard. Firezone is easy to set up (all dependencies are bundled thanks to Chef Omnibus), secure, performant, and self hostable.
 
 ### Protocols
 
-*   [borsh (⭐7)](https://github.com/alexfilatov/borsh) - Elixir implementation of the [BORSH](https://borsh.io) binary serializer.
+*   [borsh (⭐10)](https://github.com/alexfilatov/borsh) - Elixir implementation of the [BORSH](https://borsh.io) binary serializer.
 
 ### Text and Numbers
 
-*   [near\_api (⭐9)](https://github.com/alexfilatov/near_api) - A [NEAR](https://near.org) API in Elixir - a library for DApps development on the NEAR blockchain platform.
+*   [near\_api (⭐11)](https://github.com/alexfilatov/near_api) - A [NEAR](https://near.org) API in Elixir - a library for DApps development on the NEAR blockchain platform.
 
 ### Screencasts
 
 *   [Elixir Foundation](https://www.youtube.com/playlist?list=PLjQo0sojbbxXc4aWg5i2umjv7U8YDoHQT) - Learn Elixir by building a practical example. Learn how GenServer, Agents and many other elixir primitives work.
 
-## [3. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [2. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [vite-plugin-zip-pack (⭐32)](https://github.com/7th-Cyborg/vite-plugin-zip-pack) - Pack distribution/build folder into a zip file.
+*   [vite-plugin-zip-pack (⭐35)](https://github.com/7th-Cyborg/vite-plugin-zip-pack) - Pack distribution/build folder into a zip file.
 
-## [4. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [3. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### Prompt Engineering / Prompt Engineering for Text-to-image
 
@@ -72,43 +66,33 @@
 *   [The Prompter | vicc | Substack](https://theprompter.substack.com/): a newsletter about news, tips and thoughts around prompt engineering
 *   [(19) Nikhil Agrawal 📌 on Twitter](https://twitter.com/HeyNikhila/status/1570005481896255490): 11 AI Images Prompt websites to level up the image quality
 
-## [5. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
+## [4. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 
 ### Community / Talk
 
 *   [Functional Programming Slack channel](https://fpslack.com/) – Community with a friendly channel for JavaScript as well as many other channels about functional programming in general.
 
-## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / Scaffold
-
-*   [Vitectron (⭐13)](https://github.com/hyroge/vite-vue-electron) - Powerful & Modern Vue Desktop Application Template with TypeScript & JSX + Vue 3.x + Vite 2.x + Pinia 2.x + Vue-Router 4.x.
-
-## [7. Awesome Elm](/content/sporto/awesome-elm/README.md)
+## [5. Awesome Elm](/content/sporto/awesome-elm/README.md)
 
 ### Run Elm / Outdated Boilerplates
 
-*   [Elm Watch (⭐150)](https://github.com/lydell/elm-watch) - `elm make` in watch mode. Fast and reliable.
+*   [Elm Watch (⭐161)](https://github.com/lydell/elm-watch) - `elm make` in watch mode. Fast and reliable.
 
-## [8. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+## [6. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ### File Search
 
-*   [de digger](https://www.dedigger.com/) - is a website that allows you to find any types of files that are publicly avilable in a Google Drive.
+*   [de digger](https://www.dedigger.com/) - is a website that allows you to find any types of files that are publicly available in a Google Drive.
 
-### People Investigations / Telegram
-
-*   [JailBase](https://www.jailbase.com/) - is an information site that allows you to search for arrested persons you might know, and even get notified if someone you know gets arrested.
-
-### Email Search / Email Check / Telegram
+### Email Search / Email Check / Steam
 
 *   [Email Format](http://email-format.com) - is a website that allows you to find email address formats used by different companies.
 
-### Job Search Resources / Telegram
+### Job Search Resources / Steam
 
 *   [Indeed](http://www.indeed.com) - is an online job searching website that gives job seekers free access to search for a job, post their resumes, and research companies.
 
-### Domain and IP Research / Telegram
+### Domain and IP Research / Steam
 
 *   [IP Location](https://www.iplocation.net) - is used for mapping of an IP address or MAC address to the real-world geographic location of an Internet-connected computing or a mobile device.
 *   [IPFingerprints](http://www.ipfingerprints.com) - is used to find the approximate geographic location of an IP address along with some other useful information including ISP, TimeZone, Area Code, State.
@@ -117,11 +101,11 @@
 *   [Robtex](https://www.robtex.com) - is an IP address and domain name based researching websites that offers multiple services such as Reverse DNS Lookup, Whois, and AS Macros.
 *   [urlscan](https://urlscan.io/) -  is a free service to scan and analyse websites.
 
-### VPN Services / Telegram
+### VPN Services / Steam
 
 *   [VPN Comparison by That One Privacy Guy](https://thatoneprivacysite.net/) - is a summary list of top best VPN services.
 
-## [9. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [7. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Videos / Others
 
@@ -131,17 +115,17 @@
 
 *   [ASP.NET Core updates in .NET 7 Release Candidate 1](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-7-rc-1/) - September 14, 2022 - .NET 7 Release Candidate 1 (RC1) is now available and includes many great new improvements to ASP.NET Core.
 
-## [10. Awesome Product Management](/content/dend/awesome-product-management/README.md)
+## [8. Awesome Product Management](/content/dend/awesome-product-management/README.md)
 
 ### Books / Obsidian
 
 *   [Shape Up](https://basecamp.com/shapeup) - By Ryan Singer.
 
-## [11. Awesome Go](/content/avelino/awesome-go/README.md)
+## [9. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Relational Database Drivers
 
-*   [ydb-go-sdk (⭐134)](https://github.com/ydb-platform/ydb-go-sdk) - native and database/sql driver YDB (Yandex Database)
+*   [ydb-go-sdk (⭐147)](https://github.com/ydb-platform/ydb-go-sdk) - native and database/sql driver YDB (Yandex Database)
 
 ---
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 19 - Feb 25, 2018
 
-54 awesome lists updated this week.
+53 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Software / Communication - XMPP - Servers
 
-*   [ejabberd](https://www.ejabberd.im/) - XMPP instant messaging server. ([Source Code (⭐6k)](https://github.com/processone/ejabberd)) `GPL-2.0` `Erlang/Docker`
+*   [ejabberd](https://www.ejabberd.im/) - XMPP instant messaging server. ([Source Code (⭐6.2k)](https://github.com/processone/ejabberd)) `GPL-2.0` `Erlang/Docker`
 
 ### Software / Learning and Courses
 
@@ -55,21 +55,21 @@
 
 ### Models/Projects
 
-*   [SRGAN (⭐3.2k)](https://github.com/tensorlayer/srgan) - Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network
+*   [SRGAN (⭐3.3k)](https://github.com/tensorlayer/srgan) - Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network
 *   [Seq2seq-Chatbot (⭐837)](https://github.com/tensorlayer/seq2seq-chatbot) - Chatbot in 200 lines of code
-*   [DCGAN (⭐332)](https://github.com/tensorlayer/dcgan) - Deep Convolutional Generative Adversarial Networks
-*   [GAN-CLS (⭐592)](https://github.com/zsdonghao/text-to-image) -Generative Adversarial Text to Image Synthesis
+*   [DCGAN (⭐339)](https://github.com/tensorlayer/dcgan) - Deep Convolutional Generative Adversarial Networks
+*   [GAN-CLS (⭐598)](https://github.com/zsdonghao/text-to-image) -Generative Adversarial Text to Image Synthesis
 *   [im2im (⭐73)](https://github.com/zsdonghao/Unsup-Im2Im) - Unsupervised Image to Image Translation with Generative Adversarial Networks
-*   [Improved CycleGAN (⭐90)](https://github.com/luoxier/CycleGAN_Tensorlayer) - Unpaired Image to Image Translation
-*   [DAGAN (⭐173)](https://github.com/nebulaV/DAGAN) - Fast Compressed Sensing MRI Reconstruction
+*   [Improved CycleGAN (⭐89)](https://github.com/luoxier/CycleGAN_Tensorlayer) - Unpaired Image to Image Translation
+*   [DAGAN (⭐175)](https://github.com/nebulaV/DAGAN) - Fast Compressed Sensing MRI Reconstruction
 *   [Policy Gradient (⭐7.3k)](https://github.com/zsdonghao/tensorlayer/blob/master/example/tutorial_atari_pong.py) - For Playing Atari Ping Pong
 *   [Deep Q-Network (⭐7.3k)](https://github.com/zsdonghao/tensorlayer/blob/master/example/tutorial_frozenlake_dqn.py) - For Playing Frozen Lake Game
 *   [AC (⭐7.3k)](https://github.com/zsdonghao/tensorlayer/blob/master/example/tutorial_cartpole_ac.py) - Actor Critic for Playing Discrete Action space Game (Cartpole)
 *   [A3C (⭐7.3k)](https://github.com/zsdonghao/tensorlayer/blob/master/example/tutorial_bipedalwalker_a3c_continuous_action.py) - Asynchronous Advantage Actor Critic (A3C) for Continuous Action Space (Bipedal Walker)
-*   [DAGGER (⭐70)](https://github.com/zsdonghao/Imitation-Learning-Dagger-Torcs) - For Playing [Gym Torcs (⭐411)](https://github.com/ugo-nama-kun/gym_torcs)
+*   [DAGGER (⭐71)](https://github.com/zsdonghao/Imitation-Learning-Dagger-Torcs) - For Playing [Gym Torcs (⭐409)](https://github.com/ugo-nama-kun/gym_torcs)
 *   [TRPO (⭐43)](https://github.com/jjkke88/RL_toolbox) - For Continuous and Discrete Action Space by
-*   [U-Net (⭐484)](https://github.com/zsdonghao/u-net-brain-tumor) - For Brain Tumor Segmentation
-*   [Spatial Transformer Networks (⭐35)](https://github.com/zsdonghao/Spatial-Transformer-Nets) - Learn the Transformation Function
+*   [U-Net (⭐503)](https://github.com/zsdonghao/u-net-brain-tumor) - For Brain Tumor Segmentation
+*   [Spatial Transformer Networks (⭐36)](https://github.com/zsdonghao/Spatial-Transformer-Nets) - Learn the Transformation Function
 
 ### Libraries
 
@@ -81,7 +81,7 @@
 
 ### Books
 
-*   [Deep Learning using TensorLayer](http://www.broadview.com.cn/book/5059) - by Hao Dong et al. This book covers both deep learning and the implmentation by using TensorFlow and TensorLayer.
+*   [Deep Learning using TensorLayer](http://www.broadview.com.cn/book/5059) - by Hao Dong et al. This book covers both deep learning and the implementation by using TensorFlow and TensorLayer.
 
 ## [8. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
@@ -130,7 +130,7 @@
 
 ### Git Tools
 
-*   [GitRead.Net (⭐17)](https://github.com/kingsimmy/GitRead.Net) - GitRead.Net is a .NET Standard library which allows you to very easily interrogate a Git repository that you have on disk. It allows you to enumerate the commit log, count lines per file and list files changed by a commit.
+*   [GitRead.Net (⭐20)](https://github.com/kingsimmy/GitRead.Net) - GitRead.Net is a .NET Standard library which allows you to very easily interrogate a Git repository that you have on disk. It allows you to enumerate the commit log, count lines per file and list files changed by a commit.
 
 ## [16. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
@@ -162,11 +162,11 @@
 
 ### Maps / Barcode
 
-*   [FlyoverKit (⭐705)](https://github.com/SvenTiigi/FlyoverKit) - FlyoverKit enables you to present stunning 360° flyover views on your MKMapView with zero effort while maintaining full configuration possibilities.
+*   [FlyoverKit (⭐710)](https://github.com/SvenTiigi/FlyoverKit) - FlyoverKit enables you to present stunning 360° flyover views on your MKMapView with zero effort while maintaining full configuration possibilities.
 
 ### Menu / Barcode
 
-*   [Parchment (⭐3.3k)](https://github.com/rechsteiner/Parchment) - A paging view controller with a highly customizable menu, built on UICollectionView.
+*   [Parchment (⭐3.4k)](https://github.com/rechsteiner/Parchment) - A paging view controller with a highly customizable menu, built on UICollectionView.
 
 ## [20. Awesome Algorithms Education](/content/gaerae/awesome-algorithms-education/week/README.md)
 
@@ -555,61 +555,51 @@
 
 *   [Reason](https://reasonml.github.io) – Reason is a new interface to OCaml, a highly expressive dialect of the ML language featuring type inference and static type checking.
 
-## [27. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
-
-### Projects Using Vue.js / Open Source
-
-*   [Tamiat CMS (⭐520)](https://github.com/tamiat/tamiat) - Tamiat is a front-end focused CMS, uses Vue.JS as the frontend and integrates with Firebase for the backend functionality.
-
-### Components & Libraries / UI Components
-
-*   [vue-tour (⭐2.4k)](https://github.com/pulsardev/vue-tour) - Lightweight and customizable tour plugin
-
-## [28. Awesome Json](/content/burningtree/awesome-json/week/README.md)
+## [27. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
 ### Transformations
 
 *   [Sawmill (⭐110)](https://github.com/logzio/sawmill) - JSON transformation library (Java)
 
-## [29. Awesome Funny Markov](/content/sublimino/awesome-funny-markov/week/README.md)
+## [28. Awesome Funny Markov](/content/sublimino/awesome-funny-markov/week/README.md)
 
 ### Twitter
 
 *   [@hipsterwid](https://twitter.com/hipsterwid) - An hipster bot trained on Erowid trip reports and Pitchfork's album reviews.
 
-## [30. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [29. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Strings
 
-*   [Device Detector (⭐2.9k)](https://github.com/matomo-org/device-detector) - Another library for parsing user agent strings.
+*   [Device Detector (⭐3.2k)](https://github.com/matomo-org/device-detector) - Another library for parsing user agent strings.
 
 ### Configuration / PHP Websites
 
 *   [PHP FIG](https://www.php-fig.org/) - The PHP Framework Interoperability Group.
 
-## [31. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
+## [30. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
-### Tools and frameworks
+### Tools and frameworks (a-z↓)
 
-*   [Muppeteer (⭐66)](https://github.com/HuddleEng/Muppeteer) - Visual regression testing framework for Chrome using [Mocha](https://mochajs.org/) and [Puppeteer (⭐88k)](https://github.com/GoogleChrome/puppeteer).
+*   [Muppeteer (⭐66)](https://github.com/HuddleEng/Muppeteer) - Visual regression testing framework for Chrome using [Mocha](https://mochajs.org/) and [Puppeteer (⭐89k)](https://github.com/GoogleChrome/puppeteer).
 
-### Online services
+### Online services (a-z↓)
 
 *   [VisWiz.io](https://www.viswiz.io) - Flexible visual regression testing service.
 
-## [32. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
+## [31. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
 
 ### CLI
 
 *   [Sudo-Productivity (⭐193)](https://github.com/kyle8998/Sudo-Productivity) - Boost your "productivity" to the max! A productivity suite made for slackers by slackers.
 
-## [33. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [32. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Web Framework
 
 *   [Coast](http://coastonclojure.com/)
 
-## [34. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
+## [33. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
 
 ### Charts
 
@@ -619,7 +609,7 @@
 
 *   [Matteo Filipponi - mfilippo](https://bl.ocks.org/mfilippo)
 
-## [35. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
+## [34. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
 ### Boilerplates / Outdated Boilerplates
 
@@ -627,13 +617,13 @@
 *   [elm-init (⭐11)](https://github.com/JustusAdam/elm-init) - Interactive setup for new Elm projects.
 *   [elm-new (⭐81)](https://github.com/simonewebdesign/elm-new) - Generate initial project scaffolding based on a template.
 
-## [36. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [35. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Math / Other
 
-*   [MyPhysicsLab](https://www.myphysicslab.com/) - Interactive real-time physics simulations, with formulars and code.
+*   [MyPhysicsLab](https://www.myphysicslab.com/) - Interactive real-time physics simulations, with formulas and code.
 
-## [37. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
+## [36. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
 
 ### Libraries / JavaScript
 
@@ -647,17 +637,17 @@
 
 *   [Interactive Markdown Tutorial](https://www.markdowntutorial.com/)
 
-## [38. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [37. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Mac App Download Sites / Pirated software download site blocklist
 
 *   Softasm：~~`https://softasm.com/`~~
 
-## [39. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [38. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Command Line Applications
 
-*   [scribe (⭐289)](https://github.com/codedge-llc/scribe) - Pretty-print tables of Elixir structs and maps. Inspired by hirb.
+*   [scribe (⭐298)](https://github.com/codedge-llc/scribe) - Pretty-print tables of Elixir structs and maps. Inspired by hirb.
 
 ### JSON
 
@@ -671,13 +661,13 @@
 
 *   [ecto\_facade (⭐69)](https://github.com/azranel/ecto_facade) - Ecto facade that allows to separate writes and reads to different databases.
 
-## [40. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [39. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Debug
 
 *   [Deleaker](http://www.deleaker.com) - A tool for resource leak detection, including memory, GDI and handle leaks.
 
-## [41. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
+## [40. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
 
 ### Books
 
@@ -687,20 +677,20 @@
 
 *   [Robotex](https://robotex.ee/en/) The biggest robotics festival in Europe
 
-## [42. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
+## [41. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
 
 ### Examples / Templates
 
-*   [modern-cmake-sample (⭐581)](https://github.com/pabloariasal/modern-cmake-sample) - Best practices and proper usage of CMake by using targets. `[NO LICENSE]`
+*   [modern-cmake-sample (⭐664)](https://github.com/pabloariasal/modern-cmake-sample) - Best practices and proper usage of CMake by using targets. `[NO LICENSE]`
 
-## [43. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [42. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Types / Playground
 
-*   [utility-types (⭐5.5k)](https://github.com/piotrwitek/utility-types) - Utility Types for TypeScript (provide compatibility with Flow's Utility Types)
-*   [elm-ts (⭐301)](https://github.com/gcanti/elm-ts) - Port of Elm architecture to TypeScript featuring fp-ts, io-ts, rxjs5 and React
+*   [utility-types (⭐5.6k)](https://github.com/piotrwitek/utility-types) - Utility Types for TypeScript (provide compatibility with Flow's Utility Types)
+*   [elm-ts (⭐300)](https://github.com/gcanti/elm-ts) - Port of Elm architecture to TypeScript featuring fp-ts, io-ts, rxjs5 and React
 
-## [44. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
+## [43. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
 ### Multimedia content processing
 
@@ -710,7 +700,7 @@
 
 *   [BBC News Labs](https://github.com/BBC-News-Labs) - Open Source projects from BBC News Labs.
 
-## [45. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [44. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Software / Frameworks
 
@@ -720,17 +710,17 @@
 
 *   [Corlysis](https://corlysis.com/) - Corlysis is a platform that helps you with storing and visualizing your time-series data. It is based on the open-source projects Grafana and InfluxDB that also SpaceX uses.
 
-## [46. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [45. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Libraries / Command-line
 
 *   Line editor
-    *   [kkawakam/rustyline (⭐1.5k)](https://github.com/kkawakam/rustyline) \[[rustyline](https://crates.io/crates/rustyline)] - readline implementation
+    *   [kkawakam/rustyline (⭐1.6k)](https://github.com/kkawakam/rustyline) \[[rustyline](https://crates.io/crates/rustyline)] - readline implementation
     *   [MovingtoMars/liner (⭐74)](https://github.com/MovingtoMars/liner) \[[liner](https://crates.io/crates/liner)] - A library offering readline-like functionality
-    *   [murarth/linefeed (⭐184)](https://github.com/murarth/linefeed) \[[linefeed](https://crates.io/crates/linefeed)] - Configurable, extensible, interactive line reader
+    *   [murarth/linefeed (⭐187)](https://github.com/murarth/linefeed) \[[linefeed](https://crates.io/crates/linefeed)] - Configurable, extensible, interactive line reader
     *   [srijs/rust-copperline (⭐27)](https://github.com/srijs/rust-copperline) \[[copperline](https://crates.io/crates/copperline)] - command line editing library
 
-## [47. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
+## [46. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
 
 ### Other Useful Repositories
 
@@ -740,7 +730,7 @@
 
 
 
-## [48. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
+## [47. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
 
 ### Actionable Resources
 
@@ -752,19 +742,19 @@
 *   [The Tech Industry's Gender-Discrimination Problem](https://www.newyorker.com/magazine/2017/11/20/the-tech-industrys-gender-discrimination-problem) - By Sheelah Kolhatkar.
 *   [Who Killed The Junior Developer?](https://medium.com/@melissamcewen/who-killed-the-junior-developer-33e9da2dc58c) - By Melissa McEwen.
 
-## [49. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [48. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### System Deployment
 
 *   [Kubernetes](https://kubernetes.io/) - a system for automating deployment, scaling, and management of containerized applications.
 
-## [50. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [49. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Samples
 
 *   Sascha Willems's [Vulkan-glTF-PBR (⭐917)](https://github.com/SaschaWillems/Vulkan-glTF-PBR) - physical based rendering with Vulkan using glTF 2.0 models. \[MIT]
 
-## [51. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
+## [50. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
 
 ### Health / Miscellaneous
 
@@ -778,19 +768,19 @@
 
 
 
-## [52. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [51. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Web Frameworks
 
-*   [spider-gazelle (⭐179)](https://github.com/spider-gazelle/spider-gazelle) - A Rails esque web framework with a focus on speed and extensibility
+*   [spider-gazelle (⭐182)](https://github.com/spider-gazelle/spider-gazelle) - A Rails esque web framework with a focus on speed and extensibility
 
-## [53. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [52. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### On-Call
 
 *   [Oncall and Sustainable Software Development](https://honeycomb.io/blog/2018/02/oncall-and-sustainable-software-development/)
 
-## [54. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [53. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 

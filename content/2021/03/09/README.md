@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 09, 2021
 
-15 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -28,7 +28,7 @@
 
 ### Libraries for driving the protocol (or a layer above)
 
-*   Kotlin: [chrome-devtools-kotlin (⭐43)](https://github.com/joffrey-bion/chrome-devtools-kotlin) - A coroutine-based client library, providing low-level CDP primitives and high-level extensions.
+*   Kotlin: [chrome-devtools-kotlin (⭐47)](https://github.com/joffrey-bion/chrome-devtools-kotlin) - A coroutine-based client library, providing low-level CDP primitives and high-level extensions.
 
 ## [5. Awesome Scala](/content/lauris/awesome-scala/README.md)
 
@@ -55,13 +55,13 @@
 
 ### AppImage developer tools / Libraries
 
-*   [QAppImageUpdate (⭐26)](https://github.com/antony-jr/QAppImageUpdate) - Qt5 library and plugin for updating AppImages, can be embedded into applications.
+*   [QAppImageUpdate (⭐28)](https://github.com/antony-jr/QAppImageUpdate) - Qt5 library and plugin for updating AppImages, can be embedded into applications.
 
 ## [7. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Miscellaneous
 
-*   [Translations (⭐130)](https://github.com/mbiesiad/awesome-translations#readme) - The transfer of the meaning of a text from one language to another.
+*   [Translations (⭐149)](https://github.com/mbiesiad/awesome-translations#readme) - The transfer of the meaning of a text from one language to another.
 
 ## [8. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 
@@ -69,13 +69,7 @@
 
 *   [Agility CMS](https://agilitycms.com) - The best of both worlds for developers and content editors.
 
-## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / UI Components
-
-*   [vue-diagram-editor (⭐85)](https://github.com/max-kut/vue-diagram-editor) - Highly customizable diagram editor with slot-based nodes (vue^2.6)
-
-## [10. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [9. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### C++ / General-Purpose Machine Learning
 
@@ -85,25 +79,25 @@
 
 *   [WebDNN (⭐2k)](https://github.com/mil-tokyo/webdnn) - Fast Deep Neural Network JavaScript Framework. WebDNN uses next generation JavaScript API, WebGPU for GPU execution, and WebAssembly for CPU execution.
 
-## [11. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [10. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Files and directories / Third-party APIs
 
 *   [fof](https://gitlab.com/ambrevar/fof) - File-object finder Common Lisp library. Enable rapid file search, inspection and manipulation. [GPL3](http://www.gnu.org/copyleft/gpl.html).
 
-## [12. Awesome Ios](/content/vsouza/awesome-ios/README.md)
+## [11. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### App Routing
 
-*   [Composable Navigator (⭐579)](https://github.com/Bahn-X/swift-composable-navigator) - An open source library for building deep-linkable SwiftUI applications with composition, testing and ergonomics in mind
+*   [Composable Navigator (⭐583)](https://github.com/Bahn-X/swift-composable-navigator) - An open source library for building deep-linkable SwiftUI applications with composition, testing and ergonomics in mind
 
-## [13. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+## [12. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Map
 
 *   [pigeon-maps (⭐3.4k)](https://github.com/mariusandra/pigeon-maps) - [demo](https://pigeon-maps.js.org/) - ReactJS Maps without external dependencies.
 
-## [14. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [13. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Culture
 
@@ -117,7 +111,7 @@
 
 *   [Writing Your First Postmortem](https://sharpend.io/writing-your-first-postmortem/)
 
-## [15. Awesome4girls](/content/cristianoliveira/awesome4girls/README.md)
+## [14. Awesome4girls](/content/cristianoliveira/awesome4girls/README.md)
 
 ### General / UX
 

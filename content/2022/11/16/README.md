@@ -20,7 +20,7 @@
 
 ## [3. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
 
-### Agile / Tickets
+### Agile / Delivery
 
 *   [The SAFe Delusion](https://safedelusion.com) - Curated review of facts, evidence, and opinions from relevant sources without vested interests, to help decision-makers make informed choices and get better results.
 
@@ -28,12 +28,12 @@
 
 ### Authorization / ABAC frameworks
 
-*   [Open Policy Agent (⭐9.5k)](https://github.com/open-policy-agent/opa) - An open-source general-purpose decision engine to create and enforce ABAC policies.
+*   [Open Policy Agent (⭐9.6k)](https://github.com/open-policy-agent/opa) - An open-source general-purpose decision engine to create and enforce ABAC policies.
 
 ### Authorization / ReBAC frameworks
 
-*   [SpiceDB (⭐4.9k)](https://github.com/authzed/spicedb) - An open source database system for managing security-critical application permissions inspired by Zanzibar.
-*   [Topaz (⭐1k)](https://github.com/aserto-dev/topaz) - An open-source project which combines the policy-as-code and decision logging of OPA with a Zanzibar-modeled directory.
+*   [SpiceDB (⭐5k)](https://github.com/authzed/spicedb) - An open source database system for managing security-critical application permissions inspired by Zanzibar.
+*   [Topaz (⭐1.1k)](https://github.com/aserto-dev/topaz) - An open-source project which combines the policy-as-code and decision logging of OPA with a Zanzibar-modeled directory.
 
 ### Authorization / AWS policy tools
 
@@ -41,7 +41,7 @@
 
 ### Trust & Safety / User Identity
 
-*   [Ballerine (⭐2k)](https://github.com/ballerine-io/ballerine) - An open-source infrastructure for user identity and risk management.
+*   [Ballerine (⭐2.1k)](https://github.com/ballerine-io/ballerine) - An open-source infrastructure for user identity and risk management.
 
 ## [5. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
 
@@ -104,29 +104,29 @@
 
 ### Cryptography
 
-*   [HEhub (⭐88)](https://github.com/primihub/HEhub) - A library for homomorphic encryption and its applications. \[Apache2]
+*   [HEhub (⭐92)](https://github.com/primihub/HEhub) - A library for homomorphic encryption and its applications. \[Apache2]
 
 ### Integrated Development Environment
 
-*   [Embarcadero Dev-CPP (⭐2.5k)](https://github.com/Embarcadero/Dev-Cpp) - A fork of Dev-C++ that comes preinstalled with new themes and modern compilers. \[GPLv2] [website](https://www.embarcadero.com/free-tools/dev-cpp)
+*   [Embarcadero Dev-CPP (⭐2.6k)](https://github.com/Embarcadero/Dev-Cpp) - A fork of Dev-C++ that comes preinstalled with new themes and modern compilers. \[GPLv2] [website](https://www.embarcadero.com/free-tools/dev-cpp)
 
 ## [7. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### SQL Query Builders
 
-*   [builq (⭐89)](https://github.com/cristalhq/builq) - Easily build SQL queries in Go.
+*   [builq (⭐91)](https://github.com/cristalhq/builq) - Easily build SQL queries in Go.
 
 ## [8. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 
 ### Automated Machine Learning / Others
 
-*   [AutoGluon (⭐7.1k)](https://github.com/awslabs/autogluon) - AutoML for Image, Text, Tabular, Time-Series, and MultiModal Data.
+*   [AutoGluon (⭐7.7k)](https://github.com/awslabs/autogluon) - AutoML for Image, Text, Tabular, Time-Series, and MultiModal Data.
 
 ### Data Manipulation / Data-centric AI
 
-*   [cleanlab (⭐8.7k)](https://github.com/cleanlab/cleanlab) - The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.
-*   [snorkel (⭐5.7k)](https://github.com/snorkel-team/snorkel) - A system for quickly generating training data with weak supervision.
-*   [dataprep (⭐1.9k)](https://github.com/sfu-db/dataprep) - Collect, clean, and visualize your data in Python with a few lines of code.
+*   [cleanlab (⭐9.4k)](https://github.com/cleanlab/cleanlab) - The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.
+*   [snorkel (⭐5.8k)](https://github.com/snorkel-team/snorkel) - A system for quickly generating training data with weak supervision.
+*   [dataprep (⭐2k)](https://github.com/sfu-db/dataprep) - Collect, clean, and visualize your data in Python with a few lines of code.
 
 ## [9. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -157,7 +157,7 @@
 
 ### Hardware / Opcodes
 
-*   [dmg-schematics (⭐14)](https://github.com/msinger/dmg-schematics) - Schematics and annotated overlay for the DMG-CPU B chip, extracted from die photos, made with KiCad. Also contains Electric VLSI library with layouts for some of the cells and memories.
+*   [dmg-schematics (⭐15)](https://github.com/msinger/dmg-schematics) - Schematics and annotated overlay for the DMG-CPU B chip, extracted from die photos, made with KiCad. Also contains Electric VLSI library with layouts for some of the cells and memories.
 
 ## [14. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
@@ -182,11 +182,11 @@
 
 ### Templates / Electron
 
-*   [Vutron (⭐233)](https://github.com/jooy2/vutron) - Electron + Vite + Vue 3 + Pinia (TypeScript) template.
+*   [Vutron (⭐269)](https://github.com/jooy2/vutron) - Electron + Vite + Vue 3 + Pinia (TypeScript) template.
 
 ### Framework-agnostic Plugins / Testing
 
-*   [cypress-vite (⭐84)](https://github.com/mammadataei/cypress-vite) - Run Cypress specs using Vite.
+*   [cypress-vite (⭐90)](https://github.com/mammadataei/cypress-vite) - Run Cypress specs using Vite.
 
 ## [17. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/README.md)
 

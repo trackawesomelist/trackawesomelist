@@ -2,7 +2,7 @@
 
 Sci-Fi worth consuming
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/sindresorhus/awesome-scifi/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 sindresorhus/awesome-scifi](https://github.com/sindresorhus/awesome-scifi) · ⭐ 4.1K · 🏷️ Entertainment
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/sindresorhus/awesome-scifi/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 sindresorhus/awesome-scifi](https://github.com/sindresorhus/awesome-scifi) · ⭐ 4.3K · 🏷️ Entertainment
 
 [ [Daily](/content/sindresorhus/awesome-scifi/README.md) / [Weekly](/content/sindresorhus/awesome-scifi/week/README.md) / Overview ]
 
@@ -14,7 +14,7 @@ Sci-Fi worth consuming
 
 I [asked on Twitter](https://twitter.com/sindresorhus/status/557586610850897920) for recommendations as I want to get into reading Sci-Fi novels. The below is the result. Thanks everyone for recommending your favorites! :)
 
-*For fantasy books, see [awesome-fantasy (⭐1.2k)](https://github.com/RichardLitt/awesome-fantasy).*
+*For fantasy books, see [awesome-fantasy (⭐1.3k)](https://github.com/RichardLitt/awesome-fantasy).*
 
 ![](https://cloud.githubusercontent.com/assets/170270/7630100/242bda3a-fa33-11e4-881a-589cffa0c421.gif)
 
@@ -1097,6 +1097,18 @@ A lovely balm for the weary science fiction reader about a post-collapse utopian
 
 </details>
 
+#### [The Rolling Stones](https://www.goodreads.com/book/show/50848.The_Rolling_Stones) (1952) *by [Robert A. Heinlein](https://en.wikipedia.org/wiki/Robert_A._Heinlein)* \[3.9]
+
+A charming, fast-paced space adventure following the Stone family as they journey through the solar system, offering a delightful mix of humor, family dynamics, and interplanetary escapades. -[@Russolves](https://github.com/Russolves)
+
+<details>
+	<summary>Description</summary>
+
+> It doesn’t seem likely for twins to have the same middle name. Even so, it’s clear that Castor and Pollux Stone both have "Trouble" written in that spot on their birth certificates. Of course, anyone who’s met their grandmother Hazel would know that they came by it honestly…
+> Join the Stone twins as they connive, cajole, and bamboozle their way across the Solar System in the company of the most high-spirited and hilarious family in all of science fiction. This light-hearted tale has some of Heinlein’s sassiest dialogue (not to mention the famous Flat Cats incident!). Oddly enough, it’s also a true example of real family values–for when you’re a Stone, your family is your highest priority.
+
+</details>
+
 #### [The Songs of Distant Earth](https://www.goodreads.com/book/show/117842.The_Songs_of_Distant_Earth) (1986) *by [Arthur C. Clarke](https://en.wikipedia.org/wiki/Arthur_C._Clarke)* \[3.9]
 
 My first Arthur C. Clarke Sci-fi book that introduced me to the world of Arthur C. Clarke. The book deals with the utopian society where the aliens are human beings from the old earth. -[@DibeshMSShrestha](https://github.com/DibeshMSShrestha)
@@ -1768,7 +1780,7 @@ Twitter user: My favorite novel. Movie was worse than terrible.
 
 ### Fantasy
 
-*Fantasy books which contain elements of science fiction. For pure fantasy, see [this list (⭐1.2k)](https://github.com/RichardLitt/awesome-fantasy).*
+*Fantasy books which contain elements of science fiction. For pure fantasy, see [this list (⭐1.3k)](https://github.com/RichardLitt/awesome-fantasy).*
 
 #### [The Book of the Long Sun](https://www.goodreads.com/series/43253-the-book-of-the-long-sun) (1993, 1994, 1996) *by [Gene Wolfe](https://en.wikipedia.org/wiki/Gene_Wolfe)* \[4.0]
 
@@ -2780,6 +2792,19 @@ Categories: `time travel`
 
 </details>
 
+#### [Screamers](https://www.imdb.com/title/tt0114367/) (1995) \[6.3]
+
+Categories: `apocalyptic` `artificial intelligence` `space`
+
+A thrilling ride that expertly blends suspense with thought-provoking themes about technology and warfare. If you enjoy films that challenge your perceptions of humanity and technology, this is definitely one to watch! - [@johan-stenqvist](https://github.com/johan-stenqvist)
+
+<details>
+  <summary>Description</summary>
+
+> A military commander stationed off planet during an interplanetary war travels through the devastated landscape to negotiate a peace treaty, but discovers that the primitive robots they built to kill enemy combatants have gained sentience.
+
+</details>
+
 #### [Serenity (Firefly)](https://www.imdb.com/title/tt0379786/) (2005) \[8.0]
 
 Categories: `space` `western` `action`
@@ -2883,6 +2908,19 @@ This is a pretty good movie. The science is ridiculous, but the characters are g
 > A team of international astronauts is sent on a dangerous mission to reignite the dying Sun with a nuclear fission bomb in 2057.
 
 </details>
+
+#### [Tenet](https://www.imdb.com/title/tt6723592/) (2020) \[7.3]
+
+Categories: `time travel` `action` `thriller`
+
+A great watch for those who like complex movies that you probably have to watch several times to understand everything. - [@gilStettler](https://github.com/gilStettler)
+
+<details>
+  <summary>Description</summary>
+
+> Armed with only the word "Tenet," and fighting for the survival of the entire world, CIA operative, The Protagonist, journeys through a twilight world of international espionage on a global mission that unfolds beyond real time.
+
+</details>	
 
 #### [The City of Lost Children](https://www.imdb.com/title/tt0112682/) (1995) \[7.7]
 
@@ -3591,5 +3629,5 @@ Y: The Last Man is graphic novel series unlike any other I have read. The "last 
 
 ## Credit
 
-Maintained by [Richard Littauer](https://github.com/RichardLitt) and [these marvelous humanoids (⭐4.1k)](https://github.com/sindresorhus/awesome-scifi/graphs/contributors).
+Maintained by [Richard Littauer](https://github.com/RichardLitt) and [these marvelous humanoids (⭐4.3k)](https://github.com/sindresorhus/awesome-scifi/graphs/contributors).
 

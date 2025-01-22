@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 31, 2018
 
-23 awesome lists updated today.
+22 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,7 +16,7 @@
 
 ### Network Protocols
 
-*   [crystal-json-socket (⭐13)](https://github.com/foi/crystal-json-socket) - JSON-socket client & server implementation. Inspired by and compatible with [node-json-socket (⭐154)](https://github.com/sebastianseilund/node-json-socket/) and [ruby-json-socket (⭐4)](https://github.com/foi/ruby-json-socket)
+*   [crystal-json-socket (⭐13)](https://github.com/foi/crystal-json-socket) - JSON-socket client & server implementation. Inspired by and compatible with [node-json-socket (⭐155)](https://github.com/sebastianseilund/node-json-socket/) and [ruby-json-socket (⭐4)](https://github.com/foi/ruby-json-socket)
 
 ## [3. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
@@ -46,7 +46,7 @@
 
 ### Similar libraries / Other Tools
 
-*   [lit-ntml (⭐82)](https://github.com/motss/lit-ntml) - Lightweight and modern templating for SSR in Node.js, inspired by lit-html.
+*   [lit-ntml (⭐83)](https://github.com/motss/lit-ntml) - Lightweight and modern templating for SSR in Node.js, inspired by lit-html.
 
 ## [7. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
@@ -81,11 +81,11 @@
 
 ### GUI
 
-*   [OmniDB (⭐3.1k)](https://github.com/OmniDB/OmniDB) - Web tool for database management.
+*   [OmniDB (⭐3.2k)](https://github.com/OmniDB/OmniDB) - Web tool for database management.
 
 ### API / Samples
 
-*   [DreamFactory (⭐1.5k)](https://github.com/dreamfactorysoftware/dreamfactory) - A open source REST API backend for mobile, web, and IoT applications.
+*   [DreamFactory (⭐1.6k)](https://github.com/dreamfactorysoftware/dreamfactory) - A open source REST API backend for mobile, web, and IoT applications.
 
 ### Monitoring/Statistics/Perfomance / Samples
 
@@ -135,7 +135,7 @@
 
 ### UI
 
-*   [Flushbar (⭐988)](https://github.com/AndreHaueisen/flushbar) <!--stargazers:AndreHaueisen/flushbar--> - Highly configurable Snackbar by [Andre Haueisen](https://github.com/AndreHaueisen)
+*   [Flushbar (⭐1k)](https://github.com/AndreHaueisen/flushbar) <!--stargazers:AndreHaueisen/flushbar--> - Highly configurable Snackbar by [Andre Haueisen](https://github.com/AndreHaueisen)
 
 ### Device / Augmented Reality
 
@@ -146,7 +146,7 @@
 ### Algorithms and Data structures
 
 *   [jumper (⭐12)](https://github.com/whitfin/jumper) - Jump consistent hash implementation in Elixir (without NIFs).
-*   [matrex (⭐478)](https://github.com/versilov/matrex) - A blazing fast matrix library for Elixir/Erlang with C implementation using CBLAS.
+*   [matrex (⭐481)](https://github.com/versilov/matrex) - A blazing fast matrix library for Elixir/Erlang with C implementation using CBLAS.
 
 ### Chatting
 
@@ -171,7 +171,7 @@
 
 ### Translations and Internationalizations
 
-*   [gettext (⭐449)](https://github.com/elixir-lang/gettext) - Internationalization and localization support for Elixir.
+*   [gettext (⭐478)](https://github.com/elixir-lang/gettext) - Internationalization and localization support for Elixir.
 
 ### Validations
 
@@ -198,30 +198,30 @@
 
 ### Utility / Barcode
 
-*   [EtherWalletKit (⭐144)](https://github.com/SteadyAction/EtherWalletKit) - Ethereum Wallet Toolkit for iOS - You can implement Ethereum wallet without a server and blockchain knowledge.
+*   [EtherWalletKit (⭐146)](https://github.com/SteadyAction/EtherWalletKit) - Ethereum Wallet Toolkit for iOS - You can implement Ethereum wallet without a server and blockchain knowledge.
 
 ## [15. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
 
 ### Apps
 
-*   [Hardbin (⭐247)](https://github.com/jes/hardbin) - Hardbin is an encrypted pastebin, with the decryption key passed in the URL fragment
-*   [InterPlanetary Wayback (⭐576)](https://github.com/oduwsdl/ipwb) - Web Archive (WARC) indexing and replay using IPFS.
-*   [Interplanetary Wiki (⭐99)](https://github.com/jamescarlyle/ipfs-wiki) - Wiki built on top of IPFS
+*   [Hardbin (⭐253)](https://github.com/jes/hardbin) - Hardbin is an encrypted pastebin, with the decryption key passed in the URL fragment
+*   [InterPlanetary Wayback (⭐618)](https://github.com/oduwsdl/ipwb) - Web Archive (WARC) indexing and replay using IPFS.
+*   [Interplanetary Wiki (⭐101)](https://github.com/jamescarlyle/ipfs-wiki) - Wiki built on top of IPFS
 *   [IPFessay](https://gitlab.com/stavros/IPFessay) - A simple way to publish uncensorable essays on IPFS.
 *   [PushToTalk](http://timothy.hobbs.cz/push-to-talk/index.html) - Push to Talk lets you edit audio essays and publish them with IPFS.
 
 ### Tools
 
-*   [git-ipfs-rehost (⭐198)](https://github.com/whyrusleeping/git-ipfs-rehost) - A script to rehost your git repos in ipfs.
-*   [git-remote-ipfs (⭐220)](https://github.com/cryptix/git-remote-ipfs) - push/pull repositories from/to IPFS.
-*   [http2ipfs (⭐43)](https://github.com/jbenet/http2ipfs-web) - This is a simple webtool to add URLs to an IPFS node.
-*   [ipfs-add-from-encrypted (⭐51)](https://github.com/TroyWilson1/ipfs-add-from-encrypted) - Encrypt a file or directory with AES256 then add to IPFS.
-*   [ipfs-companion (⭐2k)](https://github.com/ipfs/ipfs-companion) - Browser extension that simplifies access to IPFS resources.
-*   [ipfs-mount (⭐142)](https://github.com/richardschneider/net-ipfs-mount) - Mount IPFS as a mapped drive on Windows.
+*   [git-ipfs-rehost (⭐201)](https://github.com/whyrusleeping/git-ipfs-rehost) - A script to rehost your git repos in ipfs.
+*   [git-remote-ipfs (⭐229)](https://github.com/cryptix/git-remote-ipfs) - push/pull repositories from/to IPFS.
+*   [http2ipfs (⭐44)](https://github.com/jbenet/http2ipfs-web) - This is a simple webtool to add URLs to an IPFS node.
+*   [ipfs-add-from-encrypted (⭐53)](https://github.com/TroyWilson1/ipfs-add-from-encrypted) - Encrypt a file or directory with AES256 then add to IPFS.
+*   [ipfs-companion (⭐2.1k)](https://github.com/ipfs/ipfs-companion) - Browser extension that simplifies access to IPFS resources.
+*   [ipfs-mount (⭐147)](https://github.com/richardschneider/net-ipfs-mount) - Mount IPFS as a mapped drive on Windows.
 *   [ipfs-paste (⭐32)](https://github.com/jbenet/ipfs-paste) - Paste stdin and clipboard to IPFS.
 *   [ipfs-screencap (⭐49)](https://github.com/jbenet/ipfs-screencap) - Capture screenshots, publish them to IPFS, and copy the link to the clipboard.
-*   [ipget (⭐357)](https://github.com/ipfs/ipget) - :satellite: wget for IPFS: retrieve files over IPFS and save them locally.
-*   [IPRedirect (⭐7)](https://github.com/JayBrown/IPRedirect) - Browser userscript for redirecting IPFS/IPNS addresses to your local gateway. This should work on any browser that hasn't had an extension written for it yet and has support for userscripts.
+*   [ipget (⭐400)](https://github.com/ipfs/ipget) - :satellite: wget for IPFS: retrieve files over IPFS and save them locally.
+*   [IPRedirect (⭐8)](https://github.com/JayBrown/IPRedirect) - Browser userscript for redirecting IPFS/IPNS addresses to your local gateway. This should work on any browser that hasn't had an extension written for it yet and has support for userscripts.
 
 ## [16. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
@@ -272,17 +272,11 @@
 
 *   [Applying OpenGL Shaders with FFmpeg](https://nervous.io/ffmpeg/opengl/2017/01/31/ffmpeg-opengl) - And [follow-up](https://nervous.io/ffmpeg/opengl/2017/05/15/ffmpeg-pbo-yuv).
 
-## [22. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Resources / Examples
-
-*   [Vue + TypeScript Cookbook (⭐273)](https://github.com/ffxsam/vue-typescript-cookbook/blob/master/README.md) - A small cookbook covering some less-than-obvious solutions for people getting started with Vue + TypeScript
-
-## [23. Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md)
+## [22. Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md)
 
 ### Boilerplates / Themes
 
-*   [Typescript React With Mobx Starter (⭐365)](https://github.com/YDJ-FE/ts-react-webpack) - a starter-template with typescript, react, mobx, antd and webpack).
+*   [Typescript React With Mobx Starter (⭐362)](https://github.com/YDJ-FE/ts-react-webpack) - a starter-template with typescript, react, mobx, antd and webpack).
 
 ---
 

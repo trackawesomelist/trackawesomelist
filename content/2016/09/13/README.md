@@ -16,7 +16,7 @@
 
 ### Artificial Intelligence
 
-*   [simple\_bayes (⭐392)](https://github.com/fredwu/simple_bayes) - A Simple Bayes / Naive Bayes implementation in Elixir.
+*   [simple\_bayes (⭐390)](https://github.com/fredwu/simple_bayes) - A Simple Bayes / Naive Bayes implementation in Elixir.
 
 ### Authentication
 
@@ -24,7 +24,7 @@
 
 ### Macros
 
-*   [pipe\_to (⭐85)](https://github.com/taiansu/pipe_to) - The enhanced pipe operator which can specify the target position.
+*   [pipe\_to (⭐84)](https://github.com/taiansu/pipe_to) - The enhanced pipe operator which can specify the target position.
 
 ### Queue
 

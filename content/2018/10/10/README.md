@@ -164,8 +164,9 @@
 
 ### Mobile
 
-*   [cl-yacclyaml (⭐14)](https://github.com/mabragor/cl-yaclyaml) - a pure lisp YAML processor (loader, but not yet dumper). [GPL3](http://www.gnu.org/copyleft/gpl.html).
-*   [cl-yaml](https://github.com/eudoxia0/cl-yaml.git) - a YAML parser and emitter built on top of libyaml. [MIT](https://opensource.org/licenses/MIT).
+*   👍 [cl-yaml](https://github.com/eudoxia0/cl-yaml.git) - a YAML parser and emitter built on top of libyaml. [MIT](https://opensource.org/licenses/MIT).
+    *   an active fork: [cl-RemiYaml](https://nanako.mooo.com/fossil/cl-remiyaml/index) with a few fixes. Not a drop-in replacement.
+*   [cl-yacclyaml (⭐15)](https://github.com/mabragor/cl-yaclyaml) - a pure lisp YAML processor (loader, but not yet dumper). [GPL3](http://www.gnu.org/copyleft/gpl.html).
 
 ## [14. Awesome Educational Games](/content/yrgo/awesome-educational-games/README.md)
 
@@ -186,8 +187,6 @@
   HTTPS: Yes
 
   CORS: Unknown
-
-  Call this API: 
 
 
 

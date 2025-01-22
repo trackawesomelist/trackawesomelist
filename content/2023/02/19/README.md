@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 19, 2023
 
-23 awesome lists updated today.
+22 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -22,22 +22,22 @@
 
 *   [Dapp.tools](https://dapp.tools/) - Command line tools and smart contract libraries for Ethereum smart contract development.
 *   [Ganache](https://trufflesuite.com/ganache/) - Personal Ethereum blockchain which you can use to run tests, execute commands, and inspect state while controlling how the chain operates.
-*   [Foundry (⭐7.6k)](https://github.com/foundry-rs/foundry) - Blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
+*   [Foundry (⭐8.5k)](https://github.com/foundry-rs/foundry) - Blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
 *   [Hardhat](https://hardhat.org/) - Multichain Ethereum development environment.
-*   [Robot Framework Solidity Testing Toolkit (⭐10)](https://github.com/jg8481/Robot-Framework-Solidity-Testing-Toolkit) - This combines popular smart contract testing and deployment libraries with Robot Framework.
+*   [Robot Framework Solidity Testing Toolkit (⭐11)](https://github.com/jg8481/Robot-Framework-Solidity-Testing-Toolkit) - This combines popular smart contract testing and deployment libraries with Robot Framework.
 *   [Truffle Suite](https://trufflesuite.com/) - Comprehensive suite of tools for smart contract development.
 
 ## [3. Awesome Malware Persistence](/content/Karneades/awesome-malware-persistence/README.md)
 
 ### Techniques / macOS
 
-*   [PoisonApple (⭐220)](https://github.com/CyborgSecurity/PoisonApple/blob/master/poisonapple/techniques.py) - Learn about various macOS persistence techniques by looking at the source code of PoisonApple.
+*   [PoisonApple (⭐221)](https://github.com/CyborgSecurity/PoisonApple/blob/master/poisonapple/techniques.py) - Learn about various macOS persistence techniques by looking at the source code of PoisonApple.
 
 ## [4. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
 
 ### Libraries and Tools / Python
 
-*   [Python-CAN (⭐1.1k)](https://github.com/hardbyte/python-can) - Python interface to various CAN implementations, including SocketCAN. Allows you to use Python 2.7.x or 3.3.x+ to communicate over CAN networks.
+*   [Python-CAN (⭐1.3k)](https://github.com/hardbyte/python-can) - Python interface to various CAN implementations, including SocketCAN. Allows you to use Python 2.7.x or 3.3.x+ to communicate over CAN networks.
 
 ## [5. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
@@ -49,7 +49,7 @@
 
 ### Data validation / Third-party APIs
 
-*   [cl-semver (⭐13)](https://github.com/cldm/cl-semver) - Implementation of the [Semantic Versioning](https://semver.org) Specification. [MIT](https://opensource.org/licenses/MIT)
+*   [cl-semver (⭐14)](https://github.com/cldm/cl-semver) - Implementation of the [Semantic Versioning](https://semver.org) Specification. [MIT](https://opensource.org/licenses/MIT)
 
 ## [7. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
@@ -62,7 +62,7 @@
 ### Algorithms and Data structures
 
 *   [qcomplex (⭐5)](https://github.com/q60/complex) - Elixir library implementing complex numbers and math operations for them.
-*   [qrational (⭐7)](https://github.com/q60/rational) - Elixir library implementing rational numbers and math operations for them.
+*   [qrational (⭐8)](https://github.com/q60/rational) - Elixir library implementing rational numbers and math operations for them.
 
 ### Applications
 
@@ -76,7 +76,7 @@
 
 ### Libraries / Email
 
-*   [stalwartlabs/mail-auth (⭐82)](https://github.com/stalwartlabs/mail-auth) \[[mail-auth](https://crates.io/crates/mail-auth)] - DKIM, ARC, SPF and DMARC message authentication library [![build badge](https://github.com/stalwartlabs/mail-auth/actions/workflows/rust.yml/badge.svg)](https://github.com/stalwartlabs/mail-auth/actions/workflows/rust.yml)
+*   [stalwartlabs/mail-auth (⭐90)](https://github.com/stalwartlabs/mail-auth) \[[mail-auth](https://crates.io/crates/mail-auth)] - DKIM, ARC, SPF and DMARC message authentication library [![build badge](https://github.com/stalwartlabs/mail-auth/actions/workflows/rust.yml/badge.svg)](https://github.com/stalwartlabs/mail-auth/actions/workflows/rust.yml)
 
 ## [10. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
@@ -96,7 +96,7 @@
 
 *   [What ChatGPT and generative AI mean for science | Nature](https://www.nature.com/articles/d41586-023-00340-6)
 
-### Inbox: Speech-to-text (STT) and spoken content analysis / Deforum
+### Speech-to-text (STT) and spoken content analysis / Deforum
 
 *   [The Impact of AI on Developer Productivity: Evidence from GitHub Copilot | arxiv](https://arxiv.org/abs/2302.06590)
 
@@ -104,7 +104,7 @@
 
 ### Software / Automation
 
-*   [Matchering (⭐1.3k)](https://github.com/sergree/matchering) - A containerized web app for automated music mastering (alternative to LANDR, eMastered, and MajorDecibel). `GPL-3.0` `Docker`
+*   [Matchering (⭐1.9k)](https://github.com/sergree/matchering) - A containerized web app for automated music mastering (alternative to LANDR, eMastered, and MajorDecibel). `GPL-3.0` `Docker`
 
 ## [14. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -130,7 +130,7 @@
 
 ### RPG
 
-*   [Zelda3 (⭐4.2k)](https://github.com/snesrev/zelda3) - This is a reverse engineered clone of Zelda 3 - A Link to the Past.
+*   [Zelda3 (⭐4.3k)](https://github.com/snesrev/zelda3) - This is a reverse engineered clone of Zelda 3 - A Link to the Past.
 
 ## [17. Progressive Enhancement Resources](/content/jbmoelker/progressive-enhancement-resources/README.md)
 
@@ -138,33 +138,25 @@
 
 *   [iOS PWA Compatibility](https://firt.dev/notes/pwa-ios/) - Support table for PWA features including service worker, manifest, background sync and push notifications (Unofficial, maintained by Maximiliano Firtman).
 
-## [18. Web Development Resources](/content/markodenic/web-development-resources/README.md)
-
-### Learning Platforms:
-
-- Website: <https://tutoriac.com/>
-
-
-
-## [19. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [18. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Remote Development / Diagnostics
 
-*   [miversen33/netman.nvim (⭐330)](https://github.com/miversen33/netman.nvim) - Lua powered Network Resource Manager.
+*   [miversen33/netman.nvim (⭐343)](https://github.com/miversen33/netman.nvim) - Lua powered Network Resource Manager.
 
-## [20. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/README.md)
+## [19. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/README.md)
 
-### Transition To Pure Rigour Math / Monograph
+### Papers / Lecture Videos Playlist
 
 *   [Harry Lewis. Ideas That Created the Future: Classic Papers of Computer Science ](https://mitpress.mit.edu/9780262045308/ideas-that-created-the-future/) - Classic papers by thinkers ranging from Aristotle and Leibniz to Norbert Wiener and Gordon Moore that chart the evolution of computer science.
 
-## [21. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
+## [20. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
 ### Multiple languages / [Other](#other-1)
 
 *   [Qwiet AI](https://qwiet.ai/) :copyright: — Identify vulnerabilities that are unique to your code base before they reach production. Leverages the Code Property Graph (CPG) to run its analyses concurrently in a single graph of graphs. Automatically finds business logic flaws in dev like hardcoded secrets and logic bombs
 
-## [22. Awesome Fiber](/content/gofiber/awesome-fiber/README.md)
+## [21. Awesome Fiber](/content/gofiber/awesome-fiber/README.md)
 
 ### 📖 Articles / 🌱 Third Party
 
@@ -172,11 +164,11 @@
 *   [Build a fullstack app with Go Fiber, Docker, and Postgres](https://dev.to/divrhino/build-a-fullstack-app-with-go-fiber-docker-and-postgres-1jg6)
 *   [Create a CRUD app with Go Fiber, docker, and Postgres](https://dev.to/divrhino/create-a-crud-app-with-go-fiber-docker-and-postgres-47e3)
 
-## [23. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
+## [22. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
 
 ### Base Tools / Other
 
-*   [dockerize (⭐180)](https://github.com/powerman/dockerize) - Utility to simplify running applications in docker containers by [@jwilder](https://github.com/jwilder), [@powerman](https://github.com/powerman)
+*   [dockerize (⭐185)](https://github.com/powerman/dockerize) - Utility to simplify running applications in docker containers by [@jwilder](https://github.com/jwilder), [@powerman](https://github.com/powerman)
 
 ---
 

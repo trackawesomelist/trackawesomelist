@@ -33,9 +33,9 @@
 
   CORS: Unknown
 
-  Run in Postman: 
+  : 
 
-  : [<sup>**Run in Postman**</sup>](https://god.gw.postman.com/run-collection/1034536-ec65aa12-bea7-413c-9f3f-5f96d63eb62e?action=collection%2Ffork\&source=rip_markdown\&collection-url=entityId%3D1034536-ec65aa12-bea7-413c-9f3f-5f96d63eb62e%26entityType%3Dcollection%26workspaceId%3D67bb7371-b898-48d6-b4ba-19a622f3f5c2)
+  : 
 
 
 
@@ -85,17 +85,13 @@
 
 ### Others
 
-*   [TypinExamples (⭐242)](https://github.com/adambajguz/Typin/tree/master/src/TypinExamples) - ![last commit](https://img.shields.io/github/last-commit/adambajguz/Typin?style=flat-square\&cacheSeconds=86400) A sample project that demonstrates the usage of [Typin (⭐242)](https://github.com/adambajguz/Typin/) framework with a Blazor SPA application (Xterm.js and custom web workers implementation in C# to emulate terminal experience in browser). [Live demo](https://adambajguz.github.io/Typin/).
+*   [TypinExamples (⭐244)](https://github.com/adambajguz/Typin/tree/master/src/TypinExamples) - ![last commit](https://img.shields.io/github/last-commit/adambajguz/Typin?style=flat-square\&cacheSeconds=86400) A sample project that demonstrates the usage of [Typin (⭐244)](https://github.com/adambajguz/Typin/) framework with a Blazor SPA application (Xterm.js and custom web workers implementation in C# to emulate terminal experience in browser). [Live demo](https://adambajguz.github.io/Typin/).
 
 ## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Testing
 
-*   [Appetize](https://appetize.io) — Test your Android & iOS apps on this Cloud Based Android Phone / Tablets emulator and iPhone/iPad simulators directly in your browser. The free tier includes one concurrent session with 100 minutes of usage per month. No limit on app size.
-
-### IDE and Code Editing
-
-*   [Android Studio](https://d.android.com/studio) — Android Studio provides the fastest tools for building apps on every type of Android device. Open Source IDE is free for everyone and the best Android app development. Available for Windows, Mac, Linux, and even ChromeOS!
+*   [Appetize](https://appetize.io) — Test your Android & iOS apps on this Cloud Based Android Phone / Tablets emulator and iPhone/iPad simulators directly in your browser. The free tier includes two concurrent session with 30 minutes of usage per month. No limit on app size.
 
 ## [10. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
@@ -103,7 +99,7 @@
 
 *   [Website](https://nodejs.org)
 *   [Documentation](https://nodejs.org/dist/latest/docs/api/)
-*   [Repository (⭐106k)](https://github.com/nodejs/node)
+*   [Repository (⭐108k)](https://github.com/nodejs/node)
 
 ### Resources / Videos
 

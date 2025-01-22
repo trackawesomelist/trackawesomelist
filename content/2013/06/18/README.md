@@ -14,7 +14,7 @@
 
 ### Table of Contents / E-commerce
 
-*   [Payum (⭐1.8k)](https://github.com/payum/payum) - A payment abstraction library.
+*   [Payum (⭐1.9k)](https://github.com/payum/payum) - A payment abstraction library.
 
 ### Table of Contents / API
 

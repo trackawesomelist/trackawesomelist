@@ -16,7 +16,7 @@
 
 ### Utility / Semantic Versioning
 
-*   [Increment Semantic Version (⭐54)](https://github.com/christian-draeger/increment-semantic-version) - Bump a given semantic version (SemVer), depending on given release type.
+*   [Increment Semantic Version (⭐84)](https://github.com/christian-draeger/increment-semantic-version) - Bump a given semantic version (SemVer), depending on given release type.
 
 ## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -50,7 +50,7 @@
 
 ### Music Programming
 
-*   [Midica (⭐106)](https://github.com/truj/midica) - MIDI programming language with decompiler and player, supports karaoke.
+*   [Midica (⭐116)](https://github.com/truj/midica) - MIDI programming language with decompiler and player, supports karaoke.
 
 ## [8. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
@@ -97,7 +97,7 @@
 
 ### Quality / Barcode
 
-*   [swift-mod (⭐100)](https://github.com/ra1028/swift-mod) - A tool for Swift code modification intermediating between code generation and formatting.
+*   [swift-mod (⭐103)](https://github.com/ra1028/swift-mod) - A tool for Swift code modification intermediating between code generation and formatting.
 
 ## [15. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
 
@@ -113,7 +113,7 @@
 
 ### Calculator / Market Research
 
-*   [Cloud Cost Calculator (⭐88)](https://github.com/scalyr/cloud-costs) - Web-based tool for finding the cheapest cloud servers for a given set of requirements.
+*   [Cloud Cost Calculator (⭐87)](https://github.com/scalyr/cloud-costs) - Web-based tool for finding the cheapest cloud servers for a given set of requirements.
 *   [EC2Instances.info](https://ec2instances.info) - Easy Amazon EC2 Instance Comparison.
 
 ### Marketplace / Cloud Resources
@@ -128,7 +128,7 @@
 
 ### Taxes / Currencies
 
-*   [{Digital,Cloud,Electronic,Online} Services VAT Rate Database (⭐89)](https://github.com/kdeldycke/vat-rates) - Centralize applicable VAT rates on foreign online services, for each country of residence (including territorial exceptions).
+*   [{Digital,Cloud,Electronic,Online} Services VAT Rate Database (⭐93)](https://github.com/kdeldycke/vat-rates) - Centralize applicable VAT rates on foreign online services, for each country of residence (including territorial exceptions).
 
 ### Invoice / European VAT
 
@@ -142,7 +142,7 @@
 ### Invoice / Generators
 
 *   [Manta (⭐5.3k)](https://github.com/hql287/Manta) - Flexible invoicing desktop app with beautiful & customizable templates.
-*   [InvoicePlane (⭐2.4k)](https://github.com/InvoicePlane/InvoicePlane) - A self-hosted open-source application for managing your invoices, clients and payments.
+*   [InvoicePlane (⭐2.6k)](https://github.com/InvoicePlane/InvoicePlane) - A self-hosted open-source application for managing your invoices, clients and payments.
 
 ### Payments / Electronic invoices
 
@@ -158,7 +158,7 @@
 
 ### Fraud / Online Payments
 
-*   [Awesome List of IAM: Fraud links (⭐1.6k)](https://github.com/kdeldycke/awesome-iam#fraud) - Section dedicated to fraud management related to user accounts, from our sister repository.
+*   [Awesome List of IAM: Fraud links (⭐1.8k)](https://github.com/kdeldycke/awesome-iam#fraud) - Section dedicated to fraud management related to user accounts, from our sister repository.
 
 ### Fraud / Cards
 
@@ -229,7 +229,7 @@
 
 ### Table of Contents / Code Analysis
 
-*   [Rector (⭐8.5k)](https://github.com/rectorphp/rector) - A tool to upgrade and refactor code.
+*   [Rector (⭐9.2k)](https://github.com/rectorphp/rector) - A tool to upgrade and refactor code.
 
 ## [20. Awesome Coq](/content/coq-community/awesome-coq/README.md)
 

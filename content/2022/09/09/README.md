@@ -23,7 +23,7 @@
 
 ### TensorFlow / General-Purpose Machine Learning
 
-*   [Awesome Keras (⭐21)](https://github.com/markusschanta/awesome-keras) - A curated list of awesome Keras projects, libraries and resources.
+*   [Awesome Keras (⭐22)](https://github.com/markusschanta/awesome-keras) - A curated list of awesome Keras projects, libraries and resources.
 
 ## [4. Awesome Go](/content/avelino/awesome-go/README.md)
 
@@ -35,7 +35,7 @@
 
 ### Zig development tools / Messaging
 
-*   [korandoru/setup-zig (⭐18)](https://github.com/korandoru/setup-zig) - Set up a specific version of Zig environment on GitHub Actions.
+*   [korandoru/setup-zig (⭐20)](https://github.com/korandoru/setup-zig) - Set up a specific version of Zig environment on GitHub Actions.
 
 ## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -49,20 +49,20 @@
 
 *   [grep.app](https://grep.app/) - Searches code from the entire github public repositories for a given specific string or using regular expression.
 
-### Username Check / Telegram
+### Username Check / Steam
 
 *   [Name Checkup](https://namecheckup.com) - is a search tool that allows you to check the avilability of a givrn username from all over the social media. Inaddition it also sllows you to check the avilability of a given domain name.
 
-### Browsers / Telegram
+### Browsers / Steam
 
 *   [Brave](https://brave.com) - is an open-source web browser that allows you to completely block ads and website trackers.
 
-### Infographics and Data Visualization / Telegram
+### Infographics and Data Visualization / Steam
 
 *   [Chart.js](http://www.chartjs.org) - a javascript library that allows you to create charts easly
 *   [D3js](https://d3js.org) - is a powerful data visualization javascript library.
 
-### Social Network Analysis / Telegram
+### Social Network Analysis / Steam
 
 *   [Gephi](https://gephi.org) - is an open-source graph and network visualization software.
 
@@ -80,7 +80,7 @@
 
 ### Compression
 
-*   [bzip3 (⭐671)](https://github.com/kspalaiologos/bzip3) - A better and stronger spiritual successor to BZip2. \[LGPL]
+*   [bzip3 (⭐713)](https://github.com/kspalaiologos/bzip3) - A better and stronger spiritual successor to BZip2. \[LGPL]
 
 ## [10. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 

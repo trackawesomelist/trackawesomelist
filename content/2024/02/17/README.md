@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 17, 2024
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,12 +16,12 @@
 
 ### Applications / System tools
 
-*   [qarmin/czkawka (⭐19k)](https://github.com/qarmin/czkawka) - Multi-functional app to find duplicates, empty folders, similar images, etc. [![GitHub Actions Workflow](https://github.com/qarmin/czkawka/actions/workflows/pages/pages-build-deployment/badge.svg?branch=master)](https://github.com/qarmin/czkawka/actions)
+*   [qarmin/czkawka (⭐21k)](https://github.com/qarmin/czkawka) - Multi-functional app to find duplicates, empty folders, similar images, etc. [![GitHub Actions Workflow](https://github.com/qarmin/czkawka/actions/workflows/pages/pages-build-deployment/badge.svg?branch=master)](https://github.com/qarmin/czkawka/actions)
 
 ### Libraries / Markup language
 
 *   CommonMark
-    *   [pulldown-cmark/pulldown-cmark (⭐2k)](https://github.com/pulldown-cmark/pulldown-cmark) - [CommonMark](https://commonmark.org/) parser
+    *   [pulldown-cmark/pulldown-cmark (⭐2.1k)](https://github.com/pulldown-cmark/pulldown-cmark) - [CommonMark](https://commonmark.org/) parser
 
 ## [3. Awesome Cropsteering](/content/Intergalactic-XYZ/awesome-cropsteering/README.md)
 
@@ -43,83 +43,73 @@
 
 ## [4. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
-### 2D / Godot 4.2
+### 2D / Godot 4
 
-*   [Poder Solar (⭐44)](https://github.com/antimundo/poder-solar) - Simple resource management game.
+*   [Poder Solar (⭐66)](https://github.com/antimundo/poder-solar) - Simple resource management game.
 
 ## [5. Awesome Osint](/content/jivoi/awesome-osint/README.md)
-
-### Company Research / Telegram
-
-*   [Datalead AI](https://datalead.ai) - A 360-degree view to billions of people and companies with deep, actionable insights.
 
 ### Real-Time Search, Social Media Search, and General Social Media Tools
 
 *   [Predicta Search](https://predictasearch.com) - Search for social accounts with e-mail and phone
 *   [SocialBlade](http://socialblade.com)
 
-### Username Check / Telegram
+### Username Check / Steam
 
 *   [CheckUser](https://checkuser.vercel.app/) - search username across social networks
 
-### People Investigations / Telegram
+### People Investigations / Steam
 
 *   [FamilyTreeNow](https://familytreenow.com) - Research family and geneology, no registration required, can search addresses, phone numbers, and email addresses as well as associations.
 *   [VineLink](https://www.vinelink.com/#state-selection) - Inmate search and notification service for victims of crime, linked to multiple correctional facilities' booking systems in the U.S.
 
-### Email Search / Email Check / Telegram
+### Email Search / Email Check / Steam
 
-*   [Gitrecon (⭐18)](https://github.com/atiilla/gitrecon) - Node.js tool to scan GitHub repositories for exposed email addresses and names.
+*   [Gitrecon (⭐21)](https://github.com/atiilla/gitrecon) - Node.js tool to scan GitHub repositories for exposed email addresses and names.
 
-### Domain and IP Research / Telegram
+### Domain and IP Research / Steam
 
 *   [Validin](https://app.validin.com/) - Website and API to search current and historical DNS records for free
 
-### Image Search / Telegram
+### Image Search / Steam
 
-*   [GeoSpyer (⭐171)](https://github.com/atiilla/geospy "Original service: https://geospy.web.app/") - Python tool using Graylark's AI-powered geo-location service to uncover the location where photos were taken.
+*   [GeoSpyer (⭐218)](https://github.com/atiilla/geospy "Original service: https://geospy.web.app/") - Python tool using Graylark's AI-powered geo-location service to uncover the location where photos were taken.
 
-### Image Analysis / Telegram
+### Image Analysis / Steam
 
 *   [GeoSpy](https://geospy.web.app/) - AI based image osint tool
 
-### Web Monitoring / Telegram
+### Web Monitoring / Steam
 
 *   [ChangeDetection.io](https://changedetection.io)
-*   [ChangeDetection.io Open Source (⭐16k)](https://github.com/dgtlmoon/changedetection.io)
+*   [ChangeDetection.io Open Source (⭐21k)](https://github.com/dgtlmoon/changedetection.io)
 
-### Other Tools / Telegram
+### Other Tools / Steam
 
-*   [Discoshell (⭐76)](https://github.com/foozzi/discoshell) - A simple discovery script that uses popular tools like subfinder, amass, puredns, alterx, massdns and others
+*   [Discoshell (⭐77)](https://github.com/foozzi/discoshell) - A simple discovery script that uses popular tools like subfinder, amass, puredns, alterx, massdns and others
 *   [OSINT-Tool](https://www.osint-tool.com/) - A browser extension that gives you access to a suite of OSINT utilities (Dehashed, Epieos, Domaintools, Exif data, Reverse image search, etc) directly on any webpage you visit.
 
-## [6. Awesome V](/content/vlang/awesome-v/README.md)
-
-### Web
-
-*   [vistas (⭐1)](https://github.com/Coachonko/vistas) - Central file server API.
-
-## [7. Awesome Php](/content/ziadoz/awesome-php/README.md)
+## [6. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Configuration / Development Environment
 
-*   [DDEV (⭐2.6k)](https://github.com/ddev/ddev) - a local web development environment system for PHP.
-*   [Docksal (⭐683)](https://github.com/docksal/docksal) - Unified, Docker :whale: powered web development environments for macOS, Windows, and Linux.
+*   [DDEV (⭐2.9k)](https://github.com/ddev/ddev) - a local web development environment system for PHP.
+*   [Docksal (⭐694)](https://github.com/docksal/docksal) - Unified, Docker :whale: powered web development environments for macOS, Windows, and Linux.
 
-## [8. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
+## [7. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 
 ### Libraries
 
-*   [PureEval (⭐27)](https://github.com/PureEval/PureEval) - A powerful JavaScript functional programming toolset, including utility functions and abstract data structures.
-*   [context-fp (⭐1)](https://github.com/darky/context-fp) - Microscopic functional programming context aka dependency injection. +TS
+*   [PureEval (⭐37)](https://github.com/PureEval/PureEval) - A powerful JavaScript functional programming toolset, including utility functions and abstract data structures.
+*   [context-fp (⭐2)](https://github.com/darky/context-fp) - Microscopic functional programming context aka dependency injection. +TS
 
-## [9. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/README.md)
+## [8. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/README.md)
 
 ### Other sources
 
 *   [SpeedChecker Insights](https://insights.speedchecker.com/) - Periodic country-level reports on mobile internet speeds, latency, and coverage
 
-## [10. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [9. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### Critical Views about Generative AI
 
@@ -129,11 +119,11 @@
 
 *   [Sora](https://openai.com/sora): OpenAI's text-to-video model [\[technical report\]](https://openai.com/research/video-generation-models-as-world-simulators)
 
-## [11. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [10. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [classic (⭐0)](https://github.com/freakinu/classic-zsh-theme) - A classic unix theme with decorators for username, host, current directory and `git` status.
+*   [classic (⭐1)](https://github.com/freakinu/classic-zsh-theme) - A classic unix theme with decorators for username, host, current directory and `git` status.
 *   [frontcube (⭐0)](https://github.com/ronitkrshah/frontcube/) - Requires a nerd font. Based on the official [Frontcube (⭐4)](https://github.com/ornicar/oh-my-zsh/blob/master/themes/frontcube.zsh-theme) theme. Includes decorators for `git` status and current directory.
 
 ---

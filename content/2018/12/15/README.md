@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 15, 2018
 
-13 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,7 +16,7 @@
 
 ### Types / Playground
 
-*   [ts-essentials (⭐3.7k)](https://github.com/krzkaczor/ts-essentials) - All essential TypeScript types in one place
+*   [ts-essentials (⭐3.8k)](https://github.com/krzkaczor/ts-essentials) - All essential TypeScript types in one place
 
 ## [3. Amas](/content/sindresorhus/amas/README.md)
 
@@ -125,59 +125,40 @@
 
 ### Developer Tools / Command Line Tools
 
-*   [spaceship (⭐19k)](https://github.com/denysdovhan/spaceship-prompt) - A Zsh prompt for Astronauts. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/denysdovhan/spaceship-prompt) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [spaceship (⭐20k)](https://github.com/denysdovhan/spaceship-prompt) - A Zsh prompt for Astronauts. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/denysdovhan/spaceship-prompt) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Resources / Examples
-
-*   [**Vue websockets example**](https://github.com/latovicalmin/vuejs-websockets-example) - A basic example of Websockets usage with Vue.js 2 + Node project for full working example.
-
-### Projects Using Vue.js / Open Source
-
-*   [core-server (⭐17)](https://github.com/skyhark-projects/core-server) - Highly scalable VueJs framework with an integrated API system, and multiple advanced features.
-
-### Components & Libraries / UI Components
-
-*   [vue-hotel-datepicker (⭐843)](https://github.com/krystalcampioni/vue-hotel-datepicker) - A responsive date range picker that displays the number of nights selected, allows custom check-in/check-out rules, blocking dates, localization support and more.
-*   [vue2-persian-datepicker (⭐99)](https://github.com/dyonir/vue2-persian-datepicker) - An awesome Persian datepicker component for vue. کامپوننت انتخاب تاریخ برای ویو.
-
-### Components & Libraries / UI Utilities
-
-*   [vue-scroll-sync (⭐29)](https://github.com/metawin-m/vue-scroll-sync) - A component that synchronizes containers’ scroll positions
-
-## [7. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
+## [6. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
 ### Online
 
 *   [Turtletoy](https://turtletoy.net/) - Minimalistic API and online showcase for generative code. (Javascript)
 *   [ShaderGif](https://shadergif.com/) - Open source home for art made with code (WebGL1/2, JavaScript Canvas & P5.js).
 
-## [8. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
+## [7. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 
 ### Learning
 
 *   [Nielsen and Chuang](https://workedproblems.wordpress.com/category/nielsenchuang/) - Worked examples on quantum algorithm problems.
 
-## [9. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/README.md)
+## [8. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/README.md)
 
 ### Libraries / Visualization
 
 *   [rdeditor (⭐75)](https://github.com/EBjerrum/rdeditor) - Simple RDKit molecule editor GUI using PySide.
 
-## [10. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
+## [9. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
 
 ### Graphics, Image and Design / Others
 
 *   [PhotoPea](https://www.photopea.com/) - Image editor that looks like Photoshop and has most of its features.
 
-## [11. Awesome List](/content/sindresorhus/awesome/README.md)
+## [10. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Platforms
 
-*   [Flutter (⭐53k)](https://github.com/Solido/awesome-flutter#readme) - Google's mobile SDK for building native iOS and Android apps from a single codebase written in Dart.
+*   [Flutter (⭐54k)](https://github.com/Solido/awesome-flutter#readme) - Google's mobile SDK for building native iOS and Android apps from a single codebase written in Dart.
 
-## [12. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
+## [11. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
 
 ### Mobile
 
@@ -186,7 +167,7 @@
 *   💡 [Flutter Calendar App (⭐76)](https://github.com/mattgraham1/FlutterCalendar) -
     New Flutter application implementing a simple mobile calendar app for storing basic events into Firebase cloud database.
 
-## [13. Awesome D3](/content/wbkd/awesome-d3/README.md)
+## [12. Awesome D3](/content/wbkd/awesome-d3/README.md)
 
 ### Miscellaneous / Third Party
 

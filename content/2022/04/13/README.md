@@ -142,15 +142,15 @@
 
 ### Proprietary (non-standard) vendor APIs
 
-*   [Navitia.io](http://www.navitia.io/) - REST API for journey planning, stop schedules, isochrones and lot more on US and EU. [Navitia (⭐428)](https://github.com/hove-io/navitia) is the opensource engine behind the live API.
+*   [Navitia.io](http://www.navitia.io/) - REST API for journey planning, stop schedules, isochrones and lot more on US and EU. [Navitia (⭐436)](https://github.com/hove-io/navitia) is the opensource engine behind the live API.
 
 ### Software for Creating APIs
 
-*   [Navitia (⭐428)](https://github.com/hove-io/navitia) is the opensource engine behind the [Navitia.io](http://www.navitia.io/) live API.
+*   [Navitia (⭐436)](https://github.com/hove-io/navitia) is the opensource engine behind the [Navitia.io](http://www.navitia.io/) live API.
 
 ### GTFS Converters / Ruby
 
-*   [transit\_model (⭐52)](https://github.com/hove-io/transit_model) - A Rust library to convert to/from the following formats: GTFS, NTFS (for Navitia, see [Software for Creating APIs](#software-for-creating-apis)), TransXChange ([UK standard format](http://naptan.dft.gov.uk/transxchange/documentation.htm)), KV1 ([Netherland standard format](http://bison.connekt.nl/standaarden/)) or NeTEx ([European standard format](http://netex-cen.eu/)).
+*   [transit\_model (⭐58)](https://github.com/hove-io/transit_model) - A Rust library to convert to/from the following formats: GTFS, NTFS (for Navitia, see [Software for Creating APIs](#software-for-creating-apis)), TransXChange (UK specification), KV1 (NL specification), NeTEx (EU specification).
 
 ## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -162,7 +162,7 @@
 
 ### Templates
 
-*   [rust-yew-axum-tauri-desktop (⭐128)](https://github.com/jetli/rust-yew-axum-tauri-desktop) - Rust + Yew + Axum + Tauri, full-stack Rust development for Desktop apps.
+*   [rust-yew-axum-tauri-desktop (⭐138)](https://github.com/jetli/rust-yew-axum-tauri-desktop) - Rust + Yew + Axum + Tauri, full-stack Rust development for Desktop apps.
 
 ## [8. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/README.md)
 
@@ -170,9 +170,9 @@
 
 *   [achavi](https://overpass-api.de/achavi/) - Augmented change viewer. ([Source Code (⭐41)](https://github.com/nrenner/achavi/) / [Wiki](https://wiki.openstreetmap.org/wiki/Achavi))
 *   [Osm Change Viz](https://resultmaps.neis-one.org/osm-change-viz) - Changeset visualizer displaying information about added/modified/deleted elements in different panels.
-*   [changeset-map](http://osmlab.github.io/changeset-map/) - Map visualizing changes in selected changesets. Used in OsmCha. ([Source Code (⭐32)](https://github.com/osmlab/changeset-map))
+*   [changeset-map](http://osmlab.github.io/changeset-map/) - Map visualizing changes in selected changesets. Used in OsmCha. ([Source Code (⭐34)](https://github.com/osmlab/changeset-map))
 *   [OSM History Viewer](https://osmhv.openstreetmap.de/) - Changeset visualization. ([Source Code (⭐9)](https://github.com/osmrmhv/osmrmhv))
-*   [Who did it?](https://simon04.dev.openstreetmap.org/whodidit/) - Map highlighting recent edits per tile. Provides RSS feeds for watching changes in custom bounding boxes.  ([Source Code (⭐68)](https://github.com/simon04/whodidit) / [Wiki](https://wiki.openstreetmap.org/wiki/Quality_assurance#WhoDidIt))
+*   [Who did it?](https://simon04.dev.openstreetmap.org/whodidit/) - Map highlighting recent edits per tile. Provides RSS feeds for watching changes in custom bounding boxes.  ([Source Code (⭐69)](https://github.com/simon04/whodidit) / [Wiki](https://wiki.openstreetmap.org/wiki/Quality_assurance#WhoDidIt))
 *   [Osm Change Tiles](https://resultmaps.neis-one.org/osm-change-tiles) - Map highlighting recent edits per tile. Provides RSS feeds for watching changes in custom bounding boxes.
 *   [Analytic OSM Tracker (⭐38)](https://github.com/MichaelVL/osm-analytic-tracker)[^selfhosted-only] - Tracker for changesets in your region.
 *   [Suspicious OSM Changesets](https://resultmaps.neis-one.org/osm-suspicious) - Find suspicious OSM changesets.

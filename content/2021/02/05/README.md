@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 05, 2021
 
-8 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -37,7 +37,7 @@ Language: English
 
 ## [3. Tools](/content/lvwzhen/tools/README.md)
 
-### CheetSheet
+### CheatSheet
 
 *   [Bootstrap CheatSheet](https://bootstrap-cheatsheet.themeselection.com/)
 
@@ -59,13 +59,7 @@ Language: English
 
 *   [BlazorIndexedDbJs (⭐11)](https://github.com/kattunga/BlazorIndexedDbJs) - ![last commit](https://img.shields.io/github/last-commit/kattunga/BlazorIndexedDbJs?style=flat-square\&cacheSeconds=86400) BlazorIndexedDbJs is a wrapper arround IndexedDB DOM API, supports Blazor WASM and Server.
 
-## [7. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
-
-### Table
-
-*   [svelte-simple-datatables (⭐270)](https://github.com/vincjo/svelte-simple-datatables) - A Datatable component for Svelte
-
-## [8. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
+## [7. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### cm Cameroon / Misc
 

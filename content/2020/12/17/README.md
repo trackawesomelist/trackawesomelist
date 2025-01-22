@@ -30,13 +30,13 @@
 
 ### Localization
 
-*   [attranslate (⭐325)](https://github.com/fkirc/attranslate) - Semi-automatically translate or synchronize .strings files or crossplatform-files from different languages.
+*   [attranslate (⭐341)](https://github.com/fkirc/attranslate) - Semi-automatically translate or synchronize .strings files or crossplatform-files from different languages.
 
 ## [5. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Debugging
 
-*   [extrace (⭐55)](https://github.com/redink/extrace) - Elixir wrapper for Recon Trace.
+*   [extrace (⭐58)](https://github.com/redink/extrace) - Elixir wrapper for Recon Trace.
 
 ## [6. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
@@ -52,13 +52,13 @@
 
 ### Utils / Third-party APIs
 
-*   [calispel (⭐31)](https://github.com/hawkir/calispel) - [CSP](https://en.wikipedia.org/wiki/Communicating_sequential_processes)-like channels for common lisp. With blocking, optionally buffered channels and a "CSP select" statement. ISC-style.
-    *   "It is complete, flexible and easy to use. I would recommend Calispel over Lparallel and ChanL." @Ambrevar. [discussion (⭐2.5k)](https://github.com/CodyReichert/awesome-cl/issues/290)
+*   [calispel (⭐32)](https://github.com/hawkir/calispel) - [CSP](https://en.wikipedia.org/wiki/Communicating_sequential_processes)-like channels for common lisp. With blocking, optionally buffered channels and a "CSP select" statement. ISC-style.
+    *   "It is complete, flexible and easy to use. I would recommend Calispel over Lparallel and ChanL." @Ambrevar. [discussion (⭐2.7k)](https://github.com/CodyReichert/awesome-cl/issues/290)
 
 ### Apps / Third-party APIs
 
-*   [cl-phonetic (⭐24)](https://github.com/bgutter/cl-phonetic) - Phonetic pattern matching library for Common Lisp (intended to replace the Sylvia library for Python). [MIT](https://opensource.org/licenses/MIT).
-*   [cl-string-generator (⭐23)](https://github.com/pokepay/cl-string-generator) -  Generate string from regular expression. [MIT](https://opensource.org/licenses/MIT).
+*   [cl-phonetic (⭐25)](https://github.com/bgutter/cl-phonetic) - Phonetic pattern matching library for Common Lisp (intended to replace the Sylvia library for Python). [MIT](https://opensource.org/licenses/MIT).
+*   [cl-string-generator (⭐24)](https://github.com/pokepay/cl-string-generator) -  Generate string from regular expression. [MIT](https://opensource.org/licenses/MIT).
 
 ### Plotting / Third-party APIs
 
@@ -135,7 +135,7 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 
 ### Back-end API / Playground
 
-*   :octocat: [ZenTS (⭐35)](https://github.com/sahachide/ZenTS) - A modern Node.js and TypeScript first framework for building rich web applications
+*   :octocat: [ZenTS (⭐36)](https://github.com/sahachide/ZenTS) - A modern Node.js and TypeScript first framework for building rich web applications
 
 ## [12. Awesome Codepoints](/content/Codepoints/awesome-codepoints/README.md)
 
@@ -182,7 +182,7 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 
 ### Contents / Finance
 
-*   [Receipt Manager (⭐174)](https://github.com/ReceiptManager/Application) <!--stargazers:ReceiptManager/Application--> - Receipt parser, manager and tracker by [Monolidth](https://github.com/monolidth)
+*   [Receipt Manager (⭐193)](https://github.com/ReceiptManager/Application) <!--stargazers:ReceiptManager/Application--> - Receipt parser, manager and tracker by [Monolidth](https://github.com/monolidth)
 
 ---
 

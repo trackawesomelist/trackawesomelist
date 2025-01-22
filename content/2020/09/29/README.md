@@ -27,7 +27,7 @@
 
 *   [AnalyzeID](https://analyzeid.com/) - Find Other Websites Owned By The Same Person
 
-### News / Telegram
+### News / Steam
 
 *   [Agence France-Presse (AFP)](http://www.afp.com)
 
@@ -167,10 +167,6 @@
 ### Resources / Books
 
 *   [Vue.js Component Patterns Course](https://fdietz.de/pages/vue-component-patterns-course/) by Frederik Dietz (April 2019)
-
-### Components & Libraries / UI Components
-
-*   [vue3-scroll-picker (⭐29)](https://github.com/HJ29/vue3-scroll-picker) - A scroll picker component for Vue 3.
 
 ## [16. Awesome Tensorflow Lite](/content/margaretmz/awesome-tensorflow-lite/README.md)
 

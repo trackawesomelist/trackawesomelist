@@ -52,30 +52,10 @@ Webpage: <http://www.lerdevagar.com/>
 
 ## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
-### Resources / Community
-
-*   [vue-requests (⭐69)](https://github.com/vuejs/vue-requests) - Request a Vue.js module you wish existed or get ideas for modules
-
-### Resources / Official Examples
-
-*   [**Vue.js HackerNews Clone**](https://github.com/vuejs/vue-hackernews)
-
 ### Resources / Books
 
 *   [The Majesty Of Vue.js](https://www.packtpub.com/web-development/majesty-vuejs) by Alex Kyriakidis & Kostas Maniatis, Packt. (Nov 2016)
 *   [Learning Vue.js 2](https://www.packtpub.com/web-development/learning-vuejs-2) by Olga Filipova, Packt. (Dec 2016)
-
-### Components & Libraries / UI Components
-
-*   [vuedals (⭐108)](https://github.com/javisperez/vuedals) - A VueJS (2.x) Plugin for multiple modals windows with a single component instance.
-*   [vue-masked-input (⭐455)](https://github.com/niksmr/vue-masked-input) - Masked input component for Vue.js.
-*   [vue-text-mask (⭐8.3k)](https://github.com/text-mask/text-mask) - Input mask for React, Angular, Ember, Vue, & plain JavaScript.
-*   [vue-ip-input (⭐26)](https://github.com/lakb248/vue-ip-input) - An ip input implemented by vuejs.
-*   [vue-numeric (⭐462)](https://github.com/kevinongko/vue-numeric) - Input field component to display currency value based on Vue.
-
-### Components & Libraries / Utilities
-
-*   [vue-super (⭐35)](https://github.com/rpkilby/vue-super) - A simple plugin to call methods on parent components.
 
 ## [7. Awesome Fuse](/content/fuse-compound/awesome-fuse/README.md)
 

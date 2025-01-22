@@ -10,7 +10,7 @@
 
 ### Other / [Other](#other-1)
 
-*   [dennis (⭐48)](https://github.com/willkg/dennis) — A set of utilities for working with PO files to ease development and improve quality.
+*   [dennis (⭐50)](https://github.com/willkg/dennis) — A set of utilities for working with PO files to ease development and improve quality.
 
 ## [2. Awesome Healthcare](/content/kakoni/awesome-healthcare/README.md)
 
@@ -32,7 +32,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [qalendar (⭐243)](https://github.com/tomosterlund/qalendar) - An event calendar and datepicker for Vue 3
+*   [qalendar (⭐272)](https://github.com/tomosterlund/qalendar) - An event calendar and datepicker for Vue 3
 
 ## [4. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 
@@ -44,13 +44,13 @@
 
 ### Libraries
 
-*   [true-myth (⭐818)](https://github.com/true-myth/true-myth) A library for safe, idiomatic null and error handling in TypeScript, with `Maybe` and `Result` types, supporting both a functional style and a more traditional method-call style
+*   [true-myth (⭐1k)](https://github.com/true-myth/true-myth) A library for safe, idiomatic null and error handling in TypeScript, with `Maybe` and `Result` types, supporting both a functional style and a more traditional method-call style
 
 ## [6. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [fzf (gimbo) (⭐0)](https://github.com/gimbo/fzf.zsh) - Helpers for using [fzf (⭐63k)](https://github.com/junegunn/fzf) in ZSH. Requires [brew.sh](https://brew.sh).
+*   [fzf (gimbo) (⭐0)](https://github.com/gimbo/fzf.zsh) - Helpers for using [fzf (⭐67k)](https://github.com/junegunn/fzf) in ZSH. Requires [brew.sh](https://brew.sh).
 
 ## [7. Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md)
 
@@ -62,7 +62,7 @@
 
 ### Apps / Misc
 
-*   [Wagtail Grapple (⭐152)](https://github.com/torchbox/wagtail-grapple) - A Wagtail app that makes building GraphQL endpoints a breeze.
+*   [Wagtail Grapple (⭐153)](https://github.com/torchbox/wagtail-grapple) - A Wagtail app that makes building GraphQL endpoints a breeze.
 
 ### Resources / Getting started
 
@@ -86,7 +86,7 @@
 
 ### Libraries/Frameworks / Web
 
-*   [perwendel/spark-kotlin (⭐988)](https://github.com/perwendel/spark-kotlin) - A DSL in idiomatic Kotlin for the Spark web framework.
+*   [perwendel/spark-kotlin (⭐987)](https://github.com/perwendel/spark-kotlin) - A DSL in idiomatic Kotlin for the Spark web framework.
 
 ## [10. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
@@ -110,13 +110,13 @@
 
 ### Application platforms / Samples
 
-*   [Tooljet (⭐28k)](https://github.com/ToolJet/ToolJet) - Open-source low-code platform to build internal tools.
+*   [Tooljet (⭐34k)](https://github.com/ToolJet/ToolJet) - Open-source low-code platform to build internal tools.
 
 ## [14. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Crates / Components
 
-*   [yew-scroll-area (⭐2)](https://github.com/MatchaChoco010/yew-scroll-area) - Custom scroll area for Yew.
+*   [yew-scroll-area (⭐4)](https://github.com/MatchaChoco010/yew-scroll-area) - Custom scroll area for Yew.
 
 ---
 

@@ -28,7 +28,7 @@
 
 ### Players / MPEG
 
-*   [adrg/libvlc-go (⭐421)](https://github.com/adrg/libvlc-go)  - Go bindings for libVLC and high-level media player interface.
+*   [adrg/libvlc-go (⭐436)](https://github.com/adrg/libvlc-go)  - Go bindings for libVLC and high-level media player interface.
 
 ## [5. Awesome Preact](/content/preactjs/awesome-preact/README.md)
 
@@ -91,11 +91,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [tsParticles (⭐7.4k)](https://github.com/matteobruni/tsparticles) - A lightweight Javascript library to easily create highly configurable and interactive particle animations
-
-### Components & Libraries / Utilities
-
-*   [rexios (⭐5)](https://github.com/Scrum/rexios) - Utils normalize url, data, params for axios when using rest api request.
+*   [tsParticles (⭐7.9k)](https://github.com/matteobruni/tsparticles) - A lightweight Javascript library to easily create highly configurable and interactive particle animations
 
 ## [10. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
@@ -117,7 +113,7 @@
 
 ### Deployment / Code Coverage
 
-*   [Deploy with AWS CodeDeploy (⭐18)](https://github.com/webfactory/create-aws-codedeploy-deployment)
+*   [Deploy with AWS CodeDeploy (⭐21)](https://github.com/webfactory/create-aws-codedeploy-deployment)
 
 ## [13. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
@@ -129,7 +125,7 @@
 
 ### Projects
 
-*   [Pipe (⭐31)](https://github.com/pipe-fun/pipe) - This is a Rust / Wasm client web app which is a task control center.
+*   [Pipe (⭐32)](https://github.com/pipe-fun/pipe) - This is a Rust / Wasm client web app which is a task control center.
 
 ## [15. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 

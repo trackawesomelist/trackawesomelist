@@ -288,17 +288,17 @@ Language: English
 
 ### 2D/3D Rendering engines / Charts
 
-*   [ChartJs.Blazor (⭐677)](https://github.com/mariusmuntean/ChartJs.Blazor) - ![GitHub stars](https://img.shields.io/github/stars/mariusmuntean/ChartJs.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/akorchev/razor.radzen.com?style=flat-square\&cacheSeconds=86400) Brings [ChartJs (⭐64k)](https://github.com/chartjs/Chart.js) charts to Blazor.
-*   [GG.Net Data Visualization (⭐80)](https://github.com/pablofrommars/GGNet) - ![stars](https://img.shields.io/github/stars/pablofrommars/GGNet?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/pablofrommars/GGNet?style=flat-square\&cacheSeconds=86400) Interactive and flexible charts for Blazor Web Apps. Taking its inspiration from the highly popular ggpplot2 R package, GG.Net provides natively rich features for your Data Analysis Workflow. Build publication quality charts with just a few lines of code. [Website](https://pablofrommars.github.io/).
-*   [Plotly.Blazor (⭐332)](https://github.com/LayTec-AG/Plotly.Blazor) - ![stars](https://img.shields.io/github/stars/LayTec-AG/Plotly.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/LayTec-AG/Plotly.Blazor?style=flat-square\&cacheSeconds=86400) Brings the charting library [plotly.js (⭐17k)](https://github.com/plotly/plotly.js) with over 40 chart types to Blazor ([Demo](https://laytec-ag.github.io/Plotly.Blazor/)).
+*   [ChartJs.Blazor (⭐695)](https://github.com/mariusmuntean/ChartJs.Blazor) - ![GitHub stars](https://img.shields.io/github/stars/mariusmuntean/ChartJs.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/akorchev/razor.radzen.com?style=flat-square\&cacheSeconds=86400) Brings [ChartJs (⭐65k)](https://github.com/chartjs/Chart.js) charts to Blazor.
+*   [GG.Net Data Visualization (⭐81)](https://github.com/pablofrommars/GGNet) - ![stars](https://img.shields.io/github/stars/pablofrommars/GGNet?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/pablofrommars/GGNet?style=flat-square\&cacheSeconds=86400) Interactive and flexible charts for Blazor Web Apps. Taking its inspiration from the highly popular ggpplot2 R package, GG.Net provides natively rich features for your Data Analysis Workflow. Build publication quality charts with just a few lines of code. [Website](https://pablofrommars.github.io/).
+*   [Plotly.Blazor (⭐363)](https://github.com/LayTec-AG/Plotly.Blazor) - ![stars](https://img.shields.io/github/stars/LayTec-AG/Plotly.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/LayTec-AG/Plotly.Blazor?style=flat-square\&cacheSeconds=86400) Brings the charting library [plotly.js (⭐17k)](https://github.com/plotly/plotly.js) with over 40 chart types to Blazor ([Demo](https://laytec-ag.github.io/Plotly.Blazor/)).
 
 ### 2D/3D Rendering engines / Date & time
 
-*   [BlazorDateRangePicker (⭐182)](https://github.com/jdtcn/BlazorDateRangePicker) - ![stars](https://img.shields.io/github/stars/jdtcn/BlazorDateRangePicker?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jdtcn/BlazorDateRangePicker?style=flat-square\&cacheSeconds=86400) A date range picker component library for Blazor. [Demo](https://BlazorDateRangePicker.azurewebsites.net/).
+*   [BlazorDateRangePicker (⭐186)](https://github.com/jdtcn/BlazorDateRangePicker) - ![stars](https://img.shields.io/github/stars/jdtcn/BlazorDateRangePicker?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jdtcn/BlazorDateRangePicker?style=flat-square\&cacheSeconds=86400) A date range picker component library for Blazor. [Demo](https://BlazorDateRangePicker.azurewebsites.net/).
 
 ### 2D/3D Rendering engines / Modal, Toast & Notifications
 
-*   [Blazored.Modal (⭐765)](https://github.com/Blazored/Modal) - ![GitHub stars](https://img.shields.io/github/stars/Blazored/Modal?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Blazored/Modal?style=flat-square\&cacheSeconds=86400) A JavaScript free modal library for Blazor and Razor Components applications.
+*   [Blazored.Modal (⭐789)](https://github.com/Blazored/Modal) - ![GitHub stars](https://img.shields.io/github/stars/Blazored/Modal?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Blazored/Modal?style=flat-square\&cacheSeconds=86400) A JavaScript free modal library for Blazor and Razor Components applications.
 
 ## [5. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
@@ -310,15 +310,15 @@ Language: English
 
 ### Gaming
 
-*   [Flame (⭐1k)](https://github.com/flame-engine/awesome-flame#readme) - Game engine for Flutter.
+*   [Flame (⭐1.1k)](https://github.com/flame-engine/awesome-flame#readme) - Game engine for Flutter.
 
 ### Media
 
-*   [Audiovisual (⭐174)](https://github.com/stingalleman/awesome-audiovisual#readme) - Lighting, audio and video in professional environments.
+*   [Audiovisual (⭐186)](https://github.com/stingalleman/awesome-audiovisual#readme) - Lighting, audio and video in professional environments.
 
 ### Miscellaneous
 
-*   [WP-CLI (⭐190)](https://github.com/schlessera/awesome-wp-cli#readme) - Command-line interface for WordPress.
+*   [WP-CLI (⭐196)](https://github.com/schlessera/awesome-wp-cli#readme) - Command-line interface for WordPress.
 
 ## [7. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 

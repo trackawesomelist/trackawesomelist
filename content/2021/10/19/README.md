@@ -22,8 +22,8 @@
 
 ### Rust / General-Purpose Machine Learning
 
-*   [smartcore (⭐674)](https://github.com/smartcorelib/smartcore) - "The Most Advanced Machine Learning Library In Rust."
-*   [linfa (⭐3.6k)](https://github.com/rust-ml/linfa) - `linfa` aims to provide a comprehensive toolkit to build Machine Learning applications with Rust
+*   [smartcore (⭐713)](https://github.com/smartcorelib/smartcore) - "The Most Advanced Machine Learning Library In Rust."
+*   [linfa (⭐3.8k)](https://github.com/rust-ml/linfa) - `linfa` aims to provide a comprehensive toolkit to build Machine Learning applications with Rust
 
 ## [4. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
 
@@ -85,7 +85,7 @@
 
   CORS: Unknown
 
-  Call this API: [<sup>**Run in Postman**</sup>](https://god.gw.postman.com/run-collection/25426789-541b5e57-ac2a-4efb-a197-7264303f7baf?action=collection%2Ffork\&source=rip_markdown\&collection-url=entityId%3D25426789-541b5e57-ac2a-4efb-a197-7264303f7baf%26entityType%3Dcollection%26workspaceId%3De4d9a7d3-b961-474e-a054-51861ed481f6)
+  : 
 
 
 
@@ -147,14 +147,13 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-follow-tooltip (⭐4)](https://github.com/gVguy/vue-follow-tooltip) - Tiny tooltip directive for Vue 3.
-*   [vue-icomoon (⭐26)](https://github.com/aykutkardas/vue-icomoon) - With vue-icomoon you can easily use the icons you have selected or created in icomoon.
+*   [vue-icomoon (⭐28)](https://github.com/aykutkardas/vue-icomoon) - With vue-icomoon you can easily use the icons you have selected or created in icomoon.
 
 ## [11. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
 
 ### Reproducing Works, Training & Books / Data Visualization
 
-*   [Python-for-Finance-Cookbook (⭐713)](https://github.com/PacktPublishing/Python-for-Finance-Cookbook) - Python for Finance Cookbook, published by Packt.
+*   [Python-for-Finance-Cookbook (⭐741)](https://github.com/PacktPublishing/Python-for-Finance-Cookbook) - Python for Finance Cookbook, published by Packt.
 
 ## [12. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
 
@@ -166,7 +165,7 @@
 
 ### Projects Related to eBPF / Observability
 
-*   [pixie (⭐5.4k)](https://github.com/pixie-io/pixie) - Observability for Kubernetes using eBPF. Features include protocol tracing, application profiling, and support for distributed bpftrace deployments.
+*   [pixie (⭐5.7k)](https://github.com/pixie-io/pixie) - Observability for Kubernetes using eBPF. Features include protocol tracing, application profiling, and support for distributed bpftrace deployments.
 
 ## [14. Awesome Seml](/content/SE-ML/awesome-seml/README.md)
 
@@ -178,7 +177,7 @@
 
 ### Libraries/Frameworks / Functional Programming
 
-*   [RubyLichtenstein/RxTest (⭐282)](https://github.com/RubyLichtenstein/RxTest) - Kotlin DSL for testing RxJava2
+*   [RubyLichtenstein/RxTest (⭐281)](https://github.com/RubyLichtenstein/RxTest) - Kotlin DSL for testing RxJava2
 
 ## [16. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/README.md)
 
@@ -237,13 +236,13 @@
 
 ### Libraries / Caching
 
-*   [al8n/stretto (⭐410)](https://github.com/al8n/stretto) - A high performance thread-safe memory-bound cache [![build badge](https://github.com/al8n/stretto/actions/workflows/ci.yml/badge.svg)](https://github.com/al8n/stretto/actions/workflows/ci.yml)
+*   [al8n/stretto (⭐418)](https://github.com/al8n/stretto) - A high performance thread-safe memory-bound cache [![build badge](https://github.com/al8n/stretto/actions/workflows/ci.yml/badge.svg)](https://github.com/al8n/stretto/actions/workflows/ci.yml)
 
 ## [18. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Core Extensions
 
-*   [Bitwise (⭐45)](https://github.com/kenn/bitwise) - Fast, memory efficient bitwise operations on large binary strings
+*   [Bitwise (⭐49)](https://github.com/kenn/bitwise) - Fast, memory efficient bitwise operations on large binary strings
 
 ### Email
 

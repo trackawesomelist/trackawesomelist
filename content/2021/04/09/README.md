@@ -10,12 +10,12 @@
 
 ### Providers / Vendor supported providers
 
-*   [terraform-provider-k8s (⭐134)](https://github.com/banzaicloud/terraform-provider-k8s) - Simple Kubernetes Provider, works with any manifest.
+*   [terraform-provider-k8s (⭐135)](https://github.com/banzaicloud/terraform-provider-k8s) - Simple Kubernetes Provider, works with any manifest.
 
 ### Tools / Community providers
 
 *   [Infracost (⭐11k)](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in your CLI and pull requests.
-*   [terraform-graph-beautifier (⭐354)](https://github.com/pcasteran/terraform-graph-beautifier) - Command line tool allowing to convert the barely usable output of the terraform graph command to something more meaningful and explanatory.
+*   [terraform-graph-beautifier (⭐365)](https://github.com/pcasteran/terraform-graph-beautifier) - Command line tool allowing to convert the barely usable output of the terraform graph command to something more meaningful and explanatory.
 
 ## [2. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
@@ -70,7 +70,7 @@
 
 ### Crates / Component Libraries
 
-*   [yew-components (⭐58)](https://github.com/angular-rust/yew-components) - Material Design Components for the Yew framework.
+*   [yew-components (⭐61)](https://github.com/angular-rust/yew-components) - Material Design Components for the Yew framework.
 
 ## [11. Awesome Math](/content/rossant/awesome-math/README.md)
 

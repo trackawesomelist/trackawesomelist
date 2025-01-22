@@ -10,24 +10,24 @@
 
 ### Applications / Blockchain
 
-*   [cairo-vm (⭐490)](https://github.com/lambdaclass/cairo-vm) - Implementation of the Cairo VM [![rust](https://github.com/lambdaclass/cairo-vm/actions/workflows/rust.yml/badge.svg)](https://github.com/lambdaclass/cairo-vm/actions/workflows/rust.yml)
+*   [cairo-vm (⭐531)](https://github.com/lambdaclass/cairo-vm) - Implementation of the Cairo VM [![rust](https://github.com/lambdaclass/cairo-vm/actions/workflows/rust.yml/badge.svg)](https://github.com/lambdaclass/cairo-vm/actions/workflows/rust.yml)
 
 ### Libraries / Command-line
 
 *   Style
-    *   [colored (⭐1.7k)](https://github.com/colored-rs/colored) \[[colored](https://crates.io/crates/colored)] - Coloring terminal so simple, you already know how to do it!
-    *   [console-rs/dialoguer (⭐1.3k)](https://github.com/console-rs/dialoguer) \[[dialoguer](https://crates.io/crates/dialoguer)] - Library for command line prompts and similar things.
-    *   [LukasKalbertodt/bunt (⭐220)](https://github.com/LukasKalbertodt/bunt) \[[bunt](https://crates.io/crates/bunt)] - cross-platform terminal colors and styling with macros [![Build status](https://github.com/LukasKalbertodt/bunt/actions/workflows/ci.yml/badge.svg)](https://github.com/LukasKalbertodt/bunt/actions?query=workflow%3ACI+branch%3Amaster)
-    *   [LukasKalbertodt/term-painter (⭐78)](https://github.com/LukasKalbertodt/term-painter) \[[term-painter](https://crates.io/crates/term-painter)] - cross-platform styled terminal output
-    *   [ogham/rust-ansi-term (⭐447)](https://github.com/ogham/rust-ansi-term) \[[ansi\_term](https://crates.io/crates/ansi_term)] - control colours and formatting on ANSI terminals
-    *   [SergioBenitez/yansi (⭐238)](https://github.com/SergioBenitez/yansi) \[[yansi](https://crates.io/crates/yansi)] - A dead simple ANSI terminal color painting library
+    *   [colored (⭐1.8k)](https://github.com/colored-rs/colored) \[[colored](https://crates.io/crates/colored)] - Coloring terminal so simple, you already know how to do it!
+    *   [console-rs/dialoguer (⭐1.4k)](https://github.com/console-rs/dialoguer) \[[dialoguer](https://crates.io/crates/dialoguer)] - Library for command line prompts and similar things.
+    *   [LukasKalbertodt/bunt (⭐225)](https://github.com/LukasKalbertodt/bunt) \[[bunt](https://crates.io/crates/bunt)] - cross-platform terminal colors and styling with macros [![Build status](https://github.com/LukasKalbertodt/bunt/actions/workflows/ci.yml/badge.svg)](https://github.com/LukasKalbertodt/bunt/actions?query=workflow%3ACI+branch%3Amaster)
+    *   [LukasKalbertodt/term-painter (⭐79)](https://github.com/LukasKalbertodt/term-painter) \[[term-painter](https://crates.io/crates/term-painter)] - cross-platform styled terminal output
+    *   [ogham/rust-ansi-term (⭐463)](https://github.com/ogham/rust-ansi-term) \[[ansi\_term](https://crates.io/crates/ansi_term)] - control colours and formatting on ANSI terminals
+    *   [SergioBenitez/yansi (⭐255)](https://github.com/SergioBenitez/yansi) \[[yansi](https://crates.io/crates/yansi)] - A dead simple ANSI terminal color painting library
 
 ## [2. Awesome Userscripts](/content/bvolpato/awesome-userscripts/README.md)
 
 ### Scripts / ChatGPT
 
-*   [ChatGPT Infinity](https://chatgptinfinity.com) - Generate endless answers from all-knowing ChatGPT (in any language!)
-*   [ChatGPT Widescreen Mode](https://chatgptwidescreen.com) - Adds Widescreen + Fullscreen modes to ChatGPT + Poe.
+*   [ChatGPT Infinity](https://chatgptinfinity.com) - Generate endless answers from all-knowing ChatGPT (on any topic!)
+*   [ChatGPT Widescreen Mode](https://chatgptwidescreen.com) - Enhances ChatGPT with wide/full/tall-screen + spamblock modes. Also works on perplexity.ai + poe.com!
 
 ## [3. awsm.fish](/content/jorgebucaran/awsm.fish/README.md)
 
@@ -57,11 +57,11 @@
 
 ### ⚙️ Middlewares / 🌱 Third Party
 
-*   [Idan-Fishman/fiber-bind (⭐8)](https://github.com/Idan-Fishman/fiber-bind) - Request schema validator middleware that validates sources such as the request body, query string parameters, route parameters and even form files.
+*   [Idan-Fishman/fiber-bind (⭐12)](https://github.com/Idan-Fishman/fiber-bind) - Request schema validator middleware that validates sources such as the request body, query string parameters, route parameters and even form files.
 
 ### 🛠️ Tools / 🌱 Third Party
 
-*   [deepmap/oapi-codegen (⭐5k)](https://github.com/deepmap/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications.
+*   [deepmap/oapi-codegen (⭐6.5k)](https://github.com/deepmap/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications.
 
 ## [8. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
 

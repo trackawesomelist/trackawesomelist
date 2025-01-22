@@ -33,7 +33,7 @@
 
 ### Contents / Language bindings
 
-*   .Net/.Net Core: [Npgsql (⭐3.2k)](https://github.com/npgsql/npgsql)
+*   .Net/.Net Core: [Npgsql (⭐3.3k)](https://github.com/npgsql/npgsql)
 
 ## [5. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 

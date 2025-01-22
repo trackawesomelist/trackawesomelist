@@ -16,13 +16,13 @@
 
 ### Tools / Java
 
-*   [darcy (⭐22)](https://github.com/darcy-framework/darcy-webdriver) - Page object framework for structured, maintainable automation.
+*   [darcy (⭐24)](https://github.com/darcy-framework/darcy-webdriver) - Page object framework for structured, maintainable automation.
 
 ## [3. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Hardware
 
-*   [i2c-bus (⭐346)](https://github.com/fivdi/i2c-bus) - I2C serial bus access.
+*   [i2c-bus (⭐349)](https://github.com/fivdi/i2c-bus) - I2C serial bus access.
 
 ### Packages / Testing
 
@@ -83,7 +83,7 @@
 
 ### Tools / Randomized Algorithms
 
-*   [interactive-coding-challenges (⭐29k)](https://github.com/donnemartin/interactive-coding-challenges) - Interactive, test-driven coding challenges (algorithms and data structures).
+*   [interactive-coding-challenges (⭐30k)](https://github.com/donnemartin/interactive-coding-challenges) - Interactive, test-driven coding challenges (algorithms and data structures).
 
 ## [12. Awesome Symfony Education](/content/pehapkari/awesome-symfony-education/week/README.md)
 
@@ -108,7 +108,7 @@
 
 *   [Simon Boudrias (⭐2)](https://github.com/SBoudrias/ama) - Yeoman, Inquirer.js and a bunch of other node modules. Software engineer at Yelp.
 *   [Reza Akhavan (⭐3)](https://github.com/jedireza/ama) - Engineer at Mozilla. Co-organizer at NodeSchoolSF. Creator of Drywall, Frame, Aqua.
-*   [Wes Bos (⭐281)](https://github.com/wesbos/ama) - Full stack developer, independent author, speaker, teacher and JavaScripter.
+*   [Wes Bos (⭐282)](https://github.com/wesbos/ama) - Full stack developer, independent author, speaker, teacher and JavaScripter.
 *   [Anselm Hannemann (⭐9)](https://github.com/anselmh/AMA) - Freelance front-end developer, author of WDRL, co-organizer of Nightlybuild.io.
 *   [Blain Smith](https://github.com/blainsmith/ama) - Partner/Engineer at MadGlory and Odd Networks. Rebel Geek.
 *   [Lewis Cowper](https://github.com/lewiscowper/ama) - Former forklift driver. Now web developer.
@@ -222,7 +222,7 @@
 
 ### GUI
 
-*   [Fluent.Ribbon (⭐2.5k)](https://github.com/fluentribbon/Fluent.Ribbon) - Fluent Ribbon Control Suite is a library that implements an Office- and Windows 8-like Ribbon for WPF.
+*   [Fluent.Ribbon (⭐2.6k)](https://github.com/fluentribbon/Fluent.Ribbon) - Fluent Ribbon Control Suite is a library that implements an Office- and Windows 8-like Ribbon for WPF.
 
 ## [20. Awesome Opengl](/content/eug/awesome-opengl/week/README.md)
 

@@ -306,7 +306,7 @@ Webpage: <http://www.borealcoffee.ch/>
 
 ### Examples / Templates
 
-*   [cpp14-project-template (⭐62)](https://github.com/arnavb/cpp14-project-template) - A C++14 template with CI, tests, code coverage, docs and static analysis integration. [`[CC0-1.0]`](https://creativecommons.org/publicdomain/zero/1.0/)
+*   [cpp14-project-template (⭐64)](https://github.com/arnavb/cpp14-project-template) - A C++14 template with CI, tests, code coverage, docs and static analysis integration. [`[CC0-1.0]`](https://creativecommons.org/publicdomain/zero/1.0/)
 
 ## [9. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
@@ -330,12 +330,12 @@ Webpage: <http://www.borealcoffee.ch/>
 
 ### HTTP
 
-*   [HTTP Builder NG (⭐177)](https://github.com/http-builder-ng/http-builder-ng) - HTTP Builder NG is a modern Groovy DSL for making http requests.
+*   [HTTP Builder NG (⭐176)](https://github.com/http-builder-ng/http-builder-ng) - HTTP Builder NG is a modern Groovy DSL for making http requests.
 *   [HTTP Builder NG Gradle Plugin (⭐31)](https://github.com/http-builder-ng/gradle-http-plugin) - Gradle plugin providing HTTP Builder NG support in a Gradle build configuration.
 
 ### Testing
 
-*   [Ersatz Mock Server (⭐44)](https://github.com/cjstehno/ersatz) - A simple and expressive simulated HTTP server for testing client code with configurable responses.
+*   [Ersatz Mock Server (⭐47)](https://github.com/cjstehno/ersatz) - A simple and expressive simulated HTTP server for testing client code with configurable responses.
 
 ### DSLs
 

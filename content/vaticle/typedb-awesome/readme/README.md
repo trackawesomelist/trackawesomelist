@@ -2,13 +2,13 @@
 
 A curated list of awesome TypeDB frameworks libraries, software and resources.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/vaticle/typedb-awesome/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 vaticle/typedb-awesome](https://github.com/vaticle/typedb-awesome) · ⭐ 53 · 🏷️ Databases
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/vaticle/typedb-awesome/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 vaticle/typedb-awesome](https://github.com/typedb/typedb-awesome) · ⭐ 64 · 🏷️ Databases
 
 [ [Daily](/content/vaticle/typedb-awesome/README.md) / [Weekly](/content/vaticle/typedb-awesome/week/README.md) / Overview ]
 
 ---
 
-[![TypeDB](https://github.com/vaticle/typedb/raw/b82ee7fa3c522072c3ff6f0ec6c093366171b03a/docs/banner.png)](https://typedb.com/philosophy/)
+[![TypeDB](https://github.com/typedb/typedb/raw/2c5e3114cb4d19085a329b379eef590d7a3e9eda/docs/banner.png)](https://typedb.com)
 
 # Awesome TypeDB [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 

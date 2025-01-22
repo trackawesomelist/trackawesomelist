@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 30, 2019
 
-13 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -22,14 +22,14 @@
 
 ### Tools
 
-*   [IPDR (⭐515)](https://github.com/miguelmota/ipdr) - IPFS-backed Docker Registry.
-*   [mahuta (⭐230)](https://github.com/ConsenSys/Mahuta) - Mahuta is a plug and play service for your micro-service architecture allowing to collect, store and index data on IPFS and offering search functionalities (full text, query).
+*   [IPDR (⭐540)](https://github.com/miguelmota/ipdr) - IPFS-backed Docker Registry.
+*   [mahuta (⭐240)](https://github.com/ConsenSys/Mahuta) - Mahuta is a plug and play service for your micro-service architecture allowing to collect, store and index data on IPFS and offering search functionalities (full text, query).
 
 ## [4. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
 ### Integrations
 
-*   [Duo Security MFA Authentication for Keycloak (⭐32)](https://github.com/mulesoft-labs/keycloak-duo-spi)
+*   [Duo Security MFA Authentication for Keycloak](https://github.com/mulesoft-labs/keycloak-duo-spi)
 
 ## [5. Awesome](/content/craftcms/awesome/README.md)
 
@@ -41,7 +41,7 @@
 
 ### Scala / General-Purpose Machine Learning
 
-*   [TensorFlow Scala (⭐937)](https://github.com/eaplatanios/tensorflow_scala) -   Strongly-typed Scala API for TensorFlow.
+*   [TensorFlow Scala (⭐939)](https://github.com/eaplatanios/tensorflow_scala) - Strongly-typed Scala API for TensorFlow.
 
 ## [7. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
@@ -49,38 +49,32 @@
 
 *   [ASP.NET Blog's archives](https://devblogs.microsoft.com/aspnet/category/blazor/) - Archives of the ASP.NET blog about Blazor.
 
-## [8. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
-
-### Housing
-
-*   [Hive Arena](https://hivearena.com/coworking/) - Coworking & Coliving Space in Seoul, South Korea
-
-## [9. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
+## [8. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
 ### Sample Projects / JVM languages
 
 *   [DDD By Examples - Library (⭐4.1k)](https://github.com/ddd-by-examples/library) - sample project of a library driven by real business requirements. Modular monolith implemented with the help od DDD, BDD, EventStorming, Example Mapping, CQRS, and more.
 
-## [10. Guides](/content/NARKOZ/guides/README.md)
+## [9. Guides](/content/NARKOZ/guides/README.md)
 
 ### Programming Languages / Clojure
 
 *   [Clojure Style Guide (⭐4k)](https://github.com/bbatsov/clojure-style-guide#readme)
 
-## [11. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
+## [10. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### Open Source / Other
 
 *   [Unsplash Wallpapers (⭐350)](https://github.com/soroushchehresa/unsplash-wallpapers) - Set desktop wallpaper from Unsplash.
 
-## [12. Awesome Learn Datascience](/content/siboehm/awesome-learn-datascience/README.md)
+## [11. Awesome Learn Datascience](/content/siboehm/awesome-learn-datascience/README.md)
 
 ### Data Science using Python / General
 
 *   [O'Reilly Data Science from Scratch (Book)](https://amzn.to/2GSjjrK) - Data processing, implementation, and visualization with example code.
 *   [Coursera Applied Data Science](https://www.coursera.org/specializations/data-science-python) - Online Course using Python that covers most of the relevant toolkits.
 
-## [13. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+## [12. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 
 ### Swift
 

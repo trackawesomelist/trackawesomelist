@@ -10,7 +10,7 @@
 
 ### Peripheral Access Crates / Wiznet
 
-*   [`w7500x-pac`](https://crates.io/crates/w7500x-pac) Peripheral Access Crate for Wiznet's W7500x microcontrollers (generated using svd2rust) - ![crates.io](https://img.shields.io/crates/v/w7500x-pac.svg)
+*   [`w7500x-pac`](https://crates.io/crates/w7500x-pac) Peripheral Access Crate for Wiznet's W7500x microcontrollers (generated using svd2rust) - [![crates.io](https://img.shields.io/crates/v/w7500x-pac.svg)](https://crates.io/crates/w7500x-pac)
 
 ## [2. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
@@ -30,7 +30,7 @@
 
 ### Component Libraries
 
-*   [Umbraco UI Components (⭐109)](https://github.com/umbraco/Umbraco.UI) - Collection of user interface web components for Umbraco CMS.
+*   [Umbraco UI Components (⭐117)](https://github.com/umbraco/Umbraco.UI) - Collection of user interface web components for Umbraco CMS.
 
 ## [5. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 

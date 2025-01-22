@@ -22,12 +22,12 @@
 
 ### GitHub Tools and Management / Docker Container Actions
 
-*   [Run GitHub Actions Locally with a web interface (⭐211)](https://github.com/phishy/wflow)
+*   [Run GitHub Actions Locally with a web interface (⭐248)](https://github.com/phishy/wflow)
 
 ### Collection of Actions / Docker Container Actions
 
-*   [GitHub Actions for Yarn 1 (⭐218)](https://github.com/Borales/actions-yarn)
-*   [GitHub Actions for Yarn 2 (⭐14)](https://github.com/sergioramos/yarn-actions)
+*   [GitHub Actions for Yarn 1 (⭐297)](https://github.com/Borales/actions-yarn)
+*   [GitHub Actions for Yarn 2 (⭐15)](https://github.com/sergioramos/yarn-actions)
 
 ## [4. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 
@@ -58,7 +58,7 @@
 
 ### HTML Builders
 
-*   [Water (⭐27)](https://github.com/shootingfly/water) - A library for writing HTML in plain Crystal
+*   [Water (⭐28)](https://github.com/shootingfly/water) - A library for writing HTML in plain Crystal
 
 ## [9. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
@@ -89,7 +89,7 @@
 
 ### Build Automation
 
-*   [FlubuCore (⭐900)](https://github.com/dotnetcore/FlubuCore) -  A cross platform build and deployment automation system for building projects and executing deployment scripts using C# code.
+*   [FlubuCore (⭐913)](https://github.com/dotnetcore/FlubuCore) -  A cross platform build and deployment automation system for building projects and executing deployment scripts using C# code.
 
 ### CLI
 
@@ -97,12 +97,12 @@
 
 ### Compilers, Transpilers and Languages
 
-*   [IronScheme (⭐373)](https://github.com/IronScheme/IronScheme) - R6RS Scheme compiler, runtime and many standard libraries
-*   [VisualFSharp (⭐3.8k)](https://github.com/dotnet/fsharp) - The Visual F# compiler and tools
+*   [IronScheme (⭐385)](https://github.com/IronScheme/IronScheme) - R6RS Scheme compiler, runtime and many standard libraries
+*   [VisualFSharp (⭐4k)](https://github.com/dotnet/fsharp) - The Visual F# compiler and tools
 
 ### Database
 
-*   [Event Store (⭐5.2k)](https://github.com/EventStore/EventStore) - The open-source, functional database with Complex Event Processing in JavaScript
+*   [Event Store (⭐5.4k)](https://github.com/EventStore/EventStore) - The open-source, functional database with Complex Event Processing in JavaScript
 
 ### Documentation
 

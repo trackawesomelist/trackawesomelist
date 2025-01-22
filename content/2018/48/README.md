@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 26 - Dec 02, 2018
 
-54 awesome lists updated this week.
+53 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -105,14 +105,14 @@
 
 ### Extensions / Collection View Layout
 
-*   [Comment Spell Checker (⭐158)](https://github.com/velyan/Comment-Spell-Checker) - Xcode extension for spell checking and auto correcting code comments.
+*   [Comment Spell Checker (⭐160)](https://github.com/velyan/Comment-Spell-Checker) - Xcode extension for spell checking and auto correcting code comments.
 
 ## [4. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### HAL implementation crates / Silicon Labs
 
 *   [`tomu-hal`](https://github.com/fudanchii/imtomu-rs)
-    *   HAL implementation targeted for [Tomu](https://tomu.im/) USB board with EFM32HG309F64 ARMv6-M core. Has support to configure [tomu bootloader (⭐71)](https://github.com/im-tomu/tomu-bootloader) directly from an application via the `toboot_config` macro.
+    *   HAL implementation targeted for [Tomu](https://tomu.im/) USB board with EFM32HG309F64 ARMv6-M core. Has support to configure [tomu bootloader (⭐73)](https://github.com/im-tomu/tomu-bootloader) directly from an application via the `toboot_config` macro.
 
 ## [5. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 
@@ -192,11 +192,11 @@
 
 ### Models/Projects
 
-*   [Hierarchical Attention Networks (⭐83)](https://github.com/tqtg/hierarchical-attention-networks) - TensorFlow implementation of ["Hierarchical Attention Networks for Document Classification"](https://www.cs.cmu.edu/~hovy/papers/16HLT-hierarchical-attention-networks.pdf)
+*   [Hierarchical Attention Networks (⭐86)](https://github.com/tqtg/hierarchical-attention-networks) - TensorFlow implementation of ["Hierarchical Attention Networks for Document Classification"](https://www.cs.cmu.edu/~hovy/papers/16HLT-hierarchical-attention-networks.pdf)
 
 ### Libraries
 
-*   [pytorch2keras (⭐847)](https://github.com/nerox8664/pytorch2keras) - Convert PyTorch models to Keras (with TensorFlow backend) format
+*   [pytorch2keras (⭐856)](https://github.com/nerox8664/pytorch2keras) - Convert PyTorch models to Keras (with TensorFlow backend) format
 
 ## [10. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
@@ -208,7 +208,7 @@
 
 ### Libraries / Data Structures & Data Types
 
-*   [Graphene (⭐345)](https://github.com/ebassi/graphene) - A thin layer of types for graphic libraries. It provides common types needed to handle 3D transformations: points, triangles, rectangles, quads, quaternions, vectors, matrices, spheres, etc.
+*   [Graphene (⭐382)](https://github.com/ebassi/graphene) - A thin layer of types for graphic libraries. It provides common types needed to handle 3D transformations: points, triangles, rectangles, quads, quaternions, vectors, matrices, spheres, etc.
 *   [Numeric-GLib (⭐9)](https://github.com/arteymix/numeric-glib) - A collection of numeric data types for GLib (and Vala) via GCC extensions. It includes 128 bit integers & floats, complex types, vectorized operations, and decimal types.
 
 ### Libraries / Graphics Libraries
@@ -261,7 +261,7 @@
 *   Push Notifications
     *   [Onesignal (⭐15)](https://github.com/jklingsporn/vertx-push-onesignal) - Send push notifications to (mobile/web) apps from your Vert.x application with [OneSignal](https://onesignal.com/).
 *   CNCF CloudEvents
-    *   [CloudEvents.io Java SDK (⭐355)](https://github.com/cloudevents/sdk-java) - Send and receive [CloudEvents](https://cloudevents.io/) using the [Vert.x HTTP Transport (⭐355)](https://github.com/cloudevents/sdk-java/blob/master/http/vertx/README.md) for CloudEvents.
+    *   [CloudEvents.io Java SDK (⭐402)](https://github.com/cloudevents/sdk-java) - Send and receive [CloudEvents](https://cloudevents.io/) using the [Vert.x HTTP Transport (⭐402)](https://github.com/cloudevents/sdk-java/blob/master/http/vertx/README.md) for CloudEvents.
 
 ### Config
 
@@ -286,7 +286,7 @@
 
 ## [19. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
-### Courses
+### Courses / Commerical Tools
 
 *   [Deep Learning Crash Course](https://www.manning.com/livevideo/deep-learning-crash-course) In this liveVideo course, machine learning expert Oliver Zeigermann teaches you the basics of deep learning.
 *   [Fusion in Action](https://www.manning.com/books/fusion-in-action) -  Fusion in Action teaches you to build a full-featured data analytics pipeline, including document and data search and distributed data clustering.
@@ -297,19 +297,13 @@
 
 *   [Terminology (⭐536)](https://github.com/billiob/terminology) - The best terminal emulator based on the Enlightenment Foundation Libraries.
 
-## [21. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
-
-### Tools
-
-*   [genhash (⭐16)](https://github.com/pnathan/genhash) – hash table implementation with API from generic methods. Public domain.
-
-## [22. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [21. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Software / Operating systems
 
 *   [UBOS](https://ubos.net/) - UBOS is a Linux distro that focuses on making systems administration of home servers and Indie IoT devices running web applications much simpler. A derivative of Arch Linux, it runs on PCs, Raspberry Pis, ESPRESSObin, and cloud.
 
-## [23. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [22. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Education
 
@@ -319,7 +313,7 @@
 
 *   [Twitter SRE Weekly](https://twitter.com/SREWeekly) - The Official Twitter Account of SRE Weekly Newsletter.
 
-## [24. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
+## [23. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
 
 ### Hypervisors
 
@@ -333,7 +327,7 @@
 *   [firecracker (⭐22k)](https://github.com/firecracker-microvm/firecracker)\
     Firecracker runs workloads in lightweight virtual machines, called microVMs, which combine the security and isolation properties provided by hardware virtualization technology with the speed and flexibility of containers.
 
-## [25. Awesome Html5](/content/diegocard/awesome-html5/week/README.md)
+## [24. Awesome Html5](/content/diegocard/awesome-html5/week/README.md)
 
 ### Elements / Head
 
@@ -344,13 +338,13 @@
 *   [Intro to PWAs](https://developers.google.com/web/progressive-web-apps/)
 *   [An Extensive Guide To Progressive Web Applications](https://www.smashingmagazine.com/2018/11/guide-pwa-progressive-web-applications/)
 
-## [26. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/week/README.md)
+## [25. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/week/README.md)
 
 ### Resources & Others / Others
 
 *   [Calcy IV](https://play.google.com/store/apps/details?id=tesmath.calcy) - One-tap stats and level calculation on Pokémon GO (Android).
 
-## [27. Awesome Calculators](/content/xxczaki/awesome-calculators/week/README.md)
+## [26. Awesome Calculators](/content/xxczaki/awesome-calculators/week/README.md)
 
 ### Calculator apps: / Android
 
@@ -360,19 +354,19 @@
 
 *   [x48 (⭐28)](https://github.com/gwenhael-le-moine/x48) - Emulate the HP48GX/SX, one of the best engineering calculators ever.
 
-## [28. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [27. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [PsiTransfer (⭐1.5k)](https://github.com/psi-4ward/psitransfer) - Simple open source self-hosted file sharing solution with robust up-/download-resume and password protection. `BSD-2-Clause` `Nodejs`
+*   [PsiTransfer (⭐1.6k)](https://github.com/psi-4ward/psitransfer) - Simple open source self-hosted file sharing solution with robust up-/download-resume and password protection. `BSD-2-Clause` `Nodejs`
 
-## [29. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
+## [28. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
 ### Become an Appium Pro
 
 *   [How to Automate Siri Voice Commands Using Appium](https://appiumpro.com/editions/45)
 
-## [30. Awesome Ethereum](/content/ttumiel/Awesome-Ethereum/week/README.md)
+## [29. Awesome Ethereum](/content/ttumiel/Awesome-Ethereum/week/README.md)
 
 ### Protocols
 
@@ -388,7 +382,7 @@
     *   [FFG vs CBC Comparison](https://ethereum.stackexchange.com/questions/31797/casper-ffg-vs-casper-ghost-cbc/31814#31814) - A Stack Exchange comparison of FFG and CBC.
 *   [Sharding (⭐15k)](https://github.com/ethereum/wiki/wiki/Sharding-introduction-R\&D-compendium) - Partitioning computational resources so that nodes do not have to process the entire blockchain.
 
-## [31. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [30. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Command-Line Productivity
 
@@ -400,7 +394,7 @@
 
 *   [taskbook (⭐8.9k)](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat
 
-## [32. Awesome Idris](/content/joaomilho/awesome-idris/week/README.md)
+## [31. Awesome Idris](/content/joaomilho/awesome-idris/week/README.md)
 
 ### Contents / Build tools | Package managers
 
@@ -409,7 +403,7 @@
 *   [Elba (⭐187)](https://github.com/elba/elba) - A package manager for Idris
 *   [idream (⭐22)](https://github.com/idream-build/idream) - A simple build system for Idris
 
-## [33. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/week/README.md)
+## [32. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/week/README.md)
 
 ### Articles
 
@@ -420,43 +414,39 @@
 
 *   [Debugging Our Feelings: Cognitive Behavioural Therapy For Developers - Peers Conference 2018](https://vimeo.com/253833709) - By Jamie Strachan.
 
-## [34. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
-
-### Companies with "remote DNA"
-
-*   [ALICE](https://www.aliceplatform.com/careers/) - Remote-friendly start-up company. We’re creating the global operations platform for the hospitality industry. ALICE empowers the world's best hotels to deliver a remarkable guest experience.
+## [33. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Tools / Project Management
 
 *   [Outplanr](https://www.outplanr.com/) - Project and task management tool.
 
-## [35. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
+## [34. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
 
 ### IR Tools Collection / Log Analysis Tools
 
 *   [Lorg (⭐207)](https://github.com/jensvoid/lorg) - Tool for advanced HTTPD logfile security analysis and forensics.
 *   [Logdissect (⭐137)](https://github.com/dogoncouch/logdissect) - CLI utility and Python API for analyzing log files and other data.
 
-## [36. Awesome Food](/content/jzarca01/awesome-food/week/README.md)
+## [35. Awesome Food](/content/jzarca01/awesome-food/week/README.md)
 
 ### API for Food services / Only available for French market
 
 *   [node-dominos-france](https://github.com/jzarca01/node-dominos-france.git) - Une API pour l'app Promos de Domino's Pizza.
 *   [node-kebab (⭐1)](https://github.com/jzarca01/node-kebab) - Un wrapper d'API pour kebab-frites.info .
 
-## [37. Awesome C](/content/inputsh/awesome-c/week/README.md)
+## [36. Awesome C](/content/inputsh/awesome-c/week/README.md)
 
 ### Networking and Internet / Language Standards
 
 *   [MQTT-C (⭐544)](https://github.com/LiamBindle/MQTT-C) - Portable MQTT C client for embedded systems and PCs alike. [`MIT`](https://raw.githubusercontent.com/LiamBindle/MQTT-C/master/LICENSE)
 
-## [38. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [37. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Popular Packages / Utilities
 
 *   [Secure Headers (⭐424)](https://github.com/BePsvPT/secure-headers) - Add security related headers to HTTP response
 
-## [39. Awesome](/content/craftcms/awesome/week/README.md)
+## [38. Awesome](/content/craftcms/awesome/week/README.md)
 
 ### Articles / Craft 3
 
@@ -486,24 +476,24 @@
 *   [Samuelsohn](http://samuelsohn.com)
 *   [Visit Victoria: Corporate](https://corporate.visitvictoria.com)
 
-## [40. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [39. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Games
 
-*   [rsaarelm/magog (⭐371)](https://github.com/rsaarelm/magog) - A roguelike game.
-*   [Thinkofname/rust-quake (⭐72)](https://github.com/Thinkofname/rust-quake) - Quake map renderer.
+*   [rsaarelm/magog (⭐372)](https://github.com/rsaarelm/magog) - A roguelike game.
+*   [Thinkofname/rust-quake (⭐73)](https://github.com/Thinkofname/rust-quake) - Quake map renderer.
 
 ### Applications / Industrial automation
 
-*   [locka99/opcua (⭐487)](https://github.com/locka99/opcua) - A [OPC UA](https://opcfoundation.org/about/opc-technologies/opc-ua/) library.
+*   [locka99/opcua (⭐522)](https://github.com/locka99/opcua) - A [OPC UA](https://opcfoundation.org/about/opc-technologies/opc-ua/) library.
 
 ### Applications / Text processing
 
-*   [whitfin/runiq (⭐206)](https://github.com/whitfin/runiq) - an efficient way to filter duplicate lines from unsorted input.
+*   [whitfin/runiq (⭐211)](https://github.com/whitfin/runiq) - an efficient way to filter duplicate lines from unsorted input.
 
 ### Applications / Utilities
 
-*   [brycx/checkpwn (⭐118)](https://github.com/brycx/checkpwn) - A Have I Been Pwned (HIBP) command-line utility tool that lets you easily check for compromised accounts and passwords.
+*   [brycx/checkpwn (⭐124)](https://github.com/brycx/checkpwn) - A Have I Been Pwned (HIBP) command-line utility tool that lets you easily check for compromised accounts and passwords.
 
 ### Development tools / IDEs
 
@@ -511,30 +501,30 @@
 
 ### Development tools / Transpiling
 
-*   [immunant/c2rust (⭐3.9k)](https://github.com/immunant/c2rust) - C to Rust translator and cross checker built atop Clang/LLVM.
+*   [immunant/c2rust (⭐4.1k)](https://github.com/immunant/c2rust) - C to Rust translator and cross checker built atop Clang/LLVM.
 *   [jameysharp/corrode (⭐2.2k)](https://github.com/jameysharp/corrode) - A C to Rust translator written in Haskell.
 
 ### Libraries / Game development
 
 *   Game Engines
-    *   [Bevy (⭐35k)](https://github.com/bevyengine/bevy) - is a refreshingly simple data-driven game engine. - [![Crates.io](https://img.shields.io/crates/v/bevy.svg)](https://crates.io/crates/bevy) [![Crates.io](https://img.shields.io/crates/d/bevy.svg)](https://crates.io/crates/bevy)
+    *   [Bevy (⭐38k)](https://github.com/bevyengine/bevy) - is a refreshingly simple data-driven game engine. - [![Crates.io](https://img.shields.io/crates/v/bevy.svg)](https://crates.io/crates/bevy) [![Crates.io](https://img.shields.io/crates/d/bevy.svg)](https://crates.io/crates/bevy)
     *   [Fyrox](https://fyrox.rs/) - Game engine 3D [![Crates.io](https://img.shields.io/crates/v/fyrox.svg)](https://crates.io/crates/fyrox) [![license](https://img.shields.io/crates/l/fyrox.svg)](https://github.com/FyroxEngine/Fyrox/blob/master/LICENSE.md) [![Crates.io](https://img.shields.io/crates/d/fyrox.svg)](https://crates.io/crates/fyrox)
-    *   [ggez (⭐4.2k)](https://github.com/ggez/ggez) - A lightweight game framework for making 2D games with minimum friction - [![Crates.io](https://img.shields.io/crates/v/ggez.svg)](https://crates.io/crates/ggez) [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/ggez/ggez/blob/master/LICENSE) [![Crates.io](https://img.shields.io/crates/d/ggez.svg)](https://crates.io/crates/ggez)
+    *   [ggez (⭐4.3k)](https://github.com/ggez/ggez) - A lightweight game framework for making 2D games with minimum friction - [![Crates.io](https://img.shields.io/crates/v/ggez.svg)](https://crates.io/crates/ggez) [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/ggez/ggez/blob/master/LICENSE) [![Crates.io](https://img.shields.io/crates/d/ggez.svg)](https://crates.io/crates/ggez)
     *   [Kiss3d](http://kiss3d.org) - A Keep It Simple, Stupid 3d graphics engine [![Crates.io](https://img.shields.io/crates/d/kiss3d.svg)](https://crates.io/crates/kiss3d)
-    *   [oxidator (⭐295)](https://github.com/Ruddle/oxidator) - A real time strategy game/engine supporting WebGPU
+    *   [oxidator (⭐303)](https://github.com/Ruddle/oxidator) - A real time strategy game/engine supporting WebGPU
     *   [Piston](https://www.piston.rs/) - [![Crates.io](https://img.shields.io/crates/v/piston.svg?style=flat-square)](https://crates.io/crates/piston) [![Crates.io](https://img.shields.io/crates/l/piston.svg)](https://github.com/PistonDevelopers/piston/blob/master/LICENSE) [![Crates.io](https://img.shields.io/crates/d/piston.svg)](https://crates.io/crates/piston)
-    *   [Unrust (⭐376)](https://github.com/unrust/unrust) - Webgl 2.0 / native game engine
+    *   [Unrust (⭐378)](https://github.com/unrust/unrust) - Webgl 2.0 / native game engine
 
 ### Libraries / GUI
 
-*   [autopilot-rs/autopilot-rs (⭐373)](https://github.com/autopilot-rs/autopilot-rs) - A simple, cross-platform GUI automation library.
+*   [autopilot-rs/autopilot-rs (⭐387)](https://github.com/autopilot-rs/autopilot-rs) - A simple, cross-platform GUI automation library.
 
 ### Libraries / Macro
 
 *   cute
     *   [mattgathu/cute (⭐336)](https://github.com/mattgathu/cute) - Macro for Python-esque list comprehensions.
 
-## [41. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
+## [40. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
 ### Algorithms / Transform Encryption
 
@@ -551,27 +541,23 @@
 ### Rust / Git
 
 *   [dalek cryptography](https://github.com/dalek-cryptography/) - Fast yet safe mid-level API for ECC, Bulletproofs, and more.
-*   [recrypt (⭐142)](https://github.com/IronCoreLabs/recrypt-rs) - A pure-Rust library that implements cryptographic primitives for building a multi-hop Proxy Re-encryption scheme, known as Transform Encryption.
+*   [recrypt (⭐144)](https://github.com/IronCoreLabs/recrypt-rs) - A pure-Rust library that implements cryptographic primitives for building a multi-hop Proxy Re-encryption scheme, known as Transform Encryption.
 
 ### Scala / Git
 
-*   [recrypt (⭐33)](https://github.com/IronCoreLabs/recrypt) - Transform encryption library for Scala.
+*   [recrypt (⭐34)](https://github.com/IronCoreLabs/recrypt) - Transform encryption library for Scala.
 
 ### Blogs / Git
 
 *   [Salty Hash](https://blog.ironcorelabs.com) - Covers topics on encryption, data control, privacy, and security.
 
-## [42. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
-
-### Resources / Examples
-
-*   [**CION** - Design system boilerplate for Vue.js](https://github.com/visualjerk/vue-cion-design-system) - A design system build primarily for Vue.js applications. It utilizes design tokens, a living styleguide with integrated code playgrounds and reusable components for common UI tasks.
+## [41. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-displacement-slideshow (⭐209)](https://github.com/AlbanCrepel/vue-displacement-slideshow) - A Vue.js component that makes Webgl image displacement transitions easier.
+*   [vue-displacement-slideshow (⭐211)](https://github.com/AlbanCrepel/vue-displacement-slideshow) - A Vue.js component that makes Webgl image displacement transitions easier.
 
-## [43. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
+## [42. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
 
 ### General Libraries
 
@@ -583,7 +569,7 @@
 *   [Delphi Library Helper (⭐19)](https://github.com/littleearth/delphi-library-helper) Tool to assist Delphi developers configuring library folders.
 *   [Mobile Image Creator (⭐7)](https://github.com/littleearth/mobile-image-creator) Creating Icons and Launcher Images for Delphi Mobile Applications (Firemonkey). This is a fork of Mobile Gfx created by [Thomas Grubb of RiverSoftAVG](http://riversoftavg.com/blogs/index.php/2014/02/03/creating-icons-and-launchers-for-delphi-mobile-applications/).
 
-## [44. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [43. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### UI
 
@@ -593,7 +579,7 @@
 
 *   [react-native-deep-link ★36 (⭐146)](https://github.com/Starotitorov/react-native-deep-link) - React Native library to handle deep links
 
-## [45. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
+## [44. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
 
 ### Organizations
 
@@ -603,7 +589,7 @@
 
 *   [A Counterintuitive Way To Increase Diversity In Tech](https://medium.com/@rachelnabors/a-counterintuitive-way-to-increase-diversity-in-tech-31aea2ce6a50) - By Rachel Nabors.
 
-## [46. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [45. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Anime
 
@@ -675,17 +661,13 @@
 
 
 
-## [47. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
-
-### Proxy and VPN Tools / Audio Record and Process
-
-*   [V2rayU (⭐19k)](https://github.com/yanue/V2rayU) - Macos client based on v2ray. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/yanue/V2rayU)
+## [46. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Utilities / Password Management
 
 *   [Bitwarden](https://bitwarden.com) - Open source password management tool for Mac OS, iOS and browsers. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/bitwarden) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [48. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [47. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Internationalization
 
@@ -695,7 +677,7 @@
 
 *   [Artistic Style](http://astyle.sourceforge.net/) - A tool to format C/C++/C#/Obj-C/Java code. Also known as astyle.
 
-## [49. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
+## [48. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
 
 ### Userscripts
 
@@ -768,7 +750,7 @@
 
 *   [Snahp.it](https://discord.gg/ypyKZCj) Official Discord server for snahp.it.
 
-## [50. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [49. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Science and Data Analysis
 
@@ -778,27 +760,27 @@
 
 *   [vim-iced (Vim) (⭐511)](https://github.com/liquidz/vim-iced)
 
-## [51. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [50. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Tools
 
 *   [dotnet-tools (⭐1.5k)](https://github.com/natemcmaster/dotnet-tools) - A list of tool extensions for .NET Core Command Line (dotnet CLI).
     *   [LibMan CLI (⭐449)](https://github.com/aspnet/LibraryManager) - Client-side content manager for web apps.
 
-## [52. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
+## [51. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
 
 ### Contents / Libraries
 
 *   [Hearth (⭐26)](https://github.com/jembi/hearth) - A fast FHIR-compliant server focused on longitudinal data stores.
 
-## [53. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [52. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Web / Development
 
 *   [OAuth 2 in Action](https://www.manning.com/books/oauth-2-in-action) - Book that teaches you practical use and deployment of OAuth 2 from the perspectives of a client, an authorization server, and a resource server.
 *   [OWASP ZAP Node API (⭐44)](https://github.com/zaproxy/zap-api-nodejs) - Leverage the OWASP Zed Attack Proxy (ZAP) within your NodeJS applications with this official API.
 
-## [54. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
+## [53. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
 
 ### Pomodoro / Enterprise Git Service
 

@@ -22,7 +22,7 @@
 
 ### Package Management / Build Systems
 
-*   [cpm (⭐1.4k)](https://github.com/TheLartians/CPM) - A setup-free CMake + git dependency manager. [`[MIT]`](https://opensource.org/licenses/MIT)
+*   [cpm (⭐2.8k)](https://github.com/TheLartians/CPM) - A setup-free CMake + git dependency manager. [`[MIT]`](https://opensource.org/licenses/MIT)
 
 ## [4. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md)
 

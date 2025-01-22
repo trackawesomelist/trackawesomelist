@@ -33,12 +33,12 @@
 
 ### Online Resources / Other Lists Online
 
-*   [Awesome Malware (⭐226)](https://github.com/fabacab/awesome-malware) - Curated collection of awesome malware, botnets, and other post-exploitation tools.
+*   [Awesome Malware (⭐243)](https://github.com/fabacab/awesome-malware) - Curated collection of awesome malware, botnets, and other post-exploitation tools.
 
 ### Privilege Escalation Tools / Password Spraying Tools
 
-*   [DomainPasswordSpray (⭐1.7k)](https://github.com/dafthack/DomainPasswordSpray) - Tool written in PowerShell to perform a password spray attack against users of a domain.
-*   [SprayingToolkit (⭐1.4k)](https://github.com/byt3bl33d3r/SprayingToolkit) - Scripts to make password spraying attacks against Lync/S4B, Outlook Web Access (OWA) and Office 365 (O365) a lot quicker, less painful and more efficient.
+*   [DomainPasswordSpray (⭐1.8k)](https://github.com/dafthack/DomainPasswordSpray) - Tool written in PowerShell to perform a password spray attack against users of a domain.
+*   [SprayingToolkit (⭐1.5k)](https://github.com/byt3bl33d3r/SprayingToolkit) - Scripts to make password spraying attacks against Lync/S4B, Outlook Web Access (OWA) and Office 365 (O365) a lot quicker, less painful and more efficient.
 
 ## [5. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 

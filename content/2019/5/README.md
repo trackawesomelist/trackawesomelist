@@ -22,7 +22,7 @@
 
 ### Awesome Repositories
 
-- Repository: [Serverless Security (⭐579)](https://github.com/puresec/awesome-serverless-security/)
+- Repository: [Serverless Security (⭐604)](https://github.com/puresec/awesome-serverless-security/)
 
   Description: Collection of Serverless security related resources
 
@@ -58,34 +58,40 @@
 *   [geojson2ndjson](https://www.npmjs.com/package/geojson2ndjson): convert GeoJSON to/from newline-delimited GeoJSON
 *   [geobuf](https://www.npmjs.com/package/geobuf/v/0.2.1): convert GeoJSON to/from GeoBuf
 
-## [6. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/week/README.md)
+## [6. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+
+### Companies with "remote DNA"
+
+*   [Findify](https://findify.io/) - E-commerce search powered by machine learning and big data. Team distributed across Europe.
+
+## [7. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/week/README.md)
 
 ### Stalled Development
 
 *   [**Concise CSS**](https://concisecss.com) - Give up the bloat. Stop tripping over your classes. Be concise.\
     ![](https://img.shields.io/github/stars/ConciseCSS/concise.css.svg?style=social\&label=Star)
     [Docs](https://concisecss.com/documentation/),
-    [Repo (⭐940)](https://github.com/ConciseCSS/concise.css)
+    [Repo (⭐941)](https://github.com/ConciseCSS/concise.css)
     \| #SCSS
 *   [**Responsive Boilerplate**](https://responsivebp.com) - Powerful, accessible, developer friendly framework for building responsive websites.\
     ![](https://img.shields.io/github/stars/responsivebp/responsive.svg?style=social\&label=Star)
     [Docs](https://responsivebp.com/getting-started/),
-    [Repo (⭐866)](https://github.com/responsivebp/responsive)
+    [Repo (⭐867)](https://github.com/responsivebp/responsive)
     \| #SCSS
 
-## [7. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [8. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Examples and funny stuff
 
-*   [blackjack-cr (⭐8)](https://github.com/gdonald/blackjack-cr) - Console Blackjack
+*   [blackjack-cr (⭐9)](https://github.com/gdonald/blackjack-cr) - Console Blackjack
 
-## [8. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [9. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Post-Mortem
 
 *   [Collection of Kubernetes Failure Stories (⭐6.2k)](https://github.com/hjacobs/kubernetes-failure-stories)
 
-## [9. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [10. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / E-Commerce and Payments
 
@@ -100,13 +106,13 @@
 
 *   [Algolia.Search (⭐119)](https://github.com/algolia/algoliasearch-client-csharp) - Repository for the official Algolia .NET client.
 
-## [10. Awesome Captcha](/content/ZYSzys/awesome-captcha/week/README.md)
+## [11. Awesome Captcha](/content/ZYSzys/awesome-captcha/week/README.md)
 
 ### Libraries
 
 *   [lorien/captcha\_solver (⭐224)](https://github.com/lorien/captcha_solver) - Universal python API to different captcha solving services.
 
-## [11. Awesome Mobile Web Development](/content/myshov/awesome-mobile-web-development/week/README.md)
+## [12. Awesome Mobile Web Development](/content/myshov/awesome-mobile-web-development/week/README.md)
 
 ### Articles and Documentation
 
@@ -119,7 +125,7 @@
 
 *   [Lozad.js (⭐7.1k)](https://github.com/ApoorvSaxena/lozad.js) - Highly performant, light and configurable lazy loader using IntersectionObserver API
 
-## [12. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [13. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Graph Data Model
 
@@ -131,7 +137,7 @@
 
 *   [Vega (⭐10k)](https://github.com/vega/vega) - a visualization grammar.
 
-## [13. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [14. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### CLI Builder
 
@@ -139,19 +145,19 @@
 
 ### Database Tools
 
-*   [SecondBase (⭐220)](https://github.com/customink/secondbase) - Seamless second database integration for Rails. SecondBase provides support for Rails to manage dual databases by extending ActiveRecord tasks that create, migrate, and test your application.
+*   [SecondBase (⭐219)](https://github.com/customink/secondbase) - Seamless second database integration for Rails. SecondBase provides support for Rails to manage dual databases by extending ActiveRecord tasks that create, migrate, and test your application.
 *   [Standby (⭐87)](https://github.com/kenn/standby) - Read from standby databases for ActiveRecord (formerly Slavery).
 
 ### Scientific
 
 *   Utilities
     *   [algorithms (⭐2.7k)](https://github.com/kanwei/algorithms) - Library with documentation on when to use a particular structure/algorithm.
-    *   [jaro\_winkler (⭐193)](https://github.com/tonytonyjan/jaro_winkler) - Ruby & C implementation of Jaro-Winkler distance algorithm which supports UTF-8 string.
+    *   [jaro\_winkler (⭐195)](https://github.com/tonytonyjan/jaro_winkler) - Ruby & C implementation of Jaro-Winkler distance algorithm which supports UTF-8 string.
     *   [primes-utils (⭐3)](https://github.com/jzakiya/primes-utils) - A Rubygem which provides a suite of extremely fast utility methods for testing and generating primes.
     *   [Roots (⭐1)](https://github.com/jzakiya/roots) - A Rubygem which provides utilities to find all the nth roots of real and complex values.
     *   [smarter\_csv (⭐1.5k)](https://github.com/tilo/smarter_csv) - Ruby Gem for smarter importing of CSV Files as Array(s) of Hashes.
 
-## [14. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
+## [15. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
 
 ### Contents / Tutorials
 
@@ -167,17 +173,17 @@
 
 *   [TIC-80 by Nesbox](https://nesbox.itch.io/tic) - Tiny Computer, available on HTML 5, Windows, Linux 32/64bit, Android & MacOSX
 
-## [15. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [16. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Calendar / Barcode
 
-*   [CalendarView (⭐593)](https://github.com/mmick66/CalendarView) - Calendar Component, It features both vertical and horizontal layout (and scrolling) and the display of native calendar events.
+*   [CalendarView (⭐598)](https://github.com/mmick66/CalendarView) - Calendar Component, It features both vertical and horizontal layout (and scrolling) and the display of native calendar events.
 
 ### UITableView / Barcode
 
 *   [DGElasticPullToRefresh (⭐3.8k)](https://github.com/gontovnik/DGElasticPullToRefresh) - Elastic pull to refresh.
 
-## [16. Awesome Food](/content/jzarca01/awesome-food/week/README.md)
+## [17. Awesome Food](/content/jzarca01/awesome-food/week/README.md)
 
 ### API for Food services
 
@@ -188,13 +194,13 @@
 *   [RecipePuppy](http://www.recipepuppy.com/about/api/) - This api lets you search through recipe puppy database of over a million recipes by keyword and/or by search query.
 *   [node-ubereats (⭐8)](https://github.com/jzarca01/node-ubereats) - A work in progress API for Uber Eats.
 
-## [17. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/week/README.md)
+## [18. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/week/README.md)
 
 ### Organizations
 
 *   [SelfCare.Tech](http://selfcare.tech/) - A repository of self-care resources for developers & others.
 
-## [18. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [19. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Design and Product / Other Tools
 
@@ -202,13 +208,13 @@
 
 ### Utilities / System Related Tools
 
-*   [Overkill (⭐494)](https://github.com/KrauseFx/overkill-for-mac) - Stop iTunes from opening when you connect your iPhone.
+*   [Overkill (⭐523)](https://github.com/KrauseFx/overkill-for-mac) - Stop iTunes from opening when you connect your iPhone.
 
 ### Gaming Software / System Related Tools
 
 *   [PPSSPP](https://www.ppsspp.org) - A awesome PSP emulator for any OS you can dream of! [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/hrydgard/ppsspp)
 
-## [19. Awesome Choo](/content/choojs/awesome-choo/week/README.md)
+## [20. Awesome Choo](/content/choojs/awesome-choo/week/README.md)
 
 ### Contents / Plugins and addons
 
@@ -218,19 +224,19 @@
 
 *   [hyperamp (⭐294)](https://github.com/hypermodules/hyperamp) - Humble music player.
 
-## [20. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [21. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Algorithms and Data structures
 
-*   [def\_memo (⭐32)](https://github.com/os6sense/DefMemo) - A memoization macro (defmemo) for elixir using a genserver backing store.
-*   [emel (⭐101)](https://github.com/mrdimosthenis/emel) - A simple and functional machine learning library written in elixir.
-*   [hypex (⭐20)](https://github.com/whitfin/hypex) - Fast Elixir implementation of HyperLogLog.
-*   [mason (⭐11)](https://github.com/spacepilots/mason) - Coerce maps into structs. This is helpful e.g. when you interface a REST API and want to create a struct from the response.
-*   [sleeplocks (⭐54)](https://github.com/whitfin/sleeplocks) - BEAM friendly spinlocks for Elixir/Erlang.
+*   [def\_memo (⭐33)](https://github.com/os6sense/DefMemo) - A memoization macro (defmemo) for elixir using a genserver backing store.
+*   [emel (⭐107)](https://github.com/mrdimosthenis/emel) - A simple and functional machine learning library written in elixir.
+*   [hypex (⭐21)](https://github.com/whitfin/hypex) - Fast Elixir implementation of HyperLogLog.
+*   [mason (⭐12)](https://github.com/spacepilots/mason) - Coerce maps into structs. This is helpful e.g. when you interface a REST API and want to create a struct from the response.
+*   [sleeplocks (⭐57)](https://github.com/whitfin/sleeplocks) - BEAM friendly spinlocks for Elixir/Erlang.
 
 ### Audio and Sounds
 
-*   [firmata (⭐48)](https://github.com/entone/firmata) - This package implements the Firmata protocol.
+*   [firmata (⭐50)](https://github.com/entone/firmata) - This package implements the Firmata protocol.
 
 ### BSON
 
@@ -238,23 +244,23 @@
 
 ### Caching
 
-*   [cachex (⭐1.5k)](https://github.com/whitfin/cachex) - A powerful caching library for Elixir with a wide featureset.
-*   [gen\_spoxy (⭐23)](https://github.com/SpotIM/gen_spoxy) - Caching made fun.
-*   [memoize (⭐189)](https://github.com/melpon/memoize) - A memoization macro that easily cache function.
+*   [cachex (⭐1.6k)](https://github.com/whitfin/cachex) - A powerful caching library for Elixir with a wide featureset.
+*   [gen\_spoxy (⭐22)](https://github.com/SpotIM/gen_spoxy) - Caching made fun.
+*   [memoize (⭐194)](https://github.com/melpon/memoize) - A memoization macro that easily cache function.
 *   [stash (⭐52)](https://github.com/whitfin/stash) - A straightforward, fast, and user-friendly key/value store.
 
 ### Cloud Infrastructure and Management
 
-*   [Bonny (⭐373)](https://github.com/coryodaniel/bonny) - Kubernetes Operator Development Framework.
+*   [Bonny (⭐391)](https://github.com/coryodaniel/bonny) - Kubernetes Operator Development Framework.
 
 ### Command Line Applications
 
-*   [ex\_cli (⭐214)](https://github.com/tuvistavie/ex_cli) - User friendly CLI apps for Elixir.
-*   [ratatouille (⭐737)](https://github.com/ndreynolds/ratatouille) - A TUI (terminal UI) kit for Elixir.
+*   [ex\_cli (⭐215)](https://github.com/tuvistavie/ex_cli) - User friendly CLI apps for Elixir.
+*   [ratatouille (⭐766)](https://github.com/ndreynolds/ratatouille) - A TUI (terminal UI) kit for Elixir.
 
 ### Cryptography
 
-*   [siphash-elixir (⭐18)](https://github.com/whitfin/siphash-elixir) - Elixir implementation of the SipHash hash family.
+*   [siphash-elixir (⭐19)](https://github.com/whitfin/siphash-elixir) - Elixir implementation of the SipHash hash family.
 
 ### Date and Time
 
@@ -262,18 +268,18 @@
 
 ### Debugging
 
-*   [git\_hooks (⭐153)](https://github.com/qgadrian/elixir_git_hooks) - Add git hooks to Elixir projects.
+*   [git\_hooks (⭐162)](https://github.com/qgadrian/elixir_git_hooks) - Add git hooks to Elixir projects.
 
 ### Eventhandling
 
 *   [cizen](https://gitlab.com/cizen/cizen) - Build highly concurrent, monitorable, and extensible applications with a collection of sagas.
-*   [wait\_for\_it (⭐15)](https://github.com/jvoegele/wait_for_it) - Provides convenient and easy-to-use facilities for synchronizing concurrent activities.
+*   [wait\_for\_it (⭐16)](https://github.com/jvoegele/wait_for_it) - Provides convenient and easy-to-use facilities for synchronizing concurrent activities.
 
 ### Examples and funny stuff
 
 *   [changelog.com (⭐2.7k)](https://github.com/thechangelog/changelog.com) - CMS that runs changelog.com built with Phoenix 1.4.
 *   [hexpm (⭐1.1k)](https://github.com/hexpm/hexpm) - Source code for the hex package manager site built with Phoenix 1.3.
-*   [tilex (⭐494)](https://github.com/hashrocket/tilex) - Source code for Hashrocket's TIL website built with Phoenix 1.3.
+*   [tilex (⭐497)](https://github.com/hashrocket/tilex) - Source code for Hashrocket's TIL website built with Phoenix 1.3.
 
 ### Files and Directories
 
@@ -294,43 +300,43 @@
 
 ### Instrumenting / Monitoring
 
-*   [telemetry (⭐858)](https://github.com/beam-telemetry/telemetry) - Dynamic dispatching library for metrics and instrumentations.
+*   [telemetry (⭐881)](https://github.com/beam-telemetry/telemetry) - Dynamic dispatching library for metrics and instrumentations.
 
 ### JSON
 
-*   [json\_stream\_encoder (⭐7)](https://github.com/TreyE/json_stream_encoder) - JsonStreamEncoder is a streaming encoder for streaming JSON to an IOish thing in Elixir.
+*   [json\_stream\_encoder (⭐8)](https://github.com/TreyE/json_stream_encoder) - JsonStreamEncoder is a streaming encoder for streaming JSON to an IOish thing in Elixir.
 *   [tiny (⭐47)](https://github.com/whitfin/tiny) - Tiny, fast and fully compliant JSON parser for Elixir.
 
 ### Macros
 
-*   [opus (⭐356)](https://github.com/zorbash/opus) - A framework for pluggable business logic components.
+*   [opus (⭐362)](https://github.com/zorbash/opus) - A framework for pluggable business logic components.
 
 ### Miscellaneous
 
-*   [AtomVM (⭐1.4k)](https://github.com/bettio/AtomVM) - AtomVM allows to run Elixir/Erlang code on embedded devices such as ESP32 and STM32 microcontrollers.
+*   [AtomVM (⭐1.5k)](https://github.com/bettio/AtomVM) - AtomVM allows to run Elixir/Erlang code on embedded devices such as ESP32 and STM32 microcontrollers.
 *   [expool (⭐28)](https://github.com/whitfin/expool) - A small process pooling library for parallel tasks in Elixir.
-*   [hammer (⭐719)](https://github.com/ExHammer/hammer) - A rate-limiter with pluggable storage backends, including Redis.
-*   [vessel (⭐23)](https://github.com/whitfin/vessel) - Elixir MapReduce interfaces with Hadoop Streaming integration.
+*   [hammer (⭐788)](https://github.com/ExHammer/hammer) - A rate-limiter with pluggable storage backends, including Redis.
+*   [vessel (⭐24)](https://github.com/whitfin/vessel) - Elixir MapReduce interfaces with Hadoop Streaming integration.
 
 ### Networking
 
 *   [FlyingDdns](https://gitlab.com/timopallach/FlyingDdns) - A dyndns server written in elixir.
-*   [sshkit (⭐147)](https://github.com/bitcrowd/sshkit.ex) - An Elixir toolkit for performing tasks on one or more servers, built on top of Erlang’s SSH application.
+*   [sshkit (⭐151)](https://github.com/bitcrowd/sshkit.ex) - An Elixir toolkit for performing tasks on one or more servers, built on top of Erlang’s SSH application.
 
 ### ORM and Datamapping
 
-*   [eternal (⭐95)](https://github.com/whitfin/eternal) - Keep your ETS tables alive forever, safely and easily.
-*   [gremlex (⭐69)](https://github.com/Revmaker/gremlex) - Apache Tinkerpop Gremlin Elixir Client.
-*   [memento (⭐725)](https://github.com/sheharyarn/memento) - Simple Mnesia Interface in Elixir.
+*   [eternal (⭐99)](https://github.com/whitfin/eternal) - Keep your ETS tables alive forever, safely and easily.
+*   [gremlex](https://github.com/Revmaker/gremlex) - Apache Tinkerpop Gremlin Elixir Client.
+*   [memento (⭐757)](https://github.com/sheharyarn/memento) - Simple Mnesia Interface in Elixir.
 
 ### Queue
 
-*   [ecto\_job (⭐274)](https://github.com/mbuhot/ecto_job) - A transactional job queue built with Ecto, PostgreSQL and GenStage.
-*   [Rihanna (⭐437)](https://github.com/samphilipd/rihanna) - High performance postgres-backed job queue for Elixir.
+*   [ecto\_job (⭐277)](https://github.com/mbuhot/ecto_job) - A transactional job queue built with Ecto, PostgreSQL and GenStage.
+*   [Rihanna (⭐442)](https://github.com/samphilipd/rihanna) - High performance postgres-backed job queue for Elixir.
 
 ### Security
 
-*   [sobelow (⭐1.6k)](https://github.com/nccgroup/sobelow) - Security-focused static analysis for the Phoenix Framework.
+*   [sobelow (⭐1.7k)](https://github.com/nccgroup/sobelow) - Security-focused static analysis for the Phoenix Framework.
 
 ### Templating
 
@@ -339,44 +345,44 @@
 ### Testing
 
 *   [elixir-auto-test (⭐0)](https://github.com/joaothallis/elixir-auto-test) - Run test when file is saved using inotify-tools.
-*   [mecks\_unit (⭐55)](https://github.com/archan937/mecks_unit) - A package to elegantly mock module functions within (asynchronous) ExUnit tests using [meck (⭐811)](https://github.com/eproxus/meck).
+*   [mecks\_unit (⭐54)](https://github.com/archan937/mecks_unit) - A package to elegantly mock module functions within (asynchronous) ExUnit tests using [meck (⭐819)](https://github.com/eproxus/meck).
 
 ### Text and Numbers
 
 *   [RandomStringGenerator (⭐1)](https://github.com/caioceccon/random_string_generator) - A module to generate a random string based on a given string pattern.
-*   [shortuuid (⭐44)](https://github.com/gpedic/ex_shortuuid) - Generate concise, unambiguous, URL-safe UUIDs.
+*   [shortuuid (⭐47)](https://github.com/gpedic/ex_shortuuid) - Generate concise, unambiguous, URL-safe UUIDs.
 
 ### Third Party APIs
 
 *   [correios\_cep (⭐38)](https://github.com/prodis/correios-cep-elixir) - Find Brazilian addresses by zip code, directly from Correios database. No HTML parsers.
-*   [pay\_pal (⭐36)](https://github.com/zensavona/paypal) - Elixir library for working with the PayPal REST API.
+*   [pay\_pal (⭐37)](https://github.com/zensavona/paypal) - Elixir library for working with the PayPal REST API.
 *   [rs\_twitter (⭐3)](https://github.com/radzserg/rstwitter) - Low Level Twitter Client for Elixir.
 
 ### Utilities
 
-*   [deppie (⭐11)](https://github.com/whitfin/deppie) - Elixir's coolest deprecation logger.
-*   [dot-notes (⭐7)](https://github.com/whitfin/dot-notes-elixir) - Simple dot/bracket notation parsing/conversion for Maps/Lists.
+*   [deppie (⭐12)](https://github.com/whitfin/deppie) - Elixir's coolest deprecation logger.
+*   [dot-notes (⭐8)](https://github.com/whitfin/dot-notes-elixir) - Simple dot/bracket notation parsing/conversion for Maps/Lists.
 
 ### Validations
 
-*   [optimal (⭐48)](https://github.com/albert-io/optimal) - A schema based keyword list option validator.
+*   [optimal (⭐49)](https://github.com/albert-io/optimal) - A schema based keyword list option validator.
 
 ### XML
 
-*   [fast\_xml (⭐131)](https://github.com/processone/fast_xml) - Fast Expat based Erlang XML parsing library.
+*   [fast\_xml (⭐134)](https://github.com/processone/fast_xml) - Fast Expat based Erlang XML parsing library.
 
 ### Cheat Sheets
 
-*   [benjamintanweihao/elixir-cheatsheets (⭐104)](https://github.com/benjamintanweihao/elixir-cheatsheets/) - GenServer and Supervisor cheatsheets.
+*   [benjamintanweihao/elixir-cheatsheets (⭐106)](https://github.com/benjamintanweihao/elixir-cheatsheets/) - GenServer and Supervisor cheatsheets.
 
 ### Editors
 
-*   [elixir-ls (⭐842)](https://github.com/JakeBecker/elixir-ls) - A frontend-independent IDE "smartness" server for Elixir. Implements the JSON-based "Language Server Protocol" standard and provides debugger support via VS Code's debugger protocol.
-*   [vscode-elixir-ls (⭐388)](https://github.com/JakeBecker/vscode-elixir-ls) - Elixir language support and debugger for VS Code, powered by ElixirLS.
+*   [elixir-ls (⭐848)](https://github.com/JakeBecker/elixir-ls) - A frontend-independent IDE "smartness" server for Elixir. Implements the JSON-based "Language Server Protocol" standard and provides debugger support via VS Code's debugger protocol.
+*   [vscode-elixir-ls (⭐390)](https://github.com/JakeBecker/vscode-elixir-ls) - Elixir language support and debugger for VS Code, powered by ElixirLS.
 
 ### Other Awesome Lists
 
-*   [Awesome Elixir and CQRS (⭐696)](https://github.com/slashdotdash/awesome-elixir-cqrs) - A curated list of awesome Elixir and Command Query Responsibility Segregation (CQRS) and event sourcing resources.
+*   [Awesome Elixir and CQRS (⭐714)](https://github.com/slashdotdash/awesome-elixir-cqrs) - A curated list of awesome Elixir and Command Query Responsibility Segregation (CQRS) and event sourcing resources.
 *   [Curated Elixir Resources](https://hackr.io/tutorials/learn-elixir) - A collection of top recommended Elixir resources.
 
 ### Reading
@@ -387,65 +393,65 @@
 
 *   [Elixir Career](https://elixir.career/) - A job board for Elixir, and community of Elixir developers.
 
-## [21. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [22. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### Blogs / Navigation Demos
 
 *   [Red Shift - Infinite Red](https://shift.infinite.red/) - Lots of React Native content
 
-## [22. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [23. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Tools
 
-*   [cl-ctrie (⭐117)](https://github.com/danlentz/cl-ctrie) -
+*   [cl-ctrie (⭐120)](https://github.com/danlentz/cl-ctrie) -
     lock-free, concurrent, key/value index with efficient memory-mapped persistence and fast transient storage models. [MIT](https://opensource.org/licenses/MIT).
 
 ### Javascript / Isomorphic web frameworks
 
-*   [trident-mode (⭐74)](https://github.com/johnmastro/trident-mode.el), an Emacs minor mode for live Parenscript interaction.
+*   [trident-mode (⭐78)](https://github.com/johnmastro/trident-mode.el), an Emacs minor mode for live Parenscript interaction.
 
 ### Monitoring / Isomorphic web frameworks
 
-*   [prometheus.cl (⭐83)](https://github.com/deadtrickster/prometheus.cl) - Prometheus.io client. Grafana dashboard for SBCL and Hunchentoot metrics (memory, threads, requests per second,…). [MIT](https://opensource.org/licenses/MIT).
+*   [prometheus.cl (⭐85)](https://github.com/deadtrickster/prometheus.cl) - Prometheus.io client. Grafana dashboard for SBCL and Hunchentoot metrics (memory, threads, requests per second,…). [MIT](https://opensource.org/licenses/MIT).
     *   [prometheus-g (⭐4)](https://github.com/40ants/prometheus-gc) - Extension for prometheus.cl which collects metrics about garbage collector state.
 
-## [23. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [24. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Misc / Other
 
 *   [davidyezsetz/you-might-not-need-jquery-plugins (⭐140)](https://github.com/davidyezsetz/you-might-not-need-jquery-plugins)
 
-## [24. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [25. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### C++ / General-Purpose Machine Learning
 
-*   [ThunderGBM (⭐689)](https://github.com/Xtra-Computing/thundergbm) - A fast library for GBDTs and Random Forests on GPUs.
+*   [ThunderGBM (⭐695)](https://github.com/Xtra-Computing/thundergbm) - A fast library for GBDTs and Random Forests on GPUs.
 
-## [25. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [26. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### Frameworks / Runtimes
 
 *   [Light-4j (⭐3.6k)](https://github.com/networknt/light-4j) - A high throughput, low latency, small memory footprint and more productive microservices platform.
 
-## [26. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/week/README.md)
+## [27. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/week/README.md)
 
 ### Terminal Emulation Applications
 
 *   [FluentTerminal (⭐8.5k)](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies.
 
-## [27. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
+## [28. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
 
 ### Applications and Platforms / Health
 
 *   [AlcDroid](http://alcdroid.flx-apps.com/) - Alcohol consumption tracking and BAC calculation app that offers various statistics regarding your drinking behavior (Android).
 
-## [28. Awesome Code Review](/content/joho/awesome-code-review/week/README.md)
+## [29. Awesome Code Review](/content/joho/awesome-code-review/week/README.md)
 
 ### Articles
 
 *   [Stacked Pull Requests: Keeping GitHub Diffs Small](https://graysonkoonce.com/stacked-pull-requests-keeping-github-diffs-small/) A step-by-step process to split big PRs and increase review engagement.
 
-## [29. Awesome ad Free](/content/johnjago/awesome-ad-free/week/README.md)
+## [30. Awesome ad Free](/content/johnjago/awesome-ad-free/week/README.md)
 
 ### Alternatives / Communication
 
@@ -459,13 +465,13 @@
 
 *   [Why no advertising?](https://sivers.org/noads) - Through the perspective of the perfect-world ideal.
 
-## [30. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+## [31. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### Other / Godot version unknown
 
 *   [`gd-com` npm package](https://www.npmjs.com/package/@gd-com/utils) - Communicate with Godot clients using Node.js.
 
-## [31. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/week/README.md)
+## [32. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/week/README.md)
 
 ### Open Source Projects / Messaging and social media
 
@@ -484,7 +490,7 @@
 *   [Fun Fun Function](https://patreon.com/funfunfunction) - JavaScript and general programming videos.
 *   [LiveOverflow](https://www.patreon.com/liveoverflow) - IT security videos.
 
-## [32. Bots](/content/hackerkid/bots/week/README.md)
+## [33. Bots](/content/hackerkid/bots/week/README.md)
 
 ### Platform Documentation
 
@@ -498,21 +504,21 @@
 
 *   [BotMan (⭐5.8k)](https://github.com/botman/botman) - PHP Bot Framework supporting over a dozen platforms (FB, Instagram, MS Bot Framework, etc)
 
-## [33. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [34. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### Specialties
 
-*   [ada-composition (⭐8)](https://github.com/gerr135/ada_composition) - A collections of small nifty demos/sample code that may help better layout data or structure project.
+*   [ada-composition (⭐9)](https://github.com/gerr135/ada_composition) - A collections of small nifty demos/sample code that may help better layout data or structure project.
 
 ### Generation / Apache License
 
-*   [automate (⭐6)](https://github.com/Blady-Com/Automate) - Finite-state machine generator.
+*   [automate (⭐7)](https://github.com/Blady-Com/Automate) - Finite-state machine generator.
 
 ### Generators and Translators / Apache License
 
 *   [j2ada (⭐3)](https://github.com/Blady-Com/j2ada) - Translator for a Java valid source code in Ada source code.
 
-## [34. Awesome Icons](/content/notlmn/awesome-icons/week/README.md)
+## [35. Awesome Icons](/content/notlmn/awesome-icons/week/README.md)
 
 ### General
 
@@ -520,9 +526,9 @@
 *   [Eva icons (⭐8.6k)](https://github.com/akveo/eva-icons#readme) - A pack of more than 480 beautifully crafted Open Source icons. ([Website](https://akveo.github.io/eva-icons))
 *   [Evil icons (⭐5k)](https://github.com/evil-icons/evil-icons#readme) - Simple and clean SVG icon pack with the code to support Rails, Sprockets, Node.js, Gulp, Grunt and CDN. ([Website](http://evil-icons.io))
 *   [Feather (⭐25k)](https://github.com/feathericons/feather#readme) - Simply beautiful open source icons. ([Website](https://feathericons.com))
-*   [Font Awesome (⭐73k)](https://github.com/FortAwesome/Font-Awesome#readme) - The iconic SVG, font, and CSS toolkit. ([Website](https://fontawesome.com))
-*   [Ion icons (⭐17k)](https://github.com/ionic-team/ionicons#readme) - The premium icon font for Ionic Framework and web apps everywhere. ([Website](https://ionicons.com))
-*   [Material design icons (⭐50k)](https://github.com/google/material-design-icons#readme) - Material Design icons by Google. ([Website](https://fonts.google.com/icons))
+*   [Font Awesome (⭐74k)](https://github.com/FortAwesome/Font-Awesome#readme) - The iconic SVG, font, and CSS toolkit. ([Website](https://fontawesome.com))
+*   [Ion icons (⭐18k)](https://github.com/ionic-team/ionicons#readme) - The premium icon font for Ionic Framework and web apps everywhere. ([Website](https://ionicons.com))
+*   [Material design icons (⭐51k)](https://github.com/google/material-design-icons#readme) - Material Design icons by Google. ([Website](https://fonts.google.com/icons))
 *   [Octicons (⭐8.3k)](https://github.com/primer/octicons#readme) - A scalable set of icons handcrafted with <3 by GitHub. ([Website](https://octicons.github.com))
 *   Zondicons - A set of free premium SVG icons for you to use on your digital products. ([Website](http://www.zondicons.com))
 
@@ -530,61 +536,61 @@
 
 *   [Cryptocurrency icons (⭐2.6k)](https://github.com/atomiclabs/cryptocurrency-icons#readme) - A set of icons for all the main cryptocurrencies and altcoins. ([Website](http://cryptoicons.co))
 *   [Dev icons (⭐2.7k)](https://github.com/vorillaz/devicons#readme) - An iconic font made for developers. ([Website](http://vorillaz.github.io/devicons))
-*   [Simple icons (⭐19k)](https://github.com/simple-icons/simple-icons#readme) - Free SVG icons for popular brands. ([Website](https://simpleicons.org))
+*   [Simple icons (⭐21k)](https://github.com/simple-icons/simple-icons#readme) - Free SVG icons for popular brands. ([Website](https://simpleicons.org/))
 
 ### Other / CSS only
 
 *   [cssicon (⭐3.2k)](https://github.com/wentin/cssicon#readme) - Icon set made with pure css code, no dependencies, "grab and go" icons. ([Website](https://cssicon.space))
 
-## [35. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [36. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Strong Naming
 
-*   [Strong Namer (⭐327)](https://github.com/dsplaisted/strongnamer) - Automatically add strong names to referenced assemblies which do not already have a strong name. This will allow you to reference and use (NuGet packages with) assemblies which are not strong named from your projects that do use a strong name.
+*   [Strong Namer (⭐332)](https://github.com/dsplaisted/strongnamer) - Automatically add strong names to referenced assemblies which do not already have a strong name. This will allow you to reference and use (NuGet packages with) assemblies which are not strong named from your projects that do use a strong name.
 
-## [36. Awesome Competitive Programming](/content/lnishan/awesome-competitive-programming/week/README.md)
+## [37. Awesome Competitive Programming](/content/lnishan/awesome-competitive-programming/week/README.md)
 
 ### Tools / Personal use
 
 - ☆: ★★★
 
-  Name: General Practice Helpers: ... [CHelper](https://plugins.jetbrains.com/plugin/7091-chelper) (IntelliJ IDEA) ([manual](http://codeforces.com/blog/entry/3273)) ... [caide (⭐84)](https://github.com/slycelote/caide) (Visual Studio, CodeLite, standalone command line app) ... [JHelper](http://codeforces.com/blog/entry/13369) (AppCode, CLion) [online-judge-tools (⭐988)](https://github.com/kmyk/online-judge-tools) (Stand alone CLI tool, It is actively maintained.)
+  Name: General Practice Helpers: ... [CHelper](https://plugins.jetbrains.com/plugin/7091-chelper) (IntelliJ IDEA) ([manual](http://codeforces.com/blog/entry/3273)) ... [caide (⭐86)](https://github.com/slycelote/caide) (Visual Studio, CodeLite, standalone command line app) ... [JHelper](http://codeforces.com/blog/entry/13369) (AppCode, CLion) [online-judge-tools (⭐1k)](https://github.com/kmyk/online-judge-tools) (Stand alone CLI tool, It is actively maintained.)
 
   Description: Great tools that parse contests, inline library codes and provide testing frameworks. They save you from spending your precious time on switching windows and copy-pasting back and forth.
 
 
 
-## [37. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [38. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### Other / Custom Dialog
 
 *   [RxAndroid (⭐20k)](https://github.com/ReactiveX/RxAndroid) - Adds minimum RxJava bindings for easy writing of reactive Android java code.
 
-## [38. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [39. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Codebases for Reference / Videos
 
 *   [Torch (⭐1.7k)](https://github.com/mattstauffer/Torch) - Examples of using each Illuminate component in non-Laravel applications
 
-## [39. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
+## [40. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
 ### Python / Git
 
 *   [Crypto-Vinaigrette (⭐20)](https://github.com/aditisrinivas97/Crypto-Vinaigrette) - Quantum resistant asymmetric key generation tool for digital signatures.
 
-## [40. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
+## [41. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
 
 ### Miscellaneous
 
 *   [Moment (⭐78)](https://github.com/perfectworks/alfred-workflow-moment) - Advanced time utility, inspired by [moment.js](https://momentjs.com).
 
-## [41. Awesome Html5](/content/diegocard/awesome-html5/week/README.md)
+## [42. Awesome Html5](/content/diegocard/awesome-html5/week/README.md)
 
 ### Accessibility / Web payments
 
 *   [Excellent intro to accessibility from Google's fundamentals](https://developers.google.com/web/fundamentals/accessibility/)
 
-## [42. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [43. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### United States 🇺🇸 / California <a id="california"></a>
 
@@ -625,7 +631,7 @@ Webpage: <https://blackhammerbrewing.com>
 | ---- | ----- | -------------------------------------------------------------------------- | ------------------- |
 | ✔    | ✔     | [544 Bryant St, San Francisco, CA 94107](https://goo.gl/maps/8VoTSniJ5FC2) | Mon-Sun 12:00-23:00 |
 
-## [43. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [44. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Desktop / Game Engine resources
 
@@ -635,38 +641,38 @@ Webpage: <https://blackhammerbrewing.com>
 
 *   Slack [Flutter Brasil](https://flutterbr.slack.com)
 
-## [44. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
+## [45. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
 ### Ethics / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
 *   [The Digital Product Ethics Canvas](https://www.threebility.com/post/the-digital-product-ethics-canvas) - Identify and mitigate the risk of digital products to individuals and society.
 
-## [45. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [46. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Articles / XML
 
 *   [First thoughts on Deno, the JavaScript/TypeScript run-time](https://43081j.com/2019/01/first-look-at-deno)
 
-## [46. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+## [47. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
 ### Resources / Educational
 
 *   [RealPython](https://realpython.com/tutorials/django/) - Many high-quality tutorials on Django.
 
-## [47. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
+## [48. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
 
 ### Tools / Online Analyzers
 
 *   ~~[Tracedroid](http://tracedroid.few.vu.nl/)~~
 *   ~~[CopperDroid](http://copperdroid.isg.rhul.ac.uk/copperdroid/)~~
 
-## [48. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [49. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Shell Script Development / Directory Navigation
 
 *   [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial/basics)
 
-## [49. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
+## [50. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
 
 ### Datasets / Realtime
 
@@ -676,7 +682,7 @@ Webpage: <https://blackhammerbrewing.com>
 
 *   [GitHub Archive](https://www.gharchive.org/) - GitHub's public timeline since 2011, updated every hour.
 
-## [50. Awesome Umbraco](/content/umbraco-community/awesome-umbraco/week/README.md)
+## [51. Awesome Umbraco](/content/umbraco-community/awesome-umbraco/week/README.md)
 
 ### Backoffice extensions
 
@@ -686,13 +692,13 @@ Webpage: <https://blackhammerbrewing.com>
 
 *   [Deploy Contrib (⭐11)](https://github.com/umbraco/Umbraco.Deploy.Contrib) - Offers value-connectors for the most popular Umbraco community packages. To allow Umbraco Cloud deploy to transfer content/property-data to a target environment. **(Maintained by Umbraco HQ)** *Umbraco Cloud only*
 
-## [51. Awesome Recursion Schemes](/content/passy/awesome-recursion-schemes/week/README.md)
+## [52. Awesome Recursion Schemes](/content/passy/awesome-recursion-schemes/week/README.md)
 
 ### Introductions
 
 *   [Awesome Recursion Schemes (⭐1.1k)](https://github.com/passy/awesome-recursion-schemes) - A curation of useful resources for learning about and using recursion schemes.
 
-## [52. Awesome Speakers](/content/karlhorky/awesome-speakers/week/README.md)
+## [53. Awesome Speakers](/content/karlhorky/awesome-speakers/week/README.md)
 
 ### Europe / Poland 🇵🇱
 
@@ -710,13 +716,13 @@ Topics: CSS, Teaching Web Technologies\
 Topics: JavaScript, TypeScript, React, Angular, RxJS, Async, Architecture\
 <https://twitter.com/tomasz_ducin>
 
-## [53. Awesome Esolangs](/content/angrykoala/awesome-esolangs/week/README.md)
+## [54. Awesome Esolangs](/content/angrykoala/awesome-esolangs/week/README.md)
 
 ### Resources
 
 *   [Esoteric Codes](https://esoteric.codes) - Articles and documents collection.
 
-## [54. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
+## [55. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
 
 ### Python
 
@@ -735,21 +741,6 @@ Topics: JavaScript, TypeScript, React, Angular, RxJS, Async, Architecture\
 
 *   [eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee (⭐9.1k)](https://github.com/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee) - eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee (archiveeeeeeeeeed).
 *   [awesome-awesome-awesome](https://github.com/jonatasbaldin/awesome-awesome-awesome) - Awesome list of repositories of awesome lists 🤷
-
-## [55. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
-
-### Articles & Posts
-
-*   [Why I work remotely (hint: it has nothing to do with productivity)](https://m.signalvnoise.com/why-i-work-remotely-hint-it-has-nothing-to-do-with-productivity/)
-
-### Relocation Incentives
-
-*   [Live And Work In Maine](https://www.liveandworkinmaine.com/opportunity-maine/) - The amount spent on student loan payments each year is subtracted from your state income taxes. Out-of-state residents must have earned their bachelors or associates degrees after 2015 to qualify.
-*   [Vermont Remote Worker Grant Program](https://www.thinkvermont.com/relocate/) - Receive up to a max of $5,000 per year to work from Vermont. Cannot exceed $10,000 for life of the program per individual.
-
-### Companies with "remote DNA"
-
-*   [Findify](https://findify.io/) - E-commerce search powered by machine learning and big data. Team distributed across Europe.
 
 ## [56. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
 

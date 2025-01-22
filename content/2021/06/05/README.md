@@ -22,13 +22,13 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [FEDOT (⭐627)](https://github.com/nccr-itmo/FEDOT): An AutoML framework for the automated design of composite modelling pipelines. It can handle classification, regression, and time series forecasting tasks on different types of data (including multi-modal datasets).
+*   [FEDOT (⭐649)](https://github.com/nccr-itmo/FEDOT): An AutoML framework for the automated design of composite modelling pipelines. It can handle classification, regression, and time series forecasting tasks on different types of data (including multi-modal datasets).
 
 ## [4. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
-### Tables / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+### Data Grids / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ignite-ui-angular's grid](https://www.infragistics.com/products/ignite-ui-angular/angular/components/grid/grid) - The data grid, tree grid, hierarchical grid in [Ignite UI for Angular (⭐569)](https://github.com/IgniteUI/igniteui-angular) provide excel-style filtering, live-data, sorting, draggable row and other toolbar.
+*   [ignite-ui-angular's grid](https://www.infragistics.com/products/ignite-ui-angular/angular/components/grid/grid) - The data grid, tree grid, hierarchical grid in [Ignite UI for Angular (⭐572)](https://github.com/IgniteUI/igniteui-angular) provide excel-style filtering, live-data, sorting, draggable row and other toolbar.
 
 ## [5. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -50,7 +50,7 @@
 
 ### Bash scripts / Godot version unknown
 
-*   [build-godot (⭐57)](https://github.com/aaronfranke/Linux-tools/blob/master/all-distros/build-godot) - (and [build-godot-mono (⭐57)](https://github.com/aaronfranke/Linux-tools/blob/master/all-distros/build-godot-mono)) Scripts that compile and run Godot, attempting to install dependencies if needed.
+*   [build-godot (⭐60)](https://github.com/aaronfranke/Linux-tools/blob/master/all-distros/build-godot) - (and [build-godot-mono (⭐60)](https://github.com/aaronfranke/Linux-tools/blob/master/all-distros/build-godot-mono)) Scripts that compile and run Godot, attempting to install dependencies if needed.
 
 ## [7. Awesome Dart](/content/yissachar/awesome-dart/README.md)
 
@@ -68,7 +68,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-pdf-embed (⭐665)](https://github.com/hrynko/vue-pdf-embed) - PDF embed component for Vue 2 and Vue 3
+*   [vue-pdf-embed (⭐771)](https://github.com/hrynko/vue-pdf-embed) - PDF embed component for Vue 2 and Vue 3
 
 ## [10. Awesome Material](/content/sachin1092/awesome-material/README.md)
 
@@ -80,19 +80,19 @@
 
 ### Miscellaneous
 
-*   [Urban & Regional Planning (⭐251)](https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme) - Concerning the built environment and communities.
+*   [Urban & Regional Planning (⭐271)](https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme) - Concerning the built environment and communities.
 
 ## [12. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/README.md)
 
 ### Assembly / Tools
 
-*   **[SPAdes (⭐503)](https://github.com/ablab/spades)** - SPAdes (St. Petersburg genome assembler) is an assembly toolkit containing various assembly pipelines and the de-facto standard for prokaryotic genome assemblies.
-*   **[SKESA (⭐84)](https://github.com/ncbi/SKESA)** - SKESA is a de-novo sequence read assembler for microbial genomes. It uses conservative heuristics and is designed to create breaks at repeat regions in the genome. This leads to excellent sequence quality without significantly compromising contiguity.
+*   **[SPAdes (⭐771)](https://github.com/ablab/spades)** - SPAdes (St. Petersburg genome assembler) is an assembly toolkit containing various assembly pipelines and the de-facto standard for prokaryotic genome assemblies.
+*   **[SKESA (⭐112)](https://github.com/ncbi/SKESA)** - SKESA is a de-novo sequence read assembler for microbial genomes. It uses conservative heuristics and is designed to create breaks at repeat regions in the genome. This leads to excellent sequence quality without significantly compromising contiguity.
 
 ### Annotation / Tools
 
-*   **[Prokka (⭐620)](https://github.com/tseemann/prokka)** - Prokka: rapid prokaryotic genome annotation. Prokka is one of the most cited annotation command line tools for microbial genome annotations.
-*   **[Bakta (⭐249)](https://github.com/oschwengers/bakta)** - Bakta is a tool for the rapid & standardized annotation of bacterial genomes & plasmids. It provides dbxref-rich and sORF-including annotations in machine-readable JSON & bioinformatics standard file formats for automatic downstream analysis.
+*   **[Prokka (⭐853)](https://github.com/tseemann/prokka)** - Prokka: rapid prokaryotic genome annotation. Prokka is one of the most cited annotation command line tools for microbial genome annotations.
+*   **[Bakta (⭐460)](https://github.com/oschwengers/bakta)** - Bakta is a tool for the rapid & standardized annotation of bacterial genomes & plasmids. It provides dbxref-rich and sORF-including annotations in machine-readable JSON & bioinformatics standard file formats for automatic downstream analysis.
 
 ## [13. Awesome PICO 8](/content/pico-8/awesome-PICO-8/README.md)
 
@@ -104,7 +104,7 @@
 
 ### DevOps / Apache License
 
-*   [septum (⭐372)](https://github.com/pyjarrett/septum) - An interactive context-based text search tool for searching large codebases.
+*   [septum (⭐381)](https://github.com/pyjarrett/septum) - An interactive context-based text search tool for searching large codebases.
 
 ## [15. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 

@@ -10,7 +10,7 @@
 
 ### Authentication
 
-*   [aws\_auth (⭐65)](https://github.com/bryanjos/aws_auth) - AWS Signature Version 4 Signing Library for Elixir.
+*   [aws\_auth (⭐66)](https://github.com/bryanjos/aws_auth) - AWS Signature Version 4 Signing Library for Elixir.
 
 ### Email
 

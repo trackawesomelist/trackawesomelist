@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 15, 2020
 
-6 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -12,19 +12,13 @@
 
 *   [Repo with Samples :fire::fire: (⭐218)](https://github.com/awslabs/aws-java-sample)
 
-## [2. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Projects Using Vue.js / Open Source
-
-*   [super.ba (⭐3)](https://github.com/aarsla/super.ba) - RSS News aggregator built with Vue.js, Ant Design of Vue (antdv) and NodeJS.
-
-## [3. Awesome Ada](/content/ohenley/awesome-ada/README.md)
+## [2. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
 ### Tutorials
 
 *   [ada-crash-course](http://www.pchapin.org/Ada/AdaCrash.pdf) - Ada 2012 crash course under 50 pages from Vermont Technical College.
 
-## [4. Awesome Material Ui](/content/nadunindunil/awesome-material-ui/README.md)
+## [3. Awesome Material Ui](/content/nadunindunil/awesome-material-ui/README.md)
 
 ### Articles
 
@@ -61,7 +55,7 @@
 *   [Dx-react-scheduler-Material-UI](https://devexpress.github.io/devextreme-reactive/react/scheduler/) - A scheduler/calendar component for Material-UI.
 *   [Dx-react-chart-Material-UI](https://devexpress.github.io/devextreme-reactive/react/chart/) - Charts for Material-UI that visualizes data using a variety of series types, including bar, line, area, scatter, pie, and more.
 
-## [5. Awesome Cmake](/content/onqtam/awesome-cmake/README.md)
+## [4. Awesome Cmake](/content/onqtam/awesome-cmake/README.md)
 
 ### Resources
 
@@ -69,7 +63,7 @@
 *   [Wiki](https://gitlab.kitware.com/cmake/community/-/wikis/home)
 *   [Article](https://web.archive.org/web/20190116071957/http://voices.canonical.com/jussi.pakkanen/2013/03/26/a-list-of-common-cmake-antipatterns/) - A list of common CMake antipatterns (from 2013 but still relevant).
 
-## [6. Js Must Watch](/content/bolshchikov/js-must-watch/README.md)
+## [5. Js Must Watch](/content/bolshchikov/js-must-watch/README.md)
 
 ### 2014
 

@@ -17,7 +17,7 @@
 
 ### Files and Directories / Deleting, Copying, and Renaming
 
-*   [del-cli (⭐304)](https://github.com/sindresorhus/del-cli) - Delete files and folders.
+*   [del-cli (⭐315)](https://github.com/sindresorhus/del-cli) - Delete files and folders.
 
 ## [3. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
 

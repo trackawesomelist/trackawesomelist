@@ -126,15 +126,15 @@
 
 ### Third party Guides
 
-*   [swift-tips (⭐989)](https://github.com/vincent-pradeilles/swift-tips) - A series of useful tips by Vincent Pradeilles.
+*   [swift-tips (⭐996)](https://github.com/vincent-pradeilles/swift-tips) - A series of useful tips by Vincent Pradeilles.
 
 ### Other Awesome Lists
 
-*   [Awesome iOS Interview (⭐1.1k)](https://github.com/dashvlas/awesome-ios-interview) - List of the questions that helps you to prepare for the interview.
+*   [Awesome iOS Interview (⭐1.2k)](https://github.com/dashvlas/awesome-ios-interview) - List of the questions that helps you to prepare for the interview.
 
 ### API
 
-*   [RandomUserSwift (⭐95)](https://github.com/dingwilson/RandomUserSwift) - Framework to Generate Random Users - An Unofficial SDK for randomuser.me.
+*   [RandomUserSwift (⭐96)](https://github.com/dingwilson/RandomUserSwift) - Framework to Generate Random Users - An Unofficial SDK for randomuser.me.
 
 ### Augmented Reality
 
@@ -142,23 +142,23 @@
 
 ### Colors
 
-*   [UIGradient (⭐264)](https://github.com/dqhieu/UIGradient) - A simple and powerful library for using gradient layer, image, color.
+*   [UIGradient (⭐267)](https://github.com/dqhieu/UIGradient) - A simple and powerful library for using gradient layer, image, color.
 
 ### Command Line
 
-*   [LineNoise (⭐139)](https://github.com/andybest/linenoise-swift) :penguin: - A zero-dependency replacement for readline.
+*   [LineNoise (⭐143)](https://github.com/andybest/linenoise-swift) :penguin: - A zero-dependency replacement for readline.
 
 ### JSON
 
-*   [EVReflection (⭐966)](https://github.com/evermeer/EVReflection) - Reflection based JSON encoding and decoding. Including support for NSDictionary, NSCoding, Printable, Hashable and Equatable.
+*   [EVReflection (⭐965)](https://github.com/evermeer/EVReflection) - Reflection based JSON encoding and decoding. Including support for NSDictionary, NSCoding, Printable, Hashable and Equatable.
 
 ### Key Value Store
 
-*   [Default (⭐472)](https://github.com/Nirma/Default) - Modern interface to UserDefaults + Codable support.
+*   [Default (⭐470)](https://github.com/Nirma/Default) - Modern interface to UserDefaults + Codable support.
 
 ### Dependency Injection
 
-*   [Weaver (⭐735)](https://github.com/scribd/Weaver) - A declarative, easy-to-use and safe Dependency Injection framework.
+*   [Weaver (⭐748)](https://github.com/scribd/Weaver) - A declarative, easy-to-use and safe Dependency Injection framework.
 
 ### Images / Barcode
 
@@ -170,7 +170,7 @@
 
 ### Network / Barcode
 
-*   [MultiPeer (⭐222)](https://github.com/dingwilson/MultiPeer) - A wrapper for the MultipeerConnectivity framework for automatic offline data transmission between devices.
+*   [MultiPeer (⭐226)](https://github.com/dingwilson/MultiPeer) - A wrapper for the MultipeerConnectivity framework for automatic offline data transmission between devices.
 
 ### Cards / Barcode
 
@@ -182,19 +182,19 @@
 
 ### Tab / Barcode
 
-*   [DTPagerController (⭐290)](https://github.com/tungvoduc/DTPagerController) - Container view controller to display a set of ViewControllers in a horizontal scroll view.
+*   [DTPagerController (⭐289)](https://github.com/tungvoduc/DTPagerController) - Container view controller to display a set of ViewControllers in a horizontal scroll view.
 
 ### UITableView / Barcode
 
-*   [ExpandableCell (⭐765)](https://github.com/younatics/ExpandableCell) - Fully refactored YNExapnadableCell with more concise, bug free. Easiest usage of expandable & collapsible cell for iOS. You can customize expandable UITableViewCell whatever you like. ExpandableCell is made because insertRows and deleteRows is hard to use. Just inheirt ExpandableDelegate.
+*   [ExpandableCell (⭐773)](https://github.com/younatics/ExpandableCell) - Fully refactored YNExapnadableCell with more concise, bug free. Easiest usage of expandable & collapsible cell for iOS. You can customize expandable UITableViewCell whatever you like. ExpandableCell is made because insertRows and deleteRows is hard to use. Just inheirt ExpandableDelegate.
 
 ### Utility / Barcode
 
-*   [Vaccine (⭐304)](https://github.com/zenangst/Vaccine) - Make your apps immune to recompile-decease.
+*   [Vaccine (⭐307)](https://github.com/zenangst/Vaccine) - Make your apps immune to recompile-decease.
 
 ### Validation / Barcode
 
-*   [RxValidator (⭐154)](https://github.com/vbmania/RxValidator) - Simple, Extensible, Flexible Validation Checker.
+*   [RxValidator (⭐155)](https://github.com/vbmania/RxValidator) - Simple, Extensible, Flexible Validation Checker.
 
 ---
 

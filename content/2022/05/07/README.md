@@ -14,7 +14,7 @@
 
 ### Avatars
 
-*   [Exokit Avatars (⭐70)](https://github.com/exokitxr/avatars) - A web-based avatar system that can load humanoid avatars in multiple different model formats and features arm+leg IK, facial animation via visemes, and more. The original repo is no longer maintained, but there is a more up-to-date fork available [here (⭐6)](https://github.com/msub2/avatars).
+*   [Exokit Avatars (⭐73)](https://github.com/exokitxr/avatars) - A web-based avatar system that can load humanoid avatars in multiple different model formats and features arm+leg IK, facial animation via visemes, and more. The original repo is no longer maintained, but there is a more up-to-date fork available [here (⭐8)](https://github.com/msub2/avatars).
 
 ### Companies and Cooperatives / Reddit
 
@@ -30,12 +30,12 @@
 
 ## [2. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
-### Expert Search / Telegram
+### Expert Search / Steam
 
 *   [MuckRack](http://muckrack.com) - Extensive database of U.S. government public records obtained through federal and state public records requests. Automated tool that will make public records requests and follow up until records are obtained on your behalf.
 *   [Patent Attorneys/Agent Search](https://oedci.uspto.gov/OEDCI/) - Official listing of U.S. attorneys qualified to represent individuals in U.S. patent office proceedings.
 
-### Company Research / Telegram
+### Company Research / Steam
 
 *   [EDGAR U.S. Securities and Exchange Commission Filings](http://www.edgar-online.com) - Periodic reports and extensive corporate disclosures from all businesses publicly traded in the United States.
 
@@ -49,35 +49,35 @@
 
 ### Libraries/Frameworks / Testing
 
-*   [codecentric/hikaku (⭐198)](https://github.com/codecentric/hikaku) - A library that tests if the implementation of a REST-API meets its specification.
+*   [codecentric/hikaku (⭐197)](https://github.com/codecentric/hikaku) - A library that tests if the implementation of a REST-API meets its specification.
 
 ## [5. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
 ### Command-Line Tools / Discovery
 
-*   [alejandra (⭐769)](https://github.com/kamadorueda/alejandra) - An opinionated Nix code formatter optimized for speed and consistency.
+*   [alejandra (⭐960)](https://github.com/kamadorueda/alejandra) - An opinionated Nix code formatter optimized for speed and consistency.
 
 ## [6. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Email
 
-*   [go-mail (⭐552)](https://github.com/wneessen/go-mail) - A simple Go library for sending mails in Go.
+*   [go-mail (⭐820)](https://github.com/wneessen/go-mail) - A simple Go library for sending mails in Go.
 
 ## [7. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Games
 
-*   [Trains.NET (⭐238)](https://github.com/davidwengier/Trains.NET) - ![stars](https://img.shields.io/github/stars/davidwengier/Trains.NET?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/davidwengier/Trains.NET?style=flat-square\&cacheSeconds=86400) 2D game built with .NET and C# on a [Twitch stream](https://www.twitch.tv/davidwengier). Trains is available to play online at [wengier.com/Trains.NET](https://wengier.com/Trains.NET).
+*   [Trains.NET (⭐242)](https://github.com/davidwengier/Trains.NET) - ![stars](https://img.shields.io/github/stars/davidwengier/Trains.NET?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/davidwengier/Trains.NET?style=flat-square\&cacheSeconds=86400) 2D game built with .NET and C# on a [Twitch stream](https://www.twitch.tv/davidwengier). Trains is available to play online at [wengier.com/Trains.NET](https://wengier.com/Trains.NET).
 
 ## [8. Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md)
 
 ### Theming
 
-*   [storybook-addon-customize-antd-theme (⭐30)](https://github.com/letshare/storybook-addon-customize-antd-theme) - a Storybook addon help you visually customize an ant design theme.
+*   [storybook-addon-customize-antd-theme (⭐31)](https://github.com/letshare/storybook-addon-customize-antd-theme) - a Storybook addon help you visually customize an ant design theme.
 
 ### Components / Themes
 
-*   [antd-amiya (⭐125)](https://github.com/viewweiwu/amiya) - Page level components and with table and form.
+*   [antd-amiya (⭐136)](https://github.com/viewweiwu/amiya) - Page level components and with table and form.
 
 ---
 

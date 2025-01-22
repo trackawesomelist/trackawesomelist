@@ -34,16 +34,16 @@
 
 ### React Tutorials
 
-*   [Cheatsheets for experienced React developers getting started with TypeScript (⭐44k)](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
+*   [Cheatsheets for experienced React developers getting started with TypeScript (⭐46k)](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
 
 ### React Awesome Components
 
-*   [react-archer (⭐1.1k)](https://github.com/pierpo/react-archer) - Draw arrows between React elements
+*   [react-archer (⭐1.2k)](https://github.com/pierpo/react-archer) - Draw arrows between React elements
 
 ### React Real Apps
 
-*   [kibana (⭐19k)](https://github.com/elastic/kibana) - Your window into the Elastic Stack
-*   [overreacted (⭐7k)](https://github.com/gaearon/overreacted.io) - Personal blog by Dan Abramov
+*   [kibana (⭐20k)](https://github.com/elastic/kibana) - Your window into the Elastic Stack
+*   [overreacted (⭐7.1k)](https://github.com/gaearon/overreacted.io) - Personal blog by Dan Abramov
 
 ---
 

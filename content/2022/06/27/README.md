@@ -22,23 +22,23 @@
 
 ### Parser / Package managers
 
-*   [iddev5/inon (⭐10)](https://github.com/iddev5/inon) - Data configuration file format.
+*   [iddev5/inon (⭐11)](https://github.com/iddev5/inon) - Data configuration file format.
 
 ## [4. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Framework-agnostic Plugins / Testing
 
-*   [vitest-mock-extended (⭐152)](https://github.com/eratio08/vitest-mock-extended) - Type safe mocking extensions for Vitest.
+*   [vitest-mock-extended (⭐177)](https://github.com/eratio08/vitest-mock-extended) - Type safe mocking extensions for Vitest.
 
 ## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Color / Diagnostics
 
-*   [ziontee113/color-picker.nvim (⭐275)](https://github.com/ziontee113/color-picker.nvim) - Plugin that lets users choose & modify RGB/HSL/HEX colors inside Neovim.
+*   [ziontee113/color-picker.nvim (⭐283)](https://github.com/ziontee113/color-picker.nvim) - Plugin that lets users choose & modify RGB/HSL/HEX colors inside Neovim.
 
 ### Formatting / Diagnostics
 
-*   [mcauley-penney/tidy.nvim (⭐107)](https://github.com/mcauley-penney/tidy.nvim) - Clear trailing whitespace and empty lines at end of file on every save.
+*   [mcauley-penney/tidy.nvim (⭐114)](https://github.com/mcauley-penney/tidy.nvim) - Clear trailing whitespace and empty lines at end of file on every save.
 
 ## [6. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 
@@ -664,9 +664,6 @@
 - Website: <https://uigradients.com>
 
 
-- Website: <https://www.colorion.co>
-
-
 - Website: <https://www.gradientos.app>
 
 
@@ -802,9 +799,6 @@
 - Website: [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en)
 
 
-- Website: [Visbug](https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc/related)
-
-
 - Website: [Colorzilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=en-US)
 
 
@@ -845,9 +839,6 @@
 
 
 - Website: <https://freehtml5.co>
-
-
-- Website: <https://www.zerotheme.com>
 
 
 - Website: <https://bootstrapmade.com>
@@ -1104,7 +1095,7 @@
 
 ### GTFS Analysis Tools / Ruby
 
-*   [tidytransit (⭐142)](https://github.com/r-transit/tidytransit) - An R package to read GTFS data into tibbles and simple features dataframes to map transit stops and routes, calculate travel times and transit frequencies, and validate transit feeds.
+*   [tidytransit (⭐151)](https://github.com/r-transit/tidytransit) - An R package to read GTFS data into tibbles and simple features dataframes to map transit stops and routes, calculate travel times and transit frequencies, and validate transit feeds.
 
 ## [11. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/README.md)
 
@@ -1146,7 +1137,7 @@
 
 ### Plugins for Minecraft
 
-*   [No-Telemetry (⭐223)](https://github.com/kb-1000/no-telemetry) - Mod that disables the usage data collection, aka telemetry, introduced in Minecraft 1.18 (snapshot 21w38a).
+*   [No-Telemetry (⭐232)](https://github.com/kb-1000/no-telemetry) - Mod that disables the usage data collection, aka telemetry, introduced in Minecraft 1.18 (snapshot 21w38a).
 
 ## [15. Awesome Cdk](/content/kalaiser/awesome-cdk/README.md)
 

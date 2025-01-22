@@ -10,7 +10,7 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [zgenom-ext-eval (⭐4)](https://github.com/jandamm/zgenom-ext-eval/) - Zgenom extension for creating plugins inline.
+*   [zgenom-ext-eval (⭐4)](https://github.com/jandamm/zgenom-ext-eval/) - [zgenom (⭐374)](https://github.com/jandamm/zgenom) extension for creating plugins inline.
 
 ## [2. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
@@ -20,7 +20,7 @@
 
 ### Software / Document Management
 
-*   [Stirling-PDF (⭐39k)](https://github.com/Frooodle/Stirling-PDF) - Local hosted web application that allows you to perform various operations on PDF files, such as merging, splitting, file conversions and OCR. `Apache-2.0` `Docker/Java`
+*   [Stirling-PDF (⭐49k)](https://github.com/Frooodle/Stirling-PDF) - Local hosted web application that allows you to perform various operations on PDF files, such as merging, splitting, file conversions and OCR. `Apache-2.0` `Docker/Java`
 
 ## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -32,7 +32,7 @@
 
 ### Productivity / Note Taking and Lists
 
-*   [obs (⭐294)](https://github.com/Yakitrak/obsidian-cli) - Interact with your Obsidian vault.
+*   [obs (⭐405)](https://github.com/Yakitrak/obsidian-cli) - Interact with your Obsidian vault.
 
 ## [5. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
 

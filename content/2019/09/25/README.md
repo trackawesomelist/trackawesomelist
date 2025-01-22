@@ -234,7 +234,7 @@
 
 ### CLI Builder
 
-*   [Optimist (⭐249)](https://github.com/ManageIQ/optimist) - A commandline option parser for Ruby that just gets out of your way.
+*   [Optimist (⭐255)](https://github.com/ManageIQ/optimist) - A commandline option parser for Ruby that just gets out of your way.
 
 ## [5. Awesome Dash](/content/ucg8j/awesome-dash/README.md)
 
@@ -254,7 +254,7 @@
 
 ### Gaming
 
-*   [Haxe Game Development (⭐383)](https://github.com/Dvergar/awesome-haxe-gamedev#readme) - A high-level strongly typed programming language used to produce cross-platform native code.
+*   [Haxe Game Development (⭐385)](https://github.com/Dvergar/awesome-haxe-gamedev#readme) - A high-level strongly typed programming language used to produce cross-platform native code.
 
 ## [8. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
@@ -294,8 +294,8 @@
 
 ### Machine Learning Ops / Terraform
 
-*   [Query Experiment Tracking Results From Weights & Biases (⭐57)](https://github.com/machine-learning-apps/wandb-action)
-*   [Run Parameterized Jupyter Notebooks (⭐49)](https://github.com/yaananth/run-notebook)
+*   [Query Experiment Tracking Results From Weights & Biases (⭐60)](https://github.com/machine-learning-apps/wandb-action)
+*   [Run Parameterized Jupyter Notebooks (⭐69)](https://github.com/yaananth/run-notebook)
 
 ---
 

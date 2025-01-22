@@ -16,16 +16,16 @@
 
 ### Packages / Mad science
 
-*   [BitcoinJS (⭐5.6k)](https://github.com/bitcoinjs/bitcoinjs-lib) - Clean, readable, proven Bitcoin library.
-*   [Bitcore (⭐4.8k)](https://github.com/bitpay/bitcore) - Pure and powerful Bitcoin library.
+*   [BitcoinJS (⭐5.7k)](https://github.com/bitcoinjs/bitcoinjs-lib) - Clean, readable, proven Bitcoin library.
+*   [Bitcore (⭐4.9k)](https://github.com/bitpay/bitcore) - Pure and powerful Bitcoin library.
 *   [NodeOS (⭐6.9k)](https://github.com/NodeOS/NodeOS) - The first operating system powered by npm.
-*   [Cytoscape.js (⭐9.9k)](https://github.com/cytoscape/cytoscape.js) - Graph theory (a.k.a. network) modeling and analysis.
-*   [isomorphic-git (⭐7.4k)](https://github.com/isomorphic-git/isomorphic-git) - Pure JavaScript implementation of Git.
+*   [Cytoscape.js (⭐10k)](https://github.com/cytoscape/cytoscape.js) - Graph theory (a.k.a. network) modeling and analysis.
+*   [isomorphic-git (⭐7.5k)](https://github.com/isomorphic-git/isomorphic-git) - Pure JavaScript implementation of Git.
 
 ### Packages / Command-line apps
 
-*   [gh-home (⭐192)](https://github.com/sindresorhus/gh-home) - Open the GitHub page of the repo in the current directory.
-*   [npm-home (⭐196)](https://github.com/sindresorhus/npm-home) - Open the npm page of a package.
+*   [gh-home (⭐191)](https://github.com/sindresorhus/gh-home) - Open the GitHub page of the repo in the current directory.
+*   [npm-home (⭐198)](https://github.com/sindresorhus/npm-home) - Open the npm page of a package.
 *   [trash (⭐2.6k)](https://github.com/sindresorhus/trash) - Safer alternative to `rm`.
 
 ### Packages / Functional programming
@@ -37,15 +37,15 @@
 
 *   [yargs (⭐11k)](https://github.com/yargs/yargs) - Command-line parser that automatically generates an elegant user-interface.
 *   [get-stdin (⭐337)](https://github.com/sindresorhus/get-stdin) - Easier stdin.
-*   [Ink (⭐26k)](https://github.com/vadimdemedes/ink) - React for interactive command-line apps.
-*   [terminal-link (⭐613)](https://github.com/sindresorhus/terminal-link) - Create clickable links in the terminal.
-*   [terminal-image (⭐968)](https://github.com/sindresorhus/terminal-image) - Display images in the terminal.
+*   [Ink (⭐27k)](https://github.com/vadimdemedes/ink) - React for interactive command-line apps.
+*   [terminal-link (⭐623)](https://github.com/sindresorhus/terminal-link) - Create clickable links in the terminal.
+*   [terminal-image (⭐982)](https://github.com/sindresorhus/terminal-image) - Display images in the terminal.
 *   [Inquirer.js (⭐20k)](https://github.com/SBoudrias/Inquirer.js) - Interactive command-line prompt.
 *   [sudo-block (⭐98)](https://github.com/sindresorhus/sudo-block) - Block users from running your app with root permissions.
 
 ### Packages / Build tools
 
-*   [parcel (⭐43k)](https://github.com/parcel-bundler/parcel) - Blazing fast, zero config web app bundler.
+*   [parcel (⭐44k)](https://github.com/parcel-bundler/parcel) - Blazing fast, zero config web app bundler.
 
 ### Packages / Web frameworks
 
@@ -60,11 +60,11 @@
 
 *   Promises
     *   [pify (⭐1.5k)](https://github.com/sindresorhus/pify) - Promisify a callback-style function.
-    *   [delay (⭐606)](https://github.com/sindresorhus/delay) - Delay a promise a specified amount of time.
-    *   [promise-memoize (⭐59)](https://github.com/nodeca/promise-memoize) - Memoize promise-returning functions, with expire and prefetch.
+    *   [delay (⭐609)](https://github.com/sindresorhus/delay) - Delay a promise a specified amount of time.
+    *   [promise-memoize (⭐60)](https://github.com/nodeca/promise-memoize) - Memoize promise-returning functions, with expire and prefetch.
     *   [valvelet (⭐38)](https://github.com/lpinca/valvelet) - Limit the execution rate of a promise-returning function.
-    *   [p-map (⭐1.3k)](https://github.com/sindresorhus/p-map) - Map over promises concurrently.
-    *   [More… (⭐4.7k)](https://github.com/sindresorhus/promise-fun)
+    *   [p-map (⭐1.4k)](https://github.com/sindresorhus/p-map) - Map over promises concurrently.
+    *   [More… (⭐4.8k)](https://github.com/sindresorhus/promise-fun)
 *   Streams
     *   [Highland.js (⭐3.4k)](https://github.com/caolan/highland) - Manages synchronous and asynchronous code easily, using nothing more than standard JavaScript and Node-like Streams.
 
@@ -72,19 +72,19 @@
 
 *   [Socket.io (⭐61k)](https://github.com/socketio/socket.io) - Enables real-time bidirectional event-based communication.
 *   [Faye (⭐4.4k)](https://github.com/faye/faye) - Real-time client-server message bus, based on Bayeux protocol.
-*   [deepstream.io (⭐294)](https://github.com/deepstreamIO/deepstream.io-client-js) - Scalable real-time microservice framework.
+*   [deepstream.io (⭐295)](https://github.com/deepstreamIO/deepstream.io-client-js) - Scalable real-time microservice framework.
 
 ### Packages / Date
 
-*   [Luxon (⭐15k)](https://github.com/moment/luxon) - Library for working with dates and times.
+*   [Luxon (⭐16k)](https://github.com/moment/luxon) - Library for working with dates and times.
 
 ### Packages / Parsing
 
-*   [Jison (⭐4.3k)](https://github.com/zaach/jison) - Friendly JavaScript parser generator. It shares genes with Bison, Yacc and family.
+*   [Jison (⭐4.4k)](https://github.com/zaach/jison) - Friendly JavaScript parser generator. It shares genes with Bison, Yacc and family.
 
 ### Packages / Testing
 
-*   [WebdriverIO (⭐8.9k)](https://github.com/webdriverio/webdriverio) - Automated testing based on the WebDriver protocol.
+*   [WebdriverIO (⭐9.1k)](https://github.com/webdriverio/webdriverio) - Automated testing based on the WebDriver protocol.
 
 ### Packages / Benchmarking
 
@@ -100,8 +100,8 @@
 
 ### Packages / Content management systems
 
-*   [ApostropheCMS (⭐4.3k)](https://github.com/apostrophecms/apostrophe) - Content management system with an emphasis on intuitive front end content editing and administration built on Express and MongoDB.
-*   [Strapi (⭐62k)](https://github.com/strapi/strapi) - Content Management Framework (headless-CMS) to build powerful APIs.
+*   [ApostropheCMS (⭐4.4k)](https://github.com/apostrophecms/apostrophe) - Content management system with an emphasis on intuitive front end content editing and administration built on Express and MongoDB.
+*   [Strapi (⭐64k)](https://github.com/strapi/strapi) - Content Management Framework (headless-CMS) to build powerful APIs.
 
 ### Packages / Forum
 
@@ -109,12 +109,12 @@
 
 ### Packages / Blogging
 
-*   [Ghost (⭐46k)](https://github.com/TryGhost/Ghost) - Simple, powerful publishing platform.
-*   [Hexo (⭐39k)](https://github.com/hexojs/hexo) - Fast, simple and powerful blogging framework.
+*   [Ghost (⭐48k)](https://github.com/TryGhost/Ghost) - Simple, powerful publishing platform.
+*   [Hexo (⭐40k)](https://github.com/hexojs/hexo) - Fast, simple and powerful blogging framework.
 
 ### Packages / Miscellaneous
 
-*   [semver (⭐5k)](https://github.com/npm/node-semver) - Semantic version parser.
+*   [semver (⭐5.1k)](https://github.com/npm/node-semver) - Semantic version parser.
 *   [@sindresorhus/is (⭐1.7k)](https://github.com/sindresorhus/is) - Type check values.
 
 ### Resources / Courses
@@ -198,7 +198,7 @@
 
 ### Source Generator
 
-*   [Awesome Roslyn (⭐651)](https://github.com/ironcev/awesome-roslyn) - A curated list of awesome Roslyn books, tutorials, open source projects, analyzers, code fixes, and refactorings.
+*   [Awesome Roslyn (⭐680)](https://github.com/ironcev/awesome-roslyn) - A curated list of awesome Roslyn books, tutorials, open source projects, analyzers, code fixes, and refactorings.
 
 ## [5. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/README.md)
 
@@ -238,13 +238,13 @@
 
 ### Examples / Templates
 
-*   [cmake\_templates (⭐114)](https://github.com/acdemiralp/cmake_templates) - Templates for creating C++ libraries and executables (including conan). `[NO LICENSE]`
+*   [cmake\_templates (⭐128)](https://github.com/acdemiralp/cmake_templates) - Templates for creating C++ libraries and executables (including conan). `[NO LICENSE]`
 
 ## [10. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
 ### Math / Other
 
-*   [L-systems (⭐30)](https://github.com/arendsee/lsystems) - A Haskell package for L-systems.
+*   [L-systems (⭐31)](https://github.com/arendsee/lsystems) - A Haskell package for L-systems.
 
 ## [11. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 

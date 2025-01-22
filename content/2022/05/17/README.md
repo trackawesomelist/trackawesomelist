@@ -53,12 +53,12 @@
 
 ### Modules / Machine learning
 
-*   [netsaur (⭐198)](https://github.com/denosaurs/netsaur) - Powerful machine learning, accelerated by WebGPU
+*   [netsaur (⭐228)](https://github.com/denosaurs/netsaur) - Powerful machine learning, accelerated by WebGPU
 *   [synaptic (⭐14)](https://github.com/load1n9/synaptic) - Dependency-less neural network library ported to deno
 
 ### Modules / Math
 
-*   [neo (⭐65)](https://github.com/denosaurs/neo/) - Matrix and other math, accelerated by WebGPU
+*   [neo (⭐67)](https://github.com/denosaurs/neo/) - Matrix and other math, accelerated by WebGPU
 
 ## [8. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
@@ -69,13 +69,9 @@
 
 ## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
-### Components & Libraries / UI Components
-
-*   [vue-connect-wallet (⭐96)](https://github.com/neelansh15/vue-connect-wallet) - A Vue plugin for connecting to web3 wallets with a UI button + MetaMask utils
-
 ### Components & Libraries / UI Utilities
 
-*   [v-route-generate (⭐12)](https://github.com/weiquanju/v-route-generate) - A tool to generate routes for vue-router 4.x.
+*   [v-route-generate (⭐13)](https://github.com/weiquanju/v-route-generate) - A tool to generate routes for vue-router 4.x.
 
 ## [10. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
@@ -93,15 +89,15 @@
 
 ## [11. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
 
-### Form / Checkbox
+### Forms
 
-*   [svelte-formly (⭐253)](https://github.com/arabdevelop/svelte-formly) - A good solution to generate and control a dynamic forms using core and custom rules with customize styles.
+*   [svelte-formly (⭐254)](https://github.com/arabdevelop/svelte-formly) - A good solution to generate and control a dynamic forms using core and custom rules with customize styles. *(pre-v5)*
 
 ## [12. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
 ### Open Source Projects / Other Tools
 
-*   [Bali (⭐251)](https://github.com/bali-framework/bali) - Simplify Cloud Native Microservices development base on FastAPI and gRPC.
+*   [Bali (⭐265)](https://github.com/bali-framework/bali) - Simplify Cloud Native Microservices development base on FastAPI and gRPC.
 
 ## [13. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md)
 

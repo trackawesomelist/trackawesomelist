@@ -54,8 +54,8 @@
 
 ### Free fonts / Fonts
 
-*   [Amstelvar (⭐316)](https://github.com/TypeNetwork/Amstelvar) - A parametric variable font
-*   [Inter (⭐15k)](https://github.com/rsms/inter) - A typeface specially designed for user interfaces
+*   [Amstelvar (⭐344)](https://github.com/TypeNetwork/Amstelvar) - A parametric variable font
+*   [Inter (⭐18k)](https://github.com/rsms/inter) - A typeface specially designed for user interfaces
 
 ## [4. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
@@ -67,7 +67,7 @@
 
 *   :octocat: [RxJS (⭐31k)](https://github.com/ReactiveX/RxJS) - A reactive programming library for JavaScript.
 *   :octocat: [xstream (⭐2.4k)](https://github.com/staltz/xstream) - An extremely intuitive, small, and fast functional reactive stream library for JavaScript.
-*   :octocat: [TypeMoq (⭐427)](https://github.com/florinn/typemoq) - A simple mocking library for TypeScript.
+*   :octocat: [TypeMoq (⭐428)](https://github.com/florinn/typemoq) - A simple mocking library for TypeScript.
 *   :octocat: [InversifyJS (⭐11k)](https://github.com/inversify/InversifyJS/) -  powerful and lightweight inversion of control container for JavaScript & Node.js apps powered by TypeScript.
 
 ## [5. Awesome Preact](/content/preactjs/awesome-preact/README.md)
@@ -80,11 +80,11 @@
 
 ### HTML
 
-*   [floki (⭐2k)](https://github.com/philss/floki) - A simple HTML parser that enables searching using CSS like selectors.
-*   [html\_sanitize\_ex (⭐268)](https://github.com/rrrene/html_sanitize_ex) - HTML sanitizer for Elixir.
-*   [modest\_ex (⭐32)](https://github.com/f34nk/modest_ex) - A library to do pipeable transformations on html strings with CSS selectors, e.g. find(), prepend(), append(), replace() etc.
+*   [floki (⭐2.1k)](https://github.com/philss/floki) - A simple HTML parser that enables searching using CSS like selectors.
+*   [html\_sanitize\_ex (⭐274)](https://github.com/rrrene/html_sanitize_ex) - HTML sanitizer for Elixir.
+*   [modest\_ex (⭐31)](https://github.com/f34nk/modest_ex) - A library to do pipeable transformations on html strings with CSS selectors, e.g. find(), prepend(), append(), replace() etc.
 *   [myhtmlex (⭐14)](https://github.com/Overbryd/myhtmlex) - Elixir/Erlang bindings for lexborisov's myhtml.
-*   [readability (⭐237)](https://github.com/keepcosmos/readability) - Readability is for extracting and curating articles.
+*   [readability (⭐264)](https://github.com/keepcosmos/readability) - Readability is for extracting and curating articles.
 
 ### XML
 
@@ -226,7 +226,7 @@
 
 ### JavaScript / General-Purpose Machine Learning
 
-*   [xgboost-node (⭐38)](https://github.com/nuanio/xgboost-node) - Run XGBoost model and make predictions in Node.js.
+*   [xgboost-node (⭐40)](https://github.com/nuanio/xgboost-node) - Run XGBoost model and make predictions in Node.js.
 
 ## [15. Awesome C](/content/inputsh/awesome-c/README.md)
 

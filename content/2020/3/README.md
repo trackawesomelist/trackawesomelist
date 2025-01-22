@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 20 - Jan 26, 2020
 
-74 awesome lists updated this week.
+71 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,18 +16,18 @@
 
 ### GUI
 
-*   [RmlUi (⭐2.6k)](https://github.com/mikke89/RmlUi) - The HTML/CSS User Interface library evolved. Fork of libRocket. \[MIT]
+*   [RmlUi (⭐3k)](https://github.com/mikke89/RmlUi) - The HTML/CSS User Interface library evolved. Fork of libRocket. \[MIT]
 
 ### Physics
 
-*   [Simbody (⭐2.3k)](https://github.com/simbody/simbody) - High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human skeleton. \[Apache2]
-*   [SOFA (⭐900)](https://github.com/sofa-framework/sofa) - SOFA is an open-source framework targeting at real-time simulation, with an emphasis on medical simulation. \[LGPL] [website](https://www.sofa-framework.org)
+*   [Simbody (⭐2.4k)](https://github.com/simbody/simbody) - High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human skeleton. \[Apache2]
+*   [SOFA (⭐957)](https://github.com/sofa-framework/sofa) - SOFA is an open-source framework targeting at real-time simulation, with an emphasis on medical simulation. \[LGPL] [website](https://www.sofa-framework.org)
 
 ## [3. Awesome Libgdx](/content/rafaskb/awesome-libgdx/week/README.md)
 
 ### Resources / User Interface
 
-*   [PieMenu (⭐74)](https://github.com/payne911/PieMenu) - Radial menus for Scene2D that are highly flexible and easy to customize.
+*   [PieMenu (⭐80)](https://github.com/payne911/PieMenu) - Radial menus for Scene2D that are highly flexible and easy to customize.
 
 ## [4. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
 
@@ -45,7 +45,7 @@
 
 ### Apps / SEO and SMO
 
-*   [wagtail-opengraph-image-generator (⭐39)](https://github.com/candylabshq/wagtail-opengraph-image-generator) - Assists you in automatically creating Open Graph images for your Wagtail pages.
+*   [wagtail-opengraph-image-generator (⭐40)](https://github.com/candylabshq/wagtail-opengraph-image-generator) - Assists you in automatically creating Open Graph images for your Wagtail pages.
 
 ## [7. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
@@ -73,7 +73,7 @@
 
 ### Music Programming
 
-*   [Midica (⭐106)](https://github.com/truj/midica) - MIDI programming language with decompiler and player, supports karaoke.
+*   [Midica (⭐116)](https://github.com/truj/midica) - MIDI programming language with decompiler and player, supports karaoke.
 
 ## [11. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
 
@@ -118,7 +118,7 @@
 
 ### Calculator / Market Research
 
-*   [Cloud Cost Calculator (⭐88)](https://github.com/scalyr/cloud-costs) - Web-based tool for finding the cheapest cloud servers for a given set of requirements.
+*   [Cloud Cost Calculator (⭐87)](https://github.com/scalyr/cloud-costs) - Web-based tool for finding the cheapest cloud servers for a given set of requirements.
 *   [EC2Instances.info](https://ec2instances.info) - Easy Amazon EC2 Instance Comparison.
 
 ### Marketplace / Cloud Resources
@@ -133,7 +133,7 @@
 
 ### Taxes / Currencies
 
-*   [{Digital,Cloud,Electronic,Online} Services VAT Rate Database (⭐89)](https://github.com/kdeldycke/vat-rates) - Centralize applicable VAT rates on foreign online services, for each country of residence (including territorial exceptions).
+*   [{Digital,Cloud,Electronic,Online} Services VAT Rate Database (⭐93)](https://github.com/kdeldycke/vat-rates) - Centralize applicable VAT rates on foreign online services, for each country of residence (including territorial exceptions).
 
 ### Invoice / European VAT
 
@@ -147,7 +147,7 @@
 ### Invoice / Generators
 
 *   [Manta (⭐5.3k)](https://github.com/hql287/Manta) - Flexible invoicing desktop app with beautiful & customizable templates.
-*   [InvoicePlane (⭐2.4k)](https://github.com/InvoicePlane/InvoicePlane) - A self-hosted open-source application for managing your invoices, clients and payments.
+*   [InvoicePlane (⭐2.6k)](https://github.com/InvoicePlane/InvoicePlane) - A self-hosted open-source application for managing your invoices, clients and payments.
 
 ### Payments / Electronic invoices
 
@@ -163,7 +163,7 @@
 
 ### Fraud / Online Payments
 
-*   [Awesome List of IAM: Fraud links (⭐1.6k)](https://github.com/kdeldycke/awesome-iam#fraud) - Section dedicated to fraud management related to user accounts, from our sister repository.
+*   [Awesome List of IAM: Fraud links (⭐1.8k)](https://github.com/kdeldycke/awesome-iam#fraud) - Section dedicated to fraud management related to user accounts, from our sister repository.
 
 ### Fraud / Cards
 
@@ -304,8 +304,8 @@
 
 ### Developer Tools / Developer Utilities
 
-*   [Kaleidoscope](https://www.kaleidoscopeapp.com/) - Powerful compare tool for text, images and folders. Works perfectly with git, svn or other version control tools.
-*   [Loca Studio](https://www.cunningo.com/locastudio/index.html) - Analyze, review, and edit app translations. Supports Xcode Localization Catalog (xcloc) and XLIFF 1.2 file formats. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/id1465684707)
+*   [Kaleidoscope](https://www.kaleidoscopeapp.com/) - Compare text, images, and folders.
+*   [Loca Studio](https://www.cunningo.com/locastudio/index.html) - Analyze, review, and edit app translations. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/id1465684707)
 
 ### Developer Tools / Databases
 
@@ -314,10 +314,6 @@
 ### Design and Product / Prototyping and Mind-Mapping Tools
 
 *   [MindNode](https://mindnode.com/) - Mind-mapping software with an emphasis on simplicity and ease-of-use.
-
-### Design and Product / Screencapturing Software
-
-*   [CleanShot](https://getcleanshot.com/) - Discover a superior way to capture your Mac's screen.
 
 ### Audio and Video Tools / File Sharing
 
@@ -339,7 +335,7 @@
 
 ### Collaboration Tools / Malware Analysis Books
 
-*   [Lair (⭐378)](https://github.com/lair-framework/lair/wiki) - Reactive attack collaboration framework and web application built with meteor.
+*   [Lair (⭐379)](https://github.com/lair-framework/lair/wiki) - Reactive attack collaboration framework and web application built with meteor.
 
 ## [28. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
 
@@ -406,11 +402,11 @@
 ### Machine Learning
 
 *   **Libraries**
-    *   [Ocaml-sklearn (⭐33)](https://github.com/lehy/ocaml-sklearn) scikit-learn for OCaml.
+    *   [Ocaml-sklearn (⭐34)](https://github.com/lehy/ocaml-sklearn) scikit-learn for OCaml.
     *   [Owl](https://ocaml.xyz/) - Scientific library with neural networks, algorithmic differentiation and ONNX support.
     *   [Object detection convolutional neural network with OCaml (based on Owl) (⭐17)](https://github.com/owlbarn/owl_mask_rcnn).
-    *   [PyTorch bindings (⭐404)](https://github.com/LaurentMazare/ocaml-torch) - OCaml bindings for PyTorch.
-    *   [Ocaml-NN (⭐4)](https://github.com/ck090/ocaml-nn/tree/main) - Fully functional monadic implementation of a Neural Network (FCNNs) in OCaml
+    *   [PyTorch bindings (⭐412)](https://github.com/LaurentMazare/ocaml-torch) - OCaml bindings for PyTorch.
+    *   [Ocaml-NN (⭐5)](https://github.com/ck090/ocaml-nn/tree/main) - Fully functional monadic implementation of a Neural Network (FCNNs) in OCaml
 *   **Articles**
     *   [Deep Learning with OCaml (PyTorch bindings)](https://blog.janestreet.com/deep-learning-experiments-in-ocaml/).
     *   [Transfer Learning with OCaml (PyTorch bindings)](https://blog.janestreet.com/of-pythons-and-camels/).
@@ -420,11 +416,11 @@
 
 ### Table of Contents / Code Analysis
 
-*   [Rector (⭐8.5k)](https://github.com/rectorphp/rector) - A tool to upgrade and refactor code.
+*   [Rector (⭐9.2k)](https://github.com/rectorphp/rector) - A tool to upgrade and refactor code.
 
 ### Table of Contents / Markup and CSS
 
-*   [CommonMark PHP (⭐2.7k)](https://github.com/thephpleague/commonmark) - Highly-extensible Markdown parser which fully supports the [CommonMark spec](https://spec.commonmark.org/).
+*   [CommonMark PHP (⭐2.8k)](https://github.com/thephpleague/commonmark) - Highly-extensible Markdown parser which fully supports the [CommonMark spec](https://spec.commonmark.org/).
 
 ## [38. Awesome Chip 8](/content/tobiasvl/awesome-chip-8/week/README.md)
 
@@ -494,35 +490,29 @@
 
 *   [Biodiversity Heritage Library](https://www.flickr.com/people/biodivlibrary/) [:copyright:](https://creativecommons.org/publicdomain/mark/1.0/) [:copyright:](https://creativecommons.org/licenses/by/2.0/) A mix of Public Domain and Attribution (CC BY 2.0) licenses. Nearly 150,000 exquisite, historical illustrations of life on Earth.
 
-## [40. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
-
-### Websites and Resources
-
-*   [Biohack Stack](https://biohackstack.com/) - Biohacker community with "stacks" of famous scientists.
-
-## [41. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/week/README.md)
+## [40. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/week/README.md)
 
 ### Reddit
 
 *   /r/Design\_Critiques - <https://www.reddit.com/r/design_critiques/>
 
-## [42. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [41. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Presentations / XML
 
 *   [Ryan Dahl & Kitson Kelly: Deno is a New Way to JavaScript - TSConf 2019](https://www.youtube.com/watch?v=1gIiZfSbEAE)
 
-## [43. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [42. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Development tools / Build system
 
 *   GitHub actions
-    *   [icepuma/rust-action (⭐78)](https://github.com/icepuma/rust-action) - rust github action
-    *   [peaceiris/actions-mdbook (⭐288)](https://github.com/peaceiris/actions-mdbook) - GitHub Actions for mdBook
+    *   [icepuma/rust-action (⭐79)](https://github.com/icepuma/rust-action) - rust github action
+    *   [peaceiris/actions-mdbook (⭐304)](https://github.com/peaceiris/actions-mdbook) - GitHub Actions for mdBook
 
 ### Libraries / Text search
 
-*   [andylokandy/simsearch-rs (⭐164)](https://github.com/andylokandy/simsearch-rs) \[[simsearch](https://crates.io/crates/simsearch)] - A simple and lightweight fuzzy search engine that works in memory, searching for similar strings
+*   [andylokandy/simsearch-rs (⭐172)](https://github.com/andylokandy/simsearch-rs) \[[simsearch](https://crates.io/crates/simsearch)] - A simple and lightweight fuzzy search engine that works in memory, searching for similar strings
 
 ### Libraries / Unsafe
 
@@ -538,23 +528,13 @@
     *   [New Rustacean](https://newrustacean.com) - A podcast about learning Rust
     *   [Rustacean Station](https://rustacean-station.org/) - A community project for creating podcast content for Rust
 
-## [44. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
-
-### Projects Using Vue.js / Open Source
-
-*   [ETCD Manager (⭐474)](https://github.com/icellmobilsoft/etcdmanager) - A modern, efficient and free multi-platform ETCD GUI app based on Electron and VueJS.
-
-### Components & Libraries / UI Components
-
-*   [vue-tinybox (⭐95)](https://github.com/NickKaramoff/vue-tinybox) - a tiny (only 2.5 KB minzipped) and slick lightbox gallery. Optimized for both desktop and mobile.
-
-## [45. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
+## [43. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
 
 ### Tools
 
-*   [Zaku (⭐78)](https://github.com/limichange/zaku) - JSX-based UI editor, easy way to build page and generate antd code.
+*   [Zaku (⭐85)](https://github.com/limichange/zaku) - JSX-based UI editor, easy way to build page and generate antd code.
 
-## [46. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [44. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Table
 
@@ -641,35 +621,35 @@
 
 *   [js-lingui (⭐4.3k)](https://github.com/lingui/js-lingui) - [docs](https://lingui.js.org) – A readable, automated, and optimized (5 kb) internationalization for JavaScript.
 
-## [47. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [45. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Authentication and Authorization
 
-*   🍰 [Tools:Passwordable (⭐336)](https://github.com/dereuromark/cakephp-tools) - Containing [Passwordable behavior (⭐336)](https://github.com/dereuromark/cakephp-tools/blob/master/docs/Behavior/Passwordable.md) for a DRY approach on password hashing.
+*   [Tools:Passwordable (⭐334)](https://github.com/dereuromark/cakephp-tools) - Containing [Passwordable behavior (⭐334)](https://github.com/dereuromark/cakephp-tools/blob/master/docs/Behavior/Passwordable.md) for a DRY approach on password hashing.
 
 ### Caching
 
-*   🍰 [Cache plugin (⭐32)](https://github.com/dereuromark/cakephp-cache) - For caching views (HTML, CSV, JSON, XML, ...) as static cache files.
+*   [Cache plugin (⭐33)](https://github.com/dereuromark/cakephp-cache) - For caching views (HTML, CSV, JSON, XML, ...) as static cache files.
 
 ### Miscellaneous
 
-*   🍰 [Tools plugin (⭐336)](https://github.com/dereuromark/cakephp-tools) - Containing lots of useful libs, helpers, behaviors, components, shells and more.
+*   [Tools plugin (⭐334)](https://github.com/dereuromark/cakephp-tools) - Containing lots of useful libs, helpers, behaviors, components, shells and more.
 
 ### Search
 
-*   🍰 [Tags plugin (⭐14)](https://github.com/dereuromark/cakephp-tags) - For tagging and finding tagged records.
+*   [Tags plugin (⭐15)](https://github.com/dereuromark/cakephp-tags) - For tagging and finding tagged records.
 
 ### SEO
 
-*   🍰 [Tools:Slugged (⭐336)](https://github.com/dereuromark/cakephp-tools) - Containing Slugged behavior to auto-generate URL-compatible slugs from titles.
+*   [Tools:Slugged (⭐334)](https://github.com/dereuromark/cakephp-tools) - Containing Slugged behavior to auto-generate URL-compatible slugs from titles.
 
-## [48. Awesome Esolangs](/content/angrykoala/awesome-esolangs/week/README.md)
+## [46. Awesome Esolangs](/content/angrykoala/awesome-esolangs/week/README.md)
 
 ### Languages
 
 *   [Turtle (⭐4)](https://github.com/TypeMonkey/Turtle) - Uses long-term storage for memory use.
 
-## [49. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
+## [47. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
 
 ### Using WSL / Programming on WSL
 
@@ -679,34 +659,34 @@
 
 *   [wsl-gui-bins (⭐36)](https://github.com/Konfekt/wsl-gui-bins) -  Start common GUI applications under WSL as under Linux. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 
-## [50. Awesome Ssh](/content/moul/awesome-ssh/week/README.md)
+## [48. Awesome Ssh](/content/moul/awesome-ssh/week/README.md)
 
 ### Apps / Servers
 
 *   [ShellHub (⭐982)](https://github.com/shellhub-io/shellhub) [![stars](https://img.shields.io/github/stars/shellhub-io/shellhub.svg?style=social\&label=stars)](https://github.com/shellhub-io/shellhub) - A *SSH* gateway for remotely accessing any Linux device behind firewall and NAT.
 
-## [51. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [49. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Samples
 
 *   Khronos [Vulkan samples (⭐4.1k)](https://github.com/KhronosGroup/Vulkan-Samples) \[[LICENSE (⭐4.1k)](https://github.com/KhronosGroup/Vulkan-Samples/blob/master/LICENSE)]
 
-## [52. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
+## [50. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
 
 ### Tools
 
-*   [PhpInsights (⭐5.2k)](https://github.com/nunomaduro/phpinsights) - PHP quality checks (with Magento2 presets)
-*   [Tango (⭐108)](https://github.com/roma-glushko/tango) - CLI for analyzing access logs
+*   [PhpInsights (⭐5.4k)](https://github.com/nunomaduro/phpinsights) - PHP quality checks (with Magento2 presets)
+*   [Tango (⭐109)](https://github.com/roma-glushko/tango) - CLI for analyzing access logs
 
 ### Deployment
 
-*   [Github Actions for Magento2 (⭐134)](https://github.com/extdn/github-actions-m2) - GitHub Actions for Magento 2 Extensions
+*   [Github Actions for Magento2 (⭐137)](https://github.com/extdn/github-actions-m2) - GitHub Actions for Magento 2 Extensions
 
 ### Infrastructure
 
-*   [Magento 2 Ngrok (⭐44)](https://github.com/shkoliar/magento-ngrok) - Magento 2 Ngrok Integration
+*   [Magento 2 Ngrok (⭐46)](https://github.com/shkoliar/magento-ngrok) - Magento 2 Ngrok Integration
 
-## [53. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [51. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Hybrid
 
@@ -716,7 +696,7 @@
 
 *   [Mobile Blazor Bindings](https://aka.ms/mobileblazorbindings) - Experimental Mobile Blazor Bindings - Build native mobile apps with Blazor.
 
-## [54. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [52. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### XML
 
@@ -724,11 +704,11 @@
 
 ### Quality / Barcode
 
-*   [swift-mod (⭐100)](https://github.com/ra1028/swift-mod) - A tool for Swift code modification intermediating between code generation and formatting.
+*   [swift-mod (⭐103)](https://github.com/ra1028/swift-mod) - A tool for Swift code modification intermediating between code generation and formatting.
 
 ### UI / Barcode
 
-*   [SweetCurtain (⭐116)](https://github.com/multimediasuite/SweetCurtain) - Really sweet and easy bottom pullable sheet implementation. You can find a similar implementation in applications like Apple Maps, Find My, Stocks, etc.
+*   [SweetCurtain (⭐115)](https://github.com/multimediasuite/SweetCurtain) - Really sweet and easy bottom pullable sheet implementation. You can find a similar implementation in applications like Apple Maps, Find My, Stocks, etc.
 
 ### Button / Barcode
 
@@ -736,9 +716,9 @@
 
 ### Walkthrough / Barcode
 
-*   [ConcentricOnboarding (⭐1.3k)](https://github.com/exyte/ConcentricOnboarding) - SwiftUI library for a walkthrough or onboarding flow with tap actions.
+*   [ConcentricOnboarding (⭐1.4k)](https://github.com/exyte/ConcentricOnboarding) - SwiftUI library for a walkthrough or onboarding flow with tap actions.
 
-## [55. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [53. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
@@ -764,18 +744,18 @@
 
 *   [Mindmup.com](https://www.mindmup.com/) — Unlimited mind maps for free and store them in the cloud. Your mind maps are available everywhere, instantly, from any device.
 
-## [56. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [54. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### Financial / Text-Based User Interfaces
 
 *   [Parity (⭐502)](https://github.com/paritytrading/parity) - Platform for trading venues.
-*   [Philadelphia (⭐318)](https://github.com/paritytrading/philadelphia) - Low-latency financial information exchange.
+*   [Philadelphia (⭐324)](https://github.com/paritytrading/philadelphia) - Low-latency financial information exchange.
 
 ### Miscellaneous / Text-Based User Interfaces
 
-*   [yGuard (⭐357)](https://github.com/yWorks/yGuard) - Obfuscation via renaming and shrinking.
+*   [yGuard (⭐376)](https://github.com/yWorks/yGuard) - Obfuscation via renaming and shrinking.
 
-## [57. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
+## [55. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Official
 
@@ -789,13 +769,13 @@
 
 *   [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust) - Includes a chapter `Advanced JavaScript Integration with Yew` on creating an app with Yew.
 
-## [58. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
+## [56. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
 ### Blocklists / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
 *   [hosts-blocklists (⭐2k)](https://github.com/notracking/hosts-blocklists) - A host and domainname based blocklist specifically designed for use with dnsmasq.
 
-## [59. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [57. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Graphics
 
@@ -805,7 +785,7 @@
 
 *   [FluentAssertions (⭐3.7k)](https://github.com/fluentassertions/fluentassertions) - Set of .NET extension methods that allow you to more naturally specify the expected outcome of a TDD or BDD-style test.
 
-## [60. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/week/README.md)
+## [58. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/week/README.md)
 
 ### Frameworks
 
@@ -823,7 +803,7 @@
 *   Create a pull request on the official repo.
 *   Once accepted, repeat by merging from the official repo to your fork's master, and re-branch.
 
-## [61. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
+## [59. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
 ### Broker
 
@@ -846,11 +826,11 @@
 *   [Sonoff-Tasmota (⭐19k)](https://github.com/arendst/Tasmota) - Firmware for ESP8266 devices with web-based configuration. ≈500 devices supported (not only Sonoffs).
 *   [WiFi-IoT](https://wifi-iot.com/p/wiki/) - ESP8266/ESP32 firmware builder. Partly in Russian. Free features are limited.
 
-## [62. Awesome V](/content/vlang/awesome-v/week/README.md)
+## [60. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Command line interface (CLI) / Terminal / Shell
 
-*   [boxx (⭐97)](https://github.com/thecodrr/boxx) - Create highly customizable terminal boxes that also look great! 📦
+*   [boxx (⭐99)](https://github.com/thecodrr/boxx) - Create highly customizable terminal boxes that also look great! 📦
 
 ### Operating system
 
@@ -858,16 +838,10 @@
 
 ### User Interface toolkits
 
-*   [vig (⭐50)](https://github.com/nsauzede/vig) - Bindings for [Dear ImGui (⭐59k)](https://github.com/ocornut/imgui) GUI toolkit.
-*   [vnk (⭐46)](https://github.com/nsauzede/vnk) - Bindings for [Nuklear (⭐14k)](https://github.com/vurtun/nuklear) GUI toolkit.
+*   [vig (⭐55)](https://github.com/nsauzede/vig) - Bindings for [Dear ImGui (⭐63k)](https://github.com/ocornut/imgui) GUI toolkit.
+*   [vnk (⭐50)](https://github.com/nsauzede/vnk) - Bindings for [Nuklear (⭐14k)](https://github.com/vurtun/nuklear) GUI toolkit.
 
-## [63. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
-
-### Software / Password Managers
-
-*   [Padloc](https://padloc.app/) - A modern, open source password manager for individuals and teams. ([Source Code (⭐2.6k)](https://github.com/padloc/padloc)) `GPL-3.0` `Nodejs`
-
-## [64. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [61. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### HTTP Clients
 
@@ -899,21 +873,21 @@
 
 *   [requests-html (⭐14k)](https://github.com/psf/requests-html) - Pythonic HTML Parsing for Humans.
 
-## [65. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
+## [62. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
 
 ### Documentaries / Third Party Hosts
 
 *   [Documentary Addict](https://documentaryaddict.com/) A website which scrapes Youtube for documentaries
 *   [iHaveNoTv](https://ihavenotv.com/) Community managed documentary collection
 
-## [66. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
+## [63. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
 
 ### Books / Utilities
 
 *   [JMeter by Example](https://books.google.com/books?id=iWeJDAEACAAJ) - By Sai Matam and Jagdeep Jain ([Leanpub](https://leanpub.com/jmeterbyexample)); a simple, practical, step-by-step tutorial to measure the performance of websites.
 *   [Advanced JMeter Testing](https://leanpub.com/advanced_jmeter_testing) - By Penny Curich ([Leanpub](https://leanpub.com/advanced_jmeter_testing)), guide to write custom components for Apache JMeter 5.0.
 
-## [67. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
+## [64. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
 ### Community
 
@@ -943,7 +917,7 @@
 
 *   [Mapping Practice Papers](https://leadingedgeforum.com/research/?term=mapping\&type=Position+Paper) - A series of position papers published by the Leading Edge Forum. Jun 13, 2018 - Jan 28, 2019.
 
-## [68. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [65. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### System Deployment
 
@@ -953,7 +927,7 @@
 
 *   [DataSphere Studio (⭐2.6k)](https://github.com/WeBankFinTech/DataSphereStudio) - one-stop data application development management portal.
 
-## [69. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [66. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### Open source / GPL (no linking exception)
 
@@ -972,26 +946,26 @@
 
 ### OS and Kernels / Apache License
 
-*   [havk (⭐24)](https://github.com/RavSS/HAVK) - x86-64 security-focused OS being created with SPARK.
+*   [havk (⭐26)](https://github.com/RavSS/HAVK) - x86-64 security-focused OS being created with SPARK.
 
-## [70. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
+## [67. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
 ### Utility / Semantic Versioning
 
-*   [Get latest SemVer and branch name given a search string (⭐1)](https://github.com/jessicalostinspace/github-action-get-regex-branch)
-*   [Cut Release Branch (⭐9)](https://github.com/jessicalostinspace/cut-release-action) - Cuts a release branch given a branch prefix and optional semantic version.
-*   [Increment Semantic Version (⭐54)](https://github.com/christian-draeger/increment-semantic-version) - Bump a given semantic version (SemVer), depending on given release type.
+*   [Get latest SemVer and branch name given a search string (⭐5)](https://github.com/jessicalostinspace/github-action-get-regex-branch)
+*   [Cut Release Branch (⭐10)](https://github.com/jessicalostinspace/cut-release-action) - Cuts a release branch given a branch prefix and optional semantic version.
+*   [Increment Semantic Version (⭐84)](https://github.com/christian-draeger/increment-semantic-version) - Bump a given semantic version (SemVer), depending on given release type.
 
 ### Static Analysis / Linting
 
-*   [Run dotenv-linter - Lints your .env files like a charm, with optional reviewdog output on the PR (⭐249)](https://github.com/wemake-services/dotenv-linter)
-*   [Run dotenv-linter, with reviewdog output on the PR (⭐14)](https://github.com/mgrachev/action-dotenv-linter)
+*   [Run dotenv-linter - Lints your .env files like a charm, with optional reviewdog output on the PR (⭐274)](https://github.com/wemake-services/dotenv-linter)
+*   [Run dotenv-linter, with reviewdog output on the PR (⭐15)](https://github.com/mgrachev/action-dotenv-linter)
 
-## [71. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
+## [68. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
 
 ### Projects / Frameworks
 
-*   [CoqEAL (⭐64)](https://github.com/CoqEAL/CoqEAL) - Framework to ease change of data representations in proofs.
+*   [CoqEAL (⭐67)](https://github.com/CoqEAL/CoqEAL) - Framework to ease change of data representations in proofs.
 
 ### Projects / User Interfaces
 
@@ -1000,8 +974,8 @@
 
 ### Projects / Libraries
 
-*   [coq-haskell (⭐164)](https://github.com/jwiegley/coq-haskell) - Library smoothing the transition to Coq for Haskell users.
-*   [Metalib (⭐71)](https://github.com/plclub/metalib) - Library for programming language metatheory using locally nameless variable binding representations.
+*   [coq-haskell (⭐168)](https://github.com/jwiegley/coq-haskell) - Library smoothing the transition to Coq for Haskell users.
+*   [Metalib (⭐74)](https://github.com/plclub/metalib) - Library for programming language metatheory using locally nameless variable binding representations.
 
 ### Projects / Package and Build Management
 
@@ -1009,48 +983,53 @@
 
 ### Projects / Plugins
 
-*   [AAC Tactics (⭐29)](https://github.com/coq-community/aac-tactics) - Tactics for rewriting universally quantified equations, modulo associativity and commutativity of some operator.
+*   [AAC Tactics (⭐30)](https://github.com/coq-community/aac-tactics) - Tactics for rewriting universally quantified equations, modulo associativity and commutativity of some operator.
 *   [Gappa](https://gitlab.inria.fr/gappa/coq) - Tactic for discharging goals about floating-point arithmetic and round-off errors.
 *   [Mtac2 (⭐51)](https://github.com/Mtac2/Mtac2) - Plugin adding typed tactics for backward reasoning.
-*   [SMTCoq (⭐155)](https://github.com/smtcoq/smtcoq) - Tool that checks proof witnesses coming from external SAT and SMT solvers.
+*   [SMTCoq (⭐157)](https://github.com/smtcoq/smtcoq) - Tool that checks proof witnesses coming from external SAT and SMT solvers.
 
 ### Projects / Tools
 
 *   [lngen (⭐30)](https://github.com/plclub/lngen) - Tool for generating locally nameless Coq definitions and proofs.
 *   [Menhir](http://gallium.inria.fr/~fpottier/menhir/) - Parser generator that can output Coq code for verified parsers.
-*   [mCoq (⭐28)](https://github.com/EngineeringSoftware/mcoq) - Mutation analysis tool for Coq projects.
+*   [mCoq (⭐30)](https://github.com/EngineeringSoftware/mcoq) - Mutation analysis tool for Coq projects.
 
 ### Projects / Type Theory and Mathematics
 
-*   [Analysis (⭐193)](https://github.com/math-comp/analysis) - Library for classical real analysis compatible with Mathematical Components.
-*   [Category Theory in Coq (⭐741)](https://github.com/jwiegley/category-theory) - Axiom-free formalization of category theory.
+*   [Analysis (⭐210)](https://github.com/math-comp/analysis) - Library for classical real analysis compatible with Mathematical Components.
+*   [Category Theory in Coq (⭐760)](https://github.com/jwiegley/category-theory) - Axiom-free formalization of category theory.
 *   [Coquelicot](https://gitlab.inria.fr/coquelicot/coquelicot) - Formalization of classical real analysis compatible with the standard library and focusing on usability.
 *   [Mathematical Components](http://math-comp.github.io) - Formalization of mathematical theories, focusing in particular on group theory.
 
 ### Projects / Verified Software
 
-*   [JSCert (⭐194)](https://github.com/jscert/jscert) - Coq specification of ECMAScript 5 (JavaScript) with verified reference interpreter.
+*   [JSCert (⭐197)](https://github.com/jscert/jscert) - Coq specification of ECMAScript 5 (JavaScript) with verified reference interpreter.
 
 ### Resources / Community
 
-*   [Mathematical Components wiki (⭐563)](https://github.com/math-comp/math-comp/wiki)
+*   [Mathematical Components wiki (⭐596)](https://github.com/math-comp/math-comp/wiki)
 
 ### Resources / Books
 
 *   [Coq'Art](https://www.labri.fr/perso/casteran/CoqArt/) - The first book dedicated to Coq.
 *   [Software Foundations](https://softwarefoundations.cis.upenn.edu) - Series of Coq-based textbooks on logic, functional programming, and foundations of programming languages, aimed at being accessible to beginners.
+    *   [Volume 1: Logical Foundations](https://softwarefoundations.cis.upenn.edu/lf-current/index.html) - Introduction to functional programming, basic concepts of logic, and computer-assisted theorem proving.
+    *   [Volume 2: Programming Language Foundations](https://softwarefoundations.cis.upenn.edu/plf-current/index.html) - Introduction to the theory of programming languages, including operational semantics, Hoare logic, and static type systems.
+    *   [Volume 3: Verified Functional Algorithms](https://softwarefoundations.cis.upenn.edu/vfa-current/index.html) - Demonstration of how a variety of fundamental data structures can be specified and verified.
+    *   [Volume 4: QuickChick](https://softwarefoundations.cis.upenn.edu/qc-current/index.html) - Introduction to tools for combining randomized property-based testing with formal specification and proof.
+    *   [Volume 5: Verifiable C](https://softwarefoundations.cis.upenn.edu/vc-current/index.html) - An extended tutorial on specifying and verifying C programs using the Verified Software Toolchain.
+    *   [Volume 6: Separation Logic Foundations](https://softwarefoundations.cis.upenn.edu/slf-current/index.html) - An introduction to separation logic and how to build program verification tools on top of it.
 *   [Certified Programming with Dependent Types](http://adam.chlipala.net/cpdt/) - Textbook about practical engineering with Coq which teaches advanced practical tricks and a very specific style of proof.
 *   [Formal Reasoning About Programs](http://adam.chlipala.net/frap/) - Book that simultaneously provides a general introduction to formal logical reasoning about the correctness of programs and to using Coq for this purpose.
 *   [Programs and Proofs](https://ilyasergey.net/pnp/) - Book that gives a brief and practically-oriented introduction to interactive proofs in Coq which emphasizes the computational nature of inductive reasoning about decidable propositions via a small set of primitives from the SSReflect proof language.
-*   [Computer Arithmetic and Formal Proofs](http://iste.co.uk/book.php?id=1238) - Book that describes how to formally specify and verify floating-point algorithms in Coq using the Flocq library.
 
 ### Resources / Tutorials and Hints
 
 *   [Coq in a Hurry](http://cel.archives-ouvertes.fr/inria-00001173) - Introduction to how Coq can be used to define logical concepts and functions and reason about them.
-*   [Lemma Overloading (⭐26)](https://github.com/coq-community/lemma-overloading) - Demonstration of design patterns for programming and proving with canonical structures.
+*   [Lemma Overloading (⭐27)](https://github.com/coq-community/lemma-overloading) - Demonstration of design patterns for programming and proving with canonical structures.
 *   [Mike Nahas's Coq Tutorial](https://mdnahas.github.io/doc/nahas_tutorial.html) - Basics of using Coq to write formal proofs.
 
-## [72. Awesome Creative Tech Events](/content/danvoyce/awesome-creative-tech-events/week/README.md)
+## [69. Awesome Creative Tech Events](/content/danvoyce/awesome-creative-tech-events/week/README.md)
 
 ### Netherlands / Amsterdam
 
@@ -1073,7 +1052,7 @@
 
 *   [CODAME ART+TECH Festival](http://codame.com/events/art-tech-festival-2019-space) - Explores the manifold dimensions of SPACE with an incredible lineup schedule, including nightlife installations and performances, a variety of workshops, and community gathering art+tech salon to close off the Festival. **(October)**
 
-## [73. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
+## [70. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
 ### Libraries / Individual Podcast episodes
 
@@ -1084,7 +1063,7 @@
 
 *   [elm-boil (⭐20)](https://github.com/GioPat/elm-boil) - Command Line Utility for creating an Elm boilerplate project easy to run, build and get deployed
 
-## [74. Awesome Ponyfills](/content/Richienb/awesome-ponyfills/week/README.md)
+## [71. Awesome Ponyfills](/content/Richienb/awesome-ponyfills/week/README.md)
 
 ### Browser Features
 

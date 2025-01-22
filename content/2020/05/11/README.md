@@ -1,6 +1,6 @@
 # Awesome List Updates on May 11, 2020
 
-14 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -21,18 +21,18 @@
 ### Table of Contents / Micro Frameworks
 
 *   [Mezzio](https://getexpressive.org/) - A micro-framework by Laminas.
-*   [Silly (⭐908)](https://github.com/mnapoli/silly) - A micro-framework for CLI applications.
+*   [Silly (⭐923)](https://github.com/mnapoli/silly) - A micro-framework for CLI applications.
 
 ### Table of Contents / HTTP
 
-*   [Nyholm PSR-7 (⭐1.1k)](https://github.com/Nyholm/psr7) - A super lightweight PSR-7 implementation. Very strict and very fast.
-*   [Laminas Diactoros (⭐456)](https://github.com/laminas/laminas-diactoros) - PSR-7 HTTP Message implementation.
+*   [Nyholm PSR-7 (⭐1.2k)](https://github.com/Nyholm/psr7) - A super lightweight PSR-7 implementation. Very strict and very fast.
+*   [Laminas Diactoros (⭐496)](https://github.com/laminas/laminas-diactoros) - PSR-7 HTTP Message implementation.
 
 ### Table of Contents / Middlewares
 
 *   [PSR-7 Middlewares (⭐668)](https://github.com/oscarotero/psr7-middlewares) - Inspiring collection of handy middlewares.
 *   [Stack](https://github.com/stackphp) - A library of stackable middleware for Symfony.
-*   [Laminas Stratigility (⭐54)](https://github.com/laminas/laminas-stratigility) - Middleware for PHP built on top of PSR-7.
+*   [Laminas Stratigility (⭐55)](https://github.com/laminas/laminas-stratigility) - Middleware for PHP built on top of PSR-7.
 
 ### Table of Contents / Email
 
@@ -52,16 +52,16 @@
 
 ### Table of Contents / Documentation
 
-*   [daux.io (⭐791)](https://github.com/dauxio/daux.io) - A documentation generator that uses Markdown files.
+*   [daux.io (⭐802)](https://github.com/dauxio/daux.io) - A documentation generator that uses Markdown files.
 
 ### Table of Contents / Event
 
-*   [CakePHP Event (⭐22)](https://github.com/cakephp/event) - An event dispatcher library.
-*   [ReactPHP (⭐8.9k)](https://github.com/reactphp/reactphp) - An event driven non-blocking I/O library.
+*   [CakePHP Event (⭐21)](https://github.com/cakephp/event) - An event dispatcher library.
+*   [ReactPHP (⭐9k)](https://github.com/reactphp/reactphp) - An event driven non-blocking I/O library.
 
 ### Table of Contents / Database
 
-*   [CakePHP ORM (⭐148)](https://github.com/cakephp/orm) - Object-Relational Mapper, implemented using the DataMapper pattern.
+*   [CakePHP ORM (⭐147)](https://github.com/cakephp/orm) - Object-Relational Mapper, implemented using the DataMapper pattern.
 *   [Laravel Eloquent (⭐2.7k)](https://github.com/illuminate/database) - A simple ORM.
 
 ### Table of Contents / Queue
@@ -70,16 +70,16 @@
 
 ### Table of Contents / Filtering, Sanitizing and Validation
 
-*   [CakePHP Validation (⭐43)](https://github.com/cakephp/validation) - Another validation library.
+*   [CakePHP Validation (⭐42)](https://github.com/cakephp/validation) - Another validation library.
 
 ### Table of Contents / API
 
-*   [Laminas API Tool Skeleton (⭐49)](https://github.com/laminas-api-tools/api-tools-skeleton) - An API builder built with the Laminas Framework.
+*   [Laminas API Tool Skeleton (⭐50)](https://github.com/laminas-api-tools/api-tools-skeleton) - An API builder built with the Laminas Framework.
 
 ### Table of Contents / Caching and Locking
 
-*   [CakePHP Cache (⭐51)](https://github.com/cakephp/cache) - A caching library.
-*   [Laminas Cache (⭐97)](https://github.com/laminas/laminas-cache) - Another caching library.
+*   [CakePHP Cache (⭐52)](https://github.com/cakephp/cache) - A caching library.
+*   [Laminas Cache (⭐102)](https://github.com/laminas/laminas-cache) - Another caching library.
 
 ### Table of Contents / Data Structure and Storage
 
@@ -88,7 +88,7 @@
 
 ### Table of Contents / Internationalisation and Localisation
 
-*   [CakePHP I18n (⭐29)](https://github.com/cakephp/i18n) - Message translation and localization for dates and numbers.
+*   [CakePHP I18n (⭐28)](https://github.com/cakephp/i18n) - Message translation and localization for dates and numbers.
 
 ### Configuration / PHP Installation
 
@@ -116,13 +116,7 @@
 
 *   [Siteground Webinar: Learn How WP-CLI Can Make Your Life Easier](https://www.youtube.com/watch?v=DlxbRYpZdQg) - Practical examples on how you can improve your workflows with WP-CLI.
 
-## [4. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
-
-### Plotter Art For Sale / Patents
-
-*   [Nadieh Bremer](https://shop.visualcinnamon.com/collections/pen-plotter-prints)
-
-## [5. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
+## [4. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
 
 ### Software / Command Line Tools
 
@@ -132,7 +126,7 @@
 
 *   [vim](https://www.vim.org/) - Vim is a highly configurable text editor built to make creating and changing any kind of text very efficient. ([GNU GPL compatible](https://vimhelp.org/uganda.txt.html#license))
 
-## [6. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
+## [5. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
 
 ### Learning / University Course Archives
 
@@ -140,13 +134,13 @@
 *   [Dr. Jacob Baker](http://cmosedu.com) - Courses and tutorials, professor at The University of Nevada, Las Vegas.
 *   [Dr. Abraham](https://www.cerc.utexas.edu/~jaa/teaching.html), [Dr. McDermot](http://users.ece.utexas.edu/~mcdermot/), and [Dr. Valvano](http://users.ece.utexas.edu/~valvano/) - Courses materials, professors at UT Austin
 
-## [7. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+## [6. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Table
 
 *   [KendoReact Grid](https://www.telerik.com/kendo-react-ui/components/grid/) - Powerful data grid component with 100+ ready-to-use features like paging, sorting, export to Excel, and more.
 
-## [8. Public Apis](/content/public-apis/public-apis/README.md)
+## [7. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Cloud Storage & File Sharing
 
@@ -160,23 +154,23 @@
 
   CORS: Yes
 
-  Postman: 
+  : 
 
 
 
-## [9. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
+## [8. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 
 ### Resources / Articles
 
 *   [How to Create and Manage Menus of Wagtail application](https://www.accordbox.com/blog/wagtail-tutorial-12-how-create-and-manage-menus-wagtail-application/)
 
-## [10. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
+## [9. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
 ### History / 2018
 
 *   [Styling Accessibility: A Web Components Approach](https://medium.com/@cfscorreia/styling-accessibility-a-web-components-approach-dc2aa8123eb2)
 
-## [11. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
+## [10. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
 
 ### XSS
 
@@ -186,11 +180,11 @@
 
 *   [How we abused Slack's TURN servers to gain access to internal services](https://www.rtcsec.com/2020/04/01-slack-webrtc-turn-compromise/) - Written by [@sandrogauci](https://twitter.com/sandrogauci).
 
-## [12. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
+## [11. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
 ### Apps / Outline Processor Markup Language
 
-*   [FeedMe (⭐1.2k)](https://github.com/seazon/FeedMe/) <sup>[135](https://t.me/s/aboutrss/135), [136](https://t.me/s/aboutrss/136), [161](https://t.me/s/aboutrss/161), [331](https://t.me/s/aboutrss/331), [342](https://t.me/s/aboutrss/342)</sup> [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=com.seazon.feedme)
+*   [FeedMe (⭐1.3k)](https://github.com/seazon/FeedMe/) <sup>[135](https://t.me/s/aboutrss/135), [136](https://t.me/s/aboutrss/136), [161](https://t.me/s/aboutrss/161), [331](https://t.me/s/aboutrss/331), [342](https://t.me/s/aboutrss/342)</sup> [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=com.seazon.feedme)
 
 ### RSSHub / Outline Processor Markup Language
 
@@ -218,14 +212,14 @@
 
 *   [Ultimate Category Excluder](https://wordpress.org/plugins/ultimate-category-excluder/) <sup>[582](https://t.me/s/aboutrss/582)</sup> : Exclude category from Feeds
 
-## [13. Awesome React Native](/content/jondot/awesome-react-native/README.md)
+## [12. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
 ### UI
 
 *   [react-native-loader-kit ★1 (⭐19)](https://github.com/maitrungduc1410/react-native-loader-kit) - Purely native loading animations for React Native.
 *   [react-native-new-feature ★1 (⭐13)](https://github.com/maitrungduc1410/react-native-new-feature) - A simple and lightweight What's New component to show your latest React native Features.
 
-## [14. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [13. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / CloudFormation
 

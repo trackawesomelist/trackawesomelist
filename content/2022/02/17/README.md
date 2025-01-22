@@ -10,8 +10,8 @@
 
 ### no-std crates / WIP
 
-*   [dummy-pin](https://crates.io/crates/dummy-pin): Dummy implementations of the input/output pin traits. ![crates.io](https://img.shields.io/crates/v/dummy-pin.svg)
-*   [inverted-pin](https://crates.io/crates/inverted-pin): Implementations of the input/output pin traits with inverted logic. ![crates.io](https://img.shields.io/crates/v/inverted-pin.svg)
+*   [dummy-pin](https://crates.io/crates/dummy-pin): Dummy implementations of the input/output pin traits. [![crates.io](https://img.shields.io/crates/v/dummy-pin.svg)](https://crates.io/crates/dummy-pin)
+*   [inverted-pin](https://crates.io/crates/inverted-pin): Implementations of the input/output pin traits with inverted logic. [![crates.io](https://img.shields.io/crates/v/inverted-pin.svg)](https://crates.io/crates/inverted-pin)
 
 ## [2. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
@@ -29,12 +29,12 @@
 
 ### Programming Languages / PHP
 
-*   [composer-plugin-nixify (⭐15)](https://github.com/stephank/composer-plugin-nixify) - Composer plugin to help with Nix packaging.
-*   [nix-shell (⭐141)](https://github.com/loophp/nix-shell/) - Nix shells for PHP development.
+*   [composer-plugin-nixify (⭐17)](https://github.com/stephank/composer-plugin-nixify) - Composer plugin to help with Nix packaging.
+*   [nix-shell (⭐162)](https://github.com/loophp/nix-shell/) - Nix shells for PHP development.
 
 ### NixOS Modules / Zig
 
-*   [base16.nix (⭐177)](https://github.com/SenchoPens/base16.nix) - Flake way to theme programs in [base16 (⭐539)](https://github.com/chriskempson/base16) colorschemes, mustache template support included.
+*   [base16.nix (⭐212)](https://github.com/SenchoPens/base16.nix) - Flake way to theme programs in [base16 (⭐656)](https://github.com/chriskempson/base16) colorschemes, mustache template support included.
 
 ## [5. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
@@ -60,148 +60,71 @@
 ### Companies with "remote DNA"
 
 *   [HeadSpin](https://www.headspin.io/) - world’s first Digital Experience AI Platform that combines cloud-hosted and on-prem global device infrastructure, test automation, and ML-driven performance & quality of experience analytics for mobile, web, audio, and video.
-*   [Gitbook](https://jobs.gitbook.com/) - Publishing toolchain based on git. JavaScript, node.js, Go.
-*   [GitHub](https://github.com/about/jobs)
 *   [GitLab](https://about.gitlab.com/jobs/) - Competitor to GitHub.
 *   [Gitee](https://gitee.com) - GitHub alternative in China.
-*   [Gradle](https://gradle.com/careers) - Open Source Build Tool ; Enterprise SaaS and on-premise. Fully remote. Java, Groovy, Kotlin.
 *   [GrooveHQ](https://www.groovehq.com/about) - Help desk software.
-*   [Hanzo](https://www.hanzo.co/about-us/careers-uk) - Web archiving company. Fully Remote. Python, AWS.
 *   [Harvest](https://www.getharvest.com/careers) - Time tracking software.
-*   [HashiCorp](https://www.hashicorp.com/jobs.html) - Open source tools for automating the modern data center. Go, Ruby, Rails, Ember, JavaScript.
 *   [Hatica](https://www.hatica.io) - Work analytics for engineering teams: Hatica equips engineering leaders and managers with actionable insights to promote effort alignment, accelerate delivery, drive team engagement, and promote team well-being.
-*   [Healthfinch](https://www.healthfinch.com/careers) - Making Healthcare systems more usable. HQ in Madison, WI, USA. Ruby, JavaScript.
-*   [Heap](https://heapanalytics.com/careers/jobs) – Web & Mobile Analytics, 2 of our 8 teammates are remote.
-*   [Heetch](https://jobs.heetch.com) – Ride Hailing service, operating in Europe and Africa. Fully Remote across Europe or similar timezones. Go, AWS.
 *   [Heroku](https://www.heroku.com/careers) - PaaS Cloud, makes devs' experience awesome, Ruby, Erlang, JavaScript, Golang, Python.
 *   [Honeybadger](https://www.honeybadger.io/) - Ruby. 100% remote.
-*   [Hotjar](https://careers.hotjar.com/) - Analytics & Feedback tool.
 *   [Hubstaff](https://hubstaff.com/jobs) - Time tracking solution with multiple integrations.
-*   [Igalia](https://www.igalia.com/about-us/form) - Open source consultancy. HQ in Spain.
 *   [Incsub](https://incsub.com/careers/) - Remote team that builds WordPress projects.
-*   [Inpsyde GmbH](https://inpsyde.com/) - WordPress Agency in Germany.
-*   [Institute for Nonprofit News](https://inn.org/about/jobs/) - Nonprofit news organization.
-*   [Instructure](https://www.instructure.com/careers/) - We make software that makes people smarter.
 *   [Intellum](https://www.intellum.com/) - We build employee collaboration, performance and learning tools. Ruby, iOS, Android, AWS, GCS.
 *   [Intevity](https://www.intevity.com/)
 *   [InVision](https://www.invisionapp.com/company#jobs) - prototyping, collaboration & workflow platform.
 *   [iRonin.IT](https://careers.ironin.it) - software house. Polish language. Ruby on Rails, Node.js, JavaScript, React, Angular, Vue.js.
 *   [Isos Technology](https://careers.isostech.com/) - premier Atlassian Platinum & Enterprise Solution Partner, helping organizations solve complex development and business problems with the Atlassian tools.
-*   [Jackson River](https://www.jacksonriver.com/about/jobs) - Digital-first technology and strategy for nonprofits.
-*   [Jibble Group](http://careers.jibblegroup.com/) - Remote team across 15 different countries building the next world-class workforce management and payroll Software-as-a-Service.
 *   [Judge.me](https://judge.me/) - A review platform for ecommerces. Our company is fully remote across 4 continents.
 *   [Keepsafe](https://www.getkeepsafe.com) - Mobile-first privacy products, making privacy easy for the world to opt into.
 *   [Khan Academy](https://www.khanacademy.org/careers) - EdTech. Non-profit focusing on K-12 STEM. Less, React, Flux, Backbone, jQuery, Python, Google App Engine, Swift, and Objective-C.
-*   [Knack](https://www.knack.com/jobs) - The easy online database helping customers streamline their business processes and automate workflow. The product is DIY with no-code/low-code. The company is 100% remote.
-*   [LaterPay](https://www.laterpay.net/) - The (micro)payment enabler. Munich, Germany. Python, JavaScript, AWS.
 *   [LaunchPotato](https://launchpotato.com/careers) - Startup studio based in Delray Beach, Florida.
-*   [Librato](https://www.solarwinds.jobs/) - Cloud Monitoring.
 *   [Linaro](https://www.linaro.org/careers/) - OpenSource Engineering on ARM.
 *   [Lincoln Loop](https://lincolnloop.com) - WebDev shop.
-*   [Litmus](https://litmus.com/careers) - Optimization tools for email professionals. Offices in Boston and London, but nearly 50% of the team works remotely.
-*   [LiveChat](https://www.livechat.com/careers/jobs/) - online customer service software with online chat, help desk software, and web analytics
-*   [LivingSocial](https://jobs.groupon.com/) - Company-wide support for teams of experienced, remote developers. Lots of autonomy.
-*   [Logit.io](https://logit.io/about-us#careers) - Fully remote first logging and metrics management company with 100% of operations and development based remotely
 *   [Lullabot](https://www.lullabot.com/jobs) - Strategy, design and development using Drupal.
-*   [madewithlove](https://madewithlove.com/jobs) - We help companies build digital products and bring new juice to teams that seem to jam.
 *   [Maintainer Mountaineer](https://maintainer.io) - Open source community management as a service.
 *   [MailerLite](https://www.mailerlite.com/) - Email marketing tool with a remote-first team that's scattered all over the world. Twice a year, they go on workation to places like Bali, Panama and Miami.
-*   [MariaDB](https://mariadb.com/about-us/careers) - Open source database.
 *   [MarsBased](https://marsbased.com) - MarsBased is a development consultancy from Barcelona offering end‑to‑end web & mobile apps based on Ruby on Rails, Angular and other JavaScript frameworks.
-*   [Mapbox](https://www.mapbox.com/jobs/) - Map integration tools for various platforms.
-*   [MeetEdgar](https://meetedgar.com/careers/) - Automated social sharing. US remote.
-*   [Merico](https://merico.dev/) - Code deep analysis engine.
-*   [Mixmax](https://careers.mixmax.com/) - Email with superpowers.
-*   [Mobile Jazz](https://mobilejazz.com/) - We are a dedicated team of highly-skilled engineers, designers and marketing experts on a mission to build a more beautiful digital world. We are a remote friendly company with headquarters in Barcelona.
-*   [Modern Tribe](https://tri.be/careers) - A digital agency with a modern twist. All freelancers. All experts.
-*   [MODLR](https://modlr.co) - MODLR is business modelling and collaborative planning tool for connected financial planning process
 *   [Modus Create](https://moduscreate.com/) - Modus is a digital design-build agency driven by world-class talent. PHP, JavaScript.
 *   [Mosalingua](https://www.mosalingua.com/en/jobs/) - Learn words, enjoy the world.
-*   [Mozilla](https://careers.mozilla.org/listings/) - Firefox has a 'Remote' option under it's location searchbar
 *   [NearForm](https://www.nearform.com/careers/) - NearForm evolves enterprises by building high-performance, open software. Our global team uses modern processes and tools to help clients innovate at speed.
-*   [Netguru](https://www.netguru.com/career) - Software agency. JavaScript, Ruby on Rails, Python, Android, iOS
 *   [Netlandish](https://www.netlandish.com/) - Software development for businesses of all sizes. Python, Django, DevOps. 100% Remote.
-*   [Netsparker](https://www.netsparker.com/jobs/) - Web Application Security Scanner.
-*   [Next Big Sound](https://www.nextbigsound.com/about) - Analytics and Insights for the Music Industry.
-*   [NinjaCat](https://www.ninjacat.io/jobs) - Reporting, Monitoring & Call Tracking Platform for Leading Digital Agencies.
 *   [Niteo](https://niteo.co/careers) - A decade old SaaS studio full of bright ideas, building smart solutions to empower small businesses online.
 *   [NodeSource](https://nodesource.com/about) - NodeSource is dedicated to creating a sustainable ecosystem for Node.js.
 *   [Nozbe](https://nozbe.com/careers) - GTD app for Mac, Windows, Linux, Android, iPad and iPhone.
-*   [ofri](https://www.ofri.ch/job_openings) - A swiss online marketplace that connects homeowners with quality home improvement professionals.
 *   [Olark](https://www.olark.com/jobs) - Chat support funnel.
-*   [onTheGo Systems](https://www.onthegosystems.com/jobs/) - WordPress Developer, Supporter and Marketing Jobs.
 *   [OpenCraft](https://opencraft.com/) - Open edX development (Free Software MOOC project).
 *   [Parknav](https://parknav.com) - Intelligent parking using AI
-*   [Parsely](https://www.parse.ly/careers) - Analytics solutions
 *   [Particular Software (NServiceBus)](https://particular.net/careers) - Enterprise Service Bus, Messaging, C#, Open Source
-*   [Patients Know Best](https://patients.workable.com/) - Empowering patients to manage their care, enabling professionals to share information while improving efficiencies for payers.
 *   [Paylocity](https://www.paylocity.com/careers/) - HR and payroll solutions
-*   [Pilot](https://pilot.co) - Pilot is a software platform that removes all the pain from contract work. We find work, negotiate contracts, send invoices and chase payments for hundreds of forward-looking engineers and designers around the world.
-*   [Pleo](https://careers.pleo.io/) - Pleo is a company payment card solution that automates expense reports and simplifies company spending.
 *   [Precision Nutrition](https://www.precisionnutrition.com/) -  Online Nutrition Coaching and Certification.
 *   [PreviousNext](https://www.previousnext.com.au) - Australian based Drupal agency.
 *   [Prezly](https://www.prezly.com/) - SaaS PR platform. PHP, React, JS, Postgres. 100% remote.
 *   [Prodperfect](https://prodperfect.com/) - Automated QA testing from live user data. Remote-first org with workplaces in Boston and San Fran.
-*   [ProFinda](https://profinda.com/) - Workforce planning & optimization. 100% remote dev team. Ruby on Rails, React.js and Python. Company based in UK.
-*   [RainforestQA](https://www.rainforestqa.com/jobs/) - On demand QA as a service.
-*   [RebelMouse](https://blog.rebelmouse.com/careers/) - Social publishing platform. Python, JS & iOS/Android developers. All over the world team.
-*   [Recurly](https://recurly.com/jobs/) - recurring billing management for subscription-based businesses
-*   [Red Hat](https://www.redhat.com/jobs/)
-*   [Redox](https://www.redoxengine.com/company/careers/) - Healthcare API platform. Proudly remote-first team.
 *   [Relevant Bits](https://relevantbits.com) - Relevant Bits positively influences customer experiences and outcomes with data, design, technology, and critical thinking. Based out of Ontario Canada, Relevant Bits is 100% remote.
 *   [RenoFi](https://www.renofi.com/careers/) - 100% remote from day 1. Ruby, React.js, GraphQL, k8s.
-*   [Revolut](https://jobs.lever.co/revolut?lever-via=8QDkIWda8L) - App for buying, investing and sending money. HQ London.
 *   [Riak](https://riak.com/careers/) - An open source platform and k/v database. We code in Erlang and hang out on clouds. Everyone works remote and gets together a few times a year at HQ in Seattle.
-*   [RightScale](https://www.flexera.com/about-us/careers.html)
-*   [Sangoma](https://www.sangoma.com/) - Trusted leader in delivering globally scalable Voice-Over-IP telephony systems, both on-site and cloud-based. C, PHP, Python, JavaScript, Linux, FreePBX, VoIP.
-*   [Scrapinghub](https://scrapinghub.com/jobs)
 *   [SerpApi](https://serpapi.com/team) - Real-time API to access structured search results of Google, Youtube, eBay and other search engines. Ruby, Rails, React.js.
-*   [ServiceNow](https://jobs.jobvite.com/servicenow/search?c=\&l=\&r=\&t=\&q=remote) - Enterprise cloud computing to improve service levels, energize employees, and change the way your enterprise works. Work at lightspeed.
 *   [ShakaCode](https://www.shakacode.com/career/) - A global web development software consultancy and product company.
-*   [Shogun](https://getshogun.com/team) - Build and optimize eCommerce landing pages. Ruby / Rails, Go, JavaScript, React. 100% remote.
-*   [Signal](https://www.signal.org/workworkwork/) - These people make the fantastic [Signal app](https://www.signal.org). US Only.
-*   [Skyscrapers](https://skyscrapers.eu/jobs/) - Cloud hosting services & management. Working with multiple cloud providers (AWS, Digital Ocean, Linode, ...). 100% remote.
 *   [SoftwareMill](https://softwaremill.com/join-us/)
 *   [Soshace](https://soshace.com/) - Angular/React/Vue.js/Java/Python remote development company
 *   [Songspace](https://songspace.com) Helps music creators collaborate, catalog, and share work with their professional team
-*   [Sourcegraph (⭐131)](https://github.com/sourcegraph/careers) - Code search and navigation for teams (self-hosted, OSS). Fully remote (across time zones).
-*   [StackExchange](https://stackoverflow.com/company/work-here)
+*   [Sourcegraph (⭐132)](https://github.com/sourcegraph/careers) - Code search and navigation for teams (self-hosted, OSS). Fully remote (across time zones).
 *   [Stream Native](https://streamnative.io) Cloud-Native messaging and event streaming powered by Apache Pulsar
 *   [Stripe](https://stripe.com/blog/remote-hub) Stripe builds financial tools and economic infrastructure for the internet
-*   [Strongloop](https://strongloop.com/careers/)
 *   [StyleSeat](http://static.styleseat.com/jobs/index.html) - we love high-impact remote engineers, collaboration, creativity, python, angularjs
-*   [SuperOrbital](https://superorbit.al) - Kubernetes engineering and training.
-*   [Surevine](https://www.surevine.com/jobs/)
-*   [Surge](https://www.surgeforward.com/careers/) - 100% remote consulting company working primarily in Node.JS, iOS, .NET, PHP, and Android
-*   [Square](https://careers.squareup.com/us/en/jobs?location%5B%5D=Remote) - Square helps millions of sellers run their business-from secure credit card processing to point of sale solutions. Products: Square and Cash App.
-*   [Sysdig Cloud](https://sysdig.com/jobs/)
-*   [Taskade](https://www.taskade.com/contact/) - Remote team building real-time collaboration & collaborative editing for teams.
-*   [TaxJar](https://www.taxjar.com/jobs/) - Eliminate sales tax headaches.
 *   [Teamed.io](https://www.teamed.io/)
-*   [TeamSnap](https://www.teamsnap.com/about/careers) - TeamSnap is the No. 1 online sports team management software. 80% remote employees
 *   [TED](https://www.ted.com/about/our-organization/jobs-at-ted) - Technology team supports ted.com and internal tools. All engineers are remote. Ruby on Rails, JavaScript, Ember.js
-*   [Teleport](https://teleport.org/jobs/)
-*   [Tesera](https://tesera.com/) - We disrupt conventional thinking to expand what is possible. We ignite change in the future we share.
 *   [The Grid](https://thegrid.io/) - AI website builder. 100% distributed team.
 *   [Thermeon](https://thermeon.com/vacancies/) - Car rental software - 100% remote technical team
 *   [Thorn](https://thorn.org/careers) - 100% remote company, building technology to fight child sexual abuse & trafficking online.
-*   [TimeDoctor](https://www.timedoctor.com/about-us.html) - Time tracking with screenshots, web and app usage monitoring, and integrations.
-*   [Toggl](https://jobs.toggl.com/)
 *   [Toptal](https://www.toptal.com/careers) - 100% remote development company, solving worldwide talent shortage
-*   [Tortuga Backpacks](https://www.tortugabackpacks.com/pages/join) - Backpacks for city travel.
 *   [Transloadit](https://transloadit.com/jobs/) - The world's most versatile file uploading & encoding service, since 2009, by devs for devs
 *   [Trello](https://trello.com/jobs)
 *   [Tyk](https://tyk.io/current-vacancies/) - API Gateway and API Management. Built with Go, open source.
 *   [Vidalingua](https://www.vidalingua.com/amaze.php) - Bringing language apps to life.
 *   [WAAT](https://waat.eu/job/) - A cross-functional digital agency that adapts to project needs.
-*   [Walltime](https://walltime.info) - A Brazilian digital assets exchange and other products & services using Blockchain technology.
 *   [Water Lily Pond](https://waterlilypond.co.uk/) - Advertising and marketing communication services.
-*   [wemake.services](https://wemake.services/meta/employees) - We sell repeatable software development process. Fully remote. Python, JavaScript, Vue
-*   [Wikimedia](https://wikimediafoundation.org/wiki/Work_with_us)
-*   [X-Team](https://x-team.com/join/) - Work on incredible web and mobile projects, with extraordinary developers. Unleash your potential. From anywhere. We are X-Team.
-*   [You Need a Budget](https://www.youneedabudget.com/jobs/) - Bank syncing and goals and debt management.
 *   [Zamphyr](https://zamphyr.com/) - School 2.0 for learning computer science. Remote-first, 100% JavaScript mostly Meteor.
-*   [Zapier](https://zapier.com/about/)
 *   [ZipRecruiter](https://www.ziprecruiter.com/careers) - Perl/Catalyst shop that has some of the best Perl devs working remotely.
 
 ## [9. Awesome Snmp](/content/eozer/awesome-snmp/README.md)
@@ -247,7 +170,6 @@
 ### IDE and Code Editing
 
 *   [MATLAB](https://in.mathworks.com/products/matlab/student.html) \[DISCOUNT] - MATLAB is a high-level technical computing language and interactive environment for algorithm development, data visualization, data analysis, and numerical computation.
-*   [Repl](https://replit.com/site/github-students) \[FREE] - An online IDE that lets you instantly code in over fifty languages. Hacker plan, includes unlimited private repls and multiplayer invites. Free for one year available via [Github Student Developer Pack](https://education.github.com/pack)
 
 ### Version Control
 
@@ -266,7 +188,6 @@
 ### SaaS
 
 *   [Notion.so](https://www.notion.so/product/notion-for-education) \[FREE] Free pro plan on Notion to Write, plan, collaborate, and get organized.
-*   [Algolia](https://www.algolia.com/developers/github/) \[FREE] - Hosted search API that provides support from front end to back end frameworks and libraries. 100k records and 1 million operations, valid for 1 year.
 
 ### PaaS
 
@@ -276,11 +197,6 @@
 ### CI / CD
 
 *   [ConfigCat](https://configcat.com/student/) \[FREE] - Learn feature flags with the industry leading feature flag service.1000 feature flags, ∞ users for free.
-
-### Management Systems
-
-*   [Vertabelo](https://www.vertabelo.com/) \[FREE] - Fully-featured online tool for database design. Free for Educational Purposes.
-*   [SQLSmash](https://student.sqlsmash.com/) \[FREE] - Productivity plugin for SQL Server Management Studio for writing maintainable SQL scripts and faster navigation.Free standard license for students.
 
 ### Maps
 
@@ -298,7 +214,6 @@
 
 *   [Astah](https://astah.net/products/free-student-license/) \[FREE] - One Year Professional License
 *   [Axure RP](https://www.axure.com/edu) \[FREE] - Free educational license of Axure RP Pro
-*   [Invision](https://www.invisionapp.com/education-signup) \[FREE] - Prototyping and Mockup tool
 *   [Framer](https://www.framer.com/pricing/) \[DISCOUNT] - Prototyping tool. 50% off when you get an educational license.
 
 ### Visual Analytics
@@ -323,21 +238,20 @@
 
 ### Learning Resources
 
-*   [Thinkful](https://www.thinkful.com/getstarted/software-engineering/intro-course/) \[FREE] - Learn Fundamentals of Web Development to launch your career as a developer.1 month of access to a web development course.
 *   [Arduino Education](https://www.arduino.cc/education/github-students) \[FREE] - Empower scientists and artists of the future with creative STEM programs.Free Arduino Create Maker plan for 6 months and discounts on selected hardware.
 
 ## [12. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
 ### Plugins / Code Quality
 
-*   [GitHub (⭐285)](https://github.com/github/eslint-plugin-github) - Misc. rules from GitHub.
-*   [@mysticatea/eslint-plugin (⭐25)](https://github.com/mysticatea/eslint-plugin) - Misc. rules.
+*   [GitHub (⭐295)](https://github.com/github/eslint-plugin-github) - Misc. rules from GitHub.
+*   [@mysticatea/eslint-plugin (⭐26)](https://github.com/mysticatea/eslint-plugin) - Misc. rules.
 *   [@brettz9/eslint-plugin (⭐2)](https://github.com/brettz9/eslint-plugin) - Misc. rules. of `@mysticatea` without the personal config.
 
 ### Plugins / Languages and Environments
 
 *   [Babel (⭐43k)](https://github.com/babel/babel/tree/main/eslint/babel-eslint-plugin) - Adds replacements for built-in rules to include Babel features.
-*   [eslint-plugin-eslint-plugin (⭐189)](https://github.com/not-an-aardvark/eslint-plugin-eslint-plugin) - An ESLint plugin for linting ESLint plugins.
+*   [eslint-plugin-eslint-plugin (⭐196)](https://github.com/not-an-aardvark/eslint-plugin-eslint-plugin) - An ESLint plugin for linting ESLint plugins.
 
 ### Plugins / Misc
 
@@ -345,12 +259,12 @@
 
 ### Plugins / Practices and Specific ES Features
 
-*   [eslint-plugin-write-good-comments (⭐32)](https://github.com/kantord/eslint-plugin-write-good-comments) - Enforce good writing style in comments.
-*   [import (⭐5.4k)](https://github.com/benmosher/eslint-plugin-import) - Linting of ES2015+ import/export syntax, and prevent issues with misspelling of file paths and import names. Still does not work with ESlint 9 and does not support flat configs.
+*   [eslint-plugin-write-good-comments (⭐36)](https://github.com/kantord/eslint-plugin-write-good-comments) - Enforce good writing style in comments.
+*   [import (⭐5.5k)](https://github.com/benmosher/eslint-plugin-import) - Linting of ES2015+ import/export syntax, and prevent issues with misspelling of file paths and import names.
 
 ### Tools / Testing Tools
 
-*   [eslint-define-config (⭐346)](https://github.com/Shinigami92/eslint-define-config) - Provide a `defineConfig` function for `.eslintrc.js` files.
+*   [eslint-define-config (⭐361)](https://github.com/Shinigami92/eslint-define-config) - Provide a `defineConfig` function for `.eslintrc.js` files.
 
 ## [13. Awesome Minecraft](/content/bs-community/awesome-minecraft/README.md)
 

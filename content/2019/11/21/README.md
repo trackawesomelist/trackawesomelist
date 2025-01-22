@@ -52,11 +52,11 @@
 ### OS and Kernels / Apache License
 
 *   [ada-kalinda-os](https://sourceforge.net/projects/sx-ada-kalinda/) - Ada KALINDA is a sort of Mac Plus like OS written in Ada95.
-*   [cxos (⭐35)](https://github.com/ajxs/cxos) - Ada Operating System development example.
+*   [cxos (⭐36)](https://github.com/ajxs/cxos) - Ada Operating System development example.
 
 ## [7. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 
-### Online services
+### Online services (a-z↓)
 
 *   [Reflect](https://reflect.run) - Visual regression testing and test automation tool.
 
@@ -70,15 +70,15 @@
 
 ### Audio
 
-*   [ModernAVPlayer (⭐280)](https://github.com/noreasonprojects/ModernAVPlayer) - Persistence AVPlayer to resume playback after bad network connection even in background mode.
+*   [ModernAVPlayer (⭐284)](https://github.com/noreasonprojects/ModernAVPlayer) - Persistence AVPlayer to resume playback after bad network connection even in background mode.
 
 ### Device
 
-*   [Deviice (⭐70)](https://github.com/andrealufino/Deviice) - Swift library to easily check the current device and some more info about it.
+*   [Deviice (⭐73)](https://github.com/andrealufino/Deviice) - Swift library to easily check the current device and some more info about it.
 
 ### Fonts
 
-*   [SYSymbol (⭐190)](https://github.com/Nirma/SFSymbol) - All the SFSymbols at your fingertips.
+*   [SYSymbol (⭐193)](https://github.com/Nirma/SFSymbol) - All the SFSymbols at your fingertips.
 
 ### Localization / Barcode
 

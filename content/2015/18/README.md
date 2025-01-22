@@ -41,7 +41,7 @@
 
 ### Machine Learning
 
-*   [MeTA (⭐691)](https://github.com/meta-toolkit/meta) - A modern C++ data sciences toolkit. \[MIT] [website](https://meta-toolkit.org/)
+*   [MeTA (⭐702)](https://github.com/meta-toolkit/meta) - A modern C++ data sciences toolkit. \[MIT] [website](https://meta-toolkit.org/)
 
 ## [7. Awesome Gametalks](/content/hzoo/awesome-gametalks/week/README.md)
 
@@ -53,7 +53,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [mlxtend (⭐4.8k)](https://github.com/rasbt/mlxtend) - A library consisting of useful tools for data science and machine learning tasks.
+*   [mlxtend (⭐4.9k)](https://github.com/rasbt/mlxtend) - A library consisting of useful tools for data science and machine learning tasks.
 
 ## [9. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
@@ -144,7 +144,13 @@ A weekly newsletter about PHP, security, and the community.
 
 *   [Emmet (⭐5.3k)](https://github.com/sergeche/emmet-sublime)
 
-## [12. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [12. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+
+### Job boards
+
+*   [Dribbble Jobs](https://dribbble.com/jobs?location=Anywhere)
+
+## [13. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Migrations
 
@@ -154,13 +160,13 @@ A weekly newsletter about PHP, security, and the community.
 
 *   [PHPMongo (⭐242)](https://github.com/sokil/php-mongo) - A MongoDB ORM.
 
-## [13. Awesome Hadoop](/content/youngwookim/awesome-hadoop/week/README.md)
+## [14. Awesome Hadoop](/content/youngwookim/awesome-hadoop/week/README.md)
 
 ### Libraries and Tools
 
 *   [Apache Zeppelin](https://zeppelin.incubator.apache.org/) - A web-based notebook that enables interactive data analytics
 
-## [14. Awesome R](/content/qinwf/awesome-R/week/README.md)
+## [15. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### Graphic Displays
 
@@ -172,8 +178,8 @@ A weekly newsletter about PHP, security, and the community.
 
 ### Database Management
 
-*   [elastic (⭐243)](https://github.com/ropensci/elastic) - Wrapper for the Elasticsearch HTTP API
-*   [mongolite (⭐282)](https://github.com/jeroenooms/mongolite) - Streaming Mongo Client for R
+*   [elastic (⭐245)](https://github.com/ropensci/elastic) - Wrapper for the Elasticsearch HTTP API
+*   [mongolite (⭐286)](https://github.com/jeroenooms/mongolite) - Streaming Mongo Client for R
 
 ### Natural Language Processing
 
@@ -181,13 +187,13 @@ A weekly newsletter about PHP, security, and the community.
 
 ### R Development
 
-*   [installr (⭐266)](https://github.com/talgalili/installr/) - Functions for installing softwares from within R (for Windows).
+*   [installr (⭐272)](https://github.com/talgalili/installr/) - Functions for installing softwares from within R (for Windows).
 
 ### MOOCs / Book/monograph Lists and Reviews
 
 *   [HarvardX Biomedical Data Science](http://simplystatistics.org/2014/11/25/harvardx-biomedical-data-science-open-online-training-curriculum-launches-on-january-19/) - Introduction to R for the Life Sciences.
 
-## [15. Awesome Answers](/content/cyberglot/awesome-answers/week/README.md)
+## [16. Awesome Answers](/content/cyberglot/awesome-answers/week/README.md)
 
 ### Algorithms
 
@@ -205,28 +211,15 @@ A weekly newsletter about PHP, security, and the community.
 
 *   [What do the top 1% of software engineers do that the other 99% do not?](http://qr.ae/0ILWY)
 
-## [16. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
-
-### Job boards
-
-*   [Dribbble Jobs](https://dribbble.com/jobs?location=Anywhere)
-
-### Companies with "remote DNA"
-
-*   [Compose](https://www.compose.io/jobs/) - Managing databases as a service. Distributed team with offices in San Meteo, CA and Birmingham, AL.
-*   [DuckDuckGo](https://duck.co/help/company/hiring) - Search engine.
-*   [Etsy](https://www.etsy.com/careers) - Marketplace for artists. MySQL, Memcache, PHP. Offices in Dublin, Paris, San Francisco, New York, London and Melbourne.
-*   [Eyeo](https://eyeo.com/en/jobs/) - Maker of AdBlock Plus. Main office in Cologne, Germany.
-
 ## [17. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Logging
 
-*   [rogger (⭐9)](https://github.com/duartejc/rogger) - Elixir logger to publish log messages in RabbitMQ.
+*   [rogger (⭐10)](https://github.com/duartejc/rogger) - Elixir logger to publish log messages in RabbitMQ.
 
 ### Queue
 
-*   [amqp (⭐676)](https://github.com/pma/amqp) - Simple Elixir wrapper for the Erlang RabbitMQ client, based on Langohr.
+*   [amqp (⭐685)](https://github.com/pma/amqp) - Simple Elixir wrapper for the Erlang RabbitMQ client, based on Langohr.
 
 ### XML
 

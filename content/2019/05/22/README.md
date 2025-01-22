@@ -10,7 +10,7 @@
 
 ### Example Projects
 
-*   [Angular Webapp secured with Keycloak (⭐359)](https://github.com/CodepediaOrg/bookmarks.dev)
+*   [Angular Webapp secured with Keycloak (⭐371)](https://github.com/CodepediaOrg/bookmarks.dev)
 
 ### Miscellaneous
 
@@ -45,7 +45,7 @@
 
 ### Utils / Third-party APIs
 
-*   [cl-gearman (⭐22)](https://github.com/taksatou/cl-gearman) - a library for the [Gearman (⭐731)](https://github.com/gearman/gearmand/) distributed job system. [LLGPL](http://opensource.franz.com/preamble.html).
+*   [cl-gearman (⭐22)](https://github.com/taksatou/cl-gearman) - a library for the [Gearman (⭐742)](https://github.com/gearman/gearmand/) distributed job system. [LLGPL](http://opensource.franz.com/preamble.html).
 
 ## [7. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
@@ -80,10 +80,6 @@
 
 *   [A Zen Manifesto for Effective Code Reviews](https://medium.freecodecamp.org/a-zen-manifesto-for-effective-code-reviews-e30b5c95204a) Practical tips for the submitter and the reviewer to make effective code reviews.
 
-### Tools
-
-*   [GitRise](https://www.gitrise.com/) Slack Reminders for GitHub pull requests
-
 ## [9. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Firebase
@@ -92,7 +88,7 @@
 
 ### Game Engine
 
-*   [glide engine (⭐486)](https://github.com/cocoatoucher/Glide) - SpriteKit and GameplayKit based engine for making 2d games, with practical examples and tutorials.
+*   [glide engine (⭐494)](https://github.com/cocoatoucher/Glide) - SpriteKit and GameplayKit based engine for making 2d games, with practical examples and tutorials.
 
 ### Validation / Barcode
 
@@ -102,31 +98,31 @@
 
 ### HAL implementation crates / STMicroelectronics
 
-*   [`stm32l0xx-hal`](https://crates.io/crates/stm32l0xx-hal) - ![crates.io](https://img.shields.io/crates/v/stm32l0xx-hal.svg)
+*   [`stm32l0xx-hal`](https://crates.io/crates/stm32l0xx-hal) - [![crates.io](https://img.shields.io/crates/v/stm32l0xx-hal.svg)](https://crates.io/crates/stm32l0xx-hal)
     *   HAL implementation for the the STMicro STM32L0xx family of microcontrollers
 
 ## [11. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
 ### GitHub Pages / Code Coverage
 
-*   [GitHub Actions for deploying to GitHub Pages with Static Site Generators (⭐3.4k)](https://github.com/peaceiris/actions-gh-pages)
+*   [GitHub Actions for deploying to GitHub Pages with Static Site Generators (⭐4.6k)](https://github.com/peaceiris/actions-gh-pages)
 
 ### Frontend Tools / Terraform
 
-*   [GitHub Actions for Hugo extended (⭐1.1k)](https://github.com/peaceiris/actions-hugo)
+*   [GitHub Actions for Hugo extended (⭐1.4k)](https://github.com/peaceiris/actions-hugo)
 
 ## [12. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Internationalization
 
-*   [utf8proc (⭐1k)](https://github.com/JuliaStrings/utf8proc) - A clean C library for processing UTF-8 Unicode data. \[MIT]
+*   [utf8proc (⭐1.1k)](https://github.com/JuliaStrings/utf8proc) - A clean C library for processing UTF-8 Unicode data. \[MIT]
 
 ## [13. Awesome R](/content/qinwf/awesome-R/README.md)
 
 ### Data Manipulation
 
-*   [snakecase (⭐142)](https://github.com/Tazinho/snakecase) - Automatically parse and convert strings into cases like snake or camel among others.
-*   [DataExplorer (⭐487)](https://github.com/boxuancui/DataExplorer) - Fast exploratory data analysis with minimum code.
+*   [snakecase (⭐147)](https://github.com/Tazinho/snakecase) - Automatically parse and convert strings into cases like snake or camel among others.
+*   [DataExplorer (⭐513)](https://github.com/boxuancui/DataExplorer) - Fast exploratory data analysis with minimum code.
 
 ### Reproducible Research
 

@@ -191,11 +191,11 @@
 
 ### Registry
 
-*   [nrm (⭐2.7k)](https://github.com/Pana/nrm) - Registry manager.
+*   [nrm (⭐2.8k)](https://github.com/Pana/nrm) - Registry manager.
 
 ### Other
 
-*   [ntl (⭐896)](https://github.com/ruyadorno/ntl) - Interactive CLI menu to list & run npm tasks.
+*   [ntl (⭐932)](https://github.com/ruyadorno/ntl) - Interactive CLI menu to list & run npm tasks.
 
 ## [8. Awesome PICO 8](/content/pico-8/awesome-PICO-8/README.md)
 

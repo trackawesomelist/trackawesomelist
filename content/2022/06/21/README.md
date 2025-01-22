@@ -10,7 +10,7 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [sudo (none9632) (⭐9)](https://github.com/none9632/zsh-sudo/) - Adds `sudo` as a prefix to the current command by typing `ESC`-`ESC`.
+*   [sudo (none9632) (⭐10)](https://github.com/none9632/zsh-sudo/) - Adds `sudo` as a prefix to the current command by typing `ESC`-`ESC`.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -32,7 +32,7 @@
 
 ### Libraries/Frameworks / Jetpack-Compose
 
-*   [Canopas/Intro-showcase-view (⭐457)](https://github.com/Canopas/Intro-showcase-view) - An android library to highlight different features of the app built using Jetpack Compose.
+*   [Canopas/Intro-showcase-view (⭐489)](https://github.com/Canopas/Intro-showcase-view) - An android library to highlight different features of the app built using Jetpack Compose.
 
 ## [5. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/README.md)
 

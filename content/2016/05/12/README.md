@@ -50,7 +50,7 @@
 *   [Neural Caption Generator with Attention (⭐507)](https://github.com/jazzsaxmafia/show_attend_and_tell.tensorflow) - Implementation of ["Show, Attend and Tell"](http://arxiv.org/abs/1502.03044)
 *   [Weakly\_detector (⭐361)](https://github.com/jazzsaxmafia/Weakly_detector) - Implementation of ["Learning Deep Features for Discriminative Localization"](http://cnnlocalization.csail.mit.edu/)
 *   [Dynamic Capacity Networks (⭐9)](https://github.com/jazzsaxmafia/dcn.tf) - Implementation of ["Dynamic Capacity Networks"](http://arxiv.org/abs/1511.07838)
-*   [HMM in TensorFlow (⭐285)](https://github.com/dwiel/tensorflow_hmm) - Implementation of viterbi and forward/backward algorithms for HMM
+*   [HMM in TensorFlow (⭐287)](https://github.com/dwiel/tensorflow_hmm) - Implementation of viterbi and forward/backward algorithms for HMM
 *   [DeepOSM (⭐1.3k)](https://github.com/trailbehind/DeepOSM) - Train TensorFlow neural nets with OpenStreetMap features and satellite imagery.
 
 ### Powered by TensorFlow
@@ -87,7 +87,7 @@
 
 ### Examples and funny stuff
 
-*   [oop (⭐306)](https://github.com/wojtekmach/oop) - OOP in Elixir.
+*   [oop (⭐315)](https://github.com/wojtekmach/oop) - OOP in Elixir.
 
 ## [7. Awesome Canvas](/content/raphamorim/awesome-canvas/README.md)
 

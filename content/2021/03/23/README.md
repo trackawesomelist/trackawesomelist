@@ -10,7 +10,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [Backprop (⭐241)](https://github.com/backprop-ai/backprop) - Backprop makes it simple to use, finetune, and deploy state-of-the-art ML models.
+*   [Backprop (⭐243)](https://github.com/backprop-ai/backprop) - Backprop makes it simple to use, finetune, and deploy state-of-the-art ML models.
 
 ## [2. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 
@@ -103,7 +103,7 @@
 
 ### Modules / CLI utils
 
-*   [chart (⭐63)](https://github.com/maximousblk/chart) - Console ASCII line charts with no dependencies.
+*   [chart (⭐65)](https://github.com/maximousblk/chart) - Console ASCII line charts with no dependencies.
 
 ## [7. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
@@ -115,7 +115,7 @@
 
 ### Developer Tools / Other Tools
 
-*   [FastAPI Code Generator (⭐988)](https://github.com/koxudaxi/fastapi-code-generator) - Create a FastAPI app from an OpenAPI file, enabling schema-driven development.
+*   [FastAPI Code Generator (⭐1.1k)](https://github.com/koxudaxi/fastapi-code-generator) - Create a FastAPI app from an OpenAPI file, enabling schema-driven development.
 
 ### Courses / Other Tools
 
@@ -131,7 +131,7 @@
 
 ### UI / Calendar
 
-*   [Time Planner (⭐215)](https://github.com/Jamalianpour/time_planner) <!--stargazers:Jamalianpour/time_planner--> - A beautiful, easy to use and customizable time planner for flutter mobile, desktop and web by [Mohammad Jamalianpour](https://github.com/Jamalianpour)
+*   [Time Planner (⭐224)](https://github.com/Jamalianpour/time_planner) <!--stargazers:Jamalianpour/time_planner--> - A beautiful, easy to use and customizable time planner for flutter mobile, desktop and web by [Mohammad Jamalianpour](https://github.com/Jamalianpour)
 
 ## [11. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 

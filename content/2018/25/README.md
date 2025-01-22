@@ -188,7 +188,7 @@
 
 ### Standalone / Hash functions
 
-*   [ironssh (⭐62)](https://github.com/IronCoreLabs/ironssh) - End-to-end encrypt transferred files using sftp/scp and selectively share with others. Automatic key management works with any SSH server. Encrypted files are gpg compatible.
+*   [ironssh (⭐63)](https://github.com/IronCoreLabs/ironssh) - End-to-end encrypt transferred files using sftp/scp and selectively share with others. Automatic key management works with any SSH server. Encrypted files are gpg compatible.
 
 ## [17. Awesome Maintainers](/content/nayafia/awesome-maintainers/week/README.md)
 
@@ -199,7 +199,7 @@
 
 ### ASM / Music drivers and trackers
 
-*   [hardware.inc (⭐114)](https://github.com/tobiasvl/hardware.inc) - Standard include file containing Game Boy hardware definitions for use in RGBDS projects.
+*   [hardware.inc (⭐121)](https://github.com/tobiasvl/hardware.inc) - Standard include file containing Game Boy hardware definitions for use in RGBDS projects.
 
 ## [19. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/week/README.md)
 
@@ -233,11 +233,11 @@
 
 ### GTFS Based Visualizations
 
-*   [gtfspy-webviz (⭐49)](https://github.com/CxAalto/gtfspy-webviz) - Web application for animation and visualization of GTFS data using [gtfspy (⭐155)](https://github.com/CxAalto/gtfspy).
+*   [gtfspy-webviz (⭐55)](https://github.com/CxAalto/gtfspy-webviz) - Web application for animation and visualization of GTFS data using [gtfspy (⭐160)](https://github.com/CxAalto/gtfspy).
 
 ## [23. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
-### Fact Checking / Telegram
+### Fact Checking / Steam
 
 *   [Captin Fact](https://captainfact.io/)
 
@@ -281,15 +281,15 @@
 
 ### Software / Communication - Social Networks and Forums
 
-*   [Movim](https://movim.eu/) - Modern, federated social network based on XMPP, with a fully featured group-chat, subscriptions and microblogging. ([Source Code (⭐1.7k)](https://github.com/movim/movim)) `AGPL-3.0` `PHP/Docker`
+*   [Movim](https://movim.eu/) - Modern, federated social network based on XMPP, with a fully featured group-chat, subscriptions and microblogging. ([Source Code (⭐1.8k)](https://github.com/movim/movim)) `AGPL-3.0` `PHP/Docker`
 
 ### Software / File Transfer & Synchronization
 
-*   [ownCloud](https://owncloud.org/) - All-in-one solution for saving, synchronizing, viewing, editing and sharing files, calendars, address books and more. ([Source Code (⭐8.3k)](https://github.com/owncloud/core), [Clients (⭐8.3k)](https://github.com/owncloud/core/wiki/Apps)) `AGPL-3.0` `PHP/Docker/deb`
+*   [ownCloud](https://owncloud.org/) - All-in-one solution for saving, synchronizing, viewing, editing and sharing files, calendars, address books and more. ([Source Code (⭐8.4k)](https://github.com/owncloud/core), [Clients (⭐8.4k)](https://github.com/owncloud/core/wiki/Apps)) `AGPL-3.0` `PHP/Docker/deb`
 
 ### Software / Office Suites
 
-*   [ONLYOFFICE](https://helpcenter.onlyoffice.com/faq/server-opensource.aspx) - Office suite that enables you to manage documents, projects, team and customer relations in one place. ([Source Code (⭐4.7k)](https://github.com/ONLYOFFICE/DocumentServer)) `AGPL-3.0` `Nodejs/Docker`
+*   [ONLYOFFICE](https://helpcenter.onlyoffice.com/faq/server-opensource.aspx) - Office suite that enables you to manage documents, projects, team and customer relations in one place. ([Source Code (⭐5.1k)](https://github.com/ONLYOFFICE/DocumentServer)) `AGPL-3.0` `Nodejs/Docker`
 
 ## [27. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
 
@@ -347,11 +347,11 @@
 
 ### Packages / Command-line utilities
 
-*   [cli-table3 (⭐521)](https://github.com/cli-table/cli-table3) - Pretty unicode tables.
+*   [cli-table3 (⭐543)](https://github.com/cli-table/cli-table3) - Pretty unicode tables.
 
 ### Packages / Content management systems
 
-*   [KeystoneJS (⭐9.1k)](https://github.com/keystonejs/keystone) - CMS and web application platform built on Express and MongoDB.
+*   [KeystoneJS (⭐9.3k)](https://github.com/keystonejs/keystone) - CMS and web application platform built on Express and MongoDB.
 
 ## [32. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
@@ -365,7 +365,7 @@
 
 ### Utility / Barcode
 
-*   [swift-protobuf (⭐4.5k)](https://github.com/apple/swift-protobuf) :penguin: - A plugin and runtime library for using Google's Protocol Buffer.
+*   [swift-protobuf (⭐4.6k)](https://github.com/apple/swift-protobuf) :penguin: - A plugin and runtime library for using Google's Protocol Buffer.
 
 ## [33. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
 
@@ -450,7 +450,7 @@ Webpage: <http://ogniwo.org/>
 
 ### Caching
 
-*   [nebulex (⭐1.2k)](https://github.com/cabol/nebulex) - A fast, flexible and extensible distributed and local caching library for Elixir.
+*   [nebulex (⭐1.3k)](https://github.com/cabol/nebulex) - A fast, flexible and extensible distributed and local caching library for Elixir.
 
 ### Third Party APIs
 
@@ -464,7 +464,7 @@ Webpage: <http://ogniwo.org/>
 
 ### Developer Tools / Databases
 
-*   [Navicat Data Modeler](https://www.navicat.com/en/products/navicat-data-modeler) - Powerful and cost-effective database design tool which helps you build high-quality conceptual, logical and physical data models.
+*   [Navicat Data Modeler](https://www.navicat.com/en/products/navicat-data-modeler) - Cost-effective database design tool for high-quality data models.
 
 ### Design and Product / Design Tools
 
@@ -505,15 +505,15 @@ Webpage: <http://ogniwo.org/>
 
 ### CLI Builders
 
-*   [clicr (⭐29)](https://github.com/j8r/clicr) -  A simple declarative command line interface builder
+*   [clicr (⭐30)](https://github.com/j8r/clicr) -  A simple declarative command line interface builder
 
 ### Converters
 
-*   [money (⭐31)](https://github.com/crystal-money/money) - Handling money and currency conversion with ease (almost complete port of [RubyMoney (⭐2.7k)](https://github.com/RubyMoney/money))
+*   [money (⭐32)](https://github.com/crystal-money/money) - Handling money and currency conversion with ease (almost complete port of [RubyMoney (⭐2.8k)](https://github.com/RubyMoney/money))
 
 ### Framework Components
 
-*   [device\_detector (⭐22)](https://github.com/creadone/device_detector) - Shard for detect device by user agent string
+*   [device\_detector (⭐23)](https://github.com/creadone/device_detector) - Shard for detect device by user agent string
 
 ### Unofficial
 
@@ -521,7 +521,7 @@ Webpage: <http://ogniwo.org/>
 
 ### Official Documentation Translations
 
-*   [mpngin (⭐32)](https://github.com/thewalkingtoast/mpngin) - A URL shortener with simple stats
+*   [mpngin (⭐33)](https://github.com/thewalkingtoast/mpngin) - A URL shortener with simple stats
 
 ## [45. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
@@ -533,7 +533,7 @@ Webpage: <http://ogniwo.org/>
 ### GUI
 
 *   [Robo 3T (⭐9.3k)](https://github.com/Studio3T/robomongo) - Robo 3T (formerly Robomongo) is a shell-centric cross-platform MongoDB management tool.
-*   [Tabix (⭐2.1k)](https://github.com/tabixio/tabix) - SQL Editor & Open source simple business intelligence for Clickhouse.
+*   [Tabix (⭐2.2k)](https://github.com/tabixio/tabix) - SQL Editor & Open source simple business intelligence for Clickhouse.
 
 ### CLI
 
@@ -541,17 +541,17 @@ Webpage: <http://ogniwo.org/>
 
 ### Schema / Changes
 
-*   [node-pg-migrate (⭐1.2k)](https://github.com/salsita/node-pg-migrate) - Node.js database migration management built exclusively for postgres. (But can also be used for other DBs conforming to SQL standard - e.g. CockroachDB.)
+*   [node-pg-migrate (⭐1.3k)](https://github.com/salsita/node-pg-migrate) - Node.js database migration management built exclusively for postgres. (But can also be used for other DBs conforming to SQL standard - e.g. CockroachDB.)
 
 ### Monitoring/Statistics/Perfomance / Samples
 
-*   [pganalyze collector (⭐322)](https://github.com/pganalyze/collector) - Pganalyze statistics collector for gathering PostgreSQL metrics and log data.
-*   [PgHero (⭐7.8k)](https://github.com/ankane/pghero) - A performance dashboard for Postgres - health checks, suggested indexes, and more.
-*   [pgstats (⭐114)](https://github.com/gleu/pgstats) - Collects PostgreSQL statistics, and either saves them in CSV files or print them on the stdout.
+*   [pganalyze collector (⭐341)](https://github.com/pganalyze/collector) - Pganalyze statistics collector for gathering PostgreSQL metrics and log data.
+*   [PgHero (⭐8.3k)](https://github.com/ankane/pghero) - A performance dashboard for Postgres - health checks, suggested indexes, and more.
+*   [pgstats (⭐118)](https://github.com/gleu/pgstats) - Collects PostgreSQL statistics, and either saves them in CSV files or print them on the stdout.
 
 ### Testing / Zabbix
 
-*   [DbFit (⭐229)](https://github.com/dbfit/dbfit) - A database testing framework that supports easy test-driven development of your database code.
+*   [DbFit (⭐233)](https://github.com/dbfit/dbfit) - A database testing framework that supports easy test-driven development of your database code.
 
 ### DevOps / Zabbix
 
@@ -571,12 +571,12 @@ Webpage: <http://ogniwo.org/>
 
 ### UI
 
-*   [Flip Panel (⭐609)](https://github.com/hnvn/flutter_flip_panel) <!--stargazers:hnvn/flutter_flip_panel--> - Flip panel with built-in animation by [HungHD](https://github.com/hnvn)
-*   [Facebook Reactions (⭐419)](https://github.com/duytq94/facebook-reaction-animation) <!--stargazers:duytq94/facebook-reaction-animation--> - Facebook reactions widget by [Duy Tran](https://github.com/duytq94)
+*   [Flip Panel (⭐611)](https://github.com/hnvn/flutter_flip_panel) <!--stargazers:hnvn/flutter_flip_panel--> - Flip panel with built-in animation by [HungHD](https://github.com/hnvn)
+*   [Facebook Reactions (⭐435)](https://github.com/duytq94/facebook-reaction-animation) <!--stargazers:duytq94/facebook-reaction-animation--> - Facebook reactions widget by [Duy Tran](https://github.com/duytq94)
 
 ### Text & Rich Content / Image Picker
 
-*   [Masked Text (⭐274)](https://github.com/benhurott/flutter-masked-text) <!--stargazers:benhurott/flutter-masked-text--> - Masked text with custom and monetary formatting by [Ben-hur Santos Ott](https://github.com/benhurott)
+*   [Masked Text (⭐276)](https://github.com/benhurott/flutter-masked-text) <!--stargazers:benhurott/flutter-masked-text--> - Masked text with custom and monetary formatting by [Ben-hur Santos Ott](https://github.com/benhurott)
 
 ## [48. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
@@ -584,30 +584,19 @@ Webpage: <http://ogniwo.org/>
 
 *   [API Driven Development With Laravel and VueJS (Free Course)](https://serversideup.net/courses/api-driven-development-laravel-vuejs/) on serversideup.net
 
-### Resources / Examples
-
-*   [Hands-On Web Development with Vue.js](https://www.packtpub.com/web-development/hands-web-development-vuejs-video) by Roman Kuba, Packt. (May 2018)
-
 ### Resources / Books
 
 *   [Full-Stack Web Development with Vue.js and Node](https://www.amazon.com/Full-Stack-Web-Development-Vue-js-Node/dp/1788831144) by Aneeta Sharma, Packt. (May 2018)
 
 ### Projects Using Vue.js / Open Source
 
-*   [Ride Receipts (⭐143)](https://github.com/ridereceipts/ridereceipts) - Simple automation desktop app to download and organize your tax invoices from Uber and Lyft.
-*   [Laqu-l (⭐135)](https://github.com/laqul/laqul) - A complete App starter kit with Quasar Framework, GraphQL API backend with OAUTH 2.0 authentication, Firebase ready, multilanguage capability and more.
-*   [Minimal Notes (⭐131)](https://github.com/vladocar/Minimal-Notes) - Web app build with Vue.js
-
-### Components & Libraries / UI Utilities
-
-*   [vue-page-visibility-awesome (⭐11)](https://github.com/stefanodotit/vue-page-visibility-awesome) - A Vue 2.x component of easy-to-config page visibility api.
-*   [vue-authplugin (⭐6)](https://github.com/vv13/vue-authplugin) - an elegant view auth control plugin, support directive and prototype methods.
+*   [Minimal Notes (⭐134)](https://github.com/vladocar/Minimal-Notes) - Web app build with Vue.js
 
 ## [49. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### Security / Other
 
-*   [Jwks RSA (⭐193)](https://github.com/auth0/jwks-rsa-java) - JSON Web Key Set parser.
+*   [Jwks RSA (⭐195)](https://github.com/auth0/jwks-rsa-java) - JSON Web Key Set parser.
 
 ---
 

@@ -10,12 +10,12 @@
 
 ### DevOps Tools
 
-*   [Sunzi (⭐447)](https://github.com/kenn/sunzi) - Server provisioning utility for minimalists
+*   [Sunzi (⭐446)](https://github.com/kenn/sunzi) - Server provisioning utility for minimalists
 
 ### Machine Learning
 
 *   [AI4R (⭐713)](https://github.com/sergiofierens/ai4r) - Algorithms covering several Artificial intelligence fields.
-*   [ruby-fann (⭐492)](https://github.com/tangledpath/ruby-fann) - Ruby library for interfacing with FANN (Fast Artificial Neural Network).
+*   [ruby-fann (⭐498)](https://github.com/tangledpath/ruby-fann) - Ruby library for interfacing with FANN (Fast Artificial Neural Network).
 
 ### Process Management and Monitoring
 
@@ -25,7 +25,7 @@
 ### Scientific
 
 *   Bindings
-    *   [PyCall (⭐1k)](https://github.com/mrkn/pycall.rb) - Calling Python functions from the Ruby language.
+    *   [PyCall (⭐1.1k)](https://github.com/mrkn/pycall.rb) - Calling Python functions from the Ruby language.
     *   [ruby-opencv (⭐814)](https://github.com/ruby-opencv/ruby-opencv) - An OpenCV wrapper for Ruby.
 
 ## [2. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/README.md)
@@ -98,7 +98,7 @@
 
 ### Plugins / Style
 
-*   [Simple import sort (⭐2k)](https://github.com/lydell/eslint-plugin-simple-import-sort) - Easy autofixable import sorting.
+*   [Simple import sort (⭐2.1k)](https://github.com/lydell/eslint-plugin-simple-import-sort) - Easy autofixable import sorting.
 *   [Switch case (⭐17)](https://github.com/lukeapage/eslint-plugin-switch-case) - Switch-case-specific linting rules for ESLint.
 
 ## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
@@ -111,8 +111,8 @@
 
 ### Deployment / Code Coverage
 
-*   [Trigger multiple GitLab CI Pipeline (⭐60)](https://github.com/appleboy/gitlab-ci-action)
-*   [Trigger multiple Jenkins Jobs (⭐78)](https://github.com/appleboy/jenkins-action)
+*   [Trigger multiple GitLab CI Pipeline (⭐65)](https://github.com/appleboy/gitlab-ci-action)
+*   [Trigger multiple Jenkins Jobs (⭐90)](https://github.com/appleboy/jenkins-action)
 
 ## [8. Awesome](/content/Awesome-Windows/Awesome/README.md)
 
@@ -130,14 +130,14 @@
 
 ### Files and Directories / Search
 
-*   [fselect (⭐3.8k)](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries.
+*   [fselect (⭐4k)](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries.
 
 ### Just for Fun / Image Conversion
 
-*   [fortune (⭐377)](https://github.com/shlomif/fortune-mod) - Shows a random fortune.
+*   [fortune (⭐430)](https://github.com/shlomif/fortune-mod) - Shows a random fortune.
 *   [ponysay (⭐1.2k)](https://github.com/erkin/ponysay) - Pony rewrite of cowsay.
-*   [yosay (⭐206)](https://github.com/yeoman/yosay) - Like cowsay, but for yeoman.
-*   [lolcat (⭐5.9k)](https://github.com/busyloop/lolcat) - Outputs text in rainbow colors.
+*   [yosay (⭐205)](https://github.com/yeoman/yosay) - Like cowsay, but for yeoman.
+*   [lolcat (⭐6.1k)](https://github.com/busyloop/lolcat) - Outputs text in rainbow colors.
 
 ---
 

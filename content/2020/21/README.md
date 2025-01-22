@@ -1,6 +1,6 @@
 # Awesome List Updates on May 25 - May 31, 2020
 
-66 awesome lists updated this week.
+65 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -48,13 +48,13 @@
 
 ### Status Bar
 
-*   [tmux-colortag (⭐96)](https://github.com/Determinant/tmux-colortag) a plugin/theme that colors the tmux window tags.
+*   [tmux-colortag (⭐97)](https://github.com/Determinant/tmux-colortag) a plugin/theme that colors the tmux window tags.
 
 ## [4. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### no-std crates / WIP
 
-*   [embedded-websocket](https://crates.io/crates/embedded-websocket): A lightweight server and client websocket library for embedded systems. ![crates.io](https://img.shields.io/crates/v/embedded-websocket.svg)
+*   [embedded-websocket](https://crates.io/crates/embedded-websocket): A lightweight server and client websocket library for embedded systems. [![crates.io](https://img.shields.io/crates/v/embedded-websocket.svg)](https://crates.io/crates/embedded-websocket)
 
 ## [5. Awesome Web Monetization](/content/thomasbnt/awesome-web-monetization/week/README.md)
 
@@ -93,7 +93,7 @@
 
 ### Contents / Games
 
-*   [Impossiblocks (⭐105)](https://github.com/javipacheco/impossiblocks) -Brain training game made by [Javi Pacheco](https://github.com/javipacheco).
+*   [Impossiblocks (⭐108)](https://github.com/javipacheco/impossiblocks) -Brain training game made by [Javi Pacheco](https://github.com/javipacheco).
 
 ## [8. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
@@ -105,7 +105,7 @@
 
 ### Configuration / Text-Based User Interfaces
 
-*   [config (⭐6.1k)](https://github.com/lightbend/config) - Configuration library supporting Java properties, JSON or its human optimized superset HOCON.
+*   [config (⭐6.2k)](https://github.com/lightbend/config) - Configuration library supporting Java properties, JSON or its human optimized superset HOCON.
 
 ### Database / Text-Based User Interfaces
 
@@ -117,7 +117,7 @@
 
 ### Job Scheduling / Text-Based User Interfaces
 
-*   [JobRunr (⭐2.3k)](https://github.com/jobrunr/jobrunr) - Job scheduling library which utilizes lambdas for fire-and-forget, delayed and recurring jobs. Guarantees execution by single scheduler instance using optimistic locking. Has features for persistence, minimal dependencies and is embeddable.
+*   [JobRunr (⭐2.4k)](https://github.com/jobrunr/jobrunr) - Job scheduling library which utilizes lambdas for fire-and-forget, delayed and recurring jobs. Guarantees execution by single scheduler instance using optimistic locking. Has features for persistence, minimal dependencies and is embeddable.
 
 ## [10. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
 
@@ -127,7 +127,7 @@
 
 ### Communications / DNS
 
-*   [MicroDNSSrv (⭐72)](https://github.com/jczic/MicroDNSSrv) - A micro DNS server for MicroPython to simply respond to A queries on multi-domains with or without wildcards (used on Pycom modules & ESP32).
+*   [MicroDNSSrv (⭐75)](https://github.com/jczic/MicroDNSSrv) - A micro DNS server for MicroPython to simply respond to A queries on multi-domains with or without wildcards (used on Pycom modules & ESP32).
 
 ### Communications / IoT
 
@@ -135,7 +135,7 @@
 
 ### Communications / NTP
 
-*   [micropython-ntpclient (⭐5)](https://github.com/wieck/micropython-ntpclient) - NTP client for MicroPython using uasyncio.
+*   [micropython-ntpclient (⭐6)](https://github.com/wieck/micropython-ntpclient) - NTP client for MicroPython using uasyncio.
 
 ### Communications / Radio
 
@@ -149,12 +149,12 @@
 
 ### Communications / Web
 
-*   [uwebsockets (⭐182)](https://github.com/danni/uwebsockets) - MicroPython WebSocket implementation for ESP8266.
-*   [microdot (⭐1.5k)](https://github.com/miguelgrinberg/microdot) - The impossibly small web framework for MicroPython.
+*   [uwebsockets (⭐197)](https://github.com/danni/uwebsockets) - MicroPython WebSocket implementation for ESP8266.
+*   [microdot (⭐1.6k)](https://github.com/miguelgrinberg/microdot) - The impossibly small web framework for MicroPython.
 
 ### Display / LCD TFT
 
-*   [st7789py\_mpy (⭐77)](https://github.com/devbis/st7789py_mpy) - Slow MicroPython driver for 240x240 ST7789 display without CS pin from AliExpress, written in MicroPython.
+*   [st7789py\_mpy (⭐87)](https://github.com/devbis/st7789py_mpy) - Slow MicroPython driver for 240x240 ST7789 display without CS pin from AliExpress, written in MicroPython.
 
 ### Display / LED Segment
 
@@ -179,44 +179,44 @@
 
 ### Mathematics / Waveform Generator
 
-*   [micropython-ulab (⭐395)](https://github.com/v923z/micropython-ulab) - A NumPy-like fast vector module for MicroPython.
+*   [micropython-ulab (⭐445)](https://github.com/v923z/micropython-ulab) - A NumPy-like fast vector module for MicroPython.
 *   [micropython-mtx](https://gitlab.com/nickoala/micropython-mtx) - Fast Matrix Multiplication and Linear Solver on MicroPython.
 *   [micropython-vec](https://gitlab.com/nickoala/micropython-vec) - Vector Operations on MicroPython.
 
 ### Sensors / Air Quality
 
-*   [micropython-pms7003 (⭐31)](https://github.com/pkucmus/micropython-pms7003) - MicroPython driver for the PMS7003 Air Quality Sensor.
+*   [micropython-pms7003 (⭐33)](https://github.com/pkucmus/micropython-pms7003) - MicroPython driver for the PMS7003 Air Quality Sensor.
 
 ### Sensors / Gaseous
 
-*   [micropython-scd30 (⭐24)](https://github.com/agners/micropython-scd30) - MicroPython I2C driver for Sensirion SCD30 CO2 sensor module.
+*   [micropython-scd30 (⭐25)](https://github.com/agners/micropython-scd30) - MicroPython I2C driver for Sensirion SCD30 CO2 sensor module.
 
 ### Sensors / Load Cell
 
-*   [micropython-hx711 (⭐77)](https://github.com/SergeyPiskunov/micropython-hx711) - MicroPython driver for HX711 24-Bit Analog-to-Digital Converter.
+*   [micropython-hx711 (⭐79)](https://github.com/SergeyPiskunov/micropython-hx711) - MicroPython driver for HX711 24-Bit Analog-to-Digital Converter.
 
 ### Scheduling / Touch Resistive
 
-*   [micropython-mcron (⭐35)](https://github.com/fizista/micropython-mcron) - MicroCRON is a time-based task scheduling program for MicroPython.
+*   [micropython-mcron (⭐36)](https://github.com/fizista/micropython-mcron) - MicroCRON is a time-based task scheduling program for MicroPython.
 
-### Storage / Database
+### Storage / Databases
 
 *   [nmongo (⭐20)](https://github.com/nakagami/nmongo) - MongoDB client for CPython and MicroPython, with MongoDB shell-like APIs.
 
 ### Code Generation / SRAM
 
-*   [micropy-cli (⭐310)](https://github.com/BradenM/micropy-cli) - Micropy CLI is a project management/generation tool for writing MicroPython code in modern IDEs such as Visual Studio Code.
-*   [micropython-stubber (⭐168)](https://github.com/Josverl/micropython-stubber) - Generate and use stubs for different MicroPython firmwares to use with Visual Studio Code or any IDE and linter.
+*   [micropy-cli (⭐320)](https://github.com/BradenM/micropy-cli) - Micropy CLI is a project management/generation tool for writing MicroPython code in modern IDEs such as Visual Studio Code.
+*   [micropython-stubber (⭐195)](https://github.com/Josverl/micropython-stubber) - Generate and use stubs for different MicroPython firmwares to use with Visual Studio Code or any IDE and linter.
 
 ### Shells / On Device
 
-*   [upy-shell (⭐37)](https://github.com/dhylands/upy-shell) - A simple command line-based shell for MicroPython.
-*   [Micropython-Editor (⭐218)](https://github.com/robert-hh/Micropython-Editor) - Small on-board editor for Pyboard, WiPy, ESP8266, ESP32, PyCom and Adafruit devices written in Python.
+*   [upy-shell (⭐40)](https://github.com/dhylands/upy-shell) - A simple command line-based shell for MicroPython.
+*   [Micropython-Editor (⭐229)](https://github.com/robert-hh/Micropython-Editor) - Small on-board editor for Pyboard, WiPy, ESP8266, ESP32, PyCom and Adafruit devices written in Python.
 
 ### Shells / On Host
 
-*   [rshell (⭐930)](https://github.com/dhylands/rshell) - Copy or sync files to boards, enter REPL from your terminal.
-*   [mpfshell (⭐394)](https://github.com/wendlers/mpfshell) - A simple shell-based file explorer for ESP8266 and WiPy.
+*   [rshell (⭐968)](https://github.com/dhylands/rshell) - Copy or sync files to boards, enter REPL from your terminal.
+*   [mpfshell (⭐405)](https://github.com/wendlers/mpfshell) - A simple shell-based file explorer for ESP8266 and WiPy.
 
 ## [11. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
 
@@ -243,7 +243,7 @@
 
 ### QA Tools / Runner
 
-*   [JS-Beautifier (⭐8.5k)](https://github.com/beautify-web/js-beautify) - Npm cli and library to format JS code.
+*   [JS-Beautifier (⭐8.6k)](https://github.com/beautify-web/js-beautify) - Npm cli and library to format JS code.
 
 ### API / Runner
 
@@ -372,7 +372,7 @@
 
 ### Deployment / Docker
 
-*   [Set up Docker Buildx (⭐228)](https://github.com/crazy-max/ghaction-docker-buildx)
+*   [Set up Docker Buildx (⭐226)](https://github.com/crazy-max/ghaction-docker-buildx)
 
 ## [23. Awesome Economics](/content/antontarasenko/awesome-economics/week/README.md)
 
@@ -409,11 +409,11 @@
 
 ### Community Extensions
 
-*   [zonaut/keycloak-extensions (⭐207)](https://github.com/zonaut/keycloak-extensions)
+*   [zonaut/keycloak-extensions (⭐216)](https://github.com/zonaut/keycloak-extensions)
 
 ### Integrations
 
-*   [python-keycloak (⭐690)](https://github.com/marcospereirampj/python-keycloak)
+*   [python-keycloak (⭐751)](https://github.com/marcospereirampj/python-keycloak)
 
 ### Themes
 
@@ -423,7 +423,7 @@
 
 ### Security
 
-- API: [Mozilla http scanner (⭐1.8k)](https://github.com/mozilla/http-observatory/blob/master/httpobs/docs/api.md)
+- API: [Mozilla http scanner (⭐1.9k)](https://github.com/mozilla/http-observatory/blob/master/httpobs/docs/api.md)
 
   Description: Mozilla observatory http scanner
 
@@ -434,7 +434,7 @@
   CORS: Unknown
 
 
-- API: [Mozilla tls scanner (⭐527)](https://github.com/mozilla/tls-observatory#api-endpoints)
+- API: [Mozilla tls scanner (⭐534)](https://github.com/mozilla/tls-observatory#api-endpoints)
 
   Description: Mozilla observatory tls scanner
 
@@ -456,11 +456,11 @@
 
 ### Version Control / Git
 
-*   [import-github-labels-cli (⭐16)](https://github.com/abhijithvijayan/import-github-labels-cli) - Sync labels between Github repos.
+*   [import-github-labels-cli (⭐17)](https://github.com/abhijithvijayan/import-github-labels-cli) - Sync labels between Github repos.
 
 ### Just for Fun / Image Conversion
 
-*   [ricksay (⭐55)](https://github.com/roma-guru/ricksay) - Quotes from Rick and Morty.
+*   [ricksay (⭐61)](https://github.com/roma-guru/ricksay) - Quotes from Rick and Morty.
 
 ## [31. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
@@ -472,18 +472,18 @@
 
 ### Component bundles
 
-*   [Ant Design Blazor (⭐5.7k)](https://github.com/ant-design-blazor/ant-design-blazor) - ![GitHub stars](https://img.shields.io/github/stars/ant-design-blazor/ant-design-blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/ant-design-blazor/ant-design-blazor?style=flat-square\&cacheSeconds=86400) A set of enterprise-class UI components based on Ant Design and Blazor. ([Docs as Demo](https://ant-design-blazor.github.io/)).
+*   [Ant Design Blazor (⭐5.9k)](https://github.com/ant-design-blazor/ant-design-blazor) - ![GitHub stars](https://img.shields.io/github/stars/ant-design-blazor/ant-design-blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/ant-design-blazor/ant-design-blazor?style=flat-square\&cacheSeconds=86400) A set of enterprise-class UI components based on Ant Design and Blazor. ([Docs as Demo](https://ant-design-blazor.github.io/)).
 *   [ComponentOne Blazor UI Components](https://www.grapecity.com/componentone/blazor-ui-controls) - External link. A fast datagrid, listview, input and other native Blazor components for server and client-side apps.
 
 ## [33. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Maps and Global Positioning System (GPS)
 
-*   [Geo2tz (⭐69)](https://github.com/noandrea/geo2tz) - Get the timezone from geo coordinates (lat, lon). `MIT` `Go/Docker`
+*   [Geo2tz (⭐76)](https://github.com/noandrea/geo2tz) - Get the timezone from geo coordinates (lat, lon). `MIT` `Go/Docker`
 
 ### Software / Task Management & To-do Lists
 
-*   [Task Keeper (⭐54)](https://github.com/nymanjens/piga) - List editor for power users, backed by a self-hosted server. `Apache-2.0` `Scala`
+*   [Task Keeper (⭐62)](https://github.com/nymanjens/piga) - List editor for power users, backed by a self-hosted server. `Apache-2.0` `Scala`
 
 ## [34. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
 
@@ -495,36 +495,36 @@
 
 ### Applications
 
-*   [Tai (⭐454)](https://github.com/fremantle-capital/tai) - A composable, real time, cryptocurrency market data and trade execution toolkit.
-*   [workbench (⭐112)](https://github.com/fremantle-industries/workbench) - From Idea to Execution - Manage your trading operation across a globally distributed cluster.
+*   [Tai (⭐469)](https://github.com/fremantle-capital/tai) - A composable, real time, cryptocurrency market data and trade execution toolkit.
+*   [workbench (⭐119)](https://github.com/fremantle-industries/workbench) - From Idea to Execution - Manage your trading operation across a globally distributed cluster.
 
 ### Authentication
 
-*   [elixir\_auth\_google (⭐245)](https://github.com/dwyl/elixir-auth-google) - The simplest way to add Google OAuth authentication ("Sign in with Google") to your Elixir/Phoenix app.
+*   [elixir\_auth\_google (⭐268)](https://github.com/dwyl/elixir-auth-google) - The simplest way to add Google OAuth authentication ("Sign in with Google") to your Elixir/Phoenix app.
 
 ### Email
 
-*   [swoosh (⭐1.4k)](https://github.com/swoosh/swoosh) - Compose, deliver and test your Emails (with attachments!) easily in Elixir with adapters for SMTP, Sendgrid, Mandrill, Mailgun, Postmark and lots others, plus Phoenix integration with mailbox preview.
+*   [swoosh (⭐1.5k)](https://github.com/swoosh/swoosh) - Compose, deliver and test your Emails (with attachments!) easily in Elixir with adapters for SMTP, Sendgrid, Mandrill, Mailgun, Postmark and lots others, plus Phoenix integration with mailbox preview.
 
 ### Framework Components
 
-*   [recaptcha (⭐112)](https://github.com/samueljseay/recaptcha) - A simple reCaptcha 2 library for Elixir applications.
+*   [recaptcha (⭐113)](https://github.com/samueljseay/recaptcha) - A simple reCaptcha 2 library for Elixir applications.
 
 ### Instrumenting / Monitoring
 
-*   [wobserver (⭐927)](https://github.com/shinyscorpion/wobserver) - Web based metrics, monitoring, and observer.
+*   [wobserver (⭐925)](https://github.com/shinyscorpion/wobserver) - Web based metrics, monitoring, and observer.
 
 ### Lexical analysis
 
-*   [abnf\_parsec (⭐46)](https://github.com/princemaple/abnf_parsec) - ABNF in and parser out.
+*   [abnf\_parsec (⭐50)](https://github.com/princemaple/abnf_parsec) - ABNF in and parser out.
 
 ### Macros
 
-*   [pathex (⭐330)](https://github.com/hissssst/pathex) - Zero-dependency, blazing fast functional lenses.
+*   [pathex (⭐347)](https://github.com/hissssst/pathex) - Zero-dependency, blazing fast functional lenses.
 
 ### Networking
 
-*   [hades (⭐26)](https://github.com/fklement/hades) - A wrapper for NMAP written in Elixir.
+*   [hades (⭐27)](https://github.com/fklement/hades) - A wrapper for NMAP written in Elixir.
 
 ### ORM and Datamapping
 
@@ -532,13 +532,13 @@
 
 ### PDF
 
-*   [chromic\_pdf (⭐397)](https://github.com/bitcrowd/chromic_pdf) - A client for Chrome's DevTools API to generate PDFs (HTML to PDF).
-*   [pdf\_generator (⭐327)](https://github.com/gutschilla/elixir-pdf-generator) - A simple wrapper for wkhtmltopdf or puppeteer (HTML to PDF) for use in Elixir projects.
+*   [chromic\_pdf (⭐429)](https://github.com/bitcrowd/chromic_pdf) - A client for Chrome's DevTools API to generate PDFs (HTML to PDF).
+*   [pdf\_generator (⭐339)](https://github.com/gutschilla/elixir-pdf-generator) - A simple wrapper for wkhtmltopdf or puppeteer (HTML to PDF) for use in Elixir projects.
 *   [puppeteer\_pdf (⭐97)](https://github.com/coletiv/puppeteer-pdf) - Another wrapper around puppeteer (HTML to PDF) for use in Elixir projects.
 
 ### Queue
 
-*   [flume (⭐77)](https://github.com/scripbox/flume) - A blazing fast job processing system backed by GenStage & Redis.
+*   [flume (⭐78)](https://github.com/scripbox/flume) - A blazing fast job processing system backed by GenStage & Redis.
 
 ## [36. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
@@ -548,12 +548,12 @@
 
 ### UI / Bottom Sheets
 
-*   [Rubber Bottom Sheet (⭐561)](https://github.com/mcrovero/rubber) <!--stargazers:mcrovero/rubber--> - Elastic material bottom sheet by [Mattia Crovero](https://github.com/mcrovero).
-*   [Modal Bottom Sheet (⭐1.8k)](https://github.com/jamesblasco/modal_bottom_sheet) <!--stargazers:jamesblasco/modal_bottom_sheet--> - Modal bottom sheet with Material, Cupertino iOS13 or custom appareance by [Jaime Blasco](https://github.com/jamesblasco).
+*   [Rubber Bottom Sheet (⭐562)](https://github.com/mcrovero/rubber) <!--stargazers:mcrovero/rubber--> - Elastic material bottom sheet by [Mattia Crovero](https://github.com/mcrovero).
+*   [Modal Bottom Sheet (⭐1.9k)](https://github.com/jamesblasco/modal_bottom_sheet) <!--stargazers:jamesblasco/modal_bottom_sheet--> - Modal bottom sheet with Material, Cupertino iOS13 or custom appareance by [Jaime Blasco](https://github.com/jamesblasco).
 
 ### Utilities / Game Engine resources
 
-*   [Flutter Flavorizr (⭐429)](https://github.com/AngeloAvv/flutter_flavorizr) <!--stargazers:AngeloAvv/flutter_flavorizr--> - CLI utility to easily generate flavors for Android and iOS in less than 3 minutes by [Angelo Cassano](https://github.com/AngeloAvv)
+*   [Flutter Flavorizr (⭐469)](https://github.com/AngeloAvv/flutter_flavorizr) <!--stargazers:AngeloAvv/flutter_flavorizr--> - CLI utility to easily generate flavors for Android and iOS in less than 3 minutes by [Angelo Cassano](https://github.com/AngeloAvv)
 
 ### 🇳🇬 Nigeria / Misc
 
@@ -586,18 +586,13 @@
 
 ### Components & Libraries / UI Components
 
-*   [ag-grid-vue (⭐12k)](https://github.com/ag-grid/ag-grid) - Vue adaptor for ag-Grid.
-*   [vue-d3-barchart (⭐16)](https://github.com/emiliorizzo/vue-d3-barchart) - Small component to draw charts using d3.
-
-### Components & Libraries / Integrations
-
-*   [vue-zeye-client (⭐5)](https://github.com/zeye-ru/vue-zeye-client) - A Vue plugin for simple use of the [Zeye-server (⭐4)](https://github.com/zeye-ru/zeye-server) open-source mediasoup WebRTC SFU server
+*   [ag-grid-vue (⭐13k)](https://github.com/ag-grid/ag-grid) - Vue adaptor for ag-Grid.
 
 ## [39. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
 
 ### FPS
 
-*   [The Force Engine (⭐935)](https://github.com/luciusDXL/TheForceEngine) - Jedi Engine for modern systems and the games that used that engine - Dark Forces and Outlaws.
+*   [The Force Engine (⭐985)](https://github.com/luciusDXL/TheForceEngine) - Jedi Engine for modern systems and the games that used that engine - Dark Forces and Outlaws.
 
 ## [40. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
 
@@ -639,7 +634,7 @@
 
 ### TestFlight / Early Access / Outline Processor Markup Language
 
-*   [Feeds by Felfele (⭐17)](https://github.com/felfele/feeds) <sup>[624](https://t.me/s/aboutrss/624)</sup> [![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://testflight.apple.com/join/icUTHYbo)[![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/apps/testing/org.felfele.feeds)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/felfele/feeds)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+*   [Feeds by Felfele (⭐18)](https://github.com/felfele/feeds) <sup>[624](https://t.me/s/aboutrss/624)</sup> [![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://testflight.apple.com/join/icUTHYbo)[![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/apps/testing/org.felfele.feeds)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/felfele/feeds)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
 ### Hosted Readers / Outline Processor Markup Language
 
@@ -648,7 +643,7 @@
 
 ### Other Apps / Outline Processor Markup Language
 
-*   [VSCode-RSS (⭐163)](https://github.com/luyuhuang/vscode-rss) <sup>[572](https://t.me/s/aboutrss/572), [618](https://t.me/s/aboutrss/618)</sup> : An RSS reader embedded in Visual Studio Code [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/luyuhuang/vscode-rss)
+*   [VSCode-RSS (⭐168)](https://github.com/luyuhuang/vscode-rss) <sup>[572](https://t.me/s/aboutrss/572), [618](https://t.me/s/aboutrss/618)</sup> : An RSS reader embedded in Visual Studio Code [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/luyuhuang/vscode-rss)
 
 ### RSSHub / Outline Processor Markup Language
 
@@ -726,7 +721,7 @@
 
 ### Typescript Project Starters
 
-*   [The Knests Stack (⭐330)](https://github.com/tudorconstantin/knests/) - Full stack boilerplate (hackathon starter) with: PostgreSQL, Knex.js, NestJS, Next.js, GraphQL, React (with hooks and typescript), Material-UI, Docker multistage images for, Docker compose and a Gitlab CI/CD pipeline fully configured.
+*   [The Knests Stack (⭐344)](https://github.com/tudorconstantin/knests/) - Full stack boilerplate (hackathon starter) with: PostgreSQL, Knex.js, NestJS, Next.js, GraphQL, React (with hooks and typescript), Material-UI, Docker multistage images for, Docker compose and a Gitlab CI/CD pipeline fully configured.
 
 ## [48. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
@@ -806,7 +801,7 @@
 
 ### Scripts / YouTube
 
-*   [Hide YouTube recommendations (⭐19)](https://github.com/artli/hide-youtube-recommendations) - Hides the thumbnails and titles of the recommended videos to reduce distraction and procrastination.
+*   [Hide YouTube recommendations (⭐24)](https://github.com/artli/hide-youtube-recommendations) - Hides the thumbnails and titles of the recommended videos to reduce distraction and procrastination.
 
 ## [50. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
@@ -840,22 +835,22 @@
 
 ### GTFS Libraries / C
 
-*   [CGTFS (⭐8)](https://github.com/rakhack/cgtfs) - C library for reading static GTFS feeds. Supports reading unpacked feeds into application memory or into SQLite databases.
-*   [RRRR Rapid Real-time Routing (⭐162)](https://github.com/bliksemlabs/rrrr) - RRRR (usually pronounced R4) is a C-language implementation of the RAPTOR public transit routing algorithm.
+*   [CGTFS (⭐9)](https://github.com/rakhack/cgtfs) - C library for reading static GTFS feeds. Supports reading unpacked feeds into application memory or into SQLite databases.
+*   [RRRR Rapid Real-time Routing (⭐169)](https://github.com/bliksemlabs/rrrr) - RRRR (usually pronounced R4) is a C-language implementation of the RAPTOR public transit routing algorithm.
 
 ### GTFS Libraries / Python
 
-*   [ESRI public-transit-tools (⭐165)](https://github.com/Esri/public-transit-tools) - Tools for working with public transit data in ArcGIS (license for ArcGIS required).
-*   [gtfsdb (⭐152)](https://github.com/OpenTransitTools/gtfsdb) - Python library for converting GTFS files into a relational database.
-*   [gtfsman (⭐21)](https://github.com/geops/gtfsman) - Repository-like tool in Python to manage and update a huge number of GTFS feeds.
-*   [gtfspy (⭐155)](https://github.com/CxAalto/gtfspy) - Public transport network analysis and travel time computations using Python3. Compatible with Postgres/PostGIS, Oracle, MySQL, and SQLite. Used by [gtfspy-webviz (⭐49)](https://github.com/CxAalto/gtfspy-webviz).
-*   [Make GTFS (⭐3)](https://github.com/mrcagney/make_gtfs) - A Python library to make GTFS feeds from basic route information.
-*   [Mapzen GTFS (⭐29)](https://github.com/transitland/mapzen-gtfs) - A Python GTFS library that supports reading individual GTFS tables, or constructing a graph to represent each agency in a feed.
-*   [multigtfs (⭐50)](https://github.com/tulsawebdevs/django-multi-gtfs) - A Django application to import and export GTFS.
+*   [ESRI public-transit-tools (⭐175)](https://github.com/Esri/public-transit-tools) - Tools for working with public transit data in ArcGIS (license for ArcGIS required).
+*   [gtfsdb (⭐161)](https://github.com/OpenTransitTools/gtfsdb) - Python library for converting GTFS files into a relational database.
+*   [gtfsman (⭐22)](https://github.com/geops/gtfsman) - Repository-like tool in Python to manage and update a huge number of GTFS feeds.
+*   [gtfspy (⭐160)](https://github.com/CxAalto/gtfspy) - Public transport network analysis and travel time computations using Python3. Compatible with Postgres/PostGIS, Oracle, MySQL, and SQLite. Used by [gtfspy-webviz (⭐55)](https://github.com/CxAalto/gtfspy-webviz).
+*   [Make GTFS (⭐11)](https://github.com/mrcagney/make_gtfs) - A Python library to make GTFS feeds from basic route information.
+*   [Mapzen GTFS (⭐30)](https://github.com/transitland/mapzen-gtfs) - A Python GTFS library that supports reading individual GTFS tables, or constructing a graph to represent each agency in a feed.
+*   [multigtfs (⭐52)](https://github.com/tulsawebdevs/django-multi-gtfs) - A Django application to import and export GTFS.
 
 ### GTFS Libraries / C#
 
-*   [GTFS Feed Parser (⭐66)](https://github.com/OsmSharp/GTFS) - .Net/Mono implementation of a GTFS parser.
+*   [GTFS Feed Parser (⭐71)](https://github.com/OsmSharp/GTFS) - .Net/Mono implementation of a GTFS parser.
 
 ### GTFS Libraries / Go
 
@@ -863,17 +858,17 @@
 
 ### GTFS Libraries / PostgreSQL
 
-*   [gtfs-schema (⭐32)](https://github.com/tyleragreen/gtfs-schema) - PostgreSQL schema for GTFS feeds.
+*   [gtfs-schema (⭐35)](https://github.com/tyleragreen/gtfs-schema) - PostgreSQL schema for GTFS feeds.
 
 ### GTFS Libraries / Ruby
 
-*   [GTFS-viz (⭐85)](https://github.com/vasile/GTFS-viz) - Ruby script that converts a set of GTFS files into a SQLite database + GeoJSONs (needed by the [Transit Map (⭐356)](https://github.com/vasile/transit-map) web application)
+*   [GTFS-viz (⭐88)](https://github.com/vasile/GTFS-viz) - Ruby script that converts a set of GTFS files into a SQLite database + GeoJSONs (needed by the [Transit Map (⭐361)](https://github.com/vasile/transit-map) web application)
 
 ## [52. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Code Analysis
 
-*   [Phpactor (⭐1.4k)](https://github.com/phpactor/phpactor) - PHP completion, refactoring and introspection tool.
+*   [Phpactor (⭐1.5k)](https://github.com/phpactor/phpactor) - PHP completion, refactoring and introspection tool.
 
 ## [53. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/week/README.md)
 
@@ -889,24 +884,24 @@
 
 ### Tools / Libraries
 
-*   [color2k (⭐595)](https://github.com/ricokahler/color2k) - A color parsing and manipulation lib.
+*   [color2k (⭐616)](https://github.com/ricokahler/color2k) - A color parsing and manipulation lib.
 
 ## [55. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
 
 ### Open Source Projects / Other Tools
 
-*   [RealWorld Example App - mongo (⭐433)](https://github.com/markqiu/fastapi-mongodb-realworld-example-app)
+*   [RealWorld Example App - mongo (⭐442)](https://github.com/markqiu/fastapi-mongodb-realworld-example-app)
 *   [RealWorld Example App - postgres (⭐2.8k)](https://github.com/nsidnev/fastapi-realworld-example-app)
 
 ## [56. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / General-Purpose Machine Learning
 
-*   [Little Ball of Fur (⭐697)](https://github.com/benedekrozemberczki/littleballoffur) -> A graph sampling extension library for NetworkX with a Scikit-Learn like API.
+*   [Little Ball of Fur (⭐707)](https://github.com/benedekrozemberczki/littleballoffur) -> A graph sampling extension library for NetworkX with a Scikit-Learn like API.
 
 ### .NET / General-Purpose Machine Learning
 
-*   [MxNet.Sharp (⭐148)](https://github.com/tech-quantum/MxNet.Sharp) - .NET Standard bindings for Apache MxNet with Imperative, Symbolic and Gluon Interface for developing, training and deploying Machine Learning models in C#. <https://mxnet.tech-quantum.com/>
+*   [MxNet.Sharp (⭐149)](https://github.com/tech-quantum/MxNet.Sharp) - .NET Standard bindings for Apache MxNet with Imperative, Symbolic and Gluon Interface for developing, training and deploying Machine Learning models in C#. <https://mxnet.tech-quantum.com/>
 
 ## [57. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
@@ -918,7 +913,7 @@
 
 ### Software / Python
 
-*   [littleballoffur (⭐694)](https://github.com/benedekrozemberczki/littleballoffur) - Python package for sampling from graph structured data with a scikit-learn like API.
+*   [littleballoffur (⭐702)](https://github.com/benedekrozemberczki/littleballoffur) - Python package for sampling from graph structured data with a scikit-learn like API.
 
 ## [59. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
 
@@ -942,19 +937,13 @@
 
 *   [*Practical Server Side Swift* by Tibor Bödecs](https://gumroad.com/l/practical-server-side-swift)
 
-## [61. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
-
-### Queue
-
-*   [CakeQueuesadilla plugin (⭐34)](https://github.com/josegonzalez/cakephp-queuesadilla) - A plugin that provides queueing integration with a variety of backends (BeanstalkD, MySQL, Redis, etc.).
-
-## [62. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [61. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Algorithms and Data structures
 
-*   [blurhash.cr (⭐23)](https://github.com/Sija/blurhash.cr) - [BlurHash (⭐15k)](https://github.com/woltapp/blurhash) implementation
+*   [blurhash.cr (⭐23)](https://github.com/Sija/blurhash.cr) - [BlurHash (⭐16k)](https://github.com/woltapp/blurhash) implementation
 
-## [63. Awesome Electronics](/content/kitspace/awesome-electronics/week/README.md)
+## [62. Awesome Electronics](/content/kitspace/awesome-electronics/week/README.md)
 
 ### Learning / Courses
 
@@ -967,9 +956,9 @@
 
 ### CAD Specific / KiCad
 
-*   [Xesscorp's list of KiCad 3rd party tools (⭐725)](https://github.com/xesscorp/kicad-3rd-party-tools)
+*   [Xesscorp's list of KiCad 3rd party tools (⭐763)](https://github.com/xesscorp/kicad-3rd-party-tools)
 *   [KiCad.info Forums](https://forum.kicad.info) - User discussion and help forum.
-*   [Footprint Collection (⭐311)](https://github.com/kitspace/kicad_footprints) - Collection of all the KiCad footprints available online and some scripts to manage them.
+*   [Footprint Collection (⭐325)](https://github.com/kitspace/kicad_footprints) - Collection of all the KiCad footprints available online and some scripts to manage them.
 
 ### PCB Batching Services / Altium
 
@@ -1011,13 +1000,13 @@
 
 ### Other Lists / Help
 
-*   [PwnKitteh/InsanelyCheapElectronics (⭐338)](https://github.com/PwnKitteh/InsanelyCheapElectronics) - A list of cheap electronics from China, that you can use in your projects.
-*   [intajay/open-electronics (⭐516)](https://github.com/intajay/open-electronics) - Another GitHub list: resources for Electronics Enthusiasts and Hardware Hackers.
-*   [Vitorian/awesome-fpga (⭐314)](https://github.com/Vitorian/awesome-fpga) - Awesome list of FPGA resources.
-*   [cajt/list\_of\_robot\_electronics (⭐306)](https://github.com/cajt/list_of_robot_electronics) - A GitHub list of resources, projects and products for robot electronics.
-*   [embedded-boston/awesome-embedded-systems (⭐735)](https://github.com/embedded-boston/awesome-embedded-systems) - Awesome list of embedded programming resources.
+*   [PwnKitteh/InsanelyCheapElectronics (⭐359)](https://github.com/PwnKitteh/InsanelyCheapElectronics) - A list of cheap electronics from China, that you can use in your projects.
+*   [intajay/open-electronics (⭐557)](https://github.com/intajay/open-electronics) - Another GitHub list: resources for Electronics Enthusiasts and Hardware Hackers.
+*   [Vitorian/awesome-fpga (⭐341)](https://github.com/Vitorian/awesome-fpga) - Awesome list of FPGA resources.
+*   [cajt/list\_of\_robot\_electronics (⭐335)](https://github.com/cajt/list_of_robot_electronics) - A GitHub list of resources, projects and products for robot electronics.
+*   [embedded-boston/awesome-embedded-systems (⭐804)](https://github.com/embedded-boston/awesome-embedded-systems) - Awesome list of embedded programming resources.
 
-## [64. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [63. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / Static site generator
 
@@ -1030,14 +1019,14 @@
 *   [ensure (⭐3)](https://github.com/eankeen/ensure) - Ensure you are running a minimum version of Deno, Typescript, or V8.
 *   [invert-kv (⭐3)](https://github.com/denorg/invert-kv) - Invert key-value pairs in Deno.
 *   [online (⭐7)](https://github.com/denorg/online) - Check if you're currently online in Deno.
-*   [qrcode (⭐44)](https://github.com/denorg/qrcode) - QR code image generator for Deno.
-*   [recursive-readdir (⭐10)](https://github.com/denorg/recursive-readdir) - Recursively read directories in Deno.
+*   [qrcode (⭐42)](https://github.com/denorg/qrcode) - QR code image generator for Deno.
+*   [recursive-readdir (⭐8)](https://github.com/denorg/recursive-readdir) - Recursively read directories in Deno.
 
 ### Modules / Web utils
 
 *   [status (⭐15)](https://github.com/denosaurs/status) - HTTP codes and status utility for Deno.
-*   [up (⭐13)](https://github.com/denorg/up) - Check if a website is up in Deno.
-*   [youtube-deno (⭐43)](https://github.com/akshgpt7/youtube-deno) - A Deno client library for the YouTube Data API for any interaction with YouTube.
+*   [up (⭐14)](https://github.com/denorg/up) - Check if a website is up in Deno.
+*   [youtube-deno (⭐45)](https://github.com/akshgpt7/youtube-deno) - A Deno client library for the YouTube Data API for any interaction with YouTube.
 
 ### Tools / XML
 
@@ -1064,7 +1053,7 @@
 *   [Así puedes crear tu primera API REST con Deno](https://medium.com/@mpampols/as%C3%AD-puedes-crear-tu-primera-api-rest-con-deno-a9094ee5c0b2)
 *   [Primeros pasos con Deno 🦕 El sucesor de NodeJS desarrollado con Rust y TypeScript](https://medium.com/@manurua/primeros-pasos-con-deno-el-nuevo-nodejs-desarrollado-con-rust-y-typescript-b9ac14f7d0c7)
 
-## [65. Awesome It Quotes](/content/victorlaerte/awesome-it-quotes/week/README.md)
+## [64. Awesome It Quotes](/content/victorlaerte/awesome-it-quotes/week/README.md)
 
 ### Quotes
 
@@ -1079,7 +1068,7 @@
 
 
 
-## [66. Awesome Ctf](/content/apsdehal/awesome-ctf/week/README.md)
+## [65. Awesome Ctf](/content/apsdehal/awesome-ctf/week/README.md)
 
 ### Tutorials
 

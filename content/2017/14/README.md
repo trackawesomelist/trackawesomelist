@@ -41,7 +41,7 @@
 
 ### Awesome Repositories
 
-- Repository: [Hacking (⭐13k)](https://github.com/carpedm20/awesome-hacking)
+- Repository: [Hacking (⭐14k)](https://github.com/carpedm20/awesome-hacking)
 
   Description: List of awesome Hacking tutorials, tools and resources
 
@@ -69,11 +69,11 @@
 
 ### GTFS Realtime Libraries & Demo Apps / Ruby
 
-*   [gtfs-realtime-bindings (⭐363)](https://github.com/google/gtfs-realtime-bindings) - The official bindings for Java, .NET, Node.js, Python, and Ruby generated from the official [GTFS-realtime protocol buffer specification (⭐553)](https://github.com/google/transit/blob/master/gtfs-realtime/proto/gtfs-realtime.proto).
+*   [gtfs-realtime-bindings (⭐379)](https://github.com/google/gtfs-realtime-bindings) - The official bindings for Java, .NET, Node.js, Python, and Ruby generated from the official [GTFS-realtime protocol buffer specification (⭐646)](https://github.com/google/transit/blob/master/gtfs-realtime/proto/gtfs-realtime.proto).
 
 ### GTFS Realtime (and Other Real-time API) Archival Tools / Ruby
 
-*   [gtfsrdb (⭐38)](https://github.com/CUTR-at-USF/gtfsrdb) - A Python tool that supports reading and archiving GTFS-realtime feeds into a database
+*   [gtfsrdb (⭐40)](https://github.com/CUTR-at-USF/gtfsrdb) - A Python tool that supports reading and archiving GTFS-realtime feeds into a database
 
 ### SIRI / Ruby
 
@@ -141,7 +141,7 @@ Free
 
 ### Contents / Utilities
 
-*   [pg\_migrate (⭐30)](https://github.com/jwdeitch/pg_migrate) - Manage PostgreSQL codebases and make VCS simple.
+*   [pg\_migrate (⭐31)](https://github.com/jwdeitch/pg_migrate) - Manage PostgreSQL codebases and make VCS simple.
 
 ## [16. Tips](/content/git-tips/tips/week/README.md)
 
@@ -189,7 +189,7 @@ git checkout master@{yesterday}
 
 ### Table of Contents / Routers
 
-*   [Aura.Router (⭐492)](https://github.com/auraphp/Aura.Router) - A full-featured routing library.
+*   [Aura.Router (⭐494)](https://github.com/auraphp/Aura.Router) - A full-featured routing library.
 
 ### Table of Contents / Dependency Injection
 
@@ -197,16 +197,16 @@ git checkout master@{yesterday}
 
 ### Table of Contents / Database
 
-*   [Aura.Sql (⭐554)](https://github.com/auraphp/Aura.Sql) - Provides an extension to the native PDO along with a profiler and connection locator.
+*   [Aura.Sql (⭐556)](https://github.com/auraphp/Aura.Sql) - Provides an extension to the native PDO along with a profiler and connection locator.
 *   [Spot2 (⭐601)](https://github.com/spotorm/spot2) - A MySQL datamapper ORM.
 
 ### Table of Contents / Command Line
 
-*   [Aura.Cli (⭐104)](https://github.com/auraphp/Aura.Cli) - Provides the equivalent of request ( Context ) and response ( Stdio ) objects for the command line interface, including Getopt support, and an independent Help object for describing commands.
+*   [Aura.Cli (⭐102)](https://github.com/auraphp/Aura.Cli) - Provides the equivalent of request ( Context ) and response ( Stdio ) objects for the command line interface, including Getopt support, and an independent Help object for describing commands.
 
 ### Table of Contents / Authentication and Authorization
 
-*   [Aura.Auth (⭐134)](https://github.com/auraphp/Aura.Auth) - Provides authentication functionality and session tracking using various adapters.
+*   [Aura.Auth (⭐132)](https://github.com/auraphp/Aura.Auth) - Provides authentication functionality and session tracking using various adapters.
 
 ### Table of Contents / Filtering, Sanitizing and Validation
 
@@ -214,7 +214,7 @@ git checkout master@{yesterday}
 
 ### Table of Contents / Internationalisation and Localisation
 
-*   [Aura.Intl (⭐90)](https://github.com/auraphp/Aura.Intl) - Provides internationalization (I18N) tools, specifically package-oriented per-locale message translation.
+*   [Aura.Intl (⭐89)](https://github.com/auraphp/Aura.Intl) - Provides internationalization (I18N) tools, specifically package-oriented per-locale message translation.
 
 ### Configuration / PHP Websites
 
@@ -292,7 +292,7 @@ git checkout master@{yesterday}
 
 ### Other
 
-*   [package-size (⭐425)](https://github.com/egoist/package-size) - Get the bundle size of an npm package.
+*   [package-size (⭐424)](https://github.com/egoist/package-size) - Get the bundle size of an npm package.
 
 ## [29. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
@@ -392,7 +392,7 @@ $ git config --global merge.tool meld
 
 ### Command Line Applications
 
-*   [tabula (⭐92)](https://github.com/aerosol/tabula) - Pretty print list of Ecto query results / maps in ascii tables (GitHub Markdown/OrgMode).
+*   [tabula (⭐93)](https://github.com/aerosol/tabula) - Pretty print list of Ecto query results / maps in ascii tables (GitHub Markdown/OrgMode).
 
 ### Testing
 
@@ -412,16 +412,16 @@ $ git config --global merge.tool meld
 
 ### Programming / Python
 
-*   [Nengo (⭐730)](https://github.com/nengo/nengo) - Library for creating and simulating large-scale brain models.
-*   [Nitime (⭐212)](https://github.com/nipy/nitime) - Timeseries analysis for neuroscience data.
-*   [MNE-Python (⭐2.1k)](https://github.com/mne-tools/mne-python) - Community-driven software for processing time-resolved neural signals including electroencephalography (EEG) and magnetoencephalography (MEG).
-*   [NiBabel (⭐511)](https://github.com/nipy/nibabel) - Provides read and write access to some common medical and neuroimaging file formats.
-*   [PsychoPy (⭐1.3k)](https://github.com/psychopy/psychopy) - Package for running psychology and neuroscience experiments. It allows for creating psychology stimuli in Python.
+*   [Nengo (⭐822)](https://github.com/nengo/nengo) - Library for creating and simulating large-scale brain models.
+*   [Nitime (⭐244)](https://github.com/nipy/nitime) - Timeseries analysis for neuroscience data.
+*   [MNE-Python (⭐2.7k)](https://github.com/mne-tools/mne-python) - Community-driven software for processing time-resolved neural signals including electroencephalography (EEG) and magnetoencephalography (MEG).
+*   [NiBabel (⭐652)](https://github.com/nipy/nibabel) - Provides read and write access to some common medical and neuroimaging file formats.
+*   [PsychoPy (⭐1.7k)](https://github.com/psychopy/psychopy) - Package for running psychology and neuroscience experiments. It allows for creating psychology stimuli in Python.
 *   [NuPic (⭐6.3k)](https://github.com/numenta/nupic) - Numenta Platform for Intelligent Computing is an implementation of Hierarchical Temporal Memory (HTM), a theory of intelligence based strictly on the neuroscience of the neocortex.
 
 ### Programming / Matlab
 
-*   [FieldTrip (⭐683)](https://github.com/fieldtrip/fieldtrip) - Toolbox for MEG and EEG analysis.
+*   [FieldTrip (⭐840)](https://github.com/fieldtrip/fieldtrip) - Toolbox for MEG and EEG analysis.
 *   [Psychtoolbox-3](http://psychtoolbox.org/) -  Free set of Matlab and GNU Octave functions for vision and neuroscience research.
 
 ### Resources / MOOCs
@@ -436,7 +436,7 @@ $ git config --global merge.tool meld
 
 ### Models/Projects
 
-*   [CNN visualization using Tensorflow (⭐777)](https://github.com/InFoCusp/tf_cnnvis) - Tensorflow implementation of ["Visualizing and Understanding Convolutional Networks"](https://www.cs.nyu.edu/~fergus/papers/zeilerECCV2014.pdf)
+*   [CNN visualization using Tensorflow (⭐781)](https://github.com/InFoCusp/tf_cnnvis) - Tensorflow implementation of ["Visualizing and Understanding Convolutional Networks"](https://www.cs.nyu.edu/~fergus/papers/zeilerECCV2014.pdf)
 
 ## [37. Awesome Sdn](/content/sdnds-tw/awesome-sdn/week/README.md)
 

@@ -10,19 +10,19 @@
 
 ### Tools / CI
 
-*   [terraform-github-actions (⭐739)](https://github.com/dflook/terraform-github-actions) - GitHub Actions for OpenTofu.
+*   [terraform-github-actions (⭐793)](https://github.com/dflook/terraform-github-actions) - GitHub Actions for OpenTofu.
 
 ## [2. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Concepts / AI Concept Representation
 
-*   [Metabolic activity organizes olfactory representations](https://elifesciences.org/articles/82502) - ***eLife***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=8857896396450033667\&hl=en\&as_sdt=0,5)]. \[[Code & Data (⭐20)](https://github.com/osmoai/publications/tree/main/qian_et_al_2023)]. Odorous compounds with similar POM representations are more likely to co-occur within a substance and be metabolically closely related; metabolic reaction sequences also follow smooth paths in POM despite large jumps in molecular structure.
+*   [Metabolic activity organizes olfactory representations](https://elifesciences.org/articles/82502) - ***eLife***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=8857896396450033667\&hl=en\&as_sdt=0,5)]. \[[Code & Data (⭐24)](https://github.com/osmoai/publications/tree/main/qian_et_al_2023)]. Odorous compounds with similar POM representations are more likely to co-occur within a substance and be metabolically closely related; metabolic reaction sequences also follow smooth paths in POM despite large jumps in molecular structure.
 
 ## [3. Awesome Playwright](/content/mxschmitt/awesome-playwright/README.md)
 
 ### Utils
 
-*   [ZeroStep (⭐168)](https://github.com/zerostep-ai/zerostep) - AI actions and assertions for Playwright.
+*   [ZeroStep (⭐178)](https://github.com/zerostep-ai/zerostep) - AI actions and assertions for Playwright.
 
 ## [4. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
 
@@ -34,21 +34,21 @@
 
 ### Templates / React
 
-*   [vite-react-flow-template (⭐32)](https://github.com/xyflow/vite-react-flow-template) - React Flow starter template.
+*   [vite-react-flow-template (⭐47)](https://github.com/xyflow/vite-react-flow-template) - React Flow starter template.
 
 ### Templates / Svelte
 
-*   [vite-svelte-flow-template (⭐5)](https://github.com/xyflow/vite-svelte-flow-template) - Svelte Flow starter template.
+*   [vite-svelte-flow-template (⭐12)](https://github.com/xyflow/vite-svelte-flow-template) - Svelte Flow starter template.
 
 ## [6. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### (requires Neovim 0.5)
 
-*   [stevanmilic/nvim-lspimport (⭐58)](https://github.com/stevanmilic/nvim-lspimport) - Automatically resolves imports for undefined terms. Useful with `pyright` language server.
+*   [stevanmilic/nvim-lspimport (⭐68)](https://github.com/stevanmilic/nvim-lspimport) - Automatically resolves imports for undefined terms. Useful with `pyright` language server.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [Tsuzat/NeoSolarized.nvim (⭐163)](https://github.com/Tsuzat/NeoSolarized.nvim) - NeoSolarized colorscheme with full transparency.
+*   [Tsuzat/NeoSolarized.nvim (⭐181)](https://github.com/Tsuzat/NeoSolarized.nvim) - NeoSolarized colorscheme with full transparency.
 
 ## [7. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/README.md)
 
@@ -64,19 +64,19 @@
 
 ### Python / Trading & Backtesting
 
-*   [hftbacktest (⭐1.6k)](https://github.com/nkaz001/hftbacktest) - A high-frequency trading and market-making backtesting tool accounts for limit orders, queue positions, and latencies, utilizing full tick data for trades and order books.
+*   [hftbacktest (⭐2.2k)](https://github.com/nkaz001/hftbacktest) - A high-frequency trading and market-making backtesting tool accounts for limit orders, queue positions, and latencies, utilizing full tick data for trades and order books.
 
 ## [9. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
 ### Command-Line Tools / Discovery
 
-*   [devenv (⭐4k)](https://github.com/cachix/devenv) - A Nix-based tool for creating developer shell environments quickly and reproducibly.
+*   [devenv (⭐4.7k)](https://github.com/cachix/devenv) - A Nix-based tool for creating developer shell environments quickly and reproducibly.
 
 ## [10. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/README.md)
 
 ### Cars
 
-*   [Polestar SoC Medium Widget (⭐10)](https://github.com/niklasvieth/polestar-ios-medium-widget) - Current state of charge of your Polestar 2 as medium widget or as simplified [lockscreen widget (⭐13)](https://github.com/niklasvieth/polestar-ios-lockscreen-widget).
+*   [Polestar SoC Medium Widget (⭐40)](https://github.com/niklasvieth/polestar-ios-medium-widget) - Current state of charge of your Polestar 2 as medium widget or as simplified [lockscreen widget (⭐27)](https://github.com/niklasvieth/polestar-ios-lockscreen-widget).
 
     <img src="https://raw.githubusercontent.com/niklasvieth/polestar-ios-medium-widget/main/images/polestar_medium_widget_relative.jpeg" width="400"/>
 
@@ -84,10 +84,10 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [exa (zap-zsh) (⭐18)](https://github.com/zap-zsh/exa) - Overrides common commands to use exa instead.
-*   [exa-ls (zpm-zsh) (⭐96)](https://github.com/zpm-zsh/ls) - Zsh plugin for ls.
-*   [eza (twopizza9621536) (⭐3)](https://github.com/twopizza9621536/zsh-eza) - Replaces `ls` with [eza-community/eza (⭐11k)](https://github.com/eza-community/eza).
-*   [run-scripts (⭐4)](https://github.com/Aireck2/zsh-run-scripts) - Runs scripts from `package.json`.
+*   [exa (zap-zsh) (⭐19)](https://github.com/zap-zsh/exa) - Overrides common commands to use exa instead.
+*   [exa-ls (zpm-zsh) (⭐100)](https://github.com/zpm-zsh/ls) - Zsh plugin for ls.
+*   [eza (twopizza9621536) (⭐3)](https://github.com/twopizza9621536/zsh-eza) - Replaces `ls` with [eza-community/eza (⭐14k)](https://github.com/eza-community/eza).
+*   [run-scripts (⭐5)](https://github.com/Aireck2/zsh-run-scripts) - Runs scripts from `package.json`.
 
 ## [12. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
 

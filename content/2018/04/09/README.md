@@ -60,7 +60,7 @@
 
 ### Examples / Templates
 
-*   [CMakeInstallExample (⭐28)](https://github.com/DeveloperPaul123/CMakeInstallExample) - Installation example for a C++ project (Windows) with Cmake. `[NO LICENSE]`
+*   [CMakeInstallExample (⭐35)](https://github.com/DeveloperPaul123/CMakeInstallExample) - Installation example for a C++ project (Windows) with Cmake. `[NO LICENSE]`
 
 ## [9. Awesome Swift Playgrounds](/content/uraimo/Awesome-Swift-Playgrounds/README.md)
 
@@ -86,7 +86,7 @@
 
 ### Containers
 
-*   [ring\_span lite (⭐147)](https://github.com/martinmoene/ring-span-lite) - A simplified implementation of Arthur O'Dwyer's ring\_span implementation ie. a circular buffer view. \[MIT]
+*   [ring\_span lite (⭐155)](https://github.com/martinmoene/ring-span-lite) - A simplified implementation of Arthur O'Dwyer's ring\_span implementation ie. a circular buffer view. \[MIT]
 
 ---
 

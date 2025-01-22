@@ -10,7 +10,7 @@
 
 ### Python / Data Analysis / Data Visualization
 
-*   [somoclu (⭐265)](https://github.com/peterwittek/somoclu) Massively parallel self-organizing maps: accelerate training on multicore CPUs, GPUs, and clusters, has python API.
+*   [somoclu (⭐268)](https://github.com/peterwittek/somoclu) Massively parallel self-organizing maps: accelerate training on multicore CPUs, GPUs, and clusters, has python API.
 
 ## [2. Awesome R](/content/qinwf/awesome-R/README.md)
 

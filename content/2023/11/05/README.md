@@ -39,11 +39,11 @@
 
 ### Database
 
-*   [Velox (⭐3.4k)](https://github.com/facebookincubator/velox) - A C++ vectorized database acceleration library aimed to optimizing query engines and data processing systems. \[Apache-2.0] [website](https://velox-lib.io/)
+*   [Velox (⭐3.6k)](https://github.com/facebookincubator/velox) - A C++ vectorized database acceleration library aimed to optimizing query engines and data processing systems. \[Apache-2.0] [website](https://velox-lib.io/)
 
 ## [6. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
 
-### Optics and Extra Info / Unikernel-like
+### Optics and Extra Info / Qubes OS Summit - 3mdeb Summit videos
 
 *   [Qubes OS Summit 2023](https://www.youtube.com/watch?v=xo2BVTn7ohs) - Day 2
 
@@ -51,31 +51,31 @@
 
 ### Examples
 
-*   [AntonioFalcaoJr/EventualShop (⭐343)](https://github.com/AntonioFalcaoJr/EventualShop#readme) - The project has a logo and well-defined sections such as: information about the project, the architectural solution, along with reference links such as articles, videos, and documentation. It explains how to run the project in different environments (development and production). It has documented load tests, it also describes which technologies are used, and it has diagrams for the archetype.
+*   [AntonioFalcaoJr/EventualShop (⭐372)](https://github.com/AntonioFalcaoJr/EventualShop#readme) - The project has a logo and well-defined sections such as: information about the project, the architectural solution, along with reference links such as articles, videos, and documentation. It explains how to run the project in different environments (development and production). It has documented load tests, it also describes which technologies are used, and it has diagrams for the archetype.
 
 ## [8. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Search / Diagnostics
 
-*   [duane9/nvim-rg (⭐36)](https://github.com/duane9/nvim-rg) - Run RipGrep asynchronously and see results in a quickfix window.
+*   [duane9/nvim-rg (⭐39)](https://github.com/duane9/nvim-rg) - Run RipGrep asynchronously and see results in a quickfix window.
 
 ### Fuzzy Finder / Diagnostics
 
-*   [echasnovski/mini.nvim#mini.extra (⭐4.7k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-extra.md) - Module of `mini.nvim` with extra functionality for its modules. Contains 20+ 'mini.pick' pickers, 'mini.ai' textobjects, and more.
+*   [echasnovski/mini.nvim#mini.extra (⭐6.2k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-extra.md) - Module of `mini.nvim` with extra functionality for its modules. Contains 20+ 'mini.pick' pickers, 'mini.ai' textobjects, and more.
 
 ### Color / Diagnostics
 
-*   [miversen33/sunglasses.nvim (⭐108)](https://github.com/miversen33/sunglasses.nvim) - Dynamic Colorscheme/highlight adjuster on window switching.
+*   [miversen33/sunglasses.nvim (⭐141)](https://github.com/miversen33/sunglasses.nvim) - Dynamic Colorscheme/highlight adjuster on window switching.
 
 ### Code Runner / Diagnostics
 
-*   [benlubas/molten-nvim (⭐458)](https://github.com/benlubas/molten-nvim) - Enables running code chunks via the jupyter kernel. Output (including image output) is rendered in a floating window below the code.
+*   [benlubas/molten-nvim (⭐692)](https://github.com/benlubas/molten-nvim) - Enables running code chunks via the jupyter kernel. Output (including image output) is rendered in a floating window below the code.
 
 ## [9. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [princess (⭐1)](https://github.com/mellypop/princess) - Modeled after [abhiyan.zsh (⭐7)](https://github.com/abhiyandhakal/abhiyan.zsh) with perhaps a bit too much pink and arguably too few emojis. Includes decorators for current directory and `git` status.
+*   [princess (⭐3)](https://github.com/mellypop/princess) - Modeled after [abhiyan.zsh (⭐7)](https://github.com/abhiyandhakal/abhiyan.zsh) with perhaps a bit too much pink and arguably too few emojis. Includes decorators for current directory and `git` status.
 
 ---
 

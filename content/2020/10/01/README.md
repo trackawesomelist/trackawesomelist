@@ -22,8 +22,7 @@
 
 ### Packages / Language Bindings
 
-*   [Mobius (⭐940)](https://github.com/Microsoft/Mobius) <img src="https://img.shields.io/github/last-commit/Microsoft/Mobius.svg"> - C# bindings (Deprecated in favor of .NET for Apache Spark).
-*   [.NET for Apache Spark (⭐1.9k)](https://github.com/dotnet/spark) <img src="https://img.shields.io/github/last-commit/dotnet/spark.svg"> - .NET bindings.
+*   [.NET for Apache Spark (⭐2k)](https://github.com/dotnet/spark) <img src="https://img.shields.io/github/last-commit/dotnet/spark.svg"> - .NET bindings.
 
 ## [4. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
 
@@ -94,7 +93,7 @@
 
 ### Examples
 
-*   [Maze generator (⭐14)](https://github.com/Dannark/FlameExamples) - List of algorithm examples to solve problems like Maze generation and more. By [Dannark](https://github.com/Dannark/)
+*   [Maze generator (⭐17)](https://github.com/Dannark/FlameExamples) - List of algorithm examples to solve problems like Maze generation and more. By [Dannark](https://github.com/Dannark/)
 
 ### Plugins & Libraries
 
@@ -104,7 +103,7 @@
 
 ### Productivity / Calendars
 
-*   [vdirsyncer (⭐1.5k)](https://github.com/pimutils/vdirsyncer) - CalDAV sync.
+*   [vdirsyncer (⭐1.6k)](https://github.com/pimutils/vdirsyncer) - CalDAV sync.
 
 ## [14. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
@@ -118,14 +117,9 @@
 
 *   [Vue Mastery](https://www.vuemastery.com/) - The ultimate learning resource for Vue developers
 
-### Components & Libraries / UI Components
-
-*   [@bananajs/vue3-book-component (⭐6)](https://github.com/bananajs-is-already-taken/vue3-book-component) - Book component for Vue 3. It provides easy, flexible API and great customizability.
-*   [@bananajs/vue2-book-component (⭐2)](https://github.com/bananajs-is-already-taken/vue2-book-component) - Book component for Vue 2. It provides easy, flexible API and great customizability.
-
 ### Components & Libraries / UI Utilities
 
-*   [vue-inline-svg (⭐175)](https://github.com/shrpne/vue-inline-svg) - Vue component loads an SVG source dynamically and inline `<svg>` so you can manipulate the style of it with CSS or JS. (vue 2.x, vue 3.x)
+*   [vue-inline-svg (⭐177)](https://github.com/shrpne/vue-inline-svg) - Vue component loads an SVG source dynamically and inline `<svg>` so you can manipulate the style of it with CSS or JS. (vue 2.x, vue 3.x)
 
 ## [16. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 
@@ -190,28 +184,16 @@
 | ------: | -------: | ---: |
 |       2 |        8 |  30m |
 
-### Party
-
-### [Mind the Gap](https://boardgamegeek.com/boardgame/229537/mind-gap)
-
-> Mind the Gap is a card game that replicates the iconic design of the London Underground map, and the game is licensed by Transport for London. Players have a hand of cards, each representing stations on the London Underground. Each player lays a card face up and players in turn play cards that are on a line that matches that of the previous card. If they cannot lay a card, they draw a card. The winner is the first player to exhaust their hand.
-
-![Mind the Gap image](https://cf.geekdo-images.com/itemrep/img/-tBdBfB3GDsePPK0kNT4K4-EH5E=/fit-in/246x300/pic3604392.jpg)
-
-| Players | Min. Age | Time |
-| ------: | -------: | ---: |
-|   2 - 8 |        6 |  20m |
-
 ## [17. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Logging / Barcode
 
-*   [HeliumLogger (⭐175)](https://github.com/Kitura/HeliumLogger) :penguin: - IBM's lightweight logging framework.
+*   [HeliumLogger (⭐176)](https://github.com/Kitura/HeliumLogger) :penguin: - IBM's lightweight logging framework.
 
 ### Socket / Barcode
 
 *   [BlueSocket (⭐1.4k)](https://github.com/Kitura/BlueSocket) - IBM's cross platform low level socket framework.
-*   [BlueSSLService (⭐96)](https://github.com/Kitura/BlueSSLService) - SSL/TLS add-in for IBM's low level socket framework.
+*   [BlueSSLService (⭐97)](https://github.com/Kitura/BlueSSLService) - SSL/TLS add-in for IBM's low level socket framework.
 
 ### Webserver / Barcode
 
@@ -223,18 +205,18 @@
 
 ### Cryptography / Barcode
 
-*   [BlueCryptor (⭐189)](https://github.com/Kitura/BlueCryptor) - IBM's Cross Platform Crypto library.
-*   [BlueRSA (⭐130)](https://github.com/Kitura/BlueRSA) - IBM's Cross Platform RSA Crypto library.
+*   [BlueCryptor (⭐190)](https://github.com/Kitura/BlueCryptor) - IBM's Cross Platform Crypto library.
+*   [BlueRSA (⭐131)](https://github.com/Kitura/BlueRSA) - IBM's Cross Platform RSA Crypto library.
 
 ### System / Barcode
 
-*   [BlueSignals (⭐93)](https://github.com/Kitura/BlueSignals) - IBM's Cross Platform OS signal handling library.
+*   [BlueSignals (⭐94)](https://github.com/Kitura/BlueSignals) - IBM's Cross Platform OS signal handling library.
 
 ## [18. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Robotics
 
-*   [YARP (Yet Another Robot Platform) (⭐516)](https://github.com/robotology/yarp) - Library and toolkit for communication and device interfaces. \[BSD-3-Clause] [website](http://www.yarp.it/)
+*   [YARP (Yet Another Robot Platform) (⭐538)](https://github.com/robotology/yarp) - Library and toolkit for communication and device interfaces. \[BSD-3-Clause] [website](http://www.yarp.it/)
 
 ## [19. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
@@ -281,14 +263,14 @@
 
 ### Software / Communication - Email - Complete Solutions
 
-*   [AnonAddy](https://anonaddy.com) - Open source email forwarding service for creating aliases. ([Source Code (⭐3.2k)](https://github.com/anonaddy/anonaddy)) `MIT` `PHP/Docker`
+*   [AnonAddy](https://anonaddy.com) - Open source email forwarding service for creating aliases. ([Source Code (⭐3.6k)](https://github.com/anonaddy/anonaddy)) `MIT` `PHP/Docker`
 
 ## [26. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Iteration
 
-*   [trivial-do (⭐18)](https://github.com/yitzchak/trivial-do/) -  Additional dolist style macros for Common Lisp. [MIT](https://opensource.org/licenses/MIT).
-*   [picl (⭐16)](https://github.com/anlsh/picl) - An (almost) complete port of Python's itertools package, complete with laziness where applicable, and not relying on cl-cont. [MIT](https://opensource.org/licenses/MIT).
+*   [trivial-do (⭐19)](https://github.com/yitzchak/trivial-do/) -  Additional dolist style macros for Common Lisp. [MIT](https://opensource.org/licenses/MIT).
+*   [picl (⭐17)](https://github.com/anlsh/picl) - An (almost) complete port of Python's itertools package, complete with laziness where applicable, and not relying on cl-cont. [MIT](https://opensource.org/licenses/MIT).
 
 ## [27. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
@@ -306,18 +288,18 @@
 
 ### Package suites
 
-*   **[Rust-Bio (⭐1.2k)](https://github.com/rust-bio/rust-bio)** - Rust implementations of algorithms and data structures useful for bioinformatics. \[ [paper-2016](http://bioinformatics.oxfordjournals.org/content/early/2015/10/06/bioinformatics.btv573.short?rss=1) ]
-*   **[SeqAn (⭐313)](https://github.com/seqan/seqan3)** - The modern C++ library for sequence analysis.
+*   **[Rust-Bio (⭐1.6k)](https://github.com/rust-bio/rust-bio)** - Rust implementations of algorithms and data structures useful for bioinformatics. \[ [paper-2016](http://bioinformatics.oxfordjournals.org/content/early/2015/10/06/bioinformatics.btv573.short?rss=1) ]
+*   **[SeqAn (⭐414)](https://github.com/seqan/seqan3)** - The modern C++ library for sequence analysis.
 
 ### Sequence Alignment / Pairwise
 
-*   **[WFA (⭐194)](https://github.com/smarco/WFA)** - the wavefront alignment algorithm (WFA) which expoit sequence similarity to speed up alignment \[ [paper-2020](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btaa777/5904262) ]
-*   **[Parasail (⭐189)](https://github.com/jeffdaily/parasail)** - SIMD C library for global, semi-global, and local pairwise sequence alignments \[ [paper-2016](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-0930-z) ]
-*   **[MUMmer (⭐333)](https://github.com/mummer4/mummer)** -  A system for rapidly aligning entire genomes, whether in complete or draft form. \[ [paper-1999](http://mummer.sourceforge.net/MUMmer.pdf) | [paper-2002](http://mummer.sourceforge.net/MUMmer2.pdf) | [paper-2004](http://mummer.sourceforge.net/MUMmer3.pdf) | [web](http://mummer.sourceforge.net) ]
+*   **[WFA (⭐162)](https://github.com/smarco/WFA)** - the wavefront alignment algorithm (WFA) which expoit sequence similarity to speed up alignment \[ [paper-2020](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btaa777/5904262) ]
+*   **[Parasail (⭐244)](https://github.com/jeffdaily/parasail)** - SIMD C library for global, semi-global, and local pairwise sequence alignments \[ [paper-2016](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-0930-z) ]
+*   **[MUMmer (⭐476)](https://github.com/mummer4/mummer)** -  A system for rapidly aligning entire genomes, whether in complete or draft form. \[ [paper-1999](http://mummer.sourceforge.net/MUMmer.pdf) | [paper-2002](http://mummer.sourceforge.net/MUMmer2.pdf) | [paper-2004](http://mummer.sourceforge.net/MUMmer3.pdf) | [web](http://mummer.sourceforge.net) ]
 
 ### Sequence Alignment / Multiple Sequence Alignment
 
-*   **[POA (⭐61)](https://github.com/ljdursi/poapy)** - Partial-Order Alignment for fast alignment and consensus of multiple homologous sequences. \[ [paper-2002](https://academic.oup.com/bioinformatics/article/18/3/452/236691) ]
+*   **[POA (⭐71)](https://github.com/ljdursi/poapy)** - Partial-Order Alignment for fast alignment and consensus of multiple homologous sequences. \[ [paper-2002](https://academic.oup.com/bioinformatics/article/18/3/452/236691) ]
 
 ## [30. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
 
@@ -329,13 +311,13 @@
 
 ### Contents / Health and Fitness
 
-*   [Covid19-Tracker (⭐34)](https://github.com/adityanjr/covid19-tracker) - Tracking the impact of COVID-19 cases based on your location by [Aditya Singh](https://github.com/adityanjr)
+*   [Covid19-Tracker (⭐31)](https://github.com/adityanjr/covid19-tracker) - Tracking the impact of COVID-19 cases based on your location by [Aditya Singh](https://github.com/adityanjr)
 
 ## [32. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
 ### Utility / Docker Container Actions
 
-*   [Minisauras (⭐46)](https://github.com/TeamTigers/minisauras) -  Pulls all the JavaScript and CSS files from your base branch, minify them and creates a pull-request with a new branch.
+*   [Minisauras (⭐48)](https://github.com/TeamTigers/minisauras) -  Pulls all the JavaScript and CSS files from your base branch, minify them and creates a pull-request with a new branch.
 
 ## [33. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
 
@@ -347,7 +329,7 @@
 
 ### C / General-Purpose Machine Learning
 
-*   [cONNXr (⭐184)](https://github.com/alrevuelta/cONNXr) - An `ONNX` runtime written in pure C (99) with zero dependencies focused on small embedded devices. Run inference on your machine learning models no matter which framework you train it with. Easy to install and compiles everywhere, even in very old devices.
+*   [cONNXr (⭐196)](https://github.com/alrevuelta/cONNXr) - An `ONNX` runtime written in pure C (99) with zero dependencies focused on small embedded devices. Run inference on your machine learning models no matter which framework you train it with. Easy to install and compiles everywhere, even in very old devices.
 
 ### C / Computer Vision
 
@@ -356,17 +338,17 @@
 ### C++ / General-Purpose Machine Learning
 
 *   [skynet (⭐61)](https://github.com/Tyill/skynet) - A library for learning neural networks, has C-interface, net set in JSON. Written in C++ with bindings in Python, C++ and C#.
-*   [Hopsworks (⭐1.1k)](https://github.com/logicalclocks/hopsworks) - A data-intensive platform for AI with the industry's first open-source feature store. The Hopsworks Feature Store provides both a feature warehouse for training and batch based on Apache Hive and a feature serving database, based on MySQL Cluster, for online applications.
+*   [Hopsworks (⭐1.2k)](https://github.com/logicalclocks/hopsworks) - A data-intensive platform for AI with the industry's first open-source feature store. The Hopsworks Feature Store provides both a feature warehouse for training and batch based on Apache Hive and a feature serving database, based on MySQL Cluster, for online applications.
 
 ### Python / Natural Language Processing
 
-*   [colibri-core (⭐123)](https://github.com/proycon/colibri-core) - Python binding to C++ library for extracting and working with basic linguistic constructions such as n-grams and skipgrams in a quick and memory-efficient way.
-*   [genius (⭐233)](https://github.com/duanhongyi/genius) - A Chinese segment based on Conditional Random Field.
-*   [python-zpar (⭐48)](https://github.com/EducationalTestingService/python-zpar) - Python bindings for [ZPar (⭐133)](https://github.com/frcchang/zpar), a statistical part-of-speech-tagger, constituency parser, and dependency parser for English.
+*   [colibri-core (⭐124)](https://github.com/proycon/colibri-core) - Python binding to C++ library for extracting and working with basic linguistic constructions such as n-grams and skipgrams in a quick and memory-efficient way.
+*   [genius (⭐234)](https://github.com/duanhongyi/genius) - A Chinese segment based on Conditional Random Field.
+*   [python-zpar (⭐49)](https://github.com/EducationalTestingService/python-zpar) - Python bindings for [ZPar (⭐134)](https://github.com/frcchang/zpar), a statistical part-of-speech-tagger, constituency parser, and dependency parser for English.
 
 ### C++ / Sequence Analysis
 
-*   [ToPS (⭐34)](https://github.com/ayoshiaki/tops) - This is an object-oriented framework that facilitates the integration of probabilistic models for sequences over a user defined alphabet. **\[Deprecated]**
+*   [ToPS (⭐36)](https://github.com/ayoshiaki/tops) - This is an object-oriented framework that facilitates the integration of probabilistic models for sequences over a user defined alphabet. **\[Deprecated]**
 
 ### Go / General-Purpose Machine Learning
 
@@ -378,7 +360,7 @@
 
 ### Julia / General-Purpose Machine Learning
 
-*   [SVM (⭐41)](https://github.com/JuliaStats/SVM.jl) - SVM for Julia. **\[Deprecated]**
+*   [SVM (⭐40)](https://github.com/JuliaStats/SVM.jl) - SVM for Julia. **\[Deprecated]**
 
 ### Matlab / Natural Language Processing
 
@@ -394,28 +376,28 @@
 
 ### General-Purpose Machine Learning / Data Analysis / Data Visualization
 
-*   [BPN-NeuralNetwork (⭐32)](https://github.com/Kalvar/ios-BPN-NeuralNetwork) - It implemented 3 layers of neural networks ( Input Layer, Hidden Layer and Output Layer ) and it was named Back Propagation Neural Networks (BPN). This network can be used in products recommendation, user behavior analysis, data mining and data analysis. **\[Deprecated]**
+*   [BPN-NeuralNetwork (⭐33)](https://github.com/Kalvar/ios-BPN-NeuralNetwork) - It implemented 3 layers of neural networks ( Input Layer, Hidden Layer and Output Layer ) and it was named Back Propagation Neural Networks (BPN). This network can be used in products recommendation, user behavior analysis, data mining and data analysis. **\[Deprecated]**
 *   [Multi-Perceptron-NeuralNetwork (⭐24)](https://github.com/Kalvar/ios-Multi-Perceptron-NeuralNetwork) - It implemented multi-perceptrons neural network (ニューラルネットワーク) based on Back Propagation Neural Networks (BPN) and designed unlimited-hidden-layers.
 *   [KRHebbian-Algorithm (⭐13)](https://github.com/Kalvar/ios-KRHebbian-Algorithm) - It is a non-supervisory and self-learning algorithm (adjust the weights) in the neural network of Machine Learning. **\[Deprecated]**
 *   [KRKmeans-Algorithm (⭐23)](https://github.com/Kalvar/ios-KRKmeans-Algorithm) - It implemented K-Means  clustering and classification algorithm. It could be used in data mining and image compression. **\[Deprecated]**
 
 ### Python / Computer Vision
 
-*   [face\_recognition (⭐53k)](https://github.com/ageitgey/face_recognition) - Face recognition library that recognizes and manipulates faces from Python or from the command line.
+*   [face\_recognition (⭐54k)](https://github.com/ageitgey/face_recognition) - Face recognition library that recognizes and manipulates faces from Python or from the command line.
 *   [imutils (⭐4.5k)](https://github.com/jrosebr1/imutils) - A library containing Convenience functions to make basic image processing operations such as translation, rotation, resizing, skeletonization, and displaying Matplotlib images easier with OpenCV and Python.
 
 ### Python / General-Purpose Machine Learning
 
-*   [ML Model building (⭐28)](https://github.com/Shanky-21/Machine_learning) -> A Repository Containing Classification, Clustering, Regression, Recommender Notebooks with illustration to make them.
+*   [ML Model building (⭐29)](https://github.com/Shanky-21/Machine_learning) -> A Repository Containing Classification, Clustering, Regression, Recommender Notebooks with illustration to make them.
 *   [steppy (⭐134)](https://github.com/neptune-ml/steppy) -> Lightweight, Python library for fast and reproducible machine learning experimentation. Introduces a very simple interface that enables clean machine learning pipeline design.
-*   [SimpleAI (⭐960)](https://github.com/simpleai-team/simpleai) Python implementation of many of the artificial intelligence algorithms described in the book "Artificial Intelligence, a Modern Approach". It focuses on providing an easy to use, well documented and tested library.
+*   [SimpleAI (⭐968)](https://github.com/simpleai-team/simpleai) Python implementation of many of the artificial intelligence algorithms described in the book "Artificial Intelligence, a Modern Approach". It focuses on providing an easy to use, well documented and tested library.
 *   [neuropredict (⭐99)](https://github.com/raamana/neuropredict) - Aimed at novice machine learners and non-expert programmers, this package offers easy (no coding needed) and comprehensive machine learning (evaluation and full report of predictive performance WITHOUT requiring you to code) in Python for NeuroImaging and any other type of features. This is aimed at absorbing much of the ML workflow, unlike other packages like nilearn and pymvpa, which require you to learn their API and code to produce anything useful.
 *   [imbalanced-learn](https://imbalanced-learn.org/stable/) - Python module to perform under sampling and oversampling with various techniques.
 *   [stacked\_generalization (⭐117)](https://github.com/fukatani/stacked_generalization) - Implementation of machine learning stacking technique as a handy library in Python.
 
 ### Python / Data Analysis / Data Visualization
 
-*   [DataVisualization (⭐39)](https://github.com/Shanky-21/Data_visualization) - A GitHub Repository Where you can Learn Datavisualizatoin Basics to Intermediate level.
+*   [DataVisualization (⭐41)](https://github.com/Shanky-21/Data_visualization) - A GitHub Repository Where you can Learn Datavisualizatoin Basics to Intermediate level.
 *   [Mars (⭐2.7k)](https://github.com/mars-project/mars) - A tensor-based framework for large-scale data computation which is often regarded as a parallel and distributed version of NumPy.
 
 ### R / General-Purpose Machine Learning
@@ -447,20 +429,20 @@
 
 ### Tools / Misc Tools
 
-*   [mitmproxy (⭐35k)](https://github.com/mitmproxy/mitmproxy)
-*   [dockerfile/androguard (⭐40)](https://github.com/dweinstein/dockerfile-androguard)
+*   [mitmproxy (⭐38k)](https://github.com/mitmproxy/mitmproxy)
+*   [dockerfile/androguard (⭐41)](https://github.com/dweinstein/dockerfile-androguard)
 *   [Android Vulnerability Test Suite (⭐1k)](https://github.com/AndroidVTS/android-vts) - android-vts scans a device for set of vulnerabilities
-*   [AppMon (⭐1.5k)](https://github.com/dpnishant/appmon)- AppMon is an automated framework for monitoring and tampering with system API calls of native macOS, iOS, and Android apps. It is based on Frida.
-*   [Internal Blue (⭐667)](https://github.com/seemoo-lab/internalblue) - Bluetooth experimentation framework based on Reverse Engineering of Broadcom Bluetooth Controllers
+*   [AppMon (⭐1.6k)](https://github.com/dpnishant/appmon)- AppMon is an automated framework for monitoring and tampering with system API calls of native macOS, iOS, and Android apps. It is based on Frida.
+*   [Internal Blue (⭐702)](https://github.com/seemoo-lab/internalblue) - Bluetooth experimentation framework based on Reverse Engineering of Broadcom Bluetooth Controllers
 *   ~~[Android Device Security Database](https://www.android-device-security.org/client/datatable) - Database of security features of Android devices~~
 
 ### Tools / Vulnerable Applications for practice
 
-*   [Damn Insecure Vulnerable Application (DIVA) (⭐934)](https://github.com/payatu/diva-android)
-*   [Vuldroid (⭐58)](https://github.com/jaiswalakshansh/Vuldroid)
+*   [Damn Insecure Vulnerable Application (DIVA) (⭐980)](https://github.com/payatu/diva-android)
+*   [Vuldroid (⭐62)](https://github.com/jaiswalakshansh/Vuldroid)
 *   [ExploitMe Android Labs](http://securitycompass.github.io/AndroidLabs/setup.html)
-*   [GoatDroid (⭐237)](https://github.com/jackMannino/OWASP-GoatDroid-Project)
-*   [Android InsecureBank (⭐1.2k)](https://github.com/dineshshetty/Android-InsecureBankv2)
+*   [GoatDroid (⭐239)](https://github.com/jackMannino/OWASP-GoatDroid-Project)
+*   [Android InsecureBank (⭐1.3k)](https://github.com/dineshshetty/Android-InsecureBankv2)
 
 ## [38. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 

@@ -14,12 +14,12 @@
 
 ### Software / Content Management Systems (CMS)
 
-*   [Pimcore](https://www.pimcore.org/) - Multi-Channel Experience and Engagement Management Platform. ([Source Code (⭐3.3k)](https://github.com/pimcore/pimcore)) `GPL-3.0` `PHP/Docker`
-*   [Wagtail](https://wagtail.io/) - Django content management system focused on flexibility and user experience. ([Source Code (⭐18k)](https://github.com/wagtail/wagtail)) `BSD-3-Clause` `Python`
+*   [Pimcore](https://www.pimcore.org/) - Multi-Channel Experience and Engagement Management Platform. ([Source Code (⭐3.5k)](https://github.com/pimcore/pimcore)) `GPL-3.0` `PHP/Docker`
+*   [Wagtail](https://wagtail.io/) - Django content management system focused on flexibility and user experience. ([Source Code (⭐19k)](https://github.com/wagtail/wagtail)) `BSD-3-Clause` `Python`
 
 ### Software / Internet of Things (IoT)
 
-*   [Domoticz](https://www.domoticz.com/) - Home Automation System that lets you monitor and configure various devices like: Lights, Switches, various sensors/meters like Temperature, Rain, Wind, UV, Electra, Gas, Water and much more. ([Source Code (⭐3.5k)](https://github.com/domoticz/domoticz), [Clients (⭐104)](https://github.com/domoticz/domoticz-android)) `GPL-3.0` `C/C++/Docker/Shell`
+*   [Domoticz](https://www.domoticz.com/) - Home Automation System that lets you monitor and configure various devices like: Lights, Switches, various sensors/meters like Temperature, Rain, Wind, UV, Electra, Gas, Water and much more. ([Source Code (⭐3.5k)](https://github.com/domoticz/domoticz), [Clients (⭐107)](https://github.com/domoticz/domoticz-android)) `GPL-3.0` `C/C++/Docker/Shell`
 
 ### Software / Software Development - Project Management
 
@@ -35,7 +35,7 @@
 
 ### Serialization
 
-*   [yojson (⭐325)](https://github.com/ocaml-community/yojson) — An optimized parsing and printing library for the JSON format.
+*   [yojson (⭐328)](https://github.com/ocaml-community/yojson) — An optimized parsing and printing library for the JSON format.
 
 ## [4. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 

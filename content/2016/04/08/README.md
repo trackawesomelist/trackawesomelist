@@ -26,7 +26,7 @@
 
 ### Models/Projects
 
-*   [Generative Handwriting Demo using TensorFlow (⭐694)](https://github.com/hardmaru/write-rnn-tensorflow) - An attempt to implement the random handwriting generation portion of Alex Graves' paper
+*   [Generative Handwriting Demo using TensorFlow (⭐700)](https://github.com/hardmaru/write-rnn-tensorflow) - An attempt to implement the random handwriting generation portion of Alex Graves' paper
 
 ### Videos
 

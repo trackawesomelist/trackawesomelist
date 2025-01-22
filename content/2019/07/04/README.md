@@ -22,7 +22,7 @@
 
 ### UI / Barcode
 
-*   [BatteryView (⭐51)](https://github.com/yonat/BatteryView) - Simple battery shaped UIView.
+*   [BatteryView (⭐52)](https://github.com/yonat/BatteryView) - Simple battery shaped UIView.
 
 ## [4. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
 
@@ -42,7 +42,7 @@
 
 ### React Hooks / Themes
 
-*   [Sunflower(🌻) (⭐498)](https://github.com/ant-design/sunflower) Collection of React Hooks returning component of antd.
+*   [Sunflower(🌻) (⭐497)](https://github.com/ant-design/sunflower) Collection of React Hooks returning component of antd.
 
 ---
 

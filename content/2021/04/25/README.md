@@ -40,7 +40,7 @@
 
   CORS: Yes
 
-  Call this API: 
+  : 
 
 
 
@@ -48,7 +48,7 @@
 
 ### Web Frameworks / Bare metal / kernel development
 
-*   [DSSG (⭐17)](https://github.com/kambrium/dssg) - A static site generator with a different approach.
+*   [DSSG (⭐20)](https://github.com/kambrium/dssg) - A static site generator with a different approach.
 
 ## [4. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
@@ -58,7 +58,7 @@
 
 ### Community
 
-*   [Qlot (⭐444)](https://github.com/fukamachi/qlot) - A project-local library installer, similar to Bundler or Virtualenv. [Expat](https://directory.fsf.org/wiki/License:Expat).
+*   [Qlot (⭐484)](https://github.com/fukamachi/qlot) - A project-local library installer, similar to Bundler or Virtualenv. [Expat](https://directory.fsf.org/wiki/License:Expat).
     *   how to [use it from the Lisp REPL (⭐9)](https://github.com/svetlyak40wt/qlot-without-roswell) without Roswell.
 *   [Quicksys](https://lisp.com.br/quicksys/) - install systems from multiple Quicklisp distributions. [MIT](https://opensource.org/licenses/MIT).
 
@@ -71,7 +71,7 @@
 
 *   [local-time-duration (⭐17)](https://github.com/enaeher/local-time-duration) -
     Duration processing library built on top of local-time. [MIT](https://opensource.org/licenses/MIT).
-    *   see this fork: [humanize-duration (⭐8)](https://github.com/40ants/humanize-duration), that outputs only significant parts of a duration object. Has localization suport.
+    *   see this fork: [humanize-duration (⭐9)](https://github.com/40ants/humanize-duration), that outputs only significant parts of a duration object. Has localization suport.
 
 ## [5. Awesome Tensorflow Lite](/content/margaretmz/awesome-tensorflow-lite/README.md)
 
@@ -85,7 +85,6 @@
 
 ### Issue Tracking and Project Management
 
-*   [vabotu](https://vabotu.com/) - A collaborative tool for project management. Free and other plans are available. The Freelance plan is for ten users and includes messaging, task boards, 5GB online storage, workspaces, and export data.
 *   [Wikifactory](https://wikifactory.com/) — Product designing Service with Projects, VCS & Issues. The free plan offers unlimited projects & collaborators and 3GB storage.
 
 ## [7. Awesome React Native](/content/jondot/awesome-react-native/README.md)
@@ -104,8 +103,8 @@
 
 ### Others / Other Resource
 
-*   🌟🌟🌟 [Stock-Prediction-Models (⭐7.6k)](https://github.com/huseinzol05/Stock-Prediction-Models) - Stock-Prediction-Models, Gathers machine learning and deep learning models for Stock forecasting, included trading bots and simulations.
-*   🌟🌟 [Financial Machine Learning (⭐6.3k)](https://github.com/firmai/financial-machine-learning) - A curated list of practical financial machine learning (FinML) tools and applications. This collection is primarily in Python.
+*   🌟🌟🌟 [Stock-Prediction-Models (⭐8.2k)](https://github.com/huseinzol05/Stock-Prediction-Models) - Stock-Prediction-Models, Gathers machine learning and deep learning models for Stock forecasting, included trading bots and simulations.
+*   🌟🌟 [Financial Machine Learning (⭐7.4k)](https://github.com/firmai/financial-machine-learning) - A curated list of practical financial machine learning (FinML) tools and applications. This collection is primarily in Python.
 
 ---
 

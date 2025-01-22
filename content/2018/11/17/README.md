@@ -32,7 +32,7 @@
 
 ### Other / Godot version unknown
 
-*   [godot-ci (⭐691)](https://github.com/aBARICHELLO/godot-ci) - Docker image to export Godot games through CI. Includes GitLab CI script example.
+*   [godot-ci (⭐781)](https://github.com/aBARICHELLO/godot-ci) - Docker image to export Godot games through CI. Includes GitLab CI script example.
 
 ## [4. Awesome Eosio](/content/DanailMinchev/awesome-eosio/README.md)
 

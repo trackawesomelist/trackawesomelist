@@ -10,7 +10,7 @@
 
 ### Free fonts / Fonts
 
-*   [Barlow (⭐640)](https://github.com/jpt/barlow) - A grotesk variable font superfamily
+*   [Barlow (⭐733)](https://github.com/jpt/barlow) - A grotesk variable font superfamily
 
 ### JavaScript libs / Programming fonts with ligatures
 
@@ -36,7 +36,7 @@
 
 ## [5. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 
-### Blog posts
+### Blog posts  (a-z↓)
 
 *   [Visual Regression Testing with Puppeteer & Jest](https://www.viswiz.io/help/tutorials/puppeteer) - Tutorial to setup visual testing with Puppeteer, Jest and VisWiz.io.
 
@@ -44,11 +44,11 @@
 
 ### Audio
 
-*   [SoLoud (⭐1.7k)](https://github.com/jarikomppa/soloud) - Easy, portable audio engine for games. \[zlib]
+*   [SoLoud (⭐1.8k)](https://github.com/jarikomppa/soloud) - Easy, portable audio engine for games. \[zlib]
 
 ### Graphics
 
-*   [Diligent Engine (⭐3.5k)](https://github.com/DiligentGraphics/DiligentEngine) - A modern cross-platform low-level 3D graphics library. \[Apache2]
+*   [Diligent Engine (⭐3.7k)](https://github.com/DiligentGraphics/DiligentEngine) - A modern cross-platform low-level 3D graphics library. \[Apache2]
 
 ### Online Compiler
 

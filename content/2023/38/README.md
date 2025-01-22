@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 18 - Sep 24, 2023
 
-49 awesome lists updated this week.
+48 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -22,8 +22,8 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [eza (clavelm) (⭐0)](https://github.com/clavelm/eza-omz-plugin) - Replaces `ls` with [eza-community/eza (⭐11k)](https://github.com/eza-community/eza).
-*   [eza (z-shell) (⭐48)](https://github.com/z-shell/zsh-eza) - Replaces `ls` with [eza-community/eza (⭐11k)](https://github.com/eza-community/eza).
+*   [eza (clavelm) (⭐0)](https://github.com/clavelm/eza-omz-plugin) - Replaces `ls` with [eza-community/eza (⭐14k)](https://github.com/eza-community/eza).
+*   [eza (z-shell) (⭐68)](https://github.com/z-shell/zsh-eza) - Replaces `ls` with [eza-community/eza (⭐14k)](https://github.com/eza-community/eza).
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -33,7 +33,7 @@
 
 ### Cheat Sheets / Randomized Algorithms
 
-*   [Tech Interview Cheat Sheet (⭐4.1k)](https://github.com/TSiege/Tech-Interview-Cheat-Sheet)
+*   [Tech Interview Cheat Sheet (⭐4.3k)](https://github.com/TSiege/Tech-Interview-Cheat-Sheet)
 
 ## [5. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
@@ -45,31 +45,30 @@
 
 ### Libraries / Email
 
-*   [duesee/imap-codec (⭐37)](https://github.com/duesee/imap-codec) \[[imap-codec](https://crates.io/crates/imap-codec)] - Rock-solid and complete codec for IMAP [![Build & Test](https://github.com/duesee/imap-codec/actions/workflows/build_and_test.yml/badge.svg)](https://github.com/duesee/imap-codec/actions/workflows/build_and_test.yml)
+*   [duesee/imap-codec (⭐39)](https://github.com/duesee/imap-codec) \[[imap-codec](https://crates.io/crates/imap-codec)] - Rock-solid and complete codec for IMAP [![Build & Test](https://github.com/duesee/imap-codec/actions/workflows/build_and_test.yml/badge.svg)](https://github.com/duesee/imap-codec/actions/workflows/build_and_test.yml)
 
 ### Libraries / Network programming
 
 *   QUIC
-    *   [aws/s2n-quic (⭐1.1k)](https://github.com/aws/s2n-quic) - An implementation of the IETF QUIC protocol ![ci](https://img.shields.io/github/actions/workflow/status/aws/s2n-quic/ci.yml?branch=main)
-    *   [cloudflare/quiche (⭐9.2k)](https://github.com/cloudflare/quiche) - cloudflare implementation of the QUIC transport protocol and HTTP/3 ![build](https://img.shields.io/github/actions/workflow/status/cloudflare/quiche/stable.yml?branch=master)
-    *   [mozilla/neqo (⭐1.8k)](https://github.com/mozilla/neqo) - an Implementation of QUIC
-    *   [quinn-rs/quinn (⭐3.7k)](https://github.com/quinn-rs/quinn) - Futures-based QUIC implementation [![build badge](https://dev.azure.com/dochtman/Projects/_apis/build/status/Quinn?branchName=master)](https://dev.azure.com/dochtman/Projects/_build)
-    *   [tencent/tquic (⭐1k)](https://github.com/Tencent/tquic) - A high-performance, lightweight, and cross-platform QUIC library [![Build Status](https://img.shields.io/github/actions/workflow/status/tencent/tquic/rust.yml)](https://github.com/Tencent/tquic/actions/workflows/rust.yml)
+    *   [aws/s2n-quic (⭐1.2k)](https://github.com/aws/s2n-quic) - An implementation of the IETF QUIC protocol ![ci](https://img.shields.io/github/actions/workflow/status/aws/s2n-quic/ci.yml?branch=main)
+    *   [cloudflare/quiche (⭐9.8k)](https://github.com/cloudflare/quiche) - cloudflare implementation of the QUIC transport protocol and HTTP/3 ![build](https://img.shields.io/github/actions/workflow/status/cloudflare/quiche/stable.yml?branch=master)
+    *   [mozilla/neqo (⭐1.9k)](https://github.com/mozilla/neqo) - an Implementation of QUIC
+    *   [quinn-rs/quinn (⭐4k)](https://github.com/quinn-rs/quinn) - Futures-based QUIC implementation [![build badge](https://dev.azure.com/dochtman/Projects/_apis/build/status/Quinn?branchName=master)](https://dev.azure.com/dochtman/Projects/_build)
+    *   [tencent/tquic (⭐1.2k)](https://github.com/Tencent/tquic) - A high-performance, lightweight, and cross-platform QUIC library [![Build Status](https://img.shields.io/github/actions/workflow/status/tencent/tquic/rust.yml)](https://github.com/Tencent/tquic/actions/workflows/rust.yml)
 
 ## [7. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Cross-platform integration
 
-*   [napi-rs (⭐5.8k)](https://github.com/napi-rs/napi-rs) - Framework for building compiled Node.js add-ons in Rust via Node-API.
-*   [Neon (⭐7.9k)](https://github.com/neon-bindings/neon) - Rust bindings for writing safe and fast native Node.js modules.
-*   [Edge.js (⭐5.4k)](https://github.com/tjanczuk/edge) - Run .NET and Node.js code in the same process on Windows, macOS, and Linux.
-*   [DotNetJS (⭐656)](https://github.com/Elringus/DotNetJS) - Consume .NET libraries in Node.js using this .NET interoperability layer.
+*   [napi-rs (⭐6.2k)](https://github.com/napi-rs/napi-rs) - Framework for building compiled Node.js add-ons in Rust via Node-API.
+*   [Neon (⭐8.1k)](https://github.com/neon-bindings/neon) - Rust bindings for writing safe and fast native Node.js modules.
+*   [DotNetJS (⭐673)](https://github.com/Elringus/DotNetJS) - Consume .NET libraries in Node.js using this .NET interoperability layer.
 
 ## [8. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
 
 ### Infrastructure
 
-*   [Interceptor Optimization (⭐100)](https://github.com/creatuity/magento2-interceptors) - New interceptors approach for Magento 2
+*   [Interceptor Optimization (⭐116)](https://github.com/creatuity/magento2-interceptors) - New interceptors approach for Magento 2
 
 ## [9. Awesome Esports](/content/Strift/awesome-esports/week/README.md)
 
@@ -91,51 +90,45 @@
 
 ### Components & Libraries / UI Components
 
-*   [vuedraggable-plus (⭐2.9k)](https://github.com/Alfred-Skyblue/vue-draggable-plus) - Vue component allowing drag-and-drop sorting module, support Vue>=v3 or Vue>=2.7. Based on Sortable.js.
-
-### Components & Libraries / Utilities
-
-*   [i18n-pro/vue (⭐2)](https://github.com/i18n-pro/vue) - Lightweight, simple, flexible, automatic translation internationalization tool for Vue.
-*   [i18n-pro/vue2 (⭐1)](https://github.com/i18n-pro/vue2) - Lightweight, simple, flexible, automatic translation internationalization tool for Vue 2.
+*   [vuedraggable-plus (⭐3.4k)](https://github.com/Alfred-Skyblue/vue-draggable-plus) - Vue component allowing drag-and-drop sorting module, support Vue>=v3 or Vue>=2.7. Based on Sortable.js.
 
 ## [12. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
 
 ### Table of Contents / Streaming Library
 
-*   [FastStream (⭐2.3k)](https://github.com/airtai/faststream) \[Python] - powerful and easy-to-use Python library simplifying the process of writing producers and consumers for message queues, handling all the parsing, networking and documentation generation automatically. Supports multiple protocols such as Apache Kafka, RabbitMQ and alike.
+*   [FastStream (⭐3.3k)](https://github.com/airtai/faststream) \[Python] - powerful and easy-to-use Python library simplifying the process of writing producers and consumers for message queues, handling all the parsing, networking and documentation generation automatically. Supports multiple protocols such as Apache Kafka, RabbitMQ and alike.
 
 ## [13. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Utility / Barcode
 
-*   [SwiftAutoGUI (⭐35)](https://github.com/NakaokaRei/SwiftAutoGUI) - Used to programmatically control the mouse & keyboard. A library for manipulating macOS with Swift.
+*   [SwiftAutoGUI (⭐40)](https://github.com/NakaokaRei/SwiftAutoGUI) - Used to programmatically control the mouse & keyboard. A library for manipulating macOS with Swift.
 
 ## [14. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
 ### Apps
 
-*   [archiveweb.page (⭐657)](https://github.com/webrecorder/archiveweb.page) - A High-Fidelity Web Archiving Extension for Chrome and Chromium based browsers with support for IPFS.
-*   [brig (⭐556)](https://github.com/sahib/brig) - File synchronization with git like interface and FUSE filesystem.
-*   [Diffuse (⭐768)](https://github.com/icidasset/diffuse) - Play music from your IPFS node, or any other cloud/distributed storage service you use.
-*   [IPFS-FPS (⭐3)](https://github.com/underscoredLabs/webgl-ipfs-fps) - A completely decentralized first person shooter. Built with Unity, Fleek, Unstoppable Domans and Pinata.
-*   [killcord (⭐513)](https://github.com/nomasters/killcord) - A censorship resistant deadman's switch
-*   [Peer Web Site (⭐166)](https://github.com/Weedshaker/PeerWebSite) - Peer to Peer Web Site hosting at your fingertips! Send full featured HTML (incl. CSS, JS) sites from your browser and attach files eg. videos, images, etc.
-*   [Peergos (⭐1.8k)](https://github.com/Peergos/Peergos) - End-to-end encrypted, peer-to-peer file storage and sharing.
-*   [Skiff (⭐926)](https://github.com/skiff-org/skiff-mail) - Privacy-first, end-to-end encrypted email, file storage, and collaboration platform using IPFS storage.
+*   [archiveweb.page (⭐924)](https://github.com/webrecorder/archiveweb.page) - A High-Fidelity Web Archiving Extension for Chrome and Chromium based browsers with support for IPFS.
+*   [brig (⭐571)](https://github.com/sahib/brig) - File synchronization with git like interface and FUSE filesystem.
+*   [Diffuse (⭐823)](https://github.com/icidasset/diffuse) - Play music from your IPFS node, or any other cloud/distributed storage service you use.
+*   [IPFS-FPS (⭐5)](https://github.com/underscoredLabs/webgl-ipfs-fps) - A completely decentralized first person shooter. Built with Unity, Fleek, Unstoppable Domans and Pinata.
+*   [killcord (⭐522)](https://github.com/nomasters/killcord) - A censorship resistant deadman's switch
+*   [Peer Web Site (⭐181)](https://github.com/Weedshaker/PeerWebSite) - Peer to Peer Web Site hosting at your fingertips! Send full featured HTML (incl. CSS, JS) sites from your browser and attach files eg. videos, images, etc.
+*   [Peergos (⭐2k)](https://github.com/Peergos/Peergos) - End-to-end encrypted, peer-to-peer file storage and sharing.
 
 ### Browsers
 
-*   [galacteek (⭐164)](https://github.com/pinnaculum/galacteek) - A multi-platform Qt5-based browser for the distributed web.
+*   [galacteek (⭐169)](https://github.com/pinnaculum/galacteek) - A multi-platform Qt5-based browser for the distributed web.
 
 ### Tools
 
-*   [Git IPFS Remote Bridge (⭐19)](https://github.com/ElettraSciComp/Git-IPFS-Remote-Bridge) - set of programs written in Python 3 which allow Git user to clone, push, fetch, self-host or release Git repositories over IPFS decentralized data storage system.
-*   [IPFS Setup Action (⭐16)](https://github.com/ibnesayeed/setup-ipfs) - A GitHub Action to install and initialize go-ipfs to provision a cross-platform test environment on GitHub's CI platform.
-*   [ipfs-publish (⭐61)](https://github.com/auhau/ipfs-publish/) - Continuous Delivery tool for delivery of static websites from Git providers to IPFS.
-*   [ipfs-video-gateway (⭐41)](https://github.com/bneijt/ipfs-video-gateway) - Cloud-init your own IPFS gateway on a cloud provider and easily pin content through a simple web interface.
-*   [IPLD Explorer (⭐112)](https://github.com/ipfs-shipyard/ipld-explorer) - Explore the Merkle Forest from the comfort of your browser.
-*   [Public Gateway Checker (⭐1.3k)](https://github.com/ipfs/public-gateway-checker) - Checks which public gateways are online or not.
-*   [youtube2ipfs (⭐16)](https://github.com/dokterbob/youtube2ipfs) - Download videos from YouTube (and similar video platforms) and add them to IPFS.
+*   [Git IPFS Remote Bridge (⭐26)](https://github.com/ElettraSciComp/Git-IPFS-Remote-Bridge) - set of programs written in Python 3 which allow Git user to clone, push, fetch, self-host or release Git repositories over IPFS decentralized data storage system.
+*   [IPFS Setup Action (⭐19)](https://github.com/ibnesayeed/setup-ipfs) - A GitHub Action to install and initialize go-ipfs to provision a cross-platform test environment on GitHub's CI platform.
+*   [ipfs-publish (⭐65)](https://github.com/auhau/ipfs-publish/) - Continuous Delivery tool for delivery of static websites from Git providers to IPFS.
+*   [ipfs-video-gateway (⭐46)](https://github.com/bneijt/ipfs-video-gateway) - Cloud-init your own IPFS gateway on a cloud provider and easily pin content through a simple web interface.
+*   [IPLD Explorer (⭐122)](https://github.com/ipfs-shipyard/ipld-explorer) - Explore the Merkle Forest from the comfort of your browser.
+*   [Public Gateway Checker (⭐1.9k)](https://github.com/ipfs/public-gateway-checker) - Checks which public gateways are online or not.
+*   [youtube2ipfs (⭐21)](https://github.com/dokterbob/youtube2ipfs) - Download videos from YouTube (and similar video platforms) and add them to IPFS.
 
 ### Services & Platforms
 
@@ -152,17 +145,17 @@
 
 ### Examples
 
-*   [hyperledger/cacti (⭐323)](https://github.com/hyperledger/cacti/wiki)
+*   [hyperledger/cacti (⭐348)](https://github.com/hyperledger/cacti/wiki)
 
 ## [16. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
 
 ### Python / Financial Instruments and Pricing
 
-*   [Kelly-Criterion (⭐88)](https://github.com/deltaray-io/kelly-criterion) - Kelly Criterion implemented in Python to size portfolios based on J. L. Kelly Jr's formula.
+*   [Kelly-Criterion (⭐93)](https://github.com/deltaray-io/kelly-criterion) - Kelly Criterion implemented in Python to size portfolios based on J. L. Kelly Jr's formula.
 
 ### Python / Trading & Backtesting
 
-*   [QSTrader (⭐2.9k)](https://github.com/mhallsmoore/qstrader) - QSTrader backtesting simulation engine.
+*   [QSTrader (⭐3k)](https://github.com/mhallsmoore/qstrader) - QSTrader backtesting simulation engine.
 
 ## [17. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/week/README.md)
 
@@ -174,9 +167,9 @@
 
 ### Extensions / Community
 
-*   [Media AI Bundle (⭐58)](https://github.com/Arood/directus-extension-media-ai-bundle) - Two operations to perform image description and OCR.
-*   [Directus Copilot (⭐65)](https://github.com/programmarchy/directus-extension-copilot/) - A bundle including a panel to ask data-aware questions in a chat interface.
-*   [OpenAI Automatic Translation (⭐37)](https://github.com/timio23/directus-operation-auto-translate/) - An operaiton to automatically translate new items via OpenAI.
+*   [Media AI Bundle (⭐63)](https://github.com/Arood/directus-extension-media-ai-bundle) - Two operations to perform image description and OCR.
+*   [Directus Copilot (⭐75)](https://github.com/programmarchy/directus-extension-copilot/) - A bundle including a panel to ask data-aware questions in a chat interface.
+*   [OpenAI Automatic Translation (⭐43)](https://github.com/timio23/directus-operation-auto-translate/) - An operaiton to automatically translate new items via OpenAI.
 *   [Machine Learning Operations (⭐12)](https://github.com/karamokoisrael/directus-hackathon-submission/) - A set of extensions to train, test and use machine learning models.
 
 ## [19. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
@@ -219,19 +212,19 @@
 
 ### Tools, Applications, Libraries, Frameworks
 
-*   [horcrux (⭐4.6k)](https://github.com/jesseduffield/horcrux) - Splits a file into encrypted fragments that only together can be decrypted again. In the Harry Potter universe, Horcruxes are fragments of a persons soul. To kill the person, all fragments must be destroyed.
+*   [horcrux (⭐4.7k)](https://github.com/jesseduffield/horcrux) - Splits a file into encrypted fragments that only together can be decrypted again. In the Harry Potter universe, Horcruxes are fragments of a persons soul. To kill the person, all fragments must be destroyed.
 
 ## [22. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### CSV
 
-*   [commata (⭐7)](https://github.com/furfurylic/commata) - Just another header-only C++17 CSV parser. \[Unlicense]
+*   [commata (⭐13)](https://github.com/furfurylic/commata) - Just another header-only C++17 CSV parser. \[Unlicense]
 
 ## [23. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Dependency Injection
 
-*   [gontainer (⭐36)](https://github.com/NVIDIA/gontainer) - A dependency injection service container for Go projects.
+*   [gontainer (⭐42)](https://github.com/NVIDIA/gontainer) - A dependency injection service container for Go projects.
 
 ### Go Generate Tools / Libraries for creating HTTP middlewares
 
@@ -239,13 +232,13 @@
 
 ### DevOps Tools / Libraries for creating HTTP middlewares
 
-*   [PipeCD (⭐1k)](https://github.com/pipe-cd/pipecd) - A GitOps-style continuous delivery platform that provides consistent deployment and operations experience for any applications.
+*   [PipeCD (⭐1.1k)](https://github.com/pipe-cd/pipecd) - A GitOps-style continuous delivery platform that provides consistent deployment and operations experience for any applications.
 
 ## [24. Awesome Acg](/content/soruly/awesome-acg/week/README.md)
 
 ### Uncategorized
 
-*   [ACG2vec (⭐525)](https://github.com/OysterQAQ/ACG2vec) - Various deep learning practices and explorations related to the two-dimensional domain. \[中文/English]
+*   [ACG2vec (⭐539)](https://github.com/OysterQAQ/ACG2vec) - Various deep learning practices and explorations related to the two-dimensional domain. \[中文/English]
 
 ## [25. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
 
@@ -269,7 +262,7 @@
 
 ### Compilers and interpreters
 
-*   [fulcrum-so/ziggy-pydust (⭐337)](https://github.com/fulcrum-so/ziggy-pydust) - [Python](https://python.org/) bindings.
+*   [fulcrum-so/ziggy-pydust (⭐479)](https://github.com/fulcrum-so/ziggy-pydust) - [Python](https://python.org/) bindings.
 
 ## [28. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
@@ -289,20 +282,20 @@
 
 ### Get Started
 
-*   [create-awesome-node-app (⭐61)](https://github.com/Create-Node-App/create-node-app) - Scaffolding your project choosing between different templates.
+*   [create-awesome-node-app (⭐73)](https://github.com/Create-Node-App/create-node-app) - Scaffolding your project choosing between different templates.
 
 ### Templates / React
 
-*   [vite-react-ts-shadcn-starter (⭐50)](https://github.com/Quilljou/vite-react-ts-tailwind-starter) - Template for creating `React 18` SPA apps with `TypeScript`, `React Router`, `Tailwind CSS`, `Shadcn UI`, `React Query`, `ESLint`, `Prettier`, `Stylelint`, `Husky`, `React-i18next`, `Transmart`.
-*   [template-tauri-vite-react-ts-tailwind (⭐8)](https://github.com/RoyRao2333/template-tauri-vite-react-ts-tailwind) - Template for Tauri + React + Typescript + TailwindCSS + Prettier + ESLint build-in.
+*   [vite-react-ts-shadcn-starter (⭐75)](https://github.com/Quilljou/vite-react-ts-tailwind-starter) - Template for creating `React 18` SPA apps with `TypeScript`, `React Router`, `Tailwind CSS`, `Shadcn UI`, `React Query`, `ESLint`, `Prettier`, `Stylelint`, `Husky`, `React-i18next`, `Transmart`.
+*   [template-tauri-vite-react-ts-tailwind (⭐13)](https://github.com/RoyRao2333/template-tauri-vite-react-ts-tailwind) - Template for Tauri + React + Typescript + TailwindCSS + Prettier + ESLint build-in.
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-dynamic-proxy (⭐7)](https://github.com/zjpzjp/vite-plugin-debug-proxy) - Automatically configure reverse proxies based on URL parameters.
+*   [vite-plugin-dynamic-proxy (⭐8)](https://github.com/zjpzjp/vite-plugin-debug-proxy) - Automatically configure reverse proxies based on URL parameters.
 
 ### Framework-agnostic Plugins / Testing
 
-*   [vite-plugin-doctest (⭐56)](https://github.com/ssssota/doc-vitest) - Documentation testing for Vitest.
+*   [vite-plugin-doctest (⭐61)](https://github.com/ssssota/doc-vitest) - Documentation testing for Vitest.
 
 ## [31. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
@@ -315,49 +308,43 @@
 *   [Enhancing Data Analytics with Polars and MinIO](https://medium.com/learning-the-computers/enhancing-data-analytics-with-polars-and-minio-a04053fff093) - A blog post that explains how to use Polars with Minio’s open-source object storage by [@IndexSeek](https://github.com/IndexSeek).
 *   [Using Polars with Snowflake](https://medium.com/snowflake/using-polars-with-snowflake-cbdd49b0ca6b) - A blog post that shows how to use Polars with Snowflake by [@IndexSeek](https://github.com/IndexSeek).
 
-## [32. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/week/README.md)
+## [32. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
-### **Trustworthy, Safe and Secure LLM** / **GPT series release date**
-
-*   Red Teaming: The term red teaming has historically described systematic adversarial attacks for testing security vulnerabilities. LLM red teamers should be a mix of people with diverse social and professional backgrounds, demographic groups, and interdisciplinary expertise that fits the deployment context of your AI system. [ref](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/red-teaming)
-
-## [33. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
-
-### VPN Services / Telegram
+### VPN Services / Steam
 
 *   [OffShore.cat](https://offshore.cat/vpn) - list of vpns for the privacy conscious
 
-## [34. Awesome Esolangs](/content/angrykoala/awesome-esolangs/week/README.md)
+## [33. Awesome Esolangs](/content/angrykoala/awesome-esolangs/week/README.md)
 
 ### Languages
 
 *   [><>](https://esolangs.org/wiki/fish) - A stack-based 2d language with support for reflection.
 
-## [35. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [34. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Blogging Platforms
 
-*   [Mataroa](https://mataroa.blog/) - Mataroa is a naked blogging platform for minimalists. ([Source Code (⭐249)](https://github.com/mataroa-blog/mataroa)) `MIT` `Python`
+*   [Mataroa](https://mataroa.blog/) - Mataroa is a naked blogging platform for minimalists. ([Source Code (⭐277)](https://github.com/mataroa-blog/mataroa)) `MIT` `Python`
 
 ### Software / Learning and Courses
 
-*   [INGInious](https://inginious.org/?lang=en) - Intelligent grader that allows secured and automated testing of code made by students. ([Source Code (⭐201)](https://github.com/UCL-INGI/INGInious), [Clients (⭐3)](https://github.com/UCL-INGI/INGInious-plugins)) `AGPL-3.0` `Python/Docker`
+*   [INGInious](https://inginious.org/?lang=en) - Intelligent grader that allows secured and automated testing of code made by students. ([Source Code (⭐216)](https://github.com/UCL-INGI/INGInious), [Clients (⭐3)](https://github.com/UCL-INGI/INGInious-plugins)) `AGPL-3.0` `Python/Docker`
 
 ### Software / Search Engines
 
-*   [Websurfx (⭐691)](https://github.com/neon-mmd/websurfx) `⚠` - Aggregate results from other search engines (metasearch engine) without ads while keeping privacy and security in mind. It is extremely fast and provides a high level of customization (alternative to SearX). `AGPL-3.0` `Rust/Docker`
+*   [Websurfx (⭐794)](https://github.com/neon-mmd/websurfx) `⚠` - Aggregate results from other search engines (metasearch engine) without ads while keeping privacy and security in mind. It is extremely fast and provides a high level of customization (alternative to SearX). `AGPL-3.0` `Rust/Docker`
 
 ### Software / Software Development - API Management
 
-*   [Hoppscotch Community Edition](https://hoppscotch.io) - A free, fast and beautiful API request builder. ([Source Code (⭐63k)](https://github.com/hoppscotch/hoppscotch)) `MIT` `Nodejs/Docker`
+*   [Hoppscotch Community Edition](https://hoppscotch.io) - A free, fast and beautiful API request builder. ([Source Code (⭐67k)](https://github.com/hoppscotch/hoppscotch)) `MIT` `Nodejs/Docker`
 
-## [36. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+## [35. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
 ### Extensions and Utilities
 
 *   [Solar Tools](https://solargames.io/tools/) - A commercial toolkit for PlayCanvas that includes a GPU instancer, terrain and effects scripts, multiplayer etc.
 
-## [37. Awesome Fantasy](/content/RichardLitt/awesome-fantasy/week/README.md)
+## [36. Awesome Fantasy](/content/RichardLitt/awesome-fantasy/week/README.md)
 
 ### Standard Fantasy / [The Second Apocalypse](https://www.goodreads.com/series/83561-the-second-apocalypse) by [R. Scott Bakker](https://en.wikipedia.org/wiki/R._Scott_Bakker)
 
@@ -369,7 +356,7 @@
 *   [The Great Ordeal](https://www.goodreads.com/book/show/27160926-the-great-ordeal) \[4.07]
 *   [The Unholy Consult](https://www.goodreads.com/book/show/9968073-the-unholy-consult) \[3.88]
 
-## [38. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/week/README.md)
+## [37. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/week/README.md)
 
 ### Image / Services
 
@@ -379,20 +366,20 @@
 
 *   [NVIDIA Omniverse AI Animal Explorer Extension](https://docs.omniverse.nvidia.com/extensions/latest/ext_animal-explorer.html#installation) - AI Animal Explorer is an Omniverse extension that enables creators to quickly prototype unique 3D animal meshes.
 
-## [39. Awesome V](/content/vlang/awesome-v/week/README.md)
+## [38. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Discord
 
-*   [discordwebhook (⭐0)](https://github.com/ysdragon/discordwebhook) - Super simple interface to send discord messages through webhooks.
+*   [discordwebhook (⭐1)](https://github.com/ysdragon/discordwebhook) - Super simple interface to send discord messages through webhooks.
 
-## [40. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [39. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Community / Interfaces to other package managers
 
 *   [asdf-sbcl (⭐21)](https://github.com/smashedtoatoms/asdf-sbcl), a plugin for the universal package manager.
 *   📹 [this Youtube video](https://www.youtube.com/watch?v=lGS4sr6AzKw) (by 40ants, 2023) on how to use alien-works-delivery and linux-packaging.
 
-## [41. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
+## [40. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
 
 ### Machine Learning / General Purpose Machine Learning
 
@@ -401,17 +388,17 @@
 ### Machine Learning / Gradient Boosting
 
 *   [NGBoost (⭐1.6k)](https://github.com/stanfordmlgroup/ngboost) - Natural Gradient Boosting for Probabilistic Prediction.
-*   [TensorFlow Decision Forests (⭐651)](https://github.com/tensorflow/decision-forests) - A collection of state-of-the-art algorithms for the training, serving and interpretation of Decision Forest models in Keras. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/keras_big.png" alt="keras"> <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="TensorFlow">
+*   [TensorFlow Decision Forests (⭐658)](https://github.com/tensorflow/decision-forests) - A collection of state-of-the-art algorithms for the training, serving and interpretation of Decision Forest models in Keras. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/keras_big.png" alt="keras"> <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="TensorFlow">
 
 ### Deep Learning / JAX
 
-*   [JAX (⭐28k)](https://github.com/google/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more.
-*   [FLAX (⭐5.5k)](https://github.com/google/flax) - A neural network library for JAX that is designed for flexibility.
-*   [Optax (⭐1.5k)](https://github.com/google-deepmind/optax) - A gradient processing and optimization library for JAX.
+*   [JAX (⭐30k)](https://github.com/google/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more.
+*   [FLAX (⭐6k)](https://github.com/google/flax) - A neural network library for JAX that is designed for flexibility.
+*   [Optax (⭐1.6k)](https://github.com/google-deepmind/optax) - A gradient processing and optimization library for JAX.
 
 ### Deep Learning / Others
 
-*   [transformers (⭐125k)](https://github.com/huggingface/transformers) - State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible"> <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="sklearn">
+*   [transformers (⭐133k)](https://github.com/huggingface/transformers) - State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible"> <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="sklearn">
 
 ### Automated Machine Learning / Others
 
@@ -419,38 +406,38 @@
 
 ### Natural Language Processing / Others
 
-*   [KerasNLP (⭐701)](https://github.com/keras-team/keras-nlp) - Modular Natural Language Processing workflows with Keras. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/keras_big.png" alt="Keras based/compatible">
+*   [KerasNLP (⭐766)](https://github.com/keras-team/keras-nlp) - Modular Natural Language Processing workflows with Keras. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/keras_big.png" alt="Keras based/compatible">
 
 ### Computer Vision / Others
 
-*   [KerasCV (⭐950)](https://github.com/keras-team/keras-cv) - Industry-strength Computer Vision workflows with Keras. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/keras_big.png" alt="MXNet based">
+*   [KerasCV (⭐1k)](https://github.com/keras-team/keras-cv) - Industry-strength Computer Vision workflows with Keras. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/keras_big.png" alt="MXNet based">
 
 ### Reinforcement Learning / Others
 
-*   [Gymnasium (⭐5.8k)](https://github.com/Farama-Foundation/Gymnasium) - An API standard for single-agent reinforcement learning environments, with popular reference environments and related utilities (formerly [Gym (⭐34k)](https://github.com/openai/gym)).
-*   [Stable Baselines3 (⭐8k)](https://github.com/DLR-RM/stable-baselines3) - A set of improved implementations of reinforcement learning algorithms based on OpenAI Baselines.
-*   [Shimmy (⭐118)](https://github.com/Farama-Foundation/Shimmy) - An API conversion tool for popular external reinforcement learning environments.
-*   [EnvPool (⭐1k)](https://github.com/sail-sg/envpool) - C++-based high-performance parallel environment execution engine (vectorized env) for general RL environments.
-*   [Tianshou (⭐7.4k)](https://github.com/thu-ml/tianshou/#comprehensive-functionality) - An elegant PyTorch deep reinforcement learning library. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
-*   [Acme (⭐3.4k)](https://github.com/google-deepmind/acme) - A library of reinforcement learning components and agents.
+*   [Gymnasium (⭐6.9k)](https://github.com/Farama-Foundation/Gymnasium) - An API standard for single-agent reinforcement learning environments, with popular reference environments and related utilities (formerly [Gym (⭐35k)](https://github.com/openai/gym)).
+*   [Stable Baselines3 (⭐8.8k)](https://github.com/DLR-RM/stable-baselines3) - A set of improved implementations of reinforcement learning algorithms based on OpenAI Baselines.
+*   [Shimmy (⭐133)](https://github.com/Farama-Foundation/Shimmy) - An API conversion tool for popular external reinforcement learning environments.
+*   [EnvPool (⭐1.1k)](https://github.com/sail-sg/envpool) - C++-based high-performance parallel environment execution engine (vectorized env) for general RL environments.
+*   [Tianshou (⭐7.8k)](https://github.com/thu-ml/tianshou/#comprehensive-functionality) - An elegant PyTorch deep reinforcement learning library. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
+*   [Acme (⭐3.5k)](https://github.com/google-deepmind/acme) - A library of reinforcement learning components and agents.
 *   [Catalyst-RL (⭐46)](https://github.com/catalyst-team/catalyst-rl) - PyTorch framework for RL research. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
-*   [d3rlpy (⭐1.2k)](https://github.com/takuseno/d3rlpy) - An offline deep reinforcement learning library.
+*   [d3rlpy (⭐1.3k)](https://github.com/takuseno/d3rlpy) - An offline deep reinforcement learning library.
 *   [rlpyt (⭐2.2k)](https://github.com/astooke/rlpyt) - Reinforcement Learning in PyTorch. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
-*   [cleanrl (⭐4.5k)](https://github.com/vwxyzjn/cleanrl) - High-quality single file implementation of Deep Reinforcement Learning algorithms with research-friendly features (PPO, DQN, C51, DDPG, TD3, SAC, PPG).
-*   [Machin (⭐389)](https://github.com/iffiX/machin) -  A reinforcement library designed for pytorch. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
-*   [SKRL (⭐406)](https://github.com/Toni-SM/skrl) - Modular reinforcement learning library (on PyTorch and JAX) with support for NVIDIA Isaac Gym, Isaac Orbit and Omniverse Isaac Gym. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
+*   [cleanrl (⭐5.4k)](https://github.com/vwxyzjn/cleanrl) - High-quality single file implementation of Deep Reinforcement Learning algorithms with research-friendly features (PPO, DQN, C51, DDPG, TD3, SAC, PPG).
+*   [Machin (⭐397)](https://github.com/iffiX/machin) -  A reinforcement library designed for pytorch. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
+*   [SKRL (⭐518)](https://github.com/Toni-SM/skrl) - Modular reinforcement learning library (on PyTorch and JAX) with support for NVIDIA Isaac Gym, Isaac Orbit and Omniverse Isaac Gym. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
 
 ### Graph Machine Learning / Others
 
-*   [PyTorch Geometric Signed Directed (⭐114)](https://github.com/SherylHYX/pytorch_geometric_signed_directed) -  A signed/directed graph neural network extension library for PyTorch Geometric. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
+*   [PyTorch Geometric Signed Directed (⭐121)](https://github.com/SherylHYX/pytorch_geometric_signed_directed) -  A signed/directed graph neural network extension library for PyTorch Geometric. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
 *   [dgl (⭐13k)](https://github.com/dmlc/dgl) - Python package built to ease deep learning on graph, on top of existing DL frameworks. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible"> <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="TensorFlow"> <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/mxnet_big.png" alt="MXNet based">
 *   [StellarGraph (⭐2.9k)](https://github.com/stellargraph/stellargraph) - Machine Learning on Graphs. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="TensorFlow">  <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/keras_big.png" alt="Keras compatible">
 *   [Graph Nets (⭐5.3k)](https://github.com/google-deepmind/graph_nets) - Build Graph Nets in Tensorflow. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="TensorFlow">
 *   [TensorFlow GNN (⭐1.3k)](https://github.com/tensorflow/gnn) - A library to build Graph Neural Networks on the TensorFlow platform. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="TensorFlow">
 *   [Auto Graph Learning (⭐1.1k)](https://github.com/THUMNLab/AutoGL) - An autoML framework & toolkit for machine learning on graphs.
 *   [PyTorch-BigGraph (⭐3.4k)](https://github.com/facebookresearch/PyTorch-BigGraph) - Generate embeddings from large-scale graph-structured data. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
-*   [GreatX (⭐81)](https://github.com/EdisonLeeeee/GreatX) - A graph reliability toolbox based on PyTorch and PyTorch Geometric (PyG). <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
-*   [Jraph (⭐1.3k)](https://github.com/google-deepmind/jraph) - A Graph Neural Network Library in Jax.
+*   [GreatX (⭐83)](https://github.com/EdisonLeeeee/GreatX) - A graph reliability toolbox based on PyTorch and PyTorch Geometric (PyG). <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
+*   [Jraph (⭐1.4k)](https://github.com/google-deepmind/jraph) - A Graph Neural Network Library in Jax.
 
 ### Probabilistic Graphical Models / Others
 
@@ -458,9 +445,9 @@
 
 ### Feature Engineering / General
 
-*   [OpenFE (⭐670)](https://github.com/IIIS-Li-Group/OpenFE) - Automated feature generation with expert-level performance.
+*   [OpenFE (⭐775)](https://github.com/IIIS-Li-Group/OpenFE) - Automated feature generation with expert-level performance.
 
-## [42. Ai Collection](/content/ai-collection/ai-collection/week/README.md)
+## [41. Ai Collection](/content/ai-collection/ai-collection/week/README.md)
 
 ### Chat Bot
 
@@ -567,7 +554,7 @@
 
 
 
-## [43. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [42. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Generative AI history, timelines, maps, and definitions
 
@@ -585,63 +572,62 @@
 
 *   [Prompt Engineering Roadmap - roadmap.sh](https://roadmap.sh/prompt-engineering)
 
-## [44. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [43. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### (requires Neovim 0.5)
 
-*   [Wansmer/symbol-usage.nvim (⭐249)](https://github.com/Wansmer/symbol-usage.nvim) - Display references, definitions and implementations of document symbols.
+*   [Wansmer/symbol-usage.nvim (⭐311)](https://github.com/Wansmer/symbol-usage.nvim) - Display references, definitions and implementations of document symbols.
 
 ### (requires Neovim 0.5) / Diagnostics
 
-*   [chrisgrieser/nvim-rulebook (⭐69)](https://github.com/chrisgrieser/nvim-rulebook) - Add inline-comments to ignore rules, or lookup rule documentation online.
+*   [chrisgrieser/nvim-rulebook (⭐79)](https://github.com/chrisgrieser/nvim-rulebook) - Add inline-comments to ignore rules, or lookup rule documentation online.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [cryptomilk/nightcity.nvim (⭐55)](https://github.com/cryptomilk/nightcity.nvim) - A dark colorscheme inspired by Inkpot, Jellybeans, Gruvbox and Tokyonight with LSP support.
+*   [cryptomilk/nightcity.nvim (⭐60)](https://github.com/cryptomilk/nightcity.nvim) - A dark colorscheme inspired by Inkpot, Jellybeans, Gruvbox and Tokyonight with LSP support.
 
 ### Tabline / Diagnostics
 
-*   [willothy/nvim-cokeline (⭐534)](https://github.com/willothy/nvim-cokeline) - A bufferline for people with addictive personalities.
+*   [willothy/nvim-cokeline (⭐573)](https://github.com/willothy/nvim-cokeline) - A bufferline for people with addictive personalities.
 
 ### Utility / Diagnostics
 
-*   [sontungexpt/url-open (⭐76)](https://github.com/sontungexpt/url-open) - Open URLs under the cursor and create highlight effects for them.
-*   [luckasRanarison/nvim-devdocs (⭐265)](https://github.com/luckasRanarison/nvim-devdocs) - Preview devdocs.io documentations directly in Markdown format.
+*   [sontungexpt/url-open (⭐92)](https://github.com/sontungexpt/url-open) - Open URLs under the cursor and create highlight effects for them.
 
 ### Terminal Integration / Diagnostics
 
-*   [willothy/wezterm.nvim (⭐171)](https://github.com/willothy/wezterm.nvim) - Functions for interacting with Wezterm.
-*   [mikesmithgh/kitty-scrollback.nvim (⭐403)](https://github.com/mikesmithgh/kitty-scrollback.nvim) - Open your Kitty scrollback buffer. Ameowzing.
+*   [willothy/wezterm.nvim (⭐214)](https://github.com/willothy/wezterm.nvim) - Functions for interacting with Wezterm.
+*   [mikesmithgh/kitty-scrollback.nvim (⭐540)](https://github.com/mikesmithgh/kitty-scrollback.nvim) - Open your Kitty scrollback buffer. Ameowzing.
 
 ### Quickfix / Diagnostics
 
-*   [yorickpeterse/nvim-pqf (⭐129)](https://github.com/yorickpeterse/nvim-pqf) - Prettier quickfix/location list windows.
+*   [yorickpeterse/nvim-pqf (⭐147)](https://github.com/yorickpeterse/nvim-pqf) - Prettier quickfix/location list windows.
 
 ### Git / Diagnostics
 
-*   [chrisgrieser/nvim-tinygit (⭐149)](https://github.com/chrisgrieser/nvim-tinygit) - Lightweight and nimble git client.
+*   [chrisgrieser/nvim-tinygit (⭐175)](https://github.com/chrisgrieser/nvim-tinygit) - Lightweight and nimble Git client.
 
 ### Editing Support / Diagnostics
 
-*   [chrisgrieser/nvim-puppeteer (⭐56)](https://github.com/chrisgrieser/nvim-puppeteer) - Automatically convert strings to f-strings or template strings and back.
+*   [chrisgrieser/nvim-puppeteer (⭐60)](https://github.com/chrisgrieser/nvim-puppeteer) - Automatically convert strings to f-strings or template strings and back.
 
 ### Session / Diagnostics
 
-*   [coffebar/neovim-project (⭐176)](https://github.com/coffebar/neovim-project) - Declarative project management, automatic saving of sessions, uses Telescope.
+*   [coffebar/neovim-project (⭐215)](https://github.com/coffebar/neovim-project) - Declarative project management, automatic saving of sessions, uses Telescope.
 
 ### Split and Window / Diagnostics
 
-*   [yorickpeterse/nvim-window (⭐96)](https://github.com/yorickpeterse/nvim-window) - Easily jump between Neovim windows.
+*   [yorickpeterse/nvim-window (⭐135)](https://github.com/yorickpeterse/nvim-window) - Easily jump between Neovim windows.
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [chrisgrieser/nvim-kickstart-python (⭐113)](https://github.com/chrisgrieser/nvim-kickstart-python) - A launch point for your Neovim configuration for Python.
+*   [chrisgrieser/nvim-kickstart-python (⭐137)](https://github.com/chrisgrieser/nvim-kickstart-python) - A launch point for your Neovim configuration for Python.
 
 ### OS-specific / Diagnostics
 
-*   [chrisgrieser/alfred-neovim-utilities (⭐34)](https://github.com/chrisgrieser/alfred-neovim-utilities) - Search Neovim plugins and online `:help` via Alfred (macOS).
+*   [chrisgrieser/alfred-neovim-utilities (⭐37)](https://github.com/chrisgrieser/alfred-neovim-utilities) - Search Neovim plugins and online `:help` via Alfred (macOS).
 
-## [45. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [44. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Integrations
 
@@ -651,17 +637,13 @@
 
 *   [Dyte](https://dyte.io) - Build powerful live experiences in your product with an all-in-one Video SDK.
 
-### Natural Language Processing
-
-*   [CometLLM (⭐504)](https://github.com/comet-ml/comet-llm) - UI to log, visualize, and search prompts, prompt templates, prompt variables, and chains. [![Comet](https://img.shields.io/github/stars/comet-ml/comet-llm?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/comet-ml/comet-llm)
-
-## [46. Awesome Translations](/content/mbiesiad/awesome-translations/week/README.md)
+## [45. Awesome Translations](/content/mbiesiad/awesome-translations/week/README.md)
 
 ### Translations
 
 *   [French (⭐2)](https://github.com/alexture/awesome-translations/tree/fr_FR)
 
-## [47. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [46. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
@@ -692,7 +674,7 @@
 ### Authentication, Authorization, and User Management
 
 *   [Kinde](https://kinde.com/) - Simple, robust authentication you can integrate with your product in minutes.  Everything you need to get started with 7,500 free MAU.
-*   [Stytch](https://www.stytch.com/) - Flexible authentication APIs and SDKs with reach-resistant passwords, passwordless login flows, MFA, SSO, and more. Email/SMS sending + failover and fraud protections built-in. Offers 5,000 Monthly Active Users free (B2C) or 1,000 Monthly Active Users and 25 Organizations free (B2B).
+*   [Stytch](https://www.stytch.com/) - An all-in-one platform that provides APIs and SDKs for authentication and fraud prevention. The free plan includes 10,000 monthly active users, unlimited organizations, 5 SSO or SCIM connections, and 1,000 M2M tokens.
 
 ### Mobile App Distribution and Feedback
 
@@ -739,18 +721,21 @@
 
 *   [Dwh.dev](https://dwh.dev) - Data Cloud Observability Solution (Snowflake). Free for personal use.
 
-## [48. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+## [47. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
-### Plugins and scripts / Various Godot versions
+### Plugins and scripts / Godot 4
 
-*   [BoxCam2D (⭐18)](https://github.com/sarooptech/BoxCam2D) - Simplest way to implement grid-based 2D camera movement (Godot 3.x).
-*   [Simplified Flight Simulation library (⭐174)](https://github.com/fbcosentino/godot-simplified-flightsim) - A library that helps you create a simple airplane/helicopter/spaceship flight simulator (Godot 3.x, 4.x).
+*   [Simplified Flight Simulation library (⭐200)](https://github.com/fbcosentino/godot-simplified-flightsim) - A library that helps you create a simple airplane/helicopter/spaceship flight simulator. *(Godot 3 and 4)*
 
-## [49. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+### Plugins and scripts / Godot 3
+
+*   [BoxCam2D (⭐18)](https://github.com/sarooptech/BoxCam2D) - Simplest way to implement grid-based 2D camera movement.
+
+## [48. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [sweet-monads (⭐323)](https://github.com/JSMonk/sweet-monads) - Typescript library for popular monads (such as `Maybe` or `Either`) and performant iterators.
+*   :octocat: [sweet-monads (⭐346)](https://github.com/JSMonk/sweet-monads) - Typescript library for popular monads (such as `Maybe` or `Either`) and performant iterators.
 
 ### :free: Free Courses / Chrome Extensions
 

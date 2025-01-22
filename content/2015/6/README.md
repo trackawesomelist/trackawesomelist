@@ -20,11 +20,11 @@
 
 ### JSON
 
-*   [RapidJSON (⭐14k)](https://github.com/miloyip/rapidjson) :zap: - A fast JSON parser/generator for C++ with both SAX/DOM style API. \[MIT] [website](https://rapidjson.org)
+*   [RapidJSON (⭐15k)](https://github.com/miloyip/rapidjson) :zap: - A fast JSON parser/generator for C++ with both SAX/DOM style API. \[MIT] [website](https://rapidjson.org)
 
 ### Machine Learning
 
-*   [OpenCV (⭐78k)](https://github.com/Itseez/opencv) :zap: - Open Source Computer Vision Library. \[BSD] [website](http://opencv.org/)
+*   [OpenCV (⭐80k)](https://github.com/Itseez/opencv) :zap: - Open Source Computer Vision Library. \[BSD] [website](http://opencv.org/)
 
 ### Networking
 
@@ -47,11 +47,11 @@
 
 ### Table of Contents / Dependency Injection
 
-*   [Container (⭐840)](https://github.com/thephpleague/container) - Another flexible dependency injection container.
+*   [Container (⭐850)](https://github.com/thephpleague/container) - Another flexible dependency injection container.
 
 ### Table of Contents / Imagery
 
-*   [Glide (⭐2.5k)](https://github.com/thephpleague/glide) - An on-demand image manipulation library.
+*   [Glide (⭐2.6k)](https://github.com/thephpleague/glide) - An on-demand image manipulation library.
 
 ### Table of Contents / Event
 
@@ -59,8 +59,8 @@
 
 ### Table of Contents / Authentication and Authorization
 
-*   [OAuth 1.0 Client (⭐958)](https://github.com/thephpleague/oauth1-client) - An OAuth 1.0 client library.
-*   [OAuth 2.0 Client (⭐3.6k)](https://github.com/thephpleague/oauth2-client) - An OAuth 2.0 client library.
+*   [OAuth 1.0 Client (⭐977)](https://github.com/thephpleague/oauth1-client) - An OAuth 1.0 client library.
+*   [OAuth 2.0 Client (⭐3.7k)](https://github.com/thephpleague/oauth2-client) - An OAuth 2.0 client library.
 
 ## [4. Awesome Dojo](/content/petk/awesome-dojo/week/README.md)
 
@@ -160,7 +160,7 @@
 
 **Mixed** platform for courses from universities and organizations worldwide\
 *(varied computer science subjects including theory and programming, data science, algorithms, ...)*
-#### [Awesome CS Courses (⭐54k)](https://github.com/prakhar1989/awesome-courses/blob/master/README.md)
+#### [Awesome CS Courses (⭐57k)](https://github.com/prakhar1989/awesome-courses/blob/master/README.md)
 
 **Free** university-level courses scoured from around the internet\
 *(varied and extensive computer science topics, ...)*
@@ -174,7 +174,7 @@
 ### Database Tools
 
 *   [Foreigner (⭐1.3k)](https://github.com/matthuhiggins/foreigner) - Adds foreign key helpers to migrations and correctly dumps foreign keys to schema.rb.
-*   [Upsert (⭐652)](https://github.com/seamusabshere/upsert) - Upsert on MySQL, PostgreSQL, and SQLite3. Transparently creates functions (UDF) for MySQL and PostgreSQL; on SQLite3, uses INSERT OR IGNORE.
+*   [Upsert (⭐651)](https://github.com/seamusabshere/upsert) - Upsert on MySQL, PostgreSQL, and SQLite3. Transparently creates functions (UDF) for MySQL and PostgreSQL; on SQLite3, uses INSERT OR IGNORE.
 
 ### Profiler and Optimization
 
@@ -187,7 +187,7 @@
 ### Scientific
 
 *   Classifiers
-    *   [classifier-reborn (⭐549)](https://github.com/jekyll/classifier-reborn) - An active fork of Classifier, and general module to allow Bayesian and other types of classifications.
+    *   [classifier-reborn (⭐554)](https://github.com/jekyll/classifier-reborn) - An active fork of Classifier, and general module to allow Bayesian and other types of classifications.
 
 ## [10. Awesome Canvas](/content/raphamorim/awesome-canvas/week/README.md)
 
@@ -208,9 +208,9 @@
 
 ### Cryptography
 
-*   [cipher (⭐60)](https://github.com/rubencaro/cipher) - Elixir crypto library to encrypt/decrypt arbitrary binaries.
-*   [exgpg (⭐18)](https://github.com/rozap/exgpg) - Use gpg from Elixir.
-*   [pot (⭐235)](https://github.com/yuce/pot) - Erlang library for generating one time passwords compatible with Google Authenticator.
+*   [cipher (⭐61)](https://github.com/rubencaro/cipher) - Elixir crypto library to encrypt/decrypt arbitrary binaries.
+*   [exgpg (⭐19)](https://github.com/rozap/exgpg) - Use gpg from Elixir.
+*   [pot (⭐238)](https://github.com/yuce/pot) - Erlang library for generating one time passwords compatible with Google Authenticator.
 
 ### Documentation
 
@@ -218,7 +218,7 @@
 
 ### Email
 
-*   [gen\_smtp (⭐684)](https://github.com/Vagabond/gen_smtp) - A generic Erlang SMTP server and client that can be extended via callback modules.
+*   [gen\_smtp (⭐686)](https://github.com/Vagabond/gen_smtp) - A generic Erlang SMTP server and client that can be extended via callback modules.
 
 ### Examples and funny stuff
 
@@ -232,11 +232,11 @@
 
 *   [addict (⭐645)](https://github.com/trenpixster/addict) - User authentication for Phoenix Framework.
 *   [plug\_heartbeat (⭐36)](https://github.com/whatyouhide/plug_heartbeat) - A plug for responding to heartbeat requests.
-*   [scrivener (⭐550)](https://github.com/drewolson/scrivener) - Paginate your Ecto queries.
+*   [scrivener (⭐554)](https://github.com/drewolson/scrivener) - Paginate your Ecto queries.
 
 ### Geolocation
 
-*   [geolix (⭐188)](https://github.com/mneudert/geolix) - MaxMind GeoIP2 database reader/decoder.
+*   [geolix (⭐190)](https://github.com/mneudert/geolix) - MaxMind GeoIP2 database reader/decoder.
 
 ### Networking
 
@@ -244,9 +244,9 @@
 
 ### ORM and Datamapping
 
-*   [esqlite (⭐126)](https://github.com/mmzeeman/esqlite) - Erlang NIF for sqlite.
+*   [esqlite (⭐131)](https://github.com/mmzeeman/esqlite) - Erlang NIF for sqlite.
 *   [sqlitex (⭐120)](https://github.com/mmmries/sqlitex) - An Elixir wrapper around esqlite. Allows access to sqlite3 databases.
-*   [tds (⭐114)](https://github.com/livehelpnow/tds) - MSSQL / TDS Database driver for Elixir.
+*   [tds (⭐116)](https://github.com/livehelpnow/tds) - MSSQL / TDS Database driver for Elixir.
 *   [yar (⭐8)](https://github.com/dantswain/yar) - Yet another Redis client for Elixir.
 
 ### Templating
@@ -256,19 +256,19 @@
 ### Text and Numbers
 
 *   [secure\_random (⭐96)](https://github.com/patricksrobertson/secure_random.ex) - Convenience library for random base64 strings modeled after my love for Ruby's SecureRandom.
-*   [slugger (⭐159)](https://github.com/h4cc/slugger) - Slugger can generate slugs from given strings that can be used in URLs or file names.
+*   [slugger (⭐161)](https://github.com/h4cc/slugger) - Slugger can generate slugs from given strings that can be used in URLs or file names.
 
 ### Third Party APIs
 
-*   [bitpay (⭐30)](https://github.com/bitpay/elixir-client) - Elixir core library for connecting to bitpay.com.
+*   [bitpay (⭐31)](https://github.com/bitpay/elixir-client) - Elixir core library for connecting to bitpay.com.
 *   [everyoneapi (⭐1)](https://github.com/knewter/everyoneapi) - API Client for EveryoneAPI.com.
 *   [exjira (⭐6)](https://github.com/mattweldon/exjira) - JIRA client library for Elixir.
-*   [mandrill (⭐51)](https://github.com/slogsdon/mandrill-elixir) - A Mandrill wrapper for Elixir.
+*   [mandrill (⭐50)](https://github.com/slogsdon/mandrill-elixir) - A Mandrill wrapper for Elixir.
 *   [tagplay (⭐0)](https://github.com/tagplay/elixir-tagplay) - Elixir client for Tagplay API.
 
 ### YAML
 
-*   [yamerl (⭐203)](https://github.com/yakaz/yamerl) - YAML 1.2 parser in Erlang.
+*   [yamerl (⭐205)](https://github.com/yakaz/yamerl) - YAML 1.2 parser in Erlang.
 
 ### Books
 
@@ -276,15 +276,15 @@
 
 ### Websites
 
-*   [Elixir Github Wiki (⭐24k)](https://github.com/elixir-lang/elixir/wiki) - The project's wiki, containing much useful information.
+*   [Elixir Github Wiki (⭐25k)](https://github.com/elixir-lang/elixir/wiki) - The project's wiki, containing much useful information.
 
 ## [12. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
-### Philosophy
+### Philosophy / Commerical Tools
 
 *   [How to Create a Mind: The Secret of Human Thought Revealed](http://www.audible.com/pd/Science-Technology/How-to-Create-a-Mind-Audiobook/B009S7OKJS/ref=a_search_c4_1_1_srTtl?qid=1422483493\&sr=1-1) - Ray Kurzweil, director of engineering at Google, explored the process of reverse-engineering the brain to understand precisely how it works, then applies that knowledge to create vastly intelligent machines.
 
-### Free Content
+### Free Content / Commerical Tools
 
 *   [Computers and Thought: A practical Introduction to Artificial Intelligence](http://www.cs.bham.ac.uk/research/projects/poplog/computers-and-thought/) - The book covers computer simulation of human activities, such as problem-solving and natural language understanding; computer vision; AI tools and techniques; an introduction to AI programming; symbolic and neural network models of cognition; the nature of mind and intelligence; and the social implications of AI and cognitive science.
 *   [Ethical Artificial Intelligence](http://arxiv.org/abs/1411.1373) - a book by Bill Hibbard that combines several peer-reviewed papers and new material to analyze the issues of ethical artificial intelligence.

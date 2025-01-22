@@ -92,7 +92,7 @@
 
 ## [7. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
 
-### Organizations
+### Organizations / Commerical Tools
 
 *   [OpenAI](https://openai.com/about/)
 *   [Association For The Advancement of Artificial Intelligence](http://www.aaai.org/home.html)

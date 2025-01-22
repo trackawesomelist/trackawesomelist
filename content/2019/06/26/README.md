@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 26, 2019
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,8 +16,8 @@
 
 ### External Services
 
-*   [music-box (⭐109)](https://github.com/jacc/music-box) - Update a pinned gist to contain your weekly listening report on Last.fm.
-*   [strava-box (⭐42)](https://github.com/JohnPhamous/strava-box) - Update a pinned gist to contain your YTD exercise metrics from Strava.
+*   [music-box (⭐112)](https://github.com/jacc/music-box) - Update a pinned gist to contain your weekly listening report on Last.fm.
+*   [strava-box (⭐45)](https://github.com/JohnPhamous/strava-box) - Update a pinned gist to contain your YTD exercise metrics from Strava.
 
 ## [3. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
@@ -25,19 +25,13 @@
 
 *   [Flutter Events](https://flutterevents.com) - An open list of Flutter events by [@hillelcoren](https://twitter.com/hillelcoren)
 
-## [4. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
-
-### Testing / Misc
-
-*   [Sendtest.email](https://sendtest.email/) - Test your HTML email, ⚡4email, or text version before sending. Privacy-focused, no sign-up required!
-
-## [5. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
+## [4. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
 ### Functional
 
 *   [atomico (⭐1.1k)](https://github.com/atomicojs/atomico) - Small library for the creation of interfaces based on web components using functions and hooks.
 
-## [6. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [5. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Tools & Utilities / Others
 
@@ -47,20 +41,20 @@
 
 *   [Bionic](https://bionicframework.github.io/Documentation/) - An Ionic CLI clone for Blazor projects.
 
-## [7. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+## [6. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Custom Scrollbar
 
 *   [react-custom-scroll (⭐547)](https://github.com/rommguy/react-custom-scroll) - [demo](http://rommguy.github.io/react-custom-scroll/example/demo.html) - Easily customize the browser scroll bar with native OS scroll behavior.
 
-## [8. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
+## [7. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
 
 ### Archive / Other Tools
 
 *   [A gentle introduction to lit-html](https://dev.to/julcasans/a-gentle-introduction-to-lit-html-3d74)
 *   [lit-html templates from zero to hero](https://dev.to/julcasans/lit-html-templates-from-zero-to-hero-2afm)
 
-## [9. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
+## [8. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
 
 ### Offensive / Server-Side Request Forgery
 

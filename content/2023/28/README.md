@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 10 - Jul 16, 2023
 
-54 awesome lists updated this week.
+53 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,29 +10,29 @@
 
 ### Resources / Editors
 
-*   [Mundus (⭐142)](https://github.com/JamesTKhan/Mundus) - World/level editor for 3D worlds with a runtime for libGDX.
+*   [Mundus (⭐162)](https://github.com/JamesTKhan/Mundus) - World/level editor for 3D worlds with a runtime for libGDX.
 
 ### Resources / Setup and Deployment
 
-*   [libgdx-library-template (⭐9)](https://github.com/tommyettinger/libgdx-library-template) - A skeleton project for making new libraries, since they need different config.
+*   [libgdx-library-template (⭐14)](https://github.com/tommyettinger/libgdx-library-template) - A skeleton project for making new libraries, since they need different config.
 
 ### Resources / User Interface
 
-*   [TextraTypist (⭐86)](https://github.com/tommyettinger/textratypist) - Like TypingLabel (below), but also supports styles, emoji, multiple fonts, clickable links, etc.
+*   [TextraTypist (⭐96)](https://github.com/tommyettinger/textratypist) - Like TypingLabel (below), but also supports styles, emoji, multiple fonts, clickable links, etc.
 
 ### Resources / Visual Effects
 
-*   [colorful-gdx (⭐67)](https://github.com/tommyettinger/colorful-gdx) - Expands how tinting can affect colors; also has many pre-written shaders.
+*   [colorful-gdx (⭐76)](https://github.com/tommyettinger/colorful-gdx) - Expands how tinting can affect colors; also has many pre-written shaders.
 
 ### Resources / Others
 
-*   [anim8-gdx (⭐34)](https://github.com/tommyettinger/anim8-gdx) - Allows saving (animated) GIFs and PNGs from sequences of Pixmaps, with configurable dithering if needed.
+*   [anim8-gdx (⭐41)](https://github.com/tommyettinger/anim8-gdx) - Allows saving (animated) GIFs and PNGs from sequences of Pixmaps, with configurable dithering if needed.
 
 ## [2. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Object to object mapping
 
-*   [Mapperly (⭐2.5k)](https://github.com/riok/mapperly) - A .NET source generator for generating object mappings. No runtime reflection.
+*   [Mapperly (⭐3.1k)](https://github.com/riok/mapperly) - A .NET source generator for generating object mappings. No runtime reflection.
 
 ## [3. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
@@ -66,11 +66,11 @@
 
 ### Applications / System tools
 
-*   [GQL (⭐3.2k)](https://github.com/amrdeveloper/gql) - A SQL like query language to run on .git files.
+*   [GQL (⭐3.4k)](https://github.com/amrdeveloper/gql) - A SQL like query language to run on .git files.
 
 ### Applications / Utilities
 
-*   [rustic-rs/rustic (⭐1.7k)](https://github.com/rustic-rs/rustic) \[[rustic-rs](https://crates.io/crates/rustic-rs)] - Fast, encrypted, deduplicated backups powered by Rust. [![Version](https://img.shields.io/crates/v/rustic-rs.svg)](https://crates.io/crates/rustic-rs)
+*   [rustic-rs/rustic (⭐2.1k)](https://github.com/rustic-rs/rustic) \[[rustic-rs](https://crates.io/crates/rustic-rs)] - Fast, encrypted, deduplicated backups powered by Rust. [![Version](https://img.shields.io/crates/v/rustic-rs.svg)](https://crates.io/crates/rustic-rs)
 
 ## [8. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/week/README.md)
 
@@ -104,7 +104,7 @@
 
 *   [Ultimate Vocal Remover](https://ultimatevocalremover.com/): vocal removal using AI
 
-### Inbox: Speech-to-text (STT) and spoken content analysis / Deforum
+### Speech-to-text (STT) and spoken content analysis / Deforum
 
 *   [GPT Web App Generator](https://magic-app-generator.wasp-lang.dev/): generates a webapp from a title, description, and other simple parameters
 
@@ -112,7 +112,7 @@
 
 ### AlgoKit Templates / Community
 
-*   [algokit-goracle-template (⭐3)](https://github.com/GoracleNetwork/algokit_default_template) - Algokit community template for quick starting a smart contract project interacting with goracle.
+*   [algokit-goracle-template (⭐4)](https://github.com/GoracleNetwork/algokit_default_template) - Algokit community template for quick starting a smart contract project interacting with goracle.
 
 ## [12. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
 
@@ -144,30 +144,31 @@
 
 *   Training materials:
     *   [IIPC and DPC Training materials: module for beginners (8 sessions)](https://netpreserve.org/web-archiving/training-materials/)
-    *   [UNT Web Archiving Course 2022 (⭐19)](https://github.com/vphill/web-archiving-course)
+    *   [UNT Web Archiving Course (⭐20)](https://github.com/vphill/web-archiving-course)
     *   [Continuing Education to Advance Web Archiving (CEDWARC)](https://cedwarc.github.io/)
+    *   [A Whirlwind Tour of Common Crawl's Datasets using Python (⭐15)](https://github.com/commoncrawl/whirlwind-python/)
 
 ## [15. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
-### Geospatial Research and Mapping Tools / Telegram
+### Geospatial Research and Mapping Tools / Steam
 
-*   [SatIntel (⭐634)](https://github.com/ANG13T/SatIntel)
+*   [SatIntel (⭐723)](https://github.com/ANG13T/SatIntel)
 
 ## [16. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Web Application Framework
 
-*   [C++ wfrest (⭐856)](https://github.com/wfrest/wfrest) - C++ Web Framework REST API. \[Apache2]
+*   [C++ wfrest (⭐906)](https://github.com/wfrest/wfrest) - C++ Web Framework REST API. \[Apache2]
 
 ## [17. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Caching
 
-*   [request\_cache\_plug (⭐22)](https://github.com/MikaAK/request_cache_plug) - Easy to use caching for requests in either Phoenix Controllers or GraphQL resolvers. Bypasses JSON encoding/decoding for a large speedup.
+*   [request\_cache\_plug (⭐24)](https://github.com/MikaAK/request_cache_plug) - Easy to use caching for requests in either Phoenix Controllers or GraphQL resolvers. Bypasses JSON encoding/decoding for a large speedup.
 
 ### Errors and Exception Handling
 
-*   [elixir\_error\_message (⭐30)](https://github.com/MikaAK/elixir_error_message) - Simple error helpers to make errors in your system predictable and easy to render to JSON or in logs.
+*   [elixir\_error\_message (⭐33)](https://github.com/MikaAK/elixir_error_message) - Simple error helpers to make errors in your system predictable and easy to render to JSON or in logs.
 
 ## [18. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
 
@@ -222,20 +223,20 @@
 
 ### Components & Libraries / UI Components
 
-*   [tanstack-table (⭐25k)](https://github.com/tanstack/table) - Headless UI for building powerful tables & datagrids.
-*   [@kolirt/vue-modal (⭐12)](https://github.com/kolirt/vue-modal) - ⚡️ Simple Vue3 modal package
-*   [vue-skia (⭐283)](https://github.com/rustq/vue-skia) - Skia based 2d graphics vue3 rendering library. It is based on Rust to implement software rasterization to perform rendering.
-*   [@kolirt/vue-web3-auth (⭐32)](https://github.com/kolirt/vue-web3-auth) - 💎 Web3 authentication for Vue3 apps based on WalletConnect v2 and wagmi
+*   [tanstack-table (⭐26k)](https://github.com/tanstack/table) - Headless UI for building powerful tables & datagrids.
+*   [@kolirt/vue-modal (⭐13)](https://github.com/kolirt/vue-modal) - ⚡️ Simple Vue3 modal package
+*   [vue-skia (⭐306)](https://github.com/rustq/vue-skia) - Skia based 2d graphics vue3 rendering library. It is based on Rust to implement software rasterization to perform rendering.
+*   [@kolirt/vue-web3-auth (⭐36)](https://github.com/kolirt/vue-web3-auth) - 💎 Web3 authentication for Vue3 apps based on WalletConnect v2 and wagmi
 
 ### Components & Libraries / Utilities
 
-*   [tanstack-query (⭐41k)](https://github.com/tanstack/query) - Powerful asynchronous state management.
+*   [tanstack-query (⭐43k)](https://github.com/tanstack/query) - Powerful asynchronous state management.
 
 ## [23. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Analytics
 
-*   [Tinybird](https://www.tinybird.co/) - Real-time data streams to APIs.
+*   [Tinybird](https://www.tinybird.co/) - Real-time data streams to APIs. [![featured on launchweek.dev](https://img.shields.io/badge/featured-0D1117.svg?style=flat-square\&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMzYwIiBoZWlnaHQ9IjM2MCIgdmlld0JveD0iMCAwIDM2MCAzNjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+IDxyZWN0IHdpZHRoPSI2MCIgaGVpZ2h0PSIzMDAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjYwIiB5PSIzMDAiIHdpZHRoPSIxMjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjI0MCIgeT0iMzAwIiB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjMwMCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjMwMCIgZmlsbD0id2hpdGUiLz4gPHJlY3QgeD0iMTgwIiB3aWR0aD0iNjAiIGhlaWdodD0iMzAwIiBmaWxsPSJ3aGl0ZSIvPiA8L3N2Zz4=)](https://launchweek.dev)
 
 ### Messaging
 
@@ -245,7 +246,7 @@
 
 ### Editors
 
-*   [polygon-editor (⭐6)](https://github.com/ArtemkaKun/polygon-editor) - A tool to create and edit 2D polygons with sprite lookup, created in V.
+*   [polygon-editor (⭐7)](https://github.com/ArtemkaKun/polygon-editor) - A tool to create and edit 2D polygons with sprite lookup, created in V.
 
 ## [25. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
@@ -265,8 +266,8 @@
 
 ### Apps
 
-*   [Taxonomy (⭐17k)](https://github.com/shadcn/taxonomy) - An example app built using Next.js 13 server components.
-*   [shadcn/ui (⭐50k)](https://github.com/shadcn/ui) - Beautifully designed components that you can copy and paste into your apps.
+*   [Taxonomy (⭐19k)](https://github.com/shadcn/taxonomy) - An example app built using Next.js 13 server components.
+*   [shadcn/ui (⭐78k)](https://github.com/shadcn/ui) - Beautifully designed components that you can copy and paste into your apps.
 
 ## [27. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
 
@@ -288,13 +289,13 @@
 
 ### 📁 Recipes / 🌱 Third Party
 
-*   [alpody/golang-fiber-realworld-example-app (⭐106)](https://github.com/alpody/golang-fiber-realworld-example-app) - Example real world backend API built with Fiber, Gorm, Swagger.
+*   [alpody/golang-fiber-realworld-example-app (⭐127)](https://github.com/alpody/golang-fiber-realworld-example-app) - Example real world backend API built with Fiber, Gorm, Swagger.
 
 ## [29. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Resources / Blog posts
 
-*   [EDA with Polars: Step-by-Step Guide to Aggregate and Analytic Functions (Part 2)](https://towardsdatascience.com/eda-with-polars-step-by-step-guide-to-aggregate-and-analytic-functions-part-2-a22d986315aa) - A blog post that shows how to perform with Polars and Python some fairly complex aggregates, rolling statistics and more by [@AntonsRuberts](https://github.com/AntonsRuberts). Code used is available in [this notebook (⭐50)](https://github.com/aruberts/tutorials/blob/main/polars/time_analysis.ipynb).
+*   [EDA with Polars: Step-by-Step Guide to Aggregate and Analytic Functions (Part 2)](https://towardsdatascience.com/eda-with-polars-step-by-step-guide-to-aggregate-and-analytic-functions-part-2-a22d986315aa) - A blog post that shows how to perform with Polars and Python some fairly complex aggregates, rolling statistics and more by [@AntonsRuberts](https://github.com/AntonsRuberts). Code used is available in [this notebook (⭐60)](https://github.com/aruberts/tutorials/blob/main/polars/time_analysis.ipynb).
 *   [Pyspark or Polars — What should you use?](https://medium.com/data-engineer-things/pyspark-or-polars-what-should-you-use-breakdown-of-similarities-and-differences-b261a825b9d6) - A blog post that explores and breaks down some of the similarities between PySpark and Polars. It provides insights on when to choose one over the other by [Vivek Kovvuru](https://www.linkedin.com/in/vivekkovvuru/).
 
 ## [30. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
@@ -317,29 +318,21 @@
 
 ### Utilities / Calendars
 
-*   [clevercli (⭐105)](https://github.com/clevercli/clevercli) - Collection of ChatGPT powered utilities.
+*   [clevercli (⭐126)](https://github.com/clevercli/clevercli) - Collection of ChatGPT powered utilities.
 
 ### Command Line Learning / Internet Speedtest
 
-*   [yai (⭐537)](https://github.com/ekkinox/yai) - AI powered terminal assistant.
+*   [yai (⭐674)](https://github.com/ekkinox/yai) - AI powered terminal assistant.
 
 ### Files and Directories / File Managers
 
-*   [far2l (⭐1.7k)](https://github.com/elfmz/far2l) - Orthodox file manager.
+*   [far2l (⭐1.8k)](https://github.com/elfmz/far2l) - Orthodox file manager.
 
-## [33. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/week/README.md)
-
-### **Evolutionary Tree of Large Language Models** / **GPT series release date**
-
-*   Evolutionary Graph of LLaMA Family
-
-    <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/llama-0628-final.png" width="450" />
-
-## [34. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [33. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Bayesian Modeling / Generative Model
 
-*   [Generative Modeling Explained (⭐46)](https://github.com/YuzheSHI/generative-modeling-explained) - ***Statistical Machine Learning Tutorials***, 2022. This tutorial on generative modeling is in part of Statistical Machine Learning Tutorial by Ying Nian Wu at UCLA Statistics. The tutorial goes over the key equations and algorithms for learning recent generative models, including energy-based models, diffusion/score-based models, autoregressive/flow-based models, VAEs, and GANs, and explains the connections between these models.
+*   [Generative Modeling Explained (⭐55)](https://github.com/YuzheSHI/generative-modeling-explained) - ***Statistical Machine Learning Tutorials***, 2022. This tutorial on generative modeling is in part of Statistical Machine Learning Tutorial by Ying Nian Wu at UCLA Statistics. The tutorial goes over the key equations and algorithms for learning recent generative models, including energy-based models, diffusion/score-based models, autoregressive/flow-based models, VAEs, and GANs, and explains the connections between these models.
 
 ### Problem Solving / Reinforcement Learning
 
@@ -350,13 +343,13 @@
 
 *   [Constraint relaxation and chunk decomposition in insight problem solving](https://www.hf.uni-koeln.de/data/fgpsych/File/Haider/Knoblich_etal_1999.pdf) - ***Journal of Experimental Psychology***, 1999. \[[All Versions](https://scholar.google.com/scholar?cluster=8057214169831054227\&hl=en\&as_sdt=0,5)]. \[[APA](https://psycnet.apa.org/record/1999-01477-011)].
 
-## [35. Awesome Groovy](/content/kdabir/awesome-groovy/week/README.md)
+## [34. Awesome Groovy](/content/kdabir/awesome-groovy/week/README.md)
 
 ### DSLs
 
 *   [Groogle](https://groogle.gitlab.io/groogle/latest/index.html) - A Groovy DSL written to use Google services APIs.
 
-## [36. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
+## [35. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
 
 ### Plugins / Frameworks
 
@@ -368,30 +361,30 @@
 
 ### Globals / Testing Tools
 
-*   [confusing-browser-globals (⭐102k)](https://github.com/facebook/create-react-app/tree/main/packages/confusing-browser-globals) - A curated list of browser globals that commonly cause confusion and are not recommended to use without an explicit window. qualifier.
+*   [confusing-browser-globals (⭐103k)](https://github.com/facebook/create-react-app/tree/main/packages/confusing-browser-globals) - A curated list of browser globals that commonly cause confusion and are not recommended to use without an explicit window. qualifier.
 
 ### Developing for ESLint / Testing Tools
 
 *   [eslint-docgen (⭐10)](https://github.com/wikimedia/eslint-docgen) - Automatically generate ESLint plugin documentation from rule metadata and test cases.
 
-## [37. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
+## [36. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
 
 ### Projects Related to eBPF / Tools
 
-*   [ebpfmon (⭐78)](https://github.com/redcanaryco/ebpfmon) - A TUI (terminal user interface) application for real time monitoring of eBPF programs.
+*   [ebpfmon (⭐85)](https://github.com/redcanaryco/ebpfmon) - A TUI (terminal user interface) application for real time monitoring of eBPF programs.
 
-## [38. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [37. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Multiplatform
 
-*   [Ashampoo/xmpcore (⭐16)](https://github.com/Ashampoo/xmpcore) - Kotlin Multiplatform port of Adobe's XMP SDK
-*   [Ashampoo/kim (⭐158)](https://github.com/Ashampoo/kim) - Kotlin Multiplatform library for reading and writing image metadata
+*   [Ashampoo/xmpcore (⭐17)](https://github.com/Ashampoo/xmpcore) - Kotlin Multiplatform port of Adobe's XMP SDK
+*   [Ashampoo/kim (⭐179)](https://github.com/Ashampoo/kim) - Kotlin Multiplatform library for reading and writing image metadata
 
 ### Libraries/Frameworks / Jetpack-Compose
 
-*   [mahozad/wavy-slider (⭐157)](https://github.com/mahozad/wavy-slider) - Multiplatform UI widget that recreates the Android 13 squiggly progress bar
+*   [mahozad/wavy-slider (⭐171)](https://github.com/mahozad/wavy-slider) - Multiplatform UI widget that recreates the Android 13 squiggly progress bar
 
-## [39. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/week/README.md)
+## [38. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/week/README.md)
 
 ### Learning / Computer Graphics
 
@@ -408,77 +401,77 @@
 
 *   🆓 [DragonBones](https://dragonbones.github.io/en/index.html) - Open source 2D game skeletal animation solution. \[[Source](https://github.com/DragonBones/)]
 
-## [40. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
+## [39. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
 
 ### Notification
 
-*   [svelte-sonner (⭐602)](https://github.com/wobsoriano/svelte-sonner) - An opinionated toast component for Svelte.
+*   [svelte-sonner (⭐752)](https://github.com/wobsoriano/svelte-sonner) - An opinionated toast component for Svelte.
 
-### Internationalisation / Checkbox
+### Internationalization / Form Components
 
 *   [VoerkaI18n](https://zhangfisher.github.io/voerka-i18n/) - Internationalization solution for `Javascript/Typescript/Vue/React/Solidjs/SvelteJs/ReactNative`
 
-## [41. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [40. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### (requires Neovim 0.5)
 
-*   [creativenull/efmls-configs-nvim (⭐265)](https://github.com/creativenull/efmls-configs-nvim) - An unofficial collection of linters and formatters configured for efm-langserver to work with builtin LSP.
+*   [creativenull/efmls-configs-nvim (⭐287)](https://github.com/creativenull/efmls-configs-nvim) - An unofficial collection of linters and formatters configured for efm-langserver to work with builtin LSP.
 *   [creativenull/diagnosticls-configs-nvim (⭐90)](https://github.com/creativenull/diagnosticls-configs-nvim) - An unofficial collection of linters and formatters configured for diagnostic-languageserver to work with builtin LSP.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [xero/miasma.nvim (⭐190)](https://github.com/xero/miasma.nvim) - A dark pastel color scheme inspired by the woods. Built using lush and supports Tree-sitter, diagnostics, CMP, Git-Signs, Telescope, Which-key, Lazy, and more.
+*   [xero/miasma.nvim (⭐291)](https://github.com/xero/miasma.nvim) - A dark pastel color scheme inspired by the woods. Built using lush and supports Tree-sitter, diagnostics, CMP, Git-Signs, Telescope, Which-key, Lazy, and more.
 
 ### Tabline / Diagnostics
 
-*   [tomiis4/BufferTabs.nvim (⭐76)](https://github.com/tomiis4/BufferTabs.nvim) - Simple and Fancy tabline.
+*   [tomiis4/BufferTabs.nvim (⭐83)](https://github.com/tomiis4/BufferTabs.nvim) - Simple and Fancy tabline.
 
 ### Debugging / Diagnostics
 
-*   [niuiic/dap-utils (⭐35)](https://github.com/niuiic/dap-utils.nvim) - Utilities to provide a better experience for using nvim-dap.
+*   [niuiic/dap-utils (⭐37)](https://github.com/niuiic/dap-utils.nvim) - Utilities to provide a better experience for using nvim-dap.
 
 ### Fennel / Diagnostics
 
-*   [Olical/nfnl (⭐206)](https://github.com/Olical/nfnl) - Streamlined successor to Aniseed, compiling Fennel to Lua on file write.
+*   [Olical/nfnl (⭐255)](https://github.com/Olical/nfnl) - Streamlined successor to Aniseed, compiling Fennel to Lua on file write.
 
-## [42. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+## [41. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Plugins
 
-*   [tmux-cht-sh (⭐21)](https://github.com/kenos1/tmux-cht-sh) Access cheatsheets easily in a popup
+*   [tmux-cht-sh (⭐30)](https://github.com/kenos1/tmux-cht-sh) Access cheatsheets easily in a popup
 
-## [43. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
+## [42. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
 
 ### Messaging
 
 *   [ADPS](https://adps-project.org/) (Amateur Digital Post Service) is an offline sneakernet software which enables using USB-drives for communication between other nodes which also use removable storages. It has two separate implemetantions. [The first one (⭐2)](https://github.com/ivanmihval/SharpADPS) is for Windows, has GUI and is written on C#. [Another one (⭐3)](https://github.com/ivanmihval/PyADPS) is crossplatform but uses CLI instead of GUI and it's written on Python.
 
-## [44. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
+## [43. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
 
 ### Admin
 
-*   [FastAPI Amis Admin (⭐1k)](https://github.com/amisadmin/fastapi-amis-admin) - A high-performance, efficient and easily extensible FastAPI admin framework.
-*   [Starlette Admin (⭐555)](https://github.com/jowilf/starlette-admin) - Admin framework for FastAPI/Starlette, supporting SQLAlchemy, SQLModel, MongoDB, and ODMantic.
+*   [FastAPI Amis Admin (⭐1.1k)](https://github.com/amisadmin/fastapi-amis-admin) - A high-performance, efficient and easily extensible FastAPI admin framework.
+*   [Starlette Admin (⭐662)](https://github.com/jowilf/starlette-admin) - Admin framework for FastAPI/Starlette, supporting SQLAlchemy, SQLModel, MongoDB, and ODMantic.
 
 ### Open Source Projects / Other Tools
 
-*   [Bitcart (⭐515)](https://github.com/bitcart/bitcart) - Platform for merchants, users and developers which offers easy setup and use.
-*   [FastAPI with Observability (⭐547)](https://github.com/Blueswen/fastapi-observability) - Observe FastAPI app with three pillars of observability: Traces (Tempo), Metrics (Prometheus), Logs (Loki) on Grafana through OpenTelemetry and OpenMetrics.
-*   [Markdown-Videos (⭐71)](https://github.com/Snailedlt/Markdown-Videos) - API for generating thumbnails to embed into your markdown content.
+*   [Bitcart (⭐580)](https://github.com/bitcart/bitcart) - Platform for merchants, users and developers which offers easy setup and use.
+*   [FastAPI with Observability (⭐701)](https://github.com/Blueswen/fastapi-observability) - Observe FastAPI app with three pillars of observability: Traces (Tempo), Metrics (Prometheus), Logs (Loki) on Grafana through OpenTelemetry and OpenMetrics.
+*   [Markdown-Videos (⭐81)](https://github.com/Snailedlt/Markdown-Videos) - API for generating thumbnails to embed into your markdown content.
 
-## [45. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+## [44. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### Workout planners
 
 *   [workout.lol (⭐1.3k)](https://github.com/Vincenius/workout-lol) - A small web application to create workouts based on your available equipment and the muscles you want to train that you can selfhost.
 
-## [46. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [45. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Peripheral Access Crates / Espressif
 
-*   [`esp32c6`](https://github.com/esp-rs/esp-pacs/tree/main/esp32c6) - ![crates.io](https://img.shields.io/crates/v/esp32c6.svg)
+*   [`esp32c6`](https://github.com/esp-rs/esp-pacs/tree/main/esp32c6) - [![crates.io](https://img.shields.io/crates/v/esp32c6.svg)](https://crates.io/crates/esp32c6)
 
-## [47. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
+## [46. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
 
 ### Communications / Web
 
@@ -486,7 +479,7 @@
 
 ### Display / Fonts
 
-*   [packed-font (⭐12)](https://github.com/mark-gladding/packed-font) -  Memory efficient MicroPython fonts for the Pico Pi and SSD1306 OLED Display.
+*   [packed-font (⭐19)](https://github.com/mark-gladding/packed-font) -  Memory efficient MicroPython fonts for the Pico Pi and SSD1306 OLED Display.
 
 ### IO / ADC
 
@@ -494,9 +487,9 @@
 
 ### Motion / Servo
 
-*   [MicroPython\_PCA9685 (⭐2)](https://github.com/jposada202020/MicroPython_PCA9685) - MicroPython Driver for the PCA9685 PWM control IC, commonly used to control servos, LEDs and motors.
+*   [MicroPython\_PCA9685 (⭐6)](https://github.com/jposada202020/MicroPython_PCA9685) - MicroPython Driver for the PCA9685 PWM control IC, commonly used to control servos, LEDs and motors.
 
-### Sensors / Pressure
+### Sensors / Barometer - Air and Water Pressure
 
 *   [D6F-PH (⭐0)](https://github.com/ekspla/D6F-PH) - MicroPython module for differential pressure sensor, D6F-PH (OMRON).
 
@@ -504,15 +497,15 @@
 
 *   [uPIDE (⭐22)](https://github.com/harbaum/upide) - µPIDE is a simple IDE for MicroPython.
 
-## [48. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
+## [47. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
 
 ### Clients
 
-*   [gqty (⭐902)](https://github.com/gqty-dev/gqty) - A No GraphQL client for TypeScript
+*   [gqty (⭐951)](https://github.com/gqty-dev/gqty) - A No GraphQL client for TypeScript
 
 ### Frontend Framework Integrations / React
 
-*   [@gqty/react (⭐902)](https://github.com/gqty-dev/gqty) - A No GraphQL client for TypeScript
+*   [@gqty/react (⭐951)](https://github.com/gqty-dev/gqty) - A No GraphQL client for TypeScript
 
 ### Services / React
 
@@ -522,55 +515,55 @@
 
 *   [Hygraph](https://hygraph.com/) - Build Scalable Content Experiences.
 
-## [49. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [48. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Analytics
 
-*   [Mixpost](https://mixpost.app/) - Self-hosted social media management software. Easily create, schedule, publish, and manage social media content in one place (alternative to Hootsuite, Buffer, and other social media tools). ([Source Code (⭐78)](https://github.com/inovector/MixpostApp)) `MIT` `PHP/Docker`
-*   [Socioboard (⭐1.1k)](https://github.com/socioboard/Socioboard-5.0) `⚠` - Social media management, analytics, and reporting platform supporting nine social media networks out-of-the-box. `GPL-3.0` `Nodejs`
+*   [Mixpost](https://mixpost.app/) - Self-hosted social media management software. Easily create, schedule, publish, and manage social media content in one place (alternative to Hootsuite, Buffer, and other social media tools). ([Source Code (⭐87)](https://github.com/inovector/MixpostApp)) `MIT` `PHP/Docker`
+*   [Socioboard (⭐1.2k)](https://github.com/socioboard/Socioboard-5.0) `⚠` - Social media management, analytics, and reporting platform supporting nine social media networks out-of-the-box. `GPL-3.0` `Nodejs`
 
 ### Software / Communication - Custom Communication Systems
 
-*   [Hyphanet](https://hyphanet.org/) - Anonymously share files, browse and publish *freesites* (web sites accessible only through Hyphanet) and chat on forums. ([Source Code (⭐1k)](https://github.com/hyphanet/fred)) `GPL-2.0` `Java`
+*   [Hyphanet](https://hyphanet.org/) - Anonymously share files, browse and publish *freesites* (web sites accessible only through Hyphanet) and chat on forums. ([Source Code (⭐1.1k)](https://github.com/hyphanet/fred)) `GPL-2.0` `Java`
 
 ### Software / Database Management
 
-*   [MindsDB](https://mindsdb.com/) - MindsDB is an open source self hosted AI layer for existing databases that allows you to effortlessly develop, train and deploy state-of-the-art machine learning models using standard queries. ([Source Code (⭐26k)](https://github.com/mindsdb/mindsdb)) `GPL-3.0` `Docker/Python`
+*   [MindsDB](https://mindsdb.com/) - MindsDB is an open source self hosted AI layer for existing databases that allows you to effortlessly develop, train and deploy state-of-the-art machine learning models using standard queries. ([Source Code (⭐27k)](https://github.com/mindsdb/mindsdb)) `GPL-3.0` `Docker/Python`
 
 ### Software / DNS
 
-*   [AdGuard Home](https://adguard.com/en/adguard-home/overview.html) - Free and open source, userfriendly ads & trackers blocking DNS server. ([Source Code (⭐24k)](https://github.com/AdguardTeam/AdGuardHome)) `GPL-3.0` `Docker`
+*   [AdGuard Home](https://adguard.com/en/adguard-home/overview.html) - Free and open source, userfriendly ads & trackers blocking DNS server. ([Source Code (⭐27k)](https://github.com/AdguardTeam/AdGuardHome)) `GPL-3.0` `Docker`
 
 ### Software / File Transfer - Object Storage & File Servers
 
-*   [SeaweedFS (⭐22k)](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is an open source distributed file system supporting WebDAV, S3 API, FUSE mount, HDFS, etc, optimized for lots of small files, and easy to add capacity. `Apache-2.0` `Go`
+*   [SeaweedFS (⭐24k)](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is an open source distributed file system supporting WebDAV, S3 API, FUSE mount, HDFS, etc, optimized for lots of small files, and easy to add capacity. `Apache-2.0` `Go`
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [Picsur (⭐778)](https://github.com/CaramelFur/Picsur) - A simple imaging hosting platform that allows you to easily host, edit, and share images. `GPL-3.0` `Docker`
+*   [Picsur (⭐912)](https://github.com/CaramelFur/Picsur) - A simple imaging hosting platform that allows you to easily host, edit, and share images. `GPL-3.0` `Docker`
 
 ### Software / Internet of Things (IoT)
 
-*   [FlowForge](https://flowforge.com/) - FlowForge allows companies to deploy Node-RED applications in a reliable, scalable and secure manner. The FlowForge platform provides DevOps capabilities for Node-RED development teams. ([Source Code (⭐259)](https://github.com/flowforge/flowforge)) `Apache-2.0` `Nodejs/Docker/K8S`
+*   [FlowForge](https://flowforge.com/) - FlowForge allows companies to deploy Node-RED applications in a reliable, scalable and secure manner. The FlowForge platform provides DevOps capabilities for Node-RED development teams. ([Source Code (⭐297)](https://github.com/flowforge/flowforge)) `Apache-2.0` `Nodejs/Docker/K8S`
 
 ### Software / Knowledge Management Tools
 
-*   [Atomic Server (⭐914)](https://github.com/atomicdata-dev/atomic-server) - Knowledge graph database with documents (similar to Notion), tables, search, and a powerful linked data API. Lightweight, very fast and no runtime dependencies. ([Demo](https://atomicdata.dev/)) `MIT` `Docker/Rust`
+*   [Atomic Server (⭐1.1k)](https://github.com/atomicdata-dev/atomic-server) - Knowledge graph database with documents (similar to Notion), tables, search, and a powerful linked data API. Lightweight, very fast and no runtime dependencies. ([Demo](https://atomicdata.dev/)) `MIT` `Docker/Rust`
 
 ### Software / Money, Budgeting & Management
 
-*   [HyperSwitch](https://hyperswitch.io/) `⚠` - HyperSwitch is an Open Source Financial Switch to make payments Fast, Reliable and Affordable. It lets you connect with multiple payment processors and route traffic effortlessly, all with a single API integration. ([Source Code (⭐11k)](https://github.com/juspay/hyperswitch)) `Apache-2.0` `Docker/Rust`
+*   [HyperSwitch](https://hyperswitch.io/) `⚠` - HyperSwitch is an Open Source Financial Switch to make payments Fast, Reliable and Affordable. It lets you connect with multiple payment processors and route traffic effortlessly, all with a single API integration. ([Source Code (⭐13k)](https://github.com/juspay/hyperswitch)) `Apache-2.0` `Docker/Rust`
 
 ### Software / Personal Dashboards
 
-*   [LittleLink (⭐1.7k)](https://github.com/sethcottle/littlelink/) - A simplistic approach for links in bio with 100+ branded buttons (alternative to Linktree). ([Demo](https://littlelink.io/), [Source Code (⭐1.7k)](https://github.com/sethcottle/littlelink)) `MIT` `Javascript`
+*   [LittleLink (⭐1.9k)](https://github.com/sethcottle/littlelink/) - A simplistic approach for links in bio with 100+ branded buttons (alternative to Linktree). ([Demo](https://littlelink.io/), [Source Code (⭐1.9k)](https://github.com/sethcottle/littlelink)) `MIT` `Javascript`
 
-### Software / Photo and Video Galleries
+### Software / Photo Galleries
 
-*   [Chevereto](https://chevereto.com/) - Ultimate image sharing software. Create your very own personal image hosting website in just minutes. ([Source Code (⭐452)](https://github.com/chevereto/chevereto)) `AGPL-3.0` `PHP/Docker`
-*   [Immich](https://immich.app/) - Self-hosted photo and video backup solution directly from your mobile phone. ([Source Code (⭐43k)](https://github.com/immich-app/immich)) `AGPL-3.0` `Docker`
+*   [Chevereto](https://chevereto.com/) - Ultimate image sharing software. Create your very own personal image hosting website in just minutes. ([Source Code (⭐571)](https://github.com/chevereto/chevereto)) `AGPL-3.0` `PHP/Docker`
+*   [Immich](https://immich.app/) - Self-hosted photo and video backup solution directly from your mobile phone. ([Source Code (⭐57k)](https://github.com/immich-app/immich)) `AGPL-3.0` `Docker`
 
-## [50. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [49. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
@@ -592,19 +585,19 @@
 
 *   [Aptabase](https://aptabase.com) — Open Source, Privacy-Friendly, and Simple Analytics for Mobile and Desktop Apps. SDKs for Swift, Kotlin, React Native, Flutter, Electron, and many others. Free for up to 20,000 events per month.
 
-## [51. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+## [50. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
 ### Technology in General / Svelte
 
 *   [MindByte Weekly Pulse](https://mindbyte.beehiiv.com) Fuel your week with MindByte Weekly Pulse, your indispensable guide to navigating the dynamic world of GitHub, Azure, and .NET. Discover the latest insights, tips, and trends, curated by an industry expert, delivered to your inbox every week.
 
-## [52. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [51. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Prerequisites
 
-*   [Spacemono (⭐364)](https://github.com/googlefonts/spacemono) - Google's new original monospace display typeface family.
+*   [Spacemono (⭐379)](https://github.com/googlefonts/spacemono) - Google's new original monospace display typeface family.
 
-## [53. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
+## [52. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
 
 ### Open Source Projects / Knowledge Management
 
@@ -615,7 +608,7 @@
 *   [MetaGPT (⭐42k)](https://github.com/geekan/MetaGPT): The Multi-Agent Meta Programming Framework: Given one line Requirement, return PRD, Design, Tasks, Repo and CI ![GitHub Repo stars](https://img.shields.io/github/stars/geekan/MetaGPT?style=social)
 *   [Hyv (⭐20)](https://github.com/failfa-st/hyv): Probably the easiest way to use any AI Model in Node.js and create complex interactions with ease. ![GitHub Repo stars](https://img.shields.io/github/stars/failfa-st/hyv?style=social)
 
-## [54. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [53. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### Graphics and Multimedia / Apache License
 

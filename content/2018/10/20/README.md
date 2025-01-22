@@ -10,7 +10,7 @@
 
 ### Game Engine
 
-*   [PixelGameEngine (⭐3.8k)](https://github.com/OneLoneCoder/olcPixelGameEngine) - The official distribution of olcPixelGameEngine, a tool used in javidx9's YouTube videos and projects. \[OLC3]
+*   [PixelGameEngine (⭐3.9k)](https://github.com/OneLoneCoder/olcPixelGameEngine) - The official distribution of olcPixelGameEngine, a tool used in javidx9's YouTube videos and projects. \[OLC3]
 
 ## [2. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
 
@@ -100,13 +100,12 @@
 ### Components & Libraries / UI Components
 
 *   [VCalendar](https://vcalendar.io/) Very customizable and powerful calendar/datepicker component with many features and good documentation.
-*   [vue-page-guide (⭐54)](https://github.com/sschandi/vue-page-guide) - Page tour / guide plugin with directive
 
 ## [5. Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md)
 
 ### Components / Themes
 
-*   [ngx-recursive-form (⭐35)](https://github.com/hsbalar/ngx-recursive-form) - Angular recursive form based on json input built with Ant Design.
+*   [ngx-recursive-form (⭐36)](https://github.com/hsbalar/ngx-recursive-form) - Angular recursive form based on json input built with Ant Design.
 
 ## [6. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
 

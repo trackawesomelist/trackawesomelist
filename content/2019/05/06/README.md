@@ -18,7 +18,7 @@
 
 ### Software / Money, Budgeting & Management
 
-*   [Fava](https://beancount.github.io/fava/) - Fava is the web frontend of Beancount, a text based double-entry accounting system. ([Demo](https://fava.pythonanywhere.com/example-with-budgets/income_statement/), [Source Code (⭐1.9k)](https://github.com/beancount/fava)) `MIT` `Python`
+*   [Fava](https://beancount.github.io/fava/) - Fava is the web frontend of Beancount, a text based double-entry accounting system. ([Demo](https://fava.pythonanywhere.com/example-with-budgets/income_statement/), [Source Code (⭐2k)](https://github.com/beancount/fava)) `MIT` `Python`
 
 ## [3. Game Datasets](/content/leomaurodesenv/game-datasets/README.md)
 
@@ -58,8 +58,8 @@
 
 ### Kubernetes
 
-*   [Deprecated Keycloak Helm Chart (⭐610)](https://github.com/codecentric/helm-charts/tree/master/charts/keycloak)
-*   [codecentric Keycloak Helm Chart (⭐610)](https://github.com/codecentric/helm-charts/tree/master/charts/keycloak)
+*   [Deprecated Keycloak Helm Chart (⭐631)](https://github.com/codecentric/helm-charts/tree/master/charts/keycloak)
+*   [codecentric Keycloak Helm Chart (⭐631)](https://github.com/codecentric/helm-charts/tree/master/charts/keycloak)
 
 ## [7. Awesome Code Review](/content/joho/awesome-code-review/README.md)
 

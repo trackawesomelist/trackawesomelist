@@ -53,7 +53,7 @@
 
 ### API Gateways / Edge Services / Scala
 
-*   [Envoy (⭐24k)](https://github.com/lyft/envoy) - Open source edge and service proxy, from the developers at Lyft.
+*   [Envoy (⭐25k)](https://github.com/lyft/envoy) - Open source edge and service proxy, from the developers at Lyft.
 
 ## [6. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
@@ -77,7 +77,7 @@
 
 ### Table of Contents / Dependency Injection
 
-*   [Disco (⭐140)](https://github.com/bitExpert/disco) - A PSR-11 compatible, annotation-based dependency injection container.
+*   [Disco (⭐139)](https://github.com/bitExpert/disco) - A PSR-11 compatible, annotation-based dependency injection container.
 
 ## [9. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
 
@@ -90,8 +90,8 @@
 ### Packages / Hardware
 
 *   [onoff (⭐1.2k)](https://github.com/fivdi/onoff) - GPIO access and interrupt detection.
-*   [spi-device (⭐116)](https://github.com/fivdi/spi-device) - SPI serial bus access.
-*   [pigpio (⭐948)](https://github.com/fivdi/pigpio) - Fast GPIO, PWM, servo control, state change notification, and interrupt handling on the Raspberry Pi.
+*   [spi-device (⭐117)](https://github.com/fivdi/spi-device) - SPI serial bus access.
+*   [pigpio (⭐949)](https://github.com/fivdi/pigpio) - Fast GPIO, PWM, servo control, state change notification, and interrupt handling on the Raspberry Pi.
 
 ## [11. Awesome H2o](/content/h2oai/awesome-h2o/README.md)
 

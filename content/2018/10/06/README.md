@@ -10,7 +10,7 @@
 
 ### Projects
 
-*   [RaspiBlitz (⭐2.4k)](https://github.com/rootzoll/raspiblitz) - Fastest and cheapest way to get your own Lightning Node running.
+*   [RaspiBlitz (⭐2.5k)](https://github.com/rootzoll/raspiblitz) - Fastest and cheapest way to get your own Lightning Node running.
 
 ## [2. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
@@ -22,7 +22,7 @@
 
 ### Gem Generators
 
-*   [Gemsmith (⭐455)](https://github.com/bkuhlmann/gemsmith) - A command line interface for smithing new Ruby gems.
+*   [Gemsmith (⭐465)](https://github.com/bkuhlmann/gemsmith) - A command line interface for smithing new Ruby gems.
 
 ## [4. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
@@ -38,13 +38,13 @@
 
 ### Tools / Graphics utilities
 
-*   [vtGBte (⭐28)](https://github.com/paul-arutyunov/vtGBte) - A minimalistic ncurses tile editor.
+*   [vtGBte (⭐33)](https://github.com/paul-arutyunov/vtGBte) - A minimalistic ncurses tile editor.
 
 ## [6. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
 ### Boilerplates
 
-*   [csprance/next-smrt (⭐54)](https://github.com/csprance/next-smrt) - A minimal boilerplate with redux, styled-components, material-ui and typescript with a custom express server.
+*   [csprance/next-smrt (⭐56)](https://github.com/csprance/next-smrt) - A minimal boilerplate with redux, styled-components, material-ui and typescript with a custom express server.
 
 ## [7. Awesome Vscode](/content/viatsko/awesome-vscode/README.md)
 
@@ -56,7 +56,7 @@
 
 ### GUI
 
-*   [Pgweb (⭐8.4k)](https://github.com/sosedoff/pgweb) - Web-based database browser for PostgreSQL, written in Go and works on macOS, Linux and Windows machines.
+*   [Pgweb (⭐8.7k)](https://github.com/sosedoff/pgweb) - Web-based database browser for PostgreSQL, written in Go and works on macOS, Linux and Windows machines.
 
 ### CLI
 
@@ -64,11 +64,11 @@
 
 ### Schema / Changes
 
-*   [gh-ost (⭐12k)](https://github.com/github/gh-ost) - Online schema migration for MySQL.
+*   [gh-ost (⭐13k)](https://github.com/github/gh-ost) - Online schema migration for MySQL.
 
 ### Schema / Code generation
 
-*   [ddl-generator (⭐274)](https://github.com/catherinedevlin/ddl-generator) - Infers SQL DDL (Data Definition Language) from table data.
+*   [ddl-generator (⭐273)](https://github.com/catherinedevlin/ddl-generator) - Infers SQL DDL (Data Definition Language) from table data.
 
 ## [9. Awesome Ethereum](/content/ttumiel/Awesome-Ethereum/README.md)
 
@@ -103,13 +103,13 @@
 
 ### Applications / System tools
 
-*   [pop-os/popsicle (⭐630)](https://github.com/pop-os/popsicle) - GTK3 & CLI utility for flashing multiple USB devices in parallel
+*   [pop-os/popsicle (⭐666)](https://github.com/pop-os/popsicle) - GTK3 & CLI utility for flashing multiple USB devices in parallel
 
 ## [14. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Auto Layout / Barcode
 
-*   [DeviceLayout (⭐167)](https://github.com/cruisediary/DeviceLayout) - AutoLayout can be set differently for each device.
+*   [DeviceLayout (⭐166)](https://github.com/cruisediary/DeviceLayout) - AutoLayout can be set differently for each device.
 
 ---
 

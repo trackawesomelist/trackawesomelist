@@ -12,7 +12,7 @@
 
 *   PHP:
     *   [PHP front end setup without Node](https://www.sitepoint.com/look-ma-no-nodejs-a-php-front-end-workflow-without-node/) - Tutorial how to combine BowerPHP, Mini-Asset and Robo.li into a PHP front end asset building pipeline.
-    *   [symfony-collection (⭐450)](https://github.com/ninsuo/symfony-collection) - jQuery Plugin that manages adding, deleting and moving elements from a Symfony2 collection.
+    *   [symfony-collection (⭐444)](https://github.com/ninsuo/symfony-collection) - jQuery Plugin that manages adding, deleting and moving elements from a Symfony2 collection.
 
 ## [2. Awesome Codepoints](/content/Codepoints/awesome-codepoints/README.md)
 

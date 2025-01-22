@@ -22,7 +22,7 @@
 
 ### Frameworks / Runtimes
 
-*   [ScaleCube (⭐607)](https://github.com/scalecube/scalecube) - Toolkit for building reactive microservices for the JVM: low-latency, high-throughput, scalable and resilient.
+*   [ScaleCube (⭐617)](https://github.com/scalecube/scalecube) - Toolkit for building reactive microservices for the JVM: low-latency, high-throughput, scalable and resilient.
 
 ## [4. Awesome Projects Boilerplates](/content/melvin0008/awesome-projects-boilerplates/README.md)
 
@@ -34,7 +34,7 @@
 
 ### Apps / Third-party APIs
 
-*   [Check-it (⭐52)](https://github.com/DalekBaldwin/check-it) - A QuickCheck-style randomized property-based testing. [LLGPL](http://opensource.franz.com/preamble.html).
+*   [Check-it (⭐53)](https://github.com/DalekBaldwin/check-it) - A QuickCheck-style randomized property-based testing. [LLGPL](http://opensource.franz.com/preamble.html).
 
 ## [6. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 

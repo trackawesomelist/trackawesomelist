@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 18, 2020
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,19 +16,19 @@
 
 ### Color
 
-*   [SheetyColors (⭐106)](https://github.com/chrs1885/SheetyColors) - An action sheet styled color picker for iOS.
+*   [SheetyColors (⭐107)](https://github.com/chrs1885/SheetyColors) - An action sheet styled color picker for iOS.
 
 ## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Automation
 
-*   [YoutubeDL-Material (⭐2.6k)](https://github.com/Tzahi12345/YoutubeDL-Material) - Material Design inspired YouTube downloader, based on youtube-dl. Supports playlists, quality select, search, dark mode and much more, all with a clean and modern design. `MIT` `Nodejs/Docker`
+*   [YoutubeDL-Material (⭐2.7k)](https://github.com/Tzahi12345/YoutubeDL-Material) - Material Design inspired YouTube downloader, based on youtube-dl. Supports playlists, quality select, search, dark mode and much more, all with a clean and modern design. `MIT` `Nodejs/Docker`
 
 ## [4. Awesome Flame](/content/flame-engine/awesome-flame/README.md)
 
 ### Plugins & Libraries
 
-*   [bonfire (⭐1.2k)](https://github.com/RafaelBarbosatec/bonfire) - RPG maker. By [rafaelbarbosatec](https://github.com/RafaelBarbosatec)
+*   [bonfire (⭐1.3k)](https://github.com/RafaelBarbosatec/bonfire) - RPG maker. By [rafaelbarbosatec](https://github.com/RafaelBarbosatec)
 
 ## [5. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/README.md)
 
@@ -124,13 +124,7 @@ Language: English \ <br>
 Notable Channels: `#geek-speak`, `#java-help`, `#android-help`, `#framework-help`, `#c_cpp_help`, `#algorithms_help`, `#architecture-help`, `#code_review`, `#ui_ux_help`\
 Language: English
 
-## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Projects Using Vue.js / Open Source
-
-*   [Sheiley Shop (⭐51)](https://github.com/itsalb3rt/sheiley_shop_app) - PWA to track personal purchases, No more paper and pencil to go to the supermarket 🏬 Vue and Vuetify
-
-## [7. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
+## [6. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
 ### Podcast apps that will work with your custom RSS link / Crypto or Blockchain relevant
 
@@ -148,16 +142,16 @@ Language: English
 
 ### Apps / Outline Processor Markup Language
 
-*   [FeedPop (⭐35)](https://github.com/xs9627/feedpop) <sup>[529](https://t.me/s/aboutrss/529)</sup> [![Chrome](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Google_Chrome.png)](https://chrome.google.com/webstore/detail/feedpop-simple-rss-feed-r/nleicnolldoamnpiekcpifpimpolkelo)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/xs9627/feedpop)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+*   [FeedPop (⭐34)](https://github.com/xs9627/feedpop) <sup>[529](https://t.me/s/aboutrss/529)</sup> [![Chrome](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Google_Chrome.png)](https://chrome.google.com/webstore/detail/feedpop-simple-rss-feed-r/nleicnolldoamnpiekcpifpimpolkelo)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/xs9627/feedpop)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 *   [DEVONthink](https://www.devontechnologies.com/apps/devonthink) ![Mac](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-mac-client-16.png)![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)
 
 ### DEVONthink / Outline Processor Markup Language
 
-*   [devonthink-heti (⭐101)](https://github.com/sivan/devonthink-heti) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/sivan/devonthink-heti)
+*   [devonthink-heti (⭐107)](https://github.com/sivan/devonthink-heti) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/sivan/devonthink-heti)
 
 ### specifically from (*a certain platform*) / Wechat Subscription Accounts (微信公众号)
 
-*   [Huginn (⭐43k)](https://github.com/huginn/huginn) <sup>[195](https://t.me/s/aboutrss/195), [528](https://t.me/s/aboutrss/528)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/huginn/huginn)
+*   [Huginn (⭐44k)](https://github.com/huginn/huginn) <sup>[195](https://t.me/s/aboutrss/195), [528](https://t.me/s/aboutrss/528)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/huginn/huginn)
 *   [快知](http://kzfeed.com/) <sup>[195](https://t.me/s/aboutrss/195), [528](https://t.me/s/aboutrss/528)</sup> [![Online](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-web-design-16.png)](http://kzfeed.com/login)[![](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://apps.apple.com/cn/app/%E5%BF%AB%E7%9F%A5-%E8%AE%A9%E4%BF%A1%E6%81%AF%E8%8E%B7%E5%8F%96%E6%9B%B4%E9%AB%98%E6%95%88/id1465578855)[![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://www.coolapk.com/apk/244476)
 *   微信公众号RSS by ZMonster <sup>[438](https://t.me/s/aboutrss/438), [515](https://t.me/s/aboutrss/515), [528](https://t.me/s/aboutrss/528)</sup>
 
@@ -197,7 +191,7 @@ Language: English
 
 *   [Substats API](https://substats.spencerwoo.com/)
 
-## [8. Awesome Leading and Managing](/content/LappleApple/awesome-leading-and-managing/README.md)
+## [7. Awesome Leading and Managing](/content/LappleApple/awesome-leading-and-managing/README.md)
 
 ### What This Is, and Where It Comes From / Quotes That Capture the General Spirit of this List's Contents
 
@@ -216,7 +210,7 @@ Language: English
 *   Individual contributors (ICs) considering a move to management
 *   Managers looking to level-up a particular skill or attribute
 
-## [9. Awesome Deep Learning Resources](/content/guillaume-chevalier/Awesome-Deep-Learning-Resources/README.md)
+## [8. Awesome Deep Learning Resources](/content/guillaume-chevalier/Awesome-Deep-Learning-Resources/README.md)
 
 ### Books
 
@@ -227,7 +221,7 @@ Language: English
 
 *   [Clean Machine Learning, a Coding Kata (⭐13)](https://github.com/Neuraxio/Kata-Clean-Machine-Learning-From-Dirty-Code) - Learn the good design patterns to use for doing Machine Learning the good way, by practicing.
 
-## [10. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
+## [9. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
 
 ### Official Docs & Quickstarts
 
@@ -237,7 +231,7 @@ Language: English
 
 *   📖 [Firestore for C++ and Unity](https://firebase.google.com/docs/firestore) - C++ and Unity SDKs for C++ and Unity (with Firebase Unity SDKs available via Unity Package Manager).
 
-## [11. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
+## [10. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
 ### Configuration
 
@@ -245,13 +239,13 @@ Language: English
 
 ### Tools and session management
 
-*   [tmux-cssh (⭐83)](https://github.com/zinic/tmux-cssh) Tmux with a "ClusterSSH"-like behavior
+*   [tmux-cssh (⭐84)](https://github.com/zinic/tmux-cssh) Tmux with a "ClusterSSH"-like behavior
 
 ### Status Bar
 
 *   [tmux-cpu-info (⭐14)](https://github.com/jdxcode/tmux-cpu-info) CPU usage gauge to status bar
 
-## [12. Awesome Audiovisual](/content/stingalleman/awesome-audiovisual/README.md)
+## [11. Awesome Audiovisual](/content/stingalleman/awesome-audiovisual/README.md)
 
 ### Lighting / Visualizers
 

@@ -16,15 +16,15 @@
 
 ### Authentication and OAuth
 
-*   [oidc (⭐1.3k)](https://github.com/zitadel/oidc) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
+*   [oidc (⭐1.5k)](https://github.com/zitadel/oidc) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 
 ### Distributed Systems
 
-*   [trpc-go (⭐787)](https://github.com/trpc-group/trpc-go) - The Go language implementation of tRPC, which is a pluggable, high-performance RPC framework.
+*   [trpc-go (⭐870)](https://github.com/trpc-group/trpc-go) - The Go language implementation of tRPC, which is a pluggable, high-performance RPC framework.
 
 ### Security
 
-*   [passwap (⭐50)](https://github.com/zitadel/passwap) - Provides a unified implementation between different password hashing algorithms
+*   [passwap (⭐57)](https://github.com/zitadel/passwap) - Provides a unified implementation between different password hashing algorithms
 
 ## [3. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -109,7 +109,7 @@
 
 ### Table of Contents / Documentation
 
-*   [zircote/swagger-php (⭐5k)](https://github.com/zircote/swagger-php) - Generate OpenAPI documentation for your RESTful API.
+*   [zircote/swagger-php (⭐5.1k)](https://github.com/zircote/swagger-php) - Generate OpenAPI documentation for your RESTful API.
 
 ### Table of Contents / Security
 
@@ -121,16 +121,16 @@
 
 ### Table of Contents / Architectural
 
-*   [IterTools PHP (⭐140)](https://github.com/markrogoyski/itertools-php) - A library that provides functionality for working with iterable entities (similar to itertools library in Python).
+*   [IterTools PHP (⭐141)](https://github.com/markrogoyski/itertools-php) - A library that provides functionality for working with iterable entities (similar to itertools library in Python).
 
 ### Table of Contents / PDF
 
-*   [Browsershot (⭐4.8k)](https://github.com/spatie/browsershot) - Convert HTML to an image, PDF or string.
-*   [Gotenberg (⭐211)](https://github.com/gotenberg/gotenberg-php) - A PHP client for interacting with Gotenberg.
+*   [Browsershot (⭐4.9k)](https://github.com/spatie/browsershot) - Convert HTML to an image, PDF or string.
+*   [Gotenberg (⭐246)](https://github.com/gotenberg/gotenberg-php) - A PHP client for interacting with Gotenberg.
 
 ### Table of Contents / Office
 
-*   [OpenSpout (⭐682)](https://github.com/openspout/openspout) - A community driven fork of `box/spout`, a PHP library to read and write spreadsheet files (CSV, XLSX and ODS), in a fast and scalable way.
+*   [OpenSpout (⭐856)](https://github.com/openspout/openspout) - A community driven fork of `box/spout`, a PHP library to read and write spreadsheet files (CSV, XLSX and ODS), in a fast and scalable way.
 
 ### Table of Contents / Authentication and Authorization
 
@@ -138,7 +138,7 @@
 
 ### Table of Contents / Numbers
 
-*   [DecimalObject (⭐17)](https://github.com/php-collective/decimal-object) - A value object to handle decimals/floats easily and more precisely.
+*   [DecimalObject (⭐20)](https://github.com/php-collective/decimal-object) - A value object to handle decimals/floats easily and more precisely.
 
 ### Configuration / Development Environment
 
@@ -160,11 +160,7 @@
 
 ### Text
 
-*   [AztecEditor-iOS (⭐611)](https://github.com/wordpress-mobile/AztecEditor-iOS) - Aztec is a Swift library that provides a `UITextView` subclass with HTML visual-editing capabilities. The plugin API supports customization HTML conversion from/to HTML for compatibility with your needs.
-
-### Popup
-
-*   [MijickPopupView (⭐1.1k)](https://github.com/Mijick/PopupView) - Popups presentation made simple with SwiftUI.
+*   [AztecEditor-iOS (⭐620)](https://github.com/wordpress-mobile/AztecEditor-iOS) - Aztec is a Swift library that provides a `UITextView` subclass with HTML visual-editing capabilities. The plugin API supports customization HTML conversion from/to HTML for compatibility with your needs.
 
 ## [9. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
@@ -200,15 +196,15 @@
 
 ### File Explorer / Diagnostics
 
-*   [simonmclean/triptych.nvim (⭐150)](https://github.com/simonmclean/triptych.nvim) - A directory browser inspired by Ranger.
+*   [simonmclean/triptych.nvim (⭐213)](https://github.com/simonmclean/triptych.nvim) - A directory browser inspired by Ranger.
 
 ### Media / Diagnostics
 
-*   [3rd/image.nvim (⭐914)](https://github.com/3rd/image.nvim) - Add image support through Kitty's graphics protocol or ueberzugpp.
+*   [3rd/image.nvim (⭐1.3k)](https://github.com/3rd/image.nvim) - Add image support through Kitty's graphics protocol or ueberzugpp.
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [crispybaccoon/chaivim (⭐54)](https://github.com/crispybaccoon/chaivim) - Easily configurable distro with solid defaults and a cozy editor experience.
+*   [crispybaccoon/chaivim (⭐64)](https://github.com/crispybaccoon/chaivim) - Easily configurable distro with solid defaults and a cozy editor experience.
 
 ## [13. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
@@ -220,7 +216,7 @@
 
 ### Tools / Community providers
 
-*   [tofuenv (⭐162)](https://github.com/tofuutils/tofuenv) - OpenTofu version manager inspired by tfenv
+*   [tofuenv (⭐174)](https://github.com/tofuutils/tofuenv) - OpenTofu version manager inspired by tfenv
 
 ---
 

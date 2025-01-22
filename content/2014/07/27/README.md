@@ -32,7 +32,7 @@
 
 *   [JSHint (⭐9k)](https://github.com/jshint/jshint/) - JSHint is a tool that helps to detect errors and potential problems in your JavaScript code.
 *   [jsfmt (⭐1.7k)](https://github.com/rdio/jsfmt) - For formatting, searching, and rewriting JavaScript.
-*   [buddy.js (⭐867)](https://github.com/danielstjules/buddy.js) - Magic number detection for JavaScript.
+*   [buddy.js (⭐870)](https://github.com/danielstjules/buddy.js) - Magic number detection for JavaScript.
 
 ---
 

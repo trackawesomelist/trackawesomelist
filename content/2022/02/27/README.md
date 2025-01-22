@@ -25,7 +25,7 @@
 
 ### Tools / GUIs
 
-*   [toni-moreno/snmpcollector (⭐281)](https://github.com/toni-moreno/snmpcollector) - SnmpCollector is a full featured Generic SNMP data collector with Web Administration Interface Open Source tool which has as main goal simplify the configuration for getting data from any device which snmp protocol support and send resulting data to an influxdb backend.
+*   [toni-moreno/snmpcollector (⭐288)](https://github.com/toni-moreno/snmpcollector) - SnmpCollector is a full featured Generic SNMP data collector with Web Administration Interface Open Source tool which has as main goal simplify the configuration for getting data from any device which snmp protocol support and send resulting data to an influxdb backend.
 
 ## [3. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md)
 
@@ -52,45 +52,31 @@
 
 ## [6. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
-### Other Tools / Telegram
+### Other Tools / Steam
 
-*   [DuckDuckGo URL scraper (⭐22)](https://github.com/its0x08/duckduckgo) - A simple DuckDuckGo URL scraper.
+*   [DuckDuckGo URL scraper (⭐24)](https://github.com/its0x08/duckduckgo) - A simple DuckDuckGo URL scraper.
 
 ## [7. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / Entertainment
 
-*   [Doddle- (become an artist in a minute) (⭐124)](https://github.com/NaserElziadna/doddle) - 💚Amazing magical doodle drawing app/game provide a creative doodle world for you 🖌💛🌸💚 [Naser Elziadna](https://github.com/NaserElziadna)
+*   [Doddle- (become an artist in a minute) (⭐157)](https://github.com/NaserElziadna/doddle) - 💚Amazing magical doodle drawing app/game provide a creative doodle world for you 🖌💛🌸💚 [Naser Elziadna](https://github.com/NaserElziadna)
 
 ## [8. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Back-End Development
 
-*   [Slim (⭐30)](https://github.com/nekofar/awesome-slim#readme) - PHP framework.
+*   [Slim (⭐33)](https://github.com/nekofar/awesome-slim#readme) - PHP framework.
 
 ## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
-### Resources / Examples
-
-*   [Vue 3 TypeScript Library Template (⭐4)](https://github.com/TinkoLiu/vue3-ts-lib-template) A simple but complete library template for Vue 3, supports generating `.vue.d.ts`
-
 ### Projects Using Vue.js / Open Source
 
-*   [Balancer (⭐186)](https://github.com/balancer-labs/frontend-v2) - A Decentralized Finance app that runs on Ethereum.
-
-### Components & Libraries / Frameworks
-
-*   [petite-vue (⭐9k)](https://github.com/vuejs/petite-vue) - 6kb subset of Vue optimized for progressive enhancement.
-
-### Components & Libraries / UI Components
-
-*   [control-knob (⭐11)](https://github.com/slipmatio/control-knob) - Rotary control knob component for Vue 3 that behaves like audio app controls.
-*   [vue-nav-tab (⭐5)](https://github.com/kien5436/vue-nav-tab) Tab components for Vue.js 3 project
-*   [vue-dropify (⭐17)](https://github.com/khofaai/vue-dropify) - A Simple image dropzone component for Vuejs
+*   [Balancer (⭐191)](https://github.com/balancer-labs/frontend-v2) - A Decentralized Finance app that runs on Ethereum.
 
 ### Components & Libraries / Scaffold
 
-*   [electron-vite-template (⭐393)](https://github.com/umbrella22/electron-vite-template) - A modern desktop application project template with Vue 3, Vite & Electron. **It's fast!**
+*   [electron-vite-template (⭐433)](https://github.com/umbrella22/electron-vite-template) - A modern desktop application project template with Vue 3, Vite & Electron. **It's fast!**
 
 ## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -101,17 +87,16 @@
 ### Issue Tracking and Project Management
 
 *   [Shake](https://www.shakebugs.com/) - In-app bug reporting and feedback tool for mobile apps. Free plan, ten bug reports per app/month.
-*   [SuperPM](https://superpm.app/) - Versatile project management platform. Free for up to 3 projects, unlimited users, 1 GB storage.
 
 ## [11. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### HTTP Clients
 
-*   [go-cleanhttp (⭐365)](https://github.com/hashicorp/go-cleanhttp) - Get easily stdlib HTTP client, which does not share any state with other clients.
+*   [go-cleanhttp (⭐379)](https://github.com/hashicorp/go-cleanhttp) - Get easily stdlib HTTP client, which does not share any state with other clients.
 
 ### Server Applications
 
-*   [Wish (⭐3.4k)](https://github.com/charmbracelet/wish) - Make SSH apps, just like that!
+*   [Wish (⭐3.8k)](https://github.com/charmbracelet/wish) - Make SSH apps, just like that!
 
 ## [12. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
@@ -123,12 +108,12 @@
 
 ### Projects
 
-*   [Rust algorithms (⭐91)](https://github.com/Jondolf/rust-algorithms) - A website with interactive implementations of various algorithms.
+*   [Rust algorithms (⭐115)](https://github.com/Jondolf/rust-algorithms) - A website with interactive implementations of various algorithms.
 
 ### Alternatives / Frameworks
 
-*   [Dioxus (⭐19k)](https://github.com/DioxusLabs/dioxus) - Elegant React-like library for building user interfaces for desktop, web, mobile, SSR, liveview, and more.
-*   [Sycamore (⭐2.7k)](https://github.com/sycamore-rs/sycamore) - A reactive library for creating web apps in Rust and WebAssembly.
+*   [Dioxus (⭐24k)](https://github.com/DioxusLabs/dioxus) - Elegant React-like library for building user interfaces for desktop, web, mobile, SSR, liveview, and more.
+*   [Sycamore (⭐2.9k)](https://github.com/sycamore-rs/sycamore) - A reactive library for creating web apps in Rust and WebAssembly.
 
 ---
 

@@ -10,7 +10,7 @@
 
 ### Other lists / Hash functions
 
-*   [Awesome HE (⭐978)](https://github.com/jonaschn/awesome-he) – A curated list of homomorphic encryption libraries, software and resources.
+*   [Awesome HE (⭐1k)](https://github.com/jonaschn/awesome-he) – A curated list of homomorphic encryption libraries, software and resources.
 
 ## [2. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
 
@@ -177,7 +177,7 @@
 
 ## [4. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
 
-### Learning
+### Learning / Commerical Tools
 
 *   [Introduction to Machine Learning](https://developers.google.com/machine-learning/crash-course/ml-intro) - Introductory level machine learning crash course
 
@@ -185,7 +185,7 @@
 
 ### Monetization / Preferences
 
-*   [Inapp Purchase (⭐548)](https://github.com/dooboolab/flutter_inapp_purchase) <!--stargazers:dooboolab/flutter_inapp_purchase--> - Features set of 'in app purchase' derived from [react-native-iap (⭐2.7k)](https://github.com/dooboolab/react-native-iap) by [dooboolab](https://github.com/dooboolab)
+*   [Inapp Purchase (⭐556)](https://github.com/dooboolab/flutter_inapp_purchase) <!--stargazers:dooboolab/flutter_inapp_purchase--> - Features set of 'in app purchase' derived from [react-native-iap (⭐2.9k)](https://github.com/dooboolab/react-native-iap) by [dooboolab](https://github.com/dooboolab)
 
 ## [6. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/README.md)
 
@@ -203,7 +203,7 @@
 
 ### Configuration
 
-*   [totem (⭐66)](https://github.com/icyleaf/totem) - Load and parse a configuration in JSON, YAML, dotenv formats
+*   [totem (⭐69)](https://github.com/icyleaf/totem) - Load and parse a configuration in JSON, YAML, dotenv formats
 
 ## [8. Awesome PICO 8](/content/pico-8/awesome-PICO-8/README.md)
 

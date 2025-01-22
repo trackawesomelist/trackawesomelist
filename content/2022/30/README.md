@@ -8,7 +8,7 @@
 
 ## [1. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
-### Other Tools / Telegram
+### Other Tools / Steam
 
 *   [LinkScope](https://accentusoft.com/) - LinkScope is an open source intelligence (OSINT) graphical link analysis tool and automation platform for gathering and connecting information for investigative tasks.
 *   [SpiderFoot](https://www.spiderfoot.net) - SpiderFoot is an open source intelligence (OSINT) automation platform with over 200 modules for threat intelligence, attack surface monitoring, security assessments and asset discovery.
@@ -75,90 +75,90 @@
 
 ### Applications / Image processing
 
-*   [shssoichiro/oxipng (⭐2.8k)](https://github.com/shssoichiro/oxipng) \[[oxipng](https://crates.io/crates/oxipng)] - Multithreaded PNG optimizer written in Rust. [![Build Status](https://github.com/shssoichiro/oxipng/workflows/oxipng/badge.svg)](https://github.com/shssoichiro/oxipng/actions?query=branch%3Amaster) [![Version](https://img.shields.io/crates/v/oxipng.svg)](https://crates.io/crates/oxipng)
+*   [shssoichiro/oxipng (⭐3.1k)](https://github.com/shssoichiro/oxipng) \[[oxipng](https://crates.io/crates/oxipng)] - Multithreaded PNG optimizer written in Rust. [![Build Status](https://github.com/shssoichiro/oxipng/workflows/oxipng/badge.svg)](https://github.com/shssoichiro/oxipng/actions?query=branch%3Amaster) [![Version](https://img.shields.io/crates/v/oxipng.svg)](https://crates.io/crates/oxipng)
 
 ### Development tools / Testing
 
 *   Mutation Testing
-    *   [cargo-mutants (⭐495)](https://github.com/sourcefrog/cargo-mutants) \[[cargo-mutants](https://crates.io/crates/cargo-mutants)] - Finds inadequately tested code by injecting mutations, no source changes required. [![build badge](https://github.com/sourcefrog/cargo-mutants/actions/workflows/tests.yml/badge.svg?branch=main\&event=push)](https://github.com/sourcefrog/cargo-mutants/actions/workflows/tests.yml?query=branch%3Amain)
-    *   [mutagen (⭐620)](https://github.com/llogiq/mutagen) \[[mutagen](https://crates.io/crates/mutagen)] - A source-level mutation testing framework (nightly only)
+    *   [cargo-mutants (⭐651)](https://github.com/sourcefrog/cargo-mutants) \[[cargo-mutants](https://crates.io/crates/cargo-mutants)] - Finds inadequately tested code by injecting mutations, no source changes required. [![build badge](https://github.com/sourcefrog/cargo-mutants/actions/workflows/tests.yml/badge.svg?branch=main\&event=push)](https://github.com/sourcefrog/cargo-mutants/actions/workflows/tests.yml?query=branch%3Amain)
+    *   [mutagen (⭐630)](https://github.com/llogiq/mutagen) \[[mutagen](https://crates.io/crates/mutagen)] - A source-level mutation testing framework (nightly only)
 
 ### Libraries / Concurrency
 
-*   [zonyitoo/coio-rs (⭐455)](https://github.com/zonyitoo/coio-rs) - Coroutine I/O
-*   [crossbeam-rs/crossbeam (⭐7.2k)](https://github.com/crossbeam-rs/crossbeam) - Support for parallelism and low-level concurrency
-*   [orium/archery (⭐137)](https://github.com/orium/archery) \[[archery](https://crates.io/crates/archery)] - Library to abstract from `Rc`/`Arc` pointer types. [![build badge](https://github.com/orium/archery/workflows/CI/badge.svg)](https://github.com/orium/archery/actions?query=workflow%3ACI)
+*   [zonyitoo/coio-rs (⭐459)](https://github.com/zonyitoo/coio-rs) - Coroutine I/O
+*   [crossbeam-rs/crossbeam (⭐7.6k)](https://github.com/crossbeam-rs/crossbeam) - Support for parallelism and low-level concurrency
+*   [orium/archery (⭐148)](https://github.com/orium/archery) \[[archery](https://crates.io/crates/archery)] - Library to abstract from `Rc`/`Arc` pointer types. [![build badge](https://github.com/orium/archery/workflows/CI/badge.svg)](https://github.com/orium/archery/actions?query=workflow%3ACI)
 *   [Rayon (⭐11k)](https://github.com/rayon-rs/rayon) - A data parallelism library
-*   [rustcc/coroutine-rs (⭐414)](https://github.com/rustcc/coroutine-rs) - Coroutine Library
+*   [rustcc/coroutine-rs (⭐413)](https://github.com/rustcc/coroutine-rs) - Coroutine Library
 
 ### Libraries / Data processing
 
-*   [amv-dev/yata (⭐314)](https://github.com/amv-dev/yata) - high performance technical analysis library [![Build Status](https://img.shields.io/github/workflow/status/amv-dev/yata/Rust?branch=master)](https://github.com/amv-dev/yata/actions?query=workflow%3ARust)
-*   [bluss/ndarray (⭐3.5k)](https://github.com/rust-ndarray/ndarray) - N-dimensional array with array views, multidimensional slicing, and efficient operations
-*   [kernelmachine/utah (⭐142)](https://github.com/kernelmachine/utah) - Dataframe structure and operations
-*   [pola-rs/polars (⭐29k)](https://github.com/pola-rs/polars) - Fast feature complete DataFrame library ![Build and test](https://github.com/pola-rs/polars/workflows/Build%20and%20test/badge.svg?branch=master)
+*   [amv-dev/yata (⭐340)](https://github.com/amv-dev/yata) - high performance technical analysis library [![Build Status](https://img.shields.io/github/workflow/status/amv-dev/yata/Rust?branch=master)](https://github.com/amv-dev/yata/actions?query=workflow%3ARust)
+*   [bluss/ndarray (⭐3.7k)](https://github.com/rust-ndarray/ndarray) - N-dimensional array with array views, multidimensional slicing, and efficient operations
+*   [kernelmachine/utah (⭐144)](https://github.com/kernelmachine/utah) - Dataframe structure and operations
+*   [pola-rs/polars (⭐31k)](https://github.com/pola-rs/polars) - Fast feature complete DataFrame library ![Build and test](https://github.com/pola-rs/polars/workflows/Build%20and%20test/badge.svg?branch=master)
 *   [weld-project/weld (⭐3k)](https://github.com/weld-project/weld) - High-performance runtime for data analytics applications
 
 ### Libraries / Data streaming
 
-*   [infinyon/fluvio (⭐2.8k)](https://github.com/infinyon/fluvio) - Programmable data streaming platform [![CI](https://github.com/infinyon/fluvio/workflows/CI/badge.svg?branch=stable)](https://github.com/infinyon/fluvio/actions)
+*   [infinyon/fluvio (⭐4k)](https://github.com/infinyon/fluvio) - Programmable data streaming platform [![CI](https://github.com/infinyon/fluvio/workflows/CI/badge.svg?branch=stable)](https://github.com/infinyon/fluvio/actions)
 
 ### Libraries / Data structures
 
 *   [billyevans/tst (⭐23)](https://github.com/billyevans/tst) \[[tst](https://crates.io/crates/tst)] - Ternary search tree collection
 *   [contain-rs](https://github.com/contain-rs) - Extension of Rust's std::collections
-*   [danielpclark/array\_tool (⭐77)](https://github.com/danielpclark/array_tool) - Array helpers. Some of the most common methods you would use on Arrays made available on Vectors. Polymorphic implementations for handling most of your use cases.
-*   [fizyk20/generic-array (⭐403)](https://github.com/fizyk20/generic-array) - a hack to allow for arrays sized by typenums
-*   [garro95/priority-queue (⭐171)](https://github.com/garro95/priority-queue)\[[priority-queue](https://crates.io/crates/priority-queue)] - A priority queue that implements priority changes.
-*   [mrhooray/kdtree-rs (⭐223)](https://github.com/mrhooray/kdtree-rs) - K-dimensional tree for fast geospatial indexing and nearest neighbors lookup
-*   [orium/rpds (⭐1.2k)](https://github.com/orium/rpds) \[[rpds](https://crates.io/crates/rpds)] - Persistent data structures. [![build badge](https://github.com/orium/rpds/workflows/CI/badge.svg)](https://github.com/orium/rpds/actions?query=workflow%3ACI)
-*   [RoaringBitmap/roaring-rs (⭐728)](https://github.com/RoaringBitmap/roaring-rs) - Roaring Bitmaps
-*   [rust-itertools/itertools (⭐2.7k)](https://github.com/rust-itertools/itertools) - Extra iterator adaptors, functions and macros
-*   [tnballo/scapegoat (⭐248)](https://github.com/tnballo/scapegoat) \[[scapegoat](https://crates.io/crates/scapegoat)] - Safe, fallible, stack-only alternative to `BTreeSet` and `BTreeMap`. [![GitHub Actions](https://github.com/tnballo/scapegoat/workflows/test/badge.svg?branch=master)](https://github.com/tnballo/scapegoat/actions)
-*   [yamafaktory/hypergraph (⭐275)](https://github.com/yamafaktory/hypergraph) \[[hypergraph](https://crates.io/crates/hypergraph)] - Hypergraph is a data structure library to generate directed hypergraphs. [![ci](https://github.com/yamafaktory/hypergraph/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/yamafaktory/hypergraph/actions/workflows/ci.yml)
+*   [danielpclark/array\_tool (⭐76)](https://github.com/danielpclark/array_tool) - Array helpers. Some of the most common methods you would use on Arrays made available on Vectors. Polymorphic implementations for handling most of your use cases.
+*   [fizyk20/generic-array (⭐406)](https://github.com/fizyk20/generic-array) - a hack to allow for arrays sized by typenums
+*   [garro95/priority-queue (⭐182)](https://github.com/garro95/priority-queue)\[[priority-queue](https://crates.io/crates/priority-queue)] - A priority queue that implements priority changes.
+*   [mrhooray/kdtree-rs (⭐240)](https://github.com/mrhooray/kdtree-rs) - K-dimensional tree for fast geospatial indexing and nearest neighbors lookup
+*   [orium/rpds (⭐1.4k)](https://github.com/orium/rpds) \[[rpds](https://crates.io/crates/rpds)] - Persistent data structures. [![build badge](https://github.com/orium/rpds/workflows/CI/badge.svg)](https://github.com/orium/rpds/actions?query=workflow%3ACI)
+*   [RoaringBitmap/roaring-rs (⭐775)](https://github.com/RoaringBitmap/roaring-rs) - Roaring Bitmaps
+*   [rust-itertools/itertools (⭐2.8k)](https://github.com/rust-itertools/itertools) - Extra iterator adaptors, functions and macros
+*   [tnballo/scapegoat (⭐256)](https://github.com/tnballo/scapegoat) \[[scapegoat](https://crates.io/crates/scapegoat)] - Safe, fallible, stack-only alternative to `BTreeSet` and `BTreeMap`. [![GitHub Actions](https://github.com/tnballo/scapegoat/workflows/test/badge.svg?branch=master)](https://github.com/tnballo/scapegoat/actions)
+*   [yamafaktory/hypergraph (⭐290)](https://github.com/yamafaktory/hypergraph) \[[hypergraph](https://crates.io/crates/hypergraph)] - Hypergraph is a data structure library to generate directed hypergraphs. [![ci](https://github.com/yamafaktory/hypergraph/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/yamafaktory/hypergraph/actions/workflows/ci.yml)
 
 ### Libraries / Data visualization
 
-*   [djduque/pgfplots (⭐118)](https://github.com/djduque/pgfplots) \[[pgfplots](https://crates.io/crates/pgfplots)] - Library to generate publication-quality figures. [![build](https://github.com/DJDuque/pgfplots/actions/workflows/rust.yml/badge.svg)](https://github.com/DJDuque/pgfplots/actions/workflows/rust.yml)
-*   [milliams/plotlib (⭐464)](https://github.com/milliams/plotlib) - Data plotting library for Rust
-*   [plotters (⭐3.7k)](https://github.com/plotters-rs/plotters) - [![build badge](https://github.com/plotters-rs/plotters/workflows/CI/badge.svg)](https://github.com/plotters-rs/plotters/actions)
+*   [djduque/pgfplots (⭐120)](https://github.com/djduque/pgfplots) \[[pgfplots](https://crates.io/crates/pgfplots)] - Library to generate publication-quality figures. [![build](https://github.com/DJDuque/pgfplots/actions/workflows/rust.yml/badge.svg)](https://github.com/DJDuque/pgfplots/actions/workflows/rust.yml)
+*   [milliams/plotlib (⭐466)](https://github.com/milliams/plotlib) - Data plotting library for Rust
+*   [plotters (⭐4k)](https://github.com/plotters-rs/plotters) - [![build badge](https://github.com/plotters-rs/plotters/workflows/CI/badge.svg)](https://github.com/plotters-rs/plotters/actions)
 *   [saresend/gust (⭐131)](https://github.com/saresend/Gust) - A small charting/visualization tool and partial vega implementation
 
 ## [8. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### UI / Effect
 
-*   [Parallax (⭐876)](https://github.com/roughike/page-transformer) <!--stargazers:roughike/page-transformer--> - ViewPager by [Iiro Krankka](https://github.com/roughike)
+*   [Parallax (⭐874)](https://github.com/roughike/page-transformer) <!--stargazers:roughike/page-transformer--> - ViewPager by [Iiro Krankka](https://github.com/roughike)
 
 ### Game / Redux / ELM / Dependency Injection
 
-*   [Bonfire (⭐1.2k)](https://github.com/RafaelBarbosatec/bonfire) <!--stargazers:RafaelBarbosatec/bonfire--> - Flame engine based game engine for 2D RPG games
-*   [Zerker (⭐671)](https://github.com/flutterkit/zerker) <!--stargazers:flutterkit/zerker--> - Lightweight and powerful graphic animation library by [drawcall](https://github.com/drawcall).
+*   [Bonfire (⭐1.3k)](https://github.com/RafaelBarbosatec/bonfire) <!--stargazers:RafaelBarbosatec/bonfire--> - Flame engine based game engine for 2D RPG games
+*   [Zerker (⭐687)](https://github.com/flutterkit/zerker) <!--stargazers:flutterkit/zerker--> - Lightweight and powerful graphic animation library by [drawcall](https://github.com/drawcall).
 
 ## [9. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Websockets / Isomorphic web frameworks
 
 *   [clws (⭐72)](https://github.com/3b/clws) -  websockets server in CL, built on IOlib and libfixposix. No licence specified.
-*   [Hunchensocket (⭐109)](https://github.com/joaotavora/hunchensocket) -  RFC6455 compliant WebSockets for Common Lisp, as an extension to Hunchentoot. [MIT](https://opensource.org/licenses/MIT).
-*   [websocket-driver (⭐102)](https://github.com/fukamachi/websocket-driver) - based on Clack.
+*   [Hunchensocket (⭐112)](https://github.com/joaotavora/hunchensocket) -  RFC6455 compliant WebSockets for Common Lisp, as an extension to Hunchentoot. [MIT](https://opensource.org/licenses/MIT).
+*   [websocket-driver (⭐104)](https://github.com/fukamachi/websocket-driver) - based on Clack.
 
 ## [10. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Planning Coding Resources / Python
 
-*   [Geemap (⭐3.2k)](https://github.com/giswqs/geemap) - A Python package for interactive mapping with Google Earth Engine, ipyleaflet, and ipywidgets.
+*   [Geemap (⭐3.5k)](https://github.com/giswqs/geemap) - A Python package for interactive mapping with Google Earth Engine, ipyleaflet, and ipywidgets.
 *   [Geoplot](https://residentmario.github.io/geoplot/) - Geoplot is a high-level Python geospatial plotting library. It is an extension to cartopy and matplotlib which makes mapping easy: like seaborn for geospatial.
-*   [Urbansprawl (⭐74)](https://github.com/lgervasoni/urbansprawl) - The urbansprawl project provides an open source framework for assessing urban sprawl using open data. It uses OpenStreetMap (OSM) data to calculate its sprawling indices, divided in Accessibility, Land use mix, and Dispersion.
+*   [Urbansprawl (⭐84)](https://github.com/lgervasoni/urbansprawl) - The urbansprawl project provides an open source framework for assessing urban sprawl using open data. It uses OpenStreetMap (OSM) data to calculate its sprawling indices, divided in Accessibility, Land use mix, and Dispersion.
 *   [Xarray-spatial](https://xarray-spatial.org/) - Xarray-Spatial implements common raster analysis functions using Numba and provides an easy-to-install, easy-to-extend codebase for raster analysis.
 *   [Momepy](http://docs.momepy.org/en/stable/) - Momepy is a library for quantitative analysis of urban form - urban morphometrics. It is part of PySAL (Python Spatial Analysis Library) and is built on top of GeoPandas, other PySAL modules and networkX.
-*   [rasterio (⭐2.1k)](https://github.com/rasterio/rasterio/blob/master/docs/index.rst) - Geographic information systems use GeoTIFF and other formats to organize and store gridded raster datasets such as satellite imagery and terrain models.
+*   [rasterio (⭐2.3k)](https://github.com/rasterio/rasterio/blob/master/docs/index.rst) - Geographic information systems use GeoTIFF and other formats to organize and store gridded raster datasets such as satellite imagery and terrain models.
 
 ### Planning Coding Resources / R
 
 *   [Motif](https://cran.r-project.org/web/packages/motif/index.html) - Describes spatial patterns of categorical raster data for any defined regular and irregular areas. It enables spatial analysis such as search, change detection, and clustering to be performed on spatial patterns.
 *   [Raster](https://cran.r-project.org/web/packages/raster/index.html) - Reading, writing, manipulating, analyzing and modeling of spatial data. The package implements basic and high-level functions for raster data and for vector data operations such as intersections.
-*   [Rgee (⭐635)](https://github.com/r-spatial/rgee) - Is an R binding package for calling Google Earth Engine API from within R. Various functions are implemented to simplify the connection with the R spatial ecosystem.
+*   [Rgee (⭐701)](https://github.com/r-spatial/rgee) - Is an R binding package for calling Google Earth Engine API from within R. Various functions are implemented to simplify the connection with the R spatial ecosystem.
 *   [Sfnetworks](https://cran.r-project.org/web/packages/sfnetworks/index.html) - Provides a tidy approach to spatial network analysis.
 *   [Stars](https://cran.r-project.org/web/packages/stars/index.html) - Reading, manipulating, writing and plotting spatiotemporal arrays (raster and vector data cubes) in 'R'.
 *   [stplanr](https://cran.r-project.org/web/packages/stplanr/index.html) - Tools for transport planning with an emphasis on spatial transport data and non-motorized modes including OD data processing and other functions.
@@ -190,20 +190,20 @@
 
 ### Deep Learning / PyTorch
 
-*   [ChemicalX (⭐700)](https://github.com/AstraZeneca/chemicalx) - A PyTorch-based deep learning library for drug pair scoring. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
+*   [ChemicalX (⭐708)](https://github.com/AstraZeneca/chemicalx) - A PyTorch-based deep learning library for drug pair scoring. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
 
 ### Time Series / Others
 
-*   [darts (⭐7.3k)](https://github.com/unit8co/darts) - A python library for easy manipulation and forecasting of time series.
-*   [statsforecast (⭐3.6k)](https://github.com/Nixtla/statsforecast) - Lightning fast forecasting with statistical and econometric models.
-*   [mlforecast (⭐722)](https://github.com/Nixtla/mlforecast) - Scalable machine learning-based time series forecasting.
-*   [neuralforecast (⭐2.5k)](https://github.com/Nixtla/neuralforecast) - Scalable machine learning-based time series forecasting.
+*   [darts (⭐8k)](https://github.com/unit8co/darts) - A python library for easy manipulation and forecasting of time series.
+*   [statsforecast (⭐3.9k)](https://github.com/Nixtla/statsforecast) - Lightning fast forecasting with statistical and econometric models.
+*   [mlforecast (⭐858)](https://github.com/Nixtla/mlforecast) - Scalable machine learning-based time series forecasting.
+*   [neuralforecast (⭐3k)](https://github.com/Nixtla/neuralforecast) - Scalable machine learning-based time series forecasting.
 *   [greykite (⭐1.8k)](https://github.com/linkedin/greykite) - A flexible, intuitive, and fast forecasting library next.
-*   [Chaos Genius (⭐699)](https://github.com/chaos-genius/chaos_genius) - ML powered analytics engine for outlier/anomaly detection and root cause analysis
+*   [Chaos Genius (⭐728)](https://github.com/chaos-genius/chaos_genius) - ML powered analytics engine for outlier/anomaly detection and root cause analysis
 
 ### Experimentation / Synthetic Data
 
-*   [envd (⭐1.9k)](https://github.com/tensorchord/envd) - 🏕️ machine learning development environment for data science and AI/ML engineering teams.
+*   [envd (⭐2k)](https://github.com/tensorchord/envd) - 🏕️ machine learning development environment for data science and AI/ML engineering teams.
 
 ## [15. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
@@ -220,17 +220,17 @@
 ### Third-Party Packages / Task Queues
 
 *   [django-redis (⭐2.9k)](https://github.com/niwinz/django-redis) - Full-featured Redis cache backend for Django.
-*   [django-dramatiq (⭐338)](https://github.com/Bogdanp/django_dramatiq) - Task processing library with a focus on simplicity, reliability, and performance.
+*   [django-dramatiq (⭐356)](https://github.com/Bogdanp/django_dramatiq) - Task processing library with a focus on simplicity, reliability, and performance.
 
 ### Projects / Open Source Projects
 
-*   [Flagsmith (⭐4.7k)](https://github.com/Flagsmith/flagsmith) - Open-source Feature Flagging, Remote Config, and AB testing.
+*   [Flagsmith (⭐5.3k)](https://github.com/Flagsmith/flagsmith) - Open-source Feature Flagging, Remote Config, and AB testing.
 
 ## [17. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 
 ### Contents / Tools
 
-*   [Airdash (⭐460)](https://github.com/simonbengtsson/airdash) - Share files to any device by [Simon Bengtsson](https://github.com/simonbengtsson)
+*   [Airdash (⭐536)](https://github.com/simonbengtsson/airdash) - Share files to any device by [Simon Bengtsson](https://github.com/simonbengtsson)
 
 ## [18. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
@@ -245,7 +245,7 @@
 
 ### Others
 
-*   [BlazorViz interop wrapper for Viz.js (⭐5)](https://github.com/mrzhdev/BlazorViz) - ![last commit](https://img.shields.io/github/last-commit/mrzhdev/BlazorViz) A sample of generating Graphviz DOT language files and visualising tree data structures. [Demo](https://mrzhdev.github.io/BlazorViz/).
+*   [BlazorViz interop wrapper for Viz.js (⭐6)](https://github.com/mrzhdev/BlazorViz) - ![last commit](https://img.shields.io/github/last-commit/mrzhdev/BlazorViz) A sample of generating Graphviz DOT language files and visualising tree data structures. [Demo](https://mrzhdev.github.io/BlazorViz/).
 
 ### Articles / Others
 
@@ -257,7 +257,7 @@
 
 ### Editor plugins
 
-*   [MarioAriasC/zig-support (⭐80)](https://github.com/MarioAriasC/zig-support) - Language support for JetBrains IDEs (IntelliJ, CLion and others)
+*   [MarioAriasC/zig-support (⭐79)](https://github.com/MarioAriasC/zig-support) - Language support for JetBrains IDEs (IntelliJ, CLion and others)
 
 ## [21. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
 
@@ -277,15 +277,15 @@
 
 *   [MICS6814-Micropython-driver](https://gitlab.com/DanNduati/MICS6814-Micropython-driver) - ESP32 MicroPython driver for the Pimoroni MICS6814 breakout board.
 
-### Storage / Database
+### Storage / Databases
 
 *   [micropython-firebase-firestore (⭐8)](https://github.com/WoolDoughnut310/micropython-firebase-firestore) - Firebase Firestore implementation for MicroPython.
 
 ### Tutorials / SRAM
 
-*   [Asynchronous drivers (⭐718)](https://github.com/peterhinch/micropython-async/blob/master/v3/docs/DRIVERS.md) - Tutorial and code for asynchronous interfaces to switches, pushbuttons, encoders and ADCs.
-*   [Pyboard micropower (⭐44)](https://github.com/peterhinch/micropython-micropower) - Tutorial and code for low power applications on Pyboard 1.x and Pyboard D.
-*   [3D rotation with quaternions (⭐447)](https://github.com/peterhinch/micropython-samples/blob/master/QUATERNIONS.md) - Tutorial and code for the easy way to do 3D rotation.
+*   [Asynchronous drivers (⭐761)](https://github.com/peterhinch/micropython-async/blob/master/v3/docs/DRIVERS.md) - Tutorial and code for asynchronous interfaces to switches, pushbuttons, encoders and ADCs.
+*   [Pyboard micropower (⭐45)](https://github.com/peterhinch/micropython-micropower) - Tutorial and code for low power applications on Pyboard 1.x and Pyboard D.
+*   [3D rotation with quaternions (⭐482)](https://github.com/peterhinch/micropython-samples/blob/master/QUATERNIONS.md) - Tutorial and code for the easy way to do 3D rotation.
 *   [Miguel Grinberg](https://blog.miguelgrinberg.com/category/MicroPython) - MicroPython and the Internet of Things.
 *   [Bhavesh Kakwani](https://bhave.sh/) - MicroPython videos + written tutorials.
 
@@ -297,7 +297,7 @@
 
 ### Shells / On Host
 
-*   [mpremote (⭐19k)](https://github.com/micropython/micropython/blob/master/tools/mpremote/README.md) - Powerful official shell that supports mounting the host's current directory on the target. Run code without changing the target's filesystem.
+*   [mpremote (⭐20k)](https://github.com/micropython/micropython/blob/master/tools/mpremote/README.md) - Powerful official shell that supports mounting the host's current directory on the target. Run code without changing the target's filesystem.
 
 ## [22. Awesome Cross Platform Nodejs](/content/bcoe/awesome-cross-platform-nodejs/week/README.md)
 
@@ -319,7 +319,7 @@
 
 ### Queue
 
-*   [SlimMessageBus (⭐458)](https://github.com/zarusz/SlimMessageBus) - Lightweight message bus with transports for popular messaging systems (Kafka, Redis, Azure Service Bus, and others) and in-memory communication.
+*   [SlimMessageBus (⭐491)](https://github.com/zarusz/SlimMessageBus) - Lightweight message bus with transports for popular messaging systems (Kafka, Redis, Azure Service Bus, and others) and in-memory communication.
 
 ## [25. Awesome Mdbootstrap](/content/mdbootstrap/awesome-mdbootstrap/week/README.md)
 
@@ -347,21 +347,21 @@
 
 ### Peripheral Access Crates / Silicon Labs
 
-*   [`efm32g-pac`](https://crates.io/crates/efm32g-pac) - ![crates.io](https://img.shields.io/crates/v/efm32g-pac)
-*   [`efm32gg-pac`](https://crates.io/crates/efm32gg-pac) - ![crates.io](https://img.shields.io/crates/v/efm32gg-pac)
-*   [`efm32gg11b-pac`](https://crates.io/crates/efm32gg11b-pac) - ![crates.io](https://img.shields.io/crates/v/efm32gg11b-pac)
-*   [`efm32gg12b-pac`](https://crates.io/crates/efm32gg12b-pac) - ![crates.io](https://img.shields.io/crates/v/efm32gg12b-pac)
-*   [`efm32hg-pac`](https://crates.io/crates/efm32hg-pac) - ![crates.io](https://img.shields.io/crates/v/efm32hg-pac)
-*   [`efm32jg1b-pac`](https://crates.io/crates/efm32jg1b-pac) - ![crates.io](https://img.shields.io/crates/v/efm32jg1b-pac)
-*   [`efm32jg12b-pac`](https://crates.io/crates/efm32jg12b-pac) - ![crates.io](https://img.shields.io/crates/v/efm32jg12b-pac)
-*   [`efm32lg-pac`](https://crates.io/crates/efm32lg-pac) - ![crates.io](https://img.shields.io/crates/v/efm32lg-pac)
-*   [`efm32pg-pac`](https://crates.io/crates/efm32pg-pac) - ![crates.io](https://img.shields.io/crates/v/efm32pg-pac)
-*   [`efm32pg22-pac`](https://crates.io/crates/efm32pg22-pac) - ![crates.io](https://img.shields.io/crates/v/efm32pg22-pac)
-*   [`efm32pg23-pac`](https://crates.io/crates/efm32pg23-pac) - ![crates.io](https://img.shields.io/crates/v/efm32pg23-pac)
-*   [`efm32tg-pac`](https://crates.io/crates/efm32tg-pac) - ![crates.io](https://img.shields.io/crates/v/efm32tg-pac)
-*   [`efm32tg11b-pac`](https://crates.io/crates/efm32tg11b-pac) - ![crates.io](https://img.shields.io/crates/v/efm32tg11b-pac)
-*   [`efm32wg-pac`](https://crates.io/crates/efm32wg-pac) - ![crates.io](https://img.shields.io/crates/v/efm32wg-pac)
-*   [`efm32zg-pac`](https://crates.io/crates/efm32zg-pac) - ![crates.io](https://img.shields.io/crates/v/efm32zg-pac)
+*   [`efm32g-pac`](https://crates.io/crates/efm32g-pac) - [![crates.io](https://img.shields.io/crates/v/efm32g-pac)](https://crates.io/crates/efm32g-pac)
+*   [`efm32gg-pac`](https://crates.io/crates/efm32gg-pac) - [![crates.io](https://img.shields.io/crates/v/efm32gg-pac)](https://crates.io/crates/efm32gg-pac)
+*   [`efm32gg11b-pac`](https://crates.io/crates/efm32gg11b-pac) - [![crates.io](https://img.shields.io/crates/v/efm32gg11b-pac)](https://crates.io/crates/efm32gg11b-pac)
+*   [`efm32gg12b-pac`](https://crates.io/crates/efm32gg12b-pac) - [![crates.io](https://img.shields.io/crates/v/efm32gg12b-pac)](https://crates.io/crates/efm32gg12b-pac)
+*   [`efm32hg-pac`](https://crates.io/crates/efm32hg-pac) - [![crates.io](https://img.shields.io/crates/v/efm32hg-pac)](https://crates.io/crates/efm32hg-pac)
+*   [`efm32jg1b-pac`](https://crates.io/crates/efm32jg1b-pac) - [![crates.io](https://img.shields.io/crates/v/efm32jg1b-pac)](https://crates.io/crates/efm32jg1b-pac)
+*   [`efm32jg12b-pac`](https://crates.io/crates/efm32jg12b-pac) - [![crates.io](https://img.shields.io/crates/v/efm32jg12b-pac)](https://crates.io/crates/efm32jg12b-pac)
+*   [`efm32lg-pac`](https://crates.io/crates/efm32lg-pac) - [![crates.io](https://img.shields.io/crates/v/efm32lg-pac)](https://crates.io/crates/efm32lg-pac)
+*   [`efm32pg-pac`](https://crates.io/crates/efm32pg-pac) - [![crates.io](https://img.shields.io/crates/v/efm32pg-pac)](https://crates.io/crates/efm32pg-pac)
+*   [`efm32pg22-pac`](https://crates.io/crates/efm32pg22-pac) - [![crates.io](https://img.shields.io/crates/v/efm32pg22-pac)](https://crates.io/crates/efm32pg22-pac)
+*   [`efm32pg23-pac`](https://crates.io/crates/efm32pg23-pac) - [![crates.io](https://img.shields.io/crates/v/efm32pg23-pac)](https://crates.io/crates/efm32pg23-pac)
+*   [`efm32tg-pac`](https://crates.io/crates/efm32tg-pac) - [![crates.io](https://img.shields.io/crates/v/efm32tg-pac)](https://crates.io/crates/efm32tg-pac)
+*   [`efm32tg11b-pac`](https://crates.io/crates/efm32tg11b-pac) - [![crates.io](https://img.shields.io/crates/v/efm32tg11b-pac)](https://crates.io/crates/efm32tg11b-pac)
+*   [`efm32wg-pac`](https://crates.io/crates/efm32wg-pac) - [![crates.io](https://img.shields.io/crates/v/efm32wg-pac)](https://crates.io/crates/efm32wg-pac)
+*   [`efm32zg-pac`](https://crates.io/crates/efm32zg-pac) - [![crates.io](https://img.shields.io/crates/v/efm32zg-pac)](https://crates.io/crates/efm32zg-pac)
 
 ## [27. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
@@ -373,7 +373,7 @@
 
 ### SaaS Tools / Symfony2
 
-*   [Nango (⭐4.5k)](https://github.com/NangoHQ/nango) - Native integrations framework to consume REST APIs (open-source).
+*   [Nango (⭐4.9k)](https://github.com/NangoHQ/nango) - Native integrations framework to consume REST APIs (open-source).
 
 ## [29. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
 
@@ -393,11 +393,11 @@
 
 ### Design Systems
 
-*   [AXA Pattern Library (⭐122)](https://github.com/axa-ch-webhub-cloud/pattern-library) - AXA CH UI components library built with LitElement.
-*   [Carbon Web Components (⭐471)](https://github.com/carbon-design-system/carbon-web-components) - Carbon Design System variant on top of Web Components.
-*   [Clarity Core Web Components (⭐158)](https://github.com/vmware-clarity/core/tree/main/projects/core) - Suite of web components for Clarity Design System.
-*   [Momentum UI Web Components (⭐192)](https://github.com/momentum-design/momentum-ui/tree/master/web-components) - Set of UI components based on Momentum Design.
-*   [Red Hat Design System (⭐84)](https://github.com/RedHat-UX/red-hat-design-system) - Web components for building uniform experiences with the Red Hat brand.
+*   [AXA Pattern Library (⭐125)](https://github.com/axa-ch-webhub-cloud/pattern-library) - AXA CH UI components library built with LitElement.
+*   [Carbon Web Components (⭐476)](https://github.com/carbon-design-system/carbon-web-components) - Carbon Design System variant on top of Web Components.
+*   [Clarity Core Web Components (⭐163)](https://github.com/vmware-clarity/core/tree/main/projects/core) - Suite of web components for Clarity Design System.
+*   [Momentum UI Web Components (⭐195)](https://github.com/momentum-design/momentum-ui/tree/master/web-components) - Set of UI components based on Momentum Design.
+*   [Red Hat Design System (⭐92)](https://github.com/RedHat-UX/red-hat-design-system) - Web components for building uniform experiences with the Red Hat brand.
 
 ## [31. Typedb Awesome](/content/vaticle/typedb-awesome/week/README.md)
 
@@ -455,22 +455,22 @@
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [1password (⭐2)](https://github.com/agpenton/1password-zsh-plugin) - Adds [1Password](https://1password.com/) functionality including a `opswd` command that wraps the `op` command. It takes a service name as an argument and copies the password for that service to the clipboard.
-*   [jq (⭐315)](https://github.com/reegnz/jq-zsh-plugin) - Interactively build [jq](https://stedolan.github.io/jq/) expressions. Also supports [gojq (⭐3.2k)](https://github.com/itchyny/gojq). Requires [fzf (⭐63k)](https://github.com/junegunn/fzf).
+*   [jq (⭐322)](https://github.com/reegnz/jq-zsh-plugin) - Interactively build [jq](https://stedolan.github.io/jq/) expressions. Also supports [gojq (⭐3.4k)](https://github.com/itchyny/gojq). Requires [fzf (⭐67k)](https://github.com/junegunn/fzf).
 *   [pipenv (owenstranathan) (⭐18)](https://github.com/owenstranathan/pipenv.zsh) - Automatically activates a **pipenv** when entering a directory if there is Pipfile in that directory. Includes `pipenv` completions.
 *   [pipenv (sudosubin) (⭐0)](https://github.com/sudosubin/zsh-pipenv) - Enables `pipenv`'s `$PATH` and adds completions.
 *   [prettyping (⭐4)](https://github.com/unixorn/prettyping) - Adds a wrapper around the standard ping tool with the objective of making the output prettier, more colorful, more compact, and easier to read.
-*   [ranger-autojump (⭐72)](https://github.com/fdw/ranger-autojump) - Adds [autojump (⭐16k)](https://github.com/wting/autojump) support to the [ranger (⭐15k)](https://github.com/ranger/ranger) console file manager.
+*   [ranger-autojump (⭐72)](https://github.com/fdw/ranger-autojump) - Adds [autojump (⭐16k)](https://github.com/wting/autojump) support to the [ranger (⭐16k)](https://github.com/ranger/ranger) console file manager.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [jnooree (⭐0)](https://github.com/jnooree/jnooree-zsh-theme) - Minimalist theme with colors adapted from the [robbyrussell (⭐172k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/robbyrussell.zsh-theme) theme. Includes decorators for `git` status, whether running as non-default user and current working directory.
+*   [jnooree (⭐0)](https://github.com/jnooree/jnooree-zsh-theme) - Minimalist theme with colors adapted from the [robbyrussell (⭐175k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/robbyrussell.zsh-theme) theme. Includes decorators for `git` status, whether running as non-default user and current working directory.
 *   [pyhack (⭐1)](https://github.com/williamcanin/pyhack) - Works well with dark terminal themes. Shows Python version, Python package version (pyproject.toml) and `git` current branch information.
 
 ## [35. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
 
 ### Preprocessing
 
-*   [svelte-switch-case (⭐145)](https://github.com/l-portet/svelte-switch-case) - Switch case syntax for Svelte.
+*   [svelte-switch-case (⭐151)](https://github.com/l-portet/svelte-switch-case) - Switch case syntax for Svelte.
 
 ### Icons
 
@@ -490,11 +490,11 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-browser-sync (⭐60)](https://github.com/Applelo/vite-plugin-browser-sync) - BrowserSync.
+*   [vite-plugin-browser-sync (⭐70)](https://github.com/Applelo/vite-plugin-browser-sync) - BrowserSync.
 
 ### Shopify / Community
 
-*   [vite-plugin-shopify (⭐251)](https://github.com/barrel/barrel-shopify/tree/main/packages/vite-plugin-shopify) - Integration for Shopify themes.
+*   [vite-plugin-shopify (⭐305)](https://github.com/barrel/barrel-shopify/tree/main/packages/vite-plugin-shopify) - Integration for Shopify themes.
 
 ## [38. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
 
@@ -532,26 +532,22 @@
 
 ### GUI
 
-*   [AppIndicator Go (⭐5)](https://github.com/gopherlibs/appindicator) - Go bindings for libappindicator3 C library.
+*   [AppIndicator Go (⭐6)](https://github.com/gopherlibs/appindicator) - Go bindings for libappindicator3 C library.
 
 ### JSON
 
-*   [marshmallow (⭐371)](https://github.com/PerimeterX/marshmallow) - Performant JSON unmarshalling for flexible use cases.
+*   [marshmallow (⭐377)](https://github.com/PerimeterX/marshmallow) - Performant JSON unmarshalling for flexible use cases.
 
 ## [41. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / E-commerce
 
-*   [s-cart](https://s-cart.org/) - S-Cart is a free e-commerce website project for individuals and businesses, built on top of Laravel Framework. ([Demo](https://demo.s-cart.org/), [Source Code (⭐633)](https://github.com/s-cart/s-cart)) `MIT` `PHP`
-*   [Saleor](https://saleor.io) - Django based open-sourced e-commerce storefront. ([Demo](https://demo.saleor.io/), [Source Code (⭐20k)](https://github.com/saleor/saleor)) `BSD-3-Clause` `Docker/Python`
-
-### Software / Games
-
-*   [Minetest](https://www.minetest.net/) - An open source voxel game engine. Play one of our many games, mod a game to your liking, make your own game, or play on a multiplayer server. ([Source Code (⭐11k)](https://github.com/minetest/minetest)) `LGPL-2.1/MIT/Zlib` `C++/deb`
+*   [s-cart](https://s-cart.org/) - S-Cart is a free e-commerce website project for individuals and businesses, built on top of Laravel Framework. ([Demo](https://demo.s-cart.org/), [Source Code (⭐678)](https://github.com/s-cart/s-cart)) `MIT` `PHP`
+*   [Saleor](https://saleor.io) - Django based open-sourced e-commerce storefront. ([Demo](https://demo.saleor.io/), [Source Code (⭐21k)](https://github.com/saleor/saleor)) `BSD-3-Clause` `Docker/Python`
 
 ### Software / Games - Administrative Utilities & Control Panels
 
-*   [Lancache](https://lancache.net) `⚠` - LAN Party game caching made easy. ([Source Code (⭐738)](https://github.com/lancachenet/monolithic)) `MIT` `Docker/Shell`
+*   [Lancache](https://lancache.net) `⚠` - LAN Party game caching made easy. ([Source Code (⭐765)](https://github.com/lancachenet/monolithic)) `MIT` `Docker/Shell`
 
 ### Software / Miscellaneous
 
@@ -559,12 +555,12 @@
 
 ### Software / Personal Dashboards
 
-*   [Jump (⭐512)](https://github.com/daledavies/jump) - Yet another self-hosted startpage for your server designed to be simple, stylish, fast and secure. `MIT` `Docker/PHP`
-*   [Web-Portal (⭐188)](https://github.com/enchant97/web-portal) - A python web app designed to allow a easy way to manage the links to all of your web services. `AGPL-3.0` `Docker/Python`
+*   [Jump (⭐555)](https://github.com/daledavies/jump) - Yet another self-hosted startpage for your server designed to be simple, stylish, fast and secure. `MIT` `Docker/PHP`
+*   [Web-Portal (⭐214)](https://github.com/enchant97/web-portal) - A python web app designed to allow a easy way to manage the links to all of your web services. `AGPL-3.0` `Docker/Python`
 
 ### Software / Proxy
 
-*   [Outline Server](https://getoutline.org/) - A proxy server that runs a Shadowsocks instance for each access key and a REST API to manage the access keys. ([Source Code (⭐5.7k)](https://github.com/Jigsaw-Code/outline-server)) `Apache-2.0` `Docker/Nodejs`
+*   [Outline Server](https://getoutline.org/) - A proxy server that runs a Shadowsocks instance for each access key and a REST API to manage the access keys. ([Source Code (⭐5.9k)](https://github.com/Jigsaw-Code/outline-server)) `Apache-2.0` `Docker/Nodejs`
 
 ## [42. Awesome Scifi](/content/sindresorhus/awesome-scifi/week/README.md)
 
@@ -576,13 +572,13 @@
 
 ### Crates / Hooks
 
-*   [Bounce (⭐100)](https://github.com/bounce-rs/bounce) - The uncomplicated state management library for Yew, inspired by [Redux (⭐61k)](https://github.com/reduxjs/redux) and [Recoil (⭐19k)](https://github.com/facebookexperimental/Recoil).
+*   [Bounce (⭐101)](https://github.com/bounce-rs/bounce) - The uncomplicated state management library for Yew, inspired by [Redux (⭐61k)](https://github.com/reduxjs/redux) and [Recoil (⭐20k)](https://github.com/facebookexperimental/Recoil).
 
 ## [44. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Testing
 
-*   [sokomishalov/skraper (⭐251)](https://github.com/sokomishalov/skraper) - Kotlin/Java library, cli tool and telegram-bot for scraping posts and media from various sources with neither authorization nor full page rendering (Facebook, Instagram, Twitter, Youtube, Tiktok, Telegram, Twitch, Reddit, Pinterest, Flickr, Tumblr, etc.)
+*   [sokomishalov/skraper (⭐256)](https://github.com/sokomishalov/skraper) - Kotlin/Java library, cli tool and telegram-bot for scraping posts and media from various sources with neither authorization nor full page rendering (Facebook, Instagram, Twitter, Youtube, Tiktok, Telegram, Twitch, Reddit, Pinterest, Flickr, Tumblr, etc.)
 
 ### Libraries/Frameworks / Misc
 
@@ -591,11 +587,11 @@
 
 ### Libraries/Frameworks / Multiplatform
 
-*   [petertrr/kotlin-multiplatform-diff (⭐75)](https://github.com/petertrr/kotlin-multiplatform-diff) - Multiplatform kotlin library for calculating text differences. Based on java-diff-utils.
+*   [petertrr/kotlin-multiplatform-diff (⭐91)](https://github.com/petertrr/kotlin-multiplatform-diff) - Multiplatform kotlin library for calculating text differences. Based on java-diff-utils.
 
 ### Libraries/Frameworks / DSL
 
-*   [h0tk3y/regex-dsl (⭐86)](https://github.com/h0tk3y/regex-dsl) - A Kotlin DSL for regular expressions
+*   [h0tk3y/regex-dsl (⭐87)](https://github.com/h0tk3y/regex-dsl) - A Kotlin DSL for regular expressions
 
 ## [45. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
@@ -629,7 +625,7 @@
 
 ### Math / Apache License
 
-*   [geo-energy-math (⭐7)](https://github.com/pukpr/GeoEnergyMath) - Software libraries for solving models described in Mathematical GeoEnergy (Wiley, 2018).
+*   [geo-energy-math (⭐8)](https://github.com/pukpr/GeoEnergyMath) - Software libraries for solving models described in Mathematical GeoEnergy (Wiley, 2018).
 
 ## [48. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
@@ -641,11 +637,11 @@
 
 ### (requires Neovim 0.5) / LSP Installer
 
-*   [williamboman/mason.nvim (⭐7.5k)](https://github.com/williamboman/mason.nvim) - Portable package manager that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
+*   [williamboman/mason.nvim (⭐8.3k)](https://github.com/williamboman/mason.nvim) - Portable package manager that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
 
 ### Editing Support / Diagnostics
 
-*   [keaising/im-select.nvim (⭐169)](https://github.com/keaising/im-select.nvim) - Switching and restoring input method automatically depends on Neovim's edit mode.
+*   [keaising/im-select.nvim (⭐205)](https://github.com/keaising/im-select.nvim) - Switching and restoring input method automatically depends on Neovim's edit mode.
 
 ## [50. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
 
@@ -673,16 +669,12 @@
 
 ### Modules / Social Platform APIs
 
-*   [grammY (⭐2.1k)](https://github.com/grammyjs/grammy) - Telegram Bot API framework for Deno.
+*   [grammY (⭐2.3k)](https://github.com/grammyjs/grammy) - Telegram Bot API framework for Deno.
 *   [grm (⭐46)](https://github.com/dcdunkan/grm) - Telegram MTProto client for Deno.
 *   [twi (⭐11)](https://github.com/roj1512/twi) - Twitter API v2 client for Deno.
 *   [discordeno](https://discordeno.mod.land/) - Discord API library for Deno
 
 ## [53. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
-
-### APIs, Data, and ML
-
-*   [Nordigen](https://nordigen.com) — Free open banking data API. PSD2. Connect 2300+ banks with your app/software in EU+UK.
 
 ### Testing
 

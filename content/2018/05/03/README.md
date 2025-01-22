@@ -92,43 +92,43 @@
 
 ### Packages / Command-line utilities
 
-*   [oclif (⭐8.9k)](https://github.com/oclif/oclif) - CLI framework complete with parser, automatic documentation, testing, and plugins.
+*   [oclif (⭐9.1k)](https://github.com/oclif/oclif) - CLI framework complete with parser, automatic documentation, testing, and plugins.
 
 ### Packages / Hardware
 
-*   [gps (⭐249)](https://github.com/infusion/GPS.js) - NMEA parser for handling GPS receivers.
+*   [gps (⭐256)](https://github.com/infusion/GPS.js) - NMEA parser for handling GPS receivers.
 
 ### Packages / Web frameworks
 
-*   [Nest (⭐66k)](https://github.com/nestjs/nest) - Angular-inspired framework for building efficient and scalable server-side apps.
+*   [Nest (⭐68k)](https://github.com/nestjs/nest) - Angular-inspired framework for building efficient and scalable server-side apps.
 
 ### Packages / Text
 
-*   [i18next (⭐7.6k)](https://github.com/i18next/i18next) - Internationalization framework.
+*   [i18next (⭐7.8k)](https://github.com/i18next/i18next) - Internationalization framework.
 
 ### Packages / Math
 
-*   [multimath (⭐70)](https://github.com/nodeca/multimath) - Core to create fast image math in WebAssembly and JS.
+*   [multimath (⭐71)](https://github.com/nodeca/multimath) - Core to create fast image math in WebAssembly and JS.
 
 ### Packages / Parsing
 
-*   [fast-xml-parser (⭐2.5k)](https://github.com/NaturalIntelligence/fast-xml-parser) - Validate and parse XML.
+*   [fast-xml-parser (⭐2.6k)](https://github.com/NaturalIntelligence/fast-xml-parser) - Validate and parse XML.
 
 ### Packages / Network
 
-*   [netcat (⭐415)](https://github.com/roccomuso/netcat) - Netcat port in pure JS.
+*   [netcat (⭐419)](https://github.com/roccomuso/netcat) - Netcat port in pure JS.
 
 ### Packages / Authorization
 
-*   [CASL (⭐5.8k)](https://github.com/stalniy/casl) - Isomorphic authorization for UI and API.
+*   [CASL (⭐6.1k)](https://github.com/stalniy/casl) - Isomorphic authorization for UI and API.
 
 ### Packages / Job queues
 
-*   [bee-queue (⭐3.7k)](https://github.com/bee-queue/bee-queue) - High-performance Redis-backed job queue.
+*   [bee-queue (⭐3.9k)](https://github.com/bee-queue/bee-queue) - High-performance Redis-backed job queue.
 
 ### Packages / Serialization
 
-*   [snappy (⭐480)](https://github.com/kesla/node-snappy) - Native bindings for Google's Snappy compression library.
+*   [snappy (⭐481)](https://github.com/kesla/node-snappy) - Native bindings for Google's Snappy compression library.
 *   [compactr (⭐101)](https://github.com/compactr/compactr.js) - Implementation of the Compactr protocol.
 
 ### Packages / Miscellaneous

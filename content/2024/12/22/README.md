@@ -10,31 +10,27 @@
 
 ### Software / Document Management - E-books
 
-*   [BookLogr (⭐196)](https://github.com/Mozzo1000/booklogr) - Web app designed to help you manage your personal book library with ease. ([Demo](https://demo.booklogr.app/)) `Apache-2.0` `Docker`
+*   [BookLogr (⭐258)](https://github.com/Mozzo1000/booklogr) - Web app designed to help you manage your personal book library with ease. ([Demo](https://demo.booklogr.app/)) `Apache-2.0` `Docker`
 
 ### Software / File Transfer - Peer-to-peer Filesharing
 
-*   [slskd (⭐1.1k)](https://github.com/slskd/slskd) `⚠` - A modern client-server application for the Soulseek file sharing network. `AGPL-3.0` `Docker/C#`
+*   [slskd (⭐1.3k)](https://github.com/slskd/slskd) `⚠` - A modern client-server application for the Soulseek file sharing network. `AGPL-3.0` `Docker/C#`
 
 ### Software / Games
 
-*   [Scribble.rs (⭐471)](https://github.com/scribble-rs/scribble.rs) - A web-based pictionary game. ([Demo](https://scribblers.fly.dev)) `BSD-3-Clause` `Go/Docker`
-
-### Software / Pastebins
-
-*   [not-th.re](https://not-th.re) - Simple paste sharing platform, with client side encryption, featuring the monaco browser-based code editor. ([Demo](https://not-th.re), [Source Code (⭐2)](https://github.com/not-three/main)) `NPOSL-3.0` `Nodejs/Docker`
+*   [Scribble.rs (⭐484)](https://github.com/scribble-rs/scribble.rs) - A web-based pictionary game. ([Demo](https://scribblers.fly.dev)) `BSD-3-Clause` `Go/Docker`
 
 ### Software / Recipe Management
 
-*   [What To Cook? (⭐6)](https://github.com/kassner/whattocook) - Get a recipe to cook today, based on the ingredients you have at home. `AGPL-3.0` `Docker`
+*   [What To Cook? (⭐15)](https://github.com/kassner/whattocook) - Get a recipe to cook today, based on the ingredients you have at home. `AGPL-3.0` `Docker`
 
 ### Software / Task Management & To-do Lists
 
-*   [Donetick](https://donetick.com) - Task and chore management tool for personal and family use, with advanced scheduling, flexible assignment, and group sharing capabilities, detailed history, automation via API, simple and modern design. ([Demo](https://app.donetick.com/), [Source Code (⭐197)](https://github.com/donetick/donetick)) `AGPL-3.0` `Go/Docker`
+*   [Donetick](https://donetick.com) - Task and chore management tool for personal and family use, with advanced scheduling, flexible assignment, and group sharing capabilities, detailed history, automation via API, simple and modern design. ([Demo](https://app.donetick.com/), [Source Code (⭐370)](https://github.com/donetick/donetick)) `AGPL-3.0` `Go/Docker`
 
 ### Software / Wikis
 
-*   [W](https://w.club1.fr) - Lightweight, mutli-user, flat-file-database Wiki engine. Create pages quickly and edit them in your Web browser using Mardown/HTML/CSS/JS. The main difference with other wiki is that you are encouraged to customize each page style individually. ([Source Code (⭐22)](https://github.com/vincent-peugnet/wcms)) `AGPL-3.0` `PHP`
+*   [W](https://w.club1.fr) - Lightweight, mutli-user, flat-file-database Wiki engine. Create pages quickly and edit them in your Web browser using Mardown/HTML/CSS/JS. The main difference with other wiki is that you are encouraged to customize each page style individually. ([Source Code (⭐23)](https://github.com/vincent-peugnet/wcms)) `AGPL-3.0` `PHP`
 
 ## [2. Awesome V](/content/vlang/awesome-v/README.md)
 
@@ -114,4 +110,5 @@
 
 ---
 
+- Prev: [Dec 23, 2024](/content/2024/12/23/README.md)
 - Next: [Dec 21, 2024](/content/2024/12/21/README.md)

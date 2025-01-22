@@ -13,10 +13,6 @@
 *   [Dockerizing a Vue App](https://mherman.org/blog/dockerizing-a-vue-app/)
 *   [Deploying a Flask and Vue App to Heroku with Docker and Gitlab CI](https://testdriven.io/blog/deploying-flask-to-heroku-with-docker-and-gitlab/)
 
-### Components & Libraries / UI Components
-
-*   [@innologica/vue-stackable-modal (⭐37)](https://github.com/Innologica/vue-stackable-modal) - Library for modal dialogs which can be stacked. Fully customizable and very easy to use.
-
 ## [2. Awesome Eosio](/content/DanailMinchev/awesome-eosio/README.md)
 
 ### Wallets and Toolkits / Mobile
@@ -146,7 +142,7 @@
 
 ### Top / Game Engine resources
 
-*   [Reply (⭐562)](https://github.com/flschweiger/reply) <!--stargazers:flschweiger/reply--> - 'Reply' Material Design case study by [Frederik Schweiger](https://github.com/flschweiger)
+*   [Reply (⭐559)](https://github.com/flschweiger/reply) <!--stargazers:flschweiger/reply--> - 'Reply' Material Design case study by [Frederik Schweiger](https://github.com/flschweiger)
 
 ## [6. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -158,12 +154,12 @@
 
 ### Theory
 
-*   [Algorithms (⭐19k)](https://github.com/tayllan/awesome-algorithms#readme)
-    *   [Education (⭐597)](https://github.com/gaerae/awesome-algorithms-education#readme) - Learning and practicing.
+*   [Algorithms (⭐21k)](https://github.com/tayllan/awesome-algorithms#readme)
+    *   [Education (⭐827)](https://github.com/gaerae/awesome-algorithms-education#readme) - Learning and practicing.
 
 ### Gaming
 
-*   [Game Datasets (⭐689)](https://github.com/leomaurodesenv/game-datasets#readme) - Materials and datasets for Artificial Intelligence in games.
+*   [Game Datasets (⭐750)](https://github.com/leomaurodesenv/game-datasets#readme) - Materials and datasets for Artificial Intelligence in games.
 
 ## [8. Awesome Jquery](/content/petk/awesome-jquery/README.md)
 
@@ -195,7 +191,7 @@
 
 ### Modals and Popups / Paid Books
 
-*   [iziModal (⭐2.1k)](https://github.com/marcelodolza/iziModal) - Elegant, responsive, flexible and lightweight modal plugin with jQuery.
+*   [iziModal (⭐2.2k)](https://github.com/marcelodolza/iziModal) - Elegant, responsive, flexible and lightweight modal plugin with jQuery.
 
 ### Tables / Paid Books
 

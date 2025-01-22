@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 01 - Feb 07, 2021
 
-66 awesome lists updated this week.
+65 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -14,8 +14,8 @@
 
 ### Tools / Ansible
 
-*   [dotbare (⭐633)](https://github.com/kazhala/dotbare) - Manage dotfiles interactively with fzf.
-*   [toml-bombadil (⭐207)](https://github.com/oknozor/toml-bombadil) - Templatize and manage your dotfiles.
+*   [dotbare (⭐673)](https://github.com/kazhala/dotbare) - Manage dotfiles interactively with fzf.
+*   [toml-bombadil (⭐232)](https://github.com/oknozor/toml-bombadil) - Templatize and manage your dotfiles.
 
 ## [2. Awesome Veganism](/content/sdassow/awesome-veganism/week/README.md)
 
@@ -37,9 +37,9 @@
 ### Programming Language Design Patterns
 
 *   C#
-    *   [design-patterns (⭐2.3k)](https://github.com/abishekaditya/DesignPatterns)
-    *   [design-patterns-for-human (⭐1.2k)](https://github.com/anupavanm/csharp-design-patterns-for-humans) - ultra simplified explanation to design patterns.
-    *   [Design Patterns Library (⭐1.9k)](https://github.com/nemanjarogic/DesignPatternsLibrary)
+    *   [design-patterns (⭐2.5k)](https://github.com/abishekaditya/DesignPatterns)
+    *   [design-patterns-for-human (⭐1.3k)](https://github.com/anupavanm/csharp-design-patterns-for-humans) - ultra simplified explanation to design patterns.
+    *   [Design Patterns Library (⭐2k)](https://github.com/nemanjarogic/DesignPatternsLibrary)
 
 ## [4. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
 
@@ -49,7 +49,7 @@
 
 ## [5. Awesome Acg](/content/soruly/awesome-acg/week/README.md)
 
-### Databases / Data Sources
+### Data Sources
 
 *   [AnimeThemes](https://animethemes.moe) - A simple and consistent repository of anime opening and ending themes. \[English]
 
@@ -57,50 +57,49 @@
 
 ### Cloud platform security / Kubernetes
 
-*   [kube-hunter](https://kube-hunter.aquasec.com/) - Open-source tool that runs a set of tests ("hunters") for security issues in Kubernetes clusters from either outside ("attacker's view") or inside a cluster.
 *   [KubeSec](https://kubesec.io/) - Static analyzer of Kubernetes manifests that can be run locally, as a Kuberenetes admission controller, or as its own cloud service.
 *   [Managed Kubernetes Inspection Tool (MKIT) (⭐401)](https://github.com/darkbitio/mkit) - Query and validate several common security-related configuration settings of managed Kubernetes cluster objects and the workloads/resources running inside the cluster.
 *   [Polaris](https://polaris.docs.fairwinds.com/) - Validates Kubernetes best practices by running tests against code commits, a Kubernetes admission request, or live resources already running in a cluster.
 
-### Threat intelligence / Threat hunting
+## [7. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
-*   [Open Source Vulnerabilities (OSV)](https://osv.dev/) - Vulnerability database and triage infrastructure for open source projects aimed at helping both open source maintainers and consumers of open source.
+### Network Vulnerability Scanners / Wireless Network Tools
 
-## [7. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
+*   [kube-hunter](https://kube-hunter.aquasec.com/) - Open-source tool that runs a set of tests ("hunters") for security issues in Kubernetes clusters from either outside ("attacker's view") or inside a cluster.
+
+### Vulnerability Databases / Social Engineering Tools
+
+*   [Open Source Vulnerabilities (OSV)](https://osv.dev/) - Database of vulnerabilities affecting open source software, queryable by project, Git commit, or version.
+
+## [8. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
 ### Sensor Processing / Lidar and Point Cloud Processing
 
 *   [cuda-pcl (⭐316)](https://github.com/NVIDIA-AI-IOT/cuda-pcl) - Accelerating Lidar for Robotics with NVIDIA CUDA-based PCL.
 
-## [8. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [9. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Tools / Misc
 
 *   [Pinecone](https://www.pinecone.io/) - Vector database for applications that require real-time, scalable vector embedding and similarity search.
 
-## [9. Tools](/content/lvwzhen/tools/week/README.md)
+## [10. Tools](/content/lvwzhen/tools/week/README.md)
 
-### CheetSheet
+### CheatSheet
 
 *   [Bootstrap CheatSheet](https://bootstrap-cheatsheet.themeselection.com/)
 
-## [10. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [11. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Tools / XML
 
 *   [decense (⭐6)](https://github.com/vinliao/decense) - Generate a license with one `deno run` command.
 
-## [11. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [12. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Tools & Utilities / Others
 
 *   [BlazorIndexedDbJs (⭐11)](https://github.com/kattunga/BlazorIndexedDbJs) - ![last commit](https://img.shields.io/github/last-commit/kattunga/BlazorIndexedDbJs?style=flat-square\&cacheSeconds=86400) BlazorIndexedDbJs is a wrapper arround IndexedDB DOM API, supports Blazor WASM and Server.
-
-## [12. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
-
-### Table
-
-*   [svelte-simple-datatables (⭐270)](https://github.com/vincjo/svelte-simple-datatables) - A Datatable component for Svelte
 
 ## [13. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
@@ -113,7 +112,7 @@
 
 ### Tools / Collection View Layout
 
-*   [Xcodes.app (⭐6.7k)](https://github.com/RobotsAndPencils/XcodesApp) - The easiest way to install and switch between multiple versions of Xcode.
+*   [Xcodes.app (⭐7.2k)](https://github.com/RobotsAndPencils/XcodesApp) - The easiest way to install and switch between multiple versions of Xcode.
 
 ## [15. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
 
@@ -136,7 +135,7 @@
 
 ### Demos / Syntax highlighting packages
 
-*   [GBVideoPlayer2 (⭐84)](https://github.com/LIJI32/GBVideoPlayer2) - The second iteration of the above demo, which increases the resolution, adds *stereo- PCM audio, and introduces video compression*.
+*   [GBVideoPlayer2 (⭐99)](https://github.com/LIJI32/GBVideoPlayer2) - The second iteration of the above demo, which increases the resolution, adds *stereo- PCM audio, and introduces video compression*.
 
 ## [17. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
@@ -161,18 +160,16 @@
 *   [NetCDF](https://www.unidata.ucar.edu/software/netcdf/) - Software libraries and data formats for array-oriented scientific data.
     (C/C++/Fortran/Java/Python, [custom open-source
     license](https://www.unidata.ucar.edu/software/netcdf/copyright.html),
-    [GitHub (⭐481)](https://github.com/Unidata/netcdf-c/))
-*   [HDF5](https://support.hdfgroup.org/HDF5/) - Data model, library, and file format for storing and managing data.
-    (C/Fortran, BSD, [GitHub (⭐472)](https://github.com/HDFGroup/hdf5))
+    [GitHub (⭐520)](https://github.com/Unidata/netcdf-c/))
 *   [XDMF](https://xdmf.org/index.php/Main_Page) - eXtensible Data Model and Format for data from High Performance Computing codes.
     (C++, [GitLab](https://gitlab.kitware.com/xdmf/xdmf))
 *   [Zarr](https://zarr.readthedocs.io/en/stable/) - Format for the storage of chunked, compressed, N-dimensional arrays.
-    (Python, MIT, [GitHub (⭐1.3k)](https://github.com/zarr-developers/zarr-python))
+    (Python, MIT, [GitHub (⭐1.5k)](https://github.com/zarr-developers/zarr-python))
 
 ### Other libraries and tools / Mesh tools
 
 *   [pyGAM](https://pygam.readthedocs.io/en/latest/) - Generalized Additive Models in Python.
-    (Python, Apache 2.0, [GitHub (⭐830)](https://github.com/dswah/pyGAM))
+    (Python, Apache 2.0, [GitHub (⭐877)](https://github.com/dswah/pyGAM))
 
 ## [20. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
@@ -224,7 +221,7 @@
 
 ### Third-Party Packages / Admin
 
-*   [django-related-admin (⭐69)](https://github.com/PetrDlouhy/django-related-admin) - A helper library that allows you to write list\_displays accross foreign key relationships.
+*   [django-related-admin (⭐70)](https://github.com/PetrDlouhy/django-related-admin) - A helper library that allows you to write list\_displays across foreign key relationships.
 
 ## [25. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
 
@@ -244,7 +241,7 @@
 
 ### Apps
 
-*   [njt.now.sh](https://njt.now.sh) - npm jump to 🐸 (package navigation shortcuts you dreamed about). Partially statically-rendered, partially deployed as lambda. Automatically updated on each commit to the [github repo (⭐311)](https://github.com/kachkaev/njt), thanks to Now integration.
+*   [njt.now.sh](https://njt.now.sh) - npm jump to 🐸 (package navigation shortcuts you dreamed about). Partially statically-rendered, partially deployed as lambda. Automatically updated on each commit to the [github repo (⭐314)](https://github.com/kachkaev/njt), thanks to Now integration.
 
 ## [27. Awesome Gatling](/content/aliesbelik/awesome-gatling/week/README.md)
 
@@ -252,11 +249,11 @@
 
 *   [gatling-bolt (⭐2)](https://github.com/sarmbruster/gatling-bolt) - Support Neo4j Bolt protocol for Gatling.
 *   [gatling-zeromq (⭐5)](https://github.com/softwaremill/gatling-zeromq) - A Gatling stress test plugin for ZeroMQ protocol.
-*   [gatling-dubbo (⭐149)](https://github.com/youzan/gatling-dubbo) - A Gatling plugin for running load tests on Apache Dubbo.
+*   [gatling-dubbo (⭐151)](https://github.com/youzan/gatling-dubbo) - A Gatling plugin for running load tests on Apache Dubbo.
 
 ### Tools / Miscellaneous
 
-*   [dakiya (⭐36)](https://github.com/rupeshmore/dakiya) - Convert Postman collections to Gatling scripts.
+*   [dakiya (⭐37)](https://github.com/rupeshmore/dakiya) - Convert Postman collections to Gatling scripts.
 
 ### CI / Miscellaneous
 
@@ -283,7 +280,7 @@
 
 ## [30. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
-### Datasets / Book Deals (Affiliated) 🛍
+### Datasets / Book Deals (Affiliated)
 
 *   [IBM Asset Dataset](https://developer.ibm.com/exchanges/data/)
 
@@ -304,7 +301,7 @@
 
 ### Configs / Other Prominent Configs (100 stars or so)
 
-*   [Auto (⭐396)](https://github.com/davidjbradshaw/eslint-config-auto) - Automatically configure ESLint based on your project's dependencies.
+*   [Auto (⭐402)](https://github.com/davidjbradshaw/eslint-config-auto) - Automatically configure ESLint based on your project's dependencies.
 
 ### Configs / Other Configs
 
@@ -312,23 +309,20 @@
 
 ### Plugins / Languages and Environments
 
-*   [HTML (⭐147)](https://github.com/yeonjuan/html-eslint) - ESLint plugin for HTML.
-*   [TOML (⭐25)](https://github.com/ota-meshi/eslint-plugin-toml) - ESLint plugin for TOML.
+*   [HTML (⭐157)](https://github.com/yeonjuan/html-eslint) - ESLint plugin for HTML.
+*   [TOML (⭐26)](https://github.com/ota-meshi/eslint-plugin-toml) - ESLint plugin for TOML.
 
 ## [33. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
-### Plugins and scripts / Various Godot versions
+### Plugins and scripts / Godot 3
 
-*   [2D Destructible Objects (⭐391)](https://github.com/hiulit/Godot-3-2D-Destructible-Objects) - A script that takes a sprite, divides it into blocks and makes them explode💥 (Godot 3.x).
-*   [CRT Shader (⭐297)](https://github.com/hiulit/Godot-3-2D-CRT-Shader) - A Godot shader that simulates CRT Displays with many shader parameters (Godot 3.x).
-
-### Plugins and scripts / Godot 3.2+
-
-*   [Kehom's Godot Addon Pack (⭐186)](https://github.com/Kehom/GodotAddonPack) - A collection of addons for debugging, networking, UI, and more.
+*   [2D Destructible Objects (⭐397)](https://github.com/hiulit/Godot-3-2D-Destructible-Objects) - A script that takes a sprite, divides it into blocks and makes them explode💥.
+*   [CRT Shader (⭐305)](https://github.com/hiulit/Godot-3-2D-CRT-Shader) - A Godot shader that simulates CRT Displays with many shader parameters.
+*   [Kehom's Godot Addon Pack (⭐191)](https://github.com/Kehom/GodotAddonPack) - A collection of addons for debugging, networking, UI, and more.
 
 ### Other / Godot version unknown
 
-*   [RetroPie Godot Game Engine "Emulator" (⭐91)](https://github.com/hiulit/RetroPie-Godot-Game-Engine-Emulator) - A scriptmodule to install a Godot "emulator" for RetroPie.
+*   [RetroPie Godot Game Engine "Emulator" (⭐96)](https://github.com/hiulit/RetroPie-Godot-Game-Engine-Emulator) - A scriptmodule to install a Godot "emulator" for RetroPie.
 
 ## [34. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
 
@@ -340,7 +334,7 @@
 
 ### Utilities
 
-*   [Contextual logging (⭐21)](https://github.com/reactiverse/reactiverse-contextual-logging) - Mapped Diagnostic Context (MDC) that works with the Vert.x event-loop model.
+*   [Contextual logging (⭐34)](https://github.com/reactiverse/reactiverse-contextual-logging) - Mapped Diagnostic Context (MDC) that works with the Vert.x event-loop model.
 
 ## [36. Search Engine Optimization](/content/marcobiedermann/search-engine-optimization/week/README.md)
 
@@ -352,11 +346,11 @@
 
 ### Software / File Transfer - Peer-to-peer Filesharing
 
-*   [Send (⭐4.3k)](https://github.com/timvisee/send) - Simple, private, end to end encrypted temporary file sharing, originally built by Mozilla. ([Clients (⭐4.3k)](https://github.com/timvisee/send#clients)) `MPL-2.0` `Nodejs/Docker`
+*   [Send (⭐4.9k)](https://github.com/timvisee/send) - Simple, private, end to end encrypted temporary file sharing, originally built by Mozilla. ([Clients (⭐4.9k)](https://github.com/timvisee/send#clients)) `MPL-2.0` `Nodejs/Docker`
 
-### Software / Photo and Video Galleries
+### Software / Photo Galleries
 
-*   [LibrePhotos (⭐6.8k)](https://github.com/LibrePhotos/librephotos) - Self hosted wannabe Google Photos clone, with a slight focus on cool graphs. ([Clients](https://docs.librephotos.com/docs/user-guide/mobile/)) `MIT` `Python/Docker`
+*   [LibrePhotos (⭐7.1k)](https://github.com/LibrePhotos/librephotos) - Self hosted wannabe Google Photos clone, with a slight focus on cool graphs. ([Clients](https://docs.librephotos.com/docs/user-guide/mobile/)) `MIT` `Python/Docker`
 
 ## [38. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
@@ -940,35 +934,35 @@ Language: English \ <br>
 
 ### Libraries / Task scheduling
 
-*   [delay-timer (⭐303)](https://github.com/BinChengZhao/delay-timer) - Time-manager of delayed tasks. Like crontab, but asynchronous tasks are possible. [![Build](https://github.com/BinChengZhao/delay-timer/actions/workflows/rust.yml/badge.svg)](https://github.com/BinChengZhao/delay-timer/actions)
+*   [delay-timer (⭐321)](https://github.com/BinChengZhao/delay-timer) - Time-manager of delayed tasks. Like crontab, but asynchronous tasks are possible. [![Build](https://github.com/BinChengZhao/delay-timer/actions/workflows/rust.yml/badge.svg)](https://github.com/BinChengZhao/delay-timer/actions)
 
 ## [43. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### (requires Neovim 0.5)
 
-*   [nvim-lua/lsp-status.nvim (⭐621)](https://github.com/nvim-lua/lsp-status.nvim) - This is a plugin/library for generating statusline components from the built-in LSP client.
-*   [RishabhRD/nvim-lsputils (⭐455)](https://github.com/RishabhRD/nvim-lsputils) - Better defaults for nvim-lsp actions.
-*   [kosayoda/nvim-lightbulb (⭐768)](https://github.com/kosayoda/nvim-lightbulb) - The plugin shows a lightbulb in the sign column whenever a `textDocument/codeAction` is available at the current cursor position.
+*   [nvim-lua/lsp-status.nvim (⭐636)](https://github.com/nvim-lua/lsp-status.nvim) - This is a plugin/library for generating statusline components from the built-in LSP client.
+*   [RishabhRD/nvim-lsputils (⭐462)](https://github.com/RishabhRD/nvim-lsputils) - Better defaults for nvim-lsp actions.
+*   [kosayoda/nvim-lightbulb (⭐831)](https://github.com/kosayoda/nvim-lightbulb) - The plugin shows a lightbulb in the sign column whenever a `textDocument/codeAction` is available at the current cursor position.
 
 ### (requires Neovim 0.5) / LSP Installer
 
-*   [anott03/nvim-lspinstall (⭐86)](https://github.com/anott03/nvim-lspinstall) - Easy to install language servers.
-*   [alexaandru/nvim-lspupdate (⭐91)](https://github.com/alexaandru/nvim-lspupdate) - Updates installed (or auto installs if missing) LSP servers.
+*   [anott03/nvim-lspinstall (⭐88)](https://github.com/anott03/nvim-lspinstall) - Easy to install language servers.
+*   [alexaandru/nvim-lspupdate (⭐92)](https://github.com/alexaandru/nvim-lspupdate) - Updates installed (or auto installs if missing) LSP servers.
 
 ### Fuzzy Finder / Diagnostics
 
-*   [vijaymarupudi/nvim-fzf (⭐331)](https://github.com/vijaymarupudi/nvim-fzf) - A Lua API for using FZF (Neovim >= 0.5). Allows for full asynchronicity for UI speed and usability.
+*   [vijaymarupudi/nvim-fzf (⭐345)](https://github.com/vijaymarupudi/nvim-fzf) - A Lua API for using FZF (Neovim >= 0.5). Allows for full asynchronicity for UI speed and usability.
 
 ### Editing Support / Diagnostics
 
-*   [windwp/nvim-autopairs (⭐3.1k)](https://github.com/windwp/nvim-autopairs) - A minimalist autopairs written by Lua.
-*   [monaqa/dial.nvim (⭐780)](https://github.com/monaqa/dial.nvim) - Extended increment/decrement.
+*   [windwp/nvim-autopairs (⭐3.4k)](https://github.com/windwp/nvim-autopairs) - A minimalist autopairs written by Lua.
+*   [monaqa/dial.nvim (⭐851)](https://github.com/monaqa/dial.nvim) - Extended increment/decrement.
 
 ## [44. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 
 ### Contents / Shopping
 
-*   [Yumniastic Food Shop App (⭐32)](https://github.com/1hanzla100/flutter-yumniastic) - Online food delivery service app and Django API by [1hanzla100](https://github.com/1hanzla100/).
+*   [Yumniastic Food Shop App (⭐34)](https://github.com/1hanzla100/flutter-yumniastic) - Online food delivery service app and Django API by [1hanzla100](https://github.com/1hanzla100/).
 
 ## [45. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
@@ -983,7 +977,7 @@ Language: English \ <br>
 
 ### Configuration & Discovery / Scala
 
-*   [Nacos (⭐30k)](https://github.com/alibaba/nacos) - Easy-to-use dynamic service discovery, configuration and service management platform.
+*   [Nacos (⭐31k)](https://github.com/alibaba/nacos) - Easy-to-use dynamic service discovery, configuration and service management platform.
 
 ### Serialization / Scala
 
@@ -993,7 +987,7 @@ Language: English \ <br>
 
 ### Documentation / Symfony2
 
-*   [Optic (⭐1.3k)](https://github.com/opticdev/optic) - Maintain an accurate API specification without writing OpenAPI/Swagger. Works with any Stack
+*   [Optic (⭐1.4k)](https://github.com/opticdev/optic) - Maintain an accurate API specification without writing OpenAPI/Swagger. Works with any Stack
 
 ## [47. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
@@ -1015,11 +1009,11 @@ Language: English \ <br>
 
 ### 3D
 
-*   [g3d (⭐539)](https://github.com/groverburger/g3d) - Simple and easy 3D engine for LÖVE.
+*   [g3d (⭐590)](https://github.com/groverburger/g3d) - Simple and easy 3D engine for LÖVE.
 
 ### Input
 
-*   [input (⭐3)](https://github.com/xiejiangzhi/input) -  Simple and powerful input library. support check operation time, sequence.
+*   [input (⭐4)](https://github.com/xiejiangzhi/input) -  Simple and powerful input library. support check operation time, sequence.
 
 ## [50. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
@@ -1049,7 +1043,7 @@ Language: English \ <br>
 
 ### CI / Tools & Plugins
 
-*   [JMeter Gradle Plugin (⭐54)](https://github.com/jmeter-gradle-plugin/jmeter-gradle-plugin) - Gradle plugin to execute JMeter tests.
+*   [JMeter Gradle Plugin (⭐52)](https://github.com/jmeter-gradle-plugin/jmeter-gradle-plugin) - Gradle plugin to execute JMeter tests.
 
 ## [53. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
@@ -1071,7 +1065,7 @@ Language: English \ <br>
 
 ### Plugins
 
-*   💼 [Scrollbar Hide (⭐224)](https://github.com/reslear/tailwind-scrollbar-hide) - Adds `scrollbar-hide` class for visual hide scrollbar.
+*   💼 [Scrollbar Hide (⭐256)](https://github.com/reslear/tailwind-scrollbar-hide) - Adds `scrollbar-hide` class for visual hide scrollbar.
 
 ### UI Libraries, Components & Templates
 
@@ -1120,7 +1114,7 @@ Language: English \ <br>
 
 ### Examples / Hardware Offload
 
-*   [ebpf-kill-example (⭐21)](https://github.com/niclashedam/ebpf-kill-example) - A fully documented and tested example of an eBPF probe that logs all force-kills and prints them out in user-space.
+*   [ebpf-kill-example (⭐22)](https://github.com/niclashedam/ebpf-kill-example) - A fully documented and tested example of an eBPF probe that logs all force-kills and prints them out in user-space.
 
 ## [60. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/week/README.md)
 
@@ -1160,11 +1154,11 @@ Language: English \ <br>
 
 ### Projects Using Vue.js / A11y
 
-*   [eslint-plugin-vuejs-accessibility (⭐251)](https://github.com/vue-a11y/eslint-plugin-vuejs-accessibility) - Vue.js accessibility eslint-plugin managed by @vue-a11y .
+*   [eslint-plugin-vuejs-accessibility (⭐258)](https://github.com/vue-a11y/eslint-plugin-vuejs-accessibility) - Vue.js accessibility eslint-plugin managed by @vue-a11y .
 
 ### Components & Libraries / Utilities
 
-*   [vite-svg-loader (⭐571)](https://github.com/jpkleemans/vite-svg-loader) - Vite plugin to load SVG files as Vue components
+*   [vite-svg-loader (⭐613)](https://github.com/jpkleemans/vite-svg-loader) - Vite plugin to load SVG files as Vue components
 
 ## [64. Awesome Dash](/content/ucg8j/awesome-dash/week/README.md)
 
@@ -1177,12 +1171,6 @@ Language: English \ <br>
 ### Build Tools to set up performance budget
 
 *   [Lighthouse](https://web.dev/use-lighthouse-for-performance-budgets/) - How to set up a performance budget using [lighthouse](https://developers.google.com/web/tools/lighthouse) and automate using [Lighthouse bot](https://web.dev/using-lighthouse-bot-to-set-a-performance-budget/).
-
-## [66. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
-
-### Job boards aggregators
-
-*   [Career Vault](https://www.careervault.io) - Hundreds of remote jobs added each day from thousands of company career pages. Free and no signup required.
 
 ---
 

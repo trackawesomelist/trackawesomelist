@@ -1,25 +1,19 @@
 # Awesome List Updates on Aug 06, 2018
 
-8 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / UI Utilities
-
-*   [v-scroll-lock (⭐186)](https://github.com/phegman/v-scroll-lock) - A Vue.js directive for body scroll locking without breaking scrolling of a target element
-
-## [2. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
+## [1. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
 
 ### Applications
 
 *   [Handshake](https://handshake.org): Decentralized, permissionless naming protocol compatible with DNS where every peer is validating and in charge of managing the root zone with the goal of creating an alternative to existing Certificate Authorities.
 *   [Orion (⭐124)](https://github.com/Siderus/Orion): Easy to Use, Inter Planetary File System (IPFS) desktop client.
 
-## [3. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
+## [2. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
 ### Host-based tools / Tarpits
 
@@ -62,33 +56,33 @@
 *   [Sticky Keys Slayer (⭐324)](https://github.com/linuz/Sticky-Keys-Slayer) - Establishes a Windows RDP session from a list of hostnames and scans for accessibility tools backdoors, alerting if one is discovered.
 *   [Windows Secure Host Baseline (⭐1.5k)](https://github.com/nsacyber/Windows-Secure-Host-Baseline) - Group Policy objects, compliance checks, and configuration tools that provide an automated and flexible approach for securely deploying and maintaining the latest releases of Windows 10.
 
-## [4. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [3. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Authentication
 
 *   [passwordless\_auth (⭐49)](https://github.com/madebymany/passwordless_auth) - Simple passwordless login or 2-factor / multi-factor authentication for Elixir.
 
-## [5. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
+## [4. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
 
-### Learning
+### Learning / Commerical Tools
 
 *   [Professional and In-Depth Machine Learning Video Courses](https://freecoursesite.com/?s=Machine+Learning+Data+Science) - A collection of free professional and in-depth Machine Learning and Data Science video tutorials and courses
 *   [Professional and In-Depth Artificial Intelligence Video Courses](https://freecoursesite.com/?s=Artificial+Intelligence) - A collection of free professional and in-depth Artificial Intelligence video tutorials and courses
 *   [Professional and In-Depth Deep Learning Video Courses](https://freecoursesite.com/?s=Deep+Learning) - A collection of free professional and in-depth Deep Learning video tutorials and courses
 
-## [6. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
+## [5. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
 
 ### Networking
 
 *   [LibreMesh](https://libremesh.org/) includes the development of several tools used for deploying libre/free mesh networks. The firmware (the main piece) allows simple deployment of auto-configurable, yet versatile, multi-radio mesh networks.
 
-## [7. Awesome D3](/content/wbkd/awesome-d3/README.md)
+## [6. Awesome D3](/content/wbkd/awesome-d3/README.md)
 
 ### Utils / Third Party
 
 *   [d3-hsluv (⭐7)](https://github.com/petulla/d3-hsluv) - Human-friendly HSL (Hue, Saturation, Lightness) color space.
 
-## [8. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [7. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Application Templates
 

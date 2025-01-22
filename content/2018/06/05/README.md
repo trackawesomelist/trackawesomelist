@@ -104,7 +104,7 @@
 
 ### Media
 
-*   [LibVLCSharp (⭐1.4k)](https://github.com/videolan/libvlcsharp) - Xamarin bindings for libvlc, the multimedia framework powering the VLC applications made by VideoLAN.
+*   [LibVLCSharp (⭐1.6k)](https://github.com/videolan/libvlcsharp) - Xamarin bindings for libvlc, the multimedia framework powering the VLC applications made by VideoLAN.
 
 ### Source Generator
 

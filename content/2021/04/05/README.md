@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 05, 2021
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -17,10 +17,6 @@
 ### Management System
 
 *   [Miradore](https://miradore.com) — Device Management service. Stay up-to-date with your device fleet and secure unlimited devices for free. The free plan offers basic features.
-
-### Analytics, Events and Statistics
-
-*   [Branch](https://branch.io) — Mobile Analytics Platform. Free Tier offers up to 10K Mobile App Users with deep-linking & other services.
 
 ## [3. Amas](/content/sindresorhus/amas/README.md)
 
@@ -49,7 +45,7 @@
 
 ### Python / Data Sources
 
-*   [yfinance (⭐13k)](https://github.com/ranaroussi/yfinance) - Yahoo! Finance market data downloader (+faster Pandas Datareader)
+*   [yfinance (⭐15k)](https://github.com/ranaroussi/yfinance) - Yahoo! Finance market data downloader (+faster Pandas Datareader)
 
 ## [7. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
@@ -57,13 +53,7 @@
 
 *   [SpaceEye (⭐327)](https://github.com/KYDronePilot/SpaceEye) - Live satellite imagery for your desktop background.
 
-## [8. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
-
-### UI Libraries
-
-*   [svelte-chota (⭐289)](https://github.com/AlexxNB/svelte-chota) - Component library built with Chota, a super light-weight CSS framework
-
-## [9. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [8. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Utilities / To-Do Lists
 

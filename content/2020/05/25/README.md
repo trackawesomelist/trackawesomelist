@@ -60,13 +60,13 @@
 
 ### Games
 
-*   [DiabloBlazor (⭐94)](https://github.com/n-stefan/diabloblazor) - ![stars](https://img.shields.io/github/stars/n-stefan/diabloblazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/n-stefan/diabloblazor?style=flat-square\&cacheSeconds=86400) Blazor port of DiabloWeb, making it a double WebAssembly app: a WebAssembly (C#) PWA hosting a WebAssembly (C++) game. [Demo](https://n-stefan.github.io/diabloblazor).
+*   [DiabloBlazor (⭐98)](https://github.com/n-stefan/diabloblazor) - ![stars](https://img.shields.io/github/stars/n-stefan/diabloblazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/n-stefan/diabloblazor?style=flat-square\&cacheSeconds=86400) Blazor port of DiabloWeb, making it a double WebAssembly app: a WebAssembly (C#) PWA hosting a WebAssembly (C++) game. [Demo](https://n-stefan.github.io/diabloblazor).
 
 ## [9. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Web Frameworks
 
-*   [runcobo (⭐49)](https://github.com/runcobo/runcobo) - An api framework with simple, intuitive and consistent DSL, using jbuilder to render json
+*   [runcobo (⭐50)](https://github.com/runcobo/runcobo) - An api framework with simple, intuitive and consistent DSL, using jbuilder to render json
 
 ## [10. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
 
@@ -96,14 +96,7 @@
 *   [custom-element-boilerplate (⭐157)](https://github.com/github/custom-element-boilerplate) - Boilerplate for creating a custom element.
 *   [hello-web-components (⭐25)](https://github.com/fernandopasik/hello-web-components) - Simple starter hello world web component written in TypeScript.
 
-## [12. Awesome Deno](/content/denolib/awesome-deno/README.md)
-
-### Modules / Utils
-
-*   [deno\_cron (⭐100)](https://github.com/rbrahul/deno_cron) - A cron Job scheduler that allows you to write human readable cron syntax with tons of flexibility
-*   [rubico (⭐271)](https://github.com/richytong/rubico) - 🏞 \[a]synchronous function composition; it just works.
-
-## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Blog Posts
 
@@ -112,11 +105,13 @@
 ### Projects Using Vue.js / Apps/Websites
 
 *   [Portfolio Site](https://olaolu.dev/) - Olaolu Olawuyi, A Frontend developer and UX Engineer's portfolio site.
-*   [Portfolio Site](https://david-aji.com/) - David Aji aka Ajiva is a Front End Developer with experience using frameworks like Vue and React to build "class" web apps.
 
-### Components & Libraries / Utilities
+## [13. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
-*   [vue-condition-watcher (⭐50)](https://github.com/runkids/vue-condition-watcher) - 🕶 Vue Composition API for automatic fetch data when condition has been changed.
+### Modules / Utils
+
+*   [deno\_cron (⭐100)](https://github.com/rbrahul/deno_cron) - A cron Job scheduler that allows you to write human readable cron syntax with tons of flexibility
+*   [rubico (⭐274)](https://github.com/richytong/rubico) - 🏞 \[a]synchronous function composition; it just works.
 
 ---
 

@@ -10,7 +10,7 @@
 
 ### Implementations/Compilers
 
-*   [mint-lang (⭐4k)](https://github.com/mint-lang/mint) - A refreshing programming language for the front-end web
+*   [mint-lang (⭐4.1k)](https://github.com/mint-lang/mint) - A refreshing programming language for the front-end web
 *   [runic-lang](https://github.com/runic-lang) - In-design toy language
 
 ## [2. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)

@@ -24,15 +24,15 @@
 
 ### Third Party APIs
 
-*   [mandrill (⭐51)](https://github.com/slogsdon/mandrill-elixir) - A Mandrill wrapper for Elixir.
+*   [mandrill (⭐50)](https://github.com/slogsdon/mandrill-elixir) - A Mandrill wrapper for Elixir.
 
 ## [3. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
 
-### Philosophy
+### Philosophy / Commerical Tools
 
 *   [How to Create a Mind: The Secret of Human Thought Revealed](http://www.audible.com/pd/Science-Technology/How-to-Create-a-Mind-Audiobook/B009S7OKJS/ref=a_search_c4_1_1_srTtl?qid=1422483493\&sr=1-1) - Ray Kurzweil, director of engineering at Google, explored the process of reverse-engineering the brain to understand precisely how it works, then applies that knowledge to create vastly intelligent machines.
 
-### Free Content
+### Free Content / Commerical Tools
 
 *   [Ethical Artificial Intelligence](http://arxiv.org/abs/1411.1373) - a book by Bill Hibbard that combines several peer-reviewed papers and new material to analyze the issues of ethical artificial intelligence.
 

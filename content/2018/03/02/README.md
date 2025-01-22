@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 02, 2018
 
-10 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -59,7 +59,7 @@
 
 ### Events
 
-*   [Tempura (⭐715)](https://github.com/BendingSpoons/tempura-swift) - A holistic approach to iOS development, inspired by Redux and MVVM.
+*   [Tempura (⭐719)](https://github.com/BendingSpoons/tempura-swift) - A holistic approach to iOS development, inspired by Redux and MVVM.
 
 ## [5. Awesome Framer](/content/podo/awesome-framer/README.md)
 
@@ -97,18 +97,6 @@
 ### Reconnaissance / OSINT - Open-Source Intelligence
 
 *   [peoplefindThor](https://peoplefindthor.dk/) - the easy way to find people on Facebook by \[postkassen]\(mailto:[postkassen@oejvind.dk](https://github.com/qazbnm456/awesome-web-security/blob/master/README.md/mailto:postkassen@oejvind.dk)?subject=peoplefindthor.dk comments).
-
-## [9. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
-
-### Tools / Project Management
-
-*   [Taskade](https://taskade.com/) - Real-time collaborative notes, checklists and outlines for teams.
-
-## [10. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
-
-### CMS and applications built on CakePHP
-
-*   [Croogo](https://croogo.org) - CMS software (see 5.0 branch).
 
 ---
 

@@ -19,7 +19,7 @@
 
 ### Packages / Network
 
-*   [DHCP (⭐296)](https://github.com/infusion/node-dhcp) - DHCP client and server.
+*   [DHCP (⭐302)](https://github.com/infusion/node-dhcp) - DHCP client and server.
 
 ## [3. Awesome Tap](/content/sindresorhus/awesome-tap/week/README.md)
 
@@ -104,8 +104,8 @@
 
 ### Containers / Docker
 
-*   [Ggr (⭐302)](https://github.com/aerokube/ggr) - A lightweight load balancer used to create big Selenium clusters.
-*   [Selenoid (⭐2.4k)](https://github.com/aerokube/selenoid) - A lightweight Selenium hub implementation launching browsers in Docker containers.
+*   [Ggr (⭐314)](https://github.com/aerokube/ggr) - A lightweight load balancer used to create big Selenium clusters.
+*   [Selenoid (⭐2.6k)](https://github.com/aerokube/selenoid) - A lightweight Selenium hub implementation launching browsers in Docker containers.
 
 ## [10. BEM Resources](/content/sturobson/BEM-resources/week/README.md)
 
@@ -139,7 +139,7 @@
 *   [Kafka (⭐63)](https://github.com/didier-wenzek/ocaml-kafka) – OCaml bindings for Apache Kafka.
 *   [AMQP (⭐62)](https://github.com/andersfugmann/amqp-client) – AMQP client library for Async and Lwt.
 *   [MPI (⭐24)](https://github.com/xavierleroy/ocamlmpi) – Message Passing Interface bindings for OCaml.
-*   [MQTT (⭐20)](https://github.com/j0sh/ocaml-mqtt) – OCaml implementation of the MQTT pubsub protocol.
+*   [MQTT (⭐19)](https://github.com/j0sh/ocaml-mqtt) – OCaml implementation of the MQTT pubsub protocol.
 
 ## [15. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
@@ -151,11 +151,11 @@
 
 ### Machine Learning and Data Science
 
-*   [Spreads (⭐424)](https://github.com/Spreads/Spreads/) - Series and Panels for Real-time and Exploratory Analysis of Data Streams. Spreads library is optimized for performance and memory usage. It is several times faster than other open source projects.
+*   [Spreads (⭐432)](https://github.com/Spreads/Spreads/) - Series and Panels for Real-time and Exploratory Analysis of Data Streams. Spreads library is optimized for performance and memory usage. It is several times faster than other open source projects.
 
 ### Queue
 
-*   [CAP (⭐6.6k)](https://github.com/dotnetcore/CAP) - An EventBus with local persistent message functionality for RabbitMQ or Kafka.
+*   [CAP (⭐6.8k)](https://github.com/dotnetcore/CAP) - An EventBus with local persistent message functionality for RabbitMQ or Kafka.
 
 ## [17. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
 
@@ -214,7 +214,7 @@
 ### Applications / Episodes
 
 *   [Mazda AIO Tweaks](https://mazdatweaks.com/) - All-in-one installer/uninstaller for many available Mazda MZD Infotainment System tweaks.
-*   [mazda\_getInfo (⭐153)](https://github.com/shipcod3/mazda_getInfo) - A PoC that the USB port is an attack surface for a Mazda car's infotainment system and how Mazda hacks are made (known bug in the CMU).
+*   [mazda\_getInfo (⭐157)](https://github.com/shipcod3/mazda_getInfo) - A PoC that the USB port is an attack surface for a Mazda car's infotainment system and how Mazda hacks are made (known bug in the CMU).
 
 ## [23. Awesome Sass](/content/Famolus/awesome-sass/week/README.md)
 
@@ -253,7 +253,14 @@
 
 *   [phstc/shoryuken :fire::fire::fire::fire: (⭐2k)](https://github.com/phstc/shoryuken) - A super efficient SQS thread based message processor for Ruby.
 
-## [27. Awesome Theravada](/content/johnjago/awesome-theravada/week/README.md)
+## [27. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+
+### Resources / Tutorials
+
+*   [Intro to Vue, repo for Frontend Masters Course (⭐2.8k)](https://github.com/sdras/intro-to-vue)
+*   [Vue Guide on CSS-Tricks](https://css-tricks.com/guides/vue/)
+
+## [28. Awesome Theravada](/content/johnjago/awesome-theravada/week/README.md)
 
 ### Forums / Audio
 
@@ -267,13 +274,13 @@
 *   [Nidhi Kanda: The Reserve Fund](http://www.accesstoinsight.org/tipitaka/kn/khp/khp.1-9.than.html#khp-8) - Reminder that a fund of virtue and restraint will always be safe, while a material fund can be lost.
 *   [Tuvataka Sutta: Quickly](http://www.accesstoinsight.org/tipitaka/kn/snp/snp.4.14.than.html) - How a monastic should act, with parts that are applicable to laypeople as well.
 
-## [28. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [29. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### Sample Projects / JVM languages
 
 *   [Event Sourcing and CQRS Sample (⭐463)](https://github.com/pilloPl/event-source-cqrs-sample) - Sample event sourced application with Command Query Responsibility Segregation
 
-## [29. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
+## [30. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
 
 ### Label / Form
 
@@ -319,7 +326,7 @@
 
 
 
-## [30. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [31. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Environment Management
 
@@ -368,20 +375,20 @@
 
 *   [django-wordpress (⭐351)](https://github.com/istrategylabs/django-wordpress) - WordPress models and views for Django.
 
-## [31. Awesome Computer History](/content/watson/awesome-computer-history/week/README.md)
+## [32. Awesome Computer History](/content/watson/awesome-computer-history/week/README.md)
 
 ### Websites / Announcements and Memos
 
 *   [First website ever made](http://info.cern.ch/) (1990) - CERN (European Organization for Nuclear Research Organisation) website
 *   [The Amazing FishCam](http://fishcam.com/) (1994) - The Fishcam was the second live camera on the web and is the oldest camera site still in existence
 
-## [32. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/week/README.md)
+## [33. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/week/README.md)
 
 ### Supplement: Learning Pandas well / Some communities to know about!
 
 *   Another helpful tutorial: [Real World Data Cleanup with Python and Pandas](https://trendct.org/2016/08/05/real-world-data-cleanup-with-python-and-pandas/)
 
-## [33. Awesome Design](/content/gztchan/awesome-design/week/README.md)
+## [34. Awesome Design](/content/gztchan/awesome-design/week/README.md)
 
 ### Stock
 
@@ -413,11 +420,11 @@
 
 *   [SemiPermanent](https://www.semipermanent.com)
 
-## [34. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [35. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Authentication
 
-*   [LoginKit (⭐665)](https://github.com/IcaliaLabs/LoginKit) - LoginKit is a quick and easy way to add a Login/Signup UX to your iOS app.
+*   [LoginKit (⭐663)](https://github.com/IcaliaLabs/LoginKit) - LoginKit is a quick and easy way to add a Login/Signup UX to your iOS app.
 
 ### Chat
 
@@ -429,18 +436,18 @@
 
 ### Images / Barcode
 
-*   [gifu (⭐3k)](https://github.com/kaishin/gifu) - Highly performant animated GIF support for iOS.
+*   [gifu (⭐3.1k)](https://github.com/kaishin/gifu) - Highly performant animated GIF support for iOS.
 
 ### UI / Barcode
 
 *   [DeckTransition (⭐2.2k)](https://github.com/HarshilShah/DeckTransition) - A library to recreate the iOS 10 Apple Music now playing transition.
-*   [InstantSearch iOS (⭐591)](https://github.com/algolia/instantsearch-ios) - A library of widgets and helpers to build instant-search features on iOS.
+*   [InstantSearch iOS (⭐596)](https://github.com/algolia/instantsearch-ios) - A library of widgets and helpers to build instant-search features on iOS.
 
 ### UITableView / Barcode
 
 *   [SwipeCellKit (⭐6.2k)](https://github.com/SwipeCellKit/SwipeCellKit) - Swipeable UITableViewCell based on the stock Mail.app.
 
-## [35. Awesome Json](/content/burningtree/awesome-json/week/README.md)
+## [36. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
 ### Databases
 
@@ -470,7 +477,7 @@
 *   [JSON-populate (⭐153)](https://github.com/eiriklv/json-populate) - Tool for populating JSON data with infinitely recursive circular references. Sort of like Falcor, but for plain JSON.
 *   [CircularJSON (⭐602)](https://github.com/WebReflection/circular-json) - JSON does not handle circular references. Now it does.
 
-## [36. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [37. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Books
 
@@ -481,19 +488,19 @@
 
 *   [Operability in Go](https://speakerdeck.com/ianschenck/operability-in-go)
 
-## [37. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [38. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Codebases for Reference / Videos
 
 *   [Antvel (⭐645)](https://github.com/ant-vel/App) - Ecommerce platform
 
-## [38. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
+## [39. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
 
 ### Competitions
 
 *   [VEX Robotics Competition](https://www.vexrobotics.com/)
 
-## [39. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [40. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Documentation
 
@@ -520,7 +527,7 @@
 
 *   [Find sites using Keycloak with google](https://www.google.de/search?q=inurl%3Aauth+inurl%3Arealms+inurl%3Aprotocol\&oq=inurl%3A\&client=ubuntu\&sourceid=chrome\&ie=UTF-8)
 
-## [40. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+## [41. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
 ### Network Tools / Intentionally Vulnerable Systems as Docker Containers
 
@@ -528,9 +535,9 @@
 
 ### Reverse Engineering / Reverse Engineering Tools
 
-*   [PyREBox (⭐1.6k)](https://github.com/Cisco-Talos/pyrebox) - Python scriptable Reverse Engineering sandbox by Cisco-Talos.
+*   [PyREBox (⭐1.7k)](https://github.com/Cisco-Talos/pyrebox) - Python scriptable Reverse Engineering sandbox by Cisco-Talos.
 
-## [41. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [42. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Articles
 
@@ -538,50 +545,33 @@
 
 ### Boilerplates
 
-*   [Next Simple Starter (⭐927)](https://github.com/ooade/NextSimpleStarter) - Simple PWA boilerplate with Next.js and Redux.
+*   [Next Simple Starter (⭐946)](https://github.com/ooade/NextSimpleStarter) - Simple PWA boilerplate with Next.js and Redux.
 *   [NextJS Starter (⭐1.4k)](https://github.com/iaincollins/nextjs-starter) - Starter project for Next.js with and email and oAuth authentication.
 *   [RAN! (⭐2.2k)](https://github.com/sly777/ran) - Production-ready boilerplate with support for GraphQL, SSR, Hot-reload, CSS-in-JS, caching, and more.
 *   [Next Simple Blog (⭐557)](https://github.com/tscanlin/next-blog) - Simple Markdown based blog built with Next.js with static exports.
 
 ### Apps
 
-*   [NextJS GOT (⭐32)](https://github.com/auth0-blog/nextjs-got) - Simple Next.js application that showcases Game of Thrones Characters.
-*   [Relate (⭐332)](https://github.com/RelateNow/relate) - Mindfulness community - React, GraphQL, Next.js.
-*   [Password (⭐114)](https://github.com/dotcypress/password) - One password, right way.
-*   [Next Todos (⭐124)](https://github.com/lipp/next-todos) - Todo list written in Next.js.
-*   [Hacker News (⭐45)](https://github.com/lipp/hackernews) - Another Hacker News written in Next.js.
-*   [Jet Chat (⭐9)](https://github.com/lipp/jet-chat) - Jet and Next.js powered Chat demo.
+*   [NextJS GOT (⭐33)](https://github.com/auth0-blog/nextjs-got) - Simple Next.js application that showcases Game of Thrones Characters.
+*   [Relate (⭐333)](https://github.com/RelateNow/relate) - Mindfulness community - React, GraphQL, Next.js.
+*   [Password (⭐119)](https://github.com/dotcypress/password) - One password, right way.
+*   [Next Todos (⭐129)](https://github.com/lipp/next-todos) - Todo list written in Next.js.
+*   [Hacker News (⭐47)](https://github.com/lipp/hackernews) - Another Hacker News written in Next.js.
+*   [Jet Chat (⭐10)](https://github.com/lipp/jet-chat) - Jet and Next.js powered Chat demo.
 *   [Nextgram (⭐50)](https://github.com/arunoda/nextgram) - Sample Next.js v2 app for showing off its capabilities.
-*   [Rauchg Blog (⭐1.1k)](https://github.com/rauchg/blog) - Blog built by a Next.js core maintainer.
-*   [Next JPH (⭐34)](https://github.com/renatorib/next-jph) - JsonPlaceholder sample app made with Next.js.
-*   [Mailto (⭐186)](https://github.com/dawsbot/mailto) - HTML mailto's made easy.
+*   [Rauchg Blog (⭐1.3k)](https://github.com/rauchg/blog) - Blog built by a Next.js core maintainer.
+*   [Next JPH (⭐35)](https://github.com/renatorib/next-jph) - JsonPlaceholder sample app made with Next.js.
+*   [Mailto (⭐206)](https://github.com/dawsbot/mailto) - HTML mailto's made easy.
 *   [Plate (⭐49)](https://github.com/knipferrc/plate) - The task management app to rule them all.
 *   [Dashboard (⭐1.3k)](https://github.com/danielbayerlein/dashboard) - Create your own team dashboard with custom widgets.
 *   [Trello Resume (⭐16)](https://github.com/juliandavidmr/TrelloResume) - Converts trello data into fast read information.
 
-## [42. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [43. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Concurrency
 
-*   [libdill (⭐1.7k)](https://github.com/sustrik/libdill/) - Introduces structured concurrency in C. \[MIT]
-*   [libmill (⭐2.7k)](https://github.com/sustrik/libmill/) - Introduces Go-style concurrency in C. \[MIT]
-
-## [43. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
-
-### Resources / Tutorials
-
-*   [Intro to Vue, repo for Frontend Masters Course (⭐2.8k)](https://github.com/sdras/intro-to-vue)
-*   [Vue Guide on CSS-Tricks](https://css-tricks.com/guides/vue/)
-
-### Components & Libraries / UI Components
-
-*   [vue-dialog-drag (⭐173)](https://github.com/emiliorizzo/vue-dialog-drag) - Draggable dialog
-*   [vue-ya-semantic-modal (⭐19)](https://github.com/qgp9/vue-ya-semantic-modal) - Yet another semantic-ui modal component for Vue2 without Jquery but with Vue transition
-
-### Components & Libraries / Utilities
-
-*   [vue-deepset (⭐92)](https://github.com/bhoriuchi/vue-deepset) - Interact with deeply nested fields in Vue/Vuex objects/state with v-model in Vue 1.x and 2.x
-*   [jsx-v-model (⭐155)](https://github.com/nickmessing/babel-plugin-jsx-v-model) - A Babel plugin that brings `v-model` to JSX.
+*   [libdill (⭐1.8k)](https://github.com/sustrik/libdill/) - Introduces structured concurrency in C. \[MIT]
+*   [libmill (⭐3k)](https://github.com/sustrik/libmill/) - Introduces Go-style concurrency in C. \[MIT]
 
 ## [44. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
@@ -591,11 +581,11 @@
 
 ### Configuration
 
-*   [Chamber (⭐201)](https://github.com/thekompanee/chamber) - Surprisingly customizable convention-based approach to managing your app's configuration.
+*   [Chamber (⭐200)](https://github.com/thekompanee/chamber) - Surprisingly customizable convention-based approach to managing your app's configuration.
 
 ### Third-party APIs
 
-*   [Restforce (⭐802)](https://github.com/ejholmes/restforce) - A Ruby client for the Salesforce REST api.
+*   [Restforce (⭐816)](https://github.com/ejholmes/restforce) - A Ruby client for the Salesforce REST api.
 
 ## [45. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 

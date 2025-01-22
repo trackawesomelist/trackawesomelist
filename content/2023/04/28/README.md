@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 28, 2023
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -24,11 +24,11 @@
 
 ### AUR Helpers / Pacman wrappers
 
-*   [amethyst (⭐90)](https://github.com/crystal-linux/amethyst) (Rust) - A fast, efficient and lightweight AUR helper and Pacman wrapper made for Crystal, compatible with any Arch-based Linux distribution.
+*   [amethyst (⭐102)](https://github.com/crystal-linux/amethyst) (Rust) - A fast, efficient and lightweight AUR helper and Pacman wrapper made for Crystal, compatible with any Arch-based Linux distribution.
 
 ### Other projects / Other
 
-*   [makepkg-optimize (⭐12)](https://github.com/ptr1337/makepkg-optimize) - A collection of supplemental tidy, buildenv, and executable scripts for pacman which provide macros for several kinds of optimization in the build() and package() stages.
+*   [makepkg-optimize (⭐17)](https://github.com/ptr1337/makepkg-optimize) - A collection of supplemental tidy, buildenv, and executable scripts for pacman which provide macros for several kinds of optimization in the build() and package() stages.
 
 ## [2. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
@@ -40,7 +40,7 @@
 
 ### (requires Neovim 0.5)
 
-*   [VidocqH/lsp-lens.nvim (⭐267)](https://github.com/VidocqH/lsp-lens.nvim) - Display function references above function definition like IDEA codelens.
+*   [VidocqH/lsp-lens.nvim (⭐286)](https://github.com/VidocqH/lsp-lens.nvim) - Display function references above function definition like IDEA codelens.
 
 ## [4. Awesome Plone](/content/collective/awesome-plone/README.md)
 
@@ -62,8 +62,8 @@
 
 ### Utilities / Menu Bar Tools
 
-*   [MonitorControl (⭐27k)](https://github.com/MonitorControl/MonitorControl/) - Control your display's brightness & volume on your Mac as if it was a native Apple Display. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/MonitorControl/MonitorControl/)
-*   [TomatoBar (⭐2.2k)](https://github.com/ivoronin/TomatoBar) - World's neatest Pomodoro timer for macOS menu bar. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ivoronin/TomatoBar) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [MonitorControl (⭐29k)](https://github.com/MonitorControl/MonitorControl/) - Control your display's brightness & volume on your Mac as if it was a native Apple Display. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/MonitorControl/MonitorControl/)
+*   [TomatoBar (⭐2.4k)](https://github.com/ivoronin/TomatoBar) - World's neatest Pomodoro timer for macOS menu bar. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ivoronin/TomatoBar) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [7. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -73,25 +73,19 @@
 
 ### Large Language Models (LLMs)
 
-*   \[🔥🔥🔥] [Mooler0410/LLMsPracticalGuide (⭐9.1k)](https://github.com/Mooler0410/LLMsPracticalGuide): list of practical guide resources of LLMs based on the paper [Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond](https://arxiv.org/abs/2304.13712)
+*   \[🔥🔥🔥] [Mooler0410/LLMsPracticalGuide (⭐9.7k)](https://github.com/Mooler0410/LLMsPracticalGuide): list of practical guide resources of LLMs based on the paper [Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond](https://arxiv.org/abs/2304.13712)
 *   [hpcaitech/ColossalAI (⭐39k)](https://github.com/hpcaitech/ColossalAI): Making large AI models cheaper, faster and more accessible
-*   [microsoft/LoRA (⭐10k)](https://github.com/microsoft/LoRA): Code for loralib, an implementation of "LoRA: Low-Rank Adaptation of Large Language Models"s
+*   [microsoft/LoRA (⭐11k)](https://github.com/microsoft/LoRA): Code for loralib, an implementation of "LoRA: Low-Rank Adaptation of Large Language Models"s
 
-### Inbox: Speech-to-text (STT) and spoken content analysis / Deforum
+### Speech-to-text (STT) and spoken content analysis / Deforum
 
 *   [A Systematic Evaluation of Large Language Models of Code](https://arxiv.org/abs/2202.13169): arxiv paper
 
-## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / UI Components
-
-*   [el-col-group (⭐3)](https://github.com/jiangfei5945/el-col-group) - Powerful and Flexable column for Element table.
-
-## [9. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [8. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [zhiyin (⭐67)](https://github.com/AmyangXYZ/zhiyin-zsh-theme) - Includes decorators for user @ host, current working directory and `git` status information.
+*   [zhiyin (⭐68)](https://github.com/AmyangXYZ/zhiyin-zsh-theme) - Includes decorators for user @ host, current working directory and `git` status information.
 
 ---
 

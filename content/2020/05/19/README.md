@@ -10,36 +10,36 @@
 
 ### Applications
 
-*   [Tai (⭐454)](https://github.com/fremantle-capital/tai) - A composable, real time, cryptocurrency market data and trade execution toolkit.
-*   [workbench (⭐112)](https://github.com/fremantle-industries/workbench) - From Idea to Execution - Manage your trading operation across a globally distributed cluster.
+*   [Tai (⭐469)](https://github.com/fremantle-capital/tai) - A composable, real time, cryptocurrency market data and trade execution toolkit.
+*   [workbench (⭐119)](https://github.com/fremantle-industries/workbench) - From Idea to Execution - Manage your trading operation across a globally distributed cluster.
 
 ### Authentication
 
-*   [elixir\_auth\_google (⭐245)](https://github.com/dwyl/elixir-auth-google) - The simplest way to add Google OAuth authentication ("Sign in with Google") to your Elixir/Phoenix app.
+*   [elixir\_auth\_google (⭐268)](https://github.com/dwyl/elixir-auth-google) - The simplest way to add Google OAuth authentication ("Sign in with Google") to your Elixir/Phoenix app.
 
 ### Email
 
-*   [swoosh (⭐1.4k)](https://github.com/swoosh/swoosh) - Compose, deliver and test your Emails (with attachments!) easily in Elixir with adapters for SMTP, Sendgrid, Mandrill, Mailgun, Postmark and lots others, plus Phoenix integration with mailbox preview.
+*   [swoosh (⭐1.5k)](https://github.com/swoosh/swoosh) - Compose, deliver and test your Emails (with attachments!) easily in Elixir with adapters for SMTP, Sendgrid, Mandrill, Mailgun, Postmark and lots others, plus Phoenix integration with mailbox preview.
 
 ### Framework Components
 
-*   [recaptcha (⭐112)](https://github.com/samueljseay/recaptcha) - A simple reCaptcha 2 library for Elixir applications.
+*   [recaptcha (⭐113)](https://github.com/samueljseay/recaptcha) - A simple reCaptcha 2 library for Elixir applications.
 
 ### Instrumenting / Monitoring
 
-*   [wobserver (⭐927)](https://github.com/shinyscorpion/wobserver) - Web based metrics, monitoring, and observer.
+*   [wobserver (⭐925)](https://github.com/shinyscorpion/wobserver) - Web based metrics, monitoring, and observer.
 
 ### Lexical analysis
 
-*   [abnf\_parsec (⭐46)](https://github.com/princemaple/abnf_parsec) - ABNF in and parser out.
+*   [abnf\_parsec (⭐50)](https://github.com/princemaple/abnf_parsec) - ABNF in and parser out.
 
 ### Macros
 
-*   [pathex (⭐330)](https://github.com/hissssst/pathex) - Zero-dependency, blazing fast functional lenses.
+*   [pathex (⭐347)](https://github.com/hissssst/pathex) - Zero-dependency, blazing fast functional lenses.
 
 ### Networking
 
-*   [hades (⭐26)](https://github.com/fklement/hades) - A wrapper for NMAP written in Elixir.
+*   [hades (⭐27)](https://github.com/fklement/hades) - A wrapper for NMAP written in Elixir.
 
 ### ORM and Datamapping
 
@@ -47,13 +47,13 @@
 
 ### PDF
 
-*   [chromic\_pdf (⭐397)](https://github.com/bitcrowd/chromic_pdf) - A client for Chrome's DevTools API to generate PDFs (HTML to PDF).
-*   [pdf\_generator (⭐327)](https://github.com/gutschilla/elixir-pdf-generator) - A simple wrapper for wkhtmltopdf or puppeteer (HTML to PDF) for use in Elixir projects.
+*   [chromic\_pdf (⭐429)](https://github.com/bitcrowd/chromic_pdf) - A client for Chrome's DevTools API to generate PDFs (HTML to PDF).
+*   [pdf\_generator (⭐339)](https://github.com/gutschilla/elixir-pdf-generator) - A simple wrapper for wkhtmltopdf or puppeteer (HTML to PDF) for use in Elixir projects.
 *   [puppeteer\_pdf (⭐97)](https://github.com/coletiv/puppeteer-pdf) - Another wrapper around puppeteer (HTML to PDF) for use in Elixir projects.
 
 ### Queue
 
-*   [flume (⭐77)](https://github.com/scripbox/flume) - A blazing fast job processing system backed by GenStage & Redis.
+*   [flume (⭐78)](https://github.com/scripbox/flume) - A blazing fast job processing system backed by GenStage & Redis.
 
 ## [2. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
@@ -63,7 +63,7 @@
 
 ### Utilities / Game Engine resources
 
-*   [Flutter Flavorizr (⭐429)](https://github.com/AngeloAvv/flutter_flavorizr) <!--stargazers:AngeloAvv/flutter_flavorizr--> - CLI utility to easily generate flavors for Android and iOS in less than 3 minutes by [Angelo Cassano](https://github.com/AngeloAvv)
+*   [Flutter Flavorizr (⭐469)](https://github.com/AngeloAvv/flutter_flavorizr) <!--stargazers:AngeloAvv/flutter_flavorizr--> - CLI utility to easily generate flavors for Android and iOS in less than 3 minutes by [Angelo Cassano](https://github.com/AngeloAvv)
 
 ## [3. Awesome Qsharp](/content/ebraminio/awesome-qsharp/README.md)
 
@@ -75,17 +75,13 @@
 
 ### Components & Libraries / UI Components
 
-*   [ag-grid-vue (⭐12k)](https://github.com/ag-grid/ag-grid) - Vue adaptor for ag-Grid.
-
-### Components & Libraries / Integrations
-
-*   [vue-zeye-client (⭐5)](https://github.com/zeye-ru/vue-zeye-client) - A Vue plugin for simple use of the [Zeye-server (⭐4)](https://github.com/zeye-ru/zeye-server) open-source mediasoup WebRTC SFU server
+*   [ag-grid-vue (⭐13k)](https://github.com/ag-grid/ag-grid) - Vue adaptor for ag-Grid.
 
 ## [5. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/README.md)
 
 ### FPS
 
-*   [The Force Engine (⭐935)](https://github.com/luciusDXL/TheForceEngine) - Jedi Engine for modern systems and the games that used that engine - Dark Forces and Outlaws.
+*   [The Force Engine (⭐985)](https://github.com/luciusDXL/TheForceEngine) - Jedi Engine for modern systems and the games that used that engine - Dark Forces and Outlaws.
 
 ## [6. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
 
@@ -189,7 +185,7 @@
 
 ### Typescript Project Starters
 
-*   [The Knests Stack (⭐330)](https://github.com/tudorconstantin/knests/) - Full stack boilerplate (hackathon starter) with: PostgreSQL, Knex.js, NestJS, Next.js, GraphQL, React (with hooks and typescript), Material-UI, Docker multistage images for, Docker compose and a Gitlab CI/CD pipeline fully configured.
+*   [The Knests Stack (⭐344)](https://github.com/tudorconstantin/knests/) - Full stack boilerplate (hackathon starter) with: PostgreSQL, Knex.js, NestJS, Next.js, GraphQL, React (with hooks and typescript), Material-UI, Docker multistage images for, Docker compose and a Gitlab CI/CD pipeline fully configured.
 
 ---
 

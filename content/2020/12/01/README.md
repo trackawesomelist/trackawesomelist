@@ -10,7 +10,7 @@
 
 ### GTFS Libraries / JavaScript
 
-*   [Node-GTFS (⭐429)](https://github.com/BlinkTagInc/node-gtfs) - Loads transit data from GTFS files, unzips it and stores it to a SQLite database. Provides some methods to query for agencies, routes, stops and times.
+*   [Node-GTFS (⭐448)](https://github.com/BlinkTagInc/node-gtfs) - Loads transit data from GTFS files, unzips it and stores it to a SQLite database. Provides some methods to query for agencies, routes, stops and times.
 
 ## [2. Awesome Steam](/content/scholtzm/awesome-steam/README.md)
 
@@ -55,21 +55,21 @@
 
 ### React Renderers
 
-*   [ink (⭐26k)](https://github.com/vadimdemedes/ink) - React for interactive command-line apps
+*   [ink (⭐27k)](https://github.com/vadimdemedes/ink) - React for interactive command-line apps
 
 ## [9. Awesome Translations](/content/mbiesiad/awesome-translations/README.md)
 
 ### Tools / Libraries and tools for developers
 
-*   [Translate (⭐838)](https://github.com/translate/translate) - A set of software and documentation designed to help make the lives of localizers both more productive and less frustrating.
+*   [Translate (⭐841)](https://github.com/translate/translate) - A set of software and documentation designed to help make the lives of localizers both more productive and less frustrating.
 
 ## [10. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
 ### Web Programming • Libraries
 
 *   [Zdog](https://zzz.dog/) - A pseudo-3D engine for canvas & SVG.
-*   [Oimo.js (⭐3k)](https://github.com/lo-th/Oimo.js/) - Lightweight 3d physics engine for javascript
-*   [Ammo.js (⭐4.1k)](https://github.com/kripken/ammo.js/) - Direct port of the Bullet physics engine to JavaScript using Emscripten.
+*   [Oimo.js (⭐3.1k)](https://github.com/lo-th/Oimo.js/) - Lightweight 3d physics engine for javascript
+*   [Ammo.js (⭐4.2k)](https://github.com/kripken/ammo.js/) - Direct port of the Bullet physics engine to JavaScript using Emscripten.
 
 ### Other
 

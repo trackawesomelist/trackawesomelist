@@ -46,7 +46,7 @@
 
 ### Contents / Optimization
 
-*   [pg\_web\_stats (⭐93)](https://github.com/kirs/pg_web_stats) - Web UI to view pg\_stat\_statements.
+*   [pg\_web\_stats (⭐94)](https://github.com/kirs/pg_web_stats) - Web UI to view pg\_stat\_statements.
 
 ---
 

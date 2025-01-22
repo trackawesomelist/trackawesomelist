@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 01 - Aug 07, 2016
 
-34 awesome lists updated this week.
+33 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -49,7 +49,7 @@
 
 ### Libraries
 
-*   [tensorflow.rb (⭐826)](https://github.com/somaticio/tensorflow.rb) - TensorFlow native interface for ruby using SWIG
+*   [tensorflow.rb (⭐828)](https://github.com/somaticio/tensorflow.rb) - TensorFlow native interface for ruby using SWIG
 
 ## [8. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
@@ -61,7 +61,7 @@
 
 ### Documentation / Symfony2
 
-*   [ReDoc (⭐23k)](https://github.com/Rebilly/ReDoc/) - OpenAPI/Swagger-powered three-panel documentation.
+*   [ReDoc (⭐24k)](https://github.com/Rebilly/ReDoc/) - OpenAPI/Swagger-powered three-panel documentation.
 
 ## [10. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
 
@@ -79,7 +79,7 @@
 
 ### Elixir / General-Purpose Machine Learning
 
-*   [Simple Bayes (⭐392)](https://github.com/fredwu/simple_bayes) - A Simple Bayes / Naive Bayes implementation in Elixir.
+*   [Simple Bayes (⭐391)](https://github.com/fredwu/simple_bayes) - A Simple Bayes / Naive Bayes implementation in Elixir.
 
 ### Elixir / Natural Language Processing
 
@@ -91,13 +91,7 @@
 
 *   [ServerlessConf](http://serverlessconf.io) - Serverless specialized conference.
 
-## [14. Awesome Userscripts](/content/bvolpato/awesome-userscripts/week/README.md)
-
-### Scripts / YouTube
-
-*   [YouTube Subtitle Download (⭐805)](https://github.com/1c7/Youtube-Auto-Subtitle-Download) - Adds links to download video subtitles.
-
-## [15. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [14. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### United States 🇺🇸 / Massachusetts <a id="massachusetts"></a>
 
@@ -113,18 +107,18 @@ Webpage: <http://www.pavementcoffeehouse.com/content/44-gainsborough>
 
 ![Speedtest](http://www.speedtest.net/result/5528734206.png)
 
-## [16. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
+## [15. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
 
 ### Developer
 
 *   [Github (⭐2.9k)](https://github.com/gharlan/alfred-github-workflow) - GitHub command bar, similiar to the command bar in Github.
 *   [npms (⭐365)](https://github.com/sindresorhus/alfred-npms) - Search for npm packages with [npms.io](https://npms.io).
 
-## [17. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [16. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### MVC Frameworks and Libraries / Runner
 
-*   [preact (⭐36k)](https://github.com/developit/preact) - Fast 3kb React alternative with the same ES6 API. Components & Virtual DOM.
+*   [preact (⭐37k)](https://github.com/developit/preact) - Fast 3kb React alternative with the same ES6 API. Components & Virtual DOM.
 *   [Keo (⭐227)](https://github.com/Wildhoney/Keo) - Functional stateless React components with Shadow DOM support.
 
 ### Files / Runner
@@ -135,62 +129,62 @@ Webpage: <http://www.pavementcoffeehouse.com/content/44-gainsborough>
 
 *   [npm run-scripts](https://gist.github.com/addyosmani/9f10c555e32a8d06ddb0) Task automation with NPM run-scripts.
 
-## [18. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [17. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Open Source / Other
 
 *   [Wire (⭐1.1k)](https://github.com/wireapp/wire-desktop) - Messenger and calling app.
 
-## [19. Awesome Math](/content/rossant/awesome-math/week/README.md)
+## [18. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
 ### Probability and Statistics / Statistics
 
 *   📝 [Statistics Papers](http://www.ats.ucla.edu/stat/papers/) - List of statistics papers curated by the Institute for Digital Research and Education (IDRE) at UCLA on methods such as bootstrap and factor invariance.
 
-## [20. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/week/README.md)
+## [19. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/week/README.md)
 
 ### Tutorials / Question Answering
 
 *   \[CVPR 2015] [Applied Deep Learning for Computer Vision with Torch (⭐869)](https://github.com/soumith/cvpr2015)
 
-## [21. Awesome Programming for Kids](/content/HollyAdele/awesome-programming-for-kids/week/README.md)
+## [20. Awesome Programming for Kids](/content/HollyAdele/awesome-programming-for-kids/week/README.md)
 
 ### Upper Elementary
 
 *   [Bitsbox](https://bitsbox.com/) - A monthly box subscription that teaches kids how to code.
 
-## [22. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/week/README.md)
+## [21. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/week/README.md)
 
 ### Development Projects / APIs
 
-*   [PokeAPI (⭐3.1k)](https://github.com/PokeAPI/pokeapi/) - A RESTful API for Pokémon (<http://pokeapi.co/>).
+*   [PokeAPI (⭐4.3k)](https://github.com/PokeAPI/pokeapi/) - A RESTful API for Pokémon (<http://pokeapi.co/>).
 *   [pgoapi (⭐1.4k)](https://github.com/tejado/pgoapi) - Pokémon GO API lib/demo.
-*   [Pokemon-GO-node-api (⭐884)](https://github.com/Armax/Pokemon-GO-node-api) - Pokémon GO API Node.js library.
-*   [Pokemon-Go-Rocket-API (⭐376)](https://github.com/FeroxRev/Pokemon-Go-Rocket-API) - Client API library for Pokémon GO in C#.
-*   [Pokemon GO Java API (⭐1.1k)](https://github.com/Grover-c13/PokeGOAPI-Java) - Pokémon GO API for Java.
-*   [Pokemon Name API (⭐445)](https://github.com/sindresorhus/pokemon) - Get a list of Pokémon names in JSON.
+*   [Pokemon-GO-node-api (⭐875)](https://github.com/Armax/Pokemon-GO-node-api) - Pokémon GO API Node.js library.
+*   [Pokemon-Go-Rocket-API (⭐368)](https://github.com/FeroxRev/Pokemon-Go-Rocket-API) - Client API library for Pokémon GO in C#.
+*   [Pokemon GO Java API (⭐1k)](https://github.com/Grover-c13/PokeGOAPI-Java) - Pokémon GO API for Java.
+*   [Pokemon Name API (⭐490)](https://github.com/sindresorhus/pokemon) - Get a list of Pokémon names in JSON.
 
 ### Development Projects / Apps
 
-*   [iPokeMon (⭐432)](https://github.com/Kjuly/iPokeMon) - Pokémon like game on iOS with Location Based Service.
-*   [pokemon-online (⭐278)](https://github.com/po-devs/pokemon-online) - Online Pokémon Battle Simulator.
+*   [iPokeMon (⭐430)](https://github.com/Kjuly/iPokeMon) - Pokémon like game on iOS with Location Based Service.
+*   [pokemon-online (⭐290)](https://github.com/po-devs/pokemon-online) - Online Pokémon Battle Simulator.
 
 ### Development Projects / Bots
 
-*   [slack-pokemon (⭐342)](https://github.com/rvinluan/slack-pokemon) - A bot for having Pokémon battles in Slack.
-*   [PokeSlack (⭐40)](https://github.com/timwah/pokeslack) - Alerts you of nearby Pokémon.
-*   [TwitchPlaysPokemon (⭐109)](https://github.com/sunshinekitty/TwitchPlaysPokemon) - A bot mimicking Twitch Plays Pokémon.
-*   [Poketrainer (⭐123)](https://github.com/j-e-k/poketrainer) - A fast and feature filled bot in Python.
-*   [PokemonGoBot (⭐568)](https://github.com/jabbink/PokemonGoBot) - Bot that plays Pokémon GO.
+*   [slack-pokemon (⭐341)](https://github.com/rvinluan/slack-pokemon) - A bot for having Pokémon battles in Slack.
+*   [PokeSlack (⭐38)](https://github.com/timwah/pokeslack) - Alerts you of nearby Pokémon.
+*   [TwitchPlaysPokemon (⭐110)](https://github.com/sunshinekitty/TwitchPlaysPokemon) - A bot mimicking Twitch Plays Pokémon.
+*   [Poketrainer (⭐120)](https://github.com/j-e-k/poketrainer) - A fast and feature filled bot in Python.
+*   [PokemonGoBot (⭐557)](https://github.com/jabbink/PokemonGoBot) - Bot that plays Pokémon GO.
 
 ### Development Projects / Miscellaneous
 
-*   [alfred-pokedex (⭐25)](https://github.com/vutran/alfred-pokedex) - Alfred 3 workflow to lookup information about Pokémon.
+*   [alfred-pokedex (⭐23)](https://github.com/vutran/alfred-pokedex) - Alfred 3 workflow to lookup information about Pokémon.
 *   [Pokemon-Go-Controller (⭐2.5k)](https://github.com/kahopoon/Pokemon-Go-Controller) - Play Pokémon GO safely or at unavailable area.
-*   [pokemon-go-mitm-node (⭐478)](https://github.com/rastapasta/pokemon-go-mitm-node) - Pokémon GO MITM Proxy.
-*   [PokeMMO (⭐699)](https://github.com/maierfelix/PokeMMO) - WebGL Pokémon MMO Engine with Realtime Editor.
-*   [pogo-optimizer (⭐507)](https://github.com/justinleewells/pogo-optimizer) - Shows you the IVs and information necessary to determine which Pokémon get ground into candy.
-*   [PoGoTools (⭐4)](https://github.com/nelsyeung/PoGoTools) - A set of CLI tools for getting IVs, transferring Pokémon, evolving Pokémon, and trashing items.
+*   [pokemon-go-mitm-node (⭐487)](https://github.com/rastapasta/pokemon-go-mitm-node) - Pokémon GO MITM Proxy.
+*   [PokeMMO (⭐730)](https://github.com/maierfelix/PokeMMO) - WebGL Pokémon MMO Engine with Realtime Editor.
+*   [pogo-optimizer (⭐502)](https://github.com/justinleewells/pogo-optimizer) - Shows you the IVs and information necessary to determine which Pokémon get ground into candy.
+*   [PoGoTools (⭐5)](https://github.com/nelsyeung/PoGoTools) - A set of CLI tools for getting IVs, transferring Pokémon, evolving Pokémon, and trashing items.
 *   [slack-pokemon-emoji (⭐21)](https://github.com/fraserxu/slack-pokemon-emoji) - A tool to upload all the Pokémon to Slack emoji.
 
 ### Resources & Others / Communities
@@ -203,9 +197,9 @@ Webpage: <http://www.pavementcoffeehouse.com/content/44-gainsborough>
 
 ### Resources & Others / Maps
 
-*   [PokemonGo-Map (⭐7.6k)](https://github.com/AHAAAAAAA/PokemonGo-Map) - Live visualization of all the Pokémon in your area and more.
+*   [PokemonGo-Map (⭐7.5k)](https://github.com/AHAAAAAAA/PokemonGo-Map) - Live visualization of all the Pokémon in your area and more.
 *   [PokemonGo-DesktopMap (⭐1.8k)](https://github.com/mchristopher/PokemonGo-DesktopMap) - Electron app for Pokémon GO that shows Pokémon nearby.
-*   [pokelocater (⭐132)](https://github.com/emeth-/pokelocater) - Display Pokémon nearby your location on a map.
+*   [pokelocater (⭐130)](https://github.com/emeth-/pokelocater) - Display Pokémon nearby your location on a map.
 *   [Pokemap (⭐1k)](https://github.com/omkarmoghe/Pokemap) - A native Android client to map the Pokémon around you.
 *   [Poke Vision](https://pokevision.com/) - Find Pokémon by location.
 
@@ -223,7 +217,7 @@ Webpage: <http://www.pavementcoffeehouse.com/content/44-gainsborough>
 *   [Egg Statistics](https://app.cmmcd.com/) - Pokémon GO Egg Reporter.
 *   [Poke Assistant](https://pokeassistant.com/) - Collection of calculators for Pokémon GO.
 
-## [23. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [22. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Redshift
 
@@ -233,23 +227,23 @@ Webpage: <http://www.pavementcoffeehouse.com/content/44-gainsborough>
 
 *   [alex/letsencrypt-aws :fire::fire::fire: (⭐729)](https://github.com/alex/letsencrypt-aws) - Automatically provision and update certificates.
 
-## [24. Awesome Tech Videos](/content/lucasviola/awesome-tech-videos/week/README.md)
+## [23. Awesome Tech Videos](/content/lucasviola/awesome-tech-videos/week/README.md)
 
 ### Architecture / Scala
 
 *   [OSCON 2014: How Instagram.com Works Pete Hunt](https://www.youtube.com/watch?v=VkTCL6Nqm6Y) By Pete Hunt
 
-## [25. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [24. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Weird
 
-*   [nerds (⭐108)](https://github.com/SkyHacks/nerds) - Get data from nerdy topics like Harry Potter, Star Wars, and Pokémon.
+*   [nerds (⭐109)](https://github.com/SkyHacks/nerds) - Get data from nerdy topics like Harry Potter, Star Wars, and Pokémon.
 
 ### Resources / Miscellaneous
 
 *   [Microsoft Node.js Guidelines (⭐2.5k)](https://github.com/Microsoft/nodejs-guidelines) - Tips, tricks, and resources for working with Node.js on Microsoft platforms.
 
-## [26. Awesome Service Workers](/content/TalAter/awesome-service-workers/week/README.md)
+## [25. Awesome Service Workers](/content/TalAter/awesome-service-workers/week/README.md)
 
 ### Libraries and Tools
 
@@ -264,19 +258,19 @@ Webpage: <http://www.pavementcoffeehouse.com/content/44-gainsborough>
 
 *   [Measuring the Real-world Performance Impact of Service Workers](https://developers.google.com/web/showcase/2016/service-worker-perf) - One of the most significant benefits of service workers (from a performance perspective, at least) is their ability to proactively control the caching of assets. A web application that can cache all of its necessary resources should load substantially faster for returning visitors. But what do these gains actually look like to real users? And how do you even measure this?
 
-## [27. Frontend Dev Bookmarks](/content/dypsilon/frontend-dev-bookmarks/week/README.md)
+## [26. Frontend Dev Bookmarks](/content/dypsilon/frontend-dev-bookmarks/week/README.md)
 
 ### User Interface Components
 
 *   **[Galeries & Image Sliders](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/README.md/user-interface-components/galeries-and-image-sliders.md)**: A sophisticated way to present a collection of images on your website.
 
-## [28. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [27. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Keyboard
 
 *   [MakemojiSDK (⭐101)](https://github.com/makemoji/MakemojiSDK) - Emoji Keyboard SDK (iOS)
 
-## [29. Awesome Chrome Devtools](/content/ChromeDevTools/awesome-chrome-devtools/week/README.md)
+## [28. Awesome Chrome Devtools](/content/ChromeDevTools/awesome-chrome-devtools/week/README.md)
 
 ### Learning
 
@@ -296,7 +290,7 @@ Webpage: <http://www.pavementcoffeehouse.com/content/44-gainsborough>
 *   [App Inspector for Sencha](https://chrome.google.com/webstore/detail/app-inspector-for-sencha/pbeapidedgdpniokbedbfbaacglkceae) - Inspect a Sencha ExtJS/Touch application's component tree, data stores, events, and layouts.
 *   [Redux Devtools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd) - Inspect Redux with actions history, undo and replay.
 *   [Three.js](https://chrome.google.com/webstore/detail/threejs-editor-extension/fbgbekpggeldiacgjkacbkkcbjhmakea/) - Edit any three.js project.
-*   [Insight (⭐910)](https://github.com/3Dparallax/insight/) - A WebGL debugging toolkit which enables more productive WebGL development and more efficient WebGL applications.
+*   [Insight (⭐913)](https://github.com/3Dparallax/insight/) - A WebGL debugging toolkit which enables more productive WebGL development and more efficient WebGL applications.
 *   [BEM devtools (⭐45)](https://github.com/escaton/bem-chrome-devtools) - Inspect BEM entities expressed in `i-bem` framework.
 
 ### Themes / Ruby
@@ -304,7 +298,7 @@ Webpage: <http://www.pavementcoffeehouse.com/content/44-gainsborough>
 *   [DevTools Author](https://chrome.google.com/webstore/detail/devtools-author/egfhcfdfnajldliefpdoaojgahefjhhi) - A selection of themes to modify parts of DevTools related to authoring web applications.
 *   [Zero Dark Matrix](https://chrome.google.com/webstore/detail/devtools-theme-zero-dark/bomhdjeadceaggdgfoefmpeafkjhegbo) - Dark theme for Chrome Developer Tools.
 
-## [30. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
+## [29. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
 
 ### Citizen Science Spaces and Projects / Genetics/Biohacking
 
@@ -319,7 +313,7 @@ Webpage: <http://www.pavementcoffeehouse.com/content/44-gainsborough>
 
 *   [Innovative Citizen](http://www.innovative-citizen.de/) - An annual citizen science festival in the Ruhr area, Germany, with an emphasis on organic fabrication, bio-hacking, mobile agriculture, and sustainability in urban ecosystems.
 
-## [31. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [30. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Third Party APIs
 
@@ -329,7 +323,7 @@ Webpage: <http://www.pavementcoffeehouse.com/content/44-gainsborough>
 
 *   [vscode-elixir (⭐4)](https://github.com/mat-mcloughlin/vscode-elixir) - Elixir Support for Visual Studio Code.
 
-## [32. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [31. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Tab / Barcode
 
@@ -342,9 +336,9 @@ Webpage: <http://www.pavementcoffeehouse.com/content/44-gainsborough>
 
 ### Transition / Barcode
 
-*   [RevealingSplashView (⭐1.3k)](https://github.com/PiXeL16/RevealingSplashView) - A Splash view that animates and reveals its content, inspired by the Twitter splash.
+*   [RevealingSplashView (⭐1.2k)](https://github.com/PiXeL16/RevealingSplashView) - A Splash view that animates and reveals its content, inspired by the Twitter splash.
 
-## [33. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [32. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### GUI
 
@@ -358,7 +352,7 @@ Webpage: <http://www.pavementcoffeehouse.com/content/44-gainsborough>
 
 *   [HijriDatePicker (⭐129)](https://github.com/alhazmy13/HijriDatePicker) - offers a hijri (Islamic Calendar) Date Picker designed on Google's Material Design Principals For Pickers.
 
-## [34. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [33. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Data Generators
 

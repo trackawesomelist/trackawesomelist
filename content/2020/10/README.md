@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 09 - Mar 15, 2020
 
-59 awesome lists updated this week.
+58 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,7 +16,7 @@
 
 ### Applications / System tools
 
-*   [Kondo (⭐1.7k)](https://github.com/tbillington/kondo) - CLI & GUI tool for deleting software project artifacts and reclaiming disk space
+*   [Kondo (⭐1.9k)](https://github.com/tbillington/kondo) - CLI & GUI tool for deleting software project artifacts and reclaiming disk space
 
 ## [3. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
@@ -42,7 +42,7 @@
 
 ### Projects
 
-*   [yew-styles-page (⭐149)](https://github.com/spielrs/yew-styles-page) - This is an initial project of a framework style for yew.
+*   [yew-styles-page (⭐155)](https://github.com/spielrs/yew-styles-page) - This is an initial project of a framework style for yew.
 
 ## [5. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/week/README.md)
 
@@ -81,48 +81,48 @@
 
 ### 2019
 
-*   [ggforce (⭐898)](https://github.com/thomasp85/ggforce) - ggplot2 extension framework ![ggforce](https://cranlogs.r-pkg.org/badges/ggforce)
-*   [rayshader (⭐2k)](https://github.com/tylermorganwall/rayshader) - 2D and 3D data visualizations via rgl ![rayshader](https://cranlogs.r-pkg.org/badges/rayshader)
+*   [ggforce (⭐916)](https://github.com/thomasp85/ggforce) - ggplot2 extension framework ![ggforce](https://cranlogs.r-pkg.org/badges/ggforce)
+*   [rayshader (⭐2.1k)](https://github.com/tylermorganwall/rayshader) - 2D and 3D data visualizations via rgl ![rayshader](https://cranlogs.r-pkg.org/badges/rayshader)
 
 ### Integrated Development Environments
 
 *   [RStudio <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](http://www.rstudio.org/) - A powerful and productive user interface for R. Works great on Windows, Mac, and Linux.
-*   [IRkernel <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐1.6k)](https://github.com/IRkernel/IRkernel) - R kernel for Jupyter.
-*   [radian <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐1.9k)](https://github.com/randy3k/radian) (formerly rtichoke) - A modern R console with syntax highlighting.
+*   [IRkernel <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐1.7k)](https://github.com/IRkernel/IRkernel) - R kernel for Jupyter.
+*   [radian <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐2k)](https://github.com/randy3k/radian) (formerly rtichoke) - A modern R console with syntax highlighting.
 
 ### Syntax
 
-*   [magrittr <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐951)](https://github.com/smbache/magrittr) - Let's pipe it.
+*   [magrittr <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐959)](https://github.com/smbache/magrittr) - Let's pipe it.
 
 ### Data Manipulation
 
-*   [dplyr <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐4.6k)](https://github.com/hadley/dplyr) - Fast data frames manipulation and database query.
-*   [data.table <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐3.5k)](https://github.com/Rdatatable/data.table) - Fast data manipulation in a short and flexible syntax.
-*   [reshape2  <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐207)](https://github.com/hadley/reshape) - Flexible rearrange, reshape and aggregate data.
+*   [dplyr <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐4.8k)](https://github.com/hadley/dplyr) - Fast data frames manipulation and database query.
+*   [data.table <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐3.6k)](https://github.com/Rdatatable/data.table) - Fast data manipulation in a short and flexible syntax.
+*   [reshape2  <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐210)](https://github.com/hadley/reshape) - Flexible rearrange, reshape and aggregate data.
 *   [broom <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐19)](https://github.com/dgrtwo/broom) - Convert statistical analysis objects into tidy data frames.
-*   [stringi <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐288)](https://github.com/gagolews/stringi) - ICU based string processing package.
-*   [stringr <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐564)](https://github.com/hadley/stringr) - Consistent API for string processing, built on top of stringi.
+*   [stringi <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐305)](https://github.com/gagolews/stringi) - ICU based string processing package.
+*   [stringr <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐609)](https://github.com/hadley/stringr) - Consistent API for string processing, built on top of stringi.
 
 ### Graphic Displays
 
-*   [ggplot2 <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐6.2k)](https://github.com/hadley/ggplot2) - An implementation of the Grammar of Graphics.
+*   [ggplot2 <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐6.6k)](https://github.com/hadley/ggplot2) - An implementation of the Grammar of Graphics.
 *   [idendro (⭐9)](https://github.com/tsieger/idendro) -  interactive exploration of dendrograms (trees of hierarchical clustering).
 
 ### 2017 / Book/monograph Lists and Reviews
 
 *   [hrbrthemes (⭐1.2k)](https://github.com/hrbrmstr/hrbrthemes) -  🔏 Opinionated, typographic-centric ggplot2 themes and theme components
-*   [Patchwork (⭐2.4k)](https://github.com/thomasp85/patchwork) - Combine separate ggplots into the same graphic.
-*   [utf8 (⭐112)](https://github.com/patperry/r-utf8) - Manipulating and printing UTF-8 text that fixes multiple bugs in R's UTF-8 handling.
-*   [covr (⭐327)](https://github.com/jimhester/covr) - Test coverage reports for R
-*   [lintr (⭐1.1k)](https://github.com/jimhester/lintr) - Static Code Analysis for R
-*   [prophet (⭐18k)](https://github.com/facebookincubator/prophet) - Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.
-*   [tidyverse (⭐1.6k)](https://github.com/tidyverse/tidyverse) - Easily install and load packages from the tidyverse
-*   [purrr (⭐1.2k)](https://github.com/tidyverse/purrr) - A functional programming toolkit for R
+*   [Patchwork (⭐2.5k)](https://github.com/thomasp85/patchwork) - Combine separate ggplots into the same graphic.
+*   [utf8 (⭐113)](https://github.com/patperry/r-utf8) - Manipulating and printing UTF-8 text that fixes multiple bugs in R's UTF-8 handling.
+*   [covr (⭐337)](https://github.com/jimhester/covr) - Test coverage reports for R
+*   [lintr (⭐1.2k)](https://github.com/jimhester/lintr) - Static Code Analysis for R
+*   [prophet (⭐19k)](https://github.com/facebookincubator/prophet) - Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.
+*   [tidyverse (⭐1.7k)](https://github.com/tidyverse/tidyverse) - Easily install and load packages from the tidyverse
+*   [purrr (⭐1.3k)](https://github.com/tidyverse/purrr) - A functional programming toolkit for R
 *   [xaringan (⭐1.5k)](https://github.com/yihui/xaringan) - Create HTML5 slides with R Markdown and the JavaScript library
 *   [blogdown (⭐1.7k)](https://github.com/rstudio/blogdown) - Create Blogs and Websites with R Markdown
-*   [glue (⭐684)](https://github.com/tidyverse/glue) -  Glue strings to data in R. Small, fast, dependency free interpreted string literals.
-*   [reprex (⭐725)](https://github.com/jennybc/reprex) - Render bits of R code for sharing, e.g., on GitHub or StackOverflow.
-*   [reticulate (⭐1.6k)](https://github.com/rstudio/reticulate) - R Interface to Python
+*   [glue (⭐726)](https://github.com/tidyverse/glue) -  Glue strings to data in R. Small, fast, dependency free interpreted string literals.
+*   [reprex (⭐742)](https://github.com/jennybc/reprex) - Render bits of R code for sharing, e.g., on GitHub or StackOverflow.
+*   [reticulate (⭐1.7k)](https://github.com/rstudio/reticulate) - R Interface to Python
 *   [tensorflow (⭐1.3k)](https://github.com/rstudio/tensorflow) -  TensorFlow for R
 
 ### 2018 / Book/monograph Lists and Reviews
@@ -130,31 +130,31 @@
 *   [r2d3](https://rstudio.github.io/r2d3/) - R Interface to D3 Visualizations ![r2d3](https://cranlogs.r-pkg.org/badges/r2d3)
 *   [promises](https://cran.r-project.org/web/packages/promises/index.html) - Abstractions for Promise-Based Asynchronous Programming ![promises](https://cranlogs.r-pkg.org/badges/promises)
 *   [Readings in Applied Data Science (⭐1.6k)](https://github.com/hadley/stats337) - These readings reflect Hadley's personal thoughts about applied data science.
-*   [fable (⭐539)](https://github.com/tidyverts/fable) - univariate and multivariate time series forecasting models ![fable](https://cranlogs.r-pkg.org/badges/fable)
-*   [rstats-ed (⭐450)](https://github.com/rstudio-education/rstats-ed) - List of courses teaching R
+*   [fable (⭐564)](https://github.com/tidyverts/fable) - univariate and multivariate time series forecasting models ![fable](https://cranlogs.r-pkg.org/badges/fable)
+*   [rstats-ed (⭐453)](https://github.com/rstudio-education/rstats-ed) - List of courses teaching R
 *   [tinytex](https://yihui.name/tinytex/) - A lightweight and easy-to-maintain LaTeX distribution ![tinytex](https://cranlogs.r-pkg.org/badges/tinytex)
 
 ### HTML Widgets
 
 *   [DiagrammeR <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐1.7k)](https://github.com/rich-iannone/DiagrammeR) - Create JS graph diagrams and flowcharts in R.
-*   [formattable <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐686)](https://github.com/renkun-ken/formattable) - Formattable Data Structures.
-*   [ggvis <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐712)](https://github.com/rstudio/ggvis) - Interactive grammar of graphics for R.
-*   [plotly <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐2.5k)](https://github.com/ropensci/plotly) - Interactive ggplot2 and Shiny plotting with [plot.ly](https://plot.ly).
+*   [formattable <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐696)](https://github.com/renkun-ken/formattable) - Formattable Data Structures.
+*   [ggvis <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐713)](https://github.com/rstudio/ggvis) - Interactive grammar of graphics for R.
+*   [plotly <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐2.6k)](https://github.com/ropensci/plotly) - Interactive ggplot2 and Shiny plotting with [plot.ly](https://plot.ly).
 *   [rCharts <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐1.2k)](https://github.com/ramnathv/rCharts) - Interactive JS Charts from R.
-*   [echarts4r (⭐565)](https://github.com/JohnCoene/echarts4r) - R wrapper to Echarts version 4
+*   [echarts4r (⭐602)](https://github.com/JohnCoene/echarts4r) - R wrapper to Echarts version 4
 
 ### Reproducible Research
 
-*   [knitr <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐2.3k)](https://github.com/yihui/knitr) - Easy dynamic report generation in R.
+*   [knitr <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐2.4k)](https://github.com/yihui/knitr) - Easy dynamic report generation in R.
 *   [rmarkdown <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](http://rmarkdown.rstudio.com/) - Dynamic documents for R.
-*   [slidify <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐845)](https://github.com/ramnathv/slidify) - Generate reproducible html5 slides from R markdown.
-*   [texreg (⭐109)](https://github.com/leifeld/texreg) - Formatting statistical models in LaTex and HTML.
+*   [slidify <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐844)](https://github.com/ramnathv/slidify) - Generate reproducible html5 slides from R markdown.
+*   [texreg (⭐113)](https://github.com/leifeld/texreg) - Formatting statistical models in LaTex and HTML.
 *   [kable](https://cran.r-project.org/web/packages/kableExtra/vignettes/awesome_table_in_html.html) - Build fancy HTML or 'LaTeX' tables using 'kable()' from 'knitr'.
 
 ### Web Technologies and Services
 
-*   [shiny <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐5.2k)](https://github.com/rstudio/shiny) - Easy interactive web applications with R. See also [awesome-rshiny (⭐769)](https://github.com/grabear/awesome-rshiny)
-*   [httr <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐978)](https://github.com/hadley/httr) - User-friendly RCurl wrapper.
+*   [shiny <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐5.4k)](https://github.com/rstudio/shiny) - Easy interactive web applications with R. See also [awesome-rshiny (⭐805)](https://github.com/grabear/awesome-rshiny)
+*   [httr <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐986)](https://github.com/hadley/httr) - User-friendly RCurl wrapper.
 *   [XML <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](http://cran.r-project.org/web/packages/XML/index.html) - Tools for parsing and generating XML within R.
 *   [xml2 <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](https://cran.r-project.org/web/packages/xml2/index.html) - Optimized tools for parsing and generating XML within R.
 *   [rvest <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐1.5k)](https://github.com/hadley/rvest) - Simple web scraping for R, using CSSSelect or XPath syntax.
@@ -172,17 +172,17 @@
 
 ### Machine Learning
 
-*   [AnomalyDetection <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐3.5k)](https://github.com/twitter/AnomalyDetection) - AnomalyDetection R package from Twitter.
-*   [BreakoutDetection <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐753)](https://github.com/twitter/BreakoutDetection) - Breakout Detection via Robust E-Statistics from Twitter.
-*   [CausalImpact <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐1.6k)](https://github.com/google/CausalImpact) - Causal inference using Bayesian structural time-series models.
+*   [AnomalyDetection <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐3.6k)](https://github.com/twitter/AnomalyDetection) - AnomalyDetection R package from Twitter.
+*   [BreakoutDetection <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐755)](https://github.com/twitter/BreakoutDetection) - Breakout Detection via Robust E-Statistics from Twitter.
+*   [CausalImpact <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐1.7k)](https://github.com/google/CausalImpact) - Causal inference using Bayesian structural time-series models.
 *   [caret <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](http://cran.r-project.org/web/packages/caret/index.html) - Classification and Regression Training
-*   [prophet <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐18k)](https://github.com/facebookincubator/prophet) - Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.
+*   [prophet <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐19k)](https://github.com/facebookincubator/prophet) - Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.
 *   [glmnet <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](http://cran.r-project.org/web/packages/glmnet/index.html) - Lasso and elastic-net regularized generalized linear models
 *   [h2o <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](http://cran.r-project.org/web/packages/h2o/index.html) - Deeplearning, Random forests, GBM, KMeans, PCA, GLM
-*   [lme4 <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐588)](https://github.com/lme4/lme4) - Mixed-effects models
+*   [lme4 <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐626)](https://github.com/lme4/lme4) - Mixed-effects models
 *   [Machine Learning For Hackers <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐3.7k)](https://github.com/johnmyleswhite/ML_for_Hackers)
 *   [MXNet <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐21k)](https://github.com/dmlc/mxnet/tree/master/R-package) - MXNet brings flexible and efficient GPU computing and state-of-art deep learning to R.
-*   [survminer (⭐465)](https://github.com/kassambara/survminer) - Survival Analysis & Visualization
+*   [survminer (⭐509)](https://github.com/kassambara/survminer) - Survival Analysis & Visualization
 *   [survival](https://cran.r-project.org/web/packages/survival/index.html) - Survival Analysis
 *   [xgboost <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐572)](https://github.com/tqchen/xgboost/tree/master/R-package) - eXtreme Gradient Boosting Tree model, well known for its speed and performance.
 
@@ -202,25 +202,25 @@
 ### Network Analysis
 
 *   [igraph <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](http://igraph.org/r/) - A collection of network analysis tools.
-*   [tidygraph (⭐528)](https://github.com/thomasp85/tidygraph) - A tidy API for graph manipulation
+*   [tidygraph (⭐547)](https://github.com/thomasp85/tidygraph) - A tidy API for graph manipulation
 
 ### Spatial
 
-*   [tmap (⭐7)](https://github.com/mtennekes/tmap) - R package for thematic maps
+*   [tmap (⭐12)](https://github.com/mtennekes/tmap) - R package for thematic maps
 
 ### R Development
 
-*   [devtools <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐2.3k)](https://github.com/hadley/devtools) - Tools to make an R developer's life easier.
-*   [testthat <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐859)](https://github.com/hadley/testthat) - An R package to make testing fun.
-*   [R6 <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐397)](https://github.com/wch/R6) - simpler, faster, lighter-weight alternative to R's built-in classes.
-*   [pryr <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐201)](https://github.com/hadley/pryr) - Make it easier to understand what's going on in R.
-*   [roxygen <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐573)](https://github.com/klutometis/roxygen) - Describe your functions in comments next to their definitions.
+*   [devtools <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐2.4k)](https://github.com/hadley/devtools) - Tools to make an R developer's life easier.
+*   [testthat <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐892)](https://github.com/hadley/testthat) - An R package to make testing fun.
+*   [R6 <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐412)](https://github.com/wch/R6) - simpler, faster, lighter-weight alternative to R's built-in classes.
+*   [pryr <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐202)](https://github.com/hadley/pryr) - Make it easier to understand what's going on in R.
+*   [roxygen <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐597)](https://github.com/klutometis/roxygen) - Describe your functions in comments next to their definitions.
 *   [Rocker <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](https://github.com/rocker-org) - R configurations for [Docker](https://www.docker.com/).
 
 ### Data Packages
 
 *   [wbstats](https://cran.r-project.org/web/packages/wbstats/index.html) - Tools for searching and downloading data and statistics from the World Bank Data API and the World Bank Data Catalog API.
-*   [ICON (⭐6)](https://github.com/rrrlw/ICON) - complex systems & networks datasets from the Index of COmplex Networks (ICON) database [webpage](http://icon.colorado.edu).
+*   [ICON (⭐7)](https://github.com/rrrlw/ICON) - complex systems & networks datasets from the Index of COmplex Networks (ICON) database [webpage](http://icon.colorado.edu).
 
 ### Learning R
 
@@ -266,7 +266,7 @@
 
 ### Books / Book/monograph Lists and Reviews
 
-*   [R Books List (⭐226)](https://github.com/RomanTsegelskyi/rbooks) - List of R Books.
+*   [R Books List (⭐243)](https://github.com/RomanTsegelskyi/rbooks) - List of R Books.
 
 ## [10. Awesome Deep Learning Resources](/content/guillaume-chevalier/Awesome-Deep-Learning-Resources/week/README.md)
 
@@ -320,46 +320,40 @@
 
 ### GitHub Tools and Management / Docker Container Actions
 
-*   [Run GitHub Actions Locally in Terminal (⭐29k)](https://github.com/nektos/act)
-*   [Get Commit Difference Count Between Two Branches (⭐5)](https://github.com/jessicalostinspace/commit-difference-action)
+*   [Run GitHub Actions Locally in Terminal (⭐54k)](https://github.com/nektos/act)
+*   [Get Commit Difference Count Between Two Branches (⭐7)](https://github.com/jessicalostinspace/commit-difference-action)
 
 ### Utility / Docker Container Actions
 
-*   [Has Changes (⭐26)](https://github.com/UnicornGlobal/has-changes-action) - Check if there are code changes from previous steps.
+*   [Has Changes (⭐31)](https://github.com/UnicornGlobal/has-changes-action) - Check if there are code changes from previous steps.
 
-## [15. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
-
-### Applications and Platforms / Data Collection
-
-*   [Logsit](http://www.logsit.com/) - Quantified self and lifelogging app to track the things you've done (iOS).
-
-## [16. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [15. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Security
 
-*   🍰 [Expose plugin](https://github.com/dereuromark/cakephp-expose) - Expose entities through additional UUIDs instead of their AIID primary keys to obfuscate those IDs and data associated with these numerically ordered values.
+*   [Expose plugin (⭐8)](https://github.com/dereuromark/cakephp-expose) - Expose entities through additional UUIDs instead of their AIID primary keys to obfuscate those IDs and data associated with these numerically ordered values.
 
-## [17. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
+## [16. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
 
 ### Python / Data Sources
 
-*   [yahooquery (⭐759)](https://github.com/dpguthrie/yahooquery) - Python interface for retrieving data through unofficial Yahoo Finance API.
+*   [yahooquery (⭐799)](https://github.com/dpguthrie/yahooquery) - Python interface for retrieving data through unofficial Yahoo Finance API.
 
-## [18. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [17. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Shells
 
 *   [ion (⭐1.4k)](https://github.com/redox-os/ion) - A modern system shell that features a simple, yet powerful, syntax. It is written entirely in Rust.
 
-## [19. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [18. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Deployment / Isomorphic web frameworks
 
-*   [s2i-lisp (⭐29)](https://github.com/container-lisp/s2i-lisp) - Source-to-Image builder image based on CentOS or alternatively RHEL7 for building Common LISP images for OpenShift (and also Docker). It features an up-to-date SBCL with Quicklisp installation, SLIME or SLY integration and allows customization via environment variables. [Apache2](https://directory.fsf.org/wiki/License:Apache2.0)
+*   [s2i-lisp (⭐31)](https://github.com/container-lisp/s2i-lisp) - Source-to-Image builder image based on CentOS or alternatively RHEL7 for building Common LISP images for OpenShift (and also Docker). It features an up-to-date SBCL with Quicklisp installation, SLIME or SLY integration and allows customization via environment variables. [Apache2](https://directory.fsf.org/wiki/License:Apache2.0)
 
 ### Others / Third-party APIs
 
-*   [Petalisp (⭐467)](https://github.com/marcoheisig/Petalisp) - an attempt to
+*   [Petalisp (⭐488)](https://github.com/marcoheisig/Petalisp) - an attempt to
     generate high performance code for parallel computers by
     JIT-compiling array definitions. It works on a more
     fundamental level than NumPy, by providing even more powerful
@@ -376,50 +370,48 @@
 
 ### Developer utilities / Third-party APIs
 
-*   [cl-debug (⭐1)](https://github.com/LowH/cl-debug) - a cross-package debug facility. Provides a unified way to enable or disable debug-specific code. Debugging code can be enabled or disabled relative to program features denoted by either a symbol or a keyword. ISC licence.
-*   [supertrace (⭐25)](https://github.com/fukamachi/supertrace) - Superior Common Lisp `trace` functionality for debugging/profiling. Trace many functions at once, use before and after hooks. [BSD\_2Clause](https://directory.fsf.org/wiki/License:BSD_2Clause).
+*   [supertrace (⭐31)](https://github.com/fukamachi/supertrace) - Superior Common Lisp `trace` functionality for debugging/profiling. Trace many functions at once, use before and after hooks. [BSD\_2Clause](https://directory.fsf.org/wiki/License:BSD_2Clause).
 
 ### Security / Third-party APIs
 
-*   [cl-isolated (⭐39)](https://github.com/kanru/cl-isolated) - A restricted environment for Common Lisp code evaluation [AGPL-3.0](https://directory.fsf.org/wiki/License:AGPL-3.0).
+*   [cl-isolated (⭐41)](https://github.com/kanru/cl-isolated) - A restricted environment for Common Lisp code evaluation [AGPL-3.0](https://directory.fsf.org/wiki/License:AGPL-3.0).
 
-## [20. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [19. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### Web Apps (open source)
 
 *   [OpenTripPlanner.js (⭐19)](https://github.com/conveyal/otp.js) - A Javascript-based client for OpenTripPlanner (no longer under development)
-*   [OTP-UI React Component Library (⭐52)](https://github.com/opentripplanner/otp-ui) - React Javascript component library, which can be used to build trip planner webapps. See the [Storybook](http://www.opentripplanner.org/otp-ui) for a demo.
+*   [OTP-UI React Component Library (⭐57)](https://github.com/opentripplanner/otp-ui) - React Javascript component library, which can be used to build trip planner webapps. See the [Storybook](http://www.opentripplanner.org/otp-ui) for a demo.
 
 ### Blog posts / Ruby
 
 *   ["Visualizing Better Transportation: Data & Tools" by Steve Pepple](https://medium.com/@stevepepple/visualizing-better-transportation-data-tools-e48b8317a21c) - A collection of transportation-related data and tools for the San Francisco Bay Area and other cities in North America, originally collected and discussed at a 2018 Transit Week Event at ARUP in San Francisco.
 
-## [21. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
+## [20. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
 
 ### Invoice / Generators
 
 *   [Refact](http://en.userstudio.fr/projects/refact/) - A design project trying to revamp a phone bill with infographics.
 
-## [22. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/week/README.md)
+## [21. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/week/README.md)
 
 ### Roles / CTO & VP of Engineering
 
 *   [The different skills needed to be a successful CTO](https://madewithlove.be/one-job-many-roles-the-different-skills-needed-to-be-a-successful-cto/) - The premise is a little misleading, as what is detailed there is the journey, in a startup, of the technical founder growing with the company to become a CTO. At which point the position described in the article is not CTO, but VP of Engineering.
 
-## [23. Awesome Gatling](/content/aliesbelik/awesome-gatling/week/README.md)
+## [22. Awesome Gatling](/content/aliesbelik/awesome-gatling/week/README.md)
 
 ### Related / Awesome Lists
 
-*   [Awesome Tsung (⭐18)](https://github.com/aliesbelik/awesome-tsung) - Open-source multi-protocol distributed load testing tool, developed in Erlang.
-*   [Awesome JMeter (⭐700)](https://github.com/aliesbelik/awesome-jmeter) - Open-source load testing and performance measurement tool, written in Java.
+*   [Awesome JMeter (⭐720)](https://github.com/aliesbelik/awesome-jmeter) - Open-source load testing and performance measurement tool, written in Java.
 
-## [24. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [23. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### Libraries and Frameworks / .NET
 
 *   [Core.EventStore (⭐5)](https://github.com/younos1986/Core.EventStore) - A library to facilitate communication between CommandService and QueryService. The Idea is when any event occures in commandService, it should be persisted in QueryService in MongoDb.
 
-## [25. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [24. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### General
 
@@ -431,29 +423,36 @@
 
 ### Tools & Utilities / Others
 
-*   [Blazored.LocalStorage (⭐1.2k)](https://github.com/Blazored/LocalStorage) - ![GitHub stars](https://img.shields.io/github/stars/Blazored/LocalStorage?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Blazored/LocalStorage?style=flat-square\&cacheSeconds=86400) A library to provide access to local storage in Blazor applications.
-*   [Blazor-State (⭐535)](https://github.com/TimeWarpEngineering/blazor-state) - ![GitHub stars](https://img.shields.io/github/stars/TimeWarpEngineering/blazor-state?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/TimeWarpEngineering/blazor-state?style=flat-square\&cacheSeconds=86400) Manage client side state in Blazor using MediatR pipeline.
-*   [CssBuilder (⭐213)](https://github.com/EdCharbeneau/CssBuilder) - ![GitHub stars](https://img.shields.io/github/stars/EdCharbeneau/CssBuilder?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/EdCharbeneau/CssBuilder?style=flat-square\&cacheSeconds=86400) CssBuilder is a Builder pattern for CSS classes to be used with Razor Components.
+*   [Blazored.LocalStorage (⭐1.3k)](https://github.com/Blazored/LocalStorage) - ![GitHub stars](https://img.shields.io/github/stars/Blazored/LocalStorage?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Blazored/LocalStorage?style=flat-square\&cacheSeconds=86400) A library to provide access to local storage in Blazor applications.
+*   [Blazor-State (⭐565)](https://github.com/TimeWarpEngineering/blazor-state) - ![GitHub stars](https://img.shields.io/github/stars/TimeWarpEngineering/blazor-state?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/TimeWarpEngineering/blazor-state?style=flat-square\&cacheSeconds=86400) Manage client side state in Blazor using MediatR pipeline.
+*   [CssBuilder (⭐215)](https://github.com/EdCharbeneau/CssBuilder) - ![GitHub stars](https://img.shields.io/github/stars/EdCharbeneau/CssBuilder?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/EdCharbeneau/CssBuilder?style=flat-square\&cacheSeconds=86400) CssBuilder is a Builder pattern for CSS classes to be used with Razor Components.
 
 ### Others / Others
 
-*   [Bolero (⭐1k)](https://github.com/fsbolero/Bolero) - ![GitHub stars](https://img.shields.io/github/stars/fsbolero/Bolero?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/fsbolero/Bolero?style=flat-square\&cacheSeconds=86400) Blazor for F# with hot reloaded templates, type-safe endpoints and routing, remoting, and much more.
-*   [BlazorFabric (⭐812)](https://github.com/limefrogyank/BlazorFabric) - ![GitHub stars](https://img.shields.io/github/stars/limefrogyank/BlazorFabric?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/limefrogyank/BlazorFabric?style=flat-square\&cacheSeconds=86400) Blazor port of Microsoft UI Fabric with fluent design. ([Demo](https://blazorfabric.azurewebsites.net/)).
+*   [Bolero (⭐1.1k)](https://github.com/fsbolero/Bolero) - ![GitHub stars](https://img.shields.io/github/stars/fsbolero/Bolero?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/fsbolero/Bolero?style=flat-square\&cacheSeconds=86400) Blazor for F# with hot reloaded templates, type-safe endpoints and routing, remoting, and much more.
+*   [BlazorFabric (⭐817)](https://github.com/limefrogyank/BlazorFabric) - ![GitHub stars](https://img.shields.io/github/stars/limefrogyank/BlazorFabric?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/limefrogyank/BlazorFabric?style=flat-square\&cacheSeconds=86400) Blazor port of Microsoft UI Fabric with fluent design. ([Demo](https://blazorfabric.azurewebsites.net/)).
+
+## [25. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
+
+### Related / Awesome Lists
+
+*   [Awesome Tsung (⭐20)](https://github.com/aliesbelik/awesome-tsung) - Open-source multi-protocol distributed load testing tool, developed in Erlang.
+*   [Awesome Gatling (⭐72)](https://github.com/aliesbelik/awesome-gatling) - Open-source load and performance testing framework based on Scala, Akka and Netty.
 
 ## [26. Awesome Tikz](/content/xiaohanyu/awesome-tikz/week/README.md)
 
 ### Tools / PGFPlots
 
-*   [sane\_tikz (⭐280)](https://github.com/negrinho/sane_tikz) - Create TikZ figures with Python.
+*   [sane\_tikz (⭐375)](https://github.com/negrinho/sane_tikz) - Create TikZ figures with Python.
 
 ## [27. Awesome Video](/content/krzemienski/awesome-video/week/README.md)
 
 ### Tools / Dolby
 
-*   [slhck/ffmpeg-bitrate-stats (⭐120)](https://github.com/slhck/ffmpeg-bitrate-stats)  - Calculate bitrate statistics using FFmpeg
+*   [slhck/ffmpeg-bitrate-stats (⭐133)](https://github.com/slhck/ffmpeg-bitrate-stats)  - Calculate bitrate statistics using FFmpeg
 *   [slhck/ffmpeg-debug-qp (⭐75)](https://github.com/slhck/ffmpeg-debug-qp)  - FFmpeg Debug Script for QP Values
-*   [slhck/ffmpeg-quality-metrics (⭐379)](https://github.com/slhck/ffmpeg-quality-metrics)  - Calculate quality metrics with FFmpeg (SSIM, PSNR, VMAF)
-*   [slhck/scenecut-extractor (⭐67)](https://github.com/slhck/scenecut-extractor)  - Extract scenecuts from video files using ffmpeg
+*   [slhck/ffmpeg-quality-metrics (⭐409)](https://github.com/slhck/ffmpeg-quality-metrics)  - Calculate quality metrics with FFmpeg (SSIM, PSNR, VMAF)
+*   [slhck/scenecut-extractor (⭐76)](https://github.com/slhck/scenecut-extractor)  - Extract scenecuts from video files using ffmpeg
 
 ## [28. Awesome Seed Rs](/content/seed-rs/awesome-seed-rs/week/README.md)
 
@@ -465,23 +464,29 @@
 
 ### Related
 
-*   [StumbleUponAwesome (⭐353)](https://github.com/basharovV/StumbleUponAwesome) - Discover random pages from the Awesome dataset using a browser extension.
+*   [StumbleUponAwesome (⭐380)](https://github.com/basharovV/StumbleUponAwesome) - Discover random pages from the Awesome dataset using a browser extension.
 
 ## [30. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Bluetooth
 
-*   [BerkananSDK (⭐206)](https://github.com/zssz/BerkananSDK) - Mesh messaging SDK with the goal to create a decentralized mesh network for the people, powered by their device's Bluetooth antenna.
+*   [BerkananSDK (⭐208)](https://github.com/zssz/BerkananSDK) - Mesh messaging SDK with the goal to create a decentralized mesh network for the people, powered by their device's Bluetooth antenna.
 
-## [31. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [31. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+
+### Components & Libraries / Frameworks
+
+*   [DataFormsJS (⭐191)](https://github.com/dataformsjs/dataformsjs) - A minimal routing and web service framework that uses Vue as a templating engine.
+
+## [32. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Files and Directories / Directory Listing
 
-*   [alder (⭐219)](https://github.com/aweary/alder) - Minimal `tree` with colors.
-*   [tre (⭐670)](https://github.com/dduan/tre) - `tree` with git awareness, editor aliasing, and more.
-*   [ll (⭐45)](https://github.com/antonmedv/ll) - `ls` with git status.
+*   [alder (⭐228)](https://github.com/aweary/alder) - Minimal `tree` with colors.
+*   [tre (⭐870)](https://github.com/dduan/tre) - `tree` with git awareness, editor aliasing, and more.
+*   [ll (⭐47)](https://github.com/antonmedv/ll) - `ls` with git status.
 
-## [32. Awesome Mobile Web Development](/content/myshov/awesome-mobile-web-development/week/README.md)
+## [33. Awesome Mobile Web Development](/content/myshov/awesome-mobile-web-development/week/README.md)
 
 ### Articles and Documentation
 
@@ -492,41 +497,37 @@
 *   [Screen Sizes](http://screensiz.es/phone) - A list of screen sizes of all popular smartphones.
 *   [Shiny (⭐2.8k)](https://github.com/rikschennink/shiny) - Shiny reflections for mobile websites.
 
-## [33. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [34. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Framework Extras
 
-*   [LaravelS (⭐3.8k)](https://github.com/hhxsv5/laravel-s) - An out-of-the-box adapter between Laravel/Lumen and Swoole.
+*   [LaravelS (⭐3.9k)](https://github.com/hhxsv5/laravel-s) - An out-of-the-box adapter between Laravel/Lumen and Swoole.
 
-### Table of Contents / Micro Frameworks
-
-*   [Laravel-Zero](https://laravel-zero.com) - A micro-framework for console applications.
-
-## [34. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
+## [35. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
 
 ### Communication
 
 *   [Whereby](https://whereby.com/) - Video conference online. Create any room like `whereby.com/some-room` and starting chatting.
 
-## [35. Awesome Arch](/content/PandaFoss/Awesome-Arch/week/README.md)
+## [36. Awesome Arch](/content/PandaFoss/Awesome-Arch/week/README.md)
 
 ### Other projects / Other
 
 *   [archlinux/base](https://hub.docker.com/r/archlinux/base/) - A docker image based on Arch Linux.
 
-## [36. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
+## [37. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
 
 ### Functional Programming
 
 *   [Solving Problems The Clojure Way](https://www.youtube.com/watch?v=vK1DazRK_a0) by **Rafal Dittwald** \[01:02:25]
 
-## [37. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
+## [38. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
 ### Videos
 
 *   [Quantum Impact](https://www.youtube.com/playlist?list=PLFPUGjQjckXFsOEBvvaDeIk5GxctP0ZhX) - Understand how quantum computing can help scientists solve some of the world's most challenging problems such as land optimisation.
 
-## [38. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/week/README.md)
+## [39. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/week/README.md)
 
 ### Papers / The Network and Distributed System Security Symposium (NDSS)
 
@@ -539,42 +540,42 @@
 
 *   [MEUZZ: Smart Seed Scheduling for Hybrid Fuzzing, 2020](https://arxiv.org/abs/2002.08568)
 
-## [39. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [40. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Utilities / To-Do Lists
 
 *   [Todoist](https://todoist.com/mac) - Cross-platform todo list app. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/todoist-to-do-list-tasks/id585829637?mt=12)
 
-## [40. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [41. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Asynchronous Event Loop
 
-*   [libhv (⭐6.6k)](https://github.com/ithewei/libhv) - Cross-platform event loop library. \[BSD]
+*   [libhv (⭐6.9k)](https://github.com/ithewei/libhv) - Cross-platform event loop library. \[BSD]
 
 ### Concurrency
 
-*   [HPX (⭐2.5k)](https://github.com/STEllAR-GROUP/hpx/) - A general purpose C++ runtime system for parallel and distributed applications of any scale. \[Boost]
-*   [Kokkos (⭐1.8k)](https://github.com/kokkos/kokkos) - A performance portable programming model for parallel execution and memory abstraction. \[BSD]
-*   [marl (⭐1.8k)](https://github.com/google/marl) - Marl is a hybrid thread / fiber task scheduler written in C++ 11. \[Apache-2.0]
-*   [Quantum (⭐572)](https://github.com/bloomberg/quantum) - A powerful C++ coroutine dispatcher framework built on top of [Boost.Coroutine2](https://boost.org/libs/coroutine2).
+*   [HPX (⭐2.6k)](https://github.com/STEllAR-GROUP/hpx/) - A general purpose C++ runtime system for parallel and distributed applications of any scale. \[Boost]
+*   [Kokkos (⭐2.1k)](https://github.com/kokkos/kokkos) - A performance portable programming model for parallel execution and memory abstraction. \[BSD]
+*   [marl (⭐1.9k)](https://github.com/google/marl) - Marl is a hybrid thread / fiber task scheduler written in C++ 11. \[Apache-2.0]
+*   [Quantum (⭐580)](https://github.com/bloomberg/quantum) - A powerful C++ coroutine dispatcher framework built on top of [Boost.Coroutine2](https://boost.org/libs/coroutine2).
 
 ### Game Engine
 
-*   [crown (⭐2.1k)](https://github.com/dbartolini/crown) - Crown is a general purpose data-driven game engine, written from scratch in orthodox C++ with a minimalistic and data-oriented design philosophy in mind. \[MIT]
+*   [crown (⭐1)](https://github.com/dbartolini/crown) - Crown is a general purpose data-driven game engine, written from scratch in orthodox C++ with a minimalistic and data-oriented design philosophy in mind. \[MIT]
 
 ### Logging
 
-*   [Quill (⭐1.2k)](https://github.com/odygrd/quill) - Asynchronous cross platform low latency logging library. \[MIT]
+*   [Quill (⭐1.9k)](https://github.com/odygrd/quill) - Asynchronous cross platform low latency logging library. \[MIT]
 
 ### Math
 
-*   [Klein (⭐745)](https://github.com/jeremyong/klein) - A fast, SIMD-optimized C++17 Geometric Algebra library for point, line, and plane projections, intersections, joins, rigid-body motion, and more. \[MIT] [website](https://jeremyong.com/klein)
+*   [Klein (⭐763)](https://github.com/jeremyong/klein) - A fast, SIMD-optimized C++17 Geometric Algebra library for point, line, and plane projections, intersections, joins, rigid-body motion, and more. \[MIT] [website](https://jeremyong.com/klein)
 
 ### Networking
 
-*   [tlse (⭐535)](https://github.com/eduardsui/tlse) - Single C file TLS 1.2/1.3 implementation, using tomcrypt as crypto library \[BSD-2-Clause]
+*   [tlse (⭐583)](https://github.com/eduardsui/tlse) - Single C file TLS 1.2/1.3 implementation, using tomcrypt as crypto library \[BSD-2-Clause]
 
-## [41. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [42. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Tools for Teams and Collaboration
 
@@ -591,13 +592,13 @@
 *   [Everything Fonts](https://everythingfonts.com/) - Offers multiple tools; @font-face, Units Converter, Font Hinter and Font Submitter.
 *   [Font Squirrel](https://www.fontsquirrel.com/) - Freeware fonts licensed for commercial work. Hand-selected these typefaces and presented them in an easy-to-use format.
 
-## [42. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [43. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### WebSocket
 
-*   [Websocket.Client (⭐680)](https://github.com/Marfusios/websocket-client) - A multiplatform wrapper over native C# class ClientWebSocket with built-in reconnection and error handling.
+*   [Websocket.Client (⭐701)](https://github.com/Marfusios/websocket-client) - A multiplatform wrapper over native C# class ClientWebSocket with built-in reconnection and error handling.
 
-## [43. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [44. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### UI Layout / Syntax Highlight
 
@@ -607,64 +608,53 @@
 
 *   [DataFormsJS JSX Loader (⭐184)](https://github.com/dataformsjs/dataformsjs/blob/master/docs/jsx-loader.md) - Small JavaScript Compiler for quickly converting JSX to JS directly on a web page.
 
-## [44. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
+## [45. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
 
 ### Community Resources / Blogs and Scholarship
 
 *   [Web Archiving Roundtable](https://webarchivingrt.wordpress.com/) - Unofficial blog of the Web Archiving Roundtable of the [Society of American Archivists](https://www2.archivists.org/) maintained by the members of the Web Archiving Roundtable.
 
-## [45. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [46. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### UI
 
-*   [Credit Card Form (⭐494)](https://github.com/Origogi/Flutter-Credit-Card-Input) <!--stargazers:Origogi/Flutter-Credit-Card-Input--> - Animated credit card input form [Origogi](https://github.com/Origogi).
+*   [Credit Card Form (⭐491)](https://github.com/Origogi/Flutter-Credit-Card-Input) <!--stargazers:Origogi/Flutter-Credit-Card-Input--> - Animated credit card input form [Origogi](https://github.com/Origogi).
 
 ### Auth / Image Picker
 
-*   [Firebase Auth (⭐8.5k)](https://github.com/FirebaseExtended/flutterfire/tree/master/packages/firebase_auth) - Firebase OAuth
+*   [Firebase Auth (⭐8.8k)](https://github.com/FirebaseExtended/flutterfire/tree/master/packages/firebase_auth) - Firebase OAuth
 
 ### Analytics / Image Picker
 
-*   [Firebase Analytics (⭐8.5k)](https://github.com/FirebaseExtended/flutterfire/tree/master/packages/firebase_analytics) - Connect to Firebase Analytics API
+*   [Firebase Analytics (⭐8.8k)](https://github.com/FirebaseExtended/flutterfire/tree/master/packages/firebase_analytics) - Connect to Firebase Analytics API
 
 ### Storage / Voice
 
-*   [Firebase Storage (⭐8.5k)](https://github.com/FirebaseExtended/flutterfire/tree/master/packages/firebase_storage) - Firebase as data storage
+*   [Firebase Storage (⭐8.8k)](https://github.com/FirebaseExtended/flutterfire/tree/master/packages/firebase_storage) - Firebase as data storage
 
 ### Monetization / Preferences
 
-*   [Firebase AdMob (⭐8.5k)](https://github.com/FirebaseExtended/flutterfire/tree/master/packages/firebase_admob) - Ad integration using Firebase
+*   [Firebase AdMob (⭐8.8k)](https://github.com/FirebaseExtended/flutterfire/tree/master/packages/firebase_admob) - Ad integration using Firebase
 
 ### Game / Redux / ELM / Dependency Injection
 
-*   [Flame (⭐9k)](https://github.com/flame-engine/flame) <!--stargazers:flame-engine/flame--> - Minimalist game engine by [Luan Nico](https://github.com/luanpotter)
+*   [Flame (⭐9.3k)](https://github.com/flame-engine/flame) <!--stargazers:flame-engine/flame--> - Minimalist game engine by [Luan Nico](https://github.com/luanpotter)
 
 ### Game / Open source games
 
 *   [Flip (⭐263)](https://github.com/RedBrogdon/flutterflip) <!--stargazers:RedBrogdon/flutterflip--> - Reversi game by [Andrew Brogdon](https://github.com/RedBrogdon)
-*   [2048 (⭐335)](https://github.com/anuranBarman/2048) <!--stargazers:anuranBarman/2048--> - 2048 game by [Anuran Barman](https://github.com/anuranBarman)
+*   [2048 (⭐344)](https://github.com/anuranBarman/2048) <!--stargazers:anuranBarman/2048--> - 2048 game by [Anuran Barman](https://github.com/anuranBarman)
 *   [TRex (⭐6)](https://github.com/renancaraujo/trex-flame) <!--stargazers:renancaraujo/trex-flame--> - Port of the famous Chrome's Trex game by [Renan C. Araújo](https://github.com/renancaraujo)
-*   [Crush (⭐563)](https://github.com/boeledi/flutter_crush) <!--stargazers:boeledi/flutter_crush--> - How to build a Math-3 game, like Candy Crush, Bejeweled by [Didier Boelens](https://didierboelens.com)
-*   [Slide Puzzle (⭐178)](https://github.com/kevmoo/slide_puzzle) <!--stargazers:kevmoo/slide_puzzle--> - Classic slide (15) puzzle by [Kevin Moore](https://github.com/kevmoo)
+*   [Crush (⭐585)](https://github.com/boeledi/flutter_crush) <!--stargazers:boeledi/flutter_crush--> - How to build a Math-3 game, like Candy Crush, Bejeweled by [Didier Boelens](https://didierboelens.com)
+*   [Slide Puzzle (⭐179)](https://github.com/kevmoo/slide_puzzle) <!--stargazers:kevmoo/slide_puzzle--> - Classic slide (15) puzzle by [Kevin Moore](https://github.com/kevmoo)
 *   [Tetris (⭐1.6k)](https://github.com/boyan01/flutter-tetris) <!--stargazers:boyan01/flutter-tetris--> - Tetris game by [YangBin](https://github.com/boyan01)
-*   [Party Charades (⭐207)](https://github.com/vintage/party_flutter) <!--stargazers:vintage/party_flutter--> - Party charades by [Kamil Rykowski](https://github.com/vintage)
+*   [Party Charades (⭐208)](https://github.com/vintage/party_flutter) <!--stargazers:vintage/party_flutter--> - Party charades by [Kamil Rykowski](https://github.com/vintage)
 
-## [46. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [47. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Extensions
 
-*   [Next universal language detector (⭐85)](https://github.com/UnlyEd/universal-language-detector) - Language detector that works universally (browser + server) - Meant to be used with a universal framework, such as Next.js [DEMO](https://universal-language-detector.now.sh/)
-
-## [47. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
-
-### Community / Forums
-
-*   [JMeter Google Group](https://groups.google.com/forum/#!forum/ptgram24)
-*   [JMeterPlugins Google Group](https://groups.google.com/forum/#!forum/jmeter-plugins)
-
-### Related / Awesome Lists
-
-*   [Awesome Gatling (⭐63)](https://github.com/aliesbelik/awesome-gatling) - Open-source load and performance testing framework based on Scala, Akka and Netty.
+*   [Next universal language detector (⭐95)](https://github.com/UnlyEd/universal-language-detector) - Language detector that works universally (browser + server) - Meant to be used with a universal framework, such as Next.js [DEMO](https://universal-language-detector.now.sh/)
 
 ## [48. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
 
@@ -680,7 +670,7 @@
 
 ### Community Extensions
 
-*   [Keycloak Discord Support (⭐119)](https://github.com/wadahiro/keycloak-discord)
+*   [Keycloak Discord Support (⭐133)](https://github.com/wadahiro/keycloak-discord)
 
 ## [50. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
@@ -702,14 +692,7 @@
 
 *   [TimeSide (Beta) (⭐351)](https://github.com/Parisson/TimeSide/tree/dev) [:octocat: (⭐351)](https://github.com/Parisson/TimeSide/tree/dev) - high level audio analysis, imaging, transcoding, streaming and labelling.
 
-## [52. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
-
-### Components & Libraries / Frameworks
-
-*   [DataFormsJS (⭐185)](https://github.com/dataformsjs/dataformsjs) - A minimal routing and web service framework that uses Vue as a templating engine.
-*   [vue-service-model (⭐19)](https://github.com/freakzlike/vue-service-model) - Vue.js library for handling REST service requests with caching, aggregation and model definitions.
-
-## [53. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
+## [52. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
 ### Programming Languages/Frameworks/Platforms / Java
 
@@ -724,33 +707,33 @@
 
 *   [160+ Data Science Interview Questions](https://hackernoon.com/160-data-science-interview-questions-415s3y2a)
 
-## [54. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [53. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Runtime / Playground
 
-*   [type-plus (⭐365)](https://github.com/unional/type-plus) - Additional types and type adjusted utilities
+*   [type-plus (⭐381)](https://github.com/unional/type-plus) - Additional types and type adjusted utilities
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [sub-events (⭐36)](https://github.com/vitaly-t/sub-events) - Strongly-typed events.
+*   :octocat: [sub-events (⭐38)](https://github.com/vitaly-t/sub-events) - Strongly-typed events.
 
-## [55. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [54. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### Bindings to Other Languages / Apache License
 
 *   [tcl-ada-shell (⭐9)](https://github.com/simonjwright/tcladashell) - Tcl Ada SHell (Tash) is an Ada binding to Tcl/Tk.
 
-## [56. Awesome Sass](/content/Famolus/awesome-sass/week/README.md)
+## [55. Awesome Sass](/content/Famolus/awesome-sass/week/README.md)
 
 ### Libraries and Mixins / Miscellaneous
 
 *   [Buttono (⭐83)](https://github.com/hsnaydd/buttono) - A flexible Sass mixin for creating BEM-style buttons.
 
-## [57. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
+## [56. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
 ### Learning Guides
 
-*   [Learn Elm (⭐477)](https://github.com/dwyl/learn-elm) - Discover the beautiful programming language that makes front-end web apps a joy to build and maintain!
+*   [Learn Elm (⭐484)](https://github.com/dwyl/learn-elm) - Discover the beautiful programming language that makes front-end web apps a joy to build and maintain!
 
 ### Conference Videos / Playlists
 
@@ -761,15 +744,15 @@
 
 ### Community and Support / Games
 
-*   [Companies using Elm (⭐461)](https://github.com/jah2488/elm-companies) - A list of companies using Elm in production.
+*   [Companies using Elm (⭐470)](https://github.com/jah2488/elm-companies) - A list of companies using Elm in production.
 
-## [58. Awesome React](/content/enaqx/awesome-react/week/README.md)
+## [57. Awesome React](/content/enaqx/awesome-react/week/README.md)
 
 ### React Graphics and Animations
 
-*   [react-parallax-tilt (⭐900)](https://github.com/mkosir/react-parallax-tilt) - Easily apply tilt hover effect on React components
+*   [react-parallax-tilt (⭐982)](https://github.com/mkosir/react-parallax-tilt) - Easily apply tilt hover effect on React components
 
-## [59. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [58. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Table of Contents / Tutorials
 

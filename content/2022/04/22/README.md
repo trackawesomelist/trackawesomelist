@@ -19,14 +19,14 @@
 ### :wrench: Tools / Before 2000
 
 *   [Capstone](https://www.capstone-engine.org) - Lightweight multi-platform, multi-architecture disassembly framework.
-*   [PANDA (⭐2.4k)](https://github.com/panda-re/panda) - Platform for Architecture-Neutral Dynamic Analysis.
-*   [ShowStopper (⭐193)](https://github.com/CheckPointSW/showstopper) - Tool to help malware researchers explore and test anti-debug techniques or verify debugger plugins or other solutions that clash with standard anti-debug methods.
+*   [PANDA (⭐2.5k)](https://github.com/panda-re/panda) - Platform for Architecture-Neutral Dynamic Analysis.
+*   [ShowStopper (⭐197)](https://github.com/CheckPointSW/showstopper) - Tool to help malware researchers explore and test anti-debug techniques or verify debugger plugins or other solutions that clash with standard anti-debug methods.
 
 ## [2. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/README.md)
 
 ### AppImage consumption tools / Package managers
 
-*   [ayy (⭐15)](https://github.com/lawl/ayy) - Package manager for AppImage. Single, static, dependency free binary. Written in Go.
+*   [ayy (⭐16)](https://github.com/lawl/ayy) - Package manager for AppImage. Single, static, dependency free binary. Written in Go.
 
 ## [3. Awesome Gatling](/content/aliesbelik/awesome-gatling/README.md)
 
@@ -45,7 +45,7 @@
 
 ### Storage / Scala
 
-*   [Citus (⭐10k)](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension.
+*   [Citus (⭐11k)](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension.
 
 ## [6. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
@@ -57,7 +57,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [FAIRshare (⭐75)](https://github.com/fairdataihub/FAIRshare) - Sharing biomedical research data and software according to applicable FAIR guidelines
+*   [FAIRshare (⭐77)](https://github.com/fairdataihub/FAIRshare) - Sharing biomedical research data and software according to applicable FAIR guidelines
 
 ## [8. Awesome Dart](/content/yissachar/awesome-dart/README.md)
 

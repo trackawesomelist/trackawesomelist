@@ -10,9 +10,9 @@
 
 ### Plugins / Generators
 
-*   [Secretize (⭐68)](https://github.com/bbl/secretize) - Generating Kubernetes Secret from various sources. It's like a swiss army knife, but for Kubernetes secrets (Exec).
-*   [SopsSecretGenerator (⭐113)](https://github.com/goabout/kustomize-sopssecretgenerator/) - Generating Secrets from sops-encrypted files (Exec, Exec KRM).
-*   [KSops (⭐628)](https://github.com/viaduct-ai/kustomize-sops) - Generating Secrets from sops-encrypted files (Exec).
+*   [Secretize (⭐69)](https://github.com/bbl/secretize) - Generating Kubernetes Secret from various sources. It's like a swiss army knife, but for Kubernetes secrets (Exec).
+*   [SopsSecretGenerator (⭐114)](https://github.com/goabout/kustomize-sopssecretgenerator/) - Generating Secrets from sops-encrypted files (Exec, Exec KRM).
+*   [KSops (⭐639)](https://github.com/viaduct-ai/kustomize-sops) - Generating Secrets from sops-encrypted files (Exec).
 *   [PolicyGenerator (⭐29)](https://github.com/open-cluster-management-io/policy-generator-plugin) - Generating Open Cluster Management policies (Exec).
 
 ### Plugins / Transformers
@@ -26,20 +26,20 @@
 
 ### Misc / Tips & Tricks
 
-*   [Asdf-kustomize (⭐21)](https://github.com/Banno/asdf-kustomize) - Kustomize plugin for asdf version manager.
+*   [Asdf-kustomize (⭐22)](https://github.com/Banno/asdf-kustomize) - Kustomize plugin for asdf version manager.
 
 ### Related lists / Tips & Tricks
 
 *   [Awesome Kubernetes (⭐15k)](https://github.com/ramitsurana/awesome-kubernetes) - A curated list of awesome Kubernetes resources.
-*   [Awesome Kubectl plugins (⭐884)](https://github.com/ishantanu/awesome-kubectl-plugins) - A curated list of awesome Kubectl plugins.
-*   [Awesome Helm (⭐921)](https://github.com/cdwv/awesome-helm) - A curated list of awesome Helm charts and resources.
+*   [Awesome Kubectl plugins (⭐897)](https://github.com/ishantanu/awesome-kubectl-plugins) - A curated list of awesome Kubectl plugins.
+*   [Awesome Helm (⭐932)](https://github.com/cdwv/awesome-helm) - A curated list of awesome Helm charts and resources.
 
 ## [2. Awesome Directus](/content/directus-community/awesome-directus/README.md)
 
 ### Examples / Showcases / Personal
 
-*   [Agency OS (⭐405)](https://github.com/directus-community/agency-os) - Fully complete, opinionated agency website template featuring Nuxt and Directus. View [Demo](https://www.agencyos.dev/).
-*   [Nextus (⭐47)](https://github.com/luochuanyuewu/nextus) - A comprehensive, versatile and modern website template based on Nextjs and Directus technologies. It helps you build various types of websites more quickly. View [Demo](https://nextus.vercel.app/en).
+*   [Agency OS (⭐593)](https://github.com/directus-community/agency-os) - Fully complete, opinionated agency website template featuring Nuxt and Directus. View [Demo](https://www.agencyos.dev/).
+*   [Nextus (⭐73)](https://github.com/luochuanyuewu/nextus) - A comprehensive, versatile and modern website template based on Nextjs and Directus technologies. It helps you build various types of websites more quickly. View [Demo](https://nextus.vercel.app/en).
 
 ## [3. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 
@@ -51,11 +51,11 @@
 
 ### Games
 
-*   [Puzzle Vibes (⭐15)](https://github.com/Larpon/puzzle_vibes) - A jigsaw-like puzzle game written in V using `shy`.
+*   [Puzzle Vibes (⭐16)](https://github.com/Larpon/puzzle_vibes) - A jigsaw-like puzzle game written in V using `shy`.
 
 ### Game development
 
-*   [shy (⭐28)](https://github.com/Larpon/shy) - A foundation that helps you being creative in V.
+*   [shy (⭐57)](https://github.com/Larpon/shy) - A foundation that helps you being creative in V.
 
 ## [5. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -75,9 +75,9 @@
 
 *   [The TextFX project](https://textfx.withgoogle.com/): "AI-powered tools for rappers, writers and wordsmiths" (partnership between Lupe Fiasco and Google)
 
-### Inbox: Speech-to-text (STT) and spoken content analysis / Deforum
+### Speech-to-text (STT) and spoken content analysis / Deforum
 
-*   [geekan/MetaGPT (⭐42k)](https://github.com/geekan/MetaGPT): the multi-agent framework that, give one line requirement, return PRD, design, tasks, repo
+*   [geekan/MetaGPT (⭐46k)](https://github.com/geekan/MetaGPT): the multi-agent framework that, give one line requirement, return PRD, design, tasks, repo
 
 ### Inbox: Stable Diffusion / Stable Diffusion Deployed Web Tools
 
@@ -93,14 +93,14 @@
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [chaos (⭐1)](https://github.com/kusamaxi/chaos-zsh) - Inspired by dogenpunk and smt themes, optimized for `git` users and Python developers. Includes decorators for `git` status, python virtual environment, background jobs, error status of last command, user\@hostname and current directory. Requires a font with emoji.
-*   [xbira (⭐0)](https://github.com/ITAxReal/xbira) - Based on [bira (⭐172k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/bira.zsh-theme), includes decorators for `git` status, user\@hostname, exit status of last command run and the current directory.
+*   [chaos (⭐0)](https://github.com/kusamaxi/chaos-zsh) - Inspired by dogenpunk and smt themes, optimized for `git` users and Python developers. Includes decorators for `git` status, python virtual environment, background jobs, error status of last command, user\@hostname and current directory. Requires a font with emoji.
+*   [xbira (⭐0)](https://github.com/ITAxReal/xbira) - Based on [bira (⭐175k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/bira.zsh-theme), includes decorators for `git` status, user\@hostname, exit status of last command run and the current directory.
 
 ## [8. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
 ### Code Analysis
 
-*   🍰 [IdeHelperExtra plugin (⭐2)](https://github.com/dereuromark/cakephp-ide-helper-extra) - Useful IdeHelper addons for other plugins or custom use cases.
+*   [IdeHelperExtra plugin (⭐2)](https://github.com/dereuromark/cakephp-ide-helper-extra) - Useful IdeHelper addons for other plugins or custom use cases.
 
 ---
 

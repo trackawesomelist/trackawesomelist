@@ -22,23 +22,23 @@
 
 ### Utilities
 
-*   [go-tripper (⭐10)](https://github.com/rajnandan1/go-tripper) - Tripper is a circuit breaker package for Go that allows you to circuit and control the status of circuits.
+*   [go-tripper (⭐12)](https://github.com/rajnandan1/go-tripper) - Tripper is a circuit breaker package for Go that allows you to circuit and control the status of circuits.
 
 ## [4. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Developer Tools / Command Line Tools
 
-*   [bclm (⭐1.9k)](https://github.com/zackelia/bclm) - macOS command-line utility to limit max battery charge. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/zackelia/bclm) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [bclm (⭐2k)](https://github.com/zackelia/bclm) - macOS command-line utility to limit max battery charge. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/zackelia/bclm) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [5. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Communication - Custom Communication Systems
 
-*   [Synapse](https://element-hq.github.io/synapse/latest/index.html) - Server for [Matrix](https://matrix.org/), an open standard for decentralized persistent communication. ([Source Code (⭐1.6k)](https://github.com/element-hq/synapse)) `Apache-2.0` `Python/deb`
+*   [Synapse](https://element-hq.github.io/synapse/latest/index.html) - Server for [Matrix](https://matrix.org/), an open standard for decentralized persistent communication. ([Source Code (⭐1.8k)](https://github.com/element-hq/synapse)) `Apache-2.0` `Python/deb`
 
 ### Software / Software Development - Low Code
 
-*   [Manifest](https://manifest.build) - A complete backend that fits into 1 YAML file. ([Demo](https://manifest.new), [Source Code (⭐789)](https://github.com/mnfst/manifest)) `MIT` `Nodejs`
+*   [Manifest](https://manifest.build) - A complete backend that fits into 1 YAML file. ([Demo](https://manifest.new), [Source Code (⭐1.1k)](https://github.com/mnfst/manifest)) `MIT` `Nodejs`
 
 ## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -72,8 +72,9 @@
 
 ### Other / [Other](#other-1)
 
-*   [mdsf (⭐22)](https://github.com/hougesen/mdsf) — Format markdown code blocks using your favorite code formatters.
+*   [mdsf (⭐28)](https://github.com/hougesen/mdsf) — Format markdown code blocks using your favorite code formatters.
 
 ---
 
+- Prev: [Nov 17, 2024](/content/2024/11/17/README.md)
 - Next: [Nov 15, 2024](/content/2024/11/15/README.md)

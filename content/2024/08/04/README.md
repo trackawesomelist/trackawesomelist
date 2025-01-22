@@ -16,25 +16,25 @@
 
 ### Driver crates / WIP
 
-*   [SSD1322\_rs](https://crates.io/crates/ssd1322_rs) - SPI - Async graphics driver for SSD1322 screen - ![crates.io](https://img.shields.io/crates/v/ssd1322_rs.svg)
+*   [SSD1322\_rs](https://crates.io/crates/ssd1322_rs) - SPI - Async graphics driver for SSD1322 screen - [![crates.io](https://img.shields.io/crates/v/ssd1322_rs.svg)](https://crates.io/crates/ssd1322_rs)
 
 ## [3. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Artificial Intelligence
 
-*   [perpetual-ml/perpetual (⭐122)](https://github.com/perpetual-ml/perpetual) \[[perpetual](https://crates.io/crates/perpetual)] - A self-generalizing gradient boosting machine which doesn't need hyperparameter optimization.
+*   [perpetual-ml/perpetual (⭐358)](https://github.com/perpetual-ml/perpetual) \[[perpetual](https://crates.io/crates/perpetual)] - A self-generalizing gradient boosting machine which doesn't need hyperparameter optimization.
 
 ## [4. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
-### Plugins and scripts / Godot 4.2+
+### Plugins and scripts / Godot 4
 
-*   [PixelPen (⭐64)](https://github.com/pixelpen-dev/pixelpen) - Pixel art drawing and animation: Common drawing tools such as selection, shape creation, mirroring, tiling, and animation features within the Godot editor.
+*   [PixelPen (⭐109)](https://github.com/pixelpen-dev/pixelpen) - Pixel art drawing and animation: Common drawing tools such as selection, shape creation, mirroring, tiling, and animation features within the Godot editor.
 
 ## [5. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### Authentication / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ng-supabase (⭐20)](https://github.com/rustygreen/ng-supabase) - An Angular component library for your [Supabase](https://supabase.com/) project!
+*   [ng-supabase (⭐27)](https://github.com/rustygreen/ng-supabase) - An Angular component library for your [Supabase](https://supabase.com/) project!
 
 ### Deployment / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -42,32 +42,32 @@
 
 ### Internationalization / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-translate-router (⭐130)](https://github.com/gilsdav/ngx-translate-router) - Translate routes using `ngx-translate`.
+*   [ngx-translate-router (⭐132)](https://github.com/gilsdav/ngx-translate-router) - Translate routes using `ngx-translate`.
 
 ### Calendars / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [angular-calendar-timeline (⭐14)](https://github.com/oOps1627/angular-calendar-timeline) - A timeline for Angular 13+ that shows tasks or events on a timeline in different modes: days, weeks, and months. This library is pretty small and DOESN'T use big dependencies like JQuery or Moment.js. Library also supports SSR.
+*   [angular-calendar-timeline (⭐15)](https://github.com/oOps1627/angular-calendar-timeline) - A timeline for Angular 13+ that shows tasks or events on a timeline in different modes: days, weeks, and months. This library is pretty small and DOESN'T use big dependencies like JQuery or Moment.js. Library also supports SSR.
 
 ### Editor Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [tinymce-angular (⭐324)](https://github.com/tinymce/tinymce-angular) - Official [TinyMCE](https://www.tiny.cloud/) Angular Component.
+*   [tinymce-angular (⭐334)](https://github.com/tinymce/tinymce-angular) - Official [TinyMCE](https://www.tiny.cloud/) Angular Component.
 
 ### Form Controls / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-autosize-input (⭐20)](https://github.com/joshuawwright/ngx-autosize-input) - An Angular directive that automatically adjusts the width of an input element. It shrinks and increases the width.
+*   [ngx-autosize-input (⭐22)](https://github.com/joshuawwright/ngx-autosize-input) - An Angular directive that automatically adjusts the width of an input element. It shrinks and increases the width.
 
 ### QR Codes / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ng-qrcode (⭐51)](https://github.com/mnahkies/ng-qrcode) - Easy to use AOT compatible QR code generator for Angular projects.
+*   [ng-qrcode (⭐56)](https://github.com/mnahkies/ng-qrcode) - Easy to use AOT compatible QR code generator for Angular projects.
 *   [dfts-qrcode (⭐3)](https://github.com/Dafnik/dfts-common/tree/main/libs/dfts-qrcode) - A tiny and simple-to-use JavaScript / TypeScript QR-Code generator library. Fully type-safe and ES modules compatible.
-*   [ngx-scanner (⭐635)](https://github.com/zxing-js/ngx-scanner) - Angular QR code, Barcode, DataMatrix, scanner component using ZXing.
+*   [ngx-scanner (⭐645)](https://github.com/zxing-js/ngx-scanner) - Angular QR code, Barcode, DataMatrix, scanner component using ZXing.
 *   [qrcode.angular (⭐1)](https://github.com/OriginRing/qrcode.angular) - QR Code implementation based on Angular.
 
 ## [6. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Libraries / Chrome Extensions
 
-*   [duckduckgo-ai-chat (⭐15)](https://github.com/mumu-lhl/duckduckgo-ai-chat) - Providing Duckduckgo AI Chat API, which can use gpt-4o-mini for free.
+*   [duckduckgo-ai-chat (⭐66)](https://github.com/mumu-lhl/duckduckgo-ai-chat) - Providing Duckduckgo AI Chat API, which can use gpt-4o-mini for free.
 
 ---
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 05, 2021
 
-15 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -53,17 +53,17 @@
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-handlebars (⭐171)](https://github.com/alexlafroscia/vite-plugin-handlebars) - Process HTML files with Handlebars.
+*   [vite-plugin-handlebars (⭐189)](https://github.com/alexlafroscia/vite-plugin-handlebars) - Process HTML files with Handlebars.
 
 ## [6. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Plugin Manager
 
-*   [savq/paq-nvim (⭐645)](https://github.com/savq/paq-nvim) - Neovim package manager written in Lua.
+*   [savq/paq-nvim (⭐668)](https://github.com/savq/paq-nvim) - Neovim package manager written in Lua.
 
 ### Git / Diagnostics
 
-*   [tveskag/nvim-blame-line (⭐182)](https://github.com/tveskag/nvim-blame-line) - A small plugin that uses neovims virtual text to print git blame info at the end of the current line.
+*   [tveskag/nvim-blame-line (⭐184)](https://github.com/tveskag/nvim-blame-line) - A small plugin that uses Neovim's virtual text to print Git blame info at the end of the current line.
 
 ## [7. awsm.fish](/content/jorgebucaran/awsm.fish/README.md)
 
@@ -98,15 +98,15 @@
 *   [**MVP.css**](https://andybrewer.github.io/mvp/) - Minimalist stylesheet for HTML elements.\
     ![](https://img.shields.io/github/stars/andybrewer/mvp.svg?style=social\&label=Star)
     [Docs](https://andybrewer.github.io/mvp/#docs),
-    [Repo (⭐4.9k)](https://github.com/andybrewer/mvp/)
+    [Repo (⭐5k)](https://github.com/andybrewer/mvp/)
     \| #CSS
 
 ### Specialized
 
 *   [**TuiCss**](https://github.com/vinibiavatti1/TuiCss) - Library to create MS-DOS interfaces.\
     ![](https://img.shields.io/github/stars/vinibiavatti1/TuiCss.svg?style=social\&label=Star)
-    [Demo (⭐1.5k)](https://github.com/vinibiavatti1/TuiCss/wiki/Examples),
-    [Docs (⭐1.5k)](https://github.com/vinibiavatti1/TuiCss/wiki)
+    [Demo (⭐1.7k)](https://github.com/vinibiavatti1/TuiCss/wiki/Examples),
+    [Docs (⭐1.7k)](https://github.com/vinibiavatti1/TuiCss/wiki)
     \| #SCSS
 
 ### Stalled Development
@@ -118,25 +118,19 @@
     [Repo (⭐12k)](https://github.com/tachyons-css/tachyons/)
     \| #CSS
 
-## [11. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
-
-### Software / Video Surveillance
-
-*   [Kerberos.io](https://kerberos.io) - Kerberos.io is a video surveillance solution, which works with any camera and on every Linux based machine (Raspberry Pi, Docker, Kubernetes cluster). ([Demo](https://demo.kerberos.io/), [Source Code (⭐676)](https://github.com/kerberos-io/agent)) `MIT` `Docker/K8S`
-
-## [12. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [11. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### MVC Frameworks and Libraries / Runner
 
 *   [angular.js (⭐59k)](https://github.com/angular/angular.js) - HTML enhanced for web apps. (deprecated)
-*   [angular (⭐95k)](https://github.com/angular/angular) - Angular is a development platform for building mobile and desktop web applications using Typescript/JavaScript and other languages.
-*   [Lucia (⭐738)](https://github.com/aidenybai/lucia) - 3kb library for tiny web apps.
+*   [angular (⭐96k)](https://github.com/angular/angular) - Angular is a development platform for building mobile and desktop web applications using Typescript/JavaScript and other languages.
+*   [Lucia (⭐737)](https://github.com/aidenybai/lucia) - 3kb library for tiny web apps.
 
 ### Date / Runner
 
 *   [luxon (⭐15k)](https://github.com/moment/luxon) - Luxon is a library for working with dates and times in JavaScript.
 
-## [13. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/README.md)
+## [12. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/README.md)
 
 ### CMS / Blogs
 
@@ -150,13 +144,13 @@
 
 *   [Obsidian](https://obsidian.md/) - Notebook editor with Mermaid support ![Mac OS X](https://img.icons8.com/color/24/mac-logo.png "Mac OS X") ![Linux](https://img.icons8.com/color/24//linux--v1.png "Linux") ![Windows](https://img.icons8.com/color/24/windows-11.png "Windows")
 
-## [14. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
+## [13. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
 ### Courses
 
 *   [User Strategy Development with Wardley Maps in Miro](https://www.coursera.org/projects/user-strategy-development-wardley-maps-miro) - Tricia Bagley, Coursera Project Network.
 
-## [15. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
+## [14. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
 ### Open Source / Svelte
 

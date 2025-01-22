@@ -36,11 +36,11 @@
 
 ### UI / Drawers
 
-*   [Hidden Drawer Menu (⭐348)](https://github.com/RafaelBarbosatec/hidden_drawer_menu) <!--stargazers:RafaelBarbosatec/hidden_drawer_menu--> - Beautiful drawer mode menu feature with perspective animations by [Rafael Almeida Barbosa](https://github.com/RafaelBarbosatec).
+*   [Hidden Drawer Menu (⭐352)](https://github.com/RafaelBarbosatec/hidden_drawer_menu) <!--stargazers:RafaelBarbosatec/hidden_drawer_menu--> - Beautiful drawer mode menu feature with perspective animations by [Rafael Almeida Barbosa](https://github.com/RafaelBarbosatec).
 
 ### UI / Sliders
 
-*   [Fluid Slider (⭐323)](https://github.com/rvamsikrishna/flutter_fluid_slider) <!--stargazers:rvamsikrishna/flutter_fluid_slider--> - A slider with a minimal design and fluid like animation by [Vamsi Krishna](https://github.com/rvamsikrishna)
+*   [Fluid Slider (⭐324)](https://github.com/rvamsikrishna/flutter_fluid_slider) <!--stargazers:rvamsikrishna/flutter_fluid_slider--> - A slider with a minimal design and fluid like animation by [Vamsi Krishna](https://github.com/rvamsikrishna)
 
 ### Templates / Preferences
 
@@ -48,8 +48,8 @@
 
 ### Device / Augmented Reality
 
-*   [UDID (⭐235)](https://github.com/GigaDroid/flutter_udid) <!--stargazers:GigaDroid/flutter_udid--> - Persistent UDID across app reinstalls by [Leon Kukuk](https://kukuk.me)
-*   [File Picker (⭐1.3k)](https://github.com/miguelpruivo/plugins_flutter_file_picker) <!--stargazers:miguelpruivo/plugins_flutter_file_picker--> - Native file explorer to load absolute file path by [Miguel Ruivo](https://github.com/miguelpruivo)
+*   [UDID (⭐252)](https://github.com/GigaDroid/flutter_udid) <!--stargazers:GigaDroid/flutter_udid--> - Persistent UDID across app reinstalls by [Leon Kukuk](https://kukuk.me)
+*   [File Picker (⭐1.4k)](https://github.com/miguelpruivo/plugins_flutter_file_picker) <!--stargazers:miguelpruivo/plugins_flutter_file_picker--> - Native file explorer to load absolute file path by [Miguel Ruivo](https://github.com/miguelpruivo)
 
 ### Communication / Game Engine resources
 
@@ -105,9 +105,9 @@
 
 ### Development Environment
 
-*   [GitHub (⭐849)](https://github.com/phillipadsmith/awesome-github#readme) - Hosting service for Git repositories.
+*   [GitHub (⭐876)](https://github.com/phillipadsmith/awesome-github#readme) - Hosting service for Git repositories.
     *   [Browser Extensions (⭐3k)](https://github.com/stefanbuck/awesome-browser-extensions-for-github#readme)
-    *   [Cheat Sheet (⭐47k)](https://github.com/tiimgreen/github-cheat-sheet#readme)
+    *   [Cheat Sheet (⭐49k)](https://github.com/tiimgreen/github-cheat-sheet#readme)
     *   [Pinned Gists (⭐1.9k)](https://github.com/matchai/awesome-pinned-gists#readme) - Dynamic pinned gists for your GitHub profile.
 
 ## [10. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/README.md)
@@ -120,17 +120,17 @@
 
 ### Contents / Finance
 
-*   [Bit Alarm (⭐185)](https://github.com/damoonrashidi/bitalarm) - An app to keep track of different cryptocurrencies by [Damoon Rashidi](https://github.com/damoonrashidi).
+*   [Bit Alarm (⭐197)](https://github.com/damoonrashidi/bitalarm) - An app to keep track of different cryptocurrencies by [Damoon Rashidi](https://github.com/damoonrashidi).
 
 ### Contents / Productivity
 
-*   [Flutter Todo (⭐134)](https://github.com/tuannguyendotme/flutter_todo) - This Todo app is implemented using Flutter by [Tuan Nguyen](https://github.com/tuannguyendotme).
-*   [Notes App (⭐432)](https://github.com/bimsina/notes-app) - Note Taking App made with Flutter with Sqlite as database by [Bibek Timsina](https://github.com/bimsina).
-*   [WhatTodo (⭐1.1k)](https://github.com/burhanrashid52/WhatTodo) - Todoist like UI by [Burhanuddin Rashid](https://about.me/burhanrashid52).
+*   [Flutter Todo (⭐140)](https://github.com/tuannguyendotme/flutter_todo) - This Todo app is implemented using Flutter by [Tuan Nguyen](https://github.com/tuannguyendotme).
+*   [Notes App (⭐452)](https://github.com/bimsina/notes-app) - Note Taking App made with Flutter with Sqlite as database by [Bibek Timsina](https://github.com/bimsina).
+*   [WhatTodo (⭐1.2k)](https://github.com/burhanrashid52/WhatTodo) - Todoist like UI by [Burhanuddin Rashid](https://about.me/burhanrashid52).
 
 ### Contents / Tools
 
-*   [Wallpaper (⭐286)](https://github.com/bimsina/wallpaper) - Wallpaper App made with Flutter with Dynamic Theming by [Bibek Timsina](https://github.com/bimsina)
+*   [Wallpaper (⭐284)](https://github.com/bimsina/wallpaper) - Wallpaper App made with Flutter with Dynamic Theming by [Bibek Timsina](https://github.com/bimsina)
 *   [Zefyr (⭐2.2k)](https://github.com/memspace/zefyr) - Soft and gentle rich text editing for Flutter applications by [Memspace](https://github.com/memspace)
 
 ---

@@ -29,7 +29,7 @@
 
 ### Misc
 
-*   [AzureCrawler (⭐42)](https://github.com/yagopv/AzureCrawler) - Take HTML Snapshots for your Angular, Ember, Durandal or any JavaScript applications
+*   [AzureCrawler (⭐43)](https://github.com/yagopv/AzureCrawler) - Take HTML Snapshots for your Angular, Ember, Durandal or any JavaScript applications
 
 ## [5. Awesome Devenv](/content/jondot/awesome-devenv/README.md)
 

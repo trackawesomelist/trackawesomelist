@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 07, 2019
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,12 +16,12 @@
 
 ### Machine Learning Libraries / Deep learning
 
-*   [torch-rb (⭐595)](https://github.com/ankane/torch-rb) - Ruby bindings for [LibTorch (⭐73k)](https://github.com/pytorch/pytorch)
-    using [rice (⭐355)](https://github.com/jasonroelofs/rice).
+*   [torch-rb (⭐742)](https://github.com/ankane/torch-rb) - Ruby bindings for [LibTorch (⭐85k)](https://github.com/pytorch/pytorch)
+    using [rice (⭐381)](https://github.com/jasonroelofs/rice).
 
 ## [3. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
-### Bloggers / Book Deals (Affiliated) 🛍
+### Bloggers / Book Deals (Affiliated)
 
 *   [Andrew Carr](https://andrewnc.github.io/blog/blog.html) - Data Science with Esoteric programming languages
 
@@ -71,13 +71,7 @@
 *   [Midi Logger](http://outputchannel.com/midi-logger/) - This Midi Logger will print all midi input to your browser for debugging.
 *   [Code Player (⭐21)](https://github.com/jcppman/code-player) - An experimental app that makes your codes sing for you.
 
-## [5. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md)
-
-### Community / Mesh tools
-
-*   [Gabriel Peyré on Twitter](https://twitter.com/gabrielpeyre) - One tweet a day on computational mathematics.
-
-## [6. Awesome Research](/content/emptymalei/awesome-research/README.md)
+## [5. Awesome Research](/content/emptymalei/awesome-research/README.md)
 
 ### Version Control System
 
@@ -164,7 +158,7 @@
 
 *   [Unpay Wall](http://unpaywall.org/): legally download research papers for free.
 
-## [7. Awesome Nlg](/content/accelerated-text/awesome-nlg/README.md)
+## [6. Awesome Nlg](/content/accelerated-text/awesome-nlg/README.md)
 
 ### Dialog
 
@@ -180,13 +174,13 @@
 *   [Strata Data Conference | The future of natural language generation: 2017-2027](https://www.youtube.com/watch?v=Ls7elVbN8bI)
 *   [The Quest for Automated Story Generation - Mark Riedl](https://www.youtube.com/watch?v=wgcDUX_BPpk)
 
-## [8. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+## [7. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### i18n / Mouse Events
 
 *   [react-intl-universal (⭐1.3k)](https://github.com/alibaba/react-intl-universal) - [demo](https://g.alicdn.com/alishu/common/0.0.95/intl-example/index.html) Internationalize React apps. Not only for React.Component but also for Vanilla JS.
 
-## [9. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [8. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Testing Frameworks / Runner
 

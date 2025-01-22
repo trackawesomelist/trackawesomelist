@@ -10,7 +10,7 @@
 
 ### Tools / Extending JMeter
 
-*   [Hello JMeter plugin (⭐19)](https://github.com/Bugazelle/hello-jmeter-plugin) - A brief, clear & fast guide to create your first JMeter plugin.
+*   [Hello JMeter plugin (⭐21)](https://github.com/Bugazelle/hello-jmeter-plugin) - A brief, clear & fast guide to create your first JMeter plugin.
 
 ## [2. Awesome D](/content/dlang-community/awesome-d/README.md)
 
@@ -34,11 +34,11 @@
 
 ### Software / Pastebins
 
-*   [Pastefy](https://pastefy.app/) - Beautiful, simple and easy to deploy Pastebin with optional Client-Encryption, Multitab-Pastes, an API, a highlighted Editor and more. ([Source Code (⭐240)](https://github.com/interaapps/pastefy), [Clients](https://github.com/topics/pastefy-addon)) `MIT` `Docker/K8S/Java`
+*   [Pastefy](https://pastefy.app/) - Beautiful, simple and easy to deploy Pastebin with optional Client-Encryption, Multitab-Pastes, an API, a highlighted Editor and more. ([Source Code (⭐269)](https://github.com/interaapps/pastefy), [Clients](https://github.com/topics/pastefy-addon)) `MIT` `Docker/K8S/Java`
 
-### Software / Photo and Video Galleries
+### Software / Photo Galleries
 
-*   [Nextcloud Memories](https://memories.gallery/) - Fast, modern and advanced photo management suite. Runs as a Nextcloud app. ([Demo](https://demo.memories.gallery/apps/memories/), [Source Code (⭐3k)](https://github.com/pulsejet/memories)) `AGPL-3.0` `PHP`
+*   [Nextcloud Memories](https://memories.gallery/) - Fast, modern and advanced photo management suite. Runs as a Nextcloud app. ([Demo](https://demo.memories.gallery/apps/memories/), [Source Code (⭐3.3k)](https://github.com/pulsejet/memories)) `AGPL-3.0` `PHP`
 
 ## [6. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
 
@@ -60,7 +60,7 @@
 
 ### Machine Learning Libraries / Clustering
 
-*   [kmeans-clusterer (⭐93)](https://github.com/gbuesing/kmeans-clusterer) -
+*   [kmeans-clusterer (⭐96)](https://github.com/gbuesing/kmeans-clusterer) -
     k-means clustering in Ruby.
 *   [k\_means (⭐115)](https://github.com/reddavis/K-Means) -
     Attempting to build a fast, memory efficient K-Means program.
@@ -69,20 +69,20 @@
 
 ### Machine Learning Libraries / Vector search
 
-*   [flann (⭐2.1k)](https://github.com/mariusmuja/flann) -
-    Ruby bindings for the [FLANN (⭐2.1k)](https://github.com/flann-lib/flann) (Fast Library for Approximate Nearest Neighbors). <sup>\[[flann](#flann)]</sup>
-*   [annoy-rb (⭐28)](https://github.com/yoshoku/annoy.rb) -
-    Ruby bindings for the [Annoy (⭐12k)](https://github.com/spotify/annoy) (Approximate Nearest Neighbors Oh Yeah).
-*   [hnswlib.rb (⭐12)](https://github.com/yoshoku/hnswlib.rb) -
-    Ruby bindings for the [Hnswlib (⭐3.7k)](https://github.com/nmslib/hnswlib) that implements approximate nearest neighbor search with Hierarchical Navigable Small World graphs.
-*   [ngt-ruby (⭐44)](https://github.com/ankane/ngt-ruby) -
-    Ruby bindings for the [NGT (⭐1.1k)](https://github.com/yahoojapan/NGT) (Neighborhood Graph and Tree for Indexing High-dimensional data).
+*   [flann (⭐2.3k)](https://github.com/mariusmuja/flann) -
+    Ruby bindings for the [FLANN (⭐2.3k)](https://github.com/flann-lib/flann) (Fast Library for Approximate Nearest Neighbors). <sup>\[[flann](#flann)]</sup>
+*   [annoy-rb (⭐34)](https://github.com/yoshoku/annoy.rb) -
+    Ruby bindings for the [Annoy (⭐13k)](https://github.com/spotify/annoy) (Approximate Nearest Neighbors Oh Yeah).
+*   [hnswlib.rb (⭐15)](https://github.com/yoshoku/hnswlib.rb) -
+    Ruby bindings for the [Hnswlib (⭐4.5k)](https://github.com/nmslib/hnswlib) that implements approximate nearest neighbor search with Hierarchical Navigable Small World graphs.
+*   [ngt-ruby (⭐52)](https://github.com/ankane/ngt-ruby) -
+    Ruby bindings for the [NGT (⭐1.3k)](https://github.com/yahoojapan/NGT) (Neighborhood Graph and Tree for Indexing High-dimensional data).
 
 ## [9. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
 
 ### C/C++ libraries packaged for Zig / C
 
-*   [kassane/wolfssl (⭐4)](https://github.com/kassane/wolfssl) - wolfssl library.
+*   [kassane/wolfssl (⭐5)](https://github.com/kassane/wolfssl) - wolfssl library.
 
 ### C/C++ libraries packaged for Zig / C++
 
@@ -93,7 +93,7 @@
 
 ### Messaging
 
-*   [ExyteChat (⭐795)](https://github.com/exyte/Chat) - SwiftUI Chat UI framework with fully customizable message cells, input view, and a built-in media picker.
+*   [ExyteChat (⭐1k)](https://github.com/exyte/Chat) - SwiftUI Chat UI framework with fully customizable message cells, input view, and a built-in media picker.
 
 ## [11. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
 
@@ -105,13 +105,13 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue3-form-wizard (⭐29)](https://github.com/parsajiravand/vue3-form-wizard) - Vue3-form-wizard is a vue based component with no external depenendcies which simplifies tab wizard management.
+*   [vue3-form-wizard (⭐32)](https://github.com/parsajiravand/vue3-form-wizard) - Vue3-form-wizard is a vue based component with no external depenendcies which simplifies tab wizard management.
 
 ## [13. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
 
 ### Table of Contents / Streaming Application
 
-*   [Zilla (⭐518)](https://github.com/aklivity/zilla) \[Java] - Cross-platform, API gateway built for event-driven architectures and streaming that supports standard protocols such as HTTP, SSE, gRPC, MQTT and the native Kafka protocol.
+*   [Zilla (⭐556)](https://github.com/aklivity/zilla) \[Java] - Cross-platform, API gateway built for event-driven architectures and streaming that supports standard protocols such as HTTP, SSE, gRPC, MQTT and the native Kafka protocol.
 
 ---
 

@@ -78,7 +78,7 @@
 
 ### Node.js / Scala
 
-*   [Serverless (⭐46k)](https://github.com/serverless/serverless) - Build and maintain web, mobile and IoT applications running on AWS Lambda and API Gateway (formerly known as JAWS).
+*   [Serverless (⭐47k)](https://github.com/serverless/serverless) - Build and maintain web, mobile and IoT applications running on AWS Lambda and API Gateway (formerly known as JAWS).
 
 ### Python / Scala
 

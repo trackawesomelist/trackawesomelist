@@ -10,7 +10,7 @@
 
 ### Authorization
 
-*   [CanCanCan (⭐5.5k)](https://github.com/CanCanCommunity/cancancan) - Continuation of CanCan, an authorization Gem for Ruby on Rails.
+*   [CanCanCan (⭐5.6k)](https://github.com/CanCanCommunity/cancancan) - Continuation of CanCan, an authorization Gem for Ruby on Rails.
 
 ## [2. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 

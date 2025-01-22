@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 01, 2017
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -35,31 +35,25 @@
 
 *   [Building a Blog With Next.js](https://timber.io/blog/building-a-blog-with-next-js)
 
-## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / UI Components
-
-*   [vue-pure-lightbox (⭐161)](https://github.com/DCzajkowski/vue-pure-lightbox) - Very simple lightbox plugin without any dependencies - only Vue! 🖼
-
-## [6. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [5. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Implementations/Compilers
 
 *   [myst-lang](https://github.com/myst-lang/) - A practical, dynamic language designed to be written and understood as easily and efficiently as possible
 
-## [7. Awesome Fuse](/content/fuse-compound/awesome-fuse/README.md)
+## [6. Awesome Fuse](/content/fuse-compound/awesome-fuse/README.md)
 
 ### Applications
 
 *   [Amphi Festival 2017](http://www.amphi-festival.de/) - Semi-official app for Amphi Festival 2017 [(​iOS)](https://itunes.apple.com/us/app/amphi-festival-2017/id1258744398) [(Android)](https://play.google.com/store/apps/details?id=org.knatten.AmphiFestival2017).
 
-## [8. Awesome Non Financial Blockchain](/content/machinomy/awesome-non-financial-blockchain/README.md)
+## [7. Awesome Non Financial Blockchain](/content/machinomy/awesome-non-financial-blockchain/README.md)
 
 ### Identity Applications / Guidance
 
 *   [TAO Network Identity](http://tao.network/portfolio-item/the-identity-system/) - Description of blockchain identity by Tao.Network.
 
-## [9. Awesome Hbase](/content/rayokota/awesome-hbase/README.md)
+## [8. Awesome Hbase](/content/rayokota/awesome-hbase/README.md)
 
 ### Frameworks / SQL/OLAP
 
@@ -74,7 +68,7 @@
 
 *   [HubSpot HBase support (⭐16)](https://github.com/HubSpot/hbase-support) - Configs and tools for HBase at HubSpot, including Hystrix integration and coprocessors.
 
-## [10. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [9. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / IOC
 

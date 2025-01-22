@@ -16,11 +16,11 @@
 
 ### Utility / Barcode
 
-*   [Bow (⭐643)](https://github.com/bow-swift/bow) - Companion library for Typed Functional Programming.
+*   [Bow (⭐647)](https://github.com/bow-swift/bow) - Companion library for Typed Functional Programming.
 
 ### Misc
 
-*   [Swiftbrew (⭐145)](https://github.com/swiftbrew/Swiftbrew) - Homebrew for Swift packages.
+*   [Swiftbrew (⭐146)](https://github.com/swiftbrew/Swiftbrew) - Homebrew for Swift packages.
 
 ### Text / Barcode
 
@@ -32,7 +32,7 @@
 
 ### TextField / Barcode
 
-*   [VKPinCodeView (⭐95)](https://github.com/Sunspension/VKPinCodeView) - Simple and elegant UI component for input PIN.
+*   [VKPinCodeView (⭐96)](https://github.com/Sunspension/VKPinCodeView) - Simple and elegant UI component for input PIN.
 
 ## [3. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
@@ -69,9 +69,9 @@
 
 ## [5. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
-### Development / Books
+### Development / Chat
 
-*   [foy (⭐257)](https://github.com/zaaack/foy) - Lightweight general purpose task runner/build tool.
+*   [foy (⭐268)](https://github.com/zaaack/foy) - Lightweight general purpose task runner/build tool.
 
 ## [6. Awesome Qlik](/content/ambster-public/awesome-qlik/README.md)
 
@@ -91,11 +91,11 @@
 
 *   [Exercism Elm Track](http://exercism.io/languages/elm) - Collection of Elm exercises.
 *   [Beginning Elm](http://elmprogramming.com/) - A gentle introduction to the Elm programming language.
-*   [Elm Koans (⭐234)](https://github.com/robertjlooby/elm-koans) - Practice exercises for learning Elm.
+*   [Elm Koans (⭐233)](https://github.com/robertjlooby/elm-koans) - Practice exercises for learning Elm.
 *   [Learn Elm in Y Minutes](https://learnxinyminutes.com/docs/elm/) - Syntax and features overview. The Elm page on [learnxinyminutes.com](https://learnxinyminutes.com)
 *   [Elm Maybe - Dealing with null/Nothing](http://rundis.github.io/blog/2016/elm_maybe.html) - Working with the Maybe type, with nicely commented code examples.
 *   [Programming Elm](https://pragprog.com/book/jfelm/programming-elm) - Thorough book from The Pragmatic Programmers that covers basics and advanced concepts.
-*   [Elm cheat sheet (⭐950)](https://github.com/izdi/elm-cheat-sheet) - Syntax and features overview.
+*   [Elm cheat sheet (⭐953)](https://github.com/izdi/elm-cheat-sheet) - Syntax and features overview.
 *   [Ninety-nine Problems, Solved in Elm](https://johncrane.gitbooks.io/ninety-nine-elm-problems/content/) - Adaptations for Elm from Ninety-Nine Haskell Problems.
 *   [Elm Tutorials on Codementor](https://www.codementor.io/elm/tutorial) - Two tutorials on building web apps with Elm.
 *   [Elm programming language](https://en.wikibooks.org/wiki/Elm_programming_language) - a brief overview of Elm as a programming language.

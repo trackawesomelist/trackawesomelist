@@ -22,7 +22,7 @@
 
 ### Example Projects
 
-*   [Securing Spring Boot Admin & Actuator Endpoints with Keycloak (⭐58)](https://github.com/thomasdarimont/spring-boot-admin-keycloak-example)
+*   [Securing Spring Boot Admin & Actuator Endpoints with Keycloak (⭐59)](https://github.com/thomasdarimont/spring-boot-admin-keycloak-example)
 
 ## [4. Awesome Security](/content/sbilly/awesome-security/README.md)
 
@@ -35,9 +35,9 @@
 ### Web Programming • Libraries
 
 *   [lightgl.js (⭐1.5k)](https://github.com/evanw/lightgl.js) - A lightweight WebGL library.
-*   [picogl.js (⭐786)](https://github.com/tsherif/picogl.js) - A minimal WebGL 2 rendering library.
+*   [picogl.js (⭐790)](https://github.com/tsherif/picogl.js) - A minimal WebGL 2 rendering library.
 *   [Alfrid (⭐233)](https://github.com/yiwenl/Alfrid) - A WebGL tool set.
-*   [twigl (⭐2.6k)](https://github.com/greggman/twgl.js) - A Tiny WebGL helper Library.
+*   [twigl (⭐2.7k)](https://github.com/greggman/twgl.js) - A Tiny WebGL helper Library.
 *   [luma.gl (⭐2.3k)](https://github.com/uber/luma.gl) - WebGL2 Components for Data Visualization.
 
 ### Machine learning • Computer Vision • Ai / Other
@@ -47,7 +47,7 @@
 
 ### Related / Other
 
-*   [3D Machine Learning (⭐9.6k)](https://github.com/timzhang642/3D-Machine-Learning) - A resource repository for 3D machine learning.
+*   [3D Machine Learning (⭐9.8k)](https://github.com/timzhang642/3D-Machine-Learning) - A resource repository for 3D machine learning.
 
 ---
 

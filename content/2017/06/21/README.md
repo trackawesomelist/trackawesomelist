@@ -22,7 +22,7 @@
 
 ### Tools & Software / Utilities
 
-*   [webarchive-indexing (⭐41)](https://github.com/ikreymer/webarchive-indexing) - Tools for bulk indexing of WARC/ARC files on Hadoop, EMR or local file system.
+*   [webarchive-indexing (⭐43)](https://github.com/ikreymer/webarchive-indexing) - Tools for bulk indexing of WARC/ARC files on Hadoop, EMR or local file system.
 
 ## [4. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/README.md)
 

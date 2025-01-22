@@ -1,6 +1,6 @@
 # Awesome List Updates on May 28, 2022
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -22,14 +22,14 @@
 
 ### GUI
 
-*   [Malewicz (⭐61)](https://github.com/mgramin/malewicz) - Yet Another WEB client for DB schema exploring and performance analysis, but originally created specifically for hacking and extending.
+*   [Malewicz (⭐65)](https://github.com/mgramin/malewicz) - Yet Another WEB client for DB schema exploring and performance analysis, but originally created specifically for hacking and extending.
 
 ## [4. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [gal (⭐3)](https://github.com/x6r/gal) - Minimalist theme based on [gallois (⭐172k)](https://github.com/ohmyzsh/ohmyzsh/commits/master/themes/gallois.zsh-theme).
-*   [headline (⭐246)](https://github.com/Moarram/headline) - A responsive ZSH theme featuring Git status information and a colored line above the prompt.
+*   [gal (⭐3)](https://github.com/x6r/gal) - Minimalist theme based on [gallois (⭐175k)](https://github.com/ohmyzsh/ohmyzsh/commits/master/themes/gallois.zsh-theme).
+*   [headline (⭐276)](https://github.com/Moarram/headline) - A responsive ZSH theme featuring Git status information and a colored line above the prompt.
 
 ## [5. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
@@ -41,7 +41,7 @@
 
 ### Tab / Barcode
 
-*   [TabBar (⭐387)](https://github.com/onl1ner/TabBar) - Highly customizable tab bar for SwiftUI applications.
+*   [TabBar (⭐422)](https://github.com/onl1ner/TabBar) - Highly customizable tab bar for SwiftUI applications.
 
 ## [7. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
@@ -49,14 +49,7 @@
 
 *   [vscode.email](https://vscode.email/). A Newsletter for News and Tips on VS Code & IDEs.
 
-## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / UI Components
-
-*   [vountdown (⭐2)](https://github.com/logustra/vountdown) - A minimalist countdown component
-*   [vinscroll (⭐2)](https://github.com/logustra/vinscroll) - A minimalist infinite scroll component
-
-## [9. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [8. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Complexity & Information Theory / Visual Complexity
 

@@ -14,11 +14,11 @@
 
 ### Debugging / Diagnostics
 
-*   [niuiic/dap-utils (⭐35)](https://github.com/niuiic/dap-utils.nvim) - Utilities to provide a better experience for using nvim-dap.
+*   [niuiic/dap-utils (⭐37)](https://github.com/niuiic/dap-utils.nvim) - Utilities to provide a better experience for using nvim-dap.
 
 ## [2. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
-### Sensors / Pressure
+### Sensors / Barometer - Air and Water Pressure
 
 *   [D6F-PH (⭐0)](https://github.com/ekspla/D6F-PH) - MicroPython module for differential pressure sensor, D6F-PH (OMRON).
 
@@ -36,9 +36,9 @@
 
 ## [4. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
-### Software / Photo and Video Galleries
+### Software / Photo Galleries
 
-*   [Chevereto](https://chevereto.com/) - Ultimate image sharing software. Create your very own personal image hosting website in just minutes. ([Source Code (⭐452)](https://github.com/chevereto/chevereto)) `AGPL-3.0` `PHP/Docker`
+*   [Chevereto](https://chevereto.com/) - Ultimate image sharing software. Create your very own personal image hosting website in just minutes. ([Source Code (⭐571)](https://github.com/chevereto/chevereto)) `AGPL-3.0` `PHP/Docker`
 
 ## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -62,23 +62,23 @@
 
 ### Resources / Editors
 
-*   [Mundus (⭐142)](https://github.com/JamesTKhan/Mundus) - World/level editor for 3D worlds with a runtime for libGDX.
+*   [Mundus (⭐162)](https://github.com/JamesTKhan/Mundus) - World/level editor for 3D worlds with a runtime for libGDX.
 
 ### Resources / Setup and Deployment
 
-*   [libgdx-library-template (⭐9)](https://github.com/tommyettinger/libgdx-library-template) - A skeleton project for making new libraries, since they need different config.
+*   [libgdx-library-template (⭐14)](https://github.com/tommyettinger/libgdx-library-template) - A skeleton project for making new libraries, since they need different config.
 
 ### Resources / User Interface
 
-*   [TextraTypist (⭐86)](https://github.com/tommyettinger/textratypist) - Like TypingLabel (below), but also supports styles, emoji, multiple fonts, clickable links, etc.
+*   [TextraTypist (⭐96)](https://github.com/tommyettinger/textratypist) - Like TypingLabel (below), but also supports styles, emoji, multiple fonts, clickable links, etc.
 
 ### Resources / Visual Effects
 
-*   [colorful-gdx (⭐67)](https://github.com/tommyettinger/colorful-gdx) - Expands how tinting can affect colors; also has many pre-written shaders.
+*   [colorful-gdx (⭐76)](https://github.com/tommyettinger/colorful-gdx) - Expands how tinting can affect colors; also has many pre-written shaders.
 
 ### Resources / Others
 
-*   [anim8-gdx (⭐34)](https://github.com/tommyettinger/anim8-gdx) - Allows saving (animated) GIFs and PNGs from sequences of Pixmaps, with configurable dithering if needed.
+*   [anim8-gdx (⭐41)](https://github.com/tommyettinger/anim8-gdx) - Allows saving (animated) GIFs and PNGs from sequences of Pixmaps, with configurable dithering if needed.
 
 ---
 

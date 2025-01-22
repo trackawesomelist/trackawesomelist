@@ -80,11 +80,11 @@
 
 ### Clojure / Git
 
-*   [clj-crypto (⭐27)](https://github.com/macourtney/clj-crypto/) - Wrapper for Bouncy Castle.
+*   [clj-crypto (⭐29)](https://github.com/macourtney/clj-crypto/) - Wrapper for Bouncy Castle.
 
 ### PHP / Git
 
-*   [libsodium-laravel (⭐21)](https://github.com/scrothers/libsodium-laravel) - Laravel Package Abstraction using `libsodium`.
+*   [libsodium-laravel (⭐22)](https://github.com/scrothers/libsodium-laravel) - Laravel Package Abstraction using `libsodium`.
 
 ## [8. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 
@@ -100,7 +100,7 @@
 
 ### Science and Data analysis
 
-*   [linalg (⭐47)](https://github.com/konovod/linalg) - Linear algebra library inspired by MATLAB and SciPy.linalg
+*   [linalg (⭐50)](https://github.com/konovod/linalg) - Linear algebra library inspired by MATLAB and SciPy.linalg
 
 ## [10. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

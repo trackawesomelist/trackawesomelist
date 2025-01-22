@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 05 - Feb 11, 2024
 
-55 awesome lists updated this week.
+53 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -15,7 +15,7 @@
 ### Apps / Outline Processor Markup Language
 
 *   [Agr Reader](https://www.agrreader.xyz/) <sup>[1378](https://t.me/s/aboutrss/1378)</sup> [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://www.agrreader.xyz/)
-*   [Twine (⭐1.6k)](https://github.com/msasikanth/twine) <sup>[1381](https://t.me/s/aboutrss/1381)</sup> [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=dev.sasikanth.rss.reader)[![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://apps.apple.com/app/twine-rss-reader/id6465694958)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/msasikanth/twine)
+*   [Twine (⭐1.8k)](https://github.com/msasikanth/twine) <sup>[1381](https://t.me/s/aboutrss/1381)</sup> [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=dev.sasikanth.rss.reader)[![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://apps.apple.com/app/twine-rss-reader/id6465694958)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/msasikanth/twine)
 *   [Readine](https://readine.app/) <sup>[1389](https://t.me/s/aboutrss/1389)</sup> [![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://apps.apple.com/app/read-rss-and-more-readine/id6456571712)[![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=net.synrss.readine.rss)[![Mac](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-mac-client-16.png)](https://readine.app/Downloads)[![Windows](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-windows-10-16.png)](https://readine.app/Downloads)[![Linux](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Linux.png)](https://readine.app/Downloads)[![Online](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-web-design-16.png)](https://pwa.readine.app/)
 *   \[StreamSphere] <sup>[1394](https://t.me/s/aboutrss/1394)</sup> [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=com.niviva.rssreader.streamsphere)
 *   [Quickify](https://quickify.app/) <sup>[1399](https://t.me/s/aboutrss/1399)</sup> [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=quick.read.app)
@@ -52,7 +52,7 @@
 
 ### universally from / multiple sources
 
-*   [RSS Worker (⭐501)](https://github.com/yllhwa/RSSWorker) <sup>[1379](https://t.me/s/aboutrss/1379)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/yllhwa/RSSWorker)
+*   [RSS Worker (⭐591)](https://github.com/yllhwa/RSSWorker) <sup>[1379](https://t.me/s/aboutrss/1379)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/yllhwa/RSSWorker)
 *   [VeRSSion](https://verssion.one/) <sup>[1396](https://t.me/s/aboutrss/1396)</sup>
 
 ### universally from / webpage/html
@@ -77,52 +77,47 @@
 
 ### Generating Blog's statistics via RSS feed / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
-*   [EndofYear (⭐0)](https://github.com/7Wate/EndOfYear) <sup>[1384](https://t.me/s/aboutrss/1384)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/7Wate/EndOfYear)
+*   [EndofYear (⭐2)](https://github.com/7Wate/EndOfYear) <sup>[1384](https://t.me/s/aboutrss/1384)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/7Wate/EndOfYear)
 
 ### Turn Podcast/MP3 into Video via Podcast Feed / Crypto or Blockchain relevant
 
-*   [Podcast RSS Generator (⭐25)](https://github.com/vpetersson/podcast-rss-generator/) : Build a Podcast RSS feed and generate it using GitHub Actions.
+*   [Podcast RSS Generator (⭐31)](https://github.com/vpetersson/podcast-rss-generator/) : Build a Podcast RSS feed and generate it using GitHub Actions.
 
 ### Podcast Search Engine / Crypto or Blockchain relevant
 
 *   [RSS2YTM](https://rss2ytm.net) <sup>[1390](https://t.me/s/aboutrss/1390)</sup>
 
-## [2. Awesome Prisma](/content/catalinmiron/awesome-prisma/week/README.md)
+## [2. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+
+### Software / Media Streaming - Audio Streaming
+
+*   [HoloPlay](https://app.holoplay.io) `⚠` - Web app using Invidious API for listening to Youtube audio sources. ([Source Code (⭐108)](https://github.com/stephane-r/holoplay-pwa)) `MIT` `Nodejs/Docker`
+
+## [3. Awesome Prisma](/content/catalinmiron/awesome-prisma/week/README.md)
 
 ### :safety_vest: Community Prisma Tools / :gear: Schema Visualization Tools
 
 *   [Hubql - Visualization platform with Prisma schema support](https://www.hubql.com/prisma)
 
-## [3. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [4. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### Software for Creating APIs
 
 *   [TransitClock](https://thetransitclock.github.io/) - Java application that can consume raw vehicle positions and generate prediction times in formats such as GTFS-realtime.  Formerly known as "Transitime".
-*   [TransiCast](https://www.transicast.com/) - Provides public transportation data for North America in a single, integrated call and response format. The data is provided in stream-parsable XML and JSON formats.  Open-source on [Google Code](https://code.google.com/archive/p/rasa/).  Hosted version at [www.transitcast.com](http://www.transitcast.com) [requires payment](http://www.transicast.com/coststructure.html).
 
 ### GTFS Realtime Convertors / Ruby
 
 *   [GTFS-realtime VehiclePositions to GTFS-realtime TripUpdates (TransitClock)](https://thetransitclock.github.io/) - Java application that can consume raw vehicle positions and generate prediction times in formats such as GTFS-realtime.  Formerly known as "Transitime".
 
-## [4. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
-
-### Software / Media Streaming - Audio Streaming
-
-*   [HoloPlay](https://app.holoplay.io) `⚠` - Web app using Invidious API for listening to Youtube audio sources. ([Source Code (⭐93)](https://github.com/stephane-r/holoplay-pwa)) `MIT` `Nodejs/Docker`
-
-### Software / Software Development - Low Code
-
-*   [CASE](https://case.app) - Lightweight BaaS (Backend As A Service) requiring minimal coding, with database, admin panel, API, and Javascript SDK. ([Source Code (⭐503)](https://github.com/casejs/case)) `MIT` `Nodejs`
-
 ## [5. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
 
 ### Table of Contents / Streaming Engine
 
-*   [Numaflow (⭐1k)](https://github.com/numaproj/numaflow) \[Java/Python/Go/Rust] - Kubernetes native stream processing platform with language agnostic framework. Scalable and cost-efficient
+*   [Numaflow (⭐1.8k)](https://github.com/numaproj/numaflow) \[Java/Python/Go/Rust] - Kubernetes native stream processing platform with language agnostic framework. Scalable and cost-efficient
 
 ### Table of Contents / Online Machine Learning
 
-*   \[Numalogic] ([https://github.com/numaproj/numalogic (⭐166)](https://github.com/numaproj/numalogic)) \[Python] - Collection of ML models and libraries for real-time anomaly detection and forecasting on time series data. Built on Numaflow, a K8s native stream processing platform
+*   \[Numalogic] ([https://github.com/numaproj/numalogic (⭐168)](https://github.com/numaproj/numalogic)) \[Python] - Collection of ML models and libraries for real-time anomaly detection and forecasting on time series data. Built on Numaflow, a K8s native stream processing platform
 
 ## [6. Awesome Opentofu](/content/virtualroot/awesome-opentofu/week/README.md)
 
@@ -132,17 +127,11 @@
 
 ## [7. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
 
-### Miscellaneous / Checkbox
+### Miscellaneous
 
-*   [css-3d-progress (⭐0)](https://github.com/rofixro/css-3d-progress) - A 3D Progress Bar component
+*   [css-3d-progress (⭐2)](https://github.com/rofixro/css-3d-progress) - A 3D Progress Bar component
 
-## [8. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/week/README.md)
-
-### **Azure Enterprise Services** / **Azure AI Search**
-
-*   [Assistants API](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/azure-openai-service-announces-assistants-api-new-models-for/ba-p/4049940): Code Interpreter, Function calling, Knowledge retrieval tool, and Threads (Truncated and optimized conversation history for the model's context length) in Azure \[06 Feb 2024]
-
-## [9. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
+## [8. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
 
 ### Translations / Ironsworn
 
@@ -152,19 +141,19 @@
 
 *   [Iron Witcher](https://drive.google.com/drive/folders/1jPPTgfWyYyIhLPbqn8qwplWdr4UPhFy-) - Assets cards for The Witcher setting, in Portuguese
 
-## [10. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
+## [9. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
 
 ### Extensions / Tools
 
-*   [Directus Sync (⭐81)](https://github.com/tractr/directus-sync) - A CLI tool for synchronizing the schema and configuration of Directus across various environments.
+*   [Directus Sync (⭐245)](https://github.com/tractr/directus-sync) - A CLI tool for synchronizing the schema and configuration of Directus across various environments.
 
-## [11. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
+## [10. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
 
 ### Base Tools / Other
 
-*   [SparkView (⭐12)](https://github.com/beyondssl/sparkview-container) - Access VMs, desktops, servers or applications anytime and from anywhere, without complex and costly client roll-outs or user management.
+*   [SparkView (⭐13)](https://github.com/beyondssl/sparkview-container) - Access VMs, desktops, servers or applications anytime and from anywhere, without complex and costly client roll-outs or user management.
 
-## [12. Ai Collective Tools](/content/Hyraze/ai-collective-tools/week/README.md)
+## [11. Ai Collective Tools](/content/Hyraze/ai-collective-tools/week/README.md)
 
 ### Chatbots
 
@@ -196,7 +185,7 @@
 *   [pika.art](https://pika.art/) - An idea-to-video platform that brings your creativity to motion. `#freemium`
 *   [Runway](https://runwayml.com/) - With Runway AI, you have the power to create videos using text prompts in so many incredible ways `#free`
 
-## [13. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/week/README.md)
+## [12. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/week/README.md)
 
 ### Text / Writing assistants
 
@@ -235,7 +224,7 @@
 
 ### Learn AI free / Machine Learning
 
-*   [Roadmap (⭐7.4k)](https://github.com/mrdbourke/machine-learning-roadmap) - A roadmap connecting many of the most important concepts in machine learning, how to learn them, and what tools to use to perform them.
+*   [Roadmap (⭐7.6k)](https://github.com/mrdbourke/machine-learning-roadmap) - A roadmap connecting many of the most important concepts in machine learning, how to learn them, and what tools to use to perform them.
 *   [Andrew Ng’s Machine Learning at Stanford University](https://www.coursera.org/learn/machine-learning) -  Ng’s gentle introduction to machine learning course is perfect for engineers who want a foundational overview of key concepts in the field.
 *   [Sebastian Thrun’s Introduction To Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120) - robust introduction to the subject and also the foundation for a Data Analyst “nanodegree” certification sponsored by Facebook and MongoDB.
 
@@ -248,29 +237,29 @@
 
 ### Related Awesome Lists / Deep Learning
 
-*   [Awesome AI Books (⭐65)](https://github.com/mahseema/aibooks) - Curated List of Top AI and ML Books
+*   [Awesome AI Books (⭐78)](https://github.com/mahseema/aibooks) - Curated List of Top AI and ML Books
 *   [AI for Productivity](https://productivity.directory/category/ai) - Curated List of AI Apps for productivity
 
-## [14. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
+## [13. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
 
 ### Python / Trading & Backtesting
 
 *   [fastquant (⭐1.5k)](https://github.com/enzoampil/fastquant) - fastquant allows you to easily backtest investment strategies with as few as 3 lines of python code.
-*   [nautilus\_trader (⭐1.8k)](https://github.com/nautechsystems/nautilus_trader) - A high-performance algorithmic trading platform and event-driven backtester.
+*   [nautilus\_trader (⭐3.9k)](https://github.com/nautechsystems/nautilus_trader) - A high-performance algorithmic trading platform and event-driven backtester.
 
 ### Rust / Data Visualization
 
-*   [finalytics (⭐14)](https://github.com/Nnamdi-sys/finalytics) - A rust library for financial data analysis.
+*   [finalytics (⭐26)](https://github.com/Nnamdi-sys/finalytics) - A rust library for financial data analysis.
 
 ### Reproducing Works, Training & Books / Data Visualization
 
-*   [Statistical-Learning-based-Portfolio-Optimization (⭐12)](https://github.com/YannickKae/Statistical-Learning-based-Portfolio-Optimization) - This R Shiny App utilizes the Hierarchical Equal Risk Contribution (HERC) approach, a modern portfolio optimization method developed by Raffinot (2018).
+*   [Statistical-Learning-based-Portfolio-Optimization (⭐13)](https://github.com/YannickKae/Statistical-Learning-based-Portfolio-Optimization) - This R Shiny App utilizes the Hierarchical Equal Risk Contribution (HERC) approach, a modern portfolio optimization method developed by Raffinot (2018).
 
-## [15. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [14. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Libraries/Packages/Scripts / Python
 
-*   [Ibis Python package for Polars](https://ibis-project.org/backends/polars) - [Ibis (⭐4.8k)](https://github.com/ibis-project/ibis) is a Python library that provides a lightweight, universal interface for data wrangling. It can be used with Polars.
+*   [Ibis Python package for Polars](https://ibis-project.org/backends/polars) - [Ibis (⭐5.5k)](https://github.com/ibis-project/ibis) is a Python library that provides a lightweight, universal interface for data wrangling. It can be used with Polars.
 
 ### Resources / Cheat Sheets
 
@@ -280,20 +269,19 @@
 
 *   [Polars dataframe’s plugins and extensibility: getting started](https://medium.com/datamindedbe/polars-dataframes-plugins-and-extensibility-getting-started-9371d8b3f093) - A post that illustrates the possibility of extending the core Dataframe API of Polars with a few examples by [@brunocous](https://github.com/brunocous).
 
-## [16. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [15. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Domain Specific Language / Design Theory
 
 *   [Domain Engineering](https://en.wikipedia.org/wiki/Domain_engineering) - ***Wikipedia***. Wikipedia encyclopedia entry on Domain Engineering.
-*   [Usability Evaluation of Domain-Specific Languages](http://www-ctp.di.fct.unl.pt/QUASAR/Resources/Papers/2012/Barisic2012SEDES.pdf) - ***ICQICT'12***, 2012. \[[All Versions](https://scholar.google.com/scholar?cluster=3047215455890195199)]. An initiative arguing that a systematic approach based on User Interface experimental validation techniques should be used to assess the impact of new DSLs.
 
 ### Domain Specific Language / Design Practises
 
-*   [Quantifying usability of domain-specific languages: An empirical study on software maintenance](https://www.sciencedirect.com/science/article/pii/S0164121214002799) - ***Journal of Systems and Software***, 2015. \[[All Versions](https://scholar.google.com/scholar?cluster=3450893039446010260)]. A study to compare the usability of textual DSLs under the perspective of software maintenance, suggesting that the proposed metrics were useful: (1) to early identify DSL usability limitations, (2) to reveal specific DSL features favoring maintenance tasks, and (3) to successfully analyze eight critical DSL usability dimensions.
+*   [Quantifying usability of domain-specific languages: An empirical study on software maintenance](https://www.sciencedirect.com/science/article/pii/S0164121214002799) - ***Journal of Systems and Software***, 2015. \[[All Versions](https://scholar.google.com/scholar?cluster=3450893039446010260)]. A DSL aims to support software development by offering abstractions to a particular domain. It is expected that DSLs improve the maintainability of artifacts otherwise produced with general-purpose languages. However, the maintainability of the DSL artifacts and, hence, their adoption in mainstream development, is largely dependent on the usability of the language itself. Unfortunately, it is often hard to identify their usability strengths and weaknesses early, as there is no guidance on how to objectively reveal them. Usability is a multi-faceted quality characteristic, which is challenging to quantify beforehand by DSL stakeholders. There is even less support on how to quantitatively evaluate the usability of DSLs used in maintenance tasks. In this context, this paper reports a study to compare the usability of textual DSLs under the perspective of software maintenance. A usability measurement framework was developed based on the cognitive dimensions of notations. The framework was evaluated both qualitatively and quantitatively using two DSLs in the context of two evolving object-oriented systems. The results suggested that the proposed metrics were useful: (1) to early identify DSL usability limitations, (2) to reveal specific DSL features favoring maintenance tasks, and (3) to successfully analyze eight critical DSL usability dimensions.
 
 ### Domain Specific Language / Declarative DSL Applications
 
-*   [iContractML 2.0: A domain-specific language for modeling and deploying smart contracts onto multiple blockchain platforms](https://www.sciencedirect.com/science/article/pii/S0950584921002081) - ***Information and Software Technology***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=1548144959305241494)]. A reference model and platform agnostic language for smart contracts.
+*   [iContractML 2.0: A domain-specific language for modeling and deploying smart contracts onto multiple blockchain platforms](https://www.sciencedirect.com/science/article/pii/S0950584921002081) - ***Information and Software Technology***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=1548144959305241494)]. Smart contracts play a vital role in many fields. Despite being called smart, the development of smart contracts is a tedious task beyond defining a set of contractual rules. In addition to business knowledge, coding a smart contract requires strong technical knowledge in a multiplex of new and rapidly changing domain-specific languages and blockchain platforms. The goal of this paper is to assist developers in building smart contracts independently from the language or the target blockchain platform. In which, this paper presents the second-generation smart contract language iContractML 2.0. iContractML 2.0 is an extensible framework that empowers developers to model and generate functional smart contract code that can be deployed onto multiple blockchain platforms.
 
 ### Explainability / Trustworthy AI
 
@@ -307,38 +295,38 @@
 
 *   [Reasoning about Procedures with Natural Language Processing: A Tutorial](https://arxiv.org/abs/2205.07455) - 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=11364086808527515615\&hl=en\&as_sdt=0,5)].
 
-## [17. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/week/README.md)
+## [16. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/week/README.md)
 
 ### Papers / 2024
 
 *   [Auditing Fairness by Betting](https://arxiv.org/pdf/2305.17570.pdf) - (Neurips) [\[Code\] (⭐3)](https://github.com/bchugg/auditing-fairness) *Sequential methods that allows for the continuous monitoring of incoming data from a black-box classifier or regressor.*
 
-## [18. Awesome Math](/content/rossant/awesome-math/week/README.md)
+## [17. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
 ### Numerical Analysis / Stochastic processes
 
 *   📝 [Lectures In Basic Computational Numerical Analysis](https://uknowledge.uky.edu/cgi/viewcontent.cgi?article=1000\&context=math_textbooks) - J. M. McDonough (University of Kentucky)
 
-## [19. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
+## [18. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
 
 ### Tutorials
 
 *   Load Testing with JMeter: [part 1](https://lincolnloop.com/insights/load-testing-jmeter-part-1-getting-started/), [part 2](https://lincolnloop.com/insights/load-testing-jmeter-part-2-headless-testing-and-je/), [part 3](https://lincolnloop.com/insights/load-testing-jmeter-part-3-replaying-apache-logs/) - By Brandon Konkle.
 *   [JMeter Tutorials](https://qaautomation.expert/2023/12/07/jmeter-tutorials/) - By QA Automation Expert.
 
-## [20. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [19. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Example Projects
 
-*   [Verifiable Credential Authentication with OpenID Connect (VC-AuthN OIDC) (⭐120)](https://github.com/bcgov/vc-authn-oidc)
+*   [Verifiable Credential Authentication with OpenID Connect (VC-AuthN OIDC) (⭐146)](https://github.com/bcgov/vc-authn-oidc)
 
-## [21. Awesome Gdpr](/content/bakke92/awesome-gdpr/week/README.md)
+## [20. Awesome Gdpr](/content/bakke92/awesome-gdpr/week/README.md)
 
 ### Records of Processing (art. 30)
 
 *   [Iubenda - Register of data processing activities](https://www.iubenda.com/en/internal-privacy-management)
 
-## [22. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
+## [21. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
 
 ### Presentations
 
@@ -374,7 +362,7 @@
 
 ### Libraries and Tools / Python
 
-*   [Caring Caribou Next (⭐3)](https://github.com/Cr0wTom/caringcaribounext) - Upgraded and optimized version of the original Caring Caribou project.
+*   [Caring Caribou Next (⭐9)](https://github.com/Cr0wTom/caringcaribounext) - Upgraded and optimized version of the original Caring Caribou project.
 
 ### Libraries and Tools / JavaScript
 
@@ -387,61 +375,61 @@
 *   [ASRG](https://asrg.io/disclosure/) - The ASRG Disclosure Process is to support responsible disclosure when direct communication with the responsible company is unavailable or not responsive.
 *   [Zeekr](https://security.zeekrlife.com/vulnerability) - Zeekr and Geely Responsible disclosure program
 
-## [23. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
+## [22. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
 
 ### Tools / Online Analyzers
 
-*   [Immuniweb](https://www.immuniweb.com/mobile/). Does a "OWASP Mobile Top 10 Test", "Mobile App Privacy Check" and an application permissions test. Free tier is 4 tests per day incl. report after registration
+*   [Immuniweb](https://www.immuniweb.com/mobile/). Does an "OWASP Mobile Top 10 Test", "Mobile App Privacy Check" and an application permissions test. The free tier is 4 tests per day incl. report after registration
 
-## [24. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+## [23. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
 ### Books / Tor Tools
 
 *   [Effective Software Testing, 2021](https://www.manning.com/books/effective-software-testing)
 *   [The Art of Network Penetration Testing, 2020](https://www.manning.com/books/the-art-of-network-penetration-testing)
 
-## [25. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+## [24. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### ChatGPT
 
-*   [Jan (⭐22k)](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
+*   [Jan (⭐27k)](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 
 ### Copilot
 
-*   [Continue (⭐15k)](https://github.com/continuedev/continue) - Open-source autopilot for VS Code and JetBrains—the easiest way to code with any LLM
+*   [Continue (⭐22k)](https://github.com/continuedev/continue) - Open-source autopilot for VS Code and JetBrains—the easiest way to code with any LLM
 
 ### Mario Kart
 
 *   [Sonic Robo Blast 2 Kart](https://mb.srb2.org/addons/srb2kart.2435/) - SRB2Kart is a classic styled kart racer, complete with beautiful courses, and wacky items.
 
-## [26. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [25. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### no-std crates / WIP
 
-*   [embedded-cli](https://crates.io/crates/embedded-cli): CLI library with autocompletion, subcommands, options, help and history support. ![crates.io](https://img.shields.io/crates/v/embedded-cli.svg)
-*   [lorawan-device (⭐233)](https://github.com/lora-rs/lora-rs/tree/main/lorawan-device): A LoRaWAN MAC implementation supporting both event-driven and async mode.
+*   [embedded-cli](https://crates.io/crates/embedded-cli): CLI library with autocompletion, subcommands, options, help and history support. [![crates.io](https://img.shields.io/crates/v/embedded-cli.svg)](https://crates.io/crates/embedded-cli)
+*   [lorawan-device (⭐280)](https://github.com/lora-rs/lora-rs/tree/main/lorawan-device): A LoRaWAN MAC implementation supporting both event-driven and async mode.
 
-## [27. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [26. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Content Management Systems (CMS)
 
-*   [Magento (⭐11k)](https://github.com/magento/magento2) - The most popular e-commerce platform.
+*   [Magento (⭐12k)](https://github.com/magento/magento2) - The most popular e-commerce platform.
 
 ### Table of Contents / Scraping
 
-*   [CrawlerDetect (⭐1.9k)](https://github.com/JayBizzle/Crawler-Detect) - A PHP class for detecting bots/crawlers/spiders via the user agent.
+*   [CrawlerDetect (⭐2k)](https://github.com/JayBizzle/Crawler-Detect) - A PHP class for detecting bots/crawlers/spiders via the user agent.
 
 ### Table of Contents / Testing
 
-*   [Nette Tester (⭐454)](https://github.com/nette/tester) - A productive and enjoyable parallel unit testing framework.
+*   [Nette Tester (⭐463)](https://github.com/nette/tester) - A productive and enjoyable parallel unit testing framework.
 
 ### Table of Contents / Code Analysis
 
-*   [PHP Magic Number Detector (⭐548)](https://github.com/povils/phpmnd) - A library that detects magic numbers in code.
+*   [PHP Magic Number Detector (⭐561)](https://github.com/povils/phpmnd) - A library that detects magic numbers in code.
 
 ### Table of Contents / Event
 
-*   [Fast CGI Client (⭐549)](https://github.com/hollodotme/fast-cgi-client) - A client to make synchronous/asynchronous requests through php-fpm socket.
+*   [Fast CGI Client (⭐554)](https://github.com/hollodotme/fast-cgi-client) - A client to make synchronous/asynchronous requests through php-fpm socket.
 
 ### Table of Contents / PDF
 
@@ -449,7 +437,7 @@
 
 ### Table of Contents / Markup and CSS
 
-*   [PHP CSS Parser (⭐1.7k)](https://github.com/MyIntervals/PHP-CSS-Parser) - A Parser for CSS Files written in PHP.
+*   [PHP CSS Parser (⭐1.8k)](https://github.com/MyIntervals/PHP-CSS-Parser) - A Parser for CSS Files written in PHP.
 
 ### Configuration / PHP Websites
 
@@ -457,52 +445,52 @@
 
 ### Configuration / PHP Internals Reading
 
-*   [PHP RFC Watch (⭐127)](https://github.com/beberlei/php-rfc-watch) - Watch the latest PHP [RFCs](https://wiki.php.net/rfc).
+*   [PHP RFC Watch (⭐128)](https://github.com/beberlei/php-rfc-watch) - Watch the latest PHP [RFCs](https://wiki.php.net/rfc).
 
-## [28. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
+## [27. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
 ### Books
 
 *   [OCaml Programming: Correct + Efficient + Beautiful](https://cs3110.github.io/textbook) - Textbook on Functional Programming and Data Structures in OCaml - by Michael R. Clarkson et al.
 
-## [29. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [28. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Miscellaneous
 
 *   for Electron, see:
-    *   [Electron-lisp-boilerplate (⭐7)](https://github.com/mikelevins/electron-lisp-boilerplate) - a rudimentary boilerplate for building Electron apps that start a Lisp process.
+    *   [Electron-lisp-boilerplate (⭐10)](https://github.com/mikelevins/electron-lisp-boilerplate) - a rudimentary boilerplate for building Electron apps that start a Lisp process.
     *   [ceramic](https://ceramic.github.io/) - a wrapper around simpler tools to create and build an Electron app for Common Lisp. It is currently broken and unmaintained, but some tools are workth having a look at.
     *   NOTE: the main idea in embedding a lisp web app in Electron is to start the lisp webserver as an async process from Electron's `main.js` file, and to point the Electron window to the localhost URL. That's it.
 
 ### Files and directories / Third-party APIs
 
-*   [filepaths (⭐24)](https://github.com/fosskers/filepaths) -  Modern and consistent filepath manipulation for Common Lisp. [LGPL3](https://www.gnu.org/licenses/lgpl-3.0.en.html).
+*   [filepaths (⭐26)](https://github.com/fosskers/filepaths) -  Modern and consistent filepath manipulation for Common Lisp. [LGPL3](https://www.gnu.org/licenses/lgpl-3.0.en.html).
     *   no dependencies, doesn't access the filesystem.
 *   [ppath](https://codeberg.org/fourier/ppath) - Common Lisp's implementation of the Python's os.path module. [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
-## [30. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [29. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Configuration
 
-*   [mINI (⭐497)](https://github.com/metayeti/mINI) - INI file reader and writer. \[MIT]
+*   [mINI (⭐556)](https://github.com/metayeti/mINI) - INI file reader and writer. \[MIT]
 
 ### Containers
 
-*   [hat-trie (⭐780)](https://github.com/Tessil/hat-trie) - C++ implementation of a fast and memory efficient HAT-trie. \[MIT]
-*   [st\_tree (⭐95)](https://github.com/erikerlandson/st_tree) - A fast and flexible c++ template class for tree data structures. \[Apache-2.0]
-*   [tree.hh (⭐131)](https://github.com/kpeeters/tree.hh) - An STL-like C++ header-only tree library. \[GPL2+]
+*   [hat-trie (⭐801)](https://github.com/Tessil/hat-trie) - C++ implementation of a fast and memory efficient HAT-trie. \[MIT]
+*   [st\_tree (⭐97)](https://github.com/erikerlandson/st_tree) - A fast and flexible c++ template class for tree data structures. \[Apache-2.0]
+*   [tree.hh (⭐135)](https://github.com/kpeeters/tree.hh) - An STL-like C++ header-only tree library. \[GPL2+]
 
-## [31. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [30. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Caches
 
-*   [go-freelru (⭐132)](https://github.com/elastic/go-freelru) A GC-less, fast and generic LRU hashmap library with optional locking, sharding, eviction and expiration.
-*   [otter (⭐1.6k)](https://github.com/maypok86/otter) - A high performance lockless cache for Go. Many times faster than Ristretto and friends.
+*   [go-freelru (⭐220)](https://github.com/elastic/go-freelru) A GC-less, fast and generic LRU hashmap library with optional locking, sharding, eviction and expiration.
+*   [otter (⭐1.8k)](https://github.com/maypok86/otter) - A high performance lockless cache for Go. Many times faster than Ristretto and friends.
 
 ### Distributed Systems
 
-*   [bedrock (⭐4)](https://github.com/z5labs/bedrock) - Provides a minimal, modular and composable foundation for quickly developing services and more use case specific frameworks in Go.
-*   [sponge (⭐1.2k)](https://github.com/zhufuyi/sponge) - A distributed development framework that integrates automatic code generation, gin and grpc frameworks, base development frameworks.
+*   [bedrock (⭐7)](https://github.com/z5labs/bedrock) - Provides a minimal, modular and composable foundation for quickly developing services and more use case specific frameworks in Go.
+*   [sponge (⭐1.6k)](https://github.com/zhufuyi/sponge) - A distributed development framework that integrates automatic code generation, gin and grpc frameworks, base development frameworks.
 
 ### Goroutines
 
@@ -510,7 +498,7 @@
 
 ### Images
 
-*   [transformimgs (⭐207)](https://github.com/Pixboost/transformimgs) - Transformimgs resizes and optimises images for Web using next-generation formats.
+*   [transformimgs (⭐243)](https://github.com/Pixboost/transformimgs) - Transformimgs resizes and optimises images for Web using next-generation formats.
 
 ### Markup Languages
 
@@ -518,48 +506,48 @@
 
 ### Web Frameworks
 
-*   [Lit (⭐24)](https://github.com/jvcoutinho/lit) - Highly performant declarative web framework for Golang, aiming for simplicity and quality of life.
+*   [Lit (⭐26)](https://github.com/jvcoutinho/lit) - Highly performant declarative web framework for Golang, aiming for simplicity and quality of life.
 
 ### Go Tools / Libraries for creating HTTP middlewares
 
-*   [decouple (⭐21)](https://github.com/bobg/decouple) - Find “overspecified” function parameters that could be generalized with interface types.
+*   [decouple (⭐25)](https://github.com/bobg/decouple) - Find “overspecified” function parameters that could be generalized with interface types.
 
-## [32. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [31. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications
 
-*   [mirrord (⭐3.7k)](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions
+*   [mirrord (⭐3.9k)](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions
 
 ### Applications / Database
 
-*   [darkbird (⭐426)](https://github.com/Rustixir/darkbird) \[[darkbird](https://crates.io/crates/darkbird)] - HighConcurrency, RealTime, InMemory storage inspired by erlang mnesia
-*   [SQLSync (⭐2.2k)](https://github.com/orbitinghail/sqlsync) - Multiplayer offline-first SQLite [![GitHub Workflow Status](https://github.com/orbitinghail/sqlsync/actions/workflows/actions.yaml/badge.svg?branch=main)](https://github.com/orbitinghail/sqlsync/actions?query=branch%3Amain)
+*   [darkbird (⭐503)](https://github.com/Rustixir/darkbird) \[[darkbird](https://crates.io/crates/darkbird)] - HighConcurrency, RealTime, InMemory storage inspired by erlang mnesia
+*   [SQLSync (⭐2.4k)](https://github.com/orbitinghail/sqlsync) - Multiplayer offline-first SQLite [![GitHub Workflow Status](https://github.com/orbitinghail/sqlsync/actions/workflows/actions.yaml/badge.svg?branch=main)](https://github.com/orbitinghail/sqlsync/actions?query=branch%3Amain)
 
 ### Applications / Text editors
 
-*   [zed (⭐44k)](https://github.com/zed-industries/zed) - A high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+*   [zed (⭐53k)](https://github.com/zed-industries/zed) - A high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 
 ### Development tools / Profiling
 
-*   [Divan (⭐878)](https://github.com/nvzqz/divan) - Simple yet powerful benchmarking library with allocation profiling
+*   [Divan (⭐1k)](https://github.com/nvzqz/divan) - Simple yet powerful benchmarking library with allocation profiling
 
 ### Libraries / Asynchronous
 
-*   [t3hmrman/async-dropper (⭐32)](https://github.com/t3hmrman/async-dropper) \[[async-dropper](https://crates.io/crates/async-dropper)] - Implementation of `AsyncDrop`
+*   [t3hmrman/async-dropper (⭐43)](https://github.com/t3hmrman/async-dropper) \[[async-dropper](https://crates.io/crates/async-dropper)] - Implementation of `AsyncDrop`
 
 ### Libraries / Email
 
-*   [meli/meli (⭐635)](https://github.com/meli/meli) - 🐝 terminal mail client
+*   [meli/meli (⭐697)](https://github.com/meli/meli) - 🐝 terminal mail client
 
 ### Libraries / GUI
 
-*   [makepad/makepad (⭐5k)](https://github.com/makepad/makepad) \[[makepad-widgets](https://crates.io/crates/makepad-widgets)] - Makepad is a creative software development platform that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl.
+*   [makepad/makepad (⭐5.3k)](https://github.com/makepad/makepad) \[[makepad-widgets](https://crates.io/crates/makepad-widgets)] - Makepad is a creative software development platform that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl.
 
-## [33. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
+## [32. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
 
 ### Communications / Bluetooth
 
-*   [micropython-aioble-itag (⭐0)](https://github.com/mcauser/micropython-aioble-itag) - Examples using aioble to interact with iTag BLE keychain tags.
+*   [micropython-aioble-itag (⭐1)](https://github.com/mcauser/micropython-aioble-itag) - Examples using aioble to interact with iTag BLE keychain tags.
 
 ### Display / Graphics
 
@@ -567,11 +555,11 @@
 
 ### IO / Multiplexer
 
-*   [micropython-tca9548a (⭐14)](https://github.com/mcauser/micropython-tca9548a) - MicroPython examples using TCA9548A I2C multiplexer.
+*   [micropython-tca9548a (⭐15)](https://github.com/mcauser/micropython-tca9548a) - MicroPython examples using TCA9548A I2C multiplexer.
 
 ### IO / Relay
 
-*   [micropython-xl9535-kxv5-relay (⭐5)](https://github.com/mcauser/micropython-xl9535-kxv5-relay) - A MicroPython library for jxl XL9535-KxV5 I2C relay boards.
+*   [micropython-xl9535-kxv5-relay (⭐10)](https://github.com/mcauser/micropython-xl9535-kxv5-relay) - A MicroPython library for jxl XL9535-KxV5 I2C relay boards.
 
 ### Sensors / Colour
 
@@ -583,30 +571,30 @@
 
 ### Sensors / Temperature Analog
 
-*   [micropython-generic-thermistor (⭐2)](https://github.com/Trexation/micropython-generic-thermistor) - MicroPython Generic Thermistor Library for simplified temperature sensing using NTC thermistors with voltage dividors.
+*   [micropython-generic-thermistor (⭐2)](https://github.com/Trexation/micropython-generic-thermistor) - MicroPython Generic Thermistor Library for simplified temperature sensing using NTC thermistors with voltage dividers.
 
 ### Sensors / Temperature Digital
 
-*   [micropython-hdc1080 (⭐1)](https://github.com/mcauser/micropython-hdc1080) - MicroPython driver for the HDC1080 temperature and humidity sensor.
+*   [micropython-hdc1080 (⭐2)](https://github.com/mcauser/micropython-hdc1080) - MicroPython driver for the HDC1080 temperature and humidity sensor.
 
 ### Storage / Flash
 
-*   [freezeFS (⭐24)](https://github.com/bixb922/freezeFS) - Create self-extracting compressed or self-mounting archives for MicroPython.
+*   [freezeFS (⭐29)](https://github.com/bixb922/freezeFS) - Create self-extracting compressed or self-mounting archives for MicroPython.
 
-## [34. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+## [33. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
 ### Third-Party Packages / Internationalisation (i18n)
 
-*   [django-localflavor (⭐820)](https://github.com/django/django-localflavor) - A collection of functionality that is useful for particular countries or cultures. Previously a part of the Django core.
-*   [django-modeltrans (⭐63)](https://github.com/zostera/django-modeltrans) - Translate Django model fields in a JSONField.
+*   [django-localflavor (⭐843)](https://github.com/django/django-localflavor) - A collection of functionality that is useful for particular countries or cultures. Previously a part of the Django core.
+*   [django-modeltrans (⭐66)](https://github.com/zostera/django-modeltrans) - Translate Django model fields in a JSONField.
 *   [django-modeltranslations (⭐1.4k)](https://github.com/deschler/django-modeltranslation) -  Translates Django models using a registration approach.
-*   [django-rosetta (⭐1k)](https://github.com/mbi/django-rosetta) - Rosetta provides a UI to read and write your project's gettext catalogs within the Django Admin.
+*   [django-rosetta (⭐1.1k)](https://github.com/mbi/django-rosetta) - Rosetta provides a UI to read and write your project's gettext catalogs within the Django Admin.
 
 ### Third-Party Packages / Task Queues
 
-*   [django-celery-results (⭐676)](https://github.com/celery/django-celery-results) -  Celery result backend with Django.
+*   [django-celery-results (⭐702)](https://github.com/celery/django-celery-results) -  Celery result backend with Django.
 
-## [35. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/week/README.md)
+## [34. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/week/README.md)
 
 ### News
 
@@ -616,48 +604,42 @@
 
 *   [The CircuitPython Show](https://www.circuitpythonshow.com/@circuitpythonshow) - an interview podcast with people in the CircuitPython community hosted  by Paul Cutler.
 
-## [36. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
+## [35. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
 
 ### Configs / Configs by Well-Known Companies/Organizations
 
-*   [Vercel (⭐1.2k)](https://github.com/vercel/style-guide/tree/canary/eslint) - Vercel Engineering's composable eslint configuration used in all their codebases.
+*   [Vercel (⭐1.3k)](https://github.com/vercel/style-guide/tree/canary/eslint) - Vercel Engineering's composable eslint configuration used in all their codebases.
 
-## [37. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [36. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Form Widgets / Calendar
 
-*   [Schedule-X (⭐919)](https://github.com/schedule-x/schedule-x) - Material design event calendar. Features drag & drop, dark mode, multiple views and more.
+*   [Schedule-X (⭐986)](https://github.com/schedule-x/schedule-x) - Material design event calendar. Features drag & drop, dark mode, multiple views and more.
 
-## [38. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
-
-### Projects / Workflow engine
-
-*   [Argo Workflows (⭐14k) (⭐15k)](https://github.com/argoproj/argo-workflows) - An open-source, container-native workflow engine designed to orchestrate parallel jobs on Kubernetes, making it easier to manage and automate complex workflows in a cloud-native environment.
-
-## [39. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [37. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / Machine learning
 
-*   [classy-lala (⭐3)](https://github.com/retraigo/la-classy) - Single-layer perceptrons for supervised learning tasks.
-*   [appraisal (⭐4)](https://github.com/retraigo/appraisal) - Feature extraction and conversion.
+*   [classy-lala (⭐4)](https://github.com/retraigo/la-classy) - Single-layer perceptrons for supervised learning tasks.
+*   [appraisal (⭐5)](https://github.com/retraigo/appraisal) - Feature extraction and conversion.
 
-## [40. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [38. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Office
 
-*   [OfficeIMO (⭐274)](https://github.com/EvotecIt/OfficeIMO) - OfficeIMO makes it easier for developers to create/modify Word (docx) files without having Microsoft Word or Office installed
+*   [OfficeIMO (⭐297)](https://github.com/EvotecIt/OfficeIMO) - OfficeIMO makes it easier for developers to create/modify Word (docx) files without having Microsoft Word or Office installed
 
 ### Web Servers
 
-*   [SimpleW (⭐21)](https://github.com/stratdev3/SimpleW) - Simple Web Server, build your RestAPI, fast, lightweight and cross-platform.
+*   [SimpleW (⭐25)](https://github.com/stratdev3/SimpleW) - Simple Web Server, build your RestAPI, fast, lightweight and cross-platform.
 
-## [41. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
+## [39. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
 
 ### Multimedia
 
 *   [Collector](https://mijorus.it/projects/collector) - Dropover utility that allows to drag files/images/text into a collection window and drop them anywhere.
 
-## [42. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [40. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### OS Images
 
@@ -666,30 +648,30 @@
 ### Tools
 
 *   [ApplePi Baker](https://www.tweaking4all.com/hardware/raspberry-pi/applepi-baker-v2/) - macOS application to easily install/backup/restore images onto an SD card.
-*   [PiGro (⭐25)](https://github.com/actionschnitzel/PiGro-Aid-) - PiGro does many commands that have to be entered via the terminal with one or two clicks of a button.
+*   [PiGro (⭐28)](https://github.com/actionschnitzel/PiGro-Aid-) - PiGro does many commands that have to be entered via the terminal with one or two clicks of a button.
 
 ### Useful Apps / Android
 
 *   **PiGo** - Effortlessly explore and manage multiple Pi servers on the go. [Android](https://play.google.com/store/apps/details?id=com.tejasgajjar.pigo)
 
-## [43. Magictools](/content/ellisonleao/magictools/week/README.md)
+## [41. Magictools](/content/ellisonleao/magictools/week/README.md)
 
 ### Engines and Frameworks / Voxel Editors
 
-*   :tada: [Foster (⭐407)](https://github.com/FosterFramework/Foster) - A small cross-platform 2D game framework in C#.
+*   :tada: [Foster (⭐471)](https://github.com/FosterFramework/Foster) - A small cross-platform 2D game framework in C#.
 
 ### Complete Game Sources / Voxel Editors
 
-*   :tada: [Barotrauma (⭐1.7k)](https://github.com/Regalis11/Barotrauma)
+*   :tada: [Barotrauma (⭐1.8k)](https://github.com/Regalis11/Barotrauma)
 
-## [44. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
+## [42. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
 
 ### Packages / Libraries
 
 *   [waveform-path (⭐81)](https://github.com/jerosoler/waveform-path) - Library to generate waveforms paths in svg.
 *   [wave-audio-path-player (⭐43)](https://github.com/jerosoler/wave-audio-path-player) - Simple audio player webcomponent customizable with waveform.
 
-## [45. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [43. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Messaging and Streaming
 
@@ -699,42 +681,38 @@
 
 *   [Findr](https://www.usefindr.com/) - Universal search that lets you search all your apps, at once. Search assistant that lets you answer questions using your information. Free plan offers unlimited unified search and 5 co daily co pilot queries.
 
-## [46. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+## [44. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
 ### PlayCanvas
 
 *   [Reference](https://api.playcanvas.com/) - API reference manual for the engine run-time.
 *   [User Manual](https://developer.playcanvas.com/user-manual/) - PlayCanvas user guide.
 
-## [47. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
+## [45. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
 
 ### Blogs - Security / React
 
 *   [Authorization Patterns in GraphQL](https://www.osohq.com/post/graphql-authorization)
 
-## [48. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
+## [46. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### GUI
 
-*   [Another Redis Desktop Manager (⭐30k)](https://github.com/qishibo/AnotherRedisDesktopManager) - Free Open Source Redis Manager. Available on Mac, Linux, Windows, Homebrew, Snap, winget, and more.
+*   [Another Redis Desktop Manager (⭐31k)](https://github.com/qishibo/AnotherRedisDesktopManager) - Free Open Source Redis Manager. Available on Mac, Linux, Windows, Homebrew, Snap, winget, and more.
 
-## [49. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
-
-### Misc
-
-*   [Defer](https://defer.run/) - Serverless Node.js background jobs.
+## [47. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Monitoring
 
-*   [Highlight.io](https://www.highlight.io/) - Full-stack monitoring platform. [![Highlight.io](https://img.shields.io/github/stars/highlight/highlight?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/highlight/highlight)
+*   [Highlight.io](https://www.highlight.io/) - Full-stack monitoring platform. [![Highlight.io](https://img.shields.io/github/stars/highlight/highlight?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/highlight/highlight) [![featured on launchweek.dev](https://img.shields.io/badge/featured-0D1117.svg?style=flat-square\&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMzYwIiBoZWlnaHQ9IjM2MCIgdmlld0JveD0iMCAwIDM2MCAzNjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+IDxyZWN0IHdpZHRoPSI2MCIgaGVpZ2h0PSIzMDAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjYwIiB5PSIzMDAiIHdpZHRoPSIxMjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjI0MCIgeT0iMzAwIiB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjMwMCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjMwMCIgZmlsbD0id2hpdGUiLz4gPHJlY3QgeD0iMTgwIiB3aWR0aD0iNjAiIGhlaWdodD0iMzAwIiBmaWxsPSJ3aGl0ZSIvPiA8L3N2Zz4=)](https://launchweek.dev)
 
-## [50. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
+## [48. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
 
 ### Profiling / Data Profiler
 
 *   [Data Profiler (⭐1.4k)](https://github.com/capitalone/dataprofiler) - The DataProfiler is a Python library designed to make data analysis, monitoring, and sensitive data detection easy.
 
-## [51. Awesome Ai4lam](/content/AI4LAM/awesome-ai4lam/week/README.md)
+## [49. Awesome Ai4lam](/content/AI4LAM/awesome-ai4lam/week/README.md)
 
 ### Learning Resources / Introductions to AI
 
@@ -770,39 +748,39 @@
 *   [Digital Library Federation (DLF) 2024 Forum](https://forum2024.diglib.org) – Jul. 29–31 at Michigan State U., East Lansing, Michigan, USA.
 *   [International Conference on Document Analysis and Recognition (ICDAR) 2024](https://icdar2024.net) – Aug. 30–Sep. 4 in Athens, Greece.
 
-## [52. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [50. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-biome (⭐35)](https://github.com/skrulling/vite-plugin-biome) - Biome linter.
+*   [vite-plugin-biome (⭐51)](https://github.com/skrulling/vite-plugin-biome) - Biome linter.
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [vite-plugin-lib-types (⭐4)](https://github.com/keuby/vite-plugin-lib-types) - Generate DTS file while building library.
+*   [vite-plugin-lib-types (⭐7)](https://github.com/keuby/vite-plugin-lib-types) - Generate DTS file while building library.
 
-## [53. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [51. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### (requires Neovim 0.5)
 
-*   [marilari88/twoslash-queries.nvim (⭐143)](https://github.com/marilari88/twoslash-queries.nvim) - Provide inline virtual text displaying TypeScript types for the inspected variables.
+*   [marilari88/twoslash-queries.nvim (⭐154)](https://github.com/marilari88/twoslash-queries.nvim) - Provide inline virtual text displaying TypeScript types for the inspected variables.
 
 ### Programming Languages Support / Diagnostics
 
-*   [iabdelkareem/csharp.nvim (⭐180)](https://github.com/iabdelkareem/csharp.nvim) - Enhances the development experience for .NET developers.
+*   [iabdelkareem/csharp.nvim (⭐239)](https://github.com/iabdelkareem/csharp.nvim) - Enhances the development experience for .NET developers.
 
 ### Markdown and LaTeX / Diagnostics
 
-*   [Nedra1998/nvim-mdlink (⭐21)](https://github.com/Nedra1998/nvim-mdlink) - Simplify creating and following markdown links.
+*   [Nedra1998/nvim-mdlink (⭐29)](https://github.com/Nedra1998/nvim-mdlink) - Simplify creating and following markdown links.
 
 ### Language / Diagnostics
 
-*   [tanloong/interlaced.nvim (⭐6)](https://github.com/tanloong/interlaced.nvim) - Help align bilingual parallel texts.
+*   [tanloong/interlaced.nvim (⭐7)](https://github.com/tanloong/interlaced.nvim) - Help align bilingual parallel texts.
 
 ### Marks / Diagnostics
 
-*   [LintaoAmons/bookmarks.nvim (⭐155)](https://github.com/LintaoAmons/bookmarks.nvim) - Your new bookmarks option: simple yet powerful.
+*   [LintaoAmons/bookmarks.nvim (⭐208)](https://github.com/LintaoAmons/bookmarks.nvim) - Your new bookmarks option: simple yet powerful.
 
-## [54. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [52. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Critical Views about Generative AI
 
@@ -812,17 +790,16 @@
 
 *   [Code to Flow](https://codetoflow.com): Visualize, Analyze, and Understand Your Code flow. Turn Code into Interactive Flowcharts with AI. Simplify Complex Logic Instantly.
 
-## [55. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [53. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [chatGPT (⭐54)](https://github.com/mountaineerbr/shellChatGPT) - A command-line wrapper for OpenAI API for ChatGPT, DALL-E, and Whisper.
-*   [eza (mohamedelashri) (⭐1)](https://github.com/MohamedElashri/eza-zsh) - Adds aliases for [eza (⭐11k)](https://github.com/eza-community/eza), a modern replacement for `ls`.
+*   [eza (mohamedelashri) (⭐3)](https://github.com/MohamedElashri/eza-zsh) - Adds aliases for [eza (⭐14k)](https://github.com/eza-community/eza), a modern replacement for `ls`.
 *   [prezto-last-working-dir (⭐0)](https://github.com/JoniVanderheijden/prezto-last-working-dir) - Keeps track of the last used working directory and automatically jumps into it for new shells, unless the starting directory is not `$HOME`. Includes a `lwd` alias.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [greencastle (⭐0)](https://github.com/GustavGroenborg/greencastle-zsh-theme/) - Minimalistic theme, that supports really, **really**, long branch names, without severely truncating the prompt. The theme is inspired by the [jonathan theme (⭐0)](https://github.com/thlorenz/oh-my-zsh/blob/master/themes/jonathan.zsh-theme) and the [robby russel theme (⭐0)](https://github.com/thlorenz/oh-my-zsh/blob/master/themes/robbyrussell.zsh-theme). Includes decorators for current directory, `git` information and the exit status of the last command run.
+*   [greencastle (⭐1)](https://github.com/GustavGroenborg/greencastle-zsh-theme/) - Minimalistic theme, that supports really, **really**, long branch names, without severely truncating the prompt. The theme is inspired by the [jonathan theme (⭐0)](https://github.com/thlorenz/oh-my-zsh/blob/master/themes/jonathan.zsh-theme) and the [robby russel theme (⭐0)](https://github.com/thlorenz/oh-my-zsh/blob/master/themes/robbyrussell.zsh-theme). Includes decorators for current directory, `git` information and the exit status of the last command run.
 
 ---
 

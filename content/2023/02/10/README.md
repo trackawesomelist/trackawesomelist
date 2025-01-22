@@ -21,7 +21,7 @@
 
 ### Compilers and interpreters
 
-*   [fubark/cyber (⭐1.2k)](https://github.com/fubark/cyber) - Fast and concurrent scripting.
+*   [fubark/cyber (⭐1.3k)](https://github.com/fubark/cyber) - Fast and concurrent scripting.
 
 ## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -33,7 +33,7 @@
 
 ### Miscellaneous Data Structures and Algorithms
 
-*   [gogu (⭐97)](https://github.com/esimov/gogu) - A comprehensive, reusable and efficient concurrent-safe generics utility functions and data structures library.
+*   [gogu (⭐101)](https://github.com/esimov/gogu) - A comprehensive, reusable and efficient concurrent-safe generics utility functions and data structures library.
 
 ## [5. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
@@ -45,7 +45,7 @@
 
 ### Application platforms / Samples
 
-*   [ILLA Cloud (⭐11k)](https://github.com/illacloud/illa-builder) - Low-code internal tool building platform.
+*   [ILLA Cloud (⭐12k)](https://github.com/illacloud/illa-builder) - Low-code internal tool building platform.
 
 ## [7. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
@@ -57,7 +57,7 @@
     It uses the pycodestyle utility to determine what parts of the code needs to be formatted.
 *   [yapf (⭐14k)](https://github.com/google/yapf) — A formatter for Python files created by Google
     YAPF follows a distinctive methodology, originating from the 'clang-format' tool created by Daniel Jasper. Essentially, the program reframes the code to the most suitable formatting that abides by the style guide, even if the original code already follows the style guide. This concept is similar to the Go programming language's 'gofmt' tool, which aims to put an end to debates about formatting by having the entire codebase of a project pass through YAPF whenever changes are made, thereby maintaining a consistent style throughout the project and eliminating the need to argue about style in every code review.
-*   [stc](https://stc.dudy.dev) — Speedy TypeScript type checker written in Rust
+*   [stc](https://stc.dudy.dev) :warning: — Speedy TypeScript type checker written in Rust
 
 ## [8. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 

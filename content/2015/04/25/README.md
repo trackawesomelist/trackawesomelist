@@ -14,7 +14,7 @@
 
 ### Language API
 
-*   [jvmr (⭐15)](https://github.com/cran/jvmr) - Integration of R, Java, and Scala.
+*   [jvmr (⭐16)](https://github.com/cran/jvmr) - Integration of R, Java, and Scala.
 *   [rpy2](http://rpy.sourceforge.net/) - Python interface for R.
 
 ### Bioinformatics and Biostatistics

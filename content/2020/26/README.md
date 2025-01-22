@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 29 - Jul 05, 2020
 
-63 awesome lists updated this week.
+62 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Device / Bluetooth / NFC / Beacon
 
-*   [NFC Manager (⭐190)](https://github.com/okadan/flutter-nfc-manager) <!--stargazers:okadan/flutter-nfc-manager--> - Generic NFC plugin for iOS and Android by [Naoki Okada](https://github.com/okadan)
+*   [NFC Manager (⭐212)](https://github.com/okadan/flutter-nfc-manager) <!--stargazers:okadan/flutter-nfc-manager--> - Generic NFC plugin for iOS and Android by [Naoki Okada](https://github.com/okadan)
 
 ## [2. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/week/README.md)
 
@@ -41,13 +41,13 @@
 
 ### Validation / Playground
 
-*   [computed-types (⭐365)](https://github.com/neuledge/computed-types) - 🦩 Joi like validations for TypeScript
+*   [computed-types (⭐363)](https://github.com/neuledge/computed-types) - 🦩 Joi like validations for TypeScript
 
 ## [4. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
 ### Notifications and Messages / Code Coverage
 
-*   [Reply to Stale Bots (⭐15)](https://github.com/c-hive/fresh-bot)
+*   [Reply to Stale Bots (⭐32)](https://github.com/c-hive/fresh-bot)
 
 ## [5. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
 
@@ -59,7 +59,7 @@
 
 ### Tools / Reverse Engineering
 
-*   [Noia (⭐110)](https://github.com/0x742/noia) - Simple Android application sandbox file browser tool
+*   [Noia (⭐114)](https://github.com/0x742/noia) - Simple Android application sandbox file browser tool
 
 ## [7. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
@@ -323,15 +323,15 @@
 
 ### Gaming
 
-*   [Flame (⭐1k)](https://github.com/flame-engine/awesome-flame#readme) - Game engine for Flutter.
+*   [Flame (⭐1.1k)](https://github.com/flame-engine/awesome-flame#readme) - Game engine for Flutter.
 
 ### Media
 
-*   [Audiovisual (⭐174)](https://github.com/stingalleman/awesome-audiovisual#readme) - Lighting, audio and video in professional environments.
+*   [Audiovisual (⭐186)](https://github.com/stingalleman/awesome-audiovisual#readme) - Lighting, audio and video in professional environments.
 
 ### Miscellaneous
 
-*   [WP-CLI (⭐190)](https://github.com/schlessera/awesome-wp-cli#readme) - Command-line interface for WordPress.
+*   [WP-CLI (⭐196)](https://github.com/schlessera/awesome-wp-cli#readme) - Command-line interface for WordPress.
 
 ## [12. Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/week/README.md)
 
@@ -350,7 +350,7 @@
 ### Projects
 
 *   [Coder for Raspberry Pi](http://googlecreativelab.github.io/coder/) - A open source project by Googlers to turn a Raspberry Pi into a simple, tiny, personal web server and web-based development environment.
-*   [Network Presence Detector (⭐368)](https://github.com/initialstate/pi-sensor-free-presence-detector/wiki) - Setup a Pi Zero to scan for devices on a WiFi network and use that to determine who is "home".
+*   [Network Presence Detector (⭐369)](https://github.com/initialstate/pi-sensor-free-presence-detector/wiki) - Setup a Pi Zero to scan for devices on a WiFi network and use that to determine who is "home".
 *   [P4wnP1 (⭐4k)](https://github.com/mame82/P4wnP1) - P4wnP1 is a highly customizable USB attack platform, based on a low cost Raspberry Pi Zero or Raspberry Pi Zero W (required for HID backdoor). ![Supports Raspberry Pi Zero](https://github.com/thibmaek/awesome-raspberry-pi/raw/main/media/badges/rpi-0.png)
 *   [PoisonTap (⭐6.2k)](https://github.com/samyk/poisontap) - Exploits locked/password protected computers over USB, drops persistent WebSocket-based backdoor, exposes internal router, and siphons cookies using Raspberry Pi Zero & Node.js. ![Supports Raspberry Pi Zero](https://github.com/thibmaek/awesome-raspberry-pi/raw/main/media/badges/rpi-0.png)
 
@@ -370,11 +370,11 @@
 
 ### API Gateways / Edge Services / Scala
 
-*   [HAProxy (⭐4.7k)](https://github.com/haproxy/haproxy) - Reliable, high Performance TCP/HTTP load balancer.
+*   [HAProxy (⭐5.2k)](https://github.com/haproxy/haproxy) - Reliable, high Performance TCP/HTTP load balancer.
 
 ### Job Schedulers / Workload Automation / Scala
 
-*   [Celery (⭐24k)](https://github.com/celery/celery) - Asynchronous task queue/job queue based on distributed message passing. Focused on real-time operation and supports scheduling.
+*   [Celery (⭐25k)](https://github.com/celery/celery) - Asynchronous task queue/job queue based on distributed message passing. Focused on real-time operation and supports scheduling.
 
 ### QUIC / Scala
 
@@ -393,16 +393,16 @@
 
 ### Component abstraction crates / Other
 
-*   [`atat`](https://github.com/BlackbirdHQ/atat): Abstraction crate to ease writing AT based driver crates - ![crates.io](https://img.shields.io/crates/v/atat.svg)
+*   [`atat`](https://github.com/BlackbirdHQ/atat): Abstraction crate to ease writing AT based driver crates - [![crates.io](https://img.shields.io/crates/v/atat.svg)](https://crates.io/crates/atat)
 
 ### Driver crates / Other
 
-*   [ADXL313](https://crates.io/crates/adxl313) - SPI - 3-axis accelerometer - ![crates.io](https://img.shields.io/crates/v/adxl313.svg)
-*   [TC72](https://crates.io/crates/microchip-tc72r-rs) - SPI - Microchip TC72 temperature sensor - ![crates.io](https://img.shields.io/crates/v/microchip-tc72r-rs.svg)
+*   [ADXL313](https://crates.io/crates/adxl313) - SPI - 3-axis accelerometer - [![crates.io](https://img.shields.io/crates/v/adxl313.svg)](https://crates.io/crates/adxl313)
+*   [TC72](https://crates.io/crates/microchip-tc72r-rs) - SPI - Microchip TC72 temperature sensor - [![crates.io](https://img.shields.io/crates/v/microchip-tc72r-rs.svg)](https://crates.io/crates/microchip-tc72r-rs)
 
 ### Driver crates / WIP
 
-*   [ublox-cellular-rs (⭐20)](https://github.com/BlackbirdHQ/ublox-cellular-rs) - Serial - Cellular driver for the full Ublox cellular serial based family
+*   [ublox-cellular-rs (⭐22)](https://github.com/BlackbirdHQ/ublox-cellular-rs) - Serial - Cellular driver for the full Ublox cellular serial based family
 
 ## [18. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
@@ -425,7 +425,7 @@
 
 ### 🔱 Workflow Automation / 酷Q Plugin
 
-*   [feedpushr (⭐336)](https://github.com/ncarlier/feedpushr) <sup>[692](https://t.me/s/aboutrss/692)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/ncarlier/feedpushr)
+*   [feedpushr (⭐356)](https://github.com/ncarlier/feedpushr) <sup>[692](https://t.me/s/aboutrss/692)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/ncarlier/feedpushr)
 
 ### specifically from (*a certain platform*) / Instagram
 
@@ -443,7 +443,7 @@
 ### Society / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [一些法律相关信息的 RSS 订阅地址](https://blackwinmin.github.io/posts/law_rss/) <sup>[681](https://t.me/s/aboutrss/681)</sup>
-*   [品葱精选 (⭐6)](https://github.com/Project-Gutenberg/Pincong) <sup>[685](https://t.me/s/aboutrss/685)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Project-Gutenberg/Pincong)
+*   [品葱精选 (⭐9)](https://github.com/Project-Gutenberg/Pincong) <sup>[685](https://t.me/s/aboutrss/685)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Project-Gutenberg/Pincong)
 
 ### Tech or IT / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
@@ -457,7 +457,7 @@
 ### Turn YouTube into Podcast / Crypto or Blockchain relevant
 
 *   [Listenbox](https://listenbox.app) <sup>[683](https://t.me/s/aboutrss/683)</sup>
-*   [YouCast (⭐245)](https://github.com/i3arnon/YouCast) <sup>[684](https://t.me/s/aboutrss/684)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/i3arnon/YouCast)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+*   [YouCast (⭐252)](https://github.com/i3arnon/YouCast) <sup>[684](https://t.me/s/aboutrss/684)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/i3arnon/YouCast)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
 ## [19. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/week/README.md)
 
@@ -608,11 +608,11 @@ Language: English
 
 ### Calendar / Barcode
 
-*   [HorizonCalendar (⭐2.7k)](https://github.com/airbnb/HorizonCalendar) - A declarative, performant, iOS calendar UI component that supports use cases ranging from simple date pickers all the way up to fully-featured calendar apps.
+*   [HorizonCalendar (⭐2.8k)](https://github.com/airbnb/HorizonCalendar) - A declarative, performant, iOS calendar UI component that supports use cases ranging from simple date pickers all the way up to fully-featured calendar apps.
 
 ### Walkthrough / Barcode
 
-*   [SuggestionsKit (⭐69)](https://github.com/huemae/SuggestionsKit) - Library for educating users about features in app.
+*   [SuggestionsKit (⭐70)](https://github.com/huemae/SuggestionsKit) - Library for educating users about features in app.
 
 ## [23. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
@@ -622,17 +622,17 @@ Language: English
 
 ### 2D/3D Rendering engines / Charts
 
-*   [ChartJs.Blazor (⭐677)](https://github.com/mariusmuntean/ChartJs.Blazor) - ![GitHub stars](https://img.shields.io/github/stars/mariusmuntean/ChartJs.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/akorchev/razor.radzen.com?style=flat-square\&cacheSeconds=86400) Brings [ChartJs (⭐64k)](https://github.com/chartjs/Chart.js) charts to Blazor.
-*   [GG.Net Data Visualization (⭐80)](https://github.com/pablofrommars/GGNet) - ![stars](https://img.shields.io/github/stars/pablofrommars/GGNet?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/pablofrommars/GGNet?style=flat-square\&cacheSeconds=86400) Interactive and flexible charts for Blazor Web Apps. Taking its inspiration from the highly popular ggpplot2 R package, GG.Net provides natively rich features for your Data Analysis Workflow. Build publication quality charts with just a few lines of code. [Website](https://pablofrommars.github.io/).
-*   [Plotly.Blazor (⭐332)](https://github.com/LayTec-AG/Plotly.Blazor) - ![stars](https://img.shields.io/github/stars/LayTec-AG/Plotly.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/LayTec-AG/Plotly.Blazor?style=flat-square\&cacheSeconds=86400) Brings the charting library [plotly.js (⭐17k)](https://github.com/plotly/plotly.js) with over 40 chart types to Blazor ([Demo](https://laytec-ag.github.io/Plotly.Blazor/)).
+*   [ChartJs.Blazor (⭐695)](https://github.com/mariusmuntean/ChartJs.Blazor) - ![GitHub stars](https://img.shields.io/github/stars/mariusmuntean/ChartJs.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/akorchev/razor.radzen.com?style=flat-square\&cacheSeconds=86400) Brings [ChartJs (⭐65k)](https://github.com/chartjs/Chart.js) charts to Blazor.
+*   [GG.Net Data Visualization (⭐81)](https://github.com/pablofrommars/GGNet) - ![stars](https://img.shields.io/github/stars/pablofrommars/GGNet?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/pablofrommars/GGNet?style=flat-square\&cacheSeconds=86400) Interactive and flexible charts for Blazor Web Apps. Taking its inspiration from the highly popular ggpplot2 R package, GG.Net provides natively rich features for your Data Analysis Workflow. Build publication quality charts with just a few lines of code. [Website](https://pablofrommars.github.io/).
+*   [Plotly.Blazor (⭐363)](https://github.com/LayTec-AG/Plotly.Blazor) - ![stars](https://img.shields.io/github/stars/LayTec-AG/Plotly.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/LayTec-AG/Plotly.Blazor?style=flat-square\&cacheSeconds=86400) Brings the charting library [plotly.js (⭐17k)](https://github.com/plotly/plotly.js) with over 40 chart types to Blazor ([Demo](https://laytec-ag.github.io/Plotly.Blazor/)).
 
 ### 2D/3D Rendering engines / Date & time
 
-*   [BlazorDateRangePicker (⭐182)](https://github.com/jdtcn/BlazorDateRangePicker) - ![stars](https://img.shields.io/github/stars/jdtcn/BlazorDateRangePicker?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jdtcn/BlazorDateRangePicker?style=flat-square\&cacheSeconds=86400) A date range picker component library for Blazor. [Demo](https://BlazorDateRangePicker.azurewebsites.net/).
+*   [BlazorDateRangePicker (⭐186)](https://github.com/jdtcn/BlazorDateRangePicker) - ![stars](https://img.shields.io/github/stars/jdtcn/BlazorDateRangePicker?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jdtcn/BlazorDateRangePicker?style=flat-square\&cacheSeconds=86400) A date range picker component library for Blazor. [Demo](https://BlazorDateRangePicker.azurewebsites.net/).
 
 ### 2D/3D Rendering engines / Modal, Toast & Notifications
 
-*   [Blazored.Modal (⭐765)](https://github.com/Blazored/Modal) - ![GitHub stars](https://img.shields.io/github/stars/Blazored/Modal?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Blazored/Modal?style=flat-square\&cacheSeconds=86400) A JavaScript free modal library for Blazor and Razor Components applications.
+*   [Blazored.Modal (⭐789)](https://github.com/Blazored/Modal) - ![GitHub stars](https://img.shields.io/github/stars/Blazored/Modal?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Blazored/Modal?style=flat-square\&cacheSeconds=86400) A JavaScript free modal library for Blazor and Razor Components applications.
 
 ### 2D/3D Rendering engines / Others
 
@@ -660,7 +660,7 @@ Language: English
 
 ### Third-Party Packages / Models
 
-*   [django-polymorphic (⭐1.6k)](https://github.com/django-polymorphic/django-polymorphic) - Django-polymorphic simplifies using inherited models in Django projects.
+*   [django-polymorphic (⭐1.7k)](https://github.com/django-polymorphic/django-polymorphic) - Django-polymorphic simplifies using inherited models in Django projects.
 
 ## [28. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
@@ -672,13 +672,13 @@ Language: English
 
 ### Tools and session management
 
-*   [dmux (⭐305)](https://github.com/zdcthomas/dmux) Configurable tmux workspace manager written in Rust
+*   [dmux (⭐316)](https://github.com/zdcthomas/dmux) Configurable tmux workspace manager written in Rust
 
 ## [30. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Intermediate
 
-*   [Lisp Tips (⭐118)](https://github.com/lisp-tips/lisp-tips/issues/) - A blog with useful tips and tricks. A continuation of [Common Lisp tips](http://lisptips.com/).
+*   [Lisp Tips (⭐123)](https://github.com/lisp-tips/lisp-tips/issues/) - A blog with useful tips and tricks.
 *   [Lisp project of the day](http://40ants.com/lisp-project-of-the-day/) - A blog showcasing many Lisp libraries.
 
 ## [31. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
@@ -894,25 +894,25 @@ Language: English
 
 ## [37. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
-### Godot script editor syntax themes / Godot version unknown
+### Syntax themes / Godot version unknown
 
-*   [Godot syntax themes (⭐376)](https://github.com/godotengine/godot-syntax-themes) - 13 syntax themes including Ayu Mirage, Darcula, Gruvbox Dark, Monokai, One Dark, Solarized, and more.
+*   [Godot syntax themes (⭐411)](https://github.com/godotengine/godot-syntax-themes) - 13 syntax themes including Ayu Mirage, Darcula, Gruvbox Dark, Monokai, One Dark, Solarized, and more.
 
 ## [38. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Password Managers
 
-*   [Passbolt](https://www.passbolt.com/) - Password manager dedicated for managing passwords in a collaborative way on any Web server, using a MySQL database backend. ([Source Code (⭐4.5k)](https://github.com/passbolt/passbolt_api)) `AGPL-3.0` `PHP/deb/K8S/Docker`
+*   [Passbolt](https://www.passbolt.com/) - Password manager dedicated for managing passwords in a collaborative way on any Web server, using a MySQL database backend. ([Source Code (⭐4.8k)](https://github.com/passbolt/passbolt_api)) `AGPL-3.0` `PHP/deb/K8S/Docker`
 
 ### Software / Search Engines
 
-*   [sist2 (⭐838)](https://github.com/simon987/sist2) - Lightning-fast file system indexer and search tool. `GPL-3.0` `C/Docker`
+*   [sist2 (⭐924)](https://github.com/simon987/sist2) - Lightning-fast file system indexer and search tool. `GPL-3.0` `C/Docker`
 
 ## [39. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
 
 ### Utils
 
-*   [Moon (⭐216)](https://github.com/aerokube/moon) - Tools for executing Playwright tests in parallel in a Kubernetes cluster.
+*   [Moon (⭐222)](https://github.com/aerokube/moon) - Tools for executing Playwright tests in parallel in a Kubernetes cluster.
 
 ## [40. Awesome Ssh](/content/moul/awesome-ssh/week/README.md)
 
@@ -955,30 +955,30 @@ Language: English
 *   [Node.js Standard Style (⭐6)](https://github.com/geek/node-style) - Node.js core config.
 *   [Standard (⭐29k)](https://github.com/feross/standard) - JavaScript Standard Style.
 *   [Superlint (⭐5)](https://github.com/supermind/superlint) - JavaScript Supermind Style.
-*   [XO (⭐7.6k)](https://github.com/sindresorhus/xo) - JavaScript happiness style linter ❤️.
+*   [XO (⭐7.7k)](https://github.com/sindresorhus/xo) - JavaScript happiness style linter ❤️.
 *   [Healthier (⭐84)](https://github.com/KidkArolis/healthier) - Code style agnostic version of Standard, perfect companion to Prettier.
 
 ### Parsers / Testing Tools
 
 *   [TypeScript (⭐15k)](https://github.com/typescript-eslint/typescript-eslint) - A TypeScript parser that produces output compatible with ESLint.
-*   [BrightScript (⭐43)](https://github.com/RokuRoad/eslint-plugin-roku) - BrightScript plugin for Roku development. Includes Parser and Rules.
+*   [BrightScript (⭐44)](https://github.com/RokuRoad/eslint-plugin-roku) - BrightScript plugin for Roku development. Includes Parser and Rules.
 
 ### Globals / Testing Tools
 
-*   [ES and browser globals (⭐364)](https://github.com/sindresorhus/globals) (originally from ESLint)
+*   [ES and browser globals (⭐399)](https://github.com/sindresorhus/globals) (originally from ESLint)
 *   [chai globals (⭐2)](https://github.com/t-huth/eslint-plugin-chai-assert-bdd)
 
 ## [45. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
 ### Documentation
 
-*   [Game Boy Project Report](http://www.cs.columbia.edu/~sedwards/classes/2019/4840-spring/reports/GameBoy.pdf) - Report of an hardware [emulator (⭐4)](https://github.com/kitsuneh/SVGameBoy) (on a Terasic DE1-SoC Board) developed as final project for the CSEE4840 Embedded Systems Design course at Columbia University.
+*   [Game Boy Project Report](http://www.cs.columbia.edu/~sedwards/classes/2019/4840-spring/reports/GameBoy.pdf) - Report of an hardware [emulator (⭐6)](https://github.com/kitsuneh/SVGameBoy) (on a Terasic DE1-SoC Board) developed as final project for the CSEE4840 Embedded Systems Design course at Columbia University.
 
 ## [46. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Community Extensions
 
-*   [leroyguillaume/keycloak-bcrypt (⭐129)](https://github.com/leroyguillaume/keycloak-bcrypt)
+*   [leroyguillaume/keycloak-bcrypt (⭐139)](https://github.com/leroyguillaume/keycloak-bcrypt)
 
 ### Integrations
 
@@ -990,10 +990,6 @@ Language: English
 ### Resources / External Resources
 
 *   [Vue.js Online Courses Directory](https://classpert.com/vuejs) - Vue.js courses from top e-learning platforms curated by Classpert, a online course search engine.
-
-### Resources / Examples
-
-*   [vuetify-i18n-boilerplate (⭐14)](https://github.com/Morgbn/vuetify-i18n-boilerplate) - [Demo](https://morgbn.github.io/vuetify-i18n-boilerplate) - A boilerplate to quickly start a Vue project using Vuetify, Vue-i18n, Vuex and Vue-router
 
 ### Projects Using Vue.js / Apps/Websites
 
@@ -1023,11 +1019,11 @@ Language: English
 
 ### Applications
 
-*   [asm-cli-rust (⭐311)](https://github.com/cch123/asm-cli-rust) - An interactive assembly shell.
-*   [denoland/deno (⭐94k)](https://github.com/denoland/deno) - A secure JavaScript/TypeScript runtime built with V8 and Tokio [![Build Status](https://github.com/denoland/deno/workflows/ci/badge.svg?branch=master\&event=push)](https://github.com/denoland/deno/actions)
-*   [kytan (⭐476)](https://github.com/changlan/kytan) - High Performance Peer-to-Peer VPN
+*   [asm-cli-rust (⭐328)](https://github.com/cch123/asm-cli-rust) - An interactive assembly shell.
+*   [denoland/deno (⭐101k)](https://github.com/denoland/deno) - A secure JavaScript/TypeScript runtime built with V8 and Tokio [![Build Status](https://github.com/denoland/deno/workflows/ci/badge.svg?branch=master\&event=push)](https://github.com/denoland/deno/actions)
+*   [kytan (⭐490)](https://github.com/changlan/kytan) - High Performance Peer-to-Peer VPN
 *   [linkerd/linkerd2-proxy (⭐2k)](https://github.com/linkerd/linkerd2-proxy) - Ultralight service mesh for Kubernetes.
-*   [rx (⭐3.1k)](https://github.com/cloudhead/rx) - Vi inspired Modern Pixel Art Editor
+*   [rx (⭐3.2k)](https://github.com/cloudhead/rx) - Vi inspired Modern Pixel Art Editor
 
 ## [51. Awesome Mobile Web Development](/content/myshov/awesome-mobile-web-development/week/README.md)
 
@@ -1035,13 +1031,7 @@ Language: English
 
 *   [CSS fix for 100vh in mobile WebKit](https://allthingssmitty.com/2020/05/11/css-fix-for-100vh-in-mobile-webkit/) - How to fix issue with 100vh in mobile WebKit.
 
-## [52. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
-
-### Articles & Posts
-
-*   [Written communication is remote work super power](https://snir.dev/blog/remote-async-communication/)
-
-## [53. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [52. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### Continuous Integration
 
@@ -1063,7 +1053,7 @@ Language: English
 
 *   [react-native-leveldown (⭐22)](https://github.com/andymatuschak/react-native-leveldown) - Native LevelDB bindings for React Native
 
-## [54. Awesome Seml](/content/SE-ML/awesome-seml/week/README.md)
+## [53. Awesome Seml](/content/SE-ML/awesome-seml/week/README.md)
 
 ### Model Training
 
@@ -1087,13 +1077,13 @@ Language: English
 *   [Tensorflow Extended (TFX)](https://www.tensorflow.org/tfx/) - An end-to-end platform for deploying production ML pipelines.
 *   [Weights & Biases](https://www.wandb.com/) - Experiment tracking, model optimization, and dataset versioning.
 
-## [55. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [54. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Files and Directories
 
-*   [waffle (⭐716)](https://github.com/elixir-waffle/waffle) - Flexible file upload and attachment library for Elixir.
+*   [waffle (⭐756)](https://github.com/elixir-waffle/waffle) - Flexible file upload and attachment library for Elixir.
 
-## [56. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/week/README.md)
+## [55. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/week/README.md)
 
 ### Applications
 
@@ -1105,7 +1095,7 @@ Language: English
 *   [Black Therapists Rock](https://www.blacktherapistsrock.com/) - Black Therapists Rock (BTR) is an organization committed to increasing awareness of social and psychological challenges impacting vulnerable communities.
 *   [The Black, African, and Asian Therapy Network](https://www.baatn.org.uk/) - The UK’s largest independent organisation to specialise in working psychologically, informed by an understanding of intersectionality, with people who identify as Black, African, South Asian and Caribbean.
 
-## [57. Awesome Pagespeed Metrics](/content/csabapalfi/awesome-pagespeed-metrics/week/README.md)
+## [56. Awesome Pagespeed Metrics](/content/csabapalfi/awesome-pagespeed-metrics/week/README.md)
 
 ### Concepts / Field Data (Real User Monitoring - RUM)
 
@@ -1166,19 +1156,19 @@ Language: English
 
 *   [Docs - Max Potential FID - web.dev](https://web.dev/lighthouse-max-potential-fid/)
 
-## [58. Awesome Eosio](/content/DanailMinchev/awesome-eosio/week/README.md)
+## [57. Awesome Eosio](/content/DanailMinchev/awesome-eosio/week/README.md)
 
 ### Developer Tools / Services
 
 *   [EOSIO Ethereum Virtual Machine (EVM) (⭐87)](https://github.com/jafri/eosio.evm) - Ethereum Virtual Machine on EOSIO.
 
-## [59. Awesome Building Blocks for Web Apps](/content/componently-com/awesome-building-blocks-for-web-apps/week/README.md)
+## [58. Awesome Building Blocks for Web Apps](/content/componently-com/awesome-building-blocks-for-web-apps/week/README.md)
 
 ### UI Elements
 
 *   [CoreUI](https://coreui.io/pro/vue) - Vue admin template.
 
-## [60. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [59. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### CI and CD
 
@@ -1197,7 +1187,7 @@ Language: English
 
 *   [mockaroo](https://mockaroo.com/) — Mockaroo lets you generate realistic test data in CSV, JSON, SQL, and Excel formats. You can also create mocks for back-end API.
 
-## [61. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
+## [60. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
 ### Articles / Hash functions
 
@@ -1205,13 +1195,13 @@ Language: English
 
 ### Python / Git
 
-*   [django-cryptography (⭐367)](https://github.com/georgemarshall/django-cryptography) - Easily encrypt data in Django.
+*   [django-cryptography (⭐382)](https://github.com/georgemarshall/django-cryptography) - Easily encrypt data in Django.
 
 ### Web-sites / Git
 
 *   [Applied Crypto Hardening](https://bettercrypto.org/) - A lot ready to use best practice examples for securing web servers and more.
 
-## [62. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
+## [61. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
 
 ### Packages / Libraries
 
@@ -1222,7 +1212,7 @@ Language: English
 
 *   [Web Audio Metronome (⭐576)](https://github.com/cwilso/metronome) - metronome app that uses the Web Audio scheduler and setTimeout scheduler
 
-## [63. Awesome Arch](/content/PandaFoss/Awesome-Arch/week/README.md)
+## [62. Awesome Arch](/content/PandaFoss/Awesome-Arch/week/README.md)
 
 ### Arch-based distros / Desktop
 
@@ -1230,51 +1220,51 @@ Language: English
 
 ### AUR Helpers / Search and download
 
-*   [Auracle (⭐222)](https://github.com/falconindy/auracle) (C++) - A flexible command line client for Arch Linux's User Repository.
+*   [Auracle (⭐236)](https://github.com/falconindy/auracle) (C++) - A flexible command line client for Arch Linux's User Repository.
 *   [pbget](https://xyne.archlinux.ca/projects/pbget/) (Python) - Retrieve PKGBUILDs and local source files from Git, ABS and the AUR for makepkg.
-*   [repoctl (⭐98)](https://github.com/cassava/repoctl) (Go) - Make it easy to manage your local Arch Linux repository.
+*   [repoctl (⭐122)](https://github.com/cassava/repoctl) (Go) - Make it easy to manage your local Arch Linux repository.
 *   [yaah](https://projects.metalgamer.eu/yaah) (Bash) - A helper for the Archlinux User Repository (AUR).
 
 ### AUR Helpers / Search and build
 
-*   [Aurutils (⭐858)](https://github.com/AladW/aurutils) (Bash) - Helper tools for the AUR.
+*   [Aurutils (⭐945)](https://github.com/AladW/aurutils) (Bash) - Helper tools for the AUR.
 *   [Bauerbill](https://xyne.archlinux.ca/projects/bauerbill/) (Python) - An extension of Powerpill with AUR and ABS support.
-*   [PKGBUILDer (⭐63)](https://github.com/Kwpolska/pkgbuilder) (Python) - An AUR helper (and library) in Python 3.
+*   [PKGBUILDer (⭐69)](https://github.com/Kwpolska/pkgbuilder) (Python) - An AUR helper (and library) in Python 3.
 *   [repofish](https://git.seppia.net/repofish.git) (Bash) - Simple shell script used to manage a local archlinux repository.
-*   [RUA (⭐334)](https://github.com/vn971/rua) (Rust) - Build tool for Arch Linux providing control, review and jailed build options.
+*   [RUA (⭐425)](https://github.com/vn971/rua) (Rust) - Build tool for Arch Linux providing control, review and jailed build options.
 
 ### AUR Helpers / Pacman wrappers
 
-*   [Aura (⭐1.5k)](https://github.com/fosskers/aura) (Haskell) - A secure, multilingual package manager for Arch Linux and the AUR.
-*   [Pacaur (⭐99)](https://github.com/E5ten/pacaur) (Bash) - An AUR helper that minimizes user interaction.
-*   [Pakku (⭐131)](https://github.com/kitsunyan/pakku) (Nim) - `pacman` wrapper with AUR support.
-*   [pikaur (⭐784)](https://github.com/actionless/pikaur) (Python) - AUR helper with minimal dependencies. Review PKGBUILDs all in once, next build them all without user interaction.
-*   [Trizen (⭐772)](https://github.com/trizen/trizen) (Perl) - Lightweight AUR Package Manager.
-*   [Yay (⭐9.1k)](https://github.com/Jguer/yay) (Go) - Yet another Yogurt, an AUR Helper written in Go.
+*   [Aura (⭐1.7k)](https://github.com/fosskers/aura) (Haskell) - A secure, multilingual package manager for Arch Linux and the AUR.
+*   [Pacaur (⭐110)](https://github.com/E5ten/pacaur) (Bash) - An AUR helper that minimizes user interaction.
+*   [Pakku (⭐130)](https://github.com/kitsunyan/pakku) (Nim) - `pacman` wrapper with AUR support.
+*   [pikaur (⭐859)](https://github.com/actionless/pikaur) (Python) - AUR helper with minimal dependencies. Review PKGBUILDs all in once, next build them all without user interaction.
+*   [Trizen (⭐794)](https://github.com/trizen/trizen) (Perl) - Lightweight AUR Package Manager.
+*   [Yay (⭐11k)](https://github.com/Jguer/yay) (Go) - Yet another Yogurt, an AUR Helper written in Go.
 
 ### AUR Helpers / Graphical
 
-*   [Argon (⭐30)](https://github.com/14mRh4X0r/arch-argon) (Python | GTK3) - lightweight GUI package manager for Arch Linux.
-*   [Cylon (⭐152)](https://github.com/gavinlyonsrepo/cylon) (Bash | TUI) - A CLI TUI menu driven bash shell script supporting updates, maintenance, backups and system checks for an Arch based Linux distro.
+*   [Argon (⭐35)](https://github.com/14mRh4X0r/arch-argon) (Python | GTK3) - lightweight GUI package manager for Arch Linux.
+*   [Cylon (⭐165)](https://github.com/gavinlyonsrepo/cylon) (Bash | TUI) - A CLI TUI menu driven bash shell script supporting updates, maintenance, backups and system checks for an Arch based Linux distro.
 *   [Pamac](https://gitlab.manjaro.org/applications/pamac) (Vala | GTK3) - Graphical Package Manager for Manjaro Linux with Alpm, AUR, Appstream, Flatpak and Snap support.
 *   [Pakku GUI](https://gitlab.com/mrvik/pakku-gui) (Python | GTK3) - Basic GTK interface to (install|remove|upgrade) packages with `pakku`.
 *   [Octopi](https://tintaescura.com/projects/octopi) (C++ | Qt5) - A graphical user interface for the Arch Linux package management tool `pacman`.
-*   [Yup (⭐127)](https://github.com/ericm/yup) (Go | TUI) - Arch Linux AUR Helper with ncurses functionality and better searching and sorting.
+*   [Yup (⭐139)](https://github.com/ericm/yup) (Go | TUI) - Arch Linux AUR Helper with ncurses functionality and better searching and sorting.
 
 ### AUR Helpers / Maintenance
 
 *   [aur-out-of-date (⭐48)](https://github.com/simon04/aur-out-of-date) - Determines out-of-date AUR packages w\.r.t. upstream version.
-*   [aurpublish (⭐211)](https://github.com/eli-schwartz/aurpublish) - PKGBUILD management framework for the Arch User Repository.
+*   [aurpublish (⭐246)](https://github.com/eli-schwartz/aurpublish) - PKGBUILD management framework for the Arch User Repository.
 *   [devtools](https://git.archlinux.org/devtools.git/) - Tools for the Arch Linux distribution for building and maintaining official repository packages.
 *   [pkgbuild-watch](http://kmkeen.com/pkgbuild-watch/) - Alerts you to upstream activity.
-*   [pkgoutofdate (⭐8)](https://github.com/anatol/pkgoutofdate) - Checks whether Arch packages are out-of-date.
+*   [pkgoutofdate (⭐10)](https://github.com/anatol/pkgoutofdate) - Checks whether Arch packages are out-of-date.
 
 ### AUR Helpers / Other
 
 *   [aur-talk (⭐15)](https://github.com/GermainZ/aur-talk) - A script to fetch and display AUR package comments.
-*   [aurvote-utils (⭐8)](https://github.com/jadenPete/aurvote-utils) - A set of utilities for managing AUR votes.
+*   [aurvote-utils (⭐10)](https://github.com/jadenPete/aurvote-utils) - A set of utilities for managing AUR votes.
 *   [haskell-aur](https://hackage.haskell.org/package/aur) - Haskell library for accessing Aurweb RPC interface.
-*   [package-query (⭐67)](https://github.com/archlinuxfr/package-query) - Tool for querying `libalpm` and the AUR.
+*   [package-query (⭐69)](https://github.com/archlinuxfr/package-query) - Tool for querying `libalpm` and the AUR.
 *   [python3-aur](https://xyne.archlinux.ca/projects/python3-aur) - AUR-related modules and helper utilities (aurploader, aurquery, aurtomatic).
 *   [raur](https://gitlab.com/davidbittner/raur) - Rust library for accessing Aurweb RPC interface.
 

@@ -21,14 +21,9 @@
 *   [Hiring Secrets Of A Distributed Company](https://www.lullabot.com/articles/hiring-secrets-of-a-distributed-company)
 *   [How Working at Home Works (For Us)](https://www.lullabot.com/articles/how-working-at-home-works-for-us)
 *   [Learning From Distributed Companies](https://www.lullabot.com/articles/learning-from-distributed-companies)
-*   [Managing a Geographically Dispersed Team: Achieving Your Goals Together, While Apart](https://www.mindtools.com/pages/article/newTMM_40.htm)
 *   [Remote Working – 3 Year Retrospective](http://blog.jonliv.es/blog/2015/01/14/remote-working-3-year-retrospective/)
 *   [What is a Distributed Company?](https://www.lullabot.com/articles/what-is-a-distributed-company)
 *   [Yahoo, Best Buy, and Telecommuting: Advice From A Distributed Company](https://www.lullabot.com/articles/yahoo-best-buy-and-telecommuting-advice-from-a-distributed-company)
-
-### Companies with "remote DNA"
-
-*   [Buffer](https://buffer.com/journey/) - Tools to help manage social media. PHP, CodeIgniter, MongoDB, Memcache, Backbone.js, React.js, Grunt.js, LESS, and Python.
 
 ## [3. Awesome Answers](/content/cyberglot/awesome-answers/README.md)
 

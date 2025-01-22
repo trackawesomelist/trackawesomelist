@@ -10,21 +10,21 @@
 
 ### Tools / Environment managers
 
-*   [arkade (⭐4.2k)](https://github.com/alexellis/arkade) - CLI and Kubernetes app installer.
+*   [arkade (⭐4.3k)](https://github.com/alexellis/arkade) - CLI and Kubernetes app installer.
 
 ### Tools / CI
 
-*   [tofu-controller (⭐1.2k)](https://github.com/flux-iac/tofu-controller) - GitOps OpenTofu and Terraform controller for Flux.
+*   [tofu-controller (⭐1.3k)](https://github.com/flux-iac/tofu-controller) - GitOps OpenTofu and Terraform controller for Flux.
 
 ### Tools / Platforms
 
-*   [tofutf (⭐53)](https://github.com/tofutf/tofutf) - Open-source alternative to Terraform Enterprise with SSO, team management, agents, etc.
+*   [tofutf (⭐71)](https://github.com/tofutf/tofutf) - Open-source alternative to Terraform Enterprise with SSO, team management, agents, etc.
 
 ## [2. Awesome Polars](/content/ddotta/awesome-polars/README.md)
 
 ### Resources / Tutorials & workshops
 
-*   [Python-Polars-Tips-and-Tricks (⭐21)](https://github.com/StuffbyYuki/Python-Polars-Tips-and-Tricks) - Collection of source code demonstrating tips and tricks in Polars by [@StuffbyYuki](https://github.com/StuffbyYuki).
+*   [Python-Polars-Tips-and-Tricks (⭐26)](https://github.com/StuffbyYuki/Python-Polars-Tips-and-Tricks) - Collection of source code demonstrating tips and tricks in Polars by [@StuffbyYuki](https://github.com/StuffbyYuki).
 
 ### Resources / Blog posts
 
@@ -32,13 +32,13 @@
 
 ### Resources / Talks and videos
 
-*   [Polars-Cookbook in Python (⭐164)](https://github.com/PacktPublishing/Polars-Cookbook) - Polars cookbook with organized by Python notebooks and chapter by [@StuffbyYuki](https://github.com/StuffbyYuki).
+*   [Polars-Cookbook in Python (⭐313)](https://github.com/PacktPublishing/Polars-Cookbook) - Polars cookbook with organized by Python notebooks and chapter by [@StuffbyYuki](https://github.com/StuffbyYuki).
 
 ## [3. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
 ### Reddit
 
-*   [Redlib (⭐1k)](https://github.com/redlib-org/redlib) - An alternative private front-end to Reddit, with its origins in Libreddit.
+*   [Redlib (⭐1.6k)](https://github.com/redlib-org/redlib) - An alternative private front-end to Reddit, with its origins in Libreddit.
 
 ## [4. Awesome Orgs](/content/beansource/awesome-orgs/README.md)
 
@@ -50,13 +50,13 @@
 
 ### Database
 
-*   [mgclient (⭐39)](https://github.com/memgraph/mgclient) - C/C++ Memgraph Client. \[Apache2]
+*   [mgclient (⭐38)](https://github.com/memgraph/mgclient) - C/C++ Memgraph Client. \[Apache2]
 
 ## [6. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications
 
-*   [kftray (⭐712)](https://github.com/hcavarsan/kftray) - A cross-platform system tray app for managing and sharing multiple kubectl port-forward configurations. [![Build Status](https://github.com/hcavarsan/kftray/workflows/Release/badge.svg)](https://github.com/hcavarsan/kftray/actions)
+*   [kftray (⭐904)](https://github.com/hcavarsan/kftray) - A cross-platform system tray app for managing and sharing multiple kubectl port-forward configurations. [![Build Status](https://github.com/hcavarsan/kftray/workflows/Release/badge.svg)](https://github.com/hcavarsan/kftray/actions)
 
 ## [7. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
@@ -66,11 +66,11 @@
 
 ### Deployment Tools / Discovery
 
-*   [comin (⭐325)](https://github.com/nlewo/comin) - A deployment tool to continuously pull from Git repositories.
+*   [comin (⭐523)](https://github.com/nlewo/comin) - A deployment tool to continuously pull from Git repositories.
 
 ### Development / Discovery
 
-*   [nix-health (⭐28)](https://github.com/juspay/nix-health) - A program to check the health of your Nix install. Furthermore, individual projects can configure their own health checks in their `flake.nix`.
+*   [nix-health (⭐31)](https://github.com/juspay/nix-health) - A program to check the health of your Nix install. Furthermore, individual projects can configure their own health checks in their `flake.nix`.
 
 ### Community / Webinterface
 
@@ -80,15 +80,15 @@
 
 ### Node.js / Scala
 
-*   [tRPC (⭐34k)](https://github.com/trpc/trpc) - End-to-end typesafe APIs.
+*   [tRPC (⭐36k)](https://github.com/trpc/trpc) - End-to-end typesafe APIs.
 
 ### API Gateways / Edge Services / Scala
 
-*   [Pingora (⭐21k)](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
+*   [Pingora (⭐23k)](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
 
 ### Elasticity / Scala
 
-*   [Valkey (⭐15k)](https://github.com/valkey-io/valkey) - A new project to resume development on the formerly open-source Redis project.
+*   [Valkey (⭐18k)](https://github.com/valkey-io/valkey) - A new project to resume development on the formerly open-source Redis project.
 
 ## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

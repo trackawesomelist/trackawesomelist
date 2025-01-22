@@ -1,52 +1,63 @@
 # Awesome List Updates on Sep 02, 2024
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Math](/content/rossant/awesome-math/README.md)
+## [1. Awesome Laravel Filament](/content/lightszentip/awesome-laravel-filament/README.md)
+
+### Development / Quality Check
+
+*   [PHP CS Fixer (⭐13k)](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)
+    *   [Laravel Pint - code style fixer for minimalists](https://laravel.com/docs/11.x/pint)
+*   [PHP Code Sniffer (⭐11k)](https://github.com/squizlabs/PHP_CodeSniffer)
+    *   [PHP Laravel Code Sniffer Rule (⭐38)](https://github.com/PatricNox/laravel-phpcs)
+*   [PHP PSALM (⭐5.5k)](https://github.com/vimeo/psalm)
+    *   [PSALM Laravel plugin (⭐301)](https://github.com/psalm/psalm-plugin-laravel)
+
+## [2. Awesome Math](/content/rossant/awesome-math/README.md)
 
 ### Tools
 
 *   [Mathcheap](https://mathcheap.xyz)
 
-## [2. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [3. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Utilities
 
-*   [PubSubx (⭐1)](https://github.com/sonic182/pub_subx) - A simple publish-subscribe system built on Elixir's GenServer and Registry, allowing for dynamic topics, process monitoring, and automatic subscription management.
+*   [PubSubx (⭐2)](https://github.com/sonic182/pub_subx) - A simple publish-subscribe system built on Elixir's GenServer and Registry, allowing for dynamic topics, process monitoring, and automatic subscription management.
 
-## [3. Awesome Go](/content/avelino/awesome-go/README.md)
+## [4. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### DevOps Tools / Libraries for creating HTTP middlewares
 
-*   [alaz (⭐632)](https://github.com/ddosify/alaz) - Effortless, Low-Overhead, eBPF-based Kubernetes Monitoring.
+*   [alaz (⭐668)](https://github.com/ddosify/alaz) - Effortless, Low-Overhead, eBPF-based Kubernetes Monitoring.
 
-## [4. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [5. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Developer Tools / Databases
 
-*   [Dataflare](https://dataflare.app) - Simple and easy-to-use database client that supports Postgres, MySQL, DuckDB, libSQL, Cloudflare D1, and more.
+*   [Dataflare](https://dataflare.app) - Simple database client supporting Postgres, MySQL, DuckDB, libSQL, Cloudflare D1, and more.
 
-## [5. Awesome Tikz](/content/xiaohanyu/awesome-tikz/README.md)
+## [6. Awesome Tikz](/content/xiaohanyu/awesome-tikz/README.md)
 
 ### Gallery / PGFPlots
 
 *   [TikZ.net](https://tikz.net/) - Graphics with TikZ in LaTeX.
 
-## [6. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [7. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### AI / Diagnostics
 
-*   [Kurama622/llm.nvim (⭐2)](https://github.com/Kurama622/llm.nvim) - Free large language model (LLM) support, provides commands to interact with LLM.
+*   [Kurama622/llm.nvim (⭐92)](https://github.com/Kurama622/llm.nvim) - Free large language model (LLM) support, provides commands to interact with LLM.
 
 ### Markdown and LaTeX / Diagnostics
 
-*   [SCJangra/table-nvim (⭐5)](https://github.com/SCJangra/table-nvim) - A markdown table editor that formats the table as you type.
+*   [SCJangra/table-nvim (⭐36)](https://github.com/SCJangra/table-nvim) - A markdown table editor that formats the table as you type.
 
-## [7. Awesome Php](/content/ziadoz/awesome-php/README.md)
+## [8. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Table of Contents / Micro Frameworks
 
@@ -54,95 +65,11 @@
 
 ### Table of Contents / E-commerce
 
-*   [Brick Money (⭐1.6k)](https://github.com/brick/money) - A money library for PHP, with support for contexts, cash roundings, currency conversion.
+*   [Brick Money (⭐1.7k)](https://github.com/brick/money) - A money library for PHP, with support for contexts, cash roundings, currency conversion.
 
 ### Table of Contents / Numbers
 
-*   [Brick Math (⭐1.8k)](https://github.com/brick/math) - A library providing large number support: `BigInteger`, `BigDecimal` and `BigRational`.
-
-## [8. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
-
-### Libraries/Frameworks / Graphics
-
-*   [GlimpseFramework/glimpse-framework (⭐16)](https://github.com/GlimpseFramework/glimpse-framework) - OpenGL made simple.
-
-### Libraries/Frameworks / Data Science
-
-*   [sekwiatkowski/Komputation (⭐292)](https://github.com/sekwiatkowski/Komputation) - A neural network framework written in Kotlin.
-
-### Libraries/Frameworks / Logging
-
-*   [Foso/Cabret-Log (⭐195)](https://github.com/Foso/Cabret-Log) - Method call logging for Kotlin Multiplatform
-
-### Libraries/Frameworks / Mail
-
-*   [bluefireoly/SimpleKotlinMail (⭐66)](https://github.com/bluefireoly/SimpleKotlinMail) - A simple, modern and coroutine based Kotlin Email API, supporting both clientside and serverside projects.
-
-### Projects / Web
-
-*   [mariomac/codebuilder (⭐6)](https://github.com/mariomac/codebuilder) - Demo app about asynchronous architectures for long-response-time web applications.
-
-### Projects / Build tools
-
-*   [gradle/kotlin-dsl-samples (⭐3.7k)](https://github.com/gradle/kotlin-dsl-samples) - Kotlin language support for Gradle build scripts.
-*   [nebula-plugins/nebula-kotlin-plugin (⭐57)](https://github.com/nebula-plugins/nebula-kotlin-plugin) - Provides the Kotlin plugin via the Gradle plugin portal, automatically depends on the standard library, and allows Kotlin library versions to be omitted.
-
-### Projects / Misc
-
-*   [kpspemu/kpspemu (⭐72)](https://github.com/kpspemu/kpspemu) - Multiplatform (JS and JVM) PSP Emulator written in Kotlin.
-*   [chrislo27/RhythmHeavenRemixEditor (⭐435)](https://github.com/chrislo27/RhythmHeavenRemixEditor) - An audio custom remix editor designed for the Rhythm Heaven series, using libGDX and Kotlin.
-
-### Projects / Desktop
-
-*   [yschimke/okurl (⭐124)](https://github.com/yschimke/okurl) - cURL-like client based on OkHttp.
-*   [hazae41/Kotlin-Compiler-GUI (⭐1)](https://github.com/hazae41/Kotlin-Compiler-GUI) - Easily compile Kotlin classes (.kt) and run Kotlin scripts (.kts)
-
-### Projects / Examples
-
-*   [Kotlin/kotlin-koans (⭐2.6k)](https://github.com/Kotlin/kotlin-koans) - Kotlin Koans are a series of exercises to get you familiar with the Kotlin Syntax.
-*   [JetBrains/kotlin-examples (⭐3.2k)](https://github.com/JetBrains/kotlin-examples) - Various examples for Kotlin.
-
-### Projects / Android
-
-*   [skydoves/githubfollows (⭐294)](https://github.com/skydoves/githubfollows) - A demo project based on MVVM architecture and material design & animations.
-
-### Android / Libraries
-
-*   [JakeWharton/kotterknife (⭐2.2k)](https://github.com/JakeWharton/kotterknife)
-*   [nsk-mironov/kotlin-jetpack (⭐184)](https://github.com/nsk-mironov/kotlin-jetpack)
-*   [ragunathjawahar/kaffeine (⭐154)](https://github.com/ragunathjawahar/kaffeine)
-*   [GlimpseFramework/glimpse-framework-android (⭐5)](https://github.com/GlimpseFramework/glimpse-framework-android) - OpenGL made simple.
-*   [calintat/alps (⭐4)](https://github.com/calintat/alps) - Android library for preferences which includes property delegates and a custom DSL for definining preferences.
-*   [Jintin/MixAdapter (⭐19)](https://github.com/Jintin/MixAdapter) - Compose multiple Adapter for RecyclerView in Android.
-
-### Android / Projects
-
-*   [hanjoongcho/aaf-easyphotomap (⭐40)](https://github.com/hanjoongcho/aaf-easyphotomap) - This is a photomap app that shows photos taken on a map.
-*   [mustafaberkaymutlu/uv-index (⭐67)](https://github.com/mustafaberkaymutlu/uv-index) - A simple ultraviolet index viewer app for demonstrating Instant Apps + Kotlin + Dagger + MVP
-*   [hanjoongcho/aaf-easypassword (⭐34)](https://github.com/hanjoongcho/aaf-easypassword) - A password manager using a single lock pattern for various type passwords management.
-*   [AnkitSuda/Rebound (⭐178)](https://github.com/AnkitSuda/Rebound) - Feature Rich & Highly Customizable Workout Log App.
-
-### Android / Extensions
-
-*   [rosariopfernandes/fireXtensions (⭐29)](https://github.com/rosariopfernandes/fireXtensions) - Unofficial Kotlin Extensions for the Firebase Android SDK.
-
-### Kotlin JavaScript / JavaScript
-
-*   [pixijs/pixi-native (⭐86)](https://github.com/pixijs/pixi-native) - The aim of this project is to provide a fast lightweight 2D library that works across all devices.
-*   [Kotlin/kotlin-fullstack-sample (⭐1.2k)](https://github.com/Kotlin/kotlin-fullstack-sample) - Kotlin Full-stack Application Example.
-*   [Foso/MpApt (⭐237)](https://github.com/Foso/MpApt) - Kotlin Native/JS/JVM Annotation Processor library
-
-### Kotlin JavaScript / Build Tools
-
-*   [Kotlin/kotlin-frontend-plugin (⭐564)](https://github.com/Kotlin/kotlin-frontend-plugin) - Gradle Kotlin plugin for frontend development.
-
-### Kotlin JavaScript / Integration
-
-*   [kotlin/ts2kt (⭐316)](https://github.com/kotlin/ts2kt) - Converter of TypeScript definition files to Kotlin declarations (stubs).
-
-### Kotlin Native / Projects
-
-*   [JetBrains/kotlin-native (⭐7k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
+*   [Brick Math (⭐1.9k)](https://github.com/brick/math) - A library providing large number support: `BigInteger`, `BigDecimal` and `BigRational`.
 
 ## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -162,7 +89,7 @@
 
 ### Integrations / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [angular-three (⭐169)](https://github.com/angular-threejs/angular-three) - Angular Renderer for [THREE.js (⭐101k)](https://github.com/mrdoob/three.js).
+*   [angular-three (⭐225)](https://github.com/angular-threejs/angular-three) - Angular Renderer for [THREE.js (⭐104k)](https://github.com/mrdoob/three.js).
 
 ### Security / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -170,15 +97,15 @@
 
 ### Data Grids / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [revogrid (⭐2.7k)](https://github.com/revolist/revogrid) - Powerful virtual data grid smartsheet with advanced customization. Best features from Excel plus incredible performance.
+*   [revogrid (⭐2.8k)](https://github.com/revolist/revogrid) - Powerful virtual data grid smartsheet with advanced customization. Best features from Excel plus incredible performance.
 
 ### Dates / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [dhutaryan/ngx-mat-timepicker (⭐60)](https://github.com/dhutaryan/ngx-mat-timepicker) - Material timepicker based on material design.
+*   [dhutaryan/ngx-mat-timepicker (⭐79)](https://github.com/dhutaryan/ngx-mat-timepicker) - Material timepicker based on material design.
 
 ### General / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-vest-forms (⭐43)](https://github.com/simplifiedcourses/ngx-vest-forms) - A lightweight adapter for Angular template-driven forms integrated with vest.js for validation.
+*   [ngx-vest-forms (⭐53)](https://github.com/simplifiedcourses/ngx-vest-forms) - A lightweight adapter for Angular template-driven forms integrated with vest.js for validation.
 
 ## [11. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
@@ -207,6 +134,14 @@
 
 *   [Setup ZeroTier (⭐45)](https://github.com/zerotier/github-action) - Connect your runner to a ZeroTier network.
 
+## [12. Awesome Windows](/content/0pandadev/awesome-windows/README.md)
+
+### Text Editors
+
+*   [GVim](https://www.vim.org/download.php#pc) - Highly configurable text editor optimized for efficiency. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/vim/vim-win32-installer/releases/tag/v9.1.0679)
+*   [LazyVim](https://www.lazyvim.org/) - Customizable Neovim configuration framework. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/LazyVim/LazyVim)
+
 ---
 
+- Prev: [Sep 03, 2024](/content/2024/09/03/README.md)
 - Next: [Sep 01, 2024](/content/2024/09/01/README.md)

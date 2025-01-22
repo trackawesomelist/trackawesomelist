@@ -10,7 +10,7 @@
 
 ### Reproducible Research
 
-*   [checkpoint (⭐163)](https://github.com/RevolutionAnalytics/checkpoint) - Install packages from snapshots on the checkpoint server.
+*   [checkpoint (⭐164)](https://github.com/RevolutionAnalytics/checkpoint) - Install packages from snapshots on the checkpoint server.
 
 ### Network Analysis
 

@@ -157,10 +157,6 @@
 
 *   [James (⭐1.4k)](https://github.com/james-proxy/james) - Open-source proxy tool for checking and mapping requests with http as well as https. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/james-proxy/james) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-### Developer Tools / Command Line Tools
-
-*   [itunes-remote (⭐426)](https://github.com/mischah/itunes-remote) - Software for controlling iTunes via the terminal. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/mischah/itunes-remote) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-
 ### Developer Tools / Databases
 
 *   [Tableau Public](https://public.tableau.com/s/) - Free data-visualization software. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")

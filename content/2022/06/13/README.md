@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 13, 2022
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,7 +16,7 @@
 
 ### Reading
 
-*   [scriptable-pocket-widget (⭐11)](https://github.com/brianseidman/scriptable-pocket-widget) - Shows unread or favorited Pocket articles.
+*   [scriptable-pocket-widget (⭐13)](https://github.com/brianseidman/scriptable-pocket-widget) - Shows unread or favorited Pocket articles.
 
     <img src="https://raw.githubusercontent.com/brianseidman/scriptable-pocket-widget/72495ad9cc488b9790bb2ee6eac8dcedcf36dd96/Resources/scriptable-pocket-widget-image.png" width="400">
 
@@ -24,14 +24,14 @@
 
 ### Related / Other
 
-*   [How They Load Test (⭐79)](https://github.com/aliesbelik/how-they-load) - A curated collection of publicly available resources on how companies around the world perform load testing.
-*   [Load Testing Toolkit (⭐142)](https://github.com/aliesbelik/load-testing-toolkit) - Collection of open-source tools for debugging, benchmarking, load and stress testing your code or services.
+*   [How They Load Test (⭐109)](https://github.com/aliesbelik/how-they-load) - A curated collection of publicly available resources on how companies around the world perform load testing.
+*   [Load Testing Toolkit (⭐179)](https://github.com/aliesbelik/load-testing-toolkit) - Collection of open-source tools for debugging, benchmarking, load and stress testing your code or services.
 
 ## [4. Magictools](/content/ellisonleao/magictools/README.md)
 
 ### Engines and Frameworks / Voxel Editors
 
-*   :tada: [Screen 13 (⭐252)](https://github.com/attackgoat/screen-13) - An easy-to-use Vulkan rendering engine. Provides a render graph for Rust.
+*   :tada: [Screen 13 (⭐275)](https://github.com/attackgoat/screen-13) - An easy-to-use Vulkan rendering engine. Provides a render graph for Rust.
 
 ## [5. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 
@@ -55,43 +55,37 @@
 
 ### GUI
 
-*   [DB Lens (⭐247)](https://github.com/dblens/app) - Open Source Postgres GUI - Automatic ER diagrams, Internal DB Insights, Disk Utilisation, Performance Metrics, Index Usage, Sequential scan counts and more.
+*   [DB Lens (⭐256)](https://github.com/dblens/app) - Open Source Postgres GUI - Automatic ER diagrams, Internal DB Insights, Disk Utilisation, Performance Metrics, Index Usage, Sequential scan counts and more.
 
 ### Schema / Design
 
 *   [DbSchema](https://dbschema.com/) - Universal database designer for out-of-the-box schema management, schema documentation, design in a team, and deployment on multiple databases. DbSchema features tools for writing and executing queries, exploring the data, generating data, and building reports.
 
-## [7. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
-
-### Completion / Diagnostics
-
-*   [vigoux/complementree.nvim (⭐43)](https://github.com/vigoux/complementree.nvim) - Light and synchronous completion plugin based on tree-sitter and with a functional-programming interface.
-
-## [8. Awesome List](/content/sindresorhus/awesome/README.md)
+## [7. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Networking
 
-*   [SNMP (⭐109)](https://github.com/eozer/awesome-snmp#readme) - A protocol for collecting, modifying, and organizing information about managed devices on IP networks.
+*   [SNMP (⭐127)](https://github.com/eozer/awesome-snmp#readme) - A protocol for collecting, modifying, and organizing information about managed devices on IP networks.
 
-## [9. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+## [8. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [diod (⭐128)](https://github.com/artberri/diod) - A very opinionated and lightweight inversion of control container and dependency injector for Node.js or browser apps.
+*   :octocat: [diod (⭐139)](https://github.com/artberri/diod) - A very opinionated and lightweight inversion of control container and dependency injector for Node.js or browser apps.
 
-## [10. Awesome Love2d](/content/love2d-community/awesome-love2d/README.md)
+## [9. Awesome Love2d](/content/love2d-community/awesome-love2d/README.md)
 
 ### Camera
 
 *   [cam11](https://notabug.org/pgimeno/cam11) - Camera library that leverages the Transform object introduced in love2d 11.0+.
 
-## [11. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [10. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Debug
 
-*   [Touca (⭐489)](https://github.com/trytouca/trytouca) - Open-source regression testing system that you can self-host. \[Apache2] [website](https://touca.io/)
+*   [Touca (⭐501)](https://github.com/trytouca/trytouca) - Open-source regression testing system that you can self-host. \[Apache2] [website](https://touca.io/)
 
-## [12. Awesome Home Assistant](/content/frenck/awesome-home-assistant/README.md)
+## [11. Awesome Home Assistant](/content/frenck/awesome-home-assistant/README.md)
 
 ### Installing
 

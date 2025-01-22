@@ -10,7 +10,7 @@
 
 ### Dependency Managers
 
-*   [Accio (⭐658)](https://github.com/JamitLabs/Accio) - A SwiftPM based dependency manager for iOS & Co. with improvements over Carthage.
+*   [Accio (⭐664)](https://github.com/JamitLabs/Accio) - A SwiftPM based dependency manager for iOS & Co. with improvements over Carthage.
 
 ## [2. Awesome Hbase](/content/rayokota/awesome-hbase/README.md)
 
@@ -20,7 +20,7 @@
 
 ## [3. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
-### Domain and IP Research / Telegram
+### Domain and IP Research / Steam
 
 *   [SecurityTrails](https://securitytrails.com/dns-trails) - API to search current and historical DNS records, current and historical WHOIS, technologies used by sites and whois search for phone, email, address, IPs etc.
 
@@ -75,7 +75,7 @@
 
 ### Graphics
 
-*   [Blend2D (⭐1.6k)](https://github.com/blend2d/blend2d) - 2D vector graphics engine powered by a JIT compiler. \[Zlib] [website](https://blend2d.com/)
+*   [Blend2D (⭐1.7k)](https://github.com/blend2d/blend2d) - 2D vector graphics engine powered by a JIT compiler. \[Zlib] [website](https://blend2d.com/)
 
 ## [11. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 

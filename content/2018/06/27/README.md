@@ -23,11 +23,11 @@
 
 ### Libraries / JavaScript
 
-*   [CASL Mongoose (⭐5.8k)](https://github.com/stalniy/casl/tree/master/packages/casl-mongoose) - Permissions management library integrated with Mongoose
+*   [CASL Mongoose (⭐6.2k)](https://github.com/stalniy/casl/tree/master/packages/casl-mongoose) - Permissions management library integrated with Mongoose
 
 ## [4. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
 
-### Courses
+### Courses / Commerical Tools
 
 *   [Deep RL Bootcamp Lectures](https://sites.google.com/view/deep-rl-bootcamp/lectures) - Deep Reinforcement Bootcamp Lectures - August 2017
 
@@ -43,7 +43,7 @@
 
 ## [6. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
-### Domain and IP Research / Telegram
+### Domain and IP Research / Steam
 
 *   [Pulsedive](https://pulsedive.com)
 
@@ -57,7 +57,7 @@
 
 ### Image / Backend-Driven
 
-*   [Image Cropper (⭐979)](https://github.com/hnvn/flutter_image_cropper) <!--stargazers:hnvn/flutter_image_cropper--> - Crop your images support ratio, rotation, zoom by [HungHD](https://github.com/hnvn)
+*   [Image Cropper (⭐1k)](https://github.com/hnvn/flutter_image_cropper) <!--stargazers:hnvn/flutter_image_cropper--> - Crop your images support ratio, rotation, zoom by [HungHD](https://github.com/hnvn)
 
 ### Animation / Redux / ELM / Dependency Injection
 

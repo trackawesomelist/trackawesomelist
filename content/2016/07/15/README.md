@@ -10,7 +10,7 @@
 
 ### Error Handling
 
-*   [Bugsnag (⭐246)](https://github.com/bugsnag/bugsnag-ruby) - Error monitoring for Rails, Sinatra, Rack, and plain Ruby apps.
+*   [Bugsnag (⭐250)](https://github.com/bugsnag/bugsnag-ruby) - Error monitoring for Rails, Sinatra, Rack, and plain Ruby apps.
 
 ## [2. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
@@ -71,11 +71,11 @@
 
 ### Device
 
-*   [Device.swift (⭐220)](https://github.com/schickling/Device.swift) - Super-lightweight library to detect used device.
+*   [Device.swift (⭐221)](https://github.com/schickling/Device.swift) - Super-lightweight library to detect used device.
 
 ### PDF / Barcode
 
-*   [SimplePDF (⭐252)](https://github.com/nRewik/SimplePDF) - Create a simple PDF effortlessly.
+*   [SimplePDF (⭐253)](https://github.com/nRewik/SimplePDF) - Create a simple PDF effortlessly.
 
 ### Streaming / Barcode
 

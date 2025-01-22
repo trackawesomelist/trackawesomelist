@@ -10,7 +10,7 @@
 
 ### Projects / Boilerplate
 
-*   [launchr (⭐232)](https://github.com/jayfk/launchr) - Launchr is a specialized Django starter template for SaaS web apps.
+*   [launchr (⭐234)](https://github.com/jayfk/launchr) - Launchr is a specialized Django starter template for SaaS web apps.
 
 ## [2. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/README.md)
 
@@ -39,14 +39,14 @@
 ### Simulators / Object detection and object tracking
 
 *   [AirSim](https://microsoft.github.io/AirSim) - Unreal Engine based simulator for drones and automotive. Compatible with ROS.
-    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐16k)](https://github.com/microsoft/AirSim)
+    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐17k)](https://github.com/microsoft/AirSim)
     *   [YouTube video ![](https://img.shields.io/badge/youtube-red?style=flat-square\&logo=youtube)](https://www.youtube.com/watch?v=gnz1X3UNM5Y)
 
 ## [5. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Packages / Node.js management
 
-*   [fnm (⭐17k)](https://github.com/Schniz/fnm) - Cross-platform Node.js version manager built in Rust.
+*   [fnm (⭐19k)](https://github.com/Schniz/fnm) - Cross-platform Node.js version manager built in Rust.
 
 ## [6. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
@@ -64,10 +64,6 @@
 ### Messaging and Streaming
 
 *   [cloudamqp.com](https://www.cloudamqp.com/) — RabbitMQ as a Service. Little Lemur plan: max 1 million messages/month, max 20 concurrent connections, max 100 queues, max 10,000 queued messages, multiple nodes in different AZ's
-
-### Miscellaneous
-
-*   [Form2Channel](https://form2channel.com) — Place a static html form on your website and receive submissions directly to Google Sheets, Email, Slack, Telegram, or HTTP. No coding is necessary.
 
 ### Design and UI
 
@@ -87,7 +83,7 @@
 
 ### Tools
 
-*   [Visual Novel OCR (⭐66)](https://github.com/leminhyen2/Visual-Novel-OCR) - Japanese optical character recognition for visual novels. \[English]
+*   [Visual Novel OCR (⭐70)](https://github.com/leminhyen2/Visual-Novel-OCR) - Japanese optical character recognition for visual novels. \[English]
 
 ## [10. Awesome Esp](/content/agucova/awesome-esp/README.md)
 
@@ -103,11 +99,11 @@
 
 ### HTTP
 
-*   [WebApiClient (⭐2k)](https://github.com/dotnetcore/WebApiClient) An open source project based on the HttpClient. You only need to define the c# interface and modify the related features to invoke the client library of the remote http interface asynchronously.
+*   [WebApiClient (⭐2.1k)](https://github.com/dotnetcore/WebApiClient) An open source project based on the HttpClient. You only need to define the c# interface and modify the related features to invoke the client library of the remote http interface asynchronously.
 
 ### Misc
 
-*   [Quickenshtein (⭐280)](https://github.com/Turnerj/Quickenshtein) - An extremely quick and memory efficient Levenshtein Distance calculator with SIMD and Threading support
+*   [Quickenshtein (⭐288)](https://github.com/Turnerj/Quickenshtein) - An extremely quick and memory efficient Levenshtein Distance calculator with SIMD and Threading support
 
 ## [12. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 

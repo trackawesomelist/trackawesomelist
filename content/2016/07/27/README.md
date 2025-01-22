@@ -10,17 +10,17 @@
 
 ### Template Engine
 
-*   [Stubble (⭐397)](https://github.com/stubbleorg/stubble) - Trimmed down {{mustache}} templates in .NET. Successor of Nustache.
+*   [Stubble (⭐415)](https://github.com/stubbleorg/stubble) - Trimmed down {{mustache}} templates in .NET. Successor of Nustache.
 
 ## [2. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/README.md)
 
 ### Development Projects / Apps
 
-*   [Pokemon-Showdown (⭐3.8k)](https://github.com/Zarel/Pokemon-Showdown) - Pokémon battle simulator.
+*   [Pokemon-Showdown (⭐4.8k)](https://github.com/Zarel/Pokemon-Showdown) - Pokémon battle simulator.
 
 ### Resources & Others / Wiki
 
-*   [Pokedex (⭐1.3k)](https://github.com/veekun/pokedex) - More than you ever wanted to know about Pokémon.
+*   [Pokedex (⭐1.4k)](https://github.com/veekun/pokedex) - More than you ever wanted to know about Pokémon.
 *   [Pokemon GO Wiki Guide by IGN](http://www.ign.com/wikis/pokemon-go)
 *   [Pokémon GO Wiki](https://pkmngowiki.com/)
 *   [Pokémon GO Wikipedia](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Go)
@@ -33,7 +33,7 @@
 
 ### Cryptography
 
-*   [crypto\_rsassa\_pss (⭐11)](https://github.com/potatosalad/erlang-crypto_rsassa_pss) - RSASSA-PSS Public Key Cryptographic Signature Algorithm for Erlang.
+*   [crypto\_rsassa\_pss (⭐12)](https://github.com/potatosalad/erlang-crypto_rsassa_pss) - RSASSA-PSS Public Key Cryptographic Signature Algorithm for Erlang.
 
 ### Framework Components
 

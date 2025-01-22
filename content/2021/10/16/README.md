@@ -17,7 +17,7 @@
 ### Libraries / Web programming
 
 *   Reverse Proxy
-    *   [sozu-proxy/sozu (⭐3k)](https://github.com/sozu-proxy/sozu) \[[sozu](https://crates.io/crates/sozu)] - A HTTP reverse proxy. [![CI](https://github.com/sozu-proxy/sozu/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/sozu-proxy/sozu/actions/workflows/ci.yml)
+    *   [sozu-proxy/sozu (⭐3.2k)](https://github.com/sozu-proxy/sozu) \[[sozu](https://crates.io/crates/sozu)] - A HTTP reverse proxy. [![CI](https://github.com/sozu-proxy/sozu/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/sozu-proxy/sozu/actions/workflows/ci.yml)
 
 ## [3. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 
@@ -37,7 +37,7 @@
 
 ### Projects
 
-*   [tide-async-graphql-mongodb (⭐43)](https://github.com/zzy/tide-async-graphql-mongodb) - Clean boilerplate for graphql services, with wasm/yew frontend.
+*   [tide-async-graphql-mongodb (⭐45)](https://github.com/zzy/tide-async-graphql-mongodb) - Clean boilerplate for graphql services, with wasm/yew frontend.
 
 ## [5. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
 
@@ -49,12 +49,12 @@
 
 ### Libraries
 
-*   [effect-ts (⭐3.4k)](https://github.com/Effect-TS/core) – A Fully-fledged functional effect system for typescript with a rich standard library. +TS
-*   [qio (⭐69)](https://github.com/tusharmath/qio) – A type-safe, functional, performant, lawful, composable data structure that solves practical problems of effect-full code in node and browser. +TS
+*   [effect-ts (⭐7.7k)](https://github.com/Effect-TS/core) – A Fully-fledged functional effect system for typescript with a rich standard library. +TS
+*   [qio (⭐74)](https://github.com/tusharmath/qio) – A type-safe, functional, performant, lawful, composable data structure that solves practical problems of effect-full code in node and browser. +TS
 
 ## [7. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
 
-### Agile / Tickets
+### Agile / Delivery
 
 *   [How Big Tech Runs Tech Projects and the Curious Absence of Scrum](https://newsletter.pragmaticengineer.com/p/project-management-in-tech) - There's an interesting table in this article on the strereotypes of companies, their funding models, main engineering actors, and their central methodologies.
 
@@ -69,7 +69,7 @@
 
 ### Multi-factor auth / Identifiers
 
-*   [Kanidm (⭐2.6k)](https://github.com/kanidm/kanidm) - Simple, secure and fast identity management platform.
+*   [Kanidm (⭐2.7k)](https://github.com/kanidm/kanidm) - Simple, secure and fast identity management platform.
 
 ## [10. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/README.md)
 
@@ -79,9 +79,9 @@
 
 ## [11. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
 
-### Miscellaneous / Checkbox
+### Miscellaneous
 
-*   [svelte-tree-viewer (⭐15)](https://github.com/kpulkit29/svelte-tree-viewer) - A lightweight component to render tree views.
+*   [svelte-tree-viewer (⭐16)](https://github.com/kpulkit29/svelte-tree-viewer) - A lightweight component to render tree views.
 
 ## [12. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -104,8 +104,6 @@
   HTTPS: Yes
 
   CORS: Unknown
-
-  Call this API: 
 
 
 
@@ -168,7 +166,7 @@
 
   CORS: Unknown
 
-  Call this API: 
+  : 
 
 
 

@@ -22,31 +22,31 @@
 
 ### Static Analysis / Linting
 
-*   [Run ESLint, with reviewdog output on the PR (⭐180)](https://github.com/reviewdog/action-eslint)
-*   [Lint terraform files using tflint, with reviewdog output on the PR (⭐79)](https://github.com/reviewdog/action-tflint)
-*   [Run stylelint, with reviewdog output on the PR (⭐33)](https://github.com/reviewdog/action-stylelint)
-*   [Run vint, with reviewdog output on the PR (⭐7)](https://github.com/reviewdog/action-vint)
-*   [Run mispell, with reviewdog output on the PR (⭐65)](https://github.com/reviewdog/action-misspell)
-*   [Run golangci-lint, with reviewdog output on the PR (⭐160)](https://github.com/reviewdog/action-golangci-lint)
-*   [Run shellcheck, with reviewdog output on the PR (⭐80)](https://github.com/reviewdog/action-shellcheck)
+*   [Run ESLint, with reviewdog output on the PR (⭐233)](https://github.com/reviewdog/action-eslint)
+*   [Lint terraform files using tflint, with reviewdog output on the PR (⭐107)](https://github.com/reviewdog/action-tflint)
+*   [Run stylelint, with reviewdog output on the PR (⭐46)](https://github.com/reviewdog/action-stylelint)
+*   [Run vint, with reviewdog output on the PR (⭐10)](https://github.com/reviewdog/action-vint)
+*   [Run mispell, with reviewdog output on the PR (⭐88)](https://github.com/reviewdog/action-misspell)
+*   [Run golangci-lint, with reviewdog output on the PR (⭐210)](https://github.com/reviewdog/action-golangci-lint)
+*   [Run shellcheck, with reviewdog output on the PR (⭐100)](https://github.com/reviewdog/action-shellcheck)
 
 ### Pull Requests / Code Coverage
 
-*   [Automatically Bump and Tag on Merge (⭐503)](https://github.com/anothrNick/github-tag-action)
+*   [Automatically Bump and Tag on Merge (⭐755)](https://github.com/anothrNick/github-tag-action)
 
 ## [4. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Packages / Debugging / Profiling
 
-*   [swagger-stats (⭐889)](https://github.com/slanatech/swagger-stats) - Trace API calls and monitor API performance, health, and usage metrics.
+*   [swagger-stats (⭐906)](https://github.com/slanatech/swagger-stats) - Trace API calls and monitor API performance, health, and usage metrics.
 
 ### Packages / Text
 
-*   [nanoid (⭐24k)](https://github.com/ai/nanoid) - Tiny, secure, URL-friendly, unique string ID generator.
+*   [nanoid (⭐25k)](https://github.com/ai/nanoid) - Tiny, secure, URL-friendly, unique string ID generator.
 
 ### Resources / Miscellaneous
 
-*   [modern-node (⭐243)](https://github.com/sheerun/modern-node) - Toolkit for creating node modules with Jest, Prettier, ESLint, and Standard.
+*   [modern-node (⭐246)](https://github.com/sheerun/modern-node) - Toolkit for creating node modules with Jest, Prettier, ESLint, and Standard.
 
 ## [5. Awesome Pagespeed Metrics](/content/csabapalfi/awesome-pagespeed-metrics/README.md)
 
@@ -67,20 +67,20 @@
 
 ### Platforms
 
-*   [Actions on Google (⭐85)](https://github.com/ravirupareliya/awesome-actions-on-google#readme) - Developer platform for Google Assistant.
+*   [Actions on Google (⭐92)](https://github.com/ravirupareliya/awesome-actions-on-google#readme) - Developer platform for Google Assistant.
 
 ### Security
 
-*   [GDPR (⭐209)](https://github.com/bakke92/awesome-gdpr#readme) - Regulation on data protection and privacy for all individuals within EU.
+*   [GDPR (⭐213)](https://github.com/bakke92/awesome-gdpr#readme) - Regulation on data protection and privacy for all individuals within EU.
 
 ### Business
 
-*   [Clean Tech (⭐420)](https://github.com/nglgzz/awesome-clean-tech#readme) - Fighting climate change with technology.
+*   [Clean Tech (⭐427)](https://github.com/nglgzz/awesome-clean-tech#readme) - Fighting climate change with technology.
 
 ### Miscellaneous
 
-*   [Cytodata (⭐71)](https://github.com/cytodata/awesome-cytodata#readme) - Image-based profiling of biological phenotypes for computational biologists.
-*   [Advertising (⭐114)](https://github.com/cenoura/awesome-ads#readme) - Advertising and programmatic media for websites.
+*   [Cytodata (⭐75)](https://github.com/cytodata/awesome-cytodata#readme) - Image-based profiling of biological phenotypes for computational biologists.
+*   [Advertising (⭐126)](https://github.com/cenoura/awesome-ads#readme) - Advertising and programmatic media for websites.
 
 ---
 

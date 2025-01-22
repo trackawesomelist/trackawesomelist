@@ -10,7 +10,7 @@
 
 ### Database
 
-*   [TidesDB (⭐125)](https://github.com/tidesdb/tidesdb) - High-performance, durable, transactional embedded storage engine designed for flash and RAM optimization. \[MPL-2.0] [website](https://tidesdb.com/)
+*   [TidesDB (⭐168)](https://github.com/tidesdb/tidesdb) - High-performance, durable, transactional embedded storage engine designed for flash and RAM optimization. \[MPL-2.0] [website](https://tidesdb.com/)
 
 ## [2. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
@@ -32,8 +32,9 @@
 
 ### Charts / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-hierarchy (⭐1)](https://github.com/rushik1992/ngx-hierarchy) - Angular Component Module for Vertical or Horizontal Hierarchy/Tree View with flexible dynamic template design and controls.
+*   [ngx-hierarchy (⭐2)](https://github.com/rushik1992/ngx-hierarchy) - Angular Component Module for Vertical or Horizontal Hierarchy/Tree View with flexible dynamic template design and controls.
 
 ---
 
+- Prev: [Dec 20, 2024](/content/2024/12/20/README.md)
 - Next: [Dec 18, 2024](/content/2024/12/18/README.md)

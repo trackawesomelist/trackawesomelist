@@ -8,9 +8,9 @@
 
 ## [1. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
-### Plugins and scripts / Godot 3.2+
+### Plugins and scripts / Godot 3
 
-*   [godot-ink (⭐570)](https://github.com/paulloz/godot-ink) - A C# (Mono) plugin to integrate stories writen in [ink (⭐4k)](https://github.com/inkle/ink), a scripting language for writing interactive narrative.
+*   [godot-ink (⭐625)](https://github.com/paulloz/godot-ink) - A C# (Mono) plugin to integrate stories writen in [ink (⭐4.2k)](https://github.com/inkle/ink), a scripting language for writing interactive narrative.
 
 ## [2. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
@@ -59,7 +59,7 @@
 
 ### App Routing
 
-*   [SwiftCurrent (⭐307)](https://github.com/wwt/SwiftCurrent) - A library for managing complex workflows.
+*   [SwiftCurrent (⭐306)](https://github.com/wwt/SwiftCurrent) - A library for managing complex workflows.
 
 ### Deployment / Distribution
 
@@ -202,16 +202,9 @@
 
 ## [14. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
 
-### Community
-
-*   About code - [GitHub.com/ansible](https://github.com/ansible), [GitHub.com/ansible-collections](https://github.com/ansible-collections) and [GitHub.com/ansible-community](https://github.com/ansible-community).
-*   [reddit.com/r/ansible](https://old.reddit.com/r/ansible/) - The Ansible subreddit.
-*   [Discord](https://old.reddit.com/r/ansible/comments/jv5shj/ansible_discord_server_come_get_ansible_help_in/) - The Ansible discord.
-*   [ansible.com/community](https://ansible.com/community) - Twitter, mailing lists, meetups and more.
-
 ### Tools
 
-*   [ARA (⭐1.8k)](https://github.com/ansible-community/ara) - ARA Records Ansible playbooks and makes them easier to understand and troubleshoot with a reporting API, UI and CLI.
+*   [ARA (⭐1.9k)](https://github.com/ansible-community/ara) - ARA Records Ansible playbooks and makes them easier to understand and troubleshoot with a reporting API, UI and CLI.
 
 ## [15. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
@@ -233,12 +226,11 @@
 
 ### (requires Neovim 0.5)
 
-*   [jakewvincent/texmagic.nvim (⭐55)](https://github.com/jakewvincent/texmagic.nvim) - Enhance the lspconfig settings for Texlab by defining any number of custom LaTeX build engines and selecting them with magic comments.
-*   [nanotee/nvim-lsp-basics (⭐31)](https://github.com/nanotee/nvim-lsp-basics) - Basic wrappers for LSP features.
+*   [jakewvincent/texmagic.nvim (⭐57)](https://github.com/jakewvincent/texmagic.nvim) - Enhance the lspconfig settings for Texlab by defining any number of custom LaTeX build engines and selecting them with magic comments.
 
 ### Dependency Management / Diagnostics
 
-*   [vuki656/package-info.nvim (⭐471)](https://github.com/vuki656/package-info.nvim) - Display latest package version as virtual text in package.json.
+*   [vuki656/package-info.nvim (⭐524)](https://github.com/vuki656/package-info.nvim) - Display latest package version as virtual text in package.json.
 
 ## [18. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
@@ -256,18 +248,18 @@
 
 ### Software / Automation
 
-*   [StackStorm](https://stackstorm.com) - StackStorm (aka *IFTTT for Ops*) is event-driven automation for auto-remediation, security responses, troubleshooting, deployments, and more. Includes rules engine, workflow, 160 integration packs with 6000+ actions and ChatOps. ([Source Code (⭐6k)](https://github.com/StackStorm/st2)) `Apache-2.0` `Python`
+*   [StackStorm](https://stackstorm.com) - StackStorm (aka *IFTTT for Ops*) is event-driven automation for auto-remediation, security responses, troubleshooting, deployments, and more. Includes rules engine, workflow, 160 integration packs with 6000+ actions and ChatOps. ([Source Code (⭐6.1k)](https://github.com/StackStorm/st2)) `Apache-2.0` `Python`
 
 ### Software / Communication - Email - Complete Solutions
 
 *   [Inboxen](https://inboxen.org) - Inboxen is a service that provides you with an infinite number of unique inboxes. ([Source Code](https://codeberg.org/Inboxen/Inboxen)) `GPL-3.0` `Python`
 *   [Mail-in-a-Box](https://mailinabox.email/) - Turns any Ubuntu server into a fully functional mail server with one command. ([Source Code (⭐14k)](https://github.com/mail-in-a-box/mailinabox)) `CC0-1.0` `Shell`
-*   [SimpleLogin](https://simplelogin.io) - Open source email alias solution to protect your email address. Comes with browser extensions and mobile apps. ([Source Code (⭐5k)](https://github.com/simple-login/app)) `MIT` `Docker/Python`
+*   [SimpleLogin](https://simplelogin.io) - Open source email alias solution to protect your email address. Comes with browser extensions and mobile apps. ([Source Code (⭐5.3k)](https://github.com/simple-login/app)) `MIT` `Docker/Python`
 
 ### Software / Communication - IRC
 
-*   [Ergo](https://ergo.chat/) - Modern IRCv3 server written in Go, combining the features of an ircd, a services framework, and a bouncer. ([Source Code (⭐2.2k)](https://github.com/ergochat/ergo)) `MIT` `Go/Docker`
-*   [The Lounge](https://thelounge.chat/) - Self-hosted web IRC client. ([Demo](https://demo.thelounge.chat/), [Source Code (⭐5.5k)](https://github.com/thelounge/thelounge)) `MIT` `Nodejs/Docker`
+*   [Ergo](https://ergo.chat/) - Modern IRCv3 server written in Go, combining the features of an ircd, a services framework, and a bouncer. ([Source Code (⭐2.7k)](https://github.com/ergochat/ergo)) `MIT` `Go/Docker`
+*   [The Lounge](https://thelounge.chat/) - Self-hosted web IRC client. ([Demo](https://demo.thelounge.chat/), [Source Code (⭐5.8k)](https://github.com/thelounge/thelounge)) `MIT` `Nodejs/Docker`
 
 ### Software / Communication - Social Networks and Forums
 
@@ -275,21 +267,20 @@
 
 ### Software / Database Management
 
-*   [Databunker](https://databunker.org/) - Network-based, self-hosted, GDPR compliant, secure database for personal data or PII. ([Source Code (⭐1.2k)](https://github.com/securitybunker/databunker)) `MIT` `Docker`
+*   [Databunker](https://databunker.org/) - Network-based, self-hosted, GDPR compliant, secure database for personal data or PII. ([Source Code (⭐1.3k)](https://github.com/securitybunker/databunker)) `MIT` `Docker`
 
 ### Software / Document Management - E-books
 
-*   [Calibre Web (⭐12k)](https://github.com/janeczku/calibre-web) - Web app providing a clean interface for browsing, reading and downloading eBooks using an existing Calibre database. `GPL-3.0` `Python`
-*   [The Epube](https://tt-rss.org/the-epube) - Self-hosted web EPUB reader using EPUB.js, Bootstrap, and Calibre. ([Source Code](https://git.tt-rss.org/fox/the-epube)) `GPL-3.0` `PHP`
+*   [Calibre Web (⭐14k)](https://github.com/janeczku/calibre-web) - Web app providing a clean interface for browsing, reading and downloading eBooks using an existing Calibre database. `GPL-3.0` `Python`
 
 ### Software / Maps and Global Positioning System (GPS)
 
-*   [Open Source Routing Machine (OSRM)](http://project-osrm.org/) - High performance routing engine designed to run on OpenStreetMap data and offering an HTTP API, C++ library interface, and Nodejs wrapper. ([Demo](https://map.project-osrm.org/), [Source Code (⭐6.3k)](https://github.com/Project-OSRM/osrm-backend)) `BSD-2-Clause` `C++`
-*   [μlogger (⭐532)](https://github.com/bfabiszewski/ulogger-server) - Collect geolocation from users in real-time and display their GPS tracks on a website. ([Demo](http://ulogger.fabiszewski.net/)) `GPL-3.0` `PHP`
+*   [Open Source Routing Machine (OSRM)](http://project-osrm.org/) - High performance routing engine designed to run on OpenStreetMap data and offering an HTTP API, C++ library interface, and Nodejs wrapper. ([Demo](https://map.project-osrm.org/), [Source Code (⭐6.5k)](https://github.com/Project-OSRM/osrm-backend)) `BSD-2-Clause` `C++`
+*   [μlogger (⭐558)](https://github.com/bfabiszewski/ulogger-server) - Collect geolocation from users in real-time and display their GPS tracks on a website. ([Demo](http://ulogger.fabiszewski.net/)) `GPL-3.0` `PHP`
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [AzuraCast](https://www.azuracast.com/) - A modern and accessible self-hosted web radio management suite. ([Source Code (⭐3k)](https://github.com/AzuraCast/AzuraCast)) `Apache-2.0` `Docker`
+*   [AzuraCast](https://www.azuracast.com/) - A modern and accessible self-hosted web radio management suite. ([Source Code (⭐3.2k)](https://github.com/AzuraCast/AzuraCast)) `Apache-2.0` `Docker`
 
 ### Software / Media Streaming - Video Streaming
 
@@ -297,16 +288,16 @@
 
 ### Software / Miscellaneous
 
-*   [graph-vl (⭐55)](https://github.com/verifid/graph-vl) - Identity document verification using Machine Learning and GraphQL. `MIT` `Python/Docker/K8S`
+*   [graph-vl (⭐59)](https://github.com/verifid/graph-vl) - Identity document verification using Machine Learning and GraphQL. `MIT` `Python/Docker/K8S`
 
 ### Software / Money, Budgeting & Management
 
-*   [BTCPay Server](https://btcpayserver.org/) - A self-hosted Bitcoin and other cryptocurrencies payment processor. ([Demo](https://mainnet.demo.btcpayserver.org/), [Source Code (⭐6.3k)](https://github.com/btcpayserver/btcpayserver)) `MIT` `C#`
-*   [Firefly III](https://firefly-iii.org/) - Firefly III is a modern financial manager. It helps you to keep track of your money and make budget forecasts. It supports credit cards, has an advanced rule engine and can import data from many banks. ([Demo](https://demo.firefly-iii.org/), [Source Code (⭐15k)](https://github.com/firefly-iii/firefly-iii)) `AGPL-3.0` `PHP/Docker`
+*   [BTCPay Server](https://btcpayserver.org/) - A self-hosted Bitcoin and other cryptocurrencies payment processor. ([Demo](https://mainnet.demo.btcpayserver.org/), [Source Code (⭐6.5k)](https://github.com/btcpayserver/btcpayserver)) `MIT` `C#`
+*   [Firefly III](https://firefly-iii.org/) - Firefly III is a modern financial manager. It helps you to keep track of your money and make budget forecasts. It supports credit cards, has an advanced rule engine and can import data from many banks. ([Demo](https://demo.firefly-iii.org/), [Source Code (⭐17k)](https://github.com/firefly-iii/firefly-iii)) `AGPL-3.0` `PHP/Docker`
 
 ### Software / Note-taking & Editors
 
-*   [turndown](https://mixmark-io.github.io/turndown/) - HTML to Markdown converter written in Javascript. ([Source Code (⭐8.6k)](https://github.com/mixmark-io/turndown)) `MIT` `Javascript`
+*   [turndown](https://mixmark-io.github.io/turndown/) - HTML to Markdown converter written in Javascript. ([Source Code (⭐9.1k)](https://github.com/mixmark-io/turndown)) `MIT` `Javascript`
 
 ## [21. Awesome Haskell](/content/krispo/awesome-haskell/week/README.md)
 
@@ -318,29 +309,42 @@
 
 ## [22. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
-### Blog posts
+### Blog posts  (a-z↓)
 
 *   [Visual regression testing using Jest, Chromeless and AWS Lambda (⭐17)](https://github.com/novemberfiveco/visual-regression-testing-jest-chromeless) - Tutorial using Chromeless and jest-image-snapshot.
 
-## [23. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [23. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+
+### Resources / Community
+
+*   [VueJS Turkey - Telegram Group](https://t.me/vuejsTR)
+*   [Vue Turkey - Twitter Account](https://twitter.com/Vue_Turkey)
+*   [Vue Türkiye - Kommunity Page](https://kommunity.com/vue-turkey)
+
+### Components & Libraries / UI Components
+
+*   [v-network-graph (⭐533)](https://github.com/dash14/v-network-graph) - An interactive SVG based network-graph visualization component for Vue 3.
+*   [vue-word-highlighter (⭐306)](https://github.com/kawamataryo/vue-word-highlighter) - The word highlighter library for Vue 2 and Vue 3.
+
+## [24. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Laravel / Community
 
-*   [Laravel Vite (⭐598)](https://github.com/innocenzi/laravel-vite) - Integration for the Laravel framework.
+*   [Laravel Vite (⭐601)](https://github.com/innocenzi/laravel-vite) - Integration for the Laravel framework.
 
-## [24. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [25. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Researchers / Tools
 
 *   [Visual Studio Tools for AI](https://www.microsoft.com/en-us/research/project/visual-studio-code-tools-ai/) - Develop, debug and deploy deep learning and AI solutions
 
-## [25. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
+## [26. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
 
 ### Tools
 
 *   [DevTools](https://dart.dev/tools/dart-devtools) - a suite of debugging and performance tools for Dart and Flutter.
 
-## [26. Awesome Webxr](/content/msub2/awesome-webxr/week/README.md)
+## [27. Awesome Webxr](/content/msub2/awesome-webxr/week/README.md)
 
 ### Standout Projects
 
@@ -354,7 +358,6 @@
 ### Audio
 
 *   [beats](https://beats.gatunes.com/) - A semi-collaborative app with various rooms where anyone can create or modify an existing musical loop.
-*   [Fathom VR](https://www.letsfathom.com/vr/play) - A WebXR version of the music discovery app Fathom, which lets you search for and explore clouds of related artists with spatialized audio.
 *   [TRACK](https://demos.littleworkshop.fr/track) - A linear ride through an immersive audiovisual experience developed by [Little Workshop](https://www.littleworkshop.fr/).
 
 ### Avatars
@@ -380,8 +383,8 @@
 *   [PlayCanvas](https://playcanvas.com/) - A browser-based WebGL engine with support for WebXR content, mobile browsers, collaborative editing, and more.
     *   [Official Documentation](https://developer.playcanvas.com/en/)
 *   [Unity](https://unity.com/) - A highly popular game engine with community packages that enable content to be exported for WebXR.
-    *   [WebXR Export (⭐1k)](https://github.com/De-Panther/unity-webxr-export) - Exporter by [De-Panther](https://github.com/De-Panther/)
-    *   [SimpleWebXR (⭐560)](https://github.com/Rufus31415/Simple-WebXR-Unity) - Exporter by [Rufus31415](https://github.com/Rufus31415)
+    *   [WebXR Export (⭐1.1k)](https://github.com/De-Panther/unity-webxr-export) - Exporter by [De-Panther](https://github.com/De-Panther/)
+    *   [SimpleWebXR (⭐578)](https://github.com/Rufus31415/Simple-WebXR-Unity) - Exporter by [Rufus31415](https://github.com/Rufus31415)
 *   [Wonderland Engine](https://wonderlandengine.com/) - A development platform designed specifically for building WebXR applications.
     *   [Official Documentation](https://wonderlandengine.com/documentation/)
 
@@ -391,9 +394,9 @@
     *   [Official Documentation](https://aframe.io/docs/)
 *   [Babylon.js](https://www.babylonjs.com/) - A powerful and feature-rich rendering engine packaged into a JavaScript framework.
     *   [Official Documentation](https://doc.babylonjs.com/)
-*   [JanusWeb (⭐176)](https://github.com/jbaicoianu/janusweb) - An in-browser implementation of JanusVR that lets you build social VR experiences.
+*   [JanusWeb (⭐183)](https://github.com/jbaicoianu/janusweb) - An in-browser implementation of JanusVR that lets you build social VR experiences.
 *   [p5.xr](https://p5xr.org/) - An add-on for the library p5.js that allows you to create immersive p5 sketches.
-*   [react-three-fiber (⭐27k)](https://github.com/pmndrs/react-three-fiber) - A React renderer for three.js. Additional WebXR-specific hooks and components are available in [React XR (⭐2k)](https://github.com/pmndrs/react-xr) as well.
+*   [react-three-fiber (⭐28k)](https://github.com/pmndrs/react-three-fiber) - A React renderer for three.js. Additional WebXR-specific hooks and components are available in [React XR (⭐2.3k)](https://github.com/pmndrs/react-xr) as well.
 *   [three.js](https://threejs.org/) - A JavaScript library for rendering 3D content with WebGL that powers many existing WebXR experiences and tools.
     *   [Official Documentation](https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene)
 
@@ -422,46 +425,46 @@
 *   [Somnium Space Web](https://somniumspace.com/parcel/) - A web viewer that allows you to explore parcels from [Somnium Space](https://www.somniumspace.com/) in your browser, with VR support on the Oculus Quest browser.
 *   [vrland](https://vrland.io/) - A platform for gathering and virtual showcases that supports displaying of NFTs.
 
-## [27. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [28. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
-### Bloggers / Book Deals (Affiliated) 🛍
+### Bloggers / Book Deals (Affiliated)
 
 *   [Loic Tetrel](https://ltetrel.github.io/) - Data science blog
 
-## [28. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [29. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications
 
-*   [kalker (⭐1.6k)](https://github.com/PaddiM8/kalker) - A scientific calculator that supports math-like syntax with user-defined variables, functions, derivation, integration, and complex numbers. Cross-platform + WASM support [![Build Status](https://github.com/PaddiM8/kalker/workflows/Release/badge.svg)](https://github.com/PaddiM8/kalker/actions)
+*   [kalker (⭐1.7k)](https://github.com/PaddiM8/kalker) - A scientific calculator that supports math-like syntax with user-defined variables, functions, derivation, integration, and complex numbers. Cross-platform + WASM support [![Build Status](https://github.com/PaddiM8/kalker/workflows/Release/badge.svg)](https://github.com/PaddiM8/kalker/actions)
 
 ### Applications / Observability
 
-*   [avito-tech/bioyino (⭐226)](https://github.com/avito-tech/bioyino) - A high-performance scalable StatsD compatible server.
+*   [avito-tech/bioyino (⭐229)](https://github.com/avito-tech/bioyino) - A high-performance scalable StatsD compatible server.
 
 ### Applications / System tools
 
-*   [nickgerace/gfold (⭐283)](https://github.com/nickgerace/gfold) \[[gfold](https://crates.io/crates/gfold)] - CLI tool to help keep track of multiple Git repositories [![build](https://img.shields.io/github/workflow/status/nickgerace/gfold/merge/main)](https://github.com/nickgerace/gfold/actions?query=workflow%3Amerge+branch%3Amain)
+*   [nickgerace/gfold (⭐317)](https://github.com/nickgerace/gfold) \[[gfold](https://crates.io/crates/gfold)] - CLI tool to help keep track of multiple Git repositories [![build](https://img.shields.io/github/workflow/status/nickgerace/gfold/merge/main)](https://github.com/nickgerace/gfold/actions?query=workflow%3Amerge+branch%3Amain)
 
 ### Applications / Text editors
 
-*   [ox (⭐3.3k)](https://github.com/curlpipe/ox) - An independent Rust text editor that runs in your terminal!
+*   [ox (⭐3.4k)](https://github.com/curlpipe/ox) - An independent Rust text editor that runs in your terminal!
 
 ### Applications / Utilities
 
-*   [raftario/licensor (⭐192)](https://github.com/raftario/licensor) - write licenses to stdout [![GitHub Actions](https://github.com/raftario/licensor/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/raftario/licensor/actions/workflows/build.yml)
-*   [rustdesk/rustdesk (⭐70k)](https://github.com/rustdesk/rustdesk) - A remote desktop software, great alternative to TeamViewer and AnyDesk.
-*   [vaultwarden (⭐36k)](https://github.com/dani-garcia/vaultwarden#readme) [![Build](https://github.com/dani-garcia/vaultwarden/actions/workflows/build.yml/badge.svg)](https://github.com/dani-garcia/vaultwarden/actions/workflows/build.yml) - Alternative implementation of the Bitwarden server API written in Rust
+*   [raftario/licensor (⭐196)](https://github.com/raftario/licensor) - write licenses to stdout [![GitHub Actions](https://github.com/raftario/licensor/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/raftario/licensor/actions/workflows/build.yml)
+*   [rustdesk/rustdesk (⭐80k)](https://github.com/rustdesk/rustdesk) - A remote desktop software, great alternative to TeamViewer and AnyDesk.
+*   [vaultwarden (⭐41k)](https://github.com/dani-garcia/vaultwarden#readme) [![Build](https://github.com/dani-garcia/vaultwarden/actions/workflows/build.yml/badge.svg)](https://github.com/dani-garcia/vaultwarden/actions/workflows/build.yml) - Alternative implementation of the Bitwarden server API written in Rust
 
 ### Development tools / FFI
 
 *   Node.js
-    *   [infinyon/node-bindgen (⭐501)](https://github.com/infinyon/node-bindgen) - Easy way to generate nodejs module using Rust
-    *   [neon-bindings/neon (⭐8k)](https://github.com/neon-bindings/neon) - Rust bindings for writing safe and fast native Node.js modules
-    *   [zhangyuang/node-ffi-rs (⭐136)](https://github.com/zhangyuang/node-ffi-rs) - A module written in Rust and N-API provides interface (FFI) features for Node.js
+    *   [infinyon/node-bindgen (⭐548)](https://github.com/infinyon/node-bindgen) - Easy way to generate nodejs module using Rust
+    *   [neon-bindings/neon (⭐8.1k)](https://github.com/neon-bindings/neon) - Rust bindings for writing safe and fast native Node.js modules
+    *   [zhangyuang/node-ffi-rs (⭐210)](https://github.com/zhangyuang/node-ffi-rs) - A module written in Rust and N-API provides interface (FFI) features for Node.js
 *   Web Assembly
-    *   [rhysd/wain (⭐427)](https://github.com/rhysd/wain) - wain: WebAssembly INterpreter from scratch in Safe Rust with zero dependency [![build badge](https://github.com/rhysd/wain/workflows/CI/badge.svg?branch=master\&event=push)](https://github.com/rhysd/wain/actions?query=workflow%3ACI+branch%3Amaster+event%3Apush)
-    *   [rustwasm/wasm-bindgen (⭐7.5k)](https://github.com/rustwasm/wasm-bindgen) - A project for facilitating high-level interactions between wasm modules and JS.
-    *   [rustwasm/wasm-pack (⭐6.1k)](https://github.com/rustwasm/wasm-pack) - :package: :sparkles: pack up the wasm and publish it to npm!
+    *   [rhysd/wain (⭐441)](https://github.com/rhysd/wain) - wain: WebAssembly INterpreter from scratch in Safe Rust with zero dependency [![build badge](https://github.com/rhysd/wain/workflows/CI/badge.svg?branch=master\&event=push)](https://github.com/rhysd/wain/actions?query=workflow%3ACI+branch%3Amaster+event%3Apush)
+    *   [rustwasm/wasm-bindgen (⭐7.9k)](https://github.com/rustwasm/wasm-bindgen) - A project for facilitating high-level interactions between wasm modules and JS.
+    *   [rustwasm/wasm-pack (⭐6.4k)](https://github.com/rustwasm/wasm-pack) - :package: :sparkles: pack up the wasm and publish it to npm!
 
 ### Development tools / Transpiling
 
@@ -470,40 +473,41 @@
 ### Libraries / Cloud
 
 *   Load Balancer
-    *   [Convey (⭐337)](https://github.com/bparli/convey) - Layer 4 Load Balancer with dynamic configuration loading.
+    *   [Convey (⭐347)](https://github.com/bparli/convey) - Layer 4 Load Balancer with dynamic configuration loading.
 
 ### Libraries / Command-line
 
 *   TUI
     *   BearLibTerminal
-        *   [cfyzium/bearlibterminal (⭐32)](https://github.com/nabijaczleweli/BearLibTerminal.rs) \[[bear-lib-terminal](https://crates.io/crates/bear-lib-terminal)] - [BearLibTerminal (⭐57)](https://github.com/tommyettinger/BearLibTerminal) bindings
-    *   [gyscos/Cursive (⭐4.2k)](https://github.com/gyscos/Cursive) \[[cursive](https://crates.io/crates/cursive)] - build rich TUI applications
-    *   [ivanceras/titik (⭐120)](https://github.com/ivanceras/titik) - a crossplatform TUI widget library with the goal of providing interactive widgets
+        *   [cfyzium/bearlibterminal (⭐32)](https://github.com/nabijaczleweli/BearLibTerminal.rs) \[[bear-lib-terminal](https://crates.io/crates/bear-lib-terminal)] - [BearLibTerminal (⭐60)](https://github.com/tommyettinger/BearLibTerminal) bindings
+    *   [ccbrown/iocraft (⭐416)](https://github.com/ccbrown/iocraft) \[[iocraft](https://crates.io/crates/iocraft)] - A crate for beautiful, artisanally crafted CLIs, TUIs, and text-based IO. [![Build status](https://github.com/ccbrown/iocraft/actions/workflows/commit.yaml/badge.svg?branch=main)](https://github.com/ccbrown/iocraft/actions) [![docs.rs](https://img.shields.io/docsrs/iocraft)](https://docs.rs/iocraft/)
+    *   [gyscos/Cursive (⭐4.4k)](https://github.com/gyscos/Cursive) \[[cursive](https://crates.io/crates/cursive)] - build rich TUI applications
+    *   [ivanceras/titik (⭐121)](https://github.com/ivanceras/titik) - a crossplatform TUI widget library with the goal of providing interactive widgets
     *   ncurses
-        *   [ihalila/pancurses (⭐392)](https://github.com/ihalila/pancurses) \[[pancurses](https://crates.io/crates/pancurses)] - curses library, supports linux and windows
-        *   [jeaye/ncurses-rs (⭐674)](https://github.com/jeaye/ncurses-rs) \[[ncurses](https://crates.io/crates/ncurses)] - [ncurses](https://www.gnu.org/software/ncurses/) bindings
-    *   [ogham/rust-term-grid (⭐65)](https://github.com/ogham/rust-term-grid) \[[term\_grid](https://crates.io/crates/term_grid)] - Library for putting things in a grid
-    *   [ratatui-org/ratatui (⭐9.5k)](https://github.com/ratatui/ratatui) \[[ratatui](https://crates.io/crates/ratatui)] - Library that's all about cooking up terminal user interfaces (TUIs)
+        *   [ihalila/pancurses (⭐403)](https://github.com/ihalila/pancurses) \[[pancurses](https://crates.io/crates/pancurses)] - curses library, supports linux and windows
+        *   [jeaye/ncurses-rs (⭐692)](https://github.com/jeaye/ncurses-rs) \[[ncurses](https://crates.io/crates/ncurses)] - [ncurses](https://www.gnu.org/software/ncurses/) bindings
+    *   [ogham/rust-term-grid (⭐67)](https://github.com/ogham/rust-term-grid) \[[term\_grid](https://crates.io/crates/term_grid)] - Library for putting things in a grid
+    *   [ratatui-org/ratatui (⭐12k)](https://github.com/ratatui/ratatui) \[[ratatui](https://crates.io/crates/ratatui)] - Library that's all about cooking up terminal user interfaces (TUIs)
     *   [redox-os/termion (⭐2.1k)](https://github.com/redox-os/termion) \[[termion](https://crates.io/crates/termion)] - bindless library for controlling terminals/TTY
     *   [ruterm](https://crates.io/crates/ruterm) - tiny & simple library for working with TTY
     *   Termbox
-        *   [gchp/rustbox (⭐466)](https://github.com/gchp/rustbox) \[[rustbox](https://crates.io/crates/rustbox)] - bindings to [Termbox (⭐2k)](https://github.com/nsf/termbox)
-    *   [TimonPost/crossterm (⭐3.1k)](https://github.com/crossterm-rs/crossterm) \[[crossterm](https://crates.io/crates/crossterm)] - crossplatform terminal library
+        *   [gchp/rustbox (⭐468)](https://github.com/gchp/rustbox) \[[rustbox](https://crates.io/crates/rustbox)] - bindings to [Termbox (⭐2k)](https://github.com/nsf/termbox)
+    *   [TimonPost/crossterm (⭐3.4k)](https://github.com/crossterm-rs/crossterm) \[[crossterm](https://crates.io/crates/crossterm)] - crossplatform terminal library
 
 ### Libraries / Compression
 
 *   [Brotli](https://opensource.googleblog.com/2015/09/introducing-brotli-new-compression.html)
-    *   [dropbox/rust-brotli (⭐805)](https://github.com/dropbox/rust-brotli) - Brotli decompressor that optionally avoids the stdlib
-    *   [ende76/brotli-rs (⭐64)](https://github.com/ende76/brotli-rs) - implementation of Brotli compression
+    *   [dropbox/rust-brotli (⭐829)](https://github.com/dropbox/rust-brotli) - Brotli decompressor that optionally avoids the stdlib
+    *   [ende76/brotli-rs (⭐63)](https://github.com/ende76/brotli-rs) - implementation of Brotli compression
 
 ### Libraries / Computation
 
 *   [calebwin/emu (⭐1.6k)](https://github.com/calebwin/emu) - A language for GPGPU numerical computing
-*   [dimforge/nalgebra (⭐3.9k)](https://github.com/dimforge/nalgebra) - low-dimensional linear algebra library
+*   [dimforge/nalgebra (⭐4.1k)](https://github.com/dimforge/nalgebra) - low-dimensional linear algebra library
 
 ### Libraries / Cryptography
 
-*   [rustls/rustls (⭐5.8k)](https://github.com/rustls/rustls) - Implementation of TLS
+*   [rustls/rustls (⭐6.4k)](https://github.com/rustls/rustls) - Implementation of TLS
 
 ### Libraries / Database
 
@@ -512,24 +516,18 @@
 ### Libraries / Encoding
 
 *   ProtocolBuffers
-    *   [stepancheg/rust-protobuf (⭐2.7k)](https://github.com/stepancheg/rust-protobuf) - Rust implementation of Google protocol buffers
-    *   [tokio-rs/prost (⭐3.7k)](https://github.com/tokio-rs/prost) - [![continuous integration](https://github.com/tokio-rs/prost/workflows/continuous%20integration/badge.svg?branch=master)](https://github.com/tokio-rs/prost/actions)
+    *   [stepancheg/rust-protobuf (⭐2.8k)](https://github.com/stepancheg/rust-protobuf) - Rust implementation of Google protocol buffers
+    *   [tokio-rs/prost (⭐4.1k)](https://github.com/tokio-rs/prost) - [![continuous integration](https://github.com/tokio-rs/prost/workflows/continuous%20integration/badge.svg?branch=master)](https://github.com/tokio-rs/prost/actions)
 
 ### Libraries / Game development
 
-*   [Awesome wgpu (⭐408)](https://github.com/rofrol/awesome-wgpu) - A curated list of wgpu code and resources
+*   [Awesome wgpu (⭐430)](https://github.com/rofrol/awesome-wgpu) - A curated list of wgpu code and resources
 *   SFML
-    *   [jeremyletang/rust-sfml (⭐632)](https://github.com/jeremyletang/rust-sfml) - [SFML](https://www.sfml-dev.org/) bindings
+    *   [jeremyletang/rust-sfml (⭐647)](https://github.com/jeremyletang/rust-sfml) - [SFML](https://www.sfml-dev.org/) bindings
 
 ### Libraries / Geospatial
 
-*   [rust-reverse-geocoder (⭐122)](https://github.com/gx0r/rrgeo) - A fast, offline reverse geocoder, inspired by [thampiman/reverse-geocoder (⭐1.9k)](https://github.com/thampiman/reverse-geocoder)
-
-### Libraries / Graphics
-
-*   Font
-    *   [RazrFalcon/rustybuzz (⭐529)](https://github.com/RazrFalcon/rustybuzz) - An incremental harfbuzz port
-    *   [redox-os/rusttype (⭐609)](https://github.com/redox-os/rusttype) - Alternative to libraries like FreeType
+*   [rust-reverse-geocoder (⭐129)](https://github.com/gx0r/rrgeo) - A fast, offline reverse geocoder, inspired by [thampiman/reverse-geocoder (⭐1.9k)](https://github.com/thampiman/reverse-geocoder)
 
 ### Libraries / GUI
 
@@ -537,54 +535,48 @@
 *   [Qt](https://doc.qt.io)
     *   [cyndis/qmlrs (⭐437)](https://github.com/cyndis/qmlrs) - QtQuick bindings
     *   [rust-qt](https://github.com/rust-qt) - Qt bindings for Rust
-    *   [woboq/qmetaobject-rs (⭐627)](https://github.com/woboq/qmetaobject-rs) - Integrate Qml and Rust by building the QMetaObject at compile time.
-*   [rise-ui (⭐71)](https://github.com/rise-ui/rise) - Simple component-based cross-Platform GUI Toolkit for developing beautiful and user-friendly interfaces.
+    *   [woboq/qmetaobject-rs (⭐659)](https://github.com/woboq/qmetaobject-rs) - Integrate Qml and Rust by building the QMetaObject at compile time.
+*   [rise-ui (⭐72)](https://github.com/rise-ui/rise) - Simple component-based cross-Platform GUI Toolkit for developing beautiful and user-friendly interfaces.
 
 ### Libraries / Network programming
 
 *   NATS
-    *   [nats-io/nats.rs (⭐1k)](https://github.com/nats-io/nats.rs) - Client for NATS, the cloud native messaging system. [![Build Status](https://github.com/nats-io/nats.rs/workflows/Rust/badge.svg?branch=master)](https://github.com/nats-io/nats.rs/actions)
+    *   [nats-io/nats.rs (⭐1.1k)](https://github.com/nats-io/nats.rs) - Client for NATS, the cloud native messaging system. [![Build Status](https://github.com/nats-io/nats.rs/workflows/Rust/badge.svg?branch=master)](https://github.com/nats-io/nats.rs/actions)
 *   P2P
-    *   [libp2p/rust-libp2p (⭐4.4k)](https://github.com/libp2p/rust-libp2p) - Implementation of libp2p networking stack. [![Circle CI](https://circleci.com/gh/libp2p/rust-libp2p.svg?style=svg)](https://app.circleci.com/pipelines/github/libp2p/rust-libp2p)
+    *   [libp2p/rust-libp2p (⭐4.8k)](https://github.com/libp2p/rust-libp2p) - Implementation of libp2p networking stack. [![Circle CI](https://circleci.com/gh/libp2p/rust-libp2p.svg?style=svg)](https://app.circleci.com/pipelines/github/libp2p/rust-libp2p)
+    *   [n0-computer/iroh (⭐3.1k)](https://github.com/n0-computer/iroh) \[[iroh](https://crates.io/crates/iroh)] - crate for building on direct connections between devices [![CI](https://github.com/n0-computer/iroh/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/n0-computer/iroh/actions/workflows/ci.yml)
 *   RPC
-    *   [ENQT-GmbH/remoc (⭐170)](https://github.com/ENQT-GmbH/remoc) \[[remoc](https://crates.io/crates/remoc)] - Remoc provides channels (broadcast, mpsc, oneshot, watch) similar to Tokio's and trait calling over any remote transport. [![build badge](https://github.com/ENQT-GmbH/remoc/actions/workflows/rust.yml/badge.svg?branch=master)](https://github.com/ENQT-GmbH/remoc/actions/workflows/rust.yml)
-    *   [smallnest/rpcx-rs (⭐126)](https://github.com/smallnest/rpcx-rs) - A RPC library for developing microservices in easy and simple way.
+    *   [ENQT-GmbH/remoc (⭐181)](https://github.com/ENQT-GmbH/remoc) \[[remoc](https://crates.io/crates/remoc)] - Remoc provides channels (broadcast, mpsc, oneshot, watch) similar to Tokio's and trait calling over any remote transport. [![build badge](https://github.com/ENQT-GmbH/remoc/actions/workflows/rust.yml/badge.svg?branch=master)](https://github.com/ENQT-GmbH/remoc/actions/workflows/rust.yml)
+    *   [smallnest/rpcx-rs (⭐129)](https://github.com/smallnest/rpcx-rs) - A RPC library for developing microservices in easy and simple way.
 
 ### Libraries / Parsing
 
-*   [s-panferov/queryst (⭐71)](https://github.com/s-panferov/queryst) - A query string parsing library inspired by [gs (⭐8.5k)](https://github.com/ljharb/qs#readme)
+*   [s-panferov/queryst (⭐70)](https://github.com/s-panferov/queryst) - A query string parsing library inspired by [gs (⭐8.6k)](https://github.com/ljharb/qs#readme)
 
 ### Libraries / Scripting
 
-*   [fleabitdev/gamelisp (⭐393)](https://github.com/fleabitdev/glsp) - A Lisp-like scripting language for game development
-
-### Libraries / Template engine
-
-*   HTML
-    *   [djc/askama (⭐3.3k)](https://github.com/djc/askama) - template rendering engine based on Jinja
-    *   [kaj/ructe (⭐449)](https://github.com/kaj/ructe) - HTML template system
-    *   [Keats/tera (⭐3.4k)](https://github.com/Keats/tera) - template engine based on Jinja2 and the Django template language. [![Actions Status](https://github.com/Keats/tera/workflows/ci/badge.svg?branch=master)](https://github.com/Keats/tera/actions)
-    *   [lambda-fairy/maud (⭐2k)](https://github.com/lambda-fairy/maud) - compile-time HTML templates
-    *   [Stebalien/horrorshow-rs (⭐318)](https://github.com/Stebalien/horrorshow-rs) - compile-time HTML templates
+*   [fleabitdev/gamelisp (⭐397)](https://github.com/fleabitdev/glsp) - A Lisp-like scripting language for game development
 
 ### Libraries / Web programming
 
 *   Miscellaneous
     *   [cargonauts (⭐179)](https://github.com/cargonauts-rs/cargonauts) - A web framework intended for building maintainable, well-factored web apps.
-    *   [hominee/dyer (⭐134)](https://github.com/hominee/dyer) \[[dyer](https://crates.io/crates/dyer)] - dyer is designed for reliable, flexible and fast Request-Response based service, including data processing, web-crawling and so on, providing some friendly, flexible, comprehensive features without compromising speed.
-    *   [juhaku/utoipa (⭐2.1k)](https://github.com/juhaku/utoipa) - Simple, Fast, Code first and Compile time generated OpenAPI documentation [![crates.io](https://img.shields.io/crates/v/utoipa.svg?label=crates.io\&color=orange\&logo=rust)](https://crates.io/crates/utoipa) [![Utoipa build](https://github.com/juhaku/utoipa/actions/workflows/build.yaml/badge.svg)](https://github.com/juhaku/utoipa/actions/workflows/build.yaml)
+    *   [edezhic/prest (⭐56)](https://github.com/edezhic/prest) \[[prest](https://crates.io/crates/prest)] - Progressive RESTful framework aimed to simplify fullstack development
+    *   [hominee/dyer (⭐127)](https://github.com/hominee/dyer) \[[dyer](https://crates.io/crates/dyer)] - dyer is designed for reliable, flexible and fast Request-Response based service, including data processing, web-crawling and so on, providing some friendly, flexible, comprehensive features without compromising speed.
     *   [osohq/oso (⭐3.5k)](https://github.com/osohq/oso) \[[oso](https://crates.io/crates/oso)] - A policy engine for authorization that's embedded in your application. [![Build Status](https://github.com/osohq/oso/workflows/Development/badge.svg?branch=main)](https://github.com/osohq/oso/actions?query=branch%3Amain+workflow%3ADevelopment)
     *   [pwoolcoc/soup](https://gitlab.com/pwoolcoc/soup) \[[soup](https://crates.io/crates/soup)] - A library similar to Python's BeautifulSoup, designed to enable quick and easy manipulation and querying of HTML documents. [![Build Status](https://gitlab.com/pwoolcoc/soup/badges/master/pipeline.svg)](https://gitlab.com/pwoolcoc/soup/badges/master/pipeline.svg)
-    *   [pyrossh/rust-embed (⭐1.6k)](https://github.com/pyrossh/rust-embed) - A macro to embed static assets into the rust binary
-    *   [rookie (⭐130)](https://github.com/thewh1teagle/rookie) - Load cookies from any browser on any platform. ![crates.io](https://img.shields.io/crates/v/rookie.svg)
-    *   [rust-scraper/scraper (⭐1.8k)](https://github.com/rust-scraper/scraper) \[[scraper](https://crates.io/crates/scraper)] - HTML parsing and querying with CSS selectors. [![Build Status](https://github.com/rust-scraper/scraper/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/rust-scraper/scraper/actions)
-    *   [serenity-rs/serenity (⭐4.6k)](https://github.com/serenity-rs/serenity) \[[serenity](https://crates.io/crates/serenity)] - A library for the Discord API
-    *   [softprops/openapi (⭐126)](https://github.com/softprops/openapi) - A library for processing openapi spec files
-    *   [svix/svix-webhooks (⭐2.3k)](https://github.com/svix/svix-webhooks) \[[svix](https://crates.io/crates/svix)] - A library for sending webhooks and verifying signatures.
+    *   [pyrossh/rust-embed (⭐1.7k)](https://github.com/pyrossh/rust-embed) - A macro to embed static assets into the rust binary
+    *   [rookie (⭐235)](https://github.com/thewh1teagle/rookie) - Load cookies from any browser on any platform. ![crates.io](https://img.shields.io/crates/v/rookie.svg)
+    *   [rust-scraper/scraper (⭐2k)](https://github.com/rust-scraper/scraper) \[[scraper](https://crates.io/crates/scraper)] - HTML parsing and querying with CSS selectors. [![Build Status](https://github.com/rust-scraper/scraper/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/rust-scraper/scraper/actions)
+    *   [serenity-rs/serenity (⭐4.9k)](https://github.com/serenity-rs/serenity) \[[serenity](https://crates.io/crates/serenity)] - A library for the Discord API
+    *   [softprops/openapi (⭐128)](https://github.com/softprops/openapi) - A library for processing openapi spec files
+    *   [svix/svix-webhooks (⭐2.5k)](https://github.com/svix/svix-webhooks) \[[svix](https://crates.io/crates/svix)] - A library for sending webhooks and verifying signatures.
     *   [tbot](https://gitlab.com/SnejUgal/tbot) \[[tbot](https://crates.io/crates/tbot)] - Make cool Telegram bots easily [![pipeline status](https://gitlab.com/SnejUgal/tbot/badges/master/pipeline.svg)](https://gitlab.com/SnejUgal/tbot/-/commits/master)
-    *   [teloxide/teloxide (⭐3k)](https://github.com/teloxide/teloxide/) - An elegant Telegram bots framework [![Build Status](https://github.com/teloxide/teloxide/workflows/Continuous%20integration/badge.svg?branch=master)](https://github.com/teloxide/teloxide/actions)
-    *   [tu6ge/valitron (⭐59)](https://github.com/tu6ge/valitron) \[[valitron](https://crates.io/crates/valitron)] - An ergonomic, functional and configurable validator
-    *   [utkarshkukreti/select.rs (⭐950)](https://github.com/utkarshkukreti/select.rs) \[[select](https://crates.io/crates/select)] - A library to extract useful data from HTML documents, suitable for web scraping.
+    *   [teloxide/teloxide (⭐3.3k)](https://github.com/teloxide/teloxide/) - An elegant Telegram bots framework [![Build Status](https://github.com/teloxide/teloxide/workflows/Continuous%20integration/badge.svg?branch=master)](https://github.com/teloxide/teloxide/actions)
+    *   [tu6ge/valitron (⭐60)](https://github.com/tu6ge/valitron) \[[valitron](https://crates.io/crates/valitron)] - An ergonomic, functional and configurable validator
+    *   [utkarshkukreti/select.rs (⭐977)](https://github.com/utkarshkukreti/select.rs) \[[select](https://crates.io/crates/select)] - A library to extract useful data from HTML documents, suitable for web scraping.
+    *   [Utoipa (⭐2.7k)](https://github.com/juhaku/utoipa) - Simple, Fast, Code first and Compile time generated OpenAPI documentation [![crates.io](https://img.shields.io/crates/v/utoipa.svg?label=crates.io\&color=orange\&logo=rust)](https://crates.io/crates/utoipa) [![Utoipa build](https://github.com/juhaku/utoipa/actions/workflows/build.yaml/badge.svg)](https://github.com/juhaku/utoipa/actions/workflows/build.yaml)
+    *   [Utoipauto (⭐141)](https://github.com/ProbablyClem/utoipauto) - Rust Macros to automate the addition of Paths/Schemas to Utoipa [![crates.io](https://img.shields.io/crates/v/utoipauto.svg?label=crates.io\&color=orange\&logo=rust)](https://crates.io/crates/utoipauto)
 
 ### Resources / Web programming
 
@@ -593,7 +585,7 @@
     *   [Rust: Hack Without Fear!](https://www.youtube.com/watch?v=lO1z-7cuRYI) - Presented by [Nicholas Matsakis](https://github.com/nikomatsakis) @ C++Now 2018
     *   [Shipping a Solid Rust Crate](https://www.youtube.com/watch?v=t4CyEKb-ywA) - Presented by [Michael Gattozzi](https://github.com/mgattozzi) @ RustConf 2017
 
-## [29. Awesome Gatling](/content/aliesbelik/awesome-gatling/week/README.md)
+## [30. Awesome Gatling](/content/aliesbelik/awesome-gatling/week/README.md)
 
 ### Videos / Talks
 
@@ -606,9 +598,9 @@
 
 ### Related / Awesome Lists
 
-*   [Awesome k6 (⭐546)](https://github.com/grafana/awesome-k6) - Open-source, developer-centric performance monitoring and load testing solution.
+*   [Awesome k6 (⭐585)](https://github.com/grafana/awesome-k6) - Open-source, developer-centric performance monitoring and load testing solution.
 
-## [30. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [31. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
@@ -628,14 +620,14 @@
 *   [Getscreen.me](https://getscreen.me) —  Free for 2 devices, no limits on the number and duration of sessions
 *   [Apache Guacamole™](https://guacamole.apache.org/) — Open source clientless remote desktop gateway
 
-## [31. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
+## [32. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
 ### Simulation / Version Control
 
 *   [Dynamic\_logistics\_Warehouse (⭐93)](https://github.com/belal-ibrahim/dynamic_logistics_warehouse) - Gazebo simulation of dynamics environment in warehouses.
 *   [OpenCDA (⭐769)](https://github.com/ucla-mobility/OpenCDA) - A generalized framework for prototyping full-stack cooperative driving automation applications under CARLA+SUMO.
 
-## [32. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+## [33. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Public Data Resources / Climate
 
@@ -651,7 +643,7 @@
 
 ### Platforms and Software Resources / Urban Design Tools and Platforms
 
-*   [CityEngine](https://www.esri.com/en-us/arcgis/products/arcgis-cityengine/overview) - CityEngine is advanced 3D modeling software for creating huge, interactive and immersive urban environments in less time than traditional modeling techniques. The cities you create using CityEngine can be based on real-world GIS data and the procedural rules that can help quickly create [streets (⭐160)](https://github.com/d-wasserman/Complete_Street_Rule) & [buildings](https://www.arcgis.com/home/group.html?id=01695af30a384c1e823fa4d72497309d#overview).
+*   [CityEngine](https://www.esri.com/en-us/arcgis/products/arcgis-cityengine/overview) - CityEngine is advanced 3D modeling software for creating huge, interactive and immersive urban environments in less time than traditional modeling techniques. The cities you create using CityEngine can be based on real-world GIS data and the procedural rules that can help quickly create [streets (⭐187)](https://github.com/d-wasserman/Complete_Street_Rule) & [buildings](https://www.arcgis.com/home/group.html?id=01695af30a384c1e823fa4d72497309d#overview).
 *   [TestFit](https://testfit.io/) - TestFit features algorithms and co-creation tools help developers, architects, urban planners and more to solve hotel, parking or multifamily building site plans in seconds.
 *   [Delve](https://www.sidewalklabs.com/products/delve) - Delve uses generative design and AI to reveal the very best options for your project priorities and site design metrics.
 
@@ -669,7 +661,7 @@
 *   [Planopedia](https://www.planetizen.com/planopedia) - Organized by the Planning News aggregator [Planetizen](https://www.planetizen.com/) this mini-planning encyclopedia explores various urban planning concepts and terms.
 *   [ULI](https://uli.org/) - ULI is the oldest and largest network of cross-disciplinary real estate and land use experts in the world.
 
-## [33. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [34. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Debugging
 
@@ -680,7 +672,7 @@
 
 *   [SerpApi](https://serpapi.com/) - Real-time search engine scraping API.
 
-## [34. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
+## [35. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
 ### Preparedness training and wargaming / Firewall appliances or distributions
 
@@ -690,39 +682,23 @@
 
 *   [WireGuard](https://www.wireguard.com/) - Extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography.
 
-## [35. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [36. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Blogs
 
 *   [@captain-yossarian's blog](https://catchts.com/) - fully dedicated to static typings in TypeScript
 
-## [36. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [37. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### Security / Scala
 
 *   [GNAP](https://datatracker.ietf.org/doc/html/draft-ietf-gnap-core-protocol) - Grant Negotiation and Authorization Protocol defines a mechanism for delegating authorization to a piece of software, and conveying that delegation to the software. This delegation can include access to a set of APIs as well as information passed directly to the software.<sup>DRAFT</sup>
 
-## [37. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
+## [38. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
 
 ### Projects Related to eBPF / Tools
 
-*   [upf-bpf (⭐193)](https://github.com/navarrothiago/upf-bpf) - An in-kernel solution based on XDP for 5G UPF.
-
-## [38. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
-
-### Resources / Community
-
-*   [VueJS Turkey - Telegram Group](https://t.me/vuejsTR)
-*   [Vue Turkey - Twitter Account](https://twitter.com/Vue_Turkey)
-*   [Vue Türkiye - Kommunity Page](https://kommunity.com/vue-turkey)
-
-### Components & Libraries / UI Components
-
-*   [vue3-circle-progress (⭐36)](https://github.com/delowardev/vue3-circle-progress) - Highly customizable Vue.js 3 circular progressbar component.
-*   [vue-datepicker-ui (⭐427)](https://github.com/edisdev/vue-datepicker-ui) - A datepicker component for vue.js
-*   [pdfvuer (⭐910)](https://github.com/arkokoley/pdfvuer) - A PDF viewer for Vue using Mozilla's PDF.js with text support for Vue2 and Vue3. [Demo](https://arkokoley.github.io/pdfvuer/)
-*   [v-network-graph (⭐492)](https://github.com/dash14/v-network-graph) - An interactive SVG based network-graph visualization component for Vue 3.
-*   [vue-word-highlighter (⭐288)](https://github.com/kawamataryo/vue-word-highlighter) - The word highlighter library for Vue 2 and Vue 3.
+*   [upf-bpf (⭐199)](https://github.com/navarrothiago/upf-bpf) - An in-kernel solution based on XDP for 5G UPF.
 
 ## [39. Public Apis](/content/public-apis/public-apis/week/README.md)
 
@@ -738,7 +714,7 @@
 
   CORS: Yes
 
-  Call this API: 
+  : 
 
 
 - API: [Mono](https://mono.co/)
@@ -751,7 +727,7 @@
 
   CORS: Unknown
 
-  Call this API: 
+  : 
 
 
 
@@ -846,19 +822,19 @@
 
 ### Frameworks
 
-*   [Seastar (⭐8.2k)](https://github.com/scylladb/seastar) - An advanced, open-source C++ framework for high-performance server applications on modern hardware. \[Apache-2.0 License] [seastar.io](http://seastar.io/)
+*   [Seastar (⭐8.5k)](https://github.com/scylladb/seastar) - An advanced, open-source C++ framework for high-performance server applications on modern hardware. \[Apache-2.0 License] [seastar.io](http://seastar.io/)
 
 ### CLI
 
-*   [popl (⭐163)](https://github.com/badaix/popl) - A single-header templated command line arguments and ini file parser for C++ 11 and beyond. \[MIT]
+*   [popl (⭐170)](https://github.com/badaix/popl) - A single-header templated command line arguments and ini file parser for C++ 11 and beyond. \[MIT]
 
 ### Data visualization
 
-*   [matplotplusplus (⭐4.2k)](https://github.com/alandefreitas/matplotplusplus) - C++ Graphics Library for Data Visualization. \[MIT] [website](https://alandefreitas.github.io/matplotplusplus/)
+*   [matplotplusplus (⭐4.4k)](https://github.com/alandefreitas/matplotplusplus) - C++ Graphics Library for Data Visualization. \[MIT] [website](https://alandefreitas.github.io/matplotplusplus/)
 
 ### Physics
 
-*   [Kratos (⭐1k)](https://github.com/KratosMultiphysics/Kratos) - framework for building parallel, multi-disciplinary simulation software, aiming at modularity, extensibility, and high performance. \[BSD] [website](http://www.cimne.com/kratos/)
+*   [Kratos (⭐1.1k)](https://github.com/KratosMultiphysics/Kratos) - framework for building parallel, multi-disciplinary simulation software, aiming at modularity, extensibility, and high performance. \[BSD] [website](http://www.cimne.com/kratos/)
 
 ---
 

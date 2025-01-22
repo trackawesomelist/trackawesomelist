@@ -27,17 +27,17 @@
 
 ### Testing / Fixtures
 
-*   [Instancio (⭐826)](https://github.com/instancio/instancio) - Automates data setup in unit tests by generating fully-populated, reproducible objects. Includes JUnit 5 extension.
+*   [Instancio (⭐909)](https://github.com/instancio/instancio) - Automates data setup in unit tests by generating fully-populated, reproducible objects. Includes JUnit 5 extension.
 
 ### Testing / Matchers
 
-*   [JsonUnit (⭐870)](https://github.com/lukas-krecan/JsonUnit) - Library that simplifies JSON comparison in tests.
+*   [JsonUnit (⭐886)](https://github.com/lukas-krecan/JsonUnit) - Library that simplifies JSON comparison in tests.
 
 ## [4. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Utility / Diagnostics
 
-*   [figsoda/nix-develop.nvim (⭐53)](https://github.com/figsoda/nix-develop.nvim) - Run `nix develop` without restarting Neovim.
+*   [figsoda/nix-develop.nvim (⭐58)](https://github.com/figsoda/nix-develop.nvim) - Run `nix develop` without restarting Neovim.
 
 ## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -47,9 +47,9 @@
 
 ## [6. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
-### Modules / Various Godot versions
+### Modules / Godot 4
 
-*   [godot-luaAPI (⭐358)](https://github.com/WeaselGames/godot_luaAPI) - Module for creating sandboxed modding APIs with Lua (Godot 3.2+, 4.0).
+*   [godot-luaAPI (⭐407)](https://github.com/WeaselGames/godot_luaAPI) - Module for creating sandboxed modding APIs with Lua. *(Godot 3 and 4)*
 
 ## [7. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
 
@@ -62,7 +62,7 @@
 
 ### Orchestration
 
-*   [docker rollout (⭐2.2k)](https://github.com/Wowu/docker-rollout) - Zero downtime deployment for Docker Compose services by [@Wowu](https://github.com/Wowu)
+*   [docker rollout (⭐2.5k)](https://github.com/Wowu/docker-rollout) - Zero downtime deployment for Docker Compose services by [@Wowu](https://github.com/Wowu)
 
 ---
 

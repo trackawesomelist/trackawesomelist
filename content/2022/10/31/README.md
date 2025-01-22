@@ -45,7 +45,7 @@
 
 ### Motion / Diagnostics
 
-*   [Weissle/easy-action (⭐39)](https://github.com/Weissle/easy-action) - Easily perform an action on where you can see.
+*   [Weissle/easy-action (⭐41)](https://github.com/Weissle/easy-action) - Easily perform an action on where you can see.
 
 ## [5. Awesome Tdengine](/content/taosdata/awesome-tdengine/README.md)
 
@@ -65,14 +65,14 @@
 
 ### Programming Languages / [Other](#other-1)
 
-*   [cargo-unused-features (⭐229)](https://github.com/TimonPost/cargo-unused-features) :warning: — Find potential unused enabled feature flags and prune them. You can generate a simple HTML report from the json to make it easier to inspect results.
+*   [cargo-unused-features (⭐253)](https://github.com/TimonPost/cargo-unused-features) :warning: — Find potential unused enabled feature flags and prune them. You can generate a simple HTML report from the json to make it easier to inspect results.
     It removes a feature of a dependency and then compiles the project to see if it still compiles. If it does, the feature flag can possibly be removed, but it can be a false-positive.
 
 ## [7. Awesome Fiber](/content/gofiber/awesome-fiber/README.md)
 
 ### ⚙️ Middlewares / 🌱 Third Party
 
-*   [vladfr/fiber-servertiming (⭐1)](https://github.com/vladfr/fiber-servertiming) - A middleware to add Server-Timing headers based on the W3C Server-Timing Spec.
+*   [vladfr/fiber-servertiming (⭐2)](https://github.com/vladfr/fiber-servertiming) - A middleware to add Server-Timing headers based on the W3C Server-Timing Spec.
 
 ## [8. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
@@ -90,20 +90,20 @@
 
 ### Projects Related to eBPF / Observability
 
-*   [rbperf (⭐118)](https://github.com/javierhonduco/rbperf) - Sampling profiler and tracer for Ruby.
+*   [rbperf (⭐119)](https://github.com/javierhonduco/rbperf) - Sampling profiler and tracer for Ruby.
 
 ## [11. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Misc
 
-*   [touchlab/KMMBridge (⭐348)](https://github.com/touchlab/KMMBridge) - KMMBridge is a set of Gradle tooling that facilitates publishing and consuming pre-built KMM (Kotlin Multiplatform Mobile) Xcode Framework binaries.
+*   [touchlab/KMMBridge (⭐371)](https://github.com/touchlab/KMMBridge) - KMMBridge is a set of Gradle tooling that facilitates publishing and consuming pre-built KMM (Kotlin Multiplatform Mobile) Xcode Framework binaries.
 
 ## [12. Awesome Music](/content/ciconia/awesome-music/README.md)
 
 ### Music Programming
 
-*   [Cane (⭐73)](https://github.com/Jackojc/cane) - A small MIDI sequencer DSL designed around vectors and euclidean rhythms.
-*   [Gwion (⭐522)](https://github.com/Gwion/Gwion) - A strongly-timed programming language aimed at music creation. Heavily inspired by ChucK.
+*   [Cane (⭐90)](https://github.com/Jackojc/cane) - A small MIDI sequencer DSL designed around vectors and euclidean rhythms.
+*   [Gwion (⭐544)](https://github.com/Gwion/Gwion) - A strongly-timed programming language aimed at music creation. Heavily inspired by ChucK.
 *   [Tidal](https://tidalcycles.org/) - a language built on Haskell for live coding patterns.
 
 ## [13. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
@@ -117,13 +117,13 @@
 
 ### Reflection
 
-*   [Easy Reflection (⭐91)](https://github.com/chocolacula/easy_reflection_cpp) - Easy and fast reflection + serialization solution like in Rust, Java or Go. \[Apache]
+*   [Easy Reflection (⭐99)](https://github.com/chocolacula/easy_reflection_cpp) - Easy and fast reflection + serialization solution like in Rust, Java or Go. \[Apache]
 
 ## [15. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Standard CLI
 
-*   [version (⭐95)](https://github.com/mszostok/version) - Collects and displays CLI version information in multiple formats along with upgrade notice.
+*   [version (⭐103)](https://github.com/mszostok/version) - Collects and displays CLI version information in multiple formats along with upgrade notice.
 
 ### Databases Implemented in Go
 
@@ -131,36 +131,36 @@
 
 ### Email
 
-*   [Mailpit (⭐5.3k)](https://github.com/axllent/mailpit) - Email and SMTP testing tool for developers.
+*   [Mailpit (⭐6.5k)](https://github.com/axllent/mailpit) - Email and SMTP testing tool for developers.
 
 ### Game Development
 
-*   [Harfang3D (⭐551)](https://github.com/harfang3d/harfang3d) - 3D engine for the Go language, works on Windows and Linux ([Harfang on Go.dev (⭐37)](https://github.com/harfang3d/harfang-go)).
+*   [Harfang3D (⭐590)](https://github.com/harfang3d/harfang3d) - 3D engine for the Go language, works on Windows and Linux ([Harfang on Go.dev (⭐38)](https://github.com/harfang3d/harfang-go)).
 
 ### Logging
 
-*   [pp (⭐1.8k)](https://github.com/k0kubun/pp) - Colored pretty printer for Go language.
+*   [pp (⭐1.9k)](https://github.com/k0kubun/pp) - Colored pretty printer for Go language.
 
 ### Strings
 
-*   [caps (⭐53)](https://github.com/chanced/caps) - A case conversion library.
+*   [caps (⭐58)](https://github.com/chanced/caps) - A case conversion library.
 
 ### Third-party APIs
 
-*   [GoFreeDB (⭐34)](https://github.com/FreeLeh/GoFreeDB) - Golang library providing common and simple database abstractions on top of Google Sheets.
+*   [GoFreeDB (⭐36)](https://github.com/FreeLeh/GoFreeDB) - Golang library providing common and simple database abstractions on top of Google Sheets.
 
 ### Validation
 
-*   [valix (⭐27)](https://github.com/marrow16/valix) Go package for validating requests
+*   [valix (⭐29)](https://github.com/marrow16/valix) Go package for validating requests
 
 ### Video
 
-*   [go-m3u8 (⭐29)](https://github.com/etherlabsio/go-m3u8) - Parser and generator library for Apple m3u8 playlists. Actively maintained version of quangngotan95/go-m3u8 with improvements and latest HLS playlist parsing compatibility.
+*   [go-m3u8 (⭐30)](https://github.com/etherlabsio/go-m3u8) - Parser and generator library for Apple m3u8 playlists. Actively maintained version of quangngotan95/go-m3u8 with improvements and latest HLS playlist parsing compatibility.
 
 ### Web Frameworks
 
-*   [Atreugo (⭐1.2k)](https://github.com/savsgio/atreugo) - High performance and extensible micro web framework with zero memory allocations in hot paths.
-*   [Hertz (⭐5.1k)](https://github.com/cloudwego/hertz) - A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices.
+*   [Atreugo (⭐1.3k)](https://github.com/savsgio/atreugo) - High performance and extensible micro web framework with zero memory allocations in hot paths.
+*   [Hertz (⭐5.8k)](https://github.com/cloudwego/hertz) - A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices.
 
 ### E-books for purchase / Libraries for creating HTTP middlewares
 
@@ -169,11 +169,7 @@
 
 ### Free e-books / Libraries for creating HTTP middlewares
 
-*   [Go AST Book (Chinese) (⭐5.3k)](https://github.com/chai2010/go-ast-book) - A book focusing on Go `go/*` packages.
-
-### Websites / Libraries for creating HTTP middlewares
-
-*   [Explore Go Libraries & Projects](https://kandi.openweaver.com/explore/go) - Discover & find a curated list of popular & new Go libraries, top authors, trending project kits, discussions, tutorials & learning resources on kandi.
+*   [Go AST Book (Chinese) (⭐5.4k)](https://github.com/chai2010/go-ast-book) - A book focusing on Go `go/*` packages.
 
 ### Tutorials / Libraries for creating HTTP middlewares
 

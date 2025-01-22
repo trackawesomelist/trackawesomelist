@@ -759,7 +759,7 @@
 
 ### Apps
 
-*   [Autonomica "IPFS Social Proof" (⭐130)](https://github.com/IBM/ipfs-social-proof) - Autonomica is a Keybase-like Dapp for creating an identity and proving this identity via published social media and web proofs.
+*   [Autonomica "IPFS Social Proof" (⭐146)](https://github.com/IBM/ipfs-social-proof) - Autonomica is a Keybase-like Dapp for creating an identity and proving this identity via published social media and web proofs.
 
 ## [17. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
@@ -877,7 +877,7 @@
 
 ### Animation / Paid Books
 
-*   [jQuery DrawSVG (⭐759)](https://github.com/lcdsantos/jquery-drawsvg) - Lightweight, simple to use jQuery plugin to animate SVG paths
+*   [jQuery DrawSVG (⭐769)](https://github.com/lcdsantos/jquery-drawsvg) - Lightweight, simple to use jQuery plugin to animate SVG paths
 
 ## [27. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
 
@@ -964,7 +964,7 @@
 
 ### How to show your progress / Advanced math
 
-*   **[Contributors (⭐165k)](https://github.com/ossu/computer-science/graphs/contributors)**
+*   **[Contributors (⭐173k)](https://github.com/ossu/computer-science/graphs/contributors)**
 
 ## [31. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
 
@@ -1071,22 +1071,11 @@
 
 ### Articles & Posts
 
-*   [3 mistakes to avoid if you want to get hired remotely](https://x-team.com/blog/mistakes-remote-developers/)
-*   [5 Tricks to Get More Done While Working Remotely](https://medium.com/@rdutel/working-remotely-getting-things-done-38dcd0413733)
-*   [8 tips that will make you a more active, healthier remote developer](https://x-team.com/blog/how-to-be-healthy-remote/)
-*   [How to focus when working remotely](https://x-team.com/blog/focus-working-remotely/)
-*   [How to Handle Client Work Remotely: Our Communication Stack](https://marsbased.com/blog/2015/12/07/how-to-handle-client-work-remotely-our-communication-stack/)
 *   [How to Make Remote Working Work for You](https://www.toptal.com/remote/how-to-make-remote-working-work-for-you)
-*   [How to run a team of people who never see each other](https://qz.com/230998/how-to-run-a-team-of-people-who-never-see-each-other/)
-*   [How to suggest improvements remotely](https://x-team.com/blog/suggest-improvements-remotely/)
-*   [How to Work Remotely and Still Be the Best](https://www.toptal.com/freelance/how-to-work-remotely-and-still-be-the-best)
 *   [Remote versus Co-located Work](https://martinfowler.com/articles/remote-or-co-located.html)
-*   [The 5 most important things we do as a remote company](https://x-team.com/blog/5-important-things-remote-company/)
-*   [The Ultimate Remote Team Culture](https://www.toptal.com/remote/the-ultimate-remote-culture)
 *   [The Villains of Remote Work](https://blog.dnsimple.com/2016/10/the-villains-of-remote-work/)
 *   [Things To Watch Out For While Working Remotely](https://www.toptal.com/remote/remote-work-burnout-a-cautionary-tale)
 *   [Tips to Land a Remote Job](https://moduscreate.com/blog/tips-to-land-a-remote-job/)
-*   [Who Needs an Office? How to Go 100 Percent Remote.](https://www.entrepreneur.com/article/242708)
 
 ### Books
 
@@ -1138,11 +1127,11 @@
 
 ### Matlab / General-Purpose Machine Learning
 
-*   [Machine Learning in MatLab/Octave (⭐837)](https://github.com/trekhleb/machine-learning-octave) - Examples of popular machine learning algorithms (neural networks, linear/logistic regressions, K-Means, etc.) with code examples and mathematics behind them being explained.
+*   [Machine Learning in MatLab/Octave (⭐857)](https://github.com/trekhleb/machine-learning-octave) - Examples of popular machine learning algorithms (neural networks, linear/logistic regressions, K-Means, etc.) with code examples and mathematics behind them being explained.
 
 ### Tools / Misc
 
-*   [DVC (⭐13k)](https://github.com/iterative/dvc) - Data Science Version Control is an open-source version control system for machine learning projects with pipelines support. It makes ML projects reproducible and shareable.
+*   [DVC (⭐14k)](https://github.com/iterative/dvc) - Data Science Version Control is an open-source version control system for machine learning projects with pipelines support. It makes ML projects reproducible and shareable.
 
 ## [38. Awesome Chrome Devtools](/content/ChromeDevTools/awesome-chrome-devtools/week/README.md)
 
@@ -1164,7 +1153,7 @@
 
 ### Using DevTools frontend with other platforms / ClojureScript
 
-*   [Dirac (⭐769)](https://github.com/binaryage/dirac) - Debugging of ClojsureScript.
+*   [Dirac (⭐770)](https://github.com/binaryage/dirac) - Debugging of ClojsureScript.
 
 ### Using DevTools frontend with other platforms / iOS
 
@@ -1271,7 +1260,7 @@
 
 ### Containers / Kubernetes
 
-*   [kubernetes/examples (⭐5.7k)](https://github.com/kubernetes/examples/tree/master/staging/selenium) - Example deployment of Selenium Hub and Nodes on a Kubernetes cluster
+*   [kubernetes/examples (⭐6.3k)](https://github.com/kubernetes/examples/tree/master/staging/selenium) - Example deployment of Selenium Hub and Nodes on a Kubernetes cluster
 
 ## [52. Awesome Actionscript3](/content/robinrodricks/awesome-actionscript3/week/README.md)
 
@@ -1297,8 +1286,8 @@
 
 ### Programming / R
 
-*   [nat: NeuroAnatomy Toolbox (⭐57)](https://github.com/jefferis/nat) - Package for the (3D) visualisation and analysis of biological image data, especially tracings of single neurons.
-*   [brainGraph (⭐137)](https://github.com/cwatson/brainGraph) - Package for performing graph theory analyses of brain MRI data.
+*   [nat: NeuroAnatomy Toolbox (⭐64)](https://github.com/jefferis/nat) - Package for the (3D) visualisation and analysis of biological image data, especially tracings of single neurons.
+*   [brainGraph (⭐175)](https://github.com/cwatson/brainGraph) - Package for performing graph theory analyses of brain MRI data.
 
 ### Resources / Ebooks
 
@@ -1314,7 +1303,7 @@
 
 ### Resources / Miscellaneous
 
-*   [Awesome Public Datasets - Neuroscience (⭐52k)](https://github.com/awesomedata/awesome-public-datasets#neuroscience) - High-quality open neuroscience datasets.
+*   [Awesome Public Datasets - Neuroscience (⭐60k)](https://github.com/awesomedata/awesome-public-datasets#neuroscience) - High-quality open neuroscience datasets.
 
 ## [55. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
 
@@ -1351,31 +1340,35 @@
 
 ## [58. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
-### Wrappers
+### C, C++
 
-*   [cl-sqlite (⭐71)](https://github.com/dmitryvk/cl-sqlite) - Bindings for SQLite. Public domain.
+*   [cl-sqlite (⭐73)](https://github.com/dmitryvk/cl-sqlite) - Bindings for SQLite. Public domain.
+
+### Other DB wrappers
+
 *   [cl-memcached (⭐21)](https://github.com/quasi/cl-memcached) - Fast, thread-safe interface to the Memcached object caching system. [Expat](https://directory.fsf.org/wiki/License:Expat).
-*   [cl-redis (⭐187)](https://github.com/vseloved/cl-redis) - Redis client. [Expat](https://directory.fsf.org/wiki/License:Expat).
+*   [cl-redis (⭐190)](https://github.com/vseloved/cl-redis) - Redis client. [Expat](https://directory.fsf.org/wiki/License:Expat).
 *   [cl-disque (⭐13)](https://github.com/CodyReichert/cl-disque) - Disque client. [3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
 *   [cl-rethinkdb (⭐48)](https://github.com/orthecreedence/cl-rethinkdb) - RethinkDB client. [Expat](https://directory.fsf.org/wiki/License:Expat).
 
 ### Tools
 
-*   ⭐ [pgloader (⭐5.2k)](https://github.com/dimitri/pgloader) - a data loading tool for PostgreSQL. [PostgreSQL Licence](https://www.postgresql.org/about/licence/).
+*   ⭐ [pgloader (⭐5.6k)](https://github.com/dimitri/pgloader) - a data loading tool for PostgreSQL. [PostgreSQL Licence](https://www.postgresql.org/about/licence/).
+    *   obligatory blog post: [Why is pgloader so much faster?](https://tapoueh.org/blog/2014/05/why-is-pgloader-so-much-faster/) (hint: it was re-written from Python to Common Lisp)
 
 ### C
 
-*   👍[cl-autowrap (⭐210)](https://github.com/rpav/cl-autowrap) - Automatically parses header files into CFFI definitions. [FreeBSD](https://directory.fsf.org/wiki?title=License:FreeBSD).
+*   👍[cl-autowrap (⭐227)](https://github.com/rpav/cl-autowrap) - Automatically parses header files into CFFI definitions. [FreeBSD](https://directory.fsf.org/wiki?title=License:FreeBSD).
 
 ### Miscellaneous
 
-*   [common-cv (⭐57)](https://github.com/byulparan/common-cv) - the OpenCV (Open Source Computer Vision Library) binding library for CommonLisp. No license specified.
-*   [ftw (⭐60)](https://github.com/fjames86/ftw) - A Win32 GUI library. [MIT](https://opensource.org/licenses/MIT).
+*   [common-cv (⭐63)](https://github.com/byulparan/common-cv) - the OpenCV (Open Source Computer Vision Library) binding library for CommonLisp. No license specified.
+*   [ftw (⭐64)](https://github.com/fjames86/ftw) - A Win32 GUI library. [MIT](https://opensource.org/licenses/MIT).
 
 ### Mobile
 
 *   [ECL](https://common-lisp.net/project/ecl/) - Embeddable Common Lisp; compiles to C. [GNU LGPL2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html).
-    *   [eclweb (⭐15)](https://github.com/chee/eclweb) is [a proof-of-concept REPL inside a browser](https://repl.chee.party/) using Web Assembly (WASM).
+    *   [eclweb (⭐17)](https://github.com/chee/eclweb) is [a proof-of-concept REPL inside a browser](https://repl.chee.party/) using Web Assembly (WASM).
 *   [CLASP (⭐2.6k)](https://github.com/drmeister/clasp) - a new Common Lisp implementation that seamlessly interoperates with C++ libraries and programs using LLVM for compilation to native code. This allows Clasp to take advantage of a vast array of preexisting libraries and programs, such as out of the scientific computing ecosystem. [LGPL2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html) (and others).
 *   [Allegro CL](https://franz.com/products/allegro-common-lisp/) - provides the full ANSI Common Lisp standard with many extensions.
     *   reputed features include: the AllegroCache object persistence database system, the KnowledgeGraph system, its concurrent garbage collector, its web-based IDE, and more.
@@ -1383,19 +1376,19 @@
 
 ### Community
 
-*   👍[Roswell (⭐1.8k)](https://github.com/roswell/roswell) - a Lisp implementation installer, script launcher and more. [MIT](https://opensource.org/licenses/MIT).
+*   [Roswell (⭐1.8k)](https://github.com/roswell/roswell) - a Lisp implementation installer, script launcher and more. [MIT](https://opensource.org/licenses/MIT).
 
 ### HTML generators and templates / Isomorphic web frameworks
 
-*   👍 [spinneret (⭐363)](https://github.com/ruricolist/spinneret) - Common Lisp HTML5 generator. [Expat](https://directory.fsf.org/wiki/License:Expat).
+*   👍 [spinneret (⭐376)](https://github.com/ruricolist/spinneret) - Common Lisp HTML5 generator. [Expat](https://directory.fsf.org/wiki/License:Expat).
 
 ### Utils / Third-party APIs
 
-*   [lfarm (⭐104)](https://github.com/lmj/lfarm) - distributing work across machines (on top of lparallel and usocket). [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause)
+*   [lfarm (⭐106)](https://github.com/lmj/lfarm) - distributing work across machines (on top of lparallel and usocket). [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause)
 
 ### Emacs / Third-party APIs
 
-*   👍 [Sly (⭐1.2k)](https://github.com/joaotavora/sly) - SLY is a fork of SLIME and contains multiple improvements upon it, such as Sly stickers.
+*   👍 [Sly (⭐1.3k)](https://github.com/joaotavora/sly) - SLY is a fork of SLIME and contains multiple improvements upon it, such as Sly stickers.
 *   👍 [Portacle](https://shinmera.github.io/portacle/) - A portable and multiplatform Common Lisp environment: SBCL, Quicklisp, Emacs, Slime, Git.
 
 ### Configuration / Third-party APIs
@@ -1416,7 +1409,7 @@
 
 ## [60. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
-### Organizations
+### Organizations / Commerical Tools
 
 *   [Nvidia Deep Learning](https://developer.nvidia.com/deep-learning)
 
@@ -1764,7 +1757,7 @@ Wifi pw: `ilovenicolau`
 
 ### Game Engine
 
-*   [OpenXRay (⭐2.9k)](https://github.com/OpenXRay/xray-16) - a community-modified X-Ray engine used in S.T.A.L.K.E.R. game series. \[Modified BSD/non-commercial only]
+*   [OpenXRay (⭐3.1k)](https://github.com/OpenXRay/xray-16) - a community-modified X-Ray engine used in S.T.A.L.K.E.R. game series. \[Modified BSD/non-commercial only]
 
 ### Graphics
 
@@ -1772,7 +1765,7 @@ Wifi pw: `ilovenicolau`
 
 ### Inter-process communication
 
-*   [nng (⭐3.7k)](https://github.com/nanomsg/nng) - nanomsg-next-generation, a light-weight brokerless messaging library. \[MIT] [website](https://nanomsg.github.io/nng/)
+*   [nng (⭐3.9k)](https://github.com/nanomsg/nng) - nanomsg-next-generation, a light-weight brokerless messaging library. \[MIT] [website](https://nanomsg.github.io/nng/)
 
 ### JSON
 
@@ -1781,7 +1774,7 @@ Wifi pw: `ilovenicolau`
 ### Multimedia
 
 *   [libav (⭐1.1k)](https://github.com/libav/libav) - A collection of libraries and tools to process multimedia content such as audio, video, subtitles and related metadata. \[LGPL v2.1+ and others] [website](https://www.libav.org/)
-*   [TagLib (⭐1.1k)](https://github.com/taglib/taglib) - A library for reading and editing the metadata of several popular audio formats. \[LGPL/MPL] [website](https://taglib.org/)
+*   [TagLib (⭐1.2k)](https://github.com/taglib/taglib) - A library for reading and editing the metadata of several popular audio formats. \[LGPL/MPL] [website](https://taglib.org/)
 
 ### Networking
 
@@ -1789,7 +1782,7 @@ Wifi pw: `ilovenicolau`
 
 ### Scripting
 
-*   [sol2 (⭐4.1k)](https://github.com/ThePhD/sol2) - A C++ <-> Lua API wrapper with advanced features and top notch performance. \[MIT]
+*   [sol2 (⭐4.3k)](https://github.com/ThePhD/sol2) - A C++ <-> Lua API wrapper with advanced features and top notch performance. \[MIT]
 
 ### Build Systems
 

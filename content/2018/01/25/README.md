@@ -32,11 +32,11 @@
 
 ## [5. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
-### Academic Resources and Grey Literature / Telegram
+### Academic Resources and Grey Literature / Steam
 
 *   [The Collection of Computer Science Bibliographies](https://liinwww.ira.uka.de/bibliography/index.html) - The CCSB is a collection of bibliographies of scientific literature in computer science from various sources, covering most aspects of computer science.
 
-### Offline Browsing / Telegram
+### Offline Browsing / Steam
 
 *   [A1 Website Download](http://www.microsystools.com/products/website-download) - Download entire websites to disk.
 *   [HTTrack](http://www.httrack.com) - Allows you to download a World Wide Web site from the Internet to a local directory, building recursively all directories, getting HTML, images, and other files from the server to your computer.

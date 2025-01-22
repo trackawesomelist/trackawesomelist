@@ -16,19 +16,19 @@
 
 ### Networking / Text-Based User Interfaces
 
-*   [ServiceTalk (⭐906)](https://github.com/apple/servicetalk) - Framework built on Netty with APIs tailored to specific protocols and support for multiple programming paradigms.
+*   [ServiceTalk (⭐918)](https://github.com/apple/servicetalk) - Framework built on Netty with APIs tailored to specific protocols and support for multiple programming paradigms.
 
 ## [3. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
 ### Utility / Docker Container Actions
 
-*   [Jekyll Diff Action (⭐7)](https://github.com/David-Byrne/jekyll-diff-action) - Diffs the built Jekyll site after a change, and comments the result back to GitHub.
+*   [Jekyll Diff Action (⭐6)](https://github.com/David-Byrne/jekyll-diff-action) - Diffs the built Jekyll site after a change, and comments the result back to GitHub.
 
 ## [4. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
 ### Boilerplates
 
-*   [Next Graphql Apollo Typescript\_Boostrap - Pobocha (⭐84)](https://github.com/Sebastp/Next-react-graphql-apollo_Boostrap) - React + GraphQL + Next.js + Apollo + Scss + Typescript + Prettier & EsLint boilerplate
+*   [Next Graphql Apollo Typescript\_Boostrap - Pobocha](https://github.com/Sebastp/Next-react-graphql-apollo_Boostrap) - React + GraphQL + Next.js + Apollo + Scss + Typescript + Prettier & EsLint boilerplate
 
 ## [5. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
@@ -46,7 +46,7 @@
 
 ### Data Manipulation / Pipelines
 
-*   [dopanda (⭐469)](https://github.com/dovpanda-dev/dovpanda) -  Hints and tips for using pandas in an analysis environment. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pandas_big.png" alt="pandas compatible">
+*   [dopanda (⭐473)](https://github.com/dovpanda-dev/dovpanda) -  Hints and tips for using pandas in an analysis environment. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pandas_big.png" alt="pandas compatible">
 
 ---
 

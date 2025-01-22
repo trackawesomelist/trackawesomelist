@@ -27,19 +27,19 @@
 
 ### Others / Others
 
-*   [Remote Working (⭐9.7k)](https://github.com/greatghoul/remote-working) - A list of remote working resources for Chinese.
+*   [Remote Working (⭐10k)](https://github.com/greatghoul/remote-working) - A list of remote working resources for Chinese.
 
 ## [4. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Logging
 
-*   [timber (⭐215)](https://github.com/timberio/timber-elixir) - Structured logging platform; turns raw text logs into rich structured events.
+*   [timber (⭐214)](https://github.com/timberio/timber-elixir) - Structured logging platform; turns raw text logs into rich structured events.
 
 ## [5. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
 
 ### Examples
 
-*   [Vert.x Gentics Mesh Example (⭐16)](https://github.com/gentics/mesh-vertx-example) - Example on how to build a template-based web server with Gentics Mesh and handlebars.
+*   [Vert.x Gentics Mesh Example (⭐17)](https://github.com/gentics/mesh-vertx-example) - Example on how to build a template-based web server with Gentics Mesh and handlebars.
 
 ## [6. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
@@ -55,14 +55,14 @@
 
 ### Libraries
 
-*   [FPO.js (⭐449)](https://github.com/getify/fpo) – FP library for JavaScript by Kyle Simpson (aka getify). Supports named-argument style methods.
+*   [FPO.js (⭐447)](https://github.com/getify/fpo) – FP library for JavaScript by Kyle Simpson (aka getify). Supports named-argument style methods.
 
 ## [8. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
 ### Articles • Tutorials / Other
 
 *   [Particle Physics](https://www.khanacademy.org/partner-content/pixar/effects/particle-physics/a/start-here-fx) - Particle physics explained.
-*   [Adventures in Game Development World](http://ruh.li/) - Easy to understand collection of articles on game developement, but relevant to creative coding as well.
+*   [Adventures in Game Development World](http://ruh.li/) - Easy to understand collection of articles on game development, but relevant to creative coding as well.
 
 ---
 

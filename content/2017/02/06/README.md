@@ -54,13 +54,13 @@
 
 ### Related projects / Syntax highlighting packages
 
-*   [Ostrich (⭐38)](https://github.com/PumpMagic/ostrich) - A Game Boy Sound System player written in Swift.
+*   [Ostrich (⭐40)](https://github.com/PumpMagic/ostrich) - A Game Boy Sound System player written in Swift.
 
 ## [9. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Machine Learning
 
-*   [mlpack (⭐5k)](https://github.com/mlpack/mlpack) - A scalable c++ machine learning library. \[LGPLv3] [website](http://www.mlpack.org/)
+*   [mlpack (⭐5.2k)](https://github.com/mlpack/mlpack) - A scalable c++ machine learning library. \[LGPLv3] [website](http://www.mlpack.org/)
 
 ---
 

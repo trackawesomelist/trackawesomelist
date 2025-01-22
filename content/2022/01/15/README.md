@@ -14,14 +14,14 @@
 
 ### Email Alias Services (Anonymous Forwarding)
 
-*   [SimpleLogin (⭐5k)](https://github.com/simple-login/app)
-*   [AnonAddy (⭐3.2k)](https://github.com/anonaddy/anonaddy)
+*   [SimpleLogin (⭐5.3k)](https://github.com/simple-login/app)
+*   [AnonAddy (⭐3.6k)](https://github.com/anonaddy/anonaddy)
 
 ## [2. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Functional Programming
 
-*   [fork-handles/result4k (⭐205)](https://github.com/fork-handles/forkhandles/blob/trunk/result4k) - Result monad for type safe error handling in Kotlin
+*   [fork-handles/result4k (⭐226)](https://github.com/fork-handles/forkhandles/blob/trunk/result4k) - Result monad for type safe error handling in Kotlin
 
 ## [3. Awesome Nodered](/content/naimo84/awesome-nodered/README.md)
 

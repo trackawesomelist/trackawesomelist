@@ -10,7 +10,7 @@
 
 ### Table of Contents / Queue
 
-*   [PHP AMQP (⭐4.4k)](https://github.com/php-amqplib/php-amqplib) - A pure PHP AMQP library.
+*   [PHP AMQP (⭐4.5k)](https://github.com/php-amqplib/php-amqplib) - A pure PHP AMQP library.
 
 ### Configuration / Development Environment
 
@@ -79,7 +79,7 @@ git checkout <commit-ish> -- <file_path>
 
 ### Concurrency
 
-*   [GPars (⭐235)](https://github.com/GPars/GPars) - The GPars concurrency and parallelism framework for the JVM
+*   [GPars (⭐242)](https://github.com/GPars/GPars) - The GPars concurrency and parallelism framework for the JVM
 
 ## [6. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
@@ -103,7 +103,7 @@ git checkout <commit-ish> -- <file_path>
 
 ### Email
 
-*   [mail (⭐385)](https://github.com/DockYard/elixir-mail) - An RFC2822 implementation in Elixir, built for composability.
+*   [mail (⭐437)](https://github.com/DockYard/elixir-mail) - An RFC2822 implementation in Elixir, built for composability.
 
 ## [10. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 

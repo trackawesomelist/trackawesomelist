@@ -22,7 +22,7 @@
 
 ### Software / Make your life easier
 
-*   [RestQA (⭐80)](https://github.com/restqa/restqa) - A REST API testing Framework based on ghekin to manage microservice local testing using the best in class Developer experience.
+*   [RestQA (⭐88)](https://github.com/restqa/restqa) - A REST API testing Framework based on ghekin to manage microservice local testing using the best in class Developer experience.
 
 ### Training (Includes developer training for automation testers) / Other
 
@@ -48,7 +48,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐2.3k)](https://github.com/cloudscape-design/components)
+  Source code \*: [:octocat: (⭐2.4k)](https://github.com/cloudscape-design/components)
 
 
 - : [BLiP](https://design.take.net/)
@@ -70,7 +70,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐155)](https://github.com/cultureamp/kaizen-design-system)
+  Source code \*: [:octocat: (⭐163)](https://github.com/cultureamp/kaizen-design-system)
 
 
 - : [KoliBri](https://public-ui.github.io/) (Public-UI)
@@ -81,7 +81,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐134)](https://github.com/public-ui/kolibri/)
+  Source code \*: [:octocat: (⭐181)](https://github.com/public-ui/kolibri/)
 
 
 - : [Materialize CSS](https://materializecss.com/)
@@ -160,7 +160,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐156)](https://github.com/siemens/ix)
+  Source code \*: [:octocat: (⭐215)](https://github.com/siemens/ix)
 
 
 
@@ -174,11 +174,11 @@
 
 ### Templates / React
 
-*   [react-xs-admin (⭐29)](https://github.com/jsxiaosi/react-xs-admin) - The background management system template developed based on React18 + ReactRouteV6 + Vite + And Design + ReactIntl + ReactRedux + Emulation.
+*   [react-xs-admin (⭐41)](https://github.com/jsxiaosi/react-xs-admin) - The background management system template developed based on React18 + ReactRouteV6 + Vite + And Design + ReactIntl + ReactRedux + Emulation.
 
 ### Laravel / Community
 
-*   [Laravel Vite Plugin (⭐782)](https://github.com/laravel/vite-plugin) - Laravel official plugin for Vite.
+*   [Laravel Vite Plugin (⭐816)](https://github.com/laravel/vite-plugin) - Laravel official plugin for Vite.
 
 ## [8. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 

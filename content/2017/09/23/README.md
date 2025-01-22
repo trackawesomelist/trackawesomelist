@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 23, 2017
 
-6 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -24,26 +24,15 @@
 
 ### GTFS Libraries / Python
 
-*   [partridge (⭐149)](https://github.com/remix/partridge) - A fast, forgiving Python GTFS reader built on pandas DataFrames.
+*   [partridge (⭐162)](https://github.com/remix/partridge) - A fast, forgiving Python GTFS reader built on pandas DataFrames.
 
-## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Projects Using Vue.js / Open Source
-
-*   [vue2-pwa-vision (⭐39)](https://github.com/aofdev/vue-pwa-vision) - A Face Detection Google Cloud Vision with Vue2 + Vuetify + Progressive Web App
-*   [vue2-pwa-rekognition (⭐41)](https://github.com/aofdev/vue-pwa-rekognition) - A Face Detection Amazon Rekognition with Vue2 + Vuetify + Progressive Web App
-
-### Components & Libraries / UI Components
-
-*   [vue-inputmask (⭐120)](https://github.com/scleriot/vue-inputmask) - Vue.js directive to add Robin Herbots' inputmask library to your inputs (vanilla javascript).
-
-## [5. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
+## [4. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
 
 ### Build And Release System
 
 *   [PHP Censor (⭐659)](https://github.com/php-censor/php-censor) Open source self-hosted continuous integration server for PHP projects.
 
-## [6. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
+## [5. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
 
 ### Memory and concurrency
 

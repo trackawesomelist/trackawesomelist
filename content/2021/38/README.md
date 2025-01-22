@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 20 - Sep 26, 2021
 
-36 awesome lists updated this week.
+35 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -22,35 +22,34 @@
 
 ### Packages / Image
 
-*   [ImageScript (⭐610)](https://github.com/matmen/ImageScript) - Image processing in JavaScript, utilizing WebAssembly for performance.
+*   [ImageScript (⭐636)](https://github.com/matmen/ImageScript) - Image processing in JavaScript, utilizing WebAssembly for performance.
 
 ## [4. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### Tools
 
-*   [Pi-Apps (⭐1.9k)](https://github.com/Botspot/pi-apps) - The most popular app store for Raspberry Pi computers, 100% open-source bash scripts.
+*   [Pi-Apps (⭐2k)](https://github.com/Botspot/pi-apps) - The most popular app store for Raspberry Pi computers, 100% open-source bash scripts.
 
 ## [5. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
 ### Exfiltration Tools / Zealandia
 
-*   [QueenSono (⭐140)](https://github.com/ariary/QueenSono) - Client/Server Binaries for data exfiltration with ICMP. Useful in a network where ICMP protocol is less monitored than others (which is a common case).
+*   [QueenSono (⭐144)](https://github.com/ariary/QueenSono) - Client/Server Binaries for data exfiltration with ICMP. Useful in a network where ICMP protocol is less monitored than others (which is a common case).
 
 ## [6. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
 ### Third-Party Packages / Editors
 
-*   [django-business-logic (⭐211)](https://github.com/dgk/django-business-logic) - Visual DSL framework for Django.
-*   [django-quill-editor (⭐190)](https://github.com/LeeHanYeong/django-quill-editor) - Makes Quill.js easy to use on Django Forms and admin sites.
+*   [django-business-logic (⭐227)](https://github.com/dgk/django-business-logic) - Visual DSL framework for Django.
 *   [django-tinymce (⭐1.3k)](https://github.com/jazzband/django-tinymce) - TinyMCE integration for Django.
 
 ### Third-Party Packages / Forms
 
-*   [django-shapeshifter (⭐174)](https://github.com/kennethlove/django-shapeshifter) - A class-based view to handle multiple forms in one view.
+*   [django-shapeshifter (⭐175)](https://github.com/kennethlove/django-shapeshifter) - A class-based view to handle multiple forms in one view.
 
 ### Third-Party Packages / Search
 
-*   [django-admin-search (⭐75)](https://github.com/shinneider/django-admin-search) - Modal filter for django admin.
+*   [django-admin-search (⭐80)](https://github.com/shinneider/django-admin-search) - Modal filter for django admin.
 
 ### Resources / Community
 
@@ -60,17 +59,17 @@
 
 ### GUI
 
-*   [xtd (⭐751)](https://github.com/gammasoft71/xtd) - Modern C++17/20 framework to create console (CLI), forms (GUI like WinForms) and tunit (unit tests like Microsoft Unit Testing Framework) applications on Windows, macOS, Linux, iOS and android. \[MIT]
+*   [xtd (⭐834)](https://github.com/gammasoft71/xtd) - Modern C++17/20 framework to create console (CLI), forms (GUI like WinForms) and tunit (unit tests like Microsoft Unit Testing Framework) applications on Windows, macOS, Linux, iOS and android. \[MIT]
 
 ## [8. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / Vue 3
 
-*   [naive-ui-dashboard-template (⭐57)](https://github.com/Innei/naive-ui-dashboard-template) - UI friendly, Vue 3 + TSX + TailwindCSS 2 JIT + PostCSS + Naive UI.
+*   [naive-ui-dashboard-template (⭐59)](https://github.com/Innei/naive-ui-dashboard-template) - UI friendly, Vue 3 + TSX + TailwindCSS 2 JIT + PostCSS + Naive UI.
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-comlink (⭐164)](https://github.com/mathe42/vite-plugin-comlink) - Use WebWorkers with the power of [Comlink (⭐11k)](https://github.com/GoogleChromeLabs/comlink) to make them enjoyable.
+*   [vite-plugin-comlink (⭐185)](https://github.com/mathe42/vite-plugin-comlink) - Use WebWorkers with the power of [Comlink (⭐12k)](https://github.com/GoogleChromeLabs/comlink) to make them enjoyable.
 
 ## [9. Quick Look Plugins](/content/sindresorhus/quick-look-plugins/week/README.md)
 
@@ -140,23 +139,23 @@ Purchase on the [Mac App Store](https://apps.apple.com/app/peek-quick-look-exten
 
 ### Tools / Misc
 
-*   [DVClive (⭐161)](https://github.com/iterative/dvclive) - Python library for experiment metrics logging into simply formatted local files.
+*   [DVClive (⭐167)](https://github.com/iterative/dvclive) - Python library for experiment metrics logging into simply formatted local files.
 
 ## [18. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Plugins
 
-*   💼 [Fluid Type (⭐331)](https://github.com/davidhellmann/tailwindcss-fluid-type) - Adds fluid type (`font-size`) utilities.
+*   💼 [Fluid Type (⭐350)](https://github.com/davidhellmann/tailwindcss-fluid-type) - Adds fluid type (`font-size`) utilities.
 
 ### Starters & Themes
 
-*   🚀 [Next JS Boilerplate (⭐8.4k)](https://github.com/ixartz/Next-js-Boilerplate) - Boilerplate for Next.js and Tailwind CSS.
+*   🚀 [Next JS Boilerplate (⭐9.8k)](https://github.com/ixartz/Next-js-Boilerplate) - Boilerplate for Next.js and Tailwind CSS.
 
 ## [19. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Platforms
 
-*   [Integration (⭐339)](https://github.com/stn1slv/awesome-integration#readme) - Linking together different IT systems (components) to functionally cooperate as a whole.
+*   [Integration (⭐369)](https://github.com/stn1slv/awesome-integration#readme) - Linking together different IT systems (components) to functionally cooperate as a whole.
 
 ## [20. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
 
@@ -175,7 +174,7 @@ Purchase on the [Mac App Store](https://apps.apple.com/app/peek-quick-look-exten
 
 ### Graphics
 
-*   [LiveCharts2 (⭐4.2k)](https://github.com/beto-rodriguez/LiveCharts2) - Simple, flexible, interactive & powerful charts, maps, and gauges for .Net. LiveCharts2 supports WPF, WinForms, Xamarin, Avalonia, WinUI, UWP.
+*   [LiveCharts2 (⭐4.5k)](https://github.com/beto-rodriguez/LiveCharts2) - Simple, flexible, interactive & powerful charts, maps, and gauges for .Net. LiveCharts2 supports WPF, WinForms, Xamarin, Avalonia, WinUI, UWP.
 
 ## [23. Awesome Golem](/content/golemfactory/awesome-golem/week/README.md)
 
@@ -267,7 +266,7 @@ Purchase on the [Mac App Store](https://apps.apple.com/app/peek-quick-look-exten
 
 ### Environment & Secret Management
 
-*   [Ubiq](https://www.ubiqsecurity.com/) - Encryption APIs wiht secret management.
+*   [Ubiq](https://www.ubiqsecurity.com/) - Encryption APIs with secret management.
 
 ### Media
 
@@ -296,17 +295,17 @@ Purchase on the [Mac App Store](https://apps.apple.com/app/peek-quick-look-exten
 
 ### Starter Templates
 
-*   [LitElement JavaScript starter (⭐183)](https://github.com/lit/lit-element-starter-js) - Sample component using LitElement with JavaScript.
-*   [LitElement TypeScript starter (⭐486)](https://github.com/lit/lit-element-starter-ts) - Sample component using LitElement with TypeScript.
+*   [LitElement JavaScript starter (⭐187)](https://github.com/lit/lit-element-starter-js) - Sample component using LitElement with JavaScript.
+*   [LitElement TypeScript starter (⭐498)](https://github.com/lit/lit-element-starter-ts) - Sample component using LitElement with TypeScript.
 *   [hello-web-components (⭐25)](https://github.com/fernandopasik/hello-web-components) - Simple starter web component written in TypeScript using Lit.
 *   [Lit Sass JavaScript Starter (⭐1)](https://github.com/e111077/lit-sass-js-starter) - Project that has a simple setup for SASS + JS + Lit, using Rollup.
 *   [Lit Sass TypeScript Starter (⭐25)](https://github.com/e111077/lit-sass-ts-starter) - Project that has a simple setup for SASS + TS + Lit, using Rollup.
 *   [Open Web Components Generator](https://open-wc.org/docs/development/generator/) - Starter app based on Open Web Components Recommendations.
 *   [pwa-starter (⭐1.1k)](https://github.com/pwa-builder/pwa-starter) - LitElement edition of the PWABuilder pwa-starter.
-*   [pwa-lit-template (⭐177)](https://github.com/IBM/pwa-lit-template) - Build Progressive Web Applications following the modern web standards.
+*   [pwa-lit-template (⭐178)](https://github.com/IBM/pwa-lit-template) - Build Progressive Web Applications following the modern web standards.
 *   [Vite Lit Element TS SASS (⭐72)](https://github.com/e111077/vite-lit-element-ts-sass) - Example Vite project using Lit 2, Typescript, and SASS.
-*   [Vite Lit Starter (⭐66k)](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-lit) - Lit based template preset for Vite.
-*   [Vite Lit TS Starter (⭐66k)](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-lit-ts) - Lit and TypeScript based template preset for Vite.
+*   [Vite Lit Starter (⭐67k)](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-lit) - Lit based template preset for Vite.
+*   [Vite Lit TS Starter (⭐67k)](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-lit-ts) - Lit and TypeScript based template preset for Vite.
 
 ### Codelabs
 
@@ -337,9 +336,9 @@ Purchase on the [Mac App Store](https://apps.apple.com/app/peek-quick-look-exten
 
 ### Examples
 
-*   [Lit Native (⭐42)](https://github.com/rodydavis/lit-native) - Reuse Lit web components on native platforms.
-*   [Lit Node Editor (⭐20)](https://github.com/rodydavis/lit-node-editor) - Node editor built with canvas API and simple graph data structure.
-*   [Lit 3D Piano (⭐19)](https://github.com/rodydavis/lit-3d-piano/) - 3D Piano built with Lit, Three.js and Tone.js.
+*   [Lit Native (⭐41)](https://github.com/rodydavis/lit-native) - Reuse Lit web components on native platforms.
+*   [Lit Node Editor (⭐21)](https://github.com/rodydavis/lit-node-editor) - Node editor built with canvas API and simple graph data structure.
+*   [Lit 3D Piano (⭐20)](https://github.com/rodydavis/lit-3d-piano/) - 3D Piano built with Lit, Three.js and Tone.js.
 *   [Open Web Components Examples](https://open-wc.org/guides/developing-components/code-examples/#lit-html-and-lit-element) - Code examples of common patterns using Lit.
 *   [Polymer → Lit Migration Guide](https://kevinpschaaf.github.io/lit-migration-guide) - Code examples showing migration guidance from Polymer to Lit.
 *   [Vite + RxDB + Lit (⭐5)](https://github.com/rodydavis/vite-rxdb-lit) - Minimal example to get RxDB running with Vite.
@@ -372,30 +371,30 @@ Purchase on the [Mac App Store](https://apps.apple.com/app/peek-quick-look-exten
 
 ### Design Systems
 
-*   [Kor (⭐265)](https://github.com/eduferfer/kor) - An open source Design System and lightweight UI Component Library.
+*   [Kor (⭐270)](https://github.com/eduferfer/kor) - An open source Design System and lightweight UI Component Library.
 *   [Lion (⭐1.7k)](https://github.com/ing-bank/lion) - Highly performant, accessible and flexible Web Components.
-*   [Material Web Components (⭐8.8k)](https://github.com/material-components/material-web) - Material Design implemented as Web Components.
-*   [Outline Design System (⭐123)](https://github.com/phase2/outline) - Web component based design system starter kit.
-*   [Pharos Design System (⭐112)](https://github.com/ithaka/pharos) - JSTOR's design system to create cohesive, supportive, and beautiful experiences.
-*   [Shoelace (⭐12k)](https://github.com/shoelace-style/shoelace) - Collection of professionally designed UI components built on a framework-agnostic technology.
+*   [Material Web Components (⭐9.2k)](https://github.com/material-components/material-web) - Material Design implemented as Web Components.
+*   [Outline Design System (⭐126)](https://github.com/phase2/outline) - Web component based design system starter kit.
+*   [Pharos Design System (⭐117)](https://github.com/ithaka/pharos) - JSTOR's design system to create cohesive, supportive, and beautiful experiences.
+*   [Shoelace (⭐13k)](https://github.com/shoelace-style/shoelace) - Collection of professionally designed UI components built on a framework-agnostic technology.
 *   [Spectrum Web Components (⭐1.2k)](https://github.com/adobe/spectrum-web-components) - Adobe Spectrum design language implementation built with LitElement.
 *   [UI5 Web Components (⭐1.5k)](https://github.com/SAP/ui5-webcomponents) - Enterprise-flavored sugar on top of native APIs!
 
 ### Component Libraries
 
-*   [Apollo Elements (⭐416)](https://github.com/apollo-elements/apollo-elements) - Custom elements meet Apollo GraphQL.
-*   [Blackstone UI (⭐85)](https://github.com/kjantzer/bui) - Web components for creating interfaces built with lit-html and LitElement.
-*   [Curvenote (⭐175)](https://github.com/curvenote/article) - Web components for creating interactive scientific articles.
-*   [ESP Web Tools (⭐382)](https://github.com/esphome/esp-web-tools) - Allow flashing ESPHome or other ESP-based firmwares via the browser.
+*   [Apollo Elements (⭐417)](https://github.com/apollo-elements/apollo-elements) - Custom elements meet Apollo GraphQL.
+*   [Blackstone UI (⭐87)](https://github.com/kjantzer/bui) - Web components for creating interfaces built with lit-html and LitElement.
+*   [Curvenote (⭐178)](https://github.com/curvenote/article) - Web components for creating interactive scientific articles.
+*   [ESP Web Tools (⭐417)](https://github.com/esphome/esp-web-tools) - Allow flashing ESPHome or other ESP-based firmwares via the browser.
 *   [Furo Webcomponents (⭐12)](https://github.com/eclipse/eclipsefuro-web) - Enterprise ready set of web components which work best with Eclipse Furo.
-*   [Fusion Web Components (⭐10)](https://github.com/equinor/fusion-web-components) - Ser of web components used by Equinor Fusion.
-*   [Ignite UI Web Components (⭐111)](https://github.com/IgniteUI/igniteui-webcomponents) - Complete library of UI components from Infragistics.
-*   [Medblocks UI (⭐51)](https://github.com/medblocks/medblocks-ui) - Web Components for rapid development of openEHR and FHIR systems.
+*   [Fusion Web Components (⭐12)](https://github.com/equinor/fusion-web-components) - Ser of web components used by Equinor Fusion.
+*   [Ignite UI Web Components (⭐118)](https://github.com/IgniteUI/igniteui-webcomponents) - Complete library of UI components from Infragistics.
+*   [Medblocks UI (⭐54)](https://github.com/medblocks/medblocks-ui) - Web Components for rapid development of openEHR and FHIR systems.
 *   [One Platform Components (⭐30)](https://github.com/1-Platform/op-components) - Set of web components for Red Hat One Platform.
-*   [Playground Elements (⭐498)](https://github.com/PolymerLabs/playground-elements) - Serverless code experiences with web components.
-*   [Stripe Elements (⭐78)](https://github.com/bennypowers/stripe-elements) - Custom Element Wrapper for Stripe.js v3 Elements.
-*   [Titanium Elements (⭐17)](https://github.com/LeavittSoftware/titanium-elements) - Collection of lightweight web components used by Leavitt Group Enterprises.
-*   [Vidstack Elements (⭐1.8k)](https://github.com/vidstack/vds-elements) - Spec-compliant customizable, extensible, accessible and universal media elements.
+*   [Playground Elements (⭐531)](https://github.com/PolymerLabs/playground-elements) - Serverless code experiences with web components.
+*   [Stripe Elements (⭐79)](https://github.com/bennypowers/stripe-elements) - Custom Element Wrapper for Stripe.js v3 Elements.
+*   [Titanium Elements (⭐18)](https://github.com/LeavittSoftware/titanium-elements) - Collection of lightweight web components used by Leavitt Group Enterprises.
+*   [Vidstack Elements (⭐2.1k)](https://github.com/vidstack/vds-elements) - Spec-compliant customizable, extensible, accessible and universal media elements.
 *   [VSCode Webview Elements (⭐0)](https://github.com/bendera/vscode-webview-elements) - Components for creating VSCode extensions which use the Webview API.
 *   [Web Components for TEI Publisher (⭐18)](https://github.com/eeditiones/tei-publisher-components) - Web components used by TEI Publisher and apps generated by it.
 *   [Webmarkets web components (⭐1)](https://github.com/Webmarkets/wm-web-components) - Set of Webmarkets' public web components.
@@ -430,7 +429,7 @@ Purchase on the [Mac App Store](https://apps.apple.com/app/peek-quick-look-exten
 *   [vscode-lit-html](https://marketplace.visualstudio.com/items?itemName=bierner.lit-html) - Syntax highlighting and IntelliSense for lit-html template strings.
 *   [vscode-lit-plugin](https://marketplace.visualstudio.com/items?itemName=runem.lit-plugin) - Syntax highlighting, type checking and code completion for lit-html.
 *   [es6-string-html](https://marketplace.visualstudio.com/items?itemName=Tobermory.es6-string-html) - VSCode extension which provides syntax highlighting for HTML in ES6 multiline strings.
-*   [vim-html-template-literals (⭐69)](https://github.com/jonsmithers/vim-html-template-literals) - Syntax highlighting and indentation for HTML inside of tagged template literals.
+*   [vim-html-template-literals (⭐71)](https://github.com/jonsmithers/vim-html-template-literals) - Syntax highlighting and indentation for HTML inside of tagged template literals.
 
 ### Tools / TypeScript Plugins
 
@@ -442,7 +441,7 @@ Purchase on the [Mac App Store](https://apps.apple.com/app/peek-quick-look-exten
 *   [@custom-elements-manifest/analyzer](https://www.npmjs.com/package/@custom-elements-manifest/analyzer) - CLI tool to generate API documentation for web components.
 *   [Storybook for web-components](https://www.npmjs.com/package/@storybook/web-components) - UI development environment for plain web-component snippets.
 *   [web-components-codemods](https://www.npmjs.com/package/web-components-codemods) - Codemods for Web Components compatible with lit-html template literals.
-*   [Web Component DevTools (⭐125)](https://github.com/Matsuuu/web-component-devtools) - Browser extension for developers working with Web Components.
+*   [Web Component DevTools (⭐131)](https://github.com/Matsuuu/web-component-devtools) - Browser extension for developers working with Web Components.
 *   [Web Component Factory](https://www.npmjs.com/package/@wcfactory/cli) - CLI tool for generating, building, testing and publishing web components.
 
 ### CDN / Other Tools
@@ -455,8 +454,8 @@ Purchase on the [Mac App Store](https://apps.apple.com/app/peek-quick-look-exten
 ### Integrations / Other Tools
 
 *   [Bridgetown Lit Renderer (⭐13)](https://github.com/bridgetownrb/bridgetown-lit-renderer) - SSR + hydration of Lit components for Bridgetown.
-*   [Fable.Lit (⭐90)](https://github.com/fable-compiler/Fable.Lit) - Collection of tools to embed HTML code into F# code with the power of Lit.
-*   [Ruby2JS (⭐417)](https://github.com/ruby2js/ruby2js) - Minimal yet extensible Ruby to JavaScript conversion.
+*   [Fable.Lit (⭐93)](https://github.com/fable-compiler/Fable.Lit) - Collection of tools to embed HTML code into F# code with the power of Lit.
+*   [Ruby2JS (⭐424)](https://github.com/ruby2js/ruby2js) - Minimal yet extensible Ruby to JavaScript conversion.
 
 ### Videos / Other Tools
 
@@ -500,7 +499,7 @@ Purchase on the [Mac App Store](https://apps.apple.com/app/peek-quick-look-exten
 
 ### Playbooks, Roles and Collections / French
 
-*   [ansible-ssm (⭐5)](https://github.com/HQarroum/ansible-ssm) - An ansible role to provision physical and virtual hosts with the AWS SSM agent.
+*   [ansible-ssm (⭐6)](https://github.com/HQarroum/ansible-ssm) - An ansible role to provision physical and virtual hosts with the AWS SSM agent.
 
 ## [33. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
@@ -508,25 +507,11 @@ Purchase on the [Mac App Store](https://apps.apple.com/app/peek-quick-look-exten
 
 *   [BetterTouchTool](https://folivora.ai/) - Great, feature-packed app that allows you to configure many gestures for your Magic Mouse, Macbook Trackpad, Magic Trackpad and also Mouse Gestures for normal mice.
 
-## [34. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
-
-### Components & Libraries / UI Components
-
-*   [vue3-progress (⭐24)](https://github.com/marcoschulte/vue3-progress) - Fully customizable vue3 plugin to display a progress bar while waiting for something, e.g. http requests
-
-### Components & Libraries / Utilities
-
-*   [vue-use-model-helpers (⭐3)](https://github.com/sergiocarracedo/vue-use-model-helpers) - Helper to map properties to local Ref using Composition API for Vue 2.x and 3
-
-### Components & Libraries / Scaffold
-
-*   [electron-vue3-flask (⭐30)](https://github.com/megasanjay/electron-vue3-flask) - An Electron & Vue.js application starter template that uses a python backend via Flask for desktop application building.
-
-## [35. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [34. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Communication - IRC
 
-*   [UnrealIRCd](https://www.unrealircd.org/) - Modular, advanced and highly configurable IRC server written in C for Linux, BSD, Windows, and macOS. ([Source Code (⭐421)](https://github.com/unrealircd/unrealircd)) `GPL-2.0` `C`
+*   [UnrealIRCd](https://www.unrealircd.org/) - Modular, advanced and highly configurable IRC server written in C for Linux, BSD, Windows, and macOS. ([Source Code (⭐439)](https://github.com/unrealircd/unrealircd)) `GPL-2.0` `C`
 
 ### Software / Media Streaming - Video Streaming
 
@@ -544,7 +529,7 @@ Purchase on the [Mac App Store](https://apps.apple.com/app/peek-quick-look-exten
 
 *   `BSD-4-Clause` - [BSD 4-clause "Original"](https://spdx.org/licenses/BSD-4-Clause.html)
 
-## [36. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [35. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
@@ -556,7 +541,6 @@ Purchase on the [Mac App Store](https://apps.apple.com/app/peek-quick-look-exten
 
 ### Monitoring
 
-*   [meercode.io](https://meercode.io/) — Meercode is the ultimate monitoring dashboard for your CI/CD builds. Free for open-source and one private repository.
 *   [instatus.com](https://instatus.com) - Get a beautiful status page in 10 seconds. Free forever with unlimited subs and unlimited teams.
 
 ### Other Free Resources

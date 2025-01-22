@@ -1,12 +1,18 @@
 # Awesome List Updates on Jan 28, 2022
 
-13 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Public Apis](/content/public-apis/public-apis/README.md)
+## [1. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+
+### APIs, Data, and ML
+
+*   [Coupler](https://www.coupler.io/) - Data integration tool that syncs between apps. It can create live dashboards and reports, transform and manipulate values, and collect and back up insights. The free plan has unlimited users, 100 runs with 1000 monthly rows, and unlimited integrations.
+
+## [2. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Programming
 
@@ -22,23 +28,7 @@
 
 
 
-## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
-
-### APIs, Data, and ML
-
-*   [Coupler](https://www.coupler.io/) - Data integration tool that syncs between apps. It can create live dashboards and reports, transform and manipulate values, and collect and back up insights. The free plan has unlimited users, 100 runs with 1000 monthly rows, and unlimited integrations.
-
-### Messaging and Streaming
-
-*   [Upstash Kafka](https://upstash.com/kafka) - Serverless Kafka Cloud offering with per-request-pricing. It has a free tier with a maximum of 10,000 messages per day.
-
-## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
-
-### Software / Media Streaming - Multimedia Streaming
-
-*   [Dim (⭐3.8k)](https://github.com/Dusk-Labs/dim) - Dim is a self-hosted media manager fueled by dark forces. With minimal setup, Dim will organize and beautify your media collections, letting you access and play them anytime from anywhere. `GPL-2.0` `Rust`
-
-## [4. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
+## [3. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
 
 ### Overview / YouTube
 
@@ -53,7 +43,7 @@
     *   SMPlayer repository: [https://github.com/smplayer-dev/smplayer (⭐422)](https://github.com/smplayer-dev/smplayer)
 *   [minitube (⭐331)](https://github.com/flaviotordini/minitube): Lightweight youtube client with a kid-friendly interface. Can make playlists from search keywords
 
-## [5. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/README.md)
+## [4. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/README.md)
 
 ### Projects
 
@@ -77,7 +67,7 @@
 *   [Open Collective](https://opencollective.com/) - Enables groups to quickly set up a collective, raise funds and manage them transparently.
 *   [OSHWA Certification](https://certification.oshwa.org/) -  Provides an easy and straightforward way for producers to indicate that their products meet a uniform and well-defined standard for open-source compliance.
 
-## [6. Awesome D](/content/dlang-community/awesome-d/README.md)
+## [5. Awesome D](/content/dlang-community/awesome-d/README.md)
 
 ### Command Line / XML
 
@@ -87,43 +77,43 @@
 
 *   [gfm (⭐3)](https://github.com/drug007/gfm7) - D gamedev toolkit.
 
-## [7. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
+## [6. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
 ### Social networks / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
 *   [LibRedirect](https://libredirect.github.io) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/libredirect/libredirect) - A simple extension that redirects to alternative privacy-friendly frontends.
 
-## [8. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
+## [7. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
 ### IDEs / VSCode
 
 *   [optio-labs/teal-debugger-extension (⭐14)](https://github.com/optio-labs/teal-debugger-extension) - Debug teal with minimal AVM configuration inside VSCode.
 
-## [9. Papers We Love](/content/papers-we-love/papers-we-love/README.md)
+## [8. Papers We Love](/content/papers-we-love/papers-we-love/README.md)
 
 ### Info / How To Read a Paper
 
 *   [Advice on reading academic papers](https://userpages.umbc.edu/~akmassey/posts/2012-02-15-advice-on-reading-academic-papers.html)
 
-## [10. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/README.md)
+## [9. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/README.md)
 
 ### LaTeX formulas on the web
 
 *   [xhub (⭐91)](https://github.com/nschloe/xhub) - Browser extension that lets you use LaTeX in GitHub pages. ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
 
-## [11. Awesome Golem](/content/golemfactory/awesome-golem/README.md)
+## [10. Awesome Golem](/content/golemfactory/awesome-golem/README.md)
 
 ### Provider Resources
 
 *   [Golem Price Updater (⭐4)](https://github.com/jedbrooke/golem-price-updater) - Automatically adjust the price for your Golem node based on the current price of GLM.
 
-## [12. Awesome Android](/content/JStumpp/awesome-android/README.md)
+## [11. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
 ### Resources / Custom Dialog
 
 *   [Android Stack Weekly](https://blog.canopas.com/tagged/canopas-android-weekly) - A weekly newsletter on new development and updates of Android universe.
 
-## [13. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [12. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Problem Solving / Human-Level Problem Solving
 

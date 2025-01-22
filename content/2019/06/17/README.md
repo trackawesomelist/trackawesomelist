@@ -29,7 +29,7 @@
 
 ### Charts / Image Picker
 
-*   [Bezier Chart (⭐446)](https://github.com/aeyrium/bezier-chart) <!--stargazers:aeyrium/bezier-chart--> - Beautiful bezier line chart widget for flutter that is highly interactive and configurable by [Diego Velasquez](https://twitter.com/diegoveloper)
+*   [Bezier Chart (⭐449)](https://github.com/aeyrium/bezier-chart) <!--stargazers:aeyrium/bezier-chart--> - Beautiful bezier line chart widget for flutter that is highly interactive and configurable by [Diego Velasquez](https://twitter.com/diegoveloper)
 
 ## [5. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
@@ -55,15 +55,15 @@ Webpage: <http://zeitgeistcoffee.com/>
 
 ### Applications / Blockchain
 
-*   [ChainX (⭐321)](https://github.com/chainx-org/ChainX) - Fully Decentralized Interchain Crypto Asset Management on Polkadot.
-*   [Grin (⭐5k)](https://github.com/mimblewimble/grin/) - Evolution of the MimbleWimble protocol
-*   [Nervos CKB (⭐1.1k)](https://github.com/nervosnetwork/ckb) - Nervos CKB is a public permissionless blockchain, the common knowledge layer of Nervos network.
+*   [ChainX (⭐327)](https://github.com/chainx-org/ChainX) - Fully Decentralized Interchain Crypto Asset Management on Polkadot.
+*   [Grin (⭐5.1k)](https://github.com/mimblewimble/grin/) - Evolution of the MimbleWimble protocol
+*   [Nervos CKB (⭐1.2k)](https://github.com/nervosnetwork/ckb) - Nervos CKB is a public permissionless blockchain, the common knowledge layer of Nervos network.
 
 ## [8. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Sliders / Runner
 
-*   [Embla Carousel (⭐5.4k)](https://github.com/davidcetinkaya/embla-carousel) - An extensible low level carousel for the web, written in TypeScript.
+*   [Embla Carousel (⭐5.8k)](https://github.com/davidcetinkaya/embla-carousel) - An extensible low level carousel for the web, written in TypeScript.
 
 ## [9. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 08, 2018
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -58,7 +58,7 @@ git log --graph --pretty=format:'%C(auto) %h | %s | %an | %ar%d'
 
 ### CLI
 
-*   [CLI11 (⭐3.3k)](https://github.com/CLIUtils/CLI11) - Header only single or multi-file C++11 library for simple and advanced CLI parsing. \[BSD]
+*   [CLI11 (⭐3.5k)](https://github.com/CLIUtils/CLI11) - Header only single or multi-file C++11 library for simple and advanced CLI parsing. \[BSD]
 
 ## [7. Awesome Composer](/content/jakoch/awesome-composer/README.md)
 
@@ -72,12 +72,13 @@ git log --graph --pretty=format:'%C(auto) %h | %s | %an | %ar%d'
 
 *   [GINO (⭐2.5k)](https://github.com/fantix/gino) - is a lightweight asynchronous Python ORM based on [SQLAlchemy](https://www.sqlalchemy.org/) core, with [asyncpg (⭐5.8k)](https://github.com/MagicStack/asyncpg) dialect.
 
-## [9. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [9. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
-### Frameworks, Libraries and Tools / Graphics
+### Image Processing
 
-*   [ImageSharp (⭐7.3k)](https://github.com/SixLabors/ImageSharp) - Cross-platform library for processing of image files written in C#.
-*   [Magick.NET (⭐3.4k)](https://github.com/dlemstra/Magick.NET) - The .NET library for ImageMagick.
+*   [ImageSharp (⭐7.6k)](https://github.com/SixLabors/ImageSharp) - Fully managed cross-platform library for processing of image files.
+
+## [10. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Blockchain
 
@@ -90,6 +91,10 @@ git log --graph --pretty=format:'%C(auto) %h | %s | %an | %ar%d'
     *   [neo4j-dotnet-driver (⭐223)](https://github.com/neo4j/neo4j-dotnet-driver) - Neo4j Bolt driver for .NET.
     *   [Neo4jClient (⭐429)](https://github.com/Readify/Neo4jClient) - .NET client binding for Neo4j.
 
+### Frameworks, Libraries and Tools / Graphics
+
+*   [Magick.NET (⭐3.4k)](https://github.com/dlemstra/Magick.NET) - The .NET library for ImageMagick.
+
 ### Frameworks, Libraries and Tools / Queue and Messaging
 
 *   [EventStore (⭐5.2k)](https://github.com/EventStore/EventStore) - The open-source, functional database with Complex Event Processing in JavaScript.
@@ -98,17 +103,17 @@ git log --graph --pretty=format:'%C(auto) %h | %s | %an | %ar%d'
 
 *   [Channel9](https://channel9.msdn.com)
 
-## [10. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [11. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Command-line
 
 *   Progress
-    *   [a8m/pb (⭐581)](https://github.com/a8m/pb) \[[pbr](https://crates.io/crates/pbr)] - console progress bar
-    *   [console-rs/indicatif (⭐4.3k)](https://github.com/console-rs/indicatif) \[[indicatif](https://crates.io/crates/indicatif)] - indicate progress to users
-    *   [etienne-napoleone/spinach (⭐92)](https://github.com/etienne-napoleone/spinach) \[[spinach](https://crates.io/crates/spinach)] - Practical spinner. [![CI](https://github.com/etienne-napoleone/spinach/actions/workflows/ci.yml/badge.svg)](https://github.com/etienne-napoleone/spinach/actions/workflows/ci.yml)
-    *   [FGRibreau/spinners (⭐533)](https://github.com/FGRibreau/spinners) \[[spinners](https://crates.io/crates/spinners)] - 60+ elegant terminal spinners
+    *   [a8m/pb (⭐586)](https://github.com/a8m/pb) \[[pbr](https://crates.io/crates/pbr)] - console progress bar
+    *   [console-rs/indicatif (⭐4.6k)](https://github.com/console-rs/indicatif) \[[indicatif](https://crates.io/crates/indicatif)] - indicate progress to users
+    *   [etienne-napoleone/spinach (⭐104)](https://github.com/etienne-napoleone/spinach) \[[spinach](https://crates.io/crates/spinach)] - Practical spinner. [![CI](https://github.com/etienne-napoleone/spinach/actions/workflows/ci.yml/badge.svg)](https://github.com/etienne-napoleone/spinach/actions/workflows/ci.yml)
+    *   [FGRibreau/spinners (⭐548)](https://github.com/FGRibreau/spinners) \[[spinners](https://crates.io/crates/spinners)] - 60+ elegant terminal spinners
 
-## [11. Awesome PICO 8](/content/pico-8/awesome-PICO-8/README.md)
+## [12. Awesome PICO 8](/content/pico-8/awesome-PICO-8/README.md)
 
 ### Contents / Tools
 

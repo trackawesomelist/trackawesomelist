@@ -16,7 +16,7 @@
 
 ### Video
 
-*   [VideoInfo (⭐427)](https://github.com/thibaudgg/video_info) - Get video info from Dailymotion, Vimeo, Wistia, and YouTube URLs.
+*   [VideoInfo (⭐430)](https://github.com/thibaudgg/video_info) - Get video info from Dailymotion, Vimeo, Wistia, and YouTube URLs.
 
 ## [3. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
@@ -39,7 +39,7 @@
 
 ### Integration / Community
 
-*   [cool-stack (⭐24)](https://github.com/tdsoftpl/cool-stack) - Template repository integrating Directus & Remix into a full-stack monorepo.
+*   [cool-stack (⭐33)](https://github.com/tdsoftpl/cool-stack) - Template repository integrating Directus & Remix into a full-stack monorepo.
 
 ## [6. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/README.md)
 
@@ -69,31 +69,31 @@
 
 ### Audio
 
-*   [Aubio (⭐3.3k)](https://github.com/aubio/aubio) - A library for audio and music analysis.\[GPL-3.0] [website](https://aubio.org/)
+*   [Aubio (⭐3.4k)](https://github.com/aubio/aubio) - A library for audio and music analysis.\[GPL-3.0] [website](https://aubio.org/)
 
 ## [9. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Crates / Component Libraries
 
-*   [yew-bootstrap (⭐34)](https://github.com/isosphere/yew-bootstrap) - A Yew wrapper for the Bootstrap 5 component library.
+*   [yew-bootstrap (⭐38)](https://github.com/isosphere/yew-bootstrap) - A Yew wrapper for the Bootstrap 5 component library.
 
 ## [10. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [Neuledge (⭐236)](https://github.com/neuledge/engine-js) - Neuledge is a universal language for databases that provides state-of-the-art tools for data modeling, business logic representation, and schema validation.
+*   :octocat: [Neuledge (⭐238)](https://github.com/neuledge/engine-js) - Neuledge is a universal language for databases that provides state-of-the-art tools for data modeling, business logic representation, and schema validation.
 
 ## [11. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [kali-like (⭐13)](https://github.com/clamy54/kali-like-zsh-theme) - Inspired by the Kali Linux default ZSH theme. Includes decorators for user\@host, current directory and `git` information.
+*   [kali-like (⭐28)](https://github.com/clamy54/kali-like-zsh-theme) - Inspired by the Kali Linux default ZSH theme. Includes decorators for user\@host, current directory and `git` information.
 
 ## [12. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
 ### Languages / Go
 
-*   [conduit (⭐37)](https://github.com/algorand/conduit) - Algorand's data pipeline framework.
+*   [conduit (⭐38)](https://github.com/algorand/conduit) - Algorand's data pipeline framework.
 
 ---
 

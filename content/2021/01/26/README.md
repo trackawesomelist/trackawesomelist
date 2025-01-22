@@ -16,9 +16,9 @@
 
 ### Performance Testing / RPC Frameworks
 
-*   [JMeter gRPC Plugin (⭐43)](https://github.com/zalopay-oss/jmeter-grpc-plugin) - JMeter plugin supports load test gRPC.
-*   [JMeter gRPC Request (⭐168)](https://github.com/zalopay-oss/jmeter-grpc-request) - JMeter gRPC Request load test plugin.
-*   [JMeter Dubbo Plugin (⭐557)](https://github.com/thubbo/jmeter-plugins-for-apache-dubbo) - JMeter plugin for Apache Dubbo.
+*   [JMeter gRPC Plugin (⭐42)](https://github.com/zalopay-oss/jmeter-grpc-plugin) - JMeter plugin supports load test gRPC.
+*   [JMeter gRPC Request (⭐184)](https://github.com/zalopay-oss/jmeter-grpc-request) - JMeter gRPC Request load test plugin.
+*   [JMeter Dubbo Plugin (⭐569)](https://github.com/thubbo/jmeter-plugins-for-apache-dubbo) - JMeter plugin for Apache Dubbo.
 
 ### Tools / Plugins
 
@@ -64,16 +64,16 @@
 
 ## [6. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
 
-### Courses
+### Courses / Commerical Tools
 
 *   (Stanford Deep Learning Series]\[<https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb>]
 *   [Machine Learning for Humans](https://medium.com/machine-learning-for-humans/why-machine-learning-matters-6164faf1df12) - A series of simple, plain-English explanations accompanied by math, code, and real-world examples.
 
-### Books
+### Books / Commerical Tools
 
 *   [The Hundred-Page Machine Learning Book](http://themlbook.com/) - all you need to know about Machine Learning in a hundred pages, supervised and unsupervised learning, SVM, neural networks, ensemble methods, gradient descent, cluster analysis and dimensionality reduction, autoencoders and transfer learning, feature engineering and hyperparameter tuning.
 
-### Organizations
+### Organizations / Commerical Tools
 
 *   [IBM Research](https://www.research.ibm.com/artificial-intelligence)
 *   [Microsoft Research](https://www.microsoft.com/en-us/research/research-area/artificial-intelligence/)

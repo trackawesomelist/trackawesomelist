@@ -10,7 +10,7 @@
 
 ### Mobile
 
-*   [scriptable\_premiumsim (⭐16)](https://github.com/BergenSoft/scriptable_premiumsim) - Data consumption based on tariff for Drillisch providers (e.g. WinSIM, PremiumSIM).
+*   [scriptable\_premiumsim (⭐18)](https://github.com/BergenSoft/scriptable_premiumsim) - Data consumption based on tariff for Drillisch providers (e.g. WinSIM, PremiumSIM).
 
     <img src="https://raw.githubusercontent.com/BergenSoft/scriptable_premiumsim/main/Preview.jpg" width="200"/>
 
@@ -18,13 +18,13 @@
 
 ### Scripts / GitHub
 
-*   [GitHub Star History (⭐7)](https://github.com/adamlui/github-star-history) - Adds star history chart to every repo's sidebar.
+*   [GitHub Star History (⭐9)](https://github.com/adamlui/github-star-history) - Adds star history chart to every repo's sidebar.
 
 ## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Bookmarks and Link Sharing
 
-*   [LinkWarden](https://linkwarden.app/) - A self-hosted bookmark + archive manager to store your useful links. ([Source Code (⭐7.5k)](https://github.com/linkwarden/linkwarden)) `MIT` `Docker/Nodejs`
+*   [LinkWarden](https://linkwarden.app/) - A self-hosted bookmark + archive manager to store your useful links. ([Source Code (⭐10k)](https://github.com/linkwarden/linkwarden)) `MIT` `Docker/Nodejs`
 
 ## [4. Awesome Minecraft](/content/bs-community/awesome-minecraft/README.md)
 
@@ -36,15 +36,15 @@
 
 ### Media / Diagnostics
 
-*   [niuiic/code-shot.nvim (⭐60)](https://github.com/niuiic/code-shot.nvim) - Take a picture of the code.
+*   [niuiic/code-shot.nvim (⭐64)](https://github.com/niuiic/code-shot.nvim) - Take a picture of the code.
 
 ### Git / Diagnostics
 
-*   [9seconds/repolink.nvim (⭐20)](https://github.com/9seconds/repolink.nvim) - Generate shareable HTTP permalinks for various Git web frontends.
+*   [9seconds/repolink.nvim (⭐23)](https://github.com/9seconds/repolink.nvim) - Generate shareable HTTP permalinks for various Git web frontends.
 
 ### Comment / Diagnostics
 
-*   [Zeioth/dooku.nvim (⭐36)](https://github.com/Zeioth/dooku.nvim) - Generate and open your HTML code documentation.
+*   [Zeioth/dooku.nvim (⭐42)](https://github.com/Zeioth/dooku.nvim) - Generate and open your HTML code documentation.
 
 ---
 

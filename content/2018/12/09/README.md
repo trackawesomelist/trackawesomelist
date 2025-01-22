@@ -46,8 +46,7 @@
 
 ### JVM and JDK / Text-Based User Interfaces
 
-*   [Avian (⭐1.2k)](https://github.com/ReadyTalk/avian) - JVM with JIT, AOT modes and iOS port.
-*   [OpenJ9 (⭐3.2k)](https://github.com/eclipse/openj9) - High performance, enterprise-calibre, flexibly licensed, openly-governed cross-platform JVM extending and augmenting the runtime technology components from the Eclipse OMR and OpenJDK project.
+*   [OpenJ9 (⭐3.3k)](https://github.com/eclipse/openj9) - High performance, enterprise-calibre, flexibly licensed, openly-governed cross-platform JVM extending and augmenting the runtime technology components from the Eclipse OMR and OpenJDK project.
 
 ## [6. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
@@ -82,7 +81,7 @@
 
 ### Apps / Content Management
 
-*   [Wagtail Tag Manager (⭐74)](https://github.com/jberghoef/wagtail-tag-manager) - A Wagtail addon that allows for easier and GDPR compliant administration of scripts and tags.
+*   [Wagtail Tag Manager (⭐75)](https://github.com/jberghoef/wagtail-tag-manager) - A Wagtail addon that allows for easier and GDPR compliant administration of scripts and tags.
 
 ### Open-source sites / Lists
 

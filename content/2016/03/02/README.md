@@ -84,7 +84,7 @@ git status --ignored
 
 ### Domain-specific language
 
-*   [Absinthe Graphql (⭐4.2k)](https://github.com/absinthe-graphql/absinthe) - Fully featured GraphQL library.
+*   [Absinthe Graphql (⭐4.3k)](https://github.com/absinthe-graphql/absinthe) - Fully featured GraphQL library.
 
 ## [11. Awesome Charting](/content/zingchart/awesome-charting/README.md)
 

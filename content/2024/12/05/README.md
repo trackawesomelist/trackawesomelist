@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 05, 2024
 
-7 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -18,33 +18,23 @@
 
 *   [friTap (⭐292)](https://github.com/fkie-cad/friTap) - Intercept SSL/TLS connections with frida; Allows TLS key extraction and decryption of TLS payload as PCAP in real time.
 
-## [3. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
-
-### Projects / API Documentation
-
-*   [Zudoku (⭐106) (⭐106)](https://github.com/zuplo/zudoku) - An open-source, OpenAPI powered, highly customizable API documentation framework for building quality developer experiences.
-
-### Resources / Data Formats
-
-*   [NDJSON (⭐687) (⭐686)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
-
-## [4. Awesome Nix](/content/nix-community/awesome-nix/README.md)
+## [3. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
 ### Programming Languages / Lean
 
-*   [lean4-nix (⭐16)](https://github.com/lenianiva/lean4-nix) -  Nix flake build for Lean 4, and `lake2nix`.
+*   [lean4-nix (⭐22)](https://github.com/lenianiva/lean4-nix) -  Nix flake build for Lean 4, and `lake2nix`.
 
 ### NixOS Modules / Zig
 
-*   [NixOS-WSL (⭐1.9k)](https://github.com/nix-community/NixOS-WSL) - Modules for running NixOS on the Windows Subsystem for Linux.
+*   [NixOS-WSL (⭐2k)](https://github.com/nix-community/NixOS-WSL) - Modules for running NixOS on the Windows Subsystem for Linux.
 
-## [5. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
+## [4. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
 
 ### Marketing
 
 *   [Place Card Maker](https://placecard.us) - A fast, easy and free printable place card maker,Design beautiful place cards in minutes with our free, user-friendly maker. Choose from 100+ customizable place cards templates, including options for meal choices. Perfect for weddings, holidays, and special events. Compatible with Microsoft Word for easy editing and printing.  No coding required
 
-## [6. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [5. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### Autonomous LLM Agents / Multi-agents
 
@@ -57,13 +47,14 @@
 *   [v0 by Vercel](https://v0.dev/chat): assistant to build NextJS frontend
 *   [Cursor](https://www.cursor.com/): The AI Code Editor
 
-## [7. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [6. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [baddcafe (⭐1)](https://github.com/dimgatz98/Baddcafe_zsh_theme) - Provides dynamic system information. Includes decorators for `git` status, cpu usage, memory usage, battery level, local and global IP addresses, current time, current directory and the exit status of the last command run.
-*   [moonbloom (⭐0)](https://github.com/moonbloom-theme/zsh) - Adapts to the color scheme of your terminal emulator. Includes decorators for current directory and `git` status.
+*   [baddcafe (⭐2)](https://github.com/dimgatz98/Baddcafe_zsh_theme) - Provides dynamic system information. Includes decorators for `git` status, cpu usage, memory usage, battery level, local and global IP addresses, current time, current directory and the exit status of the last command run.
+*   [moonbloom (⭐1)](https://github.com/moonbloom-theme/zsh) - Adapts to the color scheme of your terminal emulator. Includes decorators for current directory and `git` status.
 
 ---
 
+- Prev: [Dec 06, 2024](/content/2024/12/06/README.md)
 - Next: [Dec 04, 2024](/content/2024/12/04/README.md)

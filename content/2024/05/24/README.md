@@ -10,17 +10,17 @@
 
 ### Resources / Blog posts
 
-*   [Spark vs Polars. Real-life Test Case](https://dataengineeringcentral.substack.com/p/spark-vs-polars-real-life-test-case) - A blog post in which the author tests whether Polars is able to handle "real amounts of data" and "really replace some production Spark workloads." by [@danielbeach](https://github.com/danielbeach). Code used is available on Github [here (⭐7)](https://github.com/danielbeach/PolarsVsPySpark/tree/main).
+*   [Spark vs Polars. Real-life Test Case](https://dataengineeringcentral.substack.com/p/spark-vs-polars-real-life-test-case) - A blog post in which the author tests whether Polars is able to handle "real amounts of data" and "really replace some production Spark workloads." by [@danielbeach](https://github.com/danielbeach). Code used is available on Github [here (⭐10)](https://github.com/danielbeach/PolarsVsPySpark/tree/main).
 *   [Age of DataFrames II: Polars Edition](https://medium.com/datamindedbe/age-of-dataframes-2-polars-edition-83442a06bced) - A blog post that illustrates the features of Polars through the analysis of a tournament from the video game Age of Empires II by \[@woutergins]. Source code available [here (⭐0)](https://github.com/woutergins/age-of-dataframes)
 
 ## [2. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Gem Servers
 
-*   [Gemfast (⭐65)](https://github.com/gemfast/server) - A drop in replacement for geminabox written in Go.
+*   [Gemfast (⭐68)](https://github.com/gemfast/server) - A drop in replacement for geminabox written in Go.
 *   [Gem in a box (⭐1.5k)](https://github.com/geminabox/geminabox) - Really simple rubygem hosting.
-*   [Gemirro (⭐137)](https://github.com/PierreRambaud/gemirro) - Gem to automatically make a rubygems mirror.
-*   [Gemstash (⭐752)](https://github.com/rubygems/gemstash) - A RubyGems.org cache and private gem server.
+*   [Gemirro (⭐138)](https://github.com/PierreRambaud/gemirro) - Gem to automatically make a rubygems mirror.
+*   [Gemstash (⭐755)](https://github.com/rubygems/gemstash) - A RubyGems.org cache and private gem server.
 
 ## [3. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
@@ -33,7 +33,7 @@
 
 ### Android / Tests
 
-*   [KakaoCup/Kakao (⭐322)](https://github.com/KakaoCup/Kakao) - Nice and simple DSL for Espresso in Kotlin
+*   [KakaoCup/Kakao (⭐333)](https://github.com/KakaoCup/Kakao) - Nice and simple DSL for Espresso in Kotlin
 
 ## [5. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
@@ -56,7 +56,7 @@
 ### Authentication / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [angular-oauth2-oidc (⭐1.9k)](https://github.com/manfredsteyer/angular-oauth2-oidc) - Support for OAuth 2 and OpenId Connect (OIDC) in Angular.
-*   [keycloak-angular (⭐718)](https://github.com/mauriciovigolo/keycloak-angular) - Easy Keycloak setup for Angular applications.
+*   [keycloak-angular (⭐751)](https://github.com/mauriciovigolo/keycloak-angular) - Easy Keycloak setup for Angular applications.
 
 ### CLI / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 

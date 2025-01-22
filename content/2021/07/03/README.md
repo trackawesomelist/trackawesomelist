@@ -16,7 +16,7 @@
 
 ### Network Protocols
 
-*   [simple\_rpc (⭐65)](https://github.com/kostya/simple_rpc) - RPC Server and Client for Crystal. Implements msgpack-rpc protocol
+*   [simple\_rpc (⭐68)](https://github.com/kostya/simple_rpc) - RPC Server and Client for Crystal. Implements msgpack-rpc protocol
 
 ## [3. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -128,24 +128,24 @@
 
 ## [9. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
-### Third-Party Packages / Admin
+### Third-Party Packages / Admin Themes
 
-*   [django-jet-reboot (⭐391)](https://github.com/b1go/django-jet-reboot) - Django Jet is modern template for Django admin interface with improved functionality.
+*   [django-jet-reboot (⭐433)](https://github.com/b1go/django-jet-reboot) - Django Jet is modern template for Django admin interface with improved functionality.
 
 ## [10. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Patterns
 
-*   [The Composable Architecture (⭐12k)](https://github.com/pointfreeco/swift-composable-architecture) - A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
+*   [The Composable Architecture (⭐13k)](https://github.com/pointfreeco/swift-composable-architecture) - A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
 
 ### Images / Barcode
 
-*   [FaceCrop (⭐47)](https://github.com/Ancestry/FaceCrop) - Detect and center faces in your images using Apple’s Vision Framework.
-*   [SwiftDraw (⭐329)](https://github.com/swhitty/SwiftDraw) - Library that converts SVG images to UIImage, NSImage and generates CoreGraphics source code.
+*   [FaceCrop (⭐50)](https://github.com/Ancestry/FaceCrop) - Detect and center faces in your images using Apple’s Vision Framework.
+*   [SwiftDraw (⭐421)](https://github.com/swhitty/SwiftDraw) - Library that converts SVG images to UIImage, NSImage and generates CoreGraphics source code.
 
 ### SOAP / Barcode
 
-*   [SOAPEngine (⭐481)](https://github.com/priore/SOAPEngine) - Generic SOAP client to access SOAP Web Services using iOS, Mac OS X, and Apple TV.
+*   [SOAPEngine (⭐482)](https://github.com/priore/SOAPEngine) - Generic SOAP client to access SOAP Web Services using iOS, Mac OS X, and Apple TV.
 
 ---
 

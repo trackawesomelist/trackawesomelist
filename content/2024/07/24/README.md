@@ -10,7 +10,7 @@
 
 ### Applications / System tools
 
-*   [ChurchTao/clipboard-rs (⭐37)](https://github.com/ChurchTao/clipboard-rs) \[[clipboard-rs](https://crates.io/crates/clipboard-rs)] - Cross-platform library written in Rust for getting and setting and monitoring changes the system-level clipboard content.
+*   [ChurchTao/clipboard-rs (⭐75)](https://github.com/ChurchTao/clipboard-rs) \[[clipboard-rs](https://crates.io/crates/clipboard-rs)] - Cross-platform library written in Rust for getting and setting and monitoring changes the system-level clipboard content.
 
 ## [2. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
 
@@ -22,14 +22,9 @@
 
 ### Table of Contents / Streaming Library
 
-*   [SwimOS (⭐275)](https://github.com/swimos/swim-rust) \[Rust] - A framework for building real-time streaming data processing applications written in Rust.
+*   [SwimOS (⭐323)](https://github.com/swimos/swim-rust) \[Rust] - A framework for building real-time streaming data processing applications written in Rust.
 
 ## [4. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
-
-### Projects / Messaging
-
-*   [Apache Kafka (⭐28k) (⭐28k)](https://github.com/apache/kafka) - A distributed messaging system designed for high-throughput and fault-tolerance. Enables real-time data processing and stream processing applications with its distributed architecture and efficient data storage.
-*   [BlazingMQ (⭐2.5k) (⭐2.5k)](https://github.com/bloomberg/blazingmq) - A distributed message queueing platform with a focus on efficiency, reliability, and a rich feature set for modern-day workflows.
 
 ### Projects / Workflow engine
 
@@ -45,7 +40,7 @@
 
 ### CLI / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-stylesweep (⭐6)](https://github.com/BernardoGiordano/ngx-stylesweep) - A CLI tool that removes empty style files from your Angular components.
+*   [ngx-stylesweep (⭐7)](https://github.com/BernardoGiordano/ngx-stylesweep) - A CLI tool that removes empty style files from your Angular components.
 
 ### Integrations / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -53,11 +48,11 @@
 
 ### Maps / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [cesium-angular-example (⭐48)](https://github.com/Developer-Plexscape/cesium-angular-example) - A simple web application that demonstrates integration of [Cesium](https://cesium.com) with the LATEST version of Angular.
+*   [cesium-angular-example (⭐49)](https://github.com/Developer-Plexscape/cesium-angular-example) - A simple web application that demonstrates integration of [Cesium](https://cesium.com) with the LATEST version of Angular.
 
 ### Misc Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ng2-idle (⭐322)](https://github.com/moribvndvs/ng2-idle) - A module for responding to idle users in Angular applications.
+*   [ng2-idle (⭐326)](https://github.com/moribvndvs/ng2-idle) - A module for responding to idle users in Angular applications.
 
 ---
 

@@ -44,7 +44,7 @@
 *   [Stable Animation SDK](https://stability.ai/blog/stable-animation-sdk): a text-to-animation tool for developers by Stability AI [\[dev platform\]](https://platform.stability.ai/docs/features/animation)
 *   [Twelve Labs](https://twelvelabs.io/): multimodal, contextual understanding for video search
 
-### Inbox: Speech-to-text (STT) and spoken content analysis / Deforum
+### Speech-to-text (STT) and spoken content analysis / Deforum
 
 *   [Metabob](https://metabob.com/): Generative AI to improve and automate code reviews
 
@@ -52,14 +52,14 @@
 
 ### Tools
 
-*   🎨🌍🔧 [Tints](https://www.tints.dev/) - Color palette penerator and API for Tailwind CSS.
+*   🎨🌍🔧 [Tints](https://www.tints.dev/) - Color palette generator and API for Tailwind CSS.
 
 ## [4. Awesome Directus](/content/directus-community/awesome-directus/README.md)
 
 ### Extensions / Community
 
-*   [Inline Form Interface (⭐32)](https://github.com/hanneskuettner/directus-extension-inline-form-interface) - Edit M2O relations in an inline form contained in the parent record.
-*   [Tab Group Interface (⭐58)](https://github.com/hanneskuettner/directus-extension-group-tabs-interface) - Display groups as tab panels, as a pretty, space saving alternative to the accordion group.
+*   [Inline Form Interface (⭐41)](https://github.com/hanneskuettner/directus-extension-inline-form-interface) - Edit M2O relations in an inline form contained in the parent record.
+*   [Tab Group Interface (⭐65)](https://github.com/hanneskuettner/directus-extension-group-tabs-interface) - Display groups as tab panels, as a pretty, space saving alternative to the accordion group.
 
 ## [5. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md)
 

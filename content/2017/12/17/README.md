@@ -11,7 +11,7 @@
 ### Storage / Runner
 
 *   [lawnchair.js (⭐2.1k)](https://github.com/brianleroux/lawnchair/) - Simple client-side JSON storage.
-*   [sql.js (⭐119)](https://github.com/kripken/sql.js) - SQLite compiled to JavaScript through Emscripten.
+*   [sql.js (⭐121)](https://github.com/kripken/sql.js) - SQLite compiled to JavaScript through Emscripten.
 
 ### Color / Runner
 
@@ -39,13 +39,13 @@
 
 ### Other / Third-party APIs
 
-*   [corona (⭐49)](https://github.com/eudoxia0/corona) -  Create and manage virtual machines from Common Lisp <http://eudoxia.me/corona> [MIT](https://opensource.org/licenses/MIT).
+*   [corona (⭐50)](https://github.com/eudoxia0/corona) -  Create and manage virtual machines from Common Lisp <http://eudoxia.me/corona> [MIT](https://opensource.org/licenses/MIT).
 
 ## [5. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
 ### Boilerplates
 
-*   [NextJS in Firebase with Bootstrap (⭐25)](https://github.com/ananddayalan/nextjs-in-firebase-with-bootstrap) - Hosting NextJS app with Bootstrap in Firebase with Cloud Functions.
+*   [NextJS in Firebase with Bootstrap (⭐24)](https://github.com/ananddayalan/nextjs-in-firebase-with-bootstrap) - Hosting NextJS app with Bootstrap in Firebase with Cloud Functions.
 
 ---
 

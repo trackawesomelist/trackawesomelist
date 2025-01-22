@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 31 - Aug 06, 2017
 
-40 awesome lists updated this week.
+39 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -88,9 +88,13 @@
 
 ## [7. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
+### GUI
+
+*   [WinApi (⭐829)](https://github.com/prasannavl/WinApi) - A simple, direct, ultra-thin CLR library for high-performance Win32 Native Interop with automation, windowing, DirectX, OpenGL and Skia helpers.
+
 ### State machines
 
-*   [LiquidState (⭐238)](https://github.com/prasannavl/LiquidState) - Efficient asynchronous and synchronous state machines for .NET
+*   [LiquidState (⭐241)](https://github.com/prasannavl/LiquidState) - Efficient asynchronous and synchronous state machines for .NET
 
 ## [8. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
@@ -181,7 +185,7 @@
 
 ### Command Line / XML
 
-*   [argsd (⭐15)](https://github.com/burner/argsd) - A command line and config file parser for DLang
+*   [argsd (⭐16)](https://github.com/burner/argsd) - A command line and config file parser for DLang
 
 ### Machine Learning / XML
 
@@ -252,17 +256,7 @@
 
 *   [Building a Blog With Next.js](https://timber.io/blog/building-a-blog-with-next-js)
 
-## [23. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
-
-### Projects Using Vue.js / Open Source
-
-*   [ChuckNorris (⭐20)](https://github.com/mazipan/chucknorris) - Chuck Norris Jokes Generator built with VueJS + api.chucknorris.io
-
-### Components & Libraries / UI Components
-
-*   [vue-pure-lightbox (⭐161)](https://github.com/DCzajkowski/vue-pure-lightbox) - Very simple lightbox plugin without any dependencies - only Vue! 🖼
-
-## [24. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [23. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Implementations/Compilers
 
@@ -270,15 +264,15 @@
 
 ### ORM/ODM Extensions
 
-*   [jennifer.cr (⭐415)](https://github.com/imdrasil/jennifer.cr) - Active Record pattern implementation with flexible query chainable builder and migration system
+*   [jennifer.cr (⭐421)](https://github.com/imdrasil/jennifer.cr) - Active Record pattern implementation with flexible query chainable builder and migration system
 
-## [25. Awesome Fuse](/content/fuse-compound/awesome-fuse/week/README.md)
+## [24. Awesome Fuse](/content/fuse-compound/awesome-fuse/week/README.md)
 
 ### Applications
 
 *   [Amphi Festival 2017](http://www.amphi-festival.de/) - Semi-official app for Amphi Festival 2017 [(​iOS)](https://itunes.apple.com/us/app/amphi-festival-2017/id1258744398) [(Android)](https://play.google.com/store/apps/details?id=org.knatten.AmphiFestival2017).
 
-## [26. Awesome Non Financial Blockchain](/content/machinomy/awesome-non-financial-blockchain/week/README.md)
+## [25. Awesome Non Financial Blockchain](/content/machinomy/awesome-non-financial-blockchain/week/README.md)
 
 ### Identity Applications / Guidance
 
@@ -289,7 +283,7 @@
 *   [How the blockchain is changing money and business](https://www.youtube.com/watch?v=Pl8OlkkwRpc) - TED Talk from the author of "Blockchain Revolution" book on what is blockchain and its applications.
 *   [Non Financial Uses of Blockchain Technology](https://www.youtube.com/watch?v=GGCHaphRjoM) - Presentation of non-financial uses of blockchain at Fintech Week 2016.
 
-## [27. Awesome Hbase](/content/rayokota/awesome-hbase/week/README.md)
+## [26. Awesome Hbase](/content/rayokota/awesome-hbase/week/README.md)
 
 ### Cloud
 
@@ -330,17 +324,13 @@
 
 *   [HubSpot HBase support (⭐16)](https://github.com/HubSpot/hbase-support) - Configs and tools for HBase at HubSpot, including Hystrix integration and coprocessors.
 
-## [28. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
-
-### Frameworks, Libraries and Tools / GUI
-
-*   [WinApi (⭐820)](https://github.com/prasannavl/WinApi) - A simple, direct, ultra-thin CLR library for high-performance Win32 Native Interop with automation, windowing, DirectX, OpenGL and Skia helpers.
+## [27. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / IOC
 
 *   [Stashbox (⭐138)](https://github.com/z4kn4fein/stashbox) - A lightweight, portable dependency injection framework for .NET based solutions.
 
-## [29. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [28. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Culture
 
@@ -350,13 +340,13 @@
 
 *   [CRE life lessons: What is a dark launch, and what does it do for me?](https://cloudplatform.googleblog.com/2017/08/CRE-life-lessons-what-is-a-dark-launch-and-what-does-it-do-for-me.html)
 
-## [30. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
+## [29. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
 
 ### System / Web
 
 *   [Vista Audio Control Functions (⭐15)](https://github.com/ahkscript/VistaAudio) - by Lexikos - Provides alternatives to some SoundSet/SoundGet subcommands, as well as some additional features that SoundSet/SoundGet do not support. Forum thread: [Link](https://autohotkey.com/board/topic/21984-vista-audio-control-functions/?p=143564)
 
-## [31. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
+## [30. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
 
 ### Libraries and Frameworks / Slides and Notes
 
@@ -366,11 +356,7 @@
 
 *   [Flexbox Zombies](http://flexboxzombies.com/p/flexbox-zombies) - A game for learning CSS flexbox.
 
-## [32. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
-
-### Augmented Reality
-
-*   [ARKit-CoreLocation (⭐5.4k)](https://github.com/ProjectDent/ARKit-CoreLocation) - Combines the high accuracy of AR with the scale of GPS data.
+## [31. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Concurrency
 
@@ -378,7 +364,7 @@
 
 ### UI / Barcode
 
-*   [ShadowView (⭐410)](https://github.com/PierrePerrin/ShadowView) - Make shadows management easy on UIView.
+*   [ShadowView (⭐412)](https://github.com/PierrePerrin/ShadowView) - Make shadows management easy on UIView.
 *   [UIPheonix (⭐29)](https://github.com/MKGitHub/UIPheonix) - Easy, flexible, dynamic and highly scalable UI framework + concept for reusable component/control-driven apps.
 
 ### Button / Barcode
@@ -387,9 +373,9 @@
 
 ### Walkthrough / Barcode
 
-*   [AwesomeSpotlightView (⭐319)](https://github.com/aleksandrshoshiashvili/AwesomeSpotlightView) - Create tutorial or coach tour.
+*   [AwesomeSpotlightView (⭐320)](https://github.com/aleksandrshoshiashvili/AwesomeSpotlightView) - Create tutorial or coach tour.
 
-## [33. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/week/README.md)
+## [32. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/week/README.md)
 
 ### Tools / Editors
 
@@ -397,27 +383,27 @@
 *   [Pro Motion](http://www.cosmigo.com/pixel_animation_software) - Paid with trial, works on Windows. Advanced features tailored to creating pixel art for games.
 *   [GIMP](https://www.gimp.org/) - Open source and free, works on Linux, macOS and Windows. Not specifically for creating pixel art but is more than capable to do so.
 
-## [34. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [33. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Shell Script Development / Directory Navigation
 
 *   [sh-semver (⭐30)](https://github.com/qzb/sh-semver) - Semver tool for bash - finds versions matching to specified rules
 *   [zunit (⭐196)](https://github.com/zunit-zsh/zunit) - A powerful unit testing framework for ZSH
 
-## [35. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
+## [34. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 
 ### Videos / IRC
 
 *   [Managing dependencies is more than running "composer update" -  Nils Adermann @ phpsrb17](https://www.youtube.com/watch?v=QL6w8H2eHQE)
 
-## [36. Awesome Economics](/content/antontarasenko/awesome-economics/week/README.md)
+## [35. Awesome Economics](/content/antontarasenko/awesome-economics/week/README.md)
 
 ### Links Sent by Readers / Projects
 
 *   [Deveconodata Blogspot](http://devecondata.blogspot.com/) - Development economics datasets. Updated regularly.
 *   [Quantitative Economics](https://lectures.quantecon.org/py/index.html) - Lecture series by Thomas J. Sargent and John Stachurski using Python computational tools.
 
-## [37. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
+## [36. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
 
 ### Utils / Third Party
 
@@ -425,7 +411,7 @@
 *   [d3-loom (⭐91)](https://github.com/nbremer/d3-loom) - Plugin to create a "loom" visualization
 *   [d3-sparql (⭐109)](https://github.com/zazuko/d3-sparql) - Utility for accessing data from SPARQL Endpoints
 
-## [38. Awesome Idris](/content/joaomilho/awesome-idris/week/README.md)
+## [37. Awesome Idris](/content/joaomilho/awesome-idris/week/README.md)
 
 ### Contents / Articles
 
@@ -437,13 +423,13 @@
 *   [Type Theory and Functional Programming](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/)
 *   [Programming in Martin-Löf's Type Theory](http://www.cse.chalmers.se/research/group/logic/book/book.pdf)
 
-## [39. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [38. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Integrations
 
 *   [HapiJS Keycloak Auth (⭐36)](https://github.com/felixheck/hapi-auth-keycloak)
 
-## [40. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [39. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Java / Data Analysis / Data Visualization
 

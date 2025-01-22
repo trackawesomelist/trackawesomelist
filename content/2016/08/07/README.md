@@ -10,7 +10,7 @@
 
 ### Development Projects / Miscellaneous
 
-*   [alfred-pokedex (⭐25)](https://github.com/vutran/alfred-pokedex) - Alfred 3 workflow to lookup information about Pokémon.
+*   [alfred-pokedex (⭐23)](https://github.com/vutran/alfred-pokedex) - Alfred 3 workflow to lookup information about Pokémon.
 
 ## [2. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/README.md)
 

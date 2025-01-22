@@ -22,7 +22,7 @@
 
 ### Logging
 
-*   [fmtlog (⭐764)](https://github.com/MengRao/fmtlog) - A performant fmtlib-style logging library with latency in nanoseconds. \[MIT]
+*   [fmtlog (⭐833)](https://github.com/MengRao/fmtlog) - A performant fmtlib-style logging library with latency in nanoseconds. \[MIT]
 
 ---
 

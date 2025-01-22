@@ -10,7 +10,7 @@
 
 ### Architecture
 
-*   🍰 [Burzum/CakeServiceLayer plugin (⭐67)](https://github.com/burzum/cakephp-service-layer) - Service layer and domain/business model implementation.
+*   [Burzum/CakeServiceLayer plugin (⭐67)](https://github.com/burzum/cakephp-service-layer) - Service layer and domain/business model implementation.
 
 ## [2. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
 
@@ -49,11 +49,11 @@
 
 ### Activity Indicator
 
-*   [ActivityIndicatorView (⭐1.4k)](https://github.com/exyte/ActivityIndicatorView) - A number of preset loading indicators created with SwiftUI.
+*   [ActivityIndicatorView (⭐1.5k)](https://github.com/exyte/ActivityIndicatorView) - A number of preset loading indicators created with SwiftUI.
 
 ### User Consent / Collection View Layout
 
-*   [PrivacyFlash Pro (⭐151)](https://github.com/privacy-tech-lab/privacyflash-pro) - Generate a privacy policy for your iOS app from its code
+*   [PrivacyFlash Pro (⭐154)](https://github.com/privacy-tech-lab/privacyflash-pro) - Generate a privacy policy for your iOS app from its code
 
 ---
 

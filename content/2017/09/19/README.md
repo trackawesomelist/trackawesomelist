@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 19, 2017
 
-5 awesome lists updated today.
+4 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Python / Git
 
-*   [Privy (⭐250)](https://github.com/ofek/privy) - An easy, fast lib to correctly password-protect your data.
+*   [Privy (⭐253)](https://github.com/ofek/privy) - An easy, fast lib to correctly password-protect your data.
 
 ## [2. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
@@ -47,25 +47,19 @@
 
 ### Application Libraries
 
-*   [Core (⭐1.1k)](https://github.com/janestreet/core) – Jane Street Capital's full-fledged standard library overlay. A portable subset of Core is also available: [Core\_kernel (⭐218)](https://github.com/janestreet/core_kernel).
-*   [Minicli (⭐31)](https://github.com/UnixJunkie/minicli) – Minimalist library for command-line parsing.
+*   [Core (⭐1.1k)](https://github.com/janestreet/core) – Jane Street Capital's full-fledged standard library overlay. A portable subset of Core is also available: [Core\_kernel (⭐217)](https://github.com/janestreet/core_kernel).
+*   [Minicli (⭐30)](https://github.com/UnixJunkie/minicli) – Minimalist library for command-line parsing.
 
 ### User Interface
 
-*   [lablqml (⭐157)](https://github.com/Kakadu/lablqml) – QML Qt5 bindings for OCaml.
+*   [lablqml (⭐159)](https://github.com/Kakadu/lablqml) – QML Qt5 bindings for OCaml.
 *   [labltk](https://forge.ocamlcore.org/projects/labltk/) — Interface to the Tcl/Tk GUI framework. In the standard distribution for ocaml <= 4.01.
 *   [TSDL](http://erratique.ch/software/tsdl) – Tsdl is an OCaml module providing thin bindings to the cross-platform SDL library.
-*   [Notty (⭐349)](https://github.com/pqwy/notty) - Notty is a declarative terminal library for OCaml, structured around the notion of composable images.
+*   [Notty (⭐351)](https://github.com/pqwy/notty) - Notty is a declarative terminal library for OCaml, structured around the notion of composable images.
 
 ### Security and Cryptography
 
-*   [cryptokit (⭐95)](https://github.com/xavierleroy/cryptokit) – The Cryptokit library for OCaml provides a variety of cryptographic primitives that can be used to implement cryptographic protocols in security-sensitive applications.
-
-## [5. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
-
-### Job boards
-
-*   [remote-jobs (⭐28k)](https://github.com/jessicard/remote-jobs) - A list of semi to fully remote-friendly companies in tech
+*   [cryptokit (⭐96)](https://github.com/xavierleroy/cryptokit) – The Cryptokit library for OCaml provides a variety of cryptographic primitives that can be used to implement cryptographic protocols in security-sensitive applications.
 
 ---
 

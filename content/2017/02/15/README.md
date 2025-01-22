@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 15, 2017
 
-17 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -40,7 +40,7 @@
 
 ### Presentation Programs
 
-*   [Slide Show (S9) (⭐186)](https://github.com/slideshow-s9/slideshow) - Write your slides / talks / presentations in plain text with markdown formatting conventions and generate (static) web pages; template packs incl. deck.js, impress.js, reveal.js, shower, s6, s5 and more.
+*   [Slide Show (S9) (⭐187)](https://github.com/slideshow-s9/slideshow) - Write your slides / talks / presentations in plain text with markdown formatting conventions and generate (static) web pages; template packs incl. deck.js, impress.js, reveal.js, shower, s6, s5 and more.
 
 ## [7. Nlp with Ruby](/content/arbox/nlp-with-ruby/README.md)
 
@@ -73,20 +73,14 @@
 
 *   [Laravel Slovenia](https://www.facebook.com/groups/laravelslovenija/)
 
-## [12. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
-
-### Applications
-
-*   [notty (⭐2.3k)](https://github.com/withoutboats/notty) - A new kind of terminal
-
-## [13. Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md)
+## [12. Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md)
 
 ### Articles
 
 *   [Styling React Applications with Ant.Design](https://medium.com/@yoniweisbrod/styling-react-applications-with-ant-design-92b742aab0b0)
 *   [Finding a User Interface library](http://waywardmonkeys.org/2016/03/14/finding-a-user-interface-library/)
 
-## [14. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [13. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Reading and Writing Tools / Text Editors
 
@@ -94,7 +88,7 @@
 
 ### Developer Tools / Developer Utilities
 
-*   [Beyond Compare](http://www.scootersoftware.com/) - Compare files and folders using simple, powerful commands that focus on the differences you are interested in and ignore those you are not. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Beyond Compare](http://www.scootersoftware.com/) - Compare files and folders with powerful commands. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Developer Tools / Version Control
 
@@ -137,7 +131,7 @@
 
 *   Also, [Quora](https://www.quora.com/), [Reddit](https://www.reddit.com), you know the drill.
 
-## [15. Awesome Ctf](/content/apsdehal/awesome-ctf/README.md)
+## [14. Awesome Ctf](/content/apsdehal/awesome-ctf/README.md)
 
 ### Bruteforcers
 
@@ -151,7 +145,7 @@
 
 *   [OWASP ZAP](https://www.owasp.org/index.php/Projects/OWASP_Zed_Attack_Proxy_Project) - Intercepting proxy to replay, debug, and fuzz HTTP requests and responses
 
-## [16. Awesome Deep Learning Papers](/content/terryum/awesome-deep-learning-papers/README.md)
+## [15. Awesome Deep Learning Papers](/content/terryum/awesome-deep-learning-papers/README.md)
 
 ### Contents / Reinforcement Learning / Robotics
 
@@ -164,7 +158,7 @@
 *   What makes for effective detection proposals? (2016), J. Hosang et al. [\[pdf\]](https://arxiv.org/pdf/1502.05082)
 *   Trust Region Policy Optimization (2015), J. Schulman et al. [\[pdf\]](http://www.jmlr.org/proceedings/papers/v37/schulman15.pdf)
 
-## [17. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+## [16. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
 ### Companies / C companies
 

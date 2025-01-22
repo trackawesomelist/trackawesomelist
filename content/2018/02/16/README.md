@@ -28,37 +28,32 @@
 
 *   [FakeNewsCorpus (⭐335)](https://github.com/several27/FakeNewsCorpus) - Contains about 10 million news articles classified using [opensources.co](http://opensources.co) types
 
-## [3. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/README.md)
-
-### CLI
-
-*   [sudont (⭐11)](https://github.com/cbondurant/sudont) - Grants superuser permission, then does nothing.
-
-## [4. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
-
-### Literature / Education
-
-*   [Event Gateway Workshop (⭐18)](https://github.com/serverless/event-gateway-workshop) - Learn what the Event Gateway is, how it works and build your first event-driven multi-cloud application.
-
-## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [3. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Tutorials
 
 *   [Getting Started with Vue JS 2 (Video)](https://www.packtpub.com/web-development/getting-started-vue-js-2-video) by Sachin Bhatnagar, Packt. (January 2018)
 
-### Projects Using Vue.js / Open Source
+## [4. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/README.md)
 
-*   [JoyProxy (⭐12)](https://github.com/sh0cked/joy-proxy) - Chrome extension for handling proxy settings
-*   [activity-automation (⭐4)](https://github.com/mubaidr/activity-automation) - Manage daily activities and get reports on timely basis.
+### CLI
+
+*   [sudont (⭐11)](https://github.com/cbondurant/sudont) - Grants superuser permission, then does nothing.
+
+## [5. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
+
+### Literature / Education
+
+*   [Event Gateway Workshop (⭐18)](https://github.com/serverless/event-gateway-workshop) - Learn what the Event Gateway is, how it works and build your first event-driven multi-cloud application.
 
 ## [6. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
 ### Plugins and scripts / Godot version unknown
 
-*   [Easing Script (⭐50)](https://github.com/impmja/godot-easing) - A port of the Robert Penner's equations for easing.
-*   [gdutils (⭐96)](https://github.com/GodotExplorer/gdutils) - Utilities for Godot written in GDScript.
+*   [Easing Script (⭐52)](https://github.com/impmja/godot-easing) - A port of the Robert Penner's equations for easing.
+*   [gdutils (⭐97)](https://github.com/GodotExplorer/gdutils) - Utilities for Godot written in GDScript.
 
-### Godot script editor syntax themes / Godot version unknown
+### Syntax themes / Godot version unknown
 
 *   [Syntax themes by Geequlim (⭐55)](https://github.com/Geequlim/godot-themes/tree/master/syntax) - Chester, Google Code Light and Monokai.
 

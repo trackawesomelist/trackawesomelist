@@ -8,39 +8,39 @@
 
 ## [1. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
-### Domain Specific Language / Design Practises
+### Domain Specific Language / Cognitive Foundations
 
-*   [Communicating Natural Programs to Humans and Machines](https://proceedings.neurips.cc/paper_files/paper/2022/hash/182aed0379591ebd1d655b2bdc152075-Abstract-Datasets_and_Benchmarks.html) - ***NeurIPS'22***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=13381039702346039142)]. While humans readily generate and interpret instructions in a general language, computer systems are shackled to a narrow domain-specific language that they can precisely execute. This makes building intelligent systems that can generalize to novel situations such as ARC difficult. Human-generated instructions are referred as \`natural programs'. While they resemble computer programs, they are distinct in two ways: First, they contain a wide range of primitives; Second, they frequently leverage communicative strategies beyond directly executable codes.
+*   [Communicating Natural Programs to Humans and Machines](https://proceedings.neurips.cc/paper_files/paper/2022/hash/182aed0379591ebd1d655b2bdc152075-Abstract-Datasets_and_Benchmarks.html) - ***NeurIPS'22***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=13381039702346039142)]. While humans readily generate and interpret instructions in a general language, computer systems are shackled to a narrow domain-specific language that they can precisely execute. This makes building intelligent systems that can generalize to novel situations such as ARC difficult. Human-generated instructions are referred as “natural programs”. While they resemble computer programs, they are distinct in two ways: First, they contain a wide range of primitives; Second, they frequently leverage communicative strategies beyond directly executable codes.
 
 ## [2. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Packages / Content management systems
 
-*   [Graphweaver (⭐466)](https://github.com/exogee-technology/graphweaver) - CMS and headless GraphQL API.
+*   [Graphweaver (⭐494)](https://github.com/exogee-technology/graphweaver) - CMS and headless GraphQL API.
 
 ## [3. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
 ### Boilerplates
 
-*   [Start UI \[web\] (⭐1.3k)](https://github.com/BearStudio/start-ui-web) - 🚀 opinionated UI starter with TypeScript, React, NextJS, Chakra UI, tRPC, Prisma, TanStack Query, Storybook, Playwright, Formiz
+*   [Start UI \[web\] (⭐1.4k)](https://github.com/BearStudio/start-ui-web) - 🚀 opinionated UI starter with TypeScript, React, NextJS, Chakra UI, tRPC, Prisma, TanStack Query, Storybook, Playwright, Formiz
 
 ## [4. Awesome Opentofu](/content/virtualroot/awesome-opentofu/README.md)
 
 ### Tools / Wrappers
 
-*   [Terragrunt (⭐7.9k)](https://github.com/gruntwork-io/terragrunt) - Keep your configurations DRY, work with multiple modules, and manage remote state.
+*   [Terragrunt (⭐8.3k)](https://github.com/gruntwork-io/terragrunt) - Keep your configurations DRY, work with multiple modules, and manage remote state.
 
 ### Tools / Tests
 
-*   [Terratest (⭐7.4k)](https://github.com/gruntwork-io/terratest) - Go library that makes writing automated tests for your infrastructure code easier.
+*   [Terratest (⭐7.6k)](https://github.com/gruntwork-io/terratest) - Go library that makes writing automated tests for your infrastructure code easier.
 
 ### Tools / Platforms
 
-*   [terrakube (⭐471)](https://github.com/AzBuilder/terrakube) - Open-source platform with a private registry, remote state, custom flows, scheduled workspaces, and visual states.
+*   [terrakube (⭐563)](https://github.com/AzBuilder/terrakube) - Open-source platform with a private registry, remote state, custom flows, scheduled workspaces, and visual states.
 
 ### Tools / Registry
 
-*   [hermitcrab (⭐23)](https://github.com/seal-io/hermitcrab) - Registry network mirroring service compatible with OpenTofu.
+*   [hermitcrab (⭐26)](https://github.com/seal-io/hermitcrab) - Registry network mirroring service compatible with OpenTofu.
 *   [terrac (⭐30)](https://github.com/haoliangyu/terrac) - Minimal private module registry compatible with OpenTofu.
 
 ## [5. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
@@ -59,7 +59,7 @@
 
 ### Image Processing
 
-*   [OpenJPEG (⭐962)](https://github.com/uclouvain/openjpeg) - an open-source JPEG 2000 codec written in C language.  \[BSD-2-Clause]
+*   [OpenJPEG (⭐994)](https://github.com/uclouvain/openjpeg) - an open-source JPEG 2000 codec written in C language.  \[BSD-2-Clause]
 
 ## [8. Awesome Go](/content/avelino/awesome-go/README.md)
 
@@ -103,7 +103,7 @@
 
 ### Apps / Asynchronous (tasks)
 
-*   [Wagtail Celery Beat (⭐3)](https://github.com/Nigel2392/wagtail_celery_beat) - A way to manage your Django Celery Beat tasks inside of the Wagtail admin.
+*   [Wagtail Celery Beat (⭐4)](https://github.com/Nigel2392/wagtail_celery_beat) - A way to manage your Django Celery Beat tasks inside of the Wagtail admin.
 
 ---
 

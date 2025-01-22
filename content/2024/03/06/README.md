@@ -17,19 +17,19 @@
 
 ### Modules / Social Platform APIs
 
-*   [MTKruto (⭐74)](https://github.com/MTKruto/MTKruto) - Deno-first, cross-runtime client library for Telegram's MTProto API.
+*   [MTKruto (⭐80)](https://github.com/MTKruto/MTKruto) - Deno-first, cross-runtime client library for Telegram's MTProto API.
 
 ## [3. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Golang / Diagnostics
 
-*   [yanskun/gotests.nvim (⭐21)](https://github.com/yanskun/gotests.nvim) - Make Go tests easy with [gotests (⭐4.9k)](https://github.com/cweill/gotests).
+*   [yanskun/gotests.nvim (⭐24)](https://github.com/yanskun/gotests.nvim) - Make Go tests easy with [gotests (⭐5k)](https://github.com/cweill/gotests).
 
 ## [4. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Containers
 
-*   [frozen (⭐1.3k)](https://github.com/serge-sans-paille/frozen) - a header-only, constexpr alternative to gperf for C++14 users. \[Apache-2.0]
+*   [frozen (⭐1.4k)](https://github.com/serge-sans-paille/frozen) - a header-only, constexpr alternative to gperf for C++14 users. \[Apache-2.0]
 
 ## [5. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
@@ -39,7 +39,7 @@
 
 ### Web Apps (open source)
 
-*   [Cadê Meu Busão](https://tarifazerobh.org/cade-meu-busao/) - Realtime tracking transit buses from Belo Horizonte, Brazil. Open-source on [GitHub (⭐5)](https://github.com/tarifazero/monitoramento).
+*   [Cadê Meu Busão](https://tarifazerobh.org/cade-meu-busao/) - Realtime tracking transit buses from Belo Horizonte, Brazil. Open-source on [GitHub (⭐6)](https://github.com/tarifazero/monitoramento).
 
 ### Native Apps (open source)
 
@@ -47,8 +47,7 @@
 
 ### GTFS Libraries / R
 
-*   \[[r-transit](https://github.com/r-transit)]\(<https://r-transit.github.io/>) - Collection of tools for GTFS in R.
-*   [tidytransit](https://github.com/r-gtfs/tidytransit) - Use tidytransit to map transit stops and routes, calculate travel times and transit frequencies, and validate transit feeds. tidytransit reads the General Transit Feed Specification into tidyverse and simple features data frames.
+*   [r-transit](https://github.com/r-transit) - Collection of tools for GTFS in R.
 
 ## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -58,9 +57,9 @@
 
 ## [7. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
-### Plugins and scripts / Various Godot versions
+### Plugins and scripts / Godot 4
 
-*   [3D Auto Collision Generator (⭐28)](https://github.com/ThGnommy/godot_3d_auto_collision_generator) - Generate collision for multiple 3D objects in one click (Godot 4.x).
+*   [3D Auto Collision Generator (⭐37)](https://github.com/ThGnommy/godot_3d_auto_collision_generator) - Generate collision for multiple 3D objects in one click.
 
 ## [8. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 

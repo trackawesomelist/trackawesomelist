@@ -2,7 +2,7 @@
 
 📚 Directory of iOS books
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/bystritskiy/awesome-ios-books/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 bystritskiy/awesome-ios-books](https://github.com/bystritskiy/awesome-ios-books) · ⭐ 415 · 🏷️ Books
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/bystritskiy/awesome-ios-books/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 bystritskiy/awesome-ios-books](https://github.com/bystritskiy/awesome-ios-books) · ⭐ 455 · 🏷️ Books
 
 [ [Daily](/content/bystritskiy/awesome-ios-books/README.md) / [Weekly](/content/bystritskiy/awesome-ios-books/week/README.md) / Overview ]
 
@@ -233,6 +233,10 @@
 
 ## Contributing and License
 
-*   [See the guide (⭐415)](https://github.com/bystritskiy/awesome-ios-books/blob/master/CONTRIBUTING.md)
+*   [See the guide (⭐451)](https://github.com/bystritskiy/awesome-ios-books/blob/master/CONTRIBUTING.md)
 *   Distributed under the MIT license. See LICENSE for more information.
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=bystritskiy/awesome-ios-books\&type=Date)](https://star-history.com/#bystritskiy/awesome-ios-books\&Date)
 

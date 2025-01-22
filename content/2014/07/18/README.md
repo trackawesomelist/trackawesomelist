@@ -10,7 +10,7 @@
 
 ### Github Libraries / Randomized Algorithms
 
-*   [Erlang (⭐157)](https://github.com/aggelgian/erlang-algorithms)
+*   [Erlang (⭐158)](https://github.com/aggelgian/erlang-algorithms)
 
 ## [2. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
@@ -37,33 +37,33 @@
 
 ### Compilers / Bare metal / kernel development
 
-*   [ldc (⭐1.1k)](https://github.com/ldc-developers/ldc) - The LLVM-based D compiler. Uses the DMD frontend and LLVM backend. Builds slower than dmd, but generates more optimized code than DMD. It supports all the target platforms of LLVM.
+*   [ldc (⭐1.2k)](https://github.com/ldc-developers/ldc) - The LLVM-based D compiler. Uses the DMD frontend and LLVM backend. Builds slower than dmd, but generates more optimized code than DMD. It supports all the target platforms of LLVM.
 *   [gdc (⭐359)](https://github.com/D-Programming-GDC/GDC) - GNU D Compiler. Use DMD frontend and GCC backend. Currently targets the most platforms due to the use of GCC. Generated code runs faster than DMD in most cases, on par with LDC. In the process of integration with the official GCC toolchain.
 
 ### Lexers, Parsers, Parser Generators / Bare metal / kernel development
 
 *   [Mono-D's DParser (⭐30)](https://github.com/aBothe/D_Parser) - A D parser written in C# and used in Mono-D.
-*   [Pegged (⭐532)](https://github.com/PhilippeSigaud/Pegged) - A Parsing Expression Grammar (PEG) module written in D.
+*   [Pegged (⭐534)](https://github.com/PhilippeSigaud/Pegged) - A Parsing Expression Grammar (PEG) module written in D.
 *   [dunnart (⭐14)](https://github.com/pwil3058/dunnart) - LALR(1) Parser Generator written in D.
 
 ### Database clients / XML
 
-*   [arsd (⭐517)](https://github.com/adamdruppe/arsd) - Adam D. Ruppe's library; in addition to a Web backend, it also has support for database access with database.d, sqlite.d, mysql.d and postgres.d.
-*   [ddb (⭐40)](https://github.com/pszturmaj/ddb) - Database access for D2. Currently only supports PostgreSQL.
-*   [ddbc (⭐76)](https://github.com/buggins/ddbc) - DDBC is a DB Connector for D language (similar to JDBC). HibernateD (see below) uses ddbc for database abstraction.
+*   [arsd (⭐531)](https://github.com/adamdruppe/arsd) - Adam D. Ruppe's library; in addition to a Web backend, it also has support for database access with database.d, sqlite.d, mysql.d and postgres.d.
+*   [ddb (⭐39)](https://github.com/pszturmaj/ddb) - Database access for D2. Currently only supports PostgreSQL.
+*   [ddbc (⭐78)](https://github.com/buggins/ddbc) - DDBC is a DB Connector for D language (similar to JDBC). HibernateD (see below) uses ddbc for database abstraction.
 *   [hibernated (⭐82)](https://github.com/buggins/hibernated) - HibernateD is an ORM for D (similar to [Hibernate](https://hibernate.org/)).
 *   [dvorm (⭐17)](https://github.com/rikkimax/Dvorm) - An ORM for D with Vibe support. Works with vibe.d and mysql-d, giving it the ability to access MongoDB and MySQL.
 
 ### GUI Libs / XML
 
-*   [GtkD (⭐312)](https://github.com/gtkd-developers/GtkD) - GtkD is a D binding and OO wrapper of GTK+. GtkD is actively maintained and is currently the most stable GUI lib for D.
-*   [tkD (⭐116)](https://github.com/nomad-software/tkd) - GUI toolkit for the D programming language based on Tcl/Tk.
+*   [GtkD (⭐320)](https://github.com/gtkd-developers/GtkD) - GtkD is a D binding and OO wrapper of GTK+. GtkD is actively maintained and is currently the most stable GUI lib for D.
+*   [tkD (⭐117)](https://github.com/nomad-software/tkd) - GUI toolkit for the D programming language based on Tcl/Tk.
 
 ## [5. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Logging
 
-*   [Serilog (⭐7.1k)](https://github.com/serilog/serilog) - A no-nonsense logging library for the NoSQL era. Combines the best of traditional and structured diagnostic logging in an easy-to-use package.
+*   [Serilog (⭐7.4k)](https://github.com/serilog/serilog) - A no-nonsense logging library for the NoSQL era. Combines the best of traditional and structured diagnostic logging in an easy-to-use package.
 
 ## [6. Awesome Coldfusion](/content/seancoyne/awesome-coldfusion/README.md)
 

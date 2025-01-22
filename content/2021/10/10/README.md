@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 10, 2021
 
-18 awesome lists updated today.
+17 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -44,7 +44,7 @@
 
 ### Deployment Hosting
 
-*   [Fly.io](https://fly.io/) - Deploy dockerized full stack apps via a location-aware service (latency reduction).
+*   [Fly.io](https://fly.io/) - Deploy dockerized full-stack apps via a location-aware service (latency reduction).
 
 ## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -56,11 +56,11 @@
 
 ### Resources / Controllers
 
-*   [gdx-controllers (⭐65)](https://github.com/libgdx/gdx-controllers) - Adds support to gamepads and joysticks.
+*   [gdx-controllers (⭐72)](https://github.com/libgdx/gdx-controllers) - Adds support to gamepads and joysticks.
 
 ### Resources / Others
 
-*   [gdx-jnigen (⭐55)](https://github.com/libgdx/gdx-jnigen) - Small library that allows C/C++ code to be written inline with Java source code.
+*   [gdx-jnigen (⭐65)](https://github.com/libgdx/gdx-jnigen) - Small library that allows C/C++ code to be written inline with Java source code.
 
 ## [8. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 
@@ -92,7 +92,7 @@
 
 ### AppImage developer tools / Deployment tools for .NET Core (Mono) applications
 
-*   [Publish-AppImage for .NET (⭐21)](https://github.com/kuiperzone/Publish-AppImage) - Publish AppImages for .NET applications.
+*   [Publish-AppImage for .NET (⭐30)](https://github.com/kuiperzone/Publish-AppImage) - Publish AppImages for .NET applications.
 
 ## [10. Awesome Low Code](/content/zenitysec/awesome-low-code/README.md)
 
@@ -128,13 +128,13 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-color-input (⭐24)](https://github.com/gVguy/vue-color-input) – Vue 3 color picker component whose goal is to replace `<input type="color">`
+*   [vue-color-input (⭐28)](https://github.com/gVguy/vue-color-input) – Vue 3 color picker component whose goal is to replace `<input type="color">`
 
 ## [12. Awesome Coq](/content/coq-community/awesome-coq/README.md)
 
 ### Projects / Libraries
 
-*   [Algebra Tactics (⭐29)](https://github.com/math-comp/algebra-tactics) - Ring and field tactics for Mathematical Components.
+*   [Algebra Tactics (⭐33)](https://github.com/math-comp/algebra-tactics) - Ring and field tactics for Mathematical Components.
 
 ### Projects / Verified Software
 
@@ -156,21 +156,15 @@
 
 ### Fuzzy Finder / Diagnostics
 
-*   [jvgrootveld/telescope-zoxide (⭐306)](https://github.com/jvgrootveld/telescope-zoxide) - Telescope integration for [zoxide (⭐21k)](https://github.com/ajeetdsouza/zoxide), a smart directory picker that tracks your usage.
+*   [jvgrootveld/telescope-zoxide (⭐333)](https://github.com/jvgrootveld/telescope-zoxide) - Telescope integration for [zoxide (⭐24k)](https://github.com/ajeetdsouza/zoxide), a smart directory picker that tracks your usage.
 
-## [16. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
-
-### Companies with "remote DNA"
-
-*   [BandLab](https://bandlab.com/careers) - Social music platform that enables creators to make music and share the creative process with musicians and fans.
-
-## [17. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
+## [16. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
 ### Mapping
 
 *   [Glamorous Toolkit](https://gtoolkit.com) - A moldable and programmable environment in which Wardley Maps can be intertwinned with knowledge management and multi language notebooks. Follow [@feenkcom](https://twitter.com/feenkcom) to learn more.
 
-## [18. Public Apis](/content/public-apis/public-apis/README.md)
+## [17. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Anime
 
@@ -226,13 +220,13 @@
 
   CORS: Yes
 
-  Postman: 
+  : 
 
 
 
 ### Cryptocurrency
 
-- API: [Ethplorer (⭐820)](https://github.com/EverexIO/Ethplorer/wiki/Ethplorer-API)
+- API: [Ethplorer (⭐827)](https://github.com/EverexIO/Ethplorer/wiki/Ethplorer-API)
 
   Description: Ethereum tokens, balances, addresses, history of transactions, contracts, and custom structures
 
@@ -320,7 +314,7 @@
 
   CORS: Unknown
 
-  Call this API: 
+  : 
 
 
 

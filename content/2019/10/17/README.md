@@ -14,7 +14,7 @@
 
 ### Online Resources / Other Lists Online
 
-*   [AWS Tool Arsenal (⭐8.8k)](https://github.com/toniblyx/my-arsenal-of-aws-security-tools) - List of tools for testing and securing AWS environments.
+*   [AWS Tool Arsenal (⭐9k)](https://github.com/toniblyx/my-arsenal-of-aws-security-tools) - List of tools for testing and securing AWS environments.
 
 ## [2. Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md)
 
@@ -53,7 +53,7 @@
 
 ### Graphics / Image Conversion
 
-*   [pastel (⭐4.9k)](https://github.com/sharkdp/pastel) - Generate, analyze, convert and manipulate colors.
+*   [pastel (⭐5.1k)](https://github.com/sharkdp/pastel) - Generate, analyze, convert and manipulate colors.
 
 ## [7. Awesome Diversity](/content/folkswhocode/awesome-diversity/README.md)
 
@@ -257,7 +257,7 @@
 
 ### UI
 
-*   [Scratcher (⭐559)](https://github.com/vintage/scratcher) <!--stargazers:vintage/scratcher--> - Scratch card widget which temporarily hides content from user, by [Kamil Rykowski](https://github.com/vintage).
+*   [Scratcher (⭐588)](https://github.com/vintage/scratcher) <!--stargazers:vintage/scratcher--> - Scratch card widget which temporarily hides content from user, by [Kamil Rykowski](https://github.com/vintage).
 
 ---
 

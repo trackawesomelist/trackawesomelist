@@ -71,7 +71,7 @@
 
 ### Programming Languages
 
-*   [JavaScript (⭐33k)](https://github.com/sorrycc/awesome-javascript#readme)
+*   [JavaScript (⭐34k)](https://github.com/sorrycc/awesome-javascript#readme)
     *   [Promises (⭐1.6k)](https://github.com/wbinnssmith/awesome-promises#readme)
     *   [Standard Style (⭐392)](https://github.com/standard/awesome-standard#readme) - Style guide and linter.
     *   [Must Watch Talks (⭐13k)](https://github.com/bolshchikov/js-must-watch#readme)
@@ -79,15 +79,15 @@
     *   [Network Layer (⭐552)](https://github.com/Kikobeats/awesome-network-js#readme)
     *   [Micro npm Packages (⭐4.6k)](https://github.com/parro-it/awesome-micro-npm-packages#readme)
     *   [Mad Science npm Packages (⭐1.1k)](https://github.com/feross/awesome-mad-science#readme) - Impossible sounding projects that exist.
-    *   [Maintenance Modules (⭐351)](https://github.com/maxogden/maintenance-modules#readme) - For npm packages.
+    *   [Maintenance Modules (⭐352)](https://github.com/maxogden/maintenance-modules#readme) - For npm packages.
     *   [npm (⭐4.5k)](https://github.com/sindresorhus/awesome-npm#readme) - Package manager.
     *   [AVA (⭐347)](https://github.com/avajs/awesome-ava#readme) - Test runner.
-    *   [ESLint (⭐4.3k)](https://github.com/dustinspecker/awesome-eslint#readme) - Linter.
+    *   [ESLint (⭐4.4k)](https://github.com/dustinspecker/awesome-eslint#readme) - Linter.
     *   [Functional Programming (⭐6k)](https://github.com/stoeffel/awesome-fp-js#readme)
-    *   [Observables (⭐335)](https://github.com/sindresorhus/awesome-observables#readme)
-    *   [npm scripts (⭐721)](https://github.com/RyanZim/awesome-npm-scripts#readme) - Task runner.
-    *   [30 Seconds of Code (⭐121k)](https://github.com/30-seconds/30-seconds-of-code#readme) - Code snippets you can understand in 30 seconds.
-    *   [Ponyfills (⭐55)](https://github.com/Richienb/awesome-ponyfills#readme) - Like polyfills but without overriding native APIs.
+    *   [Observables (⭐339)](https://github.com/sindresorhus/awesome-observables#readme)
+    *   [npm scripts (⭐727)](https://github.com/RyanZim/awesome-npm-scripts#readme) - Task runner.
+    *   [30 Seconds of Code (⭐122k)](https://github.com/30-seconds/30-seconds-of-code#readme) - Code snippets you can understand in 30 seconds.
+    *   [Ponyfills (⭐56)](https://github.com/Richienb/awesome-ponyfills#readme) - Like polyfills but without overriding native APIs.
 
 ## [5. Nginx Resources](/content/fcambus/nginx-resources/README.md)
 
@@ -165,7 +165,7 @@
 
 ### Testing
 
-*   🍰 [CakephpFixtureFactories plugin (⭐82)](https://github.com/pakacuda/cakephp-fixture-factories) - Create your fixtures dynamically on a test basis, accelerate the writing and maintenance of your tests.
+*   [CakephpFixtureFactories plugin (⭐85)](https://github.com/pakacuda/cakephp-fixture-factories) - Create your fixtures dynamically on a test basis, accelerate the writing and maintenance of your tests.
 
 ## [7. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
@@ -177,15 +177,15 @@
 
 ### Tools & Software / Acquisition
 
-*   [Heritrix (⭐2.7k)](https://github.com/internetarchive/heritrix3/wiki) - An open source, extensible, web-scale, archival quality web crawler. *(Stable)*
-    *   [Heritrix Q\&A (⭐2.7k)](https://github.com/internetarchive/heritrix3/discussions/categories/q-a) - A discussion forum for asking questions and getting answers about using Heritrix.
+*   [Heritrix (⭐2.9k)](https://github.com/internetarchive/heritrix3/wiki) - An open source, extensible, web-scale, archival quality web crawler. *(Stable)*
+    *   [Heritrix Q\&A (⭐2.9k)](https://github.com/internetarchive/heritrix3/discussions/categories/q-a) - A discussion forum for asking questions and getting answers about using Heritrix.
     *   [Heritrix Walkthrough (⭐9)](https://github.com/web-archive-group/heritrix-walkthrough) *(In Development)*
 *   [WebMemex](https://github.com/WebMemex) - Browser extension for Firefox and Chrome which lets you archive web pages you visit. *(In Development)*
 
 ### Community Resources / Other Awesome Lists
 
-*   [Web Archiving Community (⭐20k)](https://github.com/pirate/ArchiveBox/wiki/Web-Archiving-Community)
-*   [Awesome Memento (⭐76)](https://github.com/machawk1/awesome-memento)
+*   [Web Archiving Community (⭐23k)](https://github.com/pirate/ArchiveBox/wiki/Web-Archiving-Community)
+*   [Awesome Memento (⭐94)](https://github.com/machawk1/awesome-memento)
 *   [The WARC Ecosystem](http://www.archiveteam.org/index.php?title=The_WARC_Ecosystem)
 *   [The Web Crawl section of COPTR](http://coptr.digipres.org/Category:Web_Crawl)
 
@@ -273,7 +273,7 @@ To attribute this awesome list (as restricted by the license) see [how to attrib
 
 ### Web Servers
 
-*   [Falcon (⭐2.6k)](https://github.com/socketry/falcon) - A high-performance web server for Ruby, supporting HTTP/1, HTTP/2 and TLS.
+*   [Falcon (⭐2.7k)](https://github.com/socketry/falcon) - A high-performance web server for Ruby, supporting HTTP/1, HTTP/2 and TLS.
 
 ---
 

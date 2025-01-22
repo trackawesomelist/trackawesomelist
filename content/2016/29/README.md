@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 18 - Jul 24, 2016
 
-47 awesome lists updated this week.
+46 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -120,7 +120,7 @@
 
 ### CLI
 
-*   [zsh-better-npm-completion (⭐444)](https://github.com/lukechilds/zsh-better-npm-completion) - Better ZSH completion for npm.
+*   [zsh-better-npm-completion (⭐466)](https://github.com/lukechilds/zsh-better-npm-completion) - Better ZSH completion for npm.
 
 ## [8. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
@@ -265,10 +265,10 @@
 
 ### Development Projects / Miscellaneous
 
-*   [pokecrystal (⭐1.7k)](https://github.com/pret/pokecrystal) - Disassembly of Pokémon Crystal.
+*   [pokecrystal (⭐2.1k)](https://github.com/pret/pokecrystal) - Disassembly of Pokémon Crystal.
 *   [x-pokemon (⭐89)](https://github.com/passy/x-pokemon) - A web component to display Pokémon.
-*   [pokered (⭐3.2k)](https://github.com/pret/pokered) - Disassembly of Pokémon Red/Blue.
-*   [pokemon-reverse-engineering-tools (⭐293)](https://github.com/pret/pokemon-reverse-engineering-tools) - Tools for compiling and disassembling Pokémon Red and Pokémon Crystal.
+*   [pokered (⭐4k)](https://github.com/pret/pokered) - Disassembly of Pokémon Red/Blue.
+*   [pokemon-reverse-engineering-tools (⭐327)](https://github.com/pret/pokemon-reverse-engineering-tools) - Tools for compiling and disassembling Pokémon Red and Pokémon Crystal.
 
 ## [22. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
 
@@ -280,7 +280,7 @@
 
 ### Network / Barcode
 
-*   [Heimdallr.swift (⭐638)](https://github.com/trivago/Heimdallr.swift) - Easy to use OAuth 2 library for iOS.
+*   [Heimdallr.swift (⭐639)](https://github.com/trivago/Heimdallr.swift) - Easy to use OAuth 2 library for iOS.
 
 ### UI / Barcode
 
@@ -325,11 +325,11 @@
 
 ### Date / Runner
 
-*   [timeago.js (⭐5.2k)](https://github.com/hustcc/timeago.js) - Simple library (less then 2kb) used to format date with `*** time ago` statement.
+*   [timeago.js (⭐5.3k)](https://github.com/hustcc/timeago.js) - Simple library (less then 2kb) used to format date with `*** time ago` statement.
 
 ### String / Runner
 
-*   [jsurl (⭐531)](https://github.com/Mikhus/domurl) - Lightweight URL manipulation with JavaScript.
+*   [jsurl (⭐541)](https://github.com/Mikhus/domurl) - Lightweight URL manipulation with JavaScript.
 
 ### Sliders / Runner
 
@@ -343,35 +343,29 @@
 ### Misc / Other
 
 *   [grid (⭐3.6k)](https://github.com/hootsuite/grid) - Drag and drop library for two-dimensional, resizable and responsive lists.
-*   [MaximAbramchuck/awesome-interviews (⭐69k)](https://github.com/MaximAbramchuck/awesome-interview-questions)
+*   [MaximAbramchuck/awesome-interviews (⭐70k)](https://github.com/MaximAbramchuck/awesome-interview-questions)
 
-## [26. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
-
-### Libraries / Python
-
-*   [μMongo (⭐446)](https://github.com/Scille/umongo) - Driver-independent (async/sync) ODM based on marshmallow
-
-## [27. Awesome Rails Gem](/content/hothero/awesome-rails-gem/week/README.md)
+## [26. Awesome Rails Gem](/content/hothero/awesome-rails-gem/week/README.md)
 
 ### Production / Security
 
 *   [Mina (⭐4.3k)](https://github.com/mina-deploy/mina) - fast deployer and server automation tool.
 
-## [28. Awesome Sketch](/content/diessica/awesome-sketch/week/README.md)
+## [27. Awesome Sketch](/content/diessica/awesome-sketch/week/README.md)
 
 ### Guides / General screencasts
 
 *   [A Guide to Sketch](https://readymag.com/u91593485/guidetosketch/)
 
-## [29. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [28. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Keyboard
 
 *   [RSKKeyboardAnimationObserver (⭐45)](https://github.com/ruslanskorb/RSKKeyboardAnimationObserver) - Showing / dismissing keyboard animation in simple UIViewController category.
-*   [RFKeyboardToolbar (⭐420)](https://github.com/ruddfawcett/RFKeyboardToolbar) - This is a flexible UIView and UIButton subclass to add customized buttons and toolbars to your UITextFields/UITextViews.
-*   [IQKeyboardManager (⭐16k)](https://github.com/hackiftekhar/IQKeyboardManager) - Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView.
-*   [NgKeyboardTracker (⭐798)](https://github.com/meiwin/NgKeyboardTracker) - Objective-C library for tracking keyboard in iOS apps.
-*   [MMNumberKeyboard (⭐958)](https://github.com/matmartinez/MMNumberKeyboard) - A simple keyboard to use with numbers and, optionally, a decimal point.
+*   [RFKeyboardToolbar (⭐419)](https://github.com/ruddfawcett/RFKeyboardToolbar) - This is a flexible UIView and UIButton subclass to add customized buttons and toolbars to your UITextFields/UITextViews.
+*   [IQKeyboardManager (⭐17k)](https://github.com/hackiftekhar/IQKeyboardManager) - Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView.
+*   [NgKeyboardTracker (⭐797)](https://github.com/meiwin/NgKeyboardTracker) - Objective-C library for tracking keyboard in iOS apps.
+*   [MMNumberKeyboard (⭐955)](https://github.com/matmartinez/MMNumberKeyboard) - A simple keyboard to use with numbers and, optionally, a decimal point.
 *   [TPKeyboardAvoiding (⭐5.8k)](https://github.com/michaeltyson/TPKeyboardAvoiding) - A drop-in universal solution for moving text fields out of the way of the keyboard in iOS
 *   [YYKeyboardManager (⭐482)](https://github.com/ibireme/YYKeyboardManager) - iOS utility class allows you to access keyboard view and track keyboard animation.
 
@@ -382,13 +376,13 @@
 *   [ReflectableEnum (⭐331)](https://github.com/fastred/ReflectableEnum) - Reflection for enumerations in Objective-C.
 *   [ObjectiveSugar (⭐2.2k)](https://github.com/supermarin/ObjectiveSugar) - ObjectiveC additions for humans. Ruby style.
 *   [OpinionatedC (⭐52)](https://github.com/leoschweizer/OpinionatedC) - Because Objective-C should have inherited more from Smalltalk.
-*   [YOLOKit (⭐663)](https://github.com/mxcl/YOLOKit) - Getting square objects down round holes.
-*   [BFKit (⭐797)](https://github.com/FabrizioBrancati/BFKit) - An Objective-C collection of useful classes to develop Apps faster.
-*   [AppVersionMonitor (⭐259)](https://github.com/eure/AppVersionMonitor) - Monitor iOS app version easily.
+*   [YOLOKit (⭐662)](https://github.com/mxcl/YOLOKit) - Getting square objects down round holes.
+*   [BFKit (⭐796)](https://github.com/FabrizioBrancati/BFKit) - An Objective-C collection of useful classes to develop Apps faster.
+*   [AppVersionMonitor (⭐261)](https://github.com/eure/AppVersionMonitor) - Monitor iOS app version easily.
 *   [libextobjc (⭐4.5k)](https://github.com/jspahrsummers/libextobjc) - A Cocoa library to extend the Objective-C programming language.
 *   [YAML.framework (⭐244)](https://github.com/mirek/YAML.framework) - Proper YAML support for Objective-C based on `LibYAML`.
 
-## [30. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [29. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Companies / A companies
 
@@ -402,7 +396,7 @@
 
 *   Chen Hui Jing <https://www.chenhuijing.com/blog/>
 
-## [31. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [30. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Authentication
 
@@ -411,11 +405,11 @@
 
 ### Cloud Infrastructure and Management
 
-*   [nomad (⭐83)](https://github.com/sashaafm/nomad) - Create cloud portable Elixir and Phoenix apps. Write once, use everywhere.
+*   [nomad (⭐84)](https://github.com/sashaafm/nomad) - Create cloud portable Elixir and Phoenix apps. Write once, use everywhere.
 
 ### HTTP
 
-*   [http\_proxy (⭐59)](https://github.com/KazuCocoa/http_proxy) - Multi port HTTP Proxy.
+*   [http\_proxy (⭐60)](https://github.com/KazuCocoa/http_proxy) - Multi port HTTP Proxy.
 
 ### JSON
 
@@ -431,7 +425,7 @@
 
 ### Text and Numbers
 
-*   [stemmer (⭐150)](https://github.com/fredwu/stemmer) - An English (Porter2) stemming implementation in Elixir.
+*   [stemmer (⭐152)](https://github.com/fredwu/stemmer) - An English (Porter2) stemming implementation in Elixir.
 
 ### Third Party APIs
 
@@ -440,21 +434,21 @@
 
 ### Utilities
 
-*   [erlang-history (⭐495)](https://github.com/ferd/erlang-history) - Hacks to add shell history to Erlang's shell.
+*   [erlang-history (⭐493)](https://github.com/ferd/erlang-history) - Hacks to add shell history to Erlang's shell.
 
-## [32. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
+## [31. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
 ### Resources / Articles
 
 *   [What PostgreSQL has over other open source SQL databases: Part I](https://www.compose.com/articles/what-postgresql-has-over-other-open-source-sql-databases/)
 
-## [33. Awesome Erlang](/content/drobakowski/awesome-erlang/week/README.md)
+## [32. Awesome Erlang](/content/drobakowski/awesome-erlang/week/README.md)
 
 ### Caching
 
 *   [cache (⭐134)](https://github.com/fogfish/cache) - In-memory Segmented Cache
 
-## [34. Awesome Progressive Web Apps](/content/TalAter/awesome-progressive-web-apps/week/README.md)
+## [33. Awesome Progressive Web Apps](/content/TalAter/awesome-progressive-web-apps/week/README.md)
 
 ### Learning Resources
 
@@ -469,37 +463,37 @@
 
 *   [Can I Use - Push API](http://caniuse.com/#feat=push-api) - Up-to-date browser support table of Push API.
 
-## [35. Css Protips](/content/AllThingsSmitty/css-protips/week/README.md)
+## [34. Css Protips](/content/AllThingsSmitty/css-protips/week/README.md)
 
 ### Translations / [Demo](https://codepen.io/AllThingsSmitty/pen/XKgOkR)
 
 *   [日本語 (⭐27k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/ja-JP)
 
-## [36. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [35. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Date and Time
 
-*   [Chronos (⭐1.3k)](https://github.com/cakephp/chronos) - A DateTime API extension supporting both mutable and immutable date/time.
+*   [Chronos (⭐1.4k)](https://github.com/cakephp/chronos) - A DateTime API extension supporting both mutable and immutable date/time.
 
-## [37. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
+## [36. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
 ### Learning Guides / Learning Videos
 
 *   [Elm Basics](https://www.youtube.com/watch?v=g48K6ABfRzA) - Walk through all the syntax and basic ideas in Elm as a general programming language.
 
-## [38. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [37. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### RESTful API
 
 *   [Friboo (⭐117)](https://github.com/zalando/friboo)
 
-## [39. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [38. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Codebases for Reference / Videos
 
 *   [Vuedo (⭐2.3k)](https://github.com/Vuedo/vuedo) - Vuedo is blog platform, built with Laravel and Vue.js
 
-## [40. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
+## [39. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
 
 ### Modules / String
 
@@ -519,7 +513,7 @@
 
 *   [minimist](https://github.com/substack/minimist) - Parse argument options.
 
-## [41. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [40. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### Go / Erlang
 
@@ -529,14 +523,14 @@
 
 *   [Servant (⭐1.8k)](https://github.com/haskell-servant/servant) - Type-level web DSL.
 
-## [42. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
+## [41. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
 ### Tools
 
 *   [imqtt (⭐21)](https://github.com/shafreeck/imqtt) - Interactive MQTT packet manipulation shell based on IPython.
 *   [Python MQTT Client Shell (⭐44)](https://github.com/bapowell/python-mqtt-client-shell) - a text console-based, interactive shell for exercising various tasks associated with MQTT client communications.
 
-## [43. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [42. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Apps / Rich text editor extensions
 
@@ -548,11 +542,11 @@
 
 ### Apps / Forms
 
-*   [Wagtail ReCaptcha (⭐56)](https://github.com/springload/wagtail-django-recaptcha) - wagtail-django-captcha provides an easy way to integrate the [django-recaptcha (⭐985)](https://github.com/praekelt/django-recaptcha) field when using the Wagtail formbuilder.
+*   [Wagtail ReCaptcha (⭐56)](https://github.com/springload/wagtail-django-recaptcha) - wagtail-django-captcha provides an easy way to integrate the [django-recaptcha (⭐991)](https://github.com/praekelt/django-recaptcha) field when using the Wagtail formbuilder.
 
 ### Apps / Misc
 
-*   [wagtailmenus (⭐392)](https://github.com/rkhleics/wagtailmenus) - An extension for Torchbox's Wagtail CMS to help you manage and render multi-level navigation and simple flat menus in a consistent, flexible way.
+*   [wagtailmenus (⭐397)](https://github.com/rkhleics/wagtailmenus) - An extension for Torchbox's Wagtail CMS to help you manage and render multi-level navigation and simple flat menus in a consistent, flexible way.
 
 ### Resources / Presentations
 
@@ -563,13 +557,13 @@
 
 *   [Contributed apps and website code (⭐18k)](https://github.com/torchbox/wagtail/wiki/Contributed-apps-and-website-code) - A provisional directory of third-party contributed Wagtail websites and apps.
 
-## [44. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
+## [43. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
 
 ### Text Manipulation
 
 *   [hl (⭐96)](https://github.com/importre/alfred-hl) - Syntax highlight code in the clipboard.
 
-## [45. Typography](/content/deanhume/typography/week/README.md)
+## [44. Typography](/content/deanhume/typography/week/README.md)
 
 ### Articles
 
@@ -587,13 +581,13 @@
 
 *   This [site](https://deanhume.github.io/typography/) was featured on the [Device Wall](https://twitter.com/gauntface/status/604029887414829057/photo/1) at Google I/O 2015.
 
-## [46. Bots](/content/hackerkid/bots/week/README.md)
+## [45. Bots](/content/hackerkid/bots/week/README.md)
 
 ### General
 
 *   [Universal Bot Framework](https://bitbucket.org/phips28/universal-bot-framework/overview) - Create crossplatform chat bots for FB Messenger, Kik, Telegram and Skype with just one logic.
 
-## [47. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
+## [46. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
 
 ### Python / Excel Integration
 

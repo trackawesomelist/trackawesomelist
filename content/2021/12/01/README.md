@@ -11,8 +11,8 @@
 ### Libraries / Functional Programming
 
 *   Prelude
-    *   [JasonShin/fp-core.rs (⭐1.3k)](https://github.com/JasonShin/fp-core.rs) - A library for functional programming
-    *   [myrrlyn/tap (⭐398)](https://github.com/myrrlyn/tap) - Suffix-Position Pipeline Behavior
+    *   [JasonShin/fp-core.rs (⭐1.4k)](https://github.com/JasonShin/fp-core.rs) - A library for functional programming
+    *   [myrrlyn/tap (⭐423)](https://github.com/myrrlyn/tap) - Suffix-Position Pipeline Behavior
 
 ## [2. Awesome Ansible](/content/ansible-community/awesome-ansible/README.md)
 
@@ -24,7 +24,7 @@
 
 ### Validation / Playground
 
-*   [ts-codec (⭐16)](https://github.com/julienvincent/ts-codec) - TypeScript Codecs for encoding, decoding and validating data
+*   [ts-codec (⭐18)](https://github.com/julienvincent/ts-codec) - TypeScript Codecs for encoding, decoding and validating data
 
 ## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -42,17 +42,13 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [@vitejs/plugin-legacy (⭐67k)](https://github.com/vitejs/vite/tree/main/packages/plugin-legacy) - Legacy browser support.
+*   [@vitejs/plugin-legacy (⭐70k)](https://github.com/vitejs/vite/tree/main/packages/plugin-legacy) - Legacy browser support.
 
 ## [7. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### (requires Neovim 0.5)
 
-*   [rmagatti/goto-preview (⭐796)](https://github.com/rmagatti/goto-preview) - Previewing native LSP's goto definition calls in floating windows.
-
-### Editing Support / Diagnostics
-
-*   [ethanholz/nvim-lastplace (⭐308)](https://github.com/ethanholz/nvim-lastplace) - Reopen files at your last edit position.
+*   [rmagatti/goto-preview (⭐904)](https://github.com/rmagatti/goto-preview) - Previewing native LSP's goto definition calls in floating windows.
 
 ## [8. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 

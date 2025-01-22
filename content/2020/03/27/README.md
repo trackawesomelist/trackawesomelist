@@ -25,7 +25,7 @@
 
 ### Resources
 
-*   [Tutorial (⭐23)](https://github.com/schweitzer/modern-cmake-tutorial) - Tutorial and Example on How to Properly Use Modern CMake.
+*   [Tutorial (⭐33)](https://github.com/schweitzer/modern-cmake-tutorial) - Tutorial and Example on How to Properly Use Modern CMake.
 
 ## [3. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
@@ -63,19 +63,15 @@
 
 ### Tools
 
-*   [iprfc (⭐3)](https://github.com/RTradeLtd/iprfc) - IETF RFC downloader which stores RFCs on IPFS and indexes them with RTradeLtd/Lens.
+*   [iprfc (⭐4)](https://github.com/RTradeLtd/iprfc) - IETF RFC downloader which stores RFCs on IPFS and indexes them with RTradeLtd/Lens.
 
 ## [6. Awesome Earth](/content/philsturgeon/awesome-earth/README.md)
 
 ### Hygiene
 
 *   [A Good Company - The Plastic-Free Store](https://agood.com/) - Everyday products including notebooks, toothbrushes, phone cases, art supplies, water bottles, etc. designed with by a company with complete transparency that has extremely ambitious environmental standards including plastic-free low-carbon materials including bio-plastics, bamboo, stone paper, and recycled aluminum.
-*   [Bidet Hose Toilet Attachment](https://www.homedecorous.com/Bidet-Diaper-Handheld-Sprayer-Set-Water-Shattaf-A132) - This sprayer will feel nice and sturdy in your hand as the whole thing is stainless steel. You will be able to adjust the water flow from zero to maximum by pushing the switch or by using the lever on the T-valve adapter.
-*   [Buy a F\*\*king Bidet](https://buyafuckingbidet.com/) - Buying a bidet attachment for your toilet is cheap and easy, helps the environment and solves problems during the coronavirus pandemic. No more toilet-paper panic-buying/brawling. Do you have a basic understanding of how screwdrivers and hoses work? Congratulations, you're a goddamn bidet installation expert.
 *   [CuloClean Water Bottle Bidet](https://culoclean.com/) - CuloClean is the portable bidet that you can plumb in your plastic bottle, fully discreet, efficient and portable. It is specially designed so that it fits in the two most common diameters of water bottle on the market.
-*   [Good Condom Company](https://www.thegoodc.company/) - Fuck each other, not the planet. Condoms made of natural latex from sustainably managed rubber plantations in Malaysia.
 *   [Improve how you do laundry](https://greenlivingideas.com/2014/09/23/3-easy-ways-to-green-your-laundry/) - Six tips for a more sustainable laundry routine.
-*   [Smartliners](https://smartlinerpads.com/) - Reduce the impact on the environment caused by sanitary waste using Organic Cotton Period Pads.
 *   [Who Gives a Crap](https://whogivesacrap.org/) - We make all of our products with environmentally friendly materials, and we donate 50% of our profits to help build toilets for those in need.
 
 ### Consumer Products
@@ -126,7 +122,7 @@
 
 ### Miscellaneous
 
-*   [Web Archiving (⭐1.9k)](https://github.com/iipc/awesome-web-archiving#readme) - An effort to preserve the Web for future generations.
+*   [Web Archiving (⭐2.1k)](https://github.com/iipc/awesome-web-archiving#readme) - An effort to preserve the Web for future generations.
 
 ---
 

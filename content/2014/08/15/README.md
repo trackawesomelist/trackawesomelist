@@ -10,7 +10,7 @@
 
 ### Framework Components
 
-*   [webassembly (⭐73)](https://github.com/herenowcoder/webassembly) - Web DSL for Elixir.
+*   [webassembly (⭐72)](https://github.com/herenowcoder/webassembly) - Web DSL for Elixir.
 
 ## [2. Js Must Watch](/content/bolshchikov/js-must-watch/README.md)
 

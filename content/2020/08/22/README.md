@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 22, 2020
 
-8 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,25 +16,19 @@
 
 *   [WWO A/B testing OpenAI's GPT-3](https://vwo.com/ab-testing-openai-gpt-3/)
 
-## [2. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / Dev Tools
-
-*   [vue-tut (⭐47)](https://github.com/evwt/vue-tut) - Easily build beautiful tutorials with Vue.
-
-## [3. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [2. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Official Resources
 
-*   [GitHub Repo (⭐67k)](https://github.com/vitejs/vite)
+*   [GitHub Repo (⭐70k)](https://github.com/vitejs/vite)
 
-## [4. Awesome Tall Stack](/content/livewire/awesome-tall-stack/README.md)
+## [3. Awesome Tall Stack](/content/livewire/awesome-tall-stack/README.md)
 
 ### Libraries
 
 *   [Livewire Datatables (⭐988)](https://github.com/mediconesystems/livewire-datatables) - Package to create tables with sorting, filtering, searching, exporting etc.
 
-## [5. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/README.md)
+## [4. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/README.md)
 
 ### Functions as a Service
 
@@ -55,21 +49,21 @@
 *   [fuzzy (⭐827)](https://github.com/mattyork/fuzzy) - Fuzzy search / filter for browser and node
 *   [fullproof](https://reyesr.github.io/fullproof/) - Javascript library that provides high-quality full-text search in the browser
 
-## [6. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
+## [5. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ### Tools / Community providers
 
-*   [hcledit (⭐434)](https://github.com/minamijoyo/hcledit) - A command line editor for HCL.
+*   [hcledit (⭐470)](https://github.com/minamijoyo/hcledit) - A command line editor for HCL.
 
-## [7. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
+## [6. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / Finance
 
-*   [Piggyvault (⭐448)](https://github.com/piggyvault/piggyvault) - Family finance management app by [Abhith Rajan](https://www.abhith.net).
+*   [Piggyvault (⭐482)](https://github.com/piggyvault/piggyvault) - Family finance management app by [Abhith Rajan](https://www.abhith.net).
 
 ### Contents / Lifestyle
 
-*   [Food Ordering App (⭐989)](https://github.com/Tarikul711/flutter-food-delivery-app-ui) - Food delivery App UI designed by [Tarikul Islam](https://github.com/tarikul711).
+*   [Food Ordering App (⭐1k)](https://github.com/Tarikul711/flutter-food-delivery-app-ui) - Food delivery App UI designed by [Tarikul Islam](https://github.com/tarikul711).
 
 ### Contents / Media
 
@@ -77,9 +71,9 @@
 
 ### Contents / Shopping
 
-*   [E-Commerce App (⭐697)](https://github.com/Tarikul711/flutter-ecommerce) - Ecommerce app UI and API integration by [Md Tarikul Islam](https://github.com/Tarikul711/).
+*   [E-Commerce App (⭐749)](https://github.com/Tarikul711/flutter-ecommerce) - Ecommerce app UI and API integration by [Md Tarikul Islam](https://github.com/Tarikul711/).
 
-## [8. Tools](/content/lvwzhen/tools/README.md)
+## [7. Tools](/content/lvwzhen/tools/README.md)
 
 ### Placeholder
 

@@ -1,36 +1,18 @@
 # Awesome List Updates on Oct 17, 2024
 
-13 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/README.md)
-
-### **Advanced RAG**
-
-*   [Contextual Retrieval](https://www.anthropic.com/news/contextual-retrieval): Contextual Retrieval enhances traditional RAG by using Contextual Embeddings and Contextual BM25 to maintain context during retrieval. \[19 Sep 2024]
-
-### **LlamaIndex**
-
-*   4 RAG techniques implemented in `llama_index` / [cite](https://x.com/ecardenas300/status/1704188276565795079) \[20 Sep 2023] / [git (⭐514)](https://github.com/weaviate/recipes)
-
-### **OpenAI's Roadmap and Products** / **OpenAI's roadmap**
-
-*   [The Timeline of the OpenaAI's Founder Journeys](https://www.coffeespace.com/blog-post/openai-founders-journey-a-transformer-company-transformed) \[15 Oct 2024]
-
-### **Evaluating Large Language Models** / **OSS Alternatives for OpenAI Code Interpreter (aka. Advanced Data Analytics)**
-
-*   [Korean SAT LLM Leaderboard (⭐31)](https://github.com/minsing-jin/Korean-SAT-LLM-Leaderboard): Benchmarking 10 years of Korean CSAT (College Scholastic Ability Test) exams \[Oct 2024]
-
-## [2. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
+## [1. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Packages / Cross-platform integration
 
-*   [Edge.js (⭐644)](https://github.com/agracio/edge-js) - Run .NET and Node.js code in the same process on Windows, macOS, and Linux.
+*   [Edge.js (⭐723)](https://github.com/agracio/edge-js) - Run .NET and Node.js code in the same process on Windows, macOS, and Linux.
 
-## [3. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
+## [2. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
 ### Apps / Outline Processor Markup Language
 
@@ -38,36 +20,36 @@
 
 ### Terminal-based / programmable RSS readers / Outline Processor Markup Language
 
-*   [cast-text (⭐148)](https://github.com/piqoni/cast-text) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/piqoni/cast-text)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)![Linux](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Linux.png)![Mac](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-mac-client-16.png)![Windows](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-windows-10-16.png): a zero-latency, easy-to-use, rss reader.
-*   [Cleed (⭐172)](https://github.com/radulucut/cleed) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/radulucut/cleed)![Linux](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Linux.png)![Windows](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-windows-10-16.png)![Mac](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-mac-client-16.png)
+*   [cast-text (⭐155)](https://github.com/piqoni/cast-text) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/piqoni/cast-text)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)![Linux](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Linux.png)![Mac](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-mac-client-16.png)![Windows](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-windows-10-16.png): a zero-latency, easy-to-use, rss reader.
+*   [Cleed (⭐187)](https://github.com/radulucut/cleed) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/radulucut/cleed)![Linux](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Linux.png)![Windows](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-windows-10-16.png)![Mac](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-mac-client-16.png)
 
-## [4. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+## [3. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### Captcha / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-turnstile (⭐56)](https://github.com/verto-health/ngx-turnstile) - Cloudflare Turnstile for Angular.
-*   [ng-hcaptcha (⭐46)](https://github.com/leNicDev/ng-hcaptcha) - Provides an easy to use component for [hCaptcha](https://hcaptcha.com/).
+*   [ngx-turnstile (⭐62)](https://github.com/verto-health/ngx-turnstile) - Cloudflare Turnstile for Angular.
+*   [ng-hcaptcha (⭐47)](https://github.com/leNicDev/ng-hcaptcha) - Provides an easy to use component for [hCaptcha](https://hcaptcha.com/).
 *   [angular-yandex-smart-captcha (⭐1)](https://github.com/flowXM/angular-yandex-smart-captcha) - This library adds the Yandex SmartCaptcha component to your Angular application, providing an easy way to integrate CAPTCHA protection into your forms and other user interactions.
-*   [go-captcha-angular (⭐2)](https://github.com/wenlng/go-captcha-angular) - A simple, easy-to-use, interactive, and secure behavioral verification code that implements verification modes such as text/graphic clicking, sliding/dragging, and rotation.
-*   [ng-recaptcha-2 (⭐10)](https://github.com/LakhveerChahal/ng-recaptcha-2) - Angular 18 fork of [ng-recaptcha (⭐473)](https://github.com/DethAriel/ng-recaptcha). Alternatively, you create your own service that implements Google's reCAPTCHA with the help of this [article](https://ben-5.azurewebsites.net/2024/9/5/google-recaptcha-v3-with-angular/#google_vignette).
+*   [go-captcha-angular (⭐3)](https://github.com/wenlng/go-captcha-angular) - A simple, easy-to-use, interactive, and secure behavioral verification code that implements verification modes such as text/graphic clicking, sliding/dragging, and rotation.
+*   [ng-recaptcha-2 (⭐12)](https://github.com/LakhveerChahal/ng-recaptcha-2) - Angular 18 fork of [ng-recaptcha (⭐476)](https://github.com/DethAriel/ng-recaptcha). Alternatively, you create your own service that implements Google's reCAPTCHA with the help of this [article](https://ben-5.azurewebsites.net/2024/9/5/google-recaptcha-v3-with-angular/#google_vignette).
 
-## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [4. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Marks / Diagnostics
 
-*   [EvWilson/spelunk.nvim (⭐6)](https://github.com/EvWilson/spelunk.nvim) - Create and manage bookmarks as stacks with a friendly UI.
+*   [EvWilson/spelunk.nvim (⭐93)](https://github.com/EvWilson/spelunk.nvim) - Create and manage bookmarks as stacks with a friendly UI.
 
 ### Tmux / Diagnostics
 
-*   [EvWilson/slimux.nvim (⭐18)](https://github.com/EvWilson/slimux.nvim) - Send content from the current buffer to a configurable tmux pane.
+*   [EvWilson/slimux.nvim (⭐22)](https://github.com/EvWilson/slimux.nvim) - Send content from the current buffer to a configurable tmux pane.
 
-## [6. Awesome Datascience](/content/academic/awesome-datascience/README.md)
+## [5. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
 ### MOOC's
 
 *   [Data Science Skill Tree](https://labex.io/skilltrees/data-science)
 
-## [7. Topics](/content/selvaklnc/topics/README.md)
+## [6. Topics](/content/selvaklnc/topics/README.md)
 
 ### Others
 
@@ -84,42 +66,41 @@
 *   [Profound and positive impact](https://blogs.uoregon.edu/myneighbor/2014/04/08/myneighbor/#comment-67) explore new opportunities.
 *   [Blog review #1](https://blogs.uoregon.edu/myneighbor/blog-review-1/#comment-66)
 
-## [8. Awesome Workflow Automation](/content/dariubs/awesome-workflow-automation/README.md)
+## [7. Awesome Workflow Automation](/content/dariubs/awesome-workflow-automation/README.md)
 
 ### Tools
 
-*   **\[Windmill]\(<https://www.windmill.dev/0>** - Turn scripts into auto-generated UIs, APIs and cron jobs. Compose them as workflows or data pipelines. Build complex, data-intensive apps with ease.
 *   **[Automateo](https://automateo.app)** - Build and integrate LLM prompt workflows that deliver high-quality and consistent outputs - for solo builders and entrepreneurs.
 
-## [9. Awesome Go](/content/avelino/awesome-go/README.md)
+## [8. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Free e-books / Libraries for creating HTTP middlewares
 
-*   [Build a blockchain from scratch in Go with gRPC (⭐82)](https://github.com/volodymyrprokopyuk/go-blockchain) - The foundational and practical guide for effectively learning and progressively building a blockchain from scratch in Go with gRPC.
+*   [Build a blockchain from scratch in Go with gRPC (⭐322)](https://github.com/volodymyrprokopyuk/go-blockchain) - The foundational and practical guide for effectively learning and progressively building a blockchain from scratch in Go with gRPC.
 
 ### Guided Learning / Libraries for creating HTTP middlewares
 
 *   [The Go Skill Tree](https://labex.io/skilltrees/go) - A structured learning path that combines both free and premium resources.
 
-## [10. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [9. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Text search
 
-*   [SeekStorm (⭐164)](https://github.com/SeekStorm/SeekStorm) \[[SeekStorm](https://crates.io/crates/seekstorm)] - sub-millisecond full-text search library & multi-tenancy server in Rust
+*   [SeekStorm (⭐1.6k)](https://github.com/SeekStorm/SeekStorm) \[[SeekStorm](https://crates.io/crates/seekstorm)] - sub-millisecond full-text search library & multi-tenancy server in Rust
 
-## [11. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
+## [10. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
 ### Tools and session management
 
-*   [tmux-tea (⭐26)](https://github.com/2KAbhishek/tmux-tea) Session manager with previews, integrations with tmuxinator, fzf, neovim and more.
+*   [tmux-tea (⭐51)](https://github.com/2KAbhishek/tmux-tea) Session manager with previews, integrations with tmuxinator, fzf, neovim and more.
 
-## [12. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/README.md)
+## [11. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/README.md)
 
 ### Websites
 
 *   Simple Lister - <https://simplelister.com/>
 
-## [13. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+## [12. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
 ### IDE and editors
 
@@ -127,4 +108,5 @@
 
 ---
 
+- Prev: [Oct 18, 2024](/content/2024/10/18/README.md)
 - Next: [Oct 16, 2024](/content/2024/10/16/README.md)

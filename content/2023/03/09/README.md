@@ -20,7 +20,7 @@
 
 ### Example Projects
 
-*   [Example for using Keycloak Authorization with ASP.NET Core (⭐403)](https://github.com/NikiforovAll/keycloak-authorization-services-dotnet)
+*   [Example for using Keycloak Authorization with ASP.NET Core (⭐519)](https://github.com/NikiforovAll/keycloak-authorization-services-dotnet)
 
 ## [3. Awesome Go](/content/avelino/awesome-go/README.md)
 
@@ -32,7 +32,7 @@
 
 ### Development
 
-*   [vudu (⭐34)](https://github.com/deltadaedalus/vudu) - Broad in-game debugging gui with a console, variable browser/editor, speed controls, and more.
+*   [vudu (⭐43)](https://github.com/deltadaedalus/vudu) - Broad in-game debugging gui with a console, variable browser/editor, speed controls, and more.
 
 ## [5. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
@@ -50,7 +50,7 @@
 
 ### Graphical User Interface / Apache License
 
-*   [adawebui (⭐1)](https://github.com/godunko/adawebui) - GUI based on [adawebpack (⭐48)](https://github.com/godunko/adawebpack).
+*   [adawebui (⭐1)](https://github.com/godunko/adawebui) - GUI based on [adawebpack (⭐56)](https://github.com/godunko/adawebpack).
 
 ### Terminal User Interface / Apache License
 
@@ -58,7 +58,7 @@
 
 ### Web / Apache License
 
-*   [matreshka (⭐6)](https://github.com/godunko/matreshka) - Matreshka is an Ada framework to develop information systems consisting of five major components: League, XML processor, Web framework, SQL access, and the Modeling framework.
+*   [matreshka (⭐7)](https://github.com/godunko/matreshka) - Matreshka is an Ada framework to develop information systems consisting of five major components: League, XML processor, Web framework, SQL access, and the Modeling framework.
 *   [ironsides](https://ironsides.martincarlisle.com) - Authoritative DNS server verified by SPARK/Ada.
 
 ### Verification / Apache License
@@ -108,31 +108,31 @@
 
 ### Web Frameworks / Bare metal / kernel development
 
-*   [Handy-Httpd (⭐28)](https://github.com/andrewlalis/handy-httpd) - A simple, lightweight, and well-documented HTTP server that lets you bootstrap ideas and have something up and running in minutes.
+*   [Handy-Httpd (⭐33)](https://github.com/andrewlalis/handy-httpd) - A simple, lightweight, and well-documented HTTP server that lets you bootstrap ideas and have something up and running in minutes.
 
 ### Data serialization / JSON
 
-*   [fast.json (⭐110)](https://github.com/etcimon/fast) -  A library for D that aims to provide the fastest possible implementation of some every day routines.
+*   [fast.json (⭐112)](https://github.com/etcimon/fast) -  A library for D that aims to provide the fastest possible implementation of some every day routines.
 
 ### Game Frameworks / XML
 
-*   [rengfx (⭐80)](https://github.com/bmchtech/rengfx) - lightweight, expressive, extensible 2D/3D game engine.
+*   [rengfx (⭐82)](https://github.com/bmchtech/rengfx) - lightweight, expressive, extensible 2D/3D game engine.
 
 ### Games / XML
 
-*   [Electronvolt (formerly Atrium) (⭐110)](https://github.com/gecko0307/electronvolt) - FPS game with physics based puzzles using OpenGL.
+*   [Electronvolt (formerly Atrium) (⭐112)](https://github.com/gecko0307/electronvolt) - FPS game with physics based puzzles using OpenGL.
 
 ## [8. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Robotics
 
-*   [Ruckig (⭐663)](https://github.com/pantor/ruckig) - Real-time motion generation for robots and machines. \[MIT] [website](https://ruckig.com)
+*   [Ruckig (⭐770)](https://github.com/pantor/ruckig) - Real-time motion generation for robots and machines. \[MIT] [website](https://ruckig.com)
 
 ## [9. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Utilities
 
-*   [Epic Asset Manager (⭐372)](https://github.com/AchetaGames/Epic-Asset-Manager) - An unofficial client to install Unreal Engine, download and manage purchased assets, projects, plugins and games from the Epic Games Store.
+*   [Epic Asset Manager (⭐417)](https://github.com/AchetaGames/Epic-Asset-Manager) - An unofficial client to install Unreal Engine, download and manage purchased assets, projects, plugins and games from the Epic Games Store.
 
 ## [10. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 

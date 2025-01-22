@@ -16,17 +16,17 @@
 
 ### Libraries / Data visualization
 
-*   [blitzarx1/egui\_graphs (⭐367)](https://github.com/blitzarx1/egui_graphs) \[[egui\_graphs](https://crates.io/crates/egui_graphs)] - Interactive graph visualization widget powered by egui and petgraph. [![Crates.io](https://img.shields.io/crates/v/egui_graphs)](https://crates.io/crates/egui_graphs) [![docs.rs](https://img.shields.io/docsrs/egui_graphs)](https://docs.rs/egui_graphs)
+*   [blitzarx1/egui\_graphs (⭐452)](https://github.com/blitzarx1/egui_graphs) \[[egui\_graphs](https://crates.io/crates/egui_graphs)] - Interactive graph visualization widget powered by egui and petgraph. [![Crates.io](https://img.shields.io/crates/v/egui_graphs)](https://crates.io/crates/egui_graphs) [![docs.rs](https://img.shields.io/docsrs/egui_graphs)](https://docs.rs/egui_graphs)
 
 ### Libraries / Scripting
 
-*   [kcl (⭐1.5k)](https://github.com/kcl-lang/kcl) - A constraint-based record & functional language mainly used in configuration and policy scenarios.
+*   [kcl (⭐1.8k)](https://github.com/kcl-lang/kcl) - A constraint-based record & functional language mainly used in configuration and policy scenarios.
 
 ## [3. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
 
 ### Static type checkers
 
-*   [basedmypy (⭐120)](https://github.com/KotlinIsland/basedmypy) - Based static typing with baseline functionality.
+*   [basedmypy (⭐151)](https://github.com/KotlinIsland/basedmypy) - Based static typing with baseline functionality.
 
 ## [4. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -228,46 +228,46 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [2nthony/vitesse.nvim (⭐53)](https://github.com/2nthony/vitesse.nvim) - Vitesse theme Lua port.
+*   [2nthony/vitesse.nvim (⭐58)](https://github.com/2nthony/vitesse.nvim) - Vitesse theme Lua port.
 
 ## [7. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ### Tools / Community providers
 
-*   [tfgpt (⭐73)](https://github.com/flavius-dinu/tfgpt) - A CLI tool that integrates Terraform with OpenAI's GPT-3.5 Turbo to provide explanations for Terraform commands and concepts.
-*   [tfvar (⭐203)](https://github.com/shihanng/tfvar) - tfvar scans your Terraform configurations or modules and extracts the variables into formats of your choice (tfvar, environment variables, etc.) for editing.
+*   [tfgpt (⭐72)](https://github.com/flavius-dinu/tfgpt) - A CLI tool that integrates Terraform with OpenAI's GPT-3.5 Turbo to provide explanations for Terraform commands and concepts.
+*   [tfvar (⭐210)](https://github.com/shihanng/tfvar) - tfvar scans your Terraform configurations or modules and extracts the variables into formats of your choice (tfvar, environment variables, etc.) for editing.
 
 ## [8. Awesome Polars](/content/ddotta/awesome-polars/README.md)
 
 ### Resources / Talks and videos
 
-*   [How to update mass data using Polars DataFrame](https://www.youtube.com/watch?v=ivJSk6JLWBQ) ⏳ `9 min` - A video that presents the process of writing code to update mass columns across CSV or data files by [@AmitXShukla](https://github.com/AmitXShukla). Notebook used for the video [in this github repo (⭐61)](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Basic%20calculator.ipynb).
+*   [How to update mass data using Polars DataFrame](https://www.youtube.com/watch?v=ivJSk6JLWBQ) ⏳ `9 min` - A video that presents the process of writing code to update mass columns across CSV or data files by [@AmitXShukla](https://github.com/AmitXShukla). Notebook used for the video [in this github repo (⭐77)](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Basic%20calculator.ipynb).
 
 ## [9. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
 
 ### Algorithms and data structures
 
-*   [karlseguin/cache.zig (⭐32)](https://github.com/karlseguin/cache.zig) - Thread-safe, expiration-aware, LRU cache.
+*   [karlseguin/cache.zig (⭐50)](https://github.com/karlseguin/cache.zig) - Thread-safe, expiration-aware, LRU cache.
 
 ### Database
 
-*   [karlseguin/zuckdb.zig (⭐74)](https://github.com/karlseguin/zuckdb.zig) - DuckDB wrapper.
+*   [karlseguin/zuckdb.zig (⭐109)](https://github.com/karlseguin/zuckdb.zig) - DuckDB wrapper.
 
 ### Misc libraries
 
-*   [karlseguin/singleflight.zig (⭐2)](https://github.com/karlseguin/singleflight.zig) - Duplicate function call suppression.
+*   [karlseguin/singleflight.zig (⭐3)](https://github.com/karlseguin/singleflight.zig) - Duplicate function call suppression.
 
 ## [10. Awesome V](/content/vlang/awesome-v/README.md)
 
 ### Web
 
-*   [vest (⭐3)](https://github.com/alexferl/vest) - A REST client in V.
+*   [vest (⭐4)](https://github.com/alexferl/vest) - A REST client in V.
 
 ## [11. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 
 ### Software / R
 
-*   [edgebundle (⭐123)](https://github.com/schochastics/edgebundle) - Edge bundling algorithms, useful to e.g. draw networks of transport maps.
+*   [edgebundle (⭐125)](https://github.com/schochastics/edgebundle) - Edge bundling algorithms, useful to e.g. draw networks of transport maps.
 
 ## [12. Awesome Bitcoin Payment Processors](/content/alexk111/awesome-bitcoin-payment-processors/README.md)
 
@@ -304,7 +304,7 @@
 
 ### RSS services powered by utilizing Obsidian / Outline Processor Markup Language
 
-*   [Obsidian-RSS (⭐356)](https://github.com/joethei/obsidian-rss) <sup>[1141](https://t.me/s/aboutrss/1141)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/joethei/obsidian-rss)
+*   [Obsidian-RSS (⭐410)](https://github.com/joethei/obsidian-rss) <sup>[1141](https://t.me/s/aboutrss/1141)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/joethei/obsidian-rss)
 
 ### RSS2Podcast / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
@@ -330,7 +330,7 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-auto-mpa-html (⭐6)](https://github.com/iamspark1e/vite-plugin-auto-mpa-html) - A file directory-based automated multi-page build plugin that supports HTML templates using EJS.
+*   [vite-plugin-auto-mpa-html (⭐9)](https://github.com/iamspark1e/vite-plugin-auto-mpa-html) - A file directory-based automated multi-page build plugin that supports HTML templates using EJS.
 
 ### Vue / Helpers
 
@@ -340,7 +340,7 @@
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [bira (⭐0)](https://github.com/zimfw/bira) - Fork of Oh-My-ZSH [bira (⭐172k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/bira.zsh-theme) theme. Includes decorators for working directory, username\@host, `git` status information, Python [venv](https://docs.python.org/3/library/venv.html) and a status code when the last command had an error.
+*   [bira (⭐1)](https://github.com/zimfw/bira) - Fork of Oh-My-ZSH [bira (⭐175k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/bira.zsh-theme) theme. Includes decorators for working directory, username\@host, `git` status information, Python [venv](https://docs.python.org/3/library/venv.html) and a status code when the last command had an error.
 *   [nostalgia (⭐0)](https://github.com/skippyr/nostalgia) - Minimalist theme inspired by Windows CMD prompt. Includes decorators for user\@hostname, `git` status, current directory and python virtualenv.
 
 ## [18. Awesome Rails](/content/gramantin/awesome-rails/README.md)

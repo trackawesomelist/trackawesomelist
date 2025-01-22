@@ -14,22 +14,22 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-svg-spritemap (⭐35)](https://github.com/g-makarov/vite-plugin-svg-spritemap) - Generates a SVG spritemap from multiple .svg files.
+*   [vite-plugin-svg-spritemap (⭐50)](https://github.com/g-makarov/vite-plugin-svg-spritemap) - Generates a SVG spritemap from multiple .svg files.
 
 ## [2. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Search / Diagnostics
 
-*   [AckslD/muren.nvim (⭐358)](https://github.com/AckslD/muren.nvim/) - Multiple replacements through interactive UI.
+*   [AckslD/muren.nvim (⭐360)](https://github.com/AckslD/muren.nvim/) - Multiple replacements through interactive UI.
 
 ### Indent / Diagnostics
 
-*   [nvimdev/indentmini.nvim (⭐160)](https://github.com/nvimdev/indentmini.nvim) - A minimal and blazing fast indentline plugin by using nvim\_set\_decoration\_provide api.
+*   [nvimdev/indentmini.nvim (⭐220)](https://github.com/nvimdev/indentmini.nvim) - A minimal and blazing fast indentline plugin by using nvim\_set\_decoration\_provide API.
 
 ### Workflow / Diagnostics
 
-*   [m4xshen/hardtime.nvim (⭐1.3k)](https://github.com/m4xshen/hardtime.nvim) - Helping you establish good command workflow and habit.
-*   [antonk52/bad-practices.nvim (⭐89)](https://github.com/antonk52/bad-practices.nvim) - Helping you give up bad practices in Vim.
+*   [m4xshen/hardtime.nvim (⭐1.7k)](https://github.com/m4xshen/hardtime.nvim) - Helping you establish good command workflow and habit.
+*   [antonk52/bad-practices.nvim (⭐106)](https://github.com/antonk52/bad-practices.nvim) - Helping you give up bad practices in Vim.
 
 ## [3. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/README.md)
 
@@ -60,7 +60,7 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [lazy-load (⭐2)](https://github.com/goarano/zsh-lazy-load) - Lazy load tab completions only when you actually need them.
+*   [lazy-load (⭐3)](https://github.com/goarano/zsh-lazy-load) - Lazy load tab completions only when you actually need them.
 *   [oh-my-tmux-manager](https://github.com/unixorn/awesome-zsh-plugins/blob/main/README.md/omt-manager) - Lets you easily manage your tmux configurations.
 *   [pipe (⭐0)](https://github.com/pipe-felipe/zsh-pipe-plugin) - Includes `docker` and package-related scripts.
 

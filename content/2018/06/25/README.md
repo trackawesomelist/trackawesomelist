@@ -26,16 +26,16 @@
 
 ### Image / Backend-Driven
 
-*   [SVG (⭐1.6k)](https://github.com/dnfield/flutter_svg) <!--stargazers:dnfield/flutter_svg--> - SVG parsing, rendering, and widget library by [Dan Field](https://github.com/dnfield)
+*   [SVG (⭐1.7k)](https://github.com/dnfield/flutter_svg) <!--stargazers:dnfield/flutter_svg--> - SVG parsing, rendering, and widget library by [Dan Field](https://github.com/dnfield)
 
 ### Auth / Image Picker
 
-*   [Login (⭐710)](https://github.com/AppleEducate/flutter_login) <!--stargazers:AppleEducate/flutter_login--> - FaceID, TouchID, and Fingerprint Reader by [Rody Davis](http://appleeducate.com)
-*   [OAuth (⭐176)](https://github.com/hitherejoe/FlutterOAuth) <!--stargazers:hitherejoe/FlutterOAuth--> - Buffer, Strava, Unsplash, Github OAuth by [Joe Birch](http://www.hitherejoe.com)
+*   [Login (⭐713)](https://github.com/AppleEducate/flutter_login) <!--stargazers:AppleEducate/flutter_login--> - FaceID, TouchID, and Fingerprint Reader by [Rody Davis](http://appleeducate.com)
+*   [OAuth (⭐178)](https://github.com/hitherejoe/FlutterOAuth) <!--stargazers:hitherejoe/FlutterOAuth--> - Buffer, Strava, Unsplash, Github OAuth by [Joe Birch](http://www.hitherejoe.com)
 
 ### Templates / Preferences
 
-*   [Mates (⭐581)](https://github.com/CodemateLtd/FlutterMates) <!--stargazers:CodemateLtd/FlutterMates--> - How to load profiles from the randomuser.me API and a nice profile details page by [Iiro Krankka](https://github.com/roughike)
+*   [Mates (⭐592)](https://github.com/CodemateLtd/FlutterMates) <!--stargazers:CodemateLtd/FlutterMates--> - How to load profiles from the randomuser.me API and a nice profile details page by [Iiro Krankka](https://github.com/roughike)
 *   [UI Kit (⭐6.2k)](https://github.com/iampawan/Flutter-UI-Kit) <!--stargazers:iampawan/Flutter-UI-Kit--> - Collection of useful UIs in a UIKit by [Pawan Kumar](https://github.com/iampawan)
 
 ### Device / Augmented Reality
@@ -48,7 +48,7 @@
 
 ### Top / Game Engine resources
 
-*   [Planets (⭐756)](https://github.com/sergiandreplace/flutter_planets_tutorial) <!--stargazers:sergiandreplace/flutter_planets_tutorial--> - Planet exploration that demonstrate rich UI by [Sergi Martínez](http://sergiandreplace.com)
+*   [Planets (⭐754)](https://github.com/sergiandreplace/flutter_planets_tutorial) <!--stargazers:sergiandreplace/flutter_planets_tutorial--> - Planet exploration that demonstrate rich UI by [Sergi Martínez](http://sergiandreplace.com)
 
 ### Utilities / Game Engine resources
 
@@ -58,13 +58,13 @@
 
 ### Modules
 
-*   [YCM (⭐43)](https://github.com/robotology/ycm) - Extra CMake Modules for [Yet Another Robot Platform (⭐442)](https://github.com/robotology/yarp) and friends. [`[BSD3]`](https://opensource.org/licenses/BSD-3-Clause)
+*   [YCM (⭐50)](https://github.com/robotology/ycm) - Extra CMake Modules for [Yet Another Robot Platform (⭐516)](https://github.com/robotology/yarp) and friends. [`[BSD3]`](https://opensource.org/licenses/BSD-3-Clause)
 
 ## [5. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
 
 ### Development Tools
 
-*   [Vert.x health check (⭐13)](https://github.com/vert-x3/vertx-health-check) - Allows for remote health checking in Vert.x projects.
+*   [Vert.x health check (⭐14)](https://github.com/vert-x3/vertx-health-check) - Allows for remote health checking in Vert.x projects.
 
 ## [6. Awesome Maintainers](/content/nayafia/awesome-maintainers/README.md)
 
@@ -82,7 +82,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [mlens (⭐841)](https://github.com/flennerhag/mlens) - A high performance, memory efficient, maximally parallelized ensemble learning, integrated with scikit-learn.
+*   [mlens (⭐849)](https://github.com/flennerhag/mlens) - A high performance, memory efficient, maximally parallelized ensemble learning, integrated with scikit-learn.
 
 ## [8. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/README.md)
 
@@ -100,12 +100,7 @@
 
 ### Applications and Platforms / Media Consumption
 
-*   [PhotoStats](http://www.photostats.io/) - Photo tracking with visualizations, analytics and auto-tagging using machine learning (iOS, Android).
 *   [WordCounter](https://wordcounterapp.com/) - Word count tracker for writers (Mac).
-
-### Applications and Platforms / Sleep
-
-*   [AutoSleep](http://autosleep.tantsissa.com/) - Automatically tracks your sleep via your Apple Watch (iOS).
 
 ## [11. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
 

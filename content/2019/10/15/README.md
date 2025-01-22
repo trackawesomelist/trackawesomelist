@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 15, 2019
 
-20 awesome lists updated today.
+19 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -59,7 +59,7 @@
 
 ### Introspection / Text-Based User Interfaces
 
-*   [ClassGraph (⭐2.7k)](https://github.com/classgraph/classgraph) - ClassGraph (formerly FastClasspathScanner) is an uber-fast, ultra-lightweight, parallelized classpath scanner and module scanner for Java, Scala, Kotlin and other JVM languages.
+*   [ClassGraph (⭐2.8k)](https://github.com/classgraph/classgraph) - ClassGraph (formerly FastClasspathScanner) is an uber-fast, ultra-lightweight, parallelized classpath scanner and module scanner for Java, Scala, Kotlin and other JVM languages.
 *   [ReflectASM (⭐1.5k)](https://github.com/EsotericSoftware/reflectasm) - ReflectASM is a very small Java library that provides high performance reflection by using code generation.
 *   [Reflections (⭐4.7k)](https://github.com/ronmamo/reflections) - Reflections scans your classpath, indexes the metadata, allows you to query it on runtime and may save and collect that information for many modules within your project.
 
@@ -68,7 +68,7 @@
 ### Official Resources
 
 *   [Apache JMeter Project](https://jmeter.apache.org/) - Apache JMeter official website.
-*   [GitHub Repository (⭐7.8k)](https://github.com/apache/jmeter) - Apache JMeter source code repository.
+*   [GitHub Repository (⭐8.5k)](https://github.com/apache/jmeter) - Apache JMeter source code repository.
 *   [JMeter Wiki](https://cwiki.apache.org/confluence/display/jmeter) - Apache JMeter official documentation.
 *   [Issue Tracking](https://jmeter.apache.org/issues.html) - Apache JMeter issue tracking system.
 
@@ -124,19 +124,13 @@
 *   [Oleh Krehel](https://github.com/users/abo-abo/sponsorship) - GNU Emacs plugins, maintainer of Ivy/Swiper/Counsel, Hydra, Avy, Lispy, and more.
 *   [Pedro Piñera](https://github.com/users/pepibumur/sponsorship) - Tuist and XcodeProj libraries, articles.
 
-## [12. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
-
-### Articles & Posts
-
-*   [Currents: The Remote Developer Experience (July 2019)](https://blog.digitalocean.com/currents-july2019/)
-
-## [13. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [12. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### CLI
 
-*   [Lyra (⭐471)](https://github.com/bfgroup/Lyra) - A simple to use, composable, command line parser for C++ 11 and beyond. \[Boost]
+*   [Lyra (⭐497)](https://github.com/bfgroup/Lyra) - A simple to use, composable, command line parser for C++ 11 and beyond. \[Boost]
 
-## [14. Awesome Creative Tech Events](/content/danvoyce/awesome-creative-tech-events/README.md)
+## [13. Awesome Creative Tech Events](/content/danvoyce/awesome-creative-tech-events/README.md)
 
 ### UK / London
 
@@ -150,7 +144,7 @@
 
 *   [Creative Coding Stockholm](https://www.meetup.com/Creative-Coding-Stockholm/) - Meetup group for anyone interested in creating art using programming languages.
 
-## [15. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
+## [14. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
 
 ### Competition / Other
 
@@ -160,7 +154,7 @@
 
 *   [ebowla (⭐717)](https://github.com/Genetic-Malware/Ebowla) - Framework for Making Environmental Keyed Payloads
 
-## [16. Public Apis](/content/public-apis/public-apis/README.md)
+## [15. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Dictionaries
 
@@ -190,25 +184,25 @@
 
 
 
-## [17. Awesome Math](/content/rossant/awesome-math/README.md)
+## [16. Awesome Math](/content/rossant/awesome-math/README.md)
 
 ### Foundations of Mathematics / Type Theory
 
 *   📝 [Type Theory and Functional Programming](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/) - Simon Thompson
 
-## [18. Awesome D3](/content/wbkd/awesome-d3/README.md)
+## [17. Awesome D3](/content/wbkd/awesome-d3/README.md)
 
 ### Charts / Third Party
 
 *   [v-chart-plugin (⭐198)](https://github.com/ignoreintuition/v-chart-plugin) - Easily bind a chart to the data stored in your Vue.js components.
 
-## [19. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
+## [18. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
 ### In Portuguese
 
 *   [Chama o Suporte](https://open.spotify.com/show/5NR3iBbF3aRUP2gEDRzjGo) - Podcast do grupo Guardians do curso de Ciência da Computação da Universidade Federal de Campina Grande.
 
-## [20. Awesome Ctf](/content/apsdehal/awesome-ctf/README.md)
+## [19. Awesome Ctf](/content/apsdehal/awesome-ctf/README.md)
 
 ### Forensics
 

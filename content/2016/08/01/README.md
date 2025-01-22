@@ -30,7 +30,7 @@
 
 ### Transition / Barcode
 
-*   [RevealingSplashView (⭐1.3k)](https://github.com/PiXeL16/RevealingSplashView) - A Splash view that animates and reveals its content, inspired by the Twitter splash.
+*   [RevealingSplashView (⭐1.2k)](https://github.com/PiXeL16/RevealingSplashView) - A Splash view that animates and reveals its content, inspired by the Twitter splash.
 
 ## [4. Awesome Android](/content/JStumpp/awesome-android/README.md)
 

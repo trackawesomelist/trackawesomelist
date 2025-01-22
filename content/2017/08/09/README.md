@@ -66,7 +66,7 @@
 
 ### Other Useful Repositories
 
-- Repository: [Lockpicking (⭐1.4k)](https://github.com/meitar/awesome-lockpicking)
+- Repository: [Lockpicking (⭐1.5k)](https://github.com/meitar/awesome-lockpicking)
 
   Description: Resources relating to the security and compromise of locks, safes, and keys.
 

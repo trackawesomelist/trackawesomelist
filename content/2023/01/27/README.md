@@ -16,7 +16,7 @@
 
 ### Projects
 
-*   [hurlurl (⭐54)](https://github.com/lucasmerlin/hurlurl) - A randomizing link shortener, [Live Demo](https://hurlurl.com/).
+*   [hurlurl (⭐65)](https://github.com/lucasmerlin/hurlurl) - A randomizing link shortener, [Live Demo](https://hurlurl.com/).
 
 ### Crates / Component Libraries
 
@@ -49,7 +49,7 @@
 
 ### Contents / Media
 
-*   [TMDBM (⭐10)](https://github.com/88srzh/comics_db) - The Movie Database Mobile is a popular database for movies and TV shows by [srzh](https://github.com/88srzh)
+*   [TMDBM (⭐13)](https://github.com/88srzh/comics_db) - The Movie Database Mobile is a popular database for movies and TV shows by [srzh](https://github.com/88srzh)
 
 ## [5. Awesome Stacks](/content/stackshareio/awesome-stacks/README.md)
 
@@ -79,13 +79,12 @@
 
 ### Software / E-commerce
 
-*   [Magento Open Source (⭐11k)](https://github.com/magento/magento2) - Leading provider of open omnichannel innovation. `OSL-3.0` `PHP`
-*   [Open Source POS (⭐3.4k)](https://github.com/opensourcepos/opensourcepos) - Open Source Point of Sale is a web based point of sale system. `MIT` `PHP`
-*   [OXID eShop](https://oxidforge.org/en/) - OXID eShop is a flexible open source e-commerce software with a wide range of functionalities. ([Source Code (⭐236)](https://github.com/OXID-eSales/oxideshop_ce)) `GPL-3.0` `PHP`
+*   [Magento Open Source (⭐12k)](https://github.com/magento/magento2) - Leading provider of open omnichannel innovation. `OSL-3.0` `PHP`
+*   [Open Source POS (⭐3.5k)](https://github.com/opensourcepos/opensourcepos) - Open Source Point of Sale is a web based point of sale system. `MIT` `PHP`
 
 ### Software / Feed Readers
 
-*   [Kriss Feed (⭐281)](https://github.com/tontof/kriss_feed) - Simple and smart (or stupid) feed reader. `CC0-1.0` `PHP`
+*   [Kriss Feed (⭐282)](https://github.com/tontof/kriss_feed) - Simple and smart (or stupid) feed reader. `CC0-1.0` `PHP`
 
 ## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -103,9 +102,9 @@
 
 ## [9. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
-### Plugins and scripts / Godot 3.2+
+### Plugins and scripts / Godot 3
 
-*   [Wwise (⭐271)](https://github.com/alessandrofama/wwise-godot-integration) - Wwise audio middleware integration.
+*   [Wwise (⭐307)](https://github.com/alessandrofama/wwise-godot-integration) - Wwise audio middleware integration.
 
 ## [10. Magictools](/content/ellisonleao/magictools/README.md)
 
@@ -115,7 +114,7 @@
 
 ### Engines and Frameworks / Voxel Editors
 
-*   :tada: [6502 Unit Test executor (⭐8)](https://github.com/AsaiYusuke/6502_test_executor) - A cross-platform unit testing tool for MOS 6502 assembly. (i.e. NES)
+*   :tada: [6502 Unit Test executor (⭐9)](https://github.com/AsaiYusuke/6502_test_executor) - A cross-platform unit testing tool for MOS 6502 assembly. (i.e. NES)
 
 ## [11. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 

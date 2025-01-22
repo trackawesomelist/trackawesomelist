@@ -266,7 +266,7 @@
 
 ### Contents / Utilities
 
-*   [ldap2pg (⭐200)](https://github.com/dalibo/ldap2pg) - Synchronize roles and privileges from YML and LDAP.
+*   [ldap2pg (⭐206)](https://github.com/dalibo/ldap2pg) - Synchronize roles and privileges from YML and LDAP.
 
 ## [17. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
@@ -317,13 +317,7 @@
 *   [Stephen Colebourne](https://twitter.com/jodastephen) - Java Champion. Occasional blogger and speaker. Best known for Joda projects and JSR-310.
 *   [Vladimir Ivanov](https://twitter.com/iwan0www) - hacking HotSpot JVM @ Oracle.
 
-## [20. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
-
-### Application Frameworks
-
-*   [CoreFX (⭐18k)](https://github.com/dotnet/corefx) -  The corefx repo contains the library implementation (called "CoreFX") for .NET Core. It includes System.Collections, System.IO, System.Xml and many other components.
-
-## [21. Awesome Vapor](/content/vapor-community/awesome-vapor/week/README.md)
+## [20. Awesome Vapor](/content/vapor-community/awesome-vapor/week/README.md)
 
 ### Libraries
 
@@ -333,23 +327,33 @@
 
 *   [VaporNation](http://vapornation.news) – Weekly Vapor newsletter with all things Vapor.
 
-## [22. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [21. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Individuals/Group Contributors / K individuals
 
 *   Kai Hendry <https://hendry.iki.fi/>
 
-## [23. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [22. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### OS Images
 
 *   [Rocket Show](https://rocketshow.net) - Play synced backing tracks, videos and DMX light-sequences live on stage. ![Supports Raspberry Pi 3](https://github.com/thibmaek/awesome-raspberry-pi/raw/main/media/badges/rpi-3.png)
 
-## [24. Awesome Irc](/content/davisonio/awesome-irc/week/README.md)
+## [23. Awesome Irc](/content/davisonio/awesome-irc/week/README.md)
 
 ### Frameworks / Self-hosted
 
 *   [node-irc (⭐43)](https://github.com/Throne3d/node-irc) `JavaScript`
+
+## [24. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+
+### Media
+
+*   [Xabe.FFmpeg (⭐721)](https://github.com/tomaszzmuda/Xabe.FFmpeg) - .NET Standard wrapper for FFmpeg. It allows to process media without know how FFmpeg works, and can be used to pass customized arguments to FFmpeg from C# application. **\[$]**
+
+### Application Frameworks
+
+*   [CoreFX (⭐18k)](https://github.com/dotnet/corefx) -  The corefx repo contains the library implementation (called "CoreFX") for .NET Core. It includes System.Collections, System.IO, System.Xml and many other components.
 
 ## [25. Tips](/content/git-tips/tips/week/README.md)
 
@@ -368,8 +372,8 @@ git rebase --onto <new_base> <old_base>
 
 ### Plasma desktop / Themes
 
-*   [Adapta KDE (⭐464)](https://github.com/PapirusDevelopmentTeam/adapta-kde) - A port of the popular GTK theme Adapta for Plasma 5 desktop with a few additions and extras.
-*   [Arc KDE (⭐899)](https://github.com/PapirusDevelopmentTeam/arc-kde) - A port of the popular GTK theme Arc for Plasma 5 desktop with a few additions and extras.
+*   [Adapta KDE (⭐465)](https://github.com/PapirusDevelopmentTeam/adapta-kde) - A port of the popular GTK theme Adapta for Plasma 5 desktop with a few additions and extras.
+*   [Arc KDE (⭐914)](https://github.com/PapirusDevelopmentTeam/arc-kde) - A port of the popular GTK theme Arc for Plasma 5 desktop with a few additions and extras.
 
 ## [28. Awesome Katas](/content/gamontal/awesome-katas/week/README.md)
 
@@ -409,7 +413,7 @@ git rebase --onto <new_base> <old_base>
 
 ### Apps / Security
 
-*   [wagtail-2fa (⭐84)](https://github.com/labd/wagtail-2fa) - Add two-factor authentication to Wagtail by integrating it with django-otp.
+*   [wagtail-2fa (⭐85)](https://github.com/labd/wagtail-2fa) - Add two-factor authentication to Wagtail by integrating it with django-otp.
 
 ### Resources / Articles
 
@@ -543,7 +547,7 @@ git rebase --onto <new_base> <old_base>
 
 ### Development tools / Web Servers
 
-*   [ptags (⭐122)](https://github.com/dalance/ptags) - A parallel universal-ctags wrapper for git repository
+*   [ptags (⭐127)](https://github.com/dalance/ptags) - A parallel universal-ctags wrapper for git repository
 
 ## [43. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
@@ -559,7 +563,7 @@ git rebase --onto <new_base> <old_base>
 
 ### Tutorials
 
-*   [TensorFlow Tutorial 3 (⭐9.2k)](https://github.com/Hvass-Labs/TensorFlow-Tutorials) - These tutorials are intended for beginners in Deep Learning and TensorFlow with well-documented code and YouTube videos.
+*   [TensorFlow Tutorial 3 (⭐9.3k)](https://github.com/Hvass-Labs/TensorFlow-Tutorials) - These tutorials are intended for beginners in Deep Learning and TensorFlow with well-documented code and YouTube videos.
 
 ### Models/Projects
 
@@ -608,11 +612,6 @@ git rebase --onto <new_base> <old_base>
 
 ## [48. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
-### Frameworks, Libraries and Tools / Misc
-
-*   [Xabe.FFmpeg (⭐706)](https://github.com/tomaszzmuda/Xabe.FFmpeg) - .NET Standard wrapper for FFmpeg. It allows to process media without know how FFmpeg works, and can be used to pass customized arguments to FFmpeg from C# application.
-*   [DinkToPdf (⭐1.1k)](https://github.com/rdvojmoc/DinkToPdf) - C# .NET Core wrapper for wkhtmltopdf library that uses Webkit engine to convert HTML pages to PDF.
-
 ### Frameworks, Libraries and Tools / API
 
 *   [AspNetCoreRateLimit (⭐3.1k)](https://github.com/stefanprodan/AspNetCoreRateLimit) - ASP.NET Core rate limiting middleware.
@@ -620,6 +619,10 @@ git rebase --onto <new_base> <old_base>
 ### Frameworks, Libraries and Tools / Machine Learning and Data Science
 
 *   [TensorFlowSharp (⭐3.1k)](https://github.com/migueldeicaza/TensorFlowSharp) - TensorFlow API for .NET languages.
+
+### Frameworks, Libraries and Tools / Misc
+
+*   [DinkToPdf (⭐1.1k)](https://github.com/rdvojmoc/DinkToPdf) - C# .NET Core wrapper for wkhtmltopdf library that uses Webkit engine to convert HTML pages to PDF.
 
 ### Frameworks, Libraries and Tools / SDKs
 
@@ -645,7 +648,7 @@ git rebase --onto <new_base> <old_base>
 
 ### CMS
 
-*   [Fae (⭐846)](https://github.com/wearefine/fae) - Flexible, open source, Rails CMS engine.
+*   [Fae (⭐849)](https://github.com/wearefine/fae) - Flexible, open source, Rails CMS engine.
 
 ---
 

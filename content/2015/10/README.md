@@ -150,7 +150,7 @@
 
 ### Text and Numbers
 
-*   [chinese\_translation (⭐89)](https://github.com/tyrchen/chinese_translation) - Translate between traditional chinese and simplified chinese based on wikipedia data, and translate chinese words/characters to pinyin (or slug with or without tone).
+*   [chinese\_translation (⭐90)](https://github.com/tyrchen/chinese_translation) - Translate between traditional chinese and simplified chinese based on wikipedia data, and translate chinese words/characters to pinyin (or slug with or without tone).
 
 ## [13. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
@@ -175,7 +175,7 @@
 
 ### Web Servers
 
-*   [XSP (⭐194)](https://github.com/mono/xsp) - Mono's ASP.NET hosting server. This module includes an Apache Module, a FastCGI module that can be hooked to other web servers as well as a standalone server used for testing (similar to Microsoft's Cassini)
+*   [XSP (⭐196)](https://github.com/mono/xsp) - Mono's ASP.NET hosting server. This module includes an Apache Module, a FastCGI module that can be hooked to other web servers as well as a standalone server used for testing (similar to Microsoft's Cassini)
 
 ## [17. Scalable Css Reading List](/content/davidtheclark/scalable-css-reading-list/week/README.md)
 
@@ -209,11 +209,11 @@
 
 ### Inter-process communication
 
-*   [gRPC (⭐41k)](https://github.com/grpc/grpc) - A high performance, open source, general-purpose RPC framework. \[BSD] [website](http://www.grpc.io/)
+*   [gRPC (⭐42k)](https://github.com/grpc/grpc) - A high performance, open source, general-purpose RPC framework. \[BSD] [website](http://www.grpc.io/)
 
 ### Compiler
 
-*   [8cc (⭐6.1k)](https://github.com/rui314/8cc) - A Small C Compiler.
+*   [8cc (⭐6.2k)](https://github.com/rui314/8cc) - A Small C Compiler.
 *   [c (⭐2.1k)](https://github.com/ryanmjacobs/c) - Compile and execute C "scripts" in one go! \[MIT]
 
 ## [20. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
@@ -230,7 +230,7 @@
 
 ### Date and Time Processing
 
-*   [biz (⭐488)](https://github.com/zendesk/biz) - Time calculations using business hours.
+*   [biz (⭐491)](https://github.com/zendesk/biz) - Time calculations using business hours.
 
 ## [22. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
 

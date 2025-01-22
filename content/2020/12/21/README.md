@@ -33,13 +33,13 @@
 
 ### Tools and session management
 
-*   [smug (⭐676)](https://github.com/ivaaaan/smug) A session manager for tmux written in Go
+*   [smug (⭐719)](https://github.com/ivaaaan/smug) A session manager for tmux written in Go
 
 ## [4. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
 ### Utils / Other Tools
 
-*   [Prometheus FastAPI Instrumentator (⭐899)](https://github.com/trallnag/prometheus-fastapi-instrumentator) - A configurable and modular Prometheus Instrumentator for your FastAPI application.
+*   [Prometheus FastAPI Instrumentator (⭐1k)](https://github.com/trallnag/prometheus-fastapi-instrumentator) - A configurable and modular Prometheus Instrumentator for your FastAPI application.
 
 ## [5. Awesome Cdk](/content/kalaiser/awesome-cdk/README.md)
 
@@ -61,7 +61,7 @@
 
 ### Desktop / Game Engine resources
 
-*   [Raspberry Pi Embedder (⭐1.5k)](https://github.com/ardera/flutter-pi) <!--stargazers:ardera/flutter-pi--> - Light-weight Embedder for Raspberry Pi by [Hannes Winkler](https://github.com/ardera)
+*   [Raspberry Pi Embedder (⭐1.6k)](https://github.com/ardera/flutter-pi) <!--stargazers:ardera/flutter-pi--> - Light-weight Embedder for Raspberry Pi by [Hannes Winkler](https://github.com/ardera)
 
 ## [8. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 
@@ -85,9 +85,9 @@
 ### Libraries
 
 *   [Point Cloud Library (PCL)](http://www.pointclouds.org/) - Popular highly parallel programming library, with numerous industrial and research use-cases.
-    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐9.7k)](https://github.com/PointCloudLibrary/pcl) ![](https://img.shields.io/badge/ROS-2-34aec5?style=flat-square\&logo=ros)
+    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐10k)](https://github.com/PointCloudLibrary/pcl) ![](https://img.shields.io/badge/ROS-2-34aec5?style=flat-square\&logo=ros)
 *   [PyTorch3d](https://pytorch3d.org/) - PyTorch3d is a library for deep learning with 3D data written and maintained by the Facebook AI Research Computer Vision Team.
-    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐8.5k)](https://github.com/facebookresearch/pytorch3d)
+    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐9k)](https://github.com/facebookresearch/pytorch3d)
 *   [pyntcloud](https://pyntcloud.readthedocs.io/en/latest/) - Pyntcloud is a Python 3 library for working with 3D point clouds leveraging the power of the Python scientific stack.
     *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐1.4k)](https://github.com/daavoo/pyntcloud)
 
@@ -108,7 +108,7 @@
 *   [CoppeliaSim](https://www.coppeliarobotics.com/coppeliaSim) - Cross-platform general-purpose robotic simulator (formerly known as V-REP).
     *   [YouTube channel ![](https://img.shields.io/badge/youtube-red?style=flat-square\&logo=youtube)](https://www.youtube.com/user/VirtualRobotPlatform)
 *   [CARLA](https://carla.org/) - Unreal Engine based simulator for automotive applications. Compatible with Autoware, Baidu Apollo and ROS/ROS 2.
-    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐11k)](https://github.com/carla-simulator/carla) ![](https://img.shields.io/badge/ROS-2-34aec5?style=flat-square\&logo=ros)
+    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐12k)](https://github.com/carla-simulator/carla) ![](https://img.shields.io/badge/ROS-2-34aec5?style=flat-square\&logo=ros)
     *   [YouTube channel ![](https://img.shields.io/badge/youtube-red?style=flat-square\&logo=youtube)](https://www.youtube.com/channel/UC1llP9ekCwt8nEJzMJBQekg)
 
 ## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
@@ -150,7 +150,7 @@
 ### Dependency Injection
 
 *   [Typhoon (⭐2.7k)](https://github.com/appsquickly/Typhoon) - Powerful dependency injection for Objective-C.
-*   [Pilgrim (⭐63)](https://github.com/appsquickly/pilgrim) - Powerful dependency injection Swift (successor to Typhoon).
+*   [Pilgrim (⭐64)](https://github.com/appsquickly/pilgrim) - Powerful dependency injection Swift (successor to Typhoon).
 
 ---
 

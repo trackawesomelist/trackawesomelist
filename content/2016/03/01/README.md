@@ -56,7 +56,7 @@
 
 ### Packages / Debugging / Profiling
 
-*   [why-is-node-running (⭐1.8k)](https://github.com/mafintosh/why-is-node-running) - Node.js is running but you don't know why?
+*   [why-is-node-running (⭐1.9k)](https://github.com/mafintosh/why-is-node-running) - Node.js is running but you don't know why?
 
 ### Packages / Command-line utilities
 
@@ -65,7 +65,7 @@
 
 ### Packages / Text
 
-*   [matcher (⭐536)](https://github.com/sindresorhus/matcher) - Simple wildcard matching.
+*   [matcher (⭐539)](https://github.com/sindresorhus/matcher) - Simple wildcard matching.
 
 ### Packages / Testing
 

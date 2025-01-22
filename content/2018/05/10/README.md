@@ -1,6 +1,6 @@
 # Awesome List Updates on May 10, 2018
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -27,21 +27,15 @@
 ### System
 
 *   [baked\_file\_system (⭐177)](https://github.com/schovi/baked_file_system) - Virtual file system implementation
-*   [hardware (⭐72)](https://github.com/crystal-community/hardware) - Get CPU, Memory and Network informations of the running OS and its processes
+*   [hardware (⭐74)](https://github.com/crystal-community/hardware) - Get CPU, Memory and Network informations of the running OS and its processes
 
 ## [4. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
 ### Tools / Communication
 
-*   [Slack](https://slack.com/) – Text, voice, and video chat system with loads of integration options including [ScreenHero](https://screenhero.com), a real-time, HD screen sharing system for collaboration in teams
+*   [Slack](https://slack.com/) – Text, voice, and video chat system with loads of integration options including [Huddles](https://slack.com/features/huddles), a real-time, HD screen sharing system for collaboration in teams
 
-## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / Utilities
-
-*   [vue-router-user-roles (⭐241)](https://github.com/anthonygore/vue-router-user-roles) - Protects routes based on user roles. Add your own authentication.
-
-## [6. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/README.md)
+## [5. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/README.md)
 
 ### Plugins / Hooks
 
@@ -51,7 +45,7 @@
 
 *   [awesome-microservices (⭐11k)](https://github.com/mfornos/awesome-microservices)
 
-## [7. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
+## [6. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
 ### Packages / Styleguides
 
@@ -60,17 +54,17 @@
 *   [Netguru Ember.js](https://github.com/netguru/ember-styleguide)
 *   [DockYard Ember.js](https://github.com/DockYard/styleguides/blob/master/engineering/ember.md)
 
-## [8. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [7. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Logging / Barcode
 
-*   [TraceLog (⭐52)](https://github.com/tonystone/tracelog) :penguin: - Dead Simple: logging the way it's meant to be!  Runs on iOS, macOS, and Linux.
+*   [TraceLog (⭐53)](https://github.com/tonystone/tracelog) :penguin: - Dead Simple: logging the way it's meant to be!  Runs on iOS, macOS, and Linux.
 
 ### Scripting / Barcode
 
-*   [Swift for Scripting (⭐285)](https://github.com/artemnovichkov/Swift-For-Scripting) - A hand-curated collection of useful and informative scripting material.
+*   [Swift for Scripting (⭐290)](https://github.com/artemnovichkov/Swift-For-Scripting) - A hand-curated collection of useful and informative scripting material.
 
-## [9. Awesome Opengl](/content/eug/awesome-opengl/README.md)
+## [8. Awesome Opengl](/content/eug/awesome-opengl/README.md)
 
 ### Debug
 
@@ -84,7 +78,7 @@
 
 *   [TheChernoProject](https://www.youtube.com/playlist?list=PLlrATfBNZ98foTJPJ_Ev03o2oq3-GGOS2) - Introduction to OpenGL in C++
 
-## [10. Awesome Vapor](/content/vapor-community/awesome-vapor/README.md)
+## [9. Awesome Vapor](/content/vapor-community/awesome-vapor/README.md)
 
 ### Libraries
 

@@ -16,7 +16,7 @@
 
 ### Code Analysis
 
-*   [ex\_check (⭐307)](https://github.com/karolsluszniak/ex_check) - One task to efficiently run all code analysis & testing tools in an Elixir project.
+*   [ex\_check (⭐314)](https://github.com/karolsluszniak/ex_check) - One task to efficiently run all code analysis & testing tools in an Elixir project.
 
 ## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
@@ -36,11 +36,11 @@
 
 ### Patterns
 
-*   [GoodReactor (⭐32)](https://github.com/GoodRequest/GoodReactor) - ⚛️ GoodReactor is a Redux-inspired Reactor framework for communication between the View Model, View Controller, and Coordinator.
+*   [GoodReactor (⭐33)](https://github.com/GoodRequest/GoodReactor) - ⚛️ GoodReactor is a Redux-inspired Reactor framework for communication between the View Model, View Controller, and Coordinator.
 
 ### Logging / Barcode
 
-*   [QorumLogs (⭐785)](https://github.com/Esqarrouth/QorumLogs) - Logging Utility for Xcode & Google Docs.
+*   [QorumLogs (⭐786)](https://github.com/Esqarrouth/QorumLogs) - Logging Utility for Xcode & Google Docs.
 
 ### Network / Barcode
 
@@ -48,15 +48,15 @@
 
 ### Keychain / Barcode
 
-*   [GoodPersistence (⭐33)](https://github.com/GoodRequest/GoodPersistence) - 💾 GoodPersistence simplifies caching data in keychain and UserDefaults. Using a property wrappers.
+*   [GoodPersistence (⭐35)](https://github.com/GoodRequest/GoodPersistence) - 💾 GoodPersistence simplifies caching data in keychain and UserDefaults. Using a property wrappers.
 
 ### HUD / Barcode
 
-*   [EZLoadingActivity (⭐608)](https://github.com/Esqarrouth/EZLoadingActivity) - Lightweight loading activity HUD.
+*   [EZLoadingActivity (⭐607)](https://github.com/Esqarrouth/EZLoadingActivity) - Lightweight loading activity HUD.
 
 ### Template / Barcode
 
-*   [Temple (⭐32)](https://github.com/GoodRequest/Temple) - 🗂️ Most advanced project and file templates.
+*   [Temple (⭐34)](https://github.com/GoodRequest/Temple) - 🗂️ Most advanced project and file templates.
 
 ### UICollectionView / Barcode
 
@@ -71,15 +71,15 @@
 
 ### Architecture Patterns
 
-*   [The Composable Architecture (⭐12k)](https://github.com/pointfreeco/swift-composable-architecture) - The Composable Architecture is a library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
+*   [The Composable Architecture (⭐13k)](https://github.com/pointfreeco/swift-composable-architecture) - The Composable Architecture is a library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
 
 ### ARKit
 
-*   [ARKit Virtual Objects (⭐369)](https://github.com/ignacio-chiazzo/ARKit) - Placing Virtual Objects in Augmented Reality.
+*   [ARKit Virtual Objects (⭐377)](https://github.com/ignacio-chiazzo/ARKit) - Placing Virtual Objects in Augmented Reality.
 
 ### Video
 
-*   [VLC for iOS (⭐1k)](https://github.com/videolan/vlc-ios) - VLC is a free and open source multimedia player for iOS.
+*   [VLC for iOS (⭐1.1k)](https://github.com/videolan/vlc-ios) - VLC is a free and open source multimedia player for iOS.
 
 ## [5. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 

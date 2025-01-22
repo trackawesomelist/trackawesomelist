@@ -10,10 +10,8 @@
 
 ### Interviewing
 
-*   [adaface.com/pair-pro](https://www.adaface.com/pair-pro) - Remote pair programming interview tool with shared editor, code compiler and video conferencing
 *   [interviewing.io](https://interviewing.io/) - Become awesome at technical interviews
 *   [karat.io](https://karat.com/) - Have a free practice coding interview with a professional interviewer
-*   [pramp](https://pramp.com) - Practice coding interviews (both sides of the table) with other candidates
 *   [remoteinterview.io](https://www.remoteinterview.io/) - Coding tests & pair programming interview tools
 *   [skillmeter.com](https://skillmeter.com/) - Online skills testing platform for recruiters & companies
 *   [hackerrank.com](https://www.hackerrank.com/) - Online platform for code studying and recruiting with job offers also
@@ -75,7 +73,7 @@
 
 ### Extensions
 
-*   [next-img (⭐272)](https://github.com/humaans/next-img/) - a plugin for embedding optimized images with ease.
+*   [next-img (⭐273)](https://github.com/humaans/next-img/) - a plugin for embedding optimized images with ease.
 
 ## [9. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
@@ -94,7 +92,7 @@
 
 ### RSS2KINDLE / Docsify
 
-*   [Kindle Ear (⭐2.7k)](https://github.com/cdhigh/KindleEar) <sup>[13](https://t.me/s/aboutrss/13), [26](https://t.me/s/aboutrss/26), [247](https://t.me/s/aboutrss/247)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/cdhigh/KindleEar)
+*   [Kindle Ear (⭐2.8k)](https://github.com/cdhigh/KindleEar) <sup>[13](https://t.me/s/aboutrss/13), [26](https://t.me/s/aboutrss/26), [247](https://t.me/s/aboutrss/247)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/cdhigh/KindleEar)
 *   [Kindle4RSS](http://kindle4rss.com/) ([中国镜像](https://inkread.com/))
 
 ### Telegram Groups / Channels / Crypto or Blockchain relevant
@@ -105,7 +103,7 @@
 
 ### Tools
 
-*   [Hardened Kernel Builder for RPi (⭐21)](https://github.com/tschaffter/raspberry-pi-kernel-hardened) - Cross-compile the Linux kernel for Raspberry Pi with enhanced security using a single command.
+*   [Hardened Kernel Builder for RPi (⭐23)](https://github.com/tschaffter/raspberry-pi-kernel-hardened) - Cross-compile the Linux kernel for Raspberry Pi with enhanced security using a single command.
 
 ---
 

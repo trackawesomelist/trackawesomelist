@@ -42,11 +42,11 @@
 
 ### Libraries/Frameworks / Multiplatform
 
-*   [L-Briand/KTM (⭐17)](https://github.com/L-Briand/KTM) - Mustache templating in kotlin multiplatform
+*   [L-Briand/KTM (⭐20)](https://github.com/L-Briand/KTM) - Mustache templating in kotlin multiplatform
 
 ### Libraries/Frameworks / Cryptography
 
-*   [appmattus/crypto (⭐83)](https://github.com/appmattus/crypto) - A collection of Kotlin Multiplatform Mobile cryptographic hashing functions.
+*   [appmattus/crypto (⭐93)](https://github.com/appmattus/crypto) - A collection of Kotlin Multiplatform Mobile cryptographic hashing functions.
 
 ## [3. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
@@ -58,7 +58,7 @@
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [vite-plugin-imagemin (⭐17)](https://github.com/vHeemstra/vite-plugin-imagemin) - Optimize and compress your image assets and optionally create WebP/AVIF.
+*   [vite-plugin-imagemin (⭐23)](https://github.com/vHeemstra/vite-plugin-imagemin) - Optimize and compress your image assets and optionally create WebP/AVIF.
 
 ## [5. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
 

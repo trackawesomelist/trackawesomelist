@@ -17,7 +17,7 @@
 
 ### Awesome Repositories
 
-- Repository: [Industrial Control System Security (⭐1.6k)](https://github.com/hslatman/awesome-industrial-control-system-security)
+- Repository: [Industrial Control System Security (⭐1.7k)](https://github.com/hslatman/awesome-industrial-control-system-security)
 
   Description: List of resources related to Industrial Control System (ICS) security
 
@@ -27,7 +27,7 @@
 
 ### State Machines
 
-*   [state\_machines (⭐813)](https://github.com/state-machines/state_machines) - Adds support for creating state machines for attributes on any Ruby class.
+*   [state\_machines (⭐822)](https://github.com/state-machines/state_machines) - Adds support for creating state machines for attributes on any Ruby class.
 
 ## [4. Awesome Security](/content/sbilly/awesome-security/README.md)
 
@@ -39,11 +39,11 @@
 
 ### Vert.x Event Bus Clients
 
-*   [Java (⭐118)](https://github.com/nielsbaloe/vertxui/tree/master/vertxui-core/src/main/java/live/connector/vertxui/client/transport) - Event bus support in JavaScript through Java code.
+*   [Java (⭐120)](https://github.com/nielsbaloe/vertxui/tree/master/vertxui-core/src/main/java/live/connector/vertxui/client/transport) - Event bus support in JavaScript through Java code.
 
 ### Front-End
 
-*   [VertxUI (⭐118)](https://github.com/nielsbaloe/vertxui) - A pure Java front-end toolkit with descriptive fluent views-on-models, POJO traffic, JUnit testing on the virtual DOM or mixed-language on a real DOM, and more.
+*   [VertxUI (⭐120)](https://github.com/nielsbaloe/vertxui) - A pure Java front-end toolkit with descriptive fluent views-on-models, POJO traffic, JUnit testing on the virtual DOM or mixed-language on a real DOM, and more.
 
 ## [6. Awesome Deep Learning Papers](/content/terryum/awesome-deep-learning-papers/README.md)
 
@@ -82,13 +82,12 @@
 ### ASM / Timings
 
 *   [Nitty Gritty Gameboy Cycle Timing](http://blog.kevtris.org/blogfiles/Nitty%20Gritty%20Gameboy%20VRAM%20Timing.txt)
-*   [Mode3 Sprite Timing](https://www.reddit.com/r/EmuDev/comments/59pawp/gb_mode3_sprite_timing/)
 *   [GameBoy Color DMA-Transfers v0.0.1](http://gameboy.mongenel.com/dmg/gbc_dma_transfers.txt)
 *   [STAT interrupt timings](http://gameboy.mongenel.com/dmg/istat98.txt)
 
 ### Related projects / Syntax highlighting packages
 
-*   [ArduinoGameBoy (⭐138)](https://github.com/drhelius/arduinogameboy) - Arduino based Game Boy cartridge reader and writer.
+*   [ArduinoGameBoy (⭐156)](https://github.com/drhelius/arduinogameboy) - Arduino based Game Boy cartridge reader and writer.
 
 ## [11. Awesome Webgl](/content/sjfricke/awesome-webgl/README.md)
 

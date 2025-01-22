@@ -10,7 +10,7 @@
 
 ### GTFS Validators / Ruby
 
-*   [GTFS Data Package Specification (⭐18)](https://github.com/Stephen-Gates/GTFS) - A [Data Package specification](http://specs.frictionlessdata.io/data-packages/) with validation accomplished with [Good Tables](http://goodtables.okfnlabs.org/). Includes a data package, schemas, tests, and uses South East Queensland GTFS data as an example.
+*   [GTFS Data Package Specification (⭐18)](https://github.com/Stephen-Gates/GTFS) - A Data Package specification with validation accomplished with Good Tables. Includes a data package, schemas, tests, and uses South East Queensland GTFS data as an example.
 
 ## [2. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
 
@@ -91,7 +91,7 @@
 
 ### Awesome Repositories
 
-- Repository: [Red Teaming (⭐6.8k)](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming)
+- Repository: [Red Teaming (⭐7k)](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming)
 
   Description: List of Awesome Red Team / Red Teaming Resources
 
@@ -113,7 +113,7 @@
 
 ### Augmented Reality
 
-*   [ARKit-Navigation (⭐322)](https://github.com/chriswebb09/ARKitNavigationDemo) - Navigation in augmented reality with MapKit.
+*   [ARKit-Navigation (⭐324)](https://github.com/chriswebb09/ARKitNavigationDemo) - Navigation in augmented reality with MapKit.
 
 ## [12. Awesome Ssh](/content/moul/awesome-ssh/README.md)
 

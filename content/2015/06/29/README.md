@@ -29,7 +29,7 @@
 
 ### Queue
 
-*   [Rebus (⭐2.3k)](https://github.com/rebus-org/Rebus) - Rebus is a lean service bus implementation for .NET, similar in nature to NServiceBus and MassTransit, only leaner
+*   [Rebus (⭐2.4k)](https://github.com/rebus-org/Rebus) - Rebus is a lean service bus implementation for .NET, similar in nature to NServiceBus and MassTransit, only leaner
 
 ## [3. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
@@ -41,7 +41,7 @@
 
 ### Go / Symfony2
 
-*   [gocrud (⭐305)](https://github.com/manishrjain/gocrud): Go library to simplify creating, updating and deleting arbitrary depth structured data — to make building REST services fast and easy.
+*   [gocrud (⭐306)](https://github.com/manishrjain/gocrud): Go library to simplify creating, updating and deleting arbitrary depth structured data — to make building REST services fast and easy.
 
 ## [5. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 

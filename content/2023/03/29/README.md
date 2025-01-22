@@ -10,7 +10,7 @@
 
 ### Resources / Blog posts
 
-*   [Replacing Pandas with Polars. A Practical Guide](https://www.confessionsofadataguy.com/replacing-pandas-with-polars-a-practical-guide) - A blog post comparing some common functions between Pandas and Polars by [@danielbeach](https://github.com/danielbeach). Code used is available on Github [here (⭐4)](https://github.com/danielbeach/PandasVsPolars).
+*   [Replacing Pandas with Polars. A Practical Guide](https://www.confessionsofadataguy.com/replacing-pandas-with-polars-a-practical-guide) - A blog post comparing some common functions between Pandas and Polars by [@danielbeach](https://github.com/danielbeach). Code used is available on Github [here (⭐5)](https://github.com/danielbeach/PandasVsPolars).
 
 ## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -22,7 +22,7 @@
 
 ### Awesome TypeScript Essential Resources
 
-*   :octocat: [DefinitelyTyped/DefinitelyTyped (⭐48k)](https://github.com/DefinitelyTyped/DefinitelyTyped) the repository for high quality TypeScript type definitions maintained by Boris Yankov and thousands of contributors
+*   :octocat: [DefinitelyTyped/DefinitelyTyped (⭐49k)](https://github.com/DefinitelyTyped/DefinitelyTyped) the repository for high quality TypeScript type definitions maintained by Boris Yankov and thousands of contributors
 
 ### Mobile / Playground
 
@@ -30,13 +30,13 @@
 
 ### Web / Playground
 
-*   :octocat: [Treehouse (⭐147)](https://github.com/treehousedev/treehouse) - Open source lightweight library to build your own note-taking tool.
+*   :octocat: [Treehouse (⭐154)](https://github.com/treehousedev/treehouse) - Open source lightweight library to build your own note-taking tool.
 
 ## [4. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Database Management
 
-*   [Mathesar](https://mathesar.org/) - An intuitive UI for managing data collaboratively, for users of all technical skill levels. Built on Postgres – connect an existing DB or set up a new one. ([Demo](https://demo.mathesar.org/), [Source Code (⭐2.3k)](https://github.com/centerofci/mathesar)) `GPL-3.0` `Docker/Python`
+*   [Mathesar](https://mathesar.org/) - An intuitive UI for managing data collaboratively, for users of all technical skill levels. Built on Postgres – connect an existing DB or set up a new one. ([Demo](https://demo.mathesar.org/), [Source Code (⭐2.5k)](https://github.com/centerofci/mathesar)) `GPL-3.0` `Docker/Python`
 
 ### Software / Self-hosting Solutions
 
@@ -63,7 +63,7 @@
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [croque (⭐7)](https://github.com/Ryooooooga/croque) - Powerline-inspired theme with decorators for OS, user\@host, `git` information, `git` username, current directory and exit status of last command.
+*   [croque (⭐9)](https://github.com/Ryooooooga/croque) - Powerline-inspired theme with decorators for OS, user\@host, `git` information, `git` username, current directory and exit status of last command.
 *   [mantis (⭐0)](https://github.com/dann254/mantis-zsh-theme) - Minimal theme with `git` status and information decorators.
 
 ---

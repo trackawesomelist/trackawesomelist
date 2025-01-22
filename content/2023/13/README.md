@@ -14,7 +14,7 @@
 
 ### Scripts / Privacy
 
-*   [Autoclear ChatGPT History (⭐40)](https://github.com/adamlui/autoclear-chatgpt-history/tree/main/greasemonkey) - Auto-clears chat history when visiting chat.openai.com for maximum privacy.
+*   [Autoclear ChatGPT History (⭐47)](https://github.com/adamlui/autoclear-chatgpt-history/tree/main/greasemonkey) - Auto-clears chat history when visiting chat.openai.com for maximum privacy.
 
 ### Tutorials / YouTube
 
@@ -43,7 +43,7 @@
 
 ### Tutorials
 
-*   📝 [Invoke Custom Java Code (⭐847)](https://github.com/nextgenhealthcare/connect/wiki/Invoke-Custom-Java-Code) - Call Java code from JavaScript Writer.
+*   📝 [Invoke Custom Java Code (⭐955)](https://github.com/nextgenhealthcare/connect/wiki/Invoke-Custom-Java-Code) - Call Java code from JavaScript Writer.
 
 ## [4. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
 
@@ -89,13 +89,13 @@
 
 ### no-std crates / WIP
 
-*   [crossbus (⭐120)](https://github.com/hominee/crossbus): A Platform-Less, Runtime-Less Actor Computing Model.
+*   [crossbus (⭐123)](https://github.com/hominee/crossbus): A Platform-Less, Runtime-Less Actor Computing Model.
 
 ## [11. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 
 ### Contents / Tools
 
-*   [Immich (⭐27k)](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone by [Alex](https://github.com/alextran1502)
+*   [Immich (⭐44k)](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone by [Alex](https://github.com/alextran1502)
 
 ## [12. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
 
@@ -113,29 +113,29 @@
 
 ### (requires Neovim 0.5)
 
-*   [SmiteshP/nvim-navbuddy (⭐756)](https://github.com/SmiteshP/nvim-navbuddy) - A simple popup display that provides breadcrumbs like navigation features using LSP.
+*   [SmiteshP/nvim-navbuddy (⭐819)](https://github.com/SmiteshP/nvim-navbuddy) - A simple popup display that provides breadcrumbs like navigation features using LSP.
 
 ### Bars and Lines / Diagnostics
 
-*   [Bekaboo/deadcolumn.nvim (⭐272)](https://github.com/Bekaboo/deadcolumn.nvim) - Shows your colorcolumn dynamically.
-*   [ecthelionvi/NeoColumn.nvim (⭐88)](https://github.com/ecthelionvi/NeoColumn.nvim) - Toggleable colorcolumn highlighting specific characters.
+*   [Bekaboo/deadcolumn.nvim (⭐313)](https://github.com/Bekaboo/deadcolumn.nvim) - Shows your colorcolumn dynamically.
+*   [ecthelionvi/NeoColumn.nvim (⭐98)](https://github.com/ecthelionvi/NeoColumn.nvim) - Toggleable colorcolumn highlighting specific characters.
 
 ### Utility / Diagnostics
 
-*   [nvim-early-retirement (⭐170)](https://github.com/chrisgrieser/nvim-early-retirement) - Send buffers into early retirement by automatically closing them after x minutes of inactivity.
+*   [nvim-early-retirement (⭐190)](https://github.com/chrisgrieser/nvim-early-retirement) - Send buffers into early retirement by automatically closing them after x minutes of inactivity.
 
 ## [15. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Tools / Community providers
 
 *   [terraformsh (⭐66)](https://github.com/pwillis-els/terraformsh) - A wrapper in Bash for easier CLI UX and DRY hierarchical configs
-*   [tftarget (⭐237)](https://github.com/future-architect/tftarget) - CLI Tool to do `terraform xxx -target={...}` interactively.
+*   [tftarget (⭐253)](https://github.com/future-architect/tftarget) - CLI Tool to do `terraform xxx -target={...}` interactively.
 
 ## [16. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Scroll Bars / Barcode
 
-*   [DMScrollBar (⭐30)](https://github.com/batanus/DMScrollBar) - Best in class customizable ScrollBar for any type of ScrollView with Decelerating, Bounce & Rubber band mechanisms and many many more.
+*   [DMScrollBar (⭐32)](https://github.com/batanus/DMScrollBar) - Best in class customizable ScrollBar for any type of ScrollView with Decelerating, Bounce & Rubber band mechanisms and many many more.
 
 ## [17. Awesome Low Code](/content/zenitysec/awesome-low-code/week/README.md)
 
@@ -151,13 +151,13 @@
 
 ### Resources / Blog posts
 
-*   [Replacing Pandas with Polars. A Practical Guide](https://www.confessionsofadataguy.com/replacing-pandas-with-polars-a-practical-guide) - A blog post comparing some common functions between Pandas and Polars by [@danielbeach](https://github.com/danielbeach). Code used is available on Github [here (⭐4)](https://github.com/danielbeach/PandasVsPolars).
+*   [Replacing Pandas with Polars. A Practical Guide](https://www.confessionsofadataguy.com/replacing-pandas-with-polars-a-practical-guide) - A blog post comparing some common functions between Pandas and Polars by [@danielbeach](https://github.com/danielbeach). Code used is available on Github [here (⭐5)](https://github.com/danielbeach/PandasVsPolars).
 
 ## [19. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Awesome TypeScript Essential Resources
 
-*   :octocat: [DefinitelyTyped/DefinitelyTyped (⭐48k)](https://github.com/DefinitelyTyped/DefinitelyTyped) the repository for high quality TypeScript type definitions maintained by Boris Yankov and thousands of contributors
+*   :octocat: [DefinitelyTyped/DefinitelyTyped (⭐49k)](https://github.com/DefinitelyTyped/DefinitelyTyped) the repository for high quality TypeScript type definitions maintained by Boris Yankov and thousands of contributors
 
 ### Mobile / Playground
 
@@ -165,13 +165,13 @@
 
 ### Web / Playground
 
-*   :octocat: [Treehouse (⭐147)](https://github.com/treehousedev/treehouse) - Open source lightweight library to build your own note-taking tool.
+*   :octocat: [Treehouse (⭐154)](https://github.com/treehousedev/treehouse) - Open source lightweight library to build your own note-taking tool.
 
 ## [20. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Database Management
 
-*   [Mathesar](https://mathesar.org/) - An intuitive UI for managing data collaboratively, for users of all technical skill levels. Built on Postgres – connect an existing DB or set up a new one. ([Demo](https://demo.mathesar.org/), [Source Code (⭐2.3k)](https://github.com/centerofci/mathesar)) `GPL-3.0` `Docker/Python`
+*   [Mathesar](https://mathesar.org/) - An intuitive UI for managing data collaboratively, for users of all technical skill levels. Built on Postgres – connect an existing DB or set up a new one. ([Demo](https://demo.mathesar.org/), [Source Code (⭐2.5k)](https://github.com/centerofci/mathesar)) `GPL-3.0` `Docker/Python`
 
 ### Software / Self-hosting Solutions
 
@@ -203,7 +203,7 @@
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [cheeky (⭐0)](https://github.com/kampanosg/zsh-cheeky-prompt) - Includes chicken emoji, decorators for current directory, `git` information and current GCP cluster and project.
-*   [croque (⭐7)](https://github.com/Ryooooooga/croque) - Powerline-inspired theme with decorators for OS, user\@host, `git` information, `git` username, current directory and exit status of last command.
+*   [croque (⭐9)](https://github.com/Ryooooooga/croque) - Powerline-inspired theme with decorators for OS, user\@host, `git` information, `git` username, current directory and exit status of last command.
 *   [ittecture (⭐0)](https://github.com/ittecture/ittecture-omz-theme) - Includes decorators for current directory and `git` information.
 *   [mantis (⭐0)](https://github.com/dann254/mantis-zsh-theme) - Minimal theme with `git` status and information decorators.
 
@@ -233,7 +233,6 @@
 *   [Mailchimp](https://mailchimp.com/) — 500 subscribers and 1,000 emails/month free.
 *   [Mailjet](https://www.mailjet.com/) — 6,000 emails/month free (200 emails daily sending limit)
 *   [Mailtrap.io](https://mailtrap.io/) — Fake SMTP server for development, free plan with one inbox, 100 messages, no team member, two emails/second, no forward rules.
-*   [Mailvalidator.io](https://mailvalidator.io/) - Verify 300 emails/month for free, real-time API with bulk processing available.
 *   [Mail7.io](https://www.mail7.io/) — Free Temp Email Addresses for QA Developers. Create email addresses instantly using Web Interface or API.
 *   [Postmark](https://postmarkapp.com/) - 100 emails/month free, unlimited DMARC weekly digests.
 *   [SendGrid](https://sendgrid.com/) — 100 emails/day and 2,000 contacts free
@@ -249,7 +248,7 @@
 
 ### Other / Godot version unknown
 
-*   [zfoo (⭐1.8k)](https://github.com/zfoo-project/zfoo) - Java game server framework for Godot, including GDScript serialization and deserialization.
+*   [zfoo (⭐1.9k)](https://github.com/zfoo-project/zfoo) - Java game server framework for Godot, including GDScript serialization and deserialization.
 
 ## [28. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/week/README.md)
 
@@ -275,7 +274,7 @@
 
 ### Commonsense / Intuitive Physics
 
-*   [Intuitive Physics Reading List (⭐9)](https://github.com/lishiqianhugh/Intuitive_Physics_Reading_List) - ***GitHub***. A reading list on intuitive physics, maintained actively by Shiqian Li.
+*   [Intuitive Physics Reading List (⭐11)](https://github.com/lishiqianhugh/Intuitive_Physics_Reading_List) - ***GitHub***. A reading list on intuitive physics, maintained actively by Shiqian Li.
 
 ## [31. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
 
@@ -297,11 +296,11 @@
 
 ### Documentation
 
-*   [doxygen (⭐5.5k)](https://github.com/doxygen/doxygen) :zap: - The de facto standard tool for generating documentation from annotated C++ sources. \[GPL2] [website](https://www.doxygen.org)
+*   [doxygen (⭐5.8k)](https://github.com/doxygen/doxygen) :zap: - The de facto standard tool for generating documentation from annotated C++ sources. \[GPL2] [website](https://www.doxygen.org)
 *   [doxyrest (⭐306)](https://github.com/vovkos/doxyrest) - A compiler from Doxygen XML to reStructuredText for Sphinx. \[MIT]
-*   [hdoc (⭐302)](https://github.com/hdoc/hdoc) - The modern documentation tool for C++. \[AGPL/Proprietary] [website](https://hdoc.io)
-*   [Natural Docs (⭐194)](https://github.com/NaturalDocs/NaturalDocs) - Natural Docs is an open source documentation generator for multiple programming languages. \[AGPL/Proprietary] [website](https://www.naturaldocs.org)
-*   [Sphinx (⭐6.4k)](https://github.com/sphinx-doc/sphinx) - Sphinx makes it easy to create intelligent and beautiful documentation. \[BSD-2-Clause] [website](https://www.sphinx-doc.org)
+*   [hdoc (⭐313)](https://github.com/hdoc/hdoc) - The modern documentation tool for C++. \[AGPL/Proprietary] [website](https://hdoc.io)
+*   [Natural Docs (⭐208)](https://github.com/NaturalDocs/NaturalDocs) - Natural Docs is an open source documentation generator for multiple programming languages. \[AGPL/Proprietary] [website](https://www.naturaldocs.org)
+*   [Sphinx (⭐6.7k)](https://github.com/sphinx-doc/sphinx) - Sphinx makes it easy to create intelligent and beautiful documentation. \[BSD-2-Clause] [website](https://www.sphinx-doc.org)
 
 ### Websites
 
@@ -313,20 +312,20 @@
 
 ### Applications / Blockchain
 
-*   [madara (⭐531)](https://github.com/keep-starknet-strange/madara) - Kaioshin is a ⚡ blazing fast ⚡ Starknet sequencer, based on substrate. [![GitHub Workflow Status](https://github.com/keep-starknet-strange/madara/actions/workflows/test.yml/badge.svg)](https://github.com/keep-starknet-strange/madara/actions/workflows/test.yml)
+*   [madara (⭐537)](https://github.com/keep-starknet-strange/madara) - Kaioshin is a ⚡ blazing fast ⚡ Starknet sequencer, based on substrate. [![GitHub Workflow Status](https://github.com/keep-starknet-strange/madara/actions/workflows/test.yml/badge.svg)](https://github.com/keep-starknet-strange/madara/actions/workflows/test.yml)
 
 ### Applications / System tools
 
-*   [nushell/nushell (⭐31k)](https://github.com/nushell/nushell) - A new type of shell
-*   [supercilex/fuc (⭐332)](https://github.com/supercilex/fuc) - Fast `cp` and `rm` commands
+*   [nushell/nushell (⭐33k)](https://github.com/nushell/nushell) - A new type of shell
+*   [supercilex/fuc (⭐369)](https://github.com/supercilex/fuc) - Fast `cp` and `rm` commands
 
 ### Development tools / Profiling
 
-*   [Bencher (⭐489)](https://github.com/bencherdev/bencher) - A suite of continuous benchmarking tools designed to catch performance regressions in CI
+*   [Bencher (⭐608)](https://github.com/bencherdev/bencher) - A suite of continuous benchmarking tools designed to catch performance regressions in CI
 
 ### Libraries / Video
 
-*   [ffmpeg-sidecar (⭐199)](https://github.com/nathanbabcock/ffmpeg-sidecar) - Wrap a standalone FFmpeg binary in an intuitive Iterator interface. [![Build Status](https://github.com/nathanbabcock/ffmpeg-sidecar/actions/workflows/rust.yml/badge.svg)](https://github.com/nathanbabcock/ffmpeg-sidecar/actions/workflows/rust.yml)
+*   [ffmpeg-sidecar (⭐313)](https://github.com/nathanbabcock/ffmpeg-sidecar) - Wrap a standalone FFmpeg binary in an intuitive Iterator interface. [![Build Status](https://github.com/nathanbabcock/ffmpeg-sidecar/actions/workflows/rust.yml/badge.svg)](https://github.com/nathanbabcock/ffmpeg-sidecar/actions/workflows/rust.yml)
 
 ## [35. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/week/README.md)
 

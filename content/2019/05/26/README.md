@@ -43,11 +43,11 @@
 
 ### Asynchronous Event Loop
 
-*   [libuv (⭐24k)](https://github.com/libuv/libuv) - Cross-platform asynchronous I/O. \[BSD]
+*   [libuv (⭐25k)](https://github.com/libuv/libuv) - Cross-platform asynchronous I/O. \[BSD]
 
 ### Containers
 
-*   [dynamic\_bitset (⭐151)](https://github.com/pinam45/dynamic_bitset) - Simple Useful Libraries: C++17/20 header-only dynamic bitset. \[MIT] [website](https://pinam45.github.io/dynamic_bitset/)
+*   [dynamic\_bitset (⭐158)](https://github.com/pinam45/dynamic_bitset) - Simple Useful Libraries: C++17/20 header-only dynamic bitset. \[MIT] [website](https://pinam45.github.io/dynamic_bitset/)
 
 ## [4. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
@@ -63,11 +63,11 @@
 
 ### Communication / Collaboration and Team Tools
 
-*   [Caprine (⭐7k)](https://github.com/sindresorhus/caprine) - Third-party privacy-focused Facebook Messenger app. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Caprine (⭐7.1k)](https://github.com/sindresorhus/caprine) - Third-party privacy-focused Facebook Messenger app. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Audio and Video Tools / File Sharing
 
-*   [Gifski (⭐7.7k)](https://github.com/sindresorhus/gifski-app) - Convert videos to high-quality GIFs. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://itunes.apple.com/no/app/gifski/id1351639930?mt=12)
+*   [Gifski (⭐7.9k)](https://github.com/sindresorhus/gifski-app) - Convert videos to high-quality GIFs. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://itunes.apple.com/no/app/gifski/id1351639930?mt=12)
 
 ### Utilities / Productivity
 
@@ -83,44 +83,44 @@
 
 ### Learn
 
-*   [Product Management (⭐1.3k)](https://github.com/dend/awesome-product-management#readme) - Learn how to be a better product manager.
+*   [Product Management (⭐1.4k)](https://github.com/dend/awesome-product-management#readme) - Learn how to be a better product manager.
 
 ## [8. Awesome Libgdx](/content/rafaskb/awesome-libgdx/README.md)
 
 ### Resources / Entity Component System (ECS)
 
-*   [Artemis-odb (⭐758)](https://github.com/junkdog/artemis-odb) - High performance java based Entity-Component-System framework.
-*   [Ashley (⭐840)](https://github.com/libgdx/ashley) - A Java entity system inspired by Ash & Artemis.
+*   [Artemis-odb (⭐783)](https://github.com/junkdog/artemis-odb) - High performance java based Entity-Component-System framework.
+*   [Ashley (⭐875)](https://github.com/libgdx/ashley) - A Java entity system inspired by Ash & Artemis.
 
 ### Resources / Services
 
-*   [gdx-facebook (⭐60)](https://github.com/TomGrill/gdx-facebook) - Provides cross-platform support for Facebook Graph API.
+*   [gdx-facebook (⭐59)](https://github.com/TomGrill/gdx-facebook) - Provides cross-platform support for Facebook Graph API.
 *   [gdx-fireapp (⭐63)](https://github.com/mk-5/gdx-fireapp) - Cross-platform API for Firebase.
 *   [gdx-firebase (⭐35)](https://github.com/TomGrill/gdx-firebase) - Cross-platform (only Desktop/Android) API for Firebase.
-*   [gdx-gamesvcs (⭐112)](https://github.com/MrStahlfelge/gdx-gamesvcs) - Easy integration of gameservices, such as Google Play Games, Apple Game Center, and more.
-*   [gdx-pay (⭐220)](https://github.com/libgdx/gdx-pay) - Provides a cross-platform API for InApp purchasing.
+*   [gdx-gamesvcs (⭐113)](https://github.com/MrStahlfelge/gdx-gamesvcs) - Easy integration of gameservices, such as Google Play Games, Apple Game Center, and more.
+*   [gdx-pay (⭐224)](https://github.com/libgdx/gdx-pay) - Provides a cross-platform API for InApp purchasing.
 
 ### Resources / User Interface
 
-*   [gdx-skins (⭐490)](https://github.com/czyzby/gdx-skins) - Free Scene2D GUI skins.
+*   [gdx-skins (⭐505)](https://github.com/czyzby/gdx-skins) - Free Scene2D GUI skins.
 *   [Ray3K Skins](https://ray3k.wordpress.com/artwork/) - Free Scene2D.UI skins with example code, custom drawables, and experimental features.
 
 ### Tutorials / Getting Started
 
 *   [JSON in Game Dev](http://mana-break.blogspot.com/2014/06/power-of-json-in-game-development-items.html) - General tutorial on using JSON for storing data.
-*   [Progress Bar Design (⭐414)](https://github.com/raeleus/skin-composer/wiki/The-Man-Who-Killed-Hitler-and-then-The-Progress-Bar) - Discusses the pros and cons of different progress bar design techniques with examples.
+*   [Progress Bar Design (⭐435)](https://github.com/raeleus/skin-composer/wiki/The-Man-Who-Killed-Hitler-and-then-The-Progress-Bar) - Discusses the pros and cons of different progress bar design techniques with examples.
 
-### Community / Advanced
+### Community / General Learning Material
 
 *   [Discord](https://discord.gg/4S8pQqc) - An active chat with various leaders from the community available every day. **Recommended**
 
-### Other Lists / Advanced
+### Other Lists / General Learning Material
 
-*   [Game Networking (⭐6.7k)](https://github.com/MFatihMAR/Awesome-Game-Networking) - A Curated List of Game Network Programming Resources.
-*   [Game Talks (⭐1k)](https://github.com/hzoo/awesome-gametalks) - A curated list of gaming talks (development, design, etc).
-*   [Java (⭐40k)](https://github.com/akullpp/awesome-java) - A curated list of awesome Java frameworks, libraries and software.
+*   [Game Networking (⭐7.5k)](https://github.com/MFatihMAR/Awesome-Game-Networking) - A Curated List of Game Network Programming Resources.
+*   [Game Talks (⭐1.1k)](https://github.com/hzoo/awesome-gametalks) - A curated list of gaming talks (development, design, etc).
+*   [Java (⭐42k)](https://github.com/akullpp/awesome-java) - A curated list of awesome Java frameworks, libraries and software.
 *   [Kotlin (⭐11k)](https://github.com/KotlinBy/awesome-kotlin) - A curated list of awesome Kotlin related stuff.
-*   [Magic Tools (⭐13k)](https://github.com/ellisonleao/magictools) - A list of Game Development resources to make magic happen.
+*   [Magic Tools (⭐14k)](https://github.com/ellisonleao/magictools) - A list of Game Development resources to make magic happen.
 
 ## [9. Awesome Product Management](/content/dend/awesome-product-management/README.md)
 

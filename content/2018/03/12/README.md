@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 12, 2018
 
-14 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -53,25 +53,19 @@
 
 ### Packages / HTTP
 
-*   [gotql (⭐405)](https://github.com/khaosdoctor/gotql) - GraphQL request library built on [got (⭐14k)](https://github.com/sindresorhus/got).
+*   [gotql (⭐407)](https://github.com/khaosdoctor/gotql) - GraphQL request library built on [got (⭐14k)](https://github.com/sindresorhus/got).
 
 ### Packages / Job queues
 
-*   [rsmq (⭐1.7k)](https://github.com/smrchy/rsmq) - Redis-backed message queue.
+*   [rsmq (⭐1.8k)](https://github.com/smrchy/rsmq) - Redis-backed message queue.
 
-## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / UI Components
-
-*   [vue-cute-modal (⭐7)](https://github.com/dillonchanis/vue-cute-modal) - A simple and easy to use Modal component for Vue applications.
-
-## [7. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
+## [6. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
 ### Job boards
 
 *   [Crypto Jobs](https://crypto.jobs/?jobs=remote) - Blockchain jobs for crypto enthusiasts.
 
-## [8. Awesome Speakers](/content/karlhorky/awesome-speakers/README.md)
+## [7. Awesome Speakers](/content/karlhorky/awesome-speakers/README.md)
 
 ### Europe / Poland 🇵🇱
 
@@ -89,7 +83,7 @@ Topics: React, Redux, Async, CSS in JS, ClojureScript\
 Topics: MobX, State Management, GraphQL, CSS in JS\
 <https://twitter.com/thekitze>
 
-## [9. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
+## [8. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 
 ### Malware Collection / Malware Corpora
 
@@ -99,7 +93,7 @@ Topics: MobX, State Management, GraphQL, CSS in JS\
 
 *   [Infosec - CERT-PA lists](https://infosec.cert-pa.it/analyze/statistics.html) ([IPs](https://infosec.cert-pa.it/analyze/listip.txt) - [Domains](https://infosec.cert-pa.it/analyze/listdomains.txt) - [URLs](https://infosec.cert-pa.it/analyze/listurls.txt)) - Blocklist service.
 
-## [10. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
+## [9. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
 
 ### Startups and Business
 
@@ -188,19 +182,19 @@ Topics: MobX, State Management, GraphQL, CSS in JS\
 
 
 
-## [11. Awesome Elm](/content/sporto/awesome-elm/README.md)
+## [10. Awesome Elm](/content/sporto/awesome-elm/README.md)
 
 ### Boilerplates / Outdated Boilerplates
 
 *   [elm-webpack-starter-kid (⭐5)](https://github.com/FranzSkuffka/elm-webpack-starter-kid) - A very very basic elm + webpack 4 template.
 
-## [12. Awesome Crypto Papers](/content/pFarb/awesome-crypto-papers/README.md)
+## [11. Awesome Crypto Papers](/content/pFarb/awesome-crypto-papers/README.md)
 
 ### Lectures and educational courses / Post-quantum cryptography
 
 *   [Introduction to Cryptography by Christof Paar](https://www.youtube.com/watch?v=2aHkqB2-46k) - Video course by Christof Paar (University of Bochum in Germany). In english.
 
-## [13. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
+## [12. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
 
 ### Decompiler / Server-Side Request Forgery
 
@@ -211,7 +205,7 @@ Topics: MobX, State Management, GraphQL, CSS in JS\
 *   [The Bug Hunters Methodology v2.1](https://docs.google.com/presentation/d/1VpRT8dFyTaFpQa9jhehtmGaC7TqQniMSYbUdlHN6VrY/edit?usp=sharing) - Written by [@jhaddix](https://twitter.com/jhaddix).
 *   [$7.5k Google services mix-up](https://sites.google.com/site/testsitehacking/-7-5k-Google-services-mix-up) - Written by [Ezequiel Pereira](https://sites.google.com/site/testsitehacking/).
 
-## [14. Awesome Webaudio](/content/notthetup/awesome-webaudio/README.md)
+## [13. Awesome Webaudio](/content/notthetup/awesome-webaudio/README.md)
 
 ### Packages / Apps
 

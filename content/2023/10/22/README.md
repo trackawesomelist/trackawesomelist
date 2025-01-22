@@ -10,7 +10,7 @@
 
 ### Network Tools / Proxies and Machine-in-the-Middle (MITM) Tools
 
-*   [PETEP (⭐166)](https://github.com/Warxim/petep) - Extensible TCP/UDP proxy with GUI for traffic analysis & modification with SSL/TLS support.
+*   [PETEP (⭐186)](https://github.com/Warxim/petep) - Extensible TCP/UDP proxy with GUI for traffic analysis & modification with SSL/TLS support.
 
 ## [2. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 
@@ -45,7 +45,7 @@
 
 ### Machine Learning Libraries / Frameworks
 
-*   [ruby-openai (⭐2k)](https://github.com/alexrudall/ruby-openai) - OpenAI API wrapper
+*   [ruby-openai (⭐2.8k)](https://github.com/alexrudall/ruby-openai) - OpenAI API wrapper
 
 ### Community / Vector search
 
@@ -55,7 +55,7 @@
 
 ### Concepts / AI Concept Representation
 
-*   [ImageBind: One Embedding Space To Bind Them All](https://openaccess.thecvf.com/content/CVPR2023/html/Girdhar_ImageBind_One_Embedding_Space_To_Bind_Them_All_CVPR_2023_paper.html) - ***CVPR'23***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=1657173986906232916\&hl=en\&as_sdt=0,5)]. \[[Project (⭐8.2k)](https://github.com/facebookresearch/ImageBind)]. Cross-modality representation fusion by aligning all other modalities to the visual modality.
+*   [ImageBind: One Embedding Space To Bind Them All](https://openaccess.thecvf.com/content/CVPR2023/html/Girdhar_ImageBind_One_Embedding_Space_To_Bind_Them_All_CVPR_2023_paper.html) - ***CVPR'23***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=1657173986906232916\&hl=en\&as_sdt=0,5)]. \[[Project (⭐8.5k)](https://github.com/facebookresearch/ImageBind)]. Cross-modality representation fusion by aligning all other modalities to the visual modality.
 
 ## [6. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
@@ -67,7 +67,7 @@
 
 ### Containers
 
-*   [unordered\_dense (⭐865)](https://github.com/martinus/unordered_dense) - A fast & densely stored hashmap and hashset based on robin-hood backward shift deletion. \[MIT]
+*   [unordered\_dense (⭐991)](https://github.com/martinus/unordered_dense) - A fast & densely stored hashmap and hashset based on robin-hood backward shift deletion. \[MIT]
 
 ## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -89,13 +89,13 @@
 
 ### Validation / Playground
 
-*   [valibot (⭐5.7k)](https://github.com/fabian-hiller/valibot) - Valibot is a Typescript schema library with static type inference, and it's exceptionally lightweight compared to Zod, with no dependencies.
+*   [valibot (⭐6.8k)](https://github.com/fabian-hiller/valibot) - Valibot is a Typescript schema library with static type inference, and it's exceptionally lightweight compared to Zod, with no dependencies.
 
 ## [11. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [select-with-lf (⭐5)](https://github.com/chmouel/zsh-select-with-lf) - Lets user select files or a directory using [lf (⭐7.5k)](https://github.com/gokcehan/lf).
+*   [select-with-lf (⭐8)](https://github.com/chmouel/zsh-select-with-lf) - Lets user select files or a directory using [lf (⭐7.9k)](https://github.com/gokcehan/lf).
 
 ## [12. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 

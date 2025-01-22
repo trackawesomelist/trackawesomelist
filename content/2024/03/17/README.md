@@ -10,13 +10,13 @@
 
 ### Git / Diagnostics
 
-*   [isak102/telescope-git-file-history.nvim (⭐66)](https://github.com/isak102/telescope-git-file-history.nvim) - Open/preview contents of the current file at a specific commit, without using git checkout.
+*   [isak102/telescope-git-file-history.nvim (⭐76)](https://github.com/isak102/telescope-git-file-history.nvim) - Open/preview contents of the current file at a specific commit, without using git checkout.
 
 ## [2. Awesome Fiber](/content/gofiber/awesome-fiber/README.md)
 
 ### ⚙️ Middlewares / 🌱 Third Party
 
-*   [jsorb84/ssefiber (⭐0)](https://github.com/jsorb84/ssefiber) - A basic SSE Implementation for Fiber.
+*   [jsorb84/ssefiber (⭐2)](https://github.com/jsorb84/ssefiber) - A basic SSE Implementation for Fiber.
 
 ## [3. Awesome Cyber Security University](/content/brootware/awesome-cyber-security-university/README.md)
 
@@ -35,8 +35,8 @@
 
 ### Drug Response Prediction / Pre-trained embedding
 
-*   [Evolutionary Scale Modeling (⭐3.1k)](https://github.com/facebookresearch/esm) - a library for protein embeddings.
-*   [ChemBERTa-2 (⭐380)](https://github.com/seyonechithrananda/bert-loves-chemistry) - a library for chemical embeddingg and prediction.
+*   [Evolutionary Scale Modeling (⭐3.3k)](https://github.com/facebookresearch/esm) - a library for protein embeddings.
+*   [ChemBERTa-2 (⭐410)](https://github.com/seyonechithrananda/bert-loves-chemistry) - a library for chemical embeddingg and prediction.
 
 ### Drug Response Prediction / LLM for biology
 

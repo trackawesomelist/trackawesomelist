@@ -37,10 +37,6 @@
 *   [Webex](https://www.webex.com/) — Video meetings with a free plan offering 40 minutes per meeting with 100 attendees.
 *   [RingCentral](https://www.ringcentral.com/) — Video meetings with a free plan offering 50 minutes per meeting with 100 participants.
 
-### Tunneling, WebRTC, Web Socket Servers and Other Routers
-
-*   [Metered](https://www.metered.ca/) — Free TURN server with 50GB included monthly TURN usage.
-
 ### Payment and Billing Integration
 
 *   [Moesif API Monetization](https://www.moesif.com/) - Generate revenue from APIs via usage-based billing. Connect to Stripe, Chargebee, etc. The free tier offers 30,000 events/month.
@@ -49,7 +45,7 @@
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [rei (⭐1)](https://github.com/arturoalviar/rei-zsh-theme) - A simple theme with the first character 零(rei), the number 0. Includes `git` status decorations.
+*   [rei (⭐0)](https://github.com/arturoalviar/rei-zsh-theme) - A simple theme with the first character 零(rei), the number 0. Includes `git` status decorations.
 
 ---
 

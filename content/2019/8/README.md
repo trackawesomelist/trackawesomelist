@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 25 - Mar 03, 2019
 
-49 awesome lists updated this week.
+48 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,11 +10,11 @@
 
 ### Algorithms, Containers and Protocols / Apache License
 
-*   [simple-blockchain (⭐21)](https://github.com/tomekw/simple_blockchain) - Simple blockchain in Ada.
+*   [simple-blockchain (⭐22)](https://github.com/tomekw/simple_blockchain) - Simple blockchain in Ada.
 
 ### Shells, Interpreters and Emulators / Apache License
 
-*   [gsh (⭐102)](https://github.com/AdaCore/gsh) - GSH is non interactive POSIX shell for Windows, aimed at GNU software builds. 2-3 times faster than Cygwin.
+*   [gsh (⭐110)](https://github.com/AdaCore/gsh) - GSH is non interactive POSIX shell for Windows, aimed at GNU software builds. 2-3 times faster than Cygwin.
 
 ### Programming Languages / Apache License
 
@@ -36,13 +36,13 @@
 
 ### Text & Rich Content / Image Picker
 
-*   [AutoSizeText (⭐2k)](https://github.com/leisim/auto_size_text) <!--stargazers:leisim/auto_size_text--> - Automatically resizes text to fit perfectly within its bounds by [Simon Leier](https://github.com/leisim).
+*   [AutoSizeText (⭐2.1k)](https://github.com/leisim/auto_size_text) <!--stargazers:leisim/auto_size_text--> - Automatically resizes text to fit perfectly within its bounds by [Simon Leier](https://github.com/leisim).
 
 ## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Regular Expression
 
-*   [Oniguruma (⭐2.3k)](https://github.com/kkos/oniguruma) - A modern and flexible regular expressions library that supports a variety of character encodings. \[BSD]
+*   [Oniguruma (⭐2.4k)](https://github.com/kkos/oniguruma) - A modern and flexible regular expressions library that supports a variety of character encodings. \[BSD]
 
 ## [6. Awesome Asyncio](/content/timofurrer/awesome-asyncio/week/README.md)
 
@@ -78,7 +78,7 @@
 
 *   <http://eed3si9n.com/category/tags/scala>
 *   <https://blog.bruchez.name/search/label/scala>
-*   [https://github.com/lemastero/scala\_typeclassopedia (⭐365)](https://github.com/lemastero/scala_typeclassopedia)
+*   [https://github.com/lemastero/scala\_typeclassopedia (⭐379)](https://github.com/lemastero/scala_typeclassopedia)
 
 ### Company Blogs / Devops
 
@@ -98,8 +98,8 @@
 *   [**NES.css**](https://nostalgic-css.github.io/NES.css/) - NES-style CSS Framework.\
     ![](https://img.shields.io/github/stars/nostalgic-css/NES.css.svg?style=social\&label=Star)
     [Demo](https://nostalgic-css.github.io/NES.css/),
-    [Docs (⭐20k)](https://github.com/nostalgic-css/NES.css#installation),
-    [Repo (⭐20k)](https://github.com/nostalgic-css/NES.css)
+    [Docs (⭐21k)](https://github.com/nostalgic-css/NES.css#installation),
+    [Repo (⭐21k)](https://github.com/nostalgic-css/NES.css)
     \| #SCSS
 
 ## [11. Awesome Symfony Education](/content/pehapkari/awesome-symfony-education/week/README.md)
@@ -277,27 +277,27 @@
 
 ### Platforms
 
-*   [IBM Cloud (⭐95)](https://github.com/victorshinya/awesome-ibmcloud#readme) - Cloud platform for developers and companies.
-*   [Firebase (⭐703)](https://github.com/jthegedus/awesome-firebase#readme) - App development platform built on Google Cloud.
+*   [IBM Cloud (⭐100)](https://github.com/victorshinya/awesome-ibmcloud#readme) - Cloud platform for developers and companies.
+*   [Firebase (⭐725)](https://github.com/jthegedus/awesome-firebase#readme) - App development platform built on Google Cloud.
 
 ### Programming Languages
 
-*   [Ada/SPARK (⭐617)](https://github.com/ohenley/awesome-ada#readme) - Modern programming language designed for large, long-lived apps where reliability and efficiency are essential.
+*   [Ada/SPARK (⭐654)](https://github.com/ohenley/awesome-ada#readme) - Modern programming language designed for large, long-lived apps where reliability and efficiency are essential.
 
 ### Decentralized Systems
 
-*   [Blockchain AI (⭐891)](https://github.com/steven2358/awesome-blockchain-ai#readme) - Blockchain projects for artificial intelligence and machine learning.
+*   [Blockchain AI (⭐948)](https://github.com/steven2358/awesome-blockchain-ai#readme) - Blockchain projects for artificial intelligence and machine learning.
 
 ### Miscellaneous
 
-*   [Food (⭐176)](https://github.com/jzarca01/awesome-food#readme) - Food-related projects on GitHub.
-*   [Bitcoin Payment Processors (⭐411)](https://github.com/alexk111/awesome-bitcoin-payment-processors#readme) - Start accepting Bitcoin.
+*   [Food (⭐187)](https://github.com/jzarca01/awesome-food#readme) - Food-related projects on GitHub.
+*   [Bitcoin Payment Processors (⭐438)](https://github.com/alexk111/awesome-bitcoin-payment-processors#readme) - Start accepting Bitcoin.
 
 ## [25. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Bookmarks and Link Sharing
 
-*   [Espial (⭐770)](https://github.com/jonschoning/espial) - An open-source, web-based bookmarking server. `AGPL-3.0` `Haskell`
+*   [Espial (⭐807)](https://github.com/jonschoning/espial) - An open-source, web-based bookmarking server. `AGPL-3.0` `Haskell`
 
 ### Software / Communication - Social Networks and Forums
 
@@ -314,25 +314,19 @@
 
 ### C bindings
 
-*   [ssh2.cr (⭐43)](https://github.com/spider-gazelle/ssh2.cr) - Bindings for libssh2 library
+*   [ssh2.cr (⭐45)](https://github.com/spider-gazelle/ssh2.cr) - Bindings for libssh2 library
 
 ### HTTP
 
 *   [http-params-serializable (⭐21)](https://github.com/vladfaust/http-params-serializable) - HTTP params (de)serialization, applicable to URL queries and URL-encoded forms
 
-## [28. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
-
-### Plotter Art For Sale / Patents
-
-*   [Martin O'Leary](https://shop.mewo2.com)
-
-## [29. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [28. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Tools
 
-*   [cl-data-structures (⭐45)](https://github.com/sirherrbatka/cl-data-structures) - a portable collection of data structures and algorithms (mainly dicts and sequences, with some statistical functions). [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
+*   [cl-data-structures (⭐48)](https://github.com/sirherrbatka/cl-data-structures) - a portable collection of data structures and algorithms (mainly dicts and sequences, with some statistical functions). [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
-## [30. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [29. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### Extension / Navigation Demos
 
@@ -342,13 +336,13 @@
 
 *   [React Native for Designers](https://designcode.io/react-native)
 
-## [31. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
+## [30. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
 
 ### Charts
 
 *   [d3-boxplot (⭐21)](https://github.com/akngs/d3-boxplot) - d3js box plot plugin
 
-## [32. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [31. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / Command-line apps
 
@@ -358,7 +352,7 @@
 
 *   [ember-ref-modifier (⭐44)](https://github.com/lifeart/ember-ref-modifier) - An implementation of the `{{ref}}` element modifier.
 
-## [33. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [32. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Command Line Tools
 
@@ -368,25 +362,25 @@
 
 *   [TickTick](https://ticktick.com/) - Simple and effective to-do list and task manager that helps you organize all aspects of life. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://itunes.apple.com/app/id966085870)
 
-## [34. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+## [33. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
 ### Reverse Engineering / Reverse Engineering Tools
 
-*   [pwndbg (⭐7k)](https://github.com/pwndbg/pwndbg) - GDB plug-in that eases debugging with GDB, with a focus on features needed by low-level software developers, hardware hackers, reverse-engineers, and exploit developers.
+*   [pwndbg (⭐7.7k)](https://github.com/pwndbg/pwndbg) - GDB plug-in that eases debugging with GDB, with a focus on features needed by low-level software developers, hardware hackers, reverse-engineers, and exploit developers.
 
-## [35. Awesome Selenium](/content/christian-bromann/awesome-selenium/week/README.md)
+## [34. Awesome Selenium](/content/christian-bromann/awesome-selenium/week/README.md)
 
 ### Containers / Kubernetes
 
-*   [Moon (⭐187)](https://github.com/aerokube/moon) - A commercial closed-source enterprise Selenium implementation using Kubernetes to launch browsers
+*   [Moon (⭐227)](https://github.com/aerokube/moon) - A commercial closed-source enterprise Selenium implementation using Kubernetes to launch browsers
 
-## [36. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
+## [35. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
 
 ### Podcasts / Other Tools
 
 *   [ShopTalk Show 348: Getting lit-html with Justin Fagnani](https://shoptalkshow.com/episodes/348/) - Another episode with Justin Fagnani as a guest.
 
-## [37. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
+## [36. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
 ### Become an Appium Pro
 
@@ -394,7 +388,7 @@
 *   [Using Mobile Execution Commands to Continuously Stream Device Logs with Appium](https://appiumpro.com/editions/55)
 *   [What Appium Users Need to Know about Android Activities and Intents](https://appiumpro.com/editions/56)
 
-## [38. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [37. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
@@ -404,13 +398,13 @@
 
 *   [pepipost.com](https://pepipost.com) — 30k emails free for the first month, then the first 100 emails/day free.
 
-## [39. Awesome Eosio](/content/DanailMinchev/awesome-eosio/week/README.md)
+## [38. Awesome Eosio](/content/DanailMinchev/awesome-eosio/week/README.md)
 
 ### Libraries and Frameworks / Testing
 
 *   [infeos (⭐31)](https://github.com/infiniteXLabs/infeos) - JavaScript based framework for development, building, deploying and unit testing EOSIO dApps.
 
-## [40. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
+## [39. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### Mocking / Symfony2
 
@@ -420,17 +414,17 @@
 
 *   [Express Gateway (⭐3k)](https://github.com/ExpressGateway/express-gateway) - Microservices API Gateway built on top of ExpressJS (Node.js).
 
-## [41. Amas](/content/sindresorhus/amas/week/README.md)
+## [40. Amas](/content/sindresorhus/amas/week/README.md)
 
 ### Ask these organizations anything!
 
-*   [Nikita Voloboev (⭐34)](https://github.com/nikitavoloboev/ama) - Loves making and sharing things. Building Learn Anything, Enpicom and tools.
+*   [Nikita Voloboev (⭐36)](https://github.com/nikitavoloboev/ama) - Loves making and sharing things. Building Learn Anything, Enpicom and tools.
 
 ### Ask these people anything!
 
-*   [Fabio Spampinato (⭐6)](https://github.com/fabiospampinato/ama) - Self-taught full-stack developer passionate about open source and empowering people.
+*   [Fabio Spampinato (⭐7)](https://github.com/fabiospampinato/ama) - Self-taught full-stack developer passionate about open source and empowering people.
 
-## [42. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [41. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Documents & Productivity
 
@@ -474,27 +468,27 @@
 
 
 
-## [43. Awesome Haxe Gamedev](/content/Dvergar/awesome-haxe-gamedev/week/README.md)
+## [42. Awesome Haxe Gamedev](/content/Dvergar/awesome-haxe-gamedev/week/README.md)
 
 ### Articles / Video
 
 *   [Porting to console via Unity](https://do-games.com/blog/the-adventure-pals-console-tech-part1)
 
-## [44. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [43. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / CloudFormation
 
 *   [envato/stack\_master :fire::fire: (⭐283)](https://github.com/envato/stack_master) - A CLI tool to manage CloudFormation stacks.
 
-## [45. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
+## [44. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
 ### Algorithms and Data Structures
 
-*   [Decompress (⭐116)](https://github.com/mirage/decompress) - A pure OCaml implementation of Zlib.
-*   [Ke (⭐52)](https://github.com/mirage/ke) - Fast implementation of queue (FIFO) in OCaml.
-*   [Duff (⭐21)](https://github.com/mirage/duff) - Implementation of Rabin's fingerprint and delta compression by P. MacDonald in OCaml (same as [libXdiff](http://www.xmailserver.org/xdiff-lib.html)
+*   [Decompress (⭐115)](https://github.com/mirage/decompress) - A pure OCaml implementation of Zlib.
+*   [Ke (⭐51)](https://github.com/mirage/ke) - Fast implementation of queue (FIFO) in OCaml.
+*   [Duff (⭐20)](https://github.com/mirage/duff) - Implementation of Rabin's fingerprint and delta compression by P. MacDonald in OCaml (same as [libXdiff](http://www.xmailserver.org/xdiff-lib.html)
 
-## [46. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [45. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Open Source / Other
 
@@ -504,23 +498,23 @@
 
 *   [Using Google Analytics to gather usage statistics in Electron](https://kilianvalkhof.com/2018/apps/using-google-analytics-to-gather-usage-statistics-in-electron/) - How to collect anonymous user statistics.
 
-## [47. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [46. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### API
 
-*   [SwiftyInsta (⭐226)](https://github.com/TheM4hd1/SwiftyInsta) - Private and Tokenless Instagram RESTful API.
+*   [SwiftyInsta (⭐224)](https://github.com/TheM4hd1/SwiftyInsta) - Private and Tokenless Instagram RESTful API.
 
 ### Form / Barcode
 
 *   [Carbon (⭐1.3k)](https://github.com/ra1028/Carbon) - 🚴 A declarative library for building component-based user interfaces in UITableView and UICollectionView.
 
-## [48. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [47. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / Utils
 
 *   [deno-using (⭐11)](https://github.com/hayd/deno-using) - An python-style with statements for deno.
 
-## [49. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [48. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Logging
 

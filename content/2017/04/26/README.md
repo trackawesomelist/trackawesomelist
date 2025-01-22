@@ -45,7 +45,7 @@
 
 *   [GSL and Ruby buildpack (⭐3)](https://github.com/tomwolfe/heroku-buildpack-gsl-ruby)
 *   [OpenCV and Ruby buildpack (⭐3)](https://github.com/lilibethdlc/heroku-buildpack-ruby-opencv)
-*   [ImageMagick buildpack (⭐46)](https://github.com/mcollina/heroku-buildpack-imagemagick)
+*   [ImageMagick buildpack (⭐45)](https://github.com/mcollina/heroku-buildpack-imagemagick)
 
 ### Related Resources / Vector search
 
@@ -70,7 +70,7 @@
 
 ## [7. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
-### URI handling / Isomorphic web frameworks
+### URI and IP handling / Isomorphic web frameworks
 
 *   [cl-slug (⭐25)](https://github.com/EuAndreh/cl-slug) - a small library to make slugs, mainly for URIs, transform in CamelCase, remove accentuation and punctuation, for english and beyound. [LLGPL](http://opensource.franz.com/preamble.html).
 

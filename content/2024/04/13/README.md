@@ -18,7 +18,7 @@
 
 ### Developer
 
-*   [Floom (⭐19)](https://github.com/FloomAI/Floom) - AI gateway and marketplace for developers, enables streamlined integration of AI features into products. `#opensource`
+*   [Floom (⭐35)](https://github.com/FloomAI/Floom) - AI gateway and marketplace for developers, enables streamlined integration of AI features into products. `#opensource`
 
 ### Models
 
@@ -40,15 +40,15 @@
 
 ### Software / Conference Management
 
-*   [motion.tools (Antragsgrün)](https://motion.tools/) - A web tool for managing motions and amendments for (political) conventions. ([Demo](https://sandbox.motion.tools/createsite), [Source Code (⭐91)](https://github.com/CatoTH/antragsgruen)) `AGPL-3.0` `PHP/Docker`
+*   [motion.tools (Antragsgrün)](https://motion.tools/) - A web tool for managing motions and amendments for (political) conventions. ([Demo](https://sandbox.motion.tools/createsite), [Source Code (⭐103)](https://github.com/CatoTH/antragsgruen)) `AGPL-3.0` `PHP/Docker`
 
 ### Software / Document Management
 
-*   [OpenSign](https://www.opensignlabs.com) `⚠` - Free, open source & self-hosted document signing software (alternative to DocuSign). ([Source Code (⭐3k)](https://github.com/opensignlabs/opensign)) `AGPL-3.0` `Nodejs/Docker`
+*   [OpenSign](https://www.opensignlabs.com) `⚠` - Free, open source & self-hosted document signing software (alternative to DocuSign). ([Source Code (⭐3.7k)](https://github.com/opensignlabs/opensign)) `AGPL-3.0` `Nodejs/Docker`
 
 ### Software / E-commerce
 
-*   [Litecart (⭐166)](https://github.com/shurco/litecart) `⚠` - Shopping cart in 1 file (with support for payment by card or cryptocurrency). `MIT` `Go/Docker`
+*   [Litecart (⭐200)](https://github.com/shurco/litecart) `⚠` - Shopping cart in 1 file (with support for payment by card or cryptocurrency). `MIT` `Go/Docker`
 
 ## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -66,7 +66,7 @@
 
 ### Awesome Repositories
 
-- Repository: [Celluar Hacking (⭐2.8k)](https://github.com/W00t3k/Awesome-Cellular-Hacking)
+- Repository: [Celluar Hacking (⭐3k)](https://github.com/W00t3k/Awesome-Cellular-Hacking)
 
   Description: This is a list of hacking research in the 3G/4G/5G cellular security space.
 
@@ -94,14 +94,14 @@
 
 ### Libraries / Data visualization
 
-*   [plotly (⭐1k)](https://github.com/plotly/plotly.rs) - Plotly for Rust
+*   [plotly (⭐1.2k)](https://github.com/plotly/plotly.rs) - Plotly for Rust
 
 ## [10. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### ZSH Tools / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [shell-color-prompt-tool (⭐11)](https://github.com/kyletimmermans/shell-color-prompt-tool) - Helps you create a custom prompt for `ZSH` or `bash`.
-*   [shellSpec (⭐1.1k)](https://github.com/shellspec/shellspec) - A full-featured BDD unit testing framework for dash, bash, ksh, ZSH and all POSIX shells.
+*   [shell-color-prompt-tool (⭐15)](https://github.com/kyletimmermans/shell-color-prompt-tool) - Helps you create a custom prompt for `ZSH` or `bash`.
+*   [shellSpec (⭐1.2k)](https://github.com/shellspec/shellspec) - A full-featured BDD unit testing framework for dash, bash, ksh, ZSH and all POSIX shells.
 
 ---
 

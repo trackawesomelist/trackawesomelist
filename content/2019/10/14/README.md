@@ -58,7 +58,7 @@
 
 ### Dead
 
-*   [Beaker Browser](https://beakerbrowser.com/) an experimental browser for exploring the p2p web. The link now points at [this post (⭐6.8k)](https://github.com/beakerbrowser/beaker/blob/master/archive-notice.md) explaining its archival.
+*   [Beaker Browser](https://beakerbrowser.com/) an experimental browser for exploring the p2p web. The link now points at [this post (⭐6.7k)](https://github.com/beakerbrowser/beaker/blob/master/archive-notice.md) explaining its archival.
 
 ## [4. Awesome Icons](/content/vkarampinis/awesome-icons/README.md)
 
@@ -80,7 +80,7 @@
 
 ### Software / Automation
 
-*   [HRConvert2 (⭐1k)](https://github.com/zelon88/HRConvert2) - Drag-and-drop file conversion server with session based authentication, automatic temporary file maintenance, and logging capability. `GPL-3.0` `PHP`
+*   [HRConvert2 (⭐1.2k)](https://github.com/zelon88/HRConvert2) - Drag-and-drop file conversion server with session based authentication, automatic temporary file maintenance, and logging capability. `GPL-3.0` `PHP`
 
 ### Software / Polls and Events
 
@@ -106,7 +106,7 @@
 
 ### Quality / Barcode
 
-*   [SwiftFormat (⭐7.6k)](https://github.com/nicklockwood/SwiftFormat) - A code library and command-line formatting tool for reformatting Swift code.
+*   [SwiftFormat (⭐7.9k)](https://github.com/nicklockwood/SwiftFormat) - A code library and command-line formatting tool for reformatting Swift code.
 
 ## [10. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 
@@ -163,12 +163,12 @@
 
 ### GitHub Tools and Management / Docker Container Actions
 
-*   [Action to sync GitHub labels in the declarative way (⭐150)](https://github.com/micnncim/action-label-syncer)
+*   [Action to sync GitHub labels in the declarative way (⭐196)](https://github.com/micnncim/action-label-syncer)
 
 ### Utility / Docker Container Actions
 
-*   [Automatically add Label or Assignee to an Issue (⭐56)](https://github.com/Naturalclar/issue-action)
-*   [Action to send LGTM reaction as image or GIF when we say lgtm (⭐59)](https://github.com/micnncim/action-lgtm-reaction)
+*   [Automatically add Label or Assignee to an Issue (⭐60)](https://github.com/Naturalclar/issue-action)
+*   [Action to send LGTM reaction as image or GIF when we say lgtm (⭐80)](https://github.com/micnncim/action-lgtm-reaction)
 
 ## [16. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/README.md)
 

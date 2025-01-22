@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 16 - Aug 22, 2021
 
-54 awesome lists updated this week.
+51 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -33,10 +33,10 @@
 ### Networking
 
 *   **HTTP Tools**:
-    *   [ocaml-cohttp (⭐699)](https://github.com/mirage/ocaml-cohttp) – Very lightweight HTTP server using Lwt or Async.
+    *   [ocaml-cohttp (⭐712)](https://github.com/mirage/ocaml-cohttp) – Very lightweight HTTP server using Lwt or Async.
     *   [ocurl (⭐59)](https://github.com/ygrek/ocurl) – OCaml bindings to libcurl.
-    *   [httpaf (⭐535)](https://github.com/inhabitedtype/httpaf) – A high performance, memory efficient, and scalable web server written in OCaml.
-    *   [piaf (⭐179)](https://github.com/anmonteiro/piaf) - Client/server library for HTTP/1.X / HTTP/2 written entirely in OCaml.
+    *   [httpaf (⭐534)](https://github.com/inhabitedtype/httpaf) – A high performance, memory efficient, and scalable web server written in OCaml.
+    *   [piaf (⭐191)](https://github.com/anmonteiro/piaf) - Client/server library for HTTP/1.X / HTTP/2 written entirely in OCaml.
 
 ### Utilities
 
@@ -46,12 +46,12 @@
 
 ### Projects / Frameworks
 
-*   [FreeSpec (⭐51)](https://github.com/lthms/FreeSpec) - Framework for modularly verifying programs with effects and effect handlers.
+*   [FreeSpec (⭐52)](https://github.com/lthms/FreeSpec) - Framework for modularly verifying programs with effects and effect handlers.
 *   [Hybrid](https://www.site.uottawa.ca/~afelty/HybridCoq/) - System for reasoning using higher-order abstract syntax representations of object logics.
 
 ### Projects / Libraries
 
-*   [Mczify (⭐22)](https://github.com/math-comp/mczify) - Library enabling Micromega arithmetic solvers to work when using Mathematical Components number definitions.
+*   [Mczify (⭐25)](https://github.com/math-comp/mczify) - Library enabling Micromega arithmetic solvers to work when using Mathematical Components number definitions.
 
 ### Projects / Tools
 
@@ -59,13 +59,13 @@
 
 ### Resources / Books
 
-*   [Modeling and Proving in Computational Type Theory (⭐76)](https://github.com/uds-psl/MPCTT) - Book covering topics in computational logic using Coq, including foundations, canonical case studies, and practical programming.
+*   [Modeling and Proving in Computational Type Theory (⭐84)](https://github.com/uds-psl/MPCTT) - Book covering topics in computational logic using Coq, including foundations, canonical case studies, and practical programming.
 
 ## [6. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Community Extensions
 
-*   [Keycloak Benchmark Project (⭐125)](https://github.com/keycloak/keycloak-benchmark)
+*   [Keycloak Benchmark Project (⭐139)](https://github.com/keycloak/keycloak-benchmark)
 
 ## [7. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
 
@@ -74,26 +74,32 @@
 *   [Preact Chrome Extension (⭐658)](https://github.com/debdut/preact-chrome-extension) - A Full Feature Preact Chrome Extension Starter Kit.
 *   [Preact Web Extension (⭐21)](https://github.com/PiyushSuthar/preact-webext) - ⚡️ WebExtension Vite Starter Template with Preact.
 
-## [8. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
+## [8. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
+
+### Apps
+
+*   [ipfs-chat (⭐139)](https://github.com/SomajitDey/ipfs-chat) - Terminal-based, encrypted chatrooms. Allows private messaging & secure in-chat file/directory sharing. Server/broker-less (no signaling/rendezvous server needed). Works over LAN/internet(w/ NAT-traversal).
+
+## [9. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
 
 ### UI
 
-*   [Slab (⭐287)](https://github.com/flamendless/Slab) - Slab is an immediate mode GUI toolkit for the LÖVE framework.
+*   [Slab (⭐305)](https://github.com/flamendless/Slab) - Slab is an immediate mode GUI toolkit for the LÖVE framework.
 
-## [9. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
+## [10. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
 ### Certifications
 
 *   [GCATI](https://gcati.org/certificate/foundation-wardley-mapping) - Foundation in Wardley Mapping. For those who need to know and understand the basics of Strategy using Wardley Mapping either with a view to becoming a Practitioner or with a need to work effectively with Practitioners. A certified Foundation in using Wardley Mapping candidate has proficiency in reading and understanding Wardley Maps.
 
-## [10. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
+## [11. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
 ### Control Systems
 
-*   [Lawo EmberPlus (⭐105)](https://github.com/Lawo/ember-plus) - Ember Plus - open protocol for interfacing to / from broadcast control systems.
-*   [MIDIMonster (⭐481)](https://github.com/cbdevnet/midimonster) - Lightweight adapter tool for common show control protocols.
+*   [Lawo EmberPlus (⭐112)](https://github.com/Lawo/ember-plus) - Ember Plus - open protocol for interfacing to / from broadcast control systems.
+*   [MIDIMonster (⭐508)](https://github.com/cbdevnet/midimonster) - Lightweight adapter tool for common show control protocols.
 
-## [11. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
+## [12. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
 
 ### Databases / ODMs
 
@@ -103,21 +109,15 @@
 
 *   [FastAPI vs. Django vs. Flask](https://www.youtube.com/watch?v=9YBAOYQOzWs) - Which framework is best for Python in 2020? Which uses async/await the best? Which is the fastest?
 
-## [12. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
+## [13. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Crates / Utils
 
-*   [stylist-rs (⭐356)](https://github.com/futursolo/stylist-rs) - A CSS-in-Rust styling solution for WebAssembly Applications.
-
-## [13. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
-
-### Components & Libraries / UI Components
-
-*   [eos-icons-vue (⭐4)](https://github.com/EOS-uiux-Solutions/eos-icons-vue) - Eos icons npm package for Vue 3, [eos-icons-vue2 (⭐5)](https://github.com/EOS-uiux-Solutions/eos-icons-vue2) for Vue 2
+*   [stylist-rs (⭐376)](https://github.com/futursolo/stylist-rs) - A CSS-in-Rust styling solution for WebAssembly Applications.
 
 ## [14. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
 
-### Fonts / Checkbox
+### Fonts / Form Components
 
 *   [svelte-web-fonts/google (⭐16)](https://github.com/svelte-web-fonts/google) - Tiny component for easily loading Fonts via the Google Fonts API including autocompletion.
 
@@ -125,7 +125,7 @@
 
 ### Articles & Papers / Scala
 
-*   [Awesome Scalability (⭐57k)](https://github.com/binhnguyennus/awesome-scalability) :star: - An updated and organized reading list for illustrating the patterns of scalable, reliable, and performant large-scale systems. Concepts are explained in the articles of prominent engineers and credible references. Case studies are taken from battle-tested systems that serve millions to billions of users.
+*   [Awesome Scalability (⭐60k)](https://github.com/binhnguyennus/awesome-scalability) :star: - An updated and organized reading list for illustrating the patterns of scalable, reliable, and performant large-scale systems. Concepts are explained in the articles of prominent engineers and credible references. Case studies are taken from battle-tested systems that serve millions to billions of users.
 *   [A Sidecar for Your Service Mesh](https://www.abhishek-tiwari.com/a-sidecar-for-your-service-mesh/) - A short service mesh introduction.
 
 ## [16. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
@@ -138,7 +138,7 @@
 
 ### Integration / Community
 
-*   [react-directus (⭐92)](https://github.com/gremo/react-directus) - A set of React components and utilities for Directus Headless CMS.
+*   [react-directus (⭐118)](https://github.com/gremo/react-directus) - A set of React components and utilities for Directus Headless CMS.
 
 ## [18. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
@@ -173,8 +173,6 @@
   HTTPS: Yes
 
   CORS: No
-
-  Call this API: 
 
 
 
@@ -220,7 +218,7 @@
 
 ### Peripheral Access Crates / NXP
 
-*   [`SKEAZN642`](https://crates.io/crates/SKEAZN642) Peripheral access API for KEA64 family microcontrollers (generated using svd2rust) - ![crates.io](https://img.shields.io/crates/v/SKEAZN642.svg)
+*   [`SKEAZN642`](https://crates.io/crates/SKEAZN642) Peripheral access API for KEA64 family microcontrollers (generated using svd2rust) - [![crates.io](https://img.shields.io/crates/v/SKEAZN642.svg)](https://crates.io/crates/SKEAZN642)
 
 ## [22. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
@@ -238,7 +236,7 @@
 
 ### Packages / General Purpose Libraries
 
-*   [Apache DataFu (⭐103)](https://github.com/apache/datafu/tree/master/datafu-spark) <img src="https://img.shields.io/github/last-commit/apache/datafu.svg"> - A library of general purpose functions and UDF's.
+*   [Apache DataFu (⭐115)](https://github.com/apache/datafu/tree/master/datafu-spark) <img src="https://img.shields.io/github/last-commit/apache/datafu.svg"> - A library of general purpose functions and UDF's.
 
 ## [25. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
 
@@ -246,13 +244,7 @@
 
 *   [Functional Programming in Scala, Second Edition](https://www.manning.com/books/functional-programming-in-scala-second-edition) - International bestseller revised with new exercises, annotations, and full coverage of Scala 3.
 
-## [26. Awesome React](/content/enaqx/awesome-react/week/README.md)
-
-### React Styling
-
-*   [linaria (⭐11k)](https://github.com/callstack/linaria) - Zero-Runtime CSS in JS library
-
-## [27. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [26. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Image Synthesis / Multi-agents
 
@@ -262,58 +254,41 @@
 *   [CLIPIT PixelDraw - Colaboratory](https://colab.research.google.com/github/dribnet/clipit/blob/master/demos/PixelDrawer.ipynb)
 *   [CLIP Guided Diffusion HQ 512x512.ipynb - Colaboratory](https://colab.research.google.com/drive/1V66mUeJbXrTuQITvJunvnWVn96FEbSI3#scrollTo=X5gODNAMEUCR)
 
-## [28. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [27. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Data
 
 *   [aws-data-wrangler :fire::fire::fire::fire::fire: (⭐3.5k)](https://github.com/awslabs/aws-data-wrangler) - Connects Pandas DataFrames and AWS data related services.
 
-## [29. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [28. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Cryptography
 
-*   [NaCl.Core (⭐69)](https://github.com/daviddesmet/NaCl.Core) - A managed-only cryptography library for .NET which provides modern cryptographic primitives.
+*   [NaCl.Core (⭐73)](https://github.com/daviddesmet/NaCl.Core) - A managed-only cryptography library for .NET which provides modern cryptographic primitives.
 
 ### Game
 
-*   [FNA (⭐2.6k)](https://github.com/FNA-XNA/FNA) - FNA is an XNA4 reimplementation that focuses solely on developing a fully accurate XNA4 runtime for the desktop
+*   [FNA (⭐2.7k)](https://github.com/FNA-XNA/FNA) - FNA is an XNA4 reimplementation that focuses solely on developing a fully accurate XNA4 runtime for the desktop
 
-## [30. Alternative Front Ends](/content/mendel5/alternative-front-ends/week/README.md)
+## [29. Alternative Front Ends](/content/mendel5/alternative-front-ends/week/README.md)
 
 ### Overview / Spotify
 
 *   [psst (⭐7.7k)](https://github.com/jpochyla/psst): Fast and multi-platform Spotify client with native GUI
 
-## [31. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/week/README.md)
-
-### Stalled Development
-
-*   [**Materialize**](https://materializecss.com) - CSS framework based on material design.\
-    ![](https://img.shields.io/github/stars/Dogfalo/materialize.svg?style=social\&label=Star)
-    [Demo](https://materializecss.com/showcase.html),
-    [Docs](https://materializecss.com/getting-started.html),
-    [Repo (⭐39k)](https://github.com/Dogfalo/materialize)
-    \| #SCSS
-
-## [32. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [30. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### GTFS Realtime Utilities / Ruby
 
 *   [transitcast](https://github.com/OpenTransitTools/transitcast) - Uses GTFS and GTFS-RT vehicle position feed generating an estimated transition time it takes for each vehicle to move from scheduled stop to scheduled stop recording these an "observed\_stop\_time" table. These records can later be used to train a machine learning model to make vehicle travel predictions. Created by TriMet as part of [an FTA IMI project](https://trimet.org/imi/program.htm).
 
-## [33. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
+## [31. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
 
 ### Contents / Clones
 
 *   [PicoLove (⭐713)](https://github.com/picolove/picolove) - Pico-8 Reimplementation in LÖVE.
 
-## [34. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
-
-### Applications
-
-*   [ipfs-chat (⭐131)](https://github.com/SomajitDey/ipfs-chat): Terminal-based, secure chatrooms using IPFS. Works over both LAN and internet (includes NAT traversal). Supports private-messaging and file/directory sharing.
-
-## [35. Awesome Webxr](/content/msub2/awesome-webxr/week/README.md)
+## [32. Awesome Webxr](/content/msub2/awesome-webxr/week/README.md)
 
 ### Companies and Cooperatives / Reddit
 
@@ -323,21 +298,17 @@
 
 *   [Emerald City](https://hubculture.city/) - A virtual event space developed by Hub Culture.
 
-## [36. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [33. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Productivity / Finance
 
-*   [ticker (⭐4.8k)](https://github.com/achannarasappa/ticker) - Stock ticker.
+*   [ticker (⭐5k)](https://github.com/achannarasappa/ticker) - Stock ticker.
 
-## [37. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
-
-### Developer Tools / IDEs
-
-*   [Visual Studio Community for Mac](https://visualstudio.microsoft.com/free-developer-offers/) - **Free** version. It supports classroom learning, individual developers and small companies. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+## [34. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Command Line Tools
 
-*   [Tabby (formerly Terminus) (⭐58k)](https://github.com/Eugeny/tabby) - Free terminal tool, built with TypeScript, heavily inspired by Hyper. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Eugeny/terminus) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Tabby (formerly Terminus) (⭐61k)](https://github.com/Eugeny/tabby) - Free terminal tool, built with TypeScript, heavily inspired by Hyper. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Eugeny/terminus) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Communication / Collaboration and Team Tools
 
@@ -345,53 +316,53 @@
 
 ### Utilities / Menu Bar Tools
 
-*   [SwiftBar (⭐2.9k)](https://github.com/swiftbar/SwiftBar/) - Powerful macOS menu bar customization tool. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/swiftbar/SwiftBar/)
+*   [SwiftBar (⭐3k)](https://github.com/swiftbar/SwiftBar/) - Powerful macOS menu bar customization tool. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/swiftbar/SwiftBar/)
 
-## [38. Awesome K6](/content/grafana/awesome-k6/week/README.md)
+## [35. Awesome K6](/content/grafana/awesome-k6/week/README.md)
 
 ### Articles
 
 *   [Introducing TestRail in your K6 tests](https://dev.to/kwidera/introducing-testrail-in-you-k6-tests-eck) - Reporting k6 output to TestRail.
 
-## [39. Awesome Prisma](/content/catalinmiron/awesome-prisma/week/README.md)
+## [36. Awesome Prisma](/content/catalinmiron/awesome-prisma/week/README.md)
 
 ### :safety_vest: Community Prisma Tools
 
 *   [Caching Prisma (⭐61)](https://github.com/joellefkowitz/cached-prisma)
 *   [prettier-plugin-prisma (⭐211)](https://github.com/umidbekk/prettier-plugin-prisma)
 
-## [40. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+## [37. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
-### Plugins and scripts / Various Godot versions
+### Plugins and scripts / Godot 3
 
-*   [Aseprite Wizard (⭐809)](https://github.com/viniciusgerevini/godot-aseprite-wizard) - Plugin for importing animations from Aseprite as SpriteFrames (Godot 3.x).
+*   [Aseprite Wizard (⭐911)](https://github.com/viniciusgerevini/godot-aseprite-wizard) - Plugin for importing animations from Aseprite as SpriteFrames.
 
-## [41. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [38. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Gaming
 
-*   [Godot (⭐6.6k)](https://github.com/godotengine/awesome-godot#readme) - Game engine.
+*   [Godot (⭐7.1k)](https://github.com/godotengine/awesome-godot#readme) - Game engine.
 
-## [42. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [39. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Tools / Community providers
 
 *   [terraformize (⭐153)](https://github.com/naorlivne/terraformize) - Apply\Destroy Terraform modules via a simple REST API endpoint. :skull:
 
-## [43. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
+## [40. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
 ### Java / Git
 
-*   [Password4j (⭐336)](https://github.com/Password4j/password4j) - A Java user-friendly cryptographic library for hashing and checking passwords with different Key derivation functions (KDFs) and Cryptographic hash functions (CHFs).
+*   [Password4j (⭐353)](https://github.com/Password4j/password4j) - A Java user-friendly cryptographic library for hashing and checking passwords with different Key derivation functions (KDFs) and Cryptographic hash functions (CHFs).
 
-## [44. Awesome Games of Coding](/content/michelpereira/awesome-games-of-coding/week/README.md)
+## [41. Awesome Games of Coding](/content/michelpereira/awesome-games-of-coding/week/README.md)
 
 ### Miscellaneous
 
 *   [Guido van Robot](http://gvr.sourceforge.net) - Programming language and free software application designed to introduce beginners to the fundamentals of programming. GvR runs on Windows, Macintosh, and GNU/Linux, in a variety of languages! It's great in both the classroom and the home as a way of introducing people to the basic concepts of programming.
 *   [CSSBattle](https://cssbattle.dev) -  Online CSS Code Golfing battleground. Here, players from all around the world try to visually replicate "Targets" in smallest possible CSS code and battle it out to get to the top of the leaderboard.
 
-## [45. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
+## [42. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
 
 ### General Libraries
 
@@ -451,7 +422,7 @@
 
 *   [Delphi Code Coverage (⭐54)](https://github.com/DelphiCodeCoverage/DelphiCodeCoverage). `[Delphi]` Simple Code Coverage tool for Delphi that creates code coverage reports based on detailed MAP files.
 
-## [46. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [43. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Tools for Teams and Collaboration
 
@@ -465,14 +436,13 @@
 ### Email
 
 *   [Antideo](https://www.antideo.com) — 10 API requests per hour for email verification, IP, and phone number validation in the free tier. No Credit Cards are required.
-*   [HotTempMail](https://hottempmail.com/) - Unlimited, free, disposable temporary email addresses. Autoexpires in one day.
 *   [QuickEmailVerification](https://quickemailverification.com) — Verify 100 emails daily for free on a free tier along with other free APIs like DEA Detector, DNS Lookup, SPF Detector, and more.
 
 ### Other Free Resources
 
 *   [SmallDev.tools](https://smalldev.tools/) — A free tool for developers that allows you to Encode/Decode various formats, Minify HTML/CSS/Javascript, Beautify, Generate Fake/Testing datasets in JSON/CSV & multiple other formats and many more features. With a delightful interface.
 
-## [47. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [44. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Dependency Management
 
@@ -480,45 +450,45 @@
 
 ### Table of Contents / Dependency Management Extras
 
-*   [Composer Merge Plugin (⭐929)](https://github.com/wikimedia/composer-merge-plugin) - A composer plugin to merge several `composer.json` files.
-*   [Composer Normalize (⭐1k)](https://github.com/ergebnis/composer-normalize) - A plugin for normalizing `composer.json` files.
-*   [Composer Require Checker (⭐878)](https://github.com/maglnet/ComposerRequireChecker) - CLI tool to analyze composer dependencies and verify that no unknown symbols are used in the sources of a package.
+*   [Composer Merge Plugin (⭐943)](https://github.com/wikimedia/composer-merge-plugin) - A composer plugin to merge several `composer.json` files.
+*   [Composer Normalize (⭐1.1k)](https://github.com/ergebnis/composer-normalize) - A plugin for normalizing `composer.json` files.
+*   [Composer Require Checker (⭐916)](https://github.com/maglnet/ComposerRequireChecker) - CLI tool to analyze composer dependencies and verify that no unknown symbols are used in the sources of a package.
 *   [Tooly (⭐101)](https://github.com/tommy-muehle/tooly-composer-script) - A library to manage PHAR files in a project using Composer.
 
 ### Table of Contents / Scraping
 
-*   [Chrome PHP (⭐2.2k)](https://github.com/chrome-php/chrome) - Instrument headless Chrome/Chromium instances from PHP.
+*   [Chrome PHP (⭐2.3k)](https://github.com/chrome-php/chrome) - Instrument headless Chrome/Chromium instances from PHP.
 
 ### Table of Contents / Debugging and Profiling
 
-*   [Metrics (⭐316)](https://github.com/beberlei/metrics) - A simple metrics API library.
+*   [Metrics (⭐318)](https://github.com/beberlei/metrics) - A simple metrics API library.
 
 ### Table of Contents / Build Tools
 
-*   [RMT (⭐453)](https://github.com/liip/RMT) - A library for versioning and releasing software.
+*   [RMT (⭐454)](https://github.com/liip/RMT) - A library for versioning and releasing software.
 
 ### Table of Contents / Geolocation
 
-*   [Country List (⭐5.1k)](https://github.com/umpirsky/country-list) - A list of all countries with names and ISO 3166-1 codes.
+*   [Country List (⭐5.2k)](https://github.com/umpirsky/country-list) - A list of all countries with names and ISO 3166-1 codes.
 
 ### Table of Contents / Event
 
-*   [Pawl (⭐581)](https://github.com/ratchetphp/Pawl) - An asynchronous web socket client.
+*   [Pawl (⭐589)](https://github.com/ratchetphp/Pawl) - An asynchronous web socket client.
 
 ### Table of Contents / Database
 
-*   [Slimdump (⭐183)](https://github.com/webfactory/slimdump) - An easy dumper tool for MySQL.
+*   [Slimdump (⭐185)](https://github.com/webfactory/slimdump) - An easy dumper tool for MySQL.
 
 ### Table of Contents / Authentication and Authorization
 
-*   [Paseto (⭐3.2k)](https://github.com/paragonie/paseto) - Platform-Agnostic Security Tokens.
+*   [Paseto (⭐3.3k)](https://github.com/paragonie/paseto) - Platform-Agnostic Security Tokens.
 
 ### Table of Contents / Markup and CSS
 
-*   [Essence (⭐770)](https://github.com/essence/essence) - A library for extracting web media.
-*   [Embera (⭐332)](https://github.com/mpratt/Embera) - An Oembed consumer library.
-*   [Shiki PHP (⭐276)](https://github.com/spatie/shiki-php) - A [Shiki (⭐9.5k)](https://github.com/shikijs/shiki) code highlighting package in PHP.
-*   [VObject (⭐569)](https://github.com/sabre-io/vobject) - A library for parsing VCard and iCalendar objects.
+*   [Essence (⭐768)](https://github.com/essence/essence) - A library for extracting web media.
+*   [Embera (⭐341)](https://github.com/mpratt/Embera) - An Oembed consumer library.
+*   [Shiki PHP (⭐286)](https://github.com/spatie/shiki-php) - A [Shiki (⭐11k)](https://github.com/shikijs/shiki) code highlighting package in PHP.
+*   [VObject (⭐573)](https://github.com/sabre-io/vobject) - A library for parsing VCard and iCalendar objects.
 
 ### Table of Contents / JSON
 
@@ -526,12 +496,12 @@
 
 ### Table of Contents / Numbers
 
-*   [IP (⭐246)](https://github.com/darsyn/ip) - An immutable value object for working with IPv4 and IPv6 addresses.
-*   [MathPHP (⭐2.3k)](https://github.com/markrogoyski/math-php) - A math library for PHP.
+*   [IP (⭐253)](https://github.com/darsyn/ip) - An immutable value object for working with IPv4 and IPv6 addresses.
+*   [MathPHP (⭐2.4k)](https://github.com/markrogoyski/math-php) - A math library for PHP.
 
 ### Table of Contents / Caching and Locking
 
-*   [Lock (⭐926)](https://github.com/php-lock/lock) - A lock library to provide exclusive execution.
+*   [Lock (⭐936)](https://github.com/php-lock/lock) - A lock library to provide exclusive execution.
 
 ### Configuration / Miscellaneous
 
@@ -540,7 +510,7 @@
 
 ### Configuration / Development Environment
 
-*   [Expose (⭐4.2k)](https://github.com/beyondcode/expose) - An open-source PHP tunneling service.
+*   [Expose (⭐4.3k)](https://github.com/beyondcode/expose) - An open-source PHP tunneling service.
 *   [Lando](https://lando.dev/) - Push-button development environments.
 *   [Takeout (⭐1.6k)](https://github.com/tighten/takeout) - A Docker-based development-only dependency manager.
 
@@ -548,35 +518,35 @@
 
 *   [php\[architect\]](https://www.phparch.com/magazine/) - A monthly magazine dedicated to PHP.
 
-## [48. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/week/README.md)
+## [45. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/week/README.md)
 
 ### Books / Uncategorized
 
 *   [Modern Statistics with R](http://www.modernstatisticswithr.com/) - From wrangling and exploring data to inference and predictive modelling. The book includes plenty of examples and more than 200 exercises with worked solutions. Author: Måns Thulin.
 
-## [49. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [46. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Blockchain
 
-*   [interBTC (⭐245)](https://github.com/interlay/interbtc) - Trustless and fully decentralized Bitcoin bridge to Polkadot and Kusama.
-*   [Parity-Bitcoin (⭐730)](https://github.com/paritytech/parity-bitcoin) - The Parity Bitcoin client
+*   [interBTC (⭐249)](https://github.com/interlay/interbtc) - Trustless and fully decentralized Bitcoin bridge to Polkadot and Kusama.
+*   [Parity-Bitcoin (⭐725)](https://github.com/paritytech/parity-bitcoin) - The Parity Bitcoin client
 
 ### Applications / Productivity
 
-*   [pier-cli/pier (⭐528)](https://github.com/pier-cli/pier) - A central repository to manage (add, search metadata, etc.) all your one-liners, scripts, tools, and CLIs
+*   [pier-cli/pier (⭐555)](https://github.com/pier-cli/pier) - A central repository to manage (add, search metadata, etc.) all your one-liners, scripts, tools, and CLIs
 
 ### Applications / System tools
 
-*   [bandwhich (⭐9.3k)](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
-*   [diskonaut (⭐2.3k)](https://github.com/imsnif/diskonaut) - Terminal visual disk space navigator
+*   [bandwhich (⭐10k)](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
+*   [diskonaut (⭐2.6k)](https://github.com/imsnif/diskonaut) - Terminal visual disk space navigator
 
 ### Applications / Utilities
 
-*   [evansmurithi/cloak (⭐282)](https://github.com/evansmurithi/cloak) - A Command Line OTP (One Time Password) Authenticator application. ![CI](https://github.com/evansmurithi/cloak/workflows/CI/badge.svg) [![build badge](https://ci.appveyor.com/api/projects/status/9mlfpfru3ng4c689/branch/master?svg=true)](https://ci.appveyor.com/project/evansmurithi/cloak)
+*   [evansmurithi/cloak (⭐292)](https://github.com/evansmurithi/cloak) - A Command Line OTP (One Time Password) Authenticator application. ![CI](https://github.com/evansmurithi/cloak/workflows/CI/badge.svg) [![build badge](https://ci.appveyor.com/api/projects/status/9mlfpfru3ng4c689/branch/master?svg=true)](https://ci.appveyor.com/project/evansmurithi/cloak)
 
 ### Applications / Web
 
-*   [MASQ-Project/Node (⭐172)](https://github.com/MASQ-Project/Node) - MASQ Node software provides a decentralized mesh-network of nodes for global users to access normal internet content - next evolution of tech beyond Tor & VPN [![build badge](https://github.com/MASQ-Project/Node/actions/workflows/ci-matrix.yml/badge.svg)](https://github.com/MASQ-Project/Node/actions)
+*   [MASQ-Project/Node (⭐179)](https://github.com/MASQ-Project/Node) - MASQ Node software provides a decentralized mesh-network of nodes for global users to access normal internet content - next evolution of tech beyond Tor & VPN [![build badge](https://github.com/MASQ-Project/Node/actions/workflows/ci-matrix.yml/badge.svg)](https://github.com/MASQ-Project/Node/actions)
 
 ### Development tools / Web Servers
 
@@ -585,14 +555,14 @@
 ### Development tools / IDEs
 
 *   [Emacs](https://www.gnu.org/software/emacs/)
-    *   [emacs-racer (⭐399)](https://github.com/racer-rust/emacs-racer) - Autocompletion (see also [company](https://company-mode.github.io) and [auto-complete (⭐1.7k)](https://github.com/auto-complete/auto-complete))
-    *   [flycheck-rust (⭐119)](https://github.com/flycheck/flycheck-rust) - Rust support for [Flycheck (⭐2.4k)](https://github.com/flycheck/flycheck)
+    *   [emacs-racer (⭐397)](https://github.com/racer-rust/emacs-racer) - Autocompletion (see also [company](https://company-mode.github.io) and [auto-complete (⭐1.7k)](https://github.com/auto-complete/auto-complete))
+    *   [flycheck-rust (⭐121)](https://github.com/flycheck/flycheck-rust) - Rust support for [Flycheck (⭐2.4k)](https://github.com/flycheck/flycheck)
     *   [rust-mode (⭐1.1k)](https://github.com/rust-lang/rust-mode) - Rust Major Mode
-    *   [rustic (⭐718)](https://github.com/brotzeit/rustic) - Rust development environment for Emacs [![build badge](https://github.com/brotzeit/rustic/workflows/CI/badge.svg)](https://github.com/brotzeit/rustic/actions?query=workflow%3ACI)
+    *   [rustic (⭐728)](https://github.com/brotzeit/rustic) - Rust development environment for Emacs [![build badge](https://github.com/brotzeit/rustic/workflows/CI/badge.svg)](https://github.com/brotzeit/rustic/actions?query=workflow%3ACI)
 
 ### Development tools / Profiling
 
-*   [Bytehound (⭐4.4k)](https://github.com/koute/bytehound) - A memory profiler for Linux
+*   [Bytehound (⭐4.6k)](https://github.com/koute/bytehound) - A memory profiler for Linux
 
 ### Development tools / Static analysis
 
@@ -600,32 +570,32 @@
 
 ### Libraries / Artificial Intelligence
 
-*   [pkalivas/radiate (⭐147)](https://github.com/pkalivas/radiate) - A customizable parallel genetic programming engine capable of evolving solutions for supervised, unsupervised, and reinforcement learning problems. Comes with complete and customizable implementation of NEAT and Evtree.![Crates.io](https://img.shields.io/crates/v/radiate)
+*   [pkalivas/radiate (⭐160)](https://github.com/pkalivas/radiate) - A customizable parallel genetic programming engine capable of evolving solutions for supervised, unsupervised, and reinforcement learning problems. Comes with complete and customizable implementation of NEAT and Evtree.![Crates.io](https://img.shields.io/crates/v/radiate)
 
 ### Libraries / Game development
 
-*   [Awesome Quads (⭐176)](https://github.com/ozkriff/awesome-quads) - A curated list of links to miniquad/macroquad-related code & resources
+*   [Awesome Quads (⭐200)](https://github.com/ozkriff/awesome-quads) - A curated list of links to miniquad/macroquad-related code & resources
 
 ### Libraries / GUI
 
-*   [ivanceras/sauron-native (⭐632)](https://github.com/ivanceras/sauron-native) - A truly native and cross platform GUI library. One unified code can be run as native GUI, Html Web and TUI.
+*   [ivanceras/sauron-native (⭐631)](https://github.com/ivanceras/sauron-native) - A truly native and cross platform GUI library. One unified code can be run as native GUI, Html Web and TUI.
 
 ### Libraries / Scripting
 
-*   [metacall/core (⭐1.5k)](https://github.com/metacall/core) \[[metacall](https://crates.io/crates/metacall)] - Cross-platform Polyglot Runtime which supports NodeJS, JavaScript, TypeScript, Python, Ruby, C#, Wasm, Java, Cobol and more. [![build badge](https://gitlab.com/metacall/core/badges/master/pipeline.svg)](https://gitlab.com/metacall/core)
+*   [metacall/core (⭐1.6k)](https://github.com/metacall/core) \[[metacall](https://crates.io/crates/metacall)] - Cross-platform Polyglot Runtime which supports NodeJS, JavaScript, TypeScript, Python, Ruby, C#, Wasm, Java, Cobol and more. [![build badge](https://gitlab.com/metacall/core/badges/master/pipeline.svg)](https://gitlab.com/metacall/core)
 
 ### Libraries / Web programming
 
 *   [WebSocket](https://datatracker.ietf.org/doc/rfc6455/)
-    *   [c410-f3r/wtx (⭐104)](https://github.com/c410-f3r/wtx) - Client and server with encryption support.
+    *   [c410-f3r/wtx (⭐247)](https://github.com/c410-f3r/wtx) - Client and server with encryption support.
     *   [housleyjk/ws-rs (⭐1.5k)](https://github.com/housleyjk/ws-rs) - lightweight, event-driven WebSockets
-    *   [iddm/urlshortener-rs (⭐49)](https://github.com/iddm/urlshortener-rs) - A very simple urlshortener library. [![CI](https://github.com/iddm/urlshortener-rs/actions/workflows/ci.yml/badge.svg)](https://github.com/iddm/urlshortener-rs/actions/workflows/ci.yml) [![Crates badge](https://img.shields.io/crates/v/urlshortener.svg)](https://crates.io/crates/urlshortener)
-    *   [rust-websocket (⭐1.5k)](https://github.com/websockets-rs/rust-websocket) - A framework for dealing with WebSocket connections (both clients and servers)
-    *   [snapview/tungstenite-rs (⭐1.8k)](https://github.com/snapview/tungstenite-rs) - Lightweight stream-based WebSocket implementation.
-    *   [swimos/ratchet (⭐32)](https://github.com/swimos/ratchet) \[[ratchet\_rs](https://crates.io/crates/ratchet_rs)] - Ratchet is a fast, lightweight and fully asynchronous implementation of the WebSocket protocol with support for extensions and Deflate.
-    *   [vi/websocat (⭐6.9k)](https://github.com/vi/websocat) - CLI for interacting with WebSockets, with functionality of Netcat, Curl and Socat.
+    *   [iddm/urlshortener-rs (⭐51)](https://github.com/iddm/urlshortener-rs) - A very simple urlshortener library. [![CI](https://github.com/iddm/urlshortener-rs/actions/workflows/ci.yml/badge.svg)](https://github.com/iddm/urlshortener-rs/actions/workflows/ci.yml) [![Crates badge](https://img.shields.io/crates/v/urlshortener.svg)](https://crates.io/crates/urlshortener)
+    *   [rust-websocket (⭐1.6k)](https://github.com/websockets-rs/rust-websocket) - A framework for dealing with WebSocket connections (both clients and servers)
+    *   [snapview/tungstenite-rs (⭐2k)](https://github.com/snapview/tungstenite-rs) - Lightweight stream-based WebSocket implementation.
+    *   [swimos/ratchet (⭐45)](https://github.com/swimos/ratchet) \[[ratchet\_rs](https://crates.io/crates/ratchet_rs)] - Ratchet is a fast, lightweight and fully asynchronous implementation of the WebSocket protocol with support for extensions and Deflate.
+    *   [vi/websocat (⭐7.3k)](https://github.com/vi/websocat) - CLI for interacting with WebSockets, with functionality of Netcat, Curl and Socat.
 
-## [50. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [47. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Tutorial
 
@@ -643,17 +613,17 @@
 
 *   [Audio Service](https://pub.dev/packages/audio_service) - System background audio support by [Ryan Heise](https://github.com/ryanheise). [Tutorial](https://suragch.medium.com/background-audio-in-flutter-with-audio-service-and-just-audio-3cce17b4a7d?sk=0837a1b1773e27a4f879ff3072e90305) by [Suragch](https://twitter.com/Suragch1).
 
-## [51. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/week/README.md)
+## [48. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/week/README.md)
 
 ### AppImage consumption tools / Package managers
 
-*   [RookiePM (⭐1)](https://github.com/18fadly-anthony/rookie) - Package manager for AppImages and Shell Scripts.
+*   [RookiePM (⭐2)](https://github.com/18fadly-anthony/rookie) - Package manager for AppImages and Shell Scripts.
 
 ### AppImage developer tools / Deployment tools for Windows applications
 
-*   [ferion11/Wine\_Appimage (⭐37)](https://github.com/ferion11/Wine_Appimage) - AppImage for WINE 32bits from PlayOnLinux, an run on no-multilib systems.
+*   [ferion11/Wine\_Appimage (⭐44)](https://github.com/ferion11/Wine_Appimage) - AppImage for WINE 32bits from PlayOnLinux, an run on no-multilib systems.
 
-## [52. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
+## [49. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
 
 ### Hacks and homebrew / Ironsworn
 
@@ -668,7 +638,7 @@
 *   [Solar Crown Online](https://umbralaeronaut.itch.io/solar-crown-online) - Undertake perilous quests in the world of Solar Crown Online, a wildly-popular MMORPG
 *   [Winsome](https://elstiko.itch.io/winsome) - Stripped-down, setting-less hack of Ironsworn
 
-## [53. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+## [50. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Public Data Resources / Climate
 
@@ -693,18 +663,18 @@
 
 *   [EarthDefine](http://www.earthdefine.com/) - EarthDefine is using AI to transform earth sensor data into consumable geospatial information products including high resolution land cover classifications and building footprints.
 
-## [54. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/week/README.md)
+## [51. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/week/README.md)
 
 ### Qubes OS Websites
 
 *   [Qubes OS](https://www.qubes-os.org) - Qubes OS is an operating system built out of securely-isolated compartments called Qubes.
 *   [Qubes OS News](https://www.qubes-os.org/news/) - Latest Qubes OS News.
 
-### Optics and Extra Info / Unikernel-like
+### Optics and Extra Info / Extra Info
 
 *   [3mdeb](https://3mdeb.com/) - We’re hands-on firmware experts with years of experience writing elegant, scalable and custom code for clients.
 
-### Social media / Web articles
+### Social media / Extra Info
 
 *   [Discord](https://discord.gg/YMUbTt7ZRG) - Qubes OS discord invite link
 *   [Facebook](https://www.facebook.com/QubesOS/) - Qubes OS facebook page

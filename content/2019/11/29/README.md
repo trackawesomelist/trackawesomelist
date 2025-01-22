@@ -16,7 +16,7 @@
 
 ### Device / Augmented Reality
 
-*   [InAppWebView (⭐3.1k)](https://github.com/pichillilorenzo/flutter_inappwebview) <!--stargazers:pichillilorenzo/flutter_inappwebview--> - Add inline WebView widgets or open an in-app browser window by [Lorenzo Pichilli](https://github.com/pichillilorenzo)
+*   [InAppWebView (⭐3.3k)](https://github.com/pichillilorenzo/flutter_inappwebview) <!--stargazers:pichillilorenzo/flutter_inappwebview--> - Add inline WebView widgets or open an in-app browser window by [Lorenzo Pichilli](https://github.com/pichillilorenzo)
 
 ## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -35,10 +35,10 @@
 
 ### Contents / Entertainment
 
-*   [CineReel (⭐183)](https://github.com/kserko/CineReel) - You can see lists for Now playing, Top Rated, Popular and Upcoming movies by [serko](https://github.com/kserko).
+*   [CineReel (⭐181)](https://github.com/kserko/CineReel) - You can see lists for Now playing, Top Rated, Popular and Upcoming movies by [serko](https://github.com/kserko).
 *   [Fluttery Filmy (⭐196)](https://github.com/ibhavikmakwana/Fluttery-Filmy) - Movie app which is developed using flutter and powered by tmdb. by [Bhavik Makwana](https://github.com/ibhavikmakwana).
-*   [Toughest (⭐268)](https://github.com/MDSADABWASIM/Toughest) - Tricky questions and answer- Offline Interview Q/A by [MD SADAB WASIM](https://github.com/MDSADABWASIM).
-*   [Sandwhich (⭐154)](https://github.com/MotionMobs/Sandwhich) - An app to solve the age-old sandwich debate built using machine learning, Flutter, and TensorFlow Lite by [MotionMobs](https://github.com/MotionMobs)
+*   [Toughest (⭐272)](https://github.com/MDSADABWASIM/Toughest) - Tricky questions and answer- Offline Interview Q/A by [MD SADAB WASIM](https://github.com/MDSADABWASIM).
+*   [Sandwhich (⭐153)](https://github.com/MotionMobs/Sandwhich) - An app to solve the age-old sandwich debate built using machine learning, Flutter, and TensorFlow Lite by [MotionMobs](https://github.com/MotionMobs)
 
 ## [6. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 

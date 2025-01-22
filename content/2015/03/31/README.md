@@ -14,7 +14,7 @@
 
 ### Programming Languages / JavaScript
 
-*   [Airbnb JavaScript Style Guide (⭐143k)](https://github.com/airbnb/javascript#readme)
+*   [Airbnb JavaScript Style Guide (⭐145k)](https://github.com/airbnb/javascript#readme)
 *   [JavaScript: The Right Way](http://jstherightway.org/)
 *   [ES6 Coding Style (⭐399)](https://github.com/elierotenberg/coding-styles/blob/master/es6.md#readme)
 
@@ -42,7 +42,7 @@
 
 ### UI / Barcode
 
-*   [KMPlaceholderTextView (⭐804)](https://github.com/MoZhouqi/KMPlaceholderTextView) - A UITextView subclass that adds support for multiline placeholder.
+*   [KMPlaceholderTextView (⭐805)](https://github.com/MoZhouqi/KMPlaceholderTextView) - A UITextView subclass that adds support for multiline placeholder.
 
 ## [3. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
 
@@ -106,7 +106,7 @@
 
 ### Queues and Messaging
 
-*   [Sneakers (⭐2.2k)](https://github.com/jondot/sneakers) - A fast background processing framework for Ruby and RabbitMQ.
+*   [Sneakers (⭐2.3k)](https://github.com/jondot/sneakers) - A fast background processing framework for Ruby and RabbitMQ.
 
 ---
 

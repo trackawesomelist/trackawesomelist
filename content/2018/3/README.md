@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 15 - Jan 21, 2018
 
-37 awesome lists updated this week.
+36 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -39,7 +39,7 @@
 
 ### Playgrounds
 
-*   [Script Debugger (⭐37)](https://github.com/kallewoof/btcdeb)
+*   [Script Debugger (⭐40)](https://github.com/kallewoof/btcdeb)
 
 ## [4. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
 
@@ -74,7 +74,7 @@
 
 ### GTFS Realtime (and Other Real-time API) Archival Tools / Ruby
 
-*   [retro-gtfs (⭐51)](https://github.com/SAUSy-Lab/retro-gtfs) - A Python application that collects real-time data from the Nextbus API and archives it into the GTFS format (i.e., retrospective GTFS).
+*   [retro-gtfs (⭐54)](https://github.com/SAUSy-Lab/retro-gtfs) - A Python application that collects real-time data from the Nextbus API and archives it into the GTFS format (i.e., retrospective GTFS).
 
 ## [8. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
 
@@ -82,15 +82,7 @@
 
 *   [AIGA](https://designjobs.aiga.org/)
 
-## [9. Awesome Dash](/content/ucg8j/awesome-dash/week/README.md)
-
-### App Examples
-
-*   [Street Quality IDentification \[SQUID\]](https://squid-syracuse.herokuapp.com/) - Highlights poor quality roads with maps, data table and photos of the offending piece of road. [Source Code. (⭐19)](https://github.com/amyoshino/SQUID-Syracuse-Dashboard)
-*   [VoxelViz](http://lukas-snoek.com/voxelviz) - Competition winning Visualization tool for (f)MRI data-sets. [Source Code. (⭐37)](https://github.com/lukassnoek/VoxelViz)
-*   [Traffic Accidents UK](https://traffic-accidents-uk.herokuapp.com/) - Explore the 140,008 traffic accidents in the UK in 2015. [Source Code. (⭐8)](https://github.com/richard-muir/uk-car-accidents)
-
-## [10. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
+## [9. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
 
 ### Laravel
 
@@ -102,32 +94,32 @@
 
 
 
-## [11. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
+## [10. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
 
 ### CLI
 
 *   [genact (⭐6.6k)](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator for your shell.
 *   [fat (⭐5)](https://github.com/drummyfish/fat) - Expand your files.
 
-## [12. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
+## [11. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
 ### Monitoring & Quality Control
 
-*   [SilentJack (⭐22)](https://github.com/njh/silentjack) - Dead-air / Silence detector for JACK.
+*   [SilentJack (⭐23)](https://github.com/njh/silentjack) - Dead-air / Silence detector for JACK.
 
-## [13. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [12. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### GUI
 
 *   [Ooui (⭐1.6k)](https://github.com/praeclarum/Ooui) - A small cross-platform UI library that brings the simplicity of native UI development to the web
 
-## [14. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [13. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### Debugging Tools / ORM
 
 *   [ADB Enhanced (⭐928)](https://github.com/ashishb/adb-enhanced) - a command-line wrapper around ADB for developers, so that, developers don't have to remember esoteric version-dependent commands
 
-## [15. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [14. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / API
 
@@ -151,7 +143,7 @@
 
 *   [NuGetPackageExplorer (⭐2.4k)](https://github.com/NuGetPackageExplorer/NuGetPackageExplorer) - Create, update and deploy Nuget Packages with a GUI.
 
-## [16. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
+## [15. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
 
 ### Organizations
 
@@ -208,23 +200,23 @@
 
 *   [Technically Wrong: Sexist Apps, Biased Algorithms, And Other Threats Of Toxic Tech](http://www.sarawb.com/technically-wrong/) - An unflinching look at the values, processes, and assumptions that lead to oversights, biases, and ethical nightmares.
 
-## [17. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [16. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Boilerplates
 
-*   [Next Blog Firestore (⭐268)](https://github.com/suevalov/next-blog-firestore) - Blog with simple CMS built with Next.js, Firebase Firestore, styled-components and mobx-state-tree.
+*   [Next Blog Firestore (⭐269)](https://github.com/suevalov/next-blog-firestore) - Blog with simple CMS built with Next.js, Firebase Firestore, styled-components and mobx-state-tree.
 
 ### Videos
 
 *   [Next.js Crash Course - Server Side React](https://www.youtube.com/watch?v=IkOVe40Sy0U)
 
-## [18. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [17. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Date / Runner
 
 *   [date-fns (⭐34k)](https://github.com/date-fns/date-fns) - Modern JavaScript date utility library.
 
-## [19. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
+## [18. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
 
 ### Charts
 
@@ -265,14 +257,14 @@
 *   [mermaid (⭐53k)](https://github.com/knsv/mermaid) - Generation of diagrams and flowcharts from text in a markdown style
 *   [netvis (⭐16)](https://github.com/dborzov/netvis) - Visualize network communication for arbitrary protocols
 
-## [20. Awesome Music](/content/ciconia/awesome-music/week/README.md)
+## [19. Awesome Music](/content/ciconia/awesome-music/week/README.md)
 
 ### Related lists
 
-*   [Awesome Music Listening (⭐112)](https://github.com/ybayle/awesome-music-listening) - Awesome list of websites dedicated to listening to music.
-*   [Awesome sheet music (⭐736)](https://github.com/adius/awesome-sheet-music) - A curated list of awesome sheet music software, libraries and resources.
+*   [Awesome Music Listening (⭐123)](https://github.com/ybayle/awesome-music-listening) - Awesome list of websites dedicated to listening to music.
+*   [Awesome sheet music (⭐829)](https://github.com/adius/awesome-sheet-music) - A curated list of awesome sheet music software, libraries and resources.
 
-## [21. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [20. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Concurrency
 
@@ -280,19 +272,19 @@
 
 ### Gesture
 
-*   [ShowTime (⭐507)](https://github.com/KaneCheshire/ShowTime) - Show off your iOS taps and gestures for demos and videos with just one line of code.
+*   [ShowTime (⭐524)](https://github.com/KaneCheshire/ShowTime) - Show off your iOS taps and gestures for demos and videos with just one line of code.
 
 ### UICollectionView / Barcode
 
 *   [AZCollectionViewController (⭐95)](https://github.com/AfrozZaheer/AZCollectionViewController) - Easy way to integrate pagination with dummy views in CollectionView, make Instagram Discover withing minutes.
 
-## [22. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [21. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Image Processing
 
-*   [ruby-vips (⭐827)](https://github.com/jcupitt/ruby-vips) - A binding for the libvips image processing library.
+*   [ruby-vips (⭐839)](https://github.com/jcupitt/ruby-vips) - A binding for the libvips image processing library.
 
-## [23. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
+## [22. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
 ### Resources / Articles
 
@@ -300,19 +292,19 @@
 
 ### Libraries / JavaScript
 
-*   [mongration (⭐84)](https://github.com/awapps/mongration) - Node.js migration framework
+*   [mongration (⭐85)](https://github.com/awapps/mongration) - Node.js migration framework
 
 ### Tools / Deployment
 
 *   [puppet-mongodb (⭐92)](https://github.com/voxpupuli/puppet-mongodb) - Puppet module (formerly puppetlabs-mongodb)
 
-## [24. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [23. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Development Environment
 
 *   [Oven (⭐141)](https://github.com/CakeDC/oven) - Setup your favorite framework with 1 file and 1 click.
 
-## [25. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [24. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### To third parties
 
@@ -320,26 +312,26 @@
 
 ### Miscellaneous
 
-*   [opticl (⭐179)](https://github.com/slyrus/opticl) - a library for representing and processing images. [BSD\_2Clause](https://directory.fsf.org/wiki/License:BSD_2Clause).
+*   [opticl (⭐184)](https://github.com/slyrus/opticl) - a library for representing and processing images. [BSD\_2Clause](https://directory.fsf.org/wiki/License:BSD_2Clause).
 
 ### Readline, ncurses and other graphical helpers / Third-party APIs
 
-*   [cl-charms (⭐155)](https://github.com/HiTECNOLOGYs/cl-charms) - an
+*   [cl-charms (⭐163)](https://github.com/HiTECNOLOGYs/cl-charms) - an
     interface to `libcurses` in Common Lisp. It provides both a raw,
     low-level interface to libcurses via CFFI, and a more higher-level
     lispier interface. [MIT](https://opensource.org/licenses/MIT).
 
 ### Apps / Third-party APIs
 
-*   [lake (⭐86)](https://github.com/takagi/lake) - a GNU make like build utility. [MIT](https://opensource.org/licenses/MIT).
+*   [lake (⭐90)](https://github.com/takagi/lake) - a GNU make like build utility. [MIT](https://opensource.org/licenses/MIT).
 
-## [26. Awesome Calculators](/content/xxczaki/awesome-calculators/week/README.md)
+## [25. Awesome Calculators](/content/xxczaki/awesome-calculators/week/README.md)
 
 ### Calculator apps: / Cross-Platform
 
 *   [mdlt (⭐146)](https://github.com/metadelta/mdlt) - Command-line utility for quick math.
 
-## [27. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [26. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### SDKs and Samples / Perl SDK
 
@@ -350,13 +342,13 @@
 
 *   [ttlequals0/autovpn :fire::fire::fire::fire: (⭐2k)](https://github.com/ttlequals0/autovpn) - Create On Demand Disposable OpenVPN Endpoints.
 
-## [28. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [27. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
 *   [Awesome Threat Detection and Hunting (⭐3.3k)](https://github.com/0x4D31/awesome-threat-detection) - A curated list of awesome threat detection and hunting resources.
 
-## [29. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
+## [28. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
 
 ### Messaging
 
@@ -377,9 +369,9 @@
 *   [BitTorrent Sync](http://www.bittorrent.com/sync) by BitTorrent Labs. Easy and effortless file replication between computers (and mobile devices) without using the cloud, so the only limit is available storage. All data transfers are encrypted. Works on Windows, Linux, OSX, Android and iOS. Recently they've [opened up their API](http://www.bittorrent.com/sync/developers/api) to developers.
 *   [bitlove-ui](http://bitlove.org/) Bitlove creates Torrents for all enclosures of an RSS/ATOM feed and seeds them for podcasts.
 *   [Commotion Wireless](https://commotionwireless.net) is an open-source communication tool that uses mobile phones, computers, and other wireless devices to create decentralized mesh networks.
-*   [The Cryptosphere](http://cryptosphere.org/) is a global peer-to-peer cryptosystem for publishing and securely distributing both data and HTML5/JS applications pseudonymously with no central point of failure. It's built on top of the next-generation [Networking and Cryptography (NaCl) library](http://nacl.cr.yp.to/) and the Git data model. [Code (⭐1.2k)](https://github.com/cryptosphere/cryptosphere)
+*   [The Cryptosphere](http://cryptosphere.org/) is a global peer-to-peer cryptosystem for publishing and securely distributing both data and HTML5/JS applications pseudonymously with no central point of failure. It's built on top of the next-generation [Networking and Cryptography (NaCl) library](http://nacl.cr.yp.to/) and the Git data model. [Code (⭐1.1k)](https://github.com/cryptosphere/cryptosphere)
 *   [DNSChain (⭐1.7k)](https://github.com/okTurtles/dnschain) aims to fix web security by Man-in-the-Middle proofing connections. It's a secure, decentralized PKI (public key infrastructure) that makes blockchain tech (like Namecoin, Blockstore, etc.) usable for arbitrary devices.
-*   [Firestr (⭐357)](http://github.com/mempko/firestr) is a simple decentralized communication and computation platform. Apps are written in Lua and are pushed to peers where they automatically run and connect. All communication is P2P and encrypted.
+*   [Firestr (⭐358)](http://github.com/mempko/firestr) is a simple decentralized communication and computation platform. Apps are written in Lua and are pushed to peers where they automatically run and connect. All communication is P2P and encrypted.
 *   [Freedom Box](http://freedomboxfoundation.org/) is about privacy, control, ease of use and dehierarchicalization. Inspired by Eben Moglen's vision of a small, cheap and simple computer that serves freedom in the home. We are building a Debian based platform for distributed applications.
 *   [Freenet](http://freenetproject.org) is free software which lets you anonymously share files, browse and publish "freesites" (web sites accessible only through Freenet) and chat on forums, without fear of censorship. Freenet is decentralised to make it less vulnerable to attack, and if used in "darknet" mode, where users only connect to their friends, is very difficult to detect.
 *   [Friendica (⭐1.4k)](https://github.com/friendica/friendica) is a decentralised network which focuses on federation of social networking sites and projects into a common stream.
@@ -390,8 +382,8 @@
 *   The [Hubzilla](https://hubzilla.org) is a decentralised identity and communications platform which provides internet-wide single-sign-on with nomadic identity, internet-wide access control, communications, content management and personal cloud storage.
 *   [Hyperboria](http://hyperboria.net/) is a global decentralized network of "nodes" running cjdns software. The goal of Hyperboria is to provide an alternative to the internet with the principles of security, scalability and decentralization at the core. Anyone can participate in the network by locating a peer that is already connected.
 *   [I2P](http://www.i2p2.de/) is an anonymizing network, offering a simple layer that identity-sensitive applications can use to securely communicate. All data is wrapped with several layers of encryption, and the network is both distributed and dynamic, with no trusted parties.
-*   [KA Lite (⭐456)](https://github.com/learningequality/ka-lite) is an open-source, lightweight, pure-Python web server and web app for serving Khan Academy content (videos and exercises) -- including progress tracking, coach reports, and gamification -- without needing persistent internet connectivity.
-*   [KadNode (⭐407)](http://github.com/mwarning/KadNode) delegates DNS requests (\*.p2p) from any application and tries to resolve it using the BitTorrent Mainline DHT. Own addresses can be announced and combined with public/secret keys. KadNode can be used as a decentralized DynDNS system, but also covers many other use cases.
+*   [KA Lite (⭐457)](https://github.com/learningequality/ka-lite) is an open-source, lightweight, pure-Python web server and web app for serving Khan Academy content (videos and exercises) -- including progress tracking, coach reports, and gamification -- without needing persistent internet connectivity.
+*   [KadNode (⭐410)](http://github.com/mwarning/KadNode) delegates DNS requests (\*.p2p) from any application and tries to resolve it using the BitTorrent Mainline DHT. Own addresses can be announced and combined with public/secret keys. KadNode can be used as a decentralized DynDNS system, but also covers many other use cases.
 *   [Keybits](http://keybits.net) makes it easy to run your own personal server. Setup and maintenance is made simple by using Docker and Ansible. (Similar to Sovereign but using Docker to 'containerize' applications.)
 *   [Known](http://withknown.com/) is a simple way to share your story with a variety of media, from any device. Aligned with the indie web movement, Known sites can be installed on your own server, and each one will operate as a node in a global social network, together with other indie web platforms. Known is fully extensible and supports microblogging, photos, articles, events, location check-ins and bookmarks out of the box. It is a responsive web platform that works on anything with a web browser.
 *   [LibraryBox](http://jasongriffey.net/librarybox/)  is an open source, portable digital file distribution tool based on inexpensive hardware that enables delivery of educational, healthcare, and other vital information to individuals off the grid.
@@ -432,7 +424,7 @@
 *   [Syndie](http://syndie.i2p2.de/)  is an open source system for operating distributed forums offering a secure and consistent interface to various anonymous and non-anonymous content networks.
 *   Dyne's [Tomb](https://tomb.dyne.org/) the crypto-undertaker is free software for easy encryption and backup of personal files, written in a single ZShell script that is easy to review and links commonly shared components (such as cryptsetup), unlike [TrueCrypt](#Truecrypt).  Tomb implements and encourages OPSEC best-practice, and comes with bind and execution hooks, steganography of keys and fast search over filenames and contents, and a graphical user interface.
 *   [Tor](https://www.torproject.org/) protects you by bouncing your communications around a distributed network of relays run by volunteers all around the world: it prevents somebody watching your Internet connection from learning what sites you visit, and it prevents the sites you visit from learning your physical location.
-*   [Tribler (⭐4.7k)](https://github.com/Tribler/tribler/wiki) Aims to create a censorship-free Internet. Already deployed, used and incrementally improved for 8-years. Tribler uses an upcoming IETF Internet Standard for [video streaming](http://datatracker.ietf.org/doc/draft-ietf-ppsp-peer-protocol/) and is backward compatible with Bittorrent. Future aim is using smartphones to even bypass Internet kill switches. An early proof-of-principle [Tribler-mobile](https://play.google.com/store/apps/details?id=org.tribler.mobile) is available on the Android Market. [Key principle](http://www.foxnews.com/tech/2012/02/10/forget-megaupload-researchers-call-new-file-sharing-network-invincible/): 'the only way to take it down is to take The Internet down'. [Overview paper](http://sigmm.org/records/records1201/featured03.html).
+*   [Tribler (⭐4.8k)](https://github.com/Tribler/tribler/wiki) Aims to create a censorship-free Internet. Already deployed, used and incrementally improved for 8-years. Tribler uses an upcoming IETF Internet Standard for [video streaming](http://datatracker.ietf.org/doc/draft-ietf-ppsp-peer-protocol/) and is backward compatible with Bittorrent. Future aim is using smartphones to even bypass Internet kill switches. An early proof-of-principle [Tribler-mobile](https://play.google.com/store/apps/details?id=org.tribler.mobile) is available on the Android Market. [Key principle](http://www.foxnews.com/tech/2012/02/10/forget-megaupload-researchers-call-new-file-sharing-network-invincible/): 'the only way to take it down is to take The Internet down'. [Overview paper](http://sigmm.org/records/records1201/featured03.html).
 *   [Trovebox](https://github.com/photo) is an open source photo sharing webapp (like Instagram), which you can self-host. iOS and Android apps also open source. Uses cloud or local storage for the actual photos. Originally known as OpenPhoto; see also [theopenphotoproject.org](http://theopenphotoproject.org).
 *   [TrueCrypt](http://www.truecrypt.org/) Free open source disk encryption software for Windows 7/Vista/XP/Mac OSX/ & Linux. Creates a virtual encrypted disk within a file and mounts it as a real disk. Encrypts an entire partition or storage device such as USB flash drive or hard drive. Encrypts a partition or drive where Windows is installed (pre-boot authentication). Encryption is automatic, real-time (on-the-fly) and transparent. Parallelization and pipelining allow data to be read and written as fast as if the drive was not encrypted. Encryption can be hardware-accelerated on modern processors. Provides plausible deniability, in case an adversary forces you to reveal the password: Hidden volume (steganography) and hidden operating system. More information on [documentation page](http://www.truecrypt.org/docs/)
 *   [UBOS](http://ubos.net/) is a new Linux distro for personal servers and IoT devices. Installing and maintaining web applications tends to take a lot of time; UBOS aims to make this much simpler.
@@ -450,25 +442,25 @@
 *   [gitsync (⭐53)](https://github.com/raybejjani/gitsync) is a git repository synchronisation and discovery tool. Its goal is to allow developers to coordinate without a central master repository.
 *   [pubsubhubbub](https://code.google.com/p/pubsubhubbub/) is a simple, open, server-to-server webhook-based pubsub (publish/subscribe) protocol for any web accessible resources.
 *   [pump.io](http://pump.io/) Described as "a stream server that does most of what people really want from a social network". It's a social stream with support for federated comunication.
-*   [qaul.net (⭐502)](https://github.com/WachterJud/qaul.net) implements a redundant, open communication principle, in which wireless-enabled computers and mobile devices can directly form a spontaneous network. Chat functions, file sharing and voice chat is possible independent of internet and cellular networks.
+*   [qaul.net (⭐510)](https://github.com/WachterJud/qaul.net) implements a redundant, open communication principle, in which wireless-enabled computers and mobile devices can directly form a spontaneous network. Chat functions, file sharing and voice chat is possible independent of internet and cellular networks.
 *   [Storj](http://storj.io/) is an open source project actively developing a completely decentralized, secure and efficient cloud storage service that integrates a peer-to-peer protocols based on Bitcoin.
 *   [wlan slovenija](http://dev.wlan-si.net/) is developing technologies for easy deployment of community wireless mesh networks. The main idea is that power is in numbers so deployment should be so easy that anybody can do it, that anybody can start a new wireless mesh network and create a new community.
 
 ### Dead
 
 *   [Zero Bin](http://0bin.net/) is an open source alternative for pastebin with burn-after-read function & client side encryption. Source code is also available on github [https://github.com/sametmax/0bin (⭐1.4k)](https://github.com/sametmax/0bin)
-*   [Yaap it !](http://yaap.it/) is another client-side encrypted burn-after-reading sharing service. It's written in JavaScript and you can install it on you own server: [https://github.com/SeyZ/yaapit (⭐26)](https://github.com/SeyZ/yaapit)
+*   [Yaap it !](http://yaap.it/) is another client-side encrypted burn-after-reading sharing service. It's written in JavaScript and you can install it on you own server: [https://github.com/SeyZ/yaapit (⭐25)](https://github.com/SeyZ/yaapit)
 *   [Tent](https://tent.io/) is a protocol that puts users back in control. Users should control the data they create, choose who can access it, and change service providers without losing their social graph.Tent is a protocol, not a platform. Like email, anyone can build Tent apps or host Tent servers, all Tent servers can talk to each other, and there is no central authority to restrict users or developers.
 *   [arkOS](https://arkos.io) is an operating system and software stack to easily host your own websites, email addresses, cloud services and more. It uses a graphical interface (called Genesis) to do all of this, with a focus on end-user experience and simple design. Presently in active development, it is currently functional on the Raspberry Pi with new services and platforms in the works.
 
-## [30. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
+## [29. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
 
 ### Courses
 
 *   [Robotics](https://www.edx.org/micromasters/pennx-robotics) **edx** :dollar:
 *   [Columbia Robotics](https://www.edx.org/course/robotics-columbiax-csmm-103x-2) **edx**
 
-## [31. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
+## [30. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
 
 ### Machine Learning and Statistical Learning
 
@@ -478,14 +470,14 @@
 
 *   [Computer Vision Basics with Python Keras and OpenCV (⭐416)](https://github.com/jrobchin/Computer-Vision-Basics-with-Python-Keras-and-OpenCV) - Jason Chin (University of Western Ontario)
 
-## [32. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [31. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Security and PKI
 
 *   [Have I been pwned?](https://haveibeenpwned.com) — REST API for fetching the information on the breaches.
 *   [Internet.nl](https://internet.nl) — Test for modern Internet Standards like IPv6, DNSSEC, HTTPS, DMARC, STARTTLS and DANE
 
-## [33. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
+## [32. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
 
 ### Forms / Normal Forms
 
@@ -499,17 +491,17 @@
 
 *   [Ecwid](https://www.ecwid.com/) - Embeddable shopping cart.
 
-## [34. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [33. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Frameworks
 
-*   [Yomm2 (⭐347)](https://github.com/jll63/yomm2) - Fast, Orthogonal, Open multi-methods. Supersedes [Yomm11 (⭐117)](https://github.com/jll63/yomm11) \[Boost]
+*   [Yomm2 (⭐359)](https://github.com/jll63/yomm2) - Fast, Orthogonal, Open multi-methods. Supersedes [Yomm11 (⭐117)](https://github.com/jll63/yomm11) \[Boost]
 
 ### Graphics
 
-*   [magnum (⭐4.7k)](https://github.com/mosra/magnum) - Lightweight and modular C++11/C++14 graphics middleware for games and data visualization. \[MIT] [website](http://magnum.graphics)
+*   [magnum (⭐4.9k)](https://github.com/mosra/magnum) - Lightweight and modular C++11/C++14 graphics middleware for games and data visualization. \[MIT] [website](http://magnum.graphics)
 
-## [35. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [34. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Search
 
@@ -521,22 +513,16 @@
 
 ### Text and Numbers
 
-*   [nanoid (⭐214)](https://github.com/railsmechanic/nanoid) - Elixir port of NanoID, a secure and URL-friendly unique ID generator.
+*   [nanoid (⭐223)](https://github.com/railsmechanic/nanoid) - Elixir port of NanoID, a secure and URL-friendly unique ID generator.
 
-## [36. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [35. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Books
 
 *   [Full-Stack Vue.js 2 and Laravel 5](https://www.packtpub.com/application-development/full-stack-vuejs-2-and-laravel-5) by Anthony Gore, Packt. (December 2017)
 *   [Vue.js 2.x by Example](https://www.packtpub.com/application-development/vuejs-2x-example) by Mike Street, Packt. (December 2017)
 
-### Components & Libraries / UI Components
-
-*   [vue-datepicker (⭐702)](https://github.com/hilongjw/vue-datepicker) - **\[unmaintained]** Calendar and datepicker component with material design for Vue.js.
-*   [vuejs-datepicker (⭐2.6k)](https://github.com/charliekassel/vuejs-datepicker) - A simple Vue.js datepicker component. Supports disabling of dates, inline mode, translations.
-*   [v2-datepicker (⭐90)](https://github.com/dwqs/v2-datepicker) - A simple datepicker component based Vue 2.x.
-
-## [37. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
+## [36. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
 
 ### Table of Contents / Packages and Libraries supporting salesforce
 

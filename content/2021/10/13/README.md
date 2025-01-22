@@ -46,19 +46,19 @@
 
 ### Inspirations / Misc
 
-*   [TidyMails](http://tidymails.com/) -The Email Newsletters' Universe.
+*   [TidyMails](http://tidymails.com/) - The Email Newsletters' Universe.
 
 ## [6. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Text / Barcode
 
-*   [Regex by sindresorhus (⭐328)](https://github.com/sindresorhus/Regex) - Swifty regular expressions, fully tested & documented, and with correct Unicode handling.
+*   [Regex by sindresorhus (⭐331)](https://github.com/sindresorhus/Regex) - Swifty regular expressions, fully tested & documented, and with correct Unicode handling.
 
 ## [7. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Regex
 
-*   [sindresorhus/Regex (⭐328)](https://github.com/sindresorhus/Regex) - Swifty regular expressions, fully tested & documented, and with correct Unicode handling.
+*   [sindresorhus/Regex (⭐333)](https://github.com/sindresorhus/Regex) - Swifty regular expressions, fully tested & documented, and with correct Unicode handling.
 
 ## [8. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
 
@@ -187,8 +187,6 @@
 
   CORS: Unknown
 
-  Call this API: 
-
 
 - API: [Tenders in Poland](https://tenders.guru/pl/api)
 
@@ -199,8 +197,6 @@
   HTTPS: Yes
 
   CORS: Unknown
-
-  Call this API: 
 
 
 - API: [Tenders in Romania](https://tenders.guru/ro/api)
@@ -213,8 +209,6 @@
 
   CORS: Unknown
 
-  Call this API: 
-
 
 - API: [Tenders in Spain](https://tenders.guru/es/api)
 
@@ -225,8 +219,6 @@
   HTTPS: Yes
 
   CORS: Unknown
-
-  Call this API: 
 
 
 
@@ -268,7 +260,7 @@
 
 ### Development Projects / APIs
 
-*   [TCGdex (⭐30)](https://github.com/tcgdex/cards-database) - Multi languages Pokémon TCG API.
+*   [TCGdex (⭐157)](https://github.com/tcgdex/cards-database) - Multi languages Pokémon TCG API.
 
 ## [15. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 

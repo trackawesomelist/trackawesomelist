@@ -25,7 +25,7 @@
 
 ### Datasets / Realtime
 
-*   [Eventsim (⭐489)](https://github.com/Interana/eventsim) - Event data simulator. Generates a stream of pseudo-random events from a set of users, designed to simulate web traffic.
+*   [Eventsim (⭐501)](https://github.com/Interana/eventsim) - Event data simulator. Generates a stream of pseudo-random events from a set of users, designed to simulate web traffic.
 
 ## [3. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
 
@@ -62,7 +62,7 @@ This is a great introduction to several aspects of R programming. Loading data i
 
 ### Templates / Misc
 
-*   [Grunt Email Boilerplate (⭐287)](https://github.com/dwightjack/grunt-email-boilerplate) - A Grunt template to create emails.
+*   [Grunt Email Boilerplate (⭐285)](https://github.com/dwightjack/grunt-email-boilerplate) - A Grunt template to create emails.
 *   [Responsive Email Patterns](http://responsiveemailpatterns.com/) - A collection of patterns & modules for responsive emails.
 
 ### Articles / Misc

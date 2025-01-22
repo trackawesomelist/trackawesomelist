@@ -10,7 +10,7 @@
 
 ### Projects Using Seed
 
-*   [benxu.dev/blog (⭐0)](https://github.com/AlterionX/benxu-dev) - A relatively simple open source personal blog. Built on [`Seed`](https://seed-rs.org/), [`maud`](https://maud.lambda.xyz), [`Rocket`](https://rocket.rs), and [`Diesel`](https://diesel.rs).
+*   [benxu.dev/blog (⭐0)](https://github.com/AlterionX/benxu-dev) - A relatively simple open source personal blog. Built on `Seed`, [`maud`](https://maud.lambda.xyz), [`Rocket`](https://rocket.rs), and [`Diesel`](https://diesel.rs).
 
 ## [2. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -38,7 +38,7 @@
 
 ### Software / Personal Dashboards
 
-*   [Homer (⭐9.1k)](https://github.com/bastienwirtz/homer) - A dead simple static homepage to expose your server services, with an easy yaml configuration and connectivity check. `Apache-2.0` `Docker/K8S/Nodejs`
+*   [Homer (⭐9.6k)](https://github.com/bastienwirtz/homer) - A dead simple static homepage to expose your server services, with an easy yaml configuration and connectivity check. `Apache-2.0` `Docker/K8S/Nodejs`
 
 ## [5. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
 
@@ -76,7 +76,7 @@
 
 ### Javascript / Isomorphic web frameworks
 
-*   [remote-js (⭐34)](https://github.com/ceramic/remote-js) - send JavaScript from Common Lisp to a browser. [MIT](https://opensource.org/licenses/MIT).
+*   [remote-js (⭐35)](https://github.com/ceramic/remote-js) - send JavaScript from Common Lisp to a browser. [MIT](https://opensource.org/licenses/MIT).
 
 ## [9. AwesomeCSV](/content/secretGeek/AwesomeCSV/README.md)
 
@@ -93,7 +93,7 @@
 
 ### HAL implementation crates / GigaDevice
 
-*   [`gd32vf103-hal`](https://github.com/luojia65/gd32vf103-hal) - ![crates.io](https://img.shields.io/crates/v/gd32vf103-hal.svg)
+*   [`gd32vf103-hal`](https://github.com/luojia65/gd32vf103-hal) - [![crates.io](https://img.shields.io/crates/v/gd32vf103-hal.svg)](https://crates.io/crates/gd32vf103-hal)
     *   (WIP) Hardware abstract layer (HAL) for the GD32VF103 RISC-V microcontroller
 
 ## [11. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
@@ -106,7 +106,7 @@
 
 ### Utilities / System Related Tools
 
-*   [Background Music (⭐16k)](https://github.com/kyleneideck/BackgroundMusic) - Automatically pause your music, set individual apps' volumes and record system audio. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/kyleneideck/BackgroundMusic)
+*   [Background Music (⭐17k)](https://github.com/kyleneideck/BackgroundMusic) - Automatically pause your music, set individual apps' volumes and record system audio. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/kyleneideck/BackgroundMusic)
 
 ## [13. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 

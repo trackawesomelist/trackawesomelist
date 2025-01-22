@@ -10,7 +10,7 @@
 
 ### Books, blogs, and training materials / Free and public materials
 
-*   [Writing an embedded OS in Rust on the Raspberry Pi (⭐13k)](https://github.com/rust-embedded/rust-raspi3-OS-tutorials) A set of tutorials that give a guided, step-by-step tour of how to write a monolithic Operating System kernel for an embedded system from scratch. Runs on the Raspberry Pi 3 and the Raspberry Pi 4.
+*   [Writing an embedded OS in Rust on the Raspberry Pi (⭐14k)](https://github.com/rust-embedded/rust-raspi3-OS-tutorials) A set of tutorials that give a guided, step-by-step tour of how to write a monolithic Operating System kernel for an embedded system from scratch. Runs on the Raspberry Pi 3 and the Raspberry Pi 4.
 
 ## [2. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/README.md)
 

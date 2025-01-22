@@ -37,20 +37,20 @@
 
 ### Algorithms and Data structures
 
-*   [blocking\_queue (⭐52)](https://github.com/joekain/BlockingQueue) - BlockingQueue is a simple queue implemented as a GenServer. It has a fixed maximum length established when it is created.
+*   [blocking\_queue (⭐54)](https://github.com/joekain/BlockingQueue) - BlockingQueue is a simple queue implemented as a GenServer. It has a fixed maximum length established when it is created.
 *   [count\_buffer (⭐2)](https://github.com/camshaft/count_buffer) - Buffer a large set of counters and flush periodically.
 *   [exfsm (⭐11)](https://github.com/awetzel/exfsm) - Simple elixir library to define a static FSM.
-*   [fuse (⭐499)](https://github.com/jlouis/fuse) - This application implements a so-called circuit-breaker for Erlang.
+*   [fuse (⭐505)](https://github.com/jlouis/fuse) - This application implements a so-called circuit-breaker for Erlang.
 
 ### Behaviours and Interfaces
 
-*   [connection (⭐265)](https://github.com/fishcakez/connection) - Connection behaviour for connection processes. The API is superset of the GenServer API.
+*   [connection (⭐264)](https://github.com/fishcakez/connection) - Connection behaviour for connection processes. The API is superset of the GenServer API.
 
 ### Build Tools
 
 *   [pc (⭐65)](https://github.com/blt/port_compiler) - A rebar3 port compiler.
 *   [rebar3\_eqc (⭐13)](https://github.com/kellymclaughlin/rebar3-eqc-plugin) - A rebar3 plugin to enable the execution of Erlang QuickCheck properties.
-*   [relx (⭐695)](https://github.com/erlware/relx) - A release assembler for Erlang.
+*   [relx (⭐694)](https://github.com/erlware/relx) - A release assembler for Erlang.
 
 ### Encoding and Compression
 
@@ -64,11 +64,11 @@
 ### HTTP
 
 *   [uri\_template (⭐18)](https://github.com/pezra/ex-uri-template) - RFC6570 compliant URI template processor for Elixir.
-*   [webdriver (⭐120)](https://github.com/stuart/elixir-webdriver) - This is an implementation of the WebDriver protocol client. It currently supports PhantomJS, FireFox, ChromeDriver and remote webdriver servers (e.g. Selenium).
+*   [webdriver (⭐119)](https://github.com/stuart/elixir-webdriver) - This is an implementation of the WebDriver protocol client. It currently supports PhantomJS, FireFox, ChromeDriver and remote webdriver servers (e.g. Selenium).
 
 ### JSON
 
-*   [ja\_serializer (⭐640)](https://github.com/AgilionApps/ja_serializer) - JSONAPI.org Serialization in Elixir.
+*   [ja\_serializer (⭐639)](https://github.com/AgilionApps/ja_serializer) - JSONAPI.org Serialization in Elixir.
 
 ### Logging
 
@@ -80,11 +80,11 @@
 
 ### Native Implemented Functions
 
-*   [nifty (⭐29)](https://github.com/rossjones/nifty) - Helper script for setting up the boilerplate required when writing a NIF.
+*   [nifty (⭐28)](https://github.com/rossjones/nifty) - Helper script for setting up the boilerplate required when writing a NIF.
 
 ### ORM and Datamapping
 
-*   [erlastic\_search (⭐162)](https://github.com/tsloughter/erlastic_search) - An Erlang app for communicating with Elastic Search's rest interface.
+*   [erlastic\_search (⭐163)](https://github.com/tsloughter/erlastic_search) - An Erlang app for communicating with Elastic Search's rest interface.
 *   [red (⭐15)](https://github.com/rodrigues/red) - Persist relationships between objects in Redis, in a graph-like way.
 *   [timex\_ecto (⭐162)](https://github.com/bitwalker/timex_ecto) - An adapter for using Timex DateTimes with Ecto.
 
@@ -94,7 +94,7 @@
 
 ### Templating
 
-*   [bbmustache (⭐177)](https://github.com/soranoba/bbmustache) - Binary pattern match Based Mustache template engine for Erlang/OTP.
+*   [bbmustache (⭐183)](https://github.com/soranoba/bbmustache) - Binary pattern match Based Mustache template engine for Erlang/OTP.
 
 ### Testing
 
@@ -103,10 +103,10 @@
 ### Text and Numbers
 
 *   [cirru\_parser (⭐0)](https://github.com/Cirru/parser.ex) - Cirru Parser in Elixir.
-*   [eden (⭐37)](https://github.com/jfacorro/Eden) - [EDN (⭐2.6k)](https://github.com/edn-format/edn) encoder/decoder for Elixir.
+*   [eden (⭐38)](https://github.com/jfacorro/Eden) - [EDN (⭐2.6k)](https://github.com/edn-format/edn) encoder/decoder for Elixir.
 *   [erldn (⭐28)](https://github.com/marianoguerra/erldn) - [EDN (⭐2.6k)](https://github.com/edn-format/edn) format parser for the Erlang platform.
 *   [mbcs (⭐27)](https://github.com/woxtu/elixir-mbcs) - Wrapper for erlang-mbcs. This module provides functions for character encoding conversion.
-*   [number (⭐222)](https://github.com/danielberkompas/number) - Number is a pretentiously-named Elixir library which provides functions to convert numbers into a variety of different formats.
+*   [number (⭐226)](https://github.com/danielberkompas/number) - Number is a pretentiously-named Elixir library which provides functions to convert numbers into a variety of different formats.
 
 ### Third Party APIs
 
@@ -122,12 +122,12 @@
 
 ### XML
 
-*   [erlsom (⭐264)](https://github.com/willemdj/erlsom) - Erlsom is an Erlang library to parse (and generate) XML documents.
+*   [erlsom (⭐267)](https://github.com/willemdj/erlsom) - Erlsom is an Erlang library to parse (and generate) XML documents.
 *   [xmlrpc (⭐40)](https://github.com/ewildgoose/elixir-xml_rpc) - Library for encoding and decoding XML-RPC for clients and servers.
 
 ### Reading
 
-*   [The Little Schemer in Elixir (⭐347)](https://github.com/jwhiteman/a-little-elixir-goes-a-long-way) - Exercises and algorithms from the Little Schemer book, ported to Elixir.
+*   [The Little Schemer in Elixir (⭐349)](https://github.com/jwhiteman/a-little-elixir-goes-a-long-way) - Exercises and algorithms from the Little Schemer book, ported to Elixir.
 
 ## [5. Awesome Foss Apps](/content/DataDaoDe/awesome-foss-apps/README.md)
 
@@ -137,7 +137,7 @@
 
 ## [6. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
 
-### Courses
+### Courses / Commerical Tools
 
 *   [Artificial Intelligence For Robotics](https://www.class-central.com/mooc/319/udacity-artificial-intelligence-for-robotics) - This class will teach you basic methods in Artificial Intelligence, including probabilistic inference, planning and search, localization, tracking and control, all with a focus on robotics
 *   [Paradigms Of Artificial Intelligence Programming: Case Studies in Common Lisp](http://www.amazon.com/exec/obidos/ASIN/1558601910) - Paradigms of AI Programming is the first text to teach advanced Common Lisp techniques in the context of building major AI systems
@@ -145,24 +145,24 @@
 *   [On Intelligence](http://www.amazon.com/Jeff-Hawkins/e/B001KHNZ7C/ref=sr_ntt_srch_lnk_11?qid=1435480927\&sr=8-11) - Hawkins develops a powerful theory of how the human brain works, explaining why computers are not intelligent and how, based on this new theory, we can finally build intelligent machines. Also audio version available from audible.com
 *   [How To Create A Mind](http://www.amazon.com/How-Create-Mind-Thought-Revealed/dp/0143124048/ref=pd_sim_14_3?ie=UTF8\&refRID=0QY72H7NGRYH79R7S3K7) - Kurzweil discusses how the brain works, how the mind emerges, brain-computer interfaces, and the implications of vastly increasing the powers of our intelligence to address the world’s problems
 
-### Programming
+### Programming / Commerical Tools
 
 *   [Prolog Programming For Artificial Intelligence](http://www.amazon.com/Programming-Artificial-Intelligence-International-Computer/dp/0321417461) - This best-selling guide to Prolog and Artificial Intelligence concentrates on the art of using the basic mechanisms of Prolog to solve interesting AI problems.
 
-### Philosophy
+### Philosophy / Commerical Tools
 
 *   [Our Final Invention: Artificial Intelligence And The End Of The Human Era](http://www.audible.co.uk/pd/Non-fiction/Our-Final-Invention-Audiobook/B00KLJMDH8) - Our Final Invention explores the perils of the heedless pursuit of advanced AI. Until now, human intelligence has had no rival. Can we coexist with beings whose intelligence dwarfs our own? And will they allow us to?
 
-### Free Content
+### Free Content / Commerical Tools
 
 *   [Foundations Of Computational Agents](http://artint.info/html/ArtInt.html) - This book is published by Cambridge University Press
 *   [The Quest For Artificial Intelligence](http://ai.stanford.edu/~nilsson/QAI/qai.pdf) - This book traces the history of the subject, from the early dreams of eighteenth-century (and earlier) pioneers to the more successful work of today's AI engineers.
 
-### Videos
+### Videos / Commerical Tools
 
 *   [The Unreasonable Effectiveness Of Deep Learning](https://www.youtube.com/watch?v=sc-KbuZqGkI) - The Director of Facebook's AI Research, Dr. Yann LeCun gives a talk on deep convolutional neural networks and their applications to machine learning and computer vision
 
-### Learning
+### Learning / Commerical Tools
 
 *   [Deep Learning. Methods And Applications](http://research.microsoft.com/pubs/209355/DeepLearning-NowPublishing-Vol7-SIG-039.pdf) Free book from Microsoft Research
 *   [Neural Networks And Deep Learning](http://neuralnetworksanddeeplearning.com) - Neural networks and deep learning currently provide the best solutions to many problems in image recognition, speech recognition, and natural language processing. This book will teach you the core concepts behind neural networks and deep learning

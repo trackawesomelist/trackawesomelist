@@ -10,7 +10,7 @@
 
 ### Prompt Engineering / Prompt Engineering for Text-to-image
 
-*   [some9000/StylePile (⭐572)](https://github.com/some9000/StylePile): A helper script for AUTOMATIC1111/stable-diffusion-webui. Basically a mix and match to quickly get different results without wasting a lot of time writing prompts.
+*   [some9000/StylePile (⭐578)](https://github.com/some9000/StylePile): A helper script for AUTOMATIC1111/stable-diffusion-webui. Basically a mix and match to quickly get different results without wasting a lot of time writing prompts.
 
 ### Inbox: Stable Diffusion / Web UI for Stable Diffusion via Google Colab
 
@@ -59,11 +59,11 @@ Installs: 36 | Stars: n/a | Last update: n/a
 
 ### Scheduling / Touch Resistive
 
-*   [micropython-aioschedule (⭐8)](https://github.com/ThinkTransit/micropython-aioschedule) - A persistent uasyncio scheduler that supports deepsleep between task runs.
+*   [micropython-aioschedule (⭐9)](https://github.com/ThinkTransit/micropython-aioschedule) - A persistent uasyncio scheduler that supports deepsleep between task runs.
 
 ### Code Generation / SRAM
 
-*   [micropython-package-template (⭐5)](https://github.com/brainelectronics/micropython-package-template) - GitHub workflow supported MicroPython package template with deploys to the [Python Package Index](https://pypi.org/) on a push to the main branch and test deploys to the [Test Python Package Index](https://test.pypi.org/) on PRs.
+*   [micropython-package-template (⭐7)](https://github.com/brainelectronics/micropython-package-template) - GitHub workflow supported MicroPython package template with deploys to the [Python Package Index](https://pypi.org/) on a push to the main branch and test deploys to the [Test Python Package Index](https://test.pypi.org/) on PRs.
 
 ## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -85,7 +85,7 @@ Installs: 36 | Stars: n/a | Last update: n/a
 
 ### Projects / Tools
 
-*   [Trakt (⭐14)](https://github.com/ecranceMERCE/trakt) - Generic goal preprocessing tool for proof automation tactics.
+*   [Trakt (⭐15)](https://github.com/ecranceMERCE/trakt) - Generic goal preprocessing tool for proof automation tactics.
 
 ### Resources / Course Material
 
@@ -99,14 +99,13 @@ Installs: 36 | Stars: n/a | Last update: n/a
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [normanius (⭐0)](https://github.com/normanius/normanius-zsh-theme) - Derived from [bira (⭐172k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/bira.zsh-theme). Includes decorators for `git` status, `user@host`, python `virtualenv`, and ruby `rvm` version.
+*   [normanius (⭐0)](https://github.com/normanius/normanius-zsh-theme) - Derived from [bira (⭐175k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/bira.zsh-theme). Includes decorators for `git` status, `user@host`, python `virtualenv`, and ruby `rvm` version.
 
 ## [8. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
 ### Multiple languages / [Other](#other-1)
 
-*   [DeepCode](https://www.deepcode.ai) :warning: :copyright: — DeepCode was acquired by Snyk is now Snyk Code.
-*   [emerge (⭐795)](https://github.com/glato/emerge) — Emerge is a source code and dependency visualizer that can be used to gather insights about source code structure, metrics, dependencies and complexity of software projects. After scanning the source code of a project it provides you an interactive web interface to explore and analyze your project by using graph structures.
+*   [emerge (⭐853)](https://github.com/glato/emerge) — Emerge is a source code and dependency visualizer that can be used to gather insights about source code structure, metrics, dependencies and complexity of software projects. After scanning the source code of a project it provides you an interactive web interface to explore and analyze your project by using graph structures.
 *   [Snyk Code](https://snyk.io) :copyright: — Snyk Code finds security vulnerabilities based on AI. Its speed of analysis allow us to  analyse your code in real time and deliver results when you hit the save button in your IDE.  Supported languages are Java, JavaScript, Python, PHP, C#, Go and TypeScript. Integrations with  GitHub, BitBucket and Gitlab. It is free to try and part of the Snyk platform also covering SCA,  containers and IaC.
 
 ## [9. Awesome Python](/content/vinta/awesome-python/README.md)
@@ -119,7 +118,7 @@ Installs: 36 | Stars: n/a | Last update: n/a
 
 ### Notes and Tasks
 
-*   [SiYuan (⭐18k)](https://github.com/siyuan-note/siyuan) - A local-first personal knowledge management system.
+*   [SiYuan (⭐28k)](https://github.com/siyuan-note/siyuan) - A local-first personal knowledge management system.
 
 ---
 

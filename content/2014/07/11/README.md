@@ -16,19 +16,19 @@
 
 ### Build tools, setup and CI
 
-*   [Lazybones (⭐615)](https://github.com/pledbrook/lazybones) - A simple project creation tool that uses packaged project templates.
+*   [Lazybones (⭐614)](https://github.com/pledbrook/lazybones) - A simple project creation tool that uses packaged project templates.
 
 ### Web Frameworks
 
-*   [Grails (⭐445)](https://github.com/grails/grails) - A powerful web application framework based on the Groovy language
-*   [Gaelyk (⭐220)](https://github.com/gaelyk/gaelyk) - A lightweight Groovy toolkit for Google App Engine Java
+*   [Grails (⭐451)](https://github.com/grails/grails) - A powerful web application framework based on the Groovy language
+*   [Gaelyk (⭐221)](https://github.com/gaelyk/gaelyk) - A lightweight Groovy toolkit for Google App Engine Java
 *   [Glide (⭐53)](https://github.com/kdabir/glide) - Create awesome apps on Google App Engine in a snap
 *   [Ratpack (⭐1.9k)](https://github.com/ratpack/ratpack) - A toolkit for JVM web applications
 
 ### Database
 
 *   [Gmongo (⭐182)](https://github.com/poiati/gmongo) - A Groovy wrapper to the mongodb Java driver
-*   [Gstorm (⭐81)](https://github.com/kdabir/gstorm) - A simple ORM for simple databases and CSV files to be used in groovy scripts
+*   [Gstorm (⭐82)](https://github.com/kdabir/gstorm) - A simple ORM for simple databases and CSV files to be used in groovy scripts
 
 ### Rich Application
 
@@ -36,7 +36,7 @@
 
 ### Testing
 
-*   [Spock (⭐3.4k)](https://github.com/spockframework/spock) - The Enterprise-ready testing and specification framework.
+*   [Spock (⭐3.5k)](https://github.com/spockframework/spock) - The Enterprise-ready testing and specification framework.
 *   [Geb (⭐1.1k)](https://github.com/geb/geb) - Very Groovy Browser Automation
 
 ## [3. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
@@ -90,7 +90,7 @@
 
 ### Packages / Command-line apps
 
-*   [cpy (⭐426)](https://github.com/sindresorhus/cpy) - Copy files.
+*   [cpy (⭐425)](https://github.com/sindresorhus/cpy) - Copy files.
 
 ### Packages / Filesystem
 
@@ -112,7 +112,7 @@
 
 ### Packages / Miscellaneous
 
-*   [cheerio (⭐28k)](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
+*   [cheerio (⭐29k)](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
 
 ### Resources / Tutorials
 

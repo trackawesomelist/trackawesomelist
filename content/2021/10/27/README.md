@@ -11,10 +11,10 @@
 ### Cloud Platform Attack Tools / Malware Analysis Books
 
 *   [Cloud Container Attack Tool (CCAT)](https://rhinosecuritylabs.com/aws/cloud-container-attack-tool/) - Tool for testing security of container environments.
-*   [CloudHunter (⭐107)](https://github.com/belane/CloudHunter) - Looks for AWS, Azure and Google cloud storage buckets and lists permissions for vulnerable buckets.
+*   [CloudHunter (⭐133)](https://github.com/belane/CloudHunter) - Looks for AWS, Azure and Google cloud storage buckets and lists permissions for vulnerable buckets.
 *   [Cloudsplaining](https://cloudsplaining.readthedocs.io/) - Identifies violations of least privilege in AWS IAM policies and generates a pretty HTML report with a triage worksheet.
 *   [Endgame](https://endgame.readthedocs.io/) - AWS Pentesting tool that lets you use one-liner commands to backdoor an AWS account's resources with a rogue AWS account.
-*   [GCPBucketBrute (⭐463)](https://github.com/RhinoSecurityLabs/GCPBucketBrute) - Script to enumerate Google Storage buckets, determine what access you have to them, and determine if they can be privilege escalated.
+*   [GCPBucketBrute (⭐493)](https://github.com/RhinoSecurityLabs/GCPBucketBrute) - Script to enumerate Google Storage buckets, determine what access you have to them, and determine if they can be privilege escalated.
 
 ## [2. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
@@ -56,7 +56,7 @@
 
 ### Machine Learning
 
-*   [Approaching Almost Any Machine Learning Problem (⭐7.1k)](https://github.com/abhishekkrthakur/approachingalmost) - Abhishek Thakur (PDF)
+*   [Approaching Almost Any Machine Learning Problem (⭐7.6k)](https://github.com/abhishekkrthakur/approachingalmost) - Abhishek Thakur (PDF)
 
 ## [6. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
@@ -90,8 +90,6 @@
 
   CORS: Yes
 
-  Call this API: [<sup>**Run in Postman**</sup>](https://god.gw.postman.com/run-collection/25426789-7a8343d9-68b2-40f0-b80b-6dec788bc152?action=collection%2Ffork\&source=rip_markdown\&collection-url=entityId%3D25426789-7a8343d9-68b2-40f0-b80b-6dec788bc152%26entityType%3Dcollection%26workspaceId%3De4d9a7d3-b961-474e-a054-51861ed481f6)
-
 
 
 ### Cloud Storage & File Sharing
@@ -106,7 +104,7 @@
 
   CORS: Unknown
 
-  Postman: 
+  : 
 
 
 
@@ -193,7 +191,7 @@
   CORS: Unknown
 
 
-- API: [administrative-divisons-db (⭐17)](https://github.com/kamikazechaser/administrative-divisions-db)
+- API: [administrative-divisons-db (⭐20)](https://github.com/kamikazechaser/administrative-divisions-db)
 
   Description: Get all administrative divisions of a country
 
@@ -380,9 +378,9 @@
 
 ## [9. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
-### Storage / Database
+### Storage / Databases
 
-*   [uSQLite (⭐84)](https://github.com/spatialdude/usqlite) - SQLite library module for MicroPython.
+*   [uSQLite (⭐97)](https://github.com/spatialdude/usqlite) - SQLite library module for MicroPython.
 
 ## [10. Awesome Scala Native](/content/tindzk/awesome-scala-native/README.md)
 
@@ -398,7 +396,7 @@
 
 ### Starters & Themes
 
-*   🚀 [Vitailse (⭐141)](https://github.com/zynth17/vitailse) - Opinionated Vite starter template with Vue 3, TypeScript and Tailwind CSS.
+*   🚀 [Vitailse (⭐138)](https://github.com/zynth17/vitailse) - Opinionated Vite starter template with Vue 3, TypeScript and Tailwind CSS.
 
 ## [12. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
@@ -408,59 +406,59 @@
 
     *   [ArangoDB](https://arangodb.com)
         *   [Aragog](https://gitlab.com/qonfucius/aragog) \[[aragog](https://crates.io/crates/aragog)] - A Lightweight ArangoDB Object document, relational and graph mapper [![pipeline status](https://gitlab.com/qonfucius/aragog/badges/master/pipeline.svg)](https://gitlab.com/qonfucius/aragog/-/commits/master)
-        *   [Arangors (⭐124)](https://github.com/fMeow/arangors) \[[arangors](https://crates.io/crates/arangors)] - An ArangoDB driver
+        *   [Arangors (⭐128)](https://github.com/fMeow/arangors) \[[arangors](https://crates.io/crates/arangors)] - An ArangoDB driver
     *   [Cassandra](https://cassandra.apache.org/_/index.html) \[[cassandra](https://crates.io/keywords/cassandra), [cql](https://crates.io/keywords/cql)]
-        *   [AlexPikalov/cdrs (⭐347)](https://github.com/AlexPikalov/cdrs) \[[cdrs](https://crates.io/crates/cdrs)] - native client
-        *   [cassandra-rs (⭐130)](https://github.com/cassandra-rs/cassandra-rs) - bindings to the DataStax C/C++
-        *   [krojew/cdrs-tokio (⭐133)](https://github.com/krojew/cdrs-tokio) - High-level async Cassandra client written in 100% Rust. [![build badge](https://github.com/krojew/cdrs-tokio/actions/workflows/rust.yml/badge.svg)](https://github.com/krojew/cdrs-tokio/actions)
+        *   [AlexPikalov/cdrs (⭐342)](https://github.com/AlexPikalov/cdrs) \[[cdrs](https://crates.io/crates/cdrs)] - native client
+        *   [cassandra-rs (⭐139)](https://github.com/cassandra-rs/cassandra-rs) - bindings to the DataStax C/C++
+        *   [krojew/cdrs-tokio (⭐139)](https://github.com/krojew/cdrs-tokio) - High-level async Cassandra client written in 100% Rust. [![build badge](https://github.com/krojew/cdrs-tokio/actions/workflows/rust.yml/badge.svg)](https://github.com/krojew/cdrs-tokio/actions)
             *   \[[cassandra-protocol](https://crates.io/crates/cassandra-protocol)] - Cassandra protocol implementation.
             *   \[[cdrs-tokio](https://crates.io/crates/cdrs-tokio)] - production-ready async Apache Cassandra driverclient
     *   CouchDB \[[couchdb](https://crates.io/keywords/couchdb)]
         *   [chill-rs/chill (⭐36)](https://github.com/chill-rs/chill) \[[couchdb](https://crates.io/crates/chill)] - Client for the CouchDB REST API
     *   [DynamoDB](https://aws.amazon.com/dynamodb/) \[[dynamodb](https://crates.io/keywords/dynamodb)]
-        *   [softprops/dynomite (⭐217)](https://github.com/softprops/dynomite) - A library for strongly-typed and convenient interaction with `rusoto_dynamodb` [![build badge](https://github.com/softprops/dynomite/workflows/Main/badge.svg?branch=master)](https://github.com/softprops/dynomite/actions)
+        *   [softprops/dynomite (⭐220)](https://github.com/softprops/dynomite) - A library for strongly-typed and convenient interaction with `rusoto_dynamodb` [![build badge](https://github.com/softprops/dynomite/workflows/Main/badge.svg?branch=master)](https://github.com/softprops/dynomite/actions)
     *   Elasticsearch \[[elasticsearch](https://crates.io/keywords/elasticsearch)]
-        *   [benashford/rs-es (⭐217)](https://github.com/benashford/rs-es) \[[rs-es](https://crates.io/crates/rs-es)] - Client for the [Elastic](https://www.elastic.co/) REST API
+        *   [benashford/rs-es (⭐218)](https://github.com/benashford/rs-es) \[[rs-es](https://crates.io/crates/rs-es)] - Client for the [Elastic](https://www.elastic.co/) REST API
         *   [elastic-rs/elastic (⭐253)](https://github.com/elastic-rs/elastic) \[[elastic](https://crates.io/crates/elastic)] - elastic is an efficient, modular API client for Elasticsearch written in Rust [![build badge](https://ci.appveyor.com/api/projects/status/csa78tcumdpnbur2?svg=true)](https://ci.appveyor.com/project/KodrAus/elastic)
     *   etcd
         *   [jimmycuadra/rust-etcd (⭐143)](https://github.com/jimmycuadra/rust-etcd) \[[etcd](https://crates.io/crates/etcd)] - A client library for CoreOS's etcd.
     *   [InfluxDB](https://www.influxdata.com/)
-        *   [driftluo/InfluxDBClient-rs (⭐82)](https://github.com/driftluo/InfluxDBClient-rs) - Synchronization interface
+        *   [driftluo/InfluxDBClient-rs (⭐83)](https://github.com/driftluo/InfluxDBClient-rs) - Synchronization interface
     *   LevelDB
-        *   [skade/leveldb (⭐182)](https://github.com/skade/leveldb) - [LevelDB (⭐36k)](https://github.com/google/leveldb) bindings
+        *   [skade/leveldb (⭐182)](https://github.com/skade/leveldb) - [LevelDB (⭐37k)](https://github.com/google/leveldb) bindings
     *   LMDB \[[lmdb](https://crates.io/keywords/lmdb)]
-        *   [vhbit/lmdb-rs (⭐114)](https://github.com/vhbit/lmdb-rs) \[[lmdb-rs](https://crates.io/crates/lmdb-rs)] - [LMDB](https://www.symas.com/symas-embedded-database-lmdb) bindings
+        *   [vhbit/lmdb-rs (⭐115)](https://github.com/vhbit/lmdb-rs) \[[lmdb-rs](https://crates.io/crates/lmdb-rs)] - [LMDB](https://www.symas.com/symas-embedded-database-lmdb) bindings
     *   MongoDB \[[mongodb](https://crates.io/keywords/mongodb)]
-        *   [mongodb/mongo-rust-driver (⭐1.4k)](https://github.com/mongodb/mongo-rust-driver) \[[mongodb](https://crates.io/crates/mongodb)] - [MongoDB](https://www.mongodb.com/) bindings
+        *   [mongodb/mongo-rust-driver (⭐1.5k)](https://github.com/mongodb/mongo-rust-driver) \[[mongodb](https://crates.io/crates/mongodb)] - [MongoDB](https://www.mongodb.com/) bindings
     *   [PickleDB](https://pythonhosted.org/pickleDB/)
-        *   [seladb/pickledb-rs (⭐253)](https://github.com/seladb/pickledb-rs) - a lightweight and simple key-value store, heavily inspired by Python's PickleDB.
+        *   [seladb/pickledb-rs (⭐262)](https://github.com/seladb/pickledb-rs) - a lightweight and simple key-value store, heavily inspired by Python's PickleDB.
     *   [PoloDB](https://www.polodb.org/)
-        *   [PoloDB (⭐840)](https://github.com/PoloDB/PoloDB) - An embedded JSON-based database has API similar to MongoDB. ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/PoloDB/PoloDB/rust.yml)
+        *   [PoloDB (⭐976)](https://github.com/PoloDB/PoloDB) - An embedded JSON-based database has API similar to MongoDB. ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/PoloDB/PoloDB/rust.yml)
     *   [Redb](https://www.redb.org/)
-        *   [Redb (⭐3.1k)](https://github.com/cberner/redb) - An embedded key-value database. It provides a similar interface to other embedded key-value stores such as rocksdb and lmdb. ![GitHub Workflow Status](https://github.com/cberner/redb/actions/workflows/ci.yml/badge.svg)
+        *   [Redb (⭐3.5k)](https://github.com/cberner/redb) - An embedded key-value database. It provides a similar interface to other embedded key-value stores such as rocksdb and lmdb. ![GitHub Workflow Status](https://github.com/cberner/redb/actions/workflows/ci.yml/badge.svg)
     *   Redis \[[redis](https://crates.io/keywords/redis)]
-        *   [aembke/fred (⭐361)](https://github.com/aembke/fred.rs) \[[fred](https://crates.io/crates/fred)] - A high level async [Redis](https://redis.io/) client for Rust with Tokio. [![CircleCI](https://circleci.com/gh/aembke/fred.rs/tree/main.svg?style=svg)](\[https://circleci.com/gh/aembke/fred.rs/tree/main]\(https://app.circleci.com/pipelines/github/aembke/fred.rs?branch=main\))
-        *   [redis-rs (⭐3.5k)](https://github.com/redis-rs/redis-rs) - [Redis](https://redis.io/) library [![Rust](https://github.com/redis-rs/redis-rs/actions/workflows/rust.yml/badge.svg)](https://github.com/redis-rs/redis-rs/actions/workflows/rust.yml)
+        *   [aembke/fred (⭐423)](https://github.com/aembke/fred.rs) \[[fred](https://crates.io/crates/fred)] - A high level async [Redis](https://redis.io/) client for Rust with Tokio. [![CircleCI](https://circleci.com/gh/aembke/fred.rs/tree/main.svg?style=svg)](\[https://circleci.com/gh/aembke/fred.rs/tree/main]\(https://app.circleci.com/pipelines/github/aembke/fred.rs?branch=main\))
+        *   [redis-rs (⭐3.8k)](https://github.com/redis-rs/redis-rs) - [Redis](https://redis.io/) library [![Rust](https://github.com/redis-rs/redis-rs/actions/workflows/rust.yml/badge.svg)](https://github.com/redis-rs/redis-rs/actions/workflows/rust.yml)
     *   [RocksDB](https://rocksdb.org/)
-        *   [rust-rocksdb/rust-rocksdb (⭐1.8k)](https://github.com/rust-rocksdb/rust-rocksdb) - RocksDB bindings [![RocksDB CI](https://github.com/rust-rocksdb/rust-rocksdb/actions/workflows/rust.yml/badge.svg?branch=master)](https://github.com/rust-rocksdb/rust-rocksdb/actions/workflows/rust.yml)
+        *   [rust-rocksdb/rust-rocksdb (⭐1.9k)](https://github.com/rust-rocksdb/rust-rocksdb) - RocksDB bindings [![RocksDB CI](https://github.com/rust-rocksdb/rust-rocksdb/actions/workflows/rust.yml/badge.svg?branch=master)](https://github.com/rust-rocksdb/rust-rocksdb/actions/workflows/rust.yml)
     *   [SurrealDB](https://surrealdb.com/)
-        *   [surrealdb/surrealdb (⭐27k)](https://github.com/surrealdb/surrealdb) - SurrealDB embedded document-graph database
+        *   [surrealdb/surrealdb (⭐29k)](https://github.com/surrealdb/surrealdb) - SurrealDB embedded document-graph database
     *   [UnQLite (⭐2.1k)](https://github.com/symisc/unqlite)
-        *   [zitsen/unqlite.rs (⭐110)](https://github.com/zitsen/unqlite.rs) - UnQLite bindings
+        *   [zitsen/unqlite.rs (⭐113)](https://github.com/zitsen/unqlite.rs) - UnQLite bindings
     *   [ZooKeeper](https://zookeeper.apache.org/)
-        *   [bonifaido/rust-zookeeper (⭐205)](https://github.com/bonifaido/rust-zookeeper) \[[zookeeper](https://crates.io/crates/zookeeper)] - A client library for Apache ZooKeeper.
-        *   [krojew/rust-zookeeper (⭐22)](https://github.com/krojew/rust-zookeeper) \[[zookeeper-async](https://crates.io/crates/zookeeper-async)] - Async Zookeeper client, based on tokio.  ![build status](https://github.com/krojew/rust-zookeeper/actions/workflows/rust.yml/badge.svg)
+        *   [bonifaido/rust-zookeeper (⭐206)](https://github.com/bonifaido/rust-zookeeper) \[[zookeeper](https://crates.io/crates/zookeeper)] - A client library for Apache ZooKeeper.
+        *   [krojew/rust-zookeeper (⭐23)](https://github.com/krojew/rust-zookeeper) \[[zookeeper-async](https://crates.io/crates/zookeeper-async)] - Async Zookeeper client, based on tokio.  ![build status](https://github.com/krojew/rust-zookeeper/actions/workflows/rust.yml/badge.svg)
 
 ## [13. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
 ### Self-Hosted
 
-*   [Docker mail server (⭐14k)](https://github.com/docker-mailserver/docker-mailserver) - A fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) using Docker.
+*   [Docker mail server (⭐15k)](https://github.com/docker-mailserver/docker-mailserver) - A fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) using Docker.
 *   [Mail-in-a-box (⭐14k)](https://github.com/mail-in-a-box/mailinabox) - Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.
 
 ### Video and Audio
 
-*   [Dim (⭐3.8k)](https://github.com/Dusk-Labs/dim) - Dim is a self-hosted media manager. With minimal setup, Dim will organize and beautify your media collections, letting you access and play them anytime from anywhere.
+*   [Dim (⭐3.9k)](https://github.com/Dusk-Labs/dim) - Dim is a self-hosted media manager. With minimal setup, Dim will organize and beautify your media collections, letting you access and play them anytime from anywhere.
 
 ## [14. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

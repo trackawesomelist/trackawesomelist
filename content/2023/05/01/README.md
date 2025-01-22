@@ -32,7 +32,7 @@
 
 ### Tools - Testing / React
 
-*   [graphql-to-karate (⭐13)](https://github.com/wbaldoumas/graphql-to-karate) - Generate Karate API tests from your GraphQL schemas
+*   [graphql-to-karate (⭐14)](https://github.com/wbaldoumas/graphql-to-karate) - Generate Karate API tests from your GraphQL schemas
 
 ## [3. Awesome Preact](/content/preactjs/awesome-preact/README.md)
 
@@ -75,37 +75,37 @@
 
 ### Markdown and LaTeX / Diagnostics
 
-*   [kiran94/edit-markdown-table.nvim (⭐26)](https://github.com/kiran94/edit-markdown-table.nvim) - Edit Markdown Tables using Tree-sitter.
+*   [kiran94/edit-markdown-table.nvim (⭐27)](https://github.com/kiran94/edit-markdown-table.nvim) - Edit Markdown Tables using Tree-sitter.
 
 ### File Explorer / Diagnostics
 
-*   [kelly-lin/ranger.nvim (⭐147)](https://github.com/kelly-lin/ranger.nvim) - [Ranger (⭐15k)](https://github.com/ranger/ranger) integration for neovim.
+*   [kelly-lin/ranger.nvim (⭐157)](https://github.com/kelly-lin/ranger.nvim) - [Ranger (⭐16k)](https://github.com/ranger/ranger) integration for Neovim.
 
 ## [6. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [fzf-packagemanager (⭐0)](https://github.com/goarano/zsh-fzf-packagemanager) - Adds commands for installing tools via various package managers using [fzf (⭐63k)](https://github.com/junegunn/fzf). Supports `apt`, `brew` & `dnf`.
+*   [fzf-packagemanager (⭐1)](https://github.com/goarano/zsh-fzf-packagemanager) - Adds commands for installing tools via various package managers using [fzf (⭐67k)](https://github.com/junegunn/fzf). Supports `apt`, `brew` & `dnf`.
 
 ## [7. Awesome Fiber](/content/gofiber/awesome-fiber/README.md)
 
 ### ⚙️ Middlewares / 🌱 Third Party
 
-*   [samber/slog-fiber (⭐35)](https://github.com/samber/slog-fiber) - A logger middleware that uses Go slog library.
+*   [samber/slog-fiber (⭐68)](https://github.com/samber/slog-fiber) - A logger middleware that uses Go slog library.
 
 ## [8. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
 
 ### Orchestration
 
-*   [Ansible Linux Docker (⭐18)](https://github.com/Peco602/ansible-linux-docker) - Run Ansible from a Linux container. By [@Peco602](https://github.com/Peco602)
+*   [Ansible Linux Docker (⭐23)](https://github.com/Peco602/ansible-linux-docker) - Run Ansible from a Linux container. By [@Peco602](https://github.com/Peco602)
 
 ### Security
 
-*   [dvwassl (⭐3)](https://github.com/Peco602/dvwassl) - SSL-enabled Damn Vulnerable Web App to test Web Application Firewalls. By [@Peco602](https://github.com/Peco602)
+*   [dvwassl (⭐5)](https://github.com/Peco602/dvwassl) - SSL-enabled Damn Vulnerable Web App to test Web Application Firewalls. By [@Peco602](https://github.com/Peco602)
 
 ### Development Environment / Other
 
-*   [Rust Universal Compiler (⭐29)](https://github.com/Peco602/rust-universal-compiler) - Container solution to compile Rust projects for Linux, macOS and Windows. By [@Peco602](https://github.com/Peco602)
+*   [Rust Universal Compiler (⭐32)](https://github.com/Peco602/rust-universal-compiler) - Container solution to compile Rust projects for Linux, macOS and Windows. By [@Peco602](https://github.com/Peco602)
 
 ---
 

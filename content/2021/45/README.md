@@ -10,7 +10,7 @@
 
 ### Tools / Community providers
 
-*   [rover (⭐3k)](https://github.com/im2nguyen/rover) - Interactive Terraform state and configuration explorer.
+*   [rover (⭐3.1k)](https://github.com/im2nguyen/rover) - Interactive Terraform state and configuration explorer.
 
 ## [2. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/week/README.md)
 
@@ -23,14 +23,14 @@
 ### Tools
 
 *   [ansible-bender](https://ansible-community.github.io/ansible-bender/build/html/index.html) - Tool which bends containers using Ansible playbooks and turns them into container images.
-*   [ansible-runner (⭐904)](https://github.com/ansible/ansible-runner) - A tool and python library that helps when interfacing with Ansible directly or as part of another system whether that be through a container image interface, as a standalone tool, or as a Python module that can be imported.
+*   [ansible-runner (⭐977)](https://github.com/ansible/ansible-runner) - A tool and python library that helps when interfacing with Ansible directly or as part of another system whether that be through a container image interface, as a standalone tool, or as a Python module that can be imported.
 *   [ansible-builder](https://ansible-builder.readthedocs.io/en/latest/) - Using Ansible content that depends on non-default dependencies can be tricky. Packages must be installed on each node, play nicely with other software installed on the host system, and be kept in sync.
 
 ## [4. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Crates / Component Libraries
 
-*   [yew-mdc (⭐62)](https://github.com/dungeonfog/yew-mdc) - Material Design Components for the Yew framework.
+*   [yew-mdc (⭐63)](https://github.com/dungeonfog/yew-mdc) - Material Design Components for the Yew framework.
 
 ## [5. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
@@ -89,7 +89,7 @@
 
 ### Logging
 
-*   [Sejil (⭐182)](https://github.com/alaatm/Sejil) - Capture, view and filter your ASP.NET Core app's logs right from your app. It supports structured logging, querying as well as saving log queries.
+*   [Sejil (⭐183)](https://github.com/alaatm/Sejil) - Capture, view and filter your ASP.NET Core app's logs right from your app. It supports structured logging, querying as well as saving log queries.
 
 ## [10. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
 
@@ -131,13 +131,13 @@
 
 ### Libraries/Frameworks / Misc
 
-*   [yole/kxdate (⭐257)](https://github.com/yole/kxdate) - Kotlin extensions for Java 8 java.time API
+*   [yole/kxdate (⭐258)](https://github.com/yole/kxdate) - Kotlin extensions for Java 8 java.time API
 
 ## [15. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Media Streaming - Multimedia Streaming
 
-*   [Stash](https://stashapp.cc) - A web-based library organizer and player for your adult media stash, with auto-tagging and metadata scraping support. ([Source Code (⭐8.7k)](https://github.com/stashapp/stash)) `AGPL-3.0` `Docker/Go`
+*   [Stash](https://stashapp.cc) - A web-based library organizer and player for your adult media stash, with auto-tagging and metadata scraping support. ([Source Code (⭐9.7k)](https://github.com/stashapp/stash)) `AGPL-3.0` `Docker/Go`
 
 ### Software / Ticketing
 
@@ -145,17 +145,17 @@
 
 ### Software / Wikis
 
-*   [WackoWiki](https://wackowiki.org/) - WackoWiki is a light and easy to install multilingual Wiki-engine. ([Source Code (⭐41)](https://github.com/WackoWiki/wackowiki)) `BSD-3-Clause` `PHP`
+*   [WackoWiki](https://wackowiki.org/) - WackoWiki is a light and easy to install multilingual Wiki-engine. ([Source Code (⭐46)](https://github.com/WackoWiki/wackowiki)) `BSD-3-Clause` `PHP`
 
 ## [16. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [catppuccin/nvim (⭐5.3k)](https://github.com/catppuccin/nvim) - Warm mid-tone dark theme to show off your vibrant self! with support for native LSP, Tree-sitter, and more 🍨!
+*   [catppuccin/nvim (⭐5.9k)](https://github.com/catppuccin/nvim) - Warm mid-tone dark theme to show off your vibrant self! With support for native LSP, Tree-sitter, and more.
 
 ## [17. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
-### Web History and Website Capture / Telegram
+### Web History and Website Capture / Steam
 
 *   [stored.website](https://stored.website)
 
@@ -169,13 +169,13 @@
 
 ### Resources / Books
 
-*   [Hydras & Co. (⭐63)](https://github.com/coq-community/hydra-battles) - Continuously in-progress book and library on Kirby and Paris' hydra battles and other entertaining formalized mathematics in Coq, including a proof of the Gödel-Rosser first incompleteness theorem.
+*   [Hydras & Co. (⭐70)](https://github.com/coq-community/hydra-battles) - Continuously in-progress book and library on Kirby and Paris' hydra battles and other entertaining formalized mathematics in Coq, including a proof of the Gödel-Rosser first incompleteness theorem.
 
 ## [20. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / JSON
 
-*   [JSONMapper (⭐207)](https://github.com/JsonMapper/JsonMapper) - A library for mapping JSON to PHP objects.
+*   [JSONMapper (⭐212)](https://github.com/JsonMapper/JsonMapper) - A library for mapping JSON to PHP objects.
 
 ## [21. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
@@ -203,68 +203,68 @@
 
 ### GUI
 
-*   [DbGate (⭐4.7k)](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application.
+*   [DbGate (⭐5.7k)](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application.
 
 ## [25. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Command line interface (CLI) / Terminal / Shell
 
-*   [vesseract (⭐18)](https://github.com/barrack-obama/vesseract) - V wrapper for Tesseract-OCR (optical character recognition).
+*   [vesseract (⭐17)](https://github.com/barrack-obama/vesseract) - V wrapper for Tesseract-OCR (optical character recognition).
 
 ### Game development
 
-*   [engine (⭐42)](https://github.com/LouisSchmieder/engine) - WIP Vulkan in V.
+*   [engine (⭐45)](https://github.com/LouisSchmieder/engine) - WIP Vulkan in V.
 
 ## [26. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
 
 ### Communications / GPS
 
-*   [Asynchronous GPS driver (⭐718)](https://github.com/peterhinch/micropython-async/blob/master/v3/docs/GPS.md) - Receive and parse GPS data as a uasyncio task.
+*   [Asynchronous GPS driver (⭐761)](https://github.com/peterhinch/micropython-async/blob/master/v3/docs/GPS.md) - Receive and parse GPS data as a uasyncio task.
 
 ### Communications / IoT
 
-*   [micropython-iot (⭐87)](https://github.com/peterhinch/micropython-iot) - An approach to designing IoT applications using ESP8266, ESP32 or Pyboard D endpoints.
+*   [micropython-iot (⭐93)](https://github.com/peterhinch/micropython-iot) - An approach to designing IoT applications using ESP8266, ESP32 or Pyboard D endpoints.
 
 ### Display / Fonts
 
-*   [writer (⭐375)](https://github.com/peterhinch/micropython-font-to-py/blob/master/writer/WRITER.md) - A simple way to render above Python fonts to displays whose driver is subclassed from `framebuf`.
+*   [writer (⭐401)](https://github.com/peterhinch/micropython-font-to-py/blob/master/writer/WRITER.md) - A simple way to render above Python fonts to displays whose driver is subclassed from `framebuf`.
 
 ### Display / GUI
 
-*   [micropython-nano-gui (⭐468)](https://github.com/peterhinch/micropython-nano-gui) - A tiny display-only GUI with a limited set of GUI objects (widgets) for displays whose display driver is subclassed from the `framebuf` class. With drivers for TFT, ePaper and OLED displays.
-*   [micro-gui (⭐241)](https://github.com/peterhinch/micropython-micro-gui) - Derived from nano-gui and supporting the same displays and hosts, this provides for user input via push buttons or a navigation joystick and an optional rotary encoder.
+*   [micropython-nano-gui (⭐529)](https://github.com/peterhinch/micropython-nano-gui) - A tiny display-only GUI with a limited set of GUI objects (widgets) for displays whose display driver is subclassed from the `framebuf` class. With drivers for TFT, ePaper and OLED displays.
+*   [micro-gui (⭐278)](https://github.com/peterhinch/micropython-micro-gui) - Derived from nano-gui and supporting the same displays and hosts, this provides for user input via push buttons or a navigation joystick and an optional rotary encoder.
 
 ### IO / Rotary Encoder
 
-*   [encoders (⭐447)](https://github.com/peterhinch/micropython-samples/blob/master/encoders/ENCODERS.md) - Short document explaining issues around encoder technology.
-*   [asynchronous encoder driver (⭐718)](https://github.com/peterhinch/micropython-async/blob/master/v3/primitives/encoder.py) - Interface an encoder to uasyncio code.
+*   [encoders (⭐482)](https://github.com/peterhinch/micropython-samples/blob/master/encoders/ENCODERS.md) - Short document explaining issues around encoder technology.
+*   [asynchronous encoder driver (⭐761)](https://github.com/peterhinch/micropython-async/blob/master/v3/primitives/encoder.py) - Interface an encoder to uasyncio code.
 
 ### Mathematics / Waveform Generator
 
-*   [Filters (⭐64)](https://github.com/peterhinch/micropython-filters) - FIR filters using ARM Thumb assembler. Using an online utility you can go from a graph of required frequency response to a filter implementation.
+*   [Filters (⭐67)](https://github.com/peterhinch/micropython-filters) - FIR filters using ARM Thumb assembler. Using an online utility you can go from a graph of required frequency response to a filter implementation.
 
 ### Sensors / Temperature Digital
 
-*   [HTU21D (⭐718)](https://github.com/peterhinch/micropython-async/blob/master/v3/docs/HTU21D.md) - Asynchronous driver for HTU21D temperature and humidity sensor.
+*   [HTU21D (⭐761)](https://github.com/peterhinch/micropython-async/blob/master/v3/docs/HTU21D.md) - Asynchronous driver for HTU21D temperature and humidity sensor.
 
 ### Storage / EEPROM
 
-*   [micropython\_eeprom (⭐70)](https://github.com/peterhinch/micropython_eeprom) - Cross-platform MicroPython device drivers for memory chips (EEPROM, FRAM, Flash, PSRAM).
+*   [micropython\_eeprom (⭐79)](https://github.com/peterhinch/micropython_eeprom) - Cross-platform MicroPython device drivers for memory chips (EEPROM, FRAM, Flash, PSRAM).
 
 ### Storage / Flash
 
-*   [micropython\_data\_to\_py (⭐26)](https://github.com/peterhinch/micropython_data_to_py) - A Python 3 utility to convert an arbitrary binary file to Python source for freezing as bytecode in Flash.
+*   [micropython\_data\_to\_py (⭐29)](https://github.com/peterhinch/micropython_data_to_py) - A Python 3 utility to convert an arbitrary binary file to Python source for freezing as bytecode in Flash.
 
 ### Debugging / SRAM
 
 *   [micropython-aiosentry (⭐11)](https://github.com/devbis/micropython-aiosentry) - Asynchronous Sentry.io micro client for MicroPython.
-*   [Asynchronous monitor (⭐28)](https://github.com/peterhinch/micropython-monitor) - Use a Raspberry Pico and a logic analyser or scope to monitor asynchronous code.
+*   [Asynchronous monitor (⭐33)](https://github.com/peterhinch/micropython-monitor) - Use a Raspberry Pico and a logic analyser or scope to monitor asynchronous code.
 
 ## [27. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Community Extensions
 
-*   [Useful Keycloak EventListenerProvider implementations and utilities (⭐165)](https://github.com/p2-inc/keycloak-events)
+*   [Useful Keycloak EventListenerProvider implementations and utilities (⭐205)](https://github.com/p2-inc/keycloak-events)
 
 ## [28. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
 
@@ -302,7 +302,7 @@
 
 ### Web
 
-*   [kalidoface (⭐46)](https://github.com/yeemachine/kalidoface) - Face and Body Tracking for Live2D / 3D models on the web. \[English]
+*   [kalidoface (⭐48)](https://github.com/yeemachine/kalidoface) - Face and Body Tracking for Live2D / 3D models on the web. \[English]
 
 ## [30. Tools](/content/lvwzhen/tools/week/README.md)
 
@@ -322,7 +322,7 @@
 
 ### Projects
 
-*   [Haven (⭐628)](https://github.com/havenweb/haven) - Host a private blog on your Rasperry Pi intead of using Facebook.
+*   [Haven (⭐650)](https://github.com/havenweb/haven) - Host a private blog on your Rasperry Pi intead of using Facebook.
 
 ## [32. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
@@ -332,7 +332,7 @@
 
 ### Misc / Other
 
-*   [SurveyJS (⭐4k)](https://github.com/surveyjs/survey-library) - SurveyJS is a JavaScript Survey and Form Library. <https://surveyjs.io/>
+*   [SurveyJS (⭐4.1k)](https://github.com/surveyjs/survey-library) - SurveyJS is a JavaScript Survey and Form Library. <https://surveyjs.io/>
 
 ## [33. Awesome Cassandra](/content/Anant/awesome-cassandra/week/README.md)
 
@@ -354,13 +354,13 @@
 
 ### Dependency Injection / Language Processing
 
-*   [Poodinis (⭐67)](https://github.com/mbierlee/poodinis) - A dependency injection framework for D with support for autowiring.
+*   [Poodinis (⭐70)](https://github.com/mbierlee/poodinis) - A dependency injection framework for D with support for autowiring.
 
 ## [36. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Reading and Writing Tools / Note-taking
 
-*   [SideNotes](https://www.apptorium.com/sidenotes) - Quick notes on the screen side. Take notes while working with other apps. Use Markdown for text formatting.
+*   [SideNotes](https://www.apptorium.com/sidenotes) - Quick notes on the screen side with Markdown support.
 
 ### Utilities / File Organization Tools
 
@@ -384,7 +384,7 @@
 
 ### Database
 
-*   [ClickHouse (⭐297)](https://github.com/ClickHouse/clickhouse-cpp) - C++ client for ClickHouse DBMS. \[Apache2]
+*   [ClickHouse (⭐310)](https://github.com/ClickHouse/clickhouse-cpp) - C++ client for ClickHouse DBMS. \[Apache2]
 
 ## [39. Awesome Webxr](/content/msub2/awesome-webxr/week/README.md)
 
@@ -397,17 +397,17 @@
 
 ### Rust / Git
 
-*   [ockam (⭐4.4k)](https://github.com/ockam-network/ockam) - is a Rust library for end-to-end encryption and mutual authentication.
+*   [ockam (⭐4.5k)](https://github.com/ockam-network/ockam) - is a Rust library for end-to-end encryption and mutual authentication.
 
 ## [41. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Tools / Paid and commercially available materials
 
-*   [ferros (⭐106)](https://github.com/auxoncorp/ferros) A Rust-based userland which also adds compile-time assurances to seL4 development.
+*   [ferros (⭐110)](https://github.com/auxoncorp/ferros) A Rust-based userland which also adds compile-time assurances to seL4 development.
 
 ### no-std crates / WIP
 
-*   [sntpc](https://crates.io/crates/sntpc): Rust SNTP client to get a timestamp from NTP servers. - ![crates.io](https://img.shields.io/crates/v/sntpc)
+*   [sntpc](https://crates.io/crates/sntpc): Rust SNTP client to get a timestamp from NTP servers. - [![crates.io](https://img.shields.io/crates/v/sntpc)](https://crates.io/crates/sntpc)
 
 ## [42. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
@@ -427,20 +427,20 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Materio Free Vuetify VueJS Laravel Admin Template (⭐186)](https://github.com/themeselection/materio-vuetify-vuejs-laravel-admin-template-free) - Open-source & easy to use Vuetify Vuejs Laravel Admin Template with Elegant Design & Unique Layout.
+*   [Materio Free Vuetify VueJS Laravel Admin Template (⭐191)](https://github.com/themeselection/materio-vuetify-vuejs-laravel-admin-template-free) - Open-source & easy to use Vuetify Vuejs Laravel Admin Template with Elegant Design & Unique Layout.
 
 ### Components & Libraries / Frameworks
 
-*   [Element Plus (⭐24k)](https://github.com/element-plus/element-plus) - A Vue 3 UI Framework.
+*   [Element Plus (⭐25k)](https://github.com/element-plus/element-plus) - A Vue 3 UI Framework.
 
 ### Components & Libraries / UI Components
 
-*   [jz-gantt (⭐234)](https://github.com/jeremyjone/jz-gantt) - A high-performance Vue gantt component, which includes highly customizable table columns, dynamic update data, freely drag the progress bar, switch header, etc.
+*   [jz-gantt (⭐264)](https://github.com/jeremyjone/jz-gantt) - A high-performance Vue gantt component, which includes highly customizable table columns, dynamic update data, freely drag the progress bar, switch header, etc.
 
 ### Components & Libraries / Utilities
 
-*   [harlem (⭐514)](https://github.com/andrewcourtice/harlem) - Simple, unopinionated, lightweight and extensible state management for Vue 3
-*   [vue-stripe-js (⭐138)](https://github.com/ectoflow/vue-stripe-js) - Vue 3 components for Stripe.js
+*   [harlem (⭐517)](https://github.com/andrewcourtice/harlem) - Simple, unopinionated, lightweight and extensible state management for Vue 3
+*   [vue-stripe-js (⭐150)](https://github.com/ectoflow/vue-stripe-js) - Vue 3 components for Stripe.js
 
 ## [44. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -543,7 +543,7 @@
 
   Documentation: [Documentation](https://agola.io/doc/)
 
-  Price: [Open Source (⭐1.4k)](https://github.com/agola-io/agola)
+  Price: [Open Source (⭐1.5k)](https://github.com/agola-io/agola)
 
   Stars: [![Stars](https://img.shields.io/github/stars/agola-io/agola.svg)](https://github.com/agola-io/agola)
 
@@ -568,7 +568,7 @@
 
 ### Debugging
 
-*   [Scyther (⭐107)](https://github.com/bstillitano/Scyther) - A full-featured, in-app debugging menu packed full of useful tools including network logging, layout inspection, location spoofing, console logging and so much more.
+*   [Scyther (⭐108)](https://github.com/bstillitano/Scyther) - A full-featured, in-app debugging menu packed full of useful tools including network logging, layout inspection, location spoofing, console logging and so much more.
 
 ## [50. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/week/README.md)
 
@@ -601,9 +601,9 @@
 
 ### Tools
 
-*   [har-to-k6 (⭐123)](https://github.com/grafana/har-to-k6) - Tool for converting HAR recordings to k6 test scripts.
-*   [postman-to-k6 (⭐287)](https://github.com/grafana/postman-to-k6) - Tool for converting Postman collections to k6 test scripts.
-*   [jmeter-to-k6 (⭐68)](https://github.com/grafana/jmeter-to-k6) - Tool for converting JMeter test cases to k6 test scripts.
+*   [har-to-k6 (⭐127)](https://github.com/grafana/har-to-k6) - Tool for converting HAR recordings to k6 test scripts.
+*   [postman-to-k6 (⭐290)](https://github.com/grafana/postman-to-k6) - Tool for converting Postman collections to k6 test scripts.
+*   [jmeter-to-k6 (⭐69)](https://github.com/grafana/jmeter-to-k6) - Tool for converting JMeter test cases to k6 test scripts.
 
 ### CI/CD
 
@@ -620,13 +620,13 @@
 
 ### CBOR
 
-*   [CBORCoding (⭐46)](https://github.com/SomeRandomiOSDev/CBORCoding) :penguin: - Easy CBOR encoding and decoding for iOS, macOS, tvOS and watchOS.
+*   [CBORCoding (⭐49)](https://github.com/SomeRandomiOSDev/CBORCoding) :penguin: - Easy CBOR encoding and decoding for iOS, macOS, tvOS and watchOS.
 
 ## [54. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### Database / Text-Based User Interfaces
 
-*   [ArangoDB (⭐200)](https://github.com/arangodb/arangodb-java-driver) - ArangoDB Java driver.
+*   [ArangoDB (⭐202)](https://github.com/arangodb/arangodb-java-driver) - ArangoDB Java driver.
 
 ### Miscellaneous / Text-Based User Interfaces
 
@@ -634,12 +634,12 @@
 
 ### Monitoring / Text-Based User Interfaces
 
-*   [Sentry ![c](https://cdn.rawgit.com/akullpp/23246ca832bda82bb505230bf3538e2a/raw/d9bcdb769bf025292f9c6bc1290f01f1fcd1f864/commercial.svg) (⭐1.1k)](https://github.com/getsentry/sentry-java) - Integration with [Sentry (⭐38k)](https://github.com/getsentry/sentry), an application error tracking and performance analysis platform.
+*   [Sentry ![c](https://cdn.rawgit.com/akullpp/23246ca832bda82bb505230bf3538e2a/raw/d9bcdb769bf025292f9c6bc1290f01f1fcd1f864/commercial.svg) (⭐1.2k)](https://github.com/getsentry/sentry-java) - Integration with [Sentry (⭐39k)](https://github.com/getsentry/sentry), an application error tracking and performance analysis platform.
 
 ### Template Engine / Other
 
-*   [Jamal (⭐56)](https://github.com/verhas/jamal) - Extendable template engine embedded into Maven/JavaDoc, supporting multiple extensions (Groovy, Ruby, JavaScript, JShell, PlantUml) with support for snippet handling.
-*   [jte (⭐735)](https://github.com/casid/jte) - Compiles to classes, and uses an easy syntax, several features to make development easier and provides fast execution and a small footprint.
+*   [Jamal (⭐58)](https://github.com/verhas/jamal) - Extendable template engine embedded into Maven/JavaDoc, supporting multiple extensions (Groovy, Ruby, JavaScript, JShell, PlantUml) with support for snippet handling.
+*   [jte (⭐826)](https://github.com/casid/jte) - Compiles to classes, and uses an easy syntax, several features to make development easier and provides fast execution and a small footprint.
 
 ### People / Other
 
@@ -670,13 +670,13 @@
 
 ### Tools & Software / Replay
 
-*   [warc2html (⭐37)](https://github.com/iipc/warc2html) - Converts WARC files to static HTML suitable for browsing offline or rehosting.
+*   [warc2html (⭐43)](https://github.com/iipc/warc2html) - Converts WARC files to static HTML suitable for browsing offline or rehosting.
 
 ## [58. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
 ### RSS services powered by utilizing GitHub / Outline Processor Markup Language
 
-*   [Bubo reader (⭐181)](https://github.com/georgemandis/bubo-rss): a hyper-minimalist RSS and JSON feed reader you can deploy on Netlify or Glitch [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/georgemandis/bubo-rss)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)([Deploy on Github (⭐1)](https://github.com/kevinfiol/reader)-personal fork)
+*   [Bubo reader (⭐199)](https://github.com/georgemandis/bubo-rss): a hyper-minimalist RSS and JSON feed reader you can deploy on Netlify or Glitch [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/georgemandis/bubo-rss)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)([Deploy on Github (⭐3)](https://github.com/kevinfiol/reader)-personal fork)
 
 ## [59. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
 

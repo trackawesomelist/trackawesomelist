@@ -22,7 +22,7 @@
 
 ### MIDI Tools & Libraries
 
-*   [mido (⭐1.4k)](https://github.com/mido/mido) - Python library for working with MIDI messages and ports.
+*   [mido (⭐1.5k)](https://github.com/mido/mido) - Python library for working with MIDI messages and ports.
 
 ## [4. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
@@ -34,12 +34,12 @@
 
 ### Templates / Vanilla
 
-*   [vite-starter-markup-template (⭐33)](https://github.com/Grinch3214/vite-starter-markup-template) - Starter template for Markup.
+*   [vite-starter-markup-template (⭐44)](https://github.com/Grinch3214/vite-starter-markup-template) - Starter template for Markup.
 
 ### Templates / React
 
-*   [vite-react-chakra-starter (⭐96)](https://github.com/sozonome/vite-react-chakra-starter) - Starter template for creating React App with TypeScript and Chakra UI. Configured with ESLint, Prettier, and Husky.
-*   [vite-react-tailwind-starter (⭐31)](https://github.com/sozonome/vite-react-tailwind-starter) - Starter template for creating React App with TypeScript and Tailwind CSS with Shadcn UI. Configured with ESLint, Prettier, and Husky.
+*   [vite-react-chakra-starter (⭐105)](https://github.com/sozonome/vite-react-chakra-starter) - Starter template for creating React App with TypeScript and Chakra UI. Configured with ESLint, Prettier, and Husky.
+*   [vite-react-tailwind-starter (⭐43)](https://github.com/sozonome/vite-react-tailwind-starter) - Starter template for creating React App with TypeScript and Tailwind CSS with Shadcn UI. Configured with ESLint, Prettier, and Husky.
 
 ## [6. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -148,7 +148,7 @@
 
 ### Templating
 
-*   🍰 [Tools:Tree (⭐336)](https://github.com/dereuromark/cakephp-tools) - Tree helper to work with Core Tree behavior and handle tree structure output.
+*   [Tools:Tree](https://github.com/dereuromark/cakephp-tools) - Tree helper to work with Core Tree behavior and handle tree structure output.
 
 ---
 

@@ -10,7 +10,7 @@
 
 ### Deployment Hosting
 
-*   [Railway](https://railway.app/) - Out-of-the-box git to deployment with auto scaling, DBs, secrets and rollbacks.
+*   [Railway](https://railway.app/) - Out-of-the-box git to deployment with auto-scaling, DBs, secrets, and rollbacks. [![featured on launchweek.dev](https://img.shields.io/badge/featured-0D1117.svg?style=flat-square\&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMzYwIiBoZWlnaHQ9IjM2MCIgdmlld0JveD0iMCAwIDM2MCAzNjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+IDxyZWN0IHdpZHRoPSI2MCIgaGVpZ2h0PSIzMDAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjYwIiB5PSIzMDAiIHdpZHRoPSIxMjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjI0MCIgeT0iMzAwIiB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjMwMCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjMwMCIgZmlsbD0id2hpdGUiLz4gPHJlY3QgeD0iMTgwIiB3aWR0aD0iNjAiIGhlaWdodD0iMzAwIiBmaWxsPSJ3aGl0ZSIvPiA8L3N2Zz4=)](https://launchweek.dev)
 
 ## [2. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
@@ -18,15 +18,11 @@
 
 *   [IDCrawl](https://www.idcrawl.com/) - Search for a name in popular social networks.
 
-### Username Check / Telegram
+### Username Check / Steam
 
 *   [IDCrawl](https://www.idcrawl.com/username) - Search for a username in popular social networks.
 
 ## [3. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
-
-### Tools / Data
-
-*   [ProvenDB](https://www.provendb.com/) -  Blockchain based Data integrity solution for MongoDB
 
 ### Tools / Desktop
 
@@ -42,7 +38,7 @@
 
 ### Querying HTML/DOM, web scraping / Isomorphic web frameworks
 
-*   👍 [lquery (⭐86)](https://github.com/Shinmera/lquery) - A jQuery-like HTML/DOM manipulation library. [zlib](https://directory.fsf.org/wiki/License:Zlib).
+*   👍 [lquery (⭐87)](https://github.com/Shinmera/lquery) - A jQuery-like HTML/DOM manipulation library. [zlib](https://directory.fsf.org/wiki/License:Zlib).
 
 ## [6. Awesome Preact](/content/preactjs/awesome-preact/README.md)
 
@@ -66,7 +62,7 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [RishabhRD/gruvy (⭐16)](https://github.com/RishabhRD/gruvy) - Gruvbuddy without colorbuddy using Lush.
+*   [RishabhRD/gruvy (⭐15)](https://github.com/RishabhRD/gruvy) - Gruvbuddy without colorbuddy using Lush.
 
 ## [10. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
@@ -84,7 +80,7 @@
 
 ### Status Bar
 
-*   [tmux-pomodoro-plus (⭐277)](https://github.com/olimorris/tmux-pomodoro-plus) Incorporate the Pomodoro technique into your tmux workflow
+*   [tmux-pomodoro-plus (⭐335)](https://github.com/olimorris/tmux-pomodoro-plus) Incorporate the Pomodoro technique into your tmux workflow
 
 ---
 

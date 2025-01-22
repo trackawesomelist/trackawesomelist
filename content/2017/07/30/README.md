@@ -43,21 +43,16 @@
 
 ### Websites
 
-*   Appcrawlr - <http://appcrawlr.com/>
 *   appPicker - <http://www.apppicker.com/>
 *   Appvita - <http://www.appvita.com/>
 *   Arctic Startup - <http://arcticstartup.com/>
-*   BetaList - <https://betalist.com/submit>
 *   BuiltInChicago - <http://www.builtinchicago.org/send-us-tip>
 *   Crunch Base - <https://www.crunchbase.com/#/home/index>
 *   Haro - <https://www.helpareporter.com/sources/>
-*   Index.co - <https://index.co/startup>
 *   Land-book - <https://land-book.com/guidelines>
 *   MakeUseOf - <http://www.makeuseof.com/about/>
 *   Netted - <https://www.netted.net/contact-us/>
-*   Paggu - <http://www.paggu.com/submit-your-startup/>
 *   PreApps - <http://www.preapps.com/>
-*   Programmable Web - <https://www.programmableweb.com/news/how-to-pitch-programmableweb-covering-your-news/2016/11/18>
 *   Show HN - <https://news.ycombinator.com/showhn.html>
 *   SimilarSiteSearch - <http://www.similarsitesearch.com/tips.html>
 *   Slant - <https://www.slant.co/>
@@ -68,9 +63,6 @@
 *   Tabscape - <https://www.tapscape.com/>
 *   Tech Pluto - <http://www.techpluto.com/submit-a-startup/>
 *   The iPhone Mom - <https://www.theiphonemom.com/>
-*   Top Alternatives - <https://topalternatives.com/>
-*   VB Profiles - <http://vbprofiles.com/>
-*   YouNoodle - <https://ww2.younoodle.com/startups/>
 
 ## [6. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 

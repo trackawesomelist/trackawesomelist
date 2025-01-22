@@ -10,7 +10,7 @@
 
 ### Game Frameworks / XML
 
-*   [Dagon (⭐290)](https://github.com/gecko0307/dagon) - 3D game engine for D. see <https://gecko0307.github.io/dagon/>
+*   [Dagon (⭐331)](https://github.com/gecko0307/dagon) - 3D game engine for D. see <https://gecko0307.github.io/dagon/>
 
 ## [2. Awesome Esolangs](/content/angrykoala/awesome-esolangs/week/README.md)
 
@@ -27,7 +27,7 @@
     ![](https://img.shields.io/github/stars/argyleink/open-props.svg?style=social\&label=Star)
     [Demo](https://open-props.style/#gallery),
     [Docs](https://open-props.style/#getting-started),
-    [Repo (⭐4.5k)](https://github.com/argyleink/open-props/)
+    [Repo (⭐4.8k)](https://github.com/argyleink/open-props/)
     \| #CSS #PostCSS
 
 ## [4. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
@@ -107,12 +107,12 @@
 
 ### Time Series / Others
 
-*   [sktime (⭐7.4k)](https://github.com/alan-turing-institute/sktime) - A unified framework for machine learning with time series. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
-*   [tslearn (⭐2.8k)](https://github.com/rtavenar/tslearn) - Machine learning toolkit dedicated to time-series data. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
-*   [tick (⭐468)](https://github.com/X-DataInitiative/tick) - Module for statistical learning, with a particular emphasis on time-dependent modeling.  <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
+*   [sktime (⭐7.8k)](https://github.com/alan-turing-institute/sktime) - A unified framework for machine learning with time series. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
+*   [tslearn (⭐2.9k)](https://github.com/rtavenar/tslearn) - Machine learning toolkit dedicated to time-series data. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
+*   [tick (⭐487)](https://github.com/X-DataInitiative/tick) - Module for statistical learning, with a particular emphasis on time-dependent modeling.  <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
 *   [Prophet (⭐18k)](https://github.com/facebook/prophet) - Automatic Forecasting Procedure.
 *   [PyFlux (⭐2.1k)](https://github.com/RJT1990/pyflux) - Open source time series library for Python.
-*   [bayesloop (⭐136)](https://github.com/christophmark/bayesloop) - Probabilistic programming framework that facilitates objective model selection for time-varying parameter models.
+*   [bayesloop (⭐152)](https://github.com/christophmark/bayesloop) - Probabilistic programming framework that facilitates objective model selection for time-varying parameter models.
 *   [luminol (⭐1.2k)](https://github.com/linkedin/luminol) - Anomaly Detection and Correlation library.
 *   [dateutil](https://dateutil.readthedocs.io/en/stable/) - Powerful extensions to the standard datetime module
 *   [maya (⭐3.4k)](https://github.com/timofurrer/maya) - makes it very easy to parse a string and for changing timezones
@@ -224,16 +224,15 @@
 
 ### Software / Database Management
 
-*   [Directus](https://directus.io/) - An Instant App & API for your SQL Database. Directus wraps your new or existing SQL database with a realtime GraphQL+REST API for developers, and an intuitive admin app for non-technical users. ([Source Code (⭐27k)](https://github.com/directus/directus)) `GPL-3.0` `Nodejs/Docker`
+*   [Directus](https://directus.io/) - An Instant App & API for your SQL Database. Directus wraps your new or existing SQL database with a realtime GraphQL+REST API for developers, and an intuitive admin app for non-technical users. ([Source Code (⭐29k)](https://github.com/directus/directus)) `GPL-3.0` `Nodejs/Docker`
 
 ### Software / Money, Budgeting & Management
 
-*   [Hub20](https://hub20.io/) - A self-hosted payment processor for Ethereum and ERC20 Tokens. ([Source Code](https://gitlab.com/mushroomlabs/hub20/)) `AGPL-3.0` `Docker/Python`
 *   [IHateMoney](https://ihatemoney.org/) - Manage your shared expenses, easily. ([Demo](https://ihatemoney.org/demo/), [Source Code (⭐1.2k)](https://github.com/spiral-project/ihatemoney)) `BSD-3-Clause` `Docker/Python`
 
 ### Software / Polls and Events
 
-*   [ClearFlask](https://clearflask.com) - Community-feedback tool for managing incoming feedback and prioritizing a public roadmap (alternative to Canny, UserVoice, Upvoty). ([Demo](https://product.clearflask.com), [Source Code (⭐284)](https://github.com/clearflask/clearflask)) `AGPL-3.0` `Docker`
+*   [ClearFlask](https://clearflask.com) - Community-feedback tool for managing incoming feedback and prioritizing a public roadmap (alternative to Canny, UserVoice, Upvoty). ([Demo](https://product.clearflask.com), [Source Code (⭐324)](https://github.com/clearflask/clearflask)) `AGPL-3.0` `Docker`
 
 ### Software / Software Development - Project Management
 
@@ -243,8 +242,8 @@
 
 ### Forms / Image Picker
 
-*   [Form Builder (⭐1.4k)](https://github.com/danvick/flutter_form_builder) <!--stargazers:danvick/flutter_form_builder--> - Framework that simplifies building forms, validating fields, reacting to changes, and collecting the final user input by [Danvick Miller](https://github.com/danvick)
-*   [Reactive Forms (⭐456)](https://github.com/joanpablo/reactive_forms) <!--stargazers:joanpablo/reactive_forms--> - Model-driven approach to handling Forms inputs and validations, heavily inspired in Angular's Reactive Forms.
+*   [Form Builder (⭐1.5k)](https://github.com/danvick/flutter_form_builder) <!--stargazers:danvick/flutter_form_builder--> - Framework that simplifies building forms, validating fields, reacting to changes, and collecting the final user input by [Danvick Miller](https://github.com/danvick)
+*   [Reactive Forms (⭐474)](https://github.com/joanpablo/reactive_forms) <!--stargazers:joanpablo/reactive_forms--> - Model-driven approach to handling Forms inputs and validations, heavily inspired in Angular's Reactive Forms.
 
 ## [16. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
@@ -256,7 +255,7 @@
 
 ### Tools / Linters
 
-*   [flake8-type-checking (⭐112)](https://github.com/snok/flake8-type-checking) - Plugin to help you guard any type-annotation-only import correctly.
+*   [flake8-type-checking (⭐116)](https://github.com/snok/flake8-type-checking) - Plugin to help you guard any type-annotation-only import correctly.
 
 ## [18. Tools](/content/lvwzhen/tools/week/README.md)
 
@@ -275,8 +274,8 @@
 ### Libraries / Functional Programming
 
 *   Prelude
-    *   [JasonShin/fp-core.rs (⭐1.3k)](https://github.com/JasonShin/fp-core.rs) - A library for functional programming
-    *   [myrrlyn/tap (⭐398)](https://github.com/myrrlyn/tap) - Suffix-Position Pipeline Behavior
+    *   [JasonShin/fp-core.rs (⭐1.4k)](https://github.com/JasonShin/fp-core.rs) - A library for functional programming
+    *   [myrrlyn/tap (⭐423)](https://github.com/myrrlyn/tap) - Suffix-Position Pipeline Behavior
 
 ## [21. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
 
@@ -288,35 +287,31 @@
 
 ### Validation / Playground
 
-*   [ts-codec (⭐16)](https://github.com/julienvincent/ts-codec) - TypeScript Codecs for encoding, decoding and validating data
+*   [ts-codec (⭐18)](https://github.com/julienvincent/ts-codec) - TypeScript Codecs for encoding, decoding and validating data
 
 ## [23. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [@vitejs/plugin-legacy (⭐67k)](https://github.com/vitejs/vite/tree/main/packages/plugin-legacy) - Legacy browser support.
+*   [@vitejs/plugin-legacy (⭐70k)](https://github.com/vitejs/vite/tree/main/packages/plugin-legacy) - Legacy browser support.
 
 ### Svelte / Integrations
 
-*   [vite-plugin-svelte (⭐835)](https://github.com/sveltejs/vite-plugin-svelte) - Adds Svelte support. Official plugin of Svelte team.
+*   [vite-plugin-svelte (⭐882)](https://github.com/sveltejs/vite-plugin-svelte) - Adds Svelte support. Official plugin of Svelte team.
 
 ## [24. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### (requires Neovim 0.5)
 
-*   [rmagatti/goto-preview (⭐796)](https://github.com/rmagatti/goto-preview) - Previewing native LSP's goto definition calls in floating windows.
+*   [rmagatti/goto-preview (⭐904)](https://github.com/rmagatti/goto-preview) - Previewing native LSP's goto definition calls in floating windows.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [andersevenrud/nordic.nvim (⭐173)](https://github.com/andersevenrud/nordic.nvim) - A nord-esque colorscheme.
+*   [andersevenrud/nordic.nvim (⭐176)](https://github.com/andersevenrud/nordic.nvim) - A nord-esque colorscheme.
 
 ### Utility / Diagnostics
 
-*   [stevearc/dressing.nvim (⭐1.8k)](https://github.com/stevearc/dressing.nvim) - Improve the built-in `vim.ui` interfaces with telescope, fzf, etc.
-
-### Editing Support / Diagnostics
-
-*   [ethanholz/nvim-lastplace (⭐308)](https://github.com/ethanholz/nvim-lastplace) - Reopen files at your last edit position.
+*   [stevearc/dressing.nvim (⭐2k)](https://github.com/stevearc/dressing.nvim) - Improve the built-in `vim.ui` interfaces with telescope, fzf, etc.
 
 ## [25. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
@@ -342,7 +337,7 @@
 
 ### Application Frameworks
 
-*   [Signals (⭐53)](https://github.com/EmitKnowledge/Signals) - Signals is a .NET5 based framework which focuses on increasing the quality and productivity within development teams by providing them with tools, aspects and processes.
+*   [Signals (⭐61)](https://github.com/EmitKnowledge/Signals) - Signals is a .NET5 based framework which focuses on increasing the quality and productivity within development teams by providing them with tools, aspects and processes.
 
 ### GUI
 
@@ -350,11 +345,11 @@
 
 ### MVVM
 
-*   [Community Toolkit](https://github.com/CommunityToolkit) - Collection of control & helper libraries and samples for various .NET technologies. Contains modern MVVM library, supported by Microsoft. Includes [Windows Community Toolkit (⭐5.8k)](https://github.com/CommunityToolkit/WindowsCommunityToolkit), [MAUI Community Toolkit (⭐2.2k)](https://github.com/CommunityToolkit/Maui), and [Dotnet Community Toolkit (⭐2.9k)](https://github.com/CommunityToolkit/dotnet).
+*   [Community Toolkit](https://github.com/CommunityToolkit) - Collection of control & helper libraries and samples for various .NET technologies. Contains modern MVVM library, supported by Microsoft. Includes [Windows Community Toolkit (⭐5.9k)](https://github.com/CommunityToolkit/WindowsCommunityToolkit), [MAUI Community Toolkit (⭐2.4k)](https://github.com/CommunityToolkit/Maui), and [Dotnet Community Toolkit (⭐3.2k)](https://github.com/CommunityToolkit/dotnet).
 
 ### Serialization
 
-*   [FlatSharp (⭐494)](https://github.com/jamescourtney/FlatSharp) - Fast, idiomatic FlatBuffers implementation. Use .fbs files or attributes.
+*   [FlatSharp (⭐519)](https://github.com/jamescourtney/FlatSharp) - Fast, idiomatic FlatBuffers implementation. Use .fbs files or attributes.
 
 ## [27. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
 
@@ -376,7 +371,7 @@
 
 ### Multimedia content processing
 
-*   [SVT Encore (⭐263)](https://github.com/svt/encore) - Selfhosted video transcoding plattform, built around FFmpeg.
+*   [SVT Encore (⭐273)](https://github.com/svt/encore) - Selfhosted video transcoding plattform, built around FFmpeg.
 
 ## [30. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
 
@@ -437,18 +432,13 @@
 
 *   [Polynote](https://polynote.org/)  <img src="https://img.shields.io/github/last-commit/polynote/polynote.svg"> - Polynote: an IDE-inspired polyglot notebook. It supports mixing multiple languages in one notebook, and sharing data between them seamlessly. It encourages reproducible notebooks with its immutable data model. Originating from [Netflix](https://medium.com/netflix-techblog/open-sourcing-polynote-an-ide-inspired-polyglot-notebook-7f929d3f447).
 
-### Packages / SQL Data Sources
-
-*   [Spark CSV (⭐1.1k)](https://github.com/databricks/spark-csv) <img src="https://img.shields.io/github/last-commit/databricks/spark-csv.svg"> - CSV reader and writer (obsolete since Spark 2.0 [\[SPARK-12833\]](https://issues.apache.org/jira/browse/SPARK-12833)).
-
 ### Packages / Machine Learning Extension
 
-*   [Clustering4Ever (⭐124)](https://github.com/Clustering4Ever/Clustering4Ever) <img src="https://img.shields.io/github/last-commit/Clustering4Ever/Clustering4Ever.svg"> Scala and Spark API to benchmark and analyse clustering algorithms on any vectorization you can generate.
-*   [Microsoft ML for Apache Spark (⭐4k)](https://github.com/Azure/mmlspark) <img src="https://img.shields.io/github/last-commit/Azure/mmlspark.svg"> - A distributed ml library with support for LightGBM, Vowpal Wabbit, OpenCV, Deep Learning, Cognitive Services, and Model Deployment.
+*   [Microsoft ML for Apache Spark (⭐5.1k)](https://github.com/Azure/mmlspark) <img src="https://img.shields.io/github/last-commit/Azure/mmlspark.svg"> - A distributed ml library with support for LightGBM, Vowpal Wabbit, OpenCV, Deep Learning, Cognitive Services, and Model Deployment.
 
 ### Packages / Natural Language Processing
 
-*   [spark-nlp (⭐3.2k)](https://github.com/JohnSnowLabs/spark-nlp) <img src="https://img.shields.io/github/last-commit/JohnSnowLabs/spark-nlp.svg"> - Natural language processing library built on top of Apache Spark ML.
+*   [spark-nlp (⭐3.9k)](https://github.com/JohnSnowLabs/spark-nlp) <img src="https://img.shields.io/github/last-commit/JohnSnowLabs/spark-nlp.svg"> - Natural language processing library built on top of Apache Spark ML.
 
 ### Resources / Papers
 
@@ -493,13 +483,13 @@
 
 ### Command-Line Productivity
 
-*   [sshrc (⭐207)](https://github.com/cdown/sshrc) - Bring your .bashrc, .vimrc, etc. with you when you SSH.
+*   [sshrc (⭐215)](https://github.com/cdown/sshrc) - Bring your .bashrc, .vimrc, etc. with you when you SSH.
 *   [zoxide (⭐21k)](https://github.com/ajeetdsouza/zoxide) - A better way to navigate your filesystem. Written in Rust, cross-shell, and much faster than other autojumpers.
 
 ### Shell Script Development
 
-*   [bashly (⭐2k)](https://github.com/DannyBen/bashly) - Bash command line framework and CLI generator.
-*   [bash-modules (⭐124)](https://github.com/vlisivka/bash-modules) - A collection of modules for unofficial strict mode.
+*   [bashly (⭐2.1k)](https://github.com/DannyBen/bashly) - Bash command line framework and CLI generator.
+*   [bash-modules (⭐127)](https://github.com/vlisivka/bash-modules) - A collection of modules for unofficial strict mode.
 
 ## [39. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/week/README.md)
 
@@ -521,17 +511,17 @@
 
 ### Projects / Libraries
 
-*   [CertiGraph (⭐16)](https://github.com/Salamari/CertiGraph) - Library for reasoning about directed graphs and their embedding in separation logic.
+*   [CertiGraph (⭐18)](https://github.com/Salamari/CertiGraph) - Library for reasoning about directed graphs and their embedding in separation logic.
 
 ## [41. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Web
 
-*   [moia-dev/lambda-kotlin-request-router (⭐19)](https://github.com/moia-dev/lambda-kotlin-request-router) - A REST request routing layer for AWS lambda handlers written in Kotlin
+*   [moia-dev/lambda-kotlin-request-router (⭐20)](https://github.com/moia-dev/lambda-kotlin-request-router) - A REST request routing layer for AWS lambda handlers written in Kotlin
 
 ### Libraries/Frameworks / Graphics
 
-*   [JetBrains/skiko (⭐1.8k)](https://github.com/JetBrains/skiko) - Kotlin Multiplatform bindings to Skia
+*   [JetBrains/skiko (⭐1.9k)](https://github.com/JetBrains/skiko) - Kotlin Multiplatform bindings to Skia
 
 ### Projects / Web
 
@@ -562,30 +552,21 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [imbalanced-ensemble (⭐299)](https://github.com/ZhiningLiu1998/imbalanced-ensemble) - Python toolbox for quick implementation, modification, evaluation, and visualization of ensemble learning algorithms for class-imbalanced data. Supports out-of-the-box multi-class imbalanced (long-tailed) classification.
+*   [imbalanced-ensemble (⭐340)](https://github.com/ZhiningLiu1998/imbalanced-ensemble) - Python toolbox for quick implementation, modification, evaluation, and visualization of ensemble learning algorithms for class-imbalanced data. Supports out-of-the-box multi-class imbalanced (long-tailed) classification.
 
 ## [45. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
-### Projects Using Vue.js / Apps/Websites
-
-*   [CryptoTracks](https://cryptotracks.io) - Unleash and discover musical creativity on the Ethereum blockchain.
-
 ### Components & Libraries / UI Components
 
-*   [vue3-emoji-picker (⭐175)](https://github.com/delowardev/vue3-emoji-picker) - Simple and Powerful Emoji Picker for Vue3.
-*   [vue-otp-2 (⭐12)](https://github.com/tonghoai/vue-otp-2) - Vue OTP input 2, A Vue component for OTP input.
-*   [vue3-otp-input (⭐111)](https://github.com/ejirocodes/vue3-otp-input) - A fully customizable, OTP (one-time-password) input component built with Vue 3.x and Vue Composition API.
+*   [vue3-emoji-picker (⭐198)](https://github.com/delowardev/vue3-emoji-picker) - Simple and Powerful Emoji Picker for Vue3.
+*   [vue3-otp-input (⭐119)](https://github.com/ejirocodes/vue3-otp-input) - A fully customizable, OTP (one-time-password) input component built with Vue 3.x and Vue Composition API.
 *   [Vueform](https://vueform.com) - (probably) the most comprehensive form builder for Vue.js [Online Demo](https://vueform.com/examples)
-
-### Components & Libraries / Utilities
-
-*   [vue-storage-watcher (⭐60)](https://github.com/dreambo8563/vue-storage-watcher) / [Vue 3 version (⭐5)](https://github.com/dreambo8563/next-vue-storage-watcher) - A reactive localStorage/sessionStorage plugin for Vue.js with strong typed for Vue 2 / Vue 3.
 
 ## [46. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Testing Frameworks / Runner
 
-*   [Playwright (⭐64k)](https://github.com/microsoft/playwright) - Node.js library to automate Chromium, Firefox and WebKit with a single API.
+*   [Playwright (⭐65k)](https://github.com/microsoft/playwright) - Node.js library to automate Chromium, Firefox and WebKit with a single API.
 
 ## [47. Awesome Umbraco](/content/umbraco-community/awesome-umbraco/week/README.md)
 

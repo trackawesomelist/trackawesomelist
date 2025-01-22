@@ -11,7 +11,7 @@
 ### Scheme / Git
 
 *   [guile-gnutls](https://gitlab.com/gnutls/guile/) - GnuTLS bindings for GNU Guile.
-*   [guile-ssh (⭐58)](https://github.com/artyom-poptsov/guile-ssh) - libssh bindings for GNU Guile.
+*   [guile-ssh (⭐63)](https://github.com/artyom-poptsov/guile-ssh) - libssh bindings for GNU Guile.
 
 ---
 

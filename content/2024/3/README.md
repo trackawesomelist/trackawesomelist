@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 15 - Jan 21, 2024
 
-42 awesome lists updated this week.
+41 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -22,25 +22,25 @@
 
 ### Software / Make your life easier
 
-*   [playwright-bdd (⭐204)](https://github.com/vitalets/playwright-bdd) - A module for running Behaviour-Driven Development (BDD) tests with Playwright runner.
+*   [playwright-bdd (⭐348)](https://github.com/vitalets/playwright-bdd) - A module for running Behaviour-Driven Development (BDD) tests with Playwright runner.
 
 ## [4. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
 
 ### Themes for non-GTK apps / Skeumorphic Icons
 
-*   [Thunderbird GNOME Theme (⭐277)](https://github.com/rafaelmardojai/thunderbird-gnome-theme) - Integrate Thunderbird into GNOME-based desktop using Adwaita.
+*   [Thunderbird GNOME Theme (⭐295)](https://github.com/rafaelmardojai/thunderbird-gnome-theme) - Integrate Thunderbird into GNOME-based desktop using Adwaita.
 
 ## [5. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / API
 
-*   [PackageGenerator (⭐422)](https://github.com/WsdlToPhp/PackageGenerator) - Package Generator generates a PHP SDK from any WSDL.
+*   [PackageGenerator (⭐430)](https://github.com/WsdlToPhp/PackageGenerator) - Package Generator generates a PHP SDK from any WSDL.
 
 ## [6. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/week/README.md)
 
 ### Tools
 
-*   [github-contributions (⭐0)](https://github.com/ferraridavide/scriptable/blob/main/github-contributions.js) - GitHub contributions heatmap on your lockscreen.
+*   [github-contributions (⭐12)](https://github.com/ferraridavide/scriptable/blob/main/github-contributions.js) - GitHub contributions heatmap on your lockscreen.
 
     <img src="https://raw.githubusercontent.com/ferraridavide/scriptable/main/img/github.jpg" width="300"/>
 
@@ -63,87 +63,41 @@
 
 ### Software / Database Management
 
-*   [AdminerEvo](https://docs.adminerevo.org/) - Database management in a single PHP file. Available for MySQL, MariaDB, PostgreSQL, SQLite, MS SQL, Oracle, Elasticsearch, MongoDB and others (fork of Adminer). ([Source Code (⭐522)](https://github.com/adminerevo/adminerevo)) `Apache-2.0/GPL-2.0` `PHP`
+*   [AdminerEvo](https://docs.adminerevo.org/) - Database management in a single PHP file. Available for MySQL, MariaDB, PostgreSQL, SQLite, MS SQL, Oracle, Elasticsearch, MongoDB and others (fork of Adminer). ([Source Code (⭐787)](https://github.com/adminerevo/adminerevo)) `Apache-2.0/GPL-2.0` `PHP`
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [Chibisafe](https://chibisafe.moe) - File uploader service that aims to to be easy to use and set up. It accepts files, photos, documents, anything you imagine and gives you back a shareable link for you to send to others. ([Source Code (⭐1.7k)](https://github.com/chibisafe/chibisafe)) `MIT` `Docker/Nodejs`
+*   [Chibisafe](https://chibisafe.moe) - File uploader service that aims to to be easy to use and set up. It accepts files, photos, documents, anything you imagine and gives you back a shareable link for you to send to others. ([Source Code (⭐2k)](https://github.com/chibisafe/chibisafe)) `MIT` `Docker/Nodejs`
 
 ### Software / Genealogy
 
-*   [Gramps Web](https://www.grampsweb.org/) - Web app for collaborative genealogy, based on and interoperable with Gramps, the open source genealogy desktop application. ([Demo](https://gramps-project.github.io/gramps-web-api/), [Source Code (⭐74)](https://github.com/gramps-project/gramps-web-api)) `AGPL-3.0` `Docker`
+*   [Gramps Web](https://www.grampsweb.org/) - Web app for collaborative genealogy, based on and interoperable with Gramps, the open source genealogy desktop application. ([Demo](https://gramps-project.github.io/gramps-web-api/), [Source Code (⭐92)](https://github.com/gramps-project/gramps-web-api)) `AGPL-3.0` `Docker`
 
 ### Software / Groupware
 
-*   [Twenty](https://twenty.com) - A modern CRM offering the flexibility of open source, advanced features, and a sleek design. ([Source Code (⭐16k)](https://github.com/twentyhq/twenty)) `AGPL-3.0` `Docker`
+*   [Twenty](https://twenty.com) - A modern CRM offering the flexibility of open source, advanced features, and a sleek design. ([Source Code (⭐25k)](https://github.com/twentyhq/twenty)) `AGPL-3.0` `Docker`
 
 ### Software / Pastebins
 
-*   [ybFeed (⭐31)](https://github.com/ybizeul/ybFeed) - Personal micro feed where you can post snippets of text or images. `MIT` `Go/Nodejs/Docker`
+*   [ybFeed (⭐47)](https://github.com/ybizeul/ybFeed) - Personal micro feed where you can post snippets of text or images. `MIT` `Go/Nodejs/Docker`
 
-## [9. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/week/README.md)
-
-### **RAG Pipeline & Advanced RAG**
-
-*   [9 Effective Techniques To Boost Retrieval Augmented Generation (RAG) Systems](https://towardsdatascience.com/9-effective-techniques-to-boost-retrieval-augmented-generation-rag-systems-210ace375049) [doc](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/9-effective-rag-techniques.png): ReRank, Prompt Compression, Hypothetical Document Embedding (HyDE), Query Rewrite and Expansion, Enhance Data Quality, Optimize Index Structure, Add Metadata, Align Query with Documents, Mixed Retrieval (Hybrid Search) \[2 Jan 2024]
-
-### **The Problem with RAG**
-
-*   [Seven Failure Points When Engineering a Retrieval Augmented Generation System](https://arxiv.org/abs/2401.05856): 1. Missing Content, 2. Missed the Top Ranked Documents, 3. Not in Context, 4. Not Extracted, 5. Wrong Format, 6. Incorrect Specificity, 7. Lack of Thorough Testing \[11 Jan 2024]
-
-### **LlamaIndex**
-
-*   From Simple to Advanced RAG [ref](https://twitter.com/jerryjliu0/status/1711419232314065288) \[10 Oct 2023] <br/> <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/advanced-rag.png" width="430">
-
-### **Vector Database Comparison**
-
-*   [A Comprehensive Survey on Vector Database](https://arxiv.org/abs/2310.11703): Categorizes search algorithms by their approach, such as hash-based, tree-based, graph-based, and quantization-based. \[18 Oct 2023]
-
-### **Microsoft Azure OpenAI relevant LLM Framework** / **Lucene based search engine with OpenAI Embedding**
-
-*   [TaskWeaver (⭐5.1k)](https://github.com/microsoft/TaskWeaver): A code-first agent framework which can convert natural language user requests into executable code, with additional support for rich data structures, dynamic plugin selection, and domain-adapted planning process. \[Sep 2023]
-
-### **OpenAI's Roadmap and Products** / **OpenAI's plans according to Sam Altman**
-
-*   Sam Altman reveals in an interview with Bill Gates (2 days ago) what's coming up in GPT-4.5 (or GPT-5): Potential integration with other modes of information beyond text, better logic and analysis capabilities, and consistency in performance over the next two years. [ref](https://x.com/IntuitMachine/status/1746278269165404164?s=20) \[12 Jan 2024]
-
-### **OpenAI's Roadmap and Products** / **OpenAI Products**
-
-*   [ChatGPT Plugin](https://openai.com/blog/chatgpt-plugins) \[23 Mar 2023]
-*   [Introducing the GPT Store](https://openai.com/blog/introducing-the-gpt-store): Roll out the GPT Store to ChatGPT Plus, Team and Enterprise users  [GPTs](https://chat.openai.com/gpts) \[10 Jan 2024]
-
-### **Trustworthy, Safe and Secure LLM** / **GPT series release date**
-
-*   [OpenAI Weak-to-strong generalization](https://arxiv.org/abs/2312.09390): In the superalignment problem, humans must supervise models that are much smarter than them. The paper discusses supervising a GPT-4 or 3.5-level model using a GPT-2-level model. It finds that while strong models supervised by weak models can outperform the weak models, they still don’t perform as well as when supervised by ground truth. [git (⭐2.5k)](https://github.com/openai/weak-to-strong) \[14 Dec 2023]
-*   [A Comprehensive Survey of Hallucination Mitigation Techniques in Large Language Models](https://arxiv.org/abs/2401.01313): A compre
-    hensive survey of over thirty-two techniques developed to mitigate hallucination in LLMs \[2 Jan 2024]
-
-### **Build an LLMs from scratch: picoGPT and lit-gpt** / **GPT series release date**
-
-*   [Build a Large Language Model (From Scratch) (⭐25k)](https://github.com/rasbt/LLMs-from-scratch):🏆Implementing a ChatGPT-like LLM from scratch, step by step
-
-### **Evaluating Large Language Models** / **OSS Alternatives for OpenAI Code Interpreter (aka. Advanced Data Analytics)**
-
-*   [Evaluation Papers for ChatGPT (⭐451)](https://github.com/THU-KEG/EvaluationPapers4ChatGPT) \[28 Feb 2023]
-
-## [10. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+## [9. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
 ### Third-Party Packages / Users
 
-*   [django-guest-user (⭐71)](https://github.com/julianwachholz/django-guest-user) - Allow visitors to use your site like a regular user and register later.
+*   [django-guest-user (⭐75)](https://github.com/julianwachholz/django-guest-user) - Allow visitors to use your site like a regular user and register later.
 
 ### Projects / Boilerplate
 
-*   [Falco (⭐348)](https://github.com/tobi-de/falco) - Enhance your Django developer experience: CLI and Guides for the Modern Django Developer.
+*   [Falco (⭐379)](https://github.com/tobi-de/falco) - Enhance your Django developer experience: CLI and Guides for the Modern Django Developer.
 
-## [11. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
+## [10. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
 
 ### UI Libraries
 
-*   [Melt UI (⭐3.2k)](https://github.com/melt-ui/melt-ui) - A collection of accessible, reusable, and composable headless component builders and utilities.
-*   [Radix Svelte (⭐473)](https://github.com/radix-svelte/radix-svelte) - An unofficial community-led Svelte port of Radix UI Primitives
+*   [Melt UI (⭐3.8k)](https://github.com/melt-ui/melt-ui) - A collection of accessible, reusable, and composable headless component builders and utilities.
 
-## [12. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [11. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Domain Specific Language / Declarative DSL Applications
 
@@ -153,7 +107,7 @@
 
 *   [Autonomous chemical research with large language models](https://www.nature.com/articles/s41586-023-06792-0) - ***Nature***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=8097577445064259203)]. An artificial intelligence system driven by GPT-4 that autonomously designs, plans and performs complex experiments by incorporating large language models empowered by tools such as internet and documentation search, code execution and experimental automation.
 
-## [13. Awesome Opentofu](/content/virtualroot/awesome-opentofu/week/README.md)
+## [12. Awesome Opentofu](/content/virtualroot/awesome-opentofu/week/README.md)
 
 ### Community
 
@@ -162,28 +116,28 @@
 
 ### Tools / Environment managers
 
-*   [tenv (⭐578)](https://github.com/tofuutils/tenv) - Terraform and OpenTofu version manager written in Go.
+*   [tenv (⭐798)](https://github.com/tofuutils/tenv) - Terraform and OpenTofu version manager written in Go.
 
-## [14. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [13. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Resources / Blog posts
 
 *   [polars’ Rgonomic Patterns](https://www.emilyriederer.com/post/py-rgo-polars/) - A blog post that deeps dive into some of the advanced data wrangling functionality in python’s Polars package by [@emilyriederer](https://github.com/emilyriederer).
 *   [Great Tables: The Polars DataFrame Styler of Your Dreams](https://posit-dev.github.io/great-tables/blog/polars-styling/) - A post that shows how Great Tables package uses polars expressions to make delightful tables by [@machow](https://github.com/machow).
 
-## [15. Awesome Code Review](/content/joho/awesome-code-review/week/README.md)
+## [14. Awesome Code Review](/content/joho/awesome-code-review/week/README.md)
 
 ### Tools
 
 *   [Axolo](https://www.axolo.co) Github/GitLab Slack integration. Create one ephemeral channel per pull request/ merge request.
 
-## [16. Awesome Gdpr](/content/bakke92/awesome-gdpr/week/README.md)
+## [15. Awesome Gdpr](/content/bakke92/awesome-gdpr/week/README.md)
 
 ### Privacy by Design - Guides for developers (art. 25)
 
 *   [Norwegian DPA - Software development with Data Protection by Design and by Default](https://www.datatilsynet.no/en/about-privacy/virksomhetenes-plikter/data-protection-by-design-and-by-default/)
 
-## [17. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [16. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Data Recovery Tools / File Sharing
 
@@ -192,15 +146,15 @@
 ### Utilities / Productivity
 
 *   [Hyperkey](https://hyperkey.app/) - Lets you convert the caps lock key or any modifier key to the hyper key, all four modifiers combined: ⌃⌥⌘⇧. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [Keyboard Cowboy (⭐687)](https://github.com/zenangst/KeyboardCowboy) - The missing keyboard shortcut utility for macOS. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/zenangst/KeyboardCowboy)
+*   [Keyboard Cowboy (⭐853)](https://github.com/zenangst/KeyboardCowboy) - The missing keyboard shortcut utility for macOS. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/zenangst/KeyboardCowboy)
 
-## [18. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/week/README.md)
+## [17. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/week/README.md)
 
 ### Talks
 
 *   [On behalf of mankind: thank you for sharing!](https://www.youtube.com/watch?v=HBS8sS138GE) - TEDx talk by Jerry de Vos
 
-## [19. Awesome Ci](/content/ligurio/awesome-ci/week/README.md)
+## [18. Awesome Ci](/content/ligurio/awesome-ci/week/README.md)
 
 - Name: [Continuous](https://continuous.sh/)
 
@@ -218,13 +172,13 @@
 
 
 
-## [20. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
+## [19. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
 
 ### Julia / FrameWorks
 
-*   [IncTA.jl (⭐16)](https://github.com/femtotrader/IncTA.jl) - Julia Incremental Technical Analysis Indicators
+*   [IncTA.jl (⭐21)](https://github.com/femtotrader/IncTA.jl) - Julia Incremental Technical Analysis Indicators
 
-## [21. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [20. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Generative AI history, timelines, maps, and definitions
 
@@ -242,14 +196,14 @@
 
 *   [Unlocking productivity and personalizing learning with AI | Microsoft EDU](https://educationblog.microsoft.com/en-us/2024/01/unlocking-productivity-and-personalizing-learning-with-ai)
 
-## [22. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
+## [21. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
 
 ### Hacks and homebrew / Ironsworn
 
 *   [Darkest Derelicts](https://jaderavens.itch.io/darkest-derelicts) - Rules for Starforged, inspired by The Expanse and Alien
 *   [Feats & Favors](https://satan-bouchuncoin.itch.io/feats-favors) - Faction and reputation system for Ironsworn and Starforged
 
-## [23. Awesome Ai4lam](/content/AI4LAM/awesome-ai4lam/week/README.md)
+## [22. Awesome Ai4lam](/content/AI4LAM/awesome-ai4lam/week/README.md)
 
 ### Learning Resources / Introductions to AI
 
@@ -373,21 +327,21 @@
 
 *   [AI Magazine](https://onlinelibrary.wiley.com/loi/23719621)
 
-## [24. Awesome K6](/content/grafana/awesome-k6/week/README.md)
+## [23. Awesome K6](/content/grafana/awesome-k6/week/README.md)
 
 ### Examples/Templates
 
 *   [k6-rollup-example (⭐4)](https://github.com/grafana/k6-rollup-example) - Example using Rollup to bundle k6 tests.
-*   [Jahmilli/k6-example (⭐9)](https://github.com/Jahmilli/k6-example) - Starter template using Vite (Rollup) bundler to write k6 tests in TypeScript.
+*   [Jahmilli/k6-example (⭐10)](https://github.com/Jahmilli/k6-example) - Starter template using Vite (Rollup) bundler to write k6 tests in TypeScript.
 *   [agilob/multiscenario-tests](https://b.agilob.net/programming/k6/multiscenario-tests/) - Running multiple scenarios at once.
 
-## [25. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
+## [24. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
 ### Services & Platforms
 
 *   [Apillon](http://apillon.io/) - a Web3 development platform, offering IPFS gateways, IPFS file-pinning via Crust network and IPFS powered hosting services for websites and apps.
 
-## [26. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [25. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Official Resources
 
@@ -395,57 +349,52 @@
 
 ### Templates / Vue 3
 
-*   [materio-free-vuetify-nuxtjs-admin-template (⭐43)](https://github.com/themeselection/materio-vuetify-nuxtjs-admin-template-free) - Vuejs 3, Vite 5, Vuetify 3 & NuxtJS 3.
+*   [materio-free-vuetify-nuxtjs-admin-template (⭐59)](https://github.com/themeselection/materio-vuetify-nuxtjs-admin-template-free) - Vuejs 3, Vite 5, Vuetify 3 & NuxtJS 3.
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [vite-plugin-bundle-prefetch (⭐13)](https://github.com/dreambo8563/vite-plugin-bundle-prefetch) - Inject prefetch assets into `index.html`.
+*   [vite-plugin-bundle-prefetch (⭐19)](https://github.com/dreambo8563/vite-plugin-bundle-prefetch) - Inject prefetch assets into `index.html`.
 
-## [27. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [26. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [HoNamDuong/hybrid.nvim (⭐86)](https://github.com/HoNamDuong/hybrid.nvim) - A dark theme written in Lua.
+*   [HoNamDuong/hybrid.nvim (⭐102)](https://github.com/HoNamDuong/hybrid.nvim) - A dark theme written in Lua.
 
 ### Utility / Diagnostics
 
-*   [echasnovski/mini.nvim#mini.notify (⭐4.7k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-notify.md) - Module of `mini.nvim` to show one or more highlighted notifications in a single window. Provides maker of `vim.notify()` implementation and sets up automated LSP progress updates.
+*   [echasnovski/mini.nvim#mini.notify (⭐6.2k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-notify.md) - Module of `mini.nvim` to show one or more highlighted notifications in a single window. Provides maker of `vim.notify()` implementation and sets up automated LSP progress updates.
 
 ### CSV Files / Diagnostics
 
-*   [theKnightsOfRohan/csvlens.nvim (⭐30)](https://github.com/theKnightsOfRohan/csvlens.nvim) - A port of [YS-L/csvlens (⭐2.5k)](https://github.com/YS-L/csvlens), for easy previewing of tabular data.
+*   [theKnightsOfRohan/csvlens.nvim (⭐32)](https://github.com/theKnightsOfRohan/csvlens.nvim) - A port of [YS-L/csvlens (⭐2.7k)](https://github.com/YS-L/csvlens), for easy previewing of tabular data.
 
 ### Code Runner / Diagnostics
 
-*   [pianocomposer321/officer.nvim (⭐19)](https://github.com/pianocomposer321/officer.nvim) - Like dispatch.vim but using overseer.nvim.
+*   [pianocomposer321/officer.nvim (⭐20)](https://github.com/pianocomposer321/officer.nvim) - Like dispatch.vim but using overseer.nvim.
 
-## [28. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/week/README.md)
+## [27. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/week/README.md)
 
 ### :books: Literature / Documentation
 
-*   :earth\_americas: [Awesome executable packing (⭐1.1k)](https://github.com/packing-box/awesome-executable-packing)
+*   :earth\_americas: [Awesome executable packing (⭐1.2k)](https://github.com/packing-box/awesome-executable-packing)
 
 ### :books: Literature / Scientific Research
 
-*   :mortar\_board: [An application of machine learning to analysis of packed mac malware](https://scholar.dsu.edu/theses/381) (May 2022)
+*   :mortar\_board: [An application of machine learning to analysis of packed mac malware](https://scholar.dsu.edu/theses/381) (May 2022)  :star:
 *   :newspaper: [Automatic generation of adversarial examples for interpreting malware classifiers](https://www.semanticscholar.org/reader/040a0020e054e050e52a829902cfe0defad8c6ac) (March 2020)
-*   :notebook: [Chosen-instruction attack against commercial code virtualization obfuscators](https://ink.library.smu.edu.sg/sis_research/7354) (April 2022)
+*   :notebook: [Chosen-instruction attack against commercial code virtualization obfuscators](https://ink.library.smu.edu.sg/sis_research/7354) (April 2022)  :star:
 *   :mortar\_board: [Complexity-based packed executable classification with high accuracy](https://caislab.kaist.ac.kr/publication/thesis_files/2009/Thesis_Hanyoung.pdf) (December 2008)
 *   :notebook: [Deceiving portable executable malware classifiers into targeted misclassification with practical adversarial examples](https://doi.org/10.1145/3374664.3375741) (March 2020)
 *   :newspaper: [Detecting obfuscated malware using reduced opcode set and optimised runtime trace](https://security-informatics.springeropen.com/articles/10.1186/s13388-016-0027-2) (May 2016)
-*   :question: [Generating adversarial malware examples for black-box attacks based on GAN](http://arxiv.org/abs/1702.05983) (February 2020)
+*   :bookmark: [Generating adversarial malware examples for black-box attacks based on GAN](http://arxiv.org/abs/1702.05983) (February 2020)
 *   :newspaper: [An improved method for packed malware detection using PE header and section table information](https://www.mecs-press.org/ijcnis/ijcnis-v11-n9/v11n9-2.html) (September 2019)
-*   :question: [Intriguing properties of adversarial ML attacks in the problem space](http://arxiv.org/abs/1911.02142) (March 2020)
-*   :question: [MAB-Malware: A reinforcement learning framework for attacking static malware classifiers](http://arxiv.org/abs/2003.03100) (April 2021)
 *   :notebook: [A machine-learning-based framework for supporting malware detection and analysis](https://link.springer.com/chapter/10.1007/978-3-030-86970-0_25) (September 2021)
 *   :newspaper: [MaliCage: A packed malware family classification framework based on DNN and GAN](https://www.sciencedirect.com/science/article/pii/S2214212622001296) (August 2022)  :star:
-*   :question: [On evaluating adversarial robustness](http://arxiv.org/abs/1902.06705) (February 2019)
-*   :newspaper: [Packer classification based on association rule mining](https://www.sciencedirect.com/science/article/pii/S1568494622005245) (September 2022)  :star:
+*   :newspaper: [Packer classification based on association rule mining](https://www.sciencedirect.com/science/article/pii/S1568494622005245) (July 2022)  :star:
 *   :notebook: [PackGenome: Automatically generating robust YARA rules for accurate malware packer detection](https://dl.acm.org/doi/10.1145/3576915.3616625) (November 2023)  :star:
-*   :question: [A survey on adversarial attacks for malware analysis](http://arxiv.org/abs/2111.08223) (January 2022)
 *   :newspaper: [A survey on run-time packers and mitigation techniques](https://link.springer.com/article/10.1007/s10207-023-00759-y) (November 2023)  :star:
-*   :notebook: [Symbolic execution of obfuscated code](https://dl.acm.org/doi/10.1145/2810103.2813663) (October 2015)
-*   :question: [Technical report on the cleverhans v2.1.0 adversarial examples library](http://arxiv.org/abs/1610.00768) (June 2018)
+*   :notebook: [Symbolic execution of obfuscated code](https://dl.acm.org/doi/10.1145/2810103.2813663) (October 2015)  :star:
 *   :notebook: [VMHunt: A verifiable approach to partially-virtualized binary code simplification](https://dl.acm.org/doi/10.1145/3243734.3243827) (October 2018)
 
 ### :bookmark_tabs: Datasets / Scientific Research
@@ -456,7 +405,7 @@
 ### :package: Packers / After 2010
 
 *   [OSX\_Packer](https://github.com/AlysonBee/OSX_Packer) - Binary packer for the Mach-O file format.
-*   [Pakr (⭐6)](https://github.com/iangcarroll/pakr) - In-memory packer for macOS Mach-O bundles.
+*   [Pakr (⭐8)](https://github.com/iangcarroll/pakr) - In-memory packer for macOS Mach-O bundles.
 *   [VirtualMachineObfuscationPoC](https://github.com/eaglx/VirtualMachineObfuscationPoC) - Obfuscation method using virtual machine.
 
 ### :package: Packers / Between 2000 and 2010
@@ -465,66 +414,66 @@
 
 ### :wrench: Tools / Before 2000
 
-*   [VMHunt (⭐171)](https://github.com/s3team/VMHunt) - Set of tools for analyzing virtualized binary code ; now only supports 32 bit traces.
-*   [yarGen (⭐1.5k)](https://github.com/Neo23x0/yarGen) - Generator for YARA rules - The main principle is the creation of yara rules from strings found in malware files while removing all strings that also appear in goodware files.
+*   [VMHunt (⭐175)](https://github.com/s3team/VMHunt) - Set of tools for analyzing virtualized binary code ; now only supports 32 bit traces.
+*   [yarGen (⭐1.6k)](https://github.com/Neo23x0/yarGen) - Generator for YARA rules - The main principle is the creation of yara rules from strings found in malware files while removing all strings that also appear in goodware files.
 
-## [29. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [28. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Compression
 
-*   [Rapidgzip (⭐356)](https://github.com/mxmlnkn/rapidgzip) - Gzip Decompression and Random Access for Modern Multi-Core Machines. \[Apache-2/MIT]
+*   [Rapidgzip (⭐386)](https://github.com/mxmlnkn/rapidgzip) - Gzip Decompression and Random Access for Modern Multi-Core Machines. \[Apache-2/MIT]
 
 ### Inter-process communication
 
-*   [bRPC (⭐16k)](https://github.com/apache/brpc) - bRPC is an Industrial-grade RPC framework using C++ Language, which is often used in high performance system such as Search, Storage, Machine learning, Advertisement, Recommendation etc. \[Apache2] [website](https://brpc.apache.org/)
+*   [bRPC (⭐17k)](https://github.com/apache/brpc) - bRPC is an Industrial-grade RPC framework using C++ Language, which is often used in high performance system such as Search, Storage, Machine learning, Advertisement, Recommendation etc. \[Apache2] [website](https://brpc.apache.org/)
 
 ### Regular Expression
 
 *   [SRELL](https://www.akenotsuki.com/misc/srell/en/) - Unicode-aware regular expression template library for C++. \[BSD]
 
-## [30. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [29. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Blockchain
 
-*   [beerus (⭐244)](https://github.com/eigerco/beerus) - Beerus is a trustless StarkNet Light Client, ⚡blazing fast ⚡ [![GitHub Workflow Status](https://github.com/eigerco/beerus/actions/workflows/test.yml/badge.svg)](https://github.com/eigerco/beerus/actions/workflows/test.yml)
+*   [beerus (⭐256)](https://github.com/eigerco/beerus) - Beerus is a trustless StarkNet Light Client, ⚡blazing fast ⚡ [![GitHub Workflow Status](https://github.com/eigerco/beerus/actions/workflows/test.yml/badge.svg)](https://github.com/eigerco/beerus/actions/workflows/test.yml)
 
 ### Applications / Database
 
-*   [Qrlew/qrlew (⭐39)](https://github.com/Qrlew/qrlew) \[[qrlew](https://crates.io/crates/qrlew)] - The SQL-to-SQL Differential Privacy layer [![Qrlew](https://github.com/Qrlew/qrlew/actions/workflows/ci.yml/badge.svg)](https://github.com/Qrlew/qrlew/actions) ![Crates.io Version](https://img.shields.io/crates/v/qrlew?logo=Rust)
+*   [Qrlew/qrlew (⭐43)](https://github.com/Qrlew/qrlew) \[[qrlew](https://crates.io/crates/qrlew)] - The SQL-to-SQL Differential Privacy layer [![Qrlew](https://github.com/Qrlew/qrlew/actions/workflows/ci.yml/badge.svg)](https://github.com/Qrlew/qrlew/actions) ![Crates.io Version](https://img.shields.io/crates/v/qrlew?logo=Rust)
 
 ### Applications / Graphics
 
-*   [wahn/rs\_pbrt (⭐805)](https://github.com/wahn/rs_pbrt) - Implements a counterpart to the PBRT book's (3rd edition) C++ code.
+*   [wahn/rs\_pbrt (⭐818)](https://github.com/wahn/rs_pbrt) - Implements a counterpart to the PBRT book's (3rd edition) C++ code.
 
 ### Applications / Security tools
 
-*   [arp-scan-rs (⭐85)](https://github.com/kongbytes/arp-scan-rs) - A minimalistic ARP scan tool for fast local network scans
+*   [arp-scan-rs (⭐100)](https://github.com/kongbytes/arp-scan-rs) - A minimalistic ARP scan tool for fast local network scans
 
-## [31. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
+## [30. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
 ### AI
 
-*   [AutoGen (⭐28k)](https://github.com/microsoft/autogen) - AutoGen is a framework that enables the development of LLM applications using multiple agents that can converse with each other to solve tasks.
+*   [AutoGen (⭐35k)](https://github.com/microsoft/autogen) - AutoGen is a framework that enables the development of LLM applications using multiple agents that can converse with each other to solve tasks.
 
-## [32. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/week/README.md)
+## [31. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/week/README.md)
 
 ### Editors / Mobile Editors
 
-*   [OSM Go!](https://osmgo.com/) - OSM Go! is an Android application and a Progressive Web Applications (PWA) for contributing to OpenStreetMap. ([Android](https://play.google.com/store/apps/details?id=fr.dogeo.osmgo) / [Source Code (⭐99)](https://github.com/DoFabien/OsmGo) / [Wiki](https://wiki.openstreetmap.org/wiki/Osm_Go!))
+*   [OSM Go!](https://osmgo.com/) - OSM Go! is an Android application and a Progressive Web Applications (PWA) for contributing to OpenStreetMap. ([Android](https://play.google.com/store/apps/details?id=fr.dogeo.osmgo) / [Source Code (⭐107)](https://github.com/DoFabien/OsmGo) / [Wiki](https://wiki.openstreetmap.org/wiki/Osm_Go!))
 
 ### Libraries / Python
 
-*   [geodesk (⭐34)](https://github.com/clarisma/geodesk-py) - Fast and storage-efficient database for OpenStreetMap analysis.
+*   [geodesk (⭐36)](https://github.com/clarisma/geodesk-py) - Fast and storage-efficient database for OpenStreetMap analysis.
 
 ### Libraries / Java
 
-*   [GeoDesk (⭐130)](https://github.com/clarisma/geodesk) - Fast and storage-efficient database for OpenStreetMap analysis.
+*   [GeoDesk (⭐135)](https://github.com/clarisma/geodesk) - Fast and storage-efficient database for OpenStreetMap analysis.
 
-## [33. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [32. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### Hardware
 
-*   [Train departure Display (⭐233)](https://github.com/chrisys/train-departure-display) - A replica, near real-time, miniature UK railway station train departure sign based upon a Raspberry Pi Zer0.
+*   [Train departure Display (⭐251)](https://github.com/chrisys/train-departure-display) - A replica, near real-time, miniature UK railway station train departure sign based upon a Raspberry Pi Zer0.
 
 ### Transit Map Creation
 
@@ -532,7 +481,6 @@
 *   [BENO Metro Mapm Creator](https://beno.uk/metromapcreator/#) - A very old fashioned but classic transit map creator.
 *   [Tennessine Metro Designer](https://tennessine.co.uk/metro/) - A modern and aesthetically pleasing transit map designer.
 *   [Metro Map Maker](https://metromapmaker.com/)   - An open source and simple metro map maker software.
-*   [Metro Dreamin](https://metrodreamin.com/explore ) - A modern open source sofware that allows users to create, save, like and share and create interactive transit maps with agents.
 *   [Rail Map Generators](https://wongchito.github.io/RailMapGenerator) - Tool for generating railway maps and information panels in the styles of various cities' public transportation systems.
 *   [MetroSets](https://metrosets.ac.tuwien.ac.at/) - A flexible web tool to visualize set systems using the metro map metaphor. Based on this [paper](https://www.computer.org/csdl/journal/tg/2021/02/09224192/1nV7Me0F3Lq)
 
@@ -581,13 +529,12 @@
 *   [Canadian Rail Atlas](https://rac.jmaponline.net/canadianrailatlas/) - a user-friendly, interactive map of Canada’s nearly 43,000-kilometre railway network.
 *   [The Rail Map](https://www.therailmap.com/) - An Interactive Map with Train lines in North America using data from OpenStreetMap.
 *   [JR pass](https://www.jrpass.com/map#) - Interactive Map of Mainline Rail in Japan.
-*   [Belgian Train Map](https://trainmap.belgiantrain.be/) -  The Train Map shows realtime information about SNCB trains on the network such as their position on a map of Belgium.
 
 ### GTFS Analysis Tools / Ruby
 
 *   [PTNA](https://wiki.openstreetmap.org/wiki/Public_Transport_Network_Analysis) - Public Transit Nework Analysis is a open source system for finding and aggregating information about public transportation lines mapped in OSM.
 
-## [34. Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/week/README.md)
+## [33. Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/week/README.md)
 
 ### Extensions / General Purpose
 
@@ -598,13 +545,13 @@
 
 *   [Cyanide (⭐162)](https://github.com/lefoy/cyanide-theme) — A minimal dark theme.
 
-## [35. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [34. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [gcloud (⭐3)](https://github.com/wintermi/zsh-gcloud) - Finds the installed gcloud sdk and sources the zsh file there, along with the zsh completions file.
+*   [gcloud (⭐4)](https://github.com/wintermi/zsh-gcloud) - Finds the installed gcloud sdk and sources the zsh file there, along with the zsh completions file.
 *   [sail (⭐0)](https://github.com/Razzaghnoori/Sailor/) - Adds convenience aliases for [sail](https://laravel.com/docs/10.x/sail).
-*   [zeza (⭐2)](https://github.com/duggum/zeza) - Manages and customizes [eza (⭐11k)](https://github.com/eza-community/eza), the very colorful `ls` replacement.
+*   [zeza (⭐2)](https://github.com/duggum/zeza) - Manages and customizes [eza (⭐14k)](https://github.com/eza-community/eza), the very colorful `ls` replacement.
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -617,13 +564,13 @@
 
 ### ZSH Tools / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [manpage-completion-generator (⭐27)](https://github.com/umlx5h/zsh-manpage-completion-generator) - Generats ZSH completions from man pages. Requires [create\_manpage\_completions.py (⭐25k)](https://github.com/fish-shell/fish-shell/blob/master/share/tools/create_manpage_completions.py) which is installed by the fish shell
+*   [manpage-completion-generator (⭐33)](https://github.com/umlx5h/zsh-manpage-completion-generator) - Generats ZSH completions from man pages. Requires [create\_manpage\_completions.py (⭐28k)](https://github.com/fish-shell/fish-shell/blob/master/share/tools/create_manpage_completions.py) which is installed by the fish shell
 
-## [36. Awesome Dotfiles](/content/webpro/awesome-dotfiles/week/README.md)
+## [35. Awesome Dotfiles](/content/webpro/awesome-dotfiles/week/README.md)
 
 ### Tools / Ansible
 
-*   [xdg-ninja (⭐2.2k)](https://github.com/b3nj5m1n/xdg-ninja) - A shell script which checks your $HOME for unwanted files and
+*   [xdg-ninja (⭐2.5k)](https://github.com/b3nj5m1n/xdg-ninja) - A shell script which checks your $HOME for unwanted files and
     directories.
 
 ### Miscellaneous / macOS
@@ -631,13 +578,13 @@
 *   [A lesson in shortcuts](https://web.archive.org/web/20180827160401/https://plus.google.com/+RobPikeTheHuman/posts/R58WgWwN9jp) -
     How the idea of "hidden" or "dot" files was born, by Rob Pike (originally posted on Google+).
 
-## [37. Awesome D](/content/dlang-community/awesome-d/week/README.md)
+## [36. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 
 ### Tutorials
 
 *   [DLang YouTube Tutorials from Mike Shah](https://www.youtube.com/playlist?list=PLvv0ScY6vfd9Fso-3cB4CGnSlW0E4btJV) - Series of tutorials covering basic to advanced features of the D programming language and standard library.
 
-## [38. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [37. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
@@ -659,13 +606,13 @@
 
 *   [360Converter](https://www.360converter.com/) - Free tier useful website to convert: Video to Text && Audio to Text && Speech to Text && Real-time Audio to Text && YouTube Video to Text && add Video Subtitle. Maybe it will be helpful in a short video conversion or in a short youtube tutorial:)
 
-## [39. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
+## [38. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
 
 ### Software / HPGL
 
 *   [Chiplotle3 (⭐7)](https://github.com/cyprienh/chiplotle3) - Chiplotle fork updated for Python 3.x compatibility.
 
-## [40. Awesome Golem](/content/golemfactory/awesome-golem/week/README.md)
+## [39. Awesome Golem](/content/golemfactory/awesome-golem/week/README.md)
 
 ### Golem
 
@@ -689,17 +636,17 @@
 
 *   [Yacat](https://docs.golem.network/docs/creators/python/tutorials/task-example-2-hashcat) - Hashcat password-recovery step-by-step.
 
-## [41. Awesome V](/content/vlang/awesome-v/week/README.md)
+## [40. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Interpreters/Compilers
 
-*   [Aixt (⭐54)](https://github.com/fermarsan/aixt) - Programming framework for microcontrollers based on a V-based language and written in V.
+*   [Aixt (⭐66)](https://github.com/fermarsan/aixt) - Programming framework for microcontrollers based on a V-based language and written in V.
 
 ### Utilities
 
-*   [v-nodejs-addon (⭐3)](https://github.com/fanlia/v-nodejs-addon) - An demo of how to create a Node.js addon with V.
+*   [v-nodejs-addon (⭐6)](https://github.com/fanlia/v-nodejs-addon) - An demo of how to create a Node.js addon with V.
 
-## [42. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
+## [41. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
 
 ### Registry / Other
 
@@ -708,7 +655,7 @@
 
 ### CI/CD / Other
 
-*   [dockcheck (⭐886)](https://github.com/mag37/dockcheck) - A script checking updates for docker images without pulling then auto-update selected/all containers. With notifications, pruning and more.
+*   [dockcheck (⭐1.1k)](https://github.com/mag37/dockcheck) - A script checking updates for docker images without pulling then auto-update selected/all containers. With notifications, pruning and more.
 
 ---
 

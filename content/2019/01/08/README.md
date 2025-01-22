@@ -28,7 +28,7 @@
 
 ### Machine Learning Libraries / Deep learning
 
-*   [tensor\_stream (⭐509)](https://github.com/jedld/tensor_stream) -
+*   [tensor\_stream (⭐506)](https://github.com/jedld/tensor_stream) -
     Ground-up and standalone reimplementation of TensorFlow for Ruby.
 
 ### Articles, Posts, Talks, and Presentations / Vector search
@@ -79,7 +79,7 @@
 
 ### Testing / Misc
 
-*   [MailHog (⭐12k)](https://github.com/mailhog/MailHog) A local fake SMTP server (based on Go).
+*   [MailHog (⭐14k)](https://github.com/mailhog/MailHog) A local fake SMTP server (based on Go).
 *   [MailCatcher](https://mailcatcher.me/) A local fake SMTP server (based on Ruby).
 
 ## [9. Awesome Sre](/content/dastergon/awesome-sre/README.md)

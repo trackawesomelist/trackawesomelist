@@ -11,14 +11,14 @@
 ### Boilerplates
 
 *   [next-boilerplate (⭐1.6k)](https://github.com/pankod/next-boilerplate) - A well-structured production ready Next.js boilerplate with Typescript, Redux, Express.js, Sass, Css, EnvConfig, Reverse Proxy, Bundle
-*   [Next-Postgres-With-Typescript (⭐19)](https://github.com/brandontle/next-postgres-with-typescript) - Forum-like fullstack web app with Next 7.0.2 + Sequelize 4/Postgres + Typescript + Redux + Passport Local Auth + Emotion
+*   [Next-Postgres-With-Typescript (⭐20)](https://github.com/brandontle/next-postgres-with-typescript) - Forum-like fullstack web app with Next 7.0.2 + Sequelize 4/Postgres + Typescript + Redux + Passport Local Auth + Emotion
 *   [Nextjs Blog Starter](https://creativedesignsguru.com/demo/Nextjs-Blog-Boilerplate/) - 🚀 The perfect starter code for your blog based on Next.js framework. ⚡️ Made with Next.js, TypeScript, ESLint, Prettier, PostCSS, Tailwind CSS.
 
 ## [2. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/README.md)
 
 ### External Services
 
-*   [goodreads-box (⭐24)](https://github.com/mdluo/goodreads-box) - Update a pinned gist to show your currently reading books and progress on Goodreads.
+*   [goodreads-box (⭐26)](https://github.com/mdluo/goodreads-box) - Update a pinned gist to show your currently reading books and progress on Goodreads.
 
 ## [3. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -36,7 +36,7 @@
 
 ### Development Projects / APIs
 
-*   [graphql-pokemon (⭐491)](https://github.com/lucasbento/graphql-pokemon) - Get information of a Pokémon with GraphQL.
+*   [graphql-pokemon (⭐503)](https://github.com/lucasbento/graphql-pokemon) - Get information of a Pokémon with GraphQL.
 
 ## [6. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 

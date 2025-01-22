@@ -34,14 +34,14 @@
 
 ### Web Frameworks
 
-*   [vertx-rest (⭐39)](https://github.com/dream11/vertx-rest) - Abstraction over resteasy-vertx to simplify writing a Vert.x REST application based on JAX-RS annotations.
+*   [vertx-rest (⭐45)](https://github.com/dream11/vertx-rest) - Abstraction over resteasy-vertx to simplify writing a Vert.x REST application based on JAX-RS annotations.
 
 ## [4. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
 
 ### Extensions / Community
 
-*   [Inline Form Interface (⭐32)](https://github.com/hanneskuettner/directus-extension-inline-form-interface) - Edit M2O relations in an inline form contained in the parent record.
-*   [Tab Group Interface (⭐58)](https://github.com/hanneskuettner/directus-extension-group-tabs-interface) - Display groups as tab panels, as a pretty, space saving alternative to the accordion group.
+*   [Inline Form Interface (⭐41)](https://github.com/hanneskuettner/directus-extension-inline-form-interface) - Edit M2O relations in an inline form contained in the parent record.
+*   [Tab Group Interface (⭐65)](https://github.com/hanneskuettner/directus-extension-group-tabs-interface) - Display groups as tab panels, as a pretty, space saving alternative to the accordion group.
 
 ## [5. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
 
@@ -60,23 +60,23 @@
 ### Videos / Others
 
 *   [ASP.NET Community Standup - Blazor .NET 8 Updates](https://www.youtube.com/watch?v=MaLjiR9YSbs\&list=PLdo4fOcmZ0oVJyHcoDsVwlShX1tcxydYP\&index=92) - ![duration](https://img.shields.io/badge/Duration:%20-92%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) May 10, 2023 - Come check out some of the progress the Blazor team has made for .NET 8. [Community links](https://gist.github.com/MackinnonBuck/ebd4072c40eca01c177e8ab7e180c392).
-*   [Building "Next Tech Event" using Blazor and RavenDB Part 16](https://www.youtube.com/watch?app=desktop\&v=crAfcbzpUqg) - ![duration](https://img.shields.io/badge/Duration:%20-130%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) May 9, 2023 - Part 16 of our new project, "NextTechEvent", a site that will help speakers, organizers, and attendees find their next tech event. In this stream, we made the attendee page look better, and with our close personal friend Chat GPT, we did a better-looking temperature view. [Source code (⭐6)](https://github.com/CodingAfterWork/NextTechEvent) ![stars](https://img.shields.io/github/stars/CodingAfterWork/NextTechEvent?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/CodingAfterWork/NextTechEvent?style=flat-square\&cacheSeconds=86400) .
+*   [Building "Next Tech Event" using Blazor and RavenDB Part 16](https://www.youtube.com/watch?app=desktop\&v=crAfcbzpUqg) - ![duration](https://img.shields.io/badge/Duration:%20-130%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) May 9, 2023 - Part 16 of our new project, "NextTechEvent", a site that will help speakers, organizers, and attendees find their next tech event. In this stream, we made the attendee page look better, and with our close personal friend Chat GPT, we did a better-looking temperature view. [Source code (⭐5)](https://github.com/CodingAfterWork/NextTechEvent) ![stars](https://img.shields.io/github/stars/CodingAfterWork/NextTechEvent?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/CodingAfterWork/NextTechEvent?style=flat-square\&cacheSeconds=86400) .
 *   [ASP.NET Community Standup - Blazor and Data API Builder](https://www.youtube.com/watch?v=7W6h4PuQom8) - ![duration](https://img.shields.io/badge/Duration:%20-62%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) April 11, 2023 - Learn about Data API Builder and how it can be used in Blazor app development. [Community links](https://www.theurlist.com/blazor-community-standup-2023-04-11).
 
 ### Articles / Others
 
 *   [Join the .NET Team at Microsoft Build 2023](https://devblogs.microsoft.com/dotnet/microsoft-build-2023-and-dotnet/) - April 24, 2023 - Are you ready for Build 2023? Microsoft’s premier developer conference is just around the corner, and there are several exciting .NET sessions that you won’t want to miss.
-*   [ASP.NET Core updates in .NET 8 Preview 3](https://devblogs.microsoft.com/dotnet/improvements-auth-identity-aspnetcore-8/) - April 11, 2023 - ASP.NET Core updates in .NET 8 Preview 3. Here’s a summary of what’s new in this preview release: Server-side rendering with Blazor, Render Razor components outside of ASP.NET Core, Sections support in Blazor, Monitor Blazor Server circuit activity, SIMD enabled by default for Blazor WebAssembly apps and more. See the [ASP.NET Core roadmap for .NET 8 (⭐35k)](https://github.com/dotnet/aspnetcore/issues/44984).
+*   [ASP.NET Core updates in .NET 8 Preview 3](https://devblogs.microsoft.com/dotnet/improvements-auth-identity-aspnetcore-8/) - April 11, 2023 - ASP.NET Core updates in .NET 8 Preview 3. Here’s a summary of what’s new in this preview release: Server-side rendering with Blazor, Render Razor components outside of ASP.NET Core, Sections support in Blazor, Monitor Blazor Server circuit activity, SIMD enabled by default for Blazor WebAssembly apps and more. See the [ASP.NET Core roadmap for .NET 8 (⭐36k)](https://github.com/dotnet/aspnetcore/issues/44984).
 
 ## [8. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Plugins
 
-*   💼 [Claymorphism (⭐19)](https://github.com/dulltackle/tailwindcss-claymorphism) - Adds `clay` utilities for creating claymorphism style.
+*   💼 [Claymorphism (⭐20)](https://github.com/dulltackle/tailwindcss-claymorphism) - Adds `clay` utilities for creating claymorphism style.
 
 ### Tools
 
-*   🎨🌍🔧 [Tints](https://www.tints.dev/) - Color palette penerator and API for Tailwind CSS.
+*   🎨🌍🔧 [Tints](https://www.tints.dev/) - Color palette generator and API for Tailwind CSS.
 
 ### UI Libraries, Components & Templates
 
@@ -119,9 +119,9 @@
 
 ## [12. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
-### Plugins and scripts / Various Godot versions
+### Plugins and scripts / Godot 4
 
-*   [Cyclops Level Builder (⭐994)](https://github.com/blackears/cyclopsLevelBuilder) - A level builder for quick prototypes and proof-of-concepts (Godot 4.x).
+*   [Cyclops Level Builder (⭐1.2k)](https://github.com/blackears/cyclopsLevelBuilder) - A level builder for quick prototypes and proof-of-concepts.
 
 ## [13. Awesome Social Enterprise](/content/RayBB/awesome-social-enterprise/week/README.md)
 
@@ -133,7 +133,7 @@
 
 ### Table of Contents / Streaming Library
 
-*   [Substation (⭐311)](https://github.com/brexhq/substation) \[Go] - Substation is a cloud native data pipeline and transformation toolkit written in Go.
+*   [Substation (⭐333)](https://github.com/brexhq/substation) \[Go] - Substation is a cloud native data pipeline and transformation toolkit written in Go.
 
 ## [15. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
@@ -153,23 +153,19 @@
 
 ### Miscellaneous
 
-*   [Read the Docs (⭐109)](https://github.com/readthedocs-examples/awesome-read-the-docs#readme) - Example documentation projects to inspire and help bootstrap new documentation projects.
+*   [Read the Docs (⭐149)](https://github.com/readthedocs-examples/awesome-read-the-docs#readme) - Example documentation projects to inspire and help bootstrap new documentation projects.
 
 ## [17. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Projects Using Vue.js / Open Source
 
-*   [Overlay (⭐218)](https://github.com/os-scar/overlay) - A browser extension helping developers evaluate open source packages before picking them.
-
-### Components & Libraries / UI Utilities
-
-*   [vue-contextual-transition (⭐7)](https://github.com/beepy/vue-contextual-transition) Easy-ish cross-browser transitioning between pages with shared elements and/or sequential order
+*   [Overlay (⭐224)](https://github.com/os-scar/overlay) - A browser extension helping developers evaluate open source packages before picking them.
 
 ## [18. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Tools and session management
 
-*   [tmux-project (⭐6)](https://github.com/sei40kr/tmux-project) Search projects and open them in a new session
+*   [tmux-project (⭐5)](https://github.com/sei40kr/tmux-project) Search projects and open them in a new session
 
 ## [19. Awesome Couchdb](/content/quangv/awesome-couchdb/week/README.md)
 
@@ -187,33 +183,29 @@
 
 ### Browser-Based / Arcade
 
-*   [111 one-button games (⭐65)](https://github.com/abagames/111-one-button-games-in-2021) - One button games are famous for realizing various actions with one button.
+*   [111 one-button games (⭐74)](https://github.com/abagames/111-one-button-games-in-2021) - One button games are famous for realizing various actions with one button.
 
 ### Native / Rhythm
 
-*   [osu! (⭐15k)](https://github.com/ppy/osu) - Rhythm is just a *click* away!
+*   [osu! (⭐16k)](https://github.com/ppy/osu) - Rhythm is just a *click* away!
 
 ### Frameworks/Engines/Libraries / IOS
 
-*   [osu-framework (⭐1.6k)](https://github.com/ppy/osu-framework) - A game framework written with osu! in mind.
+*   [osu-framework (⭐1.7k)](https://github.com/ppy/osu-framework) - A game framework written with osu! in mind.
 
 ## [22. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Programming Languages Support / Diagnostics
 
-*   [dmmulroy/tsc.nvim (⭐367)](https://github.com/dmmulroy/tsc.nvim) - Asynchronous project-wide TypeScript type-checking using the TypeScript compiler (TSC) with results loaded into a quickfix list.
+*   [dmmulroy/tsc.nvim (⭐424)](https://github.com/dmmulroy/tsc.nvim) - Asynchronous project-wide TypeScript type-checking using the TypeScript compiler (TSC) with results loaded into a quickfix list.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [echasnovski/mini.nvim#colorschemes (⭐4.7k)](https://github.com/echasnovski/mini.nvim#plugin-colorschemes) - Color schemes included in `mini.nvim` plugin. All of them prioritize high contrast ratio for reading text and computing palettes in perceptually uniform color spaces.
+*   [echasnovski/mini.nvim#colorschemes (⭐6.2k)](https://github.com/echasnovski/mini.nvim#plugin-colorschemes) - Color schemes included in `mini.nvim` plugin. All of them prioritize high contrast ratio for reading text and computing palettes in perceptually uniform color spaces.
 
 ### Colorscheme Creation / Diagnostics
 
-*   [echasnovski/mini.nvim#mini.hues (⭐4.7k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-hues.md) - Module of `mini.nvim` to generate configurable color scheme. Takes only background and foreground colors as required arguments. Can adjust number of hues for non-base colors, saturation, accent color, plugin integration.
-
-### GitHub / Diagnostics
-
-*   [topaxi/gh-actions.nvim (⭐98)](https://github.com/topaxi/gh-actions.nvim) - View and dispatch GitHub Actions workflow runs.
+*   [echasnovski/mini.nvim#mini.hues (⭐6.2k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-hues.md) - Module of `mini.nvim` to generate configurable color scheme. Takes only background and foreground colors as required arguments. Can adjust number of hues for non-base colors, saturation, accent color, plugin integration.
 
 ## [23. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
 
@@ -283,14 +275,14 @@
 *   [Stable Animation SDK](https://stability.ai/blog/stable-animation-sdk): a text-to-animation tool for developers by Stability AI [\[dev platform\]](https://platform.stability.ai/docs/features/animation)
 *   [Twelve Labs](https://twelvelabs.io/): multimodal, contextual understanding for video search
 
-### Inbox: Speech-to-text (STT) and spoken content analysis / Deforum
+### Speech-to-text (STT) and spoken content analysis / Deforum
 
 *   [Metabob](https://metabob.com/): Generative AI to improve and automate code reviews
-*   [gventuri/pandas-ai (⭐12k)](https://github.com/gventuri/pandas-ai): Pandas AI is a Python library that integrates LLMs capabilities into Pandas, making dataframes conversational
+*   [gventuri/pandas-ai (⭐14k)](https://github.com/gventuri/pandas-ai): Pandas AI is a Python library that integrates LLMs capabilities into Pandas, making dataframes conversational
 
 ### Multimodal Embedding Space / Deforum
 
-*   [facebookresearch/ImageBind (⭐8.2k)](https://github.com/facebookresearch/ImageBind): ImageBind One Embedding Space to Bind Them All
+*   [facebookresearch/ImageBind (⭐8.5k)](https://github.com/facebookresearch/ImageBind): ImageBind One Embedding Space to Bind Them All
 
 ## [25. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -317,10 +309,6 @@
 
 ## [26. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
 
-### Hacks and homebrew / Ironsworn
-
-*   [Space Sightings Expanded](https://www.drivethrurpg.com/product/426718) - Generators for wonders you might discover while voyaging through space
-
 ### Game jams / Ironsworn
 
 *   [Ironsworn Jam 1](https://itch.io/jam/ironsworn-jam-1/entries)
@@ -331,9 +319,9 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [alias-maker (⭐6)](https://github.com/MefitHp/alias-maker) - Allows you to easily create and manage aliases from the command line.
+*   [alias-maker (⭐7)](https://github.com/MefitHp/alias-maker) - Allows you to easily create and manage aliases from the command line.
 *   [conda-init (⭐1)](https://github.com/commiyou/conda-init-zsh-plugin) - Cleans up environment variables so [conda](https://conda.io) doesn't mess up `tmux`.
-*   [web-search (anant-mishra1729) (⭐3)](https://github.com/Anant-mishra1729/web-search/) - Adds aliases for searching with Google, Bing, Wiki, YouTube, Yahoo, Duck Duck Go, GitHub, Stack Overflow and other services straight from the command line.
+*   [web-search (anant-mishra1729) (⭐4)](https://github.com/Anant-mishra1729/web-search/) - Adds aliases for searching with Google, Bing, Wiki, YouTube, Yahoo, Duck Duck Go, GitHub, Stack Overflow and other services straight from the command line.
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -353,15 +341,11 @@
 *   Harvey. [First](https://www.cs.ubc.ca/~nickhar/Book1.pdf) and [Second](https://www.cs.ubc.ca/~nickhar/Book2.pdf) Course in Randomized Algorithms. Columbia. - Respectively, undergrad and grad courses for probabilistic methods in algorithms.
 *   [Lee. Randomized Algorithms and Probabilistic Analysis. Washington.](https://homes.cs.washington.edu/~jrl/teaching/cse525sp19/) - Topics include Discrete probability, High-dimensional geometry and statistics, Information and entropy, and Markov chains and convergence to equilibrium.
 
-### Aggregator / Monograph
-
-*   [TCS Job Market](https://sites.google.com/view/tcsjobmarket/home) - Theoretical Computer Science (TCS) job candidates, including PhD students expecting to graduate by Sep 1, 2023, current postdocs, and current faculty.
-
 ## [29. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Tools / Misc
 
-*   [Aqueduct (⭐522)](https://github.com/aqueducthq/aqueduct) - Aqueduct enables you to easily define, run, and manage AI & ML tasks on any cloud infrastructure.
+*   [Aqueduct (⭐521)](https://github.com/aqueducthq/aqueduct) - Aqueduct enables you to easily define, run, and manage AI & ML tasks on any cloud infrastructure.
 
 ---
 

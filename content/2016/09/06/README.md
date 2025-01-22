@@ -16,7 +16,7 @@
 
 ### Go Clients
 
-*   [resty (⭐9.8k)](https://github.com/go-resty/resty) - Simple HTTP and REST client for Go inspired by Ruby rest-client.
+*   [resty (⭐10k)](https://github.com/go-resty/resty) - Simple HTTP and REST client for Go inspired by Ruby rest-client.
 
 ## [3. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
@@ -40,11 +40,11 @@
 
 ### Libraries and Tools / C
 
-*   [vircar (⭐138)](https://github.com/dn5/vircar) - a Virtual car userspace that sends CAN messages based on SocketCAN
+*   [vircar (⭐148)](https://github.com/dn5/vircar) - a Virtual car userspace that sends CAN messages based on SocketCAN
 
 ### Libraries and Tools / Go
 
-*   [CAN Simulator (⭐58)](https://github.com/carloop/simulator-program) - A Go based CAN simulator for the Raspberry Pi to be used with PiCAN2 or the open source [CAN Simulator board (⭐169)](https://github.com/carloop/simulator)
+*   [CAN Simulator (⭐65)](https://github.com/carloop/simulator-program) - A Go based CAN simulator for the Raspberry Pi to be used with PiCAN2 or the open source [CAN Simulator board (⭐176)](https://github.com/carloop/simulator)
 
 ---
 

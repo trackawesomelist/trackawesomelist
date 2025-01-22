@@ -28,7 +28,7 @@
 
 ### Algorithms and Data structures
 
-*   [qex (⭐30)](https://github.com/princemaple/elixir-queue) - Wraps `:queue`, with improved API and `Inspect`, `Collectable` and `Enumerable` protocol implementations.
+*   [qex (⭐34)](https://github.com/princemaple/elixir-queue) - Wraps `:queue`, with improved API and `Inspect`, `Collectable` and `Enumerable` protocol implementations.
 
 ### Date and Time
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 01, 2017
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -12,31 +12,25 @@
 
 *   [Ant Design](http://ant.design/) - An Enterprise-class UI design language and React-based implementation.
 
-## [2. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / UI Components
-
-*   [vue-input-number (⭐13)](https://github.com/joseluisq/vue-input-number) - A custom input number component for Vue.js 2.
-
-## [3. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
+## [2. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
 ### Training Courses
 
 *   [Rails + Domain Driven Design Workshop](https://blog.arkency.com/ddd-training/) - Introduction to DDD, fundamentals of CQRS & Event Sourcing for Ruby/Rails developers.
 
-## [4. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/README.md)
+## [3. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/README.md)
 
 ### Samsung Tizen / Official resources
 
 *   [vscode-extension-tizentv](https://marketplace.visualstudio.com/items?itemName=tizensdk.tizentv) - A Visual Studio Code extension that provides a lightweight IDE for Tizen application developers.
 
-## [5. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [4. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Applications
 
-*   [RemoteRetro (⭐575)](https://github.com/stride-nyc/remote_retro) - A real-time application for conducting Agile retrospectives at [remoteretro.org](https://remoteretro.org) written in Elixir/Phoenix/React.
+*   [RemoteRetro (⭐578)](https://github.com/stride-nyc/remote_retro) - A real-time application for conducting Agile retrospectives at [remoteretro.org](https://remoteretro.org) written in Elixir/Phoenix/React.
 
-## [6. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
+## [5. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
 ### Software / Automation
 
@@ -187,39 +181,39 @@
 *   [Awesome SysAdmin @ LibHunt](https://sysadmin.libhunt.com) - Your go-to SysAdmin Toolbox. Based on the list here.
 *   [Digital Ocean Tutorials](https://www.digitalocean.com/community/tutorials) - 6,000+ tutorials for getting the basics of certain applications/tools/systems administration topics.
 
-## [7. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/README.md)
+## [6. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/README.md)
 
 ### Miscellaneous
 
 *   [Xkcd Excuse](https://xkcd-excuse.com) - The easiest way to get your slacking excuse in hip xkcd format!
 
-## [8. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
+## [7. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
 
 ### Integration
 
 *   Mail
-    *   [SMTP (⭐33)](https://github.com/vert-x3/vertx-mail-client) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Async SMTP client.
+    *   [SMTP (⭐36)](https://github.com/vert-x3/vertx-mail-client) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Async SMTP client.
     *   [vertx-smtp-server (⭐5)](https://github.com/cinterloper/vertx-smtp-server) - SMTP server bridging to EventBus.
 
-## [9. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+## [8. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
 ### Companies / N companies
 
 *   Nvidia <https://blogs.nvidia.com/>
 
-## [10. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [9. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Scripting
 
-*   [Cython (⭐9.3k)](https://github.com/cython/cython) - Cython is an optimising static compiler for both the Python programming language and the extended Cython programming language (based on Pyrex). It makes writing C extensions for Python as easy as Python itself. \[Apache] [website](http://cython.org/)
+*   [Cython (⭐9.7k)](https://github.com/cython/cython) - Cython is an optimising static compiler for both the Python programming language and the extended Cython programming language (based on Pyrex). It makes writing C extensions for Python as easy as Python itself. \[Apache] [website](http://cython.org/)
 *   [JavaCpp (⭐4.5k)](https://github.com/bytedeco/javacpp) - The missing bridge between Java and native C++. \[Apache2]
-*   [libffi (⭐3.2k)](https://github.com/libffi/libffi) - A portable foreign-function interface library. \[MIT] [website](https://sourceware.org/libffi/)
-*   [pybind11 (⭐15k)](https://github.com/pybind/pybind11) - Seamless operability between C++11 and Python. \[BSD]
-*   [SWIG (⭐5.7k)](https://github.com/swig/swig) - A wrapper/interface Generator that let you link your c++ code to Javascript, Perl, PHP, Python, Tcl and Ruby. \[GPL/Output not licensed] [website](http://www.swig.org/)
+*   [libffi (⭐3.3k)](https://github.com/libffi/libffi) - A portable foreign-function interface library. \[MIT] [website](https://sourceware.org/libffi/)
+*   [pybind11 (⭐16k)](https://github.com/pybind/pybind11) - Seamless operability between C++11 and Python. \[BSD]
+*   [SWIG (⭐5.9k)](https://github.com/swig/swig) - A wrapper/interface Generator that let you link your c++ code to JavaScript, Perl, PHP, Python, Tcl and Ruby. \[GPL/Output not licensed] [website](http://www.swig.org/)
 
 ### Build Systems
 
-*   [Bear (⭐4.7k)](https://github.com/rizsotto/Bear) - A tool to generate compilation database for clang tooling. \[GPLv3]
+*   [Bear (⭐5.2k)](https://github.com/rizsotto/Bear) - A tool to generate compilation database for clang tooling. \[GPLv3]
 
 ---
 

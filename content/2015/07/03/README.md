@@ -39,7 +39,7 @@
 
 ### Miscellaneous
 
-*   [html\_entities (⭐86)](https://github.com/martinsvalin/html_entities) - Elixir module for decoding HTML entities in a string.
+*   [html\_entities (⭐88)](https://github.com/martinsvalin/html_entities) - Elixir module for decoding HTML entities in a string.
 
 ## [3. Awesome Honeypots](/content/paralax/awesome-honeypots/README.md)
 
@@ -51,7 +51,7 @@
 
 ### Examples
 
-*   [Vert.x Markdown service (⭐6)](https://github.com/aesteve/vertx-markdown-service) - Example on how to use [service-proxy (⭐66)](https://github.com/vert-x3/vertx-service-proxy) with Gradle.
+*   [Vert.x Markdown service (⭐6)](https://github.com/aesteve/vertx-markdown-service) - Example on how to use [service-proxy (⭐67)](https://github.com/vert-x3/vertx-service-proxy) with Gradle.
 
 ## [5. Awesome R](/content/qinwf/awesome-R/README.md)
 
@@ -64,7 +64,7 @@
 *   [randomForest](http://cran.r-project.org/web/packages/randomForest/index.html) - randomForest: Breiman and Cutler's random forests for classification and regression.
 *   [randomForestSRC](http://cran.r-project.org/web/packages/randomForestSRC/index.html) - randomForestSRC: Random Forests for Survival, Regression and Classification (RF-SRC).
 *   [rattle](http://cran.r-project.org/web/packages/rattle/index.html) - Graphical user interface for data mining in R.
-*   [SuperLearner (⭐257)](https://github.com/ecpolley/SuperLearner) and [subsemble](http://cran.r-project.org/web/packages/subsemble/index.html) - Multi-algorithm ensemble learning packages.
+*   [SuperLearner (⭐271)](https://github.com/ecpolley/SuperLearner) and [subsemble](http://cran.r-project.org/web/packages/subsemble/index.html) - Multi-algorithm ensemble learning packages.
 
 ## [6. Awesome Opengl](/content/eug/awesome-opengl/README.md)
 

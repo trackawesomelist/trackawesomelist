@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 19, 2021
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Calendar
 
-*   [ScriptableWordClockWidget (⭐57)](https://github.com/bitKrakenCode/ScriptableWordClockWidget) - Clock showing the current time in writing.
+*   [ScriptableWordClockWidget (⭐73)](https://github.com/bitKrakenCode/ScriptableWordClockWidget) - Clock showing the current time in writing.
 
     <img src="https://user-images.githubusercontent.com/59827320/133928177-b32f866d-0ae5-46c8-89c9-aa2cb21971e4.png" width="400"/>
 
@@ -20,19 +20,13 @@
 
 *   [Brainboard](https://www.brainboard.co) - Collaborative solution to visually build and manage cloud infrastructures from end-to-end.
 
-## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
-
-### Software / URL Shorteners
-
-*   [Blink](https://docs.blink.rest) - Easy-to-host, SSO-integrated, CDN-powered link shortener (+decoupled analytics) for teams. ([Source Code (⭐277)](https://github.com/JaneJeon/blink)) `AGPL-3.0` `Nodejs/Docker`
-
-## [4. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
+## [3. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 
 ### Table of Contents / Books
 
 *   [Deep Learning for Natural Language Processing](https://www.manning.com/books/deep-learning-for-natural-language-processing) - by Stephan Raaijmakers
 
-## [5. Awesome Golem](/content/golemfactory/awesome-golem/README.md)
+## [4. Awesome Golem](/content/golemfactory/awesome-golem/README.md)
 
 ### GitHub Digest Blog Series
 
@@ -42,21 +36,21 @@
 
 *   [Golem Image Classifier (⭐4)](https://github.com/ControlCplusControlV/Golem-Image-Classifier) - Train and classify images through an active service.
 
-## [6. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [5. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Network programming
 
 *   SSH
-    *   [alexcrichton/ssh2-rs (⭐474)](https://github.com/alexcrichton/ssh2-rs) - [libssh2](https://libssh2.org/) bindings
+    *   [alexcrichton/ssh2-rs (⭐499)](https://github.com/alexcrichton/ssh2-rs) - [libssh2](https://libssh2.org/) bindings
     *   [Thrussh](https://pijul.org/thrussh) \[[thrussh](https://crates.io/crates/thrussh)] - an SSH library, backed by [libsodium](https://doc.libsodium.org/)
 
-## [7. Awesome Deno](/content/denolib/awesome-deno/README.md)
+## [6. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Modules / Image
 
-*   [ImageScript (⭐610)](https://github.com/matmen/ImageScript) - Image processing in JavaScript, utilizing WebAssembly for performance.
+*   [ImageScript (⭐629)](https://github.com/matmen/ImageScript) - Image processing in JavaScript, utilizing WebAssembly for performance.
 
-## [8. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
+## [7. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 
 ### Programming Languages/Frameworks/Platforms / CSS
 
@@ -78,17 +72,17 @@
 
 *   [Front End Interview Handbook](https://frontendinterviewhandbook.com/)
 
-## [9. Awesome List](/content/sindresorhus/awesome/README.md)
+## [8. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Platforms
 
-*   [Linux (⭐4.2k)](https://github.com/inputsh/awesome-linux#readme)
-    *   [Containers (⭐1.7k)](https://github.com/Friz-zy/awesome-linux-containers#readme)
-    *   [eBPF (⭐4.1k)](https://github.com/zoidbergwill/awesome-ebpf#readme) - Virtual machine that allows you to write more efficient and powerful tracing and monitoring for Linux systems.
-    *   [Arch-based Projects (⭐420)](https://github.com/PandaFoss/Awesome-Arch#readme) - Linux distributions and projects based on Arch Linux.
-    *   [AppImage (⭐378)](https://github.com/AppImage/awesome-appimage#readme) - Package apps in a single file that works on various mainstream Linux distributions.
+*   [Linux (⭐4.4k)](https://github.com/inputsh/awesome-linux#readme)
+    *   [Containers (⭐1.8k)](https://github.com/Friz-zy/awesome-linux-containers#readme)
+    *   [eBPF (⭐4.3k)](https://github.com/zoidbergwill/awesome-ebpf#readme) - Virtual machine that allows you to write more efficient and powerful tracing and monitoring for Linux systems.
+    *   [Arch-based Projects (⭐449)](https://github.com/PandaFoss/Awesome-Arch#readme) - Linux distributions and projects based on Arch Linux.
+    *   [AppImage (⭐430)](https://github.com/AppImage/awesome-appimage#readme) - Package apps in a single file that works on various mainstream Linux distributions.
 
-## [10. Awesome Scala Native](/content/tindzk/awesome-scala-native/README.md)
+## [9. Awesome Scala Native](/content/tindzk/awesome-scala-native/README.md)
 
 ### Bindings
 

@@ -10,7 +10,7 @@
 
 ### Images / Gif Creation
 
-*   [givegif (⭐219)](https://github.com/passy/givegif) - GIFs on the command line.
+*   [givegif (⭐223)](https://github.com/passy/givegif) - GIFs on the command line.
 
 ## [2. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
@@ -86,10 +86,10 @@ A collaborative book about R on the wikibooks website. Anyone can improve it.
 ### Lists / Book/monograph Lists and Reviews
 
 *   [ggplot2 Extensions](https://ggplot2-exts.github.io/ggiraph.html) - Showcases of ggplot2 extensions.
-*   [Books (⭐226)](https://github.com/RomanTsegelskyi/rbooks) - List of R Books.
-*   [Network Analysis (⭐3.3k)](https://github.com/briatte/awesome-network-analysis) - Network Analysis related resources.
+*   [Books (⭐243)](https://github.com/RomanTsegelskyi/rbooks) - List of R Books.
+*   [Network Analysis (⭐3.6k)](https://github.com/briatte/awesome-network-analysis) - Network Analysis related resources.
 *   [R Project Conferences](https://www.r-project.org/conferences.html) -  Information about useR! Conferences and DSC Conferences.
-*   [Topic Models (⭐227)](https://github.com/trinker/topicmodels_learning) - Topic Models learning and R related resources.
+*   [Topic Models (⭐228)](https://github.com/trinker/topicmodels_learning) - Topic Models learning and R related resources.
 
 ## [8. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 
@@ -160,7 +160,7 @@ A collaborative book about R on the wikibooks website. Anyone can improve it.
 
 ### Software / JavaScript
 
-*   [VivaGraphJS (⭐3.7k)](https://github.com/anvaka/VivaGraphJS) - Graph drawing library ([ForceAtlas2 plugin (⭐3)](https://github.com/graphcommons/viva.forceatlas2)).
+*   [VivaGraphJS (⭐3.8k)](https://github.com/anvaka/VivaGraphJS) - Graph drawing library ([ForceAtlas2 plugin (⭐3)](https://github.com/graphcommons/viva.forceatlas2)).
 *   [viz.js](https://mdaines.github.io/viz.js/) - Use Graphviz in Web pages.
 
 ### Software / MATLAB

@@ -44,7 +44,7 @@
 
 ### Algorithms and Data structures
 
-*   [exmatrix (⭐57)](https://github.com/a115/exmatrix) - ExMatrix is a small library for working with matrices, originally developed for testing matrix multiplication in parallel.
+*   [exmatrix (⭐58)](https://github.com/a115/exmatrix) - ExMatrix is a small library for working with matrices, originally developed for testing matrix multiplication in parallel.
 
 ### Documentation
 
@@ -62,7 +62,7 @@
 
 ### PHP Libraries
 
-*   [PHP-OP\_RETURN (⭐80)](https://github.com/coinspark/php-OP_RETURN)
+*   [PHP-OP\_RETURN (⭐81)](https://github.com/coinspark/php-OP_RETURN)
 
 ## [8. Awesome Devenv](/content/jondot/awesome-devenv/README.md)
 

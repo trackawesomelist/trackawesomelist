@@ -28,7 +28,7 @@
 
 ### Misc / Other
 
-*   [enaqx/awesome-react (⭐63k)](https://github.com/enaqx/awesome-react)
+*   [enaqx/awesome-react (⭐64k)](https://github.com/enaqx/awesome-react)
 
 ## [5. Awesome Android](/content/JStumpp/awesome-android/README.md)
 

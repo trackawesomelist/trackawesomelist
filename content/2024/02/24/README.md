@@ -16,7 +16,7 @@
 
 ### Utility / Mocking
 
-*   [JKScope (⭐12)](https://github.com/evpl/jkscope) - Java scope functions inspired by Kotlin.
+*   [JKScope (⭐13)](https://github.com/evpl/jkscope) - Java scope functions inspired by Kotlin.
 
 ## [3. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
@@ -32,7 +32,7 @@
 
 ### Parser / Package managers
 
-*   [00JCIV00/cova (⭐83)](https://github.com/00JCIV00/cova) - Commands, Options, Values, Arguments. A simple yet robust cross-platform command line argument parsing library.
+*   [00JCIV00/cova (⭐117)](https://github.com/00JCIV00/cova) - Commands, Options, Values, Arguments. A simple yet robust cross-platform command line argument parsing library.
 
 ## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
@@ -62,7 +62,7 @@
 
 ### 🚧 Boilerplates / 🌱 Third Party
 
-*   [ingeniousambivert/fiber-bootstrapped (⭐0)](https://github.com/ingeniousambivert/fiber-bootstrapped) - A toolkit for Go projects embracing a service-centric architecture, inspired by the principles of FeathersJS.
+*   [ingeniousambivert/fiber-bootstrapped (⭐2)](https://github.com/ingeniousambivert/fiber-bootstrapped) - A toolkit for Go projects embracing a service-centric architecture, inspired by the principles of FeathersJS.
 
 ---
 

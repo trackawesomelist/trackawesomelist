@@ -22,7 +22,7 @@
 
 ### Other
 
-*   [cmake-maven-plugin (⭐59)](https://github.com/cmake-maven-project/cmake-maven-project) - CMake integration for Maven builds. [`[APACHE2]`](http://www.apache.org/licenses/LICENSE-2.0)
+*   [cmake-maven-plugin (⭐76)](https://github.com/cmake-maven-project/cmake-maven-project) - CMake integration for Maven builds. [`[APACHE2]`](http://www.apache.org/licenses/LICENSE-2.0)
 
 ## [4. Awesome Uncopyright](/content/johnjago/awesome-uncopyright/README.md)
 
@@ -79,17 +79,17 @@
 
 ### Driver crates / Other
 
-*   [ADXL355](https://crates.io/crates/adxl355) - SPI - 3-axis accelerometer - [Intro blog post](https://jitter.company/blog/2020/02/14/adxl355-embedded-hal-driver-crate/) - ![crates.io](https://img.shields.io/crates/v/adxl355.svg)
+*   [ADXL355](https://crates.io/crates/adxl355) - SPI - 3-axis accelerometer - [Intro blog post](https://jitter.company/blog/2020/02/14/adxl355-embedded-hal-driver-crate/) - [![crates.io](https://img.shields.io/crates/v/adxl355.svg)](https://crates.io/crates/adxl355)
 
 ## [8. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### App Store
 
-*   [Apphud (⭐197)](https://github.com/apphud/ApphudSDK) - Lightweight library to easily handle auto-renewable subscriptions with no backend required.
+*   [Apphud (⭐207)](https://github.com/apphud/ApphudSDK) - Lightweight library to easily handle auto-renewable subscriptions with no backend required.
 
 ### Utility / Barcode
 
-*   [ExceptionCatcher (⭐128)](https://github.com/sindresorhus/ExceptionCatcher) - Catch Objective-C exceptions.
+*   [ExceptionCatcher (⭐133)](https://github.com/sindresorhus/ExceptionCatcher) - Catch Objective-C exceptions.
 
 ## [9. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
@@ -106,31 +106,31 @@
 
 ### Official
 
-*   [Yew (⭐30k)](https://github.com/yewstack/yew) - Rust / WebAssembly framework for building client web apps.
+*   [Yew (⭐31k)](https://github.com/yewstack/yew) - Rust / WebAssembly framework for building client web apps.
 
 ### Projects
 
-*   [web-view todomvc desktop app (⭐106)](https://github.com/Extrawurst/rust-webview-todomvc-yew) - Demo how to use yew for a todomvc that compiles to WebAssembly and is bundled as a lightweight(\~2mb) desktop app by [web-view (⭐1.9k)](https://github.com/Boscop/web-view), as an alternative to Electron, [web-view (⭐1.9k)](https://github.com/Boscop/web-view) also has a [demo (⭐1.9k)](https://github.com/Boscop/web-view/tree/master/examples#todo-yew).
-*   [Kirk (⭐41)](https://github.com/stkevintan/Kirk) - Just A Rust WebAssembly Blog.
+*   [web-view todomvc desktop app (⭐110)](https://github.com/Extrawurst/rust-webview-todomvc-yew) - Demo how to use yew for a todomvc that compiles to WebAssembly and is bundled as a lightweight(\~2mb) desktop app by [web-view (⭐1.9k)](https://github.com/Boscop/web-view), as an alternative to Electron, [web-view (⭐1.9k)](https://github.com/Boscop/web-view) also has a [demo (⭐1.9k)](https://github.com/Boscop/web-view/tree/master/examples#todo-yew).
+*   [Kirk (⭐42)](https://github.com/stkevintan/Kirk) - Just A Rust WebAssembly Blog.
 
 ### Crates / Wasm
 
-*   [wasm-bindgen (⭐7.3k)](https://github.com/rustwasm/wasm-bindgen) - Facilitating high-level interactions between WebAssembly modules and JavaScript.
+*   [wasm-bindgen (⭐7.9k)](https://github.com/rustwasm/wasm-bindgen) - Facilitating high-level interactions between WebAssembly modules and JavaScript.
 
 ### Tooling / Frameworks
 
-*   [wasm-pack (⭐6k)](https://github.com/rustwasm/wasm-pack) - Your favorite Rust -> WebAssembly workflow tool.
+*   [wasm-pack (⭐6.4k)](https://github.com/rustwasm/wasm-pack) - Your favorite Rust -> WebAssembly workflow tool.
 
 ### Alternatives / Frameworks
 
 *   [Draco (⭐302)](https://github.com/utkarshkukreti/draco) - A Rust library for building client side web applications with WebAssembly.
-*   [Sauron (⭐1.9k)](https://github.com/ivanceras/sauron) - Sauron is an HTML web framework for building web-apps.
+*   [Sauron (⭐2k)](https://github.com/ivanceras/sauron) - Sauron is an HTML web framework for building web-apps.
 
 ### Related lists / Frameworks
 
-*   [Awesome Rust and WebAssembly (⭐607)](https://github.com/rustwasm/awesome-rust-and-webassembly) - A list of awesome Rust and WebAssembly projects, libraries, tools, and resources.
-*   [Awesome WebAssembly (⭐8.5k)](https://github.com/mbasso/awesome-wasm) - Collection of awesome things regarding WebAssembly ecosystem.
-*   [Awesome Rust (⭐43k)](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
+*   [Awesome Rust and WebAssembly (⭐645)](https://github.com/rustwasm/awesome-rust-and-webassembly) - A list of awesome Rust and WebAssembly projects, libraries, tools, and resources.
+*   [Awesome WebAssembly (⭐9k)](https://github.com/mbasso/awesome-wasm) - Collection of awesome things regarding WebAssembly ecosystem.
+*   [Awesome Rust (⭐48k)](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 
 ## [11. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -158,7 +158,7 @@
 
 ### Testing / Asynchronous
 
-*   [Karate (⭐8k)](https://github.com/intuit/karate) - DSL that combines API test-automation, mocks and performance-testing making testing REST/HTTP services easy.
+*   [Karate (⭐8.3k)](https://github.com/intuit/karate) - DSL that combines API test-automation, mocks and performance-testing making testing REST/HTTP services easy.
 
 ## [14. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
 

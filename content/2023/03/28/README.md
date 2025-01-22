@@ -27,7 +27,6 @@
 *   [Mailchimp](https://mailchimp.com/) — 500 subscribers and 1,000 emails/month free.
 *   [Mailjet](https://www.mailjet.com/) — 6,000 emails/month free (200 emails daily sending limit)
 *   [Mailtrap.io](https://mailtrap.io/) — Fake SMTP server for development, free plan with one inbox, 100 messages, no team member, two emails/second, no forward rules.
-*   [Mailvalidator.io](https://mailvalidator.io/) - Verify 300 emails/month for free, real-time API with bulk processing available.
 *   [Mail7.io](https://www.mail7.io/) — Free Temp Email Addresses for QA Developers. Create email addresses instantly using Web Interface or API.
 *   [Postmark](https://postmarkapp.com/) - 100 emails/month free, unlimited DMARC weekly digests.
 *   [SendGrid](https://sendgrid.com/) — 100 emails/day and 2,000 contacts free
@@ -38,8 +37,8 @@
 ### Documentation
 
 *   [doxyrest (⭐306)](https://github.com/vovkos/doxyrest) - A compiler from Doxygen XML to reStructuredText for Sphinx. \[MIT]
-*   [hdoc (⭐302)](https://github.com/hdoc/hdoc) - The modern documentation tool for C++. \[AGPL/Proprietary] [website](https://hdoc.io)
-*   [Natural Docs (⭐194)](https://github.com/NaturalDocs/NaturalDocs) - Natural Docs is an open source documentation generator for multiple programming languages. \[AGPL/Proprietary] [website](https://www.naturaldocs.org)
+*   [hdoc (⭐313)](https://github.com/hdoc/hdoc) - The modern documentation tool for C++. \[AGPL/Proprietary] [website](https://hdoc.io)
+*   [Natural Docs (⭐208)](https://github.com/NaturalDocs/NaturalDocs) - Natural Docs is an open source documentation generator for multiple programming languages. \[AGPL/Proprietary] [website](https://www.naturaldocs.org)
 
 ## [4. Awesome Python](/content/vinta/awesome-python/README.md)
 
@@ -51,7 +50,7 @@
 
 ### Other / Godot version unknown
 
-*   [zfoo (⭐1.8k)](https://github.com/zfoo-project/zfoo) - Java game server framework for Godot, including GDScript serialization and deserialization.
+*   [zfoo (⭐1.9k)](https://github.com/zfoo-project/zfoo) - Java game server framework for Godot, including GDScript serialization and deserialization.
 
 ## [6. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/README.md)
 

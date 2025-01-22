@@ -22,13 +22,13 @@
 
 ### Apps
 
-*   [Twitter Clone (⭐159)](https://github.com/AlandSleman/t3-twitter-clone) - Twitter clone built with Next.js + T3 Stack + NextAuth + Supabase + Prisma.
+*   [Twitter Clone (⭐179)](https://github.com/AlandSleman/t3-twitter-clone) - Twitter clone built with Next.js + T3 Stack + NextAuth + Supabase + Prisma.
 
 ## [4. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Motion / Diagnostics
 
-*   [liangxianzhe/nap.nvim (⭐97)](https://github.com/liangxianzhe/nap.nvim) - Jump between next/previous buffer, tab, diagnostic, etc, with a single key.
+*   [liangxianzhe/nap.nvim (⭐100)](https://github.com/liangxianzhe/nap.nvim) - Jump between next/previous buffer, tab, diagnostic, etc, with a single key.
 
 ## [5. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
 
@@ -66,22 +66,22 @@
 
 ### Database clients / XML
 
-*   [libpb (⭐4)](https://github.com/Hax-io/libpb) - INteract with a PocketBase database
+*   [libpb (⭐5)](https://github.com/Hax-io/libpb) - INteract with a PocketBase database
 
 ### Command Line / XML
 
-*   [dlog (⭐2)](https://github.com/deavmi/dlog) - extensible logging framework with message transformation support and custom loggers and contexts
-*   [gogga (⭐3)](https://github.com/deavmi/gogga) - simple easy-to-use colorful logger for command-line applications
+*   [dlog (⭐1)](https://github.com/deavmi/dlog) - extensible logging framework with message transformation support and custom loggers and contexts
+*   [gogga (⭐2)](https://github.com/deavmi/gogga) - simple easy-to-use colorful logger for command-line applications
 
 ## [10. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Visual Studio Plugins
 
-*   [SonarSource.sonarlint-visualstudio (⭐459)](https://github.com/SonarSource/sonarlint-visualstudio) - SonarLint is a free, open source Visual Studio 2017, 2019 and 2022 extension that provides on-the-fly feedback to developers on new bugs and quality issues in C#, VB.NET, C/C++, TypeScript and JavaScript.
+*   [SonarSource.sonarlint-visualstudio (⭐471)](https://github.com/SonarSource/sonarlint-visualstudio) - SonarLint is a free, open source Visual Studio 2017, 2019 and 2022 extension that provides on-the-fly feedback to developers on new bugs and quality issues in C#, VB.NET, C/C++, TypeScript and JavaScript.
 
 ### Source Generator
 
-*   [M31.FluentAPI (⭐92)](https://github.com/m31coding/M31.FluentAPI) - Effortlessly generate fluent APIs for your C# classes.
+*   [M31.FluentAPI (⭐104)](https://github.com/m31coding/M31.FluentAPI) - Effortlessly generate fluent APIs for your C# classes.
 
 ## [11. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -105,13 +105,13 @@
 
 ### GTFS Converters / Ruby
 
-*   [gtfs2emis (⭐26)](https://github.com/ipeaGIT/gtfs2emis) - An R package to estimate the emission levels of public transport vehicles based on General Transit Feed Specification (GTFS) data.
+*   [gtfs2emis (⭐28)](https://github.com/ipeaGIT/gtfs2emis) - An R package to estimate the emission levels of public transport vehicles based on General Transit Feed Specification (GTFS) data.
 
 ## [13. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
 ### Status Bar
 
-*   [tmux-nerd-font-window-name (⭐131)](https://github.com/joshmedeski/tmux-nerd-font-window-name) Nerd Font icons for your tmux windows
+*   [tmux-nerd-font-window-name (⭐147)](https://github.com/joshmedeski/tmux-nerd-font-window-name) Nerd Font icons for your tmux windows
 
 ## [14. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 

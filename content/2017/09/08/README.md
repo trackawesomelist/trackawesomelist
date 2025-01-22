@@ -10,7 +10,7 @@
 
 ### Color Palettes / Web App
 
-*   [Color Name List (⭐2.3k)](https://github.com/meodai/color-names/) - Huge curated list of unique color names.
+*   [Color Name List (⭐2.4k)](https://github.com/meodai/color-names/) - Huge curated list of unique color names.
 
 ## [2. Awesome Preact](/content/preactjs/awesome-preact/README.md)
 
@@ -34,7 +34,6 @@
 
 ### Job boards aggregators
 
-*   [Remote OK](https://remoteok.io/) - Scrapes many job board feeds for remote positions.
 *   [Remote Python](https://www.remotepython.com/) - Job board and aggregator specifically for remote Python jobs.
 *   [whoishiring.io](https://whoishiring.io/#!/search/19.41/-43.14/2/?remote=true)
 
@@ -55,8 +54,8 @@
     [Repo (⭐1.4k)](https://github.com/nathansmith/unsemantic)
 *   [**Centurion**](https://www.centurionframework.com) - Web-based framework for rapid prototyping and building larger web projects.\
     ![](https://img.shields.io/github/stars/justinhough/Centurion.svg?style=social\&label=Star)
-    [Docs (⭐325)](https://github.com/justinhough/Centurion/blob/master/DOCUMENTATION.md),
-    [Repo (⭐325)](https://github.com/justinhough/Centurion)
+    [Docs (⭐326)](https://github.com/justinhough/Centurion/blob/master/DOCUMENTATION.md),
+    [Repo (⭐326)](https://github.com/justinhough/Centurion)
 
 ## [8. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
 

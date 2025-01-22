@@ -20,13 +20,9 @@
 
 ## [3. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
-### Resources / Community
-
-*   [Vue Land - Discord chat server](https://vue-land.js.org/)
-
 ### Components & Libraries / UI Components
 
-*   [vue-flatpickr-component (⭐965)](https://github.com/ankurk91/vue-flatpickr-component) Vue.js component for [flatpickr (⭐16k)](https://github.com/chmln/flatpickr) datetime picker
+*   [vue-flatpickr-component (⭐970)](https://github.com/ankurk91/vue-flatpickr-component) Vue.js component for [flatpickr (⭐16k)](https://github.com/chmln/flatpickr) datetime picker
 
 ## [4. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

@@ -75,17 +75,17 @@
 
 ### Lexers, Parsers, Parser Generators / Bare metal / kernel development
 
-*   [Martin Nowak's Lexer (⭐12)](https://github.com/MartinNowak/lexer) - A lexer generator.
+*   [Martin Nowak's Lexer (⭐13)](https://github.com/MartinNowak/lexer) - A lexer generator.
 *   [Goldie](https://bitbucket.org/Abscissa/goldie/wiki/Home) - Goldie Parsing System.
 
 ### Web Frameworks / Bare metal / kernel development
 
-*   [cmsed (⭐17)](https://github.com/rikkimax/Cmsed) - A component library for Vibe that functions as a CMS.
+*   [cmsed (⭐18)](https://github.com/rikkimax/Cmsed) - A component library for Vibe that functions as a CMS.
 
 ### Command Line / XML
 
-*   [scriptlike (⭐90)](https://github.com/Abscissa/scriptlike) - Utility library to aid writing script-like programs in D.
-*   [todod (⭐15)](https://github.com/BlackEdder/todod) - Todod is a command line based todo list manager. It also has support for shell interaction based on [linenoise (⭐3.5k)](https://github.com/antirez/linenoise).
+*   [scriptlike (⭐93)](https://github.com/Abscissa/scriptlike) - Utility library to aid writing script-like programs in D.
+*   [todod (⭐15)](https://github.com/BlackEdder/todod) - Todod is a command line based todo list manager. It also has support for shell interaction based on [linenoise (⭐3.7k)](https://github.com/antirez/linenoise).
 
 ## [3. Awesome Hadoop](/content/youngwookim/awesome-hadoop/README.md)
 

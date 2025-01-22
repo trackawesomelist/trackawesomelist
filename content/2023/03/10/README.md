@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 10, 2023
 
-8 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -20,7 +20,7 @@
 
 ### Programming Languages / Ruby
 
-*   [ruby-nix (⭐106)](https://github.com/sagittaros/ruby-nix) - Generates reproducible ruby/bundler app environment with Nix.
+*   [ruby-nix (⭐123)](https://github.com/sagittaros/ruby-nix) - Generates reproducible ruby/bundler app environment with Nix.
 
 ## [3. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 
@@ -69,21 +69,15 @@
 
 ### Editing Support / Diagnostics
 
-*   [echasnovski/mini.nvim#mini.splitjoin (⭐4.7k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-splitjoin.md) - Module of `mini.nvim` to split and join arguments. Has customizable pre and post hooks. Works inside comments.
+*   [echasnovski/mini.nvim#mini.splitjoin (⭐6.2k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-splitjoin.md) - Module of `mini.nvim` to split and join arguments. Has customizable pre and post hooks. Works inside comments.
 
-## [6. Awesome Datascience](/content/academic/awesome-datascience/README.md)
-
-### Free Courses
-
-*   [Python for Machine Learning](https://globalaihub.com/courses/introduction-to-python-the-road-to-machine-learning/) - Start your journey to machine learning with Python, one of the most powerful programming languages.
-
-## [7. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [6. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### SDKs and Samples / Haskell SDK
 
 *   [Repo :fire::fire::fire: (⭐558)](https://github.com/brendanhay/amazonka)
 
-## [8. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
+## [7. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
 ### Swift / Svelte
 

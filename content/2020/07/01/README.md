@@ -17,13 +17,12 @@
 ### Resources / Community
 
 *   [VueJS DOM - WhatsApp group](https://chat.whatsapp.com/L5rFQpme22IHmmyOMI1MWA)
-*   [VueJS DOM - Facebook group](https://www.facebook.com/groups/2022974857757366/)
 
 ## [3. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Top / Game Engine resources
 
-*   [AuthPass (⭐2.2k)](https://github.com/authpass/authpass) <!--stargazers:authpass/authpass--> - Keepass compatible password manager for mobile and desktop by [hpoul](https://github.com/hpoul)
+*   [AuthPass (⭐2.3k)](https://github.com/authpass/authpass) <!--stargazers:authpass/authpass--> - Keepass compatible password manager for mobile and desktop by [hpoul](https://github.com/hpoul)
 
 ## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -56,7 +55,7 @@
 
 ### Other Testing
 
-*   [Mockingbird (⭐196)](https://github.com/Farfetch/mockingbird) - Simplify software testing, by easily mocking any system using HTTP/HTTPS, allowing a team to test and develop against a service that is not complete, unstable or just to reproduce planned cases.
+*   [Mockingbird (⭐197)](https://github.com/Farfetch/mockingbird) - Simplify software testing, by easily mocking any system using HTTP/HTTPS, allowing a team to test and develop against a service that is not complete, unstable or just to reproduce planned cases.
 
 ## [8. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/README.md)
 
@@ -72,7 +71,7 @@
 
 ### Developer Tools / Other Tools
 
-*   [msgpack-asgi (⭐156)](https://github.com/florimondmanca/msgpack-asgi) - Automatic [MessagePack](https://msgpack.org/) content negotiation.
+*   [msgpack-asgi (⭐163)](https://github.com/florimondmanca/msgpack-asgi) - Automatic [MessagePack](https://msgpack.org/) content negotiation.
 
 ### Official Resources / Other Tools
 
@@ -101,15 +100,15 @@
 
 ### Boilerplate / Other Tools
 
-*   [FastAPI and Tortoise ORM (⭐125)](https://github.com/prostomarkeloff/fastapi-tortoise) - Powerful but simple template for web APIs w/ FastAPI (as web framework) and Tortoise-ORM (for working via database without headache).
-*   [cookiecutter-fastapi (⭐449)](https://github.com/arthurhenrique/cookiecutter-fastapi) - Cookiecutter template for FastAPI projects using: Machine Learning, Poetry, Azure Pipelines and pytest.
-*   [FastAPI and React Template (⭐2.2k)](https://github.com/Buuntu/fastapi-react) - Full stack cookiecutter boilerplate using FastAPI, TypeScript, Docker, PostgreSQL, and React.
+*   [FastAPI and Tortoise ORM (⭐129)](https://github.com/prostomarkeloff/fastapi-tortoise) - Powerful but simple template for web APIs w/ FastAPI (as web framework) and Tortoise-ORM (for working via database without headache).
+*   [cookiecutter-fastapi (⭐507)](https://github.com/arthurhenrique/cookiecutter-fastapi) - Cookiecutter template for FastAPI projects using: Machine Learning, Poetry, Azure Pipelines and pytest.
+*   [FastAPI and React Template (⭐2.3k)](https://github.com/Buuntu/fastapi-react) - Full stack cookiecutter boilerplate using FastAPI, TypeScript, Docker, PostgreSQL, and React.
 
 ### Open Source Projects / Other Tools
 
-*   [FastAPI with Celery, RabbitMQ, and Redis (⭐508)](https://github.com/GregaVrbancic/fastapi-celery) - Minimal example utilizing FastAPI and Celery with RabbitMQ for task queue, Redis for Celery backend, and Flower for monitoring the Celery tasks.
-*   [JSON-RPC Server (⭐284)](https://github.com/smagafurov/fastapi-jsonrpc) - JSON-RPC server based on FastAPI.
-*   [redis-streams-fastapi-chat (⭐206)](https://github.com/leonh/redis-streams-fastapi-chat) - A simple Redis Streams backed chat app using Websockets, Asyncio and FastAPI/Starlette.
+*   [FastAPI with Celery, RabbitMQ, and Redis (⭐535)](https://github.com/GregaVrbancic/fastapi-celery) - Minimal example utilizing FastAPI and Celery with RabbitMQ for task queue, Redis for Celery backend, and Flower for monitoring the Celery tasks.
+*   [JSON-RPC Server (⭐295)](https://github.com/smagafurov/fastapi-jsonrpc) - JSON-RPC server based on FastAPI.
+*   [redis-streams-fastapi-chat (⭐220)](https://github.com/leonh/redis-streams-fastapi-chat) - A simple Redis Streams backed chat app using Websockets, Asyncio and FastAPI/Starlette.
 *   [TermPair (⭐1.6k)](https://github.com/cs01/termpair) - View and control terminals from your browser with end-to-end encryption.
 
 ## [10. Awesome Ionic](/content/candelibas/awesome-ionic/README.md)
@@ -120,7 +119,7 @@
 
 ## [11. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
 
-### Books
+### Books / Commerical Tools
 
 *   [Serverless Machine Learning](https://www.manning.com/books/serverless-machine-learning-in-action) - a book for machine learning engineers on how to train and deploy machine learning systems on public clouds like AWS, Azure, and GCP, using a code-oriented approach.
 

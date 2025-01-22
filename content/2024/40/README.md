@@ -26,19 +26,19 @@
 
 ## [4. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
-### 2D / Godot 3.2+
+### 2D / Godot 3
 
-*   [ROTA (⭐210)](https://github.com/HarmonyHoney/ROTA) - Gravity-bending puzzle platformer game.
+*   [ROTA (⭐231)](https://github.com/HarmonyHoney/ROTA) - Gravity-bending puzzle platformer game.
 
-### Plugins and scripts / Godot 4.2+
+### Plugins and scripts / Godot 4
 
-*   [Shaker (⭐241)](https://github.com/Eneskp3441/Shaker) - Plugin that adds shaking and emitters for cameras, nodes or any property in 2D and 3D.
+*   [Shaker (⭐284)](https://github.com/Eneskp3441/Shaker) - Plugin that adds shaking and emitters for cameras, nodes or any property in 2D and 3D.
 
 ## [5. Awesome Webxr](/content/msub2/awesome-webxr/week/README.md)
 
 ### Development / Engines
 
-*   [iR Engine (⭐14)](https://github.com/ir-engine/ir-engine) - A full stack MMO engine built on three.js and bitECS with support for WebXR.
+*   [iR Engine (⭐35)](https://github.com/ir-engine/ir-engine) - A full stack MMO engine built on three.js and bitECS with support for WebXR.
 
 ## [6. Awesome Jquery](/content/petk/awesome-jquery/week/README.md)
 
@@ -54,11 +54,11 @@
 
 ### Component Libraries
 
-*   [Dash PDF (⭐13)](https://github.com/ploomber/dash-pdf) - Display inline PDFs
-*   [Dash MUI (⭐8)](https://github.com/ploomber/dash-mui) - Material UI components
-*   [Dash React Simple Maps (⭐5)](https://github.com/ploomber/dash-react-simple-maps) - Create interactive maps
-*   [Dash Mosaic (⭐3)](https://github.com/ploomber/mosaic-python#dash-mosaic) - Display [Mosaic (⭐801)](https://github.com/uwdata/mosaic) plots
-*   [Dash Tabler Icons (⭐2)](https://github.com/ploomber/dash-tabler-icons) - Beautiful icons for your Dash apps
+*   [Dash PDF (⭐21)](https://github.com/ploomber/dash-pdf) - Display inline PDFs
+*   [Dash MUI (⭐14)](https://github.com/ploomber/dash-mui) - Material UI components
+*   [Dash React Simple Maps (⭐7)](https://github.com/ploomber/dash-react-simple-maps) - Create interactive maps
+*   [Dash Mosaic (⭐12)](https://github.com/ploomber/mosaic-python#dash-mosaic) - Display [Mosaic (⭐901)](https://github.com/uwdata/mosaic) plots
+*   [Dash Tabler Icons (⭐4)](https://github.com/ploomber/dash-tabler-icons) - Beautiful icons for your Dash apps
 *   [Dash React Syntax Highlighter (⭐1)](https://github.com/ploomber/dash-react-syntax-highlighter) - Display code snippets with a copy button
 
 ### Contributors
@@ -124,14 +124,15 @@ Collect and sum the `/spend <duration>` directives found in commit messages.
 
 ### Remote Development / Diagnostics
 
-*   [live-share.nvim (⭐61)](https://github.com/azratul/live-share.nvim) - Provides remote collaboration capabilities from anywhere, making it ideal for pair-programming scenarios.
+*   [live-share.nvim (⭐163)](https://github.com/azratul/live-share.nvim) - Provides remote collaboration capabilities from anywhere, making it ideal for pair-programming scenarios.
 
 ## [11. Awesome Marketing](/content/marketingtoolslist/awesome-marketing/week/README.md)
 
 ### Email Marketing / Email Deliverability
 
-*   [GlockApps](https://glockapps.com/) - Tool to diagnose email deliverability problems.
-*   [Mailtrap](https://mailtrap.io/) - Platform used to test deliverability before sending and control results in one place.
+*   [Heybounce](https://www.heybounce.io) - Review - Email verification service that checks if an email exists and detects disposable emails to reduce bounce rates.
+*   [GlockApps](https://glockapps.com/) - Review - Tool to diagnose email deliverability problems.
+*   [Mailtrap](https://mailtrap.io/) - Review - Platform used to test deliverability before sending and control results in one place.
 
 ## [12. Learn to Program](/content/karlhorky/learn-to-program/week/README.md)
 
@@ -153,30 +154,29 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 ### Libraries / PHP
 
 *   [laravel-mongodb (⭐7k)](https://github.com/mongodb/laravel-mongodb) - Official Eloquent model and query builder for Laravel
-*   [Doctrine MongoDB ODM (⭐1.1k)](https://github.com/doctrine/mongodb-odm) and [MongoDB ODM Bundle for Symfony (⭐379)](https://github.com/doctrine/DoctrineMongoDBBundle) - Fully featured ORM with Symfony integration
-*   [MongoDB Bundle (⭐36)](https://github.com/facile-it/mongodb-bundle) - Integration of the official library with Symfony, without ORM
-*   [yii-mongodb (⭐326)](https://github.com/yiisoft/yii2-mongodb) - Yii 2 MongoDB extension
-*   [opentelemetry php auto-mongodb (⭐0)](https://github.com/opentelemetry-php/contrib-auto-mongodb) - Automatic monitoring of MongoDB commands with OpenTelemetry
+*   [Doctrine MongoDB ODM (⭐1.1k)](https://github.com/doctrine/mongodb-odm) and [MongoDB ODM Bundle for Symfony (⭐383)](https://github.com/doctrine/DoctrineMongoDBBundle) - Fully featured ORM with Symfony integration
+*   [MongoDB Bundle (⭐37)](https://github.com/facile-it/mongodb-bundle) - Integration of the official library with Symfony, without ORM
+*   [yii-mongodb (⭐328)](https://github.com/yiisoft/yii2-mongodb) - Yii 2 MongoDB extension
+*   [opentelemetry php auto-mongodb (⭐1)](https://github.com/opentelemetry-php/contrib-auto-mongodb) - Automatic monitoring of MongoDB commands with OpenTelemetry
 
 ## [14. Awesome Spark](/content/awesome-spark/awesome-spark/week/README.md)
 
 ### Packages / Language Bindings
 
-*   [spark-connect-rs (⭐76)](https://github.com/sjrusso8/spark-connect-rs) <img src="https://img.shields.io/github/last-commit/sjrusso8/spark-connect-rs.svg"> - Rust bindings.
-*   [spark-connect-go (⭐145)](https://github.com/apache/spark-connect-go) <img src="https://img.shields.io/github/last-commit/apache/spark-connect-go.svg"> - Golang bindings.
-*   [spark-connect-rs (⭐1)](https://github.com/mdrakiburrahman/spark-connect-csharp) <img src="https://img.shields.io/github/last-commit/mdrakiburrahman/spark-connect-csharp.svg"> - C# bindings.
+*   [spark-connect-rs (⭐85)](https://github.com/sjrusso8/spark-connect-rs) <img src="https://img.shields.io/github/last-commit/sjrusso8/spark-connect-rs.svg"> - Rust bindings.
+*   [spark-connect-go (⭐155)](https://github.com/apache/spark-connect-go) <img src="https://img.shields.io/github/last-commit/apache/spark-connect-go.svg"> - Golang bindings.
 
 ## [15. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
 ### Third-Party Packages / Models
 
-*   [django-auto-prefetch (⭐353)](https://github.com/tolomea/django-auto-prefetch) - Automatically prefetch foreign key values as needed.
+*   [django-auto-prefetch (⭐361)](https://github.com/tolomea/django-auto-prefetch) - Automatically prefetch foreign key values as needed.
 
 ## [16. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
 
 ### Projects Related to eBPF / Security
 
-*   [harpoon (⭐87)](https://github.com/alegrey91/harpoon) - Trace syscalls from user-space functions, by using eBPF.
+*   [harpoon (⭐132)](https://github.com/alegrey91/harpoon) - Trace syscalls from user-space functions, by using eBPF.
 
 ## [17. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
 
@@ -220,11 +220,11 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ### Audio
 
-*   [dbandstra/zig-wav (⭐0)](https://github.com/dbandstra/zig-wav) - Simple WAV file parser and writer.
+*   [dbandstra/zig-wav (⭐1)](https://github.com/dbandstra/zig-wav) - Simple WAV file parser and writer.
 
 ### Games
 
-*   [dbandstra/oxid (⭐3)](https://github.com/dbandstra/oxid) - Arcade-style game where you fight waves of monsters in a fixed-screen maze.
+*   [dbandstra/oxid (⭐4)](https://github.com/dbandstra/oxid) - Arcade-style game where you fight waves of monsters in a fixed-screen maze.
 
 ### Misc libraries
 
@@ -242,52 +242,13 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ## [22. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
-### Projects / API Management
-
-*   [Gravitee.io API Management (⭐178) (⭐177)](https://github.com/gravitee-io/gravitee-api-management) - A flexible, lightweight, and open-source API management solution that provides comprehensive API management capabilities and helps you manage your APIs with ease.
-*   [WSO2 API Manager (⭐838) (⭐839)](https://github.com/wso2/product-apim) - A fully open-source API management platform that provides comprehensive API management capabilities and allows you to manage APIs with ease.
-
-### Projects / API Design
-
-*   [OpenAPI Diff (⭐808) (⭐805)](https://github.com/OpenAPITools/openapi-diff) - Compare OpenAPI specs with version control and visualize the differences in HTML or Markdown format.
-*   [Zally (⭐904) (⭐903)](https://github.com/zalando/zally) - Ensure the quality of your OpenAPI specs with this linter tool that provides extensive analysis and feedback.
-
-### Projects / API Documentation
-
-*   [OpenAPI Explorer (⭐306) (⭐305)](https://github.com/Rhosys/openapi-explorer) - A tool for generating user interfaces from OpenAPI specifications, making it easier for software engineers to visualize and interact with APIs.
-
-### Projects / API Testing
-
-*   Mocking tools
-    *   [Imposter (⭐364) (⭐362)](https://github.com/outofcoffee/imposter) - Mock server for REST APIs, OpenAPI (and Swagger) specifications, SOAP web services (and WSDL files), Salesforce and HBase APIs.
-    *   [Microcks (⭐1.3k) (⭐1.4k)](https://github.com/microcks/microcks) - Open-source Kubernetes-native tool for API mocking and testing, supporting AsyncAPI, OpenAPI, Postman Collections, etc.
-    *   [Mockable](https://www.mockable.io/) - Simple configurable service to mock out RESTful API or SOAP web-services.
-    *   [Mockoon (⭐6.2k) (⭐6.3k)](https://github.com/mockoon/mockoon) - Easy-to-use tool for designing and running mock REST APIs.
-    *   [MockServer (⭐4.5k) (⭐4.6k)](https://github.com/mock-server/mockserver) - Easy mocking of any system you integrate with via HTTP or HTTPS.
-    *   [Mocky (⭐2k) (⭐2k)](https://github.com/MockyAbstract/Mocky) - Free and unlimited online service for generating custom HTTP responses.
-    *   [Prism (⭐4.2k) (⭐4.2k)](https://github.com/stoplightio/prism) - Open-source HTTP mock server that can mimic your API's behavior as if you already built it.
-    *   [WireMock (⭐6.3k) (⭐6.3k)](https://github.com/tomakehurst/wiremock) - Mock your APIs for fast, robust, and comprehensive testing.
-
-### Projects / BRE
-
-*   [OpenL Tablets (⭐154) (⭐153)](https://github.com/openl-tablets/openl-tablets) - Open-source business rules engine (BRE, BRMS) and decision management system that allows users to define, manage, and execute business rules and decision tables.
-
-### Projects / Data Mapping Solution
-
-*   [JSLT (⭐630) (⭐628)](https://github.com/schibsted/jslt) - A complete query and transformation language for JSON that is inspired by jq, XPath, and XQuery. With JSLT, software engineers can quickly and easily transform JSON data to meet their needs.
-
 ### Projects / Workflow engine
 
-*   [Camunda (⭐4.1k) (⭐4.1k)](https://github.com/camunda/camunda-bpm-platform) - An open-source workflow and decision automation platform that helps you automate business processes and decisions in a flexible and scalable way.
+*   [Camunda (⭐4.1k) (⭐4.2k)](https://github.com/camunda/camunda-bpm-platform) - An open-source workflow and decision automation platform that helps you automate business processes and decisions in a flexible and scalable way.
 
-### Resources / Data Formats
+### Resources / API Specification
 
-*   [NDJSON (⭐670) (⭐669)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
-*   [YAML (⭐342) (⭐341)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
-
-### Resources / Standard APIs
-
-*   [Standard Webhooks (⭐1.3k) (⭐1.3k)](https://github.com/standard-webhooks/standard-webhooks) - Open source tools and guidelines for sending webhooks easily, securely, and reliably.
+*   [Standard Webhooks (⭐1.3k) (⭐1.4k)](https://github.com/standard-webhooks/standard-webhooks) - Open source tools and guidelines for sending webhooks easily, securely, and reliably.
 
 ## [23. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
 
@@ -303,172 +264,31 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 *   [Using Z Specification, Refinement, and Proof](http://www.usingz.com/usingz.pdf) -  Jim Woodcock, Jim Davies (PDF)
 
-## [24. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/week/README.md)
-
-### **Azure Reference Architectures** / Data processing
-
-*   Azure OpenAI Accelerator / Application
-    *   [An open-source template gallery](https://azure.github.io/awesome-azd/?tags=aicollection): 🏆AI template collection
-    *   [Azure-Cognitive-Search-Azure-OpenAI-Accelerator (⭐328)](https://github.com/MSUSAzureAccelerators/Azure-Cognitive-Search-Azure-OpenAI-Accelerator) \[May 2023]
-    *   [Conversational-Azure-OpenAI-Accelerator (⭐63)](https://github.com/MSUSAzureAccelerators/Conversational-Azure-OpenAI-Accelerator) \[Feb 2022]
-    *   ChatGPT + Enterprise data RAG (Retrieval-Augmented Generation) Demo [git (⭐6k)](https://github.com/Azure-Samples/azure-search-openai-demo) 🏆 \[8 Feb 2023]
-    *   Azure OpenAI samples: [ref (⭐530)](https://github.com/Azure/azure-openai-samples) \[Apr 2023]
-    *   The repository for all Azure OpenAI Samples complementing the OpenAI cookbook.: [ref (⭐1.1k)](https://github.com/Azure-Samples/openai) \[Apr 2023]
-    *   Azure-Samples [ref](https://github.com/Azure-Samples)
-        *   Azure OpenAI with AKS By Terraform: [git (⭐45)](https://github.com/Azure-Samples/aks-openai-terraform) \[Jun 2023]
-        *   Azure OpenAI with AKS By Bicep: [git (⭐28)](https://github.com/Azure-Samples/aks-openai) \[May 2023]
-        *   Enterprise Logging: [git (⭐176)](https://github.com/Azure-Samples/openai-python-enterprise-logging) \[Feb 2023] / [Setting up Azure OpenAI with Azure API Management (⭐81)](https://github.com/Azure/enterprise-azureai) \[Jan 2024]
-        *   Azure OpenAI with AKS by Terraform (simple version): [git (⭐49)](https://github.com/Azure-Samples/azure-openai-terraform-deployment-sample) \[May 2023]
-        *   ChatGPT Plugin Quickstart using Python and FastAPI: [git (⭐438)](https://github.com/Azure-Samples/openai-plugin-fastapi) \[May 2023]
-        *   GPT-Azure-Search-Engine: [git (⭐376)](https://github.com/pablomarin/GPT-Azure-Search-Engine) `Integration of Azure Bot Service with LangChain` \[Feb 2023]
-        *   Azure OpenAI Network Latency Test Script
-            : [git (⭐1)](https://github.com/wloryo/networkchatgpt/blob/dc76f2264ff8c2a83392e6ae9ee2aaa55ca86f0e/openai_network_latencytest_nocsv_pub_v1.1.py) \[Jun 2023]
-        *   Create an Azure OpenAI, LangChain, ChromaDB, and Chainlit ChatGPT-like application in Azure Container Apps using Terraform [git (⭐131)](https://github.com/Azure-Samples/container-apps-openai/) \[Jul 2023]
-        *   [Azure SQL DB + AOAI (⭐65)](https://github.com/Azure-Samples/SQL-AI-samples) / [Smart load balancing for AOAI (⭐40)](https://github.com/Azure-Samples/openai-aca-lb) / [Azure Functions (C#) bindings for OpenAI (⭐74)](https://github.com/Azure/azure-functions-openai-extension) / [Microsoft Entra ID Authentication for AOAI (⭐29)](https://github.com/Azure-Samples/openai-chat-app-entra-auth-builtin) / [Azure OpenAI workshop (⭐479)](https://github.com/microsoft/OpenAIWorkshop) / [RAG for Azure Data (⭐119)](https://github.com/microsoft/AzureDataRetrievalAugmentedGenerationSamples) / [AI-Sentry (⭐13)](https://github.com/microsoft/ai-sentry): A lightweight, pluggable facade layer for AOAI
-    *   Azure Open AI work with Cognitive Search act as a Long-term memory
-        1.  [ChatGPT + Enterprise data with Azure OpenAI and Cognitive Search (⭐6k)](https://github.com/Azure-Samples/azure-search-openai-demo) \[Feb 2023]
-        2.  [Can ChatGPT work with your enterprise data?](https://www.youtube.com/watch?v=tW2EA4aZ_YQ) \[06 Apr 2023]
-        3.  [Azure OpenAI と Azure Cognitive Search の組み合わせを考える](https://qiita.com/nohanaga/items/59e07f5e00a4ced1e840) \[24 May 2023]
-    *   [AI-in-a-Box (⭐524)](https://github.com/Azure/AI-in-a-Box): AI-in-a-Box aims to provide an "Azure AI/ML Easy Button" for common scenarios \[Sep 2023]
-    *   [AI Samples for .NET (⭐268)](https://github.com/dotnet/ai-samples):  official .NET samples demonstrating how to use AI \[Feb 2024]
-    *   [OpenAI Official .NET Library (⭐1.2k)](https://github.com/openai/openai-dotnet/) \[Apr 2024]
-    *   [Smart Components (⭐694)](https://github.com/dotnet-smartcomponents/smartcomponents): Experimental, end-to-end AI features for .NET apps \[Mar 2024]
-    *   [Prompt Buddy (⭐161)](https://github.com/stuartridout/promptbuddy): 🏆Share and upvote favorite AI prompts. free Microsoft Teams Power App using Dataverse for Teams. \[Mar 2024]
-    *   [Azure Multimodal AI + LLM Processing Accelerator (⭐30)](https://github.com/Azure/multimodal-ai-llm-processing-accelerator): Build multimodal data processing pipelines with Azure AI Services + LLMs \[Aug 2024]
-    *   [ARGUS (⭐35)](https://github.com/Azure-Samples/ARGUS): Hybrid approach with Azure Document Intelligence combined and GPT4-Vision to get better results without any pre-training. \[Jun 2024]
-    *   [azure-llm-fine-tuning (⭐29)](https://github.com/Azure/azure-llm-fine-tuning): SLM/LLM Fine-tuning on Azure \[May 2024]
-    *   [OpenAI Chat Application with Microsoft Entra Authentication (⭐29)](https://github.com/Azure-Samples/openai-chat-app-entra-auth-builtin): Microsoft Entra ID for user authentication  \[May 2024]
-    *   [VoiceRAG (⭐31)](https://github.com/Azure-Samples/aisearch-openai-rag-audio): Voice Using Azure AI Search and the GPT-4o Realtime API for Audio [ref](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/voicerag-an-app-pattern-for-rag-voice-using-azure-ai-search-and/ba-p/4259116) \[Sep 2024]
-
-### **Semantic Kernel** / **Code Recipes**
-
-*   [Project Micronaire](https://devblogs.microsoft.com/semantic-kernel/microsoft-hackathon-project-micronaire-using-semantic-kernel/): A Semantic Kernel RAG Evaluation Pipeline [git (⭐7)](https://github.com/microsoft/micronaire) \[3 Oct 2024]
-
-### **OpenAI's Roadmap and Products** / **OpenAI Products**
-
-*   [OpenAI DevDay 2024](https://openai.com/devday/): Real-time API (speech-to-speech), Vision Fine-Tuning, Prompt Caching, and Distillation (fine-tuning a small language model using a large language model). [ref](https://community.openai.com/t/devday-2024-san-francisco-live-ish-news/963456) \[1 Oct 2024]
-
-### **LLM for Domain Specific** / **GPT series release date**
-
-*   [AlphaChip](https://deepmind.google/discover/blog/how-alphachip-transformed-computer-chip-design/): Reinforcement learning-based model for designing physical chip layouts. \[26 Sep 2024]
-
-### **MLLM (multimodal large language model)** / **GPT series release date**
-
-*   [Molmo and PixMo](https://arxiv.org/abs/2409.17146): Open Weights and Open Data for State-of-the-Art Multimodal Models [ref](https://molmo.allenai.org/) \[25 Sep 2024]
-
-      <!-- <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/multi-llm.png" width="180" /> -->
-
-### **Build an LLMs from scratch: picoGPT and lit-gpt** / **GPT series release date**
-
-*   [Umar Jamil github](https://github.com/hkproj): Model explanation / building a model from scratch [youtube](https://www.youtube.com/@umarjamilai)
-
-## [25. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [24. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Libraries/Packages/Scripts / Polars plugins
 
-*   [polars\_sim (⭐4)](https://github.com/schemaitat/polars_sim) - Polars plugin that implements fast approximate joins on string columns for polars dataframes by [@schemaitat](https://github.com/schemaitat).
+*   [polars\_sim (⭐11)](https://github.com/schemaitat/polars_sim) - Polars plugin that implements fast approximate joins on string columns for polars dataframes by [@schemaitat](https://github.com/schemaitat).
 
 ### Resources / Talks and videos
 
 *   [Polars and time series | PyData 2024](https://www.youtube.com/watch?v=qz-zAHBz6Ks) ⏳ 29 min - A video that shows how to use Polars effectively for time series analysis iby [@MarcoGorelli](https://github.com/MarcoGorelli).
 
-## [26. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
-
-### Libraries/Frameworks / Graphics
-
-*   [GlimpseFramework/glimpse-framework (⭐16)](https://github.com/GlimpseFramework/glimpse-framework) - OpenGL made simple.
-
-### Libraries/Frameworks / Data Science
-
-*   [sekwiatkowski/Komputation (⭐293)](https://github.com/sekwiatkowski/Komputation) - A neural network framework written in Kotlin.
-
-### Libraries/Frameworks / Logging
-
-*   [Foso/Cabret-Log (⭐195)](https://github.com/Foso/Cabret-Log) - Method call logging for Kotlin Multiplatform
-
-### Libraries/Frameworks / Mail
-
-*   [bluefireoly/SimpleKotlinMail (⭐66)](https://github.com/bluefireoly/SimpleKotlinMail) - A simple, modern and coroutine based Kotlin Email API, supporting both clientside and serverside projects.
-
-### Projects / Web
-
-*   [mariomac/codebuilder (⭐6)](https://github.com/mariomac/codebuilder) - Demo app about asynchronous architectures for long-response-time web applications.
-
-### Projects / Build tools
-
-*   [gradle/kotlin-dsl-samples (⭐3.7k)](https://github.com/gradle/kotlin-dsl-samples) - Kotlin language support for Gradle build scripts.
-*   [nebula-plugins/nebula-kotlin-plugin (⭐57)](https://github.com/nebula-plugins/nebula-kotlin-plugin) - Provides the Kotlin plugin via the Gradle plugin portal, automatically depends on the standard library, and allows Kotlin library versions to be omitted.
-
-### Projects / Misc
-
-*   [kpspemu/kpspemu (⭐72)](https://github.com/kpspemu/kpspemu) - Multiplatform (JS and JVM) PSP Emulator written in Kotlin.
-*   [chrislo27/RhythmHeavenRemixEditor (⭐435)](https://github.com/chrislo27/RhythmHeavenRemixEditor) - An audio custom remix editor designed for the Rhythm Heaven series, using libGDX and Kotlin.
-
-### Projects / Desktop
-
-*   [yschimke/okurl (⭐124)](https://github.com/yschimke/okurl) - cURL-like client based on OkHttp.
-*   [hazae41/Kotlin-Compiler-GUI (⭐1)](https://github.com/hazae41/Kotlin-Compiler-GUI) - Easily compile Kotlin classes (.kt) and run Kotlin scripts (.kts)
-
-### Projects / Examples
-
-*   [Kotlin/kotlin-koans (⭐2.6k)](https://github.com/Kotlin/kotlin-koans) - Kotlin Koans are a series of exercises to get you familiar with the Kotlin Syntax.
-*   [JetBrains/kotlin-examples (⭐3.2k)](https://github.com/JetBrains/kotlin-examples) - Various examples for Kotlin.
-
-### Projects / Android
-
-*   [skydoves/githubfollows (⭐294)](https://github.com/skydoves/githubfollows) - A demo project based on MVVM architecture and material design & animations.
-
-### Android / Libraries
-
-*   [JakeWharton/kotterknife (⭐2.2k)](https://github.com/JakeWharton/kotterknife)
-*   [nsk-mironov/kotlin-jetpack (⭐184)](https://github.com/nsk-mironov/kotlin-jetpack)
-*   [ragunathjawahar/kaffeine (⭐154)](https://github.com/ragunathjawahar/kaffeine)
-*   [GlimpseFramework/glimpse-framework-android (⭐5)](https://github.com/GlimpseFramework/glimpse-framework-android) - OpenGL made simple.
-*   [calintat/alps (⭐4)](https://github.com/calintat/alps) - Android library for preferences which includes property delegates and a custom DSL for definining preferences.
-*   [Jintin/MixAdapter (⭐19)](https://github.com/Jintin/MixAdapter) - Compose multiple Adapter for RecyclerView in Android.
-
-### Android / Projects
-
-*   [hanjoongcho/aaf-easyphotomap (⭐41)](https://github.com/hanjoongcho/aaf-easyphotomap) - This is a photomap app that shows photos taken on a map.
-*   [mustafaberkaymutlu/uv-index (⭐67)](https://github.com/mustafaberkaymutlu/uv-index) - A simple ultraviolet index viewer app for demonstrating Instant Apps + Kotlin + Dagger + MVP
-*   [hanjoongcho/aaf-easypassword (⭐35)](https://github.com/hanjoongcho/aaf-easypassword) - A password manager using a single lock pattern for various type passwords management.
-*   [AnkitSuda/Rebound (⭐180)](https://github.com/AnkitSuda/Rebound) - Feature Rich & Highly Customizable Workout Log App.
-
-### Android / Extensions
-
-*   [rosariopfernandes/fireXtensions (⭐29)](https://github.com/rosariopfernandes/fireXtensions) - Unofficial Kotlin Extensions for the Firebase Android SDK.
+## [25. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Android / Tools
 
-*   [jzbrooks/vgo (⭐39)](https://github.com/jzbrooks/vgo) - vgo is a tool for optimizing and converting between vector artwork representations.
+*   [jzbrooks/vgo (⭐46)](https://github.com/jzbrooks/vgo) - vgo is a tool for optimizing and converting between vector artwork representations.
 
-### Kotlin JavaScript / JavaScript
-
-*   [pixijs/pixi-native (⭐87)](https://github.com/pixijs/pixi-native) - The aim of this project is to provide a fast lightweight 2D library that works across all devices.
-*   [Kotlin/kotlin-fullstack-sample (⭐1.2k)](https://github.com/Kotlin/kotlin-fullstack-sample) - Kotlin Full-stack Application Example.
-*   [Foso/MpApt (⭐237)](https://github.com/Foso/MpApt) - Kotlin Native/JS/JVM Annotation Processor library
-
-### Kotlin JavaScript / Build Tools
-
-*   [Kotlin/kotlin-frontend-plugin (⭐562)](https://github.com/Kotlin/kotlin-frontend-plugin) - Gradle Kotlin plugin for frontend development.
-
-### Kotlin JavaScript / Integration
-
-*   [kotlin/ts2kt (⭐316)](https://github.com/kotlin/ts2kt) - Converter of TypeScript definition files to Kotlin declarations (stubs).
-
-### Kotlin Native / Projects
-
-*   [JetBrains/kotlin-native (⭐7k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
-
-## [27. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [26. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / React
 
-*   [vite-amplify (⭐3)](https://github.com/bebeal/vite-amplify) - Template with SSR + Express APIs + AWS Amplify Hosting.
+*   [vite-amplify (⭐6)](https://github.com/bebeal/vite-amplify) - Template with SSR + Express APIs + AWS Amplify Hosting.
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [vite-plugin-dynamic-chunk (⭐0)](https://github.com/MrQinYQ/vite-plugin-dynamic-chunk) - Split dependencies between entry and dynamic entry, and merge small chunks.
+*   [vite-plugin-dynamic-chunk (⭐10)](https://github.com/MrQinYQ/vite-plugin-dynamic-chunk) - Split dependencies between entry and dynamic entry, and merge small chunks.
 
 ### Framework-agnostic Plugins / Helpers
 
@@ -476,15 +296,15 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ### React / Routing
 
-*   [vite-plugin-remix-flat-routes (⭐1)](https://github.com/hemengke1997/vite-plugin-remix-flat-routes) - Remix-flat-routes convention-based routing, compatible with react-router data-api routing.
+*   [vite-plugin-remix-flat-routes (⭐3)](https://github.com/hemengke1997/vite-plugin-remix-flat-routes) - Remix-flat-routes convention-based routing, compatible with react-router data-api routing.
 
-## [28. Awesome V](/content/vlang/awesome-v/week/README.md)
+## [27. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Web
 
-*   [Tiniest Veb Server (⭐9)](https://github.com/davlgd/tVeb) - A < 1MB static hosting web server written in V, based on `veb`. 🍃
+*   [Tiniest Veb Server (⭐13)](https://github.com/davlgd/tVeb) - A < 1MB static hosting web server written in V, based on `veb`. 🍃
 
-## [29. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [28. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### Community
 
@@ -494,7 +314,7 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ### Agency Tools
 
-*   [Next Train API (⭐3)](https://github.com/data-creative/next-train-api) - Serves any GTFS feed as a JSON API. Transit agencies and developers alike can deploy the open source code to their own Heroku server.
+*   [Next Train API (⭐4)](https://github.com/data-creative/next-train-api) - Serves any GTFS feed as a JSON API. Transit agencies and developers alike can deploy the open source code to their own Heroku server.
 *   [TransAM](\[http://camsys.software/products/transam]\(https://github.com/camsys/transam_core\)) - An open-source asset management platform for public transportation agencies.
 
 ### Web Apps (open source)
@@ -507,7 +327,7 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ### Native Apps (open source)
 
-*   [Next Train - Connecticut (⭐1)](https://github.com/data-creative/NextTrainCT) - A React-native mobile app for searching train schedules published by the Shore Line East transit agency in Connecticut. Relies on a deployment of the [Next Train API (⭐3)](https://github.com/data-creative/next-train-api).
+*   [Next Train - Connecticut (⭐1)](https://github.com/data-creative/NextTrainCT) - A React-native mobile app for searching train schedules published by the Shore Line East transit agency in Connecticut. Relies on a deployment of the [Next Train API (⭐4)](https://github.com/data-creative/next-train-api).
 
 ### GTFS Based Visualizations
 
@@ -527,52 +347,66 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 *   [APDS](https://www.allianceforparkingdatastandards.org/) - Alliance for Parking Data Standards: formed by the [International Parking Institute (IPI)](https://www.parking.org/), the [British Parking Association (BPA)](http://www.britishparking.co.uk/), and the [European Parking Association (EPA)](http://www.europeanparking.eu/). APDS is a not-for-profit organization with the mission to develop, promote, manage, and maintain a uniform global standard that will allow organizations to share parking data across platforms worldwide.
 *   [DATEX](https://datex2.eu/) - EU data standard for road traffic and travel information.
 *   [GBFS](https://gbfs.org/) - General Bikeshare Feed Specification: open data standard for real-time information about bikeshare, scootershare, mopedshare, and carshare.
-    *   [gbfs R package (⭐37)](https://github.com/simonpcouch/gbfs) - Functions to interface with GBFS feeds in R, allowing users to save and accumulate tidy .rds datasets for specified cities/bikeshare programs.
-*   [MDS (⭐684)](https://github.com/openmobilityfoundation/mobility-data-specification) - Mobility Data Specification: A format to implement realtime data sharing, measurement and regulation for municipalities and mobility as a service providers. It is meant to ensure that governments have the ability to enforce, evaluate and manage providers. Maintained by the [Open Mobility Foundation](https://www.openmobilityfoundation.org/).
+    *   [gbfs R package (⭐38)](https://github.com/simonpcouch/gbfs) - Functions to interface with GBFS feeds in R, allowing users to save and accumulate tidy .rds datasets for specified cities/bikeshare programs.
+*   [MDS (⭐693)](https://github.com/openmobilityfoundation/mobility-data-specification) - Mobility Data Specification: A format to implement realtime data sharing, measurement and regulation for municipalities and mobility as a service providers. It is meant to ensure that governments have the ability to enforce, evaluate and manage providers. Maintained by the [Open Mobility Foundation](https://www.openmobilityfoundation.org/).
 *   [TODS](https://ods.calitp.org/) - Transit Operational Data Standard: standard format for representing transit schedules used by drivers, dispatchers, and planners to carry out transit operations.
-*   [TOMP (⭐96)](https://github.com/TOMP-WG/TOMP-API) - Transport Operator Mobility-as-a-service Provider API: API standard for use by transport operators and mobility-as-a-service providers for operator discovery, trip planning, end user interaction, booking, and payment.
+*   [TOMP (⭐100)](https://github.com/TOMP-WG/TOMP-API) - Transport Operator Mobility-as-a-service Provider API: API standard for use by transport operators and mobility-as-a-service providers for operator discovery, trip planning, end user interaction, booking, and payment.
 
 ### Pilot or development stage / Ruby
 
-*   [GMNS (⭐107)](https://github.com/zephyr-data-specs/GMNS) - General Modeling Network Specification: A format for sharing routable road network files designed to be used in multi-modal static and dynamic transportation planning and operations models. Volpe/FHWA partnership with Zephyr Foundation.
+*   [GMNS (⭐116)](https://github.com/zephyr-data-specs/GMNS) - General Modeling Network Specification: A format for sharing routable road network files designed to be used in multi-modal static and dynamic transportation planning and operations models. Volpe/FHWA partnership with Zephyr Foundation.
 *   [GTNS](https://zephyrtransport.org/trb17projects/7-general-travel-network-specification/) - General Travel Network Specification: A planned data specification for sharing travel demand model networks.
 *   [IXSI (⭐2)](https://github.com/RWTH-i5-IDSG/ixsi) -  interface for exchanging information between a travel information system and a sharing system (carshare, bikeshare).
 *   [MTLFS (⭐9)](https://github.com/vta/Managed-and-Tolled-Lanes-Feed-Specification) - Managed and Tolled Lanes Feed Specification: Proposal for a schema that comprise the Managed and Tolled Lanes Tolling Feed Specification (MTLFS) and defines the fields used in all of those files developed by [Santa Clara Valley Transportation Authority](http://www.vta.org/).
-*   [MaaS API (⭐16)](https://github.com/maasglobal/maas-tsp-api/blob/master/specs/Booking.md) - A set of open documents and test suite that defines a MaaS-compatible API.
-*   [OJP (⭐22)](https://github.com/VDVde/OJP) - Open Journey Planner.
-*   [OSDM (⭐56)](https://github.com/UnionInternationalCheminsdeFer/OSDM) - Open Sales and Distribution Model: Aims to substantially simplify the booking process for customers of rail trips and to lower complexity and distribution costs for distributors and railway carriers. Contains a specification of an offline model and on-line API. Maintained by the [International Union of Railways (UIC)](https://github.com/UnionInternationalCheminsdeFer).
-*   [TIDES (⭐25)](https://github.com/TIDES-transit/TIDES) -  Transit ITS Data Exchange Specification (TIDES) is a proposed effort to create standard data structures, APIs, and data management tools for historical transit ITS data including AVL, APC and AFC Data.
+*   [MaaS API (⭐17)](https://github.com/maasglobal/maas-tsp-api/blob/master/specs/Booking.md) - A set of open documents and test suite that defines a MaaS-compatible API.
+*   [OJP (⭐25)](https://github.com/VDVde/OJP) - Open Journey Planner.
+*   [OSDM (⭐65)](https://github.com/UnionInternationalCheminsdeFer/OSDM) - Open Sales and Distribution Model: Aims to substantially simplify the booking process for customers of rail trips and to lower complexity and distribution costs for distributors and railway carriers. Contains a specification of an offline model and on-line API. Maintained by the [International Union of Railways (UIC)](https://github.com/UnionInternationalCheminsdeFer).
+*   [TIDES (⭐36)](https://github.com/TIDES-transit/TIDES) -  Transit ITS Data Exchange Specification (TIDES) is a proposed effort to create standard data structures, APIs, and data management tools for historical transit ITS data including AVL, APC and AFC Data.
 
 ### Academic papers / Ruby
 
 *   [Kay et al. - "When(ish) is my bus? User-centered Visualizations of Uncertainty in Everyday, Mobile Predictive Systems"](https://www.mjskay.com/papers/chi_2016_uncertain_bus.pdf) - Paper attempts to answr the question of "how do we communicate uncertainty in transit predictions?" Explains the problem, existing solutions and designs a [better interface for letting users know when to arrive at the bus stop (⭐45)](https://github.com/mjskay/when-ish-is-my-bus/blob/master/quantile-dotplots.md#quantile-dotplots).
 
-## [30. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [29. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+
+### Design and UI
+
+*   [Flyon UI](https://flyonui.com/)- The Easiest Components Library For Tailwind CSS.
 
 ### APIs, Data, and ML
 
 *   [JSONing](https://jsoning.com/api/) — Create a fake REST API from a JSON object, and customize HTTP status codes, headers, and response bodies.
 
-## [31. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [30. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [bws (⭐0)](https://github.com/elogiclab/zsh-bws) - Simplify and improve the retrieval of secrets from the [Bitwarden](https://bitwarden.com) Secret Manager.
-*   [git-arc (⭐0)](https://github.com/jlduran/git-arc-oh-my-zsh-plugin) - Adds aliases and functions for [git-arc (⭐7.8k)](https://github.com/freebsd/freebsd-src/tree/main/tools/tools/git), a FreeBSD development tool.
+*   [git-arc (⭐0)](https://github.com/jlduran/git-arc-oh-my-zsh-plugin) - Adds aliases and functions for [git-arc (⭐8.1k)](https://github.com/freebsd/freebsd-src/tree/main/tools/tools/git), a FreeBSD development tool.
+
+## [31. Awesome Windows](/content/0pandadev/awesome-windows/week/README.md)
+
+### Productivity
+
+*   [Timelens](https://timlens.wireway.ch) - Cross-platform time tracking software. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/0pandadev/timelens)
+
+### Terminal
+
+*   [Hyper](https://hyper.is) - Terminal built on web technologies. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/vercel/hyper) ![star](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/star.svg)
 
 ## [32. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Community Extensions
 
-*   [Organizations for Keycloak by Phase Two (⭐402)](https://github.com/p2-inc/keycloak-orgs)
-*   [Admin Portal for User and Organization management by Phase Two (⭐19)](https://github.com/p2-inc/phasetwo-admin-portal)
-*   [MagicLink Authenticator by Phase Two (⭐223)](https://github.com/p2-inc/keycloak-magic-link)
+*   [Organizations for Keycloak by Phase Two (⭐431)](https://github.com/p2-inc/keycloak-orgs)
+*   [Admin Portal for User and Organization management by Phase Two (⭐20)](https://github.com/p2-inc/phasetwo-admin-portal)
+*   [MagicLink Authenticator by Phase Two (⭐261)](https://github.com/p2-inc/keycloak-magic-link)
 
 ### Themes
 
-*   [Phase Two: Keycloak login theme template (⭐38)](https://github.com/p2-inc/keycloak-theme-template)
-*   [Phase Two: Extension for runtime loading of CSS themes (⭐29)](https://github.com/p2-inc/keycloak-themes)
-*   [Phase Two: 3 CSS-only Keycloak theme examples (⭐29)](https://github.com/p2-inc/keycloak-themes/tree/main/examples)
+*   [Phase Two: Keycloak login theme template (⭐41)](https://github.com/p2-inc/keycloak-theme-template)
+*   [Phase Two: Extension for runtime loading of CSS themes (⭐32)](https://github.com/p2-inc/keycloak-themes)
+*   [Phase Two: 3 CSS-only Keycloak theme examples (⭐32)](https://github.com/p2-inc/keycloak-themes/tree/main/examples)
 
 ### Commercial Offerings
 
@@ -582,96 +416,88 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ### Image Processing
 
-*   [QOI (⭐6.9k)](https://github.com/phoboslab/qoi) - The “Quite OK Image Format” for fast, lossless image compression. \[MIT]
+*   [QOI (⭐7k)](https://github.com/phoboslab/qoi) - The “Quite OK Image Format” for fast, lossless image compression. \[MIT]
 
 ### Miscellaneous
 
-*   [MPH (⭐164)](https://github.com/qlibs/mph) - C++20 \[Minimal] Static Perfect Hash library. \[MIT]
+*   [MPH (⭐185)](https://github.com/qlibs/mph) - C++20 \[Minimal] Static Perfect Hash library. \[MIT]
 
 ## [34. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Project Layout
 
-*   [goxygen (⭐3.5k)](https://github.com/shpota/goxygen) - Generate a modern Web project with Go and Angular, React, or Vue in seconds.
+*   [goxygen (⭐3.6k)](https://github.com/shpota/goxygen) - Generate a modern Web project with Go and Angular, React, or Vue in seconds.
 
 ### Performance
 
-*   [mm-go (⭐143)](https://github.com/joetifa2003/mm-go) - Generic manual memory management for golang.
+*   [mm-go (⭐157)](https://github.com/joetifa2003/mm-go) - Generic manual memory management for golang.
 
 ### Reflection
 
-*   [go-deepcopy (⭐20)](https://github.com/tiendc/go-deepcopy) - Fast deep copy library.
+*   [go-deepcopy (⭐38)](https://github.com/tiendc/go-deepcopy) - Fast deep copy library.
 
 ### Utilities
 
-*   [json-log-viewer (⭐85)](https://github.com/hedhyw/json-log-viewer) - Interactive viewer for JSON logs.
+*   [json-log-viewer (⭐132)](https://github.com/hedhyw/json-log-viewer) - Interactive viewer for JSON logs.
 
 ## [35. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
-### UI Libraries, Components & Templates
-
-*   📚🧩[Flyon UI](https://flyonui.com/) - Open-source components library for Tailwind CSS.
-
 ### Plugins
 
-*   🧬 [Quantity Queries (⭐0)](https://github.com/skttl/tailwindcss-quantity-queries) - Adds variants for using quantity queries.
+*   🧬 [Quantity Queries (⭐11)](https://github.com/skttl/tailwindcss-quantity-queries) - Adds variants for using quantity queries.
 
 ## [36. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Database
 
-*   [valentinus (⭐6)](https://github.com/kn0sys/valentinus) - Next generation vector database built with LMDB bindings [![Crates.io Version](https://img.shields.io/crates/v/valentinus)](https://crates.io/crates/valentinus)
+*   [valentinus (⭐11)](https://github.com/kn0sys/valentinus) - Next generation vector database built with LMDB bindings [![Crates.io Version](https://img.shields.io/crates/v/valentinus)](https://crates.io/crates/valentinus)
 
 ### Applications / Games
 
-*   [zipxing/rust\_pixel (⭐104)](https://github.com/zipxing/rust_pixel) \[[rust\_pixel](https://crates.io/crates/rust_pixel)] - A 2D pixel art game engine & rapid prototyping tools, supporting both text and graphical rendering modes.
+*   [zipxing/rust\_pixel (⭐155)](https://github.com/zipxing/rust_pixel) \[[rust\_pixel](https://crates.io/crates/rust_pixel)] - A 2D pixel art game engine & rapid prototyping tools, supporting both text and graphical rendering modes.
 
 ### Applications / System tools
 
-*   [ynqa/logu (⭐76)](https://github.com/ynqa/logu) - Extract patterns from (streaming) unstructured log messages [![ci](https://github.com/ynqa/logu/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/ynqa/logu/actions/workflows/ci.yml)
+*   [ynqa/logu (⭐87)](https://github.com/ynqa/logu) - Extract patterns from (streaming) unstructured log messages [![ci](https://github.com/ynqa/logu/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/ynqa/logu/actions/workflows/ci.yml)
 
 ### Applications / Utilities
 
-*   [sorairolake/qrtool (⭐128)](https://github.com/sorairolake/qrtool) \[[qrtool](https://crates.io/crates/qrtool)] - A utility for encoding and decoding QR code images. [![CI](https://github.com/sorairolake/qrtool/workflows/CI/badge.svg?branch=develop)](https://github.com/sorairolake/qrtool/actions?query=workflow%3ACI)
+*   [sorairolake/qrtool (⭐164)](https://github.com/sorairolake/qrtool) \[[qrtool](https://crates.io/crates/qrtool)] - A utility for encoding and decoding QR code images. [![CI](https://github.com/sorairolake/qrtool/workflows/CI/badge.svg?branch=develop)](https://github.com/sorairolake/qrtool/actions?query=workflow%3ACI)
 
 ### Libraries / Cryptography
 
-*   [sorairolake/abcrypt (⭐12)](https://github.com/sorairolake/abcrypt) \[[abcrypt](https://crates.io/crates/abcrypt)] - A simple, modern and secure file encryption library. [![CI](https://github.com/sorairolake/abcrypt/workflows/CI/badge.svg?branch=develop)](https://github.com/sorairolake/abcrypt/actions?query=workflow%3ACI)
-*   [sorairolake/scryptenc-rs (⭐1)](https://github.com/sorairolake/scryptenc-rs) \[[scryptenc](https://crates.io/crates/scryptenc)] - An implementation of the scrypt encrypted data format. [![CI](https://github.com/sorairolake/scryptenc-rs/workflows/CI/badge.svg?branch=develop)](https://github.com/sorairolake/scryptenc-rs/actions?query=workflow%3ACI)
+*   [sorairolake/abcrypt (⭐16)](https://github.com/sorairolake/abcrypt) \[[abcrypt](https://crates.io/crates/abcrypt)] - A simple, modern and secure file encryption library. [![CI](https://github.com/sorairolake/abcrypt/workflows/CI/badge.svg?branch=develop)](https://github.com/sorairolake/abcrypt/actions?query=workflow%3ACI)
+*   [sorairolake/scryptenc-rs (⭐4)](https://github.com/sorairolake/scryptenc-rs) \[[scryptenc](https://crates.io/crates/scryptenc)] - An implementation of the scrypt encrypted data format. [![CI](https://github.com/sorairolake/scryptenc-rs/workflows/CI/badge.svg?branch=develop)](https://github.com/sorairolake/scryptenc-rs/actions?query=workflow%3ACI)
 
 ### Libraries / Date and time
 
-*   [sorairolake/nt-time (⭐5)](https://github.com/sorairolake/nt-time) \[[nt-time](https://crates.io/crates/nt-time)] - A Windows file time library. [![CI](https://github.com/sorairolake/nt-time/workflows/CI/badge.svg?branch=develop)](https://github.com/sorairolake/nt-time/actions?query=workflow%3ACI)
-
-### Libraries / Finance
-
-*   [dancixx/stochastic-rs (⭐12)](https://github.com/dancixx/stochastic-rs) \[[stochastic-rs](https://crates.io/crates/stochastic-rs)] - High-performance data generation library for stochastic process with quant finance tools. ![GitHub Workflow Status](https://github.com/dancixx/stochastic-rs/actions/workflows/rust.yml/badge.svg)
+*   [sorairolake/nt-time (⭐8)](https://github.com/sorairolake/nt-time) \[[nt-time](https://crates.io/crates/nt-time)] - A Windows file time library. [![CI](https://github.com/sorairolake/nt-time/workflows/CI/badge.svg?branch=develop)](https://github.com/sorairolake/nt-time/actions?query=workflow%3ACI)
 
 ### Libraries / System
 
-*   [sorairolake/sysexits-rs (⭐22)](https://github.com/sorairolake/sysexits-rs) \[[sysexits](https://crates.io/crates/sysexits)] - The system exit codes as defined by [`<sysexits.h>`](https://manpages.ubuntu.com/manpages/lunar/man3/sysexits.h.3head.html). [![CI](https://github.com/sorairolake/sysexits-rs/workflows/CI/badge.svg?branch=develop)](https://github.com/sorairolake/sysexits-rs/actions?query=workflow%3ACI)
+*   [sorairolake/sysexits-rs (⭐23)](https://github.com/sorairolake/sysexits-rs) \[[sysexits](https://crates.io/crates/sysexits)] - The system exit codes as defined by [`<sysexits.h>`](https://manpages.ubuntu.com/manpages/lunar/man3/sysexits.h.3head.html). [![CI](https://github.com/sorairolake/sysexits-rs/workflows/CI/badge.svg?branch=develop)](https://github.com/sorairolake/sysexits-rs/actions?query=workflow%3ACI)
 
 ## [37. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Algorithms and Data structures
 
-*   [OneOf (⭐3.4k)](https://github.com/mcintyre321/OneOf) - OneOf provides discriminated unions for C# with exhaustive compile time matching.
+*   [OneOf (⭐3.6k)](https://github.com/mcintyre321/OneOf) - OneOf provides discriminated unions for C# with exhaustive compile time matching.
 
 ### Compilers, Transpilers and Languages
 
-*   [dotnet-repl (⭐721)](https://github.com/jonsequitur/dotnet-repl) - C# REPL (read-eval-print loop)
+*   [dotnet-repl (⭐753)](https://github.com/jonsequitur/dotnet-repl) - C# REPL (read-eval-print loop)
 
 ### ORM
 
-*   [DapperQueryBuilder (⭐512)](https://github.com/Drizin/DapperQueryBuilder) - Dapper Query Builder using String Interpolation and Fluent API
+*   [DapperQueryBuilder (⭐525)](https://github.com/Drizin/DapperQueryBuilder) - Dapper Query Builder using String Interpolation and Fluent API
 
 ### Query Builders
 
-*   [InterpolatedSql (⭐108)](https://github.com/Drizin/InterpolatedSql) - SQL Builder using String Interpolation and Fluent API
+*   [InterpolatedSql (⭐223)](https://github.com/Drizin/InterpolatedSql) - SQL Builder using String Interpolation and Fluent API
 
 ### Source Generator
 
-*   [CodegenCS (⭐248)](https://github.com/Drizin/CodegenCS) - Code Generation Toolkit where templates are written using plain C#. Command-line tool, MSBuild task, Visual Studio Extension, and Roslyn Source Generator.
+*   [CodegenCS (⭐268)](https://github.com/Drizin/CodegenCS) - Code Generation Toolkit where templates are written using plain C#. Command-line tool, MSBuild task, Visual Studio Extension, and Roslyn Source Generator.
 
 ## [38. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
@@ -696,7 +522,7 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ### Autonomous LLM Agents / Prompt Engineering for Text-to-image
 
-*   [NirDiamant/GenAI\_Agents (⭐2.5k)](https://github.com/NirDiamant/GenAI_Agents): tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.
+*   [NirDiamant/GenAI\_Agents (⭐5.6k)](https://github.com/NirDiamant/GenAI_Agents): tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.
 
 ### Podcast generators / Deforum
 
@@ -705,15 +531,14 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ## [39. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
-### Services / Misc
-
-*   [Heybounce](https://www.heybounce.io) - Email verification service that checks if an email exists and detects disposable emails.
-*   [Resend](https://resend.com/) - Build, test, and send transactional emails at scale.
-*   [ForwardMX](https://forwardmx.net) - Premium email forwarding for your domain name.
-
 ### Frameworks / React
 
 *   [JSX-email](https://jsx.email/) - JSX Mail is an email framework that uses React to create email templates.
+
+### Services / Misc
+
+*   [Resend](https://resend.com/) - Build, test, and send transactional emails at scale.
+*   [ForwardMX](https://forwardmx.net) - Premium email forwarding for your domain name.
 
 ### Self-Hosted Services / Misc
 
@@ -735,7 +560,7 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ### Exercises / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [angular-exercises (⭐1)](https://github.com/kobi-hari-courses/angular-exercises) - Exercises on various Angular topics, including solutions and solution videos.
+*   [angular-exercises (⭐2)](https://github.com/kobi-hari-courses/angular-exercises) - Exercises on various Angular topics, including solutions and solution videos.
 
 ### YouTube Channels / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -743,15 +568,15 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ### Developer tools / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [detective (⭐53)](https://github.com/angular-architects/detective) - Detective leverages forensic code analysis at the architectural level to uncover hidden patterns in your codebase.
+*   [detective (⭐94)](https://github.com/angular-architects/detective) - Detective leverages forensic code analysis at the architectural level to uncover hidden patterns in your codebase.
 
 ### Integrations / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-fabric-wrapper (⭐21)](https://github.com/zefoy/ngx-fabric-wrapper) - Angular wrapper library for [Fabric](http://fabricjs.com/).
+*   [ngx-fabric-wrapper (⭐24)](https://github.com/zefoy/ngx-fabric-wrapper) - Angular wrapper library for [Fabric](http://fabricjs.com/).
 *   [ngx-three-globe (⭐0)](https://github.com/omnedia/ngx-three-globe) - An Angular library that provides an interactive, 3D globe visualization built using [Three.js](https://threejs.org).
-*   [vike-angular (⭐9)](https://github.com/vikejs/vike-angular) - Angular integration for [Vike (⭐4.2k)](https://github.com/vikejs/vike), a fast Vite-based frontend framework.
-*   [stream-chat-angular (⭐52)](https://github.com/GetStream/stream-chat-angular) - Angular Chat SDK ➜ Stream Chat. Build a chat app with ease.
-*   [gong (⭐12)](https://github.com/fullstack-lang/gong) - Gong (go + ng) is a framework for full stack development based on Go and Angular. The Go back-end uses gin, gorm, and sqlite (a pure go sqlite, no cgo needed). The Angular front-end uses Angular Material.
+*   [vike-angular (⭐9)](https://github.com/vikejs/vike-angular) - Angular integration for [Vike (⭐4.6k)](https://github.com/vikejs/vike), a fast Vite-based frontend framework.
+*   [stream-chat-angular (⭐56)](https://github.com/GetStream/stream-chat-angular) - Angular Chat SDK ➜ Stream Chat. Build a chat app with ease.
+*   [gong (⭐14)](https://github.com/fullstack-lang/gong) - Gong (go + ng) is a framework for full stack development based on Go and Angular. The Go back-end uses gin, gorm, and sqlite (a pure go sqlite, no cgo needed). The Angular front-end uses Angular Material.
 
 ### Server-Side Rendering / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -759,7 +584,7 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ### Animations / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-number-ticker (⭐1)](https://github.com/omnedia/ngx-number-ticker) - A simple number ticker effect to animate counting.
+*   [ngx-number-ticker (⭐2)](https://github.com/omnedia/ngx-number-ticker) - A simple number ticker effect to animate counting.
 *   [ngx-word-rotation (⭐0)](https://github.com/omnedia/ngx-word-rotation) - An Angular library designed to facilitate word rotation animations within Angular applications.
 *   [ngx-word-morph (⭐4)](https://github.com/omnedia/ngx-word-morph) - An Angular library designed to facilitate word morphing animations within Angular applications.
 *   [ngx-cryptic-text (⭐0)](https://github.com/omnedia/ngx-cryptic-text) - An Angular library that provides a cryptic text animation effect. The component animates text by randomly switching letters until the correct characters appear.
@@ -767,25 +592,25 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 *   [ngx-typewriter (⭐2)](https://github.com/omnedia/ngx-typewriter) - A lightweight and easy-to-use library for creating typewriter effects. It uses RxJS to manage the typewriting effect, ensuring smooth and customizable animations.
 *   [ngx-gradient-text (⭐0)](https://github.com/omnedia/ngx-gradient-text) - An Angular library that provides a dynamic gradient animation effect for text. This component allows you to display text with a smooth, animated gradient that transitions between two customizable colors.
 *   [ngx-shiny-text (⭐0)](https://github.com/omnedia/ngx-shiny-text) - An Angular library that provides a shimmering text animation effect.
-*   [ngx-ripple (⭐1)](https://github.com/omnedia/ngx-ripple) - This component creates an expanding ripple effect with customizable color, border, and animation duration. Perfect for adding an interactive and engaging effect to backgrounds or containers in your application.
-*   [ngx-shine-border (⭐1)](https://github.com/omnedia/ngx-shine-border) - An Angular library that provides a dynamic and customizable animated border effect for Angular components.
+*   [ngx-ripple (⭐2)](https://github.com/omnedia/ngx-ripple) - This component creates an expanding ripple effect with customizable color, border, and animation duration. Perfect for adding an interactive and engaging effect to backgrounds or containers in your application.
+*   [ngx-shine-border (⭐2)](https://github.com/omnedia/ngx-shine-border) - An Angular library that provides a dynamic and customizable animated border effect for Angular components.
 *   [ngx-border-beam (⭐1)](https://github.com/omnedia/ngx-border-beam) - This component allows you to create a glowing, animated border that can be customized in terms of colors, border radius, and animation duration.
 *   [ngx-dotpattern (⭐0)](https://github.com/omnedia/ngx-dotpattern) - An Angular library that provides a customizable dot pattern background effect for your Angular components.
-*   [ngx-meteors (⭐0)](https://github.com/omnedia/ngx-meteors) - An Angular library that adds a mesmerizing meteor shower animation effect to your components.
+*   [ngx-meteors (⭐1)](https://github.com/omnedia/ngx-meteors) - An Angular library that adds a mesmerizing meteor shower animation effect to your components.
 *   [ngx-background-beams (⭐0)](https://github.com/omnedia/ngx-background-beams) - An Angular component that generates dynamic animated background beams with customizable gradients and motion paths.
 *   [ngx-aurora (⭐6)](https://github.com/omnedia/ngx-aurora) - An Angular library that creates a mesmerizing aurora background effect. This component provides an animated, gradient-based light effect with customizable inversion and two different animation styles.
 *   [ngx-particles (⭐0)](https://github.com/omnedia/ngx-particles) - An Angular library that provides a dynamic and interactive particle animation effect. The particles react to mouse movements, creating a visually engaging and customizable background for your Angular components.
 *   [ngx-spotlight (⭐0)](https://github.com/omnedia/ngx-spotlight) - An Angular library that creates a spotlight effect using SVG animations. The component highlights sections of your page when they enter the viewport, with customizable spotlight colors and optional animations.
 *   [ngx-starry-sky (⭐0)](https://github.com/omnedia/ngx-starry-sky) - An Angular library that creates a beautiful starry sky background with optional shooting star effects.
-*   [ngx-connection-beam (⭐3)](https://github.com/omnedia/ngx-connection-beam) - An Angular component that dynamically renders animated connection lines between two elements.
+*   [ngx-connection-beam (⭐5)](https://github.com/omnedia/ngx-connection-beam) - An Angular component that dynamically renders animated connection lines between two elements.
 
 ### Carousels / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-stories (⭐15)](https://github.com/Gauravdarkslayer/ngx-stories) - An Angular component to render Instagram like stories.
+*   [ngx-stories (⭐18)](https://github.com/Gauravdarkslayer/ngx-stories) - An Angular component to render Instagram like stories.
 
 ### Dates / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-timeline (⭐0)](https://github.com/omnedia/ngx-timeline) - A simple component library to add an animated timeline view.
+*   [ngx-timeline (⭐1)](https://github.com/omnedia/ngx-timeline) - A simple component library to add an animated timeline view.
 
 ### DOM / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -793,7 +618,7 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ### Drag and Drop / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-swapy (⭐3)](https://github.com/omnedia/ngx-swapy) - A simple component library to get a drag and drop DOM through the help of [Swapy (⭐5.5k)](https://github.com/TahaSh/swapy).
+*   [ngx-swapy (⭐7)](https://github.com/omnedia/ngx-swapy) - A simple component library to get a drag and drop DOM through the help of [Swapy (⭐7.1k)](https://github.com/TahaSh/swapy).
 
 ### Editor Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -806,22 +631,22 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ### General / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-currency (⭐236)](https://github.com/nbfontana/ngx-currency) - Currency mask module for Angular.
+*   [ngx-currency (⭐239)](https://github.com/nbfontana/ngx-currency) - Currency mask module for Angular.
 
 ### Form Controls / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-otp-input (⭐24)](https://github.com/pkovzz/ngx-otp-input) - One time password input library for Angular.
+*   [ngx-otp-input (⭐26)](https://github.com/pkovzz/ngx-otp-input) - One time password input library for Angular.
 
 ### Layout Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ngx-flickering-grid (⭐0)](https://github.com/omnedia/ngx-flickering-grid) - A simple component library to create a container with an animated grid pattern background.
 *   [ngx-gridpattern (⭐3)](https://github.com/omnedia/ngx-gridpattern) - A simple component library to create a container with an pattern background.
 *   [ngx-retro-grid (⭐0)](https://github.com/omnedia/ngx-retro-grid) - This component creates a 3D perspective grid with customizable colors, rotation, and smooth animation, perfect for adding a nostalgic or futuristic visual effect to your application.
-*   [ngx-bottom-sheet (⭐2)](https://github.com/ArslanAmeer/ngx-bottom-sheet) - A highly customizable and lightweight Angular service that provides a mobile-friendly bottom sheet component.
+*   [ngx-bottom-sheet (⭐4)](https://github.com/ArslanAmeer/ngx-bottom-sheet) - A highly customizable and lightweight Angular service that provides a mobile-friendly bottom sheet component.
 
 ### Markdown / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-md (⭐265)](https://github.com/dimpu/ngx-md) - Angular directive for parsing markdown content in your web application.
+*   [ngx-md (⭐266)](https://github.com/dimpu/ngx-md) - Angular directive for parsing markdown content in your web application.
 
 ### Mixed utilities / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -836,11 +661,11 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ### Misc Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-gauge (⭐213)](https://github.com/ashish-chopra/ngx-gauge) - A highly customizable Gauge component for Angular apps and dashboards.
+*   [ngx-gauge (⭐216)](https://github.com/ashish-chopra/ngx-gauge) - A highly customizable Gauge component for Angular apps and dashboards.
 *   [ngx-neon-underline (⭐0)](https://github.com/omnedia/ngx-neon-underline) - An Angular library that provides a glowing neon underline effect for your components.
 *   [ngx-lamp (⭐0)](https://github.com/omnedia/ngx-lamp) - A simple component library to create a lamp.
 *   [ngx-globe (⭐1)](https://github.com/omnedia/ngx-globe) - A simple component library to create a container with an animated globe.
-*   [ngx-copypaste (⭐26)](https://github.com/JsDaddy/ngx-copypaste) - A pure and awesome copy paste directive for Angular.
+*   [ngx-copypaste (⭐28)](https://github.com/JsDaddy/ngx-copypaste) - A pure and awesome copy paste directive for Angular.
 
 ### RxJS / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -848,4 +673,5 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ---
 
+- Prev: [Oct 07 - Oct 13, 2024](/content/2024/41/README.md)
 - Next: [Sep 23 - Sep 29, 2024](/content/2024/39/README.md)

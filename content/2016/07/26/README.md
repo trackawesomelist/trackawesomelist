@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 26, 2016
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Resources
 
-*   [jQuery guide for teams (⭐30)](https://github.com/voorhoede/jquery-style-guide) - Tips to write consistent jQuery code, easy to use and understand by your team.
+*   [jQuery guide for teams (⭐32)](https://github.com/voorhoede/jquery-style-guide) - Tips to write consistent jQuery code, easy to use and understand by your team.
 
 ## [2. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/README.md)
 
@@ -44,7 +44,7 @@
 
 ### Styleguides
 
-*   [rrrene/elixir-style-guide (⭐400)](https://github.com/rrrene/elixir-style-guide) - Style guide checked by [Credo (⭐4.9k)](https://github.com/rrrene/credo).
+*   [rrrene/elixir-style-guide (⭐398)](https://github.com/rrrene/elixir-style-guide) - Style guide checked by [Credo (⭐5k)](https://github.com/rrrene/credo).
 
 ## [6. Awesome Web Design](/content/nicolesaidy/awesome-web-design/README.md)
 
@@ -52,13 +52,7 @@
 
 *   [RescueTime](https://www.rescuetime.com): Helps you understand your daily habits so you can focus and be more productive.
 
-## [7. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
-
-### Libraries / Python
-
-*   [minimongo (⭐333)](https://github.com/slacy/minimongo) - A lightweight, schemaless, Pythonic Object-Oriented interface
-
-## [8. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
+## [7. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
 
 ### Laravel
 
@@ -77,21 +71,21 @@
 
 
 
-## [9. Awesome Pyramid](/content/uralbash/awesome-pyramid/README.md)
+## [8. Awesome Pyramid](/content/uralbash/awesome-pyramid/README.md)
 
 ### Conferences
 
 *   [PloneConf 2016](https://2016.ploneconf.org/) - Boston Plone Digital Experience Conference (17\~23 Oct. 2016)
 
-## [10. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [9. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Game
 
-*   [UrhoSharp (⭐463)](https://github.com/xamarin/urho) - UrhoSharp is a C# implementation of the Urho3D game engine that runs on iOS, Mac, Windows, Android and Linux systems
+*   [UrhoSharp (⭐465)](https://github.com/xamarin/urho) - UrhoSharp is a C# implementation of the Urho3D game engine that runs on iOS, Mac, Windows, Android and Linux systems
 
 ### Internationalization
 
-*   [MessageFormat.NET (⭐158)](https://github.com/jeffijoe/MessageFormat.NET) - ICU MessageFormat implementation in .NET lets you write contextual UI messages (PCL library)
+*   [MessageFormat.NET (⭐163)](https://github.com/jeffijoe/MessageFormat.NET) - ICU MessageFormat implementation in .NET lets you write contextual UI messages (PCL library)
 
 ---
 

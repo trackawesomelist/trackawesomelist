@@ -18,7 +18,7 @@ Installs: 70000 | Stars: n/a | Last update: n/a
 
 ### Debugging
 
-*   🍰 [AssociationsDebugger plugin (⭐10)](https://github.com/zunnu/associations-debugger) - A plugin that draws your model associations as diagram.
+*   [AssociationsDebugger plugin (⭐11)](https://github.com/zunnu/associations-debugger) - A plugin that draws your model associations as diagram.
 
 ## [3. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
@@ -34,7 +34,7 @@ Installs: 70000 | Stars: n/a | Last update: n/a
 
 ### Other Development Tools / Wallets
 
-*   [use-wallet (⭐81)](https://github.com/txnlab/use-wallet) - React hooks for using Algorand compatible wallets with web applications. Developed by [txnlab](https://www.txnlab.dev/).
+*   [use-wallet (⭐83)](https://github.com/txnlab/use-wallet) - React hooks for using Algorand compatible wallets with web applications. Developed by [txnlab](https://www.txnlab.dev/).
 
 ## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -46,20 +46,20 @@ Installs: 70000 | Stars: n/a | Last update: n/a
 
 ### Software / Video Surveillance
 
-*   [Frigate](https://frigate.video/) - Monitor your security cameras with locally processed AI. ([Source Code (⭐17k)](https://github.com/blakeblackshear/frigate)) `MIT` `Docker/Python/Nodejs`
+*   [Frigate](https://frigate.video/) - Monitor your security cameras with locally processed AI. ([Source Code (⭐20k)](https://github.com/blakeblackshear/frigate)) `MIT` `Docker/Python/Nodejs`
 
 ## [7. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Game Development
 
-*   [littlektframework/littlekt (⭐309)](https://github.com/littlektframework/littlekt) - A Kotlin multiplatform 2D game development framework based on OpenGL that is inspired by libGDX and KorGE. Current platforms: JVM, Web, and Android.
+*   [littlektframework/littlekt (⭐331)](https://github.com/littlektframework/littlekt) - A Kotlin multiplatform 2D game development framework based on OpenGL that is inspired by libGDX and KorGE. Current platforms: JVM, Web, and Android.
 
 ### Projects / Examples
 
 *   [robfletcher/midcentury-ipsum (⭐3)](https://github.com/robfletcher/midcentury-ipsum) - Swingin’ filler text for your jet-age web page.
-*   [som-one/zarif-kherkin (⭐9)](https://github.com/som-one/zarif-kherkin) - Configurable BDD testing using a Kotlin DSL for Gherkin.
+*   [som-one/zarif-kherkin (⭐8)](https://github.com/som-one/zarif-kherkin) - Configurable BDD testing using a Kotlin DSL for Gherkin.
 *   [mrcsxsiq/Kotlin-Pokedex (⭐1.5k)](https://github.com/mrcsxsiq/Kotlin-Pokedex) - A Pokedex demo app built with Kotlin using ViewModel, LiveData, Room and Navigation
-*   [LukasLechnerDev/Kotlin-Coroutine-Use-Cases-on-Android (⭐2.6k)](https://github.com/LukasLechnerDev/Kotlin-Coroutine-Use-Cases-on-Android) - Learn Kotlin Coroutines for Android by example. Sample implementations for real-world Android use cases. Unit tests included.
+*   [LukasLechnerDev/Kotlin-Coroutine-Use-Cases-on-Android (⭐2.7k)](https://github.com/LukasLechnerDev/Kotlin-Coroutine-Use-Cases-on-Android) - Learn Kotlin Coroutines for Android by example. Sample implementations for real-world Android use cases. Unit tests included.
 
 ## [8. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
@@ -87,11 +87,11 @@ Installs: 70000 | Stars: n/a | Last update: n/a
 
 ### Templates / Vanilla
 
-*   [vite-tailwind-nojs-starter (⭐53)](https://github.com/kometolabs/vite-tailwind-nojs-starter) - NoJS Tailwind CSS starter template.
+*   [vite-tailwind-nojs-starter (⭐58)](https://github.com/kometolabs/vite-tailwind-nojs-starter) - NoJS Tailwind CSS starter template.
 
 ### Templates / Vue 3
 
-*   [vite-vue-js-starter-template (⭐144)](https://github.com/ElanYoung/vite-vue-js-starter-template) - Vite + Vue3 + JavaScript + Vue Router + Pinia + TDesign + ESLint + Stylelint + Prettier Simple Template.
+*   [vite-vue-js-starter-template (⭐160)](https://github.com/ElanYoung/vite-vue-js-starter-template) - Vite + Vue3 + JavaScript + Vue Router + Pinia + TDesign + ESLint + Stylelint + Prettier Simple Template.
 
 ---
 

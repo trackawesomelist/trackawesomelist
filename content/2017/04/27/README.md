@@ -32,7 +32,7 @@
 
 ### Python / Data Analysis / Data Visualization
 
-*   [Bowtie (⭐764)](https://github.com/jwkvam/bowtie) - A dashboard library for interactive visualizations using flask socketio and react.
+*   [Bowtie (⭐766)](https://github.com/jwkvam/bowtie) - A dashboard library for interactive visualizations using flask socketio and react.
 
 ## [4. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
 
@@ -51,7 +51,7 @@
 
 ### Network & Storage Testing
 
-*   [Fio (⭐5k)](https://github.com/axboe/fio) - Flexible I/O Tester
+*   [Fio (⭐5.3k)](https://github.com/axboe/fio) - Flexible I/O Tester
 *   [iPerf3](https://iperf.fr/) - The TCP, UDP and SCTP network bandwidth measurement tool.
 
 ## [5. Amas](/content/sindresorhus/amas/README.md)
@@ -88,7 +88,7 @@
 
 ### Tools / Libraries
 
-*   [Palettable (⭐754)](https://github.com/jiffyclub/palettable) - Palettable (formerly brewer2mpl) is a library of color palettes for Python
+*   [Palettable (⭐780)](https://github.com/jiffyclub/palettable) - Palettable (formerly brewer2mpl) is a library of color palettes for Python
 
 ### Color Palettes / Web App
 
@@ -108,7 +108,7 @@
 
 ### Other Useful Repositories
 
-- Repository: [Probable Wordlists (⭐8.6k)](https://github.com/berzerk0/Probable-Wordlists)
+- Repository: [Probable Wordlists (⭐8.8k)](https://github.com/berzerk0/Probable-Wordlists)
 
   Description: Wordlists sorted by probability originally created for password generation and testing
 

@@ -32,7 +32,7 @@
 
 ### Utility / Semantic Versioning
 
-*   [Cut Release Branch (⭐9)](https://github.com/jessicalostinspace/cut-release-action) - Cuts a release branch given a branch prefix and optional semantic version.
+*   [Cut Release Branch (⭐10)](https://github.com/jessicalostinspace/cut-release-action) - Cuts a release branch given a branch prefix and optional semantic version.
 
 ## [5. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 
@@ -44,16 +44,16 @@
 
 ### Tools
 
-*   [PhpInsights (⭐5.2k)](https://github.com/nunomaduro/phpinsights) - PHP quality checks (with Magento2 presets)
-*   [Tango (⭐108)](https://github.com/roma-glushko/tango) - CLI for analyzing access logs
+*   [PhpInsights (⭐5.4k)](https://github.com/nunomaduro/phpinsights) - PHP quality checks (with Magento2 presets)
+*   [Tango (⭐109)](https://github.com/roma-glushko/tango) - CLI for analyzing access logs
 
 ### Deployment
 
-*   [Github Actions for Magento2 (⭐134)](https://github.com/extdn/github-actions-m2) - GitHub Actions for Magento 2 Extensions
+*   [Github Actions for Magento2 (⭐137)](https://github.com/extdn/github-actions-m2) - GitHub Actions for Magento 2 Extensions
 
 ### Infrastructure
 
-*   [Magento 2 Ngrok (⭐44)](https://github.com/shkoliar/magento-ngrok) - Magento 2 Ngrok Integration
+*   [Magento 2 Ngrok (⭐46)](https://github.com/shkoliar/magento-ngrok) - Magento 2 Ngrok Integration
 
 ## [7. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
@@ -69,7 +69,7 @@
 
 ### UI / Barcode
 
-*   [SweetCurtain (⭐116)](https://github.com/multimediasuite/SweetCurtain) - Really sweet and easy bottom pullable sheet implementation. You can find a similar implementation in applications like Apple Maps, Find My, Stocks, etc.
+*   [SweetCurtain (⭐115)](https://github.com/multimediasuite/SweetCurtain) - Really sweet and easy bottom pullable sheet implementation. You can find a similar implementation in applications like Apple Maps, Find My, Stocks, etc.
 
 ### Button / Barcode
 
@@ -77,7 +77,7 @@
 
 ### Walkthrough / Barcode
 
-*   [ConcentricOnboarding (⭐1.3k)](https://github.com/exyte/ConcentricOnboarding) - SwiftUI library for a walkthrough or onboarding flow with tap actions.
+*   [ConcentricOnboarding (⭐1.4k)](https://github.com/exyte/ConcentricOnboarding) - SwiftUI library for a walkthrough or onboarding flow with tap actions.
 
 ## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -97,7 +97,7 @@
 
 ### Projects / Type Theory and Mathematics
 
-*   [Analysis (⭐193)](https://github.com/math-comp/analysis) - Library for classical real analysis compatible with Mathematical Components.
+*   [Analysis (⭐210)](https://github.com/math-comp/analysis) - Library for classical real analysis compatible with Mathematical Components.
 *   [Coquelicot](https://gitlab.inria.fr/coquelicot/coquelicot) - Formalization of classical real analysis compatible with the standard library and focusing on usability.
 
 ## [11. Awesome Asyncio](/content/timofurrer/awesome-asyncio/README.md)
@@ -116,7 +116,7 @@
 
 ### Miscellaneous / Text-Based User Interfaces
 
-*   [yGuard (⭐357)](https://github.com/yWorks/yGuard) - Obfuscation via renaming and shrinking.
+*   [yGuard (⭐376)](https://github.com/yWorks/yGuard) - Obfuscation via renaming and shrinking.
 
 ## [14. Awesome Python](/content/vinta/awesome-python/README.md)
 

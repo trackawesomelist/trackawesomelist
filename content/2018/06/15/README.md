@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 15, 2018
 
-8 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,7 +16,7 @@
 
 ### UITableView / Barcode
 
-*   [QuickTableViewController (⭐554)](https://github.com/bcylin/QuickTableViewController) - A simple way to create a UITableView for settings.
+*   [QuickTableViewController (⭐556)](https://github.com/bcylin/QuickTableViewController) - A simple way to create a UITableView for settings.
 
 ## [3. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
@@ -30,7 +30,7 @@
 
 ### Configuration / Infrastructure
 
-*   [appserver.io (⭐967)](https://github.com/appserver-io/appserver) - A multithreaded application server for PHP, written in PHP.
+*   [appserver.io (⭐966)](https://github.com/appserver-io/appserver) - A multithreaded application server for PHP, written in PHP.
 
 ## [4. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -61,13 +61,6 @@
 ### Talks
 
 *   [Bringing serverless to Rock 'n Roll](http://www.thecloudcast.net/2018/05/the-cloudcast-348-bringing-serverless.html) - Podcast on how Fender utilizes serverless technologies for their digital learning platform.
-
-## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / UI Components
-
-*   [vue-a11y-dialog (⭐94)](https://github.com/morkro/vue-a11y-dialog) - A Vue.js component wrapper for the accessible dialog [`a11y-dialog`](https://github.com/edenspiekermann/a11y-dialog).
-*   [vue-slideout-panel (⭐169)](https://github.com/officert/vue-slideout-panel) - Stackable panel component for VueJS
 
 ---
 

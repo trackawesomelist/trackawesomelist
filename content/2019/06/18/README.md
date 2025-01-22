@@ -10,7 +10,7 @@
 
 ### Developer utilities / Third-party APIs
 
-*   [repl-utilities (⭐48)](https://github.com/m-n/repl-utilities) - Ease
+*   [repl-utilities (⭐49)](https://github.com/m-n/repl-utilities) - Ease
     common tasks at the REPL (print documentation, print external symbols,
     call hooks when loading a package,…). [BSD\_2Clause](https://directory.fsf.org/wiki/License:BSD_2Clause).
 
@@ -22,7 +22,7 @@
 
 ### Cloud Infrastructure and Management
 
-*   [aws (⭐537)](https://github.com/aws-beam/aws-elixir) - AWS clients for Elixir.
+*   [aws (⭐569)](https://github.com/aws-beam/aws-elixir) - AWS clients for Elixir.
 
 ### Framework Components
 
@@ -38,11 +38,11 @@
 
 ### Office
 
-*   [elixlsx (⭐281)](https://github.com/xou/elixlsx) - A writer for XLSX files.
+*   [elixlsx (⭐297)](https://github.com/xou/elixlsx) - A writer for XLSX files.
 
 ### Security
 
-*   [clamxir (⭐12)](https://github.com/ramortegui/clamxir) - ClamAV wrapper for elixir.
+*   [clamxir (⭐13)](https://github.com/ramortegui/clamxir) - ClamAV wrapper for elixir.
 
 ### SMS
 
@@ -54,7 +54,7 @@
 
 ### Utilities
 
-*   [ex\_progress (⭐5)](https://github.com/acj/ex_progress) - A library for tracking progress across many tasks and sub-tasks.
+*   [ex\_progress (⭐6)](https://github.com/acj/ex_progress) - A library for tracking progress across many tasks and sub-tasks.
 *   [vert.x (⭐15)](https://github.com/PharosProduction/ExVertx) - Elixir event bus bridge to Vert.x services using TCP socket.
 
 ### Validations
@@ -77,14 +77,7 @@
 
 *   [USENIX SREcon Slack](https://usenix-srecon.slack.com)
 
-## [5. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
-
-### Frameworks, Libraries and Tools / Application Frameworks
-
-*   [Abp vNext (⭐13k)](https://github.com/abpframework/abp) - Abp vNext is the next generation of the open source [ASP.NET Boilerplate (⭐12k)](https://github.com/aspnetboilerplate/aspnetboilerplate) framework. It's a complete architecture and strong infrastructure to create modern web applications!
-    Follows best practices and conventions to provide you a SOLID development experience.
-
-## [6. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
+## [5. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
 
 ### Books
 
@@ -96,9 +89,12 @@
 
 *   [Podcast Tracker](http://www.podcasttracker.com/) -  Lets you log, aggregate and export your podcast listening history (Web).
 
-### Open Source Projects / Wealth
+## [6. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
-*   [QS Ledger (⭐950)](https://github.com/markwk/qs_ledger) - Open Source Personal Data Aggregator and Data Analysis built on Python using Jupyter Notebooks.
+### Frameworks, Libraries and Tools / Application Frameworks
+
+*   [Abp vNext (⭐13k)](https://github.com/abpframework/abp) - Abp vNext is the next generation of the open source [ASP.NET Boilerplate (⭐12k)](https://github.com/aspnetboilerplate/aspnetboilerplate) framework. It's a complete architecture and strong infrastructure to create modern web applications!
+    Follows best practices and conventions to provide you a SOLID development experience.
 
 ---
 

@@ -54,14 +54,14 @@
 
 ### Driver crates / WIP
 
-*   [midi-port](https://crates.io/crates/midi-port) - UART - MIDI input - ![crates.io](https://img.shields.io/crates/v/midi-port.svg)
-*   [ST7920](https://crates.io/crates/st7920) - SPI - LCD displays using the ST7920 controller ![crates.io](https://img.shields.io/crates/v/st7920.svg)
+*   [midi-port](https://crates.io/crates/midi-port) - UART - MIDI input - [![crates.io](https://img.shields.io/crates/v/midi-port.svg)](https://crates.io/crates/midi-port)
+*   [ST7920](https://crates.io/crates/st7920) - SPI - LCD displays using the ST7920 controller [![crates.io](https://img.shields.io/crates/v/st7920.svg)](https://crates.io/crates/st7920)
 
 ## [5. Awesome Bash](/content/awesome-lists/awesome-bash/README.md)
 
 ### For Developers
 
-*   [mkdkr (⭐364)](https://github.com/rosineygp/mkdkr) - Make + Docker + Shell = CI Pipeline.
+*   [mkdkr (⭐365)](https://github.com/rosineygp/mkdkr) - Make + Docker + Shell = CI Pipeline.
 
 ## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -83,13 +83,13 @@
 
 ### Software / Games
 
-*   [Mindustry](https://mindustrygame.github.io/) - Factorio-like tower defense game. Build production chains to gather more resources, and build complex facilities. ([Source Code (⭐22k)](https://github.com/Anuken/Mindustry)) `GPL-3.0` `Java`
+*   [Mindustry](https://mindustrygame.github.io/) - Factorio-like tower defense game. Build production chains to gather more resources, and build complex facilities. ([Source Code (⭐23k)](https://github.com/Anuken/Mindustry)) `GPL-3.0` `Java`
 
 ## [9. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Typescript Project Starters
 
-*   [jsynowiec/node-typescript-boilerplate (⭐2.7k)](https://github.com/jsynowiec/node-typescript-boilerplate) Up-to-date, developer ready and comprehensive, yet minimalistic template. Works out of the box for most Node.js projects. All basic tools included and configured. Targets latest Node.js LTS and TypeScript releases.
+*   [jsynowiec/node-typescript-boilerplate (⭐2.8k)](https://github.com/jsynowiec/node-typescript-boilerplate) Up-to-date, developer ready and comprehensive, yet minimalistic template. Works out of the box for most Node.js projects. All basic tools included and configured. Targets latest Node.js LTS and TypeScript releases.
 
 ## [10. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 

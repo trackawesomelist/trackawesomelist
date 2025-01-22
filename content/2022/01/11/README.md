@@ -457,13 +457,13 @@
 
 ### Business
 
-*   [CLDR currency definitions (⭐871)](https://github.com/unicode-org/cldr/blob/release-40/common/supplemental/supplementalData.xml#L87-L94) - Currency validity date ranges overlap due to revolts, invasions, new constitutions, and slow planned adoption.
+*   [CLDR currency definitions (⭐923)](https://github.com/unicode-org/cldr/blob/release-40/common/supplemental/supplementalData.xml#L87-L94) - Currency validity date ranges overlap due to revolts, invasions, new constitutions, and slow planned adoption.
 
 ## [5. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md)
 
 ### Other libraries and tools / Mesh tools
 
-*   [HPDDM (⭐126)](https://github.com/hpddm/hpddm) - High-performance unified framework for domain decomposition methods.
+*   [HPDDM (⭐140)](https://github.com/hpddm/hpddm) - High-performance unified framework for domain decomposition methods.
     (C++, LGPL 3, GitHub)
 
 ## [6. Awesome Productivity](/content/jyguyomarch/awesome-productivity/README.md)
@@ -501,13 +501,13 @@
 
 ### BAM File Utilities / Structural variant callers
 
-*   **[Somalier (⭐180)](https://github.com/brentp/somalier)** - Fast sample-swap and relatedness checks on BAMs/CRAMs/VCFs/GVCFs. \[ [paper-2020](https://pubmed.ncbi.nlm.nih.gov/32664994) ]
+*   **[Somalier (⭐272)](https://github.com/brentp/somalier)** - Fast sample-swap and relatedness checks on BAMs/CRAMs/VCFs/GVCFs. \[ [paper-2020](https://pubmed.ncbi.nlm.nih.gov/32664994) ]
 
 ## [12. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
 
 ### Tools
 
-*   [GitHub Readme Stats (⭐67k)](https://github.com/anuraghazra/github-readme-stats#readme) - Dynamically generated customizable GitHub cards for README. Stats, extra pins, top languages and WakaTime.
+*   [GitHub Readme Stats (⭐71k)](https://github.com/anuraghazra/github-readme-stats#readme) - Dynamically generated customizable GitHub cards for README. Stats, extra pins, top languages and WakaTime.
 
 ## [13. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 

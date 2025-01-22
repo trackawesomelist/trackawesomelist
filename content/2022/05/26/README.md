@@ -1,6 +1,6 @@
 # Awesome List Updates on May 26, 2022
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,47 +16,41 @@
 
 ### Editors / Mobile Editors
 
-*   [StreetComplete (⭐3.5k)](https://github.com/westnordost/StreetComplete) - App for improving OSM by answering simple questions. ([Android](https://play.google.com/store/apps/details?id=de.westnordost.streetcomplete) / [Wiki](https://wiki.openstreetmap.org/wiki/StreetComplete))
-*   [Vespucci](https://vespucci.io/) - Advanced full-data-model editor for Android. ([Android](https://play.google.com/store/apps/details?id=de.blau.android) / [Source Code (⭐338)](https://github.com/MarcusWolschon/osmeditor4android) / [Wiki](https://wiki.openstreetmap.org/wiki/Vespucci))
+*   [StreetComplete (⭐3.8k)](https://github.com/westnordost/StreetComplete) - App for improving OSM by answering simple questions. ([Android](https://play.google.com/store/apps/details?id=de.westnordost.streetcomplete) / [Wiki](https://wiki.openstreetmap.org/wiki/StreetComplete))
+*   [Vespucci](https://vespucci.io/) - Advanced full-data-model editor for Android. ([Android](https://play.google.com/store/apps/details?id=de.blau.android) / [Source Code (⭐370)](https://github.com/MarcusWolschon/osmeditor4android) / [Wiki](https://wiki.openstreetmap.org/wiki/Vespucci))
 
-## [3. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / Utilities
-
-*   [excel-to-json (⭐12)](https://github.com/Aaronlamz/excel-to-json) - A easy tool is created to convert Excel to JSON for i18n.
-
-## [4. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [3. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Misc
 
 *   [mobiletoly/urlsome (⭐4)](https://github.com/mobiletoly/urlsome) - URL builder library for Kotlin
 
-## [5. Awesome Qr Code](/content/make-github-pseudonymous-again/awesome-qr-code/README.md)
+## [4. Awesome Qr Code](/content/make-github-pseudonymous-again/awesome-qr-code/README.md)
 
 ### CLI / File Transfer
 
 *   [qrap (⭐6)](https://github.com/make-github-pseudonymous-again/qrap) - Generate a QR code payload for Wi-Fi access point credentials.
 *   [spqr (⭐2)](https://github.com/make-github-pseudonymous-again/spqr) - Generate a QR code payload for initiating a SEPA transfer.
 
-## [6. Awesome Eosio](/content/DanailMinchev/awesome-eosio/README.md)
+## [5. Awesome Eosio](/content/DanailMinchev/awesome-eosio/README.md)
 
 ### Block explorers, Voting portals / Mobile
 
 *   [bdata.one](https://bdata.one/) - Blockchain data about accounts and tokens for several EOSIO chains.
 
-## [7. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/README.md)
+## [6. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/README.md)
 
 ### Tools / Editors
 
 *   [Let's Markdown!](https://letsmarkdown.com) - An online real-time collaborative markdown editor built on Rust. ![Globe](https://img.icons8.com/color/24/globe.png "Globe")
 
-## [8. Awesome Social Enterprise](/content/RayBB/awesome-social-enterprise/README.md)
+## [7. Awesome Social Enterprise](/content/RayBB/awesome-social-enterprise/README.md)
 
 ### Institutions 🏫 / Articles
 
 *   [The Elisabeth Bruyère School of Social Innovation](https://innovationsocialeusp.ca/en/school) - Canada's first school of social innovation.
 
-## [9. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
+## [8. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
 
 ### Manuals, Ephemera, Papers, and Patents / Manuals
 

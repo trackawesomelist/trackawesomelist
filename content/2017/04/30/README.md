@@ -40,13 +40,13 @@
 
 ### More Awesome Lists
 
-*   [Help Wanted (⭐71)](https://github.com/fullstackla/awesome-help-wanted) *(Open Source projects looking for Help)*
+*   [Help Wanted (⭐75)](https://github.com/fullstackla/awesome-help-wanted) *(Open Source projects looking for Help)*
 
 ## [3. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
 ### Others / Others
 
-*   [awesome-digital-nomads (⭐863)](https://github.com/cbovis/awesome-digital-nomads) - 🏝 A curated list of awesome resources for Digital Nomads.
+*   [awesome-digital-nomads (⭐908)](https://github.com/cbovis/awesome-digital-nomads) - 🏝 A curated list of awesome resources for Digital Nomads.
 
 ## [4. Awesome Json](/content/burningtree/awesome-json/README.md)
 

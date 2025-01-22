@@ -25,7 +25,7 @@
     *   [JMeter Docker Images](https://hub.docker.com/search/?isAutomated=0\&isOfficial=0\&page=1\&pullCount=0\&q=jmeter\&starCount=0)
     *   [Distributed JMeter testing using Docker](https://srivaths.blogspot.com/2014/08/distrubuted-jmeter-testing-using-docker.html)
     *   [A Docker solution to JMeter + InfluxDB + Grafana performance testing](https://medium.com/@ellenhuang523/a-docker-solution-to-jmeter-influxdb-grafana-performance-testing-568848de7a0f)
-    *   [AutoMeter (⭐55)](https://github.com/intuit/autometer) - An automation tool for scaling load tests using distributed slaves, based on JMeter master-slave architecture.
+    *   [AutoMeter (⭐59)](https://github.com/intuit/autometer) - An automation tool for scaling load tests using distributed slaves, based on JMeter master-slave architecture.
     *   [JMeter Docker Extension](https://hub.docker.com/extensions/qainsights/jmeter-docker-extension) - Docker extension to run JMeter tests from Docker Desktop.
 
 ## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
@@ -65,7 +65,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [MQTTX (⭐3.8k)](https://github.com/emqx/MQTTX) - Cross-platform MQTT 5.0 desktop client built with Vue.js, Typescript and Electron.
+*   [MQTTX (⭐4k)](https://github.com/emqx/MQTTX) - Cross-platform MQTT 5.0 desktop client built with Vue.js, Typescript and Electron.
 
 ## [8. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 

@@ -10,7 +10,7 @@
 
 ### (requires Neovim 0.5)
 
-*   [nvimtools/none-ls.nvim (⭐2.4k)](https://github.com/nvimtools/none-ls.nvim) - Null-ls.nvim reloaded / Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
+*   [nvimtools/none-ls.nvim (⭐2.7k)](https://github.com/nvimtools/none-ls.nvim) - Null-ls.nvim reloaded / Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
 
 ### Utility / Diagnostics
 

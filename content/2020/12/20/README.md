@@ -10,7 +10,7 @@
 
 ### Integrations
 
-*   [Apple Social Identity Provider for Keycloak (⭐108)](https://github.com/BenjaminFavre/keycloak-apple-social-identity-provider)
+*   [Apple Social Identity Provider for Keycloak (⭐113)](https://github.com/BenjaminFavre/keycloak-apple-social-identity-provider)
 
 ## [2. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 
@@ -28,7 +28,7 @@
 ### Authentication & Identity
 
 *   [AWS cognito](https://aws.amazon.com/cognito/) - AWS's authentication as a service.
-*   [Magic.link](https://magic.link) - Passwordless (email-based) log in as a service.
+*   [Magic.link](https://magic.link) - Passwordless (email-based) log-in as a service.
 
 ### CMS (headless)
 
@@ -47,7 +47,7 @@
 
 ### Discussions
 
-*   [Commento](https://commento.io/) - Privacy centric embeddable comment system.
+*   [Commento](https://commento.io/) - Privacy-centric embeddable comment system.
 *   [MuutIo](https://muut.io/) - Tools to create a community-driven app.
 
 ### IDE
@@ -64,7 +64,7 @@
 ### Media
 
 *   [Cloudinary](https://cloudinary.com/) - Optimize, create, manage, and deliver images and videos.
-*   [Mux](https://mux.com/) - APIs to upload, manage, and stream video.
+*   [Mux](https://mux.com/) - APIs to upload, manage, and stream video. [![featured on launchweek.dev](https://img.shields.io/badge/featured-0D1117.svg?style=flat-square\&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMzYwIiBoZWlnaHQ9IjM2MCIgdmlld0JveD0iMCAwIDM2MCAzNjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+IDxyZWN0IHdpZHRoPSI2MCIgaGVpZ2h0PSIzMDAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjYwIiB5PSIzMDAiIHdpZHRoPSIxMjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjI0MCIgeT0iMzAwIiB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjMwMCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjMwMCIgZmlsbD0id2hpdGUiLz4gPHJlY3QgeD0iMTgwIiB3aWR0aD0iNjAiIGhlaWdodD0iMzAwIiBmaWxsPSJ3aGl0ZSIvPiA8L3N2Zz4=)](https://launchweek.dev)
 
 ### Messaging
 
@@ -80,7 +80,7 @@
 
 *   [KeenIO](https://keen.io/) - Event streaming platform.
 *   [LogRocket](https://logrocket.com/) - Replay bugs users had.
-*   [Sentry](https://sentry.io/) - Application monitoring for bugs and performance.
+*   [Sentry](https://sentry.io/) - Application monitoring for bugs and performance. [![featured on launchweek.dev](https://img.shields.io/badge/featured-0D1117.svg?style=flat-square\&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMzYwIiBoZWlnaHQ9IjM2MCIgdmlld0JveD0iMCAwIDM2MCAzNjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+IDxyZWN0IHdpZHRoPSI2MCIgaGVpZ2h0PSIzMDAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjYwIiB5PSIzMDAiIHdpZHRoPSIxMjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjI0MCIgeT0iMzAwIiB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjMwMCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjMwMCIgZmlsbD0id2hpdGUiLz4gPHJlY3QgeD0iMTgwIiB3aWR0aD0iNjAiIGhlaWdodD0iMzAwIiBmaWxsPSJ3aGl0ZSIvPiA8L3N2Zz4=)](https://launchweek.dev)
 
 ### Natural Language Processing
 
@@ -89,7 +89,7 @@
 ### Payments & Pricing
 
 *   [Braintree](https://www.braintreepayments.com/) - Paypal's take on API-first payments.
-*   [Plaid](https://plaid.com/) - Accept, send ACH (bank transfers) and get bank information.
+*   [Plaid](https://plaid.com/) - Accept, send ACH (bank transfers), and get bank information.
 
 ### Scraping
 
@@ -99,7 +99,7 @@
 
 ### Testing / Misc
 
-*   [dmg-acid2 (⭐124)](https://github.com/mattcurrie/dmg-acid2) and [cgb-acid2 (⭐73)](https://github.com/mattcurrie/cgb-acid2) - Basic PPU rendering tests.
+*   [dmg-acid2 (⭐184)](https://github.com/mattcurrie/dmg-acid2) and [cgb-acid2 (⭐78)](https://github.com/mattcurrie/cgb-acid2) - Basic PPU rendering tests.
 
 ## [5. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 
@@ -111,7 +111,7 @@
 
 ### Streaming
 
-*   [Owncast (⭐9.1k)](https://github.com/owncast/owncast) - Selfhosted video streaming plattform (<https://owncast.online/>)
+*   [Owncast (⭐9.6k)](https://github.com/owncast/owncast) - Selfhosted video streaming plattform (<https://owncast.online/>)
 
 ## [7. Awesome Games of Coding](/content/michelpereira/awesome-games-of-coding/README.md)
 
@@ -129,10 +129,10 @@
 
 ### Reading
 
-*   [scriptable-news-Widget.js (⭐112)](https://github.com/Saudumm/scriptable-News-Widget) - The latest posts from a feed or a WordPress blog.
+*   [scriptable-news-Widget.js (⭐122)](https://github.com/Saudumm/scriptable-News-Widget) - The latest posts from a feed or a WordPress blog.
 
     <img src="https://raw.githubusercontent.com/Saudumm/scriptable-News-Widget/main/images/widgets.jpg" width="800"/>
-*   [sonntagsfrage (⭐27)](https://github.com/henningtillmann/sonntagsfrage) - The latest German political poll results.
+*   [sonntagsfrage (⭐30)](https://github.com/henningtillmann/sonntagsfrage) - The latest German political poll results.
 
     <img src="https://raw.githubusercontent.com/henningtillmann/sonntagsfrage/main/screenshot-1.png" width="400"/>
 
@@ -148,7 +148,7 @@
 
 *   [**modern-css-reset**](https://github.com/hankchizljaw/modern-css-reset) - Tiny little reset that you can use as the basis of your CSS projects.\
     ![](https://img.shields.io/github/stars/hankchizljaw/modern-css-reset.svg?style=social\&label=Star)
-    [Repo (⭐2.9k)](https://github.com/hankchizljaw/modern-css-reset)
+    [Repo (⭐3k)](https://github.com/hankchizljaw/modern-css-reset)
     \| #CSS
 
 ## [11. Awesome Translations](/content/mbiesiad/awesome-translations/README.md)
@@ -201,7 +201,7 @@
 
 ### Work
 
-*   [Creative Technology (⭐410)](https://github.com/j0hnm4r5/awesome-creative-technology#readme) - Businesses & groups that specialize in combining computing, design, art, and user experience.
+*   [Creative Technology (⭐452)](https://github.com/j0hnm4r5/awesome-creative-technology#readme) - Businesses & groups that specialize in combining computing, design, art, and user experience.
 
 ---
 

@@ -10,22 +10,22 @@
 
 ### Modules / Utils
 
-*   [locale-kit](https://deno.land/x/localekit) ([GitHub (⭐6)](https://github.com/locale-kit/locale-kit)) - A internationalisation/localisation/translation (i18n/l10n/t9n) library with a wrapper for Fresh and support for plurals and dynamic replacement.
+*   [locale-kit](https://deno.land/x/localekit) ([GitHub (⭐5)](https://github.com/locale-kit/locale-kit)) - A internationalisation/localisation/translation (i18n/l10n/t9n) library with a wrapper for Fresh and support for plurals and dynamic replacement.
 
 ## [2. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
 
 ### Downloading, Installing, Upgrading, and Building
 
-*   [Building (⭐13)](https://github.com/QubesOS/qubes-builderv2) - This is the second generation of the Qubes OS builder.
+*   [Building (⭐15)](https://github.com/QubesOS/qubes-builderv2) - This is the second generation of the Qubes OS builder.
 *   [Installing](https://www.qubes-os.org/doc/installation-guide/)  - Qubes OS installation guide!
 
 ### Exploitation Tools / Unikernel-like
 
-*   [LeechCore (⭐453)](https://github.com/ufrisk/LeechCore) - The LeechCore Memory Acquisition Library focuses on Physical Memory Acquisition using various hardware and software based methods.
-    *   [LeechCore-Plugins (⭐29)](https://github.com/ufrisk/LeechCore-plugins) - This repository contains various plugins for LeechCore - Physical Memory Acquisition Library.
-*   [Volatility3 (⭐2.4k)](https://github.com/volatilityfoundation/volatility3) - Volatility is the world's most widely used framework for extracting digital artifacts from volatile memory (RAM) samples.
+*   [LeechCore (⭐519)](https://github.com/ufrisk/LeechCore) - The LeechCore Memory Acquisition Library focuses on Physical Memory Acquisition using various hardware and software based methods.
+    *   [LeechCore-Plugins (⭐32)](https://github.com/ufrisk/LeechCore-plugins) - This repository contains various plugins for LeechCore - Physical Memory Acquisition Library.
+*   [Volatility3 (⭐2.7k)](https://github.com/volatilityfoundation/volatility3) - Volatility is the world's most widely used framework for extracting digital artifacts from volatile memory (RAM) samples.
 
-### Releases / Web articles
+### Releases / Extra Info
 
 *   [Release notes](https://www.qubes-os.org/doc/releases/notes/) - Developer documentation Notes
 *   [Release schedules](https://www.qubes-os.org/doc/releases/schedules/) -  Developer Release Schedules
@@ -42,7 +42,7 @@
 
 ### Games
 
-*   [Lichess mobile (⭐2k)](https://github.com/lichess-org/lichobile) - A mobile client for lichess.org.
+*   [Lichess mobile (⭐2.1k)](https://github.com/lichess-org/lichobile) - A mobile client for lichess.org.
 
 ## [5. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -59,13 +59,13 @@
 
 *   [dreamlike.art](https://dreamlike.art/): image generator based on Stable Diffusion with fine-tuned models such as Dreamlike Photoreal 2.0. Users receive 1 credit per hour up to 50 credits
 
-### Inbox: Text-to-speech (TTS) and avatars / Deforum
+### Text-to-speech (TTS) and avatars / Deforum
 
 *   \[🔥] [Eleven Labs Beta](https://blog.elevenlabs.io/the_first_ai_that_can_laugh/): a TTS service that adds emotion to the generated voice
 
 ### Related Awesome Lists / Deforum
 
-*   \[🔥🔥🔥] [jonathandinu/awesome-ai-art (⭐334)](https://github.com/jonathandinu/awesome-ai-art): "A list of AI Art courses, tools, libraries, people, and places"
+*   \[🔥🔥🔥] [jonathandinu/awesome-ai-art (⭐353)](https://github.com/jonathandinu/awesome-ai-art): "A list of AI Art courses, tools, libraries, people, and places"
 
 ## [6. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/README.md)
 
@@ -115,13 +115,13 @@
 
 ### Syntax / Diagnostics
 
-*   [LhKipp/nvim-nu (⭐131)](https://github.com/LhKipp/nvim-nu) - Basic editor support for the nushell language.
+*   [LhKipp/nvim-nu (⭐147)](https://github.com/LhKipp/nvim-nu) - Basic editor support for the nushell language.
 
 ## [9. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [brew (wintermi) (⭐5)](https://github.com/wintermi/zsh-brew) - Simple plugin for the [Homebrew](https://brew.sh/) Package Manager.
+*   [brew (wintermi) (⭐6)](https://github.com/wintermi/zsh-brew) - Simple plugin for the [Homebrew](https://brew.sh/) Package Manager.
 *   [rust (cowboyd) (⭐0)](https://github.com/cowboyd/zsh-rust) - Configure your [rust](https://www.rust-lang.org/) toolchain, installing [rustup](https://rustup.rs) if it is not currently installed already.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only

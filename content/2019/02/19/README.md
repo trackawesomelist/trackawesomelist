@@ -10,7 +10,7 @@
 
 ### Reverse Engineering / Reverse Engineering Tools
 
-*   [pwndbg (⭐7k)](https://github.com/pwndbg/pwndbg) - GDB plug-in that eases debugging with GDB, with a focus on features needed by low-level software developers, hardware hackers, reverse-engineers, and exploit developers.
+*   [pwndbg (⭐7.7k)](https://github.com/pwndbg/pwndbg) - GDB plug-in that eases debugging with GDB, with a focus on features needed by low-level software developers, hardware hackers, reverse-engineers, and exploit developers.
 
 ## [2. Awesome Rest](/content/marmelab/awesome-rest/README.md)
 
@@ -36,7 +36,7 @@
 
 ### Containers / Kubernetes
 
-*   [Moon (⭐187)](https://github.com/aerokube/moon) - A commercial closed-source enterprise Selenium implementation using Kubernetes to launch browsers
+*   [Moon (⭐227)](https://github.com/aerokube/moon) - A commercial closed-source enterprise Selenium implementation using Kubernetes to launch browsers
 
 ## [5. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
 
@@ -62,7 +62,7 @@
 
 ### Ask these organizations anything!
 
-*   [Nikita Voloboev (⭐34)](https://github.com/nikitavoloboev/ama) - Loves making and sharing things. Building Learn Anything, Enpicom and tools.
+*   [Nikita Voloboev (⭐36)](https://github.com/nikitavoloboev/ama) - Loves making and sharing things. Building Learn Anything, Enpicom and tools.
 
 ## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

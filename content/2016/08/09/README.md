@@ -47,7 +47,7 @@
 
 ### Testing
 
-*   [bypass (⭐956)](https://github.com/pspdfkit-labs/bypass) - Bypass provides a quick way to create a mock HTTP server with a custom plug.
+*   [bypass (⭐972)](https://github.com/pspdfkit-labs/bypass) - Bypass provides a quick way to create a mock HTTP server with a custom plug.
 
 ### Third Party APIs
 
@@ -71,7 +71,7 @@
 
 ### Game
 
-*   [MonoGame (⭐11k)](https://github.com/MonoGame/MonoGame) - One framework for creating powerful cross-platform games
+*   [MonoGame (⭐12k)](https://github.com/MonoGame/MonoGame) - One framework for creating powerful cross-platform games
 
 ## [9. Git Cheat Sheet](/content/arslanbilal/git-cheat-sheet/README.md)
 

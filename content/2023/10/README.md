@@ -10,19 +10,19 @@
 
 ### Containers
 
-*   [Docker Tutorial](https://people.irisa.fr/Anthony.Baire/docker-tutorial.pdf) - Anthony Baire (PDF)
+*   [Docker Tutorial](https://people.irisa.fr/Anthony.Baire/docker-tutorial.pdf) - Anthony Baire (PDF) (CC BY-NC-ND)
 
 ## [2. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Spreadsheets and Documents
 
-*   [CAXLSX (⭐490)](https://github.com/caxlsx/caxlsx) - A community maintained excel xlsx generation library. [AXLSX (⭐2.6k)](https://github.com/randym/axlsx) - The original.
+*   [CAXLSX (⭐508)](https://github.com/caxlsx/caxlsx) - A community maintained excel xlsx generation library. [AXLSX (⭐2.6k)](https://github.com/randym/axlsx) - The original.
 
 ## [3. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Projects
 
-*   [Macige (⭐90)](https://github.com/tramlinehq/macige) - CI workflow generator for mobile app development, [Live Demo](https://macige.tramline.app).
+*   [Macige (⭐93)](https://github.com/tramlinehq/macige) - CI workflow generator for mobile app development, [Live Demo](https://macige.tramline.app).
 
 ## [4. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
 
@@ -32,23 +32,29 @@
 
 
 
-## [5. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
+## [5. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+
+### Datasets / Book Deals (Affiliated)
+
+*   [IBB Open Portal](https://data.ibb.gov.tr/en/)
+
+## [6. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
 ### Command-Line Tools / Discovery
 
-*   [deadnix (⭐461)](https://github.com/astro/deadnix) - Scan Nix files for dead code.
+*   [deadnix (⭐531)](https://github.com/astro/deadnix) - Scan Nix files for dead code.
 
 ### Programming Languages / Ruby
 
-*   [ruby-nix (⭐106)](https://github.com/sagittaros/ruby-nix) - Generates reproducible ruby/bundler app environment with Nix.
+*   [ruby-nix (⭐123)](https://github.com/sagittaros/ruby-nix) - Generates reproducible ruby/bundler app environment with Nix.
 
-## [6. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
+## [7. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
 ### Hosted Notebook Solutions
 
 *   [Mineo.app](https://mineo.app) - Data Ops platform with Jupyter-compatible notebooks, no code blocks, and support for creating dashboards.
 
-## [7. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [8. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Libraries
 
@@ -85,16 +91,6 @@
 
 *   [Deno Vulkan (⭐15)](https://github.com/deno-windowing/vulkan) - Vulkan API bindings for Deno. \[Apache Licence 2.0]
 
-## [8. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
-
-### Free Courses
-
-*   [Python for Machine Learning](https://globalaihub.com/courses/introduction-to-python-the-road-to-machine-learning/) - Start your journey to machine learning with Python, one of the most powerful programming languages.
-
-### Datasets / Book Deals (Affiliated) 🛍
-
-*   [IBB Open Portal](https://data.ibb.gov.tr/en/)
-
 ## [9. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### SDKs and Samples / Haskell SDK
@@ -109,13 +105,13 @@
 
 ### Example Projects
 
-*   [Example for using Keycloak Authorization with ASP.NET Core (⭐403)](https://github.com/NikiforovAll/keycloak-authorization-services-dotnet)
+*   [Example for using Keycloak Authorization with ASP.NET Core (⭐519)](https://github.com/NikiforovAll/keycloak-authorization-services-dotnet)
 
 ## [11. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
 
 ### Development
 
-*   [vudu (⭐34)](https://github.com/deltadaedalus/vudu) - Broad in-game debugging gui with a console, variable browser/editor, speed controls, and more.
+*   [vudu (⭐43)](https://github.com/deltadaedalus/vudu) - Broad in-game debugging gui with a console, variable browser/editor, speed controls, and more.
 
 ## [12. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
@@ -133,7 +129,7 @@
 
 ### Graphical User Interface / Apache License
 
-*   [adawebui (⭐1)](https://github.com/godunko/adawebui) - GUI based on [adawebpack (⭐48)](https://github.com/godunko/adawebpack).
+*   [adawebui (⭐1)](https://github.com/godunko/adawebui) - GUI based on [adawebpack (⭐56)](https://github.com/godunko/adawebpack).
 
 ### Terminal User Interface / Apache License
 
@@ -141,7 +137,7 @@
 
 ### Web / Apache License
 
-*   [matreshka (⭐6)](https://github.com/godunko/matreshka) - Matreshka is an Ada framework to develop information systems consisting of five major components: League, XML processor, Web framework, SQL access, and the Modeling framework.
+*   [matreshka (⭐7)](https://github.com/godunko/matreshka) - Matreshka is an Ada framework to develop information systems consisting of five major components: League, XML processor, Web framework, SQL access, and the Modeling framework.
 *   [ironsides](https://ironsides.martincarlisle.com) - Authoritative DNS server verified by SPARK/Ada.
 
 ### Verification / Apache License
@@ -179,7 +175,7 @@
 
 ### Robotics
 
-*   [Ruckig (⭐663)](https://github.com/pantor/ruckig) - Real-time motion generation for robots and machines. \[MIT] [website](https://ruckig.com)
+*   [Ruckig (⭐770)](https://github.com/pantor/ruckig) - Real-time motion generation for robots and machines. \[MIT] [website](https://ruckig.com)
 
 ## [15. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
@@ -201,12 +197,12 @@
 
 ### Providers / Vendor supported providers
 
-*   [terraform-provider-azapi (⭐172)](https://github.com/Azure/terraform-provider-azapi) - Provider for Azure Resource Manager Rest API
-*   [terraform-provider-azuredevops (⭐376)](https://github.com/microsoft/terraform-provider-azuredevops) - Provider for Azure DevOps (VSTS).
+*   [terraform-provider-azapi (⭐194)](https://github.com/Azure/terraform-provider-azapi) - Provider for Azure Resource Manager Rest API
+*   [terraform-provider-azuredevops (⭐391)](https://github.com/microsoft/terraform-provider-azuredevops) - Provider for Azure DevOps (VSTS).
 
 ### Providers / Community providers
 
-*   [terraform-provider-terracurl (⭐126)](https://github.com/devops-rob/terraform-provider-terracurl) - Provider to make managed and unmanaged API calls to your target endpoint.
+*   [terraform-provider-terracurl (⭐134)](https://github.com/devops-rob/terraform-provider-terracurl) - Provider to make managed and unmanaged API calls to your target endpoint.
 
 ### Tools / Community providers
 
@@ -241,11 +237,11 @@
 
 ### Software / Personal Dashboards
 
-*   [Hubleys (⭐59)](https://github.com/knrdl/hubleys-dashboard) - Self-hosted personal dashboards to organize links for multiple users via a central yaml config. `MIT` `Docker`
+*   [Hubleys (⭐70)](https://github.com/knrdl/hubleys-dashboard) - Self-hosted personal dashboards to organize links for multiple users via a central yaml config. `MIT` `Docker`
 
 ### Software / Software Development - Project Management
 
-*   [Mindwendel](https://www.mindwendel.com/) - Brainstorm and upvote ideas and thoughts within your team. ([Demo](https://www.mindwendel.com), [Source Code (⭐66)](https://github.com/b310-digital/mindwendel)) `AGPL-3.0` `Docker/Elixir`
+*   [Mindwendel](https://www.mindwendel.com/) - Brainstorm and upvote ideas and thoughts within your team. ([Demo](https://www.mindwendel.com), [Source Code (⭐93)](https://github.com/b310-digital/mindwendel)) `AGPL-3.0` `Docker/Elixir`
 
 ## [21. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
@@ -257,7 +253,7 @@
 
 ### Security
 
-*   [CetusGuard (⭐49)](https://github.com/hectorm/cetusguard) - CetusGuard is a tool that protects the Docker daemon socket by filtering calls to its API endpoints
+*   [CetusGuard (⭐55)](https://github.com/hectorm/cetusguard) - CetusGuard is a tool that protects the Docker daemon socket by filtering calls to its API endpoints
 
 ## [23. Awesome Orgs](/content/beansource/awesome-orgs/week/README.md)
 
@@ -332,11 +328,11 @@
 
 ### Applications / Utilities
 
-*   [Epic Asset Manager (⭐372)](https://github.com/AchetaGames/Epic-Asset-Manager) - An unofficial client to install Unreal Engine, download and manage purchased assets, projects, plugins and games from the Epic Games Store.
+*   [Epic Asset Manager (⭐417)](https://github.com/AchetaGames/Epic-Asset-Manager) - An unofficial client to install Unreal Engine, download and manage purchased assets, projects, plugins and games from the Epic Games Store.
 
 ### Libraries / Image processing
 
-*   [marekm4/dominant\_color (⭐33)](https://github.com/marekm4/dominant_color) \[[dominant\_color](https://crates.io/crates/dominant_color)] - Dominant color extractor ![build badge](https://github.com/marekm4/dominant_color/actions/workflows/rust.yml/badge.svg?branch=master)
+*   [marekm4/dominant\_color (⭐36)](https://github.com/marekm4/dominant_color) \[[dominant\_color](https://crates.io/crates/dominant_color)] - Dominant color extractor ![build badge](https://github.com/marekm4/dominant_color/actions/workflows/rust.yml/badge.svg?branch=master)
 
 ## [26. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/week/README.md)
 
@@ -350,27 +346,27 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [neanias/everforest-nvim (⭐227)](https://github.com/neanias/everforest-nvim) - A Lua port of the Everforest colour scheme.
+*   [neanias/everforest-nvim (⭐292)](https://github.com/neanias/everforest-nvim) - A Lua port of the Everforest colour scheme.
 
 ### Terminal Integration / Diagnostics
 
-*   [willothy/flatten.nvim (⭐465)](https://github.com/willothy/flatten.nvim) - Open files from terminal buffers in your current Neovim instance instead of launching a nested instance.
+*   [willothy/flatten.nvim (⭐555)](https://github.com/willothy/flatten.nvim) - Open files from terminal buffers in your current Neovim instance instead of launching a nested instance.
 
 ### Editing Support / Diagnostics
 
-*   [utilyre/sentiment.nvim (⭐150)](https://github.com/utilyre/sentiment.nvim) - Enhanced matchparen.
-*   [willothy/moveline.nvim (⭐131)](https://github.com/willothy/moveline.nvim) - Move lines and blocks up and down easily, with indenting handled automatically as you move. Written in Rust.
-*   [echasnovski/mini.nvim#mini.splitjoin (⭐4.7k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-splitjoin.md) - Module of `mini.nvim` to split and join arguments. Has customizable pre and post hooks. Works inside comments.
+*   [utilyre/sentiment.nvim (⭐153)](https://github.com/utilyre/sentiment.nvim) - Enhanced matchparen.
+*   [willothy/moveline.nvim (⭐142)](https://github.com/willothy/moveline.nvim) - Move lines and blocks up and down easily, with indenting handled automatically as you move. Written in Rust.
+*   [echasnovski/mini.nvim#mini.splitjoin (⭐6.2k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-splitjoin.md) - Module of `mini.nvim` to split and join arguments. Has customizable pre and post hooks. Works inside comments.
 
 ### Indent / Diagnostics
 
-*   [shellRaining/hlchunk.nvim (⭐485)](https://github.com/shellRaining/hlchunk.nvim) - A Lua implementation of `nvim-hlchunk`, contains more features, such as highlight `{}` chunk, indent line, space blank etc.
+*   [shellRaining/hlchunk.nvim (⭐702)](https://github.com/shellRaining/hlchunk.nvim) - A Lua implementation of `nvim-hlchunk`, contains more features, such as highlight `{}` chunk, indent line, space blank etc.
 
 ## [28. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### ChatGPT
 
-*   [llama.cpp (⭐64k)](https://github.com/ggerganov/llama.cpp) - Inference of Facebook's LLaMA model in pure C/C++ so it can run locally on a CPU.
+*   [llama.cpp (⭐71k)](https://github.com/ggerganov/llama.cpp) - Inference of Facebook's LLaMA model in pure C/C++ so it can run locally on a CPU.
 
 ### Cloud Storage
 
@@ -380,7 +376,7 @@
 
 ### Graphics
 
-*   [mpv-v (⭐25)](https://github.com/xjunko/mpv-v) - World's Simplest Video Player.
+*   [mpv-v (⭐28)](https://github.com/xjunko/mpv-v) - World's Simplest Video Player.
 
 ## [30. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
@@ -392,7 +388,7 @@
 
 ### AI Tools for Searching / Multi-agents
 
-*   [whitead/paper-qa (⭐3.8k)](https://github.com/whitead/paper-qa): "LLM Chain for answering questions from documents with citations"
+*   [whitead/paper-qa (⭐1)](https://github.com/whitead/paper-qa): "LLM Chain for answering questions from documents with citations"
 
 ### Embeddings and Semantic Search / Prompt Engineering for Text-to-image
 
@@ -440,7 +436,7 @@
 
 ### Resources / Talks and videos
 
-*   [Polars: The main alternative to pandas in Python!?](https://www.youtube.com/playlist?list=PLo9Vi5B84_dfAuwJqNYG4XhZMrGTF3sBx) ⏳ `57 min` - A Polars tutorial series on Youtube by [@martinbel](https://github.com/martinbel). Notebooks and datasets used for the videos available [in this github repo (⭐34)](https://github.com/martinbel/polars-tutorial).
+*   [Polars: The main alternative to pandas in Python!?](https://www.youtube.com/playlist?list=PLo9Vi5B84_dfAuwJqNYG4XhZMrGTF3sBx) ⏳ `57 min` - A Polars tutorial series on Youtube by [@martinbel](https://github.com/martinbel). Notebooks and datasets used for the videos available [in this github repo (⭐47)](https://github.com/martinbel/polars-tutorial).
 *   [Polars: The Super Fast Dataframe Library for Python — Goodbye Pandas?](https://artificialcorner.com/polars-the-super-fast-dataframe-library-for-python-goodbye-pandas-85156e84337f) - An article and a [video](https://www.youtube.com/watch?v=CByx7XjYMhw) ⏳ `19 min` that explores some basic features of Polars by [@ifrankandrade](https://github.com/ifrankand).
 *   [Manipulación de Datos con Polars en python](https://www.youtube.com/watch?v=3RM3pWw2iRQ) ⏳ `51 min` - A detailed tutorial video in Spanish that shows 20 Polars functions to perform 80% of the tasks of a data scientist by [Naren Castellon](https://www.linkedin.com/in/naren-castellon-1541b8101/?originalSubdomain=pa).
 
@@ -450,33 +446,33 @@
 
 *   [Linux Persistence Techniques](https://research.splunk.com/stories/linux_persistence_techniques/) - List of persistence techniques.
 *   [Linux Red Team Persistence Techniques](https://www.linode.com/docs/guides/linux-red-team-persistence-techniques/) - List of persistence techniques.
-*   [ebpfkit (⭐739)](https://github.com/Gui774ume/ebpfkit) - Rootkit leveraging eBPF.
-*   [TripleCross (⭐1.7k)](https://github.com/h3xduck/TripleCross) - Rootkit leveraging eBPF.
+*   [ebpfkit (⭐764)](https://github.com/Gui774ume/ebpfkit) - Rootkit leveraging eBPF.
+*   [TripleCross (⭐1.8k)](https://github.com/h3xduck/TripleCross) - Rootkit leveraging eBPF.
 
 ## [35. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Books, blogs, and training materials / Free and public materials
 
-*   [ESP32-C3 Rust Tutorials](https://youtube.com/playlist?list=PLkch9g9DEE0Lkm1LqcD7pZNDmXEczOo-a) Short videos and [Github project (⭐63)](https://github.com/shanemmattner/ESP32-C3_Rust_Tutorials) implementing various peripherals of the ESP32-C3 with the end goal of creating a complete data logger application.
+*   [ESP32-C3 Rust Tutorials](https://youtube.com/playlist?list=PLkch9g9DEE0Lkm1LqcD7pZNDmXEczOo-a) Short videos and [Github project (⭐68)](https://github.com/shanemmattner/ESP32-C3_Rust_Tutorials) implementing various peripherals of the ESP32-C3 with the end goal of creating a complete data logger application.
 
 ### Peripheral Access Crates / Renesas
 
-*   [`ra2a1`](https://github.com/ra-rs/ra/tree/main/pac/ra2a1) Peripheral Access Crate for ra2a1 microcontrollers (generated using svd2rust) - ![crates.io](https://img.shields.io/crates/v/ra2a1.svg)
-*   [`ra2e1`](https://github.com/ra-rs/ra/tree/main/pac/ra2e1) Peripheral Access Crate for ra2e1 microcontrollers (generated using svd2rust) - ![crates.io](https://img.shields.io/crates/v/ra2e1.svg)
-*   [`ra2e2`](https://github.com/ra-rs/ra/tree/main/pac/ra2e2) Peripheral Access Crate for ra2e2 microcontrollers (generated using svd2rust) - ![crates.io](https://img.shields.io/crates/v/ra2e2.svg)
-*   [`ra2l1`](https://github.com/ra-rs/ra/tree/main/pac/ra2l1) Peripheral Access Crate for ra2l1 microcontrollers (generated using svd2rust) - ![crates.io](https://img.shields.io/crates/v/ra2l1.svg)
-*   [`ra4e1`](https://github.com/ra-rs/ra/tree/main/pac/ra4e1) Peripheral Access Crate for ra4e1 microcontrollers (generated using svd2rust) - ![crates.io](https://img.shields.io/crates/v/ra4e1.svg)
-*   [`ra4m1`](https://github.com/ra-rs/ra/tree/main/pac/ra4m1) Peripheral Access Crate for ra4m1 microcontrollers (generated using svd2rust) - ![crates.io](https://img.shields.io/crates/v/ra4m1.svg)
-*   [`ra4m2`](https://github.com/ra-rs/ra/tree/main/pac/ra4m2) Peripheral Access Crate for ra4m2 microcontrollers (generated using svd2rust) - ![crates.io](https://img.shields.io/crates/v/ra4m2.svg)
-*   [`ra4m3`](https://github.com/ra-rs/ra/tree/main/pac/ra4m3) Peripheral Access Crate for ra4m3 microcontrollers (generated using svd2rust) - ![crates.io](https://img.shields.io/crates/v/ra4m3.svg)
-*   [`ra4w1`](https://github.com/ra-rs/ra/tree/main/pac/ra4w1) Peripheral Access Crate for ra4w1 microcontrollers (generated using svd2rust) - ![crates.io](https://img.shields.io/crates/v/ra4w1.svg)
-*   [`ra6e1`](https://github.com/ra-rs/ra/tree/main/pac/ra6e1) Peripheral Access Crate for ra6e1 microcontrollers (generated using svd2rust) - ![crates.io](https://img.shields.io/crates/v/ra6e1.svg)
-*   [`ra6m1`](https://github.com/ra-rs/ra/tree/main/pac/ra6m1) Peripheral Access Crate for ra6m1 microcontrollers (generated using svd2rust) - ![crates.io](https://img.shields.io/crates/v/ra6m1.svg)
-*   [`ra6m2`](https://github.com/ra-rs/ra/tree/main/pac/ra6m2) Peripheral Access Crate for ra6m2 microcontrollers (generated using svd2rust) - ![crates.io](https://img.shields.io/crates/v/ra6m2.svg)
-*   [`ra6m3`](https://github.com/ra-rs/ra/tree/main/pac/ra6m3) Peripheral Access Crate for ra6m3 microcontrollers (generated using svd2rust) - ![crates.io](https://img.shields.io/crates/v/ra6m3.svg)
-*   [`ra6m4`](https://github.com/ra-rs/ra/tree/main/pac/ra6m4) Peripheral Access Crate for ra6m4 microcontrollers (generated using svd2rust) - ![crates.io](https://img.shields.io/crates/v/ra6m4.svg)
-*   [`ra6t1`](https://github.com/ra-rs/ra/tree/main/pac/ra6t1) Peripheral Access Crate for ra6t1 microcontrollers (generated using svd2rust) - ![crates.io](https://img.shields.io/crates/v/ra6t1.svg)
-*   [`ra6t2`](https://github.com/ra-rs/ra/tree/main/pac/ra6t2) Peripheral Access Crate for ra6t2 microcontrollers (generated using svd2rust) - ![crates.io](https://img.shields.io/crates/v/ra6t2.svg)
+*   [`ra2a1`](https://github.com/ra-rs/ra/tree/main/pac/ra2a1) Peripheral Access Crate for ra2a1 microcontrollers (generated using svd2rust) - [![crates.io](https://img.shields.io/crates/v/ra2a1.svg)](https://crates.io/crates/ra2a1)
+*   [`ra2e1`](https://github.com/ra-rs/ra/tree/main/pac/ra2e1) Peripheral Access Crate for ra2e1 microcontrollers (generated using svd2rust) - [![crates.io](https://img.shields.io/crates/v/ra2e1.svg)](https://crates.io/crates/ra2e1)
+*   [`ra2e2`](https://github.com/ra-rs/ra/tree/main/pac/ra2e2) Peripheral Access Crate for ra2e2 microcontrollers (generated using svd2rust) - [![crates.io](https://img.shields.io/crates/v/ra2e2.svg)](https://crates.io/crates/ra2e2)
+*   [`ra2l1`](https://github.com/ra-rs/ra/tree/main/pac/ra2l1) Peripheral Access Crate for ra2l1 microcontrollers (generated using svd2rust) - [![crates.io](https://img.shields.io/crates/v/ra2l1.svg)](https://crates.io/crates/ra2l1)
+*   [`ra4e1`](https://github.com/ra-rs/ra/tree/main/pac/ra4e1) Peripheral Access Crate for ra4e1 microcontrollers (generated using svd2rust) - [![crates.io](https://img.shields.io/crates/v/ra4e1.svg)](https://crates.io/crates/ra4e1)
+*   [`ra4m1`](https://github.com/ra-rs/ra/tree/main/pac/ra4m1) Peripheral Access Crate for ra4m1 microcontrollers (generated using svd2rust) - [![crates.io](https://img.shields.io/crates/v/ra4m1.svg)](https://crates.io/crates/ra4m1)
+*   [`ra4m2`](https://github.com/ra-rs/ra/tree/main/pac/ra4m2) Peripheral Access Crate for ra4m2 microcontrollers (generated using svd2rust) - [![crates.io](https://img.shields.io/crates/v/ra4m2.svg)](https://crates.io/crates/ra4m2)
+*   [`ra4m3`](https://github.com/ra-rs/ra/tree/main/pac/ra4m3) Peripheral Access Crate for ra4m3 microcontrollers (generated using svd2rust) - [![crates.io](https://img.shields.io/crates/v/ra4m3.svg)](https://crates.io/crates/ra4m3)
+*   [`ra4w1`](https://github.com/ra-rs/ra/tree/main/pac/ra4w1) Peripheral Access Crate for ra4w1 microcontrollers (generated using svd2rust) - [![crates.io](https://img.shields.io/crates/v/ra4w1.svg)](https://crates.io/crates/ra4w1)
+*   [`ra6e1`](https://github.com/ra-rs/ra/tree/main/pac/ra6e1) Peripheral Access Crate for ra6e1 microcontrollers (generated using svd2rust) - [![crates.io](https://img.shields.io/crates/v/ra6e1.svg)](https://crates.io/crates/ra6e1)
+*   [`ra6m1`](https://github.com/ra-rs/ra/tree/main/pac/ra6m1) Peripheral Access Crate for ra6m1 microcontrollers (generated using svd2rust) - [![crates.io](https://img.shields.io/crates/v/ra6m1.svg)](https://crates.io/crates/ra6m1)
+*   [`ra6m2`](https://github.com/ra-rs/ra/tree/main/pac/ra6m2) Peripheral Access Crate for ra6m2 microcontrollers (generated using svd2rust) - [![crates.io](https://img.shields.io/crates/v/ra6m2.svg)](https://crates.io/crates/ra6m2)
+*   [`ra6m3`](https://github.com/ra-rs/ra/tree/main/pac/ra6m3) Peripheral Access Crate for ra6m3 microcontrollers (generated using svd2rust) - [![crates.io](https://img.shields.io/crates/v/ra6m3.svg)](https://crates.io/crates/ra6m3)
+*   [`ra6m4`](https://github.com/ra-rs/ra/tree/main/pac/ra6m4) Peripheral Access Crate for ra6m4 microcontrollers (generated using svd2rust) - [![crates.io](https://img.shields.io/crates/v/ra6m4.svg)](https://crates.io/crates/ra6m4)
+*   [`ra6t1`](https://github.com/ra-rs/ra/tree/main/pac/ra6t1) Peripheral Access Crate for ra6t1 microcontrollers (generated using svd2rust) - [![crates.io](https://img.shields.io/crates/v/ra6t1.svg)](https://crates.io/crates/ra6t1)
+*   [`ra6t2`](https://github.com/ra-rs/ra/tree/main/pac/ra6t2) Peripheral Access Crate for ra6t2 microcontrollers (generated using svd2rust) - [![crates.io](https://img.shields.io/crates/v/ra6t2.svg)](https://crates.io/crates/ra6t2)
 
 ## [36. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 
@@ -494,24 +490,24 @@
 
 ### Web Frameworks / Bare metal / kernel development
 
-*   [Handy-Httpd (⭐28)](https://github.com/andrewlalis/handy-httpd) - A simple, lightweight, and well-documented HTTP server that lets you bootstrap ideas and have something up and running in minutes.
+*   [Handy-Httpd (⭐33)](https://github.com/andrewlalis/handy-httpd) - A simple, lightweight, and well-documented HTTP server that lets you bootstrap ideas and have something up and running in minutes.
 
 ### Data serialization / JSON
 
-*   [fast.json (⭐110)](https://github.com/etcimon/fast) -  A library for D that aims to provide the fastest possible implementation of some every day routines.
+*   [fast.json (⭐112)](https://github.com/etcimon/fast) -  A library for D that aims to provide the fastest possible implementation of some every day routines.
 
 ### Game Frameworks / XML
 
-*   [rengfx (⭐80)](https://github.com/bmchtech/rengfx) - lightweight, expressive, extensible 2D/3D game engine.
+*   [rengfx (⭐82)](https://github.com/bmchtech/rengfx) - lightweight, expressive, extensible 2D/3D game engine.
 
 ### Games / XML
 
-*   [Electronvolt (formerly Atrium) (⭐110)](https://github.com/gecko0307/electronvolt) - FPS game with physics based puzzles using OpenGL.
+*   [Electronvolt (formerly Atrium) (⭐112)](https://github.com/gecko0307/electronvolt) - FPS game with physics based puzzles using OpenGL.
 
 ### Machine Learning / XML
 
-*   [grain2 (⭐6)](https://github.com/ShigekiKarita/grain2) - Autograd and GPGPU library for dynamic neural networks in D
-*   [tfd (⭐30)](https://github.com/ShigekiKarita/tfd) -  Tensorflow wrapper for D
+*   [grain2 (⭐7)](https://github.com/ShigekiKarita/grain2) - Autograd and GPGPU library for dynamic neural networks in D
+*   [tfd (⭐31)](https://github.com/ShigekiKarita/tfd) -  Tensorflow wrapper for D
 
 ## [37. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
 
@@ -546,7 +542,7 @@
 
 ### Templates / React
 
-*   [vite-react-ts-template (⭐75)](https://github.com/bartstc/vite-ts-react-template) - React 18, TypeScript, ESlint, Prettier, Dev Container, Vitest, Storybook, Playwright, MSW, React Router 6, React Query, Chakra UI, Zustand.
+*   [vite-react-ts-template (⭐89)](https://github.com/bartstc/vite-ts-react-template) - React 18, TypeScript, ESlint, Prettier, Dev Container, Vitest, Storybook, Playwright, MSW, React Router 6, React Query, Chakra UI, Zustand.
 
 ## [40. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
 
@@ -558,7 +554,7 @@
 
 ### Tools / Development
 
-*   [migrate-mongo (⭐915)](https://github.com/seppevs/migrate-mongo) - Database migration tool
+*   [migrate-mongo (⭐947)](https://github.com/seppevs/migrate-mongo) - Database migration tool
 
 ## [42. Awesome Plone](/content/collective/awesome-plone/week/README.md)
 
@@ -592,7 +588,7 @@
 
 ### Advanced Console UIs
 
-*   [go-palette (⭐16)](https://github.com/abusomani/go-palette) - Go library that provides elegant and convenient style definitions using ANSI colors. Fully compatible & wraps the [fmt library](https://pkg.go.dev/fmt) for nice terminal layouts.
+*   [go-palette (⭐18)](https://github.com/abusomani/go-palette) - Go library that provides elegant and convenient style definitions using ANSI colors. Fully compatible & wraps the [fmt library](https://pkg.go.dev/fmt) for nice terminal layouts.
 
 ### JSON
 
@@ -600,11 +596,11 @@
 
 ### Third-party APIs
 
-*   [openaigo (⭐287)](https://github.com/otiai10/openaigo) - OpenAI GPT3/GPT3.5 ChatGPT API client library for Go.
+*   [openaigo (⭐290)](https://github.com/otiai10/openaigo) - OpenAI GPT3/GPT3.5 ChatGPT API client library for Go.
 
 ### Go Generate Tools / Libraries for creating HTTP middlewares
 
-*   [options-gen (⭐76)](https://github.com/kazhuravlev/options-gen) - Functional options described by Dave Cheney's post "Functional options for friendly APIs".
+*   [options-gen (⭐82)](https://github.com/kazhuravlev/options-gen) - Functional options described by Dave Cheney's post "Functional options for friendly APIs".
 
 ## [46. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
@@ -633,19 +629,19 @@
 ### How-to guides
 
 *   [How to persist Tailscale tunnel in QubesOS  (⭐2)](https://github.com/kennethrrosen/tailscale_QubesOS) - Tailscale is a mesh private network that lets you easily manage access to private resources or quickly SSH into devices on your network.
-*   [How to use Qubes for journalists and Humans Rights Defenders (⭐14)](https://github.com/kennethrrosen/journoSEC) - A suite of tools for improving and streamlining the use of Qubes OS for reporters, edtiors, lawyers and aid workers. Work in progress.
+*   [How to use Qubes for journalists and Humans Rights Defenders (⭐17)](https://github.com/kennethrrosen/journoSEC) - A suite of tools for improving and streamlining the use of Qubes OS for reporters, edtiors, lawyers and aid workers. Work in progress.
     *   [PAM distress login for xscreensaver](https://github.com/kennethrrosen/qubes-PAM-distress-login/) - A simple setup for sending a distress email if forced to login to desktop beyond LUKS passwords.
-    *   [Automated Arkenfox Qubes browser install (⭐14)](https://github.com/kennethrrosen/journoSEC/tree/main/mozilla/arkenfox) - Arkenfox config install for journalists
+    *   [Automated Arkenfox Qubes browser install (⭐17)](https://github.com/kennethrrosen/journoSEC/tree/main/mozilla/arkenfox) - Arkenfox config install for journalists
 
 ## [49. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
 
 ### Miscellaneous / React
 
-*   [graphql-armor (⭐487)](https://github.com/Escape-Technologies/graphql-armor) - An instant security layer for production GraphQL Endpoints.
+*   [graphql-armor (⭐507)](https://github.com/Escape-Technologies/graphql-armor) - An instant security layer for production GraphQL Endpoints.
 
 ### Python / React
 
-*   [sgqlc (⭐507)](https://github.com/profusion/sgqlc) - Simple GraphQL Client makes working with GraphQL API responses easier in Python.
+*   [sgqlc (⭐523)](https://github.com/profusion/sgqlc) - Simple GraphQL Client makes working with GraphQL API responses easier in Python.
 
 ---
 

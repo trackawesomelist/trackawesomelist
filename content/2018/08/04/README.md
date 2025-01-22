@@ -10,13 +10,12 @@
 
 ### Reading and Writing Tools / Text Editors
 
-*   [Sublime Text](http://www.sublimetext.com/3) - Sophisticated text editor for code, markup and prose. You'll love the slick user interface, extraordinary features and amazing performance, [Sublime Text Plugins](https://github.com/jaywcjlove/awesome-mac/blob/master/README.md/editor-plugin.md#sublime-text-plugin). [![Awesome List](https://jaywcjlove.github.io/sb/ico/min-awesome.svg "Awesome List")](https://github.com/dreikanter/sublime-bookmarks#readme)
-*   [Vim](http://www.vim.org/) - Highly configurable text editor built to make creating and changing any kind of text very efficient, [Vim Plugins](https://github.com/jaywcjlove/awesome-mac/blob/master/README.md/editor-plugin.md#vim-plugin). [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/vim/vim) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![Awesome List](https://jaywcjlove.github.io/sb/ico/min-awesome.svg "Awesome List")](https://github.com/mhinz/vim-galore#readme)
+*   [Sublime Text](http://www.sublimetext.com/3) - A popular, clean, and sleek editor with a plugin management system. For more plugins, check [Sublime Text Plugins](https://github.com/jaywcjlove/awesome-mac/blob/master/README.md/editor-plugin-zh.md#sublime-text-plugin). [![Awesome List](https://jaywcjlove.github.io/sb/ico/min-awesome.svg "Awesome List")](https://github.com/dreikanter/sublime-bookmarks#readme)
+*   [Vim](http://www.vim.org/) - An old terminal-based editor. For common plugins, check [Vim Common Plugins](https://github.com/jaywcjlove/awesome-mac/blob/master/README.md/editor-plugin-zh.md#vim-plugin). [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/vim/vim) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![Awesome List](https://jaywcjlove.github.io/sb/ico/min-awesome.svg "Awesome List")](https://github.com/mhinz/vim-galore#readme)
 
 ### Developer Tools / IDEs
 
 *   [Android Studio](https://developer.android.com/studio/index.html) - The official IDE for Android, based on Intellij IDEA. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](http://tools.android.com/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![Awesome List](https://jaywcjlove.github.io/sb/ico/min-awesome.svg "Awesome List")](https://github.com/balsikandar/Android-Studio-Plugins#readme)
-*   [Xamarin Studio](https://www.visualstudio.com/vs/visual-studio-mac/) - Free cross platform C# IDE. Xamarin Studio supports iOS, Android and .Net development [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/mono/monodevelop) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![Awesome List](https://jaywcjlove.github.io/sb/ico/min-awesome.svg "Awesome List")](https://github.com/benoitjadinon/awesome-xamarin#readme)
 
 ### Browsers / Audio Record and Process
 

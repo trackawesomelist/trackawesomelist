@@ -10,35 +10,35 @@
 
 ### MVC Frameworks and Libraries / Runner
 
-*   [Adonis (⭐16k)](https://github.com/adonisjs/core) - The Node.js Framework highly focused on developer ergonomics, stability and confidence.
-*   [GrapesJS (⭐21k)](https://github.com/artf/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding.
-*   [Rete.js (⭐9.8k)](https://github.com/retejs/rete) - A modular framework for visual programming allows to create node based editor in browser.
-*   [litegraph.js (⭐5.7k)](https://github.com/jagenjo/litegraph.js) - A graph node engine and editor similar to PD or UDK Blueprints, comes with its own editor in HTML5 Canvas2D.
-*   [Drawflow (⭐4.5k)](https://github.com/jerosoler/Drawflow) - This allow you to create data flows easily and quickly.
+*   [Adonis (⭐17k)](https://github.com/adonisjs/core) - The Node.js Framework highly focused on developer ergonomics, stability and confidence.
+*   [GrapesJS (⭐22k)](https://github.com/artf/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding.
+*   [Rete.js (⭐10k)](https://github.com/retejs/rete) - A modular framework for visual programming allows to create node based editor in browser.
+*   [litegraph.js (⭐6.5k)](https://github.com/jagenjo/litegraph.js) - A graph node engine and editor similar to PD or UDK Blueprints, comes with its own editor in HTML5 Canvas2D.
+*   [Drawflow (⭐4.6k)](https://github.com/jerosoler/Drawflow) - This allow you to create data flows easily and quickly.
 *   [Blockly (⭐12k)](https://github.com/google/blockly) - A library that adds a visual code editor to web and mobile apps by Google.
 
 ### Data Visualization / Runner
 
 *   [metrics-graphics (⭐7.5k)](https://github.com/mozilla/metrics-graphics) - A library optimized for concise, principled data graphics and layouts.
 *   [visjs](https://github.com/visjs) - Multiple Libraries for dynamic, browser-based data visualization.
-*   [Cytoscape.js (⭐9.9k)](https://github.com/cytoscape/cytoscape.js) - A fully featured graph theory library.
+*   [Cytoscape.js (⭐10k)](https://github.com/cytoscape/cytoscape.js) - A fully featured graph theory library.
 *   [cola.js](https://ialab.it.monash.edu/webcola/) - library for arranging your HTML5 documents and diagrams using constraint-based optimization techniques
-*   [jointjs (⭐4.5k)](https://github.com/clientIO/joint) - Diagramming library to create static diagrams or fully interactive diagramming tools.
+*   [jointjs (⭐4.6k)](https://github.com/clientIO/joint) - Diagramming library to create static diagrams or fully interactive diagramming tools.
 
 ### Data Structure / Runner
 
-*   [ngraph.graph (⭐513)](https://github.com/anvaka/ngraph.graph) - Graph data structure in javascript.
+*   [ngraph.graph (⭐518)](https://github.com/anvaka/ngraph.graph) - Graph data structure in javascript.
 
 ### Storage / Runner
 
 *   [pouchdb (⭐17k)](https://github.com/pouchdb/pouchdb) - Javascript db inspired by Apache CouchDB to run well within the browser.
-*   [datavore (⭐248)](https://github.com/StanfordHCI/datavore) - A small, fast, in-browser database engine written in JavaScript.
+*   [datavore (⭐247)](https://github.com/StanfordHCI/datavore) - A small, fast, in-browser database engine written in JavaScript.
 *   [Hoodie (⭐4.4k)](https://github.com/hoodiehq/hoodie) - Offline First backend to work in browser without internet connectivity.
 *   [NeDB (⭐13k)](https://github.com/louischatriot/nedb) - Embedded Persistent database for Browsers, nw\.js, electron.
 
 ### Operating System / Runner
 
-*   [os.js (⭐6.8k)](https://github.com/os-js/OS.js) - An open-source web desktop platform with a window manager, application APIs, GUI toolkit, filesystem abstractions and much more.
+*   [os.js (⭐6.9k)](https://github.com/os-js/OS.js) - An open-source web desktop platform with a window manager, application APIs, GUI toolkit, filesystem abstractions and much more.
 
 ### Form Widgets / Calendar
 
@@ -46,18 +46,18 @@
 
 ### Form Widgets / Other
 
-*   [dat.GUI (⭐7.4k)](https://github.com/dataarts/dat.gui) - A lightweight gui controller for changing variables in JavaScript.
+*   [dat.GUI (⭐7.5k)](https://github.com/dataarts/dat.gui) - A lightweight gui controller for changing variables in JavaScript.
 
 ### Modals and Popups / Other
 
 *   [SweetAlert2 (⭐17k)](https://github.com/sweetalert2/sweetalert2) - An awesome replacement for JavaScript's alert.
-*   [screenfull.js (⭐7k)](https://github.com/sindresorhus/screenfull.js) - the JavaScript Fullscreen API, which lets you bring the page or any element into fullscreen. Smoothens out the browser implementation differences, so you don't have to.
+*   [screenfull.js (⭐7.1k)](https://github.com/sindresorhus/screenfull.js) - the JavaScript Fullscreen API, which lets you bring the page or any element into fullscreen. Smoothens out the browser implementation differences, so you don't have to.
 
 ### Scroll / Other
 
 *   [asscroll (⭐947)](https://github.com/ashthornton/asscroll) - A hybrid smooth scroll setup that combines the performance gains of virtual scroll with the reliability of native scroll.
 *   [stroll (⭐4.4k)](https://github.com/hakimel/stroll.js) - A collection of CSS List scroll effects bind to dom through javascript.
-*   [locomotive-scroll (⭐7.6k)](https://github.com/locomotivemtl/locomotive-scroll) - Detects the elements in viewport and smooth scrolling with parallax.
+*   [locomotive-scroll (⭐7.7k)](https://github.com/locomotivemtl/locomotive-scroll) - Detects the elements in viewport and smooth scrolling with parallax.
 *   [elevator.js (⭐6.6k)](https://github.com/tholman/elevator.js) - Finally, a "back to top" button that behaves like a real elevator.
 
 ### Images / Other
@@ -68,21 +68,21 @@
 
 ### Maps / Other
 
-*   [H3js (⭐4.7k)](https://github.com/uber/h3) - Hexagonal hierarchical geospatial indexing system ported to javascript by Uber for geospatial visualization.
+*   [H3js (⭐4.8k)](https://github.com/uber/h3) - Hexagonal hierarchical geospatial indexing system ported to javascript by Uber for geospatial visualization.
 
 ### Video/Audio / Other
 
 *   [ts-audio (⭐312)](https://github.com/EvandroLG/ts-audio) - an agnostic and easy-to-use library to work with the `AudioContext` API.
-*   [ractive-player (⭐749)](https://github.com/ysulyma/ractive-player) - A library for making interactive videos in React.js.
-*   [ffmpeg.js (⭐3.2k)](https://github.com/Kagami/ffmpeg.js) - FFmpeg optimized for in-browser use: minimal size for faster loading, asm.js, performance tunings, etc.
+*   [ractive-player (⭐754)](https://github.com/ysulyma/ractive-player) - A library for making interactive videos in React.js.
+*   [ffmpeg.js (⭐3.3k)](https://github.com/Kagami/ffmpeg.js) - FFmpeg optimized for in-browser use: minimal size for faster loading, asm.js, performance tunings, etc.
 *   [flv.js (⭐23k)](https://github.com/bilibili/flv.js) - An HTML5 Flash Video (FLV) Player written in pure JavaScript without Flash.
-*   [hls.js (⭐14k)](https://github.com/video-dev/hls.js) -  A JavaScript library that implements an HTTP Live Streaming client. It relies on HTML5 video and MediaSource Extensions for playback.
+*   [hls.js (⭐15k)](https://github.com/video-dev/hls.js) -  A JavaScript library that implements an HTTP Live Streaming client. It relies on HTML5 video and MediaSource Extensions for playback.
 
 ### Animations / Other
 
 *   [Effeckt.css (⭐11k)](https://github.com/h5bp/Effeckt.css) - A Performant Transitions and Animations Library.
 *   [shuffle-images (⭐212)](https://github.com/peachananr/shuffle-images) - The Simplest Way to shuffle through images in a Creative Way.
-*   [tsParticles (⭐7.3k)](https://github.com/matteobruni/tsparticles) - A new and improved version of particles.js with bug fixes and many new features.
+*   [tsParticles (⭐7.5k)](https://github.com/matteobruni/tsparticles) - A new and improved version of particles.js with bug fixes and many new features.
 *   [barbajs (⭐12k)](https://github.com/barbajs/barba) - It helps you create fluid and smooth transitions between your website's pages.
 *   [typicaljs (⭐1.6k)](https://github.com/camwiegert/typical) - Animated typing in \~400 bytes 🐡 of JavaScript
 
@@ -98,9 +98,9 @@
 
 ### Misc / Other
 
-*   [BitSet.js (⭐219)](https://github.com/infusion/BitSet.js) - A JavaScript Bit-Vector implementation.
+*   [BitSet.js (⭐221)](https://github.com/infusion/BitSet.js) - A JavaScript Bit-Vector implementation.
 *   [Array Explorer (⭐2.6k)](https://github.com/sdras/array-explorer) and [Object Explorer](https://objectexplorer.netlify.app/) - Resources to help figure out what native JavaScript method would be best to use at any given time.
-*   [Fcal (⭐107)](https://github.com/5anthosh/fcal) -  Math expression evaluator.
+*   [Fcal (⭐109)](https://github.com/5anthosh/fcal) -  Math expression evaluator.
 *   [emoji-button (⭐1.2k)](https://github.com/joeattardi/emoji-button) - Vanilla JavaScript emoji picker component.
 *   [Peg.js (⭐4.8k)](https://github.com/pegjs/pegjs) - A simple parser generator for JavaScript that produces fast parsers with excellent error reporting. Usable from your browser, from the command line, or via JavaScript API.
 *   [lune (⭐116)](https://github.com/ryanseys/lune) - Library to calculate the phases of the moon accurately.
@@ -126,9 +126,9 @@ Free (Open Source)
 
 ## [4. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
-### Plugins and scripts / Various Godot versions
+### Plugins and scripts / Godot 3
 
-*   [obs-websocket-gd (⭐85)](https://github.com/you-win/obs-websocket-gd) - Script and editor plugin to control Open Broadcaster Software from Godot via obs-websocket (Godot 3.x).
+*   [obs-websocket-gd (⭐90)](https://github.com/you-win/obs-websocket-gd) - Script and editor plugin to control Open Broadcaster Software from Godot via obs-websocket.
 
 ## [5. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 
@@ -148,7 +148,7 @@ Free (Open Source)
 
 ### Bonus / Game Engine resources
 
-*   [Awesome Flutter Linux (⭐168)](https://github.com/jpnurmi/awesome-flutter-linux) - A curated list of awesome Linux-specific Flutter packages and projects by [J-P Nurmi](https://twitter.com/jpnurmi)
+*   [Awesome Flutter Linux (⭐185)](https://github.com/jpnurmi/awesome-flutter-linux) - A curated list of awesome Linux-specific Flutter packages and projects by [J-P Nurmi](https://twitter.com/jpnurmi)
 
 ## [7. Awesome](/content/craftcms/awesome/README.md)
 
@@ -170,7 +170,7 @@ Free (Open Source)
 
 ### Tools & Software / Acquisition
 
-*   [Wayback (⭐1.7k)](https://github.com/wabarc/wayback) - A toolkit for snapshot webpage to Internet Archive, archive.today, IPFS and beyond. *(Stable)*
+*   [Wayback (⭐1.9k)](https://github.com/wabarc/wayback) - A toolkit for snapshot webpage to Internet Archive, archive.today, IPFS and beyond. *(Stable)*
 
 ## [10. Awesome Fantasy](/content/RichardLitt/awesome-fantasy/README.md)
 
@@ -186,13 +186,13 @@ Free (Open Source)
 
 ### Extensions / Community
 
-*   [Editor.js Interface (⭐179)](https://github.com/dimitrov-adrian/directus-extension-editorjs-interface) - Block editor (Editor.js) interface for Directus 9.
+*   [Editor.js Interface (⭐182)](https://github.com/dimitrov-adrian/directus-extension-editorjs-interface) - Block editor (Editor.js) interface for Directus 9.
 
 ## [12. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Modules / Utils
 
-*   [optionals (⭐176)](https://github.com/OliverBrotchie/optionals) - Rust-like error handling and options with exhaustive pattern matching.
+*   [optionals (⭐178)](https://github.com/OliverBrotchie/optionals) - Rust-like error handling and options with exhaustive pattern matching.
 
 ## [13. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
@@ -220,7 +220,7 @@ Free (Open Source)
 *   [Regression, a Friendly guide](https://www.manning.com/books/regression-a-friendly-guide) - Early Access
 *   [Deep Learning](https://www.deeplearningbook.org/)
 
-### Comics / Book Deals (Affiliated) 🛍
+### Comics / Book Deals (Affiliated)
 
 *   [Comic compilation](https://medium.com/@nikhil_garg/a-compilation-of-comics-explaining-statistics-data-science-and-machine-learning-eeefbae91277)
 *   [Cartoons](https://www.kdnuggets.com/websites/cartoons.html)
@@ -292,7 +292,7 @@ Free (Open Source)
 
   CORS: Yes
 
-  Call this API: 
+  : 
 
 
 
@@ -417,7 +417,7 @@ Free (Open Source)
 
 ### Miscellaneous / Development and testing
 
-*   [sixel-tmux (⭐470)](https://github.com/csdvrx/sixel-tmux) a fork of tmux, with just one goal: having the most reliable support of graphics
+*   [sixel-tmux (⭐478)](https://github.com/csdvrx/sixel-tmux) a fork of tmux, with just one goal: having the most reliable support of graphics
 
 ---
 

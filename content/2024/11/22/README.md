@@ -16,13 +16,13 @@
 
 ### Authentication and OAuth
 
-*   [goiabada (⭐134)](https://github.com/leodip/goiabada) - An open-source authentication and authorization server supporting OAuth2 and OpenID Connect.
+*   [goiabada (⭐141)](https://github.com/leodip/goiabada) - An open-source authentication and authorization server supporting OAuth2 and OpenID Connect.
 
 ## [3. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Security
 
-*   [Annual Security Reports (⭐336)](https://github.com/jacobdjwilson/awesome-annual-security-reports#readme) - Exploring cybersecurity trends, insights, and challenges.
+*   [Annual Security Reports (⭐364)](https://github.com/jacobdjwilson/awesome-annual-security-reports#readme) - Exploring cybersecurity trends, insights, and challenges.
 
 ## [4. Awesome Opentofu](/content/virtualroot/awesome-opentofu/README.md)
 
@@ -43,7 +43,7 @@
 
 ### Utilities / Productivity
 
-*   [escrcpy (⭐2.6k)](https://github.com/viarotel-org/escrcpy) -📱 Graphical Scrcpy to display and control Android, devices powered by Electron.[![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/viarotel-org/escrcpy) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [escrcpy (⭐3.6k)](https://github.com/viarotel-org/escrcpy) -📱 Graphical Scrcpy to display and control Android, devices powered by Electron.[![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/viarotel-org/escrcpy) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / Window Management
 
@@ -53,7 +53,7 @@
 
 ### Tools
 
-*   [Mage (⭐10)](https://github.com/GrimLink/mage) - Simplifies bin/magento commands by adding helpful shortcuts and time-saving tools to enhance your productivity.
+*   [Mage (⭐12)](https://github.com/GrimLink/mage) - Simplifies bin/magento commands by adding helpful shortcuts and time-saving tools to enhance your productivity.
 
 ## [7. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
@@ -66,7 +66,6 @@
 ### SaaS
 
 *   [Appwrite](https://appwrite.io/education) \[FREE] - Appwrite is an open-source Backend-as-a-Service platform for building web, mobile, native, or backend apps.  Free access to Appwrite Pro (worth $15/month) throughout your student career (i.e., as long as you remain a member of the GitHub Student Developer Pack).
-*   [StreamYard](https://streamyard.com/github-students) \[FREE] - New Relic is an observability platform that helps fully understand how to improve your software. Free New Relic while you are a student. ($300/month value).
 *   [Bump.sh](https://bump.sh/students) \[FREE] - Publish and keep API docs up-to-date from OpenAPI and AsyncAPI files stored in your GitHub repo. Free use of the Standard plan, worth $149/month, as long as you are a GitHub Student.
 *   [Doppler](https://doppler.com/lp/secretsops-for-students) \[FREE] - A different way to manage secrets. From local development to production, we work on every stack, scaling with you as your team and products grow. Free Doppler Team subscription while the user is an active student.
 
@@ -92,7 +91,7 @@
 
 ### General / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-focus-entities (⭐2)](https://github.com/klee-contrib/ngx-focus-entities) - Library for generating reactive Angular forms from a Focus4 representation generated with [TopModel (⭐11)](https://github.com/klee-contrib/topmodel).
+*   [ngx-focus-entities (⭐2)](https://github.com/klee-contrib/ngx-focus-entities) - Library for generating reactive Angular forms from a Focus4 representation generated with [TopModel (⭐12)](https://github.com/klee-contrib/topmodel).
 
 ## [10. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
@@ -102,4 +101,5 @@
 
 ---
 
+- Prev: [Nov 23, 2024](/content/2024/11/23/README.md)
 - Next: [Nov 21, 2024](/content/2024/11/21/README.md)

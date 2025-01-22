@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 16 - Dec 22, 2019
 
-55 awesome lists updated this week.
+54 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -22,22 +22,22 @@
 
 ### React Tutorials
 
-*   [Cheatsheets for experienced React developers getting started with TypeScript (⭐44k)](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
+*   [Cheatsheets for experienced React developers getting started with TypeScript (⭐46k)](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
 
 ### React Awesome Components
 
-*   [react-archer (⭐1.1k)](https://github.com/pierpo/react-archer) - Draw arrows between React elements
+*   [react-archer (⭐1.2k)](https://github.com/pierpo/react-archer) - Draw arrows between React elements
 
 ### React Real Apps
 
-*   [kibana (⭐19k)](https://github.com/elastic/kibana) - Your window into the Elastic Stack
-*   [overreacted (⭐7k)](https://github.com/gaearon/overreacted.io) - Personal blog by Dan Abramov
+*   [kibana (⭐20k)](https://github.com/elastic/kibana) - Your window into the Elastic Stack
+*   [overreacted (⭐7.1k)](https://github.com/gaearon/overreacted.io) - Personal blog by Dan Abramov
 
 ## [4. Awesome Music](/content/ciconia/awesome-music/week/README.md)
 
 ### Music Notation
 
-*   [Digital Music Stand (⭐31)](https://github.com/PatWie/digitalmusicstand) - a free web app for displaying sheet music.
+*   [Digital Music Stand (⭐33)](https://github.com/PatWie/digitalmusicstand) - a free web app for displaying sheet music.
 
 ## [5. Awesome Wordpress Gatsby](/content/henrikwirth/awesome-wordpress-gatsby/week/README.md)
 
@@ -48,7 +48,7 @@
 
 ## [6. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
-### Courses
+### Courses / Commerical Tools
 
 *   [Essential Natural Language Processing](https://www.manning.com/books/essential-natural-language-processing) - A hands-on guide to NLP with practical techniques, numerous Python-based examples and real-world case studies.
 
@@ -62,13 +62,13 @@
 
 ### Miscellaneous
 
-*   [IUP (⭐136)](https://github.com/lispnik/iup/) - CFFI bindings to the [IUP](https://www.tecgraf.puc-rio.br/iup/) Portable User Interface library (pre-ALPHA).
+*   [IUP (⭐138)](https://github.com/lispnik/iup/) - CFFI bindings to the [IUP](https://www.tecgraf.puc-rio.br/iup/) Portable User Interface library (pre-ALPHA).
     *   IUP is cross-platform (Windows, macOS, GNU/Linux, with new Android, iOs, Cocoa and Web Assembly drivers), has many widgets, has a small api and is actively developed.
     *   has a web view.
 
 ### Mobile
 
-*   [rutils (⭐247)](https://github.com/vseloved/rutils) - radical yet reasonable syntactic utilities for Common Lisp. [MIT](https://opensource.org/licenses/MIT).
+*   [rutils (⭐252)](https://github.com/vseloved/rutils) - radical yet reasonable syntactic utilities for Common Lisp. [MIT](https://opensource.org/licenses/MIT).
 
 ## [9. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
@@ -114,7 +114,7 @@
 
 ### Dead
 
-*   [CloudBank (⭐31)](https://github.com/omgbbqhaxx/cloudbankproject) First ever POWWT (Proof of work with time) consensus algorithm crypto currency with python without fee all miners share constant reward between them.
+*   [CloudBank (⭐32)](https://github.com/omgbbqhaxx/cloudbankproject) First ever POWWT (Proof of work with time) consensus algorithm crypto currency with python without fee all miners share constant reward between them.
 
 ## [11. Awesome Css Learning](/content/micromata/awesome-css-learning/week/README.md)
 
@@ -142,9 +142,9 @@
 
 ## [13. Awesome Spark](/content/awesome-spark/awesome-spark/week/README.md)
 
-### Packages / Testing
+### Packages / Data quality
 
-*   [deequ (⭐2.7k)](https://github.com/awslabs/deequ) <img src="https://img.shields.io/github/last-commit/awslabs/deequ.svg"> - Deequ is a library built on top of Apache Spark for defining "unit tests for data", which measure data quality in large datasets.
+*   [deequ (⭐3.3k)](https://github.com/awslabs/deequ) <img src="https://img.shields.io/github/last-commit/awslabs/deequ.svg"> - Deequ is a library built on top of Apache Spark for defining "unit tests for data", which measure data quality in large datasets.
 
 ## [14. Awesome Katas](/content/gamontal/awesome-katas/week/README.md)
 
@@ -212,7 +212,7 @@
 
 ### Packages / Testing
 
-*   [nve (⭐693)](https://github.com/ehmicky/nve) - Run any command on multiple versions of Node.js locally.
+*   [nve (⭐694)](https://github.com/ehmicky/nve) - Run any command on multiple versions of Node.js locally.
 
 ## [20. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
@@ -224,7 +224,7 @@
 
 ### Front-End Development
 
-*   [Seed (⭐213)](https://github.com/seed-rs/awesome-seed-rs#readme) - Rust framework for creating web apps running in WebAssembly.
+*   [Seed (⭐214)](https://github.com/seed-rs/awesome-seed-rs#readme) - Rust framework for creating web apps running in WebAssembly.
 
 ## [22. Awesome Video](/content/krzemienski/awesome-video/week/README.md)
 
@@ -359,14 +359,14 @@
 
 ### Job Scheduling / Text-Based User Interfaces
 
-*   [Quartz (⭐6.2k)](https://github.com/quartz-scheduler/quartz) - Feature-rich, open source job scheduling library that can be integrated within virtually any Java application.
-*   [Sundial (⭐267)](https://github.com/knowm/Sundial) - Lightweight framework to simply define jobs, define triggers and start the scheduler.
-*   [Wisp (⭐124)](https://github.com/Coreoz/Wisp) - Simple library with minimal footprint and straightforward API.
-*   [db-scheduler (⭐1.2k)](https://github.com/kagkarlsson/db-scheduler) - Persistent and cluster-friendly scheduler.
+*   [Quartz (⭐6.3k)](https://github.com/quartz-scheduler/quartz) - Feature-rich, open source job scheduling library that can be integrated within virtually any Java application.
+*   [Sundial (⭐269)](https://github.com/knowm/Sundial) - Lightweight framework to simply define jobs, define triggers and start the scheduler.
+*   [Wisp (⭐132)](https://github.com/Coreoz/Wisp) - Simple library with minimal footprint and straightforward API.
+*   [db-scheduler (⭐1.3k)](https://github.com/kagkarlsson/db-scheduler) - Persistent and cluster-friendly scheduler.
 
 ### PDF / Text-Based User Interfaces
 
-*   [OpenPDF (⭐3.4k)](https://github.com/LibrePDF/OpenPDF) - Open-source iText fork. (LGPL-3.0-only & MPL-2.0)
+*   [OpenPDF (⭐3.6k)](https://github.com/LibrePDF/OpenPDF) - Open-source iText fork. (LGPL-3.0-only & MPL-2.0)
 
 ### Testing / Matchers
 
@@ -398,28 +398,28 @@
 
 ### General
 
-*   [Boxicons (⭐2.9k)](https://github.com/atisawd/boxicons#readme) - Simple vector iconset with 1000+ icons and 100+ logos. ([Website](https://boxicons.com/))
+*   [Boxicons (⭐3k)](https://github.com/atisawd/boxicons#readme) - Simple vector iconset with 1000+ icons and 100+ logos. ([Website](https://boxicons.com/))
 *   ICONSVG - Quick customizable SVG icons, easily customize strokes, ends, and joins of paths. ([Website](https://iconsvg.xyz))
 
 ## [37. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Chemistry
 
-*   [Reaktoro (⭐153)](https://github.com/reaktoro/reaktoro) - A computational framework in C++ and Python for modeling chemically reactive systems. \[LGPL] [website](https://reaktoro.org)
+*   [Reaktoro (⭐172)](https://github.com/reaktoro/reaktoro) - A computational framework in C++ and Python for modeling chemically reactive systems. \[LGPL] [website](https://reaktoro.org)
 
 ### CLI
 
-*   [indicators (⭐2.9k)](https://github.com/p-ranav/indicators/) - Activity indicators for Modern C++. \[MIT]
+*   [indicators (⭐3.1k)](https://github.com/p-ranav/indicators/) - Activity indicators for Modern C++. \[MIT]
 
 ### Math
 
-*   [autodiff (⭐1.6k)](https://github.com/autodiff/autodiff) - A modern, fast and expressive C++ library for automatic differentiation. \[MIT] [website](https://autodiff.github.io)
+*   [autodiff (⭐1.7k)](https://github.com/autodiff/autodiff) - A modern, fast and expressive C++ library for automatic differentiation. \[MIT] [website](https://autodiff.github.io)
 
 ## [38. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
 
 ### Configs / Configs by Well-Known Companies/Organizations
 
-*   [React App (⭐102k)](https://github.com/facebook/create-react-app/tree/master/packages/eslint-config-react-app) - Sharable config for [React](https://reactjs.org) projects.
+*   [React App (⭐103k)](https://github.com/facebook/create-react-app/tree/master/packages/eslint-config-react-app) - Sharable config for [React](https://reactjs.org) projects.
 
 ### Plugins / Practices and Specific ES Features
 
@@ -472,26 +472,20 @@
 
 *   [PPLM (⭐1.1k)](https://github.com/uber-research/PPLM) - Plug and Play Language Model implementation. Allows to steer topic and attributes of GPT-2 models.
 
-## [45. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
-
-### Entertainment / Social Media
-
-*   [tuir](https://gitlab.com/ajak/tuir) - Reddit TUI.
-
-## [46. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
+## [45. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 
 ### Contents / Shopping
 
-*   [Rapidinho (⭐195)](https://github.com/gdgluanda/rapidinho) - Unofficial delivery app for Rapidinho made by [GDG Luanda
+*   [Rapidinho (⭐199)](https://github.com/gdgluanda/rapidinho) - Unofficial delivery app for Rapidinho made by [GDG Luanda
     ](https://github.com/gdgluanda).
 
-## [47. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
+## [46. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
 ### Notifications and Messages / Code Coverage
 
 *   [Create an Outlook Calendar Event using Microsoft Graph (⭐10)](https://github.com/anoopt/ms-graph-create-event)
 
-## [48. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/week/README.md)
+## [47. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/week/README.md)
 
 ### Blog posts and opinions
 
@@ -503,20 +497,20 @@
 *   [M3DB (⭐4.7k)](https://github.com/m3db/m3) - Scalable long-term remote storage for Prometheus.
 *   [VictoriaMetrics (⭐11k)](https://github.com/VictoriaMetrics/VictoriaMetrics) - Cost-effective easy to operate remote storage for Prometheus.
 
-## [49. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
+## [48. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
 
 ### Utilities
 
 *   [BitKey](https://bitkey.io) - Live USB for airgapped transactions and Bitcoin swiss army knife.
 *   [Pycoin (⭐1.4k)](https://github.com/richardkiss/pycoin) - Python-based Bitcoin and alt-coin utility library.
-*   [bx (⭐596)](https://github.com/libbitcoin/libbitcoin-explorer) - Bitcoin Command Line Tool.
+*   [bx (⭐604)](https://github.com/libbitcoin/libbitcoin-explorer) - Bitcoin Command Line Tool.
 *   [txwatcher (⭐49)](https://github.com/tsileo/txwatcher) - A little Python utility that lets you monitor Bitcoin addresses through Blockchain Websocket API and perform custom callbacks.
-*   [hellobitcoin (⭐248)](https://github.com/prettymuchbryce/hellobitcoin) - A collection of simple programs which can generate bitcoin wallets, create and sign transactions, and send transactions over the bitcoin network.
-*   [HD Wallet Scanner (⭐24)](https://github.com/alexk111/HD-Wallet-Scanner) - Find all used addresses in your Bitcoin HD wallets bypassing gap limits.
+*   [hellobitcoin (⭐250)](https://github.com/prettymuchbryce/hellobitcoin) - A collection of simple programs which can generate bitcoin wallets, create and sign transactions, and send transactions over the bitcoin network.
+*   [HD Wallet Scanner (⭐31)](https://github.com/alexk111/HD-Wallet-Scanner) - Find all used addresses in your Bitcoin HD wallets bypassing gap limits.
 
 ### Blockchain API and Web services
 
-*   [Chainradar API (⭐4)](https://github.com/yasaricli/chainradar-api) - Blockchain Explorer API for Chainradar.
+*   [Chainradar API (⭐5)](https://github.com/yasaricli/chainradar-api) - Blockchain Explorer API for Chainradar.
 
 ### Blockchain Explorers
 
@@ -534,7 +528,7 @@
 
 ### Java Libraries
 
-*   [XChange (⭐3.8k)](https://github.com/knowm/XChange) - Library that provides a simple and consistent API for interacting with 50+ Bitcoin currency exchanges.
+*   [XChange (⭐3.9k)](https://github.com/knowm/XChange) - Library that provides a simple and consistent API for interacting with 50+ Bitcoin currency exchanges.
 
 ### Scala libraries
 
@@ -542,34 +536,34 @@
 
 ### .Net Libraries
 
-*   [BitcoinLib (⭐401)](https://github.com/cryptean/bitcoinlib) - The most complete, up-to-date, battle-tested .net Library and RPC Wrapper for Bitcoin and Altcoins in C#.
+*   [BitcoinLib (⭐405)](https://github.com/cryptean/bitcoinlib) - The most complete, up-to-date, battle-tested .net Library and RPC Wrapper for Bitcoin and Altcoins in C#.
 
 ### Playgrounds
 
-*   [Bitcoin IDE (⭐214)](https://github.com/siminchen/bitcoinIDE) - Bitcoin Script for dummies.
-*   [blockchain-demo (⭐5.1k)](https://github.com/anders94/blockchain-demo/) - A web-based demonstration of blockchain concepts.
+*   [Bitcoin IDE (⭐213)](https://github.com/siminchen/bitcoinIDE) - Bitcoin Script for dummies.
+*   [blockchain-demo (⭐5.4k)](https://github.com/anders94/blockchain-demo/) - A web-based demonstration of blockchain concepts.
 *   [Bitcoin Script Debugger (⭐56)](https://github.com/liuhongchao/bitcoin4s) - Visualize Bitcoin script execution for real transactions.
 
 ### Blockchain dump
 
 *   [WebBTC](http://dumps.webbtc.com/bitcoin/) - These are postgres database dumps of the bitcoin-ruby-blockchain database generated by webbtc.com.
-*   [BitcoinDatabaseGenerator (⭐121)](https://github.com/ladimolnar/BitcoinDatabaseGenerator) - A high performance data transfer tool that can be used to copy data from Bitcoin Core blockchain files to a SQL Server database.
-*   [Blockparser+SQL (⭐60)](https://github.com/mcdee/blockparser) - Fast, quick and dirty bitcoin blockchain parser.
-*   [BitcoinABE (⭐981)](https://github.com/bitcoin-abe/bitcoin-abe) - Abe: block browser for Bitcoin and similar currencies.
+*   [BitcoinDatabaseGenerator (⭐125)](https://github.com/ladimolnar/BitcoinDatabaseGenerator) - A high performance data transfer tool that can be used to copy data from Bitcoin Core blockchain files to a SQL Server database.
+*   [Blockparser+SQL (⭐61)](https://github.com/mcdee/blockparser) - Fast, quick and dirty bitcoin blockchain parser.
+*   [BitcoinABE (⭐980)](https://github.com/bitcoin-abe/bitcoin-abe) - Abe: block browser for Bitcoin and similar currencies.
 
 ### Full nodes
 
 *   [Bitcoin-ruby-node (⭐26)](https://github.com/mhanne/bitcoin-ruby-node) - bitcoin node based on bitcoin-ruby-blockchain.
-*   [Bitcore Node (⭐351)](https://github.com/bitpay/bitcore-node) - bitcoind linked to node.js by BitPay.
-*   [Bitcore (⭐4.8k)](https://github.com/bitpay/bitcore) - Formerly just a Nodejs library, now a full node.
+*   [Bitcore Node (⭐352)](https://github.com/bitpay/bitcore-node) - bitcoind linked to node.js by BitPay.
+*   [Bitcore (⭐4.9k)](https://github.com/bitpay/bitcore) - Formerly just a Nodejs library, now a full node.
 
 ### Read
 
 *   [Grokking Bitcoin](https://www.manning.com/books/grokking-bitcoin) - An in-depth technical book with rich illustrations.
 *   [Elliptic Curve Cryptography A Gentle Introduction](https://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/).
-*   [Bitcoin Programming with BitcoinJS and Bitcoin Core CLI (⭐160)](https://github.com/bitcoin-studio/Bitcoin-Programming-with-BitcoinJS).
-*   [Bitcoin Protocol Development Curriculum - Chaincode Labs (⭐610)](https://github.com/chaincodelabs/bitcoin-curriculum).
-*   [Lightning Network Protocol Development Curriculum - Chaincode Labs (⭐354)](https://github.com/chaincodelabs/lightning-curriculum).
+*   [Bitcoin Programming with BitcoinJS and Bitcoin Core CLI (⭐163)](https://github.com/bitcoin-studio/Bitcoin-Programming-with-BitcoinJS).
+*   [Bitcoin Protocol Development Curriculum - Chaincode Labs (⭐650)](https://github.com/chaincodelabs/bitcoin-curriculum).
+*   [Lightning Network Protocol Development Curriculum - Chaincode Labs (⭐365)](https://github.com/chaincodelabs/lightning-curriculum).
 *   [btcinformation.org / Developer Documentation](https://btcinformation.org/en/developer-documentation) - Find useful resources, guides and reference material for developers.
 
 ### Course
@@ -582,33 +576,29 @@
 *   [Practical Bitcoin Info - Google Sheets](https://docs.google.com/spreadsheets/d/1Z3Ofa4P8097VWV70Z_bMqIMladngvm-Ck24ot9TDNmw/).
 *   [A brief history of Bitcoin development...](https://www.youtube.com/watch?v=ZfFNce6CVsE)
 
-## [50. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
-
-### Table of Contents / Documentation
-
-*   [PHP Documentor 2 (⭐4.1k)](https://github.com/phpDocumentor/phpDocumentor) - A documentation generator.
+## [49. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Serverless
 
 *   [Laravel Vapor](https://vapor.laravel.com/) - A serverless deployment platform for Laravel, powered by AWS.
 
-## [51. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
+## [50. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
 ### Development Tools
 
 *   [Amazon Braket](https://aws.amazon.com/braket/) - Fully managed service providing a development environment to run quantum circuits on quantum simulators and computers.
 
-## [52. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
+## [51. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
 
 ### Other
 
-*   [cmake-language-server (⭐183)](https://github.com/regen100/cmake-language-server) - CMake Language Server Protocol Implementation. [`[MIT]`](https://opensource.org/licenses/MIT)
+*   [cmake-language-server (⭐324)](https://github.com/regen100/cmake-language-server) - CMake Language Server Protocol Implementation. [`[MIT]`](https://opensource.org/licenses/MIT)
 
-## [53. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [52. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Apple TV
 
-*   [Swift-GA-Tracker-for-Apple-tvOS (⭐81)](https://github.com/adswerve/Swift-GA-Tracker-for-Apple-tvOS) - Google Analytics tracker for Apple tvOS provides an easy integration of Google Analytics’ measurement protocol for Apple TV.
+*   [Swift-GA-Tracker-for-Apple-tvOS (⭐82)](https://github.com/adswerve/Swift-GA-Tracker-for-Apple-tvOS) - Google Analytics tracker for Apple tvOS provides an easy integration of Google Analytics’ measurement protocol for Apple TV.
 
 ### Layout
 
@@ -620,7 +610,7 @@
 
 ### Permissions
 
-*   [SPPermissions (⭐5.6k)](https://github.com/ivanvorobei/SPPermissions) - Ask permissions on Swift. Available List, Dialog & Native interface. Can check state permission.
+*   [SPPermissions (⭐5.7k)](https://github.com/ivanvorobei/SPPermissions) - Ask permissions on Swift. Available List, Dialog & Native interface. Can check state permission.
 
 ### Text
 
@@ -628,7 +618,7 @@
 
 ### UI
 
-*   [DrawerKit (⭐781)](https://github.com/babylonhealth/DrawerKit) - DrawerKit lets an UIViewController modally present another UIViewController in a manner similar to the way Apple's Maps app works.
+*   [DrawerKit (⭐783)](https://github.com/babylonhealth/DrawerKit) - DrawerKit lets an UIViewController modally present another UIViewController in a manner similar to the way Apple's Maps app works.
 
 ### Pull to Refresh
 
@@ -636,7 +626,7 @@
 
 ### TextField & TextView / Collection View Layout
 
-*   [CocoaTextField (⭐275)](https://github.com/edgar-zigis/CocoaTextField) - UITextField created according to the Material.IO guidelines of 2019.
+*   [CocoaTextField (⭐276)](https://github.com/edgar-zigis/CocoaTextField) - UITextField created according to the Material.IO guidelines of 2019.
 
 ### Tools / Collection View Layout
 
@@ -647,7 +637,7 @@
 
 *   [Swift Tutorials by Jameson Quave](https://jamesonquave.com/blog/tutorials/)
 
-## [54. Awesome Speakers](/content/karlhorky/awesome-speakers/week/README.md)
+## [53. Awesome Speakers](/content/karlhorky/awesome-speakers/week/README.md)
 
 ### Asia / Lebanon 🇱🇧
 
@@ -681,7 +671,7 @@ Topics: Virtual Reality, Web Image Processing\
 Topics: Elm, Visualizations\
 <https://twitter.com/tereza_sokol>
 
-## [55. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [54. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Data Formats
 
@@ -689,11 +679,11 @@ Topics: Elm, Visualizations\
 
 ### Framework Components
 
-*   [shrine.cr (⭐74)](https://github.com/jetrockets/shrine.cr) - File Attachment toolkit for Crystal applications. Heavily inspired by Shrine for Ruby
+*   [shrine.cr (⭐76)](https://github.com/jetrockets/shrine.cr) - File Attachment toolkit for Crystal applications. Heavily inspired by Shrine for Ruby
 
 ### Science and Data analysis
 
-*   [num.cr (⭐148)](https://github.com/crystal-data/num.cr) - Numerical computing library supporting N-Dimensional data
+*   [num.cr (⭐152)](https://github.com/crystal-data/num.cr) - Numerical computing library supporting N-Dimensional data
 
 ---
 

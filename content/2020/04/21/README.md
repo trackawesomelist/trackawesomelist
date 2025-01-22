@@ -16,17 +16,17 @@
 
 ### Plugins
 
-*   [tmux-tilish (⭐383)](https://github.com/jabirali/tmux-tilish) Turn tmux into a dynamic window manager with intuitive keybindings (inspired by i3wm/sway)
+*   [tmux-tilish (⭐419)](https://github.com/jabirali/tmux-tilish) Turn tmux into a dynamic window manager with intuitive keybindings (inspired by i3wm/sway)
 
 ## [3. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Modules / Utils
 
-*   [evt (⭐451)](https://github.com/garronej/evt) - Type safe replacement for EventEmitter.
+*   [evt (⭐454)](https://github.com/garronej/evt) - Type safe replacement for EventEmitter.
 
 ### Tools / XML
 
-*   [denoify (⭐920)](https://github.com/garronej/denoify) - For NPM module authors that would like to support Deno but do not want to write and maintain a port.
+*   [denoify (⭐928)](https://github.com/garronej/denoify) - For NPM module authors that would like to support Deno but do not want to write and maintain a port.
 
 ## [4. Game Datasets](/content/leomaurodesenv/game-datasets/README.md)
 
@@ -54,7 +54,7 @@
 
 ### Decentralized Systems
 
-*   [Waves (⭐80)](https://github.com/msmolyakov/awesome-waves#readme) - Open source blockchain platform and development toolset for Web 3.0 apps and decentralized solutions.
+*   [Waves (⭐81)](https://github.com/msmolyakov/awesome-waves#readme) - Open source blockchain platform and development toolset for Web 3.0 apps and decentralized solutions.
 
 ## [6. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
@@ -73,13 +73,13 @@
 
 ### Integrations
 
-*   [playwright-github-action (⭐327)](https://github.com/microsoft/playwright-github-action) - GitHub Action to install all the required dependencies.
+*   [playwright-github-action (⭐332)](https://github.com/microsoft/playwright-github-action) - GitHub Action to install all the required dependencies.
 
 ## [9. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
 
 ### Awesome Repositories
 
-- Repository: [Mainframe Hacking (⭐405)](https://github.com/samanL33T/Awesome-Mainframe-Hacking)
+- Repository: [Mainframe Hacking (⭐428)](https://github.com/samanL33T/Awesome-Mainframe-Hacking)
 
   Description: List of Awesome Mainframe Hacking/Pentesting Resources
 
@@ -129,12 +129,6 @@
 ### Resources / Community
 
 *   [VueJS Indonesia - Facebook Group \[Indonesian\]](https://www.facebook.com/groups/1675298779418239/)
-*   [VueJS Indonesia - Meetup Page \[Indonesian\]](https://www.meetup.com/Vuejs-Indonesia/)
-
-### Projects Using Vue.js / Open Source
-
-*   [Veniqa (⭐1.1k)](https://github.com/Viveckh/Veniqa) - An E-commerce solution with a shopping client and admin panel written in Vue.
-*   [tato music player (⭐68)](https://github.com/tatoMa/neteast-cloud-music-player) - A mobile first, handwritten, responsive web app for music fans written in Vue and Vuetify.
 
 ## [15. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
@@ -158,13 +152,13 @@
 
 ### Serialization
 
-*   [Ceras (⭐479)](https://github.com/rikimaru0345/Ceras) - Ceras is a binary serializer. It converts any object into a byte\[] and back. It goes above and beyond in terms of features, speed, and comfort. Supports reference loops, large/complicated inheritance chains, splitting objects into parts and more.
-*   [Protobuf.NET (⭐4.6k)](https://github.com/protobuf-net/protobuf-net) - Protocol buffers is the name of the binary serialization format used by Google for much of their data communications
+*   [Ceras (⭐489)](https://github.com/rikimaru0345/Ceras) - Ceras is a binary serializer. It converts any object into a byte\[] and back. It goes above and beyond in terms of features, speed, and comfort. Supports reference loops, large/complicated inheritance chains, splitting objects into parts and more.
+*   [Protobuf.NET (⭐4.7k)](https://github.com/protobuf-net/protobuf-net) - Protocol buffers is the name of the binary serialization format used by Google for much of their data communications
 
 ### Testing
 
-*   [SpecFlow (⭐2.2k)](https://github.com/SpecFlowOSS/SpecFlow) - Binding business requirements to .Net code
-*   [xUnit.net (⭐4.2k)](https://github.com/xunit/xunit) - A free, open source, community-focused unit testing tool for the .NET Framework.
+*   [SpecFlow](https://github.com/SpecFlowOSS/SpecFlow) - Binding business requirements to .Net code
+*   [xUnit.net (⭐4.3k)](https://github.com/xunit/xunit) - A free, open source, community-focused unit testing tool for the .NET Framework.
 *   [ReportPortal](https://reportportal.io) - AI-powered Test Automation Dashboard. Acquire, aggregate and analyze test reports to ascertain release health.
 
 ---

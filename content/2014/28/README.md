@@ -287,7 +287,7 @@
 
 ### Build tools, setup and CI
 
-*   [Lazybones (⭐615)](https://github.com/pledbrook/lazybones) - A simple project creation tool that uses packaged project templates.
+*   [Lazybones (⭐614)](https://github.com/pledbrook/lazybones) - A simple project creation tool that uses packaged project templates.
 
 ### IDE and Editor Support
 
@@ -297,15 +297,15 @@
 
 ### Web Frameworks
 
-*   [Grails (⭐445)](https://github.com/grails/grails) - A powerful web application framework based on the Groovy language
-*   [Gaelyk (⭐220)](https://github.com/gaelyk/gaelyk) - A lightweight Groovy toolkit for Google App Engine Java
+*   [Grails (⭐451)](https://github.com/grails/grails) - A powerful web application framework based on the Groovy language
+*   [Gaelyk (⭐221)](https://github.com/gaelyk/gaelyk) - A lightweight Groovy toolkit for Google App Engine Java
 *   [Glide (⭐53)](https://github.com/kdabir/glide) - Create awesome apps on Google App Engine in a snap
 *   [Ratpack (⭐1.9k)](https://github.com/ratpack/ratpack) - A toolkit for JVM web applications
 
 ### Database
 
 *   [Gmongo (⭐182)](https://github.com/poiati/gmongo) - A Groovy wrapper to the mongodb Java driver
-*   [Gstorm (⭐81)](https://github.com/kdabir/gstorm) - A simple ORM for simple databases and CSV files to be used in groovy scripts
+*   [Gstorm (⭐82)](https://github.com/kdabir/gstorm) - A simple ORM for simple databases and CSV files to be used in groovy scripts
 
 ### Rich Application
 
@@ -313,14 +313,14 @@
 
 ### Testing
 
-*   [Spock (⭐3.4k)](https://github.com/spockframework/spock) - The Enterprise-ready testing and specification framework.
+*   [Spock (⭐3.5k)](https://github.com/spockframework/spock) - The Enterprise-ready testing and specification framework.
 *   [Geb (⭐1.1k)](https://github.com/geb/geb) - Very Groovy Browser Automation
 
 ## [8. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Command-line apps
 
-*   [cpy (⭐426)](https://github.com/sindresorhus/cpy) - Copy files.
+*   [cpy (⭐425)](https://github.com/sindresorhus/cpy) - Copy files.
 
 ### Packages / Filesystem
 
@@ -334,15 +334,15 @@
 ### Packages / Image
 
 *   [sharp (⭐29k)](https://github.com/lovell/sharp) - The fastest module for resizing JPEG, PNG, WebP and TIFF images.
-*   [image-type (⭐371)](https://github.com/sindresorhus/image-type) - Detect the type of an image.
-*   [gm (⭐6.9k)](https://github.com/aheckmann/gm) - GraphicsMagick and ImageMagick wrapper.
+*   [image-type (⭐373)](https://github.com/sindresorhus/image-type) - Detect the type of an image.
+*   [gm (⭐7k)](https://github.com/aheckmann/gm) - GraphicsMagick and ImageMagick wrapper.
 
 ### Packages / Text
 
-*   [iconv-lite (⭐3k)](https://github.com/ashtuchkin/iconv-lite) - Convert character encodings.
-*   [escape-string-regexp (⭐574)](https://github.com/sindresorhus/escape-string-regexp) - Escape RegExp special characters.
+*   [iconv-lite (⭐3.1k)](https://github.com/ashtuchkin/iconv-lite) - Convert character encodings.
+*   [escape-string-regexp (⭐584)](https://github.com/sindresorhus/escape-string-regexp) - Escape RegExp special characters.
 *   [indent-string (⭐112)](https://github.com/sindresorhus/indent-string) - Indent each line in a string.
-*   [strip-indent (⭐134)](https://github.com/sindresorhus/strip-indent) - Strip leading whitespace from every line in a string.
+*   [strip-indent (⭐135)](https://github.com/sindresorhus/strip-indent) - Strip leading whitespace from every line in a string.
 
 ### Packages / Parsing
 
@@ -356,7 +356,7 @@
 
 ### Packages / Network
 
-*   [get-port (⭐859)](https://github.com/sindresorhus/get-port) - Get an available port.
+*   [get-port (⭐880)](https://github.com/sindresorhus/get-port) - Get an available port.
 
 ### Packages / Node.js management
 
@@ -364,12 +364,12 @@
 
 ### Packages / Weird
 
-*   [superb (⭐392)](https://github.com/sindresorhus/superb) - Get superb like words.
+*   [superb (⭐393)](https://github.com/sindresorhus/superb) - Get superb like words.
 *   [cool-ascii-faces (⭐1.8k)](https://github.com/maxogden/cool-ascii-faces) - Get some cool ascii faces.
 
 ### Packages / Miscellaneous
 
-*   [cheerio (⭐28k)](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
+*   [cheerio (⭐29k)](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
 
 ### Resources / Tutorials
 
@@ -387,7 +387,7 @@
 
 ### Table of Contents / Markup and CSS
 
-*   [Cebe Markdown (⭐997)](https://github.com/cebe/markdown) - A fast and extensible Markdown parser.
+*   [Cebe Markdown (⭐1k)](https://github.com/cebe/markdown) - A fast and extensible Markdown parser.
 
 ### Table of Contents / Deployment
 
@@ -650,14 +650,14 @@
 ### Testing Frameworks / Coverage
 
 *   [istanbul (⭐8.7k)](https://github.com/gotwarlost/istanbul) - Yet another JS code coverage tool.
-*   [JSCover (⭐395)](https://github.com/tntim96/JSCover) - JSCover is a tool that measures code coverage for JavaScript programs.
+*   [JSCover (⭐399)](https://github.com/tntim96/JSCover) - JSCover is a tool that measures code coverage for JavaScript programs.
 
 ### Testing Frameworks / Runner
 
 *   [phantomjs (⭐29k)](https://github.com/ariya/phantomjs) - Scriptable Headless WebKit.
 *   [slimerjs (⭐3k)](https://github.com/laurentj/slimerjs) - A PhantomJS-like tool running Gecko.
 *   [zombie (⭐5.7k)](https://github.com/assaf/zombie) - Insanely fast, full-stack, headless browser testing using node.js.
-*   [totoro (⭐562)](https://github.com/totorojs/totoro) - A simple and stable cross-browser testing tool.
+*   [totoro (⭐564)](https://github.com/totorojs/totoro) - A simple and stable cross-browser testing tool.
 *   [karma (⭐12k)](https://github.com/karma-runner/karma) - Spectacular Test Runner for JavaScript.
 
 ### MVC Frameworks and Libraries / Runner
@@ -673,14 +673,14 @@
 ### Editors / Runner
 
 *   [ace (⭐27k)](https://github.com/ajaxorg/ace) - Ace (Ajax.org Cloud9 Editor).
-*   [esprima (⭐409)](https://github.com/ariya/esprima) - ECMAScript parsing infrastructure for multipurpose analysis.
-*   [quill (⭐42k)](https://github.com/quilljs/quill) - A cross browser rich text editor with an API.
+*   [esprima (⭐408)](https://github.com/ariya/esprima) - ECMAScript parsing infrastructure for multipurpose analysis.
+*   [quill (⭐43k)](https://github.com/quilljs/quill) - A cross browser rich text editor with an API.
 *   [pen (⭐4.8k)](https://github.com/sofish/pen) - enjoy live editing (+markdown).
 *   [jquery-notebook (⭐1.7k)](https://github.com/raphaelcruzeiro/jquery-notebook) - A simple, clean and elegant text editor. Inspired by the awesomeness of Medium.
-*   [ckeditor-releases (⭐518)](https://github.com/ckeditor/ckeditor-releases) - The best web text editor for everyone.
+*   [ckeditor-releases (⭐519)](https://github.com/ckeditor/ckeditor-releases) - The best web text editor for everyone.
 *   [editor (⭐2.8k)](https://github.com/lepture/editor) - A markdown editor. still on development.
-*   [EpicEditor (⭐4.3k)](https://github.com/OscarGodson/EpicEditor) - An embeddable JavaScript Markdown editor with split fullscreen editing, live previewing, automatic draft saving, offline support, and more.
-*   [jsoneditor (⭐11k)](https://github.com/josdejong/jsoneditor) - A web-based tool to view, edit and format JSON.
+*   [EpicEditor (⭐4.2k)](https://github.com/OscarGodson/EpicEditor) - An embeddable JavaScript Markdown editor with split fullscreen editing, live previewing, automatic draft saving, offline support, and more.
+*   [jsoneditor (⭐12k)](https://github.com/josdejong/jsoneditor) - A web-based tool to view, edit and format JSON.
 
 ### Number / Runner
 
@@ -773,7 +773,7 @@
 *   [tipsy (⭐2k)](https://github.com/jaz303/tipsy) - Facebook-style tooltips plugin for jQuery.
 *   [qTip2 (⭐2k)](https://github.com/qTip2/qTip2) - Pretty powerful tooltips.
 *   [tooltipster (⭐2.8k)](https://github.com/iamceege/tooltipster) - A jQuery tooltip plugin.
-*   [simptip (⭐647)](https://github.com/arashmanteghi/simptip) - A simple CSS tooltip made with Sass.
+*   [simptip (⭐648)](https://github.com/arashmanteghi/simptip) - A simple CSS tooltip made with Sass.
 
 ### Modals and Popups / Other
 
@@ -1022,17 +1022,17 @@
 
 ### Lexers, Parsers, Parser Generators / Bare metal / kernel development
 
-*   [Martin Nowak's Lexer (⭐12)](https://github.com/MartinNowak/lexer) - A lexer generator.
+*   [Martin Nowak's Lexer (⭐13)](https://github.com/MartinNowak/lexer) - A lexer generator.
 *   [Goldie](https://bitbucket.org/Abscissa/goldie/wiki/Home) - Goldie Parsing System.
 
 ### Web Frameworks / Bare metal / kernel development
 
-*   [cmsed (⭐17)](https://github.com/rikkimax/Cmsed) - A component library for Vibe that functions as a CMS.
+*   [cmsed (⭐18)](https://github.com/rikkimax/Cmsed) - A component library for Vibe that functions as a CMS.
 
 ### Command Line / XML
 
-*   [scriptlike (⭐90)](https://github.com/Abscissa/scriptlike) - Utility library to aid writing script-like programs in D.
-*   [todod (⭐15)](https://github.com/BlackEdder/todod) - Todod is a command line based todo list manager. It also has support for shell interaction based on [linenoise (⭐3.5k)](https://github.com/antirez/linenoise).
+*   [scriptlike (⭐93)](https://github.com/Abscissa/scriptlike) - Utility library to aid writing script-like programs in D.
+*   [todod (⭐15)](https://github.com/BlackEdder/todod) - Todod is a command line based todo list manager. It also has support for shell interaction based on [linenoise (⭐3.7k)](https://github.com/antirez/linenoise).
 
 ## [16. Awesome Hadoop](/content/youngwookim/awesome-hadoop/week/README.md)
 

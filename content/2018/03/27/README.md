@@ -16,7 +16,7 @@
 
 ### Apps / Misc
 
-*   [Joyous (⭐75)](https://github.com/linuxsoftware/ls.joyous) - A calendar application for Wagtail.
+*   [Joyous (⭐74)](https://github.com/linuxsoftware/ls.joyous) - A calendar application for Wagtail.
 
 ## [3. Awesome Erlang](/content/drobakowski/awesome-erlang/README.md)
 
@@ -73,7 +73,7 @@
 
 ### Reproducing Works, Training & Books / Data Visualization
 
-*   [fecon235 (⭐1.1k)](https://github.com/rsvp/fecon235) - Open source project for software tools in financial economics. Many jupyter notebook to verify theoretical ideas and practical methods interactively.
+*   [fecon235 (⭐1.2k)](https://github.com/rsvp/fecon235) - Open source project for software tools in financial economics. Many jupyter notebook to verify theoretical ideas and practical methods interactively.
 
 ## [9. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 

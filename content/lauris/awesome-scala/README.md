@@ -8,27 +8,6 @@ A community driven list of useful Scala libraries, frameworks and software.
 
 ## [Sep 19, 2024](/content/2024/09/19/README.md)
 
-### Table of Contents / Misc
-
-*   [Agora](https://gitlab.com/aossie/Agora/) | Library of vote-counting algorithms for elections. |
-    [**Ammonite**](https://github.com/com-lihaoyi/Ammonite) | Scala Scripting | ![GitHub stars](https://img.shields.io/github/stars/com-lihaoyi/Ammonite) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/com-lihaoyi/Ammonite)
-    [**bootzooka**](https://github.com/softwaremill/bootzooka) | Simple project to quickly start developing a Scala-based microservice or web application, without the need to write login, user registration etc. | ![GitHub stars](https://img.shields.io/github/stars/softwaremill/bootzooka) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/softwaremill/bootzooka)
-    [**eclair**](https://github.com/ACINQ/eclair) | A scala implementation of the Lightning Network. | ![GitHub stars](https://img.shields.io/github/stars/ACINQ/eclair) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/ACINQ/eclair)
-    [fansi (⭐226)](https://github.com/com-lihaoyi/fansi) | Scala/Scala.js library for manipulating Fancy Ansi colored strings | ![GitHub stars](https://img.shields.io/github/stars/com-lihaoyi/fansi) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/com-lihaoyi/fansi)
-    [fs2-aws (⭐189)](https://github.com/laserdisc-io/fs2-aws) | fs2 utilities to interact with AWS | ![GitHub stars](https://img.shields.io/github/stars/laserdisc-io/fs2-aws) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/laserdisc-io/fs2-aws)
-    [mailgun4s (⭐17)](https://github.com/outr/mailgun4s) | Mailgun API implementation in Scala | ![GitHub stars](https://img.shields.io/github/stars/outr/mailgun4s) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/outr/mailgun4s)
-    [managerial (⭐13)](https://github.com/dvgica/managerial) | A zero-dependency Scala library for managing resources monadically | ![GitHub stars](https://img.shields.io/github/stars/dvgica/managerial) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/dvgica/managerial)
-    [media4s (⭐34)](https://github.com/outr/media4s) | Scala command-line wrapper around ffmpeg, ffprobe, ImageMagick, and other tools relating to media. | ![GitHub stars](https://img.shields.io/github/stars/outr/media4s) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/outr/media4s)
-    [play-swagger (⭐403)](https://github.com/iheartradio/play-swagger) | Swagger spec generator for play framework | ![GitHub stars](https://img.shields.io/github/stars/iheartradio/play-swagger) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/iheartradio/play-swagger)
-    [PPrint (⭐224)](https://github.com/com-lihaoyi/PPrint) | Pretty-printing value, types and type-signatures in Scala | ![GitHub stars](https://img.shields.io/github/stars/com-lihaoyi/PPrint) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/com-lihaoyi/PPrint)
-    [**pureconfig**](https://github.com/pureconfig/pureconfig) | A boilerplate-free library for loading configuration files | ![GitHub stars](https://img.shields.io/github/stars/pureconfig/pureconfig) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/pureconfig/pureconfig)
-*   [Scavenger](https://gitlab.com/aossie/Scavenger) | An experimental automated theorem prover. |
-    [service-chassis (⭐7)](https://github.com/allawala/service-chassis) | A scala chassis to get your applications and services bootstrapped quickly | ![GitHub stars](https://img.shields.io/github/stars/allawala/service-chassis) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/allawala/service-chassis)
-    [spliff (⭐58)](https://github.com/sirthias/spliff) | Efficient diffing in Scala | ![GitHub stars](https://img.shields.io/github/stars/sirthias/spliff) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/sirthias/spliff)
-    [scountries (⭐20)](https://github.com/lambdaworks/scountries) | Scala library that provides an enumeration of ISO 3166 codes for countries, along with their subdivisions. | ![GitHub stars](https://img.shields.io/github/stars/lambdaworks/scountries) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/lambdaworks/scountries)
-    [scurl-detector (⭐16)](https://github.com/lambdaworks/scurl-detector) | Scala library that detects and extracts URLs from text. | ![GitHub stars](https://img.shields.io/github/stars/lambdaworks/scurl-detector) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/lambdaworks/scurl-detector)
-    [aptus-core (⭐7)](https://github.com/aptusproject/aptus-core) | A utility library aiming to simplify the Scala coding experience. | ![GitHub stars](https://img.shields.io/github/stars/aptusproject/aptus-core) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/aptusproject/aptus-core)
-
 ### Exercises / Devops
 
 *   [Exercism - Scala Exercises](https://exercism.org/tracks/scala/exercises) - Community-driven Scala exercises.

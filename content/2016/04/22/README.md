@@ -18,7 +18,7 @@
 
 ### Video / Barcode
 
-*   [PlayerView (⭐132)](https://github.com/davidlondono/PlayerView) - Easy to use video player using a UIView, manage rate of reproduction, screenshots and callbacks-delegate for player state.
+*   [PlayerView (⭐133)](https://github.com/davidlondono/PlayerView) - Easy to use video player using a UIView, manage rate of reproduction, screenshots and callbacks-delegate for player state.
 
 ## [3. Nlp with Ruby](/content/arbox/nlp-with-ruby/README.md)
 
@@ -42,7 +42,7 @@
 
 ### Other
 
-*   [npm-upgrade (⭐340)](https://github.com/th0r/npm-upgrade) - Update outdated npm dependencies interactively.
+*   [npm-upgrade (⭐341)](https://github.com/th0r/npm-upgrade) - Update outdated npm dependencies interactively.
 
 ## [6. Awesome Vorpal](/content/vorpaljs/awesome-vorpal/README.md)
 

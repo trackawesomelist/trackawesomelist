@@ -10,20 +10,20 @@
 
 ### Optimization / Others
 
-*   [pymoo (⭐2k)](https://github.com/anyoptimization/pymoo) - Multi-objective Optimization in Python.
-*   [pycma (⭐1k)](https://github.com/CMA-ES/pycma?tab=readme-ov-file) - Python implementation of CMA-ES.
+*   [pymoo (⭐2.2k)](https://github.com/anyoptimization/pymoo) - Multi-objective Optimization in Python.
+*   [pycma (⭐1.1k)](https://github.com/CMA-ES/pycma?tab=readme-ov-file) - Python implementation of CMA-ES.
 
 ## [2. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
 
 ### Tools & Software / Utilities
 
-*   [warc-safe (⭐2)](https://github.com/natliblux/warc-safe) - Automatic detection of viruses and NSFW content in WARC files.
+*   [warc-safe (⭐11)](https://github.com/natliblux/warc-safe) - Automatic detection of viruses and NSFW content in WARC files.
 
 ## [3. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/README.md)
 
 ### Adapters / Server-side
 
-*   [Hyperf (⭐2)](https://github.com/onix-systems-php/hyperf-inertia)
+*   [Hyperf (⭐3)](https://github.com/onix-systems-php/hyperf-inertia)
 
 ## [4. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
@@ -37,34 +37,30 @@
 
 ### Components & Libraries / Frameworks
 
-*   [Shadcn UI (⭐4k)](https://github.com/radix-vue/shadcn-vue) - An unofficial, community-led Vue port of [shadcn/ui (⭐67k)](https://github.com/shadcn-ui/ui) (re-usable components built with [Radix Vue (⭐3.1k)](https://github.com/radix-vue/radix-vue) and [Tailwind CSS (⭐81k)](https://github.com/tailwindlabs/tailwindcss)).
+*   [Shadcn UI (⭐5.7k)](https://github.com/radix-vue/shadcn-vue) - An unofficial, community-led Vue port of [shadcn/ui (⭐78k)](https://github.com/shadcn-ui/ui) (re-usable components built with [Radix Vue (⭐3.9k)](https://github.com/radix-vue/radix-vue) and [Tailwind CSS (⭐84k)](https://github.com/tailwindlabs/tailwindcss)).
 *   [uni-app (⭐40k)](https://github.com/dcloudio/uni-app) - A cross-platform framework using Vue.js
-*   [vue-vben-admin (⭐24k)](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！ [Live demo](https://vben.vvbin.cn/)
-*   [VitePress (⭐12k)](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
+*   [vue-vben-admin (⭐26k)](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！ [Live demo](https://vben.vvbin.cn/)
+*   [VitePress (⭐14k)](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
 
 ### Components & Libraries / UI Utilities
 
-*   [kitbag/router (⭐139)](https://github.com/kitbagjs/router) - A type safe router for vuejs
-
-### Components & Libraries / Dev Tools
-
-*   [devtools-next (⭐1.3k)](https://github.com/vuejs/devtools-next) - The next iteration of Vue DevTools.
+*   [kitbag/router (⭐190)](https://github.com/kitbagjs/router) - A type safe router for vuejs
 
 ### Components & Libraries / Scaffold
 
-*   [electron-vite-vue (⭐4.1k)](https://github.com/electron-vite/electron-vite-vue) - Really simple Electron + Vite + Vue boilerplate.
+*   [electron-vite-vue (⭐4.4k)](https://github.com/electron-vite/electron-vite-vue) - Really simple Electron + Vite + Vue boilerplate.
 
 ## [6. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Embeddable Scripting Languages
 
-*   [starlet (⭐16)](https://github.com/1set/starlet) - Go wrapper for [starlark-go (⭐2.3k)](https://github.com/google/starlark-go) that simplifies script execution, offers data conversion, and useful Starlark libraries and extensions.
+*   [starlet (⭐28)](https://github.com/1set/starlet) - Go wrapper for [starlark-go (⭐2.4k)](https://github.com/google/starlark-go) that simplifies script execution, offers data conversion, and useful Starlark libraries and extensions.
 
 ## [7. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Development tools / Web Servers
 
-*   [ATAC (⭐1.7k)](https://github.com/Julien-cpsn/ATAC) - A feature-full TUI API client made in Rust. ATAC is free, open-source, offline and account-less.
+*   [ATAC (⭐2.3k)](https://github.com/Julien-cpsn/ATAC) - A feature-full TUI API client made in Rust. ATAC is free, open-source, offline and account-less.
 
 ## [8. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -89,7 +85,7 @@
 
 ### Software / Communication - Email - Mailing Lists and Newsletters
 
-*   [phpList](https://www.phplist.org) - Newsletter and email marketing with advanced management of subscribers, bounces, and plugins. ([Source Code (⭐736)](https://github.com/phpList/phplist3)) `AGPL-3.0` `PHP`
+*   [phpList](https://www.phplist.org) - Newsletter and email marketing with advanced management of subscribers, bounces, and plugins. ([Source Code (⭐768)](https://github.com/phpList/phplist3)) `AGPL-3.0` `PHP`
 
 ### Software / Miscellaneous
 
@@ -97,34 +93,34 @@
 
 ### Software / Money, Budgeting & Management
 
-*   [Ocular (⭐65)](https://github.com/simonwep/ocular) - Simplistic and straightforward budgeting app to track your budget across months and years. ([Demo](https://ocular.reinisch.io/#demo)) `MIT` `Docker`
+*   [Ocular (⭐150)](https://github.com/simonwep/ocular) - Simplistic and straightforward budgeting app to track your budget across months and years. ([Demo](https://ocular.reinisch.io/#demo)) `MIT` `Docker`
 
 ## [10. Awesome Love2d](/content/love2d-community/awesome-love2d/README.md)
 
 ### Drawing
 
-*   [Hot particles (⭐40)](https://github.com/ReFreezed/HotParticles) - "Hot Particles is a particle editor for the LÖVE game framework."
+*   [Hot particles (⭐49)](https://github.com/ReFreezed/HotParticles) - "Hot Particles is a particle editor for the LÖVE game framework."
 
 ### UI
 
 *   [Lovely Toasts](https://codeberg.org/togfox/Lovely-Toasts) - Floating speech bubbles with text of your choice.
-*   [Badar 🌕 (⭐12)](https://github.com/Nabeel20/Badar) - Declarative, retained\* and flexbox inspired UI library and components.
+*   [Badar 🌕 (⭐30)](https://github.com/Nabeel20/Badar) - Simple **custom UI syntax** for easy components compositions.
 
 ## [11. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### Modals / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-modal-ease (⭐14)](https://github.com/GreenFlag31/modal-library) - `ngx-modal-ease` is a versatile Angular library providing a lightweight, simple, and performant modal.
+*   [ngx-modal-ease (⭐16)](https://github.com/GreenFlag31/modal-library) - `ngx-modal-ease` is a versatile Angular library providing a lightweight, simple, and performant modal.
 *   [ngx-smart-modal (⭐325)](https://github.com/maximelafarie/ngx-smart-modal) - Modal/Dialog component crafted for Angular (Ivy-compatible).
 
 ### Unspecified / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ng-clarity (⭐325)](https://github.com/vmware-clarity/ng-clarity) - Clarity Angular is a scalable, accessible, customizable, open-source design system built for Angular.
-*   [ngx-semantic (⭐5)](https://github.com/ngx-semantic/ngx-semantic) - A new take on an Angular implementation for Semantic UI.
+*   [ng-clarity (⭐354)](https://github.com/vmware-clarity/ng-clarity) - Clarity Angular is a scalable, accessible, customizable, open-source design system built for Angular.
+*   [ngx-semantic (⭐6)](https://github.com/ngx-semantic/ngx-semantic) - A new take on an Angular implementation for Semantic UI.
 
 ### Node Based / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-vflow (⭐120)](https://github.com/artem-mangilev/ngx-vflow) - An open source library to build node-based UI with Angular.
+*   [ngx-vflow (⭐205)](https://github.com/artem-mangilev/ngx-vflow) - An open source library to build node-based UI with Angular.
 
 ## [12. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
@@ -141,7 +137,7 @@
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [zoxide (⭐0)](https://github.com/jnooree/zoxide-zsh-completion) - Tab completions for [zoxide (⭐21k)](https://github.com/ajeetdsouza/zoxide).
+*   [zoxide (⭐0)](https://github.com/jnooree/zoxide-zsh-completion) - Tab completions for [zoxide (⭐24k)](https://github.com/ajeetdsouza/zoxide).
 
 ---
 

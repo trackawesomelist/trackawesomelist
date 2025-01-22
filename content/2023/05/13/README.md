@@ -10,7 +10,7 @@
 
 ### Browser-Based / Arcade
 
-*   [111 one-button games (⭐65)](https://github.com/abagames/111-one-button-games-in-2021) - One button games are famous for realizing various actions with one button.
+*   [111 one-button games (⭐74)](https://github.com/abagames/111-one-button-games-in-2021) - One button games are famous for realizing various actions with one button.
 
 ## [2. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
@@ -22,7 +22,7 @@
 
 ### Programming Languages Support / Diagnostics
 
-*   [dmmulroy/tsc.nvim (⭐367)](https://github.com/dmmulroy/tsc.nvim) - Asynchronous project-wide TypeScript type-checking using the TypeScript compiler (TSC) with results loaded into a quickfix list.
+*   [dmmulroy/tsc.nvim (⭐424)](https://github.com/dmmulroy/tsc.nvim) - Asynchronous project-wide TypeScript type-checking using the TypeScript compiler (TSC) with results loaded into a quickfix list.
 
 ## [4. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
 
@@ -73,7 +73,7 @@
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [conda-init (⭐1)](https://github.com/commiyou/conda-init-zsh-plugin) - Cleans up environment variables so [conda](https://conda.io) doesn't mess up `tmux`.
-*   [web-search (anant-mishra1729) (⭐3)](https://github.com/Anant-mishra1729/web-search/) - Adds aliases for searching with Google, Bing, Wiki, YouTube, Yahoo, Duck Duck Go, GitHub, Stack Overflow and other services straight from the command line.
+*   [web-search (anant-mishra1729) (⭐4)](https://github.com/Anant-mishra1729/web-search/) - Adds aliases for searching with Google, Bing, Wiki, YouTube, Yahoo, Duck Duck Go, GitHub, Stack Overflow and other services straight from the command line.
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -87,7 +87,7 @@
 
 ### Web Frameworks
 
-*   [vertx-rest (⭐39)](https://github.com/dream11/vertx-rest) - Abstraction over resteasy-vertx to simplify writing a Vert.x REST application based on JAX-RS annotations.
+*   [vertx-rest (⭐45)](https://github.com/dream11/vertx-rest) - Abstraction over resteasy-vertx to simplify writing a Vert.x REST application based on JAX-RS annotations.
 
 ---
 

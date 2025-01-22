@@ -18,9 +18,9 @@
 
 ## [2. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
-### Plugins and scripts / Various Godot versions
+### Plugins and scripts / Godot 3
 
-*   [AutoColliders (⭐10)](https://github.com/graycastle/godot-AutoColliders) - Allows the automatic generation of colliders for Sprites, with planned expansion to handle 3D meshes in the future (Godot 3.x).
+*   [AutoColliders (⭐10)](https://github.com/graycastle/godot-AutoColliders) - Allows the automatic generation of colliders for Sprites, with planned expansion to handle 3D meshes in the future.
 
 ## [3. Awesome Math](/content/rossant/awesome-math/README.md)
 
@@ -33,30 +33,30 @@
 
 ### Providers / Hashicorp supported providers
 
-*   [terraform-provider-aws (⭐9.7k)](https://github.com/hashicorp/terraform-provider-aws) - Provider for Amazon Web Services.
-*   [terraform-provider-azurerm (⭐4.5k)](https://github.com/hashicorp/terraform-provider-azurerm) - Provider for Azure.
-*   [terraform-provider-docker (⭐130)](https://github.com/hashicorp/terraform-provider-docker) - Provider for Docker. :skull:
-*   [terraform-provider-google (⭐2.3k)](https://github.com/hashicorp/terraform-provider-google) - Provider for Google Cloud Platform.
-*   [terraform-provider-helm (⭐994)](https://github.com/hashicorp/terraform-provider-helm) - Provider for Helm.
+*   [terraform-provider-aws (⭐10k)](https://github.com/hashicorp/terraform-provider-aws) - Provider for Amazon Web Services.
+*   [terraform-provider-azurerm (⭐4.6k)](https://github.com/hashicorp/terraform-provider-azurerm) - Provider for Azure.
+*   [terraform-provider-docker (⭐132)](https://github.com/hashicorp/terraform-provider-docker) - Provider for Docker. :skull:
+*   [terraform-provider-google (⭐2.4k)](https://github.com/hashicorp/terraform-provider-google) - Provider for Google Cloud Platform.
+*   [terraform-provider-helm (⭐1k)](https://github.com/hashicorp/terraform-provider-helm) - Provider for Helm.
 *   [terraform-provider-kubernetes (⭐1.6k)](https://github.com/hashicorp/terraform-provider-kubernetes) - Provider for Kubernetes.
-*   [terraform-provider-vsphere (⭐609)](https://github.com/hashicorp/terraform-provider-vsphere) - Provider for VMware vSphere.
+*   [terraform-provider-vsphere (⭐623)](https://github.com/hashicorp/terraform-provider-vsphere) - Provider for VMware vSphere.
 
 ### Providers / Vendor supported providers
 
-*   [terraform-provider-alicloud (⭐582)](https://github.com/aliyun/terraform-provider-alicloud) - Provider for Alibaba Cloud.
-*   [terraform-provider-atlas (⭐55)](https://github.com/ariga/terraform-provider-atlas) - Provider for [Atlas](https://atlasgo.io/).
+*   [terraform-provider-alicloud (⭐592)](https://github.com/aliyun/terraform-provider-alicloud) - Provider for Alibaba Cloud.
+*   [terraform-provider-atlas (⭐57)](https://github.com/ariga/terraform-provider-atlas) - Provider for [Atlas](https://atlasgo.io/).
 *   [terraform-provider-buildkite (⭐56)](https://github.com/buildkite/terraform-provider-buildkite) - Provider for Buildkite.
-*   [terraform-provider-datadog (⭐389)](https://github.com/DataDog/terraform-provider-datadog) - Provider for Datadog.
-*   [terraform-provider-digitalocean (⭐496)](https://github.com/digitalocean/terraform-provider-digitalocean) - Provider for DigitalOcean.
+*   [terraform-provider-datadog (⭐403)](https://github.com/DataDog/terraform-provider-datadog) - Provider for Datadog.
+*   [terraform-provider-digitalocean (⭐513)](https://github.com/digitalocean/terraform-provider-digitalocean) - Provider for DigitalOcean.
 *   [terraform-provider-github](https://github.com/integrations/terraform-provider-github) - Provider for GitHub.
-*   [terraform-provider-gitlab (⭐393)](https://github.com/gitlabhq/terraform-provider-gitlab) - Provider for GitLab.
+*   [terraform-provider-gitlab (⭐398)](https://github.com/gitlabhq/terraform-provider-gitlab) - Provider for GitLab.
 *   [terraform-provider-graphql (⭐53)](https://github.com/sullivtr/terraform-provider-graphql) - Provider for GraphQL queries and mutations.
-*   [terraform-provider-hcloud (⭐489)](https://github.com/hetznercloud/terraform-provider-hcloud) - Provider for Hetzner Cloud.
-*   [terraform-provider-heroku (⭐99)](https://github.com/heroku/terraform-provider-heroku) - Provider for Heroku.
-*   [terraform-provider-ibm (⭐340)](https://github.com/IBM-Cloud/terraform-provider-ibm) - Provider for IBM Cloud.
+*   [terraform-provider-hcloud (⭐523)](https://github.com/hetznercloud/terraform-provider-hcloud) - Provider for Hetzner Cloud.
+*   [terraform-provider-heroku (⭐100)](https://github.com/heroku/terraform-provider-heroku) - Provider for Heroku.
+*   [terraform-provider-ibm (⭐341)](https://github.com/IBM-Cloud/terraform-provider-ibm) - Provider for IBM Cloud.
 *   [terraform-provider-linode (⭐71)](https://github.com/btobolaski/terraform-provider-linode) - Provider for Linode.
 *   [terraform-provider-spinnaker (⭐143)](https://github.com/armory-io/terraform-provider-spinnaker) - Provider for [Spinnaker](https://www.spinnaker.io/).
-*   [terraform-provider-spotinst (⭐62)](https://github.com/spotinst/terraform-provider-spotinst) - Provider for spotinst.
+*   [terraform-provider-spotinst (⭐63)](https://github.com/spotinst/terraform-provider-spotinst) - Provider for spotinst.
 
 ## [5. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 
@@ -69,7 +69,7 @@
 ### :books: Literature / Documentation
 
 *   :clipboard: [Hyperion: Implementation of a PE-Crypter](https://www.exploit-db.com/docs/english/18849-hyperion-implementation-of-a-pe-crypter.pdf)
-*   :pushpin: [Packer detection tool evaluation (⭐9)](https://github.com/FFRI/PackerDetectionToolEvaluation)
+*   :pushpin: [Packer detection tool evaluation (⭐11)](https://github.com/FFRI/PackerDetectionToolEvaluation)
 
 ### :bookmark_tabs: Datasets / Scientific Research
 
@@ -78,7 +78,7 @@
 
 ### :package: Packers / Before 2000
 
-*   [Morphine (⭐285)](https://github.com/bowlofstew/rootkit.com/blob/master/hf/Morphine27) - Application for PE files encryption.
+*   [Morphine (⭐289)](https://github.com/bowlofstew/rootkit.com/blob/master/hf/Morphine27) - Application for PE files encryption.
 
 ## [7. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
@@ -112,7 +112,7 @@
 
   CORS: Unknown
 
-  Postman: 
+  : 
 
 
 
@@ -126,7 +126,7 @@
 
 ### C++ / General-Purpose Machine Learning
 
-*   [N2D2 (⭐145)](https://github.com/CEA-LIST/N2D2) - CEA-List's CAD framework for designing and simulating Deep Neural Network, and building full DNN-based applications on embedded platforms
+*   [N2D2 (⭐148)](https://github.com/CEA-LIST/N2D2) - CEA-List's CAD framework for designing and simulating Deep Neural Network, and building full DNN-based applications on embedded platforms
 
 ## [11. Awesome Plone](/content/collective/awesome-plone/README.md)
 
@@ -158,8 +158,8 @@
 *   [collective.collectionfilter (⭐9)](https://github.com/collective/collective.collectionfilter) - Faceted navigation filter for collection or contentlisting tiles.
 *   [collective.elastic.plone (⭐3)](https://github.com/collective/collective.elastic.plone) - ElasticSearch Integration for Plone content.
 *   [collective.searchandreplace (⭐6)](https://github.com/collective/collective.searchandreplace) - Find and replace text in Plone content objects.
-*   [collective.solr (⭐21)](https://github.com/collective/collective.solr) - Solr search engine integration for Plone.
-*   [collective.taxonomy (⭐18)](https://github.com/collective/collective.taxonomy) - Create, edit and use hierarchical taxonomies to categorize content.
+*   [collective.solr (⭐22)](https://github.com/collective/collective.solr) - Solr search engine integration for Plone.
+*   [collective.taxonomy (⭐19)](https://github.com/collective/collective.taxonomy) - Create, edit and use hierarchical taxonomies to categorize content.
 *   [eea.facetednavigation (⭐4)](https://github.com/collective/eea.facetednavigation) - Very powerful interface to improve search without programming skills. Configuration is done through-the-web and lets you gradually select and explore different facets (metadata/properties) of the content and narrow down you search quickly and dynamically.
 *   [Products.PloneKeywordManager (⭐4)](https://github.com/collective/Products.PloneKeywordManager) - Change, merge and delete keywords/tags/subjects).
 
@@ -174,7 +174,7 @@
 
 ### Shop
 
-*   [bda.plone.productshop (⭐6)](https://github.com/bluedynamics/bda.plone.productshop) - Flexible and modular e-commerce solution for Plone.
+*   [bda.plone.productshop (⭐7)](https://github.com/bluedynamics/bda.plone.productshop) - Flexible and modular e-commerce solution for Plone.
 
 ### Develop
 
@@ -186,7 +186,7 @@
 
 ### Sysadmin
 
-*   [collective.fingerpointing (⭐4)](https://github.com/collective/collective.fingerpointing) - Keeps track of different events and write them down to an audit log.
+*   [collective.fingerpointing (⭐5)](https://github.com/collective/collective.fingerpointing) - Keeps track of different events and write them down to an audit log.
 *   [collective.recipe.backup (⭐5)](https://github.com/collective/collective.recipe.backup) - Powerful and flexible backup/restore solution for Plone.
 *   [collective.revisionmanager (⭐6)](https://github.com/collective/collective.revisionmanager) - Manage Products.CMFEditions histories that can bloat your database.
 *   [collective.sentry (⭐7)](https://github.com/collective/collective.sentry) - Sentry integration to aggregate errors and help finding their causes.
@@ -201,7 +201,7 @@
 
 ### Other
 
-*   [version-from-git (⭐0)](https://github.com/MhmRhm/version-from-git) - Bake git information into your binary. [`[MIT]`](https://opensource.org/licenses/MIT)
+*   [version-from-git (⭐4)](https://github.com/MhmRhm/version-from-git) - Bake git information into your binary. [`[MIT]`](https://opensource.org/licenses/MIT)
 
 ## [13. Awesome Preact](/content/preactjs/awesome-preact/README.md)
 
@@ -226,8 +226,8 @@
 ### Javascript / Isomorphic web frameworks
 
 *   [sigil (⭐2)](https://github.com/BnMcGn/sigil) - A Parenscript to Javascript command line compiler and REPL. [MIT](https://opensource.org/licenses/MIT).
-*   [cl-react (⭐67)](https://github.com/helmutkian/cl-react) -  Common Lisp (Parenscript) utilities for building web apps in ReactJs. MIT.
-*   [Panic (⭐42)](https://github.com/michaeljforster/panic), a Parenscript library for React. Not in Quicklisp. [MIT](https://opensource.org/licenses/MIT). Its [TodoMVC example (⭐7)](https://github.com/40ants/todomvc/blob/common-lisp-example/examples/common-lisp-react/src/app.lisp).
+*   [cl-react (⭐69)](https://github.com/helmutkian/cl-react) -  Common Lisp (Parenscript) utilities for building web apps in ReactJs. MIT.
+*   [Panic (⭐43)](https://github.com/michaeljforster/panic), a Parenscript library for React. Not in Quicklisp. [MIT](https://opensource.org/licenses/MIT). Its [TodoMVC example (⭐7)](https://github.com/40ants/todomvc/blob/common-lisp-example/examples/common-lisp-react/src/app.lisp).
 *   [Parenscriptx (⭐24)](https://github.com/jasom/parenscriptx) -  Parenscript Macros to aid generating react code. [MIT](https://opensource.org/licenses/MIT).
 *   [jscl-react (⭐17)](https://github.com/nilesr/jscl-react) -  A web framework for writing react components in common lisp using jscl. No license specified.
 
@@ -235,20 +235,20 @@
 
 *   [CXML](https://common-lisp.net/project/cxml/) - XML parser and serializer, with a range of extension libraries. [LLGPL](http://opensource.franz.com/preamble.html).
     *   👍 has an incremental parser, allowing to parse big files.
-    *   see the [FXML (⭐31)](https://github.com/ruricolist/FXML) fork, with fixes and new features. You should use it if your are parsing potentially ill-formed or malicious XML, or if you need to use Klacks with namespaces.
+    *   see the [FXML (⭐32)](https://github.com/ruricolist/FXML) fork, with fixes and new features. You should use it if your are parsing potentially ill-formed or malicious XML, or if you need to use Klacks with namespaces.
 
 ## [17. Awesome Open Source Games](/content/michelpereira/awesome-open-source-games/README.md)
 
 ### Native / Strategy
 
 *   [Stone Kingdoms](https://gitlab.com/stone-kingdoms/stone-kingdoms) - Real-time strategy based on the original Stronghold series.
-*   [Zero-K (⭐661)](https://github.com/ZeroK-RTS/Zero-K) - Open source RTS game with physical projectiles and smart units.
+*   [Zero-K (⭐701)](https://github.com/ZeroK-RTS/Zero-K) - Open source RTS game with physical projectiles and smart units.
 
 ## [18. Awesome Go](/content/avelino/awesome-go/README.md)
 
-### Job Scheduler
+### Workflow Frameworks / Libraries for creating HTTP middlewares
 
-*   [Dagu (⭐1.4k)](https://github.com/dagu-go/dagu) - No-code workflow executor. it executes DAGs defined in a simple YAML format.
+*   [Dagu (⭐1.8k)](https://github.com/dagu-go/dagu) - No-code workflow executor. it executes DAGs defined in a simple YAML format.
 
 ---
 

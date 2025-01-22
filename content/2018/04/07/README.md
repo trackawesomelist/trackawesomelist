@@ -50,7 +50,7 @@
 
 ### Event processing / Third-party APIs
 
-*   [cl-flow (⭐49)](https://github.com/borodust/cl-flow/) -  Data-flowish computation tree library for non-blocking concurrent Common Lisp. [MIT](https://opensource.org/licenses/MIT).
+*   [cl-flow (⭐50)](https://github.com/borodust/cl-flow/) -  Data-flowish computation tree library for non-blocking concurrent Common Lisp. [MIT](https://opensource.org/licenses/MIT).
 
 ## [5. Awesome Vapor](/content/vapor-community/awesome-vapor/README.md)
 

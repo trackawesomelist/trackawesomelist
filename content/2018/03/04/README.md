@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 04, 2018
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -162,26 +162,15 @@
 
 ### Software / Communication - Social Networks and Forums
 
-*   [Friendica](https://friendi.ca/) - Social Communication Server. ([Source Code (⭐1.4k)](https://github.com/friendica/friendica)) `AGPL-3.0` `PHP`
+*   [Friendica](https://friendi.ca/) - Social Communication Server. ([Source Code (⭐1.5k)](https://github.com/friendica/friendica)) `AGPL-3.0` `PHP`
 
 ## [8. Awesome Fonts](/content/brabadu/awesome-fonts/README.md)
 
 ### Awesome lists / Event listeners for fonts loading on a web page
 
-*   [Awesome Icons (⭐1.1k)](https://github.com/vkarampinis/awesome-icons)
+*   [Awesome Icons (⭐1.3k)](https://github.com/vkarampinis/awesome-icons)
 
-## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Resources / Examples
-
-*   [vue-relay-examples (⭐11)](https://github.com/ntkme/vue-relay-examples) - A collection of example applications using vue-relay.
-
-### Projects Using Vue.js / Open Source
-
-*   [vuegg (⭐2.3k)](https://github.com/vuegg/vuegg) - vue GUI generator: Create mockups and code in one go! It leverages the creation of pages, components and styles with its visual editor. Generate all scaffolding code for your next vuejs project.
-*   [Podlove Web Player (⭐354)](https://github.com/podlove/podlove-web-player) - Podcast-optimized, HTML5-based audio player featuring chapters, transcripts and embedding.
-
-## [10. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [9. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / Elastic Compute Cloud
 

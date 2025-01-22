@@ -16,15 +16,15 @@
 
 ### Node.js
 
-*   [Nestjsx/crud (⭐4k)](https://github.com/nestjsx/crud) - Generate CRUD controllers and services for RESTful API with NestJS and TypeORM.
+*   [Nestjsx/crud (⭐4.1k)](https://github.com/nestjsx/crud) - Generate CRUD controllers and services for RESTful API with NestJS and TypeORM.
 
 ## [3. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
 ### Related projects / Syntax highlighting packages
 
-*   [Game Boy Link Cable Breakout Board (⭐77)](https://github.com/Palmr/gb-link-cable)
+*   [Game Boy Link Cable Breakout Board (⭐87)](https://github.com/Palmr/gb-link-cable)
 *   [GBCartFlasher firmware (⭐24)](https://github.com/Tauwasser/GBCartFlasher)
-*   [VerilogBoy (⭐433)](https://github.com/zephray/VerilogBoy/) - Game Boy compatible console Verilog RTL implementation.
+*   [VerilogBoy (⭐467)](https://github.com/zephray/VerilogBoy/) - Game Boy compatible console Verilog RTL implementation.
 
 ## [4. Amas](/content/sindresorhus/amas/week/README.md)
 
@@ -154,7 +154,7 @@
 
 ### R / Svelte
 
-*   [R Weekly](https://rweekly.org). Weekly updates about R and Data Science. R Weekly is [openly developed on GitHub (⭐686)](https://github.com/rweekly/rweekly.org).
+*   [R Weekly](https://rweekly.org). Weekly updates about R and Data Science. R Weekly is [openly developed on GitHub (⭐711)](https://github.com/rweekly/rweekly.org).
 
 ### Ruby / Svelte
 
@@ -299,7 +299,7 @@
 *   [wpMail.me](http://wpmail.me/). A free WordPress Newsletter, once a week, with a round-up of WordPress news and articles. [Archive](http://wpmail.me/newsletters/).
 *   [Handwritten newsletter](http://www.thnkclrly.com/newsletter/). The Think Clearly newsletter gives you little reflection exercises to help you in your daily life. It is created with love and admiration. [Archive](http://www.thnkclrly.com/category/thinking-clearly/).
 *   [Better Dev Link](https://betterdev.link). A weekly newsletter, collects links that aim to improve programming knowledge general. The purpose is not include the links that reader can search instantly from google such as how to do x, y, z but more about problem solving in programming.
-*   [GitHub Trending Repos (⭐2.6k)](https://github.com/vitalets/github-trending-repos). A special repo allowing to track trending projects in your favorite programming language on GitHub. Updates come as GitHub notifications once a day or a week.
+*   [GitHub Trending Repos (⭐2.7k)](https://github.com/vitalets/github-trending-repos). A special repo allowing to track trending projects in your favorite programming language on GitHub. Updates come as GitHub notifications once a day or a week.
 *   [HN Mail](https://hnmail.io). A customizable weekly newsletter that delivers Hacker News stories based on your interests.
 
 ### Resilience / Svelte
@@ -365,25 +365,25 @@
 
 ### Utility Scripts
 
-*   [ixm (⭐107)](https://github.com/slurps-mad-rips/ixm) - Make CMake less painful when trying to write Modern Flexible CMake.  [`[MIT]`](https://opensource.org/licenses/MIT)
+*   [ixm (⭐106)](https://github.com/slurps-mad-rips/ixm) - Make CMake less painful when trying to write Modern Flexible CMake.  [`[MIT]`](https://opensource.org/licenses/MIT)
 
 ## [10. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Peripheral Access Crates / SiFive
 
-*   [`e310x`](https://github.com/riscv-rust/e310x) - svd2rust generated interface to SiFive [Freedom E310](https://www.sifive.com/cores/e31) MCUs - ![crates.io](https://img.shields.io/crates/v/e310x.svg)
+*   [`e310x`](https://github.com/riscv-rust/e310x) - svd2rust generated interface to SiFive [Freedom E310](https://www.sifive.com/cores/e31) MCUs - [![crates.io](https://img.shields.io/crates/v/e310x.svg)](https://crates.io/crates/e310x)
 
 ### HAL implementation crates / SiFive
 
-*   [`e310x-hal`](https://github.com/riscv-rust/e310x-hal) - HAL for SiFive [Freedom E310](https://www.sifive.com/cores/e31) MCUs - ![crates.io](https://img.shields.io/crates/v/e310x-hal.svg)
+*   [`e310x-hal`](https://github.com/riscv-rust/e310x-hal) - HAL for SiFive [Freedom E310](https://www.sifive.com/cores/e31) MCUs - [![crates.io](https://img.shields.io/crates/v/e310x-hal.svg)](https://crates.io/crates/e310x-hal)
 
 ### Architecture support crates / RISC-V
 
-*   [`riscv`](https://github.com/rust-embedded/riscv) Low-level access to RISC-V processors - ![crates.io](https://img.shields.io/crates/v/riscv.svg)
+*   [`riscv`](https://github.com/rust-embedded/riscv) Low-level access to RISC-V processors - [![crates.io](https://img.shields.io/crates/v/riscv.svg)](https://crates.io/crates/riscv)
 
 ### Board support crates / SiFive
 
-*   [`hifive1`](https://github.com/riscv-rust/hifive1) - Board support crate for [HiFive1](https://www.sifive.com/boards/hifive1) and [LoFive](https://hackaday.io/project/26909-lofive) boards - ![crates.io](https://img.shields.io/crates/v/hifive.svg)
+*   [`hifive1`](https://github.com/riscv-rust/hifive1) - Board support crate for [HiFive1](https://www.sifive.com/boards/hifive1) and [LoFive](https://hackaday.io/project/26909-lofive) boards - [![crates.io](https://img.shields.io/crates/v/hifive.svg)](https://crates.io/crates/hifive)
 
 ## [11. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
 
@@ -482,7 +482,7 @@
 
 ### Developer Tools / Developer Utilities
 
-*   [Site Sucker](https://ricks-apps.com/osx/sitesucker/) - SiteSucker is a Macintosh application that automatically downloads websites from the Internet. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://itunes.apple.com/in/app/sitesucker/id442168834?mt=12)
+*   [Site Sucker](https://ricks-apps.com/osx/sitesucker/) - Automatically downloads websites. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://itunes.apple.com/in/app/sitesucker/id442168834?mt=12)
 
 ## [17. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
@@ -508,7 +508,7 @@
 ### Finite Elements
 
 *   [SfePy](https://sfepy.org) - Simple Finite Elements in Python.
-    (Python, BSD, [GitHub (⭐669)](https://github.com/sfepy/sfepy))
+    (Python, BSD, [GitHub (⭐751)](https://github.com/sfepy/sfepy))
 
 ### Community / Mesh tools
 
@@ -518,7 +518,7 @@
 
 ### Models/Projects
 
-*   [Ladder Network (⭐102)](https://github.com/divamgupta/ladder_network_keras) - Implementation of Ladder Network for Semi-Supervised Learning in Keras and Tensorflow
+*   [Ladder Network (⭐101)](https://github.com/divamgupta/ladder_network_keras) - Implementation of Ladder Network for Semi-Supervised Learning in Keras and Tensorflow
 
 ## [21. Awesome Okr](/content/domenicosolazzo/awesome-okr/week/README.md)
 
@@ -601,13 +601,13 @@
 
 ### Non-JavaScript Libraries / Themes
 
-*   [syn-antd](https://gitlab.com/synqrinus/syn-antd) - Ant Design wrapper for [ClojureScript](https://clojurescript.org/) and [Reagent (⭐4.7k)](https://github.com/reagent-project/reagent) using [shadow-cljs](http://shadow-cljs.org/) with tree-shaking support. As with other ClojureScript libraries, it cross-compiles to JavaScript.
+*   [syn-antd](https://gitlab.com/synqrinus/syn-antd) - Ant Design wrapper for [ClojureScript](https://clojurescript.org/) and [Reagent (⭐4.8k)](https://github.com/reagent-project/reagent) using [shadow-cljs](http://shadow-cljs.org/) with tree-shaking support. As with other ClojureScript libraries, it cross-compiles to JavaScript.
 
 ## [25. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Apps / Media
 
-*   [Wagtail-Textract (⭐32)](https://github.com/fourdigits/wagtail_textract) - Make Wagtail search Documents contents (PDF, Excel and Word, etc.).
+*   [Wagtail-Textract (⭐33)](https://github.com/fourdigits/wagtail_textract) - Make Wagtail search Documents contents (PDF, Excel and Word, etc.).
 
 ### Resources / Presentations
 
@@ -620,7 +620,7 @@
 *   [Wagtail & Whatsapp – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=47) by Lisa Adams & Codie Roelf.
 *   [Slack2Wagtail – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=785) by Coen van der Kamp & Lucas Moeskops.
 *   [Wagtail and Oscar – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=1634) by Lars van de Kerkhof.
-*   [wagtail-textract – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=3313) by Kees Hink. [Code (⭐32)](https://github.com/fourdigits/wagtail_textract).
+*   [wagtail-textract – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=3313) by Kees Hink. [Code (⭐33)](https://github.com/fourdigits/wagtail_textract).
 *   [Django 2.2 compatibility – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=3468) by Matt Wescott.
 *   [SEO dashboard – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=3937) by Janneke Janssen. [Code (⭐22)](https://github.com/LUKKIEN/wagtail-marketing-addons).
 *   [My First Wagtail Contribution – More formats in RichText Editor – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=4126) by Arifin Ibne Matin.
@@ -687,11 +687,11 @@
 
 ### Date and Time Processing
 
-*   [timezone (⭐351)](https://github.com/panthomakos/timezone) - Accurate current and historical timezones and transformations, with support for Geonames and Google latitude - longitude timezone lookups.
+*   [timezone (⭐354)](https://github.com/panthomakos/timezone) - Accurate current and historical timezones and transformations, with support for Geonames and Google latitude - longitude timezone lookups.
 
 ### Process Management and Monitoring
 
-*   [Health Monitor Rails (⭐212)](https://github.com/lbeder/health-monitor-rails) - A mountable Rails plug-in to check health of services (Database, Cache, Sidekiq, Redis, e.t.c.) used by the Rails app.
+*   [Health Monitor Rails (⭐214)](https://github.com/lbeder/health-monitor-rails) - A mountable Rails plug-in to check health of services (Database, Cache, Sidekiq, Redis, e.t.c.) used by the Rails app.
 
 ## [32. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
@@ -715,7 +715,7 @@
 
 ### Audio
 
-*   [libsndfile (⭐1.4k)](https://github.com/erikd/libsndfile/) - C library with C++ wrapper for reading and writing files containing sampled sound through one standard library interface. \[LGPL-2.1] [website](http://www.mega-nerd.com/libsndfile/)
+*   [libsndfile (⭐1.5k)](https://github.com/erikd/libsndfile/) - C library with C++ wrapper for reading and writing files containing sampled sound through one standard library interface. \[LGPL-2.1] [website](http://www.mega-nerd.com/libsndfile/)
 
 ### GUI
 
@@ -731,7 +731,7 @@
 
 ### Local and regional groups
 
-*   [Transit Techies NYC](https://transittechies.nyc/) - NYC-based in-person/online hybrid meetup for those interested in this repo. [Speaker list](https://transittechies.nyc/past) includes many contributors to this repo.
+*   [Transit Techies NYC](https://transittechies.nyc/) - NYC-based in-person/online hybrid meetup. [Speaker list](https://transittechies.nyc/past) includes many contributors to this repo.
 
 ## [38. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
@@ -743,7 +743,7 @@
 
 ### E-Commerce and Payments
 
-*   [NopCommerce (⭐9.1k)](https://github.com/nopSolutions/nopCommerce) - nopCommerce. Free open-source e-commerce shopping cart (ASP.NET Core)
+*   [NopCommerce (⭐9.4k)](https://github.com/nopSolutions/nopCommerce) - nopCommerce. Free open-source e-commerce shopping cart (ASP.NET Core)
 
 ### HTTP
 
@@ -751,7 +751,7 @@
 
 ### Package Management
 
-*   [Sleet (⭐348)](https://github.com/emgarten/sleet/) - A NuGet v3 static feed generator with support for AWS S3 and Azure Storage
+*   [Sleet (⭐374)](https://github.com/emgarten/sleet/) - A NuGet v3 static feed generator with support for AWS S3 and Azure Storage
 
 ## [40. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
@@ -761,13 +761,13 @@
 
 ### Vert.x Event Bus Clients
 
-*   [Elixir (⭐14)](https://github.com/PharosProduction/ExVertx) - Event bus support for Elixir apps using TCP socket.
+*   [Elixir (⭐15)](https://github.com/PharosProduction/ExVertx) - Event bus support for Elixir apps using TCP socket.
 
 ## [41. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
 ### Libraries
 
-*   [react-on-lambda (⭐260)](https://github.com/sultan99/react-on-lambda) - Replace JSX in React with functions (currying, compositions and etc).
+*   [react-on-lambda (⭐264)](https://github.com/sultan99/react-on-lambda) - Replace JSX in React with functions (currying, compositions and etc).
 
 ### Resources / Articles
 
@@ -804,11 +804,11 @@
 *   [BoardGameGeek](https://boardgamegeek.com/wiki/page/BGG_XML_API2) - Board games data.
 *   [metacritc](https://www.metacritic.com/game) - Game reviews and evaluation.
 *   [PokéAPI](https://pokeapi.co/) - Pokémon data of all generations.
-*   [smm-course-viewer (⭐15)](https://github.com/leomaurodesenv/smm-course-viewer) - Read courses from Super Mario Maker saves.
+*   [smm-course-viewer (⭐18)](https://github.com/leomaurodesenv/smm-course-viewer) - Read courses from Super Mario Maker saves.
 
 ### Artificial Intelligence / Web
 
-*   [Duck Hunt (⭐555)](https://github.com/MattSurabian/DuckHunt-JS) - Shooting game in ducks. [Play](http://duckhuntjs.com/).
+*   [Duck Hunt (⭐582)](https://github.com/MattSurabian/DuckHunt-JS) - Shooting game in ducks. [Play](http://duckhuntjs.com/).
 *   [Starship](http://maettig.com/code/canvas/starship-sorades-13k.zip) - Traditional starship game. [Play](http://games.leonardomauro.com/starshipsorades/).
 *   [WebNES](https://github.com/pubby) - Play rooms of NES in web browser. [Play](http://pubby.github.io/webnes/index_app.html).
 

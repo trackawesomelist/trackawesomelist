@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 27, 2017
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -44,15 +44,9 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [Image-to-Image Translation with Conditional Adversarial Networks (⭐141)](https://github.com/williamFalcon/pix2pix-keras) - Implementation of image to image (pix2pix) translation from the paper by [isola et al](https://arxiv.org/pdf/1611.07004.pdf).\[DEEP LEARNING]
+*   [Image-to-Image Translation with Conditional Adversarial Networks (⭐142)](https://github.com/williamFalcon/pix2pix-keras) - Implementation of image to image (pix2pix) translation from the paper by [isola et al](https://arxiv.org/pdf/1611.07004.pdf).\[DEEP LEARNING]
 
-## [7. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/README.md)
-
-### Websites
-
-*   Startup Collections - <http://startupcollections.com/>
-
-## [8. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
+## [7. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
 
 ### Tools / Other
 
@@ -62,24 +56,24 @@
 *   [EnCase](https://www.guidancesoftware.com/products/Pages/encase-forensic/overview.aspx) - The shared technology within a suite of digital investigations products by Guidance Software
 *   [xortool (⭐1.3k)](https://github.com/hellman/xortool) - A tool to analyze multi-byte XOR cipher
 
-## [9. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
+## [8. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
 
 ### Multimedia content processing
 
-*   [Flowblade (⭐2.6k)](https://github.com/jliljebl/flowblade) - A multitrack non-linear video editor.
+*   [Flowblade (⭐2.7k)](https://github.com/jliljebl/flowblade) - A multitrack non-linear video editor.
 *   [Snowmix](https://sourceforge.net/projects/snowmix/) - Live Video Mixer.
 
-## [10. Awesome Rails Gem](/content/hothero/awesome-rails-gem/README.md)
+## [9. Awesome Rails Gem](/content/hothero/awesome-rails-gem/README.md)
 
 ### File Uploading / Omniauth
 
 *   [shrine (⭐3k)](https://github.com/janko-m/shrine) -File Attachment toolkit for Ruby applications
 
-## [11. Awesome R](/content/qinwf/awesome-R/README.md)
+## [10. Awesome R](/content/qinwf/awesome-R/README.md)
 
 ### Graphic Displays
 
-*   [ggtech (⭐379)](https://github.com/ricardo-bion/ggtech) - ggplot2 tech themes and scales
+*   [ggtech (⭐391)](https://github.com/ricardo-bion/ggtech) - ggplot2 tech themes and scales
 
 ---
 

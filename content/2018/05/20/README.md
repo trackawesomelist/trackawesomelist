@@ -26,12 +26,12 @@
 
 ### Assembly Manipulation
 
-*   [Fody (⭐4.3k)](https://github.com/Fody/Fody) - Extensible tool for weaving .NET assemblies.
-*   [ILRepack (⭐1.1k)](https://github.com/gluck/il-repack) - Open-source alternative to ILMerge.
+*   [Fody (⭐4.4k)](https://github.com/Fody/Fody) - Extensible tool for weaving .NET assemblies.
+*   [ILRepack (⭐1.2k)](https://github.com/gluck/il-repack) - Open-source alternative to ILMerge.
 
 ### CLI
 
-*   [Gui.cs (⭐9.5k)](https://github.com/migueldeicaza/gui.cs) - Terminal UI toolkit for .NET.
+*   [Gui.cs (⭐9.9k)](https://github.com/migueldeicaza/gui.cs) - Terminal UI toolkit for .NET.
 
 ## [4. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
@@ -44,10 +44,6 @@
 ### Resources / Tutorials
 
 *   [Creating Custom Vue.js Plugins](https://alligator.io/vuejs/creating-custom-plugins/)
-
-### Components & Libraries / UI Components
-
-*   [vue-gallery-slideshow (⭐169)](https://github.com/KitchenStories/vue-gallery-slideshow) - Responsive gallery component for VueJS
 
 ---
 

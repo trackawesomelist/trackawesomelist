@@ -23,7 +23,7 @@
 
 ### ORM and Datamapping
 
-*   [diver (⭐49)](https://github.com/novabyte/diver) - A HBase driver for Erlang/Elixir using Jinterface and the Asynchbase Java client to query the database.
+*   [diver (⭐50)](https://github.com/novabyte/diver) - A HBase driver for Erlang/Elixir using Jinterface and the Asynchbase Java client to query the database.
 
 ### PDF
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 31, 2022
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,7 +16,7 @@
 
 ### Engines and Frameworks / Voxel Editors
 
-*   :tada: [macroquad (⭐3.1k)](https://github.com/not-fl3/macroquad) - The cross-platform game engine in Rust.
+*   :tada: [macroquad (⭐3.4k)](https://github.com/not-fl3/macroquad) - The cross-platform game engine in Rust.
 
 ## [3. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
 
@@ -28,7 +28,7 @@
 
 ### Network Tools / DDoS Tools
 
-*   [D(HE)ater (⭐175)](https://github.com/Balasys/dheater) - D(HE)ater sends forged cryptographic handshake messages to enforce the Diffie-Hellman key exchange.
+*   [D(HE)ater (⭐188)](https://github.com/Balasys/dheater) - D(HE)ater sends forged cryptographic handshake messages to enforce the Diffie-Hellman key exchange.
 
 ## [5. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
@@ -41,12 +41,12 @@
 
 ### Python / Computer Vision
 
-*   [deepface (⭐11k)](https://github.com/serengil/deepface) - A lightweight face recognition and facial attribute analysis (age, gender, emotion and race) framework for Python covering cutting-edge models such as VGG-Face, FaceNet, OpenFace, DeepFace, DeepID, Dlib and ArcFace.
-*   [retinaface (⭐1.1k)](https://github.com/serengil/retinaface) - deep learning based cutting-edge facial detector for Python coming with facial landmarks
+*   [deepface (⭐15k)](https://github.com/serengil/deepface) - A lightweight face recognition and facial attribute analysis (age, gender, emotion and race) framework for Python covering cutting-edge models such as VGG-Face, FaceNet, OpenFace, DeepFace, DeepID, Dlib and ArcFace.
+*   [retinaface (⭐1.3k)](https://github.com/serengil/retinaface) - deep learning based cutting-edge facial detector for Python coming with facial landmarks
 
 ### Python / General-Purpose Machine Learning
 
-*   [ChefBoost (⭐453)](https://github.com/serengil/chefboost) - a lightweight decision tree framework for Python with categorical feature support covering regular decision tree algorithms such as ID3, C4.5, CART, CHAID and regression tree; also some advanved bagging and boosting techniques such as gradient boosting, random forest and adaboost.
+*   [ChefBoost (⭐463)](https://github.com/serengil/chefboost) - a lightweight decision tree framework for Python with categorical feature support covering regular decision tree algorithms such as ID3, C4.5, CART, CHAID and regression tree; also some advanved bagging and boosting techniques such as gradient boosting, random forest and adaboost.
 
 ## [7. Awesome Digital History](/content/maehr/awesome-digital-history/README.md)
 
@@ -67,23 +67,13 @@
 
 *   [Année Politique Suisse](https://anneepolitique.swiss/) - Sources and database for swiss socio-political topics.
 
-## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / UI Components
-
-*   [vue3-promise-dialog (⭐68)](https://github.com/rlemaigre/vue3-promise-dialog) - Let's you create promise based dialogs in Vue 3 (Composition or Options API) with ease !
-
-## [9. Awesome Deno](/content/denolib/awesome-deno/README.md)
+## [8. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Modules / WebSocket
 
 *   [wocket (⭐104)](https://github.com/drashland/wocket) - A WebSocket library for Deno.
 
-### Registries / XML
-
-*   [Denopkg.dev](https://denopkg.dev/) - Use any public/private repository from GitHub/GitLab in your Deno project.
-
-## [10. Public Apis](/content/public-apis/public-apis/README.md)
+## [9. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Blockchain
 
@@ -97,13 +87,11 @@
 
   CORS: Unknown
 
-  Call this API: 
-
 
 
 ### Entertainment
 
-- API: [Corporate Buzz Words (⭐290)](https://github.com/sameerkumar18/corporate-bs-generator-api)
+- API: [Corporate Buzz Words (⭐299)](https://github.com/sameerkumar18/corporate-bs-generator-api)
 
   Description: REST API for Corporate Buzz Words
 
@@ -117,7 +105,7 @@
 
 ### Games & Comics
 
-- API: [GraphQL Pokemon (⭐146)](https://github.com/favware/graphql-pokemon)
+- API: [GraphQL Pokemon (⭐151)](https://github.com/favware/graphql-pokemon)
 
   Description: GraphQL powered Pokemon API. Supports generations 1 through 8
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 28, 2020
 
-22 awesome lists updated today.
+21 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -23,8 +23,8 @@
 
 ### Programming Languages
 
-*   [R (⭐5.9k)](https://github.com/qinwf/awesome-R#readme) - Functional programming language and environment for statistical computing and graphics.
-    *   [Learning (⭐545)](https://github.com/iamericfletcher/awesome-r-learning-resources#readme)
+*   [R (⭐6k)](https://github.com/qinwf/awesome-R#readme) - Functional programming language and environment for statistical computing and graphics.
+    *   [Learning (⭐566)](https://github.com/iamericfletcher/awesome-r-learning-resources#readme)
 
 ## [4. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
@@ -149,25 +149,19 @@ Free (Open Source)
 *   [IOC Finder](https://www.fireeye.com/services/freeware/ioc-finder.html) - Free tool from Mandiant for collecting host system data and reporting the presence of Indicators of Compromise (IOCs). Support for Windows only. No longer maintained. Only fully supported up to Windows 7 / Windows Server 2008 R2.
 *   [RegRipper (⭐477)](https://github.com/keydet89/RegRipper3.0) - Open source tool, written in Perl, for extracting/parsing information (keys, values, data) from the Registry and presenting it for analysis.
 
-## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / Frameworks
-
-*   [Stellar Admin Boilerplate (⭐15)](https://github.com/BootstrapDash/stellar-admin-vue-free) Boilerplate Admin template created using Bootstrap-Vue.[Live demo](https://www.bootstrapdash.com/demo/stellar-vue-free/preview/demo_1/)
-
-## [14. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
+## [13. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
 
 ### Articles & Blogs
 
 *   [beepb00p](https://beepb00p.xyz) - Writing about Quantified Self, owning the data and building the infrastructure.
 
-## [15. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
+## [14. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
 
 ### WSL Tools / Terminals
 
 *   [Alacritty (⭐54k)](https://github.com/alacritty/alacritty) - A terminal emulator with focus on performance and simplicity.
 
-## [16. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
+## [15. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
 ### In English
 
@@ -177,13 +171,13 @@ Free (Open Source)
 
 *   [Debugger Podcast](https://debuggerpodcast.ge/) - Podcast about development culture, technologies and career growth.
 
-## [17. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [16. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### App Routing
 
-*   [MonarchRouter (⭐41)](https://github.com/nikans/MonarchRouter) - Declarative state- and URL-based router. Complex automatic View Controllers hierarchy transitions. Time-tested server-side conventions.
+*   [MonarchRouter (⭐42)](https://github.com/nikans/MonarchRouter) - Declarative state- and URL-based router. Complex automatic View Controllers hierarchy transitions. Time-tested server-side conventions.
 
-## [18. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
+## [17. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
 
 ### Autobiographies and Biographies
 
@@ -281,25 +275,25 @@ Free (Open Source)
 
 
 
-## [19. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
+## [18. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
 ### Network and Middleware / Sensor and Acuator Interfaces
 
 *   [ros2\_ouster\_drivers (⭐98)](https://github.com/ros-drivers/ros2_ouster_drivers) - These are an implementation of ROS2 drivers for the Ouster OS-1 3D lidars.
 
-## [20. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
+## [19. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 
 ### Learning
 
 *   [Quantum Algorithm Implementations for Beginners](https://arxiv.org/pdf/1804.03719.pdf) - A brif survey of 20 different quantum algorithms using qiskit.
 
-## [21. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
+## [20. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
 
 ### CLI & Editor / iOS
 
 *   📖 [Firebase Tools UI (⭐239)](https://github.com/firebase/firebase-tools-ui) - Web UI for Firebase Emulator Suite.
 
-## [22. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
+## [21. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
 ### Packages / Articles Glimmer
 

@@ -16,7 +16,7 @@
 
 ### Other plugins
 
-*   [Playlist (⭐23)](https://github.com/phiamo/capacitor-plugin-playlist) - Native support for audio playlists, background support, and lock screen controls.
+*   [Playlist (⭐29)](https://github.com/phiamo/capacitor-plugin-playlist) - Native support for audio playlists, background support, and lock screen controls.
 
 ## [3. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
@@ -28,13 +28,13 @@
 
 ### Packages / Miscellaneous
 
-*   [wild-wild-path (⭐716)](https://github.com/ehmicky/wild-wild-path) - Object property paths with wildcards and regexes.
+*   [wild-wild-path (⭐722)](https://github.com/ehmicky/wild-wild-path) - Object property paths with wildcards and regexes.
 
 ## [5. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
 ### Third-Party Packages / Files/Images
 
-*   [django-pictures (⭐243)](https://github.com/codingjoe/django-pictures) - Responsive cross-browser image library using modern codes like AVIF & WebP.
+*   [django-pictures (⭐254)](https://github.com/codingjoe/django-pictures) - Responsive cross-browser image library using modern codes like AVIF & WebP.
 
 ---
 

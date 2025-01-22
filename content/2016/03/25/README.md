@@ -24,10 +24,6 @@
 
 ## [3. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
-### Job boards
-
-*   [Landing.jobs](https://landing.jobs/offers) filter -> Remote only
-
 ### Companies with "remote DNA"
 
 *   [Automattic](https://automattic.com/work-with-us/) - Makers of WordPress.com and Gravatar.

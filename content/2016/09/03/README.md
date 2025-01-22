@@ -28,10 +28,10 @@
 
 ### Compression
 
-*   [Brotli (⭐13k)](https://github.com/google/brotli) - Brotli compression format. Developed by Google. \[MIT]
-*   [FiniteStateEntropy (⭐1.3k)](https://github.com/Cyan4973/FiniteStateEntropy) - New generation entropy codecs : Finite State Entropy and Huff0.
+*   [Brotli (⭐14k)](https://github.com/google/brotli) - Brotli compression format. Developed by Google. \[MIT]
+*   [FiniteStateEntropy (⭐1.4k)](https://github.com/Cyan4973/FiniteStateEntropy) - New generation entropy codecs : Finite State Entropy and Huff0.
 *   [LZFSE (⭐1.8k)](https://github.com/lzfse/lzfse) - LZFSE compression library and command line tool. Developed by Apple.
-*   [zstd (⭐23k)](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm. Developed by Facebook. \[BSD]
+*   [zstd (⭐24k)](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm. Developed by Facebook. \[BSD]
 
 ## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

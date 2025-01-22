@@ -69,17 +69,17 @@
 
 ### Concurrency
 
-*   [RxGroovy (⭐156)](https://github.com/ReactiveX/RxGroovy) - RxJava bindings for Groovy
+*   [RxGroovy (⭐158)](https://github.com/ReactiveX/RxGroovy) - RxJava bindings for Groovy
 
 ## [6. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Deployment
 
-*   [DbUp (⭐2.3k)](https://github.com/DbUp/DbUp) - .NET library that helps you to deploy changes to SQL Server databases. It tracks which SQL scripts have been run already, and runs the change scripts that are needed to get your database up to date
+*   [DbUp (⭐2.4k)](https://github.com/DbUp/DbUp) - .NET library that helps you to deploy changes to SQL Server databases. It tracks which SQL scripts have been run already, and runs the change scripts that are needed to get your database up to date
 
 ### Micro Framework
 
-*   [.NET Micro Framework Interpreter (⭐487)](https://github.com/NETMF/netmf-interpreter) - Microsoft® .NET Micro Framework (NETMF) for developing embedded applications on small devices using Visual Studio
+*   [.NET Micro Framework Interpreter (⭐484)](https://github.com/NETMF/netmf-interpreter) - Microsoft® .NET Micro Framework (NETMF) for developing embedded applications on small devices using Visual Studio
 
 ### Office
 
@@ -192,7 +192,7 @@
 
 ## [12. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
-### Misc
+### Misc / Commerical Tools
 
 *   [Open Cognition Project](http://wiki.opencog.org/w/The_Open_Cognition_Project) - We're undertaking a serious effort to build a thinking machine
 *   [AITopics](http://aitopics.org/) - Large aggregation of AI resources
@@ -293,7 +293,7 @@ Beginning with taking you through essential data mining and management tasks suc
 
 ### Code Analysis and Metrics
 
-*   [Traceroute (⭐895)](https://github.com/amatsuda/traceroute) - A Rake task gem that helps you find the dead routes and actions for your Rails 3+ app
+*   [Traceroute (⭐901)](https://github.com/amatsuda/traceroute) - A Rake task gem that helps you find the dead routes and actions for your Rails 3+ app
 
 ### Core Extensions
 
@@ -313,7 +313,6 @@ Beginning with taking you through essential data mining and management tasks suc
 
 ### Resources / Community
 
-*   [Twitter](https://twitter.com/vuejs)
 *   [Official Forum](http://forum.vuejs.org/)
 
 ### Resources / Official Examples
@@ -328,11 +327,11 @@ Beginning with taking you through essential data mining and management tasks suc
 
 ### Examples and funny stuff
 
-*   [lolcat (⭐6)](https://github.com/restartr/ex-lolcat) - This is the clone of busyloop/lolcat. But it does not support animation and some features of the original.
+*   [lolcat (⭐7)](https://github.com/restartr/ex-lolcat) - This is the clone of busyloop/lolcat. But it does not support animation and some features of the original.
 
 ### JSON
 
-*   [jose (⭐306)](https://github.com/potatosalad/erlang-jose) - JSON Object Signing and Encryption (JOSE) for Erlang and Elixir.
+*   [jose (⭐314)](https://github.com/potatosalad/erlang-jose) - JSON Object Signing and Encryption (JOSE) for Erlang and Elixir.
 
 ### Natural Language Processing (NLP)
 
@@ -461,7 +460,7 @@ Beginning with taking you through essential data mining and management tasks suc
 
 ### Forms / Paid Books
 
-*   [Payform (⭐418)](https://github.com/jondavidjohn/payform) - A library (with jQuery plugin) for building credit card forms, validating inputs, and formatting numbers.
+*   [Payform (⭐427)](https://github.com/jondavidjohn/payform) - A library (with jQuery plugin) for building credit card forms, validating inputs, and formatting numbers.
 *   [Pickadate (⭐7.7k)](https://github.com/amsul/pickadate.js) - The mobile-friendly, responsive, and lightweight date & time input picker.
 
 ### Images, Maps and Charts / Paid Books

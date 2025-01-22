@@ -14,21 +14,21 @@
 
 ### Python / Trading & Backtesting
 
-*   [YABTE (⭐3)](https://github.com/bsdz/yabte) - Yet Another (Python) BackTesting Engine.
+*   [YABTE (⭐6)](https://github.com/bsdz/yabte) - Yet Another (Python) BackTesting Engine.
 
 ### Python / Risk Analysis
 
-*   [QuantLibRisks (⭐8)](https://github.com/auto-differentiation/QuantLib-Risks-Py) - Fast risks with QuantLib
-*   [XAD (⭐8)](https://github.com/auto-differentiation/xad-py) - Automatic Differentation (AAD) Library
+*   [QuantLibRisks (⭐13)](https://github.com/auto-differentiation/QuantLib-Risks-Py) - Fast risks with QuantLib
+*   [XAD (⭐12)](https://github.com/auto-differentiation/xad-py) - Automatic Differentation (AAD) Library
 
 ### CPP / Data Visualization
 
-*   [QuantLibRisks (⭐13)](https://github.com/auto-differentiation/QuantLib-Risks-Cpp) - Fast risks with QuantLib in C++
-*   [XAD (⭐229)](https://github.com/auto-differentiation/xad) - Automatic Differentation (AAD) Library
+*   [QuantLibRisks (⭐20)](https://github.com/auto-differentiation/QuantLib-Risks-Cpp) - Fast risks with QuantLib in C++
+*   [XAD (⭐351)](https://github.com/auto-differentiation/xad) - Automatic Differentation (AAD) Library
 
 ### Frameworks / Data Visualization
 
-*   XAD: Automatic Differentation (AAD) Library for [Python](https://pypi.org/project/xad/) and [C++ (⭐229)](https://github.com/auto-differentiation/xad)
+*   XAD: Automatic Differentation (AAD) Library for [Python](https://pypi.org/project/xad/) and [C++ (⭐351)](https://github.com/auto-differentiation/xad)
 
 ### Reproducing Works, Training & Books / Data Visualization
 
@@ -38,27 +38,27 @@
 
 ### no-std crates / WIP
 
-*   [wtx (⭐63)](https://github.com/c410-f3r/wtx): Among other things, provides implementations to interact with HTTP, WebSockets and Databases.
+*   [wtx (⭐247)](https://github.com/c410-f3r/wtx): Among other things, provides implementations to interact with HTTP, WebSockets and Databases.
 
 ## [3. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Game Development
 
-*   [grid (⭐16)](https://github.com/s0rg/grid) - Generic 2D grid with ray-casting, shadow-casting and path finding.
+*   [grid (⭐18)](https://github.com/s0rg/grid) - Generic 2D grid with ray-casting, shadow-casting and path finding.
 
 ### Networking
 
-*   [go-multiproxy (⭐6)](https://github.com/presbrey/go-multiproxy) - Library for making HTTP requests through a pool of proxies offering fault tolerance, load balancing, automatic retries, cookie management, and more, via http.Get/Post replacement or http.Client RoundTripper drop-in
+*   [go-multiproxy (⭐8)](https://github.com/presbrey/go-multiproxy) - Library for making HTTP requests through a pool of proxies offering fault tolerance, load balancing, automatic retries, cookie management, and more, via http.Get/Post replacement or http.Client RoundTripper drop-in
 
 ## [4. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Programming Languages Support / Diagnostics
 
-*   [neolooong/whichpy.nvim (⭐1)](https://github.com/neolooong/whichpy.nvim) - Switch Python interpreter without restarting LSP.
+*   [neolooong/whichpy.nvim (⭐24)](https://github.com/neolooong/whichpy.nvim) - Switch Python interpreter without restarting LSP.
 
 ### Keybinding / Diagnostics
 
-*   [mawkler/demicolon.nvim (⭐26)](https://github.com/mawkler/demicolon.nvim) - Use `;` and `,` keys to also repeat jumps to diagnostics (e.g. `]d`) and to [nvim-treesitter-textobjects (⭐2.1k)](https://github.com/nvim-treesitter/nvim-treesitter-textobjects?tab=readme-ov-file#text-objects-move) (e.g. `]f`), in addition to repeating `t`/`T`/`f`/`F`.
+*   [mawkler/demicolon.nvim (⭐96)](https://github.com/mawkler/demicolon.nvim) - Use `;` and `,` keys to also repeat jumps to diagnostics (e.g. `]d`) and to [nvim-treesitter-textobjects (⭐2.3k)](https://github.com/nvim-treesitter/nvim-treesitter-textobjects?tab=readme-ov-file#text-objects-move) (e.g. `]f`), in addition to repeating `t`/`T`/`f`/`F`.
 
 ## [5. Awesome Coq](/content/coq-community/awesome-coq/README.md)
 
@@ -70,7 +70,7 @@
 
 ### Resources / Discovery
 
-*   [NüschtOS Search (⭐5)](https://github.com/NuschtOS/search) - Simple and fast static-page NixOS option search.
+*   [NüschtOS Search (⭐73)](https://github.com/NuschtOS/search) - Simple and fast static-page NixOS option search.
 
 ## [7. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
 
@@ -82,14 +82,14 @@
 
 ### Miscellaneous / React
 
-*   [graphql-sunset (⭐0)](https://github.com/sophiabits/graphql-sunset) - Quickly and easily add support for the `Sunset` header to your GraphQL server, to better communicate upcoming breaking changes.
+*   [graphql-sunset (⭐1)](https://github.com/sophiabits/graphql-sunset) - Quickly and easily add support for the `Sunset` header to your GraphQL server, to better communicate upcoming breaking changes.
 
 ## [9. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### Integrations / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-stripe (⭐216)](https://github.com/richnologies/ngx-stripe) - A comprehensive library designed for seamless integration of [`Stripe Elements`](https://stripe.com/docs/stripe-js) and payment processing capabilities into Angular applications. Leveraging the powerful features of [`StripeJS`](https://stripe.com/docs/js), Ngx Stripe simplifies building robust, secure, and scalable payment solutions.
-*   [ngx-socket-io (⭐261)](https://github.com/rodgc/ngx-socket-io) - [Socket.IO](https://socket.io/) module for Angular.
+*   [ngx-stripe (⭐223)](https://github.com/richnologies/ngx-stripe) - A comprehensive library designed for seamless integration of [`Stripe Elements`](https://stripe.com/docs/stripe-js) and payment processing capabilities into Angular applications. Leveraging the powerful features of [`StripeJS`](https://stripe.com/docs/js), Ngx Stripe simplifies building robust, secure, and scalable payment solutions.
+*   [ngx-socket-io (⭐262)](https://github.com/rodgc/ngx-socket-io) - [Socket.IO](https://socket.io/) module for Angular.
 
 ### File Upload / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 

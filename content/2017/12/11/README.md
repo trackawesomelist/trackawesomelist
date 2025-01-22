@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 11, 2017
 
-7 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -14,15 +14,15 @@
 
 ## [2. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 
-### Tools and frameworks
+### Tools and frameworks (a-z↓)
 
-*   [reg-suit (⭐1.1k)](https://github.com/reg-viz/reg-suit) - Visual regression testing suite which compares images, stores snapshots, and notifies the difference to your GitHub repo.
+*   [reg-suit (⭐1.2k)](https://github.com/reg-viz/reg-suit) - Visual regression testing suite which compares images, stores snapshots, and notifies the difference to your GitHub repo.
 
 ## [3. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
 
 ### Web Frameworks
 
-*   [Irked (⭐30)](https://github.com/GreenfieldTech/irked) - Annotations-based configuration for Vert.x Web, with a controller framework and expressive APIs for REST.
+*   [Irked (⭐34)](https://github.com/GreenfieldTech/irked) - Annotations-based configuration for Vert.x Web, with a controller framework and expressive APIs for REST.
 
 ## [4. Awesome Robotics](/content/kiloreux/awesome-robotics/README.md)
 
@@ -30,13 +30,7 @@
 
 *   [Festo Robotics](https://www.festo.com/) Festo is known for making moving robots that move like animals such as the sea gull like SmartBird, jellyfish, butterflies and kangaroos.
 
-## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / UI Components
-
-*   [vue-modal-dialogs (⭐295)](https://github.com/hjkcai/vue-modal-dialogs) - ✨ Promisify your own dialogs!
-
-## [6. Awesome Hadoop](/content/youngwookim/awesome-hadoop/README.md)
+## [5. Awesome Hadoop](/content/youngwookim/awesome-hadoop/README.md)
 
 ### SQL on Hadoop
 
@@ -73,7 +67,7 @@
 *   [DataWorks Summit](https://dataworkssummit.com/)
 *   [Spark Summit](https://databricks.com/sparkaisummit)
 
-## [7. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [6. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### SDKs and Samples / IoT SDK
 

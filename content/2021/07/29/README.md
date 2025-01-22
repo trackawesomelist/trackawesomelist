@@ -16,7 +16,7 @@
 
 ### Software / Pastebins
 
-*   [rustypaste (⭐752)](https://github.com/orhun/rustypaste) - A minimal file upload/pastebin service. `MIT` `Rust`
+*   [rustypaste (⭐819)](https://github.com/orhun/rustypaste) - A minimal file upload/pastebin service. `MIT` `Rust`
 
 ## [3. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
@@ -28,7 +28,7 @@
 
 ### Resources / Tutorials
 
-*   [Learning Vue 3.0 (⭐1.1k)](https://github.com/chengpeiquan/learning-vue3)
+*   [Learning Vue 3.0 (⭐1.3k)](https://github.com/chengpeiquan/learning-vue3)
 
 ## [5. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
@@ -44,11 +44,11 @@
 
 ### Decentralized Systems
 
-*   [Stacks (⭐104)](https://github.com/friedger/awesome-stacks-chain#readme) - A smart contract platform secured by Bitcoin.
+*   [Stacks (⭐110)](https://github.com/friedger/awesome-stacks-chain#readme) - A smart contract platform secured by Bitcoin.
 
 ### Miscellaneous
 
-*   [Scriptable (⭐1.1k)](https://github.com/dersvenhesse/awesome-scriptable#readme) - An iOS app for automations in JavaScript.
+*   [Scriptable (⭐1.2k)](https://github.com/dersvenhesse/awesome-scriptable#readme) - An iOS app for automations in JavaScript.
 
 ## [7. Awesome Golem](/content/golemfactory/awesome-golem/README.md)
 
@@ -74,7 +74,7 @@
 
 ### Tools / Reverse Engineering
 
-*   [MVT (Mobile Verification Toolkit) (⭐10k)](https://github.com/mvt-project/mvt) - a collection of utilities to simplify and automate the process of gathering forensic traces helpful to identify a potential compromise of Android and iOS devices
+*   [MVT (Mobile Verification Toolkit) (⭐11k)](https://github.com/mvt-project/mvt) - a collection of utilities to simplify and automate the process of gathering forensic traces helpful to identify a potential compromise of Android and iOS devices
 *   ~~[Procyon](https://bitbucket.org/mstrobel/procyon/wiki/Java%20Decompiler) - Java decompiler~~
 *   ~~[Smali viewer](http://blog.avlyun.com/wp-content/uploads/2014/04/SmaliViewer.zip)~~
 *   ~~[ZjDroid](https://github.com/BaiduSecurityLabs/ZjDroid)~~, ~~[fork/mirror](https://github.com/yangbean9/ZjDroid)~~

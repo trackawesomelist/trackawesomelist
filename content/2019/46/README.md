@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 18 - Nov 24, 2019
 
-54 awesome lists updated this week.
+53 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -73,7 +73,7 @@
 
 ### Debug
 
-*   [μt (⭐1.2k)](https://github.com/boost-experimental/ut) - C++20 single header/single module, macro-free μ(micro)/Unit Testing Framework. \[Boost]
+*   [μt (⭐1.3k)](https://github.com/boost-experimental/ut) - C++20 single header/single module, macro-free μ(micro)/Unit Testing Framework. \[Boost]
 
 ## [8. Awesome Kde](/content/francoism90/awesome-kde/week/README.md)
 
@@ -175,8 +175,8 @@
 
 ### Dev Tools / Bare metal / kernel development
 
-*   [D-Scanner (⭐235)](https://github.com/dlang-community/D-Scanner) - Swiss-army knife for D source code (linting, static analysis, D code parsing, etc.)
-*   [dfmt (⭐197)](https://github.com/dlang-community/dfmt) - formatter for D source code
+*   [D-Scanner (⭐241)](https://github.com/dlang-community/D-Scanner) - Swiss-army knife for D source code (linting, static analysis, D code parsing, etc.)
+*   [dfmt (⭐204)](https://github.com/dlang-community/dfmt) - formatter for D source code
 
 ### IDEs & Editors / Bare metal / kernel development
 
@@ -184,7 +184,7 @@
 
 ### Web Frameworks / Bare metal / kernel development
 
-*   [dlang-requests (⭐151)](https://github.com/ikod/dlang-requests) - HTTP client library inspired by python-requests
+*   [dlang-requests (⭐154)](https://github.com/ikod/dlang-requests) - HTTP client library inspired by python-requests
 
 ## [20. Awesome Arch](/content/PandaFoss/Awesome-Arch/week/README.md)
 
@@ -202,20 +202,20 @@
 
 ### Projects / Boilerplate
 
-*   [django-project-template (⭐711)](https://github.com/jpadilla/django-project-template) - A deliberately basic project that has multiple staging environments and Heroku deployment config.
+*   [django-project-template (⭐720)](https://github.com/jpadilla/django-project-template) - A deliberately basic project that has multiple staging environments and Heroku deployment config.
 
 ## [23. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Design and Product / Other Tools
 
-*   [PicGo (⭐24k)](https://github.com/Molunerfinn/PicGo) - Support for common cdn image hosting tool.  [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Molunerfinn/PicGo)
-*   [uPic (⭐3.4k)](https://github.com/gee1k/uPic) - macOS native app, powerful terse image hosting client. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/gee1k/uPic)
+*   [PicGo (⭐25k)](https://github.com/Molunerfinn/PicGo) - Support for common cdn image hosting tool.  [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Molunerfinn/PicGo)
+*   [uPic (⭐3.5k)](https://github.com/gee1k/uPic) - macOS native app, powerful terse image hosting client. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/gee1k/uPic)
 
 ## [24. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Peripheral Access Crates / Silicon Labs
 
-*   [`efm32pg12-pac`](https://crates.io/crates/efm32pg12-pac) - Peripheral access API for Silicon Labs EFM32PG12 microcontrollers - ![crates.io](https://img.shields.io/crates/v/efm32pg12-pac)
+*   [`efm32pg12-pac`](https://crates.io/crates/efm32pg12-pac) - Peripheral access API for Silicon Labs EFM32PG12 microcontrollers - [![crates.io](https://img.shields.io/crates/v/efm32pg12-pac)](https://crates.io/crates/efm32pg12-pac)
 
 ## [25. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
@@ -240,10 +240,6 @@
 
 ## [28. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
-### Testing
-
-*   [CakePHP Codeception module (⭐46)](https://github.com/cakephp/codeception) - The official CakePHP integration with [Codeception](https://codeception.com).
-
 ### Demo
 
 *   [Sandbox](https://sandbox.dereuromark.de) - A sandbox CakePHP application with lots of demos and plugin showcasings.
@@ -251,7 +247,6 @@
 ### Help
 
 *   [Official CakePHP Forum](https://discourse.cakephp.org/) - This is for generic questions and alike.
-*   [IRC Channel](https://www.dereuromark.de/2013/01/27/irc-cakephp-channel/) - Live chat/discussion with other devs and core devs.
 *   [stackoverflow.com/questions/tagged/cakephp](https://stackoverflow.com/questions/tagged/cakephp) - This is for specific questions, ideally along with some example code.
 
 ### CakePHP Websites
@@ -345,13 +340,13 @@
 
 ### Performance / Ruby
 
-*   [TracerBench (⭐240)](https://github.com/TracerBench/tracerbench) - TracerBench is a controlled performance benchmarking tool for web applications, providing clear, actionable and usable insights into performance deltas.
+*   [TracerBench (⭐246)](https://github.com/TracerBench/tracerbench) - TracerBench is a controlled performance benchmarking tool for web applications, providing clear, actionable and usable insights into performance deltas.
 
 ## [33. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### UI / Bottom bars
 
-*   [Titled Navigation Bar (⭐374)](https://github.com/pedromassango/titled_navigation_bar) <!--stargazers:pedromassango/titled_navigation_bar--> - Animated bottom navigation bar that switch between icon and title by [Pedro Massango](http://github.com/pedromassango)
+*   [Titled Navigation Bar (⭐369)](https://github.com/pedromassango/titled_navigation_bar) <!--stargazers:pedromassango/titled_navigation_bar--> - Animated bottom navigation bar that switch between icon and title by [Pedro Massango](http://github.com/pedromassango)
 
 ### Navigation / Image Picker
 
@@ -378,7 +373,7 @@
 
 ### Other
 
-*   [lockfile-lint (⭐738)](https://github.com/lirantal/lockfile-lint) - Lint lockfiles for improved security and trust policies to mitigate malicious package injection and insecure lockfile resources.
+*   [lockfile-lint (⭐783)](https://github.com/lirantal/lockfile-lint) - Lint lockfiles for improved security and trust policies to mitigate malicious package injection and insecure lockfile resources.
 
 ## [36. Awesome Tap](/content/sindresorhus/awesome-tap/week/README.md)
 
@@ -428,10 +423,6 @@
 
 ## [41. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
-### Mobile
-
-*   [jonathan (⭐162)](https://github.com/Rudolph-Miller/jonathan) - A JSON encoder and decoder. [MIT](https://opensource.org/licenses/MIT).
-
 ### Community
 
 *   [Planet Lisp](http://planet.lisp.org/) - A meta blog that collects the contents of various Lisp-related blogs.
@@ -440,47 +431,41 @@
 
 ### Resources
 
-*   [Low Resource Languages (⭐380)](https://github.com/RIchardLitt/low-resource-languages) - A list of resources for conservation, development, and documentation of low resource (human) languages.
+*   [Low Resource Languages (⭐395)](https://github.com/RIchardLitt/low-resource-languages) - A list of resources for conservation, development, and documentation of low resource (human) languages.
 
-## [43. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
-
-### Components & Libraries / UI Components
-
-*   [vue-restricted-input (⭐10)](https://github.com/Scrum/vue-restricted-input) - Input mask library for vue.js based on [restricted-input (⭐67)](https://github.com/braintree/restricted-input)
-
-## [44. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [43. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Front-End Development
 
-*   [WordPress-Gatsby (⭐263)](https://github.com/henrikwirth/awesome-wordpress-gatsby#readme) - Web development technology stack with WordPress as a back end and Gatsby as a front end.
-*   [Tailwind CSS (⭐13k)](https://github.com/aniftyco/awesome-tailwindcss#readme) - Utility-first CSS framework for rapid UI development.
+*   [WordPress-Gatsby (⭐265)](https://github.com/henrikwirth/awesome-wordpress-gatsby#readme) - Web development technology stack with WordPress as a back end and Gatsby as a front end.
+*   [Tailwind CSS (⭐14k)](https://github.com/aniftyco/awesome-tailwindcss#readme) - Utility-first CSS framework for rapid UI development.
 
 ### Big Data
 
-*   [Qlik (⭐59)](https://github.com/ambster-public/awesome-qlik#readme) - Business intelligence platform for data visualization, analytics, and reporting apps.
+*   [Qlik (⭐61)](https://github.com/ambster-public/awesome-qlik#readme) - Business intelligence platform for data visualization, analytics, and reporting apps.
 
 ### Gaming
 
-*   [PlayCanvas (⭐250)](https://github.com/playcanvas/awesome-playcanvas#readme) - Game engine.
+*   [PlayCanvas (⭐261)](https://github.com/playcanvas/awesome-playcanvas#readme) - Game engine.
 
 ### Health and Social Science
 
-*   [Digital History (⭐221)](https://github.com/maehr/awesome-digital-history#readme) - Computer-aided scientific investigation of history.
+*   [Digital History (⭐232)](https://github.com/maehr/awesome-digital-history#readme) - Computer-aided scientific investigation of history.
 
-## [45. Awesome Nlg](/content/accelerated-text/awesome-nlg/week/README.md)
+## [44. Awesome Nlg](/content/accelerated-text/awesome-nlg/week/README.md)
 
 ### Neural Natural Language Generation
 
 *   [graph-2-text (⭐151)](https://github.com/diegma/graph-2-text) - Graph to sequence implemented in Pytorch combining Graph convolutional networks and opennmt-py.
 *   [Transformers (⭐111k)](https://github.com/huggingface/transformers) - State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.
 
-## [46. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
+## [45. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
 
 ### UI / [Gradle Tasks](https://marketplace.visualstudio.com/items?itemName=richardwillis.vscode-gradle)
 
 *   [Essence (⭐1)](https://github.com/essence-language/vscode-extension)
 
-## [47. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/week/README.md)
+## [46. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/week/README.md)
 
 ### Mathematics
 
@@ -529,29 +514,29 @@ Language: English
 Notable Channels: `#programming`, `#hardware-help`, `#software-help`,`#code-review`, `#project-showcase`, `#audio-tech`, `#retro-tech` \
 Language: English
 
-## [48. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
+## [47. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
 ### Utility / Docker Container Actions
 
-*   [Branch Protection Bot (⭐61)](https://github.com/benjefferies/branch-protection-bot) - Temporarily disable and re-enable "Include administrators" option in branch protection.
-*   [Get Latest Tag (⭐130)](https://github.com/WyriHaximus/github-action-get-previous-tag) - Get the previous tag from git.
-*   [Create Milestone (⭐15)](https://github.com/WyriHaximus/github-action-create-milestone) - Create a new open milestone given the title and description.
-*   [Close Milestone (⭐2)](https://github.com/WyriHaximus/github-action-close-milestone) - Close the given milestone.
-*   [Action to enforce branch naming rules (⭐50)](https://github.com/deepakputhraya/action-branch-name)
+*   [Branch Protection Bot (⭐72)](https://github.com/benjefferies/branch-protection-bot) - Temporarily disable and re-enable "Include administrators" option in branch protection.
+*   [Get Latest Tag (⭐182)](https://github.com/WyriHaximus/github-action-get-previous-tag) - Get the previous tag from git.
+*   [Create Milestone (⭐16)](https://github.com/WyriHaximus/github-action-create-milestone) - Create a new open milestone given the title and description.
+*   [Close Milestone (⭐4)](https://github.com/WyriHaximus/github-action-close-milestone) - Close the given milestone.
+*   [Action to enforce branch naming rules (⭐77)](https://github.com/deepakputhraya/action-branch-name)
 
 ### Pull Requests / Code Coverage
 
-*   [Enforce naming convention on pull request title (⭐80)](https://github.com/deepakputhraya/action-pr-title)
+*   [Enforce naming convention on pull request title (⭐125)](https://github.com/deepakputhraya/action-pr-title)
 
 ### GitHub Pages / Code Coverage
 
-*   [Deploy Google Analytics stats to GitHub Pages (⭐10)](https://github.com/cristianpb/analytics-google)
+*   [Deploy Google Analytics stats to GitHub Pages (⭐14)](https://github.com/cristianpb/analytics-google)
 
 ### Deployment / Code Coverage
 
 *   [Publish module to Puppet Forge (⭐8)](https://github.com/barnumbirr/action-forge-publish)
 
-## [49. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [48. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Culture
 
@@ -561,7 +546,7 @@ Language: English
 
 *   [Site Reliability Engineering Best Practices for Data Pipelines](https://medium.com/better-programming/site-reliability-engineering-best-practices-for-data-pipelines-44a78e91f6f0)
 
-## [50. Awesome Waves](/content/msmolyakov/awesome-waves/week/README.md)
+## [49. Awesome Waves](/content/msmolyakov/awesome-waves/week/README.md)
 
 ### Wallet
 
@@ -571,13 +556,13 @@ Language: English
 
 *   [waves-private-node](https://hub.docker.com/r/wavesplatform/waves-private-node) - Private local Waves Node. The easiest way to run your own isolated node to develop smart contracts and any experiments.
 
-## [51. Awesome Actions on Google](/content/ravirupareliya/awesome-actions-on-google/week/README.md)
+## [50. Awesome Actions on Google](/content/ravirupareliya/awesome-actions-on-google/week/README.md)
 
 ### Open source code
 
 *   [Spellcast (⭐5)](https://github.com/actions-on-google-labs/dialogflow-spellcast-nodejs) - Experimental Interactive Canvas game for the Google Assistant.
 
-## [52. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [51. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Malware Collection / Malware Corpora
 
@@ -588,13 +573,13 @@ Language: English
 *   [StringSifter (⭐659)](https://github.com/fireeye/stringsifter) - A machine learning tool
     that automatically ranks strings based on their relevance for malware analysis.
 
-## [53. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [52. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Storage and Media Processing
 
 *   [QuickChart](https://quickchart.io) — Generate embeddable image charts, graphs, and QR codes
 
-## [54. Awesome Maintainers](/content/nayafia/awesome-maintainers/week/README.md)
+## [53. Awesome Maintainers](/content/nayafia/awesome-maintainers/week/README.md)
 
 *   [@brettcannon](https://github.com/brettcannon), [Python](https://github.com/python)
     *   "The give and take of open source" ([video](https://www.youtube.com/watch?v=y19s6vPpGXA))

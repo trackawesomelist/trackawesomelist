@@ -23,7 +23,7 @@
 ### Frameworks / Runtimes
 
 *   [Ice](https://zeroc.com/) - Comprehensive RPC framework with support for C++, C#, Java, JavaScript, Python, and more.
-*   [Wangle (⭐3k)](https://github.com/facebook/wangle) - A framework providing a set of common client/server abstractions for building services in a consistent, modular, and composable way.
+*   [Wangle (⭐3.1k)](https://github.com/facebook/wangle) - A framework providing a set of common client/server abstractions for building services in a consistent, modular, and composable way.
 
 ## [4. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
 
@@ -50,13 +50,13 @@
 ### Apps / Widgets
 
 *   [wagtailgmaps (⭐83)](https://github.com/springload/wagtailgmaps) - Simple Google Maps address formatter for Wagtail fields.
-*   [wagtail-markdown (⭐192)](https://github.com/torchbox/wagtail-markdown) - Markdown fields and blocks for Wagtail.
+*   [wagtail-markdown (⭐193)](https://github.com/torchbox/wagtail-markdown) - Markdown fields and blocks for Wagtail.
 
 ### Apps / SEO and SMO
 
 *   [wagtail-metadata (⭐116)](https://github.com/takeflight/wagtail-metadata) - A tool to assist with metadata for social media and search engines.
 *   [wagtail-metadata-mixin (⭐47)](https://github.com/bashu/wagtail-metadata-mixin) - OpenGraph, Twitter Card and Google+ snippet tags for Wagtail CMS pages.
-*   [wagtail-schema.org (⭐69)](https://github.com/takeflight/wagtail-schema.org) - Schema.org JSON-LD tags for Wagtail sites.
+*   [wagtail-schema.org (⭐70)](https://github.com/takeflight/wagtail-schema.org) - Schema.org JSON-LD tags for Wagtail sites.
 
 ### Apps / Analytics
 

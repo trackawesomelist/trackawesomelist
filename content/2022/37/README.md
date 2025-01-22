@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 12 - Sep 18, 2022
 
-46 awesome lists updated this week.
+44 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Misc
 
-*   [SystemTextJson.JsonDiffPatch (⭐100)](https://github.com/weichch/system-text-json-jsondiffpatch) - High-performance, low-allocating JSON object diff and patch extension for System.Text.Json. Support generating patch document in RFC 6902 JSON Patch format.
+*   [SystemTextJson.JsonDiffPatch (⭐107)](https://github.com/weichch/system-text-json-jsondiffpatch) - High-performance, low-allocating JSON object diff and patch extension for System.Text.Json. Support generating patch document in RFC 6902 JSON Patch format.
 
 ## [2. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
 
@@ -50,7 +50,7 @@
 
 ### Driver crates / Other
 
-*   [usbd-human-interface-device (⭐109)](https://github.com/dlkj/usbd-human-interface-device) - Batteries included embedded USB HID library for `usb-device`. Includes concrete Keyboard (boot and NKRO), Mouse and Consumer Control implementations as well as support for building your own HID classes - [github (⭐109)](https://github.com/dlkj/usbd-human-interface-device) - ![crates.io](https://img.shields.io/crates/v/usbd-human-interface-device.svg)
+*   [usbd-human-interface-device (⭐121)](https://github.com/dlkj/usbd-human-interface-device) - Batteries included embedded USB HID library for `usb-device`. Includes concrete Keyboard (boot and NKRO), Mouse and Consumer Control implementations as well as support for building your own HID classes - [github (⭐121)](https://github.com/dlkj/usbd-human-interface-device) - [![crates.io](https://img.shields.io/crates/v/usbd-human-interface-device.svg)](https://crates.io/crates/usbd-human-interface-device)
 
 ## [6. Awesome Github Wiki](/content/MyHoneyBadger/awesome-github-wiki/week/README.md)
 
@@ -88,26 +88,20 @@
 
 
 
-## [10. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
-
-### Tools
-
-*   [ipfs-encrypted-share (⭐22)](https://github.com/whs/ipfs-encrypted-share) - Easy to use encrypted file uploader.
-
-## [11. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [10. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Actors
 
-*   [alf (⭐190)](https://github.com/antonmi/ALF) - Flow-based Application Layer Framework.
+*   [alf (⭐202)](https://github.com/antonmi/ALF) - Flow-based Application Layer Framework.
 
 ### Algorithms and Data structures
 
-*   [aja (⭐189)](https://github.com/sabiwara/aja) - High performance persistent vectors and ordered maps.
+*   [aja (⭐216)](https://github.com/sabiwara/aja) - High performance persistent vectors and ordered maps.
 *   [conrex (⭐54)](https://github.com/NAISorg/conrex) - An Elixir implementation of the CONREC algorithm for topographic or isochrone maps.
 
 ### Applications
 
-*   [Igthorn (⭐97)](https://github.com/cinderella-man/igthorn) - Cryptocurrecy trading platform / trading bot with admin panel.
+*   [Igthorn (⭐103)](https://github.com/cinderella-man/igthorn) - Cryptocurrecy trading platform / trading bot with admin panel.
 
 ### Artificial Intelligence
 
@@ -128,7 +122,7 @@
 
 ### Cryptography
 
-*   [nimble\_totp (⭐385)](https://github.com/dashbitco/nimble_totp) - Allows implementation of Time-based One-Time Passwords (TOTP) for 2FA.
+*   [nimble\_totp (⭐417)](https://github.com/dashbitco/nimble_totp) - Allows implementation of Time-based One-Time Passwords (TOTP) for 2FA.
 
 ### Debugging
 
@@ -140,17 +134,17 @@
 
 ### Games
 
-*   [pictionary (⭐30)](https://github.com/Arp-G/pictionary) - A multiplayer guessing and drawing game ([skribbl.io](https://skribbl.io/) clone).
-*   [rayex (⭐41)](https://github.com/shiryel/rayex) - Raylib bindings to Elixir for games programming.
+*   [pictionary (⭐32)](https://github.com/Arp-G/pictionary) - A multiplayer guessing and drawing game ([skribbl.io](https://skribbl.io/) clone).
+*   [rayex (⭐52)](https://github.com/shiryel/rayex) - Raylib bindings to Elixir for games programming.
 *   [Rovex (⭐14)](https://github.com/emadb/rovex) - An implementation of the Mars Rover kata in Elixir transformed in a basic multiplayer game.
 
 ### HTTP
 
-*   [SpiderMan (⭐22)](https://github.com/feng19/spider_man) - A base-on Broadway fast high-level web crawling & scraping framework for Elixir.
+*   [SpiderMan (⭐24)](https://github.com/feng19/spider_man) - A base-on Broadway fast high-level web crawling & scraping framework for Elixir.
 
 ### Instrumenting / Monitoring
 
-*   [prom\_ex (⭐582)](https://github.com/akoutmos/prom_ex) - Prometheus metrics and Grafana dashboards for all of your favorite Elixir libraries.
+*   [prom\_ex (⭐627)](https://github.com/akoutmos/prom_ex) - Prometheus metrics and Grafana dashboards for all of your favorite Elixir libraries.
 
 ### JSON
 
@@ -158,50 +152,50 @@
 
 ### Macros
 
-*   [typed\_struct (⭐727)](https://github.com/ejpcmac/typed_struct) - An Elixir library for defining structs with a type without writing boilerplate code.
+*   [typed\_struct (⭐737)](https://github.com/ejpcmac/typed_struct) - An Elixir library for defining structs with a type without writing boilerplate code.
 
 ### Miscellaneous
 
-*   [indicado (⭐32)](https://github.com/thisiscetin/indicado) - Technical indicator library for Elixir with no dependencies.
+*   [indicado (⭐37)](https://github.com/thisiscetin/indicado) - Technical indicator library for Elixir with no dependencies.
 
 ### Networking
 
-*   [Firezone (⭐6.5k)](https://github.com/firezone/firezone) - Open-source VPN server and egress firewall for Linux built on WireGuard. Firezone is easy to set up (all dependencies are bundled thanks to Chef Omnibus), secure, performant, and self hostable.
+*   [Firezone (⭐7k)](https://github.com/firezone/firezone) - Open-source VPN server and egress firewall for Linux built on WireGuard. Firezone is easy to set up (all dependencies are bundled thanks to Chef Omnibus), secure, performant, and self hostable.
 *   [sise (⭐0)](https://github.com/aytchell/sise) - A simple to use SSDP client.
 
 ### Protocols
 
-*   [borsh (⭐7)](https://github.com/alexfilatov/borsh) - Elixir implementation of the [BORSH](https://borsh.io) binary serializer.
+*   [borsh (⭐10)](https://github.com/alexfilatov/borsh) - Elixir implementation of the [BORSH](https://borsh.io) binary serializer.
 
 ### Queue
 
-*   [faktory\_worker (⭐36)](https://github.com/opt-elixir/faktory_worker) - An Elixir library for working with [Faktory](https://contribsys.com/faktory/), a polyglot job processing system made by the author of Sidekiq.
+*   [faktory\_worker (⭐38)](https://github.com/opt-elixir/faktory_worker) - An Elixir library for working with [Faktory](https://contribsys.com/faktory/), a polyglot job processing system made by the author of Sidekiq.
 
 ### QUIC
 
-*   [quicer (⭐212)](https://github.com/emqx/quic) - QUIC protocol erlang library.
+*   [quicer (⭐230)](https://github.com/emqx/quic) - QUIC protocol erlang library.
 
 ### Release Management
 
-*   [versioce (⭐29)](https://github.com/mpanarin/versioce) - An extensible version bumping and changelog generation for your mix project.
+*   [versioce (⭐30)](https://github.com/mpanarin/versioce) - An extensible version bumping and changelog generation for your mix project.
 
 ### Search
 
-*   [elasticlunr (⭐189)](https://github.com/heywhy/ex_elasticlunr) - A small, full-text search library for use in the Elixir environment.
+*   [elasticlunr (⭐191)](https://github.com/heywhy/ex_elasticlunr) - A small, full-text search library for use in the Elixir environment.
 
 ### Testing
 
-*   [patch (⭐187)](https://github.com/ihumanable/patch) - Ergonomic Mocking for Elixir.
+*   [patch (⭐197)](https://github.com/ihumanable/patch) - Ergonomic Mocking for Elixir.
 *   [toxiproxy\_ex (⭐52)](https://github.com/Jcambass/toxiproxy_ex) - API client for the resilience testing tool Toxiproxy.
 
 ### Text and Numbers
 
-*   [near\_api (⭐9)](https://github.com/alexfilatov/near_api) - A [NEAR](https://near.org) API in Elixir - a library for DApps development on the NEAR blockchain platform.
+*   [near\_api (⭐11)](https://github.com/alexfilatov/near_api) - A [NEAR](https://near.org) API in Elixir - a library for DApps development on the NEAR blockchain platform.
 *   [transformer (⭐0)](https://github.com/ByeongUkChoi/transformer) - Flexible type conversion lightweight library.
 
 ### Third Party APIs
 
-*   [nacha (⭐14)](https://github.com/RiverFinancial/nacha) - Elixir library for generating and parsing NACHA files for US ACH transfers.
+*   [nacha (⭐15)](https://github.com/RiverFinancial/nacha) - Elixir library for generating and parsing NACHA files for US ACH transfers.
 
 ### Translations and Internationalizations
 
@@ -218,131 +212,121 @@
 *   [Elixir Online Courses list - Classpert](https://classpert.com/elixir-programming) - A list of Elixir Online Courses (some are free) from Classpert Online Course Search.
 *   [ElixirLibs](https://elixirlibs.com) - A curated list of Elixir libraries.
 
-## [12. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
+## [11. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
 ### Community / Talk
 
 *   [Functional Programming Slack channel](https://fpslack.com/) – Community with a friendly channel for JavaScript as well as many other channels about functional programming in general.
 
-## [13. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
-
-### Components & Libraries / Scaffold
-
-*   [Vitectron (⭐13)](https://github.com/hyroge/vite-vue-electron) - Powerful & Modern Vue Desktop Application Template with TypeScript & JSX + Vue 3.x + Vite 2.x + Pinia 2.x + Vue-Router 4.x.
-
-## [14. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
+## [12. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
 ### Run Elm / Outdated Boilerplates
 
-*   [Elm Watch (⭐150)](https://github.com/lydell/elm-watch) - `elm make` in watch mode. Fast and reliable.
+*   [Elm Watch (⭐161)](https://github.com/lydell/elm-watch) - `elm make` in watch mode. Fast and reliable.
 
-## [15. Awesome Product Management](/content/dend/awesome-product-management/week/README.md)
+## [13. Awesome Product Management](/content/dend/awesome-product-management/week/README.md)
 
 ### Books / Obsidian
 
 *   [Shape Up](https://basecamp.com/shapeup) - By Ryan Singer.
 
-## [16. Awesome Bioie](/content/caufieldjh/awesome-bioie/week/README.md)
+## [14. Awesome Bioie](/content/caufieldjh/awesome-bioie/week/README.md)
 
 ### Datasets / Biomedical Text Sources
 
 *   [CORD-19 (⭐154)](https://github.com/allenai/cord19) - A corpus of scholarly manuscripts concerning COVID-19. Articles are primarily from PubMed Central and preprint servers, though the set also includes metadata on papers without full-text availability.
 
-## [17. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [15. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Register / Diagnostics
 
-*   [gennaro-tedesco/nvim-peekup (⭐291)](https://github.com/gennaro-tedesco/nvim-peekup) - Dynamically interact with Vim registers.
-*   [tversteeg/registers.nvim (⭐597)](https://github.com/tversteeg/registers.nvim) - Non-obtrusive minimal preview of Vim registers.
+*   [gennaro-tedesco/nvim-peekup (⭐307)](https://github.com/gennaro-tedesco/nvim-peekup) - Dynamically interact with Vim registers.
+*   [tversteeg/registers.nvim (⭐612)](https://github.com/tversteeg/registers.nvim) - Non-obtrusive minimal preview of Vim registers.
 
 ### Marks / Diagnostics
 
-*   [chentoast/marks.nvim (⭐809)](https://github.com/chentoast/marks.nvim) - A better user experience for viewing and interacting with Vim marks.
-
-### Tree-sitter Supported Colorscheme / Diagnostics
-
-*   [mcchrish/zenbones.nvim (⭐678)](https://github.com/mcchrish/zenbones.nvim) - A collection of Vim/Neovim colorschemes designed to highlight code using contrasts and font variations.
+*   [chentoast/marks.nvim (⭐936)](https://github.com/chentoast/marks.nvim) - A better user experience for viewing and interacting with Vim marks.
 
 ### Utility / Diagnostics
 
-*   [kazhala/close-buffers.nvim (⭐159)](https://github.com/kazhala/close-buffers.nvim) - Delete multiple Vim buffers based on different conditions.
-*   [CosmicNvim/cosmic-ui (⭐162)](https://github.com/CosmicNvim/cosmic-ui) - Cosmic-UI is a simple wrapper around specific Vim functionality. Built in order to provide a quick and easy way to create a Cosmic UI experience with Neovim!
+*   [kazhala/close-buffers.nvim (⭐167)](https://github.com/kazhala/close-buffers.nvim) - Delete multiple Vim buffers based on different conditions.
+*   [CosmicNvim/cosmic-ui (⭐164)](https://github.com/CosmicNvim/cosmic-ui) - Cosmic-UI is a simple wrapper around specific Vim functionality. Built in order to provide a quick and easy way to create a Cosmic UI experience with Neovim!
 
 ### Neovim Lua Development / Diagnostics
 
-*   [nvim-lua/popup.nvim (⭐357)](https://github.com/nvim-lua/popup.nvim) - An implementation of the Popup API from Vim.
-*   [anuvyklack/animation.nvim (⭐43)](https://github.com/anuvyklack/animation.nvim) - Create animations.
+*   [nvim-lua/popup.nvim (⭐374)](https://github.com/nvim-lua/popup.nvim) - An implementation of the Popup API from Vim.
+*   [anuvyklack/animation.nvim (⭐46)](https://github.com/anuvyklack/animation.nvim) - Create animations.
 
 ### Preconfigured Configuration / Diagnostics
 
 *   [SpaceVim/SpaceVim](https://spacevim.org) - A community-driven modular Vim/Neovim distribution, like spacemacs but for Vim/Neovim.
-*   [hackorum/VapourNvim (⭐527)](https://github.com/hackorum/VapourNvim) - A Neovim config for THE ULTIMATE Vim IDE-like experience.
+*   [hackorum/VapourNvim (⭐541)](https://github.com/hackorum/VapourNvim) - A Neovim config for THE ULTIMATE Vim IDE-like experience.
 
 ### Vim / Diagnostics
 
-*   [Vimawesome](https://vimawesome.com/) - Showcases various plugins for Vim and has a [neovim tag](https://vimawesome.com/?q=tag:neovim) for other plugins targeting Neovim.
+*   [Vimawesome](https://vimawesome.com/) - Showcases various plugins for Vim and has a [Neovim tag](https://vimawesome.com/?q=tag:neovim) for other plugins targeting Neovim.
 *   [awesome-vim (⭐2k)](https://github.com/akrawchyk/awesome-vim#tools) - Short list of Vim plugins and helpful guides.
-*   [vim-plugin-list (⭐115)](https://github.com/altermo/vim-plugin-list) - List of Vim and Neovim plugins.
+*   [vim-plugin-list (⭐132)](https://github.com/altermo/vim-plugin-list) - List of Vim and Neovim plugins.
 
-## [18. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
+## [16. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
 ### DevSecOps / Policy enforcement
 
 *   [Regula](https://regula.dev/) - Checks infrastructure as code templates (Terraform, CloudFormation, K8s manifests) for AWS, Azure, Google Cloud, and Kubernetes security and compliance using Open Policy Agent/Rego.
 
-## [19. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [17. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / Charts
 
 *   [ember-highcharts (⭐140)](https://github.com/ahmadsoe/ember-highcharts) - A Highcharts, HighStock and HighMaps components for ember-cli.
 
-## [20. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/week/README.md)
+## [18. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/week/README.md)
 
 ### AppImage consumption tools / Desktop integration
 
-*   [XApp Thumbnailers (⭐26)](https://github.com/linuxmint/xapp-thumbnailers) - Thumbnailers for GTK Desktop Environments, including one for the AppImage file format. Makes Gtk based file managers like Caja (MATE), Nautilus (GNOME), Nemo (Cinnamon), PCManFM (LXDE), and Thunar (Xfce) show application icons on AppImages.
+*   [XApp Thumbnailers (⭐38)](https://github.com/linuxmint/xapp-thumbnailers) - Thumbnailers for GTK Desktop Environments, including one for the AppImage file format. Makes Gtk based file managers like Caja (MATE), Nautilus (GNOME), Nemo (Cinnamon), PCManFM (LXDE), and Thunar (Xfce) show application icons on AppImages.
 
 ### AppImage consumption tools / Linux distributions
 
 *   [Zenwalk GNU Linux](http://www.zenwalk.org/) - Is "AppImage ready" and distributes some applications in AppImage format.
 
-## [21. Awesome Funny Markov](/content/sublimino/awesome-funny-markov/week/README.md)
+## [19. Awesome Funny Markov](/content/sublimino/awesome-funny-markov/week/README.md)
 
 ### Web and Tech
 
 *   [Phaker News](http://namuol.github.io/phaker-news/) - Another spin on Hacker News.
 *   [Your Swimsuit Jumped Over Its Own Weathercock, You Liar!](https://patchydollgames.itch.io/yourswimsuit) - A dating sim about the futility of dating sims.
 
-## [22. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
+## [20. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
 
 ### Table of Contents / Books
 
 *   [F# in Action](https://www.manning.com/books/f-sharp-in-action) - Book about practical F# development skills needed to create professional applications.
 
-## [23. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
+## [21. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
 
 ### Contents / Assets
 
 *   [midilib](https://www.lexaloffle.com/bbs/?cat=7#tag=midilib) - Custom SFX instruments
 
-## [24. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
+## [22. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
 
 ### IDE and editors
 
 *   [GNU Emacs Manual](https://www.gnu.org/software/emacs/manual/emacs.html) - Free Software Foundation Inc. (HTML, PDF)
-*   [Learn Vim (the Smart Way) (⭐13k)](https://github.com/iggredible/Learn-Vim) - Igor Irianto (HTML) *(:construction: in process)*
+*   [Learn Vim (the Smart Way) (⭐14k)](https://github.com/iggredible/Learn-Vim) - Igor Irianto (HTML) *(:construction: in process)*
 *   [Learn Vim For the Last Time](https://danielmiessler.com/study/vim/) - Daniel Miessler
 *   [VIM-GALORE - All things Vim! (⭐17k)](https://github.com/mhinz/vim-galore#readme) - Marco Hinz (HTML)
 *   [Vim Recipes](https://web.archive.org/web/20130302172911/http://vim.runpaint.org/vim-recipes.pdf) - Run Paint Run Run, Run Paint Press (PDF) *(:card\_file\_box: archived)*
 *   [Visual Studio 2019 Succinctly](https://www.syncfusion.com/ebooks/visual-studio-2019-succinctly) - Alessandro Del Sole (online, PDF)
 
-## [25. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
+## [23. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
 
 ### Plugins & Libraries
 
-*   [leap (⭐41)](https://github.com/kurtome/leap) - An opinionated toolkit for creating 2D platformers. By [kurtome](https://github.com/kurtome)
+*   [leap (⭐42)](https://github.com/kurtome/leap) - An opinionated toolkit for creating 2D platformers. By [kurtome](https://github.com/kurtome)
 
-## [26. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [24. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### Specialty Search Engines
 
@@ -350,22 +334,18 @@
 
 ### File Search
 
-*   [de digger](https://www.dedigger.com/) - is a website that allows you to find any types of files that are publicly avilable in a Google Drive.
+*   [de digger](https://www.dedigger.com/) - is a website that allows you to find any types of files that are publicly available in a Google Drive.
 
-### People Investigations / Telegram
-
-*   [JailBase](https://www.jailbase.com/) - is an information site that allows you to search for arrested persons you might know, and even get notified if someone you know gets arrested.
-
-### Email Search / Email Check / Telegram
+### Email Search / Email Check / Steam
 
 *   [Email Format](http://email-format.com) - is a website that allows you to find email address formats used by different companies.
 *   [EmailHippo](https://tools.verifyemailaddress.io) - is an email address verification platform that will check whether a given email address exist or not.
 
-### Job Search Resources / Telegram
+### Job Search Resources / Steam
 
 *   [Indeed](http://www.indeed.com) - is an online job searching website that gives job seekers free access to search for a job, post their resumes, and research companies.
 
-### Domain and IP Research / Telegram
+### Domain and IP Research / Steam
 
 *   [IP Location](https://www.iplocation.net) - is used for mapping of an IP address or MAC address to the real-world geographic location of an Internet-connected computing or a mobile device.
 *   [IPFingerprints](http://www.ipfingerprints.com) - is used to find the approximate geographic location of an IP address along with some other useful information including ISP, TimeZone, Area Code, State.
@@ -379,62 +359,62 @@
 *   [WebMeUp](http://webmeup.com) - is the Web's freshest and fastest growing backlink index, and the primary source of backlink data for SEO PowerSuite.
 *   [Whois Arin Online](https://whois.arin.net) - is a web service for Whois data contained within ARIN's registration database
 
-### Web History and Website Capture / Telegram
+### Web History and Website Capture / Steam
 
 *   [Archive.is](http://archive.is) - is a website that allows you to archive a snapshot of you websites that will always remains online evenif the original page disappears.
 
-### VPN Services / Telegram
+### VPN Services / Steam
 
 *   [VPN Comparison by That One Privacy Guy](https://thatoneprivacysite.net/) - is a summary list of top best VPN services.
 
-### Privacy and Encryption Tools / Telegram
+### Privacy and Encryption Tools / Steam
 
 *   [KeePass Password Safe](http://keepass.info) - is a free and open-source password manager that uses the most secure encryption algorithms to safegard your passwords.
 
-## [27. Awesome Agriculture](/content/brycejohnston/awesome-agriculture/week/README.md)
+## [25. Awesome Agriculture](/content/brycejohnston/awesome-agriculture/week/README.md)
 
 ### Automation and Robotics
 
 *   [Fields2Cover (⭐222)](https://github.com/Fields2Cover/Fields2Cover) - Robust and efficient coverage paths for autonomous agricultural vehicles.
 
-## [28. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [26. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Standard CLI
 
-*   [mcli (⭐29)](https://github.com/jxskiss/mcli) - A minimal but very powerful cli library for Go.
+*   [mcli (⭐36)](https://github.com/jxskiss/mcli) - A minimal but very powerful cli library for Go.
 
 ### Miscellaneous Data Structures and Algorithms
 
-*   [go-generics (⭐69)](https://github.com/bobg/go-generics) - Generic slice, map, set, iterator, and goroutine utilities.
-*   [quadtree (⭐34)](https://github.com/s0rg/quadtree) - Generic, zero-alloc, 100%-test covered quadtree.
+*   [go-generics (⭐79)](https://github.com/bobg/go-generics) - Generic slice, map, set, iterator, and goroutine utilities.
+*   [quadtree (⭐37)](https://github.com/s0rg/quadtree) - Generic, zero-alloc, 100%-test covered quadtree.
 
 ### Relational Database Drivers
 
-*   [ydb-go-sdk (⭐134)](https://github.com/ydb-platform/ydb-go-sdk) - native and database/sql driver YDB (Yandex Database)
+*   [ydb-go-sdk (⭐147)](https://github.com/ydb-platform/ydb-go-sdk) - native and database/sql driver YDB (Yandex Database)
 
 ### Goroutines
 
 *   [go-workerpool (⭐12)](https://github.com/zenthangplus/go-workerpool) - Inspired from Java Thread Pool, Go WorkerPool aims to control heavy Go Routines.
-*   [routine (⭐216)](https://github.com/timandy/routine) - `routine` is a `ThreadLocal` for go library. It encapsulates and provides some easy-to-use, non-competitive, high-performance `goroutine` context access interfaces, which can help you access coroutine context information more gracefully.
+*   [routine (⭐242)](https://github.com/timandy/routine) - `routine` is a `ThreadLocal` for go library. It encapsulates and provides some easy-to-use, non-competitive, high-performance `goroutine` context access interfaces, which can help you access coroutine context information more gracefully.
 
 ### Messaging
 
-*   [Ratus (⭐106)](https://github.com/hyperonym/ratus) - Ratus is a RESTful asynchronous task queue server.
+*   [Ratus (⭐110)](https://github.com/hyperonym/ratus) - Ratus is a RESTful asynchronous task queue server.
 
 ### Scrapers
 
-*   [go-recipe (⭐25)](https://github.com/kkyr/go-recipe) - A package for scraping recipes from websites.
+*   [go-recipe (⭐28)](https://github.com/kkyr/go-recipe) - A package for scraping recipes from websites.
 
 ### Utilities
 
 *   [countries (⭐87)](https://github.com/pioz/countries) - All you need when you are working with countries in Go.
 *   [graterm (⭐26)](https://github.com/skovtunenko/graterm) - Provides primitives to perform ordered (sequential/concurrent) GRAceful TERMination (aka shutdown) in Go application.
-*   [remote-touchpad (⭐508)](https://github.com/Unrud/remote-touchpad) - Control mouse and keyboard from a smartphone.
+*   [remote-touchpad (⭐569)](https://github.com/Unrud/remote-touchpad) - Control mouse and keyboard from a smartphone.
 *   [scan (⭐63)](https://github.com/wroge/scan) - Scan sql rows into any type powered by generics.
 
 ### Code Analysis / Libraries for creating HTTP middlewares
 
-*   [asty (⭐78)](https://github.com/asty-org/asty) - Converts golang AST to JSON and JSON to AST.
+*   [asty (⭐82)](https://github.com/asty-org/asty) - Converts golang AST to JSON and JSON to AST.
 
 ### E-books for purchase / Libraries for creating HTTP middlewares
 
@@ -445,20 +425,20 @@
 *   [Games With Go](https://www.youtube.com/watch?v=9D4yH7e_ea8\&list=PLDZujg-VgQlZUy1iCqBbe5faZLMkA3g2x) - A video series teaching programming and game development.
 *   [GopherCoding](https://gophercoding.com/) - Collection of code snippets and tutorials to help tackle every day issues.
 
-## [29. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [27. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Bookmarks and Link Sharing
 
-*   [NeonLink (⭐285)](https://github.com/AlexSciFier/neonlink) - Self-hosted bookmark service with unique design and simple installation with Docker. `MIT` `Docker`
+*   [NeonLink (⭐324)](https://github.com/AlexSciFier/neonlink) - Self-hosted bookmark service with unique design and simple installation with Docker. `MIT` `Docker`
 
 ### Software / Communication - Video Conferencing
 
-*   [MiroTalk P2P](https://p2p.mirotalk.com) - Simple, secure, fast real-time video conferences up to 4k and 60fps, compatible with all browsers and platforms. ([Demo](https://p2p.mirotalk.com/newcall), [Source Code (⭐2.9k)](https://github.com/miroslavpejic85/mirotalk)) `AGPL-3.0` `Nodejs/Docker`
-*   [MiroTalk SFU](https://sfu.mirotalk.com) - Simple, secure, scalable real-time video conferences up to 4k, compatible with all browsers and platforms. ([Demo](https://sfu.mirotalk.com/newroom), [Source Code (⭐2k)](https://github.com/miroslavpejic85/mirotalksfu)) `AGPL-3.0` `Nodejs/Docker`
+*   [MiroTalk P2P](https://p2p.mirotalk.com) - Simple, secure, fast real-time video conferences up to 4k and 60fps, compatible with all browsers and platforms. ([Demo](https://p2p.mirotalk.com/newcall), [Source Code (⭐3.2k)](https://github.com/miroslavpejic85/mirotalk)) `AGPL-3.0` `Nodejs/Docker`
+*   [MiroTalk SFU](https://sfu.mirotalk.com) - Simple, secure, scalable real-time video conferences up to 4k, compatible with all browsers and platforms. ([Demo](https://sfu.mirotalk.com/newroom), [Source Code (⭐2.2k)](https://github.com/miroslavpejic85/mirotalksfu)) `AGPL-3.0` `Nodejs/Docker`
 
 ### Software / E-commerce
 
-*   [MedusaJs](https://medusajs.com/) - Medusa is an open-source headless commerce engine that enables developers to create amazing digital commerce experiences. ([Demo](https://next.medusajs.com/), [Source Code (⭐24k)](https://github.com/medusajs/medusa)) `MIT` `Nodejs`
+*   [MedusaJs](https://medusajs.com/) - Medusa is an open-source headless commerce engine that enables developers to create amazing digital commerce experiences. ([Demo](https://next.medusajs.com/), [Source Code (⭐27k)](https://github.com/medusajs/medusa)) `MIT` `Nodejs`
 
 ### Software / Internet of Things (IoT)
 
@@ -470,13 +450,13 @@
 
 ### Software / Self-hosting Solutions
 
-*   [CasaOS](https://www.casaos.io/) - A simple, easy-to-use, elegant open-source Home Cloud system. ([Source Code (⭐25k)](https://github.com/IceWhaleTech/CasaOS)) `Apache-2.0` `Go/Docker`
+*   [CasaOS](https://www.casaos.io/) - A simple, easy-to-use, elegant open-source Home Cloud system. ([Source Code (⭐28k)](https://github.com/IceWhaleTech/CasaOS)) `Apache-2.0` `Go/Docker`
 
 ### Software / Task Management & To-do Lists
 
-*   [Our Shopping List (⭐84)](https://github.com/nanawel/our-shopping-list) - Simple shared list application. Typical uses include shopping lists of course, and any other small todo-list that needs to be used collaboratively. ([Demo](https://osl.lanterne-rouge.info/)) `AGPL-3.0` `Docker`
+*   [Our Shopping List (⭐108)](https://github.com/nanawel/our-shopping-list) - Simple shared list application. Typical uses include shopping lists of course, and any other small todo-list that needs to be used collaboratively. ([Demo](https://osl.lanterne-rouge.info/)) `AGPL-3.0` `Docker`
 
-## [30. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+## [28. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Public Data Resources / Housing
 
@@ -486,44 +466,44 @@
 
 *   [RAPT](https://rapt-fema.hub.arcgis.com/pages/data) - The Resilience Analysis & Planning Tool (RAPT) gives everyone easy access to important community data and analysis tools related to community resilience. The community resilience indicators in the RAPT were pulled from the Community Resilience Indicator Analysis (CRIA).
 
-## [31. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
+## [29. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
-### Online services
+### Online services (a-z↓)
 
 *   [BugBug.io](https://bugbug.io/) - Lightweight test automation tool for web applications. Easy to learn and doesn't require coding. It's free, with unlimited tests. For an additional monthly fee, you also get cloud monitoring and CI/CD integration.
 
-### Blog posts
+### Blog posts  (a-z↓)
 
-*   [UI Visual Regression Testing with Micoo](https://mikuu.medium.com/ui-visual-regression-testing-with-micoo-12c7a4a036b9) - Introduction about how to do visual regression testing with Micoo service
 *   [Poor man's visual regression testing](https://idkshite.com/posts/compare-visual-changes) - Improved manual visual regression testing with the PerfectPixel chrome plugin.
+*   [UI Visual Regression Testing with Micoo](https://mikuu.medium.com/ui-visual-regression-testing-with-micoo-12c7a4a036b9) - Introduction about how to do visual regression testing with Micoo service
 
-## [32. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [30. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [autodark (cravend) (⭐2)](https://github.com/cravend/autodark) - Switches between user-specified light and dark themes. Only works on macOS.
 *   [autodark (vbwx) (⭐0)](https://github.com/vbwx/zsh-autodark) - Switches to another Terminal profile if dark mode is enabled (macOS-only).
-*   [mkarch (⭐4)](https://github.com/0xRZ/mkarch) - ZSH plugin that allows you to create archives using multiple different compression formats.
-*   [notenote (⭐3)](https://github.com/DrgnFireYellow/notenote/) - Makes it easy to take notes.
+*   [mkarch (⭐5)](https://github.com/0xRZ/mkarch) - ZSH plugin that allows you to create archives using multiple different compression formats.
+*   [notenote (⭐4)](https://github.com/DrgnFireYellow/notenote/) - Makes it easy to take notes.
 *   [symfony (voronkovich) (⭐5)](https://github.com/voronkovich/symfony.plugin.zsh) - ZSH plugin for [Symfony](https://symfony.com/).
-*   [zman (⭐20)](https://github.com/mattmc3/zman) - Use [fzf (⭐63k)](https://github.com/junegunn/fzf) to quickly browse ZSH manuals.
+*   [zman (⭐25)](https://github.com/mattmc3/zman) - Use [fzf (⭐67k)](https://github.com/junegunn/fzf) to quickly browse ZSH manuals.
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [openstack (⭐3)](https://github.com/florentinl/openstack-zsh-plugin) - Add functions and aliases for managing [OpenStack](https://www.openstack.org/).
+*   [openstack](https://github.com/florentinl/openstack-zsh-plugin) - Add functions and aliases for managing [OpenStack](https://www.openstack.org/).
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [cravend (⭐0)](https://github.com/cravend/theme) - Includes `hostname` decorator (only in active `ssh` sessions) and `git` status decorations.
 *   [zoo (⭐2)](https://github.com/salamantos/zoo_sh) - Casual theme with animal emoji. Includes decorators for current directory, time and `git` status.
 
-## [33. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [31. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Misc
 
-*   [RationalityFrontline/kevent (⭐12)](https://github.com/RationalityFrontline/kevent) - A powerful in-process event dispatcher based on Kotlin and Coroutines.
+*   [RationalityFrontline/kevent (⭐13)](https://github.com/RationalityFrontline/kevent) - A powerful in-process event dispatcher based on Kotlin and Coroutines.
 
-## [34. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [32. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Bayesian Modeling / Bayesian Induction
 
@@ -540,26 +520,25 @@
 ### Meta-Level Considerations / Rationality
 
 *   [The Adaptive Nature of Human Categorization Behavior](http://act-r.psy.cmu.edu/wordpress/wp-content/uploads/2012/12/89AdaptiveNature.pdf) - ***Psychological Review***, 1991. \[[All Versions](https://scholar.google.com/scholar?cluster=7349048316173616836\&hl=en\&as_sdt=0,5)]. The original paper that relates cognitive resource limitation with Bayesian rational analysis, in the case of categorization behavior.
-*   [Understanding Human Intelligence through Human Limitations](https://cocosci.princeton.edu/papers/griffiths_understanding.pdf) - ***Trends in Cognitive Sciences***, 2020. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=6469796133334580403)]. Tom Griffiths's review on understanding the uniqueness of human intelligence through three aspects of human limitations.
 
 ### Inductive Logic & Program Synthesis / Commonsense Knowledgebase
 
 *   [Synthesizing theories of human language with Bayesian program induction](http://cap.csail.mit.edu/sites/default/files/research-pdfs/Synthesizing%20theories%20of%20human%20language%20with%20Bayesian%20program%20induction.pdf) - ***Nature Communications***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=8603772394100237159\&hl=en\&as_sdt=0,5)].
 
-## [35. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
+## [33. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
 
 ### Automation / Conversion
 
-*   [postman2jmx (⭐164)](https://github.com/Loadium/postman2jmx) - Postman collection to JMeter jmx file converter.
+*   [postman2jmx (⭐175)](https://github.com/Loadium/postman2jmx) - Postman collection to JMeter jmx file converter.
 *   [convert-postman-jmeter (⭐10)](https://github.com/sercheo87/convert-postman-jmeter) - Convert Postman projects to JMeter.
 
-## [36. Awesome Opengl](/content/eug/awesome-opengl/week/README.md)
+## [34. Awesome Opengl](/content/eug/awesome-opengl/week/README.md)
 
 ### Libraries
 
 *   [morphologica (⭐187)](https://github.com/ABRG-Models/morphologica) - OpenGL graphics engine for data visualization, especially of numerical simulations.
 
-## [37. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [35. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Prompt Engineering / Prompt Engineering for Text-to-image
 
@@ -587,32 +566,32 @@
 *   [Adobe should make a boring app for prompt engineers (Interconnected)](https://interconnected.org/home/2022/06/02/dalle)
 *   [\[2206.00169\] Discovering the Hidden Vocabulary of DALLE-2](https://arxiv.org/abs/2206.00169)
 
-## [38. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
+## [36. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
 
 ### 📖 Articles / 🌱 Third Party
 
 *   [Blazing Fast Unit Tests - Fiber/fasthttp/http Internals](https://medium.com/trendyol-tech/golang-blazing-fast-unit-tests-fiber-fasthttp-http-internals-and-optimizing-http-server-tests-bbd1fe7b944b)
 
-## [39. Awesome Ava](/content/avajs/awesome-ava/week/README.md)
+## [37. Awesome Ava](/content/avajs/awesome-ava/week/README.md)
 
 ### Packages
 
 *   [ava-postgres (⭐3)](https://github.com/seamapi/ava-postgres) - get a fresh Postgres database for every test
 
-## [40. Awesome Building Blocks for Web Apps](/content/componently-com/awesome-building-blocks-for-web-apps/week/README.md)
+## [38. Awesome Building Blocks for Web Apps](/content/componently-com/awesome-building-blocks-for-web-apps/week/README.md)
 
 ### Exit Intent Popup
 
 *   [Embedery](https://www.embedery.com) - Popups to engage visitors.
 
-## [41. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [39. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Gaming Software / System Related Tools
 
 *   [Porting Kit](http://portingkit.com/) - Install Windows® Games inside your Mac. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [RPCS3](https://rpcs3.net) - The Open-source PlayStation 3 Emulator [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/RPCS3/rpcs3)
 
-## [42. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [40. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Videos / Others
 
@@ -624,7 +603,7 @@
 
 *   [ASP.NET Core updates in .NET 7 Release Candidate 1](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-7-rc-1/) - September 14, 2022 - .NET 7 Release Candidate 1 (RC1) is now available and includes many great new improvements to ASP.NET Core.
 
-## [43. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+## [41. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### Media Streaming Platforms
 
@@ -644,8 +623,8 @@
 *   Shazam - It's under [Apple's privacy policy](https://tosdr.org/en/service/158). The android app [has a few Google trackers](https://reports.exodus-privacy.eu.org/en/reports/com.shazam.android/latest/).
 *   SoundHound - Has way too many [trackers](https://reports.exodus-privacy.eu.org/en/reports/com.melodis.midomiMusicIdentifier.freemium/latest/) for a music recognition app.
 *   Musicxmatch - The app [has trackers](https://reports.exodus-privacy.eu.org/en/reports/com.musixmatch.android.lyrify/latest/) and requires a dangerous amount of permissions.
-*   [SongRec (⭐1.3k)](https://github.com/marin-m/SongRec) - An open-source Shazam client for Linux, written in Rust.
-*   [SongID Telegram Bot (⭐84)](https://github.com/smcclennon/SongID) - A Telegram bot that can identify music in audio/video files you send it.
+*   [SongRec (⭐1.4k)](https://github.com/marin-m/SongRec) - An open-source Shazam client for Linux, written in Rust.
+*   [SongID Telegram Bot (⭐90)](https://github.com/smcclennon/SongID) - A Telegram bot that can identify music in audio/video files you send it.
 
 ### Video and Audio Conferencing
 
@@ -656,28 +635,27 @@
 *   **Instagram** - [Very bad privacy policy](https://tosdr.org/en/service/219). Apps have [Facebook trackers](https://reports.exodus-privacy.eu.org/en/reports/com.instagram.android/latest/). Way too many permissions required.
 *   **Discord** - [Very bad privacy policy.](https://tosdr.org/en/service/536). Apps have [various trackers](https://reports.exodus-privacy.eu.org/en/reports/com.discord/latest/). Many permissions required.
 *   [Jami](https://jami.net/) - P2P audio and video conferences.
-*   [Jitsi Meet](https://meet.jit.si/) - More secure, more flexible, and completely free video conferencing. **No account needed, no installation needed**.
 *   [Mirotalk P2P](https://p2p.mirotalk.com/) - Free WebRTC - P2P - Simple, Secure, Fast Real-Time Video Conferences Up to 4k and 60fps, compatible with all browsers and platforms.
 *   [PeerCalls](https://peercalls.com/) - Group peer to peer video calls for everyone written in Go and TypeScript.
 
-## [44. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [42. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / React
 
-*   [viterjs-template (⭐39)](https://github.com/emre-cil/viterjs-template) - React + JavaScript + Redux + Material UI + Axios + ESLint + Prettier.
-*   [vite-react-universal-template (⭐53)](https://github.com/laoer536/vite3.0-react18-TypeScript-router-dom6-mobx6-Eslint-prettier-template) - React18 + TypeScript + `react-router-dom` + Zustand + ESlint + Prettier + Stylelint + Husky + Docker, and APIs auto importing.
+*   [viterjs-template (⭐47)](https://github.com/emre-cil/viterjs-template) - React + JavaScript + Redux + Material UI + Axios + ESLint + Prettier.
+*   [vite-react-universal-template (⭐59)](https://github.com/laoer536/vite3.0-react18-TypeScript-router-dom6-mobx6-Eslint-prettier-template) - React18 + TypeScript + `react-router-dom` + Zustand + ESlint + Prettier + Stylelint + Husky + Docker, and APIs auto importing.
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [vite-plugin-zip-pack (⭐32)](https://github.com/7th-Cyborg/vite-plugin-zip-pack) - Pack distribution/build folder into a zip file.
+*   [vite-plugin-zip-pack (⭐35)](https://github.com/7th-Cyborg/vite-plugin-zip-pack) - Pack distribution/build folder into a zip file.
 
-## [45. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [43. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Debug
 
-*   [nanobench (⭐1.4k)](https://github.com/martinus/nanobench) - Simple, fast, accurate single-header microbenchmarking functionality for C++11/14/17/20. \[MIT] [website](https://nanobench.ankerl.com)
+*   [nanobench (⭐1.5k)](https://github.com/martinus/nanobench) - Simple, fast, accurate single-header microbenchmarking functionality for C++11/14/17/20. \[MIT] [website](https://nanobench.ankerl.com)
 
-## [46. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
+## [44. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
 ### Apps / Outline Processor Markup Language
 

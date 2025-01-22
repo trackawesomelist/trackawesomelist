@@ -68,7 +68,7 @@
 *   [**Primer**](https://primer.style/) - CSS framework that powers GitHub's front-end design.\
     ![](https://img.shields.io/github/stars/primer/css.svg?style=social\&label=Star)
     [Docs](https://primer.style/css/),
-    [Repo (⭐12k)](https://github.com/primer/css)
+    [Repo (⭐13k)](https://github.com/primer/css)
     \| #SCSS
 
 ### Specialized
@@ -86,31 +86,20 @@
 
 ### Stalled Development
 
-*   [**Milligram**](https://milligram.io) - Minimalist CSS framework.\
-    ![](https://img.shields.io/github/stars/milligram/milligram.svg?style=social\&label=Star)
-    [Demo](https://milligram.io/showcase.html),
-    [Docs](https://milligram.io/#getting-started),
-    [Repo (⭐10k)](https://github.com/milligram/milligram)
-    \| #Sass
 *   [**sanitize.css**](https://csstools.github.io/sanitize.css/) - The best-practices CSS foundation.\
     ![](https://img.shields.io/github/stars/csstools/sanitize.css.svg?style=social\&label=Star)
     [Repo (⭐5.2k)](https://github.com/csstools/sanitize.css)
     \| #CSS
-*   [**MUI**](https://www.muicss.com) - Lightweight CSS framework that follows Google's Material Design guidelines.\
-    ![](https://img.shields.io/github/stars/muicss/mui.svg?style=social\&label=Star)
-    [Docs](https://www.muicss.com/docs/v1/getting-started/introduction),
-    [Repo (⭐4.5k)](https://github.com/muicss/mui)
-    \| #SCSS
 *   [**minireset.css**](https://jgthms.com/minireset.css/) - Tiny modern CSS reset.\
     ![](https://img.shields.io/github/stars/jgthms/minireset.css.svg?style=social\&label=Star)
-    [Repo (⭐2.7k)](https://github.com/jgthms/minireset.css)
+    [Repo (⭐2.8k)](https://github.com/jgthms/minireset.css)
     \| #Sass
 
 ## [6. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Tab / Barcode
 
-*   [ESTabBarController (⭐5.1k)](https://github.com/eggswift/ESTabBarController) - A highly customizable TabBarController component, which is inherited from UITabBarController.
+*   [ESTabBarController (⭐5.2k)](https://github.com/eggswift/ESTabBarController) - A highly customizable TabBarController component, which is inherited from UITabBarController.
 
 ---
 

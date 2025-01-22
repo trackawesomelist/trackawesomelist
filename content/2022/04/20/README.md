@@ -8,28 +8,28 @@
 
 ## [1. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
-### Templates / Godot 3.2+
+### Templates / Godot 3
 
-*   [Godot FPS Template (⭐61)](https://github.com/MilkAndBanana01/godot-fps-template) - A free first person game template for the Godot Engine.
+*   [Godot FPS Template (⭐66)](https://github.com/MilkAndBanana01/godot-fps-template) - A free first person game template for the Godot Engine.
 
 ## [2. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 
 ### Libraries
 
-*   [functional.js (⭐220)](https://github.com/functionaljs/functional-js) – A lightweight functional JavaScript library that facilitates currying and point-free / tacit programming.
+*   [functional.js (⭐223)](https://github.com/functionaljs/functional-js) – A lightweight functional JavaScript library that facilitates currying and point-free / tacit programming.
 
 ## [3. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
 ### GTFS Realtime Validators / Ruby
 
-*   [gtfs-realtime-validator (⭐38)](https://github.com/MobilityData/gtfs-realtime-validator) - A GTFS Realtime validation tool originally developed by the [Center for Urban Transportation Research](https://www.cutr.usf.edu/) at the [University of South Florida](https://www.usf.edu/) and now maintained by [MobilityData](https://mobilitydata.org/).
+*   [gtfs-realtime-validator (⭐45)](https://github.com/MobilityData/gtfs-realtime-validator) - A GTFS Realtime validation tool originally developed by the [Center for Urban Transportation Research](https://www.cutr.usf.edu/) at the University of South Florida and now maintained by [MobilityData](https://mobilitydata.org/).
 
 ## [4. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [git-prune (diazod) (⭐36)](https://github.com/diazod/git-prune) - Allows you to delete all branches that are already merged in your local `git` repository and/or that were merged in your remote origin `git` repository.
-*   [git-prune (seinh) (⭐36)](https://github.com/Seinh/git-prune) - Plugin that simplifies deleting merged branches in a `git` repository.
+*   [git-prune (diazod) (⭐35)](https://github.com/diazod/git-prune) - Allows you to delete all branches that are already merged in your local `git` repository and/or that were merged in your remote origin `git` repository.
+*   [git-prune (seinh) (⭐35)](https://github.com/Seinh/git-prune) - Plugin that simplifies deleting merged branches in a `git` repository.
 
 ## [5. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
@@ -50,7 +50,7 @@
 
 ### Layout / Barcode
 
-*   [Scaling Header Scroll View (⭐1.1k)](https://github.com/exyte/ScalingHeaderScrollView) - A scroll view with a sticky header which shrinks as you scroll. Written with SwiftUI.
+*   [Scaling Header Scroll View (⭐1.2k)](https://github.com/exyte/ScalingHeaderScrollView) - A scroll view with a sticky header which shrinks as you scroll. Written with SwiftUI.
 
 ## [7. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
@@ -72,7 +72,7 @@
 
 ### Build tools
 
-*   [Vert.x Maven plugin (⭐72)](https://github.com/reactiverse/vertx-maven-plugin)
+*   [Vert.x Maven plugin (⭐74)](https://github.com/reactiverse/vertx-maven-plugin)
 
 ### Middleware
 
@@ -80,16 +80,16 @@
 
 ### Reactive
 
-*   [Vert.x Effect (⭐3)](https://github.com/imrafaelmerino/vertx-effect) - Pure functional and reactive library based on the IO Monad to implement any complex flow. Full support for retry, fallback and recovery operations.
+*   [Vert.x Effect (⭐2)](https://github.com/imrafaelmerino/vertx-effect) - Pure functional and reactive library based on the IO Monad to implement any complex flow. Full support for retry, fallback and recovery operations.
 
 ### Examples
 
-*   [Knative (⭐4.2k)](https://github.com/knative/docs/tree/main/code-samples/community/serving/helloworld-vertx) - An example application on how to use [Reactive Extensions Vert.x (⭐145)](https://github.com/vert-x3/vertx-rx) with [Knative](https://github.com/knative).
+*   [Knative (⭐4.6k)](https://github.com/knative/docs/tree/main/code-samples/community/serving/helloworld-vertx) - An example application on how to use [Reactive Extensions Vert.x (⭐147)](https://github.com/vert-x3/vertx-rx) with [Knative](https://github.com/knative).
 
 ### Utilities
 
 *   [Chime (⭐29)](https://github.com/LisiLisenok/Chime) - Time scheduler working on Vert.x event bus allowing for scheduling with *cron-style* and *interval* timers.
-*   [Vert.x Scheduler (⭐10)](https://github.com/zero88/vertx-scheduler) - A lightweight plugable scheduler based on plain Vert.x core without any external libs for scheduling with *cron-style* and *interval* timers with a detail *monitor* on both sync and async task.
+*   [Vert.x Scheduler (⭐11)](https://github.com/zero88/vertx-scheduler) - A lightweight plugable scheduler based on plain Vert.x core without any external libs for scheduling with *cron-style* and *interval* timers with a detail *monitor* on both sync and async task.
 
 ### Presentations
 
@@ -100,13 +100,12 @@
 *   [User Group](https://groups.google.com/forum/?fromgroups#!forum/vertx) - Discuss all user issues related to *using* Vert.x.
 *   [Developer Group](https://groups.google.com/forum/?fromgroups#!forum/vertx-dev) - A group for Vert.x core *developers* and *contributors*.
 *   [Discord Server](https://discord.gg/KzEMwP2) - Chat about any Vert.x-related topic.
-*   [Issues (⭐35)](https://github.com/vert-x3/issues/issues) - Vert.x core issue tracker.
-*   [Wiki (⭐192)](https://github.com/vert-x3/wiki/wiki) - Contains useful information about Vert.x.
+*   [Issues (⭐37)](https://github.com/vert-x3/issues/issues) - Vert.x core issue tracker.
+*   [Wiki (⭐193)](https://github.com/vert-x3/wiki/wiki) - Contains useful information about Vert.x.
 *   [Blog](http://vertx.io/blog/) - The official Vert.x blog containing many tutorials and other information.
 
 ### Articles
 
-*   [Going reactive with Eclipse Vert.x and RX Java](https://blogs.oracle.com/javamagazine/going-reactive-with-eclipse-vertx-and-rxjava)
 *   [Vert.x 3.3.0 Features Enhanced Networking Microservices, Testing and More](https://www.infoq.com/news/2016/06/Vert.x-3.3.0-release-features)
 *   [Interview with Tim Fox About Vert.x 3, the Original Reactive, Microservice Toolkit for the JVM](http://www.infoq.com/articles/vertx-3-tim-fox)
 

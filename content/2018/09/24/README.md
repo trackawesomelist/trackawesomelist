@@ -124,19 +124,19 @@
 
 ### Dependency Injection
 
-*   [DITranquillity (⭐418)](https://github.com/ivlevAstef/DITranquillity/) - Dependency injection framework with tranquility.
+*   [DITranquillity (⭐422)](https://github.com/ivlevAstef/DITranquillity/) - Dependency injection framework with tranquility.
 
 ### Pagination / Barcode
 
-*   [FlexiblePageControl (⭐798)](https://github.com/shima11/FlexiblePageControl) - A flexible UIPageControl like Instagram.
+*   [FlexiblePageControl (⭐801)](https://github.com/shima11/FlexiblePageControl) - A flexible UIPageControl like Instagram.
 
 ## [11. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
 ### Hardware / Opcodes
 
-*   [Related custom hardware (⭐287)](https://github.com/Gekkio/gb-hardware) - by Gekkio.
+*   [Related custom hardware (⭐325)](https://github.com/Gekkio/gb-hardware) - by Gekkio.
 *   [ESP8266 GB Dev Board (⭐26)](https://github.com/applefreak/esp8266-gameboy-dev-board) - Dev board for Game Boy accessories development, powered by ESP8266.
-*   [ESP8266 GB Printer (⭐47)](https://github.com/applefreak/esp8266-gameboy-printer) - A device that emulates the GB Printer and lets you retrieve images using WiFi.
+*   [ESP8266 GB Printer (⭐48)](https://github.com/applefreak/esp8266-gameboy-printer) - A device that emulates the GB Printer and lets you retrieve images using WiFi.
 
 ### Peripherals / Opcodes
 
@@ -148,16 +148,16 @@
 
 ### Emulators / Experimental/Proof of Concepts
 
-*   [SameBoy (⭐1.4k)](https://github.com/LIJI32/SameBoy) - Accurate emulator with a wide range of powerful debugging features.
+*   [SameBoy (⭐1.7k)](https://github.com/LIJI32/SameBoy) - Accurate emulator with a wide range of powerful debugging features.
 
 ### Related projects / Syntax highlighting packages
 
-*   [liblsdj (⭐84)](https://github.com/stijnfrishert/liblsdj) - Utility library for interacting with the LSDj save format (.sav), song files (.lsdsng) and more.
-*   [lsdpatch (⭐156)](https://github.com/jkotlinski/lsdpatch) - Tool for modifying samples, fonts and palettes on LSDj ROM images.
+*   [liblsdj (⭐93)](https://github.com/stijnfrishert/liblsdj) - Utility library for interacting with the LSDj save format (.sav), song files (.lsdsng) and more.
+*   [lsdpatch (⭐176)](https://github.com/jkotlinski/lsdpatch) - Tool for modifying samples, fonts and palettes on LSDj ROM images.
 
 ### Directories / Syntax highlighting packages
 
-*   [The Game Boy Archive - Salvage (⭐26)](https://github.com/gb-archive/salvage) - Historical archive of software, old articles, FAQs and various documents.
+*   [The Game Boy Archive - Salvage (⭐33)](https://github.com/gb-archive/salvage) - Historical archive of software, old articles, FAQs and various documents.
 
 ## [12. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 

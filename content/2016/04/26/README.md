@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 26, 2016
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,7 +16,7 @@
 
 ### Ask these people anything!
 
-*   [Jon Kuperman (⭐21)](https://github.com/jkup/ama) - I love JavaScript! I blog at Codeplanet, make videos at Nodecasts and podcast at The Web Behind.
+*   [Jon Kuperman (⭐23)](https://github.com/jkup/ama) - I love JavaScript! I blog at Codeplanet, make videos at Nodecasts and podcast at The Web Behind.
 *   [Max Stoiber (⭐28)](https://github.com/mxstbr/ama) - Open source developer advocate at Thinkmill, developing KeystoneJS and ElementalUI. Creator of react-boilerplate, part of React Vienna.
 
 ## [3. Awesome Dropwizard](/content/stve/awesome-dropwizard/README.md)
@@ -35,19 +35,13 @@
 
 *   Swift <https://developer.apple.com/swift/blog/>
 
-## [5. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
-
-### Images / Barcode
-
-*   [SwiftyGif (⭐2k)](https://github.com/kirualex/SwiftyGif) - High performance GIF engine.
-
-## [6. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [5. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Service Level Agreement
 
 *   [If It's in the Cloud, Get It on Paper: Cloud Computing Contract Issues](http://er.educause.edu/articles/2010/6/if-its-in-the-cloud-get-it-on-paper-cloud-computing-contract-issues)
 
-## [7. Awesome Economics](/content/antontarasenko/awesome-economics/README.md)
+## [6. Awesome Economics](/content/antontarasenko/awesome-economics/README.md)
 
 ### Economics on GitHub / Economists
 
@@ -64,17 +58,17 @@
 *   [QuantEcon](https://github.com/QuantEcon/) - A library for quantitative economics.
 *   [VFI Toolkit](https://github.com/vfitoolkit) - Matlab toolkit for Value Function Iteration on GPU.
 
-## [8. Awesome Math](/content/rossant/awesome-math/README.md)
+## [7. Awesome Math](/content/rossant/awesome-math/README.md)
 
 ### Books
 
 *   [Online Mathematics Textbooks](https://people.math.gatech.edu/~cain/textbooks/onlinebooks.html)
 
-## [9. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [8. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Examples and funny stuff
 
-*   [elixir\_koans (⭐2.2k)](https://github.com/elixirkoans/elixir-koans) - [Elixir koans](http://elixirkoans.io/) is a fun, easy way to get started with the elixir programming language.
+*   [elixir\_koans (⭐2.3k)](https://github.com/elixirkoans/elixir-koans) - [Elixir koans](http://elixirkoans.io/) is a fun, easy way to get started with the elixir programming language.
 
 ### ORM and Datamapping
 

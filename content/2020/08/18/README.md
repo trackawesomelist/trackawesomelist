@@ -1,24 +1,18 @@
 # Awesome List Updates on Aug 18, 2020
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / UI Components
-
-*   [vuetify-toast-snackbar (⭐128)](https://github.com/eolant/vuetify-toast-snackbar) - Vue.JS toast service with queue support that uses Vuetify's "Snackbar" component.
-
-## [2. Awesome Storybook](/content/lauthieb/awesome-storybook/README.md)
+## [1. Awesome Storybook](/content/lauthieb/awesome-storybook/README.md)
 
 ### Blog posts
 
 *   [Setting up Storybook for Preact](https://www.iamdeveloper.com/posts/setting-up-storybook-for-preact-p5a/) - A handy guide allowing us to add storybook easily on a Preact project.
 
-## [3. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
+## [2. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
 ### Tracking / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
@@ -50,37 +44,37 @@
 
 *   [Breathe](http://breatheforpebble.tk/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/cheeseisdisgusting/exhale) - Take a moment to breathe. A Pebble app for breathing, written in C.
 
-## [4. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/README.md)
+## [3. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/README.md)
 
 ### Development Projects / Apps
 
-*   [Pokedex (⭐6.1k)](https://github.com/skydoves/Pokedex) - Android Pokedex using Dagger, Hilt, Motion, Coroutines, Flow, and Jetpack.
+*   [Pokedex (⭐7.8k)](https://github.com/skydoves/Pokedex) - Android Pokedex using Dagger, Hilt, Motion, Coroutines, Flow, and Jetpack.
 
-## [5. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [4. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / Computer Vision
 
-*   [Deep High-Resolution-Net (⭐4.3k)](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch) - A PyTorch implementation of CVPR2019 paper "Deep High-Resolution Representation Learning for Human Pose Estimation"
-*   [dream-creator (⭐63)](https://github.com/ProGamerGov/dream-creator) - A PyTorch implementation of DeepDream. Allows individuals to quickly and easily train their own custom GoogleNet models with custom datasets for DeepDream.
-*   [Lucent (⭐597)](https://github.com/greentfrapp/lucent) - Tensorflow and OpenAI Clarity's Lucid adapted for PyTorch.
+*   [Deep High-Resolution-Net (⭐4.4k)](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch) - A PyTorch implementation of CVPR2019 paper "Deep High-Resolution Representation Learning for Human Pose Estimation"
+*   [dream-creator (⭐64)](https://github.com/ProGamerGov/dream-creator) - A PyTorch implementation of DeepDream. Allows individuals to quickly and easily train their own custom GoogleNet models with custom datasets for DeepDream.
+*   [Lucent (⭐610)](https://github.com/greentfrapp/lucent) - Tensorflow and OpenAI Clarity's Lucid adapted for PyTorch.
 
 ### Python / Reinforcement Learning
 
 *   [Spinning Up](https://spinningup.openai.com) - An educational resource designed to let anyone learn to become a skilled practitioner in deep reinforcement learning
 
-## [6. Awesome Naming](/content/gruhn/awesome-naming/README.md)
+## [5. Awesome Naming](/content/gruhn/awesome-naming/README.md)
 
 ### Other
 
 *   [Floating point number](https://floating-point-gui.de/formats/fp/) - This representation can encode numbers at very different magnitudes with limited amount of digits by letting the radix point *float* instead of being fixed in place.
 
-## [7. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
+## [6. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Videos
 
-*   [Flutter in Practice](https://www.youtube.com/playlist?list=PLhXZp00uXBk5TSY6YOdmpzp1yG3QbFvrN) - Free video courssd for beginners & non-programmers by [Zaiste](https://zaiste.net/)
+*   [Flutter in Practice](https://www.youtube.com/playlist?list=PLhXZp00uXBk5TSY6YOdmpzp1yG3QbFvrN) - Free video courses for beginners & non-programmers by [Zaiste](https://zaiste.net/)
 
-## [8. Awesome Security](/content/sbilly/awesome-security/README.md)
+## [7. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Endpoint / Mobile / Android / iOS
 
@@ -100,7 +94,7 @@
 
 *   [Hardening Windows 10](https://www.hardenwindows10forsecurity.com/) - Guide for hardening Windows 10
 
-## [9. Awesome Deno](/content/denolib/awesome-deno/README.md)
+## [8. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Modules / Utils
 

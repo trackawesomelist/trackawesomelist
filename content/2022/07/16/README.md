@@ -10,7 +10,7 @@
 
 ### Testing
 
-*   [Moq.Contrib.HttpClient (⭐185)](https://github.com/maxkagamine/Moq.Contrib.HttpClient) - A set of extension methods for mocking HttpClient and IHttpClientFactory with Moq.
+*   [Moq.Contrib.HttpClient (⭐188)](https://github.com/maxkagamine/Moq.Contrib.HttpClient) - A set of extension methods for mocking HttpClient and IHttpClientFactory with Moq.
 
 ## [2. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 

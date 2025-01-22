@@ -26,15 +26,15 @@
 
 ### (requires Neovim 0.5)
 
-*   [esmuellert/nvim-eslint (⭐27)](https://github.com/esmuellert/nvim-eslint) - Bundle VSCode ESLint language server and utilize the native LSP client to provide a all-in-one ESLint experience.
+*   [esmuellert/nvim-eslint (⭐38)](https://github.com/esmuellert/nvim-eslint) - Bundle VSCode ESLint language server and utilize the native LSP client to provide a all-in-one ESLint experience.
 
 ### Startup / Diagnostics
 
-*   [Kurama622/profile.nvim (⭐28)](https://github.com/Kurama622/profile.nvim) - Your personal homepage.
+*   [Kurama622/profile.nvim (⭐46)](https://github.com/Kurama622/profile.nvim) - Your personal homepage.
 
 ### Utility / Diagnostics
 
-*   [saifulapm/commasemi.nvim (⭐5)](https://github.com/saifulapm/commasemi.nvim) - Toggle comma and semicolon.
+*   [saifulapm/commasemi.nvim (⭐10)](https://github.com/saifulapm/commasemi.nvim) - Toggle comma and semicolon.
 
 ## [4. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/README.md)
 
@@ -50,7 +50,7 @@
 
 ### JavaScript
 
-*   [HMPL (⭐8)](https://github.com/hmpl-language/hmpl) *(label: good first issue)* <br> Server-oriented customizable templating for JavaScript.
+*   [HMPL (⭐27)](https://github.com/hmpl-language/hmpl) *(label: good first issue)* <br> Server-oriented customizable templating for JavaScript.
 
 ## [6. Magictools](/content/ellisonleao/magictools/README.md)
 
@@ -70,8 +70,9 @@
 
 ### Icons / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [boringer-avatars (⭐132)](https://github.com/cmgriffing/boringer-avatars) - A fork from [boring-avatars (⭐5.7k)](https://github.com/boringdesigners/boring-avatars). This rewrites the base as Mitosis components and exports into multiple framework flavors including [Angular (⭐132)](https://github.com/cmgriffing/boringer-avatars/tree/main/packages/lib-angular).
+*   [boringer-avatars (⭐137)](https://github.com/cmgriffing/boringer-avatars) - A fork from [boring-avatars (⭐5.7k)](https://github.com/boringdesigners/boring-avatars). This rewrites the base as Mitosis components and exports into multiple framework flavors including [Angular (⭐137)](https://github.com/cmgriffing/boringer-avatars/tree/main/packages/lib-angular).
 
 ---
 
+- Prev: [Nov 18, 2024](/content/2024/11/18/README.md)
 - Next: [Nov 16, 2024](/content/2024/11/16/README.md)

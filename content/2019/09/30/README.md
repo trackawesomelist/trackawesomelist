@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 30, 2019
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -21,7 +21,7 @@
 
 ## [3. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 
-### Tools and frameworks
+### Tools and frameworks (a-z↓)
 
 *   [basset](https://basset.io) - Open source platform for generating and reviewing visual differences. Supports multiple browsers, integrations for github and slack.
 
@@ -41,15 +41,9 @@
 
 ### Software / Games
 
-*   [piqueserver (⭐208)](https://github.com/piqueserver/piqueserver) - Server for openspades, the first-person shooter in a destructible voxel world. ([Clients (⭐1.1k)](https://github.com/yvt/openspades)) `GPL-3.0` `Python/C++`
+*   [piqueserver (⭐218)](https://github.com/piqueserver/piqueserver) - Server for openspades, the first-person shooter in a destructible voxel world. ([Clients (⭐1.1k)](https://github.com/yvt/openspades)) `GPL-3.0` `Python/C++`
 
-## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / UI Components
-
-*   [vue-accessible-modal (⭐20)](https://github.com/andrewvasilchuk/vue-accessible-modal) - A Vue.js accessible modal wrapper over your components.
-
-## [8. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/README.md)
+## [7. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/README.md)
 
 ### Books
 
@@ -59,23 +53,23 @@
 
 *   [CircuitPython 5 release poster](https://www.adafruit.com/product/4365) - CircuitPython release version 5 poster.
 
-## [9. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [8. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### E-Books / Others
 
 *   [Blazor for ASP.NET Web Forms developers](https://dotnet.microsoft.com/learn/aspnet/architecture#blazor-for-web-forms-devs-ebook-swim) - Blazor for ASP.NET Web Forms developers, a free e-book from Microsoft.
 
-## [10. Awesome Actions](/content/sdras/awesome-actions/README.md)
+## [9. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
 ### Utility / Docker Container Actions
 
-*   [Generate a table of contents (⭐187)](https://github.com/technote-space/toc-generator)
+*   [Generate a table of contents (⭐220)](https://github.com/technote-space/toc-generator)
 
 ### Deployment / Code Coverage
 
-*   [GitHub Action for GoReleaser, a release automation tool for Go projects (⭐606)](https://github.com/goreleaser/goreleaser-action)
+*   [GitHub Action for GoReleaser, a release automation tool for Go projects (⭐851)](https://github.com/goreleaser/goreleaser-action)
 
-## [11. Awesome Actions on Google](/content/ravirupareliya/awesome-actions-on-google/README.md)
+## [10. Awesome Actions on Google](/content/ravirupareliya/awesome-actions-on-google/README.md)
 
 ### Document
 
@@ -88,7 +82,7 @@
 
 *   [Mandy Chan](https://twitter.com/MandyChanNYC) - Developer Advocate for the Actions On Google team.
 
-## [12. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [11. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Reading and Writing Tools / Office
 
@@ -104,7 +98,7 @@
 
 ### Utilities / Clipboard Tools
 
-*   [Paste](http://pasteapp.me) - Smart clipboard history & snippets manager. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://itunes.apple.com/us/app/paste-clipboard-history-manager/id967805235)
+*   [Paste](http://pasteapp.me) - Smart clipboard history & snippets manager. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/paste-clipboard-history-manager/id967805235)
 
 ### Utilities / Password Management
 

@@ -64,8 +64,8 @@
 
 ### UI / Barcode
 
-*   [CustomSegue (⭐123)](https://github.com/phimage/CustomSegue) - Custom segue for OSX Storyboards with slide and cross fade effects.
-*   [URLEmbeddedView (⭐651)](https://github.com/marty-suzuki/URLEmbeddedView) - Automatically caches the object that is confirmed the Open Graph Protocol, and displays it as URL embedded card.
+*   [CustomSegue (⭐122)](https://github.com/phimage/CustomSegue) - Custom segue for OSX Storyboards with slide and cross fade effects.
+*   [URLEmbeddedView (⭐650)](https://github.com/marty-suzuki/URLEmbeddedView) - Automatically caches the object that is confirmed the Open Graph Protocol, and displays it as URL embedded card.
 
 ## [7. Colorful](/content/Siddharth11/Colorful/README.md)
 

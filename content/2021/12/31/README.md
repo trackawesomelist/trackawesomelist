@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 31, 2021
 
-15 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -17,7 +17,7 @@
 ### Python / Trading & Backtesting
 
 *   [tda-api (⭐1.3k)](https://github.com/alexgolec/tda-api) - Gather data and trade equities, options, and ETFs via TDAmeritrade.
-*   [vectorbt (⭐4.1k)](https://github.com/polakowo/vectorbt) - Find your trading edge, using a powerful toolkit for backtesting, algorithmic trading, and research.
+*   [vectorbt (⭐4.7k)](https://github.com/polakowo/vectorbt) - Find your trading edge, using a powerful toolkit for backtesting, algorithmic trading, and research.
 
 ## [3. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 
@@ -29,13 +29,13 @@
 
 ### Productivity / HTTP Client
 
-*   [papis (⭐1.3k)](https://github.com/papis/papis) - Extensible document and bibliography manager.
+*   [papis (⭐1.4k)](https://github.com/papis/papis) - Extensible document and bibliography manager.
 
 ## [5. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### HAL implementation crates / OS
 
-*   [`freebsd-embedded-hal`](https://crates.io/crates/freebsd-embedded-hal) for embedded (or [not](https://www.freebsd.org/cgi/man.cgi?query=cp2112\&sektion=4)) FreeBSD systems. - ![crates.io](https://img.shields.io/crates/v/freebsd-embedded-hal.svg)
+*   [`freebsd-embedded-hal`](https://crates.io/crates/freebsd-embedded-hal) for embedded (or [not](https://www.freebsd.org/cgi/man.cgi?query=cp2112\&sektion=4)) FreeBSD systems. - [![crates.io](https://img.shields.io/crates/v/freebsd-embedded-hal.svg)](https://crates.io/crates/freebsd-embedded-hal)
 
 ## [6. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 
@@ -47,7 +47,7 @@
 
 ### Deployment Tools / Discovery
 
-*   [deploy-rs (⭐1.3k)](https://github.com/serokell/deploy-rs) - A simple multi-profile Nix-flake deploy tool.
+*   [deploy-rs (⭐1.5k)](https://github.com/serokell/deploy-rs) - A simple multi-profile Nix-flake deploy tool.
 
 ## [8. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
@@ -59,7 +59,7 @@
 
 ### Concurrency
 
-*   [rotor (⭐339)](https://github.com/basiliscos/cpp-rotor) - Event loop friendly C++ actor micro framework. \[MIT]
+*   [rotor (⭐349)](https://github.com/basiliscos/cpp-rotor) - Event loop friendly C++ actor micro framework. \[MIT]
 
 ## [10. Awesome Naming](/content/gruhn/awesome-naming/README.md)
 
@@ -76,8 +76,8 @@
 
 ### Rust / Git
 
-*   [BLAKE3 (⭐4.7k)](https://github.com/BLAKE3-team/BLAKE3) - is official Rust and C implementations of the BLAKE3 cryptographic hash function.
-*   [rage (⭐2.4k)](https://github.com/str4d/rage) - is a simple, modern, and secure file encryption tool, using the age format.
+*   [BLAKE3 (⭐5.1k)](https://github.com/BLAKE3-team/BLAKE3) - is official Rust and C implementations of the BLAKE3 cryptographic hash function.
+*   [rage (⭐2.6k)](https://github.com/str4d/rage) - is a simple, modern, and secure file encryption tool, using the age format.
 
 ## [12. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
@@ -85,19 +85,13 @@
 
 *   [Word, thought, and deed: the role of object categories in children's inductive inferences and exploratory play](https://psycnet.apa.org/record/2008-12114-008) - ***Developmental Psychology***, 2009. \[[All Versions](https://scholar.google.com/scholar?cluster=13947689064550390312\&hl=en\&as_sdt=0,5)].
 
-## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / UI Components
-
-*   [Tippy.vue (⭐27)](https://github.com/thecodewarrior/Tippy.vue) - Nesting-free [Tippy.js](https://atomiks.github.io/tippyjs/) directive/component for Vue 3. A drop-in addition with no structural or style changes required. Supports both individual and singleton tooltips.
-
-## [14. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [13. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Artificial Intelligence
 
-*   [smartcorelib/smartcore (⭐681)](https://github.com/smartcorelib/smartcore) - Machine Learning Library [![Build Status](https://img.shields.io/circleci/build/github/smartcorelib/smartcore)](https://smartcorelib.org/)
+*   [smartcorelib/smartcore (⭐740)](https://github.com/smartcorelib/smartcore) - Machine Learning Library [![Build Status](https://img.shields.io/circleci/build/github/smartcorelib/smartcore)](https://smartcorelib.org/)
 
-## [15. Public Apis](/content/public-apis/public-apis/README.md)
+## [14. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Geocoding
 

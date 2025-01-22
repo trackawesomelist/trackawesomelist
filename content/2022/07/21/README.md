@@ -26,11 +26,11 @@
 
 *   [haveibeenzuckered](https://haveibeenzuckered.com/) - A large dataset containing 533 million Facebook accounts was made available for download. The data was obtained by exploiting a vulnerability that was, according to Facebook, corrected in August 2019. Check if a telephone number is present within the Facebook data breach.
 
-### Video Search and Other Video Tools / Telegram
+### Video Search and Other Video Tools / Steam
 
 *   [Filmot](https://filmot.com/) - Search within YouTube subtitles. Indexing over 573 million captions across 528 million videos and 45 million channels.
 
-### Maritime / Telegram
+### Maritime / Steam
 
 *   [VesselFinder](https://www.vesselfinder.com) - a FREE AIS vessel tracking web site. VesselFinder displays real time ship positions and marine traffic detected by global AIS network.
 
@@ -38,7 +38,7 @@
 
 ### Authentication and OAuth
 
-*   [keto (⭐4.8k)](https://github.com/ory/keto) - Open Source (Go) implementation of "Zanzibar: Google's Consistent, Global Authorization System". Ships gRPC, REST APIs, newSQL, and an easy and granular permission language. Supports ACL, RBAC, and other access models.
+*   [keto (⭐4.9k)](https://github.com/ory/keto) - Open Source (Go) implementation of "Zanzibar: Google's Consistent, Global Authorization System". Ships gRPC, REST APIs, newSQL, and an easy and granular permission language. Supports ACL, RBAC, and other access models.
 
 ## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -58,6 +58,7 @@
     *   Cloud Build - 120 build-minutes per day
     *   Cloud Source Repositories - Up to 5 Users, 50 GB Storage, 50 GB Egress
     *   [Google Colab](https://colab.research.google.com/) - Free Jupyter Notebooks development environment.
+    *   [idx.dev](https://idx.dev) Google Project IDX. Online VSCode running on Google Cloud.
     *   Full, detailed list - <https://cloud.google.com/free>
 
 ## [5. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
@@ -78,17 +79,17 @@
 
 ### Display / GUI
 
-*   [micropython-nextion (⭐11)](https://github.com/brainelectronics/micropython-nextion) - Control Nextion displays using MicroPython.
+*   [micropython-nextion (⭐13)](https://github.com/brainelectronics/micropython-nextion) - Control Nextion displays using MicroPython.
 
 ## [7. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
 ### Plugins for Minecraft
 
-*   [No-Chat-Reports (⭐946)](https://github.com/Aizistral-Studios/No-Chat-Reports) - A spigot plugin strips cryptographic signatures from player messages, but it breaks any chat plugin by design.
+*   [No-Chat-Reports (⭐956)](https://github.com/Aizistral-Studios/No-Chat-Reports) - A spigot plugin strips cryptographic signatures from player messages, but it breaks any chat plugin by design.
 
 ### Audio
 
-*   [Jetispot (⭐354)](https://github.com/iTaysonLab/jetispot) - Experimental UNOFFICIAL Spotify client for Android built on librespot-java + Jetpack Compose
+*   [Jetispot (⭐360)](https://github.com/iTaysonLab/jetispot) - Experimental UNOFFICIAL Spotify client for Android built on librespot-java + Jetpack Compose
 
 ## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -106,18 +107,18 @@
 
 ### The big two automation libraries
 
-*   [Puppeteer (⭐88k)](https://github.com/GoogleChrome/puppeteer/) - Node.js offering a high-level API to control headless Chrome over the DevTools Protocol. See also [awesome-puppeteer (⭐2.4k)](https://github.com/transitive-bullshit/awesome-puppeteer).
-*   [Playwright (⭐65k)](https://github.com/microsoft/playwright) - Library to automate Chromium, Firefox and WebKit with a single API. Available for Node.js, Python, .Net, Java. See also [awesome-playwright (⭐829)](https://github.com/mxschmitt/awesome-playwright).
+*   [Puppeteer (⭐89k)](https://github.com/GoogleChrome/puppeteer/) - Node.js offering a high-level API to control headless Chrome over the DevTools Protocol. See also [awesome-puppeteer (⭐2.4k)](https://github.com/transitive-bullshit/awesome-puppeteer).
+*   [Playwright (⭐68k)](https://github.com/microsoft/playwright) - Library to automate Chromium, Firefox and WebKit with a single API. Available for Node.js, Python, .Net, Java. See also [awesome-playwright (⭐985)](https://github.com/mxschmitt/awesome-playwright).
 
 ### Libraries for driving the protocol (or a layer above)
 
-*   JavaScript/Node.js: [chrome-remote-interface (⭐4.2k)](https://github.com/cyrus-and/chrome-remote-interface)
-*   TypeScript/Node.js: [chrome-debugging-client (⭐134)](https://github.com/TracerBench/chrome-debugging-client)
+*   JavaScript/Node.js: [chrome-remote-interface (⭐4.3k)](https://github.com/cyrus-and/chrome-remote-interface)
+*   TypeScript/Node.js: [chrome-debugging-client (⭐133)](https://github.com/TracerBench/chrome-debugging-client)
 *   Typescript/Node.js: [Taiko (⭐3.6k)](https://github.com/getgauge/taiko/)
-*   Rust: [Rust Headless Chrome (⭐6)](https://github.com/atroche/rust-headless-chrome/)
-*   Python: [pyppeteer (⭐3.6k)](https://github.com/pyppeteer/pyppeteer) - puppeteer port
-*   Ruby: [Ferrum (⭐1.7k)](https://github.com/route/ferrum) - high-level API to control Chrome in Ruby
-*   Clojure: [cuic (⭐36)](https://github.com/milankinen/cuic) - Providing a high-level API for UI test automation over the DevTools Protocol.
+*   Rust: [Rust Headless Chrome (⭐9)](https://github.com/atroche/rust-headless-chrome/)
+*   Python: [pyppeteer (⭐3.7k)](https://github.com/pyppeteer/pyppeteer) - puppeteer port
+*   Ruby: [Ferrum (⭐1.8k)](https://github.com/route/ferrum) - high-level API to control Chrome in Ruby
+*   Clojure: [cuic (⭐37)](https://github.com/milankinen/cuic) - Providing a high-level API for UI test automation over the DevTools Protocol.
 *   PHP: [PuPHPeteer (⭐1.3k)](https://github.com/rialto-php/puphpeteer) - php bridge to node puppeteer
 
 ### Browser Adapters
@@ -126,7 +127,7 @@
 
 ### Using DevTools frontend with other platforms / Ruby
 
-*   [ruby/debug (⭐1.1k)](https://github.com/ruby/debug) - Debugging functionality for Ruby.
+*   [ruby/debug (⭐1.2k)](https://github.com/ruby/debug) - Debugging functionality for Ruby.
 
 ### Workflow / Ruby
 
@@ -134,13 +135,13 @@
 
 ### Alumni / Ruby
 
-*   [Remote Debug Gateway (⭐91)](https://github.com/RemoteDebug/remotedebug-gateway) - Allows you to connect a client to multiple browsers at once.
-    *   Multiuser DevTools: [DevTools Remote (⭐686)](https://github.com/auchenberg/devtools-remote) - Remotely debug someone else's browser.
+*   [Remote Debug Gateway (⭐92)](https://github.com/RemoteDebug/remotedebug-gateway) - Allows you to connect a client to multiple browsers at once.
+    *   Multiuser DevTools: [DevTools Remote (⭐687)](https://github.com/auchenberg/devtools-remote) - Remotely debug someone else's browser.
 *   [DevTools Backend (⭐143)](https://github.com/christian-bromann/devtools-backend) - Standalone implementation of the Chrome DevTools backend to debug arbitrary web environments.
-*   Python CDP driver: [pychrome (⭐602)](https://github.com/fate0/pychrome) - low level CDP transport handler
-*   [ios-webkit-debug-proxy (⭐5.9k)](https://github.com/google/ios-webkit-debug-proxy) - Exposes Mobile Safari & UIWebView instances via the CDP.
+*   Python CDP driver: [pychrome (⭐620)](https://github.com/fate0/pychrome) - low level CDP transport handler
+*   [ios-webkit-debug-proxy (⭐6k)](https://github.com/google/ios-webkit-debug-proxy) - Exposes Mobile Safari & UIWebView instances via the CDP.
     *   [Remote Debug iOS WebKit adapter (⭐2.7k)](https://github.com/RemoteDebug/remotedebug-ios-webkit-adapter) - Builts upon ios-webkit-debug-proxy and translates WebKit's Remote Debugging Protocol API to the CDP.
-*   [IE Diagnostics Adapter (⭐575)](https://github.com/Microsoft/IEDiagnosticsAdapter) - Protocol adaptor for Microsoft IE 11 to CDP.
+*   [IE Diagnostics Adapter (⭐574)](https://github.com/Microsoft/IEDiagnosticsAdapter) - Protocol adaptor for Microsoft IE 11 to CDP.
 *   [go-debugger-devtools (⭐42)](https://github.com/allada/go-debugger-devtools)
 
 ---

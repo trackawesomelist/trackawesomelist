@@ -10,15 +10,15 @@
 
 ### Haskell / React
 
-*   [morpheus-graphql (⭐406)](https://github.com/morpheusgraphql/morpheus-graphql) - Haskell GraphQL Api, Client and Tools.
+*   [morpheus-graphql (⭐412)](https://github.com/morpheusgraphql/morpheus-graphql) - Haskell GraphQL Api, Client and Tools.
 
 ## [2. Awesome Fiber](/content/gofiber/awesome-fiber/README.md)
 
 ### ⚙️ Middlewares / ‍💻 Contrib
 
-*   [casbin (⭐180)](https://github.com/gofiber/contrib/tree/main/casbin) - Casbin middleware for Fiber.
-*   [fibernewrelic (⭐180)](https://github.com/gofiber/contrib/tree/main/fibernewrelic) - NewRelic middleware for Fiber. The middleware handles NewRelic insturmentation.
-*   [opafiber (⭐180)](https://github.com/gofiber/contrib/tree/main/opafiber) - Open Policy Agent middleware for Fiber. The middleware handles running Rego policies.
+*   [casbin (⭐239)](https://github.com/gofiber/contrib/tree/main/casbin) - Casbin middleware for Fiber.
+*   [fibernewrelic (⭐239)](https://github.com/gofiber/contrib/tree/main/fibernewrelic) - NewRelic middleware for Fiber. The middleware handles NewRelic insturmentation.
+*   [opafiber (⭐239)](https://github.com/gofiber/contrib/tree/main/opafiber) - Open Policy Agent middleware for Fiber. The middleware handles running Rego policies.
 
 ## [3. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
@@ -36,13 +36,13 @@
 
 ### Showcases / XML
 
-*   [Saleor Deno Merch (⭐32)](https://github.com/saleor/deno-merch) - A fork of the original Deno Merch e-commerce website, rebuilt with [Saleor (⭐20k)](https://github.com/saleor/saleor).
+*   [Saleor Deno Merch (⭐32)](https://github.com/saleor/deno-merch) - A fork of the original Deno Merch e-commerce website, rebuilt with [Saleor (⭐21k)](https://github.com/saleor/saleor).
 
 ## [5. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Financial
 
-*   [bbgo (⭐1.2k)](https://github.com/c9s/bbgo) - A crypto trading bot framework written in Go. Including common crypto exchange API, standard indicators, back-testing and many built-in strategies.
+*   [bbgo (⭐1.3k)](https://github.com/c9s/bbgo) - A crypto trading bot framework written in Go. Including common crypto exchange API, standard indicators, back-testing and many built-in strategies.
 
 ---
 

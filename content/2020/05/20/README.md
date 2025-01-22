@@ -10,7 +10,7 @@
 
 ### Version Control / Git
 
-*   [import-github-labels-cli (⭐16)](https://github.com/abhijithvijayan/import-github-labels-cli) - Sync labels between Github repos.
+*   [import-github-labels-cli (⭐17)](https://github.com/abhijithvijayan/import-github-labels-cli) - Sync labels between Github repos.
 
 ## [2. Awesome Security](/content/sbilly/awesome-security/README.md)
 
@@ -40,7 +40,7 @@
 
 ### Software / Maps and Global Positioning System (GPS)
 
-*   [Geo2tz (⭐69)](https://github.com/noandrea/geo2tz) - Get the timezone from geo coordinates (lat, lon). `MIT` `Go/Docker`
+*   [Geo2tz (⭐76)](https://github.com/noandrea/geo2tz) - Get the timezone from geo coordinates (lat, lon). `MIT` `Go/Docker`
 
 ## [7. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 

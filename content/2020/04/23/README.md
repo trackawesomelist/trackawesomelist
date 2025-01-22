@@ -22,7 +22,7 @@
 
 ### Notifications and Messages / Code Coverage
 
-*   [Send an SMS using MessageBird (⭐3)](https://github.com/nikitasavinov/messagebird-sms-action)
+*   [Send an SMS using MessageBird (⭐4)](https://github.com/nikitasavinov/messagebird-sms-action)
 
 ## [4. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
@@ -34,7 +34,7 @@
 
 ### Design Systems
 
-*   [Brightspace UI core (⭐58)](https://github.com/BrightspaceUI/core) - Collection of web components for building Brightspace applications.
+*   [Brightspace UI core (⭐63)](https://github.com/BrightspaceUI/core) - Collection of web components for building Brightspace applications.
 
 ## [6. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/README.md)
 
@@ -143,11 +143,11 @@ Language: English
 
 ### Driver crates / Other
 
-*   [MAX6955](https://crates.io/crates/max6955) - I2C - Driver for Alphanumeric LED display driver - [Intro blog post](https://lonesometraveler.github.io/2020/03/20/max6955.html) - ![crates.io](https://img.shields.io/crates/v/max6955.svg)
+*   [MAX6955](https://crates.io/crates/max6955) - I2C - Driver for Alphanumeric LED display driver - [Intro blog post](https://lonesometraveler.github.io/2020/03/20/max6955.html) - [![crates.io](https://img.shields.io/crates/v/max6955.svg)](https://crates.io/crates/max6955)
 
 ### Driver crates / WIP
 
-*   [LSM9DS1](https://crates.io/crates/lsm9ds1) - I2C/SPI - 9-axis motion sensor module ![crates.io](https://img.shields.io/crates/v/lsm9ds1.svg)
+*   [LSM9DS1](https://crates.io/crates/lsm9ds1) - I2C/SPI - 9-axis motion sensor module [![crates.io](https://img.shields.io/crates/v/lsm9ds1.svg)](https://crates.io/crates/lsm9ds1)
 
 ---
 

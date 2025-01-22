@@ -32,7 +32,7 @@
 
 ### Projects / Web
 
-*   [Ahoo-Wang/CoSky (⭐78)](https://github.com/Ahoo-Wang/CoSky) - High-performance, low-cost microservice governance platform. Service Discovery and Configuration Service
+*   [Ahoo-Wang/CoSky (⭐81)](https://github.com/Ahoo-Wang/CoSky) - High-performance, low-cost microservice governance platform. Service Discovery and Configuration Service
 
 ## [5. Awesome List](/content/sindresorhus/awesome/README.md)
 
@@ -42,15 +42,15 @@
 
 ### Front-End Development
 
-*   [Hydrogen (⭐152)](https://github.com/shopify/awesome-hydrogen#readme) - Edge-first framework for building Shopify storefronts with React.
+*   [Hydrogen (⭐162)](https://github.com/shopify/awesome-hydrogen#readme) - Edge-first framework for building Shopify storefronts with React.
 
 ### Networking
 
-*   [Scapy (⭐225)](https://github.com/secdev/awesome-scapy#readme) - Python-based interactive packet manipulation.
+*   [Scapy (⭐254)](https://github.com/secdev/awesome-scapy#readme) - Python-based interactive packet manipulation.
 
 ### Miscellaneous
 
-*   [Computational Geometry (⭐64)](https://github.com/atkirtland/awesome-computational-geometry#readme) - Computational approaches for problems in geometry.
+*   [Computational Geometry (⭐71)](https://github.com/atkirtland/awesome-computational-geometry#readme) - Computational approaches for problems in geometry.
 
 ## [6. Learn to Program](/content/karlhorky/learn-to-program/README.md)
 

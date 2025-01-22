@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 22 - Feb 28, 2016
 
-49 awesome lists updated this week.
+48 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -65,14 +65,14 @@
 
 ### Credits
 
-*   Some of the python libraries were cut-and-pasted from [vinta (⭐201k)](https://github.com/vinta/awesome-python)
+*   Some of the python libraries were cut-and-pasted from [vinta (⭐222k)](https://github.com/vinta/awesome-python)
 *   The few go reference I found where pulled from [this page](https://code.google.com/p/go-wiki/wiki/Projects#Machine_Learning)
 
 ## [10. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Command-line utilities
 
-*   [cli-columns (⭐33)](https://github.com/shannonmoeller/cli-columns) - Columnated unicode and ansi-safe text lists.
+*   [cli-columns (⭐34)](https://github.com/shannonmoeller/cli-columns) - Columnated unicode and ansi-safe text lists.
 
 ## [11. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
 
@@ -114,11 +114,11 @@
 
 ## [16. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
-### Courses
+### Courses / Commerical Tools
 
 *   [Knowledge Based Artificial Intelligence](https://www.udacity.com/course/knowledge-based-ai-cognitive-systems--ud409) - Georgia Tech's course on Artificial Intelligence focussing on Symbolic AI.
 
-### Free Content
+### Free Content / Commerical Tools
 
 *   [Society of Mind](http://aurellem.org/society-of-mind/index.html) - Marvin Minsky's seminal work on how our mind works. Lot of Symbolic AI concepts have been derived from this basis.
 
@@ -275,19 +275,13 @@
 
 *   [SnappyData (⭐1k)](https://github.com/SnappyDataInc/snappydata) - a distributed in-memory data store for real-time operational analytics, delivering stream analytics, OLTP (online transaction processing) and OLAP (online analytical processing) built on Spark in a single integrated cluster.
 
-## [34. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
-
-### C / Syntax highlighting packages
-
-*   [Just another simple tutorial](http://pastebin.com/gzT47MPJ)
-
-## [35. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
+## [34. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
 
 ### Aggregated Content / Icons Packages and Collections
 
 *   [Avopix](https://avopix.com) - More than 15 000 absolutely free stock photos and vectors.
 
-## [36. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
+## [35. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
 ### DVB & WiFi
 
@@ -296,20 +290,20 @@
 
 ### Media Players
 
-*   [Kodi (⭐18k)](https://github.com/xbmc/xbmc) - A software media player and entertainment hub for digital media.
+*   [Kodi (⭐19k)](https://github.com/xbmc/xbmc) - A software media player and entertainment hub for digital media.
 
 ### Multimedia content processing
 
 *   [GStreamer](https://gstreamer.freedesktop.org/) - A library for constructing graphs of media-handling components.
-*   [MP4Box.js (⭐1.9k)](https://github.com/gpac/mp4box.js) - JavaScript library to process MP4 files in the browser (and in NodeJS).
+*   [MP4Box.js (⭐2k)](https://github.com/gpac/mp4box.js) - JavaScript library to process MP4 files in the browser (and in NodeJS).
 
-## [37. Awesome D](/content/dlang-community/awesome-d/week/README.md)
+## [36. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 
 ### Game Frameworks / XML
 
-*   [DAllegro5 (⭐41)](https://github.com/SiegeLord/DAllegro5/tree/master/allegro5) - D binding/wrapper to Allegro 5, a modern game programming library.
+*   [DAllegro5 (⭐42)](https://github.com/SiegeLord/DAllegro5/tree/master/allegro5) - D binding/wrapper to Allegro 5, a modern game programming library.
 
-## [38. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
+## [37. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 
 ### Courses / Machine Learning
 
@@ -323,7 +317,7 @@
     *   [Course Page](http://cilvr.cs.nyu.edu/doku.php?id=deeplearning2015:schedule)
     *   [Recorded Lectures](http://techtalks.tv/deep-learning-nyu-spring-2015/)
 
-## [39. Awesome Hadoop](/content/youngwookim/awesome-hadoop/week/README.md)
+## [38. Awesome Hadoop](/content/youngwookim/awesome-hadoop/week/README.md)
 
 ### Hadoop
 
@@ -338,19 +332,19 @@
 *   [ApacheCon](http://www.apachecon.com/)
 *   [Strata + Hadoop World](http://conferences.oreilly.com/strata)
 
-## [40. Awesome Text Editing](/content/dok/awesome-text-editing/week/README.md)
+## [39. Awesome Text Editing](/content/dok/awesome-text-editing/week/README.md)
 
 ### Rich-text editors using contenteditable
 
 *   [Draft.js](http://facebook.github.io/draft-js/) - a rich text editor framework for React
 
-## [41. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
+## [40. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
 
 ### Security
 
 *   [LastPass Vault Manager (⭐121)](https://github.com/bachya/lp-vault-manager) - A workflow to interact with a LastPass vault.
 
-## [42. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
+## [41. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
 ### Resources / Articles
 
@@ -365,21 +359,21 @@
 
 ### Resources / More
 
-*   [MongoDB source code (⭐26k)](https://github.com/mongodb/mongo)
+*   [MongoDB source code (⭐27k)](https://github.com/mongodb/mongo)
 
 ### Libraries / C
 
-*   [mongo-c-driver (⭐806)](https://github.com/mongodb/mongo-c-driver) - Official C driver
+*   [mongo-c-driver (⭐823)](https://github.com/mongodb/mongo-c-driver) - Official C driver
 
 ### Libraries / C++
 
-*   [mongo-cxx-driver (⭐1k)](https://github.com/mongodb/mongo-cxx-driver) - Official C++ driver
+*   [mongo-cxx-driver (⭐1.1k)](https://github.com/mongodb/mongo-cxx-driver) - Official C++ driver
 
 ### Libraries / C#/.NET
 
-*   [mongo-csharp-driver (⭐3.1k)](https://github.com/mongodb/mongo-csharp-driver) - Official C# driver
-*   [MongoDB Messaging (⭐60)](https://github.com/loresoft/MongoDB.Messaging) - Lightweight queue pub/sub processing library
-*   [MongoRepository (⭐308)](https://github.com/RobThree/MongoRepository) - Repository abstraction layer on top of the C# driver
+*   [mongo-csharp-driver (⭐3.2k)](https://github.com/mongodb/mongo-csharp-driver) - Official C# driver
+*   [MongoDB Messaging (⭐58)](https://github.com/loresoft/MongoDB.Messaging) - Lightweight queue pub/sub processing library
+*   [MongoRepository (⭐307)](https://github.com/RobThree/MongoRepository) - Repository abstraction layer on top of the C# driver
 
 ### Libraries / Delphi
 
@@ -387,42 +381,36 @@
 
 ### Libraries / Erlang
 
-*   [mongodb-erlang (⭐342)](https://github.com/comtihon/mongodb-erlang) - Community Erlang driver
+*   [mongodb-erlang (⭐344)](https://github.com/comtihon/mongodb-erlang) - Community Erlang driver
 
 ### Libraries / Haskell
 
-*   [mongodb (⭐170)](https://github.com/mongodb-haskell/mongodb/) - Community Haskell driver
+*   [mongodb (⭐172)](https://github.com/mongodb-haskell/mongodb/) - Community Haskell driver
 
 ### Libraries / Java
 
-*   [Jongo (⭐583)](https://github.com/bguerout/jongo) - Query in Java as in Mongo shell
-*   [Hibernate OGM (⭐320)](https://github.com/hibernate/hibernate-ogm) - The power and simplicity of JPA for NoSQL datastores
+*   [Jongo (⭐585)](https://github.com/bguerout/jongo) - Query in Java as in Mongo shell
+*   [Hibernate OGM (⭐321)](https://github.com/hibernate/hibernate-ogm) - The power and simplicity of JPA for NoSQL datastores
 *   [mongo-java-driver (⭐2.6k)](https://github.com/mongodb/mongo-java-driver) - Official Java driver
-*   [Mongojack (⭐266)](https://github.com/mongojack/mongojack) - Based on Jackson, allows you to easily handle your mongo objects as POJOs
+*   [Mongojack (⭐267)](https://github.com/mongojack/mongojack) - Based on Jackson, allows you to easily handle your mongo objects as POJOs
 *   [Morphium (⭐55)](https://github.com/sboesebeck/morphium) - Java ODM and caching layer
 *   [Mungbean (⭐18)](https://github.com/jannehietamaki/mungbean) - Community driver for languages running on the JVM
 
 ### Libraries / JavaScript
 
-*   [Camo (⭐556)](https://github.com/scottwrobinson/camo) - Class-based ES6 ODM for Mongo-like databases
+*   [Camo (⭐558)](https://github.com/scottwrobinson/camo) - Class-based ES6 ODM for Mongo-like databases
 *   [Mongoose (⭐27k)](https://github.com/Automattic/mongoose) - Node.js asynchronous ODM
 *   [Moonridge (⭐66)](https://github.com/capaj/Moonridge) - Framework with live querying on top of Mongoose and socket.io
 *   [node-mongodb-native (⭐10k)](https://github.com/mongodb/node-mongodb-native) - Official Node.js driver
 
 ### Libraries / Lisp
 
-*   [cl-mongo (⭐141)](https://github.com/fons/cl-mongo) - Community Common Lisp interface
+*   [cl-mongo (⭐143)](https://github.com/fons/cl-mongo) - Community Common Lisp interface
 *   [mongo-cl-driver (⭐35)](https://github.com/archimag/mongo-cl-driver) Community Common Lisp driver
-
-### Libraries / PHP
-
-*   [laravel-mongodb (⭐7k)](https://github.com/jenssegers/laravel-mongodb) - Eloquent model and query builder for Laravel
 
 ### Libraries / Python
 
-*   [MongoLog (⭐135)](https://github.com/puentesarrin/mongodb-log) - MongoDB logging handler
-*   [PyMongo (⭐4.1k)](https://github.com/mongodb/mongo-python-driver) - Official Python driver
-*   [scrapy-mongodb (⭐356)](https://github.com/sebdah/scrapy-mongodb) - MongoDB pipeline for Scrapy
+*   [PyMongo (⭐4.2k)](https://github.com/mongodb/mongo-python-driver) - Official Python driver
 
 ### Libraries / Ruby
 
@@ -439,15 +427,15 @@
 
 ### Tools / Deployment
 
-*   [ansible-role-mongodb (⭐341)](https://github.com/UnderGreen/ansible-role-mongodb) - Ansible role
-*   [chef-mongodb (⭐362)](https://github.com/edelight/chef-mongodb) - Chef cookbook
+*   [ansible-role-mongodb (⭐344)](https://github.com/UnderGreen/ansible-role-mongodb) - Ansible role
+*   [chef-mongodb (⭐363)](https://github.com/edelight/chef-mongodb) - Chef cookbook
 
 ### Tools / Monitoring
 
 *   [mongo-munin (⭐144)](https://github.com/erh/mongo-munin) - Collection of Munin plugins
 *   [mongomon (⭐23)](https://github.com/pcdummy/mongomon) - More Munin plugins
 
-## [43. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [42. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Database Drivers
 
@@ -459,9 +447,9 @@
 
 ### State machines
 
-*   [Stateless (⭐5.5k)](https://github.com/dotnet-state-machine/stateless) - Create state machines and lightweight state machine-based workflows directly in .NET code
+*   [Stateless (⭐5.7k)](https://github.com/dotnet-state-machine/stateless) - Create state machines and lightweight state machine-based workflows directly in .NET code
 
-## [44. Tips](/content/git-tips/tips/week/README.md)
+## [43. Tips](/content/git-tips/tips/week/README.md)
 
 ## Marks your commit as a fix of a previous commit.
 
@@ -479,7 +467,7 @@ git rebase -i --autosquash
 git commit --only <file_path>
 ```
 
-## [45. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
+## [44. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
 
 ### JavaScript tools / Charting libraries
 
@@ -489,36 +477,36 @@ git commit --only <file_path>
 
 *   [plotly (⭐2.3k)](https://github.com/ropensci/plotly) - Interactive charts (including adding interactivity to ggplot2 output), cartograms and simple network diagrams
 
-## [46. Awesome Fuse](/content/fuse-compound/awesome-fuse/week/README.md)
+## [45. Awesome Fuse](/content/fuse-compound/awesome-fuse/week/README.md)
 
 ### Articles
 
 *   [Interview with Anders Lassen from Fuse](http://abduzeedo.com/interview-anders-lassen-fuse) - Written by [Abduzeedo](http://abduzeedo.com/).
 
-## [47. Awesome Purescript](/content/passy/awesome-purescript/week/README.md)
+## [46. Awesome Purescript](/content/passy/awesome-purescript/week/README.md)
 
 ### Build Tooling
 
 *   [purescript-psa (⭐85)](https://github.com/natefaubion/purescript-psa) - A pretty, flexible error/warning reporting frontend for `psc`
 
-## [48. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [47. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Apps
 
 *   [The Talos Principle](http://www.croteam.com/talos-principle-will-support-vulkan-first-screenshot-released/) - by Croteam.
 *   [ProtoStar](https://www.unrealengine.com/blog/epic-games-unveils-protostar-at-samsung-galaxy-unpacked) - by Epic, built with Unreal Engine 4 technology.
 
-## [49. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [48. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Algorithms and Data structures
 
-*   [erlang-algorithms (⭐157)](https://github.com/aggelgian/erlang-algorithms) - Implementations of popular data structures and algorithms.
+*   [erlang-algorithms (⭐158)](https://github.com/aggelgian/erlang-algorithms) - Implementations of popular data structures and algorithms.
 *   [spacesaving (⭐2)](https://github.com/rozap/spacesaving) - stream count distinct element estimation using the "space saving" algorithm.
 
 ### Applications
 
-*   [Hydra (⭐67)](https://github.com/doomspork/hydra) - A multi-headed beast: API gateway, request cache, and data transformations.
-*   [Phoenix Toggl (⭐173)](https://github.com/bigardone/phoenix-toggl) - Toggl tribute done in Elixir, Phoenix Framework, React and Redux.
+*   [Hydra (⭐66)](https://github.com/doomspork/hydra) - A multi-headed beast: API gateway, request cache, and data transformations.
+*   [Phoenix Toggl (⭐172)](https://github.com/bigardone/phoenix-toggl) - Toggl tribute done in Elixir, Phoenix Framework, React and Redux.
 
 ### Files and Directories
 

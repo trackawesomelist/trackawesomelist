@@ -10,7 +10,7 @@
 
 ### Tutorials
 
-*   📝 [Invoke Custom Java Code (⭐847)](https://github.com/nextgenhealthcare/connect/wiki/Invoke-Custom-Java-Code) - Call Java code from JavaScript Writer.
+*   📝 [Invoke Custom Java Code (⭐955)](https://github.com/nextgenhealthcare/connect/wiki/Invoke-Custom-Java-Code) - Call Java code from JavaScript Writer.
 
 ## [2. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
 

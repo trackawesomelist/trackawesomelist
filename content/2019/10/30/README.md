@@ -36,7 +36,7 @@
 
 ### Natural Language Processing
 
-*   [Sentimental (⭐457)](https://github.com/7compass/sentimental) - Simple sentiment analysis with Ruby.
+*   [Sentimental (⭐465)](https://github.com/7compass/sentimental) - Simple sentiment analysis with Ruby.
 
 ## [5. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
 
@@ -49,8 +49,8 @@
 ### Github Libraries / Randomized Algorithms
 
 *   C
-    *   [by @fragglet (⭐3.2k)](https://github.com/fragglet/c-algorithms)
-    *   [by @TheAlgorithms (⭐18k)](https://github.com/TheAlgorithms/C)
+    *   [by @fragglet (⭐3.3k)](https://github.com/fragglet/c-algorithms)
+    *   [by @TheAlgorithms (⭐19k)](https://github.com/TheAlgorithms/C)
 
 ## [7. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/README.md)
 
@@ -119,7 +119,7 @@
 
 ## [13. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
 
-### Courses
+### Courses / Commerical Tools
 
 *   [Succeeding with AI](https://www.manning.com/books/succeeding-with-ai) - An introduction to managing successful AI projects and applying AI to real-life situations.
 

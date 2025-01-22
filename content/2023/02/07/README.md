@@ -10,31 +10,31 @@
 
 ### Component abstraction crates / Other
 
-*   [`switch-hal`](https://github.com/rubberduck203/switch-hal): An "on"/"off" abstraction for input and output switches - ![crates.io](https://img.shields.io/crates/v/switch-hal.svg)
+*   [`switch-hal`](https://github.com/rubberduck203/switch-hal): An "on"/"off" abstraction for input and output switches - [![crates.io](https://img.shields.io/crates/v/switch-hal.svg)](https://crates.io/crates/switch-hal)
 
 ## [2. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Logging
 
-*   [ecto\_dev\_logger (⭐148)](https://github.com/fuelen/ecto_dev_logger) - An alternative logger for Ecto queries that helps in debugging.
+*   [ecto\_dev\_logger (⭐152)](https://github.com/fuelen/ecto_dev_logger) - An alternative logger for Ecto queries that helps in debugging.
 
 ## [3. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Cloud Storage
 
-*   [FluentStorage (⭐231)](https://github.com/robinrodricks/FluentStorage) - A polycloud .NET cloud storage abstraction layer originally known as Storage.Net. Provides a generic interface for Blob storage (AWS S3, GCP, FTP, SFTP, Azure Blob/File/Event Hub/Data Lake) and Messaging (AWS SQS, Azure Queue/ServiceBus).
+*   [FluentStorage (⭐311)](https://github.com/robinrodricks/FluentStorage) - A polycloud .NET cloud storage abstraction layer originally known as Storage.Net. Provides a generic interface for Blob storage (AWS S3, GCP, FTP, SFTP, Azure Blob/File/Event Hub/Data Lake) and Messaging (AWS SQS, Azure Queue/ServiceBus).
 
 ### Database
 
-*   [SliccDB (⭐129)](https://github.com/pmikstacki/SliccDB) - Lightweight Embedded (In-Memory) Graph Database for .net
+*   [SliccDB (⭐135)](https://github.com/pmikstacki/SliccDB) - Lightweight Embedded (In-Memory) Graph Database for .net
 
 ## [4. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
 
 ### eBPF Workflow: Tools and Utilities / Go libraries
 
-*   [cilium/ebpf (⭐5.9k)](https://github.com/cilium/ebpf) - Pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.
-*   [libbpfgo (⭐693)](https://github.com/aquasecurity/libbpfgo) - eBPF library for Go, powered by libbpf.
-*   [gobpf (⭐2.1k)](https://github.com/iovisor/gobpf) - Go bindings for BCC for creating eBPF programs.
+*   [cilium/ebpf (⭐6.5k)](https://github.com/cilium/ebpf) - Pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.
+*   [libbpfgo (⭐758)](https://github.com/aquasecurity/libbpfgo) - eBPF library for Go, powered by libbpf.
+*   [gobpf (⭐2.2k)](https://github.com/iovisor/gobpf) - Go bindings for BCC for creating eBPF programs.
 
 ## [5. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
 
@@ -58,7 +58,7 @@
 
 ### Audio Libraries
 
-*   [chord-mark (⭐46)](https://github.com/no-chris/chord-mark) - reference implementation of ChordMark, a text notation format for lyrics, chords and rhythm.
+*   [chord-mark (⭐67)](https://github.com/no-chris/chord-mark) - reference implementation of ChordMark, a text notation format for lyrics, chords and rhythm.
 
 ### Music Notation
 
@@ -75,28 +75,28 @@
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-image-placeholder (⭐8)](https://github.com/pengzhanbo/vite-plugin-image-placeholder) - Generate placeholder images by path matches.
+*   [vite-plugin-image-placeholder (⭐11)](https://github.com/pengzhanbo/vite-plugin-image-placeholder) - Generate placeholder images by path matches.
 
 ## [11. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### (requires Neovim 0.5)
 
-*   [jinzhongjia/LspUI.nvim (⭐164)](https://github.com/jinzhongjia/LspUI.nvim) - A modern and useful UI that wraps LSP operations.
+*   [jinzhongjia/LspUI.nvim (⭐187)](https://github.com/jinzhongjia/LspUI.nvim) - A modern and useful UI that wraps LSP operations.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [savq/melange-nvim (⭐685)](https://github.com/savq/melange-nvim) - Warm colorscheme written in Lua with support for various terminal emulators.
+*   [savq/melange-nvim (⭐766)](https://github.com/savq/melange-nvim) - Warm colorscheme written in Lua with support for various terminal emulators.
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [linrongbin16/lin.nvim (⭐70)](https://github.com/linrongbin16/lin.nvim) - A highly configured Neovim distribution integrated with tons of utilities for development, inspired by spf13-vim.
+*   [linrongbin16/lin.nvim (⭐78)](https://github.com/linrongbin16/lin.nvim) - A highly configured Neovim distribution integrated with tons of utilities for development, inspired by spf13-vim.
 
 ## [12. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [adonisjs (⭐0)](https://github.com/baliestri/adonisjs.plugin.zsh) - Plugin for skipping the `node` part of the `ace` command.
-*   [aws-vault-profiles (⭐0)](https://github.com/jonscheiding/zsh-plugin-aws-vault-profiles) - Plugin that integrates usage of [aws-vault (⭐8.3k)](https://github.com/99designs/aws-vault) with the `$AWS_PROFILE` environment variable.
+*   [aws-vault-profiles (⭐0)](https://github.com/jonscheiding/zsh-plugin-aws-vault-profiles) - Plugin that integrates usage of [aws-vault (⭐8.6k)](https://github.com/99designs/aws-vault) with the `$AWS_PROFILE` environment variable.
 *   [dietpi (⭐3)](https://github.com/unixorn/dietpi.plugin.zsh) - Adds utilities for [dietpi](https://dietpi.com) to your `$PATH` (and includes aliases to automagically run them with `sudo`) when you log into a machine running  [dietpi](https://dietpi.com).
 *   [laravel (baliestri) (⭐0)](https://github.com/baliestri/laravel.plugin.zsh) - Plugin for skiping the `php` command when running `artisan` commands and `./sail` or `./vendor/bin/sail` when running `sail` commands.
 *   [laravel (crazybooot) (⭐17)](https://github.com/crazybooot/laravel-zsh-plugin) - Add shortcuts for [Laravel](https://laravel.com/) 5, 5.1, 5.2 & 5.3.
@@ -105,7 +105,7 @@
 
 ### Content Hub One
 
-*   [Sitecore.Demo.CHONE (⭐2)](https://github.com/Sitecore/Sitecore.Demo.CHONE) - Repository for all the Content Hub ONE demos built by the Sitecore Demo Solutions team, including PLAY Media Next.js Website and PLAY Media Mobile Phone Application.
+*   [Sitecore.Demo.CHONE (⭐3)](https://github.com/Sitecore/Sitecore.Demo.CHONE) - Repository for all the Content Hub ONE demos built by the Sitecore Demo Solutions team, including PLAY Media Next.js Website and PLAY Media Mobile Phone Application.
 
 ## [14. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
@@ -117,10 +117,10 @@
 
 ### Authentication Authorisation
 
-*   [Vert.x Auth JWT (⭐154)](https://github.com/eclipse-vertx/vertx-auth/tree/master/vertx-auth-jwt)  <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Vert.x Authorisation based on JSON Web Tokens.
-*   [Vert.x Auth htdigest (⭐154)](https://github.com/eclipse-vertx/vertx-auth/tree/master/vertx-auth-htdigest)  <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Vert.x Authorisation/Authentication based on [Apache htdigest](https://httpd.apache.org/docs/2.4/programs/htdigest.html).
-*   [Vert.x Auth OAuth2 (⭐154)](https://github.com/eclipse-vertx/vertx-auth/tree/master/vertx-auth-oauth2) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Vert.x Authorisation/Authentication based on [OAuth 2](https://oauth.net/2/).
-*   [Vert.x Auth htpasswd (⭐154)](https://github.com/eclipse-vertx/vertx-auth/tree/master/vertx-auth-htpasswd) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Vert.x Authorisation/Authentication based on [htpasswd](https://httpd.apache.org/docs/2.4/programs/htpasswd.html).
+*   [Vert.x Auth JWT (⭐166)](https://github.com/eclipse-vertx/vertx-auth/tree/master/vertx-auth-jwt)  <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Vert.x Authorisation based on JSON Web Tokens.
+*   [Vert.x Auth htdigest (⭐166)](https://github.com/eclipse-vertx/vertx-auth/tree/master/vertx-auth-htdigest)  <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Vert.x Authorisation/Authentication based on [Apache htdigest](https://httpd.apache.org/docs/2.4/programs/htdigest.html).
+*   [Vert.x Auth OAuth2 (⭐166)](https://github.com/eclipse-vertx/vertx-auth/tree/master/vertx-auth-oauth2) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Vert.x Authorisation/Authentication based on [OAuth 2](https://oauth.net/2/).
+*   [Vert.x Auth htpasswd (⭐166)](https://github.com/eclipse-vertx/vertx-auth/tree/master/vertx-auth-htpasswd) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Vert.x Authorisation/Authentication based on [htpasswd](https://httpd.apache.org/docs/2.4/programs/htpasswd.html).
 
 ---
 

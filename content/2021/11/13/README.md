@@ -10,7 +10,7 @@
 
 ### Crates / Component Libraries
 
-*   [yew-mdc (⭐62)](https://github.com/dungeonfog/yew-mdc) - Material Design Components for the Yew framework.
+*   [yew-mdc (⭐63)](https://github.com/dungeonfog/yew-mdc) - Material Design Components for the Yew framework.
 
 ## [2. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
 
@@ -83,13 +83,13 @@
 
 ### Logging
 
-*   [Sejil (⭐182)](https://github.com/alaatm/Sejil) - Capture, view and filter your ASP.NET Core app's logs right from your app. It supports structured logging, querying as well as saving log queries.
+*   [Sejil (⭐183)](https://github.com/alaatm/Sejil) - Capture, view and filter your ASP.NET Core app's logs right from your app. It supports structured logging, querying as well as saving log queries.
 
 ## [10. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / Frameworks
 
-*   [Element Plus (⭐24k)](https://github.com/element-plus/element-plus) - A Vue 3 UI Framework.
+*   [Element Plus (⭐25k)](https://github.com/element-plus/element-plus) - A Vue 3 UI Framework.
 
 ---
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 19, 2023
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -34,15 +34,23 @@
 
 *   [Embrace](https://embrace.io/) — Mobile app monitoring. Free for small teams with up to 1 million user sessions per year.
 
-## [3. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/README.md)
+## [3. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
-### **Trustworthy, Safe and Secure LLM** / **GPT series release date**
+### (requires Neovim 0.5)
 
-*   Red Teaming: The term red teaming has historically described systematic adversarial attacks for testing security vulnerabilities. LLM red teamers should be a mix of people with diverse social and professional backgrounds, demographic groups, and interdisciplinary expertise that fits the deployment context of your AI system. [ref](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/red-teaming)
+*   [Wansmer/symbol-usage.nvim (⭐311)](https://github.com/Wansmer/symbol-usage.nvim) - Display references, definitions and implementations of document symbols.
+
+### Editing Support / Diagnostics
+
+*   [chrisgrieser/nvim-puppeteer (⭐60)](https://github.com/chrisgrieser/nvim-puppeteer) - Automatically convert strings to f-strings or template strings and back.
+
+### Preconfigured Configuration / Diagnostics
+
+*   [chrisgrieser/nvim-kickstart-python (⭐137)](https://github.com/chrisgrieser/nvim-kickstart-python) - A launch point for your Neovim configuration for Python.
 
 ## [4. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
-### VPN Services / Telegram
+### VPN Services / Steam
 
 *   [OffShore.cat](https://offshore.cat/vpn) - list of vpns for the privacy conscious
 
@@ -66,15 +74,15 @@
 
 ### Software / Blogging Platforms
 
-*   [Mataroa](https://mataroa.blog/) - Mataroa is a naked blogging platform for minimalists. ([Source Code (⭐249)](https://github.com/mataroa-blog/mataroa)) `MIT` `Python`
+*   [Mataroa](https://mataroa.blog/) - Mataroa is a naked blogging platform for minimalists. ([Source Code (⭐277)](https://github.com/mataroa-blog/mataroa)) `MIT` `Python`
 
 ### Software / Learning and Courses
 
-*   [INGInious](https://inginious.org/?lang=en) - Intelligent grader that allows secured and automated testing of code made by students. ([Source Code (⭐201)](https://github.com/UCL-INGI/INGInious), [Clients (⭐3)](https://github.com/UCL-INGI/INGInious-plugins)) `AGPL-3.0` `Python/Docker`
+*   [INGInious](https://inginious.org/?lang=en) - Intelligent grader that allows secured and automated testing of code made by students. ([Source Code (⭐216)](https://github.com/UCL-INGI/INGInious), [Clients (⭐3)](https://github.com/UCL-INGI/INGInious-plugins)) `AGPL-3.0` `Python/Docker`
 
 ### Software / Search Engines
 
-*   [Websurfx (⭐691)](https://github.com/neon-mmd/websurfx) `⚠` - Aggregate results from other search engines (metasearch engine) without ads while keeping privacy and security in mind. It is extremely fast and provides a high level of customization (alternative to SearX). `AGPL-3.0` `Rust/Docker`
+*   [Websurfx (⭐794)](https://github.com/neon-mmd/websurfx) `⚠` - Aggregate results from other search engines (metasearch engine) without ads while keeping privacy and security in mind. It is extremely fast and provides a high level of customization (alternative to SearX). `AGPL-3.0` `Rust/Docker`
 
 ## [8. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
@@ -93,24 +101,6 @@
 *   [The White Luck Warrior](https://www.goodreads.com/book/show/7704943-the-white-luck-warrior) \[4.11]
 *   [The Great Ordeal](https://www.goodreads.com/book/show/27160926-the-great-ordeal) \[4.07]
 *   [The Unholy Consult](https://www.goodreads.com/book/show/9968073-the-unholy-consult) \[3.88]
-
-## [10. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
-
-### (requires Neovim 0.5)
-
-*   [Wansmer/symbol-usage.nvim (⭐249)](https://github.com/Wansmer/symbol-usage.nvim) - Display references, definitions and implementations of document symbols.
-
-### Utility / Diagnostics
-
-*   [luckasRanarison/nvim-devdocs (⭐265)](https://github.com/luckasRanarison/nvim-devdocs) - Preview devdocs.io documentations directly in Markdown format.
-
-### Editing Support / Diagnostics
-
-*   [chrisgrieser/nvim-puppeteer (⭐56)](https://github.com/chrisgrieser/nvim-puppeteer) - Automatically convert strings to f-strings or template strings and back.
-
-### Preconfigured Configuration / Diagnostics
-
-*   [chrisgrieser/nvim-kickstart-python (⭐113)](https://github.com/chrisgrieser/nvim-kickstart-python) - A launch point for your Neovim configuration for Python.
 
 ---
 

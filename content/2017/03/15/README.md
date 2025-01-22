@@ -22,7 +22,7 @@
 
 ### Packages / Parsing
 
-*   [xlsx-populate (⭐943)](https://github.com/dtjohnson/xlsx-populate) - Read/write Excel XLSX.
+*   [xlsx-populate (⭐959)](https://github.com/dtjohnson/xlsx-populate) - Read/write Excel XLSX.
 
 ## [4. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
@@ -47,7 +47,7 @@
 
 ### Table of Contents / Authentication and Authorization
 
-*   [SocialConnect Auth (⭐548)](https://github.com/socialConnect/auth) - An open source social sign (OAuth1\OAuth2\OpenID\OpenIDConnect).
+*   [SocialConnect Auth (⭐550)](https://github.com/socialConnect/auth) - An open source social sign (OAuth1\OAuth2\OpenID\OpenIDConnect).
 *   [TwitterOAuth (⭐4.3k)](https://github.com/abraham/twitteroauth) - A Twitter OAuth library.
 
 ## [7. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
@@ -68,13 +68,13 @@
 
 ### Images, Maps and Charts / Paid Books
 
-*   [Chart.js (⭐59k)](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the \<canvas> tag.
-*   [Owl Carousel 2 (⭐7.7k)](https://github.com/OwlCarousel2/OwlCarousel2) - Responsive carousel slider.
+*   [Chart.js (⭐65k)](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the \<canvas> tag.
+*   [Owl Carousel 2 (⭐7.9k)](https://github.com/OwlCarousel2/OwlCarousel2) - Responsive carousel slider.
 *   [Peity (⭐4.2k)](https://github.com/benpickles/peity) - Progressive \<svg> pie, donut, bar and line charts.
 
 ### Modals and Popups / Paid Books
 
-*   [Lightbox (⭐5.7k)](https://github.com/lokesh/lightbox2/) - JavaScript library used to overlay images on top of the current page.
+*   [Lightbox (⭐6.2k)](https://github.com/lokesh/lightbox2/) - JavaScript library used to overlay images on top of the current page.
 
 ### Miscellaneous Plugins / Paid Books
 

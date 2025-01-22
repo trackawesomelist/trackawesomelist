@@ -85,7 +85,7 @@
 
 ### Tools / Libraries
 
-*   [Polychrome (⭐287)](https://github.com/cdonohue/polychrome) - A small library for parsing and manipulating colors.
+*   [Polychrome (⭐288)](https://github.com/cdonohue/polychrome) - A small library for parsing and manipulating colors.
 
 ## [6. Awesome Foss Apps](/content/DataDaoDe/awesome-foss-apps/week/README.md)
 
@@ -143,7 +143,7 @@
 
 ### Multimedia content processing
 
-*   [Codem-isoboxer (⭐112)](https://github.com/madebyhiro/codem-isoboxer) A small browser-based MPEG-4 (ISOBMFF) parser.
+*   [Codem-isoboxer (⭐116)](https://github.com/madebyhiro/codem-isoboxer) A small browser-based MPEG-4 (ISOBMFF) parser.
 
 ## [14. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
 
@@ -170,7 +170,7 @@
 
 ### Apps / E-commerce
 
-*   [longclaw (⭐392)](https://github.com/JamesRamm/longclaw) - A shop template for Wagtail CMS.
+*   [longclaw (⭐394)](https://github.com/JamesRamm/longclaw) - A shop template for Wagtail CMS.
 
 ### Apps / Misc
 
@@ -289,14 +289,6 @@ Webpage: <http://www.lerdevagar.com/>
 
 ## [29. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
-### Resources / Community
-
-*   [vue-requests (⭐69)](https://github.com/vuejs/vue-requests) - Request a Vue.js module you wish existed or get ideas for modules
-
-### Resources / Official Examples
-
-*   [**Vue.js HackerNews Clone**](https://github.com/vuejs/vue-hackernews)
-
 ### Resources / Tutorials
 
 *   [Role Based Authorization for your Vue.js and Nuxt.js Applications Using vue-kindergarten](https://medium.com/@JiriChara/role-based-authorization-for-your-vue-js-and-nuxt-js-applications-using-vue-kindergarten-fd483e013ec5#.kp81np177)
@@ -306,19 +298,6 @@ Webpage: <http://www.lerdevagar.com/>
 
 *   [The Majesty Of Vue.js](https://www.packtpub.com/web-development/majesty-vuejs) by Alex Kyriakidis & Kostas Maniatis, Packt. (Nov 2016)
 *   [Learning Vue.js 2](https://www.packtpub.com/web-development/learning-vuejs-2) by Olga Filipova, Packt. (Dec 2016)
-
-### Components & Libraries / UI Components
-
-*   [vuedals (⭐108)](https://github.com/javisperez/vuedals) - A VueJS (2.x) Plugin for multiple modals windows with a single component instance.
-*   [sweet-modal-vue (⭐757)](https://github.com/adeptoas/sweet-modal-vue) - The sweetest library to happen to modals. Now available for Vue.js.
-*   [vue-masked-input (⭐455)](https://github.com/niksmr/vue-masked-input) - Masked input component for Vue.js.
-*   [vue-text-mask (⭐8.3k)](https://github.com/text-mask/text-mask) - Input mask for React, Angular, Ember, Vue, & plain JavaScript.
-*   [vue-ip-input (⭐26)](https://github.com/lakb248/vue-ip-input) - An ip input implemented by vuejs.
-*   [vue-numeric (⭐462)](https://github.com/kevinongko/vue-numeric) - Input field component to display currency value based on Vue.
-
-### Components & Libraries / Utilities
-
-*   [vue-super (⭐35)](https://github.com/rpkilby/vue-super) - A simple plugin to call methods on parent components.
 
 ## [30. Awesome Fuse](/content/fuse-compound/awesome-fuse/week/README.md)
 
@@ -343,7 +322,7 @@ Webpage: <http://www.lerdevagar.com/>
 
 ### Errors and Exception Handling
 
-*   [OK (⭐599)](https://github.com/CrowdHailer/OK) - Elegant error handling with result monads, featuring a simple & powerful `with` construct and a happy path pipe operator.
+*   [OK (⭐604)](https://github.com/CrowdHailer/OK) - Elegant error handling with result monads, featuring a simple & powerful `with` construct and a happy path pipe operator.
 
 ## [34. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
@@ -363,7 +342,7 @@ Webpage: <http://www.lerdevagar.com/>
 
 ### Version Control / Git
 
-*   [git-standup (⭐7.5k)](https://github.com/kamranahmedse/git-standup) - Recall what you did on the last working day.
+*   [git-standup (⭐7.6k)](https://github.com/kamranahmedse/git-standup) - Recall what you did on the last working day.
 
 ## [36. Awesome Groovy](/content/kdabir/awesome-groovy/week/README.md)
 
@@ -475,7 +454,7 @@ Webpage: <http://www.lerdevagar.com/>
 
 ### Search
 
-*   [hermes (⭐37)](https://github.com/imdrasil/hermes.cr) - Data Mapper pattern implementation for ElastiSearch
+*   [hermes (⭐38)](https://github.com/imdrasil/hermes.cr) - Data Mapper pattern implementation for ElastiSearch
 
 ### Task management
 

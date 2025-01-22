@@ -10,7 +10,7 @@
 
 ### Integrations
 
-*   [playwright-bdd (⭐257)](https://github.com/vitalets/playwright-bdd) - BDD testing with Playwright runner and CucumberJS.
+*   [playwright-bdd (⭐291)](https://github.com/vitalets/playwright-bdd) - BDD testing with Playwright runner and CucumberJS.
 
 ## [2. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
@@ -28,11 +28,11 @@
 
 ### Code Generation / SRAM
 
-*   [micropython-stubs (⭐137)](https://github.com/Josverl/micropython-stubs) - Stubs of most MicroPython ports, boards and versions to make writing code that much simpler.
+*   [micropython-stubs (⭐180)](https://github.com/Josverl/micropython-stubs) - Stubs of most MicroPython ports, boards and versions to make writing code that much simpler.
 
 ### Shells / Jupyter
 
-*   [micropython-magic (⭐21)](https://github.com/josverl/micropython-magic) - MicroPython integrated into Jupyter notebooks.
+*   [micropython-magic (⭐24)](https://github.com/josverl/micropython-magic) - MicroPython integrated into Jupyter notebooks.
 
 ## [3. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/README.md)
 
@@ -104,13 +104,13 @@
 
 ### Documentation
 
-*   [Doxide (⭐44)](https://github.com/lawmurray/doxide) - Modern documentation for modern C++, configure with YAML, output Markdown. \[Apache 2.0] [website](https://doxide.org)
+*   [Doxide (⭐71)](https://github.com/lawmurray/doxide) - Modern documentation for modern C++, configure with YAML, output Markdown. \[Apache 2.0] [website](https://doxide.org)
 
 ## [9. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Reading
 
-*   [Elixir Code Smells (⭐1.4k)](https://github.com/lucasvegi/Elixir-Code-Smells) - A catalog of Elixir-specific code smells that can harm the quality of software developed using this language.
+*   [Elixir Code Smells (⭐1.5k)](https://github.com/lucasvegi/Elixir-Code-Smells) - A catalog of Elixir-specific code smells that can harm the quality of software developed using this language.
 
 ## [10. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
@@ -122,7 +122,7 @@
 
 ### Books
 
-*   :books: [The Concise TypeScript Book (Free and Open Source) (⭐8.4k)](https://github.com/gibbok/typescript-book) by Simone Poggiali
+*   :books: [The Concise TypeScript Book (Free and Open Source) (⭐8.5k)](https://github.com/gibbok/typescript-book) by Simone Poggiali
 
 ## [12. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
@@ -130,10 +130,10 @@
 
 *   [bashplus (⭐0)](https://github.com/Elagoht/BashPlusZshTheme) - Colorized replica of the default `bash` prompt with decorators for `virtualenv` and `git` status.
 *   [bouni (⭐0)](https://github.com/Bouni/bouni-zsh-theme) - Includes decorators for user\@host, current directory, active python virtualenv, and `git` status.
-*   [hex (⭐0)](https://github.com/hectorBrown/hex-zsh) - Heavily based on [bira (⭐172k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#bira), and [gruvbox (⭐106)](https://github.com/sbugzu/gruvbox-zsh), which in turn is based on [agnoster](https://gist.github.com/agnoster/3712874). Includes decorators for current directory, `git` status information, active python virtualenv, exit status of the last command run. Requires a Powerline-compatible font.
-*   [hoffish (⭐0)](https://github.com/emilHof/hoffish-zsh-theme) - If the [agnoster (⭐4k)](https://github.com/agnoster/agnoster-zsh-theme) theme and [fish](https://fishshell.com/) shell had a ZSH theme for a child. Includes decorators for `git` status, trimmed path to current directory, root status, exit status of the last command run and the active python virtualenv. Requires a Powerline font and the [zsh-autosuggestions (⭐31k)](https://github.com/zsh-users/zsh-autosuggestions) and [shrink-path (⭐172k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/shrink-path/shrink-path.plugin.zsh) plugins.
+*   [hex (⭐0)](https://github.com/hectorBrown/hex-zsh) - Heavily based on [bira (⭐175k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#bira), and [gruvbox (⭐114)](https://github.com/sbugzu/gruvbox-zsh), which in turn is based on [agnoster](https://gist.github.com/agnoster/3712874). Includes decorators for current directory, `git` status information, active python virtualenv, exit status of the last command run. Requires a Powerline-compatible font.
+*   [hoffish (⭐0)](https://github.com/emilHof/hoffish-zsh-theme) - If the [agnoster (⭐4k)](https://github.com/agnoster/agnoster-zsh-theme) theme and [fish](https://fishshell.com/) shell had a ZSH theme for a child. Includes decorators for `git` status, trimmed path to current directory, root status, exit status of the last command run and the active python virtualenv. Requires a Powerline font and the [zsh-autosuggestions (⭐32k)](https://github.com/zsh-users/zsh-autosuggestions) and [shrink-path (⭐175k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/shrink-path/shrink-path.plugin.zsh) plugins.
 *   [skgeek (⭐0)](https://github.com/skippyr/skgeek) - Includes decorators for hostname, directory and `git` branch.
-*   [thygod (⭐0)](https://github.com/Thy-GoD/thy-god-zsh-theme) - Based off [gnzh (⭐172k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/gnzh.zsh-theme) and [bira (⭐172k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/bira.zsh-theme). Includes a `git` status decorator and changes prompt to a red cross when a command fails.
+*   [thygod (⭐0)](https://github.com/Thy-GoD/thy-god-zsh-theme) - Based off [gnzh (⭐175k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/gnzh.zsh-theme) and [bira (⭐175k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/bira.zsh-theme). Includes a `git` status decorator and changes prompt to a red cross when a command fails.
 
 ---
 

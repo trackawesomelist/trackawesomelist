@@ -57,7 +57,7 @@
 
 ## [7. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
-### Data Science Competitions / Book Deals (Affiliated) 🛍
+### Data Science Competitions / Book Deals (Affiliated)
 
 *   [Microprediction](https://www.microprediction.com/python-1)
 
@@ -95,7 +95,7 @@
 
   CORS: Yes
 
-  Call this API: 
+  : 
 
 
 
@@ -153,15 +153,14 @@
 ### Tools / Paid and commercially available materials
 
 *   [Knurling Tools](https://knurling.ferrous-systems.com/tools/) are developed by [Ferrous Systems](https://ferrous-systems.com) to ease the development process for building, debugging, and testing embedded Rust systems. These tools include:
-    *   [Probe Run (⭐645)](https://github.com/knurling-rs/probe-run): a cargo runner to flash and run embedded applications just like you would native applications, including backtraces and panicking behavior
-    *   [defmt (⭐778)](https://github.com/knurling-rs/defmt): a highly efficient logging framework that targets resource-constrained devices, like microcontrollers.
-    *   [flip-link (⭐259)](https://github.com/knurling-rs/flip-link), a linker wrapper that provides stack overflow protection without an MMU by flipping the standard memory layout of ARM Cortex-M programs
-    *   [app-template (⭐304)](https://github.com/knurling-rs/app-template), a `cargo-generate` powered project template for quickly setting up new projects using the Knurling Tools.
+    *   [defmt (⭐908)](https://github.com/knurling-rs/defmt): a highly efficient logging framework that targets resource-constrained devices, like microcontrollers.
+    *   [flip-link (⭐304)](https://github.com/knurling-rs/flip-link), a linker wrapper that provides stack overflow protection without an MMU by flipping the standard memory layout of ARM Cortex-M programs
+    *   [app-template (⭐327)](https://github.com/knurling-rs/app-template), a `cargo-generate` powered project template for quickly setting up new projects using the Knurling Tools.
     *   [defmt-test (⭐9)](https://github.com/knurling-rs/defmt-test), an embedded test harness that lets you write and run unit tests as if you were using the built-in `#[test]` attribute, but will run on an embedded target
 
 ### HAL implementation crates / STMicroelectronics
 
-*   [`stm32-hal`](https://crates.io/crates/stm32-hal2) - ![crates.io](https://img.shields.io/crates/v/stm32-hal2.svg)
+*   [`stm32-hal`](https://crates.io/crates/stm32-hal2) - [![crates.io](https://img.shields.io/crates/v/stm32-hal2.svg)](https://crates.io/crates/stm32-hal2)
     *   HAL implementation for STM32 devices across multiple families, with a focus on newer ones like L4, L5, and H7.
 
 ### Old books, blogs, and training materials / WIP
@@ -172,17 +171,17 @@
 
 ### Visualization / Interactive plots
 
-*   [pyecharts (⭐14k)](https://github.com/pyecharts/pyecharts) - Migrated from [Echarts (⭐59k)](https://github.com/apache/echarts), a charting and visualization library, to Python's interactive visual drawing library.<img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pyecharts.png" alt="pyecharts"> <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/echarts.png" alt="echarts">
+*   [pyecharts (⭐15k)](https://github.com/pyecharts/pyecharts) - Migrated from [Echarts (⭐60k)](https://github.com/apache/echarts), a charting and visualization library, to Python's interactive visual drawing library.<img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pyecharts.png" alt="pyecharts"> <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/echarts.png" alt="echarts">
 
 ## [13. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Rendering / Redux / ELM / Dependency Injection
 
-*   [Graphx (⭐487)](https://github.com/roipeker/graphx) <!--stargazers:roipeker/graphx--> - Making drawings and animations extremely simple, inspired by Flash, by [Roi Peker](https://github.com/roipeker).
+*   [Graphx (⭐499)](https://github.com/roipeker/graphx) <!--stargazers:roipeker/graphx--> - Making drawings and animations extremely simple, inspired by Flash, by [Roi Peker](https://github.com/roipeker).
 
 ### Game / Open source games
 
-*   [Ghost Rigger (⭐225)](https://github.com/Float-like-a-dash-Sting-like-a-dart/GhostRigger) <!--stargazers:Float-like-a-dash-Sting-like-a-dart/GhostRigger--> - Ghost Rigger is a cyberpunk inspired puzzle game by [Iain Smith](https://github.com/b099l3) and [Julio Ernesto Rodríguez Cabañas](https://github.com/ernestoyaquello).
+*   [Ghost Rigger (⭐237)](https://github.com/Float-like-a-dash-Sting-like-a-dart/GhostRigger) <!--stargazers:Float-like-a-dash-Sting-like-a-dart/GhostRigger--> - Ghost Rigger is a cyberpunk inspired puzzle game by [Iain Smith](https://github.com/b099l3) and [Julio Ernesto Rodríguez Cabañas](https://github.com/ernestoyaquello).
 
 ## [14. Awesome Nlg](/content/accelerated-text/awesome-nlg/README.md)
 
@@ -194,55 +193,55 @@
 
 ### Contents / Education
 
-*   [Mathematics (⭐93)](https://github.com/j-j-gajjar/mathematics/) - Generate MCQ PDF / Question PDF : With Answer and Quiz [J-J-GAJJAR](https://github.com/j-j-gajjar).
+*   [Mathematics (⭐117)](https://github.com/j-j-gajjar/mathematics/) - Generate MCQ PDF / Question PDF : With Answer and Quiz [J-J-GAJJAR](https://github.com/j-j-gajjar).
 
 ### Contents / Finance
 
-*   [Be Thrifty Today (⭐138)](https://github.com/AmruthPillai/BeThriftyToday) - A simple and secure money manager that keeps you financially vigilant by [Amruth Pillai](https://github.com/AmruthPillai)
+*   [Be Thrifty Today (⭐145)](https://github.com/AmruthPillai/BeThriftyToday) - A simple and secure money manager that keeps you financially vigilant by [Amruth Pillai](https://github.com/AmruthPillai)
 
 ### Contents / Media
 
-*   [Flutter Music (⭐150)](https://github.com/o-ifeanyi/musicPlayer) - A Flutter music player to play songs by [o-ifeanyi](https://github.com/o-ifeanyi)
+*   [Flutter Music (⭐151)](https://github.com/o-ifeanyi/musicPlayer) - A Flutter music player to play songs by [o-ifeanyi](https://github.com/o-ifeanyi)
 
 ### Contents / Social Network
 
-*   [Fwitter (⭐3.6k)](https://github.com/TheAlphamerc/flutter_twitter_clone) - Fully functional Twitter clone built in flutter framework using Firebase realtime database and storage by [Sonu Sharma](https://github.com/TheAlphamerc)
-*   [GroupChatApp (⭐248)](https://github.com/ahmedgulabkhan/GroupChatApp) - Group chat application using Flutter and Firebase, where users can register and create groups or join already existing groups and start conversing with each other by [Ahmed Gulab Khan](https://github.com/ahmedgulabkhan)
+*   [Fwitter (⭐3.8k)](https://github.com/TheAlphamerc/flutter_twitter_clone) - Fully functional Twitter clone built in flutter framework using Firebase realtime database and storage by [Sonu Sharma](https://github.com/TheAlphamerc)
+*   [GroupChatApp (⭐259)](https://github.com/ahmedgulabkhan/GroupChatApp) - Group chat application using Flutter and Firebase, where users can register and create groups or join already existing groups and start conversing with each other by [Ahmed Gulab Khan](https://github.com/ahmedgulabkhan)
 
 ### Contents / Shopping
 
-*   [LaCoro Q-commerce app (⭐58)](https://github.com/LaCoro/ConsumerFlutterApp) - An open source quick commerce app in flutter by [LaCoro](https://github.com/LaCoro)
+*   [LaCoro Q-commerce app (⭐60)](https://github.com/LaCoro/ConsumerFlutterApp) - An open source quick commerce app in flutter by [LaCoro](https://github.com/LaCoro)
 
 ### Contents / Tools
 
-*   [Flutter Browser App (⭐388)](https://github.com/pichillilorenzo/flutter_browser_app) - A Full-Featured Mobile Browser App by [Lorenzo Pichilli](https://github.com/pichillilorenzo)
+*   [Flutter Browser App (⭐442)](https://github.com/pichillilorenzo/flutter_browser_app) - A Full-Featured Mobile Browser App by [Lorenzo Pichilli](https://github.com/pichillilorenzo)
 
 ## [16. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
 
-### Courses
+### Courses / Commerical Tools
 
 *   [CS50’s Intro to Artificial Intelligence](https://cs50.harvard.edu/ai/2020) - This course explores the concepts and algorithms at the foundation of modern artificial intelligence
 *   [Deep Learning](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187) - An Introductory course to Deep Learning using TensorFlow.
 
-### Books
+### Books / Commerical Tools
 
 *   [How Machine Learning Works](https://livebook.manning.com/book/how-machine-learning-works/welcome/v-5) - Mostafa Samir. Early access book that introduces machine learning from both practical and theoretical aspects in a non-threatening way.
 
-### Programming
+### Programming / Commerical Tools
 
 *   [AI Algorithms, Data Structures and Idioms in Prolog, Lisp and Java](http://www.amazon.co.uk/Algorithms-Data-Structures-Idioms-Prolog/dp/0136070477) - [PDF here](https://pdfs.semanticscholar.org/f5c3/d7dbe4c47e310569a14d2338d0cb3d70a1bb.pdf)
 
-### Free Content
+### Free Content / Commerical Tools
 
 *   [Artificial Intelligence and Molecular Biology](https://web.archive.org/web/20060627060706/http://www.biosino.org/mirror/www.aaai.org/Press/Books/Hunter/hunter-contents.html) - The current volume is an effort to bridge that range of exploration, from nucleotide to abstract concept, in contemporary AI/MB research.
 *   [Encyclopedia: Computational intelligence](http://www.scholarpedia.org/article/Encyclopedia:Computational_intelligence) - Scholarpedia is a peer-reviewed open-access encyclopedia written and maintained by scholarly experts from around the world.
 
-### Learning
+### Learning / Commerical Tools
 
 *   [Deep Learning](https://www.deeplearningbook.org) - Yoshua Bengio, Ian Goodfellow and Aaron Courville put together this currently free (and draft version) book on deep learning.  The book is kept up-to-date and covers a wide range of topics in depth (up to and including sequence-to-sequence learning).
 *   [Deep Learning.net](https://web.archive.org/web/20201114013453/http://deeplearning.net/) - Aggregation site for DL resources
 
-### Journals
+### Journals / Commerical Tools
 
 *   [Applied Artificial Intelligence](https://www.tandfonline.com/toc/uaai20/current)
 *   [Electronic Transactions on Artificial Intelligence](https://dblp.org/db/journals/etai/index.html)
@@ -290,21 +289,21 @@
 
 ### Development / Docker
 
-*   [lstags (⭐322)](https://github.com/ivanilves/lstags) - Synchronize images across registries.
-*   [dockly (⭐3.7k)](https://github.com/lirantal/dockly) - Interactively manage containers.
-*   [lazydocker (⭐33k)](https://github.com/jesseduffield/lazydocker) - Simple docker/docker-compose interface.
-*   [docker-pushrm (⭐130)](https://github.com/christian-korneck/docker-pushrm) - Push a readme to container registries.
+*   [lstags (⭐329)](https://github.com/ivanilves/lstags) - Synchronize images across registries.
+*   [dockly (⭐3.8k)](https://github.com/lirantal/dockly) - Interactively manage containers.
+*   [lazydocker (⭐37k)](https://github.com/jesseduffield/lazydocker) - Simple docker/docker-compose interface.
+*   [docker-pushrm (⭐139)](https://github.com/christian-korneck/docker-pushrm) - Push a readme to container registries.
 
 ### Data Manipulation / Internet Speedtest
 
-*   [visidata (⭐7.4k)](https://github.com/saulpw/visidata) - Spreadsheet multitool for data discovery and arrangement.
+*   [visidata (⭐7.9k)](https://github.com/saulpw/visidata) - Spreadsheet multitool for data discovery and arrangement.
 
 ## [20. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [vue3-signature (⭐81)](https://github.com/WangShayne/vue3-signature) - A electronic signature component for Vue 3
-*   [vue-signature (⭐203)](https://github.com/WangShayne/vue-signature) - A electronic signature component for Vue2.x
+*   [vue3-signature (⭐95)](https://github.com/WangShayne/vue3-signature) - A electronic signature component for Vue 3
+*   [vue-signature (⭐206)](https://github.com/WangShayne/vue-signature) - A electronic signature component for Vue2.x
 
 ---
 

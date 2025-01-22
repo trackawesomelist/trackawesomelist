@@ -10,7 +10,7 @@
 
 ### Analytics
 
-*   [Rack::Tracker (⭐647)](https://github.com/railslove/rack-tracker) - Rack middleware that can be hooked up to multiple services and exposing them in a unified fashion.
+*   [Rack::Tracker (⭐649)](https://github.com/railslove/rack-tracker) - Rack middleware that can be hooked up to multiple services and exposing them in a unified fashion.
 
 ---
 

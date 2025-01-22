@@ -64,7 +64,7 @@
 
 ### Icons / Icons Packages and Collections
 
-*   [Simple Icons (⭐19k)](https://github.com/simple-icons/simple-icons) - [:copyright:](http://artlibre.org/licence/lal/en/) SVG icons for popular brands.
+*   [Simple Icons (⭐22k)](https://github.com/simple-icons/simple-icons) - [:copyright:](http://artlibre.org/licence/lal/en/) SVG icons for popular brands.
 
 ## [7. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
@@ -108,8 +108,8 @@
 
 ### Miscellaneous
 
-*   [stdman (⭐935)](https://github.com/jeaye/stdman) - A tool that parses archived HTML files from [cppreference](https://cppreference.com) and generates groff-formatted manual pages for Unix-based systems. \[MIT]
-*   [value-category-cheatsheet (⭐403)](https://github.com/jeaye/value-category-cheatsheet) A PDF cheatsheet for lvalues, rvalues, and the like. \[Jank copyleft]
+*   [stdman (⭐943)](https://github.com/jeaye/stdman) - A tool that parses archived HTML files from [cppreference](https://cppreference.com) and generates groff-formatted manual pages for Unix-based systems. \[MIT]
+*   [value-category-cheatsheet (⭐405)](https://github.com/jeaye/value-category-cheatsheet) A PDF cheatsheet for lvalues, rvalues, and the like. \[Jank copyleft]
 
 ---
 

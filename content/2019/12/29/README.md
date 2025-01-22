@@ -10,7 +10,7 @@
 
 ### Projects
 
-*   [yew-react-example (⭐63)](https://github.com/hobofan/yew-react-example) - This project shows how to create a web app using a React component inside a Yew component.
+*   [yew-react-example (⭐65)](https://github.com/hobofan/yew-react-example) - This project shows how to create a web app using a React component inside a Yew component.
 
 ### Crates / Wasm
 
@@ -20,15 +20,15 @@
 
 ### Software / Make your life easier
 
-*   [Kiwi TCMS (⭐935)](https://github.com/kiwitcms/Kiwi) - Open Source test case management system.
-*   [Captura (⭐9.4k)](https://github.com/MathewSachin/Captura) - Open Source video recording tool.
-*   [QA Wolf (⭐3.3k)](https://github.com/qawolf/qawolf) - Open Source Node.js library for creating browser tests 10x faster.
+*   [Kiwi TCMS (⭐1k)](https://github.com/kiwitcms/Kiwi) - Open Source test case management system.
+*   [Captura (⭐10k)](https://github.com/MathewSachin/Captura) - Open Source video recording tool.
+*   [QA Wolf (⭐3.4k)](https://github.com/qawolf/qawolf) - Open Source Node.js library for creating browser tests 10x faster.
 
 ## [3. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
 ### GitHub Tools and Management / Docker Container Actions
 
-*   [Add Label to your Pull Requests based on the author team name (⭐40)](https://github.com/JulienKode/team-labeler-action)
+*   [Add Label to your Pull Requests based on the author team name (⭐49)](https://github.com/JulienKode/team-labeler-action)
 
 ## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -52,19 +52,19 @@
 
 ### Auditing / Logging
 
-*   🍰 [DatabaseLog plugin (⭐43)](https://github.com/dereuromark/CakePHP-DatabaseLog) - Simple and stand-alone logging to database instead of files.
+*   [DatabaseLog plugin (⭐43)](https://github.com/dereuromark/CakePHP-DatabaseLog) - Simple and stand-alone logging to database instead of files.
 
 ### Code Analysis
 
-*   🍰 [TestHelper plugin (⭐7)](https://github.com/dereuromark/cakephp-test-helper) - Provides testing enhancements and TDD support as browser backend.
+*   [TestHelper plugin (⭐7)](https://github.com/dereuromark/cakephp-test-helper) - Provides testing enhancements and TDD support as browser backend.
 
 ### Migration
 
-*   🍰 [Upgrade app (⭐109)](https://github.com/cakephp/upgrade) - Official upgrade app for 3.x=>4.x and 4.x=>5.x.
+*   [Upgrade app (⭐110)](https://github.com/cakephp/upgrade) - Official upgrade app for 3.x=>4.x and 4.x=>5.x.
 
 ### Miscellaneous
 
-*   🍰 [CakeDto plugin (⭐24)](https://github.com/dereuromark/cakephp-dto) - Quickly generate useful data transfer objects for your app (mutable/immutable), replacing messy arrays and leveraging your IDE through typehinting and autocomplete.
+*   [CakeDto plugin (⭐24)](https://github.com/dereuromark/cakephp-dto) - Quickly generate useful data transfer objects for your app (mutable/immutable), replacing messy arrays and leveraging your IDE through typehinting and autocomplete.
 
 ## [7. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
@@ -76,7 +76,7 @@
 
 ### Database / Text-Based User Interfaces
 
-*   [Leaf (⭐6.3k)](https://github.com/Meituan-Dianping/Leaf) - Distributed ID generate service.
+*   [Leaf (⭐6.5k)](https://github.com/Meituan-Dianping/Leaf) - Distributed ID generate service.
 
 ### Messaging / Text-Based User Interfaces
 
@@ -84,7 +84,7 @@
 
 ### REST Frameworks / Other
 
-*   [springdoc-openapi (⭐3.2k)](https://github.com/springdoc/springdoc-openapi) - Automates the generation of API documentation using Spring Boot projects.
+*   [springdoc-openapi (⭐3.3k)](https://github.com/springdoc/springdoc-openapi) - Automates the generation of API documentation using Spring Boot projects.
 
 ---
 

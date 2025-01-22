@@ -16,19 +16,19 @@
 
 ### Packages / Mad science
 
-*   [webcat (⭐442)](https://github.com/mafintosh/webcat) - p2p pipe across the web using WebRTC that uses your GitHub private/public key for authentication.
+*   [webcat (⭐445)](https://github.com/mafintosh/webcat) - p2p pipe across the web using WebRTC that uses your GitHub private/public key for authentication.
 
 ### Packages / Command-line apps
 
-*   [wallpaper (⭐1k)](https://github.com/sindresorhus/wallpaper) - Change the desktop wallpaper.
+*   [wallpaper (⭐1.1k)](https://github.com/sindresorhus/wallpaper) - Change the desktop wallpaper.
 
 ### Packages / Text
 
-*   [camelcase (⭐674)](https://github.com/sindresorhus/camelcase) - Convert a dash/dot/underscore/space separated string to camelCase: foo-bar → fooBar.
+*   [camelcase (⭐684)](https://github.com/sindresorhus/camelcase) - Convert a dash/dot/underscore/space separated string to camelCase: foo-bar → fooBar.
 
 ### Resources / Miscellaneous
 
-*   [node-module-boilerplate (⭐730)](https://github.com/sindresorhus/node-module-boilerplate) - Boilerplate to kickstart creating a node module.
+*   [node-module-boilerplate (⭐737)](https://github.com/sindresorhus/node-module-boilerplate) - Boilerplate to kickstart creating a node module.
 *   [generator-nm (⭐742)](https://github.com/sindresorhus/generator-nm) - Scaffold out a node module.
 
 ## [3. Awesome Open Company](/content/opencompany/awesome-open-company/README.md)
@@ -48,13 +48,13 @@
 
 ### Multimedia content processing
 
-*   [L-SMASH (⭐231)](https://github.com/l-smash/l-smash/) - A rigidly spec-compliant ISOBMFF library, which has full DASH muxing support.
+*   [L-SMASH (⭐234)](https://github.com/l-smash/l-smash/) - A rigidly spec-compliant ISOBMFF library, which has full DASH muxing support.
 
 ## [6. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Assembly Manipulation
 
-*   [Mono.Cecil (⭐2.7k)](https://github.com/jbevain/cecil) - Cecil is a library to generate and inspect programs and libraries in the ECMA CIL form.
+*   [Mono.Cecil (⭐2.8k)](https://github.com/jbevain/cecil) - Cecil is a library to generate and inspect programs and libraries in the ECMA CIL form.
 
 ## [7. Awesome Polymer](/content/Granze/awesome-polymer/README.md)
 
@@ -67,20 +67,20 @@
 
 ### Build Tools
 
-*   [active (⭐67)](https://github.com/synrc/active) - Recompilation and Reloading on FileSystem changes.
+*   [active (⭐68)](https://github.com/synrc/active) - Recompilation and Reloading on FileSystem changes.
 *   [mad (⭐173)](https://github.com/synrc/mad) - Small and Fast Rebar Replacement.
 
 ### CSV
 
-*   [csv (⭐492)](https://github.com/beatrichartz/csv) - CSV Decoding and Encoding for Elixir.
+*   [csv (⭐503)](https://github.com/beatrichartz/csv) - CSV Decoding and Encoding for Elixir.
 
 ### Debugging
 
-*   [eper (⭐438)](https://github.com/massemanet/eper) - Erlang performance and debugging tools.
+*   [eper (⭐437)](https://github.com/massemanet/eper) - Erlang performance and debugging tools.
 
 ### Files and Directories
 
-*   [fs (⭐234)](https://github.com/synrc/fs) - Erlang FileSystem Listener.
+*   [fs (⭐236)](https://github.com/synrc/fs) - Erlang FileSystem Listener.
 
 ### HTTP
 
@@ -92,7 +92,7 @@
 
 ### Queue
 
-*   [mqs (⭐28)](https://github.com/synrc/mqs) - RabbitMQ client library, routing keys, RPC over MQ and other stuff.
+*   [mqs (⭐27)](https://github.com/synrc/mqs) - RabbitMQ client library, routing keys, RPC over MQ and other stuff.
 
 ### Testing
 

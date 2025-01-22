@@ -10,11 +10,11 @@
 
 ### Game Development
 
-*   [ecs (⭐110)](https://github.com/andygeiss/ecs) - Build your own Game-Engine based on the Entity Component System concept in Golang.
+*   [ecs (⭐133)](https://github.com/andygeiss/ecs) - Build your own Game-Engine based on the Entity Component System concept in Golang.
 
 ### Validation
 
-*   [go-validator (⭐10)](https://github.com/tiendc/go-validator) - Validation library using Generics.
+*   [go-validator (⭐22)](https://github.com/tiendc/go-validator) - Validation library using Generics.
 
 ## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -32,11 +32,11 @@
 
 ### Configuration / LLMs
 
-*   [Instructor for PHP (⭐139)](https://github.com/cognesy/instructor-php) - Structured data outputs with LLMs, in PHP.
-*   [LLPhant (⭐710)](https://github.com/theodo-group/LLPhant) - A comprehensive PHP Generative AI Framework using OpenAI GPT 4. Inspired by Langchain.
-*   [OpenAI Client (⭐4.7k)](https://github.com/openai-php/client) - OpenAI PHP is a supercharged community-maintained PHP API client that allows you to interact with OpenAI API.
-*   [OpenAI Client for Laravel (⭐2.5k)](https://github.com/openai-php/laravel) - OpenAI PHP for Laravel is a supercharged PHP API client that allows you to interact with OpenAI API.
-*   [PHP Mistral AI SDK (⭐2)](https://github.com/SoftCreatR/php-mistral-ai-sdk) - A powerful and easy-to-use PHP SDK for the Mistral AI API, allowing seamless integration of advanced AI-powered features into your PHP projects.
+*   [Instructor for PHP (⭐235)](https://github.com/cognesy/instructor-php) - Structured data outputs with LLMs, in PHP.
+*   [LLPhant (⭐969)](https://github.com/theodo-group/LLPhant) - A comprehensive PHP Generative AI Framework using OpenAI GPT 4. Inspired by Langchain.
+*   [OpenAI Client (⭐5.1k)](https://github.com/openai-php/client) - OpenAI PHP is a supercharged community-maintained PHP API client that allows you to interact with OpenAI API.
+*   [OpenAI Client for Laravel (⭐3k)](https://github.com/openai-php/laravel) - OpenAI PHP for Laravel is a supercharged PHP API client that allows you to interact with OpenAI API.
+*   [PHP Mistral AI SDK (⭐8)](https://github.com/SoftCreatR/php-mistral-ai-sdk) - A powerful and easy-to-use PHP SDK for the Mistral AI API, allowing seamless integration of advanced AI-powered features into your PHP projects.
 
 ## [5. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/README.md)
 
@@ -48,7 +48,7 @@
 
 ### NixOS Modules / Zig
 
-*   [Self Host Blocks (⭐120)](https://github.com/ibizaman/selfhostblocks) - Modular server management based on NixOS modules and focused on best practices.
+*   [Self Host Blocks (⭐230)](https://github.com/ibizaman/selfhostblocks) - Modular server management based on NixOS modules and focused on best practices.
 
 ## [7. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
@@ -60,11 +60,11 @@
 
 ### HTTP / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ng-http-loader (⭐354)](https://github.com/mpalourdio/ng-http-loader) - Smart Angular HTTP interceptor - Intercepts automagically HTTP requests and shows a spinkit spinner / loader / progress bar.
+*   [ng-http-loader (⭐351)](https://github.com/mpalourdio/ng-http-loader) - Smart Angular HTTP interceptor - Intercepts automagically HTTP requests and shows a spinkit spinner / loader / progress bar.
 
 ### Internationalization / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [intl-tel-input-ng (⭐17)](https://github.com/mpalourdio/intl-tel-input-ng) - An Angular component to easily integrate [intl-tel-input (⭐7.5k)](https://github.com/jackocnr/intl-tel-input).
+*   [intl-tel-input-ng (⭐18)](https://github.com/mpalourdio/intl-tel-input-ng) - An Angular component to easily integrate [intl-tel-input (⭐7.8k)](https://github.com/jackocnr/intl-tel-input).
 
 ### Images / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 

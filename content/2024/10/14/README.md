@@ -10,42 +10,42 @@
 
 ### Python / Financial Instruments and Pricing
 
-*   [Fincept Terminal (⭐19)](https://github.com/Fincept-Corporation/FinceptTerminal) - Advance Data Based A.I Terminal for all Types of Financial Asset Research.
-*   [fypy (⭐76)](https://github.com/jkirkby3/fypy) - Vanilla and exotic option pricing library to support quantitative R\&D. Focus on pricing interesting/useful models and contracts (including and beyond Black-Scholes), as well as calibration of financial models to market data.
+*   [Fincept Terminal (⭐37)](https://github.com/Fincept-Corporation/FinceptTerminal) - Advance Data Based A.I Terminal for all Types of Financial Asset Research.
+*   [fypy (⭐86)](https://github.com/jkirkby3/fypy) - Vanilla and exotic option pricing library to support quantitative R\&D. Focus on pricing interesting/useful models and contracts (including and beyond Black-Scholes), as well as calibration of financial models to market data.
 
 ### Python / Trading & Backtesting
 
-*   [zipline-reloaded (⭐1.1k)](https://github.com/stefan-jansen/zipline-reloaded) - Zipline, a Pythonic Algorithmic Trading Library.
-*   [Trading Strategy (⭐47)](https://github.com/tradingstrategy-ai/getting-started) - TradingStrategy.ai is a market data, backtesting, live trading and investor management framework for decentralised finance
+*   [zipline-reloaded (⭐1.3k)](https://github.com/stefan-jansen/zipline-reloaded) - Zipline, a Pythonic Algorithmic Trading Library.
+*   [Trading Strategy (⭐94)](https://github.com/tradingstrategy-ai/getting-started) - TradingStrategy.ai is a market data, backtesting, live trading and investor management framework for decentralised finance
 
 ### CPP / Data Visualization
 
-*   [Hikyuu (⭐2.2k)](https://github.com/fasiondog/hikyuu) - A base on Python/C++ open source high-performance quant framework for faster analysis and backtesting, contains the complete trading system components for reuse and combination. You can use python or c++ freely.
+*   [Hikyuu (⭐2.3k)](https://github.com/fasiondog/hikyuu) - A base on Python/C++ open source high-performance quant framework for faster analysis and backtesting, contains the complete trading system components for reuse and combination. You can use python or c++ freely.
 
 ### Python / Factor Analysis
 
-*   [alphalens-reloaded (⭐297)](https://github.com/stefan-jansen/alphalens-reloaded) - Performance analysis of predictive (alpha) stock factors.
+*   [alphalens-reloaded (⭐351)](https://github.com/stefan-jansen/alphalens-reloaded) - Performance analysis of predictive (alpha) stock factors.
 
 ### Python / Time Series
 
-*   [functime (⭐1k)](https://github.com/functime-org/functime) - Time-series machine learning at scale. Built with Polars for embarrassingly parallel feature extraction and forecasts on panel data.
+*   [functime (⭐1.1k)](https://github.com/functime-org/functime) - Time-series machine learning at scale. Built with Polars for embarrassingly parallel feature extraction and forecasts on panel data.
 
 ### Python / Data Sources
 
-*   [Trading Strategy (⭐217)](https://github.com/tradingstrategy-ai/trading-strategy/) - download price data for decentralised exchanges and lending protocols (DeFi)
+*   [Trading Strategy (⭐255)](https://github.com/tradingstrategy-ai/trading-strategy/) - download price data for decentralised exchanges and lending protocols (DeFi)
 
 ### Python / Visualization
 
-*   [QuantInvestStrats (⭐169)](https://github.com/ArturSepp/QuantInvestStrats) - Quantitative Investment Strategies (QIS) package implements Python analytics for visualisation of financial data, performance reporting, analysis of quantitative strategies.
+*   [QuantInvestStrats (⭐235)](https://github.com/ArturSepp/QuantInvestStrats) - Quantitative Investment Strategies (QIS) package implements Python analytics for visualisation of financial data, performance reporting, analysis of quantitative strategies.
 
 ### R / Data Sources
 
-*   [tidyfinance (⭐12)](https://github.com/tidy-finance/r-tidyfinance) - Tidy Finance helper functions to download financial data and process the raw data into a structured Format (tidy data), including
+*   [tidyfinance (⭐15)](https://github.com/tidy-finance/r-tidyfinance) - Tidy Finance helper functions to download financial data and process the raw data into a structured Format (tidy data), including
     date conversion, scaling factor values, and filtering by the specified date.
 
 ### Matlab / FrameWorks
 
-*   [PROJ\_Option\_Pricing\_Matlab (⭐171)](https://github.com/jkirkby3/PROJ_Option_Pricing_Matlab) - Quant Option Pricing - Exotic/Vanilla: Barrier, Asian, European, American, Parisian, Lookback, Cliquet, Variance Swap, Swing, Forward Starting, Step, Fader
+*   [PROJ\_Option\_Pricing\_Matlab (⭐179)](https://github.com/jkirkby3/PROJ_Option_Pricing_Matlab) - Quant Option Pricing - Exotic/Vanilla: Barrier, Asian, European, American, Parisian, Lookback, Cliquet, Variance Swap, Swing, Forward Starting, Step, Fader
 
 ### Reproducing Works, Training & Books / Data Visualization
 
@@ -69,10 +69,6 @@
 
 *   [VueJS Bangladesh - Facebook Group](https://www.facebook.com/groups/764064325433370)
 
-### Components & Libraries / UI Components
-
-*   [vue3-radial-progress (⭐25)](https://github.com/jairoblatt/vue3-radial-progress) - Radial progress bar component for Vue 3
-
 ## [5. Awesome Css](/content/awesome-css-group/awesome-css/README.md)
 
 ### Preprocessors :pill: / Editor's Draft :black_nib:
@@ -87,19 +83,19 @@
 
 ### Neovim Lua Development / Diagnostics
 
-*   [niuiic/omega.nvim (⭐1)](https://github.com/niuiic/omega.nvim) - Missing functions for Lua plugin development.
+*   [niuiic/omega.nvim (⭐5)](https://github.com/niuiic/omega.nvim) - Missing functions for Lua plugin development.
 
 ## [7. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### Driver crates / Other
 
-*   [embedded-dht-rs](https://crates.io/crates/embedded-dht-rs) - 1-Wire, I2C - DHT11/DHT20/DHT22 temperature/humidity sensor driver - [github (⭐7)](https://github.com/rust-dd/embedded-dht-rs) - [![crates.io](https://img.shields.io/crates/v/embedded-dht-rs.svg)](https://crates.io/crates/embedded-dht-rs)
+*   [embedded-dht-rs](https://crates.io/crates/embedded-dht-rs) - 1-Wire, I2C - DHT11/DHT20/DHT22 temperature/humidity sensor driver - [github (⭐15)](https://github.com/rust-dd/embedded-dht-rs) - [![crates.io](https://img.shields.io/crates/v/embedded-dht-rs.svg)](https://crates.io/crates/embedded-dht-rs)
 
 ## [8. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Security tools
 
-*   [AdGuardian-Term (⭐952)](https://github.com/Lissy93/AdGuardian-Term) \[[adguardian](https://crates.io/crates/adguardian)] - Terminal-based, real-time traffic monitoring and statistics for your AdGuard Home instance
+*   [AdGuardian-Term (⭐1k)](https://github.com/Lissy93/AdGuardian-Term) \[[adguardian](https://crates.io/crates/adguardian)] - Terminal-based, real-time traffic monitoring and statistics for your AdGuard Home instance
 
 ## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -123,18 +119,18 @@
 
 ## [11. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### ZSH Tools / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
-
-*   [crazy-complete (⭐1)](https://github.com/crazy-complete/crazy-complete) - Every program should have autocompletion in the shell to enhance user experience and productivity. crazy-complete helps solve this task by generating robust and reliable autocompletion scripts.
-*   [argcomplete (⭐1.4k)](https://github.com/kislyuk/argcomplete) - Generates tab completions for programs using Python's `argparse` module.
-
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [flatpak (⭐36)](https://github.com/bilelmoussaoui/flatpak-zsh-completion) - Tab completions for [Flatpak](https://docs.flatpak.org/en/latest/using-flatpak.html).
+*   [flatpak (⭐37)](https://github.com/bilelmoussaoui/flatpak-zsh-completion) - Tab completions for [Flatpak](https://docs.flatpak.org/en/latest/using-flatpak.html).
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [gcloud-prompt (⭐22)](https://github.com/ocadaruma/zsh-gcloud-prompt) - Shows the current gcloud configuration in the prompt.
+
+### ZSH Tools / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
+
+*   [argcomplete (⭐1.4k)](https://github.com/kislyuk/argcomplete) - Generates tab completions for programs using Python's `argparse` module.
+*   [crazy-complete (⭐6)](https://github.com/crazy-complete/crazy-complete) - Every program should have autocompletion in the shell to enhance user experience and productivity. `crazy-complete` helps solve this task by generating robust and reliable autocompletion scripts.
 
 ## [12. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
@@ -144,4 +140,5 @@
 
 ---
 
+- Prev: [Oct 15, 2024](/content/2024/10/15/README.md)
 - Next: [Oct 13, 2024](/content/2024/10/13/README.md)

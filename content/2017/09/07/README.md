@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 07, 2017
 
-4 awesome lists updated today.
+3 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### DevTools / Other external resources
 
-*   [rails-dashboard (⭐148)](https://github.com/y-takey/rails-dashboard) - A dev-tool to improve your rails log.
+*   [rails-dashboard (⭐150)](https://github.com/y-takey/rails-dashboard) - A dev-tool to improve your rails log.
 
 ## [2. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 
@@ -27,16 +27,6 @@
 ### Models/Projects
 
 *   [Holographic Embeddings for Graph Completion and Link Prediction (⭐0)](https://github.com/laxatives/TensorFlow-TransX) - Implementation of [Holographic Embeddings of Knowledge Graphs](http://arxiv.org/abs/1510.04935)
-
-## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Projects Using Vue.js / Open Source
-
-*   [Wake Up Billie Joe!](https://wakeupbilliejoe.com) - A web site countdown to October, based on Green Day's song Wake me up when September Ends. Created using Vue and Firebase.
-
-### Components & Libraries / UI Utilities
-
-*   [vue-scrollmonitor (⭐43)](https://github.com/AlexandreBonaventure/vue-scrollmonitor) - A Vue plugin to watch visibility state of elements inside viewport with a wide range of browsers supported (use provide/inject so compat [vue@2.2.x](https://github.com/vuejs/awesome-vue/blob/master/README.md/mailto:vue@2.2.x))
 
 ---
 

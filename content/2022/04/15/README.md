@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 15, 2022
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,7 +16,7 @@
 
 ### Algorithms, Containers and Protocols / Apache License
 
-*   [chests (⭐3)](https://github.com/JeremyGrosser/chests) - Chests are bounded containers.
+*   [chests (⭐4)](https://github.com/JeremyGrosser/chests) - Chests are bounded containers.
 
 ## [3. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
@@ -43,7 +43,7 @@
 
 ### Templates / React
 
-*   [vite-react-proste (⭐17)](https://github.com/xyhxx/vite-react-proste) - React + TypeScript + `react-router-dom` + Recoil + SASS + Testing Library + `react-query` + ESLint + Stylelint + Prettier.
+*   [vite-react-proste (⭐19)](https://github.com/xyhxx/vite-react-proste) - React + TypeScript + `react-router-dom` + Recoil + SASS + Testing Library + `react-query` + ESLint + Stylelint + Prettier.
 
 ## [6. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
 
@@ -76,22 +76,20 @@
 *   :earth\_americas: [elf (FreeBSD manual pages)](https://www.freebsd.org/cgi/man.cgi?elf\(5\))
 *   :earth\_americas: [FatELF: Universal binaries for Linux (HALTED)](https://icculus.org/fatelf)
 *   :pushpin: [Mach-O - A look at apple executable files](https://redmaple.tech/blogs/macho-files)
-*   :earth\_americas: [Mach-O file format reference (⭐750)](https://github.com/aidansteele/osx-abi-macho-file-format-reference)
+*   :earth\_americas: [Mach-O file format reference (⭐802)](https://github.com/aidansteele/osx-abi-macho-file-format-reference)
 *   :earth\_americas: [MITRE ATT\&CK | T1027.002 | obfuscated files or information: Software packing](https://attack.mitre.org/techniques/T1027/002)
 *   :pushpin: [Parsing mach-O files](https://lowlevelbits.org/parsing-mach-o-files)
 
 ### :books: Literature / Scientific Research
 
 *   :mortar\_board: [Building a smart and automated tool for packed malware detections using machine learning](https://dial.uclouvain.be/memoire/ucl/en/object/thesis%3A25193) (June 2020)
-*   :notebook: [Collective classification for packed executable identification](https://doi.org/10.1145/2030376.2030379) (June 2012)  :star:
-*   :notebook: [Detection of metamorphic malware packers using multilayered LSTM networks](https://www.springerprofessional.de/en/detection-of-metamorphic-malware-packers-using-multilayered-lstm/18635334) (November 2020)  :star:
 *   :notebook: [DexHunter: Toward extracting hidden code from packed Android applications](https://link.springer.com/chapter/10.1007/978-3-319-24177-7_15) (September 2015)
 *   :notebook: [Disabling anti-debugging techniques for unpacking system in user-level debugger](https://ieeexplore.ieee.org/document/8939719) (October 2019)
-*   :notebook: [Experimental comparison of machine learning models in malware packing detection](https://ieeexplore.ieee.org/document/9237007) (September 2020)
+*   :notebook: [Experimental comparison of machine learning models in malware packing detection](https://ieeexplore.ieee.org/document/9237007) (September 2020)  :star:
 *   :notebook: [Malware obfuscation through evolutionary packers](https://doi.org/10.1145/2739482.2764940) (July 2015)
 *   :notebook: [OmniUnpack: Fast, generic, and safe unpacking of malware](https://ieeexplore.ieee.org/document/4413009) (December 2007)  :star:
 *   :notebook: [Prevalence and impact of low-entropy packing schemes in the malware ecosystem](https://www.ndss-symposium.org/wp-content/uploads/2020/02/24297.pdf) (February 2020)  :star:
-*   :notebook: [Renovo: A hidden code extractor for packed executables](https://dl.acm.org/doi/10.1145/1314389.1314399) (November 2007)  :star: :star: :star:
+*   :notebook: [Renovo: A hidden code extractor for packed executables](https://dl.acm.org/doi/10.1145/1314389.1314399) (November 2007)  :star: :star:
 *   :mortar\_board: [Robust static analysis of portable executable malware](https://repo.zenk-security.com/Virus-Infections-Detections-Preventions/Robust%20Static%20Analysis%20ofPortable%20ExecutableMalware.pdf) (December 2014)
 *   :newspaper: [SCORE: Source code optimization & reconstruction](https://ieeexplore.ieee.org/document/9139493) (July 2020)
 *   :notebook: [A study of the packer problem and its solutions](https://link.springer.com/chapter/10.1007/978-3-540-87403-4_6) (September 2008)  :star:
@@ -99,7 +97,7 @@
 
 ### :bookmark_tabs: Datasets / Scientific Research
 
-*   [MaleX (⭐37)](https://github.com/Mayachitra-Inc/MaleX) - Curated dataset of malware and benign Windows executable samples for malware researchers containing 1,044,394 Windows executable binaries and corresponding image representations with 864,669 labelled as malware and 179,725 as benign.
+*   [MaleX (⭐42)](https://github.com/Mayachitra-Inc/MaleX) - Curated dataset of malware and benign Windows executable samples for malware researchers containing 1,044,394 Windows executable binaries and corresponding image representations with 864,669 labelled as malware and 179,725 as benign.
 
 ### :package: Packers / Before 2000
 
@@ -113,29 +111,19 @@
 *   [REMnux](https://remnux.org) - Linux toolkit for reverse-engineering and analyzing malicious software.
 *   [TrID](https://mark0.net/soft-trid-e.html) - Utility for identifying file types from their binary signatures.
 
-## [8. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
-
-### Decentralized
-
-*   [Mastodon](https://joinmastodon.org/) 🧩 - Free, federated microblogging social network built on open protocols.
-    *   [Mastodon Apps](https://joinmastodon.org/apps) - List of Mastodon apps for Android, iOS, Web and Desktop.
-*   [Pleroma](https://pleroma.social/) 🧩 - Pleroma is a free, federated social networking server built on open protocols.
-    *   [Soapbox](https://gitlab.com/soapbox-pub/soapbox-fe) - A frontend for Pleroma with a focus on custom branding and ease of use.
-    *   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Husky](https://git.sr.ht/~captainepoch/husky) - Android client for Pleroma and Mastodon.
-
-## [9. Awesome Yew](/content/jetli/awesome-yew/README.md)
+## [8. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Crates / Component Libraries
 
-*   [tailyew (⭐17)](https://github.com/fuzzycloud/tailyew) - Yew wrapper around DaisyUI (tailwindcss based) components.
+*   [tailyew (⭐18)](https://github.com/fuzzycloud/tailyew) - Yew wrapper around DaisyUI (tailwindcss based) components.
 
-## [10. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
+## [9. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
 
 ### Web Hosting
 
 *   [InterServer](https://www.interserver.net/webhosting/student-webhosting.html/) \[FREE] - Standard Web Hosting Package for Free for the first year for students.
 
-## [11. Awesome Tdengine](/content/taosdata/awesome-tdengine/README.md)
+## [10. Awesome Tdengine](/content/taosdata/awesome-tdengine/README.md)
 
 ### Connector
 

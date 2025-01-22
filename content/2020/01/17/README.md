@@ -73,11 +73,11 @@
 ### Machine Learning
 
 *   **Libraries**
-    *   [Ocaml-sklearn (⭐33)](https://github.com/lehy/ocaml-sklearn) scikit-learn for OCaml.
+    *   [Ocaml-sklearn (⭐34)](https://github.com/lehy/ocaml-sklearn) scikit-learn for OCaml.
     *   [Owl](https://ocaml.xyz/) - Scientific library with neural networks, algorithmic differentiation and ONNX support.
     *   [Object detection convolutional neural network with OCaml (based on Owl) (⭐17)](https://github.com/owlbarn/owl_mask_rcnn).
-    *   [PyTorch bindings (⭐404)](https://github.com/LaurentMazare/ocaml-torch) - OCaml bindings for PyTorch.
-    *   [Ocaml-NN (⭐4)](https://github.com/ck090/ocaml-nn/tree/main) - Fully functional monadic implementation of a Neural Network (FCNNs) in OCaml
+    *   [PyTorch bindings (⭐412)](https://github.com/LaurentMazare/ocaml-torch) - OCaml bindings for PyTorch.
+    *   [Ocaml-NN (⭐5)](https://github.com/ck090/ocaml-nn/tree/main) - Fully functional monadic implementation of a Neural Network (FCNNs) in OCaml
 
 ## [8. Awesome Dash](/content/ucg8j/awesome-dash/README.md)
 
@@ -103,8 +103,8 @@
 
 ### Developer Tools / Developer Utilities
 
-*   [Kaleidoscope](https://www.kaleidoscopeapp.com/) - Powerful compare tool for text, images and folders. Works perfectly with git, svn or other version control tools.
-*   [Loca Studio](https://www.cunningo.com/locastudio/index.html) - Analyze, review, and edit app translations. Supports Xcode Localization Catalog (xcloc) and XLIFF 1.2 file formats. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/id1465684707)
+*   [Kaleidoscope](https://www.kaleidoscopeapp.com/) - Compare text, images, and folders.
+*   [Loca Studio](https://www.cunningo.com/locastudio/index.html) - Analyze, review, and edit app translations. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/id1465684707)
 
 ### Developer Tools / Databases
 
@@ -113,10 +113,6 @@
 ### Design and Product / Prototyping and Mind-Mapping Tools
 
 *   [MindNode](https://mindnode.com/) - Mind-mapping software with an emphasis on simplicity and ease-of-use.
-
-### Design and Product / Screencapturing Software
-
-*   [CleanShot](https://getcleanshot.com/) - Discover a superior way to capture your Mac's screen.
 
 ### Audio and Video Tools / File Sharing
 

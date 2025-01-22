@@ -42,33 +42,33 @@
 
 *   [SourceGraph](https://sourcegraph.com/search) - Search code from millions of open source repositories.
 
-### Username Check / Telegram
+### Email Search / Email Check / Steam
 
-*   [Blackbird (⭐2.6k)](https://github.com/p1ngul1n0/blackbird) - Search a username across over 500+ websites.
-*   [NameKetchup](https://nameketchup.com) - checks domain name and username in popular social media sites and platforms.
-
-### Image Search / Telegram
-
-*   [FaceCheck.ID](https://facecheck.id) - Facial recognition search engine.
-
-### Email Search / Email Check / Telegram
-
+*   [Blackbird (⭐3k)](https://github.com/p1ngul1n0/blackbird) - Search for accounts associated with a given email across various platforms.
 *   [mxtoolbox](https://mxtoolbox.com/) - Free online tools to investigate/troubleshoot email server issues.
 *   [Snov.io](https://snov.io/email-finder) - Find email addresses on any website.
 
-### Phone Number Research / Telegram
+### Username Check / Steam
+
+*   [NameKetchup](https://nameketchup.com) - checks domain name and username in popular social media sites and platforms.
+
+### Image Search / Steam
+
+*   [FaceCheck.ID](https://facecheck.id) - Facial recognition search engine.
+
+### Phone Number Research / Steam
 
 *   [Reverse Phone Check](https://www.reversephonecheck.com) - Look up names, addresses, phone numbers, or emails and anonymously discover information about yourself, family, friends, or old schoolmates. Powered by infotracer.com
 
-### Academic Resources and Grey Literature / Telegram
+### Academic Resources and Grey Literature / Steam
 
 *   [OA.mg](http://oa.mg) A database of over 240 million scientific works, with PDFs for all Open Access papers in their catalogue (\~ 40 million)
 
-### Other Tools / Telegram
+### Other Tools / Steam
 
-*   [Glit (⭐43)](https://github.com/shadawck/glit) -  Retrieve all mails of users related to a git repository, a git user or a git organization.
-*   [SerpApi](https://serpapi.com/) - Scrapes Google search and 25+ search engines with ease and retruns a raw JSON. Supports [10 API wrappers](https://serpapi.com/integrations).
-*   [SerpScan (⭐61)](https://github.com/Alaa-abdulridha/SerpScan) - Powerful PHP script designed to allow you to leverage the power of dorking straight from the comfort of your command line. Analyzes data from Google, Bing, Yahoo, Yandex, and Badiu.
+*   [Glit (⭐48)](https://github.com/shadawck/glit) -  Retrieve all mails of users related to a git repository, a git user or a git organization.
+*   [SerpApi](https://serpapi.com/) - Scrapes Google search and 25+ search engines with ease and retruns a raw JSON. Supports 10 API wrappers.
+*   [SerpScan (⭐65)](https://github.com/Alaa-abdulridha/SerpScan) - Powerful PHP script designed to allow you to leverage the power of dorking straight from the comfort of your command line. Analyzes data from Google, Bing, Yahoo, Yandex, and Badiu.
 
 ## [5. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
@@ -86,13 +86,13 @@
 
 ### Game tools and libraries
 
-*   [hexops/mach (⭐3.1k)](https://github.com/hexops/mach) - Game engine and graphics toolkit.
+*   [hexops/mach (⭐3.6k)](https://github.com/hexops/mach) - Game engine and graphics toolkit.
 
 ### GUI
 
-*   [david-vanderson/gui (⭐256)](https://github.com/david-vanderson/gui) - Immediate mode GUI for Zig.
-*   [Aransentin/ZWL (⭐95)](https://github.com/Aransentin/ZWL) - Zig Windowing Library.
-*   [prime31/zig-upaya (⭐130)](https://github.com/prime31/zig-upaya) - GUI toolkit.
+*   [david-vanderson/gui (⭐494)](https://github.com/david-vanderson/gui) - Immediate mode GUI for Zig.
+*   [Aransentin/ZWL (⭐100)](https://github.com/Aransentin/ZWL) - Zig Windowing Library.
+*   [prime31/zig-upaya (⭐133)](https://github.com/prime31/zig-upaya) - GUI toolkit.
 
 ### Other / C++
 
@@ -102,7 +102,7 @@
 
 ### Text processing
 
-*   [pcre2 (⭐4)](https://github.com/srackham/pcre2) - Library for processing PCRE regular expressions.
+*   [pcre2 (⭐6)](https://github.com/srackham/pcre2) - Library for processing PCRE regular expressions.
 
 ## [9. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -122,11 +122,12 @@
 
 ### Kernels / Microkernels
 
-*   [Qubes-linux-kernel (⭐83)](https://github.com/QubesOS/qubes-linux-kernel) - Qubes package for Linux kernel.
+*   [Qubes-linux-kernel (⭐87)](https://github.com/QubesOS/qubes-linux-kernel) - Qubes package for Linux kernel.
 
-### Training and Materials / Web articles
+### Training and Materials / Extra Info
 
 *   [Training-materials (⭐4)](https://github.com/QubesOS/training-materials/) - A Collection of training materials for Qubes OS.
+    -[Qubes for Journalists (⭐18)](https://github.com/kennethrrosen/qubes-for-journalists/) - Existing guides and infrastructure for journalists insufficiently prepares them for digitally interacting with sources, working on sensitive stories while protecting sensitive materials offline and online, and traveling cross borders with personal and professional data.
 *   [pwn.college](https://pwn.college/) - pwn.college is an education platform for students (and other interested parties) to learn about, and practice, core cybersecurity concepts in a hands-on fashion.
 
 ## [11. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/README.md)
@@ -140,30 +141,30 @@
 
 ### Search / Diagnostics
 
-*   [s1n7ax/nvim-search-and-replace (⭐71)](https://github.com/s1n7ax/nvim-search-and-replace) - Search and replace in multiple files at the same time from the current working directory.
-*   [roobert/search-replace.nvim (⭐213)](https://github.com/roobert/search-replace.nvim) - Builds on the native search and replace experience.
+*   [s1n7ax/nvim-search-and-replace (⭐73)](https://github.com/s1n7ax/nvim-search-and-replace) - Search and replace in multiple files at the same time from the current working directory.
+*   [roobert/search-replace.nvim (⭐220)](https://github.com/roobert/search-replace.nvim) - Builds on the native search and replace experience.
 
 ### File Explorer / Diagnostics
 
-*   [dinhhuy258/sfm.nvim (⭐57)](https://github.com/dinhhuy258/sfm.nvim) - An alternative to Nvim-tree designed to be extensible and minimalist.
+*   [dinhhuy258/sfm.nvim (⭐60)](https://github.com/dinhhuy258/sfm.nvim) - An alternative to Nvim-tree designed to be extensible and minimalist.
 
 ### Utility / Diagnostics
 
-*   [j-morano/buffer\_manager.nvim (⭐221)](https://github.com/j-morano/buffer_manager.nvim) - Add one or more buffers, reorder them, save them inside a file or just delete them very easily from a small floating window.
+*   [j-morano/buffer\_manager.nvim (⭐273)](https://github.com/j-morano/buffer_manager.nvim) - Add one or more buffers, reorder them, save them inside a file or just delete them very easily from a small floating window.
 
 ### Editing Support / Diagnostics
 
-*   [tmillr/sos.nvim (⭐18)](https://github.com/tmillr/sos.nvim) - Automatically save all your modified buffers according to a predefined timeout value.
+*   [tmillr/sos.nvim (⭐20)](https://github.com/tmillr/sos.nvim) - Automatically save all your modified buffers according to a predefined timeout value.
 
 ### Indent / Diagnostics
 
-*   [LucasTavaresA/simpleIndentGuides.nvim (⭐9)](https://github.com/LucasTavaresA/simpleIndentGuides.nvim) - Indentation guides using the builtin variables.
+*   [LucasTavaresA/simpleIndentGuides.nvim (⭐10)](https://github.com/LucasTavaresA/simpleIndentGuides.nvim) - Indentation guides using the builtin variables.
 
 ## [13. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
 ### CLI
 
-*   [AlgoKit CLI (⭐160)](https://github.com/algorandfoundation/algokit-cli) - The Algorand AlgoKit CLI is the one-stop shop tool for developers building on the Algorand network. Official tooling maintained by the Algorand Foundation.
+*   [AlgoKit CLI (⭐173)](https://github.com/algorandfoundation/algokit-cli) - The Algorand AlgoKit CLI is the one-stop shop tool for developers building on the Algorand network. Official tooling maintained by the Algorand Foundation.
 
 ---
 

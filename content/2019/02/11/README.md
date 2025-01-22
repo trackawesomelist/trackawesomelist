@@ -78,7 +78,7 @@ Topics: PHP, JavaScript, React, Vue.js, PWAs, Testing, Open Source, Performance\
 
 ### Peripheral Access Crates / Microchip
 
-*   [`sam3x8e`](https://crates.io/crates/sam3x8e) Peripheral access API for Atmel SAMD3X8E microcontrollers (generated using svd2rust)  - ![crates.io](https://img.shields.io/crates/v/sam3x8e.svg)
+*   [`sam3x8e`](https://crates.io/crates/sam3x8e) Peripheral access API for Atmel SAMD3X8E microcontrollers (generated using svd2rust)  - [![crates.io](https://img.shields.io/crates/v/sam3x8e.svg)](https://crates.io/crates/sam3x8e)
 
 ## [6. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
@@ -90,7 +90,7 @@ Topics: PHP, JavaScript, React, Vue.js, PWAs, Testing, Open Source, Performance\
 
 ### Awesome TypeScript Essential Resources
 
-*   :octocat: [Clean Code concepts adapted for TypeScript (⭐9.2k)](https://github.com/labs42io/clean-code-typescript)
+*   :octocat: [Clean Code concepts adapted for TypeScript (⭐9.4k)](https://github.com/labs42io/clean-code-typescript)
 
 ## [8. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
@@ -102,7 +102,7 @@ Topics: PHP, JavaScript, React, Vue.js, PWAs, Testing, Open Source, Performance\
 
 ### Colors
 
-*   [Gradients (⭐799)](https://github.com/Gradients/Gradients) - A curated collection of splendid 180+ gradients.
+*   [Gradients (⭐803)](https://github.com/Gradients/Gradients) - A curated collection of splendid 180+ gradients.
 
 ### UITableView / Barcode
 

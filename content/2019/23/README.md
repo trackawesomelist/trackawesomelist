@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 10 - Jun 16, 2019
 
-40 awesome lists updated this week.
+39 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Miscellaneous
 
-*   [Connectivity Data and Reports (⭐122)](https://github.com/stevesong/awesome-connectivity-info#readme) - Better understand who has access to telecommunication and internet infrastructure and on what terms.
+*   [Connectivity Data and Reports (⭐129)](https://github.com/stevesong/awesome-connectivity-info#readme) - Better understand who has access to telecommunication and internet infrastructure and on what terms.
 
 ## [2. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
@@ -53,7 +53,7 @@
 
 ### Collection of Actions / Docker Container Actions
 
-*   [GitHub Actions for Composer (⭐32)](https://github.com/MilesChou/composer-action)
+*   [GitHub Actions for Composer (⭐33)](https://github.com/MilesChou/composer-action)
 
 ## [7. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
@@ -97,11 +97,11 @@ Free (Open Source)
 
 ### React Awesome Components
 
-*   [react-select (⭐27k)](https://github.com/JedWatson/react-select) - The Select Component for React
+*   [react-select (⭐28k)](https://github.com/JedWatson/react-select) - The Select Component for React
 
 ### React Tables and Grids
 
-*   [react-data-grid (⭐6.7k)](https://github.com/adazzle/react-data-grid) - Feature-rich and customizable data grid React component
+*   [react-data-grid (⭐7k)](https://github.com/adazzle/react-data-grid) - Feature-rich and customizable data grid React component
 
 ## [13. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
@@ -182,14 +182,14 @@ Free (Open Source)
 
 ### Reference Documentation / Other
 
-*   [IO Visor's Unofficial eBPF spec (⭐932)](https://github.com/iovisor/bpf-docs/blob/master/eBPF.md) - Summary of eBPF syntax and operation codes.
+*   [IO Visor's Unofficial eBPF spec (⭐964)](https://github.com/iovisor/bpf-docs/blob/master/eBPF.md) - Summary of eBPF syntax and operation codes.
 *   [Jesper Dangaard Brouer's documentation](https://prototype-kernel.readthedocs.io/en/latest/bpf/index.html) - Work in progress, contributions welcome.
 *   Emails from David Miller to the [xdp-newbies](http://vger.kernel.org/vger-lists.html#xdp-newbies) mailing list:
 
     *   [bpf.h and you...](https://www.spinics.net/lists/xdp-newbies/msg00179.html)
     *   [Contextually speaking...](https://www.spinics.net/lists/xdp-newbies/msg00181.html)
     *   [BPF Verifier Overview](https://www.spinics.net/lists/xdp-newbies/msg00185.html)
-*   [List of BPF features per kernel version (⭐20k)](https://github.com/iovisor/bcc/blob/master/docs/kernel-versions.md)
+*   [List of BPF features per kernel version (⭐21k)](https://github.com/iovisor/bcc/blob/master/docs/kernel-versions.md)
 
 ### Articles and Presentations / Generic eBPF Presentations and Articles
 
@@ -201,7 +201,7 @@ Free (Open Source)
 *   [Ferris Ellis's blog posts about eBPF](https://ferrisellis.com/tags/ebpf/) - They have a few posts about eBPF:
     *   [Part 1: Past, Present, and Future](https://ferrisellis.com/content/ebpf_past_present_future/)
     *   [Part 2: Syscall and Map Types](https://ferrisellis.com/content/ebpf_syscall_and_maps/)
-*   [A BPF reference guide (⭐20k)](https://github.com/iovisor/bcc/blob/master/docs/reference_guide.md) - About BPF C and bcc Python helpers, from bcc repository.
+*   [A BPF reference guide (⭐21k)](https://github.com/iovisor/bcc/blob/master/docs/reference_guide.md) - About BPF C and bcc Python helpers, from bcc repository.
 *   [Making the Kernel's Networking Data Path Programmable with BPF and XDP](http://schd.ws/hosted_files/ossna2017/da/BPFandXDP.pdf) - A set of slides covering all the basics about eBPF and XDP (mostly for network processing).
 *   [The BSD Packet Filter](https://speakerdeck.com/tuxology/the-bsd-packet-filter) - An introduction mostly covering the tracing aspects.
 *   [BPF: tracing and more](http://www.slideshare.net/brendangregg/bpf-tracing-and-more) - An introduction mostly covering the tracing aspects.
@@ -238,11 +238,11 @@ Free (Open Source)
 ### Articles and Presentations / XDP
 
 *   [The eXpress Data Path](https://blogs.igalia.com/dpino/2019/01/10/the-express-data-path/) - A very accessible introduction to XDP, providing sample code to show how to process packets.
-*   All XDP details in a technical paper: [The eXpress Data Path: Fast Programmable Packet Processing in the Operating System Kernel (⭐136)](https://github.com/tohojo/xdp-paper), by Toke Høiland-Jørgensen, Jesper Dangaard Brouer, Daniel Borkmann, John Fastabend, Tom Herbert, David Ahern and David Miller, all being essential eBPF and XDP contributors.
+*   All XDP details in a technical paper: [The eXpress Data Path: Fast Programmable Packet Processing in the Operating System Kernel (⭐139)](https://github.com/tohojo/xdp-paper), by Toke Høiland-Jørgensen, Jesper Dangaard Brouer, Daniel Borkmann, John Fastabend, Tom Herbert, David Ahern and David Miller, all being essential eBPF and XDP contributors.
 *   [Work-in-progress documentation for XDP](https://prototype-kernel.readthedocs.io/en/latest/networking/XDP/index.html)
 *   [BPF and XDP Reference Guide](http://docs.cilium.io/en/latest/bpf/) - Guide from the Cilium project.
 *   [XDP Project overview](https://www.iovisor.org/technology/xdp)
-*   [eXpress Data Path (XDP) (⭐932)](https://github.com/iovisor/bpf-docs/raw/master/Express_Data_Path.pdf) - The first presentation about XDP.
+*   [eXpress Data Path (XDP) (⭐964)](https://github.com/iovisor/bpf-docs/raw/master/Express_Data_Path.pdf) - The first presentation about XDP.
 *   [BoF - What Can BPF Do For You?](https://events.linuxfoundation.org/sites/events/files/slides/iovisor-lc-bof-2016.pdf)
 *   [eXpress Data Path](http://www.slideshare.net/IOVisor/express-data-path-linux-meetup-santa-clara-july-2016) - Contains some benchmark results obtained with the mlx4 driver.
 *   Jesper Dangaard Brouer has several sets of slides describing the internals of XDP:
@@ -263,7 +263,7 @@ Free (Open Source)
 
 ### Articles and Presentations / bpfilter
 
-*   [Why is the kernel community replacing iptables with BPF?](https://cilium.io/blog/2018/04/17/why-is-the-kernel-community-replacing-iptables/) - A blog post by Cilium on the the motivations behind eBPF and bpfilter, with a couple examples and links to other projects using eBPF and bpfilter.
+*   [Why is the kernel community replacing iptables with BPF?](https://cilium.io/blog/2018/04/17/why-is-the-kernel-community-replacing-iptables/) - A blog post by Cilium on the motivations behind eBPF and bpfilter, with a couple examples and links to other projects using eBPF and bpfilter.
 *   [bpfilter: Linux firewall with eBPF sauce](https://qmo.fr/docs/talk_20180316_frnog_bpfilter.pdf) - Slides from a talk by Quentin Monnet with a background on eBPF and comparing bpfilter to iptables.
 
 ### Articles and Presentations / BTF
@@ -286,32 +286,32 @@ Free (Open Source)
 
 ### Tutorials / Hardware Offload
 
-*   [bcc Reference Guide (⭐20k)](https://github.com/iovisor/bcc/blob/master/docs/reference_guide.md) - Many incremental steps to start using bcc and eBPF, mostly centered on tracing and monitoring.
-*   [bcc Python Developer Tutorial (⭐20k)](https://github.com/iovisor/bcc/blob/master/docs/tutorial_bcc_python_developer.md) - Comes with bcc, but targets the Python bits across seventeen "lessons".
+*   [bcc Reference Guide (⭐21k)](https://github.com/iovisor/bcc/blob/master/docs/reference_guide.md) - Many incremental steps to start using bcc and eBPF, mostly centered on tracing and monitoring.
+*   [bcc Python Developer Tutorial (⭐21k)](https://github.com/iovisor/bcc/blob/master/docs/tutorial_bcc_python_developer.md) - Comes with bcc, but targets the Python bits across seventeen "lessons".
 *   [Linux Tracing Workshops Materials (⭐1.3k)](https://github.com/goldshtn/linux-tracing-workshop) - Involves the use of several BPF tools for tracing.
 *   [Tracing a packet journey using Linux tracepoints, perf and eBPF](https://blog.yadutaf.fr/2017/07/28/tracing-a-packet-journey-using-linux-tracepoints-perf-ebpf/) - Troubleshooting ping requests and replies with perf and bcc programs.
 *   [Open NFP platform](https://open-nfp.org/dataplanes-ebpf/technical-papers/) - Operated by Netronome: some tutorials for network-related eBPF use cases, including an eBPF Offload Starting Guide.
 *   [XDP for the Rest of Us](http://netdevconf.org/2.1/session.html?gospodarek) - First edition of a workshop to get started with XDP.
 *   [XDP for the Rest of Us](https://www.netdevconf.org/2.2/session.html?gospodarek-xdp-workshop) - Second edition, with new contents.
 *   [Load XDP programs using the ip (iproute2) command](https://medium.com/@fntlnz/load-xdp-programs-using-the-ip-iproute2-command-502043898263)
-*   [XDP Hands-On Tutorial (⭐2.3k)](https://github.com/xdp-project/xdp-tutorial) - A progressive (three levels of difficulty) tutorial to learn how to process packets with XDP.
+*   [XDP Hands-On Tutorial (⭐2.6k)](https://github.com/xdp-project/xdp-tutorial) - A progressive (three levels of difficulty) tutorial to learn how to process packets with XDP.
 
 ### Examples / Hardware Offload
 
 *   [linux/samples/bpf/](https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/tree/samples/bpf) - In the kernel tree: some sample eBPF programs.
 *   [linux/tools/testing/selftests/bpf](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/tree/tools/testing/selftests/bpf) - In the kernel tree: Linux BPF selftests, with many eBPF programs.
-*   [prototype-kernel/kernel/samples/bpf (⭐296)](https://github.com/netoptimizer/prototype-kernel/tree/master/kernel/samples/bpf) - Jesper Dangaard Brouer's prototype-kernel repository contains some additional examples that can be compiled outside of kernel infrastructure.
+*   [prototype-kernel/kernel/samples/bpf (⭐305)](https://github.com/netoptimizer/prototype-kernel/tree/master/kernel/samples/bpf) - Jesper Dangaard Brouer's prototype-kernel repository contains some additional examples that can be compiled outside of kernel infrastructure.
 *   [iproute2/examples/bpf/](https://git.kernel.org/pub/scm/network/iproute2/iproute2-next.git/tree/examples/bpf) - Some networking programs to attach to the TC interface.
-*   [Netronome sample network applications (⭐96)](https://github.com/Netronome/bpf-samples/) - Provides basic but complete examples of eBPF applications also compatible with hardware offload.
-*   [bcc/examples (⭐20k)](https://github.com/iovisor/bcc/tree/master/examples) - Examples coming along with the bcc tools, mostly about tracing.
-*   [bcc/tools (⭐20k)](https://github.com/iovisor/bcc/tree/master/tools) - These tools themselves can be seen as example use cases for BPF programs, mostly for tracing and monitoring. bcc tools have been packaged for some Linux distributions.
-*   [MPLSinIP sample (⭐48)](https://github.com/fzakaria/eBPF-mpls-encap-decap) - A heavily commented sample demonstrating how to encapsulate & decapsulate MPLS within IP. The code is commented for those new to BPF development.
-*   [ebpf-samples (⭐87)](https://github.com/vbpf/ebpf-samples) - A collection of compiled (as ELF object files) samples gathered from several projects, primarily intended to serve as test cases for user space verifiers.
+*   [Netronome sample network applications (⭐103)](https://github.com/Netronome/bpf-samples/) - Provides basic but complete examples of eBPF applications also compatible with hardware offload.
+*   [bcc/examples (⭐21k)](https://github.com/iovisor/bcc/tree/master/examples) - Examples coming along with the bcc tools, mostly about tracing.
+*   [bcc/tools (⭐21k)](https://github.com/iovisor/bcc/tree/master/tools) - These tools themselves can be seen as example use cases for BPF programs, mostly for tracing and monitoring. bcc tools have been packaged for some Linux distributions.
+*   [MPLSinIP sample (⭐54)](https://github.com/fzakaria/eBPF-mpls-encap-decap) - A heavily commented sample demonstrating how to encapsulate & decapsulate MPLS within IP. The code is commented for those new to BPF development.
+*   [ebpf-samples (⭐90)](https://github.com/vbpf/ebpf-samples) - A collection of compiled (as ELF object files) samples gathered from several projects, primarily intended to serve as test cases for user space verifiers.
 
 ### eBPF Workflow: Tools and Utilities / bcc
 
-*   [bcc (⭐20k)](https://github.com/iovisor/bcc/) - Framework and set of tools - One way to handle BPF programs, in particular for tracing and monitoring. Also includes some utilities that may help inspect maps or programs on the system.
-*   [Lua front-end for BCC (⭐20k)](https://github.com/iovisor/bcc/tree/master/src/lua) - Another alternative to C, and even to most of the Python code used in bcc.
+*   [bcc (⭐21k)](https://github.com/iovisor/bcc/) - Framework and set of tools - One way to handle BPF programs, in particular for tracing and monitoring. Also includes some utilities that may help inspect maps or programs on the system.
+*   [Lua front-end for BCC (⭐21k)](https://github.com/iovisor/bcc/tree/master/src/lua) - Another alternative to C, and even to most of the Python code used in bcc.
 
 ### eBPF Workflow: Tools and Utilities / iproute2
 
@@ -328,7 +328,7 @@ Free (Open Source)
 
 ### eBPF Workflow: Tools and Utilities / libbpf
 
-*   [libbpf](https://git.kernel.org/pub/scm/linux/kernel/git/davem/net-next.git/tree/tools/lib/bpf) - A C library used for handling BPF objects (programs and maps), and manipulating ELF object files containing them. It is shipped with the kernel and [mirrored on GitHub (⭐2k)](https://github.com/libbpf/libbpf).
+*   [libbpf](https://git.kernel.org/pub/scm/linux/kernel/git/davem/net-next.git/tree/tools/lib/bpf) - A C library used for handling BPF objects (programs and maps), and manipulating ELF object files containing them. It is shipped with the kernel and [mirrored on GitHub (⭐2.3k)](https://github.com/libbpf/libbpf).
 
 ### eBPF Workflow: Tools and Utilities / bpftool and Other Tools from the Kernel Tree
 
@@ -341,10 +341,10 @@ Free (Open Source)
 
 ### eBPF Workflow: Tools and Utilities / User Space eBPF
 
-*   [uBPF (⭐781)](https://github.com/iovisor/ubpf/) - Written in C. Contains an interpreter, a JIT compiler for x86\_64 architecture, an assembler and a disassembler.
-*   [A generic implementation (⭐146)](https://github.com/YutaroHayakawa/generic-ebpf) - With support for FreeBSD kernel, FreeBSD user space, Linux kernel, Linux user space and macOS user space. Used for the [VALE software switch](https://www.unix.com/man-page/freebsd/4/vale/)'s [BPF extension module (⭐31)](https://github.com/YutaroHayakawa/vale-bpf).
-*   [rbpf (⭐859)](https://github.com/qmonnet/rbpf) - Written in Rust. Interpreter for Linux, macOS and Windows, and JIT-compiler for x86\_64 under Linux.
-*   [PREVAIL (⭐360)](https://github.com/vbpf/ebpf-verifier) - A user space verifier for eBPF [using an abstract interpretation layer](https://elazarg.github.io/pldi19main-final.pdf), with support for loops.
+*   [uBPF (⭐851)](https://github.com/iovisor/ubpf/) - Written in C. Contains an interpreter, a JIT compiler for x86\_64 architecture, an assembler and a disassembler.
+*   [A generic implementation (⭐149)](https://github.com/YutaroHayakawa/generic-ebpf) - With support for FreeBSD kernel, FreeBSD user space, Linux kernel, Linux user space and macOS user space. Used for the [VALE software switch](https://www.unix.com/man-page/freebsd/4/vale/)'s [BPF extension module (⭐31)](https://github.com/YutaroHayakawa/vale-bpf).
+*   [rbpf (⭐961)](https://github.com/qmonnet/rbpf) - Written in Rust. Interpreter for Linux, macOS and Windows, and JIT-compiler for x86\_64 under Linux.
+*   [PREVAIL (⭐399)](https://github.com/vbpf/ebpf-verifier) - A user space verifier for eBPF [using an abstract interpretation layer](https://elazarg.github.io/pldi19main-final.pdf), with support for loops.
 
 ### eBPF Workflow: Tools and Utilities / Testing in Virtual Environments
 
@@ -358,9 +358,9 @@ Free (Open Source)
     *   [P4 on the Edge](https://schd.ws/hosted_files/2016p4workshop/1d/Intel%20Fastabend-P4%20on%20the%20Edge.pdf) - P4 with eBPF to create high-performance programmable switches.
     *   [OvS Orbit episode (#11), called P4 on the Edge](https://ovsorbit.org/#e11) - Related to the former item. Audio interview of John Fastabend by Ben Pfaff, one of the core maintainers of Open vSwitch.
     *   [P4, EBPF and Linux TC Offload](https://open-nfp.org/m/documents/Open_NFP_P4_EBPF_Linux_TC_Offload_FINAL_5JHLETS.pdf) - P4 with some elements related to eBPF hardware offload on Netronome's NFP (Network Flow Processor) architecture.
-    *   [Old documentation for P4 usage with eBPF (⭐20k)](https://github.com/iovisor/bcc/tree/master/src/cc/frontends/p4) - From bcc repository; deprecated by the P4\_16 backend linked below.
-    *   [P4\_16 backend for eBPF (⭐642)](https://github.com/p4lang/p4c/blob/master/backends/ebpf/README.md)
-*   [Cilium](https://cilium.io/) project ([GitHub repository (⭐19k)](https://github.com/cilium/cilium)) is a technology relying on BPF and XDP to provide "fast in-kernel networking and security policy enforcement for containers based on eBPF programs generated on the fly". Many presentations available (with overlap):
+    *   [Old documentation for P4 usage with eBPF (⭐21k)](https://github.com/iovisor/bcc/tree/master/src/cc/frontends/p4) - From bcc repository; deprecated by the P4\_16 backend linked below.
+    *   [P4\_16 backend for eBPF (⭐730)](https://github.com/p4lang/p4c/blob/master/backends/ebpf/README.md)
+*   [Cilium](https://cilium.io/) project ([GitHub repository (⭐21k)](https://github.com/cilium/cilium)) is a technology relying on BPF and XDP to provide "fast in-kernel networking and security policy enforcement for containers based on eBPF programs generated on the fly". Many presentations available (with overlap):
 
     *   [Cilium: Networking & Security for Containers with BPF & XDP](http://www.slideshare.net/ThomasGraf5/clium-container-networking-with-bpf-xdp) - Also featuring a load balancer use case
     *   [Cilium: Networking & Security for Containers with BPF & XDP](http://www.slideshare.net/Docker/cilium-bpf-xdp-for-containers-66969823) - [video](https://www.youtube.com/watch?v=TnJF7ht3ZYc\&list=PLkA60AVN3hh8oPas3cq2VA9xB7WazcIgs)
@@ -381,23 +381,23 @@ Free (Open Source)
 *   Suricata, an open source intrusion detection system, [relies on eBPF components](https://www.stamus-networks.com/2016/09/28/suricata-bypass-feature/) for its "capture bypass" features:
 
     *   ["eBPF and XDP" section of Suricata documentation](http://suricata.readthedocs.io/en/latest/capture-hardware/ebpf-xdp.html?highlight=XDP#ebpf-and-xdp)
-    *   [SEPTun-Mark-II (⭐113)](https://github.com/pevma/SEPTun-Mark-II) - Extreme Performance Tuning guide - Mark II.
+    *   [SEPTun-Mark-II (⭐115)](https://github.com/pevma/SEPTun-Mark-II) - Extreme Performance Tuning guide - Mark II.
     *   [A blog post introducing the feature](https://www.stamus-networks.com/2016/09/28/suricata-bypass-feature/)
     *   [The adventures of a Suricate in eBPF land](http://netdevconf.org/1.2/slides/oct6/10_suricata_ebpf.pdf)
     *   [eBPF and XDP seen from the eyes of a meerkat](https://www.slideshare.net/ennael/kernel-recipes-2017-ebpf-and-xdp-eric-leblond)
 
 ### Projects Related to eBPF / Observability
 
-*   [InKeV: In-Kernel Distributed Network Virtualization for DCN (⭐932)](https://github.com/iovisor/bpf-docs/blob/master/university/sigcomm-ccr-InKev-2016.pdf)
+*   [InKeV: In-Kernel Distributed Network Virtualization for DCN (⭐964)](https://github.com/iovisor/bpf-docs/blob/master/university/sigcomm-ccr-InKev-2016.pdf)
 *   [DEEP-mon](https://www.slideshare.net/necstlab/deepmon-dynamic-and-energy-efficient-power-monitoring-for-containerbased-infrastructures) - Helps with measuring power consumption for servers and uses eBPF programs for in-kernel aggregation of data.
 
 ### Projects Related to eBPF / Tools
 
 *   [ply](https://wkz.github.io/ply/) - A small but flexible open source dynamic tracer for Linux, with features similar to the bcc tools, but with a simpler language inspired by awk and DTrace.
-*   [kubectl trace (⭐2k)](https://github.com/iovisor/kubectl-trace) - A kubectl plug-in for executing bpftrace programs in a Kubernetes cluster.
-*   [bpfd (⭐470)](https://github.com/genuinetools/bpfd) - Framework for running BPF programs with rules on Linux as a daemon. Container aware.
-*   [BPFd (⭐94)](https://github.com/joelagnel/bpfd) - A distinct BPF daemon, trying to leverage the flexibility of the bcc tools to trace and debug remote targets, and in particular devices running with Android.
-*   [adeb (⭐314)](https://github.com/joelagnel/adeb) - A Linux shell environment for using tracing tools on Android with BPFd.
+*   [kubectl trace (⭐2.1k)](https://github.com/iovisor/kubectl-trace) - A kubectl plug-in for executing bpftrace programs in a Kubernetes cluster.
+*   [bpfd (⭐477)](https://github.com/genuinetools/bpfd) - Framework for running BPF programs with rules on Linux as a daemon. Container aware.
+*   [BPFd (⭐96)](https://github.com/joelagnel/bpfd) - A distinct BPF daemon, trying to leverage the flexibility of the bcc tools to trace and debug remote targets, and in particular devices running with Android.
+*   [adeb (⭐325)](https://github.com/joelagnel/adeb) - A Linux shell environment for using tracing tools on Android with BPFd.
 *   [FUSE](https://events.linuxfoundation.org/wp-content/uploads/2017/11/When-eBPF-Meets-FUSE-Improving-Performance-of-User-File-Systems-Ashish-Bijlani-Georgia-Tech.pdf) - Considers using eBPF.
 
 ### The Code / Tools
@@ -424,23 +424,23 @@ Free (Open Source)
 *   [XDP-newbies](http://vger.kernel.org/vger-lists.html#xdp-newbies) - A mailing list specially dedicated to XDP programming (both for architecture or for asking for help).
 *   [IO Visor mailing list](http://lists.iovisor.org/pipermail/iovisor-dev/) - BPF is at the heart of the project, and is regularly discussed on the mailing list.
 *   [@IOVisor Twitter account](https://twitter.com/IOVisor)
-*   [The XDP Collaboration Project (⭐254)](https://github.com/xdp-project/xdp-project) - A GitHub repository with notes and ideas regarding the future evolutions of XDP.
+*   [The XDP Collaboration Project (⭐273)](https://github.com/xdp-project/xdp-project) - A GitHub repository with notes and ideas regarding the future evolutions of XDP.
 
 ### Other Lists of Resources on eBPF / Tools
 
-*   [IO Visor's bcc documentation (⭐20k)](https://github.com/iovisor/bcc/tree/master/docs)
-*   [IO Visor's bpf-docs repository (⭐932)](https://github.com/iovisor/bpf-docs/)
+*   [IO Visor's bcc documentation (⭐21k)](https://github.com/iovisor/bcc/tree/master/docs)
+*   [IO Visor's bpf-docs repository (⭐964)](https://github.com/iovisor/bpf-docs/)
 *   [Dive into BPF: A List of Reading Material](https://qmonnet.github.io/whirl-offload/2016/09/01/dive-into-bpf/)
 
 ## [21. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Realm
 
-*   [Unrealm (⭐536)](https://github.com/arturdev/Unrealm) - Unrealm enables you to easily store Swift native Classes, Structs and Enums into Realm.
+*   [Unrealm (⭐538)](https://github.com/arturdev/Unrealm) - Unrealm enables you to easily store Swift native Classes, Structs and Enums into Realm.
 
 ### Events
 
-*   [LightweightObservable (⭐136)](https://github.com/fxm90/LightweightObservable) - A lightweight implementation of an observable sequence that you can subscribe to.
+*   [LightweightObservable (⭐135)](https://github.com/fxm90/LightweightObservable) - A lightweight implementation of an observable sequence that you can subscribe to.
 
 ## [22. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
@@ -476,7 +476,7 @@ Free (Open Source)
 
 ### Serialization
 
-*   [protobuf (⭐65k)](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format. \[BSD]
+*   [protobuf (⭐66k)](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format. \[BSD]
 *   [upb (⭐1.5k)](https://github.com/protocolbuffers/upb) - A small protobuf implementation in C. \[BSD]
 
 ## [25. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
@@ -493,12 +493,11 @@ Free (Open Source)
 *   [iOS Deployment Tutorial](https://link.medium.com/vgYo0mSi3W) - Deploying to iOS in 2019 using RoboVM.
 *   [Sub-pixel Perfect Smooth Scrolling](http://code-disaster.com/2016/02/subpixel-perfect-smooth-scrolling.html) - Pixel-perfect smooth scrolling.
 
-### Assets / Advanced
+### Assets / General Learning Material
 
 *   [Kenney Assets](https://kenney.nl/) - High quality assets for your game, from 2D and 3D art to sound effects.
 *   [OpenGameArt.org](https://opengameart.org/) - Repository offering a variety of open content assets.
 *   [Game-Icons.net](http://game-icons.net/) - Repository containing heaps of cool game related graphics.
-*   [bfxr.net](https://www.bfxr.net/) - Quickly create unique sound effects by pressing a few buttons, excellent for prototyping.
 *   [freesound.org](https://freesound.org/) - Huge collaborative database of audio snippets, samples, recordings, bleeps.
 
 ## [27. Awesome Stacks](/content/stackshareio/awesome-stacks/week/README.md)
@@ -570,19 +569,13 @@ Free (Open Source)
 
 *   **[The $100 Startup](http://100startup.com/)** \[$] by [Chris Guillebeau](https://chrisguillebeau.com/).
 
-## [29. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
-
-### Companies with "remote DNA"
-
-*   [15Five](https://www.15five.com/careers/) - Join our mission to create the spaces where people become their greatest selves, by joining some of the greatest employees around.
-
-## [30. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
+## [29. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
 ### Class Based
 
 *   [Lightning Web Components (⭐1.5k)](https://github.com/salesforce/lwc) - blazing fast, enterprise-grade Web Components foundation.
 
-## [31. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
+## [30. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
 
 ### Presentations
 
@@ -596,7 +589,7 @@ Free (Open Source)
     *   [Twitter](https://twitter.com/mintynet)
     *   [Website](https://www.mintynet.com/)
 
-## [32. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [31. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### Assorted
 
@@ -606,20 +599,20 @@ Free (Open Source)
 
 *   [rn-actionsheet-module ★0 (⭐26)](https://github.com/talut/rn-actionsheet-module) - BottomsheetDialog & ActionSheetIOS with same props and usage.
 
-## [33. Awesome Maintainers](/content/nayafia/awesome-maintainers/week/README.md)
+## [32. Awesome Maintainers](/content/nayafia/awesome-maintainers/week/README.md)
 
 *   [@ceejbot](https://github.com/ceejbot), [Entropic (⭐5.3k)](https://github.com/entropic-dev/entropic), [npm (⭐6.5k)](https://github.com/npm/cli)
     *   "The economics of open source" ([video](https://www.youtube.com/watch?v=MO8hZlgK5zc), [post (⭐479)](https://github.com/ceejbot/economics-of-package-management/blob/master/essay.md))
 *   [@dhh](https://github.com/dhh), [Rails](https://github.com/rails)
     *   "Open source beyond the market" ([video](https://www.youtube.com/watch?v=VBwWbFpkltg), [post](https://m.signalvnoise.com/open-source-beyond-the-market/))
 
-## [34. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [33. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### 🇨🇦 Canada / Misc
 
 *   Meetup [Toronto](https://www.meetup.com/FlutterToronto)
 
-## [35. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [34. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / Data Analysis / Data Visualization
 
@@ -627,35 +620,35 @@ Free (Open Source)
 
 ### Python / Neural Networks
 
-*   [nn\_builder (⭐163)](https://github.com/p-christ/nn_builder) - nn\_builder is a python package that lets you build neural networks in 1 line
+*   [nn\_builder (⭐166)](https://github.com/p-christ/nn_builder) - nn\_builder is a python package that lets you build neural networks in 1 line
 
-## [36. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/week/README.md)
+## [35. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/week/README.md)
 
 ### Machine Learning Libraries / Frameworks
 
-*   [eps (⭐631)](https://github.com/ankane/eps) - Bayesian Classification and Linear Regression with exports
+*   [eps (⭐659)](https://github.com/ankane/eps) - Bayesian Classification and Linear Regression with exports
     using [PMML](http://dmg.org/pmml/v4-3/GeneralStructure.html) and an alternative backend using [GSL](https://www.gnu.org/software/gsl/).
 
-## [37. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [36. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### Projects
 
-*   [Ceil (⭐44)](https://github.com/helmuthva/ceil) - Auto-provisioned RPi cluster running K8S on bare-metal. ![Supports Raspberry Pi 3](https://github.com/thibmaek/awesome-raspberry-pi/raw/main/media/badges/rpi-3.png)
+*   [Ceil (⭐46)](https://github.com/helmuthva/ceil) - Auto-provisioned RPi cluster running K8S on bare-metal. ![Supports Raspberry Pi 3](https://github.com/thibmaek/awesome-raspberry-pi/raw/main/media/badges/rpi-3.png)
 
-## [38. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
+## [37. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
 
 ### IR Tools Collection / Log Analysis Tools
 
 *   [Kaspersky CyberTrace](https://support.kaspersky.com/13850) - Threat intelligence fusion and analysis tool that integrates threat data feeds with SIEM solutions. Users can immediately leverage threat intelligence for security monitoring and incident report (IR) activities in the workflow of their existing security operations.
 
-## [39. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/week/README.md)
+## [38. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/week/README.md)
 
 ### Other libraries and tools / Mesh tools
 
 *   [pyMOR](https://pymor.org/) - Model Order Reduction with Python.
-    (Python, 2-clause BSD, [GitHub (⭐266)](https://github.com/pymor/pymor/))
+    (Python, 2-clause BSD, [GitHub (⭐310)](https://github.com/pymor/pymor/))
 
-## [40. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [39. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Samples
 

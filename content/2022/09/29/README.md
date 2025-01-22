@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 29, 2022
 
-19 awesome lists updated today.
+18 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,28 +10,28 @@
 
 ### Cryptography
 
-*   [ed25519 (⭐7)](https://github.com/spider-gazelle/ed25519) - the Ed25519 elliptic curve public-key signature system
+*   [ed25519 (⭐9)](https://github.com/spider-gazelle/ed25519) - the Ed25519 elliptic curve public-key signature system
     described in \[RFC 8032]
 
 ### Data Formats
 
-*   [json-schema (⭐12)](https://github.com/spider-gazelle/json-schema) - convert JSON serializable classes into a [JSON Schema](https://json-schema.org/) representation
+*   [json-schema (⭐13)](https://github.com/spider-gazelle/json-schema) - convert JSON serializable classes into a [JSON Schema](https://json-schema.org/) representation
 
 ### GUI Development
 
-*   [GTK4.cr (⭐99)](https://github.com/hugopl/gtk4.cr) - Bindings for [GTK4](https://docs.gtk.org/gtk4/overview.html) with Crystalized API
+*   [GTK4.cr (⭐104)](https://github.com/hugopl/gtk4.cr) - Bindings for [GTK4](https://docs.gtk.org/gtk4/overview.html) with Crystalized API
 
 ## [2. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ### Providers / Vendor supported providers
 
-*   [terraform-provider-panos (⭐87)](https://github.com/PaloAltoNetworks/terraform-provider-panos) - Provider for [Palo Alto Networks next-generation firewalls](https://www.paloaltonetworks.com/network-security).
+*   [terraform-provider-panos (⭐89)](https://github.com/PaloAltoNetworks/terraform-provider-panos) - Provider for [Palo Alto Networks next-generation firewalls](https://www.paloaltonetworks.com/network-security).
 
 ## [3. Awesome Gatling](/content/aliesbelik/awesome-gatling/README.md)
 
 ### Distributed Testing
 
-*   [gatling-operator (⭐68)](https://github.com/st-tech/gatling-operator) - Automating distributed Gatling load testing using Kubernetes operator.
+*   [gatling-operator (⭐70)](https://github.com/st-tech/gatling-operator) - Automating distributed Gatling load testing using Kubernetes operator.
 
 ## [4. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
@@ -43,7 +43,7 @@
 
 ### Plugins
 
-*   [tmux-session-wizard (⭐165)](https://github.com/27medkamal/tmux-session-wizard) One prefix to control all your session creation, naming, switching, etc using [fzf (⭐63k)](https://github.com/junegunn/fzf) & [zoxide (⭐21k)](https://github.com/ajeetdsouza/zoxide).
+*   [tmux-session-wizard (⭐191)](https://github.com/27medkamal/tmux-session-wizard) One prefix to control all your session creation, naming, switching, etc using [fzf (⭐67k)](https://github.com/junegunn/fzf) & [zoxide (⭐24k)](https://github.com/ajeetdsouza/zoxide).
 
 ## [6. Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md)
 
@@ -71,7 +71,7 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [git-aliases (peterhurford) (⭐79)](https://github.com/peterhurford/git-aliases.zsh) - Creates a lot of useful aliases for combinations of commonly used `git` commands.
+*   [git-aliases (peterhurford) (⭐82)](https://github.com/peterhurford/git-aliases.zsh) - Creates a lot of useful aliases for combinations of commonly used `git` commands.
 *   [git-aliases (remino) (⭐0)](https://github.com/remino/omz-plugin-git-aliases) - Aliases all `git xyz` commands to `gxyz`. Also aliases `g` to `git`.
 *   [mysql-login (⭐0)](https://github.com/remino/omz-plugin-mysql-alias) - Adds alias for MySQL with login path.
 
@@ -84,11 +84,11 @@
 
 ### Libraries/Frameworks / API Clients
 
-*   [adamint/spotify-web-api-kotlin (⭐193)](https://github.com/adamint/spotify-web-api-kotlin) - Spotify Web API wrapper for Kotlin/Android, JVM, JS, and Native targets.
+*   [adamint/spotify-web-api-kotlin (⭐200)](https://github.com/adamint/spotify-web-api-kotlin) - Spotify Web API wrapper for Kotlin/Android, JVM, JS, and Native targets.
 
 ### Libraries/Frameworks / Logging
 
-*   [LighthouseGames/KmLogging (⭐79)](https://github.com/LighthouseGames/KmLogging) - Kotlin multiplatform logging. High performance, composable and simple to use.
+*   [LighthouseGames/KmLogging (⭐88)](https://github.com/LighthouseGames/KmLogging) - Kotlin multiplatform logging. High performance, composable and simple to use.
 
 ## [10. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
@@ -100,7 +100,7 @@
 
 ### Sports
 
-*   [nfl-team-schedule-widget (⭐6)](https://github.com/brianwalborn/nfl-team-schedule-widget) - The current season schedule for an NFL team.
+*   [nfl-team-schedule-widget (⭐7)](https://github.com/brianwalborn/nfl-team-schedule-widget) - The current season schedule for an NFL team.
 
 ## [12. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
 
@@ -112,21 +112,15 @@
 
 ### Scheduling / Touch Resistive
 
-*   [Schedule (⭐718)](https://github.com/peterhinch/micropython-async/blob/master/v3/docs/SCHEDULE.md) - A scheduler for asyncio based applications. Schedule events at specified times and dates or with reference to Sun and Moon rise and set.
+*   [Schedule (⭐761)](https://github.com/peterhinch/micropython-async/blob/master/v3/docs/SCHEDULE.md) - A scheduler for asyncio based applications. Schedule events at specified times and dates or with reference to Sun and Moon rise and set.
 
 ## [14. Awesome Fonts](/content/brabadu/awesome-fonts/README.md)
 
 ### Free fonts / Fonts
 
-*   [Urbanist (⭐386)](https://github.com/coreyhu/Urbanist) - Geometric sans-serif variable font
+*   [Urbanist (⭐481)](https://github.com/coreyhu/Urbanist) - Geometric sans-serif variable font
 
-## [15. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Projects Using Vue.js / Apps/Websites
-
-*   [Cuping Font](https://cupingfont.com/) - Cool font generator made with vuejs
-
-## [16. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+## [15. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
 ### PC / MacOS
 
@@ -146,26 +140,21 @@
 *   **Microsoft Edge** - It's a Microsoft-themed version of Chromium with Microsoft trackers instead of Google ones. Under [Microsoft's privacy policy](https://tosdr.org/en/service/244), which is also very bad. If you still want to use it, you can [follow this guide](https://anonymousplanet.org/guide.html#edge-19) to harden it a bit.
 *   **Opera** - Opera was [acquired by a consortium of Chinese investors](https://en.wikipedia.org/wiki/Opera_\(web_browser\)#Acquisition_by_Chinese_consortium). The app has [many trackers](https://reports.exodus-privacy.eu.org/de/reports/com.opera.browser/latest/).
 
-### Android / iOS / Alternative clients/modifications of Discord:
-
-*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Vanadium](https://vanadium.app/) - Privacy and security enhanced releases of Chromium by GrapheneOS.
-*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Privacy Browser](https://www.stoutner.com/privacy-browser/)
-
 ### Useful Tools / Alternative clients/modifications of Discord:
 
-*   [Single File (⭐15k)](https://github.com/gildas-lormeau/SingleFile) - Save a faithful copy of an entire web page in a single HTML file so you can use it offline.
+*   [Single File (⭐17k)](https://github.com/gildas-lormeau/SingleFile) - Save a faithful copy of an entire web page in a single HTML file so you can use it offline.
 
-## [17. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+## [16. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ### General Search
 
 *   [Mojeek](https://www.mojeek.com/) - A growing independent search engine which does not track you.
 
-### People Investigations / Telegram
+### People Investigations / Steam
 
 *   [BeenVerified](https://www.backgroundchecks.com/solutions/beenverified)
 
-## [18. Awesome Arcgis Developers](/content/Esri/awesome-arcgis-developers/README.md)
+## [17. Awesome Arcgis Developers](/content/Esri/awesome-arcgis-developers/README.md)
 
 ### APIs and SDKs
 
@@ -177,15 +166,15 @@
 *   [ArcGIS Maps SDK for Unity samples](https://developers.arcgis.com/unity/sample-code/) - Esri's official ArcGIS Maps SDK for Unity product team samples.
 *   [ArcGIS Maps SDK for Unreal Engine samples](https://developers.arcgis.com/unreal-engine/sample-code/) - Esri's official ArcGIS Maps SDK for Unreal Engine product team samples.
 
-## [19. Awesome Godot](/content/godotengine/awesome-godot/README.md)
+## [18. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
-### Projects / Godot 3.2+
+### Projects / Godot 3
 
-*   [vpuppr (⭐730)](https://github.com/virtual-puppet-project/vpuppr) - A cross-platform VTuber application with mulitple tracking backends.
+*   [vpuppr (⭐754)](https://github.com/virtual-puppet-project/vpuppr) - A cross-platform VTuber application with mulitple tracking backends.
 
-### Modules / Godot 3.2+
+### Modules / Godot 3
 
-*   [spout-gd (⭐36)](https://github.com/you-win/spout-gd) - Share OpenGL textures across Windows applications through your GPU using [Spout (⭐739)](https://github.com/leadedge/Spout2).
+*   [spout-gd (⭐42)](https://github.com/you-win/spout-gd) - Share OpenGL textures across Windows applications through your GPU using [Spout (⭐784)](https://github.com/leadedge/Spout2).
 
 ---
 

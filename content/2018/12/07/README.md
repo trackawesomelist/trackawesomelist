@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 07, 2018
 
-7 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -92,12 +92,6 @@
 ### History / 2014
 
 *   [Mozilla and Web Components: Update](https://hacks.mozilla.org/2014/12/mozilla-and-web-components/)
-
-## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Projects Using Vue.js / Open Source
-
-*   [DynamoDb-GUI-Client (⭐657)](https://github.com/Arattian/DynamoDb-GUI-Client): Cross-platform GUI client for DynamoDb
 
 ---
 

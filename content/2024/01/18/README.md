@@ -16,18 +16,17 @@
 
 ### Third-Party Packages / Users
 
-*   [django-guest-user (⭐71)](https://github.com/julianwachholz/django-guest-user) - Allow visitors to use your site like a regular user and register later.
+*   [django-guest-user (⭐75)](https://github.com/julianwachholz/django-guest-user) - Allow visitors to use your site like a regular user and register later.
 
 ### Projects / Boilerplate
 
-*   [Falco (⭐348)](https://github.com/tobi-de/falco) - Enhance your Django developer experience: CLI and Guides for the Modern Django Developer.
+*   [Falco (⭐379)](https://github.com/tobi-de/falco) - Enhance your Django developer experience: CLI and Guides for the Modern Django Developer.
 
 ## [3. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
 
 ### UI Libraries
 
-*   [Melt UI (⭐3.2k)](https://github.com/melt-ui/melt-ui) - A collection of accessible, reusable, and composable headless component builders and utilities.
-*   [Radix Svelte (⭐473)](https://github.com/radix-svelte/radix-svelte) - An unofficial community-led Svelte port of Radix UI Primitives
+*   [Melt UI (⭐3.8k)](https://github.com/melt-ui/melt-ui) - A collection of accessible, reusable, and composable headless component builders and utilities.
 
 ## [4. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 30, 2020
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,13 +10,13 @@
 
 ### Static Analysis / Security
 
-*   [Linting your AWS IAM policy documents for correctness and security issues (⭐31)](https://github.com/xen0l/iam-lint)
+*   [Linting your AWS IAM policy documents for correctness and security issues (⭐35)](https://github.com/xen0l/iam-lint)
 
 ## [2. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Localization
 
-*   [CrowdinSDK (⭐116)](https://github.com/crowdin/mobile-sdk-ios) - Crowdin iOS SDK delivers all new translations from Crowdin project to the application immediately.
+*   [CrowdinSDK (⭐119)](https://github.com/crowdin/mobile-sdk-ios) - Crowdin iOS SDK delivers all new translations from Crowdin project to the application immediately.
 
 ## [3. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
 
@@ -60,9 +60,9 @@
 
 ## [6. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 
-### Online services
+### Online services (a-z↓)
 
-*   [Diffy](https://diffy.website) - Cloud based visual regression tool. Uses puppeteer and proprietary comparison algorithm (detect layout shifts). Great scalability with AWS Lambda.
+*   [Diffy](https://diffy.website) - Cloud based visual regression tool that focuses on Drupal and WordPress. Full page screenshots and minimal number of false positives. Just provide URLs of your sites to get started. No coding required.
 
 ## [7. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
@@ -74,23 +74,17 @@
 *   [Map of user groups in Africa](https://datawrapper.dwcdn.net/yaEOa/)
 *   [Virtual](https://virtualddd.com/)
 
-## [8. Awesome Osint](/content/jivoi/awesome-osint/README.md)
-
-### Other Tools / Telegram
-
-*   [eScraper](https://escraper.emagicone.com/) - Grab product descriptions, prices, image
-
-## [9. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [8. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### On-Call
 
 *   [My week shadowing a GitLab Site Reliability Engineer](https://about.gitlab.com/blog/2019/12/16/sre-shadow/)
 
-## [10. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [9. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Miscellaneous
 
-*   [pprint (⭐909)](https://github.com/p-ranav/pprint) - Pretty Printer for Modern C++. \[MIT]
+*   [pprint (⭐917)](https://github.com/p-ranav/pprint) - Pretty Printer for Modern C++. \[MIT]
 
 ---
 

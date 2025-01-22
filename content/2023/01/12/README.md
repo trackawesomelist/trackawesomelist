@@ -8,9 +8,9 @@
 
 ## [1. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
-### Infographics and Data Visualization / Telegram
+### Infographics and Data Visualization / Steam
 
-*   [Perspective (⭐8.1k)](https://github.com/finos/perspective) - interactive data visualization and analytics component, well-suited for large, streaming and static datasets.
+*   [Perspective (⭐8.8k)](https://github.com/finos/perspective) - interactive data visualization and analytics component, well-suited for large, streaming and static datasets.
 
 ## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
@@ -65,18 +65,18 @@
 
 ### Libraries/Frameworks / Misc
 
-*   [KotUniL (⭐116)](https://github.com/vsirotin/si-units) - KotUniL: Kotlin function and objects for working with SI units like meter, second, as well as currencies and general units like percent.
+*   [KotUniL (⭐118)](https://github.com/vsirotin/si-units) - KotUniL: Kotlin function and objects for working with SI units like meter, second, as well as currencies and general units like percent.
 
 ## [9. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
 
 ### Qubes OS Websites
 
-*   [Qubes OS GitHub Documentation (⭐331)](https://github.com/QubesOS/qubes-doc) - Qubes OS GitHub latest documentation.
+*   [Qubes OS GitHub Documentation (⭐346)](https://github.com/QubesOS/qubes-doc) - Qubes OS GitHub latest documentation.
 
-### Training and Materials / Web articles
+### Training and Materials / Extra Info
 
 *   [Qubes-diagrams (⭐15)](https://github.com/rootkovska/qubes-diagrams) - Qubes OS architecture diagrams.
-*   [Qubes-artwork (⭐11)](https://github.com/QubesOS/qubes-artwork) - This repository contains various artworks for Qubes OS.
+*   [Qubes-artwork (⭐12)](https://github.com/QubesOS/qubes-artwork) - This repository contains various artworks for Qubes OS.
 
 ## [10. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 

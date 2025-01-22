@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 27, 2022
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Driver crates / WIP
 
-*   [M95320](https://crates.io/crates/m95320) - SPI - STMicroelectronics Serial flash EEPROM - ![crates.io](https://img.shields.io/crates/v/m95320.svg)
+*   [M95320](https://crates.io/crates/m95320) - SPI - STMicroelectronics Serial flash EEPROM - [![crates.io](https://img.shields.io/crates/v/m95320.svg)](https://crates.io/crates/m95320)
 
 ## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -36,7 +36,7 @@ Installs: 2000 | Stars: 352 | Last update: n/a
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [spaceship-ocm (⭐0)](https://github.com/iamkirkbater/spaceship-ocm-plugin) - Queries your OpenShift Cluster Manager (ocm) configuration to show which environment you're connected to. Requires [NerdFont](https://www.nerdfonts.com/font-downloads) in your terminal.
+*   [spaceship-ocm (⭐1)](https://github.com/iamkirkbater/spaceship-ocm-plugin) - Queries your OpenShift Cluster Manager (ocm) configuration to show which environment you're connected to. Requires [NerdFont](https://www.nerdfonts.com/font-downloads) in your terminal.
 
 ## [6. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
 
@@ -57,37 +57,31 @@ Installs: 2000 | Stars: 352 | Last update: n/a
 
 ### Self-Hosted
 
-*   [Mailcow: dockerized (⭐8.5k)](https://github.com/mailcow/mailcow-dockerized) - The mailserver suite with the 'moo'.
+*   [Mailcow: dockerized (⭐9.5k)](https://github.com/mailcow/mailcow-dockerized) - The mailserver suite with the 'moo'.
 
 ## [8. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
 
 ### Other Lists / Help
 
-*   [upb-lea/awesome-open-source-power-electronics (⭐142)](https://github.com/upb-lea/awesome-open-source-power-electronics) - Open source software list specialized on power electronics.
+*   [upb-lea/awesome-open-source-power-electronics (⭐208)](https://github.com/upb-lea/awesome-open-source-power-electronics) - Open source software list specialized on power electronics.
 
 ## [9. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Tools / Misc
 
-*   [txtai (⭐8.1k)](https://github.com/neuml/txtai) - Build semantic search applications and workflows.
+*   [txtai (⭐9.7k)](https://github.com/neuml/txtai) - Build semantic search applications and workflows.
 
 ## [10. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Gaming
 
-*   [Open Source Games (⭐1.5k)](https://github.com/michelpereira/awesome-open-source-games#readme)
+*   [Open Source Games (⭐1.7k)](https://github.com/michelpereira/awesome-open-source-games#readme)
 
 ## [11. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Code Runner / Diagnostics
 
-*   [desdic/greyjoy.nvim (⭐27)](https://github.com/desdic/greyjoy.nvim) - A modular task runner for Makefiles, vscode tasks, kitchen etc.
-
-## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Projects Using Vue.js / Apps/Websites
-
-*   [Slack Vuesualizer](https://slack-vuesualizer.vercel.app) - Display and search through your Slack archive.
+*   [desdic/greyjoy.nvim (⭐29)](https://github.com/desdic/greyjoy.nvim) - A modular task runner for Makefiles, vscode tasks, kitchen etc.
 
 ---
 

@@ -17,19 +17,19 @@
 
 ### Arch Linux Installers / Specific purpose
 
-*   [Archfi (⭐2.4k)](https://github.com/MatMoul/archfi) - Just a simple bash script wizard to install Arch Linux after you have booted on the official Arch Linux install media.
+*   [Archfi (⭐2.5k)](https://github.com/MatMoul/archfi) - Just a simple bash script wizard to install Arch Linux after you have booted on the official Arch Linux install media.
 
 ## [3. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/README.md)
 
 ### Cars
 
-*   [FordPassWidget (⭐15)](https://github.com/dschablowsky/FordPassWidget) - Information about your Ford, like location or mileage.
+*   [FordPassWidget (⭐16)](https://github.com/dschablowsky/FordPassWidget) - Information about your Ford, like location or mileage.
 
     <img src="https://raw.githubusercontent.com/dschablowsky/FordPassWidget/master/fp-widget.jpg" width="400"/>
-*   [tankstellenpreise.js (⭐36)](https://github.com/Necriso/ScriptableWidgets/blob/main/tankstellenpreise.js) - Fuel prices from a nearby gas station.
+*   [tankstellenpreise.js (⭐37)](https://github.com/Necriso/ScriptableWidgets/blob/main/tankstellenpreise.js) - Fuel prices from a nearby gas station.
 
     <img src="https://raw.githubusercontent.com/Necriso/ScriptableWidgets/main/images/tankstellenpreise.png" width="200"/>
-*   [TeslaData-Widget (⭐58)](https://github.com/DrieStone/TeslaData-Widget) - Information about your Tesla, like charging status and doors locked/unlocked.
+*   [TeslaData-Widget (⭐60)](https://github.com/DrieStone/TeslaData-Widget) - Information about your Tesla, like charging status and doors locked/unlocked.
 
     <img src="https://raw.githubusercontent.com/DrieStone/TeslaData-Widget/main/documentation/screen_001.png" width="400"/>
 
@@ -43,7 +43,7 @@
 
 ### Messaging
 
-*   [ChatLayout (⭐843)](https://github.com/ekazaev/ChatLayout) - A lightweight framework to build chat UI that uses custom `UICollectionViewLayout` to provide full control over the presentation as well as all the tools available in `UICollectionView`.
+*   [ChatLayout (⭐912)](https://github.com/ekazaev/ChatLayout) - A lightweight framework to build chat UI that uses custom `UICollectionViewLayout` to provide full control over the presentation as well as all the tools available in `UICollectionView`.
 
 ## [6. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/README.md)
 
@@ -78,8 +78,8 @@
 
 ### Time Series Data
 
-*   🌟 [Ensemble-Strategy (⭐1.9k)](https://github.com/AI4Finance-LLC/Deep-Reinforcement-Learning-for-Automated-Stock-Trading-Ensemble-Strategy-ICAIF-2020) - Deep Reinforcement Learning for Automated Stock Trading.
-*   [FinRL (⭐9.3k)](https://github.com/AI4Finance-LLC/FinRL-Library) - A Deep Reinforcement Learning Library for Automated Stock Trading in Quantitative Finance.
+*   🌟 [Ensemble-Strategy (⭐2.1k)](https://github.com/AI4Finance-LLC/Deep-Reinforcement-Learning-for-Automated-Stock-Trading-Ensemble-Strategy-ICAIF-2020) - Deep Reinforcement Learning for Automated Stock Trading.
+*   [FinRL (⭐10k)](https://github.com/AI4Finance-LLC/FinRL-Library) - A Deep Reinforcement Learning Library for Automated Stock Trading in Quantitative Finance.
 
 ## [10. Awesome Common Lisp Learning](/content/GustavBertram/awesome-common-lisp-learning/README.md)
 

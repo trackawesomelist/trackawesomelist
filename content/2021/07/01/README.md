@@ -10,7 +10,7 @@
 
 ### Board support crates / Nordic
 
-*   [`Thingy:91-nrf9160`](https://crates.io/crates/thingy-91-nrf9160-bsp) - [thingy:91](https://www.nordicsemi.com/Products/Development-hardware/Nordic-Thingy-91) - ![crates.io](https://img.shields.io/crates/v/thingy-91-nrf9160-bsp.svg)
+*   [`Thingy:91-nrf9160`](https://crates.io/crates/thingy-91-nrf9160-bsp) - [thingy:91](https://www.nordicsemi.com/Products/Development-hardware/Nordic-Thingy-91) - [![crates.io](https://img.shields.io/crates/v/thingy-91-nrf9160-bsp.svg)](https://crates.io/crates/thingy-91-nrf9160-bsp)
 
 ## [2. Awesome Naming](/content/gruhn/awesome-naming/README.md)
 
@@ -22,7 +22,7 @@
 
 ### Miscellaneous
 
-*   🍰 [CakeDC/Enum plugin (⭐27)](https://github.com/CakeDC/enum) - A plugin to add enumeration list support to your app.
+*   [CakeDC/Enum plugin (⭐29)](https://github.com/CakeDC/enum) - A plugin to add enumeration list support to your app.
 
 ## [4. Magictools](/content/ellisonleao/magictools/README.md)
 
@@ -70,7 +70,7 @@
 
 ### Python / Risk Analysis
 
-*   [risktools (⭐27)](https://github.com/bbcho/risktools-dev) - Risk tools for use within the crude and crude products trading space with partial implementation of R's PerformanceAnalytics.
+*   [risktools (⭐28)](https://github.com/bbcho/risktools-dev) - Risk tools for use within the crude and crude products trading space with partial implementation of R's PerformanceAnalytics.
 
 ---
 

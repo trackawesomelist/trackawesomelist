@@ -10,45 +10,45 @@
 
 ### Files and Directories / File Sync/Sharing
 
-*   [share-cli (⭐345)](https://github.com/marionebl/share-cli) - Share files with your local network.
+*   [share-cli (⭐369)](https://github.com/marionebl/share-cli) - Share files with your local network.
 
 ### Just for Fun / Image Conversion
 
-*   [text-meme (⭐102)](https://github.com/beatfreaker/text-meme-cli) - Generate text memes.
+*   [text-meme (⭐100)](https://github.com/beatfreaker/text-meme-cli) - Generate text memes.
 
 ## [2. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Top / Game Engine resources
 
-*   [Chillify (⭐734)](https://github.com/KarimElghamry/chillify) - Fancy music app made with Provider and Bloc pattern by [Karim Elghamry](https://github.com/KarimElghamry)
+*   [Chillify (⭐746)](https://github.com/KarimElghamry/chillify) - Fancy music app made with Provider and Bloc pattern by [Karim Elghamry](https://github.com/KarimElghamry)
 
 ## [3. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
 ### GitHub Tools and Management / Docker Container Actions
 
-*   [Add releases to GitHub (⭐118)](https://github.com/elgohr/Github-Release-Action)
-*   [Publish a docker image to Dockerhub (⭐719)](https://github.com/elgohr/Publish-Docker-Github-Action)
+*   [Add releases to GitHub (⭐166)](https://github.com/elgohr/Github-Release-Action)
+*   [Publish a docker image to Dockerhub (⭐778)](https://github.com/elgohr/Publish-Docker-Github-Action)
 
 ## [4. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
 
 ### Python / Indicators
 
-*   [pandas\_talib (⭐729)](https://github.com/femtotrader/pandas_talib) - A Python Pandas implementation of technical analysis indicators.
+*   [pandas\_talib (⭐751)](https://github.com/femtotrader/pandas_talib) - A Python Pandas implementation of technical analysis indicators.
 
 ### Python / Trading & Backtesting
 
-*   [ta (⭐4.2k)](https://github.com/bukosabino/ta) - Technical Analysis Library using Pandas (Python)
-*   [pyqstrat (⭐356)](https://github.com/abbass2/pyqstrat) - A fast, extensible, transparent python library for backtesting quantitative strategies.
-*   [NowTrade (⭐102)](https://github.com/edouardpoitras/NowTrade) - Python library for backtesting technical/mechanical strategies in the stock and currency markets.
-*   [pinkfish (⭐263)](https://github.com/fja05680/pinkfish) - A backtester and spreadsheet library for security analysis.
-*   [aat (⭐639)](https://github.com/timkpaine/aat) - Async Algorithmic Trading Engine
+*   [ta (⭐4.5k)](https://github.com/bukosabino/ta) - Technical Analysis Library using Pandas (Python)
+*   [pyqstrat (⭐364)](https://github.com/abbass2/pyqstrat) - A fast, extensible, transparent python library for backtesting quantitative strategies.
+*   [NowTrade (⭐103)](https://github.com/edouardpoitras/NowTrade) - Python library for backtesting technical/mechanical strategies in the stock and currency markets.
+*   [pinkfish (⭐274)](https://github.com/fja05680/pinkfish) - A backtester and spreadsheet library for security analysis.
+*   [aat (⭐692)](https://github.com/timkpaine/aat) - Async Algorithmic Trading Engine
 *   [catalyst (⭐2.5k)](https://github.com/enigmampc/catalyst) - An Algorithmic Trading Library for Crypto-Assets in Python
 
 ## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Coding Style Tools
 
-*   [Uncrustify (⭐2.8k)](https://github.com/uncrustify/uncrustify) - Code beautifier.
+*   [Uncrustify (⭐2.9k)](https://github.com/uncrustify/uncrustify) - Code beautifier.
 
 ### Articles
 

@@ -62,7 +62,6 @@
 ### Favicon
 
 *   [favicon.cc](http://www.favicon.cc/)
-*   [iconogen](http://iconogen.com/)
 
 ### CSS
 

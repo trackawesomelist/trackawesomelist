@@ -58,7 +58,7 @@ git var -l | <variable>
 
 ### Subtitling
 
-*   [imscJS (⭐83)](https://github.com/sandflow/imscJS) - JavaScript library for rendering IMSC1 Text and Image Profile documents to HTML5.
+*   [imscJS (⭐84)](https://github.com/sandflow/imscJS) - JavaScript library for rendering IMSC1 Text and Image Profile documents to HTML5.
 
 ## [8. Nlp with Ruby](/content/arbox/nlp-with-ruby/README.md)
 
@@ -71,7 +71,7 @@ git var -l | <variable>
 
 ### Tools and session management
 
-*   [tat (⭐38)](https://github.com/ryandotsmith/tat) Tab completion for tmux sessions
+*   [tat (⭐39)](https://github.com/ryandotsmith/tat) Tab completion for tmux sessions
 
 ### Books / Development and testing
 

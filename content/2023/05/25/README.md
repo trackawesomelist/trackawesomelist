@@ -25,7 +25,7 @@
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [doctorfree/nvim-lazyman (⭐259)](https://github.com/doctorfree/nvim-lazyman) - Neovim configuration manager and modular configuration, supports over 40 preconfigured configurations.
+*   [doctorfree/nvim-lazyman (⭐329)](https://github.com/doctorfree/nvim-lazyman) - Neovim configuration manager and modular configuration, supports over 40 preconfigured configurations.
 
 ## [3. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
 

@@ -10,7 +10,7 @@
 
 ### Utility / Docker Container Actions
 
-*   [GitHub Actions for Lazarus/FPC (⭐23)](https://github.com/gcarreno/setup-lazarus)
+*   [GitHub Actions for Lazarus/FPC (⭐45)](https://github.com/gcarreno/setup-lazarus)
 
 ## [2. Awesome Composer](/content/jakoch/awesome-composer/README.md)
 
@@ -22,7 +22,7 @@
 
 ### Third-Party Packages / Logging
 
-*   [django-guid (⭐435)](https://github.com/JonasKs/django-guid) - Inject a GUID (Correlation-ID) into every log message in a Django request.
+*   [django-guid (⭐458)](https://github.com/JonasKs/django-guid) - Inject a GUID (Correlation-ID) into every log message in a Django request.
 
 ## [4. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/README.md)
 
@@ -64,19 +64,19 @@ Language: English
 
 ### Software / Media Streaming - Video Streaming
 
-*   [Streama (⭐9.6k)](https://github.com/streamaserver/streama) - Self hosted streaming media server. `MIT` `Java`
+*   [Streama (⭐9.7k)](https://github.com/streamaserver/streama) - Self hosted streaming media server. `MIT` `Java`
 
 ## [9. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
 
 ### Component Libraries
 
-*   [Wokwi Elements (⭐168)](https://github.com/wokwi/wokwi-elements) - Web Components for Arduino and various electronic parts.
+*   [Wokwi Elements (⭐184)](https://github.com/wokwi/wokwi-elements) - Web Components for Arduino and various electronic parts.
 
 ## [10. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / General-Purpose Machine Learning
 
-*   [bayeso (⭐91)](https://github.com/jungtaekkim/bayeso) - A simple, but essential Bayesian optimization package, written in Python.
+*   [bayeso (⭐93)](https://github.com/jungtaekkim/bayeso) - A simple, but essential Bayesian optimization package, written in Python.
 
 ## [11. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
@@ -118,13 +118,13 @@ Language: English
 
 ### Projects
 
-*   [Minesweeper (⭐33)](https://github.com/jgpaiva/minesweeper) - Minesweeper built with Rust, Yew and WebAssembly.
+*   [Minesweeper (⭐36)](https://github.com/jgpaiva/minesweeper) - Minesweeper built with Rust, Yew and WebAssembly.
 
 ## [14. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### ORM
 
-*   [EntityFramework.Exceptions (⭐1.2k)](https://github.com/Giorgi/EntityFramework.Exceptions) - Use typed Exceptions for Entity Framework Core when your SQL query violates database constraints in SqlServer, MySql, PostgreSQL or SQLite
+*   [EntityFramework.Exceptions (⭐1.6k)](https://github.com/Giorgi/EntityFramework.Exceptions) - Use typed Exceptions for Entity Framework Core when your SQL query violates database constraints in SqlServer, MySql, PostgreSQL or SQLite
 
 ---
 

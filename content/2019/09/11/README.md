@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 11, 2019
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -18,25 +18,19 @@
 
 *   [PID Loops and the Art of Keeping Systems Stable](https://www.youtube.com/watch?v=3AxSwCC7I4s)
 
-## [3. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Resources / Examples
-
-*   [A one-on-one chat app in Vue with CometChat (⭐8)](https://github.com/cometchat-pro-tutorials/vue-cometchat-one-on-one-chat)
-
-## [4. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
+## [3. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 
 ### Apps / Media
 
 *   [Wagtail-Lazyimages (⭐23)](https://github.com/ptrck/wagtail-lazyimages) - A plugin that generates tiny blurry placeholder images for lazy loading Wagtail images medium.com style.
 
-## [5. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+## [4. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Back-end API / Playground
 
 *   :octocat: [FoalTS (⭐1.9k)](https://github.com/FoalTS/foal) - A simple, intuitive and complete framework for building enterprise-grade Node.JS applications :boom: :rocket: (see also: <https://foalts.org>)
 
-## [6. Awesome Bitcoin Payment Processors](/content/alexk111/awesome-bitcoin-payment-processors/README.md)
+## [5. Awesome Bitcoin Payment Processors](/content/alexk111/awesome-bitcoin-payment-processors/README.md)
 
 ### Self-Hosted Bitcoin Payment Processors
 
@@ -54,13 +48,13 @@
 
 
 
-## [7. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
+## [6. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
 ### Job boards
 
 *   [Daily Remote](https://dailyremote.com) Filter and find remote jobs for every role!
 
-## [8. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
+## [7. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
 ### Talks
 
@@ -72,13 +66,13 @@
 
 ### Integrations
 
-*   [Keycloak Terraform Provider (⭐604)](https://github.com/mrparkers/terraform-provider-keycloak)
+*   [Keycloak Terraform Provider (⭐710)](https://github.com/mrparkers/terraform-provider-keycloak)
 
-## [9. Awesome Actions](/content/sdras/awesome-actions/README.md)
+## [8. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
 ### Static Analysis / Linting
 
-*   [Stylelinter - GitHub Action that runs stylelint (⭐17)](https://github.com/exelban/stylelint)
+*   [Stylelinter - GitHub Action that runs stylelint (⭐21)](https://github.com/exelban/stylelint)
 
 ### Notifications and Messages / Code Coverage
 
@@ -86,9 +80,9 @@
 
 ### External Services / Terraform
 
-*   [GitHub Action for Google Cloud Platform (GCP) (⭐206)](https://github.com/exelban/gcloud)
+*   [GitHub Action for Google Cloud Platform (GCP) (⭐228)](https://github.com/exelban/gcloud)
 
-## [10. Awesome Splunk](/content/sduff/awesome-splunk/README.md)
+## [9. Awesome Splunk](/content/sduff/awesome-splunk/README.md)
 
 ### Apps
 

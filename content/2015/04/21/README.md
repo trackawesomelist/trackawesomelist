@@ -410,7 +410,7 @@ to this,
 
 ### Images
 
-*   [chunky\_svg (⭐31)](https://github.com/mmmries/chunky_svg) -  A library for drawing things with SVG.
+*   [chunky\_svg (⭐32)](https://github.com/mmmries/chunky_svg) -  A library for drawing things with SVG.
 
 ## [4. Awesome Json](/content/burningtree/awesome-json/README.md)
 

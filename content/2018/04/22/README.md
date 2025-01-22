@@ -14,7 +14,7 @@
 
 ## [2. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
-### Privacy and Encryption Tools / Telegram
+### Privacy and Encryption Tools / Steam
 
 *   [HTTPs Everywhere](https://www.eff.org/https-everywhere/)
 
@@ -309,13 +309,13 @@
 
 ### Build tools, setup and CI
 
-*   [GMavenPlus (⭐258)](https://github.com/groovy/GMavenPlus) - A rewrite of GMaven, a Maven plugin for Groovy
-*   [Jenkins job-dsl-plugin (⭐1.8k)](https://github.com/jenkinsci/job-dsl-plugin) - A Groovy DSL for Jenkins Jobs
+*   [GMavenPlus (⭐283)](https://github.com/groovy/GMavenPlus) - A rewrite of GMaven, a Maven plugin for Groovy
+*   [Jenkins job-dsl-plugin (⭐1.9k)](https://github.com/jenkinsci/job-dsl-plugin) - A Groovy DSL for Jenkins Jobs
 *   [travis-groovy (⭐3)](https://github.com/kdabir/travis-groovy) - execute groovy scripts on travis-ci
 
 ### Official Resources
 
-*   [Groovy's source (⭐4.9k)](https://github.com/apache/groovy) - Groovy's source code mirrored on Github
+*   [Groovy's source (⭐5.2k)](https://github.com/apache/groovy) - Groovy's source code mirrored on Github
 
 ## [8. Awesome Saltstack](/content/hbokh/awesome-saltstack/README.md)
 

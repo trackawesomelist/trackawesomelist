@@ -22,7 +22,7 @@
 
 ### Resources / Course Material
 
-*   [Floating-Point Numbers and Formal Proof (⭐7)](https://github.com/thery/FlocqLecture) - Introductory course on Coq real numbers and floating-point numbers from the Flocq library.
+*   [Floating-Point Numbers and Formal Proof (⭐6)](https://github.com/thery/FlocqLecture) - Introductory course on Coq real numbers and floating-point numbers from the Flocq library.
 
 ## [4. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/README.md)
 
@@ -76,7 +76,7 @@
 
 ### Social Media Tools / Instagram
 
-*   [Sterra (⭐525)](https://github.com/novitae/sterraxcyl) - Instagram OSINT tool to export and analyse followers | following with their details
+*   [Sterra (⭐589)](https://github.com/novitae/sterraxcyl) - Instagram OSINT tool to export and analyse followers | following with their details
 
 ---
 

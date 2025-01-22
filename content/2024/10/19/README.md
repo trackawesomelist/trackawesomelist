@@ -10,14 +10,14 @@
 
 ### Concurrency
 
-*   [BS::thread\_pool (⭐2.2k)](https://github.com/bshoshany/thread-pool) - A fast, lightweight, and easy-to-use C++17 thread pool library \[MIT]
-*   [ThreadPool (⭐7.9k)](https://github.com/progschj/ThreadPool) - A simple C++11 Thread Pool implementation \[zlib]
+*   [BS::thread\_pool (⭐2.3k)](https://github.com/bshoshany/thread-pool) - A fast, lightweight, and easy-to-use C++17 thread pool library \[MIT]
+*   [ThreadPool (⭐8.1k)](https://github.com/progschj/ThreadPool) - A simple C++11 Thread Pool implementation \[zlib]
 
 ## [2. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
 ### Frameworks / Runtimes
 
-*   [Pears (⭐106)](https://github.com/holepunchto/pear) - Peer-to-peer runtime, development and deployment.
+*   [Pears (⭐121)](https://github.com/holepunchto/pear) - Peer-to-peer runtime, development and deployment.
 
 ### Security / Scala
 
@@ -39,17 +39,17 @@
 
 ### Validation / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-validator-pack (⭐14)](https://github.com/dynimorius/ngx-validator-pack) - A collection of validators designed
+*   [ngx-validator-pack (⭐15)](https://github.com/dynimorius/ngx-validator-pack) - A collection of validators designed
     to simplify usage and allow quick customization.
 
 ### Loaders / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-lazy-directive (⭐1)](https://github.com/tuphan-27/ngx-lazy-directive) - Provides an easy way to lazy load components combined with the `*ngIf` directive, thereby reducing the First Contentful Paint time when a module is large.
-*   [ngx-fastboot (⭐6)](https://github.com/KernelPanic92/ngx-fastboot) - A dynamic configuration loader for Angular applications. It optimizes the startup performance by loading configurations in a separate chunk during compilation.
+*   [ngx-lazy-directive (⭐2)](https://github.com/tuphan-27/ngx-lazy-directive) - Provides an easy way to lazy load components combined with the `*ngIf` directive, thereby reducing the First Contentful Paint time when a module is large.
+*   [ngx-fastboot (⭐8)](https://github.com/KernelPanic92/ngx-fastboot) - A dynamic configuration loader for Angular applications. It optimizes the startup performance by loading configurations in a separate chunk during compilation.
 
 ### Tailwind CSS Based / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [FlyonUI (⭐745)](https://github.com/themeselection/flyonui) - [Integrate](https://flyonui.com/framework-integrations/angular/) FlyonUI with Angular and Tailwind CSS to create a modern, responsive UI, streamlining your development process efficiently.
+*   [FlyonUI (⭐1.5k)](https://github.com/themeselection/flyonui) - [Integrate](https://flyonui.com/framework-integrations/angular/) FlyonUI with Angular and Tailwind CSS to create a modern, responsive UI, streamlining your development process efficiently.
 
 ## [4. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
@@ -65,4 +65,5 @@
 
 ---
 
+- Prev: [Oct 20, 2024](/content/2024/10/20/README.md)
 - Next: [Oct 18, 2024](/content/2024/10/18/README.md)

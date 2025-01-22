@@ -10,7 +10,7 @@
 
 ### Other / C++
 
-*   [vbrusca/ZigSdlGameTemplate (⭐2)](https://github.com/vbrusca/ZigSdlGameTemplate) - SDL game project template.
+*   [vbrusca/ZigSdlGameTemplate (⭐4)](https://github.com/vbrusca/ZigSdlGameTemplate) - SDL game project template.
 
 ## [2. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -22,7 +22,7 @@
 
 ### Featured On
 
-*   [Kubernetes Katas, A selection of exercises for Kubernetes (⭐254)](https://github.com/eficode-academy/kubernetes-katas/)
+*   [Kubernetes Katas, A selection of exercises for Kubernetes (⭐266)](https://github.com/eficode-academy/kubernetes-katas/)
 
 ## [4. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
@@ -40,13 +40,13 @@
 
 ### GUI
 
-*   [WebUI (⭐2.8k)](https://github.com/webui-dev/webui) - Use any web browser as GUI, with your preferred language in the backend and HTML5 in the frontend. \[MIT] [website](https://webui.me/)
+*   [WebUI (⭐3.2k)](https://github.com/webui-dev/webui) - Use any web browser as GUI, with your preferred language in the backend and HTML5 in the frontend. \[MIT] [website](https://webui.me/)
 
 ## [7. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Parsers/Encoders/Decoders
 
-*   [prattle (⭐6)](https://github.com/askeladdk/prattle) - Scan and parse LL(1) grammars simply and efficiently.
+*   [prattle (⭐7)](https://github.com/askeladdk/prattle) - Scan and parse LL(1) grammars simply and efficiently.
 
 ## [8. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
@@ -56,19 +56,19 @@
 
 ### Plugins / Style
 
-*   [paths (⭐43)](https://github.com/vitonsky/eslint-plugin-paths) - Use paths from tsconfig/jsconfig and auto fix relative paths to aliases.
+*   [paths (⭐53)](https://github.com/vitonsky/eslint-plugin-paths) - Use paths from tsconfig/jsconfig and auto fix relative paths to aliases.
 
 ## [9. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ### Projects / Integration Frameworks
 
-*   [Spring Integration (⭐1.5k) (⭐1.5k)](https://github.com/spring-projects/spring-integration) - An extension of the Spring programming model that supports Enterprise Integration Patterns, allowing for streamlined integration of various systems.
+*   [Spring Integration (⭐1.5k) (⭐1.6k)](https://github.com/spring-projects/spring-integration) - An extension of the Spring programming model that supports Enterprise Integration Patterns, allowing for streamlined integration of various systems.
 
 ## [10. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
 ### NixOS Modules / Zig
 
-*   [impermanence (⭐1.1k)](https://github.com/nix-community/impermanence) - Lets you choose what files and directories you want to keep between reboots.
+*   [impermanence (⭐1.3k)](https://github.com/nix-community/impermanence) - Lets you choose what files and directories you want to keep between reboots.
 
 ## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -85,29 +85,29 @@
 
 ### UI
 
-*   [Smooth Page Indicator (⭐1.1k)](https://github.com/Milad-Akarie/smooth_page_indicator) <!--stargazers:Milad-Akarie/smooth_page_indicator--> - Customizable animated page indicator with a set of built-in effects. [Milad Akarie](https://github.com/Milad-Akarie)
-*   [Super Editor (⭐1.6k)](https://github.com/superlistapp/super_editor/) <!--stargazers:superlistapp/ssuper_editor--> - Advanced toolkit for building document editors and readers by \[Flutter Bounty Hunters]\([https://github.com/Milad-Akarie](https://flutterbountyhunters.com)
+*   [Smooth Page Indicator (⭐1.3k)](https://github.com/Milad-Akarie/smooth_page_indicator) <!--stargazers:Milad-Akarie/smooth_page_indicator--> - Customizable animated page indicator with a set of built-in effects. [Milad Akarie](https://github.com/Milad-Akarie)
+*   [Super Editor (⭐1.7k)](https://github.com/superlistapp/super_editor/) <!--stargazers:superlistapp/ssuper_editor--> - Advanced toolkit for building document editors and readers by [Flutter Bounty Hunters](https://flutterbountyhunters.com).
 
 ### UI / List
 
-*   [Super List (⭐214)](https://github.com/superlistapp/super_sliver_list) <!--stargazers:superlistapp/super_sliver_list--> - Drop-in replacement for SliverList and ListView that can handle large amount of items with variable extents by [Matej Knopp](https://github.com/knopp)
+*   [Super List (⭐303)](https://github.com/superlistapp/super_sliver_list) <!--stargazers:superlistapp/super_sliver_list--> - Drop-in replacement for SliverList and ListView that can handle large amount of items with variable extents by [Matej Knopp](https://github.com/knopp)
 
 ### UI / UI Helpers
 
-*   [Mix (⭐463)](https://github.com/leoafarias/mix) <!--stargazers:leoafarias/mix--> - An expressive way to effortlessly build design systems by [Leo Farias](https://github.com/leoafarias).
-*   [Blurhash (⭐508)](https://github.com/fluttercommunity/flutter_blurhash) <!--stargazers:fluttercommunity/flutter_blurhash--> - Compact representation of a placeholder for an image. Encode a blurry image under 30 caracters by [Robert Felker](https://www.linkedin.com/in/robert-felker/)
+*   [Mix (⭐616)](https://github.com/leoafarias/mix) <!--stargazers:leoafarias/mix--> - An expressive way to effortlessly build design systems by [Leo Farias](https://github.com/leoafarias).
+*   [Blurhash (⭐532)](https://github.com/fluttercommunity/flutter_blurhash) <!--stargazers:fluttercommunity/flutter_blurhash--> - Compact representation of a placeholder for an image. Encode a blurry image under 30 caracters by [Robert Felker](https://www.linkedin.com/in/robert-felker/)
 
 ### Media / Audio
 
-*   [Audio Players Plugin (⭐1.9k)](https://github.com/luanpotter/audioplayers) <!--stargazers:luanpotter/audioplayers--> - Play multiple audio files simultaneously (Android/iOS) by [Luan Nico](https://github.com/luanpotter).
+*   [Audio Players Plugin (⭐2k)](https://github.com/luanpotter/audioplayers) <!--stargazers:luanpotter/audioplayers--> - Play multiple audio files simultaneously (Android/iOS) by [Luan Nico](https://github.com/luanpotter).
 
 ### State management / Standard
 
-*   [Signals (⭐377)](https://github.com/rodydavis/signals.dart) <!--stargazers:rodydavis/signals.dart--> - Reactive programming made simple. Port of Signals pattern by [Rody Davis](https://github.com/rodydavis)
+*   [Signals (⭐496)](https://github.com/rodydavis/signals.dart) <!--stargazers:rodydavis/signals.dart--> - Reactive programming made simple. Port of Signals pattern by [Rody Davis](https://github.com/rodydavis)
 
 ### Top / Game Engine resources
 
-*   [Linwood Butterfly (⭐890)](https://github.com/LinwoodCloud/Butterfly) <!--stargazers:LinwoodCloud/Butterfly--> - Powerful note taking app and an alternative to OneNote by [CodeDoctorDE](https://github.com/CodeDoctorDE)
+*   [Linwood Butterfly (⭐1.1k)](https://github.com/LinwoodCloud/Butterfly) <!--stargazers:LinwoodCloud/Butterfly--> - Powerful note taking app and an alternative to OneNote by [CodeDoctorDE](https://github.com/CodeDoctorDE)
 
 ## [13. Awesome Programming for Kids](/content/HollyAdele/awesome-programming-for-kids/README.md)
 
@@ -119,13 +119,13 @@
 
 ### Plugins
 
-*   💼 [Dot & Grid Backgrounds (⭐7)](https://github.com/TheNaubit/tailwind-dot-grid-backgrounds) - Adds `bg-grid` and `bg-dot` classes to add easy-to-customize grid and dot pattern backgrounds with just CSS.
+*   💼 [Dot & Grid Backgrounds (⭐23)](https://github.com/TheNaubit/tailwind-dot-grid-backgrounds) - Adds `bg-grid` and `bg-dot` classes to add easy-to-customize grid and dot pattern backgrounds with just CSS.
 
 ## [15. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### Charts / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ng-apexcharts (⭐315)](https://github.com/apexcharts/ng-apexcharts) - Angular wrapper for ApexCharts to build interactive visualizations in Angular 7+.
+*   [ng-apexcharts (⭐338)](https://github.com/apexcharts/ng-apexcharts) - Angular wrapper for ApexCharts to build interactive visualizations in Angular 7+.
 
 ---
 

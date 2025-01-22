@@ -10,13 +10,13 @@
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [gardenctl (⭐0)](https://github.com/holgerkoser/gardenctl) - Tab completions for the [Gardener (⭐24)](https://github.com/gardener/gardenctl-v2) command-line interface, as well as some aliases for common gardenctl commands
+*   [gardenctl (⭐0)](https://github.com/holgerkoser/gardenctl) - Tab completions for the [Gardener (⭐31)](https://github.com/gardener/gardenctl-v2) command-line interface, as well as some aliases for common gardenctl commands
 
 ## [2. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### JSON
 
-*   [Sextant (⭐46)](https://github.com/KittyMac/Sextant) :penguin: - High performance JSONPath queries
+*   [Sextant (⭐50)](https://github.com/KittyMac/Sextant) :penguin: - High performance JSONPath queries
 
 ## [3. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
@@ -45,26 +45,26 @@
 
 ### Native / FPS
 
-*   [Darkest Hour (⭐64)](https://github.com/DarklightGames/DarkestHour) - World War 2 online multiplayer tactical shooter based on Red Orchestra: Ostfront.
-*   [Urban Terror (⭐76)](https://github.com/FrozenSand/UrbanTerror4) - Free multiplayer first person shooter that will run on any Quake III Arena compatible engine.
+*   [Darkest Hour (⭐70)](https://github.com/DarklightGames/DarkestHour) - World War 2 online multiplayer tactical shooter based on Red Orchestra: Ostfront.
+*   [Urban Terror (⭐77)](https://github.com/FrozenSand/UrbanTerror4) - Free multiplayer first person shooter that will run on any Quake III Arena compatible engine.
 
 ## [5. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Forms
 
-*   [httpin (⭐297)](https://github.com/ggicci/httpin) - Decode an HTTP request into a custom struct, including querystring, forms, HTTP headers, etc.
+*   [httpin (⭐331)](https://github.com/ggicci/httpin) - Decode an HTTP request into a custom struct, including querystring, forms, HTTP headers, etc.
 
 ## [6. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [vite-plugin-chunk-split (⭐328)](https://github.com/sanyuan0704/vite-plugin-chunk-split) - Automatically code splitting, support unbundle in production.
+*   [vite-plugin-chunk-split (⭐359)](https://github.com/sanyuan0704/vite-plugin-chunk-split) - Automatically code splitting, support unbundle in production.
 
 ## [7. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### System 1 & System 2 / Neural-Symbolic AI
 
-*   [Grounded Language Learning Fast and Slow](https://arxiv.org/pdf/2009.01719.pdf) - ***ICLR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=17735027444431750346\&hl=en\&as_sdt=0,5)]. \[[Project (⭐53)](https://github.com/deepmind/dm_fast_mapping?s=05)].
+*   [Grounded Language Learning Fast and Slow](https://arxiv.org/pdf/2009.01719.pdf) - ***ICLR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=17735027444431750346\&hl=en\&as_sdt=0,5)]. \[[Project (⭐54)](https://github.com/deepmind/dm_fast_mapping?s=05)].
 
 ---
 

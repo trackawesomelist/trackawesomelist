@@ -52,11 +52,11 @@
 
 ### Utility / Barcode
 
-*   [Solar (⭐561)](https://github.com/ceeK/Solar) - Calculate sunrise and sunset times given a location.
+*   [Solar (⭐566)](https://github.com/ceeK/Solar) - Calculate sunrise and sunset times given a location.
 
 ### Version Manager / Barcode
 
-*   [AppVersionMonitor (⭐259)](https://github.com/eure/AppVersionMonitor) - Monitor iOS app version easily.
+*   [AppVersionMonitor (⭐260)](https://github.com/eure/AppVersionMonitor) - Monitor iOS app version easily.
 *   [Version Tracker Swift (⭐88)](https://github.com/tbaranes/VersionTrackerSwift) - Versions tracker for your iOS, OS X, and tvOS app.
 
 ---

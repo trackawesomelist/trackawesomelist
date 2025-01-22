@@ -16,7 +16,7 @@
 
 ### Machine Learning / Preferences
 
-*   [m2cgen (⭐2.7k)](https://github.com/BayesWitnesses/m2cgen) <!--stargazers:BayesWitnesses/m2cgen--> - CLI tool to convert ML models into native Dart code by [BayesWitnesses](https://github.com/BayesWitnesses)
+*   [m2cgen (⭐2.8k)](https://github.com/BayesWitnesses/m2cgen) <!--stargazers:BayesWitnesses/m2cgen--> - CLI tool to convert ML models into native Dart code by [BayesWitnesses](https://github.com/BayesWitnesses)
 
 ## [3. Awesome Flask](/content/mjhea0/awesome-flask/README.md)
 
@@ -56,39 +56,39 @@
 
 ### Crates / Utils
 
-*   [Yewdux (⭐316)](https://github.com/intendednull/yewdux) - Redux-like state containers for Yew apps.
+*   [Yewdux (⭐325)](https://github.com/intendednull/yewdux) - Redux-like state containers for Yew apps.
 
 ## [9. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Debug
 
-*   [DebugViewPP (⭐987)](https://github.com/CobaltFusion/DebugViewPP) - Debug logging viewer. \[Boost]
+*   [DebugViewPP (⭐1.1k)](https://github.com/CobaltFusion/DebugViewPP) - Debug logging viewer. \[Boost]
 
 ## [10. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### API
 
-*   [CommandQuery (⭐105)](https://github.com/hlaueriksson/CommandQuery) - Command Query Separation for 🌐ASP.NET Core ⚡AWS Lambda ⚡Azure Functions ⚡Google Cloud Functions 🌐ASP.NET Web API 2
+*   [CommandQuery (⭐107)](https://github.com/hlaueriksson/CommandQuery) - Command Query Separation for 🌐ASP.NET Core ⚡AWS Lambda ⚡Azure Functions ⚡Google Cloud Functions 🌐ASP.NET Web API 2
 
 ### Application Frameworks
 
-*   [silky (⭐274)](https://github.com/liuhll/silky) - The Silky framework is designed to help developers quickly build a microservice development framework through simple code and configuration under the .net platform.
+*   [silky (⭐278)](https://github.com/liuhll/silky) - The Silky framework is designed to help developers quickly build a microservice development framework through simple code and configuration under the .net platform.
 
 ### Blazor
 
-*   [ant-design-blazor (⭐5.7k)](https://github.com/ant-design-blazor/ant-design-blazor) - A set of enterprise-class UI components based on Ant Design and Blazor WebAssembly.
+*   [ant-design-blazor (⭐5.9k)](https://github.com/ant-design-blazor/ant-design-blazor) - A set of enterprise-class UI components based on Ant Design and Blazor WebAssembly.
 
 ### CLI
 
-*   [Typin (⭐243)](https://github.com/adambajguz/Typin) - Simple to use declarative framework for interactive CLI applications and command line tools (direct mode) that has its roots in CliFx.
+*   [Typin (⭐246)](https://github.com/adambajguz/Typin) - Simple to use declarative framework for interactive CLI applications and command line tools (direct mode) that has its roots in CliFx.
 
 ### Distributed Computing
 
-*   [.NEXT Raft (⭐1.6k)](https://github.com/dotnet/dotNext) - Raft implementation for .NET and ASP.NET Core that allows to build clustered microservices powered by distributed consensus and replication
+*   [.NEXT Raft (⭐1.7k)](https://github.com/dotnet/dotNext) - Raft implementation for .NET and ASP.NET Core that allows to build clustered microservices powered by distributed consensus and replication
 
 ### E-Commerce and Payments
 
-*   [Adyen (⭐105)](https://github.com/Adyen/adyen-dotnet-api-library) - The official Adyen Payment API Library for .NET
+*   [Adyen (⭐110)](https://github.com/Adyen/adyen-dotnet-api-library) - The official Adyen Payment API Library for .NET
 
 ### Graphics
 
@@ -96,36 +96,36 @@
 
 ### Image Processing
 
-*   [ColorHelper (⭐64)](https://github.com/iamartyom/ColorHelper) - Useful methods for work with colors.
+*   [ColorHelper (⭐69)](https://github.com/iamartyom/ColorHelper) - Useful methods for work with colors.
 
 ### Interactive programming
 
-*   [.NET Interactive (⭐2.8k)](https://github.com/dotnet/interactive) - .NET Interactive takes the power of .NET and embeds it into your interactive experiences.
+*   [.NET Interactive (⭐3k)](https://github.com/dotnet/interactive) - .NET Interactive takes the power of .NET and embeds it into your interactive experiences.
 
 ### Mathematics
 
-*   [AngouriMath (⭐772)](https://github.com/asc-community/AngouriMath) - An open-source symbolic/computer algebra library, made primarily for C# and F#. It covers a range of features and might be considered as an alternative to SymPy in .NET.
+*   [AngouriMath (⭐791)](https://github.com/asc-community/AngouriMath) - An open-source symbolic/computer algebra library, made primarily for C# and F#. It covers a range of features and might be considered as an alternative to SymPy in .NET.
 
 ### Misc
 
-*   [LINQPad.QueryPlanVisualizer (⭐396)](https://github.com/Giorgi/LINQPad.QueryPlanVisualizer/)  - View SQL Server and Postgres query plans directly inside LINQPad.
+*   [LINQPad.QueryPlanVisualizer (⭐406)](https://github.com/Giorgi/LINQPad.QueryPlanVisualizer/)  - View SQL Server and Postgres query plans directly inside LINQPad.
 
 ### MVVM
 
-*   [EBind (⭐161)](https://github.com/SIDOVSKY/EBind) - A concise, fast and feature-rich .NET data binding solution.
+*   [EBind (⭐163)](https://github.com/SIDOVSKY/EBind) - A concise, fast and feature-rich .NET data binding solution.
 
 ### Networking
 
-*   [SharpPcap (⭐1.3k)](https://github.com/chmorgan/sharppcap) - Fully managed, cross platform (Windows, Mac, Linux) .NET library for capturing packets from live and file based devices.
+*   [SharpPcap (⭐1.4k)](https://github.com/chmorgan/sharppcap) - Fully managed, cross platform (Windows, Mac, Linux) .NET library for capturing packets from live and file based devices.
 
 ### Office
 
-*   [ShapeCrawler (⭐266)](https://github.com/ShapeCrawler/ShapeCrawler) - A fluent API for the processing of PowerPoint presentations without Microsoft Office installed.
-*   [MiniExcel (⭐2.6k)](https://github.com/shps951023/MiniExcel) - A micro Excel helper avoids OOM and high performance to create/mapping/template-fill-data.
+*   [ShapeCrawler (⭐319)](https://github.com/ShapeCrawler/ShapeCrawler) - A fluent API for the processing of PowerPoint presentations without Microsoft Office installed.
+*   [MiniExcel (⭐2.9k)](https://github.com/shps951023/MiniExcel) - A micro Excel helper avoids OOM and high performance to create/mapping/template-fill-data.
 
 ### ORM
 
-*   [FreeSql (⭐4.1k)](https:/github.com/dotnetcore/FreeSql) - a convenient ORM in dotnet, supports MySql, SqlServer, PostgreSQL, Oracle, Sqlite, Firebird, 达梦, 人大金仓, 神舟通用, 翰高 and Access.
+*   [FreeSql (⭐4.2k)](https:/github.com/dotnetcore/FreeSql) - a convenient ORM in dotnet, supports MySql, SqlServer, PostgreSQL, Oracle, Sqlite, Firebird, 达梦, 人大金仓, 神舟通用, 翰高 and Access.
 
 ### PDF
 
@@ -146,8 +146,8 @@
 
 ### Testing
 
-*   [BDTest (⭐71)](https://github.com/thomhurst/BDTest/wiki) - A behaviour driven testing and reporting framework!
-*   [CsCheck (⭐142)](https://github.com/AnthonyLloyd/CsCheck) - Random testing library for C#. Including concurrency, causal profiling, regression and performance testing.
+*   [BDTest (⭐82)](https://github.com/thomhurst/BDTest/wiki) - A behaviour driven testing and reporting framework!
+*   [CsCheck (⭐169)](https://github.com/AnthonyLloyd/CsCheck) - Random testing library for C#. Including concurrency, causal profiling, regression and performance testing.
 
 ### Tools
 
@@ -157,9 +157,9 @@
 
 *   [Tabs Studio](https://tabsstudio.com/) - Visual Studio tab manager with multiple tab rows, tab coloring and tab grouping. **\[$]**
 *   [ViEmu](http://www.viemu.com/) - very powerful Vi/vim emulator for Visual Studio supporting all basic and many advanced features of vi/vim. **\[$]**
-*   [Roslynator (⭐3k)](https://github.com/JosefPihrt/Roslynator) - A collection of 500+ analyzers, refactorings and fixes for C#, powered by Roslyn
-*   [Unchase.Odata.Connectedservice (⭐43)](https://github.com/unchase/Unchase.Odata.Connectedservice) - A Visual Studio Connected Service for generating API client code in C# or VB for OData web service.
-*   [Unchase.OpenAPI.Connectedservice (⭐107)](https://github.com/unchase/Unchase.OpenAPI.Connectedservice) - A Visual Studio 2017/2019 extension to generate C# (TypeScript) HttpClient (or C# Controllers) code for OpenAPI web service with [NSwag (⭐6.7k)](https://github.com/RicoSuter/NSwag).
+*   [Roslynator (⭐3.1k)](https://github.com/JosefPihrt/Roslynator) - A collection of 500+ analyzers, refactorings and fixes for C#, powered by Roslyn
+*   [Unchase.Odata.Connectedservice (⭐45)](https://github.com/unchase/Unchase.Odata.Connectedservice) - A Visual Studio Connected Service for generating API client code in C# or VB for OData web service.
+*   [Unchase.OpenAPI.Connectedservice (⭐108)](https://github.com/unchase/Unchase.OpenAPI.Connectedservice) - A Visual Studio 2017/2019 extension to generate C# (TypeScript) HttpClient (or C# Controllers) code for OpenAPI web service with [NSwag (⭐6.9k)](https://github.com/RicoSuter/NSwag).
 
 ---
 

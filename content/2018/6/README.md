@@ -391,7 +391,7 @@ Webpage: <https://edinburghhacklab.com/>
 
 ### Miscellaneous
 
-*   [Vert.x Boot (⭐44)](https://github.com/jponge/vertx-boot) - Deploying verticles from a HOCON configuration.
+*   [Vert.x Boot (⭐43)](https://github.com/jponge/vertx-boot) - Deploying verticles from a HOCON configuration.
 
 ## [27. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
 
@@ -418,7 +418,7 @@ Webpage: <https://edinburghhacklab.com/>
 
 ### R / General-Purpose Machine Learning
 
-*   [CatBoost (⭐7.9k)](https://github.com/catboost/catboost) - General purpose gradient boosting on decision trees library with categorical features support out of the box for R.
+*   [CatBoost (⭐8.1k)](https://github.com/catboost/catboost) - General purpose gradient boosting on decision trees library with categorical features support out of the box for R.
 
 ### JavaScript / General-Purpose Machine Learning
 
@@ -426,11 +426,11 @@ Webpage: <https://edinburghhacklab.com/>
 
 ### Python / Data Analysis / Data Visualization
 
-*   [lime (⭐11k)](https://github.com/marcotcr/lime) - Lime is about explaining what machine learning classifiers (or models) are doing. It is able to explain any black box classifier, with two or more classes.
+*   [lime (⭐12k)](https://github.com/marcotcr/lime) - Lime is about explaining what machine learning classifiers (or models) are doing. It is able to explain any black box classifier, with two or more classes.
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
-*   [Introduction to Machine Learning with Python (⭐7.3k)](https://github.com/amueller/introduction_to_ml_with_python) - Notebooks and code for the book "Introduction to Machine Learning with Python"
+*   [Introduction to Machine Learning with Python (⭐7.5k)](https://github.com/amueller/introduction_to_ml_with_python) - Notebooks and code for the book "Introduction to Machine Learning with Python"
 *   [Pydata book (⭐22k)](https://github.com/wesm/pydata-book) - Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney, published by O'Reilly Media
 
 ## [30. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
@@ -449,10 +449,6 @@ Webpage: <https://edinburghhacklab.com/>
 
 *   [Crypto Jobs List](https://cryptojobslist.com/remote) - #1 job board to find and post crypto, bitcoin and blockchain jobs.
 *   [Cryptocurrency Jobs](https://cryptocurrencyjobs.co/remote/) - Location filter -> *Remote*
-
-### Companies with "remote DNA"
-
-*   [Baselayer](https://www.baselayer.com/company/careers/) - Data center and infrastructure management software.
 
 ## [32. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
@@ -505,7 +501,7 @@ Webpage: <https://edinburghhacklab.com/>
 
 ### Miscellaneous
 
-*   [dufy (⭐43)](https://github.com/privet-kitty/dufy) - exact color manipulation and conversion in various color models. [MIT](https://opensource.org/licenses/MIT).
+*   [dufy (⭐44)](https://github.com/privet-kitty/dufy) - exact color manipulation and conversion in various color models. [MIT](https://opensource.org/licenses/MIT).
 
 ## [37. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
@@ -526,8 +522,8 @@ Webpage: <https://edinburghhacklab.com/>
 
 ### Database
 
-*   [SQLiteC++ (⭐2.2k)](https://github.com/SRombauts/SQLiteCpp) - SQLiteC++ (SQLiteCpp) is a smart and easy to use C++ SQLite3 wrapper. \[MIT]
-*   [sqlite\_modern\_cpp (⭐882)](https://github.com/SqliteModernCpp/sqlite_modern_cpp) - Header only C++14 wrapper around sqlite library. \[MIT]
+*   [SQLiteC++ (⭐2.3k)](https://github.com/SRombauts/SQLiteCpp) - SQLiteC++ (SQLiteCpp) is a smart and easy to use C++ SQLite3 wrapper. \[MIT]
+*   [sqlite\_modern\_cpp (⭐906)](https://github.com/SqliteModernCpp/sqlite_modern_cpp) - Header only C++14 wrapper around sqlite library. \[MIT]
 
 ## [39. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
 
@@ -605,7 +601,7 @@ Webpage: <https://edinburghhacklab.com/>
 
 ### Examples / Templates
 
-*   [cpp-boilerplate (⭐271)](https://github.com/Lectem/cpp-boilerplate) - Template that aims to be a reference for modern CMake and CI. [`[MIT]`](https://opensource.org/licenses/MIT)
+*   [cpp-boilerplate (⭐312)](https://github.com/Lectem/cpp-boilerplate) - Template that aims to be a reference for modern CMake and CI. [`[MIT]`](https://opensource.org/licenses/MIT)
 
 ## [44. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
@@ -623,8 +619,8 @@ Webpage: <https://edinburghhacklab.com/>
 
 ### API Gateway / Symfony2
 
-*   [Kong (⭐39k)](https://github.com/Kong/kong) - Scalable, distributed, and plugin oriented API gateway backed by Nginx.
-*   [Tyk API Gateway (⭐9.5k)](https://github.com/TykTechnologies/tyk) - Lightweight API gateway with analytics logging, written in Go.
+*   [Kong (⭐40k)](https://github.com/Kong/kong) - Scalable, distributed, and plugin oriented API gateway backed by Nginx.
+*   [Tyk API Gateway (⭐9.8k)](https://github.com/TykTechnologies/tyk) - Lightweight API gateway with analytics logging, written in Go.
 *   [API Umbrella (⭐2k)](https://github.com/NREL/api-umbrella) - API management platform for exposing web services, with web interface and analytics, written in Lua.
 
 ### SaaS Tools / Symfony2
@@ -650,14 +646,6 @@ Webpage: <https://edinburghhacklab.com/>
 ### Resources / Books
 
 *   [Mastering Vue.js](https://masteringvuejs.com) by Oleksandr Kocherhin. (January 2018)
-
-### Projects Using Vue.js / Open Source
-
-*   [Pomotroid (⭐4.2k)](https://github.com/Splode/pomotroid) - Simple, visually-pleasing and customizable Pomodoro timer.
-
-### Components & Libraries / Utilities
-
-*   [vue-jsx-sync (⭐11)](https://github.com/njleonzhang/babel-plugin-vue-jsx-sync) - A Babel plugin that brings vue `sync modifier` to JSX.
 
 ---
 

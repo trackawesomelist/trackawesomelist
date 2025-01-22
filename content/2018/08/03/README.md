@@ -21,7 +21,7 @@
 
 ### Tools
 
-*   [gatsby-plugin-ipfs (⭐113)](https://github.com/moxystudio/gatsby-plugin-ipfs) - Adds support for deploying Gatsby websites to IPFS by ensuring that assets are relative.
+*   [gatsby-plugin-ipfs (⭐115)](https://github.com/moxystudio/gatsby-plugin-ipfs) - Adds support for deploying Gatsby websites to IPFS by ensuring that assets are relative.
 
 ## [3. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
@@ -43,7 +43,7 @@
 
 ### Concurrency
 
-*   [transwarp (⭐621)](https://github.com/bloomen/transwarp) - A header-only C++ library for task concurrency. \[MIT]
+*   [transwarp (⭐624)](https://github.com/bloomen/transwarp) - A header-only C++ library for task concurrency. \[MIT]
 
 ## [6. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 

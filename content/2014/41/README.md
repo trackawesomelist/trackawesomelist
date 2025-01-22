@@ -12,10 +12,6 @@
 
 *   [jsDelivr](http://www.jsdelivr.com/)
 
-### JavaScript
-
-*   [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
-
 ### Pagespeed
 
 *   [Modern IE Reporting tool](https://www.modern.ie/en-us/report)
@@ -42,14 +38,14 @@
 
 ### JSON
 
-*   [Jansson (⭐3k)](https://github.com/akheron/jansson) - C library for encoding, decoding and manipulating JSON data. \[MIT]
+*   [Jansson (⭐3.1k)](https://github.com/akheron/jansson) - C library for encoding, decoding and manipulating JSON data. \[MIT]
 *   [jbson (⭐38)](https://github.com/chrismanning/jbson) - jbson is a library for building & iterating BSON data, and JSON documents in C++14. \[Boost]
-*   [JeayeSON (⭐130)](https://github.com/jeaye/jeayeson) - A very sane (header only) C++ JSON library. \[BSD]
-*   [JSON++ (⭐538)](https://github.com/hjiang/jsonxx) - A JSON parser in C++. \[MIT]
-*   [json11 (⭐2.5k)](https://github.com/dropbox/json11) - A tiny JSON library for C++11. \[MIT]
-*   [libjson (⭐275)](https://github.com/vincenthz/libjson) - A JSON parser and printer library in C. easy to integrate with any model. \[LGPL]
+*   [JeayeSON (⭐132)](https://github.com/jeaye/jeayeson) - A very sane (header only) C++ JSON library. \[BSD]
+*   [JSON++ (⭐540)](https://github.com/hjiang/jsonxx) - A JSON parser in C++. \[MIT]
+*   [json11 (⭐2.6k)](https://github.com/dropbox/json11) - A tiny JSON library for C++11. \[MIT]
+*   [libjson (⭐282)](https://github.com/vincenthz/libjson) - A JSON parser and printer library in C. easy to integrate with any model. \[LGPL]
 *   [PicoJSON (⭐1.1k)](https://github.com/kazuho/picojson) - A header-file-only, JSON parser serializer in C++. \[BSD]
-*   [qt-json (⭐327)](https://github.com/gaudecker/qt-json) - A simple class for parsing JSON data into a QVariant hierarchy and vice versa. \[GPLv3]
+*   [qt-json (⭐329)](https://github.com/gaudecker/qt-json) - A simple class for parsing JSON data into a QVariant hierarchy and vice versa. \[GPLv3]
 
 ### Networking
 
@@ -57,7 +53,7 @@
 
 ### Serialization
 
-*   [FlatBuffers (⭐23k)](https://github.com/google/flatbuffers) - A Memory efficient serialization library. \[Apache2]
+*   [FlatBuffers (⭐24k)](https://github.com/google/flatbuffers) - A Memory efficient serialization library. \[Apache2]
 
 ### Talks
 
@@ -79,8 +75,8 @@
 
 ### Other Awesome Projects
 
-*   [lists (⭐9.8k)](https://github.com/jnv/lists) - List of (awesome) lists curated on GitHub.
-*   [free-programming-books (⭐332k)](https://github.com/vhf/free-programming-books) - List of Freely Available Programming Books.
+*   [lists (⭐10k)](https://github.com/jnv/lists) - List of (awesome) lists curated on GitHub.
+*   [free-programming-books (⭐348k)](https://github.com/vhf/free-programming-books) - List of Freely Available Programming Books.
 
 ## [4. Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/week/README.md)
 
@@ -105,7 +101,7 @@
 ### API / Runner
 
 *   [amygdala (⭐393)](https://github.com/lincolnloop/amygdala) - RESTful HTTP client for JavaScript powered web applications.
-*   [jquery.rest (⭐615)](https://github.com/jpillora/jquery.rest) - A jQuery plugin for easy consumption of RESTful APIs.
+*   [jquery.rest (⭐614)](https://github.com/jpillora/jquery.rest) - A jQuery plugin for easy consumption of RESTful APIs.
 
 ### Sliders / Runner
 
@@ -119,7 +115,7 @@
 
 ### Packages / Natural language processing
 
-*   [franc (⭐4.1k)](https://github.com/wooorm/franc) - Detect the language of text.
+*   [franc (⭐4.2k)](https://github.com/wooorm/franc) - Detect the language of text.
 
 ## [9. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 

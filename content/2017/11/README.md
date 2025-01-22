@@ -23,7 +23,7 @@
 
 ### Applications / Themes
 
-*   [Productivity Application (⭐245)](https://github.com/dhruv-kumar-jha/productivity-frontend) - Kanban style, Trello inspired Productivity application built using React, Ant Design and other fantastic modules.
+*   [Productivity Application (⭐249)](https://github.com/dhruv-kumar-jha/productivity-frontend) - Kanban style, Trello inspired Productivity application built using React, Ant Design and other fantastic modules.
 
 ## [4. Awesome Ssh](/content/moul/awesome-ssh/week/README.md)
 
@@ -227,7 +227,7 @@
 
 ### Miscellaneous
 
-*   [{fmt} (⭐20k)](https://github.com/fmtlib/fmt) :zap: - Small, safe and fast formatting library for C++. \[Simplified BSD] [website](https://fmt.dev)
+*   [{fmt} (⭐21k)](https://github.com/fmtlib/fmt) :zap: - Small, safe and fast formatting library for C++. \[Simplified BSD] [website](https://fmt.dev)
 
 ## [14. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
@@ -279,7 +279,7 @@
 ### ORM/ODM Extensions
 
 *   Multi-tenancy
-    *   [Acts As Tennant (⭐1.5k)](https://github.com/ErwinM/acts_as_tenant) - Add multi-tenancy to a Rails app through a shared database strategy.
+    *   [Acts As Tennant (⭐1.6k)](https://github.com/ErwinM/acts_as_tenant) - Add multi-tenancy to a Rails app through a shared database strategy.
     *   [Apartment (⭐2.7k)](https://github.com/influitive/apartment) - Multi-tenancy for Rails and ActiveRecord.
     *   [Milia (⭐341)](https://github.com/jekuno/milia) - Non-invasive multi-tenancy for Rails which supports Devise authentication out of the box.
 
@@ -315,7 +315,7 @@
 
 ### Packages / Parsing
 
-*   [xlsx-populate (⭐943)](https://github.com/dtjohnson/xlsx-populate) - Read/write Excel XLSX.
+*   [xlsx-populate (⭐959)](https://github.com/dtjohnson/xlsx-populate) - Read/write Excel XLSX.
 
 ## [27. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
@@ -331,7 +331,7 @@
 
 ### Table of Contents / Authentication and Authorization
 
-*   [SocialConnect Auth (⭐548)](https://github.com/socialConnect/auth) - An open source social sign (OAuth1\OAuth2\OpenID\OpenIDConnect).
+*   [SocialConnect Auth (⭐550)](https://github.com/socialConnect/auth) - An open source social sign (OAuth1\OAuth2\OpenID\OpenIDConnect).
 *   [TwitterOAuth (⭐4.3k)](https://github.com/abraham/twitteroauth) - A Twitter OAuth library.
 
 ## [29. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
@@ -352,13 +352,13 @@
 
 ### Images, Maps and Charts / Paid Books
 
-*   [Chart.js (⭐59k)](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the \<canvas> tag.
-*   [Owl Carousel 2 (⭐7.7k)](https://github.com/OwlCarousel2/OwlCarousel2) - Responsive carousel slider.
+*   [Chart.js (⭐65k)](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the \<canvas> tag.
+*   [Owl Carousel 2 (⭐7.9k)](https://github.com/OwlCarousel2/OwlCarousel2) - Responsive carousel slider.
 *   [Peity (⭐4.2k)](https://github.com/benpickles/peity) - Progressive \<svg> pie, donut, bar and line charts.
 
 ### Modals and Popups / Paid Books
 
-*   [Lightbox (⭐5.7k)](https://github.com/lokesh/lightbox2/) - JavaScript library used to overlay images on top of the current page.
+*   [Lightbox (⭐6.2k)](https://github.com/lokesh/lightbox2/) - JavaScript library used to overlay images on top of the current page.
 
 ### Miscellaneous Plugins / Paid Books
 
@@ -622,19 +622,19 @@
 
 ### Others / Others
 
-*   [Remote Working (⭐9.7k)](https://github.com/greatghoul/remote-working) - A list of remote working resources for Chinese.
+*   [Remote Working (⭐10k)](https://github.com/greatghoul/remote-working) - A list of remote working resources for Chinese.
 
 ## [42. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Logging
 
-*   [timber (⭐215)](https://github.com/timberio/timber-elixir) - Structured logging platform; turns raw text logs into rich structured events.
+*   [timber (⭐214)](https://github.com/timberio/timber-elixir) - Structured logging platform; turns raw text logs into rich structured events.
 
 ## [43. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
 ### Examples
 
-*   [Vert.x Gentics Mesh Example (⭐16)](https://github.com/gentics/mesh-vertx-example) - Example on how to build a template-based web server with Gentics Mesh and handlebars.
+*   [Vert.x Gentics Mesh Example (⭐17)](https://github.com/gentics/mesh-vertx-example) - Example on how to build a template-based web server with Gentics Mesh and handlebars.
 
 ## [44. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
@@ -650,14 +650,14 @@
 
 ### Libraries
 
-*   [FPO.js (⭐449)](https://github.com/getify/fpo) – FP library for JavaScript by Kyle Simpson (aka getify). Supports named-argument style methods.
+*   [FPO.js (⭐447)](https://github.com/getify/fpo) – FP library for JavaScript by Kyle Simpson (aka getify). Supports named-argument style methods.
 
 ## [46. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Articles • Tutorials / Other
 
 *   [Particle Physics](https://www.khanacademy.org/partner-content/pixar/effects/particle-physics/a/start-here-fx) - Particle physics explained.
-*   [Adventures in Game Development World](http://ruh.li/) - Easy to understand collection of articles on game developement, but relevant to creative coding as well.
+*   [Adventures in Game Development World](http://ruh.li/) - Easy to understand collection of articles on game development, but relevant to creative coding as well.
 
 ---
 

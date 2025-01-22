@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 18, 2017
 
-18 awesome lists updated today.
+17 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -51,38 +51,32 @@
 
 *   [Drup's Thingies](https://drup.github.io/)
 
-## [7. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
-
-### Companies with "remote DNA"
-
-*   [Aurity](https://www.aurity.co/) - 100% remote company, specializing in React and React Native.
-
-## [8. Awesome H2o](/content/h2oai/awesome-h2o/README.md)
+## [7. Awesome H2o](/content/h2oai/awesome-h2o/README.md)
 
 ### Blog Posts & Tutorials
 
 *   [Sales Analytics: How to use machine learning to predict and optimize product backorders](http://www.business-science.io/business/2017/10/16/sales_backorder_prediction.html) Oct 16, 2017
 
-## [9. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
+## [8. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
 
 ### Libraries
 
-*   [Lattice (⭐519)](https://github.com/tensorflow/lattice) - Implementation of Monotonic Calibrated Interpolated Look-Up Tables in TensorFlow
+*   [Lattice (⭐518)](https://github.com/tensorflow/lattice) - Implementation of Monotonic Calibrated Interpolated Look-Up Tables in TensorFlow
 *   [TensorForce (⭐3.3k)](https://github.com/reinforceio/tensorforce) - TensorForce: A TensorFlow library for applied reinforcement learning
 
-## [10. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
+## [9. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
 
 ### Websites
 
 *   [Python Security](http://www.pythoncarsecurity.com/) - A website for browsing and buying python-integrated cars having certain vehicular security features.
 
-## [11. Awesome Choo](/content/choojs/awesome-choo/README.md)
+## [10. Awesome Choo](/content/choojs/awesome-choo/README.md)
 
 ### Contents / Demos
 
 *   [choo-scriber](https://zhouhansen.github.io/choo-scriber) - ([repo (⭐6)](https://github.com/ZhouHansen/choo-scriber))
 
-## [12. Awesome Devenv](/content/jondot/awesome-devenv/README.md)
+## [11. Awesome Devenv](/content/jondot/awesome-devenv/README.md)
 
 ### Vim
 
@@ -92,39 +86,37 @@
 
 *   [ergo (⭐540)](https://github.com/cristianoliveira/ergo) - The management of multiple local services running over different ports made easy.
 
-## [13. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [12. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### JavaScript / General-Purpose Machine Learning
 
 *   [JSMLT (⭐25)](https://github.com/jsmlt/jsmlt) - Machine learning toolkit with classification and clustering for Node.js; supports visualization (see [visualml.io](https://visualml.io)).
 
-## [14. Awesome Android](/content/JStumpp/awesome-android/README.md)
+## [13. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
 ### Other / Custom Dialog
 
 *   [Agile Boiler Plate (⭐45)](https://github.com/xresco/Android-Agile-Boiler-Plate) - The boiler plate is based on MVP architecture and it is fully based on Dependency Injection design pattern using Dagger2.
 
-## [15. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [14. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Projects Using Vue.js / Open Source
 
-*   [TidyTab (⭐69)](https://github.com/eggplanetio/tidytab) - A Chrome extension for tidying up those tabs.
 *   [peregrine-cms (⭐52)](https://github.com/headwirecom/peregrine-cms) - A Vue.js and Apache Sling based head-optional CMS
-*   [concept-to-clinic (⭐367)](https://github.com/concept-to-clinic/concept-to-clinic) - Lung cancer prediction project with Vue.js interface
 
-## [16. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [15. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Third-party APIs
 
 *   [mixpanel-crystal (⭐0)](https://github.com/petoem/mixpanel-crystal) - A library for sending events to Mixpanel
 
-## [17. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+## [16. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
 ### Companies / U companies
 
 *   UpGrad <https://engineering.upgrad.com>
 
-## [18. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
+## [17. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 
 ### Debugging and Reverse Engineering / Other Resources
 

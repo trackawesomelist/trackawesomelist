@@ -20,21 +20,21 @@
 
 ### Parallel computing / XML
 
-*   [DCompute (⭐131)](https://github.com/libmir/dcompute) - [GPGPU with Native D for OpenCL and CUDA](https://dlang.org/blog/2017/07/17/dcompute-gpgpu-with-native-d-for-opencl-and-cuda/)
+*   [DCompute (⭐134)](https://github.com/libmir/dcompute) - [GPGPU with Native D for OpenCL and CUDA](https://dlang.org/blog/2017/07/17/dcompute-gpgpu-with-native-d-for-opencl-and-cuda/)
 *   [DerelictCUDA (⭐17)](https://github.com/DerelictOrg/DerelictCUDA) - Dynamic bindings to the CUDA library for the D Programming Language.
-*   [DerelictCL (⭐8)](https://github.com/DerelictOrg/DerelictCL) - Dynamic bindings to the OpenCL library for the D Programming Language.
+*   [DerelictCL (⭐7)](https://github.com/DerelictOrg/DerelictCL) - Dynamic bindings to the OpenCL library for the D Programming Language.
 
 ## [3. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Testing
 
-*   [mockery (⭐91)](https://github.com/appunite/mockery) - Simple mocking library for asynchronous testing.
+*   [mockery (⭐92)](https://github.com/appunite/mockery) - Simple mocking library for asynchronous testing.
 
 ## [4. Awesome Rest](/content/marmelab/awesome-rest/README.md)
 
 ### Design
 
-*   [API-Security-Checklist (⭐22k)](https://github.com/shieldfy/API-Security-Checklist) - Best practices about REST API security
+*   [API-Security-Checklist (⭐23k)](https://github.com/shieldfy/API-Security-Checklist) - Best practices about REST API security
 
 ## [5. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
@@ -52,8 +52,8 @@
 
 ### Tools
 
-*   [AWX (⭐13k)](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is the upstream project for Automation Controller, a commercial derivative of AWX.
-*   [Ansible cmdb (⭐2.3k)](https://github.com/fboender/ansible-cmdb) - Takes the output of Ansible's fact gathering and converts it into a static HTML page.
+*   [AWX (⭐14k)](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is the upstream project for Automation Controller, a commercial derivative of AWX.
+*   [Ansible cmdb (⭐2.4k)](https://github.com/fboender/ansible-cmdb) - Takes the output of Ansible's fact gathering and converts it into a static HTML page.
 
 ### Blog posts and opinions
 
@@ -95,13 +95,13 @@
 
 ### Math
 
-*   [OpenBLAS (⭐6.2k)](https://github.com/xianyi/OpenBLAS) - An optimized BLAS library based on GotoBLAS2 1.13 BSD version. \[BSD 3-clause] [website](http://www.openblas.net/)
+*   [OpenBLAS (⭐6.5k)](https://github.com/xianyi/OpenBLAS) - An optimized BLAS library based on GotoBLAS2 1.13 BSD version. \[BSD 3-clause] [website](http://www.openblas.net/)
 
 ## [13. Android Security Awesome](/content/ashishb/android-security-awesome/README.md)
 
 ### Exploits/Vulnerabilities/Bugs / How to report Security issues
 
-*   [Android Reports and Resources (⭐1.4k)](https://github.com/B3nac/Android-Reports-and-Resources) - List of Android Hackerone disclosed reports and other resources
+*   [Android Reports and Resources (⭐1.5k)](https://github.com/B3nac/Android-Reports-and-Resources) - List of Android Hackerone disclosed reports and other resources
 
 ## [14. Awesome Uncopyright](/content/johnjago/awesome-uncopyright/README.md)
 

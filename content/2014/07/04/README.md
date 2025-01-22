@@ -18,7 +18,7 @@
 
 *   [peity (⭐4.2k)](https://github.com/benpickles/peity) - Progressive <svg> bar, line and pie charts.
 *   [raphael (⭐11k)](https://github.com/DmitryBaranovskiy/raphael) - JavaScript Vector Library.
-*   [two.js (⭐8.2k)](https://github.com/jonobr1/two.js) - A renderer agnostic two-dimensional drawing api for the web.
+*   [two.js (⭐8.3k)](https://github.com/jonobr1/two.js) - A renderer agnostic two-dimensional drawing api for the web.
 *   [g.raphael (⭐1.5k)](https://github.com/DmitryBaranovskiy/g.raphael) - Charts for Raphaël.
 *   [sigma.js (⭐11k)](https://github.com/jacomyal/sigma.js) - A JavaScript library dedicated to graph drawing.
 *   [arbor (⭐2.7k)](https://github.com/samizdatco/arbor) - A graph visualization library using web workers and jQuery.

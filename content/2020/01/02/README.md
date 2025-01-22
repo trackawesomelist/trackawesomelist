@@ -16,7 +16,7 @@
 
 ### Tools
 
-*   [hash-set (⭐16)](https://github.com/samebchase/hash-set/) - a convenience library implementing hash sets on top of CL hash tables [The Unlicense](http://unlicense.org/)
+*   [hash-set (⭐17)](https://github.com/samebchase/hash-set/) - a convenience library implementing hash sets on top of CL hash tables [The Unlicense](http://unlicense.org/)
 *   [cl-containers](https://common-lisp.net/project/cl-containers/) - an extensive library of data structures and utilities - queues, trees, heaps, doubly-linked lists, sets, bags,... [MIT](https://opensource.org/licenses/MIT)
 
 ## [3. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
@@ -29,7 +29,7 @@
 
 ### Software / Groupware
 
-*   [Corteza](https://cortezaproject.org) - CRM including a unified workspace, enterprise messaging and a low code environment for rapidly and securely delivering records-based management solutions. ([Demo](https://latest.cortezaproject.org), [Source Code (⭐1.5k)](https://github.com/cortezaproject/corteza)) `Apache-2.0` `Go`
+*   [Corteza](https://cortezaproject.org) - CRM including a unified workspace, enterprise messaging and a low code environment for rapidly and securely delivering records-based management solutions. ([Demo](https://latest.cortezaproject.org), [Source Code (⭐1.7k)](https://github.com/cortezaproject/corteza)) `Apache-2.0` `Go`
 
 ## [5. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/README.md)
 

@@ -10,13 +10,13 @@
 
 ### Applications / Productivity
 
-*   [illacloud/illa (⭐230)](https://github.com/illacloud/illa) \[[ILLA Cloud](https://illacloud.com)] - Low-code internal tool builder.
+*   [illacloud/illa (⭐244)](https://github.com/illacloud/illa) \[[ILLA Cloud](https://www.illacloud.com/)] - Low-code internal tool builder.
 
 ## [2. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### Related Awesome Lists / Deforum
 
-*   [KangweiiLiu/Awesome\_Audio-driven\_Talking-Face-Generation (⭐120)](https://github.com/KangweiiLiu/Awesome_Audio-driven_Talking-Face-Generation): A curated list of resources of audio-driven talking face generation
+*   [KangweiiLiu/Awesome\_Audio-driven\_Talking-Face-Generation (⭐139)](https://github.com/KangweiiLiu/Awesome_Audio-driven_Talking-Face-Generation): A curated list of resources of audio-driven talking face generation
 
 ## [3. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
 
@@ -38,13 +38,13 @@
 
 ### DevOps / Apache License
 
-*   [powerjoular (⭐54)](https://github.com/joular/powerjoular) - PowerJoular allows monitoring power consumption of multiple platforms and processes.
+*   [powerjoular (⭐72)](https://github.com/joular/powerjoular) - PowerJoular allows monitoring power consumption of multiple platforms and processes.
 
 ## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Audio
 
-*   [audioFlux (⭐2.7k)](https://github.com/libAudioFlux/audioFlux) - A C library for audio and music analysis, feature extraction. \[MIT]
+*   [audioFlux (⭐3k)](https://github.com/libAudioFlux/audioFlux) - A C library for audio and music analysis, feature extraction. \[MIT]
 
 ### JSON
 

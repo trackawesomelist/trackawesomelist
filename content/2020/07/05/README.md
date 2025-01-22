@@ -1,39 +1,35 @@
 # Awesome List Updates on Jul 05, 2020
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
-
-### Boilerplates
-
-*   [Devii (⭐496)](https://github.com/vriad/devii) - A Medium-inspired dev blog starter built with Next.js, React, and TypeScript, with Markdown rendering, syntax highlighting, SEO/meta tags, and RSS feed generation out of the box.
-
-## [2. Awesome Calculators](/content/xxczaki/awesome-calculators/README.md)
-
-### Calculator apps: / Web
-
-*   [Clcalc.net](https://clcalc.net/) - Open-Source command-line style arbitrary precision calculator with mathematical, scientific, programming functions and more.
-
-## [3. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
-
-### Packages / Text
-
-*   [StegCloak (⭐3.2k)](https://github.com/kurolabs/stegcloak) - Conceal secrets within strings, in plain sight.
-
-## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [1. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Monitoring
 
 *   [nixstats.com](https://nixstats.com) - Free for one server. E-Mail Notifications, public status page, 60-second interval, and more.
 *   [uptimetoolbox.com](https://uptimetoolbox.com/) — Free monitoring for five websites, 60-second intervals, public statuspage.
 
-### Forms
+## [2. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
-*   [Formcake.com](https://formcake.com) - Form backend for devs, free plan allows unlimited forms, 100 submissions, Zapier integration. No libraries or dependencies are required.
+### Boilerplates
+
+*   [Devii (⭐499)](https://github.com/vriad/devii) - A Medium-inspired dev blog starter built with Next.js, React, and TypeScript, with Markdown rendering, syntax highlighting, SEO/meta tags, and RSS feed generation out of the box.
+
+## [3. Awesome Calculators](/content/xxczaki/awesome-calculators/README.md)
+
+### Calculator apps: / Web
+
+*   [Clcalc.net](https://clcalc.net/) - Open-Source command-line style arbitrary precision calculator with mathematical, scientific, programming functions and more.
+
+## [4. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
+
+### Packages / Text
+
+*   [StegCloak (⭐3.3k)](https://github.com/kurolabs/stegcloak) - Conceal secrets within strings, in plain sight.
 
 ## [5. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
@@ -81,9 +77,9 @@
 
 ## [7. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 
-### Deprecated
+### Deprecated  (a-z↓)
 
-*   [Gemini (⭐1.5k)](https://github.com/gemini-testing/gemini) - Feature rich framework with support for [Selenium (⭐30k)](https://github.com/SeleniumHQ/selenium) and  [CasperJS (⭐7.2k)](https://github.com/casperjs/casperjs). Gemini is deprecated, use hermione instead.
+*   [Gemini (⭐1.5k)](https://github.com/gemini-testing/gemini) - Feature rich framework with support for [Selenium (⭐31k)](https://github.com/SeleniumHQ/selenium) and  [CasperJS (⭐7.2k)](https://github.com/casperjs/casperjs). Gemini is deprecated, use hermione instead.
 *   [OcularJS (⭐7)](https://github.com/mmacartney10/ocularjs) - uses [PhantomJS (⭐29k)](https://github.com/ariya/phantomjs).
 
 ## [8. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
@@ -97,15 +93,8 @@
 
 ### Utility / Docker Container Actions
 
-*   [Setup Kubernetes tools (⭐41)](https://github.com/yokawasa/action-setup-kube-tools) - Install Kubernetes tools (kubectl, kustomize, helm, kubeval, conftest, and yq) on the runner.
-*   [Setup Elastic Cloud Control Tool (⭐4)](https://github.com/yokawasa/action-setup-ecctl) - Install a specific version of ecctl on the runner.
-
-## [10. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / UI Components
-
-*   [vuesence-sliding-header (⭐42)](https://github.com/altrusl/vuesence-sliding-header) - Sliding header(s) for top navigation bar(s).
-*   [vue-picture-cut (⭐86)](https://github.com/987153776/vue-picture-cut) - image cropper：scale, flip, rotate, edge check, rectangle clip, ellipse clip
+*   [Setup Kubernetes tools (⭐74)](https://github.com/yokawasa/action-setup-kube-tools) - Install Kubernetes tools (kubectl, kustomize, helm, kubeval, conftest, and yq) on the runner.
+*   [Setup Elastic Cloud Control Tool (⭐5)](https://github.com/yokawasa/action-setup-ecctl) - Install a specific version of ecctl on the runner.
 
 ---
 

@@ -16,11 +16,11 @@
 
 ### Audio
 
-*   [Amplitude Audio SDK (⭐28)](https://github.com/SparkyStudios/AmplitudeAudioSDK) - A cross-platform audio engine designed with the needs of games in mind. \[Apache-2.0] [website](https://amplitudeaudiosdk.com)
+*   [Amplitude Audio SDK (⭐41)](https://github.com/SparkyStudios/AmplitudeAudioSDK) - A cross-platform audio engine designed with the needs of games in mind. \[Apache-2.0] [website](https://amplitudeaudiosdk.com)
 
 ### Font
 
-*   [libschrift (⭐457)](https://github.com/tomolt/libschrift) - A lightweight TrueType font rendering library. \[ISC]
+*   [libschrift (⭐492)](https://github.com/tomolt/libschrift) - A lightweight TrueType font rendering library. \[ISC]
 
 ## [3. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -32,7 +32,7 @@
 
 ### Retrieval-Augmented Generation (RAG) / Prompt Engineering for Text-to-image
 
-*   [imartinez/privateGPT (⭐53k)](https://github.com/imartinez/privateGPT): "Interact with your documents using the power of GPT, 100% privately, no data leaks"
+*   [imartinez/privateGPT (⭐55k)](https://github.com/imartinez/privateGPT): "Interact with your documents using the power of GPT, 100% privately, no data leaks"
 
 ## [5. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
 
@@ -50,13 +50,13 @@
 
 ### Template Engines
 
-*   [templ (⭐7.8k)](https://github.com/a-h/templ) - A HTML templating language that has great developer tooling.
+*   [templ (⭐8.7k)](https://github.com/a-h/templ) - A HTML templating language that has great developer tooling.
 
 ## [8. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
 
 ### How-to guides
 
-*   [How to resize dom0](https://forum.qubes-os.org/t/resize-dom0/10886) - Just in case anyone needs help with this to resize dom0 from say 20G to 50G.
+*   [How to resize dom0](https://forum.qubes-os.org/t/resize-dom0/10886) - Just in case anyone needs help with this to resize dom0 from 20G to 50G.
 *   [How to open Urls in other qube](https://forum.qubes-os.org/t/opening-urls-files-in-other-qubes/19026) - This page is about opening URLs and files from one qube in a different qube.
 
 ### Templates
@@ -66,7 +66,7 @@
 *   [Multimedia template](https://forum.qubes-os.org/t/configuring-a-multimedia-templatevm/19055) - Configuring a “Multimedia” TemplateVM
 *   [Windows Qubes](https://www.qubes-os.org/doc/windows/) - Like any other unmodified OSes, Windows can be installed in Qubes as an HVM domain.
 *   [Tails OS](https://forum.qubes-os.org/docs?topic=19012) - Tails stands for The Amnesic Incognito Live System. It is a live operating system that aims to preserve your privacy and anonymit.
-*   [Shadow qube (⭐5)](https://github.com/kennethrrosen/qubes-shadow-dvm) - The below script will create a Qube, launch the Tor browser, wait for the browser to close, then remove the qube and its RAM pool.
+*   [Shadow qube (⭐7)](https://github.com/kennethrrosen/qubes-shadow-dvm) - The below script will create a Qube, launch the Tor browser, wait for the browser to close, then remove the qube and its RAM pool.
 
 ### VM-Hardening
 
@@ -75,8 +75,7 @@
 
 ### Customization
 
-*   [PLayback performance](https://forum.qubes-os.org/t/improve-video-playback-performance-including-youtube/21946) - This guide will show you how to install the mpv player and use it with maximum performance.
-*   [Wayland agent (⭐12)](https://github.com/DemiMarie/qubes-wayland) - This is a GUI agent for Qubes OS that supports the \[Wayland] display server protocol. Compared to X11, Wayland is vastly simpler and aims to ensure every frame is perfect.
+*   [Wayland agent (⭐16)](https://github.com/DemiMarie/qubes-wayland) - This is a GUI agent for Qubes OS that supports the \[Wayland] display server protocol. Compared to X11, Wayland is vastly simpler and aims to ensure every frame is perfect.
 
 ### Clearnet & Anonymous Networking / Wireguard
 
@@ -90,7 +89,7 @@
 
 ### GTFS Libraries / Python
 
-*   [gtfs\_functions (⭐105)](https://github.com/Bondify/gtfs_functions) - Python package with useful functions to create geo-spatial visualizations from GTFS feeds.
+*   [gtfs\_functions (⭐117)](https://github.com/Bondify/gtfs_functions) - Python package with useful functions to create geo-spatial visualizations from GTFS feeds.
 
 ## [10. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
@@ -100,7 +99,7 @@
 
 ### Svelte / Helpers
 
-*   [vite-plugin-kit-routes (⭐392)](https://github.com/jycouet/kitql/tree/main/packages/vite-plugin-kit-routes) - Generates a file with all the routes, params, actions of your SvelteKit App.
+*   [vite-plugin-kit-routes (⭐411)](https://github.com/jycouet/kitql/tree/main/packages/vite-plugin-kit-routes) - Generates a file with all the routes, params, actions of your SvelteKit App.
 
 ---
 

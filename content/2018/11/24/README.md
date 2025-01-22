@@ -10,7 +10,7 @@
 
 ### Development Projects / APIs
 
-*   [PokeTypes (⭐6)](https://github.com/fbosch/poke-types) - Get Pokémon types, weaknesses and strengths.
+*   [PokeTypes (⭐8)](https://github.com/fbosch/poke-types) - Get Pokémon types, weaknesses and strengths.
 
 ## [2. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
@@ -50,7 +50,7 @@
 
 ### JSON
 
-*   [sajson (⭐564)](https://github.com/chadaustin/sajson) - Lightweight, extremely high-performance JSON parser for C++11. \[MIT]
+*   [sajson (⭐568)](https://github.com/chadaustin/sajson) - Lightweight, extremely high-performance JSON parser for C++11. \[MIT]
 
 ## [6. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 

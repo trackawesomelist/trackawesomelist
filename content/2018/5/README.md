@@ -53,9 +53,9 @@
 
 ### Other
 
-*   [npm-run-all (⭐5.5k)](https://github.com/mysticatea/npm-run-all) - CLI tool to run multiple npm-scripts in parallel or serial.
-*   [onchange (⭐798)](https://github.com/Qard/onchange) - Watch files and folders and run a command when something changed.
-*   [cli-error-notifier (⭐67)](https://github.com/micromata/cli-error-notifier) - Sends native desktop notifications when npm scripts fail.
+*   [npm-run-all (⭐5.7k)](https://github.com/mysticatea/npm-run-all) - CLI tool to run multiple npm-scripts in parallel or serial.
+*   [onchange (⭐816)](https://github.com/Qard/onchange) - Watch files and folders and run a command when something changed.
+*   [cli-error-notifier (⭐72)](https://github.com/micromata/cli-error-notifier) - Sends native desktop notifications when npm scripts fail.
 
 ## [7. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
@@ -71,17 +71,17 @@
 
 ### Alert / Barcode
 
-*   [Alerts Pickers (⭐5.6k)](https://github.com/dillidon/alerts-and-pickers) - Advanced usage of UIAlertController with TextField, DatePicker, PickerView, TableView and CollectionView.
+*   [Alerts Pickers (⭐5.7k)](https://github.com/dillidon/alerts-and-pickers) - Advanced usage of UIAlertController with TextField, DatePicker, PickerView, TableView and CollectionView.
 
 ### Video / Barcode
 
-*   [NextLevelSessionExporter (⭐259)](https://github.com/NextLevel/NextLevelSessionExporter) - Export and transcode media.
+*   [NextLevelSessionExporter (⭐262)](https://github.com/NextLevel/NextLevelSessionExporter) - Export and transcode media.
 
 ## [9. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
-### Code
+### Code / Commerical Tools
 
-*   [FARGonautica (⭐107)](https://github.com/Alex-Linhares/FARGonautica) - Source code of Douglas Hosftadter's Fluid Concepts and Creative Analogies Ph.D. projects.
+*   [FARGonautica (⭐113)](https://github.com/Alex-Linhares/FARGonautica) - Source code of Douglas Hosftadter's Fluid Concepts and Creative Analogies Ph.D. projects.
 
 ## [10. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
@@ -102,30 +102,36 @@
 
 *   [x\_do.cr (⭐18)](https://github.com/woodruffw/x_do.cr) - Bindings for libxdo ([`xdotool`](https://github.com/jordansissel/xdotool))
 
-## [13. Awesome Phalcon](/content/phalcon/awesome-phalcon/week/README.md)
+## [13. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+
+### Resources / Tutorials
+
+*   [Vuejs 2.5+ Authentication Tutorial using Auth0](https://www.storyblok.com/tp/how-to-auth0-vuejs-authentication) on Storyblok blog
+
+## [14. Awesome Phalcon](/content/phalcon/awesome-phalcon/week/README.md)
 
 ### Application Skeleton
 
 *   [Phalcon Composer (⭐35)](https://github.com/xxtime/phalcon) - Phalcon with Composer support MySql MongoDb Redis, clean + beauty
 
-## [14. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
+## [15. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
-### Tools and frameworks
+### Tools and frameworks (a-z↓)
 
-*   [Look-alike (⭐33)](https://github.com/kdzwinel/Look-alike) - Chrome Extension for taking and comparing screenshots.
-*   [Differencify (⭐632)](https://github.com/NimaSoroush/differencify) - A library for visual regression testing using [Puppeteer (⭐88k)](https://github.com/GoogleChrome/puppeteer).
+*   [Differencify (⭐634)](https://github.com/NimaSoroush/differencify) - A library for visual regression testing using [Puppeteer (⭐89k)](https://github.com/GoogleChrome/puppeteer).
+*   [Look-alike (⭐34)](https://github.com/kdzwinel/Look-alike) - Chrome Extension for taking and comparing screenshots.
 *   [ResembleJS (⭐4.5k)](https://github.com/Huddle/Resemble.js) - Analyse and compare images with Javascript and HTML5.
 
-### Blog posts
+### Blog posts  (a-z↓)
 
-*   [Make visual regression testing easier](https://medium.com/@nima.soroush.h/make-visual-regression-testing-easier-4a3dc7073737) - Introduction to [Differencify (⭐632)](https://github.com/NimaSoroush/differencify) and how to use it.
+*   [Make visual regression testing easier](https://medium.com/@nima.soroush.h/make-visual-regression-testing-easier-4a3dc7073737) - Introduction to [Differencify (⭐634)](https://github.com/NimaSoroush/differencify) and how to use it.
 
-### Deprecated
+### Deprecated  (a-z↓)
 
-*   [PhantomCSS](https://github.com/Huddle/PhantomCSS) - Visual/CSS regression testing with PhantomJS or SlimerJS. No longer maintained since 22 Dec 2017.
 *   [DalekJS (⭐695)](https://github.com/dalekjs/dalek) - Automated cross browser testing with JavaScript. No longer maintained since 4 Jun 2017.
+*   [PhantomCSS](https://github.com/Huddle/PhantomCSS) - Visual/CSS regression testing with PhantomJS or SlimerJS. No longer maintained since 22 Dec 2017.
 
-## [15. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [16. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Open Source / Other
 
@@ -139,39 +145,39 @@
 
 *   [electron-pl](https://electronpl.github.io) *(Polish)*
 
-## [16. Progressive Enhancement Resources](/content/jbmoelker/progressive-enhancement-resources/week/README.md)
+## [17. Progressive Enhancement Resources](/content/jbmoelker/progressive-enhancement-resources/week/README.md)
 
 ### Support Tables
 
 *   [Is service worker ready?](https://jakearchibald.github.io/isserviceworkerready/) - Overview of support for all features involved in the core technology behind Progressive Web Apps.
 *   [Is PWA ready?](https://ispwaready.toxicjohann.com/) - Overview of support for the core and related technologies behind Progressive Web Apps for both popular global and many Chinese browsers.
 
-## [17. Awesome Choo](/content/choojs/awesome-choo/week/README.md)
+## [18. Awesome Choo](/content/choojs/awesome-choo/week/README.md)
 
 ### Contents / Projects using choo
 
 *   [choo-ban (⭐5)](https://github.com/luizbaldi/choo-ban) - Simple kanban to manage board tasks, built with `choo`.
 
-## [18. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
+## [19. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
 
 ### Packages / MIDI
 
 *   [JZZ (⭐521)](https://github.com/jazz-soft/JZZ) - MIDI library for Node.js and all major browsers.
 *   [JZZ-midi-Gear (⭐17)](https://github.com/jazz-soft/JZZ-midi-Gear) - Retrieve your MIDI device model and manufacturer.
 
-## [19. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
+## [20. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
 
 ### JavaScript
 
 *   [cannot-even (⭐11)](https://github.com/blakek/cannot-even) - A module that refuses to even.
 
-## [20. Awesome Calculators](/content/xxczaki/awesome-calculators/week/README.md)
+## [21. Awesome Calculators](/content/xxczaki/awesome-calculators/week/README.md)
 
 ### Resources / Communities
 
 *   [MathOverflow](https://mathoverflow.net/) - Question & Answer site for professional mathematicians.
 
-## [21. Awesome Leading and Managing](/content/LappleApple/awesome-leading-and-managing/week/README.md)
+## [22. Awesome Leading and Managing](/content/LappleApple/awesome-leading-and-managing/week/README.md)
 
 ### Contents / Quotes That Capture the General Spirit of this List's Contents
 
@@ -180,7 +186,7 @@
 *   [Hiring and Interviewing Candidates](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/README.md/Hiring-and-Interviewing.md)
 *   [Postmortems and Retrospectives](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/README.md/Postmortems-Retrospectives.md)
 
-## [22. Awesome Code Review](/content/joho/awesome-code-review/week/README.md)
+## [23. Awesome Code Review](/content/joho/awesome-code-review/week/README.md)
 
 ### Tools
 
@@ -189,13 +195,13 @@
 *   [Review Board](https://www.reviewboard.org/) Open source review tool that is SCM/platform neutral.
 *   [Upsource](https://www.jetbrains.com/upsource/) JetBrain's on-premise git/mercurial/perforce/svn code review tool.
 
-## [23. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
+## [24. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
 ### DVB & WiFi
 
 *   [TSDuck](https://tsduck.github.io/) - Extensible toolkit for MPEG/DVB transport streams testing, monitoring, integration, debugging, and more.
 
-## [24. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [25. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Command-Line Productivity
 
@@ -210,7 +216,7 @@
 
 *   [bats (⭐4.5k)](https://github.com/bats-core/bats-core) - Bash Automated Testing System
 
-## [25. Awesome Eta](/content/sfischer13/awesome-eta/week/README.md)
+## [26. Awesome Eta](/content/sfischer13/awesome-eta/week/README.md)
 
 ### Introduction / Overview
 
@@ -244,25 +250,25 @@
 *   [Functional Conf - 2016](https://www.youtube.com/watch?v=CscBSNF6qnE) - Bringing the Power of Haskell to the JVM.
 *   [Functional Conf - 2017](https://www.youtube.com/watch?v=ZuJg2cfmSmw) - Eta Fibers: Towards Better Concurrency on the JVM.
 
-## [26. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [27. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Libraries / Parsing
 
-*   [lalrpop/lalrpop (⭐3k)](https://github.com/lalrpop/lalrpop) - LR(1) parser generator
+*   [lalrpop/lalrpop (⭐3.1k)](https://github.com/lalrpop/lalrpop) - LR(1) parser generator
 
-## [27. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
+## [28. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
 
 ### Tips for Researchers / HTML+CSS+JS
 
 *   Check the [Academic Resources and Grey Literature List (⭐13k)](https://github.com/jivoi/awesome-osint#-academic-resources-and-grey-literature) of the [Awesome Open-Source Intelligence List (⭐13k)](https://github.com/jivoi/awesome-osint) for search engines to search for papers.
 
-## [28. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [29. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
-### Academic Resources and Grey Literature / Telegram
+### Academic Resources and Grey Literature / Steam
 
 *   [Leibniz Information Centre For Science and Technology University Library](https://www.tib.eu/en/search-discover/) - indexes all reports of German publicly funded projects and many scientific papers.
 
-## [29. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
+## [30. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
 ### Learning
 
@@ -278,19 +284,19 @@
 
 *   [QCL](http://tph.tuwien.ac.at/~oemer/qcl.html) - Older, C like language for quantum computers. Only has a simulator and debugger.
 
-## [30. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [31. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Games
 
-*   [Lila](https://lichess.org/) - The forever free, adless and open source chess server powering lichess.org, with official iOS and Android client apps. ([Source Code (⭐15k)](https://github.com/lichess-org/lila)) `AGPL-3.0` `Scala`
+*   [Lila](https://lichess.org/) - The forever free, adless and open source chess server powering lichess.org, with official iOS and Android client apps. ([Source Code (⭐16k)](https://github.com/lichess-org/lila)) `AGPL-3.0` `Scala`
 
-## [31. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [32. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Awesome TypeScript Essential Resources
 
 *   :books: [Community Curated Resources](https://hackr.io/tutorials/learn-typescript)
 
-## [32. Awesome Standard](/content/standard/awesome-standard/week/README.md)
+## [33. Awesome Standard](/content/standard/awesome-standard/week/README.md)
 
 ### code/project generators
 
@@ -298,7 +304,7 @@
 *   **[generate-swap-project](https://www.npmjs.com/package/generate-swap-project)** - Generate Your ESNext+StandardJS+Mocha Ready, NodeJS Projects in Seconds!
 *   **[generate-swap-generator](https://www.npmjs.com/package/generate-swap-generator)** Generate Your Own ESNext+StandardJS+Mocha Ready NodeJS Generators In Seconds!
 
-## [33. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
+## [34. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
 
 ### Screencasts
 
@@ -308,7 +314,7 @@
 
 *   [Serverless Applications with AWS](http://bit.ly/serverless-apps-aws) - Introduction course with AWS and Serverless Framework. Build a production like app using the most common AWS Serverless services.
 
-## [34. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
+## [35. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
 ### Programming Languages/Frameworks/Platforms / Ionic
 
@@ -318,19 +324,19 @@
 
 *   [21 Essential Java Interview Questions](http://www.toptal.com/java/interview-questions)
 
-## [35. Awesome Html5](/content/diegocard/awesome-html5/week/README.md)
+## [36. Awesome Html5](/content/diegocard/awesome-html5/week/README.md)
 
 ### Other awesome lists / Twitter
 
 *   [Community Curated Resources](https://hackr.io/tutorials/learn-html-5)
 
-## [36. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
+## [37. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
 
 ### Blog posts and opinions
 
-*   [Testing Ansible Roles Against Windows with Test-Kitchen](https://hodgkins.io/testing-ansible-roles-windows-test-kitchen) - Using Test-Kitchen with Ansible to apply playbooks to Windows machines and test them with [Pester (⭐3k)](https://github.com/pester/Pester/).
+*   [Testing Ansible Roles Against Windows with Test-Kitchen](https://hodgkins.io/testing-ansible-roles-windows-test-kitchen) - Using Test-Kitchen with Ansible to apply playbooks to Windows machines and test them with [Pester (⭐3.1k)](https://github.com/pester/Pester/).
 
-## [37. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [38. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Frameworks • Libraries • Ecosystems
 
@@ -340,54 +346,35 @@
 
 *   [ClayGL](http://claygl.xyz/) - WebGL graphic library for building scalable Web3D applications.
 
-## [38. Awesome Unity](/content/RyanNielson/awesome-unity/week/README.md)
+## [39. Awesome Unity](/content/RyanNielson/awesome-unity/week/README.md)
 
 ### Utilities
 
 *   [Scene View Bookmarks (⭐65)](https://github.com/mminer/scene-view-bookmarks) - Editor extension to bookmark and later recall scene views.
 
-## [39. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
+## [40. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
 
 ### List of trustworthy Extension Developers / Progressive Web Application
 
 *   [MagePal](https://packagist.org/packages/magepal/)
 
-## [40. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
-
-### Resources / Tutorials
-
-*   [Vuejs 2.5+ Authentication Tutorial using Auth0](https://www.storyblok.com/tp/how-to-auth0-vuejs-authentication) on Storyblok blog
-
-### Resources / Examples
-
-*   [Vue.js 2.5 with vue-cli v3 including authentication with auth0 (⭐39)](https://github.com/DominikAngerer/auth0-vue) by Dominik Angerer, Storyblok
-
-### Projects Using Vue.js / Open Source
-
-*   [Code Notes (⭐1.1k)](https://github.com/lauthieb/code-notes) - A simple code snippet manager for developers built with Electron & Vue.js.
-
-### Components & Libraries / UI Components
-
-*   [vue-modaltor (⭐82)](https://github.com/davodaslanifakor/modaltor) - most advance configurable modal component for vuejs
-*   [vue-datepicker-local (⭐297)](https://github.com/weifeiyue/vue-datepicker-local) - A Beautiful Datepicker Component For Vue2.
-
 ## [41. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Audio
 
-*   [minimp3 (⭐1.6k)](https://github.com/lieff/minimp3) - Public domain, header-only MP3 decoder with clean-room implementation. \[CC0]
+*   [minimp3 (⭐1.7k)](https://github.com/lieff/minimp3) - Public domain, header-only MP3 decoder with clean-room implementation. \[CC0]
 
 ### Cryptography
 
-*   [digestpp (⭐190)](https://github.com/kerukuro/digestpp) - C++11 header-only message digest (hash) library. \[PublicDomain]
+*   [digestpp (⭐197)](https://github.com/kerukuro/digestpp) - C++11 header-only message digest (hash) library. \[PublicDomain]
 
 ### Scientific Computing
 
-*   [TileDB (⭐1.8k)](https://github.com/TileDB-Inc/TileDB) - Fast Dense and Sparse Multidimensional Array DBMS. \[MIT] [website](https://tiledb.io/)
+*   [TileDB (⭐1.9k)](https://github.com/TileDB-Inc/TileDB) - Fast Dense and Sparse Multidimensional Array DBMS. \[MIT] [website](https://tiledb.io/)
 
 ### Debug
 
-*   [MinUnit (⭐561)](https://github.com/siu/minunit) - A minimal unit testing framework for C self-contained in a single header file. \[MIT]
+*   [MinUnit (⭐586)](https://github.com/siu/minunit) - A minimal unit testing framework for C self-contained in a single header file. \[MIT]
 
 ### Math
 
@@ -399,21 +386,21 @@
 
 ### Serialization
 
-*   [MessagePack (⭐3k)](https://github.com/msgpack/msgpack-c) - Efficient binary serialization format "like JSON" for C and C++. \[Apache2] [website](http://msgpack.org/)
+*   [MessagePack (⭐3.1k)](https://github.com/msgpack/msgpack-c) - Efficient binary serialization format "like JSON" for C and C++. \[Apache2] [website](http://msgpack.org/)
 
 ### Integrated Development Environment
 
 *   [Cevelop](https://www.cevelop.com) - Cross-platform C and C++ IDE based on Eclipse CDT with additional plug-ins.
 *   [CLion](http://www.jetbrains.com/clion/) - Cross-platform C and C++ IDE from JetBrains.
-*   [CodeLite](http://codelite.org/) - Another cross-plaform, free C and C++ IDE. \[GPL2 with an exception for plugins]
+*   [CodeLite](http://codelite.org/) - Another cross-platform, free C and C++ IDE. \[GPL2 with an exception for plugins]
 
 ### Books
 
-*   [List of Free C or C++ Books (⭐58k)](https://github.com/fffaraz/awesome-cpp/blob/master/books.md)
+*   [List of Free C or C++ Books (⭐61k)](https://github.com/fffaraz/awesome-cpp/blob/master/books.md)
 
 ### Videos
 
-*   [List of C or C++ YouTube Videos (⭐58k)](https://github.com/fffaraz/awesome-cpp/blob/master/videos.md)
+*   [List of C or C++ YouTube Videos (⭐61k)](https://github.com/fffaraz/awesome-cpp/blob/master/videos.md)
 
 ### Websites
 
@@ -422,7 +409,7 @@
 ### Other Awesome Projects
 
 *   [Awesome C++](https://cpp.libhunt.com/) - LibHunt's mirror.
-*   [Awesome interview questions (⭐70k)](https://github.com/MaximAbramchuck/awesome-interviews) - A list of lists of interview questions for the most popular technologies, including C and C++.
+*   [Awesome interview questions (⭐73k)](https://github.com/MaximAbramchuck/awesome-interviews) - A list of lists of interview questions for the most popular technologies, including C and C++.
 
 ## [42. Awesome Saltstack](/content/hbokh/awesome-saltstack/week/README.md)
 
@@ -438,7 +425,7 @@
 
 ### Serialization / Scala
 
-*   [Protostuff (⭐2k)](https://github.com/protostuff/protostuff) - A serialization library with built-in support for forward-backward compatibility (schema evolution) and validation.
+*   [Protostuff (⭐2.1k)](https://github.com/protostuff/protostuff) - A serialization library with built-in support for forward-backward compatibility (schema evolution) and validation.
 
 ## [44. Awesome Funny Markov](/content/sublimino/awesome-funny-markov/week/README.md)
 

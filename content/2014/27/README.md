@@ -39,17 +39,13 @@
 ### CSS
 
 *   [css-triangle-generator](http://apps.eky.hk/css-triangle-generator/zh-hant)
-*   [css3lib](http://css3lib.alloyteam.com/)
 *   [csszengarden](http://www.csszengarden.com/)
-*   [css3Preview](http://www.css88.com/tool/css3Preview/)
 *   [CSS Gradient Generator](http://www.colorzilla.com/gradient-editor/)
 *   [cssBeutify](http://tool.lu/css/)
 
 ### Image compression
 
-*   [punypng](http://www.punypng.com/)
 *   [TinyPNG](https://tinypng.com)
-*   [smushit](http://www.smushit.com/ysmush.it/)
 *   [AlloyPhoto](http://alloyteam.github.io/AlloyPhoto/)
 
 ### JavaScript
@@ -61,7 +57,6 @@
 
 ### Pagespeed
 
-*   [YSlow](https://addons.mozilla.org/zh-cn/firefox/addon/yslow/)
 *   [Alibench](http://alibench.com/)
 *   [Webkaka](http://pagespeed.webkaka.com/)
 
@@ -71,7 +66,7 @@
 *   [flatuicolors](http://flatuicolors.com/)
 *   [Color Thief](http://lokeshdhakar.com/projects/color-thief/)
 *   [color-hex](http://www.color-hex.com/)
-*   [colors (⭐9.2k)](https://github.com/mrmrs/colors)
+*   [colors (⭐9.3k)](https://github.com/mrmrs/colors)
 *   [chuantongsecai](http://ylbook.com/cms/web/chuantongsecai/chuantongsecai.htm)
 
 ### Font
@@ -82,7 +77,7 @@
 *   [qiuziti](http://www.qiuziti.com/)
 *   [fonts2u](http://www.fonts2u.com/index.html)
 *   [justfont](http://www.justfont.com/)
-*   [iconpark (⭐360)](https://github.com/lvwzhen/iconpark)
+*   [iconpark (⭐361)](https://github.com/lvwzhen/iconpark)
 
 ### API Doc
 
@@ -102,11 +97,11 @@
 
 ### Framework Components
 
-*   [plug (⭐2.8k)](https://github.com/elixir-lang/plug) - A specification and conveniences for composable modules in between web applications.
+*   [plug (⭐2.9k)](https://github.com/elixir-lang/plug) - A specification and conveniences for composable modules in between web applications.
 
 ### HTTP
 
-*   [cauldron (⭐74)](https://github.com/meh/cauldron) - An HTTP/SPDY server as a library.
+*   [cauldron (⭐72)](https://github.com/meh/cauldron) - An HTTP/SPDY server as a library.
 *   [httpoison (⭐2.2k)](https://github.com/edgurgel/httpoison) - Yet Another HTTP client for Elixir powered by hackney.
 *   [httpotion (⭐725)](https://github.com/myfreeweb/httpotion) - Fancy HTTP client for Elixir, based on ibrowse.
 
@@ -114,7 +109,7 @@
 
 *   [atlas (⭐214)](https://github.com/chrismccord/atlas) - Object Relational Mapper for Elixir.
 *   [dexts (⭐6)](https://github.com/meh/dexts) - Disk Elixir Terms Storage, dest wrapper.
-*   [exts (⭐8)](https://github.com/meh/exts) - Elixir Terms Storage, ets wrapper.
+*   [exts (⭐7)](https://github.com/meh/exts) - Elixir Terms Storage, ets wrapper.
 
 ### Queue
 
@@ -123,16 +118,16 @@
 ### Text and Numbers
 
 *   [colors (⭐7)](https://github.com/lidashuang/colors) - Colors util written in Elixir.
-*   [decimal (⭐460)](https://github.com/ericmj/decimal) - Arbitrary precision decimal arithmetic for Elixir.
+*   [decimal (⭐467)](https://github.com/ericmj/decimal) - Arbitrary precision decimal arithmetic for Elixir.
 *   [inflex (⭐378)](https://github.com/nurugger07/inflex) - An Inflector library for Elixir.
-*   [uuid (⭐356)](https://github.com/zyro/elixir-uuid) - UUID generator and utilities for Elixir.
+*   [uuid (⭐361)](https://github.com/zyro/elixir-uuid) - UUID generator and utilities for Elixir.
 
 ### Third Party APIs
 
 *   [currently (⭐5)](https://github.com/chatgris/currently) - A tool to display cards currently assigns on Trello.
 *   [dpd\_client (⭐1)](https://github.com/knewter/dpd_client) - An API client for the DPD service.
 *   [dropbox (⭐13)](https://github.com/ammmir/elixir-dropbox) - Dropbox Core API client for Elixir.
-*   [facebook (⭐138)](https://github.com/mweibel/facebook.ex) - Facebook Graph API Wrapper written in Elixir.
+*   [facebook (⭐137)](https://github.com/mweibel/facebook.ex) - Facebook Graph API Wrapper written in Elixir.
 *   [reap (⭐4)](https://github.com/Raynes/reap) - Reap is a simple Elixir library for working with the refheap API.
 
 ## [3. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
@@ -161,7 +156,7 @@
 
 *   [peity (⭐4.2k)](https://github.com/benpickles/peity) - Progressive <svg> bar, line and pie charts.
 *   [raphael (⭐11k)](https://github.com/DmitryBaranovskiy/raphael) - JavaScript Vector Library.
-*   [two.js (⭐8.2k)](https://github.com/jonobr1/two.js) - A renderer agnostic two-dimensional drawing api for the web.
+*   [two.js (⭐8.3k)](https://github.com/jonobr1/two.js) - A renderer agnostic two-dimensional drawing api for the web.
 *   [g.raphael (⭐1.5k)](https://github.com/DmitryBaranovskiy/g.raphael) - Charts for Raphaël.
 *   [sigma.js (⭐11k)](https://github.com/jacomyal/sigma.js) - A JavaScript library dedicated to graph drawing.
 *   [arbor (⭐2.7k)](https://github.com/samizdatco/arbor) - A graph visualization library using web workers and jQuery.
@@ -189,7 +184,7 @@
 ### Loading Status / Runner
 
 *   [progress.js (⭐2.4k)](https://github.com/usablica/progress.js) - Create and manage progress bar for every objects on the page.
-*   [PageLoadingEffects (⭐640)](https://github.com/codrops/PageLoadingEffects) - Modern ways of revealing new content using SVG animations.
+*   [PageLoadingEffects (⭐643)](https://github.com/codrops/PageLoadingEffects) - Modern ways of revealing new content using SVG animations.
 
 ## [4. Es6 Tools](/content/addyosmani/es6-tools/week/README.md)
 

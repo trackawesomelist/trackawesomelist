@@ -43,7 +43,7 @@
 
 ### Behaviours and Interfaces
 
-*   [gen\_state\_machine (⭐302)](https://github.com/antipax/gen_state_machine) - Elixir wrapper for gen\_statem.
+*   [gen\_state\_machine (⭐308)](https://github.com/antipax/gen_state_machine) - Elixir wrapper for gen\_statem.
 
 ### Benchmarking
 
@@ -65,7 +65,7 @@
 
 ### Queue
 
-*   [cspex (⭐25)](https://github.com/costaraphael/cspex) - Simple, OTP compliant, Elixir implementation of CSP channels.
+*   [cspex (⭐26)](https://github.com/costaraphael/cspex) - Simple, OTP compliant, Elixir implementation of CSP channels.
 
 ## [5. Awesome Progressive Web Apps](/content/TalAter/awesome-progressive-web-apps/README.md)
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 28, 2017
 
-8 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -33,7 +33,7 @@
 ### Scheduling
 
 *   [Hangfire](https://github.com/HangfireIO) - An easy way to perform fire-and-forget, delayed and recurring tasks inside .NET apps
-*   [Chroniton (⭐181)](https://github.com/leosperry/Chroniton) - A simple, fully integrable, and customizable library for running strongly typed jobs (tasks) on schedules.
+*   [Chroniton (⭐183)](https://github.com/leosperry/Chroniton) - A simple, fully integrable, and customizable library for running strongly typed jobs (tasks) on schedules.
 
 ## [5. Awesome Design](/content/gztchan/awesome-design/README.md)
 
@@ -53,12 +53,6 @@
 
 *   [Cloudant](https://cloudant.com/) - Distributed database as a service (DBaaS).
 *   [Bitnami Launchpad for Google Cloud Platform](https://bitnami.com/stack/couchdb/cloud/google) - Host CouchDB on Google Cloud Platform.
-
-## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / UI Components
-
-*   [awesome-mask (⭐165)](https://github.com/moip/awesome-mask) - Mask directive based on a pure and simply VanillaJS implementation
 
 ---
 

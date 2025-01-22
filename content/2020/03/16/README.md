@@ -14,17 +14,17 @@
 
 ### Online Resources / Other Lists Online
 
-*   [Red Teaming (⭐6.7k)](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming) - List of Awesome Red Teaming Resources.
+*   [Red Teaming (⭐6.9k)](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming) - List of Awesome Red Teaming Resources.
 
 ## [2. Awesome Playwright](/content/mxschmitt/awesome-playwright/README.md)
 
 ### Utils
 
-*   [playwright-fluent (⭐165)](https://github.com/hdorgeval/playwright-fluent) - Fluent API Wrapper around Playwright.
+*   [playwright-fluent (⭐170)](https://github.com/hdorgeval/playwright-fluent) - Fluent API Wrapper around Playwright.
 
 ## [3. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
-### Discussion Groups and Mailing Lists
+### Community, SIGs, Discussion Forums and Mailing Lists
 
 *   [Keycloak Subreddit](https://www.reddit.com/r/keycloak)
 
@@ -36,7 +36,7 @@
 
 ### Python / Computer Vision
 
-*   [neural-dream (⭐132)](https://github.com/ProGamerGov/neural-dream) - A PyTorch implementation of DeepDream.
+*   [neural-dream (⭐133)](https://github.com/ProGamerGov/neural-dream) - A PyTorch implementation of DeepDream.
 
 ## [5. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
@@ -64,7 +64,7 @@
 
 ### Form / Barcode
 
-*   [ObjectForm (⭐177)](https://github.com/haojianzong/ObjectForm) - A simple yet powerful library to build form for your class models.
+*   [ObjectForm (⭐178)](https://github.com/haojianzong/ObjectForm) - A simple yet powerful library to build form for your class models.
 
 ## [9. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 

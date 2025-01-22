@@ -6,19 +6,25 @@
 
 
 
-## [1. Awesome Yew](/content/jetli/awesome-yew/README.md)
+## [1. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+
+### Components & Libraries / UI Utilities
+
+*   [vue3-lottie (⭐385)](https://github.com/megasanjay/vue3-lottie) A component for importing and displaying Lottie animations in Vue 3
+
+## [2. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Crates / Component Libraries
 
-*   [material-yew (⭐221)](https://github.com/hamza1311/material-yew) - Yew wrapper for Material Web Components.
+*   [material-yew (⭐229)](https://github.com/hamza1311/material-yew) - Yew wrapper for Material Web Components.
 
-## [2. Awesome Product Design](/content/ttt30ga/awesome-product-design/README.md)
+## [3. Awesome Product Design](/content/ttt30ga/awesome-product-design/README.md)
 
 ### Articles / Storyboard
 
 *   [UX Booth](https://www.uxbooth.com/) - The UX Booth is a publication by and for the user experience community.
 
-## [3. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
+## [4. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
 ### OS Images
 
@@ -29,45 +35,35 @@
 *   [Bridging Wifi to the Raspberry Pi over Ethernet](https://thibmaek.com/posts/bridging-wifi-to-the-raspberry-pi-over-ethernet) - Set up tethered networking between macOS & Raspberry Pi.
 *   [Raspberry Pi login with SSH keys](https://thibmaek.com/posts/raspberry-pi-login-with-ssh-keys) - Password-less login for ssh sessions on the Raspberry Pi.
 
-## [4. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [5. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Development tools / IDEs
 
-*   [lapce (⭐34k)](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust. [![build badge](https://github.com/lapce/lapce/actions/workflows/release.yml/badge.svg)](https://github.com/lapce/lapce/actions/workflows/release.yml)
+*   [lapce (⭐35k)](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust. [![build badge](https://github.com/lapce/lapce/actions/workflows/release.yml/badge.svg)](https://github.com/lapce/lapce/actions/workflows/release.yml)
 
-## [5. Awesome List](/content/sindresorhus/awesome/README.md)
+## [6. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Platforms
 
-*   [Node-RED (⭐444)](https://github.com/naimo84/awesome-nodered#readme) - A programming tool for wiring together hardware devices, APIs, and online services.
+*   [Node-RED (⭐462)](https://github.com/naimo84/awesome-nodered#readme) - A programming tool for wiring together hardware devices, APIs, and online services.
 
-## [6. Awesome Nodered](/content/naimo84/awesome-nodered/README.md)
+## [7. Awesome Nodered](/content/naimo84/awesome-nodered/README.md)
 
 ### Nodes / Social
 
 *   [PushStaq (⭐0)](https://github.com/pantchox/node-red-contrib-pushstaq) - Send real time alerts using Push Notifications from your Node-Red flows to any device with [PushStaq](https://www.pushstaq.com).
 
-## [7. Awesome Gpt3](/content/elyase/awesome-gpt3/README.md)
+## [8. Awesome Gpt3](/content/elyase/awesome-gpt3/README.md)
 
 ### Demos / Search and data analysis
 
 *   [LeetCode Search: GPT-3 powered search engine for LeetCode](https://www.linkedin.com/posts/girishjeyakumar_openai-gpt3-python-activity-6888291748725035008-R0WR)
 
-## [8. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [9. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Graphics
 
-*   [openrndr/orx (⭐120)](https://github.com/openrndr/orx) - ORX is a collection extras for OPENRNDR which add support for sensors, live-coding, user interfaces and much more.
-
-## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / Frameworks
-
-*   [Unge UI (⭐53)](https://github.com/UngeUI/ungeui) - A Vue 3.x Component Library. Complete documentation support and both Chinese and English.
-
-### Components & Libraries / UI Utilities
-
-*   [vue3-lottie (⭐345)](https://github.com/megasanjay/vue3-lottie) A component for importing and displaying Lottie animations in Vue 3
+*   [openrndr/orx (⭐122)](https://github.com/openrndr/orx) - ORX is a collection extras for OPENRNDR which add support for sensors, live-coding, user interfaces and much more.
 
 ## [10. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
 
@@ -97,7 +93,6 @@
 ### Design and UI
 
 *   [tabler-icons.io](https://tabler-icons.io/) — Over 1500 free copy-and-paste SVG editable icons.
-*   [react-favicon.com](https://react-favicon.com/) - Generate Favicons for your website using React and JSX using any font and icon library.
 
 ### IDE and Code Editing
 
@@ -116,13 +111,13 @@
 
 ## [13. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
-### Templates / Godot 3.2+
+### Templates / Godot 3
 
-*   [Godot Game Of Life (⭐33)](https://github.com/tavurth/godot-game-of-life) - Conway's *Game of life* using shaders.
+*   [Godot Game Of Life (⭐34)](https://github.com/tavurth/godot-game-of-life) - Conway's *Game of life* using shaders.
 
-### Plugins and scripts / Various Godot versions
+### Plugins and scripts / Godot version unknown
 
-*   [Godot Radial Menu (⭐257)](https://github.com/tavurth/godot-radial-menu) - A radial menu written in shader code for performance.
+*   [Godot Radial Menu (⭐271)](https://github.com/tavurth/godot-radial-menu) - A radial menu written in shader code for performance.
 
 ## [14. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
@@ -133,11 +128,11 @@
 
 ### Communications / Ethernet
 
-*   [micropy-ENC28J60 (⭐21)](https://github.com/przemobe/micropy-ENC28J60) - ENC28J60 Ethernet chip driver for MicroPython (RP2).
+*   [micropy-ENC28J60 (⭐22)](https://github.com/przemobe/micropy-ENC28J60) - ENC28J60 Ethernet chip driver for MicroPython (RP2).
 
 ### Communications / IR
 
-*   [pico-ir (⭐22)](https://github.com/bartoszadamczyk/pico-ir) - IR library for Raspberry Pi Pico.
+*   [pico-ir (⭐27)](https://github.com/bartoszadamczyk/pico-ir) - IR library for Raspberry Pi Pico.
 
 ### Frameworks / SRAM
 

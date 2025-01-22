@@ -10,7 +10,7 @@
 
 ### PDF
 
-*   [PDF-Writer (⭐877)](https://github.com/galkahana/PDF-Writer) - High performance library for creating, modiyfing and parsing PDF files in C++ \[Apache-2.0] [website](https://www.pdfhummus.com/)
+*   [PDF-Writer (⭐914)](https://github.com/galkahana/PDF-Writer) - High performance library for creating, modiyfing and parsing PDF files in C++ \[Apache-2.0] [website](https://www.pdfhummus.com/)
 
 ## [2. Ai Collective Tools](/content/Hyraze/ai-collective-tools/README.md)
 
@@ -28,7 +28,7 @@
 
 ### Engines and Frameworks / Voxel Editors
 
-*   :tada: [DotRecast (⭐470)](https://github.com/ikpil/DotRecast) - A port of Recast & Detour, navigation mesh toolset for games, Unity3D, servers, C#.
+*   :tada: [DotRecast (⭐596)](https://github.com/ikpil/DotRecast) - A port of Recast & Detour, navigation mesh toolset for games, Unity3D, servers, C#.
 
 ## [5. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
@@ -56,7 +56,7 @@
 *   [SARSA (State-Action-Reward-State-Action) algorithm](https://en.wikipedia.org/wiki/State%E2%80%93action%E2%80%93reward%E2%80%93state%E2%80%93action)
 *   [Temporal difference learning](https://en.wikipedia.org/wiki/Temporal_difference_learning#:~:text=Temporal%20difference%20\(TD\)%20learning%20refers,estimate%20of%20the%20value%20function.)
 
-### YouTube Videos & Channels / Book Deals (Affiliated) 🛍
+### YouTube Videos & Channels / Book Deals (Affiliated)
 
 *   [Time Series Modelling and Analysis](https://www.youtube.com/playlist?list=PL3N9eeOlCrP5cK0QRQxeJd6GrQvhAtpBK)
 

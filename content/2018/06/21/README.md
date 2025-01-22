@@ -22,13 +22,13 @@
 
 ### UI
 
-*   [Facebook Reactions (⭐419)](https://github.com/duytq94/facebook-reaction-animation) <!--stargazers:duytq94/facebook-reaction-animation--> - Facebook reactions widget by [Duy Tran](https://github.com/duytq94)
+*   [Facebook Reactions (⭐435)](https://github.com/duytq94/facebook-reaction-animation) <!--stargazers:duytq94/facebook-reaction-animation--> - Facebook reactions widget by [Duy Tran](https://github.com/duytq94)
 
 ## [4. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Converters
 
-*   [money (⭐31)](https://github.com/crystal-money/money) - Handling money and currency conversion with ease (almost complete port of [RubyMoney (⭐2.7k)](https://github.com/RubyMoney/money))
+*   [money (⭐32)](https://github.com/crystal-money/money) - Handling money and currency conversion with ease (almost complete port of [RubyMoney (⭐2.8k)](https://github.com/RubyMoney/money))
 
 ## [5. Awesome H2o](/content/h2oai/awesome-h2o/README.md)
 
@@ -69,7 +69,7 @@
 
 ### Packages / Command-line utilities
 
-*   [cli-table3 (⭐521)](https://github.com/cli-table/cli-table3) - Pretty unicode tables.
+*   [cli-table3 (⭐543)](https://github.com/cli-table/cli-table3) - Pretty unicode tables.
 
 ## [9. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
@@ -87,7 +87,7 @@
 ### GUI
 
 *   [Robo 3T (⭐9.3k)](https://github.com/Studio3T/robomongo) - Robo 3T (formerly Robomongo) is a shell-centric cross-platform MongoDB management tool.
-*   [Tabix (⭐2.1k)](https://github.com/tabixio/tabix) - SQL Editor & Open source simple business intelligence for Clickhouse.
+*   [Tabix (⭐2.2k)](https://github.com/tabixio/tabix) - SQL Editor & Open source simple business intelligence for Clickhouse.
 
 ### CLI
 
@@ -95,8 +95,8 @@
 
 ### Monitoring/Statistics/Perfomance / Samples
 
-*   [pganalyze collector (⭐322)](https://github.com/pganalyze/collector) - Pganalyze statistics collector for gathering PostgreSQL metrics and log data.
-*   [PgHero (⭐7.8k)](https://github.com/ankane/pghero) - A performance dashboard for Postgres - health checks, suggested indexes, and more.
+*   [pganalyze collector (⭐341)](https://github.com/pganalyze/collector) - Pganalyze statistics collector for gathering PostgreSQL metrics and log data.
+*   [PgHero (⭐8.3k)](https://github.com/ankane/pghero) - A performance dashboard for Postgres - health checks, suggested indexes, and more.
 
 ### DevOps / Zabbix
 
@@ -106,7 +106,7 @@
 
 ### Standalone / Hash functions
 
-*   [ironssh (⭐62)](https://github.com/IronCoreLabs/ironssh) - End-to-end encrypt transferred files using sftp/scp and selectively share with others. Automatic key management works with any SSH server. Encrypted files are gpg compatible.
+*   [ironssh (⭐63)](https://github.com/IronCoreLabs/ironssh) - End-to-end encrypt transferred files using sftp/scp and selectively share with others. Automatic key management works with any SSH server. Encrypted files are gpg compatible.
 
 ## [12. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 

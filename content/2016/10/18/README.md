@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 18, 2016
 
-14 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -65,7 +65,7 @@
 
 ### More Awesome Lists
 
-*   [Public APIs (⭐2k)](https://github.com/toddmotto/public-apis) *(JSON APIs for use in web dev, some of which require authentication)*
+*   [Public APIs (⭐2.2k)](https://github.com/toddmotto/public-apis) *(JSON APIs for use in web dev, some of which require authentication)*
 
 ## [5. Awesome](/content/Awesome-Windows/Awesome/README.md)
 
@@ -103,13 +103,7 @@
 
 *   [How to create a chatbot without coding a single line](https://chatbotsmagazine.com/how-to-create-a-chatbot-without-coding-a-single-line-e716840c7245#.kimh0igkz)
 
-## [10. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Resources / Tutorials
-
-*   [Jayway Vue.js 2 workshop. Build an e-commerce site with vue-router, vuex and vue-resource](https://github.com/jayway/vue-js-workshop)
-
-## [11. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/README.md)
+## [10. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/README.md)
 
 ### Security / Links
 
@@ -120,13 +114,13 @@
     *   [Architecting Containers Part 2: Why the User Space Matters](http://rhelblog.redhat.com/2015/09/17/architecting-containers-part-2-why-the-user-space-matters-2/)
     *   [Secure Your Containers with this One Weird Trick](http://rhelblog.redhat.com/2016/10/17/secure-your-containers-with-this-one-weird-trick/)
 
-## [12. Awesome Projects Boilerplates](/content/melvin0008/awesome-projects-boilerplates/README.md)
+## [11. Awesome Projects Boilerplates](/content/melvin0008/awesome-projects-boilerplates/README.md)
 
 ### Websites
 
 *   [Jekyll Starter Kit (⭐146)](https://github.com/nirgn975/generator-jekyll-starter-kit) Jekyll Progressive Web App generator boilerplate.
 
-## [13. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [12. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### IDE
 
@@ -136,7 +130,7 @@
 
 *   [Loupe](https://onloupe.com) - Centralized .NET logging and monitoring. **\[Proprietary]** **\[Free Tier]**
 
-## [14. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [13. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Docker Related
 

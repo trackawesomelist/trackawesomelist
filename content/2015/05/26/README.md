@@ -32,7 +32,7 @@ PentesterLab provides [free Hands-On exercises](https://pentesterlab.com/exercis
 
 ### Tools / Javascript
 
-*   [selenium-webdriver (⭐27k)](https://github.com/SeleniumHQ/selenium/wiki/WebDriverJs) - The official WebDriver JavaScript bindings from the Selenium project.
+*   [selenium-webdriver (⭐31k)](https://github.com/SeleniumHQ/selenium/wiki/WebDriverJs) - The official WebDriver JavaScript bindings from the Selenium project.
 *   [WD (⭐1.5k)](https://github.com/admc/wd) - WebDriver/Selenium 2 node.js client.
 *   [WebdriverIO](http://webdriver.io) - better implementation of WebDriver bindings with predefined 50+ actions.
 *   [SlimerJS](http://slimerjs.org/) - A scriptable browser for Web developers.
@@ -42,7 +42,7 @@ PentesterLab provides [free Hands-On exercises](https://pentesterlab.com/exercis
 
 *   [Anemone (⭐1.6k)](https://github.com/chriskite/anemone) - Anemone web-spider framework.
 *   [Mechanize](http://docs.seattlerb.org/mechanize/) - automating interaction with websites.
-*   [Spidr (⭐760)](https://github.com/postmodern/spidr) - web spidering library that can spider a site, multiple domains, certain links or infinitely.
+*   [Spidr (⭐812)](https://github.com/postmodern/spidr) - web spidering library that can spider a site, multiple domains, certain links or infinitely.
 *   [cobweb](https://rubygems.org/gems/cobweb) - web crawler that can use resque to cluster crawls to quickly crawl extremely large sites.
 
 ### Tools / Python
@@ -55,12 +55,12 @@ PentesterLab provides [free Hands-On exercises](https://pentesterlab.com/exercis
 
 ### Driver / Desktop (browsers)
 
-*   [Internet Explorer (⭐27k)](https://github.com/SeleniumHQ/selenium/wiki/InternetExplorerDriver) - The InternetExplorerDriver is a standalone server which implements WebDriver's wire protocol.
-*   [Opera (⭐240)](https://github.com/operasoftware/operachromiumdriver/blob/master/README.md) - OperaDriver is a vendor-supported WebDriver implementation developed by Opera Software and volunteers that implements WebDriver API for Opera.
+*   [Internet Explorer (⭐31k)](https://github.com/SeleniumHQ/selenium/wiki/InternetExplorerDriver) - The InternetExplorerDriver is a standalone server which implements WebDriver's wire protocol.
+*   [Opera (⭐263)](https://github.com/operasoftware/operachromiumdriver/blob/master/README.md) - OperaDriver is a vendor-supported WebDriver implementation developed by Opera Software and volunteers that implements WebDriver API for Opera.
 
 ### Web Scraping / Mining / Desktop GUI Automation (non-browser-centric)
 
-*   [Node-Crawler (⭐6.5k)](https://github.com/sylvinus/node-crawler) - **Node.js** Web Crawler/Spider for NodeJS + server-side jQuery.
+*   [Node-Crawler (⭐6.7k)](https://github.com/sylvinus/node-crawler) - **Node.js** Web Crawler/Spider for NodeJS + server-side jQuery.
 
 ### Blogs / Desktop GUI Automation (non-browser-centric)
 
@@ -76,13 +76,13 @@ PentesterLab provides [free Hands-On exercises](https://pentesterlab.com/exercis
 
 ### Configuration
 
-*   [ENVied (⭐331)](https://github.com/eval/envied) - ensure presence and type of your app's ENV-variables
+*   [ENVied (⭐330)](https://github.com/eval/envied) - ensure presence and type of your app's ENV-variables
 
 ## [5. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Table of Contents / Filtering, Sanitizing and Validation
 
-*   [Volan (⭐43)](https://github.com/serkin/Volan) - Another simplified validation library.
+*   [Volan (⭐44)](https://github.com/serkin/Volan) - Another simplified validation library.
 
 ## [6. Typography](/content/deanhume/typography/README.md)
 

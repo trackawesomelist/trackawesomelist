@@ -33,11 +33,11 @@
 
 ### DSP
 
-*   [DSPFilters (⭐1.8k)](https://github.com/vinniefalco/DSPFilters) - A collection of useful C++ classes for digital signal processing. \[MIT]
-*   [iir1 (⭐620)](https://github.com/berndporr/iir1) - IIR Realtime C++ filter library. \[MIT]
-*   [kissfft (⭐1.4k)](https://github.com/mborgerding/kissfft) - A Fast Fourier Transform (FFT) library that tries to Keep it Simple, Stupid. \[BSD-3-Clause]
-*   [pocketfft (⭐69)](https://github.com/mreineck/pocketfft) - FFT implementation based on FFTPack, but with several improvements. \[BSD-3-Clause]
-*   [wavelib (⭐357)](https://github.com/rafat/wavelib) - C implementation of 1D and 2D wavelet transforms. \[BSD-3-Clause]
+*   [DSPFilters (⭐1.9k)](https://github.com/vinniefalco/DSPFilters) - A collection of useful C++ classes for digital signal processing. \[MIT]
+*   [iir1 (⭐662)](https://github.com/berndporr/iir1) - IIR Realtime C++ filter library. \[MIT]
+*   [kissfft (⭐1.5k)](https://github.com/mborgerding/kissfft) - A Fast Fourier Transform (FFT) library that tries to Keep it Simple, Stupid. \[BSD-3-Clause]
+*   [pocketfft (⭐79)](https://github.com/mreineck/pocketfft) - FFT implementation based on FFTPack, but with several improvements. \[BSD-3-Clause]
+*   [wavelib (⭐391)](https://github.com/rafat/wavelib) - C implementation of 1D and 2D wavelet transforms. \[BSD-3-Clause]
 
 ## [5. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -50,7 +50,7 @@
 ### Videos / Others
 
 *   [Burke Learns Blazor](https://www.youtube.com/watch?v=qONPW7N_r8k) - ![duration](https://img.shields.io/badge/Duration:%20-117%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) July 7, 2023 - Finishing the API and starting the UI. [Community links](https://www.theurlist.com/burke-learns-blazor).
-*   [Adding Progress Indicators & Progress Telerik Maps in 'Next Tech Event' | Part 21](https://www.youtube.com/watch?v=cYDs7WyOxcE) - ![duration](https://img.shields.io/badge/Duration:%20-126%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) July 4, 2023 - In this episode, we discuss and implement progress indicators to enhance user experience. Plus, we integrate a Map component from Progress Telerik, adding a visually striking and functional element to the platform. [Source code (⭐6)](https://github.com/CodingAfterWork/NextTechEvent).
+*   [Adding Progress Indicators & Progress Telerik Maps in 'Next Tech Event' | Part 21](https://www.youtube.com/watch?v=cYDs7WyOxcE) - ![duration](https://img.shields.io/badge/Duration:%20-126%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) July 4, 2023 - In this episode, we discuss and implement progress indicators to enhance user experience. Plus, we integrate a Map component from Progress Telerik, adding a visually striking and functional element to the platform. [Source code (⭐5)](https://github.com/CodingAfterWork/NextTechEvent).
 *   [The Blazor Power Hour: Sections, SectionOutlet, and SectionContent in .NET 8 Preview](https://www.youtube.com/watch?v=6iUNRitiJTQ) - ![duration](https://img.shields.io/badge/Duration:%20-129%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) June 28, 2023 - Let's take a deep dive into a .NET 8 Preview feature, sections. What are SectionOutlet, and SectionContent? How do we use them to build an extensive layout system for Blazor applications?
 
 ---

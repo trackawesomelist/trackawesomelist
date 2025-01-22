@@ -10,13 +10,13 @@
 
 ### 2017 / Book/monograph Lists and Reviews
 
-*   [awesome-rshiny (⭐769)](https://github.com/grabear/awesome-rshiny)
+*   [awesome-rshiny (⭐805)](https://github.com/grabear/awesome-rshiny)
 
 ## [2. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
 ### Boilerplates
 
-*   [phox (⭐18)](https://github.com/herschel666/phox) - Create a static photo blog.
+*   [phox (⭐19)](https://github.com/herschel666/phox) - Create a static photo blog.
 
 ## [3. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 

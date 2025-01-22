@@ -37,11 +37,11 @@
 
 ### Editor Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [acrodata/code-editor (⭐15)](https://github.com/acrodata/code-editor) - CodeMirror 6 wrapper for Angular.
+*   [acrodata/code-editor (⭐30)](https://github.com/acrodata/code-editor) - CodeMirror 6 wrapper for Angular.
 
 ### Markdown / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-markdown (⭐1k)](https://github.com/jfcere/ngx-markdown) - Angular library that combines Marked, Prism.js, Emoji-Toolkit, KaTeX, Mermaid and Clipboard.js.
+*   [ngx-markdown (⭐1.1k)](https://github.com/jfcere/ngx-markdown) - Angular library that combines Marked, Prism.js, Emoji-Toolkit, KaTeX, Mermaid and Clipboard.js.
 
 ## [2. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 

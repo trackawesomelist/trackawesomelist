@@ -23,7 +23,7 @@
 
 ### Tools
 
-*   [user-statistician (⭐81)](https://github.com/cicirello/user-statistician) - A GitHub Action that generates SVG of detailed GitHub user activity for profile readmes.
+*   [user-statistician (⭐87)](https://github.com/cicirello/user-statistician) - A GitHub Action that generates SVG of detailed GitHub user activity for profile readmes.
 
 ## [4. Awesome Plone](/content/collective/awesome-plone/README.md)
 
@@ -47,17 +47,17 @@
 
 ### Software / Money, Budgeting & Management
 
-*   [DePay](https://depay.com) - Accept Web3 Payments directly into your wallet. Peer-to-peer, free, self-hosted & open-source. ([Demo](https://depay.com/products/payments), [Source Code (⭐94)](https://github.com/depayfi/widgets)) `MIT` `Nodejs`
+*   [DePay](https://depay.com) - Accept Web3 Payments directly into your wallet. Peer-to-peer, free, self-hosted & open-source. ([Demo](https://depay.com/products/payments), [Source Code (⭐97)](https://github.com/depayfi/widgets)) `MIT` `Nodejs`
 
 ### Software / Software Development - IDE & Tools
 
-*   [code-server (⭐67k)](https://github.com/coder/code-server) - VS Code in the browser, hosted on a remote server. `MIT` `Nodejs/Docker`
+*   [code-server (⭐69k)](https://github.com/coder/code-server) - VS Code in the browser, hosted on a remote server. `MIT` `Nodejs/Docker`
 
 ## [8. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Markdown and LaTeX / Diagnostics
 
-*   [AckslD/nvim-FeMaco.lua (⭐319)](https://github.com/AckslD/nvim-FeMaco.lua) - Catalyze your Fenced Markdown Code-block editing.
+*   [AckslD/nvim-FeMaco.lua (⭐327)](https://github.com/AckslD/nvim-FeMaco.lua) - Catalyze your Fenced Markdown Code-block editing.
 
 ## [9. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/README.md)
 
@@ -77,7 +77,7 @@
 
 ### Data Structure / Runner
 
-*   [js-sdsl (⭐10)](https://github.com/zly201/js-sdsl) - Refer to the javascript standard data structure library implemented by c++ stl, which supports c++ bidirectional iterator mode.
+*   [js-sdsl (⭐11)](https://github.com/zly201/js-sdsl) - Refer to the javascript standard data structure library implemented by c++ stl, which supports c++ bidirectional iterator mode.
 
 ### API / Runner
 
@@ -86,7 +86,7 @@
 
 ### Misc / Other
 
-*   [apvarun/awesome-bun (⭐2.6k)](https://github.com/apvarun/awesome-bun)
+*   [apvarun/awesome-bun (⭐2.7k)](https://github.com/apvarun/awesome-bun)
 
 ## [11. Awesome Umbraco](/content/umbraco-community/awesome-umbraco/README.md)
 
@@ -115,7 +115,7 @@
 
 ### Caches
 
-*   [cachego (⭐364)](https://github.com/faabiosr/cachego) - Golang Cache component for multiple drivers.
+*   [cachego (⭐369)](https://github.com/faabiosr/cachego) - Golang Cache component for multiple drivers.
 
 ### Middlewares / Actual middlewares
 
@@ -123,7 +123,7 @@
 
 ### Code Analysis / Libraries for creating HTTP middlewares
 
-*   [usestdlibvars (⭐43)](https://github.com/sashamelentyev/usestdlibvars) - A linter that detect the possibility to use variables/constants from the Go standard library.
+*   [usestdlibvars (⭐44)](https://github.com/sashamelentyev/usestdlibvars) - A linter that detect the possibility to use variables/constants from the Go standard library.
 
 ## [13. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
@@ -135,13 +135,12 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-jspm (⭐58)](https://github.com/jspm/vite-plugin-jspm) - Resolves dependencies independently from CDN providers using import maps and es-module-shims.
+*   [vite-plugin-jspm (⭐60)](https://github.com/jspm/vite-plugin-jspm) - Resolves dependencies independently from CDN providers using import maps and es-module-shims.
 
 ## [15. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Audio and Video Tools / File Sharing
 
-*   [Popcorn Time](https://popcorntime.co/) - Watch torrent movies instantly, This Popcorn Time service will never be taken down. Download and enjoy. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Potplayer X](https://okaapps.com/product/1612400976)- a Video Audio Player. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/cn/app/potplayer-x-%E9%9F%B3%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE%E5%99%A8/id1612400976?mt=12)
 
 ---

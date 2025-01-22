@@ -54,15 +54,15 @@
 
 ### CMS
 
-*   [Composite C1 (⭐253)](https://github.com/Orckestra/C1-CMS-Foundation) - A web CMS that focus on UX and adaptability
+*   [Composite C1 (⭐251)](https://github.com/Orckestra/C1-CMS-Foundation) - A web CMS that focus on UX and adaptability
 
 ### GIS
 
-*   [GeoJSON4EntityFramework (⭐19)](https://github.com/alatas/GeoJSON4EntityFramework) - A library to create GeoJSON from Entity Framework Spatial Data or Well-Known Text (WKT) inputs.
+*   [GeoJSON4EntityFramework (⭐20)](https://github.com/alatas/GeoJSON4EntityFramework) - A library to create GeoJSON from Entity Framework Spatial Data or Well-Known Text (WKT) inputs.
 
 ### Testing
 
-*   [Fluent Assertions (⭐3.7k)](https://github.com/fluentassertions/fluentassertions) - A set of .NET extension methods that allow you to more naturally specify the expected outcome of a TDD or BDD-style test
+*   [Fluent Assertions (⭐3.8k)](https://github.com/fluentassertions/fluentassertions) - A set of .NET extension methods that allow you to more naturally specify the expected outcome of a TDD or BDD-style test
 
 ## [8. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
@@ -74,7 +74,7 @@
 
 ### Libraries / GUI
 
-*   [saurvs/nfd-rs (⭐157)](https://github.com/saurvs/nfd-rs) - [nativefiledialog (⭐1.7k)](https://github.com/mlabbe/nativefiledialog) bindings
+*   [saurvs/nfd-rs (⭐158)](https://github.com/saurvs/nfd-rs) - [nativefiledialog (⭐1.8k)](https://github.com/mlabbe/nativefiledialog) bindings
 
 ## [10. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/week/README.md)
 
@@ -84,7 +84,7 @@
 
 ## [11. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
-### Bloggers / Book Deals (Affiliated) 🛍
+### Bloggers / Book Deals (Affiliated)
 
 *   [Matthew Russell](https://miningthesocialweb.com/) - Mining The Social Web.
 *   [Hakan Kardas](https://www.cse.unr.edu/~hkardes/) - Personal Web Page
@@ -117,7 +117,7 @@
 ### Containers / Docker
 
 *   [elgalu/docker-selenium (⭐1.4k)](https://github.com/elgalu/docker-selenium) - Selenium in Docker with Chrome & Firefox plus video recording support.
-*   [SeleniumHQ/docker-selenium (⭐6.9k)](https://github.com/SeleniumHQ/docker-selenium) - Docker images for Selenium Standalone Server, Hub, and Node configurations with Chrome and Firefox.
+*   [SeleniumHQ/docker-selenium (⭐8.2k)](https://github.com/SeleniumHQ/docker-selenium) - Docker images for Selenium Standalone Server, Hub, and Node configurations with Chrome and Firefox.
 
 ## [14. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
 
@@ -238,7 +238,7 @@
 
 ### Mocking / Symfony2
 
-*   [Request Baskets (⭐336)](https://github.com/darklynx/request-baskets) - Service to collect HTTP requests and inspect them via RESTful API or web UI.
+*   [Request Baskets (⭐362)](https://github.com/darklynx/request-baskets) - Service to collect HTTP requests and inspect them via RESTful API or web UI.
 
 ## [29. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
@@ -266,7 +266,7 @@
 
 ### Game Frameworks / XML
 
-*   [Voxelman (⭐123)](https://github.com/MrSmith33/voxelman) -  Plugin-based client-server voxel game engine written in D language
+*   [Voxelman (⭐126)](https://github.com/MrSmith33/voxelman) -  Plugin-based client-server voxel game engine written in D language
 
 ## [33. Awesome Rails Gem](/content/hothero/awesome-rails-gem/week/README.md)
 
@@ -307,8 +307,8 @@
 
 ### Database Management
 
-*   [RNeo4j (⭐236)](https://github.com/nicolewhite/Rneo4j) - Neo4j graph database driver.
-*   [rpostgis (⭐75)](https://github.com/mablab/rpostgis) - R interface to PostGIS database and get spatial objects in R.
+*   [RNeo4j (⭐239)](https://github.com/nicolewhite/Rneo4j) - Neo4j graph database driver.
+*   [rpostgis (⭐78)](https://github.com/mablab/rpostgis) - R interface to PostGIS database and get spatial objects in R.
 
 ## [37. Awesome Recursion Schemes](/content/passy/awesome-recursion-schemes/week/README.md)
 
@@ -328,7 +328,7 @@
 
 ### Third Party APIs
 
-*   [cashier (⭐48)](https://github.com/swelham/cashier) - Payment gateway offering a common interface into multiple payment providers.
+*   [cashier (⭐50)](https://github.com/swelham/cashier) - Payment gateway offering a common interface into multiple payment providers.
 
 ## [39. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 
@@ -451,13 +451,13 @@
 
 ### Related projects / Syntax highlighting packages
 
-*   [Ostrich (⭐38)](https://github.com/PumpMagic/ostrich) - A Game Boy Sound System player written in Swift.
+*   [Ostrich (⭐40)](https://github.com/PumpMagic/ostrich) - A Game Boy Sound System player written in Swift.
 
 ## [51. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Machine Learning
 
-*   [mlpack (⭐5k)](https://github.com/mlpack/mlpack) - A scalable c++ machine learning library. \[LGPLv3] [website](http://www.mlpack.org/)
+*   [mlpack (⭐5.2k)](https://github.com/mlpack/mlpack) - A scalable c++ machine learning library. \[LGPLv3] [website](http://www.mlpack.org/)
 
 ---
 

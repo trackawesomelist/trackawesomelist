@@ -20,13 +20,13 @@
 
 ### Captchas
 
-*   [mCaptcha](http://mcaptcha.org/) ([repo (⭐1.6k)](https://github.com/mCaptcha/mCaptcha)) - An open-source CAPTCHA system with seamless UX.  mCaptcha uses SHA256 based proof-of-work (PoW) to rate limit users.
+*   [mCaptcha](http://mcaptcha.org/) ([repo (⭐1.8k)](https://github.com/mCaptcha/mCaptcha)) - An open-source CAPTCHA system with seamless UX.  mCaptcha uses SHA256 based proof-of-work (PoW) to rate limit users.
 
 ## [3. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Gaming Software / System Related Tools
 
-*   [Ryujinx](https://ryujinx.org/) - The Open-source Nintendo Switch Emulator [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/Ryujinx/Ryujinx)
+*   ~~[Ryujinx](https://ryujinx.org/) - The Open-source Nintendo Switch Emulator [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/Ryujinx/Ryujinx)~~
 
 ## [4. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
 
@@ -38,13 +38,13 @@
 
 ### CMS / Playground
 
-*   [Graphweaver (⭐461)](https://github.com/exogee-technology/graphweaver) - Turn multiple data sources into a single GraphQL Headless CMS.
+*   [Graphweaver (⭐499)](https://github.com/exogee-technology/graphweaver) - Turn multiple data sources into a single GraphQL Headless CMS.
 
 ## [6. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
 ### AI
 
-*   [emlearn-micropython (⭐55)](https://github.com/emlearn/emlearn-micropython) - Efficient Machine Learning engine for MicroPython.
+*   [emlearn-micropython (⭐107)](https://github.com/emlearn/emlearn-micropython) - Efficient Machine Learning engine for MicroPython.
 
 ## [7. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -57,10 +57,6 @@
 ### Tools for Teams and Collaboration
 
 *   [Pullflow](https://pullflow.com) — Pullflow offers an AI-enhanced platform for code review collaboration across GitHub, Slack, and VS Code.
-
-### IaaS
-
-*   [Spheron](https://spheron.network/) — From Decentralised Cloud Storage and web Hosting to Decentralised Compute for Apps and developers under one platform, the Free plan provides 5GB Storage, 100GB Bandwidth, Unlimited Domain and projects, $5 worth of Compute resources (Worth $50 w\.r.t AWS).
 
 ## [9. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/README.md)
 

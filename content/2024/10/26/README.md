@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 26, 2024
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -24,31 +24,21 @@
 
 ### Command-line
 
-*   [vin (⭐0)](https://github.com/DeoDorqnt387/vin) - A Basic Command Line Interface for V.
+*   [vin (⭐2)](https://github.com/DeoDorqnt387/vin) - A Basic Command Line Interface for V.
 
 ## [4. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Images
 
-*   [go-qrcode (⭐547)](https://github.com/yeqown/go-qrcode) - Generate QR codes with personalized styles, allowing adjustments to color, block size, shape, and icons.
-
-### Websites / Libraries for creating HTTP middlewares
-
-*   [Golang Nugget](https://mondaynugget.com/golang/) - A weekly roundup of the best Go content, delivered to your inbox every Monday.
+*   [go-qrcode (⭐612)](https://github.com/yeqown/go-qrcode) - Generate QR codes with personalized styles, allowing adjustments to color, block size, shape, and icons.
 
 ## [5. Awesome for Beginners](/content/MunGell/awesome-for-beginners/README.md)
 
 ### Go
 
-*   [utils (⭐2)](https://github.com/kashifkhan0771/utils) *(label: good-first-issue)* <br> Common Utilities library for Go
+*   [utils (⭐10)](https://github.com/kashifkhan0771/utils) *(label: good first issue)* <br> Common Utilities library for Go
 
-## [6. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
-
-### GTFS Converters / Ruby
-
-*   [Chouette (⭐16)](https://github.com/enroute-mobi/chouette-core) - Converts between French-Transmodel [NeTEX](https://transmodel-cen.eu/index.php/netex/) and GTFS.
-
-## [7. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
+## [6. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
 
 ### PaaS
 
@@ -59,35 +49,31 @@
 *   [Neptune](https://neptune.ai/research) \[FREE] - Neptune is an experiment tracker for ML teams that struggle with debugging and reproducing experiments, sharing results, and messy model handovers free to use for Academic and research.
 *   [Comet](https://www.comet.com/signup?plan=academic) \[FREE] - Comet provides an end-to-end model evaluation platform for AI developers, with best-in-class LLM evaluations, experiment tracking, and production monitoring.
 
-## [8. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
-
-### Resources / Ironsworn
-
-*   [Forge Codex](https://www.drivethrurpg.com/en/product/490797/forge-codex-001) - Modular supplement with locations, characters, and encounters for Starforged
+## [7. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
 
 ### Hacks and homebrew / Ironsworn
 
 *   [The 'Verse](https://jaderavens.itch.io/starforged-the-verse) - *Firefly* setting kit for Starforged
 
-## [9. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+## [8. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### Media / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [voicecapture-angular (⭐3)](https://github.com/angular-a11y/voicecapture-angular) - The library offers customizable options for handling voice input and transcription, making it a flexible solution for enhancing user interfaces.
 
-## [10. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
+## [9. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
 ### Status Bar
 
 *   [tmux-workspace-usage (⭐2)](https://github.com/sjdonado/tmux-workspace-usage) Displays the memory and CPU usage of your workspace processes.
 
-## [11. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
+## [10. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Files and Directories / File Managers
 
-*   [yazi (⭐15k)](https://github.com/sxyazi/yazi) - Blazing fast file manager.
+*   [yazi (⭐16k)](https://github.com/sxyazi/yazi) - Blazing fast file manager.
 
-## [12. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/README.md)
+## [11. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/README.md)
 
 ### Lecture Notes / Monograph
 
@@ -95,4 +81,5 @@
 
 ---
 
+- Prev: [Oct 27, 2024](/content/2024/10/27/README.md)
 - Next: [Oct 25, 2024](/content/2024/10/25/README.md)

@@ -12,10 +12,6 @@
 
 *   [jsDelivr](http://www.jsdelivr.com/)
 
-### JavaScript
-
-*   [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
-
 ### Pagespeed
 
 *   [Modern IE Reporting tool](https://www.modern.ie/en-us/report)
@@ -32,7 +28,7 @@
 
 ### Serialization
 
-*   [FlatBuffers (⭐23k)](https://github.com/google/flatbuffers) - A Memory efficient serialization library. \[Apache2]
+*   [FlatBuffers (⭐24k)](https://github.com/google/flatbuffers) - A Memory efficient serialization library. \[Apache2]
 
 ### Websites
 

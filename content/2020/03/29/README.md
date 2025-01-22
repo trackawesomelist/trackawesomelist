@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 29, 2020
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -30,7 +30,7 @@
 
 ### Static Analysis / Linting
 
-*   [PHP Coding Standards Fixer Action (⭐153)](https://github.com/OskarStark/php-cs-fixer-ga)
+*   [PHP Coding Standards Fixer Action (⭐183)](https://github.com/OskarStark/php-cs-fixer-ga)
 
 ## [5. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
@@ -63,13 +63,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [LeagueStats (⭐415)](https://github.com/vkaelin/LeagueStats) - Statistics website for players of the online game League of Legends.
-
-## [10. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
-
-### Software / Miscellaneous
-
-*   [MailyGo](https://codeberg.org/jlelse/MailyGo) - MailyGo is a small tool written in Go that allows to send HTML forms, for example from static websites without a dynamic backend, via email. `MIT` `Go`
+*   [LeagueStats (⭐435)](https://github.com/vkaelin/LeagueStats) - Statistics website for players of the online game League of Legends.
 
 ---
 

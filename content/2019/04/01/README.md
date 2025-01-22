@@ -86,7 +86,7 @@
 
 ### UI / Bottom bars
 
-*   [Bottom Navy Bar (⭐999)](https://github.com/pedromassango/bottom_navy_bar) <!--stargazers:pedromassango/bottom_navy_bar--> - Beautiful and colorful animated bottom navigation bar by [Pedro Massango](https://github.com/pedromassango).
+*   [Bottom Navy Bar (⭐1k)](https://github.com/pedromassango/bottom_navy_bar) <!--stargazers:pedromassango/bottom_navy_bar--> - Beautiful and colorful animated bottom navigation bar by [Pedro Massango](https://github.com/pedromassango).
 
 ### UI / Sliders
 

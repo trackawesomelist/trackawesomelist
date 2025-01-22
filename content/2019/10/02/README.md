@@ -112,7 +112,7 @@ In Codenames, two teams compete to see who can make contact with all of their ag
 
 ### Personality
 
-- API: [Programming Quotes (⭐458)](https://github.com/skolakoda/programming-quotes-api)
+- API: [Programming Quotes (⭐469)](https://github.com/skolakoda/programming-quotes-api)
 
   Description: Programming Quotes API for open source projects
 
@@ -188,7 +188,7 @@ In Codenames, two teams compete to see who can make contact with all of their ag
 
 ### Awesome Repositories
 
-- Repository: [Asset Discovery (⭐1.9k)](https://github.com/redhuntlabs/Awesome-Asset-Discovery)
+- Repository: [Asset Discovery (⭐2k)](https://github.com/redhuntlabs/Awesome-Asset-Discovery)
 
   Description: List of resources which help during asset discovery phase of a security assessment engagement
 
@@ -222,13 +222,13 @@ In Codenames, two teams compete to see who can make contact with all of their ag
 
 ### Style Guide Generators :slot_machine: / Editor's Draft :black_nib:
 
-*   [Source (⭐553)](https://github.com/sourcejs/Source)
+*   [Source (⭐548)](https://github.com/sourcejs/Source)
 
 ## [14. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
 
 ### Tools / Working with types
 
-*   [mypyc (⭐18k)](https://github.com/python/mypy/tree/master/mypyc) - Compiles mypy-annotated, statically typed Python modules into CPython C extensions.
+*   [mypyc (⭐19k)](https://github.com/python/mypy/tree/master/mypyc) - Compiles mypy-annotated, statically typed Python modules into CPython C extensions.
 
 ## [15. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 

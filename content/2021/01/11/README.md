@@ -33,12 +33,12 @@
 *   [Introduction to The Robot Operating System (ROS2)](https://www.coursera.org/projects/ros2-intro) **Coursera**
 *   [Modern Robotics: Mechanics, Planning, and Control Specialization](https://www.coursera.org/specializations/modernrobotics) **Coursera**
 *   [Become a Robotics Software Enginee](https://www.udacity.com/course/robotics-software-engineer--nd209) **Udacity**
-*   [Advanced Robotics](http://www.cs.berkeley.edu/\~pabbeel/cs287-fa13/) **UC Berkeley**
+*   [Advanced Robotics](http://www.cs.berkeley.edu/~pabbeel/cs287-fa13/) **UC Berkeley**
 
 ### Misc
 
-*   [Hexapod Robot Simulator (⭐466)](https://github.com/mithi/hexapod) - Solve and visualize hexapod robot inverse kinematics and gaits in the web
-*   [PythonRobotics (⭐17k)](https://github.com/AtsushiSakai/PythonRobotics) - Implementations of various robotics algorithms in python
+*   [Hexapod Robot Simulator (⭐582)](https://github.com/mithi/hexapod) - Solve and visualize hexapod robot inverse kinematics and gaits in the web
+*   [PythonRobotics (⭐23k)](https://github.com/AtsushiSakai/PythonRobotics) - Implementations of various robotics algorithms in python
 
 ## [5. Awesome Diversity](/content/folkswhocode/awesome-diversity/README.md)
 
@@ -78,7 +78,7 @@
 
 ### Preprocessing
 
-*   [svelte-preprocess (⭐1.7k)](https://github.com/sveltejs/svelte-preprocess) - A preprocessor for PostCSS, SCSS, Less, Stylus, Coffeescript, TypeScript, Pug and much more.
+*   [svelte-preprocess (⭐1.8k)](https://github.com/sveltejs/svelte-preprocess) - A preprocessor for PostCSS, SCSS, Less, Stylus, Coffeescript, TypeScript, Pug and much more.
 
 ## [11. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md)
 

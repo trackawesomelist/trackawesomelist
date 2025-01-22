@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 25 - Dec 01, 2019
 
-52 awesome lists updated this week.
+51 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Books, blogs, and training materials / Free and public materials
 
-*   [Writing an embedded OS in Rust on the Raspberry Pi (⭐13k)](https://github.com/rust-embedded/rust-raspi3-OS-tutorials) A set of tutorials that give a guided, step-by-step tour of how to write a monolithic Operating System kernel for an embedded system from scratch. Runs on the Raspberry Pi 3 and the Raspberry Pi 4.
+*   [Writing an embedded OS in Rust on the Raspberry Pi (⭐14k)](https://github.com/rust-embedded/rust-raspi3-OS-tutorials) A set of tutorials that give a guided, step-by-step tour of how to write a monolithic Operating System kernel for an embedded system from scratch. Runs on the Raspberry Pi 3 and the Raspberry Pi 4.
 
 ## [2. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/week/README.md)
 
@@ -77,7 +77,7 @@
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [prelude.ts (⭐376)](https://github.com/emmanueltouzery/prelude.ts) - Functional programming: immutable persistent collections, constructs such as Option and Either, and combinators.
+*   :octocat: [prelude.ts (⭐378)](https://github.com/emmanueltouzery/prelude.ts) - Functional programming: immutable persistent collections, constructs such as Option and Either, and combinators.
 
 ### Typescript Project Starters
 
@@ -93,7 +93,7 @@
 
 ### Badges / Chrome Extensions
 
-*   [TypeScript Badges (⭐45)](https://github.com/ellerbrock/typescript-badges/)
+*   [TypeScript Badges (⭐46)](https://github.com/ellerbrock/typescript-badges/)
     [![TypeScript](https://raw.githubusercontent.com/ellerbrock/typescript-badges/master/badges/awesome/typescript125x28.png)](https://github.com/ellerbrock/typescript-badges/) [![TypeScript](https://raw.githubusercontent.com/ellerbrock/typescript-badges/master/badges/code/typescript-125x28.png)](https://github.com/ellerbrock/typescript-badges/) [![TypeScript](https://raw.githubusercontent.com/ellerbrock/typescript-badges/master/badges/love/typescript-125x28.png)](https://github.com/ellerbrock/typescript-badges/)
 
 ## [12. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
@@ -191,15 +191,15 @@
 
 ### Programming Languages
 
-*   [Vala (⭐158)](https://github.com/desiderantes/awesome-vala#readme) - Programming language designed to take full advantage of the GLib and GNOME ecosystems, while preserving the speed of C code.
+*   [Vala (⭐174)](https://github.com/desiderantes/awesome-vala#readme) - Programming language designed to take full advantage of the GLib and GNOME ecosystems, while preserving the speed of C code.
 
 ### Business
 
-*   [Wardley Maps (⭐645)](https://github.com/wardley-maps-community/awesome-wardley-maps#readme) - Provides high situational awareness to help improve strategic planning and decision making.
+*   [Wardley Maps (⭐680)](https://github.com/wardley-maps-community/awesome-wardley-maps#readme) - Provides high situational awareness to help improve strategic planning and decision making.
 
 ### Miscellaneous
 
-*   [Earth (⭐1.3k)](https://github.com/philsturgeon/awesome-earth#readme) - Find ways to resolve the climate crisis.
+*   [Earth (⭐1.4k)](https://github.com/philsturgeon/awesome-earth#readme) - Find ways to resolve the climate crisis.
 
 ## [21. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
 
@@ -275,7 +275,7 @@
 
 ## [27. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
-### Online services
+### Online services (a-z↓)
 
 *   [Reflect](https://reflect.run) - Visual regression testing and test automation tool.
 
@@ -289,15 +289,15 @@
 
 ### Audio
 
-*   [ModernAVPlayer (⭐280)](https://github.com/noreasonprojects/ModernAVPlayer) - Persistence AVPlayer to resume playback after bad network connection even in background mode.
+*   [ModernAVPlayer (⭐284)](https://github.com/noreasonprojects/ModernAVPlayer) - Persistence AVPlayer to resume playback after bad network connection even in background mode.
 
 ### Device
 
-*   [Deviice (⭐70)](https://github.com/andrealufino/Deviice) - Swift library to easily check the current device and some more info about it.
+*   [Deviice (⭐73)](https://github.com/andrealufino/Deviice) - Swift library to easily check the current device and some more info about it.
 
 ### Fonts
 
-*   [SYSymbol (⭐190)](https://github.com/Nirma/SFSymbol) - All the SFSymbols at your fingertips.
+*   [SYSymbol (⭐193)](https://github.com/Nirma/SFSymbol) - All the SFSymbols at your fingertips.
 
 ### Localization / Barcode
 
@@ -319,7 +319,7 @@
 
 ### Deep Learning / PyTorch
 
-*   [Catalyst (⭐3.2k)](https://github.com/catalyst-team/catalyst) - High-level utils for PyTorch DL & RL research. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
+*   [Catalyst (⭐3.3k)](https://github.com/catalyst-team/catalyst) - High-level utils for PyTorch DL & RL research. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
 
 ## [32. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
 
@@ -374,23 +374,17 @@
 
 ### Software / Archiving and Digital Preservation (DP)
 
-*   [CKAN](https://ckan.org) - CKAN is a tool for making open data websites. ([Source Code (⭐4.4k)](https://github.com/ckan/ckan)) `AGPL-3.0` `Python`
+*   [CKAN](https://ckan.org) - CKAN is a tool for making open data websites. ([Source Code (⭐4.5k)](https://github.com/ckan/ckan)) `AGPL-3.0` `Python`
 
-## [38. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
-
-### Open Source Projects / Wealth
-
-*   [Heedy (⭐388)](https://github.com/heedy/heedy) - A repository for all of your quantified-self data.
-
-## [39. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [38. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### OS and Kernels / Apache License
 
 *   [lovelace-os](https://sourceforge.net/projects/lovelaceos/) - Lovelace is an effort to write a Unix like operating system using the Ada 2012 language.
 *   [ada-kalinda-os](https://sourceforge.net/projects/sx-ada-kalinda/) - Ada KALINDA is a sort of Mac Plus like OS written in Ada95.
-*   [cxos (⭐35)](https://github.com/ajxs/cxos) - Ada Operating System development example.
+*   [cxos (⭐36)](https://github.com/ajxs/cxos) - Ada Operating System development example.
 
-## [40. Awesome Rtc](/content/rtckit/awesome-rtc/week/README.md)
+## [39. Awesome Rtc](/content/rtckit/awesome-rtc/week/README.md)
 
 ### Server Software / General Purpose
 
@@ -506,71 +500,68 @@
 *   [OpenSIPS Summit](https://www.opensips.org/events) - Meeting place for the OpenSIPS community.
 *   [Kranky Geek](https://krankygeek.com) - AI and RTC event in San Francisco.
 
-## [41. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [40. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Entertainment / Books
 
-*   [epr (⭐1.1k)](https://github.com/wustho/epr) - epub reader.
-*   [Bible.Js CLI (⭐285)](https://github.com/BibleJS/BibleApp) - Bible.
-*   [SpeedRead (⭐59)](https://github.com/sunsations/speed_read) - Spritz-alike speedreader.
+*   [epr (⭐1.2k)](https://github.com/wustho/epr) - epub reader.
+*   [Bible.Js CLI (⭐306)](https://github.com/BibleJS/BibleApp) - Bible.
+*   [SpeedRead (⭐64)](https://github.com/sunsations/speed_read) - Spritz-alike speedreader.
 
-## [42. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [41. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Tools
 
-*   👍 [str (⭐304)](https://github.com/vindarel/cl-str) - a modern, simple and consistent string manipulation library. [MIT](https://opensource.org/licenses/MIT).
-*   [trivial-extensible-sequences (⭐12)](https://github.com/Shinmera/trivial-extensible-sequences) - Portability library for the extensible sequences protocol ([SBCL documentation](http://www.sbcl.org/manual/#Extensible-Sequences)). [zlib](https://directory.fsf.org/wiki/License:Zlib).
-*   [listopia (⭐30)](https://github.com/Dimercel/listopia) - a list manipulation library inspired by Haskell's Data.List. [LLGPL](http://opensource.franz.com/preamble.html).
-*   👍 [access (⭐84)](https://github.com/AccelerationNet/access/) - Consistent and nested access to most common data structures. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
-*   [modf (⭐61)](https://github.com/smithzvk/modf) - a setf-like macro for functional programming.
+*   👍 [str (⭐313)](https://github.com/vindarel/cl-str) - a modern, simple and consistent string manipulation library. [MIT](https://opensource.org/licenses/MIT).
+*   [trivial-extensible-sequences (⭐13)](https://github.com/Shinmera/trivial-extensible-sequences) - Portability library for the extensible sequences protocol ([SBCL documentation](http://www.sbcl.org/manual/#Extensible-Sequences)). [zlib](https://directory.fsf.org/wiki/License:Zlib).
+*   [listopia (⭐32)](https://github.com/Dimercel/listopia) - a list manipulation library inspired by Haskell's Data.List. [LLGPL](http://opensource.franz.com/preamble.html).
+*   👍 [access (⭐86)](https://github.com/AccelerationNet/access/) - Consistent and nested access to most common data structures. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
+*   [modf (⭐63)](https://github.com/smithzvk/modf) - a setf-like macro for functional programming.
 
 ### Mobile
 
-*   [generic-cl (⭐137)](https://github.com/alex-gutev/generic-cl/) - Generic function interface to standard Common Lisp functions (equality, comparison, arithmetic, objects, iterator, sequences,…). [MIT](https://opensource.org/licenses/MIT). See also the more lightweight [generic-comparability (⭐16)](https://github.com/pnathan/generic-comparability). [LLGPL](http://opensource.franz.com/preamble.html).
+*   [generic-cl (⭐145)](https://github.com/alex-gutev/generic-cl/) - Generic function interface to standard Common Lisp functions (equality, comparison, arithmetic, objects, iterator, sequences,…). [MIT](https://opensource.org/licenses/MIT).
+    *   see also the more lightweight [equals (⭐9)](https://github.com/karlosz/equals/) [MIT](https://opensource.org/licenses/MIT).
 
 ### Changing the syntax
 
-*   [cl21 (⭐906)](https://github.com/cl21/cl21) - An experimental project to move Common Lisp into the 21st century. [Expat](https://directory.fsf.org/wiki/License:Expat).
-*   [cl-syntax (⭐38)](https://github.com/m2ym/cl-syntax) - Reader syntax conventions. [LLGPL](http://opensource.franz.com/preamble.html).
-*   [cl-2dsyntax](http://www.cliki.net/cl-2dsyntax) - An indentation-sensitive reader system. Not available on Quicklisp. Public domain.
 *   [cl-annot (⭐128)](https://github.com/m2ym/cl-annot) - Python-like annotations for Common Lisp. [LLGPL](http://opensource.franz.com/preamble.html).
-    *   [cl-annot-revisit (⭐7)](https://github.com/y2q-actionman/cl-annot-revisit/) -  re-implementation of cl-annot. WTFPL.
-*   [cl-reader (⭐11)](https://github.com/digikar99/reader) - A utility library
-    intended at providing reader macros for lambdas, mapping, accessors,
-    hash-tables and hash-sets. [MIT](https://opensource.org/licenses/MIT).
+    *   [cl-annot-revisit (⭐8)](https://github.com/y2q-actionman/cl-annot-revisit/) -  re-implementation of cl-annot. WTFPL.
+*   [cl-syntax (⭐39)](https://github.com/m2ym/cl-syntax) - Reader syntax conventions. [LLGPL](http://opensource.franz.com/preamble.html).
+*   [cl-reader (⭐13)](https://github.com/digikar99/reader) - A utility library intended at providing reader macros for lambdas, mapping, accessors, hash-tables and hash-sets. [MIT](https://opensource.org/licenses/MIT).
 
 ### Files and directories / Third-party APIs
 
-*   [mmap (⭐33)](https://github.com/Shinmera/mmap) - Portable mmap file memory mapping utility library. [zlib](https://directory.fsf.org/wiki/License:Zlib).
+*   [mmap (⭐37)](https://github.com/Shinmera/mmap) - Portable mmap file memory mapping utility library. [zlib](https://directory.fsf.org/wiki/License:Zlib).
 
-## [43. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
+## [42. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
 ### Libraries
 
-*   [Ramda (⭐23k)](https://github.com/ramda/ramda) – A practical functional library for JavaScript that is designed specifically for a functional programming style. A style that makes it easy to create functional pipelines and never mutates user data. +TS.
+*   [Ramda (⭐24k)](https://github.com/ramda/ramda) – A practical functional library for JavaScript that is designed specifically for a functional programming style. A style that makes it easy to create functional pipelines and never mutates user data. +TS.
 *   [Folktale](http://folktale.origamitower.com/) – A standard library for functional programming in JavaScript. Typescript support expected mid-2020.  -TS.
-*   [lodash/fp (⭐58k)](https://github.com/lodash/lodash/wiki/FP-Guide) – An instance of [Lodash (⭐58k)](https://github.com/lodash/lodash) with its methods wrapped to produce immutable, auto-curried, iteratee-first, data-last methods. +TS.
+*   [lodash/fp (⭐60k)](https://github.com/lodash/lodash/wiki/FP-Guide) – An instance of [Lodash (⭐60k)](https://github.com/lodash/lodash) with its methods wrapped to produce immutable, auto-curried, iteratee-first, data-last methods. +TS.
 *   [101 (⭐1.6k)](https://github.com/tjmehta/101) – A modern and modular JavaScript utility library made to work well with vanilla JavaScript methods.  -TS
-*   [barely-functional (⭐104)](https://github.com/cullophid/barely-functional) – A tiny (2.7kb) functional programming library using native ES5/6 operations. -TS.
+*   [barely-functional (⭐107)](https://github.com/cullophid/barely-functional) – A tiny (2.7kb) functional programming library using native ES5/6 operations. -TS.
 *   [prelude.ls](http://gkz.github.io/prelude-ls/) – A functionally oriented utility library somewhat based off of Haskell's Prelude module. -TS.
-*   [preludejs (⭐97)](https://github.com/alanrsoares/prelude-js) - Hardcore Functional Programming for JavaScript. -TS.
-*   [1-liners (⭐789)](https://github.com/1-liners/1-liners) – Functional tools that couldn’t be simpler. A dead simple functional utility belt, hand-crafted with love and attention.  -TS.
+*   [preludejs (⭐100)](https://github.com/alanrsoares/prelude-js) - Hardcore Functional Programming for JavaScript. -TS.
+*   [1-liners (⭐793)](https://github.com/1-liners/1-liners) – Functional tools that couldn’t be simpler. A dead simple functional utility belt, hand-crafted with love and attention.  -TS.
 *   [funfix (⭐632)](https://github.com/funfix/funfix) – Funfix is a library of type classes and data types for Functional Programming in JavaScript, TypeScript and Flow.  +CT, +TS.
-*   [pico-lambda (⭐72)](https://github.com/trainyard/pico-lambda) - Arrays, Strings and things the functional way. A 640b functional library based on native methods. -TS.
-*   [pareto-js (⭐264)](https://github.com/concretesolutions/pareto.js/) - An extremely small, intuitive and fast functional utility library for JavaScript -TS.
-*   [fpEs (⭐41)](https://github.com/TeaEntityLab/fpEs/) - A small library provides simple usages of basic FP & pattern-matching/sumtype & MonadIO/Rx & Optional for Javascript. -TS.
+*   [pico-lambda (⭐71)](https://github.com/trainyard/pico-lambda) - Arrays, Strings and things the functional way. A 640b functional library based on native methods. -TS.
+*   [pareto-js (⭐261)](https://github.com/concretesolutions/pareto.js/) - An extremely small, intuitive and fast functional utility library for JavaScript -TS.
+*   [fpEs (⭐43)](https://github.com/TeaEntityLab/fpEs/) - A small library provides simple usages of basic FP & pattern-matching/sumtype & MonadIO/Rx & Optional for Javascript. -TS.
 *   [Creed](http://blog.briancavalier.com/creed/) – Sophisticated and functionally-minded async with advanced features: coroutines, promises, ES2015 iterables, fantasy-land. -TS.
-*   [TGrid (⭐117)](https://github.com/samchon/tgrid) - Grid Computing Framework, Network & Thread extension of [TSTL (⭐573)](https://github.com/samchon/tstl), supporting RFC (Remote Function Call). +TS.
-*   [Ferrum (⭐507)](https://github.com/adobe/ferrum) – Iterator library with support for objects as iterables, lazy evaulation and`pipe()`; implements Traits (from Rust)/Type Classes (from Haskell) in JS. -TS.
-*   [iter-tools (⭐162)](https://github.com/iter-tools/iter-tools) - a rich toolset for working with iterables, both sync and async. +TS.
+*   [TGrid (⭐146)](https://github.com/samchon/tgrid) - Grid Computing Framework, Network & Thread extension of [TSTL (⭐603)](https://github.com/samchon/tstl), supporting RFC (Remote Function Call). +TS.
+*   [Ferrum (⭐519)](https://github.com/adobe/ferrum) – Iterator library with support for objects as iterables, lazy evaulation and`pipe()`; implements Traits (from Rust)/Type Classes (from Haskell) in JS. -TS.
+*   [iter-tools (⭐170)](https://github.com/iter-tools/iter-tools) - a rich toolset for working with iterables, both sync and async. +TS.
 *   [remeda](https://remedajs.com/) A function library roughly subsetting Ramda, but written in Typescript and thus more type-friendly. +TS.
 
 ### Libraries / Data Structures
 
-*   [Immer (⭐27k)](https://github.com/mweststrate/immer) – Immer is a tiny package for immutable state based on copy-on-write mechanism. +TS.
-*   [DerivableJS (⭐514)](https://github.com/ds300/derivablejs) – Functional Reactive State for JavaScript and TypeScript. DerivableJS enables you to make elegant declarative statements about how your bits of state are related. +TS.
-*   [collectable (⭐269)](https://github.com/frptools/collectable) – Super high-performance immutable data structures for modern JavaScript and TypeScript applications. +TS.
-*   [TSTL (⭐573)](https://github.com/samchon/tstl) - C++ STL (Standard Template Library) is implemented in TypeScript. STL Containers, iterators, algorithms and functors, that following functional programming rule, are provided. +TS.
+*   [Immer (⭐28k)](https://github.com/mweststrate/immer) – Immer is a tiny package for immutable state based on copy-on-write mechanism. +TS.
+*   [DerivableJS (⭐515)](https://github.com/ds300/derivablejs) – Functional Reactive State for JavaScript and TypeScript. DerivableJS enables you to make elegant declarative statements about how your bits of state are related. +TS.
+*   [collectable (⭐272)](https://github.com/frptools/collectable) – Super high-performance immutable data structures for modern JavaScript and TypeScript applications. +TS.
+*   [TSTL (⭐603)](https://github.com/samchon/tstl) - C++ STL (Standard Template Library) is implemented in TypeScript. STL Containers, iterators, algorithms and functors, that following functional programming rule, are provided. +TS.
 
 ### Libraries / Algebraic Data Types
 
@@ -578,10 +569,10 @@
 *   [monet.js](http://cwmyers.github.io/monet.js/) – A library that assists functional programming by providing a rich set of Monads and other useful functions.  +CT, +TS.
 *   [crocks (⭐1.6k)](https://github.com/evilsoft/crocks) – A collection of popular Algebraic Data Types with the main goal to curate and provide not only a common interface between each type, but also all of the helper functions needed to hit the ground running. -TS.
 *   [purify (⭐1.5k)](https://github.com/gigobyte/purify) - Functional programming library for TypeScript focusing on ADTs.  +CT, +TS.
-*   [Pratica (⭐433)](https://github.com/rametta/pratica) - Small, simple, easy FP data types for pragmatic and productive developers who need to ship reliable code fast.  +CT, +TS.
+*   [Pratica (⭐468)](https://github.com/rametta/pratica) - Small, simple, easy FP data types for pragmatic and productive developers who need to ship reliable code fast.  +CT, +TS.
 *   [Tifi](https://github.com/mobily/tifi) - Tifi is a library for functional programming in TypeScript. It solves a problem of the existence of both `undefined` and `null`. Tifi is inspired by the OCaml/Reason utilities for the option data type. +CT, +TS.
 
-## [44. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [43. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In Portuguese
 
@@ -595,38 +586,38 @@
 
 *   [Radio Nukular](https://www.radionukular.de/) - Mainly (but not limited to) movies, video games and comics.
 
-## [45. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [44. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### Articles & Papers / Scala
 
 *   [Formal Foundations of Serverless Computing](https://arxiv.org/pdf/1902.05870.pdf) :small\_orange\_diamond:<sup>PDF</sup> - The serverless computing abstraction exposes several low-level operational details that make it hard for programmers to write and reason about their code. This paper sheds light on this problem by presenting λ, an operational semantics of the essence of serverless computing.
 
-## [46. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [45. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### GTFS Converters / Ruby
 
 *   [gtsf (⭐3)](https://github.com/r-gtfs/gtsf) - general transit (GTFS) simple (geographic) features (sf) in R. can be used to convert from GTFS to Shapefile, GeoJSON, and other formats through GDAL.
 
-## [47. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
+## [46. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
 ### Reading
 
 *   [Wardleypedia](http://wardleypedia.org/mediawiki/index.php/Main_Page) - A Wiki Encyclopedia dedicated to the strategy mapping techniques pioneered by Simon Wardley.
 *   [Wardley map](https://en.wikipedia.org/wiki/Wardley_map) - Wikipedia entry.
 
-## [48. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
+## [47. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
 
 ### Architecture
 
 *   [*Hands-On Design Patterns with Swift* by Giordano Scalzo, Florent Vilmart, Sergio De Simone](https://www.packtpub.com/application-development/hands-design-patterns-swift#tab-label-additional)
 
-## [49. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
+## [48. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
 
 ### Blog Posts & Tutorials
 
 *   [Importing, Inspecting and Scoring with MOJO models inside H2O](https://www.pavel.cool/h2o-3/h2o-mojo-import/) Dec 10, 2019
 
-## [50. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
+## [49. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
 
 ### Torrenting
 
@@ -672,18 +663,18 @@
 
 *   [netflix-proxy (⭐3.5k)](https://github.com/ab77/netflix-proxy/) Smart DNS proxy to watch Netflix out-of-region
 
-## [51. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/week/README.md)
+## [50. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/week/README.md)
 
 ### Other libraries and tools / Mesh tools
 
 *   [NFFT](https://www-user.tu-chemnitz.de/~potts/nfft/) - Nonequispaced fast Fourier transform.
-    (C/MATLAB, GPL 2, [GitHub (⭐164)](https://github.com/NFFT/nfft))
+    (C/MATLAB, GPL 2, [GitHub (⭐175)](https://github.com/NFFT/nfft))
 
 ### Community / Mesh tools
 
 *   [Nick Higham's blog](https://nhigham.com/) - Mostly on MATLAB, general computing advice.
 
-## [52. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [51. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Virtualization
 

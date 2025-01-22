@@ -10,15 +10,15 @@
 
 ### Email Marketing / Email Deliverability
 
-*   [Heybounce](https://www.heybounce.io) - Email verification service that checks if an email exists and detects disposable emails to reduce bounce rates.
-*   [GlockApps](https://glockapps.com/) - Tool to diagnose email deliverability problems.
-*   [Mailtrap](https://mailtrap.io/) - Platform used to test deliverability before sending and control results in one place.
+*   [Heybounce](https://www.heybounce.io) - Review - Email verification service that checks if an email exists and detects disposable emails to reduce bounce rates.
+*   [GlockApps](https://glockapps.com/) - Review - Tool to diagnose email deliverability problems.
+*   [Mailtrap](https://mailtrap.io/) - Review - Platform used to test deliverability before sending and control results in one place.
 
 ## [2. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Database
 
-*   [valentinus (⭐6)](https://github.com/kn0sys/valentinus) - Next generation vector database built with LMDB bindings [![Crates.io Version](https://img.shields.io/crates/v/valentinus)](https://crates.io/crates/valentinus)
+*   [valentinus (⭐11)](https://github.com/kn0sys/valentinus) - Next generation vector database built with LMDB bindings [![Crates.io Version](https://img.shields.io/crates/v/valentinus)](https://crates.io/crates/valentinus)
 
 ## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -46,10 +46,10 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 ### Libraries / PHP
 
 *   [laravel-mongodb (⭐7k)](https://github.com/mongodb/laravel-mongodb) - Official Eloquent model and query builder for Laravel
-*   [Doctrine MongoDB ODM (⭐1.1k)](https://github.com/doctrine/mongodb-odm) and [MongoDB ODM Bundle for Symfony (⭐379)](https://github.com/doctrine/DoctrineMongoDBBundle) - Fully featured ORM with Symfony integration
-*   [MongoDB Bundle (⭐36)](https://github.com/facile-it/mongodb-bundle) - Integration of the official library with Symfony, without ORM
-*   [yii-mongodb (⭐326)](https://github.com/yiisoft/yii2-mongodb) - Yii 2 MongoDB extension
-*   [opentelemetry php auto-mongodb (⭐0)](https://github.com/opentelemetry-php/contrib-auto-mongodb) - Automatic monitoring of MongoDB commands with OpenTelemetry
+*   [Doctrine MongoDB ODM (⭐1.1k)](https://github.com/doctrine/mongodb-odm) and [MongoDB ODM Bundle for Symfony (⭐383)](https://github.com/doctrine/DoctrineMongoDBBundle) - Fully featured ORM with Symfony integration
+*   [MongoDB Bundle (⭐37)](https://github.com/facile-it/mongodb-bundle) - Integration of the official library with Symfony, without ORM
+*   [yii-mongodb (⭐328)](https://github.com/yiisoft/yii2-mongodb) - Yii 2 MongoDB extension
+*   [opentelemetry php auto-mongodb (⭐1)](https://github.com/opentelemetry-php/contrib-auto-mongodb) - Automatic monitoring of MongoDB commands with OpenTelemetry
 
 ## [6. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
@@ -61,21 +61,20 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ### Packages / Language Bindings
 
-*   [spark-connect-rs (⭐76)](https://github.com/sjrusso8/spark-connect-rs) <img src="https://img.shields.io/github/last-commit/sjrusso8/spark-connect-rs.svg"> - Rust bindings.
-*   [spark-connect-go (⭐145)](https://github.com/apache/spark-connect-go) <img src="https://img.shields.io/github/last-commit/apache/spark-connect-go.svg"> - Golang bindings.
-*   [spark-connect-rs (⭐1)](https://github.com/mdrakiburrahman/spark-connect-csharp) <img src="https://img.shields.io/github/last-commit/mdrakiburrahman/spark-connect-csharp.svg"> - C# bindings.
+*   [spark-connect-rs (⭐85)](https://github.com/sjrusso8/spark-connect-rs) <img src="https://img.shields.io/github/last-commit/sjrusso8/spark-connect-rs.svg"> - Rust bindings.
+*   [spark-connect-go (⭐155)](https://github.com/apache/spark-connect-go) <img src="https://img.shields.io/github/last-commit/apache/spark-connect-go.svg"> - Golang bindings.
 
 ## [8. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
 ### Third-Party Packages / Models
 
-*   [django-auto-prefetch (⭐353)](https://github.com/tolomea/django-auto-prefetch) - Automatically prefetch foreign key values as needed.
+*   [django-auto-prefetch (⭐361)](https://github.com/tolomea/django-auto-prefetch) - Automatically prefetch foreign key values as needed.
 
 ## [9. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
 
 ### Projects Related to eBPF / Security
 
-*   [harpoon (⭐87)](https://github.com/alegrey91/harpoon) - Trace syscalls from user-space functions, by using eBPF.
+*   [harpoon (⭐132)](https://github.com/alegrey91/harpoon) - Trace syscalls from user-space functions, by using eBPF.
 
 ## [10. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
 
@@ -95,11 +94,11 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ### Integrations / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [vike-angular (⭐9)](https://github.com/vikejs/vike-angular) - Angular integration for [Vike (⭐4.2k)](https://github.com/vikejs/vike), a fast Vite-based frontend framework.
+*   [vike-angular (⭐9)](https://github.com/vikejs/vike-angular) - Angular integration for [Vike (⭐4.6k)](https://github.com/vikejs/vike), a fast Vite-based frontend framework.
 
 ### Form Controls / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-otp-input (⭐24)](https://github.com/pkovzz/ngx-otp-input) - One time password input library for Angular.
+*   [ngx-otp-input (⭐26)](https://github.com/pkovzz/ngx-otp-input) - One time password input library for Angular.
 
 ## [12. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
@@ -117,4 +116,5 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ---
 
+- Prev: [Oct 04, 2024](/content/2024/10/04/README.md)
 - Next: [Oct 02, 2024](/content/2024/10/02/README.md)

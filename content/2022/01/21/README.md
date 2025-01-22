@@ -22,7 +22,7 @@
 
 ### Serial Communications
 
-*   [vserialport (⭐12)](https://github.com/erdetn/vserialport) - V wrapper for [libserialport](https://sigrok.org/wiki/Libserialport).
+*   [vserialport (⭐11)](https://github.com/erdetn/vserialport) - V wrapper for [libserialport](https://sigrok.org/wiki/Libserialport).
 *   [vserialx (⭐12)](https://github.com/erdetn/vserialx) - A tiny (wrapper) serial communication library for Linux written in V.
 
 ## [4. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
@@ -61,15 +61,15 @@
 
 ### Open Source / Casual
 
-*   [Spacescape (⭐113)](https://github.com/ufrshubham/spacescape) - A 2D top-down space shooter made using Flutter and Flame engine. Get it on [Play Store](https://play.google.com/store/apps/details?id=com.nobs.spacescape). By [DevKage](https://www.youtube.com/devkage "DevKage").
+*   [Spacescape (⭐116)](https://github.com/ufrshubham/spacescape) - A 2D top-down space shooter made using Flutter and Flame engine. Get it on [Play Store](https://play.google.com/store/apps/details?id=com.nobs.spacescape). By [DevKage](https://www.youtube.com/devkage "DevKage").
 
 ### Open Source / Endless Runner
 
-*   [Dino Run (⭐210)](https://github.com/ufrshubham/dino_run) - A 2D infinite side scroller mobile game made in Flutter using Flame engine. Get it on [Play Store](https://play.google.com/store/apps/details?id=com.nobs.dino_run). By [DevKage](https://www.youtube.com/devkage "DevKage").
+*   [Dino Run (⭐222)](https://github.com/ufrshubham/dino_run) - A 2D infinite side scroller mobile game made in Flutter using Flame engine. Get it on [Play Store](https://play.google.com/store/apps/details?id=com.nobs.dino_run). By [DevKage](https://www.youtube.com/devkage "DevKage").
 
 ### Open Source / Platformer
 
-*   [Simple Platformer (⭐53)](https://github.com/ufrshubham/flame_simple_platformer) - A 2D platformer made using Flame engine. By [DevKage](https://www.youtube.com/devkage "DevKage").
+*   [Simple Platformer (⭐56)](https://github.com/ufrshubham/flame_simple_platformer) - A 2D platformer made using Flame engine. By [DevKage](https://www.youtube.com/devkage "DevKage").
 
 ## [8. Awesome Productivity](/content/jyguyomarch/awesome-productivity/README.md)
 
@@ -81,14 +81,14 @@
 
 ### Motion / Diagnostics
 
-*   [rlane/pounce.nvim (⭐323)](https://github.com/rlane/pounce.nvim) - An EasyMotion-like plugin for quick cursor movement using fuzzy search.
+*   [rlane/pounce.nvim (⭐349)](https://github.com/rlane/pounce.nvim) - An EasyMotion-like plugin for quick cursor movement using fuzzy search.
 
 ## [10. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
 ### OCaml / Git
 
-*   [Digestif (⭐86)](https://github.com/mirage/digestif) - is a toolbox that implements various cryptographic primitives in C and OCaml.
-*   [ocaml-tls (⭐292)](https://github.com/mirleft/ocaml-tls) - TLS in pure OCaml.
+*   [Digestif (⭐88)](https://github.com/mirage/digestif) - is a toolbox that implements various cryptographic primitives in C and OCaml.
+*   [ocaml-tls (⭐304)](https://github.com/mirleft/ocaml-tls) - TLS in pure OCaml.
 
 ## [11. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
@@ -102,8 +102,8 @@
 ### Applications / Emulators
 
 *   CHIP-8
-    *   [ColinEberhardt/wasm-rust-chip8 (⭐256)](https://github.com/ColinEberhardt/wasm-rust-chip8) - A WebAssembly CHIP-8 emulator.
-    *   [starrhorne/chip8-rust (⭐142)](https://github.com/starrhorne/chip8-rust) - chip8 emulator
+    *   [ColinEberhardt/wasm-rust-chip8 (⭐260)](https://github.com/ColinEberhardt/wasm-rust-chip8) - A WebAssembly CHIP-8 emulator.
+    *   [starrhorne/chip8-rust (⭐144)](https://github.com/starrhorne/chip8-rust) - chip8 emulator
 
 ### Development tools / IDEs
 

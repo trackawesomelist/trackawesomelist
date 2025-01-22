@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 06 - Mar 12, 2017
 
-55 awesome lists updated this week.
+54 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -34,7 +34,7 @@
 
 ### Development Projects / Miscellaneous
 
-*   [pokemongo-game-master (⭐39)](https://github.com/BrunnerLivio/pokemongo-game-master) - Collection of Pokémon GO Game Master versions.
+*   [pokemongo-game-master (⭐38)](https://github.com/BrunnerLivio/pokemongo-game-master) - Collection of Pokémon GO Game Master versions.
 
 ## [5. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
@@ -185,11 +185,11 @@
 ### Frameworks / Runtimes
 
 *   [Ice](https://zeroc.com/) - Comprehensive RPC framework with support for C++, C#, Java, JavaScript, Python, and more.
-*   [Wangle (⭐3k)](https://github.com/facebook/wangle) - A framework providing a set of common client/server abstractions for building services in a consistent, modular, and composable way.
+*   [Wangle (⭐3.1k)](https://github.com/facebook/wangle) - A framework providing a set of common client/server abstractions for building services in a consistent, modular, and composable way.
 
 ### API Gateways / Edge Services / Scala
 
-*   [Envoy (⭐24k)](https://github.com/lyft/envoy) - Open source edge and service proxy, from the developers at Lyft.
+*   [Envoy (⭐25k)](https://github.com/lyft/envoy) - Open source edge and service proxy, from the developers at Lyft.
 
 ## [17. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
@@ -205,7 +205,7 @@
 
 ### Table of Contents / Dependency Injection
 
-*   [Disco (⭐140)](https://github.com/bitExpert/disco) - A PSR-11 compatible, annotation-based dependency injection container.
+*   [Disco (⭐139)](https://github.com/bitExpert/disco) - A PSR-11 compatible, annotation-based dependency injection container.
 
 ### Table of Contents / Debugging and Profiling
 
@@ -220,13 +220,13 @@
 ### Apps / Widgets
 
 *   [wagtailgmaps (⭐83)](https://github.com/springload/wagtailgmaps) - Simple Google Maps address formatter for Wagtail fields.
-*   [wagtail-markdown (⭐192)](https://github.com/torchbox/wagtail-markdown) - Markdown fields and blocks for Wagtail.
+*   [wagtail-markdown (⭐193)](https://github.com/torchbox/wagtail-markdown) - Markdown fields and blocks for Wagtail.
 
 ### Apps / SEO and SMO
 
 *   [wagtail-metadata (⭐116)](https://github.com/takeflight/wagtail-metadata) - A tool to assist with metadata for social media and search engines.
 *   [wagtail-metadata-mixin (⭐47)](https://github.com/bashu/wagtail-metadata-mixin) - OpenGraph, Twitter Card and Google+ snippet tags for Wagtail CMS pages.
-*   [wagtail-schema.org (⭐69)](https://github.com/takeflight/wagtail-schema.org) - Schema.org JSON-LD tags for Wagtail sites.
+*   [wagtail-schema.org (⭐70)](https://github.com/takeflight/wagtail-schema.org) - Schema.org JSON-LD tags for Wagtail sites.
 
 ### Apps / Analytics
 
@@ -327,7 +327,6 @@
 ### Websites
 
 *   Collaborizm - <https://www.collaborizm.com>
-*   Designer News - <https://www.designernews.co/>
 
 ## [28. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
 
@@ -369,31 +368,25 @@
 
 ### CMS
 
-*   [N2CMS (⭐362)](https://github.com/n2cms/n2cms) - Open source, lightweight, code-first CMS able to seamlessly integrate into any MVC project.
+*   [N2CMS (⭐364)](https://github.com/n2cms/n2cms) - Open source, lightweight, code-first CMS able to seamlessly integrate into any MVC project.
 
 ### ORM
 
-*   [FluentMigrator (⭐3.2k)](https://github.com/fluentmigrator/fluentmigrator) - Fluent Migrations framework for .net
+*   [FluentMigrator (⭐3.3k)](https://github.com/fluentmigrator/fluentmigrator) - Fluent Migrations framework for .net
 
-## [32. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
-
-### Entertainment
-
-*   [pockyt (⭐492)](https://github.com/arvindch/pockyt) - Read, Manage, and Automate your [Pocket](https://getpocket.com) collection.
-
-## [33. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [32. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / General-Purpose Machine Learning
 
-*   [fuku-ml (⭐280)](https://github.com/fukuball/fuku-ml) - Simple machine learning library, including Perceptron, Regression, Support Vector Machine, Decision Tree and more, it's easy to use and easy to learn for beginners.
+*   [fuku-ml (⭐281)](https://github.com/fukuball/fuku-ml) - Simple machine learning library, including Perceptron, Regression, Support Vector Machine, Decision Tree and more, it's easy to use and easy to learn for beginners.
 
-## [34. Awesome Deep Learning Papers](/content/terryum/awesome-deep-learning-papers/week/README.md)
+## [33. Awesome Deep Learning Papers](/content/terryum/awesome-deep-learning-papers/week/README.md)
 
 ### Contents / Book / Survey / Review
 
 *   Neural Network and Deep Learning (Book, Jan 2017), Michael Nielsen. [\[html\]](http://neuralnetworksanddeeplearning.com/index.html)
 
-## [35. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/week/README.md)
+## [34. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/week/README.md)
 
 ### Getting started
 
@@ -401,31 +394,31 @@
 *   [Browser support for WebExtensions](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Browser_support_for_JavaScript_APIs) - Compatibility table for Chrome, Edge, Firefox, and Opera.
 *   [Opera API support](https://dev.opera.com/extensions/apis/) - Detailed WebExtensions support for Opera.
 
-## [36. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [35. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Misc
 
 *   [LibSass Host (⭐81)](https://github.com/Taritsyn/LibSassHost) - .NET wrapper around the [libSass](http://sass-lang.com/libsass) library with the ability to support a virtual file system.
 
-## [37. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [36. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### Libraries and Frameworks / Elixir
 
 *   [Commanded (⭐1.8k)](https://github.com/slashdotdash/commanded) - Command handling middleware for CQRS/ES applications, Pure Functional Data Structures for Aggregates and Process Managers, Point-to-Point message routing, and much more in Elixir (Erlang VM) - All in Actor concurrency model.
 
-## [38. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
+## [37. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
 
 ### Maps / Third Party
 
 *   [d3.geo2rect (⭐192)](https://github.com/sebastian-meier/d3.geo2rect) - Morphing geojson polygons into rectangles
 
-## [39. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [38. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Managed Data Services
 
 *   [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) — free tier gives 512 MB
 
-## [40. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [39. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### SDKs and Samples / IoT SDK
 
@@ -435,13 +428,13 @@
 
 *   [Netflix/chaosmonkey :fire::fire::fire::fire::fire: (⭐13k)](https://github.com/Netflix/chaosmonkey) - Resiliency tool that helps applications tolerate random instance failures.
 
-## [41. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
+## [40. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
 
 ### Machine Learning and Statistical Learning
 
 *   [(Convolutional) Neural Networks for Visual Recognition](https://cs231n.github.io/) - Fei-Fei Li, Andrej Karphaty, Justin Johnson (Stanford University)
 
-## [42. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/week/README.md)
+## [41. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/week/README.md)
 
 ### Awesome ClojureScript / Development
 
@@ -454,30 +447,29 @@
 *   [Chord (⭐434)](https://github.com/jarohen/chord) – Designed to bridge the gap between the triad of CLJ/CLJS, web-sockets and core.async.
 *   [Sente (⭐1.7k)](https://github.com/ptaoussanis/sente) – Clojure(Script) + core.async + WebSockets/Ajax.
 
-## [43. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
+## [42. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
 
 ### JavaScript
 
 *   [ComcastifyJS (⭐1.3k)](https://github.com/theonion/comcastifyjs) - Sometimes images just load too damned fast.
 *   [fartscroll.js (⭐2.8k)](https://github.com/theonion/fartscroll.js) - Everyone farts. And now your web pages can too.
 
-## [44. Awesome Electronics](/content/kitspace/awesome-electronics/week/README.md)
+## [43. Awesome Electronics](/content/kitspace/awesome-electronics/week/README.md)
 
 ### Videos / Help
 
 *   [Ben Eater](https://www.youtube.com/playlist?list=PLowKtXNTBypGqImE405J2565dvjafglHU) - Series of videos on building an 8-bit computer on breadboards with excellent explanations of all the sub-circuits.
 
-## [45. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [44. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### C, C++
 
-*   [trivial-ssh (⭐41)](https://github.com/eudoxia0/trivial-ssh) - An SSH client library. [Expat](https://directory.fsf.org/wiki/License:Expat).
+*   [trivial-ssh (⭐44)](https://github.com/eudoxia0/trivial-ssh) - An SSH client library. [Expat](https://directory.fsf.org/wiki/License:Expat).
+*   [sxql (⭐368)](https://github.com/fukamachi/sxql) - A DSL for generating SQL. [3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
 ### ORMs
 
-*   [crane (⭐199)](https://github.com/eudoxia0/crane) - Another ORM. [Expat](https://directory.fsf.org/wiki/License:Expat).
-*   [datafly (⭐98)](https://github.com/fukamachi/datafly) - A lightweight database library. [3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
-*   [sxql (⭐353)](https://github.com/fukamachi/sxql) - A DSL for generating SQL. [3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
+*   [datafly (⭐100)](https://github.com/fukamachi/datafly) - A lightweight database library. [3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
 ### Java
 
@@ -487,19 +479,15 @@
 
 *   [Vecto](http://www.xach.com/lisp/vecto/) - Simple vector drawing library. [FreeBSD](https://directory.fsf.org/wiki?title=License:FreeBSD).
 *   [zpng](http://www.xach.com/lisp/zpng/) - A library for creating PNG files. [FreeBSD](https://directory.fsf.org/wiki?title=License:FreeBSD).
-*   [cl-cairo2 (⭐62)](https://github.com/rpav/cl-cairo2) - Cairo bindings. [Boost 1.0](https://directory.fsf.org/wiki/License:Boost1.0)
+*   [cl-cairo2 (⭐63)](https://github.com/rpav/cl-cairo2) - Cairo bindings. [Boost 1.0](https://directory.fsf.org/wiki/License:Boost1.0)
 *   [cl-gd](http://weitz.de/cl-gd/) - A library providing an interface to the GD graphics library. [FreeBSD](https://directory.fsf.org/wiki?title=License:FreeBSD).
 *   [cl-horde3d (⭐15)](https://github.com/anwyn/cl-horde3d/) - FFI bindings to the Horde3D graphics library. Not available on Quicklisp. [EPL 1.0](https://directory.fsf.org/wiki/License:EPLv1.0)
-*   [cl-opengl (⭐275)](https://github.com/3b/cl-opengl) - CFFI bindings to OpenGL, GLU and GLUT APIs. [3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
-*   [cl-sdl2 (⭐299)](https://github.com/lispgames/cl-sdl2) - Bindings for SDL2 using C2FFI. [Expat](https://directory.fsf.org/wiki/License:Expat).
-*   [CLinch (⭐268)](https://github.com/BradWBeer/CLinch) - Common Lisp 2D/3D graphics engine for OpenGL. [FreeBSD](https://directory.fsf.org/wiki?title=License:FreeBSD).
-*   [donuts (⭐24)](https://github.com/tkych/donuts) - Graphviz interface for Common Lisp. [Expat](https://directory.fsf.org/wiki/License:Expat).
-*   [lispbuilder-sdl (⭐190)](https://github.com/lispbuilder/lispbuilder) - A set of bindings for SDL. [Expat](https://directory.fsf.org/wiki/License:Expat).
+*   [cl-opengl (⭐285)](https://github.com/3b/cl-opengl) - CFFI bindings to OpenGL, GLU and GLUT APIs. [3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
+*   [cl-sdl2 (⭐312)](https://github.com/lispgames/cl-sdl2) - Bindings for SDL2 using C2FFI. [Expat](https://directory.fsf.org/wiki/License:Expat).
+*   [CLinch (⭐271)](https://github.com/BradWBeer/CLinch) - Common Lisp 2D/3D graphics engine for OpenGL. [FreeBSD](https://directory.fsf.org/wiki?title=License:FreeBSD).
+*   [donuts (⭐26)](https://github.com/tkych/donuts) - Graphviz interface for Common Lisp. [Expat](https://directory.fsf.org/wiki/License:Expat).
+*   [lispbuilder-sdl (⭐194)](https://github.com/lispbuilder/lispbuilder) - A set of bindings for SDL. [Expat](https://directory.fsf.org/wiki/License:Expat).
 *   [cl-gtk2 (⭐36)](https://github.com/dmitryvk/cl-gtk2) - A binding for GTK+2. [LLGPL](http://opensource.franz.com/preamble.html).
-
-### Mobile
-
-*   [jsown (⭐108)](https://github.com/madnificent/jsown) - A reader and writer for the JSON format. [Expat](https://directory.fsf.org/wiki/License:Expat).
 
 ### Beginner
 
@@ -507,15 +495,11 @@
 
 ### Community / Interfaces to other package managers
 
-*   [cl-nlp (⭐217)](https://github.com/vseloved/cl-nlp) - Natural language processing toolset. [Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0).
+*   [cl-nlp (⭐223)](https://github.com/vseloved/cl-nlp) - Natural language processing toolset. [Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0).
 
 ### HTTP Servers / Interfaces to other package managers
 
-*   [wookie (⭐189)](https://github.com/orthecreedence/wookie) - Asynchronous HTTP server. [Expat](https://directory.fsf.org/wiki/License:Expat).
-
-### HTML generators and templates / Isomorphic web frameworks
-
-*   [eco (⭐39)](https://github.com/eudoxia0/eco) - Fast, flexible, designer-friendly template engine. [Expat](https://directory.fsf.org/wiki/License:Expat).
+*   [wookie (⭐192)](https://github.com/orthecreedence/wookie) - Asynchronous HTTP server. [Expat](https://directory.fsf.org/wiki/License:Expat).
 
 ### Javascript / Isomorphic web frameworks
 
@@ -524,12 +508,12 @@
 
 ### Websockets / Isomorphic web frameworks
 
-*   [iolib (⭐141)](https://github.com/sionescu/iolib) - I/O library. [Expat](https://directory.fsf.org/wiki/License:Expat).
+*   [iolib (⭐143)](https://github.com/sionescu/iolib) - I/O library. [Expat](https://directory.fsf.org/wiki/License:Expat).
     *   "IOlib is to be a better and more modern I/O library than the standard Common Lisp library. It contains: a socket library, a DNS resolver, an I/O multiplexer, a pathname library and file-system utilities."
 
 ### Others / Web project skeletons and generators
 
-*   [css-lite (⭐77)](https://github.com/paddymul/css-lite) - A CSS grammar. [Expat](https://directory.fsf.org/wiki/License:Expat).
+*   [css-lite (⭐78)](https://github.com/paddymul/css-lite) - A CSS grammar. [Expat](https://directory.fsf.org/wiki/License:Expat).
 
 ### Others / Third-party APIs
 
@@ -537,26 +521,26 @@
 
 ### Utils / Third-party APIs
 
-*   [chanl (⭐166)](https://github.com/zkat/chanl) - Portable, channel-based concurrency. [Expat](https://directory.fsf.org/wiki/License:Expat), with parts under [3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
-*   [cl-async (⭐272)](https://github.com/orthecreedence/cl-async) - A library for general-purpose, non-blocking programming. [Expat](https://directory.fsf.org/wiki/License:Expat).
+*   [chanl (⭐171)](https://github.com/zkat/chanl) - Portable, channel-based concurrency. [Expat](https://directory.fsf.org/wiki/License:Expat), with parts under [3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
+*   [cl-async (⭐282)](https://github.com/orthecreedence/cl-async) - A library for general-purpose, non-blocking programming. [Expat](https://directory.fsf.org/wiki/License:Expat).
 
 ### Vim & Neovim / Third-party APIs
 
-*   [SLIMV (⭐453)](https://github.com/kovisoft/slimv) - Superior Lisp Interaction Mode for Vim; a full-blown environment for Common Lisp inside of Vim. No license specified.
+*   [SLIMV (⭐462)](https://github.com/kovisoft/slimv) - Superior Lisp Interaction Mode for Vim; a full-blown environment for Common Lisp inside of Vim. No license specified.
 
 ### Apps / Third-party APIs
 
-*   [quicksearch (⭐49)](https://github.com/tkych/quicksearch) - Look up online libraries from the REPL. [Expat](https://directory.fsf.org/wiki/License:Expat).
+*   [quicksearch (⭐51)](https://github.com/tkych/quicksearch) - Look up online libraries from the REPL. [Expat](https://directory.fsf.org/wiki/License:Expat).
 
 ### Other / Third-party APIs
 
-*   [babel (⭐89)](https://github.com/cl-babel/babel) - A charset encoding/decoding library. [Expat](https://directory.fsf.org/wiki/License:Expat).
-*   [fast-io (⭐144)](https://github.com/rpav/fast-io) - Fast octet-vector/stream I/O. [3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
-*   [named-readtables (⭐66)](https://github.com/melisgl/named-readtables) - Provides a readtable namespace, akin to package namespaces. [3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
+*   [babel (⭐93)](https://github.com/cl-babel/babel) - A charset encoding/decoding library. [Expat](https://directory.fsf.org/wiki/License:Expat).
+*   [fast-io (⭐149)](https://github.com/rpav/fast-io) - Fast octet-vector/stream I/O. [3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
+*   [named-readtables (⭐69)](https://github.com/melisgl/named-readtables) - Provides a readtable namespace, akin to package namespaces. [3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
 *   [simple-currency (⭐7)](https://github.com/a0-prw/simple-currency) - A currency conversion library using daily information published by the ECB. [FreeBSD](https://directory.fsf.org/wiki?title=License:FreeBSD).
-*   [trivial-garbage (⭐42)](https://github.com/trivial-garbage/trivial-garbage) - A portable finalizer, weak hash-table and weak pointer API. Public domain.
+*   [trivial-garbage (⭐45)](https://github.com/trivial-garbage/trivial-garbage) - A portable finalizer, weak hash-table and weak pointer API. Public domain.
 
-## [46. Awesome Dropwizard](/content/stve/awesome-dropwizard/week/README.md)
+## [45. Awesome Dropwizard](/content/stve/awesome-dropwizard/week/README.md)
 
 ### Open Source / Eclipse
 
@@ -572,7 +556,7 @@
 *   [Measuring the performance of your Dropwizard application](https://www.aytech.ca/blog/measuring-performance-dropwizard-application/)
 *   [Heroku + Gradle + Dropwizard](https://www.aytech.ca/blog/heroku-gradle-dropwizard/)
 
-## [47. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [46. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### Germany 🇩🇪 / Munich
 
@@ -585,19 +569,19 @@
 | ---- | ----- | ------------------------------------------------------------ | ------------------------------------ |
 | ✔    | ✔     | [Krautgasse 26, 07743 Jena](https://goo.gl/maps/kGtrdrehFHy) | Mon-Fri 07:30–19:00; Sat 10:00–17:00 |
 
-## [48. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
+## [47. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
 
 ### Directories
 
 *   [Webcomponents.org](https://webcomponents.org/)
 
-## [49. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [48. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Software / Frameworks
 
 *   [Blynk](http://www.blynk.cc) - Blynk is a platform for creating iOS and Android apps for connected things. You can easily build graphic interfaces for all your projects by simply dragging and dropping widgets (right on the smartphone). Supports Ethernet, WiFi, Bluetooth, GSM/GPRS, USB/Serial connections with a wide range of prototyping platforms from Arduino, Raspberry, ARM mbed, Particle, RedBear, etc.
 
-## [50. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
+## [49. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
 
 ### General
 
@@ -609,8 +593,8 @@
 *   [Gidole](http://gidole.github.io/) - Open source, modern DIN
 *   [Google Fonts](https://fonts.google.com/)
     *   [Downloader for Google Fonts (⭐1.5k)](https://github.com/qrpike/Web-Font-Load)
-    *   [Files of Google Fonts (⭐16k)](https://github.com/google/fonts) ([sources](https://github.com/googlefonts))
-    *   [Noto Fonts (⭐2.4k)](https://github.com/googlei18n/noto-fonts) - Internationalized font for all languages, with rich support for CJK and emoji
+    *   [Files of Google Fonts (⭐18k)](https://github.com/google/fonts) ([sources](https://github.com/googlefonts))
+    *   [Noto Fonts (⭐2.5k)](https://github.com/googlei18n/noto-fonts) - Internationalized font for all languages, with rich support for CJK and emoji
     *   [Roboto (⭐3.8k)](https://github.com/google/roboto) - Default font on Android & ChromeOS, and the recommended typeface for Material Design
 *   [The League of Moveable Type](https://www.theleagueofmoveabletype.com/) - The Open-Source Type Movement
     *   [Chunk](https://www.theleagueofmoveabletype.com/chunk)
@@ -620,16 +604,16 @@
 
 ### Free fonts / Fonts
 
-*   [Redacted (⭐5.3k)](https://github.com/christiannaths/Redacted-Font) - Keep your wireframes free of distracting Lorem Ipsum
-*   [WorkSans (⭐1.5k)](https://github.com/weiweihuanghuang/Work-Sans)
+*   [Redacted (⭐5.4k)](https://github.com/christiannaths/Redacted-Font) - Keep your wireframes free of distracting Lorem Ipsum
+*   [WorkSans (⭐1.6k)](https://github.com/weiweihuanghuang/Work-Sans)
 
 ### Iconic fonts / Fonts
 
-*   [Appa Sariicon (⭐26)](https://github.com/sariina/appa-sariicon) - 147 8-bit retro style webfont icons form web and mobile
-*   [Country Icons (⭐9.3k)](https://github.com/lipis/flag-icon-css) - A collection of all country flags in SVG and CSS
+*   [Appa Sariicon (⭐27)](https://github.com/sariina/appa-sariicon) - 147 8-bit retro style webfont icons form web and mobile
+*   [Country Icons (⭐11k)](https://github.com/lipis/flag-icon-css) - A collection of all country flags in SVG and CSS
 *   [Evil Icons](http://evil-icons.io/) Simple and clean SVG icon pack with the code to support Rails, Sprockets, Node.js, Gulp, Grunt and CDN
 *   [Font Custom (⭐3.3k)](https://github.com/FontCustom/fontcustom) - Icon font generator
-*   [font-mfizz (⭐539)](https://github.com/fizzed/font-mfizz) - Vector Icons for Technology and Software Geeks
+*   [font-mfizz (⭐540)](https://github.com/fizzed/font-mfizz) - Vector Icons for Technology and Software Geeks
 *   [FontAwesomeKit (⭐2.8k)](https://github.com/PrideChung/FontAwesomeKit) - Icon font library for iOS. Currently supports Font-Awesome, Foundation icons, Zocial, and ionicons.
 *   [fontello](http://fontello.com) - Iconic fonts scissors
     *   [brandico.font](http://fontello.github.io/brandico.font/demo.html) - Font with logos of social services & messagers
@@ -640,12 +624,12 @@
 *   [icono](https://saeedalipoor.github.io/icono/) - One tag One icon, no font or svg, Pure CSS
 *   [ionicons](http://ionicons.com/) - The premium icon font for Ionic
 *   [Map Icons (⭐1k)](https://github.com/scottdejonge/map-icons) - Font for use with Google Maps API and Google Places API using SVG markers and icon labels
-*   [Material design icons (⭐48k)](https://github.com/google/material-design-icons) - Official icon set from Google
+*   [Material design icons (⭐51k)](https://github.com/google/material-design-icons) - Official icon set from Google
 *   [mfglabs-iconset](http://mfglabs.github.io/mfglabs-iconset/) - Awesome web font icon by MFG Labs
-*   [Micon (⭐198)](https://github.com/xtoolkit/Micon) - Iconic Windows 10 font and CSS toolkit
+*   [Micon (⭐200)](https://github.com/xtoolkit/Micon) - Iconic Windows 10 font and CSS toolkit
 *   [octicons](https://octicons.github.com/) - GitHub's icon font
-*   [PE-Analog-Clock-icon-font (⭐297)](https://github.com/jhogue/PE-Analog-Clock-icon-font) - A set of icons for displaying a visual ("analog") representation of time stamps
-*   [stackicons (⭐971)](https://github.com/parkerbennett/stackicons) - Icon font and Sass-based construction kit for Stackicons-Social, which supports multiple button shapes and a unique "multi-color" option in CSS for over 60 social brands
+*   [PE-Analog-Clock-icon-font (⭐299)](https://github.com/jhogue/PE-Analog-Clock-icon-font) - A set of icons for displaying a visual ("analog") representation of time stamps
+*   [stackicons (⭐959)](https://github.com/parkerbennett/stackicons) - Icon font and Sass-based construction kit for Stackicons-Social, which supports multiple button shapes and a unique "multi-color" option in CSS for over 60 social brands
 *   [svg-icon](https://leungwensen.github.io/svg-icon/) - An ultimate SVG icons collection done right
 *   [weather-icons](http://erikflowers.github.io/weather-icons/) - 189 weather themed icons inspired by Font Awesome and ready for Bootstrap
 *   [Zocial (⭐189)](https://github.com/adamstac/zocial) - Sass and Compass CSS3 social buttons framework
@@ -655,36 +639,36 @@
 
 *   [Adobe Fonts](https://github.com/adobe-fonts)
     *   [Source Code Pro](http://adobe-fonts.github.io/source-code-pro/)
-    *   [Source Han Serif (⭐7k)](https://github.com/adobe-fonts/source-han-serif)
-    *   [Source Sans Pro (⭐3.2k)](https://github.com/adobe-fonts/source-sans-pro)
-    *   [Source Serif Pro (⭐2k)](https://github.com/adobe-fonts/source-serif-pro)
-*   [Codeface (⭐5.9k)](https://github.com/chrissimpkins/codeface) - Gallery of monospaced fonts for developers
+    *   [Source Han Serif (⭐8.2k)](https://github.com/adobe-fonts/source-han-serif)
+    *   [Source Sans Pro (⭐3.5k)](https://github.com/adobe-fonts/source-sans-pro)
+    *   [Source Serif Pro (⭐2.2k)](https://github.com/adobe-fonts/source-serif-pro)
+*   [Codeface (⭐6.2k)](https://github.com/chrissimpkins/codeface) - Gallery of monospaced fonts for developers
 *   [Go Fonts](https://blog.golang.org/go-fonts) - Open source fonts from Golang Project
 *   [Input](http://input.fontbureau.com) - Flexible system of fonts designed specifically for code
-*   [Meslo-Font (⭐2.4k)](https://github.com/andreberg/Meslo-Font) - Customized version of Apple's Menlo font
-*   [Nerd Fonts (⭐43k)](https://github.com/ryanoasis/nerd-fonts) - Collection of over 20 patched fonts for Powerline, Font Awesome, Octicons, Devicons, and Vim Devicons
+*   [Meslo-Font (⭐2.6k)](https://github.com/andreberg/Meslo-Font) - Customized version of Apple's Menlo font
+*   [Nerd Fonts (⭐55k)](https://github.com/ryanoasis/nerd-fonts) - Collection of over 20 patched fonts for Powerline, Font Awesome, Octicons, Devicons, and Vim Devicons
 
 ### Programming fonts / Programming fonts with ligatures
 
-*   [FiraCode (⭐70k)](https://github.com/tonsky/FiraCode) - Monospaced font with programming ligatures
-*   [Fixedsys Excelsior (⭐835)](https://github.com/kika/fixedsys)
-*   [Iosevka (⭐16k)](https://github.com/be5invis/Iosevka) - Spatially efficient monospace font family for programming. Built from code.
+*   [FiraCode (⭐77k)](https://github.com/tonsky/FiraCode) - Monospaced font with programming ligatures
+*   [Fixedsys Excelsior (⭐1k)](https://github.com/kika/fixedsys)
+*   [Iosevka (⭐19k)](https://github.com/be5invis/Iosevka) - Spatially efficient monospace font family for programming. Built from code.
 *   [PragmataPro](https://www.fsd.it/shop/fonts/pragmatapro/) - Proprietary font with special ligatures for Haskell, Agda, APL, etc
 
 ### JavaScript libs / Programming fonts with ligatures
 
-*   [fontmin (⭐5.1k)](https://github.com/ecomfe/fontmin) - Font minifier
-*   [localFont (⭐853)](https://github.com/jaicab/localFont) - Save fonts in localStorage
-*   [opentype.js (⭐3.9k)](https://github.com/nodebox/opentype.js) - Parser and writer for TrueType and OpenType fonts
-*   [Typr.js (⭐792)](https://github.com/photopea/Typr.js) - Parser and utility for working with fonts (TTF, OTF)
+*   [fontmin (⭐5.8k)](https://github.com/ecomfe/fontmin) - Font minifier
+*   [localFont (⭐847)](https://github.com/jaicab/localFont) - Save fonts in localStorage
+*   [opentype.js (⭐4.5k)](https://github.com/nodebox/opentype.js) - Parser and writer for TrueType and OpenType fonts
+*   [Typr.js (⭐920)](https://github.com/photopea/Typr.js) - Parser and utility for working with fonts (TTF, OTF)
 
 ### Other / Event listeners for fonts loading on a web page
 
 *   [Font Squirrel Webfont Generator](https://www.fontsquirrel.com/tools/webfont-generator) - Upload OTF or TTF fonts, receive webfonts
-*   [FontForge (⭐5.3k)](https://github.com/fontforge/fontforge) - Cross-platform font editor
-*   [Powerline Fonts (⭐24k)](https://github.com/powerline/fonts) - Patched fonts for Powerline users
+*   [FontForge (⭐6.5k)](https://github.com/fontforge/fontforge) - Cross-platform font editor
+*   [Powerline Fonts (⭐26k)](https://github.com/powerline/fonts) - Patched fonts for Powerline users
 
-## [51. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [50. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Popular Packages / Utilities
 
@@ -698,25 +682,25 @@
 
 *   [Budapest Meetup](https://www.meetup.com/Laravel-Hungary-Meetup/)
 
-## [52. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [51. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Hardware
 
 *   [onoff (⭐1.2k)](https://github.com/fivdi/onoff) - GPIO access and interrupt detection.
-*   [spi-device (⭐116)](https://github.com/fivdi/spi-device) - SPI serial bus access.
-*   [pigpio (⭐948)](https://github.com/fivdi/pigpio) - Fast GPIO, PWM, servo control, state change notification, and interrupt handling on the Raspberry Pi.
+*   [spi-device (⭐117)](https://github.com/fivdi/spi-device) - SPI serial bus access.
+*   [pigpio (⭐949)](https://github.com/fivdi/pigpio) - Fast GPIO, PWM, servo control, state change notification, and interrupt handling on the Raspberry Pi.
 
 ### Resources / Community
 
 *   [Hashnode](https://hashnode.com/n/nodejs)
 
-## [53. Magictools](/content/ellisonleao/magictools/week/README.md)
+## [52. Magictools](/content/ellisonleao/magictools/week/README.md)
 
 ### Books / Voxel Editors
 
 *   [Making Games with Python & Pygame](http://inventwithpython.com/pygame/)
 
-## [54. Awesome Couchdb](/content/quangv/awesome-couchdb/week/README.md)
+## [53. Awesome Couchdb](/content/quangv/awesome-couchdb/week/README.md)
 
 ### Map/Reduce
 
@@ -761,11 +745,11 @@
 *   [Official CouchDB Wiki (old)](https://wiki.apache.org/couchdb/) - Some things aren't on new wiki yet.
 *   [Cloudant Official Guides](https://docs.cloudant.com/guides.html) - Applicable to CouchDB.
 
-## [55. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
+## [54. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
 ### Libraries / Data Structures
 
-*   [Baobab (⭐3.1k)](https://github.com/Yomguithereal/baobab) – persistent and optionally immutable data tree with cursors.
+*   [Baobab (⭐3.2k)](https://github.com/Yomguithereal/baobab) – persistent and optionally immutable data tree with cursors.
 
 ---
 

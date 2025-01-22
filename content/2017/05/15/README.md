@@ -10,7 +10,7 @@
 
 ### Database
 
-*   [SimDB (⭐515)](https://github.com/LiveAsynchronousVisualizedArchitecture/simdb) - High performance, shared memory, lock free, cross platform, single file, minimal dependencies, C++11 key-value store. \[Apache2]
+*   [SimDB (⭐540)](https://github.com/LiveAsynchronousVisualizedArchitecture/simdb) - High performance, shared memory, lock free, cross platform, single file, minimal dependencies, C++11 key-value store. \[Apache2]
 
 ## [2. Citizen Science](/content/dylanrees/citizen-science/README.md)
 
@@ -28,7 +28,7 @@
 
 ## [4. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
-### VPN Services / Telegram
+### VPN Services / Steam
 
 *   [TorrentFreak List of VPNs](https://torrentfreak.com/vpn-services-anonymous-review-2017-170304/)
 
@@ -36,7 +36,7 @@
 
 ### CLI Builders
 
-*   [clim (⭐121)](https://github.com/at-grandpa/clim) - Slim command line interface builder
+*   [clim (⭐123)](https://github.com/at-grandpa/clim) - Slim command line interface builder
 
 ## [6. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
 
@@ -75,7 +75,7 @@
 
 ### GUI
 
-*   [Avalonia (⭐25k)](https://github.com/AvaloniaUI/Avalonia) - A multi-platform .NET UI framework (formerly known as Perspex).
+*   [Avalonia (⭐27k)](https://github.com/AvaloniaUI/Avalonia) - A multi-platform .NET UI framework (formerly known as Perspex).
 
 ---
 

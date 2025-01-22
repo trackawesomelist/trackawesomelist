@@ -14,7 +14,7 @@
 
 ### Images / Barcode
 
-*   [PassportScanner (⭐456)](https://github.com/evermeer/PassportScanner) - Scan the MRZ code of a passport and extract the first name, last name, passport number, nationality, date of birth, expiration date and personal number.
+*   [PassportScanner (⭐463)](https://github.com/evermeer/PassportScanner) - Scan the MRZ code of a passport and extract the first name, last name, passport number, nationality, date of birth, expiration date and personal number.
 
 ## [2. Awesome Pyramid](/content/uralbash/awesome-pyramid/README.md)
 

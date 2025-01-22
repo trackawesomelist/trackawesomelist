@@ -10,13 +10,13 @@
 
 ### Algorithms and Data structures
 
-*   [Akade.IndexedSet (⭐57)](https://github.com/akade/Akade.IndexedSet) - A convenient data structure supporting efficient in-memory indexing and querying, including range queries and fuzzy string matching.
+*   [Akade.IndexedSet (⭐63)](https://github.com/akade/Akade.IndexedSet) - A convenient data structure supporting efficient in-memory indexing and querying, including range queries and fuzzy string matching.
 
 ## [2. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Pastebins
 
-*   [Wastebin (⭐279)](https://github.com/matze/wastebin) - Lightweight, minimal and fast pastebin with an SQLite backend. ([Demo](https://bin.bloerg.net)) `MIT` `Rust/Docker`
+*   [Wastebin (⭐376)](https://github.com/matze/wastebin) - Lightweight, minimal and fast pastebin with an SQLite backend. ([Demo](https://bin.bloerg.net)) `MIT` `Rust/Docker`
 
 ## [3. Awesome Video](/content/krzemienski/awesome-video/README.md)
 
@@ -44,7 +44,7 @@
 
 ### Templates / React
 
-*   [ViteRC (⭐54)](https://github.com/potreco/viterc) - React 18 + TypeScript + ESLint (Airbnb) + Prettier + Husky + Jest + Absolute imports + Commit linting.
+*   [ViteRC (⭐61)](https://github.com/potreco/viterc) - React 18 + TypeScript + ESLint (Airbnb) + Prettier + Husky + Jest + Absolute imports + Commit linting.
 
 ## [7. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -88,7 +88,7 @@
 
   CORS: Unknown
 
-  Call this API: 
+  : 
 
 
 - API: [Tax Data API](https://apilayer.com/marketplace/tax_data-api)
@@ -101,7 +101,7 @@
 
   CORS: Unkown
 
-  Call this API: 
+  : 
 
 
 
@@ -124,7 +124,7 @@
 
 ### Reading and Writing Tools / Office
 
-*   [OnlyOffice](https://www.onlyoffice.com/) -  An office suite that combines text, spreadsheet and presentation editors allowing to create, view and edit local documents. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ONLYOFFICE/DesktopEditors) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [OnlyOffice](https://www.onlyoffice.com/) - An office suite that combines text, spreadsheet and presentation editors allowing to create, view and edit local documents. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ONLYOFFICE/DesktopEditors) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Reading and Writing Tools / Markdown Tools
 
@@ -132,12 +132,12 @@
 
 ### Reading and Writing Tools / Note-taking
 
-*   [Logseq](https://logseq.com/) - Privacy-first, open-source knowledge base that works on top of local plain-text Markdown and Org-mode files. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/logseq/logseq) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Logseq](https://logseq.com/) - Privacy-first, open-source knowledge base. [![OSS](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/logseq/logseq) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Standard Notes](https://standardnotes.com/) - An end-to-end encrypted notes app for digitalists and professionals. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/standardnotes/app) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Developer Tools / API Development and Analysis
 
-*   [Katalon Studio](https://www.katalon.com) - Simplify API, Web, Mobile Automation Tests Free. Robust. Cross-platform. Automation testers from 160 countries with channels, GitHub repositories.![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Katalon Studio](https://www.katalon.com) - Simplify API, Web, and Mobile Automation Tests. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Communication / Email Clients
 
@@ -147,14 +147,14 @@
 ### Audio and Video Tools / File Sharing
 
 *   [FreeTube](https://freetubeapp.io/) - Open source desktop YouTube client built with privacy in mind. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/FreeTubeApp/FreeTube) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [MacYTDL (⭐468)](https://github.com/section83/MacYTDL) -  A macOS GUI front-end for the youtube-dl video downloader. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/section83/MacYTDL) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [MacYTDL (⭐586)](https://github.com/section83/MacYTDL) -  A macOS GUI front-end for the youtube-dl video downloader. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/section83/MacYTDL) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [MusicBrainz Picard](https://picard.musicbrainz.org/) -  Cross-platform music tagger written in Python. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/metabrainz/picard) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Browsers / Audio Record and Process
 
 *   [Min](https://minbrowser.org/) -  Fast, minimal browser that protects your privacy. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/minbrowser/min) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-### Utilities / General Tools
+### Proxy and VPN Tools / Audio Record and Process
 
 *   [Cloudflare WARP](https://1.1.1.1/) - Replaces the connection between your device and the Internet with a modern, optimized, protocol. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 

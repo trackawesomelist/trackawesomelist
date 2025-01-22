@@ -38,7 +38,7 @@
 
 ### Modules / Social Platform APIs
 
-*   [grammY (⭐2.1k)](https://github.com/grammyjs/grammy) - Telegram Bot API framework for Deno.
+*   [grammY (⭐2.3k)](https://github.com/grammyjs/grammy) - Telegram Bot API framework for Deno.
 *   [grm (⭐46)](https://github.com/dcdunkan/grm) - Telegram MTProto client for Deno.
 *   [twi (⭐11)](https://github.com/roj1512/twi) - Twitter API v2 client for Deno.
 *   [discordeno](https://discordeno.mod.land/) - Discord API library for Deno

@@ -20,11 +20,11 @@
 
 ### Community Extensions
 
-*   [embesozzi/keycloak-webauthn-conditional-mediation WebAuthn Support for Passkeys (⭐16)](https://github.com/embesozzi/keycloak-webauthn-conditional-mediation)
+*   [embesozzi/keycloak-webauthn-conditional-mediation WebAuthn Support for Passkeys (⭐22)](https://github.com/embesozzi/keycloak-webauthn-conditional-mediation)
 
 ### Example Projects
 
-*   [Keycloak enviornment with WebAuthn Support for Stepup Auth with MFA Biometrics and Passkeys (by embesozzi) (⭐35)](https://github.com/embesozzi/keycloak-workshop-stepup-mfa-biometrics)
+*   [Keycloak enviornment with WebAuthn Support for Stepup Auth with MFA Biometrics and Passkeys (by embesozzi) (⭐40)](https://github.com/embesozzi/keycloak-workshop-stepup-mfa-biometrics)
 
 ## [3. Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md)
 
@@ -48,7 +48,7 @@
 
 ### Android / Libraries
 
-*   [Blueprint (⭐133)](https://github.com/popovanton0/Blueprint) - 📐 A library that draws a blueprint on top of your Jetpack Compose composables. It visualizes dimensions, like paddings and sizes.
+*   [Blueprint (⭐139)](https://github.com/popovanton0/Blueprint) - 📐 A library that draws a blueprint on top of your Jetpack Compose composables. It visualizes dimensions, like paddings and sizes.
 
 ## [7. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
@@ -79,20 +79,20 @@
 
 ### Game Development
 
-*   [Raylib-cr (⭐78)](https://github.com/sol-vin/raylib-cr) - Direct bindings to [Raylib](https://raylib.com), which supports Linux, Windows, and Mac
+*   [Raylib-cr (⭐91)](https://github.com/sol-vin/raylib-cr) - Direct bindings to [Raylib](https://raylib.com), which supports Linux, Windows, and Mac
 
 ## [10. Awesome Capacitor](/content/riderx/awesome-capacitor/README.md)
 
 ### [Capgo plugins](https://capgo.app/)
 
-*   [Shake (⭐4)](https://github.com/Cap-go/capacitor-shake) - Detect shake gesture in device.
-*   [Navigation bar (⭐7)](https://github.com/Cap-go/capacitor-navigation-bar) - Set navigation bar color for android lolipop and higher.
+*   [Shake (⭐7)](https://github.com/Cap-go/capacitor-shake) - Detect shake gesture in device.
+*   [Navigation bar (⭐8)](https://github.com/Cap-go/capacitor-navigation-bar) - Set navigation bar color for android lolipop and higher.
 *   [Video Player IVS (⭐2)](https://github.com/Cap-go/ivs-player) - Native Ivs player for Capacitor app Android and IOS.
 *   [Home indicator (⭐0)](https://github.com/Cap-go/home-indicator) - Hide and show home button indicator in Capacitor app.
 
 ### Other plugins
 
-*   [Purchases (⭐131)](https://github.com/RevenueCat/purchases-capacitor) - Capacitor in-app purchases and subscriptions made easy with RevenueCat.
+*   [Purchases (⭐160)](https://github.com/RevenueCat/purchases-capacitor) - Capacitor in-app purchases and subscriptions made easy with RevenueCat.
 
 ## [11. Awesome Veganism](/content/sdassow/awesome-veganism/README.md)
 
@@ -116,7 +116,7 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [ribru17/bamboo.nvim (⭐287)](https://github.com/ribru17/bamboo.nvim) - A warm green theme.
+*   [ribru17/bamboo.nvim (⭐329)](https://github.com/ribru17/bamboo.nvim) - A warm green theme.
 
 ## [13. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 

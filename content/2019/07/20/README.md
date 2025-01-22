@@ -32,7 +32,7 @@
 
 ### Resilience / Scala
 
-*   [Resilience4j (⭐9.6k)](https://github.com/resilience4j/resilience4j) - Fault tolerance library designed for Java8 and functional programming.
+*   [Resilience4j (⭐9.9k)](https://github.com/resilience4j/resilience4j) - Fault tolerance library designed for Java8 and functional programming.
 
 ### HTTP/1.1 / Scala
 
@@ -53,7 +53,7 @@
 ### Loaders
 
 *   [script.js (⭐2.9k)](https://github.com/ded/script.js) - Asynchronous JavaScript loader and dependency manager.
-*   [LodJS (⭐289)](https://github.com/yanhaijing/lodjs) - Module loader based on AMD.
+*   [LodJS (⭐290)](https://github.com/yanhaijing/lodjs) - Module loader based on AMD.
 
 ### Testing Frameworks / Frameworks
 
@@ -73,28 +73,28 @@
 
 ### Node-Powered CMS Frameworks / Runner
 
-*   [KeystoneJS (⭐9k)](https://github.com/keystonejs/keystone) - powerful CMS and web app framework.
+*   [KeystoneJS (⭐9.1k)](https://github.com/keystonejs/keystone) - powerful CMS and web app framework.
 *   [Reaction Commerce (⭐12k)](https://github.com/reactioncommerce/reaction) - reactive CMS, real-time architecture and design.
-*   [Ghost (⭐46k)](https://github.com/tryghost/Ghost) - simple, powerful publishing platform.
+*   [Ghost (⭐47k)](https://github.com/tryghost/Ghost) - simple, powerful publishing platform.
 *   [Apostrophe (⭐4.3k)](https://github.com/punkave/apostrophe) - CMS with content editing and essential services.
 *   [We.js (⭐214)](https://github.com/wejs/we/) - framework for real time apps, sites or blogs.
-*   [Nodizecms (⭐176)](https://github.com/nodize/nodizecms) - CMS for CoffeeScript lovers.
-*   [Cody (⭐674)](https://github.com/jcoppieters/cody) - CMS with WSYWYG editor.
+*   [Nodizecms (⭐175)](https://github.com/nodize/nodizecms) - CMS for CoffeeScript lovers.
+*   [Cody (⭐677)](https://github.com/jcoppieters/cody) - CMS with WSYWYG editor.
 *   [PencilBlue (⭐1.6k)](https://github.com/pencilblue/pencilblue/) - CMS and blogging platform.
 
 ### Templating Engines / Runner
 
 *   [doT (⭐5k)](https://github.com/olado/doT) - The fastest + concise JavaScript template engine for nodejs and browsers.
-*   [t.js (⭐828)](https://github.com/jasonmoo/t.js) - A tiny JavaScript templating framework in \~400 bytes gzipped.
+*   [t.js (⭐827)](https://github.com/jasonmoo/t.js) - A tiny JavaScript templating framework in \~400 bytes gzipped.
 
 ### Data Visualization / Runner
 
-*   [fabric.js (⭐28k)](https://github.com/kangax/fabric.js) - JavaScript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser.
+*   [fabric.js (⭐29k)](https://github.com/kangax/fabric.js) - JavaScript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser.
 *   [nvd3 (⭐7.2k)](https://github.com/novus/nvd3) - Build re-usable charts and chart components for d3.js.
 *   [jquery.sparkline (⭐1.2k)](https://github.com/gwatts/jquery.sparkline) - A plugin for the jQuery JavaScript library to generate small sparkline charts directly in the browser.
 *   [trianglify (⭐10k)](https://github.com/qrohlf/trianglify) - Low poly style background generator with d3.js.
 *   [dimple.js](http://dimplejs.org) - Easy charts for business analytics powered by d3.
-*   [recharts (⭐23k)](https://github.com/recharts/recharts) - Redefined chart library built with React and D3.
+*   [recharts (⭐24k)](https://github.com/recharts/recharts) - Redefined chart library built with React and D3.
 
 ### Editors / Runner
 
@@ -118,22 +118,22 @@
 *   [selecting (⭐92)](https://github.com/EvandroLG/selecting) - A library that allows you to access the text selected by the user.
 *   [underscore.string (⭐3.4k)](https://github.com/epeli/underscore.string) - String manipulation extensions for Underscore.js JavaScript library.
 *   [URI.js (⭐6.3k)](https://github.com/medialize/URI.js/) - JavaScript URL mutation library.
-*   [url-pattern (⭐581)](https://github.com/snd/url-pattern) - Easier than regex string matching patterns for urls and other strings. Turn strings into data or data into strings.
+*   [url-pattern (⭐582)](https://github.com/snd/url-pattern) - Easier than regex string matching patterns for urls and other strings. Turn strings into data or data into strings.
 
 ### Number / Runner
 
 *   [Numeral-js (⭐9.6k)](https://github.com/adamwdraper/Numeral-js) - A JavaScript library for formatting and manipulating numbers.
 *   [chance.js (⭐6.4k)](https://github.com/chancejs/chancejs) - Random generator helper in JavaScript. Can generate numbers, strings etc.
 *   [money.js (⭐12)](https://github.com/josscrowcroft/money.js) - A tiny (1kb) JavaScript currency conversion library, for web & nodeJS.
-*   [Fraction.js (⭐457)](https://github.com/infusion/Fraction.js) - A rational number library for JavaScript.
-*   [Complex.js (⭐228)](https://github.com/infusion/Complex.js) - A complex number library for JavaScript.
-*   [Polynomial.js (⭐122)](https://github.com/infusion/Polynomial.js) - A polynomials library for JavaScript.
+*   [Fraction.js (⭐462)](https://github.com/infusion/Fraction.js) - A rational number library for JavaScript.
+*   [Complex.js (⭐231)](https://github.com/infusion/Complex.js) - A complex number library for JavaScript.
+*   [Polynomial.js (⭐123)](https://github.com/infusion/Polynomial.js) - A polynomials library for JavaScript.
 
 ### Storage / Runner
 
 *   [basil.js (⭐2k)](https://github.com/Wisembly/basil.js) - The missing JavaScript smart persistent layer.
 *   [js-cookie (⭐22k)](https://github.com/js-cookie/js-cookie) - A simple, lightweight JavaScript API for handling browser cookies.
-*   [DB.js (⭐807)](https://github.com/aaronpowell/db.js/) - Promise based IndexDB Wrapper library.
+*   [DB.js (⭐820)](https://github.com/aaronpowell/db.js/) - Promise based IndexDB Wrapper library.
 
 ### I18n And L10n / Runner
 
@@ -145,7 +145,7 @@
 
 ### Log / Runner
 
-*   [Conzole (⭐211)](https://github.com/Oaxoa/Conzole) - A debug panel built in JavaScript that wraps JavaScript native console object methods and functionality in a panel displayed inside the page.
+*   [Conzole (⭐210)](https://github.com/Oaxoa/Conzole) - A debug panel built in JavaScript that wraps JavaScript native console object methods and functionality in a panel displayed inside the page.
 *   [minilog](http://mixu.net/minilog/) – Lightweight client & server-side logging with Stream-API backends.
 
 ### Vision Detection / Runner
@@ -158,7 +158,7 @@
 
 ### Browser Detection / Runner
 
-*   [bowser (⭐5.4k)](https://github.com/ded/bowser) - a browser detector.
+*   [bowser (⭐5.5k)](https://github.com/ded/bowser) - a browser detector.
 
 ### Code highlighting / Runner
 
@@ -184,7 +184,7 @@
 
 ### Range Sliders / Runner
 
-*   [jQRangeSlider (⭐671)](https://github.com/ghusse/jQRangeSlider) - A JavaScript slider selector that supports dates.
+*   [jQRangeSlider (⭐670)](https://github.com/ghusse/jQRangeSlider) - A JavaScript slider selector that supports dates.
 
 ### Form Widgets / Input
 
@@ -217,8 +217,8 @@
 
 ### Boilerplates / Other
 
-*   [full-page-intro-and-navigation (⭐46)](https://github.com/CodyHouse/full-page-intro-and-navigation) - An intro page with a full width background image, a bold animated menu and an iOS-like blurred effect behind the navigation.
-*   [Mobile-First-RWD (⭐67)](https://github.com/bradfrost/Mobile-First-RWD) - An example of a mobile-first responsive web design.
+*   [full-page-intro-and-navigation (⭐47)](https://github.com/CodyHouse/full-page-intro-and-navigation) - An intro page with a full width background image, a bold animated menu and an iOS-like blurred effect behind the navigation.
+*   [Mobile-First-RWD (⭐68)](https://github.com/bradfrost/Mobile-First-RWD) - An example of a mobile-first responsive web design.
 *   [this-is-responsive (⭐1.6k)](https://github.com/bradfrost/this-is-responsive) - This Is Responsive.
 
 ### Gesture / Other
@@ -228,15 +228,15 @@
 
 ### Video/Audio / Other
 
-*   [Play-em JS (⭐93)](https://github.com/adrienjoly/playemjs) - Play'em is a JavaScript component that manages a music/video track queue and plays a sequence of songs by embedding several players in a HTML DIV including Youtube, Soundcloud and Vimeo.
+*   [Play-em JS (⭐94)](https://github.com/adrienjoly/playemjs) - Play'em is a JavaScript component that manages a music/video track queue and plays a sequence of songs by embedding several players in a HTML DIV including Youtube, Soundcloud and Vimeo.
 *   [polyplayer (⭐40)](https://github.com/Acconut/polyplayer) - Rule YouTube, Soundcloud and Vimeo player with one API.
 *   [video.js (⭐38k)](https://github.com/videojs/video.js) - Video.js - open source HTML5 & Flash video player.
-*   [Ion.Sound (⭐714)](https://github.com/IonDen/ion.sound) - Simple sounds on any web page.
+*   [Ion.Sound (⭐712)](https://github.com/IonDen/ion.sound) - Simple sounds on any web page.
 *   [photobooth-js (⭐576)](https://github.com/WolframHempel/photobooth-js) - A widget that allows users to take their avatar pictures on your site.
 
 ### Typography / Other
 
-*   [circletype (⭐684)](https://github.com/peterhry/circletype) - A jQuery plugin that lets you curve type on the web.
+*   [circletype (⭐689)](https://github.com/peterhry/circletype) - A jQuery plugin that lets you curve type on the web.
 *   [slabText (⭐1.3k)](https://github.com/freqDec/slabText/) - A jQuery plugin for producing big, bold & responsive headlines.
 *   [simple-text-rotator (⭐748)](https://github.com/peachananr/simple-text-rotator) - Add a super simple rotating text to your website with little to no markup.
 *   [FitText.js (⭐6.8k)](https://github.com/davatron5000/FitText.js) - A jQuery plugin for inflating web type.
@@ -278,8 +278,8 @@
 
 ### Component Libraries
 
-*   [Chartjs Web Components (⭐58)](https://github.com/fsx950223/chartjs-web-components) - Web components for chartjs.
-*   [LRNWebComponents (⭐240)](https://github.com/elmsln/lrnwebcomponents) - ELMS:LN produced web components for any project.
+*   [Chartjs Web Components (⭐59)](https://github.com/fsx950223/chartjs-web-components) - Web components for chartjs.
+*   [LRNWebComponents (⭐242)](https://github.com/elmsln/lrnwebcomponents) - ELMS:LN produced web components for any project.
 
 ---
 

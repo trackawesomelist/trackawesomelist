@@ -10,19 +10,19 @@
 
 ### Testing
 
-*   [stream\_data (⭐858)](https://github.com/whatyouhide/stream_data) - A pure-Elixir data generation and property-based testing library.
+*   [stream\_data (⭐891)](https://github.com/whatyouhide/stream_data) - A pure-Elixir data generation and property-based testing library.
 
 ## [2. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Packages / Web frameworks
 
-*   [Hono (⭐17k)](https://github.com/honojs/hono) - Small and fast web framework.
+*   [Hono (⭐21k)](https://github.com/honojs/hono) - Small and fast web framework.
 
 ## [3. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
 ### Games / Apache License
 
-*   [eepers (⭐319)](https://github.com/tsoding/eepers) - A simple Turn-based Game in Ada (made with [raylib (⭐21k)](https://github.com/raysan5/raylib)).
+*   [eepers (⭐353)](https://github.com/tsoding/eepers) - A simple Turn-based Game in Ada (made with [raylib (⭐24k)](https://github.com/raysan5/raylib)).
 
 ## [4. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 

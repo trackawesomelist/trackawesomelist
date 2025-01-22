@@ -52,7 +52,7 @@
 
 ### Applications / Episodes
 
-*   [CANalyzat0r (⭐713)](https://github.com/schutzwerk/CANalyzat0r) - A security analysis toolkit for proprietary car protocols.
+*   [CANalyzat0r (⭐763)](https://github.com/schutzwerk/CANalyzat0r) - A security analysis toolkit for proprietary car protocols.
 
 ## [6. Awesome Speakers](/content/karlhorky/awesome-speakers/README.md)
 

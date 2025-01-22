@@ -14,31 +14,31 @@
 
 ### Models/Projects
 
-*   [TensorFlow White Paper Notes (⭐437)](https://github.com/samjabrahams/tensorflow-white-paper-notes) - Annotated notes and summaries of the TensorFlow white paper, along with SVG figures and links to documentation
+*   [TensorFlow White Paper Notes (⭐439)](https://github.com/samjabrahams/tensorflow-white-paper-notes) - Annotated notes and summaries of the TensorFlow white paper, along with SVG figures and links to documentation
 
 ## [2. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Packages / Miscellaneous
 
-*   [adit (⭐54)](https://github.com/markelog/adit) - SSH tunneling made simple.
+*   [adit (⭐55)](https://github.com/markelog/adit) - SSH tunneling made simple.
 
 ## [3. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Table of Contents / Email
 
-*   [Mautic (⭐6.9k)](https://github.com/mautic/mautic) - Email marketing automation
+*   [Mautic (⭐7.6k)](https://github.com/mautic/mautic) - Email marketing automation
 
 ## [4. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
 ### Frameworks / Misc
 
-*   [Foundation for Emails (⭐7.7k)](https://github.com/zurb/foundation-emails) - Quickly create responsive HTML emails that work on any device & client. Even Outlook.
+*   [Foundation for Emails (⭐7.8k)](https://github.com/zurb/foundation-emails) - Quickly create responsive HTML emails that work on any device & client. Even Outlook.
 
 ## [5. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### ORM and Datamapping
 
-*   [eventstore (⭐1k)](https://github.com/slashdotdash/eventstore) - A CQRS EventStore using Postgres for persistence, written in Elixir.
+*   [eventstore (⭐1.1k)](https://github.com/slashdotdash/eventstore) - A CQRS EventStore using Postgres for persistence, written in Elixir.
 
 ## [6. Awesome Polymer](/content/Granze/awesome-polymer/README.md)
 

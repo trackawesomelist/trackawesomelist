@@ -10,29 +10,25 @@
 
 ### Search and Analytic Databases
 
-*   [zoekt (⭐751)](https://github.com/sourcegraph/zoekt) - Fast trigram based code search.
+*   [zoekt (⭐803)](https://github.com/sourcegraph/zoekt) - Fast trigram based code search.
 
 ### Game Development
 
-*   [Pixel (⭐251)](https://github.com/gopxl/pixel) - Hand-crafted 2D game library in Go.
+*   [Pixel (⭐273)](https://github.com/gopxl/pixel) - Hand-crafted 2D game library in Go.
 
 ### Security
 
-*   [qrand (⭐15)](https://github.com/bitfield/qrand) - Client for the ANU Quantum Numbers (AQN) API, providing quantum-mechanically secure random data.
+*   [qrand (⭐16)](https://github.com/bitfield/qrand) - Client for the ANU Quantum Numbers (AQN) API, providing quantum-mechanically secure random data.
 
 ### Third-party APIs
 
-*   [aws-encryption-sdk-go (⭐20)](https://github.com/chainifynet/aws-encryption-sdk-go) - Unofficial Go SDK implementation of the [AWS Encryption SDK](https://docs.aws.amazon.com/encryption-sdk/latest/developer-guide/index.html).
+*   [aws-encryption-sdk-go (⭐21)](https://github.com/chainifynet/aws-encryption-sdk-go) - Unofficial Go SDK implementation of the [AWS Encryption SDK](https://docs.aws.amazon.com/encryption-sdk/latest/developer-guide/index.html).
 
 ## [2. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
-
-*   [deoplete-zsh (⭐50)](https://github.com/zchee/deoplete-zsh) - ZSH completion for [deoplete.nvim (⭐5.9k)](https://github.com/Shougo/deoplete.nvim)
-
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [do-you-even-nix (⭐1)](https://github.com/miche1e/do-you-even-nix) - Simple powerline-esque theme designed to increase [nix](https://nixos.org) power. Includes decorators for username\@hostname, current directory, `git` status, whether you're in a nix shell, and whether there is a flake.nix or shell.nix file in the current directory.
+*   [do-you-even-nix (⭐2)](https://github.com/miche1e/do-you-even-nix) - Simple powerline-esque theme designed to increase [nix](https://nixos.org) power. Includes decorators for username\@hostname, current directory, `git` status, whether you're in a nix shell, and whether there is a flake.nix or shell.nix file in the current directory.
 
 ## [3. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
@@ -42,11 +38,15 @@
 
 ## [4. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
+### Printing / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-printify (⭐1)](https://github.com/aesopo1213/ngx-printify) - Angular utility library that simplifies the process of printing content in your Angular applications. It provides a directive for easy integration into your components and a service for programmatic printing.
+
 ### Misc Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ngx-route-manager (⭐2)](https://github.com/perez247/ngx-route-manager) - A simple library to store all route urls used in the application.
-*   [ngx-printify (⭐1)](https://github.com/aesopo1213/ngx-printify) - Angular utility library that simplifies the process of printing content in your Angular applications. It provides a directive for easy integration into your components and a service for programmatic printing.
 
 ---
 
+- Prev: [Dec 02, 2024](/content/2024/12/02/README.md)
 - Next: [Nov 30, 2024](/content/2024/11/30/README.md)

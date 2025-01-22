@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 02, 2021
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -34,15 +34,9 @@
 
 ### Projects Related to eBPF / Tools
 
-*   [upf-bpf (⭐193)](https://github.com/navarrothiago/upf-bpf) - An in-kernel solution based on XDP for 5G UPF.
+*   [upf-bpf (⭐199)](https://github.com/navarrothiago/upf-bpf) - An in-kernel solution based on XDP for 5G UPF.
 
-## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / UI Components
-
-*   [pdfvuer (⭐910)](https://github.com/arkokoley/pdfvuer) - A PDF viewer for Vue using Mozilla's PDF.js with text support for Vue2 and Vue3. [Demo](https://arkokoley.github.io/pdfvuer/)
-
-## [7. Public Apis](/content/public-apis/public-apis/README.md)
+## [6. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Finance
 
@@ -56,7 +50,7 @@
 
   CORS: Yes
 
-  Call this API: 
+  : 
 
 
 
@@ -88,7 +82,7 @@
 
 
 
-## [8. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
+## [7. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
 
 ### Audio
 
@@ -143,7 +137,7 @@
 
 *   [DFMJSON (⭐29)](https://github.com/masonwheeler/DFMJSON). `[Delphi]` Library to convert between Delphi's .DFM (or .FMX) format and JSON. It can be used to parse a DFM file into an Abstract Syntax Tree in JSON, which can then be edited and the results turned back to DFM format.
 
-## [9. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [8. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Machine Learning
 
@@ -151,15 +145,15 @@
 
 ### CLI
 
-*   [popl (⭐163)](https://github.com/badaix/popl) - A single-header templated command line arguments and ini file parser for C++ 11 and beyond. \[MIT]
+*   [popl (⭐170)](https://github.com/badaix/popl) - A single-header templated command line arguments and ini file parser for C++ 11 and beyond. \[MIT]
 
 ### Data visualization
 
-*   [matplotplusplus (⭐4.2k)](https://github.com/alandefreitas/matplotplusplus) - C++ Graphics Library for Data Visualization. \[MIT] [website](https://alandefreitas.github.io/matplotplusplus/)
+*   [matplotplusplus (⭐4.4k)](https://github.com/alandefreitas/matplotplusplus) - C++ Graphics Library for Data Visualization. \[MIT] [website](https://alandefreitas.github.io/matplotplusplus/)
 
 ### Physics
 
-*   [Kratos (⭐1k)](https://github.com/KratosMultiphysics/Kratos) - framework for building parallel, multi-disciplinary simulation software, aiming at modularity, extensibility, and high performance. \[BSD] [website](http://www.cimne.com/kratos/)
+*   [Kratos (⭐1.1k)](https://github.com/KratosMultiphysics/Kratos) - framework for building parallel, multi-disciplinary simulation software, aiming at modularity, extensibility, and high performance. \[BSD] [website](http://www.cimne.com/kratos/)
 
 ---
 

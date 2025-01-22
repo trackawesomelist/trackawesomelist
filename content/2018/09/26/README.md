@@ -24,7 +24,7 @@ Webpage: <https://www.facebook.com/TEKTURAcafe/>
 
 ### Miscellaneous / Development and testing
 
-*   [tmux-tail-f (⭐32)](https://github.com/mapio/tmux-tail-f) A tool to tail multiple files using tmux
+*   [tmux-tail-f (⭐33)](https://github.com/mapio/tmux-tail-f) A tool to tail multiple files using tmux
 
 ## [3. Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md)
 
@@ -70,11 +70,11 @@ Webpage: <https://www.facebook.com/TEKTURAcafe/>
 
 ### Modules
 
-*   [FindWiX (⭐11)](https://github.com/apriorit/FindWiX) - CMake module for building [Windows Installer](https://en.wikipedia.org/wiki/Windows_Installer) packages with [WiX toolset](http://wixtoolset.org). [`[BSD3]`](https://opensource.org/licenses/BSD-3-Clause)
+*   [FindWiX (⭐18)](https://github.com/apriorit/FindWiX) - CMake module for building [Windows Installer](https://en.wikipedia.org/wiki/Windows_Installer) packages with [WiX toolset](http://wixtoolset.org). [`[BSD3]`](https://opensource.org/licenses/BSD-3-Clause)
 
 ### Examples / Templates
 
-*   [cpp-template (⭐47)](https://github.com/joshpeterson/cpp-template) - A template C++ repository, using CMake and Catch. `[NO LICENSE]`
+*   [cpp-template (⭐51)](https://github.com/joshpeterson/cpp-template) - A template C++ repository, using CMake and Catch. `[NO LICENSE]`
 
 ## [9. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

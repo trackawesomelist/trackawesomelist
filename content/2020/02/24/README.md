@@ -10,17 +10,17 @@
 
 ### Applications / Utilities
 
-*   [guoxbin/dtool (⭐366)](https://github.com/guoxbin/dtool) - A useful command-line tool collection to assist development including conversion, codec, hashing, encryption, etc.
+*   [guoxbin/dtool (⭐371)](https://github.com/guoxbin/dtool) - A useful command-line tool collection to assist development including conversion, codec, hashing, encryption, etc.
 
 ### Development tools / Profiling
 
-*   [bheisler/criterion.rs (⭐4.4k)](https://github.com/bheisler/criterion.rs) - Statistics-driven benchmarking library
+*   [bheisler/criterion.rs (⭐4.8k)](https://github.com/bheisler/criterion.rs) - Statistics-driven benchmarking library
 
 ## [2. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Templates / Preferences
 
-*   [FlutterFoodybite (⭐1.5k)](https://github.com/JideGuru/FlutterFoodybite) <!--stargazers:JideGuru/FlutterFoodybite--> - Beautiful food app UI template by [JideGuru](https://github.com/JideGuru)
+*   [FlutterFoodybite (⭐1.6k)](https://github.com/JideGuru/FlutterFoodybite) <!--stargazers:JideGuru/FlutterFoodybite--> - Beautiful food app UI template by [JideGuru](https://github.com/JideGuru)
 
 ## [3. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
 
@@ -44,14 +44,14 @@
 
 ### Static Analysis / Linting
 
-*   [Run sqlcheck on the PR to identifies anti-patterns in SQL queries (⭐21)](https://github.com/yokawasa/action-sqlcheck)
+*   [Run sqlcheck on the PR to identifies anti-patterns in SQL queries (⭐24)](https://github.com/yokawasa/action-sqlcheck)
 
 ## [7. Awesome Coq](/content/coq-community/awesome-coq/README.md)
 
 ### Projects / Libraries
 
-*   [Formalised Undecidable Problems (⭐102)](https://github.com/uds-psl/coq-library-undecidability) - Library of undecidable problems and reductions between them.
-*   [Regular Language Representations (⭐42)](https://github.com/coq-community/reglang) - Translations between different definitions of regular languages, including regular expressions and automata.
+*   [Formalised Undecidable Problems (⭐112)](https://github.com/uds-psl/coq-library-undecidability) - Library of undecidable problems and reductions between them.
+*   [Regular Language Representations (⭐41)](https://github.com/coq-community/reglang) - Translations between different definitions of regular languages, including regular expressions and automata.
 
 ### Projects / Plugins
 
@@ -66,7 +66,7 @@
 
 ### Other / Node.js
 
-*   [Node.js Best Practices (⭐97k)](https://github.com/goldbergyoni/nodebestpractices#readme)
+*   [Node.js Best Practices (⭐99k)](https://github.com/goldbergyoni/nodebestpractices#readme)
 
 ## [9. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 

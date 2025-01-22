@@ -10,26 +10,25 @@
 
 ### React Native Awesome Components
 
-*   [react-native-gifted-chat (⭐13k)](https://github.com/FaridSafi/react-native-gifted-chat) - The most complete chat UI for React Native
+*   [react-native-gifted-chat (⭐14k)](https://github.com/FaridSafi/react-native-gifted-chat) - The most complete chat UI for React Native
 
 ### React Native Libraries
 
-*   [realm-js (⭐5.6k)](https://github.com/realm/realm-js) - A mobile database: an alternative to SQLite & key-value stores
+*   [realm-js (⭐5.8k)](https://github.com/realm/realm-js) - A mobile database: an alternative to SQLite & key-value stores
 
 ## [2. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
-### ORMs
+### C, C++
 
-*   [cl-dbi (⭐200)](https://github.com/fukamachi/cl-dbi) - A database-independent interface for Common Lisp. [LLGPL](http://opensource.franz.com/preamble.html).
-    *   [dbd-oracle (⭐4)](https://github.com/sergadin/dbd-oracle) - an Oracle database driver for CL-DBI. [LLGPL](http://opensource.franz.com/preamble.html).
+*   [cl-dbi (⭐212)](https://github.com/fukamachi/cl-dbi) - A database-independent interface for Common Lisp. [LLGPL](http://opensource.franz.com/preamble.html).
 
 ### CLOS extensions
 
-*   [fast-generic-functions (⭐91)](https://github.com/marcoheisig/fast-generic-functions) - Seal your generic functions for an extra boost in performance. [MIT](https://opensource.org/licenses/MIT).
+*   [fast-generic-functions (⭐97)](https://github.com/marcoheisig/fast-generic-functions) - Seal your generic functions for an extra boost in performance. [MIT](https://opensource.org/licenses/MIT).
 
 ### Macro helpers / Third-party APIs
 
-*   [trivial-with-current-source-from (⭐35)](https://github.com/scymtym/trivial-with-current-source-form/) - Helps macro writers produce better errors for macro users. [GPL3](http://www.gnu.org/copyleft/gpl.html).
+*   [trivial-with-current-source-from (⭐36)](https://github.com/scymtym/trivial-with-current-source-form/) - Helps macro writers produce better errors for macro users. [GPL3](http://www.gnu.org/copyleft/gpl.html).
 
 ## [3. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
@@ -66,7 +65,7 @@
 
 ### Utilities / Game Engine resources
 
-*   [Environment Configuration (⭐91)](https://github.com/TatsuUkraine/dart_environment_config) <!--stargazers:TatsuUkraine/dart_environment_config--> - CLI tool to generate `.env` configurations for application environments by [TatsuUkraine](https://github.com/TatsuUkraine)
+*   [Environment Configuration (⭐92)](https://github.com/TatsuUkraine/dart_environment_config) <!--stargazers:TatsuUkraine/dart_environment_config--> - CLI tool to generate `.env` configurations for application environments by [TatsuUkraine](https://github.com/TatsuUkraine)
 
 ## [5. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
@@ -107,7 +106,7 @@
 
 ### Alert / Barcode
 
-*   [PopupView (⭐3.2k)](https://github.com/exyte/PopupView) - Toasts and popups library written with SwiftUI.
+*   [PopupView (⭐3.5k)](https://github.com/exyte/PopupView) - Toasts and popups library written with SwiftUI.
 
 ## [9. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
@@ -120,7 +119,7 @@
 
 ### Command Line / XML
 
-*   [luneta (⭐56)](https://github.com/fbeline/luneta) - A command-line fuzzy finder.
+*   [luneta (⭐62)](https://github.com/fbeline/luneta) - A command-line fuzzy finder.
 
 ---
 

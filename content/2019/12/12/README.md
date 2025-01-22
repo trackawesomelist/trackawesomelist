@@ -10,7 +10,7 @@
 
 ### Packages / Testing
 
-*   [nve (⭐693)](https://github.com/ehmicky/nve) - Run any command on multiple versions of Node.js locally.
+*   [nve (⭐694)](https://github.com/ehmicky/nve) - Run any command on multiple versions of Node.js locally.
 
 ## [2. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
@@ -22,7 +22,7 @@
 
 ### Front-End Development
 
-*   [Seed (⭐213)](https://github.com/seed-rs/awesome-seed-rs#readme) - Rust framework for creating web apps running in WebAssembly.
+*   [Seed (⭐214)](https://github.com/seed-rs/awesome-seed-rs#readme) - Rust framework for creating web apps running in WebAssembly.
 
 ## [4. Awesome Video](/content/krzemienski/awesome-video/README.md)
 

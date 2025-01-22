@@ -1,6 +1,6 @@
 # Awesome List Updates on May 23, 2021
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -36,84 +36,78 @@
 
 ## [4. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
-### Development / Books
+### Development / Chat
 
-*   [grex (⭐6.5k)](https://github.com/pemistahl/grex) - Generate regular expressions from user-provided test cases.
+*   [grex (⭐7.3k)](https://github.com/pemistahl/grex) - Generate regular expressions from user-provided test cases.
 
 ### Development / Devops
 
-*   [PingMe (⭐719)](https://github.com/kha7iq/pingme) - Send messages/alerts to multiple messaging platforms & email.
+*   [PingMe (⭐770)](https://github.com/kha7iq/pingme) - Send messages/alerts to multiple messaging platforms & email.
 
 ### Development / Release
 
-*   [semantic-release (⭐20k)](https://github.com/semantic-release/semantic-release) - Fully automated version management and package publishing.
+*   [semantic-release (⭐21k)](https://github.com/semantic-release/semantic-release) - Fully automated version management and package publishing.
 
 ### Utilities / Markdown
 
-*   [DocToc (⭐4.2k)](https://github.com/thlorenz/doctoc) - Generates table of contents for markdown files.
-*   [grip (⭐6.4k)](https://github.com/joeyespo/grip) - Preview markdown files as GitHub would render them.
+*   [DocToc (⭐4.3k)](https://github.com/thlorenz/doctoc) - Generates table of contents for markdown files.
+*   [grip (⭐6.5k)](https://github.com/joeyespo/grip) - Preview markdown files as GitHub would render them.
 *   [mdv (⭐1.8k)](https://github.com/axiros/terminal_markdown_viewer) - Styled terminal markdown viewer.
 
 ### Data Manipulation / Text
 
-*   [stegcloak (⭐3.2k)](https://github.com/kurolabs/stegcloak) - Hide secrets with invisible characters in plain text securely.
+*   [stegcloak (⭐3.3k)](https://github.com/kurolabs/stegcloak) - Hide secrets with invisible characters in plain text securely.
 
 ### Files and Directories / File Managers
 
-*   [Vifm](https://vifm.info/) - VI influnced file manager.
+*   [Vifm](https://vifm.info/) - VI influenced file manager.
 
 ### Files and Directories / Deleting, Copying, and Renaming
 
-*   [rename-cli (⭐161)](https://github.com/jhotmann/node-rename-cli) - Rename files quickly.
-*   [diskonaut (⭐2.1k)](https://github.com/imsnif/diskonaut) - Disk space navigator.
+*   [rename-cli (⭐165)](https://github.com/jhotmann/node-rename-cli) - Rename files quickly.
+*   [diskonaut (⭐2.5k)](https://github.com/imsnif/diskonaut) - Disk space navigator.
 
 ### Files and Directories / Files
 
-*   [unix-permissions (⭐131)](https://github.com/ehmicky/unix-permissions) - Swiss Army knife for Unix permissions.
-*   [entr (⭐4k)](https://github.com/eradman/entr) - Run an arbitrary command when files change.
-*   [organize-cli (⭐326)](https://github.com/ManrajGrover/organize-cli) - Organize your files automatically.
+*   [unix-permissions (⭐136)](https://github.com/ehmicky/unix-permissions) - Swiss Army knife for Unix permissions.
+*   [entr (⭐4.6k)](https://github.com/eradman/entr) - Run an arbitrary command when files change.
+*   [organize-cli (⭐337)](https://github.com/ManrajGrover/organize-cli) - Organize your files automatically.
 
 ### Files and Directories / File Sync/Sharing
 
-*   [rclone (⭐44k)](https://github.com/ncw/rclone) - Sync files with various cloud providers.
-*   [ffsend (⭐6.8k)](https://github.com/timvisee/ffsend) - Quick file share.
+*   [rclone (⭐47k)](https://github.com/ncw/rclone) - Sync files with various cloud providers.
+*   [ffsend (⭐7k)](https://github.com/timvisee/ffsend) - Quick file share.
 
 ## [5. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
-### Forums and Discussion Boards Search / Telegram
+### Forums and Discussion Boards Search / Steam
 
 *   [Built With Flarum](https://builtwithflarum.com/)
 
-## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [6. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
-### Components & Libraries / UI Utilities
+### Shared Expenses
 
-*   [vue-scrollama (⭐427)](https://github.com/vgshenoy/vue-scrollama) - A Vue component to easily setup scroll-driven interactions (aka scrollytelling).
-
-## [7. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
-
-### FIAT
-
-*   [IHateMoney](https://ihatemoney.org/) - Manage your shared expenses, easily.
-    *   [MoneyBuster](https://gitlab.com/eneiluj/moneybuster/) - Android client for Nextcloud Cospend and [IHateMoney](https://ihatemoney.org/) servers.
+*   [IHateMoney](https://ihatemoney.org/) - Manage your shared expenses, easily. Lacks unequal splitting.
+    *   [MoneyBuster](https://gitlab.com/eneiluj/moneybuster/) - Android client for Nextcloud Cospend and IHateMoney servers.
 
 ### Uncategorized
 
-*   [CrowdSec (⭐8.5k)](https://github.com/crowdsecurity/crowdsec) - An open-source, modernized and collaborative fail2ban.
+*   [CrowdSec (⭐9.5k)](https://github.com/crowdsecurity/crowdsec) - An open-source, modernized and collaborative fail2ban.
 
-## [8. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
+## [7. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
 ### Miscellaneous
 
-*   🍰 [OPCache Preloader (⭐10)](https://github.com/cnizzardini/cakephp-preloader) - An OPCache Preloader for CakePHP applications.
+*   [OPCache Preloader (⭐11)](https://github.com/cnizzardini/cakephp-preloader) - An OPCache Preloader for CakePHP applications.
 
-## [9. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
+## [8. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### Tools
 
 *   🌍 [Tailwind Cheat Sheet](https://tailwindcomponents.com/cheatsheet) - Tailwind CSS class names in a searchable page.
 
-## [10. Awesome Eosio](/content/DanailMinchev/awesome-eosio/README.md)
+## [9. Awesome Eosio](/content/DanailMinchev/awesome-eosio/README.md)
 
 ### EdenOS
 

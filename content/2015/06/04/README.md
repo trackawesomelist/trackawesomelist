@@ -10,7 +10,7 @@
 
 ### Miscellaneous
 
-*   [ub-canaries (⭐172)](https://github.com/regehr/ub-canaries) - A collection of C/C++ programs that try to get compilers to exploit undefined behavior.
+*   [ub-canaries (⭐176)](https://github.com/regehr/ub-canaries) - A collection of C/C++ programs that try to get compilers to exploit undefined behavior.
 
 ### Websites
 

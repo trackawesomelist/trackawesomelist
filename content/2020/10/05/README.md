@@ -10,7 +10,7 @@
 
 ### Files and Directories / File Sync/Sharing
 
-*   [gdrive-downloader (⭐294)](https://github.com/Akianonymus/gdrive-downloader) - Download files/folders from Google Drive.
+*   [gdrive-downloader (⭐304)](https://github.com/Akianonymus/gdrive-downloader) - Download files/folders from Google Drive.
 
 ## [2. Awesome Waves](/content/msmolyakov/awesome-waves/README.md)
 
@@ -28,11 +28,11 @@
 
 ### Free fonts / Fonts
 
-*   [AtF Spark (⭐2k)](https://github.com/aftertheflood/sparks) - Font designed to create sparklines
+*   [AtF Spark (⭐2.1k)](https://github.com/aftertheflood/sparks) - Font designed to create sparklines
 
 ### JavaScript libs / Programming fonts with ligatures
 
-*   [Fontsource (⭐3.6k)](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages
+*   [Fontsource (⭐5k)](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages
 
 ## [5. Awesome Analytics](/content/newTendermint/awesome-analytics/README.md)
 
@@ -85,13 +85,9 @@
 
 ### HTTP Servers / Interfaces to other package managers
 
-*   👍[Clack (⭐1k)](https://github.com/fukamachi/clack) - A web application environment inspired by Rack and WSGI. [LLGPL](http://opensource.franz.com/preamble.html).  Provides a unified interface to a webserver of choice (default is Hunchentoot). With more [getting started guide](https://jasom.github.io/clack-tutorial/posts/getting-started-with-clack/).
+*   👍[Clack (⭐1.1k)](https://github.com/fukamachi/clack) - A web application environment inspired by Rack and WSGI. [LLGPL](http://opensource.franz.com/preamble.html).  Provides a unified interface to a webserver of choice (default is Hunchentoot). With more [getting started guide](https://jasom.github.io/clack-tutorial/posts/getting-started-with-clack/).
 
 ## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Resources / Examples
-
-*   [FUE (⭐9)](https://github.com/elaijuh/fue) - Admin SPA client and server-side boilerplate with Vue.js + Vue Router + Vuex + Vuetify + FeathersJS
 
 ### Components & Libraries / Frameworks
 
@@ -100,35 +96,15 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-datasource (⭐417)](https://github.com/coderdiaz/vue-datasource) - A vue.js server-side component to create dynamic tables.
-*   [md-svg-vue (⭐15)](https://github.com/IPRIT/md-svg-vue) - Material Design Icons by Google for Vue.js & Nuxt.js (server-side support (with caching), inline svg rendering, official icon names)
-*   [v-selectpage (⭐242)](https://github.com/TerryZ/v-selectpage) - A powerful selector for Vue2, list or table view of pagination, use tags for multiple selection, i18n and server-side resources supports.
-*   [vue-file-agent (⭐731)](https://github.com/safrazik/vue-file-agent) - Full-featured drag & drop enabled Vue file upload component with previews and upload progress
+*   [v-selectpage (⭐245)](https://github.com/TerryZ/v-selectpage) - A powerful selector for Vue2, list or table view of pagination, use tags for multiple selection, i18n and server-side resources supports.
 
 ### Components & Libraries / UI Utilities
 
 *   [FormVuelar (⭐301)](https://github.com/janiskelemen/formvuelar) - Vue form components with server-side validation in mind
 
-### Components & Libraries / Utilities
-
-*   [vue-chimera (⭐171)](https://github.com/SasanFarrokh/vue-chimera) - A full-featured RESTful resource based client, compatible with Nuxt.js and allows server-side fetch.
-
-### Components & Libraries / Integrations
-
-*   [vuexpress (⭐99)](https://github.com/vuexpress/vuexpress) - Vue + Express.js = VueXpress / A server-side rendering engine for Express.js. Use .vue files as your express.js templates.
-
 ### Components & Libraries / Scaffold
 
-*   [Friendly Vue Starter (⭐36)](https://github.com/mcongy/friendly-vue-starter) - A full-featured Vue.js starter project with GraphQL support via Apollo-client (Vuex, Vue-router, Vue-i18n, Webpack 3, Eslint, Prettier, ...)
-*   [SSR Boilerplate (⭐160)](https://github.com/fenivana/vue-ssr-boilerplate) - Vue.js server-side rendering boilerplate without polluting Vuex.
-*   [Vue.js/Nuxt.js full-featured boilerplate (⭐125)](https://github.com/GrabarzUndPartner/gp-vue-boilerplate) - professional agency frontend template for building fast, robust, and adaptable web apps or sites by vuejs/nuxtjs.
-*   [DotVue (⭐77)](https://github.com/mbdavid/DotVue) - Implement .vue file handler in .NET with server ViewModel postback. Single-file components with server-side ViewModel. Use all power of VueJS with simple C# server-side data access.
-*   [vue-flexible-link (⭐21)](https://github.com/saintplay/vue-flexible-link) - Tiny Vue component for Electron to open links in a browser. Ideal for cross-environment apps (Web & Native)
-*   [vue-component-boilerplate (⭐8)](https://github.com/codetheorist/vue-component-boilerplate) - Template for generating the boilerplate code for a VueJS component, with build scripts and testing pre-installed.
-
-### Components & Libraries / Prerendering
-
-*   [ssr-vuejs-nodejs (⭐11)](https://github.com/gustavoSoriano/ssr-vuejs-nodejs) - Server-side render vuejs with nodejs without Nuxt.
+*   [Vue.js/Nuxt.js full-featured boilerplate (⭐128)](https://github.com/GrabarzUndPartner/gp-vue-boilerplate) - professional agency frontend template for building fast, robust, and adaptable web apps or sites by vuejs/nuxtjs.
 
 ## [8. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
@@ -148,13 +124,13 @@
 
 ## [10. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
-### Third-Party Packages / Admin
+### Third-Party Packages / Admin Themes
 
-*   [django-admin-interface (⭐1.8k)](https://github.com/fabiocaccamo/django-admin-interface) - Customize Admin by the admin itself(color, header. title,logo) and  popup windows replaced by modals.
+*   [django-admin-interface (⭐1.9k)](https://github.com/fabiocaccamo/django-admin-interface) - Customize Admin by the admin itself(color, header. title,logo) and  popup windows replaced by modals.
 
 ### Third-Party Packages / Forms
 
-*   [django-floppyforms (⭐838)](https://github.com/jazzband/django-floppyforms) - Full control of form rendering.
+*   [django-floppyforms (⭐839)](https://github.com/jazzband/django-floppyforms) - Full control of form rendering.
 
 ---
 

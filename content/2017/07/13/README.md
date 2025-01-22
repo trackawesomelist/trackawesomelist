@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 13, 2017
 
-7 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -75,12 +75,6 @@
 *   [10 iOS interview questions and answers](https://www.upwork.com/i/interview-questions/ios/)
 *   [iOS Developer and Designer Interview Questions (⭐1.6k)](https://github.com/9magnets/iOS-Developer-and-Designer-Interview-Questions#tech)
 *   [IOS Interview Questions and Answers](http://www.thecrazyprogrammer.com/2015/11/ios-interview-questions-and-answers.html)
-
-## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / UI Components
-
-*   [v-money (⭐777)](https://github.com/vuejs-tips/v-money) - Tiny (<2k gzipped) input/directive mask for currency
 
 ---
 

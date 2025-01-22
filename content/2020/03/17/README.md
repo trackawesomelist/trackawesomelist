@@ -10,7 +10,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [Lightwood (⭐436)](https://github.com/mindsdb/lightwood) - A Pytorch based framework that breaks down machine learning problems into smaller blocks that can be glued together seamlessly with objective to build predictive models with one line of code.
+*   [Lightwood (⭐453)](https://github.com/mindsdb/lightwood) - A Pytorch based framework that breaks down machine learning problems into smaller blocks that can be glued together seamlessly with objective to build predictive models with one line of code.
 
 ## [2. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
@@ -21,7 +21,7 @@
 ### Cartridges / Misc
 
 *   [Introduction to Game Boy Hacking](http://pepijndevos.nl/sha2017/workshop.pdf) - Workshop introducing basic assembly, debugging and reverse engineering.
-*   [GBSOUND.txt (⭐49)](https://github.com/bwhitman/pushpin/blob/master/src/gbsound.txt) - A document detailing the Game Boy sound engine.
+*   [GBSOUND.txt (⭐52)](https://github.com/bwhitman/pushpin/blob/master/src/gbsound.txt) - A document detailing the Game Boy sound engine.
 *   [gbdev FAQs](http://www.devrs.com/gb/files/faqs.html) - Must read by Jeff Frohwein.
 *   [Game Boy Bootrom](http://www.neviksti.com/DMG/DMG_ROM.asm) - Commented dump of the DMG bootrom.
 *   [Differences between the Z80 and the gameboy's processor](http://www.z80.info/z80gboy.txt)
@@ -41,7 +41,7 @@
 
 ### Erlang
 
-*   [CLERIC (⭐33)](https://github.com/flambard/CLERIC) - a Common Lisp Erlang Interface. An implementation of the Erlang distribution protocol, comparable with erl\_interface and jinterface. [MIT](https://opensource.org/licenses/MIT).
+*   [CLERIC (⭐34)](https://github.com/flambard/CLERIC) - a Common Lisp Erlang Interface. An implementation of the Erlang distribution protocol, comparable with erl\_interface and jinterface. [MIT](https://opensource.org/licenses/MIT).
 
 ### Apps / Third-party APIs
 
@@ -53,17 +53,9 @@
 
 ## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
-### Projects Using Vue.js / Open Source
-
-*   [Mockup-server (⭐124)](https://github.com/joon610/mockup-server) - Mockup-server is easily create server from local directory.
-*   [Rapido](https://framagit.org/InfoLibre/rapido) - Rapido is software to make a website. Rapido is fast, easy to use and respectful of your privacy.
-
 ### Components & Libraries / Utilities
 
 *   [vue-stripe-checkout (⭐1.1k)](https://github.com/jofftiquez/vue-stripe-checkout) - A simple vue plugin for Stripe checkout.
-*   [vue-stripe-payment (⭐16)](https://github.com/samturrell/vue-stripe-payment) - Vue wrapper for jquery.payment by Stripe.
-*   [vue-paypal-checkout (⭐153)](https://github.com/khoanguyen96/vue-paypal-checkout) - A simple Vue.js wrapper component for paypal-checkout.
-*   [vue-plaid-link (⭐31)](https://github.com/roundupapp/vue-plaid-link) - Easy to use Vue component for Plaid Link.
 
 ## [6. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
@@ -136,7 +128,7 @@ Food: Vending Machine + Cafés and Diners + Convenience stores
 
 ### Software / Vector Utilities
 
-*   [vpype (⭐676)](https://github.com/abey79/vpype) - Plotter-focused Python-based CLI utility for generating and manipulating SVGs, including scaling and optimizing paths.
+*   [vpype (⭐713)](https://github.com/abey79/vpype) - Plotter-focused Python-based CLI utility for generating and manipulating SVGs, including scaling and optimizing paths.
 
 ### Software / Fonts
 

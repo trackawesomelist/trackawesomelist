@@ -49,7 +49,7 @@
 
 ### Related Projects / Themes
 
-*   [Grammar of Graphics](https://g2.alipay.com/) - Pure javascript, powerful semantic graph generation tool for big data which provides a set of graphical syntax that lets users build with simple syntax a myriad of charts and integrates a large number of statistical tools, ([Read more (⭐123)](https://github.com/antvis/feedback)).
+*   [Grammar of Graphics](https://g2.alipay.com/) - Pure javascript, powerful semantic graph generation tool for big data which provides a set of graphical syntax that lets users build with simple syntax a myriad of charts and integrates a large number of statistical tools, ([Read more (⭐124)](https://github.com/antvis/feedback)).
 
 ### Vue.js / Themes
 
@@ -59,9 +59,9 @@
 
 ### Boilerplates / Themes
 
-*   [React Admin (⭐596)](https://github.com/fireyy/react-antd-admin) - React Admin UI built on Ant Design (username: admin, password: 123456).
-*   [React Redux (⭐413)](https://github.com/Justin-lu/react-redux-antd) - React Redux for CMS/Enterprise class apps (ERP/Admin) built with Ant Design.
-*   [Webbf (⭐390)](https://github.com/peterchenhdu/webbf) - Java demo that uses Maven to build the backend with Spring, Spring MVC and Mybatis. React, Reflux, Eebpack, jQuery, React-bootstrap and Ant Design.
+*   [React Admin (⭐597)](https://github.com/fireyy/react-antd-admin) - React Admin UI built on Ant Design (username: admin, password: 123456).
+*   [React Redux (⭐417)](https://github.com/Justin-lu/react-redux-antd) - React Redux for CMS/Enterprise class apps (ERP/Admin) built with Ant Design.
+*   [Webbf (⭐438)](https://github.com/peterchenhdu/webbf) - Java demo that uses Maven to build the backend with Spring, Spring MVC and Mybatis. React, Reflux, Eebpack, jQuery, React-bootstrap and Ant Design.
 *   [React Redux Intro (⭐33)](https://github.com/LeuisKen/react-redux-intro) - Demo app built with Ant Design and can be configured to initialize a Redux dependencies.
 *   [TODO MVC (⭐10)](https://github.com/cupools/todoMVC-react) - Todo list built with React and Ant Design.
 

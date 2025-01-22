@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 29, 2021
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Code Analysis
 
-*   [DepViz](https://depviz.jasonaxelson.com/) - A visual tool to help developers understand Elixir recompilation in their projects. ([Code (⭐192)](https://github.com/axelson/dep_viz/)).
+*   [DepViz](https://depviz.jasonaxelson.com/) - A visual tool to help developers understand Elixir recompilation in their projects. ([Code (⭐199)](https://github.com/axelson/dep_viz/)).
 
 ## [2. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/README.md)
 
@@ -225,25 +225,19 @@
 
 *   [lux (⭐5.1k)](https://github.com/lux-org/lux) - Recommends a set of visualizations whenever a dataframe is printed in a notebook.
 
-## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [7. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
-### Components & Libraries / Utilities
-
-*   [vue-next-rx (⭐32)](https://github.com/NOPR9D/vue-next-rx) - Complete RxJS integration for Vue.js. (Update of vue-rx)
-
-## [8. Awesome Datascience](/content/academic/awesome-datascience/README.md)
-
-### Datasets / Book Deals (Affiliated) 🛍
+### Datasets / Book Deals (Affiliated)
 
 *   [The official portal for European data](https://data.europa.eu/en)
 
-## [9. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
+## [8. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
 ### Go / Erlang
 
-*   [go-zero (⭐29k)](https://github.com/tal-tech/go-zero) - A web and rpc distributed system development framework.
+*   [go-zero (⭐30k)](https://github.com/tal-tech/go-zero) - A web and rpc distributed system development framework.
 
-## [10. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
+## [9. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 
 ### Apps / Blogging/news
 
@@ -252,11 +246,11 @@
 ### Tools / Templates & Starter Kits
 
 *   [wagtail-webpack-dokku (⭐13)](https://github.com/helixsoftco/wagtail-webpack-dokku/) - A template with Wagtail, Webpack using django-webpack-loader, Bootstrap 5, production ready for Dokku.
-*   [CodeRed CMS (⭐676)](https://github.com/coderedcorp/coderedcms) - a professionally supported WordPress alternative for building marketing websites. Create pages, blogs, forms, and every Bootstrap 4 component in the wagtail admin out-of-the-box! [Learn more](https://www.coderedcorp.com/cms/) or [watch the lightning talk](https://www.youtube.com/watch?v=U1Y-jgeGh7g\&t=228s).
+*   [CodeRed CMS (⭐685)](https://github.com/coderedcorp/coderedcms) - a professionally supported WordPress alternative for building marketing websites. Create pages, blogs, forms, and every Bootstrap 4 component in the wagtail admin out-of-the-box! [Learn more](https://www.coderedcorp.com/cms/) or [watch the lightning talk](https://www.youtube.com/watch?v=U1Y-jgeGh7g\&t=228s).
 
 ### Open-source sites / Lists
 
-*   [WesternFriend (⭐53)](https://github.com/WesternFriend/WF-website) - community website with directory, ecommerce, and online subscription
+*   [WesternFriend (⭐55)](https://github.com/WesternFriend/WF-website) - community website with directory, ecommerce, and online subscription
 
 ---
 

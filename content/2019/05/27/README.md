@@ -458,7 +458,7 @@
 
 ### Reproducible Research
 
-*   [redoc (⭐506)](https://github.com/noamross/redoc) - Reversible Reproducible Documents
+*   [redoc (⭐514)](https://github.com/noamross/redoc) - Reversible Reproducible Documents
 
 ### Finance
 
@@ -498,7 +498,7 @@
 
 ### CLI
 
-*   [cli (⭐1.2k)](https://github.com/daniele77/cli) - A cross-platform header only C++14 library for interactive command line interfaces (Cisco style). \[Boost]
+*   [cli (⭐1.3k)](https://github.com/daniele77/cli) - A cross-platform header only C++14 library for interactive command line interfaces (Cisco style). \[Boost]
 
 ## [9. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 
@@ -536,7 +536,7 @@
 
 ### Language Support
 
-*   [Php (⭐13)](https://github.com/vert-x-cn/vertx-lang-jphp) - Php support.
+*   [Php (⭐12)](https://github.com/vert-x-cn/vertx-lang-jphp) - Php support.
 
 ## [15. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
 

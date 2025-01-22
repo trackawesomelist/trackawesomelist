@@ -99,7 +99,7 @@
 
 ### Motion / Diagnostics
 
-*   [sphamba/smear-cursor.nvim (⭐538)](https://github.com/sphamba/smear-cursor.nvim) - Animate the cursor with a smear effect in all terminals. Inspired by Neovide's animated cursor.
+*   [sphamba/smear-cursor.nvim (⭐663)](https://github.com/sphamba/smear-cursor.nvim) - Animate the cursor with a smear effect in all terminals. Inspired by Neovide's animated cursor.
 
 ## [6. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
 
@@ -117,7 +117,7 @@
 
 ### Tools / CI
 
-*   [TF-via-PR (⭐127)](https://github.com/OP5dev/TF-via-PR) - GitHub Action to init, plan and apply Terraform/OpenTofu via PR automation.
+*   [TF-via-PR (⭐160)](https://github.com/OP5dev/TF-via-PR) - GitHub Action to init, plan and apply Terraform/OpenTofu via PR automation.
 
 ## [9. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
 
@@ -149,11 +149,11 @@
 ### IDE
 
 *   [dbForge Edge](https://www.devart.com/dbforge/edge/) - Multidatabase solution for DB development, design, management, and administration of MySQL, MariaDB, SQL Server, Oracle, PostgreSQL databases, and various cloud services.
-*   [Kangaroo (⭐380)](https://github.com/dbkangaroo/kangaroo) - A AI-powered SQL client and admin tool for popular databases(SQLite / MySQL / PostgreSQL / etc) on Windows / macOS / Linux, support table design, query, model, sync, export/import etc, focus on comfortable, fun and developer friendly.
+*   [Kangaroo (⭐385)](https://github.com/dbkangaroo/kangaroo) - A AI-powered SQL client and admin tool for popular databases(SQLite / MySQL / PostgreSQL / etc) on Windows / macOS / Linux, support table design, query, model, sync, export/import etc, focus on comfortable, fun and developer friendly.
 
 ### SQL / Formatters
 
-*   [JSQLFormatter (⭐28)](https://github.com/manticore-projects/jsqlformatter) - Open Source Java SQL Formatter for many RDBMS based on [JSqlParser (⭐5.4k)](https://github.com/JSQLParser/JSqlParser).
+*   [JSQLFormatter (⭐28)](https://github.com/manticore-projects/jsqlformatter) - Open Source Java SQL Formatter for many RDBMS based on JSqlParser.
 
 ### SQL / Games
 
@@ -163,11 +163,11 @@
 
 ### Database
 
-*   [TidesDB (⭐125)](https://github.com/tidesdb/tidesdb) - High-performance, durable, transactional embedded storage engine designed for flash and RAM optimization. \[MPL-2.0] [website](https://tidesdb.com/)
+*   [TidesDB (⭐168)](https://github.com/tidesdb/tidesdb) - High-performance, durable, transactional embedded storage engine designed for flash and RAM optimization. \[MPL-2.0] [website](https://tidesdb.com/)
 
 ### Scripting
 
-*   [JerryScript (⭐7k)](https://github.com/jerryscript-project/jerryscript) - Ultra-lightweight JavaScript engine for the Internet of Things. \[Apache-2.0] [website](https://jerryscript.net/)
+*   [JerryScript (⭐7.1k)](https://github.com/jerryscript-project/jerryscript) - Ultra-lightweight JavaScript engine for the Internet of Things. \[Apache-2.0] [website](https://jerryscript.net/)
 
 ## [15. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
@@ -193,58 +193,23 @@
 
 ## [18. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
-### Other Awesome Lists / Book Deals (Affiliated) 🛍
+### Other Awesome Lists / Book Deals (Affiliated)
 
 *   [Top 100+ Machine Learning Interview Questions (Beginner to Advanced)](https://www.appliedaicourse.com/blog/machine-learning-interview-questions/)
 
 ## [19. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
-### Projects / API Management
-
-*   [Gravitee.io API Management (⭐207) (⭐207)](https://github.com/gravitee-io/gravitee-api-management) - A flexible, lightweight, and open-source API management solution that provides comprehensive API management capabilities and helps you manage your APIs with ease.
-*   [WSO2 API Manager (⭐863) (⭐863)](https://github.com/wso2/product-apim) - A fully open-source API management platform that provides comprehensive API management capabilities and allows you to manage APIs with ease.
-
-### Projects / API Design
-
-*   [OpenAPI Diff (⭐844) (⭐844)](https://github.com/OpenAPITools/openapi-diff) - Compare OpenAPI specs with version control and visualize the differences in HTML or Markdown format.
-*   [OpenAPI Style Validator (⭐214) (⭐214)](https://github.com/OpenAPITools/openapi-style-validator) - Ensure that your OpenAPI specs meet your organization's standards with this flexible and customizable style validator.
-
-### Projects / API Documentation
-
-*   [Zudoku (⭐108) (⭐106)](https://github.com/zuplo/zudoku) - An open-source, OpenAPI powered, highly customizable API documentation framework for building quality developer experiences.
-
-### Projects / API Gateway
-
-*   [Gloo Edge (⭐17) (⭐17)](https://github.com/solo-io/gloo) - An Envoy Proxy-based API Gateway that provides advanced traffic management, security, and observability features for modern microservices architectures.
-
 ### Projects / BRE
 
 *   [Drools (⭐5.9k) (⭐5.9k)](https://github.com/apache/incubator-kie-drools) - Open-source tool that supports Decision Model and Notation (DMN) models at Conformance level 3 with an Eclipse IDE plugin for core development.
-*   [OpenL Tablets (⭐161) (⭐161)](https://github.com/openl-tablets/openl-tablets) - Open-source business rules engine (BRE, BRMS) and decision management system that allows users to define, manage, and execute business rules and decision tables.
 
 ### Projects / Data Mapping Solution
 
 *   [AltasMap (⭐199) (⭐199)](https://github.com/atlasmap/atlasmap) - A web-based data mapping solution that simplifies integration between Java, XML, CSV, and JSON data sources. Its interactive user interface makes configuring integrations easy.
-*   [JSLT (⭐641) (⭐641)](https://github.com/schibsted/jslt) - A complete query and transformation language for JSON that is inspired by jq, XPath, and XQuery. With JSLT, software engineers can quickly and easily transform JSON data to meet their needs.
-
-### Projects / ESB
-
-*   [WSO2 Enterprise Integrator (⭐376) (⭐376)](https://github.com/wso2/product-ei) - An API-centric, cloud-native, and distributed integration platform designed to provide a robust solution for software engineers.
-
-### Projects / Integration Frameworks
-
-*   [Frank!Framework (⭐131) (⭐131)](https://github.com/frankframework/frankframework) - A Low-Code Java-based messaging framework to connect your system and application data, that is completely configurable through XML configurations.
-
-### Projects / Messaging
-
-*   [Centrifugo (⭐8.5k) (⭐8.5k)](https://github.com/centrifugal/centrifugo) - An open-source, scalable real-time messaging server that allows you to build interactive applications where events are delivered to online users with minimal delay.
-*   [Eclipse Mosquitto (⭐9.2k) (⭐9.2k)](https://github.com/eclipse/mosquitto) - A lightweight open-source message broker that implements the MQTT protocol. Designed for low-power devices and supports message encryption and authentication.
 
 ### Resources / Data Formats
 
-*   [NDJSON (⭐690) (⭐690)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
 *   [Protocol Buffers (⭐66k) (⭐66k)](https://github.com/protocolbuffers/protobuf) - A language-neutral and platform-neutral serialization mechanism that is designed to be highly efficient and extensible. It supports rich data types and is widely used in distributed systems, such as gRPC and Apache Kafka.
-*   [YAML (⭐353) (⭐353)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
 ## [20. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
@@ -274,7 +239,7 @@
 
 ### Caches
 
-*   [sturdyc (⭐349)](https://github.com/viccon/sturdyc) - A caching library with advanced concurrency features designed to make I/O heavy applications robust and highly performant.
+*   [sturdyc (⭐613)](https://github.com/viccon/sturdyc) - A caching library with advanced concurrency features designed to make I/O heavy applications robust and highly performant.
 
 ### Distributed Systems
 
@@ -304,7 +269,7 @@
 
 ### Other Tools / Steam
 
-*   [Cyberbro (⭐51)](https://github.com/stanfrbd/cyberbro) - A self-hosted application, available as a Dockerized, for effortless searching and reputation checking of observables. Extracts IoCs from raw input and check their reputation using multiple services.
+*   [Cyberbro (⭐193)](https://github.com/stanfrbd/cyberbro) - A self-hosted application, available as a Dockerized, for effortless searching and reputation checking of observables. Extracts IoCs from raw input and check their reputation using multiple services.
 *   [CyberGordon](https://cybergordon.com) - CyberGordon is a threat intelligence search engine. It leverages 30+ sources.
 
 ## [27. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/week/README.md)
@@ -318,59 +283,55 @@
 
 ### Applications / Operating systems
 
-*   [vinc/moros (⭐928)](https://github.com/vinc/moros) - A text-based hobby operating system targeting computers with a x86-64 architecture and a BIOS.
+*   [vinc/moros (⭐935)](https://github.com/vinc/moros) - A text-based hobby operating system targeting computers with a x86-64 architecture and a BIOS.
 
 ### Libraries / Macro
 
-*   [elastio/bon (⭐1.4k)](https://github.com/elastio/bon) \[[bon](https://crates.io/crates/bon)] - generate compile-time-checked builders for structs and functions, provides partial application, optional and named parameters for functions and methods. [![build status](https://github.com/elastio/bon/actions/workflows/ci.yml/badge.svg)](https://github.com/elastio/bon/actions)
+*   [elastio/bon (⭐1.5k)](https://github.com/elastio/bon) \[[bon](https://crates.io/crates/bon)] - generate compile-time-checked builders for structs and functions, provides partial application, optional and named parameters for functions and methods. [![build status](https://github.com/elastio/bon/actions/workflows/ci.yml/badge.svg)](https://github.com/elastio/bon/actions)
 
 ### Libraries / Template engine
 
 *   HTML
-    *   [kaj/ructe (⭐454)](https://github.com/kaj/ructe) - HTML template system
-    *   [Keats/tera (⭐3.6k)](https://github.com/Keats/tera) - template engine based on Jinja2 and the Django template language. [![Actions Status](https://github.com/Keats/tera/workflows/ci/badge.svg?branch=master)](https://github.com/Keats/tera/actions)
+    *   [kaj/ructe (⭐455)](https://github.com/kaj/ructe) - HTML template system
+    *   [Keats/tera (⭐3.7k)](https://github.com/Keats/tera) - template engine based on Jinja2 and the Django template language. [![Actions Status](https://github.com/Keats/tera/workflows/ci/badge.svg?branch=master)](https://github.com/Keats/tera/actions)
     *   [lambda-fairy/maud (⭐2.2k)](https://github.com/lambda-fairy/maud) - compile-time HTML templates
-    *   [rinja-rs/askama (⭐3.5k)](https://github.com/rinja-rs/askama) - template rendering engine based on Jinja
-    *   [Stebalien/horrorshow-rs (⭐326)](https://github.com/Stebalien/horrorshow-rs) - compile-time HTML templates
+    *   [rinja-rs/askama (⭐3.6k)](https://github.com/rinja-rs/askama) - template rendering engine based on Jinja
+    *   [Stebalien/horrorshow-rs (⭐327)](https://github.com/Stebalien/horrorshow-rs) - compile-time HTML templates
 
 ## [29. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Document Management - E-books
 
-*   [BookLogr (⭐196)](https://github.com/Mozzo1000/booklogr) - Web app designed to help you manage your personal book library with ease. ([Demo](https://demo.booklogr.app/)) `Apache-2.0` `Docker`
+*   [BookLogr (⭐258)](https://github.com/Mozzo1000/booklogr) - Web app designed to help you manage your personal book library with ease. ([Demo](https://demo.booklogr.app/)) `Apache-2.0` `Docker`
 
 ### Software / File Transfer - Peer-to-peer Filesharing
 
-*   [slskd (⭐1.1k)](https://github.com/slskd/slskd) `⚠` - A modern client-server application for the Soulseek file sharing network. `AGPL-3.0` `Docker/C#`
+*   [slskd (⭐1.3k)](https://github.com/slskd/slskd) `⚠` - A modern client-server application for the Soulseek file sharing network. `AGPL-3.0` `Docker/C#`
 
 ### Software / Games
 
 *   [Luanti](https://www.luanti.org/) - An open source voxel game engine (formerly Minetest). Play one of our many games, mod a game to your liking, make your own game, or play on a multiplayer server. ([Source Code (⭐11k)](https://github.com/minetest/minetest)) `LGPL-2.1/MIT/Zlib` `C++/Lua/deb`
-*   [Scribble.rs (⭐471)](https://github.com/scribble-rs/scribble.rs) - A web-based pictionary game. ([Demo](https://scribblers.fly.dev)) `BSD-3-Clause` `Go/Docker`
+*   [Scribble.rs (⭐484)](https://github.com/scribble-rs/scribble.rs) - A web-based pictionary game. ([Demo](https://scribblers.fly.dev)) `BSD-3-Clause` `Go/Docker`
 
 ### Software / Miscellaneous
 
-*   [iSponsorBlockTV (⭐2.6k)](https://github.com/dmunozv04/iSponsorBlockTV) `⚠` - SponsorBlock for YouTube TV, allows skipping sponsors, muting and skipping ads. `GPL-3.0` `Docker/Python`
-
-### Software / Pastebins
-
-*   [not-th.re](https://not-th.re) - Simple paste sharing platform, with client side encryption, featuring the monaco browser-based code editor. ([Demo](https://not-th.re), [Source Code (⭐2)](https://github.com/not-three/main)) `NPOSL-3.0` `Nodejs/Docker`
+*   [iSponsorBlockTV (⭐2.7k)](https://github.com/dmunozv04/iSponsorBlockTV) `⚠` - SponsorBlock for YouTube TV, allows skipping sponsors, muting and skipping ads. `GPL-3.0` `Docker/Python`
 
 ### Software / Recipe Management
 
-*   [What To Cook? (⭐6)](https://github.com/kassner/whattocook) - Get a recipe to cook today, based on the ingredients you have at home. `AGPL-3.0` `Docker`
+*   [What To Cook? (⭐15)](https://github.com/kassner/whattocook) - Get a recipe to cook today, based on the ingredients you have at home. `AGPL-3.0` `Docker`
 
 ### Software / Remote Access
 
-*   [Engity's Bifröst](https://bifroest.engity.org/) - Highly customizable SSH server with several ways to authorize a user and options where and how to execute a user's session. ([Source Code (⭐19)](https://github.com/engity-com/bifroest)) `Apache-2.0` `Go/Docker`
+*   [Engity's Bifröst](https://bifroest.engity.org/) - Highly customizable SSH server with several ways to authorize a user and options where and how to execute a user's session. ([Source Code (⭐30)](https://github.com/engity-com/bifroest)) `Apache-2.0` `Go/Docker`
 
 ### Software / Task Management & To-do Lists
 
-*   [Donetick](https://donetick.com) - Task and chore management tool for personal and family use, with advanced scheduling, flexible assignment, and group sharing capabilities, detailed history, automation via API, simple and modern design. ([Demo](https://app.donetick.com/), [Source Code (⭐197)](https://github.com/donetick/donetick)) `AGPL-3.0` `Go/Docker`
+*   [Donetick](https://donetick.com) - Task and chore management tool for personal and family use, with advanced scheduling, flexible assignment, and group sharing capabilities, detailed history, automation via API, simple and modern design. ([Demo](https://app.donetick.com/), [Source Code (⭐370)](https://github.com/donetick/donetick)) `AGPL-3.0` `Go/Docker`
 
 ### Software / Wikis
 
-*   [W](https://w.club1.fr) - Lightweight, mutli-user, flat-file-database Wiki engine. Create pages quickly and edit them in your Web browser using Mardown/HTML/CSS/JS. The main difference with other wiki is that you are encouraged to customize each page style individually. ([Source Code (⭐22)](https://github.com/vincent-peugnet/wcms)) `AGPL-3.0` `PHP`
+*   [W](https://w.club1.fr) - Lightweight, mutli-user, flat-file-database Wiki engine. Create pages quickly and edit them in your Web browser using Mardown/HTML/CSS/JS. The main difference with other wiki is that you are encouraged to customize each page style individually. ([Source Code (⭐23)](https://github.com/vincent-peugnet/wcms)) `AGPL-3.0` `PHP`
 
 ## [30. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
@@ -402,7 +363,7 @@
 
 ## [32. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
 
-### Sensors / Barometer
+### Sensors / Barometer - Air and Water Pressure
 
 *   [MicroPython-BMPxxx (⭐1)](https://github.com/bradcar/MicroPython_BMPxxx) - Driver for BMP585, BMP581, BMP390, BMP280 Bosch temperature/pressure sensors.
 
@@ -471,13 +432,13 @@
 
 ### Framework Components
 
-*   [phoenix\_storybook (⭐726)](https://github.com/phenixdigital/phoenix_storybook) - A pluggable storybook for your Phoenix components.
+*   [phoenix\_storybook (⭐744)](https://github.com/phenixdigital/phoenix_storybook) - A pluggable storybook for your Phoenix components.
 
 ## [36. Awesome for Beginners](/content/MunGell/awesome-for-beginners/week/README.md)
 
 ### Kotlin
 
-*   [Scribe-Android (⭐41)](https://github.com/scribe-org/Scribe-Android) *(label: good first issue)* <br> Android keyboards for language learners with translation, verb conjugation and more!
+*   [Scribe-Android (⭐45)](https://github.com/scribe-org/Scribe-Android) *(label: good first issue)* <br> Android keyboards for language learners with translation, verb conjugation and more!
 
 ## [37. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
@@ -495,13 +456,13 @@
 
 ### Documentation tools / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [trakk.js (⭐2)](https://github.com/trakkjs/trakk-js) - Automatic Documentation Generation / Real-Time Code Execution Flow / Testing / Debugging / Onboarding for Front-End Applications.
+*   [trakk.js (⭐3)](https://github.com/trakkjs/trakk-js) - Automatic Documentation Generation / Real-Time Code Execution Flow / Testing / Debugging / Onboarding for Front-End Applications.
 
 ### Module Federation / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [@module-federation/core (⭐1.6k)](https://github.com/module-federation/core) - Module Federation is a concept that allows developers to share code and resources across multiple JavaScript applications.
-*   [webpack-module-federation-with-angular (⭐20)](https://github.com/edumserrano/webpack-module-federation-with-angular) - Guide to learn about Webpack Module Federation with several Angular code demos.
-*   [vite-module-federation-angular-test (⭐1)](https://github.com/Seifenn/vite-module-federation-angular-test) - This repository tests the [@module-federation/vite (⭐356)](https://github.com/module-federation/vite) with Angular and AnalogJS, based on the work done in [brandonroberts/angular-vite (⭐9)](https://github.com/brandonroberts/angular-vite). It also tests a host with AnalogJS to test SSR. But now the module federation plugin is not compatible with SSR.
+*   [@module-federation/core (⭐1.7k)](https://github.com/module-federation/core) - Module Federation is a concept that allows developers to share code and resources across multiple JavaScript applications.
+*   [webpack-module-federation-with-angular (⭐22)](https://github.com/edumserrano/webpack-module-federation-with-angular) - Guide to learn about Webpack Module Federation with several Angular code demos.
+*   [vite-module-federation-angular-test (⭐1)](https://github.com/Seifenn/vite-module-federation-angular-test) - This repository tests the [@module-federation/vite (⭐369)](https://github.com/module-federation/vite) with Angular and AnalogJS, based on the work done in [brandonroberts/angular-vite (⭐9)](https://github.com/brandonroberts/angular-vite). It also tests a host with AnalogJS to test SSR. But now the module federation plugin is not compatible with SSR.
 *   [angular-microfrontend-demo (⭐2)](https://github.com/gioboa/angular-microfrontend-demo) - Module Federation Vite + Angular is now possible.
 *   [mfe-crossframework (⭐1)](https://github.com/igorhms/mfe-crossframework) - Module Federation project with Angular Host, Cross-framework remotes and without Nx.
 *   [backbase-micro-frontends (⭐1)](https://github.com/Backbase/backbase-micro-frontends) - Proof of concept showcasing how legacy apps (widgets) can work together with newer apps (journeys) via Module Federation.
@@ -509,11 +470,11 @@
 ### Charts / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [sequential-workflow-designer (⭐1.1k)](https://github.com/nocode-js/sequential-workflow-designer) - Customizable no-code component for building flow-based programming applications or workflow automation. Zero external dependencies.
-*   [ngx-hierarchy (⭐1)](https://github.com/rushik1992/ngx-hierarchy) - Angular Component Module for Vertical or Horizontal Hierarchy/Tree View with flexible dynamic template design and controls.
+*   [ngx-hierarchy (⭐2)](https://github.com/rushik1992/ngx-hierarchy) - Angular Component Module for Vertical or Horizontal Hierarchy/Tree View with flexible dynamic template design and controls.
 
 ### Editor Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [formly-editor (⭐8)](https://github.com/sesan07/formly-editor) - A configurable editor for [ngx-formly (⭐2.8k)](https://github.com/ngx-formly/ngx-formly) forms.
+*   [formly-editor (⭐9)](https://github.com/sesan07/formly-editor) - A configurable editor for [ngx-formly (⭐2.8k)](https://github.com/ngx-formly/ngx-formly) forms.
 
 ### Layout Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -521,11 +482,11 @@
 
 ### Mixed utilities / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [nxt-components (⭐18)](https://github.com/Liquid-JS/nxt-components) - A collection of various Angular components.
+*   [nxt-components (⭐19)](https://github.com/Liquid-JS/nxt-components) - A collection of various Angular components.
 
 ### Misc Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ng-whiteboard (⭐51)](https://github.com/mostafazke/ng-whiteboard) - Lightweight Angular whiteboard component.
+*   [ng-whiteboard (⭐53)](https://github.com/mostafazke/ng-whiteboard) - Lightweight Angular whiteboard component.
 
 ## [38. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
@@ -535,4 +496,5 @@
 
 ---
 
+- Prev: [Dec 23 - Dec 29, 2024](/content/2024/52/README.md)
 - Next: [Dec 09 - Dec 15, 2024](/content/2024/50/README.md)

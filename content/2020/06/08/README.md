@@ -11,7 +11,7 @@
 ### Databases / ORMs
 
 *   [GINO (⭐2.7k)](https://github.com/python-gino/gino) - A lightweight asynchronous ORM built on top of SQLAlchemy core for Python asyncio.
-    *   [FastAPI Example (⭐413)](https://github.com/leosussan/fastapi-gino-arq-uvicorn)
+    *   [FastAPI Example (⭐428)](https://github.com/leosussan/fastapi-gino-arq-uvicorn)
 
 ## [2. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
@@ -57,7 +57,7 @@
 
 ### Table of Contents / Testing
 
-*   [Infection (⭐2k)](https://github.com/infection/infection) - An AST-based PHP Mutation testing framework.
+*   [Infection (⭐2.1k)](https://github.com/infection/infection) - An AST-based PHP Mutation testing framework.
 
 ### Configuration / PHP Internals Reading
 
@@ -67,18 +67,18 @@
 
 ### Keyboard / Barcode
 
-*   [KeyboardShortcuts (⭐1.9k)](https://github.com/sindresorhus/KeyboardShortcuts) - Add user-customizable global keyboard shortcuts to your macOS app. Includes a Cocoa and SwiftUI component.
+*   [KeyboardShortcuts (⭐2k)](https://github.com/sindresorhus/KeyboardShortcuts) - Add user-customizable global keyboard shortcuts to your macOS app. Includes a Cocoa and SwiftUI component.
 
 ## [10. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
 ### Plugins / Misc
 
-*   [Only-Error (⭐15)](https://github.com/davidjbradshaw/eslint-plugin-only-error) - Convert all rules to errors.
-*   [Only-Warn (⭐155)](https://github.com/bfanger/eslint-plugin-only-warn) - Convert all rules to warnings.
+*   [Only-Error (⭐16)](https://github.com/davidjbradshaw/eslint-plugin-only-error) - Convert all rules to errors.
+*   [Only-Warn (⭐161)](https://github.com/bfanger/eslint-plugin-only-warn) - Convert all rules to warnings.
 
 ### Plugins / Testing Tools
 
-*   [Testing Library (⭐971)](https://github.com/testing-library/eslint-plugin-testing-library) - Linting rules for Testing Library.
+*   [Testing Library (⭐989)](https://github.com/testing-library/eslint-plugin-testing-library) - Linting rules for Testing Library.
 
 ## [11. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
@@ -117,13 +117,13 @@
 
 ### Libraries and Tools / Python
 
-*   [Scapy (⭐9.8k)](https://github.com/secdev/scapy) - A python library to send, receive, edit raw packets. Supports CAN and automotive protocols: see the [automotive doc](https://scapy.readthedocs.io/en/latest/layers/automotive.html)
+*   [Scapy (⭐11k)](https://github.com/secdev/scapy) - A python library to send, receive, edit raw packets. Supports CAN and automotive protocols: see the [automotive doc](https://scapy.readthedocs.io/en/latest/layers/automotive.html)
 
 ## [16. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Layout
 
-*   [Grid (⭐1.7k)](https://github.com/exyte/Grid) - The most powerful Grid container missed in SwiftUI.
+*   [Grid (⭐1.8k)](https://github.com/exyte/Grid) - The most powerful Grid container missed in SwiftUI.
 
 ## [17. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 
@@ -135,13 +135,13 @@
 
 ### Official Documentation Translations
 
-*   [Crank (⭐50)](https://github.com/arktisklada/crank) - A Procfile-based application manager (like Foreman)
+*   [Crank (⭐51)](https://github.com/arktisklada/crank) - A Procfile-based application manager (like Foreman)
 
 ## [19. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/README.md)
 
 ### External Services
 
-*   [steam-box (⭐159)](https://github.com/YouEclipse/steam-box) - Update a pinned gist to contain your Steam playtime leaderboard.
+*   [steam-box (⭐167)](https://github.com/YouEclipse/steam-box) - Update a pinned gist to contain your Steam playtime leaderboard.
 
 ## [20. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
 
@@ -165,7 +165,6 @@
 
 ### Version Control
 
-*   [Tower](https://www.git-tower.com/students/github) \[DISCOUNT] -  The Git client that brings all of Git and GitHub's power to the desktop, for Mac and Windows. Free license for Tower Pro while you're a student.
 *   [GitKraken](https://www.gitkraken.com/github-student-developer-pack) \[FREE] - Pro version of the GitKraken Client. Sign into the desktop version after getting your [Github Student Developer Pack](https://education.github.com/pack).
 *   [Sentry](https://sentry.io/for/education/) \[FREE] - Open-source error tracking that helps developers monitor and fix crashes in real time. Also included via [Github Student Developer Pack](https://education.github.com/pack).
 *   [Working Copy](https://workingcopy.app/education/) \[FREE] - Powerful Git client for iOS that clones, edits, commits, pushes. All Pro features for free while you are a student via [Github Student Developer Pack](https://education.github.com/pack).
@@ -204,8 +203,6 @@
 ### Management Systems
 
 *   [PushBots](https://pushbots.com/for/education/) \[FREE] - The easiest way to engage your mobile & web app users via push notifications. Free Premium account for 6 months.
-*   [EverSQL](https://www.eversql.com/github-students/) \[FREE] - Boost your database performance by automatically optimizing your SQL queries.Free 6-month subscription to the Basic plan
-*   [Weglot](https://weglot.com/github-students/) \[FREE] - Make any website multilingual and manage your translations through a single platform.Free 1-year Pro Plan giving you access to unlimited languages + up to 200k translated words.
 
 ### Programming Help
 
@@ -219,7 +216,6 @@
 
 ### Security
 
-*   [Shodan](https://www.shodan.io/) \[FREE / CREDIT] - Free upgrade (normally 49$) to gain full access to everything shodan has to offer + 100 Export credits. Simply use your academic email address when you signup.
 *   [Cryptolens](https://app.cryptolens.io/user/githubstudent) \[FREE] - License and sell your software securely.10 licenses and any number of end-users for free for students.
 *   [Termius](https://termius.com/education) \[FREE] - SSH client that works on desktop and mobile. Termius securely syncs data across all your devices. Free access to the Premium plan while you're a student.
 *   [Astra](https://www.getastra.com/github-student-developer-pack) \[FREE] - Security suite for your website - firewall, malware scanner & managed bug bounty platform.6 month access to website firewall & malware scanner.
@@ -234,21 +230,15 @@
 
 *   [Tableau Desktop](https://www.tableau.com/academic/students) \[FREE] - One Year Professional License for Students.
 *   [Appfigures](https://appfigures.com/landing/github-student) \[FREE] - App Store analytics, optimization, and intelligence. Free access to the Grow plan for 1 year.
-*   [Simple Analytics](https://simpleanalytics.com/students) \[FREE] - Privacy-friendly analytics with a simple interface and API.Starter plan free for one year, including 100k page views per month.
 
 ### Password Managers
 
 *   [Dashlane](https://www.dashlane.com/students) \[FREE] - 1 year of free Dashlane Premium for Students, offer for new and existing users with eligible student emails ($3.33/month thereafter)
 *   [RoboForm](https://www.roboform.com/promotions/college) \[FREE] - Free for students and professors with a valid college or university email address for the first year ($12/year thereafter)
 
-### Infrastructure Monitoring
-
-*   [Netwise](https://www.netwise.co.uk/students/) \[FREE] - Turnkey data centre services for the hosting of critical IT infrastructure systems.Free single unit server colocation package free for 12 months.
-
 ### Software Packs
 
 *   [Intel Tools for Students](https://software.intel.com/en-us/qualify-for-free-software/student) \[FREE] - Free access to the select Intel® Software Development Products, including: Intel® XDK, Intel® Video Pro Analyzer, Intel® System Studio, Intel® Parallel Studio XE Composer Edition and Intel® Parallel Studio XE Cluster Edition (includes Fortran and C/C++).
-*   [IBM Student Developer Community](https://developer.ibm.com/students/) \[FREE] - Get easy access to the tools you need to develop the next great thing. Enjoy powerful technical and strategic resources from IBM.
 *   [Exploratory](https://exploratory.io/) \[FREE] - Exploratory’s Simple UI experience makes it possible for Anyone to use the latest and the most advanced innovation in Data Science to discover deep insights.Student Registration Available for pricing.
 
 ### Learning Resources
@@ -256,7 +246,6 @@
 *   [Frontend Masters](https://frontendmasters.com/welcome/github-student-developers/) \[FREE] - Advance your skills with in-depth JavaScript, Node.js & front-end engineering courses. Getting your career started in field of FullStack Development with this amazing course. Free 6-months access to all courses and workshops.
 *   [One Month](https://onemonth.com/github/students) \[FREE] - Learn HTML, CSS, JavaScript and Python in just 30 days!You will get Free 30-day One Month subscription.
 *   [SymfonyCasts](https://symfonycasts.com/github-student) \[FREE] - Master Symfony and PHP with video tutorials and code challenges. Free 3-month subscription for students.
-*   [next.tech](https://next.tech/github-students) \[FREE] - Learn tech skills and build software directly from your browser with real, online computing environments. Free access to all interactive courses and cloud computing environments for 12 months.
 *   [Educative](https://www.educative.io/github-students) \[FREE] - Level up on trending coding skills at your own pace with interactive, text-based courses. Get 6 free months of 60+ courses covering in-demand topics like Web Development, Python, Java, and Machine Learning.
 *   [Interview Cake](https://www.interviewcake.com/github-students) \[FREE] - Interview Cake makes coding interviews a piece of cake with practice questions, data structures and algorithms reference pages, cheat sheets, and more. Access to the full coding interview prep course for 3 weeks.
 *   [Adafruit](https://www.adafruit.com/github-students) \[FREE] - Adafruit is an open-source hardware and open-source educational electronics company based in NYC, USA.One year of Adafruit IO+ and discounts on selected hardware.
@@ -275,13 +264,13 @@
 
 ### Python / Visualization
 
-*   [D-Tale (⭐4.7k)](https://github.com/man-group/dtale) - Visualizer for pandas dataframes and xarray datasets.
+*   [D-Tale (⭐4.8k)](https://github.com/man-group/dtale) - Visualizer for pandas dataframes and xarray datasets.
 
 ## [23. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Projects
 
-*   [Yew Fullstack Boilerplate (⭐57)](https://github.com/lukidoescode/yew-fullstack-boilerplate) - Highly opinionated boilerplate for creating full stack applications with Rust.
+*   [Yew Fullstack Boilerplate (⭐58)](https://github.com/lukidoescode/yew-fullstack-boilerplate) - Highly opinionated boilerplate for creating full stack applications with Rust.
 
 ---
 

@@ -25,11 +25,11 @@
 ### Libraries / Computation
 
 *   Statrs
-    *   [statrs-dev/statrs (⭐557)](https://github.com/statrs-dev/statrs) - Robust statistical computation library
+    *   [statrs-dev/statrs (⭐632)](https://github.com/statrs-dev/statrs) - Robust statistical computation library
 
 ### Libraries / Cryptography
 
-*   [klutzy/suruga (⭐124)](https://github.com/klutzy/suruga) - Implementation of [TLS 1.2](https://datatracker.ietf.org/doc/html/rfc5246)
+*   [klutzy/suruga (⭐125)](https://github.com/klutzy/suruga) - Implementation of [TLS 1.2](https://datatracker.ietf.org/doc/html/rfc5246)
 
 ## [3. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
@@ -40,34 +40,34 @@
 ### Productivity / Note Taking and Lists
 
 *   [Terminal velocity](https://vhp.github.io/terminal_velocity/) - A fast note-taking app.
-*   [eureka (⭐732)](https://github.com/simeg/eureka) - Input and store your ideas.
+*   [eureka (⭐775)](https://github.com/simeg/eureka) - Input and store your ideas.
 
 ### Command Line Learning / Internet Speedtest
 
 *   [cmdchallenge](https://cmdchallenge.com) - Presents small shell challenge with user submitted solutions.
-*   [howdoi (⭐10k)](https://github.com/gleitz/howdoi) - Instant coding answers.
+*   [howdoi (⭐11k)](https://github.com/gleitz/howdoi) - Instant coding answers.
 *   [how2 (⭐5.7k)](https://github.com/santinic/how2) - Node.js implementation of howdoi.
-*   [teachcode (⭐374)](https://github.com/madlabsinc/teachcode) - Guide for the earliest lessons of coding.
+*   [teachcode (⭐387)](https://github.com/madlabsinc/teachcode) - Guide for the earliest lessons of coding.
 
 ## [4. Awesome Directus](/content/directus-community/awesome-directus/README.md)
 
 ### Resources / Official
 
 *   [Documentation](https://docs.directus.io/getting-started/introduction/)
-*   [GitHub Repository (⭐25k)](https://github.com/directus/directus)
+*   [GitHub Repository (⭐28k)](https://github.com/directus/directus)
 *   [Video Tutorials on YouTube](https://www.youtube.com/c/DirectusVideos/featured)
 
 ## [5. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
 
 ### Tools
 
-*   [Amazing GitHub Template (⭐490)](https://github.com/dec0dOS/amazing-github-template#readme) - Useful README.md, LICENSE, CONTRIBUTING.md, CODE\_OF\_CONDUCT.md, SECURITY.md, GitHub Issues, Pull Requests and Actions templates to jumpstart your projects.
+*   [Amazing GitHub Template (⭐562)](https://github.com/dec0dOS/amazing-github-template#readme) - Useful README.md, LICENSE, CONTRIBUTING.md, CODE\_OF\_CONDUCT.md, SECURITY.md, GitHub Issues, Pull Requests and Actions templates to jumpstart your projects.
 
 ## [6. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Table of Contents / Code Analysis
 
-*   [GrumPHP (⭐4.1k)](https://github.com/phpro/grumphp) - A PHP code-quality tool.
+*   [GrumPHP (⭐4.2k)](https://github.com/phpro/grumphp) - A PHP code-quality tool.
 
 ### Table of Contents / Search
 

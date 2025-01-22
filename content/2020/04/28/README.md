@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 28, 2020
 
-14 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -48,47 +48,41 @@
 
 *   Swiggy <https://bytes.swiggy.com/>
 
-## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / UI Components
-
-*   [vue-dynamic-marquee (⭐122)](https://github.com/YishaiBerg/vue-dynamic-marquee) - Marquee component, fully responsive to changes on the fly.
-
-## [7. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
+## [6. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
 ### QQ / 酷Q Plugin
 
-*   [ELF RSS (⭐538)](https://github.com/Quan666/ELF_RSS) <sup>[548](https://t.me/s/aboutrss/548)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Quan666/ELF_RSS)
+*   [ELF RSS (⭐580)](https://github.com/Quan666/ELF_RSS) <sup>[548](https://t.me/s/aboutrss/548)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Quan666/ELF_RSS)
 
 ### specifically from (*a certain platform*) / Twitter
 
 *   [TwitRSS](http://twitrss.me/) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/ciderpunx/twitrssme)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
-## [8. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [7. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Reliability
 
 *   [Finding a problem at the bottom of the Google stack](https://cloud.google.com/blog/products/management-tools/sre-keeps-digging-to-prevent-problems)
 
-## [9. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
+## [8. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
 ### In French
 
 *   [Le podcast AWS en français](https://aws.amazon.com/fr/blogs/france/podcasts/) - le podcast qui parle d’AWS en français.
 
-## [10. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
+## [9. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
 
 ### Fraud / Billing
 
 *   [Fraud in Telephony Networks](http://www.s3.eurecom.fr/docs/eurosp17_sahin.pdf) - Most of telephony frauds gravitates around billing and the metering of micro-transactions. This paper feature a taxonomy (on page 6) differentiating the root causes, vulnerabilities, exploitation techniques, and the way fraudsters can benefits from them.
 
-## [11. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [10. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### 2D/3D Rendering engines / Others
 
-*   [BlazorMonaco (⭐427)](https://github.com/serdarciplak/BlazorMonaco) - ![last commit](https://img.shields.io/github/last-commit/serdarciplak/BlazorMonaco?style=flat-square\&cacheSeconds=86400) Blazor component for Microsoft's [Monaco Editor (⭐39k)](https://github.com/Microsoft/monaco-editor) which powers Visual Studio Code. ([Demo](https://serdarciplak.github.io/BlazorMonaco/)).
+*   [BlazorMonaco (⭐471)](https://github.com/serdarciplak/BlazorMonaco) - ![last commit](https://img.shields.io/github/last-commit/serdarciplak/BlazorMonaco?style=flat-square\&cacheSeconds=86400) Blazor component for Microsoft's [Monaco Editor (⭐41k)](https://github.com/Microsoft/monaco-editor) which powers Visual Studio Code. ([Demo](https://serdarciplak.github.io/BlazorMonaco/)).
 
-## [12. Awesome Esolangs](/content/angrykoala/awesome-esolangs/README.md)
+## [11. Awesome Esolangs](/content/angrykoala/awesome-esolangs/README.md)
 
 ### Languages
 
@@ -99,17 +93,17 @@
 
 *   [Code Golf Stack Exchange](https://codegolf.stackexchange.com) - Golfing problems and answers.
 
-## [13. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
+## [12. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
 ### Tools / Testing Tools
 
 *   [es-file-traverse (⭐2)](https://github.com/brettz9/es-file-traverse) - Obtain a list of only those files which are in use based on imports and/or requires from an entry file or files; list passable to ESLint. Intended esp. for linting 3rd party dependencies.
 
-## [14. Public Apis](/content/public-apis/public-apis/README.md)
+## [13. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Video
 
-- API: [MCU Countdown (⭐196)](https://github.com/DiljotSG/MCU-Countdown)
+- API: [MCU Countdown (⭐201)](https://github.com/DiljotSG/MCU-Countdown)
 
   Description: A Countdown to the next MCU Film
 

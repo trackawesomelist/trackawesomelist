@@ -16,7 +16,7 @@
 
 ### Miscellaneous
 
-*   [Simple File Server (⭐83)](https://github.com/pitchpoint-solutions/sfs) - An OpenStack Swift compatible distributed object storage server that can serve and securely store billions of large and small files using minimal resources implemented using Vert.x.
+*   [Simple File Server (⭐84)](https://github.com/pitchpoint-solutions/sfs) - An OpenStack Swift compatible distributed object storage server that can serve and securely store billions of large and small files using minimal resources implemented using Vert.x.
 
 ## [3. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
@@ -26,7 +26,7 @@
 
 ### Build Tools
 
-*   [rebar3\_auto (⭐54)](https://github.com/vans163/rebar3_auto) - Rebar3 plugin to auto compile and reload on file change.
+*   [rebar3\_auto (⭐55)](https://github.com/vans163/rebar3_auto) - Rebar3 plugin to auto compile and reload on file change.
 
 ### HTTP
 
@@ -58,7 +58,7 @@
 
 ### API Builder and Discovery
 
-*   [JSONAPI::Utils (⭐216)](https://github.com/tiagopog/jsonapi-utils) - JSONAPI::Utils is built on top of JSONAPI::Resources taking advantage of its resource-driven style and bringing an easy way to build modern JSON APIs with no or less learning curve.
+*   [JSONAPI::Utils (⭐215)](https://github.com/tiagopog/jsonapi-utils) - JSONAPI::Utils is built on top of JSONAPI::Resources taking advantage of its resource-driven style and bringing an easy way to build modern JSON APIs with no or less learning curve.
 
 ## [6. Awesome Robotics](/content/kiloreux/awesome-robotics/README.md)
 
@@ -256,7 +256,7 @@
 ### Datetime
 
 *   [calendar](http://calendar.forge.ocamlcore.org/)
-*   [odate (⭐22)](https://github.com/hhugo/odate)
+*   [odate (⭐23)](https://github.com/hhugo/odate)
 *   [ptime](http://erratique.ch/software/ptime)
 
 ## [11. Awesome Android](/content/JStumpp/awesome-android/README.md)

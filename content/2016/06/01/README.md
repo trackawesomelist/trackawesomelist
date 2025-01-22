@@ -40,7 +40,7 @@
 
 ### Table of Contents / Data Structure and Storage
 
-*   [Knapsack (⭐535)](https://github.com/DusanKasan/Knapsack) - Collection library inspired by Clojure's sequences.
+*   [Knapsack (⭐536)](https://github.com/DusanKasan/Knapsack) - Collection library inspired by Clojure's sequences.
 
 ## [7. Awesome D3](/content/wbkd/awesome-d3/README.md)
 

@@ -16,13 +16,13 @@
 
 ### Frameworks / Runtimes
 
-*   [Vert.X Toolbox (⭐113)](https://github.com/vert-x3/vertx-microservices-toolbox) - A set of Vert.x components to build reactive microservice applications.
+*   [Vert.X Toolbox (⭐115)](https://github.com/vert-x3/vertx-microservices-toolbox) - A set of Vert.x components to build reactive microservice applications.
 
 ## [3. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Debug
 
-*   [doctest (⭐5.8k)](https://github.com/onqtam/doctest) - The lightest feature rich C++ single header testing framework. \[MIT]
+*   [doctest (⭐6.1k)](https://github.com/onqtam/doctest) - The lightest feature rich C++ single header testing framework. \[MIT]
 
 ## [4. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
 
@@ -136,13 +136,13 @@
 ### Development tools / Profiling
 
 *   FlameGraphs
-    *   [llogiq/flame (⭐690)](https://github.com/llogiq/flame) - An intrusive flamegraph profiling tool for rust
-    *   [mrhooray/torch (⭐131)](https://github.com/mrhooray/torch) - generates FlameGraphs based on DWARF Debug Info
+    *   [llogiq/flame (⭐709)](https://github.com/llogiq/flame) - An intrusive flamegraph profiling tool for rust
+    *   [mrhooray/torch (⭐132)](https://github.com/mrhooray/torch) - generates FlameGraphs based on DWARF Debug Info
 
 ### Libraries / Computation
 
 *   [BLAS](https://en.wikipedia.org/wiki/Basic_Linear_Algebra_Subprograms) \[[blas](https://crates.io/keywords/blas)]
-    *   [mikkyang/rust-blas (⭐83)](https://github.com/mikkyang/rust-blas) - BLAS bindings
+    *   [mikkyang/rust-blas (⭐84)](https://github.com/mikkyang/rust-blas) - BLAS bindings
 
 ## [11. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
@@ -177,12 +177,12 @@
 *   [CATS](http://jbaron.github.io/cats/) is an IDE for TypeScript and Web developers by @jbaron
 *   [TypeScript Sublime Plugin (⭐1.7k)](https://github.com/Microsoft/TypeScript-Sublime-Plugin) by @Microsoft
 *   [Atom TypeScript (⭐1.1k)](https://github.com/TypeStrong/atom-typescript) by @TypeStrong
-*   [TypeScript Interactive Development Environment for Emacs (⭐1.4k)](https://github.com/ananthakumaran/tide) by @ananthakumaran
+*   [TypeScript Interactive Development Environment for Emacs (⭐1.5k)](https://github.com/ananthakumaran/tide) by @ananthakumaran
 *   [TypeScript Syntax for VIM (⭐1.9k)](https://github.com/leafgarland/typescript-vim)
 
 ### Online / Playground
 
-*   [TypeScript playground-on-ace (⭐90)](https://github.com/hi104/typescript-playground-on-ace) by @hi104 [updated to TypeScript 1.5 (⭐56)](https://github.com/basarat/TypeScriptEditor)
+*   [TypeScript playground-on-ace (⭐91)](https://github.com/hi104/typescript-playground-on-ace) by @hi104 [updated to TypeScript 1.5 (⭐56)](https://github.com/basarat/TypeScriptEditor)
 *   [TypeScript official Playground](http://www.typescriptlang.org/Playground/)
 *   [JS Bin](http://jsbin.com/?js) (Select TypeScript)
 *   [Codepen](http://codepen.io/) (Select TypeScript)
@@ -190,10 +190,6 @@
 *   [TypeScript Editor](http://drake7707.github.io/Typescript-Editor/) by @drake7707
 
 ## [15. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
-
-### Reference resources
-
-*   [TransitWiki](http://transitwiki.org) community wiki for transit planners. Like this repo, but better.
 
 ### Community
 
@@ -306,13 +302,13 @@
 ### Tools / Monitoring
 
 *   [check\_mongodb (⭐15)](https://github.com/dalenys/check_mongodb) - Nagios plugin (in Bash)
-*   [nagios-plugin-mongodb (⭐347)](https://github.com/mzupan/nagios-plugin-mongodb) - Nagios plugin (in Python)
+*   [nagios-plugin-mongodb (⭐346)](https://github.com/mzupan/nagios-plugin-mongodb) - Nagios plugin (in Python)
 
 ## [18. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Configuration / Miscellaneous
 
-*   [noCAPTCHA (⭐358)](https://github.com/ARCANEDEV/noCAPTCHA) - Helper for Google's noCAPTCHA (reCAPTCHA).
+*   [noCAPTCHA (⭐361)](https://github.com/ARCANEDEV/noCAPTCHA) - Helper for Google's noCAPTCHA (reCAPTCHA).
 
 ## [19. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
@@ -370,7 +366,7 @@
 
 - ☆: ★★★
 
-  Name: [prakhar1989/awesome-courses#algorithms (⭐55k)](https://github.com/prakhar1989/awesome-courses#algorithms)
+  Name: [prakhar1989/awesome-courses#algorithms (⭐58k)](https://github.com/prakhar1989/awesome-courses#algorithms)
 
   Description: A fantastic list of open courses offered by notable institutions (MIT, Stanford, UC Berkeley ... etc.).
 
@@ -517,7 +513,7 @@
 
 - ☆: ★★☆
 
-  Name: [Coder's Calendar (⭐340)](https://github.com/nishanthvijayan/CoderCalendar): [Android App](https://play.google.com/store/apps/details?id=com.corphots.coderscalendar), [Chrome Extension](https://chrome.google.com/webstore/detail/coders-calendar/bageaffklfkikjigoclfgengklfnidll), [Firefox Add-on](https://addons.mozilla.org/en-US/firefox/addon/coder-calendar/)
+  Name: [Coder's Calendar (⭐337)](https://github.com/nishanthvijayan/CoderCalendar): [Android App](https://play.google.com/store/apps/details?id=com.corphots.coderscalendar), [Chrome Extension](https://chrome.google.com/webstore/detail/coders-calendar/bageaffklfkikjigoclfgengklfnidll), [Firefox Add-on](https://addons.mozilla.org/en-US/firefox/addon/coder-calendar/)
 
   Description: 
 
@@ -845,7 +841,7 @@ The book pragmatically introduces both the quantitative finance concepts and the
 
 ### Hardware
 
-*   [nerves (⭐2.2k)](https://github.com/nerves-project/nerves) - Framework for building firmware for platforms like Raspberry Pi and BeagleBone Black.
+*   [nerves (⭐2.3k)](https://github.com/nerves-project/nerves) - Framework for building firmware for platforms like Raspberry Pi and BeagleBone Black.
 
 ### Images
 
@@ -883,20 +879,20 @@ The book pragmatically introduces both the quantitative finance concepts and the
 
 ### Other Awesome Lists
 
-*   [open-source-ios-apps (⭐41k)](https://github.com/dkhamsing/open-source-ios-apps) - A collaborative list of open-source iOS Apps.
+*   [open-source-ios-apps (⭐43k)](https://github.com/dkhamsing/open-source-ios-apps) - A collaborative list of open-source iOS Apps.
 
 ### API
 
-*   [PXGoogleDirections (⭐269)](https://github.com/poulpix/PXGoogleDirections) - Google Directions API helper.
+*   [PXGoogleDirections (⭐268)](https://github.com/poulpix/PXGoogleDirections) - Google Directions API helper.
 *   [reddift (⭐242)](https://github.com/sonsongithub/reddift) - reddit API wrapper.
 
 ### Key Value Store
 
-*   [Storez (⭐67)](https://github.com/SwiftKitz/Storez) - Safe, statically-typed, store-agnostic key-value storage.
+*   [Storez (⭐68)](https://github.com/SwiftKitz/Storez) - Safe, statically-typed, store-agnostic key-value storage.
 
 ### Other Data
 
-*   [EVCloudKitDao (⭐643)](https://github.com/evermeer/EVCloudKitDao) - Simplified access to CloudKit with support for subscriptions and local caching.
+*   [EVCloudKitDao (⭐645)](https://github.com/evermeer/EVCloudKitDao) - Simplified access to CloudKit with support for subscriptions and local caching.
 
 ### Auto Layout / Barcode
 
@@ -904,7 +900,7 @@ The book pragmatically introduces both the quantitative finance concepts and the
 
 ### Logging / Barcode
 
-*   [WatchdogInspector (⭐516)](https://github.com/tapwork/WatchdogInspector) - A logging tool to show the current framerate (fps) in the status bar of your iOS app.
+*   [WatchdogInspector (⭐517)](https://github.com/tapwork/WatchdogInspector) - A logging tool to show the current framerate (fps) in the status bar of your iOS app.
 
 ### HTML / Barcode
 
@@ -913,10 +909,6 @@ The book pragmatically introduces both the quantitative finance concepts and the
 ### Menu / Barcode
 
 *   [MenuItemKit (⭐850)](https://github.com/cxa/MenuItemKit) - `UIMenuItem` with image and block (closure) support.
-
-### Utility / Barcode
-
-*   [SwiftTweaks (⭐1.4k)](https://github.com/khan/swifttweaks) - Tweak your iOS app without recompiling.
 
 ## [41. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
@@ -1045,7 +1037,7 @@ The book pragmatically introduces both the quantitative finance concepts and the
 
 ### Libraries
 
-*   [TensorFrames (⭐751)](https://github.com/tjhunter/tensorframes) - TensorFlow binding for Apache Spark
+*   [TensorFrames (⭐749)](https://github.com/tjhunter/tensorframes) - TensorFlow binding for Apache Spark
 
 ### Books
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 23 - Jan 29, 2023
 
-52 awesome lists updated this week.
+51 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,33 +16,27 @@
 
 ### Planning Coding Resources / Other
 
-*   [global-indicators (⭐78)](https://github.com/global-healthy-liveable-cities/global-indicators) - Case study projected dedicated to developing global healthy and sustainable city-indicators collaboration.
+*   [global-indicators (⭐1)](https://github.com/global-healthy-liveable-cities/global-indicators) - Case study projected dedicated to developing global healthy and sustainable city-indicators collaboration.
 
 ## [3. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
 
 ### AI
 
-*   [beehive.lua (⭐13)](https://github.com/drhayes/beehive.lua) - A functional behavior tree implementation.
+*   [beehive.lua (⭐16)](https://github.com/drhayes/beehive.lua) - A functional behavior tree implementation.
 
 ## [4. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Extensions
 
-*   [UseSIWE (⭐24)](https://github.com/random-bits-studio/use-siwe) - React hooks and Next.js API routes that make it super easy to add Sign-In with Ethereum to your app.
+*   [UseSIWE (⭐25)](https://github.com/random-bits-studio/use-siwe) - React hooks and Next.js API routes that make it super easy to add Sign-In with Ethereum to your app.
 
-## [5. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
-
-### Components & Libraries / UI Utilities
-
-*   [drie (⭐78)](https://github.com/janvorisek/drie) - A Vue 3 component library for three.js inspired by react-three-fiber.
-
-## [6. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/week/README.md)
+## [5. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/week/README.md)
 
 ### Analyzers - API / Meetups
 
 *   [RoboMiri](https://robomiri.com) - RoboMiri is a stable Uptime Monitor that offers a wide range of monitors: cronjob, keyword, website, port, ping. 25 uptime checks with 3 minutes interval checks for free. Alerts via Phone Call, SMS, Email, and WebHook.
 
-## [7. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
+## [6. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
 
 ### Learning Platforms:
 
@@ -50,11 +44,17 @@
 
 
 
-## [8. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [7. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Language / Diagnostics
 
-*   [niuiic/translate.nvim (⭐36)](https://github.com/niuiic/translate.nvim) - Invoke any translation engine via shell command.
+*   [niuiic/translate.nvim (⭐41)](https://github.com/niuiic/translate.nvim) - Invoke any translation engine via shell command.
+
+## [8. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/week/README.md)
+
+### Exploitation Tools / Unikernel-like
+
+*   [Lldb](https://lldb.llvm.org/) - LLDB is a next generation, high-performance debugger.
 
 ## [9. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
 
@@ -79,7 +79,7 @@
 
 ### Projects
 
-*   [hurlurl (⭐54)](https://github.com/lucasmerlin/hurlurl) - A randomizing link shortener, [Live Demo](https://hurlurl.com/).
+*   [hurlurl (⭐65)](https://github.com/lucasmerlin/hurlurl) - A randomizing link shortener, [Live Demo](https://hurlurl.com/).
 
 ### Crates / Component Libraries
 
@@ -112,7 +112,7 @@
 
 ### Contents / Media
 
-*   [TMDBM (⭐10)](https://github.com/88srzh/comics_db) - The Movie Database Mobile is a popular database for movies and TV shows by [srzh](https://github.com/88srzh)
+*   [TMDBM (⭐13)](https://github.com/88srzh/comics_db) - The Movie Database Mobile is a popular database for movies and TV shows by [srzh](https://github.com/88srzh)
 
 ## [15. Awesome Stacks](/content/stackshareio/awesome-stacks/week/README.md)
 
@@ -122,9 +122,9 @@
 
 ## [16. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
-### Plugins and scripts / Godot 3.2+
+### Plugins and scripts / Godot 3
 
-*   [Wwise (⭐271)](https://github.com/alessandrofama/wwise-godot-integration) - Wwise audio middleware integration.
+*   [Wwise (⭐307)](https://github.com/alessandrofama/wwise-godot-integration) - Wwise audio middleware integration.
 
 ## [17. Magictools](/content/ellisonleao/magictools/week/README.md)
 
@@ -134,7 +134,7 @@
 
 ### Engines and Frameworks / Voxel Editors
 
-*   :tada: [6502 Unit Test executor (⭐8)](https://github.com/AsaiYusuke/6502_test_executor) - A cross-platform unit testing tool for MOS 6502 assembly. (i.e. NES)
+*   :tada: [6502 Unit Test executor (⭐9)](https://github.com/AsaiYusuke/6502_test_executor) - A cross-platform unit testing tool for MOS 6502 assembly. (i.e. NES)
 
 ## [18. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
@@ -210,11 +210,7 @@
 
 ### Tools / Ironsworn
 
-*   [Ironsworn and Starforged for Foundry VTT (⭐66)](https://github.com/ben/foundry-ironsworn) - Ironsworn, Delve and Starforged for Foundry Virtual Tabletop
-
-### Hacks and homebrew / Ironsworn
-
-*   [Ironsworn: Reign](https://www.drivethrurpg.com/product/419256/Ironsworn-Reign) - Settlement mechanics for Ironsworn
+*   [Ironsworn and Starforged for Foundry VTT (⭐72)](https://github.com/ben/foundry-ironsworn) - Ironsworn, Delve and Starforged for Foundry Virtual Tabletop
 
 ## [26. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
@@ -251,11 +247,11 @@
 
 ### Artificial Intelligence
 
-*   [Beaver (⭐151)](https://github.com/beaver-lodge/beaver) - Beaver is a LLVM/MLIR Toolkit in Elixir and Zig.
+*   [Beaver (⭐177)](https://github.com/beaver-lodge/beaver) - Beaver is a LLVM/MLIR Toolkit in Elixir and Zig.
 
 ### Miscellaneous
 
-*   [exisbn (⭐1)](https://github.com/solar05/exisbn) - ISBN validation and formatting library.
+*   [exisbn (⭐2)](https://github.com/solar05/exisbn) - ISBN validation and formatting library.
 
 ### ORM and Datamapping
 
@@ -290,35 +286,31 @@
 
 ### Communications / OneWire
 
-*   [Official OneWire (⭐2.3k)](https://github.com/micropython/micropython-lib/tree/master/micropython/drivers/bus/onewire) - For devices using the OneWire bus, eg Dallas DS18x20.
+*   [Official OneWire (⭐2.5k)](https://github.com/micropython/micropython-lib/tree/master/micropython/drivers/bus/onewire) - For devices using the OneWire bus, eg Dallas DS18x20.
 
 ### Communications / Radio
 
-*   [Official nRF24L01 (⭐2.3k)](https://github.com/micropython/micropython-lib/tree/master/micropython/drivers/radio/nrf24l01) - Official driver for nRF24L01 2.4GHz radio modules.
+*   [Official nRF24L01 (⭐2.5k)](https://github.com/micropython/micropython-lib/tree/master/micropython/drivers/radio/nrf24l01) - Official driver for nRF24L01 2.4GHz radio modules.
 
 ### Display / E-Paper
 
-*   [Inkplate-micropython (⭐72)](https://github.com/SolderedElectronics/Inkplate-micropython) - MicroPython driver for Inkplate boards.
+*   [Inkplate-micropython (⭐77)](https://github.com/SolderedElectronics/Inkplate-micropython) - MicroPython driver for Inkplate boards.
 
 ### Display / LCD Graphic
 
-*   [Official LCD160CR (⭐2.3k)](https://github.com/micropython/micropython-lib/tree/master/micropython/drivers/display/lcd160cr) - Driver for official MicroPython LCD160CR display with resistive touch sensor.
-
-### Display / LEDs
-
-*   [Hybotics\_Micropython\_HT16K33 (⭐43)](https://github.com/hybotics/micropython-ht16k33) - MicroPython driver for the HT16K33, a LED matrix, 7-Segment Numeric, and 14-Segment Alphanumeric display driver IC.
+*   [Official LCD160CR (⭐2.5k)](https://github.com/micropython/micropython-lib/tree/master/micropython/drivers/display/lcd160cr) - Driver for official MicroPython LCD160CR display with resistive touch sensor.
 
 ### Display / OLED
 
-*   [Official SSD1306 (⭐2.3k)](https://github.com/micropython/micropython-lib/tree/master/micropython/drivers/display/ssd1306) - Driver for SSD1306 128x64 OLED displays.
+*   [Official SSD1306 (⭐2.5k)](https://github.com/micropython/micropython-lib/tree/master/micropython/drivers/display/ssd1306) - Driver for SSD1306 128x64 OLED displays.
 
 ### Mathematics / Waveform Generator
 
-*   [uMath (⭐18)](https://github.com/albaEDA/uMath) - Computer Algebra for microcontrollers.
+*   [uMath (⭐19)](https://github.com/albaEDA/uMath) - Computer Algebra for microcontrollers.
 
 ### Sensors / Temperature Digital
 
-*   [Official DHT11+DHT12 (⭐2.3k)](https://github.com/micropython/micropython-lib/tree/master/micropython/drivers/sensor/dht) - ESP8266 driver for DHT11 and DHT12 temperature and humidity sensor.
+*   [Official DHT11+DHT12 (⭐2.5k)](https://github.com/micropython/micropython-lib/tree/master/micropython/drivers/sensor/dht) - ESP8266 driver for DHT11 and DHT12 temperature and humidity sensor.
 
 ### Community / SRAM
 
@@ -332,16 +324,12 @@
 
 ### Resources / SRAM
 
-*   [MicroPython Wiki (⭐19k)](https://github.com/micropython/micropython/wiki) - Community generated documentation and examples of the features of MicroPython and the Pyboard.
+*   [MicroPython Wiki (⭐20k)](https://github.com/micropython/micropython/wiki) - Community generated documentation and examples of the features of MicroPython and the Pyboard.
 
 ### IDEs / SRAM
 
 *   [BIPES](https://bipes.net.br/ide/) - Web-based IDE for MicroPython with file manager, editor, code generation from blocks, IoT dashboard and Serial/USB/Bluetooth/WebREPL console on the web browser. Source: <https://github.com/BIPES>.
-*   [ESP32-MPY-Jama (⭐404)](https://github.com/jczic/ESP32-MPY-Jama) - Tool for managing Espressif ESP32 microcontrollers with MicroPython.
-
-### Logging / SRAM
-
-*   [micropython-ulogger (⭐34)](https://github.com/whales-chen/micropython-ulogger) - Lightweight log module customized for MicroPython.
+*   [ESP32-MPY-Jama (⭐442)](https://github.com/jczic/ESP32-MPY-Jama) - Tool for managing Espressif ESP32 microcontrollers with MicroPython.
 
 ### Shells / On Host
 
@@ -395,11 +383,11 @@
 
 ### Software / Communication - Custom Communication Systems
 
-*   [WBO (⭐2k)](https://github.com/lovasoa/whitebophir) - Web Whiteboard to collaborate in real-time on schemas, drawings, and notes. ([Demo](https://wbo.ophir.dev/)) `AGPL-3.0` `Nodejs/Docker`
+*   [WBO (⭐2.2k)](https://github.com/lovasoa/whitebophir) - Web Whiteboard to collaborate in real-time on schemas, drawings, and notes. ([Demo](https://wbo.ophir.dev/)) `AGPL-3.0` `Nodejs/Docker`
 
 ### Software / Communication - Social Networks and Forums
 
-*   [Isso](https://isso-comments.de/) - Lightweight commenting server written in Python and Javascript. It aims to be a drop-in replacement for Disqus. ([Source Code (⭐5k)](https://github.com/posativ/isso)) `MIT` `Python/Docker`
+*   [Isso](https://isso-comments.de/) - Lightweight commenting server written in Python and Javascript. It aims to be a drop-in replacement for Disqus. ([Source Code (⭐5.1k)](https://github.com/posativ/isso)) `MIT` `Python/Docker`
 
 ### Software / Communication - XMPP - Web Clients
 
@@ -407,21 +395,20 @@
 
 ### Software / Document Management
 
-*   [Paperless-ngx](https://docs.paperless-ngx.com/) - Scan, index, and archive all of your paper documents with an improved interface (fork of Paperless). ([Demo](https://demo.paperless-ngx.com/), [Source Code (⭐19k)](https://github.com/paperless-ngx/paperless-ngx)) `GPL-3.0` `Python/Docker`
+*   [Paperless-ngx](https://docs.paperless-ngx.com/) - Scan, index, and archive all of your paper documents with an improved interface (fork of Paperless). ([Demo](https://demo.paperless-ngx.com/), [Source Code (⭐24k)](https://github.com/paperless-ngx/paperless-ngx)) `GPL-3.0` `Python/Docker`
 
 ### Software / E-commerce
 
-*   [Magento Open Source (⭐11k)](https://github.com/magento/magento2) - Leading provider of open omnichannel innovation. `OSL-3.0` `PHP`
-*   [Open Source POS (⭐3.4k)](https://github.com/opensourcepos/opensourcepos) - Open Source Point of Sale is a web based point of sale system. `MIT` `PHP`
-*   [OXID eShop](https://oxidforge.org/en/) - OXID eShop is a flexible open source e-commerce software with a wide range of functionalities. ([Source Code (⭐236)](https://github.com/OXID-eSales/oxideshop_ce)) `GPL-3.0` `PHP`
+*   [Magento Open Source (⭐12k)](https://github.com/magento/magento2) - Leading provider of open omnichannel innovation. `OSL-3.0` `PHP`
+*   [Open Source POS (⭐3.5k)](https://github.com/opensourcepos/opensourcepos) - Open Source Point of Sale is a web based point of sale system. `MIT` `PHP`
 
 ### Software / Feed Readers
 
-*   [Kriss Feed (⭐281)](https://github.com/tontof/kriss_feed) - Simple and smart (or stupid) feed reader. `CC0-1.0` `PHP`
+*   [Kriss Feed (⭐282)](https://github.com/tontof/kriss_feed) - Simple and smart (or stupid) feed reader. `CC0-1.0` `PHP`
 
 ### Software / Software Development - API Management
 
-*   [Yaade](https://docs.yaade.io/) - Yaade is an open-source, self-hosted, collaborative API development environment. ([Source Code (⭐1.5k)](https://github.com/EsperoTech/yaade)) `MIT` `Docker`
+*   [Yaade](https://docs.yaade.io/) - Yaade is an open-source, self-hosted, collaborative API development environment. ([Source Code (⭐1.6k)](https://github.com/EsperoTech/yaade)) `MIT` `Docker`
 
 ### Software / Software Development - Project Management
 
@@ -429,7 +416,7 @@
 
 ### Software / Status / Uptime pages
 
-*   [cState](https://cstate.netlify.app/) - Static status page for hyperfast Hugo. Clean design, minimal JS, super light HTML/CSS, high customization, optional admin panel, read-only API, IE8+. Best used with Netlify, Docker. ([Demo](https://cstate.mnts.lt/), [Source Code (⭐2.5k)](https://github.com/cstate/cstate)) `MIT` `Go`
+*   [cState](https://cstate.netlify.app/) - Static status page for hyperfast Hugo. Clean design, minimal JS, super light HTML/CSS, high customization, optional admin panel, read-only API, IE8+. Best used with Netlify, Docker. ([Demo](https://cstate.mnts.lt/), [Source Code (⭐2.6k)](https://github.com/cstate/cstate)) `MIT` `Go`
 
 ### List of Licenses / Wikis
 
@@ -484,12 +471,12 @@
 
 ### Python / Computer Vision
 
-*   [timm (⭐31k)](https://github.com/rwightman/pytorch-image-models) - PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, EfficientNetV2, NFNet, Vision Transformer, MixNet, MobileNet-V3/V2, RegNet, DPN, CSPNet, and more.
+*   [timm (⭐33k)](https://github.com/rwightman/pytorch-image-models) - PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, EfficientNetV2, NFNet, Vision Transformer, MixNet, MobileNet-V3/V2, RegNet, DPN, CSPNet, and more.
 
 ### Python / General-Purpose Machine Learning
 
-*   [cleanlab (⭐9.2k)](https://github.com/cleanlab/cleanlab): The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.
-*   [AutoGluon (⭐7.5k)](https://github.com/awslabs/autogluon): AutoML for Image, Text, Tabular, Time-Series, and MultiModal Data.
+*   [cleanlab (⭐9.8k)](https://github.com/cleanlab/cleanlab): The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.
+*   [AutoGluon (⭐8.2k)](https://github.com/awslabs/autogluon): AutoML for Image, Text, Tabular, Time-Series, and MultiModal Data.
 
 ## [39. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
 
@@ -515,14 +502,14 @@
 
 ### Microservice / Text-Based User Interfaces
 
-*   [JDA (⭐4.2k)](https://github.com/DV8FromTheWorld/JDA) - Wrapping of the Discord REST API and its WebSocket events.
+*   [JDA (⭐4.3k)](https://github.com/DV8FromTheWorld/JDA) - Wrapping of the Discord REST API and its WebSocket events.
 *   [KeenType](https://github.com/DaveJarvis/KeenType) - Modernized version of a Java-based implementation of the New Typesetting System, which was heavily based on Donald E. Knuth's original TeX.
-*   [kubernetes-client (⭐3.3k)](https://github.com/fabric8io/kubernetes-client) - Client provides access to the full Kubernetes & OpenShift REST APIs via a fluent DSL.
-*   [OpenAI-Java (⭐4.7k)](https://github.com/TheoKanning/openai-java) - Java libraries for using OpenAI's GPT-3 API.
+*   [kubernetes-client (⭐3.4k)](https://github.com/fabric8io/kubernetes-client) - Client provides access to the full Kubernetes & OpenShift REST APIs via a fluent DSL.
+*   [OpenAI-Java (⭐4.8k)](https://github.com/TheoKanning/openai-java) - Java libraries for using OpenAI's GPT-3 API.
 
 ### Miscellaneous / Text-Based User Interfaces
 
-*   [AWS SDK for Java 2.0 (⭐2.1k)](https://github.com/aws/aws-sdk-java-v2) - Wrapper around AWS' API.
+*   [AWS SDK for Java 2.0 (⭐2.2k)](https://github.com/aws/aws-sdk-java-v2) - Wrapper around AWS' API.
 
 ### Science / Other
 
@@ -530,15 +517,15 @@
 
 ### Security / Other
 
-*   [DependencyCheck (⭐6.1k)](https://github.com/jeremylong/DependencyCheck) - Detects publicly disclosed vulnerabilities contained within a project's dependencies.
+*   [DependencyCheck (⭐6.4k)](https://github.com/jeremylong/DependencyCheck) - Detects publicly disclosed vulnerabilities contained within a project's dependencies.
 
 ### Testing / Miscellaneous
 
-*   [log-capture (⭐11)](https://github.com/dm-drogeriemarkt/log-capture) - Captures log entries and provides assertions for unit and integration testing.
+*   [log-capture (⭐12)](https://github.com/dm-drogeriemarkt/log-capture) - Captures log entries and provides assertions for unit and integration testing.
 
 ### Utility / Mocking
 
-*   [Chocotea (⭐38)](https://github.com/cleopatra27/chocotea) - Generates postman collection, environment and integration tests from java code.
+*   [Chocotea (⭐41)](https://github.com/cleopatra27/chocotea) - Generates postman collection, environment and integration tests from java code.
 
 ### Influential Books / Mocking
 
@@ -562,23 +549,23 @@
 ### Applications / Emulators
 
 *   PlayStation 4
-    *   [Obliteration (⭐610)](https://github.com/obhq/obliteration) - Experimental PS4 emulator for Windows, macOS and Linux [![CI](https://github.com/obhq/obliteration/actions/workflows/main.yml/badge.svg)](https://github.com/obhq/obliteration/actions/workflows/main.yml)
+    *   [Obliteration (⭐686)](https://github.com/obhq/obliteration) - Experimental PS4 emulator for Windows, macOS and Linux [![CI](https://github.com/obhq/obliteration/actions/workflows/main.yml/badge.svg)](https://github.com/obhq/obliteration/actions/workflows/main.yml)
 
 ### Applications / Video
 
-*   [vidmerger (⭐118)](https://github.com/TGotwig/vidmerger) - Merge video & audio files via CLI
+*   [vidmerger (⭐135)](https://github.com/TGotwig/vidmerger) - Merge video & audio files via CLI
 
 ### Libraries / Encoding
 
 *   rkyv
-    *   [rkyv/rkyv (⭐2.7k)](https://github.com/rkyv/rkyv) \[[rkyv](https://crates.io/crates/rkyv)] - rkyv (archive) is a zero-copy deserialization framework
+    *   [rkyv/rkyv (⭐3.1k)](https://github.com/rkyv/rkyv) \[[rkyv](https://crates.io/crates/rkyv)] - rkyv (archive) is a zero-copy deserialization framework
 *   TOML
-    *   [tamasfe/taplo (⭐1.3k)](https://github.com/tamasfe/taplo) \[[taplo](https://crates.io/crates/taplo)] - A TOML toolkit [![CI](https://github.com/tamasfe/taplo/workflows/Continuous%20integration/badge.svg)](https://github.com/tamasfe/taplo/actions?query=workflow%3A%22Continuous+integration%22)
-    *   [toml-rs/toml (⭐673)](https://github.com/toml-rs/toml) - [![CI](https://github.com/toml-rs/toml/actions/workflows/ci.yml/badge.svg)](https://github.com/toml-rs/toml/actions/workflows/ci.yml)
+    *   [tamasfe/taplo (⭐1.6k)](https://github.com/tamasfe/taplo) \[[taplo](https://crates.io/crates/taplo)] - A TOML toolkit [![CI](https://github.com/tamasfe/taplo/workflows/Continuous%20integration/badge.svg)](https://github.com/tamasfe/taplo/actions?query=workflow%3A%22Continuous+integration%22)
+    *   [toml-rs/toml (⭐756)](https://github.com/toml-rs/toml) - [![CI](https://github.com/toml-rs/toml/actions/workflows/ci.yml/badge.svg)](https://github.com/toml-rs/toml/actions/workflows/ci.yml)
 
 ### Libraries / Parsing
 
-*   [comex/rust-shlex (⭐97)](https://github.com/comex/rust-shlex) \[[shlex](https://crates.io/crates/shlex)] - Split a string into shell words, like Python's shlex. [![build badge](https://github.com/comex/rust-shlex/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/comex/rust-shlex/actions/workflows/test.yml)
+*   [comex/rust-shlex (⭐104)](https://github.com/comex/rust-shlex) \[[shlex](https://crates.io/crates/shlex)] - Split a string into shell words, like Python's shlex. [![build badge](https://github.com/comex/rust-shlex/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/comex/rust-shlex/actions/workflows/test.yml)
 
 ## [44. Awesome Capacitor](/content/riderx/awesome-capacitor/week/README.md)
 
@@ -589,18 +576,18 @@
 ### Cordova plugins / Incompatible
 
 *   [`cordova-plugin-add-swift-support`](https://github.com/akofman/cordova-plugin-add-swift-support) (not needed, Capacitor has built in Swift support)
-*   [`cordova-plugin-admobpro`](https://github.com/floatinghotpot/cordova-admob-pro) ([see details (⭐12k)](https://github.com/ionic-team/capacitor/issues/1101))
-*   [`cordova-plugin-braintree`](https://github.com/Taracque/cordova-plugin-braintree) ([see details (⭐12k)](https://github.com/ionic-team/capacitor/issues/1415))
-*   [`cordova-plugin-code-push`](https://github.com/microsoft/code-push) ([see details (⭐4.3k)](https://github.com/microsoft/code-push/issues/615))
+*   [`cordova-plugin-admobpro`](https://github.com/floatinghotpot/cordova-admob-pro) ([see details (⭐13k)](https://github.com/ionic-team/capacitor/issues/1101))
+*   [`cordova-plugin-braintree`](https://github.com/Taracque/cordova-plugin-braintree) ([see details (⭐13k)](https://github.com/ionic-team/capacitor/issues/1415))
+*   [`cordova-plugin-code-push`](https://github.com/microsoft/code-push) ([see details (⭐4.4k)](https://github.com/microsoft/code-push/issues/615))
 *   [`cordova-plugin-compat`](https://github.com/apache/cordova-plugin-compat) (not needed)
 *   [`cordova-plugin-console`](https://github.com/apache/cordova-plugin-console) (not needed, Capacitor has its own)
 *   [`cordova-plugin-crosswalk-webview`](https://github.com/crosswalk-project/cordova-plugin-crosswalk-webview) (Capacitor doesn't allow to change the webview)
-*   [`cordova-plugin-fcm`](https://github.com/fechanique/cordova-plugin-fcm) ([see details (⭐12k)](https://github.com/ionic-team/capacitor/issues/584))
-*   [`cordova-plugin-firebase`](https://github.com/arnesson/cordova-plugin-firebase) ([see details (⭐12k)](https://github.com/ionic-team/capacitor/issues/815))
+*   [`cordova-plugin-fcm`](https://github.com/fechanique/cordova-plugin-fcm) ([see details (⭐13k)](https://github.com/ionic-team/capacitor/issues/584))
+*   [`cordova-plugin-firebase`](https://github.com/arnesson/cordova-plugin-firebase) ([see details (⭐13k)](https://github.com/ionic-team/capacitor/issues/815))
 *   [`cordova-plugin-ionic-keyboard`](https://github.com/ionic-team/cordova-plugin-ionic-keyboard) (not needed, Capacitor has it's own)
 *   [`cordova-plugin-ionic-webview`](https://github.com/ionic-team/cordova-plugin-ionic-webview) (not needed, Capacitor uses WKWebView)
 *   [`cordova-plugin-music-controls`](https://github.com/homerours/cordova-music-controls-plugin) (causes build failures, skipped)
-*   [`cordova-plugin-qrscanner`](https://github.com/bitpay/cordova-plugin-qrscanner) ([see details (⭐12k)](https://github.com/ionic-team/capacitor/issues/1213))
+*   [`cordova-plugin-qrscanner`](https://github.com/bitpay/cordova-plugin-qrscanner) ([see details (⭐13k)](https://github.com/ionic-team/capacitor/issues/1213))
 *   [`cordova-plugin-splashscreen`](https://github.com/apache/cordova-plugin-splashscreen) (not needed, Capacitor has its own)
 *   [`cordova-plugin-statusbar`](https://github.com/apache/cordova-plugin-statusbar) (not needed, Capacitor has its own)
 *   [`cordova-plugin-wkwebview-engine`](https://github.com/apache/cordova-plugin-wkwebview-engine) (not needed, Capacitor uses WKWebView)
@@ -627,12 +614,12 @@
 
 ### Templates
 
-*   [Blazor BFF Azure AD (⭐77)](https://github.com/damienbod/Blazor.BFF.AzureAD.Template) - ![stars](https://img.shields.io/github/stars/damienbod/Blazor.BFF.AzureAD.Template?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/damienbod/Blazor.BFF.AzureAD.Template?style=flat-square) - This template can be used to create a Blazor WASM application hosted in an ASP.NET Core Web app using Azure AD and Microsoft.Identity.Web to authenticate using the BFF security architecture. (server authentication) This removes the tokens form the browser and uses cookies with each HTTP request, response. The template also adds the required security headers as best it can for a Blazor application. [Read the Quick Start Guide here (⭐77)](https://github.com/damienbod/Blazor.BFF.AzureAD.Template/blob/main/README-NUGET.md/).
-*   [Blazor BFF Azure B2C (⭐62)](https://github.com/damienbod/Blazor.BFF.AzureB2C.Template) - ![stars](https://img.shields.io/github/stars/damienbod/Blazor.BFF.AzureB2C.Template?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/damienbod/Blazor.BFF.AzureAD.Template?style=flat-square) - This template can be used to create a Blazor WASM application hosted in an ASP.NET Core Web app using Azure B2C and Microsoft.Identity.Web to authenticate using the BFF security architecture. (server authentication) This removes the tokens form the browser and uses cookies with each HTTP request, response. The template also adds the required security headers as best it can for a Blazor application. [Read the Quick Start Guide here (⭐62)](https://github.com/damienbod/Blazor.BFF.AzureB2C.Template/blob/main/README-NUGET.md/).
+*   [Blazor BFF Azure AD (⭐83)](https://github.com/damienbod/Blazor.BFF.AzureAD.Template) - ![stars](https://img.shields.io/github/stars/damienbod/Blazor.BFF.AzureAD.Template?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/damienbod/Blazor.BFF.AzureAD.Template?style=flat-square) - This template can be used to create a Blazor WASM application hosted in an ASP.NET Core Web app using Azure AD and Microsoft.Identity.Web to authenticate using the BFF security architecture. (server authentication) This removes the tokens form the browser and uses cookies with each HTTP request, response. The template also adds the required security headers as best it can for a Blazor application. [Read the Quick Start Guide here (⭐83)](https://github.com/damienbod/Blazor.BFF.AzureAD.Template/blob/main/README-NUGET.md/).
+*   [Blazor BFF Azure B2C (⭐63)](https://github.com/damienbod/Blazor.BFF.AzureB2C.Template) - ![stars](https://img.shields.io/github/stars/damienbod/Blazor.BFF.AzureB2C.Template?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/damienbod/Blazor.BFF.AzureAD.Template?style=flat-square) - This template can be used to create a Blazor WASM application hosted in an ASP.NET Core Web app using Azure B2C and Microsoft.Identity.Web to authenticate using the BFF security architecture. (server authentication) This removes the tokens form the browser and uses cookies with each HTTP request, response. The template also adds the required security headers as best it can for a Blazor application. [Read the Quick Start Guide here (⭐63)](https://github.com/damienbod/Blazor.BFF.AzureB2C.Template/blob/main/README-NUGET.md/).
 
 ### 2D/3D Rendering engines / Database
 
-*   [DexieNET (⭐42)](https://github.com/b-straub/DexieNET) - ![GitHub stars](https://img.shields.io/github/stars/b-straub/DexieNET?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/b-straub/DexieNET?style=flat-square\&cacheSeconds=86400) DexieNET aims to be a feature complete .NET wrapper for Dexie.js the famous Javascript IndexedDB wrapper from David Fahlander. It's designed for Blazor and includes an easy to use Razor component. Now with support for DexieCloud in preview.
+*   [DexieNET (⭐44)](https://github.com/b-straub/DexieNET) - ![GitHub stars](https://img.shields.io/github/stars/b-straub/DexieNET?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/b-straub/DexieNET?style=flat-square\&cacheSeconds=86400) DexieNET aims to be a feature complete .NET wrapper for Dexie.js the famous Javascript IndexedDB wrapper from David Fahlander. It's designed for Blazor and includes an easy to use Razor component. Now with support for DexieCloud in preview.
 
 ### Videos / Others
 
@@ -647,7 +634,7 @@
 
 ### Node.js / Community
 
-*   [vite-express (⭐581)](https://github.com/szymmis/vite-express) - Integration for Express web apps.
+*   [vite-express (⭐696)](https://github.com/szymmis/vite-express) - Integration for Express web apps.
 
 ## [49. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
 
@@ -656,28 +643,18 @@
 *   [Docker Certification](https://intellipaat.com/docker-training-course/?US) :heavy\_dollar\_sign: will help you to will Learn Docker containerization, running Docker containers, Image creation, Dockerfile, Docker orchestration, security best practices, and more through hands-on projects and case studies and helps to clear Docker Certified Associate.
 *   [Docker dev bookmarks](https://www.codever.dev/search?q=docker) - use the tag [docker](https://www.codever.dev/bookmarks/t/docker)
 
-## [50. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/week/README.md)
-
-### GPU
-
-*   [Gaming-HVM (⭐254)](https://github.com/Qubes-Community/Contents/blob/master/docs/customization/gaming-hvm.md) - HVM for gaming!
-
-### Exploitation Tools / Unikernel-like
-
-*   [Lldb](https://lldb.llvm.org/) - LLDB is a next generation, high-performance debugger.
-
-## [51. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [50. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [ez-cmd (⭐1)](https://github.com/akgarhwal/ez-cmd) - Simplifies and streamlines common command-line tasks by providing easy-to-use shortcuts and aliases.
-*   [multi-evalcache (⭐0)](https://github.com/rwwiv/multi-evalcache) - Cache multiple eval loads to improve startup time, inspired by [mroth/evalcache (⭐186)](https://github.com/mroth/evalcache).
+*   [multi-evalcache (⭐0)](https://github.com/rwwiv/multi-evalcache) - Cache multiple eval loads to improve startup time, inspired by [mroth/evalcache (⭐205)](https://github.com/mroth/evalcache).
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [zcmder (⭐1)](https://github.com/bwpge/zcmder) - inspired by [Cmder](https://cmder.app/) with decorators for `git` information, current directory and root status.
 
-## [52. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
+## [51. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
 
 ### Libraries / New Libraries
 

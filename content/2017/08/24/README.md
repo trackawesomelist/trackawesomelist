@@ -26,7 +26,7 @@
 
 ### AI
 
-*   [CoreML-Models (⭐6.3k)](https://github.com/likedan/Awesome-CoreML-Models) - A collection of unique Core ML Models.
+*   [CoreML-Models (⭐6.5k)](https://github.com/likedan/Awesome-CoreML-Models) - A collection of unique Core ML Models.
 
 ### UITableView / Barcode
 
@@ -48,11 +48,11 @@
 
 ### Angular / Themes
 
-*   [NG-ZORRO (⭐8.6k)](https://github.com/NG-ZORRO/ng-zorro-antd) - Ant Design of Angular.
+*   [NG-ZORRO (⭐8.9k)](https://github.com/NG-ZORRO/ng-zorro-antd) - Ant Design of Angular.
 
 ### Components / Themes
 
-*   [antd-data-table (⭐125)](https://github.com/NewbeeFE/antd-data-table) - A component that combines antd's Table and Form to do the search, display, and operating jobs for data.
+*   [antd-data-table (⭐126)](https://github.com/NewbeeFE/antd-data-table) - A component that combines antd's Table and Form to do the search, display, and operating jobs for data.
 
 ## [6. Awesome Mastodon](/content/tleb/awesome-mastodon/README.md)
 

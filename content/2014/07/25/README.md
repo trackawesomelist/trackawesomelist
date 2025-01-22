@@ -10,7 +10,7 @@
 
 ### Packages / Text
 
-*   [detect-indent (⭐195)](https://github.com/sindresorhus/detect-indent) - Detect the indentation of code.
+*   [detect-indent (⭐196)](https://github.com/sindresorhus/detect-indent) - Detect the indentation of code.
 
 ## [2. Awesome Selenium](/content/christian-bromann/awesome-selenium/README.md)
 
@@ -31,13 +31,13 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [SKLL (⭐551)](https://github.com/EducationalTestingService/skll) - A wrapper around scikit-learn that makes it simpler to conduct experiments.
+*   [SKLL (⭐552)](https://github.com/EducationalTestingService/skll) - A wrapper around scikit-learn that makes it simpler to conduct experiments.
 
 ## [4. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Package Managers
 
-*   [spm (⭐904)](https://github.com/spmjs/spm) - Brand new static package manager.
+*   [spm (⭐902)](https://github.com/spmjs/spm) - Brand new static package manager.
 
 ### Editors / Runner
 
@@ -45,13 +45,13 @@
 
 ### Control Flow / Runner
 
-*   [contra (⭐773)](https://github.com/bevacqua/contra/) - Asynchronous flow control with a functional taste to it.
+*   [contra (⭐774)](https://github.com/bevacqua/contra/) - Asynchronous flow control with a functional taste to it.
 
 ## [5. Awesome D](/content/dlang-community/awesome-d/README.md)
 
 ### Organizations
 
-*   [Circular Studios](https://github.com/Circular-Studios) - We are a group of game developers at Rochester Institute of Technology building games and game tech. Hosts [Dash (⭐419)](https://github.com/Circular-Studios/Dash), a 3D game engine written in D, and other related libs.
+*   [Circular Studios](https://github.com/Circular-Studios) - We are a group of game developers at Rochester Institute of Technology building games and game tech. Hosts [Dash (⭐422)](https://github.com/Circular-Studios/Dash), a 3D game engine written in D, and other related libs.
 
 ## [6. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
@@ -63,7 +63,7 @@
 
 ### Application Libraries
 
-*   [Batteries Included (⭐514)](https://github.com/ocaml-batteries-team/batteries-included) – A community-maintained foundation library for your OCaml projects.
+*   [Batteries Included (⭐519)](https://github.com/ocaml-batteries-team/batteries-included) – A community-maintained foundation library for your OCaml projects.
 
 ### Developer Tools
 
@@ -80,11 +80,11 @@
 
 ### Logging
 
-*   [dolog (⭐38)](https://github.com/UnixJunkie/dolog) – A dumb OCaml logger.
+*   [dolog (⭐37)](https://github.com/UnixJunkie/dolog) – A dumb OCaml logger.
 
 ### Testing
 
-*   [QCheck (⭐343)](https://github.com/c-cube/qcheck) — QCheck is a property testing library inspired from Haskell's QuickCheck
+*   [QCheck (⭐347)](https://github.com/c-cube/qcheck) — QCheck is a property testing library inspired from Haskell's QuickCheck
 
 ---
 

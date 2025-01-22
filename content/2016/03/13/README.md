@@ -16,14 +16,14 @@
 
 ### Libraries
 
-*   [fnuc (⭐15)](https://github.com/algesten/fnuc) – A functional library for CoffeeScript (and JavaScript) to facilitate functional composition and higher order functions.
+*   [fnuc (⭐16)](https://github.com/algesten/fnuc) – A functional library for CoffeeScript (and JavaScript) to facilitate functional composition and higher order functions.
 *   [curry (⭐85)](https://github.com/thisables/curry) – Curry your functions using function bind syntax.
-*   [compose-function (⭐57)](https://github.com/stoeffel/compose-function) – Compose a new function from smaller functions.
-*   [functionize (⭐50)](https://github.com/paldepind/functionize) – A collection of functions which aid in making non-functional libraries functional.
+*   [compose-function (⭐56)](https://github.com/stoeffel/compose-function) – Compose a new function from smaller functions.
+*   [functionize (⭐49)](https://github.com/paldepind/functionize) – A collection of functions which aid in making non-functional libraries functional.
 *   [lambdajs (⭐143)](https://github.com/loop-recur/lambdajs) – The full ECMAScript API done a functional way.
 *   [fp-dom](https://github.com/fp-dom/) – Making the DOM functional.
 *   [trifl (⭐36)](https://github.com/algesten/trifl) – A functional user interface library with unidirectional dataflow and a virtual dom.
-*   [funcy (⭐246)](https://github.com/bramstein/funcy) – An experiment in adding functional pattern matching to JavaScript. *Experimental*  :triangular\_flag\_on\_post:
+*   [funcy (⭐247)](https://github.com/bramstein/funcy) – An experiment in adding functional pattern matching to JavaScript. *Experimental*  :triangular\_flag\_on\_post:
 *   [\_part\_ (⭐41)](https://github.com/AutoSponge/_part_) – A micro library that encourages functional programming by making native methods available as partially applied functions.
 
 ### Libraries / Data Structures
@@ -33,17 +33,17 @@
 
 ### Libraries / Algebraic Data Types
 
-*   [daggy (⭐698)](https://github.com/puffnfresh/daggy) – Library for creating tagged constructors.
+*   [daggy (⭐701)](https://github.com/puffnfresh/daggy) – Library for creating tagged constructors.
 *   [fantasy-combinators (⭐66)](https://github.com/fantasyland/fantasy-combinators) – Common combinators.
-*   [fantasy-birds (⭐85)](https://github.com/fantasyland/fantasy-birds) – Port of the Haskell package Data.Aviary.Birds. Everything for your combinatory needs.
+*   [fantasy-birds (⭐91)](https://github.com/fantasyland/fantasy-birds) – Port of the Haskell package Data.Aviary.Birds. Everything for your combinatory needs.
 
 ### Libraries / Lenses
 
-*   [lenses (⭐212)](https://github.com/DrBoolean/lenses) – Composable [kmett (⭐2k)](https://github.com/ekmett/lens) style lenses.
-*   [optics (⭐86)](https://github.com/flunc/optics) – Profunctor optics (Lens, Prism, iso).
-*   [ramda-lens (⭐182)](https://github.com/ramda/ramda-lens) – :ram: :mag\_right: Lens library built on Ramda.
-*   [fantasy-lenses (⭐108)](https://github.com/fantasyland/fantasy-lenses) – Composable, immutable getters and setters. (Profunctor lenses WIP)
-*   [nanoscope (⭐176)](https://github.com/5outh/nanoscope) – Lenses with dotty support.
+*   [lenses (⭐214)](https://github.com/DrBoolean/lenses) – Composable [kmett (⭐2k)](https://github.com/ekmett/lens) style lenses.
+*   [optics (⭐87)](https://github.com/flunc/optics) – Profunctor optics (Lens, Prism, iso).
+*   [ramda-lens (⭐184)](https://github.com/ramda/ramda-lens) – :ram: :mag\_right: Lens library built on Ramda.
+*   [fantasy-lenses (⭐109)](https://github.com/fantasyland/fantasy-lenses) – Composable, immutable getters and setters. (Profunctor lenses WIP)
+*   [nanoscope (⭐177)](https://github.com/5outh/nanoscope) – Lenses with dotty support.
 
 ### Functional Languages that Compile to JavaScript / Lenses
 
@@ -59,7 +59,7 @@
 
 ### Resources / Articles
 
-*   [Functional Programming Jargon (⭐18k)](https://github.com/hemanth/functional-programming-jargon) – Jargon from the functional programming world explained in JavaScript.
+*   [Functional Programming Jargon (⭐19k)](https://github.com/hemanth/functional-programming-jargon) – Jargon from the functional programming world explained in JavaScript.
 
 ### Resources / Videos
 
@@ -74,7 +74,7 @@
 
 ### Community / Related Lists
 
-*   [Awesome FRP JS (⭐285)](https://github.com/stoeffel/awesome-frp-js) – A curated list of awesome (functional) reactive programming stuff in JavaScript.
+*   [Awesome FRP JS (⭐284)](https://github.com/stoeffel/awesome-frp-js) – A curated list of awesome (functional) reactive programming stuff in JavaScript.
 
 ## [3. Awesome Security](/content/sbilly/awesome-security/README.md)
 
@@ -92,7 +92,7 @@
 
 ### Email
 
-*   [gmail (⭐49)](https://github.com/craigp/elixir-gmail) - A simple Gmail REST API client for Elixir.
+*   [gmail (⭐51)](https://github.com/craigp/elixir-gmail) - A simple Gmail REST API client for Elixir.
 
 ### Logging
 

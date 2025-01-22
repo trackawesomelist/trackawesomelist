@@ -16,7 +16,7 @@
 
 ### Web Servers
 
-*   [Iodine (⭐901)](https://github.com/boazsegev/iodine) - An non-blocking HTTP and Websocket web server optimized for Linux/BDS/macOS and Ruby MRI.
+*   [Iodine (⭐914)](https://github.com/boazsegev/iodine) - An non-blocking HTTP and Websocket web server optimized for Linux/BDS/macOS and Ruby MRI.
 
 ## [3. Awesome Computer History](/content/watson/awesome-computer-history/README.md)
 
@@ -44,7 +44,7 @@
 
 ### Development Projects / Miscellaneous
 
-*   [Pokemon-Terminal (⭐4k)](https://github.com/LazoCoder/Pokemon-Terminal) - Pokémon terminal themes for iTerm2.
+*   [Pokemon-Terminal (⭐4.2k)](https://github.com/LazoCoder/Pokemon-Terminal) - Pokémon terminal themes for iTerm2.
 
 ## [7. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 

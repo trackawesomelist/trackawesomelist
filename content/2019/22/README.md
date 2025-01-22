@@ -34,7 +34,7 @@
 
 ### Development tools / Web Servers
 
-*   [Module Linker (⭐250)](https://github.com/fiatjaf/module-linker) - Extension that adds `<a>` links to references in `mod`, `use` and `extern crate` statements at GitHub.
+*   [Module Linker (⭐253)](https://github.com/fiatjaf/module-linker) - Extension that adds `<a>` links to references in `mod`, `use` and `extern crate` statements at GitHub.
 
 ## [4. Awesome Asyncio](/content/timofurrer/awesome-asyncio/week/README.md)
 
@@ -47,14 +47,14 @@
 
 ### Machine Learning Libraries / Frameworks
 
-*   [rumale (⭐714)](https://github.com/yoshoku/rumale) -
+*   [rumale (⭐788)](https://github.com/yoshoku/rumale) -
     Machine Learninig toolkit in Ruby with wide range of implemented algorithms
     (SVM, Logistic Regression, Linear Regression, Random Forest etc.) and
     interfaces similar to [Scikit-Learn](https://scikit-learn.org/stable/index.html) in Python.
 
 ### Machine Learning Libraries / Deep learning
 
-*   [tensorflow (⭐823)](https://github.com/somaticio/tensorflow.rb) - Ruby bindings for [TensorFlow](https://www.tensorflow.org/).
+*   [tensorflow (⭐829)](https://github.com/somaticio/tensorflow.rb) - Ruby bindings for [TensorFlow](https://www.tensorflow.org/).
 
 ### Related Resources / Vector search
 
@@ -73,7 +73,7 @@
 
 ### Development
 
-*   [Test database (⭐4k)](https://github.com/datacharmer/test_db) - A sample MySQL database with an integrated test suite, used to test applications and servers
+*   [Test database (⭐4.1k)](https://github.com/datacharmer/test_db) - A sample MySQL database with an integrated test suite, used to test applications and servers
 
 ## [8. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
 
@@ -159,14 +159,14 @@
 ### Basic linear algebra
 
 *   [OpenBLAS](https://www.openblas.net) - Optimized BLAS library based on GotoBLAS2.
-    (C and Assembly, BSD, [GitHub (⭐5.8k)](https://github.com/OpenMathLib/OpenBLAS))
-*   [BLIS (⭐2k)](https://github.com/flame/blis) - High-performance BLAS-like dense linear algebra libraries.
+    (C and Assembly, BSD, [GitHub (⭐6.4k)](https://github.com/OpenMathLib/OpenBLAS))
+*   [BLIS (⭐2.3k)](https://github.com/flame/blis) - High-performance BLAS-like dense linear algebra libraries.
     (C, BSD, GitHub)
 
 ### Finite Elements
 
 *   [MOOSE](https://mooseframework.inl.gov/) - Multiphysics Object Oriented Simulation Environment.
-    (C++, LGPL 2.1, [GitHub (⭐1.5k)](https://github.com/idaholab/moose))
+    (C++, LGPL 2.1, [GitHub (⭐1.8k)](https://github.com/idaholab/moose))
 
 ## [19. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
@@ -191,13 +191,13 @@
 
 ### GTFS Data Collection and Maintenance Tools / Ruby
 
-*   [static-GTFS-manager (⭐144)](https://github.com/WRI-Cities/static-GTFS-manager) - A (self-hosted) browser-based user interface for creating, editing, exporting static GTFS (see [related post](https://groups.google.com/forum/#!topic/transit-developers/GFz5rTJTB0I)).  Live demo [here](https://static-gtfs-manager.herokuapp.com/).
+*   [static-GTFS-manager (⭐147)](https://github.com/WRI-Cities/static-GTFS-manager) - A (self-hosted) browser-based user interface for creating, editing, exporting static GTFS (see [related post](https://groups.google.com/forum/#!topic/transit-developers/GFz5rTJTB0I)).
 
 ## [23. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
 ### Utility / Docker Container Actions
 
-*   [GitHub Actions for Python project with poetry (⭐261)](https://github.com/abatilo/actions-poetry)
+*   [GitHub Actions for Python project with poetry (⭐422)](https://github.com/abatilo/actions-poetry)
 
 ## [24. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
@@ -213,9 +213,13 @@
 
 ## [26. Awesome React](/content/enaqx/awesome-react/week/README.md)
 
+### React Internationalization
+
+*   [react-i18next (⭐9.3k)](https://github.com/i18next/react-i18next) - Internationalization for React done right
+
 ### React General Resources
 
-*   [React GitHub (⭐221k)](https://github.com/facebook/react)
+*   [React GitHub (⭐230k)](https://github.com/facebook/react)
 *   [Reactiflux Discord Channel](http://www.reactiflux.com/)
 
 ### React Tutorials
@@ -228,7 +232,7 @@
 
 ### React Native General Resources
 
-*   [React Native GitHub (⭐115k)](https://github.com/facebook/react-native)
+*   [React Native GitHub (⭐120k)](https://github.com/facebook/react-native)
 
 ## [27. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
@@ -246,7 +250,7 @@
 
 ### Packages / Job queues
 
-*   [sqs-consumer (⭐1.7k)](https://github.com/bbc/sqs-consumer) - Build Amazon Simple Queue Service (SQS) based apps without the boilerplate.
+*   [sqs-consumer (⭐1.8k)](https://github.com/bbc/sqs-consumer) - Build Amazon Simple Queue Service (SQS) based apps without the boilerplate.
 
 ## [30. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
@@ -258,22 +262,22 @@
 
 ### Programming Languages
 
-*   [Scala (⭐9k)](https://github.com/lauris/awesome-scala#readme)
-    *   [Scala Native (⭐250)](https://github.com/tindzk/awesome-scala-native#readme) - Optimizing ahead-of-time compiler for Scala based on LLVM.
+*   [Scala (⭐9.1k)](https://github.com/lauris/awesome-scala#readme)
+    *   [Scala Native (⭐256)](https://github.com/tindzk/awesome-scala-native#readme) - Optimizing ahead-of-time compiler for Scala based on LLVM.
 
 ### Computer Science
 
-*   [Quantum Computing (⭐2.5k)](https://github.com/desireevl/awesome-quantum-computing#readme) - Computing which utilizes quantum mechanics and qubits on quantum computers.
+*   [Quantum Computing (⭐2.6k)](https://github.com/desireevl/awesome-quantum-computing#readme) - Computing which utilizes quantum mechanics and qubits on quantum computers.
 
 ### Miscellaneous
 
-*   [CSV (⭐687)](https://github.com/secretGeek/awesomeCSV#readme) - A text file format that stores tabular data and uses a comma to separate values.
+*   [CSV (⭐751)](https://github.com/secretGeek/awesomeCSV#readme) - A text file format that stores tabular data and uses a comma to separate values.
 
 ## [32. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
 
 ### Publishing
 
-*   [release-it (⭐7.1k)](https://github.com/webpro/release-it) - Automate releases for Git repositories and/or npm packages. Changelog generation, GitHub/GitLab releases, etc.
+*   [release-it (⭐8k)](https://github.com/webpro/release-it) - Automate releases for Git repositories and/or npm packages. Changelog generation, GitHub/GitLab releases, etc.
 
 ## [33. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
@@ -303,16 +307,16 @@
 
 ## [36. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
-### Free Content
+### Free Content / Commerical Tools
 
 *   [R2D3](http://www.r2d3.us/) - A website with explanations on topics from Machine Learning to Statistics. All helped with beautifully animated infographics and real-life examples. Available in various languages.
 
-### Learning
+### Learning / Commerical Tools
 
 *   [Awesome Community Detection (⭐2.3k)](https://github.com/benedekrozemberczki/awesome-community-detection) - Clustering graph structured data
-*   [Awesome Decision Tree Papers (⭐2.3k)](https://github.com/benedekrozemberczki/awesome-decision-tree-papers) - Decision tree papers from machine learning conferences
-*   [Awesome Gradient Boosting Papers (⭐975)](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers) - Gradient boosting papers from machine learning conferences
-*   [Awesome Fraud Detection Papers (⭐1.5k)](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers) - Fraud detection papers from machine learning conferences
+*   [Awesome Decision Tree Papers (⭐2.4k)](https://github.com/benedekrozemberczki/awesome-decision-tree-papers) - Decision tree papers from machine learning conferences
+*   [Awesome Gradient Boosting Papers (⭐1k)](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers) - Gradient boosting papers from machine learning conferences
+*   [Awesome Fraud Detection Papers (⭐1.7k)](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers) - Fraud detection papers from machine learning conferences
 
 ## [37. Awesome Roadmaps](/content/liuchong/awesome-roadmaps/week/README.md)
 
@@ -328,26 +332,26 @@
 
 ### Resources / Controllers
 
-*   [gdx-controllerutils (⭐55)](https://github.com/MrStahlfelge/gdx-controllerutils) - Adds Scene2D button input support, user configurable button mappings and hotplugging for LWJGL2.
+*   [gdx-controllerutils (⭐60)](https://github.com/MrStahlfelge/gdx-controllerutils) - Adds Scene2D button input support, user configurable button mappings and hotplugging for LWJGL2.
 
 ### Resources / Services
 
-*   [steamworks4j (⭐449)](https://github.com/code-disaster/steamworks4j) - A thin wrapper which allows Java applications to access the Steamworks C++ API.
+*   [steamworks4j (⭐483)](https://github.com/code-disaster/steamworks4j) - A thin wrapper which allows Java applications to access the Steamworks C++ API.
 
 ### Resources / User Interface
 
-*   [gdx-dialogs (⭐77)](https://github.com/TomGrill/gdx-dialogs) - Provides cross-platform support for native dialogs.
-*   [InGameConsole (⭐129)](https://github.com/StrongJoshua/libGDX-inGameConsole) - Allows a developer to add a console (similar to how it is featured in Source games) to their game.
+*   [gdx-dialogs (⭐78)](https://github.com/TomGrill/gdx-dialogs) - Provides cross-platform support for native dialogs.
+*   [InGameConsole (⭐132)](https://github.com/StrongJoshua/libGDX-inGameConsole) - Allows a developer to add a console (similar to how it is featured in Source games) to their game.
 
 ### Resources / Visual Effects
 
-*   [Box2DLights (⭐250)](https://github.com/libgdx/box2dlights) - 2D lighting framework that uses Box2D for raycasting and OpenGL ES 2.0 for rendering.
-*   [Particle Park (⭐66)](https://github.com/raeleus/Particle-Park) - A showcase of downloadable particle effects with live previews.
+*   [Box2DLights (⭐256)](https://github.com/libgdx/box2dlights) - 2D lighting framework that uses Box2D for raycasting and OpenGL ES 2.0 for rendering.
+*   [Particle Park (⭐69)](https://github.com/raeleus/Particle-Park) - A showcase of downloadable particle effects with live previews.
 
 ### Resources / Others
 
 *   [gdxGifRecorder (⭐37)](https://github.com/Anuken/GDXGifRecorder) - A utility class that records a GIF and saves it automatically.
-*   [noise4j (⭐95)](https://github.com/czyzby/noise4j) - Simple map generators based on various procedural content generation tutorials.
+*   [noise4j (⭐102)](https://github.com/czyzby/noise4j) - Simple map generators based on various procedural content generation tutorials.
 
 ## [39. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
 
@@ -389,17 +393,13 @@
 
 ## [45. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
-### Job boards
-
-*   [GraphQL Jobs](https://graphql.jobs/r/remote) - Work with GraphQL in a modern startup.
-
 ### Communities
 
 *   [Remote Indian](https://remoteindian.com/) - Remote workers from India.
 
 ### Tools / Communication
 
-*   [Matrix (⭐901)](https://github.com/ResultadosDigitais/matrix) – Matrix is the online open-source workplace for distributed teams.
+*   [Matrix (⭐904)](https://github.com/ResultadosDigitais/matrix) – Matrix is the online open-source workplace for distributed teams.
 
 ## [46. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
@@ -428,8 +428,8 @@
 
 ### Developer Tools / Command Line Tools
 
-*   [dark-mode (⭐654)](https://github.com/sindresorhus/dark-mode) - Control dark mode from the command-line. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [Taskbook (⭐8.9k)](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/klaussinani/taskbook) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [dark-mode (⭐664)](https://github.com/sindresorhus/dark-mode) - Control dark mode from the command-line. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Taskbook (⭐9k)](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/klaussinani/taskbook) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Design and Product / Other Tools
 
@@ -472,12 +472,6 @@
 *   [Repo for C :fire::fire::fire: (⭐885)](https://github.com/aws/aws-iot-device-sdk-embedded-C)
 
 ## [51. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
-
-### i18n / Mouse Events
-
-*   [react-i18next (⭐9k)](https://github.com/i18next/react-i18next) - Internationalization for react done right. Using the i18next i18n ecosystem.
-*   [react-intl (⭐14k)](https://github.com/yahoo/react-intl) - Internationalize React apps.
-*   [react-translate-maker (⭐35)](https://github.com/CherryProjects/react-translate-maker) - Universal internationalization (i18n) open source library for React.
 
 ### Editable data grid / spreadsheet
 
@@ -870,6 +864,11 @@
 *   [react-middle-ellipsis (⭐61)](https://github.com/bluepeter/react-middle-ellipsis) - [demo](https://bluepeter.github.io/react-middle-ellipsis/) - Truncate long strings in the middle instead of the end.
 *   [react-translate-component (⭐321)](https://github.com/martinandert/react-translate-component) - Multi-lingual/localized text content.
 
+### i18n / Mouse Events
+
+*   [react-intl (⭐14k)](https://github.com/yahoo/react-intl) - Internationalize React apps.
+*   [react-translate-maker (⭐35)](https://github.com/CherryProjects/react-translate-maker) - Universal internationalization (i18n) open source library for React.
+
 ### Framework bindings / integrations / Mouse Events
 
 *   [backbone-react-component (⭐810)](https://github.com/magalhas/backbone-react-component) - A bit of nifty glue that automatically plugs your Backbone models.
@@ -960,7 +959,7 @@
 
 ### Reproducible Research
 
-*   [redoc (⭐506)](https://github.com/noamross/redoc) - Reversible Reproducible Documents
+*   [redoc (⭐514)](https://github.com/noamross/redoc) - Reversible Reproducible Documents
 
 ### Finance
 
@@ -998,32 +997,32 @@
 
 ### Top / Game Engine resources
 
-*   [Spacex-Go (⭐852)](https://github.com/jesusrp98/spacex-go) <!--stargazers:jesusrp98/spacex-go--> - Simple yet powerful, open-source SpaceX launch tracker. [jesusrp98](https://twitter.com/jesusrp98).
+*   [Spacex-Go (⭐881)](https://github.com/jesusrp98/spacex-go) <!--stargazers:jesusrp98/spacex-go--> - Simple yet powerful, open-source SpaceX launch tracker. [jesusrp98](https://twitter.com/jesusrp98).
 *   [Superhero Interaction (⭐220)](https://github.com/pinkeshdarji/SuperHeroInteraction) <!--stargazers:pinkeshdarji/SuperHeroInteraction--> - Cool Superhero interaction animation by [Pinkesh Darji](https://github.com/pinkeshdarji)
 
 ## [58. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### CLI
 
-*   [cli (⭐1.2k)](https://github.com/daniele77/cli) - A cross-platform header only C++14 library for interactive command line interfaces (Cisco style). \[Boost]
+*   [cli (⭐1.3k)](https://github.com/daniele77/cli) - A cross-platform header only C++14 library for interactive command line interfaces (Cisco style). \[Boost]
 
 ### Containers
 
 *   [robin-hood-hashing (⭐1.5k)](https://github.com/martinus/robin-hood-hashing) - Fast & memory efficient hashtable based on robin hood hashing for C++14. \[MIT]
-*   [robin-map (⭐1.2k)](https://github.com/Tessil/robin-map) - Fast hash map and hash set using robin hood hashing. \[MIT]
+*   [robin-map (⭐1.3k)](https://github.com/Tessil/robin-map) - Fast hash map and hash set using robin hood hashing. \[MIT]
 
 ### CSV
 
-*   [Fast C++ CSV Parser (⭐2.1k)](https://github.com/ben-strasser/fast-cpp-csv-parser) - Small, easy-to-use and fast header-only library for reading CSV files. \[BSD-3-Clause]
+*   [Fast C++ CSV Parser (⭐2.2k)](https://github.com/ben-strasser/fast-cpp-csv-parser) - Small, easy-to-use and fast header-only library for reading CSV files. \[BSD-3-Clause]
 
 ### JSON
 
-*   [taoJSON (⭐590)](https://github.com/taocpp/json) - Zero-dependency C++ header-only JSON library. \[MIT]
+*   [taoJSON (⭐617)](https://github.com/taocpp/json) - Zero-dependency C++ header-only JSON library. \[MIT]
 
 ### Math
 
-*   [GLM (⭐9k)](https://github.com/g-truc/glm) - Header-only C++ math library that matches and inter-operates with OpenGL's GLSL math. \[MIT] [website](https://glm.g-truc.net/)
-*   [linalg.h (⭐854)](https://github.com/sgorsten/linalg) - Single header, public domain, short vector math library for C++. \[Unlicense]
+*   [GLM (⭐9.5k)](https://github.com/g-truc/glm) - Header-only C++ math library that matches and inter-operates with OpenGL's GLSL math. \[MIT] [website](https://glm.g-truc.net/)
+*   [linalg.h (⭐883)](https://github.com/sgorsten/linalg) - Single header, public domain, short vector math library for C++. \[Unlicense]
 
 ### Memory Allocation
 
@@ -1031,7 +1030,7 @@
 
 ### Networking
 
-*   [libhttpserver (⭐879)](https://github.com/etr/libhttpserver) - C++ library for creating an embedded Rest HTTP server (and more). \[LGPL2.1]
+*   [libhttpserver (⭐910)](https://github.com/etr/libhttpserver) - C++ library for creating an embedded Rest HTTP server (and more). \[LGPL2.1]
 
 ## [59. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
 
@@ -1077,7 +1076,7 @@
 
 ### Language Support
 
-*   [Php (⭐13)](https://github.com/vert-x-cn/vertx-lang-jphp) - Php support.
+*   [Php (⭐12)](https://github.com/vert-x-cn/vertx-lang-jphp) - Php support.
 
 ## [65. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
 

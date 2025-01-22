@@ -10,7 +10,7 @@
 
 ### Packages / Command-line apps
 
-*   [atmo (⭐816)](https://github.com/Raathigesh/Atmo) - Server-side API mocking.
+*   [atmo (⭐815)](https://github.com/Raathigesh/Atmo) - Server-side API mocking.
 
 ## [2. Awesome Rest](/content/marmelab/awesome-rest/README.md)
 
@@ -28,7 +28,7 @@
 
 ### Utilities
 
-*   [Vert.x Cron (⭐61)](https://github.com/diabolicallabs/vertx-cron) - Schedule events with cron specifications. Has event bus and Observable versions.
+*   [Vert.x Cron (⭐64)](https://github.com/diabolicallabs/vertx-cron) - Schedule events with cron specifications. Has event bus and Observable versions.
 
 ## [5. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/README.md)
 

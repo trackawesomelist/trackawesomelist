@@ -1,37 +1,31 @@
 # Awesome List Updates on Jul 19, 2021
 
-15 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
-
-### Websites and Resources
-
-*   [Biomindmap](https://biomindmap.com/) - Database of interventions from research studies with a network viz option.
-
-## [2. Awesome Gif](/content/davisonio/awesome-gif/README.md)
+## [1. Awesome Gif](/content/davisonio/awesome-gif/README.md)
 
 ### Libraries / C++
 
 *   [msf\_gif (⭐177)](https://github.com/notnullnotvoid/msf_gif) - C/C++ single-header library for creating animated GIFs.
 
-## [3. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
+## [2. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 
 ### Libraries / New Libraries
 
 *   [JAXopt](https://github.com/google/jaxopt) - Hardware accelerated (GPU/TPU), batchable and differentiable optimizers in JAX. <img src="https://img.shields.io/github/stars/google/jaxopt?style=social" align="center">
 *   [PIX](https://github.com/deepmind/dm_pix) - PIX is an image processing library in JAX, for JAX. <img src="https://img.shields.io/github/stars/deepmind/dm_pix?style=social" align="center">
 
-## [4. Awesome Godot](/content/godotengine/awesome-godot/README.md)
+## [3. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
-### Plugins and scripts / Various Godot versions
+### Plugins and scripts / Godot 3
 
-*   [Godot SQLite (⭐870)](https://github.com/2shady4u/godot-sqlite) - GDNative wrapper for SQLite, making it possible to use SQLite databases as data storage in your project (Godot 3.2+).
+*   [Godot SQLite (⭐998)](https://github.com/2shady4u/godot-sqlite) - GDNative wrapper for SQLite, making it possible to use SQLite databases as data storage in your project.
 
-## [5. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [4. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### Image Synthesis / Multi-agents
 
@@ -64,10 +58,10 @@
 
 ### Related Awesome Lists / Deforum
 
-*   [margaretmz/awesome-ai-art-design (⭐29)](https://github.com/margaretmz/awesome-ai-art-design): An awesome list: AI for art and design.
+*   [margaretmz/awesome-ai-art-design (⭐33)](https://github.com/margaretmz/awesome-ai-art-design): An awesome list: AI for art and design.
 *   [justinpinkney/awesome-pretrained-stylegan2 (⭐1.3k)](https://github.com/justinpinkney/awesome-pretrained-stylegan2): A collection of pre-trained StyleGAN 2 models to download
 
-## [6. Public Apis](/content/public-apis/public-apis/README.md)
+## [5. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Development
 
@@ -83,35 +77,31 @@
 
 
 
-## [7. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
+## [6. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
 
 ### Authorization / AWS policy tools
 
 *   [ConsoleMe (⭐3.1k)](https://github.com/Netflix/consoleme) - A self-service tool for AWS that provides end-users and administrators credentials and console access to the onboarded accounts based on their authorization level of managing permissions across multiple accounts, while encouraging least-privilege permissions.
 
-## [8. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/README.md)
+## [7. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/README.md)
 
 ### Websites
 
 *   Projectium Network - <https://projectium.network>
 
-## [9. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
-
-### Articles & Posts
-
-*   [Phoning It In: 3 Years of Lessons From Running a Remote Business](https://observer.com/2014/02/phoning-it-in-3-years-of-lessons-from-running-a-remote-business)
+## [8. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
 ### Job boards
 
 *   [4 Day Week](https://4dayweek.io) - Software jobs with a better work / life balance.
 
-## [10. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [9. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Tools & Utilities / Others
 
-*   [Fluxor (⭐1.2k)](https://github.com/mrpmorris/fluxor) - ![GitHub stars](https://img.shields.io/github/stars/mrpmorris/fluxor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/mrpmorris/fluxor?style=flat-square\&cacheSeconds=86400) Zero boilerplate Flux/Redux library for DotNet.
+*   [Fluxor (⭐1.3k)](https://github.com/mrpmorris/fluxor) - ![GitHub stars](https://img.shields.io/github/stars/mrpmorris/fluxor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/mrpmorris/fluxor?style=flat-square\&cacheSeconds=86400) Zero boilerplate Flux/Redux library for DotNet.
 
-## [11. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
+## [10. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
 
 ### Supported Distributions / Pengwin Enterprise
 
@@ -132,41 +122,41 @@
 *   [Pro Windows Subsystem for Linux (WSL): Powerful Tools and Practices for Cross-Platform Development and Collaboration](https://www.amazon.com/Hayden-Barnes-ebook/dp/B096TRZMW1)
 *   [Windows Subsystem for Linux: Tactics, Mindset and Tips](https://www.amazon.com/Windows-Subsystem-Linux-Tactics-Mindset/dp/1977718094)
 
-## [12. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+## [11. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
-### Email Search / Email Check / Telegram
+### Email Search / Email Check / Steam
 
 *   [Email Permutator](https://www.polished.app/email-permutator/) - a powerful tool designed to aid professionals in generating a range of potential email addresses for a specific contact.
 
-## [13. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [12. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Official Guides
 
 *   [Introducing SwiftUI](https://developer.apple.com/tutorials/swiftui) - Official SwiftUI tutorial with 4+ hours of content and interactive tutorials.
 
-## [14. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [13. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Developer Tools / IDEs
 
-*   [Nova](https://nova.app/) - From the creators of Coda and Transmit, bring you a beautiful, fast, flexible, native Mac code editor from [Panic](https://panic.com/).
+*   [Nova](https://nova.app/) - Beautiful, fast, flexible Mac code editor from [Panic](https://panic.com/).
 
 ### Reading and Writing Tools / Journaling
 
-*   [linked (⭐871)](https://github.com/lostdesign/linked) - Link your thoughts to days, distraction free. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")
+*   [linked (⭐908)](https://github.com/lostdesign/linked) - Link your thoughts to days, distraction free. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")
 
 ### Audio and Video Tools / File Sharing
 
-*   [BlackHole (⭐15k)](https://github.com/ExistentialAudio/BlackHole) - Freemium, open-source virtual output/input audio driver for recording/routing internal audio. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ExistentialAudio/BlackHole) [![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/ExistentialAudio/BlackHole)
+*   [BlackHole (⭐16k)](https://github.com/ExistentialAudio/BlackHole) - Freemium, open-source virtual output/input audio driver for recording/routing internal audio. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ExistentialAudio/BlackHole) [![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/ExistentialAudio/BlackHole)
 
-## [15. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
+## [14. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / Entertainment
 
-*   [AnimSearch (⭐77)](https://github.com/ArizArmeidi/AnimSearch) - Anime and Manga search app. created using Flutter and Jikan API. by [Ariz Armeidi](https://github.com/ArizArmeidi).
+*   [AnimSearch (⭐81)](https://github.com/ArizArmeidi/AnimSearch) - Anime and Manga search app. created using Flutter and Jikan API. by [Ariz Armeidi](https://github.com/ArizArmeidi).
 
 ### Contents / Productivity
 
-*   [LibreTrack (⭐190)](https://github.com/proninyaroslav/libretrack) - Private, cross-platform package tracking app by [Yaroslav Pronin](https://github.com/proninyaroslav)
+*   [LibreTrack (⭐236)](https://github.com/proninyaroslav/libretrack) - Private, cross-platform package tracking app by [Yaroslav Pronin](https://github.com/proninyaroslav)
 
 ---
 

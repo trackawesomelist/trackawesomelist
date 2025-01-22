@@ -26,10 +26,6 @@
 
 ## [2. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
-### Companies with "remote DNA"
-
-*   [AvantStay](https://avantstay.com/careers) - Short-term rental company based in Los Angeles, with remote dev team.
-
 ### Tools / Others
 
 *   [Fiverr](https://www.fiverr.com/) - Fiverr is the world's largest freelance services marketplace for lean entrepreneurs, where you can hire remote workers to do small tasks for you.
@@ -73,7 +69,7 @@
 
 ### Scientific Computing
 
-*   [AMGCL (⭐723)](https://github.com/ddemidov/amgcl) - a header-only C++ library for solving large sparse linear systems with algebraic multigrid. \[MIT]
+*   [AMGCL (⭐763)](https://github.com/ddemidov/amgcl) - a header-only C++ library for solving large sparse linear systems with algebraic multigrid. \[MIT]
 
 ## [7. Awesome Scala](/content/lauris/awesome-scala/README.md)
 

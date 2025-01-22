@@ -10,7 +10,7 @@
 
 ### Python / Trading & Backtesting
 
-*   [machine-learning-for-trading (⭐13k)](https://github.com/stefan-jansen/machine-learning-for-trading) - Code and resources for Machine Learning for Algorithmic Trading
+*   [machine-learning-for-trading (⭐14k)](https://github.com/stefan-jansen/machine-learning-for-trading) - Code and resources for Machine Learning for Algorithmic Trading
 
 ## [2. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
@@ -58,12 +58,12 @@
 ### Business
 
 *   [Falsehoods about Prices](https://gist.github.com/rgs/6509585) - Covers currencies, amounts and localization.
-*   [Falsehoods about IBANs (⭐469)](https://github.com/globalcitizen/php-iban/blob/master/docs/FALSEHOODS.md) - International Bank Account Numbers are not international.
+*   [Falsehoods about IBANs (⭐474)](https://github.com/globalcitizen/php-iban/blob/master/docs/FALSEHOODS.md) - International Bank Account Numbers are not international.
 *   [Falsehoods about Economics](http://exple.tive.org/blarg/2016/09/22/falsehoods-programmers-believe-about-economics/) - Economics are not simple or rational.
 
 ### Cryptocurrency
 
-*   [Falsehoods about Bitcoin (⭐59)](https://github.com/theborakompanioni/spring-boot-bitcoin-starter/blob/master/docs/FALSEHOODS.md) - A list of mistaken perspectives on Bitcoin.
+*   [Falsehoods about Bitcoin (⭐67)](https://github.com/theborakompanioni/spring-boot-bitcoin-starter/blob/master/docs/FALSEHOODS.md) - A list of mistaken perspectives on Bitcoin.
 
 ### Dates and Time
 
@@ -103,7 +103,7 @@
 
 ### Phone Numbers
 
-*   [Falsehoods about Phone Numbers (⭐16k)](https://github.com/googlei18n/libphonenumber/blob/master/FALSEHOODS.md) - Covers phone numbers, their representation and meaning.
+*   [Falsehoods about Phone Numbers (⭐17k)](https://github.com/googlei18n/libphonenumber/blob/master/FALSEHOODS.md) - Covers phone numbers, their representation and meaning.
 
 ### Postal Addresses
 
@@ -121,7 +121,7 @@
 
 ### Software Engineering
 
-*   [Falsehoods about Versions (⭐67)](https://github.com/xenoterracide/falsehoods/blob/master/versions.md) - Attributing an identity to a software release might be harder than thought.
+*   [Falsehoods about Versions (⭐68)](https://github.com/xenoterracide/falsehoods/blob/master/versions.md) - Attributing an identity to a software release might be harder than thought.
 *   [Falsehoods about Build Systems](https://pozorvlak.livejournal.com/174763.html) - Building software is hard. Building software that builds software is harder.
 *   [Falsehoods about CSVs](https://donatstudios.com/Falsehoods-Programmers-Believe-About-CSVs) - While RFC4180 to exists, it is far from definitive and goes largely ignored.
 *   [Falsehoods about Testing](https://club.ministryoftesting.com/t/falsehoods-testers-believe/1371) - An attempt to establish a list of falsehoods about testing.
@@ -137,13 +137,13 @@
 
 ### Typography
 
-*   [Falsehoods about Fonts (⭐97)](https://github.com/RoelN/Font-Falsehoods) - Assumptions about typography on the web and in desktop applications.
+*   [Falsehoods about Fonts (⭐101)](https://github.com/RoelN/Font-Falsehoods) - Assumptions about typography on the web and in desktop applications.
 
 ## [7. Awesome Elm](/content/sporto/awesome-elm/README.md)
 
 ### Boilerplates / Individual Podcast episodes
 
-*   [Elm Batteries (⭐116)](https://github.com/cedricss/elm-batteries) - A project template and generator for Elm, Parcel, Cypress and Netlify
+*   [Elm Batteries (⭐117)](https://github.com/cedricss/elm-batteries) - A project template and generator for Elm, Parcel, Cypress and Netlify
 *   [IHP + Elm](https://www.youtube.com/watch?v=b9ULHutH6ag) - The IHP Haskell Framework provides a built-in Elm boilerplate, useful when working with elm in the frontend and haskell in the backend
 
 ## [8. Awesome Jax](/content/n2cholas/awesome-jax/README.md)

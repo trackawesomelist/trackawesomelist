@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 24 - Jul 30, 2023
 
-43 awesome lists updated this week.
+41 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -19,13 +19,13 @@
 ### Libraries and Tools / Python
 
 *   [SocketCAN](https://python-can.readthedocs.io/en/master/interfaces/socketcan.html) Python interface to SocketCAN
-*   [canmatrix (⭐834)](https://github.com/ebroecker/canmatrix) Python module to work with CAN matrix files
+*   [canmatrix (⭐948)](https://github.com/ebroecker/canmatrix) Python module to work with CAN matrix files
 *   [canopen](https://canopen.readthedocs.io/en/latest/) Python module to communicate with CANopen devices
-*   [cantools (⭐1.7k)](https://github.com/eerimoq/cantools) Python module to decode and encode CAN messages using a DBC file
+*   [cantools (⭐1.9k)](https://github.com/eerimoq/cantools) Python module to decode and encode CAN messages using a DBC file
 
 ## [2. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
-### Online services
+### Online services (a-z↓)
 
 *   [TestGrid](https://www.testgrid.io/) - Perform End to End test automation be it cross browser testing, mobile app testing, performance testing or API testing on cloud or on-premise.
 
@@ -33,43 +33,45 @@
 
 ### MIDI Tools & Libraries
 
-*   [Polyrhythmix (⭐282)](http://github.com/dredozubov/polyrhythmix) - MIDI drums
+*   [Polyrhythmix (⭐289)](http://github.com/dredozubov/polyrhythmix) - MIDI drums
     generator, designed for polyrhythmic parts
 
 ## [4. Awesome Open Source Games](/content/michelpereira/awesome-open-source-games/week/README.md)
 
 ### Browser-Based / Strategy
 
-*   [Rapid Dominance (⭐9)](https://github.com/wenta/rapid-dominance) - Open source turn-based strategy game. Clone of the Enemy Flag.
+*   [Rapid Dominance (⭐11)](https://github.com/wenta/rapid-dominance) - Open source turn-based strategy game. Clone of the Enemy Flag.
 
 ## [5. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Database
 
-*   [GreptimeDB (⭐4.1k)](https://github.com/grepTimeTeam/greptimedb/) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported.[![CI](https://github.com/greptimeTeam/greptimedb/actions/workflows/develop.yml/badge.svg)](https://github.com/greptimeTeam/greptimedb/actions/workflows/develop.yml)
+*   [GreptimeDB (⭐4.6k)](https://github.com/grepTimeTeam/greptimedb/) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported.[![CI](https://github.com/greptimeTeam/greptimedb/actions/workflows/develop.yml/badge.svg)](https://github.com/greptimeTeam/greptimedb/actions/workflows/develop.yml)
 
-## [6. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [6. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
-### GTFS Analysis Tools / Ruby
+### Components & Libraries / UI Components
 
-*   [GTFS Display](https://git.wtf-eg.de/dancesWithCycles/gtfs-display) - Analyse, monitor and maintain GTFS data ([Example instances](https://www.swingbe.de/activity/gtfs-display/)).
-
-### GTFS Realtime Utilities / Ruby
-
-*   [GTFS Realtime Display](https://git.wtf-eg.de/dancesWithCycles/gtfs-rt-display) - Analyse, monitor and maintain GTFS Realtime data. [Example instances](https://www.swingbe.de/activity/gtfs-rt-display/)
+*   [vue-popper-lite (⭐4)](https://github.com/jambonn/vue-popper-lite) - A popover component based on [popper.js tree shaking](https://popper.js.org/docs/v2/#popper-lite-tree-shaking) for Vue 3 written by TypeScript.
 
 ## [7. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Files and Directories / File Sync/Sharing
 
-*   [shbin (⭐44)](https://github.com/Shiphero/shbin/) - Turn a Github repo into a pastebin.
+*   [shbin (⭐56)](https://github.com/Shiphero/shbin/) - Turn a Github repo into a pastebin.
 *   [sharing (⭐1.7k)](https://github.com/parvardegr/sharing) - Send and receive files on your mobile device.
 
-## [8. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [8. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
+
+### Nodes & Consensus Participation / Wallets
+
+*   [AlloCTRL (⭐15)](https://github.com/AlgoNode/alloctrl) - A simple, open source, dashboard to help managing your node and participation keys safely, from your local machine.
+
+## [9. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### Code Analysis / Text-Based User Interfaces
 
-*   [RefactorFirst (⭐340)](https://github.com/jimbethancourt/RefactorFirst) - Identifies and prioritizes God Classes and Highly Coupled classes.
+*   [RefactorFirst (⭐457)](https://github.com/jimbethancourt/RefactorFirst) - Identifies and prioritizes God Classes and Highly Coupled classes.
 
 ### Code Generators / Text-Based User Interfaces
 
@@ -81,7 +83,7 @@
 
 ### Database / Text-Based User Interfaces
 
-*   [OpenDJ (⭐356)](https://github.com/OpenIdentityPlatform/OpenDJ) - LDAPv3 compliant directory service, developed for the Java platform, providing a high performance, highly available, and secure store for the identities.
+*   [OpenDJ (⭐368)](https://github.com/OpenIdentityPlatform/OpenDJ) - LDAPv3 compliant directory service, developed for the Java platform, providing a high performance, highly available, and secure store for the identities.
 
 ### Dependency Injection / Text-Based User Interfaces
 
@@ -89,7 +91,7 @@
 
 ### Distributed Applications / Text-Based User Interfaces
 
-*   [OpenIG (⭐66)](https://github.com/OpenIdentityPlatform/OpenIG) - High-performance reverse proxy server with specialized session management and credential replay functionality.
+*   [OpenIG (⭐74)](https://github.com/OpenIdentityPlatform/OpenIG) - High-performance reverse proxy server with specialized session management and credential replay functionality.
 
 ### Distribution / Text-Based User Interfaces
 
@@ -105,18 +107,18 @@
 
 ### Miscellaneous / Text-Based User Interfaces
 
-*   [jOOX (⭐489)](https://github.com/jooq/joox) - Simple wrapper for the org.w3c.dom package, to allow for fluent XML document creation and manipulation with an API inspired by jQuery.
+*   [jOOX (⭐495)](https://github.com/jooq/joox) - Simple wrapper for the org.w3c.dom package, to allow for fluent XML document creation and manipulation with an API inspired by jQuery.
 
 ### Security / Other
 
-*   [OpenAM (⭐743)](https://github.com/OpenIdentityPlatform/OpenAM) - Access management solution that includes authentication, SSO, authorization, federation, entitlements and web services security.
+*   [OpenAM (⭐774)](https://github.com/OpenIdentityPlatform/OpenAM) - Access management solution that includes authentication, SSO, authorization, federation, entitlements and web services security.
 *   [Topaz](https://www.topaz.sh) - Fine-grained authorization for applications with support for RBAC, ABAC, and ReBAC.
 
 ### Websites / Other
 
 *   [Java Weekly](https://discu.eu/weekly/java/)
 
-## [9. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [10. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Cloud management solutions
 
@@ -130,7 +132,7 @@
 
 *   [Expose](https://expose.dev/) - Expose local sites via secure tunnels. The free plan includes an EU Server, Random subdomains, and Single users.
 
-## [10. Awesome Fantasy](/content/RichardLitt/awesome-fantasy/week/README.md)
+## [11. Awesome Fantasy](/content/RichardLitt/awesome-fantasy/week/README.md)
 
 ### Epic Fantasy / [Art of the Adept](https://www.goodreads.com/series/269818-art-of-the-adept) (2019) *by [Michael G. Manning](https://www.goodreads.com/author/show/5021072.Michael_G_Manning)* [4.4]
 
@@ -148,36 +150,36 @@
 *   [The Protector of the Small](https://www.goodreads.com/series/43815-protector-of-the-small)
 *   [Tricksters](https://www.goodreads.com/series/43688-daughter-of-the-lioness)
 
-## [11. Awesome Silverstripe Cms](/content/wernerkrauss/awesome-silverstripe-cms/week/README.md)
+## [12. Awesome Silverstripe Cms](/content/wernerkrauss/awesome-silverstripe-cms/week/README.md)
 
 ### Virtualisation / Docker
 
 *   [ddev setup](https://firesphere.dev/articles/ddevelopment-environment/) - Howto setup ddev for use with Silverstripe CMS.
 
-## [12. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [13. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Frameworks • Libraries • Ecosystems
 
-*   [PixelKit (⭐882)](https://github.com/heestand-xyz/PixelKit) \[iOS, Mac] - Open source, live graphics, Swift framework, powered by Metal.
-*   [AsyncGraphics (⭐320)](https://github.com/heestand-xyz/AsyncGraphics) \[iOS, macOS] - Open source, live graphics, async / await, Swift package, powered by Metal.
+*   [PixelKit (⭐886)](https://github.com/heestand-xyz/PixelKit) \[iOS, Mac] - Open source, live graphics, Swift framework, powered by Metal.
+*   [AsyncGraphics (⭐341)](https://github.com/heestand-xyz/AsyncGraphics) \[iOS, macOS] - Open source, live graphics, async / await, Swift package, powered by Metal.
 
 ### Visual Programming Languages
 
 *   [Circles](http://circles.software) \[iPhone, iPad, Mac] - Live graphics node editor, powered by AsyncGraphics.
 
-## [13. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
+## [14. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
 
 ### Hacks and homebrew / Ironsworn
 
 *   [Elementsworn](https://satan-bouchuncoin.itch.io/elementsworn) - Readapt Ironsworn to the the *Avatar: The Last Airbender* setting
 
-## [14. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
+## [15. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
 ### Algorithms / Hash functions
 
 *   [SHA3](https://en.wikipedia.org/wiki/SHA-3) - Cryptographic hash function that produces a fixed-size output, typically 224, 256, 384, or 512 bits, from variable-size input data. It is part of the SHA-3 family of cryptographic algorithms designed to resist attacks from quantum computers and offers security properties such as pre-image resistance, second pre-image resistance, and collision resistance.
 
-## [15. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [16. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Browsers / Audio Record and Process
 
@@ -187,13 +189,13 @@
 
 *   [GrandPerspective](https://grandperspectiv.sourceforge.net) - A small utility that visualizes disk usage by way of tree maps. It lets you quickly spot which files and folders take up the most space. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://git.code.sf.net/p/grandperspectiv/source) [![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://sourceforge.net/projects/grandperspectiv/files/grandperspective/) [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://itunes.apple.com/us/app/grandperspective/id1111570163)
 
-## [16. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
+## [17. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
 
 ### eCommerce
 
 *   [eComPortal](https://www.ecomportal.co/) - Job board for the eCommerce Industry. Lots of front-end & full-stack developer job opportunities. Remote & Salary available.
 
-## [17. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
+## [18. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
 
 ### Sensors / Accelerometer Digital
 
@@ -201,16 +203,16 @@
 
 ### Shells / On Host
 
-*   [mpr (⭐12)](https://github.com/bulletmark/mpr) - Wrapper for MicroPython mpremote tool.
+*   [mpr (⭐14)](https://github.com/bulletmark/mpr) - Wrapper for MicroPython mpremote tool.
 
-## [18. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
+## [19. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
 
 ### Machine Learning and Artificial Intelligence
 
 *   [Gradient descent](https://en.wikipedia.org/wiki/Gradient_descent) - Minimizing a cost function by iteratively computing the gradient and moving in the direction of steepest descent.
 *   [Hallucination](https://en.wikipedia.org/wiki/Hallucination_\(artificial_intelligence\)) - A confident response by an AI that does not seem to be justified by its training data.
 
-## [19. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
+## [20. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
 
 ### Contents / EHR
 
@@ -252,82 +254,59 @@
 
 *   [OpenBoxes (⭐600)](https://github.com/openboxes/openboxes) - an Open Source Inventory and Supply Chain Management System.
 
-## [20. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
+## [21. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
 
 ### Utils
 
 *   [playwright-ui5 (⭐6)](https://github.com/detachhead/playwright-ui5) - Custom selector engine for sapui5.
 *   [playwright-xpath (⭐6)](https://github.com/detachhead/playwright-xpath) - Custom selector engine for xpath 2 and 3.
 
-## [21. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [22. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Networking
 
-*   [gnet (⭐16)](https://github.com/fish-tennis/gnet) - `gnet` is a high-performance networking framework,especially for game servers.
+*   [gnet (⭐21)](https://github.com/fish-tennis/gnet) - `gnet` is a high-performance networking framework,especially for game servers.
 
 ### Tutorials / Libraries for creating HTTP middlewares
 
-*   [Hex Monscape (⭐64)](https://github.com/Haraj-backend/hex-monscape) - Getting started guidelines in writing maintainable code using Hexagonal Architecture.
+*   [Hex Monscape (⭐75)](https://github.com/Haraj-backend/hex-monscape) - Getting started guidelines in writing maintainable code using Hexagonal Architecture.
 
-## [22. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [23. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### AI / Diagnostics
 
-*   [Robitx/gp.nvim (⭐674)](https://github.com/Robitx/gp.nvim) - ChatGPT like sessions and instructable text/code operations in your favorite editor.
-*   [dpayne/CodeGPT.nvim (⭐763)](https://github.com/dpayne/CodeGPT.nvim) - Provides commands to interact with ChatGPT, the focus is around code related usages.
-*   [jackMort/ChatGPT.nvim (⭐3.6k)](https://github.com/jackMort/ChatGPT.nvim) - Effortless Natural Language Generation with OpenAI's ChatGPT API.
+*   [Robitx/gp.nvim (⭐1k)](https://github.com/Robitx/gp.nvim) - ChatGPT like sessions and instructable text/code operations in your favorite editor.
+*   [jackMort/ChatGPT.nvim (⭐3.9k)](https://github.com/jackMort/ChatGPT.nvim) - Effortless Natural Language Generation with OpenAI's ChatGPT API.
 
 ### Markdown and LaTeX / Diagnostics
 
-*   [Zeioth/markmap.nvim (⭐152)](https://github.com/Zeioth/markmap.nvim) - Visualize your Markdown as mindmaps.
+*   [Zeioth/markmap.nvim (⭐175)](https://github.com/Zeioth/markmap.nvim) - Visualize your Markdown as mindmaps.
 
 ### Note Taking / Diagnostics
 
-*   [serenevoid/kiwi.nvim (⭐178)](https://github.com/serenevoid/kiwi.nvim) - A stripped down VimWiki with necessary features.
+*   [serenevoid/kiwi.nvim (⭐191)](https://github.com/serenevoid/kiwi.nvim) - A stripped down VimWiki with necessary features.
 
 ### Utility / Diagnostics
 
-*   [gaborvecsei/usage-tracker.nvim (⭐91)](https://github.com/gaborvecsei/usage-tracker.nvim) - Track your Neovim usage and visualize statistics easily.
-*   [malbertzard/inline-fold.nvim (⭐84)](https://github.com/malbertzard/inline-fold.nvim) - Hide certain elements inline like long CSS classes or `href` content.
-*   [chrisgrieser/nvim-origami (⭐162)](https://github.com/chrisgrieser/nvim-origami) - Fold with relentless elegance.
+*   [gaborvecsei/usage-tracker.nvim (⭐106)](https://github.com/gaborvecsei/usage-tracker.nvim) - Track your Neovim usage and visualize statistics easily.
+*   [malbertzard/inline-fold.nvim (⭐85)](https://github.com/malbertzard/inline-fold.nvim) - Hide certain elements inline like long CSS classes or `href` content.
+*   [chrisgrieser/nvim-origami (⭐208)](https://github.com/chrisgrieser/nvim-origami) - Fold with relentless elegance.
 
 ### Code Runner / Diagnostics
 
-*   [Zeioth/compiler.nvim (⭐465)](https://github.com/Zeioth/compiler.nvim) - Compiler for building and running your code without having to configure anything.
+*   [Zeioth/compiler.nvim (⭐544)](https://github.com/Zeioth/compiler.nvim) - Compiler for building and running your code without having to configure anything.
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [NormalNvim/NormalNvim (⭐459)](https://github.com/NormalNvim/NormalNvim) - Focused on stability for your daily work. From the creator of Compiler.nvim.
-
-## [23. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/week/README.md)
-
-### **Azure Reference Architectures** / **Azure AI Search**
-
-*   Azure AI Search (FKA. Azure Cognitive Search) supports
-    1.  Text Search
-    2.  Pure Vector Search
-    3.  Hybrid Search (Text search + Vector search)
-    4.  Semantic Hybrid Search (Text search + Semantic search + Vector search)
-
-### **Quantization Techniques** / **Llama Finetuning**
-
-*   Quantization-aware training (QAT): The model is further trained with quantization in mind after being initially trained in floating-point precision.
-
-### **Section 10: General AI Tools and Extensions** / **OSS Alternatives for OpenAI Code Interpreter (aka. Advanced Data Analytics)**
-
-*   Edge and Chrome Extension & Plugin
-    *   [MaxAI.me](https://www.maxai.me/)
-    *   [BetterChatGPT (⭐7.9k)](https://github.com/ztjhz/BetterChatGPT)
-    *   [ChatHub (⭐9.9k)](https://github.com/chathub-dev/chathub) All-in-one chatbot client [Webpage](https://chathub.gg/)
-    *   [ChatGPT Retrieval Plugin (⭐21k)](https://github.com/openai/chatgpt-retrieval-plugin)
+*   [NormalNvim/NormalNvim (⭐568)](https://github.com/NormalNvim/NormalNvim) - Focused on stability for your daily work. From the creator of Compiler.nvim.
 
 ## [24. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
-### Domain and IP Research / Telegram
+### Domain and IP Research / Steam
 
 *   [Virus Total](https://www.virustotal.com/) - Analyse suspicious domains, IPs URLs and files to detect malware and other breaches
 
-### DNS / Telegram
+### DNS / Steam
 
 *   [Columbus Project](https://columbus.elmasy.com/) - Columbus Project is an advanced subdomain discovery service with fast, powerful and easy to use API.
 
@@ -335,7 +314,7 @@
 
 ### Authentication and Authorization
 
-*   [openiddict (⭐4.3k)](https://github.com/openiddict/openiddict-core) - Flexible and versatile OAuth 2.0/OpenID Connect stack for .NET
+*   [openiddict (⭐4.5k)](https://github.com/openiddict/openiddict-core) - Flexible and versatile OAuth 2.0/OpenID Connect stack for .NET
 
 ## [26. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
@@ -345,7 +324,7 @@
 
 ### UI Testing
 
-*   [Marathon Runner (⭐576)](https://github.com/MarathonLabs/marathon) - Fast, platform-independent test runner focused on performance and stability execute tests.
+*   [Marathon Runner (⭐587)](https://github.com/MarathonLabs/marathon) - Fast, platform-independent test runner focused on performance and stability execute tests.
 
 ## [27. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
@@ -359,7 +338,7 @@
 
 *   [The ChatGPT revolution is another tech fantasy](https://www.disconnect.blog/p/the-chatgpt-revolution-is-another)
 
-### Inbox: Speech-to-text (STT) and spoken content analysis / Deforum
+### Speech-to-text (STT) and spoken content analysis / Deforum
 
 *   [ZZZ Code AI](https://zzzcode.ai/): AI-powered free website to get any programming question answered or code generated.
 *   [LeMUR](https://www.assemblyai.com/blog/lemur/): a single API, enabling developers to reason over their spoken data with a few lines of code
@@ -382,7 +361,7 @@
 *   [Transforming 2D Images into 3D with the AdaMPI AI Model](https://notes.aimodels.fyi/transforming-2d-images-into-3d-with-the-adampi-ai-model/): guide on how to use the AdaMPI AI model for creating 3D photos from 2D images
 *   [Ssemble](https://www.ssemble.com/): collaborative video editor with a collection of AI plugins
 
-### Inbox: Text-to-speech (TTS) and avatars / Deforum
+### Text-to-speech (TTS) and avatars / Deforum
 
 *   [Voice-Swap](https://www.voice-swap.ai/?ref=producthunt): transform vocals to match the style of a list of singers
 
@@ -390,44 +369,40 @@
 
 ### Tools - Security / React
 
-*   [GraphQL Cop (⭐334)](https://github.com/dolevf/graphql-cop) - Security Audit Utility for GraphQL
+*   [GraphQL Cop (⭐406)](https://github.com/dolevf/graphql-cop) - Security Audit Utility for GraphQL
 
 ### Tools - Miscellaneous / React
 
-*   [Dynaboard](https://dynaboard.com) - Generate low-code web apps from any GraphQL API using AI. <a name="databases" />
+*   [Dynaboard](https://dynaboard.com) - Generate low-code web apps from any GraphQL API using AI.
 
 ## [30. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Automation
 
-*   [yt-dlp Web UI (⭐773)](https://github.com/marcopeocchi/yt-dlp-web-ui) - Web GUI for yt-dlp. `MPL-2.0` `Docker/Go/Nodejs`
+*   [yt-dlp Web UI (⭐1.1k)](https://github.com/marcopeocchi/yt-dlp-web-ui) - Web GUI for yt-dlp. `MPL-2.0` `Docker/Go/Nodejs`
 
 ### Software / Document Management - E-books
 
-*   [Atsumeru](https://atsumeru.xyz) - Free and open source self-hosted manga/comic/light novel media server with clients for Windows, Linux, macOS and Android. ([Source Code (⭐72)](https://github.com/AtsumeruDev/Atsumeru), [Clients](https://atsumeru.xyz/guides/#how-does-it-work)) `MIT` `Java/Docker`
+*   [Atsumeru](https://atsumeru.xyz) - Free and open source self-hosted manga/comic/light novel media server with clients for Windows, Linux, macOS and Android. ([Source Code (⭐100)](https://github.com/AtsumeruDev/Atsumeru), [Clients](https://atsumeru.xyz/guides/#how-does-it-work)) `MIT` `Java/Docker`
 
 ### Software / Miscellaneous
 
 *   [Kasm Workspaces](https://kasmweb.com/) - Streaming containerized apps and desktops to end-users. Examples include Ubuntu in your browser, or simply single apps such as Chrome, OpenOffice, Gimp, Filezilla etc. ([Demo](https://www.kasmweb.com/#demo), [Source Code](https://github.com/kasmtech)) `GPL-3.0` `Docker`
-*   [Open-Meteo](https://open-meteo.com/) - Open-source weather API with open-data forecasts, historical and climate data from all major national weather services. ([Demo](https://open-meteo.com/en/docs), [Source Code (⭐2.4k)](https://github.com/open-meteo/open-meteo)) `AGPL-3.0` `Docker`
+*   [Open-Meteo](https://open-meteo.com/) - Open-source weather API with open-data forecasts, historical and climate data from all major national weather services. ([Demo](https://open-meteo.com/en/docs), [Source Code (⭐2.8k)](https://github.com/open-meteo/open-meteo)) `AGPL-3.0` `Docker`
 
 ### Software / Search Engines
 
-*   [SearXNG](https://docs.searxng.org/) `⚠` - Internet metasearch engine which aggregates results from various search services and databases (Fork of Searx). ([Source Code (⭐12k)](https://github.com/searxng/searxng/)) `AGPL-3.0` `Python/Docker`
-
-### Software / Software Development - Low Code
-
-*   [SQLPage](https://sql.ophir.dev) - SQL-only dynamic website builder. ([Source Code (⭐1.3k)](https://github.com/lovasoa/SQLPage)) `MIT` `Rust/Docker`
+*   [SearXNG](https://docs.searxng.org/) `⚠` - Internet metasearch engine which aggregates results from various search services and databases (Fork of Searx). ([Source Code (⭐15k)](https://github.com/searxng/searxng/)) `AGPL-3.0` `Python/Docker`
 
 ### External Links / Wikis
 
-*   Communities/forums: [/c/selfhosted on lemmy.world](https://lemmy.world/c/selfhosted), [/c/selfhost on lemmy.ml](https://lemmy.ml/c/selfhost), [/m/selfhosted on kbin.social](https://kbin.social/m/selfhosted), [/r/selfhosted on reddit](https://old.reddit.com/r/selfhosted/), [r-selfhosted forum](https://forum.r-selfhosted.com/), [/r/selfhosted Matrix Channel](https://matrix.to/#/#selfhosted:selfhosted.chat), [Homelab forum](https://homelabforum.com/), [/r/homelab on reddit](https://old.reddit.com/r/homelab/), [IndieWeb](https://indieweb.org/)
+*   Communities/forums: [/c/selfhosted on lemmy.world](https://lemmy.world/c/selfhosted), [/c/selfhost on lemmy.ml](https://lemmy.ml/c/selfhost), [/r/selfhosted on reddit](https://old.reddit.com/r/selfhosted/), [r-selfhosted forum](https://forum.r-selfhosted.com/), [/r/selfhosted Matrix Channel](https://matrix.to/#/#selfhosted:selfhosted.chat), [Homelab forum](https://homelabforum.com/), [/r/homelab on reddit](https://old.reddit.com/r/homelab/), [IndieWeb](https://indieweb.org/)
 
 ## [31. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### Standards
 
-*   [JSend (⭐1.5k)](https://github.com/omniti-labs/jsend) - Simple specification that lays down some rules for how JSON responses from web servers should be formatted.
+*   [JSend (⭐1.6k)](https://github.com/omniti-labs/jsend) - Simple specification that lays down some rules for how JSON responses from web servers should be formatted.
 
 ## [32. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
 
@@ -448,17 +423,7 @@
     *   🔥 - Hot! Amazing Resource!
     *   🌎 - Website
 
-## [34. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
-
-### Resources / Examples
-
-*   [vue-plugin-boilerplate (⭐4)](https://github.com/selimdoyranli/vue-plugin-boilerplate) - Boilerplate for vue 2&3 plugin development 🟩📦
-
-### Components & Libraries / UI Components
-
-*   [vue-popper-lite (⭐2)](https://github.com/jambonn/vue-popper-lite) - A popover component based on [popper.js tree shaking](https://popper.js.org/docs/v2/#popper-lite-tree-shaking) for Vue 3 written by TypeScript.
-
-## [35. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+## [34. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### Software / Configuration Management
 
@@ -471,7 +436,7 @@
 
 *   [Kroki](https://kroki.io) - API for generating diagrams from textual descriptions. ([Source Code (⭐2.8k)](https://github.com/yuzutech/kroki)) `MIT` `Java`
 
-## [36. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [35. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -480,13 +445,13 @@
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [laconic (⭐0)](https://github.com/Saka7/laconic.zsh-theme) - Simple theme with `git` status and current directory decorators.
-*   [nerdps1 (⭐6)](https://github.com/joknarf/nerdps1) - Reminiscent of powerline. Requires a nerdfont. Includes decorators for user\@hostname, `git` information, truncated current directory, python virtualenv, exit status of last command run and the time.
+*   [nerdps1 (⭐11)](https://github.com/joknarf/nerdps1) - Reminiscent of powerline. Requires a nerd font. Includes decorators for user\@hostname, `git` information, truncated current directory, python virtualenv, exit status of last command run and the time.
 
-## [37. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [36. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Resources / Tutorials & workshops
 
-*   [Data Pipelines with Polars: Step-by-Step Guide](https://towardsdatascience.com/data-pipelines-with-polars-step-by-step-guide-f5474accacc4) - A tutorial that explains how to build data pipelines with Polars by [@AntonsRuberts](https://github.com/AntonsRuberts). Code used is available on Github [here (⭐50)](https://github.com/aruberts/tutorials/tree/main/polars).
+*   [Data Pipelines with Polars: Step-by-Step Guide](https://towardsdatascience.com/data-pipelines-with-polars-step-by-step-guide-f5474accacc4) - A tutorial that explains how to build data pipelines with Polars by [@AntonsRuberts](https://github.com/AntonsRuberts). Code used is available on Github [here (⭐60)](https://github.com/aruberts/tutorials/tree/main/polars).
 
 ### Resources / Blog posts
 
@@ -500,33 +465,23 @@
 *   [Eitsupi (@eitsupi)](https://github.com/eitsupi) - Contributor to R Polars project
 *   [Etienne Bacher (@etiennebacher)](https://github.com/etiennebacher) - Contributor to R Polars project
 
-## [38. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
+## [37. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
 
 ### Adminhtml / Backend
 
-*   [Disable Stock Reservation (⭐209)](https://github.com/AmpersandHQ/magento2-disable-stock-reservation) - This module disables the inventory reservation logic introduced as part of MSI in Magento 2.3.3.
+*   [Disable Stock Reservation (⭐219)](https://github.com/AmpersandHQ/magento2-disable-stock-reservation) - This module disables the inventory reservation logic introduced as part of MSI in Magento 2.3.3.
 
-## [39. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
-
-### Nodes & Consensus Participation / Wallets
-
-*   [AlloCTRL (⭐13)](https://github.com/AlgoNode/alloctrl) - A simple, open source, dashboard to help managing your node and participation keys safely, from your local machine.
-
-### Projects / Wallets
-
-*   [GoPlausible](https://github.com/GoPlausible) - Proof of anything protocol, built on Algorand. [Create or claim your first PLAUS on Algorand!](https://goplausible.com).
-
-## [40. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [38. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Deployment Hosting
 
 *   [Zeabur](https://zeabur.com/) - One click deployment for frontend, backend and databases services.
 
-## [41. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [39. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Concepts / Theory of Concepts
 
-*   [Similarity involving attributes and relations: Judgments of similarity and difference are not inverses](https://groups.psych.northwestern.edu/gentner/newpdfpapers/MedinGoldstoneGentner90.pdf) - ***Psychological Science***, 1990. \[[All Versions](https://scholar.google.com/scholar?cluster=13205938250772079784\&hl=en\&as_sdt=0,5)]. Theory on similarity judgement by attributes and relations.
+*   [Similarity involving attributes and relations: Judgments of similarity and difference are not inverses](https://groups.psych.northwestern.edu/gentner/newpdfpapers/MedinGoldstoneGentner90.pdf) - ***Psychological Science***, 1990. \[[All Versions](https://scholar.google.com/scholar?cluster=13205938250772079784)]. Theory on similarity judgement by attributes and relations.
 
 ### Meta-Level Considerations / The Aha! Moment
 
@@ -536,18 +491,18 @@
 
 *   [A Computational Inflection for Scientific Discovery](https://dl.acm.org/doi/abs/10.1145/3576896) - ***Communications of the ACM***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=1756108647531090189\&hl=en\&as_sdt=0,5)].
 
-## [42. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
+## [40. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
 ### Conferences / Games
 
 *   [Elm Camp](https://elm.camp/)
 
-## [43. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [41. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Tools / Community providers
 
-*   [tfmake (⭐16)](https://github.com/tfmake/tfmake) - Automating Terraform with the power of make.
-*   [tftui (⭐987)](https://github.com/idoavrah/terraform-tui) - A textual user interface for Terraform state.
+*   [tfmake (⭐22)](https://github.com/tfmake/tfmake) - Automating Terraform with the power of make.
+*   [tftui (⭐1k)](https://github.com/idoavrah/terraform-tui) - A textual user interface for Terraform state.
 
 ---
 

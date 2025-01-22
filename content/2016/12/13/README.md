@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 13, 2016
 
-8 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -22,13 +22,7 @@
 
 *   [Stacer (⭐8.8k)](https://github.com/oguzhaninan/Stacer) - Ubuntu system optimizer.
 
-## [3. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
-
-### Research and Analysis / Wealth
-
-*   [GenetiConcept](https://geneticoncept.com) - Genetic testing for health, drug interactions, fitness and nutrition.
-
-## [4. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
+## [3. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
 
 ### ReactJS
 
@@ -40,29 +34,29 @@
 
 
 
-## [5. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
+## [4. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 
 ### Blogs
 
 *   [Foobar Tech](https://foobar123.com/@marciavillalba) - Blog about serverless architectures and programming in general.
 
-## [6. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
+## [5. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
 
 ### Other Useful Repositories
 
-- Repository: [Infosec Getting Started (⭐585)](https://github.com/gradiuscypher/infosec_getting_started)
+- Repository: [Infosec Getting Started (⭐592)](https://github.com/gradiuscypher/infosec_getting_started)
 
   Description: A collection of resources, documentation, links, etc to help people learn about Infosec
 
 
 
-## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Tutorials
 
 *   [Real-time Grid Component Laravel, Vue.js, Vuex & Socket.io](https://www.youtube.com/watch?v=Jxefsv5Zqkw\&t=3s)
 
-## [8. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [7. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Misc
 

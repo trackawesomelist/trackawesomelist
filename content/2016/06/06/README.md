@@ -36,8 +36,8 @@
 
 ### Related awesome lists
 
-*   [Awesome Deep Vision (⭐10k)](https://github.com/kjw0612/awesome-deep-vision)
-*   [Awesome Reinforcement Learning (⭐7.9k)](https://github.com/aikorea/awesome-rl/)
+*   [Awesome Deep Vision (⭐11k)](https://github.com/kjw0612/awesome-deep-vision)
+*   [Awesome Reinforcement Learning (⭐8.8k)](https://github.com/aikorea/awesome-rl/)
 
 ## [5. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/README.md)
 

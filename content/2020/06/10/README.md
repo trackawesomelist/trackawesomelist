@@ -29,13 +29,13 @@
 
 ### Templates / Preferences
 
-*   [Smart Washing Machine (⭐873)](https://github.com/pawlik92/flutter_whirlpool) <!--stargazers:pawlik92/flutter_whirlpool--> - Smart washing machine UI challenge app with Box2D physic engine by [Tomasz Pawlikowski](https://github.com/pawlik92)
+*   [Smart Washing Machine (⭐882)](https://github.com/pawlik92/flutter_whirlpool) <!--stargazers:pawlik92/flutter_whirlpool--> - Smart washing machine UI challenge app with Box2D physic engine by [Tomasz Pawlikowski](https://github.com/pawlik92)
 
 ## [5. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
 ### Collection of Actions / Docker Container Actions
 
-*   [Use HashiCorp's Terraform (⭐849)](https://github.com/hashicorp/setup-terraform)
+*   [Use HashiCorp's Terraform (⭐1.3k)](https://github.com/hashicorp/setup-terraform)
 
 ## [6. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
@@ -53,7 +53,7 @@
 
 ### Applications
 
-*   [wezterm (⭐16k)](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer
+*   [wezterm (⭐19k)](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer
 
 ## [9. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
 
@@ -97,11 +97,11 @@
 
 ### Framework Components
 
-*   [Athena Event Dispatcher (⭐13)](https://github.com/athena-framework/event-dispatcher) - A Mediator and Observer pattern event library
+*   [Athena Event Dispatcher (⭐14)](https://github.com/athena-framework/event-dispatcher) - A Mediator and Observer pattern event library
 
 ### Web Frameworks
 
-*   [Athena (⭐207)](https://github.com/athena-framework/athena) - A web framework comprised of reusable, independent components
+*   [Athena (⭐213)](https://github.com/athena-framework/athena) - A web framework comprised of reusable, independent components
 
 ## [12. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 

@@ -26,11 +26,10 @@
 
 ## [3. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
-### Writing, running scripts / Third-party APIs
+### Running scripts / Third-party APIs
 
-*   👍 [Roswell (⭐1.8k)](https://github.com/roswell/roswell#scripting-with-roswell) -
-    a lisp installer and scripting environment (helper, launcher,
-    installer) and more. [MIT](https://opensource.org/licenses/MIT).
+*   👍 [Roswell (⭐1.8k)](https://github.com/roswell/roswell#scripting-with-roswell) - a script installer and launcher, that makes it easy to distribute Lisp scripts and programs. [MIT](https://opensource.org/licenses/MIT).
+    *   *compiles a binary under the hood*
 
 ## [4. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/README.md)
 
@@ -50,7 +49,7 @@
 ### Example Projects
 
 *   [Red Hat Single Sign-On Labs (⭐13)](https://github.com/RedHatWorkshops/red-hat-sso)
-*   [Spring Boot Keycloak Tutorial (⭐201)](https://github.com/sebastienblanc/spring-boot-keycloak-tutorial)
+*   [Spring Boot Keycloak Tutorial (⭐202)](https://github.com/sebastienblanc/spring-boot-keycloak-tutorial)
 
 ## [7. Inspire](/content/noahbuscher/inspire/README.md)
 

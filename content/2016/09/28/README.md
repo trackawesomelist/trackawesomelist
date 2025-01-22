@@ -56,7 +56,7 @@ A portable public domain password hashing framework for use in PHP applications.
 
 ### Instrumenting / Monitoring
 
-*   [prometheus.ex (⭐405)](https://github.com/deadtrickster/prometheus.ex) - Elixir-friendly [Prometheus.io](https://prometheus.io) monitoring system and time series database client.
+*   [prometheus.ex (⭐413)](https://github.com/deadtrickster/prometheus.ex) - Elixir-friendly [Prometheus.io](https://prometheus.io) monitoring system and time series database client.
 
 ## [5. Tips](/content/git-tips/tips/README.md)
 
@@ -114,7 +114,7 @@ git merge-base <branch-name> <other-branch-name>
 
 ### Data Manipulation
 
-*   [tidyverse (⭐1.6k)](https://github.com/hadley/tidyverse) - Easily install and load packages from the tidyverse.
+*   [tidyverse (⭐1.7k)](https://github.com/hadley/tidyverse) - Easily install and load packages from the tidyverse.
 
 ### Parallel Computing
 
@@ -148,7 +148,7 @@ git merge-base <branch-name> <other-branch-name>
 
 ### Development Projects / Apps
 
-*   [Shuffle-Move (⭐92)](https://github.com/Loreinator/Shuffle-Move) - A program to identify and display the best next move for the game Pokémon Shuffle.
+*   [Shuffle-Move (⭐97)](https://github.com/Loreinator/Shuffle-Move) - A program to identify and display the best next move for the game Pokémon Shuffle.
 
 ## [14. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md)
 

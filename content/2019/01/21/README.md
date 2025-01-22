@@ -24,7 +24,7 @@
 
 ### Front-End Development
 
-*   [Aurelia (⭐308)](https://github.com/aurelia-contrib/awesome-aurelia#readme) - App framework.
+*   [Aurelia (⭐309)](https://github.com/aurelia-contrib/awesome-aurelia#readme) - App framework.
 
 ### Entertainment
 
@@ -32,7 +32,7 @@
 
 ### Hardware
 
-*   [Electronics (⭐5.7k)](https://github.com/kitspace/awesome-electronics#readme) - For electronic engineers and hobbyists.
+*   [Electronics (⭐6k)](https://github.com/kitspace/awesome-electronics#readme) - For electronic engineers and hobbyists.
 
 ## [3. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
 
@@ -71,7 +71,7 @@
 
 ### Boilerplates
 
-*   [iOS project template (⭐398)](https://github.com/messeb/ios-project-template) - iOS project template with fastlane lanes, Travis CI jobs and GitHub integrations of Codecov, HoundCI for SwiftLint and Danger.
+*   [iOS project template (⭐399)](https://github.com/messeb/ios-project-template) - iOS project template with fastlane lanes, Travis CI jobs and GitHub integrations of Codecov, HoundCI for SwiftLint and Danger.
 
 ### Events
 
@@ -154,9 +154,9 @@
 
 ### Apps / Misc
 
-*   [Wagtail Cache (⭐82)](https://github.com/coderedcorp/wagtail-cache) - A simple page cache for Wagtail using the Django cache middleware.
+*   [Wagtail Cache (⭐86)](https://github.com/coderedcorp/wagtail-cache) - A simple page cache for Wagtail using the Django cache middleware.
 *   [Wagtail GraphQL (⭐38)](https://github.com/tr11/wagtail-graphql) - App to automatically add GraphQL support to a Wagtail website.
-*   [Wagtail Orderable (⭐64)](https://github.com/elton2048/wagtail-orderable) - Mixin support for drag-and-drop ordering in admin panel.
+*   [Wagtail Orderable (⭐65)](https://github.com/elton2048/wagtail-orderable) - Mixin support for drag-and-drop ordering in admin panel.
 
 ### Resources / Getting started
 

@@ -11,25 +11,25 @@
 ### Game Development
 
 *   [Ebitengine (⭐11k)](https://github.com/hajimehoshi/ebiten) - dead simple 2D game engine in Go.
-*   [fantasyname (⭐33)](https://github.com/s0rg/fantasyname) - Fantasy names generator.
+*   [fantasyname (⭐34)](https://github.com/s0rg/fantasyname) - Fantasy names generator.
 
 ### Logging
 
-*   [xylog (⭐16)](https://github.com/xybor-x/xylog) - Leveled and structured logging, dynamic fields, high performance, zone management, simple configuration, and readable syntax.
+*   [xylog (⭐17)](https://github.com/xybor-x/xylog) - Leveled and structured logging, dynamic fields, high performance, zone management, simple configuration, and readable syntax.
 
 ### Package Management
 
-*   [gup (⭐308)](https://github.com/nao1215/gup) - Update binaries installed by "go install".
+*   [gup (⭐373)](https://github.com/nao1215/gup) - Update binaries installed by "go install".
 
 ### Third-party APIs
 
-*   [go-restcountries (⭐4)](https://github.com/chriscross0/go-restcountries) - Go library for the [REST Countries API](https://countrylayer.com/).
+*   [go-restcountries (⭐3)](https://github.com/chriscross0/go-restcountries) - Go library for the [REST Countries API](https://countrylayer.com/).
 
 ## [2. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [fd-plugin (⭐6)](https://github.com/MohamedElashri/fd-zsh) - Adds aliases for [fd (⭐33k)](https://github.com/sharkdp/fd), a modern replacement for `find`.
+*   [fd-plugin (⭐8)](https://github.com/MohamedElashri/fd-zsh) - Adds aliases for [fd (⭐35k)](https://github.com/sharkdp/fd), a modern replacement for `find`.
 
 ## [3. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
@@ -55,12 +55,11 @@
 
 ### Software / Communication - Social Networks and Forums
 
-*   [kbin](https://kbin.pub/) - Federated content aggregator and microblogging platform. ([Source Code (⭐769)](https://github.com/ernestwisniewski/kbin)) `AGPL-3.0` `PHP/Nodejs/Docker`
-*   [qpixel](https://codidact.com/) - Q\&A-based community knowledge-sharing software. ([Source Code (⭐382)](https://github.com/codidact/qpixel)) `AGPL-3.0` `Ruby`
+*   [qpixel](https://codidact.com/) - Q\&A-based community knowledge-sharing software. ([Source Code (⭐398)](https://github.com/codidact/qpixel)) `AGPL-3.0` `Ruby`
 
 ### Software / Software Development - Project Management
 
-*   [Gerrit](https://www.gerritcodereview.com/) - A code review and project management tool for Git based projects. ([Source Code (⭐943)](https://github.com/GerritCodeReview/gerrit)) `Apache-2.0` `Java/Docker`
+*   [Gerrit](https://www.gerritcodereview.com/) - A code review and project management tool for Git based projects. ([Source Code (⭐998)](https://github.com/GerritCodeReview/gerrit)) `Apache-2.0` `Java/Docker`
 
 ## [7. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 
@@ -81,11 +80,11 @@
 
 ### File Management and Sharing
 
-*   [Paperless-ngx (⭐19k)](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless based on paperless-ng
+*   [Paperless-ngx (⭐24k)](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless based on paperless-ng
 
 ### Quora
 
-*   [Quetre (⭐427)](https://github.com/zyachel/quetre) - Quetre is an alternative front-end to Quora. It enables you to see answers without ads, trackers, and other such bloat.
+*   [Quetre (⭐446)](https://github.com/zyachel/quetre) - Quetre is an alternative front-end to Quora. It enables you to see answers without ads, trackers, and other such bloat.
 
 ## [9. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
 

@@ -16,11 +16,11 @@
 
 ### (requires Neovim 0.5)
 
-*   [aznhe21/actions-preview.nvim (⭐371)](https://github.com/aznhe21/actions-preview.nvim) - Fully customizable previewer for LSP code actions.
+*   [aznhe21/actions-preview.nvim (⭐421)](https://github.com/aznhe21/actions-preview.nvim) - Fully customizable previewer for LSP code actions.
 
 ### Keybinding / Diagnostics
 
-*   [echasnovski/mini.nvim#mini.clue (⭐4.7k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-clue.md) - Module of `mini.nvim` to show next key clues. Has opt-in triggers, shows next key information after customizable delay, allows hydra-like submodes, and more.
+*   [echasnovski/mini.nvim#mini.clue (⭐6.2k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-clue.md) - Module of `mini.nvim` to show next key clues. Has opt-in triggers, shows next key information after customizable delay, allows hydra-like submodes, and more.
 
 ## [3. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
@@ -46,7 +46,7 @@
 ### UI Libraries, Components & Templates
 
 *   🧩 [TailwindFlex](https://tailwindflex.com) - Free library of Tailwind CSS examples.
-*   📁 [Astro Template Cactus (⭐809)](https://github.com/chrismwilliams/astro-theme-cactus) - Tailwind CSS Astro starter template.
+*   📁 [Astro Template Cactus (⭐1k)](https://github.com/chrismwilliams/astro-theme-cactus) - Tailwind CSS Astro starter template.
 
 ## [7. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 

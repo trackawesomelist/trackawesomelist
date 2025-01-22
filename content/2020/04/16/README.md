@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 16, 2020
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -22,8 +22,8 @@
 
 ### Build / Terraform
 
-*   [Setup Brainfuck (⭐1)](https://github.com/fabasoad/setup-brainfuck-action) - Setup brainfuck interpreter.
-*   [Setup COBOL (⭐13)](https://github.com/fabasoad/setup-cobol-action)
+*   [Setup Brainfuck (⭐2)](https://github.com/fabasoad/setup-brainfuck-action) - Setup brainfuck interpreter.
+*   [Setup COBOL (⭐12)](https://github.com/fabasoad/setup-cobol-action)
 
 ### Tutorials / Terraform
 
@@ -77,13 +77,7 @@
 
 *   [FeedDemon](http://www.feeddemon.com/) ![Windows](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-windows-10-16.png)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
-## [8. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
-
-### Email
-
-*   [EmailQueue plugin (⭐56)](https://github.com/lorenzo/cakephp-email-queue) - Email queue plugin with a preview and sender shell.
-
-## [9. Awesome Audiovisual](/content/stingalleman/awesome-audiovisual/README.md)
+## [8. Awesome Audiovisual](/content/stingalleman/awesome-audiovisual/README.md)
 
 ### Audio / Audio Software
 
@@ -93,7 +87,7 @@
 
 *   [QLab Cookbook](https://qlab.app/cookbook/) - The cookbook is a collection of projects, examples, and experiments using a broad range of QLab programming techniques including AppleScript, OSC, external control using QLab Remote, third-party MIDI and OSC controllers, and other software.
 
-## [10. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [9. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Resource Planning
 

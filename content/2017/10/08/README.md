@@ -68,7 +68,7 @@
 
 ### Libraries and Tools / Python
 
-*   [Python-OBD (⭐966)](https://github.com/brendan-w/python-OBD) - A Python module for handling realtime sensor data from OBD-II vehicle ports. Works with ELM327 OBD-II adapters, and is fit for the Raspberry Pi.
+*   [Python-OBD (⭐1.1k)](https://github.com/brendan-w/python-OBD) - A Python module for handling realtime sensor data from OBD-II vehicle ports. Works with ELM327 OBD-II adapters, and is fit for the Raspberry Pi.
 
 ## [8. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 

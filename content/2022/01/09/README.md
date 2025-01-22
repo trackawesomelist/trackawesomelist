@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 09, 2022
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -36,7 +36,7 @@
 
 ### General Machine Learning Packages / Deep Learning architectures
 
-*   [Deepchecks (⭐3.5k)](https://github.com/deepchecks/deepchecks)
+*   [Deepchecks (⭐3.7k)](https://github.com/deepchecks/deepchecks)
 
 ## [6. Awesome Roadmaps](/content/liuchong/awesome-roadmaps/README.md)
 
@@ -77,13 +77,7 @@
 *   [UI/UX Designer Roadmap (⭐2.1k)](https://github.com/togiberlin/ui-ux-designer-roadmap) - Roadmap on becoming a UI/UX designer in 2017 [<img src="https://img.shields.io/badge/Roadmap-2017-yellow.svg">](https://github.com/togiberlin/ui-ux-designer-roadmap).
 *   [University Degree Roadmap (⭐95)](https://github.com/nietsymerej/collecobrary) - Roadmap for taking online university courses in various degree subjects [<img src="https://img.shields.io/badge/Roadmap-2021-green.svg">](https://github.com/nietsymerej/collecobrary).
 
-## [7. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
-
-### Bayesian Modeling / Generative Model
-
-*   [Minimax entropy principle and its application to texture modeling](https://www.dam.brown.edu/people/mumford/vision/papers/1997e--MinimaxEntropy-NC.pdf) - ***Neural Computing***, 1997. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=407872717119429940)].
-
-## [8. Awesome Dart](/content/yissachar/awesome-dart/README.md)
+## [7. Awesome Dart](/content/yissachar/awesome-dart/README.md)
 
 ### Utilities
 
@@ -93,7 +87,7 @@
 
 *   [Lakos](https://pub.dev/packages/lakos) - Visualize internal library dependencies in Graphviz and detect dependency cycles.
 
-## [9. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+## [8. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### Community / Community Chat Rooms
 

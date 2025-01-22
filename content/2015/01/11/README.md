@@ -37,7 +37,7 @@
 
 ### Styling / Sass
 
-*   [Principles of writing idiomatic Sass (⭐230)](https://github.com/anthonyshort/idiomatic-sass#readme)
+*   [Principles of writing idiomatic Sass (⭐228)](https://github.com/anthonyshort/idiomatic-sass#readme)
 
 ### Markup / HTML
 
@@ -47,7 +47,7 @@
 
 ### Automation
 
-*   [Huginn (⭐43k)](https://github.com/cantino/huginn) - Huginn is a system for building agents that perform automated tasks for you online.
+*   [Huginn (⭐44k)](https://github.com/cantino/huginn) - Huginn is a system for building agents that perform automated tasks for you online.
 
 ### ORM/ODM
 

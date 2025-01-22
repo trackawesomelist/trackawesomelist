@@ -1,31 +1,25 @@
 # Awesome List Updates on Mar 06, 2019
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
-
-### Tools / Communication
-
-*   [TeamHub](https://teamhub.app/) — Realtime status and progress reporting directly inside your IDE
-
-## [2. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/README.md)
+## [1. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/README.md)
 
 ### Articles
 
 *   [A Programmers Guide To Stress](http://codingmindfully.com/a-programmers-guide-to-stress/) - By Daragh Byrne.
 *   [How I Beat Impostor Syndrome And Stopped Feeling Like A Fake](http://codingmindfully.com/how-i-beat-impostor-syndrome/) - By Daragh Byrne.
 
-## [3. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
+## [2. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Productivity / HTTP Client
 
 *   [NeoMutt](https://neomutt.org) - Email client.
 
-## [4. Awesome Ruby](/content/markets/awesome-ruby/README.md)
+## [3. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### CLI Utilities
 
@@ -33,29 +27,29 @@
 
 ### Cryptocurrencies and Blockchains
 
-*   [Peatio (⭐45)](https://github.com/rubykube/peatio) - Most Advanced Cryptocurrency open-source assets exchange.
+*   [Peatio (⭐49)](https://github.com/rubykube/peatio) - Most Advanced Cryptocurrency open-source assets exchange.
 
 ### HTTP Clients and tools
 
-*   [Sniffer (⭐569)](https://github.com/aderyabin/sniffer) – Tool to log and debug outgoing HTTP requests across multiple ruby libraries.
+*   [Sniffer (⭐575)](https://github.com/aderyabin/sniffer) – Tool to log and debug outgoing HTTP requests across multiple ruby libraries.
 
 ### Social Networking
 
-*   [Decidim (⭐1.4k)](https://github.com/decidim/decidim) - free open-source participatory democracy for cities and organizations
+*   [Decidim (⭐1.5k)](https://github.com/decidim/decidim) - free open-source participatory democracy for cities and organizations
 
-## [5. Awesome Actions](/content/sdras/awesome-actions/README.md)
+## [4. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
 ### Notifications and Messages / Code Coverage
 
-*   [Collaborate on tweets using pull requests (⭐0)](https://github.com/gr2m/twitter-together)
+*   [Collaborate on tweets using pull requests (⭐4)](https://github.com/gr2m/twitter-together)
 
-## [6. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
+## [5. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
 ### Plugins
 
-*   [extrakto (⭐841)](https://github.com/laktak/extrakto) tmux clipboard copy and output completions
+*   [extrakto (⭐910)](https://github.com/laktak/extrakto) tmux clipboard copy and output completions
 
-## [7. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
+## [6. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
 
 ### Software / Audio
 
@@ -71,19 +65,19 @@
 *   [GNU social](https://gnu.io/social/) -  Microblogging server written in PHP. ([GNU GPLv3](https://git.gnu.io/gnu/gnu-social/blob/master/COPYING))
 *   [Wallabag](https://wallabag.org/en) - Save and classify articles. Read them later. Freely. ([MIT (⭐8.6k)](https://github.com/wallabag/wallabag/blob/master/COPYING.md))
 
-## [8. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
+## [7. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### UI / List
 
-*   [Reorderables (⭐716)](https://github.com/hanshengchiu/reorderables) <!--stargazers:hanshengchiu/reorderables--> - Drag\&Drop Table, Row, Column, Wrap(Grid) and SliverList elements by [Hansheng Chiu](https://github.com/hanshengchiu).
+*   [Reorderables (⭐741)](https://github.com/hanshengchiu/reorderables) <!--stargazers:hanshengchiu/reorderables--> - Drag\&Drop Table, Row, Column, Wrap(Grid) and SliverList elements by [Hansheng Chiu](https://github.com/hanshengchiu).
 
-## [9. Awesome React Native](/content/jondot/awesome-react-native/README.md)
+## [8. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
 ### Howtos
 
 *   [Using React Native With TypeScript](https://medium.com/@jan.hesters/using-typescript-with-react-native-946aa4b4ae6f)
 
-## [10. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
+## [9. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 
 ### Malware Collection / Honeypots
 
@@ -110,7 +104,7 @@
 *   [Malware Search+++](https://addons.mozilla.org/fr/firefox/addon/malware-search-plusplusplus/) Firefox extension allows
     you to easily search some of the most popular malware databases
 
-## [11. Awesome Vscode](/content/viatsko/awesome-vscode/README.md)
+## [10. Awesome Vscode](/content/viatsko/awesome-vscode/README.md)
 
 ### Tools / [Gradle Tasks](https://marketplace.visualstudio.com/items?itemName=richardwillis.vscode-gradle)
 

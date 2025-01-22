@@ -56,7 +56,7 @@
 
 ### C++ / Natural Language Processing
 
-*   [MeTA (⭐689)](https://github.com/meta-toolkit/meta) - [MeTA : ModErn Text Analysis](https://meta-toolkit.org/) is a C++ Data Sciences Toolkit that facilitates mining big text data.
+*   [MeTA (⭐698)](https://github.com/meta-toolkit/meta) - [MeTA : ModErn Text Analysis](https://meta-toolkit.org/) is a C++ Data Sciences Toolkit that facilitates mining big text data.
 
 ## [7. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 

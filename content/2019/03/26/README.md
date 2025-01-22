@@ -10,7 +10,7 @@
 
 ### GUI
 
-*   [AdonisUI (⭐1.7k)](https://github.com/benruehl/adonis-ui) - Lightweight UI toolkit for WPF applications offering classic but enhanced Windows visuals.
+*   [AdonisUI (⭐1.8k)](https://github.com/benruehl/adonis-ui) - Lightweight UI toolkit for WPF applications offering classic but enhanced Windows visuals.
 
 ## [2. Awesome Educational Games](/content/yrgo/awesome-educational-games/README.md)
 
@@ -22,15 +22,15 @@
 
 ### Networking
 
-*   [WAFer (⭐692)](https://github.com/riolet/WAFer) - A C language-based ultra-light software platform for scalable server-side and networking applications. Think node.js for C programmers. \[GPL2]
+*   [WAFer (⭐693)](https://github.com/riolet/WAFer) - A C language-based ultra-light software platform for scalable server-side and networking applications. Think node.js for C programmers. \[GPL2]
 
 ### Reflection
 
-*   [Better Enums (⭐1.6k)](https://github.com/aantron/better-enums) - Reflective enums (to string, iteration). Single header. \[BSD] [website](http://aantron.github.io/better-enums/)
-*   [CPFG (⭐220)](https://github.com/cpgf/cpgf) - A C++03 library for reflection, callback and script binding. \[Apache2]
-*   [CPP-Reflection (⭐654)](https://github.com/AustinBrunkhorst/CPP-Reflection) - C++ Reflection using clang. \[MIT]
-*   [Ponder (⭐639)](https://github.com/billyquith/ponder) - A C++11 library for reflection. \[MIT]
-*   [RTTR (⭐3.1k)](https://github.com/rttrorg/rttr) - A C++11 library for reflection. \[MIT] [website](http://www.rttr.org)
+*   [Better Enums (⭐1.7k)](https://github.com/aantron/better-enums) - Reflective enums (to string, iteration). Single header. \[BSD] [website](http://aantron.github.io/better-enums/)
+*   [CPFG (⭐221)](https://github.com/cpgf/cpgf) - A C++03 library for reflection, callback and script binding. \[Apache2]
+*   [CPP-Reflection (⭐677)](https://github.com/AustinBrunkhorst/CPP-Reflection) - C++ Reflection using clang. \[MIT]
+*   [Ponder (⭐653)](https://github.com/billyquith/ponder) - A C++11 library for reflection. \[MIT]
+*   [RTTR (⭐3.2k)](https://github.com/rttrorg/rttr) - A C++11 library for reflection. \[MIT] [website](http://www.rttr.org)
 
 ### Static Code Analysis
 

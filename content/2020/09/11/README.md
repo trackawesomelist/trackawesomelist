@@ -46,9 +46,9 @@
 ### Python / General-Purpose Machine Learning
 
 *   [ML/DL project template (⭐1.2k)](https://github.com/PyTorchLightning/deep-learning-project-template)
-*   [PyTorch Lightning (⭐28k)](https://github.com/PyTorchLightning/pytorch-lightning) - The lightweight PyTorch wrapper for high-performance AI research.
+*   [PyTorch Lightning (⭐29k)](https://github.com/PyTorchLightning/pytorch-lightning) - The lightweight PyTorch wrapper for high-performance AI research.
 *   [PyTorch Lightning Bolts (⭐1.7k)](https://github.com/PyTorchLightning/pytorch-lightning-bolts) - Toolbox of models, callbacks, and datasets for AI/ML researchers.
-*   [Determined (⭐3k)](https://github.com/determined-ai/determined) - Scalable deep learning training platform, including integrated support for distributed training, hyperparameter tuning, experiment tracking, and model management.
+*   [Determined (⭐3.1k)](https://github.com/determined-ai/determined) - Scalable deep learning training platform, including integrated support for distributed training, hyperparameter tuning, experiment tracking, and model management.
 
 ## [6. Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md)
 

@@ -76,35 +76,35 @@ Language: English, čeština, español, русский, Deutsch, 中文频道, N
 
 ### Libraries / Task scheduling
 
-*   [delay-timer (⭐303)](https://github.com/BinChengZhao/delay-timer) - Time-manager of delayed tasks. Like crontab, but asynchronous tasks are possible. [![Build](https://github.com/BinChengZhao/delay-timer/actions/workflows/rust.yml/badge.svg)](https://github.com/BinChengZhao/delay-timer/actions)
+*   [delay-timer (⭐321)](https://github.com/BinChengZhao/delay-timer) - Time-manager of delayed tasks. Like crontab, but asynchronous tasks are possible. [![Build](https://github.com/BinChengZhao/delay-timer/actions/workflows/rust.yml/badge.svg)](https://github.com/BinChengZhao/delay-timer/actions)
 
 ## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### (requires Neovim 0.5)
 
-*   [nvim-lua/lsp-status.nvim (⭐621)](https://github.com/nvim-lua/lsp-status.nvim) - This is a plugin/library for generating statusline components from the built-in LSP client.
-*   [RishabhRD/nvim-lsputils (⭐455)](https://github.com/RishabhRD/nvim-lsputils) - Better defaults for nvim-lsp actions.
-*   [kosayoda/nvim-lightbulb (⭐768)](https://github.com/kosayoda/nvim-lightbulb) - The plugin shows a lightbulb in the sign column whenever a `textDocument/codeAction` is available at the current cursor position.
+*   [nvim-lua/lsp-status.nvim (⭐636)](https://github.com/nvim-lua/lsp-status.nvim) - This is a plugin/library for generating statusline components from the built-in LSP client.
+*   [RishabhRD/nvim-lsputils (⭐462)](https://github.com/RishabhRD/nvim-lsputils) - Better defaults for nvim-lsp actions.
+*   [kosayoda/nvim-lightbulb (⭐831)](https://github.com/kosayoda/nvim-lightbulb) - The plugin shows a lightbulb in the sign column whenever a `textDocument/codeAction` is available at the current cursor position.
 
 ### (requires Neovim 0.5) / LSP Installer
 
-*   [anott03/nvim-lspinstall (⭐86)](https://github.com/anott03/nvim-lspinstall) - Easy to install language servers.
-*   [alexaandru/nvim-lspupdate (⭐91)](https://github.com/alexaandru/nvim-lspupdate) - Updates installed (or auto installs if missing) LSP servers.
+*   [anott03/nvim-lspinstall (⭐88)](https://github.com/anott03/nvim-lspinstall) - Easy to install language servers.
+*   [alexaandru/nvim-lspupdate (⭐92)](https://github.com/alexaandru/nvim-lspupdate) - Updates installed (or auto installs if missing) LSP servers.
 
 ### Fuzzy Finder / Diagnostics
 
-*   [vijaymarupudi/nvim-fzf (⭐331)](https://github.com/vijaymarupudi/nvim-fzf) - A Lua API for using FZF (Neovim >= 0.5). Allows for full asynchronicity for UI speed and usability.
+*   [vijaymarupudi/nvim-fzf (⭐345)](https://github.com/vijaymarupudi/nvim-fzf) - A Lua API for using FZF (Neovim >= 0.5). Allows for full asynchronicity for UI speed and usability.
 
 ### Editing Support / Diagnostics
 
-*   [windwp/nvim-autopairs (⭐3.1k)](https://github.com/windwp/nvim-autopairs) - A minimalist autopairs written by Lua.
-*   [monaqa/dial.nvim (⭐780)](https://github.com/monaqa/dial.nvim) - Extended increment/decrement.
+*   [windwp/nvim-autopairs (⭐3.4k)](https://github.com/windwp/nvim-autopairs) - A minimalist autopairs written by Lua.
+*   [monaqa/dial.nvim (⭐851)](https://github.com/monaqa/dial.nvim) - Extended increment/decrement.
 
 ## [6. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / Shopping
 
-*   [Yumniastic Food Shop App (⭐32)](https://github.com/1hanzla100/flutter-yumniastic) - Online food delivery service app and Django API by [1hanzla100](https://github.com/1hanzla100/).
+*   [Yumniastic Food Shop App (⭐34)](https://github.com/1hanzla100/flutter-yumniastic) - Online food delivery service app and Django API by [1hanzla100](https://github.com/1hanzla100/).
 
 ## [7. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
@@ -117,7 +117,7 @@ Language: English, čeština, español, русский, Deutsch, 中文频道, N
 
 ### Documentation / Symfony2
 
-*   [Optic (⭐1.3k)](https://github.com/opticdev/optic) - Maintain an accurate API specification without writing OpenAPI/Swagger. Works with any Stack
+*   [Optic (⭐1.4k)](https://github.com/opticdev/optic) - Maintain an accurate API specification without writing OpenAPI/Swagger. Works with any Stack
 
 ## [9. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
@@ -135,17 +135,17 @@ Language: English, čeština, español, русский, Deutsch, 中文频道, N
 
 ### 3D
 
-*   [g3d (⭐539)](https://github.com/groverburger/g3d) - Simple and easy 3D engine for LÖVE.
+*   [g3d (⭐590)](https://github.com/groverburger/g3d) - Simple and easy 3D engine for LÖVE.
 
 ### Input
 
-*   [input (⭐3)](https://github.com/xiejiangzhi/input) -  Simple and powerful input library. support check operation time, sequence.
+*   [input (⭐4)](https://github.com/xiejiangzhi/input) -  Simple and powerful input library. support check operation time, sequence.
 
 ## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / Utilities
 
-*   [vite-svg-loader (⭐571)](https://github.com/jpkleemans/vite-svg-loader) - Vite plugin to load SVG files as Vue components
+*   [vite-svg-loader (⭐613)](https://github.com/jpkleemans/vite-svg-loader) - Vite plugin to load SVG files as Vue components
 
 ## [13. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 

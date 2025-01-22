@@ -10,7 +10,7 @@
 
 ### Packages / Debugging / Profiling
 
-*   [njsTrace (⭐364)](https://github.com/valyouw/njstrace) - Instrument and trace your code, see all function calls, arguments, return values, as well as the time spent in each function.
+*   [njsTrace (⭐368)](https://github.com/valyouw/njstrace) - Instrument and trace your code, see all function calls, arguments, return values, as well as the time spent in each function.
 
 ---
 

@@ -10,7 +10,7 @@
 
 ### Development tools / Web Servers
 
-*   [comtrya (⭐480)](https://github.com/comtrya/comtrya) - A configuration management tool for localhost / dotfiles [![build badge](https://github.com/comtrya/comtrya/actions/workflows/main.yaml/badge.svg)](https://github.com/comtrya/comtrya/actions)
+*   [comtrya (⭐530)](https://github.com/comtrya/comtrya) - A configuration management tool for localhost / dotfiles [![build badge](https://github.com/comtrya/comtrya/actions/workflows/main.yaml/badge.svg)](https://github.com/comtrya/comtrya/actions)
 
 ## [2. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
 
@@ -22,7 +22,7 @@
 
 ### Showcases / XML
 
-*   [Edrys (⭐295)](https://github.com/edrys-org/edrys) - Remote Teaching Software
+*   [Edrys (⭐296)](https://github.com/edrys-org/edrys) - Remote Teaching Software
 
 ## [4. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
@@ -57,7 +57,7 @@
 
 ### Mathematical Physics / Stochastic processes
 
-*   [Theoretical Computer Science (⭐640)](https://github.com/mostafatouny/awesome-theoretical-computer-science)
+*   [Theoretical Computer Science (⭐794)](https://github.com/mostafatouny/awesome-theoretical-computer-science)
 
 ## [7. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
@@ -69,7 +69,7 @@
 
 ### GTFS Realtime Libraries & Demo Apps / Ruby
 
-*   [GTFS-realtime Vehicle Positions Consumer/Visualizer Demo (⭐56)](https://github.com/OneBusAway/onebusaway-gtfs-realtime-visualizer) - A Java-based demo project for consuming a GTFS-realtime Vehicle Positions feed and displaying this info on a map.
+*   [GTFS-realtime Vehicle Positions Consumer/Visualizer Demo (⭐60)](https://github.com/OneBusAway/onebusaway-gtfs-realtime-visualizer) - A Java-based demo project for consuming a GTFS-realtime Vehicle Positions feed and displaying this info on a map.
 
 ## [9. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/README.md)
 
@@ -89,35 +89,34 @@
 
 ### Table of Contents / Data Pipeline
 
-*   [Redpanda (⭐9.3k)](https://github.com/redpanda-data/redpanda) \[C++] - Redpanda is Kafka compatible, ZooKeeper-free, JVM-free and source available.
+*   [Redpanda (⭐9.8k)](https://github.com/redpanda-data/redpanda) \[C++] - Redpanda is Kafka compatible, ZooKeeper-free, JVM-free and source available.
 
 ## [12. Awesome Css](/content/awesome-css-group/awesome-css/README.md)
 
 ### CSS Working Group / Editor's Draft :black_nib:
 
-*   [W3c/csswg-drafts (⭐3.7k)](https://github.com/w3c/csswg-drafts) - Mirror of CSS WG Editor Draft repository.
+*   [W3c/csswg-drafts (⭐4.5k)](https://github.com/w3c/csswg-drafts) - Mirror of CSS WG Editor Draft repository.
 *   [W3c/css-houdini-drafts (⭐1.8k)](https://github.com/w3c/css-houdini-drafts) - Mirror of Houdini WG Editor repository.
 
 ### Parsers :mag: / Editor's Draft :black_nib:
 
-*   [Mensch (⭐112)](https://github.com/brettstimmerman/mensch) - A decent CSS parser.
+*   [Mensch (⭐113)](https://github.com/brettstimmerman/mensch) - A decent CSS parser.
 
 ### Frameworks :art: / Editor's Draft :black_nib:
 
-*   [Awsm.css](https://igoradamenko.github.io/awsm.css/) - Simple CSS library for semantic HTML markup.
 *   [Inuit.css](http://inuitcss.com/) - Powerful, scalable, Sass-based, BEM, OOCSS framework.
-*   [Material-components-web (⭐16k)](https://github.com/material-components/material-components-web) - Modular and customizable Material Design UI components for the web.
-*   [Tailwindcss (⭐62k)](https://github.com/tailwindcss/tailwindcss) - A utility-first CSS framework for rapid UI development.
+*   [Material-components-web (⭐17k)](https://github.com/material-components/material-components-web) - Modular and customizable Material Design UI components for the web.
+*   [Tailwindcss (⭐83k)](https://github.com/tailwindcss/tailwindcss) - A utility-first CSS framework for rapid UI development.
 *   [Unsemantic](http://unsemantic.com/) - Fluid grid for mobile, tablet, and desktop.
 
 ### Reset and Normalize / Editor's Draft :black_nib:
 
-*   [Normalize-OpenType (⭐798)](https://github.com/kennethormandy/normalize-opentype.css) - Adds OpenType features—ligatures, kerning, and more—to Normalize.css.
-*   [Normalize (⭐49k)](https://github.com/necolas/normalize.css) - A set of CSS rules that provide better cross-browser consistency in the default styling of HTML elements.
+*   [Normalize-OpenType (⭐795)](https://github.com/kennethormandy/normalize-opentype.css) - Adds OpenType features—ligatures, kerning, and more—to Normalize.css.
+*   [Normalize (⭐52k)](https://github.com/necolas/normalize.css) - A set of CSS rules that provide better cross-browser consistency in the default styling of HTML elements.
 *   [Reset.css](https://meyerweb.com/eric/tools/css/reset/) - CSS Tools: Reset CSS.
-*   [Reseter.css (⭐1.1k)](https://github.com/krishdevdb/reseter.css) - A Futuristic CSS Reset/Normalizer. That Redifines Instead Of Preserving.
-*   [Sanitize.css (⭐4.9k)](https://github.com/jonathantneal/sanitize.css/) - A set of CSS rules that style with today’s best practices out-of-the-box.
-*   [Unstyle.css (⭐25)](https://github.com/Martin-Pitt/css-unstyle) - Specialised stylesheet for removing user agent styles, style the web with your baseline.
+*   [Reseter.css (⭐1.2k)](https://github.com/krishdevdb/reseter.css) - A Futuristic CSS Reset/Normalizer. That Redifines Instead Of Preserving.
+*   [Sanitize.css (⭐5.2k)](https://github.com/jonathantneal/sanitize.css/) - A set of CSS rules that style with today’s best practices out-of-the-box.
+*   [Unstyle.css (⭐29)](https://github.com/Martin-Pitt/css-unstyle) - Specialised stylesheet for removing user agent styles, style the web with your baseline.
 
 ### CSS Development at Large-Scale Websites / Editor's Draft :black_nib:
 
@@ -126,10 +125,10 @@
 ### Code Style Guidelines :book: / Editor's Draft :black_nib:
 
 *   [Code Guide](http://codeguide.co/) by [Mark Otto](https://twitter.com/mdo)
-*   [CSS Styleguide (⭐411)](https://github.com/grvcoelho/css) by [Guilherme Rv Coelho](https://github.com/grvcoelho)
-*   [Dropbox (S)CSS Style Guide (⭐841)](https://github.com/dropbox/css-style-guide) by Dropbox
+*   [CSS Styleguide (⭐418)](https://github.com/grvcoelho/css) by [Guilherme Rv Coelho](https://github.com/grvcoelho)
+*   [Dropbox (S)CSS Style Guide (⭐1.2k)](https://github.com/dropbox/css-style-guide) by Dropbox
 *   [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html) by Google
-*   [Idiomatic CSS (⭐6.5k)](https://github.com/necolas/idiomatic-css) by [Nicolas Gallagher](https://twitter.com/necolas)
+*   [Idiomatic CSS (⭐6.7k)](https://github.com/necolas/idiomatic-css) by [Nicolas Gallagher](https://twitter.com/necolas)
 *   [Official Trello CSS Guide](https://gist.github.com/bobbygrace/9e961e8982f42eb91b80) by Bobby Grace
 *   [SASS Style Guide](http://sass-lang.com/styleguide) by Sass team
 
@@ -140,9 +139,9 @@
 
 ### Style Guide Generators :slot_machine: / Editor's Draft :black_nib:
 
-*   [Styledoc (⭐6)](https://github.com/Joony/styledoc/)
+*   [Styledoc (⭐7)](https://github.com/Joony/styledoc/)
 *   [Styledocco (⭐1.1k)](https://github.com/jacobrask/styledocco)
-*   [Styledown (⭐675)](https://github.com/styledown/styledown)
+*   [Styledown (⭐667)](https://github.com/styledown/styledown)
 *   [Sc5-styleguide (⭐1.3k)](https://github.com/SC5/sc5-styleguide)
 
 ### Naming conventions & Methodologies :bulb: / Editor's Draft :black_nib:
@@ -157,19 +156,19 @@
 ### CSS in JS / Editor's Draft :black_nib:
 
 *   [Aphrodite (⭐5.3k)](https://github.com/Khan/aphrodite)
-*   [Babel-plugin-css-in-js (⭐302)](https://github.com/martinandert/babel-plugin-css-in-js)
+*   [Babel-plugin-css-in-js (⭐298)](https://github.com/martinandert/babel-plugin-css-in-js)
 *   [Classy (⭐24)](https://github.com/inturn/classy)
-*   [Csjs (⭐578)](https://github.com/rtsao/csjs)
-*   [Css-loader (⭐4.2k)](https://github.com/webpack/css-loader)
-*   [React-styled (⭐37)](https://github.com/bloodyowl/react-styled)
+*   [Csjs (⭐575)](https://github.com/rtsao/csjs)
+*   [Css-loader (⭐4.3k)](https://github.com/webpack/css-loader)
+*   [React-styled (⭐39)](https://github.com/bloodyowl/react-styled)
 *   [React-with-styles (⭐1.7k)](https://github.com/airbnb/react-with-styles)
-*   [Styled-jsx (⭐7.2k)](https://github.com/zeit/styled-jsx)
-*   [Styled-components (⭐38k)](https://github.com/styled-components/styled-components)
-*   [Stylin (⭐172)](https://github.com/sultan99/stylin)
+*   [Styled-jsx (⭐7.7k)](https://github.com/zeit/styled-jsx)
+*   [Styled-components (⭐40k)](https://github.com/styled-components/styled-components)
+*   [Stylin (⭐181)](https://github.com/sultan99/stylin)
 
 ### CSS Polyfills / Editor's Draft :black_nib:
 
-*   [Polyfill.js (⭐294)](https://github.com/philipwalton/polyfill/) - A library to make creating CSS polyfills much easier.
+*   [Polyfill.js (⭐296)](https://github.com/philipwalton/polyfill/) - A library to make creating CSS polyfills much easier.
 *   [Prefixfree (⭐3.8k)](https://github.com/LeaVerou/prefixfree) - Break free from CSS prefix hell.
 *   [Fixed-sticky (⭐1.5k)](https://github.com/filamentgroup/fixed-sticky) - A CSS position:sticky polyfill.
 *   [Selectivizr (⭐1.7k)](https://github.com/keithclark/selectivizr) - A JavaScript utility that emulates CSS3 pseudo-classes and attribute selectors in Internet Explorer 6-8.
@@ -179,7 +178,7 @@
 *   [Flexbox Patterns](https://flexboxpatterns.com/) by cjcenizal
 *   [Single Div Project (⭐1.6k)](https://github.com/ManrajGrover/SingleDivProject) - One `<div>`. Many possibilities.
 *   [You Might Not Need JS](http://youmightnotneedjs.com/) - CSS alternatives for common JS UI components.
-*   [Xpath-to-selector (⭐8)](https://github.com/steambap/xpath-to-selector) - Convert xpath to css selector.
+*   [Xpath-to-selector (⭐11)](https://github.com/steambap/xpath-to-selector) - Convert xpath to css selector.
 
 ### Podcasts :radio: / Editor's Draft :black_nib:
 
@@ -336,7 +335,7 @@
 
 ### Design and Product / Screencapturing Software
 
-*   [Flameshot (⭐24k)](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Flameshot (⭐25k)](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ---
 

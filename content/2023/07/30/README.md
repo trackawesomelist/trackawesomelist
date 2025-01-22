@@ -19,9 +19,9 @@
 ### Libraries and Tools / Python
 
 *   [SocketCAN](https://python-can.readthedocs.io/en/master/interfaces/socketcan.html) Python interface to SocketCAN
-*   [canmatrix (⭐834)](https://github.com/ebroecker/canmatrix) Python module to work with CAN matrix files
+*   [canmatrix (⭐948)](https://github.com/ebroecker/canmatrix) Python module to work with CAN matrix files
 *   [canopen](https://canopen.readthedocs.io/en/latest/) Python module to communicate with CANopen devices
-*   [cantools (⭐1.7k)](https://github.com/eerimoq/cantools) Python module to decode and encode CAN messages using a DBC file
+*   [cantools (⭐1.9k)](https://github.com/eerimoq/cantools) Python module to decode and encode CAN messages using a DBC file
 
 ## [2. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
@@ -31,7 +31,7 @@
 
 ## [3. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 
-### Online services
+### Online services (a-z↓)
 
 *   [TestGrid](https://www.testgrid.io/) - Perform End to End test automation be it cross browser testing, mobile app testing, performance testing or API testing on cloud or on-premise.
 
@@ -39,14 +39,14 @@
 
 ### MIDI Tools & Libraries
 
-*   [Polyrhythmix (⭐282)](http://github.com/dredozubov/polyrhythmix) - MIDI drums
+*   [Polyrhythmix (⭐289)](http://github.com/dredozubov/polyrhythmix) - MIDI drums
     generator, designed for polyrhythmic parts
 
 ## [5. Awesome Open Source Games](/content/michelpereira/awesome-open-source-games/README.md)
 
 ### Browser-Based / Strategy
 
-*   [Rapid Dominance (⭐9)](https://github.com/wenta/rapid-dominance) - Open source turn-based strategy game. Clone of the Enemy Flag.
+*   [Rapid Dominance (⭐11)](https://github.com/wenta/rapid-dominance) - Open source turn-based strategy game. Clone of the Enemy Flag.
 
 ## [6. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 

@@ -16,7 +16,7 @@
 
 ### Machine Learning / Preferences
 
-*   [m2cgen (⭐2.7k)](https://github.com/BayesWitnesses/m2cgen) <!--stargazers:BayesWitnesses/m2cgen--> - CLI tool to convert ML models into native Dart code by [BayesWitnesses](https://github.com/BayesWitnesses)
+*   [m2cgen (⭐2.8k)](https://github.com/BayesWitnesses/m2cgen) <!--stargazers:BayesWitnesses/m2cgen--> - CLI tool to convert ML models into native Dart code by [BayesWitnesses](https://github.com/BayesWitnesses)
 
 ## [3. Awesome Flask](/content/mjhea0/awesome-flask/week/README.md)
 
@@ -50,33 +50,33 @@
 
 ### Crates / Utils
 
-*   [Yewdux (⭐316)](https://github.com/intendednull/yewdux) - Redux-like state containers for Yew apps.
+*   [Yewdux (⭐325)](https://github.com/intendednull/yewdux) - Redux-like state containers for Yew apps.
 
 ## [8. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### API
 
-*   [CommandQuery (⭐105)](https://github.com/hlaueriksson/CommandQuery) - Command Query Separation for 🌐ASP.NET Core ⚡AWS Lambda ⚡Azure Functions ⚡Google Cloud Functions 🌐ASP.NET Web API 2
+*   [CommandQuery (⭐107)](https://github.com/hlaueriksson/CommandQuery) - Command Query Separation for 🌐ASP.NET Core ⚡AWS Lambda ⚡Azure Functions ⚡Google Cloud Functions 🌐ASP.NET Web API 2
 
 ### Application Frameworks
 
-*   [silky (⭐274)](https://github.com/liuhll/silky) - The Silky framework is designed to help developers quickly build a microservice development framework through simple code and configuration under the .net platform.
+*   [silky (⭐278)](https://github.com/liuhll/silky) - The Silky framework is designed to help developers quickly build a microservice development framework through simple code and configuration under the .net platform.
 
 ### Blazor
 
-*   [ant-design-blazor (⭐5.7k)](https://github.com/ant-design-blazor/ant-design-blazor) - A set of enterprise-class UI components based on Ant Design and Blazor WebAssembly.
+*   [ant-design-blazor (⭐5.9k)](https://github.com/ant-design-blazor/ant-design-blazor) - A set of enterprise-class UI components based on Ant Design and Blazor WebAssembly.
 
 ### CLI
 
-*   [Typin (⭐243)](https://github.com/adambajguz/Typin) - Simple to use declarative framework for interactive CLI applications and command line tools (direct mode) that has its roots in CliFx.
+*   [Typin (⭐246)](https://github.com/adambajguz/Typin) - Simple to use declarative framework for interactive CLI applications and command line tools (direct mode) that has its roots in CliFx.
 
 ### Distributed Computing
 
-*   [.NEXT Raft (⭐1.6k)](https://github.com/dotnet/dotNext) - Raft implementation for .NET and ASP.NET Core that allows to build clustered microservices powered by distributed consensus and replication
+*   [.NEXT Raft (⭐1.7k)](https://github.com/dotnet/dotNext) - Raft implementation for .NET and ASP.NET Core that allows to build clustered microservices powered by distributed consensus and replication
 
 ### E-Commerce and Payments
 
-*   [Adyen (⭐105)](https://github.com/Adyen/adyen-dotnet-api-library) - The official Adyen Payment API Library for .NET
+*   [Adyen (⭐110)](https://github.com/Adyen/adyen-dotnet-api-library) - The official Adyen Payment API Library for .NET
 
 ### Graphics
 
@@ -84,36 +84,36 @@
 
 ### Image Processing
 
-*   [ColorHelper (⭐64)](https://github.com/iamartyom/ColorHelper) - Useful methods for work with colors.
+*   [ColorHelper (⭐69)](https://github.com/iamartyom/ColorHelper) - Useful methods for work with colors.
 
 ### Interactive programming
 
-*   [.NET Interactive (⭐2.8k)](https://github.com/dotnet/interactive) - .NET Interactive takes the power of .NET and embeds it into your interactive experiences.
+*   [.NET Interactive (⭐3k)](https://github.com/dotnet/interactive) - .NET Interactive takes the power of .NET and embeds it into your interactive experiences.
 
 ### Mathematics
 
-*   [AngouriMath (⭐772)](https://github.com/asc-community/AngouriMath) - An open-source symbolic/computer algebra library, made primarily for C# and F#. It covers a range of features and might be considered as an alternative to SymPy in .NET.
+*   [AngouriMath (⭐791)](https://github.com/asc-community/AngouriMath) - An open-source symbolic/computer algebra library, made primarily for C# and F#. It covers a range of features and might be considered as an alternative to SymPy in .NET.
 
 ### Misc
 
-*   [LINQPad.QueryPlanVisualizer (⭐396)](https://github.com/Giorgi/LINQPad.QueryPlanVisualizer/)  - View SQL Server and Postgres query plans directly inside LINQPad.
+*   [LINQPad.QueryPlanVisualizer (⭐406)](https://github.com/Giorgi/LINQPad.QueryPlanVisualizer/)  - View SQL Server and Postgres query plans directly inside LINQPad.
 
 ### MVVM
 
-*   [EBind (⭐161)](https://github.com/SIDOVSKY/EBind) - A concise, fast and feature-rich .NET data binding solution.
+*   [EBind (⭐163)](https://github.com/SIDOVSKY/EBind) - A concise, fast and feature-rich .NET data binding solution.
 
 ### Networking
 
-*   [SharpPcap (⭐1.3k)](https://github.com/chmorgan/sharppcap) - Fully managed, cross platform (Windows, Mac, Linux) .NET library for capturing packets from live and file based devices.
+*   [SharpPcap (⭐1.4k)](https://github.com/chmorgan/sharppcap) - Fully managed, cross platform (Windows, Mac, Linux) .NET library for capturing packets from live and file based devices.
 
 ### Office
 
-*   [ShapeCrawler (⭐266)](https://github.com/ShapeCrawler/ShapeCrawler) - A fluent API for the processing of PowerPoint presentations without Microsoft Office installed.
-*   [MiniExcel (⭐2.6k)](https://github.com/shps951023/MiniExcel) - A micro Excel helper avoids OOM and high performance to create/mapping/template-fill-data.
+*   [ShapeCrawler (⭐319)](https://github.com/ShapeCrawler/ShapeCrawler) - A fluent API for the processing of PowerPoint presentations without Microsoft Office installed.
+*   [MiniExcel (⭐2.9k)](https://github.com/shps951023/MiniExcel) - A micro Excel helper avoids OOM and high performance to create/mapping/template-fill-data.
 
 ### ORM
 
-*   [FreeSql (⭐4.1k)](https:/github.com/dotnetcore/FreeSql) - a convenient ORM in dotnet, supports MySql, SqlServer, PostgreSQL, Oracle, Sqlite, Firebird, 达梦, 人大金仓, 神舟通用, 翰高 and Access.
+*   [FreeSql (⭐4.2k)](https:/github.com/dotnetcore/FreeSql) - a convenient ORM in dotnet, supports MySql, SqlServer, PostgreSQL, Oracle, Sqlite, Firebird, 达梦, 人大金仓, 神舟通用, 翰高 and Access.
 
 ### PDF
 
@@ -134,8 +134,8 @@
 
 ### Testing
 
-*   [BDTest (⭐71)](https://github.com/thomhurst/BDTest/wiki) - A behaviour driven testing and reporting framework!
-*   [CsCheck (⭐142)](https://github.com/AnthonyLloyd/CsCheck) - Random testing library for C#. Including concurrency, causal profiling, regression and performance testing.
+*   [BDTest (⭐82)](https://github.com/thomhurst/BDTest/wiki) - A behaviour driven testing and reporting framework!
+*   [CsCheck (⭐169)](https://github.com/AnthonyLloyd/CsCheck) - Random testing library for C#. Including concurrency, causal profiling, regression and performance testing.
 
 ### Tools
 
@@ -145,15 +145,15 @@
 
 *   [Tabs Studio](https://tabsstudio.com/) - Visual Studio tab manager with multiple tab rows, tab coloring and tab grouping. **\[$]**
 *   [ViEmu](http://www.viemu.com/) - very powerful Vi/vim emulator for Visual Studio supporting all basic and many advanced features of vi/vim. **\[$]**
-*   [Roslynator (⭐3k)](https://github.com/JosefPihrt/Roslynator) - A collection of 500+ analyzers, refactorings and fixes for C#, powered by Roslyn
-*   [Unchase.Odata.Connectedservice (⭐43)](https://github.com/unchase/Unchase.Odata.Connectedservice) - A Visual Studio Connected Service for generating API client code in C# or VB for OData web service.
-*   [Unchase.OpenAPI.Connectedservice (⭐107)](https://github.com/unchase/Unchase.OpenAPI.Connectedservice) - A Visual Studio 2017/2019 extension to generate C# (TypeScript) HttpClient (or C# Controllers) code for OpenAPI web service with [NSwag (⭐6.7k)](https://github.com/RicoSuter/NSwag).
+*   [Roslynator (⭐3.1k)](https://github.com/JosefPihrt/Roslynator) - A collection of 500+ analyzers, refactorings and fixes for C#, powered by Roslyn
+*   [Unchase.Odata.Connectedservice (⭐45)](https://github.com/unchase/Unchase.Odata.Connectedservice) - A Visual Studio Connected Service for generating API client code in C# or VB for OData web service.
+*   [Unchase.OpenAPI.Connectedservice (⭐108)](https://github.com/unchase/Unchase.OpenAPI.Connectedservice) - A Visual Studio 2017/2019 extension to generate C# (TypeScript) HttpClient (or C# Controllers) code for OpenAPI web service with [NSwag (⭐6.9k)](https://github.com/RicoSuter/NSwag).
 
 ## [9. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
 
 ### Awesome Repositories
 
-- Repository: [The Art of Hacking Series (⭐18k)](https://github.com/The-Art-of-Hacking/h4cker)
+- Repository: [The Art of Hacking Series (⭐20k)](https://github.com/The-Art-of-Hacking/h4cker)
 
   Description: List of resources  includes thousands of cybersecurity-related references and resources
 
@@ -166,7 +166,7 @@
   Description: A curated list of Unix binaries that can be exploited by an attacker to bypass local security restrictions
 
 
-- Repository: [Vulhub (⭐17k)](https://github.com/vulhub/vulhub)
+- Repository: [Vulhub (⭐18k)](https://github.com/vulhub/vulhub)
 
   Description: Pre-Built Vulnerable Environments Based on Docker-Compose
 
@@ -176,11 +176,11 @@
 
 ### Shaders
 
-*   [ngrading (⭐39)](https://github.com/MikuAuahDark/NPad93/tree/master/ngrading) - Simple color grading library.
+*   [ngrading (⭐45)](https://github.com/MikuAuahDark/NPad93/tree/master/ngrading) - Simple color grading library.
 
 ### UI
 
-*   [NLay (⭐39)](https://github.com/MikuAuahDark/NPad93#nlay) - Flexible layouting library.
+*   [NLay (⭐45)](https://github.com/MikuAuahDark/NPad93#nlay) - Flexible layouting library.
 
 ## [11. GoBooks](/content/dariubs/GoBooks/week/README.md)
 
@@ -195,7 +195,7 @@
 
 ### Driver crates / Other
 
-*   [rainbow-hat-rs](https://crates.io/crates/rainbow-hat-rs) - I2C/SPI/GPIO - Pimoroni Rainbow HAT driver for Raspberry Pi - [github (⭐3)](https://github.com/yannart/rainbow-hat-rs) - ![crates.io](https://img.shields.io/crates/v/rainbow-hat-rs.svg)
+*   [rainbow-hat-rs](https://crates.io/crates/rainbow-hat-rs) - I2C/SPI/GPIO - Pimoroni Rainbow HAT driver for Raspberry Pi - [github (⭐3)](https://github.com/yannart/rainbow-hat-rs) - [![crates.io](https://img.shields.io/crates/v/rainbow-hat-rs.svg)](https://crates.io/crates/rainbow-hat-rs)
 
 ## [13. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
 
@@ -279,11 +279,11 @@
 
 ### Software / Communication - Custom Communication Systems
 
-*   [Tox](https://tox.chat/) - Distributed, secure messenger with audio and video chat capabilities. ([Source Code (⭐2.2k)](https://github.com/TokTok/c-toxcore)) `GPL-3.0` `C`
+*   [Tox](https://tox.chat/) - Distributed, secure messenger with audio and video chat capabilities. ([Source Code (⭐2.3k)](https://github.com/TokTok/c-toxcore)) `GPL-3.0` `C`
 
 ### Software / Pastebins
 
-*   [rustypaste (⭐752)](https://github.com/orhun/rustypaste) - A minimal file upload/pastebin service. `MIT` `Rust`
+*   [rustypaste (⭐819)](https://github.com/orhun/rustypaste) - A minimal file upload/pastebin service. `MIT` `Rust`
 
 ## [19. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
@@ -301,7 +301,7 @@
 
 ### Tools / Reverse Engineering
 
-*   [MVT (Mobile Verification Toolkit) (⭐10k)](https://github.com/mvt-project/mvt) - a collection of utilities to simplify and automate the process of gathering forensic traces helpful to identify a potential compromise of Android and iOS devices
+*   [MVT (Mobile Verification Toolkit) (⭐11k)](https://github.com/mvt-project/mvt) - a collection of utilities to simplify and automate the process of gathering forensic traces helpful to identify a potential compromise of Android and iOS devices
 *   ~~[Procyon](https://bitbucket.org/mstrobel/procyon/wiki/Java%20Decompiler) - Java decompiler~~
 *   ~~[Smali viewer](http://blog.avlyun.com/wp-content/uploads/2014/04/SmaliViewer.zip)~~
 *   ~~[ZjDroid](https://github.com/BaiduSecurityLabs/ZjDroid)~~, ~~[fork/mirror](https://github.com/yangbean9/ZjDroid)~~
@@ -323,7 +323,7 @@
 
 ### Plugins
 
-*   [tmux-fuzzback (⭐128)](https://github.com/roosta/tmux-fuzzback) Search your scrollback buffer using fzf.
+*   [tmux-fuzzback (⭐143)](https://github.com/roosta/tmux-fuzzback) Search your scrollback buffer using fzf.
 
 ## [25. Awesome Stacks Chain](/content/friedger/awesome-stacks-chain/week/README.md)
 
@@ -364,7 +364,7 @@
 
 ### Debug
 
-*   [DebugViewPP (⭐987)](https://github.com/CobaltFusion/DebugViewPP) - Debug logging viewer. \[Boost]
+*   [DebugViewPP (⭐1.1k)](https://github.com/CobaltFusion/DebugViewPP) - Debug logging viewer. \[Boost]
 
 ### Online Compiler
 
@@ -386,30 +386,26 @@
 
 ### Applications / Text processing
 
-*   [sstadick/hck (⭐689)](https://github.com/sstadick/hck) - A faster and more featureful drop in replacement for `cut` [![build badge](https://github.com/sstadick/hck/workflows/Check/badge.svg?branch=master)](https://github.com/sstadick/hck)
-
-### Applications / Virtualization
-
-*   [containers/youki (⭐6.1k)](https://github.com/containers/youki) - A container runtime [![build badge](https://github.com/containers/youki/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/containers/youki/actions)
+*   [sstadick/hck (⭐705)](https://github.com/sstadick/hck) - A faster and more featureful drop in replacement for `cut` [![build badge](https://github.com/sstadick/hck/workflows/Check/badge.svg?branch=master)](https://github.com/sstadick/hck)
 
 ### Libraries / Cryptography
 
-*   [w3f/schnorrkel (⭐308)](https://github.com/w3f/schnorrkel) - Schnorr VRFs and signatures on the Ristretto group
+*   [w3f/schnorrkel (⭐319)](https://github.com/w3f/schnorrkel) - Schnorr VRFs and signatures on the Ristretto group
 
 ### Libraries / GUI
 
-*   [tauri-apps/tauri (⭐81k)](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend, powered by [WRY (⭐3.5k)](https://github.com/tauri-apps/wry). [![test library](https://img.shields.io/github/workflow/status/tauri-apps/tauri/test%20library?label=test%20library)](https://github.com/tauri-apps/tauri/actions?query=workflow%3A%22test+library%22)
+*   [tauri-apps/tauri (⭐88k)](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend, powered by [WRY (⭐3.9k)](https://github.com/tauri-apps/wry). [![test library](https://img.shields.io/github/workflow/status/tauri-apps/tauri/test%20library?label=test%20library)](https://github.com/tauri-apps/tauri/actions?query=workflow%3A%22test+library%22)
 
 ## [31. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Django / Community
 
-*   [django-vite (⭐513)](https://github.com/MrBin99/django-vite) - Integration for Django applications.
+*   [django-vite (⭐607)](https://github.com/MrBin99/django-vite) - Integration for Django applications.
 
 ### Ruby on Rails / Community
 
-*   [vite-plugin-ruby (⭐1.3k)](https://github.com/ElMassimo/vite_ruby/tree/main/vite-plugin-ruby) - Configuration for Ruby backends.
-*   [Vite Ruby (⭐1.3k)](https://github.com/ElMassimo/vite_ruby) - Integration for Rails, Hanami, Padrino, and Rack apps.
+*   [vite-plugin-ruby (⭐1.4k)](https://github.com/ElMassimo/vite_ruby/tree/main/vite-plugin-ruby) - Configuration for Ruby backends.
+*   [Vite Ruby (⭐1.4k)](https://github.com/ElMassimo/vite_ruby) - Integration for Rails, Hanami, Padrino, and Rack apps.
 
 ## [32. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
@@ -427,7 +423,7 @@
 
 ### Basics
 
-*   [Open guide to AWS (⭐35k)](https://github.com/open-guides/og-aws#billing-and-cost-management) - Links to the *Billing and Cost Management* section which details the broad characteristics of billing for a cloud provider.
+*   [Open guide to AWS (⭐36k)](https://github.com/open-guides/og-aws#billing-and-cost-management) - Links to the *Billing and Cost Management* section which details the broad characteristics of billing for a cloud provider.
 
 ### Pricing / Usage-based Pricing
 
@@ -436,7 +432,7 @@
 ### Product Catalog / Market Research
 
 *   [GCP Product Catalog](https://cloud.google.com/blog/products/gcp/introducing-cloud-billing-catalog-api-gcp-pricing-in-real-time) - All GCP SKUs available as an API.
-*   [Pimcore (⭐3.2k)](https://github.com/pimcore/pimcore) - An open-source UI and database to manage product metadata, written in PHP Symfony.
+*   [Pimcore (⭐3.4k)](https://github.com/pimcore/pimcore) - An open-source UI and database to manage product metadata, written in PHP Symfony.
 *   [OpenPIM](https://www.openpim.org) - A streamlined open-source project, focusing on PIM-only features.
 *   [Comparing 3 open source PIM solutions](https://medium.com/@slavapedak/comparing-3-free-and-open-source-product-information-management-pim-solutions-e83a1898f91e) - Comparative study of the 3 projects above.
 
@@ -469,33 +465,33 @@
 
 ### Media
 
-*   [VLC (⭐143)](https://github.com/mfkl/awesome-vlc#readme) - Cross-platform media player software and streaming server.
+*   [VLC (⭐168)](https://github.com/mfkl/awesome-vlc#readme) - Cross-platform media player software and streaming server.
 
 ### Business
 
-*   [Billing (⭐875)](https://github.com/kdeldycke/awesome-billing#readme) - Payments, invoicing, pricing, accounting, marketplace, fraud, and business intelligence.
+*   [Billing (⭐939)](https://github.com/kdeldycke/awesome-billing#readme) - Payments, invoicing, pricing, accounting, marketplace, fraud, and business intelligence.
 
 ### Work
 
-*   [Internships (⭐393)](https://github.com/lodthe/awesome-internships#readme) - CV writing guides and companies that hire interns.
+*   [Internships (⭐421)](https://github.com/lodthe/awesome-internships#readme) - CV writing guides and companies that hire interns.
 
 ### Decentralized Systems
 
-*   [Stacks (⭐104)](https://github.com/friedger/awesome-stacks-chain#readme) - A smart contract platform secured by Bitcoin.
+*   [Stacks (⭐110)](https://github.com/friedger/awesome-stacks-chain#readme) - A smart contract platform secured by Bitcoin.
 
 ### Miscellaneous
 
-*   [Scriptable (⭐1.1k)](https://github.com/dersvenhesse/awesome-scriptable#readme) - An iOS app for automations in JavaScript.
+*   [Scriptable (⭐1.2k)](https://github.com/dersvenhesse/awesome-scriptable#readme) - An iOS app for automations in JavaScript.
 
 ## [36. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Databases
 
-*   [redis-pro (⭐646)](https://github.com/cmushroom/redis-pro) - Small, easy to use Redis management, written with SwiftUI, support Dark mode. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/cmushroom/redis-pro) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [redis-pro (⭐656)](https://github.com/cmushroom/redis-pro) - Small, easy to use Redis management, written with SwiftUI, support Dark mode. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/cmushroom/redis-pro) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [37. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
-### Threat Intelligence / Telegram
+### Threat Intelligence / Steam
 
 *   [GitGuardian - Public GitHub Monitoring](https://www.gitguardian.com/monitor-public-github-for-secrets) - Monitor public GitHub repositories in real time. Detect secrets and sensitive information to prevent hackers from using GitHub as a backdoor to your business.
 
@@ -508,23 +504,19 @@
 
 ## [39. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
-### Tools and frameworks
+### Tools and frameworks (a-z↓)
 
-*   [OSnap (⭐147)](https://github.com/eWert-Online/osnap) - The speedy and easy to use Snapshot Testing tool for your project (1200 snapshots will run in under 3 minutes).
+*   [OSnap (⭐157)](https://github.com/eWert-Online/osnap) - The speedy and easy to use Snapshot Testing tool for your project (1200 snapshots will run in under 3 minutes).
 
 ## [40. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
-*   [Learning Vue 3.0 (⭐1.1k)](https://github.com/chengpeiquan/learning-vue3)
+*   [Learning Vue 3.0 (⭐1.3k)](https://github.com/chengpeiquan/learning-vue3)
 
 ### Resources / Examples
 
-*   [vuemoji-picker (⭐68)](https://github.com/wobsoriano/vuemoji-picker) - Vue 2 and 3 lightweight emoji picker.
-
-### Components & Libraries / Utilities
-
-*   [fontawesome-autogen (⭐15)](https://github.com/GTANAdam/fontawesome-autogen) - Automatically detect and import fontawesome icons used in your webapp.
+*   [vuemoji-picker (⭐70)](https://github.com/wobsoriano/vuemoji-picker) - Vue 2 and 3 lightweight emoji picker.
 
 ## [41. Awesome Golem](/content/golemfactory/awesome-golem/week/README.md)
 
@@ -546,7 +538,7 @@
 
 ### CLI / Argument Parsing
 
-*   [jbock (⭐82)](https://github.com/jbock-java/jbock) - Reflectionless command line parser.
+*   [jbock (⭐87)](https://github.com/jbock-java/jbock) - Reflectionless command line parser.
 
 ### Utility / Mocking
 
@@ -556,18 +548,18 @@
 
 ### Action
 
-*   [Rigel Engine (⭐894)](https://github.com/lethal-guitar/RigelEngine) - Modern reimplementation of the classic DOS game Duke Nukem II in C++.
+*   [Rigel Engine (⭐920)](https://github.com/lethal-guitar/RigelEngine) - Modern reimplementation of the classic DOS game Duke Nukem II in C++.
 
 ### FPS
 
-*   [BetterSpades (⭐230)](https://github.com/xtreme8000/BetterSpades/) - Ace Of Spades open source implementation that runs on older machines.
+*   [BetterSpades (⭐243)](https://github.com/xtreme8000/BetterSpades/) - Ace Of Spades open source implementation that runs on older machines.
 *   [FreeCS](https://sourceforge.net/projects/freecs-1-5/) - Free-software re-implementation of Counter-Strike 1.5 running on the FTEQW engine. :flower\_playing\_cards:
 *   [FTEQW](https://fte.triptohell.info/) - FPS Engine for Quake 1, QuakeWorld, Quake 2, Hexen II & Quake III Arena.
 *   [Zandronum](https://zandronum.com/) - Multiplayer oriented port, based off Skulltag, for Doom and Doom II. Also runs Heretic, Hexen and Strife. :flower\_playing\_cards:
 
 ### Online
 
-*   [Space Station 14 (⭐2k)](https://github.com/space-wizards/space-station-14) - Space Station 14 is a revived attempt at a Space Station 13 remake.
+*   [Space Station 14 (⭐2.7k)](https://github.com/space-wizards/space-station-14) - Space Station 14 is a revived attempt at a Space Station 13 remake.
 
 ## [45. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
@@ -662,14 +654,14 @@
 
 ### C / Syntax highlighting packages
 
-*   [Super Princess' 2092 Exodus (⭐27)](https://github.com/Zal0/gbjam2016) - ([ZGB engine (⭐648)](https://github.com/Zal0/ZGB/)).
-*   [Tobu Tobu Girl Deluxe (⭐70)](https://github.com/SimonLarsen/tobutobugirl-dx) - An arcade platformer for the Game Boy (Color).
+*   [Super Princess' 2092 Exodus (⭐27)](https://github.com/Zal0/gbjam2016) - ([ZGB engine (⭐715)](https://github.com/Zal0/ZGB/)).
+*   [Tobu Tobu Girl Deluxe (⭐81)](https://github.com/SimonLarsen/tobutobugirl-dx) - An arcade platformer for the Game Boy (Color).
 *   [Black Castle](https://gbdev.gg8.se/forums/viewtopic.php?id=743) - Side scrolling platformer for the Game Boy ([itch.io](https://user0x7f.itch.io/black-castle)).
 *   [Genesis](https://gbdev.gg8.se/forums/viewtopic.php?id=674) - Shmup for the Game Boy ([itch.io](https://user0x7f.itch.io/genesis)).
 *   [Indestructo Tank!](https://antonylavelle.itch.io/indestructotank-gb)
-*   [Powa!](https://aiguanachein.itch.io/powa) - Side scrolling platformer for the Game Boy (Color)  ([ZGB engine (⭐648)](https://github.com/Zal0/ZGB/)).
-*   [Cavern](https://thegreatgallus.itch.io/cavern-mvm-9) - ([ZGB engine (⭐648)](https://github.com/Zal0/ZGB/)).
-*   [Mona and the Witch's Hat Deluxe](https://ctneptune.itch.io/mona-and-the-witchs-hat-dx) - ([ZGB engine (⭐648)](https://github.com/Zal0/ZGB/)).
+*   [Powa!](https://aiguanachein.itch.io/powa) - Side scrolling platformer for the Game Boy (Color)  ([ZGB engine (⭐715)](https://github.com/Zal0/ZGB/)).
+*   [Cavern](https://thegreatgallus.itch.io/cavern-mvm-9) - ([ZGB engine (⭐715)](https://github.com/Zal0/ZGB/)).
+*   [Mona and the Witch's Hat Deluxe](https://ctneptune.itch.io/mona-and-the-witchs-hat-dx) - ([ZGB engine (⭐715)](https://github.com/Zal0/ZGB/)).
 *   [The Bouncing Ball](https://gamejolt.com/games/the-bouncing-ball-gb/86699)
 *   [DMG Deals Damage](https://drludos.itch.io/dmg-deals-damage)
 
@@ -746,7 +738,7 @@
 
   CORS: Unknown
 
-  Call this API: 
+  : 
 
 
 
@@ -883,7 +875,7 @@
 
 ### JavaScript / FrameWorks
 
-*   [Ghostfolio (⭐4k)](https://github.com/ghostfolio/ghostfolio) - Wealth management software to keep track of financial assets like stocks, ETFs or cryptocurrencies and make solid, data-driven investment decisions.
+*   [Ghostfolio (⭐5.2k)](https://github.com/ghostfolio/ghostfolio) - Wealth management software to keep track of financial assets like stocks, ETFs or cryptocurrencies and make solid, data-driven investment decisions.
 
 ## [51. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -894,10 +886,6 @@
 ### Tools for Teams and Collaboration
 
 *   [vadoo.tv](https://vadoo.tv/) — Video hosting and marketing made simple. Upload videos with a single click. Record, manage, share & more. The free tier provides up to 10 videos, 1 GB of storage, and 10 GB of bandwidth/per month
-
-### Security and PKI
-
-*   [Bridgecrew](https://bridgecrew.io/) — Infrastructure as code (IaC) security powered by the open source tool - [Checkov (⭐6.8k)](https://github.com/bridgecrewio/checkov). The core Bridgecrew platform is free for up to 50 IaC resources.
 
 ### Data Visualization on Maps
 

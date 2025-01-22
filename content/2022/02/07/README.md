@@ -16,14 +16,14 @@
 
 ### Python / React
 
-*   [turms (⭐59)](https://github.com/jhnnsrs/turms) - A pythonic graphql codegenerator built around graphql-core and pydantic
-*   [rath (⭐9)](https://github.com/jhnnsrs/rath) - An apollo like graphql client with async and sync interface
+*   [turms (⭐63)](https://github.com/jhnnsrs/turms) - A pythonic graphql codegenerator built around graphql-core and pydantic
+*   [rath (⭐10)](https://github.com/jhnnsrs/rath) - An apollo like graphql client with async and sync interface
 
 ## [3. Awesome D](/content/dlang-community/awesome-d/README.md)
 
 ### End-user applications / XML
 
-*   [Cryptic-Resolver (⭐2)](https://github.com/cryptic-resolver/cr_D) -  Manage cryptic commands' names, acronyms and your own knowledge base (a command line utility)
+*   [Cryptic-Resolver](https://github.com/cryptic-resolver/cr_D) -  Manage cryptic commands' names, acronyms and your own knowledge base (a command line utility)
 
 ## [4. Awesome Bitcoin Payment Processors](/content/alexk111/awesome-bitcoin-payment-processors/README.md)
 
@@ -47,13 +47,13 @@
 
 ### Modules / Webview
 
-*   [Astrodon (⭐927)](https://github.com/astrodon/astrodon) - Modular framework for building native multi-platform apps with Deno and webview.
+*   [Astrodon (⭐937)](https://github.com/astrodon/astrodon) - Modular framework for building native multi-platform apps with Deno and webview.
 
 ## [6. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
 ### Third-Party Packages / General
 
-*   [django-data-browser (⭐336)](https://github.com/tolomea/django-data-browser) - Interactive, user-friendly database explorer.
+*   [django-data-browser (⭐357)](https://github.com/tolomea/django-data-browser) - Interactive, user-friendly database explorer.
 
 ### Resources / Books
 
@@ -82,7 +82,7 @@
 ### Libraries / Network programming
 
 *   Bluetooth
-    *   [bluez/bluer (⭐288)](https://github.com/bluez/bluer) \[[bluer](https://crates.io/crates/bluer)] - Official BlueZ bindings. [![build badge](https://github.com/bluez/bluer/actions/workflows/rust.yml/badge.svg?branch=master)](https://github.com/bluez/bluer/actions/workflows/rust.yml)
+    *   [bluez/bluer (⭐333)](https://github.com/bluez/bluer) \[[bluer](https://crates.io/crates/bluer)] - Official BlueZ bindings. [![build badge](https://github.com/bluez/bluer/actions/workflows/rust.yml/badge.svg?branch=master)](https://github.com/bluez/bluer/actions/workflows/rust.yml)
 
 ## [11. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
 
@@ -104,8 +104,6 @@
 
   CORS: Yes
 
-  Call this API: 
-
 
 - API: [Freelancer](https://developers.freelancer.com)
 
@@ -117,8 +115,6 @@
 
   CORS: Unknown
 
-  Call this API: 
-
 
 - API: [markerapi](https://markerapi.com)
 
@@ -129,8 +125,6 @@
   HTTPS: No
 
   CORS: Unknown
-
-  Call this API: 
 
 
 
@@ -146,7 +140,7 @@
 
   CORS: Unknown
 
-  Postman: 
+  : 
 
 
 
@@ -245,7 +239,7 @@
 
   CORS: Yes
 
-  Call this API: 
+  : 
 
 
 - API: [US Extract](https://www.smarty.com/products/apis/us-extract-api)
@@ -258,7 +252,7 @@
 
   CORS: Yes
 
-  Call this API: 
+  : 
 
 
 - API: [US Street Address](https://www.smarty.com/docs/cloud/us-street-api)
@@ -271,7 +265,7 @@
 
   CORS: Yes
 
-  Call this API: 
+  : 
 
 
 
@@ -387,7 +381,7 @@
 
   CORS: Unknown
 
-  Call this API: 
+  : 
 
 
 
@@ -845,7 +839,7 @@
 
 ### Design and Product / Screencapturing Software
 
-*   [Shottr](https://shottr.cc/) - Screen capture application with features like Scrolling capture, OCR and markup. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Shottr](https://shottr.cc/) - Screen capture application with features like Scrolling capture, OCR and markup.
 
 ### Communication / Collaboration and Team Tools
 

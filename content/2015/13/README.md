@@ -169,7 +169,7 @@
 
 ### Core Data
 
-*   [JSQCoreDataKit (⭐614)](https://github.com/jessesquires/JSQCoreDataKit) - A swifter Core Data stack.
+*   [JSQCoreDataKit (⭐616)](https://github.com/jessesquires/JSQCoreDataKit) - A swifter Core Data stack.
 
 ## [7. Awesome Unity](/content/RyanNielson/awesome-unity/week/README.md)
 
@@ -225,7 +225,7 @@
 
 ### JSON
 
-*   [json-voorhees (⭐128)](https://github.com/tgockel/json-voorhees) - JSON library for C++. Support for C++11. No dependencies, fast and dev-friendly. \[Apache2]
+*   [json-voorhees (⭐129)](https://github.com/tgockel/json-voorhees) - JSON library for C++. Support for C++11. No dependencies, fast and dev-friendly. \[Apache2]
 
 ## [10. Awesome IoT Hybrid](/content/weblancaster/awesome-IoT-hybrid/week/README.md)
 
@@ -304,7 +304,7 @@
 
 ### Database Drivers
 
-*   [Neography (⭐603)](https://github.com/maxdemarzi/neography) - A thin Ruby wrapper to the Neo4j Rest API.
+*   [Neography (⭐602)](https://github.com/maxdemarzi/neography) - A thin Ruby wrapper to the Neo4j Rest API.
 
 ### Implementations/Compilers
 
@@ -319,11 +319,11 @@
 
 ### Queues and Messaging
 
-*   [Shoryuken (⭐2k)](https://github.com/phstc/shoryuken) - A super efficient AWS SQS thread based message processor for Ruby.
+*   [Shoryuken (⭐2.1k)](https://github.com/phstc/shoryuken) - A super efficient AWS SQS thread based message processor for Ruby.
 
 ### Security
 
-*   [Rack::Attack (⭐5.5k)](https://github.com/kickstarter/rack-attack) - Rack middleware for blocking & throttling abusive requests.
+*   [Rack::Attack (⭐5.6k)](https://github.com/kickstarter/rack-attack) - Rack middleware for blocking & throttling abusive requests.
 
 ---
 

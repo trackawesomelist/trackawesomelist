@@ -42,17 +42,17 @@
 
 ### Development Environment
 
-*   [Git Hooks (⭐960)](https://github.com/compscilauren/awesome-git-hooks#readme) - Scripts for automating tasks during `git` workflows.
+*   [Git Hooks (⭐990)](https://github.com/compscilauren/awesome-git-hooks#readme) - Scripts for automating tasks during `git` workflows.
 
 ### Security
 
-*   [Embedded and IoT Security (⭐1.7k)](https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme)
+*   [Embedded and IoT Security (⭐1.8k)](https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme)
 
 ## [6. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
 
 ### Emojis / Fonts
 
-*   [emojize (⭐108)](https://github.com/ded/emojize) - High resolution, unicode (emoji) to html conversion utility
+*   [emojize (⭐109)](https://github.com/ded/emojize) - High resolution, unicode (emoji) to html conversion utility
 
 ### Programming fonts / Fonts
 
@@ -60,7 +60,7 @@
 
 ### Programming fonts / Programming fonts with ligatures
 
-*   [Cascadia Code (⭐22k)](https://github.com/microsoft/cascadia-code) - Monospaced font by Miscrosoft designed to enhance the modern look and feel of the Windows Terminal
+*   [Cascadia Code (⭐26k)](https://github.com/microsoft/cascadia-code) - Monospaced font by Miscrosoft designed to enhance the modern look and feel of the Windows Terminal
 *   [Dank Mono](https://dank.sh/) — A premium programming font with Delightful ligatures and an italic variant
 
 ### Other / Event listeners for fonts loading on a web page
@@ -124,8 +124,8 @@
 
 ### Icons / Upstream Style
 
-*   [GNOME++ (⭐163)](https://github.com/Bonandry/gnome-plus) - Third-party application icons compatible with GNOME's current guidelines.
-*   [Pop! (⭐200)](https://github.com/pop-os/icon-theme) - Official icon theme of Pop!\_OS by System76.
+*   [GNOME++ (⭐164)](https://github.com/Bonandry/gnome-plus) - Third-party application icons compatible with GNOME's current guidelines.
+*   [Pop! (⭐203)](https://github.com/pop-os/icon-theme) - Official icon theme of Pop!\_OS by System76.
 
 ## [14. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
 
@@ -225,13 +225,13 @@
 
 ### Static type checkers
 
-*   [pyright (⭐12k)](https://github.com/Microsoft/pyright) - Fast type checker meant for large Python source bases. It can run in a “watch” mode and performs fast incremental updates when files are modified.
+*   [pyright (⭐14k)](https://github.com/Microsoft/pyright) - Fast type checker meant for large Python source bases. It can run in a “watch” mode and performs fast incremental updates when files are modified.
 
 ### Stub packages
 
-*   [django-stubs (⭐1.5k)](https://github.com/typeddjango/django-stubs) - Stubs for [Django (⭐78k)](https://github.com/django/django).
-*   [djangorestframework-stubs (⭐421)](https://github.com/typeddjango/djangorestframework-stubs) - Stubs for [DRF (⭐28k)](https://github.com/encode/django-rest-framework).
-*   [grpc-stubs (⭐35)](https://github.com/shabbyrobe/grpc-stubs) - Stubs for [grpc (⭐41k)](https://github.com/grpc/grpc).
+*   [django-stubs (⭐1.6k)](https://github.com/typeddjango/django-stubs) - Stubs for [Django (⭐81k)](https://github.com/django/django).
+*   [djangorestframework-stubs (⭐459)](https://github.com/typeddjango/djangorestframework-stubs) - Stubs for [DRF (⭐29k)](https://github.com/encode/django-rest-framework).
+*   [grpc-stubs (⭐37)](https://github.com/shabbyrobe/grpc-stubs) - Stubs for [grpc (⭐42k)](https://github.com/grpc/grpc).
 
 ### Tools / Linters
 
@@ -239,20 +239,20 @@
 
 ### Tools / Testing
 
-*   [pytest-mypy-plugins (⭐97)](https://github.com/typeddjango/pytest-mypy-plugins) - Pytest plugin for testing mypy types, stubs, and plugins.
+*   [pytest-mypy-plugins (⭐109)](https://github.com/typeddjango/pytest-mypy-plugins) - Pytest plugin for testing mypy types, stubs, and plugins.
 
 ### Tools / Working with types
 
-*   [mypy-protobuf (⭐632)](https://github.com/dropbox/mypy-protobuf) - Tool to generate mypy stubs from protobufs.
+*   [mypy-protobuf (⭐660)](https://github.com/dropbox/mypy-protobuf) - Tool to generate mypy stubs from protobufs.
 
 ### Tools / Mypy plugins
 
-*   [mypy-zope (⭐38)](https://github.com/Shoobx/mypy-zope) - Plugin for [zope.interface](https://zopeinterface.readthedocs.io/en/latest/) support.
-*   [mypy/plugins (⭐18k)](https://github.com/python/mypy/tree/master/mypy/plugins) - Plugins already integrated into mypy.
+*   [mypy-zope (⭐39)](https://github.com/Shoobx/mypy-zope) - Plugin for [zope.interface](https://zopeinterface.readthedocs.io/en/latest/) support.
+*   [mypy/plugins (⭐19k)](https://github.com/python/mypy/tree/master/mypy/plugins) - Plugins already integrated into mypy.
 
 ### Integrations / Mypy plugins
 
-*   [vim-mypy (⭐98)](https://github.com/Integralist/vim-mypy) - Mypy integration for Vim.
+*   [vim-mypy (⭐97)](https://github.com/Integralist/vim-mypy) - Mypy integration for Vim.
 
 ### Articles / Third-party articles
 
@@ -265,8 +265,8 @@
 
 ### Related / Third-party articles
 
-*   [awesome-python (⭐212k)](https://github.com/vinta/awesome-python) - Curated list of awesome Python frameworks, libraries, software and resources.
-*   [python-typecheckers (⭐60)](https://github.com/ethanhs/python-typecheckers) - List of Python type checkers: static and runtime.
+*   [awesome-python (⭐227k)](https://github.com/vinta/awesome-python) - Curated list of awesome Python frameworks, libraries, software and resources.
+*   [python-typecheckers (⭐63)](https://github.com/ethanhs/python-typecheckers) - List of Python type checkers: static and runtime.
 
 ## [23. Bots](/content/hackerkid/bots/week/README.md)
 
@@ -336,7 +336,7 @@
 ### Date / Runner
 
 *   [map-countdown (⭐5)](https://github.com/dawidjaniga/map-countdown) - A browser countdown built on top of the Google Maps.
-*   [dayjs (⭐46k)](https://github.com/iamkun/dayjs) - Day.js 2KB immutable date library alternative to Moment.js with the same modern API.
+*   [dayjs (⭐47k)](https://github.com/iamkun/dayjs) - Day.js 2KB immutable date library alternative to Moment.js with the same modern API.
 
 ## [32. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
@@ -348,12 +348,12 @@
 
 ### Function extensions
 
-*   [cl-hooks (⭐16)](https://github.com/scymtym/architecture.hooks/) - Hooks extension point mechanism (as known, e.g., from GNU Emacs). LGPL.
+*   [cl-hooks (⭐17)](https://github.com/scymtym/architecture.hooks/) - Hooks extension point mechanism (as known, e.g., from GNU Emacs). LGPL.
 *   [method-hooks](https://gitlab.com/Gnuxie/method-hooks) - When CLOS method combination allow only one hook per method, this library allows an arbitrary number of them. Mozilla Public Licence.
 
 ### Typing
 
-*   👍 [trivial-types (⭐66)](https://github.com/m2ym/trivial-types) - provides missing but important type definitions such as `proper-list`, `association-list`, `property-list` and `tuple`. [LLGPL](http://opensource.franz.com/preamble.html).
+*   👍 [trivial-types (⭐67)](https://github.com/m2ym/trivial-types) - provides missing but important type definitions such as `proper-list`, `association-list`, `property-list` and `tuple`. [LLGPL](http://opensource.franz.com/preamble.html).
 
 ## [34. Awesome Seed Rs](/content/seed-rs/awesome-seed-rs/week/README.md)
 
@@ -422,7 +422,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [Cornac (⭐853)](https://github.com/PreferredAI/cornac) - A comparative framework for multimodal recommender systems with a focus on models leveraging auxiliary data.
+*   [Cornac (⭐897)](https://github.com/PreferredAI/cornac) - A comparative framework for multimodal recommender systems with a focus on models leveraging auxiliary data.
 
 ### Python / Neural Networks
 
@@ -450,11 +450,11 @@
 
 ### Audio
 
-*   [libsoundio (⭐1.9k)](https://github.com/andrewrk/libsoundio) - C library for cross-platform real-time audio input and output. \[MIT] [website](http://libsound.io/)
+*   [libsoundio (⭐2k)](https://github.com/andrewrk/libsoundio) - C library for cross-platform real-time audio input and output. \[MIT] [website](http://libsound.io/)
 
 ### Networking
 
-*   [KCP (⭐15k)](https://github.com/skywind3000/kcp/blob/master/README.en.md) - A fast and reliable ARQ protocol that helps applications to reduce network latency. \[MIT]
+*   [KCP (⭐16k)](https://github.com/skywind3000/kcp/blob/master/README.en.md) - A fast and reliable ARQ protocol that helps applications to reduce network latency. \[MIT]
 
 ### Coding Style Tools
 
@@ -486,7 +486,7 @@
 
 ### Media / Audio
 
-*   [Flutter Audio Recorder (⭐121)](https://github.com/shadow-app/flutter_audio_recorder) - Provides full controls and access to recording details such as level metering by [Wenyan Li](https://github.com/nikli2009).
+*   [Flutter Audio Recorder (⭐119)](https://github.com/shadow-app/flutter_audio_recorder) - Provides full controls and access to recording details such as level metering by [Wenyan Li](https://github.com/nikli2009).
 
 ### 🇬🇷 Greece / Misc
 
@@ -514,12 +514,12 @@
 
 ### GitHub Tools and Management / Docker Container Actions
 
-*   [Build and Publish Android debug APK (⭐61)](https://github.com/ShaunLWM/action-release-debugapk)
+*   [Build and Publish Android debug APK (⭐66)](https://github.com/ShaunLWM/action-release-debugapk)
 
 ### Utility / Docker Container Actions
 
-*   [Unlock git-crypt files (⭐31)](https://github.com/sliteteam/github-action-git-crypt-unlock)
-*   [Golang CGO cross compiler (⭐46)](https://github.com/crazy-max/ghaction-xgo)
+*   [Unlock git-crypt files (⭐46)](https://github.com/sliteteam/github-action-git-crypt-unlock)
+*   [Golang CGO cross compiler (⭐64)](https://github.com/crazy-max/ghaction-xgo)
 
 ### Static Analysis / Linting
 
@@ -527,13 +527,13 @@
 
 ### Deployment / Code Coverage
 
-*   [Cross platform Chocolatey CLI to build and publish packages (⭐60)](https://github.com/crazy-max/ghaction-chocolatey)
-*   [Deploy iOS Pod Library to Cocoapods (⭐30)](https://github.com/michaelhenry/deploy-to-cocoapods-github-action)
+*   [Cross platform Chocolatey CLI to build and publish packages (⭐73)](https://github.com/crazy-max/ghaction-chocolatey)
+*   [Deploy iOS Pod Library to Cocoapods (⭐38)](https://github.com/michaelhenry/deploy-to-cocoapods-github-action)
 *   [GitHub Action for TencentCloud Serverless (⭐3)](https://github.com/Juliiii/action-scf)
 
 ### Frontend Tools / Terraform
 
-*   [Generate OG Image (⭐32)](https://github.com/BoyWithSilverWings/generate-og-image) - Generate customisable open graph images from Markdown files.
+*   [Generate OG Image (⭐39)](https://github.com/BoyWithSilverWings/generate-og-image) - Generate customisable open graph images from Markdown files.
 
 ### Tutorials / Terraform
 

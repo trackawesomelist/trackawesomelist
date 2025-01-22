@@ -162,7 +162,7 @@
 
 ### Integrations
 
-*   [Official Keycloak Node.js Connect Adapter (⭐663)](https://github.com/keycloak/keycloak-nodejs-connect)
+*   [Official Keycloak Node.js Connect Adapter (⭐691)](https://github.com/keycloak/keycloak-nodejs-connect)
 
 ## [8. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 
@@ -195,23 +195,15 @@
 
 ## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
-### Resources / Examples
-
-*   [**vue-daily-zhihu**](https://github.com/walleeeee/daily-zhihu) a simple demo build with Vue 2.0 & vue-router & vuex by [walleeeee](https://github.com/walleeeee)
-
 ### Resources / Books
 
 *   [Vue.js: Construa aplicações incríveis](https://www.casadocodigo.com.br/products/livro-vue) by Caio Incau, Casa do Código. (September 2017)
-
-### Components & Libraries / UI Components
-
-*   [vue-my-photos (⭐54)](https://github.com/am283721/vue-my-photos) - A simple dependency-free image lightbox component with filtering capabilities
 
 ## [13. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### JavaScript / General-Purpose Machine Learning
 
-*   [Netron (⭐27k)](https://github.com/lutzroeder/netron) - Visualizer for machine learning models.
+*   [Netron (⭐29k)](https://github.com/lutzroeder/netron) - Visualizer for machine learning models.
 
 ## [14. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 
@@ -254,15 +246,15 @@
 
 ### Compression
 
-*   [libarchive (⭐3k)](https://github.com/libarchive/libarchive) - Multi-format archive and compression library. \[New BSD] [website](http://www.libarchive.org/)
+*   [libarchive (⭐3.1k)](https://github.com/libarchive/libarchive) - Multi-format archive and compression library. \[New BSD] [website](http://www.libarchive.org/)
 
 ### Scripting
 
-*   [LuaBridge (⭐1.6k)](https://github.com/vinniefalco/LuaBridge) - A lightweight, dependency-free library for binding Lua to C++. \[MIT]
+*   [LuaBridge (⭐1.7k)](https://github.com/vinniefalco/LuaBridge) - A lightweight, dependency-free library for binding Lua to C++. \[MIT]
 
 ### Static Code Analysis
 
-*   [cpplint (⭐1.5k)](https://github.com/cpplint/cpplint) - A C++ style checker following Google's C++ style guide.
+*   [cpplint (⭐1.6k)](https://github.com/cpplint/cpplint) - A C++ style checker following Google's C++ style guide.
 
 ## [19. Public Apis](/content/public-apis/public-apis/README.md)
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 19, 2021
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -67,13 +67,13 @@
 ### Other libraries and tools / Mesh tools
 
 *   [PyGMO](https://esa.github.io/pygmo/) - Massively parallel optimization.
-    (Python/C++, MPL 2, [GitHub (⭐394)](https://github.com/esa/pygmo2))
+    (Python/C++, MPL 2, [GitHub (⭐453)](https://github.com/esa/pygmo2))
 
 ## [3. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
 ### Open Source Projects / Other Tools
 
-*   [OPAL (Open Policy Administration Layer) (⭐14)](https://github.com/authorizon/opal) - Real-time authorization updates on top of Open-Policy; built with FastAPI, Typer, and FastAPI WebSocket pub/sub.
+*   [OPAL (Open Policy Administration Layer) (⭐13)](https://github.com/authorizon/opal) - Real-time authorization updates on top of Open-Policy; built with FastAPI, Typer, and FastAPI WebSocket pub/sub.
 
 ## [4. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 
@@ -124,23 +124,13 @@
 
 *   [NUSSL](https://interactiveaudiolab.github.io/project/nussl.html) [:octocat: (⭐531)](https://github.com/interactiveaudiolab/nussl) [:package:](https://pypi.python.org/pypi/nussl) - Holistic source separation framework including DSP methods and deep learning methods.
 
-## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Resources / Examples
-
-*   [Vue Todo PWA (⭐18)](https://github.com/davidgaroro/vue-todo-pwa) - A simple Todo PWA built with Vue 3 + Vuex + Bootstrap 5.
-
-### Components & Libraries / UI Components
-
-*   [vue-visual-filter (⭐100)](https://github.com/obadakhalili/vue-visual-filter) - 🕵️‍♂️ An unopinionated advanced visual filtering component for Vue 2 and 3.
-
-## [9. Awesome Programming for Kids](/content/HollyAdele/awesome-programming-for-kids/README.md)
+## [8. Awesome Programming for Kids](/content/HollyAdele/awesome-programming-for-kids/README.md)
 
 ### Lower Elementary
 
-*   [Python Turtle (⭐395)](https://github.com/PythonTurtle/PythonTurtle) original (1986-2021) simple 'Python-Turtle' model.
+*   [Python Turtle (⭐406)](https://github.com/PythonTurtle/PythonTurtle) original (1986-2021) simple 'Python-Turtle' model.
 
-## [10. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
+## [9. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 
 ### Programming Languages/Frameworks/Platforms / Java
 
@@ -166,7 +156,7 @@
 *   [Top DevOps Interview Questions You Must Prepare In 2021](https://www.edureka.co/blog/interview-questions/top-devops-interview-questions-2016/)
 *   [Top 60+ DevOps Interview Questions & Answers in 2021](https://intellipaat.com/interview-question/devops-interview-questions/)
 
-## [11. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
+## [10. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
 
 ### Training
 

@@ -10,7 +10,7 @@
 
 ### Compression
 
-*   [Snappy.Sharp (⭐142)](https://github.com/jeffesp/Snappy.Sharp) - An implementation of Google's Snappy compression algorithm in C#.
+*   [Snappy.Sharp (⭐145)](https://github.com/jeffesp/Snappy.Sharp) - An implementation of Google's Snappy compression algorithm in C#.
 
 ## [2. Awesome Dtrace](/content/xen0l/awesome-dtrace/README.md)
 
@@ -61,10 +61,10 @@
 
 ### Label / Barcode
 
-*   [ActiveLabel (⭐4.4k)](https://github.com/optonaut/ActiveLabel.swift) - UILabel drop-in replacement supporting Hashtags (#), Mentions (@) and URLs (http\://).
-*   [CountdownLabel (⭐984)](https://github.com/suzuki-0000/CountdownLabel) - Simple countdown UILabel with morphing animation, and some useful function.
+*   [ActiveLabel (⭐4.5k)](https://github.com/optonaut/ActiveLabel.swift) - UILabel drop-in replacement supporting Hashtags (#), Mentions (@) and URLs (http\://).
+*   [CountdownLabel (⭐1k)](https://github.com/suzuki-0000/CountdownLabel) - Simple countdown UILabel with morphing animation, and some useful function.
 *   [GlitchLabel (⭐1k)](https://github.com/kciter/GlitchLabel) - Glitching UILabel for iOS.
-*   [KDEDateLabel (⭐114)](https://github.com/delannoyk/KDEDateLabel) - An UILabel subclass that updates itself to make time ago's format easier.
+*   [KDEDateLabel (⭐115)](https://github.com/delannoyk/KDEDateLabel) - An UILabel subclass that updates itself to make time ago's format easier.
 
 ## [4. Awesome Gametalks](/content/hzoo/awesome-gametalks/README.md)
 

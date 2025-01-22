@@ -24,92 +24,97 @@
 
 *   [rblearn (⭐1)](https://github.com/himkt/rblearn) - Feature Extraction and Crossvalidation library.
 
-## [4. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
+## [4. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+
+### Resources / Tutorials
+
+*   [Hybrid App Example with Laravel and Vue.js in Portuguese](https://www.youtube.com/watch?v=TGSJjDahlrQ) by @vedovelli
+
+## [5. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
 ### Contents / Server
 
 *   [Postgres-XL](https://www.postgres-xl.org/) - Scalable Open Source PostgreSQL-based Database Cluster.
 
-## [5. Awesome Unity](/content/RyanNielson/awesome-unity/week/README.md)
+## [6. Awesome Unity](/content/RyanNielson/awesome-unity/week/README.md)
 
 ### Utilities
 
 *   [GitHub for Unity](https://unity.github.com/) - The new GitHub for Unity extension brings the GitHub workflow and more to Unity, providing support for large files with Git LFS and file locking.
 
-## [6. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [7. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Authentication and Authorization
 
 *   [ASP.NET Identity (⭐2k)](https://github.com/aspnet/Identity/) - New membership system for ASP.NET applications
 
-## [7. Jstips](/content/loverajoel/jstips/week/README.md)
+## [8. Jstips](/content/loverajoel/jstips/week/README.md)
 
 ### Support the community / Let’s keep in touch
 
 *   73 - [Hash maps without side effects](http://www.jstips.co/en/javascript/hash-maps-without-side-effects/)
 
-## [8. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [9. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Plotting / Third-party APIs
 
-*   [eazy-gnuplot (⭐61)](https://github.com/guicho271828/eazy-gnuplot) - a
+*   [eazy-gnuplot (⭐63)](https://github.com/guicho271828/eazy-gnuplot) - a
     lispy, structure-less Gnuplot library. With its
     [cookbook](http://guicho271828.github.io/eazy-gnuplot/). [LLGPL](http://opensource.franz.com/preamble.html)
 
-## [9. Awesome Ssh](/content/moul/awesome-ssh/week/README.md)
+## [10. Awesome Ssh](/content/moul/awesome-ssh/week/README.md)
 
 ### Apps / *SSH*   keys / Authentication
 
 *   [Slack notifications](http://www.ryanbrink.com/slack-ssh-session-notifications/) ([archived version](https://web.archive.org/web/20160505202303/http://www.ryanbrink.com/slack-ssh-session-notifications/)) - Guide to setup Slack notifications (can be modified for other services).
 
-## [10. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
+## [11. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
 ### Browser automation
 
-*   [Selenium (⭐30k)](https://github.com/SeleniumHQ/selenium) - Browser automation framework and ecosystem.
+*   [Selenium (⭐31k)](https://github.com/SeleniumHQ/selenium) - Browser automation framework and ecosystem.
 *   [SlimerJS (⭐3k)](https://github.com/laurentj/slimerjs) - Scriptable browser like PhantomJS, based on Firefox.
-*   [Webdriver.io (⭐8.9k)](https://github.com/webdriverio/webdriverio/) - Node.js bindings implementation for the W3C WebDriver protocol.
+*   [Webdriver.io (⭐9.1k)](https://github.com/webdriverio/webdriverio/) - Node.js bindings implementation for the W3C WebDriver protocol.
 
-### Tools and frameworks
+### Tools and frameworks (a-z↓)
 
-*   [gatling (⭐55)](https://github.com/gabrielrotbart/gatling) - Integrated visual RSpec matcher which makes real visual testing easy (Ruby).
-*   [vrtest (⭐14)](https://github.com/nathanmarks/vrtest) - JavaScript library for running visual regression tests on your components cross browser via selenium.
+*   [gatling (⭐56)](https://github.com/gabrielrotbart/gatling) - Integrated visual RSpec matcher which makes real visual testing easy (Ruby).
+*   [vrtest (⭐15)](https://github.com/nathanmarks/vrtest) - JavaScript library for running visual regression tests on your components cross browser via selenium.
 
-### Online services
+### Online services (a-z↓)
 
-*   [BrowserStack](https://www.browserstack.com) - Free for Open Source. Supports [Selenium Webdriver (⭐30k)](https://github.com/SeleniumHQ/selenium/tree/master/javascript/node/selenium-webdriver).
-*   [screener.io](https://screener.io) - For React, looks open source.
 *   [applitools](https://applitools.com) - Cloud base visual tests.
-*   [percy.io](https://percy.io) - Continuous visual reviews for web apps.
-*   [screenster.io](http://screenster.io) - Cloud based automation testing platform for web and mobile UI.
-*   [browserling](https://www.browserling.com) - LIVE interactive cross-browser testing.
 *   [Browser Shots](http://browsershots.org) - Screenshots only.
-*   [Ghost Inspector](https://ghostinspector.com) - See [introduction video](https://vimeo.com/ghostinspector/intro).
+*   [browserling](https://www.browserling.com) - LIVE interactive cross-browser testing.
+*   [BrowserStack](https://www.browserstack.com) - Free for Open Source. Supports [Selenium Webdriver (⭐31k)](https://github.com/SeleniumHQ/selenium/tree/master/javascript/node/selenium-webdriver).
 *   [CrossBrowserTesting](https://crossbrowsertesting.com) - Manual & exploratory testing on 1500+ real browsers and mobile devices.
-*   [Argos-CI](https://www.argos-ci.com) - Automate visual regression testing.
+*   [Ghost Inspector](https://ghostinspector.com) - See [introduction video](https://vimeo.com/ghostinspector/intro).
+*   [percy.io](https://percy.io) - Continuous visual reviews for web apps.
+*   [screener.io](https://screener.io) - For React, looks open source.
+*   [screenster.io](http://screenster.io) - Cloud based automation testing platform for web and mobile UI.
 
-### Blog posts
+### Blog posts  (a-z↓)
 
-*   [Phillip Gourley: Making visual regression useful](https://medium.com/@philgourley/making-visual-regression-useful-acfae27e5031) - Why you should use BackstopJS.
 *   [Pavels Jelisejevs: Visual Regression Testing with PhantomCSS](https://www.sitepoint.com/visual-regression-testing-with-phantomcss) - Introduction to PhantomCSS.
+*   [Phillip Gourley: Making visual regression useful](https://medium.com/@philgourley/making-visual-regression-useful-acfae27e5031) - Why you should use BackstopJS.
 
-## [11. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [12. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Command-Line Productivity
 
 *   [has (⭐594)](https://github.com/kdabir/has) - `has` helps you check presence of various command line tools and their versions on path
 
-## [12. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [13. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Authentication
 
-*   [SpotifyLogin (⭐347)](https://github.com/spotify/SpotifyLogin) - Authenticate with the Spotify API.
+*   [SpotifyLogin (⭐348)](https://github.com/spotify/SpotifyLogin) - Authenticate with the Spotify API.
 
 ### Video / Barcode
 
 *   [MMPlayerView (⭐730)](https://github.com/MillmanY/MMPlayerView) - Custom AVPlayerLayer on view and transition player with good effect like YouTube and Facebook.
 
-## [13. Awesome Draft Js](/content/nikgraf/awesome-draft-js/week/README.md)
+## [14. Awesome Draft Js](/content/nikgraf/awesome-draft-js/week/README.md)
 
 ### Standalone Editors Built on Draft.js
 
@@ -175,13 +180,13 @@
 
 *   [HKW Technosphere Magazine](https://technosphere-magazine.hkw.de/)
 
-## [14. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
+## [15. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
 
 ### Videos
 
 *   [Summit 2017](https://www.youtube.com/watch?v=TDpiyrcOO30\&list=PLNYkxOF6rcIDP0PqVaJxqNWwIgvoEPzJi)
 
-## [15. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [16. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### User Groups / Ruby
 
@@ -191,32 +196,32 @@
 *   [Nederland](http://www.meetup.com/Domain-Driven-Design-Nederland/)
 *   [Phoenix](https://www.meetup.com/DDD-Phoenix)
 
-## [16. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
+## [17. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
 ### Microservices
 
-*   [Resilience4j (⭐9.1k)](https://github.com/resilience4j/resilience4j) - Resilience4j is a fault tolerance library designed for Java8 and functional programming. Resilience4j provides modules for Circuit Breaking, Rate Limiting, Bulkheading, Automatic retrying, Response caching and Metric measuring.
+*   [Resilience4j (⭐9.8k)](https://github.com/resilience4j/resilience4j) - Resilience4j is a fault tolerance library designed for Java8 and functional programming. Resilience4j provides modules for Circuit Breaking, Rate Limiting, Bulkheading, Automatic retrying, Response caching and Metric measuring.
 
-## [17. Awesome Pyramid](/content/uralbash/awesome-pyramid/week/README.md)
+## [18. Awesome Pyramid](/content/uralbash/awesome-pyramid/week/README.md)
 
 ### Authentication
 
 *   [pyramid\_ldap3 (⭐11)](https://github.com/Cito/pyramid_ldap3) - Provides LDAP authentication
     services for your Pyramid application based on the ldap3 package.
 
-## [18. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [19. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Command-line utilities
 
-*   [gradient-string (⭐1k)](https://github.com/bokub/gradient-string) - Beautiful color gradients in terminal output.
+*   [gradient-string (⭐1.1k)](https://github.com/bokub/gradient-string) - Beautiful color gradients in terminal output.
 
-## [19. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
+## [20. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
 ### Books / Topic-specific
 
 *   *[The Chessboard and the Web. Strategies of Connection in a Networked World](http://yalebooks.yale.edu/book/9780300215649/chessboard-and-web)*, by Anne-Marie Slaughter (2017); applies network science to world politics.
 
-## [20. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
+## [21. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
 
 ### References / Firefox Specific Tools/Debugger
 
@@ -227,14 +232,14 @@
 
 *   [Hologram](https://hologram.cool/) - Desktop app that let you create and prototype WebVR in interactive way needing no previous coding knowledge.
 
-## [21. Awesome Canvas](/content/raphamorim/awesome-canvas/week/README.md)
+## [22. Awesome Canvas](/content/raphamorim/awesome-canvas/week/README.md)
 
 ### Libraries / To draw using canvas
 
 *   [d3 (⭐107k)](https://github.com/d3/d3) (or D3.js) is a JavaScript library for visualizing data using web standards. D3 helps you bring data to life using SVG, Canvas and HTML.
 *   [Konva (⭐10k)](https://github.com/konvajs/konva) - Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications.
 
-## [22. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [23. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Community Extensions
 
@@ -243,16 +248,16 @@
 
 ### Example Projects
 
-*   [Example of custom password hash SPI for Keycloak (⭐24)](https://github.com/pavelbogomolenko/keycloak-custom-password-hash)
+*   [Example of custom password hash SPI for Keycloak (⭐26)](https://github.com/pavelbogomolenko/keycloak-custom-password-hash)
 *   [Example for a custom http-client-provider with Proxy support (⭐3)](https://github.com/xiaoyvr/custom-http-client-provider)
 
-## [23. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [24. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Models/Projects
 
 *   [Attentive Object Tracking (⭐146)](https://github.com/akosiorek/hart) - Implementation of ["Hierarchical Attentive Recurrent Tracking"](https://arxiv.org/abs/1706.09262)
 
-## [24. Awesome CoreML Models](/content/likedan/Awesome-CoreML-Models/week/README.md)
+## [25. Awesome CoreML Models](/content/likedan/Awesome-CoreML-Models/week/README.md)
 
 ### Image - Metadata/Text
 
@@ -275,13 +280,13 @@
 *   **Sentiment Polarity** - Predict positive or negative sentiments from sentences. [Download (⭐116)](https://github.com/cocoa-ai/SentimentCoreMLDemo/raw/master/SentimentPolarity/Resources/SentimentPolarity.mlmodel) | [Demo (⭐116)](https://github.com/cocoa-ai/SentimentCoreMLDemo) | [Reference](http://boston.lti.cs.cmu.edu/classes/95-865-K/HW/HW3/)
 *   **iMessage Spam Detection** - Detect whether a message is spam. [Download (⭐35)](https://github.com/gkswamy98/imessage-spam-detection/blob/master/MessageClassifier.mlmodel) | [Demo (⭐35)](https://github.com/gkswamy98/imessage-spam-detection/tree/master) | [Reference](http://www.dt.fee.unicamp.br/~tiago/smsspamcollection/)
 
-## [25. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
+## [26. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
 
 ### Music, Radio and Podcasts / Others
 
 *   [ongaku](https://ongaku.js.org/) - Online anime music radio, with [desktop port (⭐22)](https://github.com/Anshuman-Verma/ongaku-desktop).
 
-## [26. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
+## [27. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
 
 ### Developer Tools
 
@@ -294,7 +299,7 @@
 *   [Link Shell Extension](http://schinagl.priv.at/nt/hardlinkshellext/hardlinkshellext.html) - Create symlinks from Explorer.
 *   [Rufus](https://rufus.akeo.ie/) - Create bootable USB drives the easy way.
 
-## [27. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [28. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Datastores / Online resources
 
@@ -307,31 +312,6 @@
 *   [chamber (⭐2.4k)](https://github.com/segmentio/chamber) - Store secrets using AWS KMS and SSM Parameter Store
 *   [passpie (⭐923)](https://github.com/marcwebbie/passpie) - Multiplatform command-line password manager
 
-## [28. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
-
-### Resources / Conferences
-
-*   [VueConf](http://conf.vuejs.org)
-*   [Vue.js London](http://vuejs.london)
-
-### Resources / Tutorials
-
-*   [Hybrid App Example with Laravel and Vue.js in Portuguese](https://www.youtube.com/watch?v=TGSJjDahlrQ) by @vedovelli
-
-### Projects Using Vue.js / Open Source
-
-*   [Voten (⭐1.3k)](https://github.com/voten-co/voten) - A Reddit-like platform built with Vue2 and Laravel.
-*   [News Weaver (⭐23)](https://github.com/Rud156/News-Weaver) - A web based RSS Reader/Aggregator made using VueJS and VuetifyJS
-
-### Components & Libraries / UI Components
-
-*   [vue-messagebox (⭐13)](https://github.com/zhangxiang958/vue-messageBox) - Easy and made-to-order messagebox component on Vue.
-*   [vue-monthly-picker (⭐69)](https://github.com/ittus/vue-monthly-picker) - Vue.js component for month and year picker only
-
-### Components & Libraries / UI Utilities
-
-*   [vue-pano](https://github.com/ChiChou/vue-pano) - A panorama viewer in Vue component.
-
 ## [29. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/week/README.md)
 
 ### Websites
@@ -342,7 +322,7 @@
 
 ### Libraries for driving the protocol (or a layer above)
 
-*   Kotlin: [chrome-reactive-kotlin (⭐75)](https://github.com/wendigo/chrome-reactive-kotlin) - reactive (rxjava 2.x), low-level client library in Kotlin
+*   Kotlin: [chrome-reactive-kotlin (⭐77)](https://github.com/wendigo/chrome-reactive-kotlin) - reactive (rxjava 2.x), low-level client library in Kotlin
 
 ### Workflow / Ruby
 

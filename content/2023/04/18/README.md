@@ -10,7 +10,7 @@
 
 ### Command-line
 
-*   [vzcc (⭐25)](https://github.com/malisipi/vzcc) - A CLI cross-compiling tool based on Zig CC for V.
+*   [vzcc (⭐27)](https://github.com/malisipi/vzcc) - A CLI cross-compiling tool based on Zig CC for V.
 
 ## [2. Awesome React](/content/enaqx/awesome-react/README.md)
 
@@ -20,25 +20,25 @@
 
 ### React Testing
 
-*   [cypress (⭐46k)](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser
+*   [cypress (⭐47k)](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser
 
 ### React Awesome Components
 
-*   [react-insta-stories (⭐1.3k)](https://github.com/mohitk05/react-insta-stories) - A React component for Instagram like stories
+*   [react-insta-stories (⭐1.4k)](https://github.com/mohitk05/react-insta-stories) - A React component for Instagram like stories
 
 ## [3. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Color / Diagnostics
 
-*   [Mr-LLLLL/interestingwords.nvim (⭐42)](https://github.com/Mr-LLLLL/interestingwords.nvim) - Highlight multiple word same time and navigate word under cursor with scrolling smoothly, display search count in virualtext.
+*   [Mr-LLLLL/interestingwords.nvim (⭐46)](https://github.com/Mr-LLLLL/interestingwords.nvim) - Highlight multiple word same time and navigate word under cursor with scrolling smoothly, display search count in virualtext.
 
 ### Colorscheme Creation / Diagnostics
 
-*   [echasnovski/mini.nvim#mini.colors (⭐4.7k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-colors.md) - Module of `mini.nvim` to tweak and save any color scheme. Also can animate transition and convert between some color spaces.
+*   [echasnovski/mini.nvim#mini.colors (⭐6.2k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-colors.md) - Module of `mini.nvim` to tweak and save any color scheme. Also can animate transition and convert between some color spaces.
 
 ### Utility / Diagnostics
 
-*   [hbac.nvim (⭐194)](https://github.com/axkirillov/hbac.nvim) - Automatically close buffers you are not working on.
+*   [hbac.nvim (⭐209)](https://github.com/axkirillov/hbac.nvim) - Automatically close buffers you are not working on.
 
 ## [4. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
@@ -50,7 +50,7 @@
 
 ### Packages / Middleware
 
-*   [Apache Kyuubi (⭐1.6k)](https://github.com/apache/kyuubi) <img src="https://img.shields.io/github/last-commit/apache/kyuubi.svg"> - A distributed multi-tenant JDBC server for large-scale data processing and analytics, built on top of Apache Spark.
+*   [Apache Kyuubi (⭐2.1k)](https://github.com/apache/kyuubi) <img src="https://img.shields.io/github/last-commit/apache/kyuubi.svg"> - A distributed multi-tenant JDBC server for large-scale data processing and analytics, built on top of Apache Spark.
 
 ### Resources / Docker Images
 
@@ -66,7 +66,7 @@
 
 ### HTML Builders
 
-*   [blueprint (⭐40)](https://github.com/gunbolt/blueprint) - Write reusable and testable HTML templates in plain Crystal
+*   [blueprint (⭐48)](https://github.com/gunbolt/blueprint) - Write reusable and testable HTML templates in plain Crystal
 
 ## [8. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
@@ -138,11 +138,11 @@
 
 ### Reading and Writing Tools / Others
 
-*   [Zotero](https://www.zotero.org/) - Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share research. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/zotero/zotero/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Zotero](https://www.zotero.org/) - Free tool to collect, organize, annotate, cite, and share research. [![OSS](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/zotero/zotero/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Developer Tools / Command Line Tools
 
-*   [nvm (⭐78k)](https://github.com/nvm-sh/nvm) - Node Version Manager is a POSIX-compliant bash script to manage multiple active node.js versions. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/nvm-sh/nvm) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [nvm (⭐82k)](https://github.com/nvm-sh/nvm) - POSIX-compliant bash script to manage multiple active node.js versions. [![OSS](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/nvm-sh/nvm) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / General Tools
 
@@ -150,15 +150,14 @@
 
 ### Utilities / Window Management
 
-*   [Rectangle-app (⭐25k)](https://github.com/rxhanson/Rectangle) - Rectangle is a window management app based on Spectacle, written in Swift: Move and resize windows on macOS with keyboard shortcuts and snap areas. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/rxhanson/Rectangle)
+*   [Rectangle-app (⭐26k)](https://github.com/rxhanson/Rectangle) - Rectangle is a window management app based on Spectacle, written in Swift: Move and resize windows on macOS with keyboard shortcuts and snap areas. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/rxhanson/Rectangle)
 *   [Sidebar](http://sidebarapp.net/) - The modern Dock replacement for your Mac.
 
 ## [10. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
 ### GTFS Merge Tools / Ruby
 
-*   [onebusaway-gtfs-merge-cli](http://developer.onebusaway.org/modules/onebusaway-gtfs-modules/1.3.94/onebusaway-gtfs-merge-cli.html) - A command line tool for merging GTFS feeds. Info provided at the link on how the tool detects and merges duplicate IDs.
-*   [Transitfeed merge function (⭐678)](https://github.com/google/transitfeed/wiki/Merge) - A Python library with a function to merge two different GTFS feeds.
+*   [Transitfeed merge function (⭐682)](https://github.com/google/transitfeed/wiki/Merge) - A Python library with a function to merge two different GTFS feeds.
 
 ## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

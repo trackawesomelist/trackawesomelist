@@ -10,13 +10,13 @@
 
 ### Errors and Exception Handling
 
-*   [OK (⭐599)](https://github.com/CrowdHailer/OK) - Elegant error handling with result monads, featuring a simple & powerful `with` construct and a happy path pipe operator.
+*   [OK (⭐604)](https://github.com/CrowdHailer/OK) - Elegant error handling with result monads, featuring a simple & powerful `with` construct and a happy path pipe operator.
 
 ## [2. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Search
 
-*   [hermes (⭐37)](https://github.com/imdrasil/hermes.cr) - Data Mapper pattern implementation for ElastiSearch
+*   [hermes (⭐38)](https://github.com/imdrasil/hermes.cr) - Data Mapper pattern implementation for ElastiSearch
 
 ### Task management
 
@@ -38,7 +38,7 @@
 
 ### Version Control / Git
 
-*   [git-standup (⭐7.5k)](https://github.com/kamranahmedse/git-standup) - Recall what you did on the last working day.
+*   [git-standup (⭐7.6k)](https://github.com/kamranahmedse/git-standup) - Recall what you did on the last working day.
 
 ## [6. Awesome Groovy](/content/kdabir/awesome-groovy/README.md)
 

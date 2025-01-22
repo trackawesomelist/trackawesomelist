@@ -33,7 +33,7 @@
 
 *   <http://eed3si9n.com/category/tags/scala>
 *   <https://blog.bruchez.name/search/label/scala>
-*   [https://github.com/lemastero/scala\_typeclassopedia (⭐365)](https://github.com/lemastero/scala_typeclassopedia)
+*   [https://github.com/lemastero/scala\_typeclassopedia (⭐379)](https://github.com/lemastero/scala_typeclassopedia)
 
 ### Company Blogs / Devops
 
@@ -53,8 +53,8 @@
 *   [**NES.css**](https://nostalgic-css.github.io/NES.css/) - NES-style CSS Framework.\
     ![](https://img.shields.io/github/stars/nostalgic-css/NES.css.svg?style=social\&label=Star)
     [Demo](https://nostalgic-css.github.io/NES.css/),
-    [Docs (⭐20k)](https://github.com/nostalgic-css/NES.css#installation),
-    [Repo (⭐20k)](https://github.com/nostalgic-css/NES.css)
+    [Docs (⭐21k)](https://github.com/nostalgic-css/NES.css#installation),
+    [Repo (⭐21k)](https://github.com/nostalgic-css/NES.css)
     \| #SCSS
 
 ## [6. Awesome Symfony Education](/content/pehapkari/awesome-symfony-education/README.md)

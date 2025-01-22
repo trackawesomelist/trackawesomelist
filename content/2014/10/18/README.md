@@ -10,7 +10,7 @@
 
 ### Packages / Node.js management
 
-*   [nvm for Windows (⭐36k)](https://github.com/coreybutler/nvm-windows) - Version management for Windows.
+*   [nvm for Windows (⭐38k)](https://github.com/coreybutler/nvm-windows) - Version management for Windows.
 
 ## [2. Awesome Linguistics](/content/theimpossibleastronaut/awesome-linguistics/README.md)
 
@@ -29,20 +29,20 @@
 
 ### Algorithms and Data structures
 
-*   [fsm (⭐357)](https://github.com/sasa1977/fsm) - Finite state machine as a functional data structure.
+*   [fsm (⭐359)](https://github.com/sasa1977/fsm) - Finite state machine as a functional data structure.
 *   [key2value (⭐7)](https://github.com/okeuday/key2value) - Erlang 2-way Set Associative Map.
 *   [lfsr (⭐8)](https://github.com/pma/lfsr) - Elixir implementation of a binary Galois Linear Feedback Shift Register.
 *   [trie (⭐132)](https://github.com/okeuday/trie) - Erlang Trie Implementation.
 
 ### Authentication
 
-*   [oauther (⭐67)](https://github.com/lexmag/oauther) - An OAuth 1.0 implementation for Elixir.
+*   [oauther (⭐70)](https://github.com/lexmag/oauther) - An OAuth 1.0 implementation for Elixir.
 
 ### Build Tools
 
-*   [coffee\_rotor (⭐17)](https://github.com/HashNuke/coffee_rotor) - Rotor plugin to compile CoffeeScript files.
+*   [coffee\_rotor (⭐16)](https://github.com/HashNuke/coffee_rotor) - Rotor plugin to compile CoffeeScript files.
 *   [reltool\_util (⭐26)](https://github.com/okeuday/reltool_util) - Erlang reltool utility functionality application.
-*   [rotor (⭐83)](https://github.com/HashNuke/rotor) - Super-simple build system for Elixir.
+*   [rotor (⭐82)](https://github.com/HashNuke/rotor) - Super-simple build system for Elixir.
 
 ### Cloud Infrastructure and Management
 
@@ -56,7 +56,7 @@
 
 ### Date and Time
 
-*   [moment (⭐29)](https://github.com/atabary/moment) - Parse, validate, manipulate, and display dates in Elixir.
+*   [moment (⭐28)](https://github.com/atabary/moment) - Parse, validate, manipulate, and display dates in Elixir.
 
 ### Debugging
 
@@ -64,17 +64,17 @@
 
 ### Framework Components
 
-*   [exrecaptcha (⭐11)](https://github.com/adanselm/exrecaptcha) - Simple reCaptcha display/verify code for Elixir applications.
+*   [exrecaptcha (⭐12)](https://github.com/adanselm/exrecaptcha) - Simple reCaptcha display/verify code for Elixir applications.
 *   [plug\_jwt (⭐39)](https://github.com/bryanjos/plug_jwt) - Plug for JWT authentication.
 
 ### Images
 
-*   [mogrify (⭐558)](https://github.com/route/mogrify) - An Elixir wrapper for ImageMagick command line.
+*   [mogrify (⭐571)](https://github.com/route/mogrify) - An Elixir wrapper for ImageMagick command line.
 
 ### Miscellaneous
 
 *   [address\_us (⭐30)](https://github.com/smashedtoatoms/address_us) - Library for parsing US Addresses into their individual parts.
-*   [erlang\_term (⭐34)](https://github.com/okeuday/erlang_term) - Provide the in-memory size of Erlang terms, ignoring where these are stored.
+*   [erlang\_term (⭐33)](https://github.com/okeuday/erlang_term) - Provide the in-memory size of Erlang terms, ignoring where these are stored.
 *   [keys1value (⭐1)](https://github.com/okeuday/keys1value) - Erlang set associative map for key lists.
 
 ### ORM and Datamapping
@@ -92,13 +92,13 @@
 
 ### Statistics
 
-*   [statistics (⭐138)](https://github.com/msharp/elixir-statistics) - Some basic statistical functions for Elixir.
+*   [statistics (⭐139)](https://github.com/msharp/elixir-statistics) - Some basic statistical functions for Elixir.
 
 ### Text and Numbers
 
 *   [dicer (⭐4)](https://github.com/olhado/dicer) - A dice roller expression evaluator.
 *   [quickrand (⭐41)](https://github.com/okeuday/quickrand) - Quick Random Number Generation.
-*   [uuid\_erl (⭐216)](https://github.com/okeuday/uuid) - Erlang Native UUID Generation.
+*   [uuid\_erl (⭐217)](https://github.com/okeuday/uuid) - Erlang Native UUID Generation.
 
 ### Third Party APIs
 
@@ -106,7 +106,7 @@
 *   [forecast\_io (⭐8)](https://github.com/r-icarus/forecast_io) - Simple wrapper for Forecast.IO API.
 *   [hexoku](https://github.com/JonGretar/Hexoku) - Heroku API client and Heroku Mix tasks for Elixir projects.
 *   [link\_shrinkex (⭐8)](https://github.com/jonahoffline/link_shrinkex) - Elixir library for creating short URLs using Google's URL Shortener API.
-*   [mailgun (⭐194)](https://github.com/chrismccord/mailgun) - Elixir Mailgun Client.
+*   [mailgun (⭐196)](https://github.com/chrismccord/mailgun) - Elixir Mailgun Client.
 *   [parsex (⭐2)](https://github.com/maarek/ParsEx) - ParsEx is an Elixir HTTP Client for communicating with Parse.com's Restful API.
 
 ### XML

@@ -40,13 +40,13 @@
 
 ### Tools / Paid and commercially available materials
 
-*   [ferros (⭐106)](https://github.com/auxoncorp/ferros) A Rust-based userland which also adds compile-time assurances to seL4 development.
+*   [ferros (⭐110)](https://github.com/auxoncorp/ferros) A Rust-based userland which also adds compile-time assurances to seL4 development.
 
 ## [7. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Misc
 
-*   [yole/kxdate (⭐257)](https://github.com/yole/kxdate) - Kotlin extensions for Java 8 java.time API
+*   [yole/kxdate (⭐258)](https://github.com/yole/kxdate) - Kotlin extensions for Java 8 java.time API
 
 ## [8. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -68,7 +68,7 @@
 
 ### Software / Media Streaming - Multimedia Streaming
 
-*   [Stash](https://stashapp.cc) - A web-based library organizer and player for your adult media stash, with auto-tagging and metadata scraping support. ([Source Code (⭐8.7k)](https://github.com/stashapp/stash)) `AGPL-3.0` `Docker/Go`
+*   [Stash](https://stashapp.cc) - A web-based library organizer and player for your adult media stash, with auto-tagging and metadata scraping support. ([Source Code (⭐9.7k)](https://github.com/stashapp/stash)) `AGPL-3.0` `Docker/Go`
 
 ### Software / Ticketing
 
@@ -76,13 +76,13 @@
 
 ### Software / Wikis
 
-*   [WackoWiki](https://wackowiki.org/) - WackoWiki is a light and easy to install multilingual Wiki-engine. ([Source Code (⭐41)](https://github.com/WackoWiki/wackowiki)) `BSD-3-Clause` `PHP`
+*   [WackoWiki](https://wackowiki.org/) - WackoWiki is a light and easy to install multilingual Wiki-engine. ([Source Code (⭐46)](https://github.com/WackoWiki/wackowiki)) `BSD-3-Clause` `PHP`
 
 ## [10. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [catppuccin/nvim (⭐5.3k)](https://github.com/catppuccin/nvim) - Warm mid-tone dark theme to show off your vibrant self! with support for native LSP, Tree-sitter, and more 🍨!
+*   [catppuccin/nvim (⭐5.9k)](https://github.com/catppuccin/nvim) - Warm mid-tone dark theme to show off your vibrant self! With support for native LSP, Tree-sitter, and more.
 
 ## [11. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -92,7 +92,7 @@
 
 ## [12. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
-### Web History and Website Capture / Telegram
+### Web History and Website Capture / Steam
 
 *   [stored.website](https://stored.website)
 
@@ -106,13 +106,13 @@
 
 ### Resources / Books
 
-*   [Hydras & Co. (⭐63)](https://github.com/coq-community/hydra-battles) - Continuously in-progress book and library on Kirby and Paris' hydra battles and other entertaining formalized mathematics in Coq, including a proof of the Gödel-Rosser first incompleteness theorem.
+*   [Hydras & Co. (⭐70)](https://github.com/coq-community/hydra-battles) - Continuously in-progress book and library on Kirby and Paris' hydra battles and other entertaining formalized mathematics in Coq, including a proof of the Gödel-Rosser first incompleteness theorem.
 
 ## [15. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Table of Contents / JSON
 
-*   [JSONMapper (⭐207)](https://github.com/JsonMapper/JsonMapper) - A library for mapping JSON to PHP objects.
+*   [JSONMapper (⭐212)](https://github.com/JsonMapper/JsonMapper) - A library for mapping JSON to PHP objects.
 
 ## [16. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
@@ -130,7 +130,7 @@
 
 ### Storage / Flash
 
-*   [micropython\_data\_to\_py (⭐26)](https://github.com/peterhinch/micropython_data_to_py) - A Python 3 utility to convert an arbitrary binary file to Python source for freezing as bytecode in Flash.
+*   [micropython\_data\_to\_py (⭐29)](https://github.com/peterhinch/micropython_data_to_py) - A Python 3 utility to convert an arbitrary binary file to Python source for freezing as bytecode in Flash.
 
 ---
 

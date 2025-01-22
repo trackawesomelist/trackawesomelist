@@ -14,7 +14,7 @@
 
 ### Alert / Barcode
 
-*   [SwiftEntryKit (⭐6.5k)](https://github.com/huri000/SwiftEntryKit) - A simple and versatile pop-up presenter.
+*   [SwiftEntryKit (⭐6.6k)](https://github.com/huri000/SwiftEntryKit) - A simple and versatile pop-up presenter.
 
 ## [2. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
@@ -45,7 +45,7 @@
 
 ### Ask these people anything!
 
-*   [Byungjin Park (⭐14)](https://github.com/posquit0/ama) - Software Architect, DevOps Engineer, Hacker, Open Sourcer.
+*   [Byungjin Park (⭐15)](https://github.com/posquit0/ama) - Software Architect, DevOps Engineer, Hacker, Open Sourcer.
 
 ## [6. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
 

@@ -33,7 +33,7 @@
 
 ### Libraries / JavaScript
 
-*   [node-net-snmp (⭐191)](https://github.com/markabrahams/node-net-snmp) -  JavaScript implementation of the Simple Network Management Protocol (SNMP), implements versions 1, 2c and 3.
+*   [node-net-snmp (⭐209)](https://github.com/markabrahams/node-net-snmp) -  JavaScript implementation of the Simple Network Management Protocol (SNMP), implements versions 1, 2c and 3.
 
 ### Tools / CLIs
 
@@ -76,7 +76,7 @@
 
 ### Libraries/Frameworks / Testing
 
-*   [skrapeit/skrape.it (⭐798)](https://github.com/skrapeit/skrape.it) - A DSL-driven HTML/XML parser-library that enables meaningful testing of rendered HTML templates.
+*   [skrapeit/skrape.it (⭐819)](https://github.com/skrapeit/skrape.it) - A DSL-driven HTML/XML parser-library that enables meaningful testing of rendered HTML templates.
 
 ## [4. Awesome Open Source Games](/content/michelpereira/awesome-open-source-games/README.md)
 
@@ -94,18 +94,18 @@
 
 ### Native / MMORPG
 
-*   [Stendhal (⭐575)](https://github.com/arianne/stendhal) - Fun friendly and free 2D multiplayer online adventure game with an old school feel.
+*   [Stendhal (⭐610)](https://github.com/arianne/stendhal) - Fun friendly and free 2D multiplayer online adventure game with an old school feel.
 
 ## [5. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Standard CLI
 
-*   [carapace (⭐301)](https://github.com/rsteube/carapace) - Command argument completion generator for spf13/cobra.
-*   [carapace-bin (⭐816)](https://github.com/rsteube/carapace-bin) - Multi-shell multi-command argument completer.
+*   [carapace (⭐483)](https://github.com/rsteube/carapace) - Command argument completion generator for spf13/cobra.
+*   [carapace-bin (⭐1k)](https://github.com/rsteube/carapace-bin) - Multi-shell multi-command argument completer.
 
 ### Uncategorized
 
-*   [openapi (⭐10)](https://github.com/neotoolkit/openapi) - OpenAPI 3.x parser.
+*   [openapi (⭐11)](https://github.com/neotoolkit/openapi) - OpenAPI 3.x parser.
 
 ### Server Applications
 
@@ -132,7 +132,7 @@
 
 ### Plugins
 
-*   [tmux-power-zoom (⭐42)](https://github.com/jaclu/tmux-power-zoom) Zoom pane to separate window, then unzoom it back into it's original location.
+*   [tmux-power-zoom (⭐48)](https://github.com/jaclu/tmux-power-zoom) Zoom pane to separate window, then unzoom it back into it's original location.
 
 ---
 

@@ -10,7 +10,7 @@
 
 ### Libraries / Email
 
-*   [tweedegolf/mailcrab (⭐695)](https://github.com/tweedegolf/mailcrab) - Email test server for development.
+*   [tweedegolf/mailcrab (⭐835)](https://github.com/tweedegolf/mailcrab) - Email test server for development.
 
 ## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -39,7 +39,7 @@
 
 ### Engines and Frameworks / Voxel Editors
 
-*   :tada: [axys (⭐790)](https://github.com/axys1/axys) - A fork of Cocos2d-x-4.0, it has Full Support OpenAL for all platforms, single texture multi GPU texture handler and C++ 17.
+*   :tada: [axys (⭐953)](https://github.com/axys1/axys) - A fork of Cocos2d-x-4.0, it has Full Support OpenAL for all platforms, single texture multi GPU texture handler and C++ 17.
 
 ---
 

@@ -10,7 +10,7 @@
 
 ### Communications / MDNS
 
-*   [micropython-mdns (⭐49)](https://github.com/cbrand/micropython-mdns) - A pure Python implementation of MDNS with support for Service Discovery.
+*   [micropython-mdns (⭐60)](https://github.com/cbrand/micropython-mdns) - A pure Python implementation of MDNS with support for Service Discovery.
 
 ## [2. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 
@@ -22,7 +22,7 @@
 
 ### Plugins
 
-*   [tmux-easy-motion (⭐78)](https://github.com/IngoMeyer441/tmux-easy-motion) vim-easymotion like navigation for tmux.
+*   [tmux-easy-motion (⭐81)](https://github.com/IngoMeyer441/tmux-easy-motion) vim-easymotion like navigation for tmux.
 
 ## [4. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
@@ -38,7 +38,7 @@
 
 ### Others
 
-*   [Blazor Weather (⭐246)](https://github.com/danroth27/BlazorWeather) - ![stars](https://img.shields.io/github/stars/danroth27/BlazorWeather?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/danroth27/BlazorWeather?style=flat-square\&cacheSeconds=86400) A Blazor Weather sample app that shows the current weather for your current location and a collection of pinned locations. Demonstrated at .NET Conf 2019 by Daniel Roth. [Demo](https://aka.ms/blazorweather).
+*   [Blazor Weather (⭐249)](https://github.com/danroth27/BlazorWeather) - ![stars](https://img.shields.io/github/stars/danroth27/BlazorWeather?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/danroth27/BlazorWeather?style=flat-square\&cacheSeconds=86400) A Blazor Weather sample app that shows the current weather for your current location and a collection of pinned locations. Demonstrated at .NET Conf 2019 by Daniel Roth. [Demo](https://aka.ms/blazorweather).
 
 ## [6. Awesome Gpt3](/content/elyase/awesome-gpt3/README.md)
 
@@ -60,9 +60,9 @@
 
 ## [8. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
-### Third-Party Packages / Admin
+### Third-Party Packages / Admin Themes
 
-*   [django-material-admin (⭐316)](https://github.com/MaistrenkoAnton/django-material-admin) - Material design for django administration.
+*   [django-material-admin (⭐326)](https://github.com/MaistrenkoAnton/django-material-admin) - Material design for django administration.
 
 ## [9. Css Protips](/content/AllThingsSmitty/css-protips/README.md)
 
@@ -74,7 +74,7 @@
 
 ### Forms
 
-*   [Sitecore-Forms-Extensions (⭐58)](https://github.com/bartverdonck/Sitecore-Forms-Extensions) - Adds some functionality to the forms creator, such as sending emails, timespan validation, subscribing a list, conditions, Azure Blob storage provider and many more.
+*   [Sitecore-Forms-Extensions (⭐59)](https://github.com/bartverdonck/Sitecore-Forms-Extensions) - Adds some functionality to the forms creator, such as sending emails, timespan validation, subscribing a list, conditions, Azure Blob storage provider and many more.
 
 ---
 

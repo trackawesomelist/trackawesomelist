@@ -34,7 +34,7 @@
 
 ### Resources / Misc
 
-*   [Email marketing regulations (⭐409)](https://github.com/threeheartsdigital/email-marketing-regulations) - A guide to email marketing regulations around the world.
+*   [Email marketing regulations (⭐445)](https://github.com/threeheartsdigital/email-marketing-regulations) - A guide to email marketing regulations around the world.
 
 ## [4. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 

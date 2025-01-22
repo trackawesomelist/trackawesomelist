@@ -1,37 +1,31 @@
 # Awesome List Updates on Jan 07, 2017
 
-8 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
-
-### Testing
-
-*   [Fixtures plugin (⭐2)](https://github.com/LubosRemplik/CakePHP-Fixtures) - Fixtures plugin to read existing fixtures and create table/insert data for quick start with app.
-
-## [2. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
+## [1. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 
 ### Programming Languages/Frameworks/Platforms / ReactJS
 
 *   [React Interview Questions](https://tylermcginnis.com/react-interview-questions/)
 
-## [3. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/README.md)
+## [2. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/README.md)
 
 ### Videos
 
 *   [Paul Adenot: Elements of Dance Music - JSConf.Asia 2015](https://www.youtube.com/watch?v=Ww0jTafmd_w)
 *   [8-bit Music Theory](https://www.youtube.com/channel/UCeZLO2VgbZHeDcongKzzfOw)
 
-## [4. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [3. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Graphics
 
 *   [ImageProcessor (⭐2.5k)](https://github.com/JimBobSquarePants/ImageProcessor) - A fluent wrapper around System.Drawing for the processing of image files <http://imageprocessor.org>. `4.5.x or above`
 
-## [5. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
+## [4. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 
 ### Books / Classics
 
@@ -51,13 +45,13 @@
 
 *   *[Analyzing Social Networks](https://sites.google.com/site/analyzingsocialnetworks/)* (using UCINET), by Stephen P. Borgatti, Martin G. Everett and Jeffrey C. Johnson (2013).
 
-## [6. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
+## [5. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### Open Source / Other
 
 *   [Inpad (⭐3.7k)](https://github.com/sarah-seo/Inpad) - Notes app with GitHub-flavored Markdown.
 
-## [7. Awesome Couchdb](/content/quangv/awesome-couchdb/README.md)
+## [6. Awesome Couchdb](/content/quangv/awesome-couchdb/README.md)
 
 ### Community
 
@@ -67,7 +61,7 @@
 
 *   [Official CouchDB Wiki](https://cwiki.apache.org/confluence/display/COUCHDB/Apache+CouchDB+Wiki)
 
-## [8. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/README.md)
+## [7. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/README.md)
 
 ### Projects / Non-dedicated
 

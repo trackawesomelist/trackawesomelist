@@ -40,7 +40,7 @@
 
 ### Keyboard / Barcode
 
-*   [ISEmojiView (⭐506)](https://github.com/isaced/ISEmojiView) - Emoji Keyboard for iOS
+*   [ISEmojiView (⭐523)](https://github.com/isaced/ISEmojiView) - Emoji Keyboard for iOS
 
 ## [7. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
@@ -69,9 +69,9 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [Shapash (⭐2.7k)](https://github.com/MAIF/shapash) : Shapash is a Python library that provides several types of visualization that display explicit labels that everyone can understand.
-*   [Eurybia (⭐206)](https://github.com/MAIF/eurybia): Eurybia monitors data and model drift over time and securizes model deployment with data validation.
-*   [Colossal-AI (⭐38k)](https://github.com/hpcaitech/ColossalAI): An open-source deep learning system for large-scale model training and inference with high efficiency and low cost.
+*   [Shapash (⭐2.8k)](https://github.com/MAIF/shapash) : Shapash is a Python library that provides several types of visualization that display explicit labels that everyone can understand.
+*   [Eurybia (⭐205)](https://github.com/MAIF/eurybia): Eurybia monitors data and model drift over time and securizes model deployment with data validation.
+*   [Colossal-AI (⭐39k)](https://github.com/hpcaitech/ColossalAI): An open-source deep learning system for large-scale model training and inference with high efficiency and low cost.
 
 ## [11. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
@@ -81,7 +81,7 @@
 
 ### Social Media Tools / Instagram
 
-*   [Osintgram (⭐9.2k)](https://github.com/Datalux/Osintgram) - Osintgram offers an interactive shell to perform analysis on Instagram account of any users by its nickname.
+*   [Osintgram (⭐10k)](https://github.com/Datalux/Osintgram) - Osintgram offers an interactive shell to perform analysis on Instagram account of any users by its nickname.
 
 ### Social Media Tools / Telegram
 
@@ -103,21 +103,21 @@
 
 ### Templates / Electron
 
-*   [electron-vite-vue (⭐4.1k)](https://github.com/electron-vite/electron-vite-vue) - Electron + Vite + Vue template.
-*   [electron-vite-react (⭐1.8k)](https://github.com/electron-vite/electron-vite-react) - Electron + Vite + React template.
+*   [electron-vite-vue (⭐4.4k)](https://github.com/electron-vite/electron-vite-vue) - Electron + Vite + Vue template.
+*   [electron-vite-react (⭐2k)](https://github.com/electron-vite/electron-vite-react) - Electron + Vite + React template.
 *   [electron-vite-boilerplate (⭐205)](https://github.com/electron-vite/electron-vite-boilerplate) - Support SerialPort, SQLite3 and node C/C++ addons.
-*   [electron-vite-template (⭐393)](https://github.com/umbrella22/electron-vite-template) - Electron 13, Vue 3 and TypeScript. Make your desktop development easier.
-*   [fast-vite-electron (⭐181)](https://github.com/ArcherGu/fast-vite-electron) - Vue3 + Vite + Electron with esbuild.
-*   [fast-vite-nestjs-electron (⭐286)](https://github.com/ArcherGu/fast-vite-nestjs-electron) - Vue3 + Vite + Electron + Nestjs with esbuild.
-*   [vite-plugin-electron-quick-start (⭐159)](https://github.com/electron-vite/vite-plugin-electron-quick-start) - Template for Electron projects.
-*   [vite-electron-builder (⭐2.3k)](https://github.com/cawa-93/vite-electron-builder/) - Electron apps using Vite for both back and front-end, with automatic releases.
-*   [vite-reactts-electron-starter (⭐294)](https://github.com/maxstue/vite-reactts-electron-starter) - React, Tailwind CSS, TypeScript and Electron.
+*   [electron-vite-template (⭐433)](https://github.com/umbrella22/electron-vite-template) - Electron 13, Vue 3 and TypeScript. Make your desktop development easier.
+*   [fast-vite-electron (⭐197)](https://github.com/ArcherGu/fast-vite-electron) - Vue3 + Vite + Electron with esbuild.
+*   [fast-vite-nestjs-electron (⭐320)](https://github.com/ArcherGu/fast-vite-nestjs-electron) - Vue3 + Vite + Electron + Nestjs with esbuild.
+*   [vite-plugin-electron-quick-start (⭐199)](https://github.com/electron-vite/vite-plugin-electron-quick-start) - Template for Electron projects.
+*   [vite-electron-builder (⭐2.5k)](https://github.com/cawa-93/vite-electron-builder/) - Electron apps using Vite for both back and front-end, with automatic releases.
+*   [vite-reactts-electron-starter (⭐313)](https://github.com/maxstue/vite-reactts-electron-starter) - React, Tailwind CSS, TypeScript and Electron.
 
 ## [15. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Scheduling
 
-*   [NCrontab.Scheduler (⭐14)](https://github.com/thomasgalliker/NCrontab.Scheduler) - Simple task scheduler library for scheduling NCrontab-based tasks
+*   [NCrontab.Scheduler (⭐15)](https://github.com/thomasgalliker/NCrontab.Scheduler) - Simple task scheduler library for scheduling NCrontab-based tasks
 
 ---
 

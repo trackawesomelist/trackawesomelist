@@ -70,7 +70,7 @@
 
 ### Specialties
 
-*   [ada-composition (⭐8)](https://github.com/gerr135/ada_composition) - A collections of small nifty demos/sample code that may help better layout data or structure project.
+*   [ada-composition (⭐9)](https://github.com/gerr135/ada_composition) - A collections of small nifty demos/sample code that may help better layout data or structure project.
 
 ## [8. Awesome Icons](/content/notlmn/awesome-icons/README.md)
 
@@ -80,9 +80,9 @@
 *   [Eva icons (⭐8.6k)](https://github.com/akveo/eva-icons#readme) - A pack of more than 480 beautifully crafted Open Source icons. ([Website](https://akveo.github.io/eva-icons))
 *   [Evil icons (⭐5k)](https://github.com/evil-icons/evil-icons#readme) - Simple and clean SVG icon pack with the code to support Rails, Sprockets, Node.js, Gulp, Grunt and CDN. ([Website](http://evil-icons.io))
 *   [Feather (⭐25k)](https://github.com/feathericons/feather#readme) - Simply beautiful open source icons. ([Website](https://feathericons.com))
-*   [Font Awesome (⭐73k)](https://github.com/FortAwesome/Font-Awesome#readme) - The iconic SVG, font, and CSS toolkit. ([Website](https://fontawesome.com))
-*   [Ion icons (⭐17k)](https://github.com/ionic-team/ionicons#readme) - The premium icon font for Ionic Framework and web apps everywhere. ([Website](https://ionicons.com))
-*   [Material design icons (⭐50k)](https://github.com/google/material-design-icons#readme) - Material Design icons by Google. ([Website](https://fonts.google.com/icons))
+*   [Font Awesome (⭐74k)](https://github.com/FortAwesome/Font-Awesome#readme) - The iconic SVG, font, and CSS toolkit. ([Website](https://fontawesome.com))
+*   [Ion icons (⭐18k)](https://github.com/ionic-team/ionicons#readme) - The premium icon font for Ionic Framework and web apps everywhere. ([Website](https://ionicons.com))
+*   [Material design icons (⭐51k)](https://github.com/google/material-design-icons#readme) - Material Design icons by Google. ([Website](https://fonts.google.com/icons))
 *   [Octicons (⭐8.3k)](https://github.com/primer/octicons#readme) - A scalable set of icons handcrafted with <3 by GitHub. ([Website](https://octicons.github.com))
 *   Zondicons - A set of free premium SVG icons for you to use on your digital products. ([Website](http://www.zondicons.com))
 
@@ -90,7 +90,7 @@
 
 *   [Cryptocurrency icons (⭐2.6k)](https://github.com/atomiclabs/cryptocurrency-icons#readme) - A set of icons for all the main cryptocurrencies and altcoins. ([Website](http://cryptoicons.co))
 *   [Dev icons (⭐2.7k)](https://github.com/vorillaz/devicons#readme) - An iconic font made for developers. ([Website](http://vorillaz.github.io/devicons))
-*   [Simple icons (⭐19k)](https://github.com/simple-icons/simple-icons#readme) - Free SVG icons for popular brands. ([Website](https://simpleicons.org))
+*   [Simple icons (⭐21k)](https://github.com/simple-icons/simple-icons#readme) - Free SVG icons for popular brands. ([Website](https://simpleicons.org/))
 
 ### Other / CSS only
 
@@ -100,7 +100,7 @@
 
 ### Strong Naming
 
-*   [Strong Namer (⭐327)](https://github.com/dsplaisted/strongnamer) - Automatically add strong names to referenced assemblies which do not already have a strong name. This will allow you to reference and use (NuGet packages with) assemblies which are not strong named from your projects that do use a strong name.
+*   [Strong Namer (⭐332)](https://github.com/dsplaisted/strongnamer) - Automatically add strong names to referenced assemblies which do not already have a strong name. This will allow you to reference and use (NuGet packages with) assemblies which are not strong named from your projects that do use a strong name.
 
 ## [10. Awesome Competitive Programming](/content/lnishan/awesome-competitive-programming/README.md)
 
@@ -108,7 +108,7 @@
 
 - ☆: ★★★
 
-  Name: General Practice Helpers: ... [CHelper](https://plugins.jetbrains.com/plugin/7091-chelper) (IntelliJ IDEA) ([manual](http://codeforces.com/blog/entry/3273)) ... [caide (⭐84)](https://github.com/slycelote/caide) (Visual Studio, CodeLite, standalone command line app) ... [JHelper](http://codeforces.com/blog/entry/13369) (AppCode, CLion) [online-judge-tools (⭐988)](https://github.com/kmyk/online-judge-tools) (Stand alone CLI tool, It is actively maintained.)
+  Name: General Practice Helpers: ... [CHelper](https://plugins.jetbrains.com/plugin/7091-chelper) (IntelliJ IDEA) ([manual](http://codeforces.com/blog/entry/3273)) ... [caide (⭐86)](https://github.com/slycelote/caide) (Visual Studio, CodeLite, standalone command line app) ... [JHelper](http://codeforces.com/blog/entry/13369) (AppCode, CLion) [online-judge-tools (⭐1k)](https://github.com/kmyk/online-judge-tools) (Stand alone CLI tool, It is actively maintained.)
 
   Description: Great tools that parse contests, inline library codes and provide testing frameworks. They save you from spending your precious time on switching windows and copy-pasting back and forth.
 

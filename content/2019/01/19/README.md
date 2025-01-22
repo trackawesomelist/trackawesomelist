@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 19, 2019
 
-5 awesome lists updated today.
+4 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -32,12 +32,6 @@
 ### Books / WebRTC
 
 *   [Dive Into HTML5](http://diveinto.html5doctor.com/)
-
-## [5. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
-
-### Plotter Art For Sale / Patents
-
-*   [BustBright](https://mkt.com/bustbright)
 
 ---
 

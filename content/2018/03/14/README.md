@@ -10,8 +10,8 @@
 
 ### Table of Contents / Micro Framework Extras
 
-*   [Slim Twig View (⭐306)](https://github.com/slimphp/Slim-Views) - Integrate Twig into Slim.
-*   [Slim PHP View (⭐263)](https://github.com/slimphp/PHP-View) - A simple PHP renderer for Slim.
+*   [Slim Twig View (⭐305)](https://github.com/slimphp/Slim-Views) - Integrate Twig into Slim.
+*   [Slim PHP View (⭐266)](https://github.com/slimphp/PHP-View) - A simple PHP renderer for Slim.
 
 ### Table of Contents / Event
 
@@ -19,7 +19,7 @@
 
 ### Configuration / Third Party APIs
 
-*   [Github (⭐2.1k)](https://github.com/KnpLabs/php-github-api) - A library to interface with the Github API.
+*   [Github (⭐2.2k)](https://github.com/KnpLabs/php-github-api) - A library to interface with the Github API.
 
 ## [2. Awesome Mastodon](/content/tleb/awesome-mastodon/README.md)
 
@@ -31,7 +31,7 @@
 
 ### Tours And Guides / Runner
 
-*   [driver.js (⭐21k)](https://github.com/kamranahmedse/driver.js) - Powerful yet light-weight, vanilla JavaScript engine to drive the user's focus across the page
+*   [driver.js (⭐22k)](https://github.com/kamranahmedse/driver.js) - Powerful yet light-weight, vanilla JavaScript engine to drive the user's focus across the page
 
 ## [4. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
 
@@ -61,17 +61,13 @@
 
 ### HTTP
 
-*   [halite (⭐173)](https://github.com/icyleaf/halite) - Crystal HTTP Requests with a chainable REST API, built-in sessions and loggers
+*   [halite (⭐171)](https://github.com/icyleaf/halite) - Crystal HTTP Requests with a chainable REST API, built-in sessions and loggers
 
 ## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / External Resources
 
 *   [Vue News](https://vuenews.io) - Social website focusing on the latest Vue.js news and information.
-
-### Components & Libraries / UI Components
-
-*   [vue-comment-grid (⭐158)](https://github.com/TugayYaldiz/vue-comment-grid) - 💬 Responsive Vue.js comment system plugin that built with CSS Grid and Firebase REST API + Authentication.
 
 ## [9. Awesome Webgl](/content/sjfricke/awesome-webgl/README.md)
 

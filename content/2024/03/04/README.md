@@ -40,33 +40,33 @@
 
 *   [OWASP](https://owasp.org/) - Explore the world of cyber security.
 *   [Roave Security Advisories (⭐2.7k)](https://github.com/Roave/SecurityAdvisories) - This package ensures that your application doesn't have installed dependencies with known security vulnerabilities.
-*   [Zap (⭐12k)](https://github.com/zaproxy/zaproxy) - An integrated penetration testing tool for web applications.
+*   [Zap (⭐13k)](https://github.com/zaproxy/zaproxy) - An integrated penetration testing tool for web applications.
 
 ## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Frameworks
 
-*   [SaneCppLibraries (⭐500)](https://github.com/Pagghiu/SaneCppLibraries) - a set of C++ platform abstraction libraries for macOS, Windows and Linux. \[MIT] [website](https://pagghiu.github.io/SaneCppLibraries/)
+*   [SaneCppLibraries (⭐546)](https://github.com/Pagghiu/SaneCppLibraries) - a set of C++ platform abstraction libraries for macOS, Windows and Linux. \[MIT] [website](https://pagghiu.github.io/SaneCppLibraries/)
 
 ## [7. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Continuous Integration
 
-*   [dot (⭐15)](https://github.com/opnlabs/dot) - A minimal, local first continuous integration system that uses Docker to run jobs concurrently in stages.
+*   [dot (⭐23)](https://github.com/opnlabs/dot) - A minimal, local first continuous integration system that uses Docker to run jobs concurrently in stages.
 
 ### Dependency Injection
 
-*   [ore (⭐7)](https://github.com/firasdarwish/ore) - Lightweight, generic & simple dependency injection (DI) container.
+*   [ore (⭐16)](https://github.com/firasdarwish/ore) - Lightweight, generic & simple dependency injection (DI) container.
 
 ### Utilities
 
-*   [go-lambda-cleanup (⭐90)](https://github.com/karl-cardenas-coding/go-lambda-cleanup) - A CLI for removing unused or previous versions of AWS Lambdas.
+*   [go-lambda-cleanup (⭐91)](https://github.com/karl-cardenas-coding/go-lambda-cleanup) - A CLI for removing unused or previous versions of AWS Lambdas.
 
 ## [8. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Developer Tools / Developer Utilities
 
-*   [DevHub](https://wangchujiang.com/DevHub/) - A feature-rich offline application, meticulously crafted to support developers in their daily tasks.  ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/devhub/id6476452351)
+*   [DevHub](https://wangchujiang.com/DevHub/) - Feature-rich offline app for developers. ![OSS](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/devhub/id6476452351)
 
 ## [9. AwesomeCSV](/content/secretGeek/AwesomeCSV/README.md)
 

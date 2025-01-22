@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 30 - Dec 06, 2020
 
-67 awesome lists updated this week.
+66 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -135,7 +135,7 @@
 
   CORS: Unknown
 
-  Call this API: 
+  : 
 
 
 
@@ -169,19 +169,19 @@
 
 ### Tools / PGFPlots
 
-*   [quiver (⭐2k)](https://github.com/varkor/quiver) - A commutative diagram editor that exports to tikz-cd.
+*   [quiver (⭐2.4k)](https://github.com/varkor/quiver) - A commutative diagram editor that exports to tikz-cd.
 
 ## [11. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
 ### Contents / Extensions
 
-*   [pg\_cron (⭐2.7k)](https://github.com/citusdata/pg_cron) - Run periodic jobs in PostgreSQL.
+*   [pg\_cron (⭐2.8k)](https://github.com/citusdata/pg_cron) - Run periodic jobs in PostgreSQL.
 
 ## [12. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Misc
 
-*   [Kotlin/kotlinx-datetime (⭐2.4k)](https://github.com/Kotlin/kotlinx-datetime) - A multiplatform Kotlin library for working with date and time.
+*   [Kotlin/kotlinx-datetime (⭐2.5k)](https://github.com/Kotlin/kotlinx-datetime) - A multiplatform Kotlin library for working with date and time.
 
 ## [13. Awesome Credit Modeling](/content/mourarthur/awesome-credit-modeling/week/README.md)
 
@@ -211,7 +211,7 @@
 ### Community
 
 *   [Complete Terraform documentation as PDF files (Updated nightly) (⭐201)](https://github.com/antonbabenko/terraform-docs-as-pdf)
-*   [Terraform AWS Modules](https://github.com/terraform-aws-modules) + [meta-configurations repository (⭐76)](https://github.com/terraform-aws-modules/meta)
+*   [Terraform AWS Modules](https://github.com/terraform-aws-modules) + [meta-configurations repository (⭐77)](https://github.com/terraform-aws-modules/meta)
 
 ### Tutorials and Blog Posts / How-To
 
@@ -219,14 +219,14 @@
 
 ### Tools / Community providers
 
-*   [Checkov (⭐6.8k)](https://github.com/bridgecrewio/checkov/) - Terraform static analysis tool for terraform>=0.12
-*   [TerraDepot (⭐65)](https://github.com/derBroBro/TerraDepot) Terraform state repository, based on the default http remote backend. Allows the central administration of tfstates on AWS S3.
-*   [Terraform-Visual (⭐604)](https://github.com/hieven/terraform-visual) - A simple but powerful tool to visualize Terraform plan.
-*   [terratag (⭐926)](https://github.com/env0/terratag) - Terratag is a CLI tool that enables users of Terraform to automatically create and maintain tags across their entire set of AWS, Azure, and GCP resources.
+*   [Checkov (⭐7.3k)](https://github.com/bridgecrewio/checkov/) - Terraform static analysis tool for terraform>=0.12
+*   [TerraDepot (⭐66)](https://github.com/derBroBro/TerraDepot) Terraform state repository, based on the default http remote backend. Allows the central administration of tfstates on AWS S3.
+*   [Terraform-Visual (⭐624)](https://github.com/hieven/terraform-visual) - A simple but powerful tool to visualize Terraform plan.
+*   [terratag (⭐956)](https://github.com/env0/terratag) - Terratag is a CLI tool that enables users of Terraform to automatically create and maintain tags across their entire set of AWS, Azure, and GCP resources.
 
 ### Libraries / IDE
 
-*   [python-hcl2 (⭐244)](https://github.com/amplify-education/python-hcl2/) - HCL2 parser in Python
+*   [python-hcl2 (⭐257)](https://github.com/amplify-education/python-hcl2/) - HCL2 parser in Python
 
 ## [16. Awesome Saltstack](/content/hbokh/awesome-saltstack/week/README.md)
 
@@ -248,7 +248,7 @@
 
 ### Software / Communication - Custom Communication Systems
 
-*   [Tinode](https://github.com/tinode) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots. ([Demo](https://sandbox.tinode.co/), [Source Code (⭐12k)](https://github.com/tinode/chat), [Clients (⭐316)](https://github.com/tinode/webapp)) `GPL-3.0` `Go`
+*   [Tinode](https://github.com/tinode) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots. ([Demo](https://sandbox.tinode.co/), [Source Code (⭐12k)](https://github.com/tinode/chat), [Clients (⭐328)](https://github.com/tinode/webapp)) `GPL-3.0` `Go`
 
 ### Software / Polls and Events
 
@@ -270,8 +270,8 @@
 
 ### Translations
 
-*   [English (⭐133)](https://github.com/mbiesiad/awesome-translations)
-*   [Polish (⭐133)](https://github.com/mbiesiad/awesome-translations/tree/pl_PL)
+*   [English (⭐136)](https://github.com/mbiesiad/awesome-translations)
+*   [Polish (⭐136)](https://github.com/mbiesiad/awesome-translations/tree/pl_PL)
 
 ### Platforms / Localization and translation platforms
 
@@ -291,7 +291,7 @@
 
 ### Apps / Automated translation
 
-*   [RTranslator (⭐6.1k)](https://github.com/niedev/RTranslator) - A simultaneous translator app for Android based on NLLB and Whisper that runs locally.
+*   [RTranslator (⭐6.3k)](https://github.com/niedev/RTranslator) - A simultaneous translator app for Android based on NLLB and Whisper that runs locally.
 *   [Crow Translate (⭐1.8k)](https://github.com/crow-translate/crow-translate) - A simple and lightweight translator for Linux and Windows that allows to translate and speak text using Google, Yandex and Bing translate API.
 *   [Copy Translator (⭐17k)](https://github.com/CopyTranslator/CopyTranslator) - An app for Windows, Mac and Linux that automatically translate and adapt a text when copied in the clipboard.
 
@@ -337,8 +337,8 @@
 
 ### Security
 
-*   [Lockpicking (⭐1.4k)](https://github.com/fabacab/awesome-lockpicking#readme) - The art of unlocking a lock by manipulating its components without the key.
-*   [Cybersecurity Blue Team (⭐4.2k)](https://github.com/fabacab/awesome-cybersecurity-blueteam#readme) - Groups of individuals who identify security flaws in information technology systems.
+*   [Lockpicking (⭐1.5k)](https://github.com/fabacab/awesome-lockpicking#readme) - The art of unlocking a lock by manipulating its components without the key.
+*   [Cybersecurity Blue Team (⭐4.4k)](https://github.com/fabacab/awesome-cybersecurity-blueteam#readme) - Groups of individuals who identify security flaws in information technology systems.
 
 ## [24. Awesome Tensorflow Js](/content/aaronhma/awesome-tensorflow-js/week/README.md)
 
@@ -363,19 +363,19 @@
 
 ### Arch Linux Installers / Specific purpose
 
-*   [Archfi (⭐2.4k)](https://github.com/MatMoul/archfi) - Just a simple bash script wizard to install Arch Linux after you have booted on the official Arch Linux install media.
+*   [Archfi (⭐2.5k)](https://github.com/MatMoul/archfi) - Just a simple bash script wizard to install Arch Linux after you have booted on the official Arch Linux install media.
 
 ## [28. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/week/README.md)
 
 ### Cars
 
-*   [FordPassWidget (⭐15)](https://github.com/dschablowsky/FordPassWidget) - Information about your Ford, like location or mileage.
+*   [FordPassWidget (⭐16)](https://github.com/dschablowsky/FordPassWidget) - Information about your Ford, like location or mileage.
 
     <img src="https://raw.githubusercontent.com/dschablowsky/FordPassWidget/master/fp-widget.jpg" width="400"/>
-*   [tankstellenpreise.js (⭐36)](https://github.com/Necriso/ScriptableWidgets/blob/main/tankstellenpreise.js) - Fuel prices from a nearby gas station.
+*   [tankstellenpreise.js (⭐37)](https://github.com/Necriso/ScriptableWidgets/blob/main/tankstellenpreise.js) - Fuel prices from a nearby gas station.
 
     <img src="https://raw.githubusercontent.com/Necriso/ScriptableWidgets/main/images/tankstellenpreise.png" width="200"/>
-*   [TeslaData-Widget (⭐58)](https://github.com/DrieStone/TeslaData-Widget) - Information about your Tesla, like charging status and doors locked/unlocked.
+*   [TeslaData-Widget (⭐60)](https://github.com/DrieStone/TeslaData-Widget) - Information about your Tesla, like charging status and doors locked/unlocked.
 
     <img src="https://raw.githubusercontent.com/DrieStone/TeslaData-Widget/main/documentation/screen_001.png" width="400"/>
 
@@ -389,11 +389,11 @@
 
 ### Messaging
 
-*   [ChatLayout (⭐843)](https://github.com/ekazaev/ChatLayout) - A lightweight framework to build chat UI that uses custom `UICollectionViewLayout` to provide full control over the presentation as well as all the tools available in `UICollectionView`.
+*   [ChatLayout (⭐912)](https://github.com/ekazaev/ChatLayout) - A lightweight framework to build chat UI that uses custom `UICollectionViewLayout` to provide full control over the presentation as well as all the tools available in `UICollectionView`.
 
 ### Official
 
-*   [Adapty (⭐361)](https://github.com/adaptyteam/AdaptySDK-iOS) - Integrate in-app subscriptions and a/b testing for them with 3 lines of code.
+*   [Adapty (⭐387)](https://github.com/adaptyteam/AdaptySDK-iOS) - Integrate in-app subscriptions and a/b testing for them with 3 lines of code.
 
 ## [31. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
 
@@ -403,8 +403,8 @@
 
 ### Time Series Data
 
-*   🌟 [Ensemble-Strategy (⭐1.9k)](https://github.com/AI4Finance-LLC/Deep-Reinforcement-Learning-for-Automated-Stock-Trading-Ensemble-Strategy-ICAIF-2020) - Deep Reinforcement Learning for Automated Stock Trading.
-*   [FinRL (⭐9.3k)](https://github.com/AI4Finance-LLC/FinRL-Library) - A Deep Reinforcement Learning Library for Automated Stock Trading in Quantitative Finance.
+*   🌟 [Ensemble-Strategy (⭐2.1k)](https://github.com/AI4Finance-LLC/Deep-Reinforcement-Learning-for-Automated-Stock-Trading-Ensemble-Strategy-ICAIF-2020) - Deep Reinforcement Learning for Automated Stock Trading.
+*   [FinRL (⭐10k)](https://github.com/AI4Finance-LLC/FinRL-Library) - A Deep Reinforcement Learning Library for Automated Stock Trading in Quantitative Finance.
 
 ## [32. Awesome Common Lisp Learning](/content/GustavBertram/awesome-common-lisp-learning/week/README.md)
 
@@ -449,7 +449,7 @@
 
 ### Automation / DSL
 
-*   [jmeter-groovy-dsl (⭐12)](https://github.com/smicyk/groovy-jmeter) - The Groovy-JMeter project is simple DSL to write JMeter test plans.
+*   [jmeter-groovy-dsl (⭐13)](https://github.com/smicyk/groovy-jmeter) - The Groovy-JMeter project is simple DSL to write JMeter test plans.
 
 ## [38. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
@@ -465,7 +465,7 @@
 
 ### API
 
-*   [Swiftkube (⭐121)](https://github.com/swiftkube/client) :penguin: - Swift client for Kubernetes.
+*   [Swiftkube (⭐129)](https://github.com/swiftkube/client) :penguin: - Swift client for Kubernetes.
 
 ## [40. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
 
@@ -477,7 +477,7 @@
 
 ### Developer Tools / Databases
 
-*   [Chrome MySQL Admin (⭐140)](https://github.com/yoichiro/chrome_mysql_admin) - Powerful Chrome app to manage your MySQL. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/yoichiro/chrome_mysql_admin)
+*   [Chrome MySQL Admin (⭐139)](https://github.com/yoichiro/chrome_mysql_admin) - Powerful Chrome app to manage your MySQL. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/yoichiro/chrome_mysql_admin)
 
 ## [42. Awesome Recursion Schemes](/content/passy/awesome-recursion-schemes/week/README.md)
 
@@ -489,22 +489,13 @@
 
 ### Compilers / Experimental/Proof of Concepts
 
-*   [gbdk-go (⭐20)](https://github.com/pokemium/gbdk-go) - A compiler translates Go programs to C code. The output C code is built into GB ROM by GBDK.
+*   [gbdk-go (⭐21)](https://github.com/pokemium/gbdk-go) - A compiler translates Go programs to C code. The output C code is built into GB ROM by GBDK.
 
 ## [44. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
 *   [Vue 3 Composition Api Introduction - Full Tutorial](https://www.youtube.com/watch?v=bwItFdPt-6M)
-
-### Components & Libraries / UI Components
-
-*   [vue-notification-ui (⭐5)](https://github.com/HELMAB/vue-notification-ui) - A simple push the notification UI with Vue.js
-
-### Components & Libraries / Utilities
-
-*   [vesselize (⭐24)](https://github.com/vesselize/vesselize) - ⛵ A JavaScript IoC container that works seamlessly with Vue.js.
-*   [vue-use-local-storage (⭐4)](https://github.com/HJ29/vue-use-local-storage) - A composition api to persist and rehydrate reactive data to local storage for vue 3.
 
 ## [45. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
@@ -559,17 +550,17 @@
 
 ### Packages / Data validation
 
-*   [Superstruct (⭐6.9k)](https://github.com/ianstormtaylor/superstruct) - Simple and composable way to validate data in JavaScript (and TypeScript).
+*   [Superstruct (⭐7k)](https://github.com/ianstormtaylor/superstruct) - Simple and composable way to validate data in JavaScript (and TypeScript).
 
 ## [51. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Others
 
-*   [LinqToTwitter Blazor sample (⭐513)](https://github.com/JoeMayo/LinqToTwitter/tree/main/Samples/LinqToTwitter5/net48/CSharp/AspNetSamples/BlazorDemo) - ![stars](https://img.shields.io/github/stars/JoeMayo/LinqToTwitter?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/JoeMayo/LinqToTwitter?style=flat-square\&cacheSeconds=86400) LINQ Provider for the Twitter API (Twitter Library).
+*   [LinqToTwitter Blazor sample (⭐514)](https://github.com/JoeMayo/LinqToTwitter/tree/main/Samples/LinqToTwitter5/net48/CSharp/AspNetSamples/BlazorDemo) - ![stars](https://img.shields.io/github/stars/JoeMayo/LinqToTwitter?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/JoeMayo/LinqToTwitter?style=flat-square\&cacheSeconds=86400) LINQ Provider for the Twitter API (Twitter Library).
 
 ### 2D/3D Rendering engines / Diagrams
 
-*   [Excubo.Blazor.Diagrams (⭐136)](https://github.com/excubo-ag/Blazor.Diagrams) - ![stars](https://img.shields.io/github/stars/excubo-ag/Blazor.Diagrams?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Blazor.Diagrams?style=flat-square\&cacheSeconds=86400) Interactive diagram component (flowcharts, UML, BPMN, ...), customizable and extensible according to user needs (node types, styles). [Demo](https://excubo-ag.github.io/Blazor.Diagrams/).
+*   [Excubo.Blazor.Diagrams (⭐138)](https://github.com/excubo-ag/Blazor.Diagrams) - ![stars](https://img.shields.io/github/stars/excubo-ag/Blazor.Diagrams?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Blazor.Diagrams?style=flat-square\&cacheSeconds=86400) Interactive diagram component (flowcharts, UML, BPMN, ...), customizable and extensible according to user needs (node types, styles). [Demo](https://excubo-ag.github.io/Blazor.Diagrams/).
 
 ## [52. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
@@ -583,11 +574,11 @@
 
 ### UI
 
-*   [Timelines (⭐699)](https://github.com/chulwoo-park/timelines) <!--stargazers:chulwoo-park/timelines--> - Powerful & Easy to use timeline package by [Chulwoo Park](https://github.com/chulwoo-park).
+*   [Timelines (⭐723)](https://github.com/chulwoo-park/timelines) <!--stargazers:chulwoo-park/timelines--> - Powerful & Easy to use timeline package by [Chulwoo Park](https://github.com/chulwoo-park).
 
 ### Desktop / Game Engine resources
 
-*   [bitsdojo\_window (⭐784)](https://github.com/bitsdojo/bitsdojo_window) <!--bitsdojo/bitsdojo_window--> - Customize windows owner-drawn chrome by [BitsDojo](https://github.com/bitsdojo)
+*   [bitsdojo\_window (⭐817)](https://github.com/bitsdojo/bitsdojo_window) <!--bitsdojo/bitsdojo_window--> - Customize windows owner-drawn chrome by [BitsDojo](https://github.com/bitsdojo)
 
 ## [53. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
@@ -1038,49 +1029,43 @@
 
 
 
-## [55. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
-
-### Tools / Communication
-
-*   [Gather](https://gather.town/) - Gather is a video-calling space that lets multiple people hold separate conversations in parallel, walking in and out of those conversations just as easily as they would in real life.
-
-## [56. Awesome Pagespeed Metrics](/content/csabapalfi/awesome-pagespeed-metrics/week/README.md)
+## [55. Awesome Pagespeed Metrics](/content/csabapalfi/awesome-pagespeed-metrics/week/README.md)
 
 ### Concepts / Field Data (Real User Monitoring - RUM)
 
 *   [Vercel Analytics](https://vercel.com/docs/analytics) - Real User Monitoring based on Web Vitals.
 
-## [57. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [56. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [ishan9299/modus-theme-vim (⭐160)](https://github.com/ishan9299/modus-theme-vim) - This is a color scheme developed by Protesilaos Stavrou for emacs.
+*   [ishan9299/modus-theme-vim (⭐170)](https://github.com/ishan9299/modus-theme-vim) - This is a color scheme developed by Protesilaos Stavrou for emacs.
 
-## [58. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [57. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### Python / Scala
 
 *   [FastAPI](https://fastapi.tiangolo.com/) - Modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints.
 
-## [59. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/week/README.md)
+## [58. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/week/README.md)
 
 ### Project Management / Estimations
 
 *   [Robert "Uncle Bob" Martin talk about professionalism in software development](https://youtu.be/LmRl0D-RkPU?t=3202) - The only honest estimate is "I don't know". But you can come up with some kind of propability assessment, that will inform about the shape of the risk. This is not unlike PERT, where an activity is bounded by [optimistic, pessimistic and most-likely time](https://en.wikipedia.org/wiki/Program_evaluation_and_review_technique#Time). Now if managers don't take a range for an answer, don't fall in that trap. Tell them you're already trying as you possibly can. “And then the manager will have to do something very foreign: they'll have to manage. That's what management is: managing risk.”
 
-## [60. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+## [59. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Themes
 
-*   [dracula/tmux (⭐628)](https://github.com/dracula/tmux) 🧛🏻‍♂️ The official [dracula theme](https://draculatheme.com/) for tmux
+*   [dracula/tmux (⭐670)](https://github.com/dracula/tmux) 🧛🏻‍♂️ The official [dracula theme](https://draculatheme.com/) for tmux
 
-## [61. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [60. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
-### On-line courses / Ruby
+### Courses
 
 *   [MBTA GTFS Onboarding](https://mybinder.org/v2/gh/mbta/gtfs_onboarding/main?urlpath=lab/tree/GTFS_Onboarding.ipynb) - An interactive tutorial created by MBTA for GTFS static. A [stand-alone Docker image (⭐7)](https://github.com/mbta/gtfs_onboarding) is available on GitHub as well as a [hosted/no-install version](https://mybinder.org/v2/gh/mbta/gtfs_onboarding/main?urlpath=lab/tree/GTFS_Onboarding.ipynb) of the Jupyter notebook.
 
-## [62. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/week/README.md)
+## [61. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/week/README.md)
 
 ### Topic Areas / Generative Art
 
@@ -1111,7 +1096,7 @@
 
 *   [RichardOnData](https://www.youtube.com/playlist?list=PLOKCg4WX8ZG4nboHnOgA8PJxGWnO4csiZ) - The R playlist includes videos on manipulating data with dplyr, visualizing data with ggplot2 and ggThemeAssist, data types and structures, important base r functions, handling datetimes with lubridate, conquering factors with forcats, manipulating text with stringr.
 
-## [63. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [62. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Cloud management solutions
 
@@ -1129,7 +1114,7 @@
 
 *   [codesnip.com.br](https://codesnip.com.br) — Simple code snippets manager with categories, search and tags. free and unlimited.
 
-## [64. Awesome Nlg](/content/accelerated-text/awesome-nlg/week/README.md)
+## [63. Awesome Nlg](/content/accelerated-text/awesome-nlg/week/README.md)
 
 ### Neural Natural Language Generation
 
@@ -1140,11 +1125,11 @@
 
 *   [2020: A Gold Standard Methodology for Evaluating Accuracy in Data-To-Text Systems](https://arxiv.org/abs/2011.03992)
 
-## [65. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
+## [64. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
 
 ### Projects / Libraries
 
-*   [Simple IO (⭐29)](https://github.com/Lysxia/coq-simple-io) - Input/output monad with user-definable primitive operations.
+*   [Simple IO (⭐32)](https://github.com/Lysxia/coq-simple-io) - Input/output monad with user-definable primitive operations.
 
 ### Projects / Package and Build Management
 
@@ -1152,16 +1137,16 @@
 
 ### Projects / Tools
 
-*   [hs-to-coq (⭐77)](https://github.com/plclub/hs-to-coq) - Converter from Haskell code to equivalent Coq code.
-*   [Roosterize (⭐18)](https://github.com/EngineeringSoftware/roosterize) - Tool for suggesting lemma names in Coq projects.
+*   [hs-to-coq (⭐81)](https://github.com/plclub/hs-to-coq) - Converter from Haskell code to equivalent Coq code.
+*   [Roosterize (⭐19)](https://github.com/EngineeringSoftware/roosterize) - Tool for suggesting lemma names in Coq projects.
 
-## [66. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [65. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### C / General-Purpose Machine Learning
 
-*   [libonnx (⭐565)](https://github.com/xboot/libonnx) - A lightweight, portable pure C99 onnx inference engine for embedded devices with hardware acceleration support.
+*   [libonnx (⭐589)](https://github.com/xboot/libonnx) - A lightweight, portable pure C99 onnx inference engine for embedded devices with hardware acceleration support.
 
-## [67. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
+## [66. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
 ### Exercises and Short Examples
 

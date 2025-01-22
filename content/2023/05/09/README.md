@@ -28,23 +28,19 @@
 
 ### Miscellaneous
 
-*   [Read the Docs (⭐109)](https://github.com/readthedocs-examples/awesome-read-the-docs#readme) - Example documentation projects to inspire and help bootstrap new documentation projects.
+*   [Read the Docs (⭐149)](https://github.com/readthedocs-examples/awesome-read-the-docs#readme) - Example documentation projects to inspire and help bootstrap new documentation projects.
 
 ## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Projects Using Vue.js / Open Source
 
-*   [Overlay (⭐218)](https://github.com/os-scar/overlay) - A browser extension helping developers evaluate open source packages before picking them.
-
-### Components & Libraries / UI Utilities
-
-*   [vue-contextual-transition (⭐7)](https://github.com/beepy/vue-contextual-transition) Easy-ish cross-browser transitioning between pages with shared elements and/or sequential order
+*   [Overlay (⭐224)](https://github.com/os-scar/overlay) - A browser extension helping developers evaluate open source packages before picking them.
 
 ## [6. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
 ### Tools and session management
 
-*   [tmux-project (⭐6)](https://github.com/sei40kr/tmux-project) Search projects and open them in a new session
+*   [tmux-project (⭐5)](https://github.com/sei40kr/tmux-project) Search projects and open them in a new session
 
 ## [7. Awesome Couchdb](/content/quangv/awesome-couchdb/README.md)
 

@@ -28,7 +28,7 @@
 
 ### Tools - Editors & IDEs & Explorers / React
 
-*   [Escape GraphMan (⭐240)](https://github.com/Escape-Technologies/graphman) - Generate a complete Postman collection from a GraphQL endpoint.
+*   [Escape GraphMan (⭐242)](https://github.com/Escape-Technologies/graphman) - Generate a complete Postman collection from a GraphQL endpoint.
 
 ## [3. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
 
@@ -38,19 +38,19 @@
 
 ### Miscellaneous Software Projects / Altium
 
-*   [Language PCB (⭐18)](https://github.com/Alhadis/language-pcb) - Syntax highlighting for various PCB formats.
+*   [Language PCB (⭐20)](https://github.com/Alhadis/language-pcb) - Syntax highlighting for various PCB formats.
 
 ## [4. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [fuzzy-wd (⭐2)](https://github.com/spodin/zsh-fuzzy-wd) - Adds fuzzy search for directories warped with the [WD (⭐172k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/wd) plugin.
+*   [fuzzy-wd](https://github.com/spodin/zsh-fuzzy-wd) - Adds fuzzy search for directories warped with the [WD (⭐175k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/wd) plugin.
 
 ## [5. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Types / Playground
 
-*   [jsonup (⭐54)](https://github.com/tani/jsonup) - Compile-time JSON parser
+*   [jsonup (⭐61)](https://github.com/tani/jsonup) - Compile-time JSON parser
 
 ## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -78,7 +78,7 @@
 
 ### Component bundles
 
-*   [FAST (⭐9.2k)](https://github.com/microsoft/fast) - ![GitHub stars](https://img.shields.io/github/stars/microsoft/fast?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/microsoft/fast?style=flat-square\&cacheSeconds=86400) ![GitHub licence](https://camo.githubusercontent.com/78f47a09877ba9d28da1887a93e5c3bc2efb309c1e910eb21135becd2998238a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6963656e73652d4d49542d79656c6c6f772e737667) FAST is a collection of technologies built on Web Components and modern Web Standards, designed to help you efficiently tackle some of the most common challenges in website and application design and development. [FAST & Blazor documentation](https://www.fast.design/docs/integrations/blazor/).
+*   [FAST (⭐9.3k)](https://github.com/microsoft/fast) - ![GitHub stars](https://img.shields.io/github/stars/microsoft/fast?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/microsoft/fast?style=flat-square\&cacheSeconds=86400) ![GitHub licence](https://camo.githubusercontent.com/78f47a09877ba9d28da1887a93e5c3bc2efb309c1e910eb21135becd2998238a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6963656e73652d4d49542d79656c6c6f772e737667) FAST is a collection of technologies built on Web Components and modern Web Standards, designed to help you efficiently tackle some of the most common challenges in website and application design and development. [FAST & Blazor documentation](https://www.fast.design/docs/integrations/blazor/).
 *   [Nevron Open Vision Components for Blazor](https://www.nevron.com/products-open-vision) - ![Paid](https://img.shields.io/badge/-Paid-purple) ![External link](https://img.shields.io/badge/-External%20link-yellow) Diagram, Chart, Text Editor, Gauge, Barcode, and User Interface components for Blazor. [Demo](https://blazorexamples.nevron.com/).
 
 ### Articles / Others
@@ -99,13 +99,9 @@
 
 ## [11. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
-### Reading and Writing Tools / Note-taking
-
-*   [massCode (⭐5.7k)](https://github.com/massCodeIO/massCode) - Cross platform open-source code snippets manager for developers with markdown and mermaid support. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/massCodeIO/massCode) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-
 ### Reading and Writing Tools / Others
 
-*   [UPDF](https://updf.com/) - Free PDF editor that makes it possible to read, annotate and edit PDFs, change text and images on Mac. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/id1619925971)
+*   [UPDF](https://updf.com/) - Free PDF editor for reading, annotating, and editing PDFs. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/id1619925971)
 
 ---
 

@@ -316,6 +316,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 *   [OpenXT](https://openxt.org/) - OpenXT is an open-source development toolkit for hardware-assisted security research and appliance integration.
 *   [Qubes-linux-kernel (⭐87)](https://github.com/QubesOS/qubes-linux-kernel) - Qubes package for Linux kernel.
 *   [seL4](https://sel4.systems/) - seL4 is a high-assurance, high-performance operating system microkernel.
+    *   [makatea](https://trustworthy.systems/projects/TS/makatea) - Qubes OS like operating system but with seL4.
 
 ### Unikernels
 

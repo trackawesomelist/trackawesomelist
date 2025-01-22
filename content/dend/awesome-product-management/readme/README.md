@@ -2,7 +2,7 @@
 
 🚀 A curated list of awesome resources for product/program managers to learn and grow.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/dend/awesome-product-management/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 dend/awesome-product-management](https://github.com/dend/awesome-product-management) · ⭐ 1.4K · 🏷️ Learn
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/dend/awesome-product-management/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 dend/awesome-product-management](https://github.com/dend/awesome-product-management) · ⭐ 1.5K · 🏷️ Learn
 
 [ [Daily](/content/dend/awesome-product-management/README.md) / [Weekly](/content/dend/awesome-product-management/week/README.md) / Overview ]
 
@@ -90,12 +90,12 @@ Taiga is a project management tool for multi-functional agile teams. It has a ri
 
 ![Switching zoom modes in Kanban section](https://github.com/dend/awesome-product-management/raw/master/media/tool-taiga.gif)
 
-| Property  | Value                                                    |
-| --------- | -------------------------------------------------------- |
-| Developer | [Kaleidos](https://kaleidos.net/)                        |
-| Cost      | Free (self-hosted) or [Freemium](https://tree.taiga.io/) |
-| Platform  | macOS, Windows, iOS, Android, Web                        |
-| URL       | <https://tree.taiga.io>                                  |
+| Property  | Value                                               |
+| --------- | --------------------------------------------------- |
+| Developer | [Kaleidos](https://kaleidos.net/)                   |
+| Cost      | Free (self-hosted) or [Freemium](https://taiga.io/) |
+| Platform  | macOS, Windows, iOS, Android, Web                   |
+| URL       | <https://taiga.io>                                  |
 
 ### To-Do
 

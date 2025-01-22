@@ -10,12 +10,12 @@
 
 ### Algorithms and Data structures
 
-*   [datastructures (⭐215)](https://github.com/meh/elixir-datastructures) - A collection of protocols, implementations and wrappers to work with data structures.
+*   [datastructures (⭐216)](https://github.com/meh/elixir-datastructures) - A collection of protocols, implementations and wrappers to work with data structures.
 *   [the\_fuzz (⭐77)](https://github.com/smashedtoatoms/the_fuzz) - Fuzzy string-matching algorithm implementations.
 
 ### Applications
 
-*   [poxa (⭐1k)](https://github.com/edgurgel/poxa) - Open Pusher implementation, compatible with Pusher libraries.
+*   [poxa (⭐1.1k)](https://github.com/edgurgel/poxa) - Open Pusher implementation, compatible with Pusher libraries.
 
 ### Authentication
 
@@ -23,16 +23,16 @@
 
 ### Bittorrent
 
-*   [wire (⭐18)](https://github.com/alehander42/wire) - Encode and decode bittorrent peer wire protocol messages with Elixir.
+*   [wire (⭐19)](https://github.com/alehander42/wire) - Encode and decode bittorrent peer wire protocol messages with Elixir.
 
 ### Build Tools
 
-*   [remix (⭐149)](https://github.com/AgilionApps/remix) - Automatic recompilation of Mix code on file change.
+*   [remix (⭐148)](https://github.com/AgilionApps/remix) - Automatic recompilation of Mix code on file change.
 *   [sass\_elixir (⭐1)](https://github.com/zamith/sass_elixir) - A sass plugin for Elixir projects.
 
 ### Code Analysis
 
-*   [exprof (⭐178)](https://github.com/parroty/exprof) - A simple code profiler for Elixir, using eprof.
+*   [exprof (⭐179)](https://github.com/parroty/exprof) - A simple code profiler for Elixir, using eprof.
 
 ### Command Line Applications
 
@@ -40,12 +40,12 @@
 
 ### Date and Time
 
-*   [chronos (⭐91)](https://github.com/nurugger07/chronos) - An Elixir date/time library.
+*   [chronos (⭐90)](https://github.com/nurugger07/chronos) - An Elixir date/time library.
 
 ### Debugging
 
 *   [booter (⭐23)](https://github.com/eraserewind/booter) - Boot an Elixir application, step by step.
-*   [exrun (⭐120)](https://github.com/liveforeverx/exrun) - Distributed tracing for Elixir with rate limiting and simple macro-based interface.
+*   [exrun (⭐119)](https://github.com/liveforeverx/exrun) - Distributed tracing for Elixir with rate limiting and simple macro-based interface.
 
 ### Email
 
@@ -58,13 +58,13 @@
 
 ### Framework Components
 
-*   [cors\_plug (⭐402)](https://github.com/mschae/cors_plug) - An Elixir plug that adds CORS headers to requests and responds to preflight requests (OPTIONS).
+*   [cors\_plug (⭐406)](https://github.com/mschae/cors_plug) - An Elixir plug that adds CORS headers to requests and responds to preflight requests (OPTIONS).
 *   [plug\_accesslog (⭐31)](https://github.com/mneudert/plug_accesslog) - Plug for writing access logs.
 *   [trailing\_format\_plug (⭐25)](https://github.com/mschae/trailing_format_plug) - An Elixir plug to support legacy APIs that use a rails-like trailing format.
 
 ### HTTP
 
-*   [exvcr (⭐718)](https://github.com/parroty/exvcr) - HTTP request/response recording library for Elixir, inspired by VCR.
+*   [exvcr (⭐733)](https://github.com/parroty/exvcr) - HTTP request/response recording library for Elixir, inspired by VCR.
 
 ### Images
 
@@ -72,12 +72,12 @@
 
 ### JSON
 
-*   [jsx (⭐695)](https://github.com/talentdeficit/jsx) - An Erlang application for consuming, producing, and manipulating json.
+*   [jsx (⭐693)](https://github.com/talentdeficit/jsx) - An Erlang application for consuming, producing, and manipulating json.
 
 ### Miscellaneous
 
 *   [dynamic\_compile (⭐1)](https://github.com/okeuday/dynamic_compile) - Compile and load Erlang modules from string input.
-*   [exsync (⭐155)](https://github.com/falood/exsync) - Yet another Elixir reloader.
+*   [exsync (⭐164)](https://github.com/falood/exsync) - Yet another Elixir reloader.
 *   [url\_unroller (⭐5)](https://github.com/semanticart/url_unroller) - Simple URL unroller (un-shortener) in Elixir.
 
 ### ORM and Datamapping
@@ -86,7 +86,7 @@
 
 ### Protocols
 
-*   [exprotobuf (⭐486)](https://github.com/bitwalker/exprotobuf) - Protocol Buffers in Elixir, made easy.
+*   [exprotobuf (⭐485)](https://github.com/bitwalker/exprotobuf) - Protocol Buffers in Elixir, made easy.
 
 ### Release Management
 
@@ -95,32 +95,32 @@
 
 ### Templating
 
-*   [eml (⭐116)](https://github.com/zambal/eml) - Library for writing and manipulating (HTML) markup in Elixir.
+*   [eml (⭐114)](https://github.com/zambal/eml) - Library for writing and manipulating (HTML) markup in Elixir.
 
 ### Testing
 
 *   [faker (⭐1.1k)](https://github.com/igas/faker) - Faker is a pure Elixir library for generating fake data.
 *   [mix\_eunit (⭐17)](https://github.com/dantswain/mix_eunit) - A Mix task to execute eunit tests.
 *   [mixunit (⭐2)](https://github.com/talentdeficit/mixunit) - An EUnit task for Mix based projects.
-*   [mock (⭐641)](https://github.com/jjh42/mock) - Mocking library for the Elixir language.
+*   [mock (⭐663)](https://github.com/jjh42/mock) - Mocking library for the Elixir language.
 
 ### Text and Numbers
 
 *   [bencoder (⭐4)](https://github.com/alehander42/bencoder) - bencode in Elixir.
 *   [exmoji (⭐95)](https://github.com/mroth/exmoji) - Emoji encoding Swiss Army knife for Elixir/Erlang.
-*   [pinyin (⭐21)](https://github.com/lidashuang/pinyin) - Chinese Pinyin lib for Elixir.
+*   [pinyin (⭐23)](https://github.com/lidashuang/pinyin) - Chinese Pinyin lib for Elixir.
 *   [tomlex (⭐32)](https://github.com/zamith/tomlex) - A TOML parser for Elixir.
 
 ### Third Party APIs
 
 *   [balanced (⭐4)](https://github.com/bryanjos/balanced-elixir) - Balanced API Client for Elixir.
-*   [commerce\_billing (⭐180)](https://github.com/joshnuss/commerce_billing) - A payment-processing library for Elixir that supports multiple gateways (e.g. Bogus & Stripe).
-*   [exgravatar (⭐22)](https://github.com/scrogson/exgravatar) - An Elixir module for generating Gravatar URLs.
-*   [extwitter (⭐411)](https://github.com/parroty/extwitter) - Twitter client library for Elixir.
+*   [commerce\_billing (⭐179)](https://github.com/joshnuss/commerce_billing) - A payment-processing library for Elixir that supports multiple gateways (e.g. Bogus & Stripe).
+*   [exgravatar (⭐24)](https://github.com/scrogson/exgravatar) - An Elixir module for generating Gravatar URLs.
+*   [extwitter (⭐408)](https://github.com/parroty/extwitter) - Twitter client library for Elixir.
 
 ### Other Awesome Lists
 
-*   [Erlang Bookmarks (⭐1.1k)](https://github.com/0xAX/erlang-bookmarks) - A collection of links for Erlang developers.
+*   [Erlang Bookmarks (⭐1.2k)](https://github.com/0xAX/erlang-bookmarks) - A collection of links for Erlang developers.
 
 ### Reading
 
@@ -138,12 +138,12 @@
 
 ## [3. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
 
-### Courses
+### Courses / Commerical Tools
 
 *   [Machine Learning](https://class.coursera.org/ml-008) - Basic machine learning algorithms for supervised and unsupervised learning
 *   [Stanford Statistical Learning](http://online.stanford.edu/course/statistical-learning-winter-2014) - Introductory course on machine learning focusing on linear and polynomial regression, logistic regression and linear discriminant analysis; cross-validation and the bootstrap, model selection and regularization methods (ridge and lasso); nonlinear models, splines and generalized additive models; tree-based methods, random forests and boosting; support-vector machines.
 
-### Learning
+### Learning / Commerical Tools
 
 *   [Machine Learning: A Probabilistic Perspective](http://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020) - This textbook offers a comprehensive and self-contained introduction to the field of machine learning, based on a unified, probabilistic approach
 

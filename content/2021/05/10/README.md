@@ -1,6 +1,6 @@
 # Awesome List Updates on May 10, 2021
 
-13 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -24,11 +24,11 @@
 
 ### Software / Document Management
 
-*   [I, Librarian](https://i-librarian.net) - I, Librarian can organize PDF papers and office documents. It provides a lot of extra features for students and research groups both in industry and academia. ([Demo](https://i-librarian.net/demo/), [Source Code (⭐236)](https://github.com/mkucej/i-librarian-free)) `GPL-3.0` `PHP`
+*   [I, Librarian](https://i-librarian.net) - I, Librarian can organize PDF papers and office documents. It provides a lot of extra features for students and research groups both in industry and academia. ([Demo](https://i-librarian.net/demo/), [Source Code (⭐267)](https://github.com/mkucej/i-librarian-free)) `GPL-3.0` `PHP`
 
 ### Software / Password Managers
 
-*   [Vaultwarden (⭐36k)](https://github.com/dani-garcia/vaultwarden) - Lightweight Bitwarden server API implementation written in Rust. `GPL-3.0` `Rust/Docker`
+*   [Vaultwarden (⭐41k)](https://github.com/dani-garcia/vaultwarden) - Lightweight Bitwarden server API implementation written in Rust. `GPL-3.0` `Rust/Docker`
 
 ## [4. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
 
@@ -40,11 +40,11 @@
 
 ### Open Source / Casual
 
-*   [Color Mixer (⭐15)](https://github.com/androideen/color_mixer_flame) - A color mixer game built with Flame 1.0.0-rc8. Tap 2 colors to mix them and help player pass obstacles.
+*   [Color Mixer (⭐14)](https://github.com/androideen/color_mixer_flame) - A color mixer game built with Flame 1.0.0-rc8. Tap 2 colors to mix them and help player pass obstacles.
 
 ### Open Source / Platformer
 
-*   [Flutters (⭐236)](https://github.com/ecklf/flutters) - A mixture of Flappy Bird and Doodle Jump. By [ecklf](https://github.com/ecklf)
+*   [Flutters (⭐240)](https://github.com/ecklf/flutters) - A mixture of Flappy Bird and Doodle Jump. By [ecklf](https://github.com/ecklf)
 
 ## [6. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -87,17 +87,11 @@
 
 *   [Intelligence X](https://intelx.io/tools)
 
-### Expert Search / Telegram
+### Expert Search / Steam
 
 *   [Licenseplates](http://www.worldlicenseplates.com/)
 
-## [11. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
-
-### Tutorials
-
-*   [Learn Svelte by building a habit tracker app](https://raddevon.com/articles/learn-svelte-by-building-a-habit-tracker-app/) - RadDevon.
-
-## [12. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
+## [11. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
 
 ### Books
 
@@ -117,7 +111,7 @@
 *   [Repo-supervisor (⭐632)](https://github.com/auth0/repo-supervisor) - *Auth0* - Secrets scanning tool that can run as a CLI, as a Docker container or in AWS Lambda.
 *   [truffleHog (⭐14k)](https://github.com/trufflesecurity/truffleHog) - *Truffle Security* - Searches through git repositories for secrets, digging deep into commit history and branches.
 
-## [13. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
+## [12. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / Personalization
 

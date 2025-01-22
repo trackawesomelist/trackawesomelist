@@ -40,13 +40,13 @@
 
 ### Projects Related to eBPF / Observability
 
-*   [SkyWalking Rover (⭐190)](https://github.com/apache/skywalking-rover) - [Apache SkyWalking](https://skywalking.apache.org/) is an open-source Application Performance Monitoring (APM) platform specially designed for distributed systems with microservices, cloud-native and container-based (Kubernetes) architectures. SkyWalking Rover is an eBPF-based profiler and metrics collector for C, C++, Golang, and Rust applications.
+*   [SkyWalking Rover (⭐211)](https://github.com/apache/skywalking-rover) - [Apache SkyWalking](https://skywalking.apache.org/) is an open-source Application Performance Monitoring (APM) platform specially designed for distributed systems with microservices, cloud-native and container-based (Kubernetes) architectures. SkyWalking Rover is an eBPF-based profiler and metrics collector for C, C++, Golang, and Rust applications.
 
 ## [5. Awesome Rest](/content/marmelab/awesome-rest/README.md)
 
 ### Querying / Symfony2
 
-*   [Schemathesis (⭐2.2k)](https://github.com/schemathesis/schemathesis) - Property-based testing tool for web applications built with Open API and GraphQL specifications.
+*   [Schemathesis (⭐2.4k)](https://github.com/schemathesis/schemathesis) - Property-based testing tool for web applications built with Open API and GraphQL specifications.
 
 ## [6. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
 
@@ -58,12 +58,12 @@
 
 ### Software / Content Management Systems (CMS)
 
-*   [Apostrophe](https://apostrophecms.com/) - CMS with a focus on extensible in-context editing tools. ([Demo](https://apostrophecms.com/demo), [Source Code (⭐4.3k)](https://github.com/apostrophecms/apostrophe)) `MIT` `Nodejs`
-*   [KeystoneJS](https://keystonejs.com/) - CMS and Web Application Platform. ([Source Code (⭐9.1k)](https://github.com/keystonejs/keystone)) `MIT` `Nodejs`
+*   [Apostrophe](https://apostrophecms.com/) - CMS with a focus on extensible in-context editing tools. ([Demo](https://apostrophecms.com/demo), [Source Code (⭐4.4k)](https://github.com/apostrophecms/apostrophe)) `MIT` `Nodejs`
+*   [KeystoneJS](https://keystonejs.com/) - CMS and Web Application Platform. ([Source Code (⭐9.4k)](https://github.com/keystonejs/keystone)) `MIT` `Nodejs`
 
 ### Software / Self-hosting Solutions
 
-*   [NextCloudPi (⭐2.5k)](https://github.com/nextcloud/nextcloudpi) - Nextcloud preinstalled and preconfigured, with a text and web management interface and all the tools needed to self host private data. With installation images for Raspberry Pi, Odroid, Rock64, Docker, and a curl installer for Armbian/Debian. `GPL-2.0` `Shell/PHP`
+*   [NextCloudPi (⭐2.6k)](https://github.com/nextcloud/nextcloudpi) - Nextcloud preinstalled and preconfigured, with a text and web management interface and all the tools needed to self host private data. With installation images for Raspberry Pi, Odroid, Rock64, Docker, and a curl installer for Armbian/Debian. `GPL-2.0` `Shell/PHP`
 
 ### Software / Software Development - Localization
 
@@ -71,7 +71,7 @@
 
 ### Software / Task Management & To-do Lists
 
-*   [Kanboard](https://kanboard.org/) - Simple and open source visual task board. ([Source Code (⭐8.3k)](https://github.com/kanboard/kanboard)) `MIT` `PHP`
+*   [Kanboard](https://kanboard.org/) - Simple and open source visual task board. ([Source Code (⭐8.6k)](https://github.com/kanboard/kanboard)) `MIT` `PHP`
 
 ## [8. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
 
@@ -87,12 +87,12 @@
 
 ### Browser-Based / Arcade
 
-*   [ExecutiveMan (⭐80)](https://github.com/CamHenlin/ExecutiveMan) - Clone of NES game MegaMan, written in JavaScript.
+*   [ExecutiveMan (⭐82)](https://github.com/CamHenlin/ExecutiveMan) - Clone of NES game MegaMan, written in JavaScript.
 *   [Snake (⭐27)](https://github.com/jrgdiz/snake) - Simple clone of the snake game, using canvas and JavaScript.
 
 ### Browser-Based / Strategy
 
-*   [Command & Conquer (⭐771)](https://github.com/adityaravishankar/command-and-conquer) - Recreation of the original Command and Conquer, Real Time Strategy game entirely in HTML5 and JavaScript.
+*   [Command & Conquer (⭐778)](https://github.com/adityaravishankar/command-and-conquer) - Recreation of the original Command and Conquer, Real Time Strategy game entirely in HTML5 and JavaScript.
 
 ## [10. Awesome Cyber Security University](/content/brootware/awesome-cyber-security-university/README.md)
 

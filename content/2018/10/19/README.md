@@ -29,11 +29,11 @@
 
 ### Tools / Static Analysis Tools
 
-*   [ConDroid (⭐54)](https://github.com/JulianSchuette/ConDroid) - Performs a combination of symbolic + concrete execution of the app
+*   [ConDroid (⭐56)](https://github.com/JulianSchuette/ConDroid) - Performs a combination of symbolic + concrete execution of the app
 
 ### Tools / Dynamic Analysis Tools
 
-*   [Appie](https://manifestsecurity.com/appie/) - Appie is a software package that has been pre-configured to function as an Android Pentesting Environment. It is completely portable and can be carried on a USB stick or smartphone. This is a one-stop answer for all the tools needed in Android Application Security Assessment and an awesome alternative to existing virtual machines.
+*   ~~[Appie](https://manifestsecurity.com/appie/) - Appie is a software package that has been pre-configured to function as an Android Pentesting Environment. It is completely portable and can be carried on a USB stick or smartphone. This is a one-stop answer for all the tools needed in Android Application Security Assessment and an awesome alternative to existing virtual machines.~~
 
 ### Exploits/Vulnerabilities/Bugs / Malware
 
@@ -47,13 +47,13 @@
 
 ### Misc / Other
 
-*   [You Don't Know JS (⭐178k)](https://github.com/getify/You-Dont-Know-JS) - Possibly the best book written on modern JavaScript, completely readable online for free, or can be bought to support the author.
+*   [You Don't Know JS (⭐179k)](https://github.com/getify/You-Dont-Know-JS) - Possibly the best book written on modern JavaScript, completely readable online for free, or can be bought to support the author.
 
 ## [6. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Developer Tools / Developer Utilities
 
-*   [Cacher](https://www.cacher.io/) - Cloud-based, team-enabled code snippet manager with Gist sync, VSCode/Atom/Sublime packages and Mac/Windows/Linux/Web clients.
+*   [Cacher](https://www.cacher.io/) - Cloud-based code snippet manager with Gist sync and multi-platform support.
 
 ### Utilities / To-Do Lists
 
@@ -75,7 +75,7 @@
 
 ### Libraries
 
-*   [tf-encrypted (⭐2)](https://github.com/mortendahl/tf-encrypted) - Layer on top of TensorFlow for doing machine learning on encrypted data
+*   [tf-encrypted (⭐3)](https://github.com/mortendahl/tf-encrypted) - Layer on top of TensorFlow for doing machine learning on encrypted data
 
 ## [9. Awesome Ethereum](/content/ttumiel/Awesome-Ethereum/README.md)
 
@@ -116,20 +116,20 @@
 ### CLI / Argument Parsing
 
 *   [JCommander](http://jcommander.org) - Command-line argument-parsing framework with custom types and validation via implementing interfaces.
-*   [JLine (⭐1.4k)](https://github.com/jline/jline3) - Includes features from modern shells like completion or history.
+*   [JLine (⭐1.5k)](https://github.com/jline/jline3) - Includes features from modern shells like completion or history.
 
 ### CLI / Text-Based User Interfaces
 
 *   [Jansi (⭐1.1k)](https://github.com/fusesource/jansi) - ANSI escape codes to format console output.
-*   [Text-IO (⭐338)](https://github.com/beryx/text-io) - Aids the creation of full console-based applications.
+*   [Text-IO (⭐343)](https://github.com/beryx/text-io) - Aids the creation of full console-based applications.
 
 ### Security / Other
 
-*   [SecurityBuilder (⭐43)](https://github.com/tersesystems/securitybuilder) - Fluent Builder API for JCA and JSSE classes and especially X.509 certificates.
+*   [SecurityBuilder (⭐46)](https://github.com/tersesystems/securitybuilder) - Fluent Builder API for JCA and JSSE classes and especially X.509 certificates.
 
 ### Utility / Mocking
 
-*   [bucket4j (⭐2.2k)](https://github.com/vladimir-bukhtoyarov/bucket4j) - Rate limiting library based on token-bucket algorithm.
+*   [bucket4j (⭐2.3k)](https://github.com/vladimir-bukhtoyarov/bucket4j) - Rate limiting library based on token-bucket algorithm.
 
 ## [14. Awesome Speaking](/content/matteofigus/awesome-speaking/README.md)
 

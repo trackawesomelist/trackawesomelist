@@ -10,19 +10,14 @@
 
 ### Tools & Software / Replay
 
-*   [PYWB (⭐1.3k)](https://github.com/webrecorder/pywb) - A Python 3 implementation of web archival replay tools, sometimes also known as 'Wayback Machine'. *(Stable)*
-*   [ReplayWeb.page](https://replayweb.page/) - A browser-based, fully client-side replay engine for both local and remote WARC & WACZ files. *(Stable)*
-
-### Web Archiving Service Providers / Self-hostable, Open Source
-
-*   [Browsertrix](https://browsertrix.com/) - From [Webrecorder](https://webrecorder.net/), source available at [https://github.com/webrecorder/browsertrix (⭐120)](https://github.com/webrecorder/browsertrix).
+*   [PYWB (⭐1.4k)](https://github.com/webrecorder/pywb) - A Python 3 implementation of web archival replay tools, sometimes also known as 'Wayback Machine'. *(Stable)*
 
 ## [2. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Advanced
 
 *   [SBCL internals](https://simonsafar.com/2020/sbcl/)
-*   [sbcl-wiki (⭐55)](https://github.com/guicho271828/sbcl-wiki/wiki) - an open wiki to document SBCL's internals.
+*   [sbcl-wiki (⭐56)](https://github.com/guicho271828/sbcl-wiki/wiki) - an open wiki to document SBCL's internals.
 
 ### Lem / Third-party APIs
 
@@ -35,7 +30,7 @@
 ### Libraries / Mobile
 
 *   Android / iOS
-    *   [ivnsch/rust\_android\_ios (⭐240)](https://github.com/ivnsch/rust_android_ios) - An example of using a shared lib for Android and iOS using rust-swig and cbindgen respectively.
+    *   [ivnsch/rust\_android\_ios (⭐242)](https://github.com/ivnsch/rust_android_ios) - An example of using a shared lib for Android and iOS using rust-swig and cbindgen respectively.
 
 ## [4. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/README.md)
 
@@ -68,7 +63,7 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [jim-at-jibba/ariake.nvim (⭐15)](https://github.com/jim-at-jibba/ariake.nvim) - A port of the great Atom theme. Beautiful, dark colour scheme.
+*   [jim-at-jibba/ariake.nvim (⭐18)](https://github.com/jim-at-jibba/ariake.nvim) - A port of the great Atom theme. Beautiful, dark colour scheme.
 
 ---
 

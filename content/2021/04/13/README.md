@@ -49,29 +49,29 @@
 ### Sitecore Host
 
 *   [Sitecore Host Quick Start](https://github.com/sitecoreguild/SitecoreHostQuickStart/tree/develop) - A basic set of templates to help you get started building your own Sitecore Host applications.
-*   [Sitecore Host Plugins (⭐1)](https://github.com/JuliusAngwenyi/SitecoreHostPlugins) - Sitecore Host Plugins for extending Sitecore Identity Server.
+*   [Sitecore Host Plugins (⭐2)](https://github.com/JuliusAngwenyi/SitecoreHostPlugins) - Sitecore Host Plugins for extending Sitecore Identity Server.
 
 ## [3. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Scala / General-Purpose Machine Learning
 
-*   [Microsoft ML for Apache Spark (⭐5k)](https://github.com/Azure/mmlspark) -> A distributed machine learning framework Apache Spark
+*   [Microsoft ML for Apache Spark (⭐5.1k)](https://github.com/Azure/mmlspark) -> A distributed machine learning framework Apache Spark
 
 ## [4. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
 ### Plugins / Security
 
-*   [pii (⭐8)](https://github.com/shiva-hack/eslint-plugin-pii) - Checks and enforces PII Compliance of the code. i.e. no email address, birth date, IP address or phone number in comments or string literals.
+*   [pii (⭐9)](https://github.com/shiva-hack/eslint-plugin-pii) - Checks and enforces PII Compliance of the code. i.e. no email address, birth date, IP address or phone number in comments or string literals.
 
 ## [5. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### Peripheral Access Crates / GigaDevice
 
-*   [`gd32f1`](https://crates.io/crates/gd32f1) Peripheral access API for GD32F1x0 Cortex-M3 microcontrollers (generated using svd2rust) - ![crates.io](https://img.shields.io/crates/v/gd32f1.svg)
+*   [`gd32f1`](https://crates.io/crates/gd32f1) Peripheral access API for GD32F1x0 Cortex-M3 microcontrollers (generated using svd2rust) - [![crates.io](https://img.shields.io/crates/v/gd32f1.svg)](https://crates.io/crates/gd32f1)
 
 ### HAL implementation crates / GigaDevice
 
-*   [`gd32f1x0-hal`](https://crates.io/crates/gd32f1x0-hal) - ![crates.io](https://img.shields.io/crates/v/gd32f1x0-hal.svg)
+*   [`gd32f1x0-hal`](https://crates.io/crates/gd32f1x0-hal) - [![crates.io](https://img.shields.io/crates/v/gd32f1x0-hal.svg)](https://crates.io/crates/gd32f1x0-hal)
     *   HAL implementation for GD32F1x0 microcontrollers
 
 ## [6. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
@@ -135,7 +135,7 @@
 
 ### Strategy
 
-*   [OpenHV (⭐804)](https://github.com/OpenHV/OpenHV) - Open-source implementation of Hard Vacuum. :flower\_playing\_cards:
+*   [OpenHV (⭐853)](https://github.com/OpenHV/OpenHV) - Open-source implementation of Hard Vacuum. :flower\_playing\_cards:
 
 ## [14. Awesome Json](/content/burningtree/awesome-json/README.md)
 

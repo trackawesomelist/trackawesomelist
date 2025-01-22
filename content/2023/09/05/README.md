@@ -22,21 +22,21 @@
 
 ### Mobile
 
-*   [NJSON (⭐16)](https://github.com/atlas-engineer/njson) - Parser-agnostic JSON indexing (with JSON Pointer support), destructuring, and validation framework. [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
+*   [NJSON (⭐18)](https://github.com/atlas-engineer/njson) - Parser-agnostic JSON indexing (with JSON Pointer support), destructuring, and validation framework. [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
 ### CLOS extensions
 
-*   [nclasses (⭐5)](https://github.com/atlas-engineer/nclasses) - Syntactic sugar for class and generic function declarations. Fork of [hu.dwim.defclass-star (⭐5)](https://github.com/hu-dwim/hu.dwim.defclass-star). Features type inference, automatic accessors, inline initform syntax, automatic exports, and other conveniences. [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
+*   [nclasses (⭐7)](https://github.com/atlas-engineer/nclasses) - Syntactic sugar for class and generic function declarations. Features type inference, automatic accessors, inline initform syntax, automatic exports, and other conveniences. [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
 ### Files and directories / Third-party APIs
 
-*   [nfiles (⭐17)](https://github.com/atlas-engineer/nfiles) - File persistence, watching, data synchronization, (per user profile) path resolution, and structured data retrieval. Has pre-defined classes for configuration files, remote fetched files, data files, Lisp-readable files and many others. [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
+*   [nfiles (⭐18)](https://github.com/atlas-engineer/nfiles) - File persistence, watching, data synchronization, (per user profile) path resolution, and structured data retrieval. Has pre-defined classes for configuration files, remote fetched files, data files, Lisp-readable files and many others. [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
 ## [4. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
 ### NixOS Modules / Zig
 
-*   [NixVim (⭐1.5k)](https://github.com/nix-community/nixvim) - A NeoVim distribution built with Nix modules and Nixpkgs.
+*   [NixVim (⭐1.9k)](https://github.com/nix-community/nixvim) - A NeoVim distribution built with Nix modules and Nixpkgs.
 
 ## [5. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 

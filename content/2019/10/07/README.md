@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 07, 2019
 
-19 awesome lists updated today.
+18 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -12,19 +12,13 @@
 
 *   [Sender](https://www.sender.net) Up to 15,000 emails/month, up to 2,500 subscribers
 
-## [2. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
-
-### Companies with "remote DNA"
-
-*   [DareCode](https://www.darecode.com) - Big-data, fast-data, micro-services. Projects with real DevOps and OpenSource orientation.
-
-## [3. Awesome Actions](/content/sdras/awesome-actions/README.md)
+## [2. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
 ### Deployment / Code Coverage
 
-*   [Deploy a static site to Surge.sh (⭐60)](https://github.com/yavisht/deploy-via-surge.sh-github-action-template)
+*   [Deploy a static site to Surge.sh (⭐80)](https://github.com/yavisht/deploy-via-surge.sh-github-action-template)
 
-## [4. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
+## [3. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 
 ### Popular Packages / Testing & Debugging
 
@@ -35,49 +29,49 @@
 
 *   [Laravel Template with Vue (⭐880)](https://github.com/wmhello/laravel_template_with_vue)
 
-## [5. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/README.md)
+## [4. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/README.md)
 
 ### Reporting Systems
 
 *   [Program for Monitoring Emerging Diseases (ProMed)](http://www.promedmail.org/) - An early warning of outbreaks of emerging and re-emerging diseases. Sources of information include media reports, official reports, online summaries, local observers, and others. [EIDR-Connect](https://eidr-connect.eha.io/events/auto) parses ProMed reports into disease outbreak events, curated by disease experts.
 
-## [6. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
+## [5. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
 ### GUI
 
 *   [trikl (⭐142)](https://github.com/lambdaisland/trikl)
 
-## [7. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/README.md)
+## [6. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/README.md)
 
 ### Talks
 
 *   [Burnout And Your Meat Computer - Electromagnetic Field 2018](https://www.youtube.com/watch?v=gcYRhATiyO4) - By Jessica Rose.
 
-## [8. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [7. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / General-Purpose Machine Learning
 
 *   [Cortex (⭐8k)](https://github.com/cortexlabs/cortex) - Open source platform for deploying machine learning models in production.
 
-## [9. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+## [8. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
 ### Agency Tools
 
 *   [TBEST](https://tbest.org/) - TBEST (Transit Boardings Estimation and Simulation Tool) is an effort to develop a multi-faceted GIS-based modeling, planning and analysis tool which integrates socio-economic, land use, and transit network data into a platform for scenario-based transit ridership estimation and analysis. Funded by the Florida Department of Transportation. Free to use but not open-source.
 
-## [10. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
+## [9. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
 ### OS Images
 
 *   [LibreELEC](https://libreelec.tv/) - Just enough OS for Kodi
 
-## [11. Awesome Gideros](/content/stetso/awesome-gideros/README.md)
+## [10. Awesome Gideros](/content/stetso/awesome-gideros/README.md)
 
 ### Useful Lua-Libraries / Plugins
 
 *   [bump (⭐769)](https://github.com/kikito/bump.lua) - Simple, flexible and fast library for collision detection using axis-aligned bounding boxes (from version 2017.8 onwards Gideros contains a C-port of the library with the same API that should be used instead [cbump](https://wiki.giderosmobile.com/index.php/Bump).
 
-## [12. Public Apis](/content/public-apis/public-apis/README.md)
+## [11. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Open Data
 
@@ -93,13 +87,13 @@
 
 
 
-## [13. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [12. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Design and Product / Design Tools
 
 *   [MakeHuman](http://www.makehumancommunity.org) - Powerful and free 3D human modeler. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [14. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
+## [13. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 
 ### Strategy
 
@@ -113,7 +107,7 @@
 | ------: | -------: | -----: |
 |   2 - 4 |       12 | 60-90m |
 
-## [15. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/README.md)
+## [14. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/README.md)
 
 ### Companies / Energy
 
@@ -121,19 +115,19 @@
 
     The UK's biggest green supplier. They provide members with 100% renewable electricity from solar, wind and hydro. Plus, the gas is 100% carbon neutral. 10% is green gas produced from renewable sources like food or farm waste.
 
-## [16. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
+## [15. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Top / Game Engine resources
 
 *   [Timy Messenger (⭐2.1k)](https://github.com/janoodleFTW/timy-messenger) <!--stargazers:janoodleFTW/timy-messenger--> - Group messaging app with a focus on organizing events by [Miguel Beltran](https://github.com/miquelbeltran) and [Franz Heinfling](https://github.com/fheinfling)
 
-## [17. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
+## [16. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
 
 ### System / Other
 
 *   [HackingLab](https://www.hacking-lab.com/)
 
-## [18. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/README.md)
+## [17. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/README.md)
 
 ### Terminal Emulation Applications
 
@@ -143,7 +137,7 @@
 
 *   [kubebox (⭐2k)](https://github.com/astefanutti/kubebox) - Terminal console for Kubernetes.
 
-## [19. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+## [18. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 
 ### How to Use
 

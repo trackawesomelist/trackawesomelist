@@ -10,35 +10,35 @@
 
 ### Software / Communication - IRC
 
-*   [Kiwi IRC](https://kiwiirc.com/) - Responsive web IRC client with theming support. ([Demo](https://kiwiirc.com/nextclient/), [Source Code (⭐853)](https://github.com/kiwiirc/kiwiirc)) `Apache-2.0` `Nodejs`
+*   [Kiwi IRC](https://kiwiirc.com/) - Responsive web IRC client with theming support. ([Demo](https://kiwiirc.com/nextclient/), [Source Code (⭐887)](https://github.com/kiwiirc/kiwiirc)) `Apache-2.0` `Nodejs`
 
 ### Software / Conference Management
 
-*   [indico](https://getindico.io/) - A feature-rich event management system, made @ CERN, the place where the Web was born. ([Demo](https://sandbox.getindico.io/), [Source Code (⭐1.7k)](https://github.com/indico/indico)) `MIT` `Python`
+*   [indico](https://getindico.io/) - A feature-rich event management system, made @ CERN, the place where the Web was born. ([Demo](https://sandbox.getindico.io/), [Source Code (⭐1.8k)](https://github.com/indico/indico)) `MIT` `Python`
 
 ### Software / Document Management - E-books
 
-*   [Calibre](https://calibre-ebook.com/) - E-book library manager that can view, convert, and catalog e-books in most of the major e-book formats and provides a built-in Web server for remote clients. ([Demo](https://calibre-ebook.com/demo), [Source Code (⭐19k)](https://github.com/kovidgoyal/calibre)) `GPL-3.0` `Python/deb`
+*   [Calibre](https://calibre-ebook.com/) - E-book library manager that can view, convert, and catalog e-books in most of the major e-book formats and provides a built-in Web server for remote clients. ([Demo](https://calibre-ebook.com/demo), [Source Code (⭐20k)](https://github.com/kovidgoyal/calibre)) `GPL-3.0` `Python/deb`
 
 ### Software / Polls and Events
 
-*   [LimeSurvey](https://www.limesurvey.org) - Feature-rich Open Source web based polling software. Supports extensive survey logic. ([Demo](https://demo.limesurvey.org), [Source Code (⭐2.7k)](https://github.com/LimeSurvey/LimeSurvey)) `GPL-2.0` `PHP`
+*   [LimeSurvey](https://www.limesurvey.org) - Feature-rich Open Source web based polling software. Supports extensive survey logic. ([Demo](https://demo.limesurvey.org), [Source Code (⭐2.8k)](https://github.com/LimeSurvey/LimeSurvey)) `GPL-2.0` `PHP`
 
 ### Software / Ticketing
 
-*   [MantisBT](https://www.mantisbt.org/) - Self hosted bug tracker, fits best for software development. ([Demo](https://www.mantisbt.org/bugs/my_view_page.php), [Source Code (⭐1.6k)](https://github.com/mantisbt/mantisbt)) `GPL-2.0` `PHP`
+*   [MantisBT](https://www.mantisbt.org/) - Self hosted bug tracker, fits best for software development. ([Demo](https://www.mantisbt.org/bugs/my_view_page.php), [Source Code (⭐1.7k)](https://github.com/mantisbt/mantisbt)) `GPL-2.0` `PHP`
 
 ### Software / URL Shorteners
 
-*   [Shlink](https://shlink.io) - URL shortener with REST API and command line interface. Includes official progressive web application and docker images. ([Source Code (⭐3.1k)](https://github.com/shlinkio/shlink), [Clients](https://shlink.io/apps)) `MIT` `PHP/Docker`
+*   [Shlink](https://shlink.io) - URL shortener with REST API and command line interface. Includes official progressive web application and docker images. ([Source Code (⭐3.5k)](https://github.com/shlinkio/shlink), [Clients](https://shlink.io/apps)) `MIT` `PHP/Docker`
 
 ### Software / Wikis
 
-*   [Mediawiki](https://www.mediawiki.org/wiki/MediaWiki) - MediaWiki is a free and open-source wiki software package written in PHP. It serves as the platform for Wikipedia and the other Wikimedia projects, used by hundreds of millions of people each month. ([Demo](https://en.wikipedia.org/wiki/Main_Page), [Source Code](https://phabricator.wikimedia.org/diffusion/MW/)) `GPL-2.0` `PHP`
+*   [Mediawiki](https://www.mediawiki.org/wiki/MediaWiki) - MediaWiki is a free and open-source wiki software package written in PHP. It serves as the platform for Wikipedia and the other Wikimedia projects, used by hundreds of millions of people each month. ([Demo](https://en.wikipedia.org/wiki/Main_Page), [Source Code](https://phabricator.wikimedia.org/source/mediawiki/)) `GPL-2.0` `PHP`
 
 ## [2. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 
-### Tools and frameworks
+### Tools and frameworks (a-z↓)
 
 *   [wdio-visual-regression (⭐3)](https://github.com/ennjin/wdio-visual-regression) - Visual regression tool for webdriver.io
 
@@ -83,7 +83,7 @@
 
 ### Utility / Docker Container Actions
 
-*   [Apply templates with Jinja2 (⭐36)](https://github.com/cuchi/jinja2-action) - Use the Jinja2 template engine to generate files from templates.
+*   [Apply templates with Jinja2 (⭐43)](https://github.com/cuchi/jinja2-action) - Use the Jinja2 template engine to generate files from templates.
 
 ## [8. Awesome Deep Learning Resources](/content/guillaume-chevalier/Awesome-Deep-Learning-Resources/README.md)
 

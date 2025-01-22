@@ -10,7 +10,7 @@
 
 ### Network / Barcode
 
-*   [Connectivity (⭐1.6k)](https://github.com/rwbutler/Connectivity) - 🌐 Makes Internet connectivity detection more robust by detecting Wi-Fi networks without Internet access.
+*   [Connectivity (⭐1.7k)](https://github.com/rwbutler/Connectivity) - 🌐 Makes Internet connectivity detection more robust by detecting Wi-Fi networks without Internet access.
 
 ## [2. Awesome Python](/content/vinta/awesome-python/README.md)
 
@@ -205,7 +205,7 @@
 
 ### Utilities / Terminal Sharing Utilities
 
-*   [gotty (⭐18k)](https://github.com/yudai/gotty) - Share your terminal as a web application.
+*   [gotty (⭐19k)](https://github.com/yudai/gotty) - Share your terminal as a web application.
 *   [mosh](https://mosh.org/) - Remote SSH client that allows roaming with intermittent connectivity.
 *   [warp (⭐1.6k)](https://github.com/spolu/warp) - Secure and simple terminal sharing.
 

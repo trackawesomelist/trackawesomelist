@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 14, 2021
 
-16 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -71,7 +71,7 @@
 
 *   [composer2nix (⭐88)](https://github.com/svanderburg/composer2nix) - Generate Nix expressions to build composer packages.
 *   [composition-c4 (⭐11)](https://github.com/fossar/composition-c4) - Support for building composer packages from a `composer.lock` (using IFD).
-*   [nix-phps (⭐63)](https://github.com/fossar/nix-phps) - Flake containing old and unmaintained PHP versions (intended for CI use).
+*   [nix-phps (⭐66)](https://github.com/fossar/nix-phps) - Flake containing old and unmaintained PHP versions (intended for CI use).
 
 ## [4. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
@@ -81,7 +81,7 @@
 
 ### CLI Utils
 
-*   [oq (⭐190)](https://github.com/Blacksmoke16/oq) - A performant, and portable jq wrapper to facilitate the consumption and output of formats other than JSON; using [jq (⭐30k)](https://github.com/stedolan/jq) filters to transform the data
+*   [oq (⭐191)](https://github.com/Blacksmoke16/oq) - A performant, and portable jq wrapper to facilitate the consumption and output of formats other than JSON; using [jq (⭐31k)](https://github.com/stedolan/jq) filters to transform the data
 
 ### Dependency Injection
 
@@ -89,9 +89,9 @@
 
 ### Framework Components
 
-*   [mochi (⭐25)](https://github.com/awcrotwell/mochi) - Authentication shard inspired by Devise supporting: Authenticable, Confirmable, Invitable & more
+*   [mochi (⭐26)](https://github.com/awcrotwell/mochi) - Authentication shard inspired by Devise supporting: Authenticable, Confirmable, Invitable & more
 *   [motion.cr (⭐54)](https://github.com/awcrotwell/motion.cr) - Object oriented frontend library for Amber
-*   [tourmaline (⭐157)](https://github.com/protoncr/tourmaline) - Telegram bot framework with an API loosely based on [telegraf.js](https://telegraf.js.org/)
+*   [tourmaline (⭐161)](https://github.com/protoncr/tourmaline) - Telegram bot framework with an API loosely based on [telegraf.js](https://telegraf.js.org/)
 
 ### Misc
 
@@ -99,11 +99,11 @@
 
 ### ORM/ODM Extensions
 
-*   [avram (⭐165)](https://github.com/luckyframework/avram) - A database wrapper for reading, writing, and migrating Postgres databases
+*   [avram (⭐166)](https://github.com/luckyframework/avram) - A database wrapper for reading, writing, and migrating Postgres databases
 
 ### Queues and Messaging
 
-*   [mosquito (⭐225)](https://github.com/mosquito-cr/mosquito/) - Redis backed periodic and ad hoc job processing
+*   [mosquito (⭐229)](https://github.com/mosquito-cr/mosquito/) - Redis backed periodic and ad hoc job processing
 
 ### Serverless Computing
 
@@ -116,7 +116,7 @@
 
 ### LSP Language Server Protocol Implementations
 
-*   [crystalline (⭐428)](https://github.com/elbywan/crystalline) - Crystalline is an implementation of the Language Server Protocol written in and for the Crystal Language
+*   [crystalline (⭐453)](https://github.com/elbywan/crystalline) - Crystalline is an implementation of the Language Server Protocol written in and for the Crystal Language
 
 ## [5. Awesome Gatling](/content/aliesbelik/awesome-gatling/README.md)
 
@@ -128,15 +128,9 @@
 
 ### Crowdsourced transit data
 
-*   [GTFS-Hub (⭐26)](https://github.com/mfdz/gtfs-hub) - Community tested, probably quality/content enhanced, partially merged or filtered GTFS-feeds of (currently German) transport agencies. Maintained by [MITFAHR|DE|ZENTRALE](https://github.com/mfdz).
+*   [GTFS-Hub (⭐30)](https://github.com/mfdz/gtfs-hub) - Community tested, probably quality/content enhanced, partially merged or filtered GTFS-feeds of (currently German) transport agencies. Maintained by [MITFAHR|DE|ZENTRALE](https://github.com/mfdz).
 
-## [7. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
-
-### Libraries/Frameworks / Web
-
-*   [hexagonkt/hexagon (⭐572)](https://github.com/hexagonkt/hexagon) - A Microservices framework that takes care of HTTP, serialization and storage.
-
-## [8. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [7. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Design and Product / Design Tools
 
@@ -146,7 +140,7 @@
 
 *   [Raycast](https://raycast.com) - Raycast lets you control your tools with a few keystrokes. It’s designed to keep you focused.
 
-## [9. Public Apis](/content/public-apis/public-apis/README.md)
+## [8. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Personality
 
@@ -162,32 +156,32 @@
 
 
 
-## [10. Awesome Lidar](/content/szenergy/awesome-lidar/README.md)
+## [9. Awesome Lidar](/content/szenergy/awesome-lidar/README.md)
 
 ### Libraries
 
 *   [pointcloudset](https://virtual-vehicle.github.io/pointcloudset/) - Python library for efficient analysis of large datasets of point clouds recorded over time.
-    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐43)](https://github.com/virtual-vehicle/pointcloudset)
+    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐44)](https://github.com/virtual-vehicle/pointcloudset)
 
-## [11. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/README.md)
+## [10. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/README.md)
 
 ### Graphics / TikZ
 
 *   [TikZBlog](https://latexdraw.com) - Step-by-Step Tutorials about How to Draw Illustrations in LaTeX.
 
-## [12. Amas](/content/sindresorhus/amas/README.md)
+## [11. Amas](/content/sindresorhus/amas/README.md)
 
 ### Ask these people anything!
 
 *   [TheTechRobo](https://github.com/thetechrobo/ama) - Hobbyist Python 3.x developer who corrects grammar so much he loses friends.
 
-## [13. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [12. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Git / Diagnostics
 
-*   [kdheepak/lazygit.nvim (⭐1.4k)](https://github.com/kdheepak/lazygit.nvim) - Plugin for calling lazygit.
+*   [kdheepak/lazygit.nvim (⭐1.7k)](https://github.com/kdheepak/lazygit.nvim) - Plugin for calling lazygit.
 
-## [14. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/README.md)
+## [13. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/README.md)
 
 ### Audio Related Packages / Feature extraction
 
@@ -197,7 +191,7 @@
 
 *   [pydiogment (⭐76)](https://github.com/SuperKogito/pydiogment) [:octocat: (⭐76)](https://github.com/SuperKogito/pydiogment) [:package:](https://pypi.org/project/pydiogment/) -  Audio Data Augmentation.
 
-## [15. Awesome Design](/content/gztchan/awesome-design/README.md)
+## [14. Awesome Design](/content/gztchan/awesome-design/README.md)
 
 ### Stock
 
@@ -240,7 +234,7 @@
 *   [Uber](https://medium.com/uber-design)
 *   [Audi](https://www.audi.com/ci/en/renewed-brand.html) Audi Corporate Identity Portal
 
-## [16. Awesome Xamarin](/content/XamSome/awesome-xamarin/README.md)
+## [15. Awesome Xamarin](/content/XamSome/awesome-xamarin/README.md)
 
 ### Xamarin.Forms
 

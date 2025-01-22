@@ -22,7 +22,7 @@
 
 ### Awesome Repositories
 
-- Repository: [Serverless Security (⭐579)](https://github.com/puresec/awesome-serverless-security/)
+- Repository: [Serverless Security (⭐604)](https://github.com/puresec/awesome-serverless-security/)
 
   Description: Collection of Serverless security related resources
 
@@ -66,14 +66,6 @@
 *   [LiveOverflow](https://www.patreon.com/liveoverflow) - IT security videos.
 
 ## [7. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
-
-### Articles & Posts
-
-*   [Why I work remotely (hint: it has nothing to do with productivity)](https://m.signalvnoise.com/why-i-work-remotely-hint-it-has-nothing-to-do-with-productivity/)
-
-### Relocation Incentives
-
-*   [Vermont Remote Worker Grant Program](https://www.thinkvermont.com/relocate/) - Receive up to a max of $5,000 per year to work from Vermont. Cannot exceed $10,000 for life of the program per individual.
 
 ### Companies with "remote DNA"
 

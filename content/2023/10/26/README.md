@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 26, 2023
 
-14 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,12 +10,12 @@
 
 ### Logging
 
-*   [haclog (⭐74)](https://github.com/MuggleWei/haclog) - An extremely fast plain C logging library. \[MIT]
+*   [haclog (⭐75)](https://github.com/MuggleWei/haclog) - An extremely fast plain C logging library. \[MIT]
 
 ### Miscellaneous
 
-*   [faker-cxx (⭐280)](https://github.com/cieslarmichal/faker-cxx) - C++20 Faker library for generating fake (but realistic) data for testing and development. \[MIT]
-*   [inja (⭐1.6k)](https://github.com/pantor/inja) - A Template Engine for Modern C++. \[MIT]
+*   [faker-cxx (⭐328)](https://github.com/cieslarmichal/faker-cxx) - C++20 Faker library for generating fake (but realistic) data for testing and development. \[MIT]
+*   [inja (⭐1.7k)](https://github.com/pantor/inja) - A Template Engine for Modern C++. \[MIT]
 
 ## [2. Awesome Go](/content/avelino/awesome-go/README.md)
 
@@ -27,7 +27,7 @@
 
 ### Game
 
-*   [DotRecast (⭐487)](https://github.com/ikpil/DotRecast) - A port of Recast & Detour, navigation mesh toolset for games, Unity3D, servers, C#
+*   [DotRecast (⭐614)](https://github.com/ikpil/DotRecast) - A port of Recast & Detour, navigation mesh toolset for games, Unity3D, servers, C#
 
 ## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -35,13 +35,7 @@
 
 *   [Trackingplan](https://www.trackingplan.com/) - Automatically detect digital analytics, marketing data and pixels issues, maintain up-to-date tracking plans, and foster seamless collaboration. Deploy it to your production environment with real traffic or add analytics coverage to your regression tests without writing code.
 
-## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / UI Components
-
-*   [vue3-ui-preloader (⭐5)](https://github.com/gbast0s/vue3-ui-preloader) - Vue3 Pre Loader components for vue.js projects with playground.
-
-## [6. Ai Collective Tools](/content/Hyraze/ai-collective-tools/README.md)
+## [5. Ai Collective Tools](/content/Hyraze/ai-collective-tools/README.md)
 
 ### 3D
 
@@ -74,25 +68,19 @@
 
 ### Models
 
-*   [Qwen (⭐11k)](https://github.com/QwenLM/Qwen) - Pretrained large language model proposed by Alibaba Cloud. `#free`
+*   [Qwen (⭐14k)](https://github.com/QwenLM/Qwen) - Pretrained large language model proposed by Alibaba Cloud. `#free`
 
 ### Spreadsheets
 
 *   [AI Excel Bot](https://aiexcelbot.com) - Write Excel and Google Sheets Formulas Faster With AI `#freemium`
 
-## [7. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/README.md)
-
-### **Section 10: General AI Tools and Extensions** / **OSS Alternatives for OpenAI Code Interpreter (aka. Advanced Data Analytics)**
-
-*   Content writing: <http://jasper.ai/chat> / [cite](https://twitter.com/slow_developer/status/1671530676045094915)
-
-## [8. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [6. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Design and Product / Other Tools
 
-*   [Aspect](https://aspect.bildhuus.com) - Photo organization application with support for peer-to-peer based synchronization across devices. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Aspect](https://aspect.bildhuus.com) - Photo organization app with peer-to-peer sync. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [9. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
+## [7. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 
 ### Strategy
 
@@ -105,15 +93,6 @@
 | Players | Min. Age | Time |
 | ------: | -------: | ---: |
 |       2 |        6 |  30m |
-### [Raiders of the North Sea](https://boardgamegeek.com/boardgame/170042/raiders-north-sea)
-
-> Raiders of the North Sea is set in the central years of the Viking Age. As Viking warriors, players seek to impress the Chieftain by raiding unsuspecting settlements. To do so, players need to assemble a crew, collect provisions, and journey north to plunder gold, iron and livestock. Glory can be found in battle, even at the hands of the Valkyrie, so gather your warriors because it's raiding season.
-
-![Raiders of the North Sea](https://github.com/kishanrajput23/awesome-board-games/assets/70385488/a5243a9a-90ca-4955-87ba-807679b2b68b)
-
-| Players | Min. Age | Time |
-| ------: | -------: | ---: |
-|   2 - 4 |       12 |  80m |
 
 ### Party
 
@@ -154,7 +133,7 @@
 | ------: | -------: | ------: |
 |   2 - 6 |      12+ | 90-120m |
 
-## [10. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [8. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### Critical Views about Generative AI
 
@@ -169,13 +148,13 @@
 *   [Prompt Engineering Guide | Learn Prompting: Your Guide to Communicating with AI](https://learnprompting.org/docs/intro)
 *   [Short Courses | Learn Generative AI from DeepLearning.AI](https://www.deeplearning.ai/short-courses/)
 
-## [11. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
+## [9. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
 
-### Form / Checkbox
+### Forms
 
 *   [Superforms](https://superforms.rocks) - SvelteKit library for handling server and client validation, and client-side display of forms.
 
-## [12. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [10. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Videos / Others
 
@@ -185,17 +164,17 @@
 
 *   [ASP.NET Core updates in .NET 8 Release Candidate 2](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-8-rc-2/) - October 10, 2023 - This is the last release candidate that we plan to share before the final .NET 8 release later this year. Most of the planned features and changes for .NET 8 are part of this release candidate and are ready for you to try out.
 
-## [13. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [11. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Deployment / Diagnostics
 
-*   [coffebar/transfer.nvim (⭐65)](https://github.com/coffebar/transfer.nvim) - Sync and diff with remote server using rsync and OpenSSH.
+*   [coffebar/transfer.nvim (⭐81)](https://github.com/coffebar/transfer.nvim) - Sync and diff with remote server using rsync and OpenSSH.
 
-## [14. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
+## [12. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
 ### Testing / Zabbix
 
-*   [pgTAP (⭐958)](https://github.com/theory/pgtap) - Unit Testing for PostgreSQL.
+*   [pgTAP (⭐1k)](https://github.com/theory/pgtap) - Unit Testing for PostgreSQL.
 
 ---
 

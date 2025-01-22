@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 29, 2017
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,8 +16,8 @@
 
 ### Web / Playground
 
-*   :octocat: [APIs-guru/graphql-voyager (⭐7.7k)](https://github.com/APIs-guru/graphql-voyager) - Represent any GraphQL API as an interactive graph 🛰️
-*   :octocat: [Rebilly/ReDoc (⭐23k)](https://github.com/Rebilly/Redoc) - OpenAPI/Swagger-generated API Reference Documentation
+*   :octocat: [APIs-guru/graphql-voyager (⭐7.8k)](https://github.com/APIs-guru/graphql-voyager) - Represent any GraphQL API as an interactive graph 🛰️
+*   :octocat: [Rebilly/ReDoc (⭐24k)](https://github.com/Rebilly/Redoc) - OpenAPI/Swagger-generated API Reference Documentation
 
 ## [3. Awesome Speaking](/content/matteofigus/awesome-speaking/README.md)
 
@@ -38,7 +38,7 @@
 *   Ruby
     *   [by @kanwei (⭐2.7k)](https://github.com/kanwei/algorithms)
     *   [by @sagivo (⭐3.3k)](https://github.com/sagivo/algorithms)
-    *   [by @kumar91gopi (⭐715)](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby)
+    *   [by @kumar91gopi (⭐719)](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby)
 
 ## [6. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/README.md)
 
@@ -100,12 +100,6 @@
 ### Libraries / [Gradle Tasks](https://marketplace.visualstudio.com/items?itemName=richardwillis.vscode-gradle)
 
 *   [vscode-test-content (⭐5)](https://github.com/mlewand-org/vscode-test-content) - A method to set/get editor content, and it's selection. Especially useful for unit tests.
-
-## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / Utilities
-
-*   [@skyrpex/props-to-local (⭐7)](https://github.com/skyrpex/props-to-local) - Vue mixin that maps props to local data.
 
 ---
 

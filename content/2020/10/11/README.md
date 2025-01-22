@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 11, 2020
 
-16 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -17,24 +17,24 @@
 ### Packages / Database
 
 *   ODM / ORM
-    *   [Sequelize (⭐29k)](https://github.com/sequelize/sequelize) - Multi-dialect ORM. Supports PostgreSQL, SQLite, MySQL, and more.
-    *   [Bookshelf (⭐6.3k)](https://github.com/bookshelf/bookshelf) - ORM for PostgreSQL, MySQL and SQLite3 in the style of Backbone.js.
+    *   [Sequelize (⭐30k)](https://github.com/sequelize/sequelize) - Multi-dialect ORM. Supports PostgreSQL, SQLite, MySQL, and more.
+    *   [Bookshelf (⭐6.4k)](https://github.com/bookshelf/bookshelf) - ORM for PostgreSQL, MySQL and SQLite3 in the style of Backbone.js.
     *   [Mongoose (⭐27k)](https://github.com/Automattic/mongoose) - Elegant MongoDB object modeling.
     *   [Waterline (⭐5.4k)](https://github.com/balderdashy/waterline) - Datastore-agnostic tool that dramatically simplifies interaction with one or more databases.
     *   [OpenRecord (⭐486)](https://github.com/PhilWaldmann/openrecord) - ORM for PostgreSQL, MySQL, SQLite3 and RESTful datastores. Similar to ActiveRecord.
-    *   [pg-promise (⭐3.4k)](https://github.com/vitaly-t/pg-promise) - PostgreSQL framework for native SQL using promises.
-    *   [slonik (⭐4.5k)](https://github.com/gajus/slonik) - PostgreSQL client with strict types, detailed logging and assertions.
-    *   [Objection.js (⭐7.2k)](https://github.com/Vincit/objection.js) - Lightweight ORM built on the SQL query builder Knex.
-    *   [TypeORM (⭐34k)](https://github.com/typeorm/typeorm) - ORM for PostgreSQL, MariaDB, MySQL, SQLite, and more.
-    *   [MikroORM (⭐7.5k)](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, PostgreSQL, MySQL and SQLite.
-    *   [Prisma (⭐38k)](https://github.com/prisma/prisma) - Modern database access (ORM alternative). Auto-generated and type-safe query builder in TypeScript. Supports PostgreSQL, MySQL & SQLite.
-    *   [Drizzle ORM (⭐22k)](https://github.com/drizzle-team/drizzle-orm) - TypeScript ORM that supports various databases such as PostgreSQL.
+    *   [pg-promise (⭐3.5k)](https://github.com/vitaly-t/pg-promise) - PostgreSQL framework for native SQL using promises.
+    *   [slonik (⭐4.6k)](https://github.com/gajus/slonik) - PostgreSQL client with strict types, detailed logging and assertions.
+    *   [Objection.js (⭐7.3k)](https://github.com/Vincit/objection.js) - Lightweight ORM built on the SQL query builder Knex.
+    *   [TypeORM (⭐35k)](https://github.com/typeorm/typeorm) - ORM for PostgreSQL, MariaDB, MySQL, SQLite, and more.
+    *   [MikroORM (⭐7.9k)](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, PostgreSQL, MySQL and SQLite.
+    *   [Prisma (⭐40k)](https://github.com/prisma/prisma) - Modern database access (ORM alternative). Auto-generated and type-safe query builder in TypeScript. Supports PostgreSQL, MySQL & SQLite.
+    *   [Drizzle ORM (⭐25k)](https://github.com/drizzle-team/drizzle-orm) - TypeScript ORM that supports various databases such as PostgreSQL.
 
 ## [3. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Storage / Runner
 
-*   [awesome-web-storage (⭐439)](https://github.com/softvar/awesome-web-storage) - Everything you need to know about client-side storage.
+*   [awesome-web-storage (⭐442)](https://github.com/softvar/awesome-web-storage) - Everything you need to know about client-side storage.
 
 ## [4. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
@@ -64,7 +64,7 @@
 
 ### Lists / Book/monograph Lists and Reviews
 
-*   [Posts (⭐5.7k)](https://github.com/qinwf/awesome-R/blob/master/misc/posts.md) - Great R blog posts or Rticles.
+*   [Posts (⭐6k)](https://github.com/qinwf/awesome-R/blob/master/misc/posts.md) - Great R blog posts or Rticles.
 
 ## [9. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
@@ -72,13 +72,7 @@
 
 *   [Postorius](https://docs.mailman3.org/projects/postorius/en/latest/) - Web user interface to access GNU Mailman. ([Source Code](https://gitlab.com/mailman/postorius/)) `GPL-3.0` `Python`
 
-## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
-
-### PaaS
-
-*   [m3o.com](https://m3o.com) - A cloud platform for API services development. M3O is a fully managed Micro as a Service offering focusing on Go microservices development in the Cloud. The free tier provides enough to run five services and collaborate with others.
-
-## [11. Public Apis](/content/public-apis/public-apis/README.md)
+## [10. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Anti-Malware
 
@@ -143,7 +137,7 @@
   CORS: Unknown
 
 
-- API: [Foodish (⭐80)](https://github.com/surhud004/Foodish#readme)
+- API: [Foodish (⭐92)](https://github.com/surhud004/Foodish#readme)
 
   Description: Random pictures of food dishes
 
@@ -180,7 +174,7 @@
 
 
 
-## [12. Awesome Silverstripe Cms](/content/wernerkrauss/awesome-silverstripe-cms/README.md)
+## [11. Awesome Silverstripe Cms](/content/wernerkrauss/awesome-silverstripe-cms/README.md)
 
 ### Site Search
 
@@ -189,7 +183,7 @@
 *   [Fulltext Search (⭐43)](https://github.com/silverstripe/silverstripe-fulltextsearch) - Full fledged search interface for Solr4 (EOL).
 *   [Fulltext Search Local Solr](https://addons.silverstripe.org/add-ons/silverstripe/fulltextsearch-localsolr) - Easy to install Solr4 (EOL) instance for local development.
 
-## [13. Awesome Veganism](/content/sdassow/awesome-veganism/README.md)
+## [12. Awesome Veganism](/content/sdassow/awesome-veganism/README.md)
 
 ### Books
 
@@ -236,7 +230,7 @@
 *   [Nederlandse Vereniging voor Veganisme](https://www.veganisme.org/) - Dutch association for veganism, running a magazine, giving yearly vegan awards, supporting the community, and various other projects.
 *   [Vegan Wiki](https://veganwiki.nl/) - Wiki from the Dutch association for veganism with a huge collection of products available in the Netherlands.
 
-## [14. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [13. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Scala / General-Purpose Machine Learning
 
@@ -248,20 +242,20 @@
 
 ### Python / Neural Networks
 
-*   [TResNet: Simple and powerful neural network library for python (⭐161)](https://github.com/zueve/neurolab) - Variety of supported types of Artificial Neural Network and learning algorithms.
+*   [TResNet: Simple and powerful neural network library for python (⭐163)](https://github.com/zueve/neurolab) - Variety of supported types of Artificial Neural Network and learning algorithms.
 
 ### Ruby / Natural Language Processing
 
 *   [Raspell](https://sourceforge.net/projects/raspell/) - raspell is an interface binding for ruby. **\[Deprecated]**
 
-## [15. Awesome Algorithms Education](/content/gaerae/awesome-algorithms-education/README.md)
+## [14. Awesome Algorithms Education](/content/gaerae/awesome-algorithms-education/README.md)
 
 ### Competitions / Advanced
 
 *   [Google Kick Start](https://codingcompetitions.withgoogle.com/kickstart) - University students looking to develop their coding skills and potentially pursue a Google career.
 *   [Google Hash Code](https://codingcompetitions.withgoogle.com/hashcode) - Students in Africa, Europe, and the Middle East looking to work as a team on real Google problems.
 
-## [16. Awesome Preact](/content/preactjs/awesome-preact/README.md)
+## [15. Awesome Preact](/content/preactjs/awesome-preact/README.md)
 
 ### Contents / Toolkits
 

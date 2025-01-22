@@ -28,7 +28,7 @@
 
 ### ASM / Boilerplates and libraries
 
-*   [gb-template (⭐2)](https://github.com/gb-archive/gb-template) - A template with basic functions such as joypad input, DMA transfers, and map/tile data loading.
+*   [gb-template (⭐4)](https://github.com/gb-archive/gb-template) - A template with basic functions such as joypad input, DMA transfers, and map/tile data loading.
 
 ### ASM / Syntax highlighting packages
 
@@ -38,7 +38,7 @@
 
 ### Contents / Social Network
 
-*   [Fedi (⭐134)](https://github.com/Big-Fig/Fediverse.app) - Open-source client for Pleroma and Mastodon social networks by [Big-Fig](https://github.com/Big-Fig)
+*   [Fedi (⭐139)](https://github.com/Big-Fig/Fediverse.app) - Open-source client for Pleroma and Mastodon social networks by [Big-Fig](https://github.com/Big-Fig)
 
 ## [5. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -50,25 +50,25 @@
 
 ### HTTP Servers / Clack plugins
 
-*   [clath (⭐38)](https://github.com/BnMcGn/clath) - a single sign-on
+*   [clath (⭐39)](https://github.com/BnMcGn/clath) - a single sign-on
     middleware for Clack. It allows basic login with OAuth1.0a, OAuth2
     and OpenID. At the time of writing, it supports authentication from
     Google, Twitter, LinkedIn, StackExchange, Reddit and Github. [Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0).
 
 ### Shells, shells interfaces / Third-party APIs
 
-*   [shcl (⭐315)](https://github.com/bradleyjensen/shcl) - a POSIX-like shell in Common Lisp. [Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0).
+*   [shcl (⭐327)](https://github.com/bradleyjensen/shcl) - a POSIX-like shell in Common Lisp. [Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0).
 
 ### Apps / Third-party APIs
 
-*   [Slite (⭐50)](https://github.com/tdrhq/slite/) - a SLIme-based TEst runner for FiveAM Tests. [Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0)
+*   [Slite (⭐52)](https://github.com/tdrhq/slite/) - a SLIme-based TEst runner for FiveAM Tests. [Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0)
     *   Slite interactively runs your Common Lisp tests (at the time of writing only FiveAM is supported). It allows you to see the summary of test failures, jump to test definitions, rerun tests with the debugger, all from inside Emacs.
 
 ## [7. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Map / Image Picker
 
-*   [Map (⭐128)](https://github.com/xclud/flutter_map) <!--stargazers:xclud/flutter_map--> - Fully-fledged interactive Map widget for flutter written in pure Dart. Supports all platforms. by [Mahdi K. Fard](https://github.com/xclud/)
+*   [Map (⭐131)](https://github.com/xclud/flutter_map) <!--stargazers:xclud/flutter_map--> - Fully-fledged interactive Map widget for flutter written in pure Dart. Supports all platforms. by [Mahdi K. Fard](https://github.com/xclud/)
 
 ## [8. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -130,7 +130,7 @@
 
 ### Providers / Vendor supported providers
 
-*   [terraform-provider-ucloud (⭐67)](https://github.com/ucloud/terraform-provider-ucloud) - Provider to manage UCloud resources.
+*   [terraform-provider-ucloud (⭐69)](https://github.com/ucloud/terraform-provider-ucloud) - Provider to manage UCloud resources.
 
 ---
 

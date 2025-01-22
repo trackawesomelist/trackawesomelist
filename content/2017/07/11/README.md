@@ -28,7 +28,7 @@
 
 ## [4. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
 
-### Free Content
+### Free Content / Commerical Tools
 
 *   [Stanford CS229 - Machine Learning](https://see.stanford.edu/Course/CS229) - This course provides a broad introduction to machine learning and statistical pattern recognition.
 

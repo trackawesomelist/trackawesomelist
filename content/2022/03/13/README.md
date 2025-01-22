@@ -16,7 +16,7 @@
 
 ### Algorithms and data structures
 
-*   [ziglibs/s2s (⭐117)](https://github.com/ziglibs/s2s) - Binary serialization format and library.
+*   [ziglibs/s2s (⭐132)](https://github.com/ziglibs/s2s) - Binary serialization format and library.
 
 ### Network / HTTP
 
@@ -24,13 +24,13 @@
 
 ### Web / Messaging
 
-*   [batiati/mustache-zig (⭐101)](https://github.com/batiati/mustache-zig) - Mustache implementation.
+*   [batiati/mustache-zig (⭐126)](https://github.com/batiati/mustache-zig) - Mustache implementation.
 
 ## [3. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Oh-My-Zsh
 
-*   [One Key Linux Setup (⭐18)](https://github.com/miracleyoo/one-key-linux-setup) - Simple setup (ubuntu-only) of `zsh`, `oh-my-zsh`, `tmux`, `python` support and other packages.
+*   [One Key Linux Setup (⭐19)](https://github.com/miracleyoo/one-key-linux-setup) - Simple setup (ubuntu-only) of `zsh`, `oh-my-zsh`, `tmux`, `python` support and other packages.
 
 ## [4. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/README.md)
 
@@ -38,16 +38,15 @@
 
 *   [Robert Robere. Proof Complexity: Algorithms and Lower Bounds](https://www.cs.mcgill.ca/~robere/comp598/index.html) - An introduction to modern proof complexity, emphasizing its connections with computational complexity and algorithms in optimization.
 
-### Transition To Pure Rigour Math / Monograph
+### Papers / Lecture Videos Playlist
 
 *   [Building Bridges I](https://rd.springer.com/book/10.1007/978-3-540-85221-6), [Building Bridges II](https://link.springer.com/book/10.1007/978-3-662-59204-5), [Fete of Combinatorics and Computer Science](https://link.springer.com/book/10.1007/978-3-642-13580-4) - Collected works in celebration of Laszlo Lovasz, Connecting discrete math with computer science.
-*   [Entropy, Search, Complexity](https://link.springer.com/book/10.1007/978-3-540-32777-6) - A collection of survey papers in the fields of entropy, search and complexity. It includes also search theory and quantum source coding. Recommended to both researchers and students.
 
 ## [5. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/README.md)
 
 ### AppImage developer tools / Deployment tools for Electron applications
 
-*   [electron-forge-maker-appimage (⭐4)](https://github.com/saleae/electron-forge-maker-appimage) - Electron Forge builder for AppImage.
+*   [electron-forge-maker-appimage (⭐8)](https://github.com/saleae/electron-forge-maker-appimage) - Electron Forge builder for AppImage.
 
 ## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -70,49 +69,49 @@
 ### Games / Apache License
 
 *   [pasta](http://pasta.phyrama.com/) - Pasta! is a game of the "match-3" genre, implemented in [gnoga](https://sourceforge.net/projects/gnoga/).
-*   [buttons (⭐4)](https://github.com/andreacervetti/buttons) - A simple [gtkada (⭐87)](https://github.com/AdaCore/gtkada) Button Mania game.
-*   [play-2048 (⭐4)](https://github.com/mgrojo/play_2048) - Play 2048! is a clone of the popular 2048 game, implemented in Ada using [asfml (⭐32)](https://github.com/mgrojo/ASFML) for graphics and [ada-toml (⭐30)](https://github.com/pmderodat/ada-toml) for saving state.
-*   [bingada (⭐8)](https://github.com/jfuica/bingada) - Bingo application in [gtkada (⭐87)](https://github.com/AdaCore/gtkada).
+*   [buttons (⭐4)](https://github.com/andreacervetti/buttons) - A simple [gtkada (⭐91)](https://github.com/AdaCore/gtkada) Button Mania game.
+*   [play-2048 (⭐4)](https://github.com/mgrojo/play_2048) - Play 2048! is a clone of the popular 2048 game, implemented in Ada using [asfml (⭐34)](https://github.com/mgrojo/ASFML) for graphics and [ada-toml (⭐32)](https://github.com/pmderodat/ada-toml) for saving state.
+*   [bingada (⭐8)](https://github.com/jfuica/bingada) - Bingo application in [gtkada (⭐91)](https://github.com/AdaCore/gtkada).
 
 ### Components / Apache License
 
-*   [gneiss (⭐22)](https://github.com/Componolit/gneiss) - Gneiss is an interface collection to be used with applications for component based systems. It aims to be easily portable/platform independent and is compatible with the [ada-runtime (⭐33)](https://github.com/Componolit/ada-runtime).
+*   [gneiss (⭐23)](https://github.com/Componolit/gneiss) - Gneiss is an interface collection to be used with applications for component based systems. It aims to be easily portable/platform independent and is compatible with the [ada-runtime (⭐33)](https://github.com/Componolit/ada-runtime).
 
 ### Graphical User Interface / Apache License
 
 *   [gnoga](https://sourceforge.net/projects/gnoga/) - The GNU Omnificent GUI for Ada.
-*   [gtkada (⭐87)](https://github.com/AdaCore/gtkada) - Ada graphical toolkit based on Gtk3 components.
+*   [gtkada (⭐91)](https://github.com/AdaCore/gtkada) - Ada graphical toolkit based on Gtk3 components.
 
 ### Compression / Apache License
 
-*   [zip-ada (⭐22)](https://github.com/zertovitch/zip-ada) - Zip-Ada is a programming library for dealing with the Zip compressed archive file format.
-*   [dcf-ada (⭐6)](https://github.com/onox/dcf-ada) - An Ada 2012 library for document container files (Based on [zip-ada (⭐22)](https://github.com/zertovitch/zip-ada)).
+*   [zip-ada (⭐26)](https://github.com/zertovitch/zip-ada) - Zip-Ada is a programming library for dealing with the Zip compressed archive file format.
+*   [dcf-ada (⭐6)](https://github.com/onox/dcf-ada) - An Ada 2012 library for document container files (Based on [zip-ada (⭐26)](https://github.com/zertovitch/zip-ada)).
 
 ### Format Readers, Writers and Checkers / Apache License
 
-*   [protobuf-ada (⭐17)](https://github.com/persan/protobuf-ada) - Experimental Ada code generation support for Google Protocol Buffers.
-*   [protobuf (⭐30)](https://github.com/reznikmm/protobuf) - A Google Protocol Buffers implementation in Ada, using [matreshka (⭐6)](https://github.com/godunko/matreshka).
-*   [ada-toml (⭐30)](https://github.com/pmderodat/ada-toml) - TOML parser for Ada.
+*   [protobuf-ada (⭐18)](https://github.com/persan/protobuf-ada) - Experimental Ada code generation support for Google Protocol Buffers.
+*   [protobuf (⭐33)](https://github.com/reznikmm/protobuf) - A Google Protocol Buffers implementation in Ada, using [matreshka (⭐7)](https://github.com/godunko/matreshka).
+*   [ada-toml (⭐32)](https://github.com/pmderodat/ada-toml) - TOML parser for Ada.
 
 ### Web / Apache License
 
-*   [template-parser (⭐6)](https://github.com/AdaCore/templates-parser) - AWS templates engine.
+*   [template-parser (⭐7)](https://github.com/AdaCore/templates-parser) - AWS templates engine.
 
 ### Graphics and Multimedia / Apache License
 
-*   [asfml (⭐32)](https://github.com/mgrojo/ASFML) - Ada binding to the Simple and Fast Multimedia Library.
+*   [asfml (⭐34)](https://github.com/mgrojo/ASFML) - Ada binding to the Simple and Fast Multimedia Library.
 
 ### Utilities / Apache License
 
-*   [ssprep](https://github.com/persan/ssprep.git) - An extensible template engine akin to jinja but using [template-parser (⭐6)](https://github.com/AdaCore/templates-parser) and intended for command line usage.
+*   [ssprep](https://github.com/persan/ssprep.git) - An extensible template engine akin to jinja but using [template-parser (⭐7)](https://github.com/AdaCore/templates-parser) and intended for command line usage.
 
 ### Office / Apache License
 
-*   [hunter (⭐21)](https://github.com/thindil/hunter) - Graphical ([gtkada (⭐87)](https://github.com/AdaCore/gtkada)) file manager for Linux.
+*   [hunter (⭐21)](https://github.com/thindil/hunter) - Graphical ([gtkada (⭐91)](https://github.com/AdaCore/gtkada)) file manager for Linux.
 
 ### Simulation / Apache License
 
-*   [eagle-lander (⭐31)](https://github.com/Fabien-Chouteau/eagle-lander) - Apollo 11 lunar lander simulator ([gtkada (⭐87)](https://github.com/AdaCore/gtkada)/Cairo).
+*   [eagle-lander (⭐31)](https://github.com/Fabien-Chouteau/eagle-lander) - Apollo 11 lunar lander simulator ([gtkada (⭐91)](https://github.com/AdaCore/gtkada)/Cairo).
 
 ## [9. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/README.md)
 

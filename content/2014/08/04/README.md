@@ -22,7 +22,7 @@
 
 ### Queue
 
-*   [Hangfire (⭐9.3k)](https://github.com/HangfireIO/Hangfire) - Incredibly easy way to perform fire-and-forget, delayed and recurring tasks inside ASP.NET applications
+*   [Hangfire (⭐9.5k)](https://github.com/HangfireIO/Hangfire) - Incredibly easy way to perform fire-and-forget, delayed and recurring tasks inside ASP.NET applications
 
 ## [4. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
 
@@ -88,7 +88,7 @@
 
 ### Game Frameworks / XML
 
-*   [DGame (⭐84)](https://github.com/Dgame/Dgame) - A 2D framework for the D programming Language. see <http://dgame-dev.de/>.
+*   [DGame (⭐85)](https://github.com/Dgame/Dgame) - A 2D framework for the D programming Language. see <http://dgame-dev.de/>.
 
 ### Games / XML
 
@@ -105,7 +105,7 @@
 ### Range Sliders / Runner
 
 *   [Ion.RangeSlider (⭐2.5k)](https://github.com/IonDen/ion.rangeSlider) - Powerful and easily customizable range slider with many options and skin support.
-*   [noUiSlider (⭐5.6k)](https://github.com/leongersen/noUiSlider) - A lightweight, highly customizable range slider without bloat.
+*   [noUiSlider (⭐5.7k)](https://github.com/leongersen/noUiSlider) - A lightweight, highly customizable range slider without bloat.
 
 ---
 

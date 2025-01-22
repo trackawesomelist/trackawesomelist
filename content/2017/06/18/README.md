@@ -41,8 +41,8 @@
 
 ### Game Disassemblies / Syntax highlighting packages
 
-*   [Pokémon Pinball (⭐147)](https://github.com/pret/pokepinball)
-*   [Pokémon TCG (⭐243)](https://github.com/pret/poketcg)
+*   [Pokémon Pinball (⭐158)](https://github.com/pret/pokepinball)
+*   [Pokémon TCG (⭐265)](https://github.com/pret/poketcg)
 
 ## [4. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 
@@ -54,7 +54,7 @@
 
 ### Libraries / Authentication
 
-*   [Keats/jsonwebtoken (⭐1.6k)](https://github.com/Keats/jsonwebtoken) - [JSON Web Token](https://en.wikipedia.org/wiki/JSON_Web_Token) library
+*   [Keats/jsonwebtoken (⭐1.8k)](https://github.com/Keats/jsonwebtoken) - [JSON Web Token](https://en.wikipedia.org/wiki/JSON_Web_Token) library
 
 ### Libraries / Logging
 
@@ -62,7 +62,7 @@
 
 ### Resources / Web programming
 
-*   [Rust Design Patterns (⭐7.9k)](https://github.com/rust-unofficial/patterns) - A catalogue of Rust design patterns, anti-patterns and idioms
+*   [Rust Design Patterns (⭐8.2k)](https://github.com/rust-unofficial/patterns) - A catalogue of Rust design patterns, anti-patterns and idioms
 
 ## [6. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 

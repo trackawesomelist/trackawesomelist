@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 28 - Sep 03, 2023
 
-40 awesome lists updated this week.
+39 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -38,7 +38,7 @@
 
 ### Strategy
 
-*   [KeeperFX (⭐707)](https://github.com/dkfans/keeperfx) - Open source remake and Fan Expansion of Dungeon Keeper.
+*   [KeeperFX (⭐765)](https://github.com/dkfans/keeperfx) - Open source remake and Fan Expansion of Dungeon Keeper.
 *   [Ozymandias (⭐0)](https://github.com/dalerank/Ozymandias) - An open source re-implementation of Pharaoh in the Julius/Augustus engine.
 
 ## [4. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
@@ -68,39 +68,27 @@
 
 ### Optimization
 
-*   [SmallStrings (⭐119)](https://github.com/EmergeTools/SmallStrings) - Reduce localized .strings file sizes by 80%.
+*   [SmallStrings (⭐131)](https://github.com/EmergeTools/SmallStrings) - Reduce localized .strings file sizes by 80%.
 
 ### Other Testing
 
-*   [ETTrace (⭐526)](https://github.com/EmergeTools/ETTrace) - Locally measure performance of your app, without Xcode or Instruments.
+*   [ETTrace (⭐581)](https://github.com/EmergeTools/ETTrace) - Locally measure performance of your app, without Xcode or Instruments.
 
 ### Alert & Action Sheet
 
-*   [LCActionSheet (⭐821)](https://github.com/iTofu/LCActionSheet) - A simple ActionSheet. WeChat, Weibo and QQ all use similar styles. Fully support Swift.
+*   [LCActionSheet (⭐822)](https://github.com/iTofu/LCActionSheet) - A simple ActionSheet. WeChat, Weibo and QQ all use similar styles. Fully support Swift.
 
 ## [7. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
-### Projects Using Vue.js / Open Source
-
-*   [starfish-vue3-lowcode (⭐1)](https://github.com/haixin-fang/starfish-vue3-lowcode) - Vue3 visual lowcode form designer, convenient and quick to complete all kinds of form design!
-
-### Components & Libraries / UI Components
-
-*   [vue-mrz-scanner (⭐1)](https://github.com/tony-xlh/vue-mrz-scanner) - A Vue component to scan MRZ on passports, visa cards, etc. It is based on Dynamsoft Label Recognizer.
-
-### Components & Libraries / Utilities
-
-*   [vuex-composition (⭐6)](https://github.com/echo008/vuex-composition) - A util package to use Vuex with Composition API and Reactivity API easily.
-
 ### Components & Libraries / Integrations
 
-*   [vue-tg (⭐143)](https://github.com/deptyped/vue-telegram) - Telegram Web Apps integration for Vue 3.
+*   [vue-tg (⭐212)](https://github.com/deptyped/vue-telegram) - Telegram Web Apps integration for Vue 3.
 
 ## [8. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
 
 ### Terminal / CLI tools
 
-*   [decompose (⭐80)](https://github.com/s0rg/decompose) - Reverse-engineering tool for docker environments. By [@s0rg](https://github.com/s0rg)
+*   [decompose (⭐86)](https://github.com/s0rg/decompose) - Reverse-engineering tool for docker environments. By [@s0rg](https://github.com/s0rg)
 
 ## [9. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
 
@@ -136,11 +124,11 @@
 
 ### Crates / Javascript Library Ports
 
-*   [popper-rs (⭐4)](https://github.com/ctron/popper-rs/) - [Popper JS](https://popper.js.org/) bindings for Rust.
+*   [popper-rs (⭐5)](https://github.com/ctron/popper-rs/) - [Popper JS](https://popper.js.org/) bindings for Rust.
 
 ### Crates / Utils
 
-*   [browser-panic-hook (⭐6)](https://github.com/ctron/browser-panic-hook) - A panic handler for browser environments, allowing to fail in an end-user friendly way.
+*   [browser-panic-hook (⭐7)](https://github.com/ctron/browser-panic-hook) - A panic handler for browser environments, allowing to fail in an end-user friendly way.
 
 ## [13. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
@@ -150,7 +138,7 @@
 
 ### Libraries/Packages/Scripts / Rust
 
-*   [Polars CLI (⭐143)](https://github.com/pola-rs/polars-cli) `Polars CLI` is a command line interface for running SQL queries with Polars as backend.
+*   [Polars CLI (⭐171)](https://github.com/pola-rs/polars-cli) `Polars CLI` is a command line interface for running SQL queries with Polars as backend.
 
 ### Resources / Tutorials & workshops
 
@@ -171,53 +159,52 @@
 
 ### Self-Hosted Registries / Miscellaneous
 
-*   [nrkno/terraform-registry (⭐88)](https://github.com/nrkno/terraform-registry) - A private Terraform registry with modular store backends.
-*   [petra (⭐41)](https://github.com/devoteamgcloud/petra) - Private Terraform Registry Manager
-*   [philips-labs/terraform-registry (⭐87)](https://github.com/philips-labs/terraform-registry) - Terraform registry to serve arbitrary Terraform provider releases hosted on Github
+*   [nrkno/terraform-registry (⭐93)](https://github.com/nrkno/terraform-registry) - A private Terraform registry with modular store backends.
+*   [petra (⭐43)](https://github.com/devoteamgcloud/petra) - Private Terraform Registry Manager
+*   [philips-labs/terraform-registry (⭐90)](https://github.com/philips-labs/terraform-registry) - Terraform registry to serve arbitrary Terraform provider releases hosted on Github
 
 ### Providers / Community providers
 
-*   [terraform-provider-docker (⭐590)](https://github.com/kreuzwerker/terraform-provider-docker) - Terraform Docker provider.
+*   [terraform-provider-docker (⭐641)](https://github.com/kreuzwerker/terraform-provider-docker) - Terraform Docker provider.
 *   [terraform-provider-value (⭐15)](https://github.com/pseudo-dynamic/terraform-provider-value) - Value Provider for Terraform.
 
 ### Tools / Community providers
 
 *   [balcony](https://oguzhan-yilmaz.github.io/balcony/) - CLI tool for easy AWS API reads. Also generates Terraform import-blocks, and actual Terraform Resource code.
 *   [burrito](https://padok-team.github.io/burrito/) - Burrito is a TACoS (Terraform Automation Collaboration Software) Kubernetes Operator.
-*   [cfnctl (⭐130)](https://github.com/rogerwelin/cfnctl) - Cfnctl brings the Terraform cli experience to AWS Cloudformation.
-*   [coretech/terrafile (⭐141)](https://github.com/coretech/terrafile) - Systematically manage external modules from Github for use in Terraform (written in Go). :skull:
+*   [cfnctl (⭐131)](https://github.com/rogerwelin/cfnctl) - Cfnctl brings the Terraform cli experience to AWS Cloudformation.
+*   [coretech/terrafile (⭐142)](https://github.com/coretech/terrafile) - Systematically manage external modules from Github for use in Terraform (written in Go). :skull:
 *   [dxw/terrafile (⭐2)](https://github.com/dxw/terrafile) - Systematically manage external modules from Github for use in Terraform (written in Ruby).
-*   [hatchet](https://docs.hatchet.run/) - An all-in-one Terraform management tool.
-*   [pytest-terraform (⭐53)](https://github.com/cloud-custodian/pytest-terraform) - pytest terraform plugin with fixtures and offline replay support.
-*   [renovate-config (⭐43)](https://github.com/SpotOnInc/renovate-config) - Sharable Config Presets for Renovatebot, especially useful for DevOps folks.
-*   [stacks (⭐148)](https://github.com/cisco-open/stacks) - Stacks, the Terraform code pre-processor
+*   [pytest-terraform (⭐56)](https://github.com/cloud-custodian/pytest-terraform) - pytest terraform plugin with fixtures and offline replay support.
+*   [renovate-config (⭐47)](https://github.com/SpotOnInc/renovate-config) - Sharable Config Presets for Renovatebot, especially useful for DevOps folks.
+*   [stacks (⭐161)](https://github.com/cisco-open/stacks) - Stacks, the Terraform code pre-processor
 *   [terracove](https://elementtech.github.io/terracove/) - Recursively test a directory tree for Terraform diffs and coverage.
-*   [terraeasy (⭐33)](https://github.com/jaceq/terraeasy) - Easy Terraform wrapper
-*   [terraform-cleaner (⭐163)](https://github.com/sylwit/terraform-cleaner) - Tiny utility which detects unused variables in your terraform modules.
+*   [terraeasy (⭐34)](https://github.com/jaceq/terraeasy) - Easy Terraform wrapper
+*   [terraform-cleaner (⭐168)](https://github.com/sylwit/terraform-cleaner) - Tiny utility which detects unused variables in your terraform modules.
 *   [terramagic (⭐46)](https://github.com/miltlima/terramagic) - Wizard tool for create folders and terraform files automated, written in Python !
-*   [terrap-cli (⭐65)](https://github.com/sirrend/terrap-cli) - Terrap - a powerful CLI tool that scans your infrastructure and identifies any required changes.
-*   [terrars (⭐90)](https://github.com/andrewbaxter/terrars) - Terrars is a tool for building Terraform stacks in Rust. This is an alternative to the CDK.
+*   [terrap-cli (⭐67)](https://github.com/sirrend/terrap-cli) - Terrap - a powerful CLI tool that scans your infrastructure and identifies any required changes.
+*   [terrars (⭐100)](https://github.com/andrewbaxter/terrars) - Terrars is a tool for building Terraform stacks in Rust. This is an alternative to the CDK.
 *   [terrascope (⭐29)](https://github.com/spilliams/terrascope) - Build orchestrator for terraform monorepos.
 *   [terrashine](https://isawan.github.io/terrashine/) - Terrashine is a terraform provider mirror1 implementation that works by automatically caching dependencies as providers are requested.
-*   [tfgen (⭐81)](https://github.com/refl3ction/tfgen) - Terraform code generator for consistent codebase and DRY.
+*   [tfgen (⭐83)](https://github.com/refl3ction/tfgen) - Terraform code generator for consistent codebase and DRY.
 *   [tfrepl (⭐30)](https://github.com/ysoftwareab/tfrepl) - A Terraform REPL, giving you a full shell experience. Readline based. No dependencies. Save config changes. History.
-*   [tfsort (⭐131)](https://github.com/AlexNabokikh/tfsort) - CLI utility to sort Terraform variables and outputs.
-*   [travelgrunt (⭐67)](https://github.com/ivanilves/travelgrunt) - cd inside \[mono]repos without fatigue!
+*   [tfsort (⭐145)](https://github.com/AlexNabokikh/tfsort) - CLI utility to sort Terraform variables and outputs.
+*   [travelgrunt (⭐68)](https://github.com/ivanilves/travelgrunt) - cd inside \[mono]repos without fatigue!
 
 ### Tools / CI
 
-*   [setup-terraform (⭐1.3k)](https://github.com/hashicorp/setup-terraform) - Sets up Terraform CLI in your GitHub Actions workflow.
-*   [terraform-plan (⭐59)](https://github.com/cds-snc/terraform-plan) - GitHub Action to run Terraform plan and add a comment with the changes.
+*   [setup-terraform (⭐1.4k)](https://github.com/hashicorp/setup-terraform) - Sets up Terraform CLI in your GitHub Actions workflow.
+*   [terraform-plan (⭐61)](https://github.com/cds-snc/terraform-plan) - GitHub Action to run Terraform plan and add a comment with the changes.
 
 ### Tools / IDE
 
-*   [vscode-terraform-live-graph (⭐233)](https://github.com/adamiBs/vscode-terraform-live-graph) - Terraform Live Graph Extension for Visual Studio Code is a plugin that allows you to generate a live Terraform graph as you code.
+*   [vscode-terraform-live-graph (⭐238)](https://github.com/adamiBs/vscode-terraform-live-graph) - Terraform Live Graph Extension for Visual Studio Code is a plugin that allows you to generate a live Terraform graph as you code.
 
 ## [16. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### C, C++
 
-*   NEW [endatabas (⭐267)](https://github.com/endatabas/endb) - Schemaless SQL document database with full history. [AGPL-3.0](https://directory.fsf.org/wiki/License:Apache2.0).
+*   [endatabas (⭐278)](https://github.com/endatabas/endb) - Schemaless SQL document database with full history. [AGPL-3.0](https://directory.fsf.org/wiki/License:Apache2.0).
     *   built in Common Lisp and Rust.
     *   in development, alpha product scheduled for Q2 of 2024. [roadmap](https://docs.endatabas.com/appendix/roadmap.html).
 
@@ -226,18 +213,14 @@
 ### Tools & Software / Utilities
 
 *   [httpreserve.info](https://httpreserve.info/) - Service to return the status of a web page or save it to the Internet Archive. HTTPreserve includes disambiguation of well-known short link services. It returns JSON via the browser or command line via CURL using GET. Describes web sites using earliest and latest dates in the Internet Archive and demonstrates the construction of Robust Links in its output using that range. (Golang). *(Stable)*
-*   [HTTPreserve linkstat (⭐7)](https://github.com/httpreserve/linkstat) - Command line implementation of [httpreserve.info](https://httpreserve.info) to describe the status of a web page. Can be easily scripted and provides JSON output to enable querying through tools like JQ. HTTPreserve Linkstat describes current status, and earliest and latest links on [archive.org](https://archive.org/). (Golang). *(Stable)*
+*   [HTTPreserve linkstat (⭐10)](https://github.com/httpreserve/linkstat) - Command line implementation of [httpreserve.info](https://httpreserve.info) to describe the status of a web page. Can be easily scripted and provides JSON output to enable querying through tools like JQ. HTTPreserve Linkstat describes current status, and earliest and latest links on [archive.org](https://archive.org/). (Golang). *(Stable)*
 
 ## [18. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/week/README.md)
 
 ### Connectivity Maps
 
-*   [Global CDN Infrastructure Map](https://opentelecomdata.org/cdns/) - Steve Song's open data map of Content Distribution Networks around the world.
+*   [Global CDN Infrastructure Map](https://opentelecomdata.org/cdns/) - Steve Song's open data map of Content Distribution Networks around the world (May 2024).
 *   [Telegeography Cloud Infrastructure Map](https://www.cloudinfrastructuremap.com/) - Map of cloud infastructure providers around the world.
-
-### Periodic Global Connectivity Reports
-
-*   Mobile Gender Gap Report from GSMA - ([2023](https://www.gsma.com/r/wp-content/uploads/2023/07/The-Mobile-Gender-Gap-Report-2023.pdf)) ([2022](https://www.gsma.com/r/wp-content/uploads/2022/06/The-Mobile-Gender-Gap-Report-2022.pdf)) ([2021](https://www.gsma.com/r/wp-content/uploads/2021/07/The-Mobile-Gender-Gap-Report-2021.pdf)) ([2020](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2020/02/GSMA-The-Mobile-Gender-Gap-Report-2020.pdf)) ([2019](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2019/03/GSMA-Connected-Women-The-Mobile-Gender-Gap-Report-2019.pdf)) ([2018](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2018/04/GSMA_The_Mobile_Gender_Gap_Report_2018_32pp_WEBv7.pdf))
 
 ### Regional Connectivity Reports and Data
 
@@ -252,7 +235,7 @@
 
 ### Photoshop / Illustrator
 
-*   [Excalidraw (⭐80k)](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams.
+*   [Excalidraw (⭐90k)](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams.
 
 ## [20. Awesome Design Systems](/content/alexpate/awesome-design-systems/week/README.md)
 
@@ -264,7 +247,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐88)](https://github.com/buildo/bento-design-system)
+  Source code \*: [:octocat: (⭐120)](https://github.com/buildo/bento-design-system)
 
 
 - : [Buzzvil Design System](https://design.buzzvil.com/)
@@ -286,7 +269,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐7k)](https://github.com/themesberg/flowbite)
+  Source code \*: [:octocat: (⭐8.1k)](https://github.com/themesberg/flowbite)
 
 
 - : [GoodBarber Design System](https://www.goodbarber.com/uxdesign/)
@@ -308,7 +291,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐419)](https://github.com/hashicorp/design-system)
+  Source code \*: [:octocat: (⭐449)](https://github.com/hashicorp/design-system)
 
 
 - : [Jobber](https://atlantis.getjobber.com) (🔱 Atlantis)
@@ -319,7 +302,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐24)](https://github.com/GetJobber/atlantis)
+  Source code \*: [:octocat: (⭐28)](https://github.com/GetJobber/atlantis)
 
 
 - : [JotaDS](https://jota.meiuca.co/)
@@ -363,7 +346,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐40)](https://github.com/privy-open-source/design-system)
+  Source code \*: [:octocat: (⭐58)](https://github.com/privy-open-source/design-system)
 
 
 - : [Reach UI](https://reach.tech/)
@@ -374,7 +357,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐5.9k)](https://github.com/reach/reach-ui)
+  Source code \*: [:octocat: (⭐6k)](https://github.com/reach/reach-ui)
 
 
 - : [Wix Style React](https://www.wix-style-react.com/storybook/)
@@ -391,92 +374,81 @@
 
 
 
-## [21. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/week/README.md)
-
-### **LangChain Agent & Memory** / **Criticism to LangChain**
-
-*   LangChain Is Pointless: [ref](https://news.ycombinator.com/item?id=36645575) \[Jul 2023]
-    > LangChain has been criticized for making simple things relatively complex, which creates unnecessary complexity and tribalism that hurts the up-and-coming AI ecosystem as a whole. The documentation is also criticized for being bad and unhelpful.
-
-### **Trustworthy, Safe and Secure LLM** / **GPT series release date**
-
-*   [Political biases of LLMs](https://arxiv.org/abs/2305.08283): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2305.08283)]: From Pretraining Data to Language Models to Downstream Tasks: Tracking the Trails of Political Biases Leading to Unfair NLP Models. \[15 May 2023] <br/> <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/political-llm.png" width="450">
-
-## [22. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/week/README.md)
+## [21. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/week/README.md)
 
 ### Text / Developer tools
 
 *   [Prediction Guard](https://www.predictionguard.com/) - Seamlessly integrate private, controlled, and compliant Large Language Models (LLM) functionality.
 
-## [23. Awesome V](/content/vlang/awesome-v/week/README.md)
+## [22. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Interpreters/Compilers
 
-*   [cotowali (⭐606)](https://github.com/cotowali/cotowali) - A statically typed scripting language that transpiles into POSIX sh.
+*   [cotowali (⭐613)](https://github.com/cotowali/cotowali) - A statically typed scripting language that transpiles into POSIX sh.
 
 ### Utilities
 
-*   [emoji-mart-desktop (⭐15)](https://github.com/ttytm/emoji-mart-desktop) - An emoji picker created with V, webview and SvelteKit.
+*   [emoji-mart-desktop (⭐21)](https://github.com/ttytm/emoji-mart-desktop) - An emoji picker created with V, webview and SvelteKit.
 
 ### User Interface toolkits
 
-*   [V-WebUI (⭐108)](https://github.com/webui-dev/v-webui) - A wrapper for WebUI. A lightweight library that allows you to use any web browser as a GUI, with V in the backend and HTML5 in the frontend.
-*   [webview (⭐54)](https://github.com/ttytm/webview) - Bindings for webview. A tiny library to build modern cross-platform GUI applications. It allows to combine V with modern web technologies to design a graphical user interface.
+*   [V-WebUI (⭐115)](https://github.com/webui-dev/v-webui) - A wrapper for WebUI. A lightweight library that allows you to use any web browser as a GUI, with V in the backend and HTML5 in the frontend.
+*   [webview (⭐69)](https://github.com/ttytm/webview) - Bindings for webview. A tiny library to build modern cross-platform GUI applications. It allows to combine V with modern web technologies to design a graphical user interface.
 
 ### Web
 
-*   [west (⭐9)](https://github.com/Dracks/West) - A wrapper of vweb to work in a similar way as nestjs works with modules and dependency injection.
+*   [west (⭐10)](https://github.com/Dracks/West) - A wrapper of vweb to work in a similar way as nestjs works with modules and dependency injection.
 
 ### Online IDEs with V / Vim
 
 *   [VOSCA V Playground](https://play.vosca.dev)
 
-## [24. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
+## [23. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
 
 ### Tools
 
-*   [DDEV (⭐2.5k)](https://github.com/ddev/ddev) - A open source tool for launching local web development environments in minutes. It supports PHP, Node.js, and Python.
-*   [Magento 2 Url Data Integrity Checker (⭐254)](https://github.com/baldwin-agency/magento2-module-url-data-integrity-checker) - Magento 2 module which can find potential url related problems in your catalog data
+*   [DDEV (⭐2.9k)](https://github.com/ddev/ddev) - A open source tool for launching local web development environments in minutes. It supports PHP, Node.js, and Python.
+*   [Magento 2 Url Data Integrity Checker (⭐264)](https://github.com/baldwin-agency/magento2-module-url-data-integrity-checker) - Magento 2 module which can find potential url related problems in your catalog data
 
-## [25. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [24. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Communication - Video Conferencing
 
-*   [Janus](https://janus.conf.meetecho.com/) - General-purpose, lightweight, minimalist WebRTC Server. ([Demo](https://janus.conf.meetecho.com/demos/), [Source Code (⭐8.1k)](https://github.com/meetecho/janus-gateway)) `GPL-3.0` `C`
+*   [Janus](https://janus.conf.meetecho.com/) - General-purpose, lightweight, minimalist WebRTC Server. ([Demo](https://janus.conf.meetecho.com/demos/), [Source Code (⭐8.4k)](https://github.com/meetecho/janus-gateway)) `GPL-3.0` `C`
 
 ### Software / Feed Readers
 
-*   [RSSHub](https://docs.rsshub.app) - An easy to use, and extensible RSS feed aggregator, it's capable of generating RSS feeds from pretty much everything ranging from social media to university departments. ([Demo](https://rsshub.app), [Source Code (⭐32k)](https://github.com/DIYgod/RSSHub)) `MIT` `Nodejs/Docker`
+*   [RSSHub](https://docs.rsshub.app) - An easy to use, and extensible RSS feed aggregator, it's capable of generating RSS feeds from pretty much everything ranging from social media to university departments. ([Demo](https://rsshub.app), [Source Code (⭐35k)](https://github.com/DIYgod/RSSHub)) `MIT` `Nodejs/Docker`
 
 ### Software / Miscellaneous
 
-*   [Cerbos](https://cerbos.dev) - A self-hosted, open source user authorization layer for your applications. ([Demo](https://play.cerbos.dev), [Source Code (⭐2.9k)](https://github.com/cerbos/cerbos)) `Apache-2.0` `Go/deb/Docker/K8S`
-*   [Watcharr (⭐375)](https://github.com/sbondCo/Watcharr) - A free and open source content watch list. Add and track all the shows and movies you are watching. Comes with user authentication, modern and clean UI and a very simple setup. ([Demo](https://beta.watcharr.app/)) `MIT` `Docker`
+*   [Cerbos](https://cerbos.dev) - A self-hosted, open source user authorization layer for your applications. ([Demo](https://play.cerbos.dev), [Source Code (⭐3.6k)](https://github.com/cerbos/cerbos)) `Apache-2.0` `Go/deb/Docker/K8S`
+*   [Watcharr (⭐584)](https://github.com/sbondCo/Watcharr) - A free and open source content watch list. Add and track all the shows and movies you are watching. Comes with user authentication, modern and clean UI and a very simple setup. ([Demo](https://beta.watcharr.app/)) `MIT` `Docker`
 
 ### Software / Software Development - Project Management
 
 *   [Review Board](https://www.reviewboard.org/) - Extensible and friendly code review tool for projects and companies of all sizes. ([Demo](https://demo.reviewboard.org/), [Source Code (⭐1.6k)](https://github.com/reviewboard/reviewboard)) `MIT` `Python/Docker`
 
-## [26. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [25. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / Vanilla
 
-*   [vite-vanilla-js-template (⭐36)](https://github.com/Barata-Ribeiro/vite-vanilla-js-template) - Starter template ESlint, Prettier, PostCSS, Nesting, Autoprefixer, CSS Nano, CSS Reset.
+*   [vite-vanilla-js-template (⭐46)](https://github.com/Barata-Ribeiro/vite-vanilla-js-template) - Starter template ESlint, Prettier, PostCSS, Nesting, Autoprefixer, CSS Nano, CSS Reset.
 
 ### Templates / React
 
-*   [vite-react-ssr-boost-template (⭐23)](https://github.com/Lomray-Software/vite-template) - Template for creating `React 18` SSR/SPA apps with `TypeScript`, `Mobx`, `React Router`, `Head Manager`, Suspense, Streaming. Also included CI/CD, `ESLint`, `Prettier`, `Stylelint`, `Husky`, `Semantic Release`.
+*   [vite-react-ssr-boost-template (⭐29)](https://github.com/Lomray-Software/vite-template) - Template for creating `React 18` SSR/SPA apps with `TypeScript`, `Mobx`, `React Router`, `Head Manager`, Suspense, Streaming. Also included CI/CD, `ESLint`, `Prettier`, `Stylelint`, `Husky`, `Semantic Release`.
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [@storybook/builder-vite (⭐84k)](https://github.com/storybookjs/storybook/tree/next/code/builders/builder-vite/) - Storybook builder.
+*   [@storybook/builder-vite (⭐85k)](https://github.com/storybookjs/storybook/tree/next/code/builders/builder-vite/) - Storybook builder.
 *   [@builder.io/partytown (⭐13k)](https://github.com/BuilderIO/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker.
 
 ### Libraries / Community
 
-*   [vite-ssr-boost (⭐81)](https://github.com/Lomray-Software/vite-ssr-boost) - Server side rendering library for create awesome app based on `react-router`. ![react](https://img.shields.io/badge/-React-4ab2cf)
+*   [vite-ssr-boost (⭐91)](https://github.com/Lomray-Software/vite-ssr-boost) - Server side rendering library for create awesome app based on `react-router`. ![react](https://img.shields.io/badge/-React-4ab2cf)
 
-## [27. Awesome Fantasy](/content/RichardLitt/awesome-fantasy/week/README.md)
+## [26. Awesome Fantasy](/content/RichardLitt/awesome-fantasy/week/README.md)
 
 ### Epic Fantasy / [Temeraire](https://www.goodreads.com/series/43272-temeraire) (2006) *by [Naomi Novik](https://en.wikipedia.org/wiki/Naomi_Novik)* [4.06]
 
@@ -490,39 +462,39 @@
 *   Blood of Tyrants
 *   League of Dragons
 
-## [28. Awesome Blockchain Ai](/content/steven2358/awesome-blockchain-ai/week/README.md)
+## [27. Awesome Blockchain Ai](/content/steven2358/awesome-blockchain-ai/week/README.md)
 
 ### Blockchains for AI algorithms / Blockchain, AI and Machine Learning
 
 *   [Vanna Labs](https://www.vannalabs.ai/) - An Ethereum L2 rollup that supports native, seamless, and trustless AI/ML inferences on-chain to empower decentralized applications.
 
-## [29. Awesome Construct](/content/ConstructCommunity/awesome-construct/week/README.md)
+## [28. Awesome Construct](/content/ConstructCommunity/awesome-construct/week/README.md)
 
 ### Export
 
 *   [AppPlayer-Electron (⭐3)](https://github.com/Floflis/AppPlayer-Electron) - Preview Construct 2 apps/games in an Electron prebuilt exe - as if Electron were a normal browser! Currently Windows only, but soon™ for Mac and Linux
 
-## [30. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
+## [29. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
 
 ### Projects / Frameworks
 
-*   [SSProve (⭐56)](https://github.com/SSProve/ssprove) - Framework for modular cryptographic proofs based on the Mathematical Components library.
+*   [SSProve (⭐57)](https://github.com/SSProve/ssprove) - Framework for modular cryptographic proofs based on the Mathematical Components library.
 
-## [31. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [30. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Database Tools
 
-*   [dg (⭐28)](https://github.com/codingconcepts/dg) - A fast data generator that produces CSV files from generated relational data.
+*   [dg (⭐32)](https://github.com/codingconcepts/dg) - A fast data generator that produces CSV files from generated relational data.
 
 ### Date and Time
 
-*   [approx (⭐12)](https://github.com/goschtalt/approx) - A Duration extension supporting parsing/printing durations in days, weeks and years.
+*   [approx (⭐13)](https://github.com/goschtalt/approx) - A Duration extension supporting parsing/printing durations in days, weeks and years.
 
 ### ORM
 
-*   [go-dbw (⭐13)](https://github.com/hashicorp/go-dbw) - A simple package that encapsulates database operations.
+*   [go-dbw (⭐15)](https://github.com/hashicorp/go-dbw) - A simple package that encapsulates database operations.
 
-## [32. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
+## [31. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
 
 ### Startups and Business
 
@@ -776,7 +748,7 @@
 
 
 
-## [33. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [32. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Ethics, Philosophical questions and Discussions about Generative AI
 
@@ -790,11 +762,11 @@
 
 *   [AIForme](https://www.aiforme.wiki/): AI tools discovery platform with comparison feature
 
-### Inbox: Speech-to-text (STT) and spoken content analysis / Deforum
+### Speech-to-text (STT) and spoken content analysis / Deforum
 
 *   [facebookresearch/seamless\_communication (⭐11k)](https://github.com/facebookresearch/seamless_communication): Foundational Models for State-of-the-Art Speech and Text Translation
 
-## [34. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [33. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
@@ -820,21 +792,21 @@
 
 *   [sandbox.httpsms.com](https://sandbox.httpsms.com) — Send and receive test SMS messages for free.
 
-## [35. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [34. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Register / Diagnostics
 
-*   [desdic/macrothis.nvim (⭐24)](https://github.com/desdic/macrothis.nvim) - Save and load macros/registers.
+*   [desdic/macrothis.nvim (⭐27)](https://github.com/desdic/macrothis.nvim) - Save and load macros/registers.
 
 ### Note Taking / Diagnostics
 
-*   [IlyasYOY/obs.nvim (⭐71)](https://github.com/IlyasYOY/obs.nvim) - Your Obsidian notes at the speed of thought.
+*   [IlyasYOY/obs.nvim (⭐75)](https://github.com/IlyasYOY/obs.nvim) - Your Obsidian notes at the speed of thought.
 
 ### Code Runner / Diagnostics
 
 *   [jaytyrrell13/static.nvim (⭐12)](https://github.com/jaytyrrell13/static.nvim) - Run static site generator commands.
 
-## [36. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [35. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### GEO
 
@@ -844,25 +816,25 @@
 
 *   [Better Stack](https://betterstack.com/) - Uptime monitoring, incident management, and status pages.
 
-## [37. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [36. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### HTML Builders
 
-*   [to\_html (⭐10)](https://github.com/sbsoftware/to_html.cr) - The fastest HTML builder engine for Crystal
+*   [to\_html (⭐9)](https://github.com/sbsoftware/to_html.cr) - The fastest HTML builder engine for Crystal
 
-## [38. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [37. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Artificial Intelligence
 
-*   [Mpt-Instruct-DotNet-S (⭐13)](https://github.com/NethermindEth/Mpt-Instruct-DotNet-S) - LLM that can generate and explain C# code (and its C# wrapper to run on consumer CPU with 5GB ram+, contains Console and Blazor sample projects)
+*   [Mpt-Instruct-DotNet-S (⭐18)](https://github.com/NethermindEth/Mpt-Instruct-DotNet-S) - LLM that can generate and explain C# code (and its C# wrapper to run on consumer CPU with 5GB ram+, contains Console and Blazor sample projects)
 
-## [39. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+## [38. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
-### Plugins and scripts / Various Godot versions
+### Plugins and scripts / Godot 4
 
-*   [SignalVisualizer (⭐326)](https://github.com/Ericdowney/SignalVisualizer) - Displays the current scene's signals and connections in a easy to read graph and tree dock (Godot 4.x).
+*   [SignalVisualizer (⭐424)](https://github.com/Ericdowney/SignalVisualizer) - Displays the current scene's signals and connections in a easy to read graph and tree dock.
 
-## [40. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [39. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Learning
 

@@ -1,54 +1,44 @@
 # Awesome List Updates on Jul 26, 2024
 
-7 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/README.md)
-
-### **Other techniques and LLM patterns** / **Llama Finetuning**
-
-*   [KAN or MLP: A Fairer Comparison](https://arxiv.org/abs/2407.16674): In machine learning, computer vision, audio processing, natural language processing, and symbolic formula representation (except for symbolic formula representation tasks), MLP generally outperforms KAN. \[23 Jul 2024]
-
-### **OpenAI's Roadmap and Products** / **OpenAI Products**
-
-*   [SearchGPT](https://openai.com/index/searchgpt-prototype/): AI search \[25 Jul 2024]
-
-## [2. Awesome Polars](/content/ddotta/awesome-polars/README.md)
+## [1. Awesome Polars](/content/ddotta/awesome-polars/README.md)
 
 ### Libraries/Packages/Scripts / Polars plugins
 
-*   [polars-ml (⭐5)](https://github.com/barak1412/polars_ml) - Polars plugin for machine learning by [@barak1412](https://github.com/barak1412).
+*   [polars-ml (⭐10)](https://github.com/barak1412/polars_ml) - Polars plugin for machine learning by [@barak1412](https://github.com/barak1412).
 
-## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Other Free Resources
 
 *   [PageTools](https://pagetools.co/) - Offers a suite of forever free AI-powered tools to help you generate essential website policies, create social media bios, posts and web pages with a simple one-click interface.
 
-## [4. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [3. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Resource / Diagnostics
 
-*   [Nvim-training (⭐27)](https://github.com/Weyaaron/nvim-training) - A beginner-friendly tool for training your 'muscle memory' using small, repeatable tasks.
+*   [Nvim-training (⭐62)](https://github.com/Weyaaron/nvim-training) - A beginner-friendly tool for training your 'muscle memory' using small, repeatable tasks.
 
-## [5. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
+## [4. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
 ### Sensors / Accelerometer Digital
 
 *   [bma423-pure-mp (⭐9)](https://github.com/antirez/bma423-pure-mp) - MicroPython Driver for the Bosch 423 accelerometer. Includes FIFO support. ⏩
 
-### Sensors / Barometer
+### Sensors / Barometer - Air and Water Pressure
 
-*   [mp-bmp3xx-full (⭐3)](https://github.com/jornamon/mp-bmp3xx-full) - MicroPython driver for the Bosch BMP3xx range of barometric pressure sensors. Includes FIFO support. ⏩
+*   [mp-bmp3xx-full (⭐4)](https://github.com/jornamon/mp-bmp3xx-full) - MicroPython driver for the Bosch BMP3xx range of barometric pressure sensors. Includes FIFO support. ⏩
 
 ### Books / SRAM
 
 *   [Get Started with MicroPython on Raspberry Pi Pico 2nd Edition](https://store.rpipress.cc/collections/books/products/get-started-with-micropython-on-raspberry-pi-pico-2nd-edition) - By Gareth Halfacree and Ben Everard. ISBN 9781912047291.
 
-## [6. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/README.md)
+## [5. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/README.md)
 
 ### Pascal
 
@@ -70,7 +60,7 @@ Language: English
 Notable Channels: `#general`, `#support-free-pascal`, `#support-lazarus`, `#support-delphi`, `#support-misc`, `#projects`, `#resources` \
 Language: English
 
-## [7. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+## [6. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### Unspecified / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 

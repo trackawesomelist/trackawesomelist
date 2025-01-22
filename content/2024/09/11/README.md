@@ -14,21 +14,21 @@
 
 ### Drag and Drop / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [angular-drag-drop-layout (⭐2)](https://github.com/skutam/angular-drag-drop-layout) - A lightweight, dependency-free Angular library for creating highly customizable, responsive grid layouts with drag-and-drop functionality.
+*   [angular-drag-drop-layout (⭐3)](https://github.com/skutam/angular-drag-drop-layout) - A lightweight, dependency-free Angular library for creating highly customizable, responsive grid layouts with drag-and-drop functionality.
 
 ### Form Controls / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [angular-cc-library (⭐82)](https://github.com/timofei-iatsenko/angular-cc-library) - Library to support Credit Card input masking and validation.
+*   [angular-cc-library (⭐83)](https://github.com/timofei-iatsenko/angular-cc-library) - Library to support Credit Card input masking and validation.
 
 ### Tooltips / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-popovers (⭐11)](https://github.com/al-march/ngx-popovers) - An Angular library based on [Floating UI](https://floating-ui.com/) with already ready-made components to use.
+*   [ngx-popovers (⭐12)](https://github.com/al-march/ngx-popovers) - An Angular library based on [Floating UI](https://floating-ui.com/) with already ready-made components to use.
 
 ## [2. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Utility / Diagnostics
 
-*   [QuentinGruber/pomodoro.nvim (⭐3)](https://github.com/QuentinGruber/pomodoro.nvim) - Use the Pomodoro Technique with built-in session tracking and break reminders.
+*   [QuentinGruber/pomodoro.nvim (⭐35)](https://github.com/QuentinGruber/pomodoro.nvim) - Use the Pomodoro Technique with built-in session tracking and break reminders.
 
 ## [3. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 

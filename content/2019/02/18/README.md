@@ -22,7 +22,7 @@
 
 ### Ask these people anything!
 
-*   [Fabio Spampinato (⭐6)](https://github.com/fabiospampinato/ama) - Self-taught full-stack developer passionate about open source and empowering people.
+*   [Fabio Spampinato (⭐7)](https://github.com/fabiospampinato/ama) - Self-taught full-stack developer passionate about open source and empowering people.
 
 ## [4. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -84,9 +84,9 @@
 
 ### Algorithms and Data Structures
 
-*   [Decompress (⭐116)](https://github.com/mirage/decompress) - A pure OCaml implementation of Zlib.
-*   [Ke (⭐52)](https://github.com/mirage/ke) - Fast implementation of queue (FIFO) in OCaml.
-*   [Duff (⭐21)](https://github.com/mirage/duff) - Implementation of Rabin's fingerprint and delta compression by P. MacDonald in OCaml (same as [libXdiff](http://www.xmailserver.org/xdiff-lib.html)
+*   [Decompress (⭐115)](https://github.com/mirage/decompress) - A pure OCaml implementation of Zlib.
+*   [Ke (⭐51)](https://github.com/mirage/ke) - Fast implementation of queue (FIFO) in OCaml.
+*   [Duff (⭐20)](https://github.com/mirage/duff) - Implementation of Rabin's fingerprint and delta compression by P. MacDonald in OCaml (same as [libXdiff](http://www.xmailserver.org/xdiff-lib.html)
 
 ## [8. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
@@ -102,7 +102,7 @@
 
 ### API
 
-*   [SwiftyInsta (⭐226)](https://github.com/TheM4hd1/SwiftyInsta) - Private and Tokenless Instagram RESTful API.
+*   [SwiftyInsta (⭐224)](https://github.com/TheM4hd1/SwiftyInsta) - Private and Tokenless Instagram RESTful API.
 
 ## [10. Awesome Deno](/content/denolib/awesome-deno/README.md)
 

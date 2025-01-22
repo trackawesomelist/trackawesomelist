@@ -56,11 +56,11 @@
 
 ### Free fonts / Collections
 
-*   [Zilla Slab (⭐375)](https://github.com/mozilla/zilla-slab) - Mozilla font
+*   [Zilla Slab (⭐419)](https://github.com/mozilla/zilla-slab) - Mozilla font
 
 ### Programming fonts / Fonts
 
-*   [Hack (⭐15k)](https://github.com/source-foundry/Hack)
+*   [Hack (⭐17k)](https://github.com/source-foundry/Hack)
 
 ## [5. Awesome Material](/content/sachin1092/awesome-material/README.md)
 
@@ -79,7 +79,7 @@
 
 ### GIS
 
-*   [GeoJSON.NET (⭐438)](https://github.com/GeoJSON-Net/GeoJSON.Net) - .Net library for GeoJSON types & corresponding Json.Net (de)serializers
+*   [GeoJSON.NET (⭐449)](https://github.com/GeoJSON-Net/GeoJSON.Net) - .Net library for GeoJSON types & corresponding Json.Net (de)serializers
 
 ## [8. Awesome Ionic](/content/candelibas/awesome-ionic/README.md)
 

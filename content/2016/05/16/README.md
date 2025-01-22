@@ -32,11 +32,7 @@
 
 ### Logging / Barcode
 
-*   [WatchdogInspector (⭐516)](https://github.com/tapwork/WatchdogInspector) - A logging tool to show the current framerate (fps) in the status bar of your iOS app.
-
-### Utility / Barcode
-
-*   [SwiftTweaks (⭐1.4k)](https://github.com/khan/swifttweaks) - Tweak your iOS app without recompiling.
+*   [WatchdogInspector (⭐517)](https://github.com/tapwork/WatchdogInspector) - A logging tool to show the current framerate (fps) in the status bar of your iOS app.
 
 ## [5. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
@@ -161,7 +157,7 @@
 
 ### Libraries
 
-*   [TensorFrames (⭐751)](https://github.com/tjhunter/tensorframes) - TensorFlow binding for Apache Spark
+*   [TensorFrames (⭐749)](https://github.com/tjhunter/tensorframes) - TensorFlow binding for Apache Spark
 
 ---
 

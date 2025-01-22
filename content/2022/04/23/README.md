@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 23, 2022
 
-5 awesome lists updated today.
+4 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,33 +16,27 @@
 
 ### Software / Booking and Scheduling
 
-*   [Rallly](https://rallly.co) - Create polls to vote on dates and times (alternative to Doodle). ([Demo](https://app.rallly.co), [Source Code (⭐3.4k)](https://github.com/lukevella/rallly)) `AGPL-3.0` `Nodejs/Docker`
+*   [Rallly](https://rallly.co) - Create polls to vote on dates and times (alternative to Doodle). ([Demo](https://app.rallly.co), [Source Code (⭐3.9k)](https://github.com/lukevella/rallly)) `AGPL-3.0` `Nodejs/Docker`
 
 ### Software / Content Management Systems (CMS)
 
-*   [WinterCMS](https://wintercms.com/) - Speedy and secure content management system built on the Laravel PHP framework. ([Source Code (⭐1.3k)](https://github.com/wintercms/winter)) `MIT` `PHP`
+*   [WinterCMS](https://wintercms.com/) - Speedy and secure content management system built on the Laravel PHP framework. ([Source Code (⭐1.4k)](https://github.com/wintercms/winter)) `MIT` `PHP`
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [PicoShare](https://pico.rocks) - A minimalist, easy-to-host service for sharing images and other files. ([Demo](https://demo.pico.rocks), [Source Code (⭐2.2k)](https://github.com/mtlynch/picoshare)) `AGPL-3.0` `Go/Docker`
+*   [PicoShare](https://pico.rocks) - A minimalist, easy-to-host service for sharing images and other files. ([Demo](https://demo.pico.rocks), [Source Code (⭐2.4k)](https://github.com/mtlynch/picoshare)) `AGPL-3.0` `Go/Docker`
 
-## [3. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / Integrations
-
-*   [vue3-recaptcha2 (⭐38)](https://github.com/bbonch/vue3-recaptcha2) - Google reCAPTCHA 2 for Vue 3.
-
-## [4. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
+## [3. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Top / Game Engine resources
 
-*   [Spotube (⭐26k)](https://github.com/KRTirtho/spotube) <!--stargazers:KRTirtho/spotube--> - A lightweight free Spotify crossplatform-client with no Spotify premium account requirement by [KRTirtho](https://github.com/KRTirtho)
+*   [Spotube (⭐32k)](https://github.com/KRTirtho/spotube) <!--stargazers:KRTirtho/spotube--> - A lightweight free Spotify crossplatform-client with no Spotify premium account requirement by [KRTirtho](https://github.com/KRTirtho)
 
-## [5. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [4. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Audio and Music
 
-*   [Serial-ATA/lofty-rs (⭐183)](https://github.com/Serial-ATA/lofty-rs) \[[lofty](https://crates.io/crates/lofty)] - A library for reading and editing the metadata of various audio formats [![build badge](https://github.com/Serial-ATA/lofty-rs/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Serial-ATA/lofty-rs/actions)
+*   [Serial-ATA/lofty-rs (⭐203)](https://github.com/Serial-ATA/lofty-rs) \[[lofty](https://crates.io/crates/lofty)] - A library for reading and editing the metadata of various audio formats [![build badge](https://github.com/Serial-ATA/lofty-rs/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Serial-ATA/lofty-rs/actions)
 
 ---
 

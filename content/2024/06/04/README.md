@@ -10,13 +10,13 @@
 
 ### File Explorer / Diagnostics
 
-*   [neotree-file-nesting-config (⭐14)](https://github.com/saifulapm/neotree-file-nesting-config) - Pre-defined file nesting rules for `neo-tree.nvim`.
+*   [neotree-file-nesting-config (⭐18)](https://github.com/saifulapm/neotree-file-nesting-config) - Pre-defined file nesting rules for `neo-tree.nvim`.
 
 ## [2. Awesome Chrome Devtools](/content/ChromeDevTools/awesome-chrome-devtools/README.md)
 
 ### Browser Adapters
 
-*   [devtools-remote-debugger (⭐273)](https://github.com/Nice-PLQ/devtools-remote-debugger) - Use devtools against a webpage; a CDP agent implemeted in client-side JS.
+*   [devtools-remote-debugger (⭐311)](https://github.com/Nice-PLQ/devtools-remote-debugger) - Use devtools against a webpage; a CDP agent implemeted in client-side JS.
 
 ## [3. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 

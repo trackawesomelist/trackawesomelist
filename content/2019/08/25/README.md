@@ -17,7 +17,7 @@
 ### Developer Tools
 
 *   **Code coverage**:
-    *   [Bisect\_ppx (⭐299)](https://github.com/aantron/bisect_ppx)
+    *   [Bisect\_ppx (⭐302)](https://github.com/aantron/bisect_ppx)
 
 ## [3. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 
@@ -61,9 +61,9 @@
 
 ### CLOS extensions
 
-*   [inlined-generic-function (⭐108)](https://github.com/guicho271828/inlined-generic-function) -
+*   [inlined-generic-function (⭐107)](https://github.com/guicho271828/inlined-generic-function) -
     Bringing the speed of Static Dispatch to CLOS. [LLGPL](http://opensource.franz.com/preamble.html).
-*   [static-dispatch (⭐76)](https://github.com/alex-gutev/static-dispatch) - allows standard generic function dispatch to be performed statically (at compile time) rather than dynamically (runtime). This is similar to what is known as "overloading" in languages such as C++ and Java. [MIT](https://opensource.org/licenses/MIT).
+*   [static-dispatch (⭐80)](https://github.com/alex-gutev/static-dispatch) - allows standard generic function dispatch to be performed statically (at compile time) rather than dynamically (runtime). This is similar to what is known as "overloading" in languages such as C++ and Java. [MIT](https://opensource.org/licenses/MIT).
 
 ### Configuration / Third-party APIs
 
@@ -71,7 +71,7 @@
 
 ### Logging / Third-party APIs
 
-*   [a-cl-logger (⭐12)](https://github.com/AccelerationNet/a-cl-logger) - Logging library providing context sensitive logging of more than just strings to more than just local files or output streams. Features logstash support, json support, logger hierarchies, context sensitive logging, objects printed as an inspectable presentation,…
+*   [a-cl-logger (⭐13)](https://github.com/AccelerationNet/a-cl-logger) - Logging library providing context sensitive logging of more than just strings to more than just local files or output streams. Features logstash support, json support, logger hierarchies, context sensitive logging, objects printed as an inspectable presentation,…
 
 ## [6. Awesome Software Architecture](/content/simskij/awesome-software-architecture/README.md)
 

@@ -10,7 +10,7 @@
 
 ### CLI
 
-*   [zsh-better-npm-completion (⭐444)](https://github.com/lukechilds/zsh-better-npm-completion) - Better ZSH completion for npm.
+*   [zsh-better-npm-completion (⭐466)](https://github.com/lukechilds/zsh-better-npm-completion) - Better ZSH completion for npm.
 
 ## [2. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 

@@ -10,7 +10,7 @@
 
 ### Cloud
 
-*   [AWS SDK for Ruby (⭐3.5k)](https://github.com/aws/aws-sdk-ruby) - The official AWS SDK for Ruby.
+*   [AWS SDK for Ruby (⭐3.6k)](https://github.com/aws/aws-sdk-ruby) - The official AWS SDK for Ruby.
 
 ### DevOps Tools
 
@@ -24,7 +24,7 @@
 
 ### Applications
 
-*   [tty2048 (⭐155)](https://github.com/lexmag/tty2048) - Terminal-based 2048 game written in Elixir.
+*   [tty2048 (⭐156)](https://github.com/lexmag/tty2048) - Terminal-based 2048 game written in Elixir.
 
 ### Files and Directories
 
@@ -35,11 +35,11 @@
 
 ### Packages / Filesystem
 
-*   [istextorbinary (⭐146)](https://github.com/bevry/istextorbinary) - Check if a file is text or binary.
+*   [istextorbinary (⭐148)](https://github.com/bevry/istextorbinary) - Check if a file is text or binary.
 
 ### Packages / Network
 
-*   [getmac (⭐351)](https://github.com/bevry/getmac) - Get the computer MAC address.
+*   [getmac (⭐358)](https://github.com/bevry/getmac) - Get the computer MAC address.
 
 ## [4. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 

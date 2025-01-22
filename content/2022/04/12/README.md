@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 12, 2022
 
-8 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -38,25 +38,19 @@
 
 *   [PacMax](https://pacmax.org/) – Pacmax was assembled as a way for Alfred lovers to find and share their favorite workflows, snippets, and themes.
 
-## [3. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
-
-### Other multimodal data formats / Ruby
-
-*   [Cal-ITP Operational Data Standard (ODS)](https://docs.calitp.org/operational-data-standard/) -  Intended to address the lack of a standard format for representing transit schedules used by drivers, dispatchers, and planners to carry out transit operations.
-
-## [4. Awesome Video](/content/krzemienski/awesome-video/README.md)
+## [3. Awesome Video](/content/krzemienski/awesome-video/README.md)
 
 ### Learning / Books
 
 *   [Circles of Confusion](https://tech.ebu.ch/publicaions/circles-of-confusion)  - 2009-01-01. Roberts, Alan.
 
-## [5. Awesome Yew](/content/jetli/awesome-yew/README.md)
+## [4. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Projects
 
 *   [Crabtyper (⭐187)](https://github.com/brancobruyneel/crabtyper) - A speedtyping web app written in Rust.
 
-## [6. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [5. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Oh-My-Zsh
 
@@ -64,13 +58,13 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [omz-git (⭐1)](https://github.com/aeons/omz-git) - [Oh-My-ZSH](https://ohmyz.sh/)'s [git (⭐172k)](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/git) plugin re-packaged to be standalone.
+*   [omz-git (⭐1)](https://github.com/aeons/omz-git) - [Oh-My-ZSH](https://ohmyz.sh/)'s [git (⭐175k)](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/git) plugin re-packaged to be standalone.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [biratime (⭐3)](https://github.com/vemonet/biratime) - Based on the [bira (⭐172k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/bira.zsh-theme) theme, but displays the date instead of the username in the prompt.
+*   [biratime (⭐3)](https://github.com/vemonet/biratime) - Based on the [bira (⭐175k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/bira.zsh-theme) theme, but displays the date instead of the username in the prompt.
 
-## [7. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [6. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Links / Blogs
 
@@ -82,7 +76,7 @@
 *   [Effective Kotlin](https://kt.academy/book/effectivekotlin)
 *   [Kotlin Coroutines: Deep Dive](https://kt.academy/book/coroutines) - A practical book dedicated to Kotlin Coroutines, common use-cases, best practices and deep understanding.
 
-## [8. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [7. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Problem Solving / Reinforcement Learning
 

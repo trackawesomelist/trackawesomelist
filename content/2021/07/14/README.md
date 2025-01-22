@@ -14,21 +14,21 @@
 
 ## [2. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
-### Plugins and scripts / Various Godot versions
+### Plugins and scripts / Godot 3
 
-*   [StoryTeller Engine (⭐30)](https://github.com/HeavenMercy/StoryTeller-Engine) - Dialog and interactive fiction engine (Godot 3.x).
+*   [StoryTeller Engine (⭐32)](https://github.com/HeavenMercy/StoryTeller-Engine) - Dialog and interactive fiction engine.
 
 ## [3. Awesome Acg](/content/soruly/awesome-acg/README.md)
 
 ### Image Generation
 
-*   [hololive-fusion-generator (⭐112)](https://github.com/vaexenc/hololive-fusion-generator) - Dynamically generates combinations of names and pictures of Hololive members on the fly. \[English]
+*   [hololive-fusion-generator (⭐113)](https://github.com/vaexenc/hololive-fusion-generator) - Dynamically generates combinations of names and pictures of Hololive members on the fly. \[English]
 
 ## [4. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md)
 
 ### Java Libraries
 
-*   [Bitcoin Spring Boot Starter (⭐60)](https://github.com/theborakompanioni/bitcoin-spring-boot-starter) - Bitcoin integration for Spring Boot applications.
+*   [Bitcoin Spring Boot Starter (⭐70)](https://github.com/theborakompanioni/bitcoin-spring-boot-starter) - Bitcoin integration for Spring Boot applications.
 
 ## [5. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
 
@@ -56,7 +56,7 @@
 
 ### Game Engine
 
-*   [o3de (⭐7.6k)](https://github.com/o3de/o3de) - An open-source, real-time, multi-platform 3D engine based on Amazon Lumberyard. \[Apache2] [website](https://o3de.org/)
+*   [o3de (⭐8k)](https://github.com/o3de/o3de) - An open-source, real-time, multi-platform 3D engine based on Amazon Lumberyard. \[Apache2] [website](https://o3de.org/)
 
 ## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

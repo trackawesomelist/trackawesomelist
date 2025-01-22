@@ -10,7 +10,7 @@
 
 ### Tools / Collection View Layout
 
-*   [Xcodes.app (⭐6.7k)](https://github.com/RobotsAndPencils/XcodesApp) - The easiest way to install and switch between multiple versions of Xcode.
+*   [Xcodes.app (⭐7.2k)](https://github.com/RobotsAndPencils/XcodesApp) - The easiest way to install and switch between multiple versions of Xcode.
 
 ## [2. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/README.md)
 
@@ -521,7 +521,7 @@ Language: English \ <br>
 
 ### Demos / Syntax highlighting packages
 
-*   [GBVideoPlayer2 (⭐84)](https://github.com/LIJI32/GBVideoPlayer2) - The second iteration of the above demo, which increases the resolution, adds *stereo- PCM audio, and introduces video compression*.
+*   [GBVideoPlayer2 (⭐99)](https://github.com/LIJI32/GBVideoPlayer2) - The second iteration of the above demo, which increases the resolution, adds *stereo- PCM audio, and introduces video compression*.
 
 ## [5. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
@@ -548,18 +548,16 @@ Language: English \ <br>
 *   [NetCDF](https://www.unidata.ucar.edu/software/netcdf/) - Software libraries and data formats for array-oriented scientific data.
     (C/C++/Fortran/Java/Python, [custom open-source
     license](https://www.unidata.ucar.edu/software/netcdf/copyright.html),
-    [GitHub (⭐481)](https://github.com/Unidata/netcdf-c/))
-*   [HDF5](https://support.hdfgroup.org/HDF5/) - Data model, library, and file format for storing and managing data.
-    (C/Fortran, BSD, [GitHub (⭐472)](https://github.com/HDFGroup/hdf5))
+    [GitHub (⭐520)](https://github.com/Unidata/netcdf-c/))
 *   [XDMF](https://xdmf.org/index.php/Main_Page) - eXtensible Data Model and Format for data from High Performance Computing codes.
     (C++, [GitLab](https://gitlab.kitware.com/xdmf/xdmf))
 *   [Zarr](https://zarr.readthedocs.io/en/stable/) - Format for the storage of chunked, compressed, N-dimensional arrays.
-    (Python, MIT, [GitHub (⭐1.3k)](https://github.com/zarr-developers/zarr-python))
+    (Python, MIT, [GitHub (⭐1.5k)](https://github.com/zarr-developers/zarr-python))
 
 ### Other libraries and tools / Mesh tools
 
 *   [pyGAM](https://pygam.readthedocs.io/en/latest/) - Generalized Additive Models in Python.
-    (Python, Apache 2.0, [GitHub (⭐830)](https://github.com/dswah/pyGAM))
+    (Python, Apache 2.0, [GitHub (⭐877)](https://github.com/dswah/pyGAM))
 
 ## [9. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 

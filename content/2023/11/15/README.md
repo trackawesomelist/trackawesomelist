@@ -28,9 +28,9 @@
 
 ### Running LLMs Locally / Prompt Engineering for Text-to-image
 
-*   [GPT4All](https://gpt4all.io/index.html): A free-to-use, locally running, privacy-aware chatbot. No GPU or internet required.
+*   [GPT4All](https://gpt4all.io/index.html): A free-to-use, locally running, privacy-aware chatbot. No GPU or internet is required.
 *   [LM Studio](https://lmstudio.ai/): Discover, download, and run local LLMs
-*   [ggerganov/llama.cpp (⭐64k)](https://github.com/ggerganov/llama.cpp): Port of Facebook's LLaMA model in C/C++
+*   [ggerganov/llama.cpp (⭐71k)](https://github.com/ggerganov/llama.cpp): Port of Facebook's LLaMA model in C/C++
 
 ### GPTs and Assistant API / Prompt Engineering for Text-to-image
 
@@ -38,11 +38,11 @@
 
 ### LLM Evaluation / Multi-agents
 
-*   [vectara/hallucination-leaderboard (⭐1.1k)](https://github.com/vectara/hallucination-leaderboard): "leaderboard Comparing LLM Performance at Producing Hallucinations when Summarizing Short Documents"
+*   [vectara/hallucination-leaderboard (⭐1.3k)](https://github.com/vectara/hallucination-leaderboard): "leaderboard Comparing LLM Performance at Producing Hallucinations when Summarizing Short Documents"
 
-### Inbox: Speech-to-text (STT) and spoken content analysis / Deforum
+### Speech-to-text (STT) and spoken content analysis / Deforum
 
-*   [tldraw/draw-a-ui (⭐5k)](https://github.com/tldraw/draw-a-ui): draw a mockup and generate HTML for it
+*   [tldraw/draw-a-ui (⭐5.2k)](https://github.com/tldraw/draw-a-ui): draw a mockup and generate HTML for it
 
 ## [3. Awesome List](/content/sindresorhus/awesome/README.md)
 
@@ -60,13 +60,13 @@
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-deadfile (⭐21)](https://github.com/stauren/vite-plugin-deadfile) - Find unused source files in the project.
+*   [vite-plugin-deadfile (⭐31)](https://github.com/stauren/vite-plugin-deadfile) - Find unused source files in the project.
 
 ## [6. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### (requires Neovim 0.5)
 
-*   [hedyhli/outline.nvim (⭐548)](https://github.com/hedyhli/outline.nvim) - A significantly enhanced and refactored fork of `symbols-outline.nvim`.
+*   [hedyhli/outline.nvim (⭐686)](https://github.com/hedyhli/outline.nvim) - A significantly enhanced and refactored fork of `symbols-outline.nvim`.
 
 ## [7. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 

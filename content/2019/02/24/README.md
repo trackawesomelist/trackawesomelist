@@ -10,11 +10,11 @@
 
 ### Algorithms, Containers and Protocols / Apache License
 
-*   [simple-blockchain (⭐21)](https://github.com/tomekw/simple_blockchain) - Simple blockchain in Ada.
+*   [simple-blockchain (⭐22)](https://github.com/tomekw/simple_blockchain) - Simple blockchain in Ada.
 
 ### Shells, Interpreters and Emulators / Apache License
 
-*   [gsh (⭐102)](https://github.com/AdaCore/gsh) - GSH is non interactive POSIX shell for Windows, aimed at GNU software builds. 2-3 times faster than Cygwin.
+*   [gsh (⭐110)](https://github.com/AdaCore/gsh) - GSH is non interactive POSIX shell for Windows, aimed at GNU software builds. 2-3 times faster than Cygwin.
 
 ### Programming Languages / Apache License
 
@@ -45,13 +45,13 @@
 
 ### Text & Rich Content / Image Picker
 
-*   [AutoSizeText (⭐2k)](https://github.com/leisim/auto_size_text) <!--stargazers:leisim/auto_size_text--> - Automatically resizes text to fit perfectly within its bounds by [Simon Leier](https://github.com/leisim).
+*   [AutoSizeText (⭐2.1k)](https://github.com/leisim/auto_size_text) <!--stargazers:leisim/auto_size_text--> - Automatically resizes text to fit perfectly within its bounds by [Simon Leier](https://github.com/leisim).
 
 ## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Regular Expression
 
-*   [Oniguruma (⭐2.3k)](https://github.com/kkos/oniguruma) - A modern and flexible regular expressions library that supports a variety of character encodings. \[BSD]
+*   [Oniguruma (⭐2.4k)](https://github.com/kkos/oniguruma) - A modern and flexible regular expressions library that supports a variety of character encodings. \[BSD]
 
 ## [7. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 

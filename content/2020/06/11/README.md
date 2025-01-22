@@ -20,7 +20,7 @@
 
 ### Examples / Templates
 
-*   [ModernCppStarter (⭐2.9k)](https://github.com/TheLartians/ModernCppStarter) - A template for modern C++ projects using CMake, CI, code coverage, clang-format, reproducible dependency management, tests using [doctest (⭐4.3k)](https://github.com/onqtam/doctest) and much more. [`[UNLICENSE]`](https://unlicense.org/)
+*   [ModernCppStarter (⭐4.3k)](https://github.com/TheLartians/ModernCppStarter) - A template for modern C++ projects using CMake, CI, code coverage, clang-format, reproducible dependency management, tests using [doctest (⭐5.8k)](https://github.com/onqtam/doctest) and much more. [`[UNLICENSE]`](https://unlicense.org/)
 
 ## [3. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
@@ -50,7 +50,7 @@
 
 ### Tools
 
-*   [louketo-proxy (FKA Gatekeeper) (⭐950)](https://github.com/louketo/louketo-proxy)
+*   [louketo-proxy (FKA Gatekeeper) (⭐948)](https://github.com/louketo/louketo-proxy)
 
 ## [7. Awesome Lumen](/content/unicodeveloper/awesome-lumen/README.md)
 
@@ -62,7 +62,7 @@
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [moOde Audio](https://moodeaudio.org/) - Audiophile-quality music playback for the wonderful Raspberry Pi family of single board computers. ([Source Code (⭐974)](https://github.com/moode-player/moode)) `GPL-3.0` `PHP`
+*   [moOde Audio](https://moodeaudio.org/) - Audiophile-quality music playback for the wonderful Raspberry Pi family of single board computers. ([Source Code (⭐1.1k)](https://github.com/moode-player/moode)) `GPL-3.0` `PHP`
 
 ## [9. Public Apis](/content/public-apis/public-apis/README.md)
 

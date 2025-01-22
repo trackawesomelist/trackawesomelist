@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 04, 2023
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -22,7 +22,7 @@
 
 ### Distributed Systems
 
-*   [Temporal (⭐499)](https://github.com/temporalio/sdk-go) - Durable execution system for making code fault-tolerant and simple.
+*   [Temporal (⭐560)](https://github.com/temporalio/sdk-go) - Durable execution system for making code fault-tolerant and simple.
 
 ## [4. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
@@ -34,7 +34,7 @@
 
 ### Contents / CLI
 
-*   [atlas (⭐5.5k)](https://github.com/ariga/atlas) - Atlas is a tool for managing and migrating database schemas using modern DevOps principles.
+*   [atlas (⭐5.7k)](https://github.com/ariga/atlas) - Atlas is a tool for managing and migrating database schemas using modern DevOps principles.
 
 ### Contents / Server
 
@@ -58,11 +58,11 @@
 
 ### Software / Analytics
 
-*   [Aptabase](https://aptabase.com/) - Open source, privacy first and simple analytics for mobile and desktop apps. ([Source Code (⭐848)](https://github.com/aptabase/aptabase)) `AGPL-3.0` `Docker`
+*   [Aptabase](https://aptabase.com/) - Open source, privacy first and simple analytics for mobile and desktop apps. ([Source Code (⭐1.1k)](https://github.com/aptabase/aptabase)) `AGPL-3.0` `Docker`
 
 ### Software / Document Management
 
-*   [Papermerge](https://papermerge.com) - Open Source Document Management System focused on scanned documents (electronic archives). Features file browsing in similar way to dropbox/google drive. OCR, full text search, text overlay/selection. ([Source Code (⭐2.5k)](https://github.com/ciur/papermerge)) `Apache-2.0` `Python/Docker/K8S`
+*   [Papermerge](https://papermerge.com) - Document management system focused on scanned documents (electronic archives). Features file browsing in similar way to dropbox/google drive. OCR, full text search, text overlay/selection. ([Source Code (⭐323)](https://github.com/papermerge/papermerge-core)) `Apache-2.0` `Docker/K8S`
 
 ## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -78,25 +78,19 @@
 
 ### Projects
 
-*   [Crypto-helper (⭐29)](https://github.com/TheBestTvarynka/crypto-helper) - Web app that can hash, encrypt, and sign the data on the client side. Also includes a JWT debugger. [Website](https://crypto.qkation.com).
+*   [Crypto-helper (⭐33)](https://github.com/TheBestTvarynka/crypto-helper) - Web app that can hash, encrypt, and sign the data on the client side. Also includes a JWT debugger. [Website](https://crypto.qkation.com).
 
-## [10. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / UI Utilities
-
-*   [v-hide (⭐7)](https://github.com/ventralnet/v-hide) - v-hide directive to accompany v-if and v-show. Keeps layout space in the DOM
-
-## [11. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
+## [10. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
 ### General Section / Svelte
 
 *   [Big Tech Digest](https://bigtechdigest.substack.com/). A manually curated newsletter aggregating the latest tech articles from Big Tech and startup engineering blogs for Software Engineers and AI/ML folks.
 
-## [12. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [11. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [projen (⭐0)](https://github.com/p6m7g8/p6-zsh-projen-plugin) - Adds aliases for [projen (⭐2.6k)](https://github.com/projen/projen).
+*   [projen (⭐0)](https://github.com/p6m7g8/p6-zsh-projen-plugin) - Adds aliases for [projen (⭐2.7k)](https://github.com/projen/projen).
 
 ---
 

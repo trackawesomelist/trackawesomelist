@@ -61,7 +61,7 @@
 
 ### Graphics
 
-*   [OpenTK (⭐3.2k)](https://github.com/opentk/opentk) - The Open Toolkit is an advanced, low-level C# library that wraps OpenGL, OpenCL and OpenAL
+*   [OpenTK (⭐3.3k)](https://github.com/opentk/opentk) - The Open Toolkit is an advanced, low-level C# library that wraps OpenGL, OpenCL and OpenAL
 
 ## [9. Awesome Vscode](/content/viatsko/awesome-vscode/README.md)
 

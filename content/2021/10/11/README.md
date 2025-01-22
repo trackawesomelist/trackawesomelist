@@ -70,13 +70,13 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue3-marquee (⭐517)](https://github.com/megasanjay/vue3-marquee) - A simple and responsive marquee component for Vue 3 applications with 0 dependencies.
+*   [vue3-marquee (⭐667)](https://github.com/megasanjay/vue3-marquee) - A simple and responsive marquee component for Vue 3 applications with 0 dependencies.
 
 ## [9. Awesome Naming](/content/gruhn/awesome-naming/README.md)
 
 ### Tools, Applications, Libraries, Frameworks
 
-*   [Puppeteer (⭐88k)](https://github.com/puppeteer/puppeteer) - A browser automation library. If the browser is the puppet, this is the puppeteer.
+*   [Puppeteer (⭐89k)](https://github.com/puppeteer/puppeteer) - A browser automation library. If the browser is the puppet, this is the puppeteer.
 
 ## [10. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -126,7 +126,7 @@
   CORS: No
 
 
-- API: [Movebank (⭐133)](https://github.com/movebank/movebank-api-doc)
+- API: [Movebank (⭐142)](https://github.com/movebank/movebank-api-doc)
 
   Description: Movement and Migration data of animals
 
@@ -161,8 +161,6 @@
 
   CORS: Unknown
 
-  Call this API: 
-
 
 
 ### Development
@@ -189,7 +187,7 @@
   CORS: Unknown
 
 
-- API: [npm Registry (⭐441)](https://github.com/npm/registry/blob/master/docs/REGISTRY-API.md)
+- API: [npm Registry (⭐458)](https://github.com/npm/registry/blob/master/docs/REGISTRY-API.md)
 
   Description: Query information about your favorite Node.js libraries programatically
 
@@ -238,7 +236,7 @@
 
   CORS: Unknown
 
-  Call this API: 
+  : 
 
 
 
@@ -344,7 +342,7 @@
 
 ### Social
 
-- API: [Lanyard (⭐937)](https://github.com/Phineas/lanyard)
+- API: [Lanyard (⭐996)](https://github.com/Phineas/lanyard)
 
   Description: Retrieve your presence on Discord through an HTTP REST API or WebSocket
 

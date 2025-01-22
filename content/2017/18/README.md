@@ -89,7 +89,7 @@
 
 ### Asynchronous Event Loop
 
-*   [uvw (⭐1.8k)](https://github.com/skypjack/uvw) - C++ wrapper for libuv. \[MIT]
+*   [uvw (⭐1.9k)](https://github.com/skypjack/uvw) - C++ wrapper for libuv. \[MIT]
 
 ## [9. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
@@ -172,7 +172,7 @@
 ### Python / Reinforcement Learning
 
 *   [DeepMind Lab (⭐7.1k)](https://github.com/deepmind/lab) - DeepMind Lab is a 3D learning environment based on id Software's Quake III Arena via ioquake3 and other open source software. Its primary purpose is to act as a testbed for research in artificial intelligence, especially deep reinforcement learning.
-*   [ViZDoom (⭐1.7k)](https://github.com/mwydmuch/ViZDoom) - ViZDoom allows developing AI bots that play Doom using only the visual information (the screen buffer). It is primarily intended for research in machine visual learning, and deep reinforcement learning, in particular.
+*   [ViZDoom (⭐1.8k)](https://github.com/mwydmuch/ViZDoom) - ViZDoom allows developing AI bots that play Doom using only the visual information (the screen buffer). It is primarily intended for research in machine visual learning, and deep reinforcement learning, in particular.
 
 ## [15. Guides](/content/NARKOZ/guides/week/README.md)
 
@@ -248,17 +248,9 @@
 
 ## [18. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
-### Resources / Podcasts
-
-*   [MW S04E08 - Vue.js with Evan You and Sarah Drasner (04-27-2017)](https://modernweb.podbean.com/e/mw-s04e09-evan-yu-sarah-drasner/)
-
 ### Resources / Books
 
 *   [Vue.js 2 Cookbook](https://www.packtpub.com/web-development/vuejs-2-cookbook) by Andrea Passaglia, Packt. (May 2017)
-
-### Components & Libraries / Utilities
-
-*   [vue-inject (⭐185)](https://github.com/jpex-js/vue-inject) - Dependency injection for Vue 2.x Components
 
 ## [19. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 

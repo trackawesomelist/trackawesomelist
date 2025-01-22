@@ -108,7 +108,6 @@ These following photography resources are those who have declared their own usag
 *   [Pic Jumbo](https://picjumbo.com/) - [:copyright:](https://picjumbo.com/faq-and-terms/) Totally free photos for your commercial & personal works.
 *   [Picography](https://picography.co/) - [:copyright:](https://picography.co/terms/) Free hi-resolution photos. Use them however you like.
 *   [Reshot](https://www.reshot.com/) - [:copyright:](https://www.reshot.com/license) Handpicked, non-stocky images. Yours to use as you wish.
-*   [Rawpixel](https://www.rawpixel.com/) - [:copyright:](https://www.rawpixel.com/free-image-license) Redefining stock imagery with authentically styled and unique stock photos (Subscribe required).
 *   [Shutteroo](http://shutteroo.com/) - [:copyright:](http://shutteroo.com/about/) Free high-resolution travel images.
 *   [Split Shire](https://www.splitshire.com/) - [:copyright:](https://www.splitshire.com/about/) Real photos for commercial use with no copyright restrictions and a real look.
 *   [Startup Stock Photos](http://startupstockphotos.com/) - [:copyright:](http://startupstockphotos.com/terms-of-use) Startup based photography.
@@ -171,7 +170,7 @@ A collection of resources which contain stock graphical elements which don't fit
 *   [FreeVectors.net](http://www.freeVectors.net) - [:copyright:](http://www.freevectors.net/terms) A fun little community of vector lovers who share free vector graphics.
 *   [Humaans](https://www.humaaans.com/) - [:copyright:](https://creativecommons.org/share-your-work/public-domain/cc0/) CC0 licensed clipart images of humans.
 *   [Logo Dust](http://logodust.com/) - [:copyright:](https://creativecommons.org/licenses/by/4.0/) Free CC Attribution 4.0 logo designs for your projects.
-*   [Mega Doodles Pack (⭐469)](https://github.com/MariaLetta/mega-doodles-pack) - [:copyright:](https://creativecommons.org/licenses/by-sa/4.0/) Free and big CC Attribution-ShareAlike 4.0 vector pack with hand-drawn doodles for presentations, social media, blog posts and so on.
+*   [Mega Doodles Pack (⭐496)](https://github.com/MariaLetta/mega-doodles-pack) - [:copyright:](https://creativecommons.org/licenses/by-sa/4.0/) Free and big CC Attribution-ShareAlike 4.0 vector pack with hand-drawn doodles for presentations, social media, blog posts and so on.
 *   [Open Doodles](https://www.opendoodles.com) - [:copyright:](http://creativecommons.org/publicdomain/zero/1.0/) CC-0-licensed vector sketches/cliparts with generator and compositions.
 *   [Sketch Repo](https://sketchrepo.com/) - [:copyright:](https://sketchrepo.com/about/) Sketch Repo is a great place to discover Sketch App resources for your next design project.
 *   [Vecteezy](https://www.vecteezy.com/) - [:copyright:](https://www.vecteezy.com/terms) Discover & download free vector art from a community of Illustrators.
@@ -242,7 +241,7 @@ A collection for icon font resources, most of which also include SVGs, which can
 *   [Octicons](https://octicons.github.com/) - [:copyright:](https://choosealicense.com/licenses/mit/) GitHub's Icons.
 *   [Open Iconic](https://useiconic.com/open) - [:copyright: (font)](http://scripts.sil.org/cms/scripts/page.php?item_id=OFL_web&_sc=1) [:copyright: (icons)](https://creativecommons.org/licenses/by-sa/3.0/) Icon set with 223 marks in SVG.
 *   [Pathlove Icons](https://pathlove.com/icons/) - [:copyright:](https://creativecommons.org/licenses/by-nc-nd/4.0/) 100+ cute and vibrant icons. Free for personal and commercial use; attribution required.
-*   [Simple Icons](https://simpleicons.org/) -[:copyright: (⭐19k)](https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md) Free SVG icons for popular brands.
+*   [Simple Icons](https://simpleicons.org/) -[:copyright: (⭐22k)](https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md) Free SVG icons for popular brands.
 *   [Social Stackicons](http://stackicons.com/) - [:copyright:](https://choosealicense.com/licenses/mit/) Icon set with over 60 social brands.
 *   [Standart](https://standart.io/) - Standart: free SVG icons for use in your project.
 *   [To icon](https://www.toicon.com/) - [:copyright:](https://www.toicon.com/license) Collection of SVG icons for your project.
@@ -257,11 +256,11 @@ A collection for SVG icon resources which can be used in your interface and webs
 
 *   [Atlas Icons](https://atlasicons.vectopus.com/) - [:copyright:](https://opensource.org/licenses/MIT) 2,701 free consistent icons.
 *   [BlendIcons](https://blendicons.com/) - [:copyright:](https://blendicons.com/page/licence) Free, world top icons.
-*   [Bootstrap Icons](https://icons.getbootstrap.com/) - [:copyright: (⭐7.3k)](https://github.com/twbs/icons/blob/main/LICENSE.md) Free, high quality, open source icon library with over 1,800 icons.
+*   [Bootstrap Icons](https://icons.getbootstrap.com/) - [:copyright: (⭐7.5k)](https://github.com/twbs/icons/blob/main/LICENSE.md) Free, high quality, open source icon library with over 1,800 icons.
 *   [Doodle Icons](https://khushmeen.com/icons.html) - [:copyright:](https://creativecommons.org/publicdomain/zero/1.0/) 400+ handcrafted icons free for your next project.
 *   [Entypo](http://www.entypo.com/) - [:copyright:](https://creativecommons.org/licenses/by-sa/3.0/) Carefully crafted iconset by [Daniel Bruce](http://www.danielbruce.se/).
 *   [Flowbite](https://flowbite.com/icons/) - [:copyright:](https://opensource.org/licenses/MIT) Free and open-source SVG icons.
-*   [Fluent UI System Icons (⭐5.7k)](https://github.com/microsoft/fluentui-system-icons) - [:copyright:](https://opensource.org/licenses/MIT) Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
+*   [Fluent UI System Icons (⭐6.2k)](https://github.com/microsoft/fluentui-system-icons) - [:copyright:](https://opensource.org/licenses/MIT) Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
 *   [Free Icons](https://www.iconshock.com/freeicons/) - A collection from all the open source icon collections available.
 *   [Free Icons](https://icons.download/) - [:copyright:](https://icons.download/license) Open-source vector icons in 16 styles for any project.
 *   [Game Icons](http://game-icons.net/) - [:copyright:](https://creativecommons.org/licenses/by/3.0/) A growing collection of SVG icons aimed mostly at video games.
@@ -271,9 +270,9 @@ A collection for SVG icon resources which can be used in your interface and webs
 *   [Iconmonstr](https://iconmonstr.com/) - [:copyright:](https://iconmonstr.com/license/) A huge selection of icons in SVG and PNG format.
 *   [Iconoir](https://iconoir.com/) - [:copyright:](https://opensource.org/licenses/MIT) A Simple and Definitive Open-Source Icons Library.
 *   [Lucide](https://lucide.dev/) - [:copyright:](https://lucide.dev/license) Beautiful & consistent icon toolkit made by the community.
-*   [Maps Icon (⭐2.1k)](https://github.com/djaiss/mapsicon) - [:copyright: (⭐2.1k)](https://github.com/djaiss/mapsicon#license) Mapsicon is a free collection of maps for nearly every country in the world, available in 11 different sizes, ranging from 16x16 pixels to 1024x1024 pixels, as well as .svg format.
+*   [Maps Icon (⭐2.2k)](https://github.com/djaiss/mapsicon) - [:copyright: (⭐2.2k)](https://github.com/djaiss/mapsicon#license) Mapsicon is a free collection of maps for nearly every country in the world, available in 11 different sizes, ranging from 16x16 pixels to 1024x1024 pixels, as well as .svg format.
 *   [Material Design Icons](https://www.materialui.co/icons) - A collections of free, material design style icons.
-*   [Simple Icons (⭐19k)](https://github.com/simple-icons/simple-icons) - [:copyright:](http://artlibre.org/licence/lal/en/) SVG icons for popular brands.
+*   [Simple Icons (⭐22k)](https://github.com/simple-icons/simple-icons) - [:copyright:](http://artlibre.org/licence/lal/en/) SVG icons for popular brands.
 *   [The Noun Project](https://thenounproject.com/) - [:copyright:](https://thenounproject.com/accounts/pricing/) Over 150,000 icons designed by creators from around the world. Free users must give credit to the creator.
 *   [Unicorn icons](https://unicornicons.com/) - [:copyright:](https://unicornicons.com/license) 100+ playful animated and customizable icons, available in JSON and SVG format.
 
@@ -281,8 +280,6 @@ A collection for SVG icon resources which can be used in your interface and webs
 
 A selection of websites offering color schemes.
 
-*   [0to255](http://www.0to255.com/) - A simple tool that helps web designers find variations of any color.
-*   [0xrgb](http://0xrgb.com/) - A minimalistic color picker for well-known palettes (Material, iOS, FlatUI, Metro, Tango, Solarized).
 *   [Bootflat](http://bootflat.github.io/color-picker.html) - Bootflat Flat UI color picker is a project digging the Flat Color Picker which gives you the perfect colors for flat designs.
 *   [Brand Colors](https://brandcolors.net/) - Official color codes for the world's biggest brands.
 *   [Branition Colors](https://branition.com/colors) - Hand-curated collection of color pallets best fitted for branding.

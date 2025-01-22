@@ -29,13 +29,13 @@
 
 ### Templates / Preferences
 
-*   [Liquid Pay Payment App (⭐303)](https://github.com/longhoang2984/flutter_payment_app_ui) <!--stargazers:longhoang2984/flutter_payment_app_ui--> - Liquid Pay App Concept by [Long Hoang](https://github.com/longhoang2984)
+*   [Liquid Pay Payment App (⭐309)](https://github.com/longhoang2984/flutter_payment_app_ui) <!--stargazers:longhoang2984/flutter_payment_app_ui--> - Liquid Pay App Concept by [Long Hoang](https://github.com/longhoang2984)
 
 ## [3. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Chat
 
-*   [InputBarAccessoryView (⭐1.1k)](https://github.com/nathantannar4/InputBarAccessoryView) - A simple and easily customizable InputAccessoryView for making powerful input bars with autocomplete and attachments.
+*   [InputBarAccessoryView (⭐1.2k)](https://github.com/nathantannar4/InputBarAccessoryView) - A simple and easily customizable InputAccessoryView for making powerful input bars with autocomplete and attachments.
 
 ## [4. Motion Ui Design](/content/fliptheweb/motion-ui-design/README.md)
 
@@ -208,7 +208,7 @@
 
 ### no-std crates / WIP
 
-*   [OxCC (⭐18)](https://github.com/jonlamb-gh/oxcc): A port of Open Source Car Control written in Rust
+*   [OxCC (⭐20)](https://github.com/jonlamb-gh/oxcc): A port of Open Source Car Control written in Rust
 
 ## [6. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
 

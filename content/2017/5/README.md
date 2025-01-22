@@ -53,7 +53,7 @@
 
 ### Articles • Tutorials / Shaders • OpenGL • WebGL
 
-*   [Three glslify example (⭐77)](https://github.com/mattdesl/three-glslify-example) - Example on how to use three.js with glslify.
+*   [Three glslify example (⭐78)](https://github.com/mattdesl/three-glslify-example) - Example on how to use three.js with glslify.
 
 ### Interactive / Other
 
@@ -212,7 +212,7 @@
 
 ### Scala / Data Analysis / Data Visualization
 
-*   [Hydrosphere Mist (⭐327)](https://github.com/Hydrospheredata/mist) - a service for deployment Apache Spark MLLib machine learning models as realtime, batch or reactive web services.
+*   [Hydrosphere Mist (⭐326)](https://github.com/Hydrospheredata/mist) - a service for deployment Apache Spark MLLib machine learning models as realtime, batch or reactive web services.
 
 ## [14. Awesome Lua](/content/LewisJEllis/awesome-lua/week/README.md)
 
@@ -224,12 +224,12 @@
 
 ### Courses
 
-*   [Udacity's Self Driving Car Engineer Course (⭐6.1k)](https://github.com/udacity/self-driving-car) - The content for Udacity's self driving car software engineer course. The actual course on Udacity's website is [here](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013).
+*   [Udacity's Self Driving Car Engineer Course (⭐6.2k)](https://github.com/udacity/self-driving-car) - The content for Udacity's self driving car software engineer course. The actual course on Udacity's website is [here](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013).
 
 ### Miscellaneous / Episodes
 
-*   [Open Vehicle Monitoring System (⭐291)](https://github.com/openvehicles/Open-Vehicle-Monitoring-System) - A community project building a hardware module for your car, a server to talk to it, and a mobile app to talk to the server, in order to allow developers and enthusiasts to add more functionality to their car and control it remotely.
-*   [Open Source Car Control Project (⭐953)](https://github.com/PolySync/OSCC) - The Open Source Car Control Project is a hardware and software project detailing the conversion of a late model vehicle into an autonomous driving research and development vehicle.
+*   [Open Vehicle Monitoring System (⭐312)](https://github.com/openvehicles/Open-Vehicle-Monitoring-System) - A community project building a hardware module for your car, a server to talk to it, and a mobile app to talk to the server, in order to allow developers and enthusiasts to add more functionality to their car and control it remotely.
+*   [Open Source Car Control Project (⭐979)](https://github.com/PolySync/OSCC) - The Open Source Car Control Project is a hardware and software project detailing the conversion of a late model vehicle into an autonomous driving research and development vehicle.
 
 ### Applications / Episodes
 
@@ -302,13 +302,13 @@
 
 ### CLI Builders
 
-*   [admiral (⭐135)](https://github.com/jwaldrip/admiral.cr) - A robust DSL for writing command line interfaces
+*   [admiral (⭐138)](https://github.com/jwaldrip/admiral.cr) - A robust DSL for writing command line interfaces
 
 ## [22. Awesome Selenium](/content/christian-bromann/awesome-selenium/week/README.md)
 
 ### Tools / PHP
 
-*   [Steward (⭐220)](https://github.com/lmc-eu/steward) - A test runner integrating php-webdriver with PHPUnit.
+*   [Steward (⭐221)](https://github.com/lmc-eu/steward) - A test runner integrating php-webdriver with PHPUnit.
 
 ### Tools / Groovy
 
@@ -318,7 +318,7 @@
 
 ### Containers
 
-*   [Hopscotch map (⭐723)](https://github.com/Tessil/hopscotch-map) - A fast header-only hash map which uses hopscotch hashing for collisions resolution. \[MIT]
+*   [Hopscotch map (⭐733)](https://github.com/Tessil/hopscotch-map) - A fast header-only hash map which uses hopscotch hashing for collisions resolution. \[MIT]
 
 ## [24. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
 
@@ -497,7 +497,7 @@ Webpage: <http://www.fuglen.com/japanese/>
 ### CAD Specific / Eagle
 
 *   [Adafruit Eagle Library (⭐1k)](https://github.com/adafruit/Adafruit-Eagle-Library)
-*   [SparkFun Electronics Eagle Libraries (⭐1.7k)](https://github.com/sparkfun/SparkFun-Eagle-Libraries)
+*   [SparkFun Electronics Eagle Libraries (⭐1.8k)](https://github.com/sparkfun/SparkFun-Eagle-Libraries)
 
 ### PCB Batching Services / Altium
 
@@ -514,17 +514,17 @@ Webpage: <http://www.fuglen.com/japanese/>
 
 ### Web Frameworks
 
-*   [Knot.x (⭐127)](https://github.com/Cognifide/knotx) - Efficient & high-performance integration platform for modern websites built on Vert.x 3.
+*   [Knot.x (⭐126)](https://github.com/Cognifide/knotx) - Efficient & high-performance integration platform for modern websites built on Vert.x 3.
 
 ## [41. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Geolocation
 
-*   [topo (⭐149)](https://github.com/pkinney/topo) - A Geometry library for Elixir that calculates spatial relationships between two geometries.
+*   [topo (⭐158)](https://github.com/pkinney/topo) - A Geometry library for Elixir that calculates spatial relationships between two geometries.
 
 ### Languages
 
-*   [Monkey (⭐136)](https://github.com/fabrik42/writing_an_interpreter_in_elixir) - Elixir implementation of an interpreter and REPL for the js-like Monkey programming language.
+*   [Monkey (⭐139)](https://github.com/fabrik42/writing_an_interpreter_in_elixir) - Elixir implementation of an interpreter and REPL for the js-like Monkey programming language.
 
 ### Miscellaneous
 

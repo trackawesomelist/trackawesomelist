@@ -45,7 +45,7 @@
 
 ### Developer Tools / Databases
 
-*   [Navicat Data Modeler](https://www.navicat.com/en/products/navicat-data-modeler) - Powerful and cost-effective database design tool which helps you build high-quality conceptual, logical and physical data models.
+*   [Navicat Data Modeler](https://www.navicat.com/en/products/navicat-data-modeler) - Cost-effective database design tool for high-quality data models.
 
 ### Design and Product / Design Tools
 

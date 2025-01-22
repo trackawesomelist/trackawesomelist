@@ -10,28 +10,28 @@
 
 ### Science Logology / Laboratory Automation
 
-*   [Digitization and validation of a chemical synthesis literature database in the ChemPU](https://www.science.org/doi/full/10.1126/science.abo0058) - ***Science***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=17368503277308594977)]. \[[Preprint](https://www.researchgate.net/profile/Aamir-Khan/publication/361857872_Digitization_and_validation_of_a_chemical_synthesis_literature_database_in_the_ChemPU/links/62cd356d00d0b451104cbfe9/Digitization-and-validation-of-a-chemical-synthesis-literature-database-in-the-ChemPU.pdf)]. This paper presents an automatically executable chemical reaction database of 100 molecules representative of the range of reactions found in contemporary organic synthesis. The chemical reaction codes or χDLs for the reactions have been stored in a database for version control, validation, collaboration, and data mining. Of these syntheses, more than 50 entries from the database have been downloaded and robotically run in seven modular chemputers with yields and purities comparable to those achieved by an expert chemist.
+*   [Digitization and validation of a chemical synthesis literature database in the ChemPU](https://www.science.org/doi/full/10.1126/science.abo0058) - ***Science***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=17368503277308594977)]. \[[Preprint](https://www.researchgate.net/profile/Aamir-Khan/publication/361857872_Digitization_and_validation_of_a_chemical_synthesis_literature_database_in_the_ChemPU/links/62cd356d00d0b451104cbfe9/Digitization-and-validation-of-a-chemical-synthesis-literature-database-in-the-ChemPU.pdf)]. This paper presents an automatically executable chemical reaction database of 100 molecules representative of the range of reactions found in contemporary organic synthesis. The chemical reaction codes or χDLs for the reactions have been stored in a database for version control, validation, collaboration, and data mining. Of these syntheses, more than 50 entries from the database have been downloaded and robotically run in seven modular chemputers with yields and purities comparable to those achieved by an expert chemist.
 
 ## [2. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Emulators
 
 *   Nintendo 64
-    *   [gopher64 (⭐85)](https://github.com/gopher64/gopher64) - N64 emulator written in Rust
+    *   [gopher64 (⭐107)](https://github.com/gopher64/gopher64) - N64 emulator written in Rust
 
 ## [3. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### File Explorer / Diagnostics
 
-*   [prichrd/netrw.nvim (⭐205)](https://github.com/prichrd/netrw.nvim) - Add icons and custom keybindings to netrw.
+*   [prichrd/netrw.nvim (⭐227)](https://github.com/prichrd/netrw.nvim) - Add icons and custom keybindings to netrw.
 
 ### Utility / Diagnostics
 
-*   [terje/simctl.nvim (⭐27)](https://github.com/terje/simctl.nvim) - Interact with iOS Simulators.
+*   [terje/simctl.nvim (⭐29)](https://github.com/terje/simctl.nvim) - Interact with iOS Simulators.
 
 ### Git / Diagnostics
 
-*   [echasnovski/mini.nvim#mini.diff (⭐4.7k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-diff.md) - Module of `mini.nvim` to interactively visualize difference between buffer text and its reference. Provides toggleable detailed overview in text area, built-in apply/reset/textobject/goto mappings, and more.
+*   [echasnovski/mini.nvim#mini.diff (⭐6.2k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-diff.md) - Module of `mini.nvim` to interactively visualize difference between buffer text and its reference. Provides toggleable detailed overview in text area, built-in apply/reset/textobject/goto mappings, and more.
 
 ---
 

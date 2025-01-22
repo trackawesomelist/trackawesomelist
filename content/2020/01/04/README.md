@@ -10,7 +10,7 @@
 
 ### Static Analysis / Linting
 
-*   [Show and auto-fix linting errors for many programming languages (⭐405)](https://github.com/samuelmeuli/lint-action)
+*   [Show and auto-fix linting errors for many programming languages (⭐565)](https://github.com/samuelmeuli/lint-action)
 
 ## [2. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
@@ -21,7 +21,7 @@
 
 ### Machine Learning
 
-*   [Cadmium (⭐202)](https://github.com/cadmiumcr/cadmium) - NLP library based heavily on [natural (⭐11k)](https://github.com/NaturalNode/natural)
+*   [Cadmium (⭐205)](https://github.com/cadmiumcr/cadmium) - NLP library based heavily on [natural (⭐11k)](https://github.com/NaturalNode/natural)
 
 ## [3. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 
@@ -33,7 +33,7 @@
 
 ### HAL implementation crates / STMicroelectronics
 
-*   [`stm32f3xx-hal`](https://crates.io/crates/stm32f3xx-hal) - ![crates.io](https://img.shields.io/crates/v/stm32f3xx-hal.svg)
+*   [`stm32f3xx-hal`](https://crates.io/crates/stm32f3xx-hal) - [![crates.io](https://img.shields.io/crates/v/stm32f3xx-hal.svg)](https://crates.io/crates/stm32f3xx-hal)
 
 ## [5. Awesome Research](/content/emptymalei/awesome-research/README.md)
 

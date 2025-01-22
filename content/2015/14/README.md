@@ -122,7 +122,7 @@
 
 ### Programming Languages / JavaScript
 
-*   [Airbnb JavaScript Style Guide (⭐143k)](https://github.com/airbnb/javascript#readme)
+*   [Airbnb JavaScript Style Guide (⭐145k)](https://github.com/airbnb/javascript#readme)
 *   [JavaScript: The Right Way](http://jstherightway.org/)
 *   [ES6 Coding Style (⭐399)](https://github.com/elierotenberg/coding-styles/blob/master/es6.md#readme)
 
@@ -150,7 +150,7 @@
 
 ### UI / Barcode
 
-*   [KMPlaceholderTextView (⭐804)](https://github.com/MoZhouqi/KMPlaceholderTextView) - A UITextView subclass that adds support for multiline placeholder.
+*   [KMPlaceholderTextView (⭐805)](https://github.com/MoZhouqi/KMPlaceholderTextView) - A UITextView subclass that adds support for multiline placeholder.
 
 ## [10. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
 
@@ -214,7 +214,7 @@
 
 ### Cloud
 
-*   [AWS SDK for Ruby (⭐3.5k)](https://github.com/aws/aws-sdk-ruby) - The official AWS SDK for Ruby.
+*   [AWS SDK for Ruby (⭐3.6k)](https://github.com/aws/aws-sdk-ruby) - The official AWS SDK for Ruby.
 
 ### DevOps Tools
 
@@ -226,13 +226,13 @@
 
 ### Queues and Messaging
 
-*   [Sneakers (⭐2.2k)](https://github.com/jondot/sneakers) - A fast background processing framework for Ruby and RabbitMQ.
+*   [Sneakers (⭐2.3k)](https://github.com/jondot/sneakers) - A fast background processing framework for Ruby and RabbitMQ.
 
 ## [14. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Applications
 
-*   [tty2048 (⭐155)](https://github.com/lexmag/tty2048) - Terminal-based 2048 game written in Elixir.
+*   [tty2048 (⭐156)](https://github.com/lexmag/tty2048) - Terminal-based 2048 game written in Elixir.
 
 ### Files and Directories
 
@@ -245,17 +245,17 @@
 
 ### Testing
 
-*   [espec (⭐806)](https://github.com/antonmi/espec) - BDD test framework for Elixir inspired by RSpec.
+*   [espec (⭐808)](https://github.com/antonmi/espec) - BDD test framework for Elixir inspired by RSpec.
 
 ## [15. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Filesystem
 
-*   [istextorbinary (⭐146)](https://github.com/bevry/istextorbinary) - Check if a file is text or binary.
+*   [istextorbinary (⭐148)](https://github.com/bevry/istextorbinary) - Check if a file is text or binary.
 
 ### Packages / Network
 
-*   [getmac (⭐351)](https://github.com/bevry/getmac) - Get the computer MAC address.
+*   [getmac (⭐358)](https://github.com/bevry/getmac) - Get the computer MAC address.
 
 ## [16. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 

@@ -10,7 +10,7 @@
 
 ### Contents / High-Availability
 
-*   [pglookout (⭐182)](https://github.com/aiven/pglookout) - Replication monitoring and failover daemon.
+*   [pglookout (⭐183)](https://github.com/aiven/pglookout) - Replication monitoring and failover daemon.
 
 ### Contents / Backups
 
@@ -38,7 +38,7 @@
 ### Contents / Utilities
 
 *   [PostgREST (⭐23k)](https://github.com/PostgREST/postgrest) - Serves a fully RESTful API from any existing PostgreSQL database.
-*   [sqitch (⭐2.7k)](https://github.com/sqitchers/sqitch) - Tool for managing versioned schema deployment
+*   [sqitch (⭐2.8k)](https://github.com/sqitchers/sqitch) - Tool for managing versioned schema deployment
 
 ### Contents / Language bindings
 
@@ -58,7 +58,7 @@
 
 ### Generators / Apache License
 
-*   [svd2ada (⭐63)](https://github.com/AdaCore/svd2ada) - An Ada binding generator from SVD descriptions for bare board ARM devices.
+*   [svd2ada (⭐65)](https://github.com/AdaCore/svd2ada) - An Ada binding generator from SVD descriptions for bare board ARM devices.
 
 ## [3. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 

@@ -111,7 +111,7 @@
 
 ### Examples
 
-*   [gowebly/gowebly (⭐779)](https://github.com/gowebly/gowebly#readme) - Clean project banner with logo. Useful badges and links (languages switcher, test cover, docs). Clear description of what the project does with quickstart, understandable feature list, links to the introduction video and article, well-documented CLI command examples, project philosophy notes ("motivation to create"), tables with project components, links to addons and helpers, list of stargazers, and more.
+*   [gowebly/gowebly (⭐1.1k)](https://github.com/gowebly/gowebly#readme) - Clean project banner with logo. Useful badges and links (languages switcher, test cover, docs). Clear description of what the project does with quickstart, understandable feature list, links to the introduction video and article, well-documented CLI command examples, project philosophy notes ("motivation to create"), tables with project components, links to addons and helpers, list of stargazers, and more.
 
 ## [4. Web Development Resources](/content/markodenic/web-development-resources/README.md)
 
@@ -125,7 +125,7 @@
 
 ### Search / Diagnostics
 
-*   [nvimdev/hlsearch.nvim (⭐69)](https://github.com/nvimdev/hlsearch.nvim) - Auto remove search highlight and rehighlight when using n or N.
+*   [nvimdev/hlsearch.nvim (⭐75)](https://github.com/nvimdev/hlsearch.nvim) - Auto remove search highlight and rehighlight when using n or N.
 
 ## [6. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 

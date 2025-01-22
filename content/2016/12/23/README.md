@@ -120,7 +120,7 @@
 
 ### Serialization
 
-*   [Hyperion (⭐277)](https://github.com/akkadotnet/Hyperion) - A high performance polymorphic serializer for the .NET framework.
+*   [Hyperion (⭐276)](https://github.com/akkadotnet/Hyperion) - A high performance polymorphic serializer for the .NET framework.
 
 ### Source Generator
 

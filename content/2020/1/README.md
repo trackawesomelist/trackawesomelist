@@ -10,7 +10,7 @@
 
 ### Productivity / Time Tracking
 
-*   [utt (⭐305)](https://github.com/larose/utt) - Simple time tracking tool.
+*   [utt (⭐330)](https://github.com/larose/utt) - Simple time tracking tool.
 
 ## [2. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md)
 
@@ -34,11 +34,11 @@
 
 ### Static Analysis / Linting
 
-*   [Show and auto-fix linting errors for many programming languages (⭐405)](https://github.com/samuelmeuli/lint-action)
+*   [Show and auto-fix linting errors for many programming languages (⭐565)](https://github.com/samuelmeuli/lint-action)
 
 ### Static Analysis / Security
 
-*   [Run dlint security linter on your Python code (⭐2)](https://github.com/xen0l/dlint-check)
+*   [Run dlint security linter on your Python code (⭐3)](https://github.com/xen0l/dlint-check)
 
 ## [6. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
@@ -50,11 +50,11 @@
 
 ### HAL implementation crates / STMicroelectronics
 
-*   [`stm32f3xx-hal`](https://crates.io/crates/stm32f3xx-hal) - ![crates.io](https://img.shields.io/crates/v/stm32f3xx-hal.svg)
+*   [`stm32f3xx-hal`](https://crates.io/crates/stm32f3xx-hal) - [![crates.io](https://img.shields.io/crates/v/stm32f3xx-hal.svg)](https://crates.io/crates/stm32f3xx-hal)
 
 ### Component abstraction crates / Other
 
-*   [`radio`](https://github.com/ryankurte/rust-radio) - Generic radio transceiver traits, mocks, and helpers - ![crates.io](https://img.shields.io/crates/v/radio.svg)
+*   [`radio`](https://github.com/ryankurte/rust-radio) - Generic radio transceiver traits, mocks, and helpers - [![crates.io](https://img.shields.io/crates/v/radio.svg)](https://crates.io/crates/radio)
 
 ## [8. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
 
@@ -82,7 +82,7 @@
 
 ### Development Projects / APIs
 
-*   [Kotlin-Pokedex (⭐1.3k)](https://github.com/mrcsxsiq/Kotlin-Pokedex) - Pokedex app built with Kotlin.
+*   [Kotlin-Pokedex (⭐1.5k)](https://github.com/mrcsxsiq/Kotlin-Pokedex) - Pokedex app built with Kotlin.
 
 ## [11. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
@@ -94,18 +94,18 @@
 
 ### Resources
 
-*   [Lecture](https://www.youtube.com/watch?v=y9kSr5enrSk) - Oh No! More Modern CMake ([slides (⭐155)](https://github.com/Bagira80/More-Modern-CMake/raw/master/OhNoMoreModernCMake.pdf))- by Deniz Bahadir, Meeting C++ 2019.
+*   [Lecture](https://www.youtube.com/watch?v=y9kSr5enrSk) - Oh No! More Modern CMake ([slides (⭐168)](https://github.com/Bagira80/More-Modern-CMake/raw/master/OhNoMoreModernCMake.pdf))- by Deniz Bahadir, Meeting C++ 2019.
 
 ## [13. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
 ### Cartridges / Custom cartridges
 
-*   [Gameboy-MBC5-MBC1-Hybrid (⭐46)](https://github.com/insidegadgets/Gameboy-MBC5-MBC1-Hybrid) - CPLD implementation of a MBC5/MBC1 Hybrid cartridge.
+*   [Gameboy-MBC5-MBC1-Hybrid (⭐49)](https://github.com/insidegadgets/Gameboy-MBC5-MBC1-Hybrid) - CPLD implementation of a MBC5/MBC1 Hybrid cartridge.
 
 ### Related projects / Syntax highlighting packages
 
-*   [GBCartRead (⭐58)](https://github.com/insidegadgets/GBCartRead) - Read ROM, Read RAM or Write RAM from/to a GameBoy Cartridge.
-*   [GBxCart-RW (⭐85)](https://github.com/insidegadgets/GBxCart-RW) - A device for reading game ROMs, save games and restoring saves for GB, GBC and GBA carts from your PC via USB.
+*   [GBCartRead (⭐65)](https://github.com/insidegadgets/GBCartRead) - Read ROM, Read RAM or Write RAM from/to a GameBoy Cartridge.
+*   [GBxCart-RW (⭐95)](https://github.com/insidegadgets/GBxCart-RW) - A device for reading game ROMs, save games and restoring saves for GB, GBC and GBA carts from your PC via USB.
 
 ## [14. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
@@ -117,7 +117,7 @@
 
 ### Official Resources
 
-*   [Source code (⭐6.3k)](https://github.com/gatling/gatling)
+*   [Source code (⭐6.4k)](https://github.com/gatling/gatling)
 
 ### Getting Started
 
@@ -132,19 +132,19 @@
 
 ### Tools / Plugins
 
-*   [gatling-grpc (⭐126)](https://github.com/phiSgr/gatling-grpc) - Gatling load test plugin for gRPC.
+*   [gatling-grpc (⭐127)](https://github.com/phiSgr/gatling-grpc) - Gatling load test plugin for gRPC.
 *   [gatling-aws (⭐11)](https://github.com/callistaenterprise/gatling-aws) - Gatling custom protocol for AWS Lambda.
 *   [gatling-xmpp-protocol (⭐4)](https://github.com/TLmaK0/gatling-xmpp-protocol) - XMPP protocol for stress test XMPP servers with Gatling.
 
 ### Related / Awesome Lists
 
-*   [Awesome Testing (⭐1.7k)](https://github.com/TheJambo/awesome-testing) - A curated list of testing resources.
+*   [Awesome Testing (⭐1.8k)](https://github.com/TheJambo/awesome-testing) - A curated list of testing resources.
 
 ## [16. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Tools
 
-*   [hash-set (⭐16)](https://github.com/samebchase/hash-set/) - a convenience library implementing hash sets on top of CL hash tables [The Unlicense](http://unlicense.org/)
+*   [hash-set (⭐17)](https://github.com/samebchase/hash-set/) - a convenience library implementing hash sets on top of CL hash tables [The Unlicense](http://unlicense.org/)
 *   [cl-containers](https://common-lisp.net/project/cl-containers/) - an extensive library of data structures and utilities - queues, trees, heaps, doubly-linked lists, sets, bags,... [MIT](https://opensource.org/licenses/MIT)
 
 ## [17. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
@@ -187,27 +187,27 @@
 
 ### Software / Automation
 
-*   [Huginn (⭐43k)](https://github.com/huginn/huginn) - Allows you to build agents that monitor and act on your behalf. `MIT` `Ruby`
+*   [Huginn (⭐44k)](https://github.com/huginn/huginn) - Allows you to build agents that monitor and act on your behalf. `MIT` `Ruby`
 
 ### Software / Groupware
 
-*   [Corteza](https://cortezaproject.org) - CRM including a unified workspace, enterprise messaging and a low code environment for rapidly and securely delivering records-based management solutions. ([Demo](https://latest.cortezaproject.org), [Source Code (⭐1.5k)](https://github.com/cortezaproject/corteza)) `Apache-2.0` `Go`
+*   [Corteza](https://cortezaproject.org) - CRM including a unified workspace, enterprise messaging and a low code environment for rapidly and securely delivering records-based management solutions. ([Demo](https://latest.cortezaproject.org), [Source Code (⭐1.7k)](https://github.com/cortezaproject/corteza)) `Apache-2.0` `Go`
 
 ## [22. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### Schema / Code generation
 
-*   [scheme2ddl (⭐81)](https://github.com/qwazer/scheme2ddl) - Command line util for export Oracle schema to set of ddl init scripts with ability to filter undesirable information, separate DDL in different files, pretty format output.
+*   [scheme2ddl (⭐83)](https://github.com/qwazer/scheme2ddl) - Command line util for export Oracle schema to set of ddl init scripts with ability to filter undesirable information, separate DDL in different files, pretty format output.
 
 ### API / Samples
 
-*   [restSQL (⭐144)](https://github.com/restsql/restsql) - SQL generator with Java and HTTP APIs, uses a simple RESTful HTTP API with XML or JSON serialization.
+*   [restSQL (⭐147)](https://github.com/restsql/restsql) - SQL generator with Java and HTTP APIs, uses a simple RESTful HTTP API with XML or JSON serialization.
 
 ## [23. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### CLI
 
-*   [tabulate (⭐1.9k)](https://github.com/p-ranav/tabulate) - Table Maker for Modern C++. \[MIT]
+*   [tabulate (⭐2k)](https://github.com/p-ranav/tabulate) - Table Maker for Modern C++. \[MIT]
 
 ## [24. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
@@ -257,11 +257,11 @@
 
 ### Table of Contents / Static Analysis
 
-*   [PHP Architecture Tester (⭐1k)](https://github.com/carlosas/phpat) - Easy-to-use architecture testing tool for PHP.
+*   [PHP Architecture Tester (⭐1.1k)](https://github.com/carlosas/phpat) - Easy-to-use architecture testing tool for PHP.
 
 ### Configuration / Miscellaneous
 
-*   [Safe (⭐2.3k)](https://github.com/thecodingmachine/safe) - All PHP functions, rewritten to throw exceptions instead of returning false.
+*   [Safe (⭐2.4k)](https://github.com/thecodingmachine/safe) - All PHP functions, rewritten to throw exceptions instead of returning false.
 
 ## [28. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
@@ -291,7 +291,7 @@
 
 ### Related / `pre` and `post` scripts
 
-*   [awesome-nodejs (⭐53k)](https://github.com/sindresorhus/awesome-nodejs)
+*   [awesome-nodejs (⭐58k)](https://github.com/sindresorhus/awesome-nodejs)
 
 ## [31. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
@@ -311,11 +311,11 @@
 
 ### Packages / HTTP
 
-*   [global-agent (⭐357)](https://github.com/gajus/global-agent) - Global HTTP/HTTPS proxy agent that is configurable using environment variables.
+*   [global-agent (⭐364)](https://github.com/gajus/global-agent) - Global HTTP/HTTPS proxy agent that is configurable using environment variables.
 
 ### Packages / Security
 
-*   [jose-simple (⭐62)](https://github.com/davesag/jose-simple) - Encryption and decryption of data using the JOSE (JSON Object Signing and Encryption) standard.
+*   [jose-simple (⭐64)](https://github.com/davesag/jose-simple) - Encryption and decryption of data using the JOSE (JSON Object Signing and Encryption) standard.
 
 ## [33. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
@@ -356,7 +356,7 @@
 
 ### Table of Contents / IoT
 
-*   [Apache StreamPipes (⭐583)](https://github.com/apache/incubator-streampipes) \[Java] - a self-service (Industrial) IoT toolbox to enable non-technical users to connect, analyze and explore IoT data streams.
+*   [Apache StreamPipes (⭐617)](https://github.com/apache/incubator-streampipes) \[Java] - a self-service (Industrial) IoT toolbox to enable non-technical users to connect, analyze and explore IoT data streams.
 
 ## [38. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
@@ -393,20 +393,20 @@
 
 ### Debugging
 
-*   🍰 [Setup plugin (⭐34)](https://github.com/dereuromark/cakephp-setup) - A lightweight setup plugin containing debugging and maintenance tools.
+*   [Setup plugin (⭐34)](https://github.com/dereuromark/cakephp-setup) - A lightweight setup plugin containing debugging and maintenance tools.
 
 ### Miscellaneous
 
-*   🍰 [Calendar plugin (⭐16)](https://github.com/dereuromark/cakephp-calendar) - For generating basic calendars. Includes IcalView for ICS calendar file generation.
-*   🍰 [Feedback plugin (⭐6)](https://github.com/dereuromark/cakephp-feedback) - Allow visitors to send quick and easy feedback incl. a screenshot via sidebar form.
+*   [Calendar plugin (⭐16)](https://github.com/dereuromark/cakephp-calendar) - For generating basic calendars. Includes IcalView for ICS calendar file generation.
+*   [Feedback plugin (⭐6)](https://github.com/dereuromark/cakephp-feedback) - Allow visitors to send quick and easy feedback incl. a screenshot via sidebar form.
 
 ### ORM / Database / Datamapping
 
-*   🍰 [CakeDecimal plugin (⭐8)](https://github.com/dereuromark/cakephp-decimal) - A value object approach on handling decimals.
+*   [CakeDecimal plugin (⭐8)](https://github.com/dereuromark/cakephp-decimal) - A value object approach on handling decimals.
 
 ### Templating
 
-*   🍰 [Feed plugin (⭐13)](https://github.com/dereuromark/cakephp-feed) - Containing an RssView class to easily generate (complex) RSS feeds.
+*   [Feed plugin (⭐13)](https://github.com/dereuromark/cakephp-feed) - Containing an RssView class to easily generate (complex) RSS feeds.
 
 ## [42. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
@@ -417,7 +417,7 @@
 
 ### Machine Learning
 
-*   [Cadmium (⭐202)](https://github.com/cadmiumcr/cadmium) - NLP library based heavily on [natural (⭐11k)](https://github.com/NaturalNode/natural)
+*   [Cadmium (⭐205)](https://github.com/cadmiumcr/cadmium) - NLP library based heavily on [natural (⭐11k)](https://github.com/NaturalNode/natural)
 
 ### Misc
 
@@ -434,8 +434,8 @@
 ### Tooling / Frameworks
 
 *   [cargo-web (⭐1.1k)](https://github.com/koute/cargo-web) - A Cargo subcommand for the client-side Web.
-*   [wabt (⭐6.4k)](https://github.com/WebAssembly/wabt) - The WebAssembly Binary Toolkit, for the `wasm-strip` and `wasm-objdump` tools to reduce .wasm file size.
-*   [binaryen (⭐7.1k)](https://github.com/WebAssembly/binaryen) - Compiler infrastructure and toolchain library for WebAssembly, for the `wasm-opt` tool to reduce .wasm file size.
+*   [wabt (⭐7k)](https://github.com/WebAssembly/wabt) - The WebAssembly Binary Toolkit, for the `wasm-strip` and `wasm-objdump` tools to reduce .wasm file size.
+*   [binaryen (⭐7.6k)](https://github.com/WebAssembly/binaryen) - Compiler infrastructure and toolchain library for WebAssembly, for the `wasm-opt` tool to reduce .wasm file size.
 
 ### Books / Frameworks
 
@@ -444,7 +444,7 @@
 
 ### Alternatives / Frameworks
 
-*   [Percy (⭐2.2k)](https://github.com/chinedufn/percy) - A modular toolkit for building isomorphic web apps with Rust + WebAssembly.
+*   [Percy (⭐2.3k)](https://github.com/chinedufn/percy) - A modular toolkit for building isomorphic web apps with Rust + WebAssembly.
 *   [Seed (⭐3.8k)](https://github.com/seed-rs/seed) - A Rust framework for creating web apps.
 *   [Smithy (⭐350)](https://github.com/rbalicki2/smithy) - A framework for building WebAssembly apps in Rust.
 
@@ -452,11 +452,11 @@
 
 ### Graphics
 
-*   [AnimatedGradientView (⭐449)](https://github.com/rwbutler/AnimatedGradientView) - A simple framework to add animated gradients to your iOS app.
+*   [AnimatedGradientView (⭐457)](https://github.com/rwbutler/AnimatedGradientView) - A simple framework to add animated gradients to your iOS app.
 
 ### Button
 
-*   [FloatingButton (⭐1.1k)](https://github.com/exyte/FloatingButton) - Easily customizable floating button menu created with SwiftUI.
+*   [FloatingButton (⭐1.2k)](https://github.com/exyte/FloatingButton) - Easily customizable floating button menu created with SwiftUI.
 
 ## [46. Public Apis](/content/public-apis/public-apis/week/README.md)
 

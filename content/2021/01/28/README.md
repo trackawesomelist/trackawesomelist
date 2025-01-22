@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 28, 2021
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -53,9 +53,9 @@ Language: English, język polski, Rumanian, 한국어, Deutsch, 中文, italiano
 
 ## [2. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
-### Plugins and scripts / Various Godot versions
+### Plugins and scripts / Godot 4
 
-*   [HTerrain (⭐1.7k)](https://github.com/Zylann/godot_heightmap_plugin) - Heightmap-based terrain. Supports texture painting, colouring, holes, level of detail and grass (Godot 3.x, 4.x).
+*   [HTerrain (⭐1.8k)](https://github.com/Zylann/godot_heightmap_plugin) - Heightmap-based terrain. Supports texture painting, colouring, holes, level of detail and grass. *(Godot 3 and 4)*
 
 ## [3. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
@@ -75,26 +75,19 @@ Language: English, język polski, Rumanian, 한국어, Deutsch, 中文, italiano
 
 *   [Molasses](https://www.molasses.app) - Powerful feature flags and A/B testing. Free up to 3 environments with five feature flags each.
 
-## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Resources / Examples
-
-*   [vue3-webpack (⭐26)](https://github.com/boussadjra/vue3-webpack) vue 3 + webpack 4 starter.
-*   [laravel-vue-3-starter (⭐61)](https://github.com/boussadjra/laravel-vue-3-starter) a pre-configured project using Laravel 8 and Vue 3.
-
-## [7. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [6. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / Neural Networks
 
-*   [sequitur (⭐419)](https://github.com/shobrook/sequitur) PyTorch library for creating and training sequence autoencoders in just two lines of code
+*   [sequitur (⭐435)](https://github.com/shobrook/sequitur) PyTorch library for creating and training sequence autoencoders in just two lines of code
 
-## [8. Awesome PICO 8](/content/pico-8/awesome-PICO-8/README.md)
+## [7. Awesome PICO 8](/content/pico-8/awesome-PICO-8/README.md)
 
 ### Contents / Text Editors Language Support
 
 *   Emacs: [pico8-mode (⭐26)](https://github.com/Kaali/pico8-mode)
 
-## [9. Awesome Analytics](/content/newTendermint/awesome-analytics/README.md)
+## [8. Awesome Analytics](/content/newTendermint/awesome-analytics/README.md)
 
 ### General analytics
 

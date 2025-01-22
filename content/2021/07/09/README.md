@@ -22,31 +22,30 @@
 
 ### Software / Archiving and Digital Preservation (DP)
 
-*   [ArchiveBox](https://archivebox.io/) - Self-hosted *wayback machine* that creates HTML & screenshot archives of sites from your bookmarks, browsing history, RSS feeds, or other sources. ([Source Code (⭐21k)](https://github.com/ArchiveBox/ArchiveBox)) `MIT` `Python/Docker`
+*   [ArchiveBox](https://archivebox.io/) - Self-hosted *wayback machine* that creates HTML & screenshot archives of sites from your bookmarks, browsing history, RSS feeds, or other sources. ([Source Code (⭐23k)](https://github.com/ArchiveBox/ArchiveBox)) `MIT` `Python/Docker`
 
 ### Software / Automation
 
-*   [Medusa](https://pymedusa.com/) - Automatic Video Library Manager for TV Shows. It watches for new episodes of your favorite shows, and when they are posted it does its magic. ([Source Code (⭐1.8k)](https://github.com/pymedusa/Medusa), [Clients (⭐1.6k)](https://github.com/medusajs/nextjs-starter-medusa)) `GPL-3.0` `Python`
-*   [OliveTin (⭐2k)](https://github.com/OliveTin/OliveTin) - OliveTin is a web interface for running Linux shell commands. `AGPL-3.0` `Go`
+*   [OliveTin (⭐2.7k)](https://github.com/OliveTin/OliveTin) - OliveTin is a web interface for running Linux shell commands. `AGPL-3.0` `Go`
 
 ### Software / Blogging Platforms
 
-*   [Known](https://withknown.com/) - A collaborative social publishing platform. ([Source Code (⭐1k)](https://github.com/idno/known)) `Apache-2.0` `PHP`
-*   [WriteFreely](https://writefreely.org) - Writing software for starting a minimalist, federated blog — or an entire community. ([Source Code (⭐4.4k)](https://github.com/writefreely/writefreely)) `AGPL-3.0` `Go`
+*   [Known](https://withknown.com/) - A collaborative social publishing platform. ([Source Code (⭐1.1k)](https://github.com/idno/known)) `Apache-2.0` `PHP`
+*   [WriteFreely](https://writefreely.org) - Writing software for starting a minimalist, federated blog — or an entire community. ([Source Code (⭐4.6k)](https://github.com/writefreely/writefreely)) `AGPL-3.0` `Go`
 
 ### Software / Bookmarks and Link Sharing
 
-*   [Shiori (⭐9.2k)](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go. `MIT` `Go/Docker`
+*   [Shiori (⭐9.9k)](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go. `MIT` `Go/Docker`
 
 ### Software / Communication - Custom Communication Systems
 
-*   [PushBits (⭐301)](https://github.com/pushbits/server) - Self-hosted notification server for relaying push notifications via Matrix, similar to PushBullet and Gotify. `ISC` `Go`
+*   [PushBits (⭐326)](https://github.com/pushbits/server) - Self-hosted notification server for relaying push notifications via Matrix, similar to PushBullet and Gotify. `ISC` `Go`
 
 ### Software / Communication - Social Networks and Forums
 
 *   [Lemmy](https://join-lemmy.org/) - A link aggregator / reddit clone for the fediverse (alternative to Reddit). ([Source Code (⭐13k)](https://github.com/LemmyNet/lemmy)) `AGPL-3.0` `Docker/Rust`
-*   [Misskey](https://misskey.io/) - Decentralized app-like microblogging server/SNS for the Fediverse, using the ActivityPub protocol like GNU social and Mastodon. ([Source Code (⭐9.8k)](https://github.com/misskey-dev/misskey)) `AGPL-3.0` `Nodejs/Docker`
-*   [remark42](https://remark42.com/) - A lightweight and simple comment engine, which doesn't spy on users. It can be embedded into blogs, articles or any other place where readers add comments. ([Demo](https://remark42.com/demo/), [Source Code (⭐4.8k)](https://github.com/umputun/remark42)) `MIT` `Docker/Go`
+*   [Misskey](https://misskey.io/) - Decentralized app-like microblogging server/SNS for the Fediverse, using the ActivityPub protocol like GNU social and Mastodon. ([Source Code (⭐10k)](https://github.com/misskey-dev/misskey)) `AGPL-3.0` `Nodejs/Docker`
+*   [remark42](https://remark42.com/) - A lightweight and simple comment engine, which doesn't spy on users. It can be embedded into blogs, articles or any other place where readers add comments. ([Demo](https://remark42.com/demo/), [Source Code (⭐5k)](https://github.com/umputun/remark42)) `MIT` `Docker/Go`
 
 ### Software / Communication - XMPP - Web Clients
 
@@ -54,17 +53,17 @@
 
 ### Software / Feed Readers
 
-*   [Leed (⭐211)](https://github.com/LeedRSS/Leed) - Leed (for Light Feed) is a Free and minimalist RSS aggregator. `AGPL-3.0` `PHP`
-*   [Miniflux](https://miniflux.app/) - Miniflux is a minimalist and open source news reader, written in Go and PostgreSQL. ([Source Code (⭐6.6k)](https://github.com/miniflux/v2)) `Apache-2.0` `Go/deb/Docker`
+*   [Leed (⭐220)](https://github.com/LeedRSS/Leed) - Leed (for Light Feed) is a Free and minimalist RSS aggregator. `AGPL-3.0` `PHP`
+*   [Miniflux](https://miniflux.app/) - Miniflux is a minimalist and open source news reader, written in Go and PostgreSQL. ([Source Code (⭐7.2k)](https://github.com/miniflux/v2)) `Apache-2.0` `Go/deb/Docker`
 
 ### Software / File Transfer - Peer-to-peer Filesharing
 
-*   [bittorrent-tracker](https://webtorrent.io/) - Simple, robust, BitTorrent tracker (client and server) implementation. ([Source Code (⭐1.7k)](https://github.com/webtorrent/bittorrent-tracker)) `MIT` `Nodejs`
-*   [instant.io (⭐3.4k)](https://github.com/webtorrent/instant.io) - Streaming file transfer over WebTorrent. ([Demo](https://instant.io)) `MIT` `Nodejs`
+*   [bittorrent-tracker](https://webtorrent.io/) - Simple, robust, BitTorrent tracker (client and server) implementation. ([Source Code (⭐1.8k)](https://github.com/webtorrent/bittorrent-tracker)) `MIT` `Nodejs`
+*   [instant.io (⭐3.5k)](https://github.com/webtorrent/instant.io) - Streaming file transfer over WebTorrent. ([Demo](https://instant.io)) `MIT` `Nodejs`
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [PictShare](https://www.pictshare.net/) - PictShare is a multi lingual, open source image hosting service with a simple resizing and upload API. ([Source Code (⭐832)](https://github.com/HaschekSolutions/pictshare)) `Apache-2.0` `PHP/Docker`
+*   [PictShare](https://www.pictshare.net/) - PictShare is a multi lingual, open source image hosting service with a simple resizing and upload API. ([Source Code (⭐852)](https://github.com/HaschekSolutions/pictshare)) `Apache-2.0` `PHP/Docker`
 
 ### Software / File Transfer - Web-based File Managers
 
@@ -73,54 +72,50 @@
 
 ### Software / Human Resources Management (HRM)
 
-*   [TimeOff.Management](https://timeoff.management) - Simple yet powerful absence management software for small and medium size business. ([Demo](https://app.timeoff.management), [Source Code (⭐924)](https://github.com/timeoff-management/timeoff-management-application)) `MIT` `Nodejs`
+*   [TimeOff.Management](https://timeoff.management) - Simple yet powerful absence management software for small and medium size business. ([Demo](https://app.timeoff.management), [Source Code (⭐973)](https://github.com/timeoff-management/timeoff-management-application)) `MIT` `Nodejs`
 
 ### Software / Internet of Things (IoT)
 
-*   [Gladys](https://gladysassistant.com/) - Gladys is a privacy-first, open-source home assistant. ([Source Code (⭐2.6k)](https://github.com/GladysAssistant/Gladys)) `Apache-2.0` `Nodejs/Docker`
-*   [Home Assistant](https://home-assistant.io/) - Open-source home automation platform. ([Demo](https://home-assistant.io/demo/), [Source Code (⭐71k)](https://github.com/home-assistant/core)) `Apache-2.0` `Python/Docker`
+*   [Gladys](https://gladysassistant.com/) - Gladys is a privacy-first, open-source home assistant. ([Source Code (⭐2.7k)](https://github.com/GladysAssistant/Gladys)) `Apache-2.0` `Nodejs/Docker`
+*   [Home Assistant](https://home-assistant.io/) - Open-source home automation platform. ([Demo](https://home-assistant.io/demo/), [Source Code (⭐76k)](https://github.com/home-assistant/core)) `Apache-2.0` `Python/Docker`
 
 ### Software / Maps and Global Positioning System (GPS)
 
-*   [Nominatim](https://nominatim.org/) - Server application for geocoding (address -> coordinates) and reverse geocoding (coordinates -> address) on OpenStreetMap data. ([Source Code (⭐3k)](https://github.com/osm-search/Nominatim)) `GPL-2.0` `C`
+*   [Nominatim](https://nominatim.org/) - Server application for geocoding (address -> coordinates) and reverse geocoding (coordinates -> address) on OpenStreetMap data. ([Source Code (⭐3.3k)](https://github.com/osm-search/Nominatim)) `GPL-2.0` `C`
 
 ### Software / Miscellaneous
 
-*   [Anchr](https://anchr.io) - Anchr is a toolbox for tiny tasks on the internet, including bookmark collections, URL shortening and (encrypted) image uploads. ([Source Code (⭐263)](https://github.com/muety/anchr)) `GPL-3.0` `Nodejs`
-*   [Ombi](https://ombi.io/) - A content request system for Plex/Emby, connects to SickRage, CouchPotato, Sonarr, with a growing feature set. ([Demo](https://app.ombi.io/), [Source Code (⭐3.7k)](https://github.com/Ombi-app/Ombi)) `GPL-2.0` `C#/deb`
+*   [Anchr](https://anchr.io) - Anchr is a toolbox for tiny tasks on the internet, including bookmark collections, URL shortening and (encrypted) image uploads. ([Source Code (⭐289)](https://github.com/muety/anchr)) `GPL-3.0` `Nodejs`
+*   [Ombi](https://ombi.io/) - A content request system for Plex/Emby, connects to SickRage, CouchPotato, Sonarr, with a growing feature set. ([Demo](https://app.ombi.io/), [Source Code (⭐3.8k)](https://github.com/Ombi-app/Ombi)) `GPL-2.0` `C#/deb`
 
 ### Software / Password Managers
 
-*   [Bitwarden](https://bitwarden.com/) `⚠` - Password manager with webapp, browser extension, and mobile app. ([Source Code (⭐15k)](https://github.com/bitwarden/server)) `AGPL-3.0` `Docker/C#`
+*   [Bitwarden](https://bitwarden.com/) `⚠` - Password manager with webapp, browser extension, and mobile app. ([Source Code (⭐16k)](https://github.com/bitwarden/server)) `AGPL-3.0` `Docker/C#`
 
-### Software / Photo and Video Galleries
+### Software / Photo Galleries
 
-*   [Photoview](https://photoview.github.io/) - A simple and user-friendly Photo Gallery for personal servers. It is made for photographers and aims to provide an easy and fast way to navigate directories, with thousands of high resolution photos. ([Source Code (⭐4.9k)](https://github.com/photoview/photoview)) `GPL-3.0` `Go/Docker`
+*   [Photoview](https://photoview.github.io/) - A simple and user-friendly Photo Gallery for personal servers. It is made for photographers and aims to provide an easy and fast way to navigate directories, with thousands of high resolution photos. ([Source Code (⭐5.6k)](https://github.com/photoview/photoview)) `GPL-3.0` `Go/Docker`
 
 ### Software / Proxy
 
-*   [imgproxy](https://imgproxy.net/) - Fast and secure standalone server for resizing and converting remote images. It works great when you need to resize multiple images on the fly without preparing a ton of cached resized images or re-doing it every time the design changes. ([Source Code (⭐8.7k)](https://github.com/imgproxy/imgproxy)) `MIT` `Go/Docker/K8S`
+*   [imgproxy](https://imgproxy.net/) - Fast and secure standalone server for resizing and converting remote images. It works great when you need to resize multiple images on the fly without preparing a ton of cached resized images or re-doing it every time the design changes. ([Source Code (⭐9.2k)](https://github.com/imgproxy/imgproxy)) `MIT` `Go/Docker/K8S`
 
 ### Software / Software Development - IDE & Tools
 
-*   [Judge0 CE](https://judge0.com) - Open source API to compile and run source code. ([Source Code (⭐2.4k)](https://github.com/judge0/judge0)) `GPL-3.0` `Docker`
-*   [Wakapi](https://wakapi.dev/) - Tracking tool for coding statistics, compatible with WakaTime. ([Source Code (⭐2.5k)](https://github.com/muety/wakapi)) `GPL-3.0` `Go/Docker`
+*   [Judge0 CE](https://judge0.com) - Open source API to compile and run source code. ([Source Code (⭐2.9k)](https://github.com/judge0/judge0)) `GPL-3.0` `Docker`
+*   [Wakapi](https://wakapi.dev/) - Tracking tool for coding statistics, compatible with WakaTime. ([Source Code (⭐3k)](https://github.com/muety/wakapi)) `GPL-3.0` `Go/Docker`
 
 ### Software / Software Development - Project Management
 
 *   [Gogs](https://gogs.io/) - Painless self-hosted Git Service written in Go. ([Source Code (⭐45k)](https://github.com/gogs/gogs)) `MIT` `Go`
 
-### Software / URL Shorteners
-
-*   [Simply Shorten](https://gitlab.com/draganczukp/simply-shorten) - A simple URL shortener that just shortens links. `MIT` `Java/Docker`
-
 ### Software / Wikis
 
-*   [BookStack](https://www.bookstackapp.com/) - BookStack is a simple, self-hosted, easy-to-use platform for organizing and storing information. It allows for documentation to be stored in a book like fashion. ([Demo](https://www.bookstackapp.com/#demo), [Source Code (⭐15k)](https://github.com/BookStackApp/BookStack)) `MIT` `PHP/Docker`
+*   [BookStack](https://www.bookstackapp.com/) - BookStack is a simple, self-hosted, easy-to-use platform for organizing and storing information. It allows for documentation to be stored in a book like fashion. ([Demo](https://www.bookstackapp.com/#demo), [Source Code (⭐16k)](https://github.com/BookStackApp/BookStack)) `MIT` `PHP/Docker`
 
 ### External Links / Wikis
 
-*   Other Awesome lists: [Awesome Big Data (⭐13k)](https://github.com/0xnr/awesome-bigdata), [Awesome Public Datasets (⭐60k)](https://github.com/awesomedata/awesome-public-datasets)
+*   Other Awesome lists: [Awesome Big Data (⭐13k)](https://github.com/0xnr/awesome-bigdata), [Awesome Public Datasets (⭐62k)](https://github.com/awesomedata/awesome-public-datasets)
 
 ## [4. Public Apis](/content/public-apis/public-apis/README.md)
 

@@ -20,8 +20,8 @@
 
 ### Libraries / Algebraic Data Types
 
-*   [union-type (⭐475)](https://github.com/paldepind/union-type) – A small JavaScript library for defining and using union types.
-*   [freeky (⭐175)](https://github.com/DrBoolean/freeky) – A collection of Free monads.
+*   [union-type (⭐478)](https://github.com/paldepind/union-type) – A small JavaScript library for defining and using union types.
+*   [freeky (⭐176)](https://github.com/DrBoolean/freeky) – A collection of Free monads.
 
 ### Resources / Articles
 

@@ -16,7 +16,7 @@
 
 ### Cheat Sheets / Randomized Algorithms
 
-*   [Tech Interview Cheat Sheet (⭐4.1k)](https://github.com/TSiege/Tech-Interview-Cheat-Sheet)
+*   [Tech Interview Cheat Sheet (⭐4.3k)](https://github.com/TSiege/Tech-Interview-Cheat-Sheet)
 
 ## [3. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
@@ -28,28 +28,27 @@
 
 ### Libraries / Email
 
-*   [duesee/imap-codec (⭐37)](https://github.com/duesee/imap-codec) \[[imap-codec](https://crates.io/crates/imap-codec)] - Rock-solid and complete codec for IMAP [![Build & Test](https://github.com/duesee/imap-codec/actions/workflows/build_and_test.yml/badge.svg)](https://github.com/duesee/imap-codec/actions/workflows/build_and_test.yml)
+*   [duesee/imap-codec (⭐39)](https://github.com/duesee/imap-codec) \[[imap-codec](https://crates.io/crates/imap-codec)] - Rock-solid and complete codec for IMAP [![Build & Test](https://github.com/duesee/imap-codec/actions/workflows/build_and_test.yml/badge.svg)](https://github.com/duesee/imap-codec/actions/workflows/build_and_test.yml)
 
 ## [5. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Packages / Cross-platform integration
 
-*   [napi-rs (⭐5.8k)](https://github.com/napi-rs/napi-rs) - Framework for building compiled Node.js add-ons in Rust via Node-API.
-*   [Neon (⭐7.9k)](https://github.com/neon-bindings/neon) - Rust bindings for writing safe and fast native Node.js modules.
-*   [Edge.js (⭐5.4k)](https://github.com/tjanczuk/edge) - Run .NET and Node.js code in the same process on Windows, macOS, and Linux.
-*   [DotNetJS (⭐656)](https://github.com/Elringus/DotNetJS) - Consume .NET libraries in Node.js using this .NET interoperability layer.
+*   [napi-rs (⭐6.2k)](https://github.com/napi-rs/napi-rs) - Framework for building compiled Node.js add-ons in Rust via Node-API.
+*   [Neon (⭐8.1k)](https://github.com/neon-bindings/neon) - Rust bindings for writing safe and fast native Node.js modules.
+*   [DotNetJS (⭐673)](https://github.com/Elringus/DotNetJS) - Consume .NET libraries in Node.js using this .NET interoperability layer.
 
 ## [6. Awesome Magento2](/content/run-as-root/awesome-magento2/README.md)
 
 ### Infrastructure
 
-*   [Interceptor Optimization (⭐100)](https://github.com/creatuity/magento2-interceptors) - New interceptors approach for Magento 2
+*   [Interceptor Optimization (⭐116)](https://github.com/creatuity/magento2-interceptors) - New interceptors approach for Magento 2
 
 ## [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Software Development - API Management
 
-*   [Hoppscotch Community Edition](https://hoppscotch.io) - A free, fast and beautiful API request builder. ([Source Code (⭐63k)](https://github.com/hoppscotch/hoppscotch)) `MIT` `Nodejs/Docker`
+*   [Hoppscotch Community Edition](https://hoppscotch.io) - A free, fast and beautiful API request builder. ([Source Code (⭐67k)](https://github.com/hoppscotch/hoppscotch)) `MIT` `Nodejs/Docker`
 
 ## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -77,18 +76,13 @@
 
 ### Components & Libraries / UI Components
 
-*   [vuedraggable-plus (⭐2.9k)](https://github.com/Alfred-Skyblue/vue-draggable-plus) - Vue component allowing drag-and-drop sorting module, support Vue>=v3 or Vue>=2.7. Based on Sortable.js.
-
-### Components & Libraries / Utilities
-
-*   [i18n-pro/vue (⭐2)](https://github.com/i18n-pro/vue) - Lightweight, simple, flexible, automatic translation internationalization tool for Vue.
-*   [i18n-pro/vue2 (⭐1)](https://github.com/i18n-pro/vue2) - Lightweight, simple, flexible, automatic translation internationalization tool for Vue 2.
+*   [vuedraggable-plus (⭐3.4k)](https://github.com/Alfred-Skyblue/vue-draggable-plus) - Vue component allowing drag-and-drop sorting module, support Vue>=v3 or Vue>=2.7. Based on Sortable.js.
 
 ## [12. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### (requires Neovim 0.5) / Diagnostics
 
-*   [chrisgrieser/nvim-rulebook (⭐69)](https://github.com/chrisgrieser/nvim-rulebook) - Add inline-comments to ignore rules, or lookup rule documentation online.
+*   [chrisgrieser/nvim-rulebook (⭐79)](https://github.com/chrisgrieser/nvim-rulebook) - Add inline-comments to ignore rules, or lookup rule documentation online.
 
 ## [13. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
@@ -100,7 +94,7 @@
 
 ### Table of Contents / Streaming Library
 
-*   [FastStream (⭐2.3k)](https://github.com/airtai/faststream) \[Python] - powerful and easy-to-use Python library simplifying the process of writing producers and consumers for message queues, handling all the parsing, networking and documentation generation automatically. Supports multiple protocols such as Apache Kafka, RabbitMQ and alike.
+*   [FastStream (⭐3.3k)](https://github.com/airtai/faststream) \[Python] - powerful and easy-to-use Python library simplifying the process of writing producers and consumers for message queues, handling all the parsing, networking and documentation generation automatically. Supports multiple protocols such as Apache Kafka, RabbitMQ and alike.
 
 ---
 

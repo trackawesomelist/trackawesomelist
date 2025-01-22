@@ -61,7 +61,7 @@
 
 ### Libraries / Data Structures
 
-*   [Baobab (⭐3.1k)](https://github.com/Yomguithereal/baobab) – persistent and optionally immutable data tree with cursors.
+*   [Baobab (⭐3.2k)](https://github.com/Yomguithereal/baobab) – persistent and optionally immutable data tree with cursors.
 
 ---
 

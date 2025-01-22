@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 25, 2022
 
-13 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -31,7 +31,7 @@
 
 ### Languages / JavaScript & TypeScript
 
-*   [js-algorand-sdk (⭐284)](https://github.com/algorand/js-algorand-sdk) - The Algorand JavaScript SDK & Examples.
+*   [js-algorand-sdk (⭐288)](https://github.com/algorand/js-algorand-sdk) - The Algorand JavaScript SDK & Examples.
 
 ### Languages / .NET
 
@@ -39,11 +39,11 @@
 
 ### Languages / Rust
 
-*   [rust-algorand-sdk (⭐64)](https://github.com/manuelmauro/algonaut) - Rust Algorand SDK.
+*   [rust-algorand-sdk (⭐63)](https://github.com/manuelmauro/algonaut) - Rust Algorand SDK.
 
 ### Languages / Swift
 
-*   [swift-algorand-sdk (⭐19)](https://github.com/Jesulonimi21/Swift-Algorand-Sdk) - A Swift SDK for interacting with the Algorand Blockchain.
+*   [swift-algorand-sdk (⭐20)](https://github.com/Jesulonimi21/Swift-Algorand-Sdk) - A Swift SDK for interacting with the Algorand Blockchain.
 
 ### Nodes & Consensus Participation / Wallets
 
@@ -59,91 +59,78 @@
 *   [Algorand MainNet metrics](https://metrics.algorand.org/) - Dashboard that measures the current scale, security, decentralization, and adoption of the open-source Algorand protocol.
 *   [Algorand Stats](https://www.algorandstats.com/) - All stats about Algorand Governance.
 
-## [3. Awesome Gatling](/content/aliesbelik/awesome-gatling/README.md)
-
-### Tools / Plugins
-
-*   [gatling-kafka-plugin (⭐62)](https://github.com/Tinkoff/gatling-kafka-plugin) - Plugin for support Kafka in Gatling.
-*   [gatling-amqp-plugin (⭐32)](https://github.com/Tinkoff/gatling-amqp-plugin) - Plugin for support performance testing with AMQP in Gatling (3.2.x).
-*   [gatling-jdbc-plugin (⭐21)](https://github.com/Tinkoff/gatling-jdbc-plugin) - Simple Gatling plugin for JDBC support.
-*   [gatling-picatinny (⭐35)](https://github.com/Tinkoff/gatling-picatinny) - Library with a bunch of useful functions that extend Gatling DSL.
-
-### Tools / Miscellaneous
-
-*   [gatling-template.g8 (⭐22)](https://github.com/Tinkoff/gatling-template.g8) - A Giter8 template for Gatling performance test project.
-
-## [4. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
+## [3. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
 ### C++ / Git
 
-*   [=nil; Crypto3 (⭐70)](https://github.com/NilFoundation/crypto3) - Modern Cryptography Suite in C++17 (complete applied cryptography suite starting with block ciphers and ending with threshold cryptography, zk proof systems, etc).
+*   [=nil; Crypto3 (⭐77)](https://github.com/NilFoundation/crypto3) - Modern Cryptography Suite in C++17 (complete applied cryptography suite starting with block ciphers and ending with threshold cryptography, zk proof systems, etc).
 
-## [5. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
+## [4. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
 
 ### Dynamic type checkers
 
-*   [typedpy (⭐15)](https://github.com/loyada/typedpy) - Type-safe, strict Python. Works well with standard Python.
+*   [typedpy (⭐16)](https://github.com/loyada/typedpy) - Type-safe, strict Python. Works well with standard Python.
 
 ### Stub packages
 
-*   [celery-types (⭐71)](https://github.com/sbdchd/celery-types) - Type stubs for [Celery (⭐24k)](https://github.com/celery/celery) and its related packages [django-celery-results (⭐668)](https://github.com/celery/django-celery-results), [ampq (⭐308)](https://github.com/celery/py-amqp), [kombu (⭐2.8k)](https://github.com/celery/kombu), [billiard (⭐404)](https://github.com/celery/billiard), [vine (⭐121)](https://github.com/celery/vine) and [ephem (⭐754)](https://github.com/brandon-rhodes/pyephem).
+*   [celery-types (⭐88)](https://github.com/sbdchd/celery-types) - Type stubs for [Celery (⭐25k)](https://github.com/celery/celery) and its related packages [django-celery-results (⭐698)](https://github.com/celery/django-celery-results), [ampq (⭐309)](https://github.com/celery/py-amqp), [kombu (⭐2.9k)](https://github.com/celery/kombu), [billiard (⭐419)](https://github.com/celery/billiard), [vine (⭐123)](https://github.com/celery/vine) and [ephem (⭐787)](https://github.com/brandon-rhodes/pyephem).
 
 ### Articles / Third-party articles
 
 *   [Static Typing Python Decorators](https://rednafi.github.io/reflections/static-typing-python-decorators.html) - Accurately static typing decorators in Python is an icky business. The wrapper function obfuscates type information required to statically determine the types of the parameters and the return values of the wrapped function.
 
-## [6. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
+## [5. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 
 ### Hosted Notebook Solutions
 
 *   [Paperspace Gradient](https://gradient.run/) - A Jupyter-backed data science IDE with accelerated hardware (GPUs) and MLOps functionality.
 
-## [7. Awesome Nodered](/content/naimo84/awesome-nodered/README.md)
+## [6. Awesome Nodered](/content/naimo84/awesome-nodered/README.md)
 
 ### Nodes / Social
 
 *   [open-wa (whatsapp) (⭐13)](https://github.com/open-wa/node-red-contrib-wa-automate) - Efficiently connect to remote instances of your open-wa whatsapp automate servers.
 
-## [8. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [7. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Chart
 
-*   [SwiftUICharts (⭐823)](https://github.com/willdale/SwiftUICharts) - A charts / plotting library for SwiftUI. Works on macOS, iOS, watchOS, and tvOS and has accessibility and Localization features built in.
+*   [SwiftUICharts (⭐861)](https://github.com/willdale/SwiftUICharts) - A charts / plotting library for SwiftUI. Works on macOS, iOS, watchOS, and tvOS and has accessibility and Localization features built in.
 
-## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Security and PKI
 
 *   [GitGuardian](https://www.gitguardian.com) — Keep secrets out of your source code with automated secrets detection and remediation. Scan your git repos for 350+ types of secrets and sensitive files – Free for individuals and teams of 25 developers or less.
 
-## [10. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
+## [9. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 
 ### Apps / StreamField
 
-*   [Wagtail UIKit Block (⭐16)](https://github.com/kpsaurus/wagtail-uikitblocks) - A collection of UIKit components that can be used as a Wagtail StreamField block.
+*   [Wagtail UIKit Block (⭐17)](https://github.com/kpsaurus/wagtail-uikitblocks) - A collection of UIKit components that can be used as a Wagtail StreamField block.
 
-## [11. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [10. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Videos / Others
 
 *   [C# Corner .NET Conference Day 1](https://www.youtube.com/watch?v=LpoYTZSMeG0) - ![duration](https://img.shields.io/badge/Duration:%20-390%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) January 24, 2022 - The first day of the conference kicks off with a keynote session by Scott Hunter. Day one is focused on front-end technologies (Blazor). [Conference website](https://dotnetconference.com).
 
-## [12. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [11. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-dev-manifest (⭐18)](https://github.com/owlsdepartment/vite-plugin-dev-manifest) - Generates `manifest.dev.json` during dev server, for backend integration with any language/framework.
+*   [vite-plugin-dev-manifest (⭐22)](https://github.com/owlsdepartment/vite-plugin-dev-manifest) - Generates `manifest.dev.json` during dev server, for backend integration with any language/framework.
 
-## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / Frameworks
 
 *   [Inkline (⭐1.4k)](https://github.com/inkline/inkline/) - Inkline is the intuitive UI Components library that gives you a developer-friendly foundation for building Vue.js 3 Design Systems.
-*   [Mosaic - Vue Admin TailwindCSS template (⭐243)](https://github.com/cruip/vuejs-admin-dashboard-template) - The All-in-one Tailwind CSS Admin Dashboard Template.
+*   [Mosaic - Vue Admin TailwindCSS template (⭐266)](https://github.com/cruip/vuejs-admin-dashboard-template) - The All-in-one Tailwind CSS Admin Dashboard Template.
 
 ### Components & Libraries / UI Components
 
-*   [coya (⭐66)](https://github.com/AlexanderMykulych/coya) - Diagram drawing library (vue3 only)
+*   [coya (⭐67)](https://github.com/AlexanderMykulych/coya) - Diagram drawing library (vue3 only)
 
 ---
 

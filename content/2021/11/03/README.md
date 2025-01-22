@@ -14,7 +14,7 @@
 
 ### AppImage consumption tools / Sandboxes
 
-*   [AppImage Sandboxing Project (⭐19)](https://github.com/mgord9518/aisap) - Golang library to help sandbox AppImages with bwrap.
+*   [AppImage Sandboxing Project (⭐38)](https://github.com/mgord9518/aisap) - Golang library to help sandbox AppImages with bwrap.
 
 ## [2. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
@@ -34,7 +34,7 @@
 
 ### Component bundles
 
-*   [MudBlazor (⭐7.6k)](https://github.com/MudBlazor/MudBlazor) - ![stars](https://img.shields.io/github/stars/MudBlazor/MudBlazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/MudBlazor/MudBlazor?style=flat-square\&cacheSeconds=86400) MudBlazor is an ambitious Material Design component framework for Blazor with an emphasis on ease of use and clear structure. It is perfect for .NET developers who want to rapidly build web applications without having to struggle with CSS and Javascript. MudBlazor, being written entirely in C#, empowers them to adapt, fix or extend the framework and the multitude of examples in the documentation makes learning MudBlazor very easy. [Documentation](https://mudblazor.com/). [Demo](https://try.mudblazor.com/).
+*   [MudBlazor (⭐8.2k)](https://github.com/MudBlazor/MudBlazor) - ![stars](https://img.shields.io/github/stars/MudBlazor/MudBlazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/MudBlazor/MudBlazor?style=flat-square\&cacheSeconds=86400) MudBlazor is an ambitious Material Design component framework for Blazor with an emphasis on ease of use and clear structure. It is perfect for .NET developers who want to rapidly build web applications without having to struggle with CSS and Javascript. MudBlazor, being written entirely in C#, empowers them to adapt, fix or extend the framework and the multitude of examples in the documentation makes learning MudBlazor very easy. [Documentation](https://mudblazor.com/). [Demo](https://try.mudblazor.com/).
 
 ## [4. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
@@ -87,7 +87,7 @@
 
 ### Libraries/Frameworks / Game Development
 
-*   [korlibs/KorGE (⭐2.5k)](https://github.com/korlibs/KorGE) - Modern Multiplatform Game Engine for Kotlin. Write games for the JVM, JavaScript, Android and iOS in no time using Kotlin.
+*   [korlibs/KorGE (⭐2.6k)](https://github.com/korlibs/KorGE) - Modern Multiplatform Game Engine for Kotlin. Write games for the JVM, JavaScript, Android and iOS in no time using Kotlin.
 
 ## [9. Awesome Nodered](/content/naimo84/awesome-nodered/README.md)
 
@@ -135,7 +135,7 @@
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [artart222/CodeArt (⭐878)](https://github.com/artart222/CodeArt) - A fast general-purpose IDE written entirely in Lua with an installer for Linux/Windows/macOS and built in `:CodeArtUpdate` command for updating it.
+*   [artart222/CodeArt (⭐894)](https://github.com/artart222/CodeArt) - A fast general-purpose IDE written entirely in Lua with an installer for Linux/Windows/macOS and built in `:CodeArtUpdate` command for updating it.
 
 ## [14. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 
@@ -147,13 +147,13 @@
 
 ### Uncategorized
 
-*   [Vignette (⭐505)](https://github.com/vignetteapp/vignette) - The open source VTuber software. \[English]
+*   [Vignette (⭐521)](https://github.com/vignetteapp/vignette) - The open source VTuber software. \[English]
 
 ## [16. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / Social Network
 
-*   [Skyfeed (⭐95)](https://github.com/redsolver/skyfeed) - Alternative to Twitter by [RedSolver](https://github.com/redsolver)
+*   [Skyfeed (⭐97)](https://github.com/redsolver/skyfeed) - Alternative to Twitter by [RedSolver](https://github.com/redsolver)
 
 ## [17. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
@@ -165,13 +165,13 @@
 
 ### Command-Line Tools / Discovery
 
-*   [statix (⭐552)](https://github.com/nerdypepper/statix) - A linter/fixer to check for and fix antipatterns in Nix code.
+*   [statix (⭐590)](https://github.com/nerdypepper/statix) - A linter/fixer to check for and fix antipatterns in Nix code.
 
 ### Programming Languages / Rust
 
-*   [fenix (⭐636)](https://github.com/nix-community/fenix) - Rust toolchains and Rust analyzer nightly for nix.
-*   [nixpkgs-mozilla (⭐512)](https://github.com/mozilla/nixpkgs-mozilla) - Mozilla's overlay with Rust toolchains and Firefox.
-*   [rust-overlay (⭐848)](https://github.com/oxalica/rust-overlay) - Pure and reproducible nix overlay of binary distributed Rust toolchains.
+*   [fenix (⭐744)](https://github.com/nix-community/fenix) - Rust toolchains and Rust analyzer nightly for nix.
+*   [nixpkgs-mozilla (⭐540)](https://github.com/mozilla/nixpkgs-mozilla) - Mozilla's overlay with Rust toolchains and Firefox.
+*   [rust-overlay (⭐1k)](https://github.com/oxalica/rust-overlay) - Pure and reproducible nix overlay of binary distributed Rust toolchains.
 
 ### Community / Webinterface
 

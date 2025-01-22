@@ -20,7 +20,7 @@
 
 ### Anti-tracking / Alternative clients/modifications of Discord:
 
-*   [LibRedirect (⭐3.2k)](https://github.com/libredirect/libredirect) - A simple web extension that redirects Twitter, YouTube, Google Maps and many more requests to privacy friendly alternatives. Former Privacy Redirect is no longer maintained, LibRedirect is a maintained fork.
+*   [LibRedirect (⭐3.4k)](https://github.com/libredirect/libredirect) - A simple web extension that redirects Twitter, YouTube, Google Maps and many more requests to privacy friendly alternatives. Former Privacy Redirect is no longer maintained, LibRedirect is a maintained fork.
 
 ### Privacy vs Security vs Anonymity / Alternative clients/modifications of Discord:
 
@@ -53,7 +53,7 @@
 
 ### Editing Support / Diagnostics
 
-*   [bennypowers/splitjoin.nvim (⭐75)](https://github.com/bennypowers/splitjoin.nvim) - Split and join various syntax structures.
+*   [bennypowers/splitjoin.nvim (⭐79)](https://github.com/bennypowers/splitjoin.nvim) - Split and join various syntax structures.
 
 ## [6. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
 
@@ -73,11 +73,11 @@
 
 ### Crates / Utils
 
-*   [yew-nested-router (⭐6)](https://github.com/ctron/yew-nested-router) - A router that supported nesting, with Yew 0.20.
+*   [yew-nested-router (⭐8)](https://github.com/ctron/yew-nested-router) - A router that supported nesting, with Yew 0.20.
 
 ## [9. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/README.md)
 
-### Lecture Notes / Monograph
+### General / Lecture Notes
 
 *   [Aspnes. Notes on Discrete Mathematics](https://www.cs.yale.edu/homes/aspnes/classes/202/notes.pdf) - Fall 2017 of the Yale course CPSC 202a, Mathematical Tools for Computer Science.
 

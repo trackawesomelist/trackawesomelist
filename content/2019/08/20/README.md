@@ -24,7 +24,7 @@
 
 ### Software / URL Shorteners
 
-*   [Simple-URL-Shortener (⭐45)](https://github.com/azlux/Simple-URL-Shortener) - KISS URL shortener, public or private (with account). Minimalist and lightweight. No dependencies. ([Demo](https://u.azlux.fr)) `MIT` `PHP`
+*   [Simple-URL-Shortener (⭐49)](https://github.com/azlux/Simple-URL-Shortener) - KISS URL shortener, public or private (with account). Minimalist and lightweight. No dependencies. ([Demo](https://u.azlux.fr)) `MIT` `PHP`
 
 ## [3. Awesome Git Hooks](/content/CompSciLauren/awesome-git-hooks/README.md)
 
@@ -46,7 +46,7 @@
 
 ## [6. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
-### Other Tools / Telegram
+### Other Tools / Steam
 
 *   [Greynoise](https://greynoise.io/) - "Anti-Threat Intelligence" Greynoise characterizes the background noise of the internet, so the user can focus on what is actually important.
 
@@ -54,7 +54,7 @@
 
 ### Command Line
 
-*   [nef (⭐270)](https://github.com/bow-swift/nef) - A set of command line tools that lets you have compile time verification of your documentation written as Xcode Playground.
+*   [nef (⭐267)](https://github.com/bow-swift/nef) - A set of command line tools that lets you have compile time verification of your documentation written as Xcode Playground.
 
 ### Keyboard / Barcode
 

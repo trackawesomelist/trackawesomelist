@@ -80,7 +80,7 @@
 
 ### Application Templates
 
-*   [Nucleus (⭐353)](https://github.com/alirizaadiyahsi/Nucleus) - Vue startup application template that uses ASP.NET Core API layered architecture at the back-end and JWT based authentication
+*   [Nucleus (⭐354)](https://github.com/alirizaadiyahsi/Nucleus) - Vue startup application template that uses ASP.NET Core API layered architecture at the back-end and JWT based authentication
 
 ## [4. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
@@ -122,7 +122,7 @@
 
 ### Artificial Intelligence
 
-*   [PyTorch (⭐82k)](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration. [website](https://pytorch.org)
+*   [PyTorch (⭐86k)](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration. [website](https://pytorch.org)
 
 ### Audio
 

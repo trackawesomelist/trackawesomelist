@@ -16,7 +16,7 @@
 
 ### Parallel Computing
 
-*   [ddR (⭐117)](https://github.com/vertica/ddR) - Provides distributed data structures and simplifies distributed computing in R.
+*   [ddR (⭐118)](https://github.com/vertica/ddR) - Provides distributed data structures and simplifies distributed computing in R.
 
 ---
 

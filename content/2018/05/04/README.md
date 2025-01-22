@@ -16,31 +16,23 @@
 
 *   [Tips for High Availability](https://medium.com/@NetflixTechBlog/tips-for-high-availability-be0472f2599c)
 
-## [2. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
-
-### Agency Tools
-
-*   [RidePilot (⭐24)](https://github.com/camsys/ridepilot) - An open-source Computer Aided Scheduling and Dispatch (CASD) software system to meet the needs of small scale human service transportation agencies (for more info see [Cambridge Systematics's marketing site](http://camsys.software/products/ridepilot)).
-
-## [3. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
-
-### Python / General-Purpose Machine Learning
-
-*   [xLearn (⭐3.1k)](https://github.com/aksnzhy/xlearn) - A high performance, easy-to-use, and scalable machine learning package, which can be used to solve large-scale machine learning problems. xLearn is especially useful for solving machine learning problems on large-scale sparse data, which is very common in Internet services such as online advertisement and recommender systems.
-
-## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [2. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Tutorials
 
 *   [Build a Vue.Js E-Commerce App with ButterCMS Headless Backend](https://snipcart.com/blog/vuejs-ecommerce-headless-buttercms)
 
-### Resources / Examples
+## [3. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
-*   [Starter application ready for production with TypeScript, vuex, vue-router, HMR and more](https://github.com/kadro/vue-boilerplate)
+### Agency Tools
 
-### Projects Using Vue.js / Open Source
+*   [RidePilot (⭐25)](https://github.com/camsys/ridepilot) - An open-source Computer Aided Scheduling and Dispatch (CASD) software system to meet the needs of small scale human service transportation agencies.
 
-*   [vue-array (⭐15)](https://github.com/BlackHole1/vue-array) - Array object operation under Vue, Array object operation under Vue Use this package to manipulate the array. Vue can monitor the changes in the array
+## [4. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+
+### Python / General-Purpose Machine Learning
+
+*   [xLearn (⭐3.1k)](https://github.com/aksnzhy/xlearn) - A high performance, easy-to-use, and scalable machine learning package, which can be used to solve large-scale machine learning problems. xLearn is especially useful for solving machine learning problems on large-scale sparse data, which is very common in Internet services such as online advertisement and recommender systems.
 
 ## [5. Awesome](/content/craftcms/awesome/README.md)
 
@@ -326,7 +318,7 @@
 
 ### Applications / Operating systems
 
-*   [tock/tock (⭐5.3k)](https://github.com/tock/tock) - A secure embedded operating system for Cortex-M based microcontrollers
+*   [tock/tock (⭐5.6k)](https://github.com/tock/tock) - A secure embedded operating system for Cortex-M based microcontrollers
 
 ## [9. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
@@ -338,7 +330,7 @@
 
 ### Build Systems
 
-*   [clib (⭐4.8k)](https://github.com/clibs/clib) - Package manager for the C programming language. \[MIT]
+*   [clib (⭐4.9k)](https://github.com/clibs/clib) - Package manager for the C programming language. \[MIT]
 
 ## [11. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/README.md)
 

@@ -36,7 +36,7 @@
 
 ### Frameworks
 
-*   [FunctionalPlus (⭐2.1k)](https://github.com/Dobiasd/FunctionalPlus) - Functional Programming Library for C++. Write concise and readable C++ code. \[MIT]
+*   [FunctionalPlus (⭐2.2k)](https://github.com/Dobiasd/FunctionalPlus) - Functional Programming Library for C++. Write concise and readable C++ code. \[MIT]
 
 ### Artificial Intelligence
 
@@ -44,21 +44,21 @@
 
 ### Cryptography
 
-*   [Tiny AES in C (⭐4.2k)](https://github.com/kokke/tiny-AES-c) - Small portable AES128/192/256 in C. \[PublicDomain]
+*   [Tiny AES in C (⭐4.4k)](https://github.com/kokke/tiny-AES-c) - Small portable AES128/192/256 in C. \[PublicDomain]
 
 ## [3. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Command Line Applications
 
-*   [ex\_prompt (⭐29)](https://github.com/behind-design/ex_prompt) - Helper package to add interactivity to your command line applications as easy as possible.
+*   [ex\_prompt (⭐30)](https://github.com/behind-design/ex_prompt) - Helper package to add interactivity to your command line applications as easy as possible.
 
 ### Cryptography
 
-*   [ntru\_elixir (⭐16)](https://github.com/alisinabh/ntru_elixir) - Elixir wrapper for libntru. A post quantum cryptography system.
+*   [ntru\_elixir (⭐17)](https://github.com/alisinabh/ntru_elixir) - Elixir wrapper for libntru. A post quantum cryptography system.
 
 ### Debugging
 
-*   [rexbug (⭐250)](https://github.com/nietaki/rexbug) - An Elixir wrapper for the `redbug` production-friendly Erlang tracing debugger.
+*   [rexbug (⭐253)](https://github.com/nietaki/rexbug) - An Elixir wrapper for the `redbug` production-friendly Erlang tracing debugger.
 
 ### Deployment
 
@@ -78,16 +78,16 @@
 
 ### Templating
 
-*   [calliope (⭐197)](https://github.com/nurugger07/calliope) - An Elixir HAML parser.
-*   [slime (⭐365)](https://github.com/slime-lang/slime) - An Elixir library for rendering slim-like templates.
+*   [calliope (⭐196)](https://github.com/nurugger07/calliope) - An Elixir HAML parser.
+*   [slime (⭐373)](https://github.com/slime-lang/slime) - An Elixir library for rendering slim-like templates.
 
 ### Text and Numbers
 
-*   [remove\_emoji (⭐8)](https://github.com/guanting112/elixir_remove_emoji) - Emoji text sanitizer in Elixir. It can remove any emoji symbol.
+*   [remove\_emoji (⭐9)](https://github.com/guanting112/elixir_remove_emoji) - Emoji text sanitizer in Elixir. It can remove any emoji symbol.
 
 ### Third Party APIs
 
-*   [gringotts (⭐481)](https://github.com/aviabird/gringotts) - A complete payment library for Elixir and Phoenix Framework similar to [ActiveMerchant (⭐4.5k)](https://github.com/activemerchant/active_merchant) from the Ruby world.
+*   [gringotts (⭐486)](https://github.com/aviabird/gringotts) - A complete payment library for Elixir and Phoenix Framework similar to [ActiveMerchant (⭐4.6k)](https://github.com/activemerchant/active_merchant) from the Ruby world.
 
 ### Books
 

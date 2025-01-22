@@ -93,7 +93,7 @@
 ### Tools / Libraries
 
 *   [Adaptive Backgrounds](https://briangonzalez.github.io/jquery.adaptive-backgrounds.js/) - Extract dominant colors from images and apply to its parent (jQuery Plugin).
-*   [Coloor (⭐330)](https://github.com/krasimir/coloor) - Image preloading utility.
+*   [Coloor (⭐333)](https://github.com/krasimir/coloor) - Image preloading utility.
 
 ### Tools / Web App
 

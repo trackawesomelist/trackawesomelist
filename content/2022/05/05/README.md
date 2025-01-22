@@ -10,26 +10,26 @@
 
 ### C++ / General-Purpose Machine Learning
 
-*   [oneDNN (⭐3.5k)](https://github.com/oneapi-src/oneDNN) - An open-source cross-platform performance library for deep learning applications.
+*   [oneDNN (⭐3.6k)](https://github.com/oneapi-src/oneDNN) - An open-source cross-platform performance library for deep learning applications.
 
 ## [2. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
 ### Schema / Changes
 
-*   [Skeema (⭐1.2k)](https://github.com/skeema/skeema) - Declarative pure-SQL schema management system for MySQL and MariaDB, with support for sharding and external online schema change tools.
+*   [Skeema (⭐1.3k)](https://github.com/skeema/skeema) - Declarative pure-SQL schema management system for MySQL and MariaDB, with support for sharding and external online schema change tools.
 
 ## [3. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
 ### Status Bar
 
-*   [tmux-split-statusbar (⭐24)](https://github.com/charlietag/tmux-split-statusbar) Plugin for splitting status bar into 2 parts - window + left/right status
+*   [tmux-split-statusbar (⭐26)](https://github.com/charlietag/tmux-split-statusbar) Plugin for splitting status bar into 2 parts - window + left/right status
 
 ## [4. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Mobile
 
 *   [CMUCL](https://github.com/CodyReichert/awesome-cl/blob/master//www.cons.org/cmucl/) - An implementation from Carnegie Mellon University. Public domain. SBCL is a fork of CMUCL.
-*   [Corman Lisp (⭐571)](https://github.com/sharplispers/cormanlisp) - a Common Lisp development environment for Microsoft Windows running on Intel platforms. [MIT](https://opensource.org/licenses/MIT).
+*   [Corman Lisp (⭐572)](https://github.com/sharplispers/cormanlisp) - a Common Lisp development environment for Microsoft Windows running on Intel platforms. [MIT](https://opensource.org/licenses/MIT).
 
 ### Deployment / Isomorphic web frameworks
 
@@ -39,14 +39,13 @@
 
 ### Libraries/Frameworks / Testing
 
-*   [robstoll/atrium (⭐566)](https://github.com/robstoll/atrium) - Multiplatform assertion library for Kotlin supporting i18n.
+*   [robstoll/atrium (⭐572)](https://github.com/robstoll/atrium) - Multiplatform assertion library for Kotlin supporting i18n.
 
 ## [6. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
 ### Orchestration
 
 *   [AWS Step Functions](https://aws.amazon.com/step-functions/) - Visual workflow service to build distributed applications and automate processes
-*   [Camunda- Platform](https://camunda.com/) - Workflow engine that delivers scalable, on-demand process automation.
 
 ## [7. Progressive Enhancement Resources](/content/jbmoelker/progressive-enhancement-resources/README.md)
 
@@ -190,12 +189,12 @@
 
 ### Templates / Vanilla
 
-*   [vite-vanilla-ts-lib-starter (⭐272)](https://github.com/kbysiec/vite-vanilla-ts-lib-starter) - Starter for library (CJS, ESM, IIFE) with TypeScript, ESLint, Stylelint, Prettier, Jest, Husky + lint-staged.
+*   [vite-vanilla-ts-lib-starter (⭐298)](https://github.com/kbysiec/vite-vanilla-ts-lib-starter) - Starter for library (CJS, ESM, IIFE) with TypeScript, ESLint, Stylelint, Prettier, Jest, Husky + lint-staged.
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-webfont-dl (⭐288)](https://github.com/feat-agency/vite-plugin-webfont-dl) - Downloads and injects webfonts (Google Fonts) to improve website's performance.
-*   [vite-plugin-babel-compiler (⭐24)](https://github.com/yzydeveloper/vite-plugin-babel-compiler) - The plugin works with Babel compiler.
+*   [vite-plugin-webfont-dl (⭐323)](https://github.com/feat-agency/vite-plugin-webfont-dl) - Downloads and injects webfonts (Google Fonts) to improve website's performance.
+*   [vite-plugin-babel-compiler (⭐25)](https://github.com/yzydeveloper/vite-plugin-babel-compiler) - The plugin works with Babel compiler.
 
 ---
 

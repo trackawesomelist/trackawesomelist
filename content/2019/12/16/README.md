@@ -22,7 +22,7 @@
 
 ### Image
 
-*   [BSZoomGridScrollView (⭐158)](https://github.com/boraseoksoon/BSZoomGridScrollView) - iOS customizable grid style scrollView UI library to display your UIImage array input, designed primarily for SwiftUI as well as to interoperate with UIKit.
+*   [BSZoomGridScrollView (⭐159)](https://github.com/boraseoksoon/BSZoomGridScrollView) - iOS customizable grid style scrollView UI library to display your UIImage array input, designed primarily for SwiftUI as well as to interoperate with UIKit.
 
 ## [4. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/README.md)
 
@@ -46,7 +46,7 @@
 
 ### Tools / Dynamic Analysis Tools
 
-*   [Android Malware Sandbox (⭐278)](https://github.com/Areizen/Android-Malware-Sandbox)
+*   [Android Malware Sandbox (⭐282)](https://github.com/Areizen/Android-Malware-Sandbox)
 
 ## [8. Awesome Video](/content/krzemienski/awesome-video/README.md)
 

@@ -34,11 +34,11 @@
 
 ### CMS
 
-*   [BlogEngine.NET (⭐955)](https://github.com/rxtur/BlogEngine.NET) - Simple but full featured ASP.NET blog
+*   [BlogEngine.NET (⭐969)](https://github.com/rxtur/BlogEngine.NET) - Simple but full featured ASP.NET blog
 
 ### Misc
 
-*   [Valit (⭐320)](https://github.com/valit-stack/Valit) - Valit is dead simple, fluent validation for .NET Core.
+*   [Valit (⭐322)](https://github.com/valit-stack/Valit) - Valit is dead simple, fluent validation for .NET Core.
 
 ## [6. Awesome Ctf](/content/apsdehal/awesome-ctf/README.md)
 

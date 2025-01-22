@@ -16,7 +16,7 @@
 
 ### Web / Playground
 
-*   :octocat: [n8n.io (⭐43k)](https://github.com/n8n-io/n8n) - Open Source Workflow Automation Tool
+*   :octocat: [n8n.io (⭐54k)](https://github.com/n8n-io/n8n) - Open Source Workflow Automation Tool
 
 ## [3. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
 
@@ -67,7 +67,7 @@
 
 ### Image / Backend-Driven
 
-*   [Bitmap (⭐171)](https://github.com/renancaraujo/bitmap) <!--stargazers:renancaraujo/bitmap--> - Perform Bitmap manipulations (such as contrast and exposure) with a help from the Dart FFI by [Renan C. Araújo](https://github.com/renancaraujo)
+*   [Bitmap (⭐175)](https://github.com/renancaraujo/bitmap) <!--stargazers:renancaraujo/bitmap--> - Perform Bitmap manipulations (such as contrast and exposure) with a help from the Dart FFI by [Renan C. Araújo](https://github.com/renancaraujo)
 
 ## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -116,11 +116,11 @@
 
 ### ORM and Datamapping
 
-*   [panoramix (⭐41)](https://github.com/gameanalytics/panoramix) - Apache Druid client for Elixir.
+*   [panoramix (⭐42)](https://github.com/gameanalytics/panoramix) - Apache Druid client for Elixir.
 
 ### Text and Numbers
 
-*   [caustic (⭐2)](https://github.com/agro1986/caustic) - Elixir cryptocurrency library for Bitcoin, Ethereum, and other blockchains. Includes cryptography, number theory (prime, congruence), and general mathematics library for exploratory math.
+*   [caustic (⭐6)](https://github.com/agro1986/caustic) - Elixir cryptocurrency library for Bitcoin, Ethereum, and other blockchains. Includes cryptography, number theory (prime, congruence), and general mathematics library for exploratory math.
 
 ### Screencasts
 

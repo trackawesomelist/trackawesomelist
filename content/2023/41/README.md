@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 09 - Oct 15, 2023
 
-28 awesome lists updated this week.
+26 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,26 +16,24 @@
 
 ### Security
 
-*   [Prompt Injection (⭐153)](https://github.com/FonduAI/awesome-prompt-injection#readme) - A type of vulnerability that specifically targets machine learning models.
+*   [Prompt Injection (⭐195)](https://github.com/FonduAI/awesome-prompt-injection#readme) - A type of vulnerability that specifically targets machine learning models.
 
 ### Miscellaneous
 
-*   [Biological Image Analysis (⭐108)](https://github.com/hallvaaw/awesome-biological-image-analysis#readme) - Interpreting biological phenomena using images.
-*   [HPC (⭐82)](https://github.com/dstdev/awesome-hpc#readme) - High Performance Computing.
+*   [Biological Image Analysis (⭐125)](https://github.com/hallvaaw/awesome-biological-image-analysis#readme) - Interpreting biological phenomena using images.
+*   [HPC (⭐114)](https://github.com/dstdev/awesome-hpc#readme) - High Performance Computing.
 
 ## [3. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [vue-surf (⭐24)](https://github.com/f820602h/vue-surf) - A very customized animated svg wave Vue component. [Online Demo](https://f820602h.github.io/vue-surf/)
-*   [vue-cool-box-selector (⭐11)](https://github.com/hassan-jahan/vue-cool-box-selector) - Fancy versatile, box / button / image selector for Vue 2 and 3 🪄✨ \~1KB
-*   [vue-stage-play (⭐33)](https://github.com/f820602h/vue-stage-play) - Step-by-step guided tour components for Vue3.
+*   [vue-stage-play (⭐38)](https://github.com/f820602h/vue-stage-play) - Step-by-step guided tour components for Vue3.
 
 ## [4. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
 ### Libraries / JavaScript
 
-*   [Neuledge (⭐237)](https://github.com/neuledge/engine-js) - Universal schema-based ORM with multi-state representation for entities
+*   [Neuledge (⭐238)](https://github.com/neuledge/engine-js) - Universal schema-based ORM with multi-state representation for entities
 
 ## [5. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
@@ -48,7 +46,7 @@
 
 ### Official
 
-*   [OpenTofu repository (⭐22k)](https://github.com/opentofu/opentofu) 🎉
+*   [OpenTofu repository (⭐24k)](https://github.com/opentofu/opentofu) 🎉
 
 ### Community
 
@@ -276,9 +274,9 @@
 
 ### Shell Script Development
 
-*   [bats (⭐4.8k)](https://github.com/bats-core/bats-core) - Bash Automated Testing System.
+*   [bats (⭐4.9k)](https://github.com/bats-core/bats-core) - Bash Automated Testing System.
 *   [bunit (⭐196)](https://github.com/rafritts/bunit) - A unit testing framework for Bash scripts.
-*   [modernish (⭐739)](https://github.com/modernish/modernish) - Library with various features for shell scripting.
+*   [modernish (⭐744)](https://github.com/modernish/modernish) - Library with various features for shell scripting.
 
 ## [9. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
@@ -296,17 +294,17 @@
 
 *   [Conceptual Framework for Autonomous Cognitive Entities](https://arxiv.org/abs/2310.06775): a paper that "introduces the Autonomous Cognitive Entity (ACE) model, a novel framework for a cognitive architecture, enabling machines and software agents to operate more independently"
 *   [Mindstorms in Natural Language-Based Societies of Mind](https://arxiv.org/abs/2305.17066): a paper that evaluates the natural language-based societies of mind (NLSOMs), leveraging mindstorms in them to solve some practical AI tasks
-*   [AutoGen | Microsoft](https://microsoft.github.io/autogen/): multi-agent conversation framework as a high-level abstraction by Microsoft \[[github (⭐30k)](https://github.com/microsoft/autogen)]
+*   [AutoGen | Microsoft](https://microsoft.github.io/autogen/): multi-agent conversation framework as a high-level abstraction by Microsoft \[[github (⭐38k)](https://github.com/microsoft/autogen)]
 
 ### Autonomous LLM Agents / Multi-agents
 
-*   [OpenBMB/ChatDev (⭐25k)](https://github.com/OpenBMB/ChatDev): create customized software using natural language idea (through llm-powered multi-agent collaboration)
+*   [OpenBMB/ChatDev (⭐26k)](https://github.com/OpenBMB/ChatDev): create customized software using natural language idea (through llm-powered multi-agent collaboration)
 
 ## [11. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [php-version-switcher (⭐1)](https://github.com/Akollade/php-version-switcher.plugin.zsh) - Changes php versions if a `.php-version` file is found.
+*   [php-version-switcher (⭐2)](https://github.com/Akollade/php-version-switcher.plugin.zsh) - Changes php versions if a `.php-version` file is found.
 *   [zautoload (⭐4)](https://github.com/Doc0x1/zautoload) - Autoloader for ZSH config files.
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
@@ -329,63 +327,13 @@
 *   [PICO Browser Start Page](https://browser-us.picovr.com/) - The default start page for PICO Browser.
 *   [Wolvic Start Page](https://wolvic.com/en/start/) - The default start page for the Wolvic browser.
 
-## [13. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/week/README.md)
-
-### Periodic Global Connectivity Reports
-
-*   GSMA - State of Mobile Internet Connectivity ([2023](https://www.gsma.com/r/wp-content/uploads/2023/10/The-State-of-Mobile-Internet-Connectivity-Report-2023.pdf)) ([2022](https://www.gsma.com/r/wp-content/uploads/2022/10/The-State-of-Mobile-Internet-Connectivity-Report-2022.pdf)) ([2020](https://www.gsma.com/r/wp-content/uploads/2020/09/GSMA-State-of-Mobile-Internet-Connectivity-Report-2020.pdf)) ([2019](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2019/07/GSMA-State-of-Mobile-Internet-Connectivity-Report-2019.pdf)) ([2018](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2018/09/State-of-Mobile-Internet-Connectivity-2018.pdf))
-
-## [14. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
+## [13. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### Monitoring/Statistics/Perfomance / Samples
 
 *   [Metis](https://www.metisdata.io/product/troubleshooting) - Metis provides observability and performance tuning for SQL databases.
 
-## [15. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/week/README.md)
-
-### **The Problem with RAG**
-
-*   The Problem with RAG
-    1.  A question is not semantically similar to its answers. Cosine similarity may favor semantically similar texts that do not contain the answer.
-    2.  Semantic similarity gets diluted if the document is too long. Cosine similarity may favor short documents with only the relevant information.
-    3.  The information needs to be contained in one or a few documents. Information that requires aggregations by scanning the whole data.
-
-### **Vector Database Comparison** / **Vector Database Options for Azure**
-
-*   azure-vector-db-python\vector-db-in-azure-native.ipynb: sample code for vector databases in azure
-
-### **Semantic Kernel** / **Semantic Function**
-
-*   Semantic Function - expressed in natural language in a text file "*skprompt.txt*" using SK's
-    [Prompt Template language (⭐21k)](https://github.com/microsoft/semantic-kernel/blob/main/docs/PROMPT_TEMPLATE_LANGUAGE.md).
-    Each semantic function is defined by a unique prompt template file, developed using modern prompt engineering techniques. [cite (⭐21k)](https://github.com/microsoft/semantic-kernel/blob/main/docs/GLOSSARY.md)
-
-### **Semantic Kernel** / **Semantic Kernel Glossary**
-
-*   [Glossary in Git (⭐21k)](https://github.com/microsoft/semantic-kernel/blob/main/docs/GLOSSARY.md) / [Glossary in MS Doc](https://learn.microsoft.com/en-us/semantic-kernel/whatissk#sk-is-a-kit-of-parts-that-interlock)
-
-    <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/kernel-flow.png" alt="sk" width="500"/>
-
-    | Term      | Short Description                                                                                                                                                                                                                                                                                     |
-    | --------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-    | ASK       | A user's goal is sent to SK as an ASK                                                                                                                                                                                                                                                                 |
-    | Kernel    | [The kernel](https://learn.microsoft.com/en-us/semantic-kernel/concepts-sk/kernel) orchestrates a user's ASK                                                                                                                                                                                          |
-    | Planner   | [The planner](https://learn.microsoft.com/en-us/semantic-kernel/concepts-sk/planner) breaks it down into steps based upon resources that are available                                                                                                                                                |
-    | Resources | Planning involves leveraging available [skills,](https://learn.microsoft.com/en-us/semantic-kernel/concepts-sk/skills) [memories,](https://learn.microsoft.com/en-us/semantic-kernel/concepts-sk/memories) and [connectors](https://learn.microsoft.com/en-us/semantic-kernel/concepts-sk/connectors) |
-    | Steps     | A plan is a series of steps for the kernel to execute                                                                                                                                                                                                                                                 |
-    | Pipeline  | Executing the steps results in fulfilling the user's ASK                                                                                                                                                                                                                                              |
-
-### **Prompt Guide & Leaked prompts** / **Prompt Template Language**
-
-*   [Azure OpenAI Prompt engineering techniques](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/concepts/advanced-prompt-engineering)
-*   [OpenAI Prompt example](https://platform.openai.com/examples)
-*   [OpenAI Best practices for prompt engineering](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-openai-api)
-
-### **Survey on Large Language Models** / **GPT series release date**
-
-*   Picked out the list by \[cited by count] and used \[survey] as a search keyword. The papers on a specific topic are included even if few \[cited by count].
-
-## [16. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
+## [14. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
 
 ### Education
 
@@ -420,30 +368,10 @@
 
 
 
-## [17. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
+## [15. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
 
 ### Family
 
-### [The Crew: Mission Deep Sea](https://boardgamegeek.com/boardgame/324856/crew-mission-deep-sea)
-
-> In the trick-taking card game The Crew: Mission Deep Sea, you and the other players work together to search for the lost continent of Mu. This new adventure takes your crew deep down into the abyss on a search for the fabled sunken land. How far you get depends entirely on how well you work together as a team. Card by card, trick by trick, your search party will discover the challenges that lie ahead and forge a path to Mu.
->
-> This new version of The Crew has the same innovative co-operative trick-taking mechanism as the highly lauded original game — but with some exciting new surprises! While communication between your crew members is severely limited by your submerged state, it is also critical to your success; finding the hidden land in the murky depths depends not only on winning tricks, but also on carefully negotiating the order in which they are won. If things don't go as planned, you might just be able to salvage the operation, but it will take near flawless execution and perhaps a little luck to finally reach Mu.
-
-![The Crew: Mission Deep Sea game image](https://cf.geekdo-images.com/VuBqZ1sMaDAVVHF_OEJP4g__itemrep/img/tgB3g7PECxG14yQ0FkMiMaXaOFE=/fit-in/246x300/filters:strip_icc\(\)/pic5988903.jpg)
-
-| Players | Min. Age | Time |
-| ------: | -------: | ---: |
-|   2 - 5 |       10 |  20m |
-### [That's Pretty Clever](https://boardgamegeek.com/boardgame/244522/s-pretty-clever)
-
-> Choose your dice cleverly in Ganz schön clever (German for "That's Pretty Clever") to enter them into the matching colored areas on your score sheet, putting together tricky chain-scoring opportunities, and racking up the points! The dice you don't use are as important as those you do, because every die with a lower value than the chosen one can be used by the other players, keeping everyone in the game at all times.
-
-![That's Pretty Clever! game image](https://cf.geekdo-images.com/3-unuy5JW1cC8C6EUBNiOA__itemrep/img/6BcSS0mLm9nJBIXTcz0HQ5SKJmI=/fit-in/246x300/filters:strip_icc\(\)/pic4410877.jpg)
-
-| Players | Min. Age | Time |
-| ------: | -------: | ---: |
-|   1 – 4 |        8 |  30m |
 ### [Wingspan](https://boardgamegeek.com/boardgame/266192/wingspan)
 
 > Wingspan is a competitive, medium-weight, card-driven, engine-building board game from Stonemaier Games. It's designed by Elizabeth Hargrave and features over 170 birds illustrated by Beth Sobel, Natalia Rojas, and Ana Maria Martinez.
@@ -471,17 +399,6 @@
 | Players | Min. Age |   Time |
 | ------: | -------: | -----: |
 |   2 – 4 |       13 | 45–90m |
-### [Lost Ruins of Arnak](https://boardgamegeek.com/boardgame/312484/lost-ruins-arnak)
-
-> On an uninhabited island in uncharted seas, explorers have found traces of a great civilization. Now you will lead an expedition to explore the island, find lost artifacts, and face fearsome guardians, all in a quest to learn the island's secrets.
->
-> Lost Ruins of Arnak combines deck-building and worker placement in a game of exploration, resource management, and discovery. In addition to traditional deck-builder effects, cards can also be used to place workers, and new worker actions become available as players explore the island. Some of these actions require resources instead of workers, so building a solid resource base will be essential. You are limited to only one action per turn, so make your choice carefully... what action will benefit you most now? And what can you afford to do later... assuming someone else doesn't take the action first!?
-
-![Lost Ruins of Arnak game image](https://cf.geekdo-images.com/6GqH14TJJhza86BX5HCLEQ__itemrep/img/ETni1QwddAVjM-xLhciF0UM0FxQ=/fit-in/246x300/filters:strip_icc\(\)/pic5674958.jpg)
-
-| Players | Min. Age |   Time |
-| ------: | -------: | -----: |
-|   1 - 4 |       12 | 30-120 |
 ### [Istanbul](https://boardgamegeek.com/boardgame/148949/istanbul)
 
 > There's hustle and bustle at Istanbul's grand bazaar as merchants and their assistants rush through the narrow alleys in their attempt to be more successful than their competitors. Everything must be well organized: wheelbarrows must be filled with goods at the warehouses, then swiftly transported by the assistants to various destinations. Your goal? Be the first merchant to collect a certain number of rubies.
@@ -520,17 +437,6 @@
 | Players | Min. Age | Time |
 | ------: | -------: | ---: |
 |   2 - 4 |        8 |  30m |
-### [Welcome To](https://boardgamegeek.com/boardgame/233867/welcome)
-
-> As an architect in Welcome To..., you want to build the best new town in the United States of the 1950s by adding resources to a pool, hiring employees, and more.
->
-> Welcome To... plays like a roll-and-write dice game in which you mark results on a score-sheet...but without dice. Instead you flip cards from three piles to make three different action sets with both a house number and a corresponding action from which everyone chooses one. You use the number to fill in a house on your street in numerical order. Then you take the action to increase the point value of estates you build or score points at the end for building parks and pools. Players also have the option of taking actions to alter or duplicate their house numbers. And everyone is racing to be the first to complete public goals. There's lots to do and many paths to becoming the best suburban architect in !
-
-![Welcome To... game image](https://cf.geekdo-images.com/g4XmxyKhNVdhC3QPd1purQ__itemrep/img/QKJwfdV3Qrv9w2TX_ML5T3z5G9E=/fit-in/246x300/filters:strip_icc\(\)/pic3761012.jpg)
-
-| Players | Min. Age | Time |
-| ------: | -------: | ---: |
-| 1 – 100 |       10 |  25m |
 ### [Cascadia](https://boardgamegeek.com/boardgame/295947/cascadia)
 
 > Cascadia is a puzzly tile-laying and token-drafting game featuring the habitats and wildlife of the Pacific Northwest.
@@ -542,39 +448,6 @@
 | Players | Min. Age |   Time |
 | ------: | -------: | -----: |
 |   1 - 4 |       10 | 30-45m |
-### [Heat: Pedal to the Metal](https://boardgamegeek.com/boardgame/366013/heat-pedal-metal)
-
-> Based on simple and intuitive hand management, Heat: Pedal to the Metal puts players in the driver's seat of intense car races, jockeying for position to cross the finish line first, while managing their car's speed if they don't want to overheat. Selecting the right upgrades for their car will help them hug the curves and keep their engine cool enough to maintain top speeds. Ultimately, their driving skills will be the key to victory!
->
-> Drivers can compete in a single race or use the "Championship System" to play a whole season in one game night, customizing their car before each race to claim the top spot of the podium. They have to be careful as the weather, road conditions, and events will change every race to spice up their championship. Players can also enjoy a solo mode with the Legends Module or add automated drivers as additional opponents in multiplayer games.
-
-![Heat: Pedal to the Metal game image](https://cf.geekdo-images.com/-vOrd4bOspibyohYExLqWg__itemrep/img/mSj0nZUY3ofhIXFZJLGzF-6MQTg=/fit-in/246x300/filters:strip_icc\(\)/pic6940449.png)
-
-| Players | Min. Age |   Time |
-| ------: | -------: | -----: |
-|   1 - 6 |       10 | 30-60m |
-### [The Quest for El Dorado](https://boardgamegeek.com/boardgame/217372/quest-el-dorado)
-
-> In The Quest for El Dorado, players take the roles of expedition leaders who have embarked on a search for the legendary land of gold in the dense jungles of South America. Each player assembles and equips their own team, hiring various helpers from the scout to the scientist to the aborigine. All of them have one goal in mind: Reaching the golden border first and winning all of the riches for themselves. Whoever chooses the best tactics will be rewarded!
-
-![The Quest for El Dorado game image](https://cf.geekdo-images.com/GLXfUI72Qph2136CxWIJww__itemrep/img/dD5tKXielG7vTwuJWeyv2PmVsds=/fit-in/246x300/filters:strip_icc\(\)/pic7648372.png)
-
-| Players | Min. Age |   Time |
-| ------: | -------: | -----: |
-|   2 - 4 |       10 | 30-60m |
-### [The Quacks of Quedlinburg](https://boardgamegeek.com/boardgame/244521/quacks-quedlinburg)
-
-> In The Quacks of Quedlinburg, players are charlatans — or quack doctors — each making their own secret brew by adding ingredients one at a time. Take care with what you add, though, for a pinch too much of this or that will spoil the whole mixture!
->
-> Each player has their own bag of ingredient chips. During each round, they simultaneously draw chips from their bags and add them to their pots. The higher the face value of the drawn chip, the further it is placed in the pot's swirling pattern, increasing how much the potion will be worth. Push your luck as far as you can, but if you add too many cherry bombs, your pot will explode!
->
-> At the end of each round, players gain victory points and coins to spend on new ingredients, depending on how well they managed to fill up their pots. But players whose pots have exploded must choose points or coins — not both! The player with the most victory points at the end of nine rounds wins the game.
-
-![The Quacks of Quedlinburg game image](https://cf.geekdo-images.com/pH5LgRL4mNRon-2NsSDb1Q__itemrep/img/qe9ywOTxtPr_n4DoXZgEY-C2qU0=/fit-in/246x300/filters:strip_icc\(\)/pic6137509.png)
-
-| Players | Min. Age | Time |
-| ------: | -------: | ---: |
-|   2 - 4 |       10 |  45m |
 ### [SCOUT](https://boardgamegeek.com/boardgame/291453/scout)
 
 > SCOUT is a ladder-climbing game in which cards have two potential values, players may not rearrange their hand of cards, and players may pass their turn to take a card from the current high set of cards into their hand.
@@ -645,19 +518,6 @@
 | Players | Min. Age |   Time |
 | ------: | -------: | -----: |
 | 1 - 100 |       10 | 30-45m |
-### [Welcome to the Moon](https://boardgamegeek.com/boardgame/339789/welcome-moon)
-
-> You've built housing for humanity in neighborhoods and New Las Vegas. Now you need to save humanity through space colonization...
->
-> Welcome to the Moon uses the same flip-and-write game mechanisms as the earlier title Welcome To..., but now you can play in a campaign across eight adventure sheets. On a turn, you flip cards from three stacks to create three different combinations of a starship number and a corresponding action, then all players choose one of these three combinations. You use the number to fill a space in a zone on your adventure sheet in numerical order, and everyone is racing to be the first to complete common missions.
->
-> The eight adventure sheets feature very different mechanisms from the classic concept, and when you play in campaign mode, you'll make choices that change the next adventure, which means that each campaign will differ from the previous one.
-
-![Welcome to the Moon game image](https://cf.geekdo-images.com/eCdiHCB9OobumwaGl4dbOQ__itemrep/img/S8KJaJ1UfomzoC4XGob6pIkresI=/fit-in/246x300/filters:strip_icc\(\)/pic6204967.png)
-
-| Players | Min. Age |   Time |
-| ------: | -------: | -----: |
-|   1 - 6 |       10 | 25-30m |
 ### [Wingspan Asia](https://boardgamegeek.com/boardgame/366161/wingspan-asia)
 
 > In this third expansion to Wingspan, we welcome new species to our habitats by exploring the vibrant, intriguing, and magnificent birds of Asia. These birds were chosen from the over 2,800 species that live in Asia.
@@ -669,22 +529,6 @@
 | Players | Min. Age |   Time |
 | ------: | -------: | -----: |
 |   1 - 2 |       10 | 40-70m |
-### [The Isle of Cats](https://boardgamegeek.com/boardgame/281259/isle-cats)
-
-> The Isle of Cats is a competitive, medium-weight, card-drafting, polyomino cat-placement board game for 1-4 players (6 with expansions).
->
-> In the game, you are citizens of Squalls End on a rescue mission to The Isle of Cats and must rescue as many cats as possible before the evil Lord Vesh arrives. Each cat is represented by a unique tile and belongs to a family, you must find a way to make them all fit on your boat while keeping families together. You will also need to manage resources as you:
->
-> *   Explore the island (by drafting cards)
-> *   Rescue cats
-> *   Find treasures
-> *   Befriend Oshax
-
-![The Isle of Cats game image](https://cf.geekdo-images.com/AuAheDzhkLufiZFE9JaRNA__itemrep/img/UTvJuevXkKm8HYOJYtUms_7iC2I=/fit-in/246x300/filters:strip_icc\(\)/pic4781085.jpg)
-
-| Players | Min. Age |   Time |
-| ------: | -------: | -----: |
-|   1 - 4 |        8 | 60-90m |
 
 ### Strategy
 
@@ -808,15 +652,6 @@
 | Players | Min. Age |    Time |
 | ------: | -------: | ------: |
 |   2 - 4 |       12 | 75-150m |
-### [Through the Ages: A New Story of Civilization](https://boardgamegeek.com/boardgame/182028/through-ages-new-story-civilization)
-
-> Through the Ages: A New Story of Civilization is a strategic board game that combines elements of card drafting, civilization building, and resource management. In this digital implementation, players guide their civilizations through the ages, from antiquity to the modern era, focusing on advancements in technology, the construction of wonders, and the development of a strong military. Weaker aspects of a player's civilization can be exploited by opponents, making military strength a vital component. Victory is achieved by accumulating the most culture by the end of the modern age. With its deep gameplay and historical context, Through the Ages offers a challenging and immersive strategy experience for players aiming to build the most prosperous civilization.
-
-![Through the Ages: A New Story of Civilization image](https://cf.geekdo-images.com/fVwPntkJKgaEo0rIC0RwpA__itemrep/img/TF5TpehpgE7XvNSRzSSWjnYCbLc=/fit-in/246x300/filters:strip_icc\(\)/pic2663291.jpg)
-
-| Players | Min. Age | Time |
-| ------: | -------: | ---: |
-|   2 - 4 |       14 | 120m |
 ### [Kanban EV](https://boardgamegeek.com/boardgame/284378/kanban-ev)
 
 > Electric vehicles (EVs) have become more common since 2014 and are the future of the automobile industry. They are superior vehicles due to them being more efficient, easier to maintain, cleaner, and cheaper to run. They are computerized machines that use AI to improve safety and in the near future will provide autonomous driving. They receive software upgrades during their lifetime and are constantly improving, unlike their traditional combustion-engine counterparts, which start to become obsolete as soon as you start using them.
@@ -827,15 +662,6 @@
 | Players | Min. Age |       Time |
 | ------: | -------: | ---------: |
 |     1–4 |       14 | 60–180 Min |
-### [The Castles of Burgundy](https://boardgamegeek.com/boardgame/84876/castles-burgundy)
-
-> The Castles of Burgundy is an immersive board game set in the Burgundy region of High Medieval France. Players assume the roles of aristocrats seeking to expand their princedoms by building settlements, constructing formidable castles, engaging in river trade, exploiting silver mines, and harnessing the knowledge of travelers. The core gameplay revolves around selecting settlement tiles from the game board and placing them onto a personal player board, with each tile having a unique function. These tiles must be placed in regions that match their type. The game unfolds in five phases, each comprising five rounds. Players roll dice at the start of each round, with one player determining the availability of goods tiles. On their turns, players can perform two of four possible actions: taking settlement tiles from the game board, placing tiles on their player board, delivering goods, or obtaining worker tokens to adjust dice rolls. Bonus points are awarded for various accomplishments, and the game concludes after the fifth phase. Victory points are tallied, and the player with the most points emerges as the winner. With both basic and advanced rules, The Castles of Burgundy offers a deep and engaging gameplay experience, and it is part of the Alea big box series.
-
-![The Castles of Burgundy image](https://cf.geekdo-images.com/5CFwjd8zTcGYVUnkXh04hw__itemrep/img/GLJxEMRq5M4T9BZGcZ6xtDzj5OQ=/fit-in/246x300/filters:strip_icc\(\)/pic1176894.jpg)
-
-| Players | Min. Age |   Time |
-| ------: | -------: | -----: |
-|   2 - 4 |       12 | 30-90m |
 ### [Brass: Lancashire](https://boardgamegeek.com/boardgame/28720/brass-lancashire)
 
 > Brass: Lancashire, formerly known as Brass, is an engaging economic strategy game that immerses players in the competitive world of cotton entrepreneurs during the industrial revolution in Lancashire. The objective is to develop, construct, and expand your industrial network to meet the high demand for iron, coal, and cotton. The game unfolds in two phases, the canal phase, and the rail phase, with victory points (VPs) being the ultimate goal. Players take turns, with each round offering two actions to choose from a set list, which includes building industries, constructing canals or rails, developing industries, selling cotton, or taking a loan. The turn order depends on the amount of money spent, creating strategic opportunities for those who go later in the order. After the canal phase, a scoring round occurs, followed by the rail phase with expanded building possibilities. After another scoring round, the game concludes, and the winner is determined. The game's unique card system dictates where industries can be built while allowing flexible use for other actions, encouraging strategic card management. Resources are shared, adding depth to competition, as players often rely on each other's production. This 2018 edition by Roxley Games features new artwork and rules enhancements, making it a captivating and improved experience for players aiming to build the most prosperous industrial empire in Lancashire.
@@ -845,15 +671,6 @@
 | Players | Min. Age |    Time |
 | ------: | -------: | ------: |
 |   2 - 4 |       14 | 60-120m |
-### [Eclipse: Second Dawn Galaxy](https://boardgamegeek.com/boardgame/246900/eclipse-second-dawn-galaxy)
-
-> A game of Eclipse places you in control of a vast interstellar civilization, competing for success with its rivals. You explore new star systems, research technologies, and build spaceships with which to wage war. There are many potential paths to victory, so you need to plan your strategy according to the strengths and weaknesses of your species, while paying attention to the other civilizations' endeavors.
-
-![Eclipse: Second Dawn Galaxy image](https://cf.geekdo-images.com/Oh3kHw6lweg6ru71Q16h2Q__itemrep/img/1flTGokf8uwox72PWvkNq3kOhMM=/fit-in/246x300/filters:strip_icc\(\)/pic5235277.jpg)
-
-| Players | Min. Age |    Time |
-| ------: | -------: | ------: |
-|   2 - 6 |       14 | 60-200m |
 ### [Mage Knight Board Game](https://boardgamegeek.com/boardgame/96848/mage-knight-board-game)
 
 > The Mage Knight board game puts you in control of one of four powerful Mage Knights as you explore (and conquer) a corner of the Mage Knight universe under the control of the Atlantean Empire. Build your army, fill your deck with powerful spells and actions, explore caves and dungeons, and eventually conquer powerful cities controlled by this once-great faction! In competitive scenarios, opposing players may be powerful allies, but only one will be able to claim the land as their own. In cooperative scenarios, the players win or lose as a group. Solo rules are also included.
@@ -892,17 +709,6 @@
 | Players | Min. Age | Time |
 | ------: | -------: | ---: |
 |       2 |        9 |  30m |
-### [Field of Fire](https://boardgamegeek.com/boardgame/22877/fields-fire)
-
-> Fields of Fire is a solitaire tactical wargame published by GMT Games, designed to simulate historical campaigns from World War II to the present day. The game revolves around a card-based system, employing two decks—the terrain deck and action decks. Players are tasked with constructing maps for various missions within a historical campaign, employing turn-based strategic actions to achieve their objectives. A single game comprises several missions, each lasting approximately 3 to 5 hours. Fields of Fire has received recognition for its excellence, including Games Magazine's award for Best New Historical Simulation Game in their 2010 Games 100 issue. It offers a deep and immersive strategic experience for players interested in historical warfare simulations.
-
-![Field of Fires](https://cf.geekdo-images.com/I6mylmwz8JSzMTL_1QJVeQ__itemrep/img/qRkrmdPBOZjxKXk5qzx6OEeU7PA=/fit-in/246x300/filters:strip_icc\(\)/pic406760.jpg)
-
-| Players | Min. Age |    Time |
-| ------: | -------: | ------: |
-|       1 |       12 | 60-300m |
-
-<!--lint ignore no-heading-punctuation-->
 ### [Ambush!](https://boardgamegeek.com/boardgame/1608/ambush)
 
 > Ambush! is a strategy board game developed by Avalon Hill, known for its innovative approach to single-player gameplay in the wargaming genre. Released in 1983, it broke away from the traditional requirement of two players by allowing a solo player to engage in man-to-man combat scenarios. What made Ambush! unique was its use of tables, charts, and a "paragraph book" to control the opponent's actions, eliminating the need for an opposing player. This approach kept the enemy hidden until they became visible through gameplay, enhancing the element of surprise and realism. While it allowed for multiple players to participate by controlling different squads or soldiers, the complexity of scenario creation often required players to purchase expansion modules. Ambush! is a strategy game that offers an engaging and challenging experience for players seeking tactical warfare simulations.
@@ -942,16 +748,6 @@
 
 ### Party
 
-### [On Mars](https://boardgamegeek.com/boardgame/184267/mars)
-
-> Following the success of unmanned rover missions, the United Nations established the Department of Operations and Mars Exploration (D.O.M.E.). The first settlers arrived on Mars in the year 2037 and in the decades after establishment Mars Base Camp, private exploration companies began work on the creation of a self-sustaining colony. As chief astronaut for one of these enterprises, you want to be a pioneer in the development of the biggest, most advanced colony on Mars by achieving both D.O.M.E. mission goals as well as your company’s private agenda.
-> In the beginning, you will be dependent on supplies from Earth and will have to travel often between the Mars Space Station and the planet's surface. As the colony expands over time, you will shift your activities to construct mines, power generators, water extractors, greenhouses, oxygen factories, and shelters. Your goal is to develop a self-sustaining colony independent of any terrestrial organization. This will require understanding the importance of water, air, power, and food — the necessities for survival.
-
-![On Mars game image](https://cf.geekdo-images.com/Nm0Iw8NoiM9V8IsifimGBw__itemrep/img/xTjuZwi_7iS6FpZIISWTk7SAZ5o=/fit-in/246x300/filters:strip_icc\(\)/pic4357658.jpg)
-
-| Players | Min. Age |       Time |
-| ------: | -------: | ---------: |
-|     1–4 |       14 | 90–150 Min |
 ### [Food Chain Magnate](https://boardgamegeek.com/boardgame/175914/food-chain-magnate)
 
 > Food Chain Magnate is a heavy strategy game about building a fast food chain. The focus is on building your company using a card-driven (human) resource management system. Players compete on a variable city map through purchasing, marketing and sales, and on a job market for key staff members. The game can be played by 2-5 serious gamers in 2-4 hours.
@@ -982,16 +778,6 @@
 | Players | Min. Age |      Time |
 | ------: | -------: | --------: |
 |     1–6 |       13 | 45–90 Min |
-### [Caverna: The Cave Farmers](https://boardgamegeek.com/boardgame/102794/caverna-cave-farmers)
-
-> Following along the same lines as its predecessor (Agricola), Caverna: The Cave Farmers is a worker-placement game at heart, with a focus on farming. In the game, you are the bearded leader of a small dwarf family that lives in a little cave in the mountains. You begin the game with a farmer and his spouse, and each member of the farming family represents an action that the player can take each turn. Together, you cultivate the forest in front of your cave and dig deeper into the mountain. You furnish the caves as dwellings for your offspring as well as working spaces for small enterprises.
-> It's up to you how much ore you want to mine. You will need it to forge weapons that allow you to go on expeditions to gain bonus items and actions. While digging through the mountain, you may come across water sources and find ore and ruby mines that help you increase your wealth. Right in front of your cave, you can increase your wealth even further with agriculture: You can cut down the forest to sow fields and fence in pastures to hold your animals. You can also expand your family while running your ever-growing farm. In the end, the player with the most efficiently developed home board wins.
-
-![Caverna: The Cave Farmers game image](https://cf.geekdo-images.com/rz22tqa5PCYvK9oDjIbvxg__itemrep/img/8tBInJIElBaiYVJ-gngzWmrSrsw=/fit-in/246x300/filters:strip_icc\(\)/pic1790789.jpg)
-
-| Players | Min. Age |       Time |
-| ------: | -------: | ---------: |
-|     1–7 |       12 | 30–210 Min |
 ### [Maracaibo](https://boardgamegeek.com/boardgame/276025/maracaibo)
 
 > Maracaibo, a strategy game for 1-4 players by Alexander Pfister, is set in the Caribbean during the 17th century. The players try to increase their influence in three nations in four rounds with a play time of 40 minutes per player.
@@ -1013,15 +799,6 @@
 | Players | Min. Age |       Time |
 | ------: | -------: | ---------: |
 |     1–4 |       12 | 60–120 Min |
-### [Wits & Wagers](https://boardgamegeek.com/boardgame/20100/wits-wagers)
-
-> Not a trivia buff? It doesn't matter! In Wits & Wagers, each player writes a guess to a question such as “In what year did the bikini swimsuit makes its first appearance?” or “How many feet wide is an NFL football field?” and places it face-up on the betting mat. Think you know the answer? Bet on your guess. Think you know who the experts are? Bet on their guess. The closest answer — without going over — pays out according to the odds on the betting mat. Strike it big and you'll be cheering like you just hit the jackpot! Wits & Wagers is a trivia game that lets you bet on anyone's answer. So you can win by making educated guesses, by playing the odds, or by knowing the interests of your friends. It can be taught in 2 minutes, played in 25 minutes, and accommodates up to 20 people in teams.
-
-![Wits & Wagers image](https://cf.geekdo-images.com/TxojLHTFHfBOBAk9MQSyLg__itemrep/img/HoSHsIveJn0jvXHUeM5x3-iGf44=/fit-in/246x300/filters:strip_icc\(\)/pic2558555.jpg)
-
-| Players | Min. Age | Time |
-| ------: | -------: | ---: |
-|   3 - 7 |       10 |  25m |
 ### [Just One](https://boardgamegeek.com/boardgame/254640/just-one)
 
 > Just One is a cooperative party game in which you play together to discover as many mystery words as possible. Find the best clue to help your teammate. Be unique, as all identical clues will be cancelled! A complete game is played over 13 cards. The goal is to get a score as close to 13 as possible. In case of a right answer, the players score 1 point. In case of wrong answer, they lose the current card as well as the top card of the deck. Thus losing 2 points. In case of lack of answer, the players only lose the current card, and therefore only 1 point. You have the choice – make the difference!
@@ -1031,15 +808,6 @@
 | Players | Min. Age |     Time |
 | ------: | -------: | -------: |
 |   3 - 7 |        8 | 20 - 60m |
-### [Blood on the Clocktower](https://boardgamegeek.com/boardgame/240980/blood-clocktower)
-
-> Blood on the Clocktower is a bluffing game enjoyed by 5 to 20 players on opposing teams of Good and Evil, overseen by a Storyteller player who conducts the action and makes crucial decisions. The goal of the game is to successfully deduce and execute the demons before they outnumber the townfolk. During a 'day' phase players socialize openly and whisper privately to trade knowledge or spread lies, culminating in a player's execution if a majority suspects them of being Evil. Of a 'night' time, players close their eyes and are woken one at a time by the Storyteller to gather information, spread mischief, or kill. The Storyteller uses the game's intricate playing pieces to guide each game, leaving others free to play without a table or board. Players stay in the thick of the action to the very end even if their characters are killed, haunting Ravenswood Bluff as ghosts trying to win from beyond the grave. If you arrive late to a game, you can enter after it's started as a powerful Traveller character with unusual talents and questionable allegiances. Each character comes with their own special ability and no two players in a game are ever the same character.
-
-![Blood on the clocktower img](https://cf.geekdo-images.com/HINb2nkFn5IiZxAlzQIs4g__itemrep/img/ji9nruIqJkNi8omWgNRZKmrZjwA=/fit-in/246x300/filters:strip_icc\(\)/pic7009391.jpg)
-
-| Players | Min. Age |    Time |
-| ------: | -------: | ------: |
-|    5-20 |       15 | 30-120m |
 ### [Snake Oil](https://boardgamegeek.com/boardgame/113289/snake-oil)
 
 > In the Old West, the wily snake oil salesman had a special talent, getting the most skeptical customers to buy the most dubious products. Now it's your turn! Invent your own zany two-word products – Rumor Mirror! Burp Balloon! – and sell them to all types of wacky customers. If the round's customer buys your product, you win the round! To set up Snake Oil, each player takes six purple word cards. The customer for the round draws a customer card and announces it. Inventors quickly combine two purple word cards from their hand to form a crazy new product to sell to that customer. When ready, each inventor quickly pitches his or her product directly to the customer. The customer can end any pitch that goes longer than thirty seconds. The customer decides which product to buy and gives the inventor of that product the round's customer card as the prize. Inventors discard all used word cards and take two new word cards each. The player to the left of the customer becomes the next round's customer. Play repeats until each player has been the customer once. Whoever collects the most customer cards wins the game.
@@ -1104,7 +872,7 @@
 | ------: | -------: | -----: |
 |  4 - 16 |       17 | 30-60m |
 
-## [18. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [16. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / File Transfer - Peer-to-peer Filesharing
 
@@ -1113,23 +881,23 @@
 ### Software / Manufacturing
 
 *   [CNCjs](https://cnc.js.org/) - A web-based interface for CNC milling controller running Grbl, Smoothieware, or TinyG. ([Source Code (⭐2.3k)](https://github.com/cncjs/cncjs/)) `MIT` `Nodejs`
-*   [Fluidd](https://docs.fluidd.xyz/) - Lightweight & responsive user interface for Klipper, the 3D printer firmware. ([Source Code (⭐1.4k)](https://github.com/fluidd-core/fluidd)) `GPL-3.0` `Docker/Nodejs`
-*   [Mainsail](https://docs.mainsail.xyz/) - A modern and responsive user interface for the Klipper 3D printer firmware. Control and monitor your printer from everywhere, from any device. ([Source Code (⭐1.7k)](https://github.com/mainsail-crew/mainsail)) `GPL-3.0` `Docker/Python`
-*   [Octoprint](https://octoprint.org/) - A snappy web interface for controlling consumer 3D printers. ([Source Code (⭐8.2k)](https://github.com/OctoPrint/OctoPrint)) `AGPL-3.0` `Docker/Python`
+*   [Fluidd](https://docs.fluidd.xyz/) - Lightweight & responsive user interface for Klipper, the 3D printer firmware. ([Source Code (⭐1.5k)](https://github.com/fluidd-core/fluidd)) `GPL-3.0` `Docker/Nodejs`
+*   [Mainsail](https://docs.mainsail.xyz/) - A modern and responsive user interface for the Klipper 3D printer firmware. Control and monitor your printer from everywhere, from any device. ([Source Code (⭐1.8k)](https://github.com/mainsail-crew/mainsail)) `GPL-3.0` `Docker/Python`
+*   [Octoprint](https://octoprint.org/) - A snappy web interface for controlling consumer 3D printers. ([Source Code (⭐8.4k)](https://github.com/OctoPrint/OctoPrint)) `AGPL-3.0` `Docker/Python`
 
 ### Software / Media Streaming - Video Streaming
 
-*   [Owncast](https://owncast.online/) - Decentralized single-user live video streaming and chat server for running your own live streams similar in style to the large mainstream options. ([Source Code (⭐9.2k)](https://github.com/owncast/owncast)) `MIT` `Go`
+*   [Owncast](https://owncast.online/) - Decentralized single-user live video streaming and chat server for running your own live streams similar in style to the large mainstream options. ([Source Code (⭐9.7k)](https://github.com/owncast/owncast)) `MIT` `Go`
 
 ### Software / Money, Budgeting & Management
 
-*   [OctoBot](https://www.octobot.cloud/) - Open-source cryptocurrency trading bot. ([Source Code (⭐3.2k)](https://github.com/Drakkar-Software/OctoBot)) `GPL-3.0` `Python/Docker`
+*   [OctoBot](https://www.octobot.cloud/) - Open-source cryptocurrency trading bot. ([Source Code (⭐3.7k)](https://github.com/Drakkar-Software/OctoBot)) `GPL-3.0` `Python/Docker`
 
 ### Software / Recipe Management
 
-*   [Specifically Clementines](https://davideshay.github.io/groceries/) - Grocery shopping app (previously Groceries), providing reliable sync with multiple users/devices (web/Android/iOS), recipes and integration with Tandoor. ([Demo](https://www.specificallyclementines.com/), [Source Code (⭐215)](https://github.com/davideshay/groceries)) `MIT` `Docker`
+*   [Specifically Clementines](https://davideshay.github.io/groceries/) - Grocery shopping app (previously Groceries), providing reliable sync with multiple users/devices (web/Android/iOS), recipes and integration with Tandoor. ([Demo](https://www.specificallyclementines.com/), [Source Code (⭐228)](https://github.com/davideshay/groceries)) `MIT` `Docker`
 
-## [19. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [17. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Testing
 
@@ -1143,7 +911,7 @@
 
 *   [Glassfy](https://glassfy.io/) – In-app subscriptions infrastructure, real-time subscription events and out-of-the-box monetization tools on iOS, Android, Stripe and Paddle. Free up to $10k monthly revenue.
 
-## [20. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [18. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Tailwind CSS Based / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -1153,7 +921,7 @@
 
 *   [Zoom Image Library](https://willnguyen1312.github.io/zoom-image) - A little yet powerful framework agnostic headless-library to zoom image on the web.
 
-## [21. Awesome Devtools](/content/moimikey/awesome-devtools/week/README.md)
+## [19. Awesome Devtools](/content/moimikey/awesome-devtools/week/README.md)
 
 ### Bookmarklets
 
@@ -1249,19 +1017,19 @@
 *   [Security Headers by Probely](https://securityheaders.com/?q=https%3A%2F%2Fsecurityheaders.com) - An easy to use tool designed to help you better deploy and understand modern security features that are available for your website.
 *   [Web Check](https://web-check.xyz) - All-in-one OSINT tool for analysing any website.
 
-## [22. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
+## [20. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
 
 ### Tools and Equipment / 3D Printing and Fabrication
 
 *   [Printables](https://www.printables.com/) - Database of 3D-printable models with contests and an active community
 
-## [23. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
+## [21. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
 
 ### Examples
 
-*   [gowebly/gowebly (⭐779)](https://github.com/gowebly/gowebly#readme) - Clean project banner with logo. Useful badges and links (languages switcher, test cover, docs). Clear description of what the project does with quickstart, understandable feature list, links to the introduction video and article, well-documented CLI command examples, project philosophy notes ("motivation to create"), tables with project components, links to addons and helpers, list of stargazers, and more.
+*   [gowebly/gowebly (⭐1.1k)](https://github.com/gowebly/gowebly#readme) - Clean project banner with logo. Useful badges and links (languages switcher, test cover, docs). Clear description of what the project does with quickstart, understandable feature list, links to the introduction video and article, well-documented CLI command examples, project philosophy notes ("motivation to create"), tables with project components, links to addons and helpers, list of stargazers, and more.
 
-## [24. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
+## [22. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
 
 ### Chrome Extensions:
 
@@ -1278,7 +1046,7 @@
 
 
 
-## [25. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [23. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Deployment Hosting
 
@@ -1288,19 +1056,19 @@
 
 *   [Airbrake](https://airbrake.io) - Error monitoring in production.
 
-## [26. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [24. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### (requires Neovim 0.5)
 
-*   [nvimtools/none-ls.nvim (⭐2.4k)](https://github.com/nvimtools/none-ls.nvim) - Null-ls.nvim reloaded / Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
+*   [nvimtools/none-ls.nvim (⭐2.7k)](https://github.com/nvimtools/none-ls.nvim) - Null-ls.nvim reloaded / Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
 
 ### Search / Diagnostics
 
-*   [nvimdev/hlsearch.nvim (⭐69)](https://github.com/nvimdev/hlsearch.nvim) - Auto remove search highlight and rehighlight when using n or N.
+*   [nvimdev/hlsearch.nvim (⭐75)](https://github.com/nvimdev/hlsearch.nvim) - Auto remove search highlight and rehighlight when using n or N.
 
 ### Note Taking / Diagnostics
 
-*   [gsuuon/note.nvim (⭐63)](https://github.com/gsuuon/note.nvim) - Daily tasks with deep-linking and project spaces.
+*   [gsuuon/note.nvim (⭐69)](https://github.com/gsuuon/note.nvim) - Daily tasks with deep-linking and project spaces.
 
 ### Utility / Diagnostics
 
@@ -1308,15 +1076,15 @@
 
 ### Remote Development / Diagnostics
 
-*   [niuiic/remote.nvim (⭐35)](https://github.com/niuiic/remote.nvim) - Edit remote files with local configuration.
+*   [niuiic/remote.nvim (⭐42)](https://github.com/niuiic/remote.nvim) - Edit remote files with local configuration.
 
-## [27. Ai Collective Tools](/content/Hyraze/ai-collective-tools/week/README.md)
+## [25. Ai Collective Tools](/content/Hyraze/ai-collective-tools/week/README.md)
 
 ### Image Generator
 
 *   [Midjourney AI](https://www.midjourneyai.ai/) - Just enter your prompt and click the generate button.No code required to generate your image!
 
-## [28. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
+## [26. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
 
 ### Cloud Computing
 
@@ -1328,7 +1096,7 @@
 
 ### Machine Learning
 
-*   [The Little Book of Deep Learning](https://fleuret.org/public/lbdl.pdf) - François Fleuret (PDF)
+*   [The Little Book of Deep Learning](https://fleuret.org/public/lbdl.pdf) - François Fleuret (PDF) (CC BY-NC-SA)
 
 ### Mathematics
 
@@ -1341,7 +1109,7 @@
 
 ### Professional Development
 
-*   [How to Stand Out as a Software Engineer (⭐5)](https://github.com/lvndry/how-to-stand-out-as-a-software-engineer/blob/main/how_to_stand_out_as_a_software_engineer.pdf) - Landry Monga (PDF)
+*   [How to Stand Out as a Software Engineer (⭐6)](https://github.com/lvndry/how-to-stand-out-as-a-software-engineer/blob/main/how_to_stand_out_as_a_software_engineer.pdf) - Landry Monga (PDF)
 
 ### Quantum Computing
 

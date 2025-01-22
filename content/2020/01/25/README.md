@@ -6,11 +6,11 @@
 
 
 
-## [1. Awesome Python](/content/vinta/awesome-python/README.md)
+## [1. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 
-### Science
+### Graph Machine Learning / Others
 
-*   [Karate Club (⭐2.1k)](https://github.com/benedekrozemberczki/karateclub) - Unsupervised machine learning toolbox for graph structured data.
+*   [Karate Club (⭐2.1k)](https://github.com/benedekrozemberczki/karateclub) - An unsupervised machine learning library for graph-structured data.
 
 ## [2. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
@@ -22,7 +22,7 @@
 
 ### Software / Python
 
-*   [karateclub (⭐2.1k)](https://github.com/benedekrozemberczki/karateclub) - Python package for unsupervised learning on graph structured data with a scikit-learn like API.
+*   [karateclub (⭐2.2k)](https://github.com/benedekrozemberczki/karateclub) - Python package for unsupervised learning on graph structured data with a scikit-learn like API.
 
 ## [4. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
 
@@ -34,7 +34,7 @@
 
 ### User Interface toolkits
 
-*   [vgtk3 (⭐58)](https://github.com/vgtk/vgtk3) - A wrapper for GTK3 in V.
+*   [vgtk3 (⭐60)](https://github.com/vgtk/vgtk3) - A wrapper for GTK3 in V.
 
 ## [6. Awesome Product Management](/content/dend/awesome-product-management/README.md)
 
@@ -50,10 +50,9 @@
 
 ### Communication / Collaboration and Team Tools
 
-*   [Shift](https://tryshift.com/) - De-clutter your desktop workspace and streamline your accounts, apps, and workflows.
 *   [Stack](https://getstack.app/) - Open, organize and use multiple web apps on a single screen. Stack your apps by categories or projects.
 
-### Utilities / Quality of Life Improvements
+### Utilities / Menu Bar Tools
 
 *   [One Switch](https://fireball.studio/oneswitch) - Mac menu bar app that adds various switches to the Mac's menu bar.
 

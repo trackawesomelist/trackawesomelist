@@ -28,7 +28,7 @@
 
 ### Media / Audio
 
-*   [Flutter Audio Recorder (⭐121)](https://github.com/shadow-app/flutter_audio_recorder) - Provides full controls and access to recording details such as level metering by [Wenyan Li](https://github.com/nikli2009).
+*   [Flutter Audio Recorder (⭐119)](https://github.com/shadow-app/flutter_audio_recorder) - Provides full controls and access to recording details such as level metering by [Wenyan Li](https://github.com/nikli2009).
 
 ## [4. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 

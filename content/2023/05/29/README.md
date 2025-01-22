@@ -10,11 +10,11 @@
 
 ### AppImage consumption tools / Desktop integration
 
-*   [Gear lever (⭐7)](https://github.com/mijorus/gearlever/) - Integrates AppImages into the Gnome desktop by drag-and-drop onto the Gear lever application.
+*   [Gear lever (⭐569)](https://github.com/mijorus/gearlever/) - Integrates AppImages into the Gnome desktop by drag-and-drop onto the Gear lever application.
 
 ### AppImage developer tools / Tools to convert from other package formats
 
-*   [AppImaGen (⭐5)](https://github.com/ivan-hc/AppImaGen) - Generates an AppImage from Debian or from a PPA of your choice for the previous (unfortunately not the oldest as recommended) and still supported Ubuntu LTS.
+*   [AppImaGen (⭐16)](https://github.com/ivan-hc/AppImaGen) - Generates an AppImage from Debian or from a PPA of your choice for the previous (unfortunately not the oldest as recommended) and still supported Ubuntu LTS.
 
 ## [2. Web Development Resources](/content/markodenic/web-development-resources/README.md)
 
@@ -30,19 +30,19 @@
 
 ### Color / Diagnostics
 
-*   [echasnovski/mini.nvim#mini.hipatterns (⭐4.7k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-hipatterns.md) - Module of `mini.nvim` to highlight patterns in text with configurable highlighters. Works asynchronously with configurable debounce delay.
+*   [echasnovski/mini.nvim#mini.hipatterns (⭐6.2k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-hipatterns.md) - Module of `mini.nvim` to highlight patterns in text with configurable highlighters. Works asynchronously with configurable debounce delay.
 
 ## [4. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications
 
-*   [Rio (⭐3.3k)](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers.
+*   [Rio (⭐4.6k)](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers.
 
 ## [5. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Cloud Storage
 
-*   [Cloud Storage (⭐63)](https://github.com/managedcode/Storage):- This library provides a universal interface for accessing and manipulating data in different cloud blob storage providers (Azure Storage, AWS S3, Google Cloud Storage. It makes it easy to switch between providers or to use multiple providers simultaneously, without having to learn and use multiple APIs.
+*   [Cloud Storage (⭐67)](https://github.com/managedcode/Storage):- This library provides a universal interface for accessing and manipulating data in different cloud blob storage providers (Azure Storage, AWS S3, Google Cloud Storage. It makes it easy to switch between providers or to use multiple providers simultaneously, without having to learn and use multiple APIs.
 
 ## [6. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

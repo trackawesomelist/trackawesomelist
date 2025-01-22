@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 28, 2021
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -42,13 +42,13 @@
 
 ### Deployment Examples
 
-*   [Keycloak deployment with CDK on AWS with Fargate (⭐87)](https://github.com/aws-samples/cdk-keycloak)
+*   [Keycloak deployment with CDK on AWS with Fargate (⭐89)](https://github.com/aws-samples/cdk-keycloak)
 
 ## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Syntax / Diagnostics
 
-*   [nvim-treesitter/nvim-treesitter-textobjects (⭐2.1k)](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) - Create your own textobjects using tree-sitter queries.
+*   [nvim-treesitter/nvim-treesitter-textobjects (⭐2.3k)](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) - Create your own textobjects using Tree-sitter queries.
 
 ## [6. Awesome Cassandra](/content/Anant/awesome-cassandra/README.md)
 
@@ -64,25 +64,19 @@
 
 ### Components & Libraries / Frameworks
 
-*   [Fes.js (⭐1.3k)](https://github.com/WeBankFinTech/fes.js/blob/master/README.en-US.md) - An easy-to-use front-end application framework based on vue3.
+*   [Fes.js (⭐1.5k)](https://github.com/WeBankFinTech/fes.js/blob/master/README.en-US.md) - An easy-to-use front-end application framework based on vue3.
 
 ## [8. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Communication - Custom Communication Systems
 
-*   [RetroShare](https://retroshare.cc) - Secured and decentralized communication system. Offers decentralized chat, forums, messaging, file transfer. ([Source Code (⭐1.7k)](https://github.com/RetroShare/RetroShare)) `GPL-2.0` `C++`
+*   [RetroShare](https://retroshare.cc) - Secured and decentralized communication system. Offers decentralized chat, forums, messaging, file transfer. ([Source Code (⭐1.8k)](https://github.com/RetroShare/RetroShare)) `GPL-2.0` `C++`
 
 ## [9. Awesome Digital History](/content/maehr/awesome-digital-history/README.md)
 
 ### Archives and primary sources / Switzerland
 
 *   [histHub](https://histhub.ch/) - The platform manages authority files on Swiss history.
-
-## [10. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
-
-### Hacks and homebrew / Ironsworn
-
-*   [Arcanum](https://www.drivethrurpg.com/product/368750/Arcanum-High-Magic-for-Ironsworn) - High magic for Ironsworn
 
 ---
 

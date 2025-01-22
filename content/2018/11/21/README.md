@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 21, 2018
 
-8 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -62,12 +62,6 @@
 ### Graphics
 
 *   [assimp (⭐11k)](https://github.com/assimp/assimp) - Open Asset Import Library (assimp) is a cross-platform 3D model import library which aims to provide a common API for different 3D asset file formats. \[BSD-3-Clause] [website](http://www.assimp.org)
-
-## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Resources / Examples
-
-*   [**Multi-page ASP.NET Core Vue with TypeScript**](https://github.com/danijelh/aspnetcore-vue-typescript-template) - Multi-page ASP.NET Core Vue, Typescript, Vuex, Vue router, Bulma, Sass and Jest application. Template/starting point on how to use Vue.js as a multi page(multiple mini spa's) application in .NET Core MVC.
 
 ---
 

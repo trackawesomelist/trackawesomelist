@@ -16,19 +16,19 @@
 
 ### CLI Builders
 
-*   [admiral (⭐135)](https://github.com/jwaldrip/admiral.cr) - A robust DSL for writing command line interfaces
+*   [admiral (⭐138)](https://github.com/jwaldrip/admiral.cr) - A robust DSL for writing command line interfaces
 
 ## [3. Awesome Selenium](/content/christian-bromann/awesome-selenium/README.md)
 
 ### Tools / PHP
 
-*   [Steward (⭐220)](https://github.com/lmc-eu/steward) - A test runner integrating php-webdriver with PHPUnit.
+*   [Steward (⭐221)](https://github.com/lmc-eu/steward) - A test runner integrating php-webdriver with PHPUnit.
 
 ## [4. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Containers
 
-*   [Hopscotch map (⭐723)](https://github.com/Tessil/hopscotch-map) - A fast header-only hash map which uses hopscotch hashing for collisions resolution. \[MIT]
+*   [Hopscotch map (⭐733)](https://github.com/Tessil/hopscotch-map) - A fast header-only hash map which uses hopscotch hashing for collisions resolution. \[MIT]
 
 ## [5. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/README.md)
 

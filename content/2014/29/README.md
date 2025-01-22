@@ -156,23 +156,23 @@
 
 ### Data Manipulation
 
-*   [tidyr (⭐1.3k)](https://github.com/hadley/tidyr) - Easily tidy data with spread and gather functions.
+*   [tidyr (⭐1.4k)](https://github.com/hadley/tidyr) - Easily tidy data with spread and gather functions.
 
 ### Graphic Displays
 
 *   [rgl](http://cran.r-project.org/web/packages/rgl/index.html) - 3D visualization device system for R.
-*   [extrafont (⭐306)](https://github.com/wch/extrafont) - Tools for using fonts in R graphics.
-*   [showtext (⭐466)](https://github.com/yixuan/showtext) - Enable R graphics device to show text using system fonts.
+*   [extrafont (⭐317)](https://github.com/wch/extrafont) - Tools for using fonts in R graphics.
+*   [showtext (⭐481)](https://github.com/yixuan/showtext) - Enable R graphics device to show text using system fonts.
 
 ### Web Technologies and Services
 
 *   [RCurl](http://cran.r-project.org/web/packages/RCurl/index.html) - General network (HTTP/FTP/...) client interface for R.
-*   [httpuv (⭐221)](https://github.com/rstudio/httpuv) - HTTP and WebSocket server library.
+*   [httpuv (⭐229)](https://github.com/rstudio/httpuv) - HTTP and WebSocket server library.
 
 ### Database Management
 
 *   [RODBC](http://cran.r-project.org/web/packages/RODBC/) - ODBC database access for R.
-*   [DBI (⭐280)](https://github.com/rstats-db/DBI) - Defines a common interface between the R and database management systems.
+*   [DBI (⭐300)](https://github.com/rstats-db/DBI) - Defines a common interface between the R and database management systems.
 *   [RMySQL](http://cran.r-project.org/web/packages/RMySQL/) - R interface to the MySQL database.
 *   [ROracle](http://cran.r-project.org/web/packages/ROracle/index.html) - OCI based Oracle database interface for R.
 *   [RPostgreSQL](https://code.google.com/p/rpostgresql/) - R interface to the PostgreSQL database system.
@@ -218,7 +218,7 @@
 
 ### R Development
 
-*   [lineprof (⭐103)](https://github.com/hadley/lineprof) - Visualise line profiling results in R.
+*   [lineprof (⭐105)](https://github.com/hadley/lineprof) - Visualise line profiling results in R.
 
 ### Websites / Manuals
 
@@ -226,15 +226,9 @@
 
 ### 2017 / Book/monograph Lists and Reviews
 
-*   [lists (⭐9.4k)](https://github.com/jnv/lists)
+*   [lists (⭐10k)](https://github.com/jnv/lists)
 
 ## [5. Awesome Perl](/content/hachiojipm/awesome-perl/week/README.md)
-
-### Reverse Engineering / Middlewares
-
-*   [emijrp/awesome-awesome (⭐2.7k)](https://github.com/emijrp/awesome-awesome)
-*   [sindresorhus/awesome (⭐318k)](https://github.com/sindresorhus/awesome)
-*   [fleveque/awesome-awesomes (⭐584)](https://github.com/fleveque/awesome-awesomes)
 
 ### Container / DSP
 
@@ -245,6 +239,10 @@
 *   [Dancer](https://metacpan.org/pod/Dancer) ([Official site](http://perldancer.org/))
 *   [Dancer2](https://metacpan.org/pod/Dancer2)
 
+### Reverse Engineering / Middlewares
+
+*   [fleveque/awesome-awesomes (⭐584)](https://github.com/fleveque/awesome-awesomes)
+
 ## [6. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 
 ### Official Website
@@ -253,27 +251,27 @@
 
 ### Compilers / Bare metal / kernel development
 
-*   [ldc (⭐1.1k)](https://github.com/ldc-developers/ldc) - The LLVM-based D compiler. Uses the DMD frontend and LLVM backend. Builds slower than dmd, but generates more optimized code than DMD. It supports all the target platforms of LLVM.
+*   [ldc (⭐1.2k)](https://github.com/ldc-developers/ldc) - The LLVM-based D compiler. Uses the DMD frontend and LLVM backend. Builds slower than dmd, but generates more optimized code than DMD. It supports all the target platforms of LLVM.
 *   [gdc (⭐359)](https://github.com/D-Programming-GDC/GDC) - GNU D Compiler. Use DMD frontend and GCC backend. Currently targets the most platforms due to the use of GCC. Generated code runs faster than DMD in most cases, on par with LDC. In the process of integration with the official GCC toolchain.
 
 ### Lexers, Parsers, Parser Generators / Bare metal / kernel development
 
 *   [Mono-D's DParser (⭐30)](https://github.com/aBothe/D_Parser) - A D parser written in C# and used in Mono-D.
-*   [Pegged (⭐532)](https://github.com/PhilippeSigaud/Pegged) - A Parsing Expression Grammar (PEG) module written in D.
+*   [Pegged (⭐534)](https://github.com/PhilippeSigaud/Pegged) - A Parsing Expression Grammar (PEG) module written in D.
 *   [dunnart (⭐14)](https://github.com/pwil3058/dunnart) - LALR(1) Parser Generator written in D.
 
 ### Database clients / XML
 
-*   [arsd (⭐517)](https://github.com/adamdruppe/arsd) - Adam D. Ruppe's library; in addition to a Web backend, it also has support for database access with database.d, sqlite.d, mysql.d and postgres.d.
-*   [ddb (⭐40)](https://github.com/pszturmaj/ddb) - Database access for D2. Currently only supports PostgreSQL.
-*   [ddbc (⭐76)](https://github.com/buggins/ddbc) - DDBC is a DB Connector for D language (similar to JDBC). HibernateD (see below) uses ddbc for database abstraction.
+*   [arsd (⭐531)](https://github.com/adamdruppe/arsd) - Adam D. Ruppe's library; in addition to a Web backend, it also has support for database access with database.d, sqlite.d, mysql.d and postgres.d.
+*   [ddb (⭐39)](https://github.com/pszturmaj/ddb) - Database access for D2. Currently only supports PostgreSQL.
+*   [ddbc (⭐78)](https://github.com/buggins/ddbc) - DDBC is a DB Connector for D language (similar to JDBC). HibernateD (see below) uses ddbc for database abstraction.
 *   [hibernated (⭐82)](https://github.com/buggins/hibernated) - HibernateD is an ORM for D (similar to [Hibernate](https://hibernate.org/)).
 *   [dvorm (⭐17)](https://github.com/rikkimax/Dvorm) - An ORM for D with Vibe support. Works with vibe.d and mysql-d, giving it the ability to access MongoDB and MySQL.
 
 ### GUI Libs / XML
 
-*   [GtkD (⭐312)](https://github.com/gtkd-developers/GtkD) - GtkD is a D binding and OO wrapper of GTK+. GtkD is actively maintained and is currently the most stable GUI lib for D.
-*   [tkD (⭐116)](https://github.com/nomad-software/tkd) - GUI toolkit for the D programming language based on Tcl/Tk.
+*   [GtkD (⭐320)](https://github.com/gtkd-developers/GtkD) - GtkD is a D binding and OO wrapper of GTK+. GtkD is actively maintained and is currently the most stable GUI lib for D.
+*   [tkD (⭐117)](https://github.com/nomad-software/tkd) - GUI toolkit for the D programming language based on Tcl/Tk.
 
 ## [7. Awesome Coldfusion](/content/seancoyne/awesome-coldfusion/week/README.md)
 
@@ -365,9 +363,9 @@
 ### Other Awesome Projects
 
 *   [awesome-awesomeness (⭐32k)](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness.
-*   [algorithms (⭐5.2k)](https://github.com/xtaci/algorithms) - Algorithms & Data Structures in C++.
-*   [c-algorithms (⭐3.3k)](https://github.com/fragglet/c-algorithms) - C algorithms library.
-*   [papers-we-love (⭐86k)](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
+*   [algorithms (⭐5.3k)](https://github.com/xtaci/algorithms) - Algorithms & Data Structures in C++.
+*   [c-algorithms (⭐3.4k)](https://github.com/fragglet/c-algorithms) - C algorithms library.
+*   [papers-we-love (⭐90k)](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 
 ### Concurrency
 
@@ -406,8 +404,8 @@
 
 ### Github Libraries / Randomized Algorithms
 
-*   [CoffeeScript (⭐36)](https://github.com/BrunoRB/algorithms.coffee)
-*   [Erlang (⭐157)](https://github.com/aggelgian/erlang-algorithms)
+*   [CoffeeScript (⭐37)](https://github.com/BrunoRB/algorithms.coffee)
+*   [Erlang (⭐158)](https://github.com/aggelgian/erlang-algorithms)
 *   [Scala (⭐1.5k)](https://github.com/vkostyukov/scalacaster)
 
 ## [14. Awesome Play1](/content/PerfectCarl/awesome-play1/week/README.md)
@@ -605,17 +603,17 @@
 
 ### Assets
 
-*   [Cassette (⭐536)](https://github.com/andrewdavey/cassette) - Manages .NET web application assets (scripts, css and templates)
+*   [Cassette (⭐534)](https://github.com/andrewdavey/cassette) - Manages .NET web application assets (scripts, css and templates)
 *   [Bundler (⭐263)](https://github.com/ServiceStack/Bundler) - Compile & Minify Less/Sass/Stylus/Css/JS/CoffeeScript/LiveScript files. Integrates with MVC and ServiceStack
 
 ### Build Automation
 
 *   [Psake (⭐1.6k)](https://github.com/psake/psake) - .NET-based build automation tool written in PowerShell
-*   [Invoke-Build (⭐634)](https://github.com/nightroman/Invoke-Build) - PowerShell build and test automation tool inspired by Psake.
+*   [Invoke-Build (⭐663)](https://github.com/nightroman/Invoke-Build) - PowerShell build and test automation tool inspired by Psake.
 
 ### Caching
 
-*   [CacheCow (⭐846)](https://github.com/aliostad/CacheCow) - An ASP.NET Web API HTTP caching implementation both on client and server
+*   [CacheCow (⭐859)](https://github.com/aliostad/CacheCow) - An ASP.NET Web API HTTP caching implementation both on client and server
 
 ### Code Analysis and Metrics
 
@@ -635,18 +633,18 @@
 
 ### Internationalization
 
-*   [i18n (⭐557)](https://github.com/turquoiseowl/i18n) - Smart internationalization for ASP.NET MVC
+*   [i18n (⭐559)](https://github.com/turquoiseowl/i18n) - Smart internationalization for ASP.NET MVC
 
 ### IoC
 
 *   [Castle Windsor (⭐1.5k)](https://github.com/castleproject/Windsor) - Castle Windsor is best of breed, mature Inversion of Control container available for .NET and Silverlight
-*   [Autofac (⭐4.4k)](https://github.com/autofac/Autofac) - An addictive .NET IoC container
+*   [Autofac (⭐4.5k)](https://github.com/autofac/Autofac) - An addictive .NET IoC container
 
 ### Logging
 
 *   [Log4Net](https://logging.apache.org/log4net/) - The Apache log4net library is a tool to help the programmer output log statements to a variety of output targets
-*   [Serilog (⭐7.1k)](https://github.com/serilog/serilog) - A no-nonsense logging library for the NoSQL era. Combines the best of traditional and structured diagnostic logging in an easy-to-use package.
-*   [StackExchange.Exceptional (⭐862)](https://github.com/NickCraver/StackExchange.Exceptional) - Error handler used for the Stack Exchange network
+*   [Serilog (⭐7.4k)](https://github.com/serilog/serilog) - A no-nonsense logging library for the NoSQL era. Combines the best of traditional and structured diagnostic logging in an easy-to-use package.
+*   [StackExchange.Exceptional (⭐863)](https://github.com/NickCraver/StackExchange.Exceptional) - Error handler used for the Stack Exchange network
 
 ### MVVM
 
@@ -660,32 +658,32 @@
 ### Queue
 
 *   [NServiceBus (⭐2.1k)](https://github.com/Particular/NServiceBus) - The most popular service bus for .NET
-*   [NetMQ (⭐2.9k)](https://github.com/zeromq/netmq) - NetMQ is 100% native C# port of ZeroMQ
-*   [MassTransit (⭐6.8k)](https://github.com/MassTransit/MassTransit) - MassTransit is lean service bus implementation for building loosely coupled applications using the .NET Framework.
+*   [NetMQ (⭐3k)](https://github.com/zeromq/netmq) - NetMQ is 100% native C# port of ZeroMQ
+*   [MassTransit (⭐7.1k)](https://github.com/MassTransit/MassTransit) - MassTransit is lean service bus implementation for building loosely coupled applications using the .NET Framework.
 
 ### SDK and API Clients
 
-*   [AWS SDK (⭐2k)](https://github.com/aws/aws-sdk-net) - The AWS SDK for .NET enables .NET developers to easily work with Amazon Web Services
+*   [AWS SDK (⭐2.1k)](https://github.com/aws/aws-sdk-net) - The AWS SDK for .NET enables .NET developers to easily work with Amazon Web Services
 *   [Octokit.NET (⭐2.7k)](https://github.com/octokit/octokit.net) - A GitHub API client library for .NET
 
 ### Serialization
 
 *   [Json.NET (⭐11k)](https://github.com/JamesNK/Newtonsoft.Json) - Popular high-performance JSON framework for .NET
 *   [ServiceStack.Text (⭐1.2k)](https://github.com/ServiceStack/ServiceStack.Text) - JSON, JSV and CSV Text Serializers used in servicestack.net
-*   [Msgpack-Cli (⭐828)](https://github.com/msgpack/msgpack-cli) - MessagePack implementation for Common Language Infrastructure
+*   [Msgpack-Cli (⭐836)](https://github.com/msgpack/msgpack-cli) - MessagePack implementation for Common Language Infrastructure
 
 ### Testing
 
-*   [AutoFixture (⭐3.3k)](https://github.com/AutoFixture/AutoFixture) - AutoFixture is an open source framework for .NET designed to minimize the 'Arrange' phase of your unit tests
+*   [AutoFixture (⭐3.4k)](https://github.com/AutoFixture/AutoFixture) - AutoFixture is an open source framework for .NET designed to minimize the 'Arrange' phase of your unit tests
 
 ### Web Servers
 
-*   [EmbedIO (⭐1.4k)](https://github.com/unosquare/embedio) - Web server built on Mono and cross-platform
+*   [EmbedIO (⭐1.5k)](https://github.com/unosquare/embedio) - Web server built on Mono and cross-platform
 
 ### WebSocket
 
 *   [Fleck (⭐2.3k)](https://github.com/statianzo/Fleck) - Fleck is a WebSocket server implementation in C#. Branched from the Nugget project
-*   [Websocket-Sharp (⭐5.6k)](https://github.com/sta/websocket-sharp) - A C# implementation of the WebSocket protocol client and server
+*   [Websocket-Sharp (⭐5.8k)](https://github.com/sta/websocket-sharp) - A C# implementation of the WebSocket protocol client and server
 
 ## [16. Awesome Fortran](/content/rabbiabram/awesome-fortran/week/README.md)
 
@@ -745,7 +743,7 @@
 
 ### Java / Data Analysis / Data Visualization
 
-*   [Spark (⭐39k)](https://github.com/apache/spark) - Spark is a fast and general engine for large-scale data processing.
+*   [Spark (⭐40k)](https://github.com/apache/spark) - Spark is a fast and general engine for large-scale data processing.
 
 ### JavaScript / Data Analysis / Data Visualization
 
@@ -755,7 +753,7 @@
 ### Julia / General-Purpose Machine Learning
 
 *   [PGM (⭐52)](https://github.com/JuliaStats/PGM.jl) - A Julia framework for probabilistic graphical models.
-*   [Clustering (⭐351)](https://github.com/JuliaStats/Clustering.jl) - Basic functions for clustering data: k-means, dp-means, etc.
+*   [Clustering (⭐356)](https://github.com/JuliaStats/Clustering.jl) - Basic functions for clustering data: k-means, dp-means, etc.
 
 ### Julia / Data Analysis / Data Visualization
 
@@ -763,7 +761,7 @@
 
 ### Julia / Misc Stuff / Presentations
 
-*   [DSP (⭐374)](https://github.com/JuliaDSP/DSP.jl) - Digital Signal Processing (filtering, periodograms, spectrograms, window functions).
+*   [DSP (⭐388)](https://github.com/JuliaDSP/DSP.jl) - Digital Signal Processing (filtering, periodograms, spectrograms, window functions).
 
 ### Lua / General-Purpose Machine Learning
 
@@ -800,7 +798,7 @@
 
 ### .NET / Natural Language Processing
 
-*   [Stanford.NLP for .NET (⭐595)](https://github.com/sergey-tihon/Stanford.NLP.NET/) - A full port of Stanford NLP packages to .NET and also available precompiled as a NuGet package.
+*   [Stanford.NLP for .NET (⭐598)](https://github.com/sergey-tihon/Stanford.NLP.NET/) - A full port of Stanford NLP packages to .NET and also available precompiled as a NuGet package.
 
 ### Python / Computer Vision
 
@@ -808,37 +806,37 @@
 
 ### Python / Natural Language Processing
 
-*   [SnowNLP (⭐6.4k)](https://github.com/isnowfy/snownlp) - A library for processing Chinese text.
+*   [SnowNLP (⭐6.5k)](https://github.com/isnowfy/snownlp) - A library for processing Chinese text.
 *   [Rosetta (⭐206)](https://github.com/columbia-applied-data-science/rosetta) - Text processing tools and wrappers (e.g. Vowpal Wabbit)
 
 ### Python / General-Purpose Machine Learning
 
 *   [MLlib in Apache Spark](http://spark.apache.org/docs/latest/mllib-guide.html) - Distributed machine learning library in Spark
 *   [BigML](https://bigml.com) - A library that contacts external servers.
-*   [pattern (⭐8.7k)](https://github.com/clips/pattern) - Web mining module for Python.
+*   [pattern (⭐8.8k)](https://github.com/clips/pattern) - Web mining module for Python.
 *   [NuPIC (⭐6.3k)](https://github.com/numenta/nupic) - Numenta Platform for Intelligent Computing.
 *   [PyBrain (⭐2.9k)](https://github.com/pybrain/pybrain) - Another Python Machine Learning Library.
 *   [python-recsys (⭐1.5k)](https://github.com/ocelma/python-recsys) - A Python library for implementing a Recommender System.
-*   [Restricted Boltzmann Machines (⭐943)](https://github.com/echen/restricted-boltzmann-machines) -Restricted Boltzmann Machines in Python. \[DEEP LEARNING]
+*   [Restricted Boltzmann Machines (⭐953)](https://github.com/echen/restricted-boltzmann-machines) -Restricted Boltzmann Machines in Python. \[DEEP LEARNING]
 
 ### Python / Data Analysis / Data Visualization
 
 *   [NetworkX](https://networkx.github.io/) - A high-productivity software for complex networks.
-*   [PyMC (⭐8.5k)](https://github.com/pymc-devs/pymc) - Markov Chain Monte Carlo sampling toolkit.
-*   [zipline (⭐17k)](https://github.com/quantopian/zipline) - A Pythonic algorithmic trading library.
+*   [PyMC (⭐8.8k)](https://github.com/pymc-devs/pymc) - Markov Chain Monte Carlo sampling toolkit.
+*   [zipline (⭐18k)](https://github.com/quantopian/zipline) - A Pythonic algorithmic trading library.
 *   [SymPy (⭐13k)](https://github.com/sympy/sympy) - A Python library for symbolic mathematics.
-*   [statsmodels (⭐9.8k)](https://github.com/statsmodels/statsmodels) - Statistical modelling and econometrics in Python.
+*   [statsmodels (⭐10k)](https://github.com/statsmodels/statsmodels) - Statistical modelling and econometrics in Python.
 *   [Kartograph.py (⭐1k)](https://github.com/kartograph/kartograph.py) - Rendering beautiful SVG maps in Python.
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
-*   [pattern\_classification (⭐4.1k)](https://github.com/rasbt/pattern_classification)
+*   [pattern\_classification (⭐4.2k)](https://github.com/rasbt/pattern_classification)
 *   [thinking stats 2 (⭐8)](https://github.com/Wavelets/ThinkStats2)
 *   [hyperopt (⭐1.6k)](https://github.com/hyperopt/hyperopt-sklearn)
 *   [numpic (⭐6.3k)](https://github.com/numenta/nupic)
-*   [ipython-notebooks (⭐563)](https://github.com/ogrisel/notebooks)
+*   [ipython-notebooks (⭐566)](https://github.com/ogrisel/notebooks)
 *   [decision-weights (⭐33)](https://github.com/CamDavidsonPilon/decision-weights)
-*   [Sarah Palin LDA (⭐10)](https://github.com/Wavelets/sarah-palin-lda) - Topic Modelling the Sarah Palin emails.
+*   [Sarah Palin LDA (⭐9)](https://github.com/Wavelets/sarah-palin-lda) - Topic Modelling the Sarah Palin emails.
 *   [sentiment-analyzer (⭐52)](https://github.com/madhusudancs/sentiment-analyzer) - Tweets Sentiment Analyzer
 *   [sentiment\_classifier (⭐172)](https://github.com/kevincobain2000/sentiment_classifier) - Sentiment classifier using word sense disambiguation.
 *   [jProcessing (⭐148)](https://github.com/kevincobain2000/jProcessing) - Kanji / Hiragana / Katakana to Romaji Converter. Edict Dictionary & parallel sentences Search. Sentence Similarity between two JP Sentences. Sentiment Analysis of Japanese Text. Run Cabocha(ISO--8859-1 configured) in Python.
@@ -849,12 +847,12 @@
 
 ### Ruby / General-Purpose Machine Learning
 
-*   [CardMagic-Classifier (⭐660)](https://github.com/cardmagic/classifier) - A general classifier module to allow Bayesian and other types of classifications.
+*   [CardMagic-Classifier (⭐661)](https://github.com/cardmagic/classifier) - A general classifier module to allow Bayesian and other types of classifications.
 
 ### Ruby / Data Analysis / Data Visualization
 
 *   [SciRuby](http://sciruby.com/)
-*   [Bioruby (⭐377)](https://github.com/bioruby/bioruby)
+*   [Bioruby (⭐378)](https://github.com/bioruby/bioruby)
 
 ### Ruby / Misc
 
@@ -872,20 +870,20 @@
 
 ### Scala / General-Purpose Machine Learning
 
-*   [adam (⭐989)](https://github.com/bigdatagenomics/adam) - A genomics processing engine and specialized file format built using Apache Avro, Apache Spark and Parquet. Apache 2 licensed.
-*   [bioscala (⭐108)](https://github.com/bioscala/bioscala) - Bioinformatics for the Scala programming language
-*   [BIDMach (⭐914)](https://github.com/BIDData/BIDMach) - CPU and GPU-accelerated Machine Learning Library.
+*   [adam (⭐1k)](https://github.com/bigdatagenomics/adam) - A genomics processing engine and specialized file format built using Apache Avro, Apache Spark and Parquet. Apache 2 licensed.
+*   [bioscala (⭐109)](https://github.com/bioscala/bioscala) - Bioinformatics for the Scala programming language
+*   [BIDMach (⭐915)](https://github.com/BIDData/BIDMach) - CPU and GPU-accelerated Machine Learning Library.
 *   [Figaro (⭐757)](https://github.com/p2t2/figaro) - a Scala library for constructing probabilistic models.
 
 ### Credits / Misc
 
-*   Some of the python libraries were cut-and-pasted from [vinta (⭐214k)](https://github.com/vinta/awesome-python)
+*   Some of the python libraries were cut-and-pasted from [vinta (⭐227k)](https://github.com/vinta/awesome-python)
 
 ## [19. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Strings
 
-*   [ANSI to HTML5 (⭐236)](https://github.com/sensiolabs/ansi-to-html) - An ANSI to HTML5 converter library.
+*   [ANSI to HTML5 (⭐239)](https://github.com/sensiolabs/ansi-to-html) - An ANSI to HTML5 converter library.
 
 ## [20. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
@@ -954,7 +952,7 @@
 
 ### ORM and Datamapping
 
-*   [exredis (⭐358)](https://github.com/artemeff/exredis) - Redis client for Elixir.
+*   [exredis (⭐357)](https://github.com/artemeff/exredis) - Redis client for Elixir.
 
 ### Text and Numbers
 
@@ -1028,9 +1026,16 @@
 
 ## [25. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
+### Misc / Other
+
+*   [emijrp/awesome-awesome (⭐2.8k)](https://github.com/emijrp/awesome-awesome)
+*   [sindresorhus/awesome (⭐320k)](https://github.com/sindresorhus/awesome)
+*   [bayandin/awesome-awesomeness (⭐32k)](https://github.com/bayandin/awesome-awesomeness)
+*   [jnv/list (⭐9.8k)](https://github.com/jnv/lists)
+
 ### Data Visualization / Runner
 
-*   [three.js (⭐100k)](https://github.com/mrdoob/three.js) - JavaScript 3D library.
+*   [three.js (⭐101k)](https://github.com/mrdoob/three.js) - JavaScript 3D library.
 
 ### Files / Runner
 
@@ -1042,7 +1047,7 @@
 
 ### Security / Runner
 
-*   [DOMPurify (⭐13k)](https://github.com/cure53/DOMPurify) - A DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG.
+*   [DOMPurify (⭐14k)](https://github.com/cure53/DOMPurify) - A DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG.
 *   [js-xss (⭐5.2k)](https://github.com/leizongmin/js-xss) - Sanitize untrusted HTML (to prevent XSS) with a configuration specified by a Whitelist.
 
 ### Log / Runner
@@ -1074,11 +1079,6 @@
 *   [velocity (⭐17k)](https://github.com/julianshapiro/velocity) - Accelerated JavaScript animation.
 *   [jquery.transit (⭐7.3k)](https://github.com/rstacruz/jquery.transit) - Super-smooth CSS3 transformations and transitions for jQuery.
 *   [GreenSock-JS (⭐19k)](https://github.com/greensock/GreenSock-JS) - High-performance HTML5 animations that work in all major browsers.
-
-### Misc / Other
-
-*   [bayandin/awesome-awesomeness (⭐31k)](https://github.com/bayandin/awesome-awesomeness)
-*   [jnv/list (⭐9.8k)](https://github.com/jnv/lists)
 
 ---
 

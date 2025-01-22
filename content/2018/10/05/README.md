@@ -10,7 +10,7 @@
 
 ### Office
 
-*   [NetOffice (⭐689)](https://github.com/NetOfficeFw/NetOffice) - .NET wrapper assemblies for Microsoft Office applications.
+*   [NetOffice (⭐704)](https://github.com/NetOfficeFw/NetOffice) - .NET wrapper assemblies for Microsoft Office applications.
 
 ## [2. Awesome Ethereum](/content/ttumiel/Awesome-Ethereum/README.md)
 
@@ -28,7 +28,7 @@
 
 ## [3. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
-### Domain and IP Research / Telegram
+### Domain and IP Research / Steam
 
 *   [PhishStats](https://phishstats.info/)
 
@@ -65,7 +65,7 @@
 ### Memory Allocation
 
 *   [Hoard (⭐1.1k)](https://github.com/emeryberger/Hoard) - Fast, Scalable, and Memory-efficient Malloc for Linux, Windows, and Mac. \[Apache-2.0] [website](http://hoard.org/)
-*   [jemalloc (⭐9.3k)](https://github.com/jemalloc/jemalloc) - General purpose malloc(3) implementation that emphasizes fragmentation avoidance and scalable concurrency support. \[BSD] [website](http://jemalloc.net/)
+*   [jemalloc (⭐9.7k)](https://github.com/jemalloc/jemalloc) - General purpose malloc(3) implementation that emphasizes fragmentation avoidance and scalable concurrency support. \[BSD] [website](http://jemalloc.net/)
 
 ## [8. Tips](/content/git-tips/tips/README.md)
 
@@ -92,10 +92,6 @@ git log --graph --decorate --oneline $(git rev-list --walk-reflogs --all)
 ### Resources / Podcasts
 
 *   [Vue podcast list via The QIT Tech Podcast Indexer](https://qit.cloud/search/vue)
-
-### Components & Libraries / UI Utilities
-
-*   [vue2-perfect-scrollbar (⭐275)](https://github.com/mercs600/vue2-perfect-scrollbar) - PerfectScrollbar minimalistic wrapper
 
 ## [12. Awesome Android](/content/JStumpp/awesome-android/README.md)
 

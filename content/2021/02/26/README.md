@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 26, 2021
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Specs and Standards / MPEG
 
-*   [ISO Base Media File Format Reference Software (⭐127)](https://github.com/MPEGGroup/isobmff)  -
+*   [ISO Base Media File Format Reference Software (⭐134)](https://github.com/MPEGGroup/isobmff)  -
 *   [MPEG About](https://www.mpegstandards.org/about-mpeg/)  -
 *   [MPEG High Efficiency Image File Format (HEIF)](https://nokiatech.github.io/heif/)  -
 *   [MPEG Meetings](https://www.mpegstandards.org/meetings/)  -
@@ -32,13 +32,13 @@
 
 ## [4. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
-### Plugins and scripts / Godot 3.2+
+### Plugins and scripts / Godot 3
 
-*   [Funexpected Flash Tools (⭐20)](https://github.com/funexpected/flash-tools) - Adobe Animate (Flash) plugin that allows you to export a project for a Godot Engine.
+*   [Funexpected Flash Tools (⭐21)](https://github.com/funexpected/flash-tools) - Adobe Animate (Flash) plugin that allows you to export a project for a Godot Engine.
 
-### Modules / Godot 3.2+
+### Modules / Godot 3
 
-*   [Flash Module (⭐37)](https://github.com/funexpected/godot-flash-module) - Use Adobe Animate (Flash) projects in Godot.
+*   [Flash Module (⭐41)](https://github.com/funexpected/godot-flash-module) - Use Adobe Animate (Flash) projects in Godot.
 
 ## [5. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
@@ -74,13 +74,7 @@
 
 ### Performance Monitoring
 
-*   [RoRvsWild (⭐329)](https://github.com/BaseSecrete/rorvswild) - Performances and exceptions monitoring for Rails developers.
-
-## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / UI Components
-
-*   [vue-lunar-calendar-pro (⭐81)](https://github.com/wangdaodao/vue-lunar-calendar-pro) - A vue component for lunar calendar. Uses calendar.js for date operations.
+*   [RoRvsWild (⭐339)](https://github.com/BaseSecrete/rorvswild) - Performances and exceptions monitoring for Rails developers.
 
 ---
 

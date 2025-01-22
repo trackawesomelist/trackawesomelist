@@ -10,7 +10,7 @@
 
 ### Video / Barcode
 
-*   [YiVideoEditor (⭐121)](https://github.com/coderyi/YiVideoEditor) - a library for rotating, cropping, adding layers (watermark) and as well as adding audio (music) to the videos.
+*   [YiVideoEditor (⭐126)](https://github.com/coderyi/YiVideoEditor) - a library for rotating, cropping, adding layers (watermark) and as well as adding audio (music) to the videos.
 
 ## [2. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 
@@ -23,7 +23,7 @@
 ### Specific topics / Zero Knowledge Proofs
 
 *   [Proofs of knowledge](https://cseweb.ucsd.edu/~mihir/papers/pok.pdf) - A pair of papers which investigate the notions of proof of knowledge and proof of computational ability, M. Bellare and O. Goldreich.
-*   [Knowledge complexity of interactive proof systems (⭐2)](https://github.com/manjunath5496/Shafi-Goldwasser-Publications/blob/master/1989-siamjc.pdf) - By GoldWasser, Micali and Rackoff. Defining computational complexity of "knowledge" within zero knowledge proofs.
+*   [Knowledge complexity of interactive proof systems (⭐3)](https://github.com/manjunath5496/Shafi-Goldwasser-Publications/blob/master/1989-siamjc.pdf) - By GoldWasser, Micali and Rackoff. Defining computational complexity of "knowledge" within zero knowledge proofs.
 
 ### Books / Post-quantum cryptography
 
@@ -48,7 +48,7 @@
 
 ### Articles and Presentations / Hardware Offload
 
-*   [hBPF - eBPF in hardware (⭐395)](https://github.com/rprinz08/hBPF) - An eBPF CPU written for FPGAs.
+*   [hBPF - eBPF in hardware (⭐406)](https://github.com/rprinz08/hBPF) - An eBPF CPU written for FPGAs.
 
 ---
 

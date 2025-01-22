@@ -15,10 +15,10 @@
 ### Networking
 
 *   **HTTP Tools**:
-    *   [ocaml-cohttp (⭐699)](https://github.com/mirage/ocaml-cohttp) – Very lightweight HTTP server using Lwt or Async.
+    *   [ocaml-cohttp (⭐712)](https://github.com/mirage/ocaml-cohttp) – Very lightweight HTTP server using Lwt or Async.
     *   [ocurl (⭐59)](https://github.com/ygrek/ocurl) – OCaml bindings to libcurl.
-    *   [httpaf (⭐535)](https://github.com/inhabitedtype/httpaf) – A high performance, memory efficient, and scalable web server written in OCaml.
-    *   [piaf (⭐179)](https://github.com/anmonteiro/piaf) - Client/server library for HTTP/1.X / HTTP/2 written entirely in OCaml.
+    *   [httpaf (⭐534)](https://github.com/inhabitedtype/httpaf) – A high performance, memory efficient, and scalable web server written in OCaml.
+    *   [piaf (⭐191)](https://github.com/anmonteiro/piaf) - Client/server library for HTTP/1.X / HTTP/2 written entirely in OCaml.
 
 ### Utilities
 
@@ -28,12 +28,12 @@
 
 ### Projects / Frameworks
 
-*   [FreeSpec (⭐51)](https://github.com/lthms/FreeSpec) - Framework for modularly verifying programs with effects and effect handlers.
+*   [FreeSpec (⭐52)](https://github.com/lthms/FreeSpec) - Framework for modularly verifying programs with effects and effect handlers.
 *   [Hybrid](https://www.site.uottawa.ca/~afelty/HybridCoq/) - System for reasoning using higher-order abstract syntax representations of object logics.
 
 ### Projects / Libraries
 
-*   [Mczify (⭐22)](https://github.com/math-comp/mczify) - Library enabling Micromega arithmetic solvers to work when using Mathematical Components number definitions.
+*   [Mczify (⭐25)](https://github.com/math-comp/mczify) - Library enabling Micromega arithmetic solvers to work when using Mathematical Components number definitions.
 
 ### Projects / Tools
 
@@ -41,30 +41,30 @@
 
 ### Resources / Books
 
-*   [Modeling and Proving in Computational Type Theory (⭐76)](https://github.com/uds-psl/MPCTT) - Book covering topics in computational logic using Coq, including foundations, canonical case studies, and practical programming.
+*   [Modeling and Proving in Computational Type Theory (⭐84)](https://github.com/uds-psl/MPCTT) - Book covering topics in computational logic using Coq, including foundations, canonical case studies, and practical programming.
 
 ## [3. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Blockchain
 
-*   [Parity-Bitcoin (⭐730)](https://github.com/paritytech/parity-bitcoin) - The Parity Bitcoin client
+*   [Parity-Bitcoin (⭐725)](https://github.com/paritytech/parity-bitcoin) - The Parity Bitcoin client
 
 ### Applications / Productivity
 
-*   [pier-cli/pier (⭐528)](https://github.com/pier-cli/pier) - A central repository to manage (add, search metadata, etc.) all your one-liners, scripts, tools, and CLIs
+*   [pier-cli/pier (⭐555)](https://github.com/pier-cli/pier) - A central repository to manage (add, search metadata, etc.) all your one-liners, scripts, tools, and CLIs
 
 ### Applications / System tools
 
-*   [bandwhich (⭐9.3k)](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
-*   [diskonaut (⭐2.3k)](https://github.com/imsnif/diskonaut) - Terminal visual disk space navigator
+*   [bandwhich (⭐10k)](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
+*   [diskonaut (⭐2.6k)](https://github.com/imsnif/diskonaut) - Terminal visual disk space navigator
 
 ### Applications / Utilities
 
-*   [evansmurithi/cloak (⭐282)](https://github.com/evansmurithi/cloak) - A Command Line OTP (One Time Password) Authenticator application. ![CI](https://github.com/evansmurithi/cloak/workflows/CI/badge.svg) [![build badge](https://ci.appveyor.com/api/projects/status/9mlfpfru3ng4c689/branch/master?svg=true)](https://ci.appveyor.com/project/evansmurithi/cloak)
+*   [evansmurithi/cloak (⭐292)](https://github.com/evansmurithi/cloak) - A Command Line OTP (One Time Password) Authenticator application. ![CI](https://github.com/evansmurithi/cloak/workflows/CI/badge.svg) [![build badge](https://ci.appveyor.com/api/projects/status/9mlfpfru3ng4c689/branch/master?svg=true)](https://ci.appveyor.com/project/evansmurithi/cloak)
 
 ### Applications / Web
 
-*   [MASQ-Project/Node (⭐172)](https://github.com/MASQ-Project/Node) - MASQ Node software provides a decentralized mesh-network of nodes for global users to access normal internet content - next evolution of tech beyond Tor & VPN [![build badge](https://github.com/MASQ-Project/Node/actions/workflows/ci-matrix.yml/badge.svg)](https://github.com/MASQ-Project/Node/actions)
+*   [MASQ-Project/Node (⭐179)](https://github.com/MASQ-Project/Node) - MASQ Node software provides a decentralized mesh-network of nodes for global users to access normal internet content - next evolution of tech beyond Tor & VPN [![build badge](https://github.com/MASQ-Project/Node/actions/workflows/ci-matrix.yml/badge.svg)](https://github.com/MASQ-Project/Node/actions)
 
 ### Development tools / Web Servers
 
@@ -73,14 +73,14 @@
 ### Development tools / IDEs
 
 *   [Emacs](https://www.gnu.org/software/emacs/)
-    *   [emacs-racer (⭐399)](https://github.com/racer-rust/emacs-racer) - Autocompletion (see also [company](https://company-mode.github.io) and [auto-complete (⭐1.7k)](https://github.com/auto-complete/auto-complete))
-    *   [flycheck-rust (⭐119)](https://github.com/flycheck/flycheck-rust) - Rust support for [Flycheck (⭐2.4k)](https://github.com/flycheck/flycheck)
+    *   [emacs-racer (⭐397)](https://github.com/racer-rust/emacs-racer) - Autocompletion (see also [company](https://company-mode.github.io) and [auto-complete (⭐1.7k)](https://github.com/auto-complete/auto-complete))
+    *   [flycheck-rust (⭐121)](https://github.com/flycheck/flycheck-rust) - Rust support for [Flycheck (⭐2.4k)](https://github.com/flycheck/flycheck)
     *   [rust-mode (⭐1.1k)](https://github.com/rust-lang/rust-mode) - Rust Major Mode
-    *   [rustic (⭐718)](https://github.com/brotzeit/rustic) - Rust development environment for Emacs [![build badge](https://github.com/brotzeit/rustic/workflows/CI/badge.svg)](https://github.com/brotzeit/rustic/actions?query=workflow%3ACI)
+    *   [rustic (⭐728)](https://github.com/brotzeit/rustic) - Rust development environment for Emacs [![build badge](https://github.com/brotzeit/rustic/workflows/CI/badge.svg)](https://github.com/brotzeit/rustic/actions?query=workflow%3ACI)
 
 ### Development tools / Profiling
 
-*   [Bytehound (⭐4.4k)](https://github.com/koute/bytehound) - A memory profiler for Linux
+*   [Bytehound (⭐4.6k)](https://github.com/koute/bytehound) - A memory profiler for Linux
 
 ### Development tools / Static analysis
 
@@ -88,28 +88,28 @@
 
 ### Libraries / Artificial Intelligence
 
-*   [pkalivas/radiate (⭐147)](https://github.com/pkalivas/radiate) - A customizable parallel genetic programming engine capable of evolving solutions for supervised, unsupervised, and reinforcement learning problems. Comes with complete and customizable implementation of NEAT and Evtree.![Crates.io](https://img.shields.io/crates/v/radiate)
+*   [pkalivas/radiate (⭐160)](https://github.com/pkalivas/radiate) - A customizable parallel genetic programming engine capable of evolving solutions for supervised, unsupervised, and reinforcement learning problems. Comes with complete and customizable implementation of NEAT and Evtree.![Crates.io](https://img.shields.io/crates/v/radiate)
 
 ### Libraries / GUI
 
-*   [ivanceras/sauron-native (⭐632)](https://github.com/ivanceras/sauron-native) - A truly native and cross platform GUI library. One unified code can be run as native GUI, Html Web and TUI.
+*   [ivanceras/sauron-native (⭐631)](https://github.com/ivanceras/sauron-native) - A truly native and cross platform GUI library. One unified code can be run as native GUI, Html Web and TUI.
 
 ### Libraries / Web programming
 
 *   [WebSocket](https://datatracker.ietf.org/doc/rfc6455/)
-    *   [c410-f3r/wtx (⭐104)](https://github.com/c410-f3r/wtx) - Client and server with encryption support.
+    *   [c410-f3r/wtx (⭐247)](https://github.com/c410-f3r/wtx) - Client and server with encryption support.
     *   [housleyjk/ws-rs (⭐1.5k)](https://github.com/housleyjk/ws-rs) - lightweight, event-driven WebSockets
-    *   [iddm/urlshortener-rs (⭐49)](https://github.com/iddm/urlshortener-rs) - A very simple urlshortener library. [![CI](https://github.com/iddm/urlshortener-rs/actions/workflows/ci.yml/badge.svg)](https://github.com/iddm/urlshortener-rs/actions/workflows/ci.yml) [![Crates badge](https://img.shields.io/crates/v/urlshortener.svg)](https://crates.io/crates/urlshortener)
-    *   [rust-websocket (⭐1.5k)](https://github.com/websockets-rs/rust-websocket) - A framework for dealing with WebSocket connections (both clients and servers)
-    *   [snapview/tungstenite-rs (⭐1.8k)](https://github.com/snapview/tungstenite-rs) - Lightweight stream-based WebSocket implementation.
-    *   [swimos/ratchet (⭐32)](https://github.com/swimos/ratchet) \[[ratchet\_rs](https://crates.io/crates/ratchet_rs)] - Ratchet is a fast, lightweight and fully asynchronous implementation of the WebSocket protocol with support for extensions and Deflate.
-    *   [vi/websocat (⭐6.9k)](https://github.com/vi/websocat) - CLI for interacting with WebSockets, with functionality of Netcat, Curl and Socat.
+    *   [iddm/urlshortener-rs (⭐51)](https://github.com/iddm/urlshortener-rs) - A very simple urlshortener library. [![CI](https://github.com/iddm/urlshortener-rs/actions/workflows/ci.yml/badge.svg)](https://github.com/iddm/urlshortener-rs/actions/workflows/ci.yml) [![Crates badge](https://img.shields.io/crates/v/urlshortener.svg)](https://crates.io/crates/urlshortener)
+    *   [rust-websocket (⭐1.6k)](https://github.com/websockets-rs/rust-websocket) - A framework for dealing with WebSocket connections (both clients and servers)
+    *   [snapview/tungstenite-rs (⭐2k)](https://github.com/snapview/tungstenite-rs) - Lightweight stream-based WebSocket implementation.
+    *   [swimos/ratchet (⭐45)](https://github.com/swimos/ratchet) \[[ratchet\_rs](https://crates.io/crates/ratchet_rs)] - Ratchet is a fast, lightweight and fully asynchronous implementation of the WebSocket protocol with support for extensions and Deflate.
+    *   [vi/websocat (⭐7.3k)](https://github.com/vi/websocat) - CLI for interacting with WebSockets, with functionality of Netcat, Curl and Socat.
 
 ## [4. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
 ### Community Extensions
 
-*   [Keycloak Benchmark Project (⭐125)](https://github.com/keycloak/keycloak-benchmark)
+*   [Keycloak Benchmark Project (⭐139)](https://github.com/keycloak/keycloak-benchmark)
 
 ## [5. Awesome Preact](/content/preactjs/awesome-preact/README.md)
 
@@ -122,13 +122,13 @@
 
 ### Apps
 
-*   [ipfs-chat (⭐119)](https://github.com/SomajitDey/ipfs-chat) - Terminal-based, encrypted chatrooms. Allows private messaging & secure in-chat file/directory sharing. Server/broker-less (no signaling/rendezvous server needed). Works over LAN/internet(w/ NAT-traversal).
+*   [ipfs-chat (⭐139)](https://github.com/SomajitDey/ipfs-chat) - Terminal-based, encrypted chatrooms. Allows private messaging & secure in-chat file/directory sharing. Server/broker-less (no signaling/rendezvous server needed). Works over LAN/internet(w/ NAT-traversal).
 
 ## [7. Awesome Love2d](/content/love2d-community/awesome-love2d/README.md)
 
 ### UI
 
-*   [Slab (⭐287)](https://github.com/flamendless/Slab) - Slab is an immediate mode GUI toolkit for the LÖVE framework.
+*   [Slab (⭐305)](https://github.com/flamendless/Slab) - Slab is an immediate mode GUI toolkit for the LÖVE framework.
 
 ## [8. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
@@ -162,16 +162,14 @@
 
   CORS: No
 
-  Call this API: 
-
 
 
 ## [11. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
 
 ### Control Systems
 
-*   [Lawo EmberPlus (⭐105)](https://github.com/Lawo/ember-plus) - Ember Plus - open protocol for interfacing to / from broadcast control systems.
-*   [MIDIMonster (⭐481)](https://github.com/cbdevnet/midimonster) - Lightweight adapter tool for common show control protocols.
+*   [Lawo EmberPlus (⭐112)](https://github.com/Lawo/ember-plus) - Ember Plus - open protocol for interfacing to / from broadcast control systems.
+*   [MIDIMonster (⭐508)](https://github.com/cbdevnet/midimonster) - Lightweight adapter tool for common show control protocols.
 
 ---
 

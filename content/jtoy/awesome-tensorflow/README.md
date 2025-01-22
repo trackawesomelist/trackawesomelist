@@ -27,17 +27,17 @@ TensorFlow - A curated list of dedicated resources http://tensorflow.org
 
 ### Libraries
 
-*   [TensorLayerX (⭐525)](https://github.com/tensorlayer/TensorLayerX) - TensorLayerX: A Unified Deep Learning Framework for All Hardwares, Backends and OS, including TensorFlow.
+*   [TensorLayerX (⭐537)](https://github.com/tensorlayer/TensorLayerX) - TensorLayerX: A Unified Deep Learning Framework for All Hardwares, Backends and OS, including TensorFlow.
 
 ## [Apr 16, 2022](/content/2022/04/16/README.md)
 
 ### Libraries
 
-*   [Tensorflow-Probability](https://www.tensorflow.org/probability) - Probabalistic programming built on TensorFlow that makes it easy to combine probabilistic models and deep learning on modern hardware.
+*   [Tensorflow-Probability](https://www.tensorflow.org/probability) - Probabilistic programming built on TensorFlow that makes it easy to combine probabilistic models and deep learning on modern hardware.
 
 ### Books
 
-*   [Probabilistic Programming and Bayesian Methods for Hackers (⭐26k)](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) - by Cameron Davidson-Pilon. Introduction to Bayesian methods and probabalistic graphical models using tensorflow-probability (and, alternatively PyMC2/3).
+*   [Probabilistic Programming and Bayesian Methods for Hackers (⭐27k)](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) - by Cameron Davidson-Pilon. Introduction to Bayesian methods and probabilistic graphical models using tensorflow-probability (and, alternatively PyMC2/3).
 
 ## [Sep 09, 2021](/content/2021/09/09/README.md)
 
@@ -73,7 +73,7 @@ TensorFlow - A curated list of dedicated resources http://tensorflow.org
 
 ### Tools/Utilities
 
-*   [ML Workspace (⭐3.3k)](https://github.com/ml-tooling/ml-workspace) - All-in-one web IDE for machine learning and data science. Combines Tensorflow, Jupyter, VS Code, Tensorboard, and many other tools/libraries into one Docker image.
+*   [ML Workspace (⭐3.4k)](https://github.com/ml-tooling/ml-workspace) - All-in-one web IDE for machine learning and data science. Combines Tensorflow, Jupyter, VS Code, Tensorboard, and many other tools/libraries into one Docker image.
 
 ## [Apr 19, 2019](/content/2019/04/19/README.md)
 
@@ -92,7 +92,7 @@ TensorFlow - A curated list of dedicated resources http://tensorflow.org
 
 ### Models/Projects
 
-*   [Ladder Network (⭐102)](https://github.com/divamgupta/ladder_network_keras) - Implementation of Ladder Network for Semi-Supervised Learning in Keras and Tensorflow
+*   [Ladder Network (⭐101)](https://github.com/divamgupta/ladder_network_keras) - Implementation of Ladder Network for Semi-Supervised Learning in Keras and Tensorflow
 
 ## [Feb 12, 2019](/content/2019/02/12/README.md)
 
@@ -110,13 +110,13 @@ TensorFlow - A curated list of dedicated resources http://tensorflow.org
 
 ### Libraries
 
-*   [pytorch2keras (⭐847)](https://github.com/nerox8664/pytorch2keras) - Convert PyTorch models to Keras (with TensorFlow backend) format
+*   [pytorch2keras (⭐856)](https://github.com/nerox8664/pytorch2keras) - Convert PyTorch models to Keras (with TensorFlow backend) format
 
 ## [Dec 01, 2018](/content/2018/12/01/README.md)
 
 ### Models/Projects
 
-*   [Hierarchical Attention Networks (⭐83)](https://github.com/tqtg/hierarchical-attention-networks) - TensorFlow implementation of ["Hierarchical Attention Networks for Document Classification"](https://www.cs.cmu.edu/~hovy/papers/16HLT-hierarchical-attention-networks.pdf)
+*   [Hierarchical Attention Networks (⭐86)](https://github.com/tqtg/hierarchical-attention-networks) - TensorFlow implementation of ["Hierarchical Attention Networks for Document Classification"](https://www.cs.cmu.edu/~hovy/papers/16HLT-hierarchical-attention-networks.pdf)
 
 ## [Oct 28, 2018](/content/2018/10/28/README.md)
 
@@ -128,7 +128,7 @@ TensorFlow - A curated list of dedicated resources http://tensorflow.org
 
 ### Libraries
 
-*   [tf-encrypted (⭐2)](https://github.com/mortendahl/tf-encrypted) - Layer on top of TensorFlow for doing machine learning on encrypted data
+*   [tf-encrypted (⭐3)](https://github.com/mortendahl/tf-encrypted) - Layer on top of TensorFlow for doing machine learning on encrypted data
 
 ## [Oct 01, 2018](/content/2018/10/01/README.md)
 
@@ -157,13 +157,13 @@ TensorFlow - A curated list of dedicated resources http://tensorflow.org
 
 ### Models/Projects
 
-*   [MusicGenreClassification (⭐538)](https://github.com/mlachmish/MusicGenreClassification) - Classify music genre from a 10 second sound stream using a Neural Network.
+*   [MusicGenreClassification (⭐561)](https://github.com/mlachmish/MusicGenreClassification) - Classify music genre from a 10 second sound stream using a Neural Network.
 
 ## [Mar 25, 2018](/content/2018/03/25/README.md)
 
 ### Tutorials
 
-*   [TensorFlow Tutorial 3 (⭐9.2k)](https://github.com/Hvass-Labs/TensorFlow-Tutorials) - These tutorials are intended for beginners in Deep Learning and TensorFlow with well-documented code and YouTube videos.
+*   [TensorFlow Tutorial 3 (⭐9.3k)](https://github.com/Hvass-Labs/TensorFlow-Tutorials) - These tutorials are intended for beginners in Deep Learning and TensorFlow with well-documented code and YouTube videos.
 
 ## [Mar 19, 2018](/content/2018/03/19/README.md)
 
@@ -179,21 +179,21 @@ TensorFlow - A curated list of dedicated resources http://tensorflow.org
 
 ### Models/Projects
 
-*   [SRGAN (⭐3.2k)](https://github.com/tensorlayer/srgan) - Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network
+*   [SRGAN (⭐3.3k)](https://github.com/tensorlayer/srgan) - Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network
 *   [Seq2seq-Chatbot (⭐837)](https://github.com/tensorlayer/seq2seq-chatbot) - Chatbot in 200 lines of code
-*   [DCGAN (⭐332)](https://github.com/tensorlayer/dcgan) - Deep Convolutional Generative Adversarial Networks
-*   [GAN-CLS (⭐592)](https://github.com/zsdonghao/text-to-image) -Generative Adversarial Text to Image Synthesis
+*   [DCGAN (⭐339)](https://github.com/tensorlayer/dcgan) - Deep Convolutional Generative Adversarial Networks
+*   [GAN-CLS (⭐598)](https://github.com/zsdonghao/text-to-image) -Generative Adversarial Text to Image Synthesis
 *   [im2im (⭐73)](https://github.com/zsdonghao/Unsup-Im2Im) - Unsupervised Image to Image Translation with Generative Adversarial Networks
-*   [Improved CycleGAN (⭐90)](https://github.com/luoxier/CycleGAN_Tensorlayer) - Unpaired Image to Image Translation
-*   [DAGAN (⭐173)](https://github.com/nebulaV/DAGAN) - Fast Compressed Sensing MRI Reconstruction
+*   [Improved CycleGAN (⭐89)](https://github.com/luoxier/CycleGAN_Tensorlayer) - Unpaired Image to Image Translation
+*   [DAGAN (⭐175)](https://github.com/nebulaV/DAGAN) - Fast Compressed Sensing MRI Reconstruction
 *   [Policy Gradient (⭐7.3k)](https://github.com/zsdonghao/tensorlayer/blob/master/example/tutorial_atari_pong.py) - For Playing Atari Ping Pong
 *   [Deep Q-Network (⭐7.3k)](https://github.com/zsdonghao/tensorlayer/blob/master/example/tutorial_frozenlake_dqn.py) - For Playing Frozen Lake Game
 *   [AC (⭐7.3k)](https://github.com/zsdonghao/tensorlayer/blob/master/example/tutorial_cartpole_ac.py) - Actor Critic for Playing Discrete Action space Game (Cartpole)
 *   [A3C (⭐7.3k)](https://github.com/zsdonghao/tensorlayer/blob/master/example/tutorial_bipedalwalker_a3c_continuous_action.py) - Asynchronous Advantage Actor Critic (A3C) for Continuous Action Space (Bipedal Walker)
-*   [DAGGER (⭐70)](https://github.com/zsdonghao/Imitation-Learning-Dagger-Torcs) - For Playing [Gym Torcs (⭐411)](https://github.com/ugo-nama-kun/gym_torcs)
+*   [DAGGER (⭐71)](https://github.com/zsdonghao/Imitation-Learning-Dagger-Torcs) - For Playing [Gym Torcs (⭐409)](https://github.com/ugo-nama-kun/gym_torcs)
 *   [TRPO (⭐43)](https://github.com/jjkke88/RL_toolbox) - For Continuous and Discrete Action Space by
-*   [U-Net (⭐484)](https://github.com/zsdonghao/u-net-brain-tumor) - For Brain Tumor Segmentation
-*   [Spatial Transformer Networks (⭐35)](https://github.com/zsdonghao/Spatial-Transformer-Nets) - Learn the Transformation Function
+*   [U-Net (⭐503)](https://github.com/zsdonghao/u-net-brain-tumor) - For Brain Tumor Segmentation
+*   [Spatial Transformer Networks (⭐36)](https://github.com/zsdonghao/Spatial-Transformer-Nets) - Learn the Transformation Function
 
 ### Libraries
 
@@ -205,7 +205,7 @@ TensorFlow - A curated list of dedicated resources http://tensorflow.org
 
 ### Books
 
-*   [Deep Learning using TensorLayer](http://www.broadview.com.cn/book/5059) - by Hao Dong et al. This book covers both deep learning and the implmentation by using TensorFlow and TensorLayer.
+*   [Deep Learning using TensorLayer](http://www.broadview.com.cn/book/5059) - by Hao Dong et al. This book covers both deep learning and the implementation by using TensorFlow and TensorLayer.
 
 ## [Feb 17, 2018](/content/2018/02/17/README.md)
 
@@ -229,7 +229,7 @@ TensorFlow - A curated list of dedicated resources http://tensorflow.org
 
 ### Models/Projects
 
-*   [Tensorflow FastText (⭐303)](https://github.com/apcode/tensorflow_fasttext) - A simple embedding based text classifier inspired by Facebook's fastText.
+*   [Tensorflow FastText (⭐302)](https://github.com/apcode/tensorflow_fasttext) - A simple embedding based text classifier inspired by Facebook's fastText.
 
 ## [Dec 10, 2017](/content/2017/12/10/README.md)
 
@@ -253,7 +253,7 @@ TensorFlow - A curated list of dedicated resources http://tensorflow.org
 
 ### Libraries
 
-*   [Lattice (⭐519)](https://github.com/tensorflow/lattice) - Implementation of Monotonic Calibrated Interpolated Look-Up Tables in TensorFlow
+*   [Lattice (⭐518)](https://github.com/tensorflow/lattice) - Implementation of Monotonic Calibrated Interpolated Look-Up Tables in TensorFlow
 *   [TensorForce (⭐3.3k)](https://github.com/reinforceio/tensorforce) - TensorForce: A TensorFlow library for applied reinforcement learning
 
 ## [Sep 27, 2017](/content/2017/09/27/README.md)
@@ -278,7 +278,7 @@ TensorFlow - A curated list of dedicated resources http://tensorflow.org
 
 ### Models/Projects
 
-*   [Neural machine translation between the writings of Shakespeare and modern English using TensorFlow (⭐248)](https://github.com/tokestermw/tensorflow-shakespeare) - This performs a monolingual translation, going from modern English to Shakespeare and vice-versa.
+*   [Neural machine translation between the writings of Shakespeare and modern English using TensorFlow (⭐250)](https://github.com/tokestermw/tensorflow-shakespeare) - This performs a monolingual translation, going from modern English to Shakespeare and vice-versa.
 
 ## [Jul 28, 2017](/content/2017/07/28/README.md)
 
@@ -302,7 +302,7 @@ TensorFlow - A curated list of dedicated resources http://tensorflow.org
 
 ### Models/Projects
 
-*   [3D Convolutional Neural Networks in TensorFlow (⭐777)](https://github.com/astorfi/3D-convolutional-speaker-recognition) - Implementation of ["3D Convolutional Neural Networks for Speaker Verification application"](https://arxiv.org/abs/1705.09422) in TensorFlow by Torfi et al.
+*   [3D Convolutional Neural Networks in TensorFlow (⭐780)](https://github.com/astorfi/3D-convolutional-speaker-recognition) - Implementation of ["3D Convolutional Neural Networks for Speaker Verification application"](https://arxiv.org/abs/1705.09422) in TensorFlow by Torfi et al.
 
 ## [Jun 21, 2017](/content/2017/06/21/README.md)
 
@@ -314,8 +314,8 @@ TensorFlow - A curated list of dedicated resources http://tensorflow.org
 
 ### Models/Projects
 
-*   [Show, Attend and Tell (⭐907)](https://github.com/yunjey/show_attend_and_tell) - Attention Based Image Caption Generator
-*   [GoogleNet Convolutional Neural Network Groups Movie Scenes By Setting (⭐357)](https://github.com/agermanidis/thingscoop) - Search, filter, and describe videos based on objects, places, and other things that appear in them
+*   [Show, Attend and Tell (⭐909)](https://github.com/yunjey/show_attend_and_tell) - Attention Based Image Caption Generator
+*   [GoogleNet Convolutional Neural Network Groups Movie Scenes By Setting (⭐358)](https://github.com/agermanidis/thingscoop) - Search, filter, and describe videos based on objects, places, and other things that appear in them
 *   [Colornet - Neural Network to colorize grayscale images (⭐3.6k)](https://github.com/pavelgonchar/colornet) - Neural Network to colorize grayscale images
 
 ## [Jun 08, 2017](/content/2017/06/08/README.md)
@@ -328,7 +328,7 @@ TensorFlow - A curated list of dedicated resources http://tensorflow.org
 
 ### Models/Projects
 
-*   [VGAN Tensorflow (⭐14)](https://github.com/Singularity42/VGAN-Tensorflow) - Tensorflow implementation for MIT ["Generating Videos with Scene Dynamics"](http://carlvondrick.com/tinyvideo/) by Vondrick et al.
+*   [VGAN Tensorflow (⭐15)](https://github.com/Singularity42/VGAN-Tensorflow) - Tensorflow implementation for MIT ["Generating Videos with Scene Dynamics"](http://carlvondrick.com/tinyvideo/) by Vondrick et al.
 
 ## [May 22, 2017](/content/2017/05/22/README.md)
 
@@ -362,13 +362,13 @@ TensorFlow - A curated list of dedicated resources http://tensorflow.org
 
 ### Libraries
 
-*   [Sonnet (⭐9.7k)](https://github.com/deepmind/sonnet) - Sonnet is DeepMind's library built on top of TensorFlow for building complex neural networks.
+*   [Sonnet (⭐9.8k)](https://github.com/deepmind/sonnet) - Sonnet is DeepMind's library built on top of TensorFlow for building complex neural networks.
 
 ## [Apr 04, 2017](/content/2017/04/04/README.md)
 
 ### Models/Projects
 
-*   [CNN visualization using Tensorflow (⭐777)](https://github.com/InFoCusp/tf_cnnvis) - Tensorflow implementation of ["Visualizing and Understanding Convolutional Networks"](https://www.cs.nyu.edu/~fergus/papers/zeilerECCV2014.pdf)
+*   [CNN visualization using Tensorflow (⭐781)](https://github.com/InFoCusp/tf_cnnvis) - Tensorflow implementation of ["Visualizing and Understanding Convolutional Networks"](https://www.cs.nyu.edu/~fergus/papers/zeilerECCV2014.pdf)
 
 ## [Mar 20, 2017](/content/2017/03/20/README.md)
 
@@ -416,7 +416,7 @@ TensorFlow - A curated list of dedicated resources http://tensorflow.org
 
 ### Models/Projects
 
-*   [Domain Transfer Network (⭐862)](https://github.com/yunjey/dtn-tensorflow) - Implementation of Unsupervised Cross-Domain Image Generation
+*   [Domain Transfer Network (⭐861)](https://github.com/yunjey/dtn-tensorflow) - Implementation of Unsupervised Cross-Domain Image Generation
 
 ## [Jan 02, 2017](/content/2017/01/02/README.md)
 
@@ -432,7 +432,7 @@ TensorFlow - A curated list of dedicated resources http://tensorflow.org
 
 ### Powered by TensorFlow
 
-*   [android-yolo (⭐649)](https://github.com/natanielruiz/android-yolo) - Real-time object detection on Android using the YOLO network, powered by TensorFlow.
+*   [android-yolo (⭐668)](https://github.com/natanielruiz/android-yolo) - Real-time object detection on Android using the YOLO network, powered by TensorFlow.
 
 ## [Dec 14, 2016](/content/2016/12/14/README.md)
 
@@ -457,7 +457,7 @@ TensorFlow - A curated list of dedicated resources http://tensorflow.org
 *   [Neural Style (⭐3.1k)](https://github.com/cysmith/neural-style-tf) Implementation of Neural Style
 *   [Pretty Tensor (⭐1.2k)](https://github.com/google/prettytensor) - Pretty Tensor provides a high level builder API
 *   [Neural Style (⭐5.5k)](https://github.com/anishathalye/neural-style) - An implementation of neural style
-*   [NeuralArt (⭐493)](https://github.com/ckmarkoh/neuralart_tensorflow) - Implementation of A Neural Algorithm of Artistic Style
+*   [NeuralArt (⭐496)](https://github.com/ckmarkoh/neuralart_tensorflow) - Implementation of A Neural Algorithm of Artistic Style
 
 ### Libraries
 
@@ -482,7 +482,7 @@ TensorFlow - A curated list of dedicated resources http://tensorflow.org
 
 ### Models/Projects
 
-*   [Mnemonic Descent Method (⭐123)](https://github.com/trigeorgis/mdm) - Tensorflow implementation of ["Mnemonic Descent Method: A recurrent process applied for end-to-end face alignment"](http://ibug.doc.ic.ac.uk/media/uploads/documents/trigeorgis2016mnemonic.pdf)
+*   [Mnemonic Descent Method (⭐124)](https://github.com/trigeorgis/mdm) - Tensorflow implementation of ["Mnemonic Descent Method: A recurrent process applied for end-to-end face alignment"](http://ibug.doc.ic.ac.uk/media/uploads/documents/trigeorgis2016mnemonic.pdf)
 
 ## [Oct 24, 2016](/content/2016/10/24/README.md)
 
@@ -492,10 +492,10 @@ TensorFlow - A curated list of dedicated resources http://tensorflow.org
 
 ### Models/Projects
 
-*   [DQN-tensorflow (⭐2.4k)](https://github.com/devsisters/DQN-tensorflow) - TensorFlow implementation of DeepMind's 'Human-Level Control through Deep Reinforcement Learning' with OpenAI Gym by Devsisters.com
+*   [DQN-tensorflow (⭐2.5k)](https://github.com/devsisters/DQN-tensorflow) - TensorFlow implementation of DeepMind's 'Human-Level Control through Deep Reinforcement Learning' with OpenAI Gym by Devsisters.com
 *   [Highway Network (⭐57)](https://github.com/fomorians/highway-cnn) - TensorFlow implementation of ["Training Very Deep Networks"](http://arxiv.org/abs/1507.06228) with a [blog post](https://medium.com/jim-fleming/highway-networks-with-tensorflow-1e6dfa667daa#.ndicn1i27)
 *   [Sentence Classification with CNN (⭐5.6k)](https://github.com/dennybritz/cnn-text-classification-tf) - TensorFlow implementation of ["Convolutional Neural Networks for Sentence Classification"](http://arxiv.org/abs/1408.5882) with a [blog post](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)
-*   [Character-Aware Neural Language Models (⭐754)](https://github.com/carpedm20/lstm-char-cnn-tensorflow) - TensorFlow implementation of [Character-Aware Neural Language Models](http://arxiv.org/abs/1508.06615)
+*   [Character-Aware Neural Language Models (⭐761)](https://github.com/carpedm20/lstm-char-cnn-tensorflow) - TensorFlow implementation of [Character-Aware Neural Language Models](http://arxiv.org/abs/1508.06615)
 *   [YOLO TensorFlow ++ (⭐6.1k)](https://github.com/thtrieu/yolotf) - TensorFlow implementation of 'YOLO: Real-Time Object Detection', with training and an actual support for real-time running on mobile devices.
 
 ## [Oct 02, 2016](/content/2016/10/02/README.md)
@@ -530,7 +530,7 @@ TensorFlow - A curated list of dedicated resources http://tensorflow.org
 
 ### Libraries
 
-*   [tensorflow.rb (⭐826)](https://github.com/somaticio/tensorflow.rb) - TensorFlow native interface for ruby using SWIG
+*   [tensorflow.rb (⭐828)](https://github.com/somaticio/tensorflow.rb) - TensorFlow native interface for ruby using SWIG
 
 ## [Jul 30, 2016](/content/2016/07/30/README.md)
 
@@ -580,7 +580,7 @@ TensorFlow - A curated list of dedicated resources http://tensorflow.org
 
 ### Tutorials
 
-*   [Terry Um’s TensorFlow Exercises (⭐615)](https://github.com/terryum/TensorFlow_Exercises) - Re-create the codes from other TensorFlow examples
+*   [Terry Um’s TensorFlow Exercises (⭐618)](https://github.com/terryum/TensorFlow_Exercises) - Re-create the codes from other TensorFlow examples
 *   [Installing TensorFlow on Raspberry Pi 3 (⭐2.2k)](https://github.com/samjabrahams/tensorflow-on-raspberry-pi) - TensorFlow compiled and running properly on the Raspberry Pi
 
 ## [May 19, 2016](/content/2016/05/19/README.md)
@@ -594,7 +594,7 @@ TensorFlow - A curated list of dedicated resources http://tensorflow.org
 
 ### Libraries
 
-*   [TensorFrames (⭐751)](https://github.com/tjhunter/tensorframes) - TensorFlow binding for Apache Spark
+*   [TensorFrames (⭐749)](https://github.com/tjhunter/tensorframes) - TensorFlow binding for Apache Spark
 
 ## [May 15, 2016](/content/2016/05/15/README.md)
 
@@ -616,7 +616,7 @@ TensorFlow - A curated list of dedicated resources http://tensorflow.org
 *   [Neural Caption Generator with Attention (⭐507)](https://github.com/jazzsaxmafia/show_attend_and_tell.tensorflow) - Implementation of ["Show, Attend and Tell"](http://arxiv.org/abs/1502.03044)
 *   [Weakly\_detector (⭐361)](https://github.com/jazzsaxmafia/Weakly_detector) - Implementation of ["Learning Deep Features for Discriminative Localization"](http://cnnlocalization.csail.mit.edu/)
 *   [Dynamic Capacity Networks (⭐9)](https://github.com/jazzsaxmafia/dcn.tf) - Implementation of ["Dynamic Capacity Networks"](http://arxiv.org/abs/1511.07838)
-*   [HMM in TensorFlow (⭐285)](https://github.com/dwiel/tensorflow_hmm) - Implementation of viterbi and forward/backward algorithms for HMM
+*   [HMM in TensorFlow (⭐287)](https://github.com/dwiel/tensorflow_hmm) - Implementation of viterbi and forward/backward algorithms for HMM
 *   [DeepOSM (⭐1.3k)](https://github.com/trailbehind/DeepOSM) - Train TensorFlow neural nets with OpenStreetMap features and satellite imagery.
 
 ### Powered by TensorFlow
@@ -691,7 +691,7 @@ TensorFlow - A curated list of dedicated resources http://tensorflow.org
 
 ### Models/Projects
 
-*   [Generative Handwriting Demo using TensorFlow (⭐694)](https://github.com/hardmaru/write-rnn-tensorflow) - An attempt to implement the random handwriting generation portion of Alex Graves' paper
+*   [Generative Handwriting Demo using TensorFlow (⭐700)](https://github.com/hardmaru/write-rnn-tensorflow) - An attempt to implement the random handwriting generation portion of Alex Graves' paper
 
 ### Videos
 
@@ -723,11 +723,11 @@ TensorFlow - A curated list of dedicated resources http://tensorflow.org
 
 ### Models/Projects
 
-*   [TensorFlow White Paper Notes (⭐437)](https://github.com/samjabrahams/tensorflow-white-paper-notes) - Annotated notes and summaries of the TensorFlow white paper, along with SVG figures and links to documentation
+*   [TensorFlow White Paper Notes (⭐439)](https://github.com/samjabrahams/tensorflow-white-paper-notes) - Annotated notes and summaries of the TensorFlow white paper, along with SVG figures and links to documentation
 
 ## [Feb 27, 2016](/content/2016/02/27/README.md)
 
 ### Credits
 
-*   Some of the python libraries were cut-and-pasted from [vinta (⭐201k)](https://github.com/vinta/awesome-python)
+*   Some of the python libraries were cut-and-pasted from [vinta (⭐222k)](https://github.com/vinta/awesome-python)
 *   The few go reference I found where pulled from [this page](https://code.google.com/p/go-wiki/wiki/Projects#Machine_Learning)

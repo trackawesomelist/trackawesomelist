@@ -14,17 +14,17 @@
 
 ### Tools / Fuzz Testing
 
-*   [An Android port of the Melkor ELF fuzzer (⭐57)](https://github.com/anestisb/melkor-android)
+*   [An Android port of the Melkor ELF fuzzer (⭐60)](https://github.com/anestisb/melkor-android)
 
 ### Tools / Market Crawlers
 
-*   [Google Play crawler (Java) (⭐560)](https://github.com/Akdeniz/google-play-crawler)
-*   [Google Play crawler (Python) (⭐878)](https://github.com/egirault/googleplay-api)
-*   [Google Play crawler (Node) (⭐269)](https://github.com/dweinstein/node-google-play) - get app details and download apps from the official Google Play Store.
+*   [Google Play crawler (Java) (⭐571)](https://github.com/Akdeniz/google-play-crawler)
+*   [Google Play crawler (Python) (⭐882)](https://github.com/egirault/googleplay-api)
+*   [Google Play crawler (Node) (⭐271)](https://github.com/dweinstein/node-google-play) - get app details and download apps from the official Google Play Store.
 
 ### Academic/Research/Publications/Books / Research Papers
 
-*   [Android security-related presentations (⭐165)](https://github.com/jacobsoo/AndroidSlides)
+*   [Android security-related presentations (⭐167)](https://github.com/jacobsoo/AndroidSlides)
 
 ### Exploits/Vulnerabilities/Bugs / Malware
 
@@ -34,23 +34,19 @@
 
 ### Authentication and Authorization
 
-*   🍰 [ApiTokenAuthenticator plugin (⭐3)](https://github.com/rrd108/api-token-authenticator) - A simple token authentication plugin for CakePHP REST APIs.
+*   [ApiTokenAuthenticator plugin (⭐3)](https://github.com/rrd108/api-token-authenticator) - A simple token authentication plugin for CakePHP REST APIs.
 
 ## [3. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
 ### Community Extensions
 
-*   [rciam/keycloak-group-management (⭐11)](https://github.com/rciam/keycloak-group-management)
+*   [rciam/keycloak-group-management (⭐13)](https://github.com/rciam/keycloak-group-management)
 
 ## [4. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
-### Applications / Productivity
-
-*   [Furtherance (⭐251)](https://github.com/lakoliu/Furtherance) - Time tracking app built with GTK4
-
 ### Applications / System tools
 
-*   [atuin (⭐19k)](https://github.com/atuinsh/atuin) \[[atuin](https://crates.io/crates/atuin)] - Atuin replaces your existing shell history with a SQLite database, and records additional context for your commands. Additionally, it provides optional and fully encrypted synchronisation of your history between machines, via an Atuin server.
+*   [atuin (⭐22k)](https://github.com/atuinsh/atuin) \[[atuin](https://crates.io/crates/atuin)] - Atuin replaces your existing shell history with a SQLite database, and records additional context for your commands. Additionally, it provides optional and fully encrypted synchronisation of your history between machines, via an Atuin server.
 
 ## [5. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
@@ -91,13 +87,13 @@
 
 ### Themes
 
-*   [tmux-snazzy (⭐11)](https://github.com/ivnvxd/tmux-snazzy) Elegant tmux theme with bright colors
+*   [tmux-snazzy (⭐15)](https://github.com/ivnvxd/tmux-snazzy) Elegant tmux theme with bright colors
 
 ## [9. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
 ### API / Samples
 
-*   [VulcanSQL (⭐607)](https://github.com/Canner/vulcan-sql) - Write templated SQL to automatically exposing RESTful APIs from your database/data warehouse/data lake.
+*   [VulcanSQL (⭐653)](https://github.com/Canner/vulcan-sql) - Write templated SQL to automatically exposing RESTful APIs from your database/data warehouse/data lake.
 
 ### HA/Failover/Sharding / Zabbix
 

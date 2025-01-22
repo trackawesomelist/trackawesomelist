@@ -10,7 +10,7 @@
 
 ### Get Started
 
-*   [create-electron-vite (⭐166)](https://github.com/electron-vite/create-electron-vite) - Scaffolding Your Electron + Vite Project.
+*   [create-electron-vite (⭐194)](https://github.com/electron-vite/create-electron-vite) - Scaffolding Your Electron + Vite Project.
 
 ## [2. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
@@ -24,17 +24,17 @@
 
 ### ⚙️ Middlewares / 🌱 Third Party
 
-*   [witer33/fiberpow (⭐9)](https://github.com/witer33/fiberpow) - Anti DDoS/Bot Middleware with a customizable Proof Of Work challenge.
+*   [witer33/fiberpow (⭐12)](https://github.com/witer33/fiberpow) - Anti DDoS/Bot Middleware with a customizable Proof Of Work challenge.
 
 ## [4. Awesome Lidar](/content/szenergy/awesome-lidar/README.md)
 
 ### Others / Object detection and object tracking
 
 *   [Foxglove](https://foxglove.dev/) - Foxglove Studio is an integrated visualization and diagnosis tool for robotics, available in your browser or for download as a desktop app on Linux, Windows, and macOS.
-    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐1.8k)](https://github.com/foxglove/studio) ![](https://img.shields.io/badge/ROS-2-34aec5?style=flat-square\&logo=ros)
+    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐23)](https://github.com/foxglove/studio) ![](https://img.shields.io/badge/ROS-2-34aec5?style=flat-square\&logo=ros)
     *   [YouTube channel ![](https://img.shields.io/badge/youtube-red?style=flat-square\&logo=youtube)](https://www.youtube.com/channel/UCrIbrBxb9HBAnlhbx2QycsA)
 *   [MeshLab](https://www.meshlab.net/) - MeshLab is an open source, portable, and extensible system for the processing and editing 3D triangular meshes and pointcloud.
-    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐4.6k)](https://github.com/cnr-isti-vclab/meshlab)
+    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐4.9k)](https://github.com/cnr-isti-vclab/meshlab)
 
 ## [5. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
@@ -50,15 +50,15 @@
 
 ## [7. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
-### Modules / Various Godot versions
+### Modules / Godot 4
 
-*   [GodotHook (⭐46)](https://github.com/Mestima/GodotHook) - A lite custom event system for Godot Engine (Godot 3.x, 4.x).
+*   [GodotHook (⭐50)](https://github.com/Mestima/GodotHook) - A lite custom event system for Godot Engine. *(Godot 3 and 4)*
 
 ## [8. Awesome Gatling](/content/aliesbelik/awesome-gatling/README.md)
 
 ### CI / Miscellaneous
 
-*   [run-gatling (⭐4)](https://github.com/liatrio/run-gatling) - GitHub Action to easily integrate Gatling performance tests to GitHub workflows.
+*   [run-gatling (⭐5)](https://github.com/liatrio/run-gatling) - GitHub Action to easily integrate Gatling performance tests to GitHub workflows.
 
 ---
 

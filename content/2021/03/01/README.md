@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 01, 2021
 
-14 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Tools / Community providers
 
-*   [regula (⭐948)](https://github.com/fugue/regula) - Evaluates Terraform infrastructure-as-code for potential AWS, Azure, and Google Cloud security misconfigurations and compliance violations prior to deployment.
+*   [regula (⭐961)](https://github.com/fugue/regula) - Evaluates Terraform infrastructure-as-code for potential AWS, Azure, and Google Cloud security misconfigurations and compliance violations prior to deployment.
 
 ## [2. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
@@ -28,14 +28,14 @@
 
 ### Tools
 
-*   🌍🔧💼 [Twind (⭐3.7k)](https://github.com/tw-in-js/twind) - Compiler functions that turn Tailwind's classes into CSS at run, serve and build time.
+*   🌍🔧💼 [Twind (⭐3.8k)](https://github.com/tw-in-js/twind) - Compiler functions that turn Tailwind's classes into CSS at run, serve and build time.
 
 ## [5. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md)
 
 ### Other libraries and tools / Mesh tools
 
 *   [Dedalus](https://dedalus-project.org/) - Solve partial differential equations with spectral methods.
-    (Python, GPL 3, [GitHub (⭐416)](https://github.com/DedalusProject/dedalus))
+    (Python, GPL 3, [GitHub (⭐524)](https://github.com/DedalusProject/dedalus))
 
 ## [6. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
@@ -44,7 +44,7 @@
 *   Acme:
     *   [acmecrystal (⭐6)](https://github.com/ilanpillemer/acmecrystal) - Reformats crystal code in acme
 *   Emacs
-    *   [crystal-mode](https://melpa.org/#/crystal-mode) - Crystal language support for Emacs ([crystal-lang-tools/emacs-crystal-mode (⭐47)](https://github.com/crystal-lang-tools/emacs-crystal-mode))
+    *   [crystal-mode](https://melpa.org/#/crystal-mode) - Crystal language support for Emacs ([crystal-lang-tools/emacs-crystal-mode (⭐48)](https://github.com/crystal-lang-tools/emacs-crystal-mode))
 
 ## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -70,42 +70,36 @@
 
 *   [darknet\_ros (⭐1.9k)](https://github.com/leggedrobotics/darknet_ros/tree/ros2) - ROS2 wrapper for deploying Darknet's YOLO Computer Vision model.
 
-## [11. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / UI Components
-
-*   [vue-flv-player (⭐18)](https://github.com/wangdaodao/vue-flv-player) - An HTML5 Flash Video (FLV) Player component for Vue 2.x, based on flv.js.
-
-## [12. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [11. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### 2D/3D Rendering engines / Tabs
 
-*   [BlazorXTabs (⭐33)](https://github.com/David-Moreira/BlazorXTabs) - ![last commit](https://img.shields.io/github/last-commit/David-Moreira/BlazorXTabs?style=flat-square\&cacheSeconds=86400) An extended tabs component library providing various tab features for Blazor.
+*   [BlazorXTabs (⭐34)](https://github.com/David-Moreira/BlazorXTabs) - ![last commit](https://img.shields.io/github/last-commit/David-Moreira/BlazorXTabs?style=flat-square\&cacheSeconds=86400) An extended tabs component library providing various tab features for Blazor.
 
 ### 2D/3D Rendering engines / Others
 
-*   [BlazorDownloadFile (⭐180)](https://github.com/arivera12/BlazorDownloadFile) - ![stars](https://img.shields.io/github/stars/arivera12/BlazorDownloadFile?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/arivera12/BlazorDownloadFile?style=flat-square\&cacheSeconds=86400) Blazor download files to the browser from c# without any JavaScript library or dependency. BlazorDownloadFile is the solution to saving files on the client-side, and is perfect for web apps that generates files on the client. However if the file is coming from the server we recommend you to first try to use Content-Disposition attachment response header as it has more cross-browser compatibility.
-*   [BlazorSliders (⭐34)](https://github.com/carlfranklin/BlazorSliders) - ![last commit](https://img.shields.io/github/last-commit/carlfranklin/BlazorSliders?style=flat-square\&cacheSeconds=86400) Create multiple panels separated by sliding splitters.
+*   [BlazorDownloadFile (⭐186)](https://github.com/arivera12/BlazorDownloadFile) - ![stars](https://img.shields.io/github/stars/arivera12/BlazorDownloadFile?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/arivera12/BlazorDownloadFile?style=flat-square\&cacheSeconds=86400) Blazor download files to the browser from c# without any JavaScript library or dependency. BlazorDownloadFile is the solution to saving files on the client-side, and is perfect for web apps that generates files on the client. However if the file is coming from the server we recommend you to first try to use Content-Disposition attachment response header as it has more cross-browser compatibility.
+*   [BlazorSliders (⭐37)](https://github.com/carlfranklin/BlazorSliders) - ![last commit](https://img.shields.io/github/last-commit/carlfranklin/BlazorSliders?style=flat-square\&cacheSeconds=86400) Create multiple panels separated by sliding splitters.
 
 ### Community / Others
 
 *   [Blazor Help Website](https://blazorhelpwebsite.com/) - Blogs and code samples primarily covering server-side Blazor.
 
-## [13. Awesome Java](/content/akullpp/awesome-java/README.md)
+## [12. Awesome Java](/content/akullpp/awesome-java/README.md)
 
 ### CSV / Text-Based User Interfaces
 
-*   [FastCSV (⭐524)](https://github.com/osiegmar/FastCSV) - Performance-optimized, dependency-free and RFC 4180 compliant.
+*   [FastCSV (⭐550)](https://github.com/osiegmar/FastCSV) - Performance-optimized, dependency-free and RFC 4180 compliant.
 
 ### Financial / Text-Based User Interfaces
 
-*   [ta4j (⭐2k)](https://github.com/ta4j/ta4j) - Library for technical analysis.
+*   [ta4j (⭐2.1k)](https://github.com/ta4j/ta4j) - Library for technical analysis.
 
 ### Security / Other
 
-*   [OTP-Java (⭐175)](https://github.com/BastiaanJansen/OTP-Java) - One-time password generator library according to RFC 4226 (HOTP) and RFC 6238 (TOTP).
+*   [OTP-Java (⭐189)](https://github.com/BastiaanJansen/OTP-Java) - One-time password generator library according to RFC 4226 (HOTP) and RFC 6238 (TOTP).
 
-## [14. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
+## [13. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
 ### Frameworks
 

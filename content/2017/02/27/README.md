@@ -34,7 +34,7 @@
 
 ### Other Useful Repositories
 
-- Repository: [RFSec-ToolKit (⭐1.5k)](https://github.com/cn0xroot/RFSec-ToolKit)
+- Repository: [RFSec-ToolKit (⭐1.6k)](https://github.com/cn0xroot/RFSec-ToolKit)
 
   Description: Collection of Radio Frequency Communication Protocol Hacktools
 

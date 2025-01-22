@@ -10,29 +10,29 @@
 
 ### Applications / Database
 
-*   [Skytable (⭐2.4k)](https://github.com/skytable/skytable) - A multi-model NoSQL database ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/skytable/skytable/Tests?style=flat-square)
-*   [TerminusDB (⭐362)](https://github.com/terminusdb/terminusdb-store) - open source graph database and document store [![Build Status](https://github.com/terminusdb/terminusdb-store/workflows/Build/badge.svg?branch=master)](https://github.com/terminusdb/terminusdb-store/actions)
+*   [Skytable (⭐2.5k)](https://github.com/skytable/skytable) - A multi-model NoSQL database ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/skytable/skytable/Tests?style=flat-square)
+*   [TerminusDB (⭐370)](https://github.com/terminusdb/terminusdb-store) - open source graph database and document store [![Build Status](https://github.com/terminusdb/terminusdb-store/workflows/Build/badge.svg?branch=master)](https://github.com/terminusdb/terminusdb-store/actions)
 
 ### Applications / System tools
 
-*   [sharkdp/bat (⭐48k)](https://github.com/sharkdp/bat) - A cat(1) clone with wings. [![CICD](https://github.com/sharkdp/bat/actions/workflows/CICD.yml/badge.svg?branch=master)](https://github.com/sharkdp/bat/actions/workflows/CICD.yml)
+*   [sharkdp/bat (⭐51k)](https://github.com/sharkdp/bat) - A cat(1) clone with wings. [![CICD](https://github.com/sharkdp/bat/actions/workflows/CICD.yml/badge.svg?branch=master)](https://github.com/sharkdp/bat/actions/workflows/CICD.yml)
 
 ### Libraries / Distributed systems
 
 *   Apache Kafka
-    *   [fede1024/rust-rdkafka (⭐1.6k)](https://github.com/fede1024/rust-rdkafka) \[[rdkafka](https://crates.io/crates/rdkafka)] - [librdkafka (⭐86)](https://github.com/confluentinc/librdkafka) bindings
-    *   [gklijs/schema\_registry\_converter (⭐100)](https://github.com/gklijs/schema_registry_converter) \[[schema\_registry\_converter](https://crates.io/crates/schema_registry_converter)] - to integrate with [confluent schema registry](https://www.confluent.io/product/confluent-platform/data-compatibility/)
-    *   [kafka-rust/kafka-rust (⭐1.2k)](https://github.com/kafka-rust/kafka-rust) - Rust client for Apache Kafka
+    *   [fede1024/rust-rdkafka (⭐1.7k)](https://github.com/fede1024/rust-rdkafka) \[[rdkafka](https://crates.io/crates/rdkafka)] - [librdkafka (⭐368)](https://github.com/confluentinc/librdkafka) bindings
+    *   [gklijs/schema\_registry\_converter (⭐106)](https://github.com/gklijs/schema_registry_converter) \[[schema\_registry\_converter](https://crates.io/crates/schema_registry_converter)] - to integrate with [confluent schema registry](https://www.confluent.io/product/confluent-platform/data-compatibility/)
+    *   [kafka-rust/kafka-rust (⭐1.3k)](https://github.com/kafka-rust/kafka-rust) - Rust client for Apache Kafka
 
 ### Libraries / Email
 
-*   [jdrouet/catapulte (⭐137)](https://github.com/jdrouet/catapulte) - A microservice to send emails using [MRML (⭐329)](https://github.com/jdrouet/mrml) templates.
-*   [jdrouet/jolimail (⭐133)](https://github.com/jdrouet/jolimail) - A web application to build [MRML (⭐329)](https://github.com/jdrouet/mrml) templates.
+*   [jdrouet/catapulte (⭐145)](https://github.com/jdrouet/catapulte) - A microservice to send emails using [MRML (⭐375)](https://github.com/jdrouet/mrml) templates.
+*   [jdrouet/jolimail (⭐138)](https://github.com/jdrouet/jolimail) - A web application to build [MRML (⭐375)](https://github.com/jdrouet/mrml) templates.
 
 ### Libraries / GUI
 
 *   [FLTK](https://www.fltk.org/)
-    *   [fltk-rs (⭐1.6k)](https://github.com/fltk-rs/fltk-rs) - FLTK bindings [![Build](https://github.com/fltk-rs/fltk-rs/workflows/Build/badge.svg?branch=master)](https://github.com/fltk-rs/fltk-rs/actions)
+    *   [fltk-rs (⭐1.7k)](https://github.com/fltk-rs/fltk-rs) - FLTK bindings [![Build](https://github.com/fltk-rs/fltk-rs/workflows/Build/badge.svg?branch=master)](https://github.com/fltk-rs/fltk-rs/actions)
 
 ### Libraries / Network programming
 
@@ -57,14 +57,14 @@
 
 ### Python / Trading & Backtesting
 
-*   [Eiten (⭐2.7k)](https://github.com/tradytics/eiten) - Eiten is an open source toolkit by Tradytics that implements various statistical and algorithmic investing strategies such as Eigen Portfolios, Minimum Variance Portfolios, Maximum Sharpe Ratio Portfolios, and Genetic Algorithms based Portfolios.
-*   [Stock-Prediction-Models (⭐7.8k)](https://github.com/huseinzol05/Stock-Prediction-Models) - Gathers machine learning and deep learning models for Stock forecasting including trading bots and simulations.
+*   [Eiten (⭐2.8k)](https://github.com/tradytics/eiten) - Eiten is an open source toolkit by Tradytics that implements various statistical and algorithmic investing strategies such as Eigen Portfolios, Minimum Variance Portfolios, Maximum Sharpe Ratio Portfolios, and Genetic Algorithms based Portfolios.
+*   [Stock-Prediction-Models (⭐8.3k)](https://github.com/huseinzol05/Stock-Prediction-Models) - Gathers machine learning and deep learning models for Stock forecasting including trading bots and simulations.
 
 ## [4. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Artificial Intelligence
 
-*   [flashlight (⭐5.2k)](https://github.com/flashlight/flashlight) - Flashlight is a fast, flexible machine learning library written entirely in C++. \[BSD]
+*   [flashlight (⭐5.3k)](https://github.com/flashlight/flashlight) - Flashlight is a fast, flexible machine learning library written entirely in C++. \[BSD]
 
 ## [5. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
@@ -122,7 +122,7 @@
 
 ### Open Source / Community
 
-*   [Slidev (⭐32k)](https://github.com/slidevjs/slidev) - Presentation Slides for Developers.
+*   [Slidev (⭐34k)](https://github.com/slidevjs/slidev) - Presentation Slides for Developers.
 
 ## [12. Awesome Material Ui](/content/nadunindunil/awesome-material-ui/README.md)
 

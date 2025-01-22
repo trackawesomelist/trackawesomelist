@@ -23,7 +23,7 @@
 
 ### FPS
 
-*   [BStone (⭐297)](https://github.com/bibendovsky/bstone) - A source port of Blake Stone: Aliens Of Gold and Blake Stone: Planet Strike.
+*   [BStone (⭐302)](https://github.com/bibendovsky/bstone) - A source port of Blake Stone: Aliens Of Gold and Blake Stone: Planet Strike.
 
 ## [4. Awesome Rtc](/content/rtckit/awesome-rtc/README.md)
 
@@ -57,17 +57,9 @@
 
 *   [Vue and GraphQL with Hasura video course](https://dev.to/hasurahq/vue-and-graphql-with-hasura-video-course-3mpp)
 
-### Resources / Examples
-
-*   [TO (⭐5)](https://github.com/snturk/to) - A social media app that allows you post just texts.
-
 ### Resources / Blog Posts
 
 *   [Realtime chat App with Vue and Hasura ](https://dev.to/hasurahq/realtime-chat-app-with-vue-and-hasura-202h)
-
-### Projects Using Vue.js / Open Source
-
-*   [Nucleus (⭐353)](https://github.com/alirizaadiyahsi/Nucleus) - Vue startup application template that uses ASP.NET Core API layered architecture at the back-end and JWT based authentication
 
 ## [7. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
 
@@ -79,7 +71,7 @@
 
 ### Table of Contents / Streaming Engine
 
-*   [LightSaber (⭐69)](https://github.com/lsds/LightSaber) \[C++] - Multi-core Window-Based Stream Processing Engine. LightSaber uses code generation for efficient window aggregation.
+*   [LightSaber (⭐70)](https://github.com/lsds/LightSaber) \[C++] - Multi-core Window-Based Stream Processing Engine. LightSaber uses code generation for efficient window aggregation.
 
 ## [9. Amas](/content/sindresorhus/amas/README.md)
 

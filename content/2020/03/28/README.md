@@ -29,7 +29,7 @@
 
 ### Awesome Repositories
 
-- Repository: [Embedded and IoT Security (⭐1.7k)](https://github.com/fkie-cad/awesome-embedded-and-iot-security)
+- Repository: [Embedded and IoT Security (⭐1.9k)](https://github.com/fkie-cad/awesome-embedded-and-iot-security)
 
   Description: A curated list of awesome resources about embedded and IoT security
 
@@ -39,7 +39,7 @@
 
 ### Frontend Tools / Terraform
 
-*   [Setup Mint (⭐9)](https://github.com/fabasoad/setup-mint-action) - Setup Mint (programming language for writing single page applications).
+*   [Setup Mint (⭐11)](https://github.com/fabasoad/setup-mint-action) - Setup Mint (programming language for writing single page applications).
 
 ## [5. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
@@ -59,9 +59,9 @@
 
 ### Azure
 
-*   [ARM templates for Sitecore (⭐140)](https://github.com/Sitecore/Sitecore-Azure-Quickstart-Templates) - All currently available Azure Resource Manager templates for Sitecore.
+*   [ARM templates for Sitecore (⭐143)](https://github.com/Sitecore/Sitecore-Azure-Quickstart-Templates) - All currently available Azure Resource Manager templates for Sitecore.
 *   [Sitecore Azure Content (⭐18)](https://github.com/olegburov/Sitecore-Azure-Content) - Articles on how to automate deployment of Sitecore solution to the Microsoft Azure Cloud Platform utilizing Azure services.
-*   [Sitecore Advanced Azure Devops (⭐13)](https://github.com/JeffDarchuk/AdvancedSitecoreAzureDevops) - Expanding Sitecore on Azure with flexible and generic scripts (requires a valid PowerShell Azure session to be connected and available).
+*   [Sitecore Advanced Azure Devops (⭐14)](https://github.com/JeffDarchuk/AdvancedSitecoreAzureDevops) - Expanding Sitecore on Azure with flexible and generic scripts (requires a valid PowerShell Azure session to be connected and available).
 *   [Language Understanding (LUIS) Samples (⭐85)](https://github.com/Azure-Samples/cognitive-services-language-understanding) - Samples for the Language Understanding Intelligent Service (LUIS).
 *   [Sitecore Media Azure Blob Storage provider (⭐0)](https://github.com/ivansharamok/Sitecore.Media.AzureBlobStorage) - Allows to store Sitecore media library assets in the Azure Blob Storage account.
 *   [CloudMediaLibrary (⭐5)](https://github.com/jammykam/Sitecore-CloudMediaLibrary) - Allow Sitecore Media Library to store and serve from Cloud Storage.
@@ -76,7 +76,7 @@
 
 ### Commerce
 
-*   [Commerce Sample Plugins (⭐13)](https://github.com/Sitecore/SitecoreCommerce) - A sample code for Sitecore Commerce Plugins (targeted toward XC 9.0.3 and 9.1).
+*   [Commerce Sample Plugins (⭐14)](https://github.com/Sitecore/SitecoreCommerce) - A sample code for Sitecore Commerce Plugins (targeted toward XC 9.0.3 and 9.1).
 *   [HabitatHome Commerce (⭐26)](https://github.com/Sitecore/Sitecore.HabitatHome.Commerce) - An example built using SXA on XP and XC following the Helix architecture principles.
 *   [sitecore-commerce-configuration (⭐3)](https://github.com/richardszalay/sitecore-commerce-configuration) - Tools for configuring and boostrapping Sitecore Commerce Engine configuration.
 *   [Plumber for Sitecore Commerce (⭐1)](https://github.com/richardszalay/plumber-sc) - Tool to view Sitecore Commerce Engine Configuration.
@@ -88,8 +88,8 @@
 
 ### Containers
 
-*   [Repository of Sitecore Docker images (⭐178)](https://github.com/Sitecore/docker-images) - Build your own Docker images for the most recent versions of Sitecore.
-*   [Packer for Sitecore (⭐21)](https://github.com/asmagin/sitecore-packer) - Repository contains Packer templates for a local Sitecore hosting environment with IIS and SQL Server on Windows, SOLR and Sitecore 9.0 building virtual machine images and Vagrant boxes for VirtualBox, provisioned with Chef.
+*   [Repository of Sitecore Docker images (⭐180)](https://github.com/Sitecore/docker-images) - Build your own Docker images for the most recent versions of Sitecore.
+*   [Packer for Sitecore (⭐22)](https://github.com/asmagin/sitecore-packer) - Repository contains Packer templates for a local Sitecore hosting environment with IIS and SQL Server on Windows, SOLR and Sitecore 9.0 building virtual machine images and Vagrant boxes for VirtualBox, provisioned with Chef.
 *   [Docker SOLR with SSL (⭐11)](https://github.com/LaubPlusCo/docker-solr-ssl) - A simple setup that sets up a Linux container on a host running solr with SSL using a generated certificate.
 
 ### Content Hub
@@ -151,7 +151,7 @@
 
 ### JSS
 
-*   [JSS (⭐255)](https://github.com/Sitecore/jss) - An official repo of Sitecore JavaScript Services.
+*   [JSS (⭐264)](https://github.com/Sitecore/jss) - An official repo of Sitecore JavaScript Services.
 *   [sugcon-2019-jss-examples (⭐0)](https://github.com/chaturangar/sugcon-2019-jss-examples) - SugCon 2019 jss examples.
 *   [SitecoreQL (⭐15)](https://github.com/kmazzoni/SitecoreQL) - A GraphQL implementation for Sitecore, for example, you can query against Sitecore's Content Search API.
 *   [JSS React Starter Application (⭐3)](https://github.com/altola/sitecore-jss-react-basic) - Please follow the primary JSS documentation at <https://jss.sitecore.net> for the latest documentation on JSS.
@@ -162,8 +162,8 @@
 
 ### Helix
 
-*   [Sitecore Helix Documentation (⭐25)](https://github.com/Sitecore/Helix.Docs) - The official guidelines and recommended practices for developing in Sitecore for Sitecore Helix.
-*   [Helixbase (⭐105)](https://github.com/muso31/Helixbase) - Sitecore Helix-based solution for Greenfield projects.
+*   [Sitecore Helix Documentation (⭐26)](https://github.com/Sitecore/Helix.Docs) - The official guidelines and recommended practices for developing in Sitecore for Sitecore Helix.
+*   [Helixbase (⭐104)](https://github.com/muso31/Helixbase) - Sitecore Helix-based solution for Greenfield projects.
 *   [Helix example Module & Solution templates (⭐3)](https://github.com/LaubPlusCo/Helix-Templates) - Templates for the Sitecore Helix Visual Studio templates extension.
 *   [Helix frontend development example (⭐4)](https://github.com/LaubPlusCo/helix-frontend-example) - A simple frontend development setup for a Sitecore Helix solution.
 *   [CustomLinkProvider (⭐0)](https://github.com/TwentyGotoTen/CustomLinkProvider) - A demonstration of Converting a custom Sitecore link provider from non-Helix to Helix.
@@ -187,14 +187,14 @@
 
 ### Maintenance
 
-*   [Sitecore Instance Manager (⭐107)](https://github.com/Sitecore/Sitecore-Instance-Manager) - The legendary Sitecore Instant Manager, now with version 9.x support.
+*   [Sitecore Instance Manager (⭐108)](https://github.com/Sitecore/Sitecore-Instance-Manager) - The legendary Sitecore Instant Manager, now with version 9.x support.
 
 ### Media
 
 *   [Autocropper (⭐0)](https://github.com/zkniebel/Autocropper) - Automatically generates cropped versions of an image, based on pre-defined dimensions and a specified origin, for use on responsive sites.
 *   [Media-Framework-Brightcove-Edition (⭐3)](https://github.com/Sitecore/Media-Framework-Brightcove-Edition) - Brightcove connector for Sitecore Media Framework.
 *   [Shrink (⭐2)](https://github.com/robhabraken/shrink) - Gives an insight into the usage of your media library similar to a disk usage statistics viewer for your hard drives, also shows you which items are being used and published, so you can easily find media items that unnecessarily take up space in your database and offers you multiple ways of cleaning up your media library!
-*   [Dianoga (⭐102)](https://github.com/kamsar/Dianoga) - An automatic image optimizer for the Sitecore media library, reduced the size of your images served from Sitecore by 8-70%, completely automatically. When media images are requested, Dianoga automatically runs mozjpeg, PNGOptimizer, SVGO or WebP on the image data immediately after it is placed in the Sitecore media cache.
+*   [Dianoga (⭐104)](https://github.com/kamsar/Dianoga) - An automatic image optimizer for the Sitecore media library, reduced the size of your images served from Sitecore by 8-70%, completely automatically. When media images are requested, Dianoga automatically runs mozjpeg, PNGOptimizer, SVGO or WebP on the image data immediately after it is placed in the Sitecore media cache.
 
 ### ORM
 
@@ -253,8 +253,8 @@
 ### Serialization
 
 *   [Rainbow (⭐34)](https://github.com/SitecoreUnicorn/Rainbow) - An advanced serialization library for Sitecore, designed to be a complete replacement for the Sitecore serialization format and filesystem organization, as well as enabling cross-source item comparison.
-*   [Unicorn (⭐267)](https://github.com/SitecoreUnicorn/Unicorn) - A utility for Sitecore that solves the issue of moving templates, renderings, and other database items between Sitecore instances by writing serialized copies of Sitecore items to disk along with the code - this way, a copy of the necessary database items for a given codebase accompanies it in source control.
-*   [Sidekick (⭐47)](https://github.com/JeffDarchuk/SitecoreSidekick) - A framework for angularjs-based microservice architecture operations.
+*   [Unicorn (⭐269)](https://github.com/SitecoreUnicorn/Unicorn) - A utility for Sitecore that solves the issue of moving templates, renderings, and other database items between Sitecore instances by writing serialized copies of Sitecore items to disk along with the code - this way, a copy of the necessary database items for a given codebase accompanies it in source control.
+*   [Sidekick (⭐48)](https://github.com/JeffDarchuk/SitecoreSidekick) - A framework for angularjs-based microservice architecture operations.
 *   [Rhino (⭐12)](https://github.com/kamsar/Rhino) - An experimental serialization data provider for Sitecore.
 
 ### Sitecore Host
@@ -288,7 +288,7 @@
 
 ### Universal Tracker
 
-*   [UniversalTracker SDK (⭐0)](https://github.com/Sitecore/Sitecore.UniversalTracker.MobileSDK) - .Net Standard library that provides the interactions and events writing API for client .NET applications that serves as an interface that connects the Universal Tracker service and an application to let users work with native objects rather than with HTTP requests and JSON responses.
+*   [UniversalTracker SDK (⭐1)](https://github.com/Sitecore/Sitecore.UniversalTracker.MobileSDK) - .Net Standard library that provides the interactions and events writing API for client .NET applications that serves as an interface that connects the Universal Tracker service and an application to let users work with native objects rather than with HTTP requests and JSON responses.
 
 ### WebApi
 

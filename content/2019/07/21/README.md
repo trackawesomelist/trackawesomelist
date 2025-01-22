@@ -16,7 +16,7 @@
 
 ### Theming / Themes
 
-*   [ant-design-aliyun-theme (⭐304)](https://github.com/ant-design/ant-design-aliyun-theme) - Aliyun console theme variables of Ant Design.
+*   [ant-design-aliyun-theme (⭐306)](https://github.com/ant-design/ant-design-aliyun-theme) - Aliyun console theme variables of Ant Design.
 
 ## [3. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -29,18 +29,13 @@
 *   [Build a Library web application with Vue JS, Node JS, and SQL or MongoDB using ScaffoldHub](https://www.youtube.com/watch?v=FdC4Mjljd3k) By Felipe Lima [@scaffoldhub\_io](https://twitter.com/scaffoldhub_io)
 *   [Building a Realtime Location tracking app with NativeScript + Vue](https://medium.com/saibbyweb/building-a-real-time-location-tracking-app-with-nativescript-vue-under-350-lines-of-code-8b51ad40d657) by Saibbyweb
 
-### Resources / Examples
-
-*   [Snake game on Vue.js without Canvas (⭐46)](https://github.com/Seokky/vue-snake-game)
-
 ### Projects Using Vue.js / Open Source
 
-*   [vue-realworld-example-app (⭐4.1k)](https://github.com/gothinkster/vue-realworld-example-app) - Exemplary fullstack Medium.com clone
-*   [Daily (⭐18k)](https://github.com/dailynowco/daily) - Curated dev news delivered to your new tab 👩🏽‍💻
+*   [Daily (⭐19k)](https://github.com/dailynowco/daily) - Curated dev news delivered to your new tab 👩🏽‍💻
 
 ### Components & Libraries / UI Components
 
-*   [vue-datepicker (⭐164)](https://github.com/mathieustan/vue-datepicker) - A clean & responsive datepicker with Material Design style for Vuejs 2.x. (date/month/quarter && date range picker) :new:
+*   [vue-datepicker (⭐166)](https://github.com/mathieustan/vue-datepicker) - A clean & responsive datepicker with Material Design style for Vuejs 2.x. (date/month/quarter && date range picker) :new:
 
 ## [4. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
@@ -52,21 +47,21 @@
 
 ### Top / Game Engine resources
 
-*   [Pokedex (⭐2.3k)](https://github.com/scitbiz/flutter_pokedex) - Pokedex app with beautiful UI and smooth animation by [Hung Pham](https://github.com/scitbiz)
+*   [Pokedex (⭐2.4k)](https://github.com/scitbiz/flutter_pokedex) - Pokedex app with beautiful UI and smooth animation by [Hung Pham](https://github.com/scitbiz)
 
 ## [6. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
 ### GitHub Tools and Management / Docker Container Actions
 
-*   [Create an issue using content from a file (⭐83)](https://github.com/peter-evans/create-issue-from-file)
+*   [Create an issue using content from a file (⭐137)](https://github.com/peter-evans/create-issue-from-file)
 
 ### Static Analysis / Linting
 
-*   [autopep8: Automatically formats Python code to conform to the PEP 8 style guide (⭐67)](https://github.com/peter-evans/autopep8)
+*   [autopep8: Automatically formats Python code to conform to the PEP 8 style guide (⭐84)](https://github.com/peter-evans/autopep8)
 
 ### Notifications and Messages / Code Coverage
 
-*   [Send email with SendGrid (⭐26)](https://github.com/peter-evans/sendgrid-action)
+*   [Send email with SendGrid (⭐32)](https://github.com/peter-evans/sendgrid-action)
 
 ---
 

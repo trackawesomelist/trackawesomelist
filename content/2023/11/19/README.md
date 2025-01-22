@@ -16,7 +16,7 @@
 
 ### Preconfigured Configs with ESLint Set up / Other Configs
 
-*   [eslint-config-prettier (⭐5.3k)](https://github.com/prettier/eslint-config-prettier) - Prettier config for ESlint maintained by Prettier team.
+*   [eslint-config-prettier (⭐5.5k)](https://github.com/prettier/eslint-config-prettier) - Prettier config for ESlint maintained by Prettier team.
 
 ## [3. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
 
@@ -38,7 +38,7 @@
 
 ### Templates
 
-*   [Qvm-Create-Windows-Qube (⭐334)](https://github.com/ElliotKillick/qvm-create-windows-qube) - Qvm-Create-Windows-Qube is a tool for quickly and conveniently installing fresh new Windows qubes with Qubes Windows Tools (QWT) drivers automatically.
+*   [Qvm-Create-Windows-Qube (⭐346)](https://github.com/ElliotKillick/qvm-create-windows-qube) - Qvm-Create-Windows-Qube is a tool for quickly and conveniently installing fresh new Windows qubes with Qubes Windows Tools (QWT) drivers automatically.
 
 ## [6. Awesome Minecraft](/content/bs-community/awesome-minecraft/README.md)
 
@@ -63,13 +63,13 @@
 
 ### Programming Languages Support / Diagnostics
 
-*   [simaxme/java.nvim (⭐21)](https://github.com/simaxme/java.nvim) - Some utilities regarding Java development (e.g. updating symbol usages when renaming or moving a file in nvim-tree).
+*   [simaxme/java.nvim (⭐24)](https://github.com/simaxme/java.nvim) - Some utilities regarding Java development (e.g. updating symbol usages when renaming or moving a file in nvim-tree).
 
 ## [9. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [zsh-expand (⭐29)](https://github.com/MenkeTechnologies/zsh-expand) - Expands regular aliases, global aliases and incorrect spellings and phrases with the spacebar key. Native expansions such as globs, command/process substitution, `=command expansion`, history expansion and `$parameters` are also expanded by default but can be turned off.
+*   [zsh-expand (⭐35)](https://github.com/MenkeTechnologies/zsh-expand) - Expands regular aliases, global aliases and incorrect spellings and phrases with the spacebar key. Native expansions such as globs, command/process substitution, `=command expansion`, history expansion and `$parameters` are also expanded by default but can be turned off.
 
 ## [10. Awesome Bash](/content/awesome-lists/awesome-bash/README.md)
 

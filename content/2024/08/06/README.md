@@ -16,33 +16,33 @@
 
 ### Development tools / Web Servers
 
-*   [Flox (⭐2.3k)](https://github.com/flox/flox) - Flox is a virtual environment and package manager all in one.
+*   [Flox (⭐2.9k)](https://github.com/flox/flox) - Flox is a virtual environment and package manager all in one.
 
 ## [3. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Markdown and LaTeX / Diagnostics
 
-*   [MeanderingProgrammer/render-markdown.nvim (⭐1.1k)](https://github.com/MeanderingProgrammer/render-markdown.nvim) - Improve viewing markdown files directly.
+*   [MeanderingProgrammer/render-markdown.nvim (⭐2.1k)](https://github.com/MeanderingProgrammer/render-markdown.nvim) - Improve viewing markdown files directly.
 
 ## [4. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### Monorepos / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [Turbo (⭐26k)](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
+*   [Turbo (⭐27k)](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 *   [Moon](https://moonrepo.dev/docs/guides/examples/angular) - A build system and monorepo management tool for the web ecosystem, written in Rust.
 
 ### Server-Side Rendering / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-ssr-code-remover (⭐2)](https://github.com/xsip/ngx-ssr-code-remover) - Post processor to remove SSR Code from bundles when served.
+*   [ngx-ssr-code-remover (⭐3)](https://github.com/xsip/ngx-ssr-code-remover) - Post processor to remove SSR Code from bundles when served.
 
 ### Charts / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [highcharts-angular (⭐428)](https://github.com/highcharts/highcharts-angular) - Official minimal [Highcharts](https://www.highcharts.com/) integration for Angular.
-*   [angular-highcharts (⭐212)](https://github.com/cebor/angular-highcharts) - Highcharts directive for Angular.
+*   [highcharts-angular (⭐433)](https://github.com/highcharts/highcharts-angular) - Official minimal [Highcharts](https://www.highcharts.com/) integration for Angular.
+*   [angular-highcharts (⭐215)](https://github.com/cebor/angular-highcharts) - Highcharts directive for Angular.
 
 ### Images / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [img-comparison-slider (⭐611)](https://github.com/sneas/img-comparison-slider) - Image comparison slider. Compare images before and after. Supports React, Vue, and Angular.
+*   [img-comparison-slider (⭐692)](https://github.com/sneas/img-comparison-slider) - Image comparison slider. Compare images before and after. Supports React, Vue, and Angular.
 
 ### Unspecified / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 

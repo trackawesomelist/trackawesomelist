@@ -1,6 +1,6 @@
 # Awesome List Updates on May 26, 2017
 
-8 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -68,10 +68,6 @@
 
 ## [6. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
-### Articles & Posts
-
-*   [My Remote Developer Life](https://shift.infinite.red/my-remote-developer-life-ama-bb91fa7bd0bd#.kjpehbcab)
-
 ### Companies with "remote DNA"
 
 *   [10up](https://10up.com/careers/) - 10up makes the web better by finely crafting websites & tools for content creators.
@@ -81,13 +77,7 @@
 
 *   [Qbserve](https://qotoqot.com/qbserve/) - Time tracking automation: freelance project tracking, timesheets, invoicing & real-time productivity feedback (Mac).
 
-## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / UI Components
-
-*   [vue2-simplert (⭐214)](https://github.com/mazipan/vue2-simplert) - Vue 2 Simple Alert Component (SweetAlert Inspired) By Irfan Maulana
-
-## [8. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
+## [7. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
 
 ### File Converters / Others
 

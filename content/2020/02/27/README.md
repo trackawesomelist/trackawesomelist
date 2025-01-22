@@ -36,13 +36,13 @@
 
 ### Integrations
 
-*   [Keycloak Open-Shift integration (⭐18)](https://github.com/keycloak/openshift-integration)
+*   [Keycloak Open-Shift integration (⭐21)](https://github.com/keycloak/openshift-integration)
 
 ## [4. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
 ### Extensions
 
-*   [Next PWA (⭐3.5k)](https://github.com/shadowwalker/next-pwa) - Zero config PWA plugin for Next.js with workbox
+*   [Next PWA (⭐3.9k)](https://github.com/shadowwalker/next-pwa) - Zero config PWA plugin for Next.js with workbox
 
 ## [5. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 
@@ -69,17 +69,13 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Akaunting (⭐7.9k)](https://github.com/akaunting/akaunting) - A free and online accounting software for small businesses and freelancers based on Laravel and VueJS.
-
-### Components & Libraries / Utilities
-
-*   [vue-injector (⭐20)](https://github.com/Scandltd/vue-injector) - Dependency injection for Vue 2.x
+*   [Akaunting (⭐8.2k)](https://github.com/akaunting/akaunting) - A free and online accounting software for small businesses and freelancers based on Laravel and VueJS.
 
 ## [9. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Projects
 
-*   [I Love Hue! (rs) (⭐22)](https://github.com/noc7c9/i-love-hue-rs) - A clone of the mobile game I Love Hue in Yew (Rust).
+*   [I Love Hue! (rs) (⭐24)](https://github.com/noc7c9/i-love-hue-rs) - A clone of the mobile game I Love Hue in Yew (Rust).
 
 ## [10. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
 
@@ -98,13 +94,13 @@
 
 ### Other Xcode / Collection View Layout
 
-*   [Xcode Developer Disk Images (⭐307)](https://github.com/haikieu/xcode-developer-disk-image-all-platforms) - Xcode Developer Disk Images is needed when you want to put your build to the device, however sometimes your Xcode is not updated with the latest Disk Images, you could find them here for convenience.
+*   [Xcode Developer Disk Images (⭐313)](https://github.com/haikieu/xcode-developer-disk-image-all-platforms) - Xcode Developer Disk Images is needed when you want to put your build to the device, however sometimes your Xcode is not updated with the latest Disk Images, you could find them here for convenience.
 
 ## [13. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Document Management - E-books
 
-*   [Komga](https://komga.org) - Media server for comics/mangas/BDs with API and OPDS support, a modern web interface for exploring your libraries, as well as a web reader. ([Source Code (⭐3.8k)](https://github.com/gotson/komga)) `MIT` `Java/Docker`
+*   [Komga](https://komga.org) - Media server for comics/mangas/BDs with API and OPDS support, a modern web interface for exploring your libraries, as well as a web reader. ([Source Code (⭐4.4k)](https://github.com/gotson/komga)) `MIT` `Java/Docker`
 
 ---
 

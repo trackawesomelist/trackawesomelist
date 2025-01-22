@@ -112,9 +112,9 @@
 ### Services / Misc
 
 *   [Sendgrid](https://sendgrid.com/) - Delivering your transactional and marketing email through one reliable platform.
-*   [Postal (⭐13k)](https://github.com/atech/postal) - A fully featured open source mail delivery platform for incoming & outgoing e-mail.
+*   [Postal (⭐15k)](https://github.com/atech/postal) - A fully featured open source mail delivery platform for incoming & outgoing e-mail.
 
-### Copy / Misc
+### Inspirations / Misc
 
 *   [Email Copy](http://www.goodemailcopy.com/) - Email copy from great companies.
 
@@ -122,13 +122,13 @@
 
 ### Audio Libraries
 
-*   [Librosa (⭐6.7k)](https://github.com/librosa/librosa) - a python package for music and audio analysis, providing the building blocks necessary to create music information retrieval systems.
+*   [Librosa (⭐7.3k)](https://github.com/librosa/librosa) - a python package for music and audio analysis, providing the building blocks necessary to create music information retrieval systems.
 
 ## [11. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Demo
 
-*   [RealWorld (⭐105)](https://github.com/gothinkster/cakephp-realworld-example-app) - Example CakePHP codebase containing real world examples (CRUD, auth, advanced patterns and more) that adheres to the [RealWorld (⭐80k)](https://github.com/gothinkster/realworld-example-apps) spec and API.
+*   [RealWorld (⭐104)](https://github.com/gothinkster/cakephp-realworld-example-app) - Example CakePHP codebase containing real world examples (CRUD, auth, advanced patterns and more) that adheres to the [RealWorld (⭐81k)](https://github.com/gothinkster/realworld-example-apps) spec and API.
 
 ## [12. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
 
@@ -147,24 +147,24 @@
 ### Tools
 
 *   [Tablerates Generator](https://elgentos.nl/tablerates/) - Generate Tablerates with an online Tool.
-*   [Pestle (⭐529)](https://github.com/astorm/pestle) - Code Generation Tool by Alan Storm.
+*   [Pestle (⭐533)](https://github.com/astorm/pestle) - Code Generation Tool by Alan Storm.
 *   [Mage2Gen](https://mage2gen.com/) - Online Module Creator.
 
 ### Development Utilities
 
-*   [Config ImportExport (⭐156)](https://github.com/semaio/Magento2-ConfigImportExport) - CLI Based Config Management.
-*   [Whoops Exceptions (⭐94)](https://github.com/yireo/Yireo_Whoops) - PHP Exceptions for Cool Kids in Magento 2.
-*   [Developer Toolbar (⭐306)](https://github.com/mgtcommerce/Mgt_Developertoolbar) - Magento 2 Developer Toolbar.
-*   [Advanced Template Hints (⭐268)](https://github.com/ho-nl/magento2-Ho_Templatehints) - Magento 2 Template Hints Helper.
+*   [Config ImportExport (⭐158)](https://github.com/semaio/Magento2-ConfigImportExport) - CLI Based Config Management.
+*   [Whoops Exceptions (⭐98)](https://github.com/yireo/Yireo_Whoops) - PHP Exceptions for Cool Kids in Magento 2.
+*   [Developer Toolbar (⭐309)](https://github.com/mgtcommerce/Mgt_Developertoolbar) - Magento 2 Developer Toolbar.
+*   [Advanced Template Hints (⭐270)](https://github.com/ho-nl/magento2-Ho_Templatehints) - Magento 2 Template Hints Helper.
 
 ### Localization
 
 *   [de\_CH (⭐7)](https://github.com/staempfli/magento2-language-de-ch) 🇨🇭 - Swiss Language Package.
-*   [fr\_FR (⭐40)](https://github.com/Imaginaerum/magento2-language-fr-fr) :fr: - French Language Package.
+*   [fr\_FR (⭐42)](https://github.com/Imaginaerum/magento2-language-fr-fr) :fr: - French Language Package.
 *   [da\_DK](https://magentodanmark.dk/) 🇩🇰 - Danish Language Package.
 *   [es\_ES (⭐14)](https://github.com/eusonlito/magento2-language-es_es) :es: - Spanish Language Package.
 *   [pl\_PL (⭐17)](https://github.com/SnowdogApps/magento2-pl_pl) 🇵🇱 - Polish Language Package.
-*   [tr\_TR (⭐30)](https://github.com/hidonet/magento2-language-tr_tr) :tr: - Turkish Language Package.
+*   [tr\_TR (⭐32)](https://github.com/hidonet/magento2-language-tr_tr) :tr: - Turkish Language Package.
 *   [ro\_RO (⭐8)](https://github.com/EaDesgin/magento2-romanian-language-pack) 🇷🇴 - Romanian Language Package.
 *   [fi\_FL (⭐0)](https://github.com/mageplaza/magento-2-finnish-language-pack) 🇫🇮 - Finnish Language Package.
 *   [ko\_KR (⭐4)](https://github.com/mageplaza/magento-2-korean-language-pack) 🇰🇷 - Korean Language Package.
@@ -172,16 +172,16 @@
 
 ### Search
 
-*   [Algolia Search Integration (⭐168)](https://github.com/algolia/algoliasearch-magento-2) - Algolia Search(SaaS) Integration.
-*   [Elastic Suite Integration (⭐760)](https://github.com/Smile-SA/elasticsuite/) - Elastic Suite Integration.
+*   [Algolia Search Integration (⭐177)](https://github.com/algolia/algoliasearch-magento-2) - Algolia Search(SaaS) Integration.
+*   [Elastic Suite Integration (⭐766)](https://github.com/Smile-SA/elasticsuite/) - Elastic Suite Integration.
 
 ### Marketing
 
-*   [MagePlaza Seo (⭐134)](https://github.com/mageplaza/magento-2-seo-extension) - Well documented multi purpose SEO Extension.
+*   [MagePlaza Seo (⭐135)](https://github.com/mageplaza/magento-2-seo-extension) - Well documented multi purpose SEO Extension.
 
 ### Adminhtml / Backend
 
-*   [Checkout Tester (⭐81)](https://github.com/yireo/Yireo_CheckoutTester2) - Extension to quickly test Checkout changes.
+*   [Checkout Tester (⭐82)](https://github.com/yireo/Yireo_CheckoutTester2) - Extension to quickly test Checkout changes.
 
 ### Proprietary Extensions
 
@@ -217,7 +217,7 @@
 *   [Magento Official Website](https://www.magento.com) - Magento's official Website.
 *   [Magento Developer Documentation](http://devdocs.magento.com/) - Official Developer Documentation.
 *   [Magento Forum](https://community.magento.com/) - Community Forum by Magento.
-*   [Magento Github Repository (⭐11k)](https://github.com/magento/magento2) - Github Repository.
+*   [Magento Github Repository (⭐12k)](https://github.com/magento/magento2) - Github Repository.
 
 ### List of trustworthy Extension Developers / Progressive Web Application
 
@@ -240,14 +240,14 @@
 
 ### Other Magento 2 related Awesome Lists / Progressive Web Application
 
-*   [Mageres (⭐965)](https://github.com/aleron75/mageres) - Alessandro Ronchi's List of resources for Magento 1 and Magento 2.
+*   [Mageres (⭐985)](https://github.com/aleron75/mageres) - Alessandro Ronchi's List of resources for Magento 1 and Magento 2.
 *   [Awesome PHP (⭐31k)](https://github.com/ziadoz/awesome-php) - A curated List of Awesome PHP Resources.
 
 ## [15. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
 ### Resources / Examples and Exercises
 
-*   [Escape from Callback Mountain (⭐259)](https://github.com/justsml/escape-from-callback-mountain) - Design & refactoring tips for Promise-based Functional JavaScript. Key benefits include better readability, testability, and reusability. MIT.
+*   [Escape from Callback Mountain (⭐258)](https://github.com/justsml/escape-from-callback-mountain) - Design & refactoring tips for Promise-based Functional JavaScript. Key benefits include better readability, testability, and reusability. MIT.
 
 ## [16. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
@@ -259,7 +259,7 @@
 
 ### Table of Contents / Dependency Injection
 
-*   [Acclimate (⭐220)](https://github.com/AcclimateContainer/acclimate-container) - A common interface to dependency injection containers and service locators.
+*   [Acclimate (⭐221)](https://github.com/AcclimateContainer/acclimate-container) - A common interface to dependency injection containers and service locators.
 
 ### Table of Contents / Security
 
@@ -376,7 +376,7 @@
 
 ### Utility / Collection View Layout
 
-*   [App-Update-Tracker (⭐25)](https://github.com/Stunner/App-Update-Tracker) - Easily detect and run code upon app installation or update.
+*   [App-Update-Tracker (⭐26)](https://github.com/Stunner/App-Update-Tracker) - Easily detect and run code upon app installation or update.
 
 ## [28. Awesome Deep Learning Resources](/content/guillaume-chevalier/Awesome-Deep-Learning-Resources/week/README.md)
 
@@ -419,7 +419,7 @@
 
 ### JavaScript libs / Programming fonts with ligatures
 
-*   [fontkit (⭐1.2k)](https://github.com/devongovett/fontkit) - An advanced font engine for Node and the browser ([demo](https://fontkit-demo.now.sh/))
+*   [fontkit (⭐1.5k)](https://github.com/devongovett/fontkit) - An advanced font engine for Node and the browser ([demo](https://fontkit-demo.now.sh/))
 
 ## [32. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
 
@@ -449,15 +449,15 @@
 
 ### IDE
 
-*   [RoslynPad (⭐2.4k)](https://github.com/aelij/RoslynPad) - A simple C# editor based on Roslyn and AvalonEdit.
+*   [RoslynPad (⭐2.5k)](https://github.com/aelij/RoslynPad) - A simple C# editor based on Roslyn and AvalonEdit.
 
 ### IoC
 
-*   [VS MEF (⭐423)](https://github.com/Microsoft/vs-mef) - Managed Extensibility Framework (MEF) implementation used by Visual Studio.
+*   [VS MEF (⭐443)](https://github.com/Microsoft/vs-mef) - Managed Extensibility Framework (MEF) implementation used by Visual Studio.
 
 ### ORM
 
-*   [Dapper (⭐17k)](https://github.com/StackExchange/Dapper) - A simple object mapper for .NET by [StackExchange](https://stackexchange.github.io/)
+*   [Dapper (⭐18k)](https://github.com/StackExchange/Dapper) - A simple object mapper for .NET by [StackExchange](https://stackexchange.github.io/)
 
 ## [35. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
 
@@ -483,7 +483,7 @@
 ### C bindings
 
 *   [crt.cr (⭐27)](https://github.com/maiha/crt.cr) - Bindings for libncursesw and crt
-*   [duktape.cr (⭐136)](https://github.com/jessedoyle/duktape.cr) - Bindings for the [Duktape (⭐5.9k)](https://github.com/svaarala/duktape) javascript engine
+*   [duktape.cr (⭐137)](https://github.com/jessedoyle/duktape.cr) - Bindings for the [Duktape (⭐6k)](https://github.com/svaarala/duktape) javascript engine
 *   [gphoto2.cr (⭐16)](https://github.com/Sija/gphoto2.cr) - Bindings for the [libgphoto2](http://www.gphoto.org/) library
 *   [icu.cr (⭐11)](https://github.com/olbat/icu.cr) - Bindings for the [ICU](http://site.icu-project.org/) library
 *   [libnotify.cr (⭐26)](https://github.com/splattael/libnotify.cr) - Bindings for Libnotify
@@ -499,19 +499,19 @@
 
 ### Processes and Threads
 
-*   [neph (⭐203)](https://github.com/tbrand/neph) - A modern command line job processor that can execute jobs concurrently
+*   [neph (⭐204)](https://github.com/tbrand/neph) - A modern command line job processor that can execute jobs concurrently
 
 ### Project Generators
 
-*   [libgen (⭐78)](https://github.com/olbat/libgen) - Automatic bindings generator configured using JSON/YAML files
+*   [libgen (⭐80)](https://github.com/olbat/libgen) - Automatic bindings generator configured using JSON/YAML files
 
 ### Routing
 
-*   [router.cr (⭐263)](https://github.com/tbrand/router.cr) - Minimum but powerful http router for HTTP::Server
+*   [router.cr (⭐264)](https://github.com/tbrand/router.cr) - Minimum but powerful http router for HTTP::Server
 
 ### Task management
 
-*   [cake (⭐71)](https://github.com/axvm/cake) - Production-ready Make-like utility tool
+*   [cake (⭐72)](https://github.com/axvm/cake) - Production-ready Make-like utility tool
 
 ## [39. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
@@ -541,24 +541,24 @@
 
 ### Authentication
 
-*   [sigaws (⭐11)](https://github.com/handnot2/sigaws) - AWS Signature V4 signing and verification library ([Doc](https://hexdocs.pm/sigaws/Sigaws.html)).
+*   [sigaws (⭐12)](https://github.com/handnot2/sigaws) - AWS Signature V4 signing and verification library ([Doc](https://hexdocs.pm/sigaws/Sigaws.html)).
 
 ### ECMAScript
 
-*   [phoenix\_gon (⭐99)](https://github.com/khusnetdinov/phoenix_gon) - Allow you to pass Phoenix environment or controller variables to JavaScript without problems.
+*   [phoenix\_gon (⭐101)](https://github.com/khusnetdinov/phoenix_gon) - Allow you to pass Phoenix environment or controller variables to JavaScript without problems.
 
 ### Email
 
-*   [ravenx (⭐110)](https://github.com/acutario/ravenx) - Notification dispatch library for Elixir applications.
+*   [ravenx (⭐111)](https://github.com/acutario/ravenx) - Notification dispatch library for Elixir applications.
 
 ### Framework Components
 
 *   [plug\_sigaws (⭐0)](https://github.com/handnot2/plug_sigaws) - AWS Signature V4 authentication protection for Phoenix/Plug Routes ([Docs](https://hexdocs.pm/plug_sigaws/PlugSigaws.html)).
-*   [react\_phoenix (⭐500)](https://github.com/geolessel/react-phoenix) - Render React.js components in Phoenix views focusing on easy installation and Brunch compatibility.
+*   [react\_phoenix (⭐505)](https://github.com/geolessel/react-phoenix) - Render React.js components in Phoenix views focusing on easy installation and Brunch compatibility.
 
 ### Games
 
-*   [mines (⭐46)](https://github.com/kevlar1818/mines) - A minesweeper clone in the terminal.
+*   [mines (⭐48)](https://github.com/kevlar1818/mines) - A minesweeper clone in the terminal.
 
 ### Instrumenting / Monitoring
 
@@ -570,11 +570,11 @@
 
 ### Protocols
 
-*   [Sippet (⭐77)](https://github.com/balena/elixir-sippet) - An Elixir library designed to be used as SIP protocol middleware.
+*   [Sippet (⭐78)](https://github.com/balena/elixir-sippet) - An Elixir library designed to be used as SIP protocol middleware.
 
 ### Static Page Generation
 
-*   [serum (⭐316)](https://github.com/Dalgona/Serum) - A simple static website generator written in Elixir.
+*   [serum (⭐320)](https://github.com/Dalgona/Serum) - A simple static website generator written in Elixir.
 
 ## [43. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
@@ -590,7 +590,7 @@
 *   [Object-Oriented Programming in Common Lisp: A Programmer's Guide to CLOS](http://www.goodreads.com/book/show/1175730.Object_Oriented_Programming_in_Common_LISP) - An old, but very thorough book on CLOS.
 *   [Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp](http://norvig.com/paip.html) - A book on programming AI that covers some advanced Lisp.
     *   with a web version: [https://norvig.github.io/paip-lisp/](https://norvig.github.io/paip-lisp/#/)
-    *   [PAIP-lisp (⭐7.1k)](https://github.com/norvig/paip-lisp) -  Lisp code for the textbook "Paradigms of Artificial Intelligence Programming".
+    *   [PAIP-lisp (⭐7.2k)](https://github.com/norvig/paip-lisp) -  Lisp code for the textbook "Paradigms of Artificial Intelligence Programming".
 
 ### Reference
 

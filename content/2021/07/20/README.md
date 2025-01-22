@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 20, 2021
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,19 +10,19 @@
 
 ### Fuzzy Finder / Diagnostics
 
-*   [camspiers/snap (⭐480)](https://github.com/camspiers/snap) - An extensible fuzzy finder. Similar to Telescope, and optimized for performance, especially when grepping in large codebases.
+*   [camspiers/snap (⭐497)](https://github.com/camspiers/snap) - An extensible fuzzy finder. Similar to Telescope, and optimized for performance, especially when grepping in large codebases.
 
 ## [2. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### Driver crates / WIP
 
-*   [VEML7700](https://crates.io/crates/veml7700) - I2C - Ambient light sensors - ![crates.io](https://img.shields.io/crates/v/veml7700.svg)
+*   [VEML7700](https://crates.io/crates/veml7700) - I2C - Ambient light sensors - [![crates.io](https://img.shields.io/crates/v/veml7700.svg)](https://crates.io/crates/veml7700)
 
 ## [3. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
 
 ### Tools & Software / Utilities
 
-*   [gowarcserver (⭐12)](https://github.com/nlnwa/gowarcserver) - [BadgerDB (⭐13k)](https://github.com/dgraph-io/badger)-based capture index (CDX) and WARC record server, used to index and serve WARC files (Go).
+*   [gowarcserver (⭐16)](https://github.com/nlnwa/gowarcserver) - [BadgerDB (⭐14k)](https://github.com/dgraph-io/badger)-based capture index (CDX) and WARC record server, used to index and serve WARC files (Go).
 
 ## [4. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
 
@@ -62,7 +62,7 @@
 
 ### Security
 
-- API: [Passwordinator (⭐35)](https://github.com/fawazsullia/password-generator/)
+- API: [Passwordinator (⭐37)](https://github.com/fawazsullia/password-generator/)
 
   Description: Generate random passwords of varying complexities
 
@@ -80,13 +80,7 @@
 
 *   [react-color (⭐238)](https://github.com/uiwjs/react-color) - Is a tiny color picker widget component for React apps.
 
-## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Projects Using Vue.js / Apps/Websites
-
-*   [Pinterest video downloader](https://www.pinterestdownloder.video/) - Tool for Downloading pinterest videos in HD
-
-## [8. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
+## [7. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
 ### Vendor Data Resources / Urban Observation
 
@@ -94,7 +88,7 @@
 *   [Transoft](https://safety.transoftsolutions.com/) - Transoft ITS Safety solutions utilize computer vision to identify 'near-miss' behavior on streets. This technology was featured Planning Magazine in the [Art of Learning by Example](https://www.planning.org/planning/2020/oct/art-of-learning-by-example/).
 *   [Automotus](https://www.automotus.co/) - Computer vision based platform that helps cities, airports, fleets, and businesses monitor the curb in real time. Enables curbside management policies that increase revenue while making streets less congested, more sustainable, and more equitable.
 
-## [9. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
+## [8. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
 ### Tutorials / Other Tools
 
@@ -102,7 +96,7 @@
 
 ### Open Source Projects / Other Tools
 
-*   [DogeAPI (⭐144)](https://github.com/yezz123/DogeAPI) - API with high performance to create a simple blog and CRUD with OAuth2PasswordBearer.
+*   [DogeAPI (⭐147)](https://github.com/yezz123/DogeAPI) - API with high performance to create a simple blog and CRUD with OAuth2PasswordBearer.
 *   [JeffQL (⭐30)](https://github.com/yezz123/JeffQL/) - Simple authentication and login API using GraphQL and JWT.
 
 ---

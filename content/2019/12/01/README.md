@@ -14,10 +14,6 @@
 
 ## [2. Awesome Linguistics](/content/theimpossibleastronaut/awesome-linguistics/README.md)
 
-### Resources
-
-*   [How To Label Data](https://www.lighttag.io/how-to-label-data/) - Guide on managing large scale linguistic annotation projects.
-
 ### Communities
 
 *   [Untranslatable.co, Multilingual urban dictionary](https://untranslatable.co/)

@@ -16,7 +16,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐767)](https://github.com/aws-amplify/amplify-ui/)
+  Source code \*: [:octocat: (⭐950)](https://github.com/aws-amplify/amplify-ui/)
 
 
 
@@ -55,33 +55,33 @@
 
 ### Software / Automation
 
-*   [MetaTube (⭐310)](https://github.com/JVT038/MetaTube) `⚠` - A Web GUI to automatically download music from YouTube add metadata from Spotify, Deezer or Musicbrainz. `GPL-3.0` `Python`
+*   [MetaTube (⭐339)](https://github.com/JVT038/MetaTube) `⚠` - A Web GUI to automatically download music from YouTube add metadata from Spotify, Deezer or Musicbrainz. `GPL-3.0` `Python`
 
 ### Software / Feed Readers
 
-*   [JARR](https://1pxsolidblack.pl/jarr-en.html) - JARR (Just Another RSS Reader) is a web-based news aggregator and reader (fork of Newspipe). ([Demo](https://www.jarr.info/), [Source Code (⭐118)](https://github.com/jaesivsm/JARR)) `AGPL-3.0` `Docker/Python`
+*   [JARR](https://1pxsolidblack.pl/jarr-en.html) - JARR (Just Another RSS Reader) is a web-based news aggregator and reader (fork of Newspipe). ([Demo](https://www.jarr.info/), [Source Code (⭐123)](https://github.com/jaesivsm/JARR)) `AGPL-3.0` `Docker/Python`
 
 ### Software / Internet of Things (IoT)
 
-*   [SIP Irrigation Control](https://dan-in-ca.github.io/SIP/) - Open source software for sprinkler/irrigation control. ([Source Code (⭐355)](https://github.com/Dan-in-CA/SIP)) `GPL-3.0` `Python`
+*   [SIP Irrigation Control](https://dan-in-ca.github.io/SIP/) - Open source software for sprinkler/irrigation control. ([Source Code (⭐366)](https://github.com/Dan-in-CA/SIP)) `GPL-3.0` `Python`
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [Supysonic (⭐262)](https://github.com/spl0k/supysonic) - Python implementation of the Subsonic server API. `AGPL-3.0` `Python/deb`
+*   [Supysonic (⭐267)](https://github.com/spl0k/supysonic) - Python implementation of the Subsonic server API. `AGPL-3.0` `Python/deb`
 
 ### Software / Office Suites
 
-*   [Grist](https://getgrist.com/) - Grist is a next-generation spreadsheet with relational structure, formula-based access control, and a portable, self-contained format (alternative to Airtable). ([Demo](https://docs.getgrist.com), [Source Code (⭐6.8k)](https://github.com/gristlabs/grist-core)) `Apache-2.0` `Nodejs/Python/Docker`
+*   [Grist](https://getgrist.com/) - Grist is a next-generation spreadsheet with relational structure, formula-based access control, and a portable, self-contained format (alternative to Airtable). ([Demo](https://docs.getgrist.com), [Source Code (⭐7.7k)](https://github.com/gristlabs/grist-core)) `Apache-2.0` `Nodejs/Python/Docker`
 
 ### Software / Pastebins
 
-*   [wantguns/bin (⭐205)](https://github.com/wantguns/bin) - Minimal pastebin for both textual and binary files shipped in a single statically linked binary. ([Demo](https://basedbin.fly.dev)) `GPL-3.0` `Rust/Docker`
+*   [wantguns/bin (⭐242)](https://github.com/wantguns/bin) - Minimal pastebin for both textual and binary files shipped in a single statically linked binary. ([Demo](https://basedbin.fly.dev)) `GPL-3.0` `Rust/Docker`
 
 ## [8. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Misc
 
-*   [aminography/PrimeCalendar (⭐66)](https://github.com/aminography/PrimeCalendar) - Provides all of the java.util.Calendar functionalities for Civil, Persian, Hijri, Japanese, etc, as well as their conversion to each other.
+*   [aminography/PrimeCalendar (⭐67)](https://github.com/aminography/PrimeCalendar) - Provides all of the java.util.Calendar functionalities for Civil, Persian, Hijri, Japanese, etc, as well as their conversion to each other.
 
 ## [9. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
 
@@ -116,7 +116,7 @@
 
 ### Crates / Utils
 
-*   [Yew Interop (⭐40)](https://github.com/Madoshakalaka/yew-interop) - Load JavaScript and CSS asynchronously in Yew.
+*   [Yew Interop (⭐42)](https://github.com/Madoshakalaka/yew-interop) - Load JavaScript and CSS asynchronously in Yew.
 
 ## [14. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

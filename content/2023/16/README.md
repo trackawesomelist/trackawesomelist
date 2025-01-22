@@ -22,7 +22,7 @@
 
 ### Learn
 
-*   [Hackathon (⭐97)](https://github.com/dribdat/awesome-hackathon#readme) - Running fun and productive hackathons.
+*   [Hackathon (⭐128)](https://github.com/dribdat/awesome-hackathon#readme) - Running fun and productive hackathons.
 
 ## [4. Awesome Social Enterprise](/content/RayBB/awesome-social-enterprise/week/README.md)
 
@@ -50,7 +50,7 @@
 
 ### Science Logology / Laboratory Automation
 
-*   [Robotic search for optimal cell culture in regenerative medicine](https://elifesciences.org/articles/77007) - ***eLife***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=1330075145723138159\&hl=en\&as_sdt=0,5)].
+*   [Robotic search for optimal cell culture in regenerative medicine](https://elifesciences.org/articles/77007) - ***eLife***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=1330075145723138159)]. This paper develops a robotic AI system with a batch Bayesian optimization algorithm that autonomously induces the differentiation of induced pluripotent stem cell-derived retinal pigment epithelial (iPSC-RPE) cells. From 200 million possible parameter combinations, the system performed cell culture in 143 different conditions in 111 days, resulting in 88% better iPSC-RPE production than that obtained by the pre-optimized culture in terms of the pigmentation scores.
 *   [Cell Culture: Implementing robotics and artificial intelligence](https://elifesciences.org/articles/80609) - ***eLife***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=10725537391648003592\&hl=en\&as_sdt=0,5)].
 
 ### Science Logology / AI Assisted Research
@@ -76,8 +76,8 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [vue-paho-mqtt (⭐20)](https://github.com/kaandesu/vue-paho-mqtt) - Easy-to-use Paho MQTT client library for Vue 3 with centralized subscription management, type support, and built-in optional alert notification library.
-*   [VueFinder File Library (⭐229)](https://github.com/n1crack/vuefinder) - Web File Manager Library.
+*   [vue-paho-mqtt (⭐24)](https://github.com/kaandesu/vue-paho-mqtt) - Easy-to-use Paho MQTT client library for Vue 3 with centralized subscription management, type support, and built-in optional alert notification library.
+*   [VueFinder File Library (⭐285)](https://github.com/n1crack/vuefinder) - Web File Manager Library.
 
 ### Components & Libraries / Frameworks
 
@@ -86,36 +86,30 @@
 
 ### Components & Libraries / UI Layout
 
-*   [fit-screen (⭐66)](https://github.com/jp-liu/fit-screen) - A vue component based on the scale large screen adaptive solution.
+*   [fit-screen (⭐75)](https://github.com/jp-liu/fit-screen) - A vue component based on the scale large screen adaptive solution.
 
 ### Components & Libraries / UI Components
 
-*   [vue-maplibre-gl (⭐80)](https://github.com/razorness/vue-maplibre-gl) - Vue 3.x wrapper around Maplibre GL JS library written in TS. Including style switch and frame rate control.
-*   [1llest-waveform-vue (⭐29)](https://github.com/codeacme17/1llest-waveform-vue) - A lightweight and controllable audio visualization vue3 plugin.
-*   [vue3-calendar-heatmap (⭐89)](https://github.com/razorness/vue3-calendar-heatmap) - A lightweight calendar heatmap Vue 3 component built on SVG
-*   [Everright-formEditor (⭐434)](https://github.com/Liberty-liu/Everright-formEditor) - A visual drag-and-drop low-code form editor
-
-### Components & Libraries / UI Utilities
-
-*   [v-privacy (⭐12)](https://github.com/fchancel/v-privacy) - Vue3 plugin that allows to manage the privacy of an HTML element by blurring its content
+*   [vue-maplibre-gl (⭐87)](https://github.com/razorness/vue-maplibre-gl) - Vue 3.x wrapper around Maplibre GL JS library written in TS. Including style switch and frame rate control.
+*   [Everright-formEditor (⭐464)](https://github.com/Liberty-liu/Everright-formEditor) - A visual drag-and-drop low-code form editor
 
 ## [9. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
 
 ### Competitive Analysis / GDPR
 
-*   [Best-of Digital Identity (⭐74)](https://github.com/jruizaranguren/best-of-digital-identity) - Ranking, popularity and activity status of open-source digital identity projects.
+*   [Best-of Digital Identity (⭐82)](https://github.com/jruizaranguren/best-of-digital-identity) - Ranking, popularity and activity status of open-source digital identity projects.
 
 ## [10. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### ChatGPT
 
-*   [LocalAI (⭐23k)](https://github.com/go-skynet/LocalAI) - Self-hosted, community-driven simple local OpenAI-compatible API written in go. Can be used as a drop-in replacement for OpenAI, running on CPU with consumer-grade hardware.
+*   [LocalAI (⭐29k)](https://github.com/go-skynet/LocalAI) - Self-hosted, community-driven simple local OpenAI-compatible API written in go. Can be used as a drop-in replacement for OpenAI, running on CPU with consumer-grade hardware.
 
 ## [11. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Misc
 
-*   [Ahoo-Wang/Simba (⭐16)](https://github.com/Ahoo-Wang/Simba) - Distributed lock service
+*   [Ahoo-Wang/Simba (⭐18)](https://github.com/Ahoo-Wang/Simba) - Distributed lock service
 
 ## [12. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/week/README.md)
 
@@ -125,13 +119,9 @@
 
 ## [13. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
-### Software / Analytics
-
-*   [Fathom Lite (⭐7.5k)](https://github.com/usefathom/fathom) - A simple and privacy-focused web analytics (alternative to Google Analytics). `MIT` `Go/Docker`
-
 ### Software / Archiving and Digital Preservation (DP)
 
-*   [Webarchive (⭐99)](https://github.com/derfenix/webarchive) - Lightweight self-hosted *wayback machine* that creates HTML and PDF files from your bookmarks. `BSD-3-Clause` `Go`
+*   [Webarchive (⭐120)](https://github.com/derfenix/webarchive) - Lightweight self-hosted *wayback machine* that creates HTML and PDF files from your bookmarks. `BSD-3-Clause` `Go`
 
 ## [14. Awesome Product Management](/content/dend/awesome-product-management/week/README.md)
 
@@ -149,31 +139,31 @@
 
 ### Tools and session management
 
-*   [twm (⭐31)](https://github.com/vinnymeller/twm) A highly configurable workspace manager that is easy to extend with shell scripts, written in Rust
+*   [twm (⭐36)](https://github.com/vinnymeller/twm) A highly configurable workspace manager that is easy to extend with shell scripts, written in Rust
 
 ## [17. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Files and Directories / File Managers
 
-*   [clifm (⭐1.2k)](https://github.com/leo-arch/clifm) - The command line file manager.
+*   [clifm (⭐1.4k)](https://github.com/leo-arch/clifm) - The command line file manager.
 
 ## [18. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Database Tools
 
-*   [Online Migrations (⭐601)](https://github.com/fatkodima/online_migrations) - Catch unsafe PostgreSQL migrations in development and run them easier in production.
+*   [Online Migrations (⭐634)](https://github.com/fatkodima/online_migrations) - Catch unsafe PostgreSQL migrations in development and run them easier in production.
 
 ### Feature Flippers and A/B Testing
 
-*   [Unleash (⭐58)](https://github.com/Unleash/unleash-client-ruby) - Ruby client for Unleash, a powerful feature toggle system that gives you a great overview over all feature toggles across all your applications and services.
+*   [Unleash (⭐57)](https://github.com/Unleash/unleash-client-ruby) - Ruby client for Unleash, a powerful feature toggle system that gives you a great overview over all feature toggles across all your applications and services.
 
 ### Machine Learning
 
-*   [ruby-openai (⭐2.7k)](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby!
+*   [ruby-openai (⭐2.8k)](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby!
 
 ### PDF
 
-*   [Grim (⭐215)](https://github.com/jonmagic/grim) - Extract PDF pages as images and text. A simple Ruby API to ghostscript, imagemagick, and pdftotext.
+*   [Grim (⭐216)](https://github.com/jonmagic/grim) - Extract PDF pages as images and text. A simple Ruby API to ghostscript, imagemagick, and pdftotext.
 
 ## [19. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/week/README.md)
 
@@ -211,14 +201,14 @@
 
 ### Extensions / Community
 
-*   [Generate Types (⭐165)](https://github.com/maltejur/directus-extension-generate-types) - Adds a module for generating typescript types for a Directus JS-SDK connected to that Directus database. Also can generate Python or OpenAPI types.
-*   [Computed Interface (⭐187)](https://github.com/rezo-labs/directus-extension-computed-interface) - Perform computed value based on other fields.
+*   [Generate Types (⭐211)](https://github.com/maltejur/directus-extension-generate-types) - Adds a module for generating typescript types for a Directus JS-SDK connected to that Directus database. Also can generate Python or OpenAPI types.
+*   [Computed Interface (⭐208)](https://github.com/rezo-labs/directus-extension-computed-interface) - Perform computed value based on other fields.
 
 ## [24. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Tools / Community providers
 
-*   [terraform-repl (⭐114)](https://github.com/paololazzari/terraform-repl) - A terraform console wrapper for a better interactive console experience.
+*   [terraform-repl (⭐124)](https://github.com/paololazzari/terraform-repl) - A terraform console wrapper for a better interactive console experience.
 
 ## [25. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
 
@@ -292,7 +282,7 @@
 
 ### Planning Data Specifications / Transportation
 
-*   [OpenSidewalks (⭐39)](https://github.com/OpenSidewalks/OpenSidewalks-Schema) - A data specification for routable pedestrian networks and describing and sharing pedestrian network and pedestrian network-adjacent data.
+*   [OpenSidewalks (⭐50)](https://github.com/OpenSidewalks/OpenSidewalks-Schema) - A data specification for routable pedestrian networks and describing and sharing pedestrian network and pedestrian network-adjacent data.
 
 ## [27. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
@@ -304,37 +294,33 @@
 
 ### Machine Learning Libraries / Vector search
 
-*   [milvus (⭐14)](https://github.com/andreibondarev/milvus) —
+*   [milvus (⭐25)](https://github.com/andreibondarev/milvus) —
     Ruby client for Milvus Vector DB.
-*   [pinecone (⭐50)](https://github.com/ScotterC/pinecone) —
+*   [pinecone (⭐62)](https://github.com/ScotterC/pinecone) —
     Ruby client for Pinecone Vector DB.
-*   [qdrant-ruby (⭐26)](https://github.com/andreibondarev/qdrant-ruby) —
+*   [qdrant-ruby (⭐40)](https://github.com/andreibondarev/qdrant-ruby) —
     Ruby wrapper for the Qdrant vector search database API.
-*   [weaviate-ruby (⭐36)](https://github.com/andreibondarev/weaviate-ruby) —
+*   [weaviate-ruby (⭐49)](https://github.com/andreibondarev/weaviate-ruby) —
     Ruby wrapper for the Weaviate vector search database API.
 
 ## [29. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Continuous Integration
 
-*   [go-test-coverage (⭐78)](https://github.com/vladopajic/go-test-coverage) - Tool and GitHub action which reports issues when test coverage is below set threshold.
+*   [go-test-coverage (⭐120)](https://github.com/vladopajic/go-test-coverage) - Tool and GitHub action which reports issues when test coverage is below set threshold.
 
 ### Caches
 
-*   [imcache (⭐119)](https://github.com/erni27/imcache) - A generic in-memory cache Go library. It supports expiration, sliding expiration, max entries limit, eviction callbacks and sharding.
-*   [theine (⭐249)](https://github.com/Yiling-J/theine-go) - High performance, near optimal in-memory cache with proactive TTL expiration and generics.
+*   [imcache (⭐123)](https://github.com/erni27/imcache) - A generic in-memory cache Go library. It supports expiration, sliding expiration, max entries limit, eviction callbacks and sharding.
+*   [theine (⭐284)](https://github.com/Yiling-J/theine-go) - High performance, near optimal in-memory cache with proactive TTL expiration and generics.
 
 ### Images
 
-*   [color-extractor (⭐91)](https://github.com/marekm4/color-extractor) - Dominant color extractor with no external dependencies.
+*   [color-extractor (⭐94)](https://github.com/marekm4/color-extractor) - Dominant color extractor with no external dependencies.
 
 ### Logging
 
 *   [log (⭐3)](https://github.com/no-src/log) - A simple logging framework out of the box.
-
-### Web Frameworks
-
-*   [Pulse (⭐37)](https://github.com/gopulse/pulse) - Pulse is an HTTP web framework written in Go (Golang)
 
 ### Other Software / Libraries for creating HTTP middlewares
 
@@ -366,7 +352,7 @@
 
 ### Audio
 
-*   [orhun/linuxwave (⭐505)](https://github.com/orhun/linuxwave) - Generate music from the entropy of Linux.
+*   [orhun/linuxwave (⭐547)](https://github.com/orhun/linuxwave) - Generate music from the entropy of Linux.
 
 ## [34. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
@@ -376,7 +362,7 @@
     *   used in the industry since the 1990s.
     *   it supports a subset of the ANSI standard Common Lisp programming language.
     *   "Companies that have used ACL2 regularly include AMD, Centaur Technology, IBM, Intel, Kestrel Institute, Motorola/Freescale, Oracle and Rockwell Collins." ([source](https://royalsocietypublishing.org/doi/10.1098/rsta.2015.0399))
-    *   [Proofpad (⭐9)](https://github.com/calebegg/proof-pad/), an online IDE for ACL2.
+    *   [Proofpad (⭐10)](https://github.com/calebegg/proof-pad/), an online IDE for ACL2.
     *   [ACL2-kernel (⭐4)](https://github.com/tani/acl2-kernel), a Jupyter Kernel for ACL2.
     *   [ACL2 Sedan](http://acl2s.ccs.neu.edu/acl2s/doc/), an Eclipse plugin that provides a modern IDE for ACL2, used with students at universities.
         *   paper: [Using ACL2 to teach students about software testing](https://cgi.cse.unsw.edu.au/~eptcs/content.cgi?ACL22022).
@@ -384,7 +370,9 @@
 ### Others / Third-party APIs
 
 *   [cl-telegram-bot](https://40ants.com/cl-telegram-bot/) - Telegram bot API. [MIT](https://opensource.org/licenses/MIT).
-    *   [cl-telegram-bot-auto-api (⭐6)](https://github.com/aartaka/cl-telegram-bot-auto-api) - Alternative Telegram Bot API bindings, auto-generated from Telegram website. [3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
+    *   includes example bots such as a calculator, payment with invoices, an actor-based bot…
+    *   automatic API spec parser
+    *   [cl-telegram-bot-auto-api (⭐7)](https://github.com/aartaka/cl-telegram-bot-auto-api) - Alternative Telegram Bot API bindings, auto-generated from Telegram website. [3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
 ## [35. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
 
@@ -402,7 +390,7 @@
 
 ### Command-line
 
-*   [vzcc (⭐25)](https://github.com/malisipi/vzcc) - A CLI cross-compiling tool based on Zig CC for V.
+*   [vzcc (⭐27)](https://github.com/malisipi/vzcc) - A CLI cross-compiling tool based on Zig CC for V.
 
 ### Tutorials / Vim
 
@@ -417,92 +405,90 @@
 ### React Tutorials
 
 *   [React Official Tutorial](https://react.dev/learn)
-*   [React Interview Questions & Answers (⭐36k)](https://github.com/sudheerj/reactjs-interview-questions)
+*   [React Interview Questions & Answers (⭐40k)](https://github.com/sudheerj/reactjs-interview-questions)
 *   [Design patterns and Component patterns for building powerful Web Apps](https://www.patterns.dev/)
-*   [A simple, scalable, and powerful architecture for building production ready React applications (⭐23k)](https://github.com/alan2207/bulletproof-react)
+*   [A simple, scalable, and powerful architecture for building production ready React applications (⭐29k)](https://github.com/alan2207/bulletproof-react)
 *   [The Fullstack Tutorial for GraphQL (⭐8.7k)](https://github.com/howtographql/howtographql)
 
 ### React Frameworks
 
-*   [next (⭐120k)](https://github.com/vercel/next.js) - The React Framework
-*   [blitz (⭐13k)](https://github.com/blitz-js/blitz) - The Missing Fullstack Toolkit for Next.js
+*   [next (⭐128k)](https://github.com/vercel/next.js) - The React Framework
 *   [gatsby (⭐55k)](https://github.com/gatsbyjs/gatsby) - Build modern websites with React
-*   [refine (⭐24k)](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints
+*   [refine (⭐29k)](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints
 
 ### React Component Libraries
 
-*   [material-ui (⭐91k)](https://github.com/mui/material-ui) - Ready-to-use foundational React components
-*   [fluentui (⭐18k)](https://github.com/microsoft/fluentui) - Microsoft's Fluent UI
+*   [material-ui (⭐94k)](https://github.com/mui/material-ui) - Ready-to-use foundational React components
+*   [fluentui (⭐19k)](https://github.com/microsoft/fluentui) - Microsoft's Fluent UI
 *   [framework7 (⭐18k)](https://github.com/framework7io/framework7) - Full featured HTML framework for building iOS & Android apps
-*   [ariakit (⭐7.6k)](https://github.com/ariakit/ariakit) - Toolkit for building accessible web apps with React
+*   [ariakit (⭐7.9k)](https://github.com/ariakit/ariakit) - Toolkit for building accessible web apps with React
 
 ### React State Management and Data Fetching
 
-*   [tanstack-query (⭐40k)](https://github.com/TanStack/query) - Powerful asynchronous state management
-*   [swr (⭐29k)](https://github.com/vercel/swr) - React Hooks for Data Fetching
+*   [tanstack-query (⭐43k)](https://github.com/TanStack/query) - Powerful asynchronous state management
+*   [swr (⭐31k)](https://github.com/vercel/swr) - React Hooks for Data Fetching
 *   [apollo-client (⭐19k)](https://github.com/apollographql/apollo-client) - A fully-featured, production ready caching GraphQL client
 *   [relay (⭐18k)](https://github.com/facebook/relay) - A framework for building data-driven React applications
 
 ### React Routing
 
-*   [react-router (⭐52k)](https://github.com/remix-run/react-router) - Declarative routing for React
-*   [tanstack-router (⭐7k)](https://github.com/TanStack/router) - Type-safe router with built-in caching & URL state management
+*   [react-router (⭐53k)](https://github.com/remix-run/react-router) - Declarative routing for React
+*   [tanstack-router (⭐8.4k)](https://github.com/TanStack/router) - Type-safe router with built-in caching & URL state management
 
 ### React Development Tools
 
-*   [vite (⭐64k)](https://github.com/vitejs/vite) - Next Generation Frontend Tooling
+*   [vite (⭐69k)](https://github.com/vitejs/vite) - Next Generation Frontend Tooling
 *   [why-did-you-render (⭐11k)](https://github.com/welldone-software/why-did-you-render) - Monkey patches React to notify you about avoidable re-renders
 
 ### React Libraries
 
-*   [preact (⭐36k)](https://github.com/preactjs/preact) - Fast React alternative with the same modern API
-*   [floating-ui (⭐28k)](https://github.com/floating-ui/floating-ui) - Toolkit to create floating elements
-*   [loadable-components (⭐7.5k)](https://github.com/gregberge/loadable-components) - The recommended Code Splitting library for React
+*   [preact (⭐37k)](https://github.com/preactjs/preact) - Fast React alternative with the same modern API
+*   [floating-ui (⭐30k)](https://github.com/floating-ui/floating-ui) - Toolkit to create floating elements
+*   [loadable-components (⭐7.7k)](https://github.com/gregberge/loadable-components) - The recommended Code Splitting library for React
 *   [downshift (⭐12k)](https://github.com/downshift-js/downshift) - React autocomplete, combobox or select dropdown components
 
 ### React Testing
 
-*   [cypress (⭐46k)](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser
+*   [cypress (⭐47k)](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser
 
 ### React Awesome Components
 
-*   [Awesome React Components (⭐40k)](https://github.com/brillout/awesome-react-components)
-*   [react-big-calendar (⭐7.3k)](https://github.com/jquense/react-big-calendar) - Calendar component
-*   [react-qrcode (⭐3.7k)](https://github.com/zpao/qrcode.react) - QR component for use with React
-*   [react-icons (⭐11k)](https://github.com/react-icons/react-icons) - SVG React icons of popular icon packs
-*   [react-complex-tree (⭐746)](https://github.com/lukasbach/react-complex-tree) - Unopinionated Accessible Tree
-*   [react-insta-stories (⭐1.3k)](https://github.com/mohitk05/react-insta-stories) - A React component for Instagram like stories
-*   [keen-slider (⭐4.5k)](https://github.com/rcbyr/keen-slider) - The Touch slider carousel
-*   [cookie-consent-banner (⭐110)](https://github.com/porscheofficial/cookie-consent-banner) – The lightweight and flexible Cookie Consent Banner
-*   [heart-switch (⭐436)](https://github.com/anatoliygatt/heart-switch) - A heart-shaped toggle switch component for React
-*   [kbar (⭐4.6k)](https://github.com/timc1/kbar) - Fast, portable, and extensible cmd+k interface for your site
-*   [tagify (⭐3.2k)](https://github.com/yairEO/tagify) - Lightweight, efficient Tags input component
+*   [Awesome React Components (⭐43k)](https://github.com/brillout/awesome-react-components)
+*   [react-big-calendar (⭐8k)](https://github.com/jquense/react-big-calendar) - Calendar component
+*   [react-qrcode (⭐3.9k)](https://github.com/zpao/qrcode.react) - QR component for use with React
+*   [react-icons (⭐12k)](https://github.com/react-icons/react-icons) - SVG React icons of popular icon packs
+*   [react-complex-tree (⭐997)](https://github.com/lukasbach/react-complex-tree) - Unopinionated Accessible Tree
+*   [react-insta-stories (⭐1.4k)](https://github.com/mohitk05/react-insta-stories) - A React component for Instagram like stories
+*   [keen-slider (⭐4.7k)](https://github.com/rcbyr/keen-slider) - The Touch slider carousel
+*   [cookie-consent-banner (⭐150)](https://github.com/porscheofficial/cookie-consent-banner) – The lightweight and flexible Cookie Consent Banner
+*   [heart-switch (⭐443)](https://github.com/anatoliygatt/heart-switch) - A heart-shaped toggle switch component for React
+*   [kbar (⭐4.9k)](https://github.com/timc1/kbar) - Fast, portable, and extensible cmd+k interface for your site
+*   [tagify (⭐3.6k)](https://github.com/yairEO/tagify) - Lightweight, efficient Tags input component
 
 ### React Tables and Grids
 
-*   [react-grid-layout (⭐19k)](https://github.com/react-grid-layout/react-grid-layout) - A draggable and resizable grid layout with responsive breakpoints
-*   [tanstack-table (⭐24k)](https://github.com/TanStack/table) - Headless UI for building powerful tables & datagrids
+*   [react-grid-layout (⭐21k)](https://github.com/react-grid-layout/react-grid-layout) - A draggable and resizable grid layout with responsive breakpoints
+*   [tanstack-table (⭐25k)](https://github.com/TanStack/table) - Headless UI for building powerful tables & datagrids
 
 ### React Internationalization
 
 *   [formatjs (⭐14k)](https://github.com/formatjs/formatjs) - Internationalize your web apps
-*   [typesafe-i18n (⭐2.1k)](https://github.com/ivanhofer/typesafe-i18n) - A fully type-safe and lightweight internationalization library
 
 ### React Graphics and Animations
 
-*   [auto-animate (⭐12k)](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions
-*   [react-tsparticles (⭐6.9k)](https://github.com/matteobruni/tsparticles) - Easily create highly customizable particles effects
+*   [auto-animate (⭐13k)](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions
+*   [react-tsparticles (⭐7.8k)](https://github.com/matteobruni/tsparticles) - Easily create highly customizable particles effects
 
 ### React Integration
 
-*   [rescript-compiler (⭐6.4k)](https://github.com/rescript-lang/rescript-compiler) - A robustly typed language that compiles to efficient and human-readable JavaScript
+*   [rescript-compiler (⭐6.8k)](https://github.com/rescript-lang/rescript-compiler) - A robustly typed language that compiles to efficient and human-readable JavaScript
 *   [react-rails (⭐6.7k)](https://github.com/reactjs/react-rails) - Integrate React with Rails
 *   [fulcro (⭐1.5k)](https://github.com/fulcrologic/fulcro) - A library for development of web applications in clj/cljs
 
 ### React Real Apps
 
-*   [mattermost-server (⭐28k)](https://github.com/mattermost/mattermost-server) - An open source platform for secure collaboration
-*   [webamp (⭐9.6k)](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser
+*   [mattermost-server (⭐31k)](https://github.com/mattermost/mattermost-server) - An open source platform for secure collaboration
+*   [webamp (⭐10k)](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser
 
 ### React Native General Resources
 
@@ -514,7 +500,7 @@
 
 ### Packages / Middleware
 
-*   [Apache Kyuubi (⭐1.6k)](https://github.com/apache/kyuubi) <img src="https://img.shields.io/github/last-commit/apache/kyuubi.svg"> - A distributed multi-tenant JDBC server for large-scale data processing and analytics, built on top of Apache Spark.
+*   [Apache Kyuubi (⭐2.1k)](https://github.com/apache/kyuubi) <img src="https://img.shields.io/github/last-commit/apache/kyuubi.svg"> - A distributed multi-tenant JDBC server for large-scale data processing and analytics, built on top of Apache Spark.
 
 ### Resources / Docker Images
 
@@ -530,17 +516,17 @@
 
 ### HTML Builders
 
-*   [blueprint (⭐40)](https://github.com/gunbolt/blueprint) - Write reusable and testable HTML templates in plain Crystal
+*   [blueprint (⭐48)](https://github.com/gunbolt/blueprint) - Write reusable and testable HTML templates in plain Crystal
 
 ## [42. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Reading and Writing Tools / Others
 
-*   [Zotero](https://www.zotero.org/) - Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share research. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/zotero/zotero/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Zotero](https://www.zotero.org/) - Free tool to collect, organize, annotate, cite, and share research. [![OSS](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/zotero/zotero/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Developer Tools / Command Line Tools
 
-*   [nvm (⭐78k)](https://github.com/nvm-sh/nvm) - Node Version Manager is a POSIX-compliant bash script to manage multiple active node.js versions. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/nvm-sh/nvm) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [nvm (⭐82k)](https://github.com/nvm-sh/nvm) - POSIX-compliant bash script to manage multiple active node.js versions. [![OSS](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/nvm-sh/nvm) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / General Tools
 
@@ -548,15 +534,14 @@
 
 ### Utilities / Window Management
 
-*   [Rectangle-app (⭐25k)](https://github.com/rxhanson/Rectangle) - Rectangle is a window management app based on Spectacle, written in Swift: Move and resize windows on macOS with keyboard shortcuts and snap areas. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/rxhanson/Rectangle)
+*   [Rectangle-app (⭐26k)](https://github.com/rxhanson/Rectangle) - Rectangle is a window management app based on Spectacle, written in Swift: Move and resize windows on macOS with keyboard shortcuts and snap areas. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/rxhanson/Rectangle)
 *   [Sidebar](http://sidebarapp.net/) - The modern Dock replacement for your Mac.
 
 ## [43. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### GTFS Merge Tools / Ruby
 
-*   [onebusaway-gtfs-merge-cli](http://developer.onebusaway.org/modules/onebusaway-gtfs-modules/1.3.94/onebusaway-gtfs-merge-cli.html) - A command line tool for merging GTFS feeds. Info provided at the link on how the tool detects and merges duplicate IDs.
-*   [Transitfeed merge function (⭐678)](https://github.com/google/transitfeed/wiki/Merge) - A Python library with a function to merge two different GTFS feeds.
+*   [Transitfeed merge function (⭐682)](https://github.com/google/transitfeed/wiki/Merge) - A Python library with a function to merge two different GTFS feeds.
 
 ## [44. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
 
@@ -760,24 +745,24 @@
 
 ### Color / Diagnostics
 
-*   [Mr-LLLLL/interestingwords.nvim (⭐42)](https://github.com/Mr-LLLLL/interestingwords.nvim) - Highlight multiple word same time and navigate word under cursor with scrolling smoothly, display search count in virualtext.
+*   [Mr-LLLLL/interestingwords.nvim (⭐46)](https://github.com/Mr-LLLLL/interestingwords.nvim) - Highlight multiple word same time and navigate word under cursor with scrolling smoothly, display search count in virualtext.
 
 ### Colorscheme Creation / Diagnostics
 
-*   [echasnovski/mini.nvim#mini.colors (⭐4.7k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-colors.md) - Module of `mini.nvim` to tweak and save any color scheme. Also can animate transition and convert between some color spaces.
+*   [echasnovski/mini.nvim#mini.colors (⭐6.2k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-colors.md) - Module of `mini.nvim` to tweak and save any color scheme. Also can animate transition and convert between some color spaces.
 
 ### Bars and Lines / Diagnostics
 
-*   [luukvbaal/statuscol.nvim (⭐498)](https://github.com/luukvbaal/statuscol.nvim) - Configurable 'statuscolumn' with builtin segments and click handlers.
+*   [luukvbaal/statuscol.nvim (⭐552)](https://github.com/luukvbaal/statuscol.nvim) - Configurable 'statuscolumn' with builtin segments and click handlers.
 
 ### Utility / Diagnostics
 
-*   [hbac.nvim (⭐194)](https://github.com/axkirillov/hbac.nvim) - Automatically close buffers you are not working on.
-*   [ecthelionvi/NeoComposer.nvim (⭐390)](https://github.com/ecthelionvi/NeoComposer.nvim) - Simplify macro management, enhance productivity, and create harmonious workflows.
+*   [hbac.nvim (⭐209)](https://github.com/axkirillov/hbac.nvim) - Automatically close buffers you are not working on.
+*   [ecthelionvi/NeoComposer.nvim (⭐408)](https://github.com/ecthelionvi/NeoComposer.nvim) - Simplify macro management, enhance productivity, and create harmonious workflows.
 
 ### Formatting / Diagnostics
 
-*   [tenxsoydev/tabs-vs-spaces.nvim (⭐20)](https://github.com/tenxsoydev/tabs-vs-spaces.nvim) - Hint and fix deviating indentation.
+*   [tenxsoydev/tabs-vs-spaces.nvim (⭐23)](https://github.com/tenxsoydev/tabs-vs-spaces.nvim) - Hint and fix deviating indentation.
 
 ## [49. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
@@ -802,7 +787,7 @@
 
 ### Analytics
 
-*   [PostHog](https://posthog.com/) - Open-source product analytics platform. [![PostHog](https://img.shields.io/github/stars/posthog/posthog?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/posthog/posthog)
+*   [PostHog](https://posthog.com/) - Open-source product analytics platform. [![PostHog](https://img.shields.io/github/stars/posthog/posthog?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/posthog/posthog) [![featured on launchweek.dev](https://img.shields.io/badge/featured-0D1117.svg?style=flat-square\&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMzYwIiBoZWlnaHQ9IjM2MCIgdmlld0JveD0iMCAwIDM2MCAzNjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+IDxyZWN0IHdpZHRoPSI2MCIgaGVpZ2h0PSIzMDAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjYwIiB5PSIzMDAiIHdpZHRoPSIxMjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjI0MCIgeT0iMzAwIiB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjMwMCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjMwMCIgZmlsbD0id2hpdGUiLz4gPHJlY3QgeD0iMTgwIiB3aWR0aD0iNjAiIGhlaWdodD0iMzAwIiBmaWxsPSJ3aGl0ZSIvPiA8L3N2Zz4=)](https://launchweek.dev)
 
 ### Authentication & Identity
 
@@ -830,28 +815,28 @@
 
 ### Tools / Paid and commercially available materials
 
-*   [espflash (⭐465)](https://github.com/esp-rs/espflash) Serial flasher utility for Espressif SoCs and modules. - ![crates.io](https://img.shields.io/crates/v/espflash.svg)
-*   [espup (⭐218)](https://github.com/esp-rs/espup) Tool for installing and maintaining Espressif Rust ecosystem. - ![crates.io](https://img.shields.io/crates/v/espup.svg)
+*   [espflash (⭐516)](https://github.com/esp-rs/espflash) Serial flasher utility for Espressif SoCs and modules. - [![crates.io](https://img.shields.io/crates/v/espflash.svg)](https://crates.io/crates/espflash)
+*   [espup (⭐248)](https://github.com/esp-rs/espup) Tool for installing and maintaining Espressif Rust ecosystem. - [![crates.io](https://img.shields.io/crates/v/espup.svg)](https://crates.io/crates/espup)
 
 ### Real-time / Real-time tools
 
 *   [RTIC v1.0](https://rtic.rs/1/book/en/) Real-Time Interrupt-driven Concurrency — A concurrency framework for building real-time systems:
-    *   [cortex-m rtic (⭐1.7k)](https://github.com/rtic-rs/cortex-m-rtic) RTIC framework for ARM Cortex-M microcontrollers
+    *   [cortex-m rtic (⭐1.9k)](https://github.com/rtic-rs/cortex-m-rtic) RTIC framework for ARM Cortex-M microcontrollers
     *   [msp430 rtfm (⭐11)](https://github.com/japaric/msp430-rtfm) RTFM framework for MSP430 MCUs
 
 ### Peripheral Access Crates / Espressif
 
-*   [`esp32c2`](https://github.com/esp-rs/esp-pacs/tree/main/esp32c2) - ![crates.io](https://img.shields.io/crates/v/esp32c2.svg)
+*   [`esp32c2`](https://github.com/esp-rs/esp-pacs/tree/main/esp32c2) - [![crates.io](https://img.shields.io/crates/v/esp32c2.svg)](https://crates.io/crates/esp32c2)
 
 ### Firmware projects / WIP
 
-*   [μLA (⭐718)](https://github.com/dotcypress/ula): Micro Logic Analyzer for RP2040
+*   [μLA (⭐800)](https://github.com/dotcypress/ula): Micro Logic Analyzer for RP2040
 
 ## [55. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
 ### Programming Languages / OCaml
 
-*   [opam2nix (⭐93)](https://github.com/timbertson/opam2nix) - Generate Nix expressions from opam packages.
+*   [opam2nix (⭐92)](https://github.com/timbertson/opam2nix) - Generate Nix expressions from opam packages.
 
 ## [56. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/week/README.md)
 

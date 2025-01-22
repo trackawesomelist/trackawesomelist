@@ -10,9 +10,9 @@
 
 ### Translations / Paid Books
 
-*   [i18n properties (⭐405)](https://github.com/jquery-i18n-properties/jquery-i18n-properties) - Lightweight plugin for providing internationalization to JavaScript from [.properties](https://en.wikipedia.org/wiki/.properties) files
-*   [jquery.i18n (⭐640)](https://github.com/wikimedia/jquery.i18n) - jQuery based Javascript internationalization library for easy internationalization of web application
-*   [jquery.localize.js (⭐470)](https://github.com/coderifous/jquery-localize) - Easy internationalization of your static web site
+*   [i18n properties (⭐428)](https://github.com/jquery-i18n-properties/jquery-i18n-properties) - Lightweight plugin for providing internationalization to JavaScript from [.properties](https://en.wikipedia.org/wiki/.properties) files
+*   [jquery.i18n (⭐701)](https://github.com/wikimedia/jquery.i18n) - jQuery based Javascript internationalization library for easy internationalization of web application
+*   [jquery.localize.js (⭐465)](https://github.com/coderifous/jquery-localize) - Easy internationalization of your static web site
 
 ## [2. Awesome Polymer](/content/Granze/awesome-polymer/README.md)
 

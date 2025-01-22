@@ -16,7 +16,7 @@
 
 ### Frameworks • Libraries • Ecosystems
 
-*   [Canvas-sketch (⭐5k)](https://github.com/mattdesl/canvas-sketch) \[Cross-platform] - HTML5 framework for making generative artwork in JavaScript and the browser.
+*   [Canvas-sketch (⭐5.1k)](https://github.com/mattdesl/canvas-sketch) \[Cross-platform] - HTML5 framework for making generative artwork in JavaScript and the browser.
 
 ## [3. Awesome Fonts](/content/brabadu/awesome-fonts/README.md)
 
@@ -42,14 +42,14 @@
 
 ### Applications
 
-*   [jedisct1/flowgger (⭐822)](https://github.com/awslabs/flowgger) - A fast, simple and lightweight data collector
+*   [jedisct1/flowgger (⭐843)](https://github.com/awslabs/flowgger) - A fast, simple and lightweight data collector
 
 ### Libraries / GUI
 
 *   [Flutter](https://flutter.dev/)
-    *   [cunarist/rinf (⭐1.8k)](https://github.com/cunarist/rinf) - Rust as your Flutter backend, Flutter as your Rust frontend [![Build Test](https://github.com/cunarist/rinf/actions/workflows/build_test.yaml/badge.svg)](https://github.com/cunarist/rinf/actions/workflows/build_test.yaml?query=branch%3Amain)
+    *   [cunarist/rinf (⭐2.1k)](https://github.com/cunarist/rinf) - Rust as your Flutter backend, Flutter as your Rust frontend [![Build Test](https://github.com/cunarist/rinf/actions/workflows/build_test.yaml/badge.svg)](https://github.com/cunarist/rinf/actions/workflows/build_test.yaml?query=branch%3Amain)
     *   [flutter-rs (⭐2.1k)](https://github.com/flutter-rs/flutter-rs) - Build flutter desktop app in dart & rust.
-    *   [fzyzcjy/flutter\_rust\_bridge (⭐4k)](https://github.com/fzyzcjy/flutter_rust_bridge) - High-level memory-safe binding generator for Flutter/Dart <-> Rust
+    *   [fzyzcjy/flutter\_rust\_bridge (⭐4.4k)](https://github.com/fzyzcjy/flutter_rust_bridge) - High-level memory-safe binding generator for Flutter/Dart <-> Rust
 
 ## [6. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
@@ -67,11 +67,11 @@
 
 ### GitHub Tools and Management / Docker Container Actions
 
-*   [Push Git changes to GitHub repository without authentication difficulties (⭐915)](https://github.com/ad-m/github-push-action)
+*   [Push Git changes to GitHub repository without authentication difficulties (⭐1.2k)](https://github.com/ad-m/github-push-action)
 
 ### Static Analysis / Security
 
-*   [A vulnerability scanner for your docker images (⭐29)](https://github.com/phonito/phonito-scanner-action)
+*   [A vulnerability scanner for your docker images (⭐31)](https://github.com/phonito/phonito-scanner-action)
 
 ## [9. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 

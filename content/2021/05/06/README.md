@@ -1,6 +1,6 @@
 # Awesome List Updates on May 06, 2021
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -58,7 +58,7 @@
 
 ### Automation / Frameworks
 
-*   [JMeter Load Testing Center (⭐193)](https://github.com/innogames/ltc) - Online web-application/dashboard to run, monitor and analyze results of load tests using JMeter.
+*   [JMeter Load Testing Center (⭐201)](https://github.com/innogames/ltc) - Online web-application/dashboard to run, monitor and analyze results of load tests using JMeter.
 
 ## [6. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/README.md)
 
@@ -74,24 +74,17 @@
 
 *   [KarserRecaptcha3Bundle (⭐100)](https://github.com/karser/KarserRecaptcha3Bundle) - Integrates Google ReCAPTCHA v3 into Symfony.
 
-## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Resources / Examples
-
-*   [Vue Word Game (⭐4)](https://github.com/debadeepsen/vuewordgame) - A simple Hangman-like word guessing game, built with Vue 2.
-*   [Coinchartsvue (⭐3)](https://github.com/okandas/coinchartsvue) - Coinchartsvue is a cryptocurrency price chart based off Coinbase's original price chart.
-
-## [9. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [8. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Machine Learning
 
-*   [ncnn (⭐20k)](https://github.com/Tencent/ncnn) - A high-performance neural network inference computing framework optimized for mobile platforms. \[BSD]
+*   [ncnn (⭐21k)](https://github.com/Tencent/ncnn) - A high-performance neural network inference computing framework optimized for mobile platforms. \[BSD]
 
-## [10. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
+## [9. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
 
 ### Reproducing Works, Training & Books / Data Visualization
 
-*   [Stock\_Analysis\_For\_Quant (⭐1.6k)](https://github.com/LastAncientOne/Stock_Analysis_For_Quant) - Different Types of Stock Analysis in Excel, Matlab, Power BI, Python, R, and Tableau.
+*   [Stock\_Analysis\_For\_Quant (⭐1.7k)](https://github.com/LastAncientOne/Stock_Analysis_For_Quant) - Different Types of Stock Analysis in Excel, Matlab, Power BI, Python, R, and Tableau.
 
 ---
 

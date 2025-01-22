@@ -36,14 +36,14 @@
 
 ### ASM / Boilerplates and libraries
 
-*   [rgbds-template (⭐38)](https://github.com/nezticle/rgbds-template) - Basic hello-world example for Game Boy using RGBDS.
+*   [rgbds-template (⭐42)](https://github.com/nezticle/rgbds-template) - Basic hello-world example for Game Boy using RGBDS.
 *   [Game Boy Assembly Language Primer](http://www.devrs.com/gb/files/galp.zip) - Simple template code with memory defines, copy routines and IBM font tilemap.
 *   [bootstrap.gb (⭐31)](https://github.com/yenatch/bootstrap.gb) - An example Game Boy project.
-*   [Gameboy Boilerplate (⭐28)](https://github.com/junebug12851/GameboyBoilerplateProj) - Boilerplate project to move quicker into the actual assembly code for your game.
+*   [Gameboy Boilerplate (⭐30)](https://github.com/junebug12851/GameboyBoilerplateProj) - Boilerplate project to move quicker into the actual assembly code for your game.
 
 ### C / Syntax highlighting packages
 
-*   [Simplified GBDK examples (⭐175)](https://github.com/mrombout/gbdk_playground)
+*   [Simplified GBDK examples (⭐193)](https://github.com/mrombout/gbdk_playground)
 
 ## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

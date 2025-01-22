@@ -39,8 +39,8 @@
 
 ### Development Projects / Bots
 
-*   [Pokemon Go Bot (⭐15)](https://github.com/Hrithikd/Pokemon-Go-Bot-Working-Hack-API) - Pokémon GO bot that farms for Pokestops and Pokémon.
-*   [PokeBot (⭐16)](https://github.com/akbaryahya/PokeBot) - The automated Pokémon speedrunning machine.
+*   [Pokemon Go Bot (⭐23)](https://github.com/Hrithikd/Pokemon-Go-Bot-Working-Hack-API) - Pokémon GO bot that farms for Pokestops and Pokémon.
+*   [PokeBot (⭐17)](https://github.com/akbaryahya/PokeBot) - The automated Pokémon speedrunning machine.
 
 ## [6. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 

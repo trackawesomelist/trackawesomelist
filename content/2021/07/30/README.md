@@ -10,7 +10,7 @@
 
 ### Driver crates / Other
 
-*   [rainbow-hat-rs](https://crates.io/crates/rainbow-hat-rs) - I2C/SPI/GPIO - Pimoroni Rainbow HAT driver for Raspberry Pi - [github (⭐3)](https://github.com/yannart/rainbow-hat-rs) - ![crates.io](https://img.shields.io/crates/v/rainbow-hat-rs.svg)
+*   [rainbow-hat-rs](https://crates.io/crates/rainbow-hat-rs) - I2C/SPI/GPIO - Pimoroni Rainbow HAT driver for Raspberry Pi - [github (⭐3)](https://github.com/yannart/rainbow-hat-rs) - [![crates.io](https://img.shields.io/crates/v/rainbow-hat-rs.svg)](https://crates.io/crates/rainbow-hat-rs)
 
 ## [2. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 

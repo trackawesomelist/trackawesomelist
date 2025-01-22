@@ -46,10 +46,6 @@
 
 *   [Vue JS 2 Tutorials](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa) on Youtube by [The Net Ninja](https://www.thenetninja.co.uk)
 
-### Projects Using Vue.js / Open Source
-
-*   [Dockeron (⭐795)](https://github.com/dockeron/dockeron) - A project built on Electron + Vue.js for Docker on desktop.
-
 ## [6. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Module Bundlers / Playground
@@ -62,8 +58,8 @@
 ### Github Libraries / Randomized Algorithms
 
 *   C#
-    *   [by @shkolovy (⭐32)](https://github.com/shkolovy/classic-algorithms)
-    *   [by @aalhour (⭐5.9k)](https://github.com/aalhour/C-Sharp-Algorithms)
+    *   [by @shkolovy (⭐35)](https://github.com/shkolovy/classic-algorithms)
+    *   [by @aalhour (⭐6k)](https://github.com/aalhour/C-Sharp-Algorithms)
     *   [by @justcoding121 (⭐1.3k)](https://github.com/justcoding121/Advanced-Algorithms)
 
 ---

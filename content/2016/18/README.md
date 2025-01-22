@@ -1,6 +1,6 @@
 # Awesome List Updates on May 02 - May 08, 2016
 
-40 awesome lists updated this week.
+39 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -88,7 +88,7 @@
 
 ## [7. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
-### Organizations
+### Organizations / Commerical Tools
 
 *   [OpenAI](https://openai.com/about/)
 *   [Association For The Advancement of Artificial Intelligence](http://www.aaai.org/home.html)
@@ -208,7 +208,7 @@
 
 ### Lists / Book/monograph Lists and Reviews
 
-*   [RStudio Addins (⭐819)](https://github.com/daattali/addinslist) - List of RStudio addins.
+*   [RStudio Addins (⭐845)](https://github.com/daattali/addinslist) - List of RStudio addins.
 
 ## [20. Awesome Projects Boilerplates](/content/melvin0008/awesome-projects-boilerplates/week/README.md)
 
@@ -233,13 +233,13 @@
 
 ### Algorithms and Data structures
 
-*   [crystalline (⭐129)](https://github.com/jtomschroeder/crystalline) - A collection of containers and algorithms
+*   [crystalline (⭐127)](https://github.com/jtomschroeder/crystalline) - A collection of containers and algorithms
 *   [multiset.cr (⭐4)](https://github.com/tcrouch/multiset.cr) - Implementation of a multiset
 *   [radix (⭐102)](https://github.com/luislavena/radix) - Radix Tree implementation
 
 ### HTTP
 
-*   [http2 (⭐94)](https://github.com/ysbaddaden/http2) - HTTP/2 Protocol Implementation
+*   [http2 (⭐95)](https://github.com/ysbaddaden/http2) - HTTP/2 Protocol Implementation
 
 ### Template Engine
 
@@ -441,7 +441,7 @@ Both chaining and [caching](#cache-jquery-selectors) methods in jQuery are best 
 
 ### Logging
 
-*   [logglix (⭐11)](https://github.com/pragmaticivan/logglix) - A logger backend for posting errors to Loggly.
+*   [logglix (⭐10)](https://github.com/pragmaticivan/logglix) - A logger backend for posting errors to Loggly.
 
 ### ORM and Datamapping
 
@@ -475,20 +475,14 @@ Both chaining and [caching](#cache-jquery-selectors) methods in jQuery are best 
 
 ### StackView / Barcode
 
-*   [StackViewController (⭐867)](https://github.com/seedco/StackViewController) - Simplify the use of UIStackView.
+*   [StackViewController (⭐868)](https://github.com/seedco/StackViewController) - Simplify the use of UIStackView.
 *   [TZStackView (⭐1.2k)](https://github.com/tomvanzummeren/TZStackView) - An iOS9 UIStackView layout component re-implemented for iOS 7 and 8.
 
 ### Utility / Barcode
 
-*   [SwiftyUtils (⭐553)](https://github.com/tbaranes/SwiftyUtils) - All the reusable code that we need in each project.
+*   [SwiftyUtils (⭐556)](https://github.com/tbaranes/SwiftyUtils) - All the reusable code that we need in each project.
 
-## [37. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
-
-### Job boards aggregators
-
-*   [Work Remotely](https://workremotely.io/) - Crawls and curates many job board feeds for remote positions
-
-## [38. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
+## [37. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
 
 ### Modules / Stream
 
@@ -499,7 +493,7 @@ Both chaining and [caching](#cache-jquery-selectors) methods in jQuery are best 
 
 *   [is-fqdn (⭐22)](https://github.com/parro-it/is-fqdn) - Check if a string represent a fully qualified domain name.
 
-## [39. Awesome Knockout](/content/dnbard/awesome-knockout/week/README.md)
+## [38. Awesome Knockout](/content/dnbard/awesome-knockout/week/README.md)
 
 ### Plugins and libraries
 
@@ -510,7 +504,7 @@ Both chaining and [caching](#cache-jquery-selectors) methods in jQuery are best 
 
 *   [Testing (⭐15)](https://github.com/profiscience/ko-component-tester) - Helpful utilities for TDD + Knockout.js
 
-## [40. Colorful](/content/Siddharth11/Colorful/week/README.md)
+## [39. Colorful](/content/Siddharth11/Colorful/week/README.md)
 
 ### Color Palettes / Web App
 

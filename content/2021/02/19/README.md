@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 19, 2021
 
-13 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -8,15 +8,15 @@
 
 ## [1. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 
-### Online services
+### Online services (a-z↓)
 
-*   [Micoo (⭐189)](https://github.com/Mikuu/Micoo) - Open source service for all UI application visual regression solution
+*   [Micoo (⭐191)](https://github.com/Mikuu/Micoo) - Open source service for all UI application visual regression solution
 
 ## [2. Awesome Elm](/content/sporto/awesome-elm/README.md)
 
 ### Inspired by Elm / Games
 
-*   [Bucklescript-TEA (⭐601)](https://github.com/OvermindDL1/bucklescript-tea) - The Elm Architecture based on OCaml / Reason and [Bucklescript](https://bucklescript.github.io/)
+*   [Bucklescript-TEA (⭐600)](https://github.com/OvermindDL1/bucklescript-tea) - The Elm Architecture based on OCaml / Reason and [Bucklescript](https://bucklescript.github.io/)
 *   [Oolong](https://oolong-kt.org/) - An Elm inspired Model-View-Update (MVU) implementation for Kotlin multiplatform.
 
 ## [3. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
@@ -29,14 +29,13 @@
 
 ### Crates / Component Libraries
 
-*   [yew-feather (⭐17)](https://github.com/pedrodesu/yew-feather) - Feather Icons components for Yew.
+*   [yew-feather (⭐19)](https://github.com/pedrodesu/yew-feather) - Feather Icons components for Yew.
 
 ## [5. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### UI / Barcode
 
 *   [BulletinBoard (⭐5.4k)](https://github.com/alexisakers/BulletinBoard) - Generates and manages contextual cards displayed at the bottom of the screen.
-*   [Wallet](https://github.com/russ-stamant/Wallet) - A replica of the Apple's Wallet interface. Add, delete or present your cards and passes.
 
 ## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -60,7 +59,7 @@
 
 ### Components / Apache License
 
-*   [lace (⭐7)](https://github.com/charlie5/lace) - A set of Ada components to allow 3D simulations, games and GUI's in Ada.
+*   [lace (⭐9)](https://github.com/charlie5/lace) - A set of Ada components to allow 3D simulations, games and GUI's in Ada.
 
 ### Automation / Apache License
 
@@ -73,7 +72,7 @@
 
 ### Shells, Interpreters and Emulators / Apache License
 
-*   [a-shell (⭐13)](https://github.com/charlie5/aShell) - A component to aid in writing shell-like applications in Ada.
+*   [a-shell (⭐14)](https://github.com/charlie5/aShell) - A component to aid in writing shell-like applications in Ada.
 
 ## [10. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
@@ -85,7 +84,7 @@
 
 ### Configuration
 
-*   [hush (⭐130)](https://github.com/gordalina/hush) - Read and inject configuration at runtime, and in release mode with support for multiple providers.
+*   [hush (⭐133)](https://github.com/gordalina/hush) - Read and inject configuration at runtime, and in release mode with support for multiple providers.
 *   [hush\_aws\_secrets\_manager (⭐19)](https://github.com/gordalina/hush_aws_secrets_manager) - AWS Secrets Manager provider for hush.
 *   [hush\_gcp\_secret\_manager (⭐18)](https://github.com/gordalina/hush_gcp_secret_manager) - Google Secret Manager provider for hush.
 
@@ -93,13 +92,7 @@
 
 ### Packages / General Purpose Libraries
 
-*   [itachi (⭐44)](https://github.com/yaooqinn/itachi) <img src="https://img.shields.io/github/last-commit/yaooqinn/itachi.svg"> - A library that brings useful functions from modern database management systems to Apache Spark.
-
-## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / Utilities
-
-*   [vuse-rx (⭐59)](https://github.com/Raiondesu/vuse-rx) - Complete first-class rxjs support for Vue 3
+*   [itachi (⭐56)](https://github.com/yaooqinn/itachi) <img src="https://img.shields.io/github/last-commit/yaooqinn/itachi.svg"> - A library that brings useful functions from modern database management systems to Apache Spark.
 
 ---
 

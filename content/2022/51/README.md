@@ -10,13 +10,13 @@
 
 ### Code Analysis and Linters
 
-*   [coq-of-ocaml (⭐247)](https://github.com/formal-land/coq-of-ocaml) - Translator from OCaml to Coq to formally verify OCaml code.
+*   [coq-of-ocaml (⭐255)](https://github.com/formal-land/coq-of-ocaml) - Translator from OCaml to Coq to formally verify OCaml code.
 
 ## [2. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
 
 ### Software / Make your life easier
 
-*   [RestQA (⭐80)](https://github.com/restqa/restqa) - A REST API testing Framework based on ghekin to manage microservice local testing using the best in class Developer experience.
+*   [RestQA (⭐88)](https://github.com/restqa/restqa) - A REST API testing Framework based on ghekin to manage microservice local testing using the best in class Developer experience.
 
 ### Training (Includes developer training for automation testers) / Other
 
@@ -32,7 +32,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐2.3k)](https://github.com/cloudscape-design/components)
+  Source code \*: [:octocat: (⭐2.4k)](https://github.com/cloudscape-design/components)
 
 
 - : [BLiP](https://design.take.net/)
@@ -54,7 +54,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐155)](https://github.com/cultureamp/kaizen-design-system)
+  Source code \*: [:octocat: (⭐163)](https://github.com/cultureamp/kaizen-design-system)
 
 
 - : [KoliBri](https://public-ui.github.io/) (Public-UI)
@@ -65,7 +65,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐134)](https://github.com/public-ui/kolibri/)
+  Source code \*: [:octocat: (⭐181)](https://github.com/public-ui/kolibri/)
 
 
 - : [Materialize CSS](https://materializecss.com/)
@@ -144,7 +144,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐156)](https://github.com/siemens/ix)
+  Source code \*: [:octocat: (⭐215)](https://github.com/siemens/ix)
 
 
 
@@ -164,7 +164,7 @@
 
 ### Examples
 
-*   [apple/foundationdb (⭐14k)](https://github.com/apple/foundationdb/wiki)
+*   [apple/foundationdb (⭐15k)](https://github.com/apple/foundationdb/wiki)
 
 ## [7. Awesome Asyncio](/content/timofurrer/awesome-asyncio/week/README.md)
 
@@ -209,7 +209,7 @@
 
 *   [Mark Bun. CS591 Communication Complexity](https://cs-people.bu.edu/mbun/courses/591_F19/) - A graduate course which introduces the fundamental results and techniques in the area and some research frontier questions. Themes include: Communication models and the communication complexity zoo, Information vs. communication, Query-to-communication lifting, and Applications
 
-### Blog Posts and Essays / Monograph
+### Selected Posts and Essays / Lecture Videos Playlist
 
 *   [Igor Pak. How to Start a Paper](https://igorpak.wordpress.com/2022/10/26/how-to-start-a-paper/) - Why should you introduce a conceptual preliminary motivating the story of your paper.
 
@@ -224,7 +224,7 @@
 
 ### Applications
 
-*   [Sniffnet (⭐17k)](https://github.com/GyulyVGC/sniffnet) - Cross-platform application to monitor your network traffic with ease [![build badge](https://img.shields.io/github/actions/workflow/status/gyulyvgc/sniffnet/rust.yml?logo=github)](https://github.com/GyulyVGC/sniffnet/blob/main/.github/workflows/rust.yml) [![crate](https://img.shields.io/crates/v/sniffnet?logo=rust)](https://crates.io/crates/sniffnet)
+*   [Sniffnet (⭐19k)](https://github.com/GyulyVGC/sniffnet) - Cross-platform application to monitor your network traffic with ease [![build badge](https://img.shields.io/github/actions/workflow/status/gyulyvgc/sniffnet/rust.yml?logo=github)](https://github.com/GyulyVGC/sniffnet/blob/main/.github/workflows/rust.yml) [![crate](https://img.shields.io/crates/v/sniffnet?logo=rust)](https://crates.io/crates/sniffnet)
 
 ## [15. Awesome Video](/content/krzemienski/awesome-video/week/README.md)
 
@@ -255,7 +255,7 @@
 
 ### Self-hosted
 
-*   [Memos (⭐30k)](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and socialization.
+*   [Memos (⭐36k)](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and socialization.
 
 ### Blogging platforms (Medium)
 
@@ -265,11 +265,11 @@
 
 ### Peripheral Access Crates / Renesas
 
-*   [`da14531`](https://crates.io/crates/da14531) Peripheral Access Crate for DA14531 Ultra-Low Power BT 5.1 System-on-Chip - ![crates.io](https://img.shields.io/crates/v/da14531.svg)
+*   [`da14531`](https://crates.io/crates/da14531) Peripheral Access Crate for DA14531 Ultra-Low Power BT 5.1 System-on-Chip - [![crates.io](https://img.shields.io/crates/v/da14531.svg)](https://crates.io/crates/da14531)
 
 ### HAL implementation crates / Renesas
 
-*   [`da14531-hal`](https://crates.io/crates/da14531-hal) HAL crate for DA14531 Ultra-Low Power BT 5.1 System-on-Chip - ![crates.io](https://img.shields.io/crates/v/da14531-hal.svg)
+*   [`da14531-hal`](https://crates.io/crates/da14531-hal) HAL crate for DA14531 Ultra-Low Power BT 5.1 System-on-Chip - [![crates.io](https://img.shields.io/crates/v/da14531-hal.svg)](https://crates.io/crates/da14531-hal)
 
 ### Board support crates / Texas Instruments
 
@@ -277,9 +277,9 @@
 
 ### Driver crates / Other
 
-*   [ADE791x](https://crates.io/crates/ade791x) - SPI - ADE7912/ADE7913 3-Channel, Isolated, Sigma-Delta ADC - [github (⭐1)](https://github.com/GrepitAB/ade791x-rs) - ![crates.io](https://img.shields.io/crates/v/ade791x.svg)
-*   [AFE4404 (⭐2)](https://github.com/pulse-loop/afe4404) - I2C - Pulse oximeter - ![crates.io](https://img.shields.io/crates/v/afe4404.svg)
-*   [ebyte-e32](https://crates.io/crates/ebyte-e32) - SERIAL - Ebyte E32 LoRa module driver - [Intro blog post](https://barafael.github.io/A-Platform-Agnostic-Driver-for-EBYTE-E32-LoRa-Modules/) - ![crates.io](https://img.shields.io/crates/v/ebyte-e32.svg)
+*   [ADE791x](https://crates.io/crates/ade791x) - SPI - ADE7912/ADE7913 3-Channel, Isolated, Sigma-Delta ADC - [github (⭐1)](https://github.com/GrepitAB/ade791x-rs) - [![crates.io](https://img.shields.io/crates/v/ade791x.svg)](https://crates.io/crates/ade791x)
+*   [AFE4404 (⭐2)](https://github.com/pulse-loop/afe4404) - I2C - Pulse oximeter - [![crates.io](https://img.shields.io/crates/v/afe4404.svg)](https://crates.io/crates/afe4404)
+*   [ebyte-e32](https://crates.io/crates/ebyte-e32) - SERIAL - Ebyte E32 LoRa module driver - [Intro blog post](https://barafael.github.io/A-Platform-Agnostic-Driver-for-EBYTE-E32-LoRa-Modules/) - [![crates.io](https://img.shields.io/crates/v/ebyte-e32.svg)](https://crates.io/crates/ebyte-e32)
 
 ## [21. Awesome V](/content/vlang/awesome-v/week/README.md)
 
@@ -291,11 +291,11 @@
 
 ### Data Validation / Synthetic Data
 
-*   [great\_expectations (⭐9.5k)](https://github.com/great-expectations/great_expectations) - Always know what to expect from your data.
-*   [pandera (⭐3k)](https://github.com/unionai-oss/pandera) - A lightweight, flexible, and expressive statistical data testing library.
-*   [deepchecks (⭐3.4k)](https://github.com/deepchecks/deepchecks) - Validation & testing of ML models and data during model development, deployment, and production. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
-*   [evidently (⭐4.7k)](https://github.com/evidentlyai/evidently) - Evaluate and monitor ML models from validation to production.
-*   [TensorFlow Data Validation (⭐751)](https://github.com/tensorflow/data-validation) - Library for exploring and validating machine learning data.
+*   [great\_expectations (⭐9.9k)](https://github.com/great-expectations/great_expectations) - Always know what to expect from your data.
+*   [pandera (⭐3.3k)](https://github.com/unionai-oss/pandera) - A lightweight, flexible, and expressive statistical data testing library.
+*   [deepchecks (⭐3.6k)](https://github.com/deepchecks/deepchecks) - Validation & testing of ML models and data during model development, deployment, and production. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
+*   [evidently (⭐5.2k)](https://github.com/evidentlyai/evidently) - Evaluate and monitor ML models from validation to production.
+*   [TensorFlow Data Validation (⭐758)](https://github.com/tensorflow/data-validation) - Library for exploring and validating machine learning data.
 
 ## [23. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
@@ -305,7 +305,7 @@
 
 ### MongoDB
 
-*   [MongoKitten (⭐703)](https://github.com/orlandos-nl/MongoKitten) :penguin: - MongoDB Connector.
+*   [MongoKitten (⭐717)](https://github.com/orlandos-nl/MongoKitten) :penguin: - MongoDB Connector.
 
 ### Realm
 
@@ -313,11 +313,11 @@
 
 ### Documentation
 
-*   [SourceDocs (⭐384)](https://github.com/SourceDocs/SourceDocs) - Generate Markdown reference documentation that lives with your code.
+*   [SourceDocs (⭐392)](https://github.com/SourceDocs/SourceDocs) - Generate Markdown reference documentation that lives with your code.
 
 ### Events
 
-*   [OneWay (⭐74)](https://github.com/DevYeom/OneWay) - State management with unidirectional data flow.
+*   [OneWay (⭐86)](https://github.com/DevYeom/OneWay) - State management with unidirectional data flow.
 
 ### Fonts
 
@@ -335,7 +335,7 @@
 
 ### Tools
 
-*   [rpi-cookstrap (⭐12)](https://github.com/heeplr/rpi-cookstrap) - A lightweight, plugin based bakery shell script framework to customize, bootstrap & provision raspberry pi OS disk images.
+*   [rpi-cookstrap (⭐14)](https://github.com/heeplr/rpi-cookstrap) - A lightweight, plugin based bakery shell script framework to customize, bootstrap & provision raspberry pi OS disk images.
 
 ## [25. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
@@ -388,7 +388,7 @@
 
 ### Image Synthesis / Multi-agents
 
-*   [openai/point-e (⭐6.4k)](https://github.com/openai/point-e): OpenAI's point cloud diffusion for 3D model synthesis
+*   [openai/point-e (⭐6.6k)](https://github.com/openai/point-e): OpenAI's point cloud diffusion for 3D model synthesis
 
 ### Inbox: Stable Diffusion / Web UI for Stable Diffusion via Google Colab
 
@@ -404,7 +404,7 @@
 
 ### Front-End Development
 
-*   [Web Components (⭐2.8k)](https://github.com/web-padawan/awesome-web-components#readme)
+*   [Web Components (⭐3k)](https://github.com/web-padawan/awesome-web-components#readme)
 
 ## [31. Awesome Vlc](/content/mfkl/awesome-vlc/week/README.md)
 
@@ -428,10 +428,6 @@
 *   [Somnium Space](https://somniumspace.com/parcel/) - Virtual Reality world built on the Ethereum blockchain.
 
 ## [33. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
-
-### Resources / Examples
-
-*   [h5 (⭐7)](https://github.com/gyt95/h5) A Monorepo-based mobile engineering project. (Monorepo + Pnpm + Vite3.x + Vue3.2+ + TypeScript4.x + VueRouter4.x + Pinia...)
 
 ### Projects Using Vue.js / Commercial Products
 
@@ -478,9 +474,9 @@
 
 ### Open Source Rails Apps / Other external resources
 
-*   [blackCandy (⭐1.2k)](https://github.com/blackcandy-org/black_candy) - A music streaming app (using Rails 7.0).
-*   [dcaf\_case\_management (⭐86)](https://github.com/DARIAEngineering/dcaf_case_management) - A case management app (using Rails 7.0).
-*   [eol (⭐58)](https://github.com/EOL/deprecated_eol) - An encyclopedia app - using Rails 3.2 - [:earth\_africa:](https://eol.org/)
+*   [blackCandy (⭐1.3k)](https://github.com/blackcandy-org/black_candy) - A music streaming app (using Rails 7.0).
+*   [dcaf\_case\_management (⭐87)](https://github.com/DARIAEngineering/dcaf_case_management) - A case management app (using Rails 7.0).
+*   [eol (⭐59)](https://github.com/EOL/deprecated_eol) - An encyclopedia app - using Rails 3.2 - [:earth\_africa:](https://eol.org/)
 *   [mastodon (⭐47k)](https://github.com/mastodon/mastodon) - A microblogging app (using Rails 6.1). - [:earth\_africa:](https://mastodon.social/about)
 *   [postal (⭐15k)](https://github.com/postalserver/postal) - A mail delivery platform (using Rails 5.2).
 *   [scholarsphere (⭐12)](https://github.com/psu-libraries/scholarsphere) - A digital assets management app - using Rails 6.1
@@ -488,10 +484,10 @@
 ### Gems / Other external resources
 
 *   [rails\_admin (⭐7.9k)](https://github.com/railsadminteam/rails_admin) - A gem to create & manage admin panel for Rails app. [:red\_circle:](https://rubygems.org/gems/rails_admin)
-*   [rails\_semantic\_logger (⭐318)](https://github.com/reidmorrison/rails_semantic_logger) - A gem to provide alternative logging approach for Rails app. [:red\_circle:](https://rubygems.org/gems/rails_semantic_logger)
+*   [rails\_semantic\_logger (⭐338)](https://github.com/reidmorrison/rails_semantic_logger) - A gem to provide alternative logging approach for Rails app. [:red\_circle:](https://rubygems.org/gems/rails_semantic_logger)
 *   [ranked-model (⭐1.1k)](https://github.com/brendon/ranked-model) - A gem to handle sorting for rows. [:red\_circle:](https://rubygems.org/gems/ranked-model)
-*   [rubocop-rails (⭐797)](https://github.com/rubocop/rubocop-rails) - A code style checking tool. [:red\_circle:](https://rubygems.org/gems/rubocop-rails)
-*   [view\_component (⭐3.2k)](https://github.com/ViewComponent/view_component) - A gem to introduce view components. [:red\_circle:](https://rubygems.org/gems/view_component)
+*   [rubocop-rails (⭐821)](https://github.com/rubocop/rubocop-rails) - A code style checking tool. [:red\_circle:](https://rubygems.org/gems/rubocop-rails)
+*   [view\_component (⭐3.3k)](https://github.com/ViewComponent/view_component) - A gem to introduce view components. [:red\_circle:](https://rubygems.org/gems/view_component)
 
 ## [36. awsm.fish](/content/jorgebucaran/awsm.fish/week/README.md)
 
@@ -515,51 +511,51 @@
 
 ### Templates / React
 
-*   [react-xs-admin (⭐29)](https://github.com/jsxiaosi/react-xs-admin) - The background management system template developed based on React18 + ReactRouteV6 + Vite + And Design + ReactIntl + ReactRedux + Emulation.
+*   [react-xs-admin (⭐41)](https://github.com/jsxiaosi/react-xs-admin) - The background management system template developed based on React18 + ReactRouteV6 + Vite + And Design + ReactIntl + ReactRedux + Emulation.
 
 ### Templates / Solid
 
-*   [vitesse-solid (⭐62)](https://github.com/xbmlz/vitesse-solid) - Opinionated Vite + SolidJS Starter Template. Includes TypeScript, ESLint, Prettier, UnoCSS, HopeUI and more.
+*   [vitesse-solid (⭐64)](https://github.com/xbmlz/vitesse-solid) - Opinionated Vite + SolidJS Starter Template. Includes TypeScript, ESLint, Prettier, UnoCSS, HopeUI and more.
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-api (⭐27)](https://github.com/yracnet/vite-plugin-api) - Generate route mapping for API Routes services from the directory tree.
+*   [vite-plugin-api (⭐37)](https://github.com/yracnet/vite-plugin-api) - Generate route mapping for API Routes services from the directory tree.
 
 ### React / Helpers
 
-*   [vite-plugin-react-click-to-component (⭐40)](https://github.com/ArnaudBarre/vite-plugin-react-click-to-component) - Uses Vite's launch middleware to enable alt+click to go to component.
+*   [vite-plugin-react-click-to-component (⭐45)](https://github.com/ArnaudBarre/vite-plugin-react-click-to-component) - Uses Vite's launch middleware to enable alt+click to go to component.
 
 ### Laravel / Community
 
-*   [Laravel Vite Plugin (⭐782)](https://github.com/laravel/vite-plugin) - Laravel official plugin for Vite.
+*   [Laravel Vite Plugin (⭐816)](https://github.com/laravel/vite-plugin) - Laravel official plugin for Vite.
 
 ## [40. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Utility / Diagnostics
 
-*   [echasnovski/mini.nvim#mini.animate (⭐4.7k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-animate.md) - Module of `mini.nvim` to add out of the box animations for common built-in actions (cursor movement, scroll, resize, window open/close).
+*   [echasnovski/mini.nvim#mini.animate (⭐6.2k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-animate.md) - Module of `mini.nvim` to add out of the box animations for common built-in actions (cursor movement, scroll, resize, window open/close).
 
 ### Editing Support / Diagnostics
 
-*   [debugloop/telescope-undo.nvim (⭐597)](https://github.com/debugloop/telescope-undo.nvim) - A telescope extension to visualize your undo tree and fuzzy-search changes in it.
+*   [debugloop/telescope-undo.nvim (⭐699)](https://github.com/debugloop/telescope-undo.nvim) - A telescope extension to visualize your undo tree and fuzzy-search changes in it.
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [jonathandion/web-dev.nvim (⭐66)](https://github.com/jonathandion/web-dev.nvim) - Small, simple and flexible configuration for web development ✨.
+*   [jonathandion/web-dev.nvim (⭐67)](https://github.com/jonathandion/web-dev.nvim) - Small, simple and flexible configuration for web development.
 
 ## [41. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [aws (⭐1)](https://github.com/chiemerieezechukwu/aws-zsh-theme) - Based on [robbyrussell (⭐172k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#robbyrussell), with an extra decorator to show your `$AWS_PROFILE` when it is set.
+*   [aws (⭐1)](https://github.com/chiemerieezechukwu/aws-zsh-theme) - Based on [robbyrussell (⭐175k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#robbyrussell), with an extra decorator to show your `$AWS_PROFILE` when it is set.
 *   [pico (⭐0)](https://github.com/PicoGeyer/zsh-pico-prompt) - Simple prompt modified from [zap-prompt (⭐26)](https://github.com/zap-zsh/zap-prompt) with decorators for `git` information, user\@hostname and working directory.
-*   [valuca (⭐0)](https://github.com/keyaedisa/Valuca) - Variant of [ducula (⭐40)](https://github.com/janjoswig/Ducula). Includes decorators for background job status, username, hostname, virtualenv, current directory, last command's exit code, `git` information and the current time.
+*   [valuca (⭐0)](https://github.com/keyaedisa/Valuca) - Variant of [ducula (⭐45)](https://github.com/janjoswig/Ducula). Includes decorators for background job status, username, hostname, virtualenv, current directory, last command's exit code, `git` information and the current time.
 
 ## [42. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
 
 ### Table of Contents / Streaming Library
 
-*   [Mediapipe (⭐27k)](https://github.com/google/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
+*   [Mediapipe (⭐28k)](https://github.com/google/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 
 ### Table of Contents / Closed Source
 
@@ -584,19 +580,19 @@
 
 ### Contents / Education
 
-*   [TubeCards (⭐299)](https://github.com/friebetill/tubecards/) - Cross-platform Spaced Repetition App for flashcards by [friebetill](https://github.com/friebetill).
+*   [TubeCards (⭐324)](https://github.com/friebetill/tubecards/) - Cross-platform Spaced Repetition App for flashcards by [friebetill](https://github.com/friebetill).
 
 ### Contents / Entertainment
 
-*   [Aniflix (⭐16)](https://github.com/sumittiware/Aniflix-Flutter) - Netflix clone to browse Anime, created using Flutter and Jikan API & Aniapi API(older version of app). by [Sumit Tiware](https://github.com/sumittiware).
+*   [Aniflix (⭐22)](https://github.com/sumittiware/Aniflix-Flutter) - Netflix clone to browse Anime, created using Flutter and Jikan API & Aniapi API(older version of app). by [Sumit Tiware](https://github.com/sumittiware).
 
 ### Contents / Productivity
 
-*   [Virlow Flutter Recorder (⭐24)](https://github.com/virlow-voice/virlow-flutter-recorder) - Voice recording and transcription plus it includes TL;DR, Short Hand Notes, and a rich text editor by \[Virlow Voice]\(<https://github.com/proninyaroslav](https://github.com/virlow-voice)>
+*   [Virlow Flutter Recorder (⭐31)](https://github.com/virlow-voice/virlow-flutter-recorder) - Voice recording and transcription plus it includes TL;DR, Short Hand Notes, and a rich text editor by \[Virlow Voice]\(<https://github.com/proninyaroslav](https://github.com/virlow-voice)>
 
 ### Contents / Tools
 
-*   [RSA Encryption (⭐28)](https://github.com/vellt/RSA-Encryption-Flutter) - A simple UI for encrypting messages by [vellt](https://github.com/vellt).
+*   [RSA Encryption (⭐30)](https://github.com/vellt/RSA-Encryption-Flutter) - A simple UI for encrypting messages by [vellt](https://github.com/vellt).
 
 ## [45. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/week/README.md)
 
@@ -623,7 +619,7 @@
 
 ### Projects
 
-*   [Sumi (⭐9)](https://github.com/vgwidt/sumi) - Multi-user issue tracking and knowledge base app built with Yew & Actix.
+*   [Sumi (⭐10)](https://github.com/vgwidt/sumi) - Multi-user issue tracking and knowledge base app built with Yew & Actix.
 
 ## [48. Awesome Chatgpt](/content/saharmor/awesome-chatgpt/week/README.md)
 
@@ -636,26 +632,26 @@
 
 ### Social Networking
 
-*   [Retrospring (⭐237)](https://github.com/Retrospring/retrospring) - A social network following the Q/A (question and answer) principle.
+*   [Retrospring (⭐266)](https://github.com/Retrospring/retrospring) - A social network following the Q/A (question and answer) principle.
 
 ### Testing
 
 *   WebDrivers
-    *   [Ferrum (⭐1.7k)](https://github.com/rubycdp/ferrum) - High-level API to control Chrome in Ruby.
+    *   [Ferrum (⭐1.8k)](https://github.com/rubycdp/ferrum) - High-level API to control Chrome in Ruby.
     *   [Poltergeist (⭐2.5k)](https://github.com/teampoltergeist/poltergeist) - A PhantomJS driver for Capybara.
-    *   [Selenium WebDriver (⭐30k)](https://github.com/SeleniumHQ/selenium/tree/master/rb) - Ruby bindings for WebDriver.
+    *   [Selenium WebDriver (⭐31k)](https://github.com/SeleniumHQ/selenium/tree/master/rb) - Ruby bindings for WebDriver.
     *   [Watir (⭐1.5k)](https://github.com/watir/watir/) - Web application testing in Ruby.
 
 ### View components
 
-*   [Phlex (⭐1.2k)](https://github.com/joeldrapper/phlex) - A framework for building object-oriented views in Ruby.
+*   [Phlex (⭐1.3k)](https://github.com/joeldrapper/phlex) - A framework for building object-oriented views in Ruby.
 
 ## [50. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### IDE
 
 *   [vvvv](https://visualprogramming.net) A visual live-programming environment for .NET **\[Free for OSS]**
-*   *   [CSharp Analyzer by MongoDB (⭐25)](https://github.com/mongodb/mongo-csharp-analyzer) A free Visual Studio Extension for MongoDB users, helping translate your code into MongoDB queries
+*   *   [CSharp Analyzer by MongoDB (⭐27)](https://github.com/mongodb/mongo-csharp-analyzer) A free Visual Studio Extension for MongoDB users, helping translate your code into MongoDB queries
 
 ## [51. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
@@ -669,15 +665,15 @@
 
 ### Software / Communication - Video Conferencing
 
-*   [MiroTalk C2C](https://c2c.mirotalk.com) - Real-time cam-2-cam video calls & screen sharing, end-to-end encrypted, to embed in any website with a simple iframe. ([Source Code (⭐220)](https://github.com/miroslavpejic85/mirotalkc2c)) `MIT` `Nodejs/Docker`
+*   [MiroTalk C2C](https://c2c.mirotalk.com) - Real-time cam-2-cam video calls & screen sharing, end-to-end encrypted, to embed in any website with a simple iframe. ([Source Code (⭐251)](https://github.com/miroslavpejic85/mirotalkc2c)) `MIT` `Nodejs/Docker`
 
 ### Software / Games - Administrative Utilities & Control Panels
 
-*   [PufferPanel](https://www.pufferpanel.com/) - PufferPanel is an open source game server management panel, designed for both small networks and game server providers. ([Source Code (⭐1.3k)](https://github.com/pufferpanel/pufferpanel)) `Apache-2.0` `Go`
+*   [PufferPanel](https://www.pufferpanel.com/) - PufferPanel is an open source game server management panel, designed for both small networks and game server providers. ([Source Code (⭐1.4k)](https://github.com/pufferpanel/pufferpanel)) `Apache-2.0` `Go`
 
 ### Software / Miscellaneous
 
-*   [POMjs](https://password.oppetmoln.se/) - Random Password Generator. ([Source Code (⭐31)](https://github.com/joho1968/POMjs)) `GPL-2.0` `Javascript`
+*   [POMjs](https://password.oppetmoln.se/) - Random Password Generator. ([Source Code (⭐38)](https://github.com/joho1968/POMjs)) `GPL-2.0` `Javascript`
 
 ## [52. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
 

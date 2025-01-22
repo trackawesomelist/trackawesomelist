@@ -40,7 +40,7 @@
 
 ### Logging / Barcode
 
-*   [Printer (⭐66)](https://github.com/hemangshah/printer) - A fancy logger for your next app.
+*   [Printer (⭐67)](https://github.com/hemangshah/printer) - A fancy logger for your next app.
 
 ### Button / Barcode
 
@@ -48,7 +48,7 @@
 
 ### Calendar / Barcode
 
-*   [Workaholic (⭐120)](https://github.com/hemangshah/Workaholic) - A GitHub-like work contribution timeline.
+*   [Workaholic (⭐121)](https://github.com/hemangshah/Workaholic) - A GitHub-like work contribution timeline.
 
 ## [5. Awesome Uncopyright](/content/johnjago/awesome-uncopyright/README.md)
 

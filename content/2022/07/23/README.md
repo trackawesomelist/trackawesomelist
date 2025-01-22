@@ -10,7 +10,7 @@
 
 ### Table of Contents / Strings
 
-*   [Portable ASCII (⭐507)](https://github.com/voku/portable-ascii) - A library to convert strings to ASCII.
+*   [Portable ASCII (⭐547)](https://github.com/voku/portable-ascii) - A library to convert strings to ASCII.
 
 ## [2. GoBooks](/content/dariubs/GoBooks/README.md)
 
@@ -29,26 +29,26 @@
 
 ### Software / Make your life easier
 
-*   [test-each (⭐110)](https://github.com/ehmicky/test-each) - Repeats tests using different inputs (Data-Driven Testing).
+*   [test-each (⭐114)](https://github.com/ehmicky/test-each) - Repeats tests using different inputs (Data-Driven Testing).
 
 ## [4. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [lewpoly/sherbet.nvim (⭐72)](https://github.com/lewpoly/sherbet.nvim) - A soothing colorscheme with support for popular plugins and tree-sitter.
+*   [lewpoly/sherbet.nvim (⭐73)](https://github.com/lewpoly/sherbet.nvim) - A soothing colorscheme with support for popular plugins and Tree-sitter.
 
 ## [5. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
 
 ### UI Libraries
 
-*   [ionic-svelte (⭐750)](https://github.com/Tommertom/svelte-ionic-app) - Svelte integration with Ionic's UI for mobile app development, including many starters.
+*   [ionic-svelte (⭐778)](https://github.com/Tommertom/svelte-ionic-app) - Svelte integration with Ionic's UI for mobile app development, including many starters.
 
 ## [6. Awesome Vala](/content/desiderantes/awesome-vala/README.md)
 
 ### Apps / Productivity
 
 *   [GNOME Calculator](https://gitlab.gnome.org/GNOME/gnome-calculator) - The calculator app for the GNOME desktop.
-*   [pdfpc (⭐1.4k)](https://github.com/pdfpc/pdfpc) - A GTK presenter application with multi-monitor support for PDF files.
+*   [pdfpc (⭐1.6k)](https://github.com/pdfpc/pdfpc) - A GTK presenter application with multi-monitor support for PDF files.
 
 ### Libraries / Command-line
 
@@ -62,7 +62,7 @@
 
 ### Theory
 
-*   [AGI & CoCoSci (⭐271)](https://github.com/YuzheSHI/awesome-agi-cocosci#readme) - The reciprocation of Artificial General Intelligence (AGI) and Computational Cognitive Sciences (CoCoSci).
+*   [AGI & CoCoSci (⭐295)](https://github.com/YuzheSHI/awesome-agi-cocosci#readme) - The reciprocation of Artificial General Intelligence (AGI) and Computational Cognitive Sciences (CoCoSci).
 
 ## [8. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
@@ -84,10 +84,8 @@
 ### Domain Specific Language / Logic DSL Applications
 
 *   [Situation Calculus](https://en.wikipedia.org/wiki/Situation_calculus) - ***Wikipedia***. Wikipedia on Situation Calculus, a logic formalism designed for representing and reasoning about dynamical domains.
-*   [Answer Set Programming](http://people.sabanciuniv.edu/~esraerdem/teaching/krr06/asp.pdf) - ***ICLPNR'99***, 1999. \[[All Versions](https://scholar.google.com/scholar?cluster=15267370435063454675\&hl=en\&as_sdt=0,5)]. The original paper on Answer Set Programming (ASP), a form of declarative programming oriented towards difficult search problems, on the use of nonmonotonic reasoning in knowledge representation.
-*   [Action Languages, Answer Sets, and Planning](https://link.springer.com/chapter/10.1007%2F978-3-642-60085-2_16) - ***The Logic Programming Paradigms***, 1999. \[[All Versions](https://scholar.google.com/scholar?cluster=2045126541850245645\&hl=en\&as_sdt=0,5)].
-*   [Qualitative Simulation](https://www.cs.utexas.edu/ftp/qsim/papers/Kuipers-aij-86.pdf) - ***Artificial Intelligence***, 1986. \[[All Versions](https://scholar.google.com/scholar?cluster=4945009733425184345\&hl=en\&as_sdt=0,5)]. Benjamin Kuipers' original paper on qualitative reasoning.
-*   [Qualitative Reasoning: Modeling and Simulation with Incomplete Knowledge](https://www.cs.utexas.edu/users/qr/QR-book.html) - ***MIT Press***, 1994. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=6634684154722677465)]. Benjamin Kuipers' comprehensive book on qualitative reasoning.
+*   [Action Languages, Answer Sets, and Planning](https://link.springer.com/chapter/10.1007%2F978-3-642-60085-2_16) - ***The Logic Programming Paradigms***, 1999. \[[All Versions](https://scholar.google.com/scholar?cluster=2045126541850245645)]. \[[Preprint](https://citeseerx.ist.psu.edu/document?repid=rep1\&type=pdf\&doi=e58359b3dae3141fd2c85ee3f00c566411134929)]. This is a discussion of some of the achievements and challenges related to representing actions and the design of planners from the perspective of logic programming. The authors talk about recent work on action languages and translating them into logic programming, on representing possible histories of an action domain by answer sets, on efficient implementations of the answer set semantics and their use for generating plans, and on causal logic and its relation to planning algorithms. Recent progress in these areas may lead to the creation of planners which are based on the ideas of logic programming and combine the use of expressive action description languages with efficient computational procedures.
+*   [Qualitative Reasoning: Modeling and Simulation with Incomplete Knowledge](https://www.cs.utexas.edu/users/qr/QR-book.html) - ***MIT Press***, 1994. \[[All Versions](https://scholar.google.com/scholar?\&cluster=6634684154722677465)]. This book presents, within a conceptually unified theoretical framework, a body of methods that have been developed over the past fifteen years for building and simulating qualitative models of physical systems - bathtubs, tea kettles, automobiles, the physiology of the body, chemical processing plants, control systems, electrical systems - where knowledge of that system is incomplete. The primary tool for this work is the author's QSIM algorithm, which is discussed in detail. Qualitative models are better able than traditional models to express states of incomplete knowledge about continuous mechanisms. Qualitative simulation guarantees to find all possible behaviors consistent with the knowledge in the model. This expressive power and coverage is important in problem solving for diagnosis, design, monitoring, explanation, and other applications of artificial intelligence.
 
 ### Problem Solving / Human-Level Problem Solving
 
@@ -130,15 +128,15 @@
 ### Explainability / Strong Machine Learning
 
 *   [Ultra-Strong Machine Learning: comprehensibility of programs learned with ILP](https://link.springer.com/article/10.1007/s10994-018-5707-3) - ***Machine Learning***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=17551060457946144913\&hl=en\&as_sdt=0,5)]. Stephen Muggleton's account of ultra-strong machine learning, which not only learns human understandable knowledge, but also improves human performance on the corresponding tasks.
-*   [NBDT: Neural-Backed Decision Trees](https://arxiv.org/abs/2004.00221) - ***NeurIPS'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=1902399007162005819\&hl=en\&as_sdt=0,5)]. \[[Code (⭐603)](https://github.com/alvinwan/neural-backed-decision-trees)]. Expliciting the decision process of a decision tree through neural networks.
+*   [NBDT: Neural-Backed Decision Trees](https://arxiv.org/abs/2004.00221) - ***NeurIPS'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=1902399007162005819\&hl=en\&as_sdt=0,5)]. \[[Code (⭐611)](https://github.com/alvinwan/neural-backed-decision-trees)]. Expliciting the decision process of a decision tree through neural networks.
 
 ### Explainability / Explainable Deep Learning
 
 *   [Network dissection: Quantifying interpretability of deep visual representations](https://ieeexplore.ieee.org/document/8099837) - ***CVPR'17***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=18069685615852396783\&hl=en\&as_sdt=0,5)]. \[[Project](http://netdissect.csail.mit.edu/)]. \[[Dataset: Places365](http://places2.csail.mit.edu/index.html)]. The original paper on visualizing the class activation maps to explain convolutional neural networks.
 *   [Understanding the role of Individual Units in a Deep Neural Network](https://www.pnas.org/content/pnas/early/2020/08/31/1907375117.full.pdf) - ***Proceedings of the National Academy of Sciences***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=11996680970579301810\&hl=en\&as_sdt=0,5)]. David Bau's review on network dissection for discriminative and generative models.
 *   [Zoom In: An Introduction to Circuits](https://distill.pub/2020/circuits/zoom-in/) - ***Distill***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=9053581372570691569\&hl=en\&as_sdt=0,5)]. A perspective on treating neural networks as circuits.
-*   [Compositional Explanations of Neurons](https://proceedings.neurips.cc/paper/2020/hash/c74956ffb38ba48ed6ce977af6727275-Abstract.html) - ***NeurIPS'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=15725346730266402738\&hl=en\&as_sdt=0,5)]. \[[Project (⭐24)](https://github.com/jayelm/compexp)]. A concept-composition version of network dissection.
-*   [Noise or Signal: The Role of Backgrounds in Image Classification](https://arxiv.org/pdf/2006.09994.pdf) - ***ICLR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=14729938011425134088\&hl=en\&as_sdt=0,5)]. \[[Code & Data (⭐133)](https://github.com/MadryLab/backgrounds_challenge)]. \[[Project](https://gradientscience.org/background/)]. A perspective on image background provides strong clue for foreground classification.
+*   [Compositional Explanations of Neurons](https://proceedings.neurips.cc/paper/2020/hash/c74956ffb38ba48ed6ce977af6727275-Abstract.html) - ***NeurIPS'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=15725346730266402738\&hl=en\&as_sdt=0,5)]. \[[Project (⭐25)](https://github.com/jayelm/compexp)]. A concept-composition version of network dissection.
+*   [Noise or Signal: The Role of Backgrounds in Image Classification](https://arxiv.org/pdf/2006.09994.pdf) - ***ICLR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=14729938011425134088\&hl=en\&as_sdt=0,5)]. \[[Code & Data (⭐140)](https://github.com/MadryLab/backgrounds_challenge)]. \[[Project](https://gradientscience.org/background/)]. A perspective on image background provides strong clue for foreground classification.
 *   [Towards Understanding Learning Representations: To What Extent Do Different Neural Networks Learn the Same Representation](https://proceedings.neurips.cc/paper/2018/hash/5fc34ed307aac159a30d81181c99847e-Abstract.html) - ***NeurIPS'18***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=401428033641216502\&hl=en\&as_sdt=0,5)]. Maching the learned pattern of neurons in different neural networks.
 
 ### Embodied Intelligence / Explainable Deep Learning
@@ -234,15 +232,11 @@
 ### Theory of Mind / AI Assisted Research
 
 *   [Theory of Mind](https://en.wikipedia.org/wiki/Theory_of_mind) - ***Wikipedia***. Wikipedia on Theory of Mind (ToM), a cognitive capability that estimating others' goal, belief, and desire.
-*   [Action Understanding as Inverse Planning](https://www.sciencedirect.com/science/article/pii/S0010027709001607) - ***Cognition***, 2009. \[[All Versions](https://scholar.google.com/scholar?cluster=11478704181983566675\&hl=en\&as_sdt=0,5)]. \[[Appendix](https://ars.els-cdn.com/content/image/1-s2.0-S0010027709001607-mmc1.pdf)]. The original paper on Inverse Planning, a computational implementation of ToM.
-*   [Bayesian Theory of Mind: Modeling Joint Belief-Desire Attribution](http://web.mit.edu/9.s915/www/classes/theoryOfMind.pdf) - ***CogSci'11***, 2011. \[[All Versions](https://scholar.google.com/scholar?cluster=7454981153033683025\&hl=en\&as_sdt=0,5)].
-*   [Bayesian Theory of Mind : modeling human reasoning about beliefs, desires, goals, and social relations](https://dspace.mit.edu/handle/1721.1/73768) - ***MIT***, 2012. \[[All Versions](https://scholar.google.com/scholar?cluster=16053170661075048224\&hl=en\&as_sdt=0,5)]. Chris Baker's Ph.D. dissertation, a comprehensive review on Bayesian modeling of Theory of Mind.
+*   [Action Understanding as Inverse Planning](https://www.sciencedirect.com/science/article/pii/S0010027709001607) - ***Cognition***, 2009. \[[All Versions](https://scholar.google.com/scholar?cluster=11478704181983566675)]. \[[Appendix](https://ars.els-cdn.com/content/image/1-s2.0-S0010027709001607-mmc1.pdf)]. The original paper on Inverse Planning, a computational implementation of Theory of Mind. Humans are adept at inferring the mental states underlying other agents’ actions, such as goals, beliefs, desires, emotions and other thoughts. This paper proposes a computational framework based on Bayesian inverse planning for modeling human action understanding. The framework represents an intuitive theory of intentional agents’ behavior based on the principle of rationality: the expectation that agents will plan approximately rationally to achieve their goals, given their beliefs about the world. The mental states that caused an agent's behavior are inferred by inverting this model of rational planning using Bayesian inference, integrating the likelihood of the observed actions with the prior over mental states.
 *   [Bayesian Brains without Probabilities](https://www.sciencedirect.com/science/article/pii/S1364661316301565?via%3Dihub) - ***Trends in Cognitive Sciences***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=13076510377612067772\&hl=en\&as_sdt=0,5)]. A perspective on human probabilistic modeling without explicit probabilistic computation.
-*   [AGENT: A Benchmark for Core Psychological Reasoning](https://arxiv.org/pdf/2102.12321.pdf) - ***ICML'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=9729067071974484204\&hl=en\&as_sdt=0,5)]. A benchmark for AI that modeling the core knowledge of ToM.
-*   [Experimental Games and Social Decision Making](https://www.annualreviews.org/doi/pdf/10.1146/annurev-psych-081420-110718) - ***Annual Review of Psychology***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=4713510112126264116\&hl=en\&as_sdt=0,5)]. A comprehensive review on social ToM experiment pafadigms.
-*   [Theory of Minds: Understanding Behavior in Groups through Inverse Planning](https://www.aaai.org/ojs/index.php/AAAI/article/view/4574) - ***AAAI'19***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=6755247312077985817\&hl=en\&as_sdt=0,5)]. Inverse Planning in multi-agent setting.
+*   [Experimental Games and Social Decision Making](https://www.annualreviews.org/doi/pdf/10.1146/annurev-psych-081420-110718) - ***Annual Review of Psychology***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=4713510112126264116)]. Experimental games model situations in which the future outcomes of individuals and groups depend on their own choices and on those of other (groups of) individuals. Games are a powerful tool to identify the neural and psychological mechanisms underlying interpersonal and group cooperation and coordination. This review article discusses recent developments in how experimental games are used and adapted, with an increased focus on repeated interactions, partner control through sanctioning, and partner (de)selection for future interactions.
+*   [Theory of Minds: Understanding Behavior in Groups through Inverse Planning](https://www.aaai.org/ojs/index.php/AAAI/article/view/4574) - ***AAAI'19***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=6755247312077985817)]. Towards the goal of building machine-learning algorithms with human-like social intelligence, this paper develops a generative model of multiagent action understanding based on a novel representation for these latent relationships called Composable Team Hierarchies (CTH). This representation is grounded in the formalism of stochastic games and multi-agent reinforcement learning. This work uses CTH as a target for Bayesian inference yielding a new algorithm for understanding behavior in groups that can both infer hidden relationships as well as predict future actions for multiple agents interacting together.
 *   [Using human brain activity to guide machine learning](https://www.nature.com/articles/s41598-018-23618-6) - ***Scientific Report***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=12987955253653036948\&hl=en\&as_sdt=0,5)].
-*   [Learning Triadic Belief Dynamics in Nonverbal Communication from Videos](https://arxiv.org/abs/2104.02841) - ***CVPR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=15365483338824697316\&hl=en\&as_sdt=0,5)]. Theory of Mind in the perception level, introduced as a computer vision task.
 *   [Ten-month-old infants infer the value of goals from the costs of actions](https://dspace.mit.edu/bitstream/handle/1721.1/112291/ivc_full_preprint.pdf?sequence=1\&isAllowed=y) - ***Science***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=11862940312128630925\&hl=en\&as_sdt=0,5)]. A piece of evidence for children's capability on ToM.
 *   [Baby Intuitions Benchmark (BIB): Discerning the goals, preferences, and actions of others](https://static1.squarespace.com/static/595a9f155016e1f7ead6edf1/t/61eeb3e7bbc41a23cd288f8a/1643033708945/Gandhi_etal_2021.pdf) - ***NeurIPS'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=16514364601966350574)].
 *   [Intentonomy: a Dataset and Study towards Human Intent Understanding](https://arxiv.org/pdf/2011.05558.pdf) - ***CVPR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=5268870345003195142\&hl=en\&as_sdt=0,5)]. A large-scale database on human intentionally-posted images on social media.

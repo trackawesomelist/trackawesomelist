@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 09, 2022
 
-13 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,7 +16,7 @@
 
 ### Go Tools / Libraries for creating HTTP middlewares
 
-*   [gotestdox (⭐109)](https://github.com/bitfield/gotestdox) - Show Go test results as readable sentences.
+*   [gotestdox (⭐126)](https://github.com/bitfield/gotestdox) - Show Go test results as readable sentences.
 
 ## [3. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
 
@@ -29,7 +29,6 @@
 ### Lecture Notes / Monograph
 
 *   [Arora. Advanced Algorithm Design](https://www.cs.princeton.edu/courses/archive/fall15/cos521/) - Notably uses ideas such as randomness, approximation, high dimensional geometry. Faces uncertainty, approaches to handle big data, handling intractability, heuristic approaches, ..etc.
-*   [Arora. The Computational Universe](https://www.cs.princeton.edu/courses/archive/spring11/cos116/lectures.php) - Takes us on a broad sweep of scientific knowledge and related technologies: propositional logic of the ancient Greeks (microprocessors); quantum mechanics (silicon chips); network and system phenomena (internet and search engines); computational intractability (secure encryption); and efficient algorithms (genomic sequencing).
 
 ### Lecture Videos Playlists / Monograph
 
@@ -39,11 +38,15 @@
 
 *   [Jukna. Extremal Combinatorics](https://web.vu.lt/mif/s.jukna/EC_Book_2nd/index.html) - Combinatorial techniques written largely with an eye to their applications in TCS, and mostly in complexity
 
+### Lecture Notes / Lecture Videos Playlist
+
+*   [Arora. The Computational Universe](https://www.cs.princeton.edu/courses/archive/spring11/cos116/lectures.php) - Takes us on a broad sweep of scientific knowledge and related technologies: propositional logic of the ancient Greeks (microprocessors); quantum mechanics (silicon chips); network and system phenomena (internet and search engines); computational intractability (secure encryption); and efficient algorithms (genomic sequencing).
+
 ## [5. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### Plugins
 
-*   🧬 [FormKit (⭐4.2k)](https://github.com/formkit/formkit/tree/master/packages/tailwindcss) - Adds variants for input and form states for FormKit.
+*   🧬 [FormKit (⭐4.3k)](https://github.com/formkit/formkit/tree/master/packages/tailwindcss) - Adds variants for input and form states for FormKit.
 
 ## [6. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -69,27 +72,21 @@
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-live-reload (⭐82)](https://github.com/arnoson/vite-plugin-live-reload) - Live reloading.
+*   [vite-plugin-live-reload (⭐88)](https://github.com/arnoson/vite-plugin-live-reload) - Live reloading.
 
-## [10. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / UI Components
-
-*   [vue-preview-imgs (⭐18)](https://github.com/hzpeng57/vue-preview-imgs) - A picture preview plugin for Vue3
-
-## [11. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+## [10. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
 ### Mario Kart
 
 *   [SuperTuxKart](https://supertuxkart.net/Main_Page) - A 3D open-source arcade racer with a variety characters, tracks, and modes to play.
 
-## [12. Awesome Healthcare](/content/kakoni/awesome-healthcare/README.md)
+## [11. Awesome Healthcare](/content/kakoni/awesome-healthcare/README.md)
 
 ### Contents / Libraries
 
 *   [TorchXRayVision (⭐842)](https://github.com/mlmed/torchxrayvision) - A library for chest X-ray datasets and models. Including pre-trained models.
 
-## [13. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
+## [12. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
 ### Homebrews / Syntax highlighting packages
 

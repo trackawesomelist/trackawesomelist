@@ -6,11 +6,11 @@
 
 
 
-## [1. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [1. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
-### Frameworks, Libraries and Tools / Misc
+### Misc
 
-*   [YoutubeExplode (⭐2.8k)](https://github.com/Tyrrrz/YoutubeExplode) - Ultimate library for extracting metadata and downloading Youtube videos and playlists.
+*   [YoutubeExplode (⭐3.1k)](https://github.com/Tyrrrz/YoutubeExplode) - Ultimate library for extracting metadata and downloading Youtube videos and playlists.
 
 ## [2. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 
@@ -47,13 +47,13 @@
 
 ### Libraries and Tools / C++
 
-*   [High Level ViWi Service (⭐13)](https://github.com/iotbzh/high-level-viwi-service) - High level Volkswagen CAN signaling protocol implementation.
+*   [High Level ViWi Service (⭐14)](https://github.com/iotbzh/high-level-viwi-service) - High level Volkswagen CAN signaling protocol implementation.
 
 ## [7. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### JavaScript / Misc
 
-*   [stdlib (⭐4.2k)](https://github.com/stdlib-js/stdlib) - A standard library for JavaScript and Node.js, with an emphasis on numeric computing. The library provides a collection of robust, high performance libraries for mathematics, statistics, streams, utilities, and more.
+*   [stdlib (⭐4.7k)](https://github.com/stdlib-js/stdlib) - A standard library for JavaScript and Node.js, with an emphasis on numeric computing. The library provides a collection of robust, high performance libraries for mathematics, statistics, streams, utilities, and more.
 
 ---
 

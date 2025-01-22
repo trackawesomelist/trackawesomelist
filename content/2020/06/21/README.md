@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 21, 2020
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -36,15 +36,15 @@
 
 ### ASM / Syntax highlighting packages
 
-*   [rgbds-vscode (⭐59)](https://github.com/DonaldHays/rgbds-vscode) - Visual Studio Code language extension for RGBDS GBZ80 Assembly.
+*   [rgbds-vscode (⭐65)](https://github.com/DonaldHays/rgbds-vscode) - Visual Studio Code language extension for RGBDS GBZ80 Assembly.
 *   [kupman (⭐5)](https://github.com/dubvulture/gbdev) and some other projects.
 
 ### C / Syntax highlighting packages
 
 *   [GBDK Programming Video Tutorials](https://www.youtube.com/playlist?list=PLeEj4c2zF7PaFv5MPYhNAkBGrkx4iPGJo) - A series of video tutorials introducing beginners to programming with GBDK.
-*   [GB raycaster, Vision-8 (⭐13)](https://github.com/haroldo-ok/really-old-stuff/tree/master/gameboy) - and some other projects.
-*   [Dino's Offline Adventure (⭐56)](https://github.com/gingemonster/DinosOfflineAdventure) - A clone of the Google Chrome offline game.
-*   [dino-gb (⭐22)](https://github.com/rnegron/dino-gb) - Another clone of the Chrome game.
+*   [GB raycaster, Vision-8 (⭐14)](https://github.com/haroldo-ok/really-old-stuff/tree/master/gameboy) - and some other projects.
+*   [Dino's Offline Adventure (⭐60)](https://github.com/gingemonster/DinosOfflineAdventure) - A clone of the Google Chrome offline game.
+*   [dino-gb (⭐25)](https://github.com/rnegron/dino-gb) - Another clone of the Chrome game.
 
 ### Websites / Syntax highlighting packages
 
@@ -54,7 +54,7 @@
 
 ### ORM and Datamapping
 
-*   [pillar (⭐84)](https://github.com/sofakingworld/pillar) - Clickhouse HTTP based client.
+*   [pillar (⭐89)](https://github.com/sofakingworld/pillar) - Clickhouse HTTP based client.
 
 ## [5. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
@@ -83,13 +83,7 @@
 
 *   [ThreatShare](https://threatshare.io/) - C2 panel tracker
 
-## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Projects Using Vue.js / Open Source
-
-*   [Movie Paradise (⭐21)](https://github.com/wwwenjie/Movie-Paradise) - A responsive movie preview web app built by Vue and Vuetify
-
-## [9. Awesome Web Monetization](/content/thomasbnt/awesome-web-monetization/README.md)
+## [8. Awesome Web Monetization](/content/thomasbnt/awesome-web-monetization/README.md)
 
 ### About Web Monetization
 
@@ -100,23 +94,23 @@
 *   [@GrantForTheWeb on Twitter](https://twitter.com/GrantForTheWeb)
 *   [Web Monetization tag on DEV](https://dev.to/t/webmonetization)
 
-## [10. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+## [9. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [tslog (⭐1.3k)](https://github.com/fullstack-build/tslog) - A powerful logging library with native TypeScript support: beautiful interpolation, native V8 stack trace, secret masking, support for requestIds based on AsyncLocalStorage
+*   :octocat: [tslog (⭐1.4k)](https://github.com/fullstack-build/tslog) - A powerful logging library with native TypeScript support: beautiful interpolation, native V8 stack trace, secret masking, support for requestIds based on AsyncLocalStorage
 
-## [11. Awesome Deno](/content/denolib/awesome-deno/README.md)
+## [10. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Registries / XML
 
 *   [nest.land](https://nest.land) - An immutable, blockchain powered Deno package registry. 🥚
 
-## [12. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [11. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Parsing
 
-*   [Folyd/robotstxt (⭐85)](https://github.com/Folyd/robotstxt) - Port of Google's robots.txt parser and matcher C++ library
+*   [Folyd/robotstxt (⭐90)](https://github.com/Folyd/robotstxt) - Port of Google's robots.txt parser and matcher C++ library
 
 ---
 

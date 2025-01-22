@@ -29,14 +29,14 @@
 
 ### Projects
 
-*   [blog-rs (⭐54)](https://github.com/songday/blog-rs) - A blog system in which frontend and backend are ALL written in Rust. Backend powered by Warp and frontend built on Yew (WASM).
+*   [blog-rs (⭐58)](https://github.com/songday/blog-rs) - A blog system in which frontend and backend are ALL written in Rust. Backend powered by Warp and frontend built on Yew (WASM).
 
 ## [5. Awesome Java](/content/akullpp/awesome-java/README.md)
 
 ### Database / Text-Based User Interfaces
 
-*   [QueryStream (⭐15)](https://github.com/querystream/querystream) - Build JPA Criteria queries using a Stream-like API.
-*   [QuestDB (⭐14k)](https://github.com/questdb/questdb) - High-performance SQL database for time series. Supports InfluxDB line protocol, PostgreSQL wire protocol, and REST.
+*   [QueryStream (⭐17)](https://github.com/querystream/querystream) - Build JPA Criteria queries using a Stream-like API.
+*   [QuestDB (⭐15k)](https://github.com/questdb/questdb) - High-performance SQL database for time series. Supports InfluxDB line protocol, PostgreSQL wire protocol, and REST.
 *   [Spring Data JPA MongoDB Expressions (⭐95)](https://github.com/mhewedy/spring-data-jpa-mongodb-expressions) - Allows you to use MongoDB query language to query your relational database.
 *   [Trino](https://trino.io) - Distributed SQL query engine for big data.
 
@@ -52,7 +52,7 @@
 
 ### Algorithms and data structures
 
-*   [JakubSzark/zig-string (⭐308)](https://github.com/JakubSzark/zig-string) - UTF-8 string data structure.
+*   [JakubSzark/zig-string (⭐417)](https://github.com/JakubSzark/zig-string) - UTF-8 string data structure.
 
 ---
 

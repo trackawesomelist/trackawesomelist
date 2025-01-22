@@ -13,19 +13,19 @@
 *   [**Concise CSS**](https://concisecss.com) - Give up the bloat. Stop tripping over your classes. Be concise.\
     ![](https://img.shields.io/github/stars/ConciseCSS/concise.css.svg?style=social\&label=Star)
     [Docs](https://concisecss.com/documentation/),
-    [Repo (⭐940)](https://github.com/ConciseCSS/concise.css)
+    [Repo (⭐941)](https://github.com/ConciseCSS/concise.css)
     \| #SCSS
 *   [**Responsive Boilerplate**](https://responsivebp.com) - Powerful, accessible, developer friendly framework for building responsive websites.\
     ![](https://img.shields.io/github/stars/responsivebp/responsive.svg?style=social\&label=Star)
     [Docs](https://responsivebp.com/getting-started/),
-    [Repo (⭐866)](https://github.com/responsivebp/responsive)
+    [Repo (⭐867)](https://github.com/responsivebp/responsive)
     \| #SCSS
 
 ## [2. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Examples and funny stuff
 
-*   [blackjack-cr (⭐8)](https://github.com/gdonald/blackjack-cr) - Console Blackjack
+*   [blackjack-cr (⭐9)](https://github.com/gdonald/blackjack-cr) - Console Blackjack
 
 ## [3. Awesome Mobile Web Development](/content/myshov/awesome-mobile-web-development/README.md)
 

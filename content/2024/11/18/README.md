@@ -23,7 +23,7 @@
 ### Framework-agnostic Plugins / Integrations
 
 *   [vite-create-production-server-plugin (⭐0)](https://github.com/jrtderonde/vite-create-production-server-plugin) - Spin up a production HTTP serve after build.
-*   [genaicode/vite-plugin (⭐13)](https://github.com/gtanczyk/genaicode/tree/master/src/vite-genaicode/) - A plugin that embeds an AI coding assistant into the app UI.
+*   [genaicode/vite-plugin (⭐15)](https://github.com/gtanczyk/genaicode/tree/master/src/vite-genaicode/) - A plugin that embeds an AI coding assistant into the app UI.
 
 ### Framework-agnostic Plugins / Bundling
 
@@ -34,7 +34,7 @@
 
 ### JSON
 
-*   [json.cpp (⭐495)](https://github.com/jart/json.cpp) - a baroque JSON parsing / serialization library for C++. \[Apache-2.0]
+*   [json.cpp (⭐689)](https://github.com/jart/json.cpp) - a baroque JSON parsing / serialization library for C++. \[Apache-2.0]
 
 ## [5. Awesome for Beginners](/content/MunGell/awesome-for-beginners/README.md)
 
@@ -46,7 +46,7 @@
 
 ### Frameworks / Runtimes
 
-*   [Modus (⭐181)](https://github.com/hypermodeinc/modus) - An open source, serverless framework for building intelligent functions and APIs, powered by WebAssembly.
+*   [Modus (⭐319)](https://github.com/hypermodeinc/modus) - An open source, serverless framework for building intelligent functions and APIs, powered by WebAssembly.
 
 ## [7. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
 
@@ -84,8 +84,9 @@
 
 ### ⚙️ Middlewares / 🌱 Third Party
 
-*   [streamerd/fibergun (⭐1)](https://github.com/streamerd/fibergun) - A GunDB middleware for Fiber. Enables easy integration of GunDB, a decentralized database.
+*   [streamerd/fibergun (⭐2)](https://github.com/streamerd/fibergun) - A GunDB middleware for Fiber. Enables easy integration of GunDB, a decentralized database.
 
 ---
 
+- Prev: [Nov 19, 2024](/content/2024/11/19/README.md)
 - Next: [Nov 17, 2024](/content/2024/11/17/README.md)

@@ -77,7 +77,7 @@
 
 ### Web Frameworks
 
-*   [DotVVM (⭐743)](https://github.com/riganti/dotvvm) - MVVM framework for people who don't like to write JavaScript, with OWIN and ASP.NET Core support and a free extension for Visual Studio 2015 and 2017.
+*   [DotVVM (⭐755)](https://github.com/riganti/dotvvm) - MVVM framework for people who don't like to write JavaScript, with OWIN and ASP.NET Core support and a free extension for Visual Studio 2015 and 2017.
 
 ---
 

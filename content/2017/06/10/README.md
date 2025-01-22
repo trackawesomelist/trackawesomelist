@@ -26,7 +26,7 @@
 
 ### Programming / Python
 
-*   [Brian2 (⭐727)](https://github.com/brian-team/brian2) - Free, open source simulator for spiking neural networks.
+*   [Brian2 (⭐933)](https://github.com/brian-team/brian2) - Free, open source simulator for spiking neural networks.
 
 ## [4. Awesome Actionscript3](/content/robinrodricks/awesome-actionscript3/README.md)
 

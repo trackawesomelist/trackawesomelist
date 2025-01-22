@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 14, 2020
 
-5 awesome lists updated today.
+4 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -44,13 +44,7 @@
 
 *   [Site Reliability Engineering India](https://www.meetup.com/site-reliability-enggineering/) - SRE Meetup India
 
-## [4. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
-
-### Reading and Writing Tools / Note-taking
-
-*   [Obsidian](https://obsidian.md/) - Obsidian is a powerful knowledge base that works on top of a local folder of plain text Markdown files.
-
-## [5. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
+## [4. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
 ### IDEs / SRAM
 

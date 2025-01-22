@@ -34,17 +34,17 @@
 
 ### Editors
 
-*   [polygon-editor (⭐6)](https://github.com/ArtemkaKun/polygon-editor) - A tool to create and edit 2D polygons with sprite lookup, created in V.
+*   [polygon-editor (⭐7)](https://github.com/ArtemkaKun/polygon-editor) - A tool to create and edit 2D polygons with sprite lookup, created in V.
 
 ## [6. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
 ### Display / Fonts
 
-*   [packed-font (⭐12)](https://github.com/mark-gladding/packed-font) -  Memory efficient MicroPython fonts for the Pico Pi and SSD1306 OLED Display.
+*   [packed-font (⭐19)](https://github.com/mark-gladding/packed-font) -  Memory efficient MicroPython fonts for the Pico Pi and SSD1306 OLED Display.
 
 ### Motion / Servo
 
-*   [MicroPython\_PCA9685 (⭐2)](https://github.com/jposada202020/MicroPython_PCA9685) - MicroPython Driver for the PCA9685 PWM control IC, commonly used to control servos, LEDs and motors.
+*   [MicroPython\_PCA9685 (⭐6)](https://github.com/jposada202020/MicroPython_PCA9685) - MicroPython Driver for the PCA9685 PWM control IC, commonly used to control servos, LEDs and motors.
 
 ### IDEs / SRAM
 
@@ -68,8 +68,8 @@
 
 ### Apps
 
-*   [Taxonomy (⭐17k)](https://github.com/shadcn/taxonomy) - An example app built using Next.js 13 server components.
-*   [shadcn/ui (⭐50k)](https://github.com/shadcn/ui) - Beautifully designed components that you can copy and paste into your apps.
+*   [Taxonomy (⭐19k)](https://github.com/shadcn/taxonomy) - An example app built using Next.js 13 server components.
+*   [shadcn/ui (⭐78k)](https://github.com/shadcn/ui) - Beautifully designed components that you can copy and paste into your apps.
 
 ## [9. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
 
@@ -91,18 +91,18 @@
 
 ### 📁 Recipes / 🌱 Third Party
 
-*   [alpody/golang-fiber-realworld-example-app (⭐106)](https://github.com/alpody/golang-fiber-realworld-example-app) - Example real world backend API built with Fiber, Gorm, Swagger.
+*   [alpody/golang-fiber-realworld-example-app (⭐127)](https://github.com/alpody/golang-fiber-realworld-example-app) - Example real world backend API built with Fiber, Gorm, Swagger.
 
 ## [11. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
 ### Admin
 
-*   [FastAPI Amis Admin (⭐1k)](https://github.com/amisadmin/fastapi-amis-admin) - A high-performance, efficient and easily extensible FastAPI admin framework.
+*   [FastAPI Amis Admin (⭐1.1k)](https://github.com/amisadmin/fastapi-amis-admin) - A high-performance, efficient and easily extensible FastAPI admin framework.
 
 ### Open Source Projects / Other Tools
 
-*   [FastAPI with Observability (⭐547)](https://github.com/Blueswen/fastapi-observability) - Observe FastAPI app with three pillars of observability: Traces (Tempo), Metrics (Prometheus), Logs (Loki) on Grafana through OpenTelemetry and OpenMetrics.
-*   [Markdown-Videos (⭐71)](https://github.com/Snailedlt/Markdown-Videos) - API for generating thumbnails to embed into your markdown content.
+*   [FastAPI with Observability (⭐701)](https://github.com/Blueswen/fastapi-observability) - Observe FastAPI app with three pillars of observability: Traces (Tempo), Metrics (Prometheus), Logs (Loki) on Grafana through OpenTelemetry and OpenMetrics.
+*   [Markdown-Videos (⭐81)](https://github.com/Snailedlt/Markdown-Videos) - API for generating thumbnails to embed into your markdown content.
 
 ---
 

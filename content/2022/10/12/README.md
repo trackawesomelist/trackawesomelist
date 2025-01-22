@@ -28,10 +28,6 @@
 
 *   [Svelte Jobs](https://sveltejobs.com/)
 
-### Programming / Rust
-
-*   [Rust Jobs - Remote and OnSite](https://rustjob.xyz)
-
 ### Programming / Scala
 
 *   [Scala Jobs](https://scalajobs.com)
@@ -64,8 +60,8 @@
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [lets-cli (⭐2)](https://github.com/lets-cli/lets-zsh-plugin) - Add autocompletion for [lets (⭐72)](https://github.com/lets-cli/lets) cli task runner.
-*   [ssh (sunlei) (⭐128)](https://github.com/sunlei/zsh-ssh) - Better host completion for `ssh`.
+*   [lets-cli (⭐2)](https://github.com/lets-cli/lets-zsh-plugin) - Add autocompletion for [lets (⭐76)](https://github.com/lets-cli/lets) cli task runner.
+*   [ssh (sunlei) (⭐154)](https://github.com/sunlei/zsh-ssh) - Better host completion for `ssh`.
 *   [ssh (zpm-zsh) (⭐18)](https://github.com/zpm-zsh/ssh) - Add host completion for `ssh`.
 
 ## [7. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
@@ -78,7 +74,7 @@
 
 ### Searching and Categorizing
 
-*   [zopyx.typesense (⭐2)](https://github.com/zopyx/zopyx.typesense) - Plone integration with the external Typesense search server (open-source). This is an alternative to collective.solr or Elasticsearch.
+*   [zopyx.typesense (⭐3)](https://github.com/zopyx/zopyx.typesense) - Plone integration with the external Typesense search server (open-source). This is an alternative to collective.solr or Elasticsearch.
 
 ### Develop
 
@@ -92,7 +88,7 @@
 
 ### Android / Multiplatform
 
-*   [cossacklabs/themis (⭐1.8k)](https://github.com/cossacklabs/themis) - Multi-language framework for solving typical data security tasks: storage and messaging encryption, authentication, works for 14 languages.
+*   [cossacklabs/themis (⭐1.9k)](https://github.com/cossacklabs/themis) - Multi-language framework for solving typical data security tasks: storage and messaging encryption, authentication, works for 14 languages.
 
 ## [10. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
@@ -110,9 +106,9 @@
 
 ### Projects
 
-*   [note-to-yew (⭐2)](https://github.com/oovm/note-to-yew) - Convert your markups into Yew macro online, which is also made by Yew.
+*   [note-to-yew (⭐3)](https://github.com/oovm/note-to-yew) - Convert your markups into Yew macro online, which is also made by Yew.
 *   [yew-d3-example (⭐24)](https://github.com/ivanschuetz/yew-d3-example) - Showing a d3 chart with Yew.
-*   [zzhack (⭐319)](https://github.com/zzhack-stack/zzhack) - A personal blog, based on Rust & Yew, [Live Demo](https://www.zzhack.fun/).
+*   [zzhack (⭐322)](https://github.com/zzhack-stack/zzhack) - A personal blog, based on Rust & Yew, [Live Demo](https://www.zzhack.fun/).
 
 ## [13. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 

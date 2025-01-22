@@ -2,7 +2,7 @@
 
 Sci-Fi worth consuming
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/sindresorhus/awesome-scifi/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 sindresorhus/awesome-scifi](https://github.com/sindresorhus/awesome-scifi) · ⭐ 4.1K · 🏷️ Entertainment
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/sindresorhus/awesome-scifi/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 sindresorhus/awesome-scifi](https://github.com/sindresorhus/awesome-scifi) · ⭐ 4.3K · 🏷️ Entertainment
 
 [ Daily / [Weekly](/content/sindresorhus/awesome-scifi/week/README.md) / [Overview](/content/sindresorhus/awesome-scifi/readme/README.md) ]
 

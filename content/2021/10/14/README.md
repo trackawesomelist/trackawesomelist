@@ -10,7 +10,7 @@
 
 ### Applications / Games
 
-*   [SoftbearStudios/mk48 (⭐323)](https://github.com/SoftbearStudios/mk48) - Mk48.io is an online multiplayer naval combat game
+*   [SoftbearStudios/mk48 (⭐344)](https://github.com/SoftbearStudios/mk48) - Mk48.io is an online multiplayer naval combat game
 
 ## [2. Awesome Chatops](/content/exAspArk/awesome-chatops/README.md)
 
@@ -61,7 +61,7 @@
 
 ### Queues and Messaging
 
-*   [GoodJob (⭐2.6k)](https://github.com/bensheldon/good_job) - GoodJob is a multithreaded, Postgres-based, ActiveJob backend for Ruby on Rails.
+*   [GoodJob (⭐2.7k)](https://github.com/bensheldon/good_job) - GoodJob is a multithreaded, Postgres-based, ActiveJob backend for Ruby on Rails.
 
 ## [6. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
@@ -113,7 +113,7 @@
 
   CORS: Unknown
 
-  Postman: 
+  : 
 
 
 
@@ -249,7 +249,7 @@
 
 ### Photography
 
-- API: [Readme typing SVG (⭐5.2k)](https://github.com/DenverCoder1/readme-typing-svg)
+- API: [Readme typing SVG (⭐5.8k)](https://github.com/DenverCoder1/readme-typing-svg)
 
   Description: Customizable typing and deleting text SVG
 

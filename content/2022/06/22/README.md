@@ -22,7 +22,7 @@
 
 ### Starters & Themes
 
-*   🚀 [Vite + Lit + Tailwind Starter (⭐29)](https://github.com/running-grass/starter-lit-with-tailwind) - Boilerplate using Vite, Lit and Tailwind CSS.
+*   🚀 [Vite + Lit + Tailwind Starter (⭐32)](https://github.com/running-grass/starter-lit-with-tailwind) - Boilerplate using Vite, Lit and Tailwind CSS.
 
 ## [4. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
@@ -40,15 +40,15 @@
 
 ### Resources / Packages
 
-*   [Page loader (⭐27)](https://github.com/ycs77/inertia-plugin) - Unplugin for loading Inertia pages from configured namespaces.
-*   [Flash (⭐20)](https://github.com/igerslike/inertia-flash) - Laravel package for sharing properties from anywhere.
+*   [Page loader (⭐28)](https://github.com/ycs77/inertia-plugin) - Unplugin for loading Inertia pages from configured namespaces.
+*   [Flash (⭐21)](https://github.com/igerslike/inertia-flash) - Laravel package for sharing properties from anywhere.
 *   [Dry requests (⭐206)](https://github.com/dive-be/laravel-dry-requests) - Generic Laravel package for real-time form validation.
 
 ## [7. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### 2D/3D Rendering engines / Modal, Toast & Notifications
 
-*   [Blazor.Sidepanel (⭐42)](https://github.com/Append-IT/Blazor.Sidepanel) - ![GitHub stars](https://img.shields.io/github/stars/Append-IT/Blazor.Sidepanel?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Append-IT/Blazor.Sidepanel?style=flat-square\&cacheSeconds=86400) A powerful and customizable Sidepanel implementation for Blazor applications.
+*   [Blazor.Sidepanel (⭐44)](https://github.com/Append-IT/Blazor.Sidepanel) - ![GitHub stars](https://img.shields.io/github/stars/Append-IT/Blazor.Sidepanel?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Append-IT/Blazor.Sidepanel?style=flat-square\&cacheSeconds=86400) A powerful and customizable Sidepanel implementation for Blazor applications.
 
 ## [8. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
 
@@ -61,13 +61,13 @@
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [ls (twopizza9621536) (⭐0)](https://github.com/TwoPizza9621536/zsh-ls) - Adds some more aliases for `ls`.
-*   [ls (zpm-zsh) (⭐96)](https://github.com/zpm-zsh/ls) - Colorizes the output of `ls`.
+*   [ls (zpm-zsh) (⭐100)](https://github.com/zpm-zsh/ls) - Colorizes the output of `ls`.
 
 ## [10. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Vue / Transformers
 
-*   ![v3](https://img.shields.io/badge/-v3-35495e) [vite-plugin-md-preview (⭐172)](https://github.com/JasKang/vite-plugin-md-preview) - Markdown code preview.
+*   ![v3](https://img.shields.io/badge/-v3-35495e) [vite-plugin-md-preview (⭐174)](https://github.com/JasKang/vite-plugin-md-preview) - Markdown code preview.
 
 ## [11. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
@@ -102,25 +102,25 @@
 
 ### RPC
 
-*   [gRPC UI (⭐5.1k)](https://github.com/fullstorydev/grpcui) - gRPC UI is a command-line tool that lets you interact with gRPC servers via a browser. It's sort of like Postman, but for gRPC APIs instead of REST.
+*   [gRPC UI (⭐5.3k)](https://github.com/fullstorydev/grpcui) - gRPC UI is a command-line tool that lets you interact with gRPC servers via a browser. It's sort of like Postman, but for gRPC APIs instead of REST.
 
 ## [16. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [Typetta (⭐103)](https://github.com/twinlogix/typetta) - Typescript ORM for Node.js that uses GraphQL as schema definition language | Supports all main SQL databases and MongoDB.
+*   :octocat: [Typetta (⭐111)](https://github.com/twinlogix/typetta) - Typescript ORM for Node.js that uses GraphQL as schema definition language | Supports all main SQL databases and MongoDB.
 
 ## [17. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Formatting / Diagnostics
 
-*   [cappyzawa/trim.nvim (⭐116)](https://github.com/cappyzawa/trim.nvim) - This plugin trims trailing whitespace and lines.
+*   [cappyzawa/trim.nvim (⭐135)](https://github.com/cappyzawa/trim.nvim) - This plugin trims trailing whitespace and lines.
 
 ## [18. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/README.md)
 
 ### RPG
 
-*   [OpenNox (⭐427)](https://github.com/noxworld-dev/opennox) - Collaboration project extending the Nox engine.
+*   [OpenNox (⭐462)](https://github.com/noxworld-dev/opennox) - Collaboration project extending the Nox engine.
 
 ---
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 29, 2017
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -77,7 +77,7 @@
 
 ### Applications
 
-*   [uai\_shot (⭐61)](https://github.com/sergioaugrod/uai_shot) - A multiplayer ship game built with Elixir, Phoenix Framework and Phaser.
+*   [uai\_shot (⭐63)](https://github.com/sergioaugrod/uai_shot) - A multiplayer ship game built with Elixir, Phoenix Framework and Phaser.
 
 ### Macros
 
@@ -85,7 +85,7 @@
 
 ### Networking
 
-*   [tunnerl (⭐27)](https://github.com/surik/tunnerl) - SOCKS4 and SOCKS5 proxy server.
+*   [tunnerl (⭐28)](https://github.com/surik/tunnerl) - SOCKS4 and SOCKS5 proxy server.
 
 ### Queue
 
@@ -99,23 +99,17 @@
 
 *   [Phoenix in Action](https://manning.com/books/phoenix-in-action) - builds on your existing web dev skills, teaching you the unique benefits of Phoenix along with just enough Elixir to get the job done. By Geoffrey Lessel (2017).
 
-## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Projects Using Vue.js / Open Source
-
-*   [discord-logo (⭐62)](https://github.com/NNTin/discord-logo) - A Vue.js animated discord logo generator based on SVGs. ([Github Page](https://nntin.github.io/discord-logo/))
-
-## [10. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [9. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / DynamoDB
 
 *   [dynamodb-geo :fire::fire: (⭐272)](https://github.com/awslabs/dynamodb-geo) - Library to create and query geospatial data.
 
-## [11. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [10. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Mail
 
-*   [StrongGrid (⭐179)](https://github.com/Jericho/StrongGrid) - Client for SendGrid's v3 API. Not only allows you to send emails, but also allows you to bulk import contacts, manage lists and segments, create custom fields for your lists, etc. Also includes a parser for SendGrid Webhooks.
+*   [StrongGrid (⭐188)](https://github.com/Jericho/StrongGrid) - Client for SendGrid's v3 API. Not only allows you to send emails, but also allows you to bulk import contacts, manage lists and segments, create custom fields for your lists, etc. Also includes a parser for SendGrid Webhooks.
 
 ---
 

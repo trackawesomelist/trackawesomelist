@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 09, 2020
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Examples
 
-*   [kopach/karma-sabarivka-reporter (⭐51)](https://github.com/kopach/karma-sabarivka-reporter#readme) - Project logo. Useful badges, clear readme with screenshots for quick demo. Concise ToC.
+*   [kopach/karma-sabarivka-reporter (⭐53)](https://github.com/kopach/karma-sabarivka-reporter#readme) - Project logo. Useful badges, clear readme with screenshots for quick demo. Concise ToC.
 
 ## [2. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
@@ -26,7 +26,7 @@
 
 ### Design and UI
 
-*   [xLayers](https://xlayers.dev) - Preview and convert Sketch design files into Angular, React, Vue, LitElement, Stencil, Xamarin, and more (free and open source at [https://github.com/xlayers/xlayers (⭐816)](https://github.com/xlayers/xlayers))
+*   [xLayers](https://xlayers.dev) - Preview and convert Sketch design files into Angular, React, Vue, LitElement, Stencil, Xamarin, and more (free and open source at [https://github.com/xlayers/xlayers (⭐822)](https://github.com/xlayers/xlayers))
 
 ## [4. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
@@ -42,7 +42,7 @@
 
 ### Documentation
 
-*   [xcribe (⭐60)](https://github.com/brainn-co/xcribe) - Generate API documentation from tests using Swagger (OpenAPI) or API Blueprint specification.
+*   [xcribe (⭐61)](https://github.com/brainn-co/xcribe) - Generate API documentation from tests using Swagger (OpenAPI) or API Blueprint specification.
 
 ## [6. Awesome Gdpr](/content/bakke92/awesome-gdpr/README.md)
 
@@ -57,33 +57,26 @@
 *   [Immersive Custom Elements (⭐134)](https://github.com/MozillaReality/immersive-custom-elements) - Set of web components for embedding immersive (VR & AR) content.
 *   [Open Business Application Platform Web Components (⭐12)](https://github.com/openbap/obap-elements) - Collection of web components designed for business applications.
 
-## [8. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
-
-### Web Development
-
-*   [Lisp Web Tales](https://leanpub.com/lispwebtales) - Simple tutorials using [hunchentoot](http://edicl.github.io/hunchentoot/), [cl-redis (⭐187)](https://github.com/vseloved/cl-redis), [restas (⭐256)](https://github.com/archimag/restas), [SEXML (⭐23)](https://github.com/madnificent/SEXML), [Postmodern (⭐394)](https://github.com/marijnh/Postmodern), and more.
-
-## [9. Awesome Python](/content/vinta/awesome-python/README.md)
+## [8. Awesome Python](/content/vinta/awesome-python/README.md)
 
 ### Logging
 
 *   [logbook](http://logbook.readthedocs.io/en/stable/) - Logging replacement for Python.
 *   [sentry-python (⭐1.8k)](https://github.com/getsentry/sentry-python) - Sentry SDK for Python.
 
-## [10. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [vue-ui-preloader (⭐23)](https://github.com/Bot-Academia/Vue-ui-preloader) - Pre Loader components for vue.js projects with playground.
-*   [vue-img-cutter (⭐474)](https://github.com/acccccccb/vue-img-cutter) - A vue plugin for image cutting tool,it's very convenient to use.
+*   [vue-img-cutter (⭐502)](https://github.com/acccccccb/vue-img-cutter) - A vue plugin for image cutting tool,it's very convenient to use.
 
-## [11. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [10. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Developer Tools / Command Line Tools
 
-*   [eureka (⭐762)](https://github.com/simeg/eureka) - CLI tool to input and store your ideas without leaving the terminal. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [eureka (⭐793)](https://github.com/simeg/eureka) - CLI tool to input and store your ideas without leaving the terminal. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [12. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [11. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / CloudTrail
 

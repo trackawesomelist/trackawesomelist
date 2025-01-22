@@ -69,13 +69,13 @@
 
 ### Scala / Natural Language Processing
 
-*   [Spark NLP (⭐3.8k)](https://github.com/JohnSnowLabs/spark-nlp) - Natural language processing library built on top of Apache Spark ML to provide simple, performant, and accurate NLP annotations for machine learning pipelines, that scale easily in a distributed environment.
+*   [Spark NLP (⭐3.9k)](https://github.com/JohnSnowLabs/spark-nlp) - Natural language processing library built on top of Apache Spark ML to provide simple, performant, and accurate NLP annotations for machine learning pipelines, that scale easily in a distributed environment.
 
 ## [7. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Misc / Other
 
-*   [ky (⭐12k)](https://github.com/sindresorhus/ky) - Tiny and elegant HTTP client based on the browser Fetch API.
+*   [ky (⭐13k)](https://github.com/sindresorhus/ky) - Tiny and elegant HTTP client based on the browser Fetch API.
 
 ## [8. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
 

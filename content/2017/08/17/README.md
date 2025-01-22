@@ -116,7 +116,7 @@
 
 ### Reverse Engineering / Reverse Engineering Tools
 
-*   [Voltron (⭐6.1k)](https://github.com/snare/voltron) - Extensible debugger UI toolkit written in Python.
+*   [Voltron (⭐6.2k)](https://github.com/snare/voltron) - Extensible debugger UI toolkit written in Python.
 
 ## [6. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 

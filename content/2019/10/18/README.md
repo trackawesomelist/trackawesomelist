@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 18, 2019
 
-20 awesome lists updated today.
+19 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,42 +10,41 @@
 
 ### Persistent object databases
 
-*   [cl-prevalence](https://common-lisp.net/project/cl-prevalence/) - in-memory database system. Implementation of Object Prevalence, in which business objects are kept live in memory and transactions are journaled for system recovery. [github fork (⭐29)](https://github.com/40ants/cl-prevalence). [LLGPL](http://opensource.franz.com/preamble.html).
+*   [cl-prevalence](https://common-lisp.net/project/cl-prevalence/) - in-memory database system. Implementation of Object Prevalence, in which business objects are kept live in memory and transactions are journaled for system recovery. [github fork (⭐31)](https://github.com/40ants/cl-prevalence). [LLGPL](http://opensource.franz.com/preamble.html).
     *   See also [cl-prevalence-multimaster (⭐5)](https://github.com/40ants/cl-prevalence-multimaster), to syncronize multiple cl-prevalence systems state.
 
 ### HTTP clients / Interfaces to other package managers
 
-*   [fast-http (⭐341)](https://github.com/fukamachi/fast-http) - A fast HTTP request/response parser for Common Lisp. [MIT](https://opensource.org/licenses/MIT).
+*   [fast-http (⭐346)](https://github.com/fukamachi/fast-http) - A fast HTTP request/response parser for Common Lisp. [MIT](https://opensource.org/licenses/MIT).
 
 ### HTTP Servers / Interfaces to other package managers
 
 *   [zaserve (⭐7)](https://github.com/gendl/aserve) - A portable fork of AllegroServe, by Franz Inc.  [LLGPL](http://opensource.franz.com/preamble.html).
-*   [cl-http2-protocol (⭐105)](https://github.com/akamai/cl-http2-protocol) - a pure Common Lisp transport agnostic implementation of the HTTP/2 protocol at draft-14. [MIT](https://opensource.org/licenses/MIT).
+*   [cl-http2-protocol (⭐106)](https://github.com/akamai/cl-http2-protocol) - a pure Common Lisp transport agnostic implementation of the HTTP/2 protocol at draft-14. [MIT](https://opensource.org/licenses/MIT).
 
 ### HTTP Servers / Hunchentoot plugins
 
 *   [hunchentoot-cgi (⭐5)](https://github.com/slyrus/hunchentoot-cgi) - a library for executing CGI scripts from the hunchentoot webserver. [BSD](https://opensource.org/licenses/bsd-license.php).
-*   [hunchentoot-multi-acceptor (⭐6)](https://github.com/moderninterpreters/hunchentoot-multi-acceptor/) - Route multiple domains (virtual hosts) on a single hunchentoot acceptor using a single port. [Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0).
+*   [hunchentoot-multi-acceptor (⭐7)](https://github.com/moderninterpreters/hunchentoot-multi-acceptor/) - Route multiple domains (virtual hosts) on a single hunchentoot acceptor using a single port. [Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0).
 
 ### Javascript / Isomorphic web frameworks
 
-*   ⭐ [Parenscript](https://common-lisp.net/project/parenscript/) - A translator from Common Lisp to Javascript. [3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause). See [Trident-mode (⭐74)](https://github.com/johnmastro/trident-mode.el), an Emacs mode that provides live interaction with the browser.[unlicence](http://unlicense.org/).
-    *   [paren6 (⭐27)](https://github.com/BnMcGn/paren6/) - a set of ES6 macros for Parenscript.
+*   ⭐ [Parenscript](https://common-lisp.net/project/parenscript/) - A translator from Common Lisp to Javascript. [3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause). See [Trident-mode (⭐78)](https://github.com/johnmastro/trident-mode.el), an Emacs mode that provides live interaction with the browser.[unlicence](http://unlicense.org/).
+    *   [paren6 (⭐31)](https://github.com/BnMcGn/paren6/) - a set of ES6 macros for Parenscript.
+    *   [paren-async (⭐3)](https://github.com/Junker/paren-async) async/await for Parenscript.
+    *   [paren-jquery (⭐3)](https://github.com/Junker/paren-jquery) - Jquery-style macros for Parenscript. MIT.
 
 ### Others / Third-party APIs
 
-*   [avm (⭐53)](https://github.com/takagi/avm) - Efficient and expressive arrayed vector math library with multi-threading and CUDA support. [MIT](https://opensource.org/licenses/MIT).
+*   [avm (⭐54)](https://github.com/takagi/avm) - Efficient and expressive arrayed vector math library with multi-threading and CUDA support. [MIT](https://opensource.org/licenses/MIT).
 
 ### Utils / Third-party APIs
 
-*   [cl-coroutine (⭐64)](https://github.com/takagi/cl-coroutine) - a coroutine library. It uses the CL-CONT continuations library in its implementation. [MIT](https://opensource.org/licenses/MIT).
+*   [cl-coroutine (⭐66)](https://github.com/takagi/cl-coroutine) - a coroutine library. It uses the CL-CONT continuations library in its implementation. [MIT](https://opensource.org/licenses/MIT).
 
 ### Actors pattern / Third-party APIs
 
-*   [erlangen (⭐65)](https://github.com/eugeneia/erlangen) - Distributed, asynchronous message passing system for Clozure Common Lisp. [GNU GPL3](http://www.gnu.org/copyleft/gpl.html).
-*   [Actors (⭐11)](https://github.com/aarvid/Actors) package for LispWorks ([announce](https://www.reddit.com/r/Common_Lisp/comments/77vsft/david_mcclains_actors_package_for_lispworks/)) [MIT](https://opensource.org/licenses/MIT).
-*   [common-lisp-actors (⭐113)](https://github.com/naveensundarg/Common-Lisp-Actors) - a simple and easy to use Actor system. [BSD\_2Clause](https://directory.fsf.org/wiki/License:BSD_2Clause).
-*   [memento-mori (⭐33)](https://github.com/zkat/memento-mori)-  a library for writing robust, actor-based systems. It draws inspiration from Erlang/OTP, particularly its crash-first approach to high-availability systems, as well as Akka. [MIT](https://opensource.org/licenses/MIT).
+*   [Actors (⭐13)](https://github.com/aarvid/Actors) package for LispWorks ([announce](https://www.reddit.com/r/Common_Lisp/comments/77vsft/david_mcclains_actors_package_for_lispworks/)) [MIT](https://opensource.org/licenses/MIT).
 
 ## [2. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
 
@@ -73,16 +72,8 @@
     ![](https://img.shields.io/github/stars/BlazeSoftware/atoms.svg?style=social\&label=Star)
     [Demo](https://www.blazeui.com/components/buttons/),
     [Docs](https://www.blazeui.com/getting-started/install/),
-    [Repo (⭐1.5k)](https://github.com/BlazeSoftware/atoms)
+    [Repo (⭐1.6k)](https://github.com/BlazeSoftware/atoms)
     \| #SCSS
-
-### Stalled Development
-
-*   [**Base**](https://getbase.org) - Rock solid, responsive HTML/CSS framework.\
-    ![](https://img.shields.io/github/stars/getbase/base.svg?style=social\&label=Star)
-    [Docs (⭐1.3k)](https://github.com/getbase/base/blob/master/readme.md#documentation),
-    [Repo (⭐1.3k)](https://github.com/getbase/base)
-    \| #SCSS #LESS
 
 ## [6. Awesome Esolangs](/content/angrykoala/awesome-esolangs/README.md)
 
@@ -195,21 +186,15 @@ Topics: CSS, CSS in JS, React\
 
 ### Deployment / Code Coverage
 
-*   [Action For Semantic Release (⭐328)](https://github.com/cycjimmy/semantic-release-action)
+*   [Action For Semantic Release (⭐528)](https://github.com/cycjimmy/semantic-release-action)
 
-## [18. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
-
-### Websites and Resources
-
-*   [Wearables Table](https://quantifyme.io/) - Nice crowd-sourced table of wearables.
-
-## [19. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [18. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Static Code Analysis
 
-*   [IKOS (⭐2k)](https://github.com/NASA-SW-VnV/ikos) - Static analyzer for C/C++ based on the theory of Abstract Interpretation. \[NOSA 1.3]
+*   [IKOS (⭐2.9k)](https://github.com/NASA-SW-VnV/ikos) - Static analyzer for C/C++ based on the theory of Abstract Interpretation. \[NOSA 1.3]
 
-## [20. Awesome4girls](/content/cristianoliveira/awesome4girls/README.md)
+## [19. Awesome4girls](/content/cristianoliveira/awesome4girls/README.md)
 
 ### General / UX
 

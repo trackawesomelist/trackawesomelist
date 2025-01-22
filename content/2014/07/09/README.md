@@ -252,14 +252,14 @@
 ### Editors / Runner
 
 *   [ace (⭐27k)](https://github.com/ajaxorg/ace) - Ace (Ajax.org Cloud9 Editor).
-*   [esprima (⭐409)](https://github.com/ariya/esprima) - ECMAScript parsing infrastructure for multipurpose analysis.
-*   [quill (⭐42k)](https://github.com/quilljs/quill) - A cross browser rich text editor with an API.
+*   [esprima (⭐408)](https://github.com/ariya/esprima) - ECMAScript parsing infrastructure for multipurpose analysis.
+*   [quill (⭐43k)](https://github.com/quilljs/quill) - A cross browser rich text editor with an API.
 *   [pen (⭐4.8k)](https://github.com/sofish/pen) - enjoy live editing (+markdown).
 *   [jquery-notebook (⭐1.7k)](https://github.com/raphaelcruzeiro/jquery-notebook) - A simple, clean and elegant text editor. Inspired by the awesomeness of Medium.
-*   [ckeditor-releases (⭐518)](https://github.com/ckeditor/ckeditor-releases) - The best web text editor for everyone.
+*   [ckeditor-releases (⭐519)](https://github.com/ckeditor/ckeditor-releases) - The best web text editor for everyone.
 *   [editor (⭐2.8k)](https://github.com/lepture/editor) - A markdown editor. still on development.
-*   [EpicEditor (⭐4.3k)](https://github.com/OscarGodson/EpicEditor) - An embeddable JavaScript Markdown editor with split fullscreen editing, live previewing, automatic draft saving, offline support, and more.
-*   [jsoneditor (⭐11k)](https://github.com/josdejong/jsoneditor) - A web-based tool to view, edit and format JSON.
+*   [EpicEditor (⭐4.2k)](https://github.com/OscarGodson/EpicEditor) - An embeddable JavaScript Markdown editor with split fullscreen editing, live previewing, automatic draft saving, offline support, and more.
+*   [jsoneditor (⭐12k)](https://github.com/josdejong/jsoneditor) - A web-based tool to view, edit and format JSON.
 
 ### Color / Runner
 

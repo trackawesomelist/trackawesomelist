@@ -10,24 +10,20 @@
 
 ### Software / Communication - Custom Communication Systems
 
-*   [Apprise (⭐11k)](https://github.com/caronc/apprise) - Apprise allows you to send a notification to almost all of the most popular notification services available to us today such as: Telegram, Discord, Slack, Amazon SNS, Gotify, etc. `MIT` `Python/Docker/deb`
+*   [Apprise (⭐12k)](https://github.com/caronc/apprise) - Apprise allows you to send a notification to almost all of the most popular notification services available to us today such as: Telegram, Discord, Slack, Amazon SNS, Gotify, etc. `MIT` `Python/Docker/deb`
 
 ### Software / Communication - Social Networks and Forums
 
-*   [Retrospring (⭐239)](https://github.com/retrospring/retrospring) - A free, open-source social network following the Q/A (question and answer) principle of sites like Formspring, ask.fm or CuriousCat. ([Demo](https://retrospring.net)) `AGPL-3.0` `Ruby/Nodejs`
+*   [Retrospring (⭐271)](https://github.com/retrospring/retrospring) - A free, open-source social network following the Q/A (question and answer) principle of sites like Formspring, ask.fm or CuriousCat. ([Demo](https://retrospring.net)) `AGPL-3.0` `Ruby/Nodejs`
 
 ### Software / Games
 
-*   [0 A.D.](https://play0ad.com/) - A free, open-source game of ancient warfare. ([Source Code (⭐2.7k)](https://github.com/0ad/0ad)) `MIT/GPL-2.0/Zlib` `C++/C/deb`
+*   [0 A.D.](https://play0ad.com/) - A free, open-source game of ancient warfare. ([Source Code](https://gitea.wildfiregames.com/0ad/0ad)) `MIT/GPL-2.0/Zlib` `C++/C/deb`
 *   [Veloren](https://veloren.net/) - Multiplayer RPG. Open-source game inspired by Cube World, Legend of Zelda, Dwarf Fortress and Minecraft. ([Source Code](https://gitlab.com/veloren/veloren)) `GPL-3.0` `Rust`
 
 ### Software / Miscellaneous
 
-*   [Cloudlog](https://magicbug.co.uk/cloudlog/) - Cloudlog is a self-hosted PHP application that allows you to log your amateur radio contacts anywhere. ([Source Code (⭐447)](https://github.com/magicbug/cloudlog)) `MIT` `PHP/Docker`
-
-### Software / Note-taking & Editors
-
-*   [Benotes](https://benotes.org/) - An open source self hosted notes and bookmarks taking web app. ([Source Code (⭐712)](https://github.com/fr0tt/benotes)) `MIT` `PHP/Docker`
+*   [Cloudlog](https://magicbug.co.uk/cloudlog/) - Cloudlog is a self-hosted PHP application that allows you to log your amateur radio contacts anywhere. ([Source Code (⭐475)](https://github.com/magicbug/cloudlog)) `MIT` `PHP/Docker`
 
 ## [2. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
@@ -50,7 +46,7 @@
 
 ## [5. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/README.md)
 
-### Books / Monograph
+### Probabilistic Method / Books
 
 *   [Alon & Spencer. The Probabilistic Method](https://www.wiley.com/en-us/The+Probabilistic+Method%2C+4th+Edition-p-9781119061953) -  A standard reference for researchers in probabilistic methods in combinatorics. Shows also connections to theoretical computer science.
 

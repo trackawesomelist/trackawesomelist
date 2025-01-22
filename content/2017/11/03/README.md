@@ -50,7 +50,7 @@
 
 ### Related projects / Syntax highlighting packages
 
-*   [ArduinoBoy (⭐292)](https://github.com/trash80/Arduinoboy) - Serial communication (MIDI) from an Arduino to the Game Boy for music applications such as LittleSoundDJ, Nanoloop, and mGB.
+*   [ArduinoBoy (⭐321)](https://github.com/trash80/Arduinoboy) - Serial communication (MIDI) from an Arduino to the Game Boy for music applications such as LittleSoundDJ, Nanoloop, and mGB.
 
 ## [6. Awesome Speakers](/content/karlhorky/awesome-speakers/README.md)
 
@@ -159,22 +159,22 @@ To the extent possible under law, [Karl Horky](https://github.com/karlhorky) has
 
 ### JSON
 
-*   [json-c (⭐2.9k)](https://github.com/json-c/json-c) - A JSON implementation in C. \[MIT]
+*   [json-c (⭐3k)](https://github.com/json-c/json-c) - A JSON implementation in C. \[MIT]
 
 ### Logging
 
-*   [glog (⭐7k)](https://github.com/google/glog) - C++ implementation of the Google logging module.
+*   [glog (⭐7.2k)](https://github.com/google/glog) - C++ implementation of the Google logging module.
 
 ### PDF
 
-*   [libharu (⭐1.7k)](https://github.com/libharu/libharu) - A free, cross platform, open-sourced software library for generating PDF. \[zlib]
+*   [libharu (⭐1.8k)](https://github.com/libharu/libharu) - A free, cross platform, open-sourced software library for generating PDF. \[zlib]
 *   [MuPDF](https://mupdf.com/) - A lightweight PDF, XPS, and E-book viewer. \[AGPL/Proprietary]
 
 ## [8. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Dependency Managers
 
-*   [Mint (⭐2.2k)](https://github.com/yonaskolb/Mint) - A package manager that installs and runs Swift command line tools.
+*   [Mint (⭐2.3k)](https://github.com/yonaskolb/Mint) - A package manager that installs and runs Swift command line tools.
 
 ### Key Value Store
 
@@ -182,7 +182,7 @@ To the extent possible under law, [Karl Horky](https://github.com/karlhorky) has
 
 ### Layout / Barcode
 
-*   [FlexLayout (⭐1.9k)](https://github.com/layoutBox/FlexLayout) - Nice and clean interface to the highly optimized Facebook yoga Flexbox implementation.
+*   [FlexLayout (⭐2k)](https://github.com/layoutBox/FlexLayout) - Nice and clean interface to the highly optimized Facebook yoga Flexbox implementation.
 
 ### Auto Layout / Barcode
 
@@ -190,27 +190,27 @@ To the extent possible under law, [Karl Horky](https://github.com/karlhorky) has
 
 ### HTML / Barcode
 
-*   [SwiftSoup (⭐4.4k)](https://github.com/scinfu/SwiftSoup) :penguin: - HTML Parser, with best of DOM, CSS, and jquery.
+*   [SwiftSoup (⭐4.5k)](https://github.com/scinfu/SwiftSoup) :penguin: - HTML Parser, with best of DOM, CSS, and jquery.
 
 ### UI / Barcode
 
 *   [AGCircularPicker (⭐627)](https://github.com/agilie/AGCircularPicker) - Helpful component for creating a controller aimed to manage any calculated parameter.
 *   [KALoader (⭐107)](https://github.com/Kirillzzy/KALoader) - Beautiful animated placeholders for showing loading of data.
-*   [MediaBrowser (⭐648)](https://github.com/younatics/MediaBrowser) - Simple iOS photo and video browser with optional grid view, captions and selections.
+*   [MediaBrowser (⭐650)](https://github.com/younatics/MediaBrowser) - Simple iOS photo and video browser with optional grid view, captions and selections.
 
 ### Payment / Barcode
 
-*   [iCard (⭐341)](https://github.com/eliakorkmaz/iCard) - Bank Card Generator using SnapKit DSL.
+*   [iCard (⭐344)](https://github.com/eliakorkmaz/iCard) - Bank Card Generator using SnapKit DSL.
 
 ### UICollectionView / Barcode
 
-*   [FSPagerView (⭐7.1k)](https://github.com/WenchaoD/FSPagerView) - Elegant Screen Slide Library. It is extremely helpful for making Banner View、Product Show、Welcome/Guide Pages、Screen/ViewController Sliders.
+*   [FSPagerView (⭐7.2k)](https://github.com/WenchaoD/FSPagerView) - Elegant Screen Slide Library. It is extremely helpful for making Banner View、Product Show、Welcome/Guide Pages、Screen/ViewController Sliders.
 *   [GravitySlider (⭐1.1k)](https://github.com/ApplikeySolutions/GravitySlider) - Beautiful alternative to the standard UICollectionView flow layout.
 *   [ShelfView-iOS (⭐268)](https://github.com/tdscientist/ShelfView-iOS) - iOS custom view to display books on shelf.
 
 ### UITableView / Barcode
 
-*   [GridView (⭐853)](https://github.com/KyoheiG3/GridView) - Can be customized as a time table, spreadsheet, paging and more.
+*   [GridView (⭐858)](https://github.com/KyoheiG3/GridView) - Can be customized as a time table, spreadsheet, paging and more.
 *   [ParallaxHeader (⭐1k)](https://github.com/romansorochak/ParallaxHeader) - Simple way to add parallax header to UIScrollView/UITableView.
 
 ### Utility / Barcode

@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 21, 2021
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,7 +16,7 @@
 
 ### Projects Using Seed
 
-*   [Typesync](https://typesync.rutrum.net) - Test your typing speed on song lyrics.  Uses [`Seed`](https://seed-rs.org/), [`Rocket`](https://rocket.rs), and [`Diesel`](https://diesel.rs).
+*   [Typesync](https://typesync.rutrum.net) - Test your typing speed on song lyrics.  Uses `Seed`, [`Rocket`](https://rocket.rs), and [`Diesel`](https://diesel.rs).
 
 ## [3. Awesome Gdpr](/content/bakke92/awesome-gdpr/README.md)
 
@@ -35,7 +35,7 @@
 
 ### Python / Natural Language Processing
 
-*   [DL Translate (⭐424)](https://github.com/xhlulu/dl-translate) - A deep learning-based translation library between 50 languages, built with `transformers`.
+*   [DL Translate (⭐458)](https://github.com/xhlulu/dl-translate) - A deep learning-based translation library between 50 languages, built with `transformers`.
 
 ## [5. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
@@ -70,12 +70,6 @@
 
 *   [The Changelog 218](https://changelog.com/podcast/218) - Elm with Evan Czaplicki and Richard Feldman
 *   [The Changelog 191](https://changelog.com/podcast/191/) - Elm and Functional Programming with Richard Feldman.
-
-## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / Utilities
-
-*   [vue-simple-acl (⭐131)](https://github.com/victorybiz/vue-simple-acl) - A simple unopinionated Vue plugin for managing user roles and permissions, access-control list (ACL) and role-based access control (RBAC).
 
 ---
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 29, 2020
 
-15 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -24,7 +24,7 @@
 
 ### Official
 
-*   [Adapty (⭐361)](https://github.com/adaptyteam/AdaptySDK-iOS) - Integrate in-app subscriptions and a/b testing for them with 3 lines of code.
+*   [Adapty (⭐387)](https://github.com/adaptyteam/AdaptySDK-iOS) - Integrate in-app subscriptions and a/b testing for them with 3 lines of code.
 
 ## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -157,7 +157,7 @@
 
   CORS: Unknown
 
-  Call this API: 
+  : 
 
 
 
@@ -181,14 +181,7 @@
 
 *   [GitHub Topic: xk6](https://github.com/topics/xk6) - Explore k6 extensions tagged with the xk6 label.
 
-## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / Utilities
-
-*   [vesselize (⭐24)](https://github.com/vesselize/vesselize) - ⛵ A JavaScript IoC container that works seamlessly with Vue.js.
-*   [vue-use-local-storage (⭐4)](https://github.com/HJ29/vue-use-local-storage) - A composition api to persist and rehydrate reactive data to local storage for vue 3.
-
-## [13. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)
+## [12. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)
 
 ### Jetpack Compose
 
@@ -248,17 +241,17 @@
 
 
 
-## [14. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
+## [13. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 
 ### Blogs
 
 *   [The Quantum Aviary](https://thequantumaviary.blogspot.com/) - Blog without the hype talking about developments in quantum hardware.
 
-## [15. Awesome Tikz](/content/xiaohanyu/awesome-tikz/README.md)
+## [14. Awesome Tikz](/content/xiaohanyu/awesome-tikz/README.md)
 
 ### Tools / PGFPlots
 
-*   [quiver (⭐2k)](https://github.com/varkor/quiver) - A commutative diagram editor that exports to tikz-cd.
+*   [quiver (⭐2.4k)](https://github.com/varkor/quiver) - A commutative diagram editor that exports to tikz-cd.
 
 ---
 

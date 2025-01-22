@@ -48,7 +48,7 @@
 
 ### HTML Widgets
 
-*   [scatterD3 (⭐157)](https://github.com/juba/scatterD3) - Interactive scatterplots with D3.
+*   [scatterD3 (⭐160)](https://github.com/juba/scatterD3) - Interactive scatterplots with D3.
 
 ## [7. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

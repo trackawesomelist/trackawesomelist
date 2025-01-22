@@ -10,7 +10,7 @@
 
 ### Tools / Python
 
-*   [behave-webdriver (⭐52)](https://github.com/spyoungtech/behave-webdriver) behavior driven testing with Selenium and Python.
+*   [behave-webdriver (⭐62)](https://github.com/spyoungtech/behave-webdriver) behavior driven testing with Selenium and Python.
 
 ## [2. Awesome Indie](/content/mezod/awesome-indie/week/README.md)
 
@@ -27,7 +27,7 @@
 
 ### Tools / Static Analysis Tools
 
-*   [Androwarn (⭐473)](https://github.com/maaaaz/androwarn/) - detect and warn the user about potential malicious behaviors developed by an Android application.
+*   [Androwarn (⭐488)](https://github.com/maaaaz/androwarn/) - detect and warn the user about potential malicious behaviors developed by an Android application.
 
 ### Tools / Dynamic Analysis Tools
 
@@ -40,7 +40,7 @@
 
 ### Academic/Research/Publications/Books / Others
 
-*   [OWASP Mobile Security Testing Guide Manual (⭐11k)](https://github.com/OWASP/owasp-mstg)
+*   [OWASP Mobile Security Testing Guide Manual (⭐12k)](https://github.com/OWASP/owasp-mstg)
 
 ## [4. Awesome Gif](/content/davisonio/awesome-gif/week/README.md)
 
@@ -116,7 +116,13 @@
 
 *   [Git Hooks Part 1 - Getting Started](https://www.youtube.com/watch?v=aB3eq52sZSU)
 
-## [10. Awesome Computational Neuroscience](/content/eselkin/awesome-computational-neuroscience/week/README.md)
+## [10. Awesome Seed Rs](/content/seed-rs/awesome-seed-rs/week/README.md)
+
+### Projects Using Seed
+
+*   [AdEx Explorer (⭐3)](https://github.com/adexnetwork/adex-explorer) - Shows curated information about the payment channel network of the AdEx advertising protocol.
+
+## [11. Awesome Computational Neuroscience](/content/eselkin/awesome-computational-neuroscience/week/README.md)
 
 ### INI
 
@@ -248,21 +254,11 @@
 *   [Brain + Cognitive Sciences, GRE Institution(3514),](https://bcs.mit.edu/academic-program/graduate/graduate-admissions)
 *   [Center for Brains, Minds and Machines](https://cbmm.mit.edu/about)
 
-## [11. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
+## [12. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
-### Tools and frameworks
+### Tools and frameworks (a-z↓)
 
 *   [qd\_screenshottests](https://www.drupal.org/project/qd_screenshottests) - CasperJS-based UI regression and functional testing focused on Drupal 8 sites.
-
-## [12. Awesome Seed Rs](/content/seed-rs/awesome-seed-rs/week/README.md)
-
-### Official Resources
-
-*   [Homepage](https://seed-rs.org/)
-
-### Projects Using Seed
-
-*   [AdEx Explorer (⭐3)](https://github.com/adexnetwork/adex-explorer) - Shows curated information about the payment channel network of the AdEx advertising protocol.
 
 ## [13. Awesome Blockchain Ai](/content/steven2358/awesome-blockchain-ai/week/README.md)
 
@@ -284,17 +280,17 @@
 
 ### Boilerplates / Themes
 
-*   [The Green Meal (⭐84)](https://github.com/VincentCordobes/the-green-meal) - Next.js, PostgreSQL demo app written in TypeScript.
+*   [The Green Meal (⭐83)](https://github.com/VincentCordobes/the-green-meal) - Next.js, PostgreSQL demo app written in TypeScript.
 
 ## [16. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / HTTP
 
-*   [Symfony HTTP Client (⭐1.9k)](https://github.com/symfony/http-client) - A component to fetch HTTP resources synchronously or asynchronously.
+*   [Symfony HTTP Client (⭐2k)](https://github.com/symfony/http-client) - A component to fetch HTTP resources synchronously or asynchronously.
 
 ### Table of Contents / Scraping
 
-*   [Symfony Panther (⭐2.9k)](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony.
+*   [Symfony Panther (⭐3k)](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony.
 
 ### Table of Contents / Debugging and Profiling
 
@@ -302,7 +298,7 @@
 
 ### Table of Contents / Event
 
-*   [Swoole (⭐18k)](https://github.com/swoole/swoole-src) - An event-driven asynchronous and concurrent networking communication framework with high performance for PHP written in C.
+*   [Swoole (⭐19k)](https://github.com/swoole/swoole-src) - An event-driven asynchronous and concurrent networking communication framework with high performance for PHP written in C.
 *   [Workerman (⭐11k)](https://github.com/walkor/Workerman) - An event driven non-blocking I/O library.
 
 ### Table of Contents / Office
@@ -316,7 +312,7 @@
 ### Configuration / Serverless
 
 *   [PHP Dotenv (⭐13k)](https://github.com/vlucas/phpdotenv) - Parse and load environment variables from `.env` files.
-*   [Symfony Dotenv (⭐3.7k)](https://github.com/symfony/dotenv)- Parse and load environment variables from `.env` files.
+*   [Symfony Dotenv (⭐3.8k)](https://github.com/symfony/dotenv)- Parse and load environment variables from `.env` files.
 
 ### Configuration / Virtual Machines
 
@@ -364,7 +360,7 @@
 
 ## [18. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
-### Courses
+### Courses / Commerical Tools
 
 *   [MIT: Intro to Deep Learning](https://introtodeeplearning.com) - A seven-day bootcamp designed in MIT to introduce deep learning methods and applications
 *   [Deep Blueberry: Deep Learning book](https://mithi.github.io/deep-blueberry) - A free five-weekend plan for self-learners to learn the basics of deep-learning architectures like CNNs, LSTMs, RNNs, VAEs, GANs, DQN, A3C and more
@@ -372,11 +368,11 @@
 *   [Real-World Natural Language Processing](https://www.manning.com/books/real-world-natural-language-processing) - Early access book on how to create practical NLP applications using Python.
 *   [Grokking Machine Learning](https://www.manning.com/books/grokking-machine-learning) - Early access book that introduces the most valuable machine learning techniques.
 
-### Books
+### Books / Commerical Tools
 
 *   [Machine Learning for Mortals (Mere and Otherwise)](https://www.manning.com/books/machine-learning-for-mortals-mere-and-otherwise) - Early access book that provides basics of machine learning and using R programming language.
 
-### Journals
+### Journals / Commerical Tools
 
 *   [AI Communications](http://iospress.metapress.com/openurl.asp?genre=journal\&issn=0921-7126)
 *   [AI Magazine](http://www.aaai.org/Magazine/magazine.php)
@@ -393,7 +389,7 @@
 
 ### Cloud
 
-*   [humidifier (⭐57)](https://github.com/kddeisz/humidifier) - Programmatically generate and manage AWS CloudFormation templates, stacks, and change sets.
+*   [humidifier (⭐58)](https://github.com/kddeisz/humidifier) - Programmatically generate and manage AWS CloudFormation templates, stacks, and change sets.
 
 ### CMS
 
@@ -405,11 +401,11 @@
 
 ### Data Visualization
 
-*   [ApexCharts.rb (⭐480)](https://github.com/styd/apexcharts.rb) - Awesome charts for your ruby app. Works on any ruby app, including Rails app. It even works on plain HTML+ERB files.
+*   [ApexCharts.rb (⭐483)](https://github.com/styd/apexcharts.rb) - Awesome charts for your ruby app. Works on any ruby app, including Rails app. It even works on plain HTML+ERB files.
 
 ### Web Servers
 
-*   [Agoo (⭐901)](https://github.com/ohler55/agoo) - A high performance HTTP server for Ruby that includes GraphQL and WebSocket support.
+*   [Agoo (⭐912)](https://github.com/ohler55/agoo) - A high performance HTTP server for Ruby that includes GraphQL and WebSocket support.
 
 ## [20. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 
@@ -421,7 +417,7 @@
 
 ### Developer Tools / Command Line Tools
 
-*   [kitty (⭐24k)](https://github.com/kovidgoyal/kitty) - A cross-platform, fast, feature full, GPU based terminal emulator. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/kovidgoyal/kitty) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [kitty (⭐26k)](https://github.com/kovidgoyal/kitty) - A cross-platform, fast, feature full, GPU based terminal emulator. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/kovidgoyal/kitty) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Design and Product / Design Tools
 
@@ -429,7 +425,7 @@
 
 ### Utilities / Menu Bar Tools
 
-*   [Dozer (⭐8.1k)](https://github.com/Mortennn/Dozer) - Hide MacOS menubar items. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/Mortennn/Dozer)
+*   [Dozer (⭐8.3k)](https://github.com/Mortennn/Dozer) - Hide MacOS menubar items. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/Mortennn/Dozer)
 
 ### Utilities / File Organization Tools
 
@@ -443,7 +439,7 @@
 
 ### Testing / Scala
 
-*   [Hoverfly (⭐2.3k)](https://github.com/spectolabs/hoverfly) - Lightweight service virtualization/API simulation tool for developers and testers.
+*   [Hoverfly (⭐2.4k)](https://github.com/spectolabs/hoverfly) - Lightweight service virtualization/API simulation tool for developers and testers.
 
 ## [23. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
@@ -482,17 +478,12 @@
 ### Tutorials
 
 *   [Interactive Visualization of Machine Learning and Computer Vision with Dash](https://www.youtube.com/watch?v=3F5AR-uUqJc) - Official introduction video.
-*   [Webinar: Converting React components to Dash components](https://www.youtube.com/watch?v=wifoPPRgG_I) - Official tutorial about how to convert React components to Dash components using the Dash Component Boilerplate cookiecutter template.
+*   [Webinar: Converting React components to Dash components](https://www.youtube.com/watch?v=wifoPPRgG_I) - Official tutorial about how to convert React components to Dash components.
 
 ### Component Libraries
 
-*   [Dash Bio Components](https://dash.plot.ly/dash-bio) - Suite of bioinformatics components that make it simpler to analyze and visualize bioinformatics data and interact with them in a Dash application.
-*   [Dash Canvas Components](https://dash.plot.ly/canvas) - Module for image annotation and image processing using Dash.
-*   [Awesome React Components (⭐34k)](https://github.com/brillout/awesome-react-components) - Catalog of React.js components potentially interesting to be wrapped into Dash components.
-*   [Awesome React (⭐53k)](https://github.com/enaqx/awesome-react) - Helpful resources for developing React.js components.
-*   [Dash Cytoscape Component](https://dash.plot.ly/cytoscape) - Graph visualization component for creating easily customizable, high-performance, interactive, and web-based networks.
-*   [Dash DataTable Component](https://dash.plot.ly/datatable) - Interactive table that supports rich styling, conditional formatting, editing, sorting, filtering, and more.
-*   [Dash DAQ Components](https://dash.plot.ly/dash-daq) - Set of controls that make it simpler to integrate data acquisition and controls into your Dash applications.
+*   [Awesome React Components (⭐43k)](https://github.com/brillout/awesome-react-components) - Catalog of React.js components potentially interesting to be wrapped into Dash components.
+*   [Awesome React (⭐66k)](https://github.com/enaqx/awesome-react) - Helpful resources for developing React.js components.
 
 ## [26. Awesome React](/content/enaqx/awesome-react/week/README.md)
 
@@ -524,8 +515,8 @@
 *   [WireEdit](https://wireedit.com/) - Full stack WYSIWYG pcap editor (requires a free license to edit packets).
 *   [bittwist](http://bittwist.sourceforge.net/) - Simple yet powerful libpcap-based Ethernet packet generator useful in simulating networking traffic or scenario, testing firewall, IDS, and IPS, and troubleshooting various network problems.
 *   [hping3 (⭐1.4k)](https://github.com/antirez/hping) - Network tool able to send custom TCP/IP packets.
-*   [pig (⭐460)](https://github.com/rafael-santiago/pig) - GNU/Linux packet crafting tool.
-*   [scapy (⭐10k)](https://github.com/secdev/scapy) - Python-based interactive packet manipulation program and library.
+*   [pig (⭐462)](https://github.com/rafael-santiago/pig) - GNU/Linux packet crafting tool.
+*   [scapy (⭐11k)](https://github.com/secdev/scapy) - Python-based interactive packet manipulation program and library.
 *   [tcpreplay](https://tcpreplay.appneta.com/) - Suite of free Open Source utilities for editing and replaying previously captured network traffic.
 
 ### Vulnerability Databases / Social Engineering Tools
@@ -605,26 +596,26 @@
 
 ### Tools / Ansible
 
-*   [bashdot (⭐99)](https://github.com/bashdot/bashdot) - Minimalist dotfile management framework written entirely in bash.
-*   [chezmoi (⭐12k)](https://github.com/twpayne/chezmoi) - Manage your dotfiles securely across multiple machines.
-*   [dotbot (⭐6.8k)](https://github.com/anishathalye/dotbot) - Tool that bootstraps your dotfiles.
-*   [dotdrop (⭐1.7k)](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere.
-*   [Fisher (⭐7.4k)](https://github.com/jorgebucaran/fisher) - A package manager for Fish.
-*   [homeshick (⭐2k)](https://github.com/andsens/homeshick) - Git dotfile synchronizer written in Bash.
-*   [mackup (⭐14k)](https://github.com/lra/mackup) - Keep your application settings in sync (macOS/Linux).
+*   [bashdot (⭐104)](https://github.com/bashdot/bashdot) - Minimalist dotfile management framework written entirely in bash.
+*   [chezmoi (⭐13k)](https://github.com/twpayne/chezmoi) - Manage your dotfiles securely across multiple machines.
+*   [dotbot (⭐7.1k)](https://github.com/anishathalye/dotbot) - Tool that bootstraps your dotfiles.
+*   [dotdrop (⭐1.8k)](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere.
+*   [Fisher (⭐7.8k)](https://github.com/jorgebucaran/fisher) - A package manager for Fish.
+*   [homeshick (⭐2.1k)](https://github.com/andsens/homeshick) - Git dotfile synchronizer written in Bash.
+*   [mackup (⭐15k)](https://github.com/lra/mackup) - Keep your application settings in sync (macOS/Linux).
 
 ### Tools / macOS
 
-*   [dockutil (⭐1.3k)](https://github.com/kcrawford/dockutil) - Command line tool for managing dock items.
+*   [dockutil (⭐1.4k)](https://github.com/kcrawford/dockutil) - Command line tool for managing dock items.
 *   [mas (⭐11k)](https://github.com/mas-cli/mas) - Mac App Store command line interface.
 
 ### Archive/abandoned projects / macOS
 
 *   [Bashstrap (⭐1.6k)](https://github.com/barryclark/bashstrap)
-*   [battleschool (⭐417)](https://github.com/spencergibb/battleschool)
-*   [Eduardo's dotfiles (⭐423)](https://github.com/eduardolundgren/dotfiles)
-*   [Kevin's dotfiles (⭐138)](https://github.com/kdeldycke/dotfiles)
-*   [kody (⭐137)](https://github.com/jh3y/kody)
+*   [battleschool (⭐418)](https://github.com/spencergibb/battleschool)
+*   [Eduardo's dotfiles (⭐422)](https://github.com/eduardolundgren/dotfiles)
+*   [Kevin's dotfiles (⭐143)](https://github.com/kdeldycke/dotfiles)
+*   [kody (⭐139)](https://github.com/jh3y/kody)
 *   [osxc](http://osxc.github.io)
 
 ## [35. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
@@ -669,7 +660,7 @@
 ### Artificial Intelligence
 
 *   [Game Data Mining Competition](https://cilab.sejong.ac.kr/gdmc2017/) - Competition of prediction of the players' behavior. [Paper](https://arxiv.org/abs/1802.02301).
-*   [Morai-Maker-Engine (⭐16)](https://github.com/mguzdial3/Morai-Maker-Engine) - Cooperative game level editor. [Paper](http://dx.doi.org/10.1145/3290605.3300854).
+*   [Morai-Maker-Engine (⭐19)](https://github.com/mguzdial3/Morai-Maker-Engine) - Cooperative game level editor. [Paper](http://dx.doi.org/10.1145/3290605.3300854).
 
 ## [39. Awesome CoreML Models](/content/likedan/Awesome-CoreML-Models/week/README.md)
 
@@ -706,7 +697,7 @@
 
 ### Auth / Image Picker
 
-*   [Apple Sign-In (⭐159)](https://github.com/tomgilder/flutter_apple_sign_in) <!--stargazers:tomgilder/flutter_apple_sign_in--> - Apple sign in by [Tom Gilder](https://github.com/tomgilder)
+*   [Apple Sign-In (⭐160)](https://github.com/tomgilder/flutter_apple_sign_in) <!--stargazers:tomgilder/flutter_apple_sign_in--> - Apple sign in by [Tom Gilder](https://github.com/tomgilder)
 
 ### Communication / Game Engine resources
 
@@ -740,22 +731,22 @@
 
 ### Tools & Utilities / Others
 
-*   [Blazor Analytics (⭐143)](https://github.com/isc30/blazor-analytics) - Blazor extensions for Analytics.
+*   [Blazor Analytics (⭐148)](https://github.com/isc30/blazor-analytics) - Blazor extensions for Analytics.
 *   [BlazorPrettyCode (⭐36)](https://github.com/chanan/BlazorPrettyCode) - Blazor Code Component for documentation sites. [Demo](https://chanan.github.io/BlazorPrettyCode/).
-*   [Blazor.EventAggregator (⭐118)](https://github.com/mikoskinen/Blazor.EventAggregator) - Lightweight Event Aggregator for Blazor (Razor Components).
+*   [Blazor.EventAggregator (⭐120)](https://github.com/mikoskinen/Blazor.EventAggregator) - Lightweight Event Aggregator for Blazor (Razor Components).
 *   [Blazor Gamepad (⭐30)](https://github.com/jsakamoto/Toolbelt.Blazor.Gamepad) - Provides gamepad API access for Blazor.
-*   [Blazor.LocalFiles (⭐49)](https://github.com/jburman/W8lessLabs.Blazor.LocalFiles) - Open files in your browser and load into Blazor.
+*   [Blazor.LocalFiles (⭐50)](https://github.com/jburman/W8lessLabs.Blazor.LocalFiles) - Open files in your browser and load into Blazor.
 *   [Blazor BarCode](https://barcoderesource.com/blazorbarcode.shtml) – A barcode library for Blazor using barcode fonts.
 
 ## [44. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Development / Database
 
-*   [sqlline (⭐606)](https://github.com/julianhyde/sqlline) -  Shell for issuing SQL via JDBC.
+*   [sqlline (⭐620)](https://github.com/julianhyde/sqlline) -  Shell for issuing SQL via JDBC.
 
 ### Files and Directories / File Managers
 
-*   [lf (⭐7.2k)](https://github.com/gokcehan/lf) - Fast, extensively customizable file manager.
+*   [lf (⭐7.8k)](https://github.com/gokcehan/lf) - Fast, extensively customizable file manager.
 
 ## [45. Awesome Devenv](/content/jondot/awesome-devenv/week/README.md)
 
@@ -792,14 +783,14 @@
 
 ### Table of Contents / Data Pipeline
 
-*   [brooklin (⭐909)](https://github.com/linkedin/Brooklin/) \[Java] - a distributed system intended for streaming data between various heterogeneous source and destination systems with high reliability and throughput at scale from Linkedin (replaced databus).
+*   [brooklin (⭐932)](https://github.com/linkedin/Brooklin/) \[Java] - a distributed system intended for streaming data between various heterogeneous source and destination systems with high reliability and throughput at scale from Linkedin (replaced databus).
 
 ### Table of Contents / Online Machine Learning
 
-*   [streamDM (⭐490)](https://github.com/huawei-noah/streamDM) \[Scala] - mining Big Data streams using Spark Streaming from Huawei.
+*   [streamDM (⭐492)](https://github.com/huawei-noah/streamDM) \[Scala] - mining Big Data streams using Spark Streaming from Huawei.
 *   [StormCV (⭐167)](https://github.com/sensorstorm/StormCV) \[Java] - enables the use of Apache Storm for video processing by adding computer vision (CV) specific operations and data model.
 *   [trident-ml (⭐381)](https://github.com/pmerienne/trident-ml) \[Java] - realtime online machine learning library based on Trident.
-*   [yurita (⭐106)](https://github.com/paypal/yurita) \[Scala] - Anomaly detection framework built on Spark Structured Streaming from Paypal.
+*   [yurita (⭐107)](https://github.com/paypal/yurita) \[Scala] - Anomaly detection framework built on Spark Structured Streaming from Paypal.
 
 ## [50. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
@@ -817,15 +808,15 @@
 ### Inspired by Elm / Games
 
 *   [Elchemy (⭐1.1k)](https://github.com/wende/elchemy) - Write Elixir code using statically-typed Elm-like syntax
-*   [Elmish (⭐825)](https://github.com/elmish/elmish) - Elm-like abstractions for F# apps
-*   [Fabulous (⭐1.1k)](https://github.com/fsprojects/Fabulous) - F# Functional App Development, using declarative dynamic UI
+*   [Elmish (⭐850)](https://github.com/elmish/elmish) - Elm-like abstractions for F# apps
+*   [Fabulous (⭐1.2k)](https://github.com/fsprojects/Fabulous) - F# Functional App Development, using declarative dynamic UI
 *   [Redux](https://redux.js.org/introduction/prior-art) - A predictable state container for JavaScript apps.
 
 ### Beyond the DOM / Games
 
-*   [iOS (⭐159)](https://github.com/pzp1997/elm-ios) A POC for using Elm 0.18 for native iOS Applications
-*   [elmish-wasm (⭐18)](https://github.com/Chadtech/elmish-wasm) A POC for compiling elm to Web Assembly
-*   [elm-serverless (⭐169)](https://github.com/ktonon/elm-serverless) Run Elm 0.18 on Cloud Functions using the Serverless Frameworks
+*   [iOS (⭐160)](https://github.com/pzp1997/elm-ios) A POC for using Elm 0.18 for native iOS Applications
+*   [elmish-wasm (⭐17)](https://github.com/Chadtech/elmish-wasm) A POC for compiling elm to Web Assembly
+*   [elm-serverless (⭐166)](https://github.com/ktonon/elm-serverless) Run Elm 0.18 on Cloud Functions using the Serverless Frameworks
 
 ## [51. Awesome Vapor](/content/vapor-community/awesome-vapor/week/README.md)
 

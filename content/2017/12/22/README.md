@@ -20,7 +20,7 @@
 
 ### UI / Barcode
 
-*   [CountryPickerView (⭐498)](https://github.com/kizitonwose/CountryPickerView) - A simple, customizable view for efficiently collecting country information in iOS apps.
+*   [CountryPickerView (⭐505)](https://github.com/kizitonwose/CountryPickerView) - A simple, customizable view for efficiently collecting country information in iOS apps.
 
 ## [3. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
 
@@ -33,11 +33,11 @@
 
 ### Optimization / Others
 
-*   [Bayesian Optimization (⭐7.5k)](https://github.com/fmfn/BayesianOptimization) - A Python implementation of global optimization with gaussian processes.
+*   [Bayesian Optimization (⭐7.8k)](https://github.com/fmfn/BayesianOptimization) - A Python implementation of global optimization with gaussian processes.
 
 ### Statistics / NLP
 
-*   [stockstats (⭐1.2k)](https://github.com/jealous/stockstats) - Supply a wrapper `StockDataFrame` based on the `pandas.DataFrame` with inline stock statistics/indicators support.
+*   [stockstats (⭐1.3k)](https://github.com/jealous/stockstats) - Supply a wrapper `StockDataFrame` based on the `pandas.DataFrame` with inline stock statistics/indicators support.
 
 ## [5. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
 

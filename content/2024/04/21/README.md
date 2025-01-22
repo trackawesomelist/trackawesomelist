@@ -30,19 +30,19 @@
 
 ### Chart
 
-*   [Charts (⭐27k)](https://github.com/ChartsOrg/Charts) - Beautiful charts for iOS/tvOS/OSX (port of MPAndroidChart).
+*   [Charts (⭐28k)](https://github.com/ChartsOrg/Charts) - Beautiful charts for iOS/tvOS/OSX (port of MPAndroidChart).
 
 ### Files
 
-*   [ExtendedAttributes (⭐40)](https://github.com/sindresorhus/ExtendedAttributes) - Manage extended attributes for files and folders.
+*   [ExtendedAttributes (⭐41)](https://github.com/sindresorhus/ExtendedAttributes) - Manage extended attributes for files and folders.
 
 ### Alert / Barcode
 
-*   [CFNotify (⭐500)](https://github.com/JT501/SwiftNotify) - A customizable framework to create draggable alert views.
+*   [CFNotify (⭐501)](https://github.com/JT501/SwiftNotify) - A customizable framework to create draggable alert views.
 
 ### Tab / Barcode
 
-*   [SwiftUIMaterialTabs (⭐32)](https://github.com/SwiftKickMobile/SwiftUIMaterialTabs) - Material 3-style tabs and Sticky Headers rolled into one SwiftUI library
+*   [SwiftUIMaterialTabs (⭐57)](https://github.com/SwiftKickMobile/SwiftUIMaterialTabs) - Material 3-style tabs and Sticky Headers rolled into one SwiftUI library
 
 ## [5. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 

@@ -22,15 +22,15 @@
 
 ### Development Projects / Bots
 
-*   [Poketrainer (⭐123)](https://github.com/j-e-k/poketrainer) - A fast and feature filled bot in Python.
+*   [Poketrainer (⭐120)](https://github.com/j-e-k/poketrainer) - A fast and feature filled bot in Python.
 
 ### Development Projects / Miscellaneous
 
-*   [pogo-optimizer (⭐507)](https://github.com/justinleewells/pogo-optimizer) - Shows you the IVs and information necessary to determine which Pokémon get ground into candy.
+*   [pogo-optimizer (⭐502)](https://github.com/justinleewells/pogo-optimizer) - Shows you the IVs and information necessary to determine which Pokémon get ground into candy.
 
 ### Resources & Others / Maps
 
-*   [PokemonGo-Map (⭐7.6k)](https://github.com/AHAAAAAAA/PokemonGo-Map) - Live visualization of all the Pokémon in your area and more.
+*   [PokemonGo-Map (⭐7.5k)](https://github.com/AHAAAAAAA/PokemonGo-Map) - Live visualization of all the Pokémon in your area and more.
 *   [PokemonGo-DesktopMap (⭐1.8k)](https://github.com/mchristopher/PokemonGo-DesktopMap) - Electron app for Pokémon GO that shows Pokémon nearby.
 
 ### Resources & Others / Tips & Tricks

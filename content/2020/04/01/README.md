@@ -44,19 +44,19 @@
 
 ### Core Data
 
-*   [CloudCore (⭐154)](https://github.com/deeje/CloudCore) - Robust CloudKit synchronization: offline editing, relationships, shared and public databases, field-level deltas, and more.
+*   [CloudCore (⭐158)](https://github.com/deeje/CloudCore) - Robust CloudKit synchronization: offline editing, relationships, shared and public databases, field-level deltas, and more.
 
 ## [3. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Core Data
 
-*   [CloudCore (⭐151)](https://github.com/deeje/CloudCore/) - Robust CloudKit synchronization: offline editing, relationships, shared and public databases, and more.
+*   [CloudCore (⭐157)](https://github.com/deeje/CloudCore/) - Robust CloudKit synchronization: offline editing, relationships, shared and public databases, and more.
 
 ## [4. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
 ### Utility / Environments
 
-*   [Create a JSON Environment File (⭐12)](https://github.com/schdck/create-env-json)
+*   [Create a JSON Environment File (⭐15)](https://github.com/schdck/create-env-json)
 
 ## [5. Awesome Food](/content/jzarca01/awesome-food/README.md)
 
@@ -120,11 +120,11 @@
 
 ### Go / General-Purpose Machine Learning
 
-*   [goro (⭐370)](https://github.com/aunum/goro) - A high-level machine learning library in the vein of Keras.
+*   [goro (⭐373)](https://github.com/aunum/goro) - A high-level machine learning library in the vein of Keras.
 
 ### Go / Reinforcement learning
 
-*   [gold (⭐340)](https://github.com/aunum/gold) - A reinforcement learning library.
+*   [gold (⭐345)](https://github.com/aunum/gold) - A reinforcement learning library.
 
 ---
 

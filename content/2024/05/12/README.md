@@ -22,14 +22,14 @@
 
 ### Exercises / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [angular-fundamental-lessons (⭐63)](https://github.com/MarkTechson/angular-fundamentals-lessons)
+*   [angular-fundamental-lessons (⭐83)](https://github.com/MarkTechson/angular-fundamentals-lessons)
 *   [Angular Challenges](https://angular-challenges.vercel.app/) - This repository gathers 50+ challenges related to Angular, Nx, RxJS, NgRx, and Typescript. These challenges revolve around real-life issues or specific features to elevate your skills.
 *   [Codelabs](https://codelabs.developers.google.com/?text=angular) - Google Developers Codelabs provide a guided, tutorial, hands-on coding experience. Most codelabs will step you through the process of building a small application, or adding a new feature to an existing application.
 *   [rxjs-fruits](https://www.rxjs-fruits.com/subscribe) - Interactive lessons covering a range of operators in RxJS.
 
 ### DOM / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-dynamic-hooks (⭐111)](https://github.com/MTobisch/ngx-dynamic-hooks) - Automatically insert live Angular components into dynamic strings (based on their selector or any pattern of your choice) and render the result in the DOM.
+*   [ngx-dynamic-hooks (⭐117)](https://github.com/MTobisch/ngx-dynamic-hooks) - Automatically insert live Angular components into dynamic strings (based on their selector or any pattern of your choice) and render the result in the DOM.
 *   [safe-pipe (⭐18)](https://github.com/embarq/safe-pipe) - Angular pipe for sanitizing your unsafe content.
 
 ### Tooltips / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
@@ -38,10 +38,10 @@
 
 ### Misc Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-device-detector (⭐516)](https://github.com/AhsanAyaz/ngx-device-detector) - An Angular v7+ library to detect the device, OS, and browser details.
-*   [ngx-feature-toggle (⭐99)](https://github.com/willmendesneto/ngx-feature-toggle) - Your module to handle with feature toggles in Angular applications easier.
+*   [ngx-device-detector (⭐527)](https://github.com/AhsanAyaz/ngx-device-detector) - An Angular v7+ library to detect the device, OS, and browser details.
+*   [ngx-feature-toggle (⭐98)](https://github.com/willmendesneto/ngx-feature-toggle) - Your module to handle with feature toggles in Angular applications easier.
 *   [runtime-config-loader (⭐35)](https://github.com/pjlamb12/runtime-config-loader) - This is an Angular library that provides an easy way to load a configuration JSON file for runtime configuration.
-*   [ng-polymorpheus (⭐381)](https://github.com/taiga-family/ng-polymorpheus) - Polymorpheus is a tiny library for polymorphic templates in Angular.
+*   [ng-polymorpheus (⭐392)](https://github.com/taiga-family/ng-polymorpheus) - Polymorpheus is a tiny library for polymorphic templates in Angular.
 
 ---
 

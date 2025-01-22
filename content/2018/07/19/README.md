@@ -37,11 +37,11 @@
 
 ### UI / Material Design
 
-*   [Unicorn Speed Dial (⭐347)](https://github.com/tiagojencmartins/unicornspeeddial) <!--stargazers:tiagojencmartins/unicornspeeddial--> - Floating Action Button with Speed Dial by [Tiago Martins](https://github.com/tiagojencmartins)
+*   [Unicorn Speed Dial (⭐344)](https://github.com/tiagojencmartins/unicornspeeddial) <!--stargazers:tiagojencmartins/unicornspeeddial--> - Floating Action Button with Speed Dial by [Tiago Martins](https://github.com/tiagojencmartins)
 
 ### Image / Backend-Driven
 
-*   [Cached Network Image (⭐2.4k)](https://github.com/renefloor/flutter_cached_network_image) <!--stargazers:renefloor/flutter_cached_network_image--> - Show images from the internet and keep them in the cache directory by
+*   [Cached Network Image (⭐2.5k)](https://github.com/renefloor/flutter_cached_network_image) <!--stargazers:renefloor/flutter_cached_network_image--> - Show images from the internet and keep them in the cache directory by
 
 ### Storage / Voice
 
@@ -49,16 +49,16 @@
 
 ### Device / Augmented Reality
 
-*   [Badger (⭐306)](https://github.com/g123k/flutter_app_badger) <!--stargazers:g123k/flutter_app_badger--> - Update app badge on the launcher by [Edouard Marquez](https://twitter.com/g123k)
+*   [Badger (⭐307)](https://github.com/g123k/flutter_app_badger) <!--stargazers:g123k/flutter_app_badger--> - Update app badge on the launcher by [Edouard Marquez](https://twitter.com/g123k)
 
 ### State management / Redux / ELM / Dependency Injection
 
-*   [Redux (⭐1.6k)](https://github.com/brianegan/flutter_redux) <!--stargazers:brianegan/flutter_redux--> - Built to work with [redux.dart (⭐513)](https://github.com/johnpryan/redux.dart), utilities that allow you to easily consume a Redux Store to build Widgets
+*   [Redux (⭐1.7k)](https://github.com/brianegan/flutter_redux) <!--stargazers:brianegan/flutter_redux--> - Built to work with [redux.dart (⭐519)](https://github.com/johnpryan/redux.dart), utilities that allow you to easily consume a Redux Store to build Widgets
 
 ### Top / Game Engine resources
 
 *   [WhatTodo (⭐1.2k)](https://github.com/burhanrashid52/WhatTodo) <!--stargazers:burhanrashid52/WhatTodo--> - Todoist like UI by [Burhanuddin Rashid](https://about.me/burhanrashid52)
-*   [BookSearch (⭐539)](https://github.com/Norbert515/BookSearch) <!--stargazers:Norbert515/BookSearch--> - Digital BookShelf for your reading progress by [Norbert515](https://github.com/Norbert515)
+*   [BookSearch (⭐544)](https://github.com/Norbert515/BookSearch) <!--stargazers:Norbert515/BookSearch--> - Digital BookShelf for your reading progress by [Norbert515](https://github.com/Norbert515)
 
 ## [5. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
 
@@ -87,11 +87,7 @@
 
 ### Compilers, Transpilers and Languages
 
-*   [PeachPie (⭐2.3k)](https://github.com/peachpiecompiler/peachpie) - PeachPie is a PHP compiler and runtime for .NET and .NET Core, which allows entire PHP applications to run on the modern, secure and performant .NET and .NET Core platforms.
-
-### Web Frameworks
-
-*   [Coalesce](https://coalesce.intellitect.com/) - Coalesce is a framework for rapid-development of ASP.NET Core web applications.
+*   [PeachPie (⭐2.4k)](https://github.com/peachpiecompiler/peachpie) - PeachPie is a PHP compiler and runtime for .NET and .NET Core, which allows entire PHP applications to run on the modern, secure and performant .NET and .NET Core platforms.
 
 ## [7. Awesome Android](/content/JStumpp/awesome-android/README.md)
 

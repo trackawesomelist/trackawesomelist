@@ -16,13 +16,13 @@
 
 ### WordPress / Community
 
-*   [wordpress-vite-assets (⭐128)](https://github.com/idleberg/php-wordpress-vite-assets) - Integration for WordPress themes.
+*   [wordpress-vite-assets (⭐136)](https://github.com/idleberg/php-wordpress-vite-assets) - Integration for WordPress themes.
 
 ## [3. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
 ### GTFS Realtime Utilities / Ruby
 
-*   [Concentrate (⭐26)](https://github.com/mbta/concentrate) - Combines realtime transit information from multiple sources into single output files. Maintained by [
+*   [Concentrate (⭐28)](https://github.com/mbta/concentrate) - Combines realtime transit information from multiple sources into single output files. Maintained by [
     Massachusetts Bay Transportation Authority (MBTA)](https://github.com/mbta).
 
 ## [4. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
@@ -51,22 +51,24 @@
 *   Chemical Protein Interaction
     *   [STITCH](http://stitch.embl.de/) - A database of Chemical Protein Interaction.
     *   [BindingDB](https://www.bindingdb.org/rwd/bind/index.jsp) - A database of compounds and targes.
+    *   [PDBBind](http://www.pdbbind.org.cn/) - Database of experimentally measured binding affinity data for biomolecular complexes.
+    *   [CrossDocked2020](https://arxiv.org/abs/2001.01037) - Large-scale dataset for machine learning in structure-based virtual screening.
 
 ## [6. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
 ### Projects / Wallets
 
-*   [QRCode Generator (⭐21)](https://github.com/emg110/algorand-qrcode)
+*   [QRCode Generator (⭐22)](https://github.com/emg110/algorand-qrcode) - Uinversal QRCode generator module for Algorand ARC-26 URIs.
 
 ## [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Communication - Custom Communication Systems
 
-*   [SimpleX Chat (⭐5.9k)](https://github.com/simplex-chat/simplex-chat) - The most private and secure chat and applications platform - now with double ratchet E2E encryption. `AGPL-3.0` `Haskell`
+*   [SimpleX Chat (⭐7.8k)](https://github.com/simplex-chat/simplex-chat) - The most private and secure chat and applications platform - now with double ratchet E2E encryption. `AGPL-3.0` `Haskell`
 
 ### Software / Communication - Email - Webmail Clients
 
-*   [SnappyMail](https://snappymail.eu/) - Simple, modern, lightweight & fast web-based email client (fork of RainLoop). ([Demo](https://snappymail.eu/demo/), [Source Code (⭐968)](https://github.com/the-djmaze/snappymail)) `AGPL-3.0` `PHP`
+*   [SnappyMail](https://snappymail.eu/) - Simple, modern, lightweight & fast web-based email client (fork of RainLoop). ([Demo](https://snappymail.eu/demo/), [Source Code (⭐1.1k)](https://github.com/the-djmaze/snappymail)) `AGPL-3.0` `PHP`
 
 ### Software / Content Management Systems (CMS)
 
@@ -77,7 +79,7 @@
 ### Libraries / PHP
 
 *   [php.net/SNMP](https://www.php.net/manual/en/book.snmp.php) - This is an SNMP extension for PHP, which is a wrapper around the net-snmp library.
-*   [FreeDSx/SNMP (⭐56)](https://github.com/FreeDSx/SNMP) - A Pure PHP SNMP Library.
+*   [FreeDSx/SNMP (⭐58)](https://github.com/FreeDSx/SNMP) - A Pure PHP SNMP Library.
 
 ### Tools / CLIs
 
@@ -92,8 +94,8 @@
 
 ### MIB repositories / Tutorials
 
-*   [hsnodgrass/snmp\_mib\_archive (⭐170)](https://github.com/hsnodgrass/snmp_mib_archive) - An archive of over 3000 unique SNMP MIBs.
-*   [kcsinclair/mibs (⭐61)](https://github.com/kcsinclair/mibs) - Another collection of MIBS used for SNMP. Make sure to clone the repository to see the full list of MIBs.
+*   [hsnodgrass/snmp\_mib\_archive (⭐173)](https://github.com/hsnodgrass/snmp_mib_archive) - An archive of over 3000 unique SNMP MIBs.
+*   [kcsinclair/mibs (⭐63)](https://github.com/kcsinclair/mibs) - Another collection of MIBS used for SNMP. Make sure to clone the repository to see the full list of MIBs.
 *   [mibdepot.com](http://www.mibdepot.com) - mibDepot is a free service to the SNMP community and offers a dictionary of MIBs and a unique-in-the-industry Search Engine with over 12,000 SNMP MIBs representing over 1,800,000 MIB object definitions.
 *   [oid-info.com](http://oid-info.com) - This OID repository gathers information about Object Identifiers (OIDs), and provides tools to display, update and search for this information.
 *   [michaelfmcnamara.com](https://blog.michaelfmcnamara.com/mibs/) - Hand-curated list of MIBs by Michael McNamara.
@@ -108,14 +110,14 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [shift-select (⭐102)](https://github.com/jirutka/zsh-shift-select) - Emacs shift-select mode for ZSH - select text in the command line using Shift, as in many text editors, browsers and other GUI programs.
+*   [shift-select (⭐126)](https://github.com/jirutka/zsh-shift-select) - Emacs shift-select mode for ZSH - select text in the command line using Shift, as in many text editors, browsers and other GUI programs.
 *   [zservice-py3http (⭐4)](https://github.com/z-shell/zservice-py3http) - Serve a given directory with Python 3's http server from the standard library.
 
 ## [10. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / News and Magazine
 
-*   [Hacki (⭐876)](https://github.com/Livinglist/Hacki) - A Hacker News reader by [Jiaqi Feng](https://github.com/Livinglist).
+*   [Hacki (⭐983)](https://github.com/Livinglist/Hacki) - A Hacker News reader by [Jiaqi Feng](https://github.com/Livinglist).
 
 ## [11. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 
@@ -156,7 +158,7 @@
 
 ### Snippet / Diagnostics
 
-*   [ellisonleao/carbon-now.nvim (⭐166)](https://github.com/ellisonleao/carbon-now.nvim) - Create beautiful code snippets directly from Neovim.
+*   [ellisonleao/carbon-now.nvim (⭐182)](https://github.com/ellisonleao/carbon-now.nvim) - Create beautiful code snippets directly from Neovim.
 
 ## [17. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
@@ -199,11 +201,11 @@
 
 ### Cryptography
 
-*   [CryptoNet (⭐96)](https://github.com/maythamfahmi/CryptoNet) - .NET simple crypto library. Native c#.
+*   [CryptoNet (⭐103)](https://github.com/maythamfahmi/CryptoNet) - .NET simple crypto library. Native c#.
 
 ### Image Processing
 
-*   [PixelViewer (⭐245)](https://github.com/carina-studio/PixelViewer) - Cross-platform (Windows/macOS/Linux) image viewer which supports reading raw Luminance/YUV/RGB/ARGB/Bayer pixels data from file and rendering it. 10/16-bit YUV and viewing image frame sequence are also supported (v1.99+).
+*   [PixelViewer (⭐288)](https://github.com/carina-studio/PixelViewer) - Cross-platform (Windows/macOS/Linux) image viewer which supports reading raw Luminance/YUV/RGB/ARGB/Bayer pixels data from file and rendering it. 10/16-bit YUV and viewing image frame sequence are also supported (v1.99+).
 
 ---
 

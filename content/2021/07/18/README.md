@@ -10,7 +10,7 @@
 
 ### Science & Math
 
-- API: [inspirehep.net (⭐40)](https://github.com/inspirehep/rest-api-doc)
+- API: [inspirehep.net (⭐43)](https://github.com/inspirehep/rest-api-doc)
 
   Description: High Energy Physics info. system
 

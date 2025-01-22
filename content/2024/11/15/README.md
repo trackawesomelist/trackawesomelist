@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 15, 2024
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -18,45 +18,35 @@
 
 *   [CodeKidz](https://codekidz.ai/) - Learn through AI tutor and gamified content, including python, javascript, c/c++, game development, machine learning, generative ai, and more.
 
-## [3. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
-
-### Newsletters
-
-*   [European Remote](https://europeanremote.com/alerts) - Selected opportunities for European tech folks, every week in your inbox
-
-### Companies with "remote DNA"
-
-*   [Articulate](https://www.articulate.com/about/careers) - EdTech. Makes software that helps teachers make e-learning courses. Ruby, Node, C#, and .NET for Windows app.
-
-## [4. Awesome Go](/content/avelino/awesome-go/README.md)
+## [3. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Template Engines
 
 *   [htmgo](https://htmgo.dev) - build simple and scalable systems with go + htmx
 
-## [5. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [4. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / System tools
 
-*   [skim (⭐5.2k)](https://github.com/skim-rs/skim) - A fuzzy finder
+*   [skim (⭐5.4k)](https://github.com/skim-rs/skim) - A fuzzy finder
 
 ### Libraries / Reverse engineering
 
-*   [binarly-io/idalib (⭐71)](https://github.com/binarly-io/idalib) \[[idalib](https://crates.io/crates/idalib)] - Rust bindings for the IDA SDK, enabling the development of standalone analysis tools using IDA v9.0’s idalib
+*   [binarly-io/idalib (⭐96)](https://github.com/binarly-io/idalib) \[[idalib](https://crates.io/crates/idalib)] - Rust bindings for the IDA SDK, enabling the development of standalone analysis tools using IDA v9.0’s idalib
 
-## [6. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/README.md)
+## [5. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/README.md)
 
 ### Regional Connectivity Reports and Data
 
 *   [Open Signal - The state of mobile network experience in Africa](https://www.opensignal.com/2024/11/11/the-state-of-mobile-network-experience-in-africa) - (November 2024) A look at download speeds and network quality in 27 African countries.
 
-## [7. Awesome Libgdx](/content/rafaskb/awesome-libgdx/README.md)
+## [6. Awesome Libgdx](/content/rafaskb/awesome-libgdx/README.md)
 
-### Assets / Advanced
+### Assets / General Learning Material
 
 *   [Jsfxr](https://chr15m.itch.io/jsfxr) - Quickly create unique sound effects by pressing a few buttons, excellent for prototyping.
 
-## [8. Awesome Godot](/content/godotengine/awesome-godot/README.md)
+## [7. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
 ### Projects / Godot 3
 
@@ -64,9 +54,9 @@
 
 ### Plugins and scripts / Godot 4
 
-*   [Quest Manager (⭐8)](https://github.com/Rubonnek/quest-manager) - Minimalistic quest manager able to track quest state at runtime for easier debugging.
+*   [Quest Manager (⭐34)](https://github.com/Rubonnek/quest-manager) - Minimalistic quest manager able to track quest state at runtime for easier debugging.
 
-## [9. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [8. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -78,4 +68,5 @@
 
 ---
 
+- Prev: [Nov 16, 2024](/content/2024/11/16/README.md)
 - Next: [Nov 14, 2024](/content/2024/11/14/README.md)

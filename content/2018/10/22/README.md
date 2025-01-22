@@ -16,11 +16,11 @@
 
 ### Software / Communication - Social Networks and Forums
 
-*   [Simple Machines Forum](https://www.simplemachines.org/) - Free, professional grade software package that allows you to set up your own online community within minutes. ([Source Code (⭐583)](https://github.com/SimpleMachines/SMF)) `BSD-3-Clause` `PHP`
+*   [Simple Machines Forum](https://www.simplemachines.org/) - Free, professional grade software package that allows you to set up your own online community within minutes. ([Source Code (⭐613)](https://github.com/SimpleMachines/SMF)) `BSD-3-Clause` `PHP`
 
 ### Software / Pastebins
 
-*   [bepasty](https://bepasty-server.readthedocs.io/en/latest/) - A pastebin for all kinds of files. ([Source Code (⭐192)](https://github.com/bepasty/bepasty-server)) `BSD-2-Clause` `Python/deb`
+*   [bepasty](https://bepasty-server.readthedocs.io/en/latest/) - A pastebin for all kinds of files. ([Source Code (⭐197)](https://github.com/bepasty/bepasty-server)) `BSD-2-Clause` `Python/deb`
 
 ## [3. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 
@@ -32,16 +32,16 @@
 
 ### JSON
 
-*   [ObjectMapper (⭐9.1k)](https://github.com/tristanhimmelman/ObjectMapper) - JSON object mapper.
+*   [ObjectMapper (⭐9.2k)](https://github.com/tristanhimmelman/ObjectMapper) - JSON object mapper.
 
 ### System / Barcode
 
-*   [LaunchAtLogin (⭐1.5k)](https://github.com/sindresorhus/LaunchAtLogin) - Easily add 'Launch at Login' functionality to your sandboxed macOS app.
+*   [LaunchAtLogin (⭐1.6k)](https://github.com/sindresorhus/LaunchAtLogin) - Easily add 'Launch at Login' functionality to your sandboxed macOS app.
 
 ### Testing / Barcode
 
 *   [SnapshotTest (⭐41)](https://github.com/parski/SnapshotTest) - Snapshot testing tool for iOS and tvOS.
-*   [XCTest (⭐1.1k)](https://github.com/apple/swift-corelibs-xctest) - The XCTest Project, A Swift core library for providing unit test support.
+*   [XCTest (⭐1.2k)](https://github.com/apple/swift-corelibs-xctest) - The XCTest Project, A Swift core library for providing unit test support.
 
 ### UI / Barcode
 
@@ -51,7 +51,7 @@
 
 ### Assets
 
-*   [Sprockets (⭐937)](https://github.com/rails/sprockets) - Rack-based asset packaging system.
+*   [Sprockets (⭐958)](https://github.com/rails/sprockets) - Rack-based asset packaging system.
 
 ### Code Analysis and Metrics
 
@@ -67,7 +67,7 @@
 
 ### Music and Sound
 
-*   [Coltrane (⭐2.3k)](https://github.com/pedrozath/coltrane) - A music theory library with a command-line interface.
+*   [Coltrane (⭐2.4k)](https://github.com/pedrozath/coltrane) - A music theory library with a command-line interface.
 
 ### ORM/ODM
 
@@ -211,7 +211,7 @@
 
 *   [EasyDokkaPlugin (⭐13)](https://github.com/Vorlonsoft/EasyDokkaPlugin) - Gradle script plugin to generate documentation by Dokka documentation engine for Java and Kotlin
 *   [GradleMavenPush (⭐21)](https://github.com/Vorlonsoft/GradleMavenPush) - Gradle script plugin to upload Gradle Artifacts to Maven repositories
-*   [sshoogr (⭐350)](https://github.com/aestasit/sshoogr) - DSL library for working with remote servers through SSH.
+*   [sshoogr (⭐356)](https://github.com/aestasit/sshoogr) - DSL library for working with remote servers through SSH.
 
 ## [15. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 

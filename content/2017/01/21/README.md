@@ -10,19 +10,19 @@
 
 ### Models/Projects
 
-*   [Domain Transfer Network (⭐862)](https://github.com/yunjey/dtn-tensorflow) - Implementation of Unsupervised Cross-Domain Image Generation
+*   [Domain Transfer Network (⭐861)](https://github.com/yunjey/dtn-tensorflow) - Implementation of Unsupervised Cross-Domain Image Generation
 
 ## [2. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
 ### Inspiration / Other
 
-*   [People You Should Follow on CodePen (⭐685)](https://github.com/nucliweb/People-You-Should-Follow-on-CodePen) - List of interesting people worth following.
+*   [People You Should Follow on CodePen (⭐691)](https://github.com/nucliweb/People-You-Should-Follow-on-CodePen) - List of interesting people worth following.
 
 ## [3. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Environment Management
 
-*   [asdf-crystal (⭐73)](https://github.com/marciogm/asdf-crystal) - Plugin for asdf version manager
+*   [asdf-crystal (⭐76)](https://github.com/marciogm/asdf-crystal) - Plugin for asdf version manager
 
 ## [4. Awesome Recursion Schemes](/content/passy/awesome-recursion-schemes/README.md)
 

@@ -40,7 +40,7 @@
 
 ### Related Resources / Vector search
 
-*   [Awesome Ruby (⭐13k)](https://github.com/markets/awesome-ruby#natural-language-processing) -
+*   [Awesome Ruby (⭐14k)](https://github.com/markets/awesome-ruby#natural-language-processing) -
     Among other awesome items a short list of NLP related projects.
 *   [Ruby NLP (⭐1.3k)](https://github.com/diasks2/ruby-nlp) -
     State-of-Art collection of Ruby libraries for NLP.
@@ -48,13 +48,13 @@
     General List of NLP related resources (mostly not for Ruby programmers).
 *   [Scientific Ruby](http://sciruby.com/) -
     Linear Algebra, Visualization and Scientific Computing for Ruby.
-*   [Kiba (⭐1.7k)](https://github.com/thbar/kiba) -
+*   [Kiba (⭐1.8k)](https://github.com/thbar/kiba) -
     Lightweight [ETL](https://en.wikipedia.org/wiki/Extract,_transform,_load) (Extract, Transform, Load) pipeline.
-*   [Awesome OCR (⭐2.5k)](https://github.com/kba/awesome-ocr) -
+*   [Awesome OCR (⭐2.8k)](https://github.com/kba/awesome-ocr) -
     Multitude of OCR (Optical Character Recognition) resources.
 *   [Awesome TensorFlow (⭐17k)](https://github.com/jtoy/awesome-tensorflow) -
     Machine Learning with TensorFlow libraries.
-*   [rb-gsl (⭐96)](https://github.com/SciRuby/rb-gsl) -
+*   [rb-gsl (⭐100)](https://github.com/SciRuby/rb-gsl) -
     Ruby interface to the [GNU Scientific Library](https://www.gnu.org/software/gsl/).
 *   [The Definitive Guide to Ruby's C API](https://silverhammermba.github.io/emberb/) -
     Modern Reference and Tutorial on Embedding and Extending Ruby using C programming language.

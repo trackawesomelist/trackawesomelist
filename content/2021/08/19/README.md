@@ -10,7 +10,7 @@
 
 ### Game
 
-*   [FNA (⭐2.6k)](https://github.com/FNA-XNA/FNA) - FNA is an XNA4 reimplementation that focuses solely on developing a fully accurate XNA4 runtime for the desktop
+*   [FNA (⭐2.7k)](https://github.com/FNA-XNA/FNA) - FNA is an XNA4 reimplementation that focuses solely on developing a fully accurate XNA4 runtime for the desktop
 
 ## [2. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -32,44 +32,44 @@
 
 ### Table of Contents / Dependency Management Extras
 
-*   [Composer Merge Plugin (⭐929)](https://github.com/wikimedia/composer-merge-plugin) - A composer plugin to merge several `composer.json` files.
-*   [Composer Require Checker (⭐878)](https://github.com/maglnet/ComposerRequireChecker) - CLI tool to analyze composer dependencies and verify that no unknown symbols are used in the sources of a package.
+*   [Composer Merge Plugin (⭐943)](https://github.com/wikimedia/composer-merge-plugin) - A composer plugin to merge several `composer.json` files.
+*   [Composer Require Checker (⭐916)](https://github.com/maglnet/ComposerRequireChecker) - CLI tool to analyze composer dependencies and verify that no unknown symbols are used in the sources of a package.
 *   [Tooly (⭐101)](https://github.com/tommy-muehle/tooly-composer-script) - A library to manage PHAR files in a project using Composer.
 
 ### Table of Contents / Scraping
 
-*   [Chrome PHP (⭐2.2k)](https://github.com/chrome-php/chrome) - Instrument headless Chrome/Chromium instances from PHP.
+*   [Chrome PHP (⭐2.3k)](https://github.com/chrome-php/chrome) - Instrument headless Chrome/Chromium instances from PHP.
 
 ### Table of Contents / Debugging and Profiling
 
-*   [Metrics (⭐316)](https://github.com/beberlei/metrics) - A simple metrics API library.
+*   [Metrics (⭐318)](https://github.com/beberlei/metrics) - A simple metrics API library.
 
 ### Table of Contents / Build Tools
 
-*   [RMT (⭐453)](https://github.com/liip/RMT) - A library for versioning and releasing software.
+*   [RMT (⭐454)](https://github.com/liip/RMT) - A library for versioning and releasing software.
 
 ### Table of Contents / Geolocation
 
-*   [Country List (⭐5.1k)](https://github.com/umpirsky/country-list) - A list of all countries with names and ISO 3166-1 codes.
+*   [Country List (⭐5.2k)](https://github.com/umpirsky/country-list) - A list of all countries with names and ISO 3166-1 codes.
 
 ### Table of Contents / Event
 
-*   [Pawl (⭐581)](https://github.com/ratchetphp/Pawl) - An asynchronous web socket client.
+*   [Pawl (⭐589)](https://github.com/ratchetphp/Pawl) - An asynchronous web socket client.
 
 ### Table of Contents / Database
 
-*   [Slimdump (⭐183)](https://github.com/webfactory/slimdump) - An easy dumper tool for MySQL.
+*   [Slimdump (⭐185)](https://github.com/webfactory/slimdump) - An easy dumper tool for MySQL.
 
 ### Table of Contents / Authentication and Authorization
 
-*   [Paseto (⭐3.2k)](https://github.com/paragonie/paseto) - Platform-Agnostic Security Tokens.
+*   [Paseto (⭐3.3k)](https://github.com/paragonie/paseto) - Platform-Agnostic Security Tokens.
 
 ### Table of Contents / Markup and CSS
 
-*   [Essence (⭐770)](https://github.com/essence/essence) - A library for extracting web media.
-*   [Embera (⭐332)](https://github.com/mpratt/Embera) - An Oembed consumer library.
-*   [Shiki PHP (⭐276)](https://github.com/spatie/shiki-php) - A [Shiki (⭐9.5k)](https://github.com/shikijs/shiki) code highlighting package in PHP.
-*   [VObject (⭐569)](https://github.com/sabre-io/vobject) - A library for parsing VCard and iCalendar objects.
+*   [Essence (⭐768)](https://github.com/essence/essence) - A library for extracting web media.
+*   [Embera (⭐341)](https://github.com/mpratt/Embera) - An Oembed consumer library.
+*   [Shiki PHP (⭐286)](https://github.com/spatie/shiki-php) - A [Shiki (⭐11k)](https://github.com/shikijs/shiki) code highlighting package in PHP.
+*   [VObject (⭐573)](https://github.com/sabre-io/vobject) - A library for parsing VCard and iCalendar objects.
 
 ### Table of Contents / JSON
 
@@ -77,12 +77,12 @@
 
 ### Table of Contents / Numbers
 
-*   [IP (⭐246)](https://github.com/darsyn/ip) - An immutable value object for working with IPv4 and IPv6 addresses.
-*   [MathPHP (⭐2.3k)](https://github.com/markrogoyski/math-php) - A math library for PHP.
+*   [IP (⭐253)](https://github.com/darsyn/ip) - An immutable value object for working with IPv4 and IPv6 addresses.
+*   [MathPHP (⭐2.4k)](https://github.com/markrogoyski/math-php) - A math library for PHP.
 
 ### Table of Contents / Caching and Locking
 
-*   [Lock (⭐926)](https://github.com/php-lock/lock) - A lock library to provide exclusive execution.
+*   [Lock (⭐936)](https://github.com/php-lock/lock) - A lock library to provide exclusive execution.
 
 ### Configuration / Miscellaneous
 
@@ -91,7 +91,7 @@
 
 ### Configuration / Development Environment
 
-*   [Expose (⭐4.2k)](https://github.com/beyondcode/expose) - An open-source PHP tunneling service.
+*   [Expose (⭐4.3k)](https://github.com/beyondcode/expose) - An open-source PHP tunneling service.
 *   [Lando](https://lando.dev/) - Push-button development environments.
 *   [Takeout (⭐1.6k)](https://github.com/tighten/takeout) - A Docker-based development-only dependency manager.
 
@@ -160,7 +160,7 @@
 
 ### Peripheral Access Crates / NXP
 
-*   [`SKEAZN642`](https://crates.io/crates/SKEAZN642) Peripheral access API for KEA64 family microcontrollers (generated using svd2rust) - ![crates.io](https://img.shields.io/crates/v/SKEAZN642.svg)
+*   [`SKEAZN642`](https://crates.io/crates/SKEAZN642) Peripheral access API for KEA64 family microcontrollers (generated using svd2rust) - [![crates.io](https://img.shields.io/crates/v/SKEAZN642.svg)](https://crates.io/crates/SKEAZN642)
 
 ## [7. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 

@@ -10,7 +10,7 @@
 
 ### Table of Contents / Data Structure and Storage
 
-*   [Ginq (⭐192)](https://github.com/akanehara/ginq) - Another PHP library based on .NET's LINQ.
+*   [Ginq (⭐193)](https://github.com/akanehara/ginq) - Another PHP library based on .NET's LINQ.
 
 ## [2. Awesome Pyramid](/content/uralbash/awesome-pyramid/README.md)
 
@@ -23,7 +23,7 @@
 
 ### Graphic Displays
 
-*   [gganimate (⭐1.9k)](https://github.com/dgrtwo/gganimate) - Create easy animations with ggplot2.
+*   [gganimate (⭐2k)](https://github.com/dgrtwo/gganimate) - Create easy animations with ggplot2.
 
 ## [4. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

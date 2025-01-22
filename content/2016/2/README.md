@@ -98,7 +98,7 @@ git commit --amend --reset-author --no-edit
 
 ### Files / Runner
 
-*   [diff2html (⭐2.8k)](https://github.com/rtfpessoa/diff2html) - Git diff output parser and pretty HTML generator.
+*   [diff2html (⭐2.9k)](https://github.com/rtfpessoa/diff2html) - Git diff output parser and pretty HTML generator.
 
 ## [8. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
@@ -122,7 +122,7 @@ git commit --amend --reset-author --no-edit
 
 ### Concurrency
 
-*   [ArrayFire (⭐4.5k)](https://github.com/arrayfire/arrayfire) - A general purpose GPU library. \[BSD]
+*   [ArrayFire (⭐4.6k)](https://github.com/arrayfire/arrayfire) - A general purpose GPU library. \[BSD]
 
 ## [12. Awesome Coldfusion](/content/seancoyne/awesome-coldfusion/week/README.md)
 
@@ -255,7 +255,7 @@ git commit --amend --reset-author --no-edit
 
 ### Articles
 
-*   [Small focused modules (⭐129)](https://github.com/sindresorhus/ama/issues/10#issuecomment-117766328)
+*   [Small focused modules (⭐143)](https://github.com/sindresorhus/ama/issues/10#issuecomment-117766328)
 *   [Semver: A Primer](https://nodesource.com/blog/semver-a-primer/) *(Must read!)*
 *   [Semver: Tilde and Caret](https://nodesource.com/blog/semver-tilde-and-caret/)
 *   [Offline installation of npm packages](https://addyosmani.com/blog/using-npm-offline/)
@@ -267,7 +267,6 @@ git commit --amend --reset-author --no-edit
 *   [npm-stat](http://npm-stat.com) - Statistics charts for packages.
 *   [npmgraph](http://npm.anvaka.com) - Visualization of dependencies.
 *   [npm trends](http://www.npmtrends.com) - Compare package download counts over time.
-*   [npm-compare](https://npmcompare.com) - Easily search and compare packages.
 *   [npm-top](https://gist.github.com/bcoe/dcc961b869bbf6685002) - npm users by downloads.
 *   [npm semver calculator](http://semver.npmjs.com) - Visually explore what versions of a package a semver range matches.
 
@@ -278,30 +277,30 @@ git commit --amend --reset-author --no-edit
 
 ### Publishing
 
-*   [np (⭐7.2k)](https://github.com/sindresorhus/np) - A better `npm publish`.
-*   [publish-please (⭐739)](https://github.com/inikulin/publish-please) - Publish packages safely and gracefully.
+*   [np (⭐7.6k)](https://github.com/sindresorhus/np) - A better `npm publish`.
+*   [publish-please (⭐737)](https://github.com/inikulin/publish-please) - Publish packages safely and gracefully.
 *   [npm-release (⭐102)](https://github.com/phuu/npm-release) - Making releasing to npm so easy a kitten could probably do it™.
-*   [pkgfiles (⭐83)](https://github.com/timoxley/pkgfiles) - List all files which would be published in a package.
-*   [semantic-release (⭐19k)](https://github.com/semantic-release/semantic-release) - Fully automated package publishing.
+*   [pkgfiles (⭐84)](https://github.com/timoxley/pkgfiles) - List all files which would be published in a package.
+*   [semantic-release (⭐21k)](https://github.com/semantic-release/semantic-release) - Fully automated package publishing.
 
 ### Registry
 
-*   [npm-name (⭐273)](https://github.com/sindresorhus/npm-name-cli) - Check whether a package name is available on npm.
-*   [package-json (⭐227)](https://github.com/sindresorhus/package-json) - Get the package.json of a package from the npm registry.
-*   [npm-keyword (⭐51)](https://github.com/sindresorhus/npm-keyword) - Get a list of npm packages with a certain keyword.
-*   [dpn (⭐26)](https://github.com/gillstrom/dpn) - Get the dependents of a user's npm packages.
+*   [npm-name (⭐284)](https://github.com/sindresorhus/npm-name-cli) - Check whether a package name is available on npm.
+*   [package-json (⭐236)](https://github.com/sindresorhus/package-json) - Get the package.json of a package from the npm registry.
+*   [npm-keyword (⭐52)](https://github.com/sindresorhus/npm-keyword) - Get a list of npm packages with a certain keyword.
+*   [dpn (⭐27)](https://github.com/gillstrom/dpn) - Get the dependents of a user's npm packages.
 
 ### Other
 
-*   [npm-home (⭐191)](https://github.com/sindresorhus/npm-home) - Open the npm page of a package.
-*   [gh-home (⭐190)](https://github.com/sindresorhus/gh-home) - Open the GitHub page of a package.
-*   [david (⭐962)](https://github.com/alanshaw/david) - Check if your package dependencies are out of date.
-*   [npm-check (⭐6.5k)](https://github.com/dylang/npm-check) - Check for outdated, incorrect, and unused dependencies, as well as interactive update.
-*   [npm-shrinkwrap (⭐775)](https://github.com/uber/npm-shrinkwrap) - A consistent shrinkwrap tool.
+*   [npm-home (⭐198)](https://github.com/sindresorhus/npm-home) - Open the npm page of a package.
+*   [gh-home (⭐191)](https://github.com/sindresorhus/gh-home) - Open the GitHub page of a package.
+*   [david (⭐968)](https://github.com/alanshaw/david) - Check if your package dependencies are out of date.
+*   [npm-check (⭐6.6k)](https://github.com/dylang/npm-check) - Check for outdated, incorrect, and unused dependencies, as well as interactive update.
+*   [npm-shrinkwrap (⭐773)](https://github.com/uber/npm-shrinkwrap) - A consistent shrinkwrap tool.
 *   [npm-windows-upgrade (⭐2.5k)](https://github.com/felixrieseberg/npm-windows-upgrade) - Upgrade npm on Windows.
-*   [normalize-package-data (⭐186)](https://github.com/npm/normalize-package-data) - Normalize package metadata.
-*   [npm-run-path (⭐97)](https://github.com/sindresorhus/npm-run-path) - Run locally installed binaries in the terminal by name like with global ones.
-*   [local-npm (⭐1.1k)](https://github.com/nolanlawson/local-npm) - Use npm [offline](https://addyosmani.com/blog/using-npm-offline/).
+*   [normalize-package-data (⭐196)](https://github.com/npm/normalize-package-data) - Normalize package metadata.
+*   [npm-run-path (⭐104)](https://github.com/sindresorhus/npm-run-path) - Run locally installed binaries in the terminal by name like with global ones.
+*   [local-npm (⭐1.2k)](https://github.com/nolanlawson/local-npm) - Use npm [offline](https://addyosmani.com/blog/using-npm-offline/).
 *   [npe (⭐92)](https://github.com/zeke/npe) - CLI for inspecting and editing properties in package.json.
 *   [engine-deps (⭐20)](https://github.com/samccone/engine-deps) - Manage Node.js version specific dependencies with ease.
 
@@ -329,12 +328,12 @@ git commit --amend --reset-author --no-edit
 ### Documentation / `pre` and `post` scripts
 
 *   [Official](https://docs.npmjs.com)
-*   [Troubleshooting (⭐17k)](https://github.com/npm/npm/wiki/Troubleshooting)
+*   [Troubleshooting (⭐18k)](https://github.com/npm/npm/wiki/Troubleshooting)
 *   [Semantic versioning](https://docs.npmjs.com/getting-started/semantic-versioning)
 *   [Fixing npm permissions](https://docs.npmjs.com/getting-started/fixing-npm-permissions)
 *   [package.json](https://docs.npmjs.com/files/package.json)
 *   [npm run script](https://docs.npmjs.com/cli/run-script)
-*   [Stats API (⭐328)](https://github.com/npm/download-counts)
+*   [Stats API (⭐329)](https://github.com/npm/download-counts)
 
 ### Support / `pre` and `post` scripts
 
@@ -459,34 +458,34 @@ git commit --amend --reset-author --no-edit
 
 ### Files and Directories
 
-*   [exfswatch (⭐261)](https://github.com/falood/exfswatch) - A file change watcher wrapper based on **fs**.
+*   [exfswatch (⭐269)](https://github.com/falood/exfswatch) - A file change watcher wrapper based on **fs**.
 
 ### Framework Components
 
-*   [phoenix\_slime (⭐310)](https://github.com/slime-lang/phoenix_slime) - Slim template support for Phoenix.
+*   [phoenix\_slime (⭐311)](https://github.com/slime-lang/phoenix_slime) - Slim template support for Phoenix.
 *   [plug\_redirect\_https (⭐7)](https://github.com/stocks29/plug_redirect_https) - Plug to redirect http requests to https requests behind a reverse proxy.
 
 ### Games
 
-*   [entice (⭐119)](https://github.com/entice/entice) - A distributed Entity-Component-System framework, providing its own example MMORPG server.
+*   [entice (⭐121)](https://github.com/entice/entice) - A distributed Entity-Component-System framework, providing its own example MMORPG server.
 
 ### HTTP
 
-*   [spell (⭐66)](https://github.com/MyMedsAndMe/spell) - Spell is a [Web Application Messaging Protocol](http://wamp-proto.org/) (WAMP) client implementation in Elixir.
+*   [spell (⭐67)](https://github.com/MyMedsAndMe/spell) - Spell is a [Web Application Messaging Protocol](http://wamp-proto.org/) (WAMP) client implementation in Elixir.
 
 ### Logging
 
 *   [exsentry](https://github.com/appcues/exsentry) - Error logging to [Sentry](https://getsentry.com/).
-*   [honeybadger (⭐179)](https://github.com/honeybadger-io/honeybadger-elixir) - Error logging to [Honeybadger](https://www.honeybadger.io/).
+*   [honeybadger (⭐181)](https://github.com/honeybadger-io/honeybadger-elixir) - Error logging to [Honeybadger](https://www.honeybadger.io/).
 
 ### ORM and Datamapping
 
-*   [arc\_ecto (⭐255)](https://github.com/stavro/arc_ecto) - Arc.Ecto provides an integration with Arc and Ecto.
+*   [arc\_ecto (⭐254)](https://github.com/stavro/arc_ecto) - Arc.Ecto provides an integration with Arc and Ecto.
 *   [exnumerator (⭐65)](https://github.com/KamilLelonek/exnumerator) - Elixir enumerable type definition in a simple way to be used with any database.
 
 ### Queue
 
-*   [elixir\_nsq (⭐89)](https://github.com/wistia/elixir_nsq) - NSQ client library for Elixir.
+*   [elixir\_nsq (⭐90)](https://github.com/wistia/elixir_nsq) - NSQ client library for Elixir.
 
 ### Utilities
 
@@ -523,22 +522,22 @@ git commit --amend --reset-author --no-edit
 
 ### Development / Mobile Development
 
-*   [mobisplash-cli (⭐70)](https://github.com/SamVerschueren/mobisplash-cli) - Mobile app splash screen generator.
+*   [mobisplash-cli (⭐71)](https://github.com/SamVerschueren/mobisplash-cli) - Mobile app splash screen generator.
 
 ### Files and Directories / Deleting, Copying, and Renaming
 
-*   [cpy-cli (⭐337)](https://github.com/sindresorhus/cpy-cli) - Copies files.
+*   [cpy-cli (⭐345)](https://github.com/sindresorhus/cpy-cli) - Copies files.
 
 ### Files and Directories / Files
 
-*   [file-type-cli (⭐70)](https://github.com/sindresorhus/file-type-cli) - Detect the file type of a file or stdin.
+*   [file-type-cli (⭐74)](https://github.com/sindresorhus/file-type-cli) - Detect the file type of a file or stdin.
 
 ## [36. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Command-line apps
 
-*   [mobisplash (⭐70)](https://github.com/samverschueren/mobisplash-cli) - Mobile app splash screen generator.
-*   [diff2html-cli (⭐511)](https://github.com/rtfpessoa/diff2html-cli) - Pretty git diff to HTML generator.
+*   [mobisplash (⭐71)](https://github.com/samverschueren/mobisplash-cli) - Mobile app splash screen generator.
+*   [diff2html-cli (⭐541)](https://github.com/rtfpessoa/diff2html-cli) - Pretty git diff to HTML generator.
 
 ### Resources / Community
 

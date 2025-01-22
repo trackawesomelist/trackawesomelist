@@ -41,13 +41,13 @@
 
 ### State management / Standard
 
-*   [Get It (⭐1.3k)](https://github.com/fluttercommunity/get_it) <!--stargazers:fluttercommunity/get_it--> - Simple direct Service Locator that allows to decouple the interface from a concrete implementation by [Thomas Burkhartb](https://twitter.com/Thomasburkhartb)
+*   [Get It (⭐1.4k)](https://github.com/fluttercommunity/get_it) <!--stargazers:fluttercommunity/get_it--> - Simple direct Service Locator that allows to decouple the interface from a concrete implementation by [Thomas Burkhartb](https://twitter.com/Thomasburkhartb)
 
 ## [6. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/README.md)
 
 ### Racing
 
-*   [Reburn 3 (⭐91)](https://github.com/reburndev/reburn3) - A work-in-progress open source reimplementation of Burnout 3: Takedown.
+*   [Reburn 3 (⭐98)](https://github.com/reburndev/reburn3) - A work-in-progress open source reimplementation of Burnout 3: Takedown.
 
 ## [7. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
 

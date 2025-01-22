@@ -23,13 +23,13 @@
 
 ### Misc
 
-*   [anyolite (⭐160)](https://github.com/Anyolite/anyolite) - Full mruby interpreter with simple bindings, allowing for easy scripting support in projects
+*   [anyolite (⭐164)](https://github.com/Anyolite/anyolite) - Full mruby interpreter with simple bindings, allowing for easy scripting support in projects
 
 ## [4. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Monitoring / Isomorphic web frameworks
 
-*   [rollbar.lisp (⭐2)](https://github.com/adventuring/rollbar.lisp) - interface to [Rollbar.com](https://rollbar.com/), an error tracking software.
+*   [rollbar.lisp (⭐3)](https://github.com/adventuring/rollbar.lisp) - interface to [Rollbar.com](https://rollbar.com/), an error tracking software.
 
 ## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -45,25 +45,21 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Antares SQL (⭐1.7k)](https://github.com/Fabio286/antares) - Cross platform SQL client made to be simple and complete.
-
-### Components & Libraries / UI Components
-
-*   [vue-socials (⭐50)](https://github.com/webistomin/vue-socials) - 💬 Social media share buttons and counts for Vue.js.
+*   [Antares SQL (⭐2k)](https://github.com/Fabio286/antares) - Cross platform SQL client made to be simple and complete.
 
 ## [7. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Templates / Vue 2
 
-*   [vite-vue2-windicss-starter (⭐191)](https://github.com/lstoeferle/vite-vue2-windicss-starter) - Vue 2, Vue Router, Composition API, VueUse, Windi CSS and TypeScript.
+*   [vite-vue2-windicss-starter (⭐199)](https://github.com/lstoeferle/vite-vue2-windicss-starter) - Vue 2, Vue Router, Composition API, VueUse, Windi CSS and TypeScript.
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-node (⭐979)](https://github.com/axe-me/vite-plugin-node) - Integration with Node.js backend servers.
+*   [vite-plugin-node (⭐1k)](https://github.com/axe-me/vite-plugin-node) - Integration with Node.js backend servers.
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-tsconfig-paths (⭐1.3k)](https://github.com/aleclarson/vite-tsconfig-paths) - Support for TypeScript's path mapping.
+*   [vite-tsconfig-paths (⭐1.4k)](https://github.com/aleclarson/vite-tsconfig-paths) - Support for TypeScript's path mapping.
 
 ### Vue / Integrations
 
@@ -71,16 +67,16 @@
 
 ### Vue / Routing
 
-*   ![v23](https://img.shields.io/badge/-2%2F3-3C8171) [vite-plugin-pages (⭐1.8k)](https://github.com/hannoeru/vite-plugin-pages) - File system based route generator.
+*   ![v23](https://img.shields.io/badge/-2%2F3-3C8171) [vite-plugin-pages (⭐1.9k)](https://github.com/hannoeru/vite-plugin-pages) - File system based route generator.
 
 ### Vue / Loaders
 
-*   ![v23](https://img.shields.io/badge/-2%2F3-3C8171) [vite-plugin-md (⭐597)](https://github.com/antfu/vite-plugin-md) - Markdown as Vue components / Vue components in Markdown.
-*   ![v3](https://img.shields.io/badge/-v3-35495e) [vite-svg-loader (⭐571)](https://github.com/jpkleemans/vite-svg-loader) - Load SVG files as Vue components.
+*   ![v23](https://img.shields.io/badge/-2%2F3-3C8171) [vite-plugin-md (⭐611)](https://github.com/antfu/vite-plugin-md) - Markdown as Vue components / Vue components in Markdown.
+*   ![v3](https://img.shields.io/badge/-v3-35495e) [vite-svg-loader (⭐613)](https://github.com/jpkleemans/vite-svg-loader) - Load SVG files as Vue components.
 
 ### Vue / SSG
 
-*   ![v3](https://img.shields.io/badge/-v3-35495e) [vite-ssg (⭐1.3k)](https://github.com/antfu/vite-ssg) - Server-side generation.
+*   ![v3](https://img.shields.io/badge/-v3-35495e) [vite-ssg (⭐1.4k)](https://github.com/antfu/vite-ssg) - Server-side generation.
 
 ### Vue / Ecosystem
 
@@ -90,11 +86,11 @@
 
 ### Software / File Transfer - Web-based File Managers
 
-*   [FileGator](https://filegator.io/) - FileGator is a powerful multi-user file manager with a single page front-end. ([Demo](https://demo.filegator.io), [Source Code (⭐2.1k)](https://github.com/filegator/filegator)) `MIT` `PHP/Docker`
+*   [FileGator](https://filegator.io/) - FileGator is a powerful multi-user file manager with a single page front-end. ([Demo](https://demo.filegator.io), [Source Code (⭐2.3k)](https://github.com/filegator/filegator)) `MIT` `PHP/Docker`
 
 ### Software / Pastebins
 
-*   [FlashPaper (⭐373)](https://github.com/AndrewPaglusch/FlashPaper) - A one-time encrypted zero-knowledge password/secret sharing application focused on simplicity and security. No database or complicated set-up required. ([Demo](https://flashpaper.io)) `MIT` `Docker/PHP`
+*   [FlashPaper (⭐420)](https://github.com/AndrewPaglusch/FlashPaper) - A one-time encrypted zero-knowledge password/secret sharing application focused on simplicity and security. No database or complicated set-up required. ([Demo](https://flashpaper.io)) `MIT` `Docker/PHP`
 
 ## [9. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/README.md)
 

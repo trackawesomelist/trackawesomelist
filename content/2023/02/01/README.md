@@ -40,7 +40,7 @@
 
 ### Frameworks
 
-*   [libxutils (⭐33)](https://github.com/kala13x/libxutils) - Simple and yet powerful cross-platform C library providing data structures, algorithms and much more. \[MIT]
+*   [libxutils (⭐54)](https://github.com/kala13x/libxutils) - Simple and yet powerful cross-platform C library providing data structures, algorithms and much more. \[MIT]
 
 ## [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
@@ -84,7 +84,7 @@
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [kubectl (chrishrb) (⭐3)](https://github.com/chrishrb/zsh-kubectl) - Automatically loads completions for [kubectl (⭐2.8k)](https://github.com/kubernetes/kubectl).
+*   [kubectl (chrishrb) (⭐3)](https://github.com/chrishrb/zsh-kubectl) - Automatically loads completions for [kubectl (⭐2.9k)](https://github.com/kubernetes/kubectl).
 
 ## [13. Awesome Golem](/content/golemfactory/awesome-golem/README.md)
 

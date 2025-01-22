@@ -10,19 +10,19 @@
 
 ### Third-Party Packages / Commands
 
-*   [django-liquidb (⭐22)](https://github.com/Gusakovskiy/django-liquidb) - Django application to simplify migration management and changes in states of db scheme.
+*   [django-liquidb (⭐24)](https://github.com/Gusakovskiy/django-liquidb) - Django application to simplify migration management and changes in states of db scheme.
 
 ## [2. Awesome Arch](/content/PandaFoss/Awesome-Arch/README.md)
 
 ### AUR Helpers / Pacman wrappers
 
-*   [Paru (⭐4.4k)](https://github.com/Morganamilo/paru) (Rust) - AUR helper with all needed modern wrapper features, created by a former developer of yay.
+*   [Paru (⭐6.1k)](https://github.com/Morganamilo/paru) (Rust) - AUR helper with all needed modern wrapper features, created by a former developer of yay.
 
 ## [3. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Security / Runner
 
-*   [sanitize-html (⭐3.7k)](https://github.com/apostrophecms/sanitize-html) - sanitize-html provides a simple HTML sanitizer with a clear API.
+*   [sanitize-html (⭐3.8k)](https://github.com/apostrophecms/sanitize-html) - sanitize-html provides a simple HTML sanitizer with a clear API.
 
 ## [4. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
@@ -34,7 +34,7 @@
 
 ### Boilerplates
 
-*   [superplate (⭐2.7k)](https://github.com/pankod/superplate) - superplate creates Next.js app in seconds with TypeScript, styled-components, SWR, Storybook, and 35+ plugin.
+*   [superplate (⭐2.8k)](https://github.com/pankod/superplate) - superplate creates Next.js app in seconds with TypeScript, styled-components, SWR, Storybook, and 35+ plugin.
 
 ## [6. Awesome Xai](/content/altamiracorp/awesome-xai/README.md)
 
@@ -170,7 +170,7 @@
 *   [asakusaSatellite (⭐101)](https://github.com/codefirst/AsakusaSatellite) - A realtime chat application for developers (using Rails 6.0). - [:earth\_africa:](https://www.codefirst.org/AsakusaSatellite/)
 *   [catarse (⭐1.6k)](https://github.com/catarse/catarse) - A crowdfunding platform for creative projects (using Rails 4.2). - [:earth\_africa:](https://www.catarse.me/)
 *   [commudle (⭐247)](https://github.com/commudle/commudle) - A community management app (using Rails 5.2).
-*   [kanban (⭐641)](https://github.com/seanomlor/kanban) - A Trello clone (using Rails 4.2).
+*   [kanban (⭐642)](https://github.com/seanomlor/kanban) - A Trello clone (using Rails 4.2).
 *   [opensourcefriday (⭐1.2k)](https://github.com/github/opensourcefriday) - A project contribution tracking app (using Rails 6.0). - [:earth\_africa:](https://opensourcefriday.com)
 *   [peatio (⭐3.6k)](https://github.com/peatio/peatio) - A crypto currency exchange app (using Rails 4.0).
 *   [reservations (⭐139)](https://github.com/YaleSTC/reservations) - An inventory management app (using Rails 6.0). - [:earth\_africa:](http://yalestc.github.io/reservations/)
@@ -179,30 +179,30 @@
 
 ### Gems / Other external resources
 
-*   [actioncable (⭐55k)](https://github.com/rails/rails/tree/main/actioncable) - A gem to integrate websocket with a Rails app [:red\_circle:](https://rubygems.org/gems/actioncable) - [Action Cable Overview](https://guides.rubyonrails.org/action_cable_overview.html)
-*   [actionmailbox (⭐55k)](https://github.com/rails/rails/tree/main/actionmailbox) - A gem to handle incoming emails within a Rails app [:red\_circle:](https://rubygems.org/gems/actionmailbox) - [Action Mailbox Basics](https://guides.rubyonrails.org/action_mailbox_basics.html)
-*   [actionmailer (⭐55k)](https://github.com/rails/rails/tree/main/actionmailer) - A gem to compose, deliver & test emails within a Rails app [:red\_circle:](https://rubygems.org/gems/actionmailer) - [Action Mailer Basics](https://guides.rubyonrails.org/action_mailer_basics.html)
-*   [actionpack (⭐55k)](https://github.com/rails/rails/tree/main/actionpack) - A gem to manage requests & responses within a Rails app [:red\_circle:](https://rubygems.org/gems/actionpack)
-*   [actiontext (⭐55k)](https://github.com/rails/rails/tree/main/actiontext) - A gem to integrate rich text editor into a Rails app [:red\_circle:](https://rubygems.org/gems/actiontext) - [Action Text Overview](https://guides.rubyonrails.org/action_text_overview.html)
-*   [actionview (⭐55k)](https://github.com/rails/rails/tree/main/actionview) - A gem to handle view templates within a Rails app [:red\_circle:](https://rubygems.org/gems/actionview) - [Action View Overview](https://guides.rubyonrails.org/action_view_overview.html)
-*   [activejob (⭐55k)](https://github.com/rails/rails/tree/main/activejob) - A gem to handle background jobs within a Rails app [:red\_circle:](https://rubygems.org/gems/activejob) - [Active Job Basics](https://guides.rubyonrails.org/active_job_basics.html)
-*   [activemodel (⭐55k)](https://github.com/rails/rails/tree/main/activemodel) - A gem to define a set of interfaces to use in model classes within a Rails app [:red\_circle:](https://rubygems.org/gems/activemodel) - [Active Model Basics](https://guides.rubyonrails.org/active_model_basics.html)
-*   [activerecord (⭐55k)](https://github.com/rails/rails/tree/main/activerecord) - A gem to connect model classes with relational databases within a Rails app [:red\_circle:](https://rubygems.org/gems/activerecord) - [Active Record Basics](https://guides.rubyonrails.org/active_record_basics.html)
-*   [activestorage (⭐55k)](https://github.com/rails/rails/tree/main/activestorage) - A gem to handle file uploads to cloud storage providers within a Rails app [:red\_circle:](https://rubygems.org/gems/activestorage) - [Active Storage Overview](https://guides.rubyonrails.org/active_storage_overview.html)
-*   [activesupport (⭐55k)](https://github.com/rails/rails/tree/main/activesupport) - A gem to provide some extensions to support a Rails app [:red\_circle:](https://rubygems.org/gems/activesupport) - [Active Support Core Extensions](https://guides.rubyonrails.org/active_support_core_extensions.html)
-*   [railties (⭐55k)](https://github.com/rails/rails/tree/main/railties) - A gem to handle gems & engines used in a Rails app to work together [:red\_circle:](https://rubygems.org/gems/railties)
+*   [actioncable (⭐56k)](https://github.com/rails/rails/tree/main/actioncable) - A gem to integrate websocket with a Rails app [:red\_circle:](https://rubygems.org/gems/actioncable) - [Action Cable Overview](https://guides.rubyonrails.org/action_cable_overview.html)
+*   [actionmailbox (⭐56k)](https://github.com/rails/rails/tree/main/actionmailbox) - A gem to handle incoming emails within a Rails app [:red\_circle:](https://rubygems.org/gems/actionmailbox) - [Action Mailbox Basics](https://guides.rubyonrails.org/action_mailbox_basics.html)
+*   [actionmailer (⭐56k)](https://github.com/rails/rails/tree/main/actionmailer) - A gem to compose, deliver & test emails within a Rails app [:red\_circle:](https://rubygems.org/gems/actionmailer) - [Action Mailer Basics](https://guides.rubyonrails.org/action_mailer_basics.html)
+*   [actionpack (⭐56k)](https://github.com/rails/rails/tree/main/actionpack) - A gem to manage requests & responses within a Rails app [:red\_circle:](https://rubygems.org/gems/actionpack)
+*   [actiontext (⭐56k)](https://github.com/rails/rails/tree/main/actiontext) - A gem to integrate rich text editor into a Rails app [:red\_circle:](https://rubygems.org/gems/actiontext) - [Action Text Overview](https://guides.rubyonrails.org/action_text_overview.html)
+*   [actionview (⭐56k)](https://github.com/rails/rails/tree/main/actionview) - A gem to handle view templates within a Rails app [:red\_circle:](https://rubygems.org/gems/actionview) - [Action View Overview](https://guides.rubyonrails.org/action_view_overview.html)
+*   [activejob (⭐56k)](https://github.com/rails/rails/tree/main/activejob) - A gem to handle background jobs within a Rails app [:red\_circle:](https://rubygems.org/gems/activejob) - [Active Job Basics](https://guides.rubyonrails.org/active_job_basics.html)
+*   [activemodel (⭐56k)](https://github.com/rails/rails/tree/main/activemodel) - A gem to define a set of interfaces to use in model classes within a Rails app [:red\_circle:](https://rubygems.org/gems/activemodel) - [Active Model Basics](https://guides.rubyonrails.org/active_model_basics.html)
+*   [activerecord (⭐56k)](https://github.com/rails/rails/tree/main/activerecord) - A gem to connect model classes with relational databases within a Rails app [:red\_circle:](https://rubygems.org/gems/activerecord) - [Active Record Basics](https://guides.rubyonrails.org/active_record_basics.html)
+*   [activestorage (⭐56k)](https://github.com/rails/rails/tree/main/activestorage) - A gem to handle file uploads to cloud storage providers within a Rails app [:red\_circle:](https://rubygems.org/gems/activestorage) - [Active Storage Overview](https://guides.rubyonrails.org/active_storage_overview.html)
+*   [activesupport (⭐56k)](https://github.com/rails/rails/tree/main/activesupport) - A gem to provide some extensions to support a Rails app [:red\_circle:](https://rubygems.org/gems/activesupport) - [Active Support Core Extensions](https://guides.rubyonrails.org/active_support_core_extensions.html)
+*   [railties (⭐56k)](https://github.com/rails/rails/tree/main/railties) - A gem to handle gems & engines used in a Rails app to work together [:red\_circle:](https://rubygems.org/gems/railties)
 
 ## [9. Awesome Spark](/content/awesome-spark/awesome-spark/README.md)
 
 ### Packages / Monitoring
 
-*   [Data Mechanics Delight (⭐303)](https://github.com/datamechanics/delight) <img src="https://img.shields.io/github/last-commit/datamechanics/delight.svg"> - Cross-platform monitoring tool (Spark UI / Spark History Server replacement).
+*   [Data Mechanics Delight (⭐342)](https://github.com/datamechanics/delight) <img src="https://img.shields.io/github/last-commit/datamechanics/delight.svg"> - Cross-platform monitoring tool (Spark UI / Spark History Server replacement).
 
 ## [10. Awesome Playwright](/content/mxschmitt/awesome-playwright/README.md)
 
 ### Integrations
 
-*   [axe-playwright (⭐181)](https://github.com/abhinaba-ghosh/axe-playwright) - Inofficial integration of Axe with Playwright.
+*   [axe-playwright (⭐185)](https://github.com/abhinaba-ghosh/axe-playwright) - Inofficial integration of Axe with Playwright.
 
 ## [11. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
 
@@ -214,20 +214,21 @@
 
 ### UI Libraries, Components & Templates
 
-*   🧩 [Tailwind Cards (⭐579)](https://github.com/hasinhayder/tailwind-cards) - Growing collection of text/image cards.
+*   🧩 [Tailwind Cards (⭐584)](https://github.com/hasinhayder/tailwind-cards) - Growing collection of text/image cards.
 
 ## [13. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
 
 ### Database Clients
 
 *   Relational Databases
-    *   [Reactive SQL Client (⭐855)](https://github.com/eclipse-vertx/vertx-sql-client) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - High performance reactive SQL client.
-    *   [JDBC (⭐125)](https://github.com/vert-x3/vertx-jdbc-client) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Asynchronous interface around a JDBC datasource.
-    *   [MySQL / PostgreSQL (⭐115)](https://github.com/vert-x3/vertx-mysql-postgresql-client) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Asynchronous Client for MySQL/PostgreSQL.
-    *   [PostgreSQL (⭐72)](https://github.com/vietj/reactive-pg-client) - Reactive PostgreSQL Client.
-    *   [database (⭐39)](https://github.com/susom/database) - Client for Oracle, PostgreSQL, SQL Server, HyperSQL, etc. designed for security, correctness, and ease of use.
-    *   [jOOQ (⭐377)](https://github.com/jklingsporn/vertx-jooq) - Doing typesafe, asynchronous SQL and generate code using jOOQ.
-    *   [jOOQx (⭐20)](https://github.com/zero88/jooqx) - Leverages the power of typesafe SQL from `jOOQ DSL` and uses the reactive and non-blocking SQL driver from Vert.x.
+    *   [Reactive SQL Client (⭐893)](https://github.com/eclipse-vertx/vertx-sql-client) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - High performance reactive SQL client.
+    *   [JDBC (⭐126)](https://github.com/vert-x3/vertx-jdbc-client) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Asynchronous interface around a JDBC datasource.
+    *   [MySQL / PostgreSQL (⭐117)](https://github.com/vert-x3/vertx-mysql-postgresql-client) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Asynchronous Client for MySQL/PostgreSQL.
+    *   [PostgreSQL (⭐74)](https://github.com/vietj/reactive-pg-client) - Reactive PostgreSQL Client.
+    *   [database (⭐42)](https://github.com/susom/database) - Client for Oracle, PostgreSQL, SQL Server, HyperSQL, etc. designed for security, correctness, and ease of use.
+    *   [jOOQ (⭐385)](https://github.com/jklingsporn/vertx-jooq) - Doing typesafe, asynchronous SQL and generate code using jOOQ.
+    *   [jOOQx (⭐27)](https://github.com/zero88/jooqx) - Leverages the power of typesafe SQL from `jOOQ DSL` and uses the reactive and non-blocking SQL driver from Vert.x.
+    *   [Exposed Vert.x SQL Client (⭐5)](https://github.com/huanshankeji/exposed-vertx-sql-client) - Kotlin's [Exposed (⭐8.4k)](https://github.com/JetBrains/Exposed) on top of [Vert.x Reactive SQL Client (⭐893)](https://github.com/eclipse-vertx/vertx-sql-client).
 
 ## [14. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 
@@ -239,8 +240,8 @@
 
 ### Contents / News and Magazine
 
-*   [NewsApp (⭐213)](https://github.com/j-j-gajjar/FLUTTER_NewsApp) - Live News Using API with Many API filterrs by [J-J-GAJJAR](https://github.com/j-j-gajjar).
-*   [InNews (⭐18)](https://github.com/akashlilhare/news_app) - Live News in eight different categories by [Akash Lilhare](https://github.com/akashlilhare).
+*   [NewsApp (⭐237)](https://github.com/j-j-gajjar/FLUTTER_NewsApp) - Live News Using API with Many API filterrs by [J-J-GAJJAR](https://github.com/j-j-gajjar).
+*   [InNews (⭐19)](https://github.com/akashlilhare/news_app) - Live News in eight different categories by [Akash Lilhare](https://github.com/akashlilhare).
 
 ## [16. Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md)
 
@@ -258,7 +259,7 @@
 
 ### UI / Bottom bars
 
-*   [Google Nav Bar (⭐706)](https://github.com/sooxt98/google_nav_bar) <!--stargazers:sooxt98/google_nav_bar--> - A modern google style nav bar for flutter by [Sooxt98](http://github.com/sooxt98)
+*   [Google Nav Bar (⭐750)](https://github.com/sooxt98/google_nav_bar) <!--stargazers:sooxt98/google_nav_bar--> - A modern google style nav bar for flutter by [Sooxt98](http://github.com/sooxt98)
 
 ---
 

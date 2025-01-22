@@ -20,21 +20,17 @@
 
 ## [3. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
-### Third-Party Packages / Admin
+### Third-Party Packages / Admin Themes
 
-*   [django-unfold (⭐1.5k)](https://github.com/unfoldadmin/django-unfold) - Modern Django admin theme for seamless interface development
+*   [django-unfold (⭐2.1k)](https://github.com/unfoldadmin/django-unfold) - Modern Django admin theme for seamless interface development.
 
 ### Third-Party Packages / Commands
 
-*   [django-migration-zero (⭐45)](https://github.com/ambient-innovation/django-migration-zero/) - Holistic implementation of "migration zero" pattern for Django covering local changes and in-production database adjustments.
+*   [django-migration-zero (⭐57)](https://github.com/ambient-innovation/django-migration-zero/) - Holistic implementation of "migration zero" pattern for Django covering local changes and in-production database adjustments.
 
 ### Third-Party Packages / Configuration
 
-*   [django-content-settings](https://django-content-settings.readthedocs.io/en/latest/) - easily create and manage editable typed variables directly from the Django admin panel.
-
-### Resources / Educational
-
-*   [💡 Photon Designer - Django tutorials](https:/photondesigner.com/articles) - Django tutorials by Tom Dekan on how to build Django apps simply - from how to build an instant messenger with Django, add instant search, to using Google Drive as a database. Updated regularly.
+*   [django-content-settings](https://django-content-settings.readthedocs.io/en/latest/) - Easily create and manage editable typed variables directly from the Django admin panel.
 
 ## [4. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -50,13 +46,13 @@
 
 ### Projects
 
-*   [RustedLessPass (⭐38)](https://github.com/RustedLessPass/RustedLessPass) - A stateless password manager. [Web App](https://rustedlesspass.github.io/).
+*   [RustedLessPass (⭐52)](https://github.com/RustedLessPass/RustedLessPass) - A stateless password manager. [Web App](https://rustedlesspass.github.io/).
 
 ## [6. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### 2D/3D Rendering engines / Database
 
-*   [EfCoreNexus (⭐1)](https://github.com/thliborius/EfCoreNexus) - ![GitHub stars](https://img.shields.io/github/stars/thliborius/EfCoreNexus?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/thliborius/EfCoreNexus?style=flat-square\&cacheSeconds=86400) EfCoreNexus helps integrating the entity framework core into your blazor app. Via reflection it adds your entitiy classes automatically and provides you with basic crud functionality.
+*   [EfCoreNexus (⭐3)](https://github.com/thliborius/EfCoreNexus) - ![GitHub stars](https://img.shields.io/github/stars/thliborius/EfCoreNexus?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/thliborius/EfCoreNexus?style=flat-square\&cacheSeconds=86400) EfCoreNexus helps integrating the entity framework core into your blazor app. Via reflection it adds your entitiy classes automatically and provides you with basic crud functionality.
 
 ### Videos / Others
 
@@ -84,7 +80,7 @@
 
 ### Loaders / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-loading-bar (⭐759)](https://github.com/aitboudad/ngx-loading-bar) - Automatic page loading / progress bar for Angular.
+*   [ngx-loading-bar (⭐776)](https://github.com/aitboudad/ngx-loading-bar) - Automatic page loading / progress bar for Angular.
 
 ## [8. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
@@ -96,16 +92,16 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [auto-venv (⭐2)](https://github.com/Skylor-Tang/auto-venv) - Automatically activates the Python virtual environment in the current directory or its parent directories.
-*   [pwp (⭐4)](https://github.com/ttkalcevic/pwp) - Provides a convenient way to display the present working path in the terminal prompt and lists the current working directory along with its parent directories. Additionally, it includes a custom command .. to navigate to parent directories easily.
-*   [ranger (niziL) (⭐0)](https://github.com/NiziL/ranger.plugin.zsh) - provide prompt element for [ranger (⭐15k)](https://github.com/ranger/ranger). Shows current `RANGER_LEVEL`, displaying nothing when the environment variable is unset, something when it is equals to 1, and something else when it is greater than 1.
-*   [ranger (rc2dev) (⭐4)](https://github.com/rc2dev/ranger-zshz) - Integrates [zsh-z (⭐2k)](https://github.com/agkozak/zsh-z) into [ranger (⭐15k)](https://github.com/ranger/ranger).
+*   [auto-venv (⭐5)](https://github.com/Skylor-Tang/auto-venv) - Automatically activates the Python virtual environment in the current directory or its parent directories.
+*   [pwp (⭐5)](https://github.com/ttkalcevic/pwp) - Provides a convenient way to display the present working path in the terminal prompt and lists the current working directory along with its parent directories. Additionally, it includes a custom command .. to navigate to parent directories easily.
+*   [ranger (niziL) (⭐0)](https://github.com/NiziL/ranger.plugin.zsh) - provide prompt element for [ranger (⭐16k)](https://github.com/ranger/ranger). Shows current `RANGER_LEVEL`, displaying nothing when the environment variable is unset, something when it is equals to 1, and something else when it is greater than 1.
+*   [ranger (rc2dev) (⭐4)](https://github.com/rc2dev/ranger-zshz) - Integrates [zsh-z (⭐2.1k)](https://github.com/agkozak/zsh-z) into [ranger (⭐16k)](https://github.com/ranger/ranger).
 *   [venv (⭐0)](https://github.com/lucasheartcliff/venv) - Run 'source venv/bin/activate' automatically every time there's a path `venv/bin/activate` file in the directory.
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [kind (⭐0)](https://github.com/TomerFi/zsh-kind)- Loads tab completions for [kind](https://kind.sigs.k8s.io/).
-*   [oh-my-update (⭐1)](https://github.com/utox39/oh-my-update) - Updates plugins in [oh-my-zsh](https://ohmyz.sh/).
+*   [kind (⭐1)](https://github.com/TomerFi/zsh-kind)- Loads tab completions for [kind](https://kind.sigs.k8s.io/).
+*   [oh-my-update (⭐4)](https://github.com/utox39/oh-my-update) - Updates plugins in [oh-my-zsh](https://ohmyz.sh/).
 
 ---
 

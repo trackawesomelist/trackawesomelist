@@ -40,7 +40,7 @@
 
 ### Official
 
-*   [OpenTofu repository (⭐22k)](https://github.com/opentofu/opentofu) 🎉
+*   [OpenTofu repository (⭐24k)](https://github.com/opentofu/opentofu) 🎉
 
 ### Community
 
@@ -68,7 +68,7 @@
 
 ### Note Taking / Diagnostics
 
-*   [gsuuon/note.nvim (⭐63)](https://github.com/gsuuon/note.nvim) - Daily tasks with deep-linking and project spaces.
+*   [gsuuon/note.nvim (⭐69)](https://github.com/gsuuon/note.nvim) - Daily tasks with deep-linking and project spaces.
 
 ## [7. Awesome Devtools](/content/moimikey/awesome-devtools/README.md)
 

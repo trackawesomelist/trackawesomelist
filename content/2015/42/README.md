@@ -38,7 +38,7 @@
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
-*   [data-science-ipython-notebooks (⭐27k)](https://github.com/donnemartin/data-science-ipython-notebooks) - Continually updated Data Science Python Notebooks: Spark, Hadoop MapReduce, HDFS, AWS, Kaggle, scikit-learn, matplotlib, pandas, NumPy, SciPy, and various command lines.
+*   [data-science-ipython-notebooks (⭐28k)](https://github.com/donnemartin/data-science-ipython-notebooks) - Continually updated Data Science Python Notebooks: Spark, Hadoop MapReduce, HDFS, AWS, Kaggle, scikit-learn, matplotlib, pandas, NumPy, SciPy, and various command lines.
 
 ## [6. Awesome Vorpal](/content/vorpaljs/awesome-vorpal/week/README.md)
 
@@ -298,7 +298,7 @@
 
 *   PHP:
     *   [PHP front end setup without Node](https://www.sitepoint.com/look-ma-no-nodejs-a-php-front-end-workflow-without-node/) - Tutorial how to combine BowerPHP, Mini-Asset and Robo.li into a PHP front end asset building pipeline.
-    *   [symfony-collection (⭐450)](https://github.com/ninsuo/symfony-collection) - jQuery Plugin that manages adding, deleting and moving elements from a Symfony2 collection.
+    *   [symfony-collection (⭐444)](https://github.com/ninsuo/symfony-collection) - jQuery Plugin that manages adding, deleting and moving elements from a Symfony2 collection.
 
 ## [23. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
@@ -335,7 +335,7 @@
 
 ### Development Tools
 
-*   [Vert.x Hot (⭐48)](https://github.com/dazraf/vertx-hot) - A Maven plugin for the hot-deploy of Maven Vert.x projects.
+*   [Vert.x Hot (⭐47)](https://github.com/dazraf/vertx-hot) - A Maven plugin for the hot-deploy of Maven Vert.x projects.
 
 ## [26. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
@@ -394,7 +394,7 @@
 
 ### HTML Widgets
 
-*   [scatterD3 (⭐157)](https://github.com/juba/scatterD3) - Interactive scatterplots with D3.
+*   [scatterD3 (⭐160)](https://github.com/juba/scatterD3) - Interactive scatterplots with D3.
 
 ## [33. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
@@ -880,7 +880,7 @@
 
 ### Algorithms and Data structures
 
-*   [parallel\_stream (⭐99)](https://github.com/beatrichartz/parallel_stream) - A parallel stream implementation for Elixir.
+*   [parallel\_stream (⭐100)](https://github.com/beatrichartz/parallel_stream) - A parallel stream implementation for Elixir.
 
 ### Third Party APIs
 

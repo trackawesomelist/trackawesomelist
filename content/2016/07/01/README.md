@@ -53,7 +53,7 @@
 
 ### Code Analysis and Metrics
 
-*   [Metrics-Net (⭐641)](https://github.com/Recognos/Metrics.NET) - Capturing CLR and application-level metrics. So you know what's going on.
+*   [Metrics-Net (⭐640)](https://github.com/Recognos/Metrics.NET) - Capturing CLR and application-level metrics. So you know what's going on.
 
 ## [9. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 

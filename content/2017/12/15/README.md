@@ -10,8 +10,8 @@
 
 ### Web frameworks / Clack plugins
 
-*   [ningle (⭐273)](https://github.com/fukamachi/ningle) - A super-micro web framework. [LLGPL](http://opensource.franz.com/preamble.html).
-    *   [jingle (⭐47)](https://github.com/dnaeon/cl-jingle) - based on ningle, adds  bells and whistles, such as middlewares.
+*   [ningle (⭐283)](https://github.com/fukamachi/ningle) - A super-micro web framework. [LLGPL](http://opensource.franz.com/preamble.html).
+    *   [jingle (⭐48)](https://github.com/dnaeon/cl-jingle) - based on ningle, adds  bells and whistles, such as middlewares.
         *   includes an OpenAPI and Swagger UI demo.
 
 ## [2. Awesome Unity](/content/RyanNielson/awesome-unity/README.md)

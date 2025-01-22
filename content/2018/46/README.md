@@ -65,7 +65,7 @@
 
 ### Other / Godot version unknown
 
-*   [godot-ci (⭐691)](https://github.com/aBARICHELLO/godot-ci) - Docker image to export Godot games through CI. Includes GitLab CI script example.
+*   [godot-ci (⭐781)](https://github.com/aBARICHELLO/godot-ci) - Docker image to export Godot games through CI. Includes GitLab CI script example.
 
 ## [7. Awesome Eosio](/content/DanailMinchev/awesome-eosio/week/README.md)
 
@@ -178,10 +178,6 @@
 
 ## [13. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
-### Companies with "remote DNA"
-
-*   [AvantStay](https://avantstay.com/careers) - Short-term rental company based in Los Angeles, with remote dev team.
-
 ### Tools / Others
 
 *   [Fiverr](https://www.fiverr.com/) - Fiverr is the world's largest freelance services marketplace for lean entrepreneurs, where you can hire remote workers to do small tasks for you.
@@ -222,7 +218,7 @@
 
 ### Third-party APIs
 
-*   [Dropbox (⭐168)](https://github.com/Jesus/dropbox_api) - Ruby client for Dropbox API v2.
+*   [Dropbox (⭐171)](https://github.com/Jesus/dropbox_api) - Ruby client for Dropbox API v2.
 
 ## [19. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
@@ -234,7 +230,7 @@
 
 ### GTFS Based Visualizations
 
-*   [TNExT (⭐15)](https://github.com/ODOT-PTS/TNExT) - Transit Network Explorer Tool (TNExT) is a web-based software tool developed for the visualization, analysis, and reporting of regional and statewide transit networks in the state of Oregon.
+*   [TNExT (⭐16)](https://github.com/ODOT-PTS/TNExT) - Transit Network Explorer Tool (TNExT) is a web-based software tool developed for the visualization, analysis, and reporting of regional and statewide transit networks in the state of Oregon.
 
 ## [21. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
@@ -242,13 +238,26 @@
 
 *   [HoneyDB](https://riskdiscovery.com/honeydb) - Community driven honeypot sensor data collection and aggregation.
 
-## [22. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
+## [22. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+
+### Resources / Tutorials
+
+*   [Vue.js Application Development Essentials](https://www.packtpub.com/application-development/vuejs-application-development-essentials-video) by Bartłomiej Potaczek, Packt. (October 2018)
+*   [Troubleshooting Vue.js](https://www.packtpub.com/application-development/troubleshooting-vuejs-video) by Christian Hur, Packt. (October 2018)
+*   [Nuxt.js - Vue.js on Steroids](https://www.packtpub.com/application-development/nuxtjs-vuejs-steroids-video) by Maximilian Schwarzmüller, Packt. (October 2018)
+
+### Resources / Books
+
+*   [Building Applications with Spring 5 and Vue.js 2](https://www.packtpub.com/application-development/building-applications-spring-5-and-vuejs-2) by James J. Ye, Packt. (October 2018)
+*   [Vue.js Quick Start Guide](https://www.packtpub.com/application-development/vuejs-quick-start-guide) by Ajdin Imsirovic, Packt. (October 2018)
+
+## [23. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
 
 ### Dependency Injection
 
 *   [Dependencies (⭐30)](https://github.com/marcguilera/dependencies.dart) - A simple and modular dependency injection system which doesn't use mirrors.
 
-## [23. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [24. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Community
 
@@ -256,19 +265,19 @@
 *   [common-lisp.net](https://common-lisp.net)
 *   [lisp-lang.org](https://lisp-lang.org/)
 
-## [24. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
+## [25. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
 ### Become an Appium Pro
 
 *   [How To Automatically Grant iOS App Permissions Using Appium](https://appiumpro.com/editions/43)
 
-## [25. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [26. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Personal Dashboards
 
-*   [Heimdall](https://heimdall.site/) - Heimdall is an elegant solution to organise all your web applications. ([Source Code (⭐7.6k)](https://github.com/linuxserver/Heimdall)) `MIT` `PHP`
+*   [Heimdall](https://heimdall.site/) - Heimdall is an elegant solution to organise all your web applications. ([Source Code (⭐8.1k)](https://github.com/linuxserver/Heimdall)) `MIT` `PHP`
 
-## [26. Awesome Json](/content/burningtree/awesome-json/week/README.md)
+## [27. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
 ### Format Extensions
 
@@ -292,7 +301,7 @@
 
 *   [JSON Schema $Ref Parser (⭐905)](https://github.com/APIDevTools/json-schema-ref-parser) - Parse, resolve, and dereference JSON Schema $ref pointers
 
-## [27. Awesome Qa](/content/seriousran/awesome-qa/week/README.md)
+## [28. Awesome Qa](/content/seriousran/awesome-qa/week/README.md)
 
 ### Facebook AI Research's publication within 5 years / Subtypes of QA
 
@@ -301,14 +310,14 @@
     *   [Do explanations make VQA models more predictable to a human?](https://research.fb.com/publications/do-explanations-make-vqa-models-more-predictable-to-a-human/), Arjun Chandrasekaran, Viraj Prabhu, Deshraj Yadav, Prithvijit Chattopadhyay, and Devi Parikh, EMNLP, 2018
     *   [Neural Compositional Denotational Semantics for Question Answering](https://research.fb.com/publications/neural-compositional-denotational-semantics-for-question-answering/), Nitish Gupta, Mike Lewis, EMNLP, 2018
 
-## [28. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
+## [29. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
 
 ### Messaging
 
-*   [aenigma (⭐177)](https://github.com/openspace42/aenigma/): the | state-of-the-art | secure-by-default | one-touch-deployed | XMPP server for everyone. It does for XMPP what Mail-in-a-Box has done for email, Streisand for VPNs, and Easyengine for wordpress.
+*   [aenigma (⭐176)](https://github.com/openspace42/aenigma/): the | state-of-the-art | secure-by-default | one-touch-deployed | XMPP server for everyone. It does for XMPP what Mail-in-a-Box has done for email, Streisand for VPNs, and Easyengine for wordpress.
     The installation takes you on a 15 minute, clearly worded, step-by-step setup and takes care of everything automagically.
 
-## [29. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
+## [30. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
 
 ### Userscripts
 
@@ -359,7 +368,7 @@
 *   [2019 Oscar DVD Screeners](https://whereyouwatch.com/articles/here-are-the-2019-oscar-dvd-screeners/) List of DVD screeners for 2019's Oscars
 *   [iNFekt](https://infekt.ws/) A text viewer application that has been carefully designed around its main task: viewing and presenting NFO files.
 
-## [30. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
+## [31. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
 ### Parallelism
 
@@ -370,24 +379,24 @@
     *   [Rpc.Parallel (⭐47)](https://github.com/janestreet/rpc_parallel) — A library for spawning processes on a cluster of machines, and passing typed messages between them.
     *   [Ocamlnet](http://projects.camlcity.org/projects/ocamlnet.html) — An enhanced system platform library. Contains the `netmulticore` library to compute tasks on as many cores of the machine as needed.
     *   [Nproc (⭐29)](https://github.com/MyLifeLabs/nproc) – Process pool implementation for OCaml.
-    *   [Parany (⭐53)](https://github.com/UnixJunkie/parany) – Parallelize computation over independent items, even if there is an infinite number of them.
+    *   [Parany (⭐52)](https://github.com/UnixJunkie/parany) – Parallelize computation over independent items, even if there is an infinite number of them.
     *   [Sklml](http://sklml.inria.fr) – Functional parallel skeleton compiler and programming system for OCaml programs.
-    *   [SPOC (⭐137)](https://github.com/mathiasbourgoin/SPOC) - Libraries and syntax extensions to offload intensive computations to parallel accelerators (multicore CPUs, GPUs and other accelerators compatible with GPGPU frameworks).
+    *   [SPOC (⭐138)](https://github.com/mathiasbourgoin/SPOC) - Libraries and syntax extensions to offload intensive computations to parallel accelerators (multicore CPUs, GPUs and other accelerators compatible with GPGPU frameworks).
 
-## [31. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/week/README.md)
+## [32. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/week/README.md)
 
 ### Tools and Plugins
 
 *   [fx (⭐15k)](https://github.com/antonmedv/fx) - Command-line JSON viewer.
 
-## [32. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
+## [33. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
 
 ### Tools / Other
 
 *   [badtouch (⭐371)](https://github.com/kpcyrd/badtouch) - Scriptable network authentication cracker
 *   [sniffglue (⭐997)](https://github.com/kpcyrd/sniffglue) - Secure multithreaded packet sniffer
 
-## [33. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [34. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
@@ -405,13 +414,13 @@
 
 *   [Wexflow (⭐516)](https://github.com/aelassas/Wexflow) - A high performance, extensible, modular and cross-platform workflow engine.
 
-## [34. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
+## [35. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
 
 ### Tools / Static Analysis Tools
 
-*   [JAADAS (⭐346)](https://github.com/flankerhqd/JAADAS) - Joint intraprocedural and interprocedural program analysis tool to find vulnerabilities in Android apps, built on Soot and Scala
+*   [JAADAS (⭐349)](https://github.com/flankerhqd/JAADAS) - Joint intraprocedural and interprocedural program analysis tool to find vulnerabilities in Android apps, built on Soot and Scala
 
-## [35. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [36. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Concurrency
 
@@ -419,11 +428,11 @@
 
 ### Inter-process communication
 
-*   [Ice (⭐2k)](https://github.com/zeroc-ice/ice) - Comprehensive RPC framework with support for C++, C#, Java, JavaScript, Python and more. \[GPLv2]
+*   [Ice (⭐2.1k)](https://github.com/zeroc-ice/ice) - Comprehensive RPC framework with support for C++, C#, Java, JavaScript, Python and more. \[GPLv2]
 
 ### Networking
 
-*   [libpcap (⭐2.6k)](https://github.com/the-tcpdump-group/libpcap) - A portable C/C++ library for network traffic capture. \[BSD] [website](https://www.tcpdump.org/)
+*   [libpcap (⭐2.8k)](https://github.com/the-tcpdump-group/libpcap) - A portable C/C++ library for network traffic capture. \[BSD] [website](https://www.tcpdump.org/)
 
 ### PDF
 
@@ -431,38 +440,38 @@
 
 ### Scientific Computing
 
-*   [AMGCL (⭐723)](https://github.com/ddemidov/amgcl) - a header-only C++ library for solving large sparse linear systems with algebraic multigrid. \[MIT]
+*   [AMGCL (⭐763)](https://github.com/ddemidov/amgcl) - a header-only C++ library for solving large sparse linear systems with algebraic multigrid. \[MIT]
 
 ### Web Application Framework
 
-*   [facil.io (⭐2.1k)](https://github.com/boazsegev/facil.io) - Evented, high performance C web framework supporting HTTP, WebSockets, SSE and more. \[MIT] [website](http://facil.io)
+*   [facil.io (⭐2.2k)](https://github.com/boazsegev/facil.io) - Evented, high performance C web framework supporting HTTP, WebSockets, SSE and more. \[MIT] [website](http://facil.io)
 
-## [36. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
+## [37. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
 ### Contents / GUI
 
 *   [Numeracy](https://numeracy.co/) - Fast SQL editor with charts and dashboards for PostgreSQL (Commercial Software).
 
-## [37. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [38. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Boilerplates
 
-*   [Nextron (⭐3.4k)](https://github.com/saltyshiomix/nextron) - An Electron with Next.js apps generator ⚡
+*   [Nextron (⭐4k)](https://github.com/saltyshiomix/nextron) - An Electron with Next.js apps generator ⚡
 
-## [38. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [39. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### Open Source Apps / Navigation Demos
 
 *   [FastBuy (⭐183)](https://github.com/Bruno-Furtado/fastbuy-app) - App to manage the products from a dummy Store (built with React Native and Redux).
 *   [Hydropuzzle (⭐13)](https://github.com/hydropuzzle/hydropuzzle) - Stylish puzzle adventure game.
 
-## [39. Awesome Web Design](/content/nicolesaidy/awesome-web-design/week/README.md)
+## [40. Awesome Web Design](/content/nicolesaidy/awesome-web-design/week/README.md)
 
 ### Blog & News
 
 *   [Google design](https://www.youtube.com/channel/UClKO7be7O9cUGL94PHnAeOA): Youtube channel featuring videos for designers about Google design.
 
-## [40. Awesome Blockchain Ai](/content/steven2358/awesome-blockchain-ai/week/README.md)
+## [41. Awesome Blockchain Ai](/content/steven2358/awesome-blockchain-ai/week/README.md)
 
 ### Recommended reading / Blockchain, AI and Machine Learning
 
@@ -472,19 +481,19 @@
 
 *   [Erasure](https://erasure.xxx/) - Erasure is a decentralized protocol and data marketplace for financial predictions.
 
-## [41. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
+## [42. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
 
 ### Components / Themes
 
-*   [antd-password-input-strength (⭐86)](https://github.com/Kombustor/antd-password-input-strength) - AntD Input component with password-strength indicator.
+*   [antd-password-input-strength (⭐87)](https://github.com/Kombustor/antd-password-input-strength) - AntD Input component with password-strength indicator.
 
-## [42. Awesome Idris](/content/joaomilho/awesome-idris/week/README.md)
+## [43. Awesome Idris](/content/joaomilho/awesome-idris/week/README.md)
 
 ### Contents / Books
 
 *   [Software Foundations](https://idris-hackers.github.io/software-foundations/pdf/sf-idris-2018.pdf) - Repo is [here (⭐423)](https://github.com/idris-hackers/software-foundations).
 
-## [43. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/week/README.md)
+## [44. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/week/README.md)
 
 ### Articles
 
@@ -504,7 +513,7 @@
 
 *   [Emotional Intelligence And Ethics In Tech](http://happyporchradio.com/season-4-episode-3-april-wensel/) - By April Wensel in the Happy Porch podcast.
 
-## [44. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [45. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Culture
 
@@ -525,7 +534,7 @@
 *   [Atlassian Incident Handbook](https://www.atlassian.com/software/jira/ops/handbook)
 *   [PagerDuty Incident Response Handbook](https://response.pagerduty.com/)
 
-## [45. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [46. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Alert / Barcode
 
@@ -534,7 +543,7 @@
 ### Transition / Barcode
 
 *   [ImageTransition (⭐219)](https://github.com/shtnkgm/ImageTransition) - ImageTransition is a library for smooth animation of images during transitions.
-*   [Jelly (⭐2.4k)](https://github.com/SebastianBoldt/Jelly) - Jelly provides custom view controller transitions with just a few lines of code.
+*   [Jelly (⭐2.5k)](https://github.com/SebastianBoldt/Jelly) - Jelly provides custom view controller transitions with just a few lines of code.
 
 ### UICollectionView / Barcode
 
@@ -544,19 +553,19 @@
 
 *   [WeakableSelf (⭐78)](https://github.com/vincent-pradeilles/weakable-self) - A micro-framework to encapsulate \[weak self] and guard statements within closures.
 
-## [46. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
+## [47. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
 
 ### Learn / Example Applications
 
 *   [perjerz3434/meetup.com ★1 (⭐2)](https://github.com/perjerz3434/meetup.com) - Meetup.com RSVP visualization around the world using CycleJS
 
-## [47. Awesome Mastodon](/content/tleb/awesome-mastodon/week/README.md)
+## [48. Awesome Mastodon](/content/tleb/awesome-mastodon/week/README.md)
 
 ### Clients
 
 *   [Tootle (⭐396)](https://github.com/bleakgrey/tootle) - Simple Mastodon client designed for elementary OS.
 
-## [48. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [49. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / AST
 
@@ -582,24 +591,6 @@
 *   [Caveats of the Default Store - Ember London - September 2018](https://www.youtube.com/watch?v=EcKaDu0xo_A)
 *   [EmberFest 2018](https://www.youtube.com/watch?v=oRzmDobMZ_Q\&list=PLN4SpDLOSVkSB9034lDNdP1JoNBGssax9)
 *   [EmberFest 2014](https://www.youtube.com/watch?v=z4oxa-UR7oA\&list=PLN4SpDLOSVkSbGTLohVaYGDB8hxWxGPBA)
-
-## [49. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
-
-### Resources / Tutorials
-
-*   [Vue.js Application Development Essentials](https://www.packtpub.com/application-development/vuejs-application-development-essentials-video) by Bartłomiej Potaczek, Packt. (October 2018)
-*   [Troubleshooting Vue.js](https://www.packtpub.com/application-development/troubleshooting-vuejs-video) by Christian Hur, Packt. (October 2018)
-*   [Nuxt.js - Vue.js on Steroids](https://www.packtpub.com/application-development/nuxtjs-vuejs-steroids-video) by Maximilian Schwarzmüller, Packt. (October 2018)
-
-### Resources / Books
-
-*   [Building Applications with Spring 5 and Vue.js 2](https://www.packtpub.com/application-development/building-applications-spring-5-and-vuejs-2) by James J. Ye, Packt. (October 2018)
-*   [Vue.js Quick Start Guide](https://www.packtpub.com/application-development/vuejs-quick-start-guide) by Ajdin Imsirovic, Packt. (October 2018)
-
-### Projects Using Vue.js / Open Source
-
-*   [Modular Genealogy (⭐204)](https://github.com/modularsoftware/genealogy) - Genealogy / family tree management system using Laravel 5.7, Vue.js 2.5 and various components. Work in progress.
-*   [Statusfy (⭐2.7k)](https://github.com/bazzite/statusfy): Statusfy is a Status Page System, easy to use and completely Open Source.
 
 ---
 

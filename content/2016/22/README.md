@@ -10,7 +10,7 @@
 
 ### Compression
 
-*   [Snappy.Sharp (⭐142)](https://github.com/jeffesp/Snappy.Sharp) - An implementation of Google's Snappy compression algorithm in C#.
+*   [Snappy.Sharp (⭐145)](https://github.com/jeffesp/Snappy.Sharp) - An implementation of Google's Snappy compression algorithm in C#.
 
 ## [2. Awesome Dtrace](/content/xen0l/awesome-dtrace/week/README.md)
 
@@ -241,7 +241,7 @@
 
 ### Standalone / Hash functions
 
-*   [blackbox (⭐6.6k)](https://github.com/StackExchange/blackbox) - safely store secrets in Git/Mercurial/Subversion.
+*   [blackbox (⭐6.7k)](https://github.com/StackExchange/blackbox) - safely store secrets in Git/Mercurial/Subversion.
 
 ### Web-tools / Git
 
@@ -311,7 +311,7 @@
 
 ### Table of Contents / Data Structure and Storage
 
-*   [Knapsack (⭐535)](https://github.com/DusanKasan/Knapsack) - Collection library inspired by Clojure's sequences.
+*   [Knapsack (⭐536)](https://github.com/DusanKasan/Knapsack) - Collection library inspired by Clojure's sequences.
 
 ## [23. Awesome Ava](/content/avajs/awesome-ava/week/README.md)
 
@@ -421,7 +421,7 @@
 ### Tools / Libraries
 
 *   [Adaptive Backgrounds](https://briangonzalez.github.io/jquery.adaptive-backgrounds.js/) - Extract dominant colors from images and apply to its parent (jQuery Plugin).
-*   [Coloor (⭐330)](https://github.com/krasimir/coloor) - Image preloading utility.
+*   [Coloor (⭐333)](https://github.com/krasimir/coloor) - Image preloading utility.
 
 ### Tools / Web App
 
@@ -445,15 +445,15 @@
 
 ### Command Line
 
-*   [SwiftyTextTable (⭐312)](https://github.com/scottrhoyt/SwiftyTextTable) :penguin: - A lightweight library to generate text tables.
+*   [SwiftyTextTable (⭐317)](https://github.com/scottrhoyt/SwiftyTextTable) :penguin: - A lightweight library to generate text tables.
 
 ### Embedded Systems
 
-*   [SwiftyGPIO (⭐1.3k)](https://github.com/uraimo/SwiftyGPIO) :penguin: - Interact with Linux GPIO/SPI/PWM on ARM.
+*   [SwiftyGPIO (⭐1.4k)](https://github.com/uraimo/SwiftyGPIO) :penguin: - Interact with Linux GPIO/SPI/PWM on ARM.
 
 ### Logging / Barcode
 
-*   [Duration (⭐324)](https://github.com/SwiftStudies/Duration) :penguin: - Lightweight logging library focused on reporting timings for operations.
+*   [Duration (⭐325)](https://github.com/SwiftStudies/Duration) :penguin: - Lightweight logging library focused on reporting timings for operations.
 
 ### Socket / Barcode
 
@@ -470,10 +470,10 @@
 
 ### Label / Barcode
 
-*   [ActiveLabel (⭐4.4k)](https://github.com/optonaut/ActiveLabel.swift) - UILabel drop-in replacement supporting Hashtags (#), Mentions (@) and URLs (http\://).
-*   [CountdownLabel (⭐984)](https://github.com/suzuki-0000/CountdownLabel) - Simple countdown UILabel with morphing animation, and some useful function.
+*   [ActiveLabel (⭐4.5k)](https://github.com/optonaut/ActiveLabel.swift) - UILabel drop-in replacement supporting Hashtags (#), Mentions (@) and URLs (http\://).
+*   [CountdownLabel (⭐1k)](https://github.com/suzuki-0000/CountdownLabel) - Simple countdown UILabel with morphing animation, and some useful function.
 *   [GlitchLabel (⭐1k)](https://github.com/kciter/GlitchLabel) - Glitching UILabel for iOS.
-*   [KDEDateLabel (⭐114)](https://github.com/delannoyk/KDEDateLabel) - An UILabel subclass that updates itself to make time ago's format easier.
+*   [KDEDateLabel (⭐115)](https://github.com/delannoyk/KDEDateLabel) - An UILabel subclass that updates itself to make time ago's format easier.
 
 ### Menu / Barcode
 
@@ -547,7 +547,7 @@ Run `brew install qlcolorcode` or [download manually (⭐608)](https://github.co
 
 ### Tutorials
 
-*   [Terry Um’s TensorFlow Exercises (⭐615)](https://github.com/terryum/TensorFlow_Exercises) - Re-create the codes from other TensorFlow examples
+*   [Terry Um’s TensorFlow Exercises (⭐618)](https://github.com/terryum/TensorFlow_Exercises) - Re-create the codes from other TensorFlow examples
 *   [Installing TensorFlow on Raspberry Pi 3 (⭐2.2k)](https://github.com/samjabrahams/tensorflow-on-raspberry-pi) - TensorFlow compiled and running properly on the Raspberry Pi
 
 ### Powered by TensorFlow

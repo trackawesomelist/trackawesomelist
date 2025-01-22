@@ -75,7 +75,7 @@
 
 ### Testing
 
-*   [Shouldly (⭐2k)](https://github.com/shouldly/shouldly) - Shouldly is an assertion framework which focuses on giving great error messages when the assertion fails while being simple and terse.
+*   [Shouldly (⭐2.8k)](https://github.com/shouldly/shouldly) - Shouldly is an assertion framework which focuses on giving great error messages when the assertion fails while being simple and terse.
 
 ## [5. Tips](/content/git-tips/tips/README.md)
 
@@ -95,7 +95,7 @@ git add -p
 
 ### Monitoring / Prometheus
 
-*   [Prometheus.io (⭐54k)](https://github.com/prometheus/prometheus) - An open-source service monitoring system and time series database.
+*   [Prometheus.io (⭐55k)](https://github.com/prometheus/prometheus) - An open-source service monitoring system and time series database.
 
 ---
 

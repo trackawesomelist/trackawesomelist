@@ -16,7 +16,7 @@
 
 ### Table of Contents / Files
 
-*   [UnifiedArchive (⭐274)](https://github.com/wapmorgan/UnifiedArchive) - A unified reader and writer of compressed archives.
+*   [UnifiedArchive (⭐275)](https://github.com/wapmorgan/UnifiedArchive) - A unified reader and writer of compressed archives.
 
 ## [3. Awesome Canvas](/content/raphamorim/awesome-canvas/README.md)
 
@@ -46,7 +46,7 @@
 ### Timeline / Runner
 
 *   [TimelineJS v3 (⭐2.9k)](https://github.com/NUKnightLab/TimelineJS3) - A Storytelling Timeline built in JavaScript.
-*   [timesheet.js (⭐6.9k)](https://github.com/sbstjn/timesheet.js) - JavaScript library for simple HTML5 & CSS3 time sheets.
+*   [timesheet.js (⭐7k)](https://github.com/sbstjn/timesheet.js) - JavaScript library for simple HTML5 & CSS3 time sheets.
 
 ## [7. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 
@@ -59,12 +59,12 @@
 
 ### Other Useful Repositories
 
-- Repository: [Resource List (⭐324)](https://github.com/FuzzySecurity/Resource-List)
+- Repository: [Resource List (⭐340)](https://github.com/FuzzySecurity/Resource-List)
 
   Description: Collection of useful GitHub projects loosely categorised
 
 
-- Repository: [Reverse Engineering (⭐2.3k)](https://github.com/onethawt/reverseengineering-reading-list)
+- Repository: [Reverse Engineering (⭐2.4k)](https://github.com/onethawt/reverseengineering-reading-list)
 
   Description: List of Reverse Engineering articles, books, and papers
 

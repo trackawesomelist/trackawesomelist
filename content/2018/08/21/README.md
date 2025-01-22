@@ -20,15 +20,15 @@
 
 ### Processes and Threads
 
-*   [promise (⭐40)](https://github.com/spider-gazelle/promise) - A Promise implementation with type inference
+*   [promise (⭐42)](https://github.com/spider-gazelle/promise) - A Promise implementation with type inference
 
 ### Scheduling
 
-*   [tasker (⭐55)](https://github.com/spider-gazelle/tasker) - A high precision scheduler including timezone aware cron jobs
+*   [tasker (⭐56)](https://github.com/spider-gazelle/tasker) - A high precision scheduler including timezone aware cron jobs
 
 ### Shell plugins
 
-*   [crun (⭐43)](https://github.com/Val/crun) - Crystal Run : shebang wrapper for Crystal
+*   [crun (⭐45)](https://github.com/Val/crun) - Crystal Run : shebang wrapper for Crystal
 
 ## [3. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
@@ -58,7 +58,7 @@
 
 ### Images / Barcode
 
-*   [ATGMediaBrowser (⭐213)](https://github.com/altayer-digital/ATGMediaBrowser) - Image slide-show viewer with multiple predefined transition styles, and with ability to create new transitions with ease.
+*   [ATGMediaBrowser (⭐215)](https://github.com/altayer-digital/ATGMediaBrowser) - Image slide-show viewer with multiple predefined transition styles, and with ability to create new transitions with ease.
 
 ## [8. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
@@ -80,7 +80,7 @@
 
 ### Contract programming
 
-*   [quid-pro-quo (⭐93)](https://github.com/sellout/quid-pro-quo) - a contract
+*   [quid-pro-quo (⭐95)](https://github.com/sellout/quid-pro-quo) - a contract
     programming library in the style of Eiffel’s Design by Contract ™. Public domain.
 
 ### Beginner
@@ -101,7 +101,7 @@
 
 ### Testing
 
-*   [Betamax (⭐462)](https://github.com/betamaxteam/betamax) - Betamax is a tool for mocking external HTTP resources such as web services and REST APIs in your tests.
+*   [Betamax (⭐472)](https://github.com/betamaxteam/betamax) - Betamax is a tool for mocking external HTTP resources such as web services and REST APIs in your tests.
 
 ### Concurrency
 
@@ -109,7 +109,7 @@
 
 ### Code Analysis
 
-*   [Sonar-Groovy (⭐53)](https://github.com/pmayweg/sonar-groovy) - SonarQube Groovy plugin
+*   [Sonar-Groovy (⭐52)](https://github.com/pmayweg/sonar-groovy) - SonarQube Groovy plugin
 
 ### Conferences
 

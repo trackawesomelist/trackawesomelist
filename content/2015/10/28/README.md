@@ -45,7 +45,7 @@
 
 ### Localization / Barcode
 
-*   [Localize-Swift (⭐3k)](https://github.com/marmelroy/Localize-Swift) - Localize apps using e.g. regular expressions in Localizable.strings.
+*   [Localize-Swift (⭐3.1k)](https://github.com/marmelroy/Localize-Swift) - Localize apps using e.g. regular expressions in Localizable.strings.
 
 ## [6. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 

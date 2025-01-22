@@ -10,9 +10,9 @@
 
 ### Scripting languages and interpreters for DOS
 
-*   [DOjS (⭐675)](https://github.com/SuperIlu/DOjS) - JavaScript programming environment for MS-DOS, FreeDOS or any DOS-based Windows (like 95, 98, ME).
+*   [DOjS (⭐866)](https://github.com/SuperIlu/DOjS) - JavaScript programming environment for MS-DOS, FreeDOS or any DOS-based Windows (like 95, 98, ME).
 *   [Lua for DOS](https://archive.org/details/lua5.3.5) - Online demo of Lua 5.3.5, compiled for MS-DOS on the Intel 80486 processor.
-*   [Micropython for FreeDOS (⭐22)](https://github.com/pohmelie/micropython-freedos) - FreeDOS ad-hoc module for [micropython (⭐19k)](https://github.com/micropython/micropython).
+*   [Micropython for FreeDOS (⭐25)](https://github.com/pohmelie/micropython-freedos) - FreeDOS ad-hoc module for [micropython (⭐19k)](https://github.com/micropython/micropython).
 *   [perldos](https://perldoc.perl.org/perldos) - Perl for DOS.
 *   [PythonD](http://www.caddit.net/pythond/) - Python for DOS, including multi-threading, networking and OpenGL.
 
@@ -20,7 +20,7 @@
 
 ### REST and API
 
-*   🍰 [MixerApi](https://mixerapi.com) - Streamline development of modern RESTful APIs for your team's CakePHP project.
+*   [MixerApi](https://mixerapi.com) - Streamline development of modern RESTful APIs for your team's CakePHP project.
 
 ## [3. Awesome PICO 8](/content/pico-8/awesome-PICO-8/README.md)
 
@@ -32,7 +32,7 @@
 
 ### GDScript/C# editor support / Godot version unknown
 
-*   [GNU Nano (⭐0)](https://github.com/GodotID/nano-gdscript) - Syntax highlighting.
+*   [GNU Nano (⭐2)](https://github.com/GodotID/nano-gdscript) - Syntax highlighting.
 
 ## [5. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
@@ -66,11 +66,11 @@
 
 ### Components & Libraries / Frameworks
 
-*   [Qui-max (⭐274)](https://github.com/Qvant-lab/qui-max) - A Vue 3.x Design System for Web
+*   [Qui-max (⭐277)](https://github.com/Qvant-lab/qui-max) - A Vue 3.x Design System for Web
 
 ### Components & Libraries / Utilities
 
-*   [v-google-translate (⭐365)](https://github.com/i7eo/v-google-translate) - A component that use google translate to internationalize your Vue.js app.
+*   [v-google-translate (⭐372)](https://github.com/i7eo/v-google-translate) - A component that use google translate to internationalize your Vue.js app.
 
 ---
 

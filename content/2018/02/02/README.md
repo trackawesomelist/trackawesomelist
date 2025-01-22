@@ -18,18 +18,6 @@
 
 *   [Vuejs 2.5+ Authentication Tutorial using Auth0](https://www.storyblok.com/tp/how-to-auth0-vuejs-authentication) on Storyblok blog
 
-### Resources / Examples
-
-*   [Vue.js 2.5 with vue-cli v3 including authentication with auth0 (⭐39)](https://github.com/DominikAngerer/auth0-vue) by Dominik Angerer, Storyblok
-
-### Projects Using Vue.js / Open Source
-
-*   [Code Notes (⭐1.1k)](https://github.com/lauthieb/code-notes) - A simple code snippet manager for developers built with Electron & Vue.js.
-
-### Components & Libraries / UI Components
-
-*   [vue-modaltor (⭐82)](https://github.com/davodaslanifakor/modaltor) - most advance configurable modal component for vuejs
-
 ## [3. Awesome Phalcon](/content/phalcon/awesome-phalcon/README.md)
 
 ### Application Skeleton
@@ -38,14 +26,14 @@
 
 ## [4. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 
-### Tools and frameworks
+### Tools and frameworks (a-z↓)
 
-*   [Look-alike (⭐33)](https://github.com/kdzwinel/Look-alike) - Chrome Extension for taking and comparing screenshots.
-*   [Differencify (⭐632)](https://github.com/NimaSoroush/differencify) - A library for visual regression testing using [Puppeteer (⭐88k)](https://github.com/GoogleChrome/puppeteer).
+*   [Differencify (⭐634)](https://github.com/NimaSoroush/differencify) - A library for visual regression testing using [Puppeteer (⭐89k)](https://github.com/GoogleChrome/puppeteer).
+*   [Look-alike (⭐34)](https://github.com/kdzwinel/Look-alike) - Chrome Extension for taking and comparing screenshots.
 
-### Blog posts
+### Blog posts  (a-z↓)
 
-*   [Make visual regression testing easier](https://medium.com/@nima.soroush.h/make-visual-regression-testing-easier-4a3dc7073737) - Introduction to [Differencify (⭐632)](https://github.com/NimaSoroush/differencify) and how to use it.
+*   [Make visual regression testing easier](https://medium.com/@nima.soroush.h/make-visual-regression-testing-easier-4a3dc7073737) - Introduction to [Differencify (⭐634)](https://github.com/NimaSoroush/differencify) and how to use it.
 
 ## [5. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 

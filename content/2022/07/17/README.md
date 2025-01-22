@@ -10,7 +10,7 @@
 
 ### Device Farms / Desktop GUI Automation (non-browser-centric)
 
-*   [OpenSTF (⭐2.1k)](https://github.com/DeviceFarmer/stf) - A framework for running your own device farm, geared toward Android, but also iOS.
+*   [OpenSTF (⭐3.6k)](https://github.com/DeviceFarmer/stf) - A framework for running your own device farm, geared toward Android, but also iOS.
 
 ### Specifications / Desktop GUI Automation (non-browser-centric)
 
@@ -34,13 +34,13 @@
 
 ### Boilerplate / Other Tools
 
-*   [fastapi-starter-project (⭐110)](https://github.com/mirzadelic/fastapi-starter-project) - A project template which uses FastAPI, SQLModel, Alembic, Pytest, Docker, GitHub Actions CI.
+*   [fastapi-starter-project (⭐120)](https://github.com/mirzadelic/fastapi-starter-project) - A project template which uses FastAPI, SQLModel, Alembic, Pytest, Docker, GitHub Actions CI.
 
 ## [4. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / General-Purpose Machine Learning
 
-*   [Upgini (⭐309)](https://github.com/upgini/upgini): Free automated data & feature enrichment library for machine learning - automatically searches through thousands of ready-to-use features from public and community shared data sources and enriches your training dataset with only the accuracy improving features.
+*   [Upgini (⭐321)](https://github.com/upgini/upgini): Free automated data & feature enrichment library for machine learning - automatically searches through thousands of ready-to-use features from public and community shared data sources and enriches your training dataset with only the accuracy improving features.
 
 ## [5. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
@@ -70,7 +70,7 @@
 
 ### Function extensions
 
-*   [nhooks (⭐18)](https://github.com/atlas-engineer/nhooks) - an enhanced implementation of hooks (extension points) with crucial improvements.
+*   [nhooks (⭐20)](https://github.com/atlas-engineer/nhooks) - an enhanced implementation of hooks (extension points) with crucial improvements.
 
 ## [10. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -86,7 +86,7 @@
 
 ### Software / Communication - Video Conferencing
 
-*   [BigBlueButton](https://bigbluebutton.org/) - Supports real-time sharing of audio, video, slides (with whiteboard controls), chat, and the screen. Instructors can engage remote students with polling, emojis, and breakout rooms. ([Source Code (⭐8.5k)](https://github.com/bigbluebutton/bigbluebutton)) `LGPL-3.0` `Java`
+*   [BigBlueButton](https://bigbluebutton.org/) - Supports real-time sharing of audio, video, slides (with whiteboard controls), chat, and the screen. Instructors can engage remote students with polling, emojis, and breakout rooms. ([Source Code (⭐8.6k)](https://github.com/bigbluebutton/bigbluebutton)) `LGPL-3.0` `Java`
 *   [Jitsi Video Bridge](https://jitsi.org/Projects/JitsiVideobridge) - WebRTC compatible Selective Forwarding Unit (SFU) that allows for multiuser video communication. ([Source Code (⭐2.9k)](https://github.com/jitsi/jitsi-videobridge)) `Apache-2.0` `Java/deb`
 
 ---

@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 30, 2017
 
-8 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -38,7 +38,7 @@
 
 ### Example Projects
 
-*   [Example of custom password hash SPI for Keycloak (⭐24)](https://github.com/pavelbogomolenko/keycloak-custom-password-hash)
+*   [Example of custom password hash SPI for Keycloak (⭐26)](https://github.com/pavelbogomolenko/keycloak-custom-password-hash)
 *   [Example for a custom http-client-provider with Proxy support (⭐3)](https://github.com/xiaoyvr/custom-http-client-provider)
 
 ## [5. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
@@ -53,17 +53,7 @@
 
 *   [Link Shell Extension](http://schinagl.priv.at/nt/hardlinkshellext/hardlinkshellext.html) - Create symlinks from Explorer.
 
-## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Projects Using Vue.js / Open Source
-
-*   [News Weaver (⭐23)](https://github.com/Rud156/News-Weaver) - A web based RSS Reader/Aggregator made using VueJS and VuetifyJS
-
-### Components & Libraries / UI Components
-
-*   [vue-messagebox (⭐13)](https://github.com/zhangxiang958/vue-messageBox) - Easy and made-to-order messagebox component on Vue.
-
-## [8. Awesome CoreML Models](/content/likedan/Awesome-CoreML-Models/README.md)
+## [7. Awesome CoreML Models](/content/likedan/Awesome-CoreML-Models/README.md)
 
 ### Image - Metadata/Text
 

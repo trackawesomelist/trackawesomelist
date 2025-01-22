@@ -16,20 +16,20 @@
 
 ### Artificial Intelligence
 
-*   [Axon (⭐1.5k)](https://github.com/elixir-nx/axon) - Nx-powered Neural Networks.
-*   [Nx (⭐2.6k)](https://github.com/elixir-nx/nx) - Multi-dimensional arrays (tensors) and numerical definitions for Elixir.
+*   [Axon (⭐1.6k)](https://github.com/elixir-nx/axon) - Nx-powered Neural Networks.
+*   [Nx (⭐2.7k)](https://github.com/elixir-nx/nx) - Multi-dimensional arrays (tensors) and numerical definitions for Elixir.
 
 ## [3. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Third-party APIs
 
-*   [whatsapp-sdk (⭐158)](https://github.com/ignacio-chiazzo/ruby_whatsapp_sdk) - Ruby client for the Whatsapp API.
+*   [whatsapp-sdk (⭐163)](https://github.com/ignacio-chiazzo/ruby_whatsapp_sdk) - Ruby client for the Whatsapp API.
 
 ## [4. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/README.md)
 
 ### Workflow Managers
 
-*   **[redun (⭐371)](https://github.com/insitro/redun)** - A python-based workflow manager.
+*   **[redun (⭐537)](https://github.com/insitro/redun)** - A python-based workflow manager.
 
 ## [5. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
 
@@ -59,21 +59,21 @@
 
 ### Libraries/Frameworks / Misc
 
-*   [z4kn4fein/kotlin-semver (⭐93)](https://github.com/z4kn4fein/kotlin-semver) - Semantic Versioning library for Kotlin Multiplatform.
+*   [z4kn4fein/kotlin-semver (⭐108)](https://github.com/z4kn4fein/kotlin-semver) - Semantic Versioning library for Kotlin Multiplatform.
 
 ## [8. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [Uploady (⭐77)](https://github.com/farisc0de/Uploady) - Uploady is a simple file uploader script with multi file upload support. `MIT` `PHP`
+*   [Uploady (⭐84)](https://github.com/farisc0de/Uploady) - Uploady is a simple file uploader script with multi file upload support. `MIT` `PHP`
 
 ### Software / Miscellaneous
 
-*   [Lama-Cleaner (⭐19k)](https://github.com/Sanster/lama-cleaner) `⚠` - A free and open-source inpainting tool powered by SOTA AI model. `Apache-2.0` `Python/Docker`
+*   [Lama-Cleaner (⭐20k)](https://github.com/Sanster/lama-cleaner) `⚠` - A free and open-source inpainting tool powered by SOTA AI model. `Apache-2.0` `Python/Docker`
 
 ### Software / Personal Dashboards
 
-*   [Homepage by tomershvueli (⭐307)](https://github.com/tomershvueli/homepage) - Simple, standalone, self-hosted PHP page that is your window to your server and the web. `MIT` `PHP`
+*   [Homepage by tomershvueli (⭐313)](https://github.com/tomershvueli/homepage) - Simple, standalone, self-hosted PHP page that is your window to your server and the web. `MIT` `PHP`
 
 ## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -99,10 +99,6 @@
 
 *   [Kaggle](https://www.kaggle.com/learn) - Learn about Data Science, Machine Learning, Python etc
 
-### Slack Communities / Book Deals (Affiliated) 🛍
-
-*   [Women Who Code - Data Science](https://www.womenwhocode.com/datascience)
-
 ## [13. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### Courses and Educational Materials
@@ -121,7 +117,7 @@
 
 ### JSON
 
-*   [Glaze (⭐1.1k)](https://github.com/stephenberry/glaze) - Extremely fast, in memory, JSON and interface library for modern C++. \[MIT]
+*   [Glaze (⭐1.6k)](https://github.com/stephenberry/glaze) - Extremely fast, in memory, JSON and interface library for modern C++. \[MIT]
 
 ## [15. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 

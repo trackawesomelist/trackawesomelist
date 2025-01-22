@@ -14,7 +14,7 @@
 
 ### Debugging
 
-*   [eflame (⭐422)](https://github.com/proger/eflame) - Flame Graph profiler for Erlang.
+*   [eflame (⭐426)](https://github.com/proger/eflame) - Flame Graph profiler for Erlang.
 
 ### Feeds
 
@@ -41,7 +41,7 @@
 
 ### GUI
 
-*   [AvalonEdit (⭐1.8k)](https://github.com/icsharpcode/AvalonEdit) - The WPF-based text editor component used in SharpDevelop
+*   [AvalonEdit (⭐1.9k)](https://github.com/icsharpcode/AvalonEdit) - The WPF-based text editor component used in SharpDevelop
 
 ## [3. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
@@ -51,7 +51,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [python-timbl (⭐17)](https://github.com/proycon/python-timbl) - A Python extension module wrapping the full TiMBL C++ programming interface. Timbl is an elaborate k-Nearest Neighbours machine learning toolkit.
+*   [python-timbl (⭐18)](https://github.com/proycon/python-timbl) - A Python extension module wrapping the full TiMBL C++ programming interface. Timbl is an elaborate k-Nearest Neighbours machine learning toolkit.
 
 ## [4. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
 

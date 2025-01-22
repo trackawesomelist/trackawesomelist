@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 08 - Mar 14, 2021
 
-59 awesome lists updated this week.
+58 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -27,13 +27,13 @@
 ### Open Sources Intelligence (OSINT) / Web application and resource analysis tools
 
 *   [BlindElephant](http://blindelephant.sourceforge.net/) - Web application fingerprinter.
-*   [EyeWitness (⭐2)](https://github.com/ChrisTruncer/EyeWitness) - Tool to take screenshots of websites, provide some server header info, and identify default credentials if possible.
+*   [EyeWitness (⭐18)](https://github.com/ChrisTruncer/EyeWitness) - Tool to take screenshots of websites, provide some server header info, and identify default credentials if possible.
 *   [VHostScan (⭐1.2k)](https://github.com/codingo/VHostScan) - Virtual host scanner that performs reverse lookups, can be used with pivot tools, detect catch-all scenarios, aliases and dynamic default pages.
 *   [Wappalyzer](https://www.wappalyzer.com/) - Wappalyzer uncovers the technologies used on websites.
-*   [WhatWaf (⭐2.6k)](https://github.com/Ekultek/WhatWaf) - Detect and bypass web application firewalls and protection systems.
-*   [WhatWeb (⭐5.2k)](https://github.com/urbanadventurer/WhatWeb) - Website fingerprinter.
-*   [wafw00f (⭐5k)](https://github.com/EnableSecurity/wafw00f) - Identifies and fingerprints Web Application Firewall (WAF) products.
-*   [webscreenshot (⭐649)](https://github.com/maaaaz/webscreenshot) - Simple script to take screenshots of websites from a list of sites.
+*   [WhatWaf (⭐2.7k)](https://github.com/Ekultek/WhatWaf) - Detect and bypass web application firewalls and protection systems.
+*   [WhatWeb (⭐5.6k)](https://github.com/urbanadventurer/WhatWeb) - Website fingerprinter.
+*   [wafw00f (⭐5.3k)](https://github.com/EnableSecurity/wafw00f) - Identifies and fingerprints Web Application Firewall (WAF) products.
+*   [webscreenshot (⭐659)](https://github.com/maaaaz/webscreenshot) - Simple script to take screenshots of websites from a list of sites.
 
 ### Web Exploitation / Social Engineering Tools
 
@@ -48,33 +48,33 @@
 
 ### Web Exploitation / Web file inclusion tools
 
-*   [Kadimus (⭐510)](https://github.com/P0cL4bs/Kadimus) - LFI scan and exploit tool.
-*   [LFISuite (⭐1.6k)](https://github.com/D35m0nd142/LFISuite) - Automatic LFI scanner and exploiter.
-*   [fimap (⭐491)](https://github.com/kurobeats/fimap) - Find, prepare, audit, exploit and even Google automatically for LFI/RFI bugs.
+*   [Kadimus (⭐514)](https://github.com/P0cL4bs/Kadimus) - LFI scan and exploit tool.
+*   [LFISuite (⭐1.7k)](https://github.com/D35m0nd142/LFISuite) - Automatic LFI scanner and exploiter.
+*   [fimap (⭐521)](https://github.com/kurobeats/fimap) - Find, prepare, audit, exploit and even Google automatically for LFI/RFI bugs.
 *   [liffy (⭐122)](https://github.com/hvqzao/liffy) - LFI exploitation tool.
 
 ### Web Exploitation / Web injection tools
 
-*   [Commix (⭐4.4k)](https://github.com/commixproject/commix) - Automated all-in-one operating system command injection and exploitation tool.
-*   [NoSQLmap (⭐2.8k)](https://github.com/codingo/NoSQLMap) - Automatic NoSQL injection and database takeover tool.
+*   [Commix (⭐4.6k)](https://github.com/commixproject/commix) - Automated all-in-one operating system command injection and exploitation tool.
+*   [NoSQLmap (⭐2.9k)](https://github.com/codingo/NoSQLMap) - Automatic NoSQL injection and database takeover tool.
 *   [SQLmap](http://sqlmap.org/) - Automatic SQL injection and database takeover tool.
 
 ### Web Exploitation / Web path discovery and bruteforcing tools
 
 *   [dirsearch (⭐12k)](https://github.com/maurosoria/dirsearch) - Web path scanner.
-*   [recursebuster (⭐241)](https://github.com/c-sto/recursebuster) - Content discovery tool to perform directory and file bruteforcing.
+*   [recursebuster (⭐242)](https://github.com/c-sto/recursebuster) - Content discovery tool to perform directory and file bruteforcing.
 
 ### Web Exploitation / Web shells and C2 frameworks
 
-*   [Browser Exploitation Framework (BeEF) (⭐9.5k)](https://github.com/beefproject/beef) - Command and control server for delivering exploits to commandeered Web browsers.
+*   [Browser Exploitation Framework (BeEF) (⭐9.9k)](https://github.com/beefproject/beef) - Command and control server for delivering exploits to commandeered Web browsers.
 *   [DAws (⭐572)](https://github.com/dotcppfile/DAws) - Advanced Web shell.
 
 ### Web Exploitation / Web-accessible source code ripping tools
 
 *   [DVCS Ripper (⭐1.7k)](https://github.com/kost/dvcs-ripper) - Rip web accessible (distributed) version control systems: SVN/GIT/HG/BZR.
-*   [GitTools (⭐3.8k)](https://github.com/internetwache/GitTools) - Automatically find and download Web-accessible `.git` repositories.
-*   [git-dumper (⭐1.7k)](https://github.com/arthaud/git-dumper) - Tool to dump a git repository from a website.
-*   [git-scanner (⭐333)](https://github.com/HightechSec/git-scanner) - Tool for bug hunting or pentesting websites that have open `.git` repositories available in public.
+*   [GitTools (⭐3.9k)](https://github.com/internetwache/GitTools) - Automatically find and download Web-accessible `.git` repositories.
+*   [git-dumper (⭐1.9k)](https://github.com/arthaud/git-dumper) - Tool to dump a git repository from a website.
+*   [git-scanner (⭐340)](https://github.com/HightechSec/git-scanner) - Tool for bug hunting or pentesting websites that have open `.git` repositories available in public.
 
 ## [4. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
 
@@ -90,7 +90,7 @@
 
 ### Entertainment / Music
 
-*   [swaglyrics-for-spotify (⭐314)](https://github.com/SwagLyrics/SwagLyrics-For-Spotify) - Spotify lyrics.
+*   [swaglyrics-for-spotify (⭐320)](https://github.com/SwagLyrics/SwagLyrics-For-Spotify) - Spotify lyrics.
 
 ## [6. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
 
@@ -106,26 +106,22 @@
 
 ## [8. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
-### Plugins and scripts / Various Godot versions
+### Plugins and scripts / Godot 3
 
-*   [EffekseerForGodot3 (⭐131)](https://github.com/effekseer/EffekseerForGodot3) - Import [Effekseer](https://effekseer.github.io/en/) particle effects (Godot 3.x).
+*   [EffekseerForGodot3 (⭐132)](https://github.com/effekseer/EffekseerForGodot3) - Import [Effekseer](https://effekseer.github.io/en/) particle effects.
 
 ## [9. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / Utils
 
-*   [maze\_generator (⭐37)](https://github.com/mjrlowe/maze_generator) - Javascript module for generating, solving, analyzing and displaying mazes.
-
-### Articles / XML
-
-*   [Test coverage in Deno with Codecov and GitHub Actions](https://v1rtl.site/blog/coverage-in-deno)
+*   [maze\_generator (⭐38)](https://github.com/mjrlowe/maze_generator) - Javascript module for generating, solving, analyzing and displaying mazes.
 
 ## [10. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
 
 ### Tools / Linters
 
 *   [flake8-typing-imports (⭐48)](https://github.com/asottile/flake8-typing-imports) - Plugin which checks that typing imports are properly guarded.
-*   [flake8-typing-only-imports (⭐112)](https://github.com/sondrelg/flake8-typing-only-imports) - flake8 plugin that helps identify which imports to put into type-checking blocks, and how to adjust your type annotations once imports are moved.
+*   [flake8-typing-only-imports (⭐116)](https://github.com/sondrelg/flake8-typing-only-imports) - flake8 plugin that helps identify which imports to put into type-checking blocks, and how to adjust your type annotations once imports are moved.
 
 ## [11. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
 
@@ -183,11 +179,11 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-cesium (⭐220)](https://github.com/nshen/vite-plugin-cesium) - Integration with Cesium library.
+*   [vite-plugin-cesium (⭐236)](https://github.com/nshen/vite-plugin-cesium) - Integration with Cesium library.
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-aliases (⭐207)](https://github.com/subwaytime/vite-aliases) - Alias auto-generation based on project structure.
+*   [vite-aliases (⭐214)](https://github.com/subwaytime/vite-aliases) - Alias auto-generation based on project structure.
 
 ## [18. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
@@ -199,36 +195,36 @@
 
 ### Video / Text
 
-*   [MPV (⭐24k)](https://github.com/mpv-player/mpv) - Lightweight, highly configurable media player. ![c\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/c-16.png "C language.")
+*   [MPV (⭐28k)](https://github.com/mpv-player/mpv) - Lightweight, highly configurable media player. ![c\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/c-16.png "C language.")
 
 ### Development / Web Development
 
-*   [SimpleLocalize CLI (⭐41)](https://github.com/simplelocalize/simplelocalize-cli) - Open source tool for managing i18n keys in software projects. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
+*   [SimpleLocalize CLI (⭐59)](https://github.com/simplelocalize/simplelocalize-cli) - Open source tool for managing i18n keys in software projects. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
 
 ### Development / iOS / macOS
 
-*   [Localizable.strings (⭐28)](https://github.com/cristibaluta/Localizable.strings) - Mac app to localize your iOS and macOS projects.  ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
-*   [Xcodes.app (⭐5.8k)](https://github.com/RobotsAndPencils/XcodesApp) - The easiest way to install and switch between multiple versions of Xcode. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
+*   [Localizable.strings (⭐31)](https://github.com/cristibaluta/Localizable.strings) - Mac app to localize your iOS and macOS projects.  ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
+*   [Xcodes.app (⭐6.9k)](https://github.com/RobotsAndPencils/XcodesApp) - The easiest way to install and switch between multiple versions of Xcode. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
 
 ### Notes / Text
 
-*   [Notenik (⭐73)](https://github.com/hbowie/notenik-swift) - Note-taking app with many organizational options. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
+*   [Notenik (⭐96)](https://github.com/hbowie/notenik-swift) - Note-taking app with many organizational options. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
 
 ### Utilities / Text
 
-*   [ThenGenerator (⭐19)](https://github.com/87kangsw/ThenGenerator) - Xcode Source Editor Extension for 'Then' ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
-*   [Stats (⭐18k)](https://github.com/exelban/stats) - macOS system monitor in your menu bar ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
-*   [baRSS – Menu Bar RSS Reader (⭐79)](https://github.com/relikd/barss) - RSS & Atom feed reader that lives in the system status bar. ![objective\_c\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/objective-c-16.png "Objective-C language.")
-*   [PercentCalculator (⭐26)](https://github.com/cemolcay/PercentCalculator) - A menu bar application that calculates percents.  ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
+*   [ThenGenerator (⭐20)](https://github.com/87kangsw/ThenGenerator) - Xcode Source Editor Extension for 'Then' ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
+*   [Stats (⭐25k)](https://github.com/exelban/stats) - macOS system monitor in your menu bar ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
+*   [baRSS – Menu Bar RSS Reader (⭐114)](https://github.com/relikd/barss) - RSS & Atom feed reader that lives in the system status bar. ![objective\_c\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/objective-c-16.png "Objective-C language.")
+*   [PercentCalculator (⭐28)](https://github.com/cemolcay/PercentCalculator) - A menu bar application that calculates percents.  ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
 
 ### Keyboard / Text
 
-*   [Kawa (⭐1.3k)](https://github.com/hatashiro/kawa) - Better input source switcher for macOS.  ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
+*   [Kawa (⭐1.4k)](https://github.com/hatashiro/kawa) - Better input source switcher for macOS.  ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
 
 ### Menubar / Text
 
-*   [SwiftBar (⭐2.3k)](https://github.com/swiftbar/SwiftBar) - Powerful macOS menu bar customization tool. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
-*   [xbar (⭐17k)](https://github.com/matryer/xbar) - Put the output from any script or program into your macOS Menu Bar.  ![objective\_c\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/objective-c-16.png "Objective-C language.")
+*   [SwiftBar (⭐2.9k)](https://github.com/swiftbar/SwiftBar) - Powerful macOS menu bar customization tool. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
+*   [xbar (⭐18k)](https://github.com/matryer/xbar) - Put the output from any script or program into your macOS Menu Bar.  ![objective\_c\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/objective-c-16.png "Objective-C language.")
 
 ## [20. Public Apis](/content/public-apis/public-apis/week/README.md)
 
@@ -275,13 +271,13 @@
 
 ### Driver crates / Other
 
-*   [DRV8825](https://crates.io/crates/drv8825) - DRV8825 Stepper Motor Driver (based on [Stepper](https://crates.io/crates/stepper)) - [Intro blog post](https://flott-motion.org/news/announcing-step-dir/) - ![crates.io](https://img.shields.io/crates/v/drv8825.svg)
-*   [STSPIN220](https://crates.io/crates/stspin220) - STSPIN220 Stepper Motor Driver (based on [Stepper](https://crates.io/crates/stepper)) - [Intro blog post](https://flott-motion.org/news/announcing-step-dir/) - ![crates.io](https://img.shields.io/crates/v/stspin220.svg)
+*   [DRV8825](https://crates.io/crates/drv8825) - DRV8825 Stepper Motor Driver (based on [Stepper](https://crates.io/crates/stepper)) - [Intro blog post](https://flott-motion.org/news/announcing-step-dir/) - [![crates.io](https://img.shields.io/crates/v/drv8825.svg)](https://crates.io/crates/drv8825)
+*   [STSPIN220](https://crates.io/crates/stspin220) - STSPIN220 Stepper Motor Driver (based on [Stepper](https://crates.io/crates/stepper)) - [Intro blog post](https://flott-motion.org/news/announcing-step-dir/) - [![crates.io](https://img.shields.io/crates/v/stspin220.svg)](https://crates.io/crates/stspin220)
 
 ### no-std crates / WIP
 
-*   [RampMaker](https://crates.io/crates/ramp-maker): Stepper Motor Acceleration Ramp Generator - ![crates.io](https://img.shields.io/crates/v/ramp-maker.svg)
-*   [Stepper](https://crates.io/crates/stepper): Universal Stepper Motor Interface - ![crates.io](https://img.shields.io/crates/v/stepper.svg)
+*   [RampMaker](https://crates.io/crates/ramp-maker): Stepper Motor Acceleration Ramp Generator - [![crates.io](https://img.shields.io/crates/v/ramp-maker.svg)](https://crates.io/crates/ramp-maker)
+*   [Stepper](https://crates.io/crates/stepper): Universal Stepper Motor Interface - [![crates.io](https://img.shields.io/crates/v/stepper.svg)](https://crates.io/crates/stepper)
 
 ## [22. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
@@ -323,35 +319,35 @@
 
 ### UI
 
-*   [Timeline Tile (⭐703)](https://github.com/JHBitencourt/timeline_tile) <!--stargazers:JHBitencourt/timeline_tile--> - Tile to help build beautiful and customisable timelines by [Julio Bitencourt](https://github.com/JHBitencourt).
+*   [Timeline Tile (⭐758)](https://github.com/JHBitencourt/timeline_tile) <!--stargazers:JHBitencourt/timeline_tile--> - Tile to help build beautiful and customisable timelines by [Julio Bitencourt](https://github.com/JHBitencourt).
 
 ### Text & Rich Content / Image Picker
 
-*   [Code Field (⭐230)](https://github.com/BertrandBev/code_field) - Customizable code field widget supporting syntax highlighting by [Bertrand Bevillard](https://github.com/BertrandBev)
+*   [Code Field (⭐232)](https://github.com/BertrandBev/code_field) - Customizable code field widget supporting syntax highlighting by [Bertrand Bevillard](https://github.com/BertrandBev)
 
 ### Templates / Preferences
 
-*   [Beautiful Timelines (⭐308)](https://github.com/JHBitencourt/beautiful_timelines) <!--stargazers:JHBitencourt/beautiful_timelines--> - A set of beautiful timelines by [Julio Bitencourt](https://github.com/JHBitencourt).
+*   [Beautiful Timelines (⭐328)](https://github.com/JHBitencourt/beautiful_timelines) <!--stargazers:JHBitencourt/beautiful_timelines--> - A set of beautiful timelines by [Julio Bitencourt](https://github.com/JHBitencourt).
 
 ## [25. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [Gokapi (⭐1.2k)](https://github.com/Forceu/gokapi) - Lightweight server to share files, which expire after a set amount of downloads or days. Similar to the discontinued Firefox Send, with the difference that only the admin is allowed to upload files. `GPL-3.0` `Go/Docker`
+*   [Gokapi (⭐1.8k)](https://github.com/Forceu/gokapi) - Lightweight server to share files, which expire after a set amount of downloads or days. Similar to the discontinued Firefox Send, with the difference that only the admin is allowed to upload files. `GPL-3.0` `Go/Docker`
 
 ### Software / Inventory Management
 
-*   [Inventree](https://inventree.readthedocs.io/en/latest/) - InvenTree is an open-source inventory management system which provides intuitive parts management and stock control. ([Demo](https://inventree.org/demo), [Source Code (⭐4k)](https://github.com/inventree/InvenTree)) `MIT` `Python`
+*   [Inventree](https://inventree.readthedocs.io/en/latest/) - InvenTree is an open-source inventory management system which provides intuitive parts management and stock control. ([Demo](https://inventree.org/demo), [Source Code (⭐4.6k)](https://github.com/inventree/InvenTree)) `MIT` `Python`
 
 ### Software / Note-taking & Editors
 
-*   [Joplin](https://joplinapp.org/) - Joplin is a note taking application with Markdown editor and encryption support for mobile and desktop platforms. Runs client-side and syncs through self hosted Nextcloud or similar (alternative to Evernote). ([Source Code (⭐45k)](https://github.com/laurent22/joplin)) `MIT` `Nodejs`
+*   [Joplin](https://joplinapp.org/) - Joplin is a note taking application with Markdown editor and encryption support for mobile and desktop platforms. Runs client-side and syncs through self hosted Nextcloud or similar (alternative to Evernote). ([Source Code (⭐47k)](https://github.com/laurent22/joplin)) `MIT` `Nodejs`
 
 ## [26. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### UI Libraries, Components & Templates
 
-*   🧩 [Litepie Date picker (⭐372)](https://github.com/kenhyuwa/litepie-datepicker) - A date range picker component for Vue.js and Tailwind CSS.
+*   🧩 [Litepie Date picker (⭐374)](https://github.com/kenhyuwa/litepie-datepicker) - A date range picker component for Vue.js and Tailwind CSS.
 
 ## [27. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 
@@ -414,11 +410,11 @@
 
 *   [Sitecore.Demo.Headless (⭐22)](https://github.com/Sitecore/Sitecore.Demo.Headless) - Sitecore JSS PWA demo assets and future "Sitecore Headless" related demo assets.
 *   [Sitecore DXP Demo (⭐28)](https://github.com/Sitecore/Sitecore.Demo.Edge) - A demo of XM, Experience Edge, Content Hub DAM and CMP, Content Hub Edge, JSS, CDP, Sitecore Personalize, Next.js and Vercel.
-*   [Sitecore Developer Portal (⭐30)](https://github.com/Sitecore/developer-portal) - The Sitecore developer portal is built with Next.js, Typescript, and Tailwind CSS, and is hosted on Vercel. It uses static site generation (SSG) to create all the pages at build time. It also utilizes Incremental Static Regeneration (ISR) to automatically update the app when changes to page content are made. Many pages are written in Markdown and converted to HTML at build time. Images that are used are managed in Sitecore DAM and are published to a CDN.
+*   [Sitecore Developer Portal (⭐31)](https://github.com/Sitecore/developer-portal) - The Sitecore developer portal is built with Next.js, Typescript, and Tailwind CSS, and is hosted on Vercel. It uses static site generation (SSG) to create all the pages at build time. It also utilizes Incremental Static Regeneration (ISR) to automatically update the app when changes to page content are made. Many pages are written in Markdown and converted to HTML at build time. Images that are used are managed in Sitecore DAM and are published to a CDN.
 
 ### JSS
 
-*   [Headless Examples (⭐8)](https://github.com/Sitecore/headless-examples) - A repository with valuable examples, such as JSS embedded app and Next.js using federated authentication.
+*   [Headless Examples (⭐9)](https://github.com/Sitecore/headless-examples) - A repository with valuable examples, such as JSS embedded app and Next.js using federated authentication.
 
 ### Integration
 
@@ -435,7 +431,7 @@
 ### Standalone apps / Playground
 
 *   :octocat: [alm (⭐3k)](https://github.com/alm-tools/alm) - A next generation IDE just for TypeScript written in TypeScript + React
-*   :octocat: [SnowFS (⭐1.3k)](https://github.com/snowtrack/snowfs) - a fast, scalable version control file storage for graphic files
+*   :octocat: [SnowFS](https://github.com/snowtrack/snowfs) - a fast, scalable version control file storage for graphic files
 
 ### Libraries / Chrome Extensions
 
@@ -445,7 +441,7 @@
 
 ### Libraries for driving the protocol (or a layer above)
 
-*   Kotlin: [chrome-devtools-kotlin (⭐43)](https://github.com/joffrey-bion/chrome-devtools-kotlin) - A coroutine-based client library, providing low-level CDP primitives and high-level extensions.
+*   Kotlin: [chrome-devtools-kotlin (⭐47)](https://github.com/joffrey-bion/chrome-devtools-kotlin) - A coroutine-based client library, providing low-level CDP primitives and high-level extensions.
 
 ## [36. Awesome Scala](/content/lauris/awesome-scala/week/README.md)
 
@@ -472,22 +468,22 @@
 
 ### AppImage developer tools / Libraries
 
-*   [QAppImageUpdate (⭐26)](https://github.com/antony-jr/QAppImageUpdate) - Qt5 library and plugin for updating AppImages, can be embedded into applications.
+*   [QAppImageUpdate (⭐28)](https://github.com/antony-jr/QAppImageUpdate) - Qt5 library and plugin for updating AppImages, can be embedded into applications.
 
 ## [38. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Programming Languages
 
-*   [C (⭐3.4k)](https://github.com/inputsh/awesome-c#readme)
-*   [D (⭐652)](https://github.com/dlang-community/awesome-d#readme)
+*   [C (⭐3.5k)](https://github.com/inputsh/awesome-c#readme)
+*   [D (⭐665)](https://github.com/dlang-community/awesome-d#readme)
 
 ### Front-End Development
 
-*   [PageSpeed Metrics (⭐671)](https://github.com/csabapalfi/awesome-pagespeed-metrics#readme) - Metrics to help understand page speed and user experience.
+*   [PageSpeed Metrics (⭐677)](https://github.com/csabapalfi/awesome-pagespeed-metrics#readme) - Metrics to help understand page speed and user experience.
 
 ### Development Environment
 
-*   [Fish (⭐4.1k)](https://github.com/jorgebucaran/awsm.fish#readme) - User-friendly shell.
+*   [Fish (⭐4.2k)](https://github.com/jorgebucaran/awsm.fish#readme) - User-friendly shell.
 *   [Alfred Workflows (⭐3.1k)](https://github.com/alfred-workflows/awesome-alfred-workflows#readme) - Productivity app for macOS.
 
 ### Media
@@ -496,21 +492,21 @@
 
 ### Business
 
-*   [Developer-First Products (⭐837)](https://github.com/agamm/awesome-developer-first#readme) - Products that target developers as the user.
+*   [Developer-First Products (⭐1.1k)](https://github.com/agamm/awesome-developer-first#readme) - Products that target developers as the user.
 
 ### Work
 
-*   [Programming Interviews (⭐70k)](https://github.com/DopplerHQ/awesome-interview-questions#readme)
+*   [Programming Interviews (⭐72k)](https://github.com/DopplerHQ/awesome-interview-questions#readme)
 
 ### Testing
 
-*   [Quality Assurance Roadmap (⭐1.8k)](https://github.com/fityanos/awesome-quality-assurance-roadmap#readme) - How to start & build a career in software testing.
+*   [Quality Assurance Roadmap (⭐1.9k)](https://github.com/fityanos/awesome-quality-assurance-roadmap#readme) - How to start & build a career in software testing.
 
 ### Miscellaneous
 
-*   [Userscripts (⭐1.7k)](https://github.com/bvolpato/awesome-userscripts#readme) - Enhance your browsing experience.
+*   [Userscripts (⭐2k)](https://github.com/bvolpato/awesome-userscripts#readme) - Enhance your browsing experience.
 *   [Agriculture (⭐1.3k)](https://github.com/brycejohnston/awesome-agriculture#readme) - Open source technology for farming and gardening.
-*   [Translations (⭐130)](https://github.com/mbiesiad/awesome-translations#readme) - The transfer of the meaning of a text from one language to another.
+*   [Translations (⭐149)](https://github.com/mbiesiad/awesome-translations#readme) - The transfer of the meaning of a text from one language to another.
 
 ## [39. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
@@ -518,17 +514,7 @@
 
 *   [Agility CMS](https://agilitycms.com) - The best of both worlds for developers and content editors.
 
-## [40. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
-
-### Components & Libraries / UI Components
-
-*   [vue-diagram-editor (⭐85)](https://github.com/max-kut/vue-diagram-editor) - Highly customizable diagram editor with slot-based nodes (vue^2.6)
-
-### Components & Libraries / UI Utilities
-
-*   [vue-typical (⭐174)](https://github.com/Turkyden/vue-typical) 🐡 Vue Animated typing in \~400 bytes of JavaScript.
-
-## [41. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [40. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### C++ / General-Purpose Machine Learning
 
@@ -540,21 +526,21 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [River (⭐4.9k)](https://github.com/online-ml/river): A framework for general purpose online machine learning.
+*   [River (⭐5.1k)](https://github.com/online-ml/river): A framework for general purpose online machine learning.
 
-## [42. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [41. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Files and directories / Third-party APIs
 
 *   [fof](https://gitlab.com/ambrevar/fof) - File-object finder Common Lisp library. Enable rapid file search, inspection and manipulation. [GPL3](http://www.gnu.org/copyleft/gpl.html).
 
-## [43. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [42. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### App Routing
 
-*   [Composable Navigator (⭐579)](https://github.com/Bahn-X/swift-composable-navigator) - An open source library for building deep-linkable SwiftUI applications with composition, testing and ergonomics in mind
+*   [Composable Navigator (⭐583)](https://github.com/Bahn-X/swift-composable-navigator) - An open source library for building deep-linkable SwiftUI applications with composition, testing and ergonomics in mind
 
-## [44. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [43. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Culture
 
@@ -568,7 +554,7 @@
 
 *   [Writing Your First Postmortem](https://sharpend.io/writing-your-first-postmortem/)
 
-## [45. Awesome4girls](/content/cristianoliveira/awesome4girls/week/README.md)
+## [44. Awesome4girls](/content/cristianoliveira/awesome4girls/week/README.md)
 
 ### Events/Meetups / PHP
 
@@ -682,7 +668,7 @@
     Given the still small number of women speaking at events (especially technology) here in Brazil, a spreadsheet was created to give these women visibility and to encourage others to start.
     Mulheres Palestrantes is a project that keeps a list of women who talk about themes related to programming, design, entrepreneurship and technology in general, this project was born from trying to organize the data of the worksheet in a more visual, facilitating access, reducing duplication and facilitating research.
 
-## [46. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [45. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Libraries
 
@@ -709,13 +695,13 @@
 
 *   [VK² (⭐125)](https://github.com/kotlin-graphics/vkk), Kotlin Wrapper for Vulkan: code expressiveness and safety meet graphic power \[Apache License 2.0]
 
-## [47. Awesome Tensorflow Js](/content/aaronhma/awesome-tensorflow-js/week/README.md)
+## [46. Awesome Tensorflow Js](/content/aaronhma/awesome-tensorflow-js/week/README.md)
 
 ### Learn / Books
 
 *   [Learning Tensorflow.js: Powerful Machine Learning in JavaScript](https://amzn.to/3dR3vpY) - In this guide, author [Gant Laborde](https://github.com/gantman) provides a hands-on, end-to-end approach to TensorFlow\.js fundamentals for a broad technical audience that includes data scientists, engineers, web developers, students, and researchers.
 
-## [48. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+## [47. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
 ### Community
 
@@ -725,21 +711,21 @@
 
 *   [Stickman Climb](https://poki.com/en/g/stickman-climb) - Physics based puzzle game.
 
-## [49. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
+## [48. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
 ### Analytics / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
 *   [Kindmetrics](https://kindmetrics.io) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/kindmetrics/kindmetrics) - Privacy focused website analytics made in Crystal - Hosted in the EU.
 *   [Counter](https://counter.dev/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/ihucos/counter.dev) - Web Analytics made simple and therefore privacy friendly.
 
-## [50. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [49. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### Utilities / Apache License
 
 *   [macos-sdks-vs-gcc (⭐1)](https://github.com/simonjwright/macos-sdks-vs-gcc) - Provides GCC 'specs' files to cope with SDK policy changes.
 *   [ux-strings (⭐11)](https://github.com/Blady-Com/UXStrings) - Unicode extended strings.
 
-## [51. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
+## [50. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
 
 ### Books
 
@@ -749,17 +735,13 @@
 
 *   [Apple Shortcuts](https://support.apple.com/guide/shortcuts/welcome/ios) - Powerful automation app (iOS).
 
-### Devices and Wearables / Wealth
-
-*   [Foci](https://fociai.com/) - Wearable (clip) that is automatically tracking focus, flow, relaxation, fatigue and stress.
-
-## [52. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
+## [51. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
 
 ### Adobe CC / Third Party Hosts
 
 *   [Adobe CC 2019/2020 AIO Patcher](https://cracked.to/Thread-Cracked-CRACK-ADOBE-CC-2019-2020-GENP-V2-7) Latest Working All-In-One Patcher for all Adobe Creative Cloud 2019/2020 Applications (Windows)
 
-## [53. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
+## [52. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
 ### Network and Middleware / Real-Time Kernel
 
@@ -769,13 +751,13 @@
 
 *   [awesome CAN (⭐987)](https://github.com/iDoka/awesome-canbus) -  A curated list of awesome CAN bus tools, hardware and resources.
 
-## [54. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [53. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### 2D/3D Rendering engines / Others
 
-*   [BlazorTypewriter (⭐20)](https://github.com/ormesam/blazor-typewriter) - ![last commit](https://img.shields.io/github/last-commit/ormesam/blazor-typewriter?style=flat-square\&cacheSeconds=86400) A typewriter effect for Blazor.
+*   [BlazorTypewriter (⭐21)](https://github.com/ormesam/blazor-typewriter) - ![last commit](https://img.shields.io/github/last-commit/ormesam/blazor-typewriter?style=flat-square\&cacheSeconds=86400) A typewriter effect for Blazor.
 
-## [55. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [54. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Source Code Repos
 
@@ -791,7 +773,7 @@
 
 *   [Protectumus](https://protectumus.com) - Free website security check, site antivirus, and server firewall (WAF) for PHP. Email notifications for registered users in the free tier.
 
-### PaaS
+### Low-code Platform
 
 *   [Mendix](https://www.mendix.com/) — Rapid Application Development for Enterprises, unlimited accessible sandbox environments supporting total users, 0.5 GB storage and 1 GB RAM per app. Also, Studio and Studio Pro IDEs are allowed in the free tier.
 
@@ -811,19 +793,19 @@
 
 *   [Tableau Developer Program](https://www.tableau.com/developer) — Innovate, create, and make Tableau work perfectly for your organization. The free developer program gives a personal development sandbox license for Tableau Online. The version is the latest pre-release version so Data Devs can test each & every feature of this superb platform.
 
-## [56. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
+## [55. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Projects
 
 *   [yew-train-ticket (⭐4)](https://github.com/anthhub/yew-train-ticket) - A Rust WebAssembly [Webapp](http://118.190.37.169:8002) example basing Yew newest hooks and functional API, the code style is extremely like React Function Component.
 
-## [57. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
+## [56. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
 ### RSSHub / Outline Processor Markup Language
 
 *   <https://rsshub.wkfg.me/> by [@三丰](https://t.me/junbaor) ![Website](https://img.shields.io/website?down_message=down\&up_message=up\&url=https%3A%2F%2Frsshub.wkfg.me%2F)
 
-## [58. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [57. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Infinite Scroll
 
@@ -852,7 +834,7 @@
 
 *   [react-godfather (⭐27)](https://github.com/kapolos/react-godfather) - A new way to write Functional Components, without Hooks.
 
-## [59. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+## [58. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
 ### Frontend
 

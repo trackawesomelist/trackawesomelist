@@ -18,7 +18,7 @@
 
 ### Software / Software Development - IDE & Tools
 
-*   [HttPlaceholder (⭐105)](https://github.com/dukeofharen/httplaceholder) - Quickly mock away any webservice using HttPlaceholder. HttPlaceholder lets you specify what the request should look like and what response needs to be returned. `MIT` `C#`
+*   [HttPlaceholder (⭐117)](https://github.com/dukeofharen/httplaceholder) - Quickly mock away any webservice using HttPlaceholder. HttPlaceholder lets you specify what the request should look like and what response needs to be returned. `MIT` `C#`
 
 ## [3. Awesome Python](/content/vinta/awesome-python/README.md)
 
@@ -42,7 +42,7 @@
 
 ### GitHub
 
-*   [github-stats-box (⭐133)](https://github.com/bokub/github-stats-box) - Update a pinned gist to contain your GitHub statistics.
+*   [github-stats-box (⭐143)](https://github.com/bokub/github-stats-box) - Update a pinned gist to contain your GitHub statistics.
 
 ## [6. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -64,7 +64,7 @@
 
 ### Communities of Practice / Uncategorized
 
-*   [TidyTuesday (⭐5.5k)](https://github.com/rfordatascience/tidytuesday) - TidyTuesday is a weekly data project aimed at the R ecosystem with an emphasis placed on understanding how to summarize and arrange data to make meaningful charts.
+*   [TidyTuesday (⭐7k)](https://github.com/rfordatascience/tidytuesday) - TidyTuesday is a weekly data project aimed at the R ecosystem with an emphasis placed on understanding how to summarize and arrange data to make meaningful charts.
 
 ## [9. Awesome Coq](/content/coq-community/awesome-coq/README.md)
 
@@ -99,7 +99,7 @@
 
 ### Boilerplates
 
-*   [Next.js and Netlify Blogging Template (⭐422)](https://github.com/wutali/nextjs-netlify-blog-template) - A perfect boilerplate for building a blog website on Netlify stacks with standard features like tagging, CMS, and shortcodes.
+*   [Next.js and Netlify Blogging Template (⭐455)](https://github.com/wutali/nextjs-netlify-blog-template) - A perfect boilerplate for building a blog website on Netlify stacks with standard features like tagging, CMS, and shortcodes.
 
 ## [14. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
@@ -127,7 +127,7 @@
 
 ### Tools / Dolby
 
-*   [IENT/YUView (⭐1.8k)](https://github.com/IENT/YUView)  - YUView is a QT based, cross-platform YUV player with an advanced analytic toolset.
+*   [IENT/YUView (⭐1.9k)](https://github.com/IENT/YUView)  - YUView is a QT based, cross-platform YUV player with an advanced analytic toolset.
 
 ---
 

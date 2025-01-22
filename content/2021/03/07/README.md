@@ -10,28 +10,28 @@
 
 ### Projects and Code Examples / Vector search
 
-*   [Handwritten Digits Recognition (⭐5)](https://github.com/jdrzj/handwritten-digits-recognition) -
+*   [Handwritten Digits Recognition (⭐6)](https://github.com/jdrzj/handwritten-digits-recognition) -
     Handwritten digits recognition using Neural Networks and Ruby.
 
 ## [2. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### Peripheral Access Crates / Nordic
 
-*   [`nrf52811-pac`](https://crates.io/crates/nrf52811-pac) - Peripheral access API for the nRF52811 microcontroller (generated using svd2rust) - ![crates.io](https://img.shields.io/crates/v/nrf52811-pac.svg)
-*   [`nrf52833-pac`](https://crates.io/crates/nrf52833-pac) - Peripheral access API for the nRF52833 microcontroller (generated using svd2rust) - ![crates.io](https://img.shields.io/crates/v/nrf52833-pac.svg)
-*   [`nrf5340-app-pac`](https://crates.io/crates/nrf5340-app-pac) - Peripheral access API for the nRF5340 application core (generated using svd2rust) - ![crates.io](https://img.shields.io/crates/v/nrf5340-app-pac.svg)
-*   [`nrf5340-net-pac`](https://crates.io/crates/nrf5340-net-pac) - Peripheral access API for the nRF5340 network core (generated using svd2rust) - ![crates.io](https://img.shields.io/crates/v/nrf5340-net-pac.svg)
-*   [`nrf9160-pac`](https://crates.io/crates/nrf9160-pac) - Peripheral access API for the nRF9160 system-in-package (generated using svd2rust) - ![crates.io](https://img.shields.io/crates/v/nrf9160-pac.svg)
+*   [`nrf52811-pac`](https://crates.io/crates/nrf52811-pac) - Peripheral access API for the nRF52811 microcontroller (generated using svd2rust) - [![crates.io](https://img.shields.io/crates/v/nrf52811-pac.svg)](https://crates.io/crates/nrf52811-pac)
+*   [`nrf52833-pac`](https://crates.io/crates/nrf52833-pac) - Peripheral access API for the nRF52833 microcontroller (generated using svd2rust) - [![crates.io](https://img.shields.io/crates/v/nrf52833-pac.svg)](https://crates.io/crates/nrf52833-pac)
+*   [`nrf5340-app-pac`](https://crates.io/crates/nrf5340-app-pac) - Peripheral access API for the nRF5340 application core (generated using svd2rust) - [![crates.io](https://img.shields.io/crates/v/nrf5340-app-pac.svg)](https://crates.io/crates/nrf5340-app-pac)
+*   [`nrf5340-net-pac`](https://crates.io/crates/nrf5340-net-pac) - Peripheral access API for the nRF5340 network core (generated using svd2rust) - [![crates.io](https://img.shields.io/crates/v/nrf5340-net-pac.svg)](https://crates.io/crates/nrf5340-net-pac)
+*   [`nrf9160-pac`](https://crates.io/crates/nrf9160-pac) - Peripheral access API for the nRF9160 system-in-package (generated using svd2rust) - [![crates.io](https://img.shields.io/crates/v/nrf9160-pac.svg)](https://crates.io/crates/nrf9160-pac)
 
 ### HAL implementation crates / Nordic
 
-*   [`nrf52811-hal`](https://crates.io/crates/nrf52811-hal) - ![crates.io](https://img.shields.io/crates/v/nrf52811-hal.svg)
-*   [`nrf52833-hal`](https://crates.io/crates/nrf52833-hal) - ![crates.io](https://img.shields.io/crates/v/nrf52833-hal.svg)
-*   [`nrf9160-hal`](https://crates.io/crates/nrf9160-hal) - ![crates.io](https://img.shields.io/crates/v/nrf9160-hal.svg)
+*   [`nrf52811-hal`](https://crates.io/crates/nrf52811-hal) - [![crates.io](https://img.shields.io/crates/v/nrf52811-hal.svg)](https://crates.io/crates/nrf52811-hal)
+*   [`nrf52833-hal`](https://crates.io/crates/nrf52833-hal) - [![crates.io](https://img.shields.io/crates/v/nrf52833-hal.svg)](https://crates.io/crates/nrf52833-hal)
+*   [`nrf9160-hal`](https://crates.io/crates/nrf9160-hal) - [![crates.io](https://img.shields.io/crates/v/nrf9160-hal.svg)](https://crates.io/crates/nrf9160-hal)
 
 ## [3. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
-### Plugins and scripts / Godot 3.2+
+### Plugins and scripts / Godot 3
 
 *   [Godot Gif Getter (⭐40)](https://github.com/you-win/godot-gif-getter) - An in-game utility for recording and saving GIFs (written in GDNative Rust).
 
@@ -52,7 +52,7 @@
 
 ### Competitive Analysis / GDPR
 
-*   [Google Cloud Developer's Cheat Sheet (⭐7.9k)](https://github.com/gregsramblings/google-cloud-4-words#the-google-cloud-developers-cheat-sheet) - Describe all GCP products in 4 words or less.
+*   [Google Cloud Developer's Cheat Sheet (⭐8k)](https://github.com/gregsramblings/google-cloud-4-words#the-google-cloud-developers-cheat-sheet) - Describe all GCP products in 4 words or less.
 
 ## [7. Awesome Wordpress Gatsby](/content/henrikwirth/awesome-wordpress-gatsby/README.md)
 
@@ -128,7 +128,7 @@
 *   [**Fomantic-UI**](https://fomantic-ui.com/) - Build beautiful websites fast, with concise HTML, intuitive javascript, and simplified debugging.\
     ![](https://img.shields.io/github/stars/fomantic/fomantic-ui.svg?style=social\&label=Star)
     [Docs](https://fomantic-ui.com/introduction/getting-started.html),
-    [Repo (⭐3.5k)](https://github.com/fomantic/fomantic-ui/)
+    [Repo (⭐3.6k)](https://github.com/fomantic/fomantic-ui/)
     \| #LESS
 
 ### Stalled Development
@@ -143,7 +143,7 @@
 
 ### Back-End Development
 
-*   [IAM (⭐1.7k)](https://github.com/kdeldycke/awesome-iam#readme) - User accounts, authentication and authorization.
+*   [IAM (⭐1.8k)](https://github.com/kdeldycke/awesome-iam#readme) - User accounts, authentication and authorization.
 
 ## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -185,14 +185,14 @@
 ### Packages / Database
 
 *   Other
-    *   [NeDB (⭐13k)](https://github.com/louischatriot/nedb) - Embedded persistent database written in JavaScript.
-    *   [Lowdb (⭐21k)](https://github.com/typicode/lowdb) - Small JavaScript database powered by Lodash.
-    *   [Keyv (⭐2.5k)](https://github.com/jaredwray/keyv) - Simple key-value storage with support for multiple backends.
+    *   [NeDB (⭐14k)](https://github.com/louischatriot/nedb) - Embedded persistent database written in JavaScript.
+    *   [Lowdb (⭐22k)](https://github.com/typicode/lowdb) - Small JavaScript database powered by Lodash.
+    *   [Keyv (⭐2.7k)](https://github.com/jaredwray/keyv) - Simple key-value storage with support for multiple backends.
     *   [Finale (⭐188)](https://github.com/tommybananas/finale) - RESTful endpoint generator for your Sequelize models.
-    *   [database-js (⭐73)](https://github.com/mlaanderson/database-js) - Wrapper for multiple databases with a JDBC-like connection.
+    *   [database-js (⭐75)](https://github.com/mlaanderson/database-js) - Wrapper for multiple databases with a JDBC-like connection.
     *   [Mongo Seeding (⭐555)](https://github.com/pkosiec/mongo-seeding) - Populate MongoDB databases with JavaScript and JSON files.
-    *   [@databases (⭐595)](https://github.com/ForbesLindesay/atdatabases) - Query PostgreSQL, MySQL and SQLite3 with plain SQL without risking SQL injection.
-    *   [pg-mem (⭐1.9k)](https://github.com/oguimbal/pg-mem) - In-memory PostgreSQL instance for your tests.
+    *   [@databases (⭐609)](https://github.com/ForbesLindesay/atdatabases) - Query PostgreSQL, MySQL and SQLite3 with plain SQL without risking SQL injection.
+    *   [pg-mem (⭐2k)](https://github.com/oguimbal/pg-mem) - In-memory PostgreSQL instance for your tests.
 
 ---
 

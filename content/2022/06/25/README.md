@@ -26,7 +26,7 @@
 
 ### Adapters / Client-side
 
-*   [Mithril (⭐1)](https://github.com/maicol07/inertia-mithril)
+*   [Mithril (⭐3)](https://github.com/maicol07/inertia-mithril)
 
 ## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -38,13 +38,13 @@
 
 ### Applications / Games
 
-*   [gorilla-devs/ferium (⭐1.1k)](https://github.com/gorilla-devs/ferium) - Ferium is a fast and feature rich CLI program for downloading and updating Minecraft mods from Modrinth, CurseForge, and GitHub Releases, and modpacks from Modrinth and CurseForge ![ferium build](https://github.com/gorilla-devs/ferium/actions/workflows/build.yml/badge.svg?branch=main)
+*   [gorilla-devs/ferium (⭐1.2k)](https://github.com/gorilla-devs/ferium) - Ferium is a fast and feature rich CLI program for downloading and updating Minecraft mods from Modrinth, CurseForge, and GitHub Releases, and modpacks from Modrinth and CurseForge ![ferium build](https://github.com/gorilla-devs/ferium/actions/workflows/build.yml/badge.svg?branch=main)
 
 ## [6. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 
-### Tools and frameworks
+### Tools and frameworks (a-z↓)
 
-*   [Touca (⭐489)](https://github.com/trytouca/trytouca) - Open source continuous regression testing without the hassle of managing snapshot files.
+*   [Touca (⭐501)](https://github.com/trytouca/trytouca) - Open source continuous regression testing without the hassle of managing snapshot files.
 
 ## [7. Awesome Elm](/content/sporto/awesome-elm/README.md)
 
@@ -56,7 +56,7 @@
 
 ### Notification
 
-*   [svelte-french-toast (⭐801)](https://github.com/kbrgl/svelte-french-toast) - Buttery smooth toast notifications for Svelte, inspired by React Hot Toast. Lightweight, customizable, and beautiful by default.
+*   [svelte-french-toast (⭐897)](https://github.com/kbrgl/svelte-french-toast) - Buttery smooth toast notifications for Svelte, inspired by React Hot Toast. Lightweight, customizable, and beautiful by default.
 
 ---
 

@@ -16,7 +16,7 @@
 
 ### Peripheral Access Crates / Espressif
 
-*   [`esp32c6`](https://github.com/esp-rs/esp-pacs/tree/main/esp32c6) - ![crates.io](https://img.shields.io/crates/v/esp32c6.svg)
+*   [`esp32c6`](https://github.com/esp-rs/esp-pacs/tree/main/esp32c6) - [![crates.io](https://img.shields.io/crates/v/esp32c6.svg)](https://crates.io/crates/esp32c6)
 
 ## [3. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
@@ -28,11 +28,11 @@
 
 ### Clients
 
-*   [gqty (⭐902)](https://github.com/gqty-dev/gqty) - A No GraphQL client for TypeScript
+*   [gqty (⭐951)](https://github.com/gqty-dev/gqty) - A No GraphQL client for TypeScript
 
 ### Frontend Framework Integrations / React
 
-*   [@gqty/react (⭐902)](https://github.com/gqty-dev/gqty) - A No GraphQL client for TypeScript
+*   [@gqty/react (⭐951)](https://github.com/gqty-dev/gqty) - A No GraphQL client for TypeScript
 
 ### Services / React
 
@@ -42,7 +42,7 @@
 
 ### Software / Analytics
 
-*   [Mixpost](https://mixpost.app/) - Self-hosted social media management software. Easily create, schedule, publish, and manage social media content in one place (alternative to Hootsuite, Buffer, and other social media tools). ([Source Code (⭐78)](https://github.com/inovector/MixpostApp)) `MIT` `PHP/Docker`
+*   [Mixpost](https://mixpost.app/) - Self-hosted social media management software. Easily create, schedule, publish, and manage social media content in one place (alternative to Hootsuite, Buffer, and other social media tools). ([Source Code (⭐87)](https://github.com/inovector/MixpostApp)) `MIT` `PHP/Docker`
 
 ## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -60,7 +60,7 @@
 
 ### Prerequisites
 
-*   [Spacemono (⭐364)](https://github.com/googlefonts/spacemono) - Google's new original monospace display typeface family.
+*   [Spacemono (⭐379)](https://github.com/googlefonts/spacemono) - Google's new original monospace display typeface family.
 
 ## [9. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
 

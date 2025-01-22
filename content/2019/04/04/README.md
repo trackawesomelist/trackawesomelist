@@ -10,7 +10,7 @@
 
 ### Apps / StreamField
 
-*   [Wagtail Blocks (⭐73)](https://github.com/ibrahimawadhamid/wagtail_blocks) - A Collection of awesome Wagtail CMS stream-field blocks and Charts.
+*   [Wagtail Blocks (⭐76)](https://github.com/ibrahimawadhamid/wagtail_blocks) - A Collection of awesome Wagtail CMS stream-field blocks and Charts.
 
 ## [2. Awesome Stacks](/content/stackshareio/awesome-stacks/README.md)
 
@@ -48,13 +48,13 @@
 
 ### Python / Trading & Backtesting
 
-*   [PyPortfolioOpt (⭐4.3k)](https://github.com/robertmartin8/PyPortfolioOpt) - Financial portfolio optimization in python, including classical efficient frontier and advanced methods.
+*   [PyPortfolioOpt (⭐4.7k)](https://github.com/robertmartin8/PyPortfolioOpt) - Financial portfolio optimization in python, including classical efficient frontier and advanced methods.
 
 ## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Game Engine
 
-*   [raylib (⭐21k)](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming. \[zlib/libpng] [website](http://www.raylib.com/)
+*   [raylib (⭐24k)](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming. \[zlib/libpng] [website](http://www.raylib.com/)
 
 ## [6. Awesome Cross Platform Nodejs](/content/bcoe/awesome-cross-platform-nodejs/README.md)
 

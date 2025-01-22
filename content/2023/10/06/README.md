@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 06, 2023
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,13 +16,13 @@
 
 ### Components & Libraries / UI Components
 
-*   [@f3ve/vue-markdown-it (⭐13)](https://github.com/f3ve/vue-markdown-it) - A markdown-it component for Vue3. Easy to use and fully typed.
+*   [@f3ve/vue-markdown-it (⭐20)](https://github.com/f3ve/vue-markdown-it) - A markdown-it component for Vue3. Easy to use and fully typed.
 
 ## [3. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Programming Languages Support / Diagnostics
 
-*   [niuiic/typst-preview.nvim (⭐32)](https://github.com/niuiic/typst-preview.nvim) - Preview typst documents, respond to file changes.
+*   [niuiic/typst-preview.nvim (⭐34)](https://github.com/niuiic/typst-preview.nvim) - Preview typst documents, respond to file changes.
 
 ## [4. Ai Collective Tools](/content/Hyraze/ai-collective-tools/README.md)
 
@@ -30,64 +30,7 @@
 
 *   [Bloom](https://huggingface.co/docs/transformers/model_doc/bloom) - BLOOM by Hugging Face is a model similar to GPT-3
 
-## [5. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/README.md)
-
-### **Finetuning** / **Llama Finetuning**
-
-*   Coding LLaMA 2 from scratch in PyTorch - KV Cache, Grouped Query Attention, Rotary PE, RMSNorm [Youtube](https://www.youtube.com/watch?v=oM4VmoabDAI) / [git (⭐205)](https://github.com/hkproj/pytorch-llama) \[03 Sep 2023] <br/>
-
-    <details>
-
-    <summary>Expand: KV Cache, Grouped Query Attention, Rotary PE</summary>
-
-    <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/llama2.png" width="300" />
-
-    Rotary PE
-
-    ```python
-    def apply_rotary_embeddings(x: torch.Tensor, freqs_complex: torch.Tensor, device: str):
-        # Separate the last dimension pairs of two values, representing the real and imaginary parts of the complex number
-        # Two consecutive values will become a single complex number
-        # (B, Seq_Len, H, Head_Dim) -> (B, Seq_Len, H, Head_Dim/2)
-        x_complex = torch.view_as_complex(x.float().reshape(*x.shape[:-1], -1, 2))
-        # Reshape the freqs_complex tensor to match the shape of the x_complex tensor. So we need to add the batch dimension and the head dimension
-        # (Seq_Len, Head_Dim/2) --> (1, Seq_Len, 1, Head_Dim/2)
-        freqs_complex = freqs_complex.unsqueeze(0).unsqueeze(2)
-        # Multiply each complex number in the x_complex tensor by the corresponding complex number in the freqs_complex tensor
-        # Which results in the rotation of the complex number as shown in the Figure 1 of the paper
-        # (B, Seq_Len, H, Head_Dim/2) * (1, Seq_Len, 1, Head_Dim/2) = (B, Seq_Len, H, Head_Dim/2)
-        x_rotated = x_complex * freqs_complex
-        # Convert the complex number back to the real number
-        # (B, Seq_Len, H, Head_Dim/2) -> (B, Seq_Len, H, Head_Dim/2, 2)
-        x_out = torch.view_as_real(x_rotated)
-        # (B, Seq_Len, H, Head_Dim/2, 2) -> (B, Seq_Len, H, Head_Dim)
-        x_out = x_out.reshape(*x.shape)
-        return x_out.type_as(x).to(device)
-    ```
-
-    KV Cache, Grouped Query Attention
-
-    ```python
-      # Replace the entry in the cache
-      self.cache_k[:batch_size, start_pos : start_pos + seq_len] = xk
-      self.cache_v[:batch_size, start_pos : start_pos + seq_len] = xv
-
-      # (B, Seq_Len_KV, H_KV, Head_Dim)
-      keys = self.cache_k[:batch_size, : start_pos + seq_len]
-      # (B, Seq_Len_KV, H_KV, Head_Dim)
-      values = self.cache_v[:batch_size, : start_pos + seq_len]
-
-      # Since every group of Q shares the same K and V heads, just repeat the K and V heads for every Q in the same group.
-
-      # (B, Seq_Len_KV, H_KV, Head_Dim) --> (B, Seq_Len_KV, H_Q, Head_Dim)
-      keys = repeat_kv(keys, self.n_rep)
-      # (B, Seq_Len_KV, H_KV, Head_Dim) --> (B, Seq_Len_KV, H_Q, Head_Dim)
-      values = repeat_kv(values, self.n_rep)
-    ```
-
-    </details>
-
-## [6. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
+## [5. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
 ### Web Feed Specifications
 
@@ -107,7 +50,7 @@
 
 ### Other Apps / Outline Processor Markup Language
 
-*   [PlainApp (⭐2.4k)](https://github.com/ismartcoding/plain-app): with an RSS reader function built in <sup>[1338](https://t.me/s/aboutrss/1338)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/ismartcoding/plain-app)
+*   [PlainApp (⭐2.7k)](https://github.com/ismartcoding/plain-app): with an RSS reader function built in <sup>[1338](https://t.me/s/aboutrss/1338)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/ismartcoding/plain-app)
 
 ### RSSHub / Outline Processor Markup Language
 
@@ -152,12 +95,12 @@
 ### RSS Feed integrated with AI generated content / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [RSSPath](http://www.rsspath.com/) <sup>[1363](https://t.me/s/aboutrss/1363)</sup> ![AI](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-ai-16.png)
-*   [RSS-GPT (⭐282)](https://github.com/yinan-c/RSS-GPT) <sup>[1367](https://t.me/s/aboutrss/1367)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/yinan-c/RSS-GPT)![AI](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-ai-16.png)
+*   [RSS-GPT (⭐304)](https://github.com/yinan-c/RSS-GPT) <sup>[1367](https://t.me/s/aboutrss/1367)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/yinan-c/RSS-GPT)![AI](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-ai-16.png)
 
 ### RSS Feed Finding/Detection / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [RSS+](https://greasyfork.org/scripts/373252-rss-show-site-all-rss)
-*   [Get RSS Feed URL (⭐206)](https://github.com/shevabam/get-rss-feed-url-extension) [![Chrome](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Google_Chrome.png)](https://chrome.google.com/webstore/detail/get-rss-feed-url/kfghpdldaipanmkhfpdcjglncmilendn)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/shevabam/get-rss-feed-url-extension)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+*   [Get RSS Feed URL (⭐227)](https://github.com/shevabam/get-rss-feed-url-extension) [![Chrome](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Google_Chrome.png)](https://chrome.google.com/webstore/detail/get-rss-feed-url/kfghpdldaipanmkhfpdcjglncmilendn)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/shevabam/get-rss-feed-url-extension)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 *   [RSS+Atom Feed Subscribe Button Generator](https://greasyfork.org/scripts/6261-rss-atom-feed-subscribe-button-generator) ![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 *   [FeedReader App](https://feedreader.xyz/) <sup>[1364](https://t.me/s/aboutrss/1364)</sup> ![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 *   [RSS feed ASAP](https://rssfeedasap.com/) <sup>[1373](https://t.me/s/aboutrss/1373)</sup> ![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
@@ -174,29 +117,29 @@
 
 *   [Podcast-Standard](https://podcast-standard.org/) <sup>[1351](https://t.me/s/aboutrss/1351)</sup>
 
-## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Monitoring
 
 *   [bleemeo.com](https://bleemeo.com) - Free for 3 servers, 5 uptime monitors, unlimited users, unlimited dashboards, unlimited alerting rules.
 
-## [8. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
+## [7. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
 ### IO Games
 
 *   [Simply Up](https://simplyup.io) - Climb to the top of the tower in the shortest time.
 
-## [9. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/README.md)
+## [8. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/README.md)
 
 ### Game Engines / Specialty
 
 *   🎉 [Ren'Py (⭐4.7k)](https://github.com/renpy/renpy) - Visual novel engine. \[[Website](https://www.renpy.org/)]
 
-## [10. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [9. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [fzfsh (⭐2)](https://github.com/ethan605/fzfsh) - Add [fzf (⭐63k)](https://github.com/junegunn/fzf) plugins for `chezmoi`, `docker`, `git`, `kubectl` and `pass`.
+*   [fzfsh (⭐2)](https://github.com/ethan605/fzfsh) - Add [fzf (⭐67k)](https://github.com/junegunn/fzf) plugins for `chezmoi`, `docker`, `git`, `kubectl` and `pass`.
 *   [incsearch (⭐5)](https://github.com/aoyama-val/zsh-incsearch) - Friendlier `vim` mode for ZSH. Moves cursor with incremental search within current line.
 
 ---

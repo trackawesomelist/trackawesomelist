@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 01, 2021
 
-18 awesome lists updated today.
+17 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -81,7 +81,7 @@
 
 ### Python / Calendars
 
-*   [exchange\_calendars (⭐409)](https://github.com/gerrymanoim/exchange_calendars) - Stock Exchange Trading Calendars.
+*   [exchange\_calendars (⭐467)](https://github.com/gerrymanoim/exchange_calendars) - Stock Exchange Trading Calendars.
 
 ## [7. Awesome Eosio](/content/DanailMinchev/awesome-eosio/README.md)
 
@@ -152,51 +152,45 @@
 
 ### Python / Reinforcement Learning
 
-*   [Maze (⭐261)](https://github.com/enlite-ai/maze) - Application-oriented deep reinforcement learning framework addressing real-world decision problems.
+*   [Maze (⭐267)](https://github.com/enlite-ai/maze) - Application-oriented deep reinforcement learning framework addressing real-world decision problems.
 
 ## [13. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### CLOS extensions
 
-*   [polymorphic functions (⭐51)](https://github.com/digikar99/polymorphic-functions) - A function type to dispatch on types instead of classes with partial support for dispatching on optional and keyword argument types. Still experimental (May, 2021). [MIT](https://opensource.org/licenses/MIT).
+*   [polymorphic functions (⭐53)](https://github.com/digikar99/polymorphic-functions) - A function type to dispatch on types instead of classes with partial support for dispatching on optional and keyword argument types. Still experimental (May, 2021). [MIT](https://opensource.org/licenses/MIT).
     *   polymorphic-functions dispatch on the types of the arguments supplied to it. This helps dispatching on specialized arrays as well as user-defined types.
     *   for differences with specialization-store and fast-generic-functions, see its README.
 
-## [14. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / UI Components
-
-*   [v3confirm (⭐4)](https://github.com/malekim/v3confirm) - A plugin dedicated for vue3 to show confirm dialog modal.
-
-## [15. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
+## [14. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Resources / Books
 
 *   [Node.js Cookbook](https://www.amazon.com/dp/1838558756)
 *   [Node.js Design Patterns](https://www.nodejsdesignpatterns.com)
 
-## [16. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+## [15. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
-### FIAT
+### Full Featured Financial Management
 
 *   [GnuCash](https://gnucash.org/) - GnuCash is personal and small-business financial-accounting software, freely licensed under the GNU GPL and available for GNU/Linux, BSD, Solaris, Mac OS X and Microsoft Windows.
 
-## [17. Android Security Awesome](/content/ashishb/android-security-awesome/README.md)
+## [16. Android Security Awesome](/content/ashishb/android-security-awesome/README.md)
 
 ### Tools / Dynamic Analysis Tools
 
-*   [PAPIMonitor (⭐48)](https://github.com/Dado1513/PAPIMonitor) – PAPIMonitor (Python API Monitor for Android apps) is a Python tool based on Frida for monitoring user-select APIs during the app execution.
+*   [PAPIMonitor (⭐53)](https://github.com/Dado1513/PAPIMonitor) – PAPIMonitor (Python API Monitor for Android apps) is a Python tool based on Frida for monitoring user-select APIs during the app execution.
 
 ### Tools / Reverse Engineering
 
 *   [Obfuscapk (⭐1.1k)](https://github.com/ClaudiuGeorgiu/Obfuscapk) - Obfuscapk is a modular Python tool for obfuscating Android apps without needing their source code.
-*   [ARMANDroid (⭐11)](https://github.com/Mobile-IoT-Security-Lab/ARMANDroid) - ARMAND (Anti-Repackaging through Multi-patternAnti-tampering based on Native Detection) is a novel anti-tampering protection scheme that embeds logic bombs and AT detection nodes directly in the apk file without needing their source code.
+*   [ARMANDroid (⭐13)](https://github.com/Mobile-IoT-Security-Lab/ARMANDroid) - ARMAND (Anti-Repackaging through Multi-patternAnti-tampering based on Native Detection) is a novel anti-tampering protection scheme that embeds logic bombs and AT detection nodes directly in the apk file without needing their source code.
 
 ### Tools / Market Crawlers
 
 *   [PlaystoreDownloader (⭐1.1k)](https://github.com/ClaudiuGeorgiu/PlaystoreDownloader) - PlaystoreDownloader is a tool for downloading Android applications directly from the Google Play Store. After an initial (one-time) configuration, applications can be downloaded by specifying their package name.
 
-## [18. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [17. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### SDKs and Samples / iOS SDK
 

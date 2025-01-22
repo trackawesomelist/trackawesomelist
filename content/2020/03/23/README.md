@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 23, 2020
 
-14 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -22,7 +22,7 @@
 
 ### Performance Testing / Streaming Protocols
 
-*   [HLS JMeter Plugin (⭐44)](https://github.com/Blazemeter/HLSPlugin)
+*   [HLS JMeter Plugin (⭐49)](https://github.com/Blazemeter/HLSPlugin)
 
 ## [4. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
@@ -70,13 +70,13 @@
 
 ### AI
 
-*   [astar (⭐10)](https://github.com/xiejiangzhi/astar) - An other A\* library. Any map (grid, point, mesh or infinite map) and support path cost.
+*   [astar (⭐15)](https://github.com/xiejiangzhi/astar) - An other A\* library. Any map (grid, point, mesh or infinite map) and support path cost.
 
 ## [10. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
-### Privacy and Encryption Tools / Telegram
+### Privacy and Encryption Tools / Steam
 
-*   [uBlock Origin (⭐45k)](https://github.com/gorhill/uBlock)
+*   [uBlock Origin (⭐49k)](https://github.com/gorhill/uBlock)
 
 ## [11. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
 
@@ -88,27 +88,17 @@
 
 ### Tools / XML
 
-*   [denomander (⭐148)](https://github.com/siokas/denomander) - Deno command-line interfaces inspired from commander.js.
+*   [denomander (⭐149)](https://github.com/siokas/denomander) - Deno command-line interfaces inspired from commander.js.
 
-## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Resources / Examples
-
-*   [All-About-Me (⭐15)](https://github.com/ooxxro/all-about-me) - A Social Media Web App built with Vue, Firebase (Firestore/Auth/Storage), Element-UI, Disqus, Vuex, Vue-Router, and Sass. Supports image uploading, profile editing, add/remove friends, and comments.
-
-### Components & Libraries / UI Components
-
-*   [vuetify-dialog (⭐196)](https://github.com/yariksav/vuetify-dialog) - Dialogs easy to use with Vuetify.
-
-## [14. Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md)
+## [13. Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md)
 
 ### Theming
 
-*   [dynamic-antd-theme (⭐253)](https://github.com/luffyZh/dynamic-antd-theme) - A simple plugin to dynamic change ant-design theme whether less or css.
+*   [dynamic-antd-theme (⭐250)](https://github.com/luffyZh/dynamic-antd-theme) - A simple plugin to dynamic change ant-design theme whether less or css.
 
 ### Icons / Themes
 
-*   [Material Design Icons (⭐23)](https://github.com/2fd/ant-design-icons) Material Design Icons for Ant Design
+*   [Material Design Icons (⭐27)](https://github.com/2fd/ant-design-icons) Material Design Icons for Ant Design
 
 ---
 

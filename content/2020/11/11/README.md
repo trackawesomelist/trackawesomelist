@@ -16,7 +16,7 @@
 
 ### Packages / Miscellaneous
 
-*   [editly (⭐4.7k)](https://github.com/mifi/editly) - Declarative video editing API.
+*   [editly (⭐4.8k)](https://github.com/mifi/editly) - Declarative video editing API.
 
 ## [3. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 
@@ -65,7 +65,7 @@
 
 ### Authorization / AWS policy tools
 
-*   [PolicyUniverse (⭐421)](https://github.com/Netflix-Skunkworks/policyuniverse) - Parse and process AWS policies, statements, ARNs, and wildcards.
+*   [PolicyUniverse (⭐425)](https://github.com/Netflix-Skunkworks/policyuniverse) - Parse and process AWS policies, statements, ARNs, and wildcards.
 
 ### Privacy / Profanity
 
@@ -96,15 +96,9 @@
 
 ## [12. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
 
-### Tutorials
+### Test / Form Components
 
-*   [Getting Started with Svelte 3](https://www.digitalocean.com/community/tutorials/getting-started-with-svelte-3) - DigitalOcean.
-*   [An Introduction to Actions](https://svelte.school/tutorials/introduction-to-actions) - Svelte School.
-*   [Svelte Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hlbrVO_2QFVqVPhlZmz7tO) - The Net Ninja (YouTube).
-
-### Test / Checkbox
-
-*   [@testing-library/svelte (⭐610)](https://github.com/testing-library/svelte-testing-library) - Simple and complete Svelte DOM testing utilities that encourage good testing practices.
+*   [@testing-library/svelte (⭐624)](https://github.com/testing-library/svelte-testing-library) - Simple and complete Svelte DOM testing utilities that encourage good testing practices.
 
 ## [13. Awesome Tensorflow Lite](/content/margaretmz/awesome-tensorflow-lite/README.md)
 
@@ -122,11 +116,11 @@
 
 ### Tools
 
-*   [bitfield (⭐25)](https://github.com/marcoheisig/bitfield) - Efficiently represent several finite sets or small integers as a single non-negative integer. [MIT](https://opensource.org/licenses/MIT).
+*   [bitfield (⭐26)](https://github.com/marcoheisig/bitfield) - Efficiently represent several finite sets or small integers as a single non-negative integer. [MIT](https://opensource.org/licenses/MIT).
 
 ### Clojure
 
-*   [ABCLJ (⭐88)](https://github.com/lsevero/abclj) - dead easy  Clojure to Common lisp interop. EPL-2.0.
+*   [ABCLJ (⭐89)](https://github.com/lsevero/abclj) - dead easy  Clojure to Common lisp interop. EPL-2.0.
 
 ### Other books
 

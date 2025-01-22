@@ -10,7 +10,7 @@
 
 ### Contents / Tools
 
-*   [Immich (⭐27k)](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone by [Alex](https://github.com/alextran1502)
+*   [Immich (⭐44k)](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone by [Alex](https://github.com/alextran1502)
 
 ## [2. Awesome Magento2](/content/run-as-root/awesome-magento2/README.md)
 
@@ -28,13 +28,13 @@
 
 ### Bars and Lines / Diagnostics
 
-*   [ecthelionvi/NeoColumn.nvim (⭐88)](https://github.com/ecthelionvi/NeoColumn.nvim) - Toggleable colorcolumn highlighting specific characters.
+*   [ecthelionvi/NeoColumn.nvim (⭐98)](https://github.com/ecthelionvi/NeoColumn.nvim) - Toggleable colorcolumn highlighting specific characters.
 
 ## [5. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ### Tools / Community providers
 
-*   [tftarget (⭐237)](https://github.com/future-architect/tftarget) - CLI Tool to do `terraform xxx -target={...}` interactively.
+*   [tftarget (⭐253)](https://github.com/future-architect/tftarget) - CLI Tool to do `terraform xxx -target={...}` interactively.
 
 ## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
@@ -48,13 +48,13 @@
 
 ### Development tools / Profiling
 
-*   [Bencher (⭐489)](https://github.com/bencherdev/bencher) - A suite of continuous benchmarking tools designed to catch performance regressions in CI
+*   [Bencher (⭐608)](https://github.com/bencherdev/bencher) - A suite of continuous benchmarking tools designed to catch performance regressions in CI
 
 ## [8. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Scroll Bars / Barcode
 
-*   [DMScrollBar (⭐30)](https://github.com/batanus/DMScrollBar) - Best in class customizable ScrollBar for any type of ScrollView with Decelerating, Bounce & Rubber band mechanisms and many many more.
+*   [DMScrollBar (⭐32)](https://github.com/batanus/DMScrollBar) - Best in class customizable ScrollBar for any type of ScrollView with Decelerating, Bounce & Rubber band mechanisms and many many more.
 
 ## [9. Awesome Low Code](/content/zenitysec/awesome-low-code/README.md)
 

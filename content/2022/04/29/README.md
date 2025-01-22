@@ -42,7 +42,7 @@
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [igeek (⭐39)](https://github.com/Saleh7/igeek-zsh-theme) - Displays system information when starting a new terminal session.
+*   [igeek (⭐38)](https://github.com/Saleh7/igeek-zsh-theme) - Displays system information when starting a new terminal session.
 
 ## [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
@@ -65,13 +65,13 @@
 
 ### Component Libraries
 
-*   [Dile Components (⭐71)](https://github.com/Polydile/dile-components) - General use Web Components for websites and applications.
+*   [Dile Components (⭐76)](https://github.com/Polydile/dile-components) - General use Web Components for websites and applications.
 
 ## [10. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Miscellaneous
 
-*   [fccf (⭐358)](https://github.com/p-ranav/fccf) - A command-line tool that recursively searches a directory to find C/C++ source code matching a search string. \[MIT]
+*   [fccf (⭐364)](https://github.com/p-ranav/fccf) - A command-line tool that recursively searches a directory to find C/C++ source code matching a search string. \[MIT]
 
 ## [11. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 

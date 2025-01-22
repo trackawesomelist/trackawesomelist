@@ -1,8 +1,8 @@
 # Track Computer Science Updates Weekly
 
-:mortar_board: Path to a free self-taught education in Computer Science!
+🎓 Path to a free self-taught education in Computer Science!
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/ossu/computer-science/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ossu/computer-science](https://github.com/ossu/computer-science) · ⭐ 165K · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/ossu/computer-science/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ossu/computer-science](https://github.com/ossu/computer-science) · ⭐ 173K · 🏷️ Computer Science
 
 [ [Daily](/content/ossu/computer-science/README.md) / Weekly / [Overview](/content/ossu/computer-science/readme/README.md) ]
 
@@ -23,7 +23,7 @@
 
 ### How to show your progress / Advanced math
 
-*   **[Contributors (⭐165k)](https://github.com/ossu/computer-science/graphs/contributors)**
+*   **[Contributors (⭐173k)](https://github.com/ossu/computer-science/graphs/contributors)**
 
 ## [Oct 30 - Nov 05, 2017](/content/2017/44/README.md)
 

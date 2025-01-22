@@ -67,7 +67,7 @@
 
 ### Table of Contents / Files
 
-*   [PHP FFmpeg (⭐4.8k)](https://github.com/PHP-FFmpeg/PHP-FFmpeg/) - A wrapper for the [FFmpeg](https://www.ffmpeg.org/) video library.
+*   [PHP FFmpeg (⭐4.9k)](https://github.com/PHP-FFmpeg/PHP-FFmpeg/) - A wrapper for the [FFmpeg](https://www.ffmpeg.org/) video library.
 
 ### Table of Contents / Imagery
 
@@ -154,7 +154,7 @@
 
 ### Developer Tools / Command Line Tools
 
-*   [job (⭐145)](https://github.com/liujianping/job) - JOB, make your short-term command as a long-term job. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/liujianping/job) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [job (⭐147)](https://github.com/liujianping/job) - JOB, make your short-term command as a long-term job. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/liujianping/job) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [11. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 

@@ -85,11 +85,11 @@
 
 ## [10. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 
-### Online services
+### Online services (a-z↓)
 
 *   [Visual Knight](https://visual-knight.io/) - Cloud-based visual testing platform with realtime results for testing tools.
 
-### Deprecated
+### Deprecated  (a-z↓)
 
 *   [dpxdt (⭐1.4k)](https://github.com/bslatkin/dpxdt) - End-to-end testing with Python.
 

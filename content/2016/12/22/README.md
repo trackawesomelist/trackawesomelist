@@ -16,7 +16,7 @@
 
 ### Command Line Applications
 
-*   [loki (⭐87)](https://github.com/khusnetdinov/loki) - Library for creating interactive command-line application.
+*   [loki (⭐90)](https://github.com/khusnetdinov/loki) - Library for creating interactive command-line application.
 
 ### Images
 
@@ -26,7 +26,7 @@
 
 ### Software / Security
 
-*   [OWASP ZAP (⭐12k)](https://github.com/zaproxy/zaproxy) - This intercepting proxy allows you to see all HTTP traffic and manipulate it in real time. Easy to scan, catalog and exploit security issues.
+*   [OWASP ZAP (⭐13k)](https://github.com/zaproxy/zaproxy) - This intercepting proxy allows you to see all HTTP traffic and manipulate it in real time. Easy to scan, catalog and exploit security issues.
 
 ### Software / Make your life easier
 
@@ -61,7 +61,7 @@
 
 ### Other Useful Repositories
 
-- Repository: [Machine Learning for Cyber Security (⭐7.1k)](https://github.com/jivoi/awesome-ml-for-cybersecurity)
+- Repository: [Machine Learning for Cyber Security (⭐7.4k)](https://github.com/jivoi/awesome-ml-for-cybersecurity)
 
   Description: Curated list of tools and resources related to the use of machine learning for cyber security
 

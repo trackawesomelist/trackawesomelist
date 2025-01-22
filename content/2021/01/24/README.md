@@ -32,13 +32,13 @@
 
 ### Articles
 
-*   [Install npm packages globally without sudo on macOS and Linux (⭐2.4k)](https://github.com/sindresorhus/guides/blob/main/npm-global-without-sudo.md)
+*   [Install npm packages globally without sudo on macOS and Linux (⭐2.5k)](https://github.com/sindresorhus/guides/blob/main/npm-global-without-sudo.md)
 
 ## [5. Amas](/content/sindresorhus/amas/README.md)
 
 ### Ask these people anything!
 
-*   [Sindre Sorhus (⭐138)](https://github.com/sindresorhus/ama) - Full-time open-sourcerer. Maker of many npm packages and apps.
+*   [Sindre Sorhus (⭐142)](https://github.com/sindresorhus/ama) - Full-time open-sourcerer. Maker of many npm packages and apps.
 
 ---
 

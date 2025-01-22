@@ -22,12 +22,12 @@
 
 ### Driver crates / Other
 
-*   [tb6612fng](https://crates.io/crates/tb6612fng) - A `no_std` driver for the TB6612FNG motor driver - ![Crates.io](https://img.shields.io/crates/v/tb6612fng.svg)
-*   [vl53l1x-uld](https://crates.io/crates/vl53l1x-uld) - I2C - A pure-rust driver for the [ST VL53L1X](https://www.st.com/en/imaging-and-photonics-solutions/vl53l1x.html) - ![crates.io](https://img.shields.io/crates/v/vl53l1x-uld.svg)
+*   [tb6612fng](https://crates.io/crates/tb6612fng) - A `no_std` driver for the TB6612FNG motor driver - [![crates.io](https://img.shields.io/crates/v/tb6612fng.svg)](https://crates.io/crates/tb6612fng)
+*   [vl53l1x-uld](https://crates.io/crates/vl53l1x-uld) - I2C - A pure-rust driver for the [ST VL53L1X](https://www.st.com/en/imaging-and-photonics-solutions/vl53l1x.html) - [![crates.io](https://img.shields.io/crates/v/vl53l1x-uld.svg)](https://crates.io/crates/vl53l1x-uld)
 
 ### no-std crates / WIP
 
-*   [adafruit-bluefruit-protocol](https://crates.io/crates/adafruit-bluefruit-protocol): A `no_std` parser for the [Adafruit Bluefruit LE Connect controller protocol](https://learn.adafruit.com/bluefruit-le-connect/controller). - ![crates.io](https://img.shields.io/crates/v/adafruit-bluefruit-protocol)
+*   [adafruit-bluefruit-protocol](https://crates.io/crates/adafruit-bluefruit-protocol): A `no_std` parser for the [Adafruit Bluefruit LE Connect controller protocol](https://learn.adafruit.com/bluefruit-le-connect/controller). - [![crates.io](https://img.shields.io/crates/v/adafruit-bluefruit-protocol)](https://crates.io/crates/adafruit-bluefruit-protocol)
 
 ## [4. GoBooks](/content/dariubs/GoBooks/README.md)
 
@@ -61,14 +61,14 @@
 
 ### :wrench: Tools / Before 2000
 
-*   [Capa (⭐4k)](https://github.com/mandiant/capa) - Open-source tool to identify capabilities in PE, ELF or .NET executable files.
-*   [Oedipus (⭐10)](https://github.com/tum-i4/Oedipus) - A Python framework that uses machine learning algorithms to implement the metadata recovery attack against obfuscated programs.
+*   [Capa (⭐5k)](https://github.com/mandiant/capa) - Open-source tool to identify capabilities in PE, ELF or .NET executable files.
+*   [Oedipus (⭐11)](https://github.com/tum-i4/Oedipus) - A Python framework that uses machine learning algorithms to implement the metadata recovery attack against obfuscated programs.
 
 ## [6. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Goroutines
 
-*   [conc (⭐8.9k)](https://github.com/sourcegraph/conc) - `conc` is your toolbelt for structured concurrency in go, making common tasks easier and safer.
+*   [conc (⭐9.6k)](https://github.com/sourcegraph/conc) - `conc` is your toolbelt for structured concurrency in go, making common tasks easier and safer.
 
 ## [7. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
@@ -93,18 +93,18 @@
 ### Kernels / Unikernel-like
 
 *   [Drawbridge](https://www.microsoft.com/en-us/research/project/drawbridge) - Research prototype platform from Microsoft.
-*   [Graphene (⭐762)](https://github.com/oscarlab/graphene) - Library OS optimized for Intel SGX.
+*   [Graphene (⭐769)](https://github.com/oscarlab/graphene) - Library OS optimized for Intel SGX.
 
 ### Exploitation Tools / Unikernel-like
 
-*   [Bonzai (⭐155)](https://github.com/rwxrob/bonzai) - It's like a modular, multicall BusyBox builder for Go with built in completion and embedded documentation support.
+*   [Bonzai (⭐190)](https://github.com/rwxrob/bonzai) - It's like a modular, multicall BusyBox builder for Go with built in completion and embedded documentation support.
 
-### Optics and Extra Info / Xen Exploitation
+### Exploitation Tools / Xen Exploitation
 
 *   [Software Attacks on Hypervisor Emulation of Hardware](https://www.youtube.com/watch?v=c4DnlP88D2Y) - [\[PDF Slides\]](https://www.troopers.de/downloads/troopers17/TR17_Attacking_hypervisor_through_hardwear_emulation.pdf)
 *   [The Arms Race Over Virtualization](https://www.youtube.com/watch?v=nWvg7NKwOjg) - [\[PDF Slides\]](https://www.blackhat.com/docs/us-16/materials/us-16-Luan-Ouroboros-Tearing-Xen-Hypervisor-With-The-Snake.pdf)
 
-### Companies using Qubes OS / Web articles
+### Companies using Qubes OS / Extra Info
 
 *   [Qubes Partners](https://www.qubes-os.org/partners/) - The Qubes Project relies greatly on the generous support of the organizations, companies, and individuals who have become Qubes Partners.
 

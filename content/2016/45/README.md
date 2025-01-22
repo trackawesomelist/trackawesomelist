@@ -542,13 +542,13 @@
 
 ### Contents / High-Availability
 
-*   [Patroni (⭐6.5k)](https://github.com/zalando/patroni) - Template for PostgreSQL HA with ZooKeeper or etcd.
+*   [Patroni (⭐6.6k)](https://github.com/zalando/patroni) - Template for PostgreSQL HA with ZooKeeper or etcd.
 *   [Stolon (⭐4.6k)](https://github.com/sorintlab/stolon) - PostgreSQL HA based on Consul or etcd, with Kubernetes integration.
 *   [repmgr (⭐1.5k)](https://github.com/2ndQuadrant/repmgr) - Open-source tool suite to manage replication and failover in a cluster of PostgreSQL servers.
 
 ### Contents / Backups
 
-*   [OmniPITR (⭐177)](https://github.com/omniti-labs/omnipitr) - Advanced WAL File Management Tools for PostgreSQL.
+*   [OmniPITR (⭐178)](https://github.com/omniti-labs/omnipitr) - Advanced WAL File Management Tools for PostgreSQL.
 
 ### Contents / GUI
 
@@ -557,8 +557,8 @@
 *   [Datazenit](https://datazenit.com/) - Web-based PostgreSQL GUI (Commercial Software).
 *   [JackDB](https://www.jackdb.com/) - Web-based SQL query interface (Commercial Software).
 *   [pgAdmin](https://www.pgadmin.org/) - PostgreSQL Administration and Management GUI.
-*   [pgweb (⭐8.5k)](https://github.com/sosedoff/pgweb) - Web-based PostgreSQL database browser written in Go.
-*   [phpPgAdmin (⭐798)](https://github.com/phppgadmin/phppgadmin) - The Premier Web Based Administration Tool for PostgreSQL.
+*   [pgweb (⭐8.6k)](https://github.com/sosedoff/pgweb) - Web-based PostgreSQL database browser written in Go.
+*   [phpPgAdmin (⭐802)](https://github.com/phppgadmin/phppgadmin) - The Premier Web Based Administration Tool for PostgreSQL.
 *   [Postbird (⭐1.5k)](https://github.com/Paxa/postbird) - PostgreSQL Client for macOS.
 *   [Postico](https://eggerapps.at/postico/) - Modern PostgreSQL Client for macOS (Commercial Software).
 *   [PSequel](http://www.psequel.com/) - Clean and simple interface to perform common PostgreSQL tasks quickly (Commercial Software).
@@ -567,8 +567,8 @@
 
 ### Contents / Monitoring
 
-*   [check\_pgactivity (⭐173)](https://github.com/OPMDG/check_pgactivity) - check\_pgactivity is designed to monitor PostgreSQL clusters from Nagios. It offers many options to measure and monitor useful performance metrics.
-*   [Check\_postgres (⭐552)](https://github.com/bucardo/check_postgres) - Nagios check\_postgres plugin for checking status of PostgreSQL databases.
+*   [check\_pgactivity (⭐175)](https://github.com/OPMDG/check_pgactivity) - check\_pgactivity is designed to monitor PostgreSQL clusters from Nagios. It offers many options to measure and monitor useful performance metrics.
+*   [Check\_postgres (⭐556)](https://github.com/bucardo/check_postgres) - Nagios check\_postgres plugin for checking status of PostgreSQL databases.
 *   [libzbxpgsql (⭐157)](https://github.com/cavaliercoder/libzbxpgsql) - Comprehensive PostgreSQL monitoring module for Zabbix.
 *   [Pome (⭐1.1k)](https://github.com/rach/pome) - Pome stands for PostgreSQL Metrics. Pome is a PostgreSQL Metrics Dashboard to keep track of the health of your database.
 *   [pg\_view (⭐494)](https://github.com/zalando/pg_view) - Open-source command-line tool that shows global system stats, per-partition information, memory stats and other information.
@@ -576,17 +576,17 @@
 ### Contents / Extensions
 
 *   [cstore\_fdw (⭐1.8k)](https://github.com/citusdata/cstore_fdw) - Columnar store for analytics with PostgreSQL.
-*   [pglogical (⭐972)](https://github.com/2ndQuadrant/pglogical) - Extension that provides logical streaming replication.
-*   [pg\_paxos (⭐305)](https://github.com/citusdata/pg_paxos/) - Basic implementation of Paxos and Paxos-based table replication for a cluster of PostgreSQL nodes.
+*   [pglogical (⭐989)](https://github.com/2ndQuadrant/pglogical) - Extension that provides logical streaming replication.
+*   [pg\_paxos (⭐306)](https://github.com/citusdata/pg_paxos/) - Basic implementation of Paxos and Paxos-based table replication for a cluster of PostgreSQL nodes.
 *   [pg\_shard (⭐1.1k)](https://github.com/citusdata/pg_shard) - Extension to scale out real-time reads and writes.
 *   [PGStrom](https://wiki.postgresql.org/wiki/PGStrom) - Extension to offload CPU intensive workloads to GPU.
-*   [plpgsql\_check (⭐616)](https://github.com/okbob/plpgsql_check) - Extension that allows to check plpgsql source code.
+*   [plpgsql\_check (⭐625)](https://github.com/okbob/plpgsql_check) - Extension that allows to check plpgsql source code.
 *   [PostGIS](http://postgis.net/) - Spatial and Geographic objects for PostgreSQL.
 *   [zomboDB (⭐4.7k)](https://github.com/zombodb/zombodb) - Extension that enables efficient full-text searching via the use of indexes backed by Elasticsearch.
 
 ### Contents / Optimization
 
-*   [PgHero (⭐7.9k)](https://github.com/ankane/pghero) - PostgreSQL insights made easy.
+*   [PgHero (⭐8k)](https://github.com/ankane/pghero) - PostgreSQL insights made easy.
 *   [pgtune (⭐1k)](https://github.com/gregs1104/pgtune/) - PostgreSQL configuration wizard.
 
 ### Contents / Utilities
@@ -599,9 +599,9 @@
 *   [pgclimb (⭐388)](https://github.com/lukasmartinelli/pgclimb) - Export data from PostgreSQL into different data formats.
 *   [pgfutter (⭐1.3k)](https://github.com/lukasmartinelli/pgfutter) - Import CSV and JSON into PostgreSQL the easy way.
 *   [PGInsight](http://pginsight.io/) - CLI tool to easily dig deep inside your PostgreSQL database.
-*   [pgloader (⭐5.2k)](https://github.com/dimitri/pgloader) - Loads data into PostgreSQL using the COPY streaming protocol, and does so with separate threads for reading and writing data.
+*   [pgloader (⭐5.3k)](https://github.com/dimitri/pgloader) - Loads data into PostgreSQL using the COPY streaming protocol, and does so with separate threads for reading and writing data.
 *   [pgsync (⭐3.1k)](https://github.com/ankane/pgsync) - Tool to sync PostgreSQL data to your local machine.
-*   [postgresql-metrics (⭐590)](https://github.com/spotify/postgresql-metrics) - Tool that extracts and provides metrics for your PostgreSQL database.
+*   [postgresql-metrics (⭐588)](https://github.com/spotify/postgresql-metrics) - Tool that extracts and provides metrics for your PostgreSQL database.
 *   [yoke (⭐1.3k)](https://github.com/nanopack/yoke) - PostgreSQL high-availability cluster with auto-failover and automated cluster recovery.
 
 ### Resources / Tutorials
@@ -628,11 +628,11 @@
 
 ### Device
 
-*   [Luminous (⭐340)](https://github.com/andrealufino/Luminous) - Get everything you need to know about the device.
+*   [Luminous (⭐344)](https://github.com/andrealufino/Luminous) - Get everything you need to know about the device.
 
 ### Text / Barcode
 
-*   [Notepad (⭐866)](https://github.com/ruddfawcett/Notepad) - A fully themeable markdown editor with live syntax highlighting.
+*   [Notepad (⭐879)](https://github.com/ruddfawcett/Notepad) - A fully themeable markdown editor with live syntax highlighting.
 
 ### Calendar / Barcode
 
@@ -666,7 +666,7 @@
 
 ### Authorization
 
-*   [bodyguard (⭐738)](https://github.com/schrockwell/bodyguard) - A flexible authorization library for Phoenix applications.
+*   [bodyguard (⭐758)](https://github.com/schrockwell/bodyguard) - A flexible authorization library for Phoenix applications.
 
 ### Caching
 
@@ -674,7 +674,7 @@
 
 ### Framework Components
 
-*   [commanded (⭐1.8k)](https://github.com/slashdotdash/commanded) - Command handling middleware for Command Query Responsibility Segregation (CQRS) applications.
+*   [commanded (⭐1.9k)](https://github.com/slashdotdash/commanded) - Command handling middleware for Command Query Responsibility Segregation (CQRS) applications.
 
 ### Geolocation
 
@@ -686,7 +686,7 @@
 
 ### ORM and Datamapping
 
-*   [arbor (⭐239)](https://github.com/coryodaniel/arbor) - Ecto adjacency list and tree traversal.
+*   [arbor (⭐242)](https://github.com/coryodaniel/arbor) - Ecto adjacency list and tree traversal.
 *   [ex\_sider (⭐6)](https://github.com/ephe-meral/ex_sider) - Elixir Map/List/Set interfaces for Redis data structures (uses Redix, but that is configurable).
 
 ### Statistics
@@ -696,12 +696,12 @@
 ### Testing
 
 *   [apocryphal (⭐17)](https://github.com/coryodaniel/apocryphal) - Swagger based document driven development for ExUnit.
-*   [ex\_parameterized (⭐28)](https://github.com/KazuCocoa/ex_parameterized) - Simple macro for parameterized testing.
+*   [ex\_parameterized (⭐29)](https://github.com/KazuCocoa/ex_parameterized) - Simple macro for parameterized testing.
 
 ### Text and Numbers
 
-*   [abacus (⭐85)](https://github.com/narrowtux/abacus) - Evaluate math terms in Elixir.
-*   [brcpfcnpj (⭐69)](https://github.com/williamgueiros/Brcpfcnpj) - Number format and Validation for Brazilian documents (CPF/CNPJ).
+*   [abacus (⭐92)](https://github.com/narrowtux/abacus) - Evaluate math terms in Elixir.
+*   [brcpfcnpj (⭐70)](https://github.com/williamgueiros/Brcpfcnpj) - Number format and Validation for Brazilian documents (CPF/CNPJ).
 
 ## [34. Awesome Sass](/content/Famolus/awesome-sass/week/README.md)
 

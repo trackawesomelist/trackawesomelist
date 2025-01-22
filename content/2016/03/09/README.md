@@ -16,7 +16,7 @@
 
 ### Boilerplates / Outdated Boilerplates
 
-*   [elm-webpack-starter (⭐862)](https://github.com/moarwick/elm-webpack-starter) - A simple Webpack setup for writing Elm apps.
+*   [elm-webpack-starter (⭐861)](https://github.com/moarwick/elm-webpack-starter) - A simple Webpack setup for writing Elm apps.
 
 ## [3. Tips](/content/git-tips/tips/README.md)
 

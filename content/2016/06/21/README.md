@@ -10,7 +10,7 @@
 
 ### Network Analysis
 
-*   [netdiffuseR (⭐83)](https://github.com/USCCANA/netdiffuseR) - Tools for Analysis of Network Diffusion.
+*   [netdiffuseR (⭐86)](https://github.com/USCCANA/netdiffuseR) - Tools for Analysis of Network Diffusion.
 
 ## [2. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
@@ -30,8 +30,8 @@
 
 ### Python / Data Analysis / Data Visualization
 
-*   [SOMPY (⭐532)](https://github.com/sevamoo/SOMPY) - Self Organizing Map written in Python (Uses neural networks for data analysis).
-*   [HDBScan (⭐92)](https://github.com/lmcinnes/hdbscan) - implementation of the hdbscan algorithm in Python - used for clustering
+*   [SOMPY (⭐538)](https://github.com/sevamoo/SOMPY) - Self Organizing Map written in Python (Uses neural networks for data analysis).
+*   [HDBScan (⭐94)](https://github.com/lmcinnes/hdbscan) - implementation of the hdbscan algorithm in Python - used for clustering
 
 ## [4. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
 
@@ -100,7 +100,7 @@
 
 ### Resources / Docker Images
 
-*   [jupyter/docker-stacks/pyspark-notebook (⭐7.2k)](https://github.com/jupyter/docker-stacks/tree/master/pyspark-notebook) - PySpark with Jupyter Notebook and Mesos client.
+*   [jupyter/docker-stacks/pyspark-notebook (⭐8k)](https://github.com/jupyter/docker-stacks/tree/master/pyspark-notebook) - PySpark with Jupyter Notebook and Mesos client.
 
 ---
 

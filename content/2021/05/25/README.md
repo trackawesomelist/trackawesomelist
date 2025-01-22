@@ -1,6 +1,6 @@
 # Awesome List Updates on May 25, 2021
 
-15 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -23,7 +23,7 @@
 ### Programming Languages / Haskell
 
 *   [nix-haskell-mode (⭐28)](https://github.com/matthewbauer/nix-haskell-mode) - Automatic Haskell setup in Emacs.
-*   [nixkell (⭐89)](https://github.com/pwm/nixkell) - A Haskell project template using Nix and direnv.
+*   [nixkell (⭐99)](https://github.com/pwm/nixkell) - A Haskell project template using Nix and direnv.
 
 ### Community / Webinterface
 
@@ -40,8 +40,8 @@
 
 ### Starters/Boilerplates / Other external resources
 
-*   [rails\_api\_base (⭐469)](https://github.com/rootstrap/rails_api_base) - Rails 6 boilerplate project for JSON RESTful APIs.
-*   [rails\_hotwire\_base (⭐73)](https://github.com/rootstrap/rails_hotwire_base) - Rails 6 boilerplate project with Hotwire for full-stack applications with a modern SPA-like experience.
+*   [rails\_api\_base (⭐504)](https://github.com/rootstrap/rails_api_base) - Rails 6 boilerplate project for JSON RESTful APIs.
+*   [rails\_hotwire\_base (⭐76)](https://github.com/rootstrap/rails_hotwire_base) - Rails 6 boilerplate project with Hotwire for full-stack applications with a modern SPA-like experience.
 
 ## [6. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
@@ -53,27 +53,27 @@
 
 ### Encryption
 
-*   [Picocrypt (⭐2.4k)](https://github.com/HACKERALERT/Picocrypt/) - A very small (hence "Pico"), very simple, yet very secure file encryption tool.
+*   [Picocrypt (⭐2.5k)](https://github.com/HACKERALERT/Picocrypt/) - A very small (hence "Pico"), very simple, yet very secure file encryption tool.
 
 ## [8. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Graphics
 
-*   [kotlin-graphics/assimp (⭐93)](https://github.com/kotlin-graphics/assimp) - Open Asset Import Library port
+*   [kotlin-graphics/assimp (⭐95)](https://github.com/kotlin-graphics/assimp) - Open Asset Import Library port
 
 ## [9. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Templates / Vue 3
 
-*   [fast-crud (⭐848)](https://github.com/fast-crud/fast-crud) - Options-oriented crud framework, developing crud as fast as lightning.
+*   [fast-crud (⭐957)](https://github.com/fast-crud/fast-crud) - Options-oriented crud framework, developing crud as fast as lightning.
 
 ### Rollup Plugins / Compatible with Vite
 
-*   [@rollup/plugin-virtual (⭐3.6k)](https://github.com/rollup/plugins/blob/master/packages/virtual) - A Rollup plugin that loads virtual modules from memory.
+*   [@rollup/plugin-virtual (⭐3.7k)](https://github.com/rollup/plugins/blob/master/packages/virtual) - A Rollup plugin that loads virtual modules from memory.
 
 ### Rollup Plugins / Community
 
-*   Check the [Awesome Rollup list (⭐2.5k)](https://github.com/rollup/awesome) for community-maintained rollup plugins, and refer to the Vite docs section about [rollup plugin compatibility](https://vitejs.dev/guide/api-plugin.html#rollup-plugin-compatiblity).
+*   Check the [Awesome Rollup list (⭐2.6k)](https://github.com/rollup/awesome) for community-maintained rollup plugins, and refer to the Vite docs section about [rollup plugin compatibility](https://vitejs.dev/guide/api-plugin.html#rollup-plugin-compatiblity).
 
 ### Craft CMS / Community
 
@@ -81,7 +81,7 @@
 
 ### Apps/Websites / Community
 
-*   [vue3-realworld-example-app (⭐930)](https://github.com/mutoe/vue3-realworld-example-app) - Realworld app implementation using Vue 3 + TypeScript + Composition API.
+*   [vue3-realworld-example-app (⭐973)](https://github.com/mutoe/vue3-realworld-example-app) - Realworld app implementation using Vue 3 + TypeScript + Composition API.
 
 ## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -108,30 +108,24 @@
 
 ### Networking / Text-Based User Interfaces
 
-*   [Commons-networking (⭐13)](https://github.com/CiscoSE/commons-networking) - Client for server-sent events (SSE).
+*   [Commons-networking (⭐16)](https://github.com/CiscoSE/commons-networking) - Client for server-sent events (SSE).
 
 ### Template Engine / Other
 
-*   [StringTemplate (⭐938)](https://github.com/antlr/stringtemplate4) - Template engine for generating source code, web pages, emails, or any other formatted text output.
+*   [StringTemplate (⭐950)](https://github.com/antlr/stringtemplate4) - Template engine for generating source code, web pages, emails, or any other formatted text output.
 
 ### Workflow Orchestration Engines / Mocking
 
 *   [Cadence](https://cadenceworkflow.io) - Stateful code platform from Uber.
 *   [Temporal](https://temporal.io) - Microservice orchestration platform, forked from Cadence but gRPC based.
 
-## [13. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
-
-### Tutorials
-
-*   [Meet Svelte 3, a Powerful, Even Radical JavaScript Framework](https://www.sitepoint.com/svelte-javascript-framework-introduction/) - SitePoint, by Chrome DevTools engineer @Jack\_Franklin.
-
-## [14. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
+## [13. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
 ### Platforms and Software Resources / Urban Design Tools and Platforms
 
 *   [SketchUp](https://www.sketchup.com/) - Easy to use interactive 3D modeling software for planning and design applications. Supported by a rich asset library for creating neighborhood designs.
 
-## [15. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [14. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Video
 

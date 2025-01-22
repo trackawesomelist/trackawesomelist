@@ -46,21 +46,19 @@
 
 *   [Laravel Views (⭐493)](https://github.com/Gustavinho/laravel-views) - Laravel package to create beautiful common views like data tables using the TALL stack.
 
-## [7. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
+## [7. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/README.md)
+
+### Websites
+
+*   Web App Rater - <https://webapprater.com/submit-your-web-application-for-review-html>
+
+## [8. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
 ### Maps in the Wild
 
 *   [How to use Wardley Mapping to understand how you deliver customer value](https://medium.com/@stephanwillemse/how-to-use-wardley-mapping-to-understand-how-you-deliver-customer-value-43abdad264cf) - Sep 15, 2020.
 *   [The What, The Why and Some How of Wardley Mapping](https://www.infoq.com/presentations/interview-wardley-maps/) - A conversation with Simon Wardley. Aug 4, 2020.
 *   [Estratégia com Wardley Maps](https://targetteal.com/pt/blog/estrategia-wardley-maps/) - Jun 7, 2020.
-
-## [8. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/README.md)
-
-### Websites
-
-*   Emoji Launch - <https://emojilaunch.com/>
-*   Springwise - <https://www.springwise.com/spotted/>
-*   Web App Rater - <https://webapprater.com/submit-your-web-application-for-review-html>
 
 ## [9. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
@@ -112,7 +110,7 @@
 ### Communications / Cryptography
 
 *   [mpyaes (⭐27)](https://github.com/iyassou/mpyaes) - MicroPython module for AES encryption.
-*   [micropython-aes (⭐17)](https://github.com/piaca/micropython-aes) - AES algorithm with pure python implementation.
+*   [micropython-aes (⭐19)](https://github.com/piaca/micropython-aes) - AES algorithm with pure python implementation.
 
 ### Communications / RTC
 
@@ -124,13 +122,13 @@
 
 ### Display / GUI
 
-*   [lvgl (⭐241)](https://github.com/lvgl/lv_binding_micropython) - An object-oriented, component-based high-level GUI library with MicroPython binding.
-*   [micropython-lcd160cr-gui (⭐28)](https://github.com/peterhinch/micropython-lcd160cr-gui) - Simple touch-driven event based GUI for the Pyboard and LCD160CR colour display.
-*   [micropython\_ra8875 (⭐9)](https://github.com/peterhinch/micropython_ra8875) - MicroPython device driver and nano-GUI for RA8875 based displays.
+*   [lvgl (⭐274)](https://github.com/lvgl/lv_binding_micropython) - An object-oriented, component-based high-level GUI library with MicroPython binding.
+*   [micropython-lcd160cr-gui (⭐31)](https://github.com/peterhinch/micropython-lcd160cr-gui) - Simple touch-driven event based GUI for the Pyboard and LCD160CR colour display.
+*   [micropython\_ra8875 (⭐11)](https://github.com/peterhinch/micropython_ra8875) - MicroPython device driver and nano-GUI for RA8875 based displays.
 
 ### Sensors / Camera
 
-*   [micropython-camera-driver (⭐434)](https://github.com/lemariva/micropython-camera-driver) - OV2640 camera driver for MicroPython on ESP32.
+*   [micropython-camera-driver (⭐481)](https://github.com/lemariva/micropython-camera-driver) - OV2640 camera driver for MicroPython on ESP32.
 
 ### Sensors / Temperature Digital
 
@@ -140,12 +138,12 @@
 
 ### Frameworks / SRAM
 
-*   [micrOS (⭐95)](https://github.com/BxNxM/micrOS) - MicroPython-based IoT Framework.
-*   [terkin-datalogger (⭐58)](https://github.com/hiveeyes/terkin-datalogger) - Flexible data logger application for MicroPython and CPython.
+*   [micrOS (⭐112)](https://github.com/BxNxM/micrOS) - MicroPython-based IoT Framework.
+*   [terkin-datalogger (⭐60)](https://github.com/hiveeyes/terkin-datalogger) - Flexible data logger application for MicroPython and CPython.
 
 ### Code Generation / SRAM
 
-*   [micropy-stubs (⭐29)](https://github.com/BradenM/micropy-stubs) - Automatically Generated Stub Packages for Micropy-Cli and whomever else.
+*   [micropy-stubs (⭐30)](https://github.com/BradenM/micropy-stubs) - Automatically Generated Stub Packages for Micropy-Cli and whomever else.
 
 ## [15. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
 

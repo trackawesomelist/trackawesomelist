@@ -45,7 +45,7 @@
 
 ### Concurrency
 
-*   [SwiftCoroutine (⭐836)](https://github.com/belozierov/SwiftCoroutine) - Swift coroutines library for iOS and macOS.
+*   [SwiftCoroutine (⭐835)](https://github.com/belozierov/SwiftCoroutine) - Swift coroutines library for iOS and macOS.
 
 ## [5. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
@@ -65,7 +65,7 @@
 
 ### Contributing and License
 
-*   [See the guide (⭐378)](https://github.com/bystritskiy/awesome-ios-books/blob/master/CONTRIBUTING.md)
+*   [See the guide (⭐451)](https://github.com/bystritskiy/awesome-ios-books/blob/master/CONTRIBUTING.md)
 *   Distributed under the MIT license. See LICENSE for more information.
 
 ## [8. ElixirBooks](/content/sger/ElixirBooks/README.md)
@@ -79,7 +79,7 @@
 
 ### Utilities / Menu Bar Tools
 
-*   [Hidden (⭐11k)](https://github.com/dwarvesf/hidden) - A ultra-light MacOS utility that helps hide menu bar icons. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/dwarvesf/hidden) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Hidden (⭐12k)](https://github.com/dwarvesf/hidden) - A ultra-light MacOS utility that helps hide menu bar icons. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/dwarvesf/hidden) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [10. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

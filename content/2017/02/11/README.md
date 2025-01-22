@@ -32,7 +32,7 @@
 
 ### GIS
 
-*   [GeoJSON4EntityFramework (⭐19)](https://github.com/alatas/GeoJSON4EntityFramework) - A library to create GeoJSON from Entity Framework Spatial Data or Well-Known Text (WKT) inputs.
+*   [GeoJSON4EntityFramework (⭐20)](https://github.com/alatas/GeoJSON4EntityFramework) - A library to create GeoJSON from Entity Framework Spatial Data or Well-Known Text (WKT) inputs.
 
 ## [5. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
@@ -44,7 +44,7 @@
 
 ### Libraries / GUI
 
-*   [saurvs/nfd-rs (⭐157)](https://github.com/saurvs/nfd-rs) - [nativefiledialog (⭐1.7k)](https://github.com/mlabbe/nativefiledialog) bindings
+*   [saurvs/nfd-rs (⭐158)](https://github.com/saurvs/nfd-rs) - [nativefiledialog (⭐1.8k)](https://github.com/mlabbe/nativefiledialog) bindings
 
 ## [7. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/README.md)
 
@@ -54,7 +54,7 @@
 
 ## [8. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
-### Bloggers / Book Deals (Affiliated) 🛍
+### Bloggers / Book Deals (Affiliated)
 
 *   [Matthew Russell](https://miningthesocialweb.com/) - Mining The Social Web.
 *   [Hakan Kardas](https://www.cse.unr.edu/~hkardes/) - Personal Web Page
@@ -87,7 +87,7 @@
 ### Containers / Docker
 
 *   [elgalu/docker-selenium (⭐1.4k)](https://github.com/elgalu/docker-selenium) - Selenium in Docker with Chrome & Firefox plus video recording support.
-*   [SeleniumHQ/docker-selenium (⭐6.9k)](https://github.com/SeleniumHQ/docker-selenium) - Docker images for Selenium Standalone Server, Hub, and Node configurations with Chrome and Firefox.
+*   [SeleniumHQ/docker-selenium (⭐8.2k)](https://github.com/SeleniumHQ/docker-selenium) - Docker images for Selenium Standalone Server, Hub, and Node configurations with Chrome and Firefox.
 
 ## [11. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
 

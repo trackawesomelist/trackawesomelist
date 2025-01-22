@@ -34,7 +34,7 @@
 
 ### Cryptography
 
-*   [Tink (⭐13k)](https://github.com/google/tink) - A multi-language, cross-platform library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse. \[Apache-2.0]
+*   [Tink (⭐14k)](https://github.com/google/tink) - A multi-language, cross-platform library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse. \[Apache-2.0]
 
 ## [6. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/README.md)
 

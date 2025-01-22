@@ -22,7 +22,7 @@
 
 ### Software / Note-taking & Editors
 
-*   [Dnote](https://www.getdnote.com) - A simple command line notebook with multi-device sync and web interface. ([Source Code (⭐2.7k)](https://github.com/dnote/dnote)) `AGPL-3.0` `Go`
+*   [Dnote](https://www.getdnote.com) - A simple command line notebook with multi-device sync and web interface. ([Source Code (⭐2.8k)](https://github.com/dnote/dnote)) `AGPL-3.0` `Go`
 
 ## [3. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
@@ -51,7 +51,7 @@
 
 ### Iteration
 
-*   [gmap (⭐16)](https://github.com/slburson/misc-extensions/blob/master/src/gmap.lisp) - A concise and extensible iteration facility that has the advantage of integrating well with FSet (see the Data Structures section), as it was written by the same author. In Quicklisp as part of `misc-extensions`. Public domain.
+*   [gmap (⭐18)](https://github.com/slburson/misc-extensions/blob/master/src/gmap.lisp) - A concise and extensible iteration facility that has the advantage of integrating well with FSet (see the Data Structures section), as it was written by the same author. In Quicklisp as part of `misc-extensions`. Public domain.
 
 ### Typing
 
@@ -59,7 +59,7 @@
 
 ### Others / Third-party APIs
 
-*   [array-operations (⭐43)](https://github.com/bendudson/array-operations) - a collection of functions and macros for manipulating Common Lisp arrays and performing numerical calculations with them. [MIT](https://opensource.org/licenses/MIT).
+*   [array-operations (⭐45)](https://github.com/bendudson/array-operations) - a collection of functions and macros for manipulating Common Lisp arrays and performing numerical calculations with them. [MIT](https://opensource.org/licenses/MIT).
 *   [cl-geometry (⭐48)](https://github.com/Ramarren/cl-geometry/) - a system for two dimensional computational geometry for Common Lisp. [MIT](https://opensource.org/licenses/MIT).
 
 ## [7. Awesome Userscripts](/content/bvolpato/awesome-userscripts/README.md)
@@ -68,7 +68,7 @@
 
 *   [Greasemonkey](http://www.greasespot.net/) - Firefox
     *   Supports GM 4 userscripts.
-*   [Greasemonkey for Pale Moon (⭐90)](https://github.com/janekptacijarabaci/greasemonkey/releases) - Pale Moon
+*   [Greasemonkey for Pale Moon (⭐91)](https://github.com/janekptacijarabaci/greasemonkey/releases) - Pale Moon
     *   Supports GM 3 userscripts.
 *   [Firemonkey](https://addons.mozilla.org/firefox/addon/firemonkey/) - Firefox
     *   Supports GM 4 userscripts and some GM 3 userscripts.
@@ -104,7 +104,7 @@
 *   [Endless Google](https://openuserjs.org/scripts/tumpio/Endless_Google) -  Load more results automatically and endlessly.
 *   [Google Images direct link](https://greasyfork.org/scripts/3187-google-images-direct-link) - Adds direct links to images and pages in google image search.
 *   [Google Translate Keyboard Shortcut (⭐8)](https://github.com/Greenek/google-translate-keyboard-shortcut-userscript) - Adds keyboard shortcut for quick swapping between active languages.
-*   [Reddit Search On Google (⭐86)](https://github.com/marioortizmanero/reddit-search-on-google) - Adds a button to your Google searches to show only Reddit posts.
+*   [Reddit Search On Google (⭐94)](https://github.com/marioortizmanero/reddit-search-on-google) - Adds a button to your Google searches to show only Reddit posts.
 
 ### Scripts / Media
 
@@ -166,7 +166,7 @@
 
 ### Authentication and Authorization
 
-*   🍰 [TwoFactorAuth plugin (⭐37)](https://github.com/andrej-griniuk/cakephp-two-factor-auth) - Allows two factor authentication using Google Authenticator or similar app to generate one-time codes. Based on [RobThree/TwoFactorAuth (⭐1k)](https://github.com/RobThree/TwoFactorAuth) library.
+*   [TwoFactorAuth plugin (⭐37)](https://github.com/andrej-griniuk/cakephp-two-factor-auth) - Allows two factor authentication using Google Authenticator or similar app to generate one-time codes. Based on [RobThree/TwoFactorAuth (⭐1.1k)](https://github.com/RobThree/TwoFactorAuth) library.
 
 ## [15. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
 
@@ -205,7 +205,7 @@
 
 ## [16. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 
-### Blog posts
+### Blog posts  (a-z↓)
 
 *   [Automated screenshot comparison tests with headless Chrome, Puppeteer and Pixelmatch, in Bitbucket pipeline](https://jakobzanker.de/blog/automated-screenshot-comparison-test-with-headless-chrome-in-bitbucket-pipeline/)
 *   [Automatic visual diffing with Puppeteer](https://meowni.ca/posts/2017-puppeteer-tests/)
@@ -221,27 +221,27 @@
 
 ### Static Analysis / Linting
 
-*   [Stylelint problem matcher to create annotations (⭐16)](https://github.com/xt0rted/stylelint-problem-matcher)
+*   [Stylelint problem matcher to create annotations (⭐19)](https://github.com/xt0rted/stylelint-problem-matcher)
 
 ### Pull Requests / Code Coverage
 
-*   [Block PR merges when Checks for target branches are failing (⭐5)](https://github.com/cirrus-actions/branch-guard)
+*   [Block PR merges when Checks for target branches are failing (⭐6)](https://github.com/cirrus-actions/branch-guard)
 
 ## [19. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### Component abstraction crates / Other
 
-*   [`usb-device`](https://github.com/mvirkkunen/usb-device): Abstraction layer between USB peripheral crates & USB class crates - ![crates.io](https://img.shields.io/crates/v/usb-device.svg)
+*   [`usb-device`](https://github.com/mvirkkunen/usb-device): Abstraction layer between USB peripheral crates & USB class crates - [![crates.io](https://img.shields.io/crates/v/usb-device.svg)](https://crates.io/crates/usb-device)
 
 ### Driver crates / Other
 
-*   [usbd-serial](http://crates.io/crates/usbd-serial) - USB CDC-ACM class (serial) implementation - [github (⭐113)](https://github.com/mvirkkunen/usbd-serial) - ![crates.io](https://img.shields.io/crates/v/usbd-serial.svg)
-*   [usbd-hid](http://crates.io/crates/usbd-hid) - USB HID class implementation - [github (⭐88)](https://github.com/twitchyliquid64/usbd-hid) - ![crates.io](https://img.shields.io/crates/v/usbd-hid.svg)
-*   [usbd-webusb](http://crates.io/crates/usbd-webusb) - USB webUSB class implementation - [github (⭐18)](https://github.com/redpfire/usbd-webusb) - ![crates.io](https://img.shields.io/crates/v/usbd-webusb.svg)
+*   [usbd-serial](http://crates.io/crates/usbd-serial) - USB CDC-ACM class (serial) implementation - [github (⭐120)](https://github.com/mvirkkunen/usbd-serial) - [![crates.io](https://img.shields.io/crates/v/usbd-serial.svg)](https://crates.io/crates/usbd-serial)
+*   [usbd-hid](http://crates.io/crates/usbd-hid) - USB HID class implementation - [github (⭐93)](https://github.com/twitchyliquid64/usbd-hid) - [![crates.io](https://img.shields.io/crates/v/usbd-hid.svg)](https://crates.io/crates/usbd-hid)
+*   [usbd-webusb](http://crates.io/crates/usbd-webusb) - USB webUSB class implementation - [github (⭐20)](https://github.com/redpfire/usbd-webusb) - [![crates.io](https://img.shields.io/crates/v/usbd-webusb.svg)](https://crates.io/crates/usbd-webusb)
 
 ### Driver crates / WIP
 
-*   [embedded-morse](https://crates.io/crates/embedded-morse) - Output morse messages - ![crates.io](https://img.shields.io/crates/v/embedded-morse.svg)
+*   [embedded-morse](https://crates.io/crates/embedded-morse) - Output morse messages - [![crates.io](https://img.shields.io/crates/v/embedded-morse.svg)](https://crates.io/crates/embedded-morse)
 
 ---
 

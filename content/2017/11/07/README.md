@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 07, 2017
 
-17 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -14,11 +14,11 @@
     window.
 *   They use slightly different commands for navigation.
 
-## [2. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [2. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
-### Frameworks, Libraries and Tools / API
+### HTTP
 
-*   [RestLess (⭐112)](https://github.com/letsar/RestLess) - The automatic type-safe-reflectionless REST API client library for .Net Standard.
+*   [RestLess (⭐111)](https://github.com/letsar/RestLess) - The automatic type-safe-reflectionless REST API client library for .Net Standard.
 
 ## [3. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/README.md)
 
@@ -31,20 +31,13 @@
 
 *   [maiermic/cycle-storageify ★5 (⭐6)](https://github.com/maiermic/cycle-storageify) - Augments your Cycle.js component (main function) by storing its onion-shaped state in local storage
 
-## [4. Awesome Dash](/content/ucg8j/awesome-dash/README.md)
-
-### App Examples
-
-*   [Oil and Gas Explorer](https://plot.ly/dash/gallery/new-york-oil-and-gas/) - Explore oil and gas production over time and with linked visualisations. [Source Code. (⭐179)](https://github.com/plotly/dash-oil-and-gas-demo)
-*   [Uber Rides](https://plot.ly/dash/gallery/uber-rides/) - Displays all of the Uber rides in New York City in 2014. Pandas on the backend filters a 0.5gig datafile. [Source Code.](https://github.com/plotly/dash-uber-rides-demo)
-
-## [5. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [4. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Images / Barcode
 
-*   [AXPhotoViewer (⭐642)](https://github.com/alexhillc/AXPhotoViewer) - An iPhone/iPad photo gallery viewer, useful for viewing a large (or small!) number of photos.
+*   [AXPhotoViewer (⭐647)](https://github.com/alexhillc/AXPhotoViewer) - An iPhone/iPad photo gallery viewer, useful for viewing a large (or small!) number of photos.
 
-## [6. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
+## [5. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
 
 ### Contents / GUI
 
@@ -61,13 +54,13 @@
 
 ### Contents / Language bindings
 
-*   Lua: [luapgsql (⭐108)](https://github.com/arcapos/luapgsql)
+*   Lua: [luapgsql (⭐109)](https://github.com/arcapos/luapgsql)
 
 ### Resources / Tutorials
 
-*   [postgresDBSamples (⭐452)](https://github.com/morenoh149/postgresDBSamples) - A collection of sample postgres schemas
+*   [postgresDBSamples (⭐467)](https://github.com/morenoh149/postgresDBSamples) - A collection of sample postgres schemas
 
-## [7. Awesome Slack](/content/filipelinhares/awesome-slack/README.md)
+## [6. Awesome Slack](/content/filipelinhares/awesome-slack/README.md)
 
 ### Development
 
@@ -79,14 +72,14 @@
 *   [Kubernetes](http://slack.kubernetes.io/)
 *   [DevOps](https://devopschat.co/)
 
-## [8. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
+## [7. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
 
 ### Applications
 
 *   [Open Bazaar](https://openbazaar.org): Decentralized network for P2P commerce online - using Bitcoin - that has no fees and no restrictions.
 *   [WebTorrent Desktop](https://webtorrent.io/desktop): WebTorrent Desktop is for streaming torrents. It connects to both BitTorrent and WebTorrent peers.
 
-## [9. Awesome Speakers](/content/karlhorky/awesome-speakers/README.md)
+## [8. Awesome Speakers](/content/karlhorky/awesome-speakers/README.md)
 
 ### Australia / Australia 🇦🇺
 
@@ -314,13 +307,13 @@ Topics: Design, Web Design, Architecture, Design Systems, Trains\
 Topics: InfoSec, Web App Security\
 <https://twitter.com/shehackspurple>
 
-## [10. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/README.md)
+## [9. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/README.md)
 
 ### Cross-platform frameworks / Official resources
 
 *   [react-tv (⭐2k)](https://github.com/raphamorim/react-tv) - React development for TV: renderer for low memory applications and Packager for WebOS, Tizen, Orsay.
 
-## [11. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
+## [10. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### Articles / Other
 
@@ -330,21 +323,21 @@ Topics: InfoSec, Web App Security\
 
 *   [Electron Meetup SF, November 2017](https://www.youtube.com/watch?v=DDjVaHPvRdM) - Includes some good talks on improving app startup time, debugging crashes, etc.
 
-## [12. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
+## [11. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
 ### Objective-C / Git
 
-*   [ObjectivePGP (⭐661)](https://github.com/krzyzanowskim/ObjectivePGP) - ObjectivePGP is an implementation of OpenPGP protocol for iOS and macOS. OpenPGP is the most widely used email encryption standard.
+*   [ObjectivePGP (⭐667)](https://github.com/krzyzanowskim/ObjectivePGP) - ObjectivePGP is an implementation of OpenPGP protocol for iOS and macOS. OpenPGP is the most widely used email encryption standard.
 
-## [13. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [12. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Cryptography
 
 *   [Bcrypt](http://bcrypt.sourceforge.net/) - A cross platform file encryption utility. Encrypted files are portable across all supported operating systems and processors. \[BSD]
-*   [Crypto++ (⭐4.8k)](https://github.com/weidai11/cryptopp) - A free C++ class library of cryptographic schemes. \[Boost] [website](http://www.cryptopp.com/)
+*   [Crypto++ (⭐5k)](https://github.com/weidai11/cryptopp) - A free C++ class library of cryptographic schemes. \[Boost] [website](http://www.cryptopp.com/)
 *   [Libgcrypt](http://www.gnu.org/software/libgcrypt/) - A general purpose cryptographic library originally based on code from GnuPG. \[LGPLv2.1+]
 
-## [14. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
+## [13. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
 ### Videos
 
@@ -362,19 +355,19 @@ Topics: InfoSec, Web App Security\
 
 *   [Matrices for Creative Coding](https://www.youtube.com/watch?v=4k9wTfxfkJU\&list=PLxaZqnd-OQM7k2Gp3xu02VzExGKMKgqY2) - Introduction to matrices by Greg Tatum.
 
-## [15. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [14. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / General-Purpose Machine Learning
 
 *   [xRBM (⭐55)](https://github.com/omimo/xRBM) - A library for Restricted Boltzmann Machine (RBM) and its conditional variants in Tensorflow.
 
-## [16. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
+## [15. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
 
 ### Community
 
 *   [OCaml Discourse Web Forum](https://discuss.ocaml.org/)
 
-## [17. Awesome H2o](/content/h2oai/awesome-h2o/README.md)
+## [16. Awesome H2o](/content/h2oai/awesome-h2o/README.md)
 
 ### Blog Posts & Tutorials
 

@@ -10,7 +10,7 @@
 
 ### AppImage consumption tools / Desktop integration
 
-*   [XApp Thumbnailers (⭐26)](https://github.com/linuxmint/xapp-thumbnailers) - Thumbnailers for GTK Desktop Environments, including one for the AppImage file format. Makes Gtk based file managers like Caja (MATE), Nautilus (GNOME), Nemo (Cinnamon), PCManFM (LXDE), and Thunar (Xfce) show application icons on AppImages.
+*   [XApp Thumbnailers (⭐38)](https://github.com/linuxmint/xapp-thumbnailers) - Thumbnailers for GTK Desktop Environments, including one for the AppImage file format. Makes Gtk based file managers like Caja (MATE), Nautilus (GNOME), Nemo (Cinnamon), PCManFM (LXDE), and Thunar (Xfce) show application icons on AppImages.
 
 ### AppImage consumption tools / Linux distributions
 
@@ -51,7 +51,7 @@
 ### IDE and editors
 
 *   [GNU Emacs Manual](https://www.gnu.org/software/emacs/manual/emacs.html) - Free Software Foundation Inc. (HTML, PDF)
-*   [Learn Vim (the Smart Way) (⭐13k)](https://github.com/iggredible/Learn-Vim) - Igor Irianto (HTML) *(:construction: in process)*
+*   [Learn Vim (the Smart Way) (⭐14k)](https://github.com/iggredible/Learn-Vim) - Igor Irianto (HTML) *(:construction: in process)*
 *   [Learn Vim For the Last Time](https://danielmiessler.com/study/vim/) - Daniel Miessler
 *   [VIM-GALORE - All things Vim! (⭐17k)](https://github.com/mhinz/vim-galore#readme) - Marco Hinz (HTML)
 *   [Vim Recipes](https://web.archive.org/web/20130302172911/http://vim.runpaint.org/vim-recipes.pdf) - Run Paint Run Run, Run Paint Press (PDF) *(:card\_file\_box: archived)*
@@ -67,7 +67,7 @@
 
 ### Plugins & Libraries
 
-*   [leap (⭐41)](https://github.com/kurtome/leap) - An opinionated toolkit for creating 2D platformers. By [kurtome](https://github.com/kurtome)
+*   [leap (⭐42)](https://github.com/kurtome/leap) - An opinionated toolkit for creating 2D platformers. By [kurtome](https://github.com/kurtome)
 
 ## [9. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
@@ -75,7 +75,7 @@
 
 *   [Shodan](https://www.shodan.io/) - Shodan is a search engine for the IOT(Internet of Things) that allows you to search variety of servers that are connected to the internet using various searching filters.
 
-### Email Search / Email Check / Telegram
+### Email Search / Email Check / Steam
 
 *   [EmailHippo](https://tools.verifyemailaddress.io) - is an email address verification platform that will check whether a given email address exist or not.
 
@@ -89,7 +89,7 @@
 
 ### Utilities
 
-*   [remote-touchpad (⭐508)](https://github.com/Unrud/remote-touchpad) - Control mouse and keyboard from a smartphone.
+*   [remote-touchpad (⭐569)](https://github.com/Unrud/remote-touchpad) - Control mouse and keyboard from a smartphone.
 
 ### E-books for purchase / Libraries for creating HTTP middlewares
 
@@ -108,10 +108,6 @@
 ### Methodologies for Experiments / Decision Making
 
 *   [A computational process-tracing method for measuring people’s planning strategies and how they change over time](https://link.springer.com/article/10.3758/s13428-022-01789-5) - ***Behavior Research Methods***, 2022. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=10405935000926098041)]. Model-based strategy identification.
-
-### Meta-Level Considerations / Rationality
-
-*   [Understanding Human Intelligence through Human Limitations](https://cocosci.princeton.edu/papers/griffiths_understanding.pdf) - ***Trends in Cognitive Sciences***, 2020. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=6469796133334580403)]. Tom Griffiths's review on understanding the uniqueness of human intelligence through three aspects of human limitations.
 
 ---
 

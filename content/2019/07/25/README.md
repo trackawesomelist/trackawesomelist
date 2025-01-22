@@ -8,7 +8,7 @@
 
 ## [1. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
 
-### Courses
+### Courses / Commerical Tools
 
 *   [MIT: Intro to Deep Learning](https://introtodeeplearning.com) - A seven-day bootcamp designed in MIT to introduce deep learning methods and applications
 *   [Deep Blueberry: Deep Learning book](https://mithi.github.io/deep-blueberry) - A free five-weekend plan for self-learners to learn the basics of deep-learning architectures like CNNs, LSTMs, RNNs, VAEs, GANs, DQN, A3C and more
@@ -16,11 +16,11 @@
 *   [Real-World Natural Language Processing](https://www.manning.com/books/real-world-natural-language-processing) - Early access book on how to create practical NLP applications using Python.
 *   [Grokking Machine Learning](https://www.manning.com/books/grokking-machine-learning) - Early access book that introduces the most valuable machine learning techniques.
 
-### Books
+### Books / Commerical Tools
 
 *   [Machine Learning for Mortals (Mere and Otherwise)](https://www.manning.com/books/machine-learning-for-mortals-mere-and-otherwise) - Early access book that provides basics of machine learning and using R programming language.
 
-### Journals
+### Journals / Commerical Tools
 
 *   [AI Communications](http://iospress.metapress.com/openurl.asp?genre=journal\&issn=0921-7126)
 *   [AI Magazine](http://www.aaai.org/Magazine/magazine.php)
@@ -37,7 +37,7 @@
 
 ### Cloud
 
-*   [humidifier (⭐57)](https://github.com/kddeisz/humidifier) - Programmatically generate and manage AWS CloudFormation templates, stacks, and change sets.
+*   [humidifier (⭐58)](https://github.com/kddeisz/humidifier) - Programmatically generate and manage AWS CloudFormation templates, stacks, and change sets.
 
 ### CMS
 
@@ -49,7 +49,7 @@
 
 ### Web Servers
 
-*   [Agoo (⭐901)](https://github.com/ohler55/agoo) - A high performance HTTP server for Ruby that includes GraphQL and WebSocket support.
+*   [Agoo (⭐912)](https://github.com/ohler55/agoo) - A high performance HTTP server for Ruby that includes GraphQL and WebSocket support.
 
 ## [3. Awesome Composer](/content/jakoch/awesome-composer/README.md)
 
@@ -71,7 +71,7 @@
 
 ### Testing / Scala
 
-*   [Hoverfly (⭐2.3k)](https://github.com/spectolabs/hoverfly) - Lightweight service virtualization/API simulation tool for developers and testers.
+*   [Hoverfly (⭐2.4k)](https://github.com/spectolabs/hoverfly) - Lightweight service virtualization/API simulation tool for developers and testers.
 
 ## [6. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 
@@ -110,17 +110,12 @@
 ### Tutorials
 
 *   [Interactive Visualization of Machine Learning and Computer Vision with Dash](https://www.youtube.com/watch?v=3F5AR-uUqJc) - Official introduction video.
-*   [Webinar: Converting React components to Dash components](https://www.youtube.com/watch?v=wifoPPRgG_I) - Official tutorial about how to convert React components to Dash components using the Dash Component Boilerplate cookiecutter template.
+*   [Webinar: Converting React components to Dash components](https://www.youtube.com/watch?v=wifoPPRgG_I) - Official tutorial about how to convert React components to Dash components.
 
 ### Component Libraries
 
-*   [Dash Bio Components](https://dash.plot.ly/dash-bio) - Suite of bioinformatics components that make it simpler to analyze and visualize bioinformatics data and interact with them in a Dash application.
-*   [Dash Canvas Components](https://dash.plot.ly/canvas) - Module for image annotation and image processing using Dash.
-*   [Awesome React Components (⭐34k)](https://github.com/brillout/awesome-react-components) - Catalog of React.js components potentially interesting to be wrapped into Dash components.
-*   [Awesome React (⭐53k)](https://github.com/enaqx/awesome-react) - Helpful resources for developing React.js components.
-*   [Dash Cytoscape Component](https://dash.plot.ly/cytoscape) - Graph visualization component for creating easily customizable, high-performance, interactive, and web-based networks.
-*   [Dash DataTable Component](https://dash.plot.ly/datatable) - Interactive table that supports rich styling, conditional formatting, editing, sorting, filtering, and more.
-*   [Dash DAQ Components](https://dash.plot.ly/dash-daq) - Set of controls that make it simpler to integrate data acquisition and controls into your Dash applications.
+*   [Awesome React Components (⭐43k)](https://github.com/brillout/awesome-react-components) - Catalog of React.js components potentially interesting to be wrapped into Dash components.
+*   [Awesome React (⭐66k)](https://github.com/enaqx/awesome-react) - Helpful resources for developing React.js components.
 
 ## [9. Awesome React](/content/enaqx/awesome-react/README.md)
 

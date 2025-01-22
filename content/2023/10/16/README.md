@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 16, 2023
 
-10 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -180,7 +180,6 @@
 
 ### HealthCare
 
-*   [Enlitic ](https://enlitic.com/) - an AI-driven application that lets you transform big data into relevant insights that can help you make more accurate, strategic, and timely decisions. `#paid`
 *   [Viz.AI](https://www.viz.ai/) - Offers a wide range of features to help healthcare professionals run their operations more efficiently and accurately. `#paid`
 
 ### Human Resources
@@ -367,41 +366,29 @@
 
 ### Fuzzy Finder / Diagnostics
 
-*   [echasnovski/mini.nvim#mini.pick (⭐4.7k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-pick.md) - Module of `mini.nvim` with general purpose interactive non-blocking picker that has one window design, toggleable preview, flexible and fast default match, and much more.
+*   [echasnovski/mini.nvim#mini.pick (⭐6.2k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-pick.md) - Module of `mini.nvim` with general purpose interactive non-blocking picker that has one window design, toggleable preview, flexible and fast default match, and much more.
 
 ### Statusline / Diagnostics
 
-*   [sontungexpt/sttusline (⭐109)](https://github.com/sontungexpt/sttusline) - Very lightweight, super fast and lazyloading statusline.
+*   [sontungexpt/sttusline (⭐116)](https://github.com/sontungexpt/sttusline) - Very lightweight, super fast and lazyloading statusline.
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [sontungexpt/stinvim (⭐37)](https://github.com/sontungexpt/stinvim) - Ready Neovim's configuration for fullstack developers.
+*   [sontungexpt/stinvim (⭐46)](https://github.com/sontungexpt/stinvim) - Ready Neovim's configuration for fullstack developers.
 
-## [6. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/README.md)
-
-### **Prompt Guide & Leaked prompts** / **Prompt Template Language**
-
-*   [DeepLearning.ai ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
-
-## [7. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
-
-### Utilities / General Tools
-
-*   [CleanMyMac X](https://macpaw.com/cleanmymac) - Delete megatons of junk, malware, and make your Mac faster & more organized [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/cleanmymac-x/id1339170533?mt=12)
-
-## [8. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [6. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### Ethics, Philosophical questions and Discussions about Generative AI
 
 *   [Redefining Bias: The Human Prejudice Against AI | Medium](https://johnnosta.medium.com/redefining-bias-the-human-prejudice-against-ai-a1f225b0b2c2)
 
-## [9. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [7. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [hebzsh (⭐1)](https://github.com/admons/hebzsh) - If a command is not found as typed in Hebrew, translates the command as if it was typed on a keyboard with a US English layout and tries again.
 
-## [10. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md)
+## [8. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md)
 
 ### LLMs
 

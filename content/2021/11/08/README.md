@@ -70,7 +70,7 @@
 
 ### Debugging
 
-*   [Scyther (⭐107)](https://github.com/bstillitano/Scyther) - A full-featured, in-app debugging menu packed full of useful tools including network logging, layout inspection, location spoofing, console logging and so much more.
+*   [Scyther (⭐108)](https://github.com/bstillitano/Scyther) - A full-featured, in-app debugging menu packed full of useful tools including network logging, layout inspection, location spoofing, console logging and so much more.
 
 ## [6. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/README.md)
 
@@ -103,9 +103,9 @@
 
 ### Tools
 
-*   [har-to-k6 (⭐123)](https://github.com/grafana/har-to-k6) - Tool for converting HAR recordings to k6 test scripts.
-*   [postman-to-k6 (⭐287)](https://github.com/grafana/postman-to-k6) - Tool for converting Postman collections to k6 test scripts.
-*   [jmeter-to-k6 (⭐68)](https://github.com/grafana/jmeter-to-k6) - Tool for converting JMeter test cases to k6 test scripts.
+*   [har-to-k6 (⭐127)](https://github.com/grafana/har-to-k6) - Tool for converting HAR recordings to k6 test scripts.
+*   [postman-to-k6 (⭐290)](https://github.com/grafana/postman-to-k6) - Tool for converting Postman collections to k6 test scripts.
+*   [jmeter-to-k6 (⭐69)](https://github.com/grafana/jmeter-to-k6) - Tool for converting JMeter test cases to k6 test scripts.
 
 ### CI/CD
 
@@ -122,13 +122,13 @@
 
 ### CBOR
 
-*   [CBORCoding (⭐46)](https://github.com/SomeRandomiOSDev/CBORCoding) :penguin: - Easy CBOR encoding and decoding for iOS, macOS, tvOS and watchOS.
+*   [CBORCoding (⭐49)](https://github.com/SomeRandomiOSDev/CBORCoding) :penguin: - Easy CBOR encoding and decoding for iOS, macOS, tvOS and watchOS.
 
 ## [10. Awesome Java](/content/akullpp/awesome-java/README.md)
 
 ### Database / Text-Based User Interfaces
 
-*   [ArangoDB (⭐200)](https://github.com/arangodb/arangodb-java-driver) - ArangoDB Java driver.
+*   [ArangoDB (⭐202)](https://github.com/arangodb/arangodb-java-driver) - ArangoDB Java driver.
 
 ### Miscellaneous / Text-Based User Interfaces
 
@@ -136,12 +136,12 @@
 
 ### Monitoring / Text-Based User Interfaces
 
-*   [Sentry ![c](https://cdn.rawgit.com/akullpp/23246ca832bda82bb505230bf3538e2a/raw/d9bcdb769bf025292f9c6bc1290f01f1fcd1f864/commercial.svg) (⭐1.1k)](https://github.com/getsentry/sentry-java) - Integration with [Sentry (⭐38k)](https://github.com/getsentry/sentry), an application error tracking and performance analysis platform.
+*   [Sentry ![c](https://cdn.rawgit.com/akullpp/23246ca832bda82bb505230bf3538e2a/raw/d9bcdb769bf025292f9c6bc1290f01f1fcd1f864/commercial.svg) (⭐1.2k)](https://github.com/getsentry/sentry-java) - Integration with [Sentry (⭐39k)](https://github.com/getsentry/sentry), an application error tracking and performance analysis platform.
 
 ### Template Engine / Other
 
-*   [Jamal (⭐56)](https://github.com/verhas/jamal) - Extendable template engine embedded into Maven/JavaDoc, supporting multiple extensions (Groovy, Ruby, JavaScript, JShell, PlantUml) with support for snippet handling.
-*   [jte (⭐735)](https://github.com/casid/jte) - Compiles to classes, and uses an easy syntax, several features to make development easier and provides fast execution and a small footprint.
+*   [Jamal (⭐58)](https://github.com/verhas/jamal) - Extendable template engine embedded into Maven/JavaDoc, supporting multiple extensions (Groovy, Ruby, JavaScript, JShell, PlantUml) with support for snippet handling.
+*   [jte (⭐826)](https://github.com/casid/jte) - Compiles to classes, and uses an easy syntax, several features to make development easier and provides fast execution and a small footprint.
 
 ### People / Other
 
@@ -168,13 +168,13 @@
 
 ### Tools & Software / Replay
 
-*   [warc2html (⭐37)](https://github.com/iipc/warc2html) - Converts WARC files to static HTML suitable for browsing offline or rehosting.
+*   [warc2html (⭐43)](https://github.com/iipc/warc2html) - Converts WARC files to static HTML suitable for browsing offline or rehosting.
 
 ## [14. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
 ### RSS services powered by utilizing GitHub / Outline Processor Markup Language
 
-*   [Bubo reader (⭐181)](https://github.com/georgemandis/bubo-rss): a hyper-minimalist RSS and JSON feed reader you can deploy on Netlify or Glitch [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/georgemandis/bubo-rss)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)([Deploy on Github (⭐1)](https://github.com/kevinfiol/reader)-personal fork)
+*   [Bubo reader (⭐199)](https://github.com/georgemandis/bubo-rss): a hyper-minimalist RSS and JSON feed reader you can deploy on Netlify or Glitch [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/georgemandis/bubo-rss)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)([Deploy on Github (⭐3)](https://github.com/kevinfiol/reader)-personal fork)
 
 ## [15. Awesome Directus](/content/directus-community/awesome-directus/README.md)
 

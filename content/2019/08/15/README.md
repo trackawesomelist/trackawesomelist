@@ -20,7 +20,7 @@
 
 ## [3. Awesome Libgdx](/content/rafaskb/awesome-libgdx/README.md)
 
-### Other Lists / Advanced
+### Other Lists / General Learning Material
 
 *   [Game Accessibility Guidelines](http://gameaccessibilityguidelines.com/) - A straightforward reference for inclusive game design, to ensure that games are just as fun for as wide a range of people as possible. **Recommended**
 

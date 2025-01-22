@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 18, 2020
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### AppImage developer tools / Deployment tools for Python applications
 
-*   [PyAppImage (⭐16)](https://github.com/srevinsaju/pyappimage) - Ultimately simple python-to-appimage bundler.
+*   [PyAppImage (⭐19)](https://github.com/srevinsaju/pyappimage) - Ultimately simple python-to-appimage bundler.
 
 ## [2. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
@@ -23,7 +23,7 @@
 
 ### GitHub Tools and Management / Docker Container Actions
 
-*   [GitHub Codeowners Validator (⭐141)](https://github.com/mszostok/codeowners-validator) - Ensures the correctness of your GitHub CODEOWNERS file. It supports public and private GitHub repositories and also GitHub Enterprise installations.
+*   [GitHub Codeowners Validator (⭐217)](https://github.com/mszostok/codeowners-validator) - Ensures the correctness of your GitHub CODEOWNERS file. It supports public and private GitHub repositories and also GitHub Enterprise installations.
 
 ## [4. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
@@ -31,42 +31,31 @@
 
 *   [Build a web app with Blazor WebAssembly and Visual Studio Code](https://docs.microsoft.com/learn/modules/build-blazor-webassembly-visual-studio-code/) - Build a web app with Blazor WebAssembly and Visual Studio Code, on Microsoft Learn.
 
-## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Resources / Examples
-
-*   [**Vue 3 example without Webpack**](https://github.com/arijs/vue-next-example) - An example of how to build a Vue app with Vue-Router without the need for Webpack or any other build tool. Includes the ability to prerender components and pages with Vue Server Renderer.
-
-### Components & Libraries / UI Components
-
-*   [vue-js-datatable (⭐9)](https://github.com/Parthfaladu/vue-js-datatable) - VueJS light weight wrapper datatable component for [datatables.net](https://datatables.net)
-*   [vue-jquery-calendar (⭐1)](https://github.com/Parthfaladu/vue-jquery-calendar) - VueJS light weight wrapper component for [jquery ui datepicker](https://jqueryui.com/datepicker)
-
-## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Email
 
 *   [Outlook.com](https://outlook.live.com/owa/) - Free personal email and calendar.
 
-## [7. Game Datasets](/content/leomaurodesenv/game-datasets/README.md)
+## [6. Game Datasets](/content/leomaurodesenv/game-datasets/README.md)
 
 ### Dataset / Web
 
 *   [CartolaFC](https://www.kaggle.com/schiller/cartolafc) - Popular brazilian fantasy football (from 2014 to 2017).
 
-## [8. Awesome Seed Rs](/content/seed-rs/awesome-seed-rs/README.md)
+## [7. Awesome Seed Rs](/content/seed-rs/awesome-seed-rs/README.md)
 
 ### Examples
 
 *   [Dota Underlord Perfect Build (⭐0)](https://github.com/warycat/dotawasm) - An app to help build optimal deck in Dota Underlord.
 
-## [9. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [8. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / General-Purpose Machine Learning
 
-*   [skorch (⭐5.7k)](https://github.com/skorch-dev/skorch) - A scikit-learn compatible neural network library that wraps PyTorch.
+*   [skorch (⭐5.9k)](https://github.com/skorch-dev/skorch) - A scikit-learn compatible neural network library that wraps PyTorch.
 
-## [10. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [9. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Authentication and Authorization
 
@@ -74,7 +63,7 @@
 
 ### Build Automation
 
-*   [MSBuild (⭐5.2k)](https://github.com/dotnet/msbuild) - The Microsoft Build Engine (MSBuild) is the build platform for .NET and Visual Studio
+*   [MSBuild (⭐5.3k)](https://github.com/dotnet/msbuild) - The Microsoft Build Engine (MSBuild) is the build platform for .NET and Visual Studio
 
 ### Documentation
 
@@ -86,7 +75,7 @@
 
 ### Internationalization
 
-*   [ResX Resource Manager (⭐1.3k)](https://github.com/dotnet/ResXResourceManager) - The most popular free tool to localize all kind of applications with resx-based resources.
+*   [ResX Resource Manager (⭐1.4k)](https://github.com/dotnet/ResXResourceManager) - The most popular free tool to localize all kind of applications with resx-based resources.
 
 ### Interoperability
 
@@ -106,37 +95,37 @@
 
 ### Reactive Programming
 
-*   [Dynamic Data (⭐1.7k)](https://github.com/reactivemarbles/DynamicData) - Reactive Extensions (Rx) for collections
+*   [Dynamic Data (⭐1.8k)](https://github.com/reactivemarbles/DynamicData) - Reactive Extensions (Rx) for collections
 
 ### Serialization
 
-*   [ProtoBuf (⭐303)](https://github.com/SilentOrbit/protobuf) - Generate C# code for protocol buffer serialization from a .proto specification.
+*   [ProtoBuf (⭐309)](https://github.com/SilentOrbit/protobuf) - Generate C# code for protocol buffer serialization from a .proto specification.
 
 ### Testing
 
-*   [Verify (⭐2.4k)](https://github.com/VerifyTests/Verify) - Verification tool to enable simple approval of complex models and documents.
+*   [Verify (⭐3k)](https://github.com/VerifyTests/Verify) - Verification tool to enable simple approval of complex models and documents.
 
 ### Tools
 
 *   [Open Live Writer (⭐2.5k)](https://github.com/OpenLiveWriter/OpenLiveWriter) - Blog writer which integrated with WordPress, Blogger, et. al. Open Live Writer makes it easy to write, preview, and post to your blog.
-*   [Papercut (⭐2.9k)](https://github.com/ChangemakerStudios/Papercut-SMTP) - Papercut is an open source (.NET based) test email viewer that runs locally with a built-in SMTP server designed to receive and notify of test email messages.
+*   [Papercut (⭐3k)](https://github.com/ChangemakerStudios/Papercut-SMTP) - Papercut is an open source (.NET based) test email viewer that runs locally with a built-in SMTP server designed to receive and notify of test email messages.
 *   [SmartCode (⭐573)](https://github.com/dotnetcore/SmartCode) - SmartCode = IDataSource -> IBuildTask -> IOutput => Build Everything!!! (Including \[**Code generator**])
 
 ### UI Automation
 
-*   [FlaUI (⭐2.2k)](https://github.com/FlaUI/FlaUI) - FlaUI is a .NET library which helps with automated UI testing of Windows applications (Win32, WinForms, WPF, Store Apps, ...).
+*   [FlaUI (⭐2.3k)](https://github.com/FlaUI/FlaUI) - FlaUI is a .NET library which helps with automated UI testing of Windows applications (Win32, WinForms, WPF, Store Apps, ...).
 
 ### Visual Studio Plugins
 
-*   [VsVIM (⭐3.6k)](https://github.com/VsVim/VsVim) - VIM in Visual Studio
+*   [VsVIM (⭐3.7k)](https://github.com/VsVim/VsVim) - VIM in Visual Studio
 
-## [11. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
+## [10. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
 
 ### Tools & Software / Replay
 
-*   [OpenWayback (⭐469)](https://github.com/iipc/openwayback/) - The open source project aimed to develop Wayback Machine, the key software used by web archives worldwide to play back archived websites in the user's browser. *(Stable)*
+*   [OpenWayback (⭐490)](https://github.com/iipc/openwayback/) - The open source project aimed to develop Wayback Machine, the key software used by web archives worldwide to play back archived websites in the user's browser. *(Stable)*
 
-## [12. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
+## [11. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
 
 ### Follow / Community
 

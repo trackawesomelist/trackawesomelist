@@ -16,7 +16,7 @@
 
 ### Apps / SEO and SMO
 
-*   [Wagtail SEO (⭐61)](https://github.com/coderedcorp/wagtail-seo) - Search engine and social media optimization for Wagtail.
+*   [Wagtail SEO (⭐62)](https://github.com/coderedcorp/wagtail-seo) - Search engine and social media optimization for Wagtail.
 
 ### Apps / Modeladmin
 
@@ -24,11 +24,11 @@
 
 ### Apps / Content Management
 
-*   [Wagtail Headless Preview (⭐118)](https://github.com/torchbox/wagtail-headless-preview) -  Previews for headless Wagtail setups
+*   [Wagtail Headless Preview (⭐119)](https://github.com/torchbox/wagtail-headless-preview) -  Previews for headless Wagtail setups
 
 ### Tools / Templates & Starter Kits
 
-*   [Wagtail Tailwind & Stimulus blog (⭐367)](https://github.com/AccordBox/wagtail-tailwind-blog) - A Wagtail blog based on Tailwind CSS, Stimulus, it supports Markdown, Latex and user comments.
+*   [Wagtail Tailwind & Stimulus blog (⭐368)](https://github.com/AccordBox/wagtail-tailwind-blog) - A Wagtail blog based on Tailwind CSS, Stimulus, it supports Markdown, Latex and user comments.
 *   [Wagtail for Platform.sh (⭐5)](https://github.com/platformsh-templates/wagtail) - Wagtail template for Platform.sh.
 
 ### Resources / Articles

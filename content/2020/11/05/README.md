@@ -41,17 +41,17 @@
 
 ### CMS
 
-*   [Storytime (⭐754)](https://github.com/CultivateLabs/storytime) - Rails 4+ CMS and blogging engine, with a core focus on content.
+*   [Storytime (⭐752)](https://github.com/CultivateLabs/storytime) - Rails 4+ CMS and blogging engine, with a core focus on content.
 
 ### ORM/ODM Extensions
 
 *   Bit array
-    *   [ActiveFlag (⭐188)](https://github.com/kenn/active_flag) - Store up to 64 multiple flags in a single integer column with ActiveRecord.
-    *   [Bitfields (⭐224)](https://github.com/grosser/bitfields) - Save migrations and columns by storing multiple booleans in a single integer.
+    *   [ActiveFlag (⭐235)](https://github.com/kenn/active_flag) - Store up to 64 multiple flags in a single integer column with ActiveRecord.
+    *   [Bitfields (⭐223)](https://github.com/grosser/bitfields) - Save migrations and columns by storing multiple booleans in a single integer.
 
 ### Static Site Generation
 
-*   [Bridgetown (⭐1.1k)](https://github.com/bridgetownrb/bridgetown) - A Webpack-aware, Ruby-powered static site generator for the modern Jamstack era.
+*   [Bridgetown (⭐1.2k)](https://github.com/bridgetownrb/bridgetown) - A Webpack-aware, Ruby-powered static site generator for the modern Jamstack era.
 
 ## [7. Awesome Homematic](/content/homematic-community/awesome-homematic/README.md)
 
@@ -64,10 +64,10 @@
 ### Libraries
 
 *   [Kaolin](https://kaolin.readthedocs.io/en/latest/) - Kaolin is a PyTorch Library for Accelerating 3D Deep Learning Research written by NVIDIA Technologies for game and application developers.
-    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐4.3k)](https://github.com/NVIDIAGameWorks/kaolin/)
+    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐4.6k)](https://github.com/NVIDIAGameWorks/kaolin/)
     *   [Paper ![](https://img.shields.io/badge/paper-blue?style=flat-square\&logo=semanticscholar)](https://arxiv.org/pdf/1911.05063.pdf)
 *   [PyVista](https://docs.pyvista.org/) - 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit.
-    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐2.5k)](https://github.com/pyvista/pyvista)
+    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐2.9k)](https://github.com/pyvista/pyvista)
     *   [Paper ![](https://img.shields.io/badge/paper-blue?style=flat-square\&logo=semanticscholar)](https://joss.theoj.org/papers/10.21105/joss.01450)
 
 ## [9. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
@@ -89,11 +89,11 @@
 
 ### Account Management
 
-*   [Conjur (⭐750)](https://github.com/cyberark/conjur) - Automatically secures secrets used by privileged users and machine identities.
+*   [Conjur (⭐774)](https://github.com/cyberark/conjur) - Automatically secures secrets used by privileged users and machine identities.
 
 ### Authorization / ABAC frameworks
 
-*   [Casbin (⭐17k)](https://github.com/casbin/casbin) - Open-source access control library for Golang projects.
+*   [Casbin (⭐18k)](https://github.com/casbin/casbin) - Open-source access control library for Golang projects.
 
 ## [11. Awesome Php](/content/ziadoz/awesome-php/README.md)
 

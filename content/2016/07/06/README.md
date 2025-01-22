@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 06, 2016
 
-13 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -26,7 +26,7 @@
 
 ### Images / Gif Creation
 
-*   [gifgen (⭐535)](https://github.com/lukechilds/gifgen) - Simple high quality GIF encoding.
+*   [gifgen (⭐552)](https://github.com/lukechilds/gifgen) - Simple high quality GIF encoding.
 
 ## [3. Awesome Dtrace](/content/xen0l/awesome-dtrace/README.md)
 
@@ -98,19 +98,13 @@
 
 *   [Do not use FOSUserBundle](https://jolicode.com/blog/do-not-use-fosuserbundle) \[2015]
 
-## [6. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
-
-### Photography / Custom License / Usage
-
-*   [Rawpixel](https://www.rawpixel.com/) - [:copyright:](https://www.rawpixel.com/free-image-license) Redefining stock imagery with authentically styled and unique stock photos (Subscribe required).
-
-## [7. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [6. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Miscellaneous
 
 *   [std\_json\_io (⭐30)](https://github.com/hassox/std_json_io) - Application for managing and communicating with IO servers via JSON.
 
-## [8. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [7. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Blogs
 
@@ -121,23 +115,23 @@
 
 *   [Twitter SRE](https://twitter.com/TwitterSRE) - The Official Twitter Account of Twitter's SRE team.
 
-## [9. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
+## [8. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
 ### Haskell / Git
 
-*   [scrypt (⭐16)](https://github.com/informatikr/scrypt) - Haskell bindings to Colin Percival's scrypt implementation.
+*   [scrypt (⭐17)](https://github.com/informatikr/scrypt) - Haskell bindings to Colin Percival's scrypt implementation.
 
 ### Python / Git
 
 *   [bcrypt (⭐1.2k)](https://github.com/pyca/bcrypt) - Modern password hashing for your software and your servers.
 
-## [10. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
+## [9. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### Podcasts / Other
 
 *   [Hanselminutes: Creating cross-platform Electron apps with Jessica Lord](http://hanselminutes.com/534/creating-cross-platform-electron-apps-with-jessica-lord)
 
-## [11. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
+## [10. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
 
 ### Portugal 🇵🇹 / Porto
 
@@ -167,13 +161,13 @@ Webpage: <http://espaijoliu.tumblr.com/>
 
 ![](http://www.speedtest.net/result/5456163855.png)
 
-## [12. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [11. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Queue and Messaging
 
 *   [rabbitmq-dotnet-client (⭐2.1k)](https://github.com/rabbitmq/rabbitmq-dotnet-client) - RabbitMQ .NET client <https://www.rabbitmq.com>.
 
-## [13. Awesome Webaudio](/content/notthetup/awesome-webaudio/README.md)
+## [12. Awesome Webaudio](/content/notthetup/awesome-webaudio/README.md)
 
 ### Packages / Libraries
 

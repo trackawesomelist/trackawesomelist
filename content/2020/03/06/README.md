@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 06, 2020
 
-8 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -32,9 +32,9 @@
 
 ### Concurrency
 
-*   [HPX (⭐2.5k)](https://github.com/STEllAR-GROUP/hpx/) - A general purpose C++ runtime system for parallel and distributed applications of any scale. \[Boost]
-*   [Kokkos (⭐1.8k)](https://github.com/kokkos/kokkos) - A performance portable programming model for parallel execution and memory abstraction. \[BSD]
-*   [Quantum (⭐572)](https://github.com/bloomberg/quantum) - A powerful C++ coroutine dispatcher framework built on top of [Boost.Coroutine2](https://boost.org/libs/coroutine2).
+*   [HPX (⭐2.6k)](https://github.com/STEllAR-GROUP/hpx/) - A general purpose C++ runtime system for parallel and distributed applications of any scale. \[Boost]
+*   [Kokkos (⭐2.1k)](https://github.com/kokkos/kokkos) - A performance portable programming model for parallel execution and memory abstraction. \[BSD]
+*   [Quantum (⭐580)](https://github.com/bloomberg/quantum) - A powerful C++ coroutine dispatcher framework built on top of [Boost.Coroutine2](https://boost.org/libs/coroutine2).
 
 ## [4. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md)
 
@@ -61,19 +61,13 @@
 
 ### GitHub Tools and Management / Docker Container Actions
 
-*   [Get Commit Difference Count Between Two Branches (⭐5)](https://github.com/jessicalostinspace/commit-difference-action)
+*   [Get Commit Difference Count Between Two Branches (⭐7)](https://github.com/jessicalostinspace/commit-difference-action)
 
 ## [7. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [sub-events (⭐36)](https://github.com/vitaly-t/sub-events) - Strongly-typed events.
-
-## [8. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
-
-### Applications and Platforms / Data Collection
-
-*   [Logsit](http://www.logsit.com/) - Quantified self and lifelogging app to track the things you've done (iOS).
+*   :octocat: [sub-events (⭐38)](https://github.com/vitaly-t/sub-events) - Strongly-typed events.
 
 ---
 

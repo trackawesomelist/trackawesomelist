@@ -24,13 +24,13 @@
 
 ### ORMs
 
-*   👍 [mito (⭐287)](https://github.com/fukamachi/mito) - An ORM for Common Lisp with migrations, relationships and PostgreSQL support [LLGPL](http://opensource.franz.com/preamble.html).
+*   👍 [mito (⭐301)](https://github.com/fukamachi/mito) - An ORM for Common Lisp with migrations, relationships and PostgreSQL support [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
     *   [mitho-auth (⭐18)](https://github.com/fukamachi/mito-auth), a mixin class for use authorization
     *   [mito-attachment (⭐14)](https://github.com/fukamachi/mito-attachment), a mixin class for file management outside of RDBMS.
 
 ### Websockets / Isomorphic web frameworks
 
-*   👍 [usocket (⭐217)](https://github.com/usocket/usocket) - A portable TCP and UDP socket interface. [Expat](https://directory.fsf.org/wiki/License:Expat).
+*   👍 [usocket (⭐227)](https://github.com/usocket/usocket) - A portable TCP and UDP socket interface. [Expat](https://directory.fsf.org/wiki/License:Expat).
 
 ### Web development utilities / Assets management
 
@@ -40,11 +40,11 @@
 
 ### Web development utilities / Browser tests
 
-*   [cl-webdriver-client (⭐20)](https://github.com/copyleft/cl-webdriver-client/) - a binding library to WebDriver (supports Selenium 4.0).
+*   [cl-webdriver-client (⭐23)](https://github.com/copyleft/cl-webdriver-client/) - a binding library to WebDriver (supports Selenium 4.0).
 
 ### Web development utilities / Form handling
 
-*   👍 [cl-forms (⭐40)](https://github.com/mmontone/cl-forms) -  Web forms handling library for Common lisp. [MIT](https://opensource.org/licenses/MIT).
+*   👍 [cl-forms (⭐43)](https://github.com/mmontone/cl-forms) -  Web forms handling library for Common lisp. [MIT](https://opensource.org/licenses/MIT).
 
 ### Web development utilities / User login and password management
 
@@ -63,14 +63,14 @@
 
 ### Others / Static site generators
 
-*   [coleslaw (⭐551)](https://github.com/kingcons/coleslaw) and its
+*   [coleslaw (⭐565)](https://github.com/kingcons/coleslaw) and its
     [coleslaw-cli (⭐6)](https://github.com/40ants/coleslaw-cli) - Flexible
     Lisp Blogware similar to Frog, Jekyll, or Hakyll. [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
 ### Others / Third-party APIs
 
 *   [Aws-sign4 (⭐18)](https://github.com/rotatef/aws-sign4) - Common Lisp library for Amazon Web Services signing version 4. [GNU GPL3](http://www.gnu.org/copyleft/gpl.html).
-*   [zs3 (⭐38)](https://github.com/xach/zs3) - A library for working with Amazon's Simple Storage
+*   [zs3 (⭐39)](https://github.com/xach/zs3) - A library for working with Amazon's Simple Storage
     Service (S3) and CloudFront service. [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
 *   [north](https://shinmera.github.io/north) - The successor to the South (Simple OaUTH) library, implementing the full oAuth 1.0a protocol, both client and server sides. Using North you can easily become an oAuth provider or consumer. [zlib](https://directory.fsf.org/wiki/License:Zlib).
 *   [avatar-api (⭐9)](https://github.com/eudoxia0/avatar-api) - Get avatars from Google+, Gravatar and others. [Expat](https://directory.fsf.org/wiki/License:Expat).
@@ -81,7 +81,7 @@
 *   [cl-openid (⭐4)](https://github.com/cl-openid/cl-openid) - An implementation of OpenID. [LLGPL](http://opensource.franz.com/preamble.html).
 *   [cl-pushover (⭐2)](https://github.com/TeMPOraL/cl-pushover) -  Common Lisp bindings to Pushover. [MIT](https://opensource.org/licenses/MIT).
 *   [humbler (⭐11)](https://github.com/Shinmera/humbler) - A Tumblr API interface. [zlib](https://directory.fsf.org/wiki/License:Zlib).
-*   [multiposter (⭐13)](https://github.com/Shinmera/multiposter) - post to multiple services simultaneously. [zlib](https://directory.fsf.org/wiki/License:Zlib).
+*   [multiposter (⭐14)](https://github.com/Shinmera/multiposter) - post to multiple services simultaneously. [zlib](https://directory.fsf.org/wiki/License:Zlib).
 
 ## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
@@ -99,13 +99,13 @@
 
 ### Abduction / Rationalization
 
-*   [Rationalizing constraints on the capacity for cognitive control](https://www.sciencedirect.com/science/article/pii/S1364661321001480) - ***Trends in Cognitive Sciences***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=13065113821339619145\&hl=en\&as_sdt=2005\&sciodt=0,5)].
+*   [Rationalizing constraints on the capacity for cognitive control](https://www.sciencedirect.com/science/article/pii/S1364661321001480) - ***Trends in Cognitive Sciences***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=13060297961922073063)]. Humans are remarkably limited in: (i) how many control-dependent tasks they can execute simultaneously, and (ii) how intensely they can focus on a single task. These limitations are universal assumptions of most theories of cognition. Yet, a rationale for why humans are subject to these constraints remains elusive. This feature review draws on recent insights from psychology, neuroscience, and machine learning, to suggest that constraints on cognitive control may result from a rational adaptation to fundamental, computational dilemmas in neural architectures. The reviewed literature implies that limitations in multitasking may result from a trade-off between learning efficacy and processing efficiency and that limitations in the intensity of commitment to a single task may reflect a trade-off between cognitive stability and flexibility.
 
 ## [6. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
 ### Go / Git
 
-*   [kyber (⭐615)](https://github.com/dedis/kyber) - Advanced crypto library for the Go language.
+*   [kyber (⭐639)](https://github.com/dedis/kyber) - Advanced crypto library for the Go language.
 
 ## [7. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
@@ -115,15 +115,15 @@
 
 ### Templates / React
 
-*   [Viterts (⭐35)](https://github.com/erdoganbulut/viterts/) - React + TypeScript + Redux + React Router + Jest + ESLint + Airbnb + Prettier + SASS.
+*   [Viterts (⭐36)](https://github.com/erdoganbulut/viterts/) - React + TypeScript + Redux + React Router + Jest + ESLint + Airbnb + Prettier + SASS.
 
 ### Framework-agnostic Plugins / Loaders
 
-*   [vite-plugin-glsl (⭐304)](https://github.com/UstymUkhman/vite-plugin-glsl) - Import shader file chunks.
+*   [vite-plugin-glsl (⭐333)](https://github.com/UstymUkhman/vite-plugin-glsl) - Import shader file chunks.
 
 ### Apps/Websites / Community
 
-*   [pointer-lock-movement (⭐20)](https://github.com/zheeeng/pointer-lock-movement) - A pointer lock movement manager for customizing your own creative UI.
+*   [pointer-lock-movement (⭐22)](https://github.com/zheeeng/pointer-lock-movement) - A pointer lock movement manager for customizing your own creative UI.
 
 ---
 

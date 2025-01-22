@@ -10,7 +10,7 @@
 
 ### ⚙️ Middlewares / 🌱 Third Party
 
-*   [darkweak/souin (⭐594)](https://github.com/darkweak/souin) - HTTP cache, RFC compliant, alternative to Varnish available as a middleware.
+*   [darkweak/souin (⭐743)](https://github.com/darkweak/souin) - HTTP cache, RFC compliant, alternative to Varnish available as a middleware.
 
 ## [2. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
 
@@ -42,13 +42,13 @@
 
 ### Electron / Integrations
 
-*   [electron-vite (⭐3.1k)](https://github.com/alex8088/electron-vite) - An Electron CLI integrated with Vite.
+*   [electron-vite (⭐3.7k)](https://github.com/alex8088/electron-vite) - An Electron CLI integrated with Vite.
 
 ## [6. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [kvrohit/rasmus.nvim (⭐156)](https://github.com/kvrohit/rasmus.nvim) - A dark color scheme written in Lua ported from [rsms/sublime-theme (⭐193)](https://github.com/rsms/sublime-theme) theme.
+*   [kvrohit/rasmus.nvim (⭐174)](https://github.com/kvrohit/rasmus.nvim) - A dark color scheme written in Lua ported from [rsms/sublime-theme (⭐197)](https://github.com/rsms/sublime-theme) theme.
 
 ## [7. Awesome K6](/content/grafana/awesome-k6/README.md)
 
@@ -76,11 +76,11 @@
 
 ### Python / Reinforcement Learning
 
-*   [DI-engine (⭐2.9k)](https://github.com/opendilab/DI-engine) - DI-engine is a generalized Decision Intelligence engine. It supports most basic deep reinforcement learning (DRL) algorithms, such as DQN, PPO, SAC, and domain-specific algorithms like QMIX in multi-agent RL, GAIL in inverse RL, and RND in exploration problems.
+*   [DI-engine (⭐3.1k)](https://github.com/opendilab/DI-engine) - DI-engine is a generalized Decision Intelligence engine. It supports most basic deep reinforcement learning (DRL) algorithms, such as DQN, PPO, SAC, and domain-specific algorithms like QMIX in multi-agent RL, GAIL in inverse RL, and RND in exploration problems.
 
 ### Tools / Misc
 
-*   [milvus](https://milvus.io) – Milvus is [open source (⭐29k)](https://github.com/milvus-io/milvus) vector database for production AI, written in Go and C++, scalable and blazing fast for billions of embedding vectors.
+*   [milvus](https://milvus.io) – Milvus is [open source (⭐31k)](https://github.com/milvus-io/milvus) vector database for production AI, written in Go and C++, scalable and blazing fast for billions of embedding vectors.
 
 ## [11. Awesome Composer](/content/jakoch/awesome-composer/README.md)
 
@@ -107,7 +107,7 @@
 ### Video and Audio Conferencing / Alternative clients/modifications of Discord:
 
 *   [BetterDiscord](https://betterdiscord.app/) - A client modification for Discord, also you need to install a [DoNotTrack](https://betterdiscord.app/plugin/DoNotTrack) plugin to block trackers.
-*   [Kernel (⭐84)](https://github.com/kernel-mod/electron) - A super small and fast Electron client mod with the most capability, also you need to install a [Discord Utilities (⭐5)](https://github.com/slow/discord-utilities) package to block trackers.
+*   [Kernel (⭐89)](https://github.com/kernel-mod/electron) - A super small and fast Electron client mod with the most capability, also you need to install a [Discord Utilities (⭐5)](https://github.com/slow/discord-utilities) package to block trackers.
 
 ---
 

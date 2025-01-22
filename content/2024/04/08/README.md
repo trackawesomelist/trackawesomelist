@@ -25,13 +25,13 @@
 
 ### Tools
 
-*   [aar-doc - Automated Ansible Role Documentation (⭐8)](https://github.com/telekom-mms/Automated-Ansible-Role-Documentation) - Generate documentation automatically from an Ansible role's metadata.
+*   [aar-doc - Automated Ansible Role Documentation (⭐25)](https://github.com/telekom-mms/Automated-Ansible-Role-Documentation) - Generate documentation automatically from an Ansible role's metadata.
 
 ## [4. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
 
 ### Development Environment / Other
 
-*   [ESP32 Linux - Docker builder (⭐40)](https://github.com/hpsaturn/esp32s3-linux) - Container solution to compile Linux and develop it for ESP32 microcontrollers - By [@Hpsaturn](https://github.com/hpsaturn)
+*   [ESP32 Linux - Docker builder (⭐50)](https://github.com/hpsaturn/esp32s3-linux) - Container solution to compile Linux and develop it for ESP32 microcontrollers - By [@Hpsaturn](https://github.com/hpsaturn)
 
 ## [5. Awesome Internships](/content/lodthe/awesome-internships/README.md)
 
@@ -50,7 +50,7 @@
 
 ### Math
 
-*   [Wagyu (⭐163)](https://github.com/mapbox/wagyu) - A general library for geometry operations of union, intersections, difference, and xor. \[mapbox-wagyu original]
+*   [Wagyu (⭐169)](https://github.com/mapbox/wagyu) - A general library for geometry operations of union, intersections, difference, and xor. \[mapbox-wagyu original]
 
 ## [7. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 

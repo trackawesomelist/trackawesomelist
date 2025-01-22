@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 08, 2018
 
-10 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -29,7 +29,7 @@
 
 ### Packages / Filesystem
 
-*   [move-file (⭐196)](https://github.com/sindresorhus/move-file) - Move a file, even works across devices.
+*   [move-file (⭐198)](https://github.com/sindresorhus/move-file) - Move a file, even works across devices.
 
 ## [5. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/README.md)
 
@@ -37,35 +37,19 @@
 
 *   [AfterAccess - Mobile & Internet Use in the Global South](http://afteraccess.net/wp-content/uploads/After-Access-Website-layout-r1.pdf) - Infographic highlights of nationally representative surveys of ICT access and use by households and individuals in the public domain in 16 developing countries of the Global South.
 
-## [6. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
-
-### Articles & Posts
-
-*   [The case for all-remote companies](https://about.gitlab.com/2018/10/18/the-case-for-all-remote-companies/)
-
-### Law & Finance / Others
-
-*   [Transferwise](https://transferwise.com/gb/business/international-payroll-via-batch-payments) - Easy way to pay remote employees.
-
-## [7. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [6. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### HTTP Servers / Clack plugins
 
 *   [clack-static-asset-middleware (⭐1)](https://github.com/fisxoj/clack-static-asset-middleware) - a cache-busting static asset middleware for the clack. [MIT](https://opensource.org/licenses/MIT).
 
-## [8. Awesome Php](/content/ziadoz/awesome-php/README.md)
-
-### Table of Contents / Numbers
-
-*   [Brick\Math (⭐1.8k)](https://github.com/brick/math) - A library providing large number support: `BigInteger`, `BigDecimal` and `BigRational`.
-
-## [9. Awesome D3](/content/wbkd/awesome-d3/README.md)
+## [7. Awesome D3](/content/wbkd/awesome-d3/README.md)
 
 ### Charts
 
 *   [chart-parts (⭐600)](https://github.com/Microsoft/chart-parts) - A flexible, React-friendly, Grammar of Graphics for data visualization
 
-## [10. Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md)
+## [8. Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md)
 
 ### Become an Appium Pro
 

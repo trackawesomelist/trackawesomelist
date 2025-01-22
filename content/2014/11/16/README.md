@@ -10,15 +10,15 @@
 
 ### Logging
 
-*   [spdlog (⭐24k)](https://github.com/gabime/spdlog) - Super fast, header only, C++ logging library.
+*   [spdlog (⭐25k)](https://github.com/gabime/spdlog) - Super fast, header only, C++ logging library.
 
 ### Networking
 
-*   [Proxygen (⭐8.1k)](https://github.com/facebook/proxygen) - Facebook's collection of C++ HTTP libraries including an easy to use HTTP server. \[BSD]
+*   [Proxygen (⭐8.2k)](https://github.com/facebook/proxygen) - Facebook's collection of C++ HTTP libraries including an easy to use HTTP server. \[BSD]
 
 ### Other Awesome Projects
 
-*   [Projects (⭐45k)](https://github.com/karan/Projects) - A list of practical projects that anyone can solve in any programming language.
+*   [Projects (⭐46k)](https://github.com/karan/Projects) - A list of practical projects that anyone can solve in any programming language.
 
 ---
 

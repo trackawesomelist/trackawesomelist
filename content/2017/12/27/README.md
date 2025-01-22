@@ -46,11 +46,11 @@
 
 ### Automation
 
-*   [Danger (⭐5.4k)](https://github.com/danger/danger) - Automate your team's conventions surrounding code review.
+*   [Danger (⭐5.5k)](https://github.com/danger/danger) - Automate your team's conventions surrounding code review.
 
 ### Cryptocurrencies and Blockchains
 
-*   [Blockchain Lite (⭐221)](https://github.com/openblockchains/blockchain.lite.rb) - Build your own blockchains with crypto hashes; revolutionize the world with blockchains, blockchains, blockchains one block at a time.
+*   [Blockchain Lite (⭐225)](https://github.com/openblockchains/blockchain.lite.rb) - Build your own blockchains with crypto hashes; revolutionize the world with blockchains, blockchains, blockchains one block at a time.
 
 ## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -66,7 +66,7 @@
 
 ### Utility / Barcode
 
-*   [URLQueryItemEncoder (⭐65)](https://github.com/pitiphong-p/URLQueryItemEncoder) - An Encoder for encoding any Encodable value into an array of URLQueryItem.
+*   [URLQueryItemEncoder (⭐64)](https://github.com/pitiphong-p/URLQueryItemEncoder) - An Encoder for encoding any Encodable value into an array of URLQueryItem.
 
 ## [6. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/README.md)
 
@@ -108,7 +108,7 @@
 
 ### Audio and Video Tools / File Sharing
 
-*   [SpotMenu (⭐2.9k)](https://github.com/kmikiy/SpotMenu) - Spotify and iTunes in your menu bar. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/kmikiy/SpotMenu) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [SpotMenu (⭐3k)](https://github.com/kmikiy/SpotMenu) - Spotify and iTunes in your menu bar. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/kmikiy/SpotMenu) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ---
 

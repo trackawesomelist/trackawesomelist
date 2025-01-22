@@ -22,12 +22,12 @@
 
 ### Tools & Software / Acquisition
 
-*   [Cairn (⭐35)](https://github.com/wabarc/cairn) - A npm package and CLI tool for saving webpages. *(Stable)*
-*   [Obelisk (⭐236)](https://github.com/go-shiori/obelisk) - Go package and CLI tool for saving web page as single HTML file. *(Stable)*
+*   [Cairn (⭐46)](https://github.com/wabarc/cairn) - A npm package and CLI tool for saving webpages. *(Stable)*
+*   [Obelisk (⭐273)](https://github.com/go-shiori/obelisk) - Go package and CLI tool for saving web page as single HTML file. *(Stable)*
 
 ### Tools & Software / Search & Discovery
 
-*   [Mink (⭐45)](https://github.com/machawk1/mink) - A [Google Chrome](https://www.google.com/intl/en/chrome/) extension for querying Memento aggregators while browsing and integrating live-archived web navigation. *(Stable)*
+*   [Mink (⭐50)](https://github.com/machawk1/mink) - A [Google Chrome](https://www.google.com/intl/en/chrome/) extension for querying Memento aggregators while browsing and integrating live-archived web navigation. *(Stable)*
 
 ### Community Resources / Mailing Lists
 
@@ -64,7 +64,7 @@
 
 ### ORM and Datamapping
 
-*   [mongodb\_driver (⭐238)](https://github.com/zookzook/elixir-mongodb-driver) - Alternative driver for MongoDB with support for recent versions of MongoDB and comprehensive feature list.
+*   [mongodb\_driver (⭐252)](https://github.com/zookzook/elixir-mongodb-driver) - Alternative driver for MongoDB with support for recent versions of MongoDB and comprehensive feature list.
 
 ## [7. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
 
@@ -82,7 +82,7 @@
 
 ### Community / Interfaces to other package managers
 
-*   [clml (⭐259)](https://github.com/mmaul/clml) - originally developed by Mathematicl Systems Inc., a Japanese company. With a [tutorial](https://mmaul.github.io/clml.tutorials//2015/08/08/CLML-Time-Series-Part-1.html). [LLGPL](http://opensource.franz.com/preamble.html).
+*   [clml (⭐261)](https://github.com/mmaul/clml) - originally developed by Mathematicl Systems Inc., a Japanese company. With a [tutorial](https://mmaul.github.io/clml.tutorials//2015/08/08/CLML-Time-Series-Part-1.html). [LLGPL](http://opensource.franz.com/preamble.html).
 
 ## [10. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/README.md)
 

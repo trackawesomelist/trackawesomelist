@@ -22,7 +22,7 @@
 
 ### Language API
 
-*   [JuliaCall (⭐256)](https://github.com/Non-Contradiction/JuliaCall) - Seamless Integration Between R and Julia.
+*   [JuliaCall (⭐269)](https://github.com/Non-Contradiction/JuliaCall) - Seamless Integration Between R and Julia.
 
 ## [4. Awesome Speakers](/content/karlhorky/awesome-speakers/README.md)
 

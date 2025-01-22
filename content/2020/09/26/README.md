@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 26, 2020
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -64,26 +64,20 @@
 
 *   [Stripe Payments](https://stripe.com/payments) - Accept payments and move money globally with APIs.
 
-## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / UI Utilities
-
-*   [v-aspect-ratio (⭐29)](https://github.com/andrewvasilchuk/v-aspect-ratio) - Vue.js directive for setting an aspect ratio.
-
-## [7. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
+## [6. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
 
 ### Vector Graphics / Unspecified License
 
 *   [Humaans](https://www.humaaans.com/) - [:copyright:](https://creativecommons.org/share-your-work/public-domain/cc0/) CC0 licensed clipart images of humans.
 *   [Open Doodles](https://www.opendoodles.com) - [:copyright:](http://creativecommons.org/publicdomain/zero/1.0/) CC-0-licensed vector sketches/cliparts with generator and compositions.
 
-## [8. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [7. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Compression
 
 *   [polylines.cr (⭐10)](https://github.com/BuonOmo/polylines.cr) — compression of series of coordinates
 
-## [9. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
+## [8. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 
 ### Jamstack Sites Showcase
 
@@ -93,13 +87,13 @@
 
 *   [Arengu](https://www.arengu.com) - Build signup and login forms with Arengu, enable social login, add 2FA or use passwordless flows to authenticate users with your API or identity provider.
 
-## [10. Awesome Music](/content/ciconia/awesome-music/README.md)
+## [9. Awesome Music](/content/ciconia/awesome-music/README.md)
 
 ### Audio Tools
 
-*   [Cecilia (⭐207)](https://github.com/belangeo/cecilia5) - a Pyo-based graphical environment for music and signal processing.
+*   [Cecilia (⭐230)](https://github.com/belangeo/cecilia5) - a Pyo-based graphical environment for music and signal processing.
 
-## [11. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [10. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Links / Official Links
 
@@ -114,7 +108,7 @@
 *   [LinkedIn: Kotlin Developers (Join!)](https://www.linkedin.com/groups/7417237/profile)
 *   [Kotlin Cheat Sheet](https://speakerdeck.com/agiuliani/kotlin-cheat-sheet)
 
-## [12. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
+## [11. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
 ### Web Feed Specifications
 

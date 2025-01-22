@@ -207,13 +207,13 @@ Topics: UX Development, Usability, Accessibility, Scrum, Agile\
 
 ### Framework Components
 
-*   [phx\_component\_helpers (⭐131)](https://github.com/cblavier/phx_component_helpers) - Extensible live\_components, without boilerplate.
+*   [phx\_component\_helpers (⭐135)](https://github.com/cblavier/phx_component_helpers) - Extensible live\_components, without boilerplate.
 
 ## [10. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
 
 ### Tools
 
-*   [ipns-pin (⭐14)](https://github.com/justicenode/node-ipns-pin) - A command-line tool to pin stuff via ipns.
+*   [ipns-pin (⭐15)](https://github.com/justicenode/node-ipns-pin) - A command-line tool to pin stuff via ipns.
 
 ## [11. Awesome Vlc](/content/mfkl/awesome-vlc/README.md)
 
@@ -256,7 +256,7 @@ Topics: UX Development, Usability, Accessibility, Scrum, Agile\
 
 ### Plugins
 
-*   [tmux-wormhole (⭐95)](https://github.com/gcla/tmux-wormhole) Use tmux to download files with magic wormhole
+*   [tmux-wormhole (⭐101)](https://github.com/gcla/tmux-wormhole) Use tmux to download files with magic wormhole
 
 ## [14. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
 
@@ -269,7 +269,7 @@ Topics: UX Development, Usability, Accessibility, Scrum, Agile\
 
 ### Contents / Games
 
-*   [FlutterDex (⭐58)](https://github.com/ArizArmeidi/FlutterDex) - a Simple Pokedex app built with API from [PokeAPI](https://pokeapi.co/) by [Ariz Armeidi](https://github.com/ArizArmeidi).
+*   [FlutterDex (⭐60)](https://github.com/ArizArmeidi/FlutterDex) - a Simple Pokedex app built with API from [PokeAPI](https://pokeapi.co/) by [Ariz Armeidi](https://github.com/ArizArmeidi).
 
 ---
 

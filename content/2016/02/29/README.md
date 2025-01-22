@@ -76,7 +76,7 @@ Violent Python shows you how to move from a theoretical understanding of offensi
 
 ### Implementations/Compilers
 
-*   [crisp (⭐43)](https://github.com/rhysd/Crisp) - Lisp dialect implemented with Crystal
+*   [crisp (⭐44)](https://github.com/rhysd/Crisp) - Lisp dialect implemented with Crystal
 
 ## [7. Awesome Github](/content/phillipadsmith/awesome-github/README.md)
 
@@ -122,7 +122,7 @@ Violent Python shows you how to move from a theoretical understanding of offensi
 
 ### Books
 
-*   [Introduction to Autonomous Robots (⭐1.5k)](https://github.com/correll/Introduction-to-Autonomous-Robots/releases)
+*   [Introduction to Autonomous Robots (⭐1.7k)](https://github.com/correll/Introduction-to-Autonomous-Robots/releases)
 
 ## [11. Awesome Ava](/content/avajs/awesome-ava/README.md)
 

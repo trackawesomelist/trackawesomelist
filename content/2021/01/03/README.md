@@ -22,11 +22,11 @@
 
 ### Auditing / Logging
 
-*   🍰 [AuditStash plugin (⭐76)](https://github.com/lorenzo/audit-stash) - Flexible and rock solid audit log tracking.
+*   [AuditStash plugin (⭐78)](https://github.com/lorenzo/audit-stash) - Flexible and rock solid audit log tracking.
 
 ### Debugging
 
-*   🍰 [CakephpWhoops plugin (⭐13)](https://github.com/dereuromark/cakephp-whoops) - PHP errors and exceptions for cool kids with [filp/whoops (⭐13k)](https://github.com/filp/whoops).
+*   [CakephpWhoops plugin (⭐13)](https://github.com/dereuromark/cakephp-whoops) - PHP errors and exceptions for cool kids with [filp/whoops (⭐13k)](https://github.com/filp/whoops).
 
 ## [4. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 

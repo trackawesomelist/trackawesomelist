@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 12, 2022
 
-7 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,45 +10,39 @@
 
 ### Libraries / Python
 
-*   [aiosnmp (⭐44)](https://github.com/hh-h/aiosnmp) - Python package aiosnmp is an asynchronous SNMP client for use with asyncio. Only SNMP v2c is supported. ![GitHub last commit](https://img.shields.io/github/last-commit/hh-h/aiosnmp)
+*   [aiosnmp (⭐45)](https://github.com/hh-h/aiosnmp) - Python package aiosnmp is an asynchronous SNMP client for use with asyncio. Only SNMP v2c is supported. ![GitHub last commit](https://img.shields.io/github/last-commit/hh-h/aiosnmp)
 
 ### Libraries / Rust
 
-*   [davedufresne/modern\_snmp (⭐21)](https://github.com/davedufresne/modern_snmp) - Modern SNMP is a pure-Rust library for SNMPv3. This repository includes snmp\_mp (SNMPv3 Message Processing) and snmp\_usm (Implementation of the User-based Security Model (USM) for SNMPv3) crates.
+*   [davedufresne/modern\_snmp (⭐23)](https://github.com/davedufresne/modern_snmp) - Modern SNMP is a pure-Rust library for SNMPv3. This repository includes snmp\_mp (SNMPv3 Message Processing) and snmp\_usm (Implementation of the User-based Security Model (USM) for SNMPv3) crates.
 *   [Svedrin/sunt (⭐25)](https://github.com/Svedrin/sunt) - This repository implements an SNMP Agent written in Rust.
 
 ## [2. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
 
 ### Stub packages
 
-*   [boto3-stubs](https://vemel.github.io/boto3_stubs_docs/) - Stubs for [boto3 (⭐8.8k)](https://github.com/boto/boto3).
-*   [types-aiobotocore](https://vemel.github.io/types_aiobotocore_docs/) - Stubs for [aiobotocore (⭐1.1k)](https://github.com/aio-libs/aiobotocore).
+*   [boto3-stubs](https://vemel.github.io/boto3_stubs_docs/) - Stubs for [boto3 (⭐9.1k)](https://github.com/boto/boto3).
+*   [types-aiobotocore](https://vemel.github.io/types_aiobotocore_docs/) - Stubs for [aiobotocore (⭐1.2k)](https://github.com/aio-libs/aiobotocore).
 
-## [3. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / UI Components
-
-*   [vue3-side-panel (⭐58)](https://github.com/headmandev/vue3-side-panel) - 🔥 Easy to use and flexible modal sidebar component for Vue3.
-
-## [4. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [3. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Bayesian Modeling / Generative Model
 
 *   [A generative vision model that trains with high data efficiency and breaks text-based CAPTCHAs](https://www.cs.jhu.edu/~ayuille/JHUcourses/ProbabilisticModelsOfVisualCognition2020/Lec22/GeorgeCAPCHAS.pdf) - ***Science***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=1478382321633671444\&hl=en\&as_sdt=0,5)].
 
-## [5. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [4. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / GUI
 
-*   [DioxusLabs/dioxus (⭐20k)](https://github.com/dioxuslabs/dioxus) - a portable, performant, and ergonomic framework for building cross-platform user interfaces in Rust. ![rust ci](https://github.com/dioxuslabs/dioxus/actions/workflows/main.yml/badge.svg)
+*   [DioxusLabs/dioxus (⭐25k)](https://github.com/dioxuslabs/dioxus) - a portable, performant, and ergonomic framework for building cross-platform user interfaces in Rust. ![rust ci](https://github.com/dioxuslabs/dioxus/actions/workflows/main.yml/badge.svg)
 
-## [6. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
+## [5. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 
 ### Tutorials and Blog Posts / NumPyro
 
 *   [Get started with JAX by Aleksa Gordić (⭐559)](https://github.com/gordicaleksa/get-started-with-JAX) - A series of notebooks and videos going from zero JAX knowledge to building neural networks in Haiku.
 
-## [7. Awesome Ruby](/content/markets/awesome-ruby/README.md)
+## [6. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Core Extensions
 

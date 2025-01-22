@@ -109,7 +109,7 @@
 
 ### Utility / Collection View Layout
 
-*   [App-Update-Tracker (⭐25)](https://github.com/Stunner/App-Update-Tracker) - Easily detect and run code upon app installation or update.
+*   [App-Update-Tracker (⭐26)](https://github.com/Stunner/App-Update-Tracker) - Easily detect and run code upon app installation or update.
 
 ---
 

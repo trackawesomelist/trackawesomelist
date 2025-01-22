@@ -36,7 +36,7 @@
 
 ### Table of Contents / Routers
 
-*   [Aura.Router (⭐492)](https://github.com/auraphp/Aura.Router) - A full-featured routing library.
+*   [Aura.Router (⭐494)](https://github.com/auraphp/Aura.Router) - A full-featured routing library.
 
 ### Table of Contents / Dependency Injection
 
@@ -44,16 +44,16 @@
 
 ### Table of Contents / Database
 
-*   [Aura.Sql (⭐554)](https://github.com/auraphp/Aura.Sql) - Provides an extension to the native PDO along with a profiler and connection locator.
+*   [Aura.Sql (⭐556)](https://github.com/auraphp/Aura.Sql) - Provides an extension to the native PDO along with a profiler and connection locator.
 *   [Spot2 (⭐601)](https://github.com/spotorm/spot2) - A MySQL datamapper ORM.
 
 ### Table of Contents / Command Line
 
-*   [Aura.Cli (⭐104)](https://github.com/auraphp/Aura.Cli) - Provides the equivalent of request ( Context ) and response ( Stdio ) objects for the command line interface, including Getopt support, and an independent Help object for describing commands.
+*   [Aura.Cli (⭐102)](https://github.com/auraphp/Aura.Cli) - Provides the equivalent of request ( Context ) and response ( Stdio ) objects for the command line interface, including Getopt support, and an independent Help object for describing commands.
 
 ### Table of Contents / Authentication and Authorization
 
-*   [Aura.Auth (⭐134)](https://github.com/auraphp/Aura.Auth) - Provides authentication functionality and session tracking using various adapters.
+*   [Aura.Auth (⭐132)](https://github.com/auraphp/Aura.Auth) - Provides authentication functionality and session tracking using various adapters.
 
 ### Table of Contents / Filtering, Sanitizing and Validation
 
@@ -61,7 +61,7 @@
 
 ### Table of Contents / Internationalisation and Localisation
 
-*   [Aura.Intl (⭐90)](https://github.com/auraphp/Aura.Intl) - Provides internationalization (I18N) tools, specifically package-oriented per-locale message translation.
+*   [Aura.Intl (⭐89)](https://github.com/auraphp/Aura.Intl) - Provides internationalization (I18N) tools, specifically package-oriented per-locale message translation.
 
 ### Configuration / PHP Websites
 
@@ -129,19 +129,19 @@
 
 ### Programming / Python
 
-*   [Nengo (⭐730)](https://github.com/nengo/nengo) - Library for creating and simulating large-scale brain models.
-*   [PsychoPy (⭐1.3k)](https://github.com/psychopy/psychopy) - Package for running psychology and neuroscience experiments. It allows for creating psychology stimuli in Python.
+*   [Nengo (⭐822)](https://github.com/nengo/nengo) - Library for creating and simulating large-scale brain models.
+*   [PsychoPy (⭐1.7k)](https://github.com/psychopy/psychopy) - Package for running psychology and neuroscience experiments. It allows for creating psychology stimuli in Python.
 *   [NuPic (⭐6.3k)](https://github.com/numenta/nupic) - Numenta Platform for Intelligent Computing is an implementation of Hierarchical Temporal Memory (HTM), a theory of intelligence based strictly on the neuroscience of the neocortex.
 
 ### Programming / Matlab
 
-*   [FieldTrip (⭐683)](https://github.com/fieldtrip/fieldtrip) - Toolbox for MEG and EEG analysis.
+*   [FieldTrip (⭐840)](https://github.com/fieldtrip/fieldtrip) - Toolbox for MEG and EEG analysis.
 
 ## [12. Awesome Npm](/content/sindresorhus/awesome-npm/README.md)
 
 ### Other
 
-*   [package-size (⭐425)](https://github.com/egoist/package-size) - Get the bundle size of an npm package.
+*   [package-size (⭐424)](https://github.com/egoist/package-size) - Get the bundle size of an npm package.
 
 ## [13. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 

@@ -10,11 +10,11 @@
 
 ### Packages / Command-line utilities
 
-*   [sparkly (⭐423)](https://github.com/sindresorhus/sparkly) - Generate sparklines `▁▂▃▅▂▇`.
+*   [sparkly (⭐424)](https://github.com/sindresorhus/sparkly) - Generate sparklines `▁▂▃▅▂▇`.
 
 ### Packages / Weird
 
-*   [cat-ascii-faces (⭐251)](https://github.com/melaniecebula/cat-ascii-faces) - `₍˄·͈༝·͈˄₎◞ ̑̑ෆ⃛ (=ↀωↀ=)✧ (^･o･^)ﾉ”`.
+*   [cat-ascii-faces (⭐254)](https://github.com/melaniecebula/cat-ascii-faces) - `₍˄·͈༝·͈˄₎◞ ̑̑ෆ⃛ (=ↀωↀ=)✧ (^･o･^)ﾉ”`.
 
 ## [2. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
@@ -59,7 +59,7 @@ Free
 
 ### Miscellaneous
 
-*   [Jupyter (⭐3.9k)](https://github.com/markusschanta/awesome-jupyter#readme) - Create and share documents that contain code, equations, visualizations and narrative text.
+*   [Jupyter (⭐4.1k)](https://github.com/markusschanta/awesome-jupyter#readme) - Create and share documents that contain code, equations, visualizations and narrative text.
 
 ## [7. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 
@@ -76,8 +76,8 @@ Free
 ### Processes / Other
 
 *   [ch.vorburger.exec (⭐30)](https://github.com/vorburger/ch.vorburger.exec) - Convenient API around Apache Commons Exec.
-*   [zt-exec (⭐875)](https://github.com/zeroturnaround/zt-exec) - Provides a unified API to Apache Commons Exec and ProcessBuilder.
-*   [zt-process-killer (⭐125)](https://github.com/zeroturnaround/zt-process-killer) - Stops processes started from Java or the system processes via PID.
+*   [zt-exec (⭐881)](https://github.com/zeroturnaround/zt-exec) - Provides a unified API to Apache Commons Exec and ProcessBuilder.
+*   [zt-process-killer (⭐128)](https://github.com/zeroturnaround/zt-process-killer) - Stops processes started from Java or the system processes via PID.
 
 ## [9. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 
@@ -90,7 +90,7 @@ Free
 
 ### Animation / Redux / ELM / Dependency Injection
 
-*   [AnimatedTextKit (⭐1.6k)](https://github.com/aagarwal1012/Animated-Text-Kit) <!--stargazers:aagarwal1012/Animated-Text-Kit--> - A collection of cool text animations by [Ayush Agarwal](https://github.com/aagarwal1012/)
+*   [AnimatedTextKit (⭐1.7k)](https://github.com/aagarwal1012/Animated-Text-Kit) <!--stargazers:aagarwal1012/Animated-Text-Kit--> - A collection of cool text animations by [Ayush Agarwal](https://github.com/aagarwal1012/)
 
 ### Top / Game Engine resources
 
@@ -100,7 +100,7 @@ Free
 
 ### Python / Symfony2
 
-*   [Falcon (⭐9.5k)](https://github.com/falconry/falcon) - Falcon is a bare-metal Python web API framework for building high-performance microservices, app backends, and higher-level frameworks.
+*   [Falcon (⭐9.6k)](https://github.com/falconry/falcon) - Falcon is a bare-metal Python web API framework for building high-performance microservices, app backends, and higher-level frameworks.
 
 ---
 

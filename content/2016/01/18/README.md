@@ -10,19 +10,19 @@
 
 ### Data Generators
 
-*   [faker (⭐147)](https://github.com/askn/faker) - A library for generating fake data
+*   [faker (⭐150)](https://github.com/askn/faker) - A library for generating fake data
 
 ## [2. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Source Generator
 
-*   [.NET-libraries-that-make-your-life-easier (⭐805)](https://github.com/tallesl/net-libraries-that-make-your-life-easier) - Open Source .NET libraries that make your life easier
+*   [.NET-libraries-that-make-your-life-easier (⭐818)](https://github.com/tallesl/net-libraries-that-make-your-life-easier) - Open Source .NET libraries that make your life easier
 
 ## [3. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Color / Runner
 
-*   [color (⭐4.7k)](https://github.com/Qix-/color) - JavaScript color conversion and manipulation library.
+*   [color (⭐4.8k)](https://github.com/Qix-/color) - JavaScript color conversion and manipulation library.
 
 ### Scroll / Other
 
@@ -82,7 +82,7 @@
 
 ### Macros
 
-*   [ok\_jose (⭐101)](https://github.com/vic/ok_jose) - Pipe elixir functions that match `{:ok,_}`, `{:error,_}` tuples or custom patterns.
+*   [ok\_jose (⭐100)](https://github.com/vic/ok_jose) - Pipe elixir functions that match `{:ok,_}`, `{:error,_}` tuples or custom patterns.
 
 ## [9. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
 

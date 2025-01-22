@@ -42,7 +42,7 @@
 
 ### Other Tools / Steam
 
-*   [Cyberbro (⭐51)](https://github.com/stanfrbd/cyberbro) - A self-hosted application, available as a Dockerized, for effortless searching and reputation checking of observables. Extracts IoCs from raw input and check their reputation using multiple services.
+*   [Cyberbro (⭐193)](https://github.com/stanfrbd/cyberbro) - A self-hosted application, available as a Dockerized, for effortless searching and reputation checking of observables. Extracts IoCs from raw input and check their reputation using multiple services.
 *   [CyberGordon](https://cybergordon.com) - CyberGordon is a threat intelligence search engine. It leverages 30+ sources.
 
 ## [5. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/README.md)
@@ -56,16 +56,16 @@
 
 ### Applications / Operating systems
 
-*   [vinc/moros (⭐928)](https://github.com/vinc/moros) - A text-based hobby operating system targeting computers with a x86-64 architecture and a BIOS.
+*   [vinc/moros (⭐935)](https://github.com/vinc/moros) - A text-based hobby operating system targeting computers with a x86-64 architecture and a BIOS.
 
 ### Libraries / Template engine
 
 *   HTML
-    *   [kaj/ructe (⭐454)](https://github.com/kaj/ructe) - HTML template system
-    *   [Keats/tera (⭐3.6k)](https://github.com/Keats/tera) - template engine based on Jinja2 and the Django template language. [![Actions Status](https://github.com/Keats/tera/workflows/ci/badge.svg?branch=master)](https://github.com/Keats/tera/actions)
+    *   [kaj/ructe (⭐455)](https://github.com/kaj/ructe) - HTML template system
+    *   [Keats/tera (⭐3.7k)](https://github.com/Keats/tera) - template engine based on Jinja2 and the Django template language. [![Actions Status](https://github.com/Keats/tera/workflows/ci/badge.svg?branch=master)](https://github.com/Keats/tera/actions)
     *   [lambda-fairy/maud (⭐2.2k)](https://github.com/lambda-fairy/maud) - compile-time HTML templates
-    *   [rinja-rs/askama (⭐3.5k)](https://github.com/rinja-rs/askama) - template rendering engine based on Jinja
-    *   [Stebalien/horrorshow-rs (⭐325)](https://github.com/Stebalien/horrorshow-rs) - compile-time HTML templates
+    *   [rinja-rs/askama (⭐3.6k)](https://github.com/rinja-rs/askama) - template rendering engine based on Jinja
+    *   [Stebalien/horrorshow-rs (⭐327)](https://github.com/Stebalien/horrorshow-rs) - compile-time HTML templates
 
 ## [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
@@ -75,7 +75,7 @@
 
 ### Software / Remote Access
 
-*   [Engity's Bifröst](https://bifroest.engity.org/) - Highly customizable SSH server with several ways to authorize a user and options where and how to execute a user's session. ([Source Code (⭐19)](https://github.com/engity-com/bifroest)) `Apache-2.0` `Go/Docker`
+*   [Engity's Bifröst](https://bifroest.engity.org/) - Highly customizable SSH server with several ways to authorize a user and options where and how to execute a user's session. ([Source Code (⭐30)](https://github.com/engity-com/bifroest)) `Apache-2.0` `Go/Docker`
 
 ## [8. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
@@ -107,4 +107,5 @@
 
 ---
 
+- Prev: [Dec 18, 2024](/content/2024/12/18/README.md)
 - Next: [Dec 16, 2024](/content/2024/12/16/README.md)

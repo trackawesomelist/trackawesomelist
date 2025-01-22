@@ -10,7 +10,7 @@
 
 ### Calendar
 
-*   [ElegantCalendar (⭐860)](https://github.com/ThasianX/ElegantCalendar) - The elegant full-screen calendar missed in SwiftUI.
+*   [ElegantCalendar (⭐905)](https://github.com/ThasianX/ElegantCalendar) - The elegant full-screen calendar missed in SwiftUI.
 
 ## [2. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
@@ -22,7 +22,7 @@
 
 ### General
 
-*   [Fluent System Icons (⭐5.9k)](https://github.com/microsoft/fluentui-system-icons#fluent-system-icons) - A collection of familiar, friendly and modern icons from Microsoft.
+*   [Fluent System Icons (⭐6k)](https://github.com/microsoft/fluentui-system-icons#fluent-system-icons) - A collection of familiar, friendly and modern icons from Microsoft.
 
 ## [4. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
@@ -42,7 +42,7 @@
 
 *   [Sublime Text](http://www.sublimetext.com/3) (proprietary) has
     Common Lisp support with its SublimeREPL and
-    [Slyblime (⭐44)](https://github.com/s-clerc/slyblime) packages. Slyblime
+    [Slyblime (⭐45)](https://github.com/s-clerc/slyblime) packages. Slyblime
     is an implementation of SLY and it uses the same backend (SLYNK). It
     ships advanced features including a debugger with stack frame
     inspection.
@@ -233,7 +233,7 @@
 
 ### Tools / XML
 
-*   [make-deno-edition (⭐42)](https://github.com/bevry/make-deno-edition) - Automatically makes package.json projects (such as npm packages and node.js modules) compatible with Deno.
+*   [make-deno-edition (⭐43)](https://github.com/bevry/make-deno-edition) - Automatically makes package.json projects (such as npm packages and node.js modules) compatible with Deno.
 
 ---
 

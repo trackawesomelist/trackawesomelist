@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 26 - Sep 01, 2019
 
-50 awesome lists updated this week.
+48 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -11,7 +11,7 @@
 ### Developer Tools
 
 *   **Code coverage**:
-    *   [Bisect\_ppx (⭐299)](https://github.com/aantron/bisect_ppx)
+    *   [Bisect\_ppx (⭐302)](https://github.com/aantron/bisect_ppx)
 
 ## [2. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
@@ -87,51 +87,45 @@
 *   [Alexa Top 1 Million Security - Hacking the Big Ones](https://slashcrypto.org/data/itsecx2018.pdf) - Written by [@slashcrypto](https://twitter.com/slashcrypto).
 *   [List of bug bounty writeups](https://pentester.land/list-of-bug-bounty-writeups.html) - Written by [Mariem](https://pentester.land/).
 
-## [6. Awesome Spark](/content/awesome-spark/awesome-spark/week/README.md)
-
-### Packages / SQL Data Sources
-
-*   [Spark Avro (⭐539)](https://github.com/databricks/spark-avro) <img src="https://img.shields.io/github/last-commit/databricks/spark-avro.svg"> - [Apache Avro](https://avro.apache.org/) reader and writer (obselete since Spark 2.4 [\[SPARK-24768\]](https://issues.apache.org/jira/browse/SPARK-24768)).
-
-## [7. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+## [6. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
 ### Miscellaneous / Svelte
 
 *   [Dev Updates](https://mailchi.mp/f59beeac6b9b/devupdates). A weekly newsletter focussing on latest in mobile, web, AI, UI/UX, jobs/careers and anything related to developers and the industry.
 
-## [8. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
+## [7. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
 ### Blogs / Misc
 
 *   [Build Better Blog](https://blocksedit.com/content-code/) - Design and content production in email marketing.
 
-## [9. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [8. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Peripheral Access Crates / STMicroelectronics
 
-*   [`stm32f0`](https://crates.io/crates/stm32f0) - ![crates.io](https://img.shields.io/crates/v/stm32f0.svg)
-*   [`stm32f1`](https://crates.io/crates/stm32f1) - ![crates.io](https://img.shields.io/crates/v/stm32f1.svg)
-*   [`stm32f2`](https://crates.io/crates/stm32f2) - ![crates.io](https://img.shields.io/crates/v/stm32f2.svg)
-*   [`stm32f3`](https://crates.io/crates/stm32f3) - ![crates.io](https://img.shields.io/crates/v/stm32f3.svg)
-*   [`stm32f4`](https://crates.io/crates/stm32f4) - ![crates.io](https://img.shields.io/crates/v/stm32f4.svg)
-*   [`stm32f7`](https://crates.io/crates/stm32f7) - ![crates.io](https://img.shields.io/crates/v/stm32f7.svg)
-*   [`stm32l0`](https://crates.io/crates/stm32l0) - ![crates.io](https://img.shields.io/crates/v/stm32l0.svg)
-*   [`stm32l1`](https://crates.io/crates/stm32l1) - ![crates.io](https://img.shields.io/crates/v/stm32l1.svg)
-*   [`stm32l4`](https://crates.io/crates/stm32l4) - ![crates.io](https://img.shields.io/crates/v/stm32l4.svg)
+*   [`stm32f0`](https://crates.io/crates/stm32f0) - [![crates.io](https://img.shields.io/crates/v/stm32f0.svg)](https://crates.io/crates/stm32f0)
+*   [`stm32f1`](https://crates.io/crates/stm32f1) - [![crates.io](https://img.shields.io/crates/v/stm32f1.svg)](https://crates.io/crates/stm32f1)
+*   [`stm32f2`](https://crates.io/crates/stm32f2) - [![crates.io](https://img.shields.io/crates/v/stm32f2.svg)](https://crates.io/crates/stm32f2)
+*   [`stm32f3`](https://crates.io/crates/stm32f3) - [![crates.io](https://img.shields.io/crates/v/stm32f3.svg)](https://crates.io/crates/stm32f3)
+*   [`stm32f4`](https://crates.io/crates/stm32f4) - [![crates.io](https://img.shields.io/crates/v/stm32f4.svg)](https://crates.io/crates/stm32f4)
+*   [`stm32f7`](https://crates.io/crates/stm32f7) - [![crates.io](https://img.shields.io/crates/v/stm32f7.svg)](https://crates.io/crates/stm32f7)
+*   [`stm32l0`](https://crates.io/crates/stm32l0) - [![crates.io](https://img.shields.io/crates/v/stm32l0.svg)](https://crates.io/crates/stm32l0)
+*   [`stm32l1`](https://crates.io/crates/stm32l1) - [![crates.io](https://img.shields.io/crates/v/stm32l1.svg)](https://crates.io/crates/stm32l1)
+*   [`stm32l4`](https://crates.io/crates/stm32l4) - [![crates.io](https://img.shields.io/crates/v/stm32l4.svg)](https://crates.io/crates/stm32l4)
 
-## [10. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
+## [9. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
 
 ### Python tools / Misc
 
 *   [Chartify (⭐3.2k)](https://github.com/spotify/chartify) - Bokeh wrapper that makes it easy for data scientists to create charts.
 
-## [11. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [10. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Related / Other
 
 *   [awesome-nodejs (⭐57k)](https://github.com/sindresorhus/awesome-nodejs)
 
-## [12. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [11. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Date and Time
 
@@ -141,11 +135,11 @@
 
 *   [beagle (⭐51)](https://github.com/tokenmill/beagle)
 
-## [13. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
+## [12. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
 ### Libraries / Python
 
-*   [Mongo-Thingy (⭐68)](https://github.com/numberly/mongo-thingy) - Powerful schema-less ODM for MongoDB and Python (sync + async)
+*   [Mongo-Thingy (⭐69)](https://github.com/numberly/mongo-thingy) - Powerful schema-less ODM for MongoDB and Python (sync + async)
 
 ### Tools / Monitoring
 
@@ -157,7 +151,7 @@
 
 *   [Mongoku (⭐1.3k)](https://github.com/huggingface/Mongoku) - MongoDB client for the web
 
-## [14. Awesome Actions on Google](/content/ravirupareliya/awesome-actions-on-google/week/README.md)
+## [13. Awesome Actions on Google](/content/ravirupareliya/awesome-actions-on-google/week/README.md)
 
 ### Codelabs/Courses
 
@@ -169,7 +163,7 @@
 
 *   [TuneIn](https://assistant.google.com/services/a/uid/000000c9bec03997) - TuneIn is your everything audio app. With more than 100,000 radio stations and 5.7 million podcasts.
 
-## [15. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [14. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Lambda
 
@@ -179,13 +173,13 @@
 
 *   [Netflix/archaius :fire::fire::fire::fire::fire: (⭐2.4k)](https://github.com/Netflix/archaius) - Library for configuration management API.
 
-## [16. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [15. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Software / Frameworks
 
 *   [Mozilla WebThings](https://iot.mozilla.org/) - An open platform for monitoring and controlling devices over the web.
 
-## [17. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
+## [16. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
 
 ### The Fiery Meter of AWSome
 
@@ -197,7 +191,7 @@
 *   Community-authored repo with 100+ stars
 *   Community-vouched repo with < 100 stars
 
-## [18. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
+## [17. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
 
 ### Graphic
 
@@ -238,19 +232,19 @@
 
 *   [Boss (⭐418)](https://github.com/HashLoad/boss). Dependency Manager for Delphi projects.
 
-## [19. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
+## [18. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
 
 ### Testing
 
 *   [*Testing Swift* by Paul Hudson](https://www.hackingwithswift.com/store/testing-swift)
 
-## [20. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [19. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### CLOS extensions
 
-*   [inlined-generic-function (⭐108)](https://github.com/guicho271828/inlined-generic-function) -
+*   [inlined-generic-function (⭐107)](https://github.com/guicho271828/inlined-generic-function) -
     Bringing the speed of Static Dispatch to CLOS. [LLGPL](http://opensource.franz.com/preamble.html).
-*   [static-dispatch (⭐76)](https://github.com/alex-gutev/static-dispatch) - allows standard generic function dispatch to be performed statically (at compile time) rather than dynamically (runtime). This is similar to what is known as "overloading" in languages such as C++ and Java. [MIT](https://opensource.org/licenses/MIT).
+*   [static-dispatch (⭐80)](https://github.com/alex-gutev/static-dispatch) - allows standard generic function dispatch to be performed statically (at compile time) rather than dynamically (runtime). This is similar to what is known as "overloading" in languages such as C++ and Java. [MIT](https://opensource.org/licenses/MIT).
 
 ### Reference
 
@@ -267,25 +261,25 @@
 
 ### Logging / Third-party APIs
 
-*   [a-cl-logger (⭐12)](https://github.com/AccelerationNet/a-cl-logger) - Logging library providing context sensitive logging of more than just strings to more than just local files or output streams. Features logstash support, json support, logger hierarchies, context sensitive logging, objects printed as an inspectable presentation,…
+*   [a-cl-logger (⭐13)](https://github.com/AccelerationNet/a-cl-logger) - Logging library providing context sensitive logging of more than just strings to more than just local files or output streams. Features logstash support, json support, logger hierarchies, context sensitive logging, objects printed as an inspectable presentation,…
 
 ### Other / Third-party APIs
 
 *   [trivial-utf8](https://common-lisp.net/project/trivial-utf-8/) - A small library for doing UTF-8-based I/O. BSD.
 
-## [21. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [20. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Content Management Systems / Videos
 
 *   [Twill (⭐2.9k)](https://github.com/area17/twill)
 
-## [22. Awesome Hbase](/content/rayokota/awesome-hbase/week/README.md)
+## [21. Awesome Hbase](/content/rayokota/awesome-hbase/week/README.md)
 
 ### Frameworks / Graph
 
 *   [NebulaGraph (⭐8.1k)](https://github.com/vesoft-inc/nebula) - A high performance distributed Graph database.
 
-## [23. Awesome Bioie](/content/caufieldjh/awesome-bioie/week/README.md)
+## [22. Awesome Bioie](/content/caufieldjh/awesome-bioie/week/README.md)
 
 ### Research Overviews / Pre-LLM Overviews
 
@@ -330,25 +324,25 @@
 *   [UMLS Metathesaurus](https://www.nlm.nih.gov/research/umls/knowledge_sources/metathesaurus/index.html) - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC308795/) - Mappings between >3.8 million concepts, 14 million concept names, and >200 sources of biomedical vocabulary and identifiers. It's big. It may help to prepare a subset of the Metathesaurus with the [MetamorphoSys installation tool](https://www.nlm.nih.gov/research/umls/implementation_resources/metamorphosys/help.html) but we're still talking about \~30 Gb of disk space required for the 2019 release. [See the manual here](https://www.ncbi.nlm.nih.gov/books/NBK9684/). Requires UTS account.
 *   [UMLS Semantic Network](https://semanticnetwork.nlm.nih.gov/) - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2447396/) - Lists of 133 semantic types and 54 semantic relationships covering biomedical concepts and vocabulary. Is the Metathesaurus too complex for your needs? Try this. Does not require UTS account to download.
 
-## [24. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
+## [23. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
 
 ### Table of Contents / Books
 
 *   [Grokking Simplicity: Taming complex software with functional thinking](https://www.manning.com/books/grokking-simplicity) - Teaches functional programming from first principles using real-world scenarios.
 
-## [25. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
+## [24. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
 ### Resources / Books
 
 *   [Grokking Simplicity](https://www.manning.com/books/grokking-simplicity) teaches functional programming from first principles. It uses JavaScript for all code examples and it uses real-world scenarios. By [Eric Normand](https://github.com/ericnormand) (2019)
 
-## [26. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [25. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Other Languages / Others
 
 *   [Playlist - Programando en Blazor](https://www.youtube.com/playlist?list=PL0kIvpOlieSNdIPZbn-mO15YIjRHY2wI9) - \[Spanish] Series of videos about Blazor.
 
-## [27. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/week/README.md)
+## [26. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/week/README.md)
 
 ### Companies / Vegetation & Agriculture
 
@@ -356,7 +350,7 @@
 
     Uses satellite imaging to save fertilizer usage up to 30%, and track crops health. This allows farmers to reduce their Nitrous Oxide emissions, a greenhouse gas that is 298 times more potent than CO2.
 
-## [28. Nginx Resources](/content/fcambus/nginx-resources/week/README.md)
+## [27. Nginx Resources](/content/fcambus/nginx-resources/week/README.md)
 
 ### Understanding Nginx
 
@@ -366,7 +360,7 @@
 
 *   [NGINX Conference 2018 Videos](https://www.youtube.com/playlist?list=PLGz_X9w9raXe_Vc708VKvr5KJ4gnf1WxS)
 
-## [29. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [28. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Notification
 
@@ -376,28 +370,28 @@
 
 *   [react-parallax-tilt (⭐928)](https://github.com/mkosir/react-parallax-tilt) - [demo](https://mkosir.github.io/react-parallax-tilt) - Easily apply parallax tilt hover effect on components.
 
-## [30. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/week/README.md)
+## [29. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/week/README.md)
 
 ### Related Resources / Vector search
 
 *   <a name="lightgbm"></a>
-    [LightGBM (⭐16k)](https://github.com/microsoft/LightGBM)
+    [LightGBM (⭐17k)](https://github.com/microsoft/LightGBM)
 *   <a name="xgboost"></a>
-    [XGBoost (⭐25k)](https://github.com/dmlc/xgboost)
+    [XGBoost (⭐26k)](https://github.com/dmlc/xgboost)
 
-## [31. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [30. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### UI
 
-*   [Before After (⭐888)](https://github.com/xsahil03x/before_after) <!--stargazers:xsahil03x/before_after--> - Beautiful slider which makes it easier to display the difference between two images, by [Sahil Kumar](https://github.com/xsahil03x).
+*   [Before After (⭐936)](https://github.com/xsahil03x/before_after) <!--stargazers:xsahil03x/before_after--> - Beautiful slider which makes it easier to display the difference between two images, by [Sahil Kumar](https://github.com/xsahil03x).
 
 ### UI / List
 
-*   [Infinite Listview (⭐306)](https://github.com/fluttercommunity/flutter_infinite_listview) <!--stargazers:fluttercommunity/flutter_infinite_listview--> - Infinite scroll in both directions by [Simon Lightfoot](https://github.com/slightfoot).
+*   [Infinite Listview (⭐305)](https://github.com/fluttercommunity/flutter_infinite_listview) <!--stargazers:fluttercommunity/flutter_infinite_listview--> - Infinite scroll in both directions by [Simon Lightfoot](https://github.com/slightfoot).
 
 ### UI / Drawers
 
-*   [Flutter Inner Drawer (⭐509)](https://github.com/Dn-a/flutter_inner_drawer) <!--stargazers:Dn-a/flutter_inner_drawer--> - Easy way to create an internal drawer (left / right) where you can enter a list-menu or other by [Di Natale Antonino](https://github.com/Dn-a).
+*   [Flutter Inner Drawer (⭐517)](https://github.com/Dn-a/flutter_inner_drawer) <!--stargazers:Dn-a/flutter_inner_drawer--> - Easy way to create an internal drawer (left / right) where you can enter a list-menu or other by [Di Natale Antonino](https://github.com/Dn-a).
 
 ### Text & Rich Content / Image Picker
 
@@ -415,7 +409,7 @@
 *   [Telegram Group](https://t.me/FlutterTR)
 *   [Github](https://github.com/flutterturkey)
 
-## [32. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [31. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Communication - Custom Communication Systems
 
@@ -427,9 +421,9 @@
 
 ### Software / URL Shorteners
 
-*   [Simple-URL-Shortener (⭐45)](https://github.com/azlux/Simple-URL-Shortener) - KISS URL shortener, public or private (with account). Minimalist and lightweight. No dependencies. ([Demo](https://u.azlux.fr)) `MIT` `PHP`
+*   [Simple-URL-Shortener (⭐49)](https://github.com/azlux/Simple-URL-Shortener) - KISS URL shortener, public or private (with account). Minimalist and lightweight. No dependencies. ([Demo](https://u.azlux.fr)) `MIT` `PHP`
 
-## [33. Awesome Git Hooks](/content/CompSciLauren/awesome-git-hooks/week/README.md)
+## [32. Awesome Git Hooks](/content/CompSciLauren/awesome-git-hooks/week/README.md)
 
 ### Git Hook Scripts / commit-msg
 
@@ -480,38 +474,38 @@
 
 *   [Git hooks and practical uses. Yes, even on Windows.](http://www.youtube.com/watch?feature=player_embedded\&v=fMYv6-SZsSo\&t=140s)
 
-## [34. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
+## [33. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
 
 ### Applications
 
 *   [Philes](https://github.com/chrismatthieu/philes): A simple IPFS-powered decentralized notepad app.
 
-## [35. Awesome Cross Platform Nodejs](/content/bcoe/awesome-cross-platform-nodejs/week/README.md)
+## [34. Awesome Cross Platform Nodejs](/content/bcoe/awesome-cross-platform-nodejs/week/README.md)
 
 ### Libraries / Streams
 
 *   [random-bytes-readable-stream (⭐74)](https://github.com/sindresorhus/random-bytes-readable-stream) - Cross-platform `fs.createReadStream('/dev/urandom')`.
 
-## [36. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [35. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
-### Infographics and Data Visualization / Telegram
+### Infographics and Data Visualization / Steam
 
 *   [LocalFocus](https://www.localfocus.nl)
 *   [Visualize Free](http://visualizefree.com)
 
-### Other Tools / Telegram
+### Other Tools / Steam
 
 *   [Greynoise](https://greynoise.io/) - "Anti-Threat Intelligence" Greynoise characterizes the background noise of the internet, so the user can focus on what is actually important.
 
-## [37. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [36. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Command Line
 
-*   [nef (⭐270)](https://github.com/bow-swift/nef) - A set of command line tools that lets you have compile time verification of your documentation written as Xcode Playground.
+*   [nef (⭐267)](https://github.com/bow-swift/nef) - A set of command line tools that lets you have compile time verification of your documentation written as Xcode Playground.
 
 ### JSON
 
-*   [SwiftyJSONAccelerator (⭐944)](https://github.com/insanoid/SwiftyJSONAccelerator) - macOS app to generate Swift 5 models for JSON (with Codeable).
+*   [SwiftyJSONAccelerator (⭐945)](https://github.com/insanoid/SwiftyJSONAccelerator) - macOS app to generate Swift 5 models for JSON (with Codeable).
 
 ### Keyboard / Barcode
 
@@ -519,46 +513,46 @@
 
 ### UI / Barcode
 
-*   [MultiSelectSegmentedControl (⭐299)](https://github.com/yonat/MultiSelectSegmentedControl) - UISegmentedControl remake that supports selecting multiple segments, vertical stacking, combining text and images.
+*   [MultiSelectSegmentedControl (⭐300)](https://github.com/yonat/MultiSelectSegmentedControl) - UISegmentedControl remake that supports selecting multiple segments, vertical stacking, combining text and images.
 
-## [38. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/week/README.md)
+## [37. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/week/README.md)
 
 ### Interactive learning / Single Topics
 
 *   [Learn JavaScript Online](https://learnjavascript.online) - Interactive JavaScript course with spaced repetiton flashcards app.
 
-## [39. Awesome Mobile Web Development](/content/myshov/awesome-mobile-web-development/week/README.md)
+## [38. Awesome Mobile Web Development](/content/myshov/awesome-mobile-web-development/week/README.md)
 
 ### Auditing Tools
 
 *   [Mobile-Friendly Test](https://search.google.com/test/mobile-friendly) - Tool for testing that your site is mobile-friendly.
 
-## [40. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [39. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Frameworks • Libraries • Ecosystems
 
 *   [OPENRNDR](https://openrndr.org/) \[Cross-platform] - Open source library for creative coding written in Kotlin.
 
-## [41. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [40. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Online Scanners and Sandboxes / Other Resources
 
 *   [BoomBox (⭐231)](https://github.com/nbeede/BoomBox) - Automatic deployment of Cuckoo
     Sandbox malware lab using Packer and Vagrant.
 
-## [42. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [41. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### OS Images
 
 *   [Manjaro](https://manjaro.org/download/) - Friendly, open-source Linux distribution for Raspberry Pi.
 
-## [43. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
+## [42. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
 
 ### Platforms / Other external resources
 
 *   [Nanobox (⭐1.6k)](https://github.com/nanobox-io/nanobox) - A micro-PaaS (μPaaS) for creating consistent, isolated, development environments deployable anywhere
 
-## [44. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [43. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### GUI
 
@@ -568,45 +562,39 @@
 
 *   [Build a one-on-one Android chat app using Kotlin](https://www.cometchat.com/tutorials/build-one-on-one-chat-in-your-android-app-using-kotlin/) - Build a one-one-one Android chat app in Kotlin within few minutes using CometChat Pro. This tutorial discusses the features such as login, getting list of contacts, user presence indicators, sending/receiving messages etc.
 
-## [45. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [44. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / Adapters
 
 *   [ember-local-storage (⭐218)](https://github.com/funkensturm/ember-local-storage) - The addon provides a storage for computed property that returns a proxy and persists the changes to localStorage or sessionStorage.
 
-## [46. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [45. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### I18n And L10n / Runner
 
-*   [ttag (⭐336)](https://github.com/ttag-org/ttag) - Modern javascript i18n localization library based on ES6 tagged templates and the good old GNU gettext.
+*   [ttag (⭐341)](https://github.com/ttag-org/ttag) - Modern javascript i18n localization library based on ES6 tagged templates and the good old GNU gettext.
 
-## [47. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
+## [46. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
 
 ### Browser extensions
 
 *   [Netflix Hangouts](https://netflixhangouts.com) - Watch Netflix at work by making it look like you’re on a conference call.
 
-## [48. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
+## [47. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
 ### Collection of Actions / Docker Container Actions
 
-*   [GitHub Actions for Flutter (⭐1.5k)](https://github.com/subosito/flutter-action)
+*   [GitHub Actions for Flutter (⭐2.2k)](https://github.com/subosito/flutter-action)
 
 ### Utility / Docker Container Actions
 
-*   [GitHub Actions to compile LaTeX documents (⭐746)](https://github.com/xu-cheng/latex-action)
+*   [GitHub Actions to compile LaTeX documents (⭐1.1k)](https://github.com/xu-cheng/latex-action)
 
 ### Tutorials / Terraform
 
 *   [Converting Docker-based Actions to JavaScript/TypeScript](https://httgp.com/converting-github-actions-from-docker-to-javascript/)
 
-## [49. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
-
-### Applications and Platforms / Time
-
-*   [Code Time](https://www.software.com/) - Time-tracking for VS Code, Atom, Sublime Text, and other editors
-
-## [50. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [48. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Libraries / Chrome Extensions
 

@@ -16,13 +16,13 @@
 
 ### Spreadsheets and Documents
 
-*   [CAXLSX (⭐490)](https://github.com/caxlsx/caxlsx) - A community maintained excel xlsx generation library. [AXLSX (⭐2.6k)](https://github.com/randym/axlsx) - The original.
+*   [CAXLSX (⭐508)](https://github.com/caxlsx/caxlsx) - A community maintained excel xlsx generation library. [AXLSX (⭐2.6k)](https://github.com/randym/axlsx) - The original.
 
 ## [3. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
 ### Command-Line Tools / Discovery
 
-*   [deadnix (⭐461)](https://github.com/astro/deadnix) - Scan Nix files for dead code.
+*   [deadnix (⭐531)](https://github.com/astro/deadnix) - Scan Nix files for dead code.
 
 ## [4. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -39,7 +39,7 @@
 
 ### Projects
 
-*   [Macige (⭐90)](https://github.com/tramlinehq/macige) - CI workflow generator for mobile app development, [Live Demo](https://macige.tramline.app).
+*   [Macige (⭐93)](https://github.com/tramlinehq/macige) - CI workflow generator for mobile app development, [Live Demo](https://macige.tramline.app).
 
 ## [6. Web Development Resources](/content/markodenic/web-development-resources/README.md)
 
@@ -57,7 +57,7 @@
 
 ## [8. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
-### Datasets / Book Deals (Affiliated) 🛍
+### Datasets / Book Deals (Affiliated)
 
 *   [IBB Open Portal](https://data.ibb.gov.tr/en/)
 
@@ -65,12 +65,12 @@
 
 ### Providers / Vendor supported providers
 
-*   [terraform-provider-azapi (⭐172)](https://github.com/Azure/terraform-provider-azapi) - Provider for Azure Resource Manager Rest API
-*   [terraform-provider-azuredevops (⭐376)](https://github.com/microsoft/terraform-provider-azuredevops) - Provider for Azure DevOps (VSTS).
+*   [terraform-provider-azapi (⭐194)](https://github.com/Azure/terraform-provider-azapi) - Provider for Azure Resource Manager Rest API
+*   [terraform-provider-azuredevops (⭐391)](https://github.com/microsoft/terraform-provider-azuredevops) - Provider for Azure DevOps (VSTS).
 
 ### Providers / Community providers
 
-*   [terraform-provider-terracurl (⭐126)](https://github.com/devops-rob/terraform-provider-terracurl) - Provider to make managed and unmanaged API calls to your target endpoint.
+*   [terraform-provider-terracurl (⭐134)](https://github.com/devops-rob/terraform-provider-terracurl) - Provider to make managed and unmanaged API calls to your target endpoint.
 
 ### Tools / Community providers
 

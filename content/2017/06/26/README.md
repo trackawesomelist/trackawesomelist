@@ -22,8 +22,8 @@
 
 ### Tools & Software
 
-*   [Comparison of web archiving software (⭐91)](https://github.com/archivers-space/research/tree/master/web_archiving)
-*   [Awesome Website Change Monitoring (⭐481)](https://github.com/edgi-govdata-archiving/awesome-website-change-monitoring)
+*   [Comparison of web archiving software (⭐95)](https://github.com/archivers-space/research/tree/master/web_archiving)
+*   [Awesome Website Change Monitoring (⭐500)](https://github.com/edgi-govdata-archiving/awesome-website-change-monitoring)
 
 ## [4. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
@@ -77,7 +77,7 @@
 
 *   [Keycloak Website](http://www.keycloak.org/)
 
-### Discussion Groups and Mailing Lists
+### Community, SIGs, Discussion Forums and Mailing Lists
 
 *   [Mailing List Search](http://www.keycloak.org/search)
 
@@ -107,18 +107,18 @@
 
 ### Community Extensions
 
-*   [Keyloak Proxy written in Go (⭐950)](https://github.com/gambol99/keycloak-proxy)
+*   [Keyloak Proxy written in Go (⭐948)](https://github.com/gambol99/keycloak-proxy)
 
 ### Integrations
 
 *   [Keycloak support for Aurelia (⭐4)](https://github.com/waynepennington/aurelia-keycloak)
-*   [Keycloak OAuth2 Auth for PHP (⭐203)](https://github.com/stevenmaguire/oauth2-keycloak)
-*   [Jenkins Keycloak Authentication Plugin (⭐34)](https://github.com/jenkinsci/keycloak-plugin)
+*   [Keycloak OAuth2 Auth for PHP (⭐210)](https://github.com/stevenmaguire/oauth2-keycloak)
+*   [Jenkins Keycloak Authentication Plugin (⭐37)](https://github.com/jenkinsci/keycloak-plugin)
 
 ### Themes
 
 *   [Community Keycloak Ionic Theme (⭐21)](https://github.com/lfryc/keycloak-ionic-theme)
-*   [A Keycloak theme based on the AdminLTE UI library (⭐90)](https://github.com/MAXIMUS-DeltaWare/adminlte-keycloak-theme)
+*   [A Keycloak theme based on the AdminLTE UI library (⭐93)](https://github.com/MAXIMUS-DeltaWare/adminlte-keycloak-theme)
 
 ### Docker
 
@@ -127,11 +127,11 @@
 
 ### Example Projects
 
-*   [Official Examples (⭐21k)](https://github.com/keycloak/keycloak/tree/master/examples)
-*   [Keycloak Quickstarts (⭐1.9k)](https://github.com/keycloak/keycloak-quickstarts)
+*   [Official Examples (⭐25k)](https://github.com/keycloak/keycloak/tree/master/examples)
+*   [Keycloak Quickstarts (⭐2k)](https://github.com/keycloak/keycloak-quickstarts)
 *   [Drupal 7.0 with Keycloak](https://gist.github.com/thomasdarimont/17fa146c4fb5440d7fc2ee6322ec392d)
 *   [Securing Realm Resources With Custom Roles (⭐14)](https://github.com/dteleguin/custom-admin-roles)
-*   [BeerCloak: a comprehensive KeyCloak extension example (⭐133)](https://github.com/dteleguin/beercloak)
+*   [BeerCloak: a comprehensive KeyCloak extension example (⭐137)](https://github.com/dteleguin/beercloak)
 *   [KeyCloak Extensions: Securing Realm Resources With Custom Roles (⭐14)](https://github.com/dteleguin/custom-admin-roles)
 
 ### Benchmarks

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 25, 2018
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -24,14 +24,7 @@
 
 *   [Language switcher for Craft 3](https://www.thebasement.be/language-switcher-for-craft-3/) by Jan D'Hollander - `25 July 2018`
 
-## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / UI Components
-
-*   [vue2-image-loader (⭐6)](https://github.com/leepyng/vue2-image-loader) - A image lazyLoad loader component for vue2
-*   [vue-autonumeric (⭐90)](https://github.com/autoNumeric/vue-autoNumeric) - A Vue.js component that wraps the awesome [AutoNumeric](http://autonumeric.org/) input formatter library
-
-## [5. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
+## [4. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
 ### Security monitoring / Service and performance monitoring
 
@@ -39,7 +32,7 @@
 *   [Nagios](https://nagios.org) - Popular network and service monitoring solution and reporting platform.
 *   [OpenNMS](https://opennms.org/) - Free and feature-rich networking monitoring system supporting multiple configurations, a variety of alerting mechanisms (email, XMPP, SMS), and numerous data collection methods (SNMP, HTTP, JDBC, etc).
 
-## [6. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+## [5. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
 ### Companies / M companies
 
@@ -49,25 +42,24 @@
 
 *   Daniel Schmidt <https://medium.com/@dschmidt1992>
 
-## [7. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
+## [6. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
 
 ### Plotter Art For Sale / Patents
 
-*   [Monica Rizzolli](https://www.saatchiart.com/account/artworks/155196)
 *   [EmergentDesign](https://emergentdesign.bigcartel.com/products)
 
 ### Other Awesomes / Patents
 
 *   [awesome-generative-art (⭐1.7k)](https://github.com/kosmos/awesome-generative-art)
-*   [awesome-creative-coding (⭐12k)](https://github.com/terkelg/awesome-creative-coding)
+*   [awesome-creative-coding (⭐13k)](https://github.com/terkelg/awesome-creative-coding)
 
-## [8. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [7. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### CLI Utils
 
 *   [cride (⭐50)](https://github.com/j8r/cride) - A light CLI text editor/IDE
 
-## [9. Tips](/content/git-tips/tips/README.md)
+## [8. Tips](/content/git-tips/tips/README.md)
 
 ## Use SSH instead of HTTPs for remotes
 
@@ -75,13 +67,13 @@
 git config --global url.'git@github.com:'.insteadOf 'https://github.com/'
 ```
 
-## [10. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
+## [9. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
 
 ### Programming Editors and IDEs / Others
 
 *   [PythonTutor](http://pythontutor.com/visualize.html#mode=edit) - Visualize Python, Java, JavaScript, TypeScript, Ruby, C, and C++ code execution in your Web browser.
 
-## [11. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [10. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
@@ -111,7 +103,7 @@ git config --global url.'git@github.com:'.insteadOf 'https://github.com/'
 
 *   [OpenCQRS (⭐3)](https://github.com/OpenCQRS/OpenCQRS) - .NET Core library for DDD, CQRS and Event Sourcing with Azure Service Bus integration. Supported database providers for the Command and the Event stores are: DocumentDB, MongoDB, SQL Server, MySQL, PostgreSQL and SQLite.
 
-## [12. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
+## [11. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 
 ### Learning
 

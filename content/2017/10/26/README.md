@@ -16,10 +16,6 @@
 
 ### Books
 
-*   [Remote: Office Not Required](https://37signals.com/remote).
-    by Jason Fried and David Heinemeier Hansson (37signals), 2013.
-*   [The Ultimate Guide to Remote Work](https://zapier.com/learn/remote-work/).
-    by Wade Foster (Zapier), 2015.
 *   [The Year Without Pants: WordPress.com and the Future of Work](https://scottberkun.com/yearwithoutpants/).
     by Scott Berkun, 2013.
 
@@ -33,7 +29,7 @@
 
 ### Object to object mapping
 
-*   [AgileMapper (⭐457)](https://github.com/agileobjects/AgileMapper) - A zero-configuration Object-Object mapper supporting .NET Standard 1.0
+*   [AgileMapper (⭐460)](https://github.com/agileobjects/AgileMapper) - A zero-configuration Object-Object mapper supporting .NET Standard 1.0
 
 ## [5. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 

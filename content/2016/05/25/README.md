@@ -119,46 +119,46 @@
 
 ### C / Git
 
-*   [RHash (⭐556)](https://github.com/rhash/RHash) - Great utility for computing hash sums.
-*   [tiny-AES128-C (⭐4.1k)](https://github.com/kokke/tiny-AES128-C) - Small portable AES128 in C.
-*   [xxHash (⭐8.7k)](https://github.com/Cyan4973/xxHash) - Extremely fast hash algorithm.
+*   [RHash (⭐578)](https://github.com/rhash/RHash) - Great utility for computing hash sums.
+*   [tiny-AES128-C (⭐4.2k)](https://github.com/kokke/tiny-AES128-C) - Small portable AES128 in C.
+*   [xxHash (⭐9.1k)](https://github.com/Cyan4973/xxHash) - Extremely fast hash algorithm.
 
 ### C-sharp / Git
 
 *   [Bouncy Castle](https://bouncycastle.org/csharp/index.html) - All-purpose cryptographic library.
-*   [StreamCryptor (⭐130)](https://github.com/bitbeans/StreamCryptor) - Stream encryption & decryption with libsodium and protobuf.
+*   [StreamCryptor (⭐131)](https://github.com/bitbeans/StreamCryptor) - Stream encryption & decryption with libsodium and protobuf.
 
 ### Clojure / Git
 
 *   [buddy-core](https://funcool.github.io/buddy-core/latest/) - Cryptographic Api.
-*   [pandect (⭐219)](https://github.com/xsc/pandect) - Fast and easy-to-use Message Digest, Checksum and HMAC library for Clojure.
+*   [pandect (⭐222)](https://github.com/xsc/pandect) - Fast and easy-to-use Message Digest, Checksum and HMAC library for Clojure.
 
 ### Common Lisp / Git
 
-*   [crypto-shortcuts (⭐20)](https://github.com/Shinmera/crypto-shortcuts) - Collection of common cryptography functions.
+*   [crypto-shortcuts (⭐21)](https://github.com/Shinmera/crypto-shortcuts) - Collection of common cryptography functions.
 *   [ironclad](http://method-combination.net/lisp/ironclad/) - Collection of common crypto shortcuts.
 
 ### Delphi / Git
 
-*   [DelphiEncryptionCompendium (⭐248)](https://github.com/winkelsdorf/DelphiEncryptionCompendium/releases) - Cryptographic library for Delphi.
+*   [DelphiEncryptionCompendium (⭐255)](https://github.com/winkelsdorf/DelphiEncryptionCompendium/releases) - Cryptographic library for Delphi.
 *   [LockBox](https://sourceforge.net/projects/tplockbox/) - LockBox 3 is a Delphi library for cryptography.
-*   [SynCrypto (⭐780)](https://github.com/synopse/mORMot/blob/master/SynCrypto.pas) - Fast cryptographic routines (hashing and cypher), implementing AES, XOR, RC4, ADLER32, MD5, SHA1, SHA256 algorithms, optimized for speed.
+*   [SynCrypto (⭐787)](https://github.com/synopse/mORMot/blob/master/SynCrypto.pas) - Fast cryptographic routines (hashing and cypher), implementing AES, XOR, RC4, ADLER32, MD5, SHA1, SHA256 algorithms, optimized for speed.
 *   [TForge](https://bitbucket.org/sergworks/tforge) - TForge is open-source crypto library written in Delphi, compatible with FPC.
 
 ### Elixir / Git
 
-*   [cipher (⭐60)](https://github.com/rubencaro/cipher) - Elixir crypto library to encrypt/decrypt arbitrary binaries.
-*   [cloak (⭐546)](https://github.com/danielberkompas/cloak) - Cloak makes it easy to use encryption with Ecto.
+*   [cipher (⭐61)](https://github.com/rubencaro/cipher) - Elixir crypto library to encrypt/decrypt arbitrary binaries.
+*   [cloak (⭐575)](https://github.com/danielberkompas/cloak) - Cloak makes it easy to use encryption with Ecto.
 *   [comeonin (⭐1.3k)](https://github.com/elixircnx/comeonin) - Password authorization (bcrypt) library for Elixir.
-*   [elixir\_tea (⭐2)](https://github.com/keichan34/elixir_tea) - TEA implementation in Elixir.
-*   [exgpg (⭐18)](https://github.com/rozap/exgpg) - Use gpg from Elixir.
-*   [pot (⭐235)](https://github.com/yuce/pot) - Erlang library for generating one time passwords compatible with Google Authenticator.
-*   [siphash-elixir (⭐18)](https://github.com/zackehh/siphash-elixir) - Elixir implementation of the SipHash hash family.
+*   [elixir\_tea (⭐3)](https://github.com/keichan34/elixir_tea) - TEA implementation in Elixir.
+*   [exgpg (⭐19)](https://github.com/rozap/exgpg) - Use gpg from Elixir.
+*   [pot (⭐237)](https://github.com/yuce/pot) - Erlang library for generating one time passwords compatible with Google Authenticator.
+*   [siphash-elixir (⭐19)](https://github.com/zackehh/siphash-elixir) - Elixir implementation of the SipHash hash family.
 
 ### Go / Git
 
 *   [crypto](https://golang.org/pkg/crypto/) - Official Website Resources.
-*   [gocrypto (⭐151)](https://github.com/kisom/gocrypto) - Example source code for the Practical Crypto with Go book.
+*   [gocrypto (⭐153)](https://github.com/kisom/gocrypto) - Example source code for the Practical Crypto with Go book.
 
 ### Haskell / Git
 
@@ -176,7 +176,7 @@
 
 ### Lua / Git
 
-*   [LuaCrypto (⭐95)](https://github.com/mkottman/luacrypto) - Lua bindings to OpenSSL.
+*   [LuaCrypto (⭐98)](https://github.com/mkottman/luacrypto) - Lua bindings to OpenSSL.
 
 ### Objective-C / Git
 
@@ -185,26 +185,26 @@
 
 ### PHP / Git
 
-*   [TCrypto (⭐60)](https://github.com/timoh6/TCrypto) - TCrypto is a simple and flexible PHP 5.3+ in-memory key-value storage library.
+*   [TCrypto (⭐61)](https://github.com/timoh6/TCrypto) - TCrypto is a simple and flexible PHP 5.3+ in-memory key-value storage library.
 
 ### Python / Git
 
 *   [hashids (⭐1.4k)](https://github.com/davidaurelio/hashids-python) - Implementation of [hashids](http://hashids.org) in Python.
-*   [pynacl (⭐1k)](https://github.com/pyca/pynacl) - Python binding to the Networking and Cryptography (NaCl) library.
+*   [pynacl (⭐1.1k)](https://github.com/pyca/pynacl) - Python binding to the Networking and Cryptography (NaCl) library.
 
 ### Ruby / Git
 
-*   [RbNaCl (⭐981)](https://github.com/cryptosphere/rbnacl) - Ruby binding to the Networking and Cryptography (NaCl) library.
+*   [RbNaCl (⭐984)](https://github.com/cryptosphere/rbnacl) - Ruby binding to the Networking and Cryptography (NaCl) library.
 
 ### Rust / Git
 
-*   [cryptoballot (⭐219)](https://github.com/cryptoballot/cryptoballot) - Cryptographically secure online voting.
-*   [octavo (⭐140)](https://github.com/libOctavo/octavo) - Highly modular & configurable hash & crypto library.
-*   [ring (⭐3.6k)](https://github.com/briansmith/ring) - Safe, fast, small crypto using Rust & BoringSSL's cryptography primitives.
-*   [rust-openssl (⭐1.3k)](https://github.com/sfackler/rust-openssl) - OpenSSL bindings for Rust.
-*   [sodiumoxide (⭐639)](https://github.com/dnaq/sodiumoxide) - Sodium Oxide: Fast cryptographic library for Rust (bindings to libsodium).
-*   [suruga (⭐124)](https://github.com/klutzy/suruga) - TLS 1.2 implementation in Rust.
-*   [webpki (⭐456)](https://github.com/briansmith/webpki) - Web PKI TLS X.509 certificate validation in Rust.
+*   [cryptoballot (⭐221)](https://github.com/cryptoballot/cryptoballot) - Cryptographically secure online voting.
+*   [octavo (⭐141)](https://github.com/libOctavo/octavo) - Highly modular & configurable hash & crypto library.
+*   [ring (⭐3.7k)](https://github.com/briansmith/ring) - Safe, fast, small crypto using Rust & BoringSSL's cryptography primitives.
+*   [rust-openssl (⭐1.4k)](https://github.com/sfackler/rust-openssl) - OpenSSL bindings for Rust.
+*   [sodiumoxide (⭐641)](https://github.com/dnaq/sodiumoxide) - Sodium Oxide: Fast cryptographic library for Rust (bindings to libsodium).
+*   [suruga (⭐125)](https://github.com/klutzy/suruga) - TLS 1.2 implementation in Rust.
+*   [webpki (⭐462)](https://github.com/briansmith/webpki) - Web PKI TLS X.509 certificate validation in Rust.
 
 ### Swift / Git
 
@@ -242,38 +242,38 @@
 
 - Name: Algorithms
 
-  Link: [tayllan/awesome-algorithms (⭐19k)](https://github.com/tayllan/awesome-algorithms)
+  Link: [tayllan/awesome-algorithms (⭐21k)](https://github.com/tayllan/awesome-algorithms)
 
 
 - Name: Algorithm Visualization
 
-  Link: [enjalot/algovis (⭐1.6k)](https://github.com/enjalot/algovis)
+  Link: [enjalot/algovis (⭐1.7k)](https://github.com/enjalot/algovis)
 
 
 - Name: Math
 
-  Link: [rossant/awesome-math (⭐8.4k)](https://github.com/rossant/awesome-math)
+  Link: [rossant/awesome-math (⭐8.9k)](https://github.com/rossant/awesome-math)
 
 
 - Name: C++
 
-  Link: [fffaraz/awesome-cpp (⭐57k)](https://github.com/fffaraz/awesome-cpp)
+  Link: [fffaraz/awesome-cpp (⭐60k)](https://github.com/fffaraz/awesome-cpp)
 
 
 - Name: Java
 
-  Link: [akullpp/awesome-java (⭐41k)](https://github.com/akullpp/awesome-java)
+  Link: [akullpp/awesome-java (⭐42k)](https://github.com/akullpp/awesome-java)
 
 
 - Name: Courses
 
-  Link: [prakhar1989/awesome-courses (⭐55k)](https://github.com/prakhar1989/awesome-courses)
+  Link: [prakhar1989/awesome-courses (⭐58k)](https://github.com/prakhar1989/awesome-courses)
 
 
 
 ### Other Awesome Resources / Interview Questions
 
-- Name: [Awesome Interviews (⭐69k)](https://github.com/MaximAbramchuck/awesome-interview-questions)
+- Name: [Awesome Interviews (⭐72k)](https://github.com/MaximAbramchuck/awesome-interview-questions)
 
   Description: A curated list of awesome interview questions
 

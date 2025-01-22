@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 24, 2021
 
-14 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -115,23 +115,23 @@
 
 ### Starters/Boilerplates / Other external resources
 
-*   [default\_rails\_template (⭐28)](https://github.com/infinum/default_rails_template) - Default template for generating new Rails applications.
-*   [docker-Rails-Template (⭐131)](https://github.com/Ruby-Starter-Kits/Docker-Rails-Template) - A freshly updated version of "rails new", preconfigured to be run with Docker.
+*   [default\_rails\_template (⭐29)](https://github.com/infinum/default_rails_template) - Default template for generating new Rails applications.
+*   [docker-Rails-Template (⭐133)](https://github.com/Ruby-Starter-Kits/Docker-Rails-Template) - A freshly updated version of "rails new", preconfigured to be run with Docker.
 *   [docker-rails (⭐1.1k)](https://github.com/ledermann/docker-rails)
 *   [jumpstart(excid3) (⭐1.2k)](https://github.com/excid3/jumpstart) - Easily jumpstart a new Rails application with a bunch of great features by default.
-*   [jumpstart(thomasvanholder) (⭐21)](https://github.com/thomasvanholder/jumpstart) - Template for set-up of Rails 6, Tailwind 2.0 and Devise.
-*   [kickoff\_tailwind (⭐568)](https://github.com/justalever/kickoff_tailwind) - A rapid Rails 6 application template for personal use bundled with Tailwind CSS.
-*   [rails-devise-graphql (⭐285)](https://github.com/zauberware/rails-devise-graphql) - A Rails 6 boilerplate to create your next Saas product. Preloaded with graphQL, devise, JWT, CanCanCan, RailsAdmin, Rubocop, Rspec, and more.
+*   [jumpstart(thomasvanholder) (⭐20)](https://github.com/thomasvanholder/jumpstart) - Template for set-up of Rails 6, Tailwind 2.0 and Devise.
+*   [kickoff\_tailwind (⭐576)](https://github.com/justalever/kickoff_tailwind) - A rapid Rails 6 application template for personal use bundled with Tailwind CSS.
+*   [rails-devise-graphql (⭐286)](https://github.com/zauberware/rails-devise-graphql) - A Rails 6 boilerplate to create your next Saas product. Preloaded with graphQL, devise, JWT, CanCanCan, RailsAdmin, Rubocop, Rspec, and more.
 *   [rails-template(mattbrictson) (⭐1.1k)](https://github.com/mattbrictson/rails-template) - Application template for Rails 6 projects; preloaded with best practices for TDD, security, deployment, and developer productivity.
 *   [rails-template(TristanToye) (⭐34)](https://github.com/TristanToye/rails-template) - MVP Ready Rails - A Template for Your Next Rails App
-*   [rails-template(ackama) (⭐277)](https://github.com/ackama/rails-template) - Application template for Rails 6.1 projects; preloaded with best practices for TDD, security, deployment, and developer productivity.
+*   [rails-template(ackama) (⭐312)](https://github.com/ackama/rails-template) - Application template for Rails 6.1 projects; preloaded with best practices for TDD, security, deployment, and developer productivity.
 *   [rails-template(astrocket) (⭐78)](https://github.com/astrocket/rails-template) - Template for Rails 6.0 + Kubernetes + Webpacker + Stimulus + TailwindCSS + Let's Encrypt.
 *   [rails-template(dao42) (⭐381)](https://github.com/dao42/rails-template) - A best & newest & fastest rails 6.x template for senior rails developer.
-*   [rails-templates(lewagon) (⭐654)](https://github.com/lewagon/rails-templates) - Jump start your Rails development with Le Wagon best practices.
-*   [rails-templates(nimblehq) (⭐101)](https://github.com/nimblehq/rails-templates) - Our optimized Rails templates used in our projects.
+*   [rails-templates(lewagon) (⭐662)](https://github.com/lewagon/rails-templates) - Jump start your Rails development with Le Wagon best practices.
+*   [rails-templates(nimblehq) (⭐103)](https://github.com/nimblehq/rails-templates) - Our optimized Rails templates used in our projects.
 *   [rails-vue-template (⭐23)](https://github.com/scottrobertson/rails-vue-template) - An example of how to use VueJS as a single page application inside Rails using Webpacker.
 *   [suspenders (⭐4k)](https://github.com/thoughtbot/suspenders) - A Rails template with our standard defaults, ready to deploy to Heroku.
-*   [vuejs-rails-starterkit (⭐218)](https://github.com/jetthoughts/vuejs-rails-starterkit) - Vue.js + Rails Starting Kit GitHub Template to develop Hybrid Mobile Application.
+*   [vuejs-rails-starterkit (⭐219)](https://github.com/jetthoughts/vuejs-rails-starterkit) - Vue.js + Rails Starting Kit GitHub Template to develop Hybrid Mobile Application.
 
 ## [7. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 
@@ -149,7 +149,7 @@
 
 ### Software / Calendar & Contacts
 
-*   [Etebase (EteSync)](https://www.etebase.com/) - End-to-end encrypted and journaled personal information server supporting calendar and contact data, offering its own clients. ([Source Code (⭐1.5k)](https://github.com/etesync/server)) `AGPL-3.0` `Python/Django`
+*   [Etebase (EteSync)](https://www.etebase.com/) - End-to-end encrypted and journaled personal information server supporting calendar and contact data, offering its own clients. ([Source Code (⭐1.6k)](https://github.com/etesync/server)) `AGPL-3.0` `Python/Django`
 
 ## [10. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
@@ -163,19 +163,13 @@
 
 *   [drf-openapi-tester (⭐118)](https://github.com/snok/drf-openapi-tester) - Django test utility for validating Swagger 2.0 and OpenAPI 3.0 documentation.
 
-## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [12. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
-### Components & Libraries / Frameworks
-
-*   [Mijin (⭐203)](https://github.com/lecoueyl/mijin) - Responsive Tailwind CSS UI components, without dependencies
-
-## [13. Awesome Datascience](/content/academic/awesome-datascience/README.md)
-
-### Bloggers / Book Deals (Affiliated) 🛍
+### Bloggers / Book Deals (Affiliated)
 
 *   [nbshare](https://www.nbshare.io/notebooks/data-science/) - Data Science notebooks
 
-## [14. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [13. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Source Code Repos
 

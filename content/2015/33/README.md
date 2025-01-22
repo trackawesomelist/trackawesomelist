@@ -198,7 +198,7 @@
 
 ### Framework Components
 
-*   [phoenix\_html\_sanitizer (⭐27)](https://github.com/elixirstatus/phoenix_html_sanitizer) - HTML Sanitizer integration for Phoenix.
+*   [phoenix\_html\_sanitizer (⭐28)](https://github.com/elixirstatus/phoenix_html_sanitizer) - HTML Sanitizer integration for Phoenix.
 
 ### Text and Numbers
 
@@ -310,7 +310,7 @@
 
 ### SDK and API Clients
 
-*   [Azure PowerShell (⭐4.2k)](https://github.com/Azure/azure-powershell) - A set of PowerShell cmdlets for developers and administrators to develop, deploy and manage Microsoft Azure applications
+*   [Azure PowerShell (⭐4.3k)](https://github.com/Azure/azure-powershell) - A set of PowerShell cmdlets for developers and administrators to develop, deploy and manage Microsoft Azure applications
 
 ## [13. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
@@ -418,29 +418,25 @@
 
 ### Software for Creating APIs
 
-*   [OneBusAway](http://onebusaway.org/) - A Java app that consumes GTFS and GTFS-Realtime (along with [other formats (⭐200)](https://github.com/OneBusAway/onebusaway-application-modules/wiki/Real-Time-Data-Configuration-Guide)) and turns them into an easy to use [REST API](http://developer.onebusaway.org/modules/onebusaway-application-modules/current/api/where/index.html).
+*   [OneBusAway](http://onebusaway.org/) - A Java app that consumes GTFS and GTFS-Realtime (along with [other formats (⭐217)](https://github.com/OneBusAway/onebusaway-application-modules/wiki/Real-Time-Data-Configuration-Guide)) and turns them into an easy to use REST API.
 
 ### Web Apps (open source)
 
 *   [Instabus](http://instabus.org) - Realtime map of Austin's (CapMetro) public transit. Has no server/backend dependency at all and runs completely on GitHub pages.
-*   [OpenTripPlanner Client GWT (⭐9)](https://github.com/mecatran/OpenTripPlanner-client-gwt) - A Google Web Toolkit-based web interface for OpenTripPlanner
+*   [OpenTripPlanner Client GWT (⭐11)](https://github.com/mecatran/OpenTripPlanner-client-gwt) - A Google Web Toolkit-based web interface for OpenTripPlanner
 *   [HRT BUS Web app (⭐17)](https://github.com/Code4HR/hrt-bus-api) - HRT Bus API publishes real time bus data from Hampton Roads Transit through an application programming interface for developers to make apps from it.
-*   [Transit-Map (⭐356)](https://github.com/vasile/transit-map) - Web app that animates vehicles (markers) on a map using the public transport timetables to interpolate their positions along the routes (polylines).
+*   [Transit-Map (⭐361)](https://github.com/vasile/transit-map) - Web app that animates vehicles (markers) on a map using the public transport timetables to interpolate their positions along the routes (polylines).
 
 ### GTFS Realtime Libraries & Demo Apps / Ruby
 
 *   [GTFS-realtime Alerts Producer Web Application (⭐1)](https://github.com/OneBusAway/onebusaway-service-alerts) - A Java-based web application for producing GTFS-realtime Service Alerts.
-*   [GTFS-realtime Exporter (⭐15)](https://github.com/OneBusAway/onebusaway-gtfs-realtime-exporter/wiki) - A Java-based tool that assists in producing and sharing a GTFS-relatime feed.
+*   [GTFS-realtime Exporter (⭐17)](https://github.com/OneBusAway/onebusaway-gtfs-realtime-exporter/wiki) - A Java-based tool that assists in producing and sharing a GTFS-relatime feed.
 *   [GTFS-realtime Alerts Producer Demo (⭐8)](https://github.com/OneBusAway/onebusaway-gtfs-realtime-alerts-producer-demo/wiki) - A Java-based demo project for producing GTFS-realtime Service Alerts.
-*   [GTFS-realtime TripUpdates & VehiclePositions Producer Demo (⭐10)](https://github.com/OneBusAway/onebusaway-gtfs-realtime-trip-updates-producer-demo/wiki) - A Java-based demo project for producing GTFS-realtime TripUpdates (estimated arrivals) and Vehicle Positions.
+*   [GTFS-realtime TripUpdates & VehiclePositions Producer Demo (⭐11)](https://github.com/OneBusAway/onebusaway-gtfs-realtime-trip-updates-producer-demo/wiki) - A Java-based demo project for producing GTFS-realtime TripUpdates (estimated arrivals) and Vehicle Positions.
 
 ### GTFS Libraries / Java
 
-*   [OneBusAway GTFS Modules (⭐122)](https://github.com/OneBusAway/onebusaway-gtfs-modules/wiki) - A Java-based library for reading, writing, and transforming public transit data in the GTFS format, including database support.
-
-### GTFS Converters / Ruby
-
-*   [Chouette](http://www.chouette.mobi/) - Converts French-Transmodel, SIRI, NETeX. See Chouette.mobi website for more info.
+*   [OneBusAway GTFS Modules (⭐131)](https://github.com/OneBusAway/onebusaway-gtfs-modules/wiki) - A Java-based library for reading, writing, and transforming public transit data in the GTFS format, including database support.
 
 ### GTFS Realtime Convertors / Ruby
 
@@ -531,13 +527,13 @@
 
 ### Physics
 
-*   [Box2D (⭐8k)](https://github.com/erincatto/Box2D) - A 2D physics engine for games. \[BSD-like]
+*   [Box2D (⭐8.5k)](https://github.com/erincatto/Box2D) - A 2D physics engine for games. \[BSD-like]
 
 ## [21. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### MVC Frameworks and Libraries / Runner
 
-*   [react-native (⭐117k)](https://github.com/facebook/react-native) - A framework for building native apps with React.
+*   [react-native (⭐118k)](https://github.com/facebook/react-native) - A framework for building native apps with React.
 
 ## [22. Awesome Canvas](/content/raphamorim/awesome-canvas/week/README.md)
 
@@ -688,9 +684,9 @@ git cherry -v master <branch-to-be-merged>
 
 ### More Awesome Lists
 
-*   [Awesome (⭐312k)](https://github.com/sindresorhus/awesome) *(The OG List)*
-*   [WPO (⭐8.3k)](https://github.com/davidsonfellipe/awesome-wpo) *(Web Performance Optimization)*
-*   [Shell (⭐32k)](https://github.com/alebcay/awesome-shell) *(CLI Frameworks, Toolkits and Guides)*
+*   [Awesome (⭐337k)](https://github.com/sindresorhus/awesome) *(The OG List)*
+*   [WPO (⭐8.4k)](https://github.com/davidsonfellipe/awesome-wpo) *(Web Performance Optimization)*
+*   [Shell (⭐33k)](https://github.com/alebcay/awesome-shell) *(CLI Frameworks, Toolkits and Guides)*
 
 ## [28. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 

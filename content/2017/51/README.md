@@ -10,7 +10,7 @@
 
 ### Machine Learning
 
-*   [shainet (⭐181)](https://github.com/NeuraLegion/shainet) - SHAInet (Neural Network in pure crystal)
+*   [shainet (⭐184)](https://github.com/NeuraLegion/shainet) - SHAInet (Neural Network in pure crystal)
 
 ## [2. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
 
@@ -45,7 +45,7 @@
 
 ### UI / Barcode
 
-*   [CountryPickerView (⭐498)](https://github.com/kizitonwose/CountryPickerView) - A simple, customizable view for efficiently collecting country information in iOS apps.
+*   [CountryPickerView (⭐505)](https://github.com/kizitonwose/CountryPickerView) - A simple, customizable view for efficiently collecting country information in iOS apps.
 
 ## [7. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
 
@@ -58,11 +58,11 @@
 
 ### Optimization / Others
 
-*   [Bayesian Optimization (⭐7.5k)](https://github.com/fmfn/BayesianOptimization) - A Python implementation of global optimization with gaussian processes.
+*   [Bayesian Optimization (⭐7.8k)](https://github.com/fmfn/BayesianOptimization) - A Python implementation of global optimization with gaussian processes.
 
 ### Statistics / NLP
 
-*   [stockstats (⭐1.2k)](https://github.com/jealous/stockstats) - Supply a wrapper `StockDataFrame` based on the `pandas.DataFrame` with inline stock statistics/indicators support.
+*   [stockstats (⭐1.3k)](https://github.com/jealous/stockstats) - Supply a wrapper `StockDataFrame` based on the `pandas.DataFrame` with inline stock statistics/indicators support.
 
 ## [9. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
 
@@ -118,7 +118,7 @@
 
 ### CSharp / Data Visualization
 
-*   [QuantConnect (⭐9.3k)](https://github.com/QuantConnect/Lean) - Lean Engine is an open-source fully managed C# algorithmic trading engine built for desktop and cloud usage.
+*   [QuantConnect (⭐10k)](https://github.com/QuantConnect/Lean) - Lean Engine is an open-source fully managed C# algorithmic trading engine built for desktop and cloud usage.
 
 ## [17. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
@@ -232,9 +232,9 @@
 
 ## [23. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
-### Tools and frameworks
+### Tools and frameworks (a-z↓)
 
-*   [Chimp (⭐797)](https://github.com/xolvio/chimp) - Develop acceptance tests & end-to-end tests with realtime feedback.
+*   [Chimp (⭐799)](https://github.com/xolvio/chimp) - Develop acceptance tests & end-to-end tests with realtime feedback.
 
 ## [24. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
@@ -338,18 +338,18 @@
 
 ### Go / Natural Language Processing
 
-*   [sentences (⭐435)](https://github.com/neurosnap/sentences) - Golang implementation of Punkt sentence tokenizer.
+*   [sentences (⭐441)](https://github.com/neurosnap/sentences) - Golang implementation of Punkt sentence tokenizer.
 
 ## [33. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Video
 
-*   [Vireo (⭐929)](https://github.com/twitter/vireo/) - A lightweight and versatile video processing library by Twitter. \[MIT]
+*   [Vireo (⭐938)](https://github.com/twitter/vireo/) - A lightweight and versatile video processing library by Twitter. \[MIT]
 
 ### Articles
 
-*   [C++Now 2017 Presentations (⭐484)](https://github.com/boostcon/cppnow_presentations_2017) - Presentation materials presented at C++Now 2017.
-*   [C++Now 2016 Presentations (⭐81)](https://github.com/boostcon/cppnow_presentations_2016) - Presentation materials presented at C++Now 2016.
+*   [C++Now 2017 Presentations (⭐491)](https://github.com/boostcon/cppnow_presentations_2017) - Presentation materials presented at C++Now 2017.
+*   [C++Now 2016 Presentations (⭐83)](https://github.com/boostcon/cppnow_presentations_2016) - Presentation materials presented at C++Now 2016.
 
 ---
 

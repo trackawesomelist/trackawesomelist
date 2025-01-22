@@ -16,7 +16,7 @@
 
 ### Contents / Language bindings
 
-*   Common Lisp: [Postmodern (⭐394)](https://github.com/marijnh/Postmodern)
+*   Common Lisp: [Postmodern (⭐395)](https://github.com/marijnh/Postmodern)
 *   Elixir: [postgrex (⭐1.1k)](https://github.com/elixir-ecto/postgrex)
 *   Rust: [rust-postgresql (⭐3.4k)](https://github.com/sfackler/rust-postgres), [pgx (⭐3.5k)](https://github.com/tcdi/pgx)
 
@@ -70,7 +70,7 @@
 
 ### Learn to Learn
 
-*   [Understanding Mathematics (⭐1k)](https://github.com/nelson-brochado/understanding-math)
+*   [Understanding Mathematics (⭐1.1k)](https://github.com/nelson-brochado/understanding-math)
 
 ## [8. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/README.md)
 
@@ -89,7 +89,7 @@
 
 ### Related projects / Syntax highlighting packages
 
-*   [fpgaboy (⭐88)](https://github.com/trun/fpgaboy) - Implementation Nintendo's Game Boy console on an FPGA.
+*   [fpgaboy (⭐95)](https://github.com/trun/fpgaboy) - Implementation Nintendo's Game Boy console on an FPGA.
 
 ## [10. Awesome Design](/content/gztchan/awesome-design/README.md)
 

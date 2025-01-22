@@ -38,16 +38,16 @@
 
 ### Projects / Package and Build Management
 
-*   [coq-community Templates (⭐12)](https://github.com/coq-community/templates) - Templates for generating configuration files for Coq projects.
+*   [coq-community Templates (⭐13)](https://github.com/coq-community/templates) - Templates for generating configuration files for Coq projects.
 *   [Docker-Coq GitHub Action](https://github.com/marketplace/actions/docker-coq-action) - GitHub container action that can be used with Docker-Coq or Docker-MathComp.
 
 ### Projects / Tools
 
-*   [Alectryon (⭐226)](https://github.com/cpitclaudel/alectryon) - Collection of tools for writing technical documents that mix Coq code and prose.
+*   [Alectryon (⭐246)](https://github.com/cpitclaudel/alectryon) - Collection of tools for writing technical documents that mix Coq code and prose.
 
 ### Projects / Verified Software
 
-*   [Ceramist (⭐122)](https://github.com/certichain/ceramist) - Verified hash-based approximate membership structures such as Bloom filters.
+*   [Ceramist (⭐121)](https://github.com/certichain/ceramist) - Verified hash-based approximate membership structures such as Bloom filters.
 
 ### Resources / Tutorials and Hints
 
@@ -67,7 +67,7 @@
 
   CORS: Yes
 
-  Postman: 
+  : 
 
 
 
@@ -81,7 +81,7 @@
 
 ### Community Extensions
 
-*   [Keycloak Kafka Module (⭐88)](https://github.com/SnuK87/keycloak-kafka)
+*   [Keycloak Kafka Module (⭐104)](https://github.com/SnuK87/keycloak-kafka)
 
 ## [8. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/README.md)
 
@@ -97,8 +97,8 @@
 
 ### Applications / Blockchain
 
-*   [Bitcoin Satoshi's Vision (⭐61)](https://github.com/brentongunning/rust-sv) \[[sv](https://crates.io/crates/sv)] - A library for working with Bitcoin SV.
-*   [hdwallet (⭐33)](https://github.com/jjyr/hdwallet) \[[hdwallet](https://crates.io/crates/hdwallet)] - BIP-32 HD wallet related key derivation utilities.
+*   [Bitcoin Satoshi's Vision (⭐60)](https://github.com/brentongunning/rust-sv) \[[sv](https://crates.io/crates/sv)] - A library for working with Bitcoin SV.
+*   [hdwallet (⭐34)](https://github.com/jjyr/hdwallet) \[[hdwallet](https://crates.io/crates/hdwallet)] - BIP-32 HD wallet related key derivation utilities.
 *   [infincia/bip39-rs (⭐54)](https://github.com/infincia/bip39-rs) \[[bip39](https://crates.io/crates/bip39)] - Implementation of BIP39.
 
 ### Applications / Database
@@ -107,20 +107,20 @@
 
 ### Applications / System tools
 
-*   [buster/rrun (⭐113)](https://github.com/buster/rrun) - A command launcher for Linux, similar to gmrun
+*   [buster/rrun (⭐112)](https://github.com/buster/rrun) - A command launcher for Linux, similar to gmrun
 
 ### Applications / Text processing
 
-*   [whitfin/bytelines (⭐59)](https://github.com/whitfin/bytelines) \[[bytelines](https://crates.io/crates/bytelines)] - Read input lines as byte slices for high efficiency.
+*   [whitfin/bytelines (⭐61)](https://github.com/whitfin/bytelines) \[[bytelines](https://crates.io/crates/bytelines)] - Read input lines as byte slices for high efficiency.
 
 ### Libraries / Astronomy
 
-*   [flosse/rust-sun (⭐46)](https://github.com/flosse/rust-sun) \[[sun](https://crates.io/crates/sun)] - A rust port of the JS library suncalc
+*   [flosse/rust-sun (⭐47)](https://github.com/flosse/rust-sun) \[[sun](https://crates.io/crates/sun)] - A rust port of the JS library suncalc
 
 ### Libraries / Computation
 
 *   [GSL](http://www.gnu.org/software/gsl/)
-    *   [GuillaumeGomez/rust-GSL (⭐189)](https://github.com/GuillaumeGomez/rust-GSL) - GSL bindings
+    *   [GuillaumeGomez/rust-GSL (⭐196)](https://github.com/GuillaumeGomez/rust-GSL) - GSL bindings
 
 ### Libraries / Database
 
@@ -135,32 +135,32 @@
 ### Libraries / Encoding
 
 *   HAR
-    *   [mandrean/har-rs (⭐41)](https://github.com/mandrean/har-rs) \[[har](https://crates.io/crates/har)] - A HTTP Archive Format (HAR) serialization & deserialization library
+    *   [mandrean/har-rs (⭐44)](https://github.com/mandrean/har-rs) \[[har](https://crates.io/crates/har)] - A HTTP Archive Format (HAR) serialization & deserialization library
 *   YAML
-    *   [chyh1990/yaml-rust (⭐601)](https://github.com/chyh1990/yaml-rust) - The missing YAML 1.2 implementation.
-    *   [dtolnay/serde-yaml (⭐950)](https://github.com/dtolnay/serde-yaml) \[[serde\_yaml](https://crates.io/crates/serde_yaml)] - YAML support for [Serde (⭐8.9k)](https://github.com/serde-rs/serde) framework [![build](https://img.shields.io/github/workflow/status/dtolnay/serde-yaml/CI/master)](https://github.com/dtolnay/serde-yaml/actions?query=branch%3Amaster)
+    *   [chyh1990/yaml-rust (⭐615)](https://github.com/chyh1990/yaml-rust) - The missing YAML 1.2 implementation.
+    *   [dtolnay/serde-yaml (⭐974)](https://github.com/dtolnay/serde-yaml) \[[serde\_yaml](https://crates.io/crates/serde_yaml)] - YAML support for [Serde (⭐9.4k)](https://github.com/serde-rs/serde) framework [![build](https://img.shields.io/github/workflow/status/dtolnay/serde-yaml/CI/master)](https://github.com/dtolnay/serde-yaml/actions?query=branch%3Amaster)
     *   [vitiral/stfu8 (⭐26)](https://github.com/vitiral/stfu8) \[[stfu8](https://crates.io/crates/stfu8)] - Sorta Text Format in UTF-8
 
 ### Libraries / Network programming
 
 *   NNTP
-    *   [mattnenterprise/rust-nntp (⭐17)](https://github.com/mattnenterprise/rust-nntp) \[[nntp](https://crates.io/crates/nntp)] - an [NNTP](https://en.wikipedia.org/wiki/Network_News_Transfer_Protocol) client
+    *   [mattnenterprise/rust-nntp (⭐16)](https://github.com/mattnenterprise/rust-nntp) \[[nntp](https://crates.io/crates/nntp)] - an [NNTP](https://en.wikipedia.org/wiki/Network_News_Transfer_Protocol) client
 *   POP3
-    *   [mattnenterprise/rust-pop3 (⭐31)](https://github.com/mattnenterprise/rust-pop3) \[[pop3](https://crates.io/crates/pop3)] - A [POP3](https://en.wikipedia.org/wiki/Post_Office_Protocol) client
+    *   [mattnenterprise/rust-pop3 (⭐30)](https://github.com/mattnenterprise/rust-pop3) \[[pop3](https://crates.io/crates/pop3)] - A [POP3](https://en.wikipedia.org/wiki/Post_Office_Protocol) client
 
 ### Libraries / Parsing
 
-*   [nrc/zero (⭐47)](https://github.com/nrc/zero) \[[zero](https://crates.io/crates/zero/)] - zero-allocation parsing of binary data
+*   [nrc/zero (⭐46)](https://github.com/nrc/zero) \[[zero](https://crates.io/crates/zero/)] - zero-allocation parsing of binary data
 
 ### Libraries / Platform specific
 
 *   FreeBSD
-    *   [fubarnetes/libjail-rs (⭐49)](https://github.com/fubarnetes/libjail-rs/) \[[jail](https://crates.io/crates/jail)] - FreeBSD jail library
+    *   [fubarnetes/libjail-rs (⭐55)](https://github.com/fubarnetes/libjail-rs/) \[[jail](https://crates.io/crates/jail)] - FreeBSD jail library
 
 ### Libraries / Scripting
 
-*   [rhaiscript/rhai (⭐3.7k)](https://github.com/rhaiscript/rhai) - A tiny and fast embedded scripting language resembling a combination of JavaScript and Rust [![build badge](https://github.com/rhaiscript/rhai/workflows/Build/badge.svg)](https://github.com/rhaiscript/rhai/actions)
-*   [rune-rs/rune (⭐1.7k)](https://github.com/rune-rs/rune) - An embeddable dynamic programming language
+*   [rhaiscript/rhai (⭐4.3k)](https://github.com/rhaiscript/rhai) - A tiny and fast embedded scripting language resembling a combination of JavaScript and Rust [![build badge](https://github.com/rhaiscript/rhai/workflows/Build/badge.svg)](https://github.com/rhaiscript/rhai/actions)
+*   [rune-rs/rune (⭐1.8k)](https://github.com/rune-rs/rune) - An embeddable dynamic programming language
 
 ### Libraries / Text processing
 
@@ -171,7 +171,7 @@
 
 ### Tools and session management
 
-*   [tmex (⭐84)](https://github.com/evnp/tmex) A minimalist tmux layout manager
+*   [tmex (⭐91)](https://github.com/evnp/tmex) A minimalist tmux layout manager
 
 ## [11. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 

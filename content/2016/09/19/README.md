@@ -10,13 +10,13 @@
 
 ### Software / Python
 
-*   [PyGraphistry (⭐2.1k)](https://github.com/graphistry/pygraphistry) - Python library to extract, transform, and visually explore big graphs.
+*   [PyGraphistry (⭐2.2k)](https://github.com/graphistry/pygraphistry) - Python library to extract, transform, and visually explore big graphs.
 
 ## [2. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Packages / Parsing
 
-*   [ref (⭐453)](https://github.com/TooTallNate/ref) - Read/write structured binary data in Buffers.
+*   [ref (⭐457)](https://github.com/TooTallNate/ref) - Read/write structured binary data in Buffers.
 
 ## [3. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
@@ -26,7 +26,7 @@
 
 ### ORM and Datamapping
 
-*   [paper\_trail (⭐552)](https://github.com/izelnakri/paper_trail) - Ecto plugin for tracking and recording all the changes in your database.
+*   [paper\_trail (⭐571)](https://github.com/izelnakri/paper_trail) - Ecto plugin for tracking and recording all the changes in your database.
 
 ### Testing
 
@@ -103,7 +103,7 @@ Webpage: <https://pt.foursquare.com/v/casinha-boutique-caf%C3%A9/53909128498ec1b
 
 ### Apps / Media
 
-*   [wagtailmedia (⭐231)](https://github.com/torchbox/wagtailmedia) - A Wagtail module for managing video and audio files within the admin.
+*   [wagtailmedia (⭐232)](https://github.com/torchbox/wagtailmedia) - A Wagtail module for managing video and audio files within the admin.
 
 ### Apps / Translations
 
@@ -115,17 +115,17 @@ Webpage: <https://pt.foursquare.com/v/casinha-boutique-caf%C3%A9/53909128498ec1b
 
 ### Apps / Content Management
 
-*   [Wagtail Themes (⭐101)](https://github.com/moorinteractive/wagtail-themes) - Site-specific theme loader for Wagtail.
+*   [Wagtail Themes (⭐103)](https://github.com/moorinteractive/wagtail-themes) - Site-specific theme loader for Wagtail.
 
 ### Tools / Templates & Starter Kits
 
-*   [Wagtail Cookiecutter Foundation (⭐167)](https://github.com/chrisdev/wagtail-cookiecutter-foundation) - A Cookiecutter template for Wagtail CMS using Zurb Foundation 6.
+*   [Wagtail Cookiecutter Foundation (⭐166)](https://github.com/chrisdev/wagtail-cookiecutter-foundation) - A Cookiecutter template for Wagtail CMS using Zurb Foundation 6.
 
 ## [7. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Table of Contents / Middlewares
 
-*   [Relay (⭐318)](https://github.com/relayphp/Relay.Relay) - A PHP 5.5 PSR-7 middleware dispatcher.
+*   [Relay (⭐323)](https://github.com/relayphp/Relay.Relay) - A PHP 5.5 PSR-7 middleware dispatcher.
 
 ## [8. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
@@ -149,7 +149,7 @@ Webpage: <https://pt.foursquare.com/v/casinha-boutique-caf%C3%A9/53909128498ec1b
 
 ### Web Frameworks
 
-*   [FubuMVC (⭐427)](https://github.com/DarthFubuMVC/fubumvc) - A front-controller style MVC framework for .NET
+*   [FubuMVC (⭐426)](https://github.com/DarthFubuMVC/fubumvc) - A front-controller style MVC framework for .NET
 
 ---
 

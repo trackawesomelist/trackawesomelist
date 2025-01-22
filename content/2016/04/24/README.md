@@ -1,18 +1,12 @@
 # Awesome List Updates on Apr 24, 2016
 
-6 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
-
-### Interviewing
-
-*   [andreis/interview (⭐18k)](https://github.com/andreis/interview) - Everything you need to kick ass on your coding interview
-
-## [2. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
+## [1. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
 
 ### Laravel
 
@@ -31,13 +25,13 @@
 
 
 
-## [3. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
+## [2. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
 ### API Gateways / Edge Services / Scala
 
-*   [Neutrino (⭐311)](https://github.com/eBay/Neutrino) - Extensible software load balancer.
+*   [Neutrino (⭐312)](https://github.com/eBay/Neutrino) - Extensible software load balancer.
 
-## [4. Awesome Android](/content/JStumpp/awesome-android/README.md)
+## [3. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
 ### Crash monitoring / Field Validation
 
@@ -47,7 +41,7 @@
 
 *   [RESTMock (⭐751)](https://github.com/andrzejchm/RESTMock) - HTTP Web server for mocking API responses in Android Instrumentation tests.
 
-## [5. Awesome Wicket](/content/PhantomYdn/awesome-wicket/README.md)
+## [4. Awesome Wicket](/content/PhantomYdn/awesome-wicket/README.md)
 
 ### Libraries
 
@@ -69,7 +63,7 @@
 *   [Nocket (⭐9)](https://github.com/Nocket/nocket) - Naked Object based framework for wicket.
 *   [Wicketopia (⭐18)](https://github.com/jwcarman/Wicketopia) - Rapid Application Development (RAD) library for the Wicket.
 
-## [6. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
+## [5. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 
 ### Books / Method-specific
 
@@ -100,7 +94,7 @@
 *   [Bill Cosponsorship Networks in European Parliaments (⭐17)](https://github.com/briatte/parlnet) - Legislative cosponsorship networks, in R format.
 *   [Eric D. Kolaczyk’s Network Datasets](http://math.bu.edu/people/kolaczyk/datasets.html).
 *   [Linton Freeman’s Network Data](http://moreno.ss.uci.edu/data.html) - Over 300 datasets of all sorts, in UCINET format.
-*   [Mangal](http://mangal.io/) - Online platform to analyze, archive and share ecological network data ([preprint](https://doi.org/10.1101/002634), [Python package (⭐2)](https://github.com/mangal-wg/pymangal), [R package (⭐13)](https://github.com/mangal-wg/rmangal)).
+*   [Mangal](http://mangal.io/) - Online platform to analyze, archive and share ecological network data ([preprint](https://doi.org/10.1101/002634), [Python package (⭐2)](https://github.com/mangal-wg/pymangal), [R package (⭐14)](https://github.com/mangal-wg/rmangal)).
 *   [Mark E.J. Newman’s Network Data](http://www-personal.umich.edu/~mejn/netdata/) ([example visualizations](http://www-personal.umich.edu/~mejn/networks/)).
 *   [tnet Datasets](https://toreopsahl.com/datasets/) - Weighted network data.
 

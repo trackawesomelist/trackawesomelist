@@ -16,13 +16,13 @@
 
 ### Music Notation
 
-*   [Digital Music Stand (⭐31)](https://github.com/PatWie/digitalmusicstand) - a free web app for displaying sheet music.
+*   [Digital Music Stand (⭐33)](https://github.com/PatWie/digitalmusicstand) - a free web app for displaying sheet music.
 
 ## [3. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### CLI
 
-*   [indicators (⭐2.9k)](https://github.com/p-ranav/indicators/) - Activity indicators for Modern C++. \[MIT]
+*   [indicators (⭐3.1k)](https://github.com/p-ranav/indicators/) - Activity indicators for Modern C++. \[MIT]
 
 ## [4. Awesome Wordpress Gatsby](/content/henrikwirth/awesome-wordpress-gatsby/README.md)
 
@@ -35,7 +35,7 @@
 
 ### Miscellaneous
 
-*   [IUP (⭐136)](https://github.com/lispnik/iup/) - CFFI bindings to the [IUP](https://www.tecgraf.puc-rio.br/iup/) Portable User Interface library (pre-ALPHA).
+*   [IUP (⭐138)](https://github.com/lispnik/iup/) - CFFI bindings to the [IUP](https://www.tecgraf.puc-rio.br/iup/) Portable User Interface library (pre-ALPHA).
     *   IUP is cross-platform (Windows, macOS, GNU/Linux, with new Android, iOs, Cocoa and Web Assembly drivers), has many widgets, has a small api and is actively developed.
     *   has a web view.
 

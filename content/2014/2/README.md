@@ -14,11 +14,11 @@
 
 ### Table of Contents / Numbers
 
-*   [LibPhoneNumber for PHP (⭐4.7k)](https://github.com/giggsey/libphonenumber-for-php) - A PHP implementation of Google's phone number handling library.
+*   [LibPhoneNumber for PHP (⭐4.8k)](https://github.com/giggsey/libphonenumber-for-php) - A PHP implementation of Google's phone number handling library.
 
 ### Configuration / Web Applications
 
-*   [MailCatcher (⭐6.3k)](https://github.com/sj26/mailcatcher) - A web tool for capturing and viewing emails.
+*   [MailCatcher (⭐6.5k)](https://github.com/sj26/mailcatcher) - A web tool for capturing and viewing emails.
 
 ## [2. Services Engineering](/content/mmcgrana/services-engineering/week/README.md)
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 10, 2020
 
-15 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -17,10 +17,6 @@
 ### Debugging
 
 *   [Execution order (⭐21)](https://github.com/dereuromark/executionorder) - A demo app to display the execution order of files, methods and callbacks.
-
-### ORM / Database / Datamapping
-
-*   [Connehito/CakephpMasterReplica plugin (⭐12)](https://github.com/Connehito/cakephp-master-replica) - Switch master/replica database connections.
 
 ## [3. Awesome Bioie](/content/caufieldjh/awesome-bioie/README.md)
 
@@ -39,7 +35,7 @@
 
 ### Security
 
-*   [SecurePropertyStorage (⭐470)](https://github.com/alexruperez/SecurePropertyStorage) - Helps you define secure storages for your properties using Swift property wrappers.
+*   [SecurePropertyStorage (⭐471)](https://github.com/alexruperez/SecurePropertyStorage) - Helps you define secure storages for your properties using Swift property wrappers.
 
 ## [6. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
@@ -49,7 +45,7 @@
 
 ### App Routing
 
-*   [LightRoute (⭐92)](https://github.com/SpectralDragon/LiteRoute) - Routing between VIPER modules.
+*   [LightRoute (⭐93)](https://github.com/SpectralDragon/LiteRoute) - Routing between VIPER modules.
 
 ## [7. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
@@ -73,7 +69,7 @@
 
 ### Suggested Awesome Lists / Useful References
 
-*   [How They Test (⭐5.8k)](https://github.com/abhivaikar/howtheytest) - A curated collection of public resources from tech companies on how they test their software and build a quality culture
+*   [How They Test (⭐6.1k)](https://github.com/abhivaikar/howtheytest) - A curated collection of public resources from tech companies on how they test their software and build a quality culture
 
 ## [11. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
@@ -91,29 +87,23 @@
 
 ### Integrations
 
-*   [jest-playwright (⭐530)](https://github.com/playwright-community/jest-playwright/) - Jest adapter for running Playwright.
+*   [jest-playwright (⭐532)](https://github.com/playwright-community/jest-playwright/) - Jest adapter for running Playwright.
 
 ### Showcases
 
-*   [playwright-jest-examples (⭐102)](https://github.com/playwright-community/playwright-jest-examples) - Examples of the Jest Playwright tools in combination to test popular sites.
-*   [VS Code (⭐161k)](https://github.com/microsoft/vscode) - Playwright is used to run cross-browser tests on their web builds.
-*   [TypeScript (⭐100k)](https://github.com/microsoft/TypeScript) - Playwright is used test typescript.js across browsers.
-*   [Elastic APM JS agent (⭐274)](https://github.com/elastic/apm-agent-rum-js) - Playwright is used to run benchmark tests across browsers.
-*   [Blockstack (⭐293)](https://github.com/blockstack/ux) - Playwright is used to run cross-browser UI tests.
-*   [xterm.js (⭐17k)](https://github.com/xtermjs/xterm.js) - Playwright is used to run cross-browser integration tests.
+*   [playwright-jest-examples (⭐103)](https://github.com/playwright-community/playwright-jest-examples) - Examples of the Jest Playwright tools in combination to test popular sites.
+*   [VS Code (⭐163k)](https://github.com/microsoft/vscode) - Playwright is used to run cross-browser tests on their web builds.
+*   [TypeScript (⭐101k)](https://github.com/microsoft/TypeScript) - Playwright is used test typescript.js across browsers.
+*   [Elastic APM JS agent (⭐278)](https://github.com/elastic/apm-agent-rum-js) - Playwright is used to run benchmark tests across browsers.
+*   [Blockstack (⭐295)](https://github.com/blockstack/ux) - Playwright is used to run cross-browser UI tests.
+*   [xterm.js (⭐18k)](https://github.com/xtermjs/xterm.js) - Playwright is used to run cross-browser integration tests.
 
 ## [14. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Files and Directories / Directory Navigation
 
-*   [z.lua (⭐2.9k)](https://github.com/skywind3000/z.lua) - `cd` command that learns your habits.
-*   [zoxide (⭐18k)](https://github.com/ajeetdsouza/zoxide) - Fast directory jumper in Rust.
-
-## [15. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / UI Components
-
-*   [vue-hawesome-modal (⭐5)](https://github.com/behawesometw/vue-hawesome-modal) - A Vue promisify modal component plugin based on Vuetify with Vuex.
+*   [z.lua (⭐3k)](https://github.com/skywind3000/z.lua) - `cd` command that learns your habits.
+*   [zoxide (⭐23k)](https://github.com/ajeetdsouza/zoxide) - Fast directory jumper in Rust.
 
 ---
 

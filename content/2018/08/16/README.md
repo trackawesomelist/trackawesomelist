@@ -32,13 +32,13 @@
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [Kalimdor.js (⭐538)](https://github.com/JasonShin/kalimdorjs) - Machine Learning library for the Web, Node and Developers!
+*   :octocat: [Kalimdor.js (⭐541)](https://github.com/JasonShin/kalimdorjs) - Machine Learning library for the Web, Node and Developers!
 
 ## [5. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Media
 
-*   [FFmpeg (⭐969)](https://github.com/transitive-bullshit/awesome-ffmpeg#readme) - Cross-platform solution to record, convert and stream audio and video.
+*   [FFmpeg (⭐1k)](https://github.com/transitive-bullshit/awesome-ffmpeg#readme) - Cross-platform solution to record, convert and stream audio and video.
 
 ## [6. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/README.md)
 
@@ -50,11 +50,11 @@
 
 ### Go / General-Purpose Machine Learning
 
-*   [eaopt (⭐881)](https://github.com/MaxHalford/eaopt) - An evolutionary optimization library.
+*   [eaopt (⭐890)](https://github.com/MaxHalford/eaopt) - An evolutionary optimization library.
 
 ### General-Purpose Machine Learning / Data Analysis / Data Visualization
 
-*   [19 Questions (⭐17)](https://github.com/fulldecent/19-questions) - A machine learning / bayesian inference assigning attributes to objects.
+*   [19 Questions (⭐16)](https://github.com/fulldecent/19-questions) - A machine learning / bayesian inference assigning attributes to objects.
 
 ## [8. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
@@ -64,13 +64,13 @@
 
 ### XML
 
-*   [saxy (⭐265)](https://github.com/qcam/saxy) - Saxy is an XML parser and encoder in Elixir that focuses on speed and standard compliance.
+*   [saxy (⭐286)](https://github.com/qcam/saxy) - Saxy is an XML parser and encoder in Elixir that focuses on speed and standard compliance.
 
 ## [9. Awesome Cmake](/content/onqtam/awesome-cmake/README.md)
 
 ### Resources
 
-*   [Web Book (⭐487)](https://github.com/ruslo/CGold) - CGold: The Hitchhiker’s [Guide](https://cgold.readthedocs.io) to the CMake. [`[BSD2]`](https://opensource.org/licenses/BSD-2-Clause)
+*   [Web Book (⭐521)](https://github.com/ruslo/CGold) - CGold: The Hitchhiker’s [Guide](https://cgold.readthedocs.io) to the CMake. [`[BSD2]`](https://opensource.org/licenses/BSD-2-Clause)
 *   [Article](http://foonathan.net/blog/2016/03/03/cmake-install.html) - Easily supporting CMake install and find\_package().
 *   [Article](http://foonathan.net/blog/2016/07/07/cmake-dependency-handling.html) - Easy dependency management for C++ with CMake and Git.
 *   [Article](https://steveire.wordpress.com/2016/08/09/opt-in-header-only-libraries-with-cmake/) - Opt-in header-only libraries with CMake.
@@ -80,7 +80,7 @@
 *   [Article](http://aosabook.org/en/cmake.html) - The architecture of CMake.
 *   [Lecture](https://www.youtube.com/watch?v=bsXLMQ6WgIk) - Effective CMake - by Daniel Pfeifer, C++Now 2017.
 *   [Article](https://devblogs.nvidia.com/parallelforall/building-cuda-applications-cmake/) - Building Cross-Platform CUDA Applications with CMake.
-*   [Tutorial (⭐59)](https://github.com/Wigner-GPU-Lab/Teaching/tree/master/CMake) - A step-by-step guide for understanding CMake.
+*   [Tutorial (⭐61)](https://github.com/Wigner-GPU-Lab/Teaching/tree/master/CMake) - A step-by-step guide for understanding CMake.
 *   [Article + Lecture](https://steveire.wordpress.com/2017/11/05/embracing-modern-cmake/) - Embracing Modern CMake - by Stephen Kelly.
 *   [Lecture](https://www.youtube.com/watch?v=eC9-iRN2b04) - Modern CMake for Modular Design - by Mathieu Ropert, CppCon 2017.
 *   [Article](https://pabloariasal.github.io/2018/02/19/its-time-to-do-cmake-right/) - It's Time To Do CMake Right (one of the best articles about CMake).

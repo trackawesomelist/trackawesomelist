@@ -10,7 +10,7 @@
 
 ### Component Libraries
 
-*   [Dash Mantine Components (⭐232)](https://github.com/snehilvj/dash-mantine-components) - Collection of 40+ Dash components based on Mantine React Components library.
+*   [Dash Mantine Components (⭐592)](https://github.com/snehilvj/dash-mantine-components) - Collection of 40+ Dash components based on Mantine React Components library.
 
 ### Contributors
 
@@ -20,13 +20,13 @@
 
 ### Board support crates / Nordic
 
-*   [`nrf52840-dk-bsp`](https://crates.io/crates/nrf52840-dk-bsp) - [nrf52840-dk](https://www.nordicsemi.com/Products/Development-hardware/nrf52840-dk) - ![crates.io](https://img.shields.io/crates/v/nrf52840-dk-bsp.svg)
+*   [`nrf52840-dk-bsp`](https://crates.io/crates/nrf52840-dk-bsp) - [nrf52840-dk](https://www.nordicsemi.com/Products/Development-hardware/nrf52840-dk) - [![crates.io](https://img.shields.io/crates/v/nrf52840-dk-bsp.svg)](https://crates.io/crates/nrf52840-dk-bsp)
 
 ## [3. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
 ### Themes
 
-*   [tmux-gruvbox (⭐494)](https://github.com/egel/tmux-gruvbox) Light and dark tmux theme
+*   [tmux-gruvbox (⭐542)](https://github.com/egel/tmux-gruvbox) Light and dark tmux theme
 
 ## [4. Awesome Math](/content/rossant/awesome-math/README.md)
 
@@ -50,19 +50,19 @@
 
 ### Game Engine Bindings / XML
 
-*   [Godot-D (⭐204)](https://github.com/godot-d/godot-d) - D language bindings for the Godot Engine's GDNative API
+*   [Godot-D (⭐207)](https://github.com/godot-d/godot-d) - D language bindings for the Godot Engine's GDNative API
 
 ## [8. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Machine Learning / Runner
 
-*   [m2cgen (⭐2.7k)](https://github.com/BayesWitnesses/m2cgen) - A CLI tool to transpile trained classic ML models into a native JavaScript code with zero dependencies.
+*   [m2cgen (⭐2.8k)](https://github.com/BayesWitnesses/m2cgen) - A CLI tool to transpile trained classic ML models into a native JavaScript code with zero dependencies.
 
 ## [9. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Java / Deep Learning
 
-*   [deepjavalibrary/djl (⭐4k)](https://github.com/deepjavalibrary/djl) - Deep Java Library (DJL) is an open-source, high-level, engine-agnostic Java framework for deep learning, designed to be easy to get started with and simple to use for Java developers.
+*   [deepjavalibrary/djl (⭐4.2k)](https://github.com/deepjavalibrary/djl) - Deep Java Library (DJL) is an open-source, high-level, engine-agnostic Java framework for deep learning, designed to be easy to get started with and simple to use for Java developers.
 
 ## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -110,7 +110,6 @@
 *   [CurrencyApi](https://currencyapi.net/) — Live Currency Rates for Physical and Cryptocurrencies, delivered in JSON and XML. The free tier offers 1,250 API requests/month.
 *   [currencylayer](https://currencylayer.com/) — Reliable Exchange Rates and Currency Conversion for your Business, 100 API requests/month free.
 *   [FraudLabsPRO](https://www.fraudlabspro.com) — Help merchants to prevent payment fraud and chargebacks. Free Micro Plan available with 500 queries/month.
-*   [MailPopin](https://mailpop.in) - Get the most of your Stripe notifications with contextualized information.
 *   [Nami ML](https://www.namiml.com/) - Complete platform for in-app purchases and subscriptions on iOS and Android, including no-code paywalls, CRM, and analytics.  Free for all base features to run an IAP business.
 *   [RevenueCat](https://www.revenuecat.com/) — Hosted backend for in-app purchases and subscriptions (iOS and Android). Free up to $2.5k/mo in tracked revenue.
 *   [vatlayer](https://vatlayer.com/) — Instant VAT number validation and EU VAT rates API, free 100 API requests/month
@@ -134,7 +133,7 @@
 
 ### Packages / General Purpose Libraries
 
-*   [Joblib Apache Spark Backend (⭐221)](https://github.com/joblib/joblib-spark) <img src="https://img.shields.io/github/last-commit/joblib/joblib-spark.svg"> - [`joblib`](https://github.com/joblib/joblib) backend for running tasks on Spark clusters.
+*   [Joblib Apache Spark Backend (⭐241)](https://github.com/joblib/joblib-spark) <img src="https://img.shields.io/github/last-commit/joblib/joblib-spark.svg"> - [`joblib`](https://github.com/joblib/joblib) backend for running tasks on Spark clusters.
 
 ### Packages / Storage
 
@@ -144,20 +143,19 @@
 
 ### Reactive Programming
 
-*   [ObsevableComputations (⭐108)](https://github.com/IgorBuchelnikov/ObservableComputations) - A cross-platform .NET library for computations whose arguments and results are objects that implement INotifyPropertyChanged and INotifyCollectionChanged (ObservableCollection) interfaces.
+*   [ObsevableComputations (⭐115)](https://github.com/IgorBuchelnikov/ObservableComputations) - A cross-platform .NET library for computations whose arguments and results are objects that implement INotifyPropertyChanged and INotifyCollectionChanged (ObservableCollection) interfaces.
 
 ## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / Utilities
 
 *   [vueuse (⭐20k)](https://github.com/vueuse/vueuse) - Collection of essential Vue Composition API utils works for Vue 2.x and 3.x.
-*   [localize-vue-2x (⭐0)](https://github.com/uiwebkit/localize-vue-2x) - Uni Localization Vue 2 integration example. Customizable Language Menu widget built with Web Components.
 
 ## [14. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 
 ### Libraries
 
-*   [fxts (⭐689)](https://github.com/marpple/FxTS) - Lazy evaluation and concurrency. +TS
+*   [fxts (⭐937)](https://github.com/marpple/FxTS) - Lazy evaluation and concurrency. +TS
 
 ---
 

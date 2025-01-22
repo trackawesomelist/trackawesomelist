@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 07, 2017
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -35,48 +35,38 @@
 *   [TOAST](http://developer.samsung.com/tv/develop/extension-libraries/toast/) - Samsung open-source framework for multi-platform TV apps developemnt.
 *   [Enyo](http://enyojs.com) - LG framework for development apps for all major platforms, from phones and tablets to PCs and TVs.
 
-## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Projects Using Vue.js / Open Source
-
-*   [Flamme (⭐128)](https://github.com/alicin/flamme) - An open source Tinder desktop client built with electron and Vue.js for educational purposes
-
-### Components & Libraries / UI Utilities
-
-*   [vue-scroll-behavior (⭐141)](https://github.com/jeneser/vue-scroll-behavior) - Customize the scroll behavior on route navigation. Especially hash mode.
-
-## [6. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
+## [5. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
 ### Configs / Configs by Well-Known Companies/Organizations
 
 *   [Facebook](https://www.npmjs.com/package/eslint-config-fbjs) - Sharable config for Facebook's style guide.
 
-## [7. Awesome Security](/content/sbilly/awesome-security/README.md)
+## [6. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Web / Web Application Firewall
 
 *   [sql\_firewall (⭐173)](https://github.com/uptimejp/sql_firewall) SQL Firewall Extension for PostgreSQL
 
-## [8. Awesome Cmake](/content/onqtam/awesome-cmake/README.md)
+## [7. Awesome Cmake](/content/onqtam/awesome-cmake/README.md)
 
 ### Utility Scripts
 
-*   [cmake-get (⭐59)](https://github.com/pfultz2/cmake-get) - Get dependencies in config or script mode. `[NO LICENSE]`
+*   [cmake-get (⭐63)](https://github.com/pfultz2/cmake-get) - Get dependencies in config or script mode. `[NO LICENSE]`
 
-## [9. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
+## [8. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 
 ### Libraries
 
-*   [Javascript Parser Combinator (⭐139)](https://github.com/d-plaindoux/parsec) – Javascript parser combinator implementation inspired by the Haskell's Parsec
-*   [fun-task (⭐372)](https://github.com/rpominov/fun-task) – An abstraction for managing asynchronous code in JS. Tasks are similar to Promises with the key difference that Tasks can represent a computation while Promises can represent only the results of a computation. Ships with Flow type definitions.
+*   [Javascript Parser Combinator (⭐145)](https://github.com/d-plaindoux/parsec) – Javascript parser combinator implementation inspired by the Haskell's Parsec
+*   [fun-task (⭐373)](https://github.com/rpominov/fun-task) – An abstraction for managing asynchronous code in JS. Tasks are similar to Promises with the key difference that Tasks can represent a computation while Promises can represent only the results of a computation. Ships with Flow type definitions.
 *   [most (⭐3.5k)](https://github.com/cujojs/most) – Ultra-high performance reactive programming to help you compose asynchronous operations on streams of values and events without many of the hazards of side effects and mutable shared state.
 
 ### Programming Tools / Lenses
 
 *   [4.5 (⭐21)](https://github.com/TylorS/4.5) – A functional assertions library. If you prefer functional style APIs and practices in JavaScript, this library aims to solve this with functionally-oriented assertions that are lazy and monadic.
-*   [hm-def (⭐196)](https://github.com/xodio/hm-def) – Runtime type checking for JS with Hindley Milner signatures.
+*   [hm-def (⭐198)](https://github.com/xodio/hm-def) – Runtime type checking for JS with Hindley Milner signatures.
 
-## [10. Awesome Laravel Education](/content/fukuball/Awesome-Laravel-Education/README.md)
+## [9. Awesome Laravel Education](/content/fukuball/Awesome-Laravel-Education/README.md)
 
 ### Blogs / Case Study
 

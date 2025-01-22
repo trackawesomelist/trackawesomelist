@@ -10,12 +10,12 @@
 
 ### Algorithms and Data structures
 
-*   [red\_black\_tree (⭐38)](https://github.com/SenecaSystems/red_black_tree) - Red-Black tree implementation in Elixir.
+*   [red\_black\_tree (⭐37)](https://github.com/SenecaSystems/red_black_tree) - Red-Black tree implementation in Elixir.
 *   [sorted\_set (⭐21)](https://github.com/SenecaSystems/sorted_set) - Sorted Sets for Elixir.
 
 ### Debugging
 
-*   [beaker (⭐280)](https://github.com/hahuang65/beaker) - Statistics and Metrics library for Elixir.
+*   [beaker (⭐279)](https://github.com/hahuang65/beaker) - Statistics and Metrics library for Elixir.
 
 ### Frameworks
 
@@ -23,7 +23,7 @@
 
 ### ORM and Datamapping
 
-*   [caylir (⭐21)](https://github.com/mneudert/caylir) - Cayley driver for Elixir.
+*   [caylir (⭐22)](https://github.com/mneudert/caylir) - Cayley driver for Elixir.
 
 ## [2. Nginx Resources](/content/fcambus/nginx-resources/README.md)
 
@@ -55,7 +55,7 @@
 
 ### I18n And L10n / Runner
 
-*   [babelfish (⭐255)](https://github.com/nodeca/babelfish/) - i18n with human friendly API and built in plurals support.
+*   [babelfish (⭐254)](https://github.com/nodeca/babelfish/) - i18n with human friendly API and built in plurals support.
 
 ### Image Processing / Other
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 22 - Jul 28, 2024
 
-32 awesome lists updated this week.
+30 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -17,13 +17,13 @@
 
 ### Command-Line Productivity
 
-*   [forkrun (⭐141)](https://github.com/jkool702/forkrun) - A pure-bash tool for running code in parallel. Similar in syntax and speed to `xargs -P`, but with more features and native Bash function support.
+*   [forkrun (⭐144)](https://github.com/jkool702/forkrun) - A pure-bash tool for running code in parallel. Similar in syntax and speed to `xargs -P`, but with more features and native Bash function support.
 
 ## [3. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Libraries/Packages/Scripts / Polars plugins
 
-*   [polars-ml (⭐5)](https://github.com/barak1412/polars_ml) - Polars plugin for machine learning by [@barak1412](https://github.com/barak1412).
+*   [polars-ml (⭐10)](https://github.com/barak1412/polars_ml) - Polars plugin for machine learning by [@barak1412](https://github.com/barak1412).
 
 ## [4. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
 
@@ -31,87 +31,33 @@
 
 *   [bma423-pure-mp (⭐9)](https://github.com/antirez/bma423-pure-mp) - MicroPython Driver for the Bosch 423 accelerometer. Includes FIFO support. ⏩
 
-### Sensors / Barometer
+### Sensors / Barometer - Air and Water Pressure
 
-*   [mp-bmp3xx-full (⭐3)](https://github.com/jornamon/mp-bmp3xx-full) - MicroPython driver for the Bosch BMP3xx range of barometric pressure sensors. Includes FIFO support. ⏩
+*   [mp-bmp3xx-full (⭐4)](https://github.com/jornamon/mp-bmp3xx-full) - MicroPython driver for the Bosch BMP3xx range of barometric pressure sensors. Includes FIFO support. ⏩
 
 ### Books / SRAM
 
 *   [Get Started with MicroPython on Raspberry Pi Pico 2nd Edition](https://store.rpipress.cc/collections/books/products/get-started-with-micropython-on-raspberry-pi-pico-2nd-edition) - By Gareth Halfacree and Ben Everard. ISBN 9781912047291.
 
-## [5. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/week/README.md)
-
-### **Semantic Kernel** / **Semantic Kernel Planner**
-
-*   [The future of Planners in Semantic Kernel](https://devblogs.microsoft.com/semantic-kernel/the-future-of-planners-in-semantic-kernel/) \[23 July 2024]
-
-### **Other techniques and LLM patterns** / **Llama Finetuning**
-
-*   [KAN or MLP: A Fairer Comparison](https://arxiv.org/abs/2407.16674): In machine learning, computer vision, audio processing, natural language processing, and symbolic formula representation (except for symbolic formula representation tasks), MLP generally outperforms KAN. \[23 Jul 2024]
-
-### **OpenAI's Roadmap and Products** / **OpenAI Products**
-
-*   [SearchGPT](https://openai.com/index/searchgpt-prototype/): AI search \[25 Jul 2024]
-
-### **Evaluating Large Language Models** / **OSS Alternatives for OpenAI Code Interpreter (aka. Advanced Data Analytics)**
-
-*   [LLM-as-a-Judge](https://cameronrwolfe.substack.com/i/141159804/practical-takeaways): LLM-as-a-Judge offers a quick, cost-effective way to develop models aligned with human preferences and is easy to implement with just a prompt, but should be complemented by human evaluation to address biases.  \[Jul 2024]
-*   [Can Large Language Models Be an Alternative to Human Evaluations?](https://arxiv.org/abs/2305.01937) \[3 May 2023]
-
-### **LLM Evalution Benchmarks** / Language Understanding and QA
-
-*   [TruthfulQA](https://huggingface.co/datasets/truthful_qa): Truthfulness. \[Published in 2022]
-*   [BigBench (⭐2.8k)](https://github.com/google/BIG-bench): 204 tasks. Predicting future potential \[Published in 2023]
-*   [GLUE](https://gluebenchmark.com/leaderboard) & [SuperGLUE](https://super.gluebenchmark.com/leaderboard/): GLUE (General Language Understanding Evaluation)
-
-### **LLM Evalution Benchmarks** / Coding
-
-*   [HumanEval (⭐2.2k)](https://github.com/openai/human-eval): Challenges coding skills. \[Published in 2021]
-*   [CodeXGLUE (⭐1.5k)](https://github.com/microsoft/CodeXGLUE): Programming tasks.
-*   [SWE-bench](https://www.swebench.com/): Software Engineering Benchmark. Real-world software issues sourced from GitHub.
-*   [MBPP (⭐34k)](https://github.com/google-research/google-research/tree/master/mbpp): Mostly Basic Python Programming. \[Published in 2021]
-
-### **LLM Evalution Benchmarks** / Chatbot Assistance
-
-*   [Chatbot Arena](https://huggingface.co/datasets/lmsys/chatbot_arena_conversations): Human-ranked ELO ranking.
-*   [MT Bench (⭐36k)](https://github.com/lm-sys/FastChat/tree/main/fastchat/llm_judge): Multi-turn open-ended questions
-    \- [Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena](https://arxiv.org/abs/2306.05685) \[9 Jun 2023]
-
-### **LLM Evalution Benchmarks** / Reasoning
-
-*   [HellaSwag (⭐172)](https://github.com/rowanz/hellaswag): Commonsense reasoning. \[Published in 2019]
-*   [ARC (AI2 Reasoning Challenge) (⭐3.2k)](https://github.com/fchollet/ARC): Measures general fluid intelligence.
-*   [DROP](https://huggingface.co/datasets/drop): Evaluates discrete reasoning.
-*   [LogicQA (⭐104)](https://github.com/lgw863/LogiQA-dataset): Evaluates logical reasoning skills.
-
-### **LLM Evalution Benchmarks** / Translation
-
-*   [WMT](https://huggingface.co/wmt): Evaluates translation skills.
-
-### **LLM Evalution Benchmarks** / Math
-
-*   [MATH (⭐806)](https://github.com/hendrycks/math): Tests ability to solve math problems. \[Published in 2021]
-*   [GSM8K (⭐975)](https://github.com/openai/grade-school-math): Arithmetic Reasoning. \[Published in 2021]
-
-## [6. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [5. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [@mistjs/vite-plugin-px2viewport (⭐8)](https://github.com/aibayanyu20/vite-plugins/tree/main/packages/px2viewport) - A plugin that automatically converts inline styles and style files from px units to vw units.
+*   [@mistjs/vite-plugin-px2viewport (⭐14)](https://github.com/aibayanyu20/vite-plugins/tree/main/packages/px2viewport) - A plugin that automatically converts inline styles and style files from px units to vw units.
 
-## [7. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [6. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Visual Programming Languages
 
 *   [vvvv](https://visualprogramming.net/) \[Win] - Hybrid visual/textual live-programming environment for easy prototyping and development.
 
-## [8. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Feed Readers
 
-*   [Fusion (⭐945)](https://github.com/0x2E/fusion) - A lightweight RSS aggregator and reader. `MIT` `Go/Docker`
+*   [Fusion (⭐1.2k)](https://github.com/0x2E/fusion) - A lightweight RSS aggregator and reader. `MIT` `Go/Docker`
 
-## [9. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/week/README.md)
+## [8. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/week/README.md)
 
 ### Support Communities
 
@@ -327,89 +273,84 @@ Language: English, español, português, français, Deutsch, русский \ <b
 Notable Channels: `#rapier`, `#bevy_rapier`, `#rapier-js`, `#parry`, `#salva`, `#nalgebra`, `#simba`, `#nphysics`, `#simba` \
 Language: English \ <br>
 
-## [10. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
+## [9. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
 
 ### Maps
 
-*   [esri-svelte (⭐14)](https://github.com/gavinr-maps/esri-svelte-example) - Web application that shows how to use the ArcGIS API for JavaScript with Svelte
+*   [esri-svelte (⭐15)](https://github.com/gavinr-maps/esri-svelte-example) - Web application that shows how to use the ArcGIS API for JavaScript with Svelte.
 
-## [11. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [10. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [tasko (⭐1)](https://github.com/knid/tasko) - Allows you to annotate [TaskWarrior (⭐4.1k)](https://github.com/GothenburgBitFactory/taskwarrior) tasks.
-*   [welcome-banner (⭐2)](https://github.com/joshuadanpeterson/zsh-welcome-banner) - Displays a login banner with a random quote.
+*   [tasko (⭐1)](https://github.com/knid/tasko) - Allows you to annotate [TaskWarrior (⭐4.6k)](https://github.com/GothenburgBitFactory/taskwarrior) tasks.
+*   [welcome-banner (⭐3)](https://github.com/joshuadanpeterson/zsh-welcome-banner) - Displays a login banner with a random quote.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [boban (⭐0)](https://github.com/TheEdgeOfRage/boban-zsh) - A powerline-style file based on [Agnoster (⭐4k)](https://github.com/agnoster/agnoster-zsh-theme). Includes decorators for user\@hostname, `git` status, current working directory, python venv, AWS profile, `$KUBECONFIG`, the terraform workspace and the exit status of the last command run. Requires a Nerd Font for symbols to render properly.
-*   [hietan (⭐0)](https://github.com/Hietan/Hietan_ZshTheme) - Includes decorators for current directory, date & time, `git` status and the exit value of the last command run. Requires a Nerd Font.
+*   [boban (⭐1)](https://github.com/TheEdgeOfRage/boban-zsh) - A powerline-style file based on [Agnoster (⭐4k)](https://github.com/agnoster/agnoster-zsh-theme). Includes decorators for user\@hostname, `git` status, current working directory, python venv, AWS profile, `$KUBECONFIG`, the terraform workspace and the exit status of the last command run. Requires a Nerd Font for symbols to render properly.
+*   [hietan (⭐1)](https://github.com/Hietan/Hietan_ZshTheme) - Includes decorators for current directory, date & time, `git` status and the exit value of the last command run. Requires a Nerd Font.
 *   [shiro (arturDobrowolski) (⭐0)](https://github.com/ArturDobrowolski/shiro-zsh-theme) - Includes decorators for current directory, `git` status, and exit status and execution time of last command run.
 *   [shiro (shirozuki) (⭐0)](https://github.com/shirozuki/shiro-zsh-theme) - Includes decorators for current directory, `git` status and execution time and exit status of last command run.
 *   [sunrise (⭐0)](https://github.com/tech8i/zsh_sunrise) - Includes decorators for battery status, current directory, date and time.
 
-## [12. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [11. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / System tools
 
-*   [ChurchTao/clipboard-rs (⭐37)](https://github.com/ChurchTao/clipboard-rs) \[[clipboard-rs](https://crates.io/crates/clipboard-rs)] - Cross-platform library written in Rust for getting and setting and monitoring changes the system-level clipboard content.
+*   [ChurchTao/clipboard-rs (⭐75)](https://github.com/ChurchTao/clipboard-rs) \[[clipboard-rs](https://crates.io/crates/clipboard-rs)] - Cross-platform library written in Rust for getting and setting and monitoring changes the system-level clipboard content.
 
 ### Libraries / Data streaming
 
-*   [swimos/swim-rust (⭐275)](https://github.com/swimos/swim-rust) \[[swim-rust](https://crates.io/crates/swimos)] - Self-contained distributed software platform for building stateful, massively real-time streaming applications.
+*   [swimos/swim-rust (⭐325)](https://github.com/swimos/swim-rust) \[[swim-rust](https://crates.io/crates/swimos)] - Self-contained distributed software platform for building stateful, massively real-time streaming applications.
 
-## [13. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/week/README.md)
+## [12. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/week/README.md)
 
 ### Exits / Burnout
 
 *   [As an Employee, You Are Disposable](https://nelson.cloud/as-an-employee-you-are-disposable/) - “It's okay to like your job and employer. Just understand that, as an employee, you are disposable.” Also: “This is not news. If you are loyal to your employer and do not own a significant part of the organization, then you should take a good hard look at why you're loyal -- and whether or not your employer is loyal to you in return.” ([source](https://news.ycombinator.com/item?id=40943681)).
 
-## [14. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
+## [13. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
 
 ### Table of Contents / Streaming Library
 
-*   [SwimOS (⭐275)](https://github.com/swimos/swim-rust) \[Rust] - A framework for building real-time streaming data processing applications written in Rust.
+*   [SwimOS (⭐323)](https://github.com/swimos/swim-rust) \[Rust] - A framework for building real-time streaming data processing applications written in Rust.
 
-## [15. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
-
-### Projects / Messaging
-
-*   [Apache Kafka (⭐28k) (⭐28k)](https://github.com/apache/kafka) - A distributed messaging system designed for high-throughput and fault-tolerance. Enables real-time data processing and stream processing applications with its distributed architecture and efficient data storage.
-*   [BlazingMQ (⭐2.5k) (⭐2.5k)](https://github.com/bloomberg/blazingmq) - A distributed message queueing platform with a focus on efficiency, reliability, and a rich feature set for modern-day workflows.
+## [14. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / Workflow engine
 
 *   [Activiti (⭐10k) (⭐10k)](https://github.com/Activiti/Activiti) - A lightweight and Java-centric open-source engine for executing BPMN (Business Process Model and Notation) workflows.
 
-## [16. Awesome Amazon Seller](/content/ScaleLeap/awesome-amazon-seller/week/README.md)
+## [15. Awesome Amazon Seller](/content/ScaleLeap/awesome-amazon-seller/week/README.md)
 
 ### Software and Tools
 
 *   [DataHawk](https://www.datahawk.co/) - An end-to-end platform, with full data control, intuitive dashboards and AI-powered guidance and automation.
 
-## [17. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
+## [16. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
 
 ### Exploits/Vulnerabilities/Bugs / Malware
 
 *   [Hudson Rock](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools) - Free cybercrime intelligence toolset that can indicate if a specific APK package was compromised in an Infostealer malware attack.
 
-## [18. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [17. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### C bindings
 
-*   [gpio.cr (⭐1)](https://github.com/spider-gazelle/gpio.cr) - Bindings for the gpiod library (general purpose IO control and feedback)
+*   [gpio.cr (⭐2)](https://github.com/spider-gazelle/gpio.cr) - Bindings for the gpiod library (general purpose IO control and feedback)
 
 ### Network Protocols
 
-*   [knx (⭐2)](https://github.com/spider-gazelle/knx) - KNX protocol implementation supporting multicast, unicast and TCP/IP tunnelling
+*   [knx (⭐3)](https://github.com/spider-gazelle/knx) - KNX protocol implementation supporting multicast, unicast and TCP/IP tunnelling
 
-## [19. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [18. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Utilities / System Related Tools
 
 *   [Pearcleaner](https://itsalin.com/appInfo/?id=pearcleaner) - A free, source-available and fair-code licensed mac app cleaner. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/alienator88/Pearcleaner)
 
-## [20. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
+## [19. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
 
 ### Developer tools and frameworks
 
@@ -421,9 +362,9 @@ Language: English \ <br>
 
 ### Uncategorised
 
-*   [Hidden Lake (⭐210)](https://github.com/number571/go-peer/tree/master/cmd/hidden_lake) is an anonymous network with theoretical provability to a global observer. It is based on the problem of queues.
+*   [Hidden Lake (⭐250)](https://github.com/number571/go-peer/tree/master/cmd/hidden_lake) is an anonymous network with theoretical provability to a global observer. It is based on the problem of queues.
 
-## [21. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
+## [20. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
 
 ### Projects / Libraries
 
@@ -431,51 +372,45 @@ Language: English \ <br>
 
 ### Resources / Tutorials and Hints
 
-*   [Tricks in Coq (⭐491)](https://github.com/coq-community/coq-tricks) - Tips, tricks, and features in Coq that are hard to discover.
+*   [Tricks in Coq (⭐510)](https://github.com/coq-community/coq-tricks) - Tips, tricks, and features in Coq that are hard to discover.
 
-## [22. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [21. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Configuration
 
-*   [yamagiconf (⭐15)](https://github.com/romshark/yamagiconf) - The "safe subset" of YAML for Go configs.
+*   [yamagiconf (⭐18)](https://github.com/romshark/yamagiconf) - The "safe subset" of YAML for Go configs.
 
 ### Databases Implemented in Go
 
-*   [rotom (⭐34)](https://github.com/xgzlucario/rotom) - A tiny Redis server built with Golang, compatible with RESP protocols.
+*   [rotom (⭐39)](https://github.com/xgzlucario/rotom) - A tiny Redis server built with Golang, compatible with RESP protocols.
 
 ### GUI
 
-*   [DarwinKit (⭐4.9k)](https://github.com/progrium/darwinkit) - Build native macOS applications using Go.
+*   [DarwinKit (⭐5.1k)](https://github.com/progrium/darwinkit) - Build native macOS applications using Go.
 
 ### Parsers/Encoders/Decoders
 
-*   [godump (⭐139)](https://github.com/yassinebenaid/godump) - Pretty print any GO variable with ease, an alternative to Go's `fmt.Printf("%#v")`.
+*   [godump (⭐179)](https://github.com/yassinebenaid/godump) - Pretty print any GO variable with ease, an alternative to Go's `fmt.Printf("%#v")`.
 
 ### Web Frameworks
 
-*   [Fuego (⭐761)](https://github.com/go-fuego/fuego) - The framework for busy Go developers! Web framework generating OpenAPI 3 spec from source code.
+*   [Fuego (⭐1.1k)](https://github.com/go-fuego/fuego) - The framework for busy Go developers! Web framework generating OpenAPI 3 spec from source code.
 
 ### DevOps Tools / Libraries for creating HTTP middlewares
 
-*   [tlm (⭐1.2k)](https://github.com/yusufcanb/tlm) - Local cli copilot, powered by CodeLLaMa
+*   [tlm (⭐1.3k)](https://github.com/yusufcanb/tlm) - Local cli copilot, powered by CodeLLaMa
 
-## [23. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
-
-### Fitness trackers
-
-*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Gadgetbridge](https://codeberg.org/Freeyourgadget/Gadgetbridge) - A free and cloudless replacement for your gadget vendors' closed source Android applications.
-
-## [24. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
+## [22. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
 ### DevOps / Discovery
 
-*   [nixidy (⭐43)](https://github.com/arnarg/nixidy) - Kubernetes GitOps with Nix and Argo CD.
+*   [nixidy (⭐122)](https://github.com/arnarg/nixidy) - Kubernetes GitOps with Nix and Argo CD.
 
 ### Programming Languages / Gleam
 
-*   [nix-gleam (⭐10)](https://github.com/arnarg/nix-gleam) - Generic Nix builder for Gleam applications.
+*   [nix-gleam (⭐18)](https://github.com/arnarg/nix-gleam) - Generic Nix builder for Gleam applications.
 
-## [25. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [23. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Security and PKI
 
@@ -507,17 +442,17 @@ Language: English \ <br>
 *   [PostPulse](https://post-pulse.io) - Boost your online presence, enhance your SEO and site ranking with monthly AI-crafted posts to SEO-optimized domains The free Plan allows you to manually publish one Post on our site every month.
 *   [PageTools](https://pagetools.co/) - Offers a suite of forever free AI-powered tools to help you generate essential website policies, create social media bios, posts and web pages with a simple one-click interface.
 
-## [26. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [24. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Databases
 
-*   [Neon (⭐5)](https://github.com/tyaga001/awesome-neon#readme) - An open-source alternative to AWS Aurora.
+*   [Neon (⭐11)](https://github.com/tyaga001/awesome-neon#readme) - An open-source alternative to AWS Aurora.
 
 ### Decentralized Systems
 
-*   [Tor (⭐8)](https://github.com/polycarbohydrate/awesome-tor#readme) - A free overlay network for enabling anonymous communication.
+*   [Tor (⭐31)](https://github.com/polycarbohydrate/awesome-tor#readme) - A free overlay network for enabling anonymous communication.
 
-## [27. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [25. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Videos / Others
 
@@ -528,37 +463,37 @@ Language: English \ <br>
 
 *   [Visual Studio 2022 Preview release notes](https://learn.microsoft.com/en-us/visualstudio/releases/2022/release-notes-preview#blazorwasmdebuggerimprovements) - July 9, 2024 - This release focuses on quality-of-life enhancements for all developers and workloads. When you use Visual Studio, you want to feel empowered and productive. That's why quality-of-life features are so important: they make coding a smooth and enjoyable experience, free of unnecessary hassles and headaches. We hope you'll love this update.
 
-## [28. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [26. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### (requires Neovim 0.5)
 
-*   [rachartier/tiny-code-action.nvim (⭐93)](https://github.com/rachartier/tiny-code-action.nvim) - Provides a simple way to run and visualize code actions with Telescope.
+*   [rachartier/tiny-code-action.nvim (⭐187)](https://github.com/rachartier/tiny-code-action.nvim) - Provides a simple way to run and visualize code actions with Telescope.
 
 ### Web Development / Diagnostics
 
-*   [mistweaverco/kulala.nvim (⭐536)](https://github.com/mistweaverco/kulala.nvim) - A minimal HTTP-client interface.
+*   [mistweaverco/kulala.nvim (⭐744)](https://github.com/mistweaverco/kulala.nvim) - A minimal HTTP-client interface.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [0xstepit/flow.nvim (⭐134)](https://github.com/0xstepit/flow.nvim) - Carefully designed colors to help focusing during coding plus fluorescent details. Support many plugins and tools.
+*   [0xstepit/flow.nvim (⭐265)](https://github.com/0xstepit/flow.nvim) - Carefully designed colors to help focusing during coding plus fluorescent details. Support many plugins and tools.
 
 ### Media / Diagnostics
 
-*   [AntonVanAssche/music-controls.nvim (⭐9)](https://github.com/AntonVanAssche/music-controls.nvim) - Quickly control your favorite music player (Spotify, VLC, and more).
+*   [AntonVanAssche/music-controls.nvim (⭐21)](https://github.com/AntonVanAssche/music-controls.nvim) - Quickly control your favorite music player (Spotify, VLC, and more).
 
 ### Utility / Diagnostics
 
-*   [niuiic/todo.nvim (⭐6)](https://github.com/niuiic/todo.nvim) - Simple but powerful todo manager based on text.
+*   [niuiic/todo.nvim (⭐14)](https://github.com/niuiic/todo.nvim) - Simple but powerful todo manager based on text.
 
 ### Test / Diagnostics
 
-*   [quolpr/quicktest.nvim (⭐65)](https://github.com/quolpr/quicktest.nvim) - Run your tests in split window or popup with live feedback.
+*   [quolpr/quicktest.nvim (⭐85)](https://github.com/quolpr/quicktest.nvim) - Run your tests in split window or popup with live feedback.
 
 ### Resource / Diagnostics
 
-*   [Nvim-training (⭐27)](https://github.com/Weyaaron/nvim-training) - A beginner-friendly tool for training your 'muscle memory' using small, repeatable tasks.
+*   [Nvim-training (⭐62)](https://github.com/Weyaaron/nvim-training) - A beginner-friendly tool for training your 'muscle memory' using small, repeatable tasks.
 
-## [29. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [27. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Testing Frameworks / Frameworks
 
@@ -570,27 +505,27 @@ Language: English \ <br>
 
 ### Date / Runner
 
-*   [tempo (⭐2.2k)](https://github.com/formkit/tempo) - Parsing, formatting, and timezones — Tempo is a small tree-shakable library for native Date objects.
+*   [tempo (⭐2.3k)](https://github.com/formkit/tempo) - Parsing, formatting, and timezones — Tempo is a small tree-shakable library for native Date objects.
 
 ### Benchmark / Runner
 
-*   [bencher (⭐454)](https://github.com/bencherdev/bencher) - A suite of continuous benchmarking tools designed to catch performance regressions in CI.
+*   [bencher (⭐489)](https://github.com/bencherdev/bencher) - A suite of continuous benchmarking tools designed to catch performance regressions in CI.
 
 ### Generators / Other
 
-*   [Lume (⭐1.7k)](https://github.com/lumeland/lume) - Static site generator for Deno.
+*   [Lume (⭐1.8k)](https://github.com/lumeland/lume) - Static site generator for Deno.
 
 ### Misc / Other
 
 *   [Roadmap.sh JavaScript Roadmap](https://roadmap.sh/javascript) - Learn JavaScript from a community sourced learning roadmap.
 
-## [30. Awesome Userscripts](/content/bvolpato/awesome-userscripts/week/README.md)
+## [28. Awesome Userscripts](/content/bvolpato/awesome-userscripts/week/README.md)
 
 ### Scripts / ChatGPT
 
 *   [AmazonGPT](https://amazongpt.kudoai.com) - Adds AI assistance to Amazon shopping.
 
-## [31. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [29. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Community
 
@@ -606,7 +541,7 @@ Language: English \ <br>
 *   [Become a ninja with Angular](https://books.ninja-squad.com/angular) - `Ninja Squad`
 *   [Angular University Ebooks](https://angular-university.io/my-ebooks) - Available separately or included with a subscription.
 *   [Mastering Angular Signals](https://angularexperts.io/products/ebook-signals) - `Kevin Kreuzer`
-*   [Angular Book (⭐34)](https://github.com/DenysVuika/angular-book) - `Denys Vuika` **FREE**
+*   [Angular Book (⭐35)](https://github.com/DenysVuika/angular-book) - `Denys Vuika` **FREE**
 *   [Modern Angular](https://www.angulararchitects.io/en/ebooks/modern-angular/?book) - `Manfred Steyer` **FREE**
 *   [Ultimate Guide to Angular Evolution](https://houseofangular.io/the-ultimate-guide-to-angular-evolution/) - `House of Angular` **FREE**
 *   [Micro Frontends and Moduliths with Angular](https://www.angulararchitects.io/en/ebooks/micro-frontends-and-moduliths-with-angular/) - `Manfred Steyer` **FREE**
@@ -623,16 +558,16 @@ Language: English \ <br>
 
 ### Authentication / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-clerk (⭐16)](https://github.com/anagstef/ngx-clerk) - An unofficial project that aims to provide a seamless integration of [Clerk](https://clerk.com) features into Angular applications.
+*   [ngx-clerk (⭐25)](https://github.com/anagstef/ngx-clerk) - An unofficial project that aims to provide a seamless integration of [Clerk](https://clerk.com) features into Angular applications.
 
 ### CLI / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-stylesweep (⭐6)](https://github.com/BernardoGiordano/ngx-stylesweep) - A CLI tool that removes empty style files from your Angular components.
+*   [ngx-stylesweep (⭐7)](https://github.com/BernardoGiordano/ngx-stylesweep) - A CLI tool that removes empty style files from your Angular components.
 
 ### Deployment / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [analog-publish-gh-pages (⭐3)](https://github.com/k9n-dev/analog-publish-gh-pages) - A Github Action for the Deployment of an [Analog.js](https://analogjs.org) App on Github Pages.
-*   [Genezio (⭐457)](https://github.com/Genez-io/genezio) - The easiest way to write and host a serverless application.
+*   [analog-publish-gh-pages (⭐4)](https://github.com/k9n-dev/analog-publish-gh-pages) - A Github Action for the Deployment of an [Analog.js](https://analogjs.org) App on Github Pages.
+*   [Genezio (⭐481)](https://github.com/Genez-io/genezio) - The easiest way to write and host a serverless application.
 
 ### Integrations / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -640,24 +575,24 @@ Language: English \ <br>
 
 ### Free / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [Angular-18-boilerplate (⭐47)](https://github.com/Gentleman-Programming/Angular-18-boilerplate)
-*   [angular-and-firebase-template (⭐5)](https://github.com/FullStacksDev/angular-and-firebase-template) - An opinionated full-stack starting point for building a web app, using Angular and Firebase.
+*   [Angular-18-boilerplate (⭐52)](https://github.com/Gentleman-Programming/Angular-18-boilerplate)
+*   [angular-and-firebase-template (⭐6)](https://github.com/FullStacksDev/angular-and-firebase-template) - An opinionated full-stack starting point for building a web app, using Angular and Firebase.
+
+### Data Grids / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [datagrid (⭐9)](https://github.com/radix-ng/datagrid) - Angular TanStack table with shadcn Theme.
 
 ### Loaders / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-loading-buttons (⭐14)](https://github.com/dkreider/ngx-loading-buttons) - A lightweight Angular library to add a loading spinner to your Angular Material buttons.
+*   [ngx-loading-buttons (⭐16)](https://github.com/dkreider/ngx-loading-buttons) - A lightweight Angular library to add a loading spinner to your Angular Material buttons.
 
 ### Maps / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [cesium-angular-example (⭐48)](https://github.com/Developer-Plexscape/cesium-angular-example) - A simple web application that demonstrates integration of [Cesium](https://cesium.com) with the LATEST version of Angular.
+*   [cesium-angular-example (⭐49)](https://github.com/Developer-Plexscape/cesium-angular-example) - A simple web application that demonstrates integration of [Cesium](https://cesium.com) with the LATEST version of Angular.
 
 ### Markdown / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ngx-markdoc (⭐3)](https://github.com/notiz-dev/ngx-markdoc) - [Markdoc](https://markdoc.dev) component for Angular applications.
-
-### Tables / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [datagrid (⭐5)](https://github.com/radix-ng/datagrid) - Angular TanStack table with shadcn Theme.
 
 ### Unspecified / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -665,17 +600,17 @@ Language: English \ <br>
 
 ### Misc Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ng2-idle (⭐322)](https://github.com/moribvndvs/ng2-idle) - A module for responding to idle users in Angular applications.
+*   [ng2-idle (⭐326)](https://github.com/moribvndvs/ng2-idle) - A module for responding to idle users in Angular applications.
 
 ### TypeScript / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [valibot (⭐5.8k)](https://github.com/fabian-hiller/valibot) - The modular and type safe schema library for validating structural data.
+*   [valibot (⭐6.8k)](https://github.com/fabian-hiller/valibot) - The modular and type safe schema library for validating structural data.
 
-## [32. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [30. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Standalone apps / Playground
 
-*   :octocat: [MemFree (⭐140)](https://github.com/memfreeme/memfree) - Open Source Hybrid AI Search Engine, Instantly Get Accurate Answers from the Internet, Bookmarks, Notes, and Docs. Support One-Click Deployment.
+*   :octocat: [MemFree (⭐1.2k)](https://github.com/memfreeme/memfree) - Open Source Hybrid AI Search Engine, Instantly Get Accurate Answers from the Internet, Bookmarks, Notes, and Docs. Support One-Click Deployment.
 
 ---
 

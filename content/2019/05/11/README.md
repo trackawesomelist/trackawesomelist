@@ -35,43 +35,43 @@
 
 ### Software / Automation
 
-*   [Kibitzr](https://kibitzr.github.io) - Lightweight personal web assistant with powerful integrations. ([Source Code (⭐644)](https://github.com/kibitzr/kibitzr)) `MIT` `Python`
+*   [Kibitzr](https://kibitzr.github.io) - Lightweight personal web assistant with powerful integrations. ([Source Code (⭐660)](https://github.com/kibitzr/kibitzr)) `MIT` `Python`
 
 ### Software / Communication - Email - Webmail Clients
 
-*   [Roundcube](https://roundcube.net) - Browser-based IMAP client with an application-like user interface. ([Source Code (⭐5.7k)](https://github.com/roundcube/roundcubemail)) `GPL-3.0` `PHP/deb`
+*   [Roundcube](https://roundcube.net) - Browser-based IMAP client with an application-like user interface. ([Source Code (⭐6k)](https://github.com/roundcube/roundcubemail)) `GPL-3.0` `PHP/deb`
 
 ### Software / Content Management Systems (CMS)
 
-*   [Strapi](https://strapi.io/) - The most advanced open-source Content Management Framework (headless-CMS) to build powerful API with no effort. ([Source Code (⭐62k)](https://github.com/strapi/strapi)) `MIT` `Nodejs`
+*   [Strapi](https://strapi.io/) - The most advanced open-source Content Management Framework (headless-CMS) to build powerful API with no effort. ([Source Code (⭐65k)](https://github.com/strapi/strapi)) `MIT` `Nodejs`
 
 ### Software / File Transfer - Peer-to-peer Filesharing
 
-*   [qBittorrent](https://www.qbittorrent.org/) - Free cross-platform bittorrent client with a feature rich Web UI for remote access. ([Source Code (⭐27k)](https://github.com/qbittorrent/qBittorrent)) `GPL-2.0` `C++`
+*   [qBittorrent](https://www.qbittorrent.org/) - Free cross-platform bittorrent client with a feature rich Web UI for remote access. ([Source Code (⭐30k)](https://github.com/qbittorrent/qBittorrent)) `GPL-2.0` `C++`
 
 ### Software / File Transfer - Web-based File Managers
 
-*   [IFM (⭐339)](https://github.com/misterunknown/ifm) - Single script file manager. `MIT` `PHP`
+*   [IFM (⭐349)](https://github.com/misterunknown/ifm) - Single script file manager. `MIT` `PHP`
 
 ### Software / Learning and Courses
 
-*   [RELATE](https://documen.tician.de/relate/) - RELATE is a web-based courseware package, includes features such as: flexible rules, statistics, multi-course support, class calendar. ([Source Code (⭐376)](https://github.com/inducer/relate)) `MIT` `Python`
+*   [RELATE](https://documen.tician.de/relate/) - RELATE is a web-based courseware package, includes features such as: flexible rules, statistics, multi-course support, class calendar. ([Source Code (⭐389)](https://github.com/inducer/relate)) `MIT` `Python`
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [Polaris (⭐1.4k)](https://github.com/agersant/polaris) - Music browsing and streaming application optimized for large music collections, ease of use and high performance. `MIT` `Rust/Docker`
+*   [Polaris (⭐1.5k)](https://github.com/agersant/polaris) - Music browsing and streaming application optimized for large music collections, ease of use and high performance. `MIT` `Rust/Docker`
 
 ### Software / Software Development - IDE & Tools
 
-*   [RStudio Server](https://www.rstudio.com/products/rstudio/#Server) - Web browser based IDE for R. ([Source Code (⭐4.6k)](https://github.com/rstudio/rstudio)) `AGPL-3.0` `Java/C++`
+*   [RStudio Server](https://www.rstudio.com/products/rstudio/#Server) - Web browser based IDE for R. ([Source Code (⭐4.7k)](https://github.com/rstudio/rstudio)) `AGPL-3.0` `Java/C++`
 
 ### Software / Software Development - Project Management
 
-*   [Klaus (⭐676)](https://github.com/jonashaag/klaus) - Simple, easy-to-set-up Git web viewer that Just Works. `ISC` `Python/Docker`
+*   [Klaus (⭐685)](https://github.com/jonashaag/klaus) - Simple, easy-to-set-up Git web viewer that Just Works. `ISC` `Python/Docker`
 
 ### Software / Wikis
 
-*   [Pepperminty Wiki (⭐180)](https://github.com/sbrl/Pepperminty-Wiki) - Complete markdown-powered wiki contained in a single PHP file. ([Demo](https://starbeamrainbowlabs.com/labs/peppermint/build/)) `MPL-2.0` `PHP`
+*   [Pepperminty Wiki (⭐191)](https://github.com/sbrl/Pepperminty-Wiki) - Complete markdown-powered wiki contained in a single PHP file. ([Demo](https://starbeamrainbowlabs.com/labs/peppermint/build/)) `MPL-2.0` `PHP`
 
 ## [5. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 
@@ -100,14 +100,14 @@
 
 ### C bindings
 
-*   [crystal-hunspell (⭐6)](https://github.com/mamantoha/crystal-hunspell) - Bindings for [Hunspell](https://hunspell.github.io/)
+*   [crystal-hunspell (⭐7)](https://github.com/mamantoha/crystal-hunspell) - Bindings for [Hunspell](https://hunspell.github.io/)
 
 ## [8. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Table of Contents / Content Management Systems (CMS)
 
 *   [Backdrop](https://backdropcms.org) - A CMS targeting small-to-medium-sized business and non-profits (a fork of Drupal).
-*   [Grav (⭐14k)](https://github.com/getgrav/grav) - A modern flat-file CMS.
+*   [Grav (⭐15k)](https://github.com/getgrav/grav) - A modern flat-file CMS.
 
 ## [9. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 

@@ -22,7 +22,7 @@
 
 ### Tools / C#
 
-*   [Atata (⭐469)](https://github.com/atata-framework/atata) - Automated web testing full featured framework based on Selenium WebDriver.
+*   [Atata (⭐494)](https://github.com/atata-framework/atata) - Automated web testing full featured framework based on Selenium WebDriver.
 
 ## [4. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/README.md)
 

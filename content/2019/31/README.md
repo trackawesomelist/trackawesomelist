@@ -84,7 +84,7 @@
 
 *   React
     *   [design-patterns](http://krasimirtsonev.com/blog/article/react-js-in-design-patterns)
-    *   [react-bits (⭐16k)](https://github.com/vasanthk/react-bits)
+    *   [react-bits (⭐17k)](https://github.com/vasanthk/react-bits)
     *   [reactpatterns.com](https://reactpatterns.com)
 
 ## [7. Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/week/README.md)
@@ -115,38 +115,38 @@
 
 ### Asynchronous Event Loop
 
-*   [promise-cpp (⭐659)](https://github.com/xhawk18/promise-cpp) - Header only library that implements Promise/A+ standard. \[Anti-996]
+*   [promise-cpp (⭐679)](https://github.com/xhawk18/promise-cpp) - Header only library that implements Promise/A+ standard. \[Anti-996]
 
 ### Configuration
 
-*   [inih (⭐2.4k)](https://github.com/benhoyt/inih) - Simple .INI file parser in C, good for embedded systems. \[BSD-3-Clause]
-*   [inih (⭐432)](https://github.com/jtilly/inih) - Single header only C++ version of [inih (⭐2.4k)](https://github.com/benhoyt/inih). \[BSD-3-Clause]
-*   [iniparser (⭐968)](https://github.com/ndevilla/iniparser) - INI file parser. \[MIT]\*
-*   [libconfuse (⭐468)](https://github.com/martinh/libconfuse) - Small configuration file parser library for C. \[ISC]
-*   [simpleini (⭐1.1k)](https://github.com/brofield/simpleini) - Cross-platform C++ library providing a simple API to read and write INI-style configuration files. \[MIT]
+*   [inih (⭐2.5k)](https://github.com/benhoyt/inih) - Simple .INI file parser in C, good for embedded systems. \[BSD-3-Clause]
+*   [inih (⭐439)](https://github.com/jtilly/inih) - Single header only C++ version of [inih (⭐2.5k)](https://github.com/benhoyt/inih). \[BSD-3-Clause]
+*   [iniparser (⭐1k)](https://github.com/ndevilla/iniparser) - INI file parser. \[MIT]\*
+*   [libconfuse (⭐484)](https://github.com/martinh/libconfuse) - Small configuration file parser library for C. \[ISC]
+*   [simpleini (⭐1.2k)](https://github.com/brofield/simpleini) - Cross-platform C++ library providing a simple API to read and write INI-style configuration files. \[MIT]
 
 ### Font
 
 *   [Fontconfig](https://gitlab.freedesktop.org/fontconfig/fontconfig) - Font configuration and customization library. \[MIT] [website](https://www.freedesktop.org/wiki/Software/fontconfig/)
 *   [FreeType](https://www.freetype.org/) - FreeType is a freely available software library to render fonts. \[FTL & GPLv2]
-*   [otfcc (⭐422)](https://github.com/caryll/otfcc) - A C library and utility used for parsing and writing OpenType font files. \[Apache-2.0]
+*   [otfcc (⭐430)](https://github.com/caryll/otfcc) - A C library and utility used for parsing and writing OpenType font files. \[Apache-2.0]
 
 ### Game Engine
 
-*   [Corange (⭐1.8k)](https://github.com/orangeduck/Corange) - A game engine written in pure C, SDL and OpenGL. \[BSD]
+*   [Corange (⭐1.9k)](https://github.com/orangeduck/Corange) - A game engine written in pure C, SDL and OpenGL. \[BSD]
 *   [toy engine (⭐1.6k)](https://github.com/hugoam/toy) - toy is a thin and modular c++ game engine and offers simple expressive c++ idioms to design full featured 2D or 3D games in fast iterations.
 
 ### Graphics
 
-*   [LLGL (⭐2k)](https://github.com/LukasBanana/LLGL) - Low Level Graphics Library (LLGL) is a thin abstraction layer for the modern graphics APIs. \[BSD-3-Clause]
+*   [LLGL (⭐2.1k)](https://github.com/LukasBanana/LLGL) - Low Level Graphics Library (LLGL) is a thin abstraction layer for the modern graphics APIs. \[BSD-3-Clause]
 
 ### Image Processing
 
-*   [Leptonica (⭐1.7k)](https://github.com/DanBloomberg/leptonica) - Leptonica is an open source library containing software that is broadly useful for image processing and image analysis applications. \[BSD-2-Clause] [website](http://leptonica.org/index.html)
+*   [Leptonica (⭐1.8k)](https://github.com/DanBloomberg/leptonica) - Leptonica is an open source library containing software that is broadly useful for image processing and image analysis applications. \[BSD-2-Clause] [website](http://leptonica.org/index.html)
 
 ### Serialization
 
-*   [Cap'n Proto (⭐11k)](https://github.com/capnproto/capnproto) - Fast data interchange format and capability-based RPC system. \[MIT] [website](https://capnproto.org/)
+*   [Cap'n Proto (⭐12k)](https://github.com/capnproto/capnproto) - Fast data interchange format and capability-based RPC system. \[MIT] [website](https://capnproto.org/)
 
 ### Machine Learning
 
@@ -154,11 +154,11 @@
 
 ### Memory Allocation
 
-*   [tgc (⭐954)](https://github.com/orangeduck/tgc) - A tiny garbage collector for C written in \~500 LOC. \[BSD]
+*   [tgc (⭐977)](https://github.com/orangeduck/tgc) - A tiny garbage collector for C written in \~500 LOC. \[BSD]
 
 ### Networking
 
-*   [DPDK (⭐3.2k)](https://github.com/DPDK/dpdk) - Data Plane Development Kit, libraries and drivers for fast packet processing. \[BSD-3-Clause & GPL-2.0] [website](https://www.dpdk.org/)
+*   [DPDK (⭐3.5k)](https://github.com/DPDK/dpdk) - Data Plane Development Kit, libraries and drivers for fast packet processing. \[BSD-3-Clause & GPL-2.0] [website](https://www.dpdk.org/)
 *   [PF\_RING™ (⭐2.7k)](https://github.com/ntop/PF_RING) - High-speed packet processing framework. \[LGPL-2.1] [website](https://www.ntop.org/products/packet-capture/pf_ring/)
 
 ### Robotics
@@ -171,7 +171,7 @@
 
 ### Integrated Development Environment
 
-*   [YouCompleteMe (⭐25k)](https://github.com/ycm-core/YouCompleteMe) - YouCompleteMe is a fast, as-you-type, fuzzy-search code completion engine for Vim.
+*   [YouCompleteMe (⭐26k)](https://github.com/ycm-core/YouCompleteMe) - YouCompleteMe is a fast, as-you-type, fuzzy-search code completion engine for Vim.
 
 ## [12. Awesome Digitalocean](/content/jonleibowitz/awesome-digitalocean/week/README.md)
 
@@ -187,7 +187,7 @@
 
 ### Software / File Transfer - Web-based File Managers
 
-*   [Gossa (⭐880)](https://github.com/pldubouilh/gossa) - Gossa is a light and simple webserver for your files. `MIT` `Go`
+*   [Gossa (⭐940)](https://github.com/pldubouilh/gossa) - Gossa is a light and simple webserver for your files. `MIT` `Go`
 
 ## [14. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
@@ -635,7 +635,7 @@
 ### Platforms
 
 *   [WebExtensions (⭐1.3k)](https://github.com/fregante/Awesome-WebExtensions#readme) - Cross-browser extension system.
-*   [Cloudflare (⭐700)](https://github.com/irazasyed/awesome-cloudflare#readme) - CDN, DNS, DDoS protection, and security for your site.
+*   [Cloudflare (⭐757)](https://github.com/irazasyed/awesome-cloudflare#readme) - CDN, DNS, DDoS protection, and security for your site.
 
 ### Programming Languages
 
@@ -643,8 +643,8 @@
 
 ### Front-End Development
 
-*   [Angular (⭐9.4k)](https://github.com/PatrickJS/awesome-angular#readme) - App framework.
-*   [Blazor (⭐8.7k)](https://github.com/AdrienTorris/awesome-blazor#readme) - .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
+*   [Angular (⭐9.5k)](https://github.com/PatrickJS/awesome-angular#readme) - App framework.
+*   [Blazor (⭐8.9k)](https://github.com/AdrienTorris/awesome-blazor#readme) - .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
 
 ### Back-End Development
 
@@ -652,22 +652,22 @@
 
 ### Business
 
-*   [Tools of the Trade (⭐16k)](https://github.com/cjbarber/ToolsOfTheTrade#readme) - Tools used by companies on Hacker News.
+*   [Tools of the Trade (⭐17k)](https://github.com/cjbarber/ToolsOfTheTrade#readme) - Tools used by companies on Hacker News.
 
 ### Miscellaneous
 
-*   [FOSS Production Apps (⭐296)](https://github.com/DataDaoDe/awesome-foss-apps#readme)
-*   [Crypto Currency Tools & Algorithms (⭐3.8k)](https://github.com/Zheaoli/awesome-coins#readme) - Digital currency where encryption is used to regulate the generation of units and verify transfers.
+*   [FOSS Production Apps (⭐319)](https://github.com/DataDaoDe/awesome-foss-apps#readme)
+*   [Crypto Currency Tools & Algorithms (⭐3.9k)](https://github.com/Zheaoli/awesome-coins#readme) - Digital currency where encryption is used to regulate the generation of units and verify transfers.
 
 ## [37. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Code Analysis and Metrics
 
-*   [ameba (⭐510)](https://github.com/crystal-ameba/ameba) - A static code analysis tool
+*   [ameba (⭐524)](https://github.com/crystal-ameba/ameba) - A static code analysis tool
 
 ### HTTP
 
-*   [Cable (⭐127)](https://github.com/cable-cr/cable) - An ActionCable "port" to Crystal, framework agnostic, 100% compatible with the ActionCable JS Client
+*   [Cable (⭐129)](https://github.com/cable-cr/cable) - An ActionCable "port" to Crystal, framework agnostic, 100% compatible with the ActionCable JS Client
 
 ## [38. Awesome Waves](/content/msmolyakov/awesome-waves/week/README.md)
 
@@ -711,32 +711,32 @@
 
 ### Productivity / Note Taking and Lists
 
-*   [td-cli (⭐183)](https://github.com/darrikonn/td-cli) - A TODO manager to organize and manage your TODO's across multiple projects.
+*   [td-cli (⭐193)](https://github.com/darrikonn/td-cli) - A TODO manager to organize and manage your TODO's across multiple projects.
 
 ### Utilities / macOS
 
-*   [dark-mode (⭐650)](https://github.com/sindresorhus/dark-mode) - Toggle dark mode.
+*   [dark-mode (⭐661)](https://github.com/sindresorhus/dark-mode) - Toggle dark mode.
 
 ### Utilities / System Interaction Utilities
 
-*   [battery-level-cli (⭐31)](https://github.com/gillstrom/battery-level-cli) - Get current battery level.
-*   [brightness-cli (⭐202)](https://github.com/kevva/brightness-cli) - Change screen brightness ([windows (⭐10)](https://github.com/sondreb/win-brightness)).
+*   [battery-level-cli (⭐33)](https://github.com/gillstrom/battery-level-cli) - Get current battery level.
+*   [brightness-cli (⭐203)](https://github.com/kevva/brightness-cli) - Change screen brightness ([windows (⭐10)](https://github.com/sondreb/win-brightness)).
 *   [yank (⭐1.6k)](https://github.com/mptre/yank) - Yank terminal output to clipboard.
 *   [screensaver (⭐40)](https://github.com/gillstrom/screensaver) - Start the screensaver.
-*   [google-font-installer (⭐175)](https://github.com/lordgiotto/google-font-installer) - Download and install Google Web Fonts on your local machine.
+*   [google-font-installer (⭐187)](https://github.com/lordgiotto/google-font-installer) - Download and install Google Web Fonts on your local machine.
 
 ## [40. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Utils / Third-party APIs
 
-*   [swank-crew (⭐40)](https://github.com/brown/swank-crew) - distributed computation framework implemented using Swank Client. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
+*   [swank-crew (⭐43)](https://github.com/brown/swank-crew) - distributed computation framework implemented using Swank Client. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
 ## [41. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/week/README.md)
 
 ### Sparse linear solvers / Mesh tools
 
 *   [hypre](https://computing.llnl.gov/projects/hypre-scalable-linear-solvers-multigrid-methods) - Library of high-performance preconditioners and solvers.
-    (C, Apache 2.0/MIT, [GitHub (⭐603)](https://github.com/hypre-space/hypre))
+    (C, Apache 2.0/MIT, [GitHub (⭐713)](https://github.com/hypre-space/hypre))
 
 ## [42. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
@@ -976,13 +976,13 @@
 
 ### Build Tools to set up performance budget
 
-*   [Performance Budget Builder (⭐178)](https://github.com/GoogleChromeLabs/pr-bot) - Lay out your template types, set a size budget for each template type, then plug in the sizes for each asset category that will load in the template.
+*   [Performance Budget Builder (⭐181)](https://github.com/GoogleChromeLabs/pr-bot) - Lay out your template types, set a size budget for each template type, then plug in the sizes for each asset category that will load in the template.
 *   [Progressive Web Metrics (⭐1.2k)](https://github.com/paulirish/pwmetrics) - Lay out your template types, set a size budget for each template type, then plug in the sizes for each asset category that will load in the template.
-*   [rollup-plugin-size-snapshot (⭐159)](https://github.com/TrySound/rollup-plugin-size-snapshot) - CLI tool and lib to gather performance metrics via Lighthouse.
+*   [rollup-plugin-size-snapshot (⭐164)](https://github.com/TrySound/rollup-plugin-size-snapshot) - CLI tool and lib to gather performance metrics via Lighthouse.
 
 ### Bundle Analyzers
 
-*   [lasso-analyzer (⭐3)](https://github.com/ajay2507/lasso-analyzer) - Analyze and Visualise project bundles created by Lasso.
+*   [lasso-analyzer (⭐4)](https://github.com/ajay2507/lasso-analyzer) - Analyze and Visualise project bundles created by Lasso.
 
 ### Videos
 

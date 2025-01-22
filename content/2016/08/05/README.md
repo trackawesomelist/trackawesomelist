@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 05, 2016
 
-13 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,31 +10,31 @@
 
 ### Development Projects / APIs
 
-*   [PokeAPI (⭐3.1k)](https://github.com/PokeAPI/pokeapi/) - A RESTful API for Pokémon (<http://pokeapi.co/>).
+*   [PokeAPI (⭐4.3k)](https://github.com/PokeAPI/pokeapi/) - A RESTful API for Pokémon (<http://pokeapi.co/>).
 *   [pgoapi (⭐1.4k)](https://github.com/tejado/pgoapi) - Pokémon GO API lib/demo.
-*   [Pokemon-GO-node-api (⭐884)](https://github.com/Armax/Pokemon-GO-node-api) - Pokémon GO API Node.js library.
-*   [Pokemon-Go-Rocket-API (⭐376)](https://github.com/FeroxRev/Pokemon-Go-Rocket-API) - Client API library for Pokémon GO in C#.
-*   [Pokemon GO Java API (⭐1.1k)](https://github.com/Grover-c13/PokeGOAPI-Java) - Pokémon GO API for Java.
-*   [Pokemon Name API (⭐445)](https://github.com/sindresorhus/pokemon) - Get a list of Pokémon names in JSON.
+*   [Pokemon-GO-node-api (⭐875)](https://github.com/Armax/Pokemon-GO-node-api) - Pokémon GO API Node.js library.
+*   [Pokemon-Go-Rocket-API (⭐368)](https://github.com/FeroxRev/Pokemon-Go-Rocket-API) - Client API library for Pokémon GO in C#.
+*   [Pokemon GO Java API (⭐1k)](https://github.com/Grover-c13/PokeGOAPI-Java) - Pokémon GO API for Java.
+*   [Pokemon Name API (⭐490)](https://github.com/sindresorhus/pokemon) - Get a list of Pokémon names in JSON.
 
 ### Development Projects / Apps
 
-*   [iPokeMon (⭐432)](https://github.com/Kjuly/iPokeMon) - Pokémon like game on iOS with Location Based Service.
-*   [pokemon-online (⭐278)](https://github.com/po-devs/pokemon-online) - Online Pokémon Battle Simulator.
+*   [iPokeMon (⭐430)](https://github.com/Kjuly/iPokeMon) - Pokémon like game on iOS with Location Based Service.
+*   [pokemon-online (⭐290)](https://github.com/po-devs/pokemon-online) - Online Pokémon Battle Simulator.
 
 ### Development Projects / Bots
 
-*   [slack-pokemon (⭐342)](https://github.com/rvinluan/slack-pokemon) - A bot for having Pokémon battles in Slack.
-*   [PokeSlack (⭐40)](https://github.com/timwah/pokeslack) - Alerts you of nearby Pokémon.
-*   [TwitchPlaysPokemon (⭐109)](https://github.com/sunshinekitty/TwitchPlaysPokemon) - A bot mimicking Twitch Plays Pokémon.
-*   [PokemonGoBot (⭐568)](https://github.com/jabbink/PokemonGoBot) - Bot that plays Pokémon GO.
+*   [slack-pokemon (⭐341)](https://github.com/rvinluan/slack-pokemon) - A bot for having Pokémon battles in Slack.
+*   [PokeSlack (⭐38)](https://github.com/timwah/pokeslack) - Alerts you of nearby Pokémon.
+*   [TwitchPlaysPokemon (⭐110)](https://github.com/sunshinekitty/TwitchPlaysPokemon) - A bot mimicking Twitch Plays Pokémon.
+*   [PokemonGoBot (⭐557)](https://github.com/jabbink/PokemonGoBot) - Bot that plays Pokémon GO.
 
 ### Development Projects / Miscellaneous
 
 *   [Pokemon-Go-Controller (⭐2.5k)](https://github.com/kahopoon/Pokemon-Go-Controller) - Play Pokémon GO safely or at unavailable area.
-*   [pokemon-go-mitm-node (⭐478)](https://github.com/rastapasta/pokemon-go-mitm-node) - Pokémon GO MITM Proxy.
-*   [PokeMMO (⭐699)](https://github.com/maierfelix/PokeMMO) - WebGL Pokémon MMO Engine with Realtime Editor.
-*   [PoGoTools (⭐4)](https://github.com/nelsyeung/PoGoTools) - A set of CLI tools for getting IVs, transferring Pokémon, evolving Pokémon, and trashing items.
+*   [pokemon-go-mitm-node (⭐487)](https://github.com/rastapasta/pokemon-go-mitm-node) - Pokémon GO MITM Proxy.
+*   [PokeMMO (⭐730)](https://github.com/maierfelix/PokeMMO) - WebGL Pokémon MMO Engine with Realtime Editor.
+*   [PoGoTools (⭐5)](https://github.com/nelsyeung/PoGoTools) - A set of CLI tools for getting IVs, transferring Pokémon, evolving Pokémon, and trashing items.
 *   [slack-pokemon-emoji (⭐21)](https://github.com/fraserxu/slack-pokemon-emoji) - A tool to upload all the Pokémon to Slack emoji.
 
 ### Resources & Others / Communities
@@ -46,7 +46,7 @@
 
 ### Resources & Others / Maps
 
-*   [pokelocater (⭐132)](https://github.com/emeth-/pokelocater) - Display Pokémon nearby your location on a map.
+*   [pokelocater (⭐130)](https://github.com/emeth-/pokelocater) - Display Pokémon nearby your location on a map.
 *   [Pokemap (⭐1k)](https://github.com/omkarmoghe/Pokemap) - A native Android client to map the Pokémon around you.
 *   [Poke Vision](https://pokevision.com/) - Find Pokémon by location.
 
@@ -73,13 +73,13 @@
 
 ### Packages / Weird
 
-*   [nerds (⭐108)](https://github.com/SkyHacks/nerds) - Get data from nerdy topics like Harry Potter, Star Wars, and Pokémon.
+*   [nerds (⭐109)](https://github.com/SkyHacks/nerds) - Get data from nerdy topics like Harry Potter, Star Wars, and Pokémon.
 
 ## [4. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
 
 ### Libraries
 
-*   [tensorflow.rb (⭐826)](https://github.com/somaticio/tensorflow.rb) - TensorFlow native interface for ruby using SWIG
+*   [tensorflow.rb (⭐828)](https://github.com/somaticio/tensorflow.rb) - TensorFlow native interface for ruby using SWIG
 
 ## [5. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
@@ -91,7 +91,7 @@
 
 ### Documentation / Symfony2
 
-*   [ReDoc (⭐23k)](https://github.com/Rebilly/ReDoc/) - OpenAPI/Swagger-powered three-panel documentation.
+*   [ReDoc (⭐24k)](https://github.com/Rebilly/ReDoc/) - OpenAPI/Swagger-powered three-panel documentation.
 
 ## [7. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
 
@@ -103,7 +103,7 @@
 
 ### MVC Frameworks and Libraries / Runner
 
-*   [preact (⭐36k)](https://github.com/developit/preact) - Fast 3kb React alternative with the same ES6 API. Components & Virtual DOM.
+*   [preact (⭐37k)](https://github.com/developit/preact) - Fast 3kb React alternative with the same ES6 API. Components & Virtual DOM.
 
 ## [9. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
 
@@ -115,7 +115,7 @@
 
 ### Elixir / General-Purpose Machine Learning
 
-*   [Simple Bayes (⭐392)](https://github.com/fredwu/simple_bayes) - A Simple Bayes / Naive Bayes implementation in Elixir.
+*   [Simple Bayes (⭐391)](https://github.com/fredwu/simple_bayes) - A Simple Bayes / Naive Bayes implementation in Elixir.
 
 ### Elixir / Natural Language Processing
 
@@ -132,12 +132,6 @@
 ### Citizen Science Spaces and Projects / Genetics/Biohacking
 
 *   [BioCurious](http://biocurious.org/) - The first biohacking space in the world, located in Sunnyvale, CA
-
-## [13. Awesome Userscripts](/content/bvolpato/awesome-userscripts/README.md)
-
-### Scripts / YouTube
-
-*   [YouTube Subtitle Download (⭐805)](https://github.com/1c7/Youtube-Auto-Subtitle-Download) - Adds links to download video subtitles.
 
 ---
 

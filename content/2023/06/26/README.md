@@ -88,19 +88,19 @@ Webpage: <https://www.instagram.com/osskaffe.es/>
 
 ### no-std crates / WIP
 
-*   [idsp](https://crates.io/crates/idsp): integer DSP algorithms (trigonometry, filtering, PLL...) tuned for precision and speed - ![crates.io](https://img.shields.io/crates/v/idsp.svg)
+*   [idsp](https://crates.io/crates/idsp): integer DSP algorithms (trigonometry, filtering, PLL...) tuned for precision and speed - [![crates.io](https://img.shields.io/crates/v/idsp.svg)](https://crates.io/crates/idsp)
 
 ## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Database
 
-*   [Speedb (⭐882)](https://github.com/speedb-io/speedb) - Community-led project: A RocksDB compliant high performance scalable embedded key-value store. \[Apache2]
+*   [Speedb (⭐956)](https://github.com/speedb-io/speedb) - Community-led project: A RocksDB compliant high performance scalable embedded key-value store. \[Apache2]
 
 ## [6. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
-### Sensors / Barometer
+### Sensors / Barometer - Air and Water Pressure
 
-*   [MicroPython\_BMP581 (⭐0)](https://github.com/jposada202020/MicroPython_BMP581) - MicroPython driver for the Bosch BMP581 pressure & temperature sensor.
+*   [MicroPython\_BMP581 (⭐0)](https://github.com/jposada202020/MicroPython_BMP581) - MicroPython driver for the Bosch BMP581 pressure & temperature sensor. (Archived)
 
 ## [7. Awesome Swift Playgrounds](/content/uraimo/Awesome-Swift-Playgrounds/README.md)
 
@@ -112,7 +112,7 @@ Webpage: <https://www.instagram.com/osskaffe.es/>
 
 ### Reading and Writing Tools / Others
 
-*   [PDFgear](https://www.pdfgear.com/) - AI-integrated PDF editor providing view, edit, annotate, protect, convert, Copilot assistant, and more possibilities. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/pdfgear-pdf-editor-for-adobe/id1615523079)
+*   [PDFgear](https://www.pdfgear.com/) - AI-integrated PDF editor. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/pdfgear-pdf-editor-for-adobe/id1615523079)
 
 ## [9. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
@@ -160,11 +160,11 @@ Webpage: <https://www.instagram.com/osskaffe.es/>
 
 ### Utility / Diagnostics
 
-*   [aPeoplesCalendar/apc.nvim (⭐23)](https://github.com/aPeoplesCalendar/apc.nvim) - "On this day" style calendar, which provides information about worldwide history of working class movements and liberation struggles.
+*   [aPeoplesCalendar/apc.nvim (⭐22)](https://github.com/aPeoplesCalendar/apc.nvim) - "On this day" style calendar, which provides information about worldwide history of working class movements and liberation struggles.
 
 ### Editing Support / Diagnostics
 
-*   [tomiis4/hypersonic.nvim (⭐210)](https://github.com/tomiis4/hypersonic.nvim) - Provides explanation for RegExp.
+*   [tomiis4/hypersonic.nvim (⭐224)](https://github.com/tomiis4/hypersonic.nvim) - Provides explanation for RegExp.
 
 ---
 

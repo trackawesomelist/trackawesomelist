@@ -23,7 +23,7 @@
 
 ### Text and Numbers
 
-*   [chinese\_translation (⭐89)](https://github.com/tyrchen/chinese_translation) - Translate between traditional chinese and simplified chinese based on wikipedia data, and translate chinese words/characters to pinyin (or slug with or without tone).
+*   [chinese\_translation (⭐90)](https://github.com/tyrchen/chinese_translation) - Translate between traditional chinese and simplified chinese based on wikipedia data, and translate chinese words/characters to pinyin (or slug with or without tone).
 
 ## [4. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 

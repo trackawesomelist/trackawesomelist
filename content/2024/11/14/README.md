@@ -23,15 +23,9 @@
 
 *   [Bilsteingroup](https://bilsteingroup.com/en/career/) - Automotive spare parts. Python, Java, Postgres. Teams accross Europe. HQ in Germany.
 *   [Cadasta](https://cadasta.org/) - Secure platform for mapping global land & resource rights. 100% remote team; Python, Django, JavaScript, PostgreSQL.
-*   [TestGrid](https://www.testgrid.io/) - TestGrid is a leading provider of end-to-end automation cloud and on-premise testing solutions. With a focus on simplifying the testing process, TestGrid's innovative AI-powered technology allows organizations to streamline their end to end testing process. Hiring developers, sales & marketing folks worldwide.
 *   [Neon Postgres Database](https://neon.tech/careers) - Neon is a distributed fully remote team building open-source, cloud-native Postgres and Neon is an open-source alternative to AWS Aurora or Google's Cloud SQL for Postgres.
-*   [Pinterest](https://www.pinterestcareers.com/jobs/#results) - Pinterest does hire people to work remote jobs. So, they're "remote-ish"
 *   [SearchApi](https://www.searchapi.io/) - Real-time API to access structured search results of Google, Bing, Baidu, Amazon, Youtube, and other search engines. Ruby, Rails, Hotwire, TailwindCSS, PostgreSQL, Redis, Sidekiq, Terraform.
 *   [Shiphero](https://shiphero.breezy.hr/?\&remote=remote#positions) - ShipHero builds a fully featured Warehouse Management System. 100% remote.
-
-### Tools / Project Management
-
-*   [gantt-online](https://www.gantt-online.com/) - Gantt Chart Project Management Tool.
 
 ### Others / Others
 
@@ -74,8 +68,8 @@
 
 ### CMS
 
-*   [FluentCMS (⭐199)](https://github.com/fluentcms/FluentCMS) - ![GitHub stars](https://img.shields.io/github/stars/fluentcms/FluentCMS?style=flat-square\&cacheSeconds=604800) ![GitHub stars](https://img.shields.io/github/last-commit/fluentcms/FluentCMS?style=flat-square\&cacheSeconds=86400) FluentCMS is open source AI Driven ASP.NET Core Blazor Content Management System (CMS) [FluentCMS](https://fluentcms.com/).
-*   [ZauberCMS (⭐59)](https://github.com/YodasMyDad/ZauberCMS) - ![stars](https://img.shields.io/github/stars/YodasMyDad/ZauberCMS?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/YodasMyDad/ZauberCMS?style=flat-square\&cacheSeconds=86400) Fully featured, highly customisable and plugin based Blazor CMS, heavily inspired by Umbraco.
+*   [FluentCMS (⭐275)](https://github.com/fluentcms/FluentCMS) - ![GitHub stars](https://img.shields.io/github/stars/fluentcms/FluentCMS?style=flat-square\&cacheSeconds=604800) ![GitHub stars](https://img.shields.io/github/last-commit/fluentcms/FluentCMS?style=flat-square\&cacheSeconds=86400) FluentCMS is open source AI Driven ASP.NET Core Blazor Content Management System (CMS) [FluentCMS](https://fluentcms.com/).
+*   [ZauberCMS (⭐61)](https://github.com/YodasMyDad/ZauberCMS) - ![stars](https://img.shields.io/github/stars/YodasMyDad/ZauberCMS?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/YodasMyDad/ZauberCMS?style=flat-square\&cacheSeconds=86400) Fully featured, highly customisable and plugin based Blazor CMS, heavily inspired by Umbraco.
 
 ### Others
 
@@ -83,11 +77,11 @@
 
 ### Component bundles
 
-*   [BootstrapBlazor (⭐2.6k)](https://github.com/dotnetcore/BootstrapBlazor) - ![stars](https://img.shields.io/github/stars/dotnetcore/BootstrapBlazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/dotnetcore/BootstrapBlazor?style=flat-square\&cacheSeconds=86400) A set of enterprise-class UI components based on Bootstrap and Blazor ([Docs as Demo](https://www.blazor.zone/)).
+*   [BootstrapBlazor (⭐2.8k)](https://github.com/dotnetcore/BootstrapBlazor) - ![stars](https://img.shields.io/github/stars/dotnetcore/BootstrapBlazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/dotnetcore/BootstrapBlazor?style=flat-square\&cacheSeconds=86400) A set of enterprise-class UI components based on Bootstrap and Blazor ([Docs as Demo](https://www.blazor.zone/)).
 
 ### Real-World applications / Others
 
-*   [FairPlayCombined (⭐26)](https://github.com/pticostaricags/FairPlayCombined) - ![GitHub stars](https://img.shields.io/github/stars/pticostaricags/FairPlayCombined?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/pticostaricags/FairPlayCombined?style=flat-square\&cacheSeconds=86400) The FairPlay platform is a set of pre-built customizable solutions created with Blazor.
+*   [FairPlayCombined (⭐28)](https://github.com/pticostaricags/FairPlayCombined) - ![GitHub stars](https://img.shields.io/github/stars/pticostaricags/FairPlayCombined?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/pticostaricags/FairPlayCombined?style=flat-square\&cacheSeconds=86400) The FairPlay platform is a set of pre-built customizable solutions created with Blazor.
 
 ### Videos / Others
 
@@ -131,4 +125,5 @@
 
 ---
 
+- Prev: [Nov 15, 2024](/content/2024/11/15/README.md)
 - Next: [Nov 13, 2024](/content/2024/11/13/README.md)

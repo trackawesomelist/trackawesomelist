@@ -17,9 +17,9 @@ A curated list of add-ons that extend/enhance the git CLI.
 
 > *“You don’t have to know everything. You simply need to know where to find it when necessary.” (John Brunner)*
 
-Inspired by the [awesome (⭐326k)](https://github.com/sindresorhus/awesome) list thing.
+Inspired by the [awesome (⭐328k)](https://github.com/sindresorhus/awesome) list thing.
 
-**Note**: Some of the commands may not work out of the box. You might need to run a post install script to add aliases or add them manually.
+**Note**: Certain commands may not function immediately after installation. You may need to run a post-install script or manually configure aliases for them to work correctly.
 
 ## Table of Contents
 

@@ -10,7 +10,7 @@
 
 ### Math / Other
 
-*   [Math snippets (⭐115)](https://github.com/terkelg/math) - Math snippets with graphic programming in mind.
+*   [Math snippets (⭐117)](https://github.com/terkelg/math) - Math snippets with graphic programming in mind.
 
 ## [2. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
 
@@ -109,27 +109,27 @@
 
 ### Awesome Repositories
 
-- Repository: [Android Security (⭐8k)](https://github.com/ashishb/android-security-awesome)
+- Repository: [Android Security (⭐8.3k)](https://github.com/ashishb/android-security-awesome)
 
   Description: Collection of Android security related resources
 
 
-- Repository: [AppSec (⭐6.2k)](https://github.com/paragonie/awesome-appsec)
+- Repository: [AppSec (⭐6.4k)](https://github.com/paragonie/awesome-appsec)
 
   Description: Resources for learning about application security
 
 
-- Repository: [Bug Bounty (⭐4.5k)](https://github.com/djadmin/awesome-bug-bounty)
+- Repository: [Bug Bounty (⭐4.7k)](https://github.com/djadmin/awesome-bug-bounty)
 
   Description: List of Bug Bounty Programs and write-ups from the Bug Bounty hunters
 
 
-- Repository: [CTF (⭐9.5k)](https://github.com/apsdehal/awesome-ctf)
+- Repository: [CTF (⭐10k)](https://github.com/apsdehal/awesome-ctf)
 
   Description: List of CTF frameworks, libraries, resources and softwares
 
 
-- Repository: [DevSecOps (⭐4.5k)](https://github.com/devsecops/awesome-devsecops)
+- Repository: [DevSecOps (⭐4.7k)](https://github.com/devsecops/awesome-devsecops)
 
   Description: List of awesome DevSecOps tools with the help from community experiments and contributions
 
@@ -139,42 +139,42 @@
   Description: Resources for learning about Exploit Development
 
 
-- Repository: [Fuzzing (⭐5.2k)](https://github.com/secfigo/Awesome-Fuzzing)
+- Repository: [Fuzzing (⭐5.4k)](https://github.com/secfigo/Awesome-Fuzzing)
 
   Description: List of fuzzing resources for learning Fuzzing and initial phases of Exploit Development like root cause analysis
 
 
-- Repository: [Honeypots (⭐8.3k)](https://github.com/paralax/awesome-honeypots)
+- Repository: [Honeypots (⭐8.8k)](https://github.com/paralax/awesome-honeypots)
 
   Description: List of honeypot resources
 
 
-- Repository: [Incident Response (⭐7.4k)](https://github.com/meirwah/awesome-incident-response)
+- Repository: [Incident Response (⭐7.8k)](https://github.com/meirwah/awesome-incident-response)
 
   Description: List of tools for incident response
 
 
-- Repository: [InfoSec (⭐5.1k)](https://github.com/onlurking/awesome-infosec)
+- Repository: [InfoSec (⭐5.3k)](https://github.com/onlurking/awesome-infosec)
 
   Description: List of awesome infosec courses and training resources
 
 
-- Repository: [IoT Hacks (⭐2.1k)](https://github.com/nebgnahz/awesome-iot-hacks)
+- Repository: [IoT Hacks (⭐2.2k)](https://github.com/nebgnahz/awesome-iot-hacks)
 
   Description: Collection of Hacks in IoT Space
 
 
-- Repository: [Malware Analysis (⭐11k)](https://github.com/rshipp/awesome-malware-analysis)
+- Repository: [Malware Analysis (⭐12k)](https://github.com/rshipp/awesome-malware-analysis)
 
   Description: List of awesome malware analysis tools and resources
 
 
-- Repository: [Pcaptools (⭐3k)](https://github.com/caesar0301/awesome-pcaptools)
+- Repository: [Pcaptools (⭐3.2k)](https://github.com/caesar0301/awesome-pcaptools)
 
   Description: Collection of tools developed by researchers in the Computer Science area to process network traces
 
 
-- Repository: [Pentest (⭐21k)](https://github.com/enaqx/awesome-pentest)
+- Repository: [Pentest (⭐22k)](https://github.com/enaqx/awesome-pentest)
 
   Description: List of awesome penetration testing resources, tools and other shiny things
 
@@ -184,37 +184,37 @@
   Description: Libraries for generating secure random numbers, encrypting data and scanning for vulnerabilities
 
 
-- Repository: [Sec Talks (⭐4k)](https://github.com/PaulSec/awesome-sec-talks)
+- Repository: [Sec Talks (⭐4.1k)](https://github.com/PaulSec/awesome-sec-talks)
 
   Description: List of awesome security talks
 
 
-- Repository: [SecLists (⭐56k)](https://github.com/danielmiessler/SecLists)
+- Repository: [SecLists (⭐60k)](https://github.com/danielmiessler/SecLists)
 
   Description: Collection of multiple types of lists used during security assessments
 
 
-- Repository: [Security (⭐12k)](https://github.com/sbilly/awesome-security)
+- Repository: [Security (⭐13k)](https://github.com/sbilly/awesome-security)
 
   Description: Collection of awesome software, libraries, documents, books, resources and cools stuffs about security
 
 
-- Repository: [Static Analysis (⭐13k)](https://github.com/mre/awesome-static-analysis)
+- Repository: [Static Analysis (⭐14k)](https://github.com/mre/awesome-static-analysis)
 
   Description: List of static analysis tools, linters and code quality checkers for various programming languages
 
 
-- Repository: [Threat Intelligence (⭐7.8k)](https://github.com/hslatman/awesome-threat-intelligence)
+- Repository: [Threat Intelligence (⭐8.3k)](https://github.com/hslatman/awesome-threat-intelligence)
 
   Description: List of Awesome Threat Intelligence resources
 
 
-- Repository: [Web Hacking (⭐5.7k)](https://github.com/infoslack/awesome-web-hacking)
+- Repository: [Web Hacking (⭐6k)](https://github.com/infoslack/awesome-web-hacking)
 
   Description: List of web application security
 
 
-- Repository: [WiFi Arsenal (⭐1.9k)](https://github.com/0x90/wifi-arsenal)
+- Repository: [WiFi Arsenal (⭐2k)](https://github.com/0x90/wifi-arsenal)
 
   Description: Pack of various useful/useless tools for 802.11 hacking
 
@@ -222,32 +222,32 @@
 
 ### Other Useful Repositories
 
-- Repository: [Bug Bounty Reference (⭐3.7k)](https://github.com/ngalongc/bug-bounty-reference)
+- Repository: [Bug Bounty Reference (⭐3.8k)](https://github.com/ngalongc/bug-bounty-reference)
 
   Description: List of bug bounty write-up that is categorized by the bug nature
 
 
-- Repository: [CTF Tool (⭐250)](https://github.com/SandySekharan/CTF-tool)
+- Repository: [CTF Tool (⭐258)](https://github.com/SandySekharan/CTF-tool)
 
   Description: List of Capture The Flag (CTF) frameworks, libraries, resources and softwares
 
 
-- Repository: [Forensics (⭐3.8k)](https://github.com/Cugu/awesome-forensics)
+- Repository: [Forensics (⭐4.1k)](https://github.com/Cugu/awesome-forensics)
 
   Description: List of awesome forensic analysis tools and resources
 
 
-- Repository: [IOC (⭐777)](https://github.com/sroberts/awesome-iocs)
+- Repository: [IOC (⭐829)](https://github.com/sroberts/awesome-iocs)
 
   Description: Collection of sources of indicators of compromise
 
 
-- Repository: [Security Cheatsheets (⭐1.2k)](https://github.com/andrewjkerr/security-cheatsheets)
+- Repository: [Security Cheatsheets (⭐1.3k)](https://github.com/andrewjkerr/security-cheatsheets)
 
   Description: Collection of cheatsheets for various infosec tools and topics
 
 
-- Repository: [Shell (⭐32k)](https://github.com/alebcay/awesome-shell)
+- Repository: [Shell (⭐34k)](https://github.com/alebcay/awesome-shell)
 
   Description: List of awesome command-line frameworks, toolkits, guides and gizmos to make complete use of shell
 

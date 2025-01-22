@@ -26,7 +26,7 @@
 
 ### Visualization / Mesh tools
 
-*   [morphologica (⭐214)](https://github.com/ABRG-Models/morphologica) - Header-only, modern OpenGL code to visualize numerical simulations at runtime. (C++, Apache 2.0, GitHub)
+*   [morphologica (⭐260)](https://github.com/ABRG-Models/morphologica) - Header-only, modern OpenGL code to visualize numerical simulations at runtime. (C++, Apache 2.0, GitHub)
 
 ## [4. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -58,19 +58,19 @@
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-mock-dev-server (⭐151)](https://github.com/pengzhanbo/vite-plugin-mock-dev-server) - Mock server for development, support CJS/ESM/JSON, auto-importing file and HMR.
+*   [vite-plugin-mock-dev-server (⭐185)](https://github.com/pengzhanbo/vite-plugin-mock-dev-server) - Mock server for development, support CJS/ESM/JSON, auto-importing file and HMR.
 
 ## [8. Awesome Rails](/content/gramantin/awesome-rails/README.md)
 
 ### Open Source Rails Apps / Other external resources
 
-*   [retrospring (⭐230)](https://github.com/retrospring/retrospring) - A social network following the Q/A (question and answer) principle - [:earth\_africa:](https://retrospring.net)
+*   [retrospring (⭐262)](https://github.com/retrospring/retrospring) - A social network following the Q/A (question and answer) principle - [:earth\_africa:](https://retrospring.net)
 
 ## [9. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Time Tracking
 
-*   [Traggo](https://traggo.net/) - Traggo is a tag-based time tracking tool. In Traggo there are no tasks, only tagged time spans. ([Source Code (⭐1.1k)](https://github.com/traggo/server)) `GPL-3.0` `Docker/Go`
+*   [Traggo](https://traggo.net/) - Traggo is a tag-based time tracking tool. In Traggo there are no tasks, only tagged time spans. ([Source Code (⭐1.3k)](https://github.com/traggo/server)) `GPL-3.0` `Docker/Go`
 
 ---
 

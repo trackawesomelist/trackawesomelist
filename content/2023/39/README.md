@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 25 - Oct 01, 2023
 
-34 awesome lists updated this week.
+32 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -20,7 +20,7 @@
 
 ### Cost Forecast / Market Research
 
-*   [Darts (⭐7.3k)](https://github.com/unit8co/darts) - Python library for user-friendly forecasting and anomaly detection on time series. It wraps a huge number of models, including [Prophet](https://facebook.github.io/prophet/). Great for experiments, but bear in mind that all the [models in Darts expects](https://news.ycombinator.com/item?id=37665435) that your data comes at a very regular interval, and make a lot of assumptions about their shape.
+*   [Darts (⭐8.1k)](https://github.com/unit8co/darts) - Python library for user-friendly forecasting and anomaly detection on time series. It wraps a huge number of models, including [Prophet](https://facebook.github.io/prophet/). Great for experiments, but bear in mind that all the [models in Darts expects](https://news.ycombinator.com/item?id=37665435) that your data comes at a very regular interval, and make a lot of assumptions about their shape.
 
 ## [3. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
@@ -133,7 +133,7 @@
 
 ### RSS services powered by utilizing GitHub / Outline Processor Markup Language
 
-*   [rssTea (⭐65)](https://github.com/avadhesh18/rssTea): a RSS reader and Podcast player Progressive Web App running on GitHub Actions <sup>[1375](https://t.me/s/aboutrss/1375)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/avadhesh18/rssTea)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+*   [rssTea (⭐73)](https://github.com/avadhesh18/rssTea): a RSS reader and Podcast player Progressive Web App running on GitHub Actions <sup>[1375](https://t.me/s/aboutrss/1375)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/avadhesh18/rssTea)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
 ## [6. Awesome Minecraft](/content/bs-community/awesome-minecraft/week/README.md)
 
@@ -141,102 +141,62 @@
 
 *   [Official Minecraft Wiki](https://minecraft.wiki/) - Minecraft Wiki is a complete resource for Minecraft, including gameplay, blocks, crafting, updates, events, mods, running a server, and resource packs.
 
-## [7. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/week/README.md)
-
-### **LangChain features and related libraries** / DSPy optimizer
-
-*   [LangSmith](https://blog.langchain.dev/announcing-langsmith/) Platform for debugging, testing, evaluating. \[Jul 2023]
-    <!-- <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/langchain_debugging.png" width="150" /> -->
-
-### **A Taxonomy of Natural Language Processing** / **GPT series release date**
-
-*   An overview of different fields of study and recent developments in NLP. [doc](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/files/taxonomy-nlp.pdf) [ref](https://towardsdatascience.com/a-taxonomy-of-natural-language-processing-dfc790cb4c01) \[24 Sep 2023]
-
-    “Exploring the Landscape of Natural Language Processing Research” [ref](https://arxiv.org/abs/2307.10652) \[20 Jul 2023]
-
-    <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/taxonomy-nlp.png" width="650" />
-
-    NLP taxonomy
-
-    <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/taxonomy-nlp2.png" width="650" />
-
-    Distribution of the number of papers by most popular fields of study from 2002 to 2022
-
-### **Build an LLMs from scratch: picoGPT and lit-gpt** / **GPT series release date**
-
-*   An unnecessarily tiny implementation of GPT-2 in NumPy. [picoGPT (⭐3.2k)](https://github.com/jaymody/picoGPT): Transformer Decoder \[Jan 2023]
-
-    ```python
-    q = x @ w_k # [n_seq, n_embd] @ [n_embd, n_embd] -> [n_seq, n_embd]
-    k = x @ w_q # [n_seq, n_embd] @ [n_embd, n_embd] -> [n_seq, n_embd]
-    v = x @ w_v # [n_seq, n_embd] @ [n_embd, n_embd] -> [n_seq, n_embd]
-
-    # In picoGPT, combine w_q, w_k and w_v into a single matrix w_fc
-    x = x @ w_fc # [n_seq, n_embd] @ [n_embd, 3*n_embd] -> [n_seq, 3*n_embd]
-    ```
-
-## [8. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
+## [7. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
 
 ### eBPF Workflow: Tools and Utilities / Aya
 
-*   [Ebpfguard (⭐270)](https://github.com/deepfence/ebpfguard) - Rust library for writing Linux security policies using eBPF.
+*   [Ebpfguard (⭐296)](https://github.com/deepfence/ebpfguard) - Rust library for writing Linux security policies using eBPF.
 
-## [9. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/week/README.md)
+## [8. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/week/README.md)
 
-### Popular Science Books / Monograph
+### Popular Science / Lecture Videos Playlist
 
 *   [Teuscher. Alan Turing: Life and Legacy of a Great. Springer](https://link.springer.com/book/10.1007/978-3-662-05642-4) - Essays which spans the entire rich spectrum of Turing's life, research work and legacy.
 
-## [10. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [9. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [unplugin-auto-export (⭐25)](https://github.com/coderhyh/unplugin-auto-export) - Automates the maintenance of export statements in the index.ts file.
+*   [unplugin-auto-export (⭐29)](https://github.com/coderhyh/unplugin-auto-export) - Automates the maintenance of export statements in the index.ts file.
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-typescript-transform (⭐13)](https://github.com/herberttn/vite-plugin-typescript-transform) - Applies the TypeScript compiler during Vite's transform build phase.
+*   [vite-plugin-typescript-transform (⭐16)](https://github.com/herberttn/vite-plugin-typescript-transform) - Applies the TypeScript compiler during Vite's transform build phase.
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [unplugin-info (⭐78)](https://github.com/yjl9903/unplugin-info) - Export build information as a virutal module.
+*   [unplugin-info (⭐82)](https://github.com/yjl9903/unplugin-info) - Export build information as a virutal module.
 
-## [11. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
+## [10. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
 
 ### Icons
 
 *   [Sitecore Icons (⭐8)](https://github.com/Antonytm/sitecore-icons) - An instalable collection of 1800+ FA and 2500+ MUI icons X 4 colors (Black, Blue, Green, Red).
 
-## [12. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
+## [11. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
 
 ### Builder / Other
 
 *   [packer](https://developer.hashicorp.com/packer/integrations/hashicorp/docker/latest/components/builder/docker) - Hashicorp tool to build machine images including docker image integrated with configuration management tools like chef, puppet, ansible
 
-## [13. Awesome Esolangs](/content/angrykoala/awesome-esolangs/week/README.md)
+## [12. Awesome Esolangs](/content/angrykoala/awesome-esolangs/week/README.md)
 
 ### Languages
 
 *   [CellTail (⭐5)](https://github.com/mousetail/celltail) - A 1d celular automata based language, supports a complex pattern matching syntax.
 
-## [14. Awesome Mysql](/content/shlomi-noach/awesome-mysql/week/README.md)
+## [13. Awesome Mysql](/content/shlomi-noach/awesome-mysql/week/README.md)
 
 ### HA
 
 *   [Percona Replication Manager (⭐3)](https://github.com/percona/replication-manager) - Asynchronous MySQL replication manager agent for Pacemaker. Supports file and GTID based replication, geo-distributed clusters using booth.
 
-## [15. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
-
-### Resources / Ironsworn
-
-*   [Starsmith Expanded Oracles](https://preview.drivethrurpg.com/en/product/417619/Starsmith-Expanded-Oracles) - Supplemental oracles for Starforged
-
-## [16. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [14. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Extensions
 
-*   [next-google-tag-manager (⭐44)](https://github.com/XD2Sketch/next-google-tag-manager) – Easily add Google Tag Manager to Next 13 and up.
-*   [next-api-decorators (⭐391)](https://github.com/storyofams/next-api-decorators) - Decorators to create typed Next.js API routes, with easy request validation and transformation.
+*   [next-google-tag-manager (⭐48)](https://github.com/XD2Sketch/next-google-tag-manager) – Easily add Google Tag Manager to Next 13 and up.
+*   [next-api-decorators (⭐420)](https://github.com/storyofams/next-api-decorators) - Decorators to create typed Next.js API routes, with easy request validation and transformation.
 
 ### Projects(Beginner level)
 
@@ -245,7 +205,7 @@
 *   [Full Stack Spotify Clone: Next 13.4, React, Stripe, Supabase, PostgreSQL, Tailwind (2023)](https://youtube.com/watch?v=2aeMRB8LL4o\&t=4402s)
 *   [Full Stack E-Commerce + Dashboard & CMS: Next.js 13 App Router, React, Tailwind, Prisma, MySQL, 2023](https://www.youtube.com/watch?v=5miHyP6lExg\&t=1908s)
 
-## [17. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
+## [15. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
 
 ### Hosting:
 
@@ -314,36 +274,51 @@
 
 
 
-## [18. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [16. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Programming Languages / [Other](#other-1)
 
 *   [CakeFuzzer](https://zigrin.com/tools/cake-fuzzer/) — Web application security testing tool for CakePHP-based web applications. CakeFuzzer employs a predefined set of attacks that are randomly modified before execution. Leveraging its deep understanding of the Cake PHP framework, Cake Fuzzer launches attacks on all potential application entry points.
 
-## [19. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
+## [17. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
 
 ### Other LLM Frameworks / Videos Playlists
 
 *   [AgentVerse (⭐4k)](https://github.com/openbmb/agentverse) Provides a flexible framework that simplifies the process of building custom multi-agent environments for LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/openbmb/agentverse?style=social)
 
-## [20. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
+## [18. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
 
 ### Hardware / Accessories and Adapters
 
-*   [PlotAdapter (⭐21)](https://github.com/rhalkyard/plotadapter) - "Serial-GPIB converter for HP Plotters", uses an Arduino microcontroller to convert serial HPGL to the GPIB/HP-IB expected by some older HP plotters.
+*   [PlotAdapter (⭐22)](https://github.com/rhalkyard/plotadapter) - "Serial-GPIB converter for HP Plotters", uses an Arduino microcontroller to convert serial HPGL to the GPIB/HP-IB expected by some older HP plotters.
 
 ### Inspiration, Instruction, and Research / Fonts
 
 *   [Tech Tangents: Gold Standard Plotter - HP 7475A](https://www.youtube.com/watch?v=8785ktWD7vQ) - Video with some HPGL and plotter history, plus operating an HP 7475A from an IBM 5160 microcomputer.
 *   [curiousmarc.com: HP 7475A Plotter](https://www.curiousmarc.com/computing/hp-7475a-plotter) - A great collection of info, ephemera, plot files, three YouTube videos, and a 3d-printable replacement part for the HP 7475A.
 
-## [21. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/week/README.md)
+## [19. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/week/README.md)
 
 ### Blogs / TikZ
 
 *   [TeX Hour](https://texhour.github.io/) - A weekly video meeting
 
-## [22. Awesome Music](/content/ciconia/awesome-music/week/README.md)
+## [20. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+
+### APIs, Data, and ML
+
+*   [Zuplo](https://zuplo.com/) - Free API Management platform to design, build, and deploy APIs to the Edge. Add API Key authentication, rate limiting, developer documentation and Monetization to any API in minutes. OpenAPI-native and fully-programmable with web standard apis & Typescript. The free plan offers up to 10 projects, unlimited production edge environments, 250 API keys, 100K monthly requests, and 1GB egress.
+
+### Education and Career Development
+
+*   [FreeCodeCamp](https://www.freecodecamp.org/) - Open-source platform offering free courses and certifications in Data Analysis, Information Security, Web Development, and more.
+*   [The Odin Project](https://www.theodinproject.com/) - Free, open-source platform with a curriculum focused on JavaScript and Ruby for web development.
+
+### PaaS
+
+*   [deco.cx](https://www.deco.cx/en/dev) - Edge-native frontend platform with a visual CMS auto-generated from TypeScript code. Built-in A/B testing, content segmentation, and real-time analytics. Perfect for content-heavy and Enterprise e-commerce websites. Free up to 5k pageviews/month or open-source/personal projects.
+
+## [21. Awesome Music](/content/ciconia/awesome-music/week/README.md)
 
 ### Audio Editing
 
@@ -353,35 +328,35 @@
 
 *   [mutwo](https://mutwo-org.github.io/) - a Python library for composition that outputs notation, MIDI or audio files and that provides a generalized model to describe time-based structures.
 *   [pyo](https://belangeo.github.io/pyo/) - a Python module to help digital signal processing script creation.
-*   [slippery chicken (⭐67)](https://github.com/mdedwards/slippery-chicken) - a Common Lisp environment for composition building on CLM, CMN, CM, MusicXML and Lilypond for score, sound file, and/or MIDI file outputs.
+*   [slippery chicken (⭐72)](https://github.com/mdedwards/slippery-chicken) - a Common Lisp environment for composition building on CLM, CMN, CM, MusicXML and Lilypond for score, sound file, and/or MIDI file outputs.
 
 ### Related lists
 
-*   [Awesome Audio DSP (⭐766)](https://github.com/BillyDM/awesome-audio-dsp) - A curated list of audio DSP and plugin development resources.
+*   [Awesome Audio DSP (⭐942)](https://github.com/BillyDM/awesome-audio-dsp) - A curated list of audio DSP and plugin development resources.
 
-## [23. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
+## [22. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
 
 ### AI
 
-*   [Luafinding (⭐29)](https://github.com/GlorifiedPig/Luafinding) - Class-based A\* implementation written purely in Lua.
+*   [Luafinding (⭐36)](https://github.com/GlorifiedPig/Luafinding) - Class-based A\* implementation written purely in Lua.
 
 ### Camera
 
-*   [parallax (⭐12)](https://github.com/idbrii/love-parallax) - Parallax scrolling with any camera system; seamlessly tile background images.
+*   [parallax (⭐15)](https://github.com/idbrii/love-parallax) - Parallax scrolling with any camera system; seamlessly tile background images.
 
 ### Input
 
-*   [GamepadGuesser (⭐6)](https://github.com/idbrii/love-gamepadguesser) - Get the right button icons for gamepads; load updated gamepad db.
+*   [GamepadGuesser (⭐9)](https://github.com/idbrii/love-gamepadguesser) - Get the right button icons for gamepads; load updated gamepad db.
 
 ### Shaders
 
-*   [ShaderScan (⭐6)](https://github.com/idbrii/love-shaderscan) - Adds hot reload, includes, and better error messages for faster shader iteration.
+*   [ShaderScan (⭐8)](https://github.com/idbrii/love-shaderscan) - Adds hot reload, includes, and better error messages for faster shader iteration.
 
 ### UI
 
-*   [Layouter (⭐8)](https://github.com/nekromoff/layouter) - A simple UI **grid layout** library for LÖVE 2D game engine.
+*   [Layouter (⭐15)](https://github.com/nekromoff/layouter) - A simple UI **grid layout** library for LÖVE 2D game engine.
 
-## [24. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
+## [23. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
 
 ### Tutorials
 
@@ -401,90 +376,74 @@
 *   [Roppers Security Fundamentals](https://www.roppers.org/courses/security) - Free course that teaches a beginner how security works in the real world. Learn security theory and execute defensive measures so that you are better prepared against threats online and in the physical world. Full text available as a [gitbook](https://www.hoppersroppers.org/security/).
 *   [Roppers Practical Networking](https://www.roppers.org/courses/networking) - A hands-on, wildly practical introduction to networking and making packets dance. No wasted time, no memorizing, just learning the fundamentals.
 
-## [25. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
+## [24. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
 
 ### Automated Machine Learning / Others
 
-*   [Auto-PyTorch (⭐2.3k)](https://github.com/automl/Auto-PyTorch) - Automatic architecture search and hyperparameter optimization for PyTorch. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
+*   [Auto-PyTorch (⭐2.4k)](https://github.com/automl/Auto-PyTorch) - Automatic architecture search and hyperparameter optimization for PyTorch. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
 
 ### Reinforcement Learning / Others
 
-*   [PettingZoo (⭐2.4k)](https://github.com/Farama-Foundation/PettingZoo) - An API standard for multi-agent reinforcement learning environments, with popular reference environments and related utilities.
+*   [PettingZoo (⭐2.6k)](https://github.com/Farama-Foundation/PettingZoo) - An API standard for multi-agent reinforcement learning environments, with popular reference environments and related utilities.
 
-## [26. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [25. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Reading and Writing Tools / Ebooks
 
-*   [Simple Comic](https://apps.apple.com/us/app/simple-comic/id1497435571?mt=12) - EBook reader for graphic novels in PDF, CBZ, CBR format. Find command powered by Live Text on recent Macs   [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/MaddTheSane/Simple-Comic) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/simple-comic/id1497435571?mt=12)
+*   [Simple Comic](https://apps.apple.com/us/app/simple-comic/id1497435571?mt=12) - EBook reader for PDF, CBZ, and CBR formats with Live Text search. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/MaddTheSane/Simple-Comic) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/simple-comic/id1497435571?mt=12)
 
 ### Developer Tools / Virtualization
 
-*   [Lima (⭐15k)](https://github.com/lima-vm/lima) - Lima launches Linux virtual machines with automatic file sharing and port forwarding. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/lima-vm/lima)
+*   [Lima (⭐16k)](https://github.com/lima-vm/lima) - Lima launches Linux virtual machines with automatic file sharing and port forwarding. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/lima-vm/lima)
 
 ### Security Tools / Audio Record and Process
 
-*   [swiftGuard (⭐312)](https://github.com/Lennolium/swiftGuard) - Lightweight App that safeguards your System's USB Ports from any Unauthorized Access and performs various Counter-Measures. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Lennolium/swiftGuard) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [swiftGuard (⭐452)](https://github.com/Lennolium/swiftGuard) - Lightweight App that safeguards your System's USB Ports from any Unauthorized Access and performs various Counter-Measures. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Lennolium/swiftGuard) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / Clipboard Tools
 
 *   [Boop](https://boop.okat.best/) - Snippet tool that provides various functionalities like JSON formatting, MD5 Checksum, reverse string, encode, and much more. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/IvanMathy/Boop)
 
-## [27. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [26. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Self-hosting Solutions
 
 *   [FreedomBox](https://freedombox.org/) - Community project to develop, design and promote personal servers running free software for private, personal, communications. ([Source Code](https://salsa.debian.org/freedombox-team/freedombox)) `AGPL-3.0` `Python/deb`
 
-## [28. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
+## [27. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
 
 ### Examples
 
-*   [antoinezanardi/werewolves-assistant-api-next (⭐28)](https://github.com/antoinezanardi/werewolves-assistant-api-next#readme) - Project logo. Badges. Concise description. TOC for easy navigation. Simple install instructions and various sections. Clean project with code coverage, CI, and many other features.
+*   [antoinezanardi/werewolves-assistant-api-next](https://github.com/antoinezanardi/werewolves-assistant-api-next#readme) - Project logo. Badges. Concise description. TOC for easy navigation. Simple install instructions and various sections. Clean project with code coverage, CI, and many other features.
 
-## [29. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
-
-### APIs, Data, and ML
-
-*   [Zuplo](https://zuplo.com/) - Add API Key authentication, rate limiting, and developer documentation to any API in minutes. The free plan offers up to 10 projects, unlimited production edge environments, 250 API keys, 100K monthly requests, and 1GB egress.
-
-### Education and Career Development
-
-*   [FreeCodeCamp](https://www.freecodecamp.org/) - Open-source platform offering free courses and certifications in Data Analysis, Information Security, Web Development, and more.
-*   [The Odin Project](https://www.theodinproject.com/) - Free, open-source platform with a curriculum focused on JavaScript and Ruby for web development.
-
-### PaaS
-
-*   [deco.cx](https://www.deco.cx/en/dev) - Edge-native frontend platform with a visual CMS auto-generated from TypeScript code. Built-in A/B testing, content segmentation, and real-time analytics. Perfect for content-heavy and Enterprise e-commerce websites. Free up to 5k pageviews/month or open-source/personal projects.
-*   [Platformatic Cloud](https://platformatic.dev/) - Platformatic offers many open-source packages to wrap and deploy your Fastify application in the Platformatic Cloud. Built-in CD with a GitHub Action. [Free plan](https://platformatic.dev/pricing/) for hobbyists with a simple [GitHub login](https://platformatic.cloud/).
-
-## [30. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [28. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Miscellaneous
 
-*   [Steam Deck (⭐290)](https://github.com/airscripts/awesome-steam-deck#readme) - A handheld gaming computer developed by Valve.
+*   [Steam Deck (⭐392)](https://github.com/airscripts/awesome-steam-deck#readme) - A handheld gaming computer developed by Valve.
 
-## [31. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [29. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### :dollar: Paid Courses / Chrome Extensions
 
 *   [TypeScript Origins: The Documentary - YouTube](https://www.youtube.com/watch?v=U6s2pdxebSo) by OfferZen Origins
     > The Documentary features core contributors and community members like Anders Hejlsberg, Steve Lucco, Luke Hoban, Daniel Rosenwasser, Ryan Cavanaugh, Amanda Silver, Matt Pocock, Josh Goldberg & many more!
 
-## [32. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [30. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Colorscheme Creation / Diagnostics
 
-*   [roobert/palette.nvim (⭐63)](https://github.com/roobert/palette.nvim) - A beautiful, versatile, systematic, theme system.
+*   [roobert/palette.nvim (⭐72)](https://github.com/roobert/palette.nvim) - A beautiful, versatile, systematic, theme system.
 
 ### Cursorline / Diagnostics
 
-*   [sontungexpt/stcursorword (⭐73)](https://github.com/sontungexpt/stcursorword) - Highlight the word under the cursor (Improved and compact version of nvim-cursorline).
+*   [sontungexpt/stcursorword (⭐75)](https://github.com/sontungexpt/stcursorword) - Highlight the word under the cursor (Improved and compact version of nvim-cursorline).
 
 ### Git / Diagnostics
 
-*   [niuiic/git-log.nvim (⭐15)](https://github.com/niuiic/git-log.nvim) - Check git log of the selected code.
+*   [niuiic/git-log.nvim (⭐16)](https://github.com/niuiic/git-log.nvim) - Check Git log of the selected code.
 
-## [33. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+## [31. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### Software / Automation
 
@@ -495,7 +454,7 @@
 *   [Environment Modules](https://cea-hpc.github.io/modules/) - Environment Modules provides for the dynamic modification of a user's environment via modulefiles. ([Source Code (⭐679)](https://github.com/cea-hpc/modules)) `GPL-2.0` `Tcl`
 *   [Lmod](https://www.tacc.utexas.edu/research-development/tacc-projects/lmod) - Lmod is a Lua based module system that easily handles the MODULEPATH Hierarchical problem. ([Source Code (⭐477)](https://github.com/TACC/Lmod)) `MIT` `Lua`
 
-## [34. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
+## [32. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
 
 ### Libraries
 

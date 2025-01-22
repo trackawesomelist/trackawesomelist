@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 20, 2020
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,18 +10,18 @@
 
 ### Framework Components
 
-*   [graphql (⭐134)](https://github.com/graphql-crystal/graphql) - Type-safe [GraphQL](http://graphql.org) server implementation
+*   [graphql (⭐136)](https://github.com/graphql-crystal/graphql) - Type-safe [GraphQL](http://graphql.org) server implementation
 *   [graphql-crystal (⭐215)](https://github.com/ziprandom/graphql-crystal) - [GraphQL](http://graphql.org) implementation
 
 ### Unofficial
 
-*   [crystal-koans (⭐46)](https://github.com/ilmanzo/crystal-koans) - Learn Crystal by writing unit tests
+*   [crystal-koans (⭐48)](https://github.com/ilmanzo/crystal-koans) - Learn Crystal by writing unit tests
 
 ## [2. Awesome Ansible](/content/ansible-community/awesome-ansible/README.md)
 
 ### Playbooks, Roles and Collections / French
 
-*   [Ansible playbook for Linux machine setup (⭐58)](https://github.com/olivomarco/my-ansible-linux-setup) - Ansible playbook for setting up a self-updating, hardened Debian/Ubuntu machine with Docker daemon.
+*   [Ansible playbook for Linux machine setup (⭐86)](https://github.com/olivomarco/my-ansible-linux-setup) - Ansible playbook for setting up a self-updating, hardened Debian/Ubuntu machine with Docker daemon.
 
 ## [3. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
@@ -67,7 +67,7 @@
 
 ### Mobile
 
-*   [cl-json-pointer (⭐10)](https://github.com/y2q-actionman/cl-json-pointer) - A JSON Pointer implementation. [MIT](https://opensource.org/licenses/MIT).
+*   [cl-json-pointer (⭐12)](https://github.com/y2q-actionman/cl-json-pointer) - A JSON Pointer implementation. [MIT](https://opensource.org/licenses/MIT).
 
 ## [9. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
@@ -127,16 +127,6 @@
 ### Bug trackers
 
 *   [Trac (⭐468)](https://github.com/edgewall/trac) - IT project management solution that enables software developers to track and address bugs, tasks, files, wiki pages, and more.
-
-## [11. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Resources / Examples
-
-*   [Go-echo-vuejs-boilerplate (⭐4)](https://github.com/faisaltheparttimecoder/go-echo-vuejs-boilerplate) - Boilerplate that uses go with echo framework as a backend and vuejs that serve the web traffic.
-
-### Components & Libraries / Utilities
-
-*   [vue3-custom-hooks (⭐2)](https://github.com/PoluosmakAndrew/vue3-custom-hooks) - Build custom hooks for Vue.js 3 Composition API.
 
 ---
 

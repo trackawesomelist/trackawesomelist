@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 22, 2022
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -22,7 +22,7 @@
 
 ### Providers / Vendor supported providers
 
-*   [terraform-provider-iterative (⭐288)](https://github.com/iterative/terraform-provider-iterative) - Terraform plugin built with machine learning in mind.
+*   [terraform-provider-iterative (⭐291)](https://github.com/iterative/terraform-provider-iterative) - Terraform plugin built with machine learning in mind.
 
 ## [4. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
@@ -34,20 +34,13 @@
 
 *   [ngx-focus-control (⭐2)](https://github.com/Raiper34/ngx-focus-control) - Library to provide tools to work with focus and focusable elements to improve user interfaces and accessibility.
 
-## [5. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
-
-### Contributors
-
-*   [Bogdan Bystritskiy](https://www.linkedin.com/in/maxim-eremenko/)
-*   [Big Mountain Studio](https://github.com/bigmountainstudio)
-
-## [6. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [5. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Misc
 
-*   [saschpe/log4k (⭐16)](https://github.com/saschpe/log4k) - Lightweight logging library for Kotlin/Multiplatform. Supports Android, iOS, JavaScript and plain JVM environments.
+*   [saschpe/log4k (⭐22)](https://github.com/saschpe/log4k) - Lightweight logging library for Kotlin/Multiplatform. Supports Android, iOS, JavaScript and plain JVM environments.
 
-## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### PaaS
 
@@ -58,7 +51,7 @@
 *   [Imgbot](https://github.com/marketplace/imgbot) — Imgbot is a friendly robot that optimizes your images and saves you time. Optimized images mean smaller file sizes without sacrificing quality. It's free for open source.
 *   [resmush.it](https://resmush.it) — reSmush.it is a FREE API that provides image optimization. reSmush.it has been implemented on the most common CMS such as WordPress, Drupal, or Magento. reSmush.it is the most used image optimization API with more than seven billion images already treated, and it is still Free of charge.
 
-## [8. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [7. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Coding platforms
 
@@ -66,7 +59,7 @@
 
 ### HTML generators and templates / Isomorphic web frameworks
 
-*   ⭐ [Djula (⭐148)](https://github.com/mmontone/djula) - A port of Django's template engine to Common Lisp. [Expat](https://directory.fsf.org/wiki/License:Expat).
+*   ⭐ [Djula (⭐156)](https://github.com/mmontone/djula) - A port of Django's template engine to Common Lisp. [Expat](https://directory.fsf.org/wiki/License:Expat).
     *   [cl-djula-tailwind (⭐9)](https://github.com/rajasegar/cl-djula-tailwind) - use TailwindCSS classe in your Djula templates without any JavaScript or Node.js tooling.
     *   [djula-template-designer (⭐4)](https://github.com/mmontone/djula-template-designer) - a template designer tool.
 
@@ -74,7 +67,7 @@
 
 *   [Resolve (⭐37)](https://github.com/GrammaTech/resolve) - A software for AST-based diff calculation, display, and automated resolution. Written in C++ and CL, you'll find Lisp utilities.
 
-## [9. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
+## [8. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 
 ### Apps / Media
 
@@ -82,21 +75,21 @@
 
 ### Apps / Forms
 
-*   [Wagtail Model Forms (⭐4)](https://github.com/vicktornl/wagtail-model-forms) - The Wagtail Form Builder functionalities available for your models/snippets.
+*   [Wagtail Model Forms (⭐5)](https://github.com/vicktornl/wagtail-model-forms) - The Wagtail Form Builder functionalities available for your models/snippets.
 
 ### Apps / Misc
 
 *   [Wagtail Secret Sharing (⭐5)](https://github.com/vicktornl/wagtail-secret-sharing) - Keep sensitive information out of your chat logs and email via a secure sharing protocol
 *   [Wagtail Cache Invalidator (⭐4)](https://github.com/vicktornl/wagtail-cache-invalidator) - Invalidate and purge (frontend) cache via an user-friendly interface in the Wagtail CMS.
 
-## [10. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [9. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Bundlers
 
-*   [Terser (⭐8.5k)](https://github.com/terser/terser) - parser, mangler and compressor toolkit for ES6+
+*   [Terser (⭐8.6k)](https://github.com/terser/terser) - parser, mangler and compressor toolkit for ES6+
 *   [Uglify (⭐13k)](https://github.com/mishoo/UglifyJS) - parser / mangler / compressor / beautifier toolkit
 
-## [11. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+## [10. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
 ### Cloud Computing
 

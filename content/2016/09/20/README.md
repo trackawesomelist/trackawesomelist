@@ -28,11 +28,11 @@
 
 ### GTFS Libraries / JavaScript
 
-*   [gtfs-sequelize (⭐20)](https://github.com/evansiroky/gtfs-sequelize) - Node.js library modeling the static GTFS using [sequelize.js](http://sequelizejs.com/).
+*   [gtfs-sequelize (⭐19)](https://github.com/evansiroky/gtfs-sequelize) - Node.js library modeling the static GTFS using sequelize.js.
 
 ### GTFS Libraries / Python
 
-*   [gtfslib-python (⭐43)](https://github.com/afimb/gtfslib-python) -  An open source library in python for reading GTFS files and computing various stats and indicators about Public Transport networks.
+*   [gtfslib-python (⭐44)](https://github.com/afimb/gtfslib-python) -  An open source library in python for reading GTFS files and computing various stats and indicators about Public Transport networks.
 
 ---
 

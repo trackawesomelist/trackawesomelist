@@ -16,7 +16,7 @@
 
 ### GitHub Tools and Management / Docker Container Actions
 
-*   [Label Your Issues Using the Issue's Contents (⭐23)](https://github.com/damccorm/tag-ur-it)
+*   [Label Your Issues Using the Issue's Contents (⭐34)](https://github.com/damccorm/tag-ur-it)
 
 ## [3. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 
@@ -41,13 +41,13 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [Karate Club (⭐2.1k)](https://github.com/benedekrozemberczki/karateclub) -> An unsupervised machine learning extension library for NetworkX with a Scikit-Learn like API.
+*   [Karate Club (⭐2.2k)](https://github.com/benedekrozemberczki/karateclub) -> An unsupervised machine learning extension library for NetworkX with a Scikit-Learn like API.
 
 ## [7. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### Driver crates / WIP
 
-*   [MAX31855 (⭐4)](https://github.com/cs2dsb/max31855.rs) - SPI - Thermocouple digital converter -![crates.io](https://img.shields.io/crates/v/max31855.svg)
+*   [MAX31855 (⭐4)](https://github.com/cs2dsb/max31855.rs) - SPI - Thermocouple digital converter -[![crates.io](https://img.shields.io/crates/v/max31855.svg)](https://crates.io/crates/max31855)
 
 ## [8. Awesome Fonts](/content/brabadu/awesome-fonts/README.md)
 
@@ -70,7 +70,7 @@
 ### Bundle Analyzers
 
 *   [bundle-buddy](https://bundle-buddy.firebaseapp.com/) - A tool to help you find source code duplication across your JavaScript chunks/splits.
-*   [Parcel plugin Visualizer (⭐273)](https://github.com/gregtillbrook/parcel-plugin-bundle-visualiser) - A plugin for the parcel bundler to visualise bundle contents.
+*   [Parcel plugin Visualizer (⭐274)](https://github.com/gregtillbrook/parcel-plugin-bundle-visualiser) - A plugin for the parcel bundler to visualise bundle contents.
 
 ## [11. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
@@ -118,9 +118,9 @@
 
 ### Network Tools / Network Reconnaissance Tools
 
-*   [AQUATONE (⭐5.5k)](https://github.com/michenriksen/aquatone) - Subdomain discovery tool utilizing various open sources producing a report that can be used as input to other tools.
-*   [OWASP Amass (⭐11k)](https://github.com/OWASP/Amass) - Subdomain enumeration via scraping, web archives, brute forcing, permutations, reverse DNS sweeping, TLS certificates, passive DNS data sources, etc.
-*   [subbrute (⭐3.3k)](https://github.com/TheRook/subbrute) - DNS meta-query spider that enumerates DNS records, and subdomains.
+*   [AQUATONE (⭐5.7k)](https://github.com/michenriksen/aquatone) - Subdomain discovery tool utilizing various open sources producing a report that can be used as input to other tools.
+*   [OWASP Amass (⭐12k)](https://github.com/OWASP/Amass) - Subdomain enumeration via scraping, web archives, brute forcing, permutations, reverse DNS sweeping, TLS certificates, passive DNS data sources, etc.
+*   [subbrute (⭐3.4k)](https://github.com/TheRook/subbrute) - DNS meta-query spider that enumerates DNS records, and subdomains.
 
 ### Network Vulnerability Scanners / Wireless Network Tools
 

@@ -27,11 +27,11 @@
 ### CMS
 
 *   [Orchard  (⭐2.4k)](https://github.com/OrchardCMS/Orchard) - Free, open source, community-focused project aimed at delivering applications and reusable components on the ASP.NET platform
-*   [Umbraco (⭐4.4k)](https://github.com/umbraco/Umbraco-CMS) - Umbraco is a free open source Content Management System built on the ASP.NET platform
+*   [Umbraco (⭐4.7k)](https://github.com/umbraco/Umbraco-CMS) - Umbraco is a free open source Content Management System built on the ASP.NET platform
 
 ### Testing
 
-*   [BDDfy (⭐415)](https://github.com/TestStack/TestStack.BDDfy) - BDDfy is the simplest BDD framework EVER!
+*   [BDDfy (⭐422)](https://github.com/TestStack/TestStack.BDDfy) - BDDfy is the simplest BDD framework EVER!
 
 ## [4. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/README.md)
 
@@ -47,7 +47,7 @@
 
 ### Table of Contents / Event
 
-*   [Amp (⭐4.2k)](https://github.com/amphp/amp) - An event driven non-blocking I/O library.
+*   [Amp (⭐4.3k)](https://github.com/amphp/amp) - An event driven non-blocking I/O library.
 
 ## [6. Amas](/content/sindresorhus/amas/README.md)
 
@@ -59,7 +59,7 @@
 
 ### Javascript / Bare metal / kernel development
 
-*   [higgs (⭐868)](https://github.com/higgsjs/Higgs) -  Higgs JavaScript Virtual Machine, implemented in D.
+*   [higgs (⭐875)](https://github.com/higgsjs/Higgs) -  Higgs JavaScript Virtual Machine, implemented in D.
 
 ---
 

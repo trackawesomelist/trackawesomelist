@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 08, 2024
 
-33 awesome lists updated today.
+32 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -75,7 +75,7 @@
 
 ### Learn AI free / Machine Learning
 
-*   [Roadmap (⭐7.4k)](https://github.com/mrdbourke/machine-learning-roadmap) - A roadmap connecting many of the most important concepts in machine learning, how to learn them, and what tools to use to perform them.
+*   [Roadmap (⭐7.6k)](https://github.com/mrdbourke/machine-learning-roadmap) - A roadmap connecting many of the most important concepts in machine learning, how to learn them, and what tools to use to perform them.
 *   [Andrew Ng’s Machine Learning at Stanford University](https://www.coursera.org/learn/machine-learning) -  Ng’s gentle introduction to machine learning course is perfect for engineers who want a foundational overview of key concepts in the field.
 *   [Sebastian Thrun’s Introduction To Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120) - robust introduction to the subject and also the foundation for a Data Analyst “nanodegree” certification sponsored by Facebook and MongoDB.
 
@@ -88,28 +88,28 @@
 
 ### Related Awesome Lists / Deep Learning
 
-*   [Awesome AI Books (⭐65)](https://github.com/mahseema/aibooks) - Curated List of Top AI and ML Books
+*   [Awesome AI Books (⭐78)](https://github.com/mahseema/aibooks) - Curated List of Top AI and ML Books
 
 ## [3. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
 
 ### Python / Trading & Backtesting
 
 *   [fastquant (⭐1.5k)](https://github.com/enzoampil/fastquant) - fastquant allows you to easily backtest investment strategies with as few as 3 lines of python code.
-*   [nautilus\_trader (⭐1.8k)](https://github.com/nautechsystems/nautilus_trader) - A high-performance algorithmic trading platform and event-driven backtester.
+*   [nautilus\_trader (⭐3.9k)](https://github.com/nautechsystems/nautilus_trader) - A high-performance algorithmic trading platform and event-driven backtester.
 
 ### Rust / Data Visualization
 
-*   [finalytics (⭐14)](https://github.com/Nnamdi-sys/finalytics) - A rust library for financial data analysis.
+*   [finalytics (⭐26)](https://github.com/Nnamdi-sys/finalytics) - A rust library for financial data analysis.
 
 ### Reproducing Works, Training & Books / Data Visualization
 
-*   [Statistical-Learning-based-Portfolio-Optimization (⭐12)](https://github.com/YannickKae/Statistical-Learning-based-Portfolio-Optimization) - This R Shiny App utilizes the Hierarchical Equal Risk Contribution (HERC) approach, a modern portfolio optimization method developed by Raffinot (2018).
+*   [Statistical-Learning-based-Portfolio-Optimization (⭐13)](https://github.com/YannickKae/Statistical-Learning-based-Portfolio-Optimization) - This R Shiny App utilizes the Hierarchical Equal Risk Contribution (HERC) approach, a modern portfolio optimization method developed by Raffinot (2018).
 
 ## [4. Awesome Polars](/content/ddotta/awesome-polars/README.md)
 
 ### Libraries/Packages/Scripts / Python
 
-*   [Ibis Python package for Polars](https://ibis-project.org/backends/polars) - [Ibis (⭐4.8k)](https://github.com/ibis-project/ibis) is a Python library that provides a lightweight, universal interface for data wrangling. It can be used with Polars.
+*   [Ibis Python package for Polars](https://ibis-project.org/backends/polars) - [Ibis (⭐5.5k)](https://github.com/ibis-project/ibis) is a Python library that provides a lightweight, universal interface for data wrangling. It can be used with Polars.
 
 ### Resources / Cheat Sheets
 
@@ -127,7 +127,7 @@
 
 ### Domain Specific Language / Declarative DSL Applications
 
-*   [iContractML 2.0: A domain-specific language for modeling and deploying smart contracts onto multiple blockchain platforms](https://www.sciencedirect.com/science/article/pii/S0950584921002081) - ***Information and Software Technology***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=1548144959305241494)]. A reference model and platform agnostic language for smart contracts.
+*   [iContractML 2.0: A domain-specific language for modeling and deploying smart contracts onto multiple blockchain platforms](https://www.sciencedirect.com/science/article/pii/S0950584921002081) - ***Information and Software Technology***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=1548144959305241494)]. Smart contracts play a vital role in many fields. Despite being called smart, the development of smart contracts is a tedious task beyond defining a set of contractual rules. In addition to business knowledge, coding a smart contract requires strong technical knowledge in a multiplex of new and rapidly changing domain-specific languages and blockchain platforms. The goal of this paper is to assist developers in building smart contracts independently from the language or the target blockchain platform. In which, this paper presents the second-generation smart contract language iContractML 2.0. iContractML 2.0 is an extensible framework that empowers developers to model and generate functional smart contract code that can be deployed onto multiple blockchain platforms.
 
 ### Explainability / Trustworthy AI
 
@@ -164,7 +164,7 @@
 
 ### Example Projects
 
-*   [Verifiable Credential Authentication with OpenID Connect (VC-AuthN OIDC) (⭐120)](https://github.com/bcgov/vc-authn-oidc)
+*   [Verifiable Credential Authentication with OpenID Connect (VC-AuthN OIDC) (⭐146)](https://github.com/bcgov/vc-authn-oidc)
 
 ## [10. Awesome Gdpr](/content/bakke92/awesome-gdpr/README.md)
 
@@ -208,7 +208,7 @@
 
 ### Libraries and Tools / Python
 
-*   [Caring Caribou Next (⭐3)](https://github.com/Cr0wTom/caringcaribounext) - Upgraded and optimized version of the original Caring Caribou project.
+*   [Caring Caribou Next (⭐9)](https://github.com/Cr0wTom/caringcaribounext) - Upgraded and optimized version of the original Caring Caribou project.
 
 ### Libraries and Tools / JavaScript
 
@@ -225,7 +225,7 @@
 
 ### Tools / Online Analyzers
 
-*   [Immuniweb](https://www.immuniweb.com/mobile/). Does a "OWASP Mobile Top 10 Test", "Mobile App Privacy Check" and an application permissions test. Free tier is 4 tests per day incl. report after registration
+*   [Immuniweb](https://www.immuniweb.com/mobile/). Does an "OWASP Mobile Top 10 Test", "Mobile App Privacy Check" and an application permissions test. The free tier is 4 tests per day incl. report after registration
 
 ## [13. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 
@@ -244,18 +244,18 @@
 
 ### no-std crates / WIP
 
-*   [embedded-cli](https://crates.io/crates/embedded-cli): CLI library with autocompletion, subcommands, options, help and history support. ![crates.io](https://img.shields.io/crates/v/embedded-cli.svg)
-*   [lorawan-device (⭐233)](https://github.com/lora-rs/lora-rs/tree/main/lorawan-device): A LoRaWAN MAC implementation supporting both event-driven and async mode.
+*   [embedded-cli](https://crates.io/crates/embedded-cli): CLI library with autocompletion, subcommands, options, help and history support. [![crates.io](https://img.shields.io/crates/v/embedded-cli.svg)](https://crates.io/crates/embedded-cli)
+*   [lorawan-device (⭐280)](https://github.com/lora-rs/lora-rs/tree/main/lorawan-device): A LoRaWAN MAC implementation supporting both event-driven and async mode.
 
 ## [16. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Table of Contents / Scraping
 
-*   [CrawlerDetect (⭐1.9k)](https://github.com/JayBizzle/Crawler-Detect) - A PHP class for detecting bots/crawlers/spiders via the user agent.
+*   [CrawlerDetect (⭐2k)](https://github.com/JayBizzle/Crawler-Detect) - A PHP class for detecting bots/crawlers/spiders via the user agent.
 
 ### Table of Contents / Testing
 
-*   [Nette Tester (⭐454)](https://github.com/nette/tester) - A productive and enjoyable parallel unit testing framework.
+*   [Nette Tester (⭐463)](https://github.com/nette/tester) - A productive and enjoyable parallel unit testing framework.
 
 ### Configuration / PHP Websites
 
@@ -272,13 +272,13 @@
 ### Miscellaneous
 
 *   for Electron, see:
-    *   [Electron-lisp-boilerplate (⭐7)](https://github.com/mikelevins/electron-lisp-boilerplate) - a rudimentary boilerplate for building Electron apps that start a Lisp process.
+    *   [Electron-lisp-boilerplate (⭐10)](https://github.com/mikelevins/electron-lisp-boilerplate) - a rudimentary boilerplate for building Electron apps that start a Lisp process.
     *   [ceramic](https://ceramic.github.io/) - a wrapper around simpler tools to create and build an Electron app for Common Lisp. It is currently broken and unmaintained, but some tools are workth having a look at.
     *   NOTE: the main idea in embedding a lisp web app in Electron is to start the lisp webserver as an async process from Electron's `main.js` file, and to point the Electron window to the localhost URL. That's it.
 
 ### Files and directories / Third-party APIs
 
-*   [filepaths (⭐24)](https://github.com/fosskers/filepaths) -  Modern and consistent filepath manipulation for Common Lisp. [LGPL3](https://www.gnu.org/licenses/lgpl-3.0.en.html).
+*   [filepaths (⭐26)](https://github.com/fosskers/filepaths) -  Modern and consistent filepath manipulation for Common Lisp. [LGPL3](https://www.gnu.org/licenses/lgpl-3.0.en.html).
     *   no dependencies, doesn't access the filesystem.
 *   [ppath](https://codeberg.org/fourier/ppath) - Common Lisp's implementation of the Python's os.path module. [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
@@ -286,25 +286,25 @@
 
 ### Configuration
 
-*   [mINI (⭐497)](https://github.com/metayeti/mINI) - INI file reader and writer. \[MIT]
+*   [mINI (⭐556)](https://github.com/metayeti/mINI) - INI file reader and writer. \[MIT]
 
 ### Containers
 
-*   [hat-trie (⭐780)](https://github.com/Tessil/hat-trie) - C++ implementation of a fast and memory efficient HAT-trie. \[MIT]
-*   [st\_tree (⭐95)](https://github.com/erikerlandson/st_tree) - A fast and flexible c++ template class for tree data structures. \[Apache-2.0]
-*   [tree.hh (⭐131)](https://github.com/kpeeters/tree.hh) - An STL-like C++ header-only tree library. \[GPL2+]
+*   [hat-trie (⭐801)](https://github.com/Tessil/hat-trie) - C++ implementation of a fast and memory efficient HAT-trie. \[MIT]
+*   [st\_tree (⭐97)](https://github.com/erikerlandson/st_tree) - A fast and flexible c++ template class for tree data structures. \[Apache-2.0]
+*   [tree.hh (⭐135)](https://github.com/kpeeters/tree.hh) - An STL-like C++ header-only tree library. \[GPL2+]
 
 ## [20. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Caches
 
-*   [go-freelru (⭐132)](https://github.com/elastic/go-freelru) A GC-less, fast and generic LRU hashmap library with optional locking, sharding, eviction and expiration.
-*   [otter (⭐1.6k)](https://github.com/maypok86/otter) - A high performance lockless cache for Go. Many times faster than Ristretto and friends.
+*   [go-freelru (⭐220)](https://github.com/elastic/go-freelru) A GC-less, fast and generic LRU hashmap library with optional locking, sharding, eviction and expiration.
+*   [otter (⭐1.8k)](https://github.com/maypok86/otter) - A high performance lockless cache for Go. Many times faster than Ristretto and friends.
 
 ### Distributed Systems
 
-*   [bedrock (⭐4)](https://github.com/z5labs/bedrock) - Provides a minimal, modular and composable foundation for quickly developing services and more use case specific frameworks in Go.
-*   [sponge (⭐1.2k)](https://github.com/zhufuyi/sponge) - A distributed development framework that integrates automatic code generation, gin and grpc frameworks, base development frameworks.
+*   [bedrock (⭐7)](https://github.com/z5labs/bedrock) - Provides a minimal, modular and composable foundation for quickly developing services and more use case specific frameworks in Go.
+*   [sponge (⭐1.6k)](https://github.com/zhufuyi/sponge) - A distributed development framework that integrates automatic code generation, gin and grpc frameworks, base development frameworks.
 
 ### Goroutines
 
@@ -312,7 +312,7 @@
 
 ### Images
 
-*   [transformimgs (⭐207)](https://github.com/Pixboost/transformimgs) - Transformimgs resizes and optimises images for Web using next-generation formats.
+*   [transformimgs (⭐243)](https://github.com/Pixboost/transformimgs) - Transformimgs resizes and optimises images for Web using next-generation formats.
 
 ### Markup Languages
 
@@ -320,48 +320,48 @@
 
 ### Web Frameworks
 
-*   [Lit (⭐24)](https://github.com/jvcoutinho/lit) - Highly performant declarative web framework for Golang, aiming for simplicity and quality of life.
+*   [Lit (⭐26)](https://github.com/jvcoutinho/lit) - Highly performant declarative web framework for Golang, aiming for simplicity and quality of life.
 
 ### Go Tools / Libraries for creating HTTP middlewares
 
-*   [decouple (⭐21)](https://github.com/bobg/decouple) - Find “overspecified” function parameters that could be generalized with interface types.
+*   [decouple (⭐25)](https://github.com/bobg/decouple) - Find “overspecified” function parameters that could be generalized with interface types.
 
 ## [21. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications
 
-*   [mirrord (⭐3.7k)](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions
+*   [mirrord (⭐3.9k)](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions
 
 ### Applications / Database
 
-*   [darkbird (⭐426)](https://github.com/Rustixir/darkbird) \[[darkbird](https://crates.io/crates/darkbird)] - HighConcurrency, RealTime, InMemory storage inspired by erlang mnesia
-*   [SQLSync (⭐2.2k)](https://github.com/orbitinghail/sqlsync) - Multiplayer offline-first SQLite [![GitHub Workflow Status](https://github.com/orbitinghail/sqlsync/actions/workflows/actions.yaml/badge.svg?branch=main)](https://github.com/orbitinghail/sqlsync/actions?query=branch%3Amain)
+*   [darkbird (⭐503)](https://github.com/Rustixir/darkbird) \[[darkbird](https://crates.io/crates/darkbird)] - HighConcurrency, RealTime, InMemory storage inspired by erlang mnesia
+*   [SQLSync (⭐2.4k)](https://github.com/orbitinghail/sqlsync) - Multiplayer offline-first SQLite [![GitHub Workflow Status](https://github.com/orbitinghail/sqlsync/actions/workflows/actions.yaml/badge.svg?branch=main)](https://github.com/orbitinghail/sqlsync/actions?query=branch%3Amain)
 
 ### Applications / Text editors
 
-*   [zed (⭐44k)](https://github.com/zed-industries/zed) - A high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+*   [zed (⭐53k)](https://github.com/zed-industries/zed) - A high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 
 ### Development tools / Profiling
 
-*   [Divan (⭐878)](https://github.com/nvzqz/divan) - Simple yet powerful benchmarking library with allocation profiling
+*   [Divan (⭐1k)](https://github.com/nvzqz/divan) - Simple yet powerful benchmarking library with allocation profiling
 
 ### Libraries / Asynchronous
 
-*   [t3hmrman/async-dropper (⭐32)](https://github.com/t3hmrman/async-dropper) \[[async-dropper](https://crates.io/crates/async-dropper)] - Implementation of `AsyncDrop`
+*   [t3hmrman/async-dropper (⭐43)](https://github.com/t3hmrman/async-dropper) \[[async-dropper](https://crates.io/crates/async-dropper)] - Implementation of `AsyncDrop`
 
 ### Libraries / Email
 
-*   [meli/meli (⭐635)](https://github.com/meli/meli) - 🐝 terminal mail client
+*   [meli/meli (⭐697)](https://github.com/meli/meli) - 🐝 terminal mail client
 
 ### Libraries / GUI
 
-*   [makepad/makepad (⭐5k)](https://github.com/makepad/makepad) \[[makepad-widgets](https://crates.io/crates/makepad-widgets)] - Makepad is a creative software development platform that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl.
+*   [makepad/makepad (⭐5.3k)](https://github.com/makepad/makepad) \[[makepad-widgets](https://crates.io/crates/makepad-widgets)] - Makepad is a creative software development platform that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl.
 
 ## [22. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
 ### Communications / Bluetooth
 
-*   [micropython-aioble-itag (⭐0)](https://github.com/mcauser/micropython-aioble-itag) - Examples using aioble to interact with iTag BLE keychain tags.
+*   [micropython-aioble-itag (⭐1)](https://github.com/mcauser/micropython-aioble-itag) - Examples using aioble to interact with iTag BLE keychain tags.
 
 ### Display / Graphics
 
@@ -369,11 +369,11 @@
 
 ### IO / Multiplexer
 
-*   [micropython-tca9548a (⭐14)](https://github.com/mcauser/micropython-tca9548a) - MicroPython examples using TCA9548A I2C multiplexer.
+*   [micropython-tca9548a (⭐15)](https://github.com/mcauser/micropython-tca9548a) - MicroPython examples using TCA9548A I2C multiplexer.
 
 ### IO / Relay
 
-*   [micropython-xl9535-kxv5-relay (⭐5)](https://github.com/mcauser/micropython-xl9535-kxv5-relay) - A MicroPython library for jxl XL9535-KxV5 I2C relay boards.
+*   [micropython-xl9535-kxv5-relay (⭐10)](https://github.com/mcauser/micropython-xl9535-kxv5-relay) - A MicroPython library for jxl XL9535-KxV5 I2C relay boards.
 
 ### Sensors / Colour
 
@@ -385,21 +385,21 @@
 
 ### Sensors / Temperature Analog
 
-*   [micropython-generic-thermistor (⭐2)](https://github.com/Trexation/micropython-generic-thermistor) - MicroPython Generic Thermistor Library for simplified temperature sensing using NTC thermistors with voltage dividors.
+*   [micropython-generic-thermistor (⭐2)](https://github.com/Trexation/micropython-generic-thermistor) - MicroPython Generic Thermistor Library for simplified temperature sensing using NTC thermistors with voltage dividers.
 
 ### Sensors / Temperature Digital
 
-*   [micropython-hdc1080 (⭐1)](https://github.com/mcauser/micropython-hdc1080) - MicroPython driver for the HDC1080 temperature and humidity sensor.
+*   [micropython-hdc1080 (⭐2)](https://github.com/mcauser/micropython-hdc1080) - MicroPython driver for the HDC1080 temperature and humidity sensor.
 
 ### Storage / Flash
 
-*   [freezeFS (⭐24)](https://github.com/bixb922/freezeFS) - Create self-extracting compressed or self-mounting archives for MicroPython.
+*   [freezeFS (⭐29)](https://github.com/bixb922/freezeFS) - Create self-extracting compressed or self-mounting archives for MicroPython.
 
 ## [23. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
 ### Third-Party Packages / Task Queues
 
-*   [django-celery-results (⭐676)](https://github.com/celery/django-celery-results) -  Celery result backend with Django.
+*   [django-celery-results (⭐702)](https://github.com/celery/django-celery-results) -  Celery result backend with Django.
 
 ## [24. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/README.md)
 
@@ -415,44 +415,38 @@
 
 ### Configs / Configs by Well-Known Companies/Organizations
 
-*   [Vercel (⭐1.2k)](https://github.com/vercel/style-guide/tree/canary/eslint) - Vercel Engineering's composable eslint configuration used in all their codebases.
+*   [Vercel (⭐1.3k)](https://github.com/vercel/style-guide/tree/canary/eslint) - Vercel Engineering's composable eslint configuration used in all their codebases.
 
 ## [26. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Form Widgets / Calendar
 
-*   [Schedule-X (⭐919)](https://github.com/schedule-x/schedule-x) - Material design event calendar. Features drag & drop, dark mode, multiple views and more.
+*   [Schedule-X (⭐986)](https://github.com/schedule-x/schedule-x) - Material design event calendar. Features drag & drop, dark mode, multiple views and more.
 
-## [27. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
-
-### Projects / Workflow engine
-
-*   [Argo Workflows (⭐14k) (⭐15k)](https://github.com/argoproj/argo-workflows) - An open-source, container-native workflow engine designed to orchestrate parallel jobs on Kubernetes, making it easier to manage and automate complex workflows in a cloud-native environment.
-
-## [28. Awesome Deno](/content/denolib/awesome-deno/README.md)
+## [27. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Modules / Machine learning
 
-*   [classy-lala (⭐3)](https://github.com/retraigo/la-classy) - Single-layer perceptrons for supervised learning tasks.
-*   [appraisal (⭐4)](https://github.com/retraigo/appraisal) - Feature extraction and conversion.
+*   [classy-lala (⭐4)](https://github.com/retraigo/la-classy) - Single-layer perceptrons for supervised learning tasks.
+*   [appraisal (⭐5)](https://github.com/retraigo/appraisal) - Feature extraction and conversion.
 
-## [29. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [28. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Office
 
-*   [OfficeIMO (⭐274)](https://github.com/EvotecIt/OfficeIMO) - OfficeIMO makes it easier for developers to create/modify Word (docx) files without having Microsoft Word or Office installed
+*   [OfficeIMO (⭐297)](https://github.com/EvotecIt/OfficeIMO) - OfficeIMO makes it easier for developers to create/modify Word (docx) files without having Microsoft Word or Office installed
 
 ### Web Servers
 
-*   [SimpleW (⭐21)](https://github.com/stratdev3/SimpleW) - Simple Web Server, build your RestAPI, fast, lightweight and cross-platform.
+*   [SimpleW (⭐25)](https://github.com/stratdev3/SimpleW) - Simple Web Server, build your RestAPI, fast, lightweight and cross-platform.
 
-## [30. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
+## [29. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
 
 ### Multimedia
 
 *   [Collector](https://mijorus.it/projects/collector) - Dropover utility that allows to drag files/images/text into a collection window and drop them anywhere.
 
-## [31. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
+## [30. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
 ### OS Images
 
@@ -461,23 +455,23 @@
 ### Tools
 
 *   [ApplePi Baker](https://www.tweaking4all.com/hardware/raspberry-pi/applepi-baker-v2/) - macOS application to easily install/backup/restore images onto an SD card.
-*   [PiGro (⭐25)](https://github.com/actionschnitzel/PiGro-Aid-) - PiGro does many commands that have to be entered via the terminal with one or two clicks of a button.
+*   [PiGro (⭐28)](https://github.com/actionschnitzel/PiGro-Aid-) - PiGro does many commands that have to be entered via the terminal with one or two clicks of a button.
 
-## [32. Magictools](/content/ellisonleao/magictools/README.md)
+## [31. Magictools](/content/ellisonleao/magictools/README.md)
 
 ### Complete Game Sources / Voxel Editors
 
-*   :tada: [Barotrauma (⭐1.7k)](https://github.com/Regalis11/Barotrauma)
+*   :tada: [Barotrauma (⭐1.8k)](https://github.com/Regalis11/Barotrauma)
 
-## [33. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [32. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Programming Languages Support / Diagnostics
 
-*   [iabdelkareem/csharp.nvim (⭐180)](https://github.com/iabdelkareem/csharp.nvim) - Enhances the development experience for .NET developers.
+*   [iabdelkareem/csharp.nvim (⭐239)](https://github.com/iabdelkareem/csharp.nvim) - Enhances the development experience for .NET developers.
 
 ### Language / Diagnostics
 
-*   [tanloong/interlaced.nvim (⭐6)](https://github.com/tanloong/interlaced.nvim) - Help align bilingual parallel texts.
+*   [tanloong/interlaced.nvim (⭐7)](https://github.com/tanloong/interlaced.nvim) - Help align bilingual parallel texts.
 
 ---
 

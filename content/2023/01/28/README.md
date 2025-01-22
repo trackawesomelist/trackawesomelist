@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 28, 2023
 
-13 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,33 +10,27 @@
 
 ### Planning Coding Resources / Other
 
-*   [global-indicators (⭐78)](https://github.com/global-healthy-liveable-cities/global-indicators) - Case study projected dedicated to developing global healthy and sustainable city-indicators collaboration.
+*   [global-indicators (⭐1)](https://github.com/global-healthy-liveable-cities/global-indicators) - Case study projected dedicated to developing global healthy and sustainable city-indicators collaboration.
 
 ## [2. Awesome Love2d](/content/love2d-community/awesome-love2d/README.md)
 
 ### AI
 
-*   [beehive.lua (⭐13)](https://github.com/drhayes/beehive.lua) - A functional behavior tree implementation.
+*   [beehive.lua (⭐16)](https://github.com/drhayes/beehive.lua) - A functional behavior tree implementation.
 
 ## [3. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
 ### Extensions
 
-*   [UseSIWE (⭐24)](https://github.com/random-bits-studio/use-siwe) - React hooks and Next.js API routes that make it super easy to add Sign-In with Ethereum to your app.
+*   [UseSIWE (⭐25)](https://github.com/random-bits-studio/use-siwe) - React hooks and Next.js API routes that make it super easy to add Sign-In with Ethereum to your app.
 
-## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / UI Utilities
-
-*   [drie (⭐78)](https://github.com/janvorisek/drie) - A Vue 3 component library for three.js inspired by react-three-fiber.
-
-## [5. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md)
+## [4. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md)
 
 ### Analyzers - API / Meetups
 
 *   [RoboMiri](https://robomiri.com) - RoboMiri is a stable Uptime Monitor that offers a wide range of monitors: cronjob, keyword, website, port, ping. 25 uptime checks with 3 minutes interval checks for free. Alerts via Phone Call, SMS, Email, and WebHook.
 
-## [6. Web Development Resources](/content/markodenic/web-development-resources/README.md)
+## [5. Web Development Resources](/content/markodenic/web-development-resources/README.md)
 
 ### Learning Platforms:
 
@@ -44,49 +38,49 @@
 
 
 
-## [7. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [6. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Language / Diagnostics
 
-*   [niuiic/translate.nvim (⭐36)](https://github.com/niuiic/translate.nvim) - Invoke any translation engine via shell command.
+*   [niuiic/translate.nvim (⭐41)](https://github.com/niuiic/translate.nvim) - Invoke any translation engine via shell command.
 
-## [8. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [7. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Video
 
-*   [vidmerger (⭐118)](https://github.com/TGotwig/vidmerger) - Merge video & audio files via CLI
+*   [vidmerger (⭐135)](https://github.com/TGotwig/vidmerger) - Merge video & audio files via CLI
 
 ### Libraries / Parsing
 
-*   [comex/rust-shlex (⭐97)](https://github.com/comex/rust-shlex) \[[shlex](https://crates.io/crates/shlex)] - Split a string into shell words, like Python's shlex. [![build badge](https://github.com/comex/rust-shlex/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/comex/rust-shlex/actions/workflows/test.yml)
+*   [comex/rust-shlex (⭐104)](https://github.com/comex/rust-shlex) \[[shlex](https://crates.io/crates/shlex)] - Split a string into shell words, like Python's shlex. [![build badge](https://github.com/comex/rust-shlex/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/comex/rust-shlex/actions/workflows/test.yml)
 
-## [9. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [8. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### Image Segmentation / Deforum
 
 *   [MusicLM](https://google-research.github.io/seanet/musiclm/examples/): generating music from text
 
-## [10. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
+## [9. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
 
 ### Exploitation Tools / Unikernel-like
 
 *   [Lldb](https://lldb.llvm.org/) - LLDB is a next generation, high-performance debugger.
 
-## [11. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
+## [10. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
 
 ### Java / React
 
 *   [graphql-orchestrator-java (⭐70)](https://github.com/graph-quilt/graphql-orchestrator-java) GraphQL Orchestrator/Gateway library that supports Schema Stitching and Apollo Federation directives to combine schema from multiple GraphQL microservices into a single unified schema.
 
-## [12. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [11. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Communication - Custom Communication Systems
 
-*   [WBO (⭐2k)](https://github.com/lovasoa/whitebophir) - Web Whiteboard to collaborate in real-time on schemas, drawings, and notes. ([Demo](https://wbo.ophir.dev/)) `AGPL-3.0` `Nodejs/Docker`
+*   [WBO (⭐2.2k)](https://github.com/lovasoa/whitebophir) - Web Whiteboard to collaborate in real-time on schemas, drawings, and notes. ([Demo](https://wbo.ophir.dev/)) `AGPL-3.0` `Nodejs/Docker`
 
 ### Software / Communication - Social Networks and Forums
 
-*   [Isso](https://isso-comments.de/) - Lightweight commenting server written in Python and Javascript. It aims to be a drop-in replacement for Disqus. ([Source Code (⭐5k)](https://github.com/posativ/isso)) `MIT` `Python/Docker`
+*   [Isso](https://isso-comments.de/) - Lightweight commenting server written in Python and Javascript. It aims to be a drop-in replacement for Disqus. ([Source Code (⭐5.1k)](https://github.com/posativ/isso)) `MIT` `Python/Docker`
 
 ### Software / Software Development - Project Management
 
@@ -129,7 +123,7 @@
 *   `Zlib` - [Zlib/libpng License](https://spdx.org/licenses/Zlib.html)
 *   `ZPL-2.0` - [Zope Public License 2.0](https://spdx.org/licenses/ZPL-2.0.html)
 
-## [13. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
+## [12. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
 ### Other / [Other](#other-1)
 

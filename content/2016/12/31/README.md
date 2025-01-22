@@ -10,7 +10,7 @@
 
 ### Powered by TensorFlow
 
-*   [android-yolo (⭐649)](https://github.com/natanielruiz/android-yolo) - Real-time object detection on Android using the YOLO network, powered by TensorFlow.
+*   [android-yolo (⭐668)](https://github.com/natanielruiz/android-yolo) - Real-time object detection on Android using the YOLO network, powered by TensorFlow.
 
 ## [2. Awesome Robotics](/content/kiloreux/awesome-robotics/README.md)
 

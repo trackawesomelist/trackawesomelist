@@ -39,7 +39,7 @@
 
 ## [5. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
-### Coordination & Governance / Scala
+### Workflow Orchestration / Scala
 
 *   [Conductor (⭐13k)](https://github.com/Netflix/conductor) - A microservices orchestration engine.
 
@@ -74,10 +74,10 @@
 
 ### Security / Scala
 
-*   [Dex (⭐9.3k)](https://github.com/coreos/dex) - Opinionated auth/directory service with pluggable connectors. OpenID Connect provider and third-party OAuth 2.0 delegation.
+*   [Dex (⭐9.7k)](https://github.com/coreos/dex) - Opinionated auth/directory service with pluggable connectors. OpenID Connect provider and third-party OAuth 2.0 delegation.
 *   [JWT](http://jwt.io/) - JSON Web Tokens are an open, industry standard RFC 7519 method for representing claims securely between two parties.
-*   [Keycloak (⭐21k)](https://github.com/keycloak/keycloak) - Full-featured and extensible auth service. OpenID Connect provider and third-party OAuth 2.0 delegation.
-*   [Light OAuth2 (⭐312)](https://github.com/networknt/light-oauth2) - A fast, lightweight and cloud native OAuth 2.0 authorization microservices based on light-java.
+*   [Keycloak (⭐25k)](https://github.com/keycloak/keycloak) - Full-featured and extensible auth service. OpenID Connect provider and third-party OAuth 2.0 delegation.
+*   [Light OAuth2 (⭐315)](https://github.com/networknt/light-oauth2) - A fast, lightweight and cloud native OAuth 2.0 authorization microservices based on light-java.
 *   [OAuth](http://oauth.net/2/) - Provides specific authorization flows for web applications, desktop applications, mobile phones, and living room devices. Many implementations.
 *   [Vault](https://www.vaultproject.io/) - Secures, stores, and tightly controls access to tokens, passwords, certificates, API keys, and other secrets in modern computing.
 
@@ -281,7 +281,7 @@ Current versions of Chrome, Firefox, Safari, Opera, Edge, and IE11.
 
 ### Tools & Software / Utilities
 
-*   [webarchive-indexing (⭐41)](https://github.com/ikreymer/webarchive-indexing) - Tools for bulk indexing of WARC/ARC files on Hadoop, EMR or local file system.
+*   [webarchive-indexing (⭐43)](https://github.com/ikreymer/webarchive-indexing) - Tools for bulk indexing of WARC/ARC files on Hadoop, EMR or local file system.
 
 ## [26. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/week/README.md)
 
@@ -384,10 +384,6 @@ Current versions of Chrome, Firefox, Safari, Opera, Edge, and IE11.
 
 *   [Request For Commits #12 - Crowdfunding Open Source (Vue.js) (06-15-2017)](https://changelog.com/rfc/12)
 
-### Components & Libraries / UI Utilities
-
-*   [vue-scrollactive (⭐544)](https://github.com/eddiemf/vue-scrollactive) - Adds an active class in a menu item based on the current section in viewport, also scrolling to the section when clicking the menu item.
-
 ## [30. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Tutorials
@@ -396,7 +392,7 @@ Current versions of Chrome, Firefox, Safari, Opera, Edge, and IE11.
 
 ### Models/Projects
 
-*   [3D Convolutional Neural Networks in TensorFlow (⭐777)](https://github.com/astorfi/3D-convolutional-speaker-recognition) - Implementation of ["3D Convolutional Neural Networks for Speaker Verification application"](https://arxiv.org/abs/1705.09422) in TensorFlow by Torfi et al.
+*   [3D Convolutional Neural Networks in TensorFlow (⭐780)](https://github.com/astorfi/3D-convolutional-speaker-recognition) - Implementation of ["3D Convolutional Neural Networks for Speaker Verification application"](https://arxiv.org/abs/1705.09422) in TensorFlow by Torfi et al.
 
 ## [31. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
@@ -609,11 +605,11 @@ Current versions of Chrome, Firefox, Safari, Opera, Edge, and IE11.
 
 ### Analytics
 
-*   [Umbrella (⭐614)](https://github.com/devxoul/Umbrella) - Analytics abstraction layer.
+*   [Umbrella (⭐615)](https://github.com/devxoul/Umbrella) - Analytics abstraction layer.
 
 ### XML
 
-*   [SwiftyXML (⭐101)](https://github.com/chenyunguiMilook/SwiftyXML) - The most swifty way to deal with XML.
+*   [SwiftyXML (⭐103)](https://github.com/chenyunguiMilook/SwiftyXML) - The most swifty way to deal with XML.
 
 ### Date
 
@@ -621,7 +617,7 @@ Current versions of Chrome, Firefox, Safari, Opera, Edge, and IE11.
 
 ### Images / Barcode
 
-*   [FlexibleImage (⭐823)](https://github.com/kawoou/FlexibleImage) - A simple way to play with images.
+*   [FlexibleImage (⭐825)](https://github.com/kawoou/FlexibleImage) - A simple way to play with images.
 
 ### Auto Layout / Barcode
 
@@ -629,7 +625,7 @@ Current versions of Chrome, Firefox, Safari, Opera, Edge, and IE11.
 
 ### Logging / Barcode
 
-*   [Printer (⭐66)](https://github.com/hemangshah/printer) - A fancy logger for your next app.
+*   [Printer (⭐67)](https://github.com/hemangshah/printer) - A fancy logger for your next app.
 
 ### Text / Barcode
 
@@ -641,7 +637,7 @@ Current versions of Chrome, Firefox, Safari, Opera, Edge, and IE11.
 
 ### Calendar / Barcode
 
-*   [Workaholic (⭐120)](https://github.com/hemangshah/Workaholic) - A GitHub-like work contribution timeline.
+*   [Workaholic (⭐121)](https://github.com/hemangshah/Workaholic) - A GitHub-like work contribution timeline.
 
 ### Menu / Barcode
 
@@ -649,15 +645,15 @@ Current versions of Chrome, Firefox, Safari, Opera, Edge, and IE11.
 
 ### Template / Barcode
 
-*   [SwiftCssParser (⭐278)](https://github.com/100mango/SwiftCssParser) - Extensible CSS parser.
+*   [SwiftCssParser (⭐280)](https://github.com/100mango/SwiftCssParser) - Extensible CSS parser.
 
 ### TextField / Barcode
 
-*   [CBPinEntryView (⭐189)](https://github.com/Fawxy/CBPinEntryView) - Easy to use, very customisable pin entry.
+*   [CBPinEntryView (⭐190)](https://github.com/Fawxy/CBPinEntryView) - Easy to use, very customisable pin entry.
 
 ### Version Manager / Barcode
 
-*   [Siren (⭐4.2k)](https://github.com/ArtSabintsev/Siren) - Notify users when a new version of your app is available and prompt them to upgrade.
+*   [Siren (⭐4.3k)](https://github.com/ArtSabintsev/Siren) - Notify users when a new version of your app is available and prompt them to upgrade.
 
 ## [42. Awesome Uncopyright](/content/johnjago/awesome-uncopyright/week/README.md)
 

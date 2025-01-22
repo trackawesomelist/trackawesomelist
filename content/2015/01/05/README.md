@@ -10,7 +10,7 @@
 
 ### Alert / Barcode
 
-*   [SweetAlert (⭐2k)](https://github.com/codestergit/SweetAlert-iOS) - Alert system.
+*   [SweetAlert (⭐2.1k)](https://github.com/codestergit/SweetAlert-iOS) - Alert system.
 
 ---
 

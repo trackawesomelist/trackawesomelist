@@ -18,23 +18,23 @@
 
 ### Network / Barcode
 
-*   [RxNetworks (⭐213)](https://github.com/yangKJ/RxNetworks) - Network API With RxSwift + Moya + HandyJSON + Plugins.
+*   [RxNetworks (⭐229)](https://github.com/yangKJ/RxNetworks) - Network API With RxSwift + Moya + HandyJSON + Plugins.
 
 ## [2. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
 ### Emulators / Experimental/Proof of Concepts
 
-*   [Gambatte (⭐3)](https://github.com/gb-archive/gambatte) - Cross-platform and accurate emulator.
+*   [Gambatte (⭐4)](https://github.com/gb-archive/gambatte) - Cross-platform and accurate emulator.
 
 ### Tools / Music drivers and trackers
 
-*   [GBSoundSystem (⭐5)](https://github.com/gbdev/GBSoundSystem) - A modernized audio driver for GameBoy Tracker (aka the Paragon 5 music player).
+*   [GBSoundSystem (⭐13)](https://github.com/gbdev/GBSoundSystem) - A modernized audio driver for GameBoy Tracker (aka the Paragon 5 music player).
 
 ## [3. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### (requires Neovim 0.5)
 
-*   [ranjithshegde/ccls.nvim (⭐64)](https://github.com/ranjithshegde/ccls.nvim) - Use off-spec extensions of ccls LSP and browse AST.
+*   [ranjithshegde/ccls.nvim (⭐71)](https://github.com/ranjithshegde/ccls.nvim) - Use off-spec extensions of ccls LSP and browse AST.
 
 ## [4. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
@@ -62,7 +62,7 @@
 
 ### Complete Game Sources / Voxel Editors
 
-*   :tada: [OpenRA (⭐14k)](https://github.com/OpenRA/OpenRA)
+*   :tada: [OpenRA (⭐15k)](https://github.com/OpenRA/OpenRA)
 
 ## [8. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
@@ -82,7 +82,7 @@
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [happy-coding (⭐2)](https://github.com/lexhuismans/happy-coding/) - Stripped down version of [passion (⭐294)](https://github.com/ChesterYue/ohmyzsh-theme-passion). Includes decorators for time, `git` branch, last command execution time and last command exit status.
+*   [happy-coding (⭐2)](https://github.com/lexhuismans/happy-coding/) - Stripped down version of [passion (⭐306)](https://github.com/ChesterYue/ohmyzsh-theme-passion). Includes decorators for time, `git` branch, last command execution time and last command exit status.
 
 ---
 

@@ -10,7 +10,7 @@
 
 ### Artificial Intelligence
 
-*   [CyberBattleSim (⭐1.6k)](https://github.com/microsoft/CyberBattleSim) - Experimentation platform to investigate automated agents. [Website](https://www.microsoft.com/en-us/research/project/cyberbattlesim/).
+*   [CyberBattleSim (⭐1.7k)](https://github.com/microsoft/CyberBattleSim) - Experimentation platform to investigate automated agents. [Website](https://www.microsoft.com/en-us/research/project/cyberbattlesim/).
 
 ## [2. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 

@@ -20,7 +20,7 @@
 
 ### Processes and Threads
 
-*   [werk (⭐26)](https://github.com/marghidanu/werk) - Dead simple task runner with concurrent support, ideal for local CI
+*   [werk (⭐28)](https://github.com/marghidanu/werk) - Dead simple task runner with concurrent support, ideal for local CI
 
 ## [3. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/README.md)
 
@@ -35,23 +35,18 @@
 *   Visual Studio Code
     *   [godot-tools Visual Studio Code Extension](https://marketplace.visualstudio.com/items?itemName=geequlim.godot-tools) - A complete set of tools to code games with Godot Engine in Visual Studio Code. Includes a GDScript language client.
     *   [C# Tools for Godot Visual Studio Code Extension](https://marketplace.visualstudio.com/items?itemName=neikeq.godot-csharp-vscode) - Debugger and utilities for working with Godot C# projects in VSCode.
-    *   [GUT Visual Studio Code Extension (⭐28)](https://github.com/bitwes/gut-extension) - Run GUT framework unit/integration tests directly from the Visual Studio Code Editors.
-    *   [gdformat Visual Studio Code Extension](https://marketplace.visualstudio.com/items?itemName=Razoric.gdscript-toolkit-formatter) - Formatter for GDScript in Visual Studio Code (Godot 3.x).
-
-### Unofficial Godot builds / Godot version unknown
-
-*   [Calinou's builds](https://hugo.pro/projects/godot-builds/) - Mainly master branch, other branches can be found [here](https://archive.hugo.pro/builds/godot/).
-*   [iFire's builds](https://ifiregames.itch.io/stern-flowers-chibifire-com-godot-engine) - Distributed via Itch.io (automatic updates with [app](https://itch.io/app)), master branch only.
+    *   [GUT Visual Studio Code Extension (⭐30)](https://github.com/bitwes/gut-extension) - Run GUT framework unit/integration tests directly from the Visual Studio Code Editors.
+    *   [gdformat Visual Studio Code Extension](https://marketplace.visualstudio.com/items?itemName=Razoric.gdscript-toolkit-formatter) - Formatter for GDScript in Visual Studio Code.
 
 ### Other / Godot version unknown
 
-*   [codetranslator (⭐49)](https://github.com/HaSa1002/codetranslator) - Translates GDScript to C# (WIP).
+*   [codetranslator (⭐50)](https://github.com/HaSa1002/codetranslator) - Translates GDScript to C# (WIP).
 
 ## [5. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
 ### Extensions and Utilities
 
-*   [playcanvas-vue (⭐41)](https://github.com/isobolewski/playcanvas-vue) - A PlayCanvas integration with Vue.js.
+*   [playcanvas-vue (⭐42)](https://github.com/isobolewski/playcanvas-vue) - A PlayCanvas integration with Vue.js.
 
 ## [6. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/README.md)
 
@@ -66,7 +61,7 @@
 *   [countdown.js](https://gist.github.com/flasozzi/ab6222ea15de5113555c32c855e9e326) - Simple countdown to dates.
 
     <img src="https://user-images.githubusercontent.com/17153908/95031000-bdd3e980-0689-11eb-83ce-49e2adbe1ca1.jpg" width="400"/>
-*   [daysUntilBirthday (⭐38)](https://github.com/lwitzani/daysUntilBirthday) - List of upcoming birthdays from contacts.
+*   [daysUntilBirthday (⭐45)](https://github.com/lwitzani/daysUntilBirthday) - List of upcoming birthdays from contacts.
 
     <img src="https://raw.githubusercontent.com/lwitzani/daysUntilBirthday/main/fullySetupWidget.PNG" width="400"/>
 
@@ -79,7 +74,7 @@
 *   [telekom.js](https://gist.github.com/Sillium/f904fb89444bc8dde12cfc07b8fa8728) - Data consumption based on tariff for Telekom.de.
 
     <img src="https://user-images.githubusercontent.com/8177259/96705591-cb7db480-1395-11eb-8fb3-cff401898bc2.jpg" width="800"/>
-*   [VodafoneDE (⭐270)](https://github.com/ThisIsBenny/iOS-Widgets/tree/main/VodafoneDE) - Data consumption based on tariff for Vodafone DE.
+*   [VodafoneDE (⭐275)](https://github.com/ThisIsBenny/iOS-Widgets/tree/main/VodafoneDE) - Data consumption based on tariff for Vodafone DE.
 
     <img src="https://raw.githubusercontent.com/ThisIsBenny/iOS-Widgets/main/VodafoneDE/previewLight.jpeg" width="200"/>
 
@@ -94,7 +89,7 @@
 
 ### Social
 
-*   [conversable-for-scriptable (⭐185)](https://github.com/andyngo/conversable-for-scriptable) - Contact icons to start conversations.
+*   [conversable-for-scriptable (⭐194)](https://github.com/andyngo/conversable-for-scriptable) - Contact icons to start conversations.
 
     <img src="https://raw.githubusercontent.com/andyngo/conversable-for-scriptable/main/conversable.png" width="400"/>
 *   [termiWidget.js](https://gist.github.com/spencerwooo/7955aefc4ffa5bc8ae7c83d85d05e7a4) - Terminal-like output of subscriber amount.
@@ -104,25 +99,23 @@
 ### Sports
 
 *   [fitx-widget.js](https://gist.github.com/DanielStefanK/487175b6f65ede401e37ee4848970176) - Workload of a FitX gym.
-*   [Upcoming Matches](https://gist.github.com/ilyichvismara/7895bb479e14a999f3cfd2c391f10597) - Upcoming matches of a football team.
 
 ### Tools
 
-*   [gitlab-stats-for-scribtable (⭐48)](https://github.com/p0fi/gitlab-stats-for-scribtable) - Statistics from GitLab like the number of assigned merge requests.
+*   [gitlab-stats-for-scribtable (⭐50)](https://github.com/p0fi/gitlab-stats-for-scribtable) - Statistics from GitLab like the number of assigned merge requests.
 
     <img src="https://raw.githubusercontent.com/p0fi/gitlab-stats-for-scribtable/main/cover.png" width="800"/>
 *   [mz\_invisible\_widget.js](https://gist.github.com/mzeryck/3a97ccd1e059b3afa3c6666d27a496c9) - Creation of "invisible" backgrounds.
-*   [PurpleAir-AQI-Scriptable-Widget (⭐156)](https://github.com/jasonsnell/PurpleAir-AQI-Scriptable-Widget) - Air Quality from PurpleAir sensor.
+*   [PurpleAir-AQI-Scriptable-Widget (⭐169)](https://github.com/jasonsnell/PurpleAir-AQI-Scriptable-Widget) - Air Quality from PurpleAir sensor.
 
-    <img src="https://camo.githubusercontent.com/1fdb80ce7198c16a4fafd1586a45307bbf255962/68747470733a2f2f736978636f6c6f72732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f31302f7769646765742d6c61746573742e6a706567" width="400"/>
+    <img src="https://camo.githubusercontent.com/30832e8a15e65027863fc897d902810c1cbd3160f7c0e0a6ae96d3c37720cdca/68747470733a2f2f736978636f6c6f72732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30382f6e65772d6171692e6a7067" width="400"/>
 *   [server-status-widget.js](https://gist.github.com/dioncodes/cd4554d8593814a94925735cbcdea0c8) - Reachability of web servers.
-*   [xkcd.js (⭐201)](https://github.com/supermamon/scriptable-scripts/blob/master/xkcd-widget/xkcd.js) - Current or random xkcd comic.
 
 ## [7. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
 
 ### Project Starter Templates
 
-*   [drom (⭐182)](https://github.com/OCamlPro/drom/) - The drom tool is a wrapper over opam/dune in an attempt to provide a cargo-like user experience.
+*   [drom (⭐185)](https://github.com/OCamlPro/drom/) - The drom tool is a wrapper over opam/dune in an attempt to provide a cargo-like user experience.
 
 ## [8. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 

@@ -119,7 +119,7 @@ A curated list of awesome JSON datasets that don't require authentication.
 
 ### More Awesome Lists
 
-*   [Help Wanted (⭐71)](https://github.com/fullstackla/awesome-help-wanted) *(Open Source projects looking for Help)*
+*   [Help Wanted (⭐75)](https://github.com/fullstackla/awesome-help-wanted) *(Open Source projects looking for Help)*
 
 ## [Oct 24 - Oct 30, 2016](/content/2016/43/README.md)
 
@@ -175,7 +175,7 @@ A curated list of awesome JSON datasets that don't require authentication.
 
 ### More Awesome Lists
 
-*   [Public APIs (⭐2k)](https://github.com/toddmotto/public-apis) *(JSON APIs for use in web dev, some of which require authentication)*
+*   [Public APIs (⭐2.2k)](https://github.com/toddmotto/public-apis) *(JSON APIs for use in web dev, some of which require authentication)*
 
 ## [Oct 10 - Oct 16, 2016](/content/2016/41/README.md)
 
@@ -288,7 +288,7 @@ A curated list of awesome JSON datasets that don't require authentication.
 
 ### More Awesome Lists
 
-*   [Public Datasets (⭐59k)](https://github.com/caesar0301/awesome-public-datasets) *(Datasets beyond just JSON)*
+*   [Public Datasets (⭐61k)](https://github.com/caesar0301/awesome-public-datasets) *(Datasets beyond just JSON)*
 
 ## [Sep 07 - Sep 13, 2015](/content/2015/36/README.md)
 
@@ -352,6 +352,6 @@ A curated list of awesome JSON datasets that don't require authentication.
 
 ### More Awesome Lists
 
-*   [Awesome (⭐312k)](https://github.com/sindresorhus/awesome) *(The OG List)*
-*   [WPO (⭐8.3k)](https://github.com/davidsonfellipe/awesome-wpo) *(Web Performance Optimization)*
-*   [Shell (⭐32k)](https://github.com/alebcay/awesome-shell) *(CLI Frameworks, Toolkits and Guides)*
+*   [Awesome (⭐337k)](https://github.com/sindresorhus/awesome) *(The OG List)*
+*   [WPO (⭐8.4k)](https://github.com/davidsonfellipe/awesome-wpo) *(Web Performance Optimization)*
+*   [Shell (⭐33k)](https://github.com/alebcay/awesome-shell) *(CLI Frameworks, Toolkits and Guides)*

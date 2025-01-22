@@ -63,7 +63,7 @@
 
 ### Automation / DSL
 
-*   [jmeter-groovy-dsl (⭐12)](https://github.com/smicyk/groovy-jmeter) - The Groovy-JMeter project is simple DSL to write JMeter test plans.
+*   [jmeter-groovy-dsl (⭐13)](https://github.com/smicyk/groovy-jmeter) - The Groovy-JMeter project is simple DSL to write JMeter test plans.
 
 ## [8. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 

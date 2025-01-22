@@ -10,9 +10,9 @@
 
 ### Applications / File manager
 
-*   [joshuto (⭐3.4k)](https://github.com/kamiyaa/joshuto) - ranger-like terminal file manager
-*   [xplr (⭐4.1k)](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
-*   [yazi (⭐14k)](https://github.com/sxyazi/yazi) - Blazing fast terminal file manager, based on async I/O.
+*   [joshuto (⭐3.5k)](https://github.com/kamiyaa/joshuto) - ranger-like terminal file manager
+*   [xplr (⭐4.3k)](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
+*   [yazi (⭐21k)](https://github.com/sxyazi/yazi) - Blazing fast terminal file manager, based on async I/O.
 
 ## [2. Awesome Dos](/content/balintkissdev/awesome-dos/README.md)
 
@@ -23,9 +23,9 @@
 
 ## [3. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
-### Treesitter Based / Diagnostics
+### Tree-sitter Based / Diagnostics
 
-*   [atusy/treemonkey.nvim (⭐23)](https://github.com/atusy/treemonkey.nvim) - Region selection with Treesitter nodes.
+*   [atusy/treemonkey.nvim (⭐26)](https://github.com/atusy/treemonkey.nvim) - Region selection with Tree-sitter nodes.
 
 ## [4. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
@@ -41,7 +41,7 @@
 
 ### DevOps / Apache License
 
-*   [mat (⭐6)](https://github.com/stcarrez/mat) - MAT is a simple memory analysis tool intended to help understand where the memory is used in a program.
+*   [mat (⭐7)](https://github.com/stcarrez/mat) - MAT is a simple memory analysis tool intended to help understand where the memory is used in a program.
 
 ### Generation / Apache License
 
@@ -65,7 +65,7 @@
 
 ### Communication / Apache License
 
-*   [ada-enet (⭐21)](https://github.com/stcarrez/ada-enet) - Embedded network stack (Ethernet driver, IPv4, UDP, DNS, DHCP, NTP) for STM32F746 or STM32F769.
+*   [ada-enet (⭐22)](https://github.com/stcarrez/ada-enet) - Embedded network stack (Ethernet driver, IPv4, UDP, DNS, DHCP, NTP) for STM32F746 or STM32F769.
 
 ### Libraries / Apache License
 
@@ -75,7 +75,7 @@
 
 ### Developer Tools / Command Line Tools
 
-*   [ohmyzsh (⭐172k)](https://github.com/ohmyzsh/ohmyzsh) - A delightful community-driven framework for managing your zsh configuration. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ohmyzsh/ohmyzsh) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [ohmyzsh (⭐175k)](https://github.com/ohmyzsh/ohmyzsh) - A delightful community-driven framework for managing your zsh configuration. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ohmyzsh/ohmyzsh) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Audio and Video Tools / File Sharing
 

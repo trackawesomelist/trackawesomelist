@@ -10,7 +10,7 @@
 
 ### Native Apps (open source)
 
-*   [OpenTripPlanner Android (⭐130)](https://github.com/CUTR-at-USF/OpenTripPlanner-for-Android/wiki) - An Android app for [OpenTripPlanner](http://www.opentripplanner.org/)
+*   [OpenTripPlanner Android (⭐129)](https://github.com/CUTR-at-USF/OpenTripPlanner-for-Android/wiki) - An Android app for [OpenTripPlanner](http://www.opentripplanner.org/)
 *   [OpenTripPlanner iOS (⭐68)](https://github.com/opentripplanner/OpenTripPlanner-iOS) - An iOS app for [OpenTripPlanner](http://www.opentripplanner.org/)
 
 ### Native Apps (closed source)
@@ -21,7 +21,7 @@
 
 ### Articles
 
-*   [C++Now 2015 Presentations (⭐201)](https://github.com/boostcon/cppnow_presentations_2015) - Presentation materials presented at C++Now 2015.
+*   [C++Now 2015 Presentations (⭐202)](https://github.com/boostcon/cppnow_presentations_2015) - Presentation materials presented at C++Now 2015.
 
 ## [3. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 

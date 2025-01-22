@@ -10,7 +10,7 @@
 
 ### Auth
 
-*   [FastAPI Cloud Auth (⭐326)](https://github.com/tokusumi/fastapi-cloudauth) - Simple integration between FastAPI and cloud authentication services (AWS Cognito, Auth0, Firebase Authentication).
+*   [FastAPI Cloud Auth (⭐339)](https://github.com/tokusumi/fastapi-cloudauth) - Simple integration between FastAPI and cloud authentication services (AWS Cognito, Auth0, Firebase Authentication).
 
 ## [2. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
@@ -27,7 +27,7 @@
 
 ## [4. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
-### Other multimodal data formats / Ruby
+### Pilot or development stage / Ruby
 
 *   [shared-row (⭐17)](https://github.com/d-wasserman/shared-row) - A specification for right-of-way (ROW) for a SharedStreets Reference.
 
@@ -49,9 +49,9 @@
 
 *   [Sogou Workflow (⭐13k)](https://github.com/sogou/workflow) - Enterprise-grade programming engine aimed to satisfy most of the backend development requirements.
 
-### Coordination & Governance / Scala
+### Workflow Orchestration / Scala
 
-*   [Temporal (⭐11k)](https://github.com/temporalio/temporal) - Open source microservices orchestration platform for running mission critical code at any scale.
+*   [Temporal (⭐13k)](https://github.com/temporalio/temporal) - Open source microservices orchestration platform for running mission critical code at any scale.
 
 ## [8. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
 

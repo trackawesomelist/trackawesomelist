@@ -10,13 +10,13 @@
 
 ### Developer Tools / Developer Utilities
 
-*   [SwiftPlantUML (⭐427)](https://github.com/MarcoEidinger/SwiftPlantUML-Xcode-Extension) - Generate and view class diagrams from Xcode for Swift code. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/MarcoEidinger/SwiftPlantUML-Xcode-Extension) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [SwiftPlantUML (⭐439)](https://github.com/MarcoEidinger/SwiftPlantUML-Xcode-Extension) - Generate and view class diagrams from Xcode for Swift code. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/MarcoEidinger/SwiftPlantUML-Xcode-Extension) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [2. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Projects Using Vue.js / Open Source
 
-*   [Interface X (⭐80)](https://github.com/empathyco/x) - UI Search\&Discovery components to rapidly build beautiful search experiences
+*   [Interface X (⭐81)](https://github.com/empathyco/x) - UI Search\&Discovery components to rapidly build beautiful search experiences
 
 ## [3. Awesome Product Management](/content/dend/awesome-product-management/README.md)
 
@@ -38,8 +38,6 @@
 
   Price: [Free for 100 tests per month](http://www.chronoci.com/pricing)
 
-  Stars: 
-
 
 
 ## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
@@ -58,8 +56,8 @@
 
 ### Audio
 
-*   [dr\_libs (⭐1.2k)](https://github.com/mackron/dr_libs) - Single file audio decoding libraries for C and C++. \[Unlicense]
-*   [miniaudio (⭐3.9k)](https://github.com/mackron/miniaudio) - Single file audio playback and capture library. \[Unlicense] [website](https://miniaud.io/)
+*   [dr\_libs (⭐1.3k)](https://github.com/mackron/dr_libs) - Single file audio decoding libraries for C and C++. \[Unlicense]
+*   [miniaudio (⭐4.3k)](https://github.com/mackron/miniaudio) - Single file audio playback and capture library. \[Unlicense] [website](https://miniaud.io/)
 
 ## [8. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
@@ -120,7 +118,7 @@
 
 ## [11. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
 
-### Qubes OS Server / Web articles
+### Qubes OS Server / Unikernel-like
 
 *   [Ansible](https://qubes-ansible.readthedocs.io/en/latest/) - Automation with Ansible.
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 22, 2018
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -25,25 +25,19 @@
 
 *   [Reason](https://reasonml.github.io) – Reason is a new interface to OCaml, a highly expressive dialect of the ML language featuring type inference and static type checking.
 
-## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Projects Using Vue.js / Open Source
-
-*   [Tamiat CMS (⭐520)](https://github.com/tamiat/tamiat) - Tamiat is a front-end focused CMS, uses Vue.JS as the frontend and integrates with Firebase for the backend functionality.
-
-## [5. Awesome Json](/content/burningtree/awesome-json/README.md)
+## [4. Awesome Json](/content/burningtree/awesome-json/README.md)
 
 ### Transformations
 
 *   [Sawmill (⭐110)](https://github.com/logzio/sawmill) - JSON transformation library (Java)
 
-## [6. Awesome Funny Markov](/content/sublimino/awesome-funny-markov/README.md)
+## [5. Awesome Funny Markov](/content/sublimino/awesome-funny-markov/README.md)
 
 ### Twitter
 
 *   [@hipsterwid](https://twitter.com/hipsterwid) - An hipster bot trained on Erowid trip reports and Pitchfork's album reviews.
 
-## [7. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [6. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
@@ -53,21 +47,21 @@
 
 *   [Exploring .NET Core with Microservices, ASP.NET Core, and Entity Framework Core - free eBook sampler](https://www.manning.com/books/exploring-dot-net-core)
 
-## [8. Awesome Php](/content/ziadoz/awesome-php/README.md)
+## [7. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Table of Contents / Strings
 
-*   [Device Detector (⭐2.9k)](https://github.com/matomo-org/device-detector) - Another library for parsing user agent strings.
+*   [Device Detector (⭐3.2k)](https://github.com/matomo-org/device-detector) - Another library for parsing user agent strings.
 
 ### Configuration / PHP Websites
 
 *   [PHP FIG](https://www.php-fig.org/) - The PHP Framework Interoperability Group.
 
-## [9. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [8. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Command Line Applications
 
-*   [scribe (⭐289)](https://github.com/codedge-llc/scribe) - Pretty-print tables of Elixir structs and maps. Inspired by hirb.
+*   [scribe (⭐298)](https://github.com/codedge-llc/scribe) - Pretty-print tables of Elixir structs and maps. Inspired by hirb.
 
 ### Networking
 
@@ -77,17 +71,17 @@
 
 *   [ecto\_facade (⭐69)](https://github.com/azranel/ecto_facade) - Ecto facade that allows to separate writes and reads to different databases.
 
-## [10. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
+## [9. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 
-### Tools and frameworks
+### Tools and frameworks (a-z↓)
 
-*   [Muppeteer (⭐66)](https://github.com/HuddleEng/Muppeteer) - Visual regression testing framework for Chrome using [Mocha](https://mochajs.org/) and [Puppeteer (⭐88k)](https://github.com/GoogleChrome/puppeteer).
+*   [Muppeteer (⭐66)](https://github.com/HuddleEng/Muppeteer) - Visual regression testing framework for Chrome using [Mocha](https://mochajs.org/) and [Puppeteer (⭐89k)](https://github.com/GoogleChrome/puppeteer).
 
-### Online services
+### Online services (a-z↓)
 
 *   [VisWiz.io](https://www.viswiz.io) - Flexible visual regression testing service.
 
-## [11. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/README.md)
+## [10. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/README.md)
 
 ### CLI
 

@@ -15,17 +15,9 @@
 
 ## [2. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
-### REST and API
-
-*   [BryanCrowe/ApiPagination plugin (⭐40)](https://github.com/bcrowe/cakephp-api-pagination) - Automatically adds fully configurable pagination metadata from CakePHP’s built-in pagination to JsonView or XmlView API responses by encapsulating payload data in an envelope.
-
-### Security
-
-*   [BryanCrowe/EncryptedType plugin (⭐8)](https://github.com/bcrowe/cakephp-encrypted-type) - A straightforward solution that enables field-level (column) encryption within the application layer before data is stored or transmitted to the database, supporting regulatory compliance, zero-trust security, end-to-end encryption, and contextual awareness.
-
 ### Skeleton
 
-*   [BS flavored App template (⭐0)](https://github.com/dereuromark/cakephp-app) - An empty CakePHP project with BS5 and FontAwesome out of the box.
+*   [BS flavored App template (⭐1)](https://github.com/dereuromark/cakephp-app) - An empty CakePHP project with BS5 and FontAwesome out of the box.
 
 ---
 

@@ -17,7 +17,7 @@
 
 ### Libraries
 
-*   [pytorch2keras (⭐847)](https://github.com/nerox8664/pytorch2keras) - Convert PyTorch models to Keras (with TensorFlow backend) format
+*   [pytorch2keras (⭐856)](https://github.com/nerox8664/pytorch2keras) - Convert PyTorch models to Keras (with TensorFlow backend) format
 
 ## [3. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
@@ -142,14 +142,14 @@
 
 ### Extensions / Collection View Layout
 
-*   [Comment Spell Checker (⭐158)](https://github.com/velyan/Comment-Spell-Checker) - Xcode extension for spell checking and auto correcting code comments.
+*   [Comment Spell Checker (⭐160)](https://github.com/velyan/Comment-Spell-Checker) - Xcode extension for spell checking and auto correcting code comments.
 
 ## [8. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### HAL implementation crates / Silicon Labs
 
 *   [`tomu-hal`](https://github.com/fudanchii/imtomu-rs)
-    *   HAL implementation targeted for [Tomu](https://tomu.im/) USB board with EFM32HG309F64 ARMv6-M core. Has support to configure [tomu bootloader (⭐71)](https://github.com/im-tomu/tomu-bootloader) directly from an application via the `toboot_config` macro.
+    *   HAL implementation targeted for [Tomu](https://tomu.im/) USB board with EFM32HG309F64 ARMv6-M core. Has support to configure [tomu bootloader (⭐73)](https://github.com/im-tomu/tomu-bootloader) directly from an application via the `toboot_config` macro.
 
 ## [9. Awesome Composer](/content/jakoch/awesome-composer/README.md)
 

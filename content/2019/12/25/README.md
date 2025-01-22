@@ -23,11 +23,11 @@
 
 ### Utility / Docker Container Actions
 
-*   [awesome-lint as a GitHub Action (⭐17)](https://github.com/max/awesome-lint)
+*   [awesome-lint as a GitHub Action (⭐20)](https://github.com/max/awesome-lint)
 
 ### Deployment / Code Coverage
 
-*   [Build and deploy a theme to Ghost CMS (⭐295)](https://github.com/TryGhost/action-deploy-theme)
+*   [Build and deploy a theme to Ghost CMS (⭐352)](https://github.com/TryGhost/action-deploy-theme)
 
 ---
 

@@ -20,7 +20,7 @@
 
 ### Tools / XML
 
-*   [entype (⭐2)](https://github.com/bcheidemann/entype) - A CLI tool used to generate type definitions for serialised data, currently supporting JSON to Rust and TypeScript.
+*   [entype (⭐3)](https://github.com/bcheidemann/entype) - A CLI tool used to generate type definitions for serialised data, currently supporting JSON to Rust and TypeScript.
 
 ## [3. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -36,17 +36,17 @@
 
 ### Graphics
 
-*   [micro-gl (⭐237)](https://github.com/micro-gl/micro-gl) - Realtime, Embeddable, Headers Only C++11 CPU vector graphics. no STD lib, no FPU and no GPU required. \[CUSTOM] [website](https://micro-gl.github.io/docs/microgl)
+*   [micro-gl (⭐295)](https://github.com/micro-gl/micro-gl) - Realtime, Embeddable, Headers Only C++11 CPU vector graphics. no STD lib, no FPU and no GPU required. \[CUSTOM] [website](https://micro-gl.github.io/docs/microgl)
 
 ## [5. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Framework Components
 
-*   [pluggable (⭐15)](https://github.com/mruoss/pluggable) - Build `plug`-like pipelines with your own token (instead of `%Plug.Conn{}`).
+*   [pluggable (⭐18)](https://github.com/mruoss/pluggable) - Build `plug`-like pipelines with your own token (instead of `%Plug.Conn{}`).
 
 ### Reading
 
-*   [Elixir Refactorings (⭐150)](https://github.com/lucasvegi/Elixir-Refactorings) - A catalog of refactoring strategies to promote the redesign and improve the quality of code developed with Elixir.
+*   [Elixir Refactorings (⭐164)](https://github.com/lucasvegi/Elixir-Refactorings) - A catalog of refactoring strategies to promote the redesign and improve the quality of code developed with Elixir.
 
 ## [6. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 

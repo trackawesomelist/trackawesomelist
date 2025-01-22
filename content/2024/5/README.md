@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 29 - Feb 04, 2024
 
-33 awesome lists updated this week.
+29 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -23,31 +23,24 @@
 
 ### React Development Tools
 
-*   [million (⭐15k)](https://github.com/aidenybai/million) - An extremely fast and lightweight optimizing compiler
+*   [million (⭐17k)](https://github.com/aidenybai/million) - An extremely fast and lightweight optimizing compiler
 
-## [4. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
-
-### Multiple languages / [Other](#other-1)
-
-*   [SonarLint](https://sonarlint.org) — SonarLint is a free IDE extension available for IntelliJ, VS Code, Visual Studio, and Eclipse,  to find and fix coding issues in real-time, flagging issues as you code, just like a spell-checker.  More than a linter, it also delivers rich contextual guidance to help developers understand  why there is an issue, assess the risk, and educate them on how to fix it.
-*   [SonarQube](https://sonarqube.org) — SonarQube empowers development teams with a code quality and security solution that deeply integrates into your enterprise environment; enabling you to deploy clean code consistently and reliably. SonarQube provides a free and open source Community Edition.
-
-## [5. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
+## [4. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
 
 ### Web / Other
 
-*   [dockemon (⭐635)](https://github.com/ProductiveOps/dokemon) - Docker Container Management GUI by [@productiveops](https://github.com/ProductiveOps)
-*   [dockge (⭐11k)](https://github.com/louislam/dockge) - easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager by [@louislam](https://github.com/louislam).
+*   [dockemon (⭐692)](https://github.com/ProductiveOps/dokemon) - Docker Container Management GUI by [@productiveops](https://github.com/ProductiveOps)
+*   [dockge (⭐13k)](https://github.com/louislam/dockge) - easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager by [@louislam](https://github.com/louislam).
 
 ### CI/CD / Other
 
-*   [Gantry (⭐27)](https://github.com/shizunge/gantry) - Automatically update selected Docker swarm services.
+*   [Gantry (⭐43)](https://github.com/shizunge/gantry) - Automatically update selected Docker swarm services.
 
 ### Garbage Collection / Other
 
-*   [Docuum (⭐586)](https://github.com/stepchowfun/docuum) - Least recently used (LRU) eviction of Docker images by [@stepchowfun](https://github.com/stepchowfun)
+*   [Docuum (⭐607)](https://github.com/stepchowfun/docuum) - Least recently used (LRU) eviction of Docker images by [@stepchowfun](https://github.com/stepchowfun)
 
-## [6. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/week/README.md)
+## [5. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/week/README.md)
 
 ### Collaboration Tools
 
@@ -71,7 +64,7 @@
 
 *   [DEM](https://axemsolutions.io/dem_doc/index.html) - DEM (Development Environment Manager) is an open source command line tool to manage containerized Development Environments.
 
-## [7. Awesome Ci](/content/ligurio/awesome-ci/week/README.md)
+## [6. Awesome Ci](/content/ligurio/awesome-ci/week/README.md)
 
 - Name: [Dagger](https://dagger.io/)
 
@@ -83,68 +76,43 @@
 
   Documentation: [Documentation](https://docs.dagger.io/)
 
-  Price: [Open Source (⭐10k)](https://github.com/dagger/dagger)
+  Price: [Open Source (⭐11k)](https://github.com/dagger/dagger)
 
   Stars: 
 
 
 
-## [8. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
+## [7. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
 
 ### JSS
 
 *   [jss21.4-nextjs-storybook7.4 (⭐4)](https://github.com/jflheureux/jss21.4-nextjs-storybook7.4) - Sitecore JSS 21.4 Next.js sample application in which Storybook 7.4 was added step by step, exposed with the commit history.
 
-## [9. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/week/README.md)
-
-### **The Problem with RAG**
-
-*   Solving the core challenges of Retrieval-Augmented Generation [ref](https://towardsdatascience.com/12-rag-pain-points-and-proposed-solutions-43709939a28c) \[Feb 2024] <br/> <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/rag-12-pain-points-solutions.jpg" width="500">
-
-### **Microsoft Azure OpenAI relevant LLM Framework** / **Lucene based search engine with OpenAI Embedding**
-
-*   [AI Central (⭐76)](https://github.com/microsoft/AICentral): An AI Control Centre for monitoring, authenticating, and providing resilient access to multiple Open AI services. \[Oct 2023]
-
-### **Prompt Engineering** / **Prompt Template Language**
-
-*   [Self-Consistency](https://arxiv.org/abs/2203.11171): The three steps in the self-consistency method: 1) prompt the language model using CoT prompting, 2) sample a diverse set of reasoning paths from the language model, and 3) marginalize out reasoning paths to aggregate final answers and choose the most consistent answer. \[21 Mar 2022]
-
-### **Evaluating Large Language Models** / **OSS Alternatives for OpenAI Code Interpreter (aka. Advanced Data Analytics)**
-
-*   [LLM Model Evals vs LLM Task Evals](https://x.com/aparnadhinak/status/1752763354320404488)
-    : `Model Evals` are really for people who are building or fine-tuning an LLM. vs The best LLM application builders are using `Task evals`. It's a tool to help builders build. \[Feb 2024]
-
-## [10. Awesome Credit Modeling](/content/mourarthur/awesome-credit-modeling/week/README.md)
+## [8. Awesome Credit Modeling](/content/mourarthur/awesome-credit-modeling/week/README.md)
 
 ### Credit Scoring
 
 *   [Credit scoring methods: Latest trends and points to consider](https://www.sciencedirect.com/science/article/pii/S2405918822000095) - "(...) This article aims at providing a systemic review of the most recent (2016–2021) articles, identifying trends in credit scoring using a fixed set of questions. The survey methodology and questionnaire align with previous similar research that analyses articles on credit scoring published in 1991–2015. We seek to compare our results with previous periods and highlight some of the recent best practices in the field that might be useful for future researchers."
 
-## [11. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
-
-### Form / Checkbox
-
-*   [Formsnap](https://www.formsnap.dev/docs/introduction) - High level Svelte components for forms, built on top of Superforms and Zod.
-
-## [12. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [9. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Books
 
 *   [Terraform in Depth](https://www.manning.com/books/terraform-in-depth)
 
-## [13. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [10. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### PHP / Scala
 
 *   [Spiral](https://spiral.dev/) - Framework designed for long-running applications using [RoadRunner](https://roadrunner.dev/). It offers advanced features like integration with the [Temporal](https://temporal.io/) workflow engine and [Centrifugo](https://centrifugal.dev/) websocket server. It is particularly effective for microservices architecture, providing robust support for REST APIs and gRPC services.
 
-## [14. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [11. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [vite-plugin-imagemin (⭐17)](https://github.com/vHeemstra/vite-plugin-imagemin) - Optimize and compress your image assets and optionally create WebP/AVIF.
+*   [vite-plugin-imagemin (⭐23)](https://github.com/vHeemstra/vite-plugin-imagemin) - Optimize and compress your image assets and optionally create WebP/AVIF.
 
-## [15. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/week/README.md)
+## [12. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/week/README.md)
 
 ### Team Dynamics / Behavioral
 
@@ -162,23 +130,23 @@
 
 *   [7 Rules of Power](https://www.amazon.com/Rules-Power-Surprising-but-True-Advice-Advance/dp/1637741227?_encoding=UTF8\&qid=\&sr=\&linkCode=ll1\&tag=kevideld-20\&linkId=1a2a7107ccffa7b19e03cdb88e616daf\&language=en_US\&ref_=as_li_ss_tl) - By Jeffery Pfeffer. Tells you [how to play office politics if success in the workplace is the only thing you care about](https://news.ycombinator.com/item?id=39084979).
 
-## [16. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [13. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Router / Mouse Events
 
 *   [tanstack-router (⭐7.3k)](https://github.com/TanStack/router) - Type-safe router with built-in caching & URL state management
 
-## [17. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [14. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Mail
 
-*   [Loops](https://loops.so/) - REST API to manage contact properties, send events and transactional emails.
+*   [Loops](https://loops.so/) - REST API to manage contact properties, send events and transactional emails. [![featured on launchweek.dev](https://img.shields.io/badge/featured-0D1117.svg?style=flat-square\&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMzYwIiBoZWlnaHQ9IjM2MCIgdmlld0JveD0iMCAwIDM2MCAzNjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+IDxyZWN0IHdpZHRoPSI2MCIgaGVpZ2h0PSIzMDAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjYwIiB5PSIzMDAiIHdpZHRoPSIxMjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjI0MCIgeT0iMzAwIiB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjMwMCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjMwMCIgZmlsbD0id2hpdGUiLz4gPHJlY3QgeD0iMTgwIiB3aWR0aD0iNjAiIGhlaWdodD0iMzAwIiBmaWxsPSJ3aGl0ZSIvPiA8L3N2Zz4=)](https://launchweek.dev)
 
 ### Testing
 
-*   [Octomind](https://www.octomind.dev/) -  Auto-generated, run and maintained Playwright UI tests with AI-assisted test case discovery.
+*   [Octomind](https://www.octomind.dev/) -  Auto-generated, run, and maintained Playwright UI tests with AI-assisted test case discovery.
 
-## [18. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [15. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Parsers
 
@@ -186,26 +154,26 @@
 
 ### Libraries/Frameworks / Multiplatform
 
-*   [L-Briand/KTM (⭐17)](https://github.com/L-Briand/KTM) - Mustache templating in kotlin multiplatform
+*   [L-Briand/KTM (⭐20)](https://github.com/L-Briand/KTM) - Mustache templating in kotlin multiplatform
 
 ### Libraries/Frameworks / Cryptography
 
-*   [appmattus/crypto (⭐83)](https://github.com/appmattus/crypto) - A collection of Kotlin Multiplatform Mobile cryptographic hashing functions.
+*   [appmattus/crypto (⭐93)](https://github.com/appmattus/crypto) - A collection of Kotlin Multiplatform Mobile cryptographic hashing functions.
 
-## [19. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/week/README.md)
+## [16. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/week/README.md)
 
 ### Specialty Topics / Shaders
 
 *   Water / Refraction
     *   📚 [2D Water Shader](https://rotatingcanvas.com/fragment-shader-to-simulate-water-surface-in-libgdx/) - GLSL fragment shader to simulate 2D water surface in *libGDX*.
 
-## [20. Awesome Opentofu](/content/virtualroot/awesome-opentofu/week/README.md)
+## [17. Awesome Opentofu](/content/virtualroot/awesome-opentofu/week/README.md)
 
 ### Podcasts / Helpers
 
 *   [TheIaCPodcast - Expert Panel on OpenTofu GA Release, Licensing, and OSS Future](https://www.theiacpodcast.com/episode/expert-panel-on-opentofu-ga-release-licensing-and-oss-future)
 
-## [21. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [18. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Developer Utilities
 
@@ -215,13 +183,13 @@
 
 *   [Lunatask](https://lunatask.app) - An all-in-one encrypted to-do list, habit and mood tracker, journaling and notes app. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/lunatask-a-better-to-do-list/id1583719331?mt=12)
 
-## [22. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
+## [19. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
 
 ### Projects Related to eBPF / Tools
 
-*   [bpfman (⭐448)](https://github.com/bpfman/bpfman) - An eBPF Manager for Linux and Kubernetes. Includes a built-in program loader that supports program cooperation for XDP and TC programs, as well as deployment of eBPF programs from OCI images.
+*   [bpfman (⭐553)](https://github.com/bpfman/bpfman) - An eBPF Manager for Linux and Kubernetes. Includes a built-in program loader that supports program cooperation for XDP and TC programs, as well as deployment of eBPF programs from OCI images.
 
-## [23. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [20. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Generative AI Tools Directories
 
@@ -229,7 +197,7 @@
 
 ### Large Language Models (LLMs)
 
-*   [rasbt/LLMs-from-scratch (⭐25k)](https://github.com/rasbt/LLMs-from-scratch): Implementing a ChatGPT-like LLM from scratch, step by step
+*   [rasbt/LLMs-from-scratch (⭐38k)](https://github.com/rasbt/LLMs-from-scratch): Implementing a ChatGPT-like LLM from scratch, step by step
 
 ### Online Tools and Applications
 
@@ -244,7 +212,7 @@
 
 *   [LinkActions](https://linkactions.com): AI Internal Links Assistant
 
-## [24. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [21. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
@@ -270,7 +238,7 @@
 
 *   [QRCodeBest](https://qrcode.best/) - Create custom QR codes with 13 templates, full privacy, and personal branding. Features tracking pixels, project categorization, and unlimited team seats on QRCode.Best.
 
-## [25. Awesome Design Systems](/content/alexpate/awesome-design-systems/week/README.md)
+## [22. Awesome Design Systems](/content/alexpate/awesome-design-systems/week/README.md)
 
 - : [Porsche Design System](https://designsystem.porsche.com)
 
@@ -280,17 +248,17 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐441)](https://github.com/porsche-design-system/porsche-design-system)
+  Source code \*: [:octocat: (⭐496)](https://github.com/porsche-design-system/porsche-design-system)
 
 
 
-## [26. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
+## [23. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
 
 ### Packages / Libraries
 
 *   [MusicXML Player (⭐33)](https://github.com/infojunkie/musicxml-player) - A TypeScript component that loads and plays MusicXML files in the browser using Web Audio and Web MIDI.
 
-## [27. Awesome Productivity Tools](/content/ProductivityDirectory/awesome-productivity-tools/week/README.md)
+## [24. Awesome Productivity Tools](/content/ProductivityDirectory/awesome-productivity-tools/week/README.md)
 
 ### Task Management
 
@@ -329,7 +297,7 @@
 *   **[Calendly](https://calendly.com)** - [review](https://productivity.directory/calendly) - Automated scheduling software.
 *   **[Fantastical](https://flexibits.com/fantastical)** - [review](https://productivity.directory/fantastical) - Calendar app with natural language event creation.
 
-## [28. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [25. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Newsletters
 
@@ -341,56 +309,50 @@
 
 ### Other Xcode / Collection View Layout
 
-*   [Swift Macros 🚀 (⭐2.1k)](https://github.com/krzysztofzablocki/Swift-Macros) - A curated list of community-created Macros and associated learning resources.
+*   [Swift Macros 🚀 (⭐2.3k)](https://github.com/krzysztofzablocki/Swift-Macros) - A curated list of community-created Macros and associated learning resources.
 
-## [29. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+## [26. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
 ### Python / Svelte
 
 *   [PyCoder's Weekly](https://pycoders.com/). A free, weekly email newsletter for those interested in Python development and various topics around Python and the communi‍‍‍ty.
 *   [The Real Python Newsletter](https://realpython.com/newsletter/). Weekly programming and career tips for Python developers, including short & sweet "Python Tricks" code snippets.
 
-## [30. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
-
-### Plugins and scripts / Various Godot versions
-
-*   [QuestSystem (⭐212)](https://github.com/ShomyKohai/quest-system) - A simple and extensible quest manager and creator (Godot 4.x).
-
-## [31. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [27. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### (requires Neovim 0.5)
 
-*   [soulis-1256/eagle.nvim (⭐214)](https://github.com/soulis-1256/eagle.nvim) - Mouse-hover LSP hints.
+*   [soulis-1256/eagle.nvim (⭐270)](https://github.com/soulis-1256/eagle.nvim) - Mouse-hover LSP hints.
 
 ### AI / Diagnostics
 
-*   [kiddos/gemini.nvim (⭐26)](https://github.com/kiddos/gemini.nvim) - Bindings to Google Gemini API.
+*   [kiddos/gemini.nvim (⭐38)](https://github.com/kiddos/gemini.nvim) - Bindings to Google Gemini API.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [sontungexpt/witch (⭐37)](https://github.com/sontungexpt/witch) - The primary stinvim distro colorscheme includes the default feature of dimming inactive windows, along with various other customization options for users.
+*   [sontungexpt/witch (⭐50)](https://github.com/sontungexpt/witch) - The primary stinvim distro colorscheme includes the default feature of dimming inactive windows, along with various other customization options for users.
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [drybalka/clean.nvim (⭐32)](https://github.com/drybalka/clean.nvim) - Cleaning up the default key mappings and plugins and leaving only the bare essentials to build upon.
+*   [drybalka/clean.nvim (⭐36)](https://github.com/drybalka/clean.nvim) - Cleaning up the default key mappings and plugins and leaving only the bare essentials to build upon.
 
 ### Resource / Diagnostics
 
 *   [NeoLand](https://neoland.dev) - A beautifully crafted website for Neovim resources.
 
-## [32. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [28. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [cdhist (⭐5)](https://github.com/joknarf/cdhist) - cd history/subdir/locatedir navigation. simple cd history, alias builtin `cd` to add `cd` history, rapidily swich to already visited directories, can use `locate`, `mlocate` or `plocate` to rapidly cd to any directory
-*   [redo (⭐4)](https://github.com/joknarf/redo) - Adds an interactive history menu to replace `Ctrl-R` and `ESC+/`.
-*   [selector (⭐4)](https://github.com/joknarf/selector) - Make it easy to create selection menus.
+*   [cdhist (⭐7)](https://github.com/joknarf/cdhist) - cd history/subdir/locatedir navigation. simple cd history, alias builtin `cd` to add `cd` history, rapidily swich to already visited directories, can use `locate`, `mlocate` or `plocate` to rapidly cd to any directory
+*   [redo (⭐6)](https://github.com/joknarf/redo) - Adds an interactive history menu to replace `Ctrl-R` and `ESC+/`.
+*   [selector (⭐9)](https://github.com/joknarf/selector) - Make it easy to create selection menus.
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [ssh-config-suggestions (⭐1)](https://github.com/yngc0der/zsh-ssh-config-suggestions)- Loads completions for `ssh` from `~/.ssh/config`.
 
-## [33. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
+## [29. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
 
 ### Workflow
 

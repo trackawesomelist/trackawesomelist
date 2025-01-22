@@ -60,7 +60,7 @@
 
 ### Software / Money, Budgeting & Management
 
-*   [OctoBot](https://www.octobot.cloud/) - Open-source cryptocurrency trading bot. ([Source Code (⭐3.2k)](https://github.com/Drakkar-Software/OctoBot)) `GPL-3.0` `Python/Docker`
+*   [OctoBot](https://www.octobot.cloud/) - Open-source cryptocurrency trading bot. ([Source Code (⭐3.7k)](https://github.com/Drakkar-Software/OctoBot)) `GPL-3.0` `Python/Docker`
 
 ## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -72,9 +72,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-surf (⭐24)](https://github.com/f820602h/vue-surf) - A very customized animated svg wave Vue component. [Online Demo](https://f820602h.github.io/vue-surf/)
-*   [vue-cool-box-selector (⭐11)](https://github.com/hassan-jahan/vue-cool-box-selector) - Fancy versatile, box / button / image selector for Vue 2 and 3 🪄✨ \~1KB
-*   [vue-stage-play (⭐33)](https://github.com/f820602h/vue-stage-play) - Step-by-step guided tour components for Vue3.
+*   [vue-stage-play (⭐38)](https://github.com/f820602h/vue-stage-play) - Step-by-step guided tour components for Vue3.
 
 ## [5. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
 
@@ -86,26 +84,6 @@
 
 ### Family
 
-### [The Crew: Mission Deep Sea](https://boardgamegeek.com/boardgame/324856/crew-mission-deep-sea)
-
-> In the trick-taking card game The Crew: Mission Deep Sea, you and the other players work together to search for the lost continent of Mu. This new adventure takes your crew deep down into the abyss on a search for the fabled sunken land. How far you get depends entirely on how well you work together as a team. Card by card, trick by trick, your search party will discover the challenges that lie ahead and forge a path to Mu.
->
-> This new version of The Crew has the same innovative co-operative trick-taking mechanism as the highly lauded original game — but with some exciting new surprises! While communication between your crew members is severely limited by your submerged state, it is also critical to your success; finding the hidden land in the murky depths depends not only on winning tricks, but also on carefully negotiating the order in which they are won. If things don't go as planned, you might just be able to salvage the operation, but it will take near flawless execution and perhaps a little luck to finally reach Mu.
-
-![The Crew: Mission Deep Sea game image](https://cf.geekdo-images.com/VuBqZ1sMaDAVVHF_OEJP4g__itemrep/img/tgB3g7PECxG14yQ0FkMiMaXaOFE=/fit-in/246x300/filters:strip_icc\(\)/pic5988903.jpg)
-
-| Players | Min. Age | Time |
-| ------: | -------: | ---: |
-|   2 - 5 |       10 |  20m |
-### [That's Pretty Clever](https://boardgamegeek.com/boardgame/244522/s-pretty-clever)
-
-> Choose your dice cleverly in Ganz schön clever (German for "That's Pretty Clever") to enter them into the matching colored areas on your score sheet, putting together tricky chain-scoring opportunities, and racking up the points! The dice you don't use are as important as those you do, because every die with a lower value than the chosen one can be used by the other players, keeping everyone in the game at all times.
-
-![That's Pretty Clever! game image](https://cf.geekdo-images.com/3-unuy5JW1cC8C6EUBNiOA__itemrep/img/6BcSS0mLm9nJBIXTcz0HQ5SKJmI=/fit-in/246x300/filters:strip_icc\(\)/pic4410877.jpg)
-
-| Players | Min. Age | Time |
-| ------: | -------: | ---: |
-|   1 – 4 |        8 |  30m |
 ### [Wingspan](https://boardgamegeek.com/boardgame/266192/wingspan)
 
 > Wingspan is a competitive, medium-weight, card-driven, engine-building board game from Stonemaier Games. It's designed by Elizabeth Hargrave and features over 170 birds illustrated by Beth Sobel, Natalia Rojas, and Ana Maria Martinez.
@@ -133,17 +111,6 @@
 | Players | Min. Age |   Time |
 | ------: | -------: | -----: |
 |   2 – 4 |       13 | 45–90m |
-### [Lost Ruins of Arnak](https://boardgamegeek.com/boardgame/312484/lost-ruins-arnak)
-
-> On an uninhabited island in uncharted seas, explorers have found traces of a great civilization. Now you will lead an expedition to explore the island, find lost artifacts, and face fearsome guardians, all in a quest to learn the island's secrets.
->
-> Lost Ruins of Arnak combines deck-building and worker placement in a game of exploration, resource management, and discovery. In addition to traditional deck-builder effects, cards can also be used to place workers, and new worker actions become available as players explore the island. Some of these actions require resources instead of workers, so building a solid resource base will be essential. You are limited to only one action per turn, so make your choice carefully... what action will benefit you most now? And what can you afford to do later... assuming someone else doesn't take the action first!?
-
-![Lost Ruins of Arnak game image](https://cf.geekdo-images.com/6GqH14TJJhza86BX5HCLEQ__itemrep/img/ETni1QwddAVjM-xLhciF0UM0FxQ=/fit-in/246x300/filters:strip_icc\(\)/pic5674958.jpg)
-
-| Players | Min. Age |   Time |
-| ------: | -------: | -----: |
-|   1 - 4 |       12 | 30-120 |
 ### [Istanbul](https://boardgamegeek.com/boardgame/148949/istanbul)
 
 > There's hustle and bustle at Istanbul's grand bazaar as merchants and their assistants rush through the narrow alleys in their attempt to be more successful than their competitors. Everything must be well organized: wheelbarrows must be filled with goods at the warehouses, then swiftly transported by the assistants to various destinations. Your goal? Be the first merchant to collect a certain number of rubies.
@@ -182,17 +149,6 @@
 | Players | Min. Age | Time |
 | ------: | -------: | ---: |
 |   2 - 4 |        8 |  30m |
-### [Welcome To](https://boardgamegeek.com/boardgame/233867/welcome)
-
-> As an architect in Welcome To..., you want to build the best new town in the United States of the 1950s by adding resources to a pool, hiring employees, and more.
->
-> Welcome To... plays like a roll-and-write dice game in which you mark results on a score-sheet...but without dice. Instead you flip cards from three piles to make three different action sets with both a house number and a corresponding action from which everyone chooses one. You use the number to fill in a house on your street in numerical order. Then you take the action to increase the point value of estates you build or score points at the end for building parks and pools. Players also have the option of taking actions to alter or duplicate their house numbers. And everyone is racing to be the first to complete public goals. There's lots to do and many paths to becoming the best suburban architect in !
-
-![Welcome To... game image](https://cf.geekdo-images.com/g4XmxyKhNVdhC3QPd1purQ__itemrep/img/QKJwfdV3Qrv9w2TX_ML5T3z5G9E=/fit-in/246x300/filters:strip_icc\(\)/pic3761012.jpg)
-
-| Players | Min. Age | Time |
-| ------: | -------: | ---: |
-| 1 – 100 |       10 |  25m |
 ### [Cascadia](https://boardgamegeek.com/boardgame/295947/cascadia)
 
 > Cascadia is a puzzly tile-laying and token-drafting game featuring the habitats and wildlife of the Pacific Northwest.
@@ -204,39 +160,6 @@
 | Players | Min. Age |   Time |
 | ------: | -------: | -----: |
 |   1 - 4 |       10 | 30-45m |
-### [Heat: Pedal to the Metal](https://boardgamegeek.com/boardgame/366013/heat-pedal-metal)
-
-> Based on simple and intuitive hand management, Heat: Pedal to the Metal puts players in the driver's seat of intense car races, jockeying for position to cross the finish line first, while managing their car's speed if they don't want to overheat. Selecting the right upgrades for their car will help them hug the curves and keep their engine cool enough to maintain top speeds. Ultimately, their driving skills will be the key to victory!
->
-> Drivers can compete in a single race or use the "Championship System" to play a whole season in one game night, customizing their car before each race to claim the top spot of the podium. They have to be careful as the weather, road conditions, and events will change every race to spice up their championship. Players can also enjoy a solo mode with the Legends Module or add automated drivers as additional opponents in multiplayer games.
-
-![Heat: Pedal to the Metal game image](https://cf.geekdo-images.com/-vOrd4bOspibyohYExLqWg__itemrep/img/mSj0nZUY3ofhIXFZJLGzF-6MQTg=/fit-in/246x300/filters:strip_icc\(\)/pic6940449.png)
-
-| Players | Min. Age |   Time |
-| ------: | -------: | -----: |
-|   1 - 6 |       10 | 30-60m |
-### [The Quest for El Dorado](https://boardgamegeek.com/boardgame/217372/quest-el-dorado)
-
-> In The Quest for El Dorado, players take the roles of expedition leaders who have embarked on a search for the legendary land of gold in the dense jungles of South America. Each player assembles and equips their own team, hiring various helpers from the scout to the scientist to the aborigine. All of them have one goal in mind: Reaching the golden border first and winning all of the riches for themselves. Whoever chooses the best tactics will be rewarded!
-
-![The Quest for El Dorado game image](https://cf.geekdo-images.com/GLXfUI72Qph2136CxWIJww__itemrep/img/dD5tKXielG7vTwuJWeyv2PmVsds=/fit-in/246x300/filters:strip_icc\(\)/pic7648372.png)
-
-| Players | Min. Age |   Time |
-| ------: | -------: | -----: |
-|   2 - 4 |       10 | 30-60m |
-### [The Quacks of Quedlinburg](https://boardgamegeek.com/boardgame/244521/quacks-quedlinburg)
-
-> In The Quacks of Quedlinburg, players are charlatans — or quack doctors — each making their own secret brew by adding ingredients one at a time. Take care with what you add, though, for a pinch too much of this or that will spoil the whole mixture!
->
-> Each player has their own bag of ingredient chips. During each round, they simultaneously draw chips from their bags and add them to their pots. The higher the face value of the drawn chip, the further it is placed in the pot's swirling pattern, increasing how much the potion will be worth. Push your luck as far as you can, but if you add too many cherry bombs, your pot will explode!
->
-> At the end of each round, players gain victory points and coins to spend on new ingredients, depending on how well they managed to fill up their pots. But players whose pots have exploded must choose points or coins — not both! The player with the most victory points at the end of nine rounds wins the game.
-
-![The Quacks of Quedlinburg game image](https://cf.geekdo-images.com/pH5LgRL4mNRon-2NsSDb1Q__itemrep/img/qe9ywOTxtPr_n4DoXZgEY-C2qU0=/fit-in/246x300/filters:strip_icc\(\)/pic6137509.png)
-
-| Players | Min. Age | Time |
-| ------: | -------: | ---: |
-|   2 - 4 |       10 |  45m |
 ### [SCOUT](https://boardgamegeek.com/boardgame/291453/scout)
 
 > SCOUT is a ladder-climbing game in which cards have two potential values, players may not rearrange their hand of cards, and players may pass their turn to take a card from the current high set of cards into their hand.
@@ -292,19 +215,6 @@
 | Players | Min. Age |   Time |
 | ------: | -------: | -----: |
 | 1 - 100 |       10 | 30-45m |
-### [Welcome to the Moon](https://boardgamegeek.com/boardgame/339789/welcome-moon)
-
-> You've built housing for humanity in neighborhoods and New Las Vegas. Now you need to save humanity through space colonization...
->
-> Welcome to the Moon uses the same flip-and-write game mechanisms as the earlier title Welcome To..., but now you can play in a campaign across eight adventure sheets. On a turn, you flip cards from three stacks to create three different combinations of a starship number and a corresponding action, then all players choose one of these three combinations. You use the number to fill a space in a zone on your adventure sheet in numerical order, and everyone is racing to be the first to complete common missions.
->
-> The eight adventure sheets feature very different mechanisms from the classic concept, and when you play in campaign mode, you'll make choices that change the next adventure, which means that each campaign will differ from the previous one.
-
-![Welcome to the Moon game image](https://cf.geekdo-images.com/eCdiHCB9OobumwaGl4dbOQ__itemrep/img/S8KJaJ1UfomzoC4XGob6pIkresI=/fit-in/246x300/filters:strip_icc\(\)/pic6204967.png)
-
-| Players | Min. Age |   Time |
-| ------: | -------: | -----: |
-|   1 - 6 |       10 | 25-30m |
 ### [Wingspan Asia](https://boardgamegeek.com/boardgame/366161/wingspan-asia)
 
 > In this third expansion to Wingspan, we welcome new species to our habitats by exploring the vibrant, intriguing, and magnificent birds of Asia. These birds were chosen from the over 2,800 species that live in Asia.
@@ -316,22 +226,6 @@
 | Players | Min. Age |   Time |
 | ------: | -------: | -----: |
 |   1 - 2 |       10 | 40-70m |
-### [The Isle of Cats](https://boardgamegeek.com/boardgame/281259/isle-cats)
-
-> The Isle of Cats is a competitive, medium-weight, card-drafting, polyomino cat-placement board game for 1-4 players (6 with expansions).
->
-> In the game, you are citizens of Squalls End on a rescue mission to The Isle of Cats and must rescue as many cats as possible before the evil Lord Vesh arrives. Each cat is represented by a unique tile and belongs to a family, you must find a way to make them all fit on your boat while keeping families together. You will also need to manage resources as you:
->
-> *   Explore the island (by drafting cards)
-> *   Rescue cats
-> *   Find treasures
-> *   Befriend Oshax
-
-![The Isle of Cats game image](https://cf.geekdo-images.com/AuAheDzhkLufiZFE9JaRNA__itemrep/img/UTvJuevXkKm8HYOJYtUms_7iC2I=/fit-in/246x300/filters:strip_icc\(\)/pic4781085.jpg)
-
-| Players | Min. Age |   Time |
-| ------: | -------: | -----: |
-|   1 - 4 |        8 | 60-90m |
 
 ### Strategy
 
@@ -470,16 +364,6 @@
 
 ### Party
 
-### [On Mars](https://boardgamegeek.com/boardgame/184267/mars)
-
-> Following the success of unmanned rover missions, the United Nations established the Department of Operations and Mars Exploration (D.O.M.E.). The first settlers arrived on Mars in the year 2037 and in the decades after establishment Mars Base Camp, private exploration companies began work on the creation of a self-sustaining colony. As chief astronaut for one of these enterprises, you want to be a pioneer in the development of the biggest, most advanced colony on Mars by achieving both D.O.M.E. mission goals as well as your company’s private agenda.
-> In the beginning, you will be dependent on supplies from Earth and will have to travel often between the Mars Space Station and the planet's surface. As the colony expands over time, you will shift your activities to construct mines, power generators, water extractors, greenhouses, oxygen factories, and shelters. Your goal is to develop a self-sustaining colony independent of any terrestrial organization. This will require understanding the importance of water, air, power, and food — the necessities for survival.
-
-![On Mars game image](https://cf.geekdo-images.com/Nm0Iw8NoiM9V8IsifimGBw__itemrep/img/xTjuZwi_7iS6FpZIISWTk7SAZ5o=/fit-in/246x300/filters:strip_icc\(\)/pic4357658.jpg)
-
-| Players | Min. Age |       Time |
-| ------: | -------: | ---------: |
-|     1–4 |       14 | 90–150 Min |
 ### [Food Chain Magnate](https://boardgamegeek.com/boardgame/175914/food-chain-magnate)
 
 > Food Chain Magnate is a heavy strategy game about building a fast food chain. The focus is on building your company using a card-driven (human) resource management system. Players compete on a variable city map through purchasing, marketing and sales, and on a job market for key staff members. The game can be played by 2-5 serious gamers in 2-4 hours.
@@ -510,16 +394,6 @@
 | Players | Min. Age |      Time |
 | ------: | -------: | --------: |
 |     1–6 |       13 | 45–90 Min |
-### [Caverna: The Cave Farmers](https://boardgamegeek.com/boardgame/102794/caverna-cave-farmers)
-
-> Following along the same lines as its predecessor (Agricola), Caverna: The Cave Farmers is a worker-placement game at heart, with a focus on farming. In the game, you are the bearded leader of a small dwarf family that lives in a little cave in the mountains. You begin the game with a farmer and his spouse, and each member of the farming family represents an action that the player can take each turn. Together, you cultivate the forest in front of your cave and dig deeper into the mountain. You furnish the caves as dwellings for your offspring as well as working spaces for small enterprises.
-> It's up to you how much ore you want to mine. You will need it to forge weapons that allow you to go on expeditions to gain bonus items and actions. While digging through the mountain, you may come across water sources and find ore and ruby mines that help you increase your wealth. Right in front of your cave, you can increase your wealth even further with agriculture: You can cut down the forest to sow fields and fence in pastures to hold your animals. You can also expand your family while running your ever-growing farm. In the end, the player with the most efficiently developed home board wins.
-
-![Caverna: The Cave Farmers game image](https://cf.geekdo-images.com/rz22tqa5PCYvK9oDjIbvxg__itemrep/img/8tBInJIElBaiYVJ-gngzWmrSrsw=/fit-in/246x300/filters:strip_icc\(\)/pic1790789.jpg)
-
-| Players | Min. Age |       Time |
-| ------: | -------: | ---------: |
-|     1–7 |       12 | 30–210 Min |
 ### [Maracaibo](https://boardgamegeek.com/boardgame/276025/maracaibo)
 
 > Maracaibo, a strategy game for 1-4 players by Alexander Pfister, is set in the Caribbean during the 17th century. The players try to increase their influence in three nations in four rounds with a play time of 40 minutes per player.
@@ -600,13 +474,13 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [php-version-switcher (⭐1)](https://github.com/Akollade/php-version-switcher.plugin.zsh) - Changes php versions if a `.php-version` file is found.
+*   [php-version-switcher (⭐2)](https://github.com/Akollade/php-version-switcher.plugin.zsh) - Changes php versions if a `.php-version` file is found.
 
 ## [8. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
 
 ### Libraries / JavaScript
 
-*   [Neuledge (⭐237)](https://github.com/neuledge/engine-js) - Universal schema-based ORM with multi-state representation for entities
+*   [Neuledge (⭐238)](https://github.com/neuledge/engine-js) - Universal schema-based ORM with multi-state representation for entities
 
 ---
 

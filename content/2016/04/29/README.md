@@ -116,17 +116,17 @@ git show <branch_name>:<file_name>
 
 ### Web Technologies and Services
 
-*   [Web Technologies List (⭐170)](https://github.com/ropensci/webservices) - Information about how to use R and the world wide web together.
+*   [Web Technologies List (⭐175)](https://github.com/ropensci/webservices) - Information about how to use R and the world wide web together.
 
 ### R Development
 
-*   [Package Development List (⭐43)](https://github.com/ropensci/PackageDevelopment) - R packages to improve package development.
+*   [Package Development List (⭐42)](https://github.com/ropensci/PackageDevelopment) - R packages to improve package development.
 
 ### Lists / Book/monograph Lists and Reviews
 
-*   [Open Data (⭐194)](https://github.com/ropensci/opendata) - Using R to obtain, parse, manipulate, create, and share open data.
-*   [Package Development (⭐43)](https://github.com/ropensci/PackageDevelopment) - R packages to improve package development.
-*   [Web Technologies (⭐170)](https://github.com/ropensci/webservices) - Information about how to use R and the world wide web together.
+*   [Open Data (⭐199)](https://github.com/ropensci/opendata) - Using R to obtain, parse, manipulate, create, and share open data.
+*   [Package Development (⭐42)](https://github.com/ropensci/PackageDevelopment) - R packages to improve package development.
+*   [Web Technologies (⭐175)](https://github.com/ropensci/webservices) - Information about how to use R and the world wide web together.
 
 ---
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 14, 2020
 
-14 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Driver crates / Other
 
-*   [MCP25LCXX](https://crates.io/crates/microchip-eeprom-25lcxx) - SPI - Driver for Microchip's 25LC series of EEPROMs - ![crates.io](https://img.shields.io/crates/v/microchip-eeprom-25lcxx.svg)
+*   [MCP25LCXX](https://crates.io/crates/microchip-eeprom-25lcxx) - SPI - Driver for Microchip's 25LC series of EEPROMs - [![crates.io](https://img.shields.io/crates/v/microchip-eeprom-25lcxx.svg)](https://crates.io/crates/microchip-eeprom-25lcxx)
 
 ## [2. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
@@ -38,26 +38,20 @@
 
 ### Integrations
 
-*   [heroku-playwright-buildpack (⭐46)](https://github.com/mxschmitt/heroku-playwright-buildpack) - Heroku buildpack for running Playwright on a Heroku Dyno.
+*   [heroku-playwright-buildpack (⭐47)](https://github.com/mxschmitt/heroku-playwright-buildpack) - Heroku buildpack for running Playwright on a Heroku Dyno.
 
 ### Showcases
 
 *   [Heroku Playwright Example (⭐20)](https://github.com/mxschmitt/heroku-playwright-example) - Example using Playwright on Heroku.
 
-## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / Utilities
-
-*   [vue-ics (⭐18)](https://github.com/evildvl/vue-ics) - Vue.js plugin for generating ICalendar (.ics) files.
-
-## [7. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [6. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Logging / Third-party APIs
 
-*   ⭐ [log4cl (⭐82)](https://github.com/sharplispers/log4cl/) - Logging framework modelled after Log4J. [Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0). Advanced integration with Slime.
+*   ⭐ [log4cl (⭐86)](https://github.com/sharplispers/log4cl/) - Logging framework modelled after Log4J. [Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0). Advanced integration with Slime.
     *   [log4cl-json (⭐2)](https://github.com/40ants/log4cl-json) - JSON appender extension. [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
-## [8. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
+## [7. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
 ### Sensor Processing / Image Processing
 
@@ -67,7 +61,7 @@
 
 *   [waymo-open-dataset (⭐2.2k)](https://github.com/waymo-research/waymo-open-dataset) - The Waymo Open Dataset is comprised of high-resolution sensor data collected by Waymo self-driving cars in a wide variety of conditions.
 
-## [9. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
+## [8. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
 ### Class Based
 
@@ -77,19 +71,19 @@
 
 *   [reactify-wc (⭐170)](https://github.com/BBKolton/reactify-wc) - Use web components with React properties and functions.
 
-## [10. Awesome Robotics](/content/kiloreux/awesome-robotics/README.md)
+## [9. Awesome Robotics](/content/kiloreux/awesome-robotics/README.md)
 
 ### Competitions
 
 *   [First Lego League](https://www.firstlegoleague.org/)
 
-## [11. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [10. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Misc
 
-*   [version\_tools (⭐8)](https://github.com/anicholson/crystal-version-tools) - Version-dependent behaviour, specified at compile-time
+*   [version\_tools (⭐9)](https://github.com/anicholson/crystal-version-tools) - Version-dependent behaviour, specified at compile-time
 
-## [12. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/README.md)
+## [11. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/README.md)
 
 ### Libraries / Molecular Descriptors
 
@@ -99,7 +93,7 @@
 
 *   [Rosetta](https://www.rosettacommons.org/docs/latest/Home) - A comprehensive software suite for modeling macromolecular structures. Used larely for protein-protein docking.
 
-## [13. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [12. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### SDKs and Samples / Haskell SDK
 
@@ -117,7 +111,7 @@
 
 *   [Analyzing Big Data](https://docs.aws.amazon.com/emr/latest/ManagementGuide/emr-gs.html)
 
-## [14. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
+## [13. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
 ### DevSecOps / Service meshes
 

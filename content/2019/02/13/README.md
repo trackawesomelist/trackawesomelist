@@ -10,7 +10,7 @@
 
 ### Templates / Preferences
 
-*   [Feather (⭐657)](https://github.com/jhomlala/feather) <!--stargazers:jhomlala/feather--> - Beautiful weather application. Application includes RxDart, Dio, BLoC, i18n, unit and widget tests. by [Jakub Homlala](https://github.com/jhomlala)
+*   [Feather (⭐670)](https://github.com/jhomlala/feather) <!--stargazers:jhomlala/feather--> - Beautiful weather application. Application includes RxDart, Dio, BLoC, i18n, unit and widget tests. by [Jakub Homlala](https://github.com/jhomlala)
 
 ## [2. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
@@ -30,32 +30,13 @@
 
 *   [Full Stack Web Development with Vue.js and Node.js](https://www.packtpub.com/web-development/full-stack-web-development-vuejs-and-nodejs-video) by Haider Rehman, Packt. (January 2019)
 
-### Resources / Examples
-
-*   [**Vue(2.0) + Node.js: A blog**](https://github.com/FatDong1/vue-blog) by @FatDong1
-*   [Vue.js and Ionic v4 examples (⭐47)](https://github.com/ModusCreateOrg/ionic-vue-examples/) - A set of examples of how to use Ionic v4 with Vue.js
-
-### Projects Using Vue.js / Open Source
-
-*   [Beep (⭐156)](https://github.com/ModusCreateOrg/beep) - Account Security Scanner built with Vue.js and Ionic 4
-*   [Vue CRUD (⭐831)](https://github.com/szczepanmasny/vue-crud) - Vue.js based REST-ful CRUD system. Vue CRUD allows you to easily create fast applications such as CMS or CRM.
-
-### Components & Libraries / UI Components
-
-*   [vue-date-picker (⭐101)](https://github.com/8788/vue-date-picker) - Lightweight datepicker component for Vue 2.x.
-*   [vue-ctk-date-time-picker (⭐878)](https://github.com/chronotruck/vue-ctk-date-time-picker) - A beautiful VueJS component to pick date & time (with range mode) :new:
-
-### Components & Libraries / UI Utilities
-
-*   [vue-scroll-progressbar (⭐85)](https://github.com/guillaumebriday/vue-scroll-progressbar) - A customizable component that indicates the scroll relative position in a progressbar.
-
 ## [5. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
-### Other Tools / Telegram
+### Other Tools / Steam
 
-*   [Belati (⭐524)](https://github.com/aancw/Belati) - Belati - The Traditional Swiss Army Knife For OSINT. Belati is tool for Collecting Public Data & Public Document from Website and other service for OSINT purpose.
+*   [Belati (⭐540)](https://github.com/aancw/Belati) - The Traditional Swiss Army Knife For OSINT. Belati is tool for Collecting Public Data & Public Document from Website and other service for OSINT purpose.
 *   [Outwit](http://www.outwit.com) - Find, grab and organize all kinds of data and media from online sources.
-*   [Pown Recon (⭐420)](https://github.com/pownjs/pown-recon) - Target reconnaissance framework powered by graph theory.
+*   [Pown Recon (⭐422)](https://github.com/pownjs/pown-recon) - Target reconnaissance framework powered by graph theory.
 *   [SecApps Recon](https://secapps.com/market/recon) - Information gathering and target reconnaissance tool and UI.
 
 ## [6. Awesome Dart](/content/yissachar/awesome-dart/README.md)

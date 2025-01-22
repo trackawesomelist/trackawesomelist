@@ -65,7 +65,7 @@
 
 ## [5. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 
-### Slideshows, talks and videos
+### Slideshows, talks and videos  (a-z↓)
 
 *   [Visual Regression Testing - from a tool to a process](https://speakerdeck.com/nikhilverma/visual-regression-testing-from-a-tool-to-a-process) by Nikhil Verma - How the Mobile Web team in Badoo converted and integrated PhantomCSS into their workflow and connected it to their CI process.
 
@@ -120,7 +120,7 @@
 
 ### Multi Database
 
-*   [Shallows (⭐621)](https://github.com/dreymonde/Shallows) - Your lightweight persistence toolbox.
+*   [Shallows (⭐623)](https://github.com/dreymonde/Shallows) - Your lightweight persistence toolbox.
 
 ### Other Data
 
@@ -128,15 +128,15 @@
 
 ### Images / Barcode
 
-*   [ImageScout (⭐976)](https://github.com/kaishin/ImageScout) - Implementation of [fastimage](https://pypi.org/project/fastimage/0.2.1/) - supports PNG, GIF, and JPEG.
+*   [ImageScout (⭐974)](https://github.com/kaishin/ImageScout) - Implementation of [fastimage](https://pypi.org/project/fastimage/0.2.1/) - supports PNG, GIF, and JPEG.
 
 ### Localization / Barcode
 
-*   [Localize (⭐288)](https://github.com/andresilvagomez/Localize) - Localize apps using e.g. regular expressions in Localizable.strings.
+*   [Localize (⭐291)](https://github.com/andresilvagomez/Localize) - Localize apps using e.g. regular expressions in Localizable.strings.
 
 ### Text / Barcode
 
-*   [PredicateFlow (⭐103)](https://github.com/andreadelfante/PredicateFlow) - PredicateFlow is a builder that allows you to write amazing, strong-typed and easy-to-read NSPredicate.
+*   [PredicateFlow (⭐102)](https://github.com/andreadelfante/PredicateFlow) - PredicateFlow is a builder that allows you to write amazing, strong-typed and easy-to-read NSPredicate.
 
 ### UI / Barcode
 
@@ -165,7 +165,7 @@
 ### Related lists / Miscellaneous
 
 *   [awesome-npm (⭐4.5k)](https://github.com/sindresorhus/awesome-npm) - Resources and tips for using npm.
-*   [awesome-cross-platform-nodejs (⭐1.1k)](https://github.com/bcoe/awesome-cross-platform-nodejs) - Resources for writing and testing cross-platform code.
+*   [awesome-cross-platform-nodejs (⭐1.2k)](https://github.com/bcoe/awesome-cross-platform-nodejs) - Resources for writing and testing cross-platform code.
 
 ## [11. Amas](/content/sindresorhus/amas/README.md)
 

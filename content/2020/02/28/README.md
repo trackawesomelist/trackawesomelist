@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 28, 2020
 
-18 awesome lists updated today.
+17 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -17,7 +17,7 @@
 
 ### Tools
 
-*   [ipfs-action (⭐172)](https://github.com/aquiladev/ipfs-action) - GitHub Action for delivery of static websites.
+*   [ipfs-action (⭐178)](https://github.com/aquiladev/ipfs-action) - GitHub Action for delivery of static websites.
 
 ## [3. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 
@@ -30,13 +30,13 @@
 
 ### ORM / Text-Based User Interfaces
 
-*   [Permazen (⭐399)](https://github.com/permazen/permazen) - Language-natural persistence layer.
+*   [Permazen (⭐403)](https://github.com/permazen/permazen) - Language-natural persistence layer.
 
 ## [5. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/README.md)
 
 ### External Services
 
-*   [douban-box (⭐15)](https://github.com/CodeDaraW/douban-box) - Update a pinned gist to contain the latest user status about books/movies/music from Douban.
+*   [douban-box (⭐14)](https://github.com/CodeDaraW/douban-box) - Update a pinned gist to contain the latest user status about books/movies/music from Douban.
 
 ## [6. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
 
@@ -50,28 +50,28 @@
 
 *   Testing in Cloud
     *   Kubernetes
-        *   [jmeter-kubernetes (⭐353)](https://github.com/kubernauts/jmeter-kubernetes) - JMeter cluster support for Kubernetes and OpenShift.
-        *   [jmeter-k8s-starterkit (⭐73)](https://github.com/Rbillon59/jmeter-k8s-starterkit) - JMeter k8s starter kit, with live test reporting, JMeter monitoring, k8s monitoring and mock as a service.
-        *   [kangal (⭐156)](https://github.com/hellofresh/kangal) - Kubernetes and Go Automatic Loader solution to run performance tests in Kubernetes cluster using multiple load generators.
-        *   [aks\_testing\_fwk (⭐36)](https://github.com/petegrimsdale/aks_testing_fwk) - AKS-based scalable JMeter test framework with Grafana reporting.
+        *   [jmeter-kubernetes (⭐365)](https://github.com/kubernauts/jmeter-kubernetes) - JMeter cluster support for Kubernetes and OpenShift.
+        *   [jmeter-k8s-starterkit (⭐88)](https://github.com/Rbillon59/jmeter-k8s-starterkit) - JMeter k8s starter kit, with live test reporting, JMeter monitoring, k8s monitoring and mock as a service.
+        *   [kangal (⭐164)](https://github.com/hellofresh/kangal) - Kubernetes and Go Automatic Loader solution to run performance tests in Kubernetes cluster using multiple load generators.
+        *   [aks\_testing\_fwk (⭐37)](https://github.com/petegrimsdale/aks_testing_fwk) - AKS-based scalable JMeter test framework with Grafana reporting.
     *   Amazon Web Services
-        *   [jmeter-ec2 (⭐464)](https://github.com/oliverlloyd/jmeter-ec2/) - Automates running Apache JMeter on Amazon EC2.
+        *   [jmeter-ec2 (⭐463)](https://github.com/oliverlloyd/jmeter-ec2/) - Automates running Apache JMeter on Amazon EC2.
         *   [gee (⭐16)](https://github.com/kowalcj0/gee) - A modified version of JMeter-EC2 project.
         *   [os-jmeter-aws (⭐1)](https://github.com/Aptimyze/os-jmeter-aws) - Run JMeter on multiple Amazon EC2 instances, view results in ELK.
         *   [Load Testing with JMeter and Amazon EC2](https://medium.com/@alttaf/load-testing-with-jmeter-and-amazon-ec2-e143a7350596)
         *   [Performance Testing in the Cloud with JMeter & AWS](http://web.archive.org/web/20190526033436/http://www.artofsoftwaredevelopment.com/performance/performance-testing-in-the-cloud-with-jmeter-aws)
         *   [JMeter distributed testing with Amazon EC2](https://vedovini.net/2009/08/17/jmeter-distributed-testing-with-amazon-ec2/)
-        *   [jmeter-ecs (⭐43)](https://github.com/smithmicro/jmeter-ecs) - JMeter docker image for distributed testing on EC2 Container Service (ECS).
+        *   [jmeter-ecs (⭐44)](https://github.com/smithmicro/jmeter-ecs) - JMeter docker image for distributed testing on EC2 Container Service (ECS).
     *   DigitalOcean
         *   [Lightweight JMeter Cloud](https://docs.google.com/presentation/d/1Yi5C27C3Q0AnT-uw9SRnMeEqXSKLQ8h9O9Jqo1gQiyI/) - Building your own JMeter Cloud using DigitalOcean, JMeter and Docker.
     *   Microsoft Azure
-        *   [Load Testing Pipeline with JMeter, ACI and Terraform (⭐119)](https://github.com/Azure-Samples/jmeter-aci-terraform) - Scalable cloud load/stress testing pipeline solution with Apache JMeter and Terraform to dynamically provision and destroy the required infrastructure on Azure.
+        *   [Load Testing Pipeline with JMeter, ACI and Terraform (⭐120)](https://github.com/Azure-Samples/jmeter-aci-terraform) - Scalable cloud load/stress testing pipeline solution with Apache JMeter and Terraform to dynamically provision and destroy the required infrastructure on Azure.
 
 ## [8. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
 
 ### Examples
 
-*   [sulu/sulu (⭐1.1k)](https://github.com/sulu/sulu#readme) - Project logo, useful badges, clear instructions on where to find more information and report bugs, GIF screenshots, nice use of emoticons.
+*   [sulu/sulu (⭐1.2k)](https://github.com/sulu/sulu#readme) - Project logo, useful badges, clear instructions on where to find more information and report bugs, GIF screenshots, nice use of emoticons.
 
 ## [9. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
@@ -89,11 +89,11 @@
 
 ### Development / Database
 
-*   [iredis (⭐2.5k)](https://github.com/laixintao/iredis) - Redis client with autocompletion and syntax highlighting.
+*   [iredis (⭐2.6k)](https://github.com/laixintao/iredis) - Redis client with autocompletion and syntax highlighting.
 
 ### Just for Fun / Image Conversion
 
-*   [dankcli (⭐52)](https://github.com/sggts04/dankcli) - Add text to meme image templates.
+*   [dankcli (⭐55)](https://github.com/sggts04/dankcli) - Add text to meme image templates.
 
 ## [12. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
@@ -115,19 +115,19 @@
 
 ### Blazor / Themes
 
-*   [ant-design-blazor (⭐15)](https://github.com/ElderJames/ant-design-blazor) - Ant Design of Blazor(both Server-side and WebAssembly).
+*   [ant-design-blazor (⭐31)](https://github.com/ElderJames/ant-design-blazor) - Ant Design of Blazor(both Server-side and WebAssembly).
 
 ## [15. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Web / Playground
 
-*   :octocat: [Tridactyl (⭐5.1k)](https://github.com/tridactyl/tridactyl) - A Firefox browser addon that replaces browser's control mechanism with one modelled on the one true editor, Vim.
+*   :octocat: [Tridactyl (⭐5.4k)](https://github.com/tridactyl/tridactyl) - A Firefox browser addon that replaces browser's control mechanism with one modelled on the one true editor, Vim.
 
 ## [16. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
 
 ### Recruitment / Job Boards
 
-*   [Hiring Without Whiteboards (⭐43k)](https://github.com/poteto/hiring-without-whiteboards) - List of companies without the kind of CS trivia questions that are associated with bad interview practices.
+*   [Hiring Without Whiteboards (⭐46k)](https://github.com/poteto/hiring-without-whiteboards) - List of companies without the kind of CS trivia questions that are associated with bad interview practices.
 
 ### Recruitment / Interview
 
@@ -136,14 +136,14 @@
 
 ### Recruitment / Coding Challenge
 
-*   [FizzBuzz Enterprise Edition (⭐21k)](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - A satire of over-engineering for the sake of enterprise-grade software.
-*   [Awesome Interviews (⭐69k)](https://github.com/MaximAbramchuck/awesome-interview-questions) - A huge database of questions sorted by topic to get inspiration from.
+*   [FizzBuzz Enterprise Edition (⭐22k)](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - A satire of over-engineering for the sake of enterprise-grade software.
+*   [Awesome Interviews (⭐71k)](https://github.com/MaximAbramchuck/awesome-interview-questions) - A huge database of questions sorted by topic to get inspiration from.
 
 ### Meetings / 1 on 1
 
 *   [Questions for our first 1:1](https://larahogan.me/blog/first-one-on-one-questions/) - A personal list of high-level questions from a manager.
 
-### Objectives and Key Results (OKR) / Tickets
+### Objectives and Key Results (OKR) / Delivery
 
 *   [Awesome OKR (⭐1.6k)](https://github.com/domenicosolazzo/awesome-okr) - There is no shortage of content on how to measure and communicate objectives.
 
@@ -152,12 +152,6 @@
 ### Articles
 
 *   [How to make Performance Budget](http://v3.danielmall.com/articles/how-to-make-a-performance-budget/) - Instructions for developing the performance budget.
-
-## [18. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
-
-### REST and API
-
-*   [Alt3/Swagger plugin (⭐64)](https://github.com/alt3/cakephp-swagger) - Swagger 2.0 documentation for your CakePHP APIs using swagger-php and swagger-ui.
 
 ---
 

@@ -40,7 +40,7 @@
 
 ### Math / Other
 
-*   [MyPhysicsLab](https://www.myphysicslab.com/) - Interactive real-time physics simulations, with formulars and code.
+*   [MyPhysicsLab](https://www.myphysicslab.com/) - Interactive real-time physics simulations, with formulas and code.
 
 ## [6. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/README.md)
 

@@ -28,7 +28,7 @@
 
 ### Tab / Barcode
 
-*   [CircleBar (⭐864)](https://github.com/softhausHQ/CircleBar) - A fun, easy-to-use tab bar navigation controller for iOS.
+*   [CircleBar (⭐869)](https://github.com/softhausHQ/CircleBar) - A fun, easy-to-use tab bar navigation controller for iOS.
 
 ## [4. Awesome Roslyn](/content/ironcev/awesome-roslyn/README.md)
 
@@ -56,9 +56,8 @@
 *   [ITU Broadband Atlas](https://www.itu.int/ITU-D/treg/atlas/broadbandatlas.asp) - (2010) Interactive infographic tool showcasing the status of broadband deployment worldwide and the regulatory landscape for broadband.
 *   [InternetLiveStats](http://www.internetlivestats.com/internet-users-by-country/) - (2016) Internet Users by Country, interpolated from ITU, United Nations Population Division, Internet & Mobile Association of India (IAMAI), and World Bank data.
 *   [Internet World Stats](https://www.internetworldstats.com/) - Internet users compiled from Nielsen and ITU statistics.
-*   [ITU ICT Development Index](http://www.itu.int/net4/ITU-D/idi/) - (2017) Composite index based on three pillars, ICT Access, ICT Use, and ICT Skills.
 *   [World Economic Forum - Networked Readiness Index](http://reports.weforum.org/global-information-technology-report-2016/networked-readiness-index/) - (2016).
-*   [UN E-Government Knowledge Database](https://publicadministration.un.org/egovkb/en-us/Data-Center) - (2016).
+*   [UN E-Government Knowledge Database](https://publicadministration.un.org/egovkb/en-us/Data-Center) - (2024).
 
 ### Connectivity Maps
 
@@ -84,11 +83,9 @@
 ### Other sources
 
 *   [GSMA - Enabling Rural Coverage](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2018/02/Enabling_Rural_Coverage_English_February_2018.pdf) - (Feb 2018) Regulatory and policy recommendations to foster mobile broadband coverage in developing countries.
-*   [Facebook Audience Insights](https://www.facebook.com/ads/audience-insights/) - Demographic information on Facebook usage.
 *   [SimilarWeb - Mobile App Ranking](https://www.similarweb.com/apps/top/google/app-index/us/all/top-free) - Ranking of popular mobile apps across countries.
 *   [Global Stats by StatCounter](http://gs.statcounter.com/) - Browser market share over time by browser, region, OS.
 *   [Global Mobile Suppliers Association](https://gsacom.com/) - Various reports on LTE and 5G adoption.
-*   [CIESIN Earth Institute - High Resolution Settlement Layer GIS data](https://ciesin.columbia.edu/data/hrsl/) - HRSL datasets offering unprecedented accuracy in population mapping.
 *   [Kleiner Perkins Mary Meeker Internet Trends Report](https://www.kleinerperkins.com/perspectives/internet-trends-report-2018/) - (May 2018) Trends that affect and drive internet uptake globally.
 *   [WEF Internet for All](https://www.weforum.org/reports/internet-for-all-a-framework-for-accelerating-internet-access-and-adoption/) - (2016) A Framework for Accelerating Internet Access and Adoption.
 *   [LTE, WiMAX, HSPA+, 3G, GSM information by country](https://www.worldtimezone.com/4g.html) - Reasonably up-to-date list of mobile networks around the world and their associated frequencies.
@@ -101,7 +98,7 @@
 
 ### Deployment / Isomorphic web frameworks
 
-*   [cl-aws-runtime-test (⭐37)](https://github.com/y2q-actionman/cl-aws-custom-runtime-test) - An example of using Common Lisp (SBCL) as a custom runtime on AWS lambda. WTFPL.
+*   [cl-aws-runtime-test (⭐39)](https://github.com/y2q-actionman/cl-aws-custom-runtime-test) - An example of using Common Lisp (SBCL) as a custom runtime on AWS lambda. WTFPL.
 
 ## [8. Awesome Cmake](/content/onqtam/awesome-cmake/README.md)
 
@@ -119,11 +116,6 @@
 
 *   [Using GitLab CI/CD to auto-deploy your Vue.js application to AWS S3](https://medium.com/@croo/using-gitlab-ci-cd-to-auto-deploy-your-vue-js-application-to-aws-s3-9affe1eb3457)
 
-### Projects Using Vue.js / Open Source
-
-*   [Vue HQ Admin Dashboard](https://vue-hq.netlify.com/) – A modern admin dashboard powered by Vue, Sass, Firestore, and Netlify.
-*   [MToDo (⭐9)](https://github.com/satriaajiputra/mtodo) - Mini To Do Lists with simple auth built with Vue.js and JSON Server as data mock. Great as reference for anyone that finding reference about real world Vue.js
-
 ## [10. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/README.md)
 
 ### ChromeOS
@@ -138,21 +130,17 @@
 
 ## [12. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
-### Entertainment / Social Media
-
-*   [facebook-cli (⭐394)](https://github.com/specious/facebook-cli) - Facebook command line interface.
-
 ### Utilities / macOS
 
-*   [active-win-cli (⭐58)](https://github.com/sindresorhus/active-win-cli) - Get the title/id/etc of the active window.
+*   [active-win-cli (⭐65)](https://github.com/sindresorhus/active-win-cli) - Get the title/id/etc of the active window.
 
 ### Files and Directories / File Managers
 
-*   [nnn (⭐18k)](https://github.com/jarun/nnn) - File browser and disk usage analyzer with excellent desktop integration.
+*   [nnn (⭐19k)](https://github.com/jarun/nnn) - File browser and disk usage analyzer with excellent desktop integration.
 
 ### Files and Directories / Directory Navigation
 
-*   [goto (⭐862)](https://github.com/iridakos/goto) - Directory aliases for the shell with autocomplete.
+*   [goto (⭐878)](https://github.com/iridakos/goto) - Directory aliases for the shell with autocomplete.
 
 ### Images / Image Conversion
 

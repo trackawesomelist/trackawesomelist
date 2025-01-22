@@ -20,20 +20,20 @@
 
 ### Firmware projects / WIP
 
-*   [μLA (⭐718)](https://github.com/dotcypress/ula): Micro Logic Analyzer for RP2040
+*   [μLA (⭐800)](https://github.com/dotcypress/ula): Micro Logic Analyzer for RP2040
 
 ## [3. Awesome Directus](/content/directus-community/awesome-directus/README.md)
 
 ### Extensions / Community
 
-*   [Generate Types (⭐165)](https://github.com/maltejur/directus-extension-generate-types) - Adds a module for generating typescript types for a Directus JS-SDK connected to that Directus database. Also can generate Python or OpenAPI types.
-*   [Computed Interface (⭐187)](https://github.com/rezo-labs/directus-extension-computed-interface) - Perform computed value based on other fields.
+*   [Generate Types (⭐211)](https://github.com/maltejur/directus-extension-generate-types) - Adds a module for generating typescript types for a Directus JS-SDK connected to that Directus database. Also can generate Python or OpenAPI types.
+*   [Computed Interface (⭐208)](https://github.com/rezo-labs/directus-extension-computed-interface) - Perform computed value based on other fields.
 
 ## [4. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ### Tools / Community providers
 
-*   [terraform-repl (⭐114)](https://github.com/paololazzari/terraform-repl) - A terraform console wrapper for a better interactive console experience.
+*   [terraform-repl (⭐124)](https://github.com/paololazzari/terraform-repl) - A terraform console wrapper for a better interactive console experience.
 
 ## [5. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
 
@@ -107,7 +107,7 @@
 
 ### Planning Data Specifications / Transportation
 
-*   [OpenSidewalks (⭐39)](https://github.com/OpenSidewalks/OpenSidewalks-Schema) - A data specification for routable pedestrian networks and describing and sharing pedestrian network and pedestrian network-adjacent data.
+*   [OpenSidewalks (⭐50)](https://github.com/OpenSidewalks/OpenSidewalks-Schema) - A data specification for routable pedestrian networks and describing and sharing pedestrian network and pedestrian network-adjacent data.
 
 ## [7. Awesome React](/content/enaqx/awesome-react/README.md)
 
@@ -123,18 +123,18 @@
 
 ### React Development Tools
 
-*   [vite (⭐64k)](https://github.com/vitejs/vite) - Next Generation Frontend Tooling
+*   [vite (⭐69k)](https://github.com/vitejs/vite) - Next Generation Frontend Tooling
 
 ### React Awesome Components
 
-*   [keen-slider (⭐4.5k)](https://github.com/rcbyr/keen-slider) - The Touch slider carousel
-*   [cookie-consent-banner (⭐110)](https://github.com/porscheofficial/cookie-consent-banner) – The lightweight and flexible Cookie Consent Banner
-*   [heart-switch (⭐436)](https://github.com/anatoliygatt/heart-switch) - A heart-shaped toggle switch component for React
+*   [keen-slider (⭐4.7k)](https://github.com/rcbyr/keen-slider) - The Touch slider carousel
+*   [cookie-consent-banner (⭐150)](https://github.com/porscheofficial/cookie-consent-banner) – The lightweight and flexible Cookie Consent Banner
+*   [heart-switch (⭐443)](https://github.com/anatoliygatt/heart-switch) - A heart-shaped toggle switch component for React
 
 ### React Graphics and Animations
 
-*   [auto-animate (⭐12k)](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions
-*   [react-tsparticles (⭐6.9k)](https://github.com/matteobruni/tsparticles) - Easily create highly customizable particles effects
+*   [auto-animate (⭐13k)](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions
+*   [react-tsparticles (⭐7.8k)](https://github.com/matteobruni/tsparticles) - Easily create highly customizable particles effects
 
 ## [8. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
@@ -161,11 +161,11 @@
 
 ### Machine Learning Libraries / Vector search
 
-*   [pinecone (⭐50)](https://github.com/ScotterC/pinecone) —
+*   [pinecone (⭐62)](https://github.com/ScotterC/pinecone) —
     Ruby client for Pinecone Vector DB.
-*   [qdrant-ruby (⭐26)](https://github.com/andreibondarev/qdrant-ruby) —
+*   [qdrant-ruby (⭐40)](https://github.com/andreibondarev/qdrant-ruby) —
     Ruby wrapper for the Qdrant vector search database API.
-*   [weaviate-ruby (⭐36)](https://github.com/andreibondarev/weaviate-ruby) —
+*   [weaviate-ruby (⭐49)](https://github.com/andreibondarev/weaviate-ruby) —
     Ruby wrapper for the Weaviate vector search database API.
 
 ## [11. Awesome Datascience](/content/academic/awesome-datascience/README.md)

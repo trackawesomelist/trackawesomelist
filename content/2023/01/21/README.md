@@ -78,7 +78,7 @@
 
 ## [5. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md)
 
-### Related Events / 2005
+### Related Events / 2023
 
 *   [Workshop on Algorithmic Audits of Algorithms (WAAA)](https://algorithmic-audits.github.io)
 
@@ -92,7 +92,7 @@
 
 ### Tools & Software / Acquisition
 
-*   [DiskerNet (⭐3.6k)](https://github.com/dosyago/DiskerNet) - A non-WARC-based tool which hooks into the Chrome browser and archives everything you browse making it available for offline replay. *(In Development)*
+*   [DiskerNet (⭐3.8k)](https://github.com/dosyago/DiskerNet) - A non-WARC-based tool which hooks into the Chrome browser and archives everything you browse making it available for offline replay. *(In Development)*
 
 ## [8. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
 
@@ -117,26 +117,18 @@
 
 ### Exploitation Tools / Unikernel-like
 
-*   [MemProcFS (⭐2.8k)](https://github.com/ufrisk/MemProcFS) - MemProcFS is an easy and convenient way of viewing physical memory as files in a virtual file system.
-    *   [MemProcFS-Plugins (⭐48)](https://github.com/ufrisk/MemProcFS-plugins) - This repository contains various non-core plugins for MemProcFS - The Memory Process File System.
+*   [MemProcFS (⭐3.1k)](https://github.com/ufrisk/MemProcFS) - MemProcFS is an easy and convenient way of viewing physical memory as files in a virtual file system.
+    *   [MemProcFS-Plugins (⭐55)](https://github.com/ufrisk/MemProcFS-plugins) - This repository contains various non-core plugins for MemProcFS - The Memory Process File System.
 
-### Qubes OS Legends / Web articles
+### Qubes OS Legends / Extra Info
 
 *   [Core Team](https://www.qubes-os.org/team/#core-team) - Qubes OS core team.
-
-### Streamers / Web articles
-
-*   [Infosecstreams](https://infosecstreams.com/) - An actively maintained activity-based-autosorted list of InfoSec Streamers
 
 ## [10. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Automation
 
-*   [Activepieces](https://www.activepieces.com) - No-code business automation tool like Zapier or Tray. For example, you can send a Slack notification for each new Trello card. ([Source Code (⭐9.1k)](https://github.com/activepieces/activepieces)) `MIT` `Docker`
-
-### Software / Recipe Management
-
-*   [Bar Assistant (⭐485)](https://github.com/karlomikus/bar-assistant) - Bar assistant is a self hosted application for managing your home bar. It allows you to add your ingredients, search for cocktails and create custom cocktail recipes. ([Demo](https://bar.karlomikus.com/)) `MIT` `PHP/Docker`
+*   [Activepieces](https://www.activepieces.com) - No-code business automation tool like Zapier or Tray. For example, you can send a Slack notification for each new Trello card. ([Source Code (⭐11k)](https://github.com/activepieces/activepieces)) `MIT` `Docker`
 
 ## [11. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/README.md)
 
@@ -146,17 +138,13 @@
 
 ## [12. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
 
-### Tutorials
+### Miscellaneous
 
-*   [Typescript + Svelte Cheatsheet (⭐723)](https://github.com/ivanhofer/sveltekit-typescript-showcase) - An overview of all TypeScript related topics for Svelte and SvelteKit - @ivanhofer (Github).
+*   [svelte-splitpanes (⭐398)](https://github.com/orefalo/svelte-splitpanes) - Full featured resizeable views panels.
 
-### Miscellaneous / Checkbox
+### Forms
 
-*   [svelte-splitpanes (⭐350)](https://github.com/orefalo/svelte-splitpanes) - Full featured resizeable views panels
-
-### Form / Checkbox
-
-*   [svelte-form-builder (⭐64)](https://github.com/pragmatic-engineering/svelte-form-builder-community) - A No-code Drag n Drop Form Builder built for Svelte
+*   [svelte-form-builder (⭐70)](https://github.com/pragmatic-engineering/svelte-form-builder-community) - A No-code Drag n Drop Form Builder built for Svelte
 
 ## [13. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 

@@ -22,7 +22,7 @@
 
 ### Plugins
 
-*   [tmux-fuzzback (⭐128)](https://github.com/roosta/tmux-fuzzback) Search your scrollback buffer using fzf.
+*   [tmux-fuzzback (⭐143)](https://github.com/roosta/tmux-fuzzback) Search your scrollback buffer using fzf.
 
 ## [4. Awesome Stacks Chain](/content/friedger/awesome-stacks-chain/README.md)
 
@@ -81,7 +81,7 @@
 
 ### Libraries / Cryptography
 
-*   [w3f/schnorrkel (⭐308)](https://github.com/w3f/schnorrkel) - Schnorr VRFs and signatures on the Ristretto group
+*   [w3f/schnorrkel (⭐319)](https://github.com/w3f/schnorrkel) - Schnorr VRFs and signatures on the Ristretto group
 
 ## [10. Awesome Prisma](/content/catalinmiron/awesome-prisma/README.md)
 
@@ -99,11 +99,11 @@
 
 ### Media
 
-*   [VLC (⭐143)](https://github.com/mfkl/awesome-vlc#readme) - Cross-platform media player software and streaming server.
+*   [VLC (⭐168)](https://github.com/mfkl/awesome-vlc#readme) - Cross-platform media player software and streaming server.
 
 ### Work
 
-*   [Internships (⭐393)](https://github.com/lodthe/awesome-internships#readme) - CV writing guides and companies that hire interns.
+*   [Internships (⭐421)](https://github.com/lodthe/awesome-internships#readme) - CV writing guides and companies that hire interns.
 
 ---
 

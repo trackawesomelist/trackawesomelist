@@ -56,7 +56,7 @@
 
 ### DSLs
 
-*   [document-builder (⭐95)](https://github.com/craigburke/document-builder) - A document builder for Groovy for PDF or Word documents.
+*   [document-builder (⭐94)](https://github.com/craigburke/document-builder) - A document builder for Groovy for PDF or Word documents.
 
 ## [6. Awesome Atom](/content/mehcode/awesome-atom/week/README.md)
 
@@ -110,11 +110,11 @@
 
 ### CLI Builder
 
-*   [Rake (⭐2.3k)](https://github.com/ruby/rake) - A make-like build utility for Ruby.
+*   [Rake (⭐2.4k)](https://github.com/ruby/rake) - A make-like build utility for Ruby.
 
 ### Database Tools
 
-*   [SchemaPlus (⭐683)](https://github.com/SchemaPlus/schema_plus) - SchemaPlus provides a collection of enhancements and extensions to ActiveRecord
+*   [SchemaPlus (⭐679)](https://github.com/SchemaPlus/schema_plus) - SchemaPlus provides a collection of enhancements and extensions to ActiveRecord
 
 ### Process Management and Monitoring
 
@@ -151,17 +151,17 @@
 ### CMS
 
 *   [Orchard  (⭐2.4k)](https://github.com/OrchardCMS/Orchard) - Free, open source, community-focused project aimed at delivering applications and reusable components on the ASP.NET platform
-*   [Umbraco (⭐4.4k)](https://github.com/umbraco/Umbraco-CMS) - Umbraco is a free open source Content Management System built on the ASP.NET platform
+*   [Umbraco (⭐4.7k)](https://github.com/umbraco/Umbraco-CMS) - Umbraco is a free open source Content Management System built on the ASP.NET platform
 
 ### Testing
 
-*   [BDDfy (⭐415)](https://github.com/TestStack/TestStack.BDDfy) - BDDfy is the simplest BDD framework EVER!
+*   [BDDfy (⭐422)](https://github.com/TestStack/TestStack.BDDfy) - BDDfy is the simplest BDD framework EVER!
 
 ## [17. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Event
 
-*   [Amp (⭐4.2k)](https://github.com/amphp/amp) - An event driven non-blocking I/O library.
+*   [Amp (⭐4.3k)](https://github.com/amphp/amp) - An event driven non-blocking I/O library.
 
 ## [18. Amas](/content/sindresorhus/amas/week/README.md)
 
@@ -173,7 +173,7 @@
 
 ### Javascript / Bare metal / kernel development
 
-*   [higgs (⭐868)](https://github.com/higgsjs/Higgs) -  Higgs JavaScript Virtual Machine, implemented in D.
+*   [higgs (⭐875)](https://github.com/higgsjs/Higgs) -  Higgs JavaScript Virtual Machine, implemented in D.
 
 ## [20. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
@@ -255,7 +255,7 @@
 
 ### Official Resources
 
-*   [GitHub Repo (⭐95k)](https://github.com/angular/angular)
+*   [GitHub Repo (⭐97k)](https://github.com/angular/angular)
 
 ## [29. Awesome Dropwizard](/content/stve/awesome-dropwizard/week/README.md)
 
@@ -288,7 +288,7 @@
 
 ### Geolocation
 
-*   [geocalc (⭐146)](https://github.com/yltsrc/geocalc) - Calculate distance, bearing and more between latitude/longitude points.
+*   [geocalc (⭐150)](https://github.com/yltsrc/geocalc) - Calculate distance, bearing and more between latitude/longitude points.
 
 ### Third Party APIs
 
@@ -316,8 +316,8 @@
 
 ### Logging
 
-*   [futile.logger (⭐150)](https://github.com/zatonovo/futile.logger) - A logging package in R similar to log4j
-*   [log4r (⭐90)](https://github.com/johnmyleswhite/log4r) - A log4j derivative for R
+*   [futile.logger (⭐151)](https://github.com/zatonovo/futile.logger) - A logging package in R similar to log4j
+*   [log4r (⭐93)](https://github.com/johnmyleswhite/log4r) - A log4j derivative for R
 *   [logging](https://cran.r-project.org/web/packages/logging/index.html) - A logging package emulating the python logging package.
 
 ### Websites / Manuals

@@ -16,7 +16,7 @@
 
 ### MIDI Tools & Libraries
 
-*   [JJazzLab-X (⭐0)](https://github.com/jjazzboss/JJazzLab-X) - a complete Midi-based framework for automatic backing tracks generation.
+*   [JJazzLab-X (⭐1)](https://github.com/jjazzboss/JJazzLab-X) - a complete Midi-based framework for automatic backing tracks generation.
 
 ## [3. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 
@@ -37,19 +37,19 @@
 
 ### Tools / Administration
 
-*   [k8s-backup-mongodb (⭐31)](https://github.com/tuladhar/k8s-backup-mongodb) - Schedule MongoDB backups to S3 with a Kubernetes CronJob.
-*   [mgob (⭐768)](https://github.com/stefanprodan/mgob) - Full-featured MongoDB dockerized backup agent
+*   [k8s-backup-mongodb (⭐34)](https://github.com/tuladhar/k8s-backup-mongodb) - Schedule MongoDB backups to S3 with a Kubernetes CronJob.
+*   [mgob (⭐769)](https://github.com/stefanprodan/mgob) - Full-featured MongoDB dockerized backup agent
 
 ## [6. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [lacrimae (⭐1)](https://github.com/caIamity/lacrimae) - Prints a line from a collection of chants.
+*   [lacrimae (⭐2)](https://github.com/caIamity/lacrimae) - Prints a line from a collection of chants.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [dango (⭐2)](https://github.com/ann-kilzer/annkilzer.zsh-theme) - Includes decorations for current directory and `git` status.
-*   [wormwood (⭐2)](https://github.com/ann-kilzer/annkilzer.zsh-theme) - Includes decorators for last command exit status, current directory and `git` status.
+*   [dango (⭐3)](https://github.com/ann-kilzer/annkilzer.zsh-theme) - Includes decorations for current directory and `git` status.
+*   [wormwood (⭐3)](https://github.com/ann-kilzer/annkilzer.zsh-theme) - Includes decorators for last command exit status, current directory and `git` status.
 
 ## [7. Awesome Tdengine](/content/taosdata/awesome-tdengine/README.md)
 
@@ -93,36 +93,36 @@
 
 ### Language Support
 
-*   [playwright-dotnet (⭐2.4k)](https://github.com/microsoft/playwright-dotnet) - Official Playwright port to .NET.
+*   [playwright-dotnet (⭐2.5k)](https://github.com/microsoft/playwright-dotnet) - Official Playwright port to .NET.
 *   [playwright-perl (⭐22)](https://github.com/teodesian/playwright-perl) - Playwright port for Perl.
 
 ## [10. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Syntax / Diagnostics
 
-*   [m-demare/hlargs.nvim (⭐458)](https://github.com/m-demare/hlargs.nvim) - Highlight arguments' definitions and usages, using Treesitter.
+*   [m-demare/hlargs.nvim (⭐487)](https://github.com/m-demare/hlargs.nvim) - Highlight arguments' definitions and usages, using Tree-sitter.
 
 ### Utility / Diagnostics
 
-*   [toppair/reach.nvim (⭐235)](https://github.com/toppair/reach.nvim) - Buffer, mark, tabpage switcher.
+*   [toppair/reach.nvim (⭐244)](https://github.com/toppair/reach.nvim) - Buffer, mark, tabpage switcher.
 
 ## [11. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Templates / Vue 3
 
-*   [Vue Naive (⭐3k)](https://github.com/zclzone/vue-naive-admin) - Admin template, base on Vue 3 + Pinia + Naive UI.
+*   [Vue Naive (⭐3.4k)](https://github.com/zclzone/vue-naive-admin) - Admin template, base on Vue 3 + Pinia + Naive UI.
 
 ## [12. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Web
 
-*   [mvysny/vaadin-on-kotlin (⭐186)](https://github.com/mvysny/vaadin-on-kotlin) - A simple way to write full-stack database-backed component-oriented web apps
+*   [mvysny/vaadin-on-kotlin (⭐185)](https://github.com/mvysny/vaadin-on-kotlin) - A simple way to write full-stack database-backed component-oriented web apps
 
 ## [13. Awesome Directus](/content/directus-community/awesome-directus/README.md)
 
 ### Resources / Official
 
-*   [Community Help Board (⭐25k)](https://github.com/directus/directus/discussions/categories/q-a)
+*   [Community Help Board (⭐28k)](https://github.com/directus/directus/discussions/categories/q-a)
 
 ---
 

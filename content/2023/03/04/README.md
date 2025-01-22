@@ -16,7 +16,7 @@
 
 ### Community Extensions
 
-*   [Keycloak Metrics based on Micrometer (⭐27)](https://github.com/kokuwaio/keycloak-event-metrics)
+*   [Keycloak Metrics based on Micrometer (⭐33)](https://github.com/kokuwaio/keycloak-event-metrics)
 
 ## [3. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 

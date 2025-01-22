@@ -10,7 +10,7 @@
 
 ### Code Analysis and Linters
 
-*   [coq-of-ocaml (⭐247)](https://github.com/formal-land/coq-of-ocaml) - Translator from OCaml to Coq to formally verify OCaml code.
+*   [coq-of-ocaml (⭐255)](https://github.com/formal-land/coq-of-ocaml) - Translator from OCaml to Coq to formally verify OCaml code.
 
 ## [2. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 

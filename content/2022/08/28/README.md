@@ -10,11 +10,11 @@
 
 ### Spreadsheet / Runner
 
-*   [Frappe Datatable (⭐987)](https://github.com/frappe/datatable) - Frappe DataTable is a simple, modern and interactive datatable library for displaying tabular data.
+*   [Frappe Datatable (⭐1k)](https://github.com/frappe/datatable) - Frappe DataTable is a simple, modern and interactive datatable library for displaying tabular data.
 
 ### String / Runner
 
-*   [url-state-machine (⭐162)](https://github.com/anonrig/url-js) - Super fast spec-compliant URL parser state machine for Node.js.
+*   [url-state-machine (⭐164)](https://github.com/anonrig/url-js) - Super fast spec-compliant URL parser state machine for Node.js.
 
 ### Storage / Runner
 
@@ -24,11 +24,11 @@
 
 ### Official plugins
 
-*   [Preferences (⭐493)](https://github.com/ionic-team/capacitor-plugins/tree/main/preferences) - Provides a simple key/value persistent store for lightweight data, ex Storage.
+*   [Preferences (⭐546)](https://github.com/ionic-team/capacitor-plugins/tree/main/preferences) - Provides a simple key/value persistent store for lightweight data, ex Storage.
 
 ### Community plugins
 
-*   [Electron (⭐324)](https://github.com/capacitor-community/electron) - Support for the Electron platform.
+*   [Electron (⭐351)](https://github.com/capacitor-community/electron) - Support for the Electron platform.
 
 ## [3. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
@@ -52,11 +52,11 @@
 
 ### Utility / Diagnostics
 
-*   [nguyenvukhang/nvim-toggler (⭐154)](https://github.com/nguyenvukhang/nvim-toggler) - Invert text, such as toggling between `true` and `false`.
+*   [nguyenvukhang/nvim-toggler (⭐157)](https://github.com/nguyenvukhang/nvim-toggler) - Invert text, such as toggling between `true` and `false`.
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [nvim-lua/kickstart.nvim (⭐18k)](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal Neovim configuration.
+*   [nvim-lua/kickstart.nvim (⭐21k)](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal Neovim configuration.
 
 ## [7. Awesome Esports](/content/Strift/awesome-esports/README.md)
 

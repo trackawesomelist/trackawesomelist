@@ -33,7 +33,7 @@
 
 ### Tools
 
-*   [Pieman (⭐210)](https://github.com/tolstoyevsky/pieman) - Script for creating custom images based on Raspbian, Devuan, Ubuntu and Alpine Linux.
+*   [Pieman (⭐215)](https://github.com/tolstoyevsky/pieman) - Script for creating custom images based on Raspbian, Devuan, Ubuntu and Alpine Linux.
 
 ## [4. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/README.md)
 
@@ -86,7 +86,7 @@
 
 ### Non-deterministic, logic programming
 
-*   [cl-prolog2 (⭐29)](https://github.com/guicho271828/cl-prolog2) - Common Interface to ISO Prolog implementations from Common Lisp. [MIT](https://opensource.org/licenses/MIT).
+*   [cl-prolog2 (⭐32)](https://github.com/guicho271828/cl-prolog2) - Common Interface to ISO Prolog implementations from Common Lisp. [MIT](https://opensource.org/licenses/MIT).
 
 ## [7. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 
@@ -116,7 +116,7 @@
 
 ### Icons / Themes
 
-*   [Ant Design Icons (⭐55)](https://github.com/fjc0k/ant-design-icons) - The premium icon font from Ant Design and Ant Design Mobile.
+*   [Ant Design Icons (⭐54)](https://github.com/fjc0k/ant-design-icons) - The premium icon font from Ant Design and Ant Design Mobile.
 
 ## [12. Awesome Framer](/content/podo/awesome-framer/README.md)
 

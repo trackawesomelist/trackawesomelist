@@ -22,20 +22,20 @@
 
 ### System administration / Third-party APIs
 
-*   [cl-unix-cybernetics (⭐180)](https://github.com/cl-unix-cybernetics/cl-unix-cybernetics) (previously Adams) - UNIX system administration in Common Lisp. Not unlike Ansible, Chef or Puppet. [ISC](https://en.wikipedia.org/wiki/ISC_license).
+*   [cl-unix-cybernetics (⭐181)](https://github.com/cl-unix-cybernetics/cl-unix-cybernetics) (previously Adams) - UNIX system administration in Common Lisp. Not unlike Ansible, Chef or Puppet. [ISC](https://en.wikipedia.org/wiki/ISC_license).
     *   You describe your systems (hosts) using resources having properties. The properties are then probed and synchronized using only /bin/sh on the remote host, and /usr/bin/ssh on the control host.
 
 ## [3. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Image Processing
 
-*   [BitmapPlusPLus (⭐31)](https://github.com/baderouaich/BitmapPlusPlus) - Simple and Fast header only Bitmap C++ library. \[MIT]
+*   [BitmapPlusPLus (⭐37)](https://github.com/baderouaich/BitmapPlusPlus) - Simple and Fast header only Bitmap C++ library. \[MIT]
 
 ## [4. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Distributed Systems
 
-*   [Dragonfly (⭐2.2k)](https://github.com/dragonflyoss/Dragonfly2) - Provide efficient, stable and secure file distribution and image acceleration based on p2p technology to be the best practice and standard solution in cloud native architectures.
+*   [Dragonfly (⭐2.4k)](https://github.com/dragonflyoss/Dragonfly2) - Provide efficient, stable and secure file distribution and image acceleration based on p2p technology to be the best practice and standard solution in cloud native architectures.
 
 ## [5. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
@@ -55,11 +55,11 @@
 
 ### AppImage developer tools / Tools to convert from other package formats
 
-*   [Elements (⭐1)](https://github.com/s-zeid/elements) - Tool to generate single-file, runc-based AppImages using a minimal (\~3 MB compressed) Alpine Linux rootfs.
+*   [Elements (⭐5)](https://github.com/s-zeid/elements) - Tool to generate single-file, runc-based AppImages using a minimal (\~3 MB compressed) Alpine Linux rootfs.
 
 ### Resources / Miscellaneous
 
-*   [appdwarf (⭐15)](https://github.com/Phantop/appdwarf) - A tool to convert an AppDir or an existing AppImage file, either as a local file or from a URL, into a highly compressed portable image using dwarfs.
+*   [appdwarf (⭐26)](https://github.com/Phantop/appdwarf) - A tool to convert an AppDir or an existing AppImage file, either as a local file or from a URL, into a highly compressed portable image using dwarfs.
 
 ## [7. Awesome Minecraft](/content/bs-community/awesome-minecraft/README.md)
 
@@ -75,7 +75,7 @@
 
 ### Editing Support / Diagnostics
 
-*   [altermo/ultimate-autopair.nvim (⭐480)](https://github.com/altermo/ultimate-autopair.nvim) - Autopair with extensions.
+*   [altermo/ultimate-autopair.nvim (⭐510)](https://github.com/altermo/ultimate-autopair.nvim) - Autopair with extensions.
 
 ---
 

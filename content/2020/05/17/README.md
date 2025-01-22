@@ -22,7 +22,7 @@
 
 ### Scheduling
 
-*   [que-scheduler (⭐114)](https://github.com/hlascelles/que-scheduler) - A lightweight cron scheduler for the async job worker Que.
+*   [que-scheduler (⭐115)](https://github.com/hlascelles/que-scheduler) - A lightweight cron scheduler for the async job worker Que.
 
 ## [4. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 
@@ -52,9 +52,9 @@
 
 ## [7. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 
-### Online services
+### Online services (a-z↓)
 
-*   [Visual Regression Tracker (⭐579)](https://github.com/Visual-Regression-Tracker/Visual-Regression-Tracker) - Open Source selfhosted service for visual regression testing
+*   [Visual Regression Tracker (⭐612)](https://github.com/Visual-Regression-Tracker/Visual-Regression-Tracker) - Open Source selfhosted service for visual regression testing
 
 ## [8. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
@@ -76,13 +76,13 @@
 
 ### Programming Languages
 
-*   [Python (⭐215k)](https://github.com/vinta/awesome-python#readme) - General-purpose programming language designed for readability.
-    *   [Asyncio (⭐4.5k)](https://github.com/timofurrer/awesome-asyncio#readme) - Asynchronous I/O in Python 3.
-    *   [Scientific Audio (⭐1.5k)](https://github.com/faroit/awesome-python-scientific-audio#readme) - Scientific research in audio/music.
-    *   [CircuitPython (⭐620)](https://github.com/adafruit/awesome-circuitpython#readme) - A version of Python for microcontrollers.
-    *   [Data Science (⭐2.5k)](https://github.com/krzjoa/awesome-python-data-science#readme) - Data analysis and machine learning.
+*   [Python (⭐226k)](https://github.com/vinta/awesome-python#readme) - General-purpose programming language designed for readability.
+    *   [Asyncio (⭐4.7k)](https://github.com/timofurrer/awesome-asyncio#readme) - Asynchronous I/O in Python 3.
+    *   [Scientific Audio (⭐1.6k)](https://github.com/faroit/awesome-python-scientific-audio#readme) - Scientific research in audio/music.
+    *   [CircuitPython (⭐649)](https://github.com/adafruit/awesome-circuitpython#readme) - A version of Python for microcontrollers.
+    *   [Data Science (⭐2.6k)](https://github.com/krzjoa/awesome-python-data-science#readme) - Data analysis and machine learning.
     *   [Typing (⭐1.7k)](https://github.com/typeddjango/awesome-python-typing#readme) - Optional static typing for Python.
-    *   [MicroPython (⭐1.3k)](https://github.com/mcauser/awesome-micropython#readme) - A lean and efficient implementation of Python 3 for microcontrollers.
+    *   [MicroPython (⭐1.4k)](https://github.com/mcauser/awesome-micropython#readme) - A lean and efficient implementation of Python 3 for microcontrollers.
 
 ## [11. Awesome Captcha](/content/ZYSzys/awesome-captcha/README.md)
 
@@ -102,14 +102,14 @@
 
 ### Communications / GPS
 
-*   [mpy-agps (⭐10)](https://github.com/pulkin/mpy-agps) - MicroPython implementation of assisted location services (AGPS).
+*   [mpy-agps (⭐13)](https://github.com/pulkin/mpy-agps) - MicroPython implementation of assisted location services (AGPS).
 
-### Storage / Database
+### Storage / Databases
 
 *   [uPyMySQL (⭐24)](https://github.com/dvrhax/uPyMySQL) - Pure MicroPython MySQL Client.
 *   [micropython-redis (⭐21)](https://github.com/dwighthubbard/micropython-redis) - A Redis client implementation designed for use with MicroPython.
 *   [picoredis (⭐9)](https://github.com/SpotlightKid/picoredis) - A very minimal Redis client (not only) for MicroPython.
-*   [micropg (⭐25)](https://github.com/nakagami/micropg) - PostgreSQL database driver for MicroPython.
+*   [micropg (⭐26)](https://github.com/nakagami/micropg) - PostgreSQL database driver for MicroPython.
 
 ### Community / SRAM
 
@@ -118,7 +118,6 @@
 
 ### Books / SRAM
 
-*   [MicroPython Cookbook](https://www.packtpub.com/au/application-development/micropython-cookbook) - By Marwan Alsabbagh. ISBN 9781838649951.
 *   [Advanced Programming in MicroPython By Example](https://www.amazon.com/Advanced-Programming-MicroPython-Example-Magda/dp/1090900937) - By Yury Magda. ISBN 9781090900937.
 
 ## [13. Awesome Esolangs](/content/angrykoala/awesome-esolangs/README.md)

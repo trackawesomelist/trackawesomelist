@@ -15,7 +15,7 @@
 
 ### Tools / Environment managers
 
-*   [tenv (⭐578)](https://github.com/tofuutils/tenv) - Terraform and OpenTofu version manager written in Go.
+*   [tenv (⭐798)](https://github.com/tofuutils/tenv) - Terraform and OpenTofu version manager written in Go.
 
 ## [2. Awesome Polars](/content/ddotta/awesome-polars/README.md)
 
@@ -33,7 +33,7 @@
 
 ### Examples/Templates
 
-*   [Jahmilli/k6-example (⭐9)](https://github.com/Jahmilli/k6-example) - Starter template using Vite (Rollup) bundler to write k6 tests in TypeScript.
+*   [Jahmilli/k6-example (⭐10)](https://github.com/Jahmilli/k6-example) - Starter template using Vite (Rollup) bundler to write k6 tests in TypeScript.
 
 ## [5. Awesome Gdpr](/content/bakke92/awesome-gdpr/README.md)
 
@@ -45,7 +45,7 @@
 
 ### Utilities / Productivity
 
-*   [Keyboard Cowboy (⭐687)](https://github.com/zenangst/KeyboardCowboy) - The missing keyboard shortcut utility for macOS. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/zenangst/KeyboardCowboy)
+*   [Keyboard Cowboy (⭐853)](https://github.com/zenangst/KeyboardCowboy) - The missing keyboard shortcut utility for macOS. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/zenangst/KeyboardCowboy)
 
 ## [7. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/README.md)
 
@@ -57,13 +57,13 @@
 
 ### Templates / Vue 3
 
-*   [materio-free-vuetify-nuxtjs-admin-template (⭐43)](https://github.com/themeselection/materio-vuetify-nuxtjs-admin-template-free) - Vuejs 3, Vite 5, Vuetify 3 & NuxtJS 3.
+*   [materio-free-vuetify-nuxtjs-admin-template (⭐59)](https://github.com/themeselection/materio-vuetify-nuxtjs-admin-template-free) - Vuejs 3, Vite 5, Vuetify 3 & NuxtJS 3.
 
 ## [9. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [HoNamDuong/hybrid.nvim (⭐86)](https://github.com/HoNamDuong/hybrid.nvim) - A dark theme written in Lua.
+*   [HoNamDuong/hybrid.nvim (⭐102)](https://github.com/HoNamDuong/hybrid.nvim) - A dark theme written in Lua.
 
 ## [10. Awesome Ci](/content/ligurio/awesome-ci/README.md)
 
@@ -87,13 +87,13 @@
 
 ### Julia / FrameWorks
 
-*   [IncTA.jl (⭐16)](https://github.com/femtotrader/IncTA.jl) - Julia Incremental Technical Analysis Indicators
+*   [IncTA.jl (⭐21)](https://github.com/femtotrader/IncTA.jl) - Julia Incremental Technical Analysis Indicators
 
 ## [12. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Security tools
 
-*   [arp-scan-rs (⭐85)](https://github.com/kongbytes/arp-scan-rs) - A minimalistic ARP scan tool for fast local network scans
+*   [arp-scan-rs (⭐100)](https://github.com/kongbytes/arp-scan-rs) - A minimalistic ARP scan tool for fast local network scans
 
 ## [13. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -116,7 +116,7 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [zeza (⭐2)](https://github.com/duggum/zeza) - Manages and customizes [eza (⭐11k)](https://github.com/eza-community/eza), the very colorful `ls` replacement.
+*   [zeza (⭐2)](https://github.com/duggum/zeza) - Manages and customizes [eza (⭐14k)](https://github.com/eza-community/eza), the very colorful `ls` replacement.
 
 ## [16. Awesome Golem](/content/golemfactory/awesome-golem/README.md)
 

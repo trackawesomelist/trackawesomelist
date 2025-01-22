@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 27, 2016
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,7 +16,7 @@
 
 ### Web Frameworks
 
-*   [Syro (⭐137)](https://github.com/soveran/syro/) - Simple router for web applications.
+*   [Syro (⭐138)](https://github.com/soveran/syro/) - Simple router for web applications.
 
 ## [3. Awesome](/content/Awesome-Windows/Awesome/README.md)
 
@@ -31,17 +31,11 @@
 *   [Fallo de sistema](http://www.rtve.es/alacarta/audios/fallo-de-sistema/) - Programa de divulgación científica, ciencia ficción y vídeo juegos.
 *   [WeDevelopers](http://wedevelopers.com/) - Podcast de developers (algunos episodios en inglés / some podcasts in English).
 
-## [5. Amas](/content/sindresorhus/amas/README.md)
-
-### Ask these people anything!
-
-*   [Arjun Mayilvaganan (⭐0)](https://github.com/arjunmayilvaganan/ama) - Senior Year Student at CEG. Striving to make it as a Full stack developer.
-
-## [6. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [5. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### GUI
 
-*   [ScintillaNET (⭐967)](https://github.com/jacobslusser/ScintillaNET) - Windows Forms control for the Scintilla text editor component (Scintilla is used by Notepad++)
+*   [ScintillaNET (⭐970)](https://github.com/jacobslusser/ScintillaNET) - Windows Forms control for the Scintilla text editor component (Scintilla is used by Notepad++)
 
 ### Image Processing
 
@@ -49,23 +43,23 @@
 
 ### Media
 
-*   [NAudio (⭐5.4k)](https://github.com/naudio/NAudio) - Playback, decode and encode audio in a variety of file formats such as MP3, MP4, WAV, AIFF, Speex, etc.
+*   [NAudio (⭐5.7k)](https://github.com/naudio/NAudio) - Playback, decode and encode audio in a variety of file formats such as MP3, MP4, WAV, AIFF, Speex, etc.
 
 ### Protocols
 
-*   [SSH.NET (⭐3.9k)](https://github.com/sshnet/SSH.NET) - A Secure Shell (SSH) library for .NET, optimized for parallelism. Provides SSH commands, SFTP/SCP uploads and downloads, and SOCKS4/SOCKS5/HTTP proxies.
+*   [SSH.NET (⭐4.1k)](https://github.com/sshnet/SSH.NET) - A Secure Shell (SSH) library for .NET, optimized for parallelism. Provides SSH commands, SFTP/SCP uploads and downloads, and SOCKS4/SOCKS5/HTTP proxies.
 
 ### Web Browsers
 
-*   [CefSharp (⭐9.8k)](https://github.com/cefsharp/CefSharp/) - HTML5, CSS3 and JS web browser powered by Chromium, for WinForms and WPF
+*   [CefSharp (⭐9.9k)](https://github.com/cefsharp/CefSharp/) - HTML5, CSS3 and JS web browser powered by Chromium, for WinForms and WPF
 
-## [7. Progressive Enhancement Resources](/content/jbmoelker/progressive-enhancement-resources/README.md)
+## [6. Progressive Enhancement Resources](/content/jbmoelker/progressive-enhancement-resources/README.md)
 
 ### Testing Methods
 
 *   [Device emulators and simulators](https://developers.google.com/web/tools/chrome-devtools/iterate/device-mode/testing-other-browsers?hl=en#device-emulators-and-simulators)
 
-## [8. Awesome Android](/content/JStumpp/awesome-android/README.md)
+## [7. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
 ### Utility / ORM
 
@@ -79,7 +73,7 @@
 
 *   [Android Tips & Tricks (⭐4.6k)](https://github.com/nisrulz/android-tips-tricks) - Cheatsheet about tips and tricks for Android Development.
 
-## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Tutorials
 

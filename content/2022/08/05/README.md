@@ -35,11 +35,11 @@
 
 ### Table of Contents / Streaming Engine
 
-*   [Scramjet Cloud Platform (⭐65)](https://github.com/scramjetorg/transform-hub) \[Python/JavaScript/Node.js] - data processing engine for running multiple data processing apps (sequences) written in Python, JavaScript or TypeScript
+*   [Scramjet Cloud Platform (⭐68)](https://github.com/scramjetorg/transform-hub) \[Python/JavaScript/Node.js] - data processing engine for running multiple data processing apps (sequences) written in Python, JavaScript or TypeScript
 
 ### Table of Contents / Streaming Library
 
-*   [Scramjet Node.js (⭐37)](https://github.com/scramjetorg/framework-js) - \[Node.js] functional reactive stream programming framework written on top of Node.js object streams + [the legacy Scramjet.js version (⭐253)](https://github.com/scramjetorg/scramjet)
+*   [Scramjet Node.js (⭐38)](https://github.com/scramjetorg/framework-js) - \[Node.js] functional reactive stream programming framework written on top of Node.js object streams + [the legacy Scramjet.js version (⭐253)](https://github.com/scramjetorg/scramjet)
 *   [Scramjet Python (⭐35)](https://github.com/scramjetorg/framework-python) - \[Python] functional reactive stream programming framework written from scratch operating on object, string and buffer streams.
 *   [Scramjet C++ (⭐3)](https://github.com/scramjetorg/framework-cpp) - \[C++] functional reactive stream programming framework written on top of Node.js object streams.
 
@@ -47,27 +47,27 @@
 
 ### Software / Communication - Custom Communication Systems
 
-*   [Novu](https://novu.co/) - Self-hosted / cloud notification infrastructure for developers. ([Source Code (⭐34k)](https://github.com/novuhq/novu/)) `MIT` `Docker/Nodejs`
+*   [Novu](https://novu.co/) - Self-hosted / cloud notification infrastructure for developers. ([Source Code (⭐36k)](https://github.com/novuhq/novu/)) `MIT` `Docker/Nodejs`
 
 ### Software / Communication - Video Conferencing
 
-*   [Galene](https://galene.org/) - Galène (or Galene) is a videoconference server (an “SFU”) that is easy to deploy and that requires moderate server resources. ([Source Code (⭐924)](https://github.com/jech/galene)) `MIT` `Go`
+*   [Galene](https://galene.org/) - Galène (or Galene) is a videoconference server (an “SFU”) that is easy to deploy and that requires moderate server resources. ([Source Code (⭐998)](https://github.com/jech/galene)) `MIT` `Go`
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [Audiobookshelf](https://www.audiobookshelf.org/) - Fully open-source self-hosted audiobook and podcast server. It streams all audio formats, keeps and syncs progress across devices. Comes with open-source apps for Android and iOS. ([Source Code (⭐6.1k)](https://github.com/advplyr/audiobookshelf), [Clients (⭐1.2k)](https://github.com/advplyr/audiobookshelf-app)) `GPL-3.0` `Docker/deb/Nodejs`
+*   [Audiobookshelf](https://www.audiobookshelf.org/) - Fully open-source self-hosted audiobook and podcast server. It streams all audio formats, keeps and syncs progress across devices. Comes with open-source apps for Android and iOS. ([Source Code (⭐7.5k)](https://github.com/advplyr/audiobookshelf), [Clients (⭐1.5k)](https://github.com/advplyr/audiobookshelf-app)) `GPL-3.0` `Docker/deb/Nodejs`
 
 ### Software / Media Streaming - Video Streaming
 
-*   [Invidious (⭐16k)](https://github.com/iv-org/invidious) `⚠` - Alternative YouTube front-end. ([Demo](https://docs.invidious.io/instances/)) `AGPL-3.0` `Docker/Crystal`
+*   [Invidious (⭐17k)](https://github.com/iv-org/invidious) `⚠` - Alternative YouTube front-end. ([Demo](https://docs.invidious.io/instances/)) `AGPL-3.0` `Docker/Crystal`
 
 ### Software / Search Engines
 
-*   [Apache Solr](https://lucene.apache.org/solr/) - Enterprise search platform featuring full-text search, hit highlighting, faceted search, real-time indexing, dynamic clustering, and rich document (e.g., Word, PDF) handling. ([Source Code (⭐1.1k)](https://github.com/apache/solr)) `Apache-2.0` `Java/Docker/K8S`
+*   [Apache Solr](https://lucene.apache.org/solr/) - Enterprise search platform featuring full-text search, hit highlighting, faceted search, real-time indexing, dynamic clustering, and rich document (e.g., Word, PDF) handling. ([Source Code (⭐1.3k)](https://github.com/apache/solr)) `Apache-2.0` `Java/Docker/K8S`
 
 ### Software / Software Development - IDE & Tools
 
-*   [Coder](https://coder.com/) - Remote development machines on your own infrastructure. ([Source Code (⭐7.8k)](https://github.com/coder/coder)) `AGPL-3.0` `Go/Docker/K8S/deb`
+*   [Coder](https://coder.com/) - Remote development machines on your own infrastructure. ([Source Code (⭐8.8k)](https://github.com/coder/coder)) `AGPL-3.0` `Go/Docker/K8S/deb`
 
 ## [5. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 

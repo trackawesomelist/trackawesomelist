@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 22, 2022
 
-14 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -17,11 +17,11 @@
 
 ### Notebooks / Third-party APIs
 
-*   [common-lisp-jupyter (⭐218)](https://github.com/yitzchak/common-lisp-jupyter) - A Common Lisp kernel for Jupyter along with a library for building Jupyter kernels, based on Maxima-Jupyter by Robert Dodier which was based on cl-jupyter by Frederic Peschanski. [MIT](https://opensource.org/licenses/MIT).
+*   [common-lisp-jupyter (⭐228)](https://github.com/yitzchak/common-lisp-jupyter) - A Common Lisp kernel for Jupyter along with a library for building Jupyter kernels, based on Maxima-Jupyter by Robert Dodier which was based on cl-jupyter by Frederic Peschanski. [MIT](https://opensource.org/licenses/MIT).
     *   [jupyterlab-debugger-restarts (⭐2)](https://github.com/yitzchak/jupyterlab-debugger-restarts) - restart functionality for the JupyterLab debugger.
     *   [Cytoscape widget (⭐3)](https://github.com/yitzchak/cytoscape-clj) -  Cytoscape.js widget for common-lisp-jupyter.
     *   [Kekule widget (⭐2)](https://github.com/yitzchak/kekule-clj) -  Kekule.js widget for common-lisp-jupyter.
-    *   [molecule viewer (⭐0)](https://github.com/yitzchak/jupyterlab-molviewer) - A molecule viewer for JupyterLab using ngl.
+    *   [molecule viewer (⭐1)](https://github.com/yitzchak/jupyterlab-molviewer) - A molecule viewer for JupyterLab using ngl.
     *   [ngl widget (⭐2)](https://github.com/yitzchak/ngl-clj) -  A ngl widget (protein viewer) for common-lisp-jupyter.
     *   [sheet widget (⭐2)](https://github.com/yitzchak/sheet-clj) -  Data grid widget for common-lisp-jupyter.
 *   [cl-jupyter (⭐199)](https://github.com/fredokun/cl-jupyter) - A Common Lisp kernel for Jupyter notebooks [custom licence (⭐199)](https://github.com/fredokun/cl-jupyter/blob/master/LICENSE).
@@ -30,7 +30,7 @@
 
 ### File Explorer / Diagnostics
 
-*   [kiran94/s3edit.nvim (⭐43)](https://github.com/kiran94/s3edit.nvim) - Edit files from Amazon S3 directly from Neovim.
+*   [kiran94/s3edit.nvim (⭐45)](https://github.com/kiran94/s3edit.nvim) - Edit files from Amazon S3 directly from Neovim.
 
 ## [4. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
 
@@ -51,7 +51,7 @@
 
 ### Animation, Graphics & Video Playout
 
-*   [Studio TV Player (⭐36)](https://github.com/jaskie/StudioTVPlayer) - Simple TV studio player with SDI, NDI and MPEG TS outputs.
+*   [Studio TV Player (⭐41)](https://github.com/jaskie/StudioTVPlayer) - Simple TV studio player with SDI, NDI and MPEG TS outputs.
 
 ## [7. Awesome Github Wiki](/content/MyHoneyBadger/awesome-github-wiki/README.md)
 
@@ -76,11 +76,11 @@
 ### HTTP Clients / Text-Based User Interfaces
 
 *   [Apache HttpComponents](https://hc.apache.org/) - Toolset of low-level Java components focused on HTTP and associated protocols.
-*   [Ribbon (⭐4.5k)](https://github.com/Netflix/ribbon) - Client-side IPC library that is battle-tested in the cloud.
+*   [Ribbon (⭐4.6k)](https://github.com/Netflix/ribbon) - Client-side IPC library that is battle-tested in the cloud.
 
 ### Networking / Text-Based User Interfaces
 
-*   [Fluency (⭐154)](https://github.com/komamitsu/fluency) - High throughput data ingestion logger to Fluentd and Fluent Bit.
+*   [Fluency (⭐155)](https://github.com/komamitsu/fluency) - High throughput data ingestion logger to Fluentd and Fluent Bit.
 
 ### Security / Other
 
@@ -88,7 +88,7 @@
 
 ### Testing / Fixtures
 
-*   [Mockneat (⭐526)](https://github.com/nomemory/mockneat) - Another fake data generator.
+*   [Mockneat (⭐527)](https://github.com/nomemory/mockneat) - Another fake data generator.
 
 ### Web Frameworks / Mocking
 
@@ -98,7 +98,7 @@
 
 ### Open Source Rails Apps / Other external resources
 
-*   [human-essentials (⭐442)](https://github.com/rubyforgood/human-essentials) - An inventory management system for essentials banks (using Rails 7.0). - [:earth\_africa:](https://humanessentials.app/)
+*   [human-essentials (⭐471)](https://github.com/rubyforgood/human-essentials) - An inventory management system for essentials banks (using Rails 7.0). - [:earth\_africa:](https://humanessentials.app/)
 
 ## [10. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
@@ -106,13 +106,7 @@
 
 *   [Brave](https://brave.com/) - Brave offers a pretty good out-of-the-box set of privacy and tracker protections.
 
-## [11. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
-
-### Concepts / Human Concept Representation
-
-*   [Semantic projection recovers rich human knowledge of multiple object features from word embeddings](https://cap.csail.mit.edu/sites/default/files/research-pdfs/Semantic%20projection%20recovers%20rich%20human%20knowledge%20of%20multiple%20object%20features%20from%20word%20embeddings.pdf) - ***Nature Human Behavior***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=2499199921371106654\&hl=en\&as_sdt=0,5)]. Proposing a domain-general method to extract context-dependent relationships from word embeddings: ‘semantic projection’ of word-vectors onto lines that represent multiple dimensions of features, which recovers human judgements across various object categories and properties.
-
-## [12. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [11. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Reading and Writing Tools / Markdown Tools
 
@@ -124,7 +118,7 @@
 
 ### Design and Product / Design Tools
 
-*   [System Color Picker (⭐1.1k)](https://github.com/sindresorhus/System-Color-Picker) - The macOS color picker as an app with more features. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/sindresorhus/System-Color-Picker) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/id1545870783)
+*   [System Color Picker (⭐1.2k)](https://github.com/sindresorhus/System-Color-Picker) - The macOS color picker as an app with more features. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/sindresorhus/System-Color-Picker) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/id1545870783)
 
 ### Design and Product / Other Tools
 
@@ -132,24 +126,24 @@
 
 ### Utilities / Quality of Life Improvements
 
-*   [Actions (⭐2.6k)](https://github.com/sindresorhus/Actions) - Provides many useful actions for the Shortcuts app. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/sindresorhus/Actions) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/id1586435171)
+*   [Actions (⭐2.7k)](https://github.com/sindresorhus/Actions) - Provides many useful actions for the Shortcuts app. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/sindresorhus/Actions) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/id1586435171)
 
 ### QuickLook Plugins / System Related Tools
 
-*   [QLMarkdown (⭐1.3k)](https://github.com/sbarex/QLMarkdown) - Quick Look extension for Markdown files. - ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")
-*   [Syntax Highlight (⭐2.8k)](https://github.com/sbarex/SourceCodeSyntaxHighlight) - Quick Look extension for highlight source code files. - ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")
+*   [QLMarkdown (⭐1.5k)](https://github.com/sbarex/QLMarkdown) - Quick Look extension for Markdown files. - ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")
+*   [Syntax Highlight (⭐3.1k)](https://github.com/sbarex/SourceCodeSyntaxHighlight) - Quick Look extension for highlight source code files. - ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")
 
-## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Tutorials
 
 *   [Advantages of Vue.js over React, Angular, and other frameworks in Turkish](https://medium.com/@dev.isasari/vuejsin-react-ve-angular-a-g%C3%B6re-avantajlar%C4%B1-6fe1d653beb1) by İsa Sarı
 
-## [14. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+## [13. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
 ### Machine Learning
 
-*   [Machine Learning for Beginners (⭐69k)](https://github.com/Microsoft/ML-For-Beginners) - Microsoft
+*   [Machine Learning for Beginners (⭐70k)](https://github.com/Microsoft/ML-For-Beginners) - Microsoft
 
 ---
 

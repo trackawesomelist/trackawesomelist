@@ -10,7 +10,7 @@
 
 ### Books
 
-- API: [Crossref Metadata Search (⭐725)](https://github.com/CrossRef/rest-api-doc)
+- API: [Crossref Metadata Search (⭐742)](https://github.com/CrossRef/rest-api-doc)
 
   Description: Books & Articles Metadata
 
@@ -50,19 +50,19 @@
 
 ### Utility / Barcode
 
-*   [SwiftPlantUML (⭐569)](https://github.com/MarcoEidinger/SwiftPlantUML) - A command-line tool and Swift Package to generate UML class from your Swift source code. Also available as Xcode Source Editor Extension.
+*   [SwiftPlantUML (⭐585)](https://github.com/MarcoEidinger/SwiftPlantUML) - A command-line tool and Swift Package to generate UML class from your Swift source code. Also available as Xcode Source Editor Extension.
 
 ## [7. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### GUI
 
-*   [Ruby-GNOME (⭐379)](https://github.com/ruby-gnome/ruby-gnome) - Ruby language bindings for the GNOME development environment.
+*   [Ruby-GNOME (⭐386)](https://github.com/ruby-gnome/ruby-gnome) - Ruby language bindings for the GNOME development environment.
 
 ## [8. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / General-Purpose Machine Learning
 
-*   [Hub (⭐8k)](https://github.com/activeloopai/Hub) - Fastest unstructured dataset management for TensorFlow/PyTorch. Stream & version-control data. Store even petabyte-scale data in a single numpy-like array on the cloud accessible on any machine. Visit [activeloop.ai](https://activeloop.ai) for more info.
+*   [Hub (⭐8.2k)](https://github.com/activeloopai/Hub) - Fastest unstructured dataset management for TensorFlow/PyTorch. Stream & version-control data. Store even petabyte-scale data in a single numpy-like array on the cloud accessible on any machine. Visit [activeloop.ai](https://activeloop.ai) for more info.
 
 ## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

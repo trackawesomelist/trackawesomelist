@@ -10,17 +10,17 @@
 
 ### Game Engine
 
-*   [Axmol Engine (⭐819)](https://github.com/axmolengine/axmol) - A cross-platform game engine for desktop, mobile, and XBOX (UWP), derived from Cocos2d-x-4.0. \[MIT] [website](https://axmol.dev/)
+*   [Axmol Engine (⭐973)](https://github.com/axmolengine/axmol) - A cross-platform game engine for desktop, mobile, and XBOX (UWP), derived from Cocos2d-x-4.0. \[MIT] [website](https://axmol.dev/)
 
 ## [2. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Data processing
 
-*   [pg\_lakehouse (⭐5.3k)](https://github.com/paradedb/paradedb/tree/dev/pg_lakehouse) - PostgreSQL extension that transforms Postgres into an analytical query engine over object stores like AWS S3/GCS and table formats like Delta Lake/Iceberg.
+*   [pg\_lakehouse (⭐6.5k)](https://github.com/paradedb/paradedb/tree/dev/pg_lakehouse) - PostgreSQL extension that transforms Postgres into an analytical query engine over object stores like AWS S3/GCS and table formats like Delta Lake/Iceberg.
 
 ### Applications / Task scheduling
 
-*   [tasklet (⭐24)](https://github.com/stav121/tasklet) \[[tasklet](https://crates.io/crates/tasklet)] - A task scheduling library written in Rust ![Build Status](https://img.shields.io/github/actions/workflow/status/stav121/tasklet/rust.yml)
+*   [tasklet (⭐38)](https://github.com/stav121/tasklet) \[[tasklet](https://crates.io/crates/tasklet)] - A task scheduling library written in Rust ![Build Status](https://img.shields.io/github/actions/workflow/status/stav121/tasklet/rust.yml)
 
 ## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -32,11 +32,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [douyin (⭐8.8k)](https://github.com/zyronon/douyin) - Imitate TikTok ，Vue Best practices on Mobile
-
-### Components & Libraries / Dev Tools
-
-*   [Vue - Official (Volar) (⭐5.7k)](https://github.com/vuejs/language-tools) - ⚡The Fastest Vue Language Support Extension
+*   [douyin (⭐10k)](https://github.com/zyronon/douyin) - Imitate TikTok ，Vue Best practices on Mobile
 
 ## [5. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
@@ -122,26 +118,32 @@
 *   [Thomas Laforge](https://x.com/laforge_toma)
 *   [codewith\_ahsan](https://x.com/codewith_ahsan)
 
+### Data Grids / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ui-grid (⭐5.4k)](https://github.com/angular-ui/ui-grid) - UI Grid: an Angular Data Grid.
+*   [jspreadsheet](https://bossanova.uk/jspreadsheet/v4/examples/angular) - Jspreadsheet is a lightweight vanilla javascript plugin to create amazing web-based online interactive tables and spreadsheets compatible with other spreadsheet software.
+*   [handsontable](https://handsontable.com/docs/javascript-data-grid/angular-installation/) - Handsontable is a popular JavaScript data grid component that brings the well-known look and feel of spreadsheets to your application.
+
 ### Dates / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-date-fns (⭐163)](https://github.com/joanllenas/ngx-date-fns) - date-fns pipes for Angular.
+*   [ngx-date-fns (⭐165)](https://github.com/joanllenas/ngx-date-fns) - date-fns pipes for Angular.
 *   [luxon-angular (⭐27)](https://github.com/dstelljes/luxon-angular) - date pipes for Angular.
 *   [angular-globalize (⭐1)](https://github.com/code-art-eg/angular-globalize) - Angular pipes for localizing numbers and dates using Globalize.
-*   [ngx-mat-timepicker (⭐109)](https://github.com/tonysamperi/ngx-mat-timepicker) - A true material timepicker.
+*   [ngx-mat-timepicker (⭐118)](https://github.com/tonysamperi/ngx-mat-timepicker) - A true material timepicker.
 *   [angular-bootstrap-datetimepicker (⭐1.3k)](https://github.com/dalelotts/angular-bootstrap-datetimepicker) - Native Angular date/time picker component styled by Bootstrap.
-*   [ngx-datetime-range-picker (⭐25)](https://github.com/BhavinPatel04/ngx-datetime-range-picker) - Angular material datetime range picker with daily, weekly, monthly, quarterly & yearly levels.
-*   [mat-datetimepicker (⭐152)](https://github.com/kuhnroyal/mat-datetimepicker) - Material datetimepicker for @angular/material.
-*   [angular-datepicker (⭐495)](https://github.com/vlio20/angular-datepicker) - Highly configurable date picker built for Angular applications.
-*   [ngx-daterangepicker-material (⭐248)](https://github.com/fetrarij/ngx-daterangepicker-material) - Pure Angular 2+ date range picker with material design theme.
-*   [ngx-multiple-dates (⭐11)](https://github.com/lekhmanrus/ngx-multiple-dates) - Multiple dates picker based on Angular Material.
+*   [ngx-datetime-range-picker (⭐26)](https://github.com/BhavinPatel04/ngx-datetime-range-picker) - Angular material datetime range picker with daily, weekly, monthly, quarterly & yearly levels.
+*   [mat-datetimepicker (⭐153)](https://github.com/kuhnroyal/mat-datetimepicker) - Material datetimepicker for @angular/material.
+*   [angular-datepicker (⭐502)](https://github.com/vlio20/angular-datepicker) - Highly configurable date picker built for Angular applications.
+*   [ngx-daterangepicker-material (⭐253)](https://github.com/fetrarij/ngx-daterangepicker-material) - Pure Angular 2+ date range picker with material design theme.
+*   [ngx-multiple-dates (⭐12)](https://github.com/lekhmanrus/ngx-multiple-dates) - Multiple dates picker based on Angular Material.
 *   [ng-datetime (⭐0)](https://github.com/ressurectit/ng-datetime) - Angular library containing components used for handling datetime.
 
 ### Layout Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-layout (⭐190)](https://github.com/ngbracket/ngx-layout) - Clone of Angular FlexLayout.
-*   [ng-sortgrid (⭐144)](https://github.com/kreuzerk/ng-sortgrid) - A grid that allows you to sort all items via drag & drop.
+*   [ngx-layout (⭐205)](https://github.com/ngbracket/ngx-layout) - Clone of Angular FlexLayout.
+*   [ng-sortgrid (⭐147)](https://github.com/kreuzerk/ng-sortgrid) - A grid that allows you to sort all items via drag & drop.
 *   [angular-gridster2 (⭐1.3k)](https://github.com/tiberiuzuld/angular-gridster2) - Angular gridster 2.
-*   [angular-grid-layout (⭐439)](https://github.com/katoid/angular-grid-layout) - Responsive grid with draggable and resizable items for Angular applications.
+*   [angular-grid-layout (⭐474)](https://github.com/katoid/angular-grid-layout) - Responsive grid with draggable and resizable items for Angular applications.
 
 ### Mixed utilities / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -149,21 +151,13 @@
 
 ### Scroll / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [lithium-ngx-virtual-scroll (⭐24)](https://github.com/lVlyke/lithium-ngx-virtual-scroll) - A fast and lightweight virtual scrolling solution for Angular that supports single column lists, grid lists and view caching.
-
-### Tables / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [ui-grid (⭐5.4k)](https://github.com/angular-ui/ui-grid) - UI Grid: an Angular Data Grid.
-*   [jspreadsheet](https://bossanova.uk/jspreadsheet/v4/examples/angular) - Jspreadsheet is a lightweight vanilla javascript plugin to create amazing web-based online interactive tables and spreadsheets compatible with other spreadsheet software.
-*   [handsontable](https://handsontable.com/docs/javascript-data-grid/angular-installation/) - Handsontable is a popular JavaScript data grid component that brings the well-known look and feel of spreadsheets to your application.
+*   [lithium-ngx-virtual-scroll (⭐23)](https://github.com/lVlyke/lithium-ngx-virtual-scroll) - A fast and lightweight virtual scrolling solution for Angular that supports single column lists, grid lists and view caching.
 
 ## [7. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [fzf-plugin (atlas34) (⭐0)](https://github.com/Atlas34/fzf-plugin) - [oh-my-zsh (⭐172k)](https://github.com/ohmyzsh/ohmyzsh)'s `fzf` plugin extracted so it can be used easily with other plugin managers.
-*   [fzf-plugin (hwk929) (⭐0)](https://github.com/hwk929/zsh-fzf) - [oh-my-zsh (⭐172k)](https://github.com/ohmyzsh/ohmyzsh)'s `fzf` plugin extracted so it can be used easily with other plugin managers.
-*   [hist-delete (⭐0)](https://github.com/p1r473/zsh-hist-delete-fzf/) - Delete history items from zsh's [fzf (⭐63k)](https://github.com/junegunn/fzf) Ctrl+R history search.
+*   [hist-delete (⭐1)](https://github.com/p1r473/zsh-hist-delete-fzf/) - Delete history items from zsh's [fzf (⭐67k)](https://github.com/junegunn/fzf) Ctrl+R history search.
 *   [nobility (⭐3)](https://github.com/Twilight4/nobility) - An organized colletion of shell modules designed to streamline your pentesting workflow by leveraging shell integrations such as autocompletion and prefilling, optimizing the productivity of your work and liberatating you from the hassle of juggling notes, endless copying and pasting, and tedious command editing.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
@@ -175,7 +169,7 @@
 
 ### Schema / Diagrams
 
-*   [DrawDB (⭐12k)](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
+*   [DrawDB (⭐24k)](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
 
 ---
 

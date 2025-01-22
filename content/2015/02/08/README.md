@@ -24,9 +24,9 @@
 
 ### Cryptography
 
-*   [cipher (⭐60)](https://github.com/rubencaro/cipher) - Elixir crypto library to encrypt/decrypt arbitrary binaries.
-*   [exgpg (⭐18)](https://github.com/rozap/exgpg) - Use gpg from Elixir.
-*   [pot (⭐235)](https://github.com/yuce/pot) - Erlang library for generating one time passwords compatible with Google Authenticator.
+*   [cipher (⭐61)](https://github.com/rubencaro/cipher) - Elixir crypto library to encrypt/decrypt arbitrary binaries.
+*   [exgpg (⭐19)](https://github.com/rozap/exgpg) - Use gpg from Elixir.
+*   [pot (⭐238)](https://github.com/yuce/pot) - Erlang library for generating one time passwords compatible with Google Authenticator.
 
 ### Documentation
 
@@ -34,7 +34,7 @@
 
 ### Email
 
-*   [gen\_smtp (⭐684)](https://github.com/Vagabond/gen_smtp) - A generic Erlang SMTP server and client that can be extended via callback modules.
+*   [gen\_smtp (⭐686)](https://github.com/Vagabond/gen_smtp) - A generic Erlang SMTP server and client that can be extended via callback modules.
 
 ### Examples and funny stuff
 
@@ -50,13 +50,13 @@
 
 ### Geolocation
 
-*   [geolix (⭐188)](https://github.com/mneudert/geolix) - MaxMind GeoIP2 database reader/decoder.
+*   [geolix (⭐190)](https://github.com/mneudert/geolix) - MaxMind GeoIP2 database reader/decoder.
 
 ### ORM and Datamapping
 
-*   [esqlite (⭐126)](https://github.com/mmzeeman/esqlite) - Erlang NIF for sqlite.
+*   [esqlite (⭐131)](https://github.com/mmzeeman/esqlite) - Erlang NIF for sqlite.
 *   [sqlitex (⭐120)](https://github.com/mmmries/sqlitex) - An Elixir wrapper around esqlite. Allows access to sqlite3 databases.
-*   [tds (⭐114)](https://github.com/livehelpnow/tds) - MSSQL / TDS Database driver for Elixir.
+*   [tds (⭐116)](https://github.com/livehelpnow/tds) - MSSQL / TDS Database driver for Elixir.
 *   [yar (⭐8)](https://github.com/dantswain/yar) - Yet another Redis client for Elixir.
 
 ### Templating
@@ -66,22 +66,22 @@
 ### Text and Numbers
 
 *   [secure\_random (⭐96)](https://github.com/patricksrobertson/secure_random.ex) - Convenience library for random base64 strings modeled after my love for Ruby's SecureRandom.
-*   [slugger (⭐159)](https://github.com/h4cc/slugger) - Slugger can generate slugs from given strings that can be used in URLs or file names.
+*   [slugger (⭐161)](https://github.com/h4cc/slugger) - Slugger can generate slugs from given strings that can be used in URLs or file names.
 
 ### Third Party APIs
 
-*   [bitpay (⭐30)](https://github.com/bitpay/elixir-client) - Elixir core library for connecting to bitpay.com.
+*   [bitpay (⭐31)](https://github.com/bitpay/elixir-client) - Elixir core library for connecting to bitpay.com.
 *   [everyoneapi (⭐1)](https://github.com/knewter/everyoneapi) - API Client for EveryoneAPI.com.
 *   [exjira (⭐6)](https://github.com/mattweldon/exjira) - JIRA client library for Elixir.
 *   [tagplay (⭐0)](https://github.com/tagplay/elixir-tagplay) - Elixir client for Tagplay API.
 
 ### YAML
 
-*   [yamerl (⭐203)](https://github.com/yakaz/yamerl) - YAML 1.2 parser in Erlang.
+*   [yamerl (⭐205)](https://github.com/yakaz/yamerl) - YAML 1.2 parser in Erlang.
 
 ### Websites
 
-*   [Elixir Github Wiki (⭐24k)](https://github.com/elixir-lang/elixir/wiki) - The project's wiki, containing much useful information.
+*   [Elixir Github Wiki (⭐25k)](https://github.com/elixir-lang/elixir/wiki) - The project's wiki, containing much useful information.
 
 ---
 

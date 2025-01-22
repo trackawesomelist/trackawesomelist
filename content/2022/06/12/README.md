@@ -17,7 +17,7 @@
 
 ### API
 
-*   [WTelegramClient (⭐924)](https://github.com/wiz0u/WTelegramClient) - Automate a user account on Telegram, using the latest version of [Telegram Client API](https://core.telegram.org/methods)
+*   [WTelegramClient (⭐1.1k)](https://github.com/wiz0u/WTelegramClient) - Automate a user account on Telegram, using the latest version of [Telegram Client API](https://core.telegram.org/methods)
 
 ## [3. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
@@ -35,15 +35,15 @@
 
 ### Libraries/Frameworks / Web
 
-*   [jetbrains/kotless (⭐1.1k)](https://github.com/jetbrains/kotless) - Kotlin serverless framework reducing the routine of serverless deployment.
+*   [jetbrains/kotless (⭐1.2k)](https://github.com/jetbrains/kotless) - Kotlin serverless framework reducing the routine of serverless deployment.
 
 ### Libraries/Frameworks / Testing
 
-*   [tschuchortdev/kotlin-compile-testing (⭐656)](https://github.com/tschuchortdev/kotlin-compile-testing) - A library for testing Kotlin and Java annotation processors, compiler plugins and code generation
+*   [tschuchortdev/kotlin-compile-testing (⭐673)](https://github.com/tschuchortdev/kotlin-compile-testing) - A library for testing Kotlin and Java annotation processors, compiler plugins and code generation
 
 ### Libraries/Frameworks / Misc
 
-*   [charleskorn/kaml (⭐502)](https://github.com/charleskorn/kaml) - YAML support for kotlinx.serialization
+*   [charleskorn/kaml (⭐525)](https://github.com/charleskorn/kaml) - YAML support for kotlinx.serialization
 
 ## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -59,14 +59,10 @@
 
 ## [8. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/README.md)
 
-### Lists / Monograph
+### Cheat Sheets / Lecture Videos Playlist
 
-*   [Yaroslavtsev. Hires spreadsheet 2022](http://grigory.us/blog/theory-jobs-2022/) - A crowdsourced spreadsheet created to collect information about theory hires in year 2022.
-
-### Network Groups / Monograph
-
-*   [Mathematics (⭐8.5k)](https://github.com/rossant/awesome-math) - Freely available lecture notes on mathematics.
-*   [Math (⭐4.1k)](https://github.com/ossu/math) and [CS (⭐168k)](https://github.com/ossu/computer-science) curricula by [Open Source Society University](https://github.com/ossu).
+*   [Mathematics (⭐9k)](https://github.com/rossant/awesome-math) - Freely available lecture notes on mathematics.
+*   [Math (⭐4.6k)](https://github.com/ossu/math) and [CS (⭐173k)](https://github.com/ossu/computer-science) curricula by [Open Source Society University](https://github.com/ossu).
 
 ## [9. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -79,7 +75,7 @@
 ### Development tools / Embedded
 
 *   nRF
-    *   [nrf-rs/nrf-hal (⭐489)](https://github.com/nrf-rs/nrf-hal) - A Rust HAL for the nRF family of devices
+    *   [nrf-rs/nrf-hal (⭐518)](https://github.com/nrf-rs/nrf-hal) - A Rust HAL for the nRF family of devices
 
 ---
 

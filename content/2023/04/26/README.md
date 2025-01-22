@@ -49,11 +49,11 @@
 
 ### Contents / Entertainment
 
-*   [FlutterLeague (⭐16)](https://github.com/csuka1219/Flutter_League) - Companion app for League of Legends players that allows them to search for summoners, view their stats and match history, and check currently ongoing games. by [csuka1219](https://github.com/csuka1219).
+*   [FlutterLeague (⭐20)](https://github.com/csuka1219/Flutter_League) - Companion app for League of Legends players that allows them to search for summoners, view their stats and match history, and check currently ongoing games. by [csuka1219](https://github.com/csuka1219).
 
 ### Contents / Personalization
 
-*   [LifeList (⭐32)](https://github.com/Spyy004/LifeList) - Plan, Track, and Achieve Your Life Goals Effortlessly by [Ayush Pawar](https://github.com/Spyy004)
+*   [LifeList (⭐33)](https://github.com/Spyy004/LifeList) - Plan, Track, and Achieve Your Life Goals Effortlessly by [Ayush Pawar](https://github.com/Spyy004)
 
 ## [5. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
 
@@ -65,21 +65,21 @@
 
 ### Resources / Examples
 
-*   [Vitesse Starter (⭐8.7k)](https://github.com/antfu/vitesse) ⛺️ Vue 3 starter inclode ( Layouts | i18n | UnoCSS | pinia | Markdown | Dark Mode | PWA | SSG | Component Auto-Importing | File-Based Router | Composition API | TypeScript)
-*   [Vitesse-lite Starter (⭐1.1k)](https://github.com/antfu/vitesse-lite) ⛺️ Lightweight version of Vitesse (Vue 3 Starter)
+*   [Vitesse Starter (⭐9k)](https://github.com/antfu/vitesse) ⛺️ Vue 3 starter inclode ( Layouts | i18n | UnoCSS | pinia | Markdown | Dark Mode | PWA | SSG | Component Auto-Importing | File-Based Router | Composition API | TypeScript)
+*   [Vitesse-lite Starter (⭐1.2k)](https://github.com/antfu/vitesse-lite) ⛺️ Lightweight version of Vitesse (Vue 3 Starter)
 
 ## [7. Awesome React](/content/enaqx/awesome-react/README.md)
 
 ### React State Management and Data Fetching
 
-*   [redux (⭐60k)](https://github.com/reduxjs/redux) - Predictable State Container for JavaScript Apps
-*   [xstate (⭐26k)](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web
+*   [redux (⭐61k)](https://github.com/reduxjs/redux) - Predictable State Container for JavaScript Apps
+*   [xstate (⭐27k)](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web
 
 ## [8. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
 ### Tools and session management
 
-*   [disconnected (⭐14)](https://github.com/austinwilcox/disconnected) A session manager written in Deno with json as the config files
+*   [disconnected (⭐15)](https://github.com/austinwilcox/disconnected) A session manager written in Deno with json as the config files
 
 ## [9. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 

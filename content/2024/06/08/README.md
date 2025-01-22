@@ -10,20 +10,19 @@
 
 ### Community
 
-*   [made with angular (⭐88)](https://github.com/madewithangular/madewithangular.github.io) - A showcase of web apps built with Angular.
-*   [built with analog (⭐7)](https://github.com/TechShowcase/builtwithanalog) - Showcase and market your AnalogJS apps.
+*   [made with angular (⭐93)](https://github.com/madewithangular/madewithangular.github.io) - A showcase of web apps built with Angular.
 
 ### Books / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [Angular Design Patterns and Best Practices (⭐43)](https://github.com/PacktPublishing/Angular-Design-Patterns-and-Best-Practices) - `Packt Publishing`
+*   [Angular Design Patterns and Best Practices (⭐61)](https://github.com/PacktPublishing/Angular-Design-Patterns-and-Best-Practices) - `Packt Publishing`
 
 ### Integrations / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [anguhashblog (⭐5)](https://github.com/AnguHashBlog/anguhashblog) - Seamlessly connects your Angular or Analog application to the Hashnode GraphQL API, providing a template integration with a headless Hashnode setup.
+*   [anguhashblog](https://github.com/AnguHashBlog/anguhashblog) - Seamlessly connects your Angular or Analog application to the Hashnode GraphQL API, providing a template integration with a headless Hashnode setup.
 
 ### Testing / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [angular-unit-test-helper (⭐5)](https://github.com/duluca/angular-unit-test-helper) - Helper functions to help write unit tests in Angular using mocks and spies.
+*   [angular-unit-test-helper (⭐6)](https://github.com/duluca/angular-unit-test-helper) - Helper functions to help write unit tests in Angular using mocks and spies.
 
 ### Charts / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -31,24 +30,24 @@
 
 ### Form Controls / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ng-multiselect-dropdown (⭐324)](https://github.com/NileshPatel17/ng-multiselect-dropdown) - Multiple Select Dropdown Component.
+*   [ng-multiselect-dropdown (⭐329)](https://github.com/NileshPatel17/ng-multiselect-dropdown) - Multiple Select Dropdown Component.
 
 ### Layout Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ng2-tree (⭐347)](https://github.com/valor-software/ng2-tree) - Angular tree component.
+*   [ng2-tree (⭐349)](https://github.com/valor-software/ng2-tree) - Angular tree component.
 
 ### Loaders / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [angular-svg-round-progressbar (⭐741)](https://github.com/crisbeto/angular-svg-round-progressbar) - Angular module that uses SVG to create a circular progressbar.
+*   [angular-svg-round-progressbar (⭐740)](https://github.com/crisbeto/angular-svg-round-progressbar) - Angular module that uses SVG to create a circular progressbar.
 *   [ng-circle-progress (⭐250)](https://github.com/bootsoon/ng-circle-progress) - A simple circle progress component created for Angular based on SVG Graphics.
 
 ### Mixed utilities / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngify (⭐98)](https://github.com/ngify/ngify) - Use Angular features outside of Angular.
+*   [ngify (⭐123)](https://github.com/ngify/ngify) - Use Angular features outside of Angular.
 
 ### Tooltips / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [angular-confirmation-popover (⭐202)](https://github.com/mattlewis92/angular-confirmation-popover) - An angular 15.0+ bootstrap confirmation popover.
+*   [angular-confirmation-popover (⭐204)](https://github.com/mattlewis92/angular-confirmation-popover) - An angular 15.0+ bootstrap confirmation popover.
 
 ### Unspecified / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 

@@ -16,17 +16,17 @@
 
 ### Utility / Docker Container Actions
 
-*   [PowerShell Script (⭐30)](https://github.com/Amadevus/pwsh-script) - Run PowerShell scripts with workflow contexts (e.g. `$github.token`) and cmdlets, return value => action output.
+*   [PowerShell Script (⭐47)](https://github.com/Amadevus/pwsh-script) - Run PowerShell scripts with workflow contexts (e.g. `$github.token`) and cmdlets, return value => action output.
 
 ## [3. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Development tools / IDEs
 
 *   [Vim](https://vim.sourceforge.io/) - the ubiquitous text editor
-    *   [autozimu/LanguageClient-neovim (⭐3.5k)](https://github.com/autozimu/LanguageClient-neovim) - [LSP](https://microsoft.github.io/language-server-protocol/) client. Implemented in Rust and supports rls out of the box.
-    *   [crates.nvim (⭐826)](https://github.com/Saecki/crates.nvim) - plugin that helps to managing crates.io dependencies.
+    *   [autozimu/LanguageClient-neovim (⭐3.6k)](https://github.com/autozimu/LanguageClient-neovim) - [LSP](https://microsoft.github.io/language-server-protocol/) client. Implemented in Rust and supports rls out of the box.
+    *   [crates.nvim (⭐904)](https://github.com/Saecki/crates.nvim) - plugin that helps to managing crates.io dependencies.
     *   [rust.vim (⭐3.9k)](https://github.com/rust-lang/rust.vim) - provides file detection, syntax highlighting, formatting, Syntastic integration, and more.
-    *   [vim-racer (⭐627)](https://github.com/racer-rust/vim-racer) - allows vim to use [Racer (⭐3.4k)](https://github.com/racer-rust/racer) for Rust code completion and navigation.
+    *   [vim-racer (⭐633)](https://github.com/racer-rust/vim-racer) - allows vim to use [Racer (⭐3.4k)](https://github.com/racer-rust/racer) for Rust code completion and navigation.
 
 ## [4. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
 
@@ -45,7 +45,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [v-idle (⭐70)](https://github.com/malekim/v-idle) - A Vue.js plugin to detect idle/non-active users.
+*   [v-idle (⭐71)](https://github.com/malekim/v-idle) - A Vue.js plugin to detect idle/non-active users.
 
 ## [7. Awesome Audiovisual](/content/stingalleman/awesome-audiovisual/README.md)
 
@@ -109,7 +109,7 @@
 
 ### Sensors / Light
 
-*   [bh1750 (⭐52)](https://github.com/PinkInk/upylib/tree/master/bh1750) - BH1750 I2C digital light sensor driver.
+*   [bh1750 (⭐54)](https://github.com/PinkInk/upylib/tree/master/bh1750) - BH1750 I2C digital light sensor driver.
 
 ## [12. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/README.md)
 
@@ -145,21 +145,21 @@
 
 ### Front-End Development
 
-*   [Building Blocks for Web Apps (⭐145)](https://github.com/componently-com/awesome-building-blocks-for-web-apps#readme) - Standalone features to be integrated into web apps.
+*   [Building Blocks for Web Apps (⭐158)](https://github.com/componently-com/awesome-building-blocks-for-web-apps#readme) - Standalone features to be integrated into web apps.
 
 ## [16. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
 ### Configs / Configs by Well-Known Companies/Organizations
 
-*   [Shopify (⭐461)](https://github.com/Shopify/web-foundation/blob/main/packages/eslint-plugin/README.md) - Shareable config for [Shopify's style guide (⭐253)](https://github.com/Shopify/javascript).
+*   [Shopify (⭐466)](https://github.com/Shopify/web-foundation/blob/main/packages/eslint-plugin/README.md) - Shareable config for [Shopify's style guide (⭐253)](https://github.com/Shopify/javascript).
 
 ### Plugins / Compatibility
 
-*   [Compat (⭐3k)](https://github.com/amilajack/eslint-plugin-compat) - Lint browser compatibility of APIs used ([caniuse](http://caniuse.com/#search=fetch) as an ESLint plugin).
+*   [Compat (⭐3.1k)](https://github.com/amilajack/eslint-plugin-compat) - Lint browser compatibility of APIs used ([caniuse](http://caniuse.com/#search=fetch) as an ESLint plugin).
 
 ### Plugins / Practices and Specific ES Features
 
-*   [boundaries (⭐474)](https://github.com/javierbrea/eslint-plugin-boundaries) - Ensures that your architecture boundaries are respected by the elements in your project checking file structure and dependencies.
+*   [boundaries (⭐521)](https://github.com/javierbrea/eslint-plugin-boundaries) - Ensures that your architecture boundaries are respected by the elements in your project checking file structure and dependencies.
 
 ---
 

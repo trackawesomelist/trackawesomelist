@@ -16,7 +16,7 @@
 
 ### Crates / Components
 
-*   [yew-oauth2 (⭐42)](https://github.com/ctron/yew-oauth2/) - A plain Yew OAuth2/OpenIDConnect component, not tied to any CSS framework.
+*   [yew-oauth2 (⭐45)](https://github.com/ctron/yew-oauth2/) - A plain Yew OAuth2/OpenIDConnect component, not tied to any CSS framework.
 
 ## [3. Awesome Cyber Security University](/content/brootware/awesome-cyber-security-university/week/README.md)
 
@@ -159,7 +159,7 @@
 
 *   [GitHub gist](https://gist.github.com)
 
-### Geospatial Research and Mapping Tools / Telegram
+### Geospatial Research and Mapping Tools / Steam
 
 *   [Worldwide OSINT Tools Map](https://cipher387.github.io/osintmap/) - A global map of databases and OSINT sources by applicable location.
 
@@ -173,29 +173,29 @@
 
 ### Web Apps (open source)
 
-*   [Bustime](https://busti.me) - Public transport real-time monitoring with WebSocket updates. Open-source [on GitHub (⭐79)](https://github.com/norn/bustime).
+*   [Bustime](https://busti.me) - Public transport real-time monitoring with WebSocket updates. Open-source [on GitHub (⭐84)](https://github.com/norn/bustime).
 
 ## [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Communication - Custom Communication Systems
 
-*   [Soketi](https://soketi.app/) - Simple, fast, and resilient open-source WebSockets server (drop-in alternative to Pusher). ([Source Code (⭐4.8k)](https://github.com/soketi/soketi)) `MIT` `Nodejs/Docker/K8S`
+*   [Soketi](https://soketi.app/) - Simple, fast, and resilient open-source WebSockets server (drop-in alternative to Pusher). ([Source Code (⭐5k)](https://github.com/soketi/soketi)) `MIT` `Nodejs/Docker/K8S`
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [FileShelter (⭐464)](https://github.com/epoupon/fileshelter) - FileShelter is a self-hosted software that allows you to easily share files over the Internet. `GPL-3.0` `C++/deb`
+*   [FileShelter (⭐503)](https://github.com/epoupon/fileshelter) - FileShelter is a self-hosted software that allows you to easily share files over the Internet. `GPL-3.0` `C++/deb`
 
 ### Software / Games
 
-*   [Word Mastermind (⭐142)](https://github.com/clupasq/word-mastermind) - Wordle clone. A Mastermind-like game, but instead of colors you need to guess words. ([Demo](https://word-mastermind.glitch.me/)) `MIT` `Nodejs`
+*   [Word Mastermind (⭐168)](https://github.com/clupasq/word-mastermind) - Wordle clone. A Mastermind-like game, but instead of colors you need to guess words. ([Demo](https://word-mastermind.glitch.me/)) `MIT` `Nodejs`
 
 ### Software / Maps and Global Positioning System (GPS)
 
-*   [Bicimon (⭐50)](https://github.com/knrdl/bicimon) - Bike Speedometer as Progressive Web App. ([Demo](https://knrdl.github.io/bicimon/)) `MIT` `Javascript`
+*   [Bicimon (⭐54)](https://github.com/knrdl/bicimon) - Bike Speedometer as Progressive Web App. ([Demo](https://knrdl.github.io/bicimon/)) `MIT` `Javascript`
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [LMS (⭐1.1k)](https://github.com/epoupon/lms) - Access your self-hosted music using a web interface. `GPL-3.0` `Docker/deb/C++`
+*   [LMS (⭐1.2k)](https://github.com/epoupon/lms) - Access your self-hosted music using a web interface. `GPL-3.0` `Docker/deb/C++`
 
 ### Software / Media Streaming - Multimedia Streaming
 
@@ -203,25 +203,25 @@
 
 ### Software / Miscellaneous
 
-*   [WeeWX](https://weewx.com/) - Open source software for your weather station. ([Demo](https://weewx.com/showcase.html), [Source Code (⭐995)](https://github.com/weewx/weewx)) `GPL-3.0` `Python/deb`
+*   [WeeWX](https://weewx.com/) - Open source software for your weather station. ([Demo](https://weewx.com/showcase.html), [Source Code (⭐1k)](https://github.com/weewx/weewx)) `GPL-3.0` `Python/deb`
 
 ### Software / Pastebins
 
-*   [ExBin (⭐88)](https://github.com/m1dnight/exbin) - A pastebin with public/private snippets and netcat server. `MIT` `Docker`
+*   [ExBin (⭐96)](https://github.com/m1dnight/exbin) - A pastebin with public/private snippets and netcat server. `MIT` `Docker`
 
 ### Software / Personal Dashboards
 
-*   [Fenrus (⭐506)](https://github.com/revenz/fenrus) - A self hosted personal home page that allows for multiple users, guest access and multiple dashboards for each user. It also has "Smart Apps" which display live data for those apps. `GPL-3.0` `.NET/Docker`
+*   [Fenrus (⭐605)](https://github.com/revenz/fenrus) - A self hosted personal home page that allows for multiple users, guest access and multiple dashboards for each user. It also has "Smart Apps" which display live data for those apps. `GPL-3.0` `.NET/Docker`
 
 ## [8. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Audio
 
-*   [rnnoise (⭐4k)](https://github.com/xiph/rnnoise) - Recurrent neural network for audio noise reduction. \[BSD-3-Clause]
+*   [rnnoise (⭐4.3k)](https://github.com/xiph/rnnoise) - Recurrent neural network for audio noise reduction. \[BSD-3-Clause]
 
 ### Debug
 
-*   [FakeIt (⭐1.2k)](https://github.com/eranpeer/FakeIt) - Simple mocking framework for C++. \[MIT]
+*   [FakeIt (⭐1.3k)](https://github.com/eranpeer/FakeIt) - Simple mocking framework for C++. \[MIT]
 
 ## [9. Awesome Eosio](/content/DanailMinchev/awesome-eosio/week/README.md)
 
@@ -293,7 +293,7 @@
 
 ### Developer Tools / Command Line Tools
 
-*   [thefuck (⭐84k)](https://github.com/nvbn/thefuck) - A interesting software that corrects errors in previous console commands. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/nvbn/thefuck)
+*   [thefuck (⭐89k)](https://github.com/nvbn/thefuck) - A interesting software that corrects errors in previous console commands. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/nvbn/thefuck)
 
 ### Communication / Collaboration and Team Tools
 
@@ -389,7 +389,7 @@
 
 ### Utilities
 
-*   [nativefs (⭐34)](https://github.com/EngineerSmith/nativefs) - Read and write files outside of LÖVE's allowed paths.
+*   [nativefs (⭐41)](https://github.com/EngineerSmith/nativefs) - Read and write files outside of LÖVE's allowed paths.
 
 ## [20. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
@@ -401,19 +401,19 @@
 
 ### (requires Neovim 0.5)
 
-*   [amrbashir/nvim-docs-view (⭐138)](https://github.com/amrbashir/nvim-docs-view) - Display LSP hover documentation in a side panel.
+*   [amrbashir/nvim-docs-view (⭐151)](https://github.com/amrbashir/nvim-docs-view) - Display LSP hover documentation in a side panel.
 
 ### Snippet / Diagnostics
 
-*   [smjonas/snippet-converter.nvim (⭐170)](https://github.com/smjonas/snippet-converter.nvim) - Convert snippets between the most common snippet formats and modify them using a few lines of Lua code.
+*   [smjonas/snippet-converter.nvim (⭐180)](https://github.com/smjonas/snippet-converter.nvim) - Convert snippets between the most common snippet formats and modify them using a few lines of Lua code.
 
 ### Utility / Diagnostics
 
-*   [ghillb/cybu.nvim (⭐305)](https://github.com/ghillb/cybu.nvim) - Displays a notification window with context when cycling buffers.
+*   [ghillb/cybu.nvim (⭐316)](https://github.com/ghillb/cybu.nvim) - Displays a notification window with context when cycling buffers.
 
 ### Formatting / Diagnostics
 
-*   [lukas-reineke/lsp-format.nvim (⭐561)](https://github.com/lukas-reineke/lsp-format.nvim) - A wrapper around Neovims native LSP formatting.
+*   [lukas-reineke/lsp-format.nvim (⭐583)](https://github.com/lukas-reineke/lsp-format.nvim) - A wrapper around Neovims native LSP formatting.
 
 ## [22. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
@@ -425,24 +425,24 @@
 
 ### Applications / Database
 
-*   [Qdrant (⭐20k)](https://github.com/qdrant/qdrant) - An open source vector similarity search engine with extended filtering support [![Tests](https://github.com/qdrant/qdrant/workflows/Tests/badge.svg)](https://github.com/qdrant/qdrant/actions)
+*   [Qdrant (⭐21k)](https://github.com/qdrant/qdrant) - An open source vector similarity search engine with extended filtering support [![Tests](https://github.com/qdrant/qdrant/workflows/Tests/badge.svg)](https://github.com/qdrant/qdrant/actions)
 
 ### Libraries / Network programming
 
 *   Socket.io
-    *   [1c3t3a/rust-socketio (⭐399)](https://github.com/1c3t3a/rust-socketio) \[[rust\_socketio](https://crates.io/crates/rust_socketio)] - an implementation of a [socket.io](https://socket.io) client written in Rust. [![build badge](https://github.com/1c3t3a/rust-socketio/actions/workflows/build.yml/badge.svg)](https://github.com/1c3t3a/rust-socketio/actions/workflows/build.yml)
+    *   [1c3t3a/rust-socketio (⭐437)](https://github.com/1c3t3a/rust-socketio) \[[rust\_socketio](https://crates.io/crates/rust_socketio)] - an implementation of a [socket.io](https://socket.io) client written in Rust. [![build badge](https://github.com/1c3t3a/rust-socketio/actions/workflows/build.yml/badge.svg)](https://github.com/1c3t3a/rust-socketio/actions/workflows/build.yml)
 
 ## [24. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Utility / Barcode
 
-*   [SwiftBoost (⭐196)](https://github.com/sparrowcode/SwiftBoost) - Collection of Swift-extensions to boost development process.
+*   [SwiftBoost (⭐203)](https://github.com/sparrowcode/SwiftBoost) - Collection of Swift-extensions to boost development process.
 
 ## [25. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
 
 ### Tools - Miscellaneous / React
 
-*   [microfiber (⭐32)](https://github.com/anvilco/graphql-introspection-tools) - Query and manipulate GraphQL introspection query results in useful ways.
+*   [microfiber (⭐33)](https://github.com/anvilco/graphql-introspection-tools) - Query and manipulate GraphQL introspection query results in useful ways.
 
 ## [26. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/week/README.md)
 
@@ -472,12 +472,12 @@
 ### :books: Literature / Documentation
 
 *   :clipboard: [Hyperion: Implementation of a PE-Crypter](https://www.exploit-db.com/docs/english/18849-hyperion-implementation-of-a-pe-crypter.pdf)
-*   :pushpin: [Packer detection tool evaluation (⭐9)](https://github.com/FFRI/PackerDetectionToolEvaluation)
+*   :pushpin: [Packer detection tool evaluation (⭐11)](https://github.com/FFRI/PackerDetectionToolEvaluation)
 
 ### :books: Literature / Scientific Research
 
 *   :notebook: [Towards paving the way for large-scale Windows malware analysis: Generic binary unpacking with orders-of-magnitude performance boost](https://dl.acm.org/doi/10.1145/3243734.3243771) (October 2018)  :star:
-*   :newspaper: [x64Unpack: Hybrid emulation unpacker for 64-bit Windows Environments and detailed analysis results on VMProtect 3.4](https://ieeexplore.ieee.org/document/9139515) (July 2020)
+*   :newspaper: [x64Unpack: Hybrid emulation unpacker for 64-bit Windows Environments and detailed analysis results on VMProtect 3.4](https://ieeexplore.ieee.org/document/9139515) (July 2020)  :star:
 
 ### :bookmark_tabs: Datasets / Scientific Research
 
@@ -486,7 +486,7 @@
 
 ### :package: Packers / Before 2000
 
-*   [Morphine (⭐285)](https://github.com/bowlofstew/rootkit.com/blob/master/hf/Morphine27) - Application for PE files encryption.
+*   [Morphine (⭐289)](https://github.com/bowlofstew/rootkit.com/blob/master/hf/Morphine27) - Application for PE files encryption.
 
 ### :wrench: Tools / Before 2000
 
@@ -529,7 +529,7 @@
 
   CORS: Unknown
 
-  Postman: 
+  : 
 
 
 
@@ -537,11 +537,11 @@
 
 ### C++ / General-Purpose Machine Learning
 
-*   [N2D2 (⭐145)](https://github.com/CEA-LIST/N2D2) - CEA-List's CAD framework for designing and simulating Deep Neural Network, and building full DNN-based applications on embedded platforms
+*   [N2D2 (⭐148)](https://github.com/CEA-LIST/N2D2) - CEA-List's CAD framework for designing and simulating Deep Neural Network, and building full DNN-based applications on embedded platforms
 
 ### Tools / Misc
 
-*   [Qdrant](https://qdrant.tech) – Qdrant is [open source (⭐19k)](https://github.com/qdrant/qdrant) vector similarity search engine with extended filtering support, written in Rust.
+*   [Qdrant](https://qdrant.tech) – Qdrant is [open source (⭐21k)](https://github.com/qdrant/qdrant) vector similarity search engine with extended filtering support, written in Rust.
 
 ## [33. Awesome Plone](/content/collective/awesome-plone/week/README.md)
 
@@ -568,7 +568,7 @@
 *   [collective.workspace (⭐7)](https://github.com/collective/collective.workspace) - Easily manage 'membership' in specific areas of a Plone Site. It allows to grant people access to areas of content using a membership group rather than local roles for each user, and to delegate control over that group to people who don't have access to the site-wide user/group control panel.
 *   [plone.pdfexport (⭐3)](https://github.com/plone/plone.pdfexport) - Generic PDF export functionality for Plone content.
 *   [Products.EasyNewsletter (⭐28)](https://github.com/collective/Products.EasyNewsletter) - Powerful newsletter/mailing product for Plone.
-*   [zopyx.ipsumplone (⭐2)](https://github.com/zopyx/zopyx.ipsumplone) - Creates demo content and demo images for Plone.
+*   [zopyx.ipsumplone (⭐1)](https://github.com/zopyx/zopyx.ipsumplone) - Creates demo content and demo images for Plone.
 
 ### Searching and Categorizing
 
@@ -577,16 +577,16 @@
 *   [collective.collectionfilter (⭐9)](https://github.com/collective/collective.collectionfilter) - Faceted navigation filter for collection or contentlisting tiles.
 *   [collective.elastic.plone (⭐3)](https://github.com/collective/collective.elastic.plone) - ElasticSearch Integration for Plone content.
 *   [collective.searchandreplace (⭐6)](https://github.com/collective/collective.searchandreplace) - Find and replace text in Plone content objects.
-*   [collective.solr (⭐21)](https://github.com/collective/collective.solr) - Solr search engine integration for Plone.
-*   [collective.taxonomy (⭐18)](https://github.com/collective/collective.taxonomy) - Create, edit and use hierarchical taxonomies to categorize content.
+*   [collective.solr (⭐22)](https://github.com/collective/collective.solr) - Solr search engine integration for Plone.
+*   [collective.taxonomy (⭐19)](https://github.com/collective/collective.taxonomy) - Create, edit and use hierarchical taxonomies to categorize content.
 *   [eea.facetednavigation (⭐4)](https://github.com/collective/eea.facetednavigation) - Very powerful interface to improve search without programming skills. Configuration is done through-the-web and lets you gradually select and explore different facets (metadata/properties) of the content and narrow down you search quickly and dynamically.
 *   [Products.PloneKeywordManager (⭐4)](https://github.com/collective/Products.PloneKeywordManager) - Change, merge and delete keywords/tags/subjects).
 
 ### Layout
 
-*   [plone.app.mosaic (⭐34)](https://github.com/plone/plone.app.mosaic) - Powerful and extendable editor that allows users to compose the content of a page with different tiles.
-*   [collective.cover (⭐48)](https://github.com/collective/collective.cover) - Cover allows the creation of elaborate covers built around a drag-and-drop interface. Uses the same blocks/tiles ecosystem as plone.app.mosaic but a different approach to editing.
-*   [collective.contentsections (⭐7)](https://github.com/collective/collective.contentsections) - Offers a block approach for Plone 6 Classic based entirely on Dexterity content types.
+*   [plone.app.mosaic (⭐36)](https://github.com/plone/plone.app.mosaic) - Powerful and extendable editor that allows users to compose the content of a page with different tiles.
+*   [collective.cover (⭐49)](https://github.com/collective/collective.cover) - Cover allows the creation of elaborate covers built around a drag-and-drop interface. Uses the same blocks/tiles ecosystem as plone.app.mosaic but a different approach to editing.
+*   [collective.contentsections (⭐9)](https://github.com/collective/collective.contentsections) - Offers a block approach for Plone 6 Classic based entirely on Dexterity content types.
 
 ### Tiles
 
@@ -605,7 +605,7 @@
 
 *   [collective.easyform (⭐13)](https://github.com/collective/collective.easyform) - EasyForm provides a Plone form builder through-the-web using fields, widgets, actions and validators. Form input can be saved or emailed. A simple and user-friendly interface allows non-programmers to create custom forms.
 *   [collective.fieldedit (⭐3)](https://github.com/collective/collective.fieldedit) - A flexible form to edit selected fields of a content type.
-*   [collective.honeypot (⭐3)](https://github.com/collective/collective.honeypot) - Honeypot protection for forms.
+*   [collective.honeypot (⭐5)](https://github.com/collective/collective.honeypot) - Honeypot protection for forms.
 *   [collective.z3cform.datagridfield (⭐8)](https://github.com/collective/collective.z3cform.datagridfield) - A field with a datagrid (table), where each row is a sub form.
 *   [collective.z3cform.norobots (⭐5)](https://github.com/collective/collective.z3cform.norobots) - A "human" captcha widget based on a list of questions/answers.
 *   [plone.formwidgets.hcaptcha (⭐1)](https://github.com/plone/plone.formwidget.hcaptcha) - HCaptcha widget to protect Plone from bots, spam, and other forms of automated abuse.
@@ -634,7 +634,7 @@
 ### SEO
 
 *   [bda.plone.gtm (⭐2)](https://github.com/bluedynamics/bda.plone.gtm) - Google Tag Manager Integration.
-*   [collective.behavior.seo (⭐2)](https://github.com/collective/collective.behavior.seo) - Adds extra fields used for SEO optimisation.
+*   [collective.behavior.seo (⭐3)](https://github.com/collective/collective.behavior.seo) - Adds extra fields used for SEO optimisation.
 
 ### Authentication
 
@@ -647,7 +647,7 @@
 
 ### Shop
 
-*   [bda.plone.productshop (⭐6)](https://github.com/bluedynamics/bda.plone.productshop) - Flexible and modular e-commerce solution for Plone.
+*   [bda.plone.productshop (⭐7)](https://github.com/bluedynamics/bda.plone.productshop) - Flexible and modular e-commerce solution for Plone.
 
 ### Export, Import and Migrations
 
@@ -674,7 +674,7 @@
 ### Sysadmin
 
 *   [collective.catalogcleanup (⭐4)](https://github.com/collective/collective.catalogcleanup) - Removes data from the catalog that no longer belong to an actual object.
-*   [collective.fingerpointing (⭐4)](https://github.com/collective/collective.fingerpointing) - Keeps track of different events and write them down to an audit log.
+*   [collective.fingerpointing (⭐5)](https://github.com/collective/collective.fingerpointing) - Keeps track of different events and write them down to an audit log.
 *   [collective.ifttt (⭐2)](https://github.com/collective/collective.ifttt) - Enables any Plone site to play in the IFTTT ecosystem. For example when a news item is published, then tweet about it or post it on Facebook.
 *   [collective.recipe.backup (⭐5)](https://github.com/collective/collective.recipe.backup) - Powerful and flexible backup/restore solution for Plone.
 *   [collective.revisionmanager (⭐6)](https://github.com/collective/collective.revisionmanager) - Manage Products.CMFEditions histories that can bloat your database.
@@ -693,7 +693,7 @@
 
 ### Other
 
-*   [version-from-git (⭐0)](https://github.com/MhmRhm/version-from-git) - Bake git information into your binary. [`[MIT]`](https://opensource.org/licenses/MIT)
+*   [version-from-git (⭐4)](https://github.com/MhmRhm/version-from-git) - Bake git information into your binary. [`[MIT]`](https://opensource.org/licenses/MIT)
 
 ## [35. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
 
@@ -716,93 +716,93 @@
 ### Javascript / Isomorphic web frameworks
 
 *   [sigil (⭐2)](https://github.com/BnMcGn/sigil) - A Parenscript to Javascript command line compiler and REPL. [MIT](https://opensource.org/licenses/MIT).
-*   [cl-react (⭐67)](https://github.com/helmutkian/cl-react) -  Common Lisp (Parenscript) utilities for building web apps in ReactJs. MIT.
-*   [Panic (⭐42)](https://github.com/michaeljforster/panic), a Parenscript library for React. Not in Quicklisp. [MIT](https://opensource.org/licenses/MIT). Its [TodoMVC example (⭐7)](https://github.com/40ants/todomvc/blob/common-lisp-example/examples/common-lisp-react/src/app.lisp).
+*   [cl-react (⭐69)](https://github.com/helmutkian/cl-react) -  Common Lisp (Parenscript) utilities for building web apps in ReactJs. MIT.
+*   [Panic (⭐43)](https://github.com/michaeljforster/panic), a Parenscript library for React. Not in Quicklisp. [MIT](https://opensource.org/licenses/MIT). Its [TodoMVC example (⭐7)](https://github.com/40ants/todomvc/blob/common-lisp-example/examples/common-lisp-react/src/app.lisp).
 *   [Parenscriptx (⭐24)](https://github.com/jasom/parenscriptx) -  Parenscript Macros to aid generating react code. [MIT](https://opensource.org/licenses/MIT).
 *   [jscl-react (⭐17)](https://github.com/nilesr/jscl-react) -  A web framework for writing react components in common lisp using jscl. No license specified.
 
 ### Matrix libraries / Third-party APIs
 
-*   [magicl (⭐231)](https://github.com/quil-lang/magicl) - Matrix Algebra proGrams In Common Lisp based on BLAS/LAPACK and Expokit, by Rigetti Computing. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
+*   [magicl (⭐240)](https://github.com/quil-lang/magicl) - Matrix Algebra proGrams In Common Lisp based on BLAS/LAPACK and Expokit, by Rigetti Computing. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
 ### XML / Third-party APIs
 
 *   [CXML](https://common-lisp.net/project/cxml/) - XML parser and serializer, with a range of extension libraries. [LLGPL](http://opensource.franz.com/preamble.html).
     *   👍 has an incremental parser, allowing to parse big files.
-    *   see the [FXML (⭐31)](https://github.com/ruricolist/FXML) fork, with fixes and new features. You should use it if your are parsing potentially ill-formed or malicious XML, or if you need to use Klacks with namespaces.
+    *   see the [FXML (⭐32)](https://github.com/ruricolist/FXML) fork, with fixes and new features. You should use it if your are parsing potentially ill-formed or malicious XML, or if you need to use Klacks with namespaces.
 
 ## [38. Awesome Open Source Games](/content/michelpereira/awesome-open-source-games/week/README.md)
 
 ### Native / Strategy
 
 *   [Stone Kingdoms](https://gitlab.com/stone-kingdoms/stone-kingdoms) - Real-time strategy based on the original Stronghold series.
-*   [Zero-K (⭐661)](https://github.com/ZeroK-RTS/Zero-K) - Open source RTS game with physical projectiles and smart units.
+*   [Zero-K (⭐701)](https://github.com/ZeroK-RTS/Zero-K) - Open source RTS game with physical projectiles and smart units.
 
 ## [39. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Bot Building
 
-*   [wayback (⭐1.7k)](https://github.com/wabarc/wayback) - A bot for Telegram, Mastodon, Slack, and other messaging platforms archives webpages.
+*   [wayback (⭐1.9k)](https://github.com/wabarc/wayback) - A bot for Telegram, Mastodon, Slack, and other messaging platforms archives webpages.
 
 ### Standard CLI
 
-*   [carapace-spec (⭐16)](https://github.com/rsteube/carapace-spec) - Define simple completions using a spec file.
+*   [carapace-spec (⭐20)](https://github.com/rsteube/carapace-spec) - Define simple completions using a spec file.
 
 ### Miscellaneous Data Structures and Algorithms
 
-*   [go-rampart (⭐100)](https://github.com/francesconi/go-rampart) - Determine how intervals relate to each other.
+*   [go-rampart (⭐101)](https://github.com/francesconi/go-rampart) - Determine how intervals relate to each other.
 
 ### Functional
 
-*   [valor (⭐16)](https://github.com/phelmkamp/valor) - Generic option and result types that optionally contain a value.
+*   [valor (⭐17)](https://github.com/phelmkamp/valor) - Generic option and result types that optionally contain a value.
 
 ### Geographic
 
-*   [H3 GeoJSON (⭐3)](https://github.com/mmadfox/go-geojson2h3) - Conversion utilities between H3 indexes and GeoJSON.
+*   [H3 GeoJSON (⭐4)](https://github.com/mmadfox/go-geojson2h3) - Conversion utilities between H3 indexes and GeoJSON.
 *   [H3GeoDist (⭐2)](https://github.com/mmadfox/go-h3geo-dist) - Distribution of Uber H3geo cells by virtual nodes.
 
 ### Goroutines
 
-*   [async-job (⭐10)](https://github.com/lab210-dev/async-job) - AsyncJob is an asynchronous queue job manager with light code, clear and speed.
+*   [async-job (⭐11)](https://github.com/lab210-dev/async-job) - AsyncJob is an asynchronous queue job manager with light code, clear and speed.
 
-### Job Scheduler
+### Workflow Frameworks / Libraries for creating HTTP middlewares
 
-*   [Dagu (⭐1.4k)](https://github.com/dagu-go/dagu) - No-code workflow executor. it executes DAGs defined in a simple YAML format.
+*   [Dagu (⭐1.8k)](https://github.com/dagu-go/dagu) - No-code workflow executor. it executes DAGs defined in a simple YAML format.
 
 ### Other Software / Libraries for creating HTTP middlewares
 
-*   [Gokapi (⭐1.2k)](https://github.com/Forceu/gokapi) - Lightweight server to share files, which expire after a set amount of downloads or days. Similar to Firefox Send, but without public upload.
+*   [Gokapi (⭐1.8k)](https://github.com/Forceu/gokapi) - Lightweight server to share files, which expire after a set amount of downloads or days. Similar to Firefox Send, but without public upload.
 
 ## [40. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Providers / Hashicorp supported providers
 
-*   [terraform-provider-aws (⭐9.7k)](https://github.com/hashicorp/terraform-provider-aws) - Provider for Amazon Web Services.
-*   [terraform-provider-azurerm (⭐4.5k)](https://github.com/hashicorp/terraform-provider-azurerm) - Provider for Azure.
-*   [terraform-provider-docker (⭐130)](https://github.com/hashicorp/terraform-provider-docker) - Provider for Docker. :skull:
-*   [terraform-provider-google (⭐2.3k)](https://github.com/hashicorp/terraform-provider-google) - Provider for Google Cloud Platform.
-*   [terraform-provider-helm (⭐994)](https://github.com/hashicorp/terraform-provider-helm) - Provider for Helm.
+*   [terraform-provider-aws (⭐10k)](https://github.com/hashicorp/terraform-provider-aws) - Provider for Amazon Web Services.
+*   [terraform-provider-azurerm (⭐4.6k)](https://github.com/hashicorp/terraform-provider-azurerm) - Provider for Azure.
+*   [terraform-provider-docker (⭐132)](https://github.com/hashicorp/terraform-provider-docker) - Provider for Docker. :skull:
+*   [terraform-provider-google (⭐2.4k)](https://github.com/hashicorp/terraform-provider-google) - Provider for Google Cloud Platform.
+*   [terraform-provider-helm (⭐1k)](https://github.com/hashicorp/terraform-provider-helm) - Provider for Helm.
 *   [terraform-provider-kubernetes (⭐1.6k)](https://github.com/hashicorp/terraform-provider-kubernetes) - Provider for Kubernetes.
-*   [terraform-provider-vsphere (⭐609)](https://github.com/hashicorp/terraform-provider-vsphere) - Provider for VMware vSphere.
+*   [terraform-provider-vsphere (⭐623)](https://github.com/hashicorp/terraform-provider-vsphere) - Provider for VMware vSphere.
 
 ### Providers / Vendor supported providers
 
-*   [terraform-provider-alicloud (⭐582)](https://github.com/aliyun/terraform-provider-alicloud) - Provider for Alibaba Cloud.
-*   [terraform-provider-atlas (⭐55)](https://github.com/ariga/terraform-provider-atlas) - Provider for [Atlas](https://atlasgo.io/).
+*   [terraform-provider-alicloud (⭐592)](https://github.com/aliyun/terraform-provider-alicloud) - Provider for Alibaba Cloud.
+*   [terraform-provider-atlas (⭐57)](https://github.com/ariga/terraform-provider-atlas) - Provider for [Atlas](https://atlasgo.io/).
 *   [terraform-provider-buildkite (⭐56)](https://github.com/buildkite/terraform-provider-buildkite) - Provider for Buildkite.
-*   [terraform-provider-datadog (⭐389)](https://github.com/DataDog/terraform-provider-datadog) - Provider for Datadog.
-*   [terraform-provider-digitalocean (⭐496)](https://github.com/digitalocean/terraform-provider-digitalocean) - Provider for DigitalOcean.
+*   [terraform-provider-datadog (⭐403)](https://github.com/DataDog/terraform-provider-datadog) - Provider for Datadog.
+*   [terraform-provider-digitalocean (⭐513)](https://github.com/digitalocean/terraform-provider-digitalocean) - Provider for DigitalOcean.
 *   [terraform-provider-env0 (⭐39)](https://github.com/env0/terraform-provider-env0) - Provider for [env0](https://www.env0.com/)
 *   [terraform-provider-github](https://github.com/integrations/terraform-provider-github) - Provider for GitHub.
-*   [terraform-provider-gitlab (⭐393)](https://github.com/gitlabhq/terraform-provider-gitlab) - Provider for GitLab.
+*   [terraform-provider-gitlab (⭐398)](https://github.com/gitlabhq/terraform-provider-gitlab) - Provider for GitLab.
 *   [terraform-provider-graphql (⭐53)](https://github.com/sullivtr/terraform-provider-graphql) - Provider for GraphQL queries and mutations.
-*   [terraform-provider-hcloud (⭐489)](https://github.com/hetznercloud/terraform-provider-hcloud) - Provider for Hetzner Cloud.
-*   [terraform-provider-heroku (⭐99)](https://github.com/heroku/terraform-provider-heroku) - Provider for Heroku.
-*   [terraform-provider-ibm (⭐340)](https://github.com/IBM-Cloud/terraform-provider-ibm) - Provider for IBM Cloud.
+*   [terraform-provider-hcloud (⭐523)](https://github.com/hetznercloud/terraform-provider-hcloud) - Provider for Hetzner Cloud.
+*   [terraform-provider-heroku (⭐100)](https://github.com/heroku/terraform-provider-heroku) - Provider for Heroku.
+*   [terraform-provider-ibm (⭐341)](https://github.com/IBM-Cloud/terraform-provider-ibm) - Provider for IBM Cloud.
 *   [terraform-provider-linode (⭐71)](https://github.com/btobolaski/terraform-provider-linode) - Provider for Linode.
 *   [terraform-provider-scalr (⭐19)](https://github.com/Scalr/terraform-provider-scalr) - Provider for [Scalr](https://www.scalr.com/)
 *   [terraform-provider-spinnaker (⭐143)](https://github.com/armory-io/terraform-provider-spinnaker) - Provider for [Spinnaker](https://www.spinnaker.io/).
-*   [terraform-provider-spotinst (⭐62)](https://github.com/spotinst/terraform-provider-spotinst) - Provider for spotinst.
+*   [terraform-provider-spotinst (⭐63)](https://github.com/spotinst/terraform-provider-spotinst) - Provider for spotinst.
 
 ## [41. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/week/README.md)
 
@@ -840,12 +840,12 @@
 
 ### Modules / Machine learning
 
-*   [netsaur (⭐198)](https://github.com/denosaurs/netsaur) - Powerful machine learning, accelerated by WebGPU
+*   [netsaur (⭐228)](https://github.com/denosaurs/netsaur) - Powerful machine learning, accelerated by WebGPU
 *   [synaptic (⭐14)](https://github.com/load1n9/synaptic) - Dependency-less neural network library ported to deno
 
 ### Modules / Math
 
-*   [neo (⭐65)](https://github.com/denosaurs/neo/) - Matrix and other math, accelerated by WebGPU
+*   [neo (⭐67)](https://github.com/denosaurs/neo/) - Matrix and other math, accelerated by WebGPU
 
 ## [45. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
@@ -858,18 +858,12 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-connect-wallet (⭐96)](https://github.com/neelansh15/vue-connect-wallet) - A Vue plugin for connecting to web3 wallets with a UI button + MetaMask utils
-*   [vue-magnifier (⭐15)](https://github.com/WebsiteBeaver/vue-magnifier) - Vue 3 image zoom component.
+*   [vue-magnifier (⭐17)](https://github.com/WebsiteBeaver/vue-magnifier) - Vue 3 image zoom component.
 
 ### Components & Libraries / UI Utilities
 
-*   [v-route-generate (⭐12)](https://github.com/weiquanju/v-route-generate) - A tool to generate routes for vue-router 4.x.
-*   [@formkit/auto-animate (⭐12k)](https://github.com/formkit/auto-animate) Add motion to your apps with a single line of code
-
-### Components & Libraries / Utilities
-
-*   [webpack-plugin-qiniu-upload (⭐0)](https://github.com/cduyzh/webpack-plugin-qiniu-upload) - Vue3,webpack-plugin-qiniu-upload for qiniu(七牛)|aws(亚马逊) cloud upload. support @vue/cli-service 5.0.x
-*   [vue2-jsx-runtime (⭐22)](https://github.com/LancerComet/vue2-jsx-runtime) - A Vue 2 new JSX transform runtime for TSC/SWC. Use Vue 2 JSX with TSC/SWC directly.
+*   [v-route-generate (⭐13)](https://github.com/weiquanju/v-route-generate) - A tool to generate routes for vue-router 4.x.
+*   [@formkit/auto-animate (⭐13k)](https://github.com/formkit/auto-animate) Add motion to your apps with a single line of code
 
 ## [47. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
@@ -887,15 +881,15 @@
 
 ## [48. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
 
-### Form / Checkbox
+### Forms
 
-*   [svelte-formly (⭐253)](https://github.com/arabdevelop/svelte-formly) - A good solution to generate and control a dynamic forms using core and custom rules with customize styles.
+*   [svelte-formly (⭐254)](https://github.com/arabdevelop/svelte-formly) - A good solution to generate and control a dynamic forms using core and custom rules with customize styles. *(pre-v5)*
 
 ## [49. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
 
 ### Open Source Projects / Other Tools
 
-*   [Bali (⭐251)](https://github.com/bali-framework/bali) - Simplify Cloud Native Microservices development base on FastAPI and gRPC.
+*   [Bali (⭐265)](https://github.com/bali-framework/bali) - Simplify Cloud Native Microservices development base on FastAPI and gRPC.
 
 ## [50. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/week/README.md)
 
@@ -937,11 +931,11 @@
 
 ### Get Started
 
-*   [create-electron-vite (⭐166)](https://github.com/electron-vite/create-electron-vite) - Scaffolding Your Electron + Vite Project.
+*   [create-electron-vite (⭐194)](https://github.com/electron-vite/create-electron-vite) - Scaffolding Your Electron + Vite Project.
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [@modyfi/vite-plugin-yaml (⭐69)](https://github.com/Modyfi/vite-plugin-yaml) - Transform YAML files to ESM with schema validation and error reporting.
+*   [@modyfi/vite-plugin-yaml (⭐79)](https://github.com/Modyfi/vite-plugin-yaml) - Transform YAML files to ESM with schema validation and error reporting.
 
 ## [53. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
@@ -955,23 +949,23 @@
 
 ### ⚙️ Middlewares / 🌱 Third Party
 
-*   [witer33/fiberpow (⭐9)](https://github.com/witer33/fiberpow) - Anti DDoS/Bot Middleware with a customizable Proof Of Work challenge.
+*   [witer33/fiberpow (⭐12)](https://github.com/witer33/fiberpow) - Anti DDoS/Bot Middleware with a customizable Proof Of Work challenge.
 
 ## [55. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
 
 ### Others / Object detection and object tracking
 
 *   [Foxglove](https://foxglove.dev/) - Foxglove Studio is an integrated visualization and diagnosis tool for robotics, available in your browser or for download as a desktop app on Linux, Windows, and macOS.
-    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐1.8k)](https://github.com/foxglove/studio) ![](https://img.shields.io/badge/ROS-2-34aec5?style=flat-square\&logo=ros)
+    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐23)](https://github.com/foxglove/studio) ![](https://img.shields.io/badge/ROS-2-34aec5?style=flat-square\&logo=ros)
     *   [YouTube channel ![](https://img.shields.io/badge/youtube-red?style=flat-square\&logo=youtube)](https://www.youtube.com/channel/UCrIbrBxb9HBAnlhbx2QycsA)
 *   [MeshLab](https://www.meshlab.net/) - MeshLab is an open source, portable, and extensible system for the processing and editing 3D triangular meshes and pointcloud.
-    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐4.6k)](https://github.com/cnr-isti-vclab/meshlab)
+    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐4.9k)](https://github.com/cnr-isti-vclab/meshlab)
 
 ## [56. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Generic ZSH
 
-*   [zephyr (⭐115)](https://github.com/mattmc3/zephyr) - Zephyr uses built-in Zsh features to set up better default options, completions, keybindings, history, and much more.
+*   [zephyr (⭐139)](https://github.com/mattmc3/zephyr) - Zephyr uses built-in Zsh features to set up better default options, completions, keybindings, history, and much more.
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -980,7 +974,7 @@
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [vorpal (⭐1)](https://github.com/VorpalBlade/vorpal-zsh-completions) - Adds completions for some projects whose upstream appears dead, including [duperemove (⭐785)](https://github.com/markfasheh/duperemove), [optimus-manager (⭐2.3k)](https://github.com/Askannz/optimus-manager) and [pacutils (⭐105)](https://github.com/andrewgregory/pacutils).
+*   [vorpal (⭐1)](https://github.com/VorpalBlade/vorpal-zsh-completions) - Adds completions for some projects whose upstream appears dead, including [duperemove (⭐851)](https://github.com/markfasheh/duperemove), [optimus-manager (⭐2.3k)](https://github.com/Askannz/optimus-manager) and [pacutils (⭐110)](https://github.com/andrewgregory/pacutils).
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -997,13 +991,13 @@
 
 ## [58. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
-### Plugins and scripts / Various Godot versions
+### Plugins and scripts / Godot 3
 
-*   [AutoColliders (⭐10)](https://github.com/graycastle/godot-AutoColliders) - Allows the automatic generation of colliders for Sprites, with planned expansion to handle 3D meshes in the future (Godot 3.x).
+*   [AutoColliders (⭐10)](https://github.com/graycastle/godot-AutoColliders) - Allows the automatic generation of colliders for Sprites, with planned expansion to handle 3D meshes in the future.
 
-### Modules / Various Godot versions
+### Modules / Godot 4
 
-*   [GodotHook (⭐46)](https://github.com/Mestima/GodotHook) - A lite custom event system for Godot Engine (Godot 3.x, 4.x).
+*   [GodotHook (⭐50)](https://github.com/Mestima/GodotHook) - A lite custom event system for Godot Engine. *(Godot 3 and 4)*
 
 ## [59. Awesome Gatling](/content/aliesbelik/awesome-gatling/week/README.md)
 
@@ -1013,7 +1007,7 @@
 
 ### CI / Miscellaneous
 
-*   [run-gatling (⭐4)](https://github.com/liatrio/run-gatling) - GitHub Action to easily integrate Gatling performance tests to GitHub workflows.
+*   [run-gatling (⭐5)](https://github.com/liatrio/run-gatling) - GitHub Action to easily integrate Gatling performance tests to GitHub workflows.
 
 ---
 

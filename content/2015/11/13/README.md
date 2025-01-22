@@ -132,7 +132,7 @@
 
 ### TypeScript / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [DefinitelyTyped Repository (GitHub) (⭐48k)](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
+*   [DefinitelyTyped Repository (GitHub) (⭐49k)](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 
 ## [7. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
@@ -332,7 +332,7 @@
 
 ### Preprocesors / Bare metal / kernel development
 
-*   [warp (⭐527)](https://github.com/facebookarchive/warp) - A fast preprocessor for C and C++ used in Facebook infrastructure. Written by Walter Bright.
+*   [warp (⭐526)](https://github.com/facebookarchive/warp) - A fast preprocessor for C and C++ used in Facebook infrastructure. Written by Walter Bright.
 
 ### Database clients / XML
 
@@ -374,11 +374,11 @@
 
 ### Biology
 
-*   [Wham (⭐99)](https://github.com/zeeev/wham) - Structural variants (SVs) in Genomes by directly applying association tests to BAM files. \[MIT]
+*   [Wham (⭐104)](https://github.com/zeeev/wham) - Structural variants (SVs) in Genomes by directly applying association tests to BAM files. \[MIT]
 
 ### Concurrency
 
-*   [Boost.Compute (⭐1.5k)](https://github.com/boostorg/compute) - A C++ GPU Computing Library for OpenCL. \[Boost] [website](https://boost.org/libs/compute)
+*   [Boost.Compute (⭐1.6k)](https://github.com/boostorg/compute) - A C++ GPU Computing Library for OpenCL. \[Boost] [website](https://boost.org/libs/compute)
 
 ### Debug
 
@@ -387,7 +387,7 @@
 ### Game Engine
 
 *   [Allegro](http://liballeg.org/) - A cross-platform library mainly aimed for video games and multimedia programming. \[zlib]
-*   [Godot (⭐88k)](https://github.com/godotengine/godot) - A fully featured, open source, MIT licensed, game engine. \[MIT]
+*   [Godot (⭐93k)](https://github.com/godotengine/godot) - A fully featured, open source, MIT licensed, game engine. \[MIT]
 
 ### GUI
 
@@ -399,11 +399,11 @@
 
 ### Machine Learning
 
-*   [Minerva (⭐698)](https://github.com/dmlc/minerva) - A fast and flexible system for deep learning. \[Apache2]
+*   [Minerva (⭐700)](https://github.com/dmlc/minerva) - A fast and flexible system for deep learning. \[Apache2]
 
 ### Web Application Framework
 
-*   [Civetweb (⭐2.8k)](https://github.com/civetweb/civetweb) - Provides easy to use, powerful, C/C++ embeddable web server with optional CGI, SSL and Lua support. \[MIT]
+*   [Civetweb (⭐3k)](https://github.com/civetweb/civetweb) - Provides easy to use, powerful, C/C++ embeddable web server with optional CGI, SSL and Lua support. \[MIT]
 
 ### Online Compiler
 
@@ -424,7 +424,7 @@
 
 ### Coding Style
 
-*   [google-styleguide (⭐37k)](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects.
+*   [google-styleguide (⭐38k)](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects.
 
 ### Websites
 
@@ -447,7 +447,7 @@
 
 ### Examples and funny stuff
 
-*   [harakiri (⭐20)](https://github.com/rubencaro/harakiri) - Help applications kill themselves.
+*   [harakiri (⭐21)](https://github.com/rubencaro/harakiri) - Help applications kill themselves.
 
 ### Framework Components
 
@@ -456,7 +456,7 @@
 
 ### JSON
 
-*   [jsonapi (⭐495)](https://github.com/jeregrine/jsonapi) - A project that will render your data models into [JSONAPI Documents](http://jsonapi.org/format/).
+*   [jsonapi (⭐499)](https://github.com/jeregrine/jsonapi) - A project that will render your data models into [JSONAPI Documents](http://jsonapi.org/format/).
 
 ### Miscellaneous
 
@@ -464,20 +464,20 @@
 
 ### Networking
 
-*   [sshex (⭐158)](https://github.com/rubencaro/sshex) - Simple SSH helpers for Elixir.
+*   [sshex (⭐160)](https://github.com/rubencaro/sshex) - Simple SSH helpers for Elixir.
 
 ### ORM and Datamapping
 
 *   [boltun (⭐135)](https://github.com/bitgamma/boltun) - Transforms notifications from the Postgres LISTEN/NOTIFY mechanism into callback execution.
-*   [kalecto (⭐146)](https://github.com/lau/calecto) - Glue between Kalends and Ecto for saving dates, times and datetimes.
+*   [kalecto (⭐147)](https://github.com/lau/calecto) - Glue between Kalends and Ecto for saving dates, times and datetimes.
 
 ### Package Management
 
-*   [rebar3\_hex (⭐102)](https://github.com/hexpm/rebar3_hex) - Hex.pm plugin for rebar3.
+*   [rebar3\_hex (⭐101)](https://github.com/hexpm/rebar3_hex) - Hex.pm plugin for rebar3.
 
 ### Queue
 
-*   [honeydew (⭐721)](https://github.com/koudelka/honeydew) - Honeydew is a worker pool library for Elixir.
+*   [honeydew (⭐722)](https://github.com/koudelka/honeydew) - Honeydew is a worker pool library for Elixir.
 
 ### Third Party APIs
 
@@ -608,7 +608,7 @@
 
 ### MVC Frameworks and Libraries / Runner
 
-*   [vue (⭐207k)](https://github.com/vuejs/vue) - Intuitive, fast & composable MVVM for building interactive interfaces.
+*   [vue (⭐208k)](https://github.com/vuejs/vue) - Intuitive, fast & composable MVVM for building interactive interfaces.
 *   [canjs (⭐1.9k)](https://github.com/canjs/canjs) - Can do JS, better, faster, easier.
 *   [derby (⭐4.7k)](https://github.com/derbyjs/derby) - MVC framework making it easy to write realtime, collaborative applications that run in both Node.js and browsers.
     *   [derby-awesome (⭐13)](https://github.com/russll/awesome-derby) - A collection of awesome derby components
@@ -628,7 +628,7 @@
 
 ### Date / Runner
 
-*   [ms.js (⭐5k)](https://github.com/rauchg/ms.js) - Tiny millisecond conversion utility.
+*   [ms.js (⭐5.1k)](https://github.com/rauchg/ms.js) - Tiny millisecond conversion utility.
 
 ### Code highlighting / Runner
 
@@ -648,7 +648,7 @@
 
 ### Misc / Other
 
-*   [instanceofpro/awesome-backbone (⭐402)](https://github.com/sadcitizen/awesome-backbone)
+*   [instanceofpro/awesome-backbone (⭐401)](https://github.com/sadcitizen/awesome-backbone)
 
 ## [21. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

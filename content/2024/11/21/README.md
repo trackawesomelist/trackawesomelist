@@ -16,13 +16,13 @@
 
 ### Libraries/Packages/Scripts / Python
 
-*   [cerburus (⭐1)](https://github.com/rhshadrach/cerbursus) - Python package that prints Polars DataFrames with hierarchical headers by [@rhshadrach](https://github.com/rhshadrach).
+*   [cerburus (⭐3)](https://github.com/rhshadrach/cerbursus) - Python package that prints Polars DataFrames with hierarchical headers by [@rhshadrach](https://github.com/rhshadrach).
 
 ## [3. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
 ### Display / Graphics
 
-*   [Tempe (⭐2)](https://github.com/unital/tempe) - Efficient MicroPython graphics library built on top of `framebuf`.
+*   [Tempe (⭐9)](https://github.com/unital/tempe) - Efficient MicroPython graphics library built on top of `framebuf`.
 
 ### Books / SRAM
 
@@ -37,11 +37,11 @@
 
 ### Web
 
-*   [AITuberKit (⭐297)](https://github.com/tegnike/aituber-kit) - AITuber Kit. \[日本語/English/中文]
+*   [AITuberKit (⭐309)](https://github.com/tegnike/aituber-kit) - AITuber Kit. \[日本語/English/中文]
 
 ### Uncategorized
 
-*   [ChatdollKit (⭐785)](https://github.com/uezo/ChatdollKit) - ChatdollKit enables you to make your 3D model into a chatbot. \[English/日本語]
+*   [ChatdollKit (⭐801)](https://github.com/uezo/ChatdollKit) - ChatdollKit enables you to make your 3D model into a chatbot. \[English/日本語]
 
 ## [5. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
@@ -61,7 +61,7 @@
 
 ### Form Controls / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-mat-split-button (⭐1)](https://github.com/feature23/ngx-mat-split-button) - A split button component for Angular Material. Split buttons (also known as "split button dropdowns" in Bootstrap) have a primary action button with a conjoined dropdown toggle that opens a menu for secondary actions.
+*   [ngx-mat-split-button (⭐2)](https://github.com/feature23/ngx-mat-split-button) - A split button component for Angular Material. Split buttons (also known as "split button dropdowns" in Bootstrap) have a primary action button with a conjoined dropdown toggle that opens a menu for secondary actions.
 
 ### Markdown / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -75,13 +75,13 @@
 
 ### GitHub / Diagnostics
 
-*   [topaxi/pipeline.nvim (⭐121)](https://github.com/topaxi/pipeline.nvim) - View and dispatch GitHub Actions workflow and GitLab CI pipeline runs.
+*   [topaxi/pipeline.nvim (⭐149)](https://github.com/topaxi/pipeline.nvim) - View and dispatch GitHub Actions workflow and GitLab CI pipeline runs.
 
 ## [8. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
 ### Community Extensions
 
-*   [Keycloak Trusted Device Support by @wouterh-dev (⭐27)](https://github.com/wouterh-dev/keycloak-spi-trusted-device)
+*   [Keycloak Trusted Device Support by @wouterh-dev (⭐33)](https://github.com/wouterh-dev/keycloak-spi-trusted-device)
 
 ## [9. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
@@ -93,13 +93,13 @@
 
 ### Autonomous LLM Agents / Multi-agents
 
-*   [Generative Agent Simulations of 1,000 People | arxiv](https://arxiv.org/abs/2411.10109) [\[GitHub: joonspk-research/genagents\] (⭐89)](https://github.com/joonspk-research/genagents)
+*   [Generative Agent Simulations of 1,000 People | arxiv](https://arxiv.org/abs/2411.10109) [\[GitHub: joonspk-research/genagents\] (⭐289)](https://github.com/joonspk-research/genagents)
 
 ## [11. Awesome for Beginners](/content/MunGell/awesome-for-beginners/README.md)
 
 ### Python
 
-*   [FastAPI (⭐78k)](https://github.com/tiangolo/fastapi) *(label: good first issue)* <br> A modern, fast (high-performance) web framework for building APIs with Python 3.6+ based on standard Python type hints.
+*   [FastAPI (⭐80k)](https://github.com/tiangolo/fastapi) *(label: good first issue)* <br> A modern, fast (high-performance) web framework for building APIs with Python 3.6+ based on standard Python type hints.
 
 ## [12. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -119,4 +119,5 @@
 
 ---
 
+- Prev: [Nov 22, 2024](/content/2024/11/22/README.md)
 - Next: [Nov 20, 2024](/content/2024/11/20/README.md)

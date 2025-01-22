@@ -10,7 +10,7 @@
 
 ### Tools / Environment managers
 
-*   [tofuenv (⭐162)](https://github.com/tofuutils/tofuenv) - OpenTofu version manager inspired by tfenv.
+*   [tofuenv (⭐174)](https://github.com/tofuutils/tofuenv) - OpenTofu version manager inspired by tfenv.
 
 ## [2. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
@@ -34,17 +34,17 @@
 
 ### Applications / Blockchain
 
-*   [polkadot-sdk (⭐1.7k)](https://github.com/paritytech/polkadot-sdk) - The Parity Polkadot Blockchain SDK
+*   [polkadot-sdk (⭐2k)](https://github.com/paritytech/polkadot-sdk) - The Parity Polkadot Blockchain SDK
 
 ### Applications / Observability
 
-*   [openobserve (⭐11k)](https://github.com/openobserve/openobserve) - 10x easier, 140x lower storage cost, high performance, petabyte scale - Elasticsearch/Splunk/Datadog alternative.
+*   [openobserve (⭐14k)](https://github.com/openobserve/openobserve) - 10x easier, 140x lower storage cost, high performance, petabyte scale - Elasticsearch/Splunk/Datadog alternative.
 
 ## [6. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### HTTP
 
-*   [Fluxzy.Core (⭐107)](https://github.com/haga-rak/fluxzy.core) - A fully managed and fully streamed Man-On-The-Middle library to intercept, record and alter HTTP/1.1, H2, websocket traffic over plain or secure channels.
+*   [Fluxzy.Core (⭐147)](https://github.com/haga-rak/fluxzy.core) - A fully managed and fully streamed Man-On-The-Middle library to intercept, record and alter HTTP/1.1, H2, websocket traffic over plain or secure channels.
 
 ## [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
@@ -56,21 +56,21 @@
 
 ### Snippet / Diagnostics
 
-*   [chrisgrieser/nvim-scissors (⭐333)](https://github.com/chrisgrieser/nvim-scissors) - Automagical editing and creation of snippets.
+*   [chrisgrieser/nvim-scissors (⭐427)](https://github.com/chrisgrieser/nvim-scissors) - Automagical editing and creation of snippets.
 
 ### Debugging / Diagnostics
 
-*   [chrisgrieser/nvim-chainsaw (⭐93)](https://github.com/chrisgrieser/nvim-chainsaw) - Speed up log creation. Creates various kinds of language-specific log statements, like logs of variables, assertions, or time-measuring.
+*   [chrisgrieser/nvim-chainsaw (⭐109)](https://github.com/chrisgrieser/nvim-chainsaw) - Speed up log creation. Creates various kinds of language-specific log statements, like logs of variables, assertions, or time-measuring.
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [pgosar/CyberNvim (⭐316)](https://github.com/pgosar/CyberNvim) - The world's simplest and most extensible Neovim distribution.
+*   [pgosar/CyberNvim (⭐352)](https://github.com/pgosar/CyberNvim) - The world's simplest and most extensible Neovim distribution.
 
 ## [9. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 
 ### Tools / Templates & Starter Kits
 
-*   [cookiecutter-wagtail-vix (⭐31)](https://github.com/engineervix/cookiecutter-wagtail-vix) - A matteries-included, reusable project skeleton to serve as a starting point for a Wagtail project.
+*   [cookiecutter-wagtail-vix (⭐33)](https://github.com/engineervix/cookiecutter-wagtail-vix) - A matteries-included, reusable project skeleton to serve as a starting point for a Wagtail project.
 
 ---
 

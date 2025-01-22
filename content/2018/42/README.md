@@ -37,7 +37,7 @@
 
 ### Tools / PGFPlots
 
-*   [itikz (⭐55)](https://github.com/jbn/itikz) - Cell and line magic for PGF/TikZ-to-SVG rendering in Jupyter notebooks.
+*   [itikz (⭐62)](https://github.com/jbn/itikz) - Cell and line magic for PGF/TikZ-to-SVG rendering in Jupyter notebooks.
 
 ## [6. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
 
@@ -122,7 +122,7 @@
 
 ### Components / Themes
 
-*   [ngx-recursive-form (⭐35)](https://github.com/hsbalar/ngx-recursive-form) - Angular recursive form based on json input built with Ant Design.
+*   [ngx-recursive-form (⭐36)](https://github.com/hsbalar/ngx-recursive-form) - Angular recursive form based on json input built with Ant Design.
 
 ## [9. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
@@ -147,11 +147,11 @@
 
 ### Tools / Static Analysis Tools
 
-*   [ConDroid (⭐54)](https://github.com/JulianSchuette/ConDroid) - Performs a combination of symbolic + concrete execution of the app
+*   [ConDroid (⭐56)](https://github.com/JulianSchuette/ConDroid) - Performs a combination of symbolic + concrete execution of the app
 
 ### Tools / Dynamic Analysis Tools
 
-*   [Appie](https://manifestsecurity.com/appie/) - Appie is a software package that has been pre-configured to function as an Android Pentesting Environment. It is completely portable and can be carried on a USB stick or smartphone. This is a one-stop answer for all the tools needed in Android Application Security Assessment and an awesome alternative to existing virtual machines.
+*   ~~[Appie](https://manifestsecurity.com/appie/) - Appie is a software package that has been pre-configured to function as an Android Pentesting Environment. It is completely portable and can be carried on a USB stick or smartphone. This is a one-stop answer for all the tools needed in Android Application Security Assessment and an awesome alternative to existing virtual machines.~~
 
 ### Exploits/Vulnerabilities/Bugs / Malware
 
@@ -165,13 +165,13 @@
 
 ### Misc / Other
 
-*   [You Don't Know JS (⭐178k)](https://github.com/getify/You-Dont-Know-JS) - Possibly the best book written on modern JavaScript, completely readable online for free, or can be bought to support the author.
+*   [You Don't Know JS (⭐179k)](https://github.com/getify/You-Dont-Know-JS) - Possibly the best book written on modern JavaScript, completely readable online for free, or can be bought to support the author.
 
 ## [14. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Developer Utilities
 
-*   [Cacher](https://www.cacher.io/) - Cloud-based, team-enabled code snippet manager with Gist sync, VSCode/Atom/Sublime packages and Mac/Windows/Linux/Web clients.
+*   [Cacher](https://www.cacher.io/) - Cloud-based code snippet manager with Gist sync and multi-platform support.
 
 ### Utilities / To-Do Lists
 
@@ -193,7 +193,7 @@
 
 ### Libraries
 
-*   [tf-encrypted (⭐2)](https://github.com/mortendahl/tf-encrypted) - Layer on top of TensorFlow for doing machine learning on encrypted data
+*   [tf-encrypted (⭐3)](https://github.com/mortendahl/tf-encrypted) - Layer on top of TensorFlow for doing machine learning on encrypted data
 
 ## [17. Awesome Ethereum](/content/ttumiel/Awesome-Ethereum/week/README.md)
 
@@ -399,8 +399,8 @@ Topics: Accessibility\
 
 ### GTFS Analysis Tools / Ruby
 
-*   [Peartree (⭐201)](https://github.com/kuanb/peartree) - A Python library for converting transit data into a directed graph for network analysis.
-*   [transitr (⭐21)](https://github.com/tmelliott/transitr) - An R package for constructing and modelling a transit network in real time to obtain vehicle ETAs
+*   [Peartree (⭐203)](https://github.com/kuanb/peartree) - A Python library for converting transit data into a directed graph for network analysis.
+*   [transitr (⭐22)](https://github.com/tmelliott/transitr) - An R package for constructing and modelling a transit network in real time to obtain vehicle ETAs
 
 ## [28. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
 
@@ -422,7 +422,7 @@ Topics: Accessibility\
 
 ### Intermediate
 
-#### [1 Million Women To Tech Summer of Code (⭐621)](https://github.com/1millionwomentotech/toolkitten/tree/master/summer-of-code)
+#### [1 Million Women To Tech Summer of Code (⭐622)](https://github.com/1millionwomentotech/toolkitten/tree/master/summer-of-code)
 
 **Free** programming course material for beginner, intermediate and advanced levels\
 *(Python, JavaScript, Data Science, artificial intelligence, machine learning, AR & VR)*
@@ -451,7 +451,7 @@ Topics: Accessibility\
 
 ### Serverless Computing
 
-*   [crystal\_openfaas (⭐22)](https://github.com/TPei/crystal_openfaas/) - Template to enable crystal as first class citizens in OpenFaaS
+*   [crystal\_openfaas (⭐23)](https://github.com/TPei/crystal_openfaas/) - Template to enable crystal as first class citizens in OpenFaaS
 
 ### Official Documentation Translations
 
@@ -461,15 +461,15 @@ Topics: Accessibility\
 
 ### Cryptography
 
-*   [libhydrogen (⭐603)](https://github.com/jedisct1/libhydrogen) - A lightweight, secure, easy-to-use crypto library suitable for constrained environments. \[ISC]
+*   [libhydrogen (⭐647)](https://github.com/jedisct1/libhydrogen) - A lightweight, secure, easy-to-use crypto library suitable for constrained environments. \[ISC]
 
 ### Game Engine
 
-*   [PixelGameEngine (⭐3.8k)](https://github.com/OneLoneCoder/olcPixelGameEngine) - The official distribution of olcPixelGameEngine, a tool used in javidx9's YouTube videos and projects. \[OLC3]
+*   [PixelGameEngine (⭐3.9k)](https://github.com/OneLoneCoder/olcPixelGameEngine) - The official distribution of olcPixelGameEngine, a tool used in javidx9's YouTube videos and projects. \[OLC3]
 
 ### Serialization
 
-*   [YAS (⭐729)](https://github.com/niXman/yas) - Very fast **Y**et **A**nother **S**erialization library supports the binary/text/json formats. \[Boost]
+*   [YAS (⭐738)](https://github.com/niXman/yas) - Very fast **Y**et **A**nother **S**erialization library supports the binary/text/json formats. \[Boost]
 
 ## [35. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
@@ -495,14 +495,14 @@ Topics: Accessibility\
 
 ## [36. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
-### Phone Number Research / Telegram
+### Phone Number Research / Steam
 
 *   [Phone Validator](https://www.phonevalidator.com/index.aspx) - Pretty accurate phone lookup service, particularly good against Google Voice numbers.
 
-### Other Tools / Telegram
+### Other Tools / Steam
 
 *   [Photon (⭐11k)](https://github.com/s0md3v/Photon) - Crawler designed for OSINT
-*   [Zen (⭐551)](https://github.com/s0md3v/Zen) - Find email addresses of Github users urls and other data effortlessly
+*   [Zen (⭐558)](https://github.com/s0md3v/Zen) - Find email addresses of Github users urls and other data effortlessly
 
 ## [37. Awesome Asyncio](/content/timofurrer/awesome-asyncio/week/README.md)
 
@@ -576,43 +576,42 @@ Topics: Accessibility\
 
 ### UI / Calendar
 
-*   [Calendar Widget (⭐246)](https://github.com/pinkfish/flutter_calendar) <!--stargazers:pinkfish/flutter_calendar--> - Calendar widget by [David Bennett](https://github.com/pinkfish)
+*   [Calendar Widget (⭐243)](https://github.com/pinkfish/flutter_calendar) <!--stargazers:pinkfish/flutter_calendar--> - Calendar widget by [David Bennett](https://github.com/pinkfish)
 
 ## [45. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### CLI / Argument Parsing
 
 *   [JCommander](http://jcommander.org) - Command-line argument-parsing framework with custom types and validation via implementing interfaces.
-*   [JLine (⭐1.4k)](https://github.com/jline/jline3) - Includes features from modern shells like completion or history.
+*   [JLine (⭐1.5k)](https://github.com/jline/jline3) - Includes features from modern shells like completion or history.
 
 ### CLI / Text-Based User Interfaces
 
 *   [Jansi (⭐1.1k)](https://github.com/fusesource/jansi) - ANSI escape codes to format console output.
-*   [Text-IO (⭐338)](https://github.com/beryx/text-io) - Aids the creation of full console-based applications.
+*   [Text-IO (⭐343)](https://github.com/beryx/text-io) - Aids the creation of full console-based applications.
 
 ### Networking / Text-Based User Interfaces
 
-*   [TLS Channel (⭐187)](https://github.com/marianobarrios/tls-channel) - Implements a ByteChannel interface over SSLEngine, enabling easy-to-use (socket-like) TLS.
+*   [TLS Channel (⭐191)](https://github.com/marianobarrios/tls-channel) - Implements a ByteChannel interface over SSLEngine, enabling easy-to-use (socket-like) TLS.
 
 ### Security / Other
 
-*   [SecurityBuilder (⭐43)](https://github.com/tersesystems/securitybuilder) - Fluent Builder API for JCA and JSSE classes and especially X.509 certificates.
+*   [SecurityBuilder (⭐46)](https://github.com/tersesystems/securitybuilder) - Fluent Builder API for JCA and JSSE classes and especially X.509 certificates.
 
 ### Utility / Mocking
 
-*   [bucket4j (⭐2.2k)](https://github.com/vladimir-bukhtoyarov/bucket4j) - Rate limiting library based on token-bucket algorithm.
+*   [bucket4j (⭐2.3k)](https://github.com/vladimir-bukhtoyarov/bucket4j) - Rate limiting library based on token-bucket algorithm.
 
 ## [46. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Platforms
 
-*   [Home Assistant (⭐5.9k)](https://github.com/frenck/awesome-home-assistant#readme) - Open source home automation that puts local control and privacy first.
+*   [Home Assistant (⭐6.3k)](https://github.com/frenck/awesome-home-assistant#readme) - Open source home automation that puts local control and privacy first.
 
 ## [47. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
 
 ### Resources for Web Publishers
 
-*   [Stanford Libraries' Archivability pages](https://library.stanford.edu/projects/web-archiving/archivability)
 *   The [Archive Ready](http://archiveready.com/) tool, for estimating how likely a web page will be archived successfully.
 
 ## [48. Awesome Xamarin](/content/XamSome/awesome-xamarin/week/README.md)
@@ -635,7 +634,7 @@ Topics: Accessibility\
 
 ### Apps
 
-*   [Urteile & Gesetze (⭐15)](https://github.com/neo-search/urteile-gesetze-web) - German Legal Information System licensed under GPLv3.
+*   [Urteile & Gesetze](https://github.com/neo-search/urteile-gesetze-web) - German Legal Information System licensed under GPLv3.
 
 ## [51. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
@@ -722,7 +721,6 @@ Topics: Accessibility\
 ### Components & Libraries / UI Components
 
 *   [VCalendar](https://vcalendar.io/) Very customizable and powerful calendar/datepicker component with many features and good documentation.
-*   [vue-page-guide (⭐54)](https://github.com/sschandi/vue-page-guide) - Page tour / guide plugin with directive
 
 ## [56. Awesome Qa](/content/seriousran/awesome-qa/week/README.md)
 
@@ -1187,8 +1185,6 @@ Topics: Accessibility\
 
   CORS: Unknown
 
-  Call this API: 
-
 
 - API: [Trello](https://developers.trello.com/)
 
@@ -1199,8 +1195,6 @@ Topics: Accessibility\
   HTTPS: Yes
 
   CORS: Unknown
-
-  Call this API: 
 
 
 
@@ -1304,7 +1298,7 @@ Topics: Accessibility\
 
 ### Jobs
 
-- API: [Open Skills (⭐192)](https://github.com/workforce-data-initiative/skills-api/wiki/API-Overview)
+- API: [Open Skills (⭐197)](https://github.com/workforce-data-initiative/skills-api/wiki/API-Overview)
 
   Description: Job titles, skills and related jobs data
 
@@ -1447,8 +1441,8 @@ Topics: Accessibility\
 
 ### Tools / Data
 
-*   [mongo\_fdw (⭐323)](https://github.com/EnterpriseDB/mongo_fdw) - PostgreSQL foreign data wrapper
-*   [Mongolastic (⭐137)](https://github.com/ozlerhakan/mongolastic) - MongoDB to Elasticsearch (and vice-versa) migration tool
+*   [mongo\_fdw (⭐332)](https://github.com/EnterpriseDB/mongo_fdw) - PostgreSQL foreign data wrapper
+*   [Mongolastic (⭐135)](https://github.com/ozlerhakan/mongolastic) - MongoDB to Elasticsearch (and vice-versa) migration tool
 *   [MongoMultiMaster (⭐69)](https://github.com/rick446/mmm) - Multi-master replication
 
 ### Tools / Monitoring
@@ -1471,21 +1465,21 @@ Topics: Accessibility\
 
 ### Domain-specific language
 
-*   [JSON-LD.ex (⭐72)](https://github.com/marcelotto/jsonld-ex) - An implementation of the [JSON-LD](http://www.w3.org/TR/json-ld/) standard for [RDF.ex (⭐96)](https://github.com/marcelotto/rdf-ex).
-*   [RDF.ex (⭐96)](https://github.com/marcelotto/rdf-ex) - An implementation of the [RDF](https://www.w3.org/TR/rdf11-primer/) data model in Elixir.
-*   [SPARQL.ex (⭐38)](https://github.com/marcelotto/sparql-ex) - An implementation of the [SPARQL](http://www.w3.org/TR/sparql11-overview/) standards in Elixir.
+*   [JSON-LD.ex (⭐75)](https://github.com/marcelotto/jsonld-ex) - An implementation of the [JSON-LD](http://www.w3.org/TR/json-ld/) standard for [RDF.ex (⭐110)](https://github.com/marcelotto/rdf-ex).
+*   [RDF.ex (⭐110)](https://github.com/marcelotto/rdf-ex) - An implementation of the [RDF](https://www.w3.org/TR/rdf11-primer/) data model in Elixir.
+*   [SPARQL.ex (⭐39)](https://github.com/marcelotto/sparql-ex) - An implementation of the [SPARQL](http://www.w3.org/TR/sparql11-overview/) standards in Elixir.
 
 ### Feature Flags and Toggles
 
-*   [fun\_with\_flags (⭐1k)](https://github.com/tompave/fun_with_flags) - A feature toggle library using Redis or Ecto for persistence, an ETS cache for speed and PubSub for distributed cache busting. Comes with a management web UI for Phoenix and Plug.
+*   [fun\_with\_flags (⭐1.1k)](https://github.com/tompave/fun_with_flags) - A feature toggle library using Redis or Ecto for persistence, an ETS cache for speed and PubSub for distributed cache busting. Comes with a management web UI for Phoenix and Plug.
 
 ### HTTP
 
-*   [sparql\_client (⭐25)](https://github.com/marcelotto/sparql_client) - A [SPARQL protocol](https://www.w3.org/TR/sparql11-protocol/) client for Elixir.
+*   [sparql\_client (⭐28)](https://github.com/marcelotto/sparql_client) - A [SPARQL protocol](https://www.w3.org/TR/sparql11-protocol/) client for Elixir.
 
 ### Instrumenting / Monitoring
 
-*   [spandex (⭐333)](https://github.com/spandex-project/spandex) - Platform agnostic tracing library originally developed for Datadog APM.
+*   [spandex (⭐336)](https://github.com/spandex-project/spandex) - Platform agnostic tracing library originally developed for Datadog APM.
 
 ### Miscellaneous
 
@@ -1493,19 +1487,19 @@ Topics: Accessibility\
 
 ### ORM and Datamapping
 
-*   [ecto\_cassandra (⭐88)](https://github.com/cafebazaar/ecto-cassandra) - Cassandra DB Adapter for Ecto.
-*   [extreme (⭐129)](https://github.com/exponentially/extreme) - An Elixir library using [Eventstore](https://geteventstore.com) for persistence of events generated by aggregates (CQRS).
+*   [ecto\_cassandra (⭐87)](https://github.com/cafebazaar/ecto-cassandra) - Cassandra DB Adapter for Ecto.
+*   [extreme (⭐131)](https://github.com/exponentially/extreme) - An Elixir library using [Eventstore](https://geteventstore.com) for persistence of events generated by aggregates (CQRS).
 *   [triton (⭐80)](https://github.com/blitzstudios/triton) - Pure Elixir Cassandra ORM built on top of Xandra.
-*   [xandra (⭐391)](https://github.com/lexhide/xandra) - Cassandra driver built natively in Elixir and focused on speed, simplicity, and robustness.
+*   [xandra (⭐408)](https://github.com/lexhide/xandra) - Cassandra driver built natively in Elixir and focused on speed, simplicity, and robustness.
 
 ### Search
 
-*   [elasticsearch (⭐420)](https://github.com/infinitered/elasticsearch-elixir) - A simple, no-nonsense Elasticsearch library for Elixir.
+*   [elasticsearch (⭐421)](https://github.com/infinitered/elasticsearch-elixir) - A simple, no-nonsense Elasticsearch library for Elixir.
 
 ### Text and Numbers
 
 *   [ex\_cldr (⭐1)](https://github.com/kipcole9/cldr) - Cldr is an Elixir library for the Unicode Consortium's Common Locale Data Repository (CLDR).
-*   [unit\_fun (⭐21)](https://github.com/meadsteve/unit_fun) - Attempt to add units to numbers in elixir to give some added type safety when dealing with numeric quantities.
+*   [unit\_fun (⭐22)](https://github.com/meadsteve/unit_fun) - Attempt to add units to numbers in elixir to give some added type safety when dealing with numeric quantities.
 
 ### Third Party APIs
 
@@ -1537,11 +1531,11 @@ Topics: Accessibility\
 
 ### CLI Utilities
 
-*   [colorize (⭐1.2k)](https://github.com/fazibear/colorize) - Extends String class or add a ColorizedString with methods to set text color, background color and text effects.
+*   [colorize (⭐1.3k)](https://github.com/fazibear/colorize) - Extends String class or add a ColorizedString with methods to set text color, background color and text effects.
 
 ### Country Data
 
-*   [Phonelib (⭐1k)](https://github.com/daddyz/phonelib) - Ruby gem for phone validation and formatting using Google libphonenumber library data.
+*   [Phonelib (⭐1.1k)](https://github.com/daddyz/phonelib) - Ruby gem for phone validation and formatting using Google libphonenumber library data.
 *   [Phony (⭐1k)](https://github.com/floere/phony) - Fast international phone number (E164 standard) normalizing, splitting and formatting.
 
 ### DevOps Tools
@@ -1563,12 +1557,12 @@ Topics: Accessibility\
 ### Optimizations
 
 *   [bootsnap (⭐2.7k)](https://github.com/Shopify/bootsnap) - Boot large Ruby/Rails apps faster.
-*   [fast\_blank (⭐613)](https://github.com/SamSaffron/fast_blank) - Provides a C-optimized method for determining if a string is blank.
+*   [fast\_blank (⭐614)](https://github.com/SamSaffron/fast_blank) - Provides a C-optimized method for determining if a string is blank.
 *   [yajl-ruby (⭐1.5k)](https://github.com/brianmario/yajl-ruby) - A streaming JSON parsing and encoding library for Ruby (C bindings to yajl).
 
 ### Performance Monitoring
 
-*   [Scout (⭐195)](https://github.com/scoutapp/scout_apm_ruby) - Scout Ruby Application Monitoring Agent.
+*   [Scout (⭐203)](https://github.com/scoutapp/scout_apm_ruby) - Scout Ruby Application Monitoring Agent.
 
 ## [65. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
@@ -1578,15 +1572,15 @@ Topics: Accessibility\
 
 ### Key Value Store
 
-*   [Defaults (⭐1.9k)](https://github.com/sindresorhus/Defaults) - Strongly-typed UserDefaults with support for Codable and key observation.
+*   [Defaults (⭐2k)](https://github.com/sindresorhus/Defaults) - Strongly-typed UserDefaults with support for Codable and key observation.
 
 ### Streaming / Barcode
 
-*   [HaishinKit (⭐2.7k)](https://github.com/shogo4405/HaishinKit.swift) - Camera and Microphone streaming library via RTMP, HLS for iOS, macOS, tvOS.
+*   [HaishinKit (⭐2.8k)](https://github.com/shogo4405/HaishinKit.swift) - Camera and Microphone streaming library via RTMP, HLS for iOS, macOS, tvOS.
 
 ### Video / Barcode
 
-*   [Kitsunebi (⭐259)](https://github.com/noppefoxwolf/Kitsunebi) - Overlay alpha channel video animation player view using OpenGLES.
+*   [Kitsunebi (⭐261)](https://github.com/noppefoxwolf/Kitsunebi) - Overlay alpha channel video animation player view using OpenGLES.
 
 ## [66. Bots](/content/hackerkid/bots/week/README.md)
 

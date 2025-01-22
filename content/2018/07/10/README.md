@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 10, 2018
 
-8 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,20 +10,20 @@
 
 ### Auth / Image Picker
 
-*   [SimpleAuth (⭐351)](https://github.com/Clancey/simple_auth) <!--stargazers:Clancey/simple_auth--> - Azure Active Directory, Amazon, Dropbox, Facebook, Github, Google, Instagram, Linked In, Microsoft Live Connect, Github, OAuth, Basic Auth by [James Clancey](https://github.com/Clancey)
+*   [SimpleAuth (⭐352)](https://github.com/Clancey/simple_auth) <!--stargazers:Clancey/simple_auth--> - Azure Active Directory, Amazon, Dropbox, Facebook, Github, Google, Instagram, Linked In, Microsoft Live Connect, Github, OAuth, Basic Auth by [James Clancey](https://github.com/Clancey)
 
 ## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Math
 
-*   [StatsLib (⭐514)](https://github.com/kthohr/stats) - A C++ header-only library of statistical distribution functions. \[Apache2] [website](https://www.kthohr.com/statslib.html)
+*   [StatsLib (⭐538)](https://github.com/kthohr/stats) - A C++ header-only library of statistical distribution functions. \[Apache2] [website](https://www.kthohr.com/statslib.html)
 
 ## [3. Awesome Design Patterns](/content/DovAmir/awesome-design-patterns/README.md)
 
 ### Programming Language Design Patterns
 
 *   Go
-    *   [design-patterns (⭐23k)](https://github.com/tmrts/go-patterns)
+    *   [design-patterns (⭐25k)](https://github.com/tmrts/go-patterns)
 
 ## [4. Awesome Diversity](/content/folkswhocode/awesome-diversity/README.md)
 
@@ -31,13 +31,7 @@
 
 *   [Women Who Go](https://www.womenwhogo.org/) - A network focused on building a more diverse and inclusive Golang community.
 
-## [5. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
-
-### Job boards
-
-*   [HackerX](https://www.hackerx.org/jobs/)
-
-## [6. Awesome Webgl](/content/sjfricke/awesome-webgl/README.md)
+## [5. Awesome Webgl](/content/sjfricke/awesome-webgl/README.md)
 
 ### References
 
@@ -59,13 +53,13 @@
 
 *   [CopperLicht](https://www.ambiera.com/copperlicht/index.html) - JavaScript library and WebGL 3D engine for creating games and 3D applications.
 
-## [7. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
+## [6. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 
 ### Malware Collection / Malware Corpora
 
 *   [VirusBay](https://beta.virusbay.io/) - Community-Based malware repository and social network.
 
-## [8. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [7. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Utilities / Menu Bar Tools
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 28, 2018
 
-13 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -89,13 +89,7 @@
 *   [C# FixFormat](https://marketplace.visualstudio.com/items?itemName=Leopotam.csharpfixformat) - Fix format of usings / indents / braces / empty lines
 *   [C# Extensions](https://marketplace.visualstudio.com/items?itemName=jchannon.csharpextensions) - Provides extensions to the IDE that will speed up your development workflow.
 
-## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / Utilities
-
-*   [vue-lodash (⭐105)](https://github.com/Ewocker/vue-lodash) - A simple wrapper for integrating lodash to Vue 2.
-
-## [13. Awesome Ripple](/content/vhpoet/awesome-ripple/README.md)
+## [12. Awesome Ripple](/content/vhpoet/awesome-ripple/README.md)
 
 ### Code
 

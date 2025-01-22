@@ -21,13 +21,13 @@
 
 ### Deployment / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [Zerops](https://zerops.io/) - Zerops makes deploying and running Analog apps, both [server side rendered (⭐2)](https://github.com/zeropsio/recipe-analog-nodejs) and [static (⭐3)](https://github.com/zeropsio/recipe-analog-static), a breeze.
+*   [Zerops](https://zerops.io/) - Zerops makes deploying and running Analog apps, both [server side rendered (⭐2)](https://github.com/zeropsio/recipe-analog-nodejs) and [static (⭐4)](https://github.com/zeropsio/recipe-analog-static), a breeze.
 
 ## [3. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Design patterns / Chrome Extensions
 
-*   :octocat: [Real World Design Patterns (⭐67)](https://github.com/vahidvdn/realworld-design-patterns) - Real World Design Patterns with Tests
+*   :octocat: [Real World Design Patterns (⭐122)](https://github.com/vahidvdn/realworld-design-patterns) - Real World Design Patterns with Tests
 
 ---
 

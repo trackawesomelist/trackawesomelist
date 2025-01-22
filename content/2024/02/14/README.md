@@ -16,7 +16,7 @@
 
 ### Literate programming / Third-party APIs
 
-*   [papyrus (⭐44)](https://github.com/tani/papyrus) - Papyrus makes your markdown executable with the reader macro of Common Lisp.[MIT](https://opensource.org/licenses/MIT)
+*   [papyrus (⭐49)](https://github.com/tani/papyrus) - Papyrus makes your markdown executable with the reader macro of Common Lisp.[MIT](https://opensource.org/licenses/MIT)
 
 ## [3. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
 
@@ -54,13 +54,13 @@
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [unplugin-detect-duplicated-deps (⭐74)](https://github.com/tjx666/unplugin-detect-duplicated-deps) - Detect duplicate packaged dependencies.
+*   [unplugin-detect-duplicated-deps (⭐78)](https://github.com/tjx666/unplugin-detect-duplicated-deps) - Detect duplicate packaged dependencies.
 
 ## [6. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 
 ### Tools / Templates & Starter Kits
 
-*   [State Design System (DSFR) starter (⭐34)](https://github.com/numerique-gouv/content-manager) - Wagtail template and starter kit from the French government.
+*   [State Design System (DSFR) starter (⭐36)](https://github.com/numerique-gouv/content-manager) - Wagtail template and starter kit from the French government.
 
 ## [7. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
@@ -70,7 +70,7 @@
 
 ### Resources / API Specification
 
-*   [API Blueprint (⭐8.6k) (⭐8.6k)](https://github.com/apiaryio/api-blueprint) - A powerful high-level language for designing and documenting APIs that allows software engineers to easily collaborate and create efficient APIs.
+*   [API Blueprint (⭐8.6k) (⭐8.7k)](https://github.com/apiaryio/api-blueprint) - A powerful high-level language for designing and documenting APIs that allows software engineers to easily collaborate and create efficient APIs.
 
 ## [8. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
@@ -82,27 +82,27 @@
 
 ### Platforms
 
-*   [Bluetooth Low Energy (⭐39)](https://github.com/dotintent/awesome-ble#readme) - Low-power wireless communication protocol ideal for IoT, wearables, and other battery-powered applications.
-*   [Uno Platform (⭐38)](https://github.com/MartinZikmund/awesome-uno-platform#readme) - Open-source .NET UI platform for building cross-platform apps.
+*   [Bluetooth Low Energy (⭐78)](https://github.com/dotintent/awesome-ble#readme) - Low-power wireless communication protocol ideal for IoT, wearables, and other battery-powered applications.
+*   [Uno Platform (⭐45)](https://github.com/MartinZikmund/awesome-uno-platform#readme) - Open-source .NET UI platform for building cross-platform apps.
 
 ### Front-End Development
 
-*   [Frontend GIS (⭐364)](https://github.com/joewdavies/awesome-frontend-gis#readme) - Geographic Information Systems (GIS) for web browsers.
+*   [Frontend GIS (⭐469)](https://github.com/joewdavies/awesome-frontend-gis#readme) - Geographic Information Systems (GIS) for web browsers.
 
 ### Back-End Development
 
-*   [Kustomize (⭐90)](https://github.com/DevOpsHiveHQ/awesome-kustomize#readme) - Kubernetes native declarative configuration management tool.
+*   [Kustomize (⭐97)](https://github.com/DevOpsHiveHQ/awesome-kustomize#readme) - Kubernetes native declarative configuration management tool.
 
 ### Miscellaneous
 
-*   [Stock Trading (⭐88)](https://github.com/shi-rudo/awesome-stock-trading#readme) - Purchase and sale of equities of publicly traded companies with the aim of generating profits.
-*   [Astrophotography (⭐59)](https://github.com/lunohodov/awesome-astrophotography#readme) - Photography of astronomical objects, celestial events, or areas of the night sky.
+*   [Stock Trading (⭐142)](https://github.com/shi-rudo/awesome-stock-trading#readme) - Purchase and sale of equities of publicly traded companies with the aim of generating profits.
+*   [Astrophotography (⭐77)](https://github.com/lunohodov/awesome-astrophotography#readme) - Photography of astronomical objects, celestial events, or areas of the night sky.
 
 ## [10. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
-### Plugins and scripts / Various Godot versions
+### Plugins and scripts / Godot 4
 
-*   [Godot Spin Button (⭐57)](https://github.com/yudinikita/godot-spin-button) - Horizontal Selector with extended options (Godot 4.x).
+*   [Godot Spin Button (⭐76)](https://github.com/yudinikita/godot-spin-button) - Horizontal Selector with extended options.
 
 ---
 

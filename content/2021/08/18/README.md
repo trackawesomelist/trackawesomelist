@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 18, 2021
 
-5 awesome lists updated today.
+4 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,13 +10,13 @@
 
 ### Packages / General Purpose Libraries
 
-*   [Apache DataFu (⭐103)](https://github.com/apache/datafu/tree/master/datafu-spark) <img src="https://img.shields.io/github/last-commit/apache/datafu.svg"> - A library of general purpose functions and UDF's.
+*   [Apache DataFu (⭐115)](https://github.com/apache/datafu/tree/master/datafu-spark) <img src="https://img.shields.io/github/last-commit/apache/datafu.svg"> - A library of general purpose functions and UDF's.
 
 ## [2. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Utilities / Menu Bar Tools
 
-*   [SwiftBar (⭐2.9k)](https://github.com/swiftbar/SwiftBar/) - Powerful macOS menu bar customization tool. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/swiftbar/SwiftBar/)
+*   [SwiftBar (⭐3k)](https://github.com/swiftbar/SwiftBar/) - Powerful macOS menu bar customization tool. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/swiftbar/SwiftBar/)
 
 ## [3. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/README.md)
 
@@ -24,13 +24,7 @@
 
 *   [Functional Programming in Scala, Second Edition](https://www.manning.com/books/functional-programming-in-scala-second-edition) - International bestseller revised with new exercises, annotations, and full coverage of Scala 3.
 
-## [4. Awesome React](/content/enaqx/awesome-react/README.md)
-
-### React Styling
-
-*   [linaria (⭐11k)](https://github.com/callstack/linaria) - Zero-Runtime CSS in JS library
-
-## [5. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [4. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### Image Synthesis / Multi-agents
 

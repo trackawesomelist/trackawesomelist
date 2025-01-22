@@ -16,23 +16,23 @@
 
 ### Fraud / Trust Score
 
-*   [Awesome Credit Modeling (⭐108)](https://github.com/mourarthur/awesome-credit-modeling#readme) - How to use statistical methods to classify applicants into categories to reduce risks. Lots of inspiration and research papers there to improve general scoring.
+*   [Awesome Credit Modeling (⭐123)](https://github.com/mourarthur/awesome-credit-modeling#readme) - How to use statistical methods to classify applicants into categories to reduce risks. Lots of inspiration and research papers there to improve general scoring.
 
 ## [3. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
 
 ### Serialization
 
-*   [cbor (⭐25)](https://github.com/ygrek/ocaml-cbor) —  OCaml native [CBOR](https://cbor.io/) decoder/encoder.
+*   [cbor (⭐24)](https://github.com/ygrek/ocaml-cbor) —  OCaml native [CBOR](https://cbor.io/) decoder/encoder.
 
 ### Testing
 
-*   [expect-test (⭐141)](https://github.com/janestreet/ppx_expect) — A framework for writing tests in OCaml, similar to [Cram](https://bitheap.org/cram/), developed by [JaneStreet](https://blog.janestreet.com/testing-with-expectations/).
+*   [expect-test (⭐145)](https://github.com/janestreet/ppx_expect) — A framework for writing tests in OCaml, similar to [Cram](https://bitheap.org/cram/), developed by [JaneStreet](https://blog.janestreet.com/testing-with-expectations/).
 
 ## [4. Awesome Selenium](/content/christian-bromann/awesome-selenium/README.md)
 
 ### Tools / Python
 
-*   [Helium (⭐3.5k)](https://github.com/mherrmann/selenium-python-helium) - Helium makes Selenium easier and faster to use
+*   [Helium (⭐7.2k)](https://github.com/mherrmann/selenium-python-helium) - Helium makes Selenium easier and faster to use
 
 ## [5. Public Apis](/content/public-apis/public-apis/README.md)
 

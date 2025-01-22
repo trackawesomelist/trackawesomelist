@@ -33,15 +33,9 @@
 
 ## [5. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/README.md)
 
-### Reading
-
-*   [tagesschau-widget](https://github.com/trbnhck/scriptable-scripts/tree/main/tagesschau-widget) - The latest article from the German news site *Tagesschau*.
-
-    <img src="https://camo.githubusercontent.com/a90be978f61e852bddd16233548c44211d3f2de1a2ac5285c352e0c0bfe0d4f9/68747470733a2f2f696d6775722e636f6d2f696f65576869792e6a7067" width="400"/>
-
 ### Shopping
 
-*   [exchangeRate.js (⭐182)](https://github.com/Juniorchen2012/scriptable/blob/master/exchangeRate.js) - Currency exchange rates.
+*   [exchangeRate.js (⭐184)](https://github.com/Juniorchen2012/scriptable/blob/master/exchangeRate.js) - Currency exchange rates.
 *   [dm-toilet-paper.js](https://gist.github.com/marco79cgn/23ce08fd8711ee893a3be12d4543f2d2) - Toilet paper availability in a nearby drugstore.
 
     <img src="https://user-images.githubusercontent.com/9810829/96903902-b3418e80-1496-11eb-954c-1e2d9b8f9c69.JPG" width="400"/>

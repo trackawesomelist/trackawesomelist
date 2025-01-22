@@ -77,8 +77,8 @@
 
 ### Example Projects
 
-*   [Examples from Keycloak Book: Keycloak - Identity and Access Management for Modern Applications (⭐244)](https://github.com/PacktPublishing/Keycloak-Identity-and-Access-Management-for-Modern-Applications)
-*   [Example of adding API Key authentication to Keycloak (⭐110)](https://github.com/zak905/keycloak-api-key-demo)
+*   [Examples from Keycloak Book: Keycloak - Identity and Access Management for Modern Applications (⭐253)](https://github.com/PacktPublishing/Keycloak-Identity-and-Access-Management-for-Modern-Applications)
+*   [Example of adding API Key authentication to Keycloak (⭐120)](https://github.com/zak905/keycloak-api-key-demo)
 
 ### Miscellaneous
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 28, 2019
 
-15 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -89,13 +89,7 @@ Topics: JavaScript, TypeScript, React, Angular, RxJS, Async, Architecture\
 
 *   [Like-my-GF (⭐396)](https://github.com/cyandterry/Like-My-GF) - This is an auto-robot to like your girlfriend's post on Instagram.
 
-## [12. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
-
-### Relocation Incentives
-
-*   [Live And Work In Maine](https://www.liveandworkinmaine.com/opportunity-maine/) - The amount spent on student loan payments each year is subtracted from your state income taxes. Out-of-state residents must have earned their bachelors or associates degrees after 2015 to qualify.
-
-## [13. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
+## [12. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
 
 ### Autobiographies and Biographies
 
@@ -151,13 +145,13 @@ Topics: JavaScript, TypeScript, React, Angular, RxJS, Async, Architecture\
 
 
 
-## [14. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
+## [13. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
 
 ### Contents / Language bindings
 
 *   Clojure: [clj-postgresql (⭐161)](https://github.com/remodoy/clj-postgresql)
 
-## [15. Public Apis](/content/public-apis/public-apis/README.md)
+## [14. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Open Data
 

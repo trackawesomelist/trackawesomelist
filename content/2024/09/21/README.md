@@ -10,7 +10,7 @@
 
 ### Utilities / Clipboard Tools
 
-*   [Yippy (⭐355)](https://github.com/mattDavo/Yippy) - Clipboard manager with user-friendly UI. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/mattDavo/Yippy) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Yippy (⭐370)](https://github.com/mattDavo/Yippy) - Clipboard manager with user-friendly UI. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/mattDavo/Yippy) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [2. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -22,16 +22,16 @@
 
 ### Database clients
 
-*   [redict (⭐0)](https://github.com/einar-hjortdal/redict) - Client for Redict, a LGPL-3.0-only fork of Redis (compatible with Redis <=7.2.4).
+*   [redict (⭐2)](https://github.com/einar-hjortdal/redict) - Client for Redict, a LGPL-3.0-only fork of Redis (compatible with Redis <=7.2.4).
 
 ### Text processing
 
-*   [slugify (⭐1)](https://github.com/einar-hjortdal/slugify) - Transform Unicode strings to url-friendly human-readable ASCII slugs.
-*   [lexical\_uuid (⭐2)](https://github.com/einar-hjortdal/lexical_uuid) - Lexicographically-sortable universally unique identifiers.
+*   [slugify (⭐3)](https://github.com/einar-hjortdal/slugify) - Transform Unicode strings to url-friendly human-readable ASCII slugs.
+*   [lexical\_uuid (⭐4)](https://github.com/einar-hjortdal/lexical_uuid) - Lexicographically-sortable universally unique identifiers.
 
 ### Utility
 
-*   [dotenv (⭐1)](https://github.com/einar-hjortdal/dotenv) - Loads environment variables from a .env file for development purposes.
+*   [dotenv (⭐2)](https://github.com/einar-hjortdal/dotenv) - Loads environment variables from a .env file for development purposes.
 
 ### Web
 
@@ -41,8 +41,9 @@
 
 ### Miscellaneous
 
-*   [rapidhash (⭐129)](https://github.com/Nicoshev/rapidhash) - Very fast, high quality, platform-independent hashing algorithm. \[BSD-2-Clause]
+*   [rapidhash (⭐263)](https://github.com/Nicoshev/rapidhash) - Very fast, high quality, platform-independent hashing algorithm. \[BSD-2-Clause]
 
 ---
 
+- Prev: [Sep 22, 2024](/content/2024/09/22/README.md)
 - Next: [Sep 20, 2024](/content/2024/09/20/README.md)

@@ -10,7 +10,7 @@
 
 ### Applications / Web
 
-*   [importantimport/hatsu (⭐123)](https://github.com/importantimport/hatsu) - 🩵 Self-hosted and fully-automated ActivityPub bridge for static sites. [![release](https://github.com/importantimport/hatsu/actions/workflows/release.yml/badge.svg)](https://github.com/importantimport/hatsu/actions/workflows/release.yml)
+*   [importantimport/hatsu (⭐169)](https://github.com/importantimport/hatsu) - 🩵 Self-hosted and fully-automated ActivityPub bridge for static sites. [![release](https://github.com/importantimport/hatsu/actions/workflows/release.yml/badge.svg)](https://github.com/importantimport/hatsu/actions/workflows/release.yml)
 
 ## [2. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
 
@@ -24,30 +24,30 @@
 
 ### System and Customization
 
-*   [Luminance (⭐92)](https://github.com/sidevesh/Luminance) - Simple application to control brightness of displays (including external) supporting DDC/CI.
+*   [Luminance (⭐103)](https://github.com/sidevesh/Luminance) - Simple application to control brightness of displays (including external) supporting DDC/CI.
 *   [Bustle](https://flathub.org/apps/org.freedesktop.Bustle) - D-Bus activity viewer that draws diagram sequences.
 
 ## [3. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [vue-data-ui (⭐241)](https://github.com/graphieros/vue-data-ui) - Vue 3 chart library with 50+ components. Official site: <https://vue-data-ui.graphieros.com/>
+*   [vue-data-ui (⭐1.3k)](https://github.com/graphieros/vue-data-ui) - Vue 3 chart library with 50+ components. Official site: <https://vue-data-ui.graphieros.com/>
 
 ## [4. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### (requires Neovim 0.5) / Diagnostics
 
-*   [sontungexpt/better-diagnostic-virtual-text (⭐58)](https://github.com/sontungexpt/better-diagnostic-virtual-text) - Enhances the display of virtual text for diagnostics. This function aims to provide a more user-friendly and informative presentation of diagnostic messages directly within the editor.
+*   [sontungexpt/better-diagnostic-virtual-text (⭐74)](https://github.com/sontungexpt/better-diagnostic-virtual-text) - Enhances the display of virtual text for diagnostics. This function aims to provide a more user-friendly and informative presentation of diagnostic messages directly within the editor.
 
 ### Markdown and LaTeX / Diagnostics
 
-*   [OXY2DEV/markview.nvim (⭐1.1k)](https://github.com/OXY2DEV/markview.nvim) - An experimental markdown previewer.
+*   [OXY2DEV/markview.nvim (⭐2.2k)](https://github.com/OXY2DEV/markview.nvim) - Highly customisable markdown(latex & inline html) previewer.
 
 ## [5. Awesome Mysql](/content/shlomi-noach/awesome-mysql/README.md)
 
 ### Connectors
 
-*   [MyZql (⭐21)](https://github.com/speed2exe/myzql) - MySQL and MariaDB driver in native Zig.
+*   [MyZql (⭐32)](https://github.com/speed2exe/myzql) - MySQL and MariaDB driver in native Zig.
 
 ## [6. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 

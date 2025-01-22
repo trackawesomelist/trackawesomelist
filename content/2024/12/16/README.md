@@ -8,7 +8,7 @@
 
 ## [1. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
-### Sensors / Barometer
+### Sensors / Barometer - Air and Water Pressure
 
 *   [MicroPython-BMPxxx (⭐1)](https://github.com/bradcar/MicroPython_BMPxxx) - Driver for BMP585, BMP581, BMP390, BMP280 Bosch temperature/pressure sensors.
 
@@ -77,13 +77,13 @@
 
 ### Framework Components
 
-*   [phoenix\_storybook (⭐726)](https://github.com/phenixdigital/phoenix_storybook) - A pluggable storybook for your Phoenix components.
+*   [phoenix\_storybook (⭐744)](https://github.com/phenixdigital/phoenix_storybook) - A pluggable storybook for your Phoenix components.
 
 ## [5. Awesome for Beginners](/content/MunGell/awesome-for-beginners/README.md)
 
 ### Kotlin
 
-*   [Scribe-Android (⭐41)](https://github.com/scribe-org/Scribe-Android) *(label: good first issue)* <br> Android keyboards for language learners with translation, verb conjugation and more!
+*   [Scribe-Android (⭐45)](https://github.com/scribe-org/Scribe-Android) *(label: good first issue)* <br> Android keyboards for language learners with translation, verb conjugation and more!
 
 ## [6. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
@@ -93,11 +93,11 @@
 
 ### Documentation tools / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [trakk.js (⭐2)](https://github.com/trakkjs/trakk-js) - Automatic Documentation Generation / Real-Time Code Execution Flow / Testing / Debugging / Onboarding for Front-End Applications.
+*   [trakk.js (⭐3)](https://github.com/trakkjs/trakk-js) - Automatic Documentation Generation / Real-Time Code Execution Flow / Testing / Debugging / Onboarding for Front-End Applications.
 
 ### Misc Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ng-whiteboard (⭐51)](https://github.com/mostafazke/ng-whiteboard) - Lightweight Angular whiteboard component.
+*   [ng-whiteboard (⭐53)](https://github.com/mostafazke/ng-whiteboard) - Lightweight Angular whiteboard component.
 
 ## [7. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
@@ -107,4 +107,5 @@
 
 ---
 
+- Prev: [Dec 17, 2024](/content/2024/12/17/README.md)
 - Next: [Dec 15, 2024](/content/2024/12/15/README.md)

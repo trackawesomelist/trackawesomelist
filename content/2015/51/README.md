@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 21 - Dec 27, 2015
 
-34 awesome lists updated this week.
+33 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -65,25 +65,19 @@
 
 *   Amazon Web Services in Action [Manning](https://www.manning.com/books/amazon-web-services-in-action) or [Amazon.com](http://amzn.com/1617292885)
 
-## [4. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
-
-### Table of Contents / Static Site Generators
-
-*   [Spress](http://spress.yosymfony.com) - An extensible tool that converts Markdown and Twig into HTML.
-
-## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [4. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### XML
 
 *   [TinyXML++ (⭐92)](https://github.com/rjpcomputing/ticpp) - A completely new interface to TinyXML that uses MANY of the C++ strengths. Templates, exceptions, and much better error handling. \[MIT]
 
-## [6. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [5. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### Storage / Scala
 
 *   [Druid](http://druid.io/) - Fast column-oriented distributed data store.
 
-## [7. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
+## [6. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
 
 ### JavaScript tools / Charting libraries
 
@@ -93,7 +87,7 @@
 
 *   [Gephi (⭐5k)](https://github.com/gephi/gephi) - An open-source platform for visualizing and manipulating large graphs
 
-## [8. Awesome Purescript](/content/passy/awesome-purescript/week/README.md)
+## [7. Awesome Purescript](/content/passy/awesome-purescript/week/README.md)
 
 ### UI Libraries
 
@@ -103,52 +97,52 @@
 
 *   [PureScript for Haskellers by Dennis Gosnell](http://www.arow.info/blog/posts/2015-12-17-purescript-intro.html)
 
-## [9. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [8. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Development / Frontend Development
 
-*   [strip-css-comments-cli (⭐37)](https://github.com/sindresorhus/strip-css-comments-cli) - Strip comments from CSS.
-*   [viewport-list-cli (⭐59)](https://github.com/kevva/viewport-list-cli) - Return a list of devices and their viewports.
+*   [strip-css-comments-cli (⭐38)](https://github.com/sindresorhus/strip-css-comments-cli) - Strip comments from CSS.
+*   [viewport-list-cli (⭐61)](https://github.com/kevva/viewport-list-cli) - Return a list of devices and their viewports.
 
 ### Files and Directories / Deleting, Copying, and Renaming
 
 *   [trash-cli (⭐1.3k)](https://github.com/sindresorhus/trash-cli) - Move files and directories to the trash.
-*   [empty-trash-cli (⭐128)](https://github.com/sindresorhus/empty-trash-cli) - Empty the trash.
+*   [empty-trash-cli (⭐134)](https://github.com/sindresorhus/empty-trash-cli) - Empty the trash.
 
 ### Files and Directories / Directory Navigation
 
-*   [pm (⭐189)](https://github.com/Angelmmiguel/pm) - The easy way to switch to your projects on the shell.
+*   [pm (⭐194)](https://github.com/Angelmmiguel/pm) - The easy way to switch to your projects on the shell.
 *   [z (⭐16k)](https://github.com/rupa/z) - z is the new j, yo.
 
 ### Images / Gif Creation
 
-*   [gifsicle (⭐3.6k)](https://github.com/kohler/gifsicle) - Create, manipulate, and optimize GIF images and animations.
-*   [ttygif (⭐3.9k)](https://github.com/icholy/ttygif) - Convert terminal recordings to animated gifs.
-*   [ttygif (⭐265)](https://github.com/sugyan/ttygif) - ttyrec to gif.
+*   [gifsicle (⭐3.8k)](https://github.com/kohler/gifsicle) - Create, manipulate, and optimize GIF images and animations.
+*   [ttygif (⭐4k)](https://github.com/icholy/ttygif) - Convert terminal recordings to animated gifs.
+*   [ttygif (⭐269)](https://github.com/sugyan/ttygif) - ttyrec to gif.
 
 ### Graphics / Image Conversion
 
-*   [sparkly-cli (⭐131)](https://github.com/sindresorhus/sparkly-cli) - Generate sparklines ▁▂▃▅▂▇..
+*   [sparkly-cli (⭐140)](https://github.com/sindresorhus/sparkly-cli) - Generate sparklines ▁▂▃▅▂▇..
 
-## [10. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
+## [9. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
 ### Memory and concurrency
 
 *   [Reactor](http://projectreactor.io/) - Reactive data applications on the JVM for Java, Groovy, Clojure and other.
 
-## [11. Awesome Fuse](/content/fuse-compound/awesome-fuse/week/README.md)
+## [10. Awesome Fuse](/content/fuse-compound/awesome-fuse/week/README.md)
 
 ### Articles
 
 *   [Making mobile apps using Fuse](https://tmn.io/read/2015-11-22-making-mobile-apps-using-Fuse) - Written by [Tri Nguyen](https://github.com/tmn/).
 
-## [12. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [11. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Papers / [JavaScript on Things: Hardware for Web Developers](https://www.manning.com/books/javascript-on-things) (2018 - est.) *by [Lyza Danger Gardner](https://www.amazon.com/s/ref=dp_byline_sr_book_1?ie=UTF8&text=Lyza+Danger+Gardner&search-alias=books&field-author=Lyza+Danger+Gardner&sort=relevancerank)* [early access book]
 
 *   [The Internet of Things: Evolution or Revolution ?](http://www.aig.com/Chartis/internet/US/en/AIG%20White%20Paper%20-%20IoT%20English%20DIGITAL_tcm3171-677828_tcm3171-698578.pdf) - This white paper compares the current Internet of Things market rise to other industrial revolutions, the challenges it introduces, as well as its consequences on our daily lives.
 
-## [13. Awesome Selenium](/content/christian-bromann/awesome-selenium/week/README.md)
+## [12. Awesome Selenium](/content/christian-bromann/awesome-selenium/week/README.md)
 
 ### Tools / Javascript
 
@@ -158,33 +152,27 @@
 
 *   [Browserstack](https://www.browserstack.com/) - Test your website for cross browser compatibility on real browsers. Instant access to multiple desktop and mobile browsers. Get Free Trial.
 
-## [14. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [13. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Cloud
 
 *   [browse-everything (⭐114)](https://github.com/projecthydra/browse-everything) - Multi-provider Rails engine providing access to files in cloud storage.
 
-## [15. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [14. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Libs
 
-*   [Capcake (⭐114)](https://github.com/jadb/capcake) - Deploy CakePHP applications using Capistrano.
-*   [Chronos (⭐1.3k)](https://github.com/cakephp/chronos) - A simple standalone DateTime API extension (successor of Carbon).
+*   [Chronos (⭐1.4k)](https://github.com/cakephp/chronos) - A simple standalone DateTime API extension (successor of Carbon).
 *   [Composer Installers (⭐1.4k)](https://github.com/composer/installers) - A multi framework Composer library installer.
 *   [Composer](https://getcomposer.org/)/[Packagist](https://packagist.org/) - A package and dependency manager.
-*   [Graphviz (⭐72)](https://github.com/alexandresalome/graphviz) - A Graphviz library.
+*   [Graphviz (⭐73)](https://github.com/alexandresalome/graphviz) - A Graphviz library.
 *   [Rocketeer (⭐2.7k)](https://github.com/rocketeers/rocketeer) - PHP task runner and deployment package.
 
 ### Testing
 
 *   [CakePHP CodeSniffer rules (⭐238)](https://github.com/cakephp/cakephp-codesniffer) - The official CakePHP CS rules.
-*   [Faker plugin (⭐18)](https://github.com/gourmet/faker) - [Faker (⭐27k)](https://github.com/fzaninotto/Faker) support for CakePHP fixtures.
 
-### Help
-
-*   [CakePHP-FR.org](http://cakephp-fr.org) - The french community website.
-
-## [16. Tips](/content/git-tips/tips/week/README.md)
+## [15. Tips](/content/git-tips/tips/week/README.md)
 
 ## Show inline word diff.
 
@@ -202,18 +190,18 @@ git update-index --assume-unchanged <file_name>
 git update-index --no-assume-unchanged <file_name>
 ```
 
-## [17. Awesome Jquery](/content/petk/awesome-jquery/week/README.md)
+## [16. Awesome Jquery](/content/petk/awesome-jquery/week/README.md)
 
 ### Books / Free Books
 
 *   [JavaScript plus a dash of JQuery](http://nicholasjohnson.com/javascript-book/) - A Sensible Introduction to Coding with JavaScript and jQuery, *by Nicholas Johnson*.
-*   [jQuery fundamentals (⭐186)](https://github.com/bocoup/jqfundamentals.com) - Comfortable working through common problems you'll be called upon to solve using jQuery.
+*   [jQuery fundamentals (⭐184)](https://github.com/bocoup/jqfundamentals.com) - Comfortable working through common problems you'll be called upon to solve using jQuery.
 
 ### Community / Paid Books
 
 *   [Linked.in](https://www.linkedin.com/groups/100943) - Large and active group on Linked.in.
 
-## [18. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [17. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Companies / A companies
 
@@ -223,37 +211,37 @@ git update-index --no-assume-unchanged <file_name>
 
 *   Mykhailo Kozik <http://mishadoff.com/>
 
-## [19. Amas](/content/sindresorhus/amas/week/README.md)
+## [18. Amas](/content/sindresorhus/amas/week/README.md)
 
 ### Ask these people anything!
 
 *   [Armagan Amcalar (⭐1)](https://github.com/dashersw/ama) - Head of Software Engineering at unu GmbH. Software architect, entrepreneur, conference speaker, mentor, electronics engineer, guitar lover, singer.
 
-## [20. Awesome Atom](/content/mehcode/awesome-atom/week/README.md)
+## [19. Awesome Atom](/content/mehcode/awesome-atom/week/README.md)
 
 ### Lint
 
 *   [CSS](https://atom.io/packages/linter-stylelint) — stylelint
 
-## [21. Awesome Tech Videos](/content/lucasviola/awesome-tech-videos/week/README.md)
+## [20. Awesome Tech Videos](/content/lucasviola/awesome-tech-videos/week/README.md)
 
 ### Programming Languages / JavaScript
 
 *   [Babel 6.0](https://www.youtube.com/watch?v=Q_ncaTYEizc) By Sebastian McKenzie
 
-## [22. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [21. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Open Source / Other
 
 *   [Light Table (⭐12k)](https://github.com/LightTable/LightTable) - Code editor with instant feedback.
 
-## [23. Awesome Vagrant](/content/iJackUA/awesome-vagrant/week/README.md)
+## [22. Awesome Vagrant](/content/iJackUA/awesome-vagrant/week/README.md)
 
 ### Web services
 
 *   [Protobox](http://getprotobox.com/) - PuPHPet analog, but uses own installer with YAML configuration format to control everything that is installed on the virtual machine.
 
-## [24. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [23. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Natural Language Processing / Data Analysis / Data Visualization
 
@@ -261,13 +249,13 @@ git update-index --no-assume-unchanged <file_name>
 
 ### Python / Computer Vision
 
-*   [Scikit-Image (⭐6k)](https://github.com/scikit-image/scikit-image) - A collection of algorithms for image processing in Python.
+*   [Scikit-Image (⭐6.1k)](https://github.com/scikit-image/scikit-image) - A collection of algorithms for image processing in Python.
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
 *   [TDB (⭐1.4k)](https://github.com/ericjang/tdb) - TensorDebugger (TDB) is a visual debugger for deep learning. It features interactive, node-by-node debugging and visualization for TensorFlow.
 
-## [25. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
+## [24. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
 
 ### Comments
 
@@ -283,7 +271,7 @@ git update-index --no-assume-unchanged <file_name>
 *   [WebsiteAlive](https://www.websitealive.com/) - Live chat for your website & social networks.
 *   [Zopim](https://www.zopim.com/) - Live chat with free trial.
 
-## [26. Awesome Coldfusion](/content/seancoyne/awesome-coldfusion/week/README.md)
+## [25. Awesome Coldfusion](/content/seancoyne/awesome-coldfusion/week/README.md)
 
 ### Application Frameworks
 
@@ -332,26 +320,26 @@ git update-index --no-assume-unchanged <file_name>
 *   [Official Lucee Server Documentation](http://docs.lucee.org/) - New Lucee Documentation
 *   [Railo Documentation (⭐245)](https://github.com/getrailo/railo/wiki) - Official Railo docs
 
-## [27. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
+## [26. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### Haskell / Symfony2
 
 *   [Rest for Haskell (⭐389)](https://github.com/silkapp/rest) - This package allows you to create REST APIs in Haskell. These APIs can be run in different web frameworks. They can also be used to automatically generate documentation as well as client libraries.
 
-## [28. Awesome Rxjava](/content/eleventigers/awesome-rxjava/week/README.md)
+## [27. Awesome Rxjava](/content/eleventigers/awesome-rxjava/week/README.md)
 
 ### Utilities
 
 *   [rxjava-extras (⭐273)](https://github.com/davidmoten/rxjava-extras) - Utilities for use with RxJava.
 *   [RxActions (⭐33)](https://github.com/pakoito/RxActions) - Simple ActionN composition to use with RxJava.
 
-## [29. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [28. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Command-Line Productivity
 
 *   [desk (⭐2.5k)](https://github.com/jamesob/desk) - A lightweight workspace manager for the shell
 
-## [30. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
+## [29. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
 
 ### Cross Browser / Polyfills
 
@@ -373,17 +361,17 @@ git update-index --no-assume-unchanged <file_name>
 *   Chris Coyier [@chriscoyier](https://twitter.com/chriscoyier)
 *   Nicolas [@necolas](https://twitter.com/necolas)
 
-## [31. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [30. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Algorithms and Data structures
 
-*   [aruspex (⭐40)](https://github.com/dkendal/aruspex) - Aruspex is a configurable constraint solver, written purely in Elixir.
+*   [aruspex (⭐39)](https://github.com/dkendal/aruspex) - Aruspex is a configurable constraint solver, written purely in Elixir.
 
 ### Images
 
 *   [exfavicon (⭐7)](https://github.com/ikeikeikeike/exfavicon) - An Elixir library for discovering favicons.
 
-## [32. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
+## [31. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
 
 ### Hypervisors
 
@@ -407,17 +395,17 @@ git update-index --no-assume-unchanged <file_name>
 *   full privileges -> isolate on kernel level
 *   absolute privileges -> run it in separate vm
 
-## [33. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [32. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Data Visualization
 
 *   [D3.compose (⭐698)](https://github.com/CSNW/d3.compose) - Compose complex, data-driven visualizations from reusable charts and components.
 
-## [34. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [33. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Alert / Barcode
 
-*   [GSMessage (⭐704)](https://github.com/wxxsw/GSMessages) - A simple style messages/notifications for iOS 7+.
+*   [GSMessage (⭐706)](https://github.com/wxxsw/GSMessages) - A simple style messages/notifications for iOS 7+.
 
 ---
 

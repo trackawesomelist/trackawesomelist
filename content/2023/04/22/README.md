@@ -10,7 +10,7 @@
 
 ### Science Logology / Laboratory Automation
 
-*   [Robotic search for optimal cell culture in regenerative medicine](https://elifesciences.org/articles/77007) - ***eLife***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=1330075145723138159\&hl=en\&as_sdt=0,5)].
+*   [Robotic search for optimal cell culture in regenerative medicine](https://elifesciences.org/articles/77007) - ***eLife***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=1330075145723138159)]. This paper develops a robotic AI system with a batch Bayesian optimization algorithm that autonomously induces the differentiation of induced pluripotent stem cell-derived retinal pigment epithelial (iPSC-RPE) cells. From 200 million possible parameter combinations, the system performed cell culture in 143 different conditions in 111 days, resulting in 88% better iPSC-RPE production than that obtained by the pre-optimized culture in terms of the pigmentation scores.
 *   [Cell Culture: Implementing robotics and artificial intelligence](https://elifesciences.org/articles/80609) - ***eLife***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=10725537391648003592\&hl=en\&as_sdt=0,5)].
 
 ### Science Logology / AI Assisted Research
@@ -42,8 +42,8 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [vue-paho-mqtt (⭐20)](https://github.com/kaandesu/vue-paho-mqtt) - Easy-to-use Paho MQTT client library for Vue 3 with centralized subscription management, type support, and built-in optional alert notification library.
-*   [VueFinder File Library (⭐229)](https://github.com/n1crack/vuefinder) - Web File Manager Library.
+*   [vue-paho-mqtt (⭐24)](https://github.com/kaandesu/vue-paho-mqtt) - Easy-to-use Paho MQTT client library for Vue 3 with centralized subscription management, type support, and built-in optional alert notification library.
+*   [VueFinder File Library (⭐285)](https://github.com/n1crack/vuefinder) - Web File Manager Library.
 
 ### Components & Libraries / Frameworks
 
@@ -52,46 +52,36 @@
 
 ### Components & Libraries / UI Layout
 
-*   [fit-screen (⭐66)](https://github.com/jp-liu/fit-screen) - A vue component based on the scale large screen adaptive solution.
+*   [fit-screen (⭐75)](https://github.com/jp-liu/fit-screen) - A vue component based on the scale large screen adaptive solution.
 
 ### Components & Libraries / UI Components
 
-*   [vue-maplibre-gl (⭐80)](https://github.com/razorness/vue-maplibre-gl) - Vue 3.x wrapper around Maplibre GL JS library written in TS. Including style switch and frame rate control.
-*   [1llest-waveform-vue (⭐29)](https://github.com/codeacme17/1llest-waveform-vue) - A lightweight and controllable audio visualization vue3 plugin.
-*   [vue3-calendar-heatmap (⭐89)](https://github.com/razorness/vue3-calendar-heatmap) - A lightweight calendar heatmap Vue 3 component built on SVG
-*   [Everright-formEditor (⭐434)](https://github.com/Liberty-liu/Everright-formEditor) - A visual drag-and-drop low-code form editor
-
-### Components & Libraries / UI Utilities
-
-*   [v-privacy (⭐12)](https://github.com/fchancel/v-privacy) - Vue3 plugin that allows to manage the privacy of an HTML element by blurring its content
+*   [vue-maplibre-gl (⭐87)](https://github.com/razorness/vue-maplibre-gl) - Vue 3.x wrapper around Maplibre GL JS library written in TS. Including style switch and frame rate control.
+*   [Everright-formEditor (⭐464)](https://github.com/Liberty-liu/Everright-formEditor) - A visual drag-and-drop low-code form editor
 
 ## [5. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
 
 ### Competitive Analysis / GDPR
 
-*   [Best-of Digital Identity (⭐74)](https://github.com/jruizaranguren/best-of-digital-identity) - Ranking, popularity and activity status of open-source digital identity projects.
+*   [Best-of Digital Identity (⭐82)](https://github.com/jruizaranguren/best-of-digital-identity) - Ranking, popularity and activity status of open-source digital identity projects.
 
 ## [6. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
 ### ChatGPT
 
-*   [LocalAI (⭐23k)](https://github.com/go-skynet/LocalAI) - Self-hosted, community-driven simple local OpenAI-compatible API written in go. Can be used as a drop-in replacement for OpenAI, running on CPU with consumer-grade hardware.
+*   [LocalAI (⭐29k)](https://github.com/go-skynet/LocalAI) - Self-hosted, community-driven simple local OpenAI-compatible API written in go. Can be used as a drop-in replacement for OpenAI, running on CPU with consumer-grade hardware.
 
 ## [7. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Images
 
-*   [color-extractor (⭐91)](https://github.com/marekm4/color-extractor) - Dominant color extractor with no external dependencies.
-
-### Web Frameworks
-
-*   [Pulse (⭐37)](https://github.com/gopulse/pulse) - Pulse is an HTTP web framework written in Go (Golang)
+*   [color-extractor (⭐94)](https://github.com/marekm4/color-extractor) - Dominant color extractor with no external dependencies.
 
 ## [8. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Misc
 
-*   [Ahoo-Wang/Simba (⭐16)](https://github.com/Ahoo-Wang/Simba) - Distributed lock service
+*   [Ahoo-Wang/Simba (⭐18)](https://github.com/Ahoo-Wang/Simba) - Distributed lock service
 
 ## [9. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/README.md)
 
@@ -101,13 +91,9 @@
 
 ## [10. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
-### Software / Analytics
-
-*   [Fathom Lite (⭐7.5k)](https://github.com/usefathom/fathom) - A simple and privacy-focused web analytics (alternative to Google Analytics). `MIT` `Go/Docker`
-
 ### Software / Archiving and Digital Preservation (DP)
 
-*   [Webarchive (⭐99)](https://github.com/derfenix/webarchive) - Lightweight self-hosted *wayback machine* that creates HTML and PDF files from your bookmarks. `BSD-3-Clause` `Go`
+*   [Webarchive (⭐120)](https://github.com/derfenix/webarchive) - Lightweight self-hosted *wayback machine* that creates HTML and PDF files from your bookmarks. `BSD-3-Clause` `Go`
 
 ## [11. Awesome Product Management](/content/dend/awesome-product-management/README.md)
 
@@ -125,64 +111,63 @@
 
 ### React State Management and Data Fetching
 
-*   [tanstack-query (⭐40k)](https://github.com/TanStack/query) - Powerful asynchronous state management
+*   [tanstack-query (⭐43k)](https://github.com/TanStack/query) - Powerful asynchronous state management
 
 ### React Routing
 
-*   [react-router (⭐52k)](https://github.com/remix-run/react-router) - Declarative routing for React
-*   [tanstack-router (⭐7k)](https://github.com/TanStack/router) - Type-safe router with built-in caching & URL state management
+*   [react-router (⭐53k)](https://github.com/remix-run/react-router) - Declarative routing for React
+*   [tanstack-router (⭐8.4k)](https://github.com/TanStack/router) - Type-safe router with built-in caching & URL state management
 
 ### React Libraries
 
-*   [preact (⭐36k)](https://github.com/preactjs/preact) - Fast React alternative with the same modern API
-*   [floating-ui (⭐28k)](https://github.com/floating-ui/floating-ui) - Toolkit to create floating elements
+*   [preact (⭐37k)](https://github.com/preactjs/preact) - Fast React alternative with the same modern API
+*   [floating-ui (⭐30k)](https://github.com/floating-ui/floating-ui) - Toolkit to create floating elements
 *   [downshift (⭐12k)](https://github.com/downshift-js/downshift) - React autocomplete, combobox or select dropdown components
 
 ### React Awesome Components
 
-*   [Awesome React Components (⭐40k)](https://github.com/brillout/awesome-react-components)
-*   [react-big-calendar (⭐7.3k)](https://github.com/jquense/react-big-calendar) - Calendar component
-*   [react-qrcode (⭐3.7k)](https://github.com/zpao/qrcode.react) - QR component for use with React
-*   [react-icons (⭐11k)](https://github.com/react-icons/react-icons) - SVG React icons of popular icon packs
+*   [Awesome React Components (⭐43k)](https://github.com/brillout/awesome-react-components)
+*   [react-big-calendar (⭐8k)](https://github.com/jquense/react-big-calendar) - Calendar component
+*   [react-qrcode (⭐3.9k)](https://github.com/zpao/qrcode.react) - QR component for use with React
+*   [react-icons (⭐12k)](https://github.com/react-icons/react-icons) - SVG React icons of popular icon packs
 
 ### React Tables and Grids
 
-*   [react-grid-layout (⭐19k)](https://github.com/react-grid-layout/react-grid-layout) - A draggable and resizable grid layout with responsive breakpoints
-*   [tanstack-table (⭐24k)](https://github.com/TanStack/table) - Headless UI for building powerful tables & datagrids
+*   [react-grid-layout (⭐21k)](https://github.com/react-grid-layout/react-grid-layout) - A draggable and resizable grid layout with responsive breakpoints
+*   [tanstack-table (⭐25k)](https://github.com/TanStack/table) - Headless UI for building powerful tables & datagrids
 
 ### React Internationalization
 
 *   [formatjs (⭐14k)](https://github.com/formatjs/formatjs) - Internationalize your web apps
-*   [typesafe-i18n (⭐2.1k)](https://github.com/ivanhofer/typesafe-i18n) - A fully type-safe and lightweight internationalization library
 
 ### React Integration
 
-*   [rescript-compiler (⭐6.4k)](https://github.com/rescript-lang/rescript-compiler) - A robustly typed language that compiles to efficient and human-readable JavaScript
+*   [rescript-compiler (⭐6.8k)](https://github.com/rescript-lang/rescript-compiler) - A robustly typed language that compiles to efficient and human-readable JavaScript
 *   [react-rails (⭐6.7k)](https://github.com/reactjs/react-rails) - Integrate React with Rails
 *   [fulcro (⭐1.5k)](https://github.com/fulcrologic/fulcro) - A library for development of web applications in clj/cljs
 
 ### React Real Apps
 
-*   [mattermost-server (⭐28k)](https://github.com/mattermost/mattermost-server) - An open source platform for secure collaboration
-*   [webamp (⭐9.6k)](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser
+*   [mattermost-server (⭐31k)](https://github.com/mattermost/mattermost-server) - An open source platform for secure collaboration
+*   [webamp (⭐10k)](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser
 
 ## [14. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Bars and Lines / Diagnostics
 
-*   [luukvbaal/statuscol.nvim (⭐498)](https://github.com/luukvbaal/statuscol.nvim) - Configurable 'statuscolumn' with builtin segments and click handlers.
+*   [luukvbaal/statuscol.nvim (⭐552)](https://github.com/luukvbaal/statuscol.nvim) - Configurable 'statuscolumn' with builtin segments and click handlers.
 
 ## [15. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
 ### Tools and session management
 
-*   [twm (⭐31)](https://github.com/vinnymeller/twm) A highly configurable workspace manager that is easy to extend with shell scripts, written in Rust
+*   [twm (⭐36)](https://github.com/vinnymeller/twm) A highly configurable workspace manager that is easy to extend with shell scripts, written in Rust
 
 ## [16. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Files and Directories / File Managers
 
-*   [clifm (⭐1.2k)](https://github.com/leo-arch/clifm) - The command line file manager.
+*   [clifm (⭐1.4k)](https://github.com/leo-arch/clifm) - The command line file manager.
 
 ---
 

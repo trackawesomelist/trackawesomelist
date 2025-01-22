@@ -1,6 +1,6 @@
 # Awesome List Updates on May 19, 2021
 
-14 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,11 +16,11 @@
 
 ### Tutorials and Blog Posts / AWS
 
-*   [AWS Lambda the Terraform Way (⭐1.2k)](https://github.com/nsriram/lambda-the-terraform-way) - Understand AWS Lambda in-depth, beyond executing functions, using Terraform. Also includes guides for integration with S3, API Gateway, DynamoDB, Kinesis, SQS.
+*   [AWS Lambda the Terraform Way (⭐1.3k)](https://github.com/nsriram/lambda-the-terraform-way) - Understand AWS Lambda in-depth, beyond executing functions, using Terraform. Also includes guides for integration with S3, API Gateway, DynamoDB, Kinesis, SQS.
 
 ### Tools / Community providers
 
-*   [terraform-cdk (⭐4.8k)](https://github.com/hashicorp/terraform-cdk) - CDK (Cloud Development Kit) for Terraform allows developers to use familiar programming languages to define cloud infrastructure and provision it through HashiCorp Terraform.
+*   [terraform-cdk (⭐4.9k)](https://github.com/hashicorp/terraform-cdk) - CDK (Cloud Development Kit) for Terraform allows developers to use familiar programming languages to define cloud infrastructure and provision it through HashiCorp Terraform.
 
 ### Videos / IDE
 
@@ -98,13 +98,7 @@
 
 *   [Respresso](https://respresso.io/)
 
-## [11. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
-
-### (requires Neovim 0.5)
-
-*   [simrat39/symbols-outline.nvim (⭐1.9k)](https://github.com/simrat39/symbols-outline.nvim) - A tree like view for symbols using the Language Server Protocol. Supports all your favourite languages.
-
-## [12. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
+## [11. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
 ### Public Data Resources / Demographic
 
@@ -134,16 +128,16 @@
 
 ### Planning Data Specifications / Transportation
 
-*   [SharedStreets](https://www.sharedstreets.io) - SharedStreets Referencing System is a global, non-proprietary linear referencing system for describing streets maintained by SharedStreets. Additional Information: [GitHub (⭐185)](https://github.com/sharedstreets/sharedstreets-ref-system)
+*   [SharedStreets](https://www.sharedstreets.io) - SharedStreets Referencing System is a global, non-proprietary linear referencing system for describing streets maintained by SharedStreets. Additional Information: [GitHub (⭐186)](https://github.com/sharedstreets/sharedstreets-ref-system)
 *   [GTFS](https://developers.google.com/transit/gtfs) - The General Transit Feed Specification is a popular standard for describing transit systems.
 *   [shared-row (⭐17)](https://github.com/d-wasserman/shared-row) - A data specification for representing street right of ways.
-*   [GBFS (⭐764)](https://github.com/NABSA/gbfs) - The General Bikeshare Feed Specification is a standardized data feed for shared mobility system availability.
-*   [MDS (⭐671)](https://github.com/openmobilityfoundation/mobility-data-specification) - The Mobility Data Specification is a data standard to enable communication between mobility companies and local governments.
+*   [GBFS (⭐809)](https://github.com/NABSA/gbfs) - The General Bikeshare Feed Specification is a standardized data feed for shared mobility system availability.
+*   [MDS (⭐693)](https://github.com/openmobilityfoundation/mobility-data-specification) - The Mobility Data Specification is a data standard to enable communication between mobility companies and local governments.
 *   [MTLFS (⭐9)](https://github.com/vta/Managed-and-Tolled-Lanes-Feed-Specification) - The Managed and Tolled Lanes Feed Specification is intended to be used by the managed lanes and toll industry for the standardization and sharing of dynamic toll rates, and any managed lane purpose including but not limited to, ramp metering, bus only lanes, express lanes, especially if the resources are being priced dynamically.
 
 ### Planning Coding Resources / Python
 
-*   [Geosnap (⭐229)](https://github.com/spatialucr/geosnap) - Geospatial & temporal neighborhood analysis using US Census Data.
+*   [Geosnap (⭐253)](https://github.com/spatialucr/geosnap) - Geospatial & temporal neighborhood analysis using US Census Data.
 
 ### Planning Coding Resources / R
 
@@ -157,18 +151,18 @@
 
 ### Other Resources / Other GitHub Resource Lists
 
-*   [awesome-transit (⭐1.2k)](https://github.com/CUTR-at-USF/awesome-transit) - A collection of transit data tools and resources.
-*   [micromobility-tools-and-resources (⭐31)](https://github.com/NABSA/micromobility-tools-and-resources) - A collection of micromobility tools and data resources.
-*   [awesome-sustainable-technology (⭐1.9k)](https://github.com/protontypes/open-sustainable-technology) - A curated list of open technology projects to sustain a stable climate, energy supply, and vital natural resources.
-*   [awesome-gis (⭐4.2k)](https://github.com/sshuair/awesome-gis) - Awesome GIS is a collection of geospatial related sources, including cartographic tools, geoanalysis tools, developer tools, data, conference & communities, news, massive open online course, some amazing map sites, and more.
-*   [awesome-agriculture (⭐1.2k)](https://github.com/brycejohnston/awesome-agriculture) - Open source technology for agriculture, farming, and gardening.
-*   [awesome-geojson (⭐2.2k)](https://github.com/tmcw/awesome-geojson) - GeoJSON utilities that will make your life easier.
+*   [awesome-transit (⭐1.4k)](https://github.com/CUTR-at-USF/awesome-transit) - A collection of transit data tools and resources.
+*   [micromobility-tools-and-resources (⭐32)](https://github.com/NABSA/micromobility-tools-and-resources) - A collection of micromobility tools and data resources.
+*   [awesome-sustainable-technology (⭐2.1k)](https://github.com/protontypes/open-sustainable-technology) - A curated list of open technology projects to sustain a stable climate, energy supply, and vital natural resources.
+*   [awesome-gis (⭐4.6k)](https://github.com/sshuair/awesome-gis) - Awesome GIS is a collection of geospatial related sources, including cartographic tools, geoanalysis tools, developer tools, data, conference & communities, news, massive open online course, some amazing map sites, and more.
+*   [awesome-agriculture (⭐1.4k)](https://github.com/brycejohnston/awesome-agriculture) - Open source technology for agriculture, farming, and gardening.
+*   [awesome-geojson (⭐2.3k)](https://github.com/tmcw/awesome-geojson) - GeoJSON utilities that will make your life easier.
 
 ### Other Resources / Other Technology Resource Aggregators
 
 *   [Urban Computing Foundation](https://github.com/ucfoundation) - Accelerating open source and community development that improves mobility, safety, infrastructure, traffic, and energy consumption in connected cities. Additional Information: [Landscape](https://landscape.uc.foundation/).
 
-## [13. Awesome Golem](/content/golemfactory/awesome-golem/README.md)
+## [12. Awesome Golem](/content/golemfactory/awesome-golem/README.md)
 
 ### Developer and Requestor Resources
 
@@ -190,7 +184,7 @@
 *   [Golem GitHub Digest #12](https://blog.golemproject.net/golem-github-digest-12/) - We are on MAINNET and gathering feedback.
 *   [Golem GitHub Digest #13](https://blog.golemproject.net/golem-github-digest-13/) - Progressing faster with the help of the Golem community.
 
-## [14. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [13. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Blogs
 

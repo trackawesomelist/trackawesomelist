@@ -16,13 +16,13 @@
 
 ### CLI
 
-*   [usql (⭐8.7k)](https://github.com/xo/usql) - A universal command-line interface for PostgreSQL, MySQL, Oracle Database, SQLite3, Microsoft SQL Server, and many other databases including NoSQL and non-relational databases!
+*   [usql (⭐9.2k)](https://github.com/xo/usql) - A universal command-line interface for PostgreSQL, MySQL, Oracle Database, SQLite3, Microsoft SQL Server, and many other databases including NoSQL and non-relational databases!
 
 ### SQL / Analyzers
 
 *   [SQLCheck (⭐2.4k)](https://github.com/jarulraj/sqlcheck) - Automatically detects common SQL anti-patterns.
-*   [SQLFluff (⭐7.4k)](https://github.com/sqlfluff/sqlfluff) - Dialect-flexible and configurable SQL linter.
-*   [TSQLLint (⭐207)](https://github.com/tsqllint/tsqllint) - A tool for describing, identifying, and reporting the presence of anti-patterns in TSQL scripts.
+*   [SQLFluff (⭐8.5k)](https://github.com/sqlfluff/sqlfluff) - Dialect-flexible and configurable SQL linter.
+*   [TSQLLint (⭐214)](https://github.com/tsqllint/tsqllint) - A tool for describing, identifying, and reporting the presence of anti-patterns in TSQL scripts.
 
 ### SQL / Extensions
 
@@ -31,22 +31,22 @@
 ### SQL / Frameworks
 
 *   [Apache Calcite](https://calcite.apache.org) - Dynamic data management framework with advanced SQL features.
-*   [ZetaSQL (⭐2.2k)](https://github.com/google/zetasql) - Analyzer Framework for SQL.
+*   [ZetaSQL (⭐2.3k)](https://github.com/google/zetasql) - Analyzer Framework for SQL.
 
 ### SQL / Formatters
 
-*   [CodeBuff (⭐434)](https://github.com/antlr/codebuff) - Language-agnostic pretty-printing through machine learning.
-*   [pgFormatter (⭐1.6k)](https://github.com/darold/pgFormatter) - A PostgreSQL SQL syntax beautifier.
+*   [CodeBuff (⭐449)](https://github.com/antlr/codebuff) - Language-agnostic pretty-printing through machine learning.
+*   [pgFormatter (⭐1.7k)](https://github.com/darold/pgFormatter) - A PostgreSQL SQL syntax beautifier.
 *   [Poor SQL](https://poorsql.com) - Instant free and open-source T-SQL formatting.
-*   [SQL Formatter (⭐2.2k)](https://github.com/zeroturnaround/sql-formatter) - JavaScript library for pretty-printing SQL queries.
+*   [SQL Formatter (⭐2.4k)](https://github.com/zeroturnaround/sql-formatter) - JavaScript library for pretty-printing SQL queries.
 
 ### SQL / Parsers
 
 *   [General SQL Parser](https://www.sqlparser.com) - Parsing, formatting, modification and analysis for SQL.
-*   [jOOQ (⭐6k)](https://github.com/jOOQ/jOOQ) - Parses SQL, translates it to other dialects, and allows for expression tree transformations.
-*   [JSqlParser (⭐5.2k)](https://github.com/JSQLParser/JSqlParser) - Parses an SQL statement and translate it into a hierarchy of Java classes.
-*   [More SQL Parsing! (⭐244)](https://github.com/klahnakoski/mo-sql-parsing) - Parse SQL into JSON.
-*   [sqlparse (⭐3.6k)](https://github.com/andialbrecht/sqlparse) - Non-validating SQL parser for Python.
+*   [jOOQ (⭐6.3k)](https://github.com/jOOQ/jOOQ) - Parses SQL, translates it to other dialects, and allows for expression tree transformations.
+*   [JSqlParser (⭐5.5k)](https://github.com/JSQLParser/JSqlParser) - Parses an SQL statement and translate it into a hierarchy of Java classes.
+*   [More SQL Parsing! (⭐265)](https://github.com/klahnakoski/mo-sql-parsing) - Parse SQL into JSON.
+*   [sqlparse (⭐3.8k)](https://github.com/andialbrecht/sqlparse) - Non-validating SQL parser for Python.
 
 ## [3. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
@@ -70,29 +70,29 @@
 
 ### no-std crates / WIP
 
-*   [minimq](https://crates.io/crates/minimq): A minimal MQTT5 client designed for no\_std platforms - ![crates.io](https://img.shields.io/crates/v/minimq.svg)
+*   [minimq](https://crates.io/crates/minimq): A minimal MQTT5 client designed for no\_std platforms - [![crates.io](https://img.shields.io/crates/v/minimq.svg)](https://crates.io/crates/minimq)
 
 ## [6. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
 ### Crash Courses
 
-*   [Algorand School (⭐78)](https://github.com/cusma/algorand-school) - Algorand School crash course slide deck.
+*   [Algorand School (⭐79)](https://github.com/cusma/algorand-school) - Algorand School crash course slide deck.
 
 ## [7. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
 
 ### Projects / Verified Software
 
-*   [Jasmin (⭐244)](https://github.com/jasmin-lang/jasmin) - Formalized language and verified compiler for high-assurance and high-speed cryptography.
+*   [Jasmin (⭐278)](https://github.com/jasmin-lang/jasmin) - Formalized language and verified compiler for high-assurance and high-speed cryptography.
 
 ## [8. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Security
 
-*   [Executable Packing (⭐1.1k)](https://github.com/dhondta/awesome-executable-packing#readme) - Packing and unpacking executable formats.
+*   [Executable Packing (⭐1.2k)](https://github.com/dhondta/awesome-executable-packing#readme) - Packing and unpacking executable formats.
 
 ### Decentralized Systems
 
-*   [Algorand (⭐186)](https://github.com/aorumbayev/awesome-algorand#readme) - An open-source, proof of stake blockchain and smart contract computing platform.
+*   [Algorand (⭐193)](https://github.com/aorumbayev/awesome-algorand#readme) - An open-source, proof of stake blockchain and smart contract computing platform.
 
 ## [9. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/week/README.md)
 
@@ -109,10 +109,10 @@
 *   [Enigma Virtual Box](https://www.enigmaprotector.com/en/aboutvb.html) - Application virtualization system for Windows.
 *   [EXE Bundle](https://www.webtoolmaster.com/exebundle.htm) - Bundles application files into a single PE32 file.
 *   [EXE Stealth](http://www.webtoolmaster.com/packer.htm) - Anti-cracking protection and licensing tool for PE files featuring compression and encryption polymorphic technology.
-*   [hXOR-Packer (⭐53)](https://github.com/rurararura/hXOR-Packer) - PE packer with Huffman compression and XOR encryption.
+*   [hXOR-Packer (⭐57)](https://github.com/rurararura/hXOR-Packer) - PE packer with Huffman compression and XOR encryption.
 *   [LIAPP](https://liapp.lockincomp.com) - Easiest and most powerful mobile app security solution.
 *   [MPRESS](https://www.autohotkey.com/mpress/mpress_web.htm) - Compresses (using LZMA) and protects PE, .NET or Mach-O programs against reverse engineering.
-*   [Papaw (⭐38)](https://github.com/dimkr/papaw) - Permissively-licensed packer for ELF executables using LZMA Zstandard or Deflate compression.
+*   [Papaw (⭐43)](https://github.com/dimkr/papaw) - Permissively-licensed packer for ELF executables using LZMA Zstandard or Deflate compression.
 *   [ZProtect](http://www.jiami.net) - Renames metadata entities and supports advanced obfuscation methods that harden protection scheme and foil reverse engineering altogether.
 
 ### :package: Packers / Between 2000 and 2010
@@ -137,15 +137,15 @@
 
 ### :wrench: Tools / Before 2000
 
-*   [APKiD (⭐2k)](https://github.com/rednaga/APKiD) - Android application Identifier for packers, protectors, obfuscators and oddities - PEiD for Android.
+*   [APKiD (⭐2.1k)](https://github.com/rednaga/APKiD) - Android application Identifier for packers, protectors, obfuscators and oddities - PEiD for Android.
 *   [BinUnpack](https://doi.org/10.1145/3243734.3243771) - Unpacking approach free from tedious memory access monitoring, therefore introducing very small runtime overhead.
 
 ## [10. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
 
 ### Stub packages
 
-*   [boto3-stubs](https://vemel.github.io/boto3_stubs_docs/) - Stubs for [boto3 (⭐8.8k)](https://github.com/boto/boto3).
-*   [types-aiobotocore](https://vemel.github.io/types_aiobotocore_docs/) - Stubs for [aiobotocore (⭐1.1k)](https://github.com/aio-libs/aiobotocore).
+*   [boto3-stubs](https://vemel.github.io/boto3_stubs_docs/) - Stubs for [boto3 (⭐9.1k)](https://github.com/boto/boto3).
+*   [types-aiobotocore](https://vemel.github.io/types_aiobotocore_docs/) - Stubs for [aiobotocore (⭐1.2k)](https://github.com/aio-libs/aiobotocore).
 
 ## [11. Awesome Gdpr](/content/bakke92/awesome-gdpr/week/README.md)
 
@@ -157,8 +157,8 @@
 
 ### Web Exploitation / Web shells and C2 frameworks
 
-*   [Merlin (⭐5k)](https://github.com/Ne0nd0g/merlin) - Cross-platform post-exploitation HTTP/2 Command and Control server and agent written in Golang.
-*   [SharPyShell (⭐876)](https://github.com/antonioCoco/SharPyShell) - Tiny and obfuscated ASP.NET webshell for C# web applications.
+*   [Merlin (⭐5.1k)](https://github.com/Ne0nd0g/merlin) - Cross-platform post-exploitation HTTP/2 Command and Control server and agent written in Golang.
+*   [SharPyShell (⭐920)](https://github.com/antonioCoco/SharPyShell) - Tiny and obfuscated ASP.NET webshell for C# web applications.
 
 ## [13. Awesome Dos](/content/balintkissdev/awesome-dos/week/README.md)
 
@@ -180,7 +180,7 @@
 
 ### Tools / Testing Tools
 
-*   [eslint-interactive (⭐339)](https://github.com/mizdra/eslint-interactive) - The CLI tool to fix huge number of ESLint errors.
+*   [eslint-interactive (⭐361)](https://github.com/mizdra/eslint-interactive) - The CLI tool to fix huge number of ESLint errors.
 
 ## [16. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
 
@@ -203,24 +203,24 @@
 
 ### Breadcrumbs
 
-*   [Breadcrumbs on Rails (⭐939)](https://github.com/weppos/breadcrumbs_on_rails) - A simple Ruby on Rails plugin for creating and managing a breadcrumb navigation for a Rails project.
-*   [Gretel (⭐890)](https://github.com/lassebunk/gretel) - A Ruby on Rails plugin that makes it easy yet flexible to create breadcrumbs.
-*   [loaf (⭐406)](https://github.com/peter-murach/loaf) - Manages and displays breadcrumb trails in Rails app - lean & mean.
-*   [Simple Navigation (⭐885)](https://github.com/codeplant/simple-navigation) - A ruby gem for creating navigation (html list, link list or breadcrumbs with multiple levels) for your Rails 2, 3 & 4, Sinatra or Padrino.
+*   [Breadcrumbs on Rails (⭐947)](https://github.com/weppos/breadcrumbs_on_rails) - A simple Ruby on Rails plugin for creating and managing a breadcrumb navigation for a Rails project.
+*   [Gretel (⭐889)](https://github.com/lassebunk/gretel) - A Ruby on Rails plugin that makes it easy yet flexible to create breadcrumbs.
+*   [loaf (⭐407)](https://github.com/peter-murach/loaf) - Manages and displays breadcrumb trails in Rails app - lean & mean.
+*   [Simple Navigation (⭐886)](https://github.com/codeplant/simple-navigation) - A ruby gem for creating navigation (html list, link list or breadcrumbs with multiple levels) for your Rails 2, 3 & 4, Sinatra or Padrino.
 
 ### Business logic
 
 *   [ActiveInteraction (⭐2.1k)](https://github.com/AaronLasseigne/active_interaction) - Manage application specific business logic.
-*   [Interactor (⭐3.3k)](https://github.com/collectiveidea/interactor) - Interactor provides a common interface for performing complex interactions in a single request.
-*   [Light Service (⭐820)](https://github.com/adomokos/light-service) - Series of Actions with an emphasis on simplicity.
+*   [Interactor (⭐3.4k)](https://github.com/collectiveidea/interactor) - Interactor provides a common interface for performing complex interactions in a single request.
+*   [Light Service (⭐846)](https://github.com/adomokos/light-service) - Series of Actions with an emphasis on simplicity.
 *   [Mutations (⭐1.4k)](https://github.com/cypriss/mutations) - Compose your business logic into commands that sanitize and validate input.
-*   [Surrounded (⭐253)](https://github.com/saturnflyer/surrounded) - Encapsulated related objects in a single system to add behavior during runtime. Extensible implementation of DCI.
-*   [Waterfall (⭐610)](https://github.com/apneadiving/waterfall) - A slice of functional programming to chain ruby services and blocks, thus providing a new approach to flow control.
+*   [Surrounded (⭐254)](https://github.com/saturnflyer/surrounded) - Encapsulated related objects in a single system to add behavior during runtime. Extensible implementation of DCI.
+*   [Waterfall (⭐611)](https://github.com/apneadiving/waterfall) - A slice of functional programming to chain ruby services and blocks, thus providing a new approach to flow control.
 *   [wisper (⭐3.3k)](https://github.com/krisleech/wisper) - A micro library providing Ruby objects with Publish-Subscribe capabilities.
 
 ### Core Extensions
 
-*   [Docile (⭐414)](https://github.com/ms-ati/docile) - A tiny library that lets you map a DSL (domain specific language) to your Ruby objects in a snap.
+*   [Docile (⭐418)](https://github.com/ms-ati/docile) - A tiny library that lets you map a DSL (domain specific language) to your Ruby objects in a snap.
 *   [dry-rb](https://github.com/dry-rb) - dry-rb is a collection of next-generation Ruby libraries, each intended to encapsulate a common task.
 *   [Trick Bag (⭐34)](https://github.com/keithrbennett/trick_bag) - Assorted Ruby classes and methods to simplify and enhance your code.
 
@@ -264,18 +264,17 @@
 *   [Inch CI](https://inch-ci.org/) - Documentation badges for Ruby projects.
 *   [OctoLinker (⭐5.3k)](https://github.com/OctoLinker/browser-extension) - Navigate through projects on GitHub.com efficiently with the OctoLinker browser extension.
 *   [SemaphoreCI](https://semaphoreci.com) - Hosted continuous integration and deployment service for open source and private projects.
-*   [Sider](https://sider.review/) - Automated Code Review with GitHub PR. Monitoring Style Violations, Quality, Security, Dependencies.
 *   [Travis CI](https://travis-ci.com) - Test and Deploy Your Code with Confidence.
 
 ### View components
 
 *   [Cells (⭐3.1k)](https://github.com/trailblazer/cells) - View Components for Rails.
 *   [Komponent (⭐427)](https://github.com/komposable/komponent) - An opinionated way of organizing front-end code in Rails, based on components.
-*   [ViewComponent (⭐3.2k)](https://github.com/github/view_component) - View components for Rails.
+*   [ViewComponent (⭐3.3k)](https://github.com/github/view_component) - View components for Rails.
 
 ### View helpers
 
-*   [active\_link\_to (⭐843)](https://github.com/comfy/active_link_to) - View helper to manage "active" state of a link.
+*   [active\_link\_to (⭐844)](https://github.com/comfy/active_link_to) - View helper to manage "active" state of a link.
 
 ### Web Frameworks
 
@@ -306,19 +305,9 @@
 
 ## [21. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/week/README.md)
 
-### Books
-
-*   [Moore & Mertens. The Nature of Computation](http://nature-of-computation.org/) - It spans complexity of mazes and games; optimization in theory and practice; randomized algorithms, interactive proofs, and pseudorandomness; Markov chains and phase transitions; and of quantum computing. It provides accessible explanations
-*   [Wigderson. Mathematics and Computation: A Theory Revolutionizing Technology and Science](https://www.math.ias.edu/files/Book-online-Aug0619.pdf) - A sweeping survey of complexity theory, emphasizing the field’s insights and challenges. It explains the ideas and motivations leading to key models, notions, and results.
-*   [Atallah & Blanton. Algorithms and Theory of Computation Handbook: General Concepts and Techniques](https://www.routledge.com/Algorithms-and-Theory-of-Computation-Handbook-Volume-1-General-Concepts/Atallah-Blanton/p/book/9781138113930) - A complete comprehensive encyclopediac handbook which surveys all related areas to theoretical computer science.
-*   [Atallah & Blanton. Algorithms and Theory of Computation Handbook: Special Topics and Techniques](https://www.routledge.com/Algorithms-and-Theory-of-Computation-Handbook-Volume-2-Special-Topics/Atallah-Blanton/p/book/9780367384845) - A complete comprehensive encyclopediac handbook which surveys all related areas to theoretical computer science.
-*   [Handbook of Theoretical Computer Science. Volume A: Algorithms and Complexity](https://mitpress.mit.edu/books/handbook-theoretical-computer-science-volume) - A complete comprehensive encyclopediac handbook which surveys all related areas to theoretical computer science.
-*   [Handbook of Theoretical Computer Science. Volume B: Formal Methods and Semantics](https://mitpress.mit.edu/books/handbook-theoretical-computer-science-2-vol-set) - A complete comprehensive encyclopediac handbook which surveys all related areas to theoretical computer science.
-*   [Hopcroft, Motwani & Ullman. Introduction to Automata Theory, Languages, and Computation](https://www.pearson.com/us/higher-education/program/Hopcroft-Introduction-to-Automata-Theory-Languages-and-Computation-3rd-Edition/PGM64331.html) - Introductory undergrad textbook for automata, languages and theory of computation topics.
-*   [Barak. Introduction to TCS](https://introtcs.org/public/index.html) - A modern, brief, and accessible text which introduces theoretical computer science for undergrads. It includes topics not usually included in standard undergrad text-books.
-
 ### Lecture Notes
 
+*   [Barak. Introduction to TCS](https://introtcs.org/public/index.html) - A modern, brief, and accessible text which introduces theoretical computer science for undergrads. It includes topics not usually included in standard undergrad text-books.
 *   [Watrous. Introduction to The Theory of Computing](https://cs.uwaterloo.ca/~watrous/ToC-notes/) - undergrad introduction to theory of computation
 
 ### Lecture Videos Playlists
@@ -326,6 +315,19 @@
 *   [Yanofsky. Theoretical Computer Science](https://www.youtube.com/playlist?list=PLCqUsBXxq16yBaN_hpo7dY2l9N-ZLtI-X) - undergrad introduction to theory of computation
 *   [Anil Ada. Great Ideas in Theoretical Computer Science. CMU](https://www.youtube.com/playlist?list=PLKzLTB8HeSUIuln-o1mbXfTr8HmIhiGEg) - A series of lectures on selected notable topics in theoretical computer science.
 *   [O'Donnell. Great Ideas in Theoretical Computer Science. CMU](https://www.youtube.com/playlist?list=PLm3J0oaFux3aafQm568blS9blxtA_EWQv) - A series of lectures on selected notable topics in theoretical computer science.
+
+### Books
+
+*   [Wigderson. Mathematics and Computation: A Theory Revolutionizing Technology and Science](https://www.math.ias.edu/files/Book-online-Aug0619.pdf) - A sweeping survey of complexity theory, emphasizing the field’s insights and challenges. It explains the ideas and motivations leading to key models, notions, and results.
+*   [Moore & Mertens. The Nature of Computation](http://nature-of-computation.org/) - It spans complexity of mazes and games; optimization in theory and practice; randomized algorithms, interactive proofs, and pseudorandomness; Markov chains and phase transitions; and of quantum computing. It provides accessible explanations
+*   [Hopcroft, Motwani & Ullman. Introduction to Automata Theory, Languages, and Computation](https://www.pearson.com/us/higher-education/program/Hopcroft-Introduction-to-Automata-Theory-Languages-and-Computation-3rd-Edition/PGM64331.html) - Introductory undergrad textbook for automata, languages and theory of computation topics.
+
+### Handbooks
+
+*   [Atallah & Blanton. Algorithms and Theory of Computation Handbook: General Concepts and Techniques](https://www.routledge.com/Algorithms-and-Theory-of-Computation-Handbook-Volume-1-General-Concepts/Atallah-Blanton/p/book/9781138113930) - A complete comprehensive encyclopediac handbook which surveys all related areas to theoretical computer science.
+*   [Atallah & Blanton. Algorithms and Theory of Computation Handbook: Special Topics and Techniques](https://www.routledge.com/Algorithms-and-Theory-of-Computation-Handbook-Volume-2-Special-Topics/Atallah-Blanton/p/book/9780367384845) - A complete comprehensive encyclopediac handbook which surveys all related areas to theoretical computer science.
+*   [Handbook of Theoretical Computer Science. Volume A: Algorithms and Complexity](https://mitpress.mit.edu/books/handbook-theoretical-computer-science-volume) - A complete comprehensive encyclopediac handbook which surveys all related areas to theoretical computer science.
+*   [Handbook of Theoretical Computer Science. Volume B: Formal Methods and Semantics](https://mitpress.mit.edu/books/handbook-theoretical-computer-science-2-vol-set) - A complete comprehensive encyclopediac handbook which surveys all related areas to theoretical computer science.
 
 ### MOOC
 
@@ -388,10 +390,6 @@
 *   [Demaine. Games, Puzzles, and Computation](https://www.routledge.com/Games-Puzzles-and-Computation/Hearn-Demaine/p/book/9781568813226) - It shows that games and puzzles can serve as powerful models of computation, Offering a new way of thinking about computation.
 *   [Lindell. Tutorials on the Foundations of Cryptography](https://link.springer.com/book/10.1007/978-3-319-57048-8) - Advanced tutorials appropriate for self-study by experienced researchers,
 *   [Goldreich. Modern Cryptography, Probabilistic Proofs and Pseudorandomness](https://www.wisdom.weizmann.ac.il/~oded/book1.html) - An introduction to the interwoven domains of cryptography, proofs and randomness.
-*   [Feynman. Feynman And Computation: Exploring The Limits Of Computers](https://www.taylorfrancis.com/books/feynman-computation-anthony-hey/e/10.1201/9780429500459)
-*   Feynman’s Course on Computation - See also Preskill's update 40 years later [here](https://arxiv.org/abs/2106.10522)
-*   [Knuth. Things a Computer Scientist Rarely Talks About](https://web.stanford.edu/group/cslipublications/cslipublications/site/1575863278.shtml) - A general illustration of relations between faith and science.
-*   [Floyd & Bokulich. Philosophical Explorations of the Legacy of Alan Turing: Turing 100](https://www.springer.com/gp/book/9783319532783) - Turing’s place in the history and philosophy of science.
 *   [Knuth, Graham & Patashnik. Concrete Mathematics: A Foundation for Computer Science](https://www.pearson.com/us/higher-education/product/Graham-Concrete-Mathematics-A-Foundation-for-Computer-Science-2nd-Edition/9780134389981.html) - An expansion of the Mathematical Preliminaries section in Knuth's classic Art of Computer Programming, but the style of presentation is more leisurely, and individual topics are covered more deeply.
 *   [Aho & Ullman. Foundations of Computer Science](http://i.stanford.edu/~ullman/focs.html) - A classic math-oriented introduction to computer science.
 *   [Tu Delft. Delftse Foundations of Computation](https://textbooks.open.tudelft.nl/textbooks/catalog/book/13) - A textbook for a one quarter introductory course in theoretical computer science.
@@ -403,87 +401,77 @@
 *   [Jeremy Kun. A Programmer's Introduction to Mathematics](https://pimbook.org/) - Uses your familiarity with ideas from programming and software to teach mathematics.
 *   [Vince. Foundation Mathematics for Computer Science: A Visual Approach](https://www.springer.com/gp/book/9783030420772) - A range of mathematical topics to provide a solid foundation for an undergraduate course in computer science, starting with a review of number systems and their relevance to digital computers, and finishing with differential and integral calculus.
 *   [Oberguggenberger & Ostermann. Analysis for Computer Scientists: Foundations, Methods, and Algorithms](https://www.springer.com/gp/book/9783319911540) - Presents an algorithmic approach to mathematical analysis, with a focus on modelling and on the applications of analysis.
-*   [Rosen. Discrete Mathematics and Its Applications](https://www.mheducation.com/highered/product/discrete-mathematics-applications-rosen/M9780073383095.html) - A canonical discrete math textbook, accessible for even high school students.
-*   [Rosen. Handbook of Discrete and Combinatorial Mathematics](https://www.taylorfrancis.com/books/handbook-discrete-combinatorial-mathematics-kenneth-rosen-douglas-shier-wayne-goddard/e/10.1201/9781315156484) - A complete survey of roughly all topics of discrete math and their relevance to computing and communication engineering.
-*   [Rosenberg & Trystram. Understand Mathematics, Understand Computing: Discrete Mathematics That All Computing Students Should Know](https://www.springer.com/gp/book/9783030583750) - It endows the reader with an operational conceptual and methodological understanding of discrete mathematics for computing
-*   [Gries & Schneider. A Logical Approach to Discrete Math](https://www.springer.com/gp/book/9780387941158) - It attempts to change the way we teach logic to beginning students. Instead of teaching logic as a subject in isolation, we regard it as a basic tool and show how to use it.
-*   [Mariconda & Tonolo. Discrete Calculus: Methods for Counting](https://www.springer.com/gp/book/9783319030371) - An introduction to combinatorics, finite calculus, formal series, recurrences, and approximations of sums. Readers will find also deep insights into a range of less common topics rarely considered within a single book.
 
 ### Lecture Videos Playlists / Monograph
 
 *   [Demaine. Algorithmic Lower Bounds: Fun with Hardness Proofs](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-890-algorithmic-lower-bounds-fun-with-hardness-proofs-fall-2014/) - A class taking a practical approach to proving problems can't be solved efficient.
 
-### Monographs / Monograph
+### Lecture Videos Playlist / Monograph
 
-*   [Susskind. Three Lectures on Complexity and Black Holes](https://link.springer.com/book/10.1007/978-3-030-45109-7) - Important connections between thermodynamics and complexity are proposed and discussed. Pedagogically written, serves as a fundamental introduction to black holes and their complex physical interpretation
+*   [Lehman, Leighton & Meyer. Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/lecture-slides/) - An introduction to discrete mathematics oriented toward computer science and engineering. - [Companion Textbook](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/readings/MIT6_042JS15_textbook.pdf)
 
 ### Lecture Notes / Monograph
 
-*   [6.893 Philosophy and Theoretical Computer Science. MIT](https://stellar.mit.edu/S/course/6/fa11/6.893/index.html) - It examines the relevance of modern theoretical computer science to traditional questions in philosophy, and conversely, what philosophy can contribute to theoretical computer science.
 *   [Paluszynski. Calculus for Computer Scientists](https://www.math.uni.wroc.pl/~mpal/academic/2013/lecture_notes.pdf) - calculus lecture notes taught for undergrad computer science students
+
+### General / Lecture Notes
+
 *   [Halpern. CS 2802: Discrete Structures - Honors. 2020. Cornell](https://www.cs.cornell.edu/courses/cs2802/2020fa/cs2802-20f-notes.html) - Honors lecture notes on discrete math - [Homework](https://www.cs.cornell.edu/courses/cs2802/2020fa/cs2802-20f-homework.html)
 
-### Papers / Monograph
+### General / Books
+
+*   [Rosen. Handbook of Discrete and Combinatorial Mathematics](https://www.taylorfrancis.com/books/handbook-discrete-combinatorial-mathematics-kenneth-rosen-douglas-shier-wayne-goddard/e/10.1201/9781315156484) - A complete survey of roughly all topics of discrete math and their relevance to computing and communication engineering.
+*   [Rosen. Discrete Mathematics and Its Applications](https://www.mheducation.com/highered/product/discrete-mathematics-applications-rosen/M9780073383095.html) - A canonical discrete math textbook, accessible for even high school students.
+*   [Rosenberg & Trystram. Understand Mathematics, Understand Computing: Discrete Mathematics That All Computing Students Should Know](https://www.springer.com/gp/book/9783030583750) - It endows the reader with an operational conceptual and methodological understanding of discrete mathematics for computing
+*   [Gries & Schneider. A Logical Approach to Discrete Math](https://www.springer.com/gp/book/9780387941158) - It attempts to change the way we teach logic to beginning students. Instead of teaching logic as a subject in isolation, we regard it as a basic tool and show how to use it.
+
+### General / MOOC
+
+*   [Introduction to Discrete Mathematics for Computer Science. UC San-Diego](https://www.coursera.org/specializations/discrete-mathematics) - Learn the language of Computer Science. Learn the math that defines computer science, and practice applying it through mathematical proofs and Python code.
+
+### Other / Lecture Videos Playlist
+
+*   [Mariconda & Tonolo. Discrete Calculus: Methods for Counting](https://www.springer.com/gp/book/9783319030371) - An introduction to combinatorics, finite calculus, formal series, recurrences, and approximations of sums. Readers will find also deep insights into a range of less common topics rarely considered within a single book.
+
+### Books / Lecture Videos Playlist
+
+*   [Feynman. Feynman And Computation: Exploring The Limits Of Computers](https://www.taylorfrancis.com/books/feynman-computation-anthony-hey/e/10.1201/9780429500459)
+*   Feynman’s Course on Computation - See also Preskill's update 40 years later [here](https://arxiv.org/abs/2106.10522)
+*   [Knuth. Things a Computer Scientist Rarely Talks About](https://web.stanford.edu/group/cslipublications/cslipublications/site/1575863278.shtml) - A general illustration of relations between faith and science.
+*   [Floyd & Bokulich. Philosophical Explorations of the Legacy of Alan Turing: Turing 100](https://www.springer.com/gp/book/9783319532783) - Turing’s place in the history and philosophy of science.
+
+### Monographs / Lecture Videos Playlist
+
+*   [Susskind. Three Lectures on Complexity and Black Holes](https://link.springer.com/book/10.1007/978-3-030-45109-7) - Important connections between thermodynamics and complexity are proposed and discussed. Pedagogically written, serves as a fundamental introduction to black holes and their complex physical interpretation
+
+### Lecture Notes / Lecture Videos Playlist
+
+*   [6.893 Philosophy and Theoretical Computer Science. MIT](https://stellar.mit.edu/S/course/6/fa11/6.893/index.html) - It examines the relevance of modern theoretical computer science to traditional questions in philosophy, and conversely, what philosophy can contribute to theoretical computer science.
+
+### Papers / Lecture Videos Playlist
 
 *   [Aaronson. Why Should Philosophers Care About Computational Complexity Theory](https://www.scottaaronson.com/papers/philos.pdf) - It argues that computational complexity theory leads to new perspectives on the nature of mathematical knowledge and other philosophical questions.
 *   [Aharonov & Vazirani, Is Quantum Mechanics Falsifiable? A Computational Perspective on the Foundations of Quantum Mechanics](https://www.researchgate.net/publication/227171743_Is_Quantum_Mechanics_Falsifiable_A_computational_perspective_on_thefoundations_of_Quantum_Mechanics) - It describes how quantum mechanics can be tested in the limit of high complexity regime by extending the usual scientific paradigm to include.
 *   [Walter Dean. Computational Complexity Theory and the Philosophy of Mathematics](https://academic.oup.com/philmat/article/27/3/381/5613215) - It highlights the significance of complexity theory relative to questions traditionally asked by philosophers of mathematics while also attempting to isolate some new ones.
 *   [Stanford Encyclopedia of Philosophy. Computational Complexity Theory](https://plato.stanford.edu/entries/computational-complexity/) - The foundations of complexity theory, and its potential significance on philosophy of computer science, philosophy of mathematics and epistemology.
 *   [Philip Davis. Toward a Philosophy of Computation](https://www.jstor.org/stable/40247755) - Philosophical implication of mathematization and computerization of the world.
-
-### Lecture Videos Playlist / Monograph
-
-*   [Lehman, Leighton & Meyer. Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/lecture-slides/) - An introduction to discrete mathematics oriented toward computer science and engineering. - [Companion Textbook](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/readings/MIT6_042JS15_textbook.pdf)
-
-### MOOC / Monograph
-
-*   [Introduction to Discrete Mathematics for Computer Science. UC San-Diego](https://www.coursera.org/specializations/discrete-mathematics) - Learn the language of Computer Science. Learn the math that defines computer science, and practice applying it through mathematical proofs and Python code.
-
-### Transition To Pure Rigour Math / Monograph
-
 *   [Fortnow & Homer. A Short History of Computational Complexity](https://www.researchgate.net/profile/Lance-Fortnow/publication/220530495_A_Short_History_of_Computational_Complexity/links/0deec52bd7ab603fef000000/A-Short-History-of-Computational-Complexity.pdf) - A historical overview of computational complexity.
 *   [Goldreich. Providing Sound Foundations for Cryptography: On the Work of Shafi Goldwasser and Silvio Micali](http://www.wisdom.weizmann.ac.il/~oded/sst.html) - It explains the remarkable work of Shafi and Silvio and their works' implications on foundations of cryptography.
-*   [Watrous. Quantum Computational Complexity](https://arxiv.org/abs/0804.3401) - A survey on the intersection of computational complexity and quantum computing.
-*   [Harrow & Ashley Montanaro. Quantum Computational Supremacy](https://www.nature.com/articles/nature23458) - A remarkable paper on quantum supremacy.
-*   [Cook. An Overview of Computational Complexity](https://dl.acm.org/doi/abs/10.1145/1283920.1283938?casa_token=I0zkxGUh7zoAAAAA:qUozzyaWcba56dq5q6CXVo2JvGVOzcXY2J8HKoI-OZxEbxhVXlQlWF0pg5ttfs8X8pznp5j7Bbrktg) - A historical overview of computational complexity.
 
-### Aggregators / Monograph
+### Aggregators / Lecture Videos Playlist
 
 *   [CS Theory Events Aggregator](https://cstheory-events.org/) - An aggregator for CS theory workshops and schools.
 *   [Theory Announcements](https://dmatheorynet.blogspot.com/) - DMANET spreads information on conferences, workshops, seminars etc. relating to discrete mathematics and algorithms.
-*   [Conferences in TCS](http://www.nicolas-hermann.net/conf.html) - TCS Conferences collected in one table.
 
-### Live / Monograph
+### Live / Lecture Videos Playlist
 
 *   [TCS+](https://www.youtube.com/user/TCSplusSeminars) - A series of online seminars in theoretical computer science. The goal is to make engaging talks accessible to the widest possible audience.
-*   [Oxford-Warwick Complexity Meetings](https://www.dcs.warwick.ac.uk/~igorcarb/complexity-meetings.html) - Online informal talks dedicated to topics of interest in computational complexity theory and related areas. The goal is to serve as a forum for discussion and quick dissemination of results.
-*   [Simons' Public Lectures](https://simons.berkeley.edu/programs) - Programs, Events, and workshops, that aim toward maximizing impact and engagement across the theoretical computer science community.
 
-### Archived / Monograph
+### Archived / Lecture Videos Playlist
 
-*   [Turing Lectures. ACM](https://amturing.acm.org/lectures.cfm)
-*   ACM A.M. Turing Laureate Interview. Berkeley - Interviews with Berkeley's Turing award winners. - [Shafi Goldwasser and Silvio Micali](https://www.youtube.com/watch?v=yBRbSzPgG4A)
-*   Berkeley in the 80s - Interviews with eminent figures in Berkeley's theoretical computer science. - [Shafi Goldwasser](https://www.youtube.com/watch?v=7D4hIe7M4qU\&t=1s)
-*   [Simons' Theory Shorts](https://www.youtube.com/playlist?list=PLgKuh-lKre134Psz9KECgjuwJ47l3IvqW) - Short accessible videos which populate theory of computation.
-*   Lex Podcast - Informal discussions podcast. - [Donald Knuth 1](https://www.youtube.com/watch?v=2BdBfsXbST8) | [Donald Knuth 2](https://www.youtube.com/watch?v=EE1R8FYUJm0) | [Silvio Micali](https://www.youtube.com/watch?v=zNdhgOk4-fE) | [Richard Karp](https://www.youtube.com/watch?v=KllCrlfLuzs) | [Scott Aaronson 1](https://www.youtube.com/watch?v=uX5t8EivCaM) | [Scott Aaronson 2](https://www.youtube.com/watch?v=nAMjv0NAESM)
 *   [Computational Complexity](https://www.youtube.com/channel/UCzBw287tly0c2lE6a-9XymA) - Collection of workshops.
-*   [Chi-Ning Chou. What is Computation? From Turing Machines to Black Holes and Neurons](https://www.youtube.com/playlist?list=PLUxf7X3NCfHNqOFlnnX9nSTENSzZoOLVp) (see also [main website](https://cnchou.github.io/mini-course/)) - Accessible mini-course that introduces high-level stories of TCS and its intersections with other fields.
 
-### Aggregator / Monograph
-
-*   [CS Theory Jobs](https://cstheory-jobs.org) - TCS Jobs announcements.
-
-### Lists / Monograph
-
-*   [Rubinstein & Weinberg. Research Masters in TCS](https://www.cs.princeton.edu/~smattw/masters/masters.html) - A list of master programs in TCS.
-*   [Barak. Research Masters in TCS](https://docs.google.com/spreadsheets/d/1znVmERIVm2Fz2cbYjXE97VH9eIx7UdaLh5n3FBYb8o8/edit?usp=sharing) - A list of master programs in TCS.
-
-### Online Communities / Monograph
-
-*   [TCS Stack Exchange](https://cstheory.stackexchange.com/) - Stack Exchange (QnA) of theoretical computer science.
-*   [TCS Subreddit](https://www.reddit.com/r/theoreticalcs)- Theoretical computer science's subreddit.
-
-### Blog Posts and Essays / Monograph
+### Selected Posts and Essays / Lecture Videos Playlist
 
 *   [Omer Reingold. The Practice of Theory Research](https://omereingold.wordpress.com/cs-163-the-practice-of-theory-research/) - A research methods course, concentrating on the how rather than the what. It focuses on research practices common for computer science theory research.
 *   [Omer Reingold. TOC: a Personal Perspective (2021)](https://theorydish.blog/2021/04/15/toc-a-personal-perspective-2021/) - In celebration of 25 years for “TOC: a Scientific Perspective (1996),” by Oded Goldreich and Avi Wigderson. It spots the light on a criticism directed to TCS, that it is not as deep as Math and not as useful as CS.
@@ -498,7 +486,22 @@
 *   [Weinberg. Four Golden Lessons](https://www.nature.com/articles/426389a) - Lessons for students and researchers given by Steven Weinberg.
 *   [Terry. Career Advice](https://terrytao.wordpress.com/career-advice/) - A collection of various pieces of advice on academic career issues in mathematics, roughly arranged by the stage of career at which the advice is most pertinent.
 
-### Popular Science Books / Monograph
+### Jobs / Lecture Videos Playlist
+
+*   [Rubinstein & Weinberg. Research Masters in TCS](https://www.cs.princeton.edu/~smattw/masters/masters.html) - A list of master programs in TCS.
+*   [CS Theory Jobs](https://cstheory-jobs.org) - TCS Jobs announcements.
+
+### Online Communities / Lecture Videos Playlist
+
+*   [TCS Stack Exchange](https://cstheory.stackexchange.com/) - Research-oriented Q\&A of theoretical computer science.
+*   [TCS Subreddit](https://www.reddit.com/r/theoreticalcs)- Theoretical computer science's subreddit.
+
+### Podcasts / Lecture Videos Playlist
+
+*   Lex Fridman - [Donald Knuth 1](https://www.youtube.com/watch?v=2BdBfsXbST8) | [Donald Knuth 2](https://www.youtube.com/watch?v=EE1R8FYUJm0) | [Silvio Micali](https://www.youtube.com/watch?v=zNdhgOk4-fE) | [Richard Karp](https://www.youtube.com/watch?v=KllCrlfLuzs) | [Scott Aaronson 1](https://www.youtube.com/watch?v=uX5t8EivCaM) | [Scott Aaronson 2](https://www.youtube.com/watch?v=nAMjv0NAESM)
+*   [Simons' Theory Shorts](https://www.youtube.com/playlist?list=PLgKuh-lKre134Psz9KECgjuwJ47l3IvqW) - Short accessible videos which populate theory of computation.
+
+### Popular Science / Lecture Videos Playlist
 
 *   [Fortnow. The Golden Ticket: P, NP, and the Search for the Impossible](https://goldenticket.fortnow.com) - A nontechnical introduction to P-NP, its rich history, and its algorithmic implications for everything we do with computers and beyond.
 *   [Aaronson. Quantum Computing Since Democritus](https://assets.cambridge.org/97805211/99568/frontmatter/9780521199568_frontmatter.pdf) - It covers an amazing array of topics. Beginning in antiquity with Democritus, it progresses through logic and set theory,computability and complexity theory, quantum computing, cryptography, the information content of quantum states, and the interpretation of quantum mechanics.
@@ -507,19 +510,12 @@
 *   [Petzold. The Annotated Turing: A Guided Tour Through Alan Turing's Historic Paper on Computability and the Turing Machine](http://www.charlespetzold.com/AnnotatedTuring/) -  A Guided Tour through Alan Turing's Historic Paper on Computability and the Turing Machine.
 *   [Shasha & Lazere. Out of their Minds: The Lives and Discoveries of 15 Great Computer Scientists](https://www.springer.com/gp/book/9780387982694) - Interviews with era's greatest scientists about their inspirations, discoveries, and personal interests.
 
-### Cheat Sheets / Monograph
+### Cheat Sheets / Lecture Videos Playlist
 
 *   [TCS Cheat Sheet](https://www.cosy.sbg.ac.at/~held/teaching/aads/TCS-cheat_sheet.pdf) - A sheet of notes containing essential toolboxes needed by any theoretical computer scientist.
-
-### Network Groups / Monograph
-
-*   [SIGACT](https://www.sigact.org/articles/web_pages.html) - Info page of ACM's Special Interest Group on Algorithms and Computation Theory.
-*   [PolyTCS](https://polytcs.wordpress.com/) - A project which promotes massive collaborations to solve theoretical computer science problems.
-*   [Complexity Network](https://sites.google.com/view/complexitynetwork/home) - Hosts collaboration between the three computational complexity groups at Imperial College London, University of Oxford and University of Warwick. It promotes smooth flow of ideas between the three groups and beyond.
-*   [List of TCS Conferences and Workshops](https://cstheory.blogoverflow.com/theoretical-computer-science-conferences-and-workshops/) - A list of conferences and workshops in theoretical computer science.
-*   [Algorithms (⭐19k)](https://github.com/tayllan/awesome-algorithms).
-*   [Cryptography (⭐5.7k)](https://github.com/sobolevn/awesome-cryptography).
-*   [Quantum Computing (⭐2.5k)](https://github.com/desireevl/awesome-quantum-computing).
+*   [Algorithms (⭐21k)](https://github.com/tayllan/awesome-algorithms).
+*   [Cryptography (⭐6k)](https://github.com/sobolevn/awesome-cryptography).
+*   [Quantum Computing (⭐2.6k)](https://github.com/desireevl/awesome-quantum-computing).
 
 ## [22. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/week/README.md)
 
@@ -538,15 +534,15 @@
 
 ### Project Layout
 
-*   [pagoda (⭐1.5k)](https://github.com/mikestefanello/pagoda) - Rapid, easy full-stack web development starter kit built in Go.
+*   [pagoda (⭐2.3k)](https://github.com/mikestefanello/pagoda) - Rapid, easy full-stack web development starter kit built in Go.
+
+### Reflection
+
+*   [objwalker (⭐3)](https://github.com/rekby/objwalker) - Walk by go objects with reflection.
 
 ### Template Engines
 
-*   [got (⭐30)](https://github.com/goradd/got) - A Go code generator inspired by Hero and Fasttemplate. Has include files, custom tag definitions, injected Go code, language translation, and more.
-
-### Utilities
-
-*   [objwalker (⭐2)](https://github.com/rekby/objwalker) - Walk by go objects with reflection.
+*   [got (⭐34)](https://github.com/goradd/got) - A Go code generator inspired by Hero and Fasttemplate. Has include files, custom tag definitions, injected Go code, language translation, and more.
 
 ### Web Frameworks
 
@@ -556,31 +552,30 @@
 
 ### Mobile Games / Android
 
-*   [Pimple Popper (⭐32)](https://github.com/Crazy-Marvin/PimplePopper) - Game to pop pimples using the awesome Godot Engine.
+*   [Pimple Popper (⭐34)](https://github.com/Crazy-Marvin/PimplePopper) - Game to pop pimples using the awesome Godot Engine.
 
 ## [26. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Status Bar
 
-*   [tmux-clima (⭐8)](https://github.com/vascomfnunes/tmux-clima) Displays the current temperature and weather condition using the OpenWeather API.
-*   [tmux-cpu (⭐418)](https://github.com/tmux-plugins/tmux-cpu) Show CPU load with easy icons
-*   [tmux-df (⭐28)](https://github.com/tassaron/tmux-df) - Show available disk space (output of df command)
-*   [tmux-kripto (⭐4)](https://github.com/vascomfnunes/tmux-kripto) Add a cryptocurrency stock price to the statusbar.
+*   [tmux-clima (⭐13)](https://github.com/vascomfnunes/tmux-clima) Displays the current temperature and weather condition using the OpenWeather API.
+*   [tmux-cpu (⭐454)](https://github.com/tmux-plugins/tmux-cpu) Show CPU load with easy icons
+*   [tmux-df (⭐32)](https://github.com/tassaron/tmux-df) - Show available disk space (output of df command)
+*   [tmux-kripto (⭐5)](https://github.com/vascomfnunes/tmux-kripto) Add a cryptocurrency stock price to the statusbar.
 
 ### Plugins
 
-*   [tmux-modal (⭐169)](https://github.com/whame/tmux-modal) - Execute complex tmux commands in just a few keystrokes with a modal mode that is designed to be efficient, easy to remember and comfortable.
+*   [tmux-modal (⭐187)](https://github.com/whame/tmux-modal) - Execute complex tmux commands in just a few keystrokes with a modal mode that is designed to be efficient, easy to remember and comfortable.
 
 ## [27. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Neovim Lua Development / Diagnostics
 
-*   [nanotee/luv-vimdocs (⭐69)](https://github.com/nanotee/luv-vimdocs) - The luv docs in vimdoc format.
-*   [milisims/nvim-luaref (⭐120)](https://github.com/milisims/nvim-luaref) - A reference for builtin Lua functions.
+*   [milisims/nvim-luaref (⭐124)](https://github.com/milisims/nvim-luaref) - A reference for builtin Lua functions.
 
 ### Formatting / Diagnostics
 
-*   [gpanders/editorconfig.nvim (⭐321)](https://github.com/gpanders/editorconfig.nvim) - An EditorConfig plugin written in Fennel.
+*   [gpanders/editorconfig.nvim (⭐325)](https://github.com/gpanders/editorconfig.nvim) - An EditorConfig plugin written in Fennel.
 
 ## [28. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
@@ -596,9 +591,9 @@
 
 ## [30. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
-### Templates / Godot 3.2+
+### Templates / Godot 3
 
-*   [Godot First Person Camera (⭐54)](https://github.com/tavurth/godot-simple-fps-camera) - A simple FPS starter with jumping, movement, flashlight and a player character with animations.
+*   [Godot First Person Camera (⭐59)](https://github.com/tavurth/godot-simple-fps-camera) - A simple FPS starter with jumping, movement, flashlight and a player character with animations.
 
 ## [31. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -638,14 +633,14 @@
 
 ### Extensions / Community
 
-*   [Search Sync (⭐112)](https://github.com/dimitrov-adrian/directus-extension-searchsync) - Sync data into a search engine index, supports Algolia, ElasticSearch & MeiliSearch.
-*   [Dictionary (⭐39)](https://github.com/georgexchelebiev/directus-dictionary) - Save key-value pairs as JSON blobs with a progress indicator for completeness.
-*   [WordPress-like Slug (⭐93)](https://github.com/dimitrov-adrian/directus-extension-wpslug-interface) - Slug/Permalink interface with support for pre- and suffixes.
-*   [Link Meta (⭐26)](https://github.com/dimitrov-adrian/directus-extension-linkmeta) - Stores hyperlink metadata into Directus.
-*   [Group Modal (⭐57)](https://github.com/dimitrov-adrian/directus-extension-group-modal-interface) - Group interface fields into a modal that can be opened with a button.
-*   [Display Link (⭐56)](https://github.com/jacoborus/directus-extension-display-link) - Display URLs with an "open in new tab" button.
-*   [SQL Panel (⭐18)](https://github.com/harish2704/directus-sql-panel) - Panel component which shows result of stored SQL query as a table.
-*   [SVG Map Picker Interface (⭐31)](https://github.com/dimitrov-adrian/directus-extension-svgmap-picker-interface) - Select a value from a SVG Map box.
+*   [Search Sync (⭐116)](https://github.com/dimitrov-adrian/directus-extension-searchsync) - Sync data into a search engine index, supports Algolia, ElasticSearch & MeiliSearch.
+*   [Dictionary (⭐40)](https://github.com/georgexchelebiev/directus-dictionary) - Save key-value pairs as JSON blobs with a progress indicator for completeness.
+*   [WordPress-like Slug (⭐97)](https://github.com/dimitrov-adrian/directus-extension-wpslug-interface) - Slug/Permalink interface with support for pre- and suffixes.
+*   [Link Meta (⭐28)](https://github.com/dimitrov-adrian/directus-extension-linkmeta) - Stores hyperlink metadata into Directus.
+*   [Group Modal (⭐62)](https://github.com/dimitrov-adrian/directus-extension-group-modal-interface) - Group interface fields into a modal that can be opened with a button.
+*   [Display Link (⭐60)](https://github.com/jacoborus/directus-extension-display-link) - Display URLs with an "open in new tab" button.
+*   [SQL Panel (⭐19)](https://github.com/harish2704/directus-sql-panel) - Panel component which shows result of stored SQL query as a table.
+*   [SVG Map Picker Interface (⭐33)](https://github.com/dimitrov-adrian/directus-extension-svgmap-picker-interface) - Select a value from a SVG Map box.
 
 ## [33. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
@@ -657,7 +652,7 @@
 
 *   [Axon (c)](https://axoniq.io/) - An end-to-end development and infrastructure platform for easy development and running of any DDD, CQRS and Event Sourcing applications on JVM.
 
-### Coordination & Governance / Scala
+### Workflow Orchestration / Scala
 
 *   [AWS Step Functions (c)](https://aws.amazon.com/step-functions/) - Coordinate the components of distributed applications and microservices using visual workflows.
 
@@ -697,51 +692,51 @@
 
 ## [34. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
 
-### Internationalisation / Checkbox
+### Internationalization / Form Components
 
-*   [svelte-fluent (⭐91)](https://github.com/nubolab-ffwd/svelte-fluent) - Components for easy integration of [Fluent](https://projectfluent.org/) localization.
-*   [svelte-i18n (⭐1.2k)](https://github.com/kaisermann/svelte-i18n) - Internationalization library for Svelte.
-*   [sveltekit-i18n (⭐456)](https://github.com/jarda-svoboda/sveltekit-i18n) - For integrating [i18n](https://www.npmjs.com/package/i18n) style localization in SvelteKit.
+*   [svelte-fluent (⭐96)](https://github.com/nubolab-ffwd/svelte-fluent) - Components for easy integration of [Fluent](https://projectfluent.org/) localization.
+*   [svelte-i18n (⭐1.3k)](https://github.com/kaisermann/svelte-i18n) - Internationalization library for Svelte.
+*   [sveltekit-i18n (⭐513)](https://github.com/jarda-svoboda/sveltekit-i18n) - For integrating [i18n](https://www.npmjs.com/package/i18n) style localization in SvelteKit.
 
 ## [35. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### Tools
 
-*   [ndm (⭐53)](https://github.com/gitbls/ndm) - Command line tool to easily manage DNS and DHCP servers.
-*   [pistrong (⭐52)](https://github.com/gitbls/pistrong) - Manage certificate-secured strongSwan VPNs. Installer and command-line tool for client-server, site-to-site, and host-to-host VPNs.
-*   [sdm (⭐401)](https://github.com/gitbls/sdm) - Easily and fully customize RasPiOS images. Install apps, configure settings, etc then burn SSDs/SD cards for lots of different systems from a single image, and each one boots up fully configured and ready for work. Or play.
+*   [ndm (⭐58)](https://github.com/gitbls/ndm) - Command line tool to easily manage DNS and DHCP servers.
+*   [pistrong (⭐55)](https://github.com/gitbls/pistrong) - Manage certificate-secured strongSwan VPNs. Installer and command-line tool for client-server, site-to-site, and host-to-host VPNs.
+*   [sdm (⭐461)](https://github.com/gitbls/sdm) - Easily and fully customize RasPiOS images. Install apps, configure settings, etc then burn SSDs/SD cards for lots of different systems from a single image, and each one boots up fully configured and ready for work. Or play.
 
 ## [36. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### CMS
 
-*   [Squidex (⭐2.2k)](https://github.com/Squidex/squidex) ![GitHub stars](https://img.shields.io/github/stars/Squidex/squidex?style=flat-square\&cacheSeconds=604800) ![GitHub stars](https://img.shields.io/github/last-commit/Squidex/squidex?style=flat-square\&cacheSeconds=86400) - Open source headless CMS and content management hub.  <https://squidex.io>
+*   [Squidex (⭐2.3k)](https://github.com/Squidex/squidex) ![GitHub stars](https://img.shields.io/github/stars/Squidex/squidex?style=flat-square\&cacheSeconds=604800) ![GitHub stars](https://img.shields.io/github/last-commit/Squidex/squidex?style=flat-square\&cacheSeconds=86400) - Open source headless CMS and content management hub.  <https://squidex.io>
 
 ### Regular Expression
 
-*   [RegExtract (⭐698)](https://github.com/sblom/RegExtract) - Clean & simple idiomatic C# RegEx-based line parser that emits strongly typed results.
+*   [RegExtract (⭐699)](https://github.com/sblom/RegExtract) - Clean & simple idiomatic C# RegEx-based line parser that emits strongly typed results.
 
 ### Tools
 
-*   [UnitsNet (⭐2.2k)](https://github.com/angularsen/UnitsNet) - Makes life working with units of measurement just a little bit better.
+*   [UnitsNet (⭐2.7k)](https://github.com/angularsen/UnitsNet) - Makes life working with units of measurement just a little bit better.
 
 ## [37. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [vite-compression-plugin (⭐157)](https://github.com/XeryYue/vite-compression-plugin) - Use Node.js stream compress file to gzip or more.
+*   [vite-compression-plugin (⭐197)](https://github.com/XeryYue/vite-compression-plugin) - Use Node.js stream compress file to gzip or more.
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-pug-transformer (⭐35)](https://github.com/TheSeally/vite-plugin-pug-transformer) - Pug template engine support.
+*   [vite-plugin-pug-transformer (⭐38)](https://github.com/TheSeally/vite-plugin-pug-transformer) - Pug template engine support.
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-dynamic-base (⭐69)](https://github.com/chenxch/vite-plugin-dynamic-base) - Resolve all resource files dynamic publicPath.
+*   [vite-plugin-dynamic-base (⭐71)](https://github.com/chenxch/vite-plugin-dynamic-base) - Resolve all resource files dynamic publicPath.
 
 ### CakePHP / Community
 
-*   [cakephp-vite (⭐19)](https://github.com/passchn/cakephp-vite) - Integration for CakePHP.
+*   [cakephp-vite (⭐20)](https://github.com/passchn/cakephp-vite) - Integration for CakePHP.
 
 ## [38. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
@@ -757,10 +752,10 @@
 
 ### UI
 
-*   [Helium (⭐95)](https://github.com/qeffects/helium) - A modern, customizable, high performance retained UI framework.
+*   [Helium (⭐103)](https://github.com/qeffects/helium) - A modern, customizable, high performance retained UI framework.
 *   [ListBox (⭐14)](https://github.com/darkmetalic/ListBox) - A dynamic ListBox for LÖVE that supports touch, mouse, and keyboard inputs.
 *   [Lynx](https://gitlab.com/TSnake41/lynx) - Very-lightweight list-based UI library.
-*   [Plan (⭐21)](https://github.com/zombrodo/plan) - A super simple Rule-based layout library.
+*   [Plan (⭐24)](https://github.com/zombrodo/plan) - A super simple Rule-based layout library.
 
 ## [40. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
 
@@ -784,14 +779,14 @@
 
 ### Python / React
 
-*   [turms (⭐59)](https://github.com/jhnnsrs/turms) - A pythonic graphql codegenerator built around graphql-core and pydantic
-*   [rath (⭐9)](https://github.com/jhnnsrs/rath) - An apollo like graphql client with async and sync interface
+*   [turms (⭐63)](https://github.com/jhnnsrs/turms) - A pythonic graphql codegenerator built around graphql-core and pydantic
+*   [rath (⭐10)](https://github.com/jhnnsrs/rath) - An apollo like graphql client with async and sync interface
 
 ## [44. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 
 ### End-user applications / XML
 
-*   [Cryptic-Resolver (⭐2)](https://github.com/cryptic-resolver/cr_D) -  Manage cryptic commands' names, acronyms and your own knowledge base (a command line utility)
+*   [Cryptic-Resolver](https://github.com/cryptic-resolver/cr_D) -  Manage cryptic commands' names, acronyms and your own knowledge base (a command line utility)
 
 ## [45. Awesome Bitcoin Payment Processors](/content/alexk111/awesome-bitcoin-payment-processors/week/README.md)
 
@@ -828,13 +823,13 @@
 
 ### Modules / Webview
 
-*   [Astrodon (⭐927)](https://github.com/astrodon/astrodon) - Modular framework for building native multi-platform apps with Deno and webview.
+*   [Astrodon (⭐937)](https://github.com/astrodon/astrodon) - Modular framework for building native multi-platform apps with Deno and webview.
 
 ## [47. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
 ### Third-Party Packages / General
 
-*   [django-data-browser (⭐336)](https://github.com/tolomea/django-data-browser) - Interactive, user-friendly database explorer.
+*   [django-data-browser (⭐357)](https://github.com/tolomea/django-data-browser) - Interactive, user-friendly database explorer.
 
 ### Resources / Books
 
@@ -844,9 +839,8 @@
 
 ### Components & Libraries / UI Components
 
-*   [swiper (⭐39k)](https://github.com/nolimits4web/swiper) - Official Swiper component for Vue 3. Tree shakable, SSR support, typing, a11y and a lot more
-*   [vue3-side-panel (⭐58)](https://github.com/headmandev/vue3-side-panel) - 🔥 Easy to use and flexible modal sidebar component for Vue3.
-*   [vue-search-input (⭐31)](https://github.com/kouts/vue-search-input) - A Vue 3 search input component, inspired by the global search input of Storybook and GitHub.
+*   [swiper (⭐40k)](https://github.com/nolimits4web/swiper) - Official Swiper component for Vue 3. Tree shakable, SSR support, typing, a11y and a lot more
+*   [vue-search-input (⭐32)](https://github.com/kouts/vue-search-input) - A Vue 3 search input component, inspired by the global search input of Storybook and GitHub.
 
 ### Components & Libraries / Utilities
 
@@ -866,32 +860,25 @@
 
 ### Libraries / Go
 
-*   [posteo/go-agentx (⭐53)](https://github.com/posteo/go-agentx) - A library with a pure Go implementation of the AgentX-Protocol.
+*   [posteo/go-agentx (⭐58)](https://github.com/posteo/go-agentx) - A library with a pure Go implementation of the AgentX-Protocol.
 
 ### Libraries / Python
 
-*   [pysnmp (⭐556)](https://github.com/etingof/pysnmp) - This is a pure-Python, open source and free implementation of v1/v2c/v3 SNMP engine distributed under 2-clause BSD license.
-    *   This project has been abandoned [due to the death of the sole maintainer (⭐556)](https://github.com/etingof/pysnmp/issues/427).
-    *   Some forks have been created to continue the project and the ecosystem around it. See [here (⭐556)](https://github.com/etingof/pysnmp/issues/429).
-    *   The leading fork seems to be [lextudio/pysnmp (⭐46)](https://github.com/lextudio/pysnmp). ![GitHub last commit](https://img.shields.io/github/last-commit/lextudio/pysnmp)
-    *   There is also a [community fork (⭐45)](https://github.com/pysnmp/pysnmp) under active development, but it is not clear if that project is commited to maintaining all the associated repos, documentation, and websites. ![GitHub last commit](https://img.shields.io/github/last-commit/pysnmp/pysnmp)
-*   [pysmi (⭐127)](https://github.com/etingof/pysmi) - PySMI is a pure-Python implementation of SNMP SMI MIB parser.
-    *   Abandoned for the same reason as the above pysnmp project. See [lextudio/pysmi (⭐2)](https://github.com/lextudio/pysmi). ![GitHub last commit](https://img.shields.io/github/last-commit/lextudio/pysmi)
 *   [net-snmp Python bindings](http://www.net-snmp.org/wiki/index.php/Python_Bindings) - Net-SNMP 5.4 and later contains Python bindings in the "python" sub-directory, though, they are not built by default. ![GitHub last commit](https://img.shields.io/github/last-commit/net-snmp/net-snmp)
-*   [puresnmp (⭐74)](https://github.com/exhuma/puresnmp) - Pure Python3 SNMPv2 library without any dependencies. ![GitHub last commit](https://img.shields.io/github/last-commit/exhuma/puresnmp)
-*   [snimpy (⭐184)](https://github.com/vincentbernat/snimpy) - Snimpy is a Python-based tool providing a simple interface to build SNMP query. ![GitHub last commit](https://img.shields.io/github/last-commit/vincentbernat/snimpy)
-*   [python-netsnmpagent (⭐67)](https://github.com/pief/python-netsnmpagent) - This package allows to write net-snmp subagents in Python. ![GitHub last commit](https://img.shields.io/github/last-commit/pief/python-netsnmpagent)
+*   [puresnmp (⭐79)](https://github.com/exhuma/puresnmp) - Pure Python3 SNMPv2 library without any dependencies. ![GitHub last commit](https://img.shields.io/github/last-commit/exhuma/puresnmp)
+*   [snimpy (⭐185)](https://github.com/vincentbernat/snimpy) - Snimpy is a Python-based tool providing a simple interface to build SNMP query. ![GitHub last commit](https://img.shields.io/github/last-commit/vincentbernat/snimpy)
+*   [python-netsnmpagent (⭐68)](https://github.com/pief/python-netsnmpagent) - This package allows to write net-snmp subagents in Python. ![GitHub last commit](https://img.shields.io/github/last-commit/pief/python-netsnmpagent)
 *   [hnmp (⭐49)](https://github.com/trehn/hnmp) - HNMP is a high-level Python library to ease the pain of retrieving and processing data from SNMP-capable devices such as network switches, routers, and printers. ![GitHub last commit](https://img.shields.io/github/last-commit/trehn/hnmp)
-*   [aiosnmp (⭐44)](https://github.com/hh-h/aiosnmp) - Python package aiosnmp is an asynchronous SNMP client for use with asyncio. Only SNMP v2c is supported. ![GitHub last commit](https://img.shields.io/github/last-commit/hh-h/aiosnmp)
+*   [aiosnmp (⭐45)](https://github.com/hh-h/aiosnmp) - Python package aiosnmp is an asynchronous SNMP client for use with asyncio. Only SNMP v2c is supported. ![GitHub last commit](https://img.shields.io/github/last-commit/hh-h/aiosnmp)
 
 ### Libraries / Ruby
 
-*   [ruby-netsnmp (⭐33)](https://github.com/swisscom/ruby-netsnmp) - SNMP library in ruby (v1, v2c, v3).
+*   [ruby-netsnmp (⭐34)](https://github.com/swisscom/ruby-netsnmp) - SNMP library in ruby (v1, v2c, v3).
 
 ### Libraries / Rust
 
-*   [snmp-parser (⭐41)](https://github.com/rusticata/snmp-parser) - SNMP parser written in rust with nom parser combinator framework.
-*   [davedufresne/modern\_snmp (⭐21)](https://github.com/davedufresne/modern_snmp) - Modern SNMP is a pure-Rust library for SNMPv3. This repository includes snmp\_mp (SNMPv3 Message Processing) and snmp\_usm (Implementation of the User-based Security Model (USM) for SNMPv3) crates.
+*   [snmp-parser (⭐43)](https://github.com/rusticata/snmp-parser) - SNMP parser written in rust with nom parser combinator framework.
+*   [davedufresne/modern\_snmp (⭐23)](https://github.com/davedufresne/modern_snmp) - Modern SNMP is a pure-Rust library for SNMPv3. This repository includes snmp\_mp (SNMPv3 Message Processing) and snmp\_usm (Implementation of the User-based Security Model (USM) for SNMPv3) crates.
 *   [Svedrin/sunt (⭐25)](https://github.com/Svedrin/sunt) - This repository implements an SNMP Agent written in Rust.
 
 ### Tools / CLIs
@@ -902,11 +889,11 @@
     *   [smidiff](https://www.ibr.cs.tu-bs.de/projects/libsmi/smidiff.html) - This is a tool that parses two revisions of a MIB module and analyzes the modifications from the old to the new revision.
     *   [smiquery](https://www.ibr.cs.tu-bs.de/projects/libsmi/smiquery.html) - This is a MIB/PIB query front end. It can be used to query single items from the command line.
     *   [smistrip](https://www.ibr.cs.tu-bs.de/projects/libsmi/smistrip.html) - This is a simple shell/awk script that allows to extract MIB and PIB modules from documents, such as RFCs or Internet Drafts.
-*   [snmpsim (⭐362)](https://github.com/etingof/snmpsim) - This is a pure-Python, open source and free implementation of SNMP agents simulator distributed under 2-clause BSD license.
-*   [snmpfwd (⭐66)](https://github.com/etingof/snmpfwd) - The SNMP Proxy Forwarder tool works as an application-level proxy with a built-in SNMP message router. Typical use case for an SNMP proxy is to work as an application-level firewall or a protocol translator that enables SNMPv3 access to a SNMPv1/SNMPv2c entity or vice versa.
-*   [snmpclitools (⭐52)](https://github.com/etingof/snmpclitools) - This is a collection of command-line SNMP tools written in pure-Python. The tools mimic their famous Net-SNMP counterparts. It includes snmpget.py, snmpset.py, snmpwalk.py, snmpbulkwalk.py, snmptrap.py, and snmptranslate.py, see [here](https://snmplabs.thola.io/snmpclitools/) for more details.
-*   [snmpwn (⭐229)](https://github.com/hatlord/snmpwn) - SNMPwn is an SNMPv3 user enumerator and attack tool.
-*   [trapperkeeper (⭐81)](https://github.com/dropbox/trapperkeeper) - A suite of tools for ingesting and displaying SNMP traps. This is designed as a replacement for snmptrapd and to supplement existing stateful monitoring solutions.
+*   [snmpsim (⭐387)](https://github.com/etingof/snmpsim) - This is a pure-Python, open source and free implementation of SNMP agents simulator distributed under 2-clause BSD license.
+*   [snmpfwd (⭐68)](https://github.com/etingof/snmpfwd) - The SNMP Proxy Forwarder tool works as an application-level proxy with a built-in SNMP message router. Typical use case for an SNMP proxy is to work as an application-level firewall or a protocol translator that enables SNMPv3 access to a SNMPv1/SNMPv2c entity or vice versa.
+*   [snmpclitools (⭐53)](https://github.com/etingof/snmpclitools) - This is a collection of command-line SNMP tools written in pure-Python. The tools mimic their famous Net-SNMP counterparts. It includes snmpget.py, snmpset.py, snmpwalk.py, snmpbulkwalk.py, snmptrap.py, and snmptranslate.py, see [here](https://snmplabs.thola.io/snmpclitools/) for more details.
+*   [snmpwn (⭐243)](https://github.com/hatlord/snmpwn) - SNMPwn is an SNMPv3 user enumerator and attack tool.
+*   [trapperkeeper (⭐82)](https://github.com/dropbox/trapperkeeper) - A suite of tools for ingesting and displaying SNMP traps. This is designed as a replacement for snmptrapd and to supplement existing stateful monitoring solutions.
 
 ### Tools / GUIs
 
@@ -922,24 +909,24 @@
 ### Applications / Emulators
 
 *   ZX Spectrum
-    *   [rustzx/rustzx (⭐200)](https://github.com/rustzx/rustzx) - [![RustZX CI](https://github.com/rustzx/rustzx/actions/workflows/ci.yml/badge.svg)](https://github.com/rustzx/rustzx/actions/workflows/ci.yml)
+    *   [rustzx/rustzx (⭐205)](https://github.com/rustzx/rustzx) - [![RustZX CI](https://github.com/rustzx/rustzx/actions/workflows/ci.yml/badge.svg)](https://github.com/rustzx/rustzx/actions/workflows/ci.yml)
 
 ### Development tools / Web Servers
 
-*   [create-rust-app (⭐1.5k)](https://github.com/Wulf/create-rust-app) - Set up a modern rust+react web app by running one command. [![crate](https://img.shields.io/crates/v/create-rust-app.svg)](https://crates.io/crates/create-rust-app)
+*   [create-rust-app (⭐1.6k)](https://github.com/Wulf/create-rust-app) - Set up a modern rust+react web app by running one command. [![crate](https://img.shields.io/crates/v/create-rust-app.svg)](https://crates.io/crates/create-rust-app)
 
 ### Libraries / Authentication
 
-*   [constantoine/totp-rs (⭐162)](https://github.com/constantoine/totp-rs) \[[totp-rs](https://crates.io/crates/totp-rs)] - 2fa library to generate and verify TOTP-based tokens ![Build Status](https://github.com/constantoine/totp-rs/workflows/Rust/badge.svg)
+*   [constantoine/totp-rs (⭐192)](https://github.com/constantoine/totp-rs) \[[totp-rs](https://crates.io/crates/totp-rs)] - 2fa library to generate and verify TOTP-based tokens ![Build Status](https://github.com/constantoine/totp-rs/workflows/Rust/badge.svg)
 
 ### Libraries / GUI
 
-*   [DioxusLabs/dioxus (⭐20k)](https://github.com/dioxuslabs/dioxus) - a portable, performant, and ergonomic framework for building cross-platform user interfaces in Rust. ![rust ci](https://github.com/dioxuslabs/dioxus/actions/workflows/main.yml/badge.svg)
+*   [DioxusLabs/dioxus (⭐25k)](https://github.com/dioxuslabs/dioxus) - a portable, performant, and ergonomic framework for building cross-platform user interfaces in Rust. ![rust ci](https://github.com/dioxuslabs/dioxus/actions/workflows/main.yml/badge.svg)
 
 ### Libraries / Network programming
 
 *   Bluetooth
-    *   [bluez/bluer (⭐288)](https://github.com/bluez/bluer) \[[bluer](https://crates.io/crates/bluer)] - Official BlueZ bindings. [![build badge](https://github.com/bluez/bluer/actions/workflows/rust.yml/badge.svg?branch=master)](https://github.com/bluez/bluer/actions/workflows/rust.yml)
+    *   [bluez/bluer (⭐333)](https://github.com/bluez/bluer) \[[bluer](https://crates.io/crates/bluer)] - Official BlueZ bindings. [![build badge](https://github.com/bluez/bluer/actions/workflows/rust.yml/badge.svg?branch=master)](https://github.com/bluez/bluer/actions/workflows/rust.yml)
 
 ## [52. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
 
@@ -949,7 +936,7 @@
 
 ### Table of Contents / Toolkit
 
-*   [Nussknacker (⭐633)](https://github.com/TouK/nussknacker) \[Scala] - A visual tool to define and run real-time decision algorithms.
+*   [Nussknacker (⭐670)](https://github.com/TouK/nussknacker) \[Scala] - A visual tool to define and run real-time decision algorithms.
 
 ## [53. Public Apis](/content/public-apis/public-apis/week/README.md)
 
@@ -990,8 +977,6 @@
 
   CORS: Yes
 
-  Call this API: 
-
 
 - API: [Freelancer](https://developers.freelancer.com)
 
@@ -1003,8 +988,6 @@
 
   CORS: Unknown
 
-  Call this API: 
-
 
 - API: [markerapi](https://markerapi.com)
 
@@ -1015,8 +998,6 @@
   HTTPS: No
 
   CORS: Unknown
-
-  Call this API: 
 
 
 
@@ -1032,7 +1013,7 @@
 
   CORS: Unknown
 
-  Postman: 
+  : 
 
 
 
@@ -1131,7 +1112,7 @@
 
   CORS: Yes
 
-  Call this API: 
+  : 
 
 
 - API: [US Extract](https://www.smarty.com/products/apis/us-extract-api)
@@ -1144,7 +1125,7 @@
 
   CORS: Yes
 
-  Call this API: 
+  : 
 
 
 - API: [US Street Address](https://www.smarty.com/docs/cloud/us-street-api)
@@ -1157,7 +1138,7 @@
 
   CORS: Yes
 
-  Call this API: 
+  : 
 
 
 
@@ -1273,7 +1254,7 @@
 
   CORS: Unknown
 
-  Call this API: 
+  : 
 
 
 
@@ -1753,15 +1734,15 @@
 
 ### Developer Tools / IDEs
 
-*   [CodeRunner](https://coderunnerapp.com) - A lightweight, multi-language programming text editor and IDE for quickly building, running and debugging code.
+*   [CodeRunner](https://coderunnerapp.com) - Lightweight, multi-language programming text editor and IDE.
 
 ### Developer Tools / Command Line Tools
 
-*   [ripgrep (rg) (⭐47k)](https://github.com/BurntSushi/ripgrep) - Very fast text searching tool similar to (but faster than) ack, ag or grep ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [ripgrep (rg) (⭐50k)](https://github.com/BurntSushi/ripgrep) - Very fast text searching tool similar to (but faster than) ack, ag or grep ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Design and Product / Screencapturing Software
 
-*   [Shottr](https://shottr.cc/) - Screen capture application with features like Scrolling capture, OCR and markup. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Shottr](https://shottr.cc/) - Screen capture application with features like Scrolling capture, OCR and markup.
 
 ### Communication / Collaboration and Team Tools
 

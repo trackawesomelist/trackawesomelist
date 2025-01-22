@@ -1,6 +1,6 @@
 # Awesome List Updates on May 03, 2021
 
-6 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Component Libraries
 
-*   [dash-uploader (⭐102)](https://github.com/np-8/dash-uploader) - Upload component for Dash. Supports large data files.
+*   [dash-uploader (⭐145)](https://github.com/np-8/dash-uploader) - Upload component for Dash. Supports large data files.
 
 ## [2. Awesome Earth](/content/philsturgeon/awesome-earth/README.md)
 
@@ -18,25 +18,19 @@
 
 *   [ReNu Furniture](https://renufurniture.co.uk/) - Prevent landfill waste and buy second-hand, upcycled and handmade furniture easily with ReNu Furniture. Based in Brighton and covering the UK southeast, this start up will manage the collection, delivery and payments for every furniture sale - they even plant a tree for every delivery to offset carbon emissions.
 
-## [3. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / Utilities
-
-*   [vue-i18n-lite (⭐12)](https://github.com/FrontLabsOfficial/vue-i18n-lite) - A super lightweight and minimal plugin that introduces internationalization into your Vue.js app with a simple API.
-
-## [4. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
+## [3. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
 ### PHP / Scala
 
 *   [Ecotone](https://docs.ecotone.tech/) - Framework based on architectural principles of DDD, CQRS and Event Sourcing that provides building blocks to create scalable and extensible applications.
 
-## [5. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
+## [4. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
 
 ### Software / Libraries and Tools
 
 *   [United Manufacturing Hub (⭐225)](https://github.com/united-manufacturing-hub/united-manufacturing-hub) - The Open-Source Manufacturing App Platform (combines various open source solutions and packages them in a Helm chart, for example, Nodered, VerneMQ and timescaleDB)
 
-## [6. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
+## [5. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
 ### ✔ RSS Feed Validator / Outline Processor Markup Language
 
@@ -45,9 +39,9 @@
 ### Apps / Outline Processor Markup Language
 
 *   [NewsFlash](https://gitlab.com/news-flash/news_flash_gtk) <sup>[1008](https://t.me/s/aboutrss/1008)</sup> [![Linux](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Linux.png)](https://flathub.org/apps/details/com.gitlab.newsflash)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://gitlab.com/news-flash/news_flash_gtk)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
-*   [Flym (⭐954)](https://github.com/FredJul/Flym) <sup>[981](https://t.me/s/aboutrss/981)</sup> [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://camo.githubusercontent.com/bdaf711a93d64d0bb5e5abfc346a8b84ea47f164/68747470733a2f2f706c61792e676f6f676c652e636f6d2f696e746c2f656e5f75732f6261646765732f696d616765732f67656e657269632f656e2d706c61792d62616467652e706e67)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/FredJul/Flym)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+*   [Flym (⭐953)](https://github.com/FredJul/Flym) <sup>[981](https://t.me/s/aboutrss/981)</sup> [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://camo.githubusercontent.com/bdaf711a93d64d0bb5e5abfc346a8b84ea47f164/68747470733a2f2f706c61792e676f6f676c652e636f6d2f696e746c2f656e5f75732f6261646765732f696d616765732f67656e657269632f656e2d706c61792d62616467652e706e67)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/FredJul/Flym)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 *   [Ark View](https://www.definestudio.in/2018/02/introducing-ark-view.html) <sup>[971](https://t.me/s/aboutrss/971)</sup> [![Windows](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-windows-10-16.png)](https://www.microsoft.com/store/apps/9pfxdzf5hkfv)
-*   [Brook (⭐22)](https://github.com/adamsanderson/brook) <sup>[976](https://t.me/s/aboutrss/976)</sup> [![Firefox](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Mozilla.png)](https://addons.mozilla.org/en-US/firefox/addon/brook-feed-reader/)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/adamsanderson/brook)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+*   [Brook (⭐23)](https://github.com/adamsanderson/brook) <sup>[976](https://t.me/s/aboutrss/976)</sup> [![Firefox](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Mozilla.png)](https://addons.mozilla.org/en-US/firefox/addon/brook-feed-reader/)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/adamsanderson/brook)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 *   [Stories Now](https://n4no.com/projects/storiesNow/) <sup>[1002](https://t.me/s/aboutrss/1002)</sup> [![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](http://apps.apple.com/pl/app/stories-now/id1557096867)[![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](http://play.google.com/store/apps/details?id=com.n4no.storiesNow)
 *   [feedo](https://feedo-android.github.io/) <sup>[1018](https://t.me/s/aboutrss/1018)</sup> [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=com.evalution.feedo)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
@@ -82,9 +76,9 @@
 
 ### RSS services powered by utilizing GitHub / Outline Processor Markup Language
 
-*   [GARSS (⭐1.1k)](https://github.com/zhaoolee/garss) <sup>[973](https://t.me/s/aboutrss/973)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/zhaoolee/garss)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
-*   [osmos::feed (⭐930)](https://github.com/osmoscraft/osmosfeed) <sup>[1012](https://t.me/s/aboutrss/1012)</sup>: a web-based RSS reader running entirely on GitHub [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/osmoscraft/osmosfeed)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
-*   [RSSeveryday (⭐207)](https://github.com/GuangzheJiang/rss_everyday) <sup>[1016](https://t.me/s/aboutrss/1016)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/GuangzheJiang/rss_everyday)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+*   [GARSS (⭐1.2k)](https://github.com/zhaoolee/garss) <sup>[973](https://t.me/s/aboutrss/973)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/zhaoolee/garss)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+*   [osmos::feed (⭐952)](https://github.com/osmoscraft/osmosfeed) <sup>[1012](https://t.me/s/aboutrss/1012)</sup>: a web-based RSS reader running entirely on GitHub [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/osmoscraft/osmosfeed)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+*   [RSSeveryday (⭐204)](https://github.com/GuangzheJiang/rss_everyday) <sup>[1016](https://t.me/s/aboutrss/1016)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/GuangzheJiang/rss_everyday)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
 ### Other Apps / Outline Processor Markup Language
 
@@ -105,7 +99,7 @@
 ### 🔨 Blog Generator that Support RSS / Crypto or Blockchain relevant
 
 *   [Hey World](https://hey.com/world/) <sup>[1282](https://t.me/s/aboutrss/1282)</sup>
-*   [Nobelium (⭐2.9k)](https://github.com/craigary/nobelium) <sup>[999](https://t.me/s/aboutrss/999)</sup>
+*   [Nobelium (⭐3k)](https://github.com/craigary/nobelium) <sup>[999](https://t.me/s/aboutrss/999)</sup>
 *   [Ghost](https://ghost.org/) <sup>[999](https://t.me/s/aboutrss/999)</sup>
 *   [pu-blog](https://py-blog.zcmimi.top/) <sup>[999](https://t.me/s/aboutrss/999)</sup>
 *   [Maverick](https://alandecode.github.io/Maverick/) <sup>[999](https://t.me/s/aboutrss/999)</sup>
@@ -154,7 +148,7 @@
 ### XSL template for XML / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [RSS style with XSL](https://lepture.com/en/2019/rss-style-with-xsl) <sup>[403](https://t.me/s/aboutrss/403)</sup>
-*   [pretty-feed-v3 (⭐189)](https://github.com/genmon/aboutfeeds/blob/main/tools/pretty-feed-v3.xsl) <sup>[965](https://t.me/s/aboutrss/965)</sup>
+*   [pretty-feed-v3 (⭐218)](https://github.com/genmon/aboutfeeds/blob/main/tools/pretty-feed-v3.xsl) <sup>[965](https://t.me/s/aboutrss/965)</sup>
 
 ### Retrieve old items from a RSS feed / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 

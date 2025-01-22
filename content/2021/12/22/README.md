@@ -10,13 +10,13 @@
 
 ### Misc
 
-*   [ToolJet (⭐28k)](https://github.com/ToolJet/ToolJet) - Low-code framework for building internal tools.
+*   [ToolJet (⭐33k)](https://github.com/ToolJet/ToolJet) - Low-code framework for building internal tools.
 
 ## [2. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / Data Analysis / Data Visualization
 
-*   [ipychart (⭐105)](https://github.com/nicohlr/ipychart) - The power of Chart.js in Jupyter Notebook.
+*   [ipychart (⭐116)](https://github.com/nicohlr/ipychart) - The power of Chart.js in Jupyter Notebook.
 
 ## [3. Awesome Slack](/content/matiassingers/awesome-slack/README.md)
 
@@ -28,15 +28,15 @@
 
 ### Tools
 
-*   [kics (⭐1.9k)](https://github.com/Checkmarx/kics) - SAST Tool that scans your ansible infrastructure as code playbooks for security vulnverables, compliance issues and misconfigurations.
+*   [kics (⭐2.1k)](https://github.com/Checkmarx/kics) - SAST Tool that scans your ansible infrastructure as code playbooks for security vulnerabilities, compliance issues and misconfigurations.
 
 ## [5. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
-### Plugins and scripts / Godot 3.2+
+### Plugins and scripts / Godot 3
 
-*   [Debanding Material Shader (⭐31)](https://github.com/fractilegames/godot-gles2-debanding-material) - Simple material shader with added debanding noise, for use with the GLES2 renderer as it doesn't support full-screen debanding.
-*   [Dijkstra map for Godot (⭐77)](https://github.com/MatejSloboda/Dijkstra_map_for_Godot) - A GDNative project for Godot game engine, that introduces Dijktra Map pathfinding node.
-*   [Discord.gd (⭐115)](https://github.com/3ddelano/discord.gd) - Discord bot API wrapper. Make bots in 100% GDScript.
+*   [Debanding Material Shader (⭐33)](https://github.com/fractilegames/godot-gles2-debanding-material) - Simple material shader with added debanding noise, for use with the GLES2 renderer as it doesn't support full-screen debanding.
+*   [Dijkstra map for Godot (⭐79)](https://github.com/MatejSloboda/Dijkstra_map_for_Godot) - A GDNative project for Godot game engine, that introduces Dijktra Map pathfinding node.
+*   [Discord.gd (⭐118)](https://github.com/3ddelano/discord.gd) - Discord bot API wrapper. Make bots in 100% GDScript.
 
 ## [6. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
@@ -110,7 +110,7 @@
 
   CORS: Unknown
 
-  Postman: 
+  : 
 
 
 

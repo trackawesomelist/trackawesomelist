@@ -62,7 +62,7 @@
 
 ### Network Tools / Intentionally Vulnerable Systems as Docker Containers
 
-*   [pivotsuite (⭐426)](https://github.com/RedTeamOperations/PivotSuite) - Portable, platform independent and powerful network pivoting toolkit.
+*   [pivotsuite (⭐437)](https://github.com/RedTeamOperations/PivotSuite) - Portable, platform independent and powerful network pivoting toolkit.
 
 ---
 

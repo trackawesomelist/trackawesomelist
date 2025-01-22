@@ -10,9 +10,9 @@
 
 ### Clocks & Studio Screens
 
-*   [OnAirScreen (⭐91)](https://github.com/saschaludwig/OnAirScreen) - Cross-platform "OnAir Lamp" solution targeted for use in professional broadcast environments.
-*   [PiClock (⭐21)](https://github.com/simonhyde/PiClock) - Customisable network based displays of clocks, on-air, mic live and other studio indicators.
-*   [PiRSClock-Full (⭐19)](https://github.com/jdgwarren/pirsclockfull) - Radio Studio Clock with studio indicators for mics, telephones etc.
+*   [OnAirScreen (⭐97)](https://github.com/saschaludwig/OnAirScreen) - Cross-platform "OnAir Lamp" solution targeted for use in professional broadcast environments.
+*   [PiClock (⭐26)](https://github.com/simonhyde/PiClock) - Customisable network based displays of clocks, on-air, mic live and other studio indicators.
+*   [PiRSClock-Full (⭐20)](https://github.com/jdgwarren/pirsclockfull) - Radio Studio Clock with studio indicators for mics, telephones etc.
 
 ## [2. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 

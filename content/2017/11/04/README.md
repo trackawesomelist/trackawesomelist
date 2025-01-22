@@ -70,7 +70,7 @@ Topics: Tooling, Standards, webpack\
 
 ### Apps
 
-*   [Decoupled CMS example with GraphQL and Next.js (⭐29)](https://github.com/janit/decoupled-cms-nextjs-graphql)
+*   [Decoupled CMS example with GraphQL and Next.js (⭐30)](https://github.com/janit/decoupled-cms-nextjs-graphql)
 
 ## [10. Awesome Book Authoring](/content/TalAter/awesome-book-authoring/README.md)
 

@@ -10,7 +10,7 @@
 
 ### Resources / Examples
 
-*   [Laravel + Nuxt.js boilerplate (⭐644)](https://github.com/acidjazz/laranuxt) - by [@acidjazz](https://github.com/acidjazz)
+*   [Laravel + Nuxt.js boilerplate (⭐673)](https://github.com/acidjazz/laranuxt) - by [@acidjazz](https://github.com/acidjazz)
 
 ## [2. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 

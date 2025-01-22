@@ -22,7 +22,7 @@
 
 ### Food
 
-*   [scriptable-recipe (⭐3)](https://github.com/shfrmn/scriptable-recipe) - Random food recipe widget that opens cooking video on YouTube.
+*   [scriptable-recipe (⭐6)](https://github.com/shfrmn/scriptable-recipe) - Random food recipe widget that opens cooking video on YouTube.
 
     <img src="https://user-images.githubusercontent.com/12446468/108283292-f11b9e80-717a-11eb-9a79-8848e5803166.PNG" width="400"/>
 
@@ -30,7 +30,7 @@
 
 ### React Libraries
 
-*   [react-uploady (⭐1k)](https://github.com/rpldy/react-uploady) - Modern file-upload components & hooks for React
+*   [react-uploady (⭐1.1k)](https://github.com/rpldy/react-uploady) - Modern file-upload components & hooks for React
 
 ## [5. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
@@ -42,7 +42,7 @@
 
 ### CSV
 
-*   [Csv::Parser (⭐27)](https://github.com/ashaduri/csv-parser) - Compile-time and runtime CSV parser written in C++17. \[Zlib]
+*   [Csv::Parser (⭐30)](https://github.com/ashaduri/csv-parser) - Compile-time and runtime CSV parser written in C++17. \[Zlib]
 
 ## [7. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 

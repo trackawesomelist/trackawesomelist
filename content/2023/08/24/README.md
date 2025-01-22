@@ -10,31 +10,31 @@
 
 ### Financial
 
-*   [decimal (⭐58)](https://github.com/govalues/decimal) - Immutable decimal numbers with panic-free arithmetic.
-*   [money (⭐19)](https://github.com/govalues/money) - Immutable monetary amounts and exchange rates with panic-free arithmetic.
+*   [decimal (⭐120)](https://github.com/govalues/decimal) - Immutable decimal numbers with panic-free arithmetic.
+*   [money (⭐28)](https://github.com/govalues/money) - Immutable monetary amounts and exchange rates with panic-free arithmetic.
 
 ### Query Language
 
-*   [mql (⭐42)](https://github.com/hashicorp/mql) - Model Query Language (mql) is a query language for your database models.
+*   [mql (⭐49)](https://github.com/hashicorp/mql) - Model Query Language (mql) is a query language for your database models.
 
 ## [2. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / eBPF
 
-*   [aya/aya-rs (⭐3k)](https://github.com/aya-rs/aya) - Built with a focus on developer experience and operability.
-*   [libbpf/libbpf-rs (⭐701)](https://github.com/libbpf/libbpf-rs) - A minimal and opinionated eBPF tooling.
+*   [aya/aya-rs (⭐3.4k)](https://github.com/aya-rs/aya) - Built with a focus on developer experience and operability.
+*   [libbpf/libbpf-rs (⭐801)](https://github.com/libbpf/libbpf-rs) - A minimal and opinionated eBPF tooling.
 
 ## [3. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 
 ### Data Manipulation / Pipelines
 
-*   [Hamilton (⭐1.4k)](https://github.com/DAGWorks-Inc/hamilton) - A microframework for dataframe generation that applies Directed Acyclic Graphs specified by a flow of lazily evaluated Python functions.
+*   [Hamilton (⭐1.8k)](https://github.com/DAGWorks-Inc/hamilton) - A microframework for dataframe generation that applies Directed Acyclic Graphs specified by a flow of lazily evaluated Python functions.
 
 ## [4. Awesome Directus](/content/directus-community/awesome-directus/README.md)
 
 ### Extensions / Community
 
-*   [BlurHash (⭐16)](https://github.com/pixielabs/directus-extension-blurhash/) - A Directus extension that generates blurhashes for uploaded images.
+*   [BlurHash (⭐21)](https://github.com/pixielabs/directus-extension-blurhash/) - A Directus extension that generates blurhashes for uploaded images.
 
 ## [5. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
 
@@ -56,7 +56,7 @@ Topics: Containers, Azure, Kubernetes, Rust, Wasm\
 
 ## [7. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
-### Inbox: Speech-to-text (STT) and spoken content analysis / Deforum
+### Speech-to-text (STT) and spoken content analysis / Deforum
 
 *   [Kombai](https://kombai.com/): generate UI code per component from Figma
 
@@ -72,7 +72,7 @@ Topics: Containers, Azure, Kubernetes, Rust, Wasm\
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [askfiy/visual\_studio\_code (⭐164)](https://github.com/askfiy/visual_studio_code) - A Neovim theme that highly restores vscode, so that your friends will no longer be surprised that you use Neovim, because they will think you are using vscode.
+*   [askfiy/visual\_studio\_code (⭐188)](https://github.com/askfiy/visual_studio_code) - A Neovim theme that highly restores vscode, so that your friends will no longer be surprised that you use Neovim, because they will think you are using vscode.
 
 ---
 

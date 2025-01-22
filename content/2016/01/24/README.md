@@ -22,7 +22,7 @@
 
 ### Go / Erlang
 
-*   [Goa (⭐5.6k)](https://github.com/goadesign/goa) - Design-based HTTP microservices in Go.
+*   [Goa (⭐5.7k)](https://github.com/goadesign/goa) - Design-based HTTP microservices in Go.
 
 ### Ruby / Scala
 
